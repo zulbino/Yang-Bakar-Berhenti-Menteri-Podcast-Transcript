@@ -9,7 +9,7 @@ duration_seconds: 8262
 duration: 2h 17m
 view_count: 120716
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Hazik
 topics:
@@ -17,7 +17,7 @@ topics:
 - Public transport and private transit costs
 - Malaysian political developments (MIC and Perikatan Nasional)
 - Social media trends and viral content
-summary: In this episode, Rafizi Ramli and his co-host discuss various trending and
+summary: In this episode, Rafizi and his co-host discuss various trending and
   social issues, including Hari Raya travel preparations, speculation regarding the
   date of Hari Raya, high prices for private transit services, the political drama
   surrounding MIC's potential entry into Perikatan Nasional, and a viral incident

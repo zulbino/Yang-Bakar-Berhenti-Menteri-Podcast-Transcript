@@ -22,7 +22,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [01:23] Speaker 2: Waalaikumussalam.
 
-[01:23] Speaker 1: Macam biasa bersama saudara Rafizi Ramli yang sihat selepas menempuhi.
+[01:23] Speaker 1: Macam biasa bersama saudara Rafizi yang sihat selepas menempuhi.
 
 [01:30] Speaker 2: Betullah. Aku perasan aku dalam dua tiga minggu kebelakangan ini aku dah terlalu sihat. Sebab tu aku bercakap tak boleh tertunduk dah kena tengok ke atas memang sebab tidak nampak dagu. Bukan maksud saya.
 
@@ -84,7 +84,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [04:55] Speaker 2: Aku bukan baca sangat pun.
 
-[04:58] Speaker 2: Dia kata dia bersimpati dengan apa yang dikenakan kepada saudara Rafizi Ramli dan apa yang YB kena tu.
+[04:58] Speaker 2: Dia kata dia bersimpati dengan apa yang dikenakan kepada saudara Rafizi dan apa yang YB kena tu.
 
 [05:07] Speaker 2: Saya rasa kencing aku tak bersimpati pula.
 
@@ -166,7 +166,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [08:55] Speaker 2: Aku bukan baca sangat pun.
 
-[08:58] Speaker 2: Dia kata dia bersimpati dengan apa yang dikenakan kepada saudara Rafizi Ramli dan apa yang YB kena tu.
+[08:58] Speaker 2: Dia kata dia bersimpati dengan apa yang dikenakan kepada saudara Rafizi dan apa yang YB kena tu.
 
 [09:07] Speaker 2: Saya rasa kencing aku tak bersimpati pula.
 

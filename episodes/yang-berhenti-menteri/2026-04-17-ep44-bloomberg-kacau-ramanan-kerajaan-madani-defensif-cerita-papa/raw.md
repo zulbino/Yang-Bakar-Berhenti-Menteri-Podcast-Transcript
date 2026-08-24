@@ -49,7 +49,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [01:55] Wah, mangsa scam semua bendalah.
 
-[01:58] Follow dan share podcast ni. Kena ingatkan balik untuk follow juga sosial media YB Rafizi Ramli. Dan barulah kita boleh mula YB. Okey. Kita mulakan dengan beria, YB. Kita tengok macam mana prestasi mereka minggu ni.
+[01:58] Follow dan share podcast ni. Kena ingatkan balik untuk follow juga sosial media YB Rafizi. Dan barulah kita boleh mula YB. Okey. Kita mulakan dengan beria, YB. Kita tengok macam mana prestasi mereka minggu ni.
 
 [02:16] Bismillah.
 

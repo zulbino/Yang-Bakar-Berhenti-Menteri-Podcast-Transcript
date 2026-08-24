@@ -9,7 +9,7 @@ duration_seconds: 9667
 duration: 2h 41m
 view_count: 151272
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Interviewer
 topics:
@@ -18,7 +18,7 @@ topics:
 - Political ethics and decorum
 - Dr. Nur Aishah
 - Social media harassment
-summary: Rafizi Ramli discusses the internal processes of selecting election candidates,
+summary: Rafizi discusses the internal processes of selecting election candidates,
   clarifies the origin of the 'Cheploss' rumors involving Anwar Ibrahim, and addresses
   the disrespectful behavior and derogatory language used by a division chief against
   Dr. Nur Aishah.
@@ -32,17 +32,17 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Interviewer:** Can you talk about the criteria for selecting candidates?
 
-**Rafizi Ramli:** It depends on many things—the party contribution, the candidate's standing with the public, and their background. I used to play a big role in this, and I was often the one who had to call the division chiefs to say, "I’m sorry, you won’t be the candidate." So, I understand the whole process regarding the *Watikah* (appointment letter) for Sarawak and other regions. Sometimes, I had to deal with division chiefs who weren't particularly close to the leadership, no matter how active or strong their divisions were.
+**Rafizi:** It depends on many things—the party contribution, the candidate's standing with the public, and their background. I used to play a big role in this, and I was often the one who had to call the division chiefs to say, "I’m sorry, you won’t be the candidate." So, I understand the whole process regarding the *Watikah* (appointment letter) for Sarawak and other regions. Sometimes, I had to deal with division chiefs who weren't particularly close to the leadership, no matter how active or strong their divisions were.
 
 The role of a YB (elected representative) regarding candidates is quite significant. There was this "Cheploss" story circulating, claiming Datuk Seri Anwar held my knee. People didn't believe it; they thought, "The President is the one issuing the *Watikah*, why would he need to hold your knee?" But the election machinery was touring the country, and Datuk Seri Anwar realized, based on the 2018 election record, that I had a role to play. He knew that I was always vocal. If I didn't agree, I would express my views. The problem was, when the media asked me, I didn't know how to spin. I don't know how to lie. If someone asks if I agree or not, and I don't, I say I don't. He was very concerned that my disagreement would affect the entire PKR campaign, so he was anxious about that. That was the story.
 
 **Interviewer:** Understood. Moving on, what about this "Profesor Betina" issue? Is that how he spells "Professor," or is he pretending, or what?
 
-**Rafizi Ramli:** That’s *lorat* (local dialect). It’s a bit rough.
+**Rafizi:** That’s *lorat* (local dialect). It’s a bit rough.
 
 **Interviewer:** Is that right?
 
-**Rafizi Ramli:** I think so, but who knows? He is the Paya Besar division chief and the "Cheploss" ringleader. He's been the most vocal one. I’ve said before that I’ve known him for a long time, but back then, he wasn't this crazy. I don't know—maybe people go crazy once they become part of the government. I just don't understand why he's so obsessed with hurling insults and using crude language. Before we even get to the "profesor betina" label, I don't understand what he actually gains from this. It's not like he’s ever been highly regarded or looked up to by the party leadership; no one has really looked at him that way for a long time. In fact, in the past, I was the only one who really entertained him. The senior party leadership at the center didn't really pay attention to him. He just won his division chief seat recently without a contest. I’m not sure what he hopes to achieve by showing such behavior on social media every day. It’s embarrassing for someone his age, really.
+**Rafizi:** I think so, but who knows? He is the Paya Besar division chief and the "Cheploss" ringleader. He's been the most vocal one. I’ve said before that I’ve known him for a long time, but back then, he wasn't this crazy. I don't know—maybe people go crazy once they become part of the government. I just don't understand why he's so obsessed with hurling insults and using crude language. Before we even get to the "profesor betina" label, I don't understand what he actually gains from this. It's not like he’s ever been highly regarded or looked up to by the party leadership; no one has really looked at him that way for a long time. In fact, in the past, I was the only one who really entertained him. The senior party leadership at the center didn't really pay attention to him. He just won his division chief seat recently without a contest. I’m not sure what he hopes to achieve by showing such behavior on social media every day. It’s embarrassing for someone his age, really.
 
 I previously didn't want to entertain him, but when he insulted Dr. Nur Aishah—that’s who he’s referring to—after she declared she was leaving the party, he crossed the line. He posted content on X and called her a *betina* (a female animal) while sarcastically using the title "profesor." He likely used that title just to demean and belittle her academic status. To call a woman a *betina*—it’s essentially calling her an animal. I believe even an ordinary person shouldn't behave this way, regardless of whether they hold a party position. He’s in his 60s. At that age, you should have manners; *kubur dah panggil* (death is approaching). Even kids wouldn't speak like this. 
 

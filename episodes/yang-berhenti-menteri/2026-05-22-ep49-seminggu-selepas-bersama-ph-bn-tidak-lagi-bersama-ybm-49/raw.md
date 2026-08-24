@@ -14,7 +14,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 # Raw Transcript
 
-[00:43] Speaker 1: Podcast yang 20 episode ke-49 macam biasa dan macam tak biasa bersama YB Rafizi Ramli dan YB Nik Nazmi. Tapi bukan yang dah tak jadi hype YB dah. Tapi yang bersama Oh yang bersama yang bersama yang bersama. Tapi on a serious nya bunyi pelik tapi tak apa. Okey. Saya nak panggil apa lepas lagi? Panggil nama yalah. Abang tak boleh. YB Ah panggil Allah kurni panggil aku Saudara saudara. Saudara. Tak kenal tu Jenny lari panggil saudara. Panggil Raf, panggil Nik. Panggil Raf, panggil Nik. Kalau nampak bunyi macam kasar sikit aku
+[00:43] Speaker 1: Podcast yang 20 episode ke-49 macam biasa dan macam tak biasa bersama YB Rafizi dan YB Nik Nazmi. Tapi bukan yang dah tak jadi hype YB dah. Tapi yang bersama Oh yang bersama yang bersama yang bersama. Tapi on a serious nya bunyi pelik tapi tak apa. Okey. Saya nak panggil apa lepas lagi? Panggil nama yalah. Abang tak boleh. YB Ah panggil Allah kurni panggil aku Saudara saudara. Saudara. Tak kenal tu Jenny lari panggil saudara. Panggil Raf, panggil Nik. Panggil Raf, panggil Nik. Kalau nampak bunyi macam kasar sikit aku
 
 [01:20] hempuk. Ha hempuk terus. So dia macam apa nama ni slang Mandarin, slang Mandarin. Perkataan yang sama dia kena ada lenggok sebutan yang betul. Tajwid dia. Tajwid dia kena betul. Tapi yang paling lama akulah. 2008 tau YB.
 

@@ -13,7 +13,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 # Raw Transcript
 
-[00:44] Host: Podcast Yang Berhenti Menteri, episod ke-60. Macam biasa bersama saudara Rafizi Ramli. Dan yang tak berapa biasa, bersama tetamu khas kita, saudara Sum Dek Joe.
+[00:44] Host: Podcast Yang Berhenti Menteri, episod ke-60. Macam biasa bersama saudara Rafizi. Dan yang tak berapa biasa, bersama tetamu khas kita, saudara Sum Dek Joe.
 
 [00:59] Rafizi: Eh, Sum Dek Joe ke Sam Dek Joe?
 
@@ -363,7 +363,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [43:50] [music/outro]
 
-[44:10] Host: Podcast Yang Bakal Menteri, episod ke-61. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita—eh menteri kesayangan ke, YB? [gelak] Bersama saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Syahredzan Johan, Ahli Parlimen Bangi. Apa khabar, Syah?
+[44:10] Host: Podcast Yang Bakal Menteri, episod ke-61. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita—eh menteri kesayangan ke, YB? [gelak] Bersama saudara Rafizi. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Syahredzan Johan, Ahli Parlimen Bangi. Apa khabar, Syah?
 
 [44:35] Syahredzan: Khabar baik, Haziq. Terima kasih sudi jemput saya ke podcast yang sangat popular ni. Rasa kerdil pula duduk sebelah menteri kita ni. [gelak]
 
@@ -409,7 +409,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [55:55] [music/break]
 
-[56:10] Host: Kembali lagi dalam segmen Hidup Keras bersama Syahredzan Johan dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana nak balance-kan masa antara uruskan kawasan parlimen yang sangat besar dengan masa untuk keluarga dan diri sendiri?" Syah, parlimen Bangi ni adalah parlimen yang terbesar di Malaysia dari segi jumlah pengundi, dekat 300,000 orang pengundi kalau tak silap saya. Macam mana you manage your time, Syah? Adakah you sempat tidur ke setiap hari? [gelak]
+[56:10] Host: Kembali lagi dalam segmen Hidup Keras bersama Syahredzan Johan dan YB Rafizi. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana nak balance-kan masa antara uruskan kawasan parlimen yang sangat besar dengan masa untuk keluarga dan diri sendiri?" Syah, parlimen Bangi ni adalah parlimen yang terbesar di Malaysia dari segi jumlah pengundi, dekat 300,000 orang pengundi kalau tak silap saya. Macam mana you manage your time, Syah? Adakah you sempat tidur ke setiap hari? [gelak]
 
 [56:43] Syahredzan: [gelak] Soalan ni memang hari-hari bini saya tanya juga dekat rumah. [gelak] Sebenarnya, parlimen Bangi ni memang sangat mencabar sebab saiz dia yang sangat besar, and demografi pengundi dia merentasi pelbagai kaum dan status sosioekonomi. Dari kawasan elit macam Country Heights sehinggalah ke kawasan kampung tradisional and perumahan flat kos rendah. Jadi, tuntutan dia tu berbeza-beza setiap hari. Cara saya manage ialah, kita kena ada satu pasukan khidmat dewan yang sangat mantap dan efisien. Kita tak boleh nak buat semua benda sorang-sorang. Kita kena delegasikan tugas kepada pasukan kita, and kita kena guna teknologi untuk manage aduan rakyat. Sekarang ni kita ada sistem aduan digital di Bangi, so rakyat boleh submit aduan online, and pasukan kita boleh terus track and settle-kan aduan tu tanpa saya perlu ada kat situ fizikal setiap masa.
 
@@ -425,7 +425,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [59:30] [music/outro]
 
-[1:00:10] Host: Podcast Yang Bakal Menteri, episod ke-62. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Nik Nazmi Nik Ahmad, Menteri Sumber Asli dan Kelestarian Alam. Apa khabar, Nik?
+[1:00:10] Host: Podcast Yang Bakal Menteri, episod ke-62. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Nik Nazmi Nik Ahmad, Menteri Sumber Asli dan Kelestarian Alam. Apa khabar, Nik?
 
 [1:00:35] Nik Nazmi: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat dewan parlimen—eh kat dewan perwakilan kita hari ni. [gelak]
 
@@ -473,7 +473,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:12:10] [music/break]
 
-[1:12:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Nik Nazmi dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak peribadi sikit untuk Nik, iaitu "Macam mana you manage your mental health and stress level bila hari-hari kena hadapi kecaman and tekanan kerja sebagai seorang menteri kabinet?" Nik, you ni antara menteri yang paling muda juga dalam kabinet, and portfolio you ni hari-hari kena hadapi isu kontroversi macam tarif elektrik, isu alam sekitar, pencemaran sungai. Mesti penat and stress kan?
+[1:12:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Nik Nazmi dan YB Rafizi. Hari ni kita nak borak pasal satu perkara yang agak peribadi sikit untuk Nik, iaitu "Macam mana you manage your mental health and stress level bila hari-hari kena hadapi kecaman and tekanan kerja sebagai seorang menteri kabinet?" Nik, you ni antara menteri yang paling muda juga dalam kabinet, and portfolio you ni hari-hari kena hadapi isu kontroversi macam tarif elektrik, isu alam sekitar, pencemaran sungai. Mesti penat and stress kan?
 
 [1:12:55] Nik Nazmi: [gelak] Sebenarnya, kalau kata tak stress tu menipulah. Kerja menteri ni memang high stress environment sebab kita kena make decisions yang memberi kesan kepada jutaan orang setiap hari, and like I said, everything is under public scrutiny. Dari isu tarif elektrik sehinggalah kepada isu haiwan liar masuk kampung, semuanya orang cari kementerian saya. [gelak] Cara saya manage stress ialah, first, kita kena terima hakikat yang dalam politik ni, kita takkan mampu nak puaskan hati semua orang. Lambat-laun kita kena buat keputusan yang sukar demi kepentingan jangka panjang negara, walaupun keputusan tu tak popular masa tu.
 
@@ -489,7 +489,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:15:28] [music/outro]
 
-[1:16:10] Host: Podcast Yang Bakal Menteri, episod ke-63. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Chang Lih Kang, Menteri Sains, Teknologi dan Inovasi. Apa khabar, Lih Kang?
+[1:16:10] Host: Podcast Yang Bakal Menteri, episod ke-63. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Chang Lih Kang, Menteri Sains, Teknologi dan Inovasi. Apa khabar, Lih Kang?
 
 [1:16:35] Chang Lih Kang: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat dewan parlimen—eh kat dewan perwakilan kita hari ni. [gelak]
 
@@ -529,7 +529,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:25:10] [music/break]
 
-[1:25:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Chang Lih Kang dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your relationship and communication dengan ahli-ahli politik daripada pelbagai parti dalam kerajaan perpaduan sekarang ni, terutamanya bila ada perbezaan pendapat and pendekatan?" Lih Kang, you ni antara pimpinan tertinggi dalam PKR, and dalam masa yang sama you kena bekerjasama rapat dengan menteri-menteri daripada BN, GPS, and GRS. Mesti mencabar kan?
+[1:25:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Chang Lih Kang dan YB Rafizi. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your relationship and communication dengan ahli-ahli politik daripada pelbagai parti dalam kerajaan perpaduan sekarang ni, terutamanya bila ada perbezaan pendapat and pendekatan?" Lih Kang, you ni antara pimpinan tertinggi dalam PKR, and dalam masa yang sama you kena bekerjasama rapat dengan menteri-menteri daripada BN, GPS, and GRS. Mesti mencabar kan?
 
 [1:25:55] Chang Lih Kang: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan awkward lah, yelah, sebab selama ni kita berpuluh tahun berlawan and kritik satu sama lain dari luar dewan. Tapi bila kita dah duduk sekali, kita mula sedar yang kebanyakan daripada kita sebenarnya berkongsi matlamat yang sama, iaitu nak buat yang terbaik untuk negara and selesaikan masalah rakyat. Beza dia cuma dari segi pendekatan and prioriti sahaja.
 
@@ -545,7 +545,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:28:00] [music/outro]
 
-[1:28:40] Host: Podcast Yang Bakal Menteri, episod ke-64. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Steven Sim, Menteri Sumber Manusia. Apa khabar, Steven?
+[1:28:40] Host: Podcast Yang Bakal Menteri, episod ke-64. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Steven Sim, Menteri Sumber Manusia. Apa khabar, Steven?
 
 [1:29:05] Steven Sim: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat sini, tak payah pening-pening kepala sangat pasal dewan parlimen. [gelak]
 
@@ -591,7 +591,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:38:10] [music/break]
 
-[1:38:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Steven Sim dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your relationship and communication dengan kesatuan-kesatuan sekerja (unions) kat Malaysia, terutamanya bila ada perbezaan pendapat and pendekatan?" Steven, you ni Menteri Sumber Manusia, and dalam masa yang sama you kena bekerjasama rapat dengan kesatuan sekerja macam MTUC, MEF, and pelbagai kesatuan sekerja yang lain. Mesti mencabar kan?
+[1:38:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Steven Sim dan YB Rafizi. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your relationship and communication dengan kesatuan-kesatuan sekerja (unions) kat Malaysia, terutamanya bila ada perbezaan pendapat and pendekatan?" Steven, you ni Menteri Sumber Manusia, and dalam masa yang sama you kena bekerjasama rapat dengan kesatuan sekerja macam MTUC, MEF, and pelbagai kesatuan sekerja yang lain. Mesti mencabar kan?
 
 [1:38:55] Steven Sim: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan mencabar lah, yelah, sebab selama ni kita tahu ada perbezaan pendapat and pendekatan antara kesatuan sekerja dengan majikan. Tapi bila kita dah duduk sekali, kita mula sedar yang kebanyakan daripada kita sebenarnya berkongsi matlamat yang sama, iaitu nak pastikan pekerja kita mendapat hak and upah yang adil, and pada masa yang sama memastikan kelangsungan and kemampanan industri.
 
@@ -607,7 +607,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:41:00] [music/outro]
 
-[1:41:40] Host: Podcast Yang Bakal Menteri, episod ke-65. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Armizan Ali, Menteri Perdagangan Dalam Negeri dan Kos Sara Living—eh Kos Sara Hidup. Apa khabar, Armizan?
+[1:41:40] Host: Podcast Yang Bakal Menteri, episod ke-65. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Armizan Ali, Menteri Perdagangan Dalam Negeri dan Kos Sara Living—eh Kos Sara Hidup. Apa khabar, Armizan?
 
 [1:42:05] Armizan Ali: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat sini, tak payah pening-pening dewan parlimen sangat. [gelak]
 
@@ -653,7 +653,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:50:30] [music/break]
 
-[1:50:45] Host: Kembali lagi dalam segmen Hidup Keras bersama Armizan Ali dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your relationship and communication dengan persatuan-persatuan pengguna (consumer associations) kat Malaysia, terutamanya bila ada perbezaan pendapat and pendekatan?" Armizan, you ni Menteri Perdagangan Dalam Negeri, and dalam masa yang sama you kena bekerjasama rapat dengan persatuan pengguna macam FOMCA, CAP, and pelbagai persatuan pengguna yang lain. Mesti mencabar kan?
+[1:50:45] Host: Kembali lagi dalam segmen Hidup Keras bersama Armizan Ali dan YB Rafizi. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your relationship and communication dengan persatuan-persatuan pengguna (consumer associations) kat Malaysia, terutamanya bila ada perbezaan pendapat and pendekatan?" Armizan, you ni Menteri Perdagangan Dalam Negeri, and dalam masa yang sama you kena bekerjasama rapat dengan persatuan pengguna macam FOMCA, CAP, and pelbagai persatuan pengguna yang lain. Mesti mencabar kan?
 
 [1:51:15] Armizan Ali: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan mencabar lah, yelah, sebab selama ni kita tahu ada perbezaan pendapat and pendekatan antara persatuan pengguna dengan pihak industri. Tapi bila kita dah duduk sekali, kita mula sedar yang kebanyakan daripada kita sebenarnya berkongsi matlamat yang sama, iaitu nak pastikan pengguna kita mendapat hak and harga yang adil, and pada masa yang sama memastikan kelangsungan and kemampanan industri.
 
@@ -671,7 +671,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:52:58] [music/outro]
 
-[1:53:00] Host: Podcast Yang Bakal Menteri, episod ke-66. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Fahmi Fadzil, Menteri Komunikasi. Apa khabar, Fahmi?
+[1:53:00] Host: Podcast Yang Bakal Menteri, episod ke-66. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Fahmi Fadzil, Menteri Komunikasi. Apa khabar, Fahmi?
 
 [1:53:25] Fahmi Fadzil: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat sini, tak payah pening-pening dewan parlimen sangat. [gelak]
 
@@ -715,7 +715,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:01:40] [music/break]
 
-[2:01:55] Host: Kembali lagi dalam segmen Hidup Keras bersama Fahmi Fadzil dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your relationship and communication dengan media, terutamanya bila ada perbezaan pendapat and pendekatan tentang isu-isu kebebasan media?" Fahmi, you ni Menteri Komunikasi, and dalam masa yang sama you jurucakap kerajaan. Hari-hari kena berdepan dengan soalan-soalan panas daripada wartawan. Mesti mencabar kan?
+[2:01:55] Host: Kembali lagi dalam segmen Hidup Keras bersama Fahmi Fadzil dan YB Rafizi. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your relationship and communication dengan media, terutamanya bila ada perbezaan pendapat and pendekatan tentang isu-isu kebebasan media?" Fahmi, you ni Menteri Komunikasi, and dalam masa yang sama you jurucakap kerajaan. Hari-hari kena berdepan dengan soalan-soalan panas daripada wartawan. Mesti mencabar kan?
 
 [2:02:25] Fahmi Fadzil: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan mencabar lah, yelah, sebab sebagai bekas pengamal seni and orang yang lama dalam bidang komunikasi, saya sangat faham kepentingan kebebasan media. Tapi bila kita dah duduk dalam kerajaan, kita mula sedar yang kita kena bekerjasama rapat dengan media untuk pastikan maklumat yang betul sampai kepada rakyat, and pada masa yang sama memastikan keselamatan and kestabilan negara terpelihara daripada penyebaran fitnah and berita palsu.
 
@@ -731,7 +731,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:04:30] [music/outro]
 
-[2:08:00] Host: Podcast Yang Bakal Menteri, episod ke-67. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudari Fadhlina Sidek, Menteri Pendidikan. Apa khabar, Fadhlina?
+[2:08:00] Host: Podcast Yang Bakal Menteri, episod ke-67. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudari Fadhlina Sidek, Menteri Pendidikan. Apa khabar, Fadhlina?
 
 [2:08:25] Fadhlina Sidek: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat sini, tak payah pening-pening dewan parlimen sangat. [gelak]
 
@@ -777,7 +777,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:17:10] [music/break]
 
-[2:17:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Fadhlina Sidek dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your roles as a female minister, a mother of young children, and an MP for Nibong Tebal, terutamanya bila ada tuntutan kerja yang sangat luar biasa setiap hari?" Fadhlina, you ni antara menteri wanita yang sangat menonjol dalam kabinet, and portfolio you ni antara yang terbesar di Malaysia. Mesti mencabar kan?
+[2:17:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Fadhlina Sidek dan YB Rafizi. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your roles as a female minister, a mother of young children, and an MP for Nibong Tebal, terutamanya bila ada tuntutan kerja yang sangat luar biasa setiap hari?" Fadhlina, you ni antara menteri wanita yang sangat menonjol dalam kabinet, and portfolio you ni antara yang terbesar di Malaysia. Mesti mencabar kan?
 
 [2:17:55] Fadhlina Sidek: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan mencabar lah, yelah, sebab sebagai ibu, tuntutan keluarga tu sentiasa menjadi prioriti utama saya. Tapi bila kita dah diberi amanah sebagai menteri, kita kena bekerjasama rapat dengan semua pihak untuk pastikan tugasan rasmi and kebajikan rakyat di Nibong Tebal sentiasa diutamakan.
 
@@ -793,7 +793,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:19:58] [music/outro]
 
-[2:23:00] Host: Podcast Yang Bakal Menteri, episod ke-68. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudari Hannah Yeoh, Menteri Belia dan Sukan. Apa khabar, Hannah?
+[2:23:00] Host: Podcast Yang Bakal Menteri, episod ke-68. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudari Hannah Yeoh, Menteri Belia dan Sukan. Apa khabar, Hannah?
 
 [2:23:25] Hannah Yeoh: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat sini, tak payah pening-pening dewan parlimen sangat. [gelak]
 
@@ -839,7 +839,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:32:10] [music/break]
 
-[2:32:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Hannah Yeoh dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your roles as a female minister, a mother, and an MP for Segambut, terutamanya bila ada tuntutan kerja yang sangat luar biasa setiap hari?" Hannah, you ni antara menteri wanita yang sangat aktif, and portfolio you ni memerlukan you selalu turun padang berjumpa dengan pelbagai lapisan belia and peminat sukan. Mesti penat kan?
+[2:32:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Hannah Yeoh dan YB Rafizi. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your roles as a female minister, a mother, and an MP for Segambut, terutamanya bila ada tuntutan kerja yang sangat luar biasa setiap hari?" Hannah, you ni antara menteri wanita yang sangat aktif, and portfolio you ni memerlukan you selalu turun padang berjumpa dengan pelbagai lapisan belia and peminat sukan. Mesti penat kan?
 
 [2:32:55] Hannah Yeoh: [gelak] Sebenarnya, penat tu memanglah penat, tapi bagi saya, ia adalah satu kepuasan bila kita nampak inisiatif yang kita buat tu memberi impak positif kepada anak muda and peminat sukan. Cara saya manage ialah, kita kena amalkan disiplin masa yang sangat ketat and delegasi tugas yang efisien. Di Segambut, saya ada satu pasukan khidmat dewan yang sangat membantu and komited, so apa-apa isu tempatan tu dia orang boleh terus bertindak. Dan di kementerian pula, kita ada pegawai-pegawai yang sangat berdedikasi. Dan yang paling penting, di rumah, saya ada sistem sokongan (support system) daripada keluarga yang sangat memahami. Jadi, tanpa sokongan keluarga, memang mustahil saya boleh buat semua kerja ni secara serentak.
 
@@ -853,7 +853,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:34:58] [music/outro]
 
-[2:38:00] Host: Podcast Yang Bakal Menteri, episod ke-69. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudari Dr. Zaliha Mustafa, Menteri di Jabatan Perdana Menteri (Wilayah Persekutuan). Apa khabar, Dr. Zaliha?
+[2:38:00] Host: Podcast Yang Bakal Menteri, episod ke-69. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudari Dr. Zaliha Mustafa, Menteri di Jabatan Perdana Menteri (Wilayah Persekutuan). Apa khabar, Dr. Zaliha?
 
 [2:38:25] Dr. Zaliha: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat sini, tak payah pening-pening dewan parlimen sangat. [gelak]
 
@@ -899,7 +899,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:47:10] [music/break]
 
-[2:47:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Dr. Zaliha Mustafa dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your roles as a female minister, a doctor, and an MP, terutamanya bila ada tuntutan kerja yang sangat luar biasa setiap hari?" Dr. Zaliha, you ni antara menteri wanita yang sangat komited, and portfolio you ni memerlukan you selalu turun padang berjumpa dengan pelbagai lapisan warga kota and pemegang taruh. Mesti mencabar kan?
+[2:47:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Dr. Zaliha Mustafa dan YB Rafizi. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your roles as a female minister, a doctor, and an MP, terutamanya bila ada tuntutan kerja yang sangat luar biasa setiap hari?" Dr. Zaliha, you ni antara menteri wanita yang sangat komited, and portfolio you ni memerlukan you selalu turun padang berjumpa dengan pelbagai lapisan warga kota and pemegang taruh. Mesti mencabar kan?
 
 [2:47:55] Dr. Zaliha: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan mencabar lah, yelah, sebab sebagai doktor, cara berfikir saya lebih kepada diagnosis and intervensi yang saintifik. Tapi bila kita dah duduk dalam politik, kita mula sedar yang kita kena bekerjasama dengan semua pihak untuk pastikan maklumat yang betul sampai kepada rakyat, and pada masa yang sama memastikan keselamatan and kestabilan negara terpelihara.
 
@@ -915,7 +915,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:49:58] [music/outro]
 
-[2:53:00] Host: Podcast Yang Bakal Menteri, episod ke-70. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Wong Chen, Ahli Parlimen Subang. Apa khabar, Wong Chen?
+[2:53:00] Host: Podcast Yang Bakal Menteri, episod ke-70. Kembali lagi bersama saya Haziq, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi. Dan minggu ni kita ada seorang lagi tetamu yang sangat istimewa, iaitu saudara Wong Chen, Ahli Parlimen Subang. Apa khabar, Wong Chen?
 
 [2:53:25] Wong Chen: Khabar baik, Haziq. Terima kasih sudi jemput saya. Seronok dapat borak dengan Rafizi kat dewan parlimen—eh kat dewan perwakilan kita hari ni. [gelak]
 
@@ -961,7 +961,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [3:02:10] [music/break]
 
-[3:02:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Wong Chen dan YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your roles as a backbencher, a financial analyst, and an MP for Subang, terutamanya bila ada tuntutan kerja yang sangat luar biasa setiap hari?" Wong Chen, you ni antara backbencher yang sangat aktif, and portfolio you ni memerlukan you selalu turun padang berjumpa dengan pelbagai lapisan rakyat and pemegang taruh. Mesti mencabar kan?
+[3:02:25] Host: Kembali lagi dalam segmen Hidup Keras bersama Wong Chen dan YB Rafizi. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana you manage your roles as a backbencher, a financial analyst, and an MP for Subang, terutamanya bila ada tuntutan kerja yang sangat luar biasa setiap hari?" Wong Chen, you ni antara backbencher yang sangat aktif, and portfolio you ni memerlukan you selalu turun padang berjumpa dengan pelbagai lapisan rakyat and pemegang taruh. Mesti mencabar kan?
 
 [3:02:55] Wong Chen: [gelak] Sebenarnya, pada peringkat awal tu memang ada sedikit perasaan mencabar lah, yelah, sebab sebagai backbencher, kita kena bekerjasama dengan semua pihak untuk pastikan dasar-dasar kerajaan dipantau secara ketat and telus, and pada masa yang sama memastikan kebajikan and kebajikan mental rakyat di Subang sentiasa diutamakan.
 
@@ -977,7 +977,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [3:04:58] [music/outro]
 
-[3:08:00] Host: Podcast Yang Bakal Menteri, episod ke-71. Wah, tak sangka kita dah sampai ke episod ke-71, YB. Ini adalah satu pencapaian yang sangat luar biasa untuk kita, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi Ramli. Dan minggu ni kita ada sesi perbincangan khas, iaitu sesi wrap-up and refleksi mengenai prestasi kerajaan perpaduan sepanjang tahun ni. Apa khabar, YB?
+[3:08:00] Host: Podcast Yang Bakal Menteri, episod ke-71. Wah, tak sangka kita dah sampai ke episod ke-71, YB. Ini adalah satu pencapaian yang sangat luar biasa untuk kita, dan sudah tentunya bersama menteri kesayangan kita, saudara Rafizi. Dan minggu ni kita ada sesi perbincangan khas, iaitu sesi wrap-up and refleksi mengenai prestasi kerajaan perpaduan sepanjang tahun ni. Apa khabar, YB?
 
 [3:08:25] Rafizi: Khabar baik, Haziq. Pejam celik pejam celik, dah lebih 70 episod kita bersiaran ya. Rasa macam baru semalam kita start buat podcast ni kat bilik biasa-biasa, sekarang kita dah borak panjang lebar pasal macam-macam dasar negara. Terima kasih kepada semua pendengar setia kita yang sentiasa memberi sokongan and maklum balas.
 
@@ -1021,13 +1021,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [3:17:10] [music/break]
 
-[3:17:25] Host: Kembali lagi dalam segmen Hidup Keras bersama YB Rafizi Ramli. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana YB manage stress and keep motivated bila hari-hari kena hadapi cabaran and tekanan kerja yang sangat luar biasa setiap hari sebagai seorang Menteri Ekonomi?" YB, portfolio YB ni antara yang terbesar di Malaysia, and hari-hari kena hadapi isu kontroversi macam targeted subsidies, prestasi ringgit, and KDNK. Mesti penat kan?
+[3:17:25] Host: Kembali lagi dalam segmen Hidup Keras bersama YB Rafizi. Hari ni kita nak borak pasal satu perkara yang agak menarik, iaitu "Macam mana YB manage stress and keep motivated bila hari-hari kena hadapi cabaran and tekanan kerja yang sangat luar biasa setiap hari sebagai seorang Menteri Ekonomi?" YB, portfolio YB ni antara yang terbesar di Malaysia, and hari-hari kena hadapi isu kontroversi macam targeted subsidies, prestasi ringgit, and KDNK. Mesti penat kan?
 
 [3:17:55] Rafizi: [gelak] Sebenarnya, penat tu memanglah penat, tapi bagi saya, ia adalah satu kepuasan bila kita nampak inisiatif yang kita buat tu memberi impak positif kepada ekonomi negara and kebajikan rakyat. Cara saya manage ialah, kita kena amalkan disiplin masa yang sangat ketat and delegasi tugas yang efisien. Di Pandan, saya ada satu pasukan khidmat dewan yang sangat membantu and komited, so apa-apa isu tempatan tu dia orang boleh terus bertindak. Dan di kementerian pula, kita ada pegawai-pegawai yang sangat berdedikasi. Dan yang paling penting, di rumah, saya ada sistem sokongan (support system) daripada keluarga yang sangat memahami. Jadi, tanpa sokongan keluarga, memang mustahil saya boleh buat semua kerja ni secara serentak.
 
 [3:18:20] Host: Betul, saya setuju sangat dengan YB. Kunci dia ialah sistem sokongan yang kuat and disiplin masa yang ketat. Sebab dalam politik ni, tiada istilah rehat. Tanggungjawab kita adalah 24 jam sehari, 7 hari seminggu. Dan saya rasa rakyat pun dah mula nampak dedikasi and kualiti kerja menteri-menteri kita yang sangat cemerlang dalam memacu dasar and pelaksanaan inisiatif-inisiatif pembangunan negara.
 
-[3:18:40] Host: All right, itu saja untuk episod kali ini. Terima kasih kepada saudara Rafizi Ramli kerana sudi hadir ke podcast kita hari ni. Semoga terus sukses memacu ekonomi negara, YB.
+[3:18:40] Host: All right, itu saja untuk episod kali ini. Terima kasih kepada saudara Rafizi kerana sudi hadir ke podcast kita hari ni. Semoga terus sukses memacu ekonomi negara, YB.
 
 [3:18:50] Rafizi: Terima kasih Haziq. Pembangunan ekonomi ni pemacu masa depan, kita buat yang terbaik.
 

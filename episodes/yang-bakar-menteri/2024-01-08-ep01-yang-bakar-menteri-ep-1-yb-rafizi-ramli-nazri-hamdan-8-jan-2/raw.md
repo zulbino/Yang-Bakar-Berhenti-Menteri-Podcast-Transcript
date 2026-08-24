@@ -19,7 +19,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [02:37] Rafizi: Tak kelakar.
 
-[02:39] Najib: Jadi macam macam YB letak di poster sosial media kan? Nama Rafizi Ramli dan Nazri Hamdan. Tiba-tiba siapa mamat seorang ni kan? Tak, saya bertugas malam ni sebagai moderator lah. Lebih kurang macam tulah. Apa khabar YB?
+[02:39] Najib: Jadi macam macam YB letak di poster sosial media kan? Nama Rafizi dan Nazri Hamdan. Tiba-tiba siapa mamat seorang ni kan? Tak, saya bertugas malam ni sebagai moderator lah. Lebih kurang macam tulah. Apa khabar YB?
 
 [02:54] Rafizi: Penatlah, pukul 8:00 penat malam dah.
 
@@ -39,7 +39,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [03:08] Nazri: Tak ada program lain. Tadi siang dan malam ni saya ke sinilah.
 
-[03:14] Najib: Okey okey okey. Alright. Jadi kita malam ni kita panggil Nazri ni sebab yalah dah nama pun program Yang Bakar Menteri. Kita sebenarnya minta Nazri ni nak bakar YB Rafizi Ramli lah. Ada juga yang komen di sosial media YB. Dia kata, "Alah panggil geng-geng dia juga kan? Bakar mende? Ni borak aje." Tak tak sebenarnya. Bila saya perhati content saudara Nazri eh YB eh, ada juga dia bersifat kritikal terhadap kerajaan. Jadi kita nak dia suarakan kritikal tu malam nilah, macam mana. Jadi okey, kita start malam ini saya nak bawa tanya YB dulu dengan saudara Nazri berkaitan hutang negara. Okey. Hutang negara bila kita tahu politician lah YB eh, sebelum pilihan raya ni dia selalu sebut yalah selalu jadi kempen politik lah. Hutang negara macam ni macam tu, banyak ni macam tu. Jadi YB ada perasan perbezaan tak bila di luar kerajaan dan bila masuk adakah situasi tu gambaran yang sama ke ataupun macam mana?
+[03:14] Najib: Okey okey okey. Alright. Jadi kita malam ni kita panggil Nazri ni sebab yalah dah nama pun program Yang Bakar Menteri. Kita sebenarnya minta Nazri ni nak bakar YB Rafizi lah. Ada juga yang komen di sosial media YB. Dia kata, "Alah panggil geng-geng dia juga kan? Bakar mende? Ni borak aje." Tak tak sebenarnya. Bila saya perhati content saudara Nazri eh YB eh, ada juga dia bersifat kritikal terhadap kerajaan. Jadi kita nak dia suarakan kritikal tu malam nilah, macam mana. Jadi okey, kita start malam ini saya nak bawa tanya YB dulu dengan saudara Nazri berkaitan hutang negara. Okey. Hutang negara bila kita tahu politician lah YB eh, sebelum pilihan raya ni dia selalu sebut yalah selalu jadi kempen politik lah. Hutang negara macam ni macam tu, banyak ni macam tu. Jadi YB ada perasan perbezaan tak bila di luar kerajaan dan bila masuk adakah situasi tu gambaran yang sama ke ataupun macam mana?
 
 [04:20] Rafizi: Salam tak bagi, tanya tak bagi, terus tanya soalan.
 

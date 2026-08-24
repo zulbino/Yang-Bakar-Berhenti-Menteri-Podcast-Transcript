@@ -9,7 +9,7 @@ duration_seconds: 5931
 duration: 1h 38m
 view_count: 102632
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Moderator
 guests:
 - Prof. Emeritus Dr. Barjoyai Bardai
@@ -24,7 +24,7 @@ topics:
 - Civil Service Bureaucracy and Risk-Taking
 - Gig Economy and E-Hailing Regulation
 - PADU Database and Aging Population Planning
-summary: In this episode of the 'Yang Bakar Menteri' podcast, host Rafizi Ramli and
+summary: In this episode of the 'Yang Bakar Menteri' podcast, host Rafizi and
   the moderator converse with economic expert Prof. Emeritus Dr. Barjoyai Bardai.
   The discussion centers on restructuring Malaysia's economy, focusing on shifting
   from bulk to targeted subsidies, the implementation of a progressive wage policy,
@@ -52,7 +52,7 @@ Before we begin, YB, we have a special guest for this episode, namely Prof. Emer
 
 First, I want to start with a broader topic. Now, I am listening to the term Libertarian Economy. It is said that in Malaysia, we are heading towards a Libertarian Economy. Basically, a Libertarian Economy means a free-enterprise, market-based system. And because of that, we become ashamed to provide subsidies to households. In other words, we have to abolish subsidies at one point. So, is this our direction for the future?
 
-**Rafizi Ramli:** Oh, he's not giving me a chance! Hahaha.
+**Rafizi:** Oh, he's not giving me a chance! Hahaha.
 
 I'm not sure how many people really understand "libertarian." An economy that is fair to an extreme, where doing business is done to the point that it produces inefficiencies. But at the same time, the government must also have a baseline to focus on the groups that need support.
 
@@ -64,7 +64,7 @@ But on the issue of subsidies as well, if bulk subsidies go to *the group that a
 
 **Prof. Emeritus Dr. Barjoyai Bardai:** Okay, now slightly related to that. If, for example, our goal is household happiness, it must take into account *the household*. When we have numbers like GDP or per capita income, it doesn't make sense to them. Today, for example, our economy is rising. We are in an economic cycle where the economy is rising, and we expect that until 2025 or maybe 2026, we will still rise. But the households below say, "Whatever they are talking about, we don't feel it." They say the economy is rising, but they are suffering. So, how do we rationalize that?
 
-**Rafizi Ramli:** That is why, *between my focus and the ministry from the beginning*, I understand that with all the *noise*, *especially the political noise*, it is not easy to see the focus and clarity in what we are trying to do. Our focus is on household income and wages. It is not easy.
+**Rafizi:** That is why, *between my focus and the ministry from the beginning*, I understand that with all the *noise*, *especially the political noise*, it is not easy to see the focus and clarity in what we are trying to do. Our focus is on household income and wages. It is not easy.
 
 It's precisely on that basis, Prof. For us, for example, *based on our trajectory*, like Prof said, *we will be given the condition to grow on average 4% per year. Then the ringgit is around 4.50 in 2 to 3 years. By 2027 or 2028, we will be a high-income country.* We will be considered a developed country. But the disparity in society is important. That's one of the things I did at the beginning—whether the public understands it or not—is to put a focus on quarterly wage statistics. Because when we look at quarterly wage statistics, you can see, when we contextualize it, the country can grow by 5% GDP, but the fact is 50% of our formal workers are paid below RM2,600.
 
@@ -82,7 +82,7 @@ Though, lately... after this, the moderator really won't have a function anymore
 
 **Prof. Emeritus Dr. Barjoyai Bardai:** If GDP increases but the *share of income by industry* declines from 37% to 32%, when we look at heavy figures like this, we feel as if we are being exploited by industry. But actually, if we look at specific industries, some are increasing and some are declining, like construction. So this is the issue. Now, the question for households is that they don't understand this aspect. Why aren't their wages going up?
 
-**Rafizi Ramli:** Yes, that's right. I once managed a company with you, Prof. Managing a company, although the concept is the same, which is we want to *push the value*, is much easier because we focus on what is right in front of us. In this country and economy, as Prof said, *there are many sectors and many different and unique groups with their own problems.*
+**Rafizi:** Yes, that's right. I once managed a company with you, Prof. Managing a company, although the concept is the same, which is we want to *push the value*, is much easier because we focus on what is right in front of us. In this country and economy, as Prof said, *there are many sectors and many different and unique groups with their own problems.*
 
 So let's take productivity. It is true that if we look at the overall productivity of the country, it is increasing. But if we translate it to the makeup composition of our economy, then we will be quite alarmed. For example, 97% of our enterprises are small, medium, and micro enterprises (MSMEs). Only 2% of companies are big. But these big companies basically drive about 50% plus of the GDP, and the number of employees they employ is slightly higher than all SMEs or non-formal companies.
 
@@ -94,7 +94,7 @@ So, they are the ones who actually have the ability to make automation investmen
 
 Actually, we are somewhat left behind. If we look around the world today, they have already started thinking about a *universal wage*—a basic wage specific to everyone. This has been introduced in Canada, and across Europe it will be a standard for the European Union. So we may need to look at that too, alongside what YB mentioned earlier about social protection. We can do it together because we want to make sure—there are several countries where, when *universal wage* was introduced, poverty dropped by up to 30%. What is your view on *universal wage*?
 
-**Rafizi Ramli:** *Universal wage* is Universal Basic Income. Yes, that's right. If we had the means, Prof, I think we would go for it straight away. The problem is, we also have to accept that our fiscal position is quite severe in terms of deficit.
+**Rafizi:** *Universal wage* is Universal Basic Income. Yes, that's right. If we had the means, Prof, I think we would go for it straight away. The problem is, we also have to accept that our fiscal position is quite severe in terms of deficit.
 
 We have to make a choice. For example, *is it sustainable* for us to continue going into debt to pay bulk subsidies and at the same time give a *basic wage*? We could become popular for a short while, *but it's not sustainable*. In fact, my concern is that if we continue straight on that basis, we may even destroy the economy because we do not push the right sectors to reach a certain productivity level for them to be competitive in the future.
 
@@ -122,7 +122,7 @@ I want to give an example of what happened in Norway with their *oil fund*. When
 
 We are not too late to start. We still have Petronas which is worth nearly RM800 billion, we have Khazanah, PNB, and many more. 40% of listed companies in Malaysia are government-owned. Why don't we move it to an endowment fund like a Waqf Fund? Then it is managed professionally like EPF. EPF *is doing very well*. The returns will then be used to fund *social protection* programs. So we do not touch its principal, *and because of that, it will become sustainable for the long term.* YB, what about the waqf economy?
 
-**Rafizi Ramli:** Yes, if we look at the example of the large listed companies, they are already owned by the people. PNB's capital is funded by unit trusts owned by ordinary citizens. Likewise, CIMB, Tenaga, and EPF are owned by the people through their contributions.
+**Rafizi:** Yes, if we look at the example of the large listed companies, they are already owned by the people. PNB's capital is funded by unit trusts owned by ordinary citizens. Likewise, CIMB, Tenaga, and EPF are owned by the people through their contributions.
 
 I think there are two groups of large companies that are not directly owned by the people in that manner. One is Petronas, which is state-owned, and the other is Khazanah. Petronas actually already contributes to an *endowment fund*, which is the National Trust Fund (KWAN). KWAN was never touched until the COVID-19 period.
 
@@ -146,7 +146,7 @@ We need to change direction. If we compare Singapore with Hong Kong, Singapore p
 
 Currently, 70% of our workforce has no qualifications, so they are considered low-skilled or *semi-skilled*. Their skills need to be upgraded. We can use the *Progressive Wage* as a *carrot*. We say, "Okay, if you want an annual wage increase, you must undergo this training and upgrade your skills." It's conditional on employee upskilling.
 
-**Rafizi Ramli:** Alhamdulillah, *that's good*. If I can add a little bit to what Prof mentioned earlier, *the split between FDI and domestic direct investment (DDI) was actually higher 10 years ago or in the 90s*. The percentage of DDI was much higher in the past than it is now.
+**Rafizi:** Alhamdulillah, *that's good*. If I can add a little bit to what Prof mentioned earlier, *the split between FDI and domestic direct investment (DDI) was actually higher 10 years ago or in the 90s*. The percentage of DDI was much higher in the past than it is now.
 
 When there is FDI, DDI will come along. Our challenge now is to *pivot* our economy. I agree we cannot rely entirely on FDI. The survival of our economic competitiveness depends heavily on our ability to *unlock* this DDI so that it generates higher-income jobs.
 
@@ -158,13 +158,13 @@ FDI might come in at RM3 billion to RM4 billion in a high-tech sector like a *da
 
 **Moderator:** This means that now we want to leverage local labor through the modern agriculture sector. We *utilize more labor*, but those who are a bit more *skilled-up*?
 
-**Rafizi Ramli:** This is the *balance* that we have to make. We are talking about *high-growth, high-value sectors*, and it is true we need technology to *push the economy*. But we cannot forget that *job creation* for such sectors is smaller than before. That is why we cannot run away from sectors that have a *spillover effect* and more sustainable *job creation* for the people.
+**Rafizi:** This is the *balance* that we have to make. We are talking about *high-growth, high-value sectors*, and it is true we need technology to *push the economy*. But we cannot forget that *job creation* for such sectors is smaller than before. That is why we cannot run away from sectors that have a *spillover effect* and more sustainable *job creation* for the people.
 
 That is why when people criticize me saying there is no big plan, I don't mind taking a slightly longer route as long as we focus on things that make a real difference. If a RM50 billion project ends up using all foreign workers, how much *job creation* actually reaches the people? That is *artificial*. Although this modern agriculture initiative is not very *sexy* and has no giant announcements, it builds *job creation* at the right wage level.
 
 **Prof. Emeritus Dr. Barjoyai Bardai:** With this approach of yours, YB, how long will it take before the people can feel the effect of this real *job creation*?
 
-**Rafizi Ramli:** This is where perhaps Prof thinks I am a *libertarian*, right? Hahaha.
+**Rafizi:** This is where perhaps Prof thinks I am a *libertarian*, right? Hahaha.
 
 I don't think the government's job is to provide everything—it's not sustainable. But the government's job is to give focus, policy signaling, and create the impetus for something good to happen. For the poor, we provide *social protection*. For *job creation* and industry, it is important to provide infrastructure and initial investment to reduce feasibility risks (*feasibility*).
 
@@ -182,7 +182,7 @@ Say there are 200,000 acres, we invite 2 million young people to contribute RM2,
 
 In Selangor itself, there are still 120,000 hectares of plantations. A developed state like Selangor should not have plantations of that size anymore; it should be converted into these modern agriculture projects. I am also looking forward to the *rendering machine* that will be installed at UiTM as an interesting model. All of this can be done through *crowdfunding*.
 
-**Rafizi Ramli:** I have some *reservations*, Prof. In Boustead's case, the situation is quite unique because they have to pay off their debts. If we take the *crowdfunding* model for the public to participate, I'm not sure if we can achieve it.
+**Rafizi:** I have some *reservations*, Prof. In Boustead's case, the situation is quite unique because they have to pay off their debts. If we take the *crowdfunding* model for the public to participate, I'm not sure if we can achieve it.
 
 But I understand the concept—which is to involve more people so that they have *skin in the game* and commitment, rather than getting everything for free.
 
@@ -196,15 +196,15 @@ So far, the IPR pilot projects prove that it is *viable*. We set a monthly incom
 
 It is *doable* because we control the business risk—from land clearing, modern infrastructure investment, up to having a guaranteed buyer (*off-taker*). When we can prove it on a certain scale, only then will the public believe it can be done. We will certainly continue...
 
-**Rafizi Ramli:** Yes, the criticism that it is too slow, *I'm trying my best to get it*. That's why I was the one who applied to participate in this IPR [Inisiatif Pendapatan Rakyat].
+**Rafizi:** Yes, the criticism that it is too slow, *I'm trying my best to get it*. That's why I was the one who applied to participate in this IPR [Inisiatif Pendapatan Rakyat].
 
 **Host:** Now, give us a quick *update* YB, how is this IPR doing? Is it well-received?
 
-**Rafizi Ramli:** The response is good. There are tens of thousands of people waiting.
+**Rafizi:** The response is good. There are tens of thousands of people waiting.
 
 **Host:** Does everyone get it?
 
-**Rafizi Ramli:** Not everyone gets it because it depends on the land. So for each site, the *size* is between—if in the Peninsula—between 10 to 20 hectares for about 20 to 40 recipients. Those waiting number in the tens of thousands. But even to get 10 to 20 hectares, we break a sweat trying to find 20 hectares of government land. If in Sabah and Sarawak, it is easier. Sabah, for example, one of its sites can reach up to 200 hectares and so on, right. *But, you know, we will continue to* go look for land *because* to open an IPR site, we have to go meet with the department that owns the land. So we look—like near Hospital Bahagia, Tanjung Rambutan, a big hospital, they have land that isn't doing anything. So we really have to go knock on doors and say we want to take it, we want to borrow that land.
+**Rafizi:** Not everyone gets it because it depends on the land. So for each site, the *size* is between—if in the Peninsula—between 10 to 20 hectares for about 20 to 40 recipients. Those waiting number in the tens of thousands. But even to get 10 to 20 hectares, we break a sweat trying to find 20 hectares of government land. If in Sabah and Sarawak, it is easier. Sabah, for example, one of its sites can reach up to 200 hectares and so on, right. *But, you know, we will continue to* go look for land *because* to open an IPR site, we have to go meet with the department that owns the land. So we look—like near Hospital Bahagia, Tanjung Rambutan, a big hospital, they have land that isn't doing anything. So we really have to go knock on doors and say we want to take it, we want to borrow that land.
 
 *So, I previously thought that one direction would be done. It doesn't work like that. Even though we have said all this, you have to go down and ask. And the team at the Ministry of Economy that is working on this internally, there are at least 5 to 6 people, so we have to be fair to them as well. The problem is in terms of expectations of how it can go. But at least the business case* has been proven. It can happen.
 
@@ -216,7 +216,7 @@ It is *doable* because we control the business risk—from land clearing, modern
 
 **Professor:** *As long as they work, they feel they will get enough salary. So, if we compare with what is in Thailand, we can see that the people of Thailand are soft and respectful. That's interesting.* I went to Indonesia, to Singapore, and to Batam. Batam actually has been developed well. Previously, the area was quite neglected, but now *it's full of beautiful houses and beautiful restaurants. Now people are shopping there, and the shopping experience is different from other places.* So why is it interesting? *Because they are the ones who are welcoming and engaging with the tourists. We in Langkawi, our tourism workers are not engaging enough. We have to be angry with the people of Langkawi.* That's all. If you agree with this comment of mine, I say it is indeed justified that we get scolded.
 
-**Rafizi Ramli:** *It's hard to answer. How about training? I think the customer service needs to be better, so maybe we can tackle it as training. We don't have the exact data to explain why, but I think the view that the Prof gave is repeated by many of us.*
+**Rafizi:** *It's hard to answer. How about training? I think the customer service needs to be better, so maybe we can tackle it as training. We don't have the exact data to explain why, but I think the view that the Prof gave is repeated by many of us.*
 
 One issue is that it is expensive. *Because if I ask the kids who go to Hat Yai, they actually think that if they have RM400 to RM500, they can cover two nights, travel, and everything else. Then they go to eat, the price is lower, the sellers smile, and so on. The situation in Langkawi is more expensive, and the price is definitely higher than RM400 for two nights.* So the price factor and other factors make it less attractive.
 
@@ -240,7 +240,7 @@ Because if we look at a company, *board of directors, they have meetings and dec
 
 So it means we need to make it clear that implementation work is the job of civil servants. If the civil servants are efficient, doing it with integrity and honesty, I believe no corruption will occur. Because corruption, *okay*, it might come from above, from politics, but if the civil servants do not agree, it will not proceed. *So now in Malaysia, my problem is that our implementation is too dependent on the politicians to move things forward. That may be an issue, and that needs to be resolved first if we want to see smooth implementation.*
 
-**Rafizi Ramli:** That is a comment that if passed to me, if I say the wrong thing, I will definitely get slammed. A trap question, indeed! But I feel my *comment* on this is *as a reflection* after 14 months of serving in the government alongside other civil servants.
+**Rafizi:** That is a comment that if passed to me, if I say the wrong thing, I will definitely get slammed. A trap question, indeed! But I feel my *comment* on this is *as a reflection* after 14 months of serving in the government alongside other civil servants.
 
 One *problem*, *I think, is that if we look at the private sector, where the board of directors makes a decision, approves the budget, and then the CEO and the executive run it, that works. Or if we have a presidential system, it's different. The problem in our system is we can't easily replace people. In the private sector, if you don't meet your target, you get a new CEO or GM. The public sector is a bit difficult because the political executive comes and goes, but the civil service continues to run.*
 
@@ -258,7 +258,7 @@ So I think changing that slowly, bit by bit, and simplifying processes will help
 
 **Host:** That's why YB is now the minister who gets the most flak!
 
-**Rafizi Ramli:** It's okay. Any publicity is still publicity, even if it's negative. It's okay if people want to be upset, but at least people are talking about it. In fact, that's the added value I believe I can bring to the government: risk-taking. Of course, some people, maybe other politicians, are not comfortable with this, saying, "This will cause us to lose the election." Okay, but that is not my focus. I believe we should not be afraid of taking hits. Once we show that courage, it gives confidence to our teams in the ministries to take action.
+**Rafizi:** It's okay. Any publicity is still publicity, even if it's negative. It's okay if people want to be upset, but at least people are talking about it. In fact, that's the added value I believe I can bring to the government: risk-taking. Of course, some people, maybe other politicians, are not comfortable with this, saying, "This will cause us to lose the election." Okay, but that is not my focus. I believe we should not be afraid of taking hits. Once we show that courage, it gives confidence to our teams in the ministries to take action.
 
 **Host:** I want to ask about a hot issue right now, which is the gig economy. I feel there is a big problem in this sector now.
 
@@ -278,7 +278,7 @@ This will all create new added value for P-hailers so that they do not have to r
 
 **Host:** Is the government looking into this?
 
-**Rafizi Ramli:** For this one, I have to elaborate further. My view is that when we talk about the gig economy, as the Professor said earlier, there are many categories. If the gig economy refers to high-value freelancers, for example, programmers (coders) or creative artists, that is not a problem because supply and demand are competitive.
+**Rafizi:** For this one, I have to elaborate further. My view is that when we talk about the gig economy, as the Professor said earlier, there are many categories. If the gig economy refers to high-value freelancers, for example, programmers (coders) or creative artists, that is not a problem because supply and demand are competitive.
 
 Specifically in Malaysia, when we talk about the gig economy, it is more about p-hailing and e-hailing. And there are two or three perspectives on this where I often get criticized. First, in principle, I think the gig economy through e-hailing is good because it provides the flexibility to supplement income. Because you can do something else. Previously, when I had a startup, some of my employees earned over RM3,000 and worked until 5 p.m. At night, they did deliveries to earn extra income. So the concept is good, the purpose is good, but it always has unintended consequences.
 
@@ -298,7 +298,7 @@ That is why my view is constantly criticized, because I do not think the solutio
 
 **Host:** One of the solutions I see that the government wants to do is through merger laws. I heard MyCC is looking into this to avoid companies becoming too dominant.
 
-**Rafizi Ramli:** It is not just an e-hailing issue; it is actually natural for technology companies. In order to be financially viable, they have to be dominant. That is why we see the tech giants of the world—Google, Microsoft, Amazon, Apple, right. By nature, they have to cannibalize and kill each other to become dominant. They need to capture their audience first before they cut subsidies. But before that, they will subsidize. When we first used Grab or platforms like this, we got used to them and felt they were integrated into our lives; they have made a big investment for that. So now, they need to claw back those returns.
+**Rafizi:** It is not just an e-hailing issue; it is actually natural for technology companies. In order to be financially viable, they have to be dominant. That is why we see the tech giants of the world—Google, Microsoft, Amazon, Apple, right. By nature, they have to cannibalize and kill each other to become dominant. They need to capture their audience first before they cut subsidies. But before that, they will subsidize. When we first used Grab or platforms like this, we got used to them and felt they were integrated into our lives; they have made a big investment for that. So now, they need to claw back those returns.
 
 So even if we have anti-monopoly or anti-competition laws, and one of the ways is by regulating mergers, you know it is not easy. It creates a moral hazard. For example, hypothetically—I can't mention company names or else I'll get sued—Company A wants to acquire Company B, and they have agreed on a certain price. But MyCC says, "No, this is anti-competitive." But the problem is, there is no other buyer for Company B. If there is no other buyer, Company B will fold. Thus, thousands of workers will have to be laid off.
 
@@ -312,7 +312,7 @@ That is why, I think, by nature, as much as possible we want more competition. A
 
 **Professor:** Thank God, I feel we have many friends who are providing feedback. But regarding PADU previously, I saw many complaining because they do not see what will be produced by PADU other than the distribution of targeted subsidies. They are suspicious that if they fill out the form, whereas they used to get aid before, they might be delisted after this. So, that is what requires more promotion to ensure that in the long run, everyone will benefit. My older friends said, "We are already about to die, why do we need to fill this out too?" I told them, "We are moving towards a new nation." What if we don't die in the near future? We cannot pretend we are already dead when we are still alive. So, robust promotion is indeed highly needed.
 
-**Rafizi Ramli:** Yes, it is exactly like what the Professor said. The responsibility of the government is to foresee issues before they hit the ground. You have to be able to anticipate what is coming. One major challenge we will face is becoming an aging nation. Those who are watching may not fully understand what an aging nation implies.
+**Rafizi:** Yes, it is exactly like what the Professor said. The responsibility of the government is to foresee issues before they hit the ground. You have to be able to anticipate what is coming. One major challenge we will face is becoming an aging nation. Those who are watching may not fully understand what an aging nation implies.
 
 What this means is that a country's population profile will go through a certain demographic process. Initially, a country has more productive working-class individuals who can generate revenue and pay taxes. So, national income increases, and that income is what is used to care for vulnerable groups.
 
@@ -330,7 +330,7 @@ Registering in PADU is not only for targeted subsidies but also to build the fou
 
 **Host:** Okay guys, thank you very much. Thank you YB, and thank you also Professor for this sharing. But surely viewers on social media will say this episode wasn't "fiery" enough or wasn't hot enough.
 
-**Rafizi Ramli:** No, I think over time, I hope that whoever listens—no matter how many they are—will understand that we are not actually here to really fight, but we want to have an intellectual discussion. It is important to raise our society's understanding of the economy. In the past, people thought the economy was a difficult subject, but actually it is not; it is about our daily lives. Yes, indeed there are various differing views. The more we do this, even if some people find it boring, if this knowledge reaches even ten people, that is already enough. The higher the level of understanding, the better people understand where we are as a country.
+**Rafizi:** No, I think over time, I hope that whoever listens—no matter how many they are—will understand that we are not actually here to really fight, but we want to have an intellectual discussion. It is important to raise our society's understanding of the economy. In the past, people thought the economy was a difficult subject, but actually it is not; it is about our daily lives. Yes, indeed there are various differing views. The more we do this, even if some people find it boring, if this knowledge reaches even ten people, that is already enough. The higher the level of understanding, the better people understand where we are as a country.
 
 So, thank you Professor for being willing to be our "super sub" today. We searched and searched, and finally it was the Professor who was willing to show up. Those who were aggressively firing up social media before this, none of them wanted to come when invited. So, if anyone wants to be angry at me or the Professor because the discussion was less "fiery," well, this is as hot as a constructive policy discussion can get.
 

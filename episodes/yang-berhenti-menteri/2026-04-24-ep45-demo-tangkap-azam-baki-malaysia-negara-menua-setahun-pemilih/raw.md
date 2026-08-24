@@ -15,7 +15,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [Music]
 
-[00:44] Assalamualaikum dan salam sejahtera. Podcast Yang Berhormat Menteri episod ke-45. Macam biasa, bersama saya dan saudara Rafizi Ramli.
+[00:44] Assalamualaikum dan salam sejahtera. Podcast Yang Berhormat Menteri episod ke-45. Macam biasa, bersama saya dan saudara Rafizi.
 
 [00:53] Waalaikumussalam, salam sejahtera. Esok demo.
 

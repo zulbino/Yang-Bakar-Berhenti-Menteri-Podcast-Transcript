@@ -8,7 +8,7 @@ duration_seconds: 9371
 duration: 2h 36m
 view_count: 108490
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Mike
 guests:
 - Faizal
@@ -19,7 +19,7 @@ topics:
 - Political landscape in Sabah
 - Ethics in political campaigning
 - Political credibility and government formation claims
-summary: In this episode of 'Yang Berhormat Menteri', Rafizi Ramli and his co-hosts
+summary: In this episode of 'Yang Berhormat Menteri', Rafizi and his co-hosts
   discuss a collection of trending social media topics and viral incidents. They analyze
   cases ranging from social media etiquette and airport security hoaxes to the complexities
   of political campaigning in Sabah and the credibility issues surrounding political
@@ -33,11 +33,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Speaker 1:** Peace be upon you and greetings. Welcome to the 25th episode of the *Yang Berhormat Menteri* podcast. This episode is quite special, YB (Honourable Minister), because usually it’s just the two of us.
 
-**Rafizi Ramli:** Oh.
+**Rafizi:** Oh.
 
 **Speaker 1:** Why is it special? What makes it special? It’s special because there are two more people here. So YB, you probably didn't expect this, I suppose.
 
-**Rafizi Ramli:** Ah, well, I’ll just sit here quietly.
+**Rafizi:** Ah, well, I’ll just sit here quietly.
 
 **Speaker 1:** So this time, we have brother Faizal with us again. How are you, brother?
 
@@ -163,7 +163,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Speaker 1:** So, you've passed the baton now, eh?
 
-**Rafizi Ramli:** Yeah, Allahuakbar. I don't understand it either.
+**Rafizi:** Yeah, Allahuakbar. I don't understand it either.
 
 **Speaker 1:** Well, was Razif there when he did that?
 
@@ -173,7 +173,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Speaker 4:** Maybe his, as usual.
 
-**Rafizi Ramli:** No, it’s him as well. Well, politicians are dangerous because the risk applies to everyone, including myself, right? That’s why we must be careful, always remember not to sit in our own bubble, right. So I can't... I don't know why he said that, but one big possibility is when you sit among your own people, hold a press conference among your own people. So he seemed to want to encourage his own people, and one way to do that is to taunt the others. So maybe that's it.
+**Rafizi:** No, it’s him as well. Well, politicians are dangerous because the risk applies to everyone, including myself, right? That’s why we must be careful, always remember not to sit in our own bubble, right. So I can't... I don't know why he said that, but one big possibility is when you sit among your own people, hold a press conference among your own people. So he seemed to want to encourage his own people, and one way to do that is to taunt the others. So maybe that's it.
 
 **Speaker 1:** YB Fuziah, does it feel like by saying "we have the numbers," it's not like PAS, saying we have the numbers but can't form a government? This is having the numbers and being able to form a government, but with only one seat.
 

@@ -9,7 +9,7 @@ duration_seconds: 11048
 duration: 3h 4m
 view_count: 176680
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Speaker 2
 topics:
@@ -18,7 +18,7 @@ topics:
 - Social media management in the Prime Minister's office
 - Political accountability
 - Hari Raya experiences
-summary: In this episode, Rafizi Ramli and the co-host discuss various political issues,
+summary: In this episode, Rafizi and the co-host discuss various political issues,
   including the identity of 'Mr. R' involved in a corruption scandal, the limitations
   of political parties in initiating legal action against critics under Malaysian
   law, and the social media conduct of the Prime Minister's office regarding endorsements

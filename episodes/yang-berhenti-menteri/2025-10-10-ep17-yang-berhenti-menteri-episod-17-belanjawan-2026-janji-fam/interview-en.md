@@ -8,7 +8,7 @@ duration_seconds: 7903
 duration: 2h 11m
 view_count: 32539
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests: []
 topics:
 - National Budget and Fiscal Outlook
@@ -18,7 +18,7 @@ topics:
 - Artificial Intelligence (AI) and Data Verification
 - Johor-Singapore Special Economic Zone (JS-SEZ)
 - Social Enterprise Initiatives (Kesum and FlexiMart)
-summary: In this episode of the 'Yang Berhenti Menteri' podcast, Rafizi Ramli shares
+summary: In this episode of the 'Yang Berhenti Menteri' podcast, Rafizi shares
   a critical macro-level analysis of the newly announced Malaysian budget, expressing
   concerns over the country's high national debt ceiling, rising debt service charges,
   and cuts to development expenditure. He also discusses current political issues,
@@ -34,169 +34,169 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Host:** Welcome to "Yang Berhenti Menteri" episode 17, a special episode tonight. I will just go ahead even though we started a bit early. YB... YB...
 
-**Rafizi Ramli:** We haven't even started and I'm already getting fired...
+**Rafizi:** We haven't even started and I'm already getting fired...
 
 **Host:** I'm sorry.
 
-**Rafizi Ramli:** It's a good thing I don't pay your salary, otherwise I would have deducted it every month...
+**Rafizi:** It's a good thing I don't pay your salary, otherwise I would have deducted it every month...
 
 **Host:** Yes, I'm actually an intern. An intern director.
 
-**Rafizi Ramli:** Even interns get paid, you're worse than an intern.
+**Rafizi:** Even interns get paid, you're worse than an intern.
 
 **Host:** YB, did you just get back from Parliament?
 
-**Rafizi Ramli:** Yes, Parliament just ended.
+**Rafizi:** Yes, Parliament just ended.
 
 **Host:** No jogging today?
 
-**Rafizi Ramli:** No, no jogging today.
+**Rafizi:** No, no jogging today.
 
-**Host:** Okay, alright YB. To the viewers who just joined, please *like*, *share*, and *subscribe* to Saudara Rafizi Ramli's page and YouTube channel, as well as on other social media. We also have a QR *code* this time, YB. While previously we collected questions beforehand, now viewers can ask questions live by scanning this QR *code* next to me. This QR *code* will be displayed throughout the broadcast. *Alright* YB, let's move on to our usual segments, but we will try to keep them short so that we can give more room to discuss the Budget. Alright, let's go to this link. The QR *code* will be placed on the side of the screen. As usual, let's look at the "pretentious" people of the week in the Beri Emat segment. The first one, do you see it, YB?
+**Host:** Okay, alright YB. To the viewers who just joined, please *like*, *share*, and *subscribe* to Saudara Rafizi's page and YouTube channel, as well as on other social media. We also have a QR *code* this time, YB. While previously we collected questions beforehand, now viewers can ask questions live by scanning this QR *code* next to me. This QR *code* will be displayed throughout the broadcast. *Alright* YB, let's move on to our usual segments, but we will try to keep them short so that we can give more room to discuss the Budget. Alright, let's go to this link. The QR *code* will be placed on the side of the screen. As usual, let's look at the "pretentious" people of the week in the Beri Emat segment. The first one, do you see it, YB?
 
-**Rafizi Ramli:** Okay, I haven't been following this development. This is the first time I'm seeing it.
+**Rafizi:** Okay, I haven't been following this development. This is the first time I'm seeing it.
 
 **Host:** This is the Fashion Valet case. Oh wait, Prima Valet, silly me.
 
-**Rafizi Ramli:** You could get sued for making a mistake like that. But, well, that is their right under the law and everyone has their rights. If we look at this, such matters in court really depend on the court's discretion. I think netizens shouldn't be too cruel either. Compared to politicians who have CBT [criminal breach of trust] cases or face various other charges, *I think give them a chance lah*, as long as they follow the rules and the court's orders, I don't want to interfere.
+**Rafizi:** You could get sued for making a mistake like that. But, well, that is their right under the law and everyone has their rights. If we look at this, such matters in court really depend on the court's discretion. I think netizens shouldn't be too cruel either. Compared to politicians who have CBT [criminal breach of trust] cases or face various other charges, *I think give them a chance lah*, as long as they follow the rules and the court's orders, I don't want to interfere.
 
 **Host:** Alright. Interesting, YB.
 
-**Rafizi Ramli:** Are you unhappy with this fair decision or what?
+**Rafizi:** Are you unhappy with this fair decision or what?
 
 **Host:** No, I'm fine with it.
 
-**Rafizi Ramli:** This one... I haven't really followed this issue either.
+**Rafizi:** This one... I haven't really followed this issue either.
 
 **Host:** You don't recognize them, YB?
 
-**Rafizi Ramli:** I do recognize him, seeing him shaking his head and bugging his eyes out, I get it. But I don't understand what the issue is.
+**Rafizi:** I do recognize him, seeing him shaking his head and bugging his eyes out, I get it. But I don't understand what the issue is.
 
 **Host:** I think many politicians were also there to welcome him that night.
 
-**Rafizi Ramli:** Oh. But even before anything has started, it seems netizens are already unhappy.
+**Rafizi:** Oh. But even before anything has started, it seems netizens are already unhappy.
 
 **Host:** Yes, that's right.
 
-**Rafizi Ramli:** That's fine, if he wants to show support, isn't that not wrong? I'll defend him on that. As long as he doesn't overdo it, that's enough. Usually, I myself don't jump on the bandwagon of things that are outside my expertise to avoid issues like this. Politicians have to be careful. Sometimes we like to show our faces. When something is trending, we want to ride that wave. This is a reminder to all politicians because people are always watching us. If we are suddenly seen grinning there without any clear connection to an issue close to our hearts or one we have championed for a long time, people will question it. That is why some other politicians dislike my approach. Some say I am hard to approach, some say I am *judgmental* of others. But that is the reality, and in the end, it's up to the netizens. Besides, most politicians don't even read netizens' comments anyway, so they don't care what people say.
+**Rafizi:** That's fine, if he wants to show support, isn't that not wrong? I'll defend him on that. As long as he doesn't overdo it, that's enough. Usually, I myself don't jump on the bandwagon of things that are outside my expertise to avoid issues like this. Politicians have to be careful. Sometimes we like to show our faces. When something is trending, we want to ride that wave. This is a reminder to all politicians because people are always watching us. If we are suddenly seen grinning there without any clear connection to an issue close to our hearts or one we have championed for a long time, people will question it. That is why some other politicians dislike my approach. Some say I am hard to approach, some say I am *judgmental* of others. But that is the reality, and in the end, it's up to the netizens. Besides, most politicians don't even read netizens' comments anyway, so they don't care what people say.
 
 **Host:** But do you yourself read or scroll through the comment section?
 
-**Rafizi Ramli:** I do scroll through comments. Not because I care too much about what people say, but as politicians, we must have a stance. Surely there are stances of ours that people like, and some they don't. If you want to always be popular, be an entertainer, don't be a politician. However, those comments provide insights to help us understand the perspectives of different societal groups. So, I do read and look closely at those comments.
+**Rafizi:** I do scroll through comments. Not because I care too much about what people say, but as politicians, we must have a stance. Surely there are stances of ours that people like, and some they don't. If you want to always be popular, be an entertainer, don't be a politician. However, those comments provide insights to help us understand the perspectives of different societal groups. So, I do read and look closely at those comments.
 
 **Host:** Okay, alright YB. That was only the second case.
 
-**Rafizi Ramli:** You guys made a *loop* of that video over and over, showing him walking out of the door, then slowly coming back in.
+**Rafizi:** You guys made a *loop* of that video over and over, showing him walking out of the door, then slowly coming back in.
 
 **Host:** Let's move on to the next issue, YB. Otherwise, we'll get tired of watching it. Okay.
 
-**Rafizi Ramli:** Ha...
+**Rafizi:** Ha...
 
 **Host:** This one is about a statement.
 
-**Rafizi Ramli:** Okay. Never mind, let's just wait until he becomes the Foreign Minister.
+**Rafizi:** Okay. Never mind, let's just wait until he becomes the Foreign Minister.
 
 **Host:** Oh, wow.
 
-**Rafizi Ramli:** I'm just afraid he might want to invite Netanyahu next. Perhaps that statement made sense in his own logic to counter a brief reply from the government. Previously, the government explained that Trump was invited so that we could face him and convey our stance directly. In Wan Ahmad Fayhsal's logic, if that is the case, wouldn't it be better to speak directly to Netanyahu? That kind of personal logic might be acceptable and rationalized in his own head. But to the public, it looks quite childish. It's like those old schoolboy clips of shouting "your mom is green" during school fights; one calls someone else's dad a devil, the other replies with the same, and in the end, we all know each other through such insults. This action is like throwing stones over trivial things. Not that the Palestinian issue is small, but the argument that if we invite Trump, we also have to invite Netanyahu, is an absurdity that shouldn't even cross the minds of Malaysians in general. But this is Wan Ahmad Fayhsal, and besides, he even wanted to change the name of the Rafflesia. So, it's not surprising.
+**Rafizi:** I'm just afraid he might want to invite Netanyahu next. Perhaps that statement made sense in his own logic to counter a brief reply from the government. Previously, the government explained that Trump was invited so that we could face him and convey our stance directly. In Wan Ahmad Fayhsal's logic, if that is the case, wouldn't it be better to speak directly to Netanyahu? That kind of personal logic might be acceptable and rationalized in his own head. But to the public, it looks quite childish. It's like those old schoolboy clips of shouting "your mom is green" during school fights; one calls someone else's dad a devil, the other replies with the same, and in the end, we all know each other through such insults. This action is like throwing stones over trivial things. Not that the Palestinian issue is small, but the argument that if we invite Trump, we also have to invite Netanyahu, is an absurdity that shouldn't even cross the minds of Malaysians in general. But this is Wan Ahmad Fayhsal, and besides, he even wanted to change the name of the Rafflesia. So, it's not surprising.
 
 **Host:** Okay, alright YB. Let's look at the last one. There is one last one.
 
-**Rafizi Ramli:** Mm.
+**Rafizi:** Mm.
 
 **Host:** The Kampung Sungai Baru issue is still endless, YB.
 
-**Rafizi Ramli:** Oh, a report from Harakah. Shahidan Kassim's statement saying that if he were still the Federal Territories Minister, this definitely would not have happened. Of course it wouldn't have happened, because there would be nobody going around instigating. Some of those who are actively riding on this issue have turned it into a partisan issue. It is indirectly translated to mean that under a PH government or if there is DAP involvement, Malays will be evicted from urban areas. This kind of sentiment is being fanned by PAS and the opposition as well. So, maybe that is what Shahidan meant.
+**Rafizi:** Oh, a report from Harakah. Shahidan Kassim's statement saying that if he were still the Federal Territories Minister, this definitely would not have happened. Of course it wouldn't have happened, because there would be nobody going around instigating. Some of those who are actively riding on this issue have turned it into a partisan issue. It is indirectly translated to mean that under a PH government or if there is DAP involvement, Malays will be evicted from urban areas. This kind of sentiment is being fanned by PAS and the opposition as well. So, maybe that is what Shahidan meant.
 
 **Host:** Okay, alright YB. Do you want to do a rating for this segment, or is it not necessary?
 
-**Rafizi Ramli:** Let's skip the rating this week.
+**Rafizi:** Let's skip the rating this week.
 
 **Host:** We'll give the ratings a rest this week.
 
-**Rafizi Ramli:** I think it's better if we just focus on the budget later.
+**Rafizi:** I think it's better if we just focus on the budget later.
 
 **Host:** Okay YB, let's move on to the next segment. I want to slip in just one issue first. I feel I need to ask for your permission, YB, because I want to ask directly. On Twitter, many are claiming that no politician wants to comment on this issue, whether from the government or the opposition.
 
-**Rafizi Ramli:** Really? Isn't everyone commenting on it?
+**Rafizi:** Really? Isn't everyone commenting on it?
 
 **Host:** Except among politicians themselves.
 
-**Rafizi Ramli:** Really? Plenty has been discussed in Parliament.
+**Rafizi:** Really? Plenty has been discussed in Parliament.
 
 **Host:** I mean, to touch on it sensitively and deeply because it involves certain individuals, making others not want to look for trouble. So, are you okay to comment on it, YB?
 
-**Rafizi Ramli:** It's fine, since you've already brought up this issue here, I can't very well refuse to answer.
+**Rafizi:** It's fine, since you've already brought up this issue here, I can't very well refuse to answer.
 
 **Host:** I mean...
 
-**Rafizi Ramli:** In any case, I'll "kick" you later, after this broadcast.
+**Rafizi:** In any case, I'll "kick" you later, after this broadcast.
 
 **Host:** Okay. Since people say this issue is sensitive, I don't have a specific question. I'll just ask you directly, YB, how do you, as a politician, respond to this [football player naturalization] issue?
 
-**Rafizi Ramli:** Yes, I think initially most of us gave them the benefit of the doubt when this issue first arose because we didn't have detailed information. Of course, the public has differing views on two separate matters here. First is the strategy of using imported players (not locally born) to represent Malaysia. There are *pros and cons* to this, depending on one's perspective. Some feel that bringing import players into Malaysia can elevate the quality of our teams and clubs so that they not only function commercially and become more *sustainable*, but are also able to compete at the regional level. Another view argues that if the local football arena is seen as too dominated by non-Malaysian players, it will overshadow and stifle local talent. These are the arguments I usually hear from both sides. I am not an expert in this field, so that is purely a matter of football. That is why in the early stages when this FIFA issue arose, I didn't comment much because I didn't know and it wasn't an area I observed deeply.
+**Rafizi:** Yes, I think initially most of us gave them the benefit of the doubt when this issue first arose because we didn't have detailed information. Of course, the public has differing views on two separate matters here. First is the strategy of using imported players (not locally born) to represent Malaysia. There are *pros and cons* to this, depending on one's perspective. Some feel that bringing import players into Malaysia can elevate the quality of our teams and clubs so that they not only function commercially and become more *sustainable*, but are also able to compete at the regional level. Another view argues that if the local football arena is seen as too dominated by non-Malaysian players, it will overshadow and stifle local talent. These are the arguments I usually hear from both sides. I am not an expert in this field, so that is purely a matter of football. That is why in the early stages when this FIFA issue arose, I didn't comment much because I didn't know and it wasn't an area I observed deeply.
 
 However, this second matter relates to the issue of citizenship. The issue of citizenship is not just about the players themselves, but about the process of how that citizenship is granted, which eventually started involving the government. When the Minister of Home Affairs, Datuk Seri Saifuddin Nasution, gave his reply, the summary of it was that he had exercised his power and rights under the law after the committee and other processes were satisfied that the individuals in question were eligible to be granted citizenship. *Now, that is a public issue.*
 
 **Host:** Mm.
 
-**Rafizi Ramli:** *More than anything else, that is a public issue.* Even then, I didn't comment initially. However, when FIFA released evidence and arguments showing that they had tracked the birth documents, and there was proof that *the grandparents* were not born in Malaysia, but were instead registered in the Netherlands and other places, it started to raise several serious questions. First, it raised questions about how the process was conducted at the ministry level. Second, this matter embarrasses the country. So, whatever answer is given by the government, I think the majority of our people still feel disgusted because this is embarrassing to Malaysia. Third, and perhaps with a greater impact, many will feel aggrieved; for example, those whose mothers are non-citizens and have had to wait for decades and still find it extremely difficult to obtain citizenship. So, why didn't Datuk Seri Saifuddin use his rights and power to ease the path of those who have been queueing for decades, just as it was eased for this case? Stemming from an issue specific to the football arena, it has now turned into a government problem once FIFA revealed such evidence. In my view...
+**Rafizi:** *More than anything else, that is a public issue.* Even then, I didn't comment initially. However, when FIFA released evidence and arguments showing that they had tracked the birth documents, and there was proof that *the grandparents* were not born in Malaysia, but were instead registered in the Netherlands and other places, it started to raise several serious questions. First, it raised questions about how the process was conducted at the ministry level. Second, this matter embarrasses the country. So, whatever answer is given by the government, I think the majority of our people still feel disgusted because this is embarrassing to Malaysia. Third, and perhaps with a greater impact, many will feel aggrieved; for example, those whose mothers are non-citizens and have had to wait for decades and still find it extremely difficult to obtain citizenship. So, why didn't Datuk Seri Saifuddin use his rights and power to ease the path of those who have been queueing for decades, just as it was eased for this case? Stemming from an issue specific to the football arena, it has now turned into a government problem once FIFA revealed such evidence. In my view...
 
 **Host:** Mmm.
 
-**Rafizi Ramli:** Perhaps it is better for the government not to comment or defend this anymore, *just move on*. It is very difficult to defend this action unless there is genuinely solid evidence showing they were born here.
+**Rafizi:** Perhaps it is better for the government not to comment or defend this anymore, *just move on*. It is very difficult to defend this action unless there is genuinely solid evidence showing they were born here.
 
 **Host:** True, true.
 
-**Rafizi Ramli:** If we simply argue based on the documents submitted to us—regardless of whether FAM gave the excuse of uploading the wrong documents or whatever—and we are satisfied and issue our own birth certificates to verify it, that is something very difficult to defend. Therefore, I feel that when Saifuddin gave such a reply, it only added to public anger, and this matter will eventually become *a source of ridicule*, especially among netizens.
+**Rafizi:** If we simply argue based on the documents submitted to us—regardless of whether FAM gave the excuse of uploading the wrong documents or whatever—and we are satisfied and issue our own birth certificates to verify it, that is something very difficult to defend. Therefore, I feel that when Saifuddin gave such a reply, it only added to public anger, and this matter will eventually become *a source of ridicule*, especially among netizens.
 
 **Host:** Alright YB. That is the only heavy issue for this time. It really is a heavy issue for me.
 
-**Rafizi Ramli:** You guys just want to hear about issues like this, right?
+**Rafizi:** You guys just want to hear about issues like this, right?
 
 **Host:** Pretty much. But I feel no politician has yet commented on this conclusively.
 
-**Rafizi Ramli:** That's normal.
+**Rafizi:** That's normal.
 
 **Host:** Not everyone dares to say such things.
 
-**Rafizi Ramli:** Okay. It's very obvious that you haven't watched and read other people's comments. Actually, I have always followed its developments, *I've been following. I think people have been saying their piece.*
+**Rafizi:** Okay. It's very obvious that you haven't watched and read other people's comments. Actually, I have always followed its developments, *I've been following. I think people have been saying their piece.*
 
 **Host:** Okay.
 
-**Rafizi Ramli:** It's only you who is trying to avoid discussing this issue directly.
+**Rafizi:** It's only you who is trying to avoid discussing this issue directly.
 
 **Host:** I mean, the party that should give a definitive answer is the core leadership responsible.
 
-**Rafizi Ramli:** Meaning in terms of defending Saifuddin. Even if I were still in the PKR leadership lineup, if Saifuddin asked for my opinion, I would advise him that it is better not to defend this matter anymore.
+**Rafizi:** Meaning in terms of defending Saifuddin. Even if I were still in the PKR leadership lineup, if Saifuddin asked for my opinion, I would advise him that it is better not to defend this matter anymore.
 
 **Host:** Alright, your message to them is very clear. Let's move on to one more segment before switching to the main topic, which is the Fuiyoh segment. This time we have only one issue regarding how the use of artificial intelligence (AI) leads to errors. If you noticed this issue, YB, the company Deloitte released a report containing incorrect *citations* and facts. In the end, the Australian government had to retract the published report due to those errors. So I want to ask you directly YB, *how should* the government *react* to AI, actually?
 
-**Rafizi Ramli:** Actually, this is not just a question for the government, but also for ourselves. I myself use ChatGPT and DeepSeek almost every day.
+**Rafizi:** Actually, this is not just a question for the government, but also for ourselves. I myself use ChatGPT and DeepSeek almost every day.
 
 **Host:** Okay.
 
-**Rafizi Ramli:** But we cannot use them blindly. ChatGPT or DeepSeek indeed make tasks easier when we already know what we want but lack the time to read dozens of pages of documents before drafting the task itself. We can ask the AI to summarize it. Therefore, the use of AI actually requires our *prompts* to be precise.
+**Rafizi:** But we cannot use them blindly. ChatGPT or DeepSeek indeed make tasks easier when we already know what we want but lack the time to read dozens of pages of documents before drafting the task itself. We can ask the AI to summarize it. Therefore, the use of AI actually requires our *prompts* to be precise.
 
 **Host:** Okay.
 
-**Rafizi Ramli:** So this is not just a government problem, but a human problem in general. If we are not careful, it will affect tasks in the government, private sector, schools, and universities. However, there is also a good side to it, as it can differentiate between those who truly hold trust and know the ins and outs of their work, and those who merely do a half-baked job. In the Australian case, that error was detected by the public and other researchers. When other researchers cross-referenced it, they found the data was wrong and fabricated. In my view, we shouldn't blame the AI technology itself. In reality, the Australian government officials and the Deloitte research team themselves were indifferent and lazy because they did not check the work beforehand at all. Properly, when we use ChatGPT or any AI application at this stage, every piece of generated information must be rechecked. I experienced a similar situation about two or three months ago when I was feeling bored after no longer being a minister; I tried to resolve Form 5 or university-level math questions that I hadn't touched in a long time. Out of curiosity, I submitted the same math questions to ChatGPT and DeepSeek.
+**Rafizi:** So this is not just a government problem, but a human problem in general. If we are not careful, it will affect tasks in the government, private sector, schools, and universities. However, there is also a good side to it, as it can differentiate between those who truly hold trust and know the ins and outs of their work, and those who merely do a half-baked job. In the Australian case, that error was detected by the public and other researchers. When other researchers cross-referenced it, they found the data was wrong and fabricated. In my view, we shouldn't blame the AI technology itself. In reality, the Australian government officials and the Deloitte research team themselves were indifferent and lazy because they did not check the work beforehand at all. Properly, when we use ChatGPT or any AI application at this stage, every piece of generated information must be rechecked. I experienced a similar situation about two or three months ago when I was feeling bored after no longer being a minister; I tried to resolve Form 5 or university-level math questions that I hadn't touched in a long time. Out of curiosity, I submitted the same math questions to ChatGPT and DeepSeek.
 
 **Host:** Okay.
 
-**Rafizi Ramli:** As it turned out, some of the answers provided by ChatGPT and DeepSeek were wrong. There was one Form 5 or first-year university algebra question that should have been easy to solve, but DeepSeek stated there was no solution for it. I did this deliberately to test the accuracy of ChatGPT and DeepSeek. In my view, in our daily work, we absolutely must perform our own checks. If we want this AI integration to bring a positive impact to the public sector, we must ensure every detail is checked one by one and not foster a culture of laziness among workers and the community. Otherwise, the incident that occurred in Australia could happen in Malaysia as well. Except in Malaysia, even if it happens, I worry no one would come forward to check and point out the error, and it would just slip through.
+**Rafizi:** As it turned out, some of the answers provided by ChatGPT and DeepSeek were wrong. There was one Form 5 or first-year university algebra question that should have been easy to solve, but DeepSeek stated there was no solution for it. I did this deliberately to test the accuracy of ChatGPT and DeepSeek. In my view, in our daily work, we absolutely must perform our own checks. If we want this AI integration to bring a positive impact to the public sector, we must ensure every detail is checked one by one and not foster a culture of laziness among workers and the community. Otherwise, the incident that occurred in Australia could happen in Malaysia as well. Except in Malaysia, even if it happens, I worry no one would come forward to check and point out the error, and it would just slip through.
 
 **Host:** Slip through just like that. Alright, YB. I think that's enough for this issue. Before we move on to the main segment in tonight's special edition, I would like to invite the viewers once again to hit the *like* and *share* buttons, and scan the QR *code* next to me to submit questions.
 
-**Rafizi Ramli:** We can go home early today, right? I'm quite tired after being in Parliament all day. I thought this would drag on into the night...
+**Rafizi:** We can go home early today, right? I'm quite tired after being in Parliament all day. I thought this would drag on into the night...
 
 **Host:** I feel for you, YB. The viewers can ask as many questions as they want, but we will choose only a few later. Alright, let's proceed to the Budget topic. Before I begin, it would be good to ask about the parameters or *indicators* you use to evaluate it. As an MP and former Economy Minister, before we dive deeper into whether this budget is okay or not, *how do you feel?* How do you evaluate a budget? Let's treat this as a basic introduction.
 
-**Rafizi Ramli:** Hang on a second. This budget document is very long, containing hundreds of pages. It is very rare for anyone to read it all in one go. I myself only had about two to three hours earlier to study as much of the document as possible. This evaluation actually depends on an individual's background. When I worked in the industry as an accountant, and since part of my specialization was in taxation, whenever a budget was announced about 20 years ago, as soon as the Prime Minister or Finance Minister started the presentation, the document *embargo* would be lifted for public access. At that moment, we accountants would immediately examine the document to produce a policy summary. For those in finance, the main focus would definitely be on the effects of specific taxes, changes in income tax, indirect taxes, and investment incentives like *accelerated capital allowance*, promotion acts, *pioneer status*, and tax relief. This contrasts with ordinary citizens, who usually just wait for the announcement of *goodies* and judge a budget based on how many direct benefits they receive. The media also often gives the same focus, concentrating only on the budget speech itself. As a politician for a long time, I actually rarely look at the budget speech alone.
+**Rafizi:** Hang on a second. This budget document is very long, containing hundreds of pages. It is very rare for anyone to read it all in one go. I myself only had about two to three hours earlier to study as much of the document as possible. This evaluation actually depends on an individual's background. When I worked in the industry as an accountant, and since part of my specialization was in taxation, whenever a budget was announced about 20 years ago, as soon as the Prime Minister or Finance Minister started the presentation, the document *embargo* would be lifted for public access. At that moment, we accountants would immediately examine the document to produce a policy summary. For those in finance, the main focus would definitely be on the effects of specific taxes, changes in income tax, indirect taxes, and investment incentives like *accelerated capital allowance*, promotion acts, *pioneer status*, and tax relief. This contrasts with ordinary citizens, who usually just wait for the announcement of *goodies* and judge a budget based on how many direct benefits they receive. The media also often gives the same focus, concentrating only on the budget speech itself. As a politician for a long time, I actually rarely look at the budget speech alone.
 
 **Host:** Right.
 
-**Rafizi Ramli:** Because when we are at the MP level, let alone as a minister, my priority is to look at the financial integrity of the government. To evaluate this, we must start with the macro aspects. The analogy is simple: if we want to evaluate a company that claims it can execute various plans, we cannot just believe it without examining its *balance sheet*, *income statement*, and *cash flow*. If their balance sheet is fragile, the company will be exposed to various risks. If their income statement, which records revenue, is weak, the company will not be able to cover its expenses sustainably. As a result, they will have to rely on loans, which will eventually affect cash flow. I apply the same discipline every time I study the national budget, focusing on the macro aspects first.
+**Rafizi:** Because when we are at the MP level, let alone as a minister, my priority is to look at the financial integrity of the government. To evaluate this, we must start with the macro aspects. The analogy is simple: if we want to evaluate a company that claims it can execute various plans, we cannot just believe it without examining its *balance sheet*, *income statement*, and *cash flow*. If their balance sheet is fragile, the company will be exposed to various risks. If their income statement, which records revenue, is weak, the company will not be able to cover its expenses sustainably. As a result, they will have to rely on loans, which will eventually affect cash flow. I apply the same discipline every time I study the national budget, focusing on the macro aspects first.
 
 For the viewers' information, the budget documents presented usually consist of five main documents, while the sixth document is merely the text of the Finance Minister's speech, which is what people commonly read. Many overlook the other five main documents because they are very thick. These documents can be downloaded from the official budget portal every year for study. The first document is the Expenditure Estimates. The second is the *Fiscal Outlook*, which details revenue estimates, spending trends, and the national debt position. The third is the *Economic Outlook*, which presents the country's economic projections for the coming year and several years ahead. The fourth document is rarely studied by the public because it spans up to four large volumes containing thousands of pages; this document lists the staffing establishment for every public agency from the lowest to the highest level. If studied in depth, we can see the size of the civil service, such as the number of teachers and salary scales according to their respective ranks.
 
@@ -230,7 +230,7 @@ Finally, let's look at the subsidies and social assistance component. From one p
 
 **Host:** There are many policy changes in terms of subsidy targeting, and we even introduced eligibility thresholds for subsidy recipients.
 
-**Rafizi Ramli:** No, that is only part of the measures. Fundamentally, when we retarget subsidies, the primary goal is to prevent leakages and smuggling so that the allocations can be channeled directly to those who truly need it in the form of larger social assistance.
+**Rafizi:** No, that is only part of the measures. Fundamentally, when we retarget subsidies, the primary goal is to prevent leakages and smuggling so that the allocations can be channeled directly to those who truly need it in the form of larger social assistance.
 
 The main question we need to consider here is: when the subsidy and social assistance burden is successfully reduced by RM8 billion, why wasn't some of those savings retained to provide larger direct aid to the people compared to what has been announced? Is it fair if the savings from targeting the people's subsidies are ultimately used solely to cover the increase in the country's debt interest payments, which jumped by RM4 billion?
 
@@ -240,7 +240,7 @@ Perhaps the Ministry of Finance or Treasury would argue that this is a *chicken 
 
 **Host:** From a layman's perspective, this situation is like our habit of using a *credit card*. We avoid going into debt so that with those savings, we can reduce leakages in our daily expenses. Because if we continue using a *credit card*, eventually the burden of *interest* and so on in the future will no longer be sustainable. Is that the situation?
 
-**Rafizi Ramli:** Nowadays it has become common, especially among young people, to go bankrupt because of *credit cards*. This is because the *credit card* balance grows larger over time, and the *interest* rate can reach 17% if their *credit rating* is low. Ultimately, their lives are filled with debt. For the government, the situation is not that simple for us to equate with an individual spending with a *credit card*.
+**Rafizi:** Nowadays it has become common, especially among young people, to go bankrupt because of *credit cards*. This is because the *credit card* balance grows larger over time, and the *interest* rate can reach 17% if their *credit rating* is low. Ultimately, their lives are filled with debt. For the government, the situation is not that simple for us to equate with an individual spending with a *credit card*.
 
 However, one thing that might make people in the government, or even Datuk Seri Anwar himself, uncomfortable with me is because I often ask: *how are we doing things differently?* What we see now, much of the focus is given to increasing revenue. There is the new SST tax, then *stamp duty*, for example, is collected on all instruments. This situation sometimes puts pressure on small companies because *stamp duty* on *employment contracts* has to be paid now, whereas previously that was never implemented.
 
@@ -266,41 +266,41 @@ This is what should be the main focus moving forward. Insya-Allah, it is my role
 
 **Host:** Okay, alright YB. Very worrying.
 
-**Rafizi Ramli:** Not quite to the level of being very worrying.
+**Rafizi:** Not quite to the level of being very worrying.
 
 **Host:** This is the first time I'm hearing this kind of explanation.
 
-**Rafizi Ramli:** It is not worrying, but that is why when the Prime Minister frequently emphasizes governance, the public starts to question it. If I were in the shoes of a JP Morgan analyst, for instance...
+**Rafizi:** It is not worrying, but that is why when the Prime Minister frequently emphasizes governance, the public starts to question it. If I were in the shoes of a JP Morgan analyst, for instance...
 
 **Host:** Okay.
 
-**Rafizi Ramli:** ...*then I will start asking all these questions. How do you mix this, you know,* and after two to three years, people will start scrutinizing these developments. Furthermore, we have had experiences where GLIC entities like Tabung Haji...
+**Rafizi:** ...*then I will start asking all these questions. How do you mix this, you know,* and after two to three years, people will start scrutinizing these developments. Furthermore, we have had experiences where GLIC entities like Tabung Haji...
 
 **Host:** Mm.
 
-**Rafizi Ramli:** ...suffered tens of billions of ringgit in losses and lost investment value due to involvement in various questionable investments. We also went through a similar phase with Felda...
+**Rafizi:** ...suffered tens of billions of ringgit in losses and lost investment value due to involvement in various questionable investments. We also went through a similar phase with Felda...
 
 **Host:** Mm.
 
-**Rafizi Ramli:** ...where Felda was given capital injections of around RM10 billion over the past two to three years.
+**Rafizi:** ...where Felda was given capital injections of around RM10 billion over the past two to three years.
 
 **Host:** Yes.
 
-**Rafizi Ramli:** And if we look at it, Felda's total debt guaranteed by the government actually did not reach RM41 billion. So in the case of PTPTN, even if the government does not bear the entire RM41 billion, when those debts begin to mature, even an amount of just RM10 billion is enough to give the government a headache to service it. That is why I prefer this issue to be addressed holistically. Otherwise, our measures will only be cosmetic. 
+**Rafizi:** And if we look at it, Felda's total debt guaranteed by the government actually did not reach RM41 billion. So in the case of PTPTN, even if the government does not bear the entire RM41 billion, when those debts begin to mature, even an amount of just RM10 billion is enough to give the government a headache to service it. That is why I prefer this issue to be addressed holistically. Otherwise, our measures will only be cosmetic. 
 
 If we merely take cosmetic steps for the sake of making popular announcements—like announcing free education and so on—we are not actually solving the fundamental problem. This is like giving Panadol...
 
 **Host:** Okay.
 
-**Rafizi Ramli:** ...when the patient actually has cancer.
+**Rafizi:** ...when the patient actually has cancer.
 
 **Host:** Yes.
 
-**Rafizi Ramli:** They will feel relieved for a moment, but the next day they will run a fever again. That is my concern regarding the PTPTN issue earlier. As for the SARA and STR program issues...
+**Rafizi:** They will feel relieved for a moment, but the next day they will run a fever again. That is my concern regarding the PTPTN issue earlier. As for the SARA and STR program issues...
 
 **Host:** Okay.
 
-**Rafizi Ramli:** ...I believe the government needs to start focusing efforts on institutionalizing this social assistance as an official government program, rather than having it viewed merely as a seasonal "windfall" from the government. Otherwise, we will keep waiting anxiously for the annual announcements on SARA or STR assistance rates. 
+**Rafizi:** ...I believe the government needs to start focusing efforts on institutionalizing this social assistance as an official government program, rather than having it viewed merely as a seasonal "windfall" from the government. Otherwise, we will keep waiting anxiously for the annual announcements on SARA or STR assistance rates. 
 
 In other countries that practice a *welfare state* system—and even PAS used to frequently talk about this idea of a welfare state in the past—social security payments and childcare allowances are no longer used as political campaign material. Whichever government is in power will continue to maintain such aid because it has become *part and parcel of governing*. The only issue discussed is which government can improve the delivery system. 
 
@@ -310,15 +310,15 @@ So far, STR or SARA is still seen as a continuation of the previous BR1M program
 
 **Host:** There was BSH, BPN, and various other names used before this.
 
-**Rafizi Ramli:** But if it is institutionalized, the government will disburse the aid monthly to those who qualify, just like we receive our salaries every month. Discussions on institutionalizing this social safety net do not seem to have been widely debated and were not a key focus in this budget.
+**Rafizi:** But if it is institutionalized, the government will disburse the aid monthly to those who qualify, just like we receive our salaries every month. Discussions on institutionalizing this social safety net do not seem to have been widely debated and were not a key focus in this budget.
 
 **Host:** Okay, alright YB. The theme is cosmetic and Panadol. I think we should stop the discussion on cosmetics and Panadol here. Will YB start debating in Parliament starting next week?
 
-**Rafizi Ramli:** Insya-Allah, I will try to debate at an early stage.
+**Rafizi:** Insya-Allah, I will try to debate at an early stage.
 
 **Host:** Alright YB, we are all looking forward to it. Now we move into the final session.
 
-**Rafizi Ramli:** That's good, there are only 20 minutes left.
+**Rafizi:** That's good, there are only 20 minutes left.
 
 **Host:** Only 20 minutes left. We have several questions that were submitted earlier, and after that, we will look at the questions in the QR code. For viewers who have not submitted yet, you can do so now. 
 
@@ -326,7 +326,7 @@ Let's look at the first question from Ridwan: *"YB was the individual who drove 
 
 This is not just one question, YB, but eight questions at once. We are allocating 3 minutes for this question.
 
-**Rafizi Ramli:** I am often asked questions like this, claiming that JS-SEZ is my pilot project, and since I am no longer in the government, the project will not be continued. I understand some quarters are trying to make snide remarks about the resignation issue, but such an assumption is inaccurate. 
+**Rafizi:** I am often asked questions like this, claiming that JS-SEZ is my pilot project, and since I am no longer in the government, the project will not be continued. I understand some quarters are trying to make snide remarks about the resignation issue, but such an assumption is inaccurate. 
 
 When we are convinced that a policy or project is good for the country, it will surely be continued by any government leadership. In fact, even if Wan Fayhsal becomes the Prime Minister after this, I am confident he would also be busy promoting the JS-SEZ, maybe even inviting Donald Trump to visit. So, if the project has a positive impact, it will be continued, and the notion that the project will die off just because I am gone should not arise. 
 
@@ -342,7 +342,7 @@ On the contrary, if we do not manage it carefully, the project will ultimately f
 
 **Host:** Okay YB, clear. The second question is regarding the alignment of the budget with RMK-13: *"How does the recently announced national budget 2026 align with the RMK-13 plan?"*
 
-**Rafizi Ramli:** I commented at length about this earlier, though I did not link it directly to RMK-13. There are many aspects that form the core pillars of RMK-13, but one key issue that was completely untouched in this budget is the reduction of foreign workers. The RMK-13 plan has set a clear target to reduce the number of foreign workers from 15% to 10%, and subsequently to 5% over the following five years. This seems to have been not mentioned at all in the recent budget speech. 
+**Rafizi:** I commented at length about this earlier, though I did not link it directly to RMK-13. There are many aspects that form the core pillars of RMK-13, but one key issue that was completely untouched in this budget is the reduction of foreign workers. The RMK-13 plan has set a clear target to reduce the number of foreign workers from 15% to 10%, and subsequently to 5% over the following five years. This seems to have been not mentioned at all in the recent budget speech. 
 
 When we tabled the Mid-Term Review of RMK-12 in 2023—which was the first planning document I managed as the Minister of Economy—I stressed that the core pillar of economic reform was to revamp the national subsidy system. Even though that move was unpopular and received various negative reactions, we went ahead with it, leading to the implementation of targeted diesel and petrol subsidies today. 
 
@@ -354,15 +354,15 @@ Therefore, we cannot evaluate the effectiveness of this policy holistically just
 
 **Host:** Okay, alright YB. Right on time.
 
-**Rafizi Ramli:** Not right on time; this stopwatch stopped on its own.
+**Rafizi:** Not right on time; this stopwatch stopped on its own.
 
 **Host:** Alright, now we move to the live Q&A session from the audience. On my screen, there are a few questions for YB. Indeed, there are many questions, but due to time constraints...
 
-**Rafizi Ramli:** We have 10 minutes left, right? Just 10 minutes left.
+**Rafizi:** We have 10 minutes left, right? Just 10 minutes left.
 
 **Host:** Yes, we have 10 minutes left. Alright, let's look at the first question shown: *"What is YB’s view on the reduction of Petronas' dividend rate? Is it because the government wants to reduce its dependence on Petronas, or because Petronas itself is unable to contribute more?"*
 
-**Rafizi Ramli:** The answer is simple: Petronas is indeed no longer able to contribute higher dividends. The government, if given a choice, would surely want to take as much dividend as possible from Petronas to show that our deficit rate is decreasing and that we have more funds to spend on projects for the people. 
+**Rafizi:** The answer is simple: Petronas is indeed no longer able to contribute higher dividends. The government, if given a choice, would surely want to take as much dividend as possible from Petronas to show that our deficit rate is decreasing and that we have more funds to spend on projects for the people. 
 
 Throughout my tenure as Minister of Economy, sometimes I felt worried when discussing with some officers in the Ministry of Finance who still had the mentality of "it's okay, we have Petronas". Even though I am a former Petronas employee, I understand very well the real challenges faced in the oil and gas industry today. The profit margins in this industry have shrunk significantly compared to the past; whereas previously the profit margin for a barrel of oil could reach over 30%, now it is only around 15% to 22% due to high operating costs. 
 
@@ -372,11 +372,11 @@ This situation will trigger a *vicious cycle* where a reduction in exploration a
 
 **Host:** Okay, alright YB. Next is a question from Azam: *"In YB's opinion, is the 20% ministerial salary cut under this budget reasonable? Previously, YB stated that ministers' salaries are small compared to high-ranking positions in the private sector. Couldn't such a cut lead to leakages like corruption due to the low salary? Is there a better measure, such as limiting the positions held by Members of Parliament?"*
 
-**Rafizi Ramli:** This question makes me feel like I am being tested again on my old statements. Regarding the issue of the 20% ministerial salary cut, hasn't it been implemented since the beginning of the government's formation? Is there a new announcement on the cut rate?
+**Rafizi:** This question makes me feel like I am being tested again on my old statements. Regarding the issue of the 20% ministerial salary cut, hasn't it been implemented since the beginning of the government's formation? Is there a new announcement on the cut rate?
 
 **Host:** Nothing new, the viewer is just asking again about the feasibility of the measure.
 
-**Rafizi Ramli:** Meaning, the already small ministerial salaries are cut even further.
+**Rafizi:** Meaning, the already small ministerial salaries are cut even further.
 
 For ministers from PKR, the situation is even more challenging because we are subject to a 20% deduction for party contribution and another 10% deduction for the government, meaning we only receive the remaining 70% of the allocated basic salary. 
 
@@ -392,15 +392,15 @@ The public and politicians at the grassroots level also need to change their min
 
 **Host:** Alright, YB. This might be our third to last question.
 
-**Rafizi Ramli:** Alhamdulillah, we still have 10 minutes left.
+**Rafizi:** Alhamdulillah, we still have 10 minutes left.
 
 **Host:** Next is a question from Irfan regarding community projects: *"Salam YB, could I know what the latest development of your social enterprise project, Ayum Malaysia, is, and how we can participate and show our support? Thank you."*
 
-**Rafizi Ramli:** This is not a question about the national budget, is it?
+**Rafizi:** This is not a question about the national budget, is it?
 
 **Host:** No, this is a general question from the audience.
 
-**Rafizi Ramli:** Over the past two months, I have focused heavily on developing two types of *social enterprises*. 
+**Rafizi:** Over the past two months, I have focused heavily on developing two types of *social enterprises*. 
 
 The first is a "Value Meal" concept eatery named "Kesum"—short for "Asal Kenyangan, Sedap dan Murah" (As long as satisfied, delicious, and cheap)—which offers quality meals priced RM5 and below. The second is a convenience store named "FlexiMart" that combines the sale of food and daily goods flexibly according to the customer's budget. 
 
@@ -414,14 +414,14 @@ At the same time, for other *social enterprise* projects like the "Pinjam Gadget
 
 **Host:** Alright, YB. *Thank you for the update.* I think that's all the questions we have for this session.
 
-**Rafizi Ramli:** Alhamdulillah, a very productive discussion right on time.
+**Rafizi:** Alhamdulillah, a very productive discussion right on time.
 
 **Host:** A very productive session. Thank you very much to YB Rafizi and all the viewers who have stayed with us.
 
-**Rafizi Ramli:** Good thing tomorrow is the weekend holiday.
+**Rafizi:** Good thing tomorrow is the weekend holiday.
 
 **Host:** True, tomorrow is the weekend.
 
-**Rafizi Ramli:** It is quite tiring answering this interview.
+**Rafizi:** It is quite tiring answering this interview.
 
 **Host:** Since the session has ended, I am also hesitant to comment further. We will stop here and meet again next week. Thank you everyone, please share this broadcast with your friends. See you again, thank you.

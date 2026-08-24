@@ -8,20 +8,20 @@ duration_seconds: 7938
 duration: 2h 12m
 view_count: 153507
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Hakim
 - Rashidi bin Haji Bandar Ahmad
 topics:
 - PKR Party Elections
 - Headless Branch Leadership Phenomenon
-- Rafizi Ramli's Temporary Leave
+- Rafizi's Temporary Leave
 - Political Patronage vs. Reformist Idealism
 - Nurul Izzah and Nepotism Concerns
 - Gen Z Voter Engagement
 - Westminster System and Cabinet Accountability
 - JPP and Party Election Cleanliness
-summary: In this special live podcast episode, Rafizi Ramli addresses controversies
+summary: In this special live podcast episode, Rafizi addresses controversies
   surrounding the PKR party elections, including his temporary leave from ministerial
   duties, unusual election patterns like 'headless' branch leaderships, allegations
   of not maintaining grassroots support, and concerns of nepotism with Nurul Izzah's
@@ -37,35 +37,35 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Interviewer:** Yes, everything is okay. I will try and I will succeed. Right, Assalamualaikum and greetings, brothers and sisters. Before we begin today's session, I ask for your cooperation to first fill up the space at the front so there will be room for those arriving a little later, ensuring a smooth podcast session tonight.
 
-**Rafizi Ramli:** It's so noisy up here.
+**Rafizi:** It's so noisy up here.
 
 **Interviewer:** We checked just now, yes. Even though upstairs... Alright, let me start.
 
-**Rafizi Ramli:** Okay, five minutes. I'll wait a bit.
+**Rafizi:** Okay, five minutes. I'll wait a bit.
 
 **Interviewer:** I ask for the cooperation of those standing at the side to fill the seats at the front so that those arriving a little late can fill up the back, making our podcast session run smoothly tonight.
 
-**Rafizi Ramli:** Please turn off the fan up here.
+**Rafizi:** Please turn off the fan up here.
 
 **Interviewer:** Okay, alright, understood. Welcome to those who have just arrived. I ask for your cooperation to take your seats immediately and fill up the empty spaces in front. Let's fill up the front rows, leaving room for those arriving late to fill the back.
 
-**Rafizi Ramli:** Everyone running this hall just wants to make a profit. This fan is making noise; I feel like I'll die next if this fan falls on me. So let's turn it off, just in case it falls.
+**Rafizi:** Everyone running this hall just wants to make a profit. This fan is making noise; I feel like I'll die next if this fan falls on me. So let's turn it off, just in case it falls.
 
 **Interviewer:** Okay, welcome to everyone who has just arrived. Please fill in the front. So we will start in just a moment, at 9:00 sharp.
 
-**Rafizi Ramli:** That elected representative is afraid to sit at the front. Look at that YB, he went to sit at the back. Sarawakians, please come forward. That's fine, he's here, no problem. Doesn't Sami want to sit down, Sami? Sami doesn't want to sit, Hitam doesn't want to sit.
+**Rafizi:** That elected representative is afraid to sit at the front. Look at that YB, he went to sit at the back. Sarawakians, please come forward. That's fine, he's here, no problem. Doesn't Sami want to sit down, Sami? Sami doesn't want to sit, Hitam doesn't want to sit.
 
-**Interviewer:** Sami, there are no seats left. There are no more seats, so that's why he doesn't want to sit down. For everyone's information, we will be holding a special edition podcast session with this prospective minister, this resigning minister, with several questions. And we will open the floor for those physically present in this beautiful hall to ask a few questions directly and uncensored to YB Rafizi Ramli today. So you can start thinking of burning questions you want to ask. Although we can't open up too many due to time constraints, there will still be room to ask later. We will choose from those present in the hall today. May I begin?
+**Interviewer:** Sami, there are no seats left. There are no more seats, so that's why he doesn't want to sit down. For everyone's information, we will be holding a special edition podcast session with this prospective minister, this resigning minister, with several questions. And we will open the floor for those physically present in this beautiful hall to ask a few questions directly and uncensored to YB Rafizi today. So you can start thinking of burning questions you want to ask. Although we can't open up too many due to time constraints, there will still be room to ask later. We will choose from those present in the hall today. May I begin?
 
-**Rafizi Ramli:** Alright.
+**Rafizi:** Alright.
 
-**Interviewer:** In the name of Allah, the Most Gracious, the Most Merciful. Peace be upon you and greetings to everyone. Good evening, especially to YB Rafizi Ramli. How are you, YB? Are your cats healthy?
+**Interviewer:** In the name of Allah, the Most Gracious, the Most Merciful. Peace be upon you and greetings to everyone. Good evening, especially to YB Rafizi. How are you, YB? Are your cats healthy?
 
-**Rafizi Ramli:** I don't know, I haven't seen the cat for a long time.
+**Rafizi:** I don't know, I haven't seen the cat for a long time.
 
 **Interviewer:** It's okay, YB. The cat is healthy, I think it's okay. So, maybe we can continue our session tonight. So, we don't have much time, YB. It's just that there are many things happening in a week or two weeks. It's like I'm going to puke. So, maybe the others will wait and see what actually happens. YB, if I can start straight away: if we look at the last few weeks, all kinds of things have been happening in our news. Let me start with some of the results in the Keadilan branches, and then reported by the newspapers, suddenly YB went on leave, and some even said YB resigned. So, do all these things correlate? What actually happened? Everyone is really wondering, YB.
 
-**Rafizi Ramli:** Peace be upon you. Are you people who came here not afraid?
+**Rafizi:** Peace be upon you. Are you people who came here not afraid?
 
 I actually didn't pay much attention to the party elections, even though they started in early April, right? The reason is the focus on government work. We are facing many challenges, so we need to focus on that. And because from the beginning, the impression given was that we wanted to lower the temperature of the elections at the grassroots level this time because we are in government. So we can't show that the competition spills over to the public level. Ideally, we should keep it inside the party.
 
@@ -79,7 +79,7 @@ So, I think that people are starting to understand that there is no issue. And m
 
 **Interviewer:** Okay, YB. That's fine. YB mentioned several election patterns just now. And many watching our podcast, YB, are not even party members. So when we mention a "headless body", maybe some don't understand our election system itself. So what is this phenomenon actually, YB, that is happening in our branches to the point that all kinds of news are reporting on it?
 
-**Rafizi Ramli:** This is the risk when a party becomes the ruling party. If we were just an opposition party or not in government, what happens inside the party wouldn't affect the government. So when issues arise, naturally it catches the public's interest. The public wants to know too.
+**Rafizi:** This is the risk when a party becomes the ruling party. If we were just an opposition party or not in government, what happens inside the party wouldn't affect the government. So when issues arise, naturally it catches the public's interest. The public wants to know too.
 
 So I am usually at fault because if we speak... before this, that's why I didn't comment at all to the media. To the media, good luck, try calling me all you want, I really didn't comment because to me it was something that needed to be managed internally since its extent was only within the party. But we have already entered the campaign period, so these things might also need to be clarified to the general public watching, besides our own party members, right?
 
@@ -97,7 +97,7 @@ So I told the party leadership that we could decide to turn a blind eye as if al
 
 **Interviewer:** But YB mentioned a national pattern earlier as well. Is it like a trend or what, YB? You observed this across the whole country.
 
-**Rafizi Ramli:** By now, we all know. There's someone who got hit in the head. Nick is there. Akmal is there. Akmal is here. Akmal is brave, he and Tok Min are sitting in front. I'm afraid people will hide behind me.
+**Rafizi:** By now, we all know. There's someone who got hit in the head. Nick is there. Akmal is there. Akmal is here. Akmal is brave, he and Tok Min are sitting in front. I'm afraid people will hide behind me.
 
 I was asked by my own cabinet colleague, he said it's strange that in other parties or in the previous ones, there has never been an example of a ministerial position, a parliament member... If I take the example of Akmal in front of me, a deputy minister, he has been the PKR branch chief in JB since 2014. Then he arranged from JB to a strong UMNO chair to be able to take over from Tan Sri Shahrir Samad who never lost all his life—a majority of 50,000. Until he became a minister, and I think as a minister he is not very arrogant. People know, it looks like he has an effect. I have never praised Akmal, but I am open this time. This is an open time. He is not very arrogant. There is another MP who is more arrogant than him. But suddenly, I don't know how, there is a boy that we have never known, who in terms of his qualifications, he also has no permanent job. Then, yes, his record isn't there. But he could defeat Akmal even while Akmal's team won the rest.
 
@@ -109,7 +109,7 @@ Therefore, he shouldn't compete. Or well, if I were someone else, I think anyone
 
 **Interviewer:** Yes, you can say that all that is related to YB, the YB team, all of them lost in the branch. Okay, just YB, let me heat it up a little, I'll start pointing at people. But yes, he lost. But some people said that he lost because he didn't take care of his brother-in-law. I noticed in the news today, YB Ramanan, Raman Krishnan, the new vice president candidate, he said that this defeat was caused by not taking care of his brother-in-law. So, he has a bodyguard, he has become a minister, he has been on WhatsApp and so on. So, how is it, YB?
 
-**Rafizi Ramli:** I don't have WhatsApp, the whole world knows that. I don't have WhatsApp. My family doesn't have WhatsApp either. I saw it. That's why I said it's part of the narrative that was tried to build.
+**Rafizi:** I don't have WhatsApp, the whole world knows that. I don't have WhatsApp. My family doesn't have WhatsApp either. I saw it. That's why I said it's part of the narrative that was tried to build.
 
 I think, well, I can't really blame Ramanan. Maybe Ramanan is new to this party. When we fought Najib over 1MDB back in 2015, he was the treasurer of MIC. He joined the party in 2020, meaning after MIC lost in 2018. During 1MDB, he was still with MIC. So if I were to blame him, well, I'll give him time—he might be confused between the grassroots culture in Keadilan and that of his old party; our culture is different. Yes.
 
@@ -141,7 +141,7 @@ I've been reading those who recently joined the party, these young ones, some in
 
 **Interviewer:** That's it, YB, many are angry, many are fuming. But before they ask YB tomorrow or the day after, let me ask first. YB mentioned all sorts of things, YB explained what happened, direct criticisms. But YB is the Deputy President. Didn't YB speak directly or discuss privately with the President, or in the Central Leadership Council (MPP) meetings, the highest leadership meeting of Keadilan? How do you answer, YB?
 
-**Rafizi Ramli:** The situation I think is like this, right. That's why when I look at netizens, they always comment, they complain, asking why Rafizi, when he became a minister, isn't as fierce as when he was in the opposition. Similarly, I think many friends in the party, in the branches, always ask, why are you not vocal publicly as deputy president? Because we have to adapt to our priorities. We joined the party long ago fighting all kinds of things with the intention that when Dato' Seri Anwar becomes Prime Minister and the party becomes part of the federal government, we could start making changes that uplift the dignity of the people.
+**Rafizi:** The situation I think is like this, right. That's why when I look at netizens, they always comment, they complain, asking why Rafizi, when he became a minister, isn't as fierce as when he was in the opposition. Similarly, I think many friends in the party, in the branches, always ask, why are you not vocal publicly as deputy president? Because we have to adapt to our priorities. We joined the party long ago fighting all kinds of things with the intention that when Dato' Seri Anwar becomes Prime Minister and the party becomes part of the federal government, we could start making changes that uplift the dignity of the people.
 
 So it's different when we are a supporter and when we become a government. And in the government, first of all, the process is long. There are some that are in the government, there are some in the cabinet. Tok Min, the Prime Minister of the 9th country, is also the Prime Minister himself. There is indeed a process. But in the party, for example, what actually happens in the Political Bureau or MPP, if you were in my shoes? Of course there are things I voice out. For example, this culture—I definitely voiced it to Dato' Sri Anwar and also the MPP in the Political Bureau. Tok Min was there. I voiced out repeatedly to be careful with the madness in the elections of people wanting to become branch chiefs now that we are in government, because I know in several states, for example, those joining as members via e-KYC include UMNO members and PAS members as well. Because they said, it's okay, you just go in to vote, when it's over, you don't need to go to court and be active in court, it's enough for me to win as the head of the branch. I stated it, but this time we discuss, we take note, we give birth to a discussion.
 
@@ -159,7 +159,7 @@ So it doesn't matter, losing is fine. Winning or losing is normal. I was Kemaman
 
 **Interviewer:** A very important message to highlight. This isn't about setting ministers on fire, I'm setting people on fire here. Hahaha. YB's mission this time and the team entering this is to show that we are not merely a party of yes-men allowing whatever happens. Just YB, I know you don't have WhatsApp, but I think you have Twitter, Facebook, and all that. So you have seen the long jargon-filled essays written by perhaps some branch chiefs, some holding party positions, and even some of your cabinet colleagues who might have explicitly stated they no longer support you as deputy president. So how are you taking this actually, YB?
 
-**Rafizi Ramli:** Well, I think that is everyone's right. Supporting someone is everyone's individual right, isn't it? But what I think we sometimes forget is that members and the public read between the lines, not just what's written on the surface. So since last Tuesday, incessantly from ministers, from... I'm just waiting for Nick here to make a statement. When are you going to make a statement? Hahaha. From ministers, deputy ministers, state chairmen, branch chiefs, and so on, I think that is everyone's right. But to me, what is more dangerous is when the public reads what's implicit as something far bigger than what is explicit.
+**Rafizi:** Well, I think that is everyone's right. Supporting someone is everyone's individual right, isn't it? But what I think we sometimes forget is that members and the public read between the lines, not just what's written on the surface. So since last Tuesday, incessantly from ministers, from... I'm just waiting for Nick here to make a statement. When are you going to make a statement? Hahaha. From ministers, deputy ministers, state chairmen, branch chiefs, and so on, I think that is everyone's right. But to me, what is more dangerous is when the public reads what's implicit as something far bigger than what is explicit.
 
 What is explicitly being conveyed is an attempt to give the impression that Rafizi no longer has... is completely rejected by the grassroots. And that is what is welcomed by the media. The media too, if it's TV3, it's shown every night. So, I'm just used to it. I don't think that's worrying because our members understand that when a branch chief or a minister makes a statement, that does not represent grassroots support at all. Because you have to understand the system we have in the party. If you look, for example, at participating in the election this time, in 10 days, we have 30,000 delegates. Even though I understand that there are many members below, that's it. I recently sent a lot of messages saying, "What YB? I support YB." I always ask, "You support me, but can you vote or not?" They reply, "I'm a member, of course I can vote." Then I ask, "Do you know whether the voting system has changed? Now it's based on delegates. Are you a delegate or not?" Only then do they realize, "Oh, turns out I can't vote," right?
 
@@ -173,7 +173,7 @@ So these things, if kept inside the party, fine, you can cheer, I don't really c
 
 **Interviewer:** YB explained all sorts of things just now. But in many ways, YB, we don't know the agenda of the statement with many of these. So maybe there is speculation or people say there is an agenda on the other hand. People always make accusations against YB—maybe headstrong, not in line with the president, and so on. And because of that, there are only YB groups. Whatever YB does, even if YB moves the Core of Malaysia across the entire Universe and the Milky Way, they still won't like it and will want to bring YB down. How about that?
 
-**Rafizi Ramli:** Yes. That's the million-dollar question. Even our wives don't always agree with everything we do. I understand. I remember, even though I see that people who are always planted for people outside the party, they will build a perception that they are arrogant, they don't listen to what people say, they are rough, and so on. I accept that, I'm already in my 50s, I have to change, I'm like that. But I'm like that. I think if I'm rough, arrogant, but if I'm not firm in some things, I think it won't be a problem. My problem is with politicians, not only in PKR, but in other parties, it's always an issue. There are two problems. When I think about it every time people ask, comment, or give feedback: first, actually it's because I'm an outsider. I don't come from a conventional political group. I didn't enter politics to be a politician, for example. I'm a corporate person, a professional who came in. So my culture, well, if you're wrong, you're wrong. I don't know how to play games, saying you're good to your face and bad behind your back, I don't know any of that. As an outsider, that's a burden I'll carry forever. Because as an outsider, we will continue to be seen as non-conforming...
+**Rafizi:** Yes. That's the million-dollar question. Even our wives don't always agree with everything we do. I understand. I remember, even though I see that people who are always planted for people outside the party, they will build a perception that they are arrogant, they don't listen to what people say, they are rough, and so on. I accept that, I'm already in my 50s, I have to change, I'm like that. But I'm like that. I think if I'm rough, arrogant, but if I'm not firm in some things, I think it won't be a problem. My problem is with politicians, not only in PKR, but in other parties, it's always an issue. There are two problems. When I think about it every time people ask, comment, or give feedback: first, actually it's because I'm an outsider. I don't come from a conventional political group. I didn't enter politics to be a politician, for example. I'm a corporate person, a professional who came in. So my culture, well, if you're wrong, you're wrong. I don't know how to play games, saying you're good to your face and bad behind your back, I don't know any of that. As an outsider, that's a burden I'll carry forever. Because as an outsider, we will continue to be seen as non-conforming...
 
 ...who are against the rules. Until I know that I am like this, and my attitude is like this, for me, if I don't agree with that, then as an outsider, I will continue to be non-conforming, and there will be people who are not comfortable with me. So I don't feel sorry for that.
 
@@ -197,7 +197,7 @@ That is the new culture that we bring. But I now realize, having been in PKR for
 
 **Interviewer:** I will also take this opportunity, and I hope YB is ready. The next question is related to your opponent, Sister Nur Izzah. So what is your view on the participation of Sister Nur Izzah as your opponent, and also the labels of nepotism that have arisen over the past few days?
 
-**Rafizi Ramli:** I have said from the beginning to Dato' Sri Anwar, to Saifuddin, and to those who had rumors of wanting to contest before this. I have said that the right to contest is everyone's individual right. I understand that feeling, because when Azmin was the Deputy President back in 2018, I challenged him for the Deputy Presidency, even though I was unemployed at the time. So I understand that the right to contest in the party belongs to each individual. And I feel Izzah has enough arguments as to why she needs to contest, and we must respect that. Everyone has their own contribution to the party.
+**Rafizi:** I have said from the beginning to Dato' Sri Anwar, to Saifuddin, and to those who had rumors of wanting to contest before this. I have said that the right to contest is everyone's individual right. I understand that feeling, because when Azmin was the Deputy President back in 2018, I challenged him for the Deputy Presidency, even though I was unemployed at the time. So I understand that the right to contest in the party belongs to each individual. And I feel Izzah has enough arguments as to why she needs to contest, and we must respect that. Everyone has their own contribution to the party.
 
 Only, there is a catch. What does not help the party is when what I mentioned earlier happens—being "more spoon than gravy" [overzealous supporters]. If, for example, Sister Izzah contests, and then it happens without the need for a movement showing that everyone supports it, to the point of giving the impression that all of this was pre-planned, or giving the impression that this was arranged and creating a perception that there is a culture of sycophancy in the party, that does not help the party. From there, we have to be prepared—for every decision we make as party leaders, we have to be prepared for how it will spark polemics inside and outside the party.
 
@@ -217,7 +217,7 @@ We have to handle this issue of nepotism with prudence. Because whatever answer 
 
 **Interviewer:** Okay YB, you say not to attack. But if we open Twitter for a moment and look at our supporters, yes, when this happens, there is a bit of outreach and perhaps some personal attacks on your opponent. Why don't you advise them not to attack? What say you, YB?
 
-**Rafizi Ramli:** So I say, do not attack. But we must remember, PKR's main supporters are fence-sitters. Most of those on Facebook, on X—I still call it Twitter—are mostly, I believe, ordinary people whom I don't even know. Except for those who are on X, every time you tweet, you put your IC, full name, and phone number, so I can call you a little bit! But actually, that's the reality I mentioned earlier. If there is anyone in PKR or any other party who thinks we can control the narrative of the public outside, that is foolishness. We cannot control the narrative of the public outside; we can only control our own behavior and our own decisions. Because as politicians and a political party, that is indeed our business, which is that we will be continuously judged by the view of the public outside.
+**Rafizi:** So I say, do not attack. But we must remember, PKR's main supporters are fence-sitters. Most of those on Facebook, on X—I still call it Twitter—are mostly, I believe, ordinary people whom I don't even know. Except for those who are on X, every time you tweet, you put your IC, full name, and phone number, so I can call you a little bit! But actually, that's the reality I mentioned earlier. If there is anyone in PKR or any other party who thinks we can control the narrative of the public outside, that is foolishness. We cannot control the narrative of the public outside; we can only control our own behavior and our own decisions. Because as politicians and a political party, that is indeed our business, which is that we will be continuously judged by the view of the public outside.
 
 So to all those who are making noise, I ask you to be careful. I know many of those who are angry and criticizing are diehard supporters of Pakatan Harapan and PKR. Some are party members, some are not. But I know, for the sake of the people and to avoid that matter—because this is a common problem that we have to deal with after this—how do we want to balance the outside view so that the voters are not far away from us? If we are not careful, they will be far away. In the end, we are the ones who will become victims, because we are the ones entering the election to do the work. If, for example, it is taken as ammunition by the opposition, then we will enter the election with an issue where we become defensive.
 
@@ -225,7 +225,7 @@ While we should be entering this election needing to be offensive, needing to at
 
 **Interviewer:** Okay YB, last question about Sister Nur Izzah. Can I ask? A bit of a nerd question related to the manifesto. In her statement, Sister Nur Izzah said that she wants to focus on 50 marginal branches and the grassroots as the main campaign strategy. YB is entering as the incumbent candidate to defend the Deputy Presidency. What is YB's offer?
 
-**Rafizi Ramli:** God willing, I will give out headscarves after this! Just joking, just joking. I don't even buy headscarves for my own wife.
+**Rafizi:** God willing, I will give out headscarves after this! Just joking, just joking. I don't even buy headscarves for my own wife.
 
 I think whoever becomes the Deputy President, or even the President of the party, the thing about marginal seats—if you remember, this is something that I have been explaining since 2015. If you remember in the Invoke campaign, I used data to make sure that marginal seats that people don't think we can win are targeted. And the way to win at that time, I said, we have to fight three-cornered fights. That's why we had to break from PAS to fight three-cornered fights. So as a political party, PKR in the future and the electoral fortune of PKR will always depend on our ability to win marginal seats.
 
@@ -245,7 +245,7 @@ So those are the responsibilities that need to be borne by the Deputy President,
 
 **Interviewer:** YB, let's go back to our topic. I want to touch on the rumors of resignation. There are a lot of news sources saying that YB has resigned and so on. Can YB clarify, if YB loses the Deputy Presidency, will YB resign?
 
-**Rafizi Ramli:** It started, for example, when I went on leave, and then people spun it saying I resigned. I think it is part of a narrative trying to show that I was supposedly sulking. I think that is either a misunderstanding of who I am, or our culture still cannot differentiate between accountability and power in government.
+**Rafizi:** It started, for example, when I went on leave, and then people spun it saying I resigned. I think it is part of a narrative trying to show that I was supposedly sulking. I think that is either a misunderstanding of who I am, or our culture still cannot differentiate between accountability and power in government.
 
 My view is like this. Earlier, when I focused on managing the party, I took leave, for example. But people were quick to say I resigned. But actually, we are in a Westminster system. In the Westminster system, it means those who are members of the administration—the ministers—represent the parties that form the government. So in terms of democratic principles, the leadership in the party must get a place in the government. Because the purpose of the political party competing in the election is so that they can become a government, so that they can translate their policies and programs into the government.
 
@@ -269,17 +269,17 @@ And I have said to Dato' Sri Anwar, I have said to Saifuddin, I have said to fri
 
 **Interviewer:** So YB, have you met and briefed GPS and BN regarding this?
 
-**Rafizi Ramli:** I have met with colleagues from GPS and colleagues from BN. I have mentioned it to them, I have met them, and I will continue to meet them. Next week there will be a few more people. Because I have that responsibility—the person who wrote the agreement to form this coalition government was me. I was the one who wrote it, I was the one who negotiated it. So it is not a question of position; I have that responsibility with our partners. If we have a partnership in business, if I make a decision that "I don't want to do this business anymore," I have to sit down with my partner, inform them, and state it properly. So I have done that as well.
+**Rafizi:** I have met with colleagues from GPS and colleagues from BN. I have mentioned it to them, I have met them, and I will continue to meet them. Next week there will be a few more people. Because I have that responsibility—the person who wrote the agreement to form this coalition government was me. I was the one who wrote it, I was the one who negotiated it. So it is not a question of position; I have that responsibility with our partners. If we have a partnership in business, if I make a decision that "I don't want to do this business anymore," I have to sit down with my partner, inform them, and state it properly. So I have done that as well.
 
 So to our friends, for example in UMNO—some UMNO people sent messages asking me to join UMNO—no, no, thank you! I have mentioned it to GPS, so I hope that we can go through these 10–11 days well, with humility. We laugh, we get angry, we tweet, but in the end we have to make sure that the progressive reform agenda that we have been carrying for the past 10 years will continue to be maintained by the people. That is an important mission for all.
 
 **Interviewer:** Resignation is one thing, but previously, you also stepped back from politics and made a comeback. So if you resign, will you step back from politics as well?
 
-**Rafizi Ramli:** Didn't you already ask that earlier?
+**Rafizi:** Didn't you already ask that earlier?
 
 **Interviewer:** Oh yes, earlier was regarding the cabinet. I forgot, I forgot.
 
-**Rafizi Ramli:** Sometimes people forget. Actually, we can't make decisions according to our liking; we have to do it based on the situation at that time. So I know maybe this is the question people ask, because later people will say, "I'm afraid he's being a coward like before." The situation back then was different, because back then I was an ordinary citizen. I was not a Member of Parliament at the time; I was only a member of PKR. I did not contest in GE14 (PRU 2018), so I did not have a parliamentary seat or anything. I contested for Deputy President, and I lost by 3,000 votes—by just over 1% compared to Azmin.
+**Rafizi:** Sometimes people forget. Actually, we can't make decisions according to our liking; we have to do it based on the situation at that time. So I know maybe this is the question people ask, because later people will say, "I'm afraid he's being a coward like before." The situation back then was different, because back then I was an ordinary citizen. I was not a Member of Parliament at the time; I was only a member of PKR. I did not contest in GE14 (PRU 2018), so I did not have a parliamentary seat or anything. I contested for Deputy President, and I lost by 3,000 votes—by just over 1% compared to Azmin.
 
 So Dato' Sri Anwar then appointed me as a Vice President. For the first 7–8 months, I had my views, I gave them to Dato' Sri Anwar. But it was so clear that my views were not accepted by the party at that time. I was not a member of the administration, I was not a Member of Parliament; I was only a regular Vice President. So the signal from the party was clear enough that the party already had its own agenda and strategy. If you were in my shoes, why would I hang around awkwardly over there? I knew back then that my role was over. So I said, "It's okay, I'll go and do my work."
 
@@ -295,7 +295,7 @@ Because when we look at the last GE, who actually supported PH until we won and 
 
 **Interviewer:** Okay YB. Regarding our campaign theme "Hero"—some say it's not serious because there is a negative connotation. What do you say, YB?
 
-**Rafizi Ramli:** Yes, some people commented, some sent me messages suggesting why not use "Hidup" [Live] or something. Why "Hero"? I think the context is... I chose the name myself. How can I convey this message to the party and the people?
+**Rafizi:** Yes, some people commented, some sent me messages suggesting why not use "Hidup" [Live] or something. Why "Hero"? I think the context is... I chose the name myself. How can I convey this message to the party and the people?
 
 Actually, what is our main challenge now after two and a half years in government? Our main challenge is the test of power. It is not easy to be in power. For those who become ministers, who hold government positions, our challenge is how to be an effective minister who can develop policies and programs that quickly bring benefits to the people. It is not easy. I myself admit there are too many weaknesses. There are many things that take time to process in government. When it becomes a government policy, it cannot be done in a small way; it has to be done for the whole country, with processes of integrity and governance, so it takes long. So the test of power as a government is big enough.
 
@@ -309,11 +309,11 @@ So if that is the message I want to convey, I don't need to make it long. I also
 
 **Interviewer:** Okay YB, thank you. Maybe we can close with your hopes throughout the campaign, after the campaign, and a message to the newly elected leadership.
 
-**Rafizi Ramli:** I think I have been talking about the same thing for two hours now! That is indeed my hope. My hope is, I understand this election is interesting because we are in the government. Whoever wins will be popular, appear on TV, some will become ministers, some will become high and mighty. But whatever our aspirations are, contest while remembering one most important thing: that the people are evaluating us. What is important from this election is not who wins and who loses, but what conclusion is actually drawn by the people and the fence-sitters regarding our party. If the conclusion and the people's view are negative, then whatever we do, we will face problems. So I remind myself, and I remind everyone who is competing to remember that.
+**Rafizi:** I think I have been talking about the same thing for two hours now! That is indeed my hope. My hope is, I understand this election is interesting because we are in the government. Whoever wins will be popular, appear on TV, some will become ministers, some will become high and mighty. But whatever our aspirations are, contest while remembering one most important thing: that the people are evaluating us. What is important from this election is not who wins and who loses, but what conclusion is actually drawn by the people and the fence-sitters regarding our party. If the conclusion and the people's view are negative, then whatever we do, we will face problems. So I remind myself, and I remind everyone who is competing to remember that.
 
 And the other hope is to the leaders who will be elected. I don't know, but I think I can read who will win. God willing, this leadership rotates, and the strength of an organization never happens overnight and never happens with just one group. Our win up to defeating BN in 2018 was the result of the hard work of people from day one in 1998. These young brothers and sisters in front of me, a large part of those who mobilized this party since 1998...
 
-**Rafizi Ramli:** A large part of them did not even get to see the government change in 2018. The same goes for now, we became the government in 2022 up to 2025. There are so many who have mobilized the party since back then, only watching from afar, and they did not ask for anything. They only ask that those given the responsibility—people like me—shoulder that responsibility well, because this party is the result of efforts consolidated over decades.
+**Rafizi:** A large part of them did not even get to see the government change in 2018. The same goes for now, we became the government in 2022 up to 2025. There are so many who have mobilized the party since back then, only watching from afar, and they did not ask for anything. They only ask that those given the responsibility—people like me—shoulder that responsibility well, because this party is the result of efforts consolidated over decades.
 
 So, as long as the new leadership, if given that responsibility, remembers that matter. Do not do something that will cause this party to be rejected in the end or to lose. Because what we took over, just like when I took over as Deputy President in 2022, I am fully aware and conscious that it is the result of the efforts of hundreds of thousands of people—nameless faces we don't even remember—who have helped, supported, and given money to the party, especially when we were struggling.
 
@@ -323,11 +323,11 @@ Do your best for this party. And if I don't win—Nik is thinking about whether 
 
 **Moderator:** Alright, thank you, YB. Thank you. We will open for perhaps one or two questions. Is there anyone who wants to ask a question? Please have the team assist in giving the microphone to our friend over here. Please introduce yourself and state your question.
 
-**Hakim:** Peace be upon you, and the mercy and blessings of Allah, YB Rafizi Ramli. I am Hakim from Tangga Batu, Melaka. I have traveled far purely for YB Rafizi.
+**Hakim:** Peace be upon you, and the mercy and blessings of Allah, YB Rafizi. I am Hakim from Tangga Batu, Melaka. I have traveled far purely for YB Rafizi.
 
 In your previous statement, YB, you mentioned that if you lose, you will go down to campaign actively. My question is, how do you plan to campaign if most of the branch chiefs and state leadership councils (MPN) reject you and release statements supporting Sister Nurul Izzah? That is all from me. Thank you.
 
-**Rafizi Ramli:** I've already mentioned that it's up to each person. Whether you're young or old, it's normal for each person to have their own view. But as I said earlier, these statements don't even represent the root of the problem. Because even if one person is the head of the branch, he will not win 100% support in his branch. Many who win the head position don't have the full body behind them, so we understand. I also understand.
+**Rafizi:** I've already mentioned that it's up to each person. Whether you're young or old, it's normal for each person to have their own view. But as I said earlier, these statements don't even represent the root of the problem. Because even if one person is the head of the branch, he will not win 100% support in his branch. Many who win the head position don't have the full body behind them, so we understand. I also understand.
 
 This is not a new dilemma in the party. Someone messaged me saying, "I'm sorry YB, don't be so mean. I actually don't agree; he didn't even ask me, he just put my name there." It's okay, I'm not angry. If you remember, in 2015–2016, at that time I was the Vice President and Secretary-General of the party. I am the only one in this party who has ever been both Vice President and Secretary-General at the same time. At that time, the other Vice Presidents were all Azmin's gang. In the political bureau back then, we had a really hard time maneuvering because there was only me, Nik, and then Datin Paduka Tan Yee Kew to defend Kak Wan. The others would bash us relentlessly. And indeed, most branch chiefs back then did not like me. But that did not stop me; I just plowed right through.
 
@@ -341,7 +341,7 @@ If I followed my feelings, if I wanted to vent everything about the characters i
 
 **Rashidi bin Haji Bandar Ahmad:** Peace be upon you, and the mercy and blessings of Allah. My name is Rashidi bin Haji Bandar Ahmad. I have been involved in the formation of Parti Keadilan since the very beginning. Back then, there were no outsiders involved in the elections—in fact, there weren't even elections; it was purely voluntary. Now, today, there are individuals who are not our members—from the UMNO party—who have won in the recent branch elections. What is YB's view and what action will YB take on this matter? I hope this matter does not have to be swallowed in silence; it must be voiced out to safeguard, as YB mentioned earlier, the duties of the pioneers. I really hope this issue can be brought forward. That is all, thank you.
 
-**Rafizi Ramli:** Thank you, brother. That is what I mentioned earlier and have voiced for a long time within the party. My concern is that once we are in power, people scramble to join. Because we rely on the number of members who join, there are members whom I call 'Airbnb members'—they join, check in briefly during the elections, and then they leave and are gone.
+**Rafizi:** Thank you, brother. That is what I mentioned earlier and have voiced for a long time within the party. My concern is that once we are in power, people scramble to join. Because we rely on the number of members who join, there are members whom I call 'Airbnb members'—they join, check in briefly during the elections, and then they leave and are gone.
 
 For those we can screen and know about earlier... so we are wrong, it's true. That's why there is an example where a re-election is held because the winner of the candidate for branch chairman was at the same time an authority in another party. How can he enter the party? So this part, I have to touch on the JPP (Party Election Committee). If the JPP wants to get angry, let them, but that is indeed the responsibility of the JPP.
 
@@ -359,21 +359,21 @@ If we are the JPP, when complaints come, look carefully, study carefully, call t
 
 So these are lessons for me as well, and I take a large part of the responsibility for these weaknesses. And that's why, if I don't win and so on, I think that's the right decision of Allah. Because maybe in the past two and a half years, I've spent too much time on ministerial duties to raise the profile of the government and the Prime Minister, so there are things among my friends on the ground that I didn't pay enough attention to. And whoever holds the responsibility of central leadership in the future, that is the challenge when someone is a minister and at the same time a senior party leader—we have to learn to balance both.
 
-**Rafizi Ramli:** Is that all, perhaps? It's not even election season yet, and the talk is already going on until 12 midnight. Let's save our energy for the election. Are there any more questions?
+**Rafizi:** Is that all, perhaps? It's not even election season yet, and the talk is already going on until 12 midnight. Let's save our energy for the election. Are there any more questions?
 
 **Moderator:** Yes, there are questions. We will take one last question, from one more person.
 
-**Rafizi Ramli:** This feels like someone wants to get angry at me...
+**Rafizi:** This feels like someone wants to get angry at me...
 
 **Moderator:** Okay, please assist with the microphone. Relax, relax.
 
 **Questioner:** Peace be upon you, YB. Please don't be angry.
 
-**Rafizi Ramli:** I'm not angry. Feel free to ask your question.
+**Rafizi:** I'm not angry. Feel free to ask your question.
 
 **Questioner:** Yes, sure. In today's political world, many are good at appearing on social media but lack field work. In YB's view, what is the difference between a political influencer and a leader of the people? And where do you place yourself? That is my question.
 
-**Rafizi Ramli:** I'd probably place myself at my house! I have never thought in detail about where I stand or what the people think. Only now do we realize that we are actually old, so we don't really understand how people view us. But because I am Generation X (Gen X), we were brought up so that when we do work, we do it properly. Even if we don't know how, we do it and learn. Do it properly, don't do things half-heartedly.
+**Rafizi:** I'd probably place myself at my house! I have never thought in detail about where I stand or what the people think. Only now do we realize that we are actually old, so we don't really understand how people view us. But because I am Generation X (Gen X), we were brought up so that when we do work, we do it properly. Even if we don't know how, we do it and learn. Do it properly, don't do things half-heartedly.
 
 So, in the end, the value of the leaders depends on the people. We can see whether the people like it or not, and we have to be open-minded based on what we have improved. It's true that now is the era of TikTok, the era of influencers, and the era of famous tweets.
 
@@ -389,4 +389,4 @@ But of course, not everyone can do both seamlessly. There are people who excel e
 
 **Audience:** Reformasi!
 
-**Rafizi Ramli:** I told you, things like that, people don't do it, no one welcomes it. We are a party that cannot be forced on individuals. So don't just mention the name of Rafizi Ramli, don't just mention the name of Nurul Izzah, or Anwar Ibrahim. Reformation is enough for our people. Can we do that? Yes.
+**Rafizi:** I told you, things like that, people don't do it, no one welcomes it. We are a party that cannot be forced on individuals. So don't just mention the name of Rafizi, don't just mention the name of Nurul Izzah, or Anwar Ibrahim. Reformation is enough for our people. Can we do that? Yes.

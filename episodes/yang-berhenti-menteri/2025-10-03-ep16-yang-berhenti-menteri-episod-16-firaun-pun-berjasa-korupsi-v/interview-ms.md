@@ -9,7 +9,7 @@ duration_seconds: 7730
 duration: 2h 8m
 view_count: 35897
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests: []
 topics:
 - Malaysian Political Developments & Commentary
@@ -20,7 +20,7 @@ topics:
 - Education System & Schooling Age Reform
 - Aerospace Industry & Jet Engine Manufacturing
 - Politicians' Use of Media & Ethics
-summary: Economy Minister Rafizi Ramli reviews current political developments in Malaysia,
+summary: Economy Minister Rafizi reviews current political developments in Malaysia,
   addresses corruption perception challenges and social media troll farms, shares
   thoughts on Trump's Gaza peace proposal and the Gaza flotilla mission, and discusses
   tech innovation, education reform, aerospace industry viability, and media ethics
@@ -33,55 +33,55 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Interviewer:** Assalamualaikum dan selamat datang Yang Berhormat Menteri ke episod ke-16. Maksudnya dah empat bulan kita bersama di sini.
 
-**Rafizi Ramli:** Ingatkan nak uji matematik saya tadi.
+**Rafizi:** Ingatkan nak uji matematik saya tadi.
 
 **Interviewer:** YB, sebelum kita teruskan, saya nak pastikan—adakah eksperimen penggunaan kata ganti nama "saya" dan "aku" dari minggu lepas akan kita teruskan?
 
-**Rafizi Ramli:** Kita teruskan, dan kita tambah satu lagi. Saya ada baca ruangan komen dan memang ada yang kurang berpuas hati. Ramai yang perasan saya sering sebut perkataan "apa nama", yang bagi sesetengah orang mengingatkan mereka kepada Tun Dr. Mahathir Mohamad. Jadi, minggu ini saya akan cuba sebutkan perkataan itu seberapa sedikit yang mungkin.
+**Rafizi:** Kita teruskan, dan kita tambah satu lagi. Saya ada baca ruangan komen dan memang ada yang kurang berpuas hati. Ramai yang perasan saya sering sebut perkataan "apa nama", yang bagi sesetengah orang mengingatkan mereka kepada Tun Dr. Mahathir Mohamad. Jadi, minggu ini saya akan cuba sebutkan perkataan itu seberapa sedikit yang mungkin.
 
 **Interviewer:** Baik YB, rakan-rakan di ruangan komen boleh tolong jejak berapa kali YB tersebut perkataan itu hari ini. Kita mulakan dengan segmen pertama kita. Seperti biasa, saya tunjukkan beberapa keping gambar dan YB huraikan pandangan YB. Gambar pertama, apa yang YB nampak?
 
-**Rafizi Ramli:** Beria-ia bergaduh, tiba-tiba timbul kembali cerita video lama pasal Azmin Ali. Saya tak mahu campur tangan; saya pun dah bagi pandangan saya sebelum ini dalam bentuk kartun kucing gemuk. Lumrah orang politik memang begini—hari ini kawan, esok bergaduh, lusa kawan balik. Kita ambil bertih jagung dan tonton sahaja. Tapi saya tabik juga kepada Wan Saiful Wan Jan kerana beria-ia menggali semula kisah video tersebut.
+**Rafizi:** Beria-ia bergaduh, tiba-tiba timbul kembali cerita video lama pasal Azmin Ali. Saya tak mahu campur tangan; saya pun dah bagi pandangan saya sebelum ini dalam bentuk kartun kucing gemuk. Lumrah orang politik memang begini—hari ini kawan, esok bergaduh, lusa kawan balik. Kita ambil bertih jagung dan tonton sahaja. Tapi saya tabik juga kepada Wan Saiful Wan Jan kerana beria-ia menggali semula kisah video tersebut.
 
 **Interviewer:** Tiada siapa yang bertanyakan mereka, tiba-tiba mereka bergaduh sesama sendiri. Gambar yang kedua, YB perasan tak?
 
-**Rafizi Ramli:** Ini di mana sebenarnya?
+**Rafizi:** Ini di mana sebenarnya?
 
 **Interviewer:** Ini di Petron Jalan Tun Razak, Kuala Lumpur.
 
-**Rafizi Ramli:** BUKAN di Pandan, kan? Dekat Wisma Sejarah? "Sekumpulan remaja melakukan protes setelah diberitahu bahawa harga minyak RM1.99 hanya untuk pemegang lesen memandu dan MyKad."
+**Rafizi:** BUKAN di Pandan, kan? Dekat Wisma Sejarah? "Sekumpulan remaja melakukan protes setelah diberitahu bahawa harga minyak RM1.99 hanya untuk pemegang lesen memandu dan MyKad."
 
 **Interviewer:** Maksudnya mereka tidak ada lesen memandu, YB.
 
-**Rafizi Ramli:** Ramai yang sindir dan ucap terima kasih kepada Perdana Menteri. Ini satu kualiti yang sangat beria-ia. Siap tunjuk isyarat aman lagi. Maksudnya, selama ini memang mereka menunggang motosikal tanpa lesen?
+**Rafizi:** Ramai yang sindir dan ucap terima kasih kepada Perdana Menteri. Ini satu kualiti yang sangat beria-ia. Siap tunjuk isyarat aman lagi. Maksudnya, selama ini memang mereka menunggang motosikal tanpa lesen?
 
 **Interviewer:** Begitulah nampaknya, YB. Seterusnya, gambar ketiga.
 
-**Rafizi Ramli:** Ini bukan di Malaysia, tetapi di India. Masa saya kecil dulu, ada cerita bahawa tulisan doktor adalah yang paling buruk sekali. Dalam kelas dia jadi sedikit paradoks—kalau murid itu tulisan buruk, cikgu akan kata "tak apa, mana tahu besok boleh jadi doktor." Gambar ini pengesahan pertama perintah mahkamah beria-ia berhubung tulisan doktor. Saya tak tahu kes apa ini—adakah kes tersalah makan ubat sampai meninggal dunia?
+**Rafizi:** Ini bukan di Malaysia, tetapi di India. Masa saya kecil dulu, ada cerita bahawa tulisan doktor adalah yang paling buruk sekali. Dalam kelas dia jadi sedikit paradoks—kalau murid itu tulisan buruk, cikgu akan kata "tak apa, mana tahu besok boleh jadi doktor." Gambar ini pengesahan pertama perintah mahkamah beria-ia berhubung tulisan doktor. Saya tak tahu kes apa ini—adakah kes tersalah makan ubat sampai meninggal dunia?
 
 **Interviewer:** Pokok kes itu sebenarnya berkenaan penipuan dan eksploitasi seksual. Cuma hakim itu marah kerana laporan perubatan yang dikemukakan tidak boleh dibaca langsung, jadi hakim keluarkan arahan tersebut.
 
-**Rafizi Ramli:** Kalau tulis preskripsi macam ini, memang boleh membahayakan nyawa pesakit. Sekarang ini mungkin kurang relevan sebab semuanya menggunakan sistem elektronik. Tetapi kepada doktor yang tulisannya masih buruk, dan kepada ibu bapa—jangan beritahu anak kalau tulisan buruk boleh jadi doktor, sebab sudah ada perintah mahkamah supaya doktor menulis dengan lebih kemas.
+**Rafizi:** Kalau tulis preskripsi macam ini, memang boleh membahayakan nyawa pesakit. Sekarang ini mungkin kurang relevan sebab semuanya menggunakan sistem elektronik. Tetapi kepada doktor yang tulisannya masih buruk, dan kepada ibu bapa—jangan beritahu anak kalau tulisan buruk boleh jadi doktor, sebab sudah ada perintah mahkamah supaya doktor menulis dengan lebih kemas.
 
 **Interviewer:** Baik YB. Gambar yang terakhir untuk segmen ini.
 
-**Rafizi Ramli:** Politik. "PAS sedia jumpa Trump sekiranya hadir Sidang Kemuncak ASEAN." Mana-mana pihak pun sedia nak jumpa Trump, tetapi saya tak pasti sama ada Donald Trump mahu berjumpa Takiyuddin Hassan atau tidak. Bukan mudah nak jumpa Trump. PAS dan Takiyuddin sekadar cuba menarik perhatian penyokong mereka. Kalau Kedutaan Amerika Syarikat tengok pun mereka hanya gelak. Benda ini tidak masuk akal dalam realiti geopolitik dunia.
+**Rafizi:** Politik. "PAS sedia jumpa Trump sekiranya hadir Sidang Kemuncak ASEAN." Mana-mana pihak pun sedia nak jumpa Trump, tetapi saya tak pasti sama ada Donald Trump mahu berjumpa Takiyuddin Hassan atau tidak. Bukan mudah nak jumpa Trump. PAS dan Takiyuddin sekadar cuba menarik perhatian penyokong mereka. Kalau Kedutaan Amerika Syarikat tengok pun mereka hanya gelak. Benda ini tidak masuk akal dalam realiti geopolitik dunia.
 
 **Interviewer:** Dalam kenyataan itu, PAS kata mereka bantah kedatangan Trump, tetapi kalau Trump datang, dia kena jumpa PAS. Kalau tak jumpa, PAS akan buat protes. Jadi dua-dua keadaan pun mereka ada alasan.
 
-**Rafizi Ramli:** Itu memang gaya "dalil" PAS—ikut mana pun mereka tetap betul. Mesej mereka kepada Trump secara berseloroh ialah: kalau tak nak ada protes, jumpalah Takiyuddin.
+**Rafizi:** Itu memang gaya "dalil" PAS—ikut mana pun mereka tetap betul. Mesej mereka kepada Trump secara berseloroh ialah: kalau tak nak ada protes, jumpalah Takiyuddin.
 
 **Interviewer:** Kalau YB kena beri penilaian bintang untuk keempat-empat isu ini dari 1 hingga 5, berapa YB bagi?
 
-**Rafizi Ramli:** Untuk isu video Azmin dan Wan Saiful, saya beri 4 bintang sebab bertih jagungnya menarik dan menyediakan kandungan politik untuk 3 hingga 4 bulan akan datang. Isu remaja tiada lesen protes minyak, saya beri 4 bintang juga sebab terhibur melihat gelagat mereka. Isu hakim dan tulisan doktor, saya bagi 3 bintang. Manakala isu PAS dan Trump, melihat gaya Takiyuddin itu, saya bagi 4 bintang sebab mana tahu Trump takut dengan gertakan protes PAS lalu bersetuju nak jumpa.
+**Rafizi:** Untuk isu video Azmin dan Wan Saiful, saya beri 4 bintang sebab bertih jagungnya menarik dan menyediakan kandungan politik untuk 3 hingga 4 bulan akan datang. Isu remaja tiada lesen protes minyak, saya beri 4 bintang juga sebab terhibur melihat gelagat mereka. Isu hakim dan tulisan doktor, saya bagi 3 bintang. Manakala isu PAS dan Trump, melihat gaya Takiyuddin itu, saya bagi 4 bintang sebab mana tahu Trump takut dengan gertakan protes PAS lalu bersetuju nak jumpa.
 
 **Interviewer:** Baik YB, kita teruskan ke segmen seterusnya: "Hidup Keras". Kita mulakan dengan topik pertama—pembanterasan rasuah: perjuangan sebenar atau sekadar teater politik?
 
-**Rafizi Ramli:** Janji nak tangkap jerung dan bersihkan rasuah dalam tempoh 2 hingga 3 tahun. Sekarang sudah masuk tahun ketiga. Topik ini pasti menyebabkan saya dikecam oleh tentera siber nanti.
+**Rafizi:** Janji nak tangkap jerung dan bersihkan rasuah dalam tempoh 2 hingga 3 tahun. Sekarang sudah masuk tahun ketiga. Topik ini pasti menyebabkan saya dikecam oleh tentera siber nanti.
 
 **Interviewer:** Saya kemukakan dua premis yang ironi. Pertama, berbanding pentadbiran lalu, memang ada jerung atau anak jerung yang disiasat dan ditangkap oleh kerajaan hari ini. Namun, berdasarkan data yang YB kongsikan sebelum ini, persepsi rasuah dalam kalangan rakyat masih membimbangkan dan Indeks Persepsi Rasuah (CPI) negara tidak banyak meningkat. Mengapa wujud jurang ini?
 
-**Rafizi Ramli:** Kita bermula dengan CPI (Indeks Persepsi Rasuah) yang dibangunkan oleh Transparency International. Ia digunakan secara meluas di seluruh dunia untuk mengukur pandangan pemegang taruh—termasuk rakyat biasa dan komuniti perniagaan tempatan mahupun antarabangsa—mengenai amalan rasuah.
+**Rafizi:** Kita bermula dengan CPI (Indeks Persepsi Rasuah) yang dibangunkan oleh Transparency International. Ia digunakan secara meluas di seluruh dunia untuk mengukur pandangan pemegang taruh—termasuk rakyat biasa dan komuniti perniagaan tempatan mahupun antarabangsa—mengenai amalan rasuah.
 
 Memang betul CPI kita tidak banyak berubah. YAB Perdana Menteri, Datuk Seri Anwar Ibrahim, selalunya rasa kecewa apabila orang membangkitkan isu rasuah kerana pada pandangan beliau, keadaan sebenarnya sudah jauh lebih baik. Itu cabaran mana-mana kerajaan. Kita mungkin rasa sudah buat banyak inisiatif, tetapi penanda aras utama yang di luar kawalan kita ialah CPI. Peningkatan CPI juga merupakan salah satu matlamat utama Ekonomi MADANI.
 
@@ -99,7 +99,7 @@ Begitu juga dengan tindakan penguatkuasaan. Datuk Seri Anwar tidak boleh sekadar
 
 **Interviewer:** Mengulas isu rasuah juga, SPRM baru-baru ini membongkar kes penyeludupan tayar dalam "Ops Grip". Namun, reaksi sebahagian netizen di media sosial amat mengejutkan—ada yang kata "Rakyat yang rugi sebab tak dapat tayar murah" atau "Sekurang-kurangnya dia tolong orang jual harga murah." Adakah ini menunjukkan masalah persepsi yang berakar dalam masyarakat kita?
 
-**Rafizi Ramli:** Ada dua perkara berbeza di sini. Pertama, isu tayar murah ini adalah soal penawaran, permintaan, dan daya saing ekonomi. Kita tidak boleh mencapai daya saing dengan cara melanggar undang-undang. Undang-undang wujud untuk memastikan persaingan berlaku di atas padang yang saksama.
+**Rafizi:** Ada dua perkara berbeza di sini. Pertama, isu tayar murah ini adalah soal penawaran, permintaan, dan daya saing ekonomi. Kita tidak boleh mencapai daya saing dengan cara melanggar undang-undang. Undang-undang wujud untuk memastikan persaingan berlaku di atas padang yang saksama.
 
 Cara yang betul untuk menurunkan harga adalah melalui skala ekonomi supaya kos sesunit rendah, atau melalui kemajuan teknologi. Negara lain yang rendah kadar rasuahnya membangunkan ekonomi mereka dan memberikan harga berpatutan kepada rakyat melalui kaedah ini.
 
@@ -117,7 +117,7 @@ Ini tindakan tidak jujur yang menganiaya kerajaan, rakyat, dan peniaga lain yang
 
 **Interviewer:** Baru-baru ini timbul pendedahan mengenai tindakan terhadap sebuah portal berita dan isu rangkaian 263 akaun siber yang dikatakan bertindak mempromosikan Perdana Menteri. Walaupun Menteri Komunikasi telah menafikan penglibatan kerajaan, bagaimana rakyat harus menilai isu ini?
 
-**Rafizi Ramli:** Sebagai orang parti dan individu yang mengamati media sosial, saya tidak terkejut langsung kerana saya pernah melaluinya sendiri.
+**Rafizi:** Sebagai orang parti dan individu yang mengamati media sosial, saya tidak terkejut langsung kerana saya pernah melaluinya sendiri.
 
 Sekitar empat atau lima bulan lalu, dalam satu ceramah kempen pemilihan parti, saya pernah berseloroh mengenai kewujudan "PKR Cabang Vietnam". Semasa saya menyemak akaun TikTok saya sekitar Mac lalu untuk memahami jurang komunikasi dengan penonton, saya terkejut apabila mendapati kandungan hantaran saya mendapat jumlah tanda suka (*likes*) yang tinggi daripada akaun-akaun dari Vietnam.
 
@@ -135,7 +135,7 @@ Nasihat saya kepada penyokong PKR yang mungkin bertanggungjawab melakukan perkar
 
 **Interviewer:** YB, baru-baru ini kenyataan Perdana Menteri bahawa "Firaun pun ada jasa" turut menarik perhatian. Bolehkah YB ulas?
 
-**Rafizi Ramli:** Konteks yang cuba disampaikan oleh Perdana Menteri ialah walaupun seseorang itu ada jasa, jika dia melanggar undang-undang, tindakan tetap perlu diambil. Dari sudut prinsip, tiada siapa yang boleh mempertikaikan hal itu. Saya tidak pasti sama ada istilah "Firaun" itu merujuk secara sinis kepada Tun Dr. Mahathir Mohamad, memandangkan era Reformasi dahulu pernah melabelkan beliau sebagai "Maha Firaun".
+**Rafizi:** Konteks yang cuba disampaikan oleh Perdana Menteri ialah walaupun seseorang itu ada jasa, jika dia melanggar undang-undang, tindakan tetap perlu diambil. Dari sudut prinsip, tiada siapa yang boleh mempertikaikan hal itu. Saya tidak pasti sama ada istilah "Firaun" itu merujuk secara sinis kepada Tun Dr. Mahathir Mohamad, memandangkan era Reformasi dahulu pernah melabelkan beliau sebagai "Maha Firaun".
 
 Namun, jika komunikasi kerajaan terus berasaskan naratif bahawa "golongan maha kaya perlu diperangi" tetapi tindakan dilihat hanya tertumpu kepada dua atau tiga individu musuh politik sahaja, manakala kroni-kroni kaya yang sentiasa berdamping dengan mana-mana kerajaan tidak disentuh, rakyat akan mula muak.
 
@@ -147,7 +147,7 @@ Inilah cabaran terbesar Datuk Seri Anwar. Begitu juga dalam isu mengekalkan Tan 
 
 **Interviewer:** Ada pihak yang akan berhujah bahawa pandangan YB ini tidak praktikal. Dalam politik realiti, pertimbangan dan kompromi perlu dibuat demi kestabilan kerajaan. Jika kita terlalu tegar dengan prinsip berasaskan undang-undang (*rule-based*), kerajaan mungkin tidak boleh terbentuk atau bergerak. Apa pandangan YB?
 
-**Rafizi Ramli:** PKR bukan parti kerdil, kita parti teras dalam kerajaan dan Datuk Seri Anwar ialah Perdana Menteri. Saya tahu Perdana Menteri kadang-kadang berasa kecewa kerana merasakan harapan rakyat terhadap ketelusan dan reformasi terlalu tinggi serta tidak praktikal dalam realiti politik.
+**Rafizi:** PKR bukan parti kerdil, kita parti teras dalam kerajaan dan Datuk Seri Anwar ialah Perdana Menteri. Saya tahu Perdana Menteri kadang-kadang berasa kecewa kerana merasakan harapan rakyat terhadap ketelusan dan reformasi terlalu tinggi serta tidak praktikal dalam realiti politik.
 
 Namun jawapan saya mudah: Sebab itulah rakyat memilih kita. Rakyat memilih kita kerana mereka percaya kita berbeza daripada parti-parti lain selepas berpuluh tahun kita berkempen.
 
@@ -155,7 +155,7 @@ Jika apabila mendapat kuasa kita memberi alasan "masuk kandang kambing mengembek
 
 **Interviewer:** Kita beralih ke segmen "Dunia Punya Hal". Berhubung rancangan pentadbiran Donald Trump bagi masa depan Gaza, adakah ia boleh diterima demi "kebaikan yang lebih besar"?
 
-**Rafizi Ramli:** Saya rasa jawapannya tidak boleh diterima oleh majoriti penduduk dunia, melainkan Donald Trump dan Benjamin Netanyahu sendiri.
+**Rafizi:** Saya rasa jawapannya tidak boleh diterima oleh majoriti penduduk dunia, melainkan Donald Trump dan Benjamin Netanyahu sendiri.
 
 Dalam rundingan peringkat awal, ia melibatkan pentadbiran Trump dengan wakil negara Islam seperti Qatar, Arab Saudi, Turkiye, dan Mesir di mana wujud beberapa titik pertemuan. Namun dalam rundingan seterusnya antara AS dan Israel, pihak Israel secara sepihak (*unilateral*) telah mengubah terma-terma tersebut.
 
@@ -169,11 +169,11 @@ Rancangan Trump ini langsung tidak menunjukkan keikhlasan. Jika AS dan Trump ben
 
 **Interviewer:** Wisma Putra dalam kenyataannya menyambut baik usaha Amerika Syarikat ke arah menamatkan perang di Gaza. Adakah kenyataan tersebut wajar?
 
-**Rafizi Ramli:** Bahasa diplomatik memang begitu. Sebuah kerajaan perlu mengambil kira pelbagai pertimbangan diplomatik dan hubungan perdagangan dengan kuasa besar seperti Amerika Syarikat. Menyambut baik "usaha menamatkan perang" adalah bahasa diplomasi standard. Namun, jika kerajaan Malaysia sehingga menyokong pelan fizikal Gaza yang diusulkan Trump itu, itu barulah satu kesilapan besar.
+**Rafizi:** Bahasa diplomatik memang begitu. Sebuah kerajaan perlu mengambil kira pelbagai pertimbangan diplomatik dan hubungan perdagangan dengan kuasa besar seperti Amerika Syarikat. Menyambut baik "usaha menamatkan perang" adalah bahasa diplomasi standard. Namun, jika kerajaan Malaysia sehingga menyokong pelan fizikal Gaza yang diusulkan Trump itu, itu barulah satu kesilapan besar.
 
 **Interviewer:** Berhubung misi Flotila Kemanusiaan ke Gaza, baru-baru ini 15 rakyat Malaysia yang menyertai misi tersebut telah ditangkap rejim Israel dan diusir pulang melalui Eropah. Apakah tindakan atau pendirian paling tepat yang sepatutnya Malaysia ambil?
 
-**Rafizi Ramli:** Keutamaan tertinggi kerajaan adalah memastikan keselamatan dan kepulangan rakyat kita. Aktivis-aktivis yang berani ini telah pun mencapai matlamat mereka untuk mengetuk kesedaran dunia.
+**Rafizi:** Keutamaan tertinggi kerajaan adalah memastikan keselamatan dan kepulangan rakyat kita. Aktivis-aktivis yang berani ini telah pun mencapai matlamat mereka untuk mengetuk kesedaran dunia.
 
 Reaksi ahli politik tempatan biasa kita lihat—masing-masing cuba menunggang isu untuk menunjuk siapa paling pejuang. Tetapi ikhtiar sebenar yang perlu digembleng ialah memastikan gerakan flotila ini tidak terhenti di sini. Kita perlu melahirkan lebih ramai sukarelawan yang sedia menyertai gelombang flotila seterusnya.
 
@@ -189,7 +189,7 @@ Saya sejujurnya berasa malu kepada diri sendiri jika sekadar mendabik dada membu
 
 **Interviewer:** Baik YB. Kita masuk ke segmen teknologi, "Fuiyoh". Minggu ini kita ada paparan video robot berkaki empat anti-graviti buatan syarikat Unitree dari China yang boleh bangun semula secara automatik selepas jatuh. YB sendiri pernah melawat pejabat Unitree di China semasa menjawat jawatan Menteri Ekonomi. Boleh YB kongsikan pengalamannya?
 
-**Rafizi Ramli:** Semasa saya melawat China untuk menarik pelaburan ke Zon Ekonomi Khas Johor-Singapura (JS-SEZ), saya meluangkan masa melawat ibu pejabat Unitree di Hangzhou.
+**Rafizi:** Semasa saya melawat China untuk menarik pelaburan ke Zon Ekonomi Khas Johor-Singapura (JS-SEZ), saya meluangkan masa melawat ibu pejabat Unitree di Hangzhou.
 
 Saya bertanya kepada pasukan Kementerian Ekonomi, syarikat manakah yang paling terdepan dalam bidang teknologi robotik di China. Jawapannya ialah Unitree. Pengasasnya seorang pemuda berijazah PhD yang menubuhkan syarikat ini pada usia sekitar 22 tahun. Semasa saya bertemu dengannya, beliau hanya berpakaian baju-T, seluar jeans dan selipar di sebuah bangunan kilang yang sangat sederhana.
 
@@ -209,7 +209,7 @@ Kecanggihan robotik ini bukan pada rupanya, tetapi pada sistem refleks, koordina
 
 **Interviewer:** Kita masuk ke segmen terakhir, Soal Jawab (*Q&A*) "Banyak Tanya". Soalan pertama daripada Wan Natasha: "Bagaimanakah cadangan menamatkan persekolahan pada umur 16 tahun dapat mengelakkan jurang setahun sebelum memulakan A-Levels atau IB pada umur 17 tahun? Dan adakah kerajaan akan mengkaji semula penempatan automatik anak pegawai/diplomat ke sekolah antarabangsa dengan kos sekitar RM100,000 setahun sebaliknya disalurkan kepada sekolah kebangsaan?"
 
-**Rafizi Ramli:** Saya memberi pandangan perseorangan. Berkenaan umur persekolahan, program A-Levels atau IB (International Baccalaureate) adalah pengajian pra-universiti. Tiada halangan umur untuk memulakannya sebaik sahaja lulus kelayakan sekolah menengah.
+**Rafizi:** Saya memberi pandangan perseorangan. Berkenaan umur persekolahan, program A-Levels atau IB (International Baccalaureate) adalah pengajian pra-universiti. Tiada halangan umur untuk memulakannya sebaik sahaja lulus kelayakan sekolah menengah.
 
 Di Malaysia sekarang, peperiksaan SPM diambil pada umur 17 tahun (hujung tahun). Keputusan keluar pada Mac tahun berikutnya, dan pengambilan penggal A-Levels/IB biasanya bermula pada bulan Ogos/September. Ini menyebabkan pelajar terpaksa menunggu sekitar 9 hingga 10 bulan dan hanya memulakan pra-universiti pada umur 18 tahun.
 
@@ -223,7 +223,7 @@ Rakyat umum mungkin baru tahu mengenai perbelanjaan ini dan menganggapnya tidak 
 
 **Interviewer:** Soalan kedua daripada Furhan Rosli: "Apakah halangan utama—seperti teknologi bahan, reka bentuk teras, modal, jumlah jualan, pensijilan FAA, rantaian bekalan, atau kawal selia ITAR—untuk membangunkan industri enjin jet komersial atau tentera di Malaysia?"
 
-**Rafizi Ramli:** Industri enjin jet ialah industri monopoli dan oligopoli yang sangat padat modal. Pembuat pesawat komersial dunia didominasi oleh Boeing, Airbus, dan kini COMAC dari China. Manakala pengeluar enjin jet didominasi oleh gergasi seperti General Electric (GE), Rolls-Royce, dan Pratt & Whitney.
+**Rafizi:** Industri enjin jet ialah industri monopoli dan oligopoli yang sangat padat modal. Pembuat pesawat komersial dunia didominasi oleh Boeing, Airbus, dan kini COMAC dari China. Manakala pengeluar enjin jet didominasi oleh gergasi seperti General Electric (GE), Rolls-Royce, dan Pratt & Whitney.
 
 Halangan terbesar bagi negara seperti Malaysia bukan sahaja pada teknologi, pensijilan FAA, atau kawal selia eksport ITAR, tetapi pada kemampuan menanggung kadar pembakaran modal (*money burning rate*) yang amat dahsyat sebelum teknologi tersebut mencapai tahap penerimaan pasaran (*adoption*).
 
@@ -233,7 +233,7 @@ Tanpa pasaran skala besar yang terjamin (*volume adoption*), pembinaan enjin jet
 
 **Interviewer:** Soalan ketiga daripada Afiq Ikhwan: "Ramai ahli politik kini bertindak sebagai pempengaruh (*influencer*). Apakah prinsip YB untuk membezakan komunikasi dasar yang berisi berbanding kandungan memburu jumlah tontonan (*views*)? Dan apakah pandangan YB mengenai etika penggunaan sumber kerajaan untuk tujuan kandungan media sosial?"
 
-**Rafizi Ramli:** Saya tidak melihatnya sebagai memegang dua peranan (*double hat*). Ahli politik wajib berkomunikasi, dan media sosial seperti TikTok, Facebook, YouTube, serta X merupakan saluran komunikasi utama hari ini.
+**Rafizi:** Saya tidak melihatnya sebagai memegang dua peranan (*double hat*). Ahli politik wajib berkomunikasi, dan media sosial seperti TikTok, Facebook, YouTube, serta X merupakan saluran komunikasi utama hari ini.
 
 Tugas ahli politik adalah membawa perubahan idea, dan itu memerlukan komunikasi berterusan. Yang menyebabkan rakyat marah ialah apabila sesetengah pemimpin—sama ada era Pakatan Harapan, Barisan Nasional, mahupun Perikatan Nasional—menjadi "lumpuh" dari segi komunikasi sebaik sahaja memegang jawatan kerajaan. Dasar tidak diterangkan kepada rakyat.
 
@@ -247,6 +247,6 @@ Gimik politik tidak menjadikan seseorang itu tulen (*authentic*). Prinsip saya i
 
 **Interviewer:** Baik YB. Itu sahaja soalan untuk episod kali ini.
 
-**Rafizi Ramli:** Prestasi saya bertahan tidak menyebut "apa nama" nampaknya tergelincir sedikit di saat-saat akhir tadi. Minggu depan kita sasar sifir "apa nama".
+**Rafizi:** Prestasi saya bertahan tidak menyebut "apa nama" nampaknya tergelincir sedikit di saat-saat akhir tadi. Minggu depan kita sasar sifir "apa nama".
 
 **Interviewer:** Satu kenyataan yang berani! Kita lihat hasilnya minggu depan. Terima kasih YB, dan terima kasih semua. Jumpa lagi minggu depan, assalamualaikum.

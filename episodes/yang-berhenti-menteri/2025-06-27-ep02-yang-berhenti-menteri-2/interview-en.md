@@ -8,7 +8,7 @@ duration_seconds: 5842
 duration: 1h 37m
 view_count: 95279
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Abie
 guests:
 - Iswardi Murni
@@ -27,7 +27,7 @@ topics:
 - Student Protests
 - Political Polling
 - Merdeka Center
-summary: In this episode of the ministerial stop podcast, Rafizi Ramli and Iswardi
+summary: In this episode of the ministerial stop podcast, Rafizi and Iswardi
   Murni discuss the complexities of Malaysia's electricity tariff system and Incentive-Based
   Regulation (IBR). They further debate the legal implications of the DNAA granted
   in Najib Razak's case, the government's stance on digital sovereignty regarding
@@ -52,7 +52,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Iswardi Murni:** Educationally speaking, I studied law at a university in the UK. The same year as YB Rafizi.
 
-**Rafizi Ramli:** Really? Why do you look older?
+**Rafizi:** Really? Why do you look older?
 
 **Iswardi Murni:** Because I have this beard. It was the same year, and we are the same age. We are the same age; anyone born in 1977 is completely useless. But as time goes by, I like to explore many things. Besides that, if it's part-time and I'm interested, I also compose music. At the same time, I'm also a scriptwriter.
 
@@ -64,15 +64,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Iswardi Murni:** I’ve been doing it for 20 years, I’m rich! Including the artists I've worked with—the first telemovie I wrote featured Shaheizy Sam.
 
-**Rafizi Ramli:** Shaheizy Sam? Who was the first director?
+**Rafizi:** Shaheizy Sam? Who was the first director?
 
 **Iswardi Murni:** Ahmad Idham.
 
-**Rafizi Ramli:** I didn't even know. That’s why he can do storytelling.
+**Rafizi:** I didn't even know. That’s why he can do storytelling.
 
 **Moderator:** Alhamdulillah, I’ve managed to dig up the right things from Abang Is. Just one more thing before we get into the topic, to link it to our permanent guest speaker, YB Rafizi. Perhaps people want to know when YB first encountered Abang Is?
 
-**Rafizi Ramli:** I think 2016 or 2017. Eh, are you still here? No, I’m just joking. I thought everyone had changed the moderator. I thought only Is was here just now, I was confused for a moment.
+**Rafizi:** I think 2016 or 2017. Eh, are you still here? No, I’m just joking. I thought everyone had changed the moderator. I thought only Is was here just now, I was confused for a moment.
 
 **Moderator:** Oh, really? I apologize YB, this is my last week, I promise. So we can probably move on with today's discussion. The production side informed me that the "Yang Berhenti Menteri" podcast will have focused segments after this that might be a bit technical, and for the rest, we’ll just keep it casual. Iswardi is busy now too.
 
@@ -80,7 +80,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Moderator:** Alright, first question: electricity tariffs have been the talk of the town for a while and suddenly they went up. In the end, will TNB and the hearts of the people "burn" together?
 
-**Rafizi Ramli:** It actually didn't go up, because it uses a different tariff schedule. Sometimes our people are in a rush; people have not come out yet, and we don’t understand how the tariff structure is. At the end of last year, when it was announced, it was called IBR. Our people, even the bankers, don't always understand what IBR is. What’s it called, Incentive-Based Regulation (IBR), right. So at that time, TNB announced that the government had agreed to increase the base tariff from 39.6 sen to 45.5 sen. By calculation, the base tariff went up 14% at the end of last year.
+**Rafizi:** It actually didn't go up, because it uses a different tariff schedule. Sometimes our people are in a rush; people have not come out yet, and we don’t understand how the tariff structure is. At the end of last year, when it was announced, it was called IBR. Our people, even the bankers, don't always understand what IBR is. What’s it called, Incentive-Based Regulation (IBR), right. So at that time, TNB announced that the government had agreed to increase the base tariff from 39.6 sen to 45.5 sen. By calculation, the base tariff went up 14% at the end of last year.
 
 So, Malaysia was in a mess. In July, the price of electricity was expected to go up by 14%. At that time, I wanted to make a TikTok video to comment, but they said it's okay, let's wait until the last tariff to the user was announced, which just happened last week. Because that will provide a good opportunity for us to explain the tariff structure. Actually, sometimes we only see things when the electricity reaches us, when the bill reaches us. I think it's good for Malaysians to start understanding how the industry works.
 
@@ -90,7 +90,7 @@ So people ask me, "Oh, why do you want to burn it?" How is it that when TNB’s 
 
 **Iswardi Murni:** Can I comment? Based on what I've read and what I want to cover in my live, it's called incentive-based regulation. It's based on consumption and how we use that energy. For example, if TNB's usage is less than what it should be according to Energy Commission regulations, TNB can give it back to the users because of the savings made. If it's more, they have to pay. But because of those savings, I think it’s better because we don’t punish those who don’t use much compared to those who use a lot. With this method, we have freed TNB itself in order to give ease to the users. Those who use less get more incentive. That’s what I understand now, is it correct or not?
 
-**Rafizi Ramli:** Yes, that's why this podcast is important. One of the things I hope we can do is explain complex things in the eyes of the people. It is actually quite complex. For example, TNB on behalf of the government has to buy at a price that has gone up 14%. Why did the price go up? Will TNB get filthy rich? People are angry at TNB because they make billions in profit. People say, "Please give me a free rebate because I want to praise TNB!" People get angry every time tariffs go up while TNB makes huge profits.
+**Rafizi:** Yes, that's why this podcast is important. One of the things I hope we can do is explain complex things in the eyes of the people. It is actually quite complex. For example, TNB on behalf of the government has to buy at a price that has gone up 14%. Why did the price go up? Will TNB get filthy rich? People are angry at TNB because they make billions in profit. People say, "Please give me a free rebate because I want to praise TNB!" People get angry every time tariffs go up while TNB makes huge profits.
 
 Actually, this involves the Ministry of Economy and PETRA (Ministry of Energy Transition and Water Transformation) as well as the Energy Commission. It's the same as buying goods from a factory; the factory sets the price based on labor costs, rent, and raw materials. Electricity is the same. From the 100% cost that is estimated to set the basic rate, there are roughly four categories. The biggest one is actually 69% of the cost—the cost of energy, like coal or gas. The smallest is renewables like solar.
 
@@ -102,7 +102,7 @@ If you want to say that any government can lower the price of electricity, it’
 
 **Iswardi Murni:** But some have commented, since we only have one player which is TNB, why don’t we create more competitors? With more competition, they can play with prices. For example, in the UK, there are many gas providers, so we have alternatives. Like Telcos, there is a lot of competition so prices can be manipulated there. Why don't we have an alternative to TNB?
 
-**Rafizi Ramli:** Other countries have gone through deregulation, meaning they dismantle the monopoly of government utility companies and allow anyone to supply electricity. An example of a good experience—well, I can tell you straight away, I don't agree if we are not careful with deregulating like that. The experience in Europe, especially the UK in the late 90s, showed that when there were a lot of players, they actually pushed prices up rather than competition bringing them down. A few years later, that didn’t happen as expected. The UK and other countries are slowly coming back to a hybrid of total free market competition.
+**Rafizi:** Other countries have gone through deregulation, meaning they dismantle the monopoly of government utility companies and allow anyone to supply electricity. An example of a good experience—well, I can tell you straight away, I don't agree if we are not careful with deregulating like that. The experience in Europe, especially the UK in the late 90s, showed that when there were a lot of players, they actually pushed prices up rather than competition bringing them down. A few years later, that didn’t happen as expected. The UK and other countries are slowly coming back to a hybrid of total free market competition.
 
  The model we have in Malaysia is actually good. TNB started with a total monopoly from generation to transmission and distribution. Then came the IPPs. The current model is that the backbone infrastructure, because it is of national interest, is indeed under TNB. Transmission lines involve billions in investment; it’s not easy to have two or three competing lines.
 
@@ -112,11 +112,11 @@ The process of ensuring TNB's role is not seen as "strangling" through a monopol
 
 **Moderator:** Has the CRES issue been implemented? And is TNB aware of this?
 
-**Rafizi Ramli:** Yes, it’s all there. The private sector will supply directly from seller to buyer under CRES. One project, say for a large factory or a data center that wants 500 megawatts, requires an investment of at least RM3-4 billion. By opening that space, we hope more private companies will enter the solar field. It’s not like before; now they can sell direct and just pay wheeling charges.
+**Rafizi:** Yes, it’s all there. The private sector will supply directly from seller to buyer under CRES. One project, say for a large factory or a data center that wants 500 megawatts, requires an investment of at least RM3-4 billion. By opening that space, we hope more private companies will enter the solar field. It’s not like before; now they can sell direct and just pay wheeling charges.
 
 **Iswardi Murni:** But regarding solar, is it better if we go into nuclear? Some question it because solar requires a lot of land and there’s an opportunity cost there.
 
-**Rafizi Ramli:** The current government policy is indeed open to nuclear. The only thing about nuclear is the cost is still very expensive. People say nuclear is cheap, but if we have one nuclear plant, the base tariff might not be 45 sen—it might be 60 sen. There is indeed new technology, but nuclear is an option for the long term because it takes at least 10 years to be developed according to international laws and safety. So we are already there, it's just a question of when it will be sanctioned after looking at the dollars and cents.
+**Rafizi:** The current government policy is indeed open to nuclear. The only thing about nuclear is the cost is still very expensive. People say nuclear is cheap, but if we have one nuclear plant, the base tariff might not be 45 sen—it might be 60 sen. There is indeed new technology, but nuclear is an option for the long term because it takes at least 10 years to be developed according to international laws and safety. So we are already there, it's just a question of when it will be sanctioned after looking at the dollars and cents.
 
 The best option for Malaysia is still solar at this moment. And the best choice for the people is not to waste electricity. It’s not going to get cheaper. The rule of thumb for solar is that one megawatt requires approximately four acres. If it's 100 megawatts, that's 400 acres. If everyone does solar, what are we going to eat? All of Malaysia becomes a solar farm.
 
@@ -126,15 +126,15 @@ In other countries, companies actually rent the roof of the house. Say a neighbo
 
 **Moderator:** But YB, you just proposed this to the ministry?
 
-**Rafizi Ramli:** That is the vision in the NETR (National Energy Transition Roadmap). We will not be able to fulfill the potential of solar if we only rely on large solar farms that use hundreds of hectares. We have to quickly shift to rooftop solar because it helps with supply sustainability and helps the people generate income. For that to happen, we need a market. Do people sell to TNB or to an exchange market? I hope in the next 3-4 years this starts happening so we can accelerate the composition of solar generation.
+**Rafizi:** That is the vision in the NETR (National Energy Transition Roadmap). We will not be able to fulfill the potential of solar if we only rely on large solar farms that use hundreds of hectares. We have to quickly shift to rooftop solar because it helps with supply sustainability and helps the people generate income. For that to happen, we need a market. Do people sell to TNB or to an exchange market? I hope in the next 3-4 years this starts happening so we can accelerate the composition of solar generation.
 
 **Iswardi Murni:** Who should we ask about this? PETRA?
 
-**Rafizi Ramli:** To PETRA, to the Minister of Economy, whoever he is. It involves the people. But it still hasn't been answered why the base tariff is 45 sen (a 14% increase) but suddenly the tariff schedule saves RM4?
+**Rafizi:** To PETRA, to the Minister of Economy, whoever he is. It involves the people. But it still hasn't been answered why the base tariff is 45 sen (a 14% increase) but suddenly the tariff schedule saves RM4?
 
 **Moderator:** Not answered yet. Is there time to Google it?
 
-**Rafizi Ramli:** I’m asking because he works there! That is an average; it is not reflected directly to the end-user. The end-user is subject to their level of usage. As Is said earlier, the government bears that 14% increase from 39.6 sen to 45.6 sen. The government has to pay TNB, you know, it’s a lot. But when the government sets the tariff schedule, the government takes into account that 85% of our households use electricity below 600 kWh.
+**Rafizi:** I’m asking because he works there! That is an average; it is not reflected directly to the end-user. The end-user is subject to their level of usage. As Is said earlier, the government bears that 14% increase from 39.6 sen to 45.6 sen. The government has to pay TNB, you know, it’s a lot. But when the government sets the tariff schedule, the government takes into account that 85% of our households use electricity below 600 kWh.
 
 If you look at the TNB website, there are various cost components like generation cost and ICPT (Imbalance Cost Pass-Through). All of that involves rebates based on usage. For example, people who use under 200 kWh a month only pay RM25, meaning the balance is paid by the government as a subsidy. When usage increases, the subsidy decreases. In this new tariff schedule, if you reach 1,000 kWh, you have to pay the actual cost, which is 45 sen. Lesser subsidy there. For 85% of homes that use under 600 kWh, they still get a rebate of around 9 sen, meaning they only pay a cost of around 36 sen. That’s why when compared to the new tariff schedule, you can actually save RM4.
 
@@ -142,17 +142,17 @@ But of course, it's taking from the left pocket to put in the right because the 
 
 **Moderator:** Is that money from loans?
 
-**Rafizi Ramli:** You can't borrow for that. According to the Constitution, subsidies are operating expenditures and must come from national revenue. If the electricity subsidy rises sharply by RM10 billion, we have to cut allocations elsewhere, usually development expenditure (hospitals, schools, roads) because development expenditure can be borrowed. That’s the mechanic. It’s a long story, this is just one podcast. After this, many people could become ministers!
+**Rafizi:** You can't borrow for that. According to the Constitution, subsidies are operating expenditures and must come from national revenue. If the electricity subsidy rises sharply by RM10 billion, we have to cut allocations elsewhere, usually development expenditure (hospitals, schools, roads) because development expenditure can be borrowed. That’s the mechanic. It’s a long story, this is just one podcast. After this, many people could become ministers!
 
 That 45 sen base tariff is actually based on subsidized gas prices from PETRONAS. PETRONAS sells gas to generators at RM35 per MMBtu, whereas the market price might be RM45 to RM60. PETRONAS bears that difference. If PETRONAS didn't bear it, the dividend to the government might be higher and taxes might be less. Everything is linked. So no matter what kind of minister comes in, you can't run away from this reality. That’s why I say, what’s important is reducing electricity consumption.
 
 **Iswardi Murni:** That's true, but people will criticize. They’ll say, "What kind of minister tells people to reduce electricity use? It's easy for you, you're a minister!" But the reality is it will become increasingly expensive.
 
-**Rafizi Ramli:** I think I’ve answered the first question.
+**Rafizi:** I think I’ve answered the first question.
 
 **Moderator:** Not yet, because the question was whether anyone would "burn"?
 
-**Rafizi Ramli:** We’ll see, but I don't think so because 85% are not affected. As I mentioned before, many people talk about the T20, but that is my advice to everyone. Many things are more complex than what they seem. In this Facebook era, there are members of parliament who don't understand IBR but trumpet to all of Malaysia that prices are up, prices are up. As a result, some traders take advantage by raising prices of goods even though their electricity tariffs didn't even go up. If they understood that the base tariff is not the same as the final tariff schedule, they wouldn't do that. The lesson is, check first. You can even ask ChatGPT.
+**Rafizi:** We’ll see, but I don't think so because 85% are not affected. As I mentioned before, many people talk about the T20, but that is my advice to everyone. Many things are more complex than what they seem. In this Facebook era, there are members of parliament who don't understand IBR but trumpet to all of Malaysia that prices are up, prices are up. As a result, some traders take advantage by raising prices of goods even though their electricity tariffs didn't even go up. If they understood that the base tariff is not the same as the final tariff schedule, they wouldn't do that. The lesson is, check first. You can even ask ChatGPT.
 
 **Moderator:** Alright, let’s transition to current issues. Is, you ask because I want to take a break. The next issue relates to YB a bit. The first issue is the granting of DNAA (Discharge Not Amounting to Acquittal) to Datuk Seri Najib Razak. YB has issued a statement, the AGC has responded, but YB hasn't replied to the AGC's response yet. The AGC said the documents were used for other cases. YB and Is have also been in and out of court many times. Is this reason reasonable?
 
@@ -168,7 +168,7 @@ Sometimes we are over-excited to prosecute people. We have to stick to legal pri
 
 **Moderator:** The AGC didn't answer, but Abang Is helped answer it. What about you, YB?
 
-**Rafizi Ramli:** Legally, that is the answer. But another thing is from the perspective and view of the people. Before a trial begins, the prosecutor and defense counsel have to exchange documents (bundle of documents). Usually, they do use photocopies. As long as you can call "the maker of the document" to verify it, it can be accepted as evidence. So the reason for waiting for other 1MDB cases to finish before giving those documents really makes people scratch their heads.
+**Rafizi:** Legally, that is the answer. But another thing is from the perspective and view of the people. Before a trial begins, the prosecutor and defense counsel have to exchange documents (bundle of documents). Usually, they do use photocopies. As long as you can call "the maker of the document" to verify it, it can be accepted as evidence. So the reason for waiting for other 1MDB cases to finish before giving those documents really makes people scratch their heads.
 
 This raises concerns about perception. Because there has been a series of 1MDB-related cases that are seen as being "let off," some people will ask, "Is this the price paid because UMNO is in the Unity Government?" That will cause problems. As a backbencher, I have to remind the government. I don't know what is actually happening behind the scenes, but ordinary people will think: if you look at the track record, does this mean this case will also be closed and just disappear?
 
@@ -184,17 +184,17 @@ This is what we are waiting for. At the very least, there needs to be a commitme
 
 **Moderator:** YB, sorry, just a bit more. Practically, regarding these "flawed" prosecutions, is there no quality control we can implement?
 
-**Rafizi Ramli:** Don't ask me, I'm not a lawyer! I've never worked in chambers, I'm the one who's always being prosecuted. Ask Is.
+**Rafizi:** Don't ask me, I'm not a lawyer! I've never worked in chambers, I'm the one who's always being prosecuted. Ask Is.
 
 **Iswardi Murni:** Every investigation paper, when it reaches the public prosecutor, they will look at it. There is a certain percentage that must be met before they can prosecute. They have to ensure evidence and documents are sufficient—for example, that a 90% conviction is possible—before charging. If they just charge blindly, it wastes court time and taxpayers' money. In fact, if they lose, the government can be sued back.
 
 So there must be a threshold. This brings it back to the question just now: if they charged in 2019, it means it already passed the threshold. But we are well aware that ordinary people are charged for 3-4 years without trial. Imagine if their parents are in Rompin or Pekan and have to travel back and forth to the court in Kuantan every time a mention is postponed. This process is what needs to be improved.
 
-**Rafizi Ramli:** It goes up, right? Up from Rompin to Kuantan. His child also wants to go to Kuantan. You know the human misery is actually quite... So, if there is a threshold, dispose of the case quickly. And the hearing, when he gets a hearing, he is not the one who decides—the DPP will go to the highest, his boss. They will approve. The approval itself shows that they are ready. But that’s it.
+**Rafizi:** It goes up, right? Up from Rompin to Kuantan. His child also wants to go to Kuantan. You know the human misery is actually quite... So, if there is a threshold, dispose of the case quickly. And the hearing, when he gets a hearing, he is not the one who decides—the DPP will go to the highest, his boss. They will approve. The approval itself shows that they are ready. But that’s it.
 
 **Abie:** Alright, that's settled... later we'll be the ones prosecuted. So let's go to the next one. The next issue relates to the Telegram court order, where the MCMC recently applied and the High Court granted an injunction. Regarding the "Edisi Siasat" investigation? What special ADC is that? Everything is gone. Let's not keep repeating it. Sorry, YB. Now, seeing as an ordinary citizen...
 
-**Rafizi Ramli:** Is a minister not an ordinary citizen? Some feel like ordinary citizens. Actually, they are ordinary citizens, but the connotation is wrong, you know. Once someone becomes a minister, they are no longer seen as an ordinary citizen. Anyway, okay.
+**Rafizi:** Is a minister not an ordinary citizen? Some feel like ordinary citizens. Actually, they are ordinary citizens, but the connotation is wrong, you know. Once someone becomes a minister, they are no longer seen as an ordinary citizen. Anyway, okay.
 
 **Abie:** So people want to balance between a government that might think there needs to be digital sovereignty—having control over what is said in there—and another part is for us to balance that with media freedom, including for whistleblowing and so on. So how do we actually strike the balance between these two? But for this issue, it's more extreme because the reason given was simply that this would undermine government institutions, which I feel... I don't know if Abang Is can accept that or not. But that was the reason given.
 
@@ -214,7 +214,7 @@ For example, the case in Sabah, the guy who was exposed about the five names of 
 
 **Is:** There are indeed some. But YB, the price of becoming a whistleblower is quite expensive. Some people will lose everything. So it's not easy to expose yourself. YB, what’s your experience?
 
-**Rafizi Ramli:** Regarding Telegram, so this has become an issue, right. But I think a balance has to be found like this. The strong reason or argument for the government to license—and with that license or legal action, being able to direct the platform to remove or close—the reason is crime. Meaning crimes by scammers, sex, prostitution and everything else. So every law and every action, even if it starts with good intentions, if you are not careful, it will be misinterpreted.
+**Rafizi:** Regarding Telegram, so this has become an issue, right. But I think a balance has to be found like this. The strong reason or argument for the government to license—and with that license or legal action, being able to direct the platform to remove or close—the reason is crime. Meaning crimes by scammers, sex, prostitution and everything else. So every law and every action, even if it starts with good intentions, if you are not careful, it will be misinterpreted.
 
 If I remember about this Edisi Siasat, if actually there were 10 or 20 similar actions regarding other things involving scammers and so on, it might be able to strike the balance. So when suddenly the first one taken action against to close is Edisi Siasat, then yes, some people will feel that this government has no tolerance for dissenting space. I agree. As a public figure, if you notice, I have never sued anyone. I wanted to sue Wan Fayhsal because he is very clear—he is arrogant and slanderous—but I think I don't want to start. My personal view is as a public figure, you have all the space to answer. So if you take the action of summoning people—I don't agree to just summon—we can answer. Indeed, not everyone will believe. Even if you go to court, not everyone will believe. If people have already thought like that, they will think like that.
 
@@ -230,15 +230,15 @@ Just one addition from me, through internal information, if a Telegram page has 
 
 **Is:** No, I actually, to be honest, I agree.
 
-**Rafizi Ramli:** I don't agree.
+**Rafizi:** I don't agree.
 
 **Is:** I agree with closing, YB doesn't agree.
 
-**Rafizi Ramli:** Because I am behind it. It's okay, to have differing opinions. No, no, no, I'm just lying. Someone will actually take that seriously, and I'll get arrested tomorrow. Just joking.
+**Rafizi:** Because I am behind it. It's okay, to have differing opinions. No, no, no, I'm just lying. Someone will actually take that seriously, and I'll get arrested tomorrow. Just joking.
 
 **Abie:** Okay, that's settled. The very last issue is the issue related to the burning of a PMX caricature by several students at UMS. The angle I want to try to take is that YB always says when we want to give an opinion, we must have credibility. I see responses from various young people—Wing A criticizes, Wing B supports. We look at their track record, for example, AMK, right. Actually, logically as the government wing, they take the approach of supporting. It’s just that it seems people can't buy into it perhaps because Keadilan and Pakatan Harapan were once involved in such stunts. So when we become the government, we then say, "Be polite, don't be like that." So it's difficult for a youth wing. Actually, how should we respond to that approach? Have we ever burned pictures of the Prime Minister? Even though we were never implicated, right?
 
-**Rafizi Ramli:** Well, I mean, I think what's most important is don't shoot the messenger. That's one. For example, Fahmi Reza, who hasn't he criticized? Who hasn't he drawn? But I think as I said earlier, as public figures we have the space to answer. And even though it’s in the form of criticism, personal views change and differ according to feelings. Some people are not angry even if you draw a cartoon; some are not worried even if you burn it. The rule number one is as a public figure, don’t shoot the messenger because the judge is not you. The judge is the people.
+**Rafizi:** Well, I mean, I think what's most important is don't shoot the messenger. That's one. For example, Fahmi Reza, who hasn't he criticized? Who hasn't he drawn? But I think as I said earlier, as public figures we have the space to answer. And even though it’s in the form of criticism, personal views change and differ according to feelings. Some people are not angry even if you draw a cartoon; some are not worried even if you burn it. The rule number one is as a public figure, don’t shoot the messenger because the judge is not you. The judge is the people.
 
 It is a dynamic thing. Suppose there is leader A, then there is a protest and the method of protest is, say, burning. Actually, what that leader A feels is not important. What is important is the general view of the people about that episode based on the leader's reaction. So actually, each has their own grace. That's why for me, let it be, I don't care if people do it. If they want to burn it, burn it. Secondly, they are kids. We were all kids once. Even though I never burned anything—one reason being I'm afraid of playing with fire, I might burn someone—that's everyone's right. Some people have a rough character, and as they grow older, they will see different perspectives in life. Many political leaders or ministers now used to do all sorts of things. So I think in that sense, we don't need to be judgmental. What's important is the message, because in the end, the people will judge for themselves.
 
@@ -248,7 +248,7 @@ What exactly do we want from our younger generation? I actually want them to car
 
 **Is:** But maybe AMK and the students can fight? I agree with that point too. We have to give space to students to express their views as long as it's within legal boundaries. In fact, did YB watch the video of the boy burning it?
 
-**Rafizi Ramli:** I saw it for a while. 
+**Rafizi:** I saw it for a while. 
 
 **Is:** When he poured the liquid and set the fire, he looked so scared. That's why I don't go near fire. If you want to burn, you have to learn. Next time, go to a safety course first. But for me, we open the avenue through dialogue and discussion. I actually like different opinions and views. I don't like it when people just say, "That's right, Is, you're the best." I like opinions that make us think, "What that kid said just now is actually right." We want to create that kind of atmosphere. If he wanted to burn that, maybe he felt there was no space. So we should provide space. Some in AMK criticized it, but did he burn it because he was truly angry or was it a gimmick? I think it was more of a gimmick to attract attention. 
 
@@ -262,11 +262,11 @@ Another thing for the government, the discourse shouldn't be superficial. Doing 
 
 **Abie:** Okay YB, we’ve talked about the country, now let's talk about politics. Moving forward, YB once disappeared from the political radar in 2019. After this, with the current situation and with YB saying you feel a bit hurt as well, will YB disappear again after this? 
 
-**Rafizi Ramli:** It’s different. Back in 2019, I wasn't a Member of Parliament. And the desire to see the government change had already happened. The signals from the party were also quite clear. I mean, those who won and became ministers didn't want to be disturbed. Dato' Seri Anwar was busy with preparations to become Prime Minister. In terms of my expertise, it wasn't necessary. I'm a campaigner; the party had won. If you were in my shoes, what standing did I have at that time? I had no standing. I wasn't a Member of Parliament, I was an ordinary person, I held no position. At that time, the party leadership was filled with ministers or people who had won, and the party had no specific programs to win elections because we had already won. So my services weren't needed then. I have my life to run. 
+**Rafizi:** It’s different. Back in 2019, I wasn't a Member of Parliament. And the desire to see the government change had already happened. The signals from the party were also quite clear. I mean, those who won and became ministers didn't want to be disturbed. Dato' Seri Anwar was busy with preparations to become Prime Minister. In terms of my expertise, it wasn't necessary. I'm a campaigner; the party had won. If you were in my shoes, what standing did I have at that time? I had no standing. I wasn't a Member of Parliament, I was an ordinary person, I held no position. At that time, the party leadership was filled with ministers or people who had won, and the party had no specific programs to win elections because we had already won. So my services weren't needed then. I have my life to run. 
 
 **Is:** But don't you have a demand for brotherhood? Because after that, we felt a weakness...
 
-**Rafizi Ramli:** No, I don't know. I was jogging at that time. I'm a human being. Sometimes people forget I have a family. After 2018, I didn't have a salary. I had to leave. And because I didn't have a responsibility, it’s only right I moved on. I didn't disturb anyone and I did my job. Of course, now it's different because I'm still a Member of Parliament. Two years will come, and the situation after that is fluid; we don't know what will happen. My financial position is much better now than before, so I have more space and time to continue being active in the community. 
+**Rafizi:** No, I don't know. I was jogging at that time. I'm a human being. Sometimes people forget I have a family. After 2018, I didn't have a salary. I had to leave. And because I didn't have a responsibility, it’s only right I moved on. I didn't disturb anyone and I did my job. Of course, now it's different because I'm still a Member of Parliament. Two years will come, and the situation after that is fluid; we don't know what will happen. My financial position is much better now than before, so I have more space and time to continue being active in the community. 
 
 Furthermore, after two and a half years as Economy Minister, there are things I feel are important for the country that even the government will take time to do. So that is a space where I feel I can work on earlier with the community—the third sector and so on. It’s an exciting learning curve for me. The main issue in this country is the rising price of goods, the price of food. Even when inflation dropped to its lowest at 1.2% last month, the price of *nasi campur* (mixed rice) will not go down. Even if electricity doesn't go up, prices won't go down. The statistics look good, but the prices remain as they are. 
 
@@ -276,15 +276,15 @@ When I made a decision a few months ago quietly that if certain lines are crosse
 
 **Abie:** But YB started the campaign in 2016 for the 2018 election. Are you still going to do that after this? Globally like before, or just focusing on your constituency?
 
-**Rafizi Ramli:** I don't feel I have the mandate to speak on behalf of the party or PH. As a person, I don't have that mandate. 2016 was different because at that time things weren't moving. People mentioned I was the election director along with Izzah, but actually, nothing was moving in the party at all. That's why we had no choice; we had to go out and campaign for the party externally. 
+**Rafizi:** I don't feel I have the mandate to speak on behalf of the party or PH. As a person, I don't have that mandate. 2016 was different because at that time things weren't moving. People mentioned I was the election director along with Izzah, but actually, nothing was moving in the party at all. That's why we had no choice; we had to go out and campaign for the party externally. 
 
 **Abie:** You feel that things are moving now? 
 
-**Rafizi Ramli:** That is their responsibility. The situation is different. Now there is a Prime Minister, there are ministers. Compared to 2016, even Pakatan Rakyat didn't exist; we wanted to create something new. Dato' Seri Anwar was in prison. A large part of the party leadership actually didn't want to move, and there were disagreements because they wanted to be with UMNO. So at that time, as Vice President and Secretary-General, I was in the middle. For the sake of the party, because we knew Dato' Seri Anwar could only be released if Pakatan Harapan won. What choice did I have? I was the campaigner of last resort. But now there are many people, many influencers too. There are many other groups that can benefit from our energy, and perhaps not through partisan politics. 
+**Rafizi:** That is their responsibility. The situation is different. Now there is a Prime Minister, there are ministers. Compared to 2016, even Pakatan Rakyat didn't exist; we wanted to create something new. Dato' Seri Anwar was in prison. A large part of the party leadership actually didn't want to move, and there were disagreements because they wanted to be with UMNO. So at that time, as Vice President and Secretary-General, I was in the middle. For the sake of the party, because we knew Dato' Seri Anwar could only be released if Pakatan Harapan won. What choice did I have? I was the campaigner of last resort. But now there are many people, many influencers too. There are many other groups that can benefit from our energy, and perhaps not through partisan politics. 
 
 **Abie:** Finally, if you are a politician, you want to have an impact on society. Merdeka Center has released results showing people feel the country is on the right track. But as you've said before, just because people say the PM is good doesn't mean they will vote for us. Has YB conducted any recent studies?
 
-**Rafizi Ramli:** I'm doing one right now. We do them every month. I started becoming a data science pollster because I was dissatisfied with Merdeka Center. The data that comes in never asks about "Who is going to vote?". These surveys are very dependent on the questions, especially since Malay people tend to speak indirectly. Secondly, the survey sampling size is usually only 1,200 to 1,500. It’s called the margin of error. To get a 2-3% margin of error, you only need around 1,500 respondents. The challenge is not the number, but making sure they are representative. 
+**Rafizi:** I'm doing one right now. We do them every month. I started becoming a data science pollster because I was dissatisfied with Merdeka Center. The data that comes in never asks about "Who is going to vote?". These surveys are very dependent on the questions, especially since Malay people tend to speak indirectly. Secondly, the survey sampling size is usually only 1,200 to 1,500. It’s called the margin of error. To get a 2-3% margin of error, you only need around 1,500 respondents. The challenge is not the number, but making sure they are representative. 
 
 I don't believe in face-to-face surveys. Take IDE (Institut Darul Ehsan) for example; if you follow them, PKR wins 100 seats every time. They send university students to villages, the student knocks on a door or goes to a coffee shop. If that coffee shop happens to be a PAS stronghold, everyone answers PAS. It has to be computerized—a system that dials randomly. If a student goes to a flat and it happens to be all PKR, the data is skewed. 
 
@@ -294,13 +294,13 @@ Formulating the questions is very important. It must end with the question "If t
 
 **Abie:** From all the surveys YB has done, should we worry?
 
-**Rafizi Ramli:** I should. I mentioned it during the campaign. Pakatan Harapan, especially PKR and Amanah, should be worried because the support of Chinese and Indian voters has shifted drastically over a period of two years. We've seen in recent by-elections, the turnout is only 40% to 45%. Even though 55% say they are satisfied with the Prime Minister, we should actually be worried. In June, July, and August 2023 during the State Elections (PRN), the numbers were more or less the same. The PM's approval rating started at 60% and slid to 50%. At that time, how many state seats did PKR win? Even in Selangor, how many? Only 2 in Kedah, and not all in Penang. 
+**Rafizi:** I should. I mentioned it during the campaign. Pakatan Harapan, especially PKR and Amanah, should be worried because the support of Chinese and Indian voters has shifted drastically over a period of two years. We've seen in recent by-elections, the turnout is only 40% to 45%. Even though 55% say they are satisfied with the Prime Minister, we should actually be worried. In June, July, and August 2023 during the State Elections (PRN), the numbers were more or less the same. The PM's approval rating started at 60% and slid to 50%. At that time, how many state seats did PKR win? Even in Selangor, how many? Only 2 in Kedah, and not all in Penang. 
 
 So actually, that's what we call correlation and causation. The end of Q2 and half of Q3 2023 produced those PRN results. We haven't left "choppy waters" yet. So, it's good that people want to praise us and so on, but there also needs to be "bad boys" to give reminders so that you don't get too comfortable. 
 
 **Abie:** Will you keep feeding the data to the public after this?
 
-**Rafizi Ramli:** It depends. Usually, the surveys we do are commissioned by clients. Some clients don't want the data to be released because they paid for it. 
+**Rafizi:** It depends. Usually, the surveys we do are commissioned by clients. Some clients don't want the data to be released because they paid for it. 
 
 **Abie:** Okay, do you have anything else?
 

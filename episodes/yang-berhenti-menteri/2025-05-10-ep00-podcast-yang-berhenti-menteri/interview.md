@@ -8,20 +8,20 @@ duration_seconds: 7938
 duration: 2h 12m
 view_count: 153507
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Hakim
 - Rashidi bin Haji Bandar Ahmad
 topics:
 - PKR Party Elections
 - Headless Branch Leadership Phenomenon
-- Rafizi Ramli's Temporary Leave
+- Rafizi's Temporary Leave
 - Political Patronage vs. Reformist Idealism
 - Nurul Izzah and Nepotism Concerns
 - Gen Z Voter Engagement
 - Westminster System and Cabinet Accountability
 - JPP and Party Election Cleanliness
-summary: In this special live podcast episode, Rafizi Ramli addresses controversies
+summary: In this special live podcast episode, Rafizi addresses controversies
   surrounding the PKR party elections, including his temporary leave from ministerial
   duties, unusual election patterns like 'headless' branch leaderships, allegations
   of not maintaining grassroots support, and concerns of nepotism with Nurul Izzah's
@@ -38,35 +38,35 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Interviewer:** Ya, semua okey. Saya akan mencuba dan saya akan berjaya. Baik, Assalamualaikum dan salam sejahtera saudara-saudari. Saya mohon kerjasama sebelum kita memulakan sesi pada hari ini, penuhkan dahulu ruang di hadapan supaya boleh beri ruang kepada orang yang akan datang sedikit lambat nanti untuk kelancaran sesi podcast kita pada malam ini.
 
-**Rafizi Ramli:** Punyalah bising kat atas ni.
+**Rafizi:** Punyalah bising kat atas ni.
 
 **Interviewer:** Kita dah semak tadi, ya. Walaupun di atas... Baik, kita mulakan.
 
-**Rafizi Ramli:** Okey, lima minit. Saya tunggu sikit.
+**Rafizi:** Okey, lima minit. Saya tunggu sikit.
 
 **Interviewer:** Minta kerjasama yang berdiri di tepi ini untuk penuhkan kerusi di hadapan supaya yang datang sedikit lambat itu boleh penuhkan di belakang dan melancarkan sesi podcast kita pada malam ini.
 
-**Rafizi Ramli:** Minta tutup kipas atas ni.
+**Rafizi:** Minta tutup kipas atas ni.
 
 **Interviewer:** Okay, alright, faham. Selamat datang kepada yang baru sampai. Saya mohon kerjasama untuk terus mengambil tempat dan penuhkan ruang-ruang kosong di hadapan. Kita penuhi saf di hadapan, bagi ruang kepada yang hadir lambat untuk memenuhkan di belakang.
 
-**Rafizi Ramli:** Dewan ni semua dah nak untung lah. Kipas ni bunyi, aku rasa mati lepas ni, jatuh kipas ni kat atas aku. Jadi kita tutup, takut kipas dia jatuh.
+**Rafizi:** Dewan ni semua dah nak untung lah. Kipas ni bunyi, aku rasa mati lepas ni, jatuh kipas ni kat atas aku. Jadi kita tutup, takut kipas dia jatuh.
 
 **Interviewer:** Okey, selamat datang kepada semua yang baru sampai. Minta penuhkan di depan. Jadi kita akan mula sebentar sahaja lagi, tepat jam 9:00.
 
-**Rafizi Ramli:** Dia yang wakil rakyat tu dia takut duduk kat depan. Tengok YB tu, dia pergi duduk kat belakang. Sarawakian, jemput ke depan. Takpelah, dia ada, takpelah. Sami tak nak duduk ke, Sami? Sami tak nak duduk, Hitam tak nak duduk.
+**Rafizi:** Dia yang wakil rakyat tu dia takut duduk kat depan. Tengok YB tu, dia pergi duduk kat belakang. Sarawakian, jemput ke depan. Takpelah, dia ada, takpelah. Sami tak nak duduk ke, Sami? Sami tak nak duduk, Hitam tak nak duduk.
 
-**Interviewer:** Sami, kerusi sudah tidak ada. Sudah tak ada kerusi, jadi sebab itu dia tak nak duduk. Untuk makluman saudara-saudari, kita akan menjalankan sesi podcast edisi khas bersama bakal menteri, yang berhenti menteri ini, dengan beberapa soalan. Dan kita akan buka ruang untuk saudara-saudari yang hadir secara fizikal di dalam dewan yang cantik ini untuk bertanyakan beberapa soalan secara terus tanpa tapisan kepada YB Rafizi Ramli pada hari ini. Jadi boleh mula fikir soalan-soalan membakar yang nak ditanyakan. Walaupun kita tak dapat buka banyak sebab kekangan masa, tapi ada ruang juga untuk bertanya nanti. Kita akan pilih siapa yang ada dalam dewan pada hari ini. Boleh saya mula?
+**Interviewer:** Sami, kerusi sudah tidak ada. Sudah tak ada kerusi, jadi sebab itu dia tak nak duduk. Untuk makluman saudara-saudari, kita akan menjalankan sesi podcast edisi khas bersama bakal menteri, yang berhenti menteri ini, dengan beberapa soalan. Dan kita akan buka ruang untuk saudara-saudari yang hadir secara fizikal di dalam dewan yang cantik ini untuk bertanyakan beberapa soalan secara terus tanpa tapisan kepada YB Rafizi pada hari ini. Jadi boleh mula fikir soalan-soalan membakar yang nak ditanyakan. Walaupun kita tak dapat buka banyak sebab kekangan masa, tapi ada ruang juga untuk bertanya nanti. Kita akan pilih siapa yang ada dalam dewan pada hari ini. Boleh saya mula?
 
-**Rafizi Ramli:** Alright.
+**Rafizi:** Alright.
 
-**Interviewer:** Bismillahirrahmanirrahim. Assalamualaikum warahmatullahi wabarakatuh dan salam sejahtera semua. Selamat malam, khususnya kepada YB Rafizi Ramli. Apa khabar YB? Kucing-kucing YB sihat ke?
+**Interviewer:** Bismillahirrahmanirrahim. Assalamualaikum warahmatullahi wabarakatuh dan salam sejahtera semua. Selamat malam, khususnya kepada YB Rafizi. Apa khabar YB? Kucing-kucing YB sihat ke?
 
-**Rafizi Ramli:** I don't know, I haven't seen the cat for a long time.
+**Rafizi:** I don't know, I haven't seen the cat for a long time.
 
 **Interviewer:** It's okay, YB. The cat is healthy, I think it's okay. So, maybe we can continue our session tonight. So, we don't have much time, YB. It's just that there are many things happening in a week or two weeks. It's like I'm going to puke. So, maybe the others will wait and see what actually happens. YB, if I can start straight away: kalau kita tengok dalam beberapa minggu lepas, macam-macam yang jadi dekat keadaan dalam news kita. Kita mulakan dengan beberapa keputusan di cabang-cabang Keadilan, dan kemudian dilaporkan oleh newspaper, tiba-tiba YB cuti, dan ada juga yang kata YB resign. Jadi, benda semua ini correlate ke? Apa yang berlaku sebenarnya? Semua orang tertanya-tanya sebenarnya, YB.
 
-**Rafizi Ramli:** Assalamualaikum warahmatullahi wabarakatuh. Yang korang datang ni tak takut ke?
+**Rafizi:** Assalamualaikum warahmatullahi wabarakatuh. Yang korang datang ni tak takut ke?
 
 Saya sebenarnya tak ambil tahu sangat tentang pemilihan, walaupun dia dah bermula dalam awal bulan April kan. Sebabnya ialah satu tumpuan kepada kerja-kerja kerajaan. Kita sedang melalui banyak cabaran, jadi kita nak kena tumpu yang itu. Dan sebab daripada awalnya, gambaran yang diberikan ialah kita nak turunkan suhu pemilihan kali ini di peringkat bawah sebab kita dalam kerajaan. Jadi kita tak boleh nak tunjukkan bahawa persaingan itu sampai melimpah ke peringkat rakyat. Sebaiknya kita kekalkan dalam parti lah.
 
@@ -80,7 +80,7 @@ So, I think that people are starting to understand that there is no issue. And m
 
 **Interviewer:** Okey, YB. Tak apa. YB ada sebut tentang beberapa pola-pola pemilihan sebentar tadi. Dan yang ramai tengok podcast kita ni, YB, bukan anggota parti pun. Jadi bila kita sebut badan tak berkepala, mungkin ada yang tak faham sistem pemilihan kita itu sendiri. Jadi fenomena apa ini sebenarnya, YB, yang berlaku dekat cabang-cabang kita ini yang sampai macam-macam news cakap?
 
-**Rafizi Ramli:** Ini risiko bila sesebuah parti itu menjadi parti kerajaan. Kalau kita hanya parti pembangkang ataupun bukan kerajaan, apa yang berlaku di dalam parti itu dia tidak mempengaruhi kerajaan. Jadi bila timbul isu, sudah tentu dia akan menarik minat rakyat. Rakyat pun nak tahu juga.
+**Rafizi:** Ini risiko bila sesebuah parti itu menjadi parti kerajaan. Kalau kita hanya parti pembangkang ataupun bukan kerajaan, apa yang berlaku di dalam parti itu dia tidak mempengaruhi kerajaan. Jadi bila timbul isu, sudah tentu dia akan menarik minat rakyat. Rakyat pun nak tahu juga.
 
 Jadi saya selalunya bersalah kerana kalau kita cakap... sebelum ini sebab itu saya tak komen langsung kepada media. Media, good luck lah, cubalah telefon saya macam mana pun, saya memang tak komen kerana bagi saya perkara itu ialah yang perlu diuruskan secara dalaman kerana dia ada extension hanya kepada parti. Tapi kita dah memang masuk tempoh berkempen, jadi perkara-perkara ini mungkin turut perlu diperjelaskan kepada orang ramai yang menonton selain daripada anggota-anggota parti kita sendiri lah kan.
 
@@ -98,7 +98,7 @@ Jadi saya beritahu kepada pimpinan parti, kita boleh buat keputusan untuk tutup 
 
 **Interviewer:** Cuma YB ada sebut pasal pola nasional juga tadi. Macam trend ke apa, YB? YB tengok observe dekat satu negara ni.
 
-**Rafizi Ramli:** By now, we all know. There's someone who got hit in the head. Nick is there. Akmal is there. Akmal is here. Akmal is brave, he and Tok Min are sitting in front. I'm afraid people will hide behind me.
+**Rafizi:** By now, we all know. There's someone who got hit in the head. Nick is there. Akmal is there. Akmal is here. Akmal is brave, he and Tok Min are sitting in front. I'm afraid people will hide behind me.
 
 I was asked by my own cabinet colleague, he said it's strange that in other parties or in the previous ones, there has never been an example of a ministerial position, a parliament member... If I take the example of Akmal in front of me, seorang timbalan menteri, dia ketua cabang PKR di JB daripada tahun 2014. Then he arranged from JB to Kuat UMNO chair to be able to take over from Tan Sri Shahrir Samad who never lost all his life—majority 50,000. Until he became a minister, and I think as a minister he is not very arrogant. People know, it looks like he has an effect. I have never praised Akmal, I am open this time. This is an open time. He is not very arrogant. There is another PM who is more arrogant than him. But suddenly, I don't know how, there is a boy that we have never known, who in terms of his qualifications, he also has no permanent job. Then, yes, rekodnya tak ada. Tapi dia boleh mengalahkan Akmal dalam keadaan tim Akmal menang yang lain.
 
@@ -110,7 +110,7 @@ Oleh sebab itu maka dia tak perlulah bertanding. Ataupun yalah, saya kalau orang
 
 **Interviewer:** Yes, you can say that all that is related to YB, the YB team, all of them lost in the branch. Okay, just YB, let me heat it up a little, I'll start pointing at people. But yes, he lost. But some people said that he lost because he didn't take care of his brother-in-law. I noticed in the news today, YB Ramanan, Raman Krishnan, the new vice president candidate, he said that this defeat was caused by not taking care of his brother-in-law. So, he has a bodyguard, he has become a minister, he has been on WhatsApp and so on. So, how is it, YB?
 
-**Rafizi Ramli:** I don't have WhatsApp, the whole world knows that. I don't have WhatsApp. My family doesn't have WhatsApp either. I saw it. That's why I said it's part of the narrative that was tried to build.
+**Rafizi:** I don't have WhatsApp, the whole world knows that. I don't have WhatsApp. My family doesn't have WhatsApp either. I saw it. That's why I said it's part of the narrative that was tried to build.
 
 Saya ingat, biarlah saya tak boleh nak salahkan Ramanan lah. Mungkin Ramanan baru dalam parti ni. Masa kita lawan Najib dengan 1MDB dulu, tahun 2015, dia bendahari MIC pun. Dia masuk parti tahun 2020, maksudnya selepas MIC kalah tahun 2018. 1MDB pun dia masih lagi dengan MIC. Jadi kalau saya nak salahkan dia itu pun, yalah saya bagi masa lah, dia mungkin terkeliru budaya akar umbi yang ada dalam Keadilan dengan daripada parti lama dia, budaya kita lain. Ya.
 
@@ -142,7 +142,7 @@ Saya duk baca yang baru-baru masuk parti ni kan, yang muda-muda ni kan, yang dal
 
 **Interviewer:** Habislah YB, ramai yang marah ni, ramai terbakar. Cuma sebelum diorang tanya YB esok ke lusa, saya tanya dulu. YB cakap macam-macam, YB terangkan apa yang berlaku, teguran-teguran terus. Tapi YB ni Timbalan Presiden. YB tak cakap sendiri, tak bincang sendiri dengan Presiden ke, ataupun dalam mesyuarat MPP, mesyuarat tertinggi Keadilan ke? Macam mana YB jawab?
 
-**Rafizi Ramli:** Keadaan saya ingat beginilah kan. Sebab itu orang kalau saya tengok dekat netizen kan, dia selalu komen, dia komplain, dia kata kenapa Rafizi bila dia jadi menteri, dia tak garang macam masa dia jadi pembangkang. Sama juga saya ingat banyak kawan-kawan yang dalam parti, yang cabang-cabang selalu tanya, kenapa bila kamu jadi timbalan presiden kamu tidak nampak lantang di luar? Sebab kita kena sesuaikan dengan keutamaan kita. Kita masuk parti lama kita melawan segala jenis benda kita lawan dengan niat supaya bila Dato' Seri Anwar jadi Perdana Menteri dan parti menjadi sebahagian daripada kerajaan persekutuan, kita boleh mula lakukan perubahan-perubahan yang mengangkat martabat rakyat.
+**Rafizi:** Keadaan saya ingat beginilah kan. Sebab itu orang kalau saya tengok dekat netizen kan, dia selalu komen, dia komplain, dia kata kenapa Rafizi bila dia jadi menteri, dia tak garang macam masa dia jadi pembangkang. Sama juga saya ingat banyak kawan-kawan yang dalam parti, yang cabang-cabang selalu tanya, kenapa bila kamu jadi timbalan presiden kamu tidak nampak lantang di luar? Sebab kita kena sesuaikan dengan keutamaan kita. Kita masuk parti lama kita melawan segala jenis benda kita lawan dengan niat supaya bila Dato' Seri Anwar jadi Perdana Menteri dan parti menjadi sebahagian daripada kerajaan persekutuan, kita boleh mula lakukan perubahan-perubahan yang mengangkat martabat rakyat.
 
 So it's different when we are a supporter and when we become a government. And in the government, first of all, the process is long. There are some that are in the government, there are some in the cabinet. Tok Min, the Prime Minister of the 9th country, is also the Prime Minister himself. There is indeed a process. But in the party, for example, what is actually yang berlaku kalau dekat Biro Politik ataupun MPP, kalau saudara-saudari jadi dalam tempat saya, kan? Sudah tentu ada benda yang saya suarakan. Contohnya budaya ini saya memang suarakan kepada Dato' Sri Anwar dan juga MPP dalam Biro Politik. Tok Min ada. Saya suarakan berkali-kali berhati-hati dengan kegilaan pemilihan orang nak jadi ketua cabang bila jadi dalam kerajaan ini, kerana saya tahu di beberapa negeri contohnya, yang masuk jadi anggota dengan e-KYC ini adanya anggota UMNO dan anggota PAS pun. Because they said, it's okay, you just go in to vote, when it's over, you don't need to go to court and be active in court, it's enough for me to win as the head of the branch. I stated it, but this time we discuss, we take note, we give birth to a discussion.
 
@@ -160,7 +160,7 @@ Jadi tak apalah, kalah tak apa. Menang kalah itu biasalah. Saya pernah menjadi k
 
 **Interviewer:** Mesej yang sangat penting untuk di-highlight lah. Ini bukan yang bakar menteri, ini aku bakar orang ni. Hahaha. Misi YB kali ini dan pasukan untuk masuk ini nak tunjuk bahawa kita ini bukan parti pak turut semata-mata membenarkan apa yang berlaku. Cuma YB, saya rasa YB tak ada WhatsApp, tapi saya rasa YB ada Twitter, ada Facebook semua. Jadi YB pun dah tengok karangan-karangan jargon panjang yang dibuat oleh mungkin ketua-ketua cabang sesetengahnya, ada yang pegang jawatan dalam parti, dan ada rakan-rakan YB dalam kabinet pun mungkin menyatakan secara terus tidak lagi menyokong YB sebagai timbalan presiden. Jadi macam mana YB sebenarnya?
 
-**Rafizi Ramli:** Yalah, saya ingat itu hak masing-masing. Menyokong itu hak masing-masing lah kan. Tetapi yang saya ingat kadang-kadang kita lupa bahawa anggota dan rakyat ini membaca yang tersirat, bukan yang tersurat. Jadi bila sejak hari Selasa yang lepas, secara bertubi-tubi daripada menterinya, daripada... saya tunggu Nick je ni nak buat kenyataan. Bila kau nak buat kenyataan ni? Hahaha. daripada menterinya, timbalan menterilah, pengerusi negerilah, ketua cabang dan sebagainya, saya ingat itu hak masing-masing. Tetapi bagi saya yang lebih berbahaya apabila rakyat membaca yang tersirat itu lebih besar daripada yang tersurat.
+**Rafizi:** Yalah, saya ingat itu hak masing-masing. Menyokong itu hak masing-masing lah kan. Tetapi yang saya ingat kadang-kadang kita lupa bahawa anggota dan rakyat ini membaca yang tersirat, bukan yang tersurat. Jadi bila sejak hari Selasa yang lepas, secara bertubi-tubi daripada menterinya, daripada... saya tunggu Nick je ni nak buat kenyataan. Bila kau nak buat kenyataan ni? Hahaha. daripada menterinya, timbalan menterilah, pengerusi negerilah, ketua cabang dan sebagainya, saya ingat itu hak masing-masing. Tetapi bagi saya yang lebih berbahaya apabila rakyat membaca yang tersirat itu lebih besar daripada yang tersurat.
 
 Yang tersurat yang ingin disampaikan ialah untuk memberi gambaran bahawa Rafizi sudah tidak mendapat... ditolak sepenuhnya oleh akar umbi. And that is what is welcomed by the media. The media also, if it's TV3, it's shown every night. So, I'm just used to it. I don't think that's worrying because our members understand that as the head of the branch atau menteri buat kenyataan, itu tidak melambangkan sokongan akar umbi pun. Kerana kena faham sistem yang kita ada di dalam parti. Ini kalau tengok contohnya untuk masuk dalam the election this time, in 10 days, we have 30,000 representatives. Even though I understand that there are many members below, that's it. I recently sent a lot of messages saying, "What YB? I support YB." Saya selalu bertanya, "Engkau ni sokong-sokong boleh mengundi ke tidak?" Dia akan jawab, "Saya anggota, mestilah boleh mengundi." Lepas tu saya tanya, "Kau tahu ke tidak sistem mengundi telah diubah? Sekarang mengikut perwakilan. Kau perwakilan ke tidak?" Baru dia tahu, "Oh rupanya saya tak boleh mengundi," kan?
 
@@ -174,9 +174,9 @@ Jadi perkara-perkara ini, kalau dalaman parti sahaja tak apa korang nak bersorak
 
 **Interviewer:** YB dah terangkan macam-macam tadi. But in many ways, YB, we don't know the agenda of the statement with many of these. So maybe there is speculation or people say there is an agenda on the other hand. People always make accusations against YB—maybe headstrong, not in line with the president, and so on. And because of that, there are only YB groups. YB buatlah apapun, YB gerakkan Teras Ayam Malaysia ke seluruh Cakrawala dan Bimasakti ni, mesti diorang ni tak suka dan tetap nak jatuhkan YB. Macam mana, eh?
 
-**Rafizi Ramli:** Ya. Soalan cepumas lah. Bini kita pun kadang-kadang tak setuju semua dengan kita. I understand. I remember, even though I see that people who are always planted for people outside the party, they will build a perception that they are arrogant, they don't listen to what people say, they are rough, and so on. I accept that, I'm already in my 50s, I have to change, I'm like that. But I'm like that. I think if I'm rough, arrogant, but if I'm not firm in some things, I think it won't be a problem. My problem is with politicians, not only in PKR, but in other parties, it's always an issue. There are two problems. Bila saya fikir setiap kali orang tanya, orang komen, orang bagi feedback kan: satu, sebenarnya sebab saya outsider. Saya tidak datang daripada kelompok politik yang biasa. Saya tak masuk politik untuk jadi orang politik, contohnya. Saya orang korporat, orang profesional yang masuk. Jadi budaya saya tu, yalah, saya kalau kau salah, kau salah lah. Saya tak reti nak korona kata depan kata kau baik, belakang kata kau tak baik, saya tak reti semua itu. Sebagai outsider, maka itu beban yang saya akan tanggung sampai bila-bila. Kerana sebagai outsider, kita akan terus dilihat sebagai non-conformance.
+**Rafizi:** Ya. Soalan cepumas lah. Bini kita pun kadang-kadang tak setuju semua dengan kita. I understand. I remember, even though I see that people who are always planted for people outside the party, they will build a perception that they are arrogant, they don't listen to what people say, they are rough, and so on. I accept that, I'm already in my 50s, I have to change, I'm like that. But I'm like that. I think if I'm rough, arrogant, but if I'm not firm in some things, I think it won't be a problem. My problem is with politicians, not only in PKR, but in other parties, it's always an issue. There are two problems. Bila saya fikir setiap kali orang tanya, orang komen, orang bagi feedback kan: satu, sebenarnya sebab saya outsider. Saya tidak datang daripada kelompok politik yang biasa. Saya tak masuk politik untuk jadi orang politik, contohnya. Saya orang korporat, orang profesional yang masuk. Jadi budaya saya tu, yalah, saya kalau kau salah, kau salah lah. Saya tak reti nak korona kata depan kata kau baik, belakang kata kau tak baik, saya tak reti semua itu. Sebagai outsider, maka itu beban yang saya akan tanggung sampai bila-bila. Kerana sebagai outsider, kita akan terus dilihat sebagai non-conformance.
 
-**Rafizi Ramli:** ...who are against the rules. Until I know that I am like this, and my attitude is like this, for me, if I don't agree with that, then as an outsider, I will continue to be non-conforming, and there will be people who are not comfortable with me. So I don't feel sorry for that.
+**Rafizi:** ...who are against the rules. Until I know that I am like this, and my attitude is like this, for me, if I don't agree with that, then as an outsider, I will continue to be non-conforming, and there will be people who are not comfortable with me. So I don't feel sorry for that.
 
 Yang kedua yang saya rasa, walau macam mana pun, akan ada orang yang tak berpuas hati—bukan sahaja dalam parti, malah di luar pun. Saya ingat dalam kerajaan pun ada. Saya jadi menteri dua tahun setengah hari ini ialah kerana saya—oleh kerana saya *outsider* dan *non-conformer*, maka saya mencabar *status quo*, kerana cara yang saya buat itu bukan cara biasa dan amalan budaya sedia ada.
 
@@ -198,7 +198,7 @@ That is the new culture that we bring. But I now realize, having been in PKR for
 
 **Interviewer:** Saya ambil peluang juga, saya harap YB bersedia. Soalan seterusnya berkaitan dengan *your opponent*, Saudari Nur Izzah. Jadi macam mana pandangan YB tentang penyertaan Saudari Nur Izzah sebagai *your opponent*, dan juga label-label nepotisme yang berbangkit beberapa hari ini?
 
-**Rafizi Ramli:** Saya dah sebut daripada awal kepada Dato' Sri Anwar, kepada Saifuddin, dan kepada orang yang ada ura-ura nak bertanding sebelum itu. Saya dah sebut bahawa hak bertanding itu hak masing-masing. Saya faham perasaan itu, sebab masa Azmin Timbalan Presiden dahulu pada tahun 2018, saya cabar dia sebagai Timbalan Presiden, walaupun saya penganggur masa itu. Jadi saya fahamlah hak bertanding dalam parti adalah hak masing-masing. Dan saya rasa Izzah ada cukup hujah kenapa dia perlu bertanding, dan kita perlu hormati itu. Masing-masing ada sumbangan kepada parti.
+**Rafizi:** Saya dah sebut daripada awal kepada Dato' Sri Anwar, kepada Saifuddin, dan kepada orang yang ada ura-ura nak bertanding sebelum itu. Saya dah sebut bahawa hak bertanding itu hak masing-masing. Saya faham perasaan itu, sebab masa Azmin Timbalan Presiden dahulu pada tahun 2018, saya cabar dia sebagai Timbalan Presiden, walaupun saya penganggur masa itu. Jadi saya fahamlah hak bertanding dalam parti adalah hak masing-masing. Dan saya rasa Izzah ada cukup hujah kenapa dia perlu bertanding, dan kita perlu hormati itu. Masing-masing ada sumbangan kepada parti.
 
 Cuma, ada cumanya. Yang tak membantu parti ini ialah apabila berlaku apa yang saya sebut tadi—"lebih sudu daripada kuah" [overzealous supporters]. Kalau contohnya Saudari Izzah bertanding, kemudian ia berlaku tanpa perlu ada satu gerakan yang menunjukkan semua sokong sehingga menimbulkan perasaan seolah-olah semua ini telah dirancang, atau menimbulkan perasaan seolah-olah ini disusun dan mewujudkan persepsi ada budaya ampu dalam parti, yang itu tak membantu parti. Daripada situlah maka kita kena bersedia—setiap keputusan yang kita buat sebagai pimpinan parti, kita kena bersedia dengan bagaimana perkara itu akan menimbulkan polemik di dalam dan di luar parti.
 
@@ -218,7 +218,7 @@ Kita kena tangani soal nepotisme ini dengan berhemah. Kerana apa pun jawapan yan
 
 **Interviewer:** Okay YB, YB kata tak serang. Tapi kalau buka Twitter kejap dan tengok penyokong-penyokong kita ni, yelah bila berlaku macam ni, ada sedikit *outreach* dan mungkin ada lakukan serangan peribadi kepada pihak lawan YB. Kenapa YB tak nasihatkan mereka ni supaya jangan serang? Macam mana YB?
 
-**Rafizi Ramli:** Jadi saya katalah, janganlah serang. Tapi kita kena ingat, PKR ini penyokong utamanya adalah pengundi atas pagar. Yang banyak dekat Facebook, dekat X—saya panggil Twitter lagi—kebanyakannya saya ingat orang biasa yang saya tak kenal pun. Except for those who are on Twitter, every time you tweet, you put your IC, full name, and phone number, so I can call you a little bit! But actually, that's the reality I mentioned earlier. Kalau ada dalam PKR ataupun mana-mana parti yang merasakan kita boleh mengawal naratif rakyat di luar, itu satu kebodohan. Kita tak boleh mengawal naratif rakyat di luar; kita hanya boleh mengawal tingkah laku kita dan keputusan-keputusan kita. Kerana sebagai orang politik dan parti politik, memang itulah *business* kita, yaitu secara berpanjangan kita akan dinilai oleh pandangan rakyat di luar.
+**Rafizi:** Jadi saya katalah, janganlah serang. Tapi kita kena ingat, PKR ini penyokong utamanya adalah pengundi atas pagar. Yang banyak dekat Facebook, dekat X—saya panggil Twitter lagi—kebanyakannya saya ingat orang biasa yang saya tak kenal pun. Except for those who are on Twitter, every time you tweet, you put your IC, full name, and phone number, so I can call you a little bit! But actually, that's the reality I mentioned earlier. Kalau ada dalam PKR ataupun mana-mana parti yang merasakan kita boleh mengawal naratif rakyat di luar, itu satu kebodohan. Kita tak boleh mengawal naratif rakyat di luar; kita hanya boleh mengawal tingkah laku kita dan keputusan-keputusan kita. Kerana sebagai orang politik dan parti politik, memang itulah *business* kita, yaitu secara berpanjangan kita akan dinilai oleh pandangan rakyat di luar.
 
 Jadi yang bising semua ini, saya minta berhati-hati. Saya tahu banyak yang marah dan mengkritik itu adalah penyokong tegar Pakatan Harapan dan PKR. Ada sebahagiannya anggota parti, ada sebahagiannya bukan pun. But I know, for the sake of the people and to avoid that matter—because this is a common problem that we have to deal with after this—how do we want to balance the outside view so that the voters are not far away from us? If we are not careful, they will be far away. Akhirnya yang jadi mangsa ialah kita jugalah, kerana kita yang masuk dalam pilihan raya nanti nak buat kerja. Kalau contohnya ia diambil sebagai peluru oleh pembangkang, maka kita akan masuk pilihan raya dengan satu isu di mana kita jadi defensif.
 
@@ -226,7 +226,7 @@ While we should be entering this election needing to be offensive, needing to at
 
 **Interviewer:** Okay YB, *last* soalan tentang Saudari Nur Izzah. Bolehkah saya tanya? A bit of a nerd question related to the manifesto. In her statement, Saudari Nur Izzah said that she wants to focus on 50 marginal branches and *akar umbi* as the main campaign strategy. YB is entering as the incumbent candidate to defend the Deputy Presidency. What is YB's offer?
 
-**Rafizi Ramli:** Insya-Allah saya bagi tudung selepas ini! Gurau saja, gurau saja. Tudung kat bini aku pun aku tak beli.
+**Rafizi:** Insya-Allah saya bagi tudung selepas ini! Gurau saja, gurau saja. Tudung kat bini aku pun aku tak beli.
 
 Saya ingat siapa-siapa pun yang menjadi Timbalan Presiden, hatta Presiden parti pun, the thing about marginal seats—if you remember, this is something that I have been explaining since 2015. If you remember in the Invoke campaign, I used data to make sure that marginal seats that people don't think we can win are targeted. And the way to win at that time, I said, we have to fight three-cornered fights. That's why we had to break from PAS to fight three-cornered fights. So as a political party, PKR in the future and the electoral fortune of PKR will always depend on our ability to win marginal seats.
 
@@ -246,7 +246,7 @@ So those are the responsibilities that need to be borne by the Deputy President,
 
 **Interviewer:** YB, let's go back to our topic. I want to touch on the rumors of resignation. There are a lot of news sources saying that YB has resigned and so on. Can YB clarify, if YB loses the Deputy Presidency, will YB resign?
 
-**Rafizi Ramli:** Bermula contohnya bila saya bercuti itu, kemudian ada orang lambung kata saya letak jawatan. Saya ingat ia sebahagian daripada naratif yang cuba nak tunjukkan kononnya saya merajuk. Yang itu saya ingat sama ada saya tidak difahami, ataupun budaya kita ini masih lagi belum boleh membezakan di antara *accountability* dengan kuasa dalam kerajaan.
+**Rafizi:** Bermula contohnya bila saya bercuti itu, kemudian ada orang lambung kata saya letak jawatan. Saya ingat ia sebahagian daripada naratif yang cuba nak tunjukkan kononnya saya merajuk. Yang itu saya ingat sama ada saya tidak difahami, ataupun budaya kita ini masih lagi belum boleh membezakan di antara *accountability* dengan kuasa dalam kerajaan.
 
 Pandangan saya begini. Tadi bila saya tumpu menguruskan parti, maka saya ambil cutilah contohnya. Tapi orang cepat kata I resigned. Tapi sebenarnya kita ini dalam sistem Westminster. Dalam sistem Westminster, maksudnya yang menjadi anggota pentadbiran—menteri-menteri—mewakili parti-parti yang membentuk kerajaan. So in terms of democratic principles, the leadership in the party must get a place in the government. Because the purpose of the political party competing in the election is so that they can become a government, so that they can translate their policies and programs into the government.
 
@@ -270,17 +270,17 @@ Dan saya dah sebut kepada Dato' Sri Anwar, saya dah sebut kepada Saifuddin, saya
 
 **Interviewer:** So YB, have you met and briefed GPS and BN regarding this?
 
-**Rafizi Ramli:** I have met with colleagues from GPS and colleagues from BN. I have mentioned it to them, I have met them, and I will continue to meet them. Next week there will be a few more people. Because I have that responsibility—the person who wrote the agreement to form this coalition government was me. Saya yang tulis, saya yang runding. Jadi dia bukan soal jawatan, saya ada tanggungjawab itu dengan rakan-rakan. Kalau kita buat *partnership* dalam *business*, kalau saya buat keputusan "Aku dah tak nak buat *business* ini," saya kena duduk dengan *partner* saya, maklumkan dan nyatakan dengan baik. Jadi saya dah buat yang itu pun.
+**Rafizi:** I have met with colleagues from GPS and colleagues from BN. I have mentioned it to them, I have met them, and I will continue to meet them. Next week there will be a few more people. Because I have that responsibility—the person who wrote the agreement to form this coalition government was me. Saya yang tulis, saya yang runding. Jadi dia bukan soal jawatan, saya ada tanggungjawab itu dengan rakan-rakan. Kalau kita buat *partnership* dalam *business*, kalau saya buat keputusan "Aku dah tak nak buat *business* ini," saya kena duduk dengan *partner* saya, maklumkan dan nyatakan dengan baik. Jadi saya dah buat yang itu pun.
 
 Jadi kepada rakan-rakan, contohnya yang UMNO ke—ada orang UMNO hantar mesej suruh masuk UMNO—tak, tak, terima kasih! I have mentioned it to GPS, so I hope that we can go through these 10–11 days well, with humility. We laugh, we get angry, we tweet, but in the end we have to make sure that the progressive reform agenda that we have been carrying for the past 10 years will continue to be maintained by the people. That is an important mission for all.
 
 **Interviewer:** Resignation is one thing, tapi dulu YB pun pernah mengundurkan diri dari politik dan membuat *comeback*. Jadi kalau YB *resign*, adakah YB undur dari politik juga?
 
-**Rafizi Ramli:** Bukan dah tanya ke tadi?
+**Rafizi:** Bukan dah tanya ke tadi?
 
 **Interviewer:** Oh ya, tadi berkenaan kabinet. Lupa, lupa.
 
-**Rafizi Ramli:** Sometimes people forget. Actually, we can't make decisions according to our liking; we have to do it based on the situation at that time. So I know maybe this is the question people ask, because later people will say, "I'm afraid he's being a coward like before." Keadaan dulu lain, sebab dulu saya rakyat biasa. Saya bukan Ahli Parlimen masa itu, saya hanyalah seorang anggota PKR masa itu. Saya tak bertanding dalam PRU 2018, jadi saya tak ada kerusi parlimen ke apa. Saya bertanding sebagai Timbalan Presiden, saya kalah 3,000 undi—1% lebih berbanding dengan Azmin.
+**Rafizi:** Sometimes people forget. Actually, we can't make decisions according to our liking; we have to do it based on the situation at that time. So I know maybe this is the question people ask, because later people will say, "I'm afraid he's being a coward like before." Keadaan dulu lain, sebab dulu saya rakyat biasa. Saya bukan Ahli Parlimen masa itu, saya hanyalah seorang anggota PKR masa itu. Saya tak bertanding dalam PRU 2018, jadi saya tak ada kerusi parlimen ke apa. Saya bertanding sebagai Timbalan Presiden, saya kalah 3,000 undi—1% lebih berbanding dengan Azmin.
 
 So Dato' Sri Anwar then appointed me as a Vice President. For the first 7–8 months, I had my views, I gave them to Dato' Sri Anwar. But it was so clear that my views were not accepted by the party at that time. I was not a member of the administration, I was not a Member of Parliament; I was only a regular Vice President. Jadi isyarat daripada parti itu cukup jelas bahawa parti sudah ada agenda dan strategi sendiri. Kalau saudara-saudari jadi saya, buat apa aku duduk terhegeh-hegeh kat situ? Saya memang tahu masa itu bahawa peranan saya sudah tamat. So I said, "It's okay, I'll go and do my work."
 
@@ -296,7 +296,7 @@ Sebab bila kita tengok PRU yang lepas, siapa sebenarnya yang menyokong PH sampai
 
 **Interviewer:** Okay YB. Regarding our campaign theme "Hero"—some say it's not serious because there is a negative connotation. How is it, YB?
 
-**Rafizi Ramli:** Yelah, ada orang komen, ada orang hantar mesej kat saya cadangkan kenapa tak buat "Hidup" ke apa. Why "Hero"? I think the context is... I chose the name myself. How can I convey this message to the party and the people?
+**Rafizi:** Yelah, ada orang komen, ada orang hantar mesej kat saya cadangkan kenapa tak buat "Hidup" ke apa. Why "Hero"? I think the context is... I chose the name myself. How can I convey this message to the party and the people?
 
 Sebenarnya apa cabaran utama kita sekarang selepas dua tahun setengah berada dalam kerajaan? Cabaran utama kita ialah ujian kuasa. Tak mudah berada dalam kuasa ni. Yang jadi menteri, yang ada dalam jawatan kerajaan, cabaran kita ialah macam mana untuk menjadi menteri yang berkesan yang boleh membangunkan dasar dan program yang dengan cepat membawa kebaikan kepada rakyat. Tak mudah. Saya sendiri mengakui terlalu banyak kelemahan. There are many things that take time to process in government. When it becomes a government policy, it cannot be done in a small way; it has to be done for the whole country, with processes of integrity and governance, so it takes long. So the test of power as a government is big enough.
 
@@ -310,11 +310,11 @@ Jadi kalau itu mesej yang saya nak sampaikan, saya tak payahlah nak panjang-panj
 
 **Interviewer:** Okay YB, thank you. Maybe we can close with your hopes throughout the campaign, after the campaign, and a message to the newly elected leadership.
 
-**Rafizi Ramli:** Saya ingat dah dua jam aku duk cerita benda yang sama kan! Harapan saya macam itulah. Harapan saya ialah saya faham pemilihan kali ini menarik kerana kita dalam kerajaan. Siapa yang menang akan popular, masuk TV, ada yang akan jadi menteri, ada yang jadi hebat-hebat. Tapi apa pun hasrat kita, bertandinglah dengan ingat satu perkara yang paling penting: bahawa rakyat sedang menilai kita. Yang penting daripada pemilihan ini bukanlah siapa menang dan siapa kalah, tetapi apa sebenarnya kesimpulan yang dibuat oleh rakyat dan pengundi atas pagar mengenai parti kita. If the conclusion and the people's view are negative, then whatever we do, we will face problems. So I remind myself, and I remind everyone who is competing to remember that.
+**Rafizi:** Saya ingat dah dua jam aku duk cerita benda yang sama kan! Harapan saya macam itulah. Harapan saya ialah saya faham pemilihan kali ini menarik kerana kita dalam kerajaan. Siapa yang menang akan popular, masuk TV, ada yang akan jadi menteri, ada yang jadi hebat-hebat. Tapi apa pun hasrat kita, bertandinglah dengan ingat satu perkara yang paling penting: bahawa rakyat sedang menilai kita. Yang penting daripada pemilihan ini bukanlah siapa menang dan siapa kalah, tetapi apa sebenarnya kesimpulan yang dibuat oleh rakyat dan pengundi atas pagar mengenai parti kita. If the conclusion and the people's view are negative, then whatever we do, we will face problems. So I remind myself, and I remind everyone who is competing to remember that.
 
 And the other hope is to the leaders who will be elected. Saya tak tahu, tapi saya rasa saya boleh baca siapa yang akan menang. Insya-Allah, kepimpinan ini bertukar ganti, dan kekuatan sesuatu organisasi tidak pernah berlaku dalam sekelip mata dan tidak pernah berlaku dengan hanya satu kumpulan. Kita menang sehingga menumpaskan BN pada tahun 2018 adalah hasil daripada penat lelah orang daripada hari pertama pada tahun 1998. Ini adik-adik muda yang ada kat depan ni, sebahagian besar daripada mereka yang menggerakkan parti ni daripada 1998...
 
-**Rafizi Ramli:** Sebahagian besar daripada mereka ada yang tak sempat melihat pun kerajaan bertukar pada tahun 2018. Sama juga sekarang, 2022 kita jadi kerajaan sehingga 2025. Ada banyak sahaja yang menggerakkan parti daripada dulu hanya memandang dari jauh, dan mereka tak minta apa-apa pun. Mereka hanya minta supaya mereka yang diberi tanggungjawab—orang macam saya—memikul tanggungjawab itu dengan baik, kerana parti ini adalah hasil daripada usaha yang digembleng berpuluh tahun.
+**Rafizi:** Sebahagian besar daripada mereka ada yang tak sempat melihat pun kerajaan bertukar pada tahun 2018. Sama juga sekarang, 2022 kita jadi kerajaan sehingga 2025. Ada banyak sahaja yang menggerakkan parti daripada dulu hanya memandang dari jauh, dan mereka tak minta apa-apa pun. Mereka hanya minta supaya mereka yang diberi tanggungjawab—orang macam saya—memikul tanggungjawab itu dengan baik, kerana parti ini adalah hasil daripada usaha yang digembleng berpuluh tahun.
 
 Jadi, asalkan pimpinan yang baru, kalau diberi tanggungjawab itu, ingatlah perkara tersebut. Janganlah buat sesuatu yang menyebabkan parti ini akhirnya ditolak ataupun kalah. Kerana apa yang kita ambil alih, sepertimana saya sebagai Timbalan Presiden ambil alih pada tahun 2022, saya sedia maklum dan sedar bahawa ia adalah hasil usaha beratus-ratus ribu orang—wajah yang tidak bernama, yang kita tak ingat pun—yang telah membantu, menyokong, dan memberi wang kepada parti, terutamanya semasa kita susah.
 
@@ -324,11 +324,11 @@ Do your best for this party. And if I don't win—Nik is thinking about whether 
 
 **Moderator:** Baik, terima kasih YB. Terima kasih. Kita buka mungkin satu atau dua soalan. Ada sesiapa yang nak tanya soalan? Minta pasukan bantu untuk berikan mikrofon kepada kawan kita seorang ini. Silakan perkenalkan nama dan soalan.
 
-**Hakim:** Assalamualaikum warahmatullahi wabarakatuh, YB Rafizi Ramli. Saya Hakim dari Tangga Batu, Melaka. Jauh saya datang semata-mata untuk YB Rafizi.
+**Hakim:** Assalamualaikum warahmatullahi wabarakatuh, YB Rafizi. Saya Hakim dari Tangga Batu, Melaka. Jauh saya datang semata-mata untuk YB Rafizi.
 
 Dalam kenyataan YB sebelum ini, YB ada sebut kalau YB kalah, YB akan turun lincah berkempen. Persoalan saya, macam mana YB nak berkempen kalau kebanyakan ketua cabang dan MPN negeri menolak YB dan mengeluarkan kenyataan menyokong saudari Nurul Izzah? Itu sahaja soalan daripada saya. Terima kasih.
 
-**Rafizi Ramli:** I've already mentioned that it's up to each person. Whether you're young or old, it's normal for each person to have their own view. But as I said earlier, these statements don't even represent the root of the problem. Because even if one person is the head of the branch, he will not win 100% support in his branch. Many who win the head position don't have the full body behind them, so we understand. I also understand.
+**Rafizi:** I've already mentioned that it's up to each person. Whether you're young or old, it's normal for each person to have their own view. But as I said earlier, these statements don't even represent the root of the problem. Because even if one person is the head of the branch, he will not win 100% support in his branch. Many who win the head position don't have the full body behind them, so we understand. I also understand.
 
 This is not a new dilemma in the party. Someone messaged me saying, "I'm sorry YB, don't be so mean. I actually don't agree; he didn't even ask me, he just put my name there." It's okay, I'm not angry. If you remember, in 2015–2016, masa itu saya Naib Presiden dan Setiausaha Agung parti. Saya satu-satunya dalam parti ini yang pernah jadi Naib Presiden dan Setiausaha Agung sekaligus. Masa itu, Naib Presiden lain semua geng Azmin. Kalau dalam biro politik masa itu, punyalah payah kami nak bersilat kerana hanya ada saya, ada Nik, kemudian ada Datin Paduka Tan Yee Kew untuk membela Kak Wan. Yang lain itu mereka lanyak kaw-kaw punya. Dan memang kebanyakan ketua cabang masa itu tak suka pada saya. Tapi itu tidak menghalang saya; aku redah sahaja.
 
@@ -342,7 +342,7 @@ Kalau ikut hati saya, kalau saya nak luahkan semua pasal watak-watak dalam parti
 
 **Rashidi bin Haji Bandar Ahmad:** Assalamualaikum warahmatullahi wabarakatuh. Nama saya Rashidi bin Haji Bandar Ahmad. Saya terlibat dalam pembentukan Parti Keadilan sejak awal lagi. Masa itu, tak ada orang luar yang terlibat dalam pemilihan—maksudnya tak ada pemilihan pun, secara sukarela. Sekarang, hari ini ada orang yang bukan ahli kita—daripada parti UMNO—yang telah menang dalam pemilihan cabang baru-baru ini. Apa pandangan YB dan tindakan YB atas perkara ini? Saya harap perkara ini tidak perlu ditelan; perkara ini harus diluahkan bagi menjamin, seperti kata YB tadi, tugas orang-orang dulu. Saya harap sangat perkara ini dapat diutarakan. Sekian, terima kasih.
 
-**Rafizi Ramli:** Terima kasih, bang. Itu yang saya sebut tadi dan suarakan dah lama dalam parti. Kebimbangan saya ialah bila dah berkuasa ini, orang berebut-rebut masuk. Oleh kerana kita bergantung kepada berapa ramai anggota yang masuk, ada anggota yang saya panggil 'anggota Airbnb'—dia masuk, *check-in* sekejap masa pemilihan, lepas itu dia keluar dan tak ada.
+**Rafizi:** Terima kasih, bang. Itu yang saya sebut tadi dan suarakan dah lama dalam parti. Kebimbangan saya ialah bila dah berkuasa ini, orang berebut-rebut masuk. Oleh kerana kita bergantung kepada berapa ramai anggota yang masuk, ada anggota yang saya panggil 'anggota Airbnb'—dia masuk, *check-in* sekejap masa pemilihan, lepas itu dia keluar dan tak ada.
 
 Mana yang kita boleh tapis dan tahu lebih awal... so we are wrong, it's true. That's why there is an example where a re-election is held because the winner of the candidate for branch chairman was at the same time an authority in another party. How can he enter the party? So this part, I have to touch on the JPP (Jawatankuasa Pemilihan Parti). Kalau JPP nak marah, marahlah, tapi itu memang tanggungjawab JPP.
 
@@ -360,21 +360,21 @@ If we are the JPP, when complaints come, look carefully, study carefully, call t
 
 Jadi ini perkara-perkara yang menjadi pengajaran kepada saya juga, dan saya tanggung sebahagian besar tanggungjawab atas kelemahan itu. And that's why, if I don't win and so on, I think that's the right decision of Allah. Because maybe in the past two and a half years, I've spent too much time on ministerial duties to raise the profile of the government and the Prime Minister, so there are things among my friends on the ground that I didn't pay enough attention to. Dan sesiapa yang memegang tanggungjawab pimpinan pusat di masa akan datang, itulah cabarannya bila seseorang itu menteri dan pada masa sama pimpinan kanan parti—kita kena belajar mengimbangi kedua-duanya.
 
-**Rafizi Ramli:** Habislah kot? Ini belum zaman pilihan raya lagi, ceramah dah sampai pukul 12 tengah malam. Kita simpan tenaga untuk pilihan raya. Ada soalan lagi?
+**Rafizi:** Habislah kot? Ini belum zaman pilihan raya lagi, ceramah dah sampai pukul 12 tengah malam. Kita simpan tenaga untuk pilihan raya. Ada soalan lagi?
 
 **Moderator:** Ada, ada soalan. Kita bagi soalan terakhir, seorang lagi.
 
-**Rafizi Ramli:** Ini macam nak marah aku sahaja ini...
+**Rafizi:** Ini macam nak marah aku sahaja ini...
 
 **Moderator:** Okey, mohon bantuan mikrofon. Rileks, rileks.
 
 **Questioner:** Assalamualaikum YB. Janganlah marah.
 
-**Rafizi Ramli:** Tak marah. Nak tanya soalan, boleh?
+**Rafizi:** Tak marah. Nak tanya soalan, boleh?
 
 **Questioner:** Boleh, boleh. Dalam dunia politik hari ini, ramai yang pandai tampil di media sosial tetapi kurang kerja lapangan. Pada pandangan YB, apa beza antara *influencer* politik dan pemimpin rakyat? Dan di mana YB letakkan diri sendiri? Itu soalan saya.
 
-**Rafizi Ramli:** Saya letakkan diri saya dekat rumah sayalah kot! Saya tak pernah fikir aku ini duduk dekat mana atau apa rakyat fikir secara terperinci. Sekarang baru kita sedar kita ini dah tua sebenarnya, jadi kita tak faham sangat pasal bagaimana orang pandang kita. Tapi sebab saya ini Generasi X (Gen X), kita dididik supaya bila buat kerja, buat betul-betul. Kalau tak reti pun, buat dan belajarlah. Buat betul-betul, jangan buat kerja separuh-separuh.
+**Rafizi:** Saya letakkan diri saya dekat rumah sayalah kot! Saya tak pernah fikir aku ini duduk dekat mana atau apa rakyat fikir secara terperinci. Sekarang baru kita sedar kita ini dah tua sebenarnya, jadi kita tak faham sangat pasal bagaimana orang pandang kita. Tapi sebab saya ini Generasi X (Gen X), kita dididik supaya bila buat kerja, buat betul-betul. Kalau tak reti pun, buat dan belajarlah. Buat betul-betul, jangan buat kerja separuh-separuh.
 
 So, in the end, the value of the leaders depends on the people. We can see whether the people like it or not, and we have to be open-minded based on what we have improved. It's true that now is the era of TikTok, the era of influencers, and the era of famous tweets.
 
@@ -390,4 +390,4 @@ But of course, not everyone can do both seamlessly. There are people who excel e
 
 **Audience:** Reformasi!
 
-**Rafizi Ramli:** I told you, things like that, people don't do it, no one welcomes it. We are a party that cannot be forced on individuals. So don't just mention the name of Rafizi Ramli, don't just mention the name of Nurul Izzah, or Anwar Ibrahim. Reformation is enough for our people. Can we do that? Yes.
+**Rafizi:** I told you, things like that, people don't do it, no one welcomes it. We are a party that cannot be forced on individuals. So don't just mention the name of Rafizi, don't just mention the name of Nurul Izzah, or Anwar Ibrahim. Reformation is enough for our people. Can we do that? Yes.

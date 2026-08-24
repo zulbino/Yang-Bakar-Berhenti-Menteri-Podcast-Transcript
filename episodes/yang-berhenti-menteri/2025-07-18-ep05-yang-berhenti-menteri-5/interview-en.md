@@ -8,7 +8,7 @@ duration_seconds: 6861
 duration: 1h 54m
 view_count: 56799
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Dato Syed Azwan
 topics:
@@ -22,41 +22,41 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Rafizi Ramli:** Assalamualaikum, and welcome to Podcast Yang Berhenti Menteri, episode 5, together with Saudara Fizy Ramli. Our guest tonight is Dato' Syed Azwan, or DSA. How are you, Dato'?
+**Rafizi:** Assalamualaikum, and welcome to Podcast Yang Berhenti Menteri, episode 5, together with Saudara Fizy Ramli. Our guest tonight is Dato' Syed Azwan, or DSA. How are you, Dato'?
 
 **Dato' Syed Azwan:** I'm good, I'm good. I'm healthy.
 
-**Rafizi Ramli:** Dato', I want to ask you something — when was the first time you met me?
+**Rafizi:** Dato', I want to ask you something — when was the first time you met me?
 
 **Dato' Syed Azwan:** I first met you in Alor Star, in connection with RMK13 [13th Malaysia Plan] matters.
 
-**Rafizi Ramli:** Oh, yes yes, okay okay. Because RMK13 was indeed sensitive.
+**Rafizi:** Oh, yes yes, okay okay. Because RMK13 was indeed sensitive.
 
 **Dato' Syed Azwan:** Yes, sensitive indeed. I actually touched on it in my YouTube live too, about the postponement — last minute, last minute.
 
-**Rafizi Ramli:** When was that, which month was it?
+**Rafizi:** When was that, which month was it?
 
 **Dato' Syed Azwan:** This year, in Alor Star, I think it was the second or third month.
 
-**Rafizi Ramli:** Oh yes, because the last time we did it was during the Kedah floods.
+**Rafizi:** Oh yes, because the last time we did it was during the Kedah floods.
 
 **Dato' Syed Azwan:** Yes, it was postponed to the second month, then pushed to the ninth month. So in the end it was the last month.
 
-**Rafizi Ramli:** Dato', since you're sponsoring us — Pintu Topi — tonight, we have more time to introduce you properly. Who is DSA actually, beyond what we see on your live streams and YouTube?
+**Rafizi:** Dato', since you're sponsoring us — Pintu Topi — tonight, we have more time to introduce you properly. Who is DSA actually, beyond what we see on your live streams and YouTube?
 
 **Dato' Syed Azwan:** "Hi DSA here, Assalamualaikum, Salam Nusyamadani" — so whenever I create content, my signature line is "Hi DSA here." From the beginning, I honestly didn't know how to get it going. I used to do a lot of work, but after COVID I didn't know what to do with myself. I was actually quite skeptical about social media. When I heard about TikTok, I thought, why TikTok, isn't that a thing for kids to play around with. But I always used to travel abroad for my business conferences. So when Thailand opened up for people to visit the country again, I think I was among the first to be itching to go. So I took a flight, wanting to go see the places where I used to hold conferences before.
 
 It was in Chiang Mai that my mind was opened. How so? I went to a coffee shop called "Graf." The moment I stepped in, I felt "this is my life." Because I had gone through a life full of ups and downs — after COVID I really hit rock bottom. Before COVID, whatever I wanted to do, I just did — I had money, I was having fun, I was just travelling. But when I crashed like that after COVID, I felt I needed to do something. I said, why not make a TikTok account? So my TikTok account started in Chiang Mai, at that Graf shop.
 
-**Rafizi Ramli:** When you went to Chiang Mai, why did you go there — because everyone was on TikTok?
+**Rafizi:** When you went to Chiang Mai, why did you go there — because everyone was on TikTok?
 
 **Dato' Syed Azwan:** No, that shop actually was a coffee shop known for lots of signature coffees. Chiang Mai is indeed famous for its coffee beans. So when I walked in, because of the shop's name, it mentioned that our life is like a "graph" — going up and down. So it changed my perception — why not do something on social media. So I made a video.
 
-**Rafizi Ramli:** And that was quite recent, meaning that's when you started again?
+**Rafizi:** And that was quite recent, meaning that's when you started again?
 
 **Dato' Syed Azwan:** Yes, 20 July I think — July 2022.
 
-**Rafizi Ramli:** 2022 — quite recent, quite recent. You've only been in this for 3 years. That's roughly the same time as when I opened my TikTok account. I was also forced into it — July 2022.
+**Rafizi:** 2022 — quite recent, quite recent. You've only been in this for 3 years. That's roughly the same time as when I opened my TikTok account. I was also forced into it — July 2022.
 
 **Dato' Syed Azwan:** Wow, same! Roughly the same, that's amazing, that's the best. I didn't actually know what my niche was, I honestly didn't know. I just went in blind at first — banging out content, talking about personal stuff. But I saw that people weren't really interested in hearing about our personal lives. So I started touching a bit on politics.
 
@@ -66,27 +66,27 @@ I had to force myself to get into TikTok, because after 2018 I wasn't involved i
 
 But for me, TikTok — my children once asked me, "Walid, why do you want to do TikTok? Your life is relaxed, people don't know you, people don't hate you." I said, I want to build something new — something that can't be bought with money.
 
-**Rafizi Ramli:** The first time I came across DSA's content was about young people, about youth. After that I followed you. What was that content called?
+**Rafizi:** The first time I came across DSA's content was about young people, about youth. After that I followed you. What was that content called?
 
 **Dato' Syed Azwan:** It was about young people wanting to get into university, wanting to study. Yes, kids who are sometimes driven by money. Money is everything in life — but if we don't have knowledge, can we become rich? In my view, no. If we want to be rich, we need knowledge.
 
-**Rafizi Ramli:** I really liked that content. Okay, Dato'. Tonight, for you, we're opening up the table — an empty table, but it's opened for you. You'll ask Saudara Rafizi questions, Saudara Rafizi will answer, and if you have your own answer, you can respond too. If not, I'll ask again and "grill" some more. Is that okay, Dato'?
+**Rafizi:** I really liked that content. Okay, Dato'. Tonight, for you, we're opening up the table — an empty table, but it's opened for you. You'll ask Saudara Rafizi questions, Saudara Rafizi will answer, and if you have your own answer, you can respond too. If not, I'll ask again and "grill" some more. Is that okay, Dato'?
 
 **Dato' Syed Azwan:** Yes, you can. Okay, let's start, Dato'. Actually, this Saturday I'm going to Kuala Terengganu, there's a haul [memorial gathering] for Tokku Paloh — Tokku Zaid Paloh, the haul for his father, Tokku Tuan Besar. I'm part of the Syarifah group there, and they've been urging me to come back. I said, okay I'll go, to get a bit more blessing. Sometimes we're in such a rush, we don't get the chance.
 
 So tonight I was actually surprised, because I saw the podcast episode with a certain title — the first time, it was really something: "YB is back." I saw the media coverage of you, and I held onto that phrase — "Welcome back YB." Before we go further, I want to ask, why did the reporters say "welcome back YB"?
 
-**Rafizi Ramli:** Which occasion — that press conference?
+**Rafizi:** Which occasion — that press conference?
 
 **Dato' Syed Azwan:** During the press conference in Subang Jaya. That's the phrase I held onto — "Welcome back YB."
 
-**Rafizi Ramli:** I remember before I became a minister, I had a close relationship with all the media reporters, because I was the one who held the most press conferences. My press conferences were usually two or three a week, so it became something normal for them. And the media, in my understanding, they need a story. So, if you are a politician who always brings the story, you will be close and popular with the media.
+**Rafizi:** I remember before I became a minister, I had a close relationship with all the media reporters, because I was the one who held the most press conferences. My press conferences were usually two or three a week, so it became something normal for them. And the media, in my understanding, they need a story. So, if you are a politician who always brings the story, you will be close and popular with the media.
 
 But once I became part of the government, actually we can't play too much with the media, because that's not our job. If a reporter asks something, this can't be commented on, that can't be touched. I remember over that two-and-a-half-year period, the distance between me and the media was quite noticeable. So that day, many of them, especially the senior reporters who started working around the time I was young, roughly around the same time I started out as a politician. So it was almost like a reunion after two and a half years.
 
 **Dato' Syed Azwan:** Actually, YB, when you became a minister, I made content too — I "roasted" you. "How are things, YB Rafizi, now that you've become a minister, the water's dried up." I actually had two or three pieces of content I made before this, I went back and looked at them. I sat there thinking, tonight I want to meet you. So I said, why is this YB, once he became minister, become like what the Perlis folks say, "no eggs left." Please feel free to like, subscribe, and support our content.
 
-**Rafizi Ramli:** Is that so? Yes, because of this, we have two areas of responsibility as a minister — one related to our duties as a minister, another as a politician. So when the government was formed, the Ministry of Economy was actually the most complicated to navigate, because it dominates every field — transport, policy, education, economy, everything.
+**Rafizi:** Is that so? Yes, because of this, we have two areas of responsibility as a minister — one related to our duties as a minister, another as a politician. So when the government was formed, the Ministry of Economy was actually the most complicated to navigate, because it dominates every field — transport, policy, education, economy, everything.
 
 But every ministry does have overlapping duties as seen by others, so the cabinet decision was that other ministers cannot comment on other matters. So that means the Ministry of Economy really couldn't comment on anything, because if it's a policy matter, it overlaps with other things. Except for matters that other people don't want to comment on — for example, prices of goods, inflation — that was left to me. But on other matters, I was reprimanded several times by the PM — "this can't be touched, this can't be touched." So in the end, it was really hard for us to speak up, only the Ministry of Economy did.
 
@@ -96,7 +96,7 @@ That's what I mean, I also made content about the economy. I made content about 
 
 **Dato' Syed Azwan:** About Padu — is it still going to be used or what?
 
-**Rafizi Ramli:** In terms of the data available within Padu, it's useful to every ministry. So I believe it will continue to be used. Moreover, generally speaking, the purpose of having Padu is so that we have one back-end database. So if every ministry or agency wants to build a new application, they won't need to build the back-end — they save over 50% in cost, because the back-end database is the expensive part when it comes to collecting data. So I believe from that angle, Padu will continue to be used.
+**Rafizi:** In terms of the data available within Padu, it's useful to every ministry. So I believe it will continue to be used. Moreover, generally speaking, the purpose of having Padu is so that we have one back-end database. So if every ministry or agency wants to build a new application, they won't need to build the back-end — they save over 50% in cost, because the back-end database is the expensive part when it comes to collecting data. So I believe from that angle, Padu will continue to be used.
 
 It's just that the public — people say the aspect of Padu that mattered was the cash assistance program that took into account the factors DSA mentioned earlier. That's the part where, from what I understand, a few months ago it seems the government's decision wasn't heading in that direction. There are differing views — the most dominant being the Ministry of Finance's view, which says it's too complicated to implement. If we're to take into account income, housing and so on, they say our people might not understand, it's too difficult. That's the difference between my view and the Ministry of Finance's view.
 
@@ -106,7 +106,7 @@ With me no longer there, I believe the Ministry of Finance's view will be taken 
 
 Actually, YB, I want to say — this is a coincidence, I went to a joint convention, and UMNO representatives said they don't like YB giving aid directly to the people, because their officers, their juniors, want it — whatever aid comes to the people's IC, they hope it goes through them. What's YB's comment on why they don't like the aid going direct? Even though there are officers' relatives — there was one, Dato' Gapak, my friend who mentioned my name last night, praised YB, said "thank you YB for giving us aid." After that YB, please comment a bit.
 
-**Rafizi Ramli:** This one I remember, it refers to IKR — Inisiatif Kemudahan Rakyat [People's Facilities Initiative]. Within the government, politicians naturally have differing views. There's an old view from within PKR itself, colleagues within the government, who say IKR will erode politicians' influence, because the people can ask directly. Furthermore, when we give directly to district councils, this will result in less political control — under the old system, going through the State Development Office, going through ICU, everything could be controlled. That continued as usual — meaning every year ICU would submit funding applications to the Ministry of Economy for projects managed by ICU in their respective states, under the Prime Minister's Department, they prefer it that way.
+**Rafizi:** This one I remember, it refers to IKR — Inisiatif Kemudahan Rakyat [People's Facilities Initiative]. Within the government, politicians naturally have differing views. There's an old view from within PKR itself, colleagues within the government, who say IKR will erode politicians' influence, because the people can ask directly. Furthermore, when we give directly to district councils, this will result in less political control — under the old system, going through the State Development Office, going through ICU, everything could be controlled. That continued as usual — meaning every year ICU would submit funding applications to the Ministry of Economy for projects managed by ICU in their respective states, under the Prime Minister's Department, they prefer it that way.
 
 But actually, under the Ministry of Economy, since the post-Independence era, every year district councils throughout Malaysia have requested assistance from the government for small projects, because I think only 3-4 district councils in Malaysia have their own money to build infrastructure — their door tax collections and so on are barely enough to pay salaries. That's why state governments too, since almost all state governments don't have sufficient revenue for development spending that can be given to municipal councils, these small projects get neglected.
 
@@ -120,19 +120,19 @@ That's why the public applies directly. When the public applies, take Kedah for 
 
 **Dato' Syed Azwan:** Okay, on the matter of RMK — enough about RMK, there's only just over a week left before it's finalized. I made content about that too, YB, because I don't agree with this RMK either. Last minute, everyone's already done everything, and suddenly they want to change everything, we don't even know where to put this "baby."
 
-**Rafizi Ramli:** After I was no longer the Minister of Economy, I didn't contact him at all, because of my own rule not to trouble the officers. I feel sorry for him, he'd be the one who becomes the victim if there's any wrong statement. But I understand how complicated this process is — it takes a year and a half to complete all of this. So if there's a two-week window to change it, I think that's unreasonable.
+**Rafizi:** After I was no longer the Minister of Economy, I didn't contact him at all, because of my own rule not to trouble the officers. I feel sorry for him, he'd be the one who becomes the victim if there's any wrong statement. But I understand how complicated this process is — it takes a year and a half to complete all of this. So if there's a two-week window to change it, I think that's unreasonable.
 
 Before my time, government people in politics saw the RMK [Malaysia Plan] as a place to apply for projects — "I want a bridge here," things like that. When we took over from 2022, my instruction was that this five-year plan is actually not a project list, but projects suited to driving policy forward. So I don't know, in this two-week period, the list from ministries and ministers coming in saying "I want this, I want that" — I don't know how that's happening now.
 
 **Dato' Syed Azwan:** Perhaps YB, because of your approach like that, many people tried to slip in projects, how did YB reject them?
 
-**Rafizi Ramli:** No, but at this stage the RMK doesn't involve projects. If a ministry says they want to build "the center of the sky," this is part of it too, but they can't just want every small project, because we approve development applications according to the rolling plan. So I set a condition — I hope it hasn't been changed — small capital projects under a certain value are allocated every year, because they can be completed within one to two years. Larger projects, which require major planning, can only be applied for every two years — the first rolling plan, the third rolling plan, and so on. So those projects will come later.
+**Rafizi:** No, but at this stage the RMK doesn't involve projects. If a ministry says they want to build "the center of the sky," this is part of it too, but they can't just want every small project, because we approve development applications according to the rolling plan. So I set a condition — I hope it hasn't been changed — small capital projects under a certain value are allocated every year, because they can be completed within one to two years. Larger projects, which require major planning, can only be applied for every two years — the first rolling plan, the third rolling plan, and so on. So those projects will come later.
 
 That's why, over this two-week period, I think it's okay, let's see. I'll try to review all the final draft documents I went through before, so that once it's done, I can check what needs to be removed, what needs to be added.
 
 **Dato' Syed Azwan:** I just saw the Minister of Defence, YB, suddenly wanting to buy assets — I was surprised too, at that time I didn't even get the chance to meet YB.
 
-**Rafizi Ramli:** No, the process happens during the application phase. The government has a long annual planning cycle. For example, asset purchase applications are made every year according to the rolling plan — they need to be submitted to the Ministry of Economy after the second month. Then from the second month to the sixth month, the Ministry of Economy will "grill" every application — what to cut, why, what price. Then between the seventh and eighth months, before this I would review them one by one — so I'd grill them for two months. We close it mid-August, having been delayed until 10 July. But once we close in August, the ministries will start again, beginning the next cycle.
+**Rafizi:** No, the process happens during the application phase. The government has a long annual planning cycle. For example, asset purchase applications are made every year according to the rolling plan — they need to be submitted to the Ministry of Economy after the second month. Then from the second month to the sixth month, the Ministry of Economy will "grill" every application — what to cut, why, what price. Then between the seventh and eighth months, before this I would review them one by one — so I'd grill them for two months. We close it mid-August, having been delayed until 10 July. But once we close in August, the ministries will start again, beginning the next cycle.
 
 So actually, applications for allocations happen every year. The government's challenge is simply to ensure the spending is genuinely necessary — that's the main task of Ministry of Economy officers. That's why in the Ministry of Economy we have engineers, we have architects, we have weapons specialists, we have doctors — they check everything, "do you really need to do it like this?"
 
@@ -150,11 +150,11 @@ Right now actually, that's why there are so many parliamentary questions — que
 
 **Dato' Syed Azwan:** Okay, I understand, I agree with that. And the public also wants to know what YB is doing — what projects are coming to our area. Okay, we'll change the order of questions a bit — but will YB rise more aggressively in Parliament after this?
 
-**Rafizi Ramli:** Rise how exactly? Let's see what the actual situation is first.
+**Rafizi:** Rise how exactly? Let's see what the actual situation is first.
 
 **Dato' Syed Azwan:** Okay, here's another one — we're in a unity government. Sometimes, YB, I also feel like sometimes we want to criticize our coalition partners — UMNO, Amanah. Sometimes we think, "if I keep pushing hard, what will happen — will the coalition collapse?" This is the problem, YB. So I always say in my live content that this unity government won't last until the end, YB, it could break apart anytime. What I see is that Malaysia has lasted a bit longer compared to other countries that have already collapsed. So I want to ask YB, the current situation, in two or three more years — does YB think, after GE16, will the entities of these parties be the same or will they change?
 
-**Rafizi Ramli:** What do you mean, the entities within the unity government? Yes, will the parties change? We don't know from the current situation. I think the scenario is still unclear, because the origin of this unity government was based on the need of the time — Parliament was hung, no coalition could form a government on its own, so the formation of a unity government was decreed.
+**Rafizi:** What do you mean, the entities within the unity government? Yes, will the parties change? We don't know from the current situation. I think the scenario is still unclear, because the origin of this unity government was based on the need of the time — Parliament was hung, no coalition could form a government on its own, so the formation of a unity government was decreed.
 
 The views within each coalition also differ, from what I see. For example, within PH itself, there's a view that feels the need to go into a "PHBN" [Pakatan Harapan–Barisan Nasional] arrangement as the unity government. GPS's view is very clear — this unity government lasts until the end of the term, full stop — meaning they're open to whatever happens after that. Within PH itself, there's a favourable view from PKR, but it's more challenging now with Amanah, who want PH to contest against BN, not to cooperate with BN. The same situation actually occurs within BN.
 
@@ -166,7 +166,7 @@ So for now, from what I observe — whether Datuk Seri Anwar and Datuk Seri Zahi
 
 What's your comment, YB? Is this, is this, is this — a direct question or a wrapped-up one?
 
-**Rafizi Ramli:** This is direct, but it's fine, let me answer. Here's the thing, I understand — for example when PKR formed the government in 2022, late 2022, we needed leadership considered experienced and senior. On that basis, Datuk Seri Saifuddin — and at that time he was Secretary-General — it's true, he's a long-serving senior leader and had been a minister before. So to form the government at that time, I understand there would be such a need.
+**Rafizi:** This is direct, but it's fine, let me answer. Here's the thing, I understand — for example when PKR formed the government in 2022, late 2022, we needed leadership considered experienced and senior. On that basis, Datuk Seri Saifuddin — and at that time he was Secretary-General — it's true, he's a long-serving senior leader and had been a minister before. So to form the government at that time, I understand there would be such a need.
 
 It's just that we need to take public opinion into account — this is actually an achievement of the reform movement and PKR too. We used to bang the table to ensure there's a people's mandate to win, because we don't like playing around with that. Because when someone who lost gets appointed, it opens the door to a political culture of sycophancy. That's why people end up "kissing the Prime Minister's hand" to the very end — because it's fine even if I lose, I don't need to take care of the people, because if I lose, the PM will still give me an answer.
 
@@ -176,11 +176,11 @@ The public understands why appointing those who lost is an undesirable culture, 
 
 **Dato' Syed Azwan:** Direct, right? Direct. I agree, I feel the same way. Sometimes in Kedah I'd say, "eh, this minister, where is he? He lost." He got upset, he plays along with that narrative. One more thing, sorry YB — our PMX [Anwar], he said this is a warning, because that person is a leader — so it's a warning as head of leadership. But is it relevant for someone who has already...
 
-**Rafizi Ramli:** For me, he should be able to rest by now. But if appointed to critical positions — maybe yes, I don't know, it's just a form of service.
+**Rafizi:** For me, he should be able to rest by now. But if appointed to critical positions — maybe yes, I don't know, it's just a form of service.
 
 **Dato' Syed Azwan:** Because, if we're taking an example, the head of JKOM [Department of Information], it'd be better to take DSA. At least... my account's going to get banned now!
 
-**Rafizi Ramli:** No no, that's actually among the reasons some people in PKR aren't too fond of me, because they feel I'm too "brutal." Meaning, we're all good friends, I've known you a long time. But if you can't do that job, you can't do that job — it's not about whether I like you, you're a good person, I know you've served for a long time, you're "burnt out" from service. When we take up a public position paid for with the people's money, we have a responsibility to the people, and another thing, we have a responsibility to the party, because we need to carry out that duty well enough so that the party's name remains good.
+**Rafizi:** No no, that's actually among the reasons some people in PKR aren't too fond of me, because they feel I'm too "brutal." Meaning, we're all good friends, I've known you a long time. But if you can't do that job, you can't do that job — it's not about whether I like you, you're a good person, I know you've served for a long time, you're "burnt out" from service. When we take up a public position paid for with the people's money, we have a responsibility to the people, and another thing, we have a responsibility to the party, because we need to carry out that duty well enough so that the party's name remains good.
 
 So when we say this person has "contributed" or whatever, it becomes subjective. For me, if it's because they're our friend or our friend's child, that's fine, but look at the positions — don't place them in positions that are too critical, that interface directly with the public, because it requires someone who's genuinely skilled. Let me give an example — within the party, there are people angry at me because when I was minister, many of my officers weren't party members.
 
@@ -192,7 +192,7 @@ But if a position is given only because I want to honor their service — first,
 
 Okay, I'm just interested in one thing — I like Johari, Johari Ghani. I like him. In a lot of the content I make about UMNO, I always "hype" him up. I say, he's the future UMNO president, and also a future Prime Minister. Because recently he said, to be a candidate — a people's candidate — it's not because "you're my friend, you've been around a long time, you deserve it." He said, to be a people's candidate, the public needs to like that friend, even if he's not a party member. I think this is different. So let's see, what's YB's view — is what he's saying right, that a people's candidate needs the public to like him?
 
-**Rafizi Ramli:** Ultimately, overall, my view is this — we need to strike a balance. Take PKR for example, if contesting 100 seats, entering this election requires a good perception at all levels — at the national level and also at the level of the parliamentary or state seat we're contesting.
+**Rafizi:** Ultimately, overall, my view is this — we need to strike a balance. Take PKR for example, if contesting 100 seats, entering this election requires a good perception at all levels — at the national level and also at the level of the parliamentary or state seat we're contesting.
 
 At the national level, people will look at the overall image of the candidates we field. At the grassroots level, we also need to balance it with the ability to do community service work at the ground level and how it's received by our general members there. So actually, if we field 100 candidates, there's plenty of room for us to ensure there's balance. There are areas where, even though the candidate isn't high-ranking or impressive at the national level, people know him and he really is a good person there — for me, a candidate at the branch level like that is needed.
 
@@ -202,7 +202,7 @@ If people don't know him at all, or people do know him but know he's a "crook," 
 
 **Dato' Syed Azwan:** YB, sorry — so I don't know if this is radical or not. Why don't we just scrap the current branch system altogether, like political parties abroad?
 
-**Rafizi Ramli:** We need a fair balance. To say the branch division, "calling out names by area," all this is wrong — to be fair, 20-40 years ago there was no social media. So when there was no social media, the grassroots machinery and organization was very important, because they had to go door-knocking, needed a strong organization. Far more popular than the elected representative himself, because they worked every single night.
+**Rafizi:** We need a fair balance. To say the branch division, "calling out names by area," all this is wrong — to be fair, 20-40 years ago there was no social media. So when there was no social media, the grassroots machinery and organization was very important, because they had to go door-knocking, needed a strong organization. Far more popular than the elected representative himself, because they worked every single night.
 
 With social media now, campaigning and reach to the public relies more on screens than physical meetings. So because of that, a party's strength no longer depends 100% on branch strength. PKR and DAP — how many members does DAP have? Only about 100,000, from before — it's almost the same figure now, but it's their image and reach that makes the difference. PKR is the same — no matter how the branches are, many are "weak," Kedah has many weak ones too. But when we go into an election, why do people wonder — how, after losing the Melaka and Johor state elections, within 7-8 months could suddenly "come alive" enough to form a government?
 
@@ -218,7 +218,7 @@ For me, if you don't broadcast, how do you play at "shining" (popularity)? So I 
 
 **Host:** The newly appointed MPP (Central Leadership Council members) — first of all, Syamsul Iskandar was saying that PKR now needs to set up a media campaign team to rebuild PMX's [Anwar's] reputation. What's your comment on that?
 
-**Rafizi Ramli:** I want to comment on that statement. It's from Syamsul Iskandar — I won't say "YB", I'll just say Syamsul Iskandar. From my experience with him, from day one in this party, actually — what does he call himself, what's the term he uses? "Broadcast leader" — no, he doesn't want to be a broadcast leader. He's a "hidden leader." Because he's like this, you know — he's got a lot of these characters around him. He tells people like DSA, or me, or others: "let us be the ones campaigning with the people, broadcasting to the people, all that." He himself sits in the background, and when we win and the position becomes ripe for the taking, he goes and takes it.
+**Rafizi:** I want to comment on that statement. It's from Syamsul Iskandar — I won't say "YB", I'll just say Syamsul Iskandar. From my experience with him, from day one in this party, actually — what does he call himself, what's the term he uses? "Broadcast leader" — no, he doesn't want to be a broadcast leader. He's a "hidden leader." Because he's like this, you know — he's got a lot of these characters around him. He tells people like DSA, or me, or others: "let us be the ones campaigning with the people, broadcasting to the people, all that." He himself sits in the background, and when we win and the position becomes ripe for the taking, he goes and takes it.
 
 So that's why, in the end, when an election result doesn't align with the will of the people on the ground, it becomes a problem within the party. Because people ask, "who are you? I've never seen you, I don't even know you." That's why, as I said, going back to the earlier question —
 
@@ -234,11 +234,11 @@ We can't just go on air and ramble emptily, because the people will judge our ch
 
 **Host:** But there's now more noise around the US Ambassador appointment — Nick Adams. What's your take?
 
-**Rafizi Ramli:** I think it's positive, because Trump chose him for being an influential political influencer. Yeah, he really is influential. Why did Trump send Nick Adams? Some people want to make a fuss about it, but for me, that's Trump's prerogative. If he wants to send someone — even if he wanted to send J-Lo, he could. But Nick Adams — how is he? Why did Trump —
+**Rafizi:** I think it's positive, because Trump chose him for being an influential political influencer. Yeah, he really is influential. Why did Trump send Nick Adams? Some people want to make a fuss about it, but for me, that's Trump's prerogative. If he wants to send someone — even if he wanted to send J-Lo, he could. But Nick Adams — how is he? Why did Trump —
 
 **Host:** Suddenly, not a diplomat, suddenly he sends an influencer from Australia to become ambassador here. This kind of thing has never happened before. Haa?
 
-**Rafizi Ramli:** I haven't really followed his background closely, just skimmed some things about Adams. But there's one thing we need to understand.
+**Rafizi:** I haven't really followed his background closely, just skimmed some things about Adams. But there's one thing we need to understand.
 
 In the US system, ambassadorial appointments are mostly political appointments. It's not like our system, where the majority of ambassadors are career diplomats. That's simply their practice — historically, even JFK's father, Joseph Kennedy, was appointed ambassador to the UK. That's normal there. So, as DSA has said, it's really the prerogative of the US President and government. The US President uses ambassadorial posts as rewards for their supporters.
 
@@ -262,7 +262,7 @@ I look at what Trump actually wants. Vietnam went from over 40% down to 20%. We 
 
 **Host:** Is it Trump's strategy that he doesn't want Malaysia to become dominant in this regard? Previously 24%, now up to 25%. Previously 40%, now 20%. 36% became 19%. What does Trump actually want?
 
-**Rafizi Ramli:** Why he didn't want to lower Malaysia's rate is a hard question for me to answer, because I don't know what's in Trump's head. Sometimes we simply can't read Trump's mind, but what we do know is that Trump is a dealmaker.
+**Rafizi:** Why he didn't want to lower Malaysia's rate is a hard question for me to answer, because I don't know what's in Trump's head. Sometimes we simply can't read Trump's mind, but what we do know is that Trump is a dealmaker.
 
 He's a businessman, so personal relationships matter a lot to him. If he likes you, he likes you — he's that type. Unlike Malaysia, the US President has near-absolute executive power. So if we compare Malaysia with Vietnam — Vietnam has been actively lobbying there for a long time, we don't even know what they've offered — these tariffs are really meant to fix his trade deficit.
 
@@ -278,7 +278,7 @@ so find a way to make a deal with him.
 
 **Host:** Dato', a little — YB's view on Nick Adams is actually quite different and pretty rational. It's just that once he's here, it'll be hard for Anwar Ibrahim and the government to answer for the pro-Zionist narrative and everything. That's really the answer to it — meaning, if as ambassador he makes pro-Zionist statements —
 
-**Rafizi Ramli:** actually, we as a country, and also party representatives, NGOs and so on, have every right to object, right? And we can send diplomatic notes, because it would conflict with our own independent stance. So we can't just go along with something purely to win a social media war, or purely out of fear of being attacked. For example, even if PAS were the government —
+**Rafizi:** actually, we as a country, and also party representatives, NGOs and so on, have every right to object, right? And we can send diplomatic notes, because it would conflict with our own independent stance. So we can't just go along with something purely to win a social media war, or purely out of fear of being attacked. For example, even if PAS were the government —
 
 do you think Trump would care if he wanted to send Nick Adams? He'd send Nick Adams anyway; there'd be some justification found later. Whatever we do, he's going to send Nick Adams. So the sensible thing, at the level of international relations, is that there are rules to this game. There are things we agree with, and things we disagree with — we can state our disagreement. But we also have to respect that country's right and sovereignty to send the envoy of its choosing. So we need to be professional about it. Still, as things stand, if we can ensure we benefit from the tariff negotiations — and I think it's the government's responsibility to explain this to the public —
 
@@ -296,7 +296,7 @@ So everything he said about YB is true. But when we look within PKR — when YB 
 
 what does it actually mean, right? Outsiders acknowledge us as a sharp strategist, and yet [we suffer] a loss. I want to hear from YB on this — I always just hear it through the media. That's why I want to ask: who exactly is this "hidden leader"?
 
-**Rafizi Ramli:** No — actually, I remember, not just in PKR, but in any party, there will always be a conflict between two groups.
+**Rafizi:** No — actually, I remember, not just in PKR, but in any party, there will always be a conflict between two groups.
 
 Take it outside Malaysia, for example — go back to the era of Lenin and Stalin.
 
@@ -352,7 +352,7 @@ So if one day YB becomes President of PKR and wants to form a government, I wond
 
 because to form government, does it mean you'd have to take these people in? Otherwise you can't form government? That's what I want to ask.
 
-**Rafizi Ramli:** Well, I don't know what would happen if I became president of any party — maybe becoming president of the "Malaysian Podcasters' Association" would be more influential! But actually, what happened —
+**Rafizi:** Well, I don't know what would happen if I became president of any party — maybe becoming president of the "Malaysian Podcasters' Association" would be more influential! But actually, what happened —
 
 with the formation of the unity government in 2022 — there was actually a silver lining, because in other countries, it's long been the practice that coalition or mixed governments form only after an election.
 
@@ -400,7 +400,7 @@ people always wonder where they can put their positions. I always say, I've neve
 
 Now, earlier Obi mentioned — meaning, this party doesn't have a problem with UMNO or PAS, if they agree, that's fine. But we need to make sure the conditions we set don't dilute the soul and idealism of the party.
 
-**Rafizi Ramli:** So, for example, if reformasi principles say key appointments must be brought to Parliament —
+**Rafizi:** So, for example, if reformasi principles say key appointments must be brought to Parliament —
 
 they have to agree to that; they have to agree. If they don't agree, then it can't happen. What happened in 2022 — I drafted it myself — we never got to that level of detail; we only had broad principles, like that. So I think this is a positive development, because if we try to force the public to accept too rigid a formula right away, the public won't accept it either. This is a process that will unfold from one election to the next. If, for example, the conditions PKR sets are simply too incompatible, then there's no point forming a government with us — you'll be ruined, and so will I.
 
@@ -434,7 +434,7 @@ Was that the moment YB was going to set the record straight?
 
 Is "Ayuh Malaysia" a different thing altogether? Only God knows, but I do know —
 
-**Rafizi Ramli:** actually, tonight there's a briefing and a meeting — not a big one — being held by Syamsul Iskandar. I got sent the link.
+**Rafizi:** actually, tonight there's a briefing and a meeting — not a big one — being held by Syamsul Iskandar. I got sent the link.
 
 I actually thought about inviting everyone to join in and listen to what he wants to discuss, but never mind — we have our own podcast. I don't know what's going to be announced; I don't even know
 
@@ -482,7 +482,7 @@ What's the right term for this? Is it possible? Could it happen that —
 
 if we don't fix things, will it "reconnect" [bertaut] on its own? We don't have long before Raya — I don't believe that once people no longer want to, they'll —
 
-**Rafizi Ramli:** I do believe in old Malay proverbs — the elders were wise with their metaphors. But as was said earlier, whether it's truly an accurate metaphor is another matter — this business of "kiambang bertaut" [scattered water hyacinth reconnecting]. If you've already poisoned the kiambang, sprayed it all with poison, how is it supposed to reconnect? Is it even still capable of that? Within this party, from the year 2000, from —
+**Rafizi:** I do believe in old Malay proverbs — the elders were wise with their metaphors. But as was said earlier, whether it's truly an accurate metaphor is another matter — this business of "kiambang bertaut" [scattered water hyacinth reconnecting]. If you've already poisoned the kiambang, sprayed it all with poison, how is it supposed to reconnect? Is it even still capable of that? Within this party, from the year 2000, from —
 
 I remember the first party election I personally observed was in 2001 —
 
@@ -530,7 +530,7 @@ You want to sort things out with people like Samsul Iskandar, Azman Bidin, Chang
 
 **Host:** We've been chatting away, and I've lost track of what we were even talking about. Previously, before this, when YB was a minister, YB didn't ask [questions in Parliament]. But now that YB has become a Member of Parliament — even as a unity-government backbencher MP — will YB be outspoken in questioning the Prime Minister during PMQT?
 
-**Rafizi Ramli:** For me, if you look at the origin of the PMQT culture, it comes from Westminster, right? PMQT is a platform for backbenchers, actually, every week to question the PM. So, I'm not a protester, and I don't intend to condemn Anwar Ibrahim for his work — except unless there are big things that need to be asked. I really don't intend to make parliament a place to fight. When I was a backbencher previously, I only used parliament to go after Najib and 1MDB.
+**Rafizi:** For me, if you look at the origin of the PMQT culture, it comes from Westminster, right? PMQT is a platform for backbenchers, actually, every week to question the PM. So, I'm not a protester, and I don't intend to condemn Anwar Ibrahim for his work — except unless there are big things that need to be asked. I really don't intend to make parliament a place to fight. When I was a backbencher previously, I only used parliament to go after Najib and 1MDB.
 
 I'm not confused, I'm focused. All my questions were related to facts and scandals, but the ministers didn't know the answers when I asked one by one — maybe their own officials just wanted to sabotage them. I asked, and they gave answers.
 
@@ -540,7 +540,7 @@ But my questions, we have to submit them — I have submitted all of mine. There
 
 This government needs to be preserved — not because I disagree with Anwar, or don't support him holding power, but because the country cannot go through a change of power right now, given the severe economic challenges we face. Even Singapore's own growth could slow to just 2-3%. If that happens — say our growth comes in at 3% or lower — that will be Malaysia's situation over the next year or two. So we need a stable government, so that he can finish this term until the election. That means Anwar Ibrahim needs to remain as Prime Minister until the election is held.
 
-**Rafizi Ramli:** I may not be able to influence what happens when the election comes, because I'm not the leader of PKR or PH — the strategy and campaign is up to Anwar and other leaders. But as a member of parliament, my job is to make sure this government does its best to weather these severe challenges over the next one or two years. If PAS doesn't want to do that work, I can do it.
+**Rafizi:** I may not be able to influence what happens when the election comes, because I'm not the leader of PKR or PH — the strategy and campaign is up to Anwar and other leaders. But as a member of parliament, my job is to make sure this government does its best to weather these severe challenges over the next one or two years. If PAS doesn't want to do that work, I can do it.
 
 It's not because I want to overthrow the government or dislike Anwar Ibrahim — it's the work of a parliamentarian, because the challenges now are severe. But I hope, as a backbencher within PKR, we don't need to be more aggressive than that. Everything I say, if it's true, accept it well, because our intention is the same: to ensure the people can value the quality of the government that exists, so that they think — even though I don't fully agree with everything — this government is better than the alternative, and it seems to listen to criticism, and it can change and improve.
 
@@ -552,7 +552,7 @@ Okay, that's all.
 
 **Host:** What YB said just now, outsiders can judge for themselves — we have no intention at all of bringing down [the government].
 
-**Rafizi Ramli:** We have to help — like me, every day, if I see anything about the PM, I will make content about it, even though I don't get anything from it, but that's a responsibility. If you look at my studio, there's a picture of the Prime Minister behind me — I remember I was the only one who dared to put a picture of the PM behind me. That's how it is. Think of a mother — imagine. If our mother never scolds us, we're finished. As we grow up, from childhood until now, when we were small our mother would scold us again and again; when we've grown up, she scolds us in a different way. But imagine the situation when we're already grown up and our mother scolds us a hundred times — she wouldn't be human if she didn't scold us. Indeed, in our culture, there are people who need to be scolded, and the manner of that scolding...
+**Rafizi:** We have to help — like me, every day, if I see anything about the PM, I will make content about it, even though I don't get anything from it, but that's a responsibility. If you look at my studio, there's a picture of the Prime Minister behind me — I remember I was the only one who dared to put a picture of the PM behind me. That's how it is. Think of a mother — imagine. If our mother never scolds us, we're finished. As we grow up, from childhood until now, when we were small our mother would scold us again and again; when we've grown up, she scolds us in a different way. But imagine the situation when we're already grown up and our mother scolds us a hundred times — she wouldn't be human if she didn't scold us. Indeed, in our culture, there are people who need to be scolded, and the manner of that scolding...
 
 Some of it is rather harsh, rather stinging. Don't shoot the messenger — get the message, that's the important thing. Our political culture hasn't reached that level yet. That's our job — to accustom ordinary people to that. Because in the end, this is what PKR has always said from the beginning — the people need to speak up, so that when the people press for it, the government — whoever that government is — must follow the voice of the people. So this is a process that's happening, and there's wisdom in it. If I were to become a minister again, perhaps this would get stuck along the way, because there aren't many people within PKR or PH who dare to "needle" a little. Perhaps for now, for us to be firm, for us to change for the better, we do need voices like this.
 
@@ -560,20 +560,20 @@ Yes, I joined PKR because I want to be a good person. I always say in my live co
 
 **Host:** Number two, poor Malays. Then three, DAP.
 
-**Rafizi Ramli:** Then, yes.
+**Rafizi:** Then, yes.
 
 **Host:** So for me, what YB is doing here is important for educating the people.
 
-**Rafizi Ramli:** We have to educate people. It's the same with the media. If I go along with it, I wouldn't be surprised who gets appointed as a judge. But the way YB brings up that story — now I've even become like an expert — Article 122B, JAC Section 209 — I actually didn't care about it at all [at first]. What matters is that young people nowadays who will move forward, it's better that they come from a position of being educated to evaluate our leaders — leaders who get things done, that's all that matters.
+**Rafizi:** We have to educate people. It's the same with the media. If I go along with it, I wouldn't be surprised who gets appointed as a judge. But the way YB brings up that story — now I've even become like an expert — Article 122B, JAC Section 209 — I actually didn't care about it at all [at first]. What matters is that young people nowadays who will move forward, it's better that they come from a position of being educated to evaluate our leaders — leaders who get things done, that's all that matters.
 
 **Host:** Alright, Dato'. Thank you very much. Anything else?
 
-**Rafizi Ramli:** No. That's already a lot — one hour fifty minutes, and very productive.
+**Rafizi:** No. That's already a lot — one hour fifty minutes, and very productive.
 
 **Host:** Thank you, Dato', for coming such a long way.
 
-**Rafizi Ramli:** I have plenty of time. Later if there's an opportunity, I could come play around at the DSA studio. Even when I go to Jitra, it's been a long time since I've been there.
+**Rafizi:** I have plenty of time. Later if there's an opportunity, I could come play around at the DSA studio. Even when I go to Jitra, it's been a long time since I've been there.
 
 **Host:** Alright — if you love your child, discipline them; if you love the government, admonish it. Podcast Bincang Menteri, episode five done. We'll meet again next week.
 
-**Rafizi Ramli:** Regards also to Syamsul Iskandar, discipline him too. Good night, see you again.
+**Rafizi:** Regards also to Syamsul Iskandar, discipline him too. Good night, see you again.

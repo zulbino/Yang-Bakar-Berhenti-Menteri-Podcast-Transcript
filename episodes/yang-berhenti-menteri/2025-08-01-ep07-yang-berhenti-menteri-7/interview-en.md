@@ -8,7 +8,7 @@ duration_seconds: 7644
 duration: 2h 7m
 view_count: 50324
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Daniel Jani
 topics:
@@ -54,19 +54,19 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Rafizi Ramli:** Assalamualaikum and greetings. Welcome back to *Podcast Yang Berhenti Jadi Menteri*, episode 7.
+**Rafizi:** Assalamualaikum and greetings. Welcome back to *Podcast Yang Berhenti Jadi Menteri*, episode 7.
 
 **Daniel Jani:** Episode 6 or 7?
 
-**Rafizi Ramli:** Episode 7. But before we start, let me ask Daniel one question straight away — coming to this podcast, aren't you afraid of getting "glued" [caught in controversy]?
+**Rafizi:** Episode 7. But before we start, let me ask Daniel one question straight away — coming to this podcast, aren't you afraid of getting "glued" [caught in controversy]?
 
-**Rafizi Ramli:** Actually, Daniel is truly someone who can be a leader — he's a branch chief, the Mas Gading branch. Besides that, he's also an influencer. He told me earlier that YouTube itself informed him that he is one of the top 10 political influencers in Malaysia. And he received the "silver button" — the YouTube silver play button.
+**Rafizi:** Actually, Daniel is truly someone who can be a leader — he's a branch chief, the Mas Gading branch. Besides that, he's also an influencer. He told me earlier that YouTube itself informed him that he is one of the top 10 political influencers in Malaysia. And he received the "silver button" — the YouTube silver play button.
 
 **Daniel Jani:** Yes, silver button. In terms of YouTube, they did a video call with me two or three times. The first time they called, I thought it was a scam — I ignored it for two or three months. Then I checked my email, and it was indeed real, from YouTube Malaysia. They arranged a time for a video call, wanting to "teach" me about my channel. I asked why I was chosen — it turned out that at the time there were 10 Malaysian YouTubers categorized as political YouTubers.
 
 I myself was surprised because I felt I wasn't really the right person — there are many other political YouTubers who should be more deserving.
 
-**Rafizi Ramli:** Was there anyone from JCOM on the list YouTube chose? Maybe Iswadi?
+**Rafizi:** Was there anyone from JCOM on the list YouTube chose? Maybe Iswadi?
 
 **Daniel Jani:** Oh, Iswadi isn't from JCOM. Iswadi wasn't on that list. Most of them were people from Sarawak.
 
@@ -78,41 +78,41 @@ That's what I see. And if I were to say more about JCOM later, people would say 
 
 I'm not saying I'm already very skilled, but maybe we could try. That's why we're rather weak in that area.
 
-**Rafizi Ramli:** Maybe he knows, but he doesn't want to teach. I'm sure he knows.
+**Rafizi:** Maybe he knows, but he doesn't want to teach. I'm sure he knows.
 
 **Daniel Jani:** And it's monetized too, right?
 
-**Rafizi Ramli:** Mine, yes, over 100 [thousand subscribers], but not monetized yet.
+**Rafizi:** Mine, yes, over 100 [thousand subscribers], but not monetized yet.
 
 **Daniel Jani:** So the only person who isn't monetized is brother Rafizi. Even with so much [subscribers], but not monetized.
 
-**Rafizi Ramli:** That's true, that's why I need to monetize, I'm losing out. Not yet, ah — never mind, after this I need to learn from Daniel.
+**Rafizi:** That's true, that's why I need to monetize, I'm losing out. Not yet, ah — never mind, after this I need to learn from Daniel.
 
 **Daniel Jani:** After this we'll look at why it's like that. YouTube's requirements for monetization now are easy — a thousand subscribers, four thousand watch hours. I thought from YB's very first video it could already be monetized, because with ten thousand viewers per video alone, that's already enough for four thousand watch hours.
 
-**Rafizi Ramli:** How could that happen? I myself was surprised. I hadn't even thought about whether there's profit from this or not. I just realized — why can't my YouTube be monetized?
+**Rafizi:** How could that happen? I myself was surprised. I hadn't even thought about whether there's profit from this or not. I just realized — why can't my YouTube be monetized?
 
 So to those watching out there, after this there might be a bit of advertising inserted. And besides this podcast, starting next week, we will have documentary-style content and broadcasts similar to live TV, which will be aired on my YouTube channel and also the Ayuh Malaysia YouTube channel. So please subscribe to both channels, and please watch, because when we do monetize, the money won't come to me — it will be used as part of a fund to help the underprivileged who are trying to run social enterprises.
 
 **Daniel Jani:** Earlier YB talked about this monetization thing because I hadn't thought about how to explain it actually. I thought it was already monetized. I was a bit naughty too because I watch a lot on YB's Facebook, so I don't go to YouTube, I didn't even notice that.
 
-**Rafizi Ramli:** Facebook has monetization too?
+**Rafizi:** Facebook has monetization too?
 
 **Daniel Jani:** Yes, it does too.
 
-**Rafizi Ramli:** Okay, okay. This is a lot of money. Big money. Need to check this later. If we look at it further, for TikTok — short videos for ads, right?
+**Rafizi:** Okay, okay. This is a lot of money. Big money. Need to check this later. If we look at it further, for TikTok — short videos for ads, right?
 
 **Daniel Jani:** Right, so we look at the parts we cut for ads — if you're not satisfied, you need to go find his channel. So these short videos are indeed for TikTok, for ads.
 
-**Rafizi Ramli:** Okay. Alright, brother Daniel Jani, quite the powerful influencer. I see a lot of questions, but I'll only ask a few today. Don't just ask me, ask Daniel.
+**Rafizi:** Okay. Alright, brother Daniel Jani, quite the powerful influencer. I see a lot of questions, but I'll only ask a few today. Don't just ask me, ask Daniel.
 
 **Daniel Jani:** Haha, sure. But he has to start first.
 
-**Rafizi Ramli:** Okay, because last week Zahim came — that kid really wanted to "stir things up," so he had more questions. I'm bored of myself talking. Daniel came all the way from Sarawak, we should both be asking him questions instead.
+**Rafizi:** Okay, because last week Zahim came — that kid really wanted to "stir things up," so he had more questions. I'm bored of myself talking. Daniel came all the way from Sarawak, we should both be asking him questions instead.
 
 **Daniel Jani:** I'm scared now. I didn't bring anything. Didn't even bring terubuk [fermented fish, a Sarawak delicacy].
 
-**Rafizi Ramli:** Never mind, go ahead. But before that, let me make it clear that a long explanation and special discussion regarding the 13th Malaysia Plan will be held next week. We'll invite a highly qualified guest panelist — I can say it directly, RMK13 needs its own dedicated podcast session, and preferably not a politician, but an economist. I've been informed that Dr. Mohd Khalid will focus on discussing RMK13. So let the MPs make noise first, make monkey cartoons and so on — God willing, next week. During that week too, we'll give our own panelists a chance to see the reactions, then we'll review and conclude on RMK13.
+**Rafizi:** Never mind, go ahead. But before that, let me make it clear that a long explanation and special discussion regarding the 13th Malaysia Plan will be held next week. We'll invite a highly qualified guest panelist — I can say it directly, RMK13 needs its own dedicated podcast session, and preferably not a politician, but an economist. I've been informed that Dr. Mohd Khalid will focus on discussing RMK13. So let the MPs make noise first, make monkey cartoons and so on — God willing, next week. During that week too, we'll give our own panelists a chance to see the reactions, then we'll review and conclude on RMK13.
 
 So Daniel, today you can focus on other hot topics, aside from RMK13.
 
@@ -120,7 +120,7 @@ So Daniel, today you can focus on other hot topics, aside from RMK13.
 
 Why is it — even though YB has resigned as minister, and is still an MP for Parti Keadilan, and still branch chief of Pandan — why is it that when YB mentions the Farhash issue, many people jump up, "howling" like monkeys, like monkeys hit with belacan [shrimp paste]? Whereas Farhash, as far as I know, may still be a PKR member, but he's not in central leadership, not an MPP, not a branch chief, and not at the state level. Why do these people jump?
 
-**Rafizi Ramli:** I don't know why they jump, but for those of us inside PKR, we know that a large part of PKR's leadership, from the grassroots up to the newly-won MPP level, are Farhash's boys. So their loyalty to Farhash is as high as their loyalty to Datuk Seri Anwar.
+**Rafizi:** I don't know why they jump, but for those of us inside PKR, we know that a large part of PKR's leadership, from the grassroots up to the newly-won MPP level, are Farhash's boys. So their loyalty to Farhash is as high as their loyalty to Datuk Seri Anwar.
 
 Only a handful of PKR's senior leadership are aware of this. In this party, like me and Daniel — we're the "opposing camp." So if there's something we feel isn't beneficial to the party, we need to speak up. But others feel that as long as their own necks are safe, it doesn't matter.
 
@@ -132,7 +132,7 @@ If they want to sue, let's all get sued together — because with Farhash, usual
 
 **Daniel Jani:** We also know Datuk Seri Anwar Ibrahim's age situation now. If we're lucky, maybe he'll be Prime Minister for one more term, and after that maybe not. Will figures like these eventually replace Datuk Seri Anwar Ibrahim — become president, vice president, or deputy?
 
-**Rafizi Ramli:** To me, whether it will turn out that way — that's the part that...
+**Rafizi:** To me, whether it will turn out that way — that's the part that...
 
 **Daniel Jani:** What else I see here — the party wants to be strong, as YB always says, I see just one thing: any party — whether it's our PKR, UMNO, or PAS, if it's not strong at the branch level, we won't be able to produce MPs, won't be able to produce state assemblymen. So what's the point of everyone being busy fighting over positions at the top if at the bottom there's not a single MP who wins, like Parti Gerakan or other parties?
 
@@ -140,7 +140,7 @@ That's what worries me. This culture that YB Rafizi always mentions, if we look 
 
 So most of these branches actually don't have a functioning seat. We ourselves know we're not strong right now — only 30 MPs, 37 state assemblymen. That's very few if you look at it. But out there, many who might be new, or might be long-time members, have never seen this — that we're actually still quite fragile like that. What's YB's view — is my view right or not?
 
-**Rafizi Ramli:** Every party in our country has its own weaknesses and strengths. If we look at parties older than PKR, for example UMNO and PAS — their strength is because they've existed for a long time and have been in government, with a strong base of supporters.
+**Rafizi:** Every party in our country has its own weaknesses and strengths. If we look at parties older than PKR, for example UMNO and PAS — their strength is because they've existed for a long time and have been in government, with a strong base of supporters.
 
 But the grassroots strength that PAS always touts — every time we negotiate seats, they will belittle PKR, "what do you have, we're this strong." But if we look back before PAS joined together with PKR and DAP in the coalition that led to the historic victory of 2008, PAS never got more than 11 seats — only around 3-4 seats. Even so, their grassroots strength cannot be denied — if they need to bring down 100,000 people, they can bring down 100,000. That's their strength, but their weakness is what becomes PKR's strength.
 
@@ -154,11 +154,11 @@ So in a situation like what Daniel said, we actually have a big gap to fight for
 
 **Daniel Jani:** That's also what I see, YB. That's why I criticize this issue a lot. When it came to the recent party election, there was one word YB himself said —
 
-**Rafizi Ramli:** I've said it already.
+**Rafizi:** I've said it already.
 
 **Daniel Jani:** YB Rafizi has said this, and I've seen it myself, just how to put it — simply, our work should be sustainable, not just about holding on, being defensive. But what happened, I'm one of those who usually create issues. But I look at the TikTokers attacking YB Rafizi too, the groups people know — their job is only to defend. They don't know what issues to bring up. So this thing, if we look after the party election, up until now, that's all they do — wait for hot news, comment on it. If there's no hot political news, there's no commentary.
 
-**Rafizi Ramli:** Daniel, let me add a little because he brought up offensive and defensive — let me share a bit of political knowledge with the younger ones.
+**Rafizi:** Daniel, let me add a little because he brought up offensive and defensive — let me share a bit of political knowledge with the younger ones.
 
 Actually we're seeing a phenomenon lately — the emergence of TikTokers, the emergence of what people call on social media "chaploss" [sycophants/flatterers]. They think that just by making TikToks, they've already had a big impact because their likes and views are a bit high.
 
@@ -178,11 +178,11 @@ I don't see either of these being sharpened by any of PKR's current leadership. 
 
 So this thing, our party doesn't have this kind of effort that we should be making. We're not sharpening the knife properly now. Waiting until it's over before realizing. Same thing — actually I've seen this for a while, YB, I just haven't...
 
-**Rafizi Ramli:** People say I don't stab first, I just slice.
+**Rafizi:** People say I don't stab first, I just slice.
 
 **Daniel Jani:** Sometimes there are also ones that go straight through, not just slicing.
 
-**Rafizi Ramli:** I've gone straight through too, but at the fingers first — that's what I'm doing now. Like in Sarawak, PKR Sarawak, if it wants to win, it really needs to — I'll go into Sarawak — it's really like that with GPS. If it's just what we have now, just slicing here and there, that's why we can't understand why any of our former MPs could win, while many jumped ship — Ali Biju, Baru Bian, Willy Mongin.
+**Rafizi:** I've gone straight through too, but at the fingers first — that's what I'm doing now. Like in Sarawak, PKR Sarawak, if it wants to win, it really needs to — I'll go into Sarawak — it's really like that with GPS. If it's just what we have now, just slicing here and there, that's why we can't understand why any of our former MPs could win, while many jumped ship — Ali Biju, Baru Bian, Willy Mongin.
 
 **Daniel Jani:** Willy Mongin won because he was outspoken, and because of the 1MDB issue. Ali Biju was the same — I think he really had his own strength, he was really strong in that area. But like Baru Bian — Baru Bian won on the land issue, that was really his own strength.
 
@@ -190,7 +190,7 @@ I'm always like this — even though I myself am hated in Sarawak, just like YB 
 
 So I see that because we love the party — that's why we criticize it. If we didn't love it, we wouldn't criticize it. Many watch and don't understand what's being fussed about regarding PKR — the election is already over, everyone has already moved on.
 
-**Rafizi Ramli:** Because after the election, after everything that happened, it actually changed the entire essence of the party. The party itself has changed. So all the tactics and strategies that used to win this party elections, now those things have been diluted because they've been replaced with a new mantra — that is, "we're in power now."
+**Rafizi:** Because after the election, after everything that happened, it actually changed the entire essence of the party. The party itself has changed. So all the tactics and strategies that used to win this party elections, now those things have been diluted because they've been replaced with a new mantra — that is, "we're in power now."
 
 So when we've abandoned our strength as an opposition, and when we become the government, we only see and strategize based on power — that's very dangerous, because one, power is intoxicating. And if we only rely on power to win, there will be many risks — cheating, corruption, and doing the same things that used to make the people angry.
 
@@ -202,29 +202,29 @@ That's why people like me and Daniel, who are already getting old, always give s
 
 **Daniel Jani:** Alright YB, YB was talking about pragmatic politics earlier.
 
-**Rafizi Ramli:** Eh, no — that's not pragmatic. Pragmatic politics is "making do with what's available" — you need to go to class for this one.
+**Rafizi:** Eh, no — that's not pragmatic. Pragmatic politics is "making do with what's available" — you need to go to class for this one.
 
 **Daniel Jani:** No, no, myself included. What I mean is, there are people who give excuses — supporters of these practices give excuses, including what I want to link to the first question earlier. For example, they say Farhash is needed, because if not, who would replace that role — "Tommy's cronies"? That's the excuse given.
 
 Second, on the matter of forming the government — Brother Rafizi himself opposed a grand coalition government, but eventually after the hung parliament, still endorsed the unity government. So how about that? Let me ask you — there are two questions. The first question, on the need for cronies — meaning, is that an argument or a justification for these practices, YB?
 
-**Rafizi Ramli:** I don't see that being related to what you're saying, because — no, no, I don't see that question being related like that. Because Farhash, maybe — I'll "back up" Farhash on this one.
+**Rafizi:** I don't see that being related to what you're saying, because — no, no, I don't see that question being related like that. Because Farhash, maybe — I'll "back up" Farhash on this one.
 
 **Daniel Jani:** Yes, yes, okay, okay. Because even though I'm outspoken, we can't accuse people.
 
-**Rafizi Ramli:** YB Rafizi Ramli himself knows this. I myself know too, it's just that we don't want people saying we're making accusations. But if we want to talk about Farhash in the context of the question you asked earlier, I don't see it that way.
+**Rafizi:** YB Rafizi himself knows this. I myself know too, it's just that we don't want people saying we're making accusations. But if we want to talk about Farhash in the context of the question you asked earlier, I don't see it that way.
 
 **Daniel Jani:** YB doesn't agree with my view on that question?
 
-**Rafizi Ramli:** Not quite — in the sense that there used to be a term "cronies." I don't see that here. I see this as different.
+**Rafizi:** Not quite — in the sense that there used to be a term "cronies." I don't see that here. I see this as different.
 
 **Daniel Jani:** But that's not what I meant. Does YB agree with my view?
 
-**Rafizi Ramli:** I'll just be direct.
+**Rafizi:** I'll just be direct.
 
 **Daniel Jani:** Please, please. YB, be direct.
 
-**Rafizi Ramli:** Let me put it this way — if we look back over 20 years, if Datuk Seri Anwar from 20 September 1998, in front of hundreds of thousands of people — at that time I was 21, 22 years old — did we understand it then? No, we didn't. The rallying cry, why we needed to change the system and why we needed to fight, and why reform was necessary, was because the country's system was rooted in the practice of KKN — corruption, cronyism, nepotism.
+**Rafizi:** Let me put it this way — if we look back over 20 years, if Datuk Seri Anwar from 20 September 1998, in front of hundreds of thousands of people — at that time I was 21, 22 years old — did we understand it then? No, we didn't. The rallying cry, why we needed to change the system and why we needed to fight, and why reform was necessary, was because the country's system was rooted in the practice of KKN — corruption, cronyism, nepotism.
 
 So for over 20 years, that's the campaign we've repeated. And in the people's view, the people feel that when the government changes, there's a new Prime Minister, a new ruling party, there must be a new gang reaping the benefits.
 
@@ -260,7 +260,7 @@ On this issue, I see one or two things. First, we're heading into an election �
 
 Losing an election is an issue that might be unexpected for them and perhaps for the Malaysian people. Don't let people say even a Prime Minister candidate lost — this could happen, don't think I'm joking or that the party is laughing at me. And Izzah herself, if she loses again, what then?
 
-**Rafizi Ramli:** That's what — I once mentioned to Datuk Seri Anwar, being in Putrajaya in this government has its pros and cons, Daniel. The good thing, of course, is our power is surrounded by all government officials. And these government officials never say anything bad. If you ask, "I haven't combed my hair, is it getting balder?" He'll say, "YB is very handsome." That's how it is — surely he wouldn't say YB isn't handsome? That's just the culture. So I told Datuk Seri Anwar —
+**Rafizi:** That's what — I once mentioned to Datuk Seri Anwar, being in Putrajaya in this government has its pros and cons, Daniel. The good thing, of course, is our power is surrounded by all government officials. And these government officials never say anything bad. If you ask, "I haven't combed my hair, is it getting balder?" He'll say, "YB is very handsome." That's how it is — surely he wouldn't say YB isn't handsome? That's just the culture. So I told Datuk Seri Anwar —
 
 I can give you an example, Daniel. This was during the Sungai Bakap by-election. At that time I was a party member on leave. There was a meeting with Datuk Seri Anwar, then Izzah, who represented the Penang side as MPN. Then Fadlina as the MP for that area. Then the Chief Minister, Dr. Mohd, was present at the table. Datuk Seri Anwar sat at the head of the table, at the seat what people call "the head of the table." On his right and left were them, on my side was me and Nik.
 
@@ -294,29 +294,29 @@ So in the current state of support, I can tell you that my view is, PKR will ind
 
 **Danial:** Good luck to the election leaders who will come to determine this candidate, because public perception will be quite sensitive as a result of the mistakes that happened during the last election — it has a big impact on the outcome. I want to talk a little about YB, who arranged for Dato' Sri Anwar Ibrahim to contest in Tambun. Okay, how about your partner, Dato' Sri Syamsul Iskandar?
 
-**Rafizi Ramli:** I arranged that too, I arranged that as well — that's what made him very angry at me. Because at that time he lost in Hang Tuah Jaya, and at that time he was branch chief, and his entire branch was really very anti him there. Cikgu Rafi was really very anti him there. Then he also had a record that nearly sank the party in the Melaka state election, to the point of losing a seat because of him. I was informed he aspired to become Chief Minister of Melaka. That's why he contested in Paya Rumput, even though he had nothing to do with Tangga Batu. PKR contested in Tangga Batu in 2018 and won. Within Tangga Batu there are three state seats — two of them at the time were won by PKR and Bersatu. Paya Rumput, Bersatu contested and Bersatu won — Rafiq won. Another one, Sungai Udang, I recall UMNO won. So he looked at Paya Rumput, and Rafiq had problems. So he — I was informed — was among the major forces that caused that to happen, and when he contested in Paya Rumput, he lost.
+**Rafizi:** I arranged that too, I arranged that as well — that's what made him very angry at me. Because at that time he lost in Hang Tuah Jaya, and at that time he was branch chief, and his entire branch was really very anti him there. Cikgu Rafi was really very anti him there. Then he also had a record that nearly sank the party in the Melaka state election, to the point of losing a seat because of him. I was informed he aspired to become Chief Minister of Melaka. That's why he contested in Paya Rumput, even though he had nothing to do with Tangga Batu. PKR contested in Tangga Batu in 2018 and won. Within Tangga Batu there are three state seats — two of them at the time were won by PKR and Bersatu. Paya Rumput, Bersatu contested and Bersatu won — Rafiq won. Another one, Sungai Udang, I recall UMNO won. So he looked at Paya Rumput, and Rafiq had problems. So he — I was informed — was among the major forces that caused that to happen, and when he contested in Paya Rumput, he lost.
 
 So, Melaka at that time was less than a year from GE2022. So when I was determining candidates, I told him his record in Melaka wasn't good. If he contested again in Hang Tuah Jaya, in a situation where the branch really rejected him — then add to that the wound from the state election involving his heavy hand that caused PKR to lose a seat, people still remember that. So it was better for him to go contest elsewhere and become a hero. Meaning, if he wanted to rebuild his career, go fight the big one in Bagan Datuk — even if he lost there'd be an excuse. But he nearly won, so he was proud. So that's true — indeed I was the one who informed him that it would be difficult for us to place and keep him in Melaka, in Hang Tuah Jaya. He had to be brought to Perak. And that completed part of the risk-taking strategy, because we sent senior leaders to Perak — including Datuk Seri Anwar, including Syamsul Iskandar.
 
 **Danial:** It's just that YB said earlier, after this, sending senior leaders to these rather risky areas is a bit harder, because a large portion of PKR's seats now aren't safe.
 
-**Rafizi Ramli:** In a situation, for example, where Malay votes for PH are around 30%, and those signs haven't changed. Meaning, in a series of recent by-elections and state elections, we've seen that Malay votes for PH indeed haven't exceeded 30%. The reason being, even when contesting against UMNO, when PH fights PN, UMNO voters don't vote for PH. Then add to that the issue of non-Malay voters not turning out to vote. So the turnout rate is around 40 to 50%. So if this situation persists, and there are no signs of it changing — regardless, I'm worried it will get worse than it currently is. So even if we take the status quo, meaning Malay voters not exceeding 30%, and the turnout of Chinese and Indian voters not exceeding 60% in the general election — the majority of PKR's existing 30 seats are all unsafe. The safe ones are only Pandan, Subang, Bayan Baru, Gopeng, Selayang, and JB — and even that, only if Akmal is the one contesting. If it's not Akmal, there's an issue, because people forget the sentimentality of PH voters towards Akmal.
+**Rafizi:** In a situation, for example, where Malay votes for PH are around 30%, and those signs haven't changed. Meaning, in a series of recent by-elections and state elections, we've seen that Malay votes for PH indeed haven't exceeded 30%. The reason being, even when contesting against UMNO, when PH fights PN, UMNO voters don't vote for PH. Then add to that the issue of non-Malay voters not turning out to vote. So the turnout rate is around 40 to 50%. So if this situation persists, and there are no signs of it changing — regardless, I'm worried it will get worse than it currently is. So even if we take the status quo, meaning Malay voters not exceeding 30%, and the turnout of Chinese and Indian voters not exceeding 60% in the general election — the majority of PKR's existing 30 seats are all unsafe. The safe ones are only Pandan, Subang, Bayan Baru, Gopeng, Selayang, and JB — and even that, only if Akmal is the one contesting. If it's not Akmal, there's an issue, because people forget the sentimentality of PH voters towards Akmal.
 
 Because he's the young man who defeated Tan Sri Shahrir Samad, who had never lost before. People forget that sentiment. If you've already beaten him at the branch level, done that, then you don't let him contest again, the people of JB will say, "this kid, I remember when he first wanted to fight Shahrir Samad he was still riding a bicycle. Suddenly he's won two consecutive terms with a big majority, and you want to throw him away?" It's simple for them. Same as the sentiment of Pandan voters who feel sorry for me — they'll say, "I remember this kid, when he was young he campaigned for Anwar, free Anwar, 27 years, at that time he had nothing. Suddenly when Anwar became Prime Minister, and you've become a cabinet minister, you just throw him away like that." So don't play around with this sentiment. In a situation like this, is it easy to move or place other candidates in all the winnable seats — for example my own seat in Pandan? If you put another PKR candidate in this seat, do you think it'll be easy to win? If you're not careful, the one who used to win comfortably could end up flipped.
 
 **Danial:** So if the candidate isn't well-known, they could even lose their deposit — because candidates can't be taken lightly. That's why nobody would have guessed even Tun Mahathir himself could lose his deposit — it's an unthinkable thing.
 
-**Rafizi Ramli:** That's what I said earlier about Dato' Sri Anwar Ibrahim's case — it's an unthinkable thing. Don't let our party give birth to a history where our own Prime Minister candidate falls. But this is indeed something — maybe tomorrow we'll do another podcast — many people criticize this in this live broadcast, right? But you need to look at this in the context of the future.
+**Rafizi:** That's what I said earlier about Dato' Sri Anwar Ibrahim's case — it's an unthinkable thing. Don't let our party give birth to a history where our own Prime Minister candidate falls. But this is indeed something — maybe tomorrow we'll do another podcast — many people criticize this in this live broadcast, right? But you need to look at this in the context of the future.
 
 **Danial:** Okay YB, I want to bring up one more issue before we move to another topic. It's still on the same subject, like with Dato' Sri Anwar Ibrahim earlier. I see it like this — how is it that YB, who has fought in the party for 27-28 years, then gets pushed aside like this — this is considered being pushed aside, right, like being kicked out or discarded — more or less like that.
 
-**Rafizi Ramli:** I see this will also happen to Nurul Izzah later, once Anwar is no longer in power. In fact, Izzah herself once said the same thing to me.
+**Rafizi:** I see this will also happen to Nurul Izzah later, once Anwar is no longer in power. In fact, Izzah herself once said the same thing to me.
 
 **Danial:** Oh, really?
 
-**Rafizi Ramli:** That's what she asked for help with. That's why I see this coming from far ahead. When we open the door to a culture that isn't right — meaning money, cronyism, "invisible hands" and so on — no one will be safe, and the party won't be safe either. You ask me, that's why I — I know this planning has been happening, I've known for a long time, Danial. I wasn't born yesterday, I know all these people. It's just that I gave that offer to the party.
+**Rafizi:** That's what she asked for help with. That's why I see this coming from far ahead. When we open the door to a culture that isn't right — meaning money, cronyism, "invisible hands" and so on — no one will be safe, and the party won't be safe either. You ask me, that's why I — I know this planning has been happening, I've known for a long time, Danial. I wasn't born yesterday, I know all these people. It's just that I gave that offer to the party.
 
-**Rafizi Ramli:** I don't mean I want to be overly critical. What matters is that we shouldn't let people see the entire system being manipulated to secure a political outcome. It's true that if you're at the top — president, minister, or branch chief — if you want an easy time, you want everyone to follow what you want. But if that means we have to do many things that damage the party's identity, it's not worth it. That's why I offered this to the party, to Dato' Sri Anwar: there's no need — just let people contest as usual, don't ration it. But if, for example, he feels there's insufficient chemistry with me and I don't contest, that's fine too — I genuinely don't need it. But I think throughout that whole period, his worry was: if I'm not in the cabinet, what effect would that have on the party and so on.
+**Rafizi:** I don't mean I want to be overly critical. What matters is that we shouldn't let people see the entire system being manipulated to secure a political outcome. It's true that if you're at the top — president, minister, or branch chief — if you want an easy time, you want everyone to follow what you want. But if that means we have to do many things that damage the party's identity, it's not worth it. That's why I offered this to the party, to Dato' Sri Anwar: there's no need — just let people contest as usual, don't ration it. But if, for example, he feels there's insufficient chemistry with me and I don't contest, that's fine too — I genuinely don't need it. But I think throughout that whole period, his worry was: if I'm not in the cabinet, what effect would that have on the party and so on.
 
 When Saifuddin, for example, gave his speech at the congress — some people asked whether he was acting. I think that emotion was because he knew the door had already been opened. Once the door is opened, no one is safe. And he himself was part of the group that helped pull that door open. The problem is, as Danial once said, the door has been opened. And Izzah — Izzah said the same thing — if this culture isn't restrained and blocked, it will eventually consume everyone, including herself. Once you get a taste of it, it will corrupt you. Except at that time I couldn't accept it, because Izzah can't play in two ponds like that. You cannot have your cake and eat it too — you're part and parcel of it. Like Danial said, you help open the door, then you ask me to risk my life to close it — no, I don't want to. I'd rather go do something else. The door is big and heavy; one person alone can't do it.
 
@@ -326,7 +326,7 @@ I see this — for example, if I try to look at Sarawak, it's hard, but if I pla
 
 **Danial:** YB has mentioned "regret" several times now — that's three times already.
 
-**Rafizi Ramli:** Yes, regret — because I might as well not have gone into politics in the first place. When I entered politics, I saw its dynamics — "this is YB's group, this is good, I want to join too" kind of thing. As I got deeper and deeper in, it turned out there was politics within politics. It turned out that when I wanted to go into politics to fight for the party — for example in Sarawak, GPS, they used to all be BN, during the BN era. But when I entered politics, entered the party elections, it turned out to be exactly the same. I said, "oh my God."
+**Rafizi:** Yes, regret — because I might as well not have gone into politics in the first place. When I entered politics, I saw its dynamics — "this is YB's group, this is good, I want to join too" kind of thing. As I got deeper and deeper in, it turned out there was politics within politics. It turned out that when I wanted to go into politics to fight for the party — for example in Sarawak, GPS, they used to all be BN, during the BN era. But when I entered politics, entered the party elections, it turned out to be exactly the same. I said, "oh my God."
 
 After that, I became estranged from my own friends. We used to be able to have coffee together happily, now we can't anymore. So I lost friends because of this. Even YB himself — even though we have some disagreements, people still say we're close. When we opened that "crazy" door, YB now has many enemies too. But I've had even more enemies since long before — many enemies, in front of people, behind people's backs. That's what has made me who I am. Sometimes I feel close to the edge — yes, sometimes. Yes, it's the same for YB too — because we don't depend on politics.
 
@@ -336,7 +336,7 @@ This is me — this small fry — who has become the source of fear for people a
 
 **Danial:** The party's problems now — like what was just said — is it beyond repair, or is there still a way for us to get back on track?
 
-**Rafizi Ramli:** In my view, yes, it can be fixed. But the number of people who helped open this door, and who want to come through it, is far too many compared to those who want to close it. For example, someone like me at state leadership level, and YB himself at the highest level — if it's just me alone, there should be two or three more people, otherwise there isn't enough strength to do it. Even though part of YB's own team at the top level — for example Akmal, MB9, or Roziah — all of them, it's still not enough.
+**Rafizi:** In my view, yes, it can be fixed. But the number of people who helped open this door, and who want to come through it, is far too many compared to those who want to close it. For example, someone like me at state leadership level, and YB himself at the highest level — if it's just me alone, there should be two or three more people, otherwise there isn't enough strength to do it. Even though part of YB's own team at the top level — for example Akmal, MB9, or Roziah — all of them, it's still not enough.
 
 Because this could be balanced when YB himself was deputy president. But once you're no longer deputy president — how do we fix it? We can't fix it. They're coming in now — before it wasn't 50-50 or 40-60 because of YB Rafizi, now 95 out of them can get in. It used to be 40-60, now it's 95-5. That's really what's responsible. If I may continue what Danial once said — the group of voters who support the progressive voice still exists, at least 30% at any given time. That's why if we look back at the 1960s, Parti Rakyat, Barisan Sosialis, Barisan Buruh — they still won no matter what happened, because this group will always be there.
 
@@ -350,7 +350,7 @@ So if we look at why I've succeeded there — Malaysians are thirsting for somet
 
 **Danial:** That's it. I don't want to go further into this issue. I want to move on to the Sarawak issue instead. Okay, new question. I think YB is aware of the Petros and Petronas issue — the other day YB mentioned a bit of this, but more to answer a question from a PAS person. Why do I want to bring this up again? Because many Sarawakians themselves still don't understand it. Perhaps some — including myself — as a YB who was once Economy Minister, may understand it a bit better. So how does the story go?
 
-**Rafizi Ramli:** Yes, the story is complicated, because it's intertwined with several matters. One, it's intertwined with the law. Second, it's intertwined with the desire of the people of Sarawak that the wealth from their natural resources go mostly to the people of Sarawak, which actually isn't wrong. Third, it's complicated because anything involving Petronas's finances and stability has a major impact on the country.
+**Rafizi:** Yes, the story is complicated, because it's intertwined with several matters. One, it's intertwined with the law. Second, it's intertwined with the desire of the people of Sarawak that the wealth from their natural resources go mostly to the people of Sarawak, which actually isn't wrong. Third, it's complicated because anything involving Petronas's finances and stability has a major impact on the country.
 
 So let's start with the history and the law, because if we listen to politicians on both sides, they just "stoke the fire" — they don't explain the technical complexity. Our law has the Continental Shelf Act 2012, I believe. That Act states that the state boundary is three nautical miles. What lies beyond three nautical miles is called the EEZ — Exclusive Economic Zone — which falls under federal jurisdiction. But is it used for the people's benefit? That's why it's complicated. But under the law as it stands now, that's the law. So whether in Terengganu or Kelantan, any oil field, if it's outside three nautical miles, belongs to the federation, and under the 1974 Act, the Petroleum Development Act that established Petronas, all hydrocarbon resources outside three nautical miles belong to Petronas.
 
@@ -374,15 +374,15 @@ Meaning, it's still money too, but when Petros is placed under the DGO — meani
 
 **Danial:** But I want to go further into this Sarawak issue — MA63. Because recently I heard YB say we should focus on the education issue. Okay, YB, would YB agree if a syllabus covering MA63, or how the people of Sabah and Sarawak live within Malaysia, were incorporated for school students, so we can reduce racism, reduce religious issues? I think that would be good.
 
-**Rafizi Ramli:** I can't quite remember, Danial — the last time I read a history textbook covering this syllabus was 20-30 years ago, during SPM, then I went overseas. I don't know the content of the current syllabus on MA63 and all that. I remember in history back then there was some mention of the Cobbold Commission. Cobbold or Reid, which one?
+**Rafizi:** I can't quite remember, Danial — the last time I read a history textbook covering this syllabus was 20-30 years ago, during SPM, then I went overseas. I don't know the content of the current syllabus on MA63 and all that. I remember in history back then there was some mention of the Cobbold Commission. Cobbold or Reid, which one?
 
 **Danial:** Cobbold, right?
 
-**Rafizi Ramli:** Cobbold. What was Reid for?
+**Rafizi:** Cobbold. What was Reid for?
 
 **Danial:** I'm just testing the young ones — Tanah Melayu was one, the Formation of Malaysia was another. Does YB mean Reid was for institutions?
 
-**Rafizi Ramli:** Yes, for institutions, for '57. Cobbold was for the Formation of Malaysia — you can check whether GPT has it right or not. So as far as I know, Cobbold — Cobbold Commission, right? So it was touched on a bit before, but — whether I should admit I'm getting old now, about to turn 50 — maybe when we were kids, here in Standard 3, Standard 4, the Formation of Malaysia, the Cobbold Commission and all that, at that time we didn't really "digest" it. I read all that history too, just to score in the exam — I really didn't absorb it.
+**Rafizi:** Yes, for institutions, for '57. Cobbold was for the Formation of Malaysia — you can check whether GPT has it right or not. So as far as I know, Cobbold — Cobbold Commission, right? So it was touched on a bit before, but — whether I should admit I'm getting old now, about to turn 50 — maybe when we were kids, here in Standard 3, Standard 4, the Formation of Malaysia, the Cobbold Commission and all that, at that time we didn't really "digest" it. I read all that history too, just to score in the exam — I really didn't absorb it.
 
 So, what's the word — there's a lot I understand, and I see things that create a sense of marginalization among the people of Sabah and Sarawak. I learned this myself, and understood it from friends — reading about it once I got older. What I mean is: what was in the syllabus back then — since I don't know the current syllabus — what was there before didn't teach me about Sabah, Sarawak, MA63, any of this. Because I only understood these things once I was older, when I went to Sabah, when I went to Sarawak, when I entered those areas.
 
@@ -400,7 +400,7 @@ Because village folk here — villages in the Peninsula are one thing, but villa
 
 **Danial:** Okay YB, I want to ask about "Ayuh Malaysia" which YB recently launched. Is YB interested in bringing it to Sarawak, given what YB mentioned earlier about the issue of rural areas and so on — maybe it could have an impact, or give more room for people to develop rural areas, especially in Sarawak. So how about it?
 
-**Rafizi Ramli:** I want to — it's easy for me to see it this way, Danial. What we actually want to encourage is social enterprise. Social enterprise is actually a business that anyone can start, anywhere. The most important condition is that the business must generate sustainable financing, and be run professionally.
+**Rafizi:** I want to — it's easy for me to see it this way, Danial. What we actually want to encourage is social enterprise. Social enterprise is actually a business that anyone can start, anywhere. The most important condition is that the business must generate sustainable financing, and be run professionally.
 
 So so far, over the past 2-3 days, we've started running short on manpower — not that we lack hands, we're starting to get a lot of people from all over Malaysia. I think there are people from Sabah, Sarawak too. People are coming forward, saying they want to try this, that, all of it. So we'll go through that process to make sure, because we need to go through a "business case" — for example if someone says they want to grow peanuts, we need to look at the land, we need to go through financial modelling, and whether we can match them with a partner who can inject capital and so on.
 
@@ -416,23 +416,23 @@ Except, at the Ayuh Malaysia level, we want to avoid fraud. That's why we need t
 
 **Danial:** What are you planning to do, bro — for Sarawak?
 
-**Rafizi Ramli:** Social enterprise, more or less. I don't know, let's see, because the situation in Sarawak is different. YB knows, the situation is different. Sabah is different too, far from Sarawak, even though we're on the same island.
+**Rafizi:** Social enterprise, more or less. I don't know, let's see, because the situation in Sarawak is different. YB knows, the situation is different. Sabah is different too, far from Sarawak, even though we're on the same island.
 
 **Danial:** And the challenge, for example, logistics is a major challenge in Sabah and Sarawak. Because what's the word — if we look at cost, if we plant, for example, sweet potatoes, if it's in the Peninsula, planting sweet potatoes, the price is just so-so, but we can sell it at an attractive price and there's a market because logistics costs are cheap. Because if you plant in Sarawak, at the end of the world, sweet potatoes aren't expensive, the cost is low, but to bring it out — so I think we need to go through the market one by one. But I'm sure there's a lot we can try, if it's something like this, YB.
 
-**Rafizi Ramli:** It's not that I want to promote my own area, but the Mas Gading area — I'd request it, it's nearby, the land there is good too.
+**Rafizi:** It's not that I want to promote my own area, but the Mas Gading area — I'd request it, it's nearby, the land there is good too.
 
 **Danial:** True, that's right. That's why when YB was still Economy Minister, I once asked when YB came down to Kuching, but when it involves land issues and so on, I'm reluctant to deal with that. But for example in Sarawak, Sarawak has an advantage that the Peninsula doesn't have, namely a lot of land — native customary land. Because that land is more competitive, better in Sarawak compared to the Peninsula.
 
-**Rafizi Ramli:** Good, I want to do it. I have a lot of land.
+**Rafizi:** Good, I want to do it. I have a lot of land.
 
 **Danial:** A lot of land, right?
 
-**Rafizi Ramli:** Good. I have a lot of land, but I don't know what to do with it. Actually, in the Bau area, many people have native customary land that the government really doesn't interfere with. So if, for example, there's a lot of native customary land in Sarawak — even in Negeri Sembilan there's a lot of native customary land, except native customary land in Negeri Sembilan is three hectares, four hectares, while in Sarawak it's ten hectares per plot of native customary land. So this is all something I hope for, because it involves the private sector...
+**Rafizi:** Good. I have a lot of land, but I don't know what to do with it. Actually, in the Bau area, many people have native customary land that the government really doesn't interfere with. So if, for example, there's a lot of native customary land in Sarawak — even in Negeri Sembilan there's a lot of native customary land, except native customary land in Negeri Sembilan is three hectares, four hectares, while in Sarawak it's ten hectares per plot of native customary land. So this is all something I hope for, because it involves the private sector...
 
 **Daniel:** In the Endeavor model, they say there's a partner who injects capital, a partner who contributes land, and local workers who manage the operation. This would be easier for us to start with, compared to, say, relying on a private company — oh, that's a long story — or depending on a government project, which is also a long story. In my area, for example, YB could bring this in, or work together with those who hold native customary land [tanah adat]. First, YB could help Sarawak cut costs — for instance, if we grow our own vegetables, we wouldn't need to keep importing them, and the cost of vegetables like chili would come down. There are already plenty of people wanting to grow chili in Sarawak now.
 
-**Rafizi Ramli:** It's private, and that's the issue — when it's privately controlled, the price goes up, and those who are waiting for the government to sort this out will have a hard time. If chili were really grown here in Sarawak, the price could come down to around RM1.50 a kilo, I believe.
+**Rafizi:** It's private, and that's the issue — when it's privately controlled, the price goes up, and those who are waiting for the government to sort this out will have a hard time. If chili were really grown here in Sarawak, the price could come down to around RM1.50 a kilo, I believe.
 
 We could actually achieve what we just discussed — that's what Ayuh Malaysia is about, or whatever we want to call it. We could genuinely bring the price down, even to half, and still make a healthy profit. Whether it will succeed or not, I don't know — but on paper, Daniel, that's the logic. If we remove the profit element — or rather, keep it modest and return it to the participants — then logically we can sell at a much better price. Otherwise, every kilo carries a margin that has to go back to the owner. In our case, since the "owner" is a partner rather than a boss, this becomes a form of community service — as long as I get a return comparable to what I'd get putting the money in the bank. Because if it just sits in the bank, it has no impact on the community — you'd only get 3-4% anyway. Sorry, I'm digressing here.
 
@@ -440,7 +440,7 @@ Take Sarawak, for example — where my parents are, there's FELDA, there's FELCR
 
 **Daniel:** How much?
 
-**Rafizi Ramli:** — one, two thousand ringgit. I think we can do better than that. That's what I want to link this partnership model to — there are already two or three FELCRA participants who've told me, "my land is under the FELCRA scheme, I only get two or three thousand a year. If Ayuh Malaysia can really deliver, can I leave FELCRA and join this instead?" That's why in my area, many of my kampung folk — including my own family — after hearing about this, said it's a waste of time; might as well let the land go back to forest.
+**Rafizi:** — one, two thousand ringgit. I think we can do better than that. That's what I want to link this partnership model to — there are already two or three FELCRA participants who've told me, "my land is under the FELCRA scheme, I only get two or three thousand a year. If Ayuh Malaysia can really deliver, can I leave FELCRA and join this instead?" That's why in my area, many of my kampung folk — including my own family — after hearing about this, said it's a waste of time; might as well let the land go back to forest.
 
 **Daniel:** If that's really the case, why not now, YB? I think your area would give this a very warm welcome if YB set up a large-scale chili farm there. Sarawak already has a strong market for black pepper — perhaps chili could be intercropped in between. Based on our modern agriculture experience through the IPR Intan programme, this can genuinely generate income. At the Putrajaya site, for instance, the highest earnings recorded over a 3-month cycle reached RM23,000 — meaning over RM7,000 a month. The lowest was around RM15,000 for 3 months, or roughly RM5,000 a month — and that's factoring in a partner who has to put in capital. In Sarawak, even if it's not RM5,000 a month, getting RM2,000 or even RM1,000 a month would already be considered high.
 
@@ -450,7 +450,7 @@ That's what makes Sabah and Sarawak so attractive — they have so much land. Le
 
 I have a lot of respect for YB, and I know YB himself won't like this question, but I'll ask it anyway — because of comments from people who don't like YB. They say YB is egotistical, arrogant — that all these traits come from him, that he doesn't listen to others, that he believes he's the only one who's right, the only one who knows everything.
 
-**Rafizi Ramli:** I've actually answered that before — it came up when I first became deputy president. But that's fine, since it keeps coming up.
+**Rafizi:** I've actually answered that before — it came up when I first became deputy president. But that's fine, since it keeps coming up.
 
 I think we need to separate "ego" as a personal trait from ego in the context of work.
 
@@ -472,7 +472,7 @@ So as I said earlier, Daniel, the clash within PKR is actually a clash between t
 
 **Daniel:** YB has answered that question already, in a way. I mean, politics aside — but if you worked in the corporate world, even if you were a genius, if you couldn't accept people's views, couldn't manage human differences, you simply couldn't be a boss.
 
-**Rafizi Ramli:** So I've gone through every position all the way up to becoming a minister, and then I have my own company, managing hundreds of people, all these young people — and there's really no issue at all. If it were really the way they say, I wouldn't even be able to do something like Ayuh Malaysia. The work speaks for itself. For now, that's all their attack amounts to. Like Daniel said earlier, in the end it's just an attack and a response meant to please themselves — enjoying their own company, making their own content, liking their own posts.
+**Rafizi:** So I've gone through every position all the way up to becoming a minister, and then I have my own company, managing hundreds of people, all these young people — and there's really no issue at all. If it were really the way they say, I wouldn't even be able to do something like Ayuh Malaysia. The work speaks for itself. For now, that's all their attack amounts to. Like Daniel said earlier, in the end it's just an attack and a response meant to please themselves — enjoying their own company, making their own content, liking their own posts.
 
 If that group is comfortable with that situation, fine — but as I mentioned earlier, that still won't win the hearts of the people, because the people look at leadership as a whole. So actually, if we look at it properly, that's the only "attack" there is — supposedly claiming that only their view is correct. But if you yourself have never given your view directly —
 
@@ -480,7 +480,7 @@ How do I know if your view is correct or not? In the meeting, just look at these
 
 **Daniel:** That's the one going around, right — because that day he did it in Sarawak too, didn't he?
 
-**Rafizi Ramli:** Yes, well, cameras sometimes deceive, in my opinion. We end up enjoying ourselves when we watch the video back for our own sake. But in my opinion, we haven't succeeded — there may be many cases in Sarawak, but my eyes, my mind, are always working at every party event. So when that happens, actually we're just pleasing ourselves — it's only the old faces we've failed to bring back. If that's all — the same people who want to sit close by, who want to go and kiss Dato' Seri Anwar's hand — those are the same people who'll show up, so I don't see what that means. And I noticed there were no new faces at all — only the old crowd. That's why they keep attacking with this "ego" narrative about his views. But I want to say one thing —
+**Rafizi:** Yes, well, cameras sometimes deceive, in my opinion. We end up enjoying ourselves when we watch the video back for our own sake. But in my opinion, we haven't succeeded — there may be many cases in Sarawak, but my eyes, my mind, are always working at every party event. So when that happens, actually we're just pleasing ourselves — it's only the old faces we've failed to bring back. If that's all — the same people who want to sit close by, who want to go and kiss Dato' Seri Anwar's hand — those are the same people who'll show up, so I don't see what that means. And I noticed there were no new faces at all — only the old crowd. That's why they keep attacking with this "ego" narrative about his views. But I want to say one thing —
 
 If I were the type who couldn't work with people, or couldn't accept other people's views, how on earth could I have managed organisations since I was young, since my corporate days? That's what I want to convey — even setting politics aside, if we work in the corporate world, if we're the type who can't accept other people's views, can't manage differences among people, we would never be able to become a boss.
 
@@ -488,10 +488,10 @@ So I've gone through every position all the way up to becoming a minister, and t
 
 **Daniel:** Alright, we've been talking for two hours now. I was thinking we shouldn't go too long, otherwise this conversation will never end. Okay, let's wrap up — I'll be heading to Mas Gading next. But it's true, there have long been many such requests — what can be done for the people in the interior of Sabah and Sarawak, since they have such vast land.
 
-**Rafizi Ramli:** In Sabah, we already have three or four IPR sites, and I myself genuinely feel confident that the people of Sabah and Sarawak are actually tougher for this kind of work — they're not lazy when it comes to doing it. Second, in terms of wage costs too, they can consider it, even though it's not the same — for example, if it's RM50 a day there, it's RM100 here. They can factor that in. So in terms of cost too, it's worthwhile.
+**Rafizi:** In Sabah, we already have three or four IPR sites, and I myself genuinely feel confident that the people of Sabah and Sarawak are actually tougher for this kind of work — they're not lazy when it comes to doing it. Second, in terms of wage costs too, they can consider it, even though it's not the same — for example, if it's RM50 a day there, it's RM100 here. They can factor that in. So in terms of cost too, it's worthwhile.
 
 **Daniel:** Yes, yes, yes. God willing, we'll meet at Mas Gading. Thank you very much, Saudara Daniel — we'll be flying far from Mas Gading, we'll meet again in Sarawak, right. Sarawak, Mas Gading — later people will ask, "Where is Mas Gading?" — Nyikit Belon [a little further]. Alright, that's it — two productive hours. We'll meet again next week with a deeper discussion on the 13th Malaysia Plan. That's all for now, good night.
 
 **Daniel:** We're going to sleep now.
 
-**Rafizi Ramli:** I can see that.
+**Rafizi:** I can see that.

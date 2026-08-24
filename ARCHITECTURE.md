@@ -586,3 +586,34 @@ model line in `QA_CHECKLIST.md` until reprocessed.
   local or cloud.
 - Gemini's free-tier quota is unreliable for raw transcription on episodes longer
   than roughly an hour in a single call -- use `--engine local` for those.
+
+## Speaker naming convention
+
+The 4 recurring cast members use short (first) names throughout, everywhere except
+`channel:`/`title:` frontmatter fields (real YouTube facts, never altered): `Rafizi`,
+`Haziq`, `Farhan (Pa'an)`, `Iqbal`. Every other speaker (guests, one-off panelists)
+keeps their full name. Applied archive-wide 2026-08-24 across `raw.md` and all three
+`interview*.md` files, including the `hosts:`/`summary:` metadata fields (which are
+our own generated content, unlike `channel:`/`title:`).
+
+**Two label-vs-real-person mismatches found and fixed before running this rename,
+both confirmed by direct audio listening, not guessed from text alone**:
+- ep30's raw `"Farhan"` label is a genuine third recurring panelist, not a
+  mislabeled Haziq (an earlier session's working theory, based on a since-corrected
+  Gemini redo that had wiped a prior manual correction) -- confirmed by his own
+  words in the transcript ("memang like Haziq mentioned just now", explicitly
+  distinguishing himself from Haziq) plus consistent panelist-level participation
+  across the full 2.5-hour episode, not one-off guest content.
+- ep39's raw `"Farhan Iqbal"` label (217 turns) was actually Haziq's voice --
+  an isolated per-run Gemini diarization slip specific to this one episode, not
+  a pattern affecting the other 10 episodes where `"Farhan Iqbal"` legitimately
+  appears. Fixed to `"Haziq Azfar"` (later shortened to `Haziq` by the archive
+  rename) before running the rename, so it wasn't caught in the blanket
+  substitution. The real `"Iqbal"` in ep39 (85 turns) is a separate, correctly
+  labeled recurring guest, confirmed distinct from Haziq by ear.
+
+This confirms the standing risk noted elsewhere in this doc: per-run label
+inconsistency in Gemini's diarization is real and episode-specific, not just a
+theoretical concern -- don't assume a mislabel found in one episode generalizes to
+every other episode using the same label, and don't assume a same-named label
+found correct in one episode generalizes either. Each case needs its own check.

@@ -8,7 +8,7 @@ duration_seconds: 7644
 duration: 2h 7m
 view_count: 50324
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Daniel Jani
 topics:
@@ -55,19 +55,19 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Rafizi Ramli:** Assalamualaikum dan salam sejahtera. Selamat kembali ke *Podcast Yang Berhenti Jadi Menteri*, episod yang ke-7.
+**Rafizi:** Assalamualaikum dan salam sejahtera. Selamat kembali ke *Podcast Yang Berhenti Jadi Menteri*, episod yang ke-7.
 
 **Daniel Jani:** Ke-6 ke ke-7?
 
-**Rafizi Ramli:** Ke-7. Tapi sebelum kita mula, saya nak tanya terus satu soalan kat Daniel — datang ke podcast ni, tak takut kena "gam" ke?
+**Rafizi:** Ke-7. Tapi sebelum kita mula, saya nak tanya terus satu soalan kat Daniel — datang ke podcast ni, tak takut kena "gam" ke?
 
-**Rafizi Ramli:** Sebenarnya Daniel ni memang seorang yang boleh jadi pemimpin — dia ketua cabang, cabang Mas Gading. Selain itu, dia juga seorang influencer. Dia cerita kat saya tadi, pihak YouTube sendiri bagitahu yang dia adalah salah seorang daripada top 10 political influencer di Malaysia. Dan dia dapat "silver button" — butang perak YouTube tu.
+**Rafizi:** Sebenarnya Daniel ni memang seorang yang boleh jadi pemimpin — dia ketua cabang, cabang Mas Gading. Selain itu, dia juga seorang influencer. Dia cerita kat saya tadi, pihak YouTube sendiri bagitahu yang dia adalah salah seorang daripada top 10 political influencer di Malaysia. Dan dia dapat "silver button" — butang perak YouTube tu.
 
 **Daniel Jani:** Ya, silver button. Dari segi YouTube tu, ada dua tiga kali depa buat video call dengan saya. Mula-mula bila depa call, saya ingat scam — saya tak layan dulu dalam dua tiga bulan. Lepas tu saya check email, dan memang betul, dari YouTube Malaysia. Depa cari masa untuk buat video call, nak "teach" berkaitan channel saya. Saya tanya kenapa saya yang dipilih — rupanya pada masa tu ada 10 orang YouTuber Malaysia yang dikategorikan sebagai political YouTuber.
 
 Saya sendiri terkejut sebab saya rasa saya bukanlah orangnya — ramai lagi YouTuber politik yang lain yang sepatutnya lebih layak.
 
-**Rafizi Ramli:** Ada dalam senarai yang YouTube pilih tu orang JCOM? Iswadi mungkin?
+**Rafizi:** Ada dalam senarai yang YouTube pilih tu orang JCOM? Iswadi mungkin?
 
 **Daniel Jani:** Oh, Iswadi bukan JCOM. Tak ada Iswadi dalam senarai tu. Kebanyakannya orang Sarawak.
 
@@ -79,41 +79,41 @@ Itu yang saya nampak. Dan kalau saya nak cakap lebih pasal JCOM ni nanti, orang 
 
 Saya tak kata saya dah pandai sangat, tapi mungkin kita boleh cuba. Sebab tu kita agak lemah di situ.
 
-**Rafizi Ramli:** Mungkin dia tahu, tapi dia tak nak ajar. Confirm dia tahu.
+**Rafizi:** Mungkin dia tahu, tapi dia tak nak ajar. Confirm dia tahu.
 
 **Daniel Jani:** Dan ianya monetized juga kan?
 
-**Rafizi Ramli:** Punya saya, ya, lebih 100 [ribu subscriber], tapi tak monetize lagi.
+**Rafizi:** Punya saya, ya, lebih 100 [ribu subscriber], tapi tak monetize lagi.
 
 **Daniel Jani:** Jadi satu-satunya orang yang tak monetize ni adalah saudara Rafizi. Walaupun dah banyak, tapi tak monetize.
 
-**Rafizi Ramli:** Betul lah, sebab ni aku kena monetize, rugi lah. Belum lagi eh, saya nanti — tak apa, lepas ni kena belajar dengan Daniel.
+**Rafizi:** Betul lah, sebab ni aku kena monetize, rugi lah. Belum lagi eh, saya nanti — tak apa, lepas ni kena belajar dengan Daniel.
 
 **Daniel Jani:** Lepas ni nanti kita tengok kenapa jadi macam tu. Syarat YouTube untuk monetize sekarang senang je — seribu subscriber, empat ribu jam tayangan. Saya ingat hari pertama YB buat video terus boleh monetize, sebab dengan sepuluh ribu viewer setiap video pun dah cukup empat ribu jam tayangan tu.
 
-**Rafizi Ramli:** Macam mana boleh jadi macam tu? Saya sendiri terkejut. Untung ke tak daripada ni pun saya tak fikir. Baru terfikir kenapa YouTube saya tak boleh monetize.
+**Rafizi:** Macam mana boleh jadi macam tu? Saya sendiri terkejut. Untung ke tak daripada ni pun saya tak fikir. Baru terfikir kenapa YouTube saya tak boleh monetize.
 
 Jadi kepada yang menonton di luar sana, lepas ni mungkin ada sedikit iklan diselitkan. Dan selain podcast ni, mulai minggu depan, kita akan ada kandungan berbentuk dokumentari dan siaran seakan-akan TV secara langsung, yang akan disiarkan di YouTube saya dan juga YouTube Ayuh Malaysia. Jadi kena minta subscribe kat kedua-dua channel, dan tolong tonton, sebab bila kita monetize nanti, duit tu bukan datang kepada saya — ia akan digunakan sebagai sebahagian daripada dana untuk membantu golongan bawahan yang cuba mengusahakan perusahaan sosial.
 
 **Daniel Jani:** Tadi YB cerita pasal monetize ni sebab saya tak fikir macam mana nak explain sebenarnya. Saya ingatkan memang dah monetize. Saya pun jahat sikit sebab saya tonton banyak kat Facebook YB, jadi tak pergi ke YouTube, tak perasan pun benda tu.
 
-**Rafizi Ramli:** Facebook pun ada monetize?
+**Rafizi:** Facebook pun ada monetize?
 
 **Daniel Jani:** Ada juga.
 
-**Rafizi Ramli:** Okay, okay. Ni duit banyak ni. Duit besar. Kena check balik nanti. Kalau kita tengok pula, untuk TikTok — video pendek untuk iklan, kan?
+**Rafizi:** Okay, okay. Ni duit banyak ni. Duit besar. Kena check balik nanti. Kalau kita tengok pula, untuk TikTok — video pendek untuk iklan, kan?
 
 **Daniel Jani:** Betul, jadi kita tengok bahagian-bahagian yang kita cut untuk iklan tu — kalau tak puas hati, kena pergi cari channel dia. Jadi video pendek ni memang untuk TikTok, untuk iklan.
 
-**Rafizi Ramli:** Okay. Baik saudara Daniel Jani, pempengaruh yang cukup hebat lah. Saya nampak banyak soalan, tapi sikit sahaja nak tanya hari ni. Janganlah tanya aku je, tanya Daniel.
+**Rafizi:** Okay. Baik saudara Daniel Jani, pempengaruh yang cukup hebat lah. Saya nampak banyak soalan, tapi sikit sahaja nak tanya hari ni. Janganlah tanya aku je, tanya Daniel.
 
 **Daniel Jani:** Haa, boleh. Tapi dia kena start dulu.
 
-**Rafizi Ramli:** Okay, sebab minggu lepas Zahim datang — budak tu memang nak "bakar" betul-betul, jadi dia lagi banyak soalan. Aku pun dah bosan dengan aku bercakap. Daniel datang jauh-jauh dari Sarawak, sepatutnya kita sama-sama tanya dia.
+**Rafizi:** Okay, sebab minggu lepas Zahim datang — budak tu memang nak "bakar" betul-betul, jadi dia lagi banyak soalan. Aku pun dah bosan dengan aku bercakap. Daniel datang jauh-jauh dari Sarawak, sepatutnya kita sama-sama tanya dia.
 
 **Daniel Jani:** Takut ni. Saya tak bawa apa-apa. Terubuk pun tak bawa.
 
-**Rafizi Ramli:** Tak apa, silalah. Tapi sebelum tu, kena make it clear dulu bahawa penerangan panjang dan perbincangan khas berkaitan Rancangan Malaysia Ke-13 akan kita adakan minggu depan. Kita akan jemput seorang guest panelis yang sangat berkaliber — boleh sebut terus lah, RMK13 ni perlukan satu sesi podcast yang khusus, dan sebaiknya bukan orang politik, seorang ahli ekonomi. Saya dimaklumkan Dr. Mohd Khalid akan menumpu mengupas RMK13. Jadi biar ahli parlimen bising dulu, buat kartun monyet dan sebagainya — insyaAllah minggu depan. Dalam minggu itu juga, kita beri peluang kepada ahli panel saya sendiri untuk tengok reaksi, kemudian kita ulas dan simpulkan mengenai RMK13.
+**Rafizi:** Tak apa, silalah. Tapi sebelum tu, kena make it clear dulu bahawa penerangan panjang dan perbincangan khas berkaitan Rancangan Malaysia Ke-13 akan kita adakan minggu depan. Kita akan jemput seorang guest panelis yang sangat berkaliber — boleh sebut terus lah, RMK13 ni perlukan satu sesi podcast yang khusus, dan sebaiknya bukan orang politik, seorang ahli ekonomi. Saya dimaklumkan Dr. Mohd Khalid akan menumpu mengupas RMK13. Jadi biar ahli parlimen bising dulu, buat kartun monyet dan sebagainya — insyaAllah minggu depan. Dalam minggu itu juga, kita beri peluang kepada ahli panel saya sendiri untuk tengok reaksi, kemudian kita ulas dan simpulkan mengenai RMK13.
 
 Jadi Daniel hari ini boleh tumpu kepada benda-benda panas lain, selain daripada RMK13.
 
@@ -121,7 +121,7 @@ Jadi Daniel hari ini boleh tumpu kepada benda-benda panas lain, selain daripada 
 
 Kenapa YB — walaupun dah letak jawatan sebagai menteri, dan masih ahli parlimen untuk Parti Keadilan, dan masih ketua cabang Pandan — kenapa bila YB sebut isu Farhash, ramai yang melompat, "terlolong" macam monyet, macam kera kena belacan? Sedangkan Farhash pada saya mungkin masih ahli PKR, tetapi bukan kepimpinan di pusat, bukan MPP, bukan ketua cabang, dan bukan di peringkat negeri. Kenapa orang-orang ini melompat?
 
-**Rafizi Ramli:** Saya tak tahu kenapa mereka melompat, tetapi bagi kita yang di dalam PKR, kita tahu bahawa sebahagian besar daripada kepimpinan PKR, daripada akar umbi sampai ke peringkat MPP yang baru menang ini, adalah budak-budak Farhash. Jadi walak mereka kepada Farhash ini sama tinggi dengan walak mereka kepada Datuk Seri Anwar.
+**Rafizi:** Saya tak tahu kenapa mereka melompat, tetapi bagi kita yang di dalam PKR, kita tahu bahawa sebahagian besar daripada kepimpinan PKR, daripada akar umbi sampai ke peringkat MPP yang baru menang ini, adalah budak-budak Farhash. Jadi walak mereka kepada Farhash ini sama tinggi dengan walak mereka kepada Datuk Seri Anwar.
 
 Hanya segelintir sahaja pimpinan kanan PKR yang sedar akan perkara ini. Dalam parti ini, macam saya dengan Daniel — kami "kaki lawan". Jadi kalau ada perkara yang kami rasa bukan sesuatu yang membawa kebaikan kepada parti, kita kena bersuara. Tapi yang lain, mereka rasa asalkan lepas tengkuk sendiri, tak apa.
 
@@ -133,7 +133,7 @@ Kalau nak kena saman, sama-sama kena saman lah — sebab Farhash ni selalunya bi
 
 **Daniel Jani:** Kita pun tahu keadaan umur Datuk Seri Anwar Ibrahim sekarang. Kalau kita ada rezeki, mungkin satu penggal lagi dia jadi Perdana Menteri, dan lepas itu mungkin tak lagi. Adakah watak-watak macam ini nanti akan menggantikan Datuk Seri Anwar Ibrahim — jadi presiden, naib presiden, atau timbalan?
 
-**Rafizi Ramli:** Pada saya, adakah ia akan jadi begitu — itu bahagian yang...
+**Rafizi:** Pada saya, adakah ia akan jadi begitu — itu bahagian yang...
 
 **Daniel Jani:** Yang lain yang saya nampak di sini — parti nak kuat, seperti mana YB selalu cakap, saya nampak satu je: mana-mana parti — kita PKR ni, kalau UMNO ke, PAS ke, kalau tak kuat di cabang, kita tak mampu melahirkan ahli parlimen, tak mampu melahirkan ADUN. Jadi apa gunanya semua orang sibuk berebut jawatan di atas kalau di bawah tak ada satu pun ahli parlimen yang menang, macam parti Gerakan atau parti-parti lain?
 
@@ -141,7 +141,7 @@ Itu yang saya risaukan. Budaya yang YB Rafizi selalu sebut ini, kalau kita tengo
 
 Jadi kebanyakan cabang ni sebenarnya tak ada fungsi kerusi. Kita sendiri tahu kita sekarang tak strong — cuma ada 30 ahli parlimen, 37 ADUN. Sikit sangat kalau kita tengok. Tapi di luar sana ramai yang mungkin baru, mungkin lama, tak pernah nampak benda ini — bahawa kita sebenarnya masih ngeri-ngeri macam tu. Apa pandangan YB — betul ke tak pandangan saya ni?
 
-**Rafizi Ramli:** Setiap parti yang ada di negara kita ada kelemahan dan kekuatan masing-masing. Kalau kita lihat parti yang lebih lama daripada PKR, contohnya UMNO dan PAS — kekuatan mereka ialah kerana mereka telah wujud lama dan pernah jadi kerajaan, dengan kumpulan penyokong yang kuat.
+**Rafizi:** Setiap parti yang ada di negara kita ada kelemahan dan kekuatan masing-masing. Kalau kita lihat parti yang lebih lama daripada PKR, contohnya UMNO dan PAS — kekuatan mereka ialah kerana mereka telah wujud lama dan pernah jadi kerajaan, dengan kumpulan penyokong yang kuat.
 
 Tapi kekuatan akar umbi yang selalu dijaja PAS — setiap kali kita berunding kerusi, mereka akan menghina PKR, "kau ada apa, kita kuat begini-begini." Tapi kalau kita tengok sebelum PAS bersama-sama PKR dan DAP dalam gabungan yang membawa kepada kemenangan bersejarah tahun 2008, PAS tak pernah dapat kerusi lebih daripada 11 — hanya sekitar 3-4 kerusi. Walaupun begitu, kekuatan akar umbi mereka tak boleh dinafikan — kalau nak turunkan 100,000 orang, mereka boleh turunkan 100,000. Itu kekuatan mereka, tapi kelemahan mereka itulah yang menjadi kekuatan kepada PKR.
 
@@ -155,11 +155,11 @@ Jadi dalam keadaan macam Daniel kata, kita sebenarnya ada jurang besar untuk kit
 
 **Daniel Jani:** Itu jugalah yang saya lihat, YB. Sebab itu saya banyak mengkritik isu ini. Bila nak masuk pemilihan parti yang lepas, ada satu perkataan yang YB sendiri sebut —
 
-**Rafizi Ramli:** Saya dah cakap dah.
+**Rafizi:** Saya dah cakap dah.
 
 **Daniel Jani:** YB Rafizi dah sebut benda ni, dan saya sendiri lihat, cuma macam mana nak cakap — mudahnya, kerja kita sepatutnya sustainable, bukan sekadar bertahan sahaja, defensive. Tapi apa yang berlaku, saya ini salah seorang yang biasanya create isu. Tapi saya tengok TikToker yang menyerang YB Rafizi pun, geng-geng yang orang kenal itulah — kerja mereka hanya defend. Mereka tak tahu isu apa nak dibawa. Jadi benda ni, kalau kita lihat selepas pemilihan parti, sampai sekarang, itulah je kerja mereka — tunggu berita hangat, ulas. Kalau tak ada berita hangat tentang politik, tak ada ulasan.
 
-**Rafizi Ramli:** Daniel, saya nak tambah sedikit sebab dia soal offensive dan defensive ni — nak berkongsi sedikit ilmu politik kepada yang muda-muda.
+**Rafizi:** Daniel, saya nak tambah sedikit sebab dia soal offensive dan defensive ni — nak berkongsi sedikit ilmu politik kepada yang muda-muda.
 
 Sebenarnya kita nampak fenomena akhir-akhir ini — kemunculan TikToker, kemunculan apa yang orang panggil di media sosial "chaploss". Mereka menyangka hanya dengan buat TikTok, mereka dah ada kesan besar kerana like dan view mereka tinggi sikit.
 
@@ -179,11 +179,11 @@ Kedua-dua ini saya tak nampak sedang diasah oleh mana-mana pimpinan PKR sekarang
 
 Jadi benda ini, parti kita tak ada usaha macam ini yang kita nak buat. Kita tak asah pisau baik-baik sekarang. Tunggu sampai habis baru sedar. Sama juga — sebenarnya saya nampak lama YB, cuma saya tak...
 
-**Rafizi Ramli:** Orang kata saya tak tikam dulu, saya cuma hiris.
+**Rafizi:** Orang kata saya tak tikam dulu, saya cuma hiris.
 
 **Daniel Jani:** Kadang-kadang ada juga yang tembus terus, tak sekadar hiris.
 
-**Rafizi Ramli:** Saya tembus-tembus juga, tapi kat jari-jari dulu — apa yang saya buat sekarang. Macam di Sarawak, PKR Sarawak kalau nak menang memang kena — saya masuk Sarawak lah — memang begitu dengan GPS. Kalau setakat yang ada sekarang, hiris-hiris je, sebab tu kita tak boleh nampak kenapa mana-mana YB kita dulu boleh menang, sedangkan ramai yang melompat pula — Ali Biju, Baru Bian, Willy Mongin.
+**Rafizi:** Saya tembus-tembus juga, tapi kat jari-jari dulu — apa yang saya buat sekarang. Macam di Sarawak, PKR Sarawak kalau nak menang memang kena — saya masuk Sarawak lah — memang begitu dengan GPS. Kalau setakat yang ada sekarang, hiris-hiris je, sebab tu kita tak boleh nampak kenapa mana-mana YB kita dulu boleh menang, sedangkan ramai yang melompat pula — Ali Biju, Baru Bian, Willy Mongin.
 
 **Daniel Jani:** Willy Mongin menang sebab dia lantang, dan isu 1MDB. Ali Biju sama — saya rasa memang ada kekuatan sendiri, dia betul-betul kuat di kawasan itu. Tapi macam Baru Bian — Baru Bian menang atas isu tanah, itu memang kekuatan dia sendiri.
 
@@ -191,7 +191,7 @@ Saya selalu begini — walaupun saya sendiri dibenci di Sarawak, sama macam YB R
 
 Jadi saya nampak benda tu sebab kita sayang parti — itu sebabnya kita tegur. Kalau kita tak sayang, kita tak tegur. Ramai yang tengok dan tak faham apa yang dibising-bisingkan pasal PKR ni — pemilihan pun dah habis, semua orang dah move on.
 
-**Rafizi Ramli:** Sebab selepas pemilihan, selepas semua yang berlaku, sebenarnya ia mengubah keseluruhan intipati parti. Parti itu sendiri telah berubah. Jadi semua taktik dan strategi yang dahulu memenangkan parti ini, sekarang perkara itu telah dilunturkan kerana ia ditukar dengan satu mantra baru — iaitu "kita berkuasa sekarang".
+**Rafizi:** Sebab selepas pemilihan, selepas semua yang berlaku, sebenarnya ia mengubah keseluruhan intipati parti. Parti itu sendiri telah berubah. Jadi semua taktik dan strategi yang dahulu memenangkan parti ini, sekarang perkara itu telah dilunturkan kerana ia ditukar dengan satu mantra baru — iaitu "kita berkuasa sekarang".
 
 Jadi bila kita telah tinggalkan kekuatan sebagai pembangkang, dan bila kita jadi kerajaan, kita hanya bernampak dan berstrategi berdasarkan kuasa — itu sangat berbahaya, kerana satu, kuasa ini memabukkan. Dan kalau kita hanya bergantung kepada kuasa untuk menang, akan ada banyak risiko — penipuan, rasuah, dan melakukan perkara yang sama seperti yang dahulu membuatkan rakyat marah.
 
@@ -203,29 +203,29 @@ Itulah sebabnya orang-orang macam saya dan Daniel, yang sudah tua-tua ni, selalu
 
 **Daniel Jani:** Baik YB, YB cakap soal politik pragmatik tadi maksudnya.
 
-**Rafizi Ramli:** Eh, tak — itu bukan pragmatik. Politik pragmatik ni "terbuat atap" — ni kena pergi kelas lah.
+**Rafizi:** Eh, tak — itu bukan pragmatik. Politik pragmatik ni "terbuat atap" — ni kena pergi kelas lah.
 
 **Daniel Jani:** Bukan-bukan, termasuk saya. Maksudnya, ada orang yang bagi alasan — penyokong-penyokong amalan ini bagi alasan, termasuklah yang saya nak kaitkan dengan soalan pertama tadi. Sebagai contoh, mereka kata perlu ada Farhash, sebab kalau tak, siapa nak menggantikan peranan itu — "kroni-kroni Tommy adik"? Itulah alasan yang diberikan.
 
 Kedua, soal pembentukan kerajaan — Saudara Rafizi sendiri yang menentang kerajaan besar, akhirnya selepas tergantungnya parlimen pun endorse kerajaan perpaduan. Jadi bagaimana? Saya tanya saudara — ada dua soalan. Soalan pertama tu, keperluan ada kroni — maksudnya, adakah itu hujah atau justifikasi kepada amalan-amalan ini, YB?
 
-**Rafizi Ramli:** Saya tak nampak benda tu berkait dengan soalan yang kamu cakap tu, sebab — bukan, bukan, saya tak nampak soalan itu berkait macam itu. Sebab Farhash ni, mungkin — saya "backup" Farhash lah dalam hal ini.
+**Rafizi:** Saya tak nampak benda tu berkait dengan soalan yang kamu cakap tu, sebab — bukan, bukan, saya tak nampak soalan itu berkait macam itu. Sebab Farhash ni, mungkin — saya "backup" Farhash lah dalam hal ini.
 
 **Daniel Jani:** Ya, ya, okay, okay. Sebab saya walaupun lantang, kita tak boleh menuduh orang.
 
-**Rafizi Ramli:** YB Rafizi Ramli sendiri pun tahu benda ini. Saya sendiri pun tahu, cuma kami tak nak orang kata kami menuduh. Cuma kalau kita nak cerita pasal Farhash ini dalam konteks soalan yang kamu tanya tadi, saya nampak ia tak begitu.
+**Rafizi:** YB Rafizi sendiri pun tahu benda ini. Saya sendiri pun tahu, cuma kami tak nak orang kata kami menuduh. Cuma kalau kita nak cerita pasal Farhash ini dalam konteks soalan yang kamu tanya tadi, saya nampak ia tak begitu.
 
 **Daniel Jani:** YB tak setuju dengan pandangan saya dalam soalan itu?
 
-**Rafizi Ramli:** Tak begitu — dalam erti kata dulu ada istilah "kroni". Saya tak nampak benda itu di sini. Saya nampak ini berbeza.
+**Rafizi:** Tak begitu — dalam erti kata dulu ada istilah "kroni". Saya tak nampak benda itu di sini. Saya nampak ini berbeza.
 
 **Daniel Jani:** Tapi bukan itu maksud saya. Adakah YB setuju dengan pandangan saya?
 
-**Rafizi Ramli:** Saya cuma direct sahaja.
+**Rafizi:** Saya cuma direct sahaja.
 
 **Daniel Jani:** Silakan, silakan. YB direct.
 
-**Rafizi Ramli:** Begini — kalau kita lihat selama 20 tahun, kalau Datuk Seri Anwar daripada 20 September 1998, di depan ratusan ribu rakyat — masa itu saya berumur 21, 22 tahun — adakah kita faham ketika itu? Tak faham. Laungannya, kenapa kita perlu ubah sistem dan kita perlu lawan, dan kenapa perlunya reformasi, ialah kerana sistem negara telah bertunjangkan amalan KKN — korupsi, kronisme, nepotisme.
+**Rafizi:** Begini — kalau kita lihat selama 20 tahun, kalau Datuk Seri Anwar daripada 20 September 1998, di depan ratusan ribu rakyat — masa itu saya berumur 21, 22 tahun — adakah kita faham ketika itu? Tak faham. Laungannya, kenapa kita perlu ubah sistem dan kita perlu lawan, dan kenapa perlunya reformasi, ialah kerana sistem negara telah bertunjangkan amalan KKN — korupsi, kronisme, nepotisme.
 
 Jadi selama lebih 20 tahun, itulah kempen yang kita ulang. Dan dalam pandangan rakyat, rakyat rasa bila kerajaan bertukar, ada Perdana Menteri baru, ada kerajaan parti baru, mesti ada geng baru yang mendapat laba.
 
@@ -261,7 +261,7 @@ Dalam isu ini, saya nampak satu dua perkara. Pertama, kita pergi ke pilihan raya
 
 Kalah dalam pilihan raya adalah isu yang mungkin di luar jangkaan bagi mereka dan mungkin rakyat Malaysia. Jangan sampai orang kata calon Perdana Menteri pun kalah — ini boleh berlaku, jangan fikir saya bergurau atau parti gelakkan saya. Dan Izzah sendiri, kalau kalah lagi, macam mana?
 
-**Rafizi Ramli:** Itu yang — saya pernah sebut kepada Datuk Seri Anwar, berada di Putrajaya dalam kerajaan ini ada baik buruknya, Daniel. Baiknya, sudah tentu kuasa kita dikelilingi oleh semua pegawai kerajaan. Dan pegawai kerajaan ini tak pernah cakap benda yang tak baik. Kalau tanya, "aku tak sikat rambut, rambut makin botak ke?" Dia akan kata, "YB sangat handsome." Macam itulah — takkan dia nak kata YB tak handsome? Itu memang budaya. Jadi saya beritahu Datuk Seri Anwar —
+**Rafizi:** Itu yang — saya pernah sebut kepada Datuk Seri Anwar, berada di Putrajaya dalam kerajaan ini ada baik buruknya, Daniel. Baiknya, sudah tentu kuasa kita dikelilingi oleh semua pegawai kerajaan. Dan pegawai kerajaan ini tak pernah cakap benda yang tak baik. Kalau tanya, "aku tak sikat rambut, rambut makin botak ke?" Dia akan kata, "YB sangat handsome." Macam itulah — takkan dia nak kata YB tak handsome? Itu memang budaya. Jadi saya beritahu Datuk Seri Anwar —
 
 Saya boleh bagi satu contoh, Daniel. Ini masa pilihan raya kecil Sungai Bakap. Ketika itu saya ahli parti Raya. Ada mesyuarat dengan Datuk Seri Anwar, kemudian Izzah, yang mewakili sebelah Pulau Pinang sebagai MPN. Kemudian Fadlina sebagai ahli parlimen kawasan itu. Kemudian Ketua Menteri, Dr. Mohd, hadir di satu meja. Datuk Seri Anwar duduk di hadapan meja, di kerusi, apa yang orang kata "kepala meja". Sebelah kanan mereka, sebelah kiri saya dengan Nik.
 
@@ -295,27 +295,27 @@ Jadi dalam keadaan sokongan sekarang, saya boleh beritahu bahawa pandangan saya,
 
 **Danial:** Good luck to the election leaders who will come to determine this candidate, because public perception will be quite sensitive as a result of the mistakes that happened during the last election — it has a big impact on the outcome. I want to talk a little about YB, who arranged for Dato' Sri Anwar Ibrahim to contest in Tambun. Okay, how about your partner, Dato' Sri Syamsul Iskandar?
 
-**Rafizi Ramli:** Saya yang atur, saya yang atur juga — itu yang menyebabkan dia sangat marah kat saya. Sebab pada ketika itu dia kalah di Hang Tuah Jaya, dan pada masa itu dia ketua cabang, dan keseluruhan cabangnya memang sangat anti dia kat situ. Cikgu Rafi memang sangat anti dia kat situ. Kemudian dia juga ada rekod yang hampir menenggelamkan parti dalam pilihan raya negeri Melaka, sampai hilang kerusi sebab dia. Saya dimaklumkan dia bercita-cita nak jadi Ketua Menteri Melaka. Jadi sebab itu dia bertanding di Paya Rumput, sedangkan dia tak ada kena-mengena dengan Tangga Batu. PKR bertanding di Tangga Batu pada 2018 dan menang. Dalam Tangga Batu ada tiga DUN — dua daripadanya masa itu PKR dengan Bersatu menang. Paya Rumput, Bersatu bertanding dan Bersatu menang — Rafiq menang. Satu lagi, Sungai Udang, saya ingat UMNO yang menang. Jadi dia tengok Paya Rumput, dan Rafiq ada masalah. Jadi dia — saya dimaklumkan — antara tenaga besar yang menyebabkan itu berlaku, dan bila dia bertanding di Paya Rumput, dia kalah.
+**Rafizi:** Saya yang atur, saya yang atur juga — itu yang menyebabkan dia sangat marah kat saya. Sebab pada ketika itu dia kalah di Hang Tuah Jaya, dan pada masa itu dia ketua cabang, dan keseluruhan cabangnya memang sangat anti dia kat situ. Cikgu Rafi memang sangat anti dia kat situ. Kemudian dia juga ada rekod yang hampir menenggelamkan parti dalam pilihan raya negeri Melaka, sampai hilang kerusi sebab dia. Saya dimaklumkan dia bercita-cita nak jadi Ketua Menteri Melaka. Jadi sebab itu dia bertanding di Paya Rumput, sedangkan dia tak ada kena-mengena dengan Tangga Batu. PKR bertanding di Tangga Batu pada 2018 dan menang. Dalam Tangga Batu ada tiga DUN — dua daripadanya masa itu PKR dengan Bersatu menang. Paya Rumput, Bersatu bertanding dan Bersatu menang — Rafiq menang. Satu lagi, Sungai Udang, saya ingat UMNO yang menang. Jadi dia tengok Paya Rumput, dan Rafiq ada masalah. Jadi dia — saya dimaklumkan — antara tenaga besar yang menyebabkan itu berlaku, dan bila dia bertanding di Paya Rumput, dia kalah.
 
 So, Melaka waktu itu kurang setahun dari PRU 2022. So bila saya menetapkan calon, saya beritahu dia rekodnya di Melaka tak bagus. Kalau dia bertanding semula di Hang Tuah Jaya, dalam keadaan cabang memang menolak dia — kemudian ditambah dengan luka daripada PRN yang melibatkan tangan besarnya sehingga PKR hilang kerusi, orang masih ingat lagi. Jadi lebih baik dia pergi bertanding dan jadi hero. Maksudnya, kalau nak membina balik kerjaya, pergi lawan yang besar di Bagan Datuk — kalau kalah pun ada alasan. Tapi dia hampir-hampir menang, jadi dia bangga. Jadi itu memang betul — memang saya yang maklumkan bahawa susah untuk kita letak dan kekalkan dia di Melaka, di Hang Tuah Jaya. Kena bawa dia ke Perak. Dan itu melengkapkan sebahagian daripada strategi mengambil risiko, kerana kita hantar pimpinan kanan ke Perak — termasuklah Datuk Seri Anwar, termasuklah Syamsul Iskandar.
 
 **Danial:** Cuma tadi YB kata, selepas ini untuk menghantar pimpinan kanan ke kawasan-kawasan yang agak berisiko ini agak susah sedikit, sebab sebahagian besar kerusi PKR sekarang tak selamat.
 
-**Rafizi Ramli:** Dalam keadaan, contohnya, undi Melayu kepada PH sekitar 30%, dan tanda-tanda itu tidak berubah. Maksudnya, dalam beberapa siri pilihan raya kecil dan pilihan raya negeri yang lepas, kita lihat memang undi Melayu kepada PH tidak melepasi 30%. Sebabnya, walaupun bertanding dengan UMNO, bila PH lawan PN, pengundi UMNO tak undi PH. Kemudian tambah lagi dengan isu pengundi bukan Melayu yang tidak keluar mengundi. Jadi kadar keluar mengundi itu dalam 40 hingga 50%. Jadi kalau keadaan ini kekal, dan tidak ada tanda-tanda ia sedang berubah — apa-apa pun saya bimbang ia akan jadi lebih teruk daripada yang ada sekarang. Jadi kalau kita ambil status quo pun, maksudnya pengundi Melayu tak melepasi 30%, kehadiran pengundi Cina dan India tak melepasi 60% dalam pilihan raya umum — majoriti daripada 30 kerusi sedia ada PKR semuanya tak selamat. Yang selamat hanyalah Pandan, Subang, Bayan Baru, Gopeng, Selayang, dan JB — itu pun kalau Akmal yang bertanding. Kalau bukan Akmal, ada isu, sebab orang lupa sentimentaliti pengundi PH dengan Akmal.
+**Rafizi:** Dalam keadaan, contohnya, undi Melayu kepada PH sekitar 30%, dan tanda-tanda itu tidak berubah. Maksudnya, dalam beberapa siri pilihan raya kecil dan pilihan raya negeri yang lepas, kita lihat memang undi Melayu kepada PH tidak melepasi 30%. Sebabnya, walaupun bertanding dengan UMNO, bila PH lawan PN, pengundi UMNO tak undi PH. Kemudian tambah lagi dengan isu pengundi bukan Melayu yang tidak keluar mengundi. Jadi kadar keluar mengundi itu dalam 40 hingga 50%. Jadi kalau keadaan ini kekal, dan tidak ada tanda-tanda ia sedang berubah — apa-apa pun saya bimbang ia akan jadi lebih teruk daripada yang ada sekarang. Jadi kalau kita ambil status quo pun, maksudnya pengundi Melayu tak melepasi 30%, kehadiran pengundi Cina dan India tak melepasi 60% dalam pilihan raya umum — majoriti daripada 30 kerusi sedia ada PKR semuanya tak selamat. Yang selamat hanyalah Pandan, Subang, Bayan Baru, Gopeng, Selayang, dan JB — itu pun kalau Akmal yang bertanding. Kalau bukan Akmal, ada isu, sebab orang lupa sentimentaliti pengundi PH dengan Akmal.
 
 Sebab dia budak yang mengalahkan Tan Sri Shahrir Samad, yang tak pernah kalah. Orang lupa sentimen itu. Kalau you dah kalahkan dia dekat cabang, buat macam tu, kemudian you tak letak dia bertanding pula, orang JB akan kata, "budak ni, aku ingat masa dia mula-mula nak lawan Shahrir Samad pakai basikal lagi. Tiba-tiba dah menang dua penggal berturut-turut dengan majoriti besar, kau nak campak dia?" Mudah sahaja bagi mereka. Sama macam sentimen pengundi Pandan yang kesian kat saya — dia akan kata, "aku ingat budak ni, masa muda dia dulu berkempen untuk Anwar, bebaskan Anwar, 27 tahun, masa itu tak ada apa-apa. Tiba-tiba bila Anwar dah jadi Perdana Menteri, kau pun dah jadi menteri kabinet, kau campak dia macam tu je." Jadi sentimen ini jangan main-main. Dalam keadaan begini, mudah ke nak alih atau letak calon lain pada semua kerusi yang boleh menang — contohnya kerusi saya sendiri di Pandan? Kalau letak calon PKR yang lain kat kerusi ini, ingat boleh senang-senang nak menang? Silap-silap, yang sebelum ini menang bergaya boleh terbalik.
 
 **Danial:** So kalau calon tak dikenali, boleh hilang deposit pun — sebab candidates tak boleh dianggap remeh. That's why nobody would have guessed even Tun Mahathir himself could lose his deposit — it's an unthinkable thing.
 
-**Rafizi Ramli:** That's what I said earlier about Dato' Sri Anwar Ibrahim's case — it's an unthinkable thing. Don't let our party give birth to a history where our own Prime Minister candidate falls. But this is indeed something — mungkin esok kita akan buat podcast lagi — ramai orang mengkritik perkara ini dalam siaran langsung ini, kan? Tapi you kena tengok perkara ini dalam konteks masa depan.
+**Rafizi:** That's what I said earlier about Dato' Sri Anwar Ibrahim's case — it's an unthinkable thing. Don't let our party give birth to a history where our own Prime Minister candidate falls. But this is indeed something — mungkin esok kita akan buat podcast lagi — ramai orang mengkritik perkara ini dalam siaran langsung ini, kan? Tapi you kena tengok perkara ini dalam konteks masa depan.
 
 **Danial:** Okay YB, saya nak masuk satu isu lagi ni sebelum kita masuk topik lain. Ia masih dalam isu yang sama, macam dengan Dato' Sri Anwar Ibrahim tadi. Saya nampak macam ni — bagaimana YB, yang sudah 27–28 tahun berjuang dalam parti, kemudian ditolak macam ini — ini dianggap sebagai ditolak kan, macam ditendang atau dicampak — lebih kurang macam itulah.
 
-**Rafizi Ramli:** Saya nampak benda ini akan berlaku juga dengan Nurul Izzah kelak, bila Anwar dah tak berkuasa. Malah Izzah sendiri pernah sebut benda yang sama kat saya.
+**Rafizi:** Saya nampak benda ini akan berlaku juga dengan Nurul Izzah kelak, bila Anwar dah tak berkuasa. Malah Izzah sendiri pernah sebut benda yang sama kat saya.
 
 **Danial:** Oh, iya ke?
 
-**Rafizi Ramli:** Itu yang dia minta tolong. Sebab itu saya nampak benda ni jauh-jauh punya. Bila kita buka pintu kepada budaya yang tidak betul — maksudnya wang, kronisme, "tangan ghaib" dan sebagainya — tidak akan ada orang yang selamat, dan parti pun takkan selamat. Kau tanya saya, sebab itu saya — saya tahu perancangan itu sedang berlaku, saya tahu dah lama, Danial. Aku bukannya lahir semalam, aku dah kenal semua orang ni. Cuma saya bagi tawaran itu kepada parti.
+**Rafizi:** Itu yang dia minta tolong. Sebab itu saya nampak benda ni jauh-jauh punya. Bila kita buka pintu kepada budaya yang tidak betul — maksudnya wang, kronisme, "tangan ghaib" dan sebagainya — tidak akan ada orang yang selamat, dan parti pun takkan selamat. Kau tanya saya, sebab itu saya — saya tahu perancangan itu sedang berlaku, saya tahu dah lama, Danial. Aku bukannya lahir semalam, aku dah kenal semua orang ni. Cuma saya bagi tawaran itu kepada parti.
 
 Bukan bermaksud saya nak marah-marah sangat. Yang penting, jangan biar orang nampak seluruh sistem itu dimanipulasi untuk mendapatkan keputusan politik. Memang betul, kalau kita berada di atas — presiden, menteri, atau ketua cabang — kalau kita nak kerja senang, kita nak semua orang ikut apa yang kita nak. Tapi kalau itu bermaksud kita perlu buat banyak perkara yang menjejaskan identiti parti, tak berbaloi. Sebab itu saya tawarkan kepada parti, kepada Dato' Sri Anwar: tak payahlah, biar sahaja orang bertanding macam biasa, jangan dicatu. Tapi kalau contohnya dia rasa kurang keserasian dengan saya dan saya tak bertanding, tak apa — aku memang tak nak pun. Tapi saya rasa sepanjang masa itu, kebimbangannya ialah kalau saya tak ada dalam kabinet, apa kesannya kepada parti dan sebagainya.
 
@@ -327,7 +327,7 @@ Saya nampak perkara ini — contohnya kalau saya cuba lihat di Sarawak, susah, t
 
 **Danial:** Dah berkali-kali YB sebut "menyesal" ini — tiga kali dah kan.
 
-**Rafizi Ramli:** Ya, menyesal — sebab baik saya tak payah masuk politik dulu. Saya masuk politik, saya nampak dinamiknya — "ini geng YB, ini bagus, aku nak join juga" macam itu kan. Bila masuk dan masuk, rupa-rupanya politik dalam politik. Rupa-rupanya bila saya nak masuk politik, saya nak perjuangkan parti — contohnya di Sarawak, GPS, dulunya semua BN kan, semasa era BN. Tapi bila saya masuk politik, masuk pilihan raya parti, rupa-rupanya masih sama sahaja. Saya kata, "oh my God."
+**Rafizi:** Ya, menyesal — sebab baik saya tak payah masuk politik dulu. Saya masuk politik, saya nampak dinamiknya — "ini geng YB, ini bagus, aku nak join juga" macam itu kan. Bila masuk dan masuk, rupa-rupanya politik dalam politik. Rupa-rupanya bila saya nak masuk politik, saya nak perjuangkan parti — contohnya di Sarawak, GPS, dulunya semua BN kan, semasa era BN. Tapi bila saya masuk politik, masuk pilihan raya parti, rupa-rupanya masih sama sahaja. Saya kata, "oh my God."
 
 Lepas itu, saya jadi renggang dengan kawan-kawan sendiri. Dulu boleh minum kopi bersama dengan baik, sekarang tak boleh lagi. Jadi saya kehilangan kawan-kawan kerana perkara ini. Macam YB sendiri — walaupun kita ada sedikit percanggahan, tapi orang masih kata kita rapat. Bila kita buka pintu yang "gila" itu, YB pun ada banyak musuh sekarang. Tapi saya ada lebih banyak musuh sejak dulu lagi — banyak musuh, depan orang, belakang orang. Itu yang menjadikan saya macam ini. Kadang-kadang saya rasa hampir — ya, kadang-kadang. Ya, macam YB pun sama — sebab kita bukan bergantung pada politik.
 
@@ -337,7 +337,7 @@ Inilah saya, ikan bilis ini, yang menjadi ketakutan orang dengan parti kita seka
 
 **Danial:** Masalah parti sekarang — macam tadi tu — adakah ia beyond repair, atau masih ada cara untuk kita kembali ke pangkal jalan?
 
-**Rafizi Ramli:** Kalau menurut saya, ya, boleh. Tapi orang yang tolong buka pintu ini, dan orang yang nak masuk melaluinya, terlalu ramai berbanding orang yang nak menutupnya. Contohnya, macam saya, kepimpinan di peringkat negeri, dan YB sendiri di peringkat tertinggi — kalau setakat saya sahaja, patutnya ada lagi dua-tiga orang lain, kalau tidak, tak cukup kekuatan untuk buat begitu. Walaupun sebahagian daripada tim YB sendiri di peringkat atas — contohnya macam Akmal, MB9, atau Roziah — semua ini, tapi tak cukup.
+**Rafizi:** Kalau menurut saya, ya, boleh. Tapi orang yang tolong buka pintu ini, dan orang yang nak masuk melaluinya, terlalu ramai berbanding orang yang nak menutupnya. Contohnya, macam saya, kepimpinan di peringkat negeri, dan YB sendiri di peringkat tertinggi — kalau setakat saya sahaja, patutnya ada lagi dua-tiga orang lain, kalau tidak, tak cukup kekuatan untuk buat begitu. Walaupun sebahagian daripada tim YB sendiri di peringkat atas — contohnya macam Akmal, MB9, atau Roziah — semua ini, tapi tak cukup.
 
 Sebab benda ini boleh diseimbangkan pada waktu YB sendiri menjadi timbalan presiden. Tapi bila dah tak jadi timbalan — macam mana kita nak baiki? Kita tak boleh baiki. Mereka sekarang masuk — dulu bukan 50-50 atau 40-60 kerana YB Rafizi, sekarang 95 daripada mereka boleh masuk. Dulu 40-60, sekarang 95-5. Itu yang sebenarnya bertanggungjawab. Kalau saya boleh sambung apa yang Danial pernah kata — kumpulan pengundi yang menyokong suara progresif itu masih ada, sekurang-kurangnya 30% pada satu-satu masa. Sebab itu kalau kita lihat balik pada tahun 1960-an, Parti Rakyat, Barisan Sosialis, Barisan Buruh — mereka tetap menang walau apa pun berlaku, sebab kumpulan ini akan sentiasa ada.
 
@@ -351,7 +351,7 @@ Jadi kalau kita tengok kenapa saya berjaya di situ — orang Malaysia ini dahaga
 
 **Danial:** Itu sahaja. Saya tak nak masuk lebih jauh dalam isu ini. Saya nak sambung dengan isu Sarawak pula. Okay, soalan baru. Saya rasa YB tahu isu Petros dan Petronas ini — hari itu YB ada sebut sedikit perkara ini, tapi lebih untuk menjawab soalan orang PAS. Kenapa saya nak sebut ini lagi? Sebab ramai orang Sarawak sendiri masih tidak faham. Mungkin sesetengah — termasuk saya sendiri — sebagai YB yang pernah menjadi Menteri Ekonomi, mungkin lebih memahami sedikit. Jadi bagaimana ceritanya?
 
-**Rafizi Ramli:** Ya, ceritanya rumit, sebab ia terjalin dengan beberapa perkara. Satu, ia terjalin dengan undang-undang. Kedua, ia terjalin dengan kehendak rakyat Sarawak supaya hasil bumi mereka — kekayaan mereka — paling banyak pergi kepada rakyat Sarawak, yang sebenarnya tidak salah. Ketiga, ia rumit kerana apa-apa yang melibatkan kewangan dan kekukuhan Petronas mempunyai kesan besar kepada negara.
+**Rafizi:** Ya, ceritanya rumit, sebab ia terjalin dengan beberapa perkara. Satu, ia terjalin dengan undang-undang. Kedua, ia terjalin dengan kehendak rakyat Sarawak supaya hasil bumi mereka — kekayaan mereka — paling banyak pergi kepada rakyat Sarawak, yang sebenarnya tidak salah. Ketiga, ia rumit kerana apa-apa yang melibatkan kewangan dan kekukuhan Petronas mempunyai kesan besar kepada negara.
 
 Jadi kita mulakan dengan sejarah dan undang-undang, sebab kalau kita dengar daripada ahli politik di kedua-dua belah pihak, mereka cuma "bakar" sahaja — tak cerita kerumitan teknikalnya. Undang-undang kita ada Akta Pelantar Benua 2012, saya ingat. Akta itu menyatakan sempadan negeri ialah tiga batu nautika. Apa yang melepasi tiga batu nautika itu dipanggil EEZ — Exclusive Economic Zone — yang berada di bawah bidang kuasa persekutuan. Tapi adakah ia digunakan untuk kepentingan rakyat? Itulah sebabnya ia rumit. Tapi mengikut undang-undang yang ada sekarang, itulah undang-undangnya. Jadi sama ada di Terengganu atau di Kelantan, mana-mana ladang minyak, kalau di luar tiga batu nautika, ia milik persekutuan, dan mengikut Akta 1974, Petroleum Development Act yang menubuhkan Petronas, semua sumber hidrokarbon di luar tiga batu nautika adalah milik Petronas.
 
@@ -375,15 +375,15 @@ Maksudnya, ia tetap wang juga, tapi bila Petros berada di bawah DGO — maksudny
 
 **Danial:** Tapi saya nak masuk lagi isu Sarawak ini — MA63. Sebab baru-baru ini saya dengar YB kata untuk fokus kepada isu pendidikan. Okay, YB, adakah YB setuju kalau silibus yang melibatkan MA63, atau bagaimana masyarakat Sabah Sarawak hidup dalam Malaysia, diterapkan kepada murid-murid sekolah, supaya kita boleh kurangkan perkauman, kurangkan isu agama? Saya rasa itu bagus.
 
-**Rafizi Ramli:** Aku dah tak ingat lah, Danial — kali terakhir aku baca buku sejarah silibus ini, 20-30 tahun lepas, waktu SPM, lepas tu pergi overseas. Saya tak tahu kandungan silibus sekarang tentang MA63 semua ini. Saya ingat dalam sejarah dulu ada sentuh tentang Suruhanjaya Cobbold — Cobbold Commission. Cobbold atau Reid, ya?
+**Rafizi:** Aku dah tak ingat lah, Danial — kali terakhir aku baca buku sejarah silibus ini, 20-30 tahun lepas, waktu SPM, lepas tu pergi overseas. Saya tak tahu kandungan silibus sekarang tentang MA63 semua ini. Saya ingat dalam sejarah dulu ada sentuh tentang Suruhanjaya Cobbold — Cobbold Commission. Cobbold atau Reid, ya?
 
 **Danial:** Cobbold, kan?
 
-**Rafizi Ramli:** Cobbold. Reid untuk apa?
+**Rafizi:** Cobbold. Reid untuk apa?
 
 **Danial:** Saya cuma nak uji orang muda — Tanah Melayu satu, Pembentukan Malaysia satu lagi. Maksud YB, Reid untuk institusi?
 
-**Rafizi Ramli:** Ya, untuk institusi, untuk '57. Cobbold ialah Pembentukan Malaysia — you boleh check kalau GPT betul atau tidak. Jadi setahu saya, Cobbold — Cobbold Commission kan? Jadi ada disentuh sedikit dulu, tapi — sama ada saya perlu mengaku sebagai orang yang dah tua, nak masuk 50 sekarang — mungkin masa kita budak dulu, di sini semua darjah 3, darjah 4, Pembentukan Malaysia, Cobbold Commission semua ini, waktu itu kita tak "hadam" lah. Aku pun baca sejarah semua itu macam itu sahaja, untuk score exam sahaja — betul-betul tak hadam.
+**Rafizi:** Ya, untuk institusi, untuk '57. Cobbold ialah Pembentukan Malaysia — you boleh check kalau GPT betul atau tidak. Jadi setahu saya, Cobbold — Cobbold Commission kan? Jadi ada disentuh sedikit dulu, tapi — sama ada saya perlu mengaku sebagai orang yang dah tua, nak masuk 50 sekarang — mungkin masa kita budak dulu, di sini semua darjah 3, darjah 4, Pembentukan Malaysia, Cobbold Commission semua ini, waktu itu kita tak "hadam" lah. Aku pun baca sejarah semua itu macam itu sahaja, untuk score exam sahaja — betul-betul tak hadam.
 
 Jadi apa nama ini — banyak perkara yang saya faham, dan saya nampak ada perkara-perkara yang menimbulkan rasa dipinggirkan dalam kalangan rakyat Sabah Sarawak. Ini saya belajar sendiri, dan memahami daripada kawan-kawan — baca bila dah tua. Maksudnya begini: apa yang ada dalam silibus dulu — sebab saya tak tahu silibus sekarang — apa yang ada dulu itu tidak mendidik saya tentang Sabah Sarawak, MA63, semua ini. Sebab saya hanya faham perkara ini bila dah tua, bila pergi ke Sabah, bila pergi ke Sarawak, bila masuk kawasan-kawasan itu.
 
@@ -401,7 +401,7 @@ Sebab orang kampung ini — kampung di Semenanjung satu hal, kerana kampung di S
 
 **Danial:** Okay YB, saya nak tanya berkenaan "Ayuh Malaysia" yang baru YB lancarkan baru-baru ini. Adakah YB berminat untuk bawanya ke Sarawak, memandangkan apa YB sebut tadi tentang isu kawasan pedalaman dan sebagainya — mungkin ia boleh memberi impak, atau lebih memberi ruang kepada orang untuk memajukan kawasan pedalaman, terutamanya di Sarawak. Jadi bagaimana?
 
-**Rafizi Ramli:** Saya nak — senang saya nampak, Danial, macam ini. Apa yang kita nak galakkan sebenarnya ialah perusahaan sosial. Perusahaan sosial ini sebenarnya perniagaan yang boleh dimulakan oleh sesiapa sahaja, di mana-mana. Syarat paling utama, perniagaan itu mestilah menjana kewangan yang boleh bertahan, dan diusahakan secara profesional.
+**Rafizi:** Saya nak — senang saya nampak, Danial, macam ini. Apa yang kita nak galakkan sebenarnya ialah perusahaan sosial. Perusahaan sosial ini sebenarnya perniagaan yang boleh dimulakan oleh sesiapa sahaja, di mana-mana. Syarat paling utama, perniagaan itu mestilah menjana kewangan yang boleh bertahan, dan diusahakan secara profesional.
 
 Jadi setakat ini, dalam tempoh 2-3 hari ini, kami mula kekurangan tenaga — bukan tak cukup tangan, kami mula mendapat ramai orang dari seluruh Malaysia. Saya rasa dari Sabah, Sarawak pun ada. Yang tampil ke depan, yang berkata mereka nak cuba ini, itu, semua ini. Jadi kita akan lalui proses itu untuk memastikan, sebab kita perlu melalui "business case" — contohnya kalau dia kata nak tanam kacang tanah, kita kena tengok tanahnya macam mana, kita perlu melalui pemodelan kewangannya, dan sama ada kita boleh padankan dia dengan rakan kongsi yang boleh menyuntik modal dan sebagainya.
 
@@ -417,23 +417,23 @@ Cuma, di peringkat Ayuh Malaysia, kita nak elakkan penipuan. Sebab itu kita kena
 
 **Danial:** Bro nak buat apa, bro — Sarawak?
 
-**Rafizi Ramli:** Perusahaan sosial, lebih kurang. Saya tak tahu, kita tengoklah, sebab keadaan di Sarawak berbeza. YB tahu, keadaannya berbeza. Sabah pun berbeza, jauh daripada Sarawak, walaupun kita berada di pulau yang sama.
+**Rafizi:** Perusahaan sosial, lebih kurang. Saya tak tahu, kita tengoklah, sebab keadaan di Sarawak berbeza. YB tahu, keadaannya berbeza. Sabah pun berbeza, jauh daripada Sarawak, walaupun kita berada di pulau yang sama.
 
 **Danial:** Dan cabarannya, contohnya, logistik adalah cabaran besar di Sabah dan Sarawak. Sebab apa nama ini — kalau kita tengok kos, kalau kita tanam, contohnya, ubi keledek, kalau di Semenanjung, tanam ubi keledek, harganya begitu-begitu sahaja, tapi kita boleh jual pada harga yang menarik dan ada pasaran kerana kos logistik murah. Sebab kalau kau tanam di Sarawak, di hujung dunia, ubi keledek bukan mahal, kos rendah, tapi untuk bawa keluar — jadi saya rasa kita perlu melalui pasaran satu demi satu. Tapi saya pasti ada banyak perkara yang kita boleh cuba, kalau benda macam ini, YB.
 
-**Rafizi Ramli:** Bukan pasal saya nak promosi kawasan saya, tapi kawasan Mas Gading itu — saya pinta lah, dia dekat, tanah di sana pun bagus.
+**Rafizi:** Bukan pasal saya nak promosi kawasan saya, tapi kawasan Mas Gading itu — saya pinta lah, dia dekat, tanah di sana pun bagus.
 
 **Danial:** Memang, iyalah. Sebab itu bila YB masih Menteri Ekonomi dulu, saya pernah tanya waktu YB turun ke Kuching, tapi bila melibatkan isu tanah dan sebagainya, saya malas nak layan itu. Tapi contohnya di Sarawak, Sarawak ada satu kelebihan yang tak ada di Semenanjung, iaitu tanah yang banyak — tanah adat. Kerana tanah itu lebih kompetitif, lebih baik di Sarawak berbanding Semenanjung.
 
-**Rafizi Ramli:** Baik, saya nak buat. Saya punya tanah banyak.
+**Rafizi:** Baik, saya nak buat. Saya punya tanah banyak.
 
 **Danial:** Tanah banyak, kan?
 
-**Rafizi Ramli:** Baik. Tanah saya banyak, tapi saya tak tahu nak buat apa. Sebenarnya, kalau di kawasan Bau, banyak orang ada tanah adat yang memang kerajaan tidak kacau. Jadi kalau, contohnya, di Sarawak banyak tanah adat — kalau di Negeri Sembilan pun ada banyak tanah adat, cuma tanah adat di Negeri Sembilan itu tiga hektar, empat hektar, Sarawak sepuluh hektar satu tanah adat. Jadi ini semua perkara yang saya harap, kerana ia melibatkan sektor swasta...
+**Rafizi:** Baik. Tanah saya banyak, tapi saya tak tahu nak buat apa. Sebenarnya, kalau di kawasan Bau, banyak orang ada tanah adat yang memang kerajaan tidak kacau. Jadi kalau, contohnya, di Sarawak banyak tanah adat — kalau di Negeri Sembilan pun ada banyak tanah adat, cuma tanah adat di Negeri Sembilan itu tiga hektar, empat hektar, Sarawak sepuluh hektar satu tanah adat. Jadi ini semua perkara yang saya harap, kerana ia melibatkan sektor swasta...
 
 **Daniel:** In the Endeavor model, they say there's a partner who injects capital, a partner who contributes land, and local workers who manage the operation. This would be easier for us to start with, compared to, say, relying on a private company — oh, that's a long story — or depending on a government project, which is also a long story. In my area, for example, YB could bring this in, or work together with those who hold native customary land [tanah adat]. First, YB could help Sarawak cut costs — for instance, if we grow our own vegetables, we wouldn't need to keep importing them, and the cost of vegetables like chili would come down. There are already plenty of people wanting to grow chili in Sarawak now.
 
-**Rafizi Ramli:** It's private, and that's the issue — when it's privately controlled, the price goes up, and those who are waiting for the government to sort this out will have a hard time. If chili were really grown here in Sarawak, the price could come down to around RM1.50 a kilo, I believe.
+**Rafizi:** It's private, and that's the issue — when it's privately controlled, the price goes up, and those who are waiting for the government to sort this out will have a hard time. If chili were really grown here in Sarawak, the price could come down to around RM1.50 a kilo, I believe.
 
 We could actually achieve what we just discussed — that's what Ayuh Malaysia is about, or whatever we want to call it. We could genuinely bring the price down, even to half, and still make a healthy profit. Whether it will succeed or not, I don't know — but on paper, Daniel, that's the logic. If we remove the profit element — or rather, keep it modest and return it to the participants — then logically we can sell at a much better price. Otherwise, every kilo carries a margin that has to go back to the owner. In our case, since the "owner" is a partner rather than a boss, this becomes a form of community service — as long as I get a return comparable to what I'd get putting the money in the bank. Because if it just sits in the bank, it has no impact on the community — you'd only get 3-4% anyway. Sorry, I'm digressing here.
 
@@ -441,7 +441,7 @@ Take Sarawak, for example — where my parents are, there's FELDA, there's FELCR
 
 **Daniel:** How much?
 
-**Rafizi Ramli:** — one, two thousand ringgit. I think we can do better than that. That's what I want to link this partnership model to — there are already two or three FELCRA participants who've told me, "my land is under the FELCRA scheme, I only get two or three thousand a year. If Ayuh Malaysia can really deliver, can I leave FELCRA and join this instead?" That's why in my area, many of my kampung folk — including my own family — after hearing about this, said it's a waste of time; might as well let the land go back to forest.
+**Rafizi:** — one, two thousand ringgit. I think we can do better than that. That's what I want to link this partnership model to — there are already two or three FELCRA participants who've told me, "my land is under the FELCRA scheme, I only get two or three thousand a year. If Ayuh Malaysia can really deliver, can I leave FELCRA and join this instead?" That's why in my area, many of my kampung folk — including my own family — after hearing about this, said it's a waste of time; might as well let the land go back to forest.
 
 **Daniel:** Kalau memang, why be now? [If that's really the case, why not now, YB?] I think your area would give this a very warm welcome if YB set up a large-scale chili farm there. Sarawak already has a strong market for black pepper — perhaps chili could be intercropped in between. Based on our modern agriculture experience through the IPR Intan programme, this can genuinely generate income. At the Putrajaya site, for instance, the highest earnings recorded over a 3-month cycle reached RM23,000 — meaning over RM7,000 a month. The lowest was around RM15,000 for 3 months, or roughly RM5,000 a month — and that's factoring in a partner who has to put in capital. In Sarawak, even if it's not RM5,000 a month, getting RM2,000 or even RM1,000 a month would already be considered high.
 
@@ -451,7 +451,7 @@ That's what makes Sabah and Sarawak so attractive — they have so much land. Le
 
 I have a lot of respect for YB, and I know YB himself won't like this question, but I'll ask it anyway — because of comments from people who don't like YB. They say YB is egotistical, arrogant — that all these traits come from him, that he doesn't listen to others, that he believes he's the only one who's right, the only one who knows everything.
 
-**Rafizi Ramli:** I've actually answered that before — it came up when I first became deputy president. But that's fine, since it keeps coming up.
+**Rafizi:** I've actually answered that before — it came up when I first became deputy president. But that's fine, since it keeps coming up.
 
 I think we need to separate "ego" as a personal trait from ego in the context of work.
 
@@ -473,7 +473,7 @@ Jadi macam saya sebut tadi, Daniel, pertembungan dalam PKR ini sebenarnya pertem
 
 **Daniel:** YB has answered that question already, in a way. I mean, politics aside — but if you worked in the corporate world, even if you were a genius, if you couldn't accept people's views, couldn't manage human differences, you simply couldn't be a boss.
 
-**Rafizi Ramli:** Jadi aku dah melalui segala jawatan semua sampai jadi menteri, kemudian ada company sendiri, menguruskan ratus-ratus orang, budak-budak semua — dan tak ada isu pun sebenarnya. Kalau betul macam mereka kata, benda macam Ayuh Malaysia ini pun aku tak akan boleh buat. The work speaks for itself. Buat masa sekarang, itu sajalah serangan dia. Macam Daniel kata tadi, akhirnya itu adalah serangan dan jawapan untuk menyedapkan hati sendiri — syok sendiri, sendiri yang buat content, sendiri yang like.
+**Rafizi:** Jadi aku dah melalui segala jawatan semua sampai jadi menteri, kemudian ada company sendiri, menguruskan ratus-ratus orang, budak-budak semua — dan tak ada isu pun sebenarnya. Kalau betul macam mereka kata, benda macam Ayuh Malaysia ini pun aku tak akan boleh buat. The work speaks for itself. Buat masa sekarang, itu sajalah serangan dia. Macam Daniel kata tadi, akhirnya itu adalah serangan dan jawapan untuk menyedapkan hati sendiri — syok sendiri, sendiri yang buat content, sendiri yang like.
 
 Kalau kumpulan itu selesa dengan keadaan itu pun, tak apa — tapi macam saya sebut tadi, itu tetap tak memenangi hati rakyat, kerana rakyat melihat kepimpinan secara keseluruhan. Jadi sebenarnya, kalau kita tengok betul-betul, itu sajalah "serangan" yang ada — kononnya saya rasa pandangan saya sahaja yang betul. Tapi kalau kau sendiri tak pernah bagi pandangan secara terus —
 
@@ -481,7 +481,7 @@ How do I know if your view is correct or not? In the meeting, just look at these
 
 **Daniel:** Yang dia round itulah ya — sebab hari itu dia buat kat Sarawak juga, kan?
 
-**Rafizi Ramli:** Ya lah, kamera ini kadang-kadang menipu, pada pendapat saya. Kita jadi syok sendiri apabila kita tonton balik video itu untuk diri kita. Tetapi pada pendapat saya, kita tak berjaya — mungkin banyak kes di Sarawak ini, tapi mata saya, otak saya, sentiasa berjalan pada setiap event parti. Jadi bila benda itu berlaku, sebenarnya kita cuma syok sendiri sahaja — orang-orang lama itu sajalah yang kita gagal bawa balik. Kalau setakat itulah muka yang datang — yang nak duduk dekat, yang nak pergi cium tangan Dato' Seri Anwar — orang itu juga yang akan datang, jadi saya tak nampak apa maknanya di situ. Dan saya perasan langsung tak ada muka baru yang datang — hanya orang-orang lama sahaja. Itulah sebabnya mereka terus menyerang dengan isu "ego" pandangan dia ini. Tapi saya nak cakap satu benda —
+**Rafizi:** Ya lah, kamera ini kadang-kadang menipu, pada pendapat saya. Kita jadi syok sendiri apabila kita tonton balik video itu untuk diri kita. Tetapi pada pendapat saya, kita tak berjaya — mungkin banyak kes di Sarawak ini, tapi mata saya, otak saya, sentiasa berjalan pada setiap event parti. Jadi bila benda itu berlaku, sebenarnya kita cuma syok sendiri sahaja — orang-orang lama itu sajalah yang kita gagal bawa balik. Kalau setakat itulah muka yang datang — yang nak duduk dekat, yang nak pergi cium tangan Dato' Seri Anwar — orang itu juga yang akan datang, jadi saya tak nampak apa maknanya di situ. Dan saya perasan langsung tak ada muka baru yang datang — hanya orang-orang lama sahaja. Itulah sebabnya mereka terus menyerang dengan isu "ego" pandangan dia ini. Tapi saya nak cakap satu benda —
 
 Kalaulah saya ini jenis yang tak boleh bekerjasama dengan orang, atau tak boleh terima pandangan orang, agaknya macam mana pula aku boleh mentadbir organisasi sejak muda lagi, dari zaman korporat lagi. Itulah sebabnya saya nak sampaikan — kalau politik pun kita ketepikan dulu, tapi kalau kita bekerja dalam dunia korporat, kalau kita jenis yang tak boleh terima pandangan orang, tak boleh urus perbezaan manusia, kita tak akan boleh jadi bos.
 
@@ -489,10 +489,10 @@ Jadi aku dah melalui segala jawatan semua sampai jadi menteri, kemudian ada comp
 
 **Daniel:** Okay lah, dah dua jam kita berbual. Saya ingat jangan kita lama sangat, kalau tak sembang ini tak habis-habis. Okay, kita akhirilah — nanti saya sampai ke Mas Gading pula. Tapi memang betul, sejak dulu lagi memang banyak permintaan begini — apa yang boleh dibuat untuk penduduk pedalaman di Sabah dan Sarawak, kerana mereka ada tanah yang luas.
 
-**Rafizi Ramli:** Kalau di Sabah, kita sudah ada tiga, empat tapak IPR, dan saya sendiri rasa yakin sebenarnya orang Sabah dan Sarawak ini lebih kental untuk kerja jenis ini — mereka tidak malas untuk buat. Kedua, dari segi kos gaji pun, mereka boleh pertimbangkan, walaupun tidaklah sama — contohnya kalau di sana RM50 sehari, di sini RM100. Mereka boleh pertimbangkan itu. Jadi dari segi kos pun, ia berbaloi.
+**Rafizi:** Kalau di Sabah, kita sudah ada tiga, empat tapak IPR, dan saya sendiri rasa yakin sebenarnya orang Sabah dan Sarawak ini lebih kental untuk kerja jenis ini — mereka tidak malas untuk buat. Kedua, dari segi kos gaji pun, mereka boleh pertimbangkan, walaupun tidaklah sama — contohnya kalau di sana RM50 sehari, di sini RM100. Mereka boleh pertimbangkan itu. Jadi dari segi kos pun, ia berbaloi.
 
 **Daniel:** Ya, ya, ya. InsyaAllah, kita jumpa di Mas Gading nanti. Terima kasih banyak, Saudara Daniel — kita akan terbang jauh dari Mas Gading, kita jumpa lagi di Sarawak, ya. Sarawak, Mas Gading — nanti orang tanya, "Mas Gading itu kat mana?" — Nyikit Belon. Baiklah, itu sahaja — dua jam yang produktif. Kita jumpa lagi minggu hadapan dengan kupasan yang lebih mendalam berkaitan Rancangan Malaysia ke-13. Sekian sahaja, selamat malam.
 
 **Daniel:** Kami nak tidur dulu.
 
-**Rafizi Ramli:** Saya boleh lihat.
+**Rafizi:** Saya boleh lihat.

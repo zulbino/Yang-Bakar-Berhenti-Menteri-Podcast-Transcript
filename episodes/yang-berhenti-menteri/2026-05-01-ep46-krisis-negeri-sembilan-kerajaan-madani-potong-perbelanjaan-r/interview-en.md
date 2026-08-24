@@ -9,7 +9,7 @@ duration_seconds: 11428
 duration: 3h 10m
 view_count: 198542
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Hafiz
 - Amir
@@ -19,7 +19,7 @@ topics:
 - Tengku Zafrul's political maneuvers in Pandan
 - Political content creation vs service
 - Criticism of feudal politics in constituency work
-summary: Rafizi Ramli joins co-hosts Hafiz and Amir for episode 46 of his podcast.
+summary: Rafizi joins co-hosts Hafiz and Amir for episode 46 of his podcast.
   They discuss various political topics including the significance of Labor Day in
   Malaysia, comments regarding MACC Chief Commissioner Azam Baki, and critiques of
   Tengku Zafrul's political activities and social media content strategies in the

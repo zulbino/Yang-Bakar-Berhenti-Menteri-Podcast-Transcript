@@ -14,7 +14,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 # Raw Transcript
 
-[00:44] Speaker 1: Assalamualaikum dan salam sejahtera macam biasa podcast yang berhenti menteri episod ke-58 bersama saudara Rafizi Ramli dan Chopper ada dekat bawah Chopper tengah bertenang-tenang dan saya baru menghadapi unintended consequences ada kucing sebab bila saya datang tadi mic ni penuh dengan bulu
+[00:44] Speaker 1: Assalamualaikum dan salam sejahtera macam biasa podcast yang berhenti menteri episod ke-58 bersama saudara Rafizi dan Chopper ada dekat bawah Chopper tengah bertenang-tenang dan saya baru menghadapi unintended consequences ada kucing sebab bila saya datang tadi mic ni penuh dengan bulu
 
 [01:10] Speaker 2: Oh ya ke?
 

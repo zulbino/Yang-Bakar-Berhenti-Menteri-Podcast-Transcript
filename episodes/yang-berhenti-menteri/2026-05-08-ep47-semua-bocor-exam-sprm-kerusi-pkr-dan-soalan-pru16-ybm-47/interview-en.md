@@ -8,7 +8,7 @@ duration_seconds: 10854
 duration: 3h 0m
 view_count: 172130
 hosts:
-- Rafizi Ramli
+- Rafizi
 guests:
 - Speaker 1
 topics:
@@ -19,7 +19,7 @@ topics:
 - UMNO
 - Traffic safety behavior
 - Political accountability
-summary: In this episode, Rafizi Ramli discusses his experience being questioned by
+summary: In this episode, Rafizi discusses his experience being questioned by
   the MACC (SPRM), the political implications of 'good cop, bad cop' strategies involving
   figures like Nurul Izzah and Anwar Ibrahim, and various current political controversies
   including comments on UMNO figures and traffic safety behavior.
@@ -36,7 +36,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Speaker 1:** Ha. Waalaikumussalam.
 
-**Speaker 2:** As usual, I am with brother Rafizi Ramli, who is feeling healthy after going through...
+**Speaker 2:** As usual, I am with brother Rafizi, who is feeling healthy after going through...
 
 **Speaker 1:** That’s true.
 
@@ -92,7 +92,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Speaker 1:** This specific statement refers to the investigation against me, right? Did she mention my name? She did, she even wrote an article on FMT, I think, I don’t quite remember. She talked about the MACC and inserted your name... right in the middle of it.
 
-**Speaker 2:** Someone forwarded it to me; yes, my name was mentioned. What did she say? I didn't really read it. She said she sympathized with what was being imposed on brother Rafizi Ramli. And what YB is going through. Okay, when the "pissing blog" (blog kencing) was going on, she didn't sympathize. I can't. So, *good cop, bad cop*. That’s it, it has that *good cop, bad cop* connotation, right? Because every time there is... what is "interrogation" in Malay? *Soal siasat*. Every time there is an interrogation with the authorities, whether it’s the police or the MACC, anywhere in the world, right? Interrogations usually involve a *good cop* and a *bad cop*.
+**Speaker 2:** Someone forwarded it to me; yes, my name was mentioned. What did she say? I didn't really read it. She said she sympathized with what was being imposed on brother Rafizi. And what YB is going through. Okay, when the "pissing blog" (blog kencing) was going on, she didn't sympathize. I can't. So, *good cop, bad cop*. That’s it, it has that *good cop, bad cop* connotation, right? Because every time there is... what is "interrogation" in Malay? *Soal siasat*. Every time there is an interrogation with the authorities, whether it’s the police or the MACC, anywhere in the world, right? Interrogations usually involve a *good cop* and a *bad cop*.
 
 **Speaker 1:** Is that a new interrogation technique?
 
@@ -136,6 +136,6 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Speaker 2:** Welcome to the court cluster.
 
-**Speaker 2:** May you, Rafizi Ramli, go to jail; Datuk Seri Najib’s curse is hitting you now. Welcome to the court cluster.
+**Speaker 2:** May you, Rafizi, go to jail; Datuk Seri Najib’s curse is hitting you now. Welcome to the court cluster.
 
 **Speaker 2:** *I mean, what's the big fuss about it*, right? I mean, Izzah, she had to release her story, quote hadiths and all, right? I mean, *what do you expect*? You go and lay it out openly like that, of course people will take pictures, *screenshot* it. The *screenshot* will come out, right? So I don't understand why she is so sensitive about this, right? Especially when she released the tiers and the list of seats.

@@ -15,25 +15,25 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [Intro music / animation]
 
-[03:28] Haziq Azfar: Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri episod yang ke- ke-6 ke ke-7? Ke-7. Tapi sebelum saya ni, saya tanya teruslah saudara Daniel eh. Datang ke podcast ni, tak takut kena gam ke?
+[03:28] Haziq: Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri episod yang ke- ke-6 ke ke-7? Ke-7. Tapi sebelum saya ni, saya tanya teruslah saudara Daniel eh. Datang ke podcast ni, tak takut kena gam ke?
 
 [03:47] Rafizi: Siapa yang boleh gam dia pun?
 
-[03:49] Haziq Azfar: Sebab dia ketua cabang.
+[03:49] Haziq: Sebab dia ketua cabang.
 
 [03:50] Rafizi: Oh.
 
-[03:51] Haziq Azfar: Ketua cabang apa? Mas Gading. Tapi selain daripada itu, dia juga merupakan seorang pempengaruhlah. Dia cerita kat saya tadi, YouTube dah bagi tahu dia eh, dia ni merupakan antara top 10 apa kita panggil, pempengaruh politik dekat Malaysialah. Dan dah dapat apa, gold- silver coin apa?
+[03:51] Haziq: Ketua cabang apa? Mas Gading. Tapi selain daripada itu, dia juga merupakan seorang pempengaruhlah. Dia cerita kat saya tadi, YouTube dah bagi tahu dia eh, dia ni merupakan antara top 10 apa kita panggil, pempengaruh politik dekat Malaysialah. Dan dah dapat apa, gold- silver coin apa?
 
 [04:10] Daniel: Silver button.
 
 [04:11] Rafizi: Kau tanya soalan kat Daniel, belum ada masa Daniel nak jawab lagi, dah potong. Bagilah Daniel jawab dulu. Aku tengah menunggu jawapan daripada Daniel ni.
 
-[04:20] Haziq Azfar: Sori, sori. Sila, sila.
+[04:20] Haziq: Sori, sori. Sila, sila.
 
 [04:22] Daniel: Macam mana saya nak jawab eh? Sebab saya rasa itu bukan jawab soalan.
 
-[04:26] Haziq Azfar: Soalan. Tak habis lagi.
+[04:26] Haziq: Soalan. Tak habis lagi.
 
 [04:28] Daniel: Ha dia bukan soalan juga. Macam mana saya nak jawab? Tapi dia macam nilah. Kalau daripada segi YouTube lah yang kita sebut tadi tu, memang adalah dua kali, tiga kali ya tak silap saya daripada pihak YouTube Malaysialah. Dia ada dia buat video, macam video call lah. So dia buat temu janji, so dia tanya saya benda tu kan. Saya tanya lah sebab kenapa tiba-tiba pihak YouTube telefon kan? Dan melalui emel waktu tu. Saya ingat scammer lah. Mula-mula tu terus tak layan. Ada dua tiga bulan saya tak layan kan. So saya check balik emel tu dan dia cakap dia YouTube Malaysia lah. Saya kata okeylah. So dia cari waktu untuk saya nak kena video call dengan dia untuk ajar macam-macamlah. Dan saya tanya kenapa saya kan terpilih kan? Katanya ada 10 orang. Kamu orang YouTube daripada Malaysia, YouTuber Malaysia yang politik, dia kata waktu tu. So saya pun terkejutlah sebab saya, saya rasa saya bukanlah orangnya kan. Banyak lagi orang lain tu saya fikir macam tulah sebab yalah banyak kan YouTuber politik lain-lain yang lebih kurang yang sama kan.
 
@@ -41,7 +41,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [05:54] Daniel: Iswadi mungkin? Tak eh?
 
-[05:56] Haziq Azfar: Iswadi bukan J-KOM eh?
+[05:56] Haziq: Iswadi bukan J-KOM eh?
 
 [05:57] Rafizi: Bukan. Tak ada. Iswadi jelah. Semua orang Sarawak.
 
@@ -51,11 +51,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [07:16] Daniel: Dia dia tahu, dia tahu. Saya yakin.
 
-[07:19] Haziq Azfar: Baik, baik, baik, baik. Dan dah monetize juga eh?
+[07:19] Haziq: Baik, baik, baik, baik. Dan dah monetize juga eh?
 
 [07:23] Daniel: Saya punya yalah. 100 lebih, takkanlah tidak.
 
-[07:28] Haziq Azfar: Jadi satu-satunya orang yang tak monetize ni adalah saudara Rafizi. Walaupun view dia banyak, tapi dia tak monetize.
+[07:28] Haziq: Jadi satu-satunya orang yang tak monetize ni adalah saudara Rafizi. Walaupun view dia banyak, tapi dia tak monetize.
 
 [07:34] Rafizi: Tulah. Patutnya aku kena monetise lah, rugilah.
 
@@ -73,7 +73,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [09:28] Daniel: Saya saya mati-mati saya ingat dah monetize. Saya jahat pula sebab saya menonton banyak dekat Facebook dia. Tapi saya tak pergi kat YouTube-nya. Jadi saya tak perasanlah benda tu kan. Adoi hai.
 
-[09:45] Haziq Azfar: Baik, baik.
+[09:45] Haziq: Baik, baik.
 
 [09:46] Daniel: Dekat Facebook macam mana? Dapat?
 
@@ -81,27 +81,27 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [09:50] Daniel: Facebook pun ada juga. Ada.
 
-[09:52] Haziq Azfar: Double.
+[09:52] Haziq: Double.
 
 [09:53] Rafizi: Okey okey okey. Ni duit banyak ni, duit banyak ni. Wang besar, wang besar. Nanti aku kena tengok balik semua.
 
 [10:02] Daniel: Dia dia kalau kita tengok benda ni dia macam ni. Dekat TikTok untuk iklanlah. Kan short video kan. Jadi kita tengok part-part yang mana yang kita cut kat situ untuk orang untuk kita nilah iklan kan. Dia orang tengok eh tak puas hatilah eh. Kena pergi cari channel dia kan. Macam tulah. So short video kena TikTok tu untuk iklan. Jadi tu.
 
-[10:23] Haziq Azfar: Okey. Baik, saudara Daniel Jani. Pempengaruh yang cukup hebatlah. Banyak soalan ni saya tengok.
+[10:23] Haziq: Okey. Baik, saudara Daniel Jani. Pempengaruh yang cukup hebatlah. Banyak soalan ni saya tengok.
 
 [10:30] Daniel: Sikit aje, sikit.
 
-[10:31] Haziq Azfar: Oh soalan dia sikit.
+[10:31] Haziq: Oh soalan dia sikit.
 
 [10:32] Rafizi: Jangan janganlah tanya aku aje. Tanya Daniel banyak-banyak.
 
 [10:35] Daniel: Boleh.
 
-[10:35] Haziq Azfar: Tapi dia kena start dulu lah YB.
+[10:35] Haziq: Tapi dia kena start dulu lah YB.
 
 [10:37] Rafizi: Okey. Sebab minggu lepas, dia kadang-kadang macam minggu lepas Zaim datang.
 
-[10:42] Haziq Azfar: Ya.
+[10:42] Haziq: Ya.
 
 [10:43] Rafizi: Zaim budak kan, dia nak bakar betul-betul kan. Jadi dia dia lagi banyak soalan daripada Aku pun bosan dengar aku bercakap.
 
@@ -109,19 +109,19 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [10:53] Rafizi: So hari ni Daniel datang jauh-jauh daripada Sarawak, so sepatutnya kita sama-sama tanya soalan.
 
-[10:58] Haziq Azfar: Kita sama-sama tanya dia. Takut ni.
+[10:58] Haziq: Kita sama-sama tanya dia. Takut ni.
 
 [11:00] Daniel: Tak ada. Saya tak bawa apa-apa. Keris tak bawa, terung asid tak bawa, ikan terubuk tak bawa kan.
 
-[11:09] Haziq Azfar: Tak apa, tak apa. Sila, okey.
+[11:09] Haziq: Tak apa, tak apa. Sila, okey.
 
 [11:12] Daniel: Tapi saya nak tanya, ini soalan panaslah, panas. Yang orang parti pun mungkin ada yang melompat lepas ni kalau dengar ni kan. Tak tahulah, tapi saya harap jangan melompatlah. Sebab...
 
-[11:24] Haziq Azfar: Cuma lupa YB. Sebelum tu kena make it clear lah bahawa apa ni satu penerangan yang panjang dan perbincangan yang khas berkaitan dengan Rancangan Malaysia Ke-13 kita akan adakan pada minggu depan. Kita akan jemput satu panel guest panelist yang sangat berkaliber. Jadi tunggulah eh.
+[11:24] Haziq: Cuma lupa YB. Sebelum tu kena make it clear lah bahawa apa ni satu penerangan yang panjang dan perbincangan yang khas berkaitan dengan Rancangan Malaysia Ke-13 kita akan adakan pada minggu depan. Kita akan jemput satu panel guest panelist yang sangat berkaliber. Jadi tunggulah eh.
 
 [11:45] Rafizi: Boleh sebut teruslah. Kan apa nama ni, yalah kita bincang dan kita buat keputusan, untuk RMK13 ni perlukan satu podcast sesi yang khusus dan sebaiknya ialah bukan orang politik dan dia perlulah seorang ahli ekonomi. Jadi saya dimaklumkan yang Dr. Muhammed Abdul Khalid akan akan tumpu mengupas mengenai RMK13. Jadi biar ahli parlimen bising dulu, buat kartun monyet dulu ke apa semua kan. Jadi insya-Allah minggu depanlah. Dan bagi dia masak dulu dan minggu depan itu juga bagi peluang kepada ahli panel, saya sendiri tengok reaksi untuk kita ulas dan mungkin simpulkan mengenai RMK13 minggu depan. Jadi Daniel hari ini boleh tumpu benda-benda panas lain selain daripada RMK13.
 
-[12:40] Haziq Azfar: Pertama saudara. Soalan panas pertama.
+[12:40] Haziq: Pertama saudara. Soalan panas pertama.
 
 [12:43] Daniel: Ya. Isu ni berkenaan dengan posting yang YB buat sendirilah. Yang yang Aku dah boleh agak dah. yang melibatkan isu Farhash lah. Kan? So sebab kenapa YB adalah walaupun dah letak jawatan sebagai menteri, dan masih lagi sebagai ahli parlimen untuk Parti Keadilan, dan juga masih ketua cabang untuk Pandan, kenapa tiba-tiba bila YB sebut isu Farhash, banyak yang melompat terlolong macam monyet macam kera dah kena belacan? Sedangkan Farhash itu pada sayalah, mungkin dia masih ahli PKR, tetapi bukan kepimpinan di pusat ataupun MPP, ataupun ketua cabang, ataupun di peringkat negeri dan sebagainya. Kenapa kenapa kenapa orang-orang ini pada melompat?
 
@@ -149,21 +149,21 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [31:35] Daniel: Ha kawasan itulah, Julau dia tu. Tapi macam Baru Bian, Baru Bian isu tanah tahu. Isu memang yang ni dia. Sebab tu saya selalu nilah, tapi saya ni memang dibencilah dekat Sarawak ni. Kalau YB Rafizi ni dibenci seluruh Malaysialah kan. Saya ni dibenci di Sarawaklah kan macam tu. Saya agak kecillah saya punya, tapi benda yang benda yang sama. Jadi saya nampaklah benda tu sebab kita sayang partilah sebab tu kita tegur kan, kalau tak sayang... Tapi itulah maksudnya ramai kalau orang yang menonton dan tak faham apa yang bising-bising pasal PKR, pemilihan pun dah habis, semua move on sebenarnya. Dia kerana yang selepas pemilihan yang lepas dengan segala perkara yang berlaku, sebenarnya dia mengubah keseluruhan inti parti, parti tau. Jati diri parti tu dah berubah sebenarnya kan. Jadi maksudnya segala taktik dan strategi yang sebelum ini memenangkan parti, sekarang perkara itu telah dilunturkan kerana dia ditukar dengan satu mantra baru iaitu kita berkuasa sekarang. Jadi bila kita telah tinggalkan kekuatan yang daripada pembangkang bawa kita jadi kerajaan, dan bila dah jadi kerajaan kita hanya nampak dan berstrategikan kuasa, perkara itu sangat berbahaya kerana satu ialah kuasa ini memabukkan dan kalau nak menang dengan bergantung kepada kuasa semata-mata, dia akan ada banyak risikolah. Penyelewengan, rasuah, dan buat benda-benda yang sama yang orang marah dululah. Keduanya ialah dari segi kekuatan dan kelangsungan parti untuk tempoh masa akan datang. PKR ini mewakili suara progresif dalam masyarakat. Ha kan? Jadi suara progresif ini, ada PKR ke, tak ada PKR ke, suara itu tetap ada. Daripada zaman 1950-an lagi, kumpulan progresif ini tetap ada. Tetapi untuk tempoh 20 tahun yang lepas, PKRlahlah yang menjadi wakil kepada suara progresif itu. Kalau PKR dari segi orang kata substansnya, dari segi perawakan dan penampilan dan seluruh jati dirinya dah telah jauh daripada progresif, maka pengundi yang progresif yang mengundi PKR ni lepas ini dia cari yang baru. Yang itu yang saya ingat orang-orang macam saya, Daniel, yang tua-tua ni kan, selalu bersyarah kerana sekarang ini bolehlah kita kata marilah kita rally around Dato' Seri Anwar Ibrahim semua untuk dua tiga tahun lagi bolehlah. Lepas itu? Bila yang itu dah tak ada, Dato' Seri Anwar dah tak ada, adakah itu bermakna PKR tutup kedai? Sedangkan parti ini sepatutnya perjuangannya itu mesti diangkat melangkaui masa, melangkaui individu tertentu kerana dia mewakili suara progresif dalam masyarakat.
 
-[35:02] Haziq Azfar: Baik. YB, YB cakap soal politik pragmatiklah tadi maksudnya...
+[35:02] Haziq: Baik. YB, YB cakap soal politik pragmatiklah tadi maksudnya...
 
 [35:06] Rafizi: Eh tak, itu bukan pragmatik tau. Politik pragmatik ni tebuk atap. Ni kena pergi kelas juga ni.
 
-[35:13] Haziq Azfar: Bukan, bukan itu maksud saya. Maksudnya ada orang yang bagi alasan eh, penyokong-penyokong amalan ini bagi alasan termasuklah yang saya nak kaitkan dengan soalan pertama tadi eh. Sebagai contohnya macam isu Farhash saudara. Yalah, mereka kata eh, kena ada Farhash sebab kalau tak ada apa peranan saudara Farhash ni, siapa yang nak menggantikan kroni-kroni Tun Mahathir? Itu itu dengan bangganya itulah alasan-alasan yang diberikan. Dan kedua, soal pembentukan kerajaan. Saudara Rafizi sendiri yang menentang khemah besar akhirnya selepas daripada tergantungnya parlimen pun endorse kerajaan perpaduan. Jadi bagaimana tu? Saya tanya saudaralah.
+[35:13] Haziq: Bukan, bukan itu maksud saya. Maksudnya ada orang yang bagi alasan eh, penyokong-penyokong amalan ini bagi alasan termasuklah yang saya nak kaitkan dengan soalan pertama tadi eh. Sebagai contohnya macam isu Farhash saudara. Yalah, mereka kata eh, kena ada Farhash sebab kalau tak ada apa peranan saudara Farhash ni, siapa yang nak menggantikan kroni-kroni Tun Mahathir? Itu itu dengan bangganya itulah alasan-alasan yang diberikan. Dan kedua, soal pembentukan kerajaan. Saudara Rafizi sendiri yang menentang khemah besar akhirnya selepas daripada tergantungnya parlimen pun endorse kerajaan perpaduan. Jadi bagaimana tu? Saya tanya saudaralah.
 
 [35:53] Rafizi: Dia ada dua soalan. Soalan pertama tu, keperluan ada kronilah maksudnya?
 
-[35:57] Haziq Azfar: Dia maksudnya itu adalah hujah atau justifikasi kepada amalan-amalan ini YB sebenarnya.
+[35:57] Haziq: Dia maksudnya itu adalah hujah atau justifikasi kepada amalan-amalan ini YB sebenarnya.
 
 [36:03] Daniel: Saya tak nampak benda tu kepada soalan yang kamu cakap tulah. Sebab dia bukanlah bukan bukan saya tak nampak soalan tu nak berkait macam itulah sebab sebab Farhash ni mungkin...
 
-[36:20] Haziq Azfar: Saya backup Farhash lah, itu...
+[36:20] Haziq: Saya backup Farhash lah, itu...
 
-[36:22] Daniel: Ya ya, okey okey. Sebab saya walaupun lantang, sebab kita tak boleh menuduh oranglah. Sebab YB Rafizi YB Rafizi Ramli sendiri pun tahu benda ni. Saya sendiri pun tahu, cuma kami tak nak benda tu kita nak orang kata macam menuduhlah. Macam tulah. Cuma kalau kita nak cerita pasal pasal Farhash ni tadi dalam isu yang apa yang soalannya kamu cakap itu tadi, saya nampak tidak begitulah. YB setuju tak dengan pandangan saya? Tidak dia tidak begitu kan dengan soalan itu yang dia maksudkan.
+[36:22] Daniel: Ya ya, okey okey. Sebab saya walaupun lantang, sebab kita tak boleh menuduh oranglah. Sebab YB Rafizi YB Rafizi sendiri pun tahu benda ni. Saya sendiri pun tahu, cuma kami tak nak benda tu kita nak orang kata macam menuduhlah. Macam tulah. Cuma kalau kita nak cerita pasal pasal Farhash ni tadi dalam isu yang apa yang soalannya kamu cakap itu tadi, saya nampak tidak begitulah. YB setuju tak dengan pandangan saya? Tidak dia tidak begitu kan dengan soalan itu yang dia maksudkan.
 
 [36:56] Rafizi: Dia tidak begitu maksudnya?
 
@@ -215,7 +215,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [55:21] Rafizi: Johor Bahru. Ini semua kerusi-kerusi hero tau. Jadi bayangkan keadaannya setelah kecoh pemilihan semua ni dan pintu buka jalan supaya dalam parti ni ada tekanan supaya mereka ini jangan diberi peluang, buang untuk bertanding, bawa masuk geng-geng ini semua, dia tak tentu akan boleh bawa kemenangan kan. Jadi selamat maju jaya kepada pengarah-pengarah pilihan raya yang akan datang untuk menentukan calon ni kerana persepsi rakyat itu akan cukup sensitif hasil daripada kesilapan yang telah berlaku semasa pemilihan yang lepas.
 
-[56:04] Haziq Azfar: Besar dia punya kesan sampai pilihan raya.
+[56:04] Haziq: Besar dia punya kesan sampai pilihan raya.
 
 [56:06] Daniel: Nak usik sikit ni pasal YB kata YB yang aturkan Dato' Seri Anwar Ibrahim untuk bertanding di...
 
@@ -233,7 +233,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [59:07] Rafizi: Jadi yang itu memang betullah. Memang saya yang maklumkan bahawa susah kita nak letak kekalkan dia di Melaka, di Hang Tuah Jaya. Kena bawa dia ke Perak dan itu melengkapkan sebahagian daripada strategi bahawa PKR ini mengambil risiko kerana kita hantar pimpinan kanan ke Peraklah. Termasuklah Dato' Seri Anwar, termasuklah apa nama ni Shamsul Iskandar.
 
-[59:32] Haziq Azfar: Cuma YB tadi cakap selepas ini untuk menghantar pimpinan kanan di kawasan-kawasan yang agak berisiko ni agak susah sedikit.
+[59:32] Haziq: Cuma YB tadi cakap selepas ini untuk menghantar pimpinan kanan di kawasan-kawasan yang agak berisiko ni agak susah sedikit.
 
 [59:40] Rafizi: Sebab sebahagian besar kerusi PKR sekarang ni tak selamat. Dalam keadaan contohnya kan, dalam keadaan kalau undi Melayu kepada PH sekitar 30% dan tanda-tanda itu tidak berubahlah. Maksudnya dalam beberapa siri pilihan raya kecil dan pilihan raya negeri yang lepas, kita lihat memang undi kepada PH lah, Melayu, tidak melepasi 30%. Sebabnya ialah walaupun bertanding dengan UMNO, pengundi UMNO bila PH lawan PN, dia undi PN. Dia tak undi PH. Kemudian tambah lagi dengan isu pengundi bukan Melayu, dia tak keluar. Jadi kadar keluar mengundi tu dalam 40 ke 50% kan. Jadi bila keadaan kalau keadaan ini kekal dan tidak ada tanda-tanda yang menunjukkan keadaan ini sedang berubah. Kalau apa-apa pun, saya bimbang lagi teruk daripada yang ada sekarang ni kan. So kalau kita ambil status quo pun, maksudnya pengundi Melayu tak melepasi 30%, pengundi Cina kehadiran dia dengan India tidak melepasi 60% lah dalam pilihan raya umum, majoriti kerusi PKR yang 30 sedia ada tu semua tak selamat. Yang selamat hanyalah Pandan, Subang, Bayan Baru, Gopeng, Selayang, JB lah. Itu pun kalau Akmal bertanding tau. Kalau bukan Akmal bertanding, dia ada isu tau. Sebab orang lupa sentimentality pengundi PH dengan Akmal. Sebab dia budak yang mengalahkan Tan Sri Shahrir Samad yang tak pernah kalah. Orang lupa sentimental itu tau kan. Jadi kalau kalau you dah kalahkan dia dekat dekat apa ni tak dekat cabang, you dah buat macam tu dekat cabang, kemudian you tak letak dia bertanding pula, orang JB akan kata, "Budak ni aku ingat masa dia mula-mula nak lawan Shahrir Samad pakai Kelisa lagi. Tiba-tiba dah bila menang dua penggal berturut-turut majoriti besar, kau nak campak dia?" Tak mudah tau. Dia samalah dengan sentimentality yang pengundi atas pagar yang duk kesian kat aku ni. Dia akan kata, "Aku ingat budak ni masa dia muda lagi dia duk kempen untuk Anwar, bebas Anwar, semua kan. 27 tahun kan? Masa tak ada apa. Tiba-tiba bila Anwar dah jadi perdana menteri, kau orang dah jadi kerajaan, kau campak dia macam tu aje." Jadi sentimen ini jangan main-main tau kan. Jadi dalam keadaan hanya mungkin ada 10 aje kerusi PKR yang selamat ni, kau ingat mudah ke nak nak nak alih nak letak semua ni?
 
@@ -267,15 +267,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:10:08] Daniel: Itu yang saya saya saya jadi macam macam macam tu tahu YB. Saya aduh, macam ini eh? Hampir-hampir nak nilah macam yalah kadang-kadang ya macam YB, YB dah sebab yalah kita ni tidak tidak bergantung dengan politik semata-mata tahu. Jadi saya kalau sebab tu saya kata, macam dia orang itu hari ada yang buat laporan buat tu dia orang buat laporan nak buat laporan disiplin kepada saya. Saya okey. Saya okey, tak ada masalah. Cuma adalah sedikit saya ugut waktu tu kan. Saya cakap aku bubar semua cabang aku kan. Aku punya. Dia cakap ugutlah kan. Saya Kenapa kata ugut? Memang betul saya yang buat. Wanita-wanita sekali aku bubar ni, aku cakap kan. Memang orang saya semua kan. Kau buatlah sendiri kan. Penat-penat kita buat kerja macam-macam. YB ah, 27 tahun duduk dalam parti, tiba-tiba orang Saya selalu meletakkan diri saya dekat situ tahu, D. Ini Rafizi macam ni aje, sori eh sebut nama, macam ni aje orang tolak. Lah, ini kan saya. Ikan bilis ni. Menjadi ketakutan orang dengan parti kita sekarang tahu. Orang nak nak join parti kita, nak jadi kepimpinan, mana dia orang yang bagus-bagus pemimpin. Tapi sebenarnya bukan hanya parti kitalah, dalam UMNO ke, PAS ke, semua benda macam ni ah. Tapi dalam alaf baru nilah, dalam orang kata keadaan yang ada hari ini lah, orang nampak parti kita tahu. Itu yang masalahnya. Kalau kalau kalau kalau orang yang memang lihat politik ni memang bukan parti kita aje. UMNO macam tu, PAS tu macam tu sampai pecah jadi Amanah kan. Macam tu.
 
-[1:11:41] Haziq Azfar: Jadi saudara cakap yalah ada banyak apa luahan hati apa semua, adakah sebenarnya beyond repair parti, masalah parti sekarang?
+[1:11:41] Haziq: Jadi saudara cakap yalah ada banyak apa luahan hati apa semua, adakah sebenarnya beyond repair parti, masalah parti sekarang?
 
 [1:11:52] Daniel: Macam mana tadi tu?
 
-[1:11:53] Haziq Azfar: Dia beyond repair ke ataupun masih lagi ada cara untuk kita kembali ke pangkal jalan ke?
+[1:11:53] Haziq: Dia beyond repair ke ataupun masih lagi ada cara untuk kita kembali ke pangkal jalan ke?
 
 [1:11:59] Daniel: Kalau kalau menurut sayalah ya, bolehlah tetapi orang yang tolong-tolong buka pintu ni dan orang yang nak masuk tu pun terlalu ramai daripada orang yang nak me-repair tu. Contohnya macam saya yang yang yang kepimpinan yang ada di peringkat negerilah, dan YB sendiri di peringkat tertinggi. Kalau setakat saya, YB, lepas tu adalah lagi dua tiga orang ke yang lain-lain tu bukan tak ada kekuatan untuk untuk nak nak ni. Macam daripada walaupun sebahagian lagi team YB sendiri di peringkat atas contohnya macam Akmal, macam MB Negeri Sembilan, ataupun ya Rodziah semua tu kan. Dia dia tapi tak tak cukup.
 
-[1:12:44] Haziq Azfar: Tak cukup.
+[1:12:44] Haziq: Tak cukup.
 
 [1:12:45] Daniel: Tak cukup. Sebab benda ni kecuali boleh kita balance kan, waktu kita boleh balance kan tu waktu YB tu sendiri jadi timbalan. Tapi bila dah tak jadi timbalan, Macam mana macam mana nak repair? Tak boleh repair. Dia dia sekarang ni sedang masuk buka Dulu 50-50 ataupun 40 disebabkan YB Rafizi, 60 mereka boleh masuk. Sekarang bukan 40-60. Sekarang ni sudah pergi 95.
 
@@ -295,7 +295,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:18:13] Daniel: nakkan satu perubahan itu kan? Ha tu. Tulah. Tu sajalah. Jadi nak sambung lain lagi, saya dah tak mahu masuk parti nilah. Saya nak sambung pergi isu Sarawaklah.
 
-[1:18:26] Haziq Azfar: Okey. Okey, soalan baru.
+[1:18:26] Haziq: Okey. Okey, soalan baru.
 
 [1:18:27] Daniel: Saya rasa YB tahu isu Petros dengan Petronas ni. Yang lebih yalah, hari tu ada YB sebut benda ni, tetapi dia lebih kepada menjawab soalan untuk orang PAS sajalah. Sebab benda ni kenapa saya nak sebut, sebab orang Sarawak sendiri pun banyak yang masih tak faham. Mungkin sebahagian termasuk sayalah. Sebagai YB dah pernah jadi Menteri Ekonomi tu, mungkin sedikit sebanyak tahu kan. Dia macam mana ceritanya?
 
@@ -365,7 +365,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:44:42] Rafizi: Dia dia apa nama ni masa pelancaran hari tu pun kan, kita ada juga ramai yang daripada memang NGO besar. Contohnya yang saya ingat Abang Shah tu, dia daripada Shah Alam, dia memang sudah bergiat aktif dengan Persatuan Kanser Malaysia. Masalahnya ialah oleh kerana undang-undang sekarang ni perusahaan sosial ni tak tak tak wujud sangat di Malaysia, jadi dia terpaksa bergerak sebagai NGO. So bila dia bergerak sebagai NGO, dia memang tak boleh buat bisnes. Jadi bila ada perusahaan sosial ni, dia macam membuka pintulah kepada banyak NGO-NGO yang genuine ni. Cuma dari segi technicality dan juga legality nya, kita kena set up satu perjanjian, rakan kongsi, NGO tu contohnya sama ada dia kena buka enterprise untuk untuk menjadi vehicle pelaburan dia, dia sumbangkan. Yang itu I think we go through on case by case basis. Tapi that's the beauty of social enterprise lah. Sebenarnya dia oleh kerana dia tidak tertakluk kepada undang-undang NGO, undang-undang persatuan, jadi dia memang betul-betul boleh buat bisnes. Cuma di peringkat Ayuh Malaysia, kita nak elakkan scammer. Jadi sebab itu kita kena check satu-satu. Jadi sebenarnya yang yang kami tak cukup tangan lepas dua tiga hari ni ialah kerana dekat website tu dah ramai yang hantar segala jenis benda. Jadi maksudnya cadangan, dia nak tampil ke depan. Jadi kami akan ambil proses itu untuk nilai satu, the due diligence, tapis. The due diligence, tapisan tu kena betul-betul sebab ada orang mungkin dia berminat, tapi kalau aku tengok kita dah go through proses, sit down, and then kita semak, aku rasa dia ni memang tak boleh buat bisnes. Tak bolehlah. Jadi sebab nanti ada orang kena letak duit, benda tu tak jalan, dan sebagainya kan. So I think tapi tapi untuk pedalaman memang memang perusahaan sosial sepatutnyalah lebih mudah untuk. Sebab kalau nak harap pelabur, siapa nak pergi kat pedalaman ni? Kan? Kalau nak harap pelabur kan. Jadi orang yang nak letak duit untuk mem- mewujudkan peluang pekerjaan walaupun kecil-kecilan di pedalaman, hanyalah orang yang nak menyumbang dan dia tidak bermotifkan untuk kaya, untuk dapat keuntungan. Dia motif dia tu dia nak berjasa dan membantu komuniti dia sendirilah kan.
 
-[1:47:24] Haziq Azfar: Bro nak buat apa bro kat Sarawak? Social enterprise ni? Paling sesuailah pedalaman.
+[1:47:24] Haziq: Bro nak buat apa bro kat Sarawak? Social enterprise ni? Paling sesuailah pedalaman.
 
 [1:47:29] Daniel: Saya tak tahu.
 
@@ -465,15 +465,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:06:27] Daniel: Okey.
 
-[2:06:28] Haziq Azfar: Terima kasih banyak saudara Daniel. Terbang jauh dari Mas Gading. Kita jumpa lagi.
+[2:06:28] Haziq: Terima kasih banyak saudara Daniel. Terbang jauh dari Mas Gading. Kita jumpa lagi.
 
 [2:06:34] Daniel: Sarawak Sarawak jangan. Mas Gading nanti orang tanya.
 
-[2:06:38] Haziq Azfar: Okey Mas Gading, Sarawak. Baik.
+[2:06:38] Haziq: Okey Mas Gading, Sarawak. Baik.
 
 [2:06:39] Rafizi: Dekat Ba'kelalan.
 
-[2:06:42] Haziq Azfar: Baik, itu saja. 2 jam yang produktif. Kita jumpa lagi minggu hadapan dengan kupasan yang lebih mendalam berkaitan Rancangan Malaysia Ke-13. Sekian saja, selamat malam. Kami nak tidur dulu.
+[2:06:42] Haziq: Baik, itu saja. 2 jam yang produktif. Kita jumpa lagi minggu hadapan dengan kupasan yang lebih mendalam berkaitan Rancangan Malaysia Ke-13. Sekian saja, selamat malam. Kami nak tidur dulu.
 
 [2:06:58] [Outro music / animation]
 

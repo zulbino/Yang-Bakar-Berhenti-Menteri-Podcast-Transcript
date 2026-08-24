@@ -30,7 +30,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 322s, 12/12 caption samples matched)
   - models: raw.md=gemini-3.7-flash
 - [ ] **2025-11-28-ep24-shamsul-iskandar-vs-albert-tei-bencana-banjir-izzah-mb-selan**
-  - raw.md has a 22798-char block with no paragraph breaks (wall-of-text)
+  - raw.md has a 22792-char block with no paragraph breaks (wall-of-text)
   - interview.md looks truncated (ratio 0.11 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.11 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.11 vs raw.md, expected >= 0.35)
@@ -44,18 +44,18 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 696s, 8/12 caption samples matched)
   - models: raw.md=gemini-3.5-flash
 - [ ] **2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-**
-  - interview.md looks truncated (ratio 0.15 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.15 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.15 vs raw.md, expected >= 0.35)
+  - interview.md looks truncated (ratio 0.16 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.16 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.16 vs raw.md, expected >= 0.35)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 727s, 4/12 caption samples matched)
 - [ ] **2025-12-26-ep28-episod-terakhir-2025-10-perkara-yang-kita-tak-boleh-buat-bua**
   - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
-  - interview.md claims language: mixed but reads as English-only (Malay-marker density 0.38/1000 chars, expected >= 1.0)
+  - interview.md claims language: mixed but reads as English-only (Malay-marker density 0.40/1000 chars, expected >= 1.0)
   - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 718s, 2/12 caption samples matched)
 - [ ] **2026-01-02-ep29-1mdb-parut-negara-umno-retak-pn-bergoncang-ybm-29**
-  - raw.md has 7 duplicate block(s) repeated verbatim at different timestamps (20510 chars, 26% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
+  - raw.md has 7 duplicate block(s) repeated verbatim at different timestamps (20468 chars, 27% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 1092s, 9/12 caption samples matched)
 - [ ] **2026-01-09-ep30-2026-tahun-reformasi-akar-umbi-umno-bersuara-atm-di-serang-y**
   - interview.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
@@ -71,7 +71,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 468s, 10/12 caption samples matched)
   - models: raw.md=gemini-3.7-flash
 - [ ] **2026-02-06-ep34-pilihanraya-datuk-bandar-kl-kos-bina-1-bilik-darjah-tapisan-**
-  - raw.md has 19 duplicate block(s) repeated verbatim at different timestamps (36271 chars, 25% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
+  - raw.md has 19 duplicate block(s) repeated verbatim at different timestamps (36157 chars, 26% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 555s, 5/12 caption samples matched)
 - [ ] **2026-02-13-ep35-pendedahan-bloomberg-berkaitan-azam-baki-isu-rumah-ibadat-ra**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 575s, 7/12 caption samples matched)
@@ -89,7 +89,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 454s, 6/12 caption samples matched)
   - models: raw.md=gemini-3.6-flash
 - [ ] **2026-03-06-ep38-sprm-cari-james-chai-tangan-tangan-ghaib-berkaitan-zionis-yb**
-  - interview.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
+  - interview.md looks truncated (ratio 0.28 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.24 vs raw.md, expected >= 0.35)
 - [ ] **2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak**
@@ -171,7 +171,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 337s, 9/12 caption samples matched)
   - models: raw.md=gemini-3.7-flash
 - [ ] **2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y**
-  - raw.md has a 140698-char block with no paragraph breaks (wall-of-text)
+  - raw.md has a 140692-char block with no paragraph breaks (wall-of-text)
   - raw.md has a repetition-loop degeneration (139628 chars repeating ' Jadi, bila kita kata, "Kita ni sangat baik, kita ni dah oke'...) -- model got stuck re-emitting the same short phrase
   - missing interview.md
   - missing interview-en.md
@@ -189,7 +189,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - models: raw.md=gemini-3.5-flash
 - [ ] **2026-07-24-ep56-isu-pelaburan-efishery-lama-mana-kerajaan-madani-akan-bertah**
   - raw.md produced by weaker fallback model gemini-flash-lite-latest -- verify content quality closely
-  - interview-ms.md looks truncated (ratio 0.31 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.30 vs raw.md, expected >= 0.35)
   - models: raw.md=gemini-flash-lite-latest
 - [ ] **2026-07-31-ep57-laporan-rci-tabung-haji-ybm-57**
   - interview.md looks truncated (ratio 0.21 vs raw.md, expected >= 0.35)

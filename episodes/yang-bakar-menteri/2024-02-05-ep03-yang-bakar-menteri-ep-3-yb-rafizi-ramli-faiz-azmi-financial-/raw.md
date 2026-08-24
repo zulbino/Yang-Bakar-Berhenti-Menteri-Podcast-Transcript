@@ -16,7 +16,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [music]
 
-[04:41] Host: Assalamualaikum warahmatullahi wabarakatuh. Kita ke rancangan Yang Bakar Menteri Podcast yang kira panas. Kita bersiaran dua minggu sekali. Malam ini macam biasa kita ada YB Rafizi Ramli. Apa khabar YB?
+[04:41] Host: Assalamualaikum warahmatullahi wabarakatuh. Kita ke rancangan Yang Bakar Menteri Podcast yang kira panas. Kita bersiaran dua minggu sekali. Malam ini macam biasa kita ada YB Rafizi. Apa khabar YB?
 
 [04:57] YB Rafizi: Aku sakit kaki.
 
@@ -140,7 +140,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:30:45] YB Rafizi: Terima kasih kepada Faiz sebab sudi datang malam ini. I think conversation macam ni bagus sebab kita boleh perincikan perkara-perkara yang kadang-kadang orang nampak dari luar macam mudah, tapi bila diterangkan dari segi mekanisme dan kekangan undang-undang/dasar, orang boleh faham kenapa sesuatu keputusan itu dibuat.
 
-[1:31:15] Host: Terima kasih kepada YB Rafizi Ramli dan Saudara Faiz daripada Financial Faiz. Terima kasih juga kepada semua penonton yang menyaksikan Yang Bakar Menteri Podcast malam ini. Kita jumpa lagi 2 minggu dari sekarang. Assalamualaikum warahmatullahi wabarakatuh. Bye bye.
+[1:31:15] Host: Terima kasih kepada YB Rafizi dan Saudara Faiz daripada Financial Faiz. Terima kasih juga kepada semua penonton yang menyaksikan Yang Bakar Menteri Podcast malam ini. Kita jumpa lagi 2 minggu dari sekarang. Assalamualaikum warahmatullahi wabarakatuh. Bye bye.
 
 [1:31:45] [music]
 

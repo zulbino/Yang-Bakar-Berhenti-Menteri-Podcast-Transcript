@@ -8,7 +8,7 @@ duration_seconds: 7033
 duration: 1h 57m
 view_count: 71607
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Host
 guests:
 - Faizal Rahman
@@ -30,23 +30,23 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Host:** Bismillahirrahmanirrahim. Assalamualaikum dan selamat datang ke podcast *Yang Berhenti Menteri* episod ketiga. Bersama kita hari ini ialah YB Rafizi Ramli, speaker tetap kita, dan juga speaker jemputan kita, Tuan Faizal Rahman. Apa khabar, Tuan?
+**Host:** Bismillahirrahmanirrahim. Assalamualaikum dan selamat datang ke podcast *Yang Berhenti Menteri* episod ketiga. Bersama kita hari ini ialah YB Rafizi, speaker tetap kita, dan juga speaker jemputan kita, Tuan Faizal Rahman. Apa khabar, Tuan?
 
-**Rafizi Ramli:** Anda panggil dia Tuan? Macam mana saya nak panggil dia? Feudal? Saudara Faizal atau Abang... Saya tak pernah jumpa dia sebelum ini, walaupun kami selalu berbalas mesej. Anda ingat anda berada di mahkamah ke, Tuan?
+**Rafizi:** Anda panggil dia Tuan? Macam mana saya nak panggil dia? Feudal? Saudara Faizal atau Abang... Saya tak pernah jumpa dia sebelum ini, walaupun kami selalu berbalas mesej. Anda ingat anda berada di mahkamah ke, Tuan?
 
 **Faizal Rahman:** Saudara Faizal dah lama beramal (practice).
 
-**Rafizi Ramli:** Berapa lama?
+**Rafizi:** Berapa lama?
 
 **Faizal Rahman:** Ya, saya berumur 18 tahun masa saya bermula. Saya buat kedua-dua litigasi jenayah dan sivil.
 
 **Host:** Dan untuk YB Raf, bila kali terakhir YB berjumpa Faizal?
 
-**Rafizi Ramli:** Saya tak ingat. Saya rasa 10 tahun lepas. Kali terakhir saya kena tangkap adalah pada 2016 atau 2017.
+**Rafizi:** Saya tak ingat. Saya rasa 10 tahun lepas. Kali terakhir saya kena tangkap adalah pada 2016 atau 2017.
 
 **Host:** Kita bertuah kerana ada Faizal hari ini. Saya mahu tanya terus, tapi saya mulakan dengan YB dahulu. Isunya ialah ramai bimbang tentang pesaraan Ketua Hakim Negara baru-baru ini. Jadi, orang dekat jalan-jalan ini bertanya: kalau Ketua Pesuruhjaya SPRM, Tan Sri Azam Baki pun boleh dapat lanjutan (extension), kenapa tidak Ketua Hakim Negara?
 
-**Rafizi Ramli:** Itu kena tanya PM. Masalah utamanya ialah kerana di mata rakyat, perkara itu nampak mudah. Kita kena tengok di mata rakyat, di mata peguam, dan di mata golongan inteligensia yang membaca lebih dalam. Kalau contohnya ada hakim-hakim Mahkamah Persekutuan yang lain—saya ingat ada empat orang—yang telah pun diberikan lanjutan perkhidmatan secara automatik selama 6 bulan.
+**Rafizi:** Itu kena tanya PM. Masalah utamanya ialah kerana di mata rakyat, perkara itu nampak mudah. Kita kena tengok di mata rakyat, di mata peguam, dan di mata golongan inteligensia yang membaca lebih dalam. Kalau contohnya ada hakim-hakim Mahkamah Persekutuan yang lain—saya ingat ada empat orang—yang telah pun diberikan lanjutan perkhidmatan secara automatik selama 6 bulan.
 
 Dalam situasi di mana kita kekurangan hakim Mahkamah Agung, dalam situasi di mana rekod Tun Tengku Maimun adalah baik, dalam situasi di mana kita akan mengalami kekurangan disebabkan ketiadaan jawatan Hakim Besar Negeri dan Presiden Mahkamah Agung, maka dalam banyak kes, ia akan menjadi undang-undang yang buruk. Tentulah rakyat biasa akan pelik, eh kenapa pula tidak diberikan lanjutan perkhidmatan?
 
@@ -76,7 +76,7 @@ Dalam keadaan macam itu, macam mana fungsi sistem kehakiman akan berjalan? Dalam
 
 Bila perkara ini berlaku terhadap Ketua Hakim Negara, ia dilaporkan sebagai *unprecedented* (belum pernah berlaku). Maknanya itu amalan yang tidak pernah berlaku sebelum ini. Kena faham bila fungsi mahkamah tidak berjalan menurut perlembagaan, ia tidak akan berfungsi sebagaimana sepatutnya. Ia adalah satu fungsi penting dalam pentadbiran negara. Ada netizen kata, "Saya tak tahu sebab ia tak ada kena-mengena dengan saya." Respons saya ialah, orang awam hanya akan perasan bila mereka sendiri secara tiba-tiba terjebak atau disaman. Bila berlaku percaturan yang kita bimbangkan ini, yang akan menjadi mangsa adalah orang politik juga. Kita pernah menjadi mangsa sebelum ini. Jadi bila perkara ini kabur, netizen hanya akan sedar bila mereka terjebak.
 
-**Rafizi Ramli:** Saya nak sambung sikit. Ia memang satu isu yang susah kerana rakyat biasa dan netizen berfikir pasal benda yang dihadapi tiap-tiap hari—harga barang, kesesakan jalan raya, atau apa yang berlaku di X (Twitter). Kita rasa mahkamah ni tak ada kena-mengena dengan kita.
+**Rafizi:** Saya nak sambung sikit. Ia memang satu isu yang susah kerana rakyat biasa dan netizen berfikir pasal benda yang dihadapi tiap-tiap hari—harga barang, kesesakan jalan raya, atau apa yang berlaku di X (Twitter). Kita rasa mahkamah ni tak ada kena-mengena dengan kita.
 
 Sebab itu aku selalu kata kita kena ada pendidikan kewarganegaraan atau sivik. Ia bermula daripada kefahaman bahawa negara ini ada tiga cabang. Dan cabang ini tidaklah lebih rendah atau lebih tinggi daripada mana-mana cabang lain. Institusi kita ditulis sedemikian rupa sebagai imbangan dan jaminan supaya tidak ada cabang yang boleh mencampuri hak rakyat biasa.
 
@@ -100,7 +100,7 @@ Bayangkan, setahun lepas sudah ada kekosongan. Sekarang kita tidak ada Ketua Hak
 
 Ini bukan satu rahsia lagi. Semua orang mengatakan ada calon pilihan kerajaan yang sedang dicatur naik. Dalam bidang undang-undang, ramai orang menyebut nama beliau kerana ia bukan lagi rahsia. Kita rasa sekali lagi ada konflik dan reformasi yang dijanjikan tidak berlaku.
 
-**Rafizi Ramli:** Saya rasa Faizal masih "mengambil langkah selamat" (playing safe). Dia peguam, dia takut menghina mahkamah (*contempt of court*). Tak apa, biar aku cuba. Benda ni adalah rahsia terbuka. Faktanya begini: ada seorang Hakim Mahkamah Persekutuan sekarang yang telah dilantik secara "ekspres" daripada jawatan sebelum ini sebagai Peguam Negara terus kepada Hakim Mahkamah Persekutuan. Beliau hanya pernah menjadi hakim di Mahkamah Sesyen sahaja selama kira-kira 3 tahun.
+**Rafizi:** Saya rasa Faizal masih "mengambil langkah selamat" (playing safe). Dia peguam, dia takut menghina mahkamah (*contempt of court*). Tak apa, biar aku cuba. Benda ni adalah rahsia terbuka. Faktanya begini: ada seorang Hakim Mahkamah Persekutuan sekarang yang telah dilantik secara "ekspres" daripada jawatan sebelum ini sebagai Peguam Negara terus kepada Hakim Mahkamah Persekutuan. Beliau hanya pernah menjadi hakim di Mahkamah Sesyen sahaja selama kira-kira 3 tahun.
 
 Pengamal guaman tahu ini adalah sebahagian daripada perancangan. Desas-desus di luar ialah beliau akan dilantik menjadi Hakim Besar Malaya dan seterusnya Ketua Hakim Negara dalam tempoh yang singkat. Kebimbangan ini berkaitan soal moral dan kesannya kepada institusi. Seorang hakim yang dihormati diadili daripada penghakiman (*judgment*) yang ditulisnya. Bagaimana seorang yang tidak pernah menjadi Hakim Mahkamah Tinggi atau Mahkamah Rayuan, dan setakat ini baru ada satu penghakiman, boleh dilatih (groomed) untuk mengetuai institusi kehakiman?
 
@@ -112,7 +112,7 @@ Ini bukan lagi soal "lanjutan 6 bulan." Ini soal integriti institusi. Saya melal
 
 **Host:** Bercakap tentang percaturan, saya ada satu lagi isu: percaturan RMK-13. Saya baca komen di posting YB, ada yang kata, "Biasalah YB, bila ada orang baru, dia ada cara dan pendekatan sendiri." Kenapa perkara ini tidak semudah itu, YB?
 
-**Rafizi Ramli:** Yelah, kalau kita bercakap pasal karipap bolehlah tukar menu dalam dua minggu. Isunya ialah Rancangan Malaysia Lima Tahun ini ialah rancangan jangka panjang yang melihat keseluruhan struktur negara—politik, ekonomi, pendidikan, dan sosial. Kerana ia adalah projek terbesar di negara ini, proses memahami isu dan membina matlamat adalah panjang.
+**Rafizi:** Yelah, kalau kita bercakap pasal karipap bolehlah tukar menu dalam dua minggu. Isunya ialah Rancangan Malaysia Lima Tahun ini ialah rancangan jangka panjang yang melihat keseluruhan struktur negara—politik, ekonomi, pendidikan, dan sosial. Kerana ia adalah projek terbesar di negara ini, proses memahami isu dan membina matlamat adalah panjang.
 
 Ia bermula dengan proses dari bawah ke atas (*bottom-up*). Kementerian Ekonomi mengendalikan bengkel untuk diagnosis. Kami bukan sahaja dengar cakap ketua kementerian, tapi kami duduk dengan cikgu, dengan ibu bapa, dan pemegang taruh. Itu yang mengambil masa lama untuk kita tapis dan olah.
 
@@ -122,7 +122,7 @@ Sebab itu saya persoalkan, dalam tempoh dua minggu, bolehkah ia dibuat dengan ba
 
 **Host:** Maksudnya RMK-13 itu sebenarnya sudah sedia untuk dibentangkan pada Jun 2025?
 
-**Rafizi Ramli:** Pembentangan terakhir kepada Jemaah Menteri ialah pada Februari 2025. Masa itu kementerian diberi peluang untuk beri maklum balas jika ada yang tidak setuju. Kementerian Pendidikan paling banyak tak setuju. Jadi pada Mac dan April, kita lalui proses penyelarasan (harmonisasi) yang dipimpin oleh Perdana Menteri sendiri. Sudah ada konsensus.
+**Rafizi:** Pembentangan terakhir kepada Jemaah Menteri ialah pada Februari 2025. Masa itu kementerian diberi peluang untuk beri maklum balas jika ada yang tidak setuju. Kementerian Pendidikan paling banyak tak setuju. Jadi pada Mac dan April, kita lalui proses penyelarasan (harmonisasi) yang dipimpin oleh Perdana Menteri sendiri. Sudah ada konsensus.
 
 Tiba-tiba timbul pandangan kita kena tunggu angka terbaru suku kedua 2025. Saya kata, Rancangan Malaysia ini rancangan 5 tahun, ia tengok aliran keseluruhan (*overall trend*), bukan sensitif sangat dengan angka satu suku tahun. Kita cuma nak tahu bajet pembangunan itu sekitar RM400 bilion atau RM450 bilion untuk 5 tahun. Tapi keputusan dibuat untuk tangguh ke akhir Julai. Masa itu belum ada rombakan lagi.
 
@@ -134,15 +134,15 @@ Kebimbangan saya ialah dokumen RMK-13 ini tidak mendapat perhatian sewajarnya da
 
 **Faizal Rahman:** Tapi bukankah lebih senang untuk orang di atas bila rakyat tak ambil peduli? Mereka boleh terus mencatur.
 
-**Rafizi Ramli:** Tak juga. Kekuatan Kerajaan Perpaduan sekarang ialah kemahiran mentadbir. Malah penyokong PN pun mungkin akui PH lebih mahir bab pentadbiran. Jadi untuk dapat sokongan rakyat, dokumen ini penting untuk meyakinkan mereka tentang reformasi seterusnya. Kalau tumpuan hanya kepada isu politik PN, kerajaan yang rugi.
+**Rafizi:** Tak juga. Kekuatan Kerajaan Perpaduan sekarang ialah kemahiran mentadbir. Malah penyokong PN pun mungkin akui PH lebih mahir bab pentadbiran. Jadi untuk dapat sokongan rakyat, dokumen ini penting untuk meyakinkan mereka tentang reformasi seterusnya. Kalau tumpuan hanya kepada isu politik PN, kerajaan yang rugi.
 
 **Host:** RMK adalah *bisnes teras* Kementerian Ekonomi. Tapi ada satu lagi isu yang orang tanya: PADU. Orang nak tahu dari segi pelaksanaan dan kebolehlaksanaan (*feasibility*), ia di peringkat mana sekarang?
 
-**Rafizi Ramli:** PADU ni dah siap sebenarnya. Rancangan awal dia begini...
+**Rafizi:** PADU ni dah siap sebenarnya. Rancangan awal dia begini...
 
 **Interviewer:** Sejak awal lagi, kita sudah tahu beberapa perkara mengenai cara kerajaan mengendalikan sistemnya. Apakah pertimbangan utama apabila anda mula-mula melihat perkara ini?
 
-**Rafizi Ramli:** Pertama, kita tahu bahawa kerajaan membelanjakan jumlah yang besar untuk membangunkan sistem. Kerajaan membelanjakan RM12-13 bilion untuk membangunkan sistem IT. Ia sangat mahal. Setiap agensi mahu membina sistem IT sendiri; terdapat sistem IT di mana-mana. Saya tahu kerana sebagai Menteri Ekonomi, setiap permohonan untuk sistem IT mesti sampai ke Kementerian Ekonomi, dan akhirnya, saya yang akan melaksanakannya dalam proses bajet.
+**Rafizi:** Pertama, kita tahu bahawa kerajaan membelanjakan jumlah yang besar untuk membangunkan sistem. Kerajaan membelanjakan RM12-13 bilion untuk membangunkan sistem IT. Ia sangat mahal. Setiap agensi mahu membina sistem IT sendiri; terdapat sistem IT di mana-mana. Saya tahu kerana sebagai Menteri Ekonomi, setiap permohonan untuk sistem IT mesti sampai ke Kementerian Ekonomi, dan akhirnya, saya yang akan melaksanakannya dalam proses bajet.
 
 13 bilion antara belanja pembangunan dan belanja mengurus ini besar dan dia terus bertambah dari satu tahun ke satu tahun. Salah satu sebabnya ialah kerana setiap sistem itu dibangunkan secara terasing (silo). Kementerian atau agensi mahu melakukannya, dan mereka akan melakukannya dari A hingga Z—daripada spesifikasi dan pangkalan data belakang (*back-end*) sehinggalah ke bahagian hadapan (*front-end*). Kemudian rakyat perlu mengisi semula semua maklumat di situ, kata laluan dan segala-galanya. Kemudian mereka ada aplikasi mereka sendiri. Mari buat agensi kedua; mereka juga melakukannya. Ia sama juga untuk agensi ketiga. Sementara itu, rakyat Malaysia yang perlu mengendalikan semua itu sangat ramai jumlahnya.
 
@@ -150,7 +150,7 @@ Maklumat pula memang ada di semua jabatan-jabatan kerajaan. Jabatan Pendaftaran 
 
 **Interviewer:** Jadi bagaimana ini diterjemahkan ke dalam keperluan dasar, khususnya mengenai subsidi?
 
-**Rafizi Ramli:** Kita juga ada keperluan-keperluan lain. Contohnya, kita perlu melaraskan semula subsidi—menyasarkan semula subsidi supaya hanya keluarga yang layak berada di dalam kategori pendapatan dan perbelanjaan isi rumah yang tertentu yang layak mendapat subsidi, manakala yang lain tak dapat.
+**Rafizi:** Kita juga ada keperluan-keperluan lain. Contohnya, kita perlu melaraskan semula subsidi—menyasarkan semula subsidi supaya hanya keluarga yang layak berada di dalam kategori pendapatan dan perbelanjaan isi rumah yang tertentu yang layak mendapat subsidi, manakala yang lain tak dapat.
 
 Daripada konsep subsidi yang besar, kita boleh membangunkannya bukan sahaja untuk isu petrol RON95, tetapi kita juga boleh menggunakannya untuk semua bantuan lain—program sosial, sekolah, PTPTN, semuanya—apabila kita mempunyai maklumat mengenai keadaan sosio-ekonomi di rumah. Kemudian kita juga mempunyai masalah mempunyai terlalu banyak aplikasi. Orang buat aplikasi, mereka lupa mendaftar, dan sebagainya. Jadi, sepatutnya kita hanya mempunyai satu aplikasi kerajaan. Masuk ke sana, semua orang boleh melakukan segala-galanya di situ. Jika ada satu pangkalan data bersepadu, ia akan memudahkan banyak perkara untuk dilakukan.
 
@@ -158,7 +158,7 @@ Demi ekonomi negara dan untuk meningkatkan kecekapan penyampaian kerajaan, kita 
 
 **Interviewer:** Melancarkan PADU menjelang 1 Januari 2024, nampaknya seperti tempoh masa yang sangat suntuk. Bagaimanakah ia diuruskan?
 
-**Rafizi Ramli:** Kementerian Ekonomi pun rasa, "Alamak, kerajaan nak buat ni dalam tempoh 6 bulan lagi." Dah nak kena lancar 1 Januari 2024 sebab perancangan awalnya ialah kegunaan pertama, kegunaan pertama PADU adalah untuk penyasaran subsidi. Itu dijangka akan dilakukan dalam tempoh tersebut—awal tahun 2024. Jadi kami melakukannya.
+**Rafizi:** Kementerian Ekonomi pun rasa, "Alamak, kerajaan nak buat ni dalam tempoh 6 bulan lagi." Dah nak kena lancar 1 Januari 2024 sebab perancangan awalnya ialah kegunaan pertama, kegunaan pertama PADU adalah untuk penyasaran subsidi. Itu dijangka akan dilakukan dalam tempoh tersebut—awal tahun 2024. Jadi kami melakukannya.
 
 Dalam tempoh enam bulan tersebut, kami menggunakan dana kerajaan. Kami tidak menggunakan perunding luar. Orang kata kami guna RM85 juta, tapi apa yang saya ingat sebenarnya adalah kurang dari 20 juta lebih. Dan daripada 20 juta lebih itu, kos IT-nya tak sampai 10 juta pun. Dan itu pun hanya untuk pelayan (server) dan juga yang banyaknya nak kena bayar kepada penyedia e-KYC dan API.
 
@@ -168,7 +168,7 @@ Jadi, apabila kita mahu bergerak, kita mengambil kontrak pelajar universiti seba
 
 **Interviewer:** Apakah hasil daripada kempen pendaftaran tersebut?
 
-**Rafizi Ramli:** Ia berjaya dibuat menjelang akhir suku pertama 2024. Kita dapat pendaftaran rakyat sebanyak 21 juta daripada lebih kurang 30 juta rakyat Malaysia. Itu lebih kurang dekat 70% rakyat ada di dalam itu, dan ia merangkumi hampir 12 juta rumah. Jika anda bertanya ahli ekonomi lain, PADU ialah salah satu sumber data negara terbesar dalam kerajaan. Yang terbesar ialah Jabatan Perangkaan (DOSM), kemudian PADU.
+**Rafizi:** Ia berjaya dibuat menjelang akhir suku pertama 2024. Kita dapat pendaftaran rakyat sebanyak 21 juta daripada lebih kurang 30 juta rakyat Malaysia. Itu lebih kurang dekat 70% rakyat ada di dalam itu, dan ia merangkumi hampir 12 juta rumah. Jika anda bertanya ahli ekonomi lain, PADU ialah salah satu sumber data negara terbesar dalam kerajaan. Yang terbesar ialah Jabatan Perangkaan (DOSM), kemudian PADU.
 
 Cadangan Kementerian Ekonomi mengenai cara untuk melaksanakan subsidi ini adalah kita melihat kawasan dan keluarga; kita melihat perbelanjaan asas sara hidup. Jika keluarga itu besar, di mana mereka tinggal—inilah yang diperlukan. Jika mereka berada dalam kriteria, mereka dapat. Mereka yang di atas garis itu tidak dapat.
 
@@ -176,11 +176,11 @@ Dan bila mereka dapat, mereka mendapat bantuan bulanan. Ada yang boleh dapat seh
 
 **Interviewer:** Tetapi cadangan itu tidak dilaksanakan sepenuhnya seperti yang dirancang, bukan?
 
-**Rafizi Ramli:** Tapi tidak dipersetujui lah. Akhirnya, ia ditangguh dan ditangguh. Ia ditangguh demi politik dalaman dalam kerajaan. Ini menarik kerana kita tidak boleh lari daripada naratif yang dimainkan. Terdapat naratif yang dimainkan bahawa ini adalah soal pilihan, tetapi ia memberi kesan langsung. Ramai orang bertanya, "Ke mana perginya PADU?" Sebenarnya, jika saya boleh katakan, bahagian penerangan ataupun Jabatan Penerangan (JCOM) gagal untuk memberikan penjelasan mengenai perkara ini. Seolah-olah mereka gagal atau tidak faham. Sebab itu kita melihat naratif yang dimainkan bahawa "Raja Formula" membuatkan PADU gagal.
+**Rafizi:** Tapi tidak dipersetujui lah. Akhirnya, ia ditangguh dan ditangguh. Ia ditangguh demi politik dalaman dalam kerajaan. Ini menarik kerana kita tidak boleh lari daripada naratif yang dimainkan. Terdapat naratif yang dimainkan bahawa ini adalah soal pilihan, tetapi ia memberi kesan langsung. Ramai orang bertanya, "Ke mana perginya PADU?" Sebenarnya, jika saya boleh katakan, bahagian penerangan ataupun Jabatan Penerangan (JCOM) gagal untuk memberikan penjelasan mengenai perkara ini. Seolah-olah mereka gagal atau tidak faham. Sebab itu kita melihat naratif yang dimainkan bahawa "Raja Formula" membuatkan PADU gagal.
 
 **Interviewer:** Adakah terdapat kemungkinan PADU akan dilupakan sepenuhnya?
 
-**Rafizi Ramli:** PADU memang telah digunakan sekarang di dalam kerajaan. Sebagai contoh, Kementerian Digital, setahu saya, sedang membangunkan aplikasi "tetingkap tunggal" (single window). Ini datang daripada keputusan Majlis Tindakan Ekonomi Negara untuk mengarahkan negara ke arah kerajaan digital. Satu matlamat adalah untuk menggabungkan semua aplikasi ini menjadi satu—tidak perlu memuat turun banyak aplikasi atau mempunyai pelbagai nama pengguna. Apabila mereka melakukan itu, mereka tidak akan meminta rakyat mendaftar semula; mereka menggunakan PADU.
+**Rafizi:** PADU memang telah digunakan sekarang di dalam kerajaan. Sebagai contoh, Kementerian Digital, setahu saya, sedang membangunkan aplikasi "tetingkap tunggal" (single window). Ini datang daripada keputusan Majlis Tindakan Ekonomi Negara untuk mengarahkan negara ke arah kerajaan digital. Satu matlamat adalah untuk menggabungkan semua aplikasi ini menjadi satu—tidak perlu memuat turun banyak aplikasi atau mempunyai pelbagai nama pengguna. Apabila mereka melakukan itu, mereka tidak akan meminta rakyat mendaftar semula; mereka menggunakan PADU.
 
 Menteri datang dan pergi. Masa saya masuk jadi Menteri Ekonomi dulu, pejabat saya tak tukar, dasar-dasar yang lain pun saya tak tukar mana yang saya rasa okey. Pejabat saya kosong; orang kata ia gila, tetapi PADU ada untuk RMK-13. Perkara itu sudah sedia, dan ia adalah pangkalan data yang sangat baik untuk kerajaan. Niat asalnya bukan semata-mata untuk RON95. PADU ini dilancarkan oleh Perdana Menteri sendiri. Ia adalah bukti kepada rantau ini betapa pantasnya Malaysia bergerak ke arah pentadbiran digital. Pandangan saya ialah Kementerian Digital akan menggunakannya.
 
@@ -188,33 +188,33 @@ Bila kita buat PADU, kita tahu bahawa ia akan menjimatkan beratus-ratus juta wan
 
 **Interviewer:** Terdapat persepsi bahawa kestabilan politik lebih penting daripada dasar yang jelas. Selepas pemilihan dalaman parti, bagaimana anda melihat keadaan kejelasan dasar kerajaan sekarang?
 
-**Rafizi Ramli:** Saya tak nampak ada perubahan dasar sangat sekarang. Mungkin sejak dua bulan yang lepas, banyak isu negatif kepada kerajaan, jadi saya ingat kerajaan terpaksa "bersilat" banyak. Dari segi SST, kemudian isu dengan pelbagai komoditi, dan kini badan kehakiman. Ia telah menjadi lebih defensif. Saya sebenarnya bimbang kerajaan ini akhirnya tidak berjaya mengetengahkan dasar kerana dia sibuk bersilat.
+**Rafizi:** Saya tak nampak ada perubahan dasar sangat sekarang. Mungkin sejak dua bulan yang lepas, banyak isu negatif kepada kerajaan, jadi saya ingat kerajaan terpaksa "bersilat" banyak. Dari segi SST, kemudian isu dengan pelbagai komoditi, dan kini badan kehakiman. Ia telah menjadi lebih defensif. Saya sebenarnya bimbang kerajaan ini akhirnya tidak berjaya mengetengahkan dasar kerana dia sibuk bersilat.
 
 **Interviewer:** Apakah yang anda maksudkan dengan kestabilan politik dalam konteks ini? Adakah Kerajaan Perpaduan masih stabil berikutan pemilihan PKR?
 
-**Rafizi Ramli:** Kestabilan bermaksud tidak berlaku pergaduhan dalam komponen. Saya rasa PKR akan terus memberi kesan kepada PH. Yang paling terjejas ialah Amanah, kemudian DAP, kerana Amanah berkongsi profil yang sama dengan PKR. Keributan itu akan berterusan buat beberapa ketika di dalam PKR dan PH.
+**Rafizi:** Kestabilan bermaksud tidak berlaku pergaduhan dalam komponen. Saya rasa PKR akan terus memberi kesan kepada PH. Yang paling terjejas ialah Amanah, kemudian DAP, kerana Amanah berkongsi profil yang sama dengan PKR. Keributan itu akan berterusan buat beberapa ketika di dalam PKR dan PH.
 
 Risiko kestabilan politik ini datang kalau hiruk-pikuk pemilihan PKR itu kekal dan mula menunjukkan bahawa kerajaan yang tulang belakang dan kemudinya itu PH mula defensif. Sebelum ini, penyokong akan mempertahankan parti walau apa pun yang berlaku. Kini, satu demi satu isu menjadi kritikal. Apabila penyokong menjadi kritikal, komponen lain seperti GPS atau BN mungkin berkata, "Kami ada masalah di sini kerana anda tidak lagi boleh menunaikan bahagian anda dalam perjanjian ini."
 
 **Interviewer:** Adakah anjakan sokongan ini jelas dalam data?
 
-**Rafizi Ramli:** Ia sangat jelas. Saya biasanya menunggu data sebelum memberi ulasan. Data yang terbaru tu saya dah dapat, dan ia tak baik untuk kerajaan. Saya belum boleh kongsikannya lagi kerana ia milik orang lain, tetapi data itu cukup tidak baik untuk kerajaan. Terdapat korelasi antara kebisingan di media sosial mengenai pemilihan dalaman, SST, dan penurunan sokongan. Sekarang saya telah menerima data yang mengesahkan ia adalah jelas dan lebih buruk daripada apa yang saya kongsikan semasa kempen pilihan raya.
+**Rafizi:** Ia sangat jelas. Saya biasanya menunggu data sebelum memberi ulasan. Data yang terbaru tu saya dah dapat, dan ia tak baik untuk kerajaan. Saya belum boleh kongsikannya lagi kerana ia milik orang lain, tetapi data itu cukup tidak baik untuk kerajaan. Terdapat korelasi antara kebisingan di media sosial mengenai pemilihan dalaman, SST, dan penurunan sokongan. Sekarang saya telah menerima data yang mengesahkan ia adalah jelas dan lebih buruk daripada apa yang saya kongsikan semasa kempen pilihan raya.
 
 **Interviewer:** Mengenai isu dalaman PKR, ROS sedang meneliti aduan. Jika pemilihan dibatalkan dan anda terpaksa bertanding semula, adakah anda akan bertanding untuk jawatan Timbalan Presiden atau pun Presiden?
 
-**Rafizi Ramli:** Saya akan terus melangkah (move on). Saya tidak akan bertanding apa-apa jawatan di dalam PKR kalaupun keputusan dibatalkan. Saya rasa budaya yang telah ditunjukkan di dalam PKR dalam pemilihan ini bukanlah sesuatu yang saya nak jadi sebahagian daripadanya. Kalaupun ada pemilihan baru, saya tak rasa saya atau kita ada kemampuan untuk membersihkan parti daripada budaya itu.
+**Rafizi:** Saya akan terus melangkah (move on). Saya tidak akan bertanding apa-apa jawatan di dalam PKR kalaupun keputusan dibatalkan. Saya rasa budaya yang telah ditunjukkan di dalam PKR dalam pemilihan ini bukanlah sesuatu yang saya nak jadi sebahagian daripadanya. Kalaupun ada pemilihan baru, saya tak rasa saya atau kita ada kemampuan untuk membersihkan parti daripada budaya itu.
 
 Saya akan menghormati mandat saya sebagai Ahli Parlimen untuk baki masa yang ada, tapi soal PKR ini ialah soal reformasi. Kita menyertai PKR dahulu kerana kita yakin ini adalah platform yang budayanya bagus, bawa budaya politik baru, yang tidak ada perkara bukan-bukan (*hanky-panky*), dan menumpukan kepada rakyat. Saya tidak rasa saya memenuhi syarat untuk mempengaruhi budaya itu lagi. Walaupun saya diberi "permaidani merah" untuk menjadi Timbalan Presiden semula, saya tidak mahu dilantik hanya untuk melakukan kerja sementara budayanya kekal kekal. Saya akan balik ke "kedai" saya.
 
 **Interviewer:** Anda telah berada dalam PKR selama 27 tahun sejak 1999. Adakah ia benar-benar soal "move on" seperti putus cinta?
 
-**Rafizi Ramli:** Ia seperti sedang jatuh cinta. Ada masa senang dan ada masa susah. Tetapi jika pada satu tahap, kita dah rasa memang anda dah berubah, saya dah berubah, kita tidak lagi serasi. Adalah lebih baik untuk terus melangkah (move on). 27 tahun adalah masa yang lama, tetapi parti itu bukan milik kumpulan yang telah membuat bising selama 4-5 bulan yang lalu; ia milik puluhan ribu yang bekerja keras sejak 1999.
+**Rafizi:** Ia seperti sedang jatuh cinta. Ada masa senang dan ada masa susah. Tetapi jika pada satu tahap, kita dah rasa memang anda dah berubah, saya dah berubah, kita tidak lagi serasi. Adalah lebih baik untuk terus melangkah (move on). 27 tahun adalah masa yang lama, tetapi parti itu bukan milik kumpulan yang telah membuat bising selama 4-5 bulan yang lalu; ia milik puluhan ribu yang bekerja keras sejak 1999.
 
 Dalam istilah perakaunan, kita katakan "isi lebih penting daripada rupa" (*substance over form*). Rupanya masih ada—parti itu, namanya—tetapi isinya sangat berbeza daripada apa yang saya kenali. Jika kita telah mencapai tahap itu, lebih baik kita terus melangkah. Saya tidak mempunyai sebarang minat untuk membakar "hadiah-hadiah" yang diberikan kepada saya; saya hanya akan letakkan ia di dalam kotak dan simpan di dalam stor.
 
 **Interviewer:** Pemimpin parti seperti Fuziah Salleh telah mencadangkan terdapat "hasutan" yang terlibat. Apakah komen anda?
 
-**Rafizi Ramli:** Yang menghasutnya korang. Saya bukan seorang yang sentimental atau emosional; saya berasaskan fakta dan objektif kerana latihan saya. Segala yang berlaku dalam PKR, saya sebutkan secara terus kepada Perdana Menteri. Jika Fuziah kata seseorang sedang menghasut, itu adalah "gila talak." Saya dah *move on*.
+**Rafizi:** Yang menghasutnya korang. Saya bukan seorang yang sentimental atau emosional; saya berasaskan fakta dan objektif kerana latihan saya. Segala yang berlaku dalam PKR, saya sebutkan secara terus kepada Perdana Menteri. Jika Fuziah kata seseorang sedang menghasut, itu adalah "gila talak." Saya dah *move on*.
 
 Jangan ambil mudah benda ini. Orang yang sedang dianiaya adalah ahli biasa di bawah sana yang mengetuk pintu dan membelanjakan wang mereka sendiri. Pemimpin mungkin berfikir, "Saya berjiwa besar, menang atau kalah saya tetap di sini," tetapi bagi akar umbi, ia adalah soal maruah. Jika seorang ketua cawangan ditipu, di mana dia mahu letak mukanya di kedai kopi? Fuziah mungkin kalah di Kuantan tetapi menjadi Senator atau mendapat pekerjaan, tetapi orang di bawah mengalami masa yang sukar.
 
@@ -222,7 +222,7 @@ Jika sikap itu berterusan di mana anda mempunyai jawatan yang anda mahukan tetap
 
 **Interviewer:** Ramai melihat anda sebagai calon Perdana Menteri masa hadapan. Adakah anda mempunyai cita-cita tersebut?
 
-**Rafizi Ramli:** Pemerhatian saya, sesiapa yang sibuk nak jadi Perdana Menteri atau kena lambung jadi Perdana Menteri, selalunya tak jadi pun. Politik ini sukar dibaca. Pada tahun 90-an, ia hanya UMNO, dan sesiapa yang mendaki ke puncak akan menjadi PM. Sekarang, anda boleh jadi PM hari ini dan bukan pada minggu hadapan.
+**Rafizi:** Pemerhatian saya, sesiapa yang sibuk nak jadi Perdana Menteri atau kena lambung jadi Perdana Menteri, selalunya tak jadi pun. Politik ini sukar dibaca. Pada tahun 90-an, ia hanya UMNO, dan sesiapa yang mendaki ke puncak akan menjadi PM. Sekarang, anda boleh jadi PM hari ini dan bukan pada minggu hadapan.
 
 Tanya saya, minat saya... saya tak ada minat sangat untuk perkhidmatan awam ini, untuk menjadi penjawat awam atau MP. Personaliti saya degil; saya tidak pandai "mengerjakan" orang. Jika menjadi PM bermakna saya perlu menukar jati diri saya hanya untuk bermain permainan ini—mencium orang itu atau orang ini—maka tidak, terima kasih. Dalam masyarakat kita, orang kata anda perlu sabar dan menyesuaikan diri untuk terus hidup. Begitulah cara janji reformasi menjadi sesuatu yang lain.
 
@@ -230,7 +230,7 @@ Jika rakyat mahukan calon yang baik, ia bukan tentang calon tersebut; ia tentang
 
 **Interviewer:** Dengan 16 juta pengundi, ramai yang "atas pagar," bagaimana anda melihat pilihan raya umum akan datang?
 
-**Rafizi Ramli:** Sejak 2008, pengundi atas pagar memang bertukar-tukar sokongan. Kita tidak ada satu parti yang dominan, yang mana ia bagus untuk negara. Ia bergantung kepada kepimpinan dan intipati parti tersebut. Bagi PKR, penjenamaan dahulu adalah sebuah parti yang progresif, berbakat, berasaskan merit dengan integriti.
+**Rafizi:** Sejak 2008, pengundi atas pagar memang bertukar-tukar sokongan. Kita tidak ada satu parti yang dominan, yang mana ia bagus untuk negara. Ia bergantung kepada kepimpinan dan intipati parti tersebut. Bagi PKR, penjenamaan dahulu adalah sebuah parti yang progresif, berbakat, berasaskan merit dengan integriti.
 
 Jika intipati PKR akhirnya hanyalah Anwar Ibrahim, kita akan mempunyai masalah. Mereka yang sukakannya okay, tetapi bagi mereka yang atas pagar yang mahukan sesuatu yang berbeza, mereka tidak akan menemuinya. Mana-mana parti memerlukan kerancakan dan kepelbagaian. Jangan jadi macam PAS, kena *walak* satu jenis je.
 
@@ -238,15 +238,15 @@ Hanya parti yang mempamerkan integriti dan sifat progresif mempunyai peluang den
 
 **Interviewer:** Mantra daripada kalangan Perdana Menteri nampaknya adalah mereka mempunyai dua tahun untuk memperbaiki segala-galanya. Adakah itu realistik?
 
-**Rafizi Ramli:** Itu teorinya lah—buat pemilihan sekarang supaya dalam tempoh dua tahun akan sembuh. Tapi kita tengok sekarang ni masih tak reda-reda. Lihatlah PAS pada tahun 2015; sentimen "anti-Anwarista" tidak sembuh; ia berakhir dengan pembentukan Amanah dan PAS kalah teruk pada tahun 2018.
+**Rafizi:** Itu teorinya lah—buat pemilihan sekarang supaya dalam tempoh dua tahun akan sembuh. Tapi kita tengok sekarang ni masih tak reda-reda. Lihatlah PAS pada tahun 2015; sentimen "anti-Anwarista" tidak sembuh; ia berakhir dengan pembentukan Amanah dan PAS kalah teruk pada tahun 2018.
 
 Situasi PKR bukanlah perbandingan yang setara (apple to apple) kerana PKR kini berada dalam kerajaan, tetapi mereka yang membuat perkiraan harus ingat bahawa apabila sesuatu pemilihan itu "kasar" dan bersifat peribadi, melibatkan perkara di luar amalan budiman (gentleman), lukanya sangat sukar untuk sembuh.
 
 **Interviewer:** Adakah anda akan mempertahankan kerusi anda di Pandan dalam PRU16?
 
-**Rafizi Ramli:** Satu ialah ada kemungkinan yang saya memang tidak berniat untuk menyertai PRU16. Jika saya meletak jawatan sebagai menteri, mengapa saya mahu bertanding dalam PRU? Saya belum membuat keputusan untuk bertanding. Saya mahu menyumbang kepada pembinaan perusahaan sosial dan bekerja dengan komuniti.
+**Rafizi:** Satu ialah ada kemungkinan yang saya memang tidak berniat untuk menyertai PRU16. Jika saya meletak jawatan sebagai menteri, mengapa saya mahu bertanding dalam PRU? Saya belum membuat keputusan untuk bertanding. Saya mahu menyumbang kepada pembinaan perusahaan sosial dan bekerja dengan komuniti.
 
-**Rafizi Ramli:** Pengalaman saya dalam tempoh tujuh hingga lapan tahun yang lepas, masa di luar politik itu adalah masa yang paling produktif untuk saya. Apabila saya keluar daripada politik dalam tahun 2018, kebanyakan ilmu yang saya belajar yang banyak membantu saya menjadi menteri adalah semasa saya menubuhkan INVOKE dan juga menjadi orang biasa yang mengusahakan perniagaan syarikat pemula (*startup*).
+**Rafizi:** Pengalaman saya dalam tempoh tujuh hingga lapan tahun yang lepas, masa di luar politik itu adalah masa yang paling produktif untuk saya. Apabila saya keluar daripada politik dalam tahun 2018, kebanyakan ilmu yang saya belajar yang banyak membantu saya menjadi menteri adalah semasa saya menubuhkan INVOKE dan juga menjadi orang biasa yang mengusahakan perniagaan syarikat pemula (*startup*).
 
 Itu ilmu yang paling banyak saya belajar dalam tiga ke empat tahun itu. Jadi, ia adalah masa yang sangat produktif untuk saya bila saya berada di luar. Sebab itu saya teruja, contohnya, jika saya tidak bertanding—anda tahu, jika saya berehat daripada politik selepas PRU 16—saya pasti penglibatan saya dan usaha saya dengan akar umbi rakyat biasa untuk membangunkan perusahaan sosial (*social enterprise*), selain daripada kita dapat berbakti kepada orang ramai, itu juga ialah satu proses pembelajaran yang akan menjadi cukup produktif. Sebab ada benda yang saya masih belum faham.
 
@@ -256,15 +256,15 @@ Jadi sebab itu buat masa sekarang, saya tak buat keputusan mengenai apa yang aka
 
 **Penyoal:** Ada soalan lagi? Terakhir. Pendedahan terakhir tiga hari lepas sebelum saya berhenti, fokus kes untuk utara, saya mendedahkan pasal S3 Amazon.
 
-**Rafizi Ramli:** Oh, S3 Amazon. S3 Amazon ini saya dapat daripada seseorang yang dalam sistem. Jadi, sebelum fraud itu berlaku, saya berada di dalam sistem tersebut.
+**Rafizi:** Oh, S3 Amazon. S3 Amazon ini saya dapat daripada seseorang yang dalam sistem. Jadi, sebelum fraud itu berlaku, saya berada di dalam sistem tersebut.
 
 **Penyoal:** Sejauh mana S3 Amazon ini sebenarnya satu database yang telah dimanipulasi sebelum ia di-inject masuk ke dalam blockchain? Ini sebenarnya jawapan yang orang katakan sah (valid) sebelum saya mendedahkan pasal S3 Amazon. Pada mulanya, saya dedahkan tentang blockchain. Ada yang DM saya, dia kata, "Anda perlu jelaskan tentang S3 Amazon." Tetapi apabila saya meminta data tersebut, dia diam; mungkin takut pada waktu itu. Selepas sebulan dua, data S3 Amazon itu datang balik. Bagaimana kita melihat penyelarasan di situ? Daripada EKYC, ia tidak terus masuk ke blockchain sebab tidak ada pintu atau jurang di situ. Rupa-rupanya betul, ia masuk ke S3 Amazon dahulu baru disuntik (inject) masuk ke blockchain.
 
 Jadi bagi saya, YB, berdasarkan data yang saya dapat, ini adalah satu penipuan. Saya tidak tahu apa respons YB. Itu soalan terakhir saya.
 
-**Rafizi Ramli:** Hal itu memang didedahkan kepada MPP (Majlis Pimpinan Pusat) yang terakhir sehingga berlaku pergaduhan besar. Seperti yang saya katakan, satu pergaduhan besar. Anwar Ibrahim menjerit pada saya selama 20 minit pada waktu itu. Pendedahan itu menunjukkan struktur tersebut, termasuklah daripada peranti, ia akan pergi kepada EKYC dahulu. Kemudian, kalau EKYC itu lepas, dia baru masuk kepada S3. Jadi S3 memang wujud.
+**Rafizi:** Hal itu memang didedahkan kepada MPP (Majlis Pimpinan Pusat) yang terakhir sehingga berlaku pergaduhan besar. Seperti yang saya katakan, satu pergaduhan besar. Anwar Ibrahim menjerit pada saya selama 20 minit pada waktu itu. Pendedahan itu menunjukkan struktur tersebut, termasuklah daripada peranti, ia akan pergi kepada EKYC dahulu. Kemudian, kalau EKYC itu lepas, dia baru masuk kepada S3. Jadi S3 memang wujud.
 
-**Rafizi Ramli:** Apa yang saya jelaskan itu, strukturnya semua memang betul. Itulah yang dibentangkan oleh pemaju kepada kita, kononnya nanti juruaudit digital boleh bandingkan blockchain terakhir dengan pelayan S3 dan macam-macam lagi yang disebut. Saya rasa pemaju itu pun semasa membentangkan semua itu, dia ingat kami semua ini bodoh. Dia ingat kami semua tidak faham IT; dia lupa saya ada syarikat pemula (startup).
+**Rafizi:** Apa yang saya jelaskan itu, strukturnya semua memang betul. Itulah yang dibentangkan oleh pemaju kepada kita, kononnya nanti juruaudit digital boleh bandingkan blockchain terakhir dengan pelayan S3 dan macam-macam lagi yang disebut. Saya rasa pemaju itu pun semasa membentangkan semua itu, dia ingat kami semua ini bodoh. Dia ingat kami semua tidak faham IT; dia lupa saya ada syarikat pemula (startup).
 
 Sebab itu kita bawa pihak teknikal ketiga yang bebas untuk audit. Jadi dia perhatikan dan senaraikan semua soalan tentang segala perkara yang boleh berlaku, dan manipulasi itu memang telah pun kita serahkan kepada parti dan kepada orang awam. Juga tentang kod sumber (source code). Kerana ia begini: daripada peranti, ia masuk ke pelayan, sama ada di S3 atau di EKYC. Di mana-mana pun ia berada, kod sumber itulah yang akan mentafsir ke mana calon itu pergi. Jadi siapa sebenarnya yang menyemak kod sumber ini supaya jika calon dicalonkan sebagai nombor satu, dia benar-benar ditafsirkan sebagai calon nombor satu?
 
@@ -282,4 +282,4 @@ Jadi, sehingga ke satu tahap, pada masa saya berkempen, saya kata saya tahu saya
 
 Jadi, blockchain hanyalah sekadar kod. Katakanlah mereka tunjukkan blockchain; blockchain mungkin ada beribu barisan kod yang tidak bermakna apa-apa kepada kita. Jadi anda kata, "Ini adalah blockchain," dan tiada sesiapa yang faham blockchain. Malah Einstein pun tidak faham blockchain. Ia hanya satu skrin yang penuh dengan kod-kod ini. Kita tahu bahawa ia adalah satu rawakan supaya orang tidak boleh membacanya. Sebab itulah, untuk membuktikan bahawa blockchain itu benar-benar bagus, kita kena lihat pada rakaman skrin. Apabila anda membuka blockchain dan menyahsulitnya (decrypt), anda memadankannya (tally). Mereka tidak mahu menyahsulit blockchain dan menunjukkan padanan tersebut. Jadi, tidak kira betapa Hyperledger pun blockchain itu, ia tidak bermakna apa-apa kepada sesiapa pun.
 
-**Hos:** Ini merupakan sesi menteri yang paling lama dalam episod ketiga bersama tetamu kita, Rafizi Ramli. Terima kasih banyak-banyak, saudara sekalian. Terima kasih YBM (Yang Berhormat Menteri) kerana menjemput saya. Oh, YBM? Saya ingat tadi perli. Baiklah, itu sahaja daripada kami. Selamat malam. Jumpa lagi minggu depan. Assalamualaikum.
+**Hos:** Ini merupakan sesi menteri yang paling lama dalam episod ketiga bersama tetamu kita, Rafizi. Terima kasih banyak-banyak, saudara sekalian. Terima kasih YBM (Yang Berhormat Menteri) kerana menjemput saya. Oh, YBM? Saya ingat tadi perli. Baiklah, itu sahaja daripada kami. Selamat malam. Jumpa lagi minggu depan. Assalamualaikum.

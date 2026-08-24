@@ -10993,7 +10993,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:50:00] [The speakers tackle questions on youth employment, technical and vocational education and training (TVET) alignment with industry needs, and startup ecosystem growth]
 
-[2:15:00] [Final segment focusing on upcoming legislative agendas, political outlook for the mid-term, concluding remarks from YB Rafizi Ramli, and sign-off for episode 51]
+[2:15:00] [Final segment focusing on upcoming legislative agendas, political outlook for the mid-term, concluding remarks from YB Rafizi, and sign-off for episode 51]
 
 [2:38:30] Terima kasih semua kerana bersama kami dalam podcast YBM episod kali ini. Jumpa lagi minggu depan. Assalamualaikum.
 
