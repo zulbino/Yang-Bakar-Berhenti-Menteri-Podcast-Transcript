@@ -73,7 +73,9 @@ def align_words(text, audio_array, sr):
         emission, _ = model(waveform)
         try:
             token_spans = aligner(emission[0], tokenizer([norm[i] for i in alignable_idx]))
-        except RuntimeError:
+        except RuntimeError as e:
+            if "targets length is too long for CTC" not in str(e):
+                raise
             # CTC forced alignment requires the (expanded, blank-separated) target
             # sequence to be no longer than the emission's frame count -- violated when
             # the ASR chunk itself degenerated into a repetition-loop hallucination

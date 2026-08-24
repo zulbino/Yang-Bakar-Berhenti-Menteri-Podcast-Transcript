@@ -587,6 +587,32 @@ model line in `QA_CHECKLIST.md` until reprocessed.
 - Gemini's free-tier quota is unreliable for raw transcription on episodes longer
   than roughly an hour in a single call -- use `--engine local` for those.
 
+## Local-ASR diarization: two follow-up fixes from a code review
+
+Found during a code review of the forced-alignment work above, both fixed
+2026-08-25:
+
+- **Orphan "Speaker ?" words, confirmed shipped on ep13**: a word whose
+  forced-aligned timestamp lands in a gap between diarization turns (common
+  for short/isolated words -- numbers, filler, single-word interjections)
+  used to get labeled `"Speaker ?"` and split into its own one-word line,
+  tearing it out of the real speaker's surrounding turn. `qa_check.py` has no
+  detector for this pattern, so it shipped silently -- confirmed real
+  examples in ep13's `raw.md` (`[02:35] Speaker ?: 13`, `[08:50] Speaker ?:
+  memang`, etc.), all sitting between two turns from the SAME real speaker.
+  Fixed in `lib_local_asr.py`'s `_speaker_lines`: a word with no diarization
+  overlap now attributes to whichever speaker is already talking, only
+  falling back to `"Speaker ?"` if there's no established speaker yet (the
+  very first word of a chunk with zero overlap). ep13's already-shipped
+  `raw.md` was hand-patched to match (5 orphan lines merged into their
+  neighbors), since a full re-run wasn't needed to fix already-correct text.
+- **Overly broad exception handler in `lib_forced_align.py`**: the CTC
+  target-length fallback (see above) caught bare `RuntimeError`, which would
+  also silently swallow something like a CUDA out-of-memory error and
+  downgrade that chunk to whole-chunk labeling with zero log output. Now
+  checks the exception message for the specific `"targets length is too long
+  for CTC"` string before applying the fallback, and re-raises anything else.
+
 ## Retrying Gemini on a previously-failed episode
 
 Landing on a weak fallback model (e.g. `gemini-3.5-flash`) doesn't always mean the

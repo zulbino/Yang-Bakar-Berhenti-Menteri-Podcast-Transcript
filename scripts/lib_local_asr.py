@@ -134,7 +134,13 @@ def _speaker_lines(text, segment, sr, chunk_start, diarization):
     cur_speaker, cur_start, cur_words = None, None, []
     for word, w_start, w_end in lib_forced_align.align_words(text, segment, sr):
         abs_start, abs_end = chunk_start + w_start, chunk_start + w_end
-        speaker = lib_diarization.label_for_range(diarization, abs_start, abs_end) or "Speaker ?"
+        speaker = lib_diarization.label_for_range(diarization, abs_start, abs_end)
+        if speaker is None:
+            # No diarization overlap for this word (common for short/isolated words
+            # whose forced-aligned span lands in a gap between diarization turns) --
+            # attribute it to whoever's already talking rather than splitting off a
+            # spurious one-word "Speaker ?" turn.
+            speaker = cur_speaker or "Speaker ?"
         if speaker != cur_speaker:
             if cur_words:
                 lines.append((cur_start, cur_speaker, " ".join(cur_words)))
