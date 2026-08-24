@@ -756,51 +756,61 @@
   },
   "2025-11-28-ep24-shamsul-iskandar-vs-albert-tei-bencana-banjir-izzah-mb-selan": {
     "status": "ok",
-    "samples_matched": 8,
-    "samples_not_found_nearby": 4,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 187,
+    "max_drift_seconds": 253,
     "flagged": false,
     "details": [
       {
-        "claimed": 151,
-        "actual": 152,
-        "drift": 1
+        "claimed": 152,
+        "actual": 155,
+        "drift": 3
       },
       {
-        "claimed": 495,
-        "actual": 530,
-        "drift": 35
+        "claimed": 649,
+        "actual": 642,
+        "drift": -7
       },
       {
-        "claimed": 763,
-        "actual": 767,
-        "drift": 4
+        "claimed": 881,
+        "actual": 907,
+        "drift": 26
       },
       {
-        "claimed": 1381,
-        "actual": 1489,
-        "drift": 108
+        "claimed": 1646,
+        "actual": 1709,
+        "drift": 63
       },
       {
-        "claimed": 1862,
-        "actual": 1871,
-        "drift": 9
+        "claimed": 2050,
+        "actual": 2058,
+        "drift": 8
       },
       {
-        "claimed": 2277,
-        "actual": 2228,
-        "drift": -49
+        "claimed": 2541,
+        "actual": 2794,
+        "drift": 253
       },
       {
-        "claimed": 4863,
-        "actual": 4753,
-        "drift": -110
+        "claimed": 4478,
+        "actual": 4592,
+        "drift": 114
       },
       {
-        "claimed": 7942,
-        "actual": 8129,
-        "drift": 187
+        "claimed": 5623,
+        "actual": 5618,
+        "drift": -5
+      },
+      {
+        "claimed": 5959,
+        "actual": 5956,
+        "drift": -3
+      },
+      {
+        "claimed": 8046,
+        "actual": 8133,
+        "drift": 87
       }
     ]
   },

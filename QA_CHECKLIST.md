@@ -27,8 +27,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 322s, 12/12 caption samples matched)
   - models: raw.md=gemini-3.7-flash
 - [ ] **2025-11-28-ep24-shamsul-iskandar-vs-albert-tei-bencana-banjir-izzah-mb-selan**
-  - raw.md has a repetition-loop degeneration (888 chars repeating 'mmmmmmmm'...) -- model got stuck re-emitting the same short phrase
-  - interview.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
+  - interview.md looks truncated (ratio 0.10 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2
