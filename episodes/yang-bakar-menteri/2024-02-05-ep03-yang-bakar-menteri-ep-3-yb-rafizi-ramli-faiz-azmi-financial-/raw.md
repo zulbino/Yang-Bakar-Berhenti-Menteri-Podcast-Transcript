@@ -118,11 +118,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:11:37] YB Rafizi: Insya-Allah, the use cases will be different. The first use case is to determine net disposable household income for targeted subsidies. But when we combine more data, e.g. grant reception data from MARA, Teraju, Ekuinas, it gives a better picture. It helps prevent leakage through duplication, so we don't have serial grant-preneurs getting from PNB, Tekun, Bank, Teraju, while others get nothing because data wasn't integrated. Combining data allows cross-checking, so if someone already got from MARA, Teraju can see it. These use cases can be built in the future if data integration works well.
 
-[1:13:32] Faiz: Before we go to the next set of questions, one short comment on size: size is relative. We may think MARA is too big, but agencies we have can be big on their own. Looking at results, 3 years ago, 1 out of 97 listed companies was Bumiputera. In your opinion, did these agencies do good? What is the concrete thing asked by MOE for them to do?
-
 [1:14:00] YB Rafizi: Well, I don't reject that there are many gaps to be improved. When I took over, my instructions were clear: audit, change management if unhappy. First, give clear short and medium term directions and strategies that must be focused. Yayasan Peneraju, Teraju, Ekuinas have respective mandate targets. Peneraju as talent bank, funnelling to Teraju for seed to medium, then to Ekuinas for growth stage to going public. The funnelling and market segment journey is set. Previously agencies did whatever they liked. Now allocations must come with new program designs. We must balance so target groups are real entrepreneurs, not grant-preneurs. With Ekuinas, quantity is as important as quality. Instructions were given to Ekuinas to double, triple companies entering programs. Realigning everything will take time, but in the next few years people will feel the difference.
-
-[1:17:58] Faiz: That's a very good answer. My comment about size: size is relative. MARA might be big, but existing agencies are big too. On results, only 1 out of 97 listed companies in the past 3 years was Bumiputera. Did these agencies do good? What is the concrete thing asked by MOE for them to do?
 
 [1:18:24] YB Rafizi: Well, there's a difference. In your podcast, you can say short things, but these questions are complex. There's no short answer. I never denied gaps exist. When I took over, I audited, replaced management where needed. We gave clear directions: Peneraju as talent bank, Teraju for seed/medium, Ekuinas for growth to public listing. Mandates are clear now. We're eliminating grant-preneurs and leakage. Ekuinas was told quantity matters alongside quality. In the next few years, as we realign, people will see the impact.
 
@@ -149,4 +145,3 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:31:45] [music]
 
 [2:03:00] [music]
-

@@ -11,6 +11,7 @@ view_count: 120716
 note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
   polished newspaper-style rewrite.
 ---
+
 # Raw Transcript
 
 [00:54] Speaker 1: Podcast Yang Berhormat Menteri episod ke 40 sudah. Assalamualaikum dan salam sejahtera. Macam biasa bersama saudara Rafizi. Hmm. Walaupun agak sempoi hari ini.
@@ -361,8 +362,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [12:14] Speaker 1: Uhm, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
-[12:28] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
-
 [12:57] Speaker 1: Uhm.
 
 [12:57] Speaker 1: Kalau untuk satu kereta pergi Kelantan 1200, okey lah kan, sebab kalau beli tiket kapal terbang pun, kalau tak ada tiket lagi, kalau 500 pun, kalau ah empat orang pun jadi 2000 kan.
@@ -581,11 +580,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [18:37] Speaker 1: Um.
 
-[18:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [19:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[19:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [19:57] Speaker 1: Uhm.
 
@@ -805,11 +800,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [25:37] Speaker 1: Um.
 
-[25:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [26:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[26:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [26:57] Speaker 1: Uhm.
 
@@ -1029,11 +1020,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [32:37] Speaker 1: Um.
 
-[32:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [33:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[33:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [33:57] Speaker 1: Uhm.
 
@@ -1253,11 +1240,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [39:37] Speaker 1: Um.
 
-[39:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [40:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[40:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [40:57] Speaker 1: Uhm.
 
@@ -1477,11 +1460,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [46:37] Speaker 1: Um.
 
-[46:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [47:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[47:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [47:57] Speaker 1: Uhm.
 
@@ -1701,11 +1680,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [53:37] Speaker 1: Um.
 
-[53:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [54:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[54:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [54:57] Speaker 1: Uhm.
 
@@ -1925,11 +1900,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [60:37] Speaker 1: Um.
 
-[60:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [61:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[61:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [61:57] Speaker 1: Uhm.
 
@@ -2149,11 +2120,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [67:37] Speaker 1: Um.
 
-[67:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [68:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[68:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [68:57] Speaker 1: Uhm.
 
@@ -2373,11 +2340,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [74:37] Speaker 1: Um.
 
-[74:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [75:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[75:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [75:57] Speaker 1: Uhm.
 
@@ -2597,11 +2560,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [81:37] Speaker 1: Um.
 
-[81:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [82:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[82:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [82:57] Speaker 1: Uhm.
 
@@ -2821,11 +2780,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [88:37] Speaker 1: Um.
 
-[88:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [89:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[89:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [89:57] Speaker 1: Uhm.
 
@@ -3045,11 +3000,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [95:37] Speaker 1: Um.
 
-[95:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [96:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[96:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [96:57] Speaker 1: Uhm.
 
@@ -3269,11 +3220,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [102:37] Speaker 1: Um.
 
-[102:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [103:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[103:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [103:57] Speaker 1: Uhm.
 
@@ -3493,11 +3440,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [109:37] Speaker 1: Um.
 
-[109:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [110:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[110:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [110:57] Speaker 1: Uhm.
 
@@ -3717,11 +3660,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [116:37] Speaker 1: Um.
 
-[116:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [121:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[121:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [121:57] Speaker 1: Uhm.
 
@@ -3941,11 +3880,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [127:37] Speaker 1: Um.
 
-[127:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [128:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[128:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [128:57] Speaker 1: Uhm.
 
@@ -4165,11 +4100,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [135:37] Speaker 1: Um.
 
-[135:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [136:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[136:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [136:57] Speaker 1: Uhm.
 
@@ -4389,11 +4320,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [142:37] Speaker 1: Um.
 
-[142:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [143:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[143:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [143:57] Speaker 1: Uhm.
 
@@ -4613,11 +4540,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [154:37] Speaker 1: Um.
 
-[154:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [155:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[155:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [155:57] Speaker 1: Uhm.
 
@@ -4837,11 +4760,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [161:37] Speaker 1: Um.
 
-[161:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [162:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[162:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [162:57] Speaker 1: Uhm.
 
@@ -5061,11 +4980,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [168:37] Speaker 1: Um.
 
-[168:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [169:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
-
-[169:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so aku kira, kira, kira, macam tu baik aku je pergi ambil adik aku kut, lepas tu ah kan, adik aku bagilah aku duit duit ah raya sikit RM50, daripada bayar RM1000. RM1000 ni agak mahallah, kecuali RM1000 ni untuk satu kereta.
 
 [169:57] Speaker 1: Uhm.
 
@@ -5285,9 +5200,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [175:37] Speaker 1: Um.
 
-[175:40] Speaker 1: Dia sebenarnya, yalah yang ini, aku jadi serba salah lah, tambah kalau contohnya dia nak pergi ke luar negara ke apa, dia tak ada kereta sendiri, dia tak boleh, selalunya yalah orang yang yang menggunakan ah pengangkutan awam, bas ke, kapal terbang ni sebab sama ada dia rasa tak berbaloi ataupun dia tidak tidak ada kenderaan sendirilah kan.
-
 [176:13] Speaker 1: Uh, kalau dia rasa tak berbaloi bawa kereta tu, yalah kerana dia dah beli tiket awal, dan awal tiket dia tu murah ataupun lebih ah murah berbanding kalau dia bayar minyak, dia nak kena drive kan.
 
 [176:27] Speaker 1: Tapi katakanlah kalau kita ada adik-beradik yang tersangkut di KL, ah uhm sebab dia tak dapat tiket kan, ah aku kan berkira kan, so
-

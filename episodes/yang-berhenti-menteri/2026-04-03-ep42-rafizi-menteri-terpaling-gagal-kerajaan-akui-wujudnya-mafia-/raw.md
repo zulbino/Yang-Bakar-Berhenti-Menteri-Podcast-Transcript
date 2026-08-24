@@ -11,6 +11,7 @@ view_count: 179780
 note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
   polished newspaper-style rewrite.
 ---
+
 # Raw Transcript
 
 [00:00] [music/intro]
@@ -129,8 +130,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [13:39] Speaker 1: Betul.
 
-[13:40] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
 [14:07] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
 
 [14:36] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
@@ -140,8 +139,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [15:12] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [15:15] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[15:37] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [16:03] Speaker 1: Okey lah. To give perspective lah.
 
@@ -177,8 +174,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [19:26] Speaker 1: Okey.
 
-[19:27] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [19:57] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [20:03] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -189,10 +184,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [20:29] Speaker 1: Betul.
 
-[20:30] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[20:56] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [21:21] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [21:34] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -200,8 +191,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [21:55] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [21:59] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[22:15] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [22:41] Speaker 1: Okey lah. To give perspective lah.
 
@@ -237,8 +226,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [26:19] Speaker 1: Okey.
 
-[26:20] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [26:51] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [26:57] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -249,10 +236,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [27:24] Speaker 1: Betul.
 
-[27:25] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[27:52] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [28:21] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [28:34] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -260,8 +243,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [28:56] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [28:59] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[29:15] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [29:41] Speaker 1: Okey lah. To give perspective lah.
 
@@ -297,8 +278,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [32:59] Speaker 1: Okey.
 
-[33:00] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [33:31] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [33:37] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -309,10 +288,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [34:04] Speaker 1: Betul.
 
-[34:05] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[34:31] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [34:56] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [35:09] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -320,8 +295,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [35:31] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [35:34] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[35:50] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [36:16] Speaker 1: Okey lah. To give perspective lah.
 
@@ -357,8 +330,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [39:24] Speaker 1: Okey.
 
-[39:25] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [39:55] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [40:01] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -369,10 +340,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [40:28] Speaker 1: Betul.
 
-[40:29] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[40:55] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [41:20] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [41:33] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -380,8 +347,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [41:54] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [41:58] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[42:14] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [42:40] Speaker 1: Okey lah. To give perspective lah.
 
@@ -417,8 +382,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [46:18] Speaker 1: Okey.
 
-[46:19] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [46:50] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [46:56] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -429,10 +392,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [47:23] Speaker 1: Betul.
 
-[47:24] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[47:50] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [48:15] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [48:28] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -440,8 +399,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [48:50] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [48:53] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[49:09] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [49:35] Speaker 1: Okey lah. To give perspective lah.
 
@@ -477,8 +434,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [53:03] Speaker 1: Okey.
 
-[53:04] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [53:34] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [53:40] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -489,10 +444,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [54:07] Speaker 1: Betul.
 
-[54:08] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[54:34] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [54:59] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [55:12] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -500,8 +451,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [55:34] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [55:37] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[55:53] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [56:19] Speaker 1: Okey lah. To give perspective lah.
 
@@ -537,8 +486,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [59:57] Speaker 1: Okey.
 
-[59:58] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [60:28] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [60:34] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -549,10 +496,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [61:01] Speaker 1: Betul.
 
-[61:02] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[61:28] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [61:53] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [62:06] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -560,8 +503,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [62:28] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [62:31] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[62:47] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [63:13] Speaker 1: Okey lah. To give perspective lah.
 
@@ -597,8 +538,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [66:51] Speaker 1: Okey.
 
-[66:52] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [67:22] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [67:28] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -609,10 +548,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [67:55] Speaker 1: Betul.
 
-[67:56] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[68:22] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [68:47] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [69:00] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -620,8 +555,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [69:22] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [69:25] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[69:41] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [70:07] Speaker 1: Okey lah. To give perspective lah.
 
@@ -657,8 +590,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [73:24] Speaker 1: Okey.
 
-[73:25] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [73:55] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [74:01] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -669,10 +600,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [74:28] Speaker 1: Betul.
 
-[74:29] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[74:55] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [75:20] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [75:33] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -680,8 +607,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [75:55] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [75:58] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[76:14] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [76:40] Speaker 1: Okey lah. To give perspective lah.
 
@@ -717,8 +642,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [79:57] Speaker 1: Okey.
 
-[79:58] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [80:28] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [80:34] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -729,10 +652,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [81:01] Speaker 1: Betul.
 
-[81:02] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[81:28] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [81:53] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [82:06] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -740,8 +659,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [82:28] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [82:31] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[82:47] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [83:13] Speaker 1: Okey lah. To give perspective lah.
 
@@ -777,8 +694,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [86:51] Speaker 1: Okey.
 
-[86:52] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [87:22] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [87:28] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -789,10 +704,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [87:55] Speaker 1: Betul.
 
-[87:56] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[88:21] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [88:46] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [88:59] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -800,8 +711,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [89:21] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [89:24] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[89:40] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [90:06] Speaker 1: Okey lah. To give perspective lah.
 
@@ -837,8 +746,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [93:28] Speaker 1: Okey.
 
-[93:29] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [93:59] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [94:05] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -849,10 +756,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [94:32] Speaker 1: Betul.
 
-[94:33] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[94:59] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [95:24] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [95:37] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -860,8 +763,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [95:59] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [96:02] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[96:18] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [96:44] Speaker 1: Okey lah. To give perspective lah.
 
@@ -897,8 +798,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [100:02] Speaker 1: Okey.
 
-[100:03] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [100:33] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [100:39] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -909,10 +808,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [101:06] Speaker 1: Betul.
 
-[101:07] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[101:33] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [101:58] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [102:11] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -920,8 +815,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [102:33] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [102:36] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[102:52] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [103:18] Speaker 1: Okey lah. To give perspective lah.
 
@@ -957,8 +850,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [106:36] Speaker 1: Okey.
 
-[106:37] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [107:07] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [107:13] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -969,10 +860,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [107:40] Speaker 1: Betul.
 
-[107:41] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[108:07] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [108:32] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [108:45] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -980,8 +867,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [109:06] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [109:09] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[109:25] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [109:51] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1017,8 +902,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [113:08] Speaker 1: Okey.
 
-[113:09] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [113:39] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [113:45] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1029,10 +912,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [114:12] Speaker 1: Betul.
 
-[114:13] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[114:39] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [115:04] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [115:17] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1040,8 +919,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [115:39] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [115:42] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[115:58] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [116:24] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1077,8 +954,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [119:42] Speaker 1: Okey.
 
-[119:43] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [120:13] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [120:19] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1089,10 +964,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [120:46] Speaker 1: Betul.
 
-[120:47] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[121:13] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [121:38] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [121:51] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1100,8 +971,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [122:13] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [122:16] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[122:32] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [122:58] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1137,8 +1006,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [126:16] Speaker 1: Okey.
 
-[126:17] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [126:47] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [126:53] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1149,10 +1016,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [127:20] Speaker 1: Betul.
 
-[127:21] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[127:47] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [128:12] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [128:25] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1160,8 +1023,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [128:47] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [128:50] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[129:06] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [129:32] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1197,8 +1058,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [132:50] Speaker 1: Okey.
 
-[132:51] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [133:21] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [133:27] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1209,10 +1068,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [133:54] Speaker 1: Betul.
 
-[133:55] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[134:21] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [134:46] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [134:59] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1220,8 +1075,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [135:21] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [135:24] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[135:40] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [136:06] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1257,8 +1110,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [139:24] Speaker 1: Okey.
 
-[139:25] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [139:55] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [140:01] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1269,10 +1120,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [140:28] Speaker 1: Betul.
 
-[140:29] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[140:55] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [141:20] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [141:33] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1280,8 +1127,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [141:55] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [141:58] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[142:14] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [142:40] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1317,8 +1162,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [146:18] Speaker 1: Okey.
 
-[146:19] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [146:49] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [146:55] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1329,10 +1172,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [147:22] Speaker 1: Betul.
 
-[147:23] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[147:49] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [148:14] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [148:27] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1340,8 +1179,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [148:49] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [148:52] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[149:08] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [149:34] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1377,8 +1214,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [153:12] Speaker 1: Okey.
 
-[153:13] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [153:43] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [153:49] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1389,10 +1224,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [154:16] Speaker 1: Betul.
 
-[154:17] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[154:43] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [155:08] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [155:21] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1400,8 +1231,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [155:43] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [155:46] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[156:02] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [156:28] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1437,8 +1266,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [159:46] Speaker 1: Okey.
 
-[159:47] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [160:17] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [160:23] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1449,10 +1276,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [160:50] Speaker 1: Betul.
 
-[160:51] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[161:17] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [161:42] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [161:55] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1460,8 +1283,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [162:17] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [162:20] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[162:36] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [163:02] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1497,8 +1318,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [166:20] Speaker 1: Okey.
 
-[166:21] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [166:51] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [166:57] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1509,10 +1328,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [167:24] Speaker 1: Betul.
 
-[167:25] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[167:51] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [168:16] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [168:29] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1520,8 +1335,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [168:51] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [168:54] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[169:10] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [169:36] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1557,8 +1370,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [172:54] Speaker 1: Okey.
 
-[172:55] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [173:25] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [173:31] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1569,10 +1380,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [173:58] Speaker 1: Betul.
 
-[173:59] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[174:25] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [175:00] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [175:13] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1580,8 +1387,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [175:35] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [175:38] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[175:54] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [176:20] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1617,8 +1422,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [179:38] Speaker 1: Okey.
 
-[179:39] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [180:09] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [180:15] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1629,10 +1432,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [180:42] Speaker 1: Betul.
 
-[180:43] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[181:09] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [181:34] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [181:47] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1640,8 +1439,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [182:09] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [182:12] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[182:28] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [182:54] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1677,8 +1474,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [186:12] Speaker 1: Okey.
 
-[186:13] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [186:43] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [186:49] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1689,10 +1484,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [187:16] Speaker 1: Betul.
 
-[187:17] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[187:43] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [188:08] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [188:21] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1700,8 +1491,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [188:43] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [188:46] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[189:02] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [189:28] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1737,8 +1526,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [192:46] Speaker 1: Okey.
 
-[192:47] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [193:17] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [193:23] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1749,10 +1536,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [193:50] Speaker 1: Betul.
 
-[193:51] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[194:17] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [194:42] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [194:55] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1760,8 +1543,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [195:17] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [195:20] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[195:36] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [196:02] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1797,8 +1578,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [199:20] Speaker 1: Okey.
 
-[199:21] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [199:51] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [199:57] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1809,10 +1588,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [200:24] Speaker 1: Betul.
 
-[200:25] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[200:51] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [201:16] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [201:29] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1820,8 +1595,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [201:51] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [201:54] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[202:10] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [202:36] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1857,8 +1630,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [25:52] Speaker 1: Okey.
 
-[25:53] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [26:23] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [26:29] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1869,10 +1640,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [26:56] Speaker 1: Betul.
 
-[26:57] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[27:23] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [27:48] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [28:01] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1880,8 +1647,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [28:23] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [28:26] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[28:42] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [29:08] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1917,8 +1682,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [32:24] Speaker 1: Okey.
 
-[32:25] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [32:55] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [33:01] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1929,10 +1692,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [33:28] Speaker 1: Betul.
 
-[33:29] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[33:55] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [34:20] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [34:33] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -1940,8 +1699,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [34:55] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [34:58] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[35:14] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [35:40] Speaker 1: Okey lah. To give perspective lah.
 
@@ -1977,8 +1734,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [38:58] Speaker 1: Okey.
 
-[38:59] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [39:29] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [39:35] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -1989,10 +1744,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [40:02] Speaker 1: Betul.
 
-[40:03] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[40:29] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [40:54] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [41:07] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2000,8 +1751,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [41:29] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [41:32] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[41:48] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [42:14] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2037,8 +1786,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [45:32] Speaker 1: Okey.
 
-[45:33] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [46:03] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [46:09] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2049,10 +1796,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [46:36] Speaker 1: Betul.
 
-[46:37] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[47:03] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [47:28] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [47:41] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2060,8 +1803,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [48:03] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [48:06] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[48:22] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [48:48] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2097,8 +1838,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [52:06] Speaker 1: Okey.
 
-[52:07] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [52:37] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [52:43] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2109,10 +1848,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [53:10] Speaker 1: Betul.
 
-[53:11] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[53:37] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [54:02] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [54:15] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2120,8 +1855,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [54:37] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [54:40] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[54:56] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [55:22] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2157,8 +1890,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [58:40] Speaker 1: Okey.
 
-[58:41] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [59:11] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [59:17] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2169,10 +1900,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [59:44] Speaker 1: Betul.
 
-[59:45] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:00:11] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:00:36] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:00:49] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2180,8 +1907,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:01:11] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:01:14] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:01:30] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:01:56] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2217,8 +1942,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:05:14] Speaker 1: Okey.
 
-[1:05:15] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:05:45] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:05:51] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2229,10 +1952,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:06:18] Speaker 1: Betul.
 
-[1:06:19] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:06:45] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:07:10] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:07:23] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2240,8 +1959,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:07:45] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:07:48] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:08:04] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:08:30] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2277,8 +1994,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:11:48] Speaker 1: Okey.
 
-[1:11:49] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:12:19] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:12:25] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2289,10 +2004,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:12:52] Speaker 1: Betul.
 
-[1:12:53] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:13:19] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:13:44] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:13:57] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2300,8 +2011,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:14:19] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:14:22] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:14:38] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:15:04] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2337,8 +2046,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:18:22] Speaker 1: Okey.
 
-[1:18:23] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:18:53] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:18:59] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2348,8 +2055,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:19:13] Speaker 1: Ini berkutan daripada kenyataan er bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan er di Davao Del Norte. Ini di Mindanau lah. di Del Norte.
 
 [1:19:26] Speaker 1: Betul.
-
-[1:19:27] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
 
 [1:19:53] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas,
 
@@ -2362,8 +2067,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [80:53] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [80:56] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[81:12] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [81:38] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2399,8 +2102,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [84:56] Speaker 1: Okey.
 
-[84:57] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [85:27] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [85:33] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2411,10 +2112,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [86:00] Speaker 1: Betul.
 
-[86:01] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[86:27] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [86:52] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [87:05] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2422,8 +2119,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [87:27] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [87:30] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[87:46] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [88:12] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2459,8 +2154,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [91:30] Speaker 1: Okey.
 
-[91:31] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [92:01] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [92:07] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2471,10 +2164,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [92:34] Speaker 1: Betul.
 
-[92:35] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[93:01] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [93:26] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [93:39] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2482,8 +2171,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [94:01] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [94:04] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[94:20] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [94:46] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2519,8 +2206,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [98:04] Speaker 1: Okey.
 
-[98:05] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [98:35] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [98:41] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2531,10 +2216,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [99:08] Speaker 1: Betul.
 
-[99:09] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[99:35] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [100:00] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [100:13] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2542,8 +2223,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [100:35] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [100:38] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[100:54] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [101:20] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2579,8 +2258,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [104:38] Speaker 1: Okey.
 
-[104:39] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [105:09] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [105:15] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2591,10 +2268,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [105:42] Speaker 1: Betul.
 
-[105:43] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[106:09] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [106:34] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [106:47] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2602,8 +2275,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [107:09] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [107:12] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[107:28] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [107:54] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2639,8 +2310,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [111:12] Speaker 1: Okey.
 
-[111:13] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [111:43] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [111:49] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2651,10 +2320,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [112:16] Speaker 1: Betul.
 
-[112:17] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[112:43] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [113:08] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [113:21] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2662,8 +2327,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [113:43] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [113:46] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[114:02] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [114:28] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2699,8 +2362,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [117:46] Speaker 1: Okey.
 
-[117:47] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [118:17] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [118:23] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2711,10 +2372,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [118:50] Speaker 1: Betul.
 
-[118:51] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[119:17] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [119:42] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [119:55] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2722,8 +2379,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [120:17] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [120:20] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[120:36] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [121:02] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2759,8 +2414,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [124:20] Speaker 1: Okey.
 
-[124:21] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [124:51] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [124:57] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2771,10 +2424,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [125:24] Speaker 1: Betul.
 
-[125:25] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[125:51] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [126:16] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [126:29] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2782,8 +2431,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [126:51] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [126:54] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[127:10] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [127:36] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2819,8 +2466,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [130:54] Speaker 1: Okey.
 
-[130:55] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [131:25] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [131:31] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2831,10 +2476,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [131:58] Speaker 1: Betul.
 
-[131:59] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[132:25] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [132:50] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [133:03] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2842,8 +2483,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [133:25] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [133:28] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[133:44] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [134:10] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2879,8 +2518,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [137:28] Speaker 1: Okey.
 
-[137:29] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [137:59] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [138:05] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2891,10 +2528,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [138:32] Speaker 1: Betul.
 
-[138:33] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[138:59] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [139:24] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [139:37] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2902,8 +2535,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [139:59] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [140:02] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[140:18] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [140:44] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2939,8 +2570,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [144:02] Speaker 1: Okey.
 
-[144:03] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [144:33] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [144:39] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -2951,10 +2580,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [145:06] Speaker 1: Betul.
 
-[145:07] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[145:33] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [145:58] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [146:11] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -2962,8 +2587,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [146:33] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [146:36] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[146:52] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [147:18] Speaker 1: Okey lah. To give perspective lah.
 
@@ -2999,8 +2622,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [150:36] Speaker 1: Okey.
 
-[150:37] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [151:07] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [151:13] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3011,10 +2632,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [151:40] Speaker 1: Betul.
 
-[151:41] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[152:07] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [152:32] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [152:45] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3022,8 +2639,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [153:07] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [153:10] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[153:26] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [153:52] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3059,8 +2674,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [157:10] Speaker 1: Okey.
 
-[157:11] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [157:41] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [157:47] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3071,10 +2684,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [158:14] Speaker 1: Betul.
 
-[158:15] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[158:41] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [159:06] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [159:19] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3082,8 +2691,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [159:41] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [159:44] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[160:00] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [160:26] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3119,8 +2726,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [163:44] Speaker 1: Okey.
 
-[163:45] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [164:15] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [164:21] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3131,10 +2736,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [164:48] Speaker 1: Betul.
 
-[164:49] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[165:15] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [165:40] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [165:53] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3142,8 +2743,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [166:15] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [166:18] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[166:34] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [167:00] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3179,8 +2778,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [170:18] Speaker 1: Okey.
 
-[170:19] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [170:49] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [170:55] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3191,10 +2788,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [171:22] Speaker 1: Betul.
 
-[171:23] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[171:49] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [172:14] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [172:27] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3202,8 +2795,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [172:49] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [172:52] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[173:08] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [173:34] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3239,8 +2830,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [176:52] Speaker 1: Okey.
 
-[176:53] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [177:23] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [177:29] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3251,10 +2840,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [177:56] Speaker 1: Betul.
 
-[177:57] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[178:23] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [178:48] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [179:01] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3262,8 +2847,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [179:23] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [179:26] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[179:42] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [180:08] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3299,8 +2882,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [183:26] Speaker 1: Okey.
 
-[183:27] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [183:57] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [184:03] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3311,10 +2892,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [184:30] Speaker 1: Betul.
 
-[184:31] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[184:57] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [185:22] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [185:35] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3322,8 +2899,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [185:57] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [186:00] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[186:16] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [186:42] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3359,8 +2934,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [189:59] Speaker 1: Okey.
 
-[190:00] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [190:30] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [190:36] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3371,10 +2944,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [191:03] Speaker 1: Betul.
 
-[191:04] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[191:30] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [191:55] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [192:08] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3382,8 +2951,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [192:30] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [192:33] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[192:49] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [193:15] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3419,8 +2986,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [196:33] Speaker 1: Okey.
 
-[196:34] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [197:04] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [197:10] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3431,10 +2996,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [197:37] Speaker 1: Betul.
 
-[197:38] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[198:04] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [198:29] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [198:42] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3442,8 +3003,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [199:04] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [199:07] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[199:23] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [199:49] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3479,8 +3038,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [203:07] Speaker 1: Okey.
 
-[203:08] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [203:38] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [203:44] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3491,10 +3048,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [204:11] Speaker 1: Betul.
 
-[204:12] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[204:38] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [205:03] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [205:16] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3502,8 +3055,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [205:38] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [205:41] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[205:57] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [206:23] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3539,8 +3090,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [209:41] Speaker 1: Okey.
 
-[209:42] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [210:12] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [210:18] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3551,10 +3100,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [210:45] Speaker 1: Betul.
 
-[210:46] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[211:12] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [211:37] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [211:50] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3562,8 +3107,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [212:12] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [212:15] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[212:31] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [212:57] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3599,8 +3142,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [216:15] Speaker 1: Okey.
 
-[216:16] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [216:46] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [216:52] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3611,10 +3152,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [217:19] Speaker 1: Betul.
 
-[217:20] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[217:46] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [218:11] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [218:24] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3622,8 +3159,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [218:46] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [218:49] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[219:05] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [219:31] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3659,8 +3194,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [222:49] Speaker 1: Okey.
 
-[222:50] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [223:20] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [223:26] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3671,10 +3204,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [223:53] Speaker 1: Betul.
 
-[223:54] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[224:20] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [224:45] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [224:58] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3682,8 +3211,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [225:20] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [225:23] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[225:39] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [226:05] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3719,8 +3246,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [229:23] Speaker 1: Okey.
 
-[229:24] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [229:54] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [230:00] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3731,10 +3256,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [230:27] Speaker 1: Betul.
 
-[230:28] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[230:54] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [231:19] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [231:32] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3742,8 +3263,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [231:54] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [231:57] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[232:13] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [232:39] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3779,8 +3298,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [235:57] Speaker 1: Okey.
 
-[235:58] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [236:28] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [236:34] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3791,10 +3308,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [237:01] Speaker 1: Betul.
 
-[237:02] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[237:28] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [237:53] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [238:06] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3802,8 +3315,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [238:28] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [238:31] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[238:47] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [239:13] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3839,8 +3350,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [242:31] Speaker 1: Okey.
 
-[242:32] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [243:02] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [243:08] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3851,10 +3360,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [243:35] Speaker 1: Betul.
 
-[243:36] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[244:02] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [244:27] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [244:40] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3862,8 +3367,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [245:02] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [245:05] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[245:21] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [245:47] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3899,8 +3402,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [249:05] Speaker 1: Okey.
 
-[249:06] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [249:36] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [249:42] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3911,10 +3412,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [250:09] Speaker 1: Betul.
 
-[250:10] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[250:36] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [251:01] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [251:14] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3922,8 +3419,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [251:36] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [251:39] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[251:55] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [252:21] Speaker 1: Okey lah. To give perspective lah.
 
@@ -3959,8 +3454,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [255:39] Speaker 1: Okey.
 
-[255:40] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [256:10] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [256:16] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -3971,10 +3464,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [256:43] Speaker 1: Betul.
 
-[256:44] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[257:10] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [257:35] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [257:48] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -3982,8 +3471,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [258:10] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [258:13] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[258:29] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [258:55] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4019,8 +3506,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [262:13] Speaker 1: Okey.
 
-[262:14] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [262:44] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [262:50] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4031,10 +3516,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [263:17] Speaker 1: Betul.
 
-[263:18] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[263:44] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [264:09] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [264:22] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4042,8 +3523,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [264:44] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [264:47] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[265:03] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [265:29] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4079,8 +3558,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [268:47] Speaker 1: Okey.
 
-[268:48] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [269:18] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [269:24] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4091,10 +3568,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [269:51] Speaker 1: Betul.
 
-[269:52] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[270:18] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [270:43] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [270:56] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4102,8 +3575,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [271:18] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [271:21] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[271:37] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [272:03] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4139,8 +3610,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [275:21] Speaker 1: Okey.
 
-[275:22] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [275:52] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [275:58] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4151,10 +3620,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [276:25] Speaker 1: Betul.
 
-[276:26] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[276:52] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [277:17] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [277:30] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4162,8 +3627,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [277:52] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [277:55] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[278:11] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [278:37] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4199,8 +3662,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [281:55] Speaker 1: Okey.
 
-[281:56] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [282:26] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [282:32] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4211,10 +3672,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [282:59] Speaker 1: Betul.
 
-[283:00] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[283:26] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [283:51] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [284:04] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4222,8 +3679,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [284:26] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [284:29] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[284:45] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [285:11] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4259,8 +3714,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [288:29] Speaker 1: Okey.
 
-[288:30] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [289:00] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [289:06] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4271,10 +3724,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [289:33] Speaker 1: Betul.
 
-[289:34] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[290:00] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [290:25] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [290:38] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4282,8 +3731,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [291:00] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [291:03] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[291:19] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [291:45] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4319,8 +3766,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [295:03] Speaker 1: Okey.
 
-[295:04] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [295:34] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [295:40] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4331,10 +3776,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [296:07] Speaker 1: Betul.
 
-[296:08] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[296:34] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [296:59] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [297:12] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4342,8 +3783,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [297:34] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [297:37] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[297:53] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [298:19] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4379,8 +3818,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [301:37] Speaker 1: Okey.
 
-[301:38] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [302:08] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [302:14] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4391,10 +3828,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [302:41] Speaker 1: Betul.
 
-[302:42] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[303:08] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [303:33] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [303:46] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4402,8 +3835,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [304:08] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [304:11] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[304:27] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [304:53] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4439,8 +3870,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [308:11] Speaker 1: Okey.
 
-[308:12] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [308:42] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [308:48] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4451,10 +3880,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [39:15] Speaker 1: Betul.
 
-[39:16] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[39:42] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [40:07] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [40:20] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4462,8 +3887,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [40:42] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [40:45] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[41:01] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [41:27] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4499,8 +3922,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [44:45] Speaker 1: Okey.
 
-[44:46] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [45:16] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [45:22] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4511,10 +3932,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [45:49] Speaker 1: Betul.
 
-[45:50] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[46:16] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [46:41] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [46:54] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4522,8 +3939,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [47:16] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [47:19] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[47:35] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [48:01] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4559,8 +3974,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [51:19] Speaker 1: Okey.
 
-[51:20] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [51:50] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [51:56] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4571,10 +3984,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [52:23] Speaker 1: Betul.
 
-[52:24] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[52:50] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [53:15] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [53:28] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4582,8 +3991,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [53:50] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [53:53] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[54:09] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [54:35] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4619,8 +4026,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [57:53] Speaker 1: Okey.
 
-[57:54] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [58:24] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [58:30] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4631,10 +4036,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [58:57] Speaker 1: Betul.
 
-[58:58] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[59:24] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [59:49] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:00:02] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4642,8 +4043,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:00:24] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:00:27] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:00:43] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:01:09] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4678,8 +4077,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:03:42] Speaker 1: Beria. Cuma emm dia yalah saya fahamlah dalam PKR, emm lepas kami buka Fleksi Mart semua tu, then then dia ada push lah. Malas saya memang daripada 2023, saya dah bagi tahu kepada PKR masa itu dalam convention, bahawa model parti politik di Malaysia ni dah kena berubah, dia tak boleh jadi model yang sangat orang kata paternalistik dan juga bangsawan kan. Dulu zaman merdeka, dulu memanglah orang pergi jumpa ketua cawangan minta tu semua. Jadi dia kena bertukar kepada service based. So memang kita dah sebut daripada awal, sebenarnya nak buat service based ni, you know, Mart is one example lah, tapi tak mudah kan. Cuma saya perasan contohnya dalam dalam emm yang Himpunan Azam Baki 2 bulan lepaslah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar, semua tu kan ataupun notis untuk turun tu. When you total up empat lima content to across apa nama ni social media platforms kan, it was more than 150,000.
 
 [1:04:27] Speaker 1: Okey.
-
-[1:04:28] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
 
 [1:04:58] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
@@ -4751,10 +4148,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [72:05] Speaker 1: Betul.
 
-[72:06] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[72:32] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [72:57] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [73:10] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4762,8 +4155,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [73:32] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [73:35] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[73:51] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [74:17] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4799,8 +4190,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [77:35] Speaker 1: Okey.
 
-[77:36] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [78:06] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [78:12] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4811,10 +4200,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [78:39] Speaker 1: Betul.
 
-[78:40] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[79:06] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [79:31] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [79:44] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4822,8 +4207,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [80:06] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [80:09] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[80:25] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [80:51] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4859,8 +4242,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [84:09] Speaker 1: Okey.
 
-[84:10] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [84:40] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [84:46] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4871,10 +4252,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [85:13] Speaker 1: Betul.
 
-[85:14] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[85:40] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [86:05] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [86:18] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4882,8 +4259,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [86:40] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [86:43] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[86:59] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [87:25] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4919,8 +4294,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [90:43] Speaker 1: Okey.
 
-[90:44] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [91:14] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [91:20] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4931,10 +4304,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [91:47] Speaker 1: Betul.
 
-[91:48] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[92:14] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [92:39] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [92:52] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -4942,8 +4311,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [93:14] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [93:17] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[93:33] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [93:59] Speaker 1: Okey lah. To give perspective lah.
 
@@ -4979,8 +4346,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [97:17] Speaker 1: Okey.
 
-[97:18] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [97:48] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [97:54] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -4991,10 +4356,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [98:21] Speaker 1: Betul.
 
-[98:22] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[98:48] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [99:13] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [99:26] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5002,8 +4363,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [99:48] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [99:51] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[100:07] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [100:33] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5039,8 +4398,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [103:51] Speaker 1: Okey.
 
-[103:52] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [104:22] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [104:28] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5051,10 +4408,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [104:55] Speaker 1: Betul.
 
-[104:56] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[105:22] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [105:47] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [106:00] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5062,8 +4415,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [106:22] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [106:25] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[106:41] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [107:07] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5099,8 +4450,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [110:25] Speaker 1: Okey.
 
-[110:26] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [110:56] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [111:02] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5111,10 +4460,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [111:29] Speaker 1: Betul.
 
-[111:30] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[111:56] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [112:21] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [112:34] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5122,8 +4467,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [112:56] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [112:59] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[113:15] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [113:41] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5159,8 +4502,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [116:59] Speaker 1: Okey.
 
-[117:00] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [117:30] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [117:36] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5171,10 +4512,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [118:03] Speaker 1: Betul.
 
-[118:04] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[118:30] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [118:55] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [119:08] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5182,8 +4519,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [119:30] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [119:33] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[119:49] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [120:15] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5219,8 +4554,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [123:33] Speaker 1: Okey.
 
-[123:34] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [124:04] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [124:10] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5231,10 +4564,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [124:37] Speaker 1: Betul.
 
-[124:38] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[125:04] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [125:29] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [125:42] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5242,8 +4571,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [126:04] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [126:07] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[126:23] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [126:49] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5279,8 +4606,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [130:07] Speaker 1: Okey.
 
-[130:08] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [130:38] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [130:44] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5291,10 +4616,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [131:11] Speaker 1: Betul.
 
-[131:12] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[131:38] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [132:03] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [132:16] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5302,8 +4623,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [132:38] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [132:41] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[132:57] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [133:23] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5339,8 +4658,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [136:41] Speaker 1: Okey.
 
-[136:42] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [137:12] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [137:18] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5351,10 +4668,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [137:45] Speaker 1: Betul.
 
-[137:46] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[138:12] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [138:37] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [138:50] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5362,8 +4675,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [139:12] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [139:15] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[139:31] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [139:57] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5399,8 +4710,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [143:15] Speaker 1: Okey.
 
-[143:16] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [143:46] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [143:52] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5411,10 +4720,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [144:19] Speaker 1: Betul.
 
-[144:20] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[144:46] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [145:11] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [145:24] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5422,8 +4727,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [145:46] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [145:49] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[146:05] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [146:31] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5459,8 +4762,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [149:49] Speaker 1: Okey.
 
-[149:50] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [150:20] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [150:26] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5471,10 +4772,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [150:53] Speaker 1: Betul.
 
-[150:54] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[151:20] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [151:45] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [151:58] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5482,8 +4779,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [152:20] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [152:23] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[152:39] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [153:05] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5519,8 +4814,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [156:23] Speaker 1: Okey.
 
-[156:24] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [156:54] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [157:00] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5531,10 +4824,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [157:27] Speaker 1: Betul.
 
-[157:28] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[157:54] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [158:19] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [158:32] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5542,8 +4831,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [158:54] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [158:57] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[159:13] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [159:39] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5579,8 +4866,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [162:57] Speaker 1: Okey.
 
-[162:58] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [163:28] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [163:34] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5591,10 +4876,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [164:01] Speaker 1: Betul.
 
-[164:02] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[164:28] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [164:53] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [165:06] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5602,8 +4883,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [165:28] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [165:31] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[165:47] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [166:13] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5639,8 +4918,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [169:31] Speaker 1: Okey.
 
-[169:32] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [170:02] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [170:08] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5651,10 +4928,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [170:35] Speaker 1: Betul.
 
-[170:36] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[171:02] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [171:27] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [171:40] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5662,8 +4935,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [172:02] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [172:05] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[172:21] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [172:47] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5699,8 +4970,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [176:05] Speaker 1: Okey.
 
-[176:06] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [176:36] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [176:42] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5711,10 +4980,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [177:09] Speaker 1: Betul.
 
-[177:10] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[177:36] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [178:01] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [178:14] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5722,8 +4987,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [178:36] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [178:39] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[178:55] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [179:21] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5759,8 +5022,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [182:39] Speaker 1: Okey.
 
-[182:40] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [183:10] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [183:16] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5771,10 +5032,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [183:43] Speaker 1: Betul.
 
-[183:44] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[184:10] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [184:35] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [184:48] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5782,8 +5039,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [185:10] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [185:13] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[185:29] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [185:55] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5819,8 +5074,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [189:13] Speaker 1: Okey.
 
-[189:14] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [189:44] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [189:50] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5831,10 +5084,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [190:17] Speaker 1: Betul.
 
-[190:18] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[190:44] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [191:09] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [191:22] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5842,8 +5091,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [191:44] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [191:47] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[192:03] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [192:29] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5879,8 +5126,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [195:47] Speaker 1: Okey.
 
-[195:48] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [196:18] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [196:24] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5891,10 +5136,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [196:51] Speaker 1: Betul.
 
-[196:52] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[197:18] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [197:43] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [197:56] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5902,8 +5143,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [198:18] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [198:21] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[198:37] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [199:03] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5939,8 +5178,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [202:21] Speaker 1: Okey.
 
-[202:22] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [202:52] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [202:58] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -5951,10 +5188,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [203:25] Speaker 1: Betul.
 
-[203:26] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[203:52] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [204:17] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [204:30] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -5962,8 +5195,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [204:52] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [204:55] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[205:11] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [205:37] Speaker 1: Okey lah. To give perspective lah.
 
@@ -5999,8 +5230,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [28:55] Speaker 1: Okey.
 
-[28:56] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [29:26] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [29:32] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6011,10 +5240,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [29:59] Speaker 1: Betul.
 
-[30:00] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[30:26] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [30:51] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [31:04] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6022,8 +5247,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [31:26] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [31:29] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[31:45] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [32:11] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6059,8 +5282,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [35:29] Speaker 1: Okey.
 
-[35:30] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [36:00] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [36:06] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6071,10 +5292,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [36:33] Speaker 1: Betul.
 
-[36:34] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[37:00] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [37:25] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [37:38] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6082,8 +5299,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [38:00] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [38:03] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[38:19] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [38:45] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6119,8 +5334,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [42:03] Speaker 1: Okey.
 
-[42:04] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [42:34] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [42:40] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6131,10 +5344,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [43:07] Speaker 1: Betul.
 
-[43:08] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[43:34] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [43:59] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [44:12] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6142,8 +5351,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [44:34] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [44:37] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[44:53] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [45:19] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6179,8 +5386,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [48:37] Speaker 1: Okey.
 
-[48:38] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [49:08] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [49:14] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6191,10 +5396,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [49:41] Speaker 1: Betul.
 
-[49:42] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[50:08] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [50:33] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [50:46] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6202,8 +5403,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [51:08] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [51:11] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[51:27] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [51:53] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6239,8 +5438,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [55:11] Speaker 1: Okey.
 
-[55:12] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [55:42] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [55:48] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6251,10 +5448,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [56:15] Speaker 1: Betul.
 
-[56:16] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[56:42] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [57:07] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [57:20] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6262,8 +5455,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [57:42] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [57:45] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[58:01] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [58:27] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6299,8 +5490,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:01:45] Speaker 1: Okey.
 
-[1:01:46] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:02:16] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:02:22] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6311,10 +5500,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:02:49] Speaker 1: Betul.
 
-[1:02:50] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:03:16] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:03:41] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:03:54] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6322,8 +5507,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:04:16] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:04:19] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:04:35] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:05:01] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6359,8 +5542,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:08:19] Speaker 1: Okey.
 
-[1:08:20] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:08:50] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:08:56] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6371,10 +5552,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:09:23] Speaker 1: Betul.
 
-[1:09:24] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:09:50] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:10:15] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:10:28] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6382,8 +5559,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:10:50] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:10:53] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:11:09] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:11:35] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6419,8 +5594,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:14:53] Speaker 1: Okey.
 
-[1:14:54] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:15:24] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:15:30] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6431,10 +5604,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:15:57] Speaker 1: Betul.
 
-[1:15:58] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:16:24] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:16:49] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:17:02] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6442,8 +5611,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:17:24] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:17:27] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:17:43] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:18:09] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6479,8 +5646,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:21:27] Speaker 1: Okey.
 
-[1:21:28] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:21:58] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:22:04] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6491,10 +5656,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:22:31] Speaker 1: Betul.
 
-[1:22:32] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:22:58] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:23:23] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:23:36] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6502,8 +5663,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:23:58] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:24:01] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:24:17] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:24:43] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6539,8 +5698,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:28:01] Speaker 1: Okey.
 
-[1:28:02] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:28:32] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:28:38] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6551,10 +5708,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:29:05] Speaker 1: Betul.
 
-[1:29:06] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:29:32] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:29:57] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:30:10] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6562,8 +5715,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:30:32] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:30:35] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:30:51] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:31:17] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6599,8 +5750,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:34:35] Speaker 1: Okey.
 
-[1:34:36] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:35:06] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:35:12] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6611,10 +5760,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:35:39] Speaker 1: Betul.
 
-[1:35:40] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:36:06] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:36:31] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:36:44] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6622,8 +5767,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:37:06] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:37:09] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:37:25] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:37:51] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6659,8 +5802,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:41:09] Speaker 1: Okey.
 
-[1:41:10] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:41:40] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:41:46] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6671,10 +5812,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:42:13] Speaker 1: Betul.
 
-[1:42:14] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:42:40] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:43:05] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:43:18] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6682,8 +5819,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:43:40] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:43:43] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:43:59] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:44:25] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6719,8 +5854,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:47:43] Speaker 1: Okey.
 
-[1:47:44] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:48:14] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:48:20] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6731,10 +5864,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:48:47] Speaker 1: Betul.
 
-[1:48:48] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:49:14] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:49:39] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:49:52] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6742,8 +5871,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:50:14] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:50:17] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:50:33] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:50:59] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6779,8 +5906,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:54:17] Speaker 1: Okey.
 
-[1:54:18] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:54:48] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:54:54] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6791,10 +5916,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:55:21] Speaker 1: Betul.
 
-[1:55:22] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:55:48] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:56:13] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:56:26] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6802,8 +5923,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:56:48] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:56:51] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:57:07] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:57:33] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6839,8 +5958,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:00:51] Speaker 1: Okey.
 
-[2:00:52] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [2:01:22] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [2:01:28] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6851,10 +5968,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:01:55] Speaker 1: Betul.
 
-[2:01:56] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[2:02:22] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [2:02:47] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [2:03:00] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6862,8 +5975,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [2:03:22] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [2:03:25] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[2:03:41] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [2:04:07] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6899,8 +6010,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [207:25] Speaker 1: Okey.
 
-[207:26] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [207:56] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [208:02] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6911,10 +6020,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [208:29] Speaker 1: Betul.
 
-[208:30] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[208:56] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [209:21] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [29:34] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6922,8 +6027,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [29:56] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [29:59] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[30:15] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [30:41] Speaker 1: Okey lah. To give perspective lah.
 
@@ -6959,8 +6062,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [33:59] Speaker 1: Okey.
 
-[34:00] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [34:30] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [34:36] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -6971,10 +6072,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [35:03] Speaker 1: Betul.
 
-[35:04] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[35:30] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [35:55] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [36:08] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -6982,8 +6079,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [36:30] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [36:33] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[36:49] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [37:15] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7019,8 +6114,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [40:33] Speaker 1: Okey.
 
-[40:34] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [41:04] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [41:10] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7031,10 +6124,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [41:37] Speaker 1: Betul.
 
-[41:38] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[42:04] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [42:29] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [42:42] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7042,8 +6131,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [43:04] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [43:07] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[43:23] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [43:49] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7079,8 +6166,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [46:58] Speaker 1: Okey.
 
-[46:59] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [47:29] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [47:35] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7091,10 +6176,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [48:02] Speaker 1: Betul.
 
-[48:03] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[48:29] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [48:54] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [49:07] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7102,8 +6183,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [49:29] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [49:32] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[49:48] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [50:14] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7139,8 +6218,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [53:32] Speaker 1: Okey.
 
-[53:33] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [54:03] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [54:09] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7151,10 +6228,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [54:36] Speaker 1: Betul.
 
-[54:37] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[55:03] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [55:28] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [55:41] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7162,8 +6235,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [56:03] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [56:06] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[56:22] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [56:48] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7199,8 +6270,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:00:06] Speaker 1: Okey.
 
-[1:00:07] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:00:37] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:00:43] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7211,10 +6280,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:01:10] Speaker 1: Betul.
 
-[1:01:11] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:01:37] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:02:02] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:02:15] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7222,8 +6287,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:02:37] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:02:40] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:02:56] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:03:22] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7259,8 +6322,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:06:40] Speaker 1: Okey.
 
-[1:06:41] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:07:11] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:07:17] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7271,10 +6332,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:07:44] Speaker 1: Betul.
 
-[1:07:45] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:08:11] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:08:36] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:08:49] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7282,8 +6339,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:09:11] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:09:14] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:09:30] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:09:56] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7319,8 +6374,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:13:14] Speaker 1: Okey.
 
-[1:13:15] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:13:45] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:13:51] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7331,10 +6384,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:14:18] Speaker 1: Betul.
 
-[1:14:19] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:14:45] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:15:10] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:15:23] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7342,8 +6391,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:15:45] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:15:48] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:16:04] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:16:30] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7379,8 +6426,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:19:48] Speaker 1: Okey.
 
-[1:19:49] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:20:19] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:20:25] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7391,10 +6436,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:20:52] Speaker 1: Betul.
 
-[1:20:53] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:21:19] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:21:44] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:21:57] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7402,8 +6443,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:22:19] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:22:22] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:22:38] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:23:04] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7439,8 +6478,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:26:22] Speaker 1: Okey.
 
-[1:26:23] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:26:53] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:26:59] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7451,10 +6488,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:27:26] Speaker 1: Betul.
 
-[1:27:27] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:27:53] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:28:18] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:28:31] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7462,8 +6495,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:28:53] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:28:56] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:29:12] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:29:38] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7499,8 +6530,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:32:56] Speaker 1: Okey.
 
-[1:32:57] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:33:27] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:33:33] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7511,10 +6540,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:34:00] Speaker 1: Betul.
 
-[1:34:01] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:34:27] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:34:52] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:35:05] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7522,8 +6547,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:35:27] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:35:30] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:35:46] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:36:12] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7559,8 +6582,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:39:30] Speaker 1: Okey.
 
-[1:39:31] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:40:01] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:40:07] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7571,10 +6592,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:40:34] Speaker 1: Betul.
 
-[1:40:35] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:41:01] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:41:26] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:41:39] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7582,8 +6599,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:42:01] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:42:04] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:42:20] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:42:46] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7619,8 +6634,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [15:10] Speaker 1: Okey.
 
-[15:11] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [15:41] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [15:47] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7631,10 +6644,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [16:14] Speaker 1: Betul.
 
-[16:15] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[16:41] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [17:06] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [17:19] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7642,8 +6651,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [17:41] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [17:44] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[18:00] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [18:26] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7679,8 +6686,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [21:44] Speaker 1: Okey.
 
-[21:45] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [22:15] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [22:21] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7691,10 +6696,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [22:48] Speaker 1: Betul.
 
-[22:49] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[23:15] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [23:40] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [23:53] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7702,8 +6703,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [24:15] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [24:18] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[24:34] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [25:00] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7739,8 +6738,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [28:18] Speaker 1: Okey.
 
-[28:19] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [28:49] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [28:55] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7751,10 +6748,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [29:22] Speaker 1: Betul.
 
-[29:23] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[29:49] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [30:14] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [30:27] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7762,8 +6755,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [30:49] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [30:52] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[31:08] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [31:34] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7799,8 +6790,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [34:52] Speaker 1: Okey.
 
-[34:53] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [35:23] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [35:29] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7811,10 +6800,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [35:56] Speaker 1: Betul.
 
-[35:57] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[36:23] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [36:48] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [37:01] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7822,8 +6807,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [37:23] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [37:26] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[37:42] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [38:08] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7859,8 +6842,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [41:26] Speaker 1: Okey.
 
-[41:27] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [41:57] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [42:03] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7871,10 +6852,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [42:30] Speaker 1: Betul.
 
-[42:31] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[42:57] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [43:22] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [43:35] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7882,8 +6859,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [43:57] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [44:00] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[44:16] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [44:42] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7919,8 +6894,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [48:00] Speaker 1: Okey.
 
-[48:01] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [48:31] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [48:37] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7931,10 +6904,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [49:04] Speaker 1: Betul.
 
-[49:05] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[49:31] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [49:56] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [50:09] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -7942,8 +6911,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [50:31] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [50:34] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[50:50] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [51:16] Speaker 1: Okey lah. To give perspective lah.
 
@@ -7979,8 +6946,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [54:34] Speaker 1: Okey.
 
-[54:35] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [55:05] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [55:11] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -7991,10 +6956,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [55:38] Speaker 1: Betul.
 
-[55:39] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[56:05] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [56:30] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [56:43] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8002,8 +6963,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [57:05] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [57:08] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[57:24] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [57:50] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8039,8 +6998,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:01:08] Speaker 1: Okey.
 
-[1:01:09] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:01:39] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:01:45] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8051,10 +7008,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:02:12] Speaker 1: Betul.
 
-[1:02:13] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:02:39] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:03:04] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:03:17] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8062,8 +7015,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:03:39] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:03:42] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:03:58] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:04:24] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8099,8 +7050,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:07:42] Speaker 1: Okey.
 
-[1:07:43] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:08:13] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:08:19] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8111,10 +7060,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:08:46] Speaker 1: Betul.
 
-[1:08:47] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:09:13] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:09:38] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:09:51] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8122,8 +7067,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:10:13] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:10:16] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:10:32] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:10:58] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8159,8 +7102,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:14:16] Speaker 1: Okey.
 
-[1:14:17] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:14:47] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:14:53] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8171,10 +7112,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:15:20] Speaker 1: Betul.
 
-[1:15:21] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:15:47] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:16:12] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:16:25] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8182,8 +7119,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:16:47] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:16:50] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:17:06] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:17:32] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8219,8 +7154,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:20:50] Speaker 1: Okey.
 
-[1:20:51] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:21:21] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:21:27] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8231,10 +7164,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:21:54] Speaker 1: Betul.
 
-[1:21:55] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:22:21] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:22:46] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:22:59] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8242,8 +7171,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:23:21] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:23:24] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:23:40] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:24:06] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8279,8 +7206,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:27:24] Speaker 1: Okey.
 
-[1:27:25] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:27:55] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:28:01] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8291,10 +7216,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:28:28] Speaker 1: Betul.
 
-[1:28:29] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:28:55] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:29:20] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:29:33] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8302,8 +7223,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:29:55] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:29:58] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:30:14] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:30:40] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8339,8 +7258,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:33:58] Speaker 1: Okey.
 
-[1:33:59] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:34:29] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:34:35] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8351,10 +7268,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:35:02] Speaker 1: Betul.
 
-[1:35:03] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:35:29] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:35:54] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:36:07] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8362,8 +7275,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:36:29] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:36:32] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:36:48] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:37:14] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8399,8 +7310,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:40:32] Speaker 1: Okey.
 
-[1:40:33] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:41:03] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:41:09] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8411,10 +7320,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:41:36] Speaker 1: Betul.
 
-[1:41:37] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:42:03] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:42:28] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:42:41] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8422,8 +7327,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:43:03] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:43:06] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:43:22] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:43:48] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8459,8 +7362,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:47:06] Speaker 1: Okey.
 
-[1:47:07] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:47:37] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:47:43] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8471,10 +7372,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:48:10] Speaker 1: Betul.
 
-[1:48:11] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:48:37] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:49:02] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:49:15] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8482,8 +7379,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:49:37] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:49:40] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:49:56] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:50:22] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8519,8 +7414,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:53:40] Speaker 1: Okey.
 
-[1:53:41] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [1:54:11] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [1:54:17] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8531,10 +7424,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:54:44] Speaker 1: Betul.
 
-[1:54:45] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[1:55:11] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [1:55:36] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [1:55:49] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8542,8 +7431,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:56:11] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [1:56:14] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[1:56:30] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [1:56:56] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8579,8 +7466,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:00:14] Speaker 1: Okey.
 
-[2:00:15] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [2:00:45] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [2:00:51] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8591,10 +7476,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:01:18] Speaker 1: Betul.
 
-[2:01:19] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[2:01:45] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [2:02:10] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [2:02:23] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8602,8 +7483,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [2:02:45] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [2:02:48] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[2:03:04] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [2:03:30] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8639,8 +7518,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:06:48] Speaker 1: Okey.
 
-[2:06:49] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [2:07:19] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [2:07:25] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8651,10 +7528,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:07:52] Speaker 1: Betul.
 
-[2:07:53] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[2:08:19] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [2:08:44] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [2:08:57] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8662,8 +7535,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [2:09:19] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [2:09:22] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[2:09:38] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [2:10:04] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8699,8 +7570,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [213:22] Speaker 1: Okey.
 
-[213:23] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [213:53] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [213:59] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8711,10 +7580,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [214:26] Speaker 1: Betul.
 
-[214:27] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[214:53] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [215:18] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [215:31] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8722,8 +7587,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [215:53] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [215:56] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[216:12] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [216:38] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8759,8 +7622,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [219:56] Speaker 1: Okey.
 
-[219:57] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [220:27] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [220:33] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8771,10 +7632,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [221:00] Speaker 1: Betul.
 
-[221:01] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[221:27] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [221:52] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [222:05] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8782,8 +7639,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [222:27] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [222:30] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[222:46] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [223:12] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8819,8 +7674,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [226:30] Speaker 1: Okey.
 
-[226:31] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [227:01] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [227:07] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8831,10 +7684,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [227:34] Speaker 1: Betul.
 
-[227:35] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[228:01] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [228:26] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [228:39] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8842,8 +7691,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [229:01] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [229:04] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[229:20] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [229:46] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8879,8 +7726,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [233:04] Speaker 1: Okey.
 
-[233:05] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [233:35] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [233:41] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8891,10 +7736,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [234:08] Speaker 1: Betul.
 
-[234:09] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[234:35] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [235:00] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [235:13] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8902,8 +7743,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [235:35] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [235:38] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[235:54] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [236:20] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8939,8 +7778,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [239:38] Speaker 1: Okey.
 
-[239:39] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [240:09] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [240:15] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -8951,10 +7788,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [240:42] Speaker 1: Betul.
 
-[240:43] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[241:09] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [241:34] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [241:47] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -8962,8 +7795,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [242:09] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [242:12] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[242:28] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [242:54] Speaker 1: Okey lah. To give perspective lah.
 
@@ -8999,8 +7830,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [246:12] Speaker 1: Okey.
 
-[246:13] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [246:43] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [246:49] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -9011,10 +7840,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [247:16] Speaker 1: Betul.
 
-[247:17] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[247:43] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [248:08] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [248:21] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -9022,8 +7847,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [248:43] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [248:46] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[249:02] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [249:28] Speaker 1: Okey lah. To give perspective lah.
 
@@ -9059,8 +7882,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [252:46] Speaker 1: Okey.
 
-[252:47] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [253:17] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [253:23] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -9071,10 +7892,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [253:50] Speaker 1: Betul.
 
-[253:51] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[254:17] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [254:42] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [254:55] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -9082,8 +7899,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [255:17] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [255:20] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[255:36] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [256:02] Speaker 1: Okey lah. To give perspective lah.
 
@@ -9119,8 +7934,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [259:20] Speaker 1: Okey.
 
-[259:21] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [259:51] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [259:57] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -9131,10 +7944,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:00:24] Speaker 1: Betul.
 
-[2:00:25] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[2:00:51] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [2:01:16] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [2:01:29] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -9142,8 +7951,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [2:01:51] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [2:01:54] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[2:02:10] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [2:02:36] Speaker 1: Okey lah. To give perspective lah.
 
@@ -9179,8 +7986,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:05:54] Speaker 1: Okey.
 
-[2:05:55] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [2:06:25] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [2:06:31] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -9191,10 +7996,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:06:58] Speaker 1: Betul.
 
-[2:06:59] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[2:07:25] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [2:07:50] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [2:08:03] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -9202,8 +8003,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [2:08:25] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [2:08:28] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[2:08:44] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [2:09:10] Speaker 1: Okey lah. To give perspective lah.
 
@@ -9239,8 +8038,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [212:28] Speaker 1: Okey.
 
-[212:29] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [212:59] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [213:05] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -9251,10 +8048,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [213:32] Speaker 1: Betul.
 
-[213:33] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[213:59] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [214:24] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [214:37] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -9262,8 +8055,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [214:59] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [215:02] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[215:18] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [215:44] Speaker 1: Okey lah. To give perspective lah.
 
@@ -9299,8 +8090,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [219:02] Speaker 1: Okey.
 
-[219:03] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [219:33] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [219:39] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -9311,10 +8100,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [220:06] Speaker 1: Betul.
 
-[220:07] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[220:33] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [220:58] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [221:11] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -9322,8 +8107,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [221:33] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [221:36] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[221:52] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [222:18] Speaker 1: Okey lah. To give perspective lah.
 
@@ -9359,8 +8142,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [225:36] Speaker 1: Okey.
 
-[225:37] Speaker 1: So maksudnya, that is going to be the main stay in the future lah. Kita masih lagi perlukan demonstrasi dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak er dia memperlekehkan perkara itu, then you do that, you know er at your own peril lah kan.
-
 [226:07] Speaker 1: Beria. Lepas ni lagi banyaklah Albert Te pergi buat.
 
 [226:13] Speaker 1: Itu tak cukup YB. Kita tengok lagi.
@@ -9371,10 +8152,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [226:40] Speaker 1: Betul.
 
-[226:41] Speaker 1: Rancangan beli minyak dari Malaysia. yang merancang er beli minyak di Malaysia kerana sudah ada komunikasi komunikasi er dengan er pihak yang berkenaan di Johor er di pertengahan negeri Sembilan dan mahu membeli minyak er sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot er sekali beli, tapi 44 juta kerana memang banyak minyak di Johor di tengah-tengah negeri Sembilan.
-
-[227:07] Speaker 1: Saya, saya terbaca ni mula dekat Malaysia Kini lah sebab isu tu ha. Petronas, Nafi terlibat rancangan Filipina. Peliklah, Petronas ni, dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis, tahu. Jadi dia keluar kenyataan. So, saya pun pergilah semak dekat Philippines, Davao lah kan, kerana er wilayah er Davao Del Norte ni er ada pertemuan dengan pembesar daripada Johor. Oh, Johor.
-
 [227:32] Speaker 1: Dan er Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davao Del Norte.
 
 [227:45] Speaker 1: Sesiapa lah pembesar tu sampai sekarang. Maksudnya, rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi, ni dah beria sampai ke peringkat antarabangsa, dia scam er gabenor daripada satu wilayah, sampai Petronas terpaksa keluarkan penafian.
@@ -9382,8 +8159,6 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [228:07] Speaker 1: Berapa banyak 44 juta tu, sebenarnya?
 
 [228:10] Speaker 1: Dia kata 44 juta liter. Crude oil minyak mentah. Satu ialah crude oil tu tak dikiralah liter lah. So you have to convert satu barrel tu berapa liter.
-
-[228:26] Speaker 1: And then from there you taulah. And then kita boleh bandingkan dengan pengeluaran minyak mentah Malaysia. Tak sampai satu barrel pun. Tak sampai satu barrel. Satu barrel is 159. 159 liter. 159 liter. So, kalau 44 juta liter tu bahagi dengan 159 dapat lebih kurang. Aku gelak. Lebih kurang 200 juta er, lebih kurang 20 juta barrel.
 
 [228:52] Speaker 1: Okey lah. To give perspective lah.
 
@@ -9394,4 +8169,3 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [229:25] Speaker 1: Kan.
 
 [229:26] Speaker 1: Emm emm, aku pun nak jumpa sebenarnya. Kalaulah ada pembesar tu tengok, emm apa nama ni podcast ni, saya harap silalah datang jumpa saya. Saya nak belanja. Sebab dia punya
-
