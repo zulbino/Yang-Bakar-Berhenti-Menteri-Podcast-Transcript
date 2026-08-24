@@ -125,7 +125,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - missing interview-en.md
   - missing interview-ms.md
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 1198s, 10/12 caption samples matched)
-  - models: raw.md=gemini-3-flash-preview
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2026-06-05-ep51-so-it-begins-prn-johor-n9-tiada-madani-bagimu-ybm-51**
   - raw.md produced by weaker fallback model gemini-flash-lite-latest -- verify content quality closely
   - missing interview.md

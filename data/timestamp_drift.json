@@ -1766,61 +1766,51 @@
   },
   "2026-05-29-ep50-rafizi-berdepan-firing-squad-ybm-50": {
     "status": "ok",
-    "samples_matched": 10,
-    "samples_not_found_nearby": 2,
+    "samples_matched": 8,
+    "samples_not_found_nearby": 4,
     "samples_total": 12,
-    "max_drift_seconds": 1198,
-    "flagged": true,
+    "max_drift_seconds": 176,
+    "flagged": false,
     "details": [
       {
-        "claimed": 297,
-        "actual": 499,
-        "drift": 202
+        "claimed": 572,
+        "actual": 748,
+        "drift": 176
       },
       {
-        "claimed": 1353,
-        "actual": 1788,
-        "drift": 435
+        "claimed": 2726,
+        "actual": 2773,
+        "drift": 47
       },
       {
-        "claimed": 2417,
-        "actual": 2669,
-        "drift": 252
+        "claimed": 3320,
+        "actual": 3311,
+        "drift": -9
       },
       {
-        "claimed": 2793,
-        "actual": 3075,
-        "drift": 282
-      },
-      {
-        "claimed": 3514,
+        "claimed": 3881,
         "actual": 3879,
-        "drift": 365
+        "drift": -2
       },
       {
-        "claimed": 4354,
-        "actual": 4715,
-        "drift": 361
+        "claimed": 4744,
+        "actual": 4836,
+        "drift": 92
       },
       {
-        "claimed": 5472,
-        "actual": 4988,
-        "drift": -484
+        "claimed": 6902,
+        "actual": 6954,
+        "drift": 52
       },
       {
-        "claimed": 7081,
-        "actual": 5981,
-        "drift": -1100
+        "claimed": 8005,
+        "actual": 7996,
+        "drift": -9
       },
       {
-        "claimed": 7852,
-        "actual": 6722,
-        "drift": -1130
-      },
-      {
-        "claimed": 8864,
-        "actual": 7666,
-        "drift": -1198
+        "claimed": 9271,
+        "actual": 9267,
+        "drift": -4
       }
     ]
   },
