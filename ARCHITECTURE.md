@@ -390,6 +390,19 @@ lesson, learned the hard way:
   error (~660s) sits well above the threshold. A threshold picked without this
   empirical check would have either buried the real signal in noise or missed
   it entirely.
+- **A flagged drift can be a timestamp-resolution artifact, not displaced
+  content.** ep41's local-ASR redo flagged at 819s max drift (well above the
+  300s threshold and close to ep30's confirmed-real ~660s), but a manual read
+  of the flagged region found no missing or reordered content -- instead, the
+  VAD chunker had merged roughly 28 minutes of genuinely continuous speech
+  (no pause long enough to split on) into one `[MM:SS]` block covering the
+  episode's entire final stretch. Later caption samples inside that block
+  legitimately occur minutes after the block's single claimed timestamp, so
+  the drift is real but harmless: the transcript is complete and correctly
+  ordered, just coarser-grained than usual for that one stretch. Distinguishing
+  this from genuine displacement needs the same manual read `check_timestamp_drift.py`
+  already calls for on ambiguous flags -- check whether the block's *content*
+  spans an implausibly long single turn before assuming the timestamp is wrong.
 
 ### Raw transcription: verifying speaker labels against real audio
 

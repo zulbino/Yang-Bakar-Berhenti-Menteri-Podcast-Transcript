@@ -150,54 +150,7 @@
     ]
   },
   "2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2": {
-    "status": "ok",
-    "samples_matched": 8,
-    "samples_not_found_nearby": 4,
-    "samples_total": 12,
-    "max_drift_seconds": 756,
-    "flagged": true,
-    "details": [
-      {
-        "claimed": 880,
-        "actual": 920,
-        "drift": 40
-      },
-      {
-        "claimed": 1062,
-        "actual": 306,
-        "drift": -756
-      },
-      {
-        "claimed": 1285,
-        "actual": 1280,
-        "drift": -5
-      },
-      {
-        "claimed": 2238,
-        "actual": 2282,
-        "drift": 44
-      },
-      {
-        "claimed": 2873,
-        "actual": 2958,
-        "drift": 85
-      },
-      {
-        "claimed": 3534,
-        "actual": 3645,
-        "drift": 111
-      },
-      {
-        "claimed": 4089,
-        "actual": 4095,
-        "drift": 6
-      },
-      {
-        "claimed": 4380,
-        "actual": 4383,
-        "drift": 3
-      }
-    ]
+    "status": "no_captions"
   },
   "2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard": {
     "status": "ok",
@@ -209,13 +162,7 @@
     "details": []
   },
   "2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-": {
-    "status": "ok",
-    "samples_matched": 0,
-    "samples_not_found_nearby": 12,
-    "samples_total": 12,
-    "max_drift_seconds": 0,
-    "flagged": true,
-    "details": []
+    "status": "no_captions"
   },
   "2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar": {
     "status": "no_captions"
@@ -1657,21 +1604,66 @@
   },
   "2026-03-27-ep41-siapa-mr-r-bukti-40-muka-surat-tindak-balas-kerajaan-susulan": {
     "status": "ok",
-    "samples_matched": 2,
-    "samples_not_found_nearby": 10,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 683,
+    "max_drift_seconds": 819,
     "flagged": true,
     "details": [
       {
-        "claimed": 134,
-        "actual": 127,
-        "drift": -7
+        "claimed": 68,
+        "actual": 81,
+        "drift": 13
       },
       {
-        "claimed": 1239,
-        "actual": 556,
-        "drift": -683
+        "claimed": 126,
+        "actual": 564,
+        "drift": 438
+      },
+      {
+        "claimed": 1053,
+        "actual": 1200,
+        "drift": 147
+      },
+      {
+        "claimed": 1771,
+        "actual": 1813,
+        "drift": 42
+      },
+      {
+        "claimed": 7150,
+        "actual": 7157,
+        "drift": 7
+      },
+      {
+        "claimed": 7194,
+        "actual": 7301,
+        "drift": 107
+      },
+      {
+        "claimed": 7442,
+        "actual": 7597,
+        "drift": 155
+      },
+      {
+        "claimed": 7910,
+        "actual": 8197,
+        "drift": 287
+      },
+      {
+        "claimed": 8500,
+        "actual": 8536,
+        "drift": 36
+      },
+      {
+        "claimed": 8670,
+        "actual": 8927,
+        "drift": 257
+      },
+      {
+        "claimed": 9227,
+        "actual": 10046,
+        "drift": 819
       }
     ]
   },
