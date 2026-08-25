@@ -152,11 +152,11 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-en.md looks truncated (ratio 0.21 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.24 vs raw.md, expected >= 0.35)
 - [ ] **2026-08-07-ep58-umno-pas-asal-melayu-berkuasa-masalah-lain-belakang-kira-ybm**
-  - raw.md produced by weaker fallback model gemini-flash-lite-latest -- verify content quality closely
+  - raw.md has a 43863-char block with no paragraph breaks (wall-of-text)
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
-  - models: raw.md=gemini-flash-lite-latest
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 
 ## Clean episodes
 

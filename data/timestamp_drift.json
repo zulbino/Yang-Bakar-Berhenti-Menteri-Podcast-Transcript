@@ -2214,68 +2214,68 @@
     "samples_matched": 12,
     "samples_not_found_nearby": 0,
     "samples_total": 12,
-    "max_drift_seconds": 176,
+    "max_drift_seconds": 230,
     "flagged": false,
     "details": [
       {
         "claimed": 44,
-        "actual": 44,
-        "drift": 0
+        "actual": 251,
+        "drift": 207
       },
       {
-        "claimed": 100,
-        "actual": 94,
+        "claimed": 499,
+        "actual": 497,
+        "drift": -2
+      },
+      {
+        "claimed": 908,
+        "actual": 983,
+        "drift": 75
+      },
+      {
+        "claimed": 1084,
+        "actual": 1085,
+        "drift": 1
+      },
+      {
+        "claimed": 3522,
+        "actual": 3508,
+        "drift": -14
+      },
+      {
+        "claimed": 3559,
+        "actual": 3532,
+        "drift": -27
+      },
+      {
+        "claimed": 4740,
+        "actual": 4848,
+        "drift": 108
+      },
+      {
+        "claimed": 5025,
+        "actual": 5255,
+        "drift": 230
+      },
+      {
+        "claimed": 5735,
+        "actual": 5733,
+        "drift": -2
+      },
+      {
+        "claimed": 5758,
+        "actual": 5906,
+        "drift": 148
+      },
+      {
+        "claimed": 10214,
+        "actual": 10208,
         "drift": -6
       },
       {
-        "claimed": 147,
-        "actual": 153,
-        "drift": 6
-      },
-      {
-        "claimed": 189,
-        "actual": 180,
+        "claimed": 10748,
+        "actual": 10739,
         "drift": -9
-      },
-      {
-        "claimed": 260,
-        "actual": 256,
-        "drift": -4
-      },
-      {
-        "claimed": 324,
-        "actual": 309,
-        "drift": -15
-      },
-      {
-        "claimed": 359,
-        "actual": 359,
-        "drift": 0
-      },
-      {
-        "claimed": 401,
-        "actual": 388,
-        "drift": -13
-      },
-      {
-        "claimed": 513,
-        "actual": 689,
-        "drift": 176
-      },
-      {
-        "claimed": 620,
-        "actual": 742,
-        "drift": 122
-      },
-      {
-        "claimed": 683,
-        "actual": 685,
-        "drift": 2
-      },
-      {
-        "claimed": 763,
-        "actual": 733,
-        "drift": -30
       }
     ]
   },
