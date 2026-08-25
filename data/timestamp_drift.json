@@ -150,10 +150,63 @@
     ]
   },
   "2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2": {
-    "status": "no_captions"
+    "status": "ok",
+    "samples_matched": 8,
+    "samples_not_found_nearby": 4,
+    "samples_total": 12,
+    "max_drift_seconds": 756,
+    "flagged": true,
+    "details": [
+      {
+        "claimed": 880,
+        "actual": 920,
+        "drift": 40
+      },
+      {
+        "claimed": 1062,
+        "actual": 306,
+        "drift": -756
+      },
+      {
+        "claimed": 1285,
+        "actual": 1280,
+        "drift": -5
+      },
+      {
+        "claimed": 2238,
+        "actual": 2282,
+        "drift": 44
+      },
+      {
+        "claimed": 2873,
+        "actual": 2958,
+        "drift": 85
+      },
+      {
+        "claimed": 3534,
+        "actual": 3645,
+        "drift": 111
+      },
+      {
+        "claimed": 4089,
+        "actual": 4095,
+        "drift": 6
+      },
+      {
+        "claimed": 4380,
+        "actual": 4383,
+        "drift": 3
+      }
+    ]
   },
   "2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard": {
-    "status": "no_captions"
+    "status": "ok",
+    "samples_matched": 0,
+    "samples_not_found_nearby": 12,
+    "samples_total": 12,
+    "max_drift_seconds": 0,
+    "flagged": true,
+    "details": []
   },
   "2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-": {
     "status": "ok",
@@ -614,12 +667,23 @@
   },
   "2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21": {
     "status": "ok",
-    "samples_matched": 0,
-    "samples_not_found_nearby": 12,
+    "samples_matched": 2,
+    "samples_not_found_nearby": 10,
     "samples_total": 12,
-    "max_drift_seconds": 0,
+    "max_drift_seconds": 55,
     "flagged": true,
-    "details": []
+    "details": [
+      {
+        "claimed": 1394,
+        "actual": 1373,
+        "drift": -21
+      },
+      {
+        "claimed": 2573,
+        "actual": 2518,
+        "drift": -55
+      }
+    ]
   },
   "2025-11-14-ep22-rafizi-jual-nasi-bawah-rm5-dinamik-prn-sabah-ybm-ep-22": {
     "status": "ok",
@@ -1543,26 +1607,51 @@
   },
   "2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne": {
     "status": "ok",
-    "samples_matched": 3,
-    "samples_not_found_nearby": 9,
+    "samples_matched": 8,
+    "samples_not_found_nearby": 4,
     "samples_total": 12,
-    "max_drift_seconds": 857,
-    "flagged": true,
+    "max_drift_seconds": 289,
+    "flagged": false,
     "details": [
       {
-        "claimed": 54,
-        "actual": 54,
+        "claimed": 53,
+        "actual": 156,
+        "drift": 103
+      },
+      {
+        "claimed": 695,
+        "actual": 713,
+        "drift": 18
+      },
+      {
+        "claimed": 3711,
+        "actual": 3934,
+        "drift": 223
+      },
+      {
+        "claimed": 4600,
+        "actual": 4595,
+        "drift": -5
+      },
+      {
+        "claimed": 5305,
+        "actual": 5594,
+        "drift": 289
+      },
+      {
+        "claimed": 7253,
+        "actual": 7241,
+        "drift": -12
+      },
+      {
+        "claimed": 7910,
+        "actual": 7973,
+        "drift": 63
+      },
+      {
+        "claimed": 8125,
+        "actual": 8125,
         "drift": 0
-      },
-      {
-        "claimed": 616,
-        "actual": 613,
-        "drift": -3
-      },
-      {
-        "claimed": 1417,
-        "actual": 560,
-        "drift": -857
       }
     ]
   },

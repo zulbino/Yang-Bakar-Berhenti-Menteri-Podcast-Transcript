@@ -56,10 +56,11 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-en.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.24 vs raw.md, expected >= 0.35)
 - [ ] **2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne**
-  - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
+  - interview.md looks truncated (ratio 0.10 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.11 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.10 vs raw.md, expected >= 0.35)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 857s, 3/12 caption samples matched)
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2026-03-27-ep41-siapa-mr-r-bukti-40-muka-surat-tindak-balas-kerajaan-susulan**
   - interview.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
