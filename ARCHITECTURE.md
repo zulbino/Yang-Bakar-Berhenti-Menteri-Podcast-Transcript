@@ -501,6 +501,51 @@ rewrite/translate/metadata stage.
   the natural fallback when this happens: switching to the next model (e.g.
   `gemini-3.5-flash`) picks up cleanly.
 
+### 1.14: A coverage check that checked the wrong timestamp, and the "content loss" it invented
+
+- **Found:** ep44's `--engine local` raw stage failed repeatedly with an identical
+  error, always stopping "1203s before the episode's end (last turn at 9704s of
+  10907s)". A first attempt at a fix (periodic `torch.cuda.empty_cache()` every 100
+  chunks, on the theory that GPU memory fragmentation across hundreds of sequential
+  forward passes was silently dropping chunks past roughly index 524) made no
+  difference: a fresh run reproduced the exact same 9704s/1203s numbers, byte-for-byte
+  identical to the run before the fix.
+- **Root cause:** that exact reproducibility was the tell that this was never a
+  content-loss bug at all. Debug logging added directly into
+  `transcribe_raw_local()` showed the last **pre-merge** raw chunk actually started at
+  10856.9s, essentially the true end of the 10906.8s episode; every one of the final
+  586/586 chunks transcribed real content, none empty. The problem was in the
+  *merge* step: `transcribe_raw_local` merges consecutive same-speaker turns into one
+  line that keeps only the **start** timestamp of the run (see 1.9's doubled-blank-line
+  fix and the "VAD chunking splits audio every ~28s" comment for why that merge
+  exists at all). ep44's final ~19 minutes were one uninterrupted speaker turn, so all
+  of it correctly merged into a single 13,769-character line labeled with its start
+  time, 9704s, even though the line's actual content ran all the way to the real end.
+  The coverage check I'd just added compared `duration_seconds` against that merged
+  line's start timestamp instead of the last chunk actually processed, so it raised a
+  loud, perfectly reproducible false alarm on entirely correct output. This is the
+  same class of artifact as 1.11's ep41 case (a long uninterrupted block reads as
+  "drift" because later content shares one earlier label), just tripping a hard
+  failure instead of a soft QA flag.
+- **Fix:** check against `turns[-1][0]` (the last **pre-merge** chunk's own start
+  time, anchored to real per-chunk VAD/ASR timing) instead of `lines[-1][0]` (the
+  last **merged** line's start time, which a long same-speaker run can leave far
+  earlier than the content it actually contains).
+- **Residual limitation, not fixed:** `qa_check.py`'s own `raw.md timestamp coverage`
+  check has the identical flaw, reading the *last* `[MM:SS]` label in the file's text
+  rather than any true end-of-content signal, because `raw.md` only ever records a
+  turn's **start** timestamp, never its end: merging discards the finer-grained
+  timestamps that would be needed to detect this correctly, and that information
+  isn't recoverable from the persisted file alone. Fixing this properly would mean
+  changing what `raw.md` records (e.g. an end timestamp per merged line), a bigger
+  format change not undertaken here. In the meantime, an episode with a genuinely
+  long uninterrupted closing turn will keep showing a low coverage percentage and
+  drift flag in `QA_CHECKLIST.md` even when, as confirmed directly on ep44, nothing
+  is actually missing; treat that combination (low coverage + a single very long
+  final block + a real sign-off at the true end of `raw.md`) as this known pattern,
+  not a fresh bug, and verify by reading the file's actual ending before assuming
+  content is missing.
+
 ### 2.1: Choosing a fallback provider
 
 - **Found:** the rewrite stage originally only used Gemini. When Gemini's
@@ -560,18 +605,57 @@ rewrite/translate/metadata stage.
   [a-z0-9]+"`) and raises, so `retry()` naturally retries it like any other failure.
   Both ep13 and ep47 were re-extracted with real metadata.
 
+### 2.2: Claude silently condensing heavily disfluent chunks instead of fully rewriting them
+
+- **Found:** ep45 and ep49's rewrites both improved sharply on a retry elsewhere in
+  the pipeline but stayed well under `qa_check.py`'s 0.35 file-level truncation
+  threshold, with the shortfall concentrated in specific chunks rather than spread
+  evenly. `retry()` only catches exceptions, so a chunk that "succeeds" with
+  `stop_reason=end_turn` (not `max_tokens`, so `_generate_with_continuation` never
+  kicks in) after being heavily condensed sails through undetected, same failure
+  class as 2.1's placeholder-metadata bug but on the clean-rewrite/translate calls
+  instead.
+- **Root cause:** isolated on ep45's worst chunk, the episode's opening ~20 minutes
+  of heavily disfluent political banter (short interjections, "kan"/"lah"/"hmm",
+  one-word reactions like "Ya." or "Panglima. Panglima."). The model has a genuine
+  tendency to compress this register well below a full rewrite regardless of
+  explicit instructions not to. Ruled out as a chunk-size-only or prompt-wording-only
+  problem, and ruled out extended thinking eating the output budget (disabling it via
+  `--effort low` barely moved an isolated test's ratio: 0.46 -> 0.49). Not fully
+  deterministic either: 9 sampled attempts on this one chunk across different chunk
+  boundaries, chunk sizes, and effort levels ranged from 0.13 to 0.51, clustering
+  tightly *within* one CLI invocation's retry attempts (5 consecutive attempts in one
+  run landed 0.127-0.136) but shifting noticeably *between* separate invocations of
+  the same prompt and chunk.
+- **Fix (partial):** `lib_claude_rewrite.py` now uses a smaller chunk size than
+  Gemini's (`CLAUDE_CHUNK_CHARS = 20_000` vs. `lib_gemini.py`'s `CHUNK_CHARS =
+  40_000`) and `--effort low` on every CLI call, both of which measurably helped in
+  isolated single-sample tests, plus a per-chunk length check
+  (`MIN_CHUNK_RATIO = 0.10`) in `rewrite_clean`/`translate` that raises and retries a
+  chunk whose result comes back under 10% of its input length. This is a genuine
+  ceiling, not the 1:1 ratio full, working rewrites land at on less disfluent content
+  (confirmed: ep30/ep37 redos landed at ratio 0.96); retries could not reliably
+  force this specific content above roughly 0.3, so the floor is calibrated to stop
+  retrying once retries stop helping, not to guarantee a good outcome.
+- **Not fixed:** an episode with a segment like ep45's opening can still legitimately
+  land below `qa_check.py`'s 0.35 file-level threshold after this fix. That's the
+  checklist correctly flagging a real, only partially-mitigated compression issue for
+  a human to look at, not a bug to silence by loosening the file-level threshold.
+
 ## Why a clean exit code isn't enough
 
-This pipeline has produced seven distinct bugs that returned exit code 0 with no
+This pipeline has produced eight distinct bugs that returned exit code 0 with no
 visible error, while quietly corrupting or skipping output: a free-tier quota check
 that never matched its target string, a transcript-wiping edge case in fragment
 trimming, hallucinated runaway timestamps that satisfied a naive coverage check,
 missing paragraph breaks that silently bypassed text chunking, an argument-parsing
 bug that made a 17-episode batch process zero episodes, a continuation-loop
 hallucination that duplicated whole passages under fabricated timestamps that stayed
-within a plausible range (previous section), and a retry wrapper that validated
+within a plausible range (previous section), a retry wrapper that validated
 nothing but the absence of an exception, letting a placeholder metadata stub through
-as a "successful" result (previous section). None of them raised an exception.
+as a "successful" result (previous section), and the same validate-nothing-but-the-
+exception gap letting Claude silently condense a heavily disfluent chunk instead of
+fully rewriting it (2.2). None of them raised an exception.
 
 That's why `scripts/qa_check.py` exists, and why it's worth running (and reading
 `QA_CHECKLIST.md`, not just the exit code) after every batch. It checks for all of

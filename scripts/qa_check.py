@@ -8,6 +8,9 @@ Checks per episode:
   - raw.md doesn't repeat the same long block verbatim at different timestamps
     (catches a continuation-loop hallucination that still passes the timestamp
     coverage check since the fabricated timestamps stay in a plausible range)
+  - raw.md doesn't have a long run of consecutive short blocks with identical
+    text at different timestamps (catches a distributed repetition-loop
+    degeneration too small-per-block for the checks above to see)
   - interview.md / interview-en.md / interview-ms.md exist and are not
     disproportionately short vs raw.md (catches the resulting truncated rewrite)
   - raw.md doesn't contain leaked model reasoning ("the prompt") or backtick-
@@ -103,6 +106,27 @@ SPEAKER_PREFIX_RE = re.compile(r"^\[(?:\d+:)?\d+:\d+\]\s*[^:]*:\s*")
 REPETITION_RE = re.compile(r"(.{8,150}?)\1{3,}", re.S)
 REPETITION_MIN_SPAN_CHARS = 150
 
+# A third repetition variant, distinct from both above: instead of one unbroken
+# run of literal text, the same short reaction repeats as its own separate
+# [MM:SS]-stamped block, over and over, for an extended stretch. Confirmed on
+# ep49 (raw.md produced by the weak gemini-3.5-flash-lite fallback): "[MM:SS]
+# ah,\n\n" repeated ~4,800 times consecutively, spanning roughly 30 minutes of
+# real audio with no other content -- about half the file. Neither check above
+# catches it: REPETITION_RE only matches one unbroken run of literal text, but
+# each block here has a different timestamp, breaking up the literal match;
+# duplicate_blocks() only flags blocks at or above DUPLICATE_BLOCK_MIN_CHARS
+# (300 chars), but each "ah," block here is only ~10-15 chars. Needs its own
+# check: many consecutive short blocks, below the duplicate-block size floor,
+# with identical text once the timestamp/speaker prefix is stripped.
+SHORT_LOOP_MIN_RUN = 20
+SHORT_LOOP_MAX_CHARS = DUPLICATE_BLOCK_MIN_CHARS
+# Confirmed on ep49's actual degenerate blocks: they carry no speaker label at
+# all ("[15:46] ah,", not "[15:46] Speaker 1: ah,"), so SPEAKER_PREFIX_RE (which
+# requires a colon-terminated label) never matches and leaves each block's
+# unique timestamp in place, defeating the identical-text comparison below.
+# Strip just the leading timestamp, whether or not a speaker label follows.
+LEADING_TIMESTAMP_RE = re.compile(r"^\[(?:\d+:)?\d+:\d+\]\s*")
+
 MODEL_RE = re.compile(r"^model:\s*(\S+)", re.M)
 # Bottom of the fallback chain, only reached once every better model is exhausted or
 # down -- confirmed prone to silently dropping code-switched content (see
@@ -157,6 +181,25 @@ def duplicate_blocks(body):
     return dup_count, dup_chars
 
 
+def short_block_loops(body):
+    blocks = [b.strip() for b in body.split("\n\n") if b.strip()]
+    runs = []
+    prev_key, run_len, run_chars = None, 0, 0
+    for block in blocks:
+        key = LEADING_TIMESTAMP_RE.sub("", block, count=1) if len(block) < SHORT_LOOP_MAX_CHARS else None
+        if key is not None and key == prev_key:
+            run_len += 1
+            run_chars += len(block) + 2
+        else:
+            if run_len >= SHORT_LOOP_MIN_RUN:
+                runs.append((run_len, run_chars, prev_key))
+            run_len, run_chars = (1, len(block) + 2) if key is not None else (0, 0)
+        prev_key = key
+    if run_len >= SHORT_LOOP_MIN_RUN:
+        runs.append((run_len, run_chars, prev_key))
+    return runs
+
+
 def check_episode(ep_dir):
     issues = []
     models = {}
@@ -197,6 +240,15 @@ def check_episode(ep_dir):
         issues.append(
             f"raw.md has a repetition-loop degeneration ({total_span} chars repeating "
             f"{sample[:60]!r}...) -- model got stuck re-emitting the same short phrase"
+        )
+
+    short_loops = short_block_loops(body)
+    if short_loops:
+        run_len, run_chars, sample = max(short_loops, key=lambda x: x[1])
+        issues.append(
+            f"raw.md has {run_len} consecutive near-identical short blocks "
+            f"({run_chars} chars total, e.g. {sample[:40]!r}) -- likely a "
+            "distributed repetition-loop degeneration, not real content"
         )
 
     dup_count, dup_chars = duplicate_blocks(body)

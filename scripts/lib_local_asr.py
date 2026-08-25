@@ -172,6 +172,8 @@ def transcribe_raw_local(audio_path, duration_seconds):
             text = out["text"].strip()
             if text:
                 turns.extend(_speaker_lines(text, segment, sr, start, diarization))
+            else:
+                print(f"  [DEBUG] chunk {i} ({start:.1f}-{end:.1f}s) empty transcription", flush=True)
             if (i + 1) % 20 == 0 or i + 1 == len(chunks):
                 elapsed = time.time() - t0
                 rate = (i + 1) / elapsed
@@ -188,6 +190,20 @@ def transcribe_raw_local(audio_path, duration_seconds):
                 lines[-1] = (lines[-1][0], speaker, lines[-1][2] + " " + line_text)
             else:
                 lines.append((line_start, speaker, line_text))
+
+        # Checked against `turns` (pre-merge), not `lines`: a long run of consecutive
+        # same-speaker chunks near the episode's end legitimately merges into one line
+        # that keeps only its *start* timestamp, which can sit 1000+ seconds before the
+        # episode's real end even though every chunk transcribed fine -- confirmed
+        # directly on ep44 (a false RuntimeError here on a first version of this check
+        # that compared against `lines[-1][0]` instead). `turns[-1][0]` is the last
+        # chunk actually processed, so it reflects real coverage.
+        if turns and duration_seconds - turns[-1][0] > 300:
+            raise RuntimeError(
+                f"local ASR stopped {duration_seconds - turns[-1][0]:.0f}s before the "
+                f"episode's end (last turn at {turns[-1][0]:.0f}s of {duration_seconds}s) "
+                "-- suspected GPU memory exhaustion on a long run, not a real content gap"
+            )
         return "\n\n".join(f"[{_format_timestamp(s)}] {spk}: {t}" for s, spk, t in lines) + "\n"
     finally:
         wav_path.unlink(missing_ok=True)

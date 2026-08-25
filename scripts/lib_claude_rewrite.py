@@ -22,7 +22,6 @@ import subprocess
 
 from common import retry
 from lib_gemini import (
-    CHUNK_CHARS,
     CLEAN_PROMPT_TEMPLATE,
     META_PROMPT_TEMPLATE,
     META_SCHEMA,
@@ -67,7 +66,7 @@ def current_model():
 def _run_claude(prompt, session_id=None, json_schema=None):
     cmd = [
         CLAUDE_EXE, "-p", "--output-format", "json", "--model", MODEL,
-        "--safe-mode", "--disallowedTools", DISALLOWED_TOOLS,
+        "--safe-mode", "--disallowedTools", DISALLOWED_TOOLS, "--effort", "low",
     ]
     if session_id:
         cmd += ["--resume", session_id]
@@ -107,29 +106,84 @@ def _generate_with_continuation(prompt):
     raise RuntimeError(f"{MODEL} still hitting max_tokens after 8 continuations")
 
 
+# A chunk can finish cleanly (stop_reason=STOP, not max_tokens -- so
+# _generate_with_continuation never kicks in) after the model chose to condense
+# or summarize that chunk instead of fully rewriting it -- the same failure
+# class lib_gemini.py's CHUNK_CHARS comment describes, just not prevented by
+# chunking alone. retry() only catches exceptions, so an under-rewritten chunk
+# sails through undetected, silently deflating the whole file's rewrite ratio.
+# Confirmed directly (ep45, ep49): both improved sharply after a rewrite retry
+# elsewhere but stayed well under qa_check.py's 0.35 file-level threshold,
+# with the missing content concentrated at the very end -- consistent with one
+# late chunk getting condensed rather than every chunk failing equally.
+#
+# Root-caused directly on ep45's worst chunk (its opening ~20 minutes of
+# heavily disfluent political banter): not a chunk-size or prompt-wording
+# problem, and not extended-thinking eating the output budget either
+# (disabling thinking barely moved the ratio: 0.46 -> 0.49 in isolated
+# tests). The model has a persistent tendency to compress heavily disfluent,
+# filler-and-reaction-heavy banter (short interjections, "kan"/"lah"/"hmm",
+# one-word reactions) well below a full rewrite for this specific content,
+# regardless of instructions telling it not to. Confirmed NOT fully
+# deterministic either: across 9 total sampled attempts on this one chunk
+# (2 different exact chunk-boundary versions), ratios ranged from 0.13 to
+# 0.51 depending on chunk size, reasoning effort, and plain sampling
+# variance, clustering tightly *within* a given attempt run (5 consecutive
+# attempts within one run landed 0.127-0.136) but shifting notably *between*
+# separate CLI invocations of the identical prompt+chunk. A smaller chunk
+# (~39.8k -> ~19.7k chars) and --effort low are kept since they measurably
+# helped in isolated single-sample tests, but retries alone could not
+# reliably force this specific content above roughly 0.3, let alone the
+# ~1:1 ratio full, working rewrites land at on less disfluent content
+# (confirmed: ep30/ep37 redos landed at ratio 0.96). MIN_CHUNK_RATIO is set
+# low enough to stop retrying past the point where retries stop helping
+# (a floor near the observed worst-case ~0.13, not the ideal), so a chunk
+# that's merely heavily-compressed-but-real passes instead of burning all
+# 10 attempts for a near-certain failure -- only a near-empty or clearly
+# broken result should still fail this check. The output file's overall
+# ratio can still legitimately land below qa_check.py's 0.35 threshold for
+# an episode with a segment like this; that's qa_check.py correctly
+# surfacing it for a human look, not a bug to silence. See ARCHITECTURE.md
+# for the full investigation.
+CLAUDE_CHUNK_CHARS = 20_000
+MIN_CHUNK_RATIO = 0.10
+
+
 def rewrite_clean(client, raw_text):
-    chunks = _split_into_chunks(raw_text, CHUNK_CHARS)
+    chunks = _split_into_chunks(raw_text, CLAUDE_CHUNK_CHARS)
 
     results = []
     for chunk in chunks:
         prompt = CLEAN_PROMPT_TEMPLATE.format(raw_text=chunk)
 
-        def call(prompt=prompt):
-            return _generate_with_continuation(prompt)
+        def call(prompt=prompt, chunk=chunk):
+            result = _generate_with_continuation(prompt)
+            if len(result) < len(chunk) * MIN_CHUNK_RATIO:
+                raise RuntimeError(
+                    f"clean rewrite came back {len(result)} chars for a {len(chunk)}-char "
+                    "chunk -- suspected condensation instead of a full rewrite"
+                )
+            return result
 
         results.append(retry(call, max_attempts=10, base_delay=30, what="clean rewrite"))
     return "\n\n".join(results)
 
 
 def translate(client, mixed_text, target_language):
-    chunks = _split_into_chunks(mixed_text, CHUNK_CHARS)
+    chunks = _split_into_chunks(mixed_text, CLAUDE_CHUNK_CHARS)
 
     results = []
     for chunk in chunks:
         prompt = TRANSLATE_PROMPT_TEMPLATE.format(target_language=target_language, mixed_text=chunk)
 
-        def call(prompt=prompt):
-            return _generate_with_continuation(prompt)
+        def call(prompt=prompt, chunk=chunk):
+            result = _generate_with_continuation(prompt)
+            if len(result) < len(chunk) * MIN_CHUNK_RATIO:
+                raise RuntimeError(
+                    f"translation came back {len(result)} chars for a {len(chunk)}-char "
+                    "chunk -- suspected condensation instead of a full rewrite"
+                )
+            return result
 
         results.append(retry(call, max_attempts=10, base_delay=30, what=f"translate to {target_language}"))
     return "\n\n".join(results)
