@@ -156,7 +156,13 @@
     "status": "no_captions"
   },
   "2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-": {
-    "status": "no_captions"
+    "status": "ok",
+    "samples_matched": 0,
+    "samples_not_found_nearby": 12,
+    "samples_total": 12,
+    "max_drift_seconds": 0,
+    "flagged": true,
+    "details": []
   },
   "2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar": {
     "status": "no_captions"
@@ -608,23 +614,12 @@
   },
   "2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21": {
     "status": "ok",
-    "samples_matched": 2,
-    "samples_not_found_nearby": 10,
+    "samples_matched": 0,
+    "samples_not_found_nearby": 12,
     "samples_total": 12,
-    "max_drift_seconds": 55,
+    "max_drift_seconds": 0,
     "flagged": true,
-    "details": [
-      {
-        "claimed": 1394,
-        "actual": 1373,
-        "drift": -21
-      },
-      {
-        "claimed": 2573,
-        "actual": 2518,
-        "drift": -55
-      }
-    ]
+    "details": []
   },
   "2025-11-14-ep22-rafizi-jual-nasi-bawah-rm5-dinamik-prn-sabah-ybm-ep-22": {
     "status": "ok",
@@ -1363,41 +1358,56 @@
   },
   "2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha": {
     "status": "ok",
-    "samples_matched": 6,
-    "samples_not_found_nearby": 6,
+    "samples_matched": 9,
+    "samples_not_found_nearby": 3,
     "samples_total": 12,
-    "max_drift_seconds": 454,
-    "flagged": true,
+    "max_drift_seconds": 231,
+    "flagged": false,
     "details": [
       {
-        "claimed": 54,
-        "actual": 54,
-        "drift": 0
+        "claimed": 622,
+        "actual": 821,
+        "drift": 199
       },
       {
-        "claimed": 135,
-        "actual": 143,
-        "drift": 8
+        "claimed": 1794,
+        "actual": 1857,
+        "drift": 63
       },
       {
-        "claimed": 330,
-        "actual": 361,
-        "drift": 31
+        "claimed": 2409,
+        "actual": 2406,
+        "drift": -3
       },
       {
-        "claimed": 578,
-        "actual": 572,
+        "claimed": 3314,
+        "actual": 3321,
+        "drift": 7
+      },
+      {
+        "claimed": 4130,
+        "actual": 4258,
+        "drift": 128
+      },
+      {
+        "claimed": 4814,
+        "actual": 4808,
         "drift": -6
       },
       {
-        "claimed": 1136,
-        "actual": 1535,
-        "drift": 399
+        "claimed": 5988,
+        "actual": 5972,
+        "drift": -16
       },
       {
-        "claimed": 2433,
-        "actual": 2887,
-        "drift": 454
+        "claimed": 6202,
+        "actual": 5971,
+        "drift": -231
+      },
+      {
+        "claimed": 6865,
+        "actual": 6864,
+        "drift": -1
       }
     ]
   },
