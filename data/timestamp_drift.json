@@ -1819,7 +1819,7 @@
     "samples_matched": 12,
     "samples_not_found_nearby": 0,
     "samples_total": 12,
-    "max_drift_seconds": 27,
+    "max_drift_seconds": 169,
     "flagged": false,
     "details": [
       {
@@ -1828,59 +1828,59 @@
         "drift": 1
       },
       {
-        "claimed": 604,
-        "actual": 596,
-        "drift": -8
+        "claimed": 309,
+        "actual": 307,
+        "drift": -2
       },
       {
-        "claimed": 376,
-        "actual": 383,
-        "drift": 7
+        "claimed": 512,
+        "actual": 522,
+        "drift": 10
       },
       {
-        "claimed": 1389,
-        "actual": 1362,
-        "drift": -27
+        "claimed": 2283,
+        "actual": 2418,
+        "drift": 135
       },
       {
-        "claimed": 900,
-        "actual": 890,
-        "drift": -10
+        "claimed": 3257,
+        "actual": 3366,
+        "drift": 109
       },
       {
-        "claimed": 604,
-        "actual": 596,
-        "drift": -8
+        "claimed": 3773,
+        "actual": 3774,
+        "drift": 1
       },
       {
-        "claimed": 376,
-        "actual": 383,
-        "drift": 7
+        "claimed": 4059,
+        "actual": 4165,
+        "drift": 106
       },
       {
-        "claimed": 1222,
-        "actual": 1211,
+        "claimed": 4672,
+        "actual": 4725,
+        "drift": 53
+      },
+      {
+        "claimed": 5110,
+        "actual": 5150,
+        "drift": 40
+      },
+      {
+        "claimed": 5898,
+        "actual": 5945,
+        "drift": 47
+      },
+      {
+        "claimed": 7155,
+        "actual": 7144,
         "drift": -11
       },
       {
-        "claimed": 800,
-        "actual": 795,
-        "drift": -5
-      },
-      {
-        "claimed": 537,
-        "actual": 526,
-        "drift": -11
-      },
-      {
-        "claimed": 357,
-        "actual": 347,
-        "drift": -10
-      },
-      {
-        "claimed": 1222,
-        "actual": 1211,
-        "drift": -11
+        "claimed": 8060,
+        "actual": 8229,
+        "drift": 169
       }
     ]
   },
