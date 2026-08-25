@@ -1793,21 +1793,61 @@
   },
   "2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa": {
     "status": "ok",
-    "samples_matched": 2,
-    "samples_not_found_nearby": 10,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 725,
+    "max_drift_seconds": 910,
     "flagged": true,
     "details": [
       {
-        "claimed": 118,
-        "actual": 112,
-        "drift": -6
+        "claimed": 80,
+        "actual": 152,
+        "drift": 72
       },
       {
-        "claimed": 1196,
-        "actual": 471,
-        "drift": -725
+        "claimed": 460,
+        "actual": 484,
+        "drift": 24
+      },
+      {
+        "claimed": 547,
+        "actual": 742,
+        "drift": 195
+      },
+      {
+        "claimed": 1419,
+        "actual": 1767,
+        "drift": 348
+      },
+      {
+        "claimed": 2455,
+        "actual": 3060,
+        "drift": 605
+      },
+      {
+        "claimed": 4171,
+        "actual": 4162,
+        "drift": -9
+      },
+      {
+        "claimed": 4189,
+        "actual": 4225,
+        "drift": 36
+      },
+      {
+        "claimed": 4353,
+        "actual": 5263,
+        "drift": 910
+      },
+      {
+        "claimed": 6086,
+        "actual": 6068,
+        "drift": -18
+      },
+      {
+        "claimed": 8762,
+        "actual": 9229,
+        "drift": 467
       }
     ]
   },
@@ -1898,16 +1938,71 @@
   },
   "2026-05-08-ep47-semua-bocor-exam-sprm-kerusi-pkr-dan-soalan-pru16-ybm-47": {
     "status": "ok",
-    "samples_matched": 1,
-    "samples_not_found_nearby": 11,
+    "samples_matched": 12,
+    "samples_not_found_nearby": 0,
     "samples_total": 12,
-    "max_drift_seconds": 12,
+    "max_drift_seconds": 665,
     "flagged": true,
     "details": [
       {
-        "claimed": 90,
-        "actual": 78,
-        "drift": -12
+        "claimed": 75,
+        "actual": 740,
+        "drift": 665
+      },
+      {
+        "claimed": 1611,
+        "actual": 1679,
+        "drift": 68
+      },
+      {
+        "claimed": 3263,
+        "actual": 3358,
+        "drift": 95
+      },
+      {
+        "claimed": 3616,
+        "actual": 3752,
+        "drift": 136
+      },
+      {
+        "claimed": 4239,
+        "actual": 4235,
+        "drift": -4
+      },
+      {
+        "claimed": 4292,
+        "actual": 4546,
+        "drift": 254
+      },
+      {
+        "claimed": 5813,
+        "actual": 5852,
+        "drift": 39
+      },
+      {
+        "claimed": 6734,
+        "actual": 7247,
+        "drift": 513
+      },
+      {
+        "claimed": 7821,
+        "actual": 7847,
+        "drift": 26
+      },
+      {
+        "claimed": 8444,
+        "actual": 8429,
+        "drift": -15
+      },
+      {
+        "claimed": 9417,
+        "actual": 9406,
+        "drift": -11
+      },
+      {
+        "claimed": 10446,
+        "actual": 10560,
+        "drift": 114
       }
     ]
   },
