@@ -27,11 +27,12 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 327s, 12/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2025-12-26-ep28-episod-terakhir-2025-10-perkara-yang-kita-tak-boleh-buat-bua**
-  - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
+  - interview.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - interview.md claims language: mixed but reads as English-only (Malay-marker density 0.40/1000 chars, expected >= 1.0)
-  - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 721s, 3/12 caption samples matched)
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2026-01-09-ep30-2026-tahun-reformasi-akar-umbi-umno-bersuara-atm-di-serang-y**
   - interview.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.12 vs raw.md, expected >= 0.35)

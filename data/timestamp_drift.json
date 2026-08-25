@@ -156,7 +156,13 @@
     "status": "no_captions"
   },
   "2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-": {
-    "status": "no_captions"
+    "status": "ok",
+    "samples_matched": 0,
+    "samples_not_found_nearby": 12,
+    "samples_total": 12,
+    "max_drift_seconds": 0,
+    "flagged": true,
+    "details": []
   },
   "2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar": {
     "status": "no_captions"
@@ -938,26 +944,56 @@
   },
   "2025-12-26-ep28-episod-terakhir-2025-10-perkara-yang-kita-tak-boleh-buat-bua": {
     "status": "ok",
-    "samples_matched": 3,
-    "samples_not_found_nearby": 9,
+    "samples_matched": 9,
+    "samples_not_found_nearby": 3,
     "samples_total": 12,
-    "max_drift_seconds": 721,
-    "flagged": true,
+    "max_drift_seconds": 131,
+    "flagged": false,
     "details": [
       {
-        "claimed": 141,
+        "claimed": 143,
         "actual": 142,
-        "drift": 1
+        "drift": -1
       },
       {
-        "claimed": 1172,
-        "actual": 451,
-        "drift": -721
+        "claimed": 498,
+        "actual": 513,
+        "drift": 15
       },
       {
-        "claimed": 4695,
-        "actual": 4822,
-        "drift": 127
+        "claimed": 2216,
+        "actual": 2210,
+        "drift": -6
+      },
+      {
+        "claimed": 2941,
+        "actual": 3072,
+        "drift": 131
+      },
+      {
+        "claimed": 4779,
+        "actual": 4806,
+        "drift": 27
+      },
+      {
+        "claimed": 7002,
+        "actual": 6995,
+        "drift": -7
+      },
+      {
+        "claimed": 7853,
+        "actual": 7868,
+        "drift": 15
+      },
+      {
+        "claimed": 9293,
+        "actual": 9320,
+        "drift": 27
+      },
+      {
+        "claimed": 10418,
+        "actual": 10423,
+        "drift": 5
       }
     ]
   },
