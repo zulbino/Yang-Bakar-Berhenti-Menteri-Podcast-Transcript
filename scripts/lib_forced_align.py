@@ -12,7 +12,16 @@ Numbers and punctuation-only tokens (e.g. "RM11,000") have no alignable
 letters in the MMS label set (a-z plus apostrophe), so their timestamps are
 interpolated from neighboring aligned words rather than computed directly.
 """
+import os
 import re
+
+# Hard rule, not just an optimization: this machine's second GPU (GTX 970) causes
+# torch to intermittently deadlock on long-running CUDA/threading work when both
+# GPUs are visible (confirmed, see lib_local_asr.py's docstring) and is also too
+# old for this project's cuDNN build (SM 5.2, needs SM >= 7.5) -- it must never be
+# used. Set independently here (not just in lib_local_asr.py) so this holds even
+# when this module is imported standalone, before torch initializes a CUDA context.
+os.environ.setdefault("CUDA_VISIBLE_DEVICES", "0")
 
 import torch
 import torchaudio
