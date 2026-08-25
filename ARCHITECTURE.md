@@ -543,17 +543,36 @@ rather than any one key or project), a fallback provider was needed here too.
   Added a bounded `CLI_TIMEOUT_SECONDS = 600` so a hang raises `RuntimeError` and
   flows into the existing `retry()` wrapper instead of blocking the whole pipeline
   forever with no way to detect it from outside.
+- **`retry()` only catches exceptions, never validates content -- a schema-
+  conformant placeholder sailed through undetected.** Found while processing ep47:
+  `extract_metadata`'s single unchunked call (the only rewrite-stage call that
+  passes the *entire* `clean_text` in one shot, unlike rewrite/translate which are
+  chunked) occasionally returns valid JSON matching `META_SCHEMA` but with generic
+  stub content instead of real extraction -- `topics: ["Topic A", "Topic B"]`,
+  `summary: "Test summary."` (ep13) and `topics: ["Topic one", "Topic two"]` (ep47),
+  the literal text of a schema-conformance example rather than anything about the
+  actual transcript. Because `retry()` (`scripts/common.py`) only retries on a raised
+  exception and never inspects whether the result is plausible, this passed as a
+  clean first-attempt success both times, with no error, no retry, and no signal
+  anywhere in the pipeline's output. **Confirmed to have already silently corrupted
+  a previously-committed, previously-"clean" episode (ep13)** -- this was not caught
+  by any existing `qa_check.py` signature before now. Fixed with `_looks_like_placeholder()`
+  in `lib_claude_rewrite.py`: rejects this exact signature (regex match on `"test
+  summary"` and `"topic [a-z0-9]+"`) and raises, so `retry()` naturally retries it
+  like any other failure. Both ep13 and ep47 were re-extracted with real metadata.
 
 ## Why a clean exit code isn't enough
 
-This pipeline has produced six distinct bugs that returned exit code 0 with no
+This pipeline has produced seven distinct bugs that returned exit code 0 with no
 visible error, while quietly corrupting or skipping output: a free-tier quota check
 that never matched its target string, a transcript-wiping edge case in fragment
 trimming, hallucinated runaway timestamps that satisfied a naive coverage check,
 missing paragraph breaks that silently bypassed text chunking, an argument-parsing
-bug that made a 17-episode batch process zero episodes, and a continuation-loop
+bug that made a 17-episode batch process zero episodes, a continuation-loop
 hallucination that duplicated whole passages under fabricated timestamps that stayed
-within a plausible range (previous section). None of them raised an exception.
+within a plausible range (previous section), and a retry wrapper that validated
+nothing but the absence of an exception, letting a placeholder metadata stub through
+as a "successful" result (previous section). None of them raised an exception.
 
 That's why `scripts/qa_check.py` exists, and why it's worth running (and reading
 `QA_CHECKLIST.md`, not just the exit code) after every batch. It checks for all of
