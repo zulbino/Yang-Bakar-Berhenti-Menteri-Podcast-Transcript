@@ -129,8 +129,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
-  - check_timestamp_drift.py flagged timestamp mistiming (max drift 337s, 9/12 caption samples matched)
-  - models: raw.md=gemini-3.7-flash
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 296s, 4/12 caption samples matched)
   - models: raw.md=gemini-3.5-flash, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
