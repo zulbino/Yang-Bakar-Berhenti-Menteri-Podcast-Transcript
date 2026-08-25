@@ -7,22 +7,52 @@ channel: Rafizi Ramli
 publish_date: '2025-12-19'
 duration_seconds: 9511
 duration: 2h 38m
-view_count: 102912
+view_count: 102959
 hosts:
-- Rafizi
+- Rafizi Ramli
 guests:
-- Speaker 2
+- Farhan
+- Amy
 topics:
-- Khairul Aming business model
-- Entrepreneurship and startup capital in Malaysia
-- Government support letters and transparency
-- The role of influencers in educational institutions
-summary: In this 27th episode of the Menteri-Menteri podcast, Rafizi and his
-  co-host discuss current events and trending topics in their 'Beria' segment, covering
-  Khairul Aming's business strategy and entrepreneurial model, the issue of support
-  letters (surat sokongan) in government tenders, and the debate surrounding the presence
-  of social media influencers in schools.
+- Cabinet reshuffle analysis
+- Khairul Aming / Rembayung restaurant and Bumiputera entrepreneurship
+- Kamil Munim 'surat sokongan' controversy
+- Influencer invited to school vs formal education debate
+- PKR internal politics and loyalty dynamics
+- 'Fate of ministers: Naim Mokhtar, Zaliha Mustafa, Steven Sim, Ramanan'
+- MCA/MIC marginalization in Barisan Nasional
+- 'Bersatu factional war: Hamzah vs Azmin/Muhyiddin'
+- PAS political strategy and stability
+- Voter disillusionment data and global populist trends (Reform UK, Green Party, Meloni,
+  Zelensky)
+- Idealism vs pragmatism in progressive politics
+- Junior Nobel-winning Malaysian scientist in biomedical engineering
+- Social security (PERKESO) for gig/creative workers
+- 'Criminal justice reform: petty theft vs corruption sentencing'
+summary: 'Episode 27 of Rafizi Ramli''s "Menteri-Menteri" podcast opens with a light
+  "beria" (buzz/trending) segment discussing Khairul Aming''s new restaurant Rembayung
+  (its viral pre-launch reviews, parking/capacity challenges, and broader reflections
+  on Bumiputera entrepreneurship and access to startup capital), a Kamil Munim/Utusan
+  interview controversy over "surat sokongan" (support letters) for tenders, and a
+  debate over an uncertified influencer being invited to speak at a school versus
+  the value of formal education. The show then shifts to serious political analysis:
+  a detailed dissection of the recent Cabinet reshuffle (forced by vacancies rather
+  than a genuine mid-term shake-up), the political messaging behind retaining Fadhlina
+  at Education and promoting Ramanan over Steven Sim, the sidelining of MCA/MIC in
+  Barisan Nasional''s cabinet quota, and PKR''s culture of loyalty versus dissent
+  illustrated through the fates of Naim Mokhtar, Zaliha Mustafa and various "muda"
+  appointees. Rafizi also analyses the existential, unresolvable factional war within
+  Bersatu between the Hamzah and Azmin/Muhyiddin camps, PAS''s passive "stability"
+  strategy and its historical parallels to 2015-2018, and presents new internal polling
+  data showing a rising bloc (~52%) of "disenfranchised voters" disillusioned with
+  all major coalitions (PH, BN, PN), drawing parallels to Reform UK, Green Party,
+  Meloni in Italy, and Zelensky in Ukraine. The episode closes with a discussion on
+  idealism versus pragmatism as PH''s core challenge, a segment highlighting a young
+  Malaysian scientist''s "Junior Nobel" awards in biomedical engineering, and listener
+  Q&A on social security models for gig workers/artists (PERKESO) and criminal justice
+  reform regarding disproportionate sentencing for petty theft versus corruption cases.'
 language: mixed
+model: claude-sonnet-5
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa
   Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript,
   or interview-en.md / interview-ms.md for single-language versions.
@@ -30,184 +60,456 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Rafizi:** Assalamualaikum dan selamat datang sekali lagi ke episod ke-27 podcast *Menteri-Menteri*. Macam biasa bersama saya, Rafizi. Obviously.
+**Speaker 1:** Assalamualaikum dan selamat datang sekali lagi ke podcast Menteri-Menteri, dah episod ke-27. Macam biasa bersama saudara Rafizi Ramli.
 
-**Speaker 2:** Kenapa ada dua kali "saudara-saudara"? Gagap.
+**Speaker 1:** Obviously, kenapa ada dua kali saudara-saudara gagap? Episod ke-27 pun masih lagi gagap. Maaf YB. Tapi YB itu tak penting, sebab yang lebih penting adalah minggu ini saya rasa isu yang terbesar adalah berkaitan dengan rombakan kabinet. Saya tukar topik.
 
-**Rafizi:** Episod ke-27 pun masih lagi gagap. Maaf YB. Tapi itu tak penting sebab yang lebih penting adalah minggu ini, saya rasa isu terbesar adalah berkaitan dengan rombakan kabinet lah. Saya tukar topik, okey. Tapi sebelum itu—
+**Speaker 1:** Tapi sebelum itu — pandai kau ngelak kan. Sebelum itu macam biasa baby, kita ke segmen yang pertama lah. Kita cuba ringkaskan sikit, dah kat segmen beria. Kita tengok apa yang ada pada minggu ini. Yang pertama, belum buka dah kena review. Tak sedap baby, belum buka lagi. Not tasty — mana yang dia kata not tasty? Kat bawah sekali tau, not tasty. Dia buka tahun depan baby.
 
-**Speaker 2:** Pandai kau mengelak, eh.
+**Speaker 1:** Oh, baiklah. Khairul Aming lah yang get the last laugh, sebab orang yang beria-ia pergi review semua ni kan, dia jadi bahan beria lah kerana belum buka lagi dah review. Tapi it fits perfectly into Rembayung punya go-to-market strategy lah kot, because nowadays it's all about viral, it's all about media value. Jadi cedok Khairul Aming lah, tahniah. Beria you, baby.
 
-**Rafizi:** Sebelum itu macam biasa YB, kita ke segmen pertama, kita cuba ringkaskan sikit dalam segmen *Beria*. Kita tengok apa yang ada pada minggu ini.
+**Speaker 2:** Eh, sekejap. Okay, jadi bualan lah masa dia announce dia buka Rembayung pun, ia adalah tempat letak kereta.
 
-**Speaker 2:** *Beria* yang pertama.
+**Speaker 1:** Tempat letak kereta adalah besar kerana kapasiti baru mempunyai tempat letak kereta. Mungkin sebab itu dia kena pastikan pre-booking. Tak boleh walk-in — I think there's a policy jangan walk-in. Yalah, bila you operate restoran yang ada sitting capacity berapa? 240. Maksudnya semua benda-benda yang berisiko biasa kepada restoran yang jauh lagi kecil, risiko tu dia akan amplify sampai 10-20 kali lah. Jadi risiko satu — risiko parking. Risiko satu — risiko wastage, sebab kalau you tersalah, kalau bagi walk-in kan, kalau hari itu orang sikit, esok orang banyak kan, jadi nak manage inventory and nak manage raw materials tu agak mencabar. Jadi I think so far nampak Khairul Aming dah, apa nama ni, take a lot of things into account lah. Cuma, bila orang beria macam ni kan, dia ada a lot of good sides, tapi dia ada juga risiko lah kerana sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day is all about the product — is actually the total value offering product dengan kena pada pricing ke tidak lah kan. Tapi I think awal-awal ni, untuk beberapa bulan pertama, orang jalan kaki daripada KLCC pun dia pergi, sebab memang dah jadi budaya kita kan, dia nak pergi merasa, macam mana nak ambil gambar.
 
-**Rafizi:** Belum buka dah kena review.
+**Speaker 2:** Adakah — lama nya kata nak sekejap je, sorry sorry sorry, satu lagi, because I teringat balik kau ada share dalam Rembayung ke? Tak tak tak, I teringat balik perbualan kita pasal usahawan muda semua kan — adakah YB rasa dia ni antara yang boleh dijadikan idola ataupun...
 
-**Speaker 2:** Tak sedap YB, belum buka lagi, *not tasty*.
+**Speaker 1:** Saya tak rasa dia nak jadi idola. And in fact, kadang-kadang, apa yang kita perlukan lebih dalam masyarakat adalah kurang daripada, anda tahu, idola — lebih banyak orang yang sebenarnya melakukannya. Dan jadi, apa nama ni, bagus dari segi orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat "oh saya jadi fan awak" — what we need is actually more and more people yang, especially yang muda-muda, yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk preach daripada dulu lah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju/Teraju, salah satu fokusnya ialah untuk kita menukar sukses model — sebab terutamanya kepada Bumiputera, sukses model tu dia masih lagi sangkut kepada sukses model zaman 70-80 untuk menghasilkan kelas menengah. Jadi UiTM/Putra dah ramai kelas menengah, tapi kelas menengah makan gaji. Jadi the capital is not mobilized. Then selalunya is very inward — maksudnya kelas menengah Melayu boleh makan di Rembayung lah, bayar apa-apa pun. Tapi dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja, kerana kelas menengah Melayu, terutamanya yang muda-muda ni, masih lagi dia nak beratur kerja dekat Petronas, dekat Maybank lah, dekat Sime Darby lah kan. Berbeza dengan negara yang sangat inovatif — selalunya yang muda-muda ni dia memilih untuk berniaga on their own. So in that sense lah, with the assistance daripada government. Mana ada government assistance dekat tempat lain, macam Khairul Aming lah orang cakap kan.
 
-**Rafizi:** Mana yang kata *not tasty*? Kat bawah sekali tu.
+**Speaker 2:** Tapi itu pun jadi isu juga sebab...
 
-**Speaker 2:** *Not tasty*.
+**Speaker 1:** Eh, beria — yang beria sangat ni kenapa? Beria kena pendek.
 
-**Rafizi:** Dia buka tahu depan.
+**Speaker 2:** Saya excited sebab Rembayung ni memang antara tempat-tempat yang you realize actually ada usahawan muda yang boleh buat something lah. But jadi point of contention juga, because ada orang bincangkan whether or not dia ada dapat assistance ataupun dia start off dengan betul-betul dia punya duit sendiri ke.
 
-**Speaker 2:** *Oh well*.
+**Speaker 1:** Dia ada partner kan, dia ada partner. Tapi itulah yang berbeza — dah jadi panjang lah pula benda ni. Itulah yang berbeza, cabaran terutamanya kepada Bumiputera dan Malaysia. Kalau katakanlah di US lah, ambil contoh US, dan sekarang China kan, kalau budak tu dia ada idea, dia rajin, dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya startup capital tu sebenarnya agak mudah. Kalau dekat Silicon Valley, untuk orang dapatkan 50 ribu, 100 ribu dolar, selalunya dia sembang dekat kafe je. Tapi itu bukan budaya kita lah kan. Jadi saya ingat masa saya mulakan startup saya dulu, untuk risk capital kan, panjang tebal macam ni agreement. Dan sebab kelas menengah kita ni yang kaya-kaya, dia kena jadi Khairul Aming dulu, beruang, percaya kan — kalau kau datang jumpa aku, aku fikir 20 kali lah kan untuk minta modal buat bisnes. Tak apa, dah ok.
 
-**Rafizi:** Khairul Aming lah yang *get the last laugh*.
+**Speaker 2:** Okey, 8 minit?
 
-**Speaker 2:** Mhm.
+**Speaker 1:** Pada masa? Okey. Lepas tu Khairul Aming bayar kita lah, sebab mempromosikan. Bayar, hantar rindu.
 
-**Rafizi:** Sebab orang yang beria-ia pergi *review* semua ini kan.
+**Speaker 1:** Okey, next, kita ada beria — aduh, peningnya, banyak sangat surat minta sokongan. Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati, ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila Utusan Malaysia buat interview — interview dua muka surat kan, dua lembar. Dia apa, lebaran kan? Lembaran... saja test. So kalau dah dia dua lembaran macam tu, besar kemungkinan bukan Utusan pandai-pandai lah. Maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk tegangkan — tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu sokongan ini, terang lah kok macam mana pun, beritahu dia ikut proses kan, walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa — kita kena ingat rakyat biasa tau. Katakanlah saya, saya nak masuk tender — itu pun masalah orang politik tau, sebab dia tak pernah melalui proses tender tu, dia dekat atas dia bagi arahan, kau dicampur tangan kan nak masuk tender. This very idea that no matter how good I am, tapi ada orang lain boleh ada express lane — express lane ni orang tak suka. Kalau dekat supermarket pun, kita beratur susah payah, ada orang pergi potong, memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama — dalam proses standard, orang lain ikut proses, semua kamu pergi potong kan. Jadi terang macam mana pun, surat sokongan dia memang tidak akan berjaya mengubah persepsi rakyat lah. Jadi cuba lagi di masa akan datang.
 
-**Speaker 2:** Dialah orang, dia jadi bahan *beria* lah kerana belum buka lagi dah *review*, tapi *it fits perfectly into* Khairul Aming punya *go to market strategy* lah kot. *Because nowadays it's all about viral, it's all about media value*.
+**Speaker 1:** Baik Ubi, good luck. Kita tengoklah, kalau dia nak datang podcast ni terangkan pun, alukan lah. Boleh lah, tapi kita charge lah. Dua muka surat Utusan Malaysia — charge dia berapa tu? Takkan charge harga tu, mahal sikit. Eh mahal lah, dua muka surat, 10,000. 10,000 dah. Okay baik.
 
-**Rafizi:** Mhm.
+**Speaker 1:** Okey, yang ketiga, influencer dihalang rasmi majlis pendidikan versus populariti.
 
-**Speaker 2:** Jadi cerdik Khairul Aming lah.
+**Speaker 1:** So yang mana kita nak kata dia beria ni? Dia beria terangkan ke, dia beria pergi rasmikan ke? Actually susah YB, depends kepada perception. Tapi YB pernah terangkan pasal benda ni lah, dalam ceramah dulu dekat Kedah — why anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat TikTok macam Sanusi, because of the exposure kepada peluang-peluang lain, selain daripada tangga-tangga pendidikan yang konvensional. Boleh — yelah, influencer dapat duit semua. So it really depends, adakah benda tu bagus, ataupun kita nak meraikan kepelbagaian.
 
-**Rafizi:** Tahniah. *Beria* YB.
+**Speaker 2:** Itu tak menjawab soalan aku. Aku tanya yang mana yang kau kata beria ni — beria dia terang ke, beria dia masuk sekolah?
 
-**Speaker 2:** Eh kejap, *I have one more*. Saya lihat satu lagi *review* yang selalu orang bagi dan kemudian ia jadi bualan masa dia *announce* dia buka itu adalah *parking*, *parking* yang besar sebab *spec* kamu agak *bad*.
+**Speaker 1:** Boleh jadi beria dia terang, sebab walaupun orang kata dia tak ada qualification, tapi dia boleh masuk sekolah. Ataupun beria orang bash dia lah, kalau sebenarnya okey saja. Sebenarnya yang beria ialah yang tukang ajak dia — sekolah dia tukang ajak. Sebab dia kata orang jemput.
 
-**Rafizi:** *Spec bad*.
+**Speaker 2:** Orang jemput, dia buat kerja dia je, tapi ada orang ajak.
 
-**Speaker 2:** *Spec bad*.
+**Speaker 1:** Mungkin lah kot. Mungkin sebenarnya yang beria tu cikgu-cikgu yang jemput dia. Haa — yalah, masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubah lah kan. Saya ada baca komen-komen, ada yang mengaku cikgu dekat media sosial. Orang netizen ni pandai-pandai je buat komen kan, pass judgement — sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan, RM500 pun susah nak dapat sumbangan kan. Jadi mungkin lah yang beria tu, yang jemput sekolah dia. Budak ni dah jemput, dia rasa hebat, dia pergilah kan. Netizen pula, kan free, boleh komen, so dia komen lah.
 
-**Rafizi:** Ya.
+**Speaker 1:** Cuma ini sesuatu yang masyarakat kena fikirkan. Satu, maksudnya adakah bermakna mereka yang berduit, yang dapat bagi sumbangan itu, akan diangkat di dalam masyarakat itu? Itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia. Dan harta tak kekal — yang kekal selalunya ilmu. Jadi sebaiknya sekolah mesti menunjukkan nilai itu kepada murid-murid kan, bahawa yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan — itu bagus, tapi fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Dan itu yang datang berbalik kepada yang Haziq sebut tadi lah, maksudnya sekolah pun kena berhati-hati bahawa kita kena imbangkan bagaimana kita memberi sukses model, model kejayaan untuk anak-anak itu. Kalau model kejayaan itu ialah harta semata-mata, duit semata-mata, kesan dia kepada masyarakat dalam jangka masa panjang, tu dia akan ada kesan. Cuma yang didebatkan sini ialah bapak dia kata penting pendidikan, tapi pendidikan tu tak semestinya melalui institusi formal, sebab dia ni pun usahawan muda.
 
-**Speaker 2:** Ya.
+**Speaker 1:** Jangan lupa untuk berlangganan — tak habislah kalau kita cakap kan. Sebab yang itu memang betul, maksudnya memang betul bahawa ada orang yang berjaya di dunia ini, tidak semuanya ada kelulusan yang baik ataupun kelulusan yang formal. Saya selalu bagi contoh Dyson — dia bukan ada pendidikan sains ke apa ke. Sama juga macam Jack Ma — Jack Ma awal-awal dulu minta kerja dengan KFC pun tak lepas. Dunia macam itu memang begitu. Tetapi itu nilai — maksudnya kalau sekolah berjaya mendidik anak-anak bahawa kecemerlangan akademik ni hanyalah salah satu daripada resepi utama, resepi yang lebih utama ialah disiplin diri, kerja, jujur, semua itulah kan. Cuma konteks itu agak lain lah kalau dengan influencer — jadi saya tak rasa kita boleh samakan Jack Ma ataupun Dyson, ataupun semua yang tokoh-tokoh besar dalam dunia ini kan, dengan influencer, tak boleh lah. Kalau tak berhati-hati, anak-anak akan berfikiran macam itu — buat apa nak belajar susah-susah, baik jadi influencer. Dan sementara mungkin betul pada pandangan dia, dan benda itu pilihan keluarga dia dan pilihan budak itu untuk diri dia, tetapi untuk masyarakat, kalau masyarakat itu tidak membudayakan ilmu, tidak menjadi pursuit-of-knowledge society, masyarakat itu akan ketinggalan. Any civilization pun tak dapat pertahan lama kalau dia tidak dibina di atas core pursuit of knowledge. Dan saya rasa perkara itu tidak boleh dipadam daripada peranan utama sekolah.
 
-**Rafizi:** Mungkin sebab itu dia kena pastikan *pre-booking*.
+**Speaker 1:** Ini segmen beria, tiba-tiba dah jadi very heavy nak cerita tentang civilization pula. Lepas ni lebih politik lah baby, jadi ni masyarakat sikit. Okey lah kot baby. Yang mana boleh minggu depan, kalau tak ada material kita bercuti lah daripada beria seminggu, dia susah nak komen beria dia. Okey, sebab ialah Fuziah dah tak ada, susah nak talk — dia kalau ada, meti dia macam saya, cukup jumlah, dan tengah membentuk kerajaan dengan satu kerusi, yang itu baru beria, itu red sangat baby.
 
-**Speaker 2:** Ya kan, jadi—
+**Speaker 1:** Okay baby, nak red ke, tak perlu? Tak payahlah minggu ni. Okay baik. Kita tengoklah apa yang keras sikit YB pada minggu ini.
 
-**Rafizi:** Tak boleh *walk-in*.
+**Speaker 1:** Hidup keras, dik, sudah pasti. Yang pertama berkaitan dengan rombakan kabinet, YB. Orang tanya, itu semua yang terlibat ke? Kenapa Timbalan Menteri Agama tak ada kat situ, korang?
 
-**Speaker 2:** *I think there's* jangan *walk-in*. Yalah bila you *operate* restoran yang ada *seating capacity* berapa? 240 kan?
+**Speaker 2:** Gambar dia satu je, which is dekat depan, I think dekat Parlimen, masa dia swearing as senator.
 
-**Rafizi:** Mhm.
+**Speaker 1:** That's not a good excuse untuk tak masukkan dia lah kan. Tapi tak apalah, gambar tak berapa jelas lah, so dia seorang yang tertinggal. Ada lagi kan? Ahli Parlimen Tawau tak ada.
 
-**Speaker 2:** Maksudnya semua benda yang berisiko biasa kepada restoran yang jauh lebih kecil, risiko itu dia akan *amplify* sampai 10, 20 kalilah. Jadi risiko satu, risiko *parking*; satu, risiko *wastage* sebab kalau you tersalah kalau bagi *walk-in* kan, kalau hari itu orang sikit, esok orang banyak kan. Jadi nak *manage inventory* and nak *manage raw material* itu agak mencabar.
+**Speaker 2:** Tawau, Losfoi.
 
-**Rafizi:** Mhm.
+**Speaker 1:** Haa, okay YB, vaksin atau Panadol. Yelah, kita tahu rombakan kabinet ni dibuat selepas... aku gerun tengok muka Sim lah, kenapa dia senyum happy sangat tu. Mungkin dia pernah masuk segmen beria berkali-kali.
 
-**Speaker 2:** Jadi *I think so far* nampak Khairul Aming dah, dah apa nama ini *take a lot of things into account* lah.
+**Speaker 2:** Ya ke?
 
-**Rafizi:** Mhm.
+**Speaker 1:** Saya rasa itu menjawab soalan. Make Malaysia Great Again, dan kemudian mendapat...
 
-**Speaker 2:** Cuma bila orang *beria* macam ini kan, *beria* macam ini dia ada *a lot of good side* tapi dia ada juga risiko lah kerana sama ada minat itu kekal masa peringkat awal masa *viral*, *whether you can sustain it*. Jadi *at the end of the day it's all about the product*, ia sebenarnya *total value offering product* dengan kena pada *pricing* ke tidaklah kan. Tapi *I think* awal-awal ini untuk beberapa bulan pertama orang jalan kaki daripada KLCC pun dia pergi sebab memang dah jadi budaya kita kan, dia nak pergi merasa macam nak ambil gambar.
+**Speaker 2:** Oh, Make Malaysia Great Again, berbaloi. Oh, dia pernah masuk.
 
-**Speaker 2:** Kan. Adakah—
+**Speaker 1:** Okey okey. Tapi sekarang Timbalan Menteri bolehlah Make Malaysia Great Again — mungkin vaksin atau Panadol. Sama ada rombakan kabinet ini cure the disease untuk terus menang PRU, ataupun dia sekadar menahan sakit macam Panadol tapi dia tak ubah trajektori atau apa. Mungkin itu tujuan perbincangan kita lah. Tapi kalau nak start daripada awal, kalau boleh dapat gambaran awal daripada YB — dalam keadaan pelantikan ni ada some negative comment daripada netizen, kenapa orang ini diletakkan kat situ, orang ini diletakkan kat sini — jadi sebenarnya, why is the stick? Yang sekarang kita ada, kabinet tu disusun seperti itu.
 
-**Rafizi:** Lamanya kata nak sekejap saja.
+**Speaker 1:** Vaksin ni, nanti anti-vax marah lah pula. The premise is that kalau vaksin, dia akan mengubat sakit. Panadol, penahan sakit kan? Tapi tak semua orang setuju vaksin mengubat sakit lah — just to put a note, supaya anti-vax kalaupun marah kan. Yalah, rombakan Jemaah Menteri ini perlu dibuat, um, saya ingat banyak perbincangan itu lupa satu perkara penting, iaitu dia bukan rombakan Jemaah Menteri yang berlaku di beberapa negara lain yang mana ia dibuat di tengah penggal untuk menambah baik kerajaan. Itu bukan sebab utama. Lagipun kita sebenarnya dah 60% dalam penggal ini, sebenarnya dia bukan di tengah penggal, ya. Rombakan ini perlu dibuat oleh kerana Tengku Zafrul dah tak jadi menteri, ada kekosongan. Kemudian ditambah pula saya dengan Nik, dengan Iwan letak jawatan. Jadi dia disebabkan oleh kekosongan lah, jadi dia tak sama dengan rombakan-rombakan Jemaah Menteri yang pernah berlaku, terutamanya zaman-zaman dulu lah kan.
 
-**Speaker 2:** *Sorry, sorry, sorry* satu lagi. *Because I, I, I* teringat balik apa bualan—
+**Speaker 1:** Jadi dari segi itu, saya ingat pertimbangan yang Dato' Sri Anwar buat itu bukan semata-mata untuk soal menambah baik prestasi kerajaan lah — this is a reshuffle that is forced upon him, not because he wanted it lah kan. Jadi dah lang-lang tu, kita buat lah, ambil peluang lah kan. Jadi comment netizen, memang akan ada komen lah — sekarang kalau orang komen, sebab boleh komen, dulu sebab tak boleh komen. So sekarang bayangkan orang kita, setiap satu benda, Khairul Aming ke, ni kalau kelas ni pun orang akan komen. Jadi dia akan komen lah. Jadi kalau soal sesuatu macam merombak Jemaah Menteri, memang akan mengundang pelbagai pandangan lah. Akhirnya semua perancangan itu di dalam kepala Perdana Menteri lah, kita hanya boleh meneka dan biarkan melalui proses itu lah. Awal-awal itu ada euforia, orang nak tahu siapa dia ni, latar belakang dia semua kan. Kemudian dia juga bergantung kepada penjawat itulah yang jadi menteri, yang timbalan menteri itu kan — kalau tidak berhati-hati, dua bulan orang lupa lah.
 
-**Rafizi:** Kau ada *share* dalam *Beria* ke?
+**Speaker 1:** Dan kesan dan risiko yang diambil oleh Dato' Sri Anwar ialah — dan ini memang dinyatakan sendiri oleh Perdana Menteri lah, saya baca berita, saya ingat semalam kan, dua hari lepas selepas mesyuarat Jemaah Menteri yang pertama dengan kabinet baru ini, Dato' Sri Anwar pun, saya ingat ada temuramah dengan Bernama kan, yang dia nyatakan dia mengakui bahawa prestasi perlu diperbaiki kan, kerana risiko yang paling utama ialah kalau prestasi tidak lebih baik, maka itu akan ada kesan kepada potensi Dato' Sri Anwar untuk kembali jadi Perdana Menteri dalam tempoh dua tahun dari sekarang.
 
-**Speaker 2:** Tak, tak, tak ada. *I* teringat balik apa bualan kita pasal usahawan muda semua kan. Adakah YB rasa dia ini antara yang boleh dijadikan idola ataupun—
+**Speaker 1:** Kau nak suruh aku komen apa?
 
-**Rafizi:** Saya rasa dia nak jadi idola.
+**Speaker 2:** Maybe we can also highlight...
 
-**Speaker 2:** Mhm.
+**Speaker 1:** Oh, Zahid Ibrahim pun tak ada? Patut lagi.
 
-**Rafizi:** *In fact*, kadang-kadang *what we need more in society* is *less of you know, idols, more of people who actually do it*. Ha kan, jadi—
+**Speaker 2:** Dah crowded sangat.
 
-**Speaker 2:** Apa nama ini, bagus dari segi orang boleh dapatkan inspirasi lah kan tapi inspirasi itu kalau setakat, "Oh saya jadi *fan* awak", *what we need is actually more and more people* yang *especially* yang muda-muda yang memilih jalan untuk berniaga. Dan saya ingat itu memang yang kita duk *preach* daripada dululah kan. Macam dekat Kementerian Ekonomi dulu, bila kita rombak semula Yayasan Peneraju, *Teraju*, salah satu fokusnya ialah untuk kita menukar *success model* sebab terutamanya kepada Bumiputera. *Success model* itu dia masih lagi sangkut kepada *success model* zaman 70-an ke 80-an untuk menghasilkan kelas menengah. Jadi Bumiputera dah ramai kelas menengah tapi kelas menengah makan gaji. Jadi *the capital is not mobilized* dan selalunya *is very inward into you*. Maksudnya kelas menengah Melayu boleh makan di restoran mewah lah. Bayar berapa pun tapi dari segi *how to grow and mobilize the capital* itu dia masih lagi berlegar di kalangan beberapa sahaja kerana kelas menengah Melayu terutamanya yang muda-muda ini masih lagi dia nak beratur kerja dekat Petronas, dekat Maybank lah, dekat *telecoms* lah kan. Berbeza dengan negara yang yang sangat inovatif. Selalunya yang muda-muda ini dia memilih untuk *strike out on their own* kan. *So, in that sense lah*, kan—
+**Speaker 1:** CM pun tak ada.
 
-**Speaker 2:** *With assistance* daripada *government*.
+**Speaker 2:** Banyak komen yang dilontarkan oleh netizen lah — mereka mengatakan, yalah, banyak muka baru. Tapi ada juga menteri-menteri yang sepatutnya...
 
-**Rafizi:** Mana ada *government assistance* dekat tempat lain.
+**Speaker 1:** Banyak muka baru ke, berbanding dengan last reshuffle?
 
-**Speaker 2:** Macam Khairul Aming lah orang cakap eh.
+**Speaker 2:** Lebih banyak daripada biasa. Ada menteri-menteri yang dikatakan perform, tetapi ditukarkan portfolio. Ada menteri-menteri yang dikatakan tak berapa perform, di-retain. Seperti yang dimention oleh orang ramai, yang paling gempak lah adalah perletakan Steven Sim di KUSKOP, dan Ramanan di KESUMA. Itu antara benda yang dipersoalkan. Dan juga Hannah Yeoh yang dipindahkan ke Kementerian Wilayah, dan Zaliha drop. Mungkin YB boleh bagi pandangan tentang these reshuffling steps.
 
-**Rafizi:** Yalah.
+**Speaker 1:** Shuffle, macam dance on the floor? Saya baru terfikir benda tu — shuffle, dance on the floor. Erm, tidak, okey. Saya rasa kita tolak tepi dulu komen-komen yang pasal Steven Sim ke, Ramanan ke, Zaliha ke, sebab saya rasa komen yang berkaitan dengan pertukaran-pertukaran itu lebih bertumpu kepada pandangan orang PH. Saya tak rasa dia ada kesan atau traction yang lebih besar dengan pengundi biasa.
 
-**Speaker 2:** Tapi, tapi itu pun jadi isu juga sebab ada eh, *sorry*.
+**Speaker 1:** Rombakan kabinet ni kita — ya Allah, kena terima hakikat lah, sebenarnya yang orang paling teruja dan menunggu itu hanyalah satu nama — Fadhlina. Yang itu yang semua orang tunggu. Dan saya rasa yang rakyat biasa, yang tidak partisan ini, kerana Kementerian Pendidikan itu sangat penting. Malah soal siapa jadi Menteri Ekonomi pun, tak ada orang yang peduli sangat pun. Yang tumpuan selama beberapa bulan, terutamanya sejak kami letak jawatan dan confirm akan ada rombakan kabinet, kemudian dengan beberapa isu yang berlaku, sama ada Dato' Sri Anwar Ibrahim akan menukar Menteri Pendidikan ataupun tidak. Dan itu adalah pandangan yang menyeluruh merentasi semua kumpulan — sama ada penyokong parti, sama ada bukan, tapi lebih-lebih lagi terutamanya dengan rakyat biasa, kerana semua ibu bapa, yang Melayu, yang bukan Melayu kan.
 
-**Rafizi:** Yang beria-ia sangat ini kenapa? *Beria* kena pendek.
+**Speaker 1:** Jadi apabila rombakan ini tidak melibatkan Fadhlina langsung, dan Kementerian Pendidikan tidak disentuh langsung, jadi bagi saya, itu secara automatik akan menjadi petanda bahawa pandangan rakyat biasa ialah rombakan ini tidak akan ada kesan apa-apa, sebab yang mereka tumpu, yang itu sajalah kan. Jadi itu yang, sebab itu kita tengok komen tu, kebanyakannya bagi saya ialah komen daripada penyokong PH. Hanya penyokong PH saja yang, oh Steven Sim lah, oh itulah, inilah kan. Sebab rakyat biasa tak fikir macam itu — rakyat biasa tidak ada banyak pandangan pun pasal Steven Sim, hatta Ramanan pun. Jadi yang penting bagi mereka ialah Kementerian Pendidikan.
 
-**Speaker 2:** Saya *excited* sebab Khairul Aming ini memang antara tempat yang you *realize actually* ada usahawan muda yang boleh buat *something* lah. Tapi jadi *point of contention* juga *because* ada orang bincangkan *whether or not* dia ada dapat *assistance* ataupun dia *start off* dengan betul-betul dia punya duit sendiri ke.
+**Speaker 1:** And I think Dato' Sri Anwar missed a great opportunity to invest in improving his image. Sebab kalau dia menukar Fadhlina tempoh hari, dua tiga hari lepas bila diumumkan, orang biasa akan take a step back and cakap, ok, maksudnya dia mendengar, maksudnya dia objektif — walaupun Fadhlina ini diketahui sebagai seorang yang macam anak angkat dia sendiri, anak kawan baik dia semua, dan walaupun macam mana pun selama ini Perdana Menteri mempertahankan Menteri Pendidikan, tapi oleh kerana mesej rakyat itu sangat jelas, maka dia menerima mesej itu — itu akan membuktikan bahawa Perdana Menteri mendengar mesej daripada rakyat.
 
-**Rafizi:** Dia ada *partner* kan? Dia ada *partner*. Tapi itulah yang berbeza. Dah jadi panjanglah pula benda ini. Itulah yang berbeza dan cabaran terutamanya kepada Bumiputera dan Malaysia.
+**Speaker 1:** Tapi somehow, sebab euforia orang kita, euforia media, dia tak sampai ke peringkat ada orang kat tangan kata, hang on, you know, bising-bising semua ni, tapi because you tak tukar yang ini, maka sebenarnya it doesn't really excite me lah. So bagi saya, isu yang paling utama ialah sama ada ada Menteri Pendidikan baru ataupun tidak — yang itu tak jadi lah.
 
-**Speaker 2:** Mhm.
+**Speaker 1:** Cuma daripada rombakan ini, isu yang lebih, saya ingat, meluas di kalangan pengundi biasa ialah soal Kementerian Wilayah, dan itu yang dipermainkan sebagai isu perkauman apabila menteri bukan Melayu dan timbalan menteri bukan Melayu. Jadi dua isu ini sebenarnya adalah isu utama daripada rombakan ini. Orang PKR ni, orang biasa tak peduli sangat lah. Dan sama jugalah maksudnya mesej daripada Dato' Sri Anwar kepada penyokong-penyokong PH — yang memang sangat negatif pasal Ramanan ini di dalam dan di luar PKR — ialah, "ya, minta maaf, korang buat bising macam mana pun, I decide and I like this guy for whatever reason." Again, you know, strike two lah — strike one, Ustaz Fadhlina tadi, strike two kan. Dan ia ditambah pula apabila Ramanan mengambil tempat seorang menteri yang popular dengan penyokong PH.
 
-**Rafizi:** Kalau katakanlah di US lah ambil contoh US dan sekarang ini China kan. Kalau budak itu dia ada idea dan dia rajin kan dan dia berusaha, dia boleh ketuk pintu dan jumpa orang yang ada lebih banyak duit ataupun orang yang dah berjaya. Dia punya *startup capital* itu sebenarnya agak mudah. Kalau dekat *Silicon Valley*, untuk orang dapatkan 50,000, 100,000 dollar, selalunya dia sembang dekat kafe saja. Tapi itu bukan budaya kitalah kan. Jadi saya ingat masa saya mulakan *startup* saya dulu untuk *raise capital* kan, panjang tebal macam ini *agreement* dan sebab kelas menengah kita ini yang kaya-kaya kita ini, dia, dia kena jadi Khairul Aming dulu baru orang percaya. Ha kan. Jadi kalau kau datang jumpa aku, aku fikir 20 kalilah kan untuk untuk minta modal untuk buat bisnes kan.
+**Speaker 1:** Steven Sim popular tu — you know, that's why we have to be very careful and get out of a bubble, because yang Steven Sim popular ni ialah dengan penyokong PH, dia tidak melambangkan semuanya kan. Tapi maksudnya, risiko yang diambil oleh Dato' Sri Anwar ialah, dengan rentetan perkara yang berlaku, dari soal nepotisme, daripada soal azam baki — ini semua isu-isu yang sangat penting bagi penyokong PH dan PKR, atas pagar yang menyokong PH dan PKR. Tapi mesej yang diberikan ialah "I am not bothered about your opinion" lah. Jadi strike two kan.
 
-**Speaker 2:** Okey.
+**Speaker 1:** Dan yang lain-lain tu saya rasa hanya tiga isu tadi — dua yang melibatkan rakyat biasa keseluruhannya: Fadhlina dengan Hannah Yeoh, and the repercussions yang boleh dipolitikkan daripada lensa perkauman. Satu ialah yang berkaitan dengan pengundi PH lah — pertukaran, Ramanan dinaikkan juga jadi menteri walaupun dia jadi bahan troll selama berbulan-bulan, jadi dia tak payah tukar baju — stitches Ramanan Anwar itulah, dia boleh terus pakai lah kan. Dan juga Steven Sim.
 
-**Rafizi:** Okey Baby. 8 minit. 8 minit.
+**Speaker 1:** Adalah perkara-perkara yang agak minor, contohnya kontroversi yang dilontarkan mengenai Timbalan Menteri Agama, kemudian Timbalan Menteri KPT — Timbalan Menteri KPT itu, itu nasib dia lah kan. Kemudian satu lagi kontroversi yang saya ingat, mungkin tak besar tapi masih lagi jadi isu dalaman PH, adalah contohnya sehingga sekarang Amanah tidak diberikan peluang, hatta menjadi Timbalan Menteri Agama pun kan. Cuma saya ingat perkara-perkara yang itu, dia akan mati dengan cepat.
 
-**Speaker 2:** *Airtime* eh.
+**Speaker 1:** Bila kita menilai kesan daripada sesuatu tindakan politik, contohnya soal rombakan kabinet ni kan, that's why saya selalu sebut, kita kena separate the noise from the actual torpedo kan. Jadi the noise tu yang berkaitan dengan Timbalan Menteri Agama, yang berkaitan dengan — apa ni — ini mungkin rasa tidak puas hati sama ada Amanah ataupun parti-parti lain dalam PH, yang itu dia akan mati dengan cepat.
 
-**Rafizi:** Okey. Patut Khairul Aming bayar kitalah sebab mempromosikan.
+**Speaker 1:** Kesan yang lebih besar adalah dua perkara tadi, dua kumpulan. Satu ialah apabila Dato' Sri Anwar Ibrahim isyaratnya daripada rombakan kabinet ini ialah kepada penyokong-penyokong PH: "apa yang kamu suarakan ini hanyalah bising di media sosial saja, dia tidak memberi kesan kepada saya." So I don't want to take your opinion into account. Itu akan ada kesan besar untuk satu masa berbulan-bulan — itu akan melunturkan lagi rasa hormat penyokong atas pagar dan juga penyokong PH, kerana seolah-olah pandangan mereka ni langsung tidak diambil kira.
 
-**Speaker 2:** *Okay next* YB, kita ada *Beria*. Aduh peningnya. Banyak sangat surat minta sokongan.
+**Speaker 1:** Dan yalah, kerajaan Dato' Sri Anwar mungkin boleh ketepikan pandangan itu sebagai bising-bising di media sosial, tapi PH ni parti media sosial. PH menjadi lebih kuat sehingga boleh membentuk kerajaan tahun 2018, tahun 2022 ni, kerana kita kuat di media sosial lah — UMNO daripada tahun 2013, 2008 lagi garu kepala ni, macam mana nak membina kekuatan internet dan digital untuk melawan PKR dan PH. Tiba-tiba, kekuatan yang ada itu, bila sampai kepada sekarang, dia tidak diambil kira lah kan.
 
-**Rafizi:** *Beria* dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ini. Satunya ialah bila *Utusan Malaysia* buat *interview* dua muka surat kan, dua lembaran.
+**Speaker 1:** Dan satu lagi yang akan ada kesan yang panjang, ialah soal prestasi Kementerian Pendidikan, dan konotasi apabila Dato' Sri Anwar tidak mengambil kira pandangan dan maklum balas rakyat mengenai Menteri Pendidikan. Kalau PAS dan juga UMNO pun bersuara, tapi saya rasa UMNO itu lebih kerana kebimbangan UMNO bila isu ini akan mengundang satu lagi siri serangan perkauman, kerana sekarang ini mereka kaitkan Menteri Wilayah daripada DAP, Menteri Perumahan daripada DAP, mereka akan bersekongkol, dan ini akan menekan dengan KTMB dan sebagainya — tiba-tiba dia ada satu naratif baru yang menakut-nakutkan. Jadi itu tiga perkara yang saya rasa lebih dominan, sebelum kita nak kata vaksin atau Panadol.
 
-**Speaker 2:** Lembaran.
+**Speaker 2:** Mungkin saya lontarkan satu lagi persoalan lah. Because antara biggest losers, quote-unquote, certain people cakap kan, adalah MCA dan MIC. Sejak kebelakangan ni mereka lebih bertaring, pull out from Barisan Nasional semua tu, tetapi they still lose out in terms of reshuffle kali ini. Maybe, is it because Dato' Sri Anwar, um, mungkin tidak melihat mereka sebagai...
 
-**Rafizi:** Lembaran.
+**Speaker 1:** Insignificant?
 
-**Speaker 2:** Lembaran raya.
+**Speaker 2:** Insignificant mungkin terlalu banyak perkataan, tapi too small of a player ataupun...
 
-**Rafizi:** Raya, raya.
+**Speaker 1:** Saya tak rasa MIC is the biggest loser — dia ada bekas bendahari MIC, dia ada wakil dalam kabinet, naturalisasi oleh PKR, dia ada wakil daripada MIC. Tak, saya rasa dari isu mengenai MCA dengan MIC ni, saya dah ulas minggu lepas bahawa ugutan ataupun bising-bising itu lebih kepada soal positioning dan bargaining power MCA-MIC di dalam kerajaan melalui BN. Satu ialah, window yang ada ini ialah untuk merombak Jemaah Menteri, inilah, sama ada mereka ada dapat tempat ataupun tidak.
 
-**Speaker 2:** Saya *test*.
+**Speaker 1:** Tapi tak mudah jugalah — pertama, contohnya dari segi perkiraan berapa mewakili parti mana, dia mengikut gabungan. Jadi BN kan, gabungan BN, untuk memberi satu jawatan menteri kepada sama ada MCA ataupun MIC, maka BN kena bagi kerusi itu kepada mereka, kerana perjanjian kerajaan perpaduan — yang itu saya tulis tau, memang dah secara jelas menunjukkan dia mesti berkadar langsung dengan jumlah kerusi. Malah sebenarnya UMNO dapat lebih sekarang, sebab kalau ikut perkadaran itu, BN sepatutnya dapat 5 sahaja, tapi sebab Tengku Zafrul dahulu tidak dikira mewakili UMNO, tetapi mewakili — dalam perbincangan itu kata bukan mewakili UMNO, masa awal-awal kita tubuh lah, dia kira ini bukan kuota UMNO, ini kuota Tengku Zafrul sebab Tengku Zafrul dot-dot-dot lah. Jadi UMNO pula kata, "oh, tapi sebab dia ahli UMNO, maka bila dia tak ada, nanti kuota itu mesti jadi kuota UMNO." Tapi sekarang ni, UMNO kalau ikut berkadar langsung, UMNO dapat lebih lah satu kan.
 
-**Rafizi:** So, kalau dah dia dua lembaran muka surat surat khabar itu, besar kemungkinan bukan Utusan pandai-pandailah, maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan kan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini terangkanlah kot macam mana pun, beritahu dia ikut proses kan, walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa, kita kena ingat rakyat biasa tahu.
+**Speaker 1:** Jadi sama ada UMNO nak bagi satu kerusi dia kepada MCA, ataupun satu kerusi Jemaah Menteri itu kepada MIC — takkan bagilah. Jadi kalau UMNO nak tekan pula PH bagi kerusi kamu, lagilah tak bagi. Jadi memang dalam keadaan sekarang kan, jadi window ini memang dah terlepas lah kepada MCA, MIC. Dan sama ada Dato' Sri Anwar kira MCA, MIC ini insignificant ke — yang itu Dato' Sri Anwar boleh dengan mudah lepas dengan cara, "eh, bukan saya, ini kamu selesai dalam BN lah, kalau kamu dah bincang dalam BN, tiba-tiba satu kerusi pun BN tak nak bagi kepada MCA dengan MIC, jangan marah saya." Jadi window yang seterusnya, kita kena tengok sama ada mereka berjaya dapatkan kerusi daripada PKR atau UMNO atau DAP dalam pilihan raya umum yang akan datang.
 
-**Speaker 2:** Mhm.
+**Speaker 2:** Baik, baik, baik. Mungkin — I got more questions.
 
-**Rafizi:** Katakanlah saya, saya nak masuk tender. Itu pun masalah orang politik tahu sebab dia tak pernah melalui proses tender itu. Dia dekat atas, dia bagi arahan, kau dicampur tangan kan, nak masuk tender kan. *This very idea that no matter how good I am*, tapi ada orang lain boleh ada *express line*. Mhm. *Express line* orang tak suka. Kalau dekat apa nama ini, dekat *supermarket* pun kita beratur susah payah ada orang pergi potong. Memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan ini, dia memang tidak, tidak akan berjaya mengubah persepsi rakyat lah. Jadi cubalah lagi di masa akan datang.
+**Speaker 1:** Sure, sure, sure.
 
-**Speaker 2:** Baik YB. *Good luck*.
+**Speaker 2:** So nanti minggu depan kita tukar, kita cuba Farhan jadi moderator. Satu lagi persoalan. Basically, dikatakan, now with the introduction lebih ramai orang muda, especially in terms of deputy ministers, dan then Taufik dinaikkan sebagai Minister KBS — dikatakan Dato' Sri Anwar sedang mencuba solidify the future generations to lead, berdasarkan penyelidikan ini. Adakah itu komen yang adil? Adakah itu kesimpulan yang adil?
 
-**Rafizi:** Kita tengok.
+**Rafizi Ramli:** Yalah, it's a little bit of both, kan. Pengalaman saya dengan Dato' Sri Anwar ini... dia suka kalau yang muda. Kalau yang muda itu, boleh nampak dengan premise yang muda itu kononnya boleh berlari lebih pantas. Dan satu lagi premise ialah kalau yang muda itu boleh menarik sokongan pengundi muda. Dua-dua premise ini mesti diuji selepas ini — sama ada yang muda-muda yang dilantik ini, pertama, boleh berlari lebih pantas daripada calon-calon lain. Because it has to be a fair balance dari segi tenaga, kecekapan. Tapi kecekapan itu sebahagiannya datang daripada pengalaman. Ia berbeza — untuk kita melambungkan seorang tokoh muda dalam parti yang tidak ada tanggungjawab mentadbir dan menguruskan sesebuah kementerian, berbanding menteri yang bertanggungjawab, kerana proses itu sangat panjang. Kementerian ada birokrasinya, ada peraturannya, and then you have to bring to the table your expertise dalam perkara-perkara tertentu. Jadi it remains to be seen. Kita hanya boleh tengok dalam tempoh enam bulan hingga setahun dari sekarang sama ada kedua-dua premise ini berjaya — premis bahawa dengan meletakkan lebih ramai pimpinan atau ahli parlimen muda, mereka akan menjadi lebih cekap, lebih laju, lebih kreatif, lebih inovatif; dan sama ada kehadiran mereka boleh menambah undi golongan muda, yang sekarang ini memang PH ada masalah besar dengannya.
 
-**Speaker 2:** Kalau dia nak datang *podcast* ini terangkan pun, alu-alukanlah.
+Cuma... ramai daripada kami sekarang ini adalah golongan muda dalam PKR dahulu. Ini yang akan jadi dikotominya. Kalaupun Dato' Sri Anwar ingin menggunakan pimpinan muda untuk melonjakkan sokongan rakyat, dia mesti beri kebebasan kepada yang muda itu. Kerana kami telah melalui pengalaman itu — selagi kami tidak ada pandangan sendiri, you are okay. The moment kita cuba mencabar status quo atau kita ada pandangan sendiri — contohnya soal budaya dalam parti — tiba-tiba dia tak kira muda atau tidak, dia kira kau "tak walak" [tidak setia]. Jadi premis yang mengatakan ini satu strategi Dato' Sri Anwar — dua-duanya bergantung kepada beliau. Maksudnya, kecuali dia bagi kebebasan dan dia bersabar, dan dia memahami bahawa untuk mendapat undi golongan muda, pimpinan menteri dan timbalan menteri muda ini mesti keluar daripada kepompong lama. Sebab kenapa orang rasa pimpinan muda ini mungkin lebih baik? Kerana mereka tidak terikat dengan budaya lama, cara kerja lama, dan orang mahukan perubahan sebab mereka tidak suka dengan yang lama. Tapi kalau kita ambil yang muda dan letakkan dalam sistem yang birokrasinya tidak berubah, budayanya tidak berubah, caranya masih patriarchal, masih patronizing, seperti yang telah ditetapkan, maka akhirnya tidak akan ada kesan yang besar. Itu pandangan saya.
 
-**Rafizi:** Boleh.
+**Farhan:** Baik. Sebelum kita tanya soal expectation moving forward untuk kabinet, dan apa yang kita boleh expect sehingga pilihan raya — akan ada major change atau tidak — biar saya tanya dulu soalan yang ramai orang tanya juga. YB ada buat posting semalam berkaitan beberapa rakan rapat YB yang turut dilantik — Akmal sebagai Menteri Ekonomi, Tuan Syed Ibrahim sebagai Timbalan Menteri. Macam mana YB tengok perkara ini?
 
-**Speaker 2:** Bolehlah.
+**Rafizi Ramli:** Saya rasa, secara umum, kalau ikut dinamik dalam PKR, saya dapat banyak mesej. Dinamik yang paling ketara ialah "damai" — kerana selepas parti bergolak sebegini, akhirnya yang nampaknya mendapat tempat ialah ramai yang sebelum ini sama ada memang betul-betul hardcore dan dilihat rapat dengan saya, ataupun yang dilihat "dapat kerusi diangkat" — majoritinya dalam kumpulan itu. Jadi kalau Akmal dengan Tuan Syed Ibrahim, tak payah cakap lah — orang kata, "toreh tangan pun keluar nama aku." Tapi ada juga yang mungkin tidak faham pasal dinamik dalam PKR ini, contohnya Mustapa Sakmud. Mustapa Sakmud memang dikenali sebagai rapat dengan saya, kerana dia bukan daripada Sepanggar — saya yang berkeras untuk bagi dia kerusi parlimen, dan keputusan untuk dia bertanding di Sepanggar dan bukannya Kota Belud ialah keputusan yang saya buat semasa PRU 2022. Sama juga dengan cadangan untuk dia jadi timbalan menteri — sebelum ini timbalan menteri KESUMA, kemudian timbalan menteri KPT. Jadi bagi sebahagian orang dalam PKR, dia dilihat sebagai seorang yang jalan politiknya lebih cenderung kepada saya.
 
-**Rafizi:** Tapi kita *charge* lah.
+Ada juga contoh CM Chiu, ahli parlimen Miri. Umur CM sekarang berapa? 32? Oh, dah tua dah CM ini — aku masih ingat dia umur 23. Saya lahir '92, do your math. CM ini, dulu kontroversi — saya yang mencadangkan supaya kita tukar calon ahli parlimen Miri, dan CM sangat muda masa itu, masa dia nak bertanding. Yuneswaran pula contohnya, kerusi Segamat.
 
-**Speaker 2:** Dua muka surat *Utusan Malaysia*, *charge* dia berapa nah?
+Jadi bila dikira-kira semua ini, saya faham kalau ada geng-geng sebelah sana yang rasa, "buat apa aku dah susah payah," dan akhirnya yang dapat muka-muka nak [naik pangkat]. Tapi itulah, kami senyum sahaja, kerana saya rasa kami lebih kenal Anwar Ibrahim berbanding sebahagian besar mereka ini. Itu cara Dato' Sri Anwar nak balance.
 
-**Rafizi:** Takkan *charge* harga itu, mahal sikit.
+Satu lagi kumpulan yang saya rasa mungkin kecewa ialah kumpulan di sekeliling Dato' Seri Amirudin, Menteri Besar Selangor. Kerana ura-uranya sebelum ini dia akan dibawa ke peringkat federal, dan mungkin akan jadi Menteri Pendidikan. Jadi pintu itu sudah tertutup — dia akan kekal di Selangor. Dalam keadaan menghadapi pilihan raya negeri akan datang, ia lebih mencabar untuk beliau mempertahankan Selangor, kerana sebelum berlakunya [tsunami] di Sabah, dalam PRN 2023 beliau hanya mampu membawa kerajaan Selangor dengan majoriti lapan kerusi sahaja. Jadi kalau tsunami sebegitu berlaku di kalangan pengundi bukan Melayu — sampai DAP hilang semua kerusi seperti di Sabah — Selangor bukanlah tempat yang selamat. Jadi kecuali dia berjaya meyakinkan Dato' Sri Anwar supaya dia tidak lagi bertanding di peringkat negeri Selangor, atau dia bertanding parlimen sahaja — tapi jalan itu makin tertutup.
 
-**Speaker 2:** Ah, ah kan.
+Pada masa yang sama, saya rasa sebelum ini strategi kumpulan Amirudin ialah untuk position himself sebagai the natural successor kepada Dato' Sri Anwar, selain daripada Nurul Izzah. Sebab itu dia menjadi sangat rapat dengan Izzah dalam dua-tiga tahun kebelakangan ini. Tapi dalam politik Malaysia, kalau tidak berada di peringkat persekutuan, maka you are not seen in the running untuk succeed. Jadi ini berbalik kepada soalan Farhan tadi pasal succession planning untuk masa depan — sebenarnya huru-hara. Kerana kalau ikut hierarki parti, Amirudin tak ada di persekutuan, so he's out. Izzah is out. Jadi yang paling senior dalam kabinet ialah saya sendiri — tapi saya tak boleh ditaksir [dipertimbangkan]. Saifuddin tidak ada legitimacy dalam parti atau kerusi, tak boleh ditaksir juga. Jadi sebenarnya PKR sekarang masih one-man show — Anwar Ibrahim. Tuan Akmal pun, dia tak akan dipertimbangkan.
 
-**Rafizi:** Eh, mahallah dua muka surat.
+Yalah, saya rasa is premature untuk kita judge prestasi buat masa ini. Yang kita boleh komen setakat ini hanyalah mengenai pandangan dan reaksi politik daripada kumpulan-kumpulan yang berbeza di kalangan rakyat. Saya rasa rombakan kabinet ini menambahkan lagi bukti bahawa Dato' Sri Anwar Ibrahim yang saya kenal ini sebenarnya 80% politik, 20% kompetens. Kita boleh tengok daripada lantikan-lantikan yang dibuat. Contohnya, kalau ikut kompetens — dan saya bersetuju dengan pandangan ramai netizen PH mengenai perkara ini — Steven Sim patut dikekalkan di situ. Tapi Ramanan nak juga kerusi itu, jadi diberikanlah kepada Ramanan. Jadi terlalu awal untuk kita buat keputusan. Kita kena melalui enam, tujuh, lapan bulan yang akan datang, dan apa-apa keputusan atau penilaian rakyat itu akhirnya akan diterjemahkan di pilihan raya, kerana tempoh yang berbaki ini hanya lebih kurang setahun setengah, dua tahun.
 
-**Speaker 2:** 10,000. 10,000 lah.
+Dalam banyak-banyak yang ada, ada dua atau tiga orang yang digugurkan, termasuk timbalan menteri.
 
-**Rafizi:** Mhm. Okey, baik.
+**Farhan:** Siapa yang dimaksudkan?
 
-**Speaker 2:** Okey.
+**Rafizi Ramli:** Saraswathy. Saraswathy dah ada Ramanan, dan Ramanan tak suka Saraswathy, Saraswathy pun tak suka Ramanan — jadi mereka tak boleh duduk dalam satu kerajaan, kan. Perasaan saya bercampur-campur mengenai perkara ini. Pada satu masa, saya rasa ia satu kehilangan bagi beliau digugurkan. Pada satu masa lagi, saya rasa ia juga bagus, kerana beliau ini seorang yang sangat baik dan juga — maaf cakap — agak "bendul" [naif dalam politik]. Saya maksudkan Dr Naim. Bila Dr Naim digugurkan, itu kerana dia memang bukan orang politik, dan dia seorang yang terlalu baik sebagai manusia — akhlak dia sangat baik. Jadi mungkin politics is perhaps not a place for him.
 
-**Rafizi:** Yang ketiga.
+Dalam tempoh dua tahun setengah kami sama-sama dalam jemaah menteri, memang akhlak beliau sesama menteri-menteri lain adalah antara yang paling baik. Berbanding dengan Dr Zulkifli yang menggantikannya — Dr Zulkifli ini lebih dikenali sebagai orang kuat ABIM. Jadi kalau nak ikut kredensial, Dr Naim tidak dilihat dalam lensa ABIM. Itu satu kelebihan dan satu kekurangan bagi Dr Naim. Satu lagi, saya rasa Dr Zulkifli lebih kepada seorang politician dari segi aura, berbanding Dr Naim yang lebih akademisyen dan pentadbir tulen. But I hope he will have a good time kembali kepada keluarga dan berehat selepas ini.
 
-**Speaker 2:** *Influencer* dihalang rasmi majlis pendidikan *versus popularity*.
+Ini adalah antara menteri agama yang paling kurang kontroversi. Selalunya menteri agama banyak kontroversi dan selalu kena hentam kiri kanan. Jadi saya kurang pasti — itulah mungkin yang menyebabkan pandangan orang berbeza-beza mengenai cara kita menilai beliau. Bagi saya, kalau seorang menteri agama itu tidak ada kontroversi, actually it's actually quite good, kerana untuk sebuah kerajaan, kita tak nak ada kontroversi berkaitan agama. Kalau ada kontroversi agama, susah, kerana soal agama ini is very divisive — you cannot bring people to the middle. Orang yang kata A, A lah; orang kata Z, Z lah. Jadi dalam tempoh dua tahun setengah itu, termasuklah penyokong PH yang merasakan beliau tidak agresif — mungkin itu pertimbangan yang Dato' Sri Anwar buat. Dia dianggap tidak agresif, tidak berjaya melawan PAS, atau macam tak ada kesan kerana pendiam.
 
-**Rafizi:** So, yang, yang mana kita nak kata dia *beria* ini? Dia *beria* terangkan ke, dia *beria* pergi rasmi kan ke?
+Tapi pandangan saya agak berbeza. Maksudnya, kalau seorang menteri agama, kerja jalan, penambahbaikan berlaku, tapi dari satu isu ke satu isu dia tidak meletup, dan dia aman damai tanpa kontroversi — saya rasa itu satu prestasi yang baik. Malangnya, orang politik selalunya tidak memandang dari perspektif itu. Orang politik memandang kualiti seseorang mestilah agresif, mestilah bising, mestilah melawan. Tapi untuk portfolio agama, kita kena tengok selepas ini. Whatever people say about Dr Naim, dalam tempoh dua tahun setengah yang lepas, walaupun orang mungkin tidak terfikir, the fact that kita tidak ada kontroversi agama yang besar seperti sebelum ini — saya rasa itu satu kejayaan yang boleh dia banggakan.
 
-**Speaker 2:** *Actually* susah YB. *Depends* kepada persepsi tapi YB pernah terangkan pasal benda inilah dalam ceramah hiruk dekat Kedah. *Why* anak-anak muda okey untuk menyokong pemimpin yang menyanyi kat *TikTok* macam Sanusi. *Because of the exposure* kepada peluang-peluang lain selain daripada tangga-tangga pendidikan yang konvensional, boleh yalah *influencer* dapat duit semua. *So, it really depends*. Adakah benda itu bagus ataupun kita nak meraikan kepelbagaian.
+**Farhan:** Baik. Bagaimana pula dengan doktor seorang lagi yang turut digugurkan — Dr Zaliha?
 
-**Rafizi:** Itu tak menjawab soalan aku.
+**Rafizi Ramli:** Tak tahulah saya... saya rasa itu ketentuan Allah. I cannot pretend that I know what was the consideration atau perasaan dia. Tapi berbanding dengan orang lain yang ramai — orang lama yang perlu difikirkan — Dr Zaliha boleh dikira sangat bertuah. Jadi kalau dia nak kecil hati pun, saya rasa dia sudah mendapat lebih daripada ramai lagi orang lain. Contohnya, masa Kak Wan menjadi Timbalan Perdana Menteri dulu, she was plucked out of nowhere untuk menjadi setiausaha politik. Sebab setiausaha politik pertama kepada Kak Wan pada 2018 ialah Kak YB Roziah, tapi YB Roziah sibuk — dia memang exco dan ahli DUN, kena jaga semua, jadi dia tak sanggup lama, hanya membantu Kak Wan pada awal-awal itu.
 
-**Speaker 2:** Aku tanya yang mana yang, yang, yang kau kata *beria-ia* ini, *beria* dia terang ke, *beria* dia masuk sekolah?
+I think Dr Zaliha dibawa masuk out of nowhere juga, sebab dia sudah lama bersara daripada politik dalam PKR — kali terakhir dia bertanding ialah 2008, selepas itu dia sudah tidak ada peranan dan sudah move on dalam politik. Kemudian saya letakkan dia di Sekijang. Itu pun bertuah, dan kita terpaksa memujuk arwah Kak Natrah, ahli parlimen Sekijang ketika itu, untuk memberi laluan kepada beliau. Itu pun was already given on a silver platter. Kemudian, semasa membentuk kabinet, nama dia bukan yang pertama naik untuk Menteri Kesihatan — kita pujuk lagi, atas dasar bahawa pada waktu itu, dalam kalangan ahli parlimen PH, satu-satunya yang doktor dan wanita ialah beliau.
 
-**Rafizi:** Boleh jadi *beria* dia terang. Sebab yalah, walaupun orang kata dia tak ada *qualification* tapi dia boleh masuk sekolah. Ataupun *beria* orang *bash* dia lah. Kalau sebenarnya okey, saya sebenarnya yang *beria* ialah yang tukang ajak dia itu lah. Ha, ha, ha, ha. Jadi dia tukang ajak. Oh, tukang ajak. Sebab dia kata orang jemput.
+**Farhan:** Jadi YB sendiri yang mencadangkan?
 
-**Speaker 2:** Orang jemput. Dia buat kerja dia je, tapi ada orang ajak.
+**Rafizi Ramli:** Ya, saya yang cadangkan Zaliha untuk jadi Menteri Kesihatan. Dia takes both boxes — dia seorang doktor, dia juga wanita. Dari segi itu, saya rasa ia bagus. Dan saya rasa dia sudah pun mendapat dua atau tiga pencen — pencen menteri, pencen ahli parlimen, pencen supol. Jadi saya rasa itu sudah cukup baik. Yelah, tentulah orang dalam parti ini ada pandangan yang panjang mengenai Dr Zaliha kerana dia mempengerusikan jawatankuasa pemilihan untuk dua pemilihan berturut-turut yang kontroversi. Tahun 2022, keputusan Ketua Wanita ditukar — yang asalnya YB Roziah, tapi tiba-tiba kalah dengan lebih 40 undi. Kemudian pemilihan yang lepas pun begitu juga. Tapi saya rasa masanya pun sudah bersesuaian for her to move on. Dan apa pun, itu pertimbangan Dato' Sri Anwar.
 
-**Rafizi:** Mungkin lah kot. Mungkin sebenarnya yang *beria* itu cikgu-cikgu yang jemput dia kan? Ha.
+Baiklah — she has served her purpose, sadly. Vaksin atau Panadol, mungkin masa yang akan menentukan.
 
-**Speaker 2:** Yalah. Masa itu kalau *anything*, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubahlah kan. Mhm. Saya ada baca komen-komen, ada yang mengaku cikgu dekat media sosial kata orang netizen ini pandai-pandai saja buat komen kan, *pass judgement*. Sebenarnya jadi cikgu ini susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi, mungkin lah yang *beria* itu yang jemput sekolah dia. Budak ini dah jemput, dia rasa hebat dia pergilah kan. Ha netizen pula kan *free*, boleh komen. So dia komen lah.
+**Farhan:** Tapi kita boleh tengok isu keras yang seterusnya. Jadi, vaksin ke Panadol ini?
 
-**Speaker 2:** Cuma ini sesuatu yang masyarakat kena fikirkan lah kan. Satu maksudnya adakah bermakna mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat. Mhm. Itu kan, itu satu perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang, yalah kurang seronok lah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia kan. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknyalah, sekolah mesti menunjukkan nilai itu kepada murid-murid kan bahawa yang, yang, yang harta bagus, orang yang menderma bagus, tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Ha kan. Dan itu yang datang berbalik kepada yang sebut tadi lah. Maksudnya sekolah pun kena berhati-hati bahawa kita nak kena imbang kan, bagaimana kita memberi *success model*. Model kejayaan untuk anak-anak itu, kalau model kejayaan itu ialah harta semata-mata, duit semata-mata.
+**Rafizi Ramli:** Masa yang menentukan. Only time can tell.
+
+**Farhan:** Tapi cukup ke masa untuk...
+
+**Rafizi Ramli:** Vaksin atau Panadol, cukup kot. Tapi Panadol memang definitely Panadol buat masa sekarang. Tapi vaksin itu — kalaupun ia berkesan, oleh kerana ia tidak dicuba dalam medical trial yang lama, ia mungkin ada side effect yang besar.
+
+**Farhan:** Baik, baik, baik. Okay, YB — cukup ke tidak masanya? Maksudnya, apa untuk... I mean, tengok kesan? Sebab ini adalah cabinet line-up menjelang pilihan raya.
+
+**Rafizi Ramli:** Orang ingat, oleh kerana Akmal jadi Menteri Ekonomi, lepas ini saya cakap berlapik-lapik lah, kononnya. Tak ada — saya cakap benda yang sama sahaja. The whole idea of this podcast ialah untuk melontarkan perkara-perkara yang orang politik ini terlalu berhati-hati untuk sebut. And I've always felt that sebenarnya calling a spade a spade is perhaps the best policy in life. Sama ada ada cukup masa atau tidak — I don't think sama ada dua tahun, tiga tahun, atau empat tahun, it makes that much difference. Because to be fair kepada mereka yang dilantik, ia bukan sangat soal mereka atau kemahiran mereka ataupun kemampuan mereka melonjakkan prestasi. Ia bermula dengan gaya kerajaan. Gaya kerajaan itu ada dua bahagian.
+
+Satu ialah Perdana Menteri. Dato' Sri Anwar, sejak menjadi Perdana Menteri, memang segala imej kerajaan itu dipusatkan kepada beliau. Malangnya, dalam negara kita — sejak zaman Dato' Sri Najib lagi — itu memang strategi yang digunakan oleh penasihat-penasihat komunikasi kerajaan. Maksudnya, kalau ada Perdana Menteri, maka setiap imej kejayaan dan kebaikan kerajaan mesti dikomunikasikan melalui Perdana Menteri. Sebab itulah zaman Dato' Sri Najib dulu — saya ingat pada 2013 sudah nampak strateginya bahawa semua kempen mestilah berlegar mengenai kehebatan Dato' Sri Najib. Dan saya rasa itu sangat berbahaya, kerana itu bukan strategi yang bijak — itu perkara yang sangat berbahaya, kerana jika itu strategi BN, semuanya adalah Najib — gambar pun semua gambar Najib, orang pun cium tangan Najib, semua. Semua yang diperlukan hanyalah untuk menembaknya. Bila anda menembaknya, bila imej Dato' Sri Najib jatuh merudum di mata rakyat, semuanya berakhir. True enough. Tapi perkara itu akhirnya berlanjutan juga apabila Bersatu dan Perikatan Nasional di bawah Tan Sri Muhyiddin — semua "Abah, Abah, Hujud Doa, Abah, Abah, Abah, Abah, Abah." That's it, you know. Dato' Sri Ismail Sabri pula tidak cukup lama.
+
+Tapi malangnya, semasa Dato' Sri Anwar menjadi Perdana Menteri — itulah yang saya kata, orang di sekeliling ini penting, sebab kalau you fuel in the bubble, you blow the bubble bigger and bigger — semuanya mestilah Dato' Sri Anwar Ibrahim. Jadi, for the last three years, memang imej kerajaan itu semuanya Dato' Sri Anwar; tiada siapa yang boleh naik lebih tinggi atau dilihat lebih prominent daripada beliau. Jadi ini UMNO pandai, sebab UMNO sudah lama duduk dalam sistem itu. Sebab itu menteri-menteri UMNO ini, dari segi silap politik, anda perhatikan, mereka tak akan ke depan — because it's a win-win for them. Kalau Dato' Sri Anwar berjaya melonjakkan kerajaan menjadi cukup popular, mereka dapat laba, without having to do much. Tapi kalau imej Dato' Sri Anwar merudum dan tidak popular, mereka boleh kata, "I'm not the option to serve here," dan mereka boleh masuk ke dalam PRU akan datang dan kata, "tak apalah, terima kasih, it's been a marvellous five years, we'll take our separate ways now." So, you can jettison Anwar Ibrahim and PH — you pandai-pandai sendirilah.
+
+Saya rasa perkara itu tidak boleh ditukar sekarang. Semua imej ini sangat bergantung kepada Dato' Sri Anwar, yang pada satu tahap sedikit lebih presidential daripada prime ministerial. Jadi, anda letakkan tim macam mana pun, kecuali itu berubah, ia tidak ada kesan yang besar.
+
+Perkara kedua yang tidak berubah ialah birokrasi kerajaan. Birokrasi kerajaan tidak berubah, jadi walaupun ada menteri yang nak buat macam-macam, atau dia ada idea, dia perlu melalui lapisan demi lapisan bangkangan, dan bureaucracy yang akan mengheret berbulan-bulan untuk satu keputusan. Macam-macam jatah kuasa, go to and fro, to and fro, dan lama-kelamaan dia give up. Jadi in that sense, you know, it's not so much sama ada masa dua tahun itu cukup atau tidak — it's actually the very core daripada macam mana kerajaan kita berfungsi.
+
+**Farhan:** Tapi apabila anda menyebut birokrasi, adakah ia birokrasi di antara kabinet, ataupun birokrasi yang melibatkan penjawat awam?
+
+**Rafizi Ramli:** I think, all — semua. Sebab itu kalau orang tanya kenapa kerajaan atau jabatan kerajaan jadi macam itu, mungkin sebab kita mewarisi perkhidmatan awam daripada budaya British dahulu. Budayanya ialah "jangan ambil risiko" and cover your back as much as possible. Sebab itu kalau ada peraturan, pekeliling, atau dasar, semua itu is designed to make sure that kalau anything happens you are not exposed. Sebab itu tak mudah — kalau orang tanya, "ini rasuah yang banyak-banyak ini, ada projek tak siap, penyelewengan," laporan Ketua Audit Negara demi laporan Ketua Audit Negara, tapi tak ada seorang pun yang dikenakan tindakan. Sebab tak mudah, kerana orang ini buat keputusan pada level dia, peringkat dia. Naik kepada level seterusnya, naik lagi, naik lagi — kalau apa-apa terjadi, orang itu sebenarnya bukan 100% bertanggungjawab, kerana ada lagi orang atas. Orang atas kata, "oh saya ada lagi, atas saya ada lagi." Akhirnya kena pada menterilah. Jadi finally, tak apalah.
+
+Jadi, everything is designed to cover your back. Sebenarnya, the bureaucracy ini daripada atas sampai ke bawah — cuma di bawah perhaps kurang politik, di atas lebih banyak politik. Politik antara kementerian, politik antara sesama KSU, politik antara menteri — panjang ceritanya. Jadi kalau itu tidak ditukar, kabinet yang ada, buatlah macam mana rombakan pun, dia akan terpaksa melepasi hurdle demi hurdle, halangan demi halangan.
+
+Sebab itu — YB pernah menjadi menteri dulu — dengan satu batang tubuh menteri sahaja, bolehkah diubah sebenarnya? Sebab itulah orang mungkin kata saya ini bukan team player. Sebab kalau saya kata, contohnya, berkaitan gaji progresif, semua orang menentang. Setiap satu benda yang IPR, semua orang menentang — memang orang tak setuju. Tapi you kena berkeras — satu, dua, tiga, you kena push and push and push. Saya bernasib baik kerana pegawai-pegawai di Kementerian Ekonomi, selepas beberapa bulan pertama, faham, "okeylah, we are in it together on the same boat," kita push. Tapi bila you keep pushing and you nak kacau status quo, orang ini tak suka, orang itu tak suka. Sebab nak salahkan mereka pun, saya rasa kalau saya jadi menteri daripada parti lain di kementerian lain pun, mungkin akan fikir, "buat apa susah-susah? Biar Dato' Sri Anwar lah ke depan, biar dia take all the risk, biar dia berkempen semua. Kalau dia berjaya, kita dapat; kalau dia tak berjaya, kita golakkan dia, kita pergi."
+
+Cuma saya dalam keadaan yang berbeza — saya Timbalan Presiden pada masa itu, dan pembangkang memang menumpukan semua serangan kepada Dato' Sri Anwar dan juga saya. Kalau tak buat apa-apa, atau kita tak ke depan, atau kita tak ada idea baru, lagi teruk kita kena lanyak. Jadi nak tak nak, saya terpaksa push seberapa banyak yang boleh, termasuklah perkara-perkara yang pada pandangan saya rakyat mahukan tetapi ada banyak bangkangan daripada birokrasi. Contohnya, berkaitan Kementerian Pendidikan — saya tengok gambar minggu lepas, Perdana Menteri menguruskan Majlis Pendidikan Negara. Susah payah nak buat Majlis Pendidikan Negara itu, tahu — ada pegawai daripada Kementerian Pendidikan yang, semasa dibahaskan, sampai marah-marah, "kenapa nak kacau kementerian saya?" Saya fikir, ya Allah, ini untuk kebaikan. Samalah semasa kita nak buat kerjasama dengan ARM untuk cipta cip negara — berbulan-bulan bergaduh, tiga kali pergi kabinet, sana tak setuju, sini tak setuju. Yang sudah setuju pun, masuk mesyuarat sekali lagi, tak setuju lagi. JS-SEZ pun tak setuju. Cuma bila sudah lulus semua itu, semua orang akan tersenyum.
+
+Jadi ini antara cabaran yang menteri-menteri baru, timbalan menteri semua ini akan lalui. Timbalan menteri mungkin bebannya tak sebanyak menteri yang terpaksa hadapi itu. Jadi in that situation, dalam environment begitu, buat apa nak susah-susah? Pergi mesyuarat, "ya Dato' Sri Anwar, you are the best in the world," balik. Lepas itu pergi cuti, main golf, pergi majlis rasmi, pergi mesyuarat — habislah dua tahun. So, the environment itself, saya rasa tidak begitu conducive untuk mana-mana ahli politik atau profesional yang masuk dalam kerajaan dan cuba menukar keadaan. It is built for business as usual. Understand, baby? Jadi pesanan kepada mereka — good luck.
+
+**Farhan:** Baiklah, kita boleh ikut keseluruhannya. Kita pergi ke isu keras yang kedua, YB — Bersatu, Muhyiddin, gencatan senjata. Nasib baik PKR-PH bergolak. YB, saya nak tanya satu sahaja. Hari itu, dalam tiga-empat episod podcast yang lepas, kita pernah ulas bahawa Bersatu ini sebenarnya sudah ada apa kita panggil sebagai "ceasefire" — tapi mana ada ceasefire, ada kejatuhan Tan Sri Muhyiddin dalam meeting, dan tiba-tiba benda itu macam semakin worsening. Jadi, mungkin dari your observation, ada yang kami tak nampak — apa yang YB tengok?
+
+**Rafizi Ramli:** Saya kata ia tidak boleh diulang [pulih], kerana ini adalah pertempuran yang berkaitan dengan kematian — to the death. Factional fight to the death. Ia sudah sampai ke peringkat bahawa hanya akan ada satu pemenang. Kerana, contohnya, kalau Tan Sri Muhyiddin kekal dan dia telah buat keputusan untuk bersama-sama dengan Azmin — kalau dia kekal, maksudnya Azmin menang — maka kumpulan Dato' Sri Hamzah memang out, terus out. Dan bagi parti seperti Bersatu, sejarahnya tidak panjang macam PKR. Bersatu ditubuhkan, dua tahun kemudian terus jadi kerajaan — jadi dia tidak cukup masa untuk melalui baptism of fire bagi membina idealisme yang lebih cekal seperti PKR. Kalau macam PKR dulu, awal-awal, soal kerusi, soal calon, soal jawatan, untuk tempoh sepuluh tahun pertama sebenarnya tidak ada isu langsung, sebab memang tidak ada kerajaan pun — memang bertanding, menang, satu sahaja. Hanya selepas 2008 baru ia jadi isu yang agak besar. Tapi keadaan itu sangat berbeza dengan Bersatu — mereka telah merasa kuasa seawal mereka membentuk parti. Jadi ini adalah pertembungan sampai ke mati, kerana, pada pemerhatian saya, menjelang PRU akan datang...
+
+Saya faham perasaan orang yang bersama-sama dengan Dato' Sri Hamzah. Kalau mereka tidak berjaya menukar, memujuk, atau memaksa Tan Sri Muhyiddin untuk berundur, maka sebahagian besar calon-calon atau orang-orang Dato' Sri Hamzah tidak akan jadi calon — habislah. Satu, kalau menang, mereka tak ada tempat, lagi teruk; dan kalau kalah, lagilah — tak ada gaji, tak ada habuan. Itu di peringkat Dato' Sri Hamzah. Di peringkat Azmin pula, dia lagi-lagi pendatang baru dalam Bersatu, dan dia setiausaha agung yang dilantik. Contohnya, kalau Tan Sri Muhyiddin bersetuju untuk ada pelan peralihan dan Dato' Sri Hamzah mengambil alih, maka dia tidak ada tempat langsung — dia akan hilang jawatan sebagai setiausaha agung, dan dia tidak ramai orang sangat dalam Bersatu, jadi lagi senang untuk "dipupuskan".
+
+Jadi ia sudah sampai ke peringkat itu, dan serangan demi serangan adalah sangat personal. Contohnya, kepada Dato' Sri Azmin, serangannya ialah mengenai video kabur — PKR pun tak segan menggunakannya. Tapi yang paling kuat memainkan serangan pasal video kabur ini ialah daripada geng Bersatu sendiri. Jadi perkara itu sangat personal, dan ini akan sembuh. Kita pun pernah melaluinya dalam PKR dulu — bila ada pertembungan ideologi, ia bermula selepas 2008, kerana bila sudah dapat tempat kuasa, tiba-tiba kumpulan yang masa itu orang panggil "katel" tiba-tiba jadi kuat dan ramai — dan kebanyakan mereka muncul daripada UMNO sebelum ini, mengaku, "saya dulu reformist," tapi tak pernah ada, tiba-tiba ada. Sebabnya ialah cara itu adalah cara UMNO — biar orang lain di depan take all the bullets, kamulah yang pergi berceramah, yang berkempen, tak apa; kami duduk belakang senyap-senyap mengawal parti, jadi ketua cabang, supaya bila menang, kami semua dapat jawatan kerajaan.
+
+Jadi kita sudah melalui proses itu, dan ia tidak akan sembuh — sebab itulah PKR berantakan daripada satu pemilihan ke satu pemilihan. Cuma PKR sedikit berbeza kerana kebanyakan yang ada, yang asal ini, politik bukan kerjaya mereka. Jadi lebih mudah untuk kita walk out atau untuk kita tarik handbrake — "kamu nak sangat, silalah." Itulah yang berlaku dalam PKR sekarang — good luck to you, I've done my job, I've achieved some of my objectives, then I'm more than happy to move on. Tapi dalam Bersatu, keadaan ini tidak macam itu — sebahagian besar mereka adalah ahli politik yang memang itu kerjaya mereka.
+
+Dan itulah juga yang akan menyebabkan akhirnya perkara ini ada limpahan kepada PN. Pada masa yang sama, contohnya, serangan terbaru Tun Mahathir kepada Tan Sri Muhyiddin — itu tuduhan yang sangat berat, menuduh Tan Sri Muhyiddin mengambil duit dan sebagainya. Jadi itu juga bayangan bahawa pertempuran dalaman ini tidak pernah habis — ia akan menjelma dalam beberapa bentuk, kadang-kadang melalui Tun Mahathir. Untuk rakyat di luar, mungkin kita tidak ambil peduli sangat, kerana orang selalunya tumpukan perhatian kepada rombakan kabinet kerajaan sedia ada. Tapi untuk orang di dalam Bersatu, perkara-perkara ini — serangan Tun Mahathir, maksudnya Tun Mahathir pun memang tidak bersetuju dengan Tan Sri Muhyiddin — itu penting. Dan daripada maklumat yang saya dapat, Tun Mahathir memang lebih cenderung kepada Dato' Sri Hamzah, sebab Dato' Sri Hamzah mendapat sokongan daripada PAS. Bagi Tun Mahathir, tumpuannya ialah untuk menjatuhkan kerajaan sahaja — dia tak peduli pun siapa. Sekiranya Ramanan boleh jatuhkan kerajaan, dia akan sokong Ramanan juga — dia tak peduli. Ada 80 kerusi, kan?
+
+Jadi dalam keadaan itu, daripada pengetahuan yang saya ada, sokongan Tun Mahathir adalah kepada Dato' Sri Hamzah, kerana PAS bersama-sama Dato' Sri Hamzah, dan Tan Sri Muhyiddin memang agak isolated. Sebab itu, walaupun ada perjanjian damai, ada saja dari satu masa ke satu masa sekumpulan Ketua Bahagian yang meminta Tan Sri Muhyiddin berundur. Dan saya rasa perkara ini akan berterusan, dan PAS mencucuk dari luar. Saya rasa kalau ini berterusan, pada satu masa PAS akan kata, "tak apalah Bersatu, kami ada calon Perdana Menteri kami sendiri." Dan kalau ini berterusan — dan ia akan berterusan — ia akan melemahkan Bersatu dalam rundingan kerusi dengan PAS nanti. Kerana PAS ini, daripada pengalaman saya berunding kerusi dengannya sebelum ini, tak ada sopan santun bila nak kerusi. Dia akan cakap benda yang paling menghina sekali kepada orang yang dia runding kerusi — dia akan keluarkan cerita, "kamu bergolak, kita tak percaya pada itu ini."
+
+Jadi nasib baiknya, PKR-PH bergolak. Sebab kalau aman, PKR-PH tak bergolak, semua aman, Sabah menang bergaya, maka tumpuan rakyat akan tertuju kepada Bersatu, Tan Sri Muhyiddin dan Tun M. Yang berlaku sekarang, orang Kelantan kata "bolot dalam" — dia tengok "bolot" kat dalam ini. Tapi nasib mereka baik... tapi dia ada juga masalahnya. Kerana public pressure dan being on the in the spotlight itu sebenarnya lebih baik untuk menyelesaikan masalah. Sebab kalau perkara ini hanya berlaku dan orang tak tahu sangat, dan rakyat pun tak tekan sangat, dia tidak ada urgensi untuk menyelesaikan masalah itu — dia akan berterusan, berterusan, berterusan sampai ke PRU. Tapi kalau contohnya orang mempersendakan, orang menekan, kena troll semua, maka is a natural reaction di dalam kepimpinan Bersatu untuk cuba menyelesaikan dan mencari formula yang boleh diterima oleh semua pihak. But I don't see that's coming — mungkin semuanya Allah dah tetapkan. Maksudnya, mereka ini tak cukup pressure untuk selesaikan masalah mereka buat masa sekarang, kerana tumpuan rakyat itu tertuju kepada kelemahan PH dan PKR. Jadi rakyat pun tak ambil peduli sangat apa yang berlaku di dalam Bersatu, sedangkan krisis dalam Bersatu itu sebenarnya serius — ini bukan krisis yang kecil, dan jalan keluarnya sangat-sangat sukar. There's no turning back. Saya bagi kedua-dua pihak dari luar, kerana ini soal existential crisis — pertempuran pada tahap existential antara kumpulan Dato' Sri Hamzah melawan kumpulan Dato' Sri Azmin yang bergantung kepada Tan Sri Muhyiddin.
+
+**Farhan:** Since we're on the topic of pembangkang, di mata orang ramai, perhaps parti yang paling stable at the moment masih PAS — sebab di ruang awam, dikatakan tak ada pergaduhan dalam, tak ada kontroversi sangat. Adakah ini satu signal yang teruk untuk PH, memandangkan PH pun bergolak?
+
+**Rafizi Ramli:** Signal macam mana? Tanyalah dalam Bahasa Melayu.
+
+**Farhan:** Sekejap, saya fikir macam mana nak tanya soalan ini... translate dalam Bahasa Melayu, tanya Cik ChatGPT sekejap. Kira, orang ramai akan pandang PAS ini sebagai parti yang paling stable, lah.
+
+**Rafizi Ramli:** Ya, itu given lah. Cuma soalannya, sama ada sesebuah parti itu boleh menang dan membentuk kerajaan dengan bergantung semata-mata kepada kebencian pengundi terhadap parti-parti lain, tanpa menawarkan sesuatu yang wow. Saya tak yakin sebenarnya. Itulah kedudukan PAS sekarang — sebab itu PAS macam diam, dia tak buat apa-apa. Sebab sejarah adalah pengajar terbaik. Saya selalu baca komen-komen orang yang maki hamun semua ini, daripada "Walajib" ke "Walauun" ke sekarang "Walanon" — macam-macam dia kata. Netizen kita ni have a very short memory, dan mereka tidak mengambil pandangan yang panjang. Kalau kita lihat daripada garis masa yang lebih panjang, sebenarnya banyak perkara yang berlaku sekarang telah pun muncul in different shapes and sizes in the past.
+
+Contohnya, soal adakah kalau sesebuah parti nampak tenang, dia boleh menang dalam pilihan raya kerana parti-parti lain nampak lebih bergolak. Ini yang berlaku pada 2014–2015 dalam UMNO dahulu. Oleh kerana pergolakan telah berlaku dalam PKR bermula dengan Kerajaan Negeri Selangor pada 2014, kemudian pada 2015 Pakatan Rakyat berpecah — ada pertembungan yang sangat personal antara DAP dengan PAS — sehinggalah tertubuhnya Pakatan Harapan. Masa itulah, saya ingat, pimpinan UMNO termasuk Tan Sri Muhyiddin dan Tun Mahathir merasakan bahawa oleh kerana pembangkang sudah sangat lemah dan rakyat pun sudah menyampah — pembangkang bergaduh sesama sendiri, Anwar Ibrahim di dalam penjara, yang tinggal di luar pula berpecah kem — inilah yang memberi mereka keyakinan bahawa mereka boleh menggoncang UMNO dari dalam untuk mencabar Dato' Sri Najib ketika itu.
+
+Dato' Seri Najib pula merasakan, "I will fight them," kerana there is no way kita akan hilang undi disebabkan Pakatan Harapan terlalu lemah, dan dengan three-corner fight, mustahil dia akan kalah. Tetapi tiga tahun kemudian... Ahli politik ini selalunya berfikir dalam kepala mereka sendiri, tidak membaca pandangan rakyat di luar. Jadi PAS pun terkejut pada 2018. Itulah juga perkiraan PAS — mereka rasa mustahil Pakatan Harapan boleh menang dengan segala kelemahan yang ada: Tun Mahathir yang PKR sendiri tidak semestinya setuju dengannya, Azmin bergaduh dengan Rafizi, dan Anwar pula di dalam penjara. Maksudnya, rakyat benci kepada mereka semua dan mereka terlalu lemah — mustahil parti yang lemah boleh menang. Jadi perkiraan PAS masa itu ialah, tak apa, kita main pintu belakang dengan UMNO. Kita akan bantu UMNO dengan memecahkan undi tiga penjuru. Biar UMNO lawan PH lawan PAS — kalaupun PAS tak menang, UMNO akan kembali berkuasa, dan demi perpaduan Melayu dan Islam, kita akan mendapat tempat selepas itu. That's basically roughly bagaimana mereka berfikir. Tapi mereka tak baca pandangan rakyat.
+
+Dan saya sudah mula boleh nampak data-datanya begitu sekarang. Bermula tahun 2016, kita mula nampak — dari satu bulan ke satu bulan — lebih ramai pengundi merasakan bahawa, kalau dua bulan lepas dia kata dia akan undi BN, dua bulan selepas itu dia kata dia jadi pengundi atas pagar, tak pasti. We are seeing that now. Sebab — ini nak menjawab soalan yang ditanya tadi — bising tak bising, kita ni hidup dalam zaman digital. Bila zaman digital, sumber maklumat rakyat banyak. Jadi mereka membentuk persepsi dan keputusan mengenai sesuatu parti, seseorang pemimpin, sesuatu isu daripada pelbagai sumber, dan mereka tidak lagi mengikut bulat-bulat apa yang cuba disampaikan oleh sesebuah parti mengikut pandangan partisan parti itu. Yang totok memang akan ikut lah, ikut mana-mana pun, tapi pengundi atas pagar ini cepat menjadi swing voters, dan swing voters tidak semestinya mengundi semata-mata kerana mereka tak suka parti sedia ada — mereka sebenarnya mencari what is the value proposition. Dan itulah sebenarnya masalahnya kalau PAS, contohnya, berharap kekacauan di parti lain akan meletakkan mereka di depan. Saya tak rasa itu akan berlaku secara langsung, kerana sejarah telah menunjukkan bahawa pengundi menilai lebih daripada soal pergolakan politik semata-mata. Ini semua tentang masa depan — apa yang akan menjadi lebih baik pada masa akan datang, bukan sekadar "okeylah kita memang dah teruk, tak apalah, orang itu pun orang itu jugalah." So it can work, tapi it's not as powerful and as strong a motive than inspiring voters for a better future. Dan itulah kelemahan yang PAS masih ada sampai sekarang.
+
+**Host:** Baik, bercakap soal itu — mungkin kita bercakap juga tentang PRU16 seterusnya, YB. YB pun dah cakap tentang golongan yang tak akan keluar mengundi dan sebagainya. YB antara orang pertama yang bercakap tentang risiko yang akan dihadapi PH.
+
+**Rafizi Ramli:** Ramai juga yang cakap, seawal waktu pemilihan lagi.
+
+**Host:** Oh, yang mana — di China?
+
+**Rafizi Ramli:** Ya, di China dan di India.
+
+**Host:** Tapi mungkin kami nak tahu sikit — actually, what will happen next? Golongan yang tak keluar mengundi ini, apa kesannya kepada PRU16, dan mungkin ada unintended consequences?
+
+**Rafizi Ramli:** Wah, mentang-mentang duduk kat Kementerian Ekonomi sekarang, pun dah guna "unintended consequences," okay. Saya baru dapat data yang terkini ni. Ada beberapa pola utama yang kelihatan.
+
+Kenapa kita perlukan data dan kenapa analisis-analisis ini penting? Kerana pada pandangan saya, ahli politik, parti politik dan pemimpin tidak boleh reaktif — tidak boleh reactionary. Kita mesti boleh membaca lebih awal, kemudian menyesuaikan strategi dan komunikasi kita berdasarkan pandangan dan perasaan orang ramai. Itu yang saya sebut sebagai *resonance*. Contohnya, kalau kita ulang-ulang cakap benda yang sama kerana kita yakin itu yang terbaik, tapi ia tak ada resonance dengan rakyat, kita sebenarnya membazir masa. Ini juga cabaran Dato' Sri Anwar sekarang — apabila dia jadi Perdana Menteri, dia masih lagi bercakap seolah-olah dia ketua pembangkang, masih bercakap soal dia kena pukul, kena penjara dan sebagainya. Rakyat akan kata, "Kami faham, sebab itulah kami jadikan kamu Perdana Menteri — now you are into a new phase." Itulah yang berlaku apabila kita tidak membaca resonance rakyat. Soal "sakau" dan sebagainya, bila dah jadi kerajaan, sudah tak ada resonance dengan rakyat.
+
+Data terbaru ini sangat menarik bagi saya. Saya sudah sebut perkara ini secara dalaman berbulan-bulan, tapi biasanya kawan-kawan — termasuk kawan-kawan rapat saya dalam politik — tak percaya. "Masuk kanan, keluar kiri," kata mereka. Tapi bila apa yang berlaku di Sabah terjadi, barulah mereka datang jumpa saya. Sebab tanda-tanda yang kami dapat daripada data terkini ini sebenarnya sudah mula kelihatan simptomnya 5–6 bulan yang lalu.
+
+Tanda pertama ialah lebih ramai pengundi merasakan semua parti ini sama sahaja — "tak boleh pakai" kedua-duanya. Jadi pola paling dominan di kalangan pengundi sekarang ialah *disillusionment*. Kumpulan yang kami panggil *disenfranchised voters* ini semakin besar dari bulan ke bulan, dan saya rasa untuk bulan-bulan akan datang perkara ini akan bergerak lebih pantas, terutamanya dengan pengundi Cina. Sebelum PRN Sabah lagi, kita sudah mula nampak perkara ini di kalangan pengundi Cina — mereka rasa semua parti sama sahaja. Mungkin dulu ia dianggap pandangan peribadi sahaja, tidak dikongsi orang lain. Tapi apa yang berlaku di Sabah akan memperbesarkan pandangan bahawa semua parti politik ini sama.
+
+Saya tak nak kongsi data satu-satu — buat apa, orang pun tak percaya pun pada mulanya. Tapi satu kepuasan yang saya dapat sebagai ahli politik ialah, dulu saya kena maki hamun kerana dikatakan mengarut, tapi enam bulan kemudian benda itu jadi juga.
+
+Satu perkara yang jelas dengan data terkini bulan ini ialah kedudukannya agak marginal, lebih kurang 52–48. 52% pengundi merasakan mereka tidak positif terhadap mana-mana parti yang ada. Dan ini konsisten merentasi kumpulan — pengundi Melayu, Cina, India — semuanya menunjukkan corak yang sama. Daripada 52% itu, ada tiga kategori dominan: pertama, yang kata semua parti sama sahaja, tiada mood untuk menyokong mana-mana; kedua, yang kata mereka benci semua parti yang ada dan tidak rasa positif langsung; dan ketiga, yang kata kalau ada pilihan lain, mereka akan ambil pilihan lain kerana memang tidak positif dengan mana-mana parti sedia ada.
+
+Sebelum PRN Sabah, kalau saya sebut perkara ini, orang kata saya sahaja mengarang cerita. Tapi PRN Sabah membuktikan itulah yang sebenarnya berlaku, terutamanya dengan pengundi Cina. Mereka melalui satu proses — macam orang putus cinta, ada siklusnya. Fasa pertama, kecewa — rasa tidak senang dengan kenyataan kerajaan atau rasa tidak dibela. Fasa kedua, benci — menyampah, tak nak tengok semua. Fasa ketiga, berubah — kalau ada pilihan lain, mereka akan undi pilihan itu; kalau tidak, mereka bertukar daripada menyokong kepada menghentam kerajaan setiap hari. Bibit-bibit ini, kalau kita tengok di media sosial, sudah pun ada.
+
+Jadi saya rasa, kalau kerajaan atau mana-mana parti politik — PH, BN, atau PN — tidak mengambil tindakan segera, fenomena ini akan berterusan. Yang kita tidak pasti ialah how fast it is, dan how severe the swing is. Kalau sekarang 52–48, dengan 48% sahaja kata mereka positif dengan PH, yang kita tak tahu dalam tempoh 5–6 bulan akan datang ialah how quick that 48 becomes 30, atau 48 becomes 40 — ataupun if they can reverse it, 48 tiba-tiba naik balik. Itu sebabnya saya kata tidak mudah untuk mana-mana parti menangani fenomena ini, kerana ia tidak boleh ditangani dengan negativity — mesti dengan positive messaging, mesti forward-looking. Saya rasa semua parti sekarang masih ada masalah dalaman, atau dalam kes PAS, memang tidak ada idea langsung — tiada *growth mindset*, dan bila mereka bersuara, mereka pilih isu-isu kecil sahaja. Jadi dalam keadaan sekarang, menarik untuk melihat bagaimana keadaan ini dalam tempoh 5–6 bulan akan datang menjelang PRU akan datang.
+
+Dan yang uniknya, perkara yang sedang berlaku dalam kalangan pengundi kita ini sebenarnya sedang berlaku di seluruh dunia — it's not unique to Malaysia. Di UK, dalam poll terbaru dua minggu lepas, oleh kerana UK juga menggunakan sistem Westminster, *first past the post*, kalau ada swing 5% sokongan kepada Reform Party UK, Nigel Farage, mereka akan dapat *super majority* — lebih kurang 460 kerusi dalam pilihan raya akan datang. Ini parti yang empat tahun lepas tidak ada seorang pun ahli parlimen; ahli parlimen pertama mereka baru muncul pada pilihan raya umum sebelum yang terakhir. Dia mula berkempen semata-mata atas dasar Brexit, menyokong Brexit — itu menarik pengundi konservatif. Kalau ada swing daripada Labour dan Conservative kepada Reform UK, 5% sahaja akan memberi mereka *super majority*.
+
+Pada masa yang sama, at the other end of the spectrum, ada Green Party. Masa saya di UK dulu — sudah lama, lebih kurang 30 tahun — orang gelak sebut Green Party, "mana ada orang sokong, tak pernah menang satu kerusi pun." Tapi sekarang mereka jadi relevan, mengambil posisi lebih *left wing* daripada Labour. Jadi kita ada tiga parti tradisi di UK: Conservative, parti sayap kanan; Labour, *center-left* — walaupun ada yang kata sekarang sudah jadi *center-right*, bergantung siapa ditanya; dan Liberal Democrat, juga *central-left*. Untuk 100 tahun yang lalu, yang bertukar-tukar kuasa hanyalah Labour atau Tory, dan Lib Dem biasanya jadi *the third party*.
+
+Sekarang, oleh kerana fenomena ini berlaku, pengundi UK menjauhkan diri daripada ketiga-tiga parti tersebut — sama macam kita. Yang berhaluan kanan, anti-imigresen, sedikit perkauman dan anti-Islam, mereka swing kepada Reform Party; yang *center-left*, lebih multirasial, mahu menjaga golongan minoriti, mereka rasa Green Party lebih ke hadapan dan lebih vokal, jadi mereka swing ke kiri kepada Green Party. Kalau ini berterusan, dalam pilihan raya umum akan datang, Labour, Tory dan Lib Dem dirasakan akan *kicked out altogether*, kerana Reform Party bukan sahaja akan menang, malah menang dengan *super majority* — hanya dengan swing 5%, sebab dalam sistem *first past the post*, satu kerusi ada 7–8 parti bertanding, dan untuk menang hanya perlu 28–30 peratus sahaja. Sama juga seperti yang berlaku di beberapa siri pilihan raya tempatan di UK dalam setahun lepas — Labour dan Tory mengalami kekalahan demi kekalahan kepada Reform Party, dan satu persatu bandar di UK jatuh ke tangan mereka. Jadi ini bukan sesuatu yang unik kepada Malaysia sahaja — ia berlaku di mana-mana di dunia.
+
+Masalahnya, ahli politik dan pimpinan tidak suka dengan perkara-perkara begini — bagi mereka, "kau lukis-lukis je lah, rumit-rumit." Dalam PKR sendiri pun, di kalangan pimpinan kanan, ada yang bercakap begitu di belakang tapi tidak berani cakap depan saya. Kalau kita tidak membaca dan tidak mengambil perhatian pada semua ini, kita akan jadi mangsa tsunami. Perkara yang sama sudah berlaku di Itali — sebab itu Perdana Menteri mereka, Giorgia Meloni, parti dia yang asalnya kecil tiba-tiba mengalahkan semua parti lain. Kemungkinan besar ia akan berlaku juga di Perancis, dan sedang berlaku — walaupun pada kadar yang lebih perlahan — di Jerman. Jadi ini fenomena dunia. Maksudnya, dengan dunia digital dan media sosial, dengan maklumat yang cepat dan pendek, ada kecenderungan pengundi untuk menolak terus sistem sedia ada yang dirasakan tidak lagi boleh membela mereka. Bila sudah sampai ke peringkat "semua parti ini sama, bezanya cuma tukar Anwar Ibrahim ke, Muhyiddin Yassin ke, Hadi Awang ke, Sanusi ke" — kerana parti-parti mereka dilihat sebahagian daripada sistem lama — mereka cenderung untuk membuang terus sistem itu. Sebab itulah PRU akan datang sangat menarik. InsyaAllah, kalau saya tidak bertanding pun, saya rasa komentar saya akan lebih bermakna daripada komentar penganalisis-penganalisis yang keluar di Awani.
+
+Sebenarnya kalau kita tengok keadaan sekarang, PRU akan datang ini sangat sukar dibaca semata-mata daripada kefahaman tradisi kita tentang politik. Kita belum lagi nampak parti alternatif kecil macam di UK...
+
+**Host:** I mean, kita dah ada beberapa iterasi parti-parti baru lah, dengan parti yang tangan tu.
+
+**Rafizi Ramli:** PBM — Parti...
+
+**Host:** Parti Bangsa Malaysia. Dan kita ada — teknikalnya ada Pejuang, ada Muda, yang dikatakan patutnya jadi *third force* pada satu masa dahulu. Tetapi masih tak nampak jalan di mana *third force* ini boleh masuk dan *take over*.
+
+**Rafizi Ramli:** Orang kata benda yang sama tentang Reform Party — orang gelak je kat Nigel Farage dulu. Sebab itu saya kata, masalah orang yang berada di koridor kuasa ini, kita semua duduk dalam *bubble*. Putrajaya sendiri memang *bubble* — bandar yang dibina untuk kuasa, ia tidak melambangkan keadaan sebenar rakyat di luar. Semua bersih, semua cantik, jalan-jalan pun lebar sampai boleh letak dua biji lori. Mana ada jalan macam itu di Malaysia? Kat Putrajaya sahaja. So it's a bubble. Bila kita dalam *bubble*, kita tidak boleh membaca pandangan rakyat biasa di luar — sama seperti Reform Party atau parti-parti lain di seluruh dunia.
+
+Lihat sahaja bagaimana Zelensky boleh bertukar daripada seorang komedian kepada Presiden Ukraine. Sebab Ukraine dulu hanya ada dua kumpulan — pro-Rusia dan anti-Rusia, bertukar-tukar antara dua sahaja. Kemudian seorang komedian datang dan kata, "persetankan semua ini," dan dia menang. Jadi pengalaman di negara-negara lain semuanya bermula dengan pandangan, "ah, semua parti ini parti nyamuk, semua tak boleh pakai" — kecuali kita boleh membaca pandangan rakyat. So it's an open field. Lepas ini saya rasa PSM pun akan bersemangat — dulu PSM, Muda, semua...
+
+**Host:** So nak *clarify* — 52% populasi sekarang yang duduk dalam kategori "saya fed up dengan semua, saya tak suka semua" — adakah ini bermaksud mereka mencari *third force*?
+
+**Rafizi Ramli:** Dia tak kata *third force*. Soalan itu tidak tanya soal *third force*. Ini pun masalah orang-orang seperti kau — kita frame pandangan rakyat itu daripada pandangan kita sendiri. Kita yang melihat parti lain sebagai *third force*; rakyat tak nampak macam itu. Mereka kira siapa yang mereka suka. Entah-entah lawak, senario mana-mana parti baru terus jadi PM — kita tak tahu. Sebab "third force" ini frame yang kita sendiri buat.
+
+Sebenarnya, daripada enam bulan lepas hingga sekarang, fenomena paling dominan yang saya lihat dari segi pandangan rakyat tentang politik dan pilihan raya di Malaysia ialah pertumbuhan *disenfranchised voters* ini. Saya rasa enam bulan lepas ia tidak sampai — mungkin hanya dalam lingkungan rendah 30-an peratus. Dalam tempoh enam bulan, ia sudah naik kepada 52%. Yang saya tak tahu ialah sama ada ia akan terus berkembang, atau ia hanya *spike* dan kemudian turun semula — sebab politik ini dinamik, bergantung kepada apa yang kerajaan buat, apa yang PH buat, apa yang PN buat. Tapi buat masa sekarang, dengan margin lebih kurang 4%, plurality pengundi di Malaysia sebenarnya kata mereka tidak berminat dengan mana-mana parti yang ada — merujuk kepada PH, BN, dan PN.
+
+Sebab itu saya gelak sahaja bila "Walaun" duduk maki hamun kerana rasa dia kuat — that's not what the public thinks. Sama juga dengan yang "ceplos-ceplos" tu, "oh ya, ya, ya" — that's not it juga. BN sikit lebih cerdik — mereka duduk diam sahaja; "Walajib" sahaja yang lebih bising. Kami *chat* setiap minggu — kami ada cara untuk *distill* pandangan dan komen di media sosial, kemudian dipetakan dengan *nationwide survey*. Yang menariknya, kedua-dua "Walaun" dan PN serta PH merasakan mereka pasti menang lepas ini, rakyat bersama mereka. PH pula merasakan mustahil ada orang boleh gantikan Dato' Sri Anwar, dia akan "membawa kita ke bulan," contohnya. So it's actually that's not what the public thinks.
+
+Sebab itu saya berani mengulas panjang lebar minggu ini — sebab sebelum PRN Sabah, bila saya sebut, semua orang kata saya gila, mengarut, semua tak suka. Kenapa saya sebut perkara-perkara ini satu-satu dalam podcast? Sebab itu yang sebenarnya mendapat *traction* — bukan kerana apa yang saya sebut itu sesuatu yang *voila*, satu *eureka moment* kepada rakyat, tetapi kerana itulah sebenarnya yang rakyat rasa dari awal lagi, sudah berbulan-bulan. Bila kita ulas soal Azam Baki, SPRM, itu memang yang mereka rasa. Bila kita ulas soal "ceplos," soal PKR, soal Eroiza, soal Fuziah — itu yang orang biasa rasa. Sebab itu, ada sains di sebalik podcast ini — isu yang kita ketengahkan dan ulas sebahagiannya adalah untuk menguji *traction*. Kalau ia mendapat resonance, maka kita tahu itu betul, satu-satu.
+
+Jadi kalau CEO atau JCorp nak belajar, boleh — tapi bayarlah, tak payah pergi beli *viewership* atau beli *views*, atau ada "PKR cabang Vietnam" — itu memalukan diri sendiri sahaja. It's a science. Dan saya rasa pada ketika ini, medan sebenarnya terbuka luas. Kita boleh buka *political consultancy* lepas ini.
+
+Kita ada satu lagi topik untuk dua jam ini — kalau minggu lepas kita bincang soal merajuk, minggu ini pula soal idealisme dan pragmatisme. Ini bagus juga, ia datang terus selepas topik tadi. Ini juga yang saya gelak dan senyum tengok komen-komen "ceplos" — sebab mereka duduk dalam dunia mereka sendiri, dan mereka menilai hidup berdasarkan pangkat dan kedudukan. Cara mereka mengukur kejayaan ialah sama ada seseorang itu jadi menteri atau tidak, buat itu atau tidak. Sebenarnya rakyat tidak berfikir begitu — sebab tidak ada kesan kepada hidup mereka sama ada seseorang jadi menteri atau timbalan menteri.
+
+Konsep menteri, pembesar negara, timbalan menteri sebagai jawatan yang dihormati — ini sudah ketinggalan zaman. Jawatan-jawatan ini sekarang adalah tempat untuk kena *troll*. Mereka lupa itu. Sejak generasi awal 2000-an, bila mula ada media sosial — 2008, 2010 ke atas — rakyat Malaysia dapat hobi baru: mereka *troll* dan maki ahli politik. Bagaimana kau boleh *troll* dan maki ahli politik kalau kau masih anggap dia sebagai pembesar? Ia tidak lagi begitu. Dan rakyat pula tidak rugi apa-apa — mungkin dia sendiri penganggur, tapi cara dia komen, seolah-olah dia manusia paling hebat: "puas hati aku, hari ini aku maki Anwar, hari ini aku maki Mahathir." Kelakar, kan?
+
+Sebab itu, kalau orang politik masih duduk dalam *bubble* dan tidak sedar bahawa sistem nilai dalam masyarakat kita telah berubah — mereka tidak lagi melihat ahli politik atau menteri sebagai pembesar, malah ada yang benci kepada ahli politik — maka bila komen-komen "ceplos" kata, "tengok, seni politik Dato' Sri Anwar ini sangat tinggi, sebab itu dia kekal jadi Perdana Menteri," atau "dia ini tak boleh kerja dengan orang," atau "dia ini ideal sahaja, pandai berfikir sahaja, tak boleh buat kerja" — itu sebenarnya pandangan minoriti. Pandangan rakyat yang lebih dominan ialah: "Kau makan gaji dengan aku, aku ada kriteria apa yang aku mahu daripada kerajaan atau menteri atau MP aku. Aku mahu kau buat kerja ini dan cuba yang terbaik. Aku mahu kau lebih bijak daripada aku. Aku mahu kau ada passion, aku mahu kau beri kesan." Ia bukan seperti zaman dulu, di mana jadi wakil rakyat bermakna balik sebulan sekali naik kereta besar masuk kampung, dianggap hebat, atau bagi duit — sekarang bagi duit pun dia ambil, esok dia *troll* kau balik. Jadi kriteria untuk menjadi ahli politik semakin tinggi, semakin tinggi, semakin tinggi. Jadi kalau alasan atau pembelaan yang kerajaan ada semata-mata, "oh, Dato' Sri Anwar ini seorang yang banyak berjuang, sudah lama, jadi hormatilah dan sayangilah dia" — it's not gonna work.
+
+Jadi ini cabaran untuk mana-mana parti, termasuk saya — dalam keadaan *noise* yang banyak begini, bagaimana kau mentakrifkan *brand value* kau sebagai parti politik, sebagai ahli politik? Apa *value offering* kita? Sama macam Khairul Amin tadi — kalau kita dalam media digital, kita kena *test*. Orang yang faham tentang komunikasi digital tahu, ia mesti tentang *AB testing* — kau uji ini, kau uji itu. Dulu tidak begitu. Saya sendiri ada klien dalam media digital. Sebelum era media digital, semua firma pemasaran besar di dunia akan habiskan berbulan-bulan untuk membangunkan strategi, kemudian dapat satu *visual* daripada satu kempen *brand*, dibawa kepada syarikat untuk diluluskan, dan itulah yang dimainkan.
+
+Dengan dunia digital, ia sebaliknya. Anda tidak boleh letak semua telur dalam satu bakul — ia tidak akan berfungsi. Semuanya tentang arus; anda perlu menembak sebanyak mungkin arus, dan itu sebabnya ia fungsi kepada frekuensi — lebih banyak kandungan, lebih cepat sesuatu perkara sampai kepada orang. It's a *try and error* sebenarnya, tapi bukan *try and error* membuta tuli — kalau membuta tuli, jadilah macam "ceplos" Wan Fauzuddin, cukuplah dengan itu sahaja. Ada sains di sebaliknya. Anda perlu sentiasa menguji apa yang majoriti atau kumpulan besar rakyat rasakan, untuk melihat *niche* yang sesuai.
+
+Dan jangan terkejut bila kriteria daripada rakyat semakin banyak. Kalau rakyat perlu memilih antara pragmatisme dengan idealisme, kau boleh terus tahu siapa akan pilih apa. Yang pilih pragmatisme — yang maksudnya "kau pihak mana pun, bertukar, hari ini cakap lain, esok cakap lain, hari ini bergaduh, esok bersalam, yang penting apa pun pimpinan buat, bagus" — ini penyokong tegar parti. Pengundi atas pagar, oleh kerana perkara ini tidak menjejaskan hidup mereka, mereka tidak peduli siapa jadi kerajaan. Penyokong tegar parti pula dapat jawatan — sebab itu pragmatisme penting bagi mereka, kalau tidak, "siapa nak bayar aku bil bulan ini, kereta baru yang aku beli ini?"
+
+Jadi, pengundi atas pagar — oleh kerana tidak ada kesan langsung kepada hidup mereka — lebih mencari idealisme, lebih mencari konsistensi, lebih mencari sikap *calling a spade a spade*. Sebab itu lebih *relate* dengan mereka sebagai manusia biasa. Mereka tidak faham bagaimana seseorang boleh "telan" sesuatu — dulu cakap lain, sekarang cakap lain — sebab mereka tidak berada dalam budaya politik itu, mereka tidak tahu bahawa orang politik yang "cap lang" begini dapat sesuatu daripadanya, sedangkan orang biasa tidak dapat apa-apa. Jadi ahli politik zaman sekarang mesti cuba berfikir sedekat mungkin dengan rakyat biasa. Dan rakyat biasa sebenarnya tidak suka dengan permainan politik "kona kiri-kanan" ini — contohnya, orang parti boleh cakap apa sahaja tentang pemilihan PKR, tapi logik itu tidak masuk kepada orang biasa. Itulah kegagalan dan cabaran besar kepada mana-mana parti politik yang ada sekarang di Malaysia.
+
+Dalam keadaan setiap enam bulan jumlah pengundi yang rasa "aku tak suka semua yang ada ini" semakin besar, kalau contohnya PKR — atau PH secara umum — semakin terpisah daripada nadi rakyat, sebahagiannya disebabkan oleh "ceplos-ceplos" ini juga, kerana mereka duduk mengulang-ulang dan cuba membentuk *frame* pemikiran untuk menerangkan perkara-perkara yang berlaku mengikut cara fikir mereka sendiri — "kita kena pragmatik, begini, begitu" — itu akan semakin menjarakkan rakyat daripada parti-parti politik.
+
+Jadi, apa cabaran yang perlu ditangani terutamanya oleh PKR? Soalan ini belum dijawab oleh PKR — apa yang seterusnya selepas Anwar Ibrahim? Oleh kerana keseluruhan strategi PKR dan Dato' Sri Anwar berkisar pada dirinya sendiri — itu yang saya sebut sebelum ini sebagai "come, walk me second term" — rakyat biasa tidak berpandangan begitu. Mereka mahu tengok *longevity* dan *continuity*. Jadi cabaran kepada penyokong-penyokong PH dan PKR sekarang ialah: bagaimana anda memastikan, kalau prestasi kerajaan berterusan seperti sekarang dan tidak meningkat secara mendadak, sedangkan situasinya lebih ramai pengundi rasa makin jauh dan tak suka mana-mana parti — bagaimana anda memastikan pengundi pada masa depan akan tetap memberi peluang kepada parti-parti berbilang kaum dan progresif? Sebab itulah yang sedang berlaku di negara-negara lain sekarang — mereka akan kata, "once beaten twice shy, kami dah cuba dulu, itu yang kami dapat."
+
+Jadi saya harap Dato' Sri Anwar dengar ini. Mungkin pandangan saya yang agak berbeza dengan Dato' Sri Anwar dan orang di sekelilingnya ialah begini: ya, saya ingin dia kembali untuk penggal kedua, tapi bukan atas alasan kita tak nak Hadi Awang jadi menteri, atau kita tak nak Azmin Ali. Kalau dia kembali sebagai Perdana Menteri untuk penggal kedua, ia patut kerana dia akan berlaku adil kepada masa depan negara ini. Sebab itu, apa jua yang dia buat antara sekarang hingga dua tahun lagi, bagi saya, kesilapan paling besar yang Dato' Sri Anwar boleh buat dalam tempoh dua tahun akan datang ialah, kalau dalam usaha untuk kembali menjadi Perdana Menteri, dia mengorbankan masa depan politik progresif negara ini. Contohnya, dia mungkin masih boleh kembali jadi Perdana Menteri, tapi kalau dalam konfigurasi kerajaan yang baru itu ada "segala jenis benda" di dalamnya, maka pengundi-pengundi yang selama berpuluh tahun mempertahankan PH akan kata, "tak apalah, aku dah hilang keyakinan total dengan apa yang kau buat — ikut sukalah siapa nak jadi apa." Jadi selepas Dato' Sri Anwar Ibrahim, harapan untuk kita melihat parti pelbagai kaum dan progresif mentadbir negara mungkin sangat rendah.
+
+Jadi itu antara perkara yang saya harap PMO, Dato' Sri Anwar, dan barisan pimpinan dalam PH faham — bahawa dalam situasi sekarang, kalau ambil jalan pragmatik semata-mata atas dasar "seni politik kena bersilat, untuk saya kekal jadi Perdana Menteri, untuk kerajaan bertahan," you may win the battle, the next battle, but we will lose the war. Dan itu kebimbangan utama saya.
+
+**Host:** Tapi bila YB cakap begitu, saya rasa parti-parti berhaluan progresif ini akan menghadapi masa yang sukar pada masa akan datang — bagi saya...
+
+**Rafizi Ramli:** Aku tak kata macam itu. Kalau lah kita dah kalah — kalau dah kalah, pada generasi kami itu sangat malang lah, good luck to you lah, not my problem. Well, kalau dah kalah, maksudnya kenapa pula kau rasa generasi kau — you cannot speak on behalf of your generation. Kau je yang fikir macam itu. I mean, orang lain yang muda-muda semua nak... I guess...
+
+**Host:** ...we have to go satu lagi cycle of... ya, menunggu satu lagi *cycle*.
+
+**Rafizi Ramli:** Wah, wuh... Definitely, I think it will take a lot more than one or two cycles. Sebab itu, seperti yang kita selalu bincang sebelum ini — dalam sejarah dunia, parti-parti yang naik atas dasar reformasi dan berjaya menjadi kerajaan, tidak banyak yang berjaya bertahan. Selepas satu penggal kalah, kebanyakannya tidak pernah kembali lagi. Itulah kebimbangan utama kita — I'm concerned about the future.
+
+Kalau ada orang kata, "kamu ni ideal sangatlah, kamu ni semua ni" — well, idealisme itu mungkin satu-satunya senjata yang kita ada untuk menjamin masa depan politik progresif dan berbilang kaum di negara ini. Sebab Malaysia akan terus menjadi negara yang majoriti penduduknya beralih kepada Bumiputera, Melayu, dari satu dekad ke satu dekad. Jadi kalau pengalaman rakyat biasa dengan PH ini — generasi kau rasa pahit, "itu semua yang mereka janji, tapi sama saja, jadi apa gunanya?" — bila persoalan "apa gunanya" ini menjadi dominan, maka yang akan mengambil alih ialah parti-parti sayap kanan, mungkin parti-parti berbau perkauman pada masa akan datang.
+
+Jadi bila kita mengkritik, bila kita menegur, ia tidak ada kaitan dengan jawatan atau menteri. Saya sudah banyak kali kata — kalau kita tidak berani menegur, sebenarnya tidak berbaloi jadi menteri. Gaji sikit, lebih baik jadi CEO syarikat besar — CEO GLC pun dapat RM200,000–RM300,000 sebulan. Buat apa jadi menteri dengan gaji RM35,000, kena tanggung segala jenis benda pula — kucing tersangkut di pokok pun orang telefon kau. Jadi tidak berbaloi. Satu-satunya makna kepada jawatan itu ialah kalau kita boleh menyumbang untuk memastikan pertandingan politik di Malaysia ini kekal kompetitif demi masa depan. Dan itulah yang dipertaruhkan sekarang bila orang bercakap soal idealisme lawan pragmatisme — kerana pragmatisme, seperti yang ramai rasa tentang kerajaan sekarang, walaupun kerajaan PH, oleh kerana terlalu mahu jadi pragmatik, kesimpulan sahaja yang pengundi akan buat ialah, "sebenarnya kau semua sama sahaja." Idealisme itulah yang sangat penting untuk membezakan parti-parti yang ada, dalam keadaan rakyat rasa kamu semua sama sahaja.
+
+**Host:** Baiklah — dua jam lima belas minit, sangat *deep*!
+
+**Rafizi Ramli:** Sangat *deep*, ya lah, kita nak panjangkan sikit supaya orang tengok lebih lama. Okay, baby, kita ke segmen seterusnya. Kita ke "Fuyo" — akhirnya kembali balik. "Fuyo" ini buat aku sengal, korang buat aku penat! Silakan, pasal apa? Silakan komen korang. Baik, Saudara Farhan, mari kita beraksi bersama-sama.
+
+Boleh, boleh — menang juara Junior Nobel! Kenapa pula komennya tak ada di sini? Dia ahli parlimen Teluk Intan sebab tak dijemput. Oh, tak dijemput. Jadi, penyelidikan yang dia buat — Belvinda — dia ada dua, dua kali menang.
+
+**Host:** Boleh dikatakan sejarah — menang dua kali.
+
+**Rafizi Ramli:** Ya.
+
+**Host:** Yang pertama berkaitan bio... maaf, *reabsorbable stent*.
+
+**Rafizi Ramli:** *Stent, stent* — something that you...
+
+**Host:** ...can relate to.
+
+**Rafizi Ramli:** I have a personal interest in it. *Absorbable* maksudnya — bukankah bahaya, nanti *stent* itu hilang?
+
+**Host:** Ya, yes. So, over time dia akan hilang. Dia akan hilang. So...
+
+**Rafizi Ramli:** ...bukankah lagi bahaya untuk jantung aku? Err, the whole idea of having a stent...
+
+**Host:** Ya lah, to keep the...
+
+**Rafizi Ramli:** ...untuk dia *make sure* — *pathway* itu terjaga, jadi kalau ia hilang, lama-lama ia *collapse* balik lah?
+
+**Host:** Baiklah, jadi projek terma dia ialah *developing bioreabsorbable drug eluting stent*. Bahagian *drug eluting* itu bermaksud *stent* itu melepaskan ubat secara beransur-ansur — *gradually slow release*. Anugerah kedua yang dia menangi pula ialah kerana dia membangunkan model AI yang boleh mengesan *glioma* dalam *CT scan*. Jadi, secara asasnya dia ambil satu *CT scan*, AI mengesan dengan ketepatan tinggi *glioma* yang ada dalam otak. Jadi doktor dapat... Dia dari Imperial?
+
+**Rafizi Ramli:** Dia sebenarnya dari... Queen Mary University...
+
+**Host:** Queen Mary...
+
+**Rafizi Ramli:** ...Pandan? Oh, QMW — first degree dekat QMW, kemudian dia buat *master* di Oxford. Dan ini hanya untuk *undergraduate students* sahaja, tapi dia menang...
+
+**Host:** ...twice in a row. So that's very impressive lah.
+
+**Rafizi Ramli:** She's doing medic dekat QMW.
+
+**Host:** Yes, *biomedical engineering* to be exact.
+
+**Rafizi Ramli:** *Medical engineering*?
+
+**Host:** *Biomedical engineering*. So we wanted to highlight dia sebab dia antara... saya baca, baca, baca penyelidikan dia, kagum betul dengan pencapaian dia.
+
+**Rafizi Ramli:** Kenapa dia dipanggil "Junior Nobel"?
+
+**Host:** Sebab hanya untuk *undergraduate student* sahaja.
+
+**Rafizi Ramli:** Ya lah, but is it given by the Alfred Nobel Foundation?
+
+**Host:** Yes, yes, yes, it is given by Alfred Nobel...
+
+**Rafizi Ramli:** Yes. Okay, tapi... aku takut, sebab kadang-kadang di Malaysia ni kita suka *hype*. Dia mungkin dapat *award* biasa, tapi kita pun letak "Junior Nobel."
+
+**Host:** But it's actually not Nobel — it's not from the Nobel Foundation directly, but this is from the Nobel Foundation, okay.
+
+**Rafizi Ramli:** Okay. So, suruh dia bertanding di Teluk Intan nanti — ganti dengan Komik, lawan Komik!
+
+**Host:** Sorry, sorry...
+
+**Rafizi Ramli:** Sorry, sorry, okay, okay...
+
+**Host:** Baik — err, antara kita nak pakai *platform* ini untuk minta dia *come back and serve*, atau minta dia datang balik? Siapa yang nak minta dia datang balik ini? Tak, kita buat pelawaan yang terbuka. Why would she come back? That's a good question. Kalau saya jadi dia, saya tak datang balik.
+
+**Rafizi Ramli:** Bukan sangat soal tak suka Malaysia atau apa — dan ini cabaran kita. Sebab itu, contohnya, itu sebahagian sebab kenapa dulu aku belajar *engineering*, *electronic engineering*. Itu sebahagian sebab kenapa aku kemudian bertukar kerjaya jadi *chartered accountant*. Sebab kalau kau nak buat penyelidikan peringkat tinggi, *frontier work*, terutamanya dalam bidang kejuruteraan, mana ada kerja macam itu di Malaysia? Kalau kau balik ke Malaysia masa itu, aku pun tengok, "alamak, lab yang ada berapa je," dan gaji pun tidak setimpal, tidak ke mana pun kerjayanya. Kalau jadi *electronic engineer*, balik-balik kerja hilang, tak apalah.
+
+So, to be fair kepada dia — dia sedang membantu umat manusia melalui penyelidikan dan penemuan yang dia hasilkan. Kalau dia balik ke Malaysia sebagai *biomedical engineer*, dia nak kerja di mana? Untuk jujur dengan dia — rugi lah, betul tak?
+
+**Host:** Okeylah, saya tak tahu nak *reply* apa untuk itu.
+
+**Rafizi Ramli:** Itu satu. Yang keduanya... "ni nak suruh buat jemputan, suruh dia balik Malaysia — kau ni siapa nak suruh buat jemputan tu semua?" Ha ha ha, anonymous aku. Okay, alright. So, we wish her all the luck in the world. I hope one day she comes back to Malaysia and bawa duit PE dan VC and all these research companies come to Malaysia. I mean, at her age now, kalau dia nak balik, kesian. Kalau dia ada much better opportunity — especially kalau dah dapat junior novel award — most probably the largest pharmaceutical companies in the world would want her, and she's better off going there dulu, then timba pengalaman untuk balik satu hari nanti. Baik, baby kena salam dekat family dia dekat Teluk Intan — bye bye, dia takkan balik.
+
+Kita ke segmen seterusnya — soalan terakhir, banyak yang tanya, tapi mungkin kita ambil dua je sebab kita dah 2 jam 22 minit, ada dalam 8 minit je lagi.
+
+Soalan pertama daripada Chong Wei Jin: "YB, statistik tunjuk ramai yang kerja sendiri dah mencarum PERKESO, tapi dalam sektor seni cuma sikit sangat. Sebagai orang yang banyak kerja dengan golongan kreatif dan media, apa model perlindungan sosial yang realistik untuk musician, pelakon, kru produksi yang pendapatannya turun naik macam yoyo ni?"
+
+Memanglah caruman pilihan yang dibuat oleh pekerja bebas ini ialah untuk semua orang yang tidak ada pekerjaan tetap. Jadi saya tak rasa isunya ialah model perlindungan sosial yang ada ni tak realistik. Sebenarnya soalnya mungkin sama ada industri musician, industri seni di Malaysia ini tidak berjaya sebegitu baik macam negara-negara lain — di mana pendapatan pelakon, kru produksi ini sangat tidak menentu — atau sebab gaji mereka rendah, jadi untuk buat pilihan mencarum tu dia rasa tak cukup, maka mereka tak mencarum. Tapi dari segi modelnya, saya rasa model yang ada dengan PERKESO sekarang ini memadai.
+
+So it's not so much about the social security model, tapi macam mana kita nak membangunkan industri seni ini supaya ia mendapat lebih banyak pelaburan dan modal kerjanya lebih tetap. Kalau kita tengok di Hollywood, kesatuan sekerja mereka sangat kukuh, sangat berpengaruh — ada union untuk pekerja Hollywood, untuk pekerja-pekerja seni, untuk penulis skrip. Dua tahun lepas, bila kesatuan sekerja penulis skrip Hollywood mogok, naya satu dunia, semua filem dan rancangan diorang jam.
+
+Jadi mungkin saya rasa yang boleh dipertimbangkan ialah kesatuan sekerja pekerja-pekerja seni ini perlu ditubuhkan kalau belum ada, dan kalau yang ada, mereka perlu lebih vokal dan lebih ke depan, sebab kadang-kadang persatuan seni yang ada di Malaysia ni lebih tertumpu kepada kebajikan. Saya faham the difficulty ialah sebab mereka bukan digaji tetap — so kalau dia tak ada majikan tetap, macam mana pula dia nak buat kesatuan sekerja, kan? So if anything, Chong, that is yang saya rasa perlu diberi perhatian. Ini bukan soal PERKESO sebenarnya — it's about how do you want to create that collective bargaining dalam keadaan industri seni di Malaysia ini yang tak setaraf dengan negara-negara lain yang lebih well-funded, lebih structured, yang ada perhubungan industri yang mantap. Kita ini sebenarnya kebanyakannya freelancers.
+
+Jadi mungkin — ni kerja rumah untuk Ramanan. Ramanan kena fikirkan macam mana nak memanfaatkan freelancers yang ada ini supaya mereka boleh mempunyai... Once I think you sort that one out, sebenarnya soal mencarum sendiri, PERKESO dah ada. So the root cause is not PERKESO — the root cause is the precarious nature of their employment.
+
+Menarik. Baby, boleh bagi satu homework kat satu menteri? Boleh, boleh, boleh — tapi dia bukan layan pun. Ok baik baby, soalan yang terakhir.
+
+Daripada Nandini: "YB, bila kita nampak kes suami isteri dipenjara sehari dan didenda kerana curi barang bernilai kurang RM100, ramai bandingkan dengan kes rasuah juta-juta yang nampak lebih ringan hukumannya. Dari perspektif reform sistem keadilan, apa yang patut dirombak untuk elak rasa kelas bawah dihukum, kelas atas dilindungi?" Ni yang latest tu kes kat Melaka kan — kesian, dia ambil apa je, ada 4-5 barang, dan dia kena penjara sehari.
+
+Erm, satu — saya tak baca penal code cover to cover lah kan. Kesalahan-kesalahan seperti ini selalunya jatuh di bawah penal code, dan penal code itu menetapkan hukuman minimum. Jadi magistrate yang jatuhkan hukuman itu selalunya berpandukan kepada hukuman yang ada dalam akta tersebut.
+
+Jadi satu perkara yang saya harap kita boleh lontarkan cabaran kepada Menteri Dalam Negeri, Datuk Seri Saifuddin Nasution — semasa kanun keseksaan, penal code itu digubal dulu-dulu, inflasi dah naik beratus kali ganda. Dulu mungkin RM100, RM200 itu besar nilainya masa itu, maka hukuman minimum semua ditetapkan berdasarkan keadaan masa itu. Tapi sekarang dengan inflasi, mungkin nilai RM100 sekarang ni pada zaman penal code dibuat mungkin cuma 50% je kot. Jadi revision of that, saya rasa kena dibuat, dan kena cari jalan macam mana kerajaan tidak perlu pergi ke parlimen berkali-kali untuk catch up dengan inflation. Itu satu.
+
+Yang kedua, sebab itu mungkin kaedah yang lebih baik ialah kita kena ada satu sistem community service, rehabilitation, supaya kesalahan-kesalahan kecil ini tidak dibawa dan didakwa sama sehingga meletakkan mereka dalam kelas yang sama dengan kes rasuah juta-juta. Contohnya petty theft, shoplifting — di UK, Australia setahu saya, ini semua masuk dalam kategori community service. Mungkinlah ada yang berpandangan dalam sistem kerajaan, "oh tak boleh, kalau macam tu semua orang akan curi, itu risikonya" — walaupun saya rasa tak seteruk itu, tapi risiko yang ada sekarang ini lebih besar, iaitu bila sekali-sekala orang tengok, ya Allah, orang ni miskin, curi roti kena penjara seminggu.
+
+(Sila berasa bebas untuk menyukai, melanggan, dan memberi ganjaran untuk menyokong segmen ini.)
+
+Kemudian dapat pula, Datuk daripada Timbalan Ketua Bahagian Bersatu Segambut didakwa RM6 juta, bayar RM4 juta. Ada bekas Perdana Menteri, RM170 juta, pulangkan balik, tak kena apa. Jadi ada je — kalau pulangkan balik, tak kena apa. Jadi itu dua perkara yang perlu dibuat. Saya harap netizen lambung banyak-banyak supaya kita boleh pinda penal code itu dan tengok semula. But I have to admit, I don't read it cover to cover. Tapi secara falsafahnya, kesalahan-kesalahan seperti ini sepatutnya tergolong dalam community service, bukan masuk terus dalam penal code. Aku bukan Menteri Undang-Undang pun.
+
+**Amy:** Sorry, sebab kita bincang pasal ni, saya teringat kes judge dekat Providence tu — Frank Caprio, or something, the nicest judge in the world. Sistem mahkamah dan kehakiman di Malaysia ni, tak ada ruang ke untuk perbicaraan mahkamah di mana kalau family tu betul-betul susah, dia dibenarkan — bukan dibenarkan lah, tapi dilepaskan dengan budi, macam dengan kasihan, dengan belas kasihan semua tu?
+
+**Rafizi Ramli:** Dia ada sebenarnya — I mean, I don't know in detail lah, sebab lawyer ni kan, kau cakap A dia kata B, kau cakap B dia kata C. But I'm a beneficiary of one of the provisions — bond of good behaviour. Kes saya adalah OSA. Saya didakwa dan dijatuhkan penjara 3 tahun pada 2017 kerana mendedahkan laporan mengenai 1MDB yang berkait dengan kelewatan bayaran pencen askar. Masa tu, ya lah, saya di parlimen, I had to make a decision — ramai pesara yang complain, dia tak dapat pencen, tak dapat bayaran semua. Kau tanya dalam parlimen macam tu semua, dia tak layan pun. Jadi kau kena tunjukkan laporan yang memang kata duit macam itu kan. Jadi aku kena OSA. Jatuh hukuman bersalah, kemudian pergi ke mahkamah rayuan.
+
+So kami ambil strategi begini — saya mengaku bersalah, sebab memanglah dah dedah, memang betul, maksudnya I was prepared lah — okay lah, jail pun jail lah, okay lah kan, apa nama ni... mengaku bersalah. Tapi kita runding, hantar representasi kepada Jabatan Peguam Negara, Pendakwa Raya, supaya kita minta dengan hakim, saya tidak dikenakan hukuman penjara tetapi dikenakan hukuman good behaviour bond selama dua tahun. Ada dalam undang-undang kita. Jadi mahkamah pun mengambil kira ini tidak ada kepentingan peribadi, ini kepentingan awam, dan unique situation berkaitan 1MDB semua ini kan. Jadi mahkamah menjatuhkan hukuman good behaviour bond. So benda tu memang ada sebenarnya.
+
+Tapi itulah sebab saya rasa soalan Nandini ni betul. Ia bukan sahaja bergantung kepada hakim — ia juga perlukan Jabatan Pendakwa Raya untuk memastikan. Tapi pendakwa raya di bawah ni pula, dia menurut arahan, dan pendakwa raya di peringkat negeri pula menurut pekeliling daripada KL Putrajaya. Jadi kecuali ada dasar kerajaan yang mengatakan, kesalahan macam ni masuk community service, kesalahan macam ni masuk good behaviour bond, lepaskan atas dasar ihsan dan sebagainya — ia akan memudahkan hakim dan pendakwa raya. Kemudian pula, pendakwa raya pun ada pertimbangan sendiri — kalau dia dakwa 10, dia kena menang semua 10 atau 9, kalau kalah nampak teruk. So all this sebenarnya perlukan political direction daripada kerajaan.
+
+Sebab itu saya harap ada orang sampaikan kepada Datuk Seri Saifuddin Nasution — dia mungkin banyak benda nak buat, tapi yang ini adalah perkara yang tak ada orang boleh bangkang. Ini adalah satu ketidakadilan dalam masyarakat. Kalau ada ibu ambil susu, ataupun dia memang orang susah, ataupun budak nakal petty theft RM200 — jangan cabar masa depan dia dengan hantar ke penjara. Bagi dia perkhidmatan komuniti.
+
+Baik, Chris, terima kasih. Alhamdulillah, tak ada dah kan soalan? Alhamdulillah. Itu je lah kot — dah 2 jam 35 minit. Selamat bercuti!
+
+**Amy:** Selamat!
+
+**Rafizi Ramli:** Tapi minggu depan kami tetap ada. Diorang minta supaya minggu depan tak ada, tapi tak boleh — tiap-tiap minggu kena ada. So minggu depan walaupun cuti — cuti satu hari selepas Christmas, Boxing Day — kita tetap bersiaran. Boxing Day. Kau boxing apa, Boxing Day?
+
+**Amy:** Yelah.
+
+**Rafizi Ramli:** I know. But what do—
+
+**Amy:** —you box? You don't celebrate Christmas. Tak, tak, kita box yang beria je.
+
+**Rafizi Ramli:** Okay, not a good idea. Kita balik dulu, Amy. Itu saja. Bye.
