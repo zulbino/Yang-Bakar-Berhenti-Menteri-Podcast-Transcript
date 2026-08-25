@@ -153,13 +153,7 @@
     "status": "no_captions"
   },
   "2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard": {
-    "status": "ok",
-    "samples_matched": 0,
-    "samples_not_found_nearby": 12,
-    "samples_total": 12,
-    "max_drift_seconds": 0,
-    "flagged": true,
-    "details": []
+    "status": "no_captions"
   },
   "2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-": {
     "status": "no_captions"
@@ -1734,21 +1728,66 @@
   },
   "2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar": {
     "status": "ok",
-    "samples_matched": 2,
-    "samples_not_found_nearby": 10,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 280,
+    "max_drift_seconds": 466,
     "flagged": true,
     "details": [
       {
         "claimed": 0,
-        "actual": 0,
-        "drift": 0
+        "actual": 384,
+        "drift": 384
       },
       {
-        "claimed": 357,
-        "actual": 77,
-        "drift": -280
+        "claimed": 997,
+        "actual": 1063,
+        "drift": 66
+      },
+      {
+        "claimed": 1548,
+        "actual": 1565,
+        "drift": 17
+      },
+      {
+        "claimed": 1787,
+        "actual": 2186,
+        "drift": 399
+      },
+      {
+        "claimed": 3280,
+        "actual": 3267,
+        "drift": -13
+      },
+      {
+        "claimed": 4359,
+        "actual": 4360,
+        "drift": 1
+      },
+      {
+        "claimed": 4407,
+        "actual": 4475,
+        "drift": 68
+      },
+      {
+        "claimed": 5054,
+        "actual": 5094,
+        "drift": 40
+      },
+      {
+        "claimed": 5976,
+        "actual": 6442,
+        "drift": 466
+      },
+      {
+        "claimed": 7386,
+        "actual": 7377,
+        "drift": -9
+      },
+      {
+        "claimed": 9355,
+        "actual": 9387,
+        "drift": 32
       }
     ]
   },
