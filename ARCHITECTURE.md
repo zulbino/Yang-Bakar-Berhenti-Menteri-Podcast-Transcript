@@ -438,6 +438,61 @@ than spoken aloud (this is a video podcast; only audio is extracted here) --
 not the model withholding it. Don't keep re-querying the same clip expecting
 a different result; check the source video directly instead.
 
+### Raw transcription: verifying speaker labels via native YouTube clip processing
+
+A cheaper, more capable alternative to `verify_speakers.py`'s download-and-ffmpeg-cut
+approach: Gemini's `types.Part(file_data=types.FileData(file_uri=<youtube_url>),
+video_metadata=types.VideoMetadata(start_offset="Ns", end_offset="Ms"))` lets Gemini
+watch a clipped time range directly from a public YouTube URL -- no download, no
+upload, no local audio file needed at all. Two advantages over the audio-clip method:
+it's watching actual video, so it can use visual cues (who's on screen, lip movement)
+alongside voice, not just audio; and clipping server-side means only the requested
+window's tokens are billed, not the whole file.
+
+**Token limit, not a workaround**: sending a whole multi-hour episode this way still
+hits the model's ~1M-token context ceiling (confirmed directly: a 3h18m video 400s
+into it). Clipping isn't optional for anything beyond short episodes -- always pass
+`video_metadata` with a bounded range, never the bare URL alone on a long episode.
+
+**Trust the timestamp you send, not the one Gemini reports.** Gemini's self-reported
+in-clip timestamps carry their own imprecision (same class of issue as LLM-generated
+timestamps generally). The reliable pattern: pick the timestamp to check from `raw.md`
+(itself worth cross-checking against YouTube's auto-captions first, see the timestamp
+drift section above), clip a window around it, and ask only "who is speaking" --
+letting Gemini supply the identity, not the timing.
+
+**Lean prompt, matched to the question being asked.** For validating a single
+suspected speaker, `verify_speakers.py`'s descriptive prompt (voice pitch, tone,
+named mentions) is right. For mapping raw diarization clusters to real names across
+many turns at once, a much leaner prompt works better and costs far fewer output
+tokens: give Gemini the episode's known-cast list (from the video description, see
+below) and ask for a bare `MM:SS - Name` list, nothing else.
+
+**Confirmed effective on ep60 and ep46.** On ep60, clip sampling resolved a 6-cluster
+diarization down to the real 3 people in the episode (Haziq, Rafizi, guest "Sum Dek
+Jo") plus genuine crosstalk, and caught a real ASR mishearing in the same pass
+("Nurul Izan" heard aloud is actually Nurul Izzah, a real, frequently-discussed
+politician). On ep46 it resolved 2 of 4 diarized clusters cleanly (Speaker 1 -> Afiq,
+Speaker 2 -> Rafizi, consistent across 6+ samples each) but proved the other two
+were genuinely mixed: both "Speaker 3" and "Speaker 4" turned out to contain turns
+from two different real people (Farhan and guest co-host Amin Sahmat) depending on
+sample point, not one person mislabeled twice. **Not every cluster resolves to a
+single name** -- when repeated sampling keeps returning different real people for
+the same label, that's a genuine diarization merge, and the honest fix is leaving it
+labeled generically rather than forcing a guess.
+
+**YouTube video descriptions are a high-value, already-available source of ground
+truth.** `data/manifest.json`'s `description` field (fetched once by `build_manifest.py`,
+no extra cost) frequently states the guest's real name directly, sometimes with the
+exact nickname used on-air ("Dato' Syed Azuan ataupun lebih dikenali sebagai DSA").
+Worth checking before any audio-based verification -- it's free, and resolves plenty
+of cases with zero Gemini calls at all.
+
+**Cost note**: the free-tier `GEMINI_API_KEY` caps at roughly 20 requests/day per
+model (confirmed by hitting `429 RESOURCE_EXHAUSTED` on `gemini-3.6-flash` mid-session).
+`lib_gemini.py`'s `MODEL_FALLBACK_CHAIN` order is the natural fallback when this
+happens -- switching to the next model (e.g. `gemini-3.5-flash`) picks up cleanly.
+
 ### Rewrite, translate, and metadata: choosing a fallback provider
 
 The rewrite stage originally only used Gemini. When Gemini's account-level billing
