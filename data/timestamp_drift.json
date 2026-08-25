@@ -150,60 +150,50 @@
     ]
   },
   "2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2": {
-    "status": "ok",
-    "samples_matched": 8,
-    "samples_not_found_nearby": 4,
-    "samples_total": 12,
-    "max_drift_seconds": 756,
-    "flagged": true,
-    "details": [
-      {
-        "claimed": 880,
-        "actual": 920,
-        "drift": 40
-      },
-      {
-        "claimed": 1062,
-        "actual": 306,
-        "drift": -756
-      },
-      {
-        "claimed": 1285,
-        "actual": 1280,
-        "drift": -5
-      },
-      {
-        "claimed": 2238,
-        "actual": 2282,
-        "drift": 44
-      },
-      {
-        "claimed": 2873,
-        "actual": 2958,
-        "drift": 85
-      },
-      {
-        "claimed": 3534,
-        "actual": 3645,
-        "drift": 111
-      },
-      {
-        "claimed": 4089,
-        "actual": 4095,
-        "drift": 6
-      },
-      {
-        "claimed": 4380,
-        "actual": 4383,
-        "drift": 3
-      }
-    ]
+    "status": "no_captions"
   },
   "2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard": {
     "status": "no_captions"
   },
   "2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-": {
-    "status": "no_captions"
+    "status": "ok",
+    "samples_matched": 6,
+    "samples_not_found_nearby": 6,
+    "samples_total": 12,
+    "max_drift_seconds": 196,
+    "flagged": false,
+    "details": [
+      {
+        "claimed": 281,
+        "actual": 282,
+        "drift": 1
+      },
+      {
+        "claimed": 452,
+        "actual": 446,
+        "drift": -6
+      },
+      {
+        "claimed": 1750,
+        "actual": 1946,
+        "drift": 196
+      },
+      {
+        "claimed": 4339,
+        "actual": 4342,
+        "drift": 3
+      },
+      {
+        "claimed": 5037,
+        "actual": 5040,
+        "drift": 3
+      },
+      {
+        "claimed": 6869,
+        "actual": 6865,
+        "drift": -4
+      }
+    ]
   },
   "2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar": {
     "status": "no_captions"
@@ -865,21 +855,51 @@
   },
   "2025-12-05-ep25-prn-sabah-pkr-terkubur-masa-depan-ph-ybm-ep-25": {
     "status": "ok",
-    "samples_matched": 2,
-    "samples_not_found_nearby": 10,
+    "samples_matched": 8,
+    "samples_not_found_nearby": 4,
     "samples_total": 12,
-    "max_drift_seconds": 652,
-    "flagged": true,
+    "max_drift_seconds": 30,
+    "flagged": false,
     "details": [
       {
-        "claimed": 169,
-        "actual": 169,
-        "drift": 0
+        "claimed": 598,
+        "actual": 588,
+        "drift": -10
       },
       {
-        "claimed": 1150,
-        "actual": 498,
-        "drift": -652
+        "claimed": 1152,
+        "actual": 1156,
+        "drift": 4
+      },
+      {
+        "claimed": 1490,
+        "actual": 1488,
+        "drift": -2
+      },
+      {
+        "claimed": 3418,
+        "actual": 3410,
+        "drift": -8
+      },
+      {
+        "claimed": 4435,
+        "actual": 4442,
+        "drift": 7
+      },
+      {
+        "claimed": 5557,
+        "actual": 5585,
+        "drift": 28
+      },
+      {
+        "claimed": 6416,
+        "actual": 6434,
+        "drift": 18
+      },
+      {
+        "claimed": 7331,
+        "actual": 7361,
+        "drift": 30
       }
     ]
   },

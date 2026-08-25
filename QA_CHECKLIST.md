@@ -9,7 +9,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 ## Flagged episodes
 
 - [ ] **2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2**
-  - check_timestamp_drift.py flagged timestamp mistiming (max drift 758s, 8/12 caption samples matched)
+  - check_timestamp_drift.py flagged timestamp mistiming (max drift 756s, 8/12 caption samples matched)
 - [ ] **2024-08-26-ep05-yang-bakar-menteri-ybm-ep5**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 14s, 3/12 caption samples matched)
 - [ ] **2025-09-26-ep15-yang-berhenti-menteri-episod-15**
@@ -26,10 +26,11 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 55s, 2/12 caption samples matched)
   - models: raw.md=gemini-3.7-flash
 - [ ] **2025-12-05-ep25-prn-sabah-pkr-terkubur-masa-depan-ph-ybm-ep-25**
-  - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
+  - interview.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 652s, 2/12 caption samples matched)
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-**
   - interview.md looks truncated (ratio 0.16 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.16 vs raw.md, expected >= 0.35)
@@ -114,7 +115,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 372s, 7/12 caption samples matched)
   - models: raw.md=gemini-3.5-flash-lite
 - [ ] **2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y**
-  - check_timestamp_drift.py flagged timestamp mistiming (max drift 296s, 4/12 caption samples matched)
+  - check_timestamp_drift.py flagged timestamp mistiming (max drift 1200s, 5/12 caption samples matched)
   - models: raw.md=gemini-3.5-flash, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-06-25-ep54-pilihanraya-negeri-johor-menghampiri-ybm-54**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 458s, 11/12 caption samples matched)
