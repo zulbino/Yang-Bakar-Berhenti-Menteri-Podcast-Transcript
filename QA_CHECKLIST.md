@@ -8,6 +8,9 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 
 ## Flagged episodes
 
+- [ ] **2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-**
+  - check_timestamp_drift.py flagged timestamp mistiming (max drift 0s, 0/12 caption samples matched)
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2024-08-26-ep05-yang-bakar-menteri-ybm-ep5**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 14s, 3/12 caption samples matched)
 - [ ] **2025-09-26-ep15-yang-berhenti-menteri-episod-15**
@@ -21,7 +24,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [ ] **2025-10-31-ep20-yang-berhenti-menteri-episod-20**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 614s, 11/12 caption samples matched)
 - [ ] **2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21**
-  - check_timestamp_drift.py flagged timestamp mistiming (max drift 55s, 2/12 caption samples matched)
+  - check_timestamp_drift.py flagged timestamp mistiming (max drift 0s, 0/12 caption samples matched)
   - models: raw.md=gemini-3.7-flash
 - [ ] **2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 327s, 12/12 caption samples matched)
@@ -43,15 +46,11 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [ ] **2026-02-06-ep34-pilihanraya-datuk-bandar-kl-kos-bina-1-bilik-darjah-tapisan-**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 471s, 10/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
-- [ ] **2026-02-20-ep36-2-5b-jv-1-1b-tuduhan-caprice-akan-disaman-kita-jawab-satu-sa**
-  - raw.md has a repetition-loop degeneration (378 chars repeating 'eria. Beria, b'...) -- model got stuck re-emitting the same short phrase
-  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha**
-  - interview.md looks truncated (ratio 0.11 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.11 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.11 vs raw.md, expected >= 0.35)
-  - check_timestamp_drift.py flagged timestamp mistiming (max drift 454s, 6/12 caption samples matched)
-  - models: raw.md=gemini-3.6-flash
+  - interview.md looks truncated (ratio 0.10 vs raw.md, expected >= 0.35)
+  - interview-en.md looks truncated (ratio 0.10 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.10 vs raw.md, expected >= 0.35)
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2026-03-06-ep38-sprm-cari-james-chai-tangan-tangan-ghaib-berkaitan-zionis-yb**
   - interview.md looks truncated (ratio 0.28 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
@@ -118,7 +117,6 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 
 - [x] 2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2
 - [x] 2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard
-- [x] 2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial- (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar
 - [x] 2024-09-30-ep06-yang-bakar-menteri-ep-6-rafizi-ramli-lim-sian-see
 - [x] 2025-05-10-ep00-podcast-yang-berhenti-menteri
@@ -146,6 +144,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [x] 2026-01-02-ep29-1mdb-parut-negara-umno-retak-pn-bergoncang-ybm-29 (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2026-01-30-ep33-pn-dari-bergolak-ke-berkecai-skandal-yang-belum-selesai-ybm-
 - [x] 2026-02-13-ep35-pendedahan-bloomberg-berkaitan-azam-baki-isu-rumah-ibadat-ra (models: raw.md=gemini-3.6-flash)
+- [x] 2026-02-20-ep36-2-5b-jv-1-1b-tuduhan-caprice-akan-disaman-kita-jawab-satu-sa (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia- (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
