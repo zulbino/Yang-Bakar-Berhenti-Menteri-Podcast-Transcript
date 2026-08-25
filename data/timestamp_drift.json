@@ -2036,46 +2036,71 @@
   },
   "2026-07-17-ep55-apa-jadi-prn-johor-kenapa-tak-masuk-prn-negeri-sembilan-ybm-": {
     "status": "ok",
-    "samples_matched": 7,
-    "samples_not_found_nearby": 5,
+    "samples_matched": 12,
+    "samples_not_found_nearby": 0,
     "samples_total": 12,
-    "max_drift_seconds": 731,
-    "flagged": true,
+    "max_drift_seconds": 136,
+    "flagged": false,
     "details": [
       {
-        "claimed": 44,
+        "claimed": 45,
         "actual": 45,
-        "drift": 1
+        "drift": 0
       },
       {
-        "claimed": 447,
-        "actual": 438,
-        "drift": -9
+        "claimed": 321,
+        "actual": 314,
+        "drift": -7
       },
       {
-        "claimed": 607,
-        "actual": 640,
-        "drift": 33
+        "claimed": 742,
+        "actual": 764,
+        "drift": 22
       },
       {
-        "claimed": 880,
-        "actual": 867,
-        "drift": -13
+        "claimed": 1147,
+        "actual": 1177,
+        "drift": 30
       },
       {
-        "claimed": 1238,
-        "actual": 1235,
-        "drift": -3
+        "claimed": 2607,
+        "actual": 2606,
+        "drift": -1
       },
       {
-        "claimed": 1490,
-        "actual": 1498,
-        "drift": 8
+        "claimed": 3286,
+        "actual": 3417,
+        "drift": 131
       },
       {
-        "claimed": 2687,
-        "actual": 3418,
-        "drift": 731
+        "claimed": 4472,
+        "actual": 4487,
+        "drift": 15
+      },
+      {
+        "claimed": 5306,
+        "actual": 5302,
+        "drift": -4
+      },
+      {
+        "claimed": 5877,
+        "actual": 5925,
+        "drift": 48
+      },
+      {
+        "claimed": 6855,
+        "actual": 6848,
+        "drift": -7
+      },
+      {
+        "claimed": 8033,
+        "actual": 8169,
+        "drift": 136
+      },
+      {
+        "claimed": 9673,
+        "actual": 9679,
+        "drift": 6
       }
     ]
   },

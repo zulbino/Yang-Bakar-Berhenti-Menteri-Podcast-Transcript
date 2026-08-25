@@ -140,8 +140,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
-  - check_timestamp_drift.py flagged timestamp mistiming (max drift 731s, 7/12 caption samples matched)
-  - models: raw.md=gemini-3.5-flash
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2026-07-24-ep56-isu-pelaburan-efishery-lama-mana-kerajaan-madani-akan-bertah**
   - raw.md produced by weaker fallback model gemini-flash-lite-latest -- verify content quality closely
   - interview-ms.md looks truncated (ratio 0.30 vs raw.md, expected >= 0.35)
@@ -153,10 +152,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-ms.md looks truncated (ratio 0.24 vs raw.md, expected >= 0.35)
 - [ ] **2026-08-07-ep58-umno-pas-asal-melayu-berkuasa-masalah-lain-belakang-kira-ybm**
   - raw.md has a 43863-char block with no paragraph breaks (wall-of-text)
-  - missing interview.md
-  - missing interview-en.md
-  - missing interview-ms.md
-  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 
 ## Clean episodes
 
