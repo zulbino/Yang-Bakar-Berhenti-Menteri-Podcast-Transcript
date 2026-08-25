@@ -156,44 +156,7 @@
     "status": "no_captions"
   },
   "2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-": {
-    "status": "ok",
-    "samples_matched": 6,
-    "samples_not_found_nearby": 6,
-    "samples_total": 12,
-    "max_drift_seconds": 196,
-    "flagged": false,
-    "details": [
-      {
-        "claimed": 281,
-        "actual": 282,
-        "drift": 1
-      },
-      {
-        "claimed": 452,
-        "actual": 446,
-        "drift": -6
-      },
-      {
-        "claimed": 1750,
-        "actual": 1946,
-        "drift": 196
-      },
-      {
-        "claimed": 4339,
-        "actual": 4342,
-        "drift": 3
-      },
-      {
-        "claimed": 5037,
-        "actual": 5040,
-        "drift": 3
-      },
-      {
-        "claimed": 6869,
-        "actual": 6865,
-        "drift": -4
-      }
-    ]
+    "status": "no_captions"
   },
   "2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar": {
     "status": "no_captions"
@@ -905,31 +868,71 @@
   },
   "2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-": {
     "status": "ok",
-    "samples_matched": 4,
-    "samples_not_found_nearby": 8,
+    "samples_matched": 12,
+    "samples_not_found_nearby": 0,
     "samples_total": 12,
-    "max_drift_seconds": 728,
+    "max_drift_seconds": 327,
     "flagged": true,
     "details": [
       {
         "claimed": 140,
-        "actual": 141,
-        "drift": 1
+        "actual": 167,
+        "drift": 27
       },
       {
-        "claimed": 380,
-        "actual": 374,
-        "drift": -6
+        "claimed": 393,
+        "actual": 448,
+        "drift": 55
       },
       {
-        "claimed": 823,
-        "actual": 821,
-        "drift": -2
+        "claimed": 681,
+        "actual": 749,
+        "drift": 68
       },
       {
-        "claimed": 1370,
-        "actual": 642,
-        "drift": -728
+        "claimed": 1283,
+        "actual": 1414,
+        "drift": 131
+      },
+      {
+        "claimed": 1692,
+        "actual": 2019,
+        "drift": 327
+      },
+      {
+        "claimed": 2599,
+        "actual": 2594,
+        "drift": -5
+      },
+      {
+        "claimed": 3937,
+        "actual": 4114,
+        "drift": 177
+      },
+      {
+        "claimed": 5321,
+        "actual": 5321,
+        "drift": 0
+      },
+      {
+        "claimed": 6796,
+        "actual": 6785,
+        "drift": -11
+      },
+      {
+        "claimed": 8087,
+        "actual": 8189,
+        "drift": 102
+      },
+      {
+        "claimed": 8435,
+        "actual": 8427,
+        "drift": -8
+      },
+      {
+        "claimed": 8506,
+        "actual": 8525,
+        "drift": 19
       }
     ]
   },
