@@ -156,13 +156,7 @@
     "status": "no_captions"
   },
   "2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-": {
-    "status": "ok",
-    "samples_matched": 0,
-    "samples_not_found_nearby": 12,
-    "samples_total": 12,
-    "max_drift_seconds": 0,
-    "flagged": true,
-    "details": []
+    "status": "no_captions"
   },
   "2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar": {
     "status": "no_captions"
@@ -1304,21 +1298,66 @@
   },
   "2026-02-20-ep36-2-5b-jv-1-1b-tuduhan-caprice-akan-disaman-kita-jawab-satu-sa": {
     "status": "ok",
-    "samples_matched": 2,
-    "samples_not_found_nearby": 10,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 763,
-    "flagged": true,
+    "max_drift_seconds": 230,
+    "flagged": false,
     "details": [
       {
-        "claimed": 175,
-        "actual": 168,
+        "claimed": 348,
+        "actual": 349,
+        "drift": 1
+      },
+      {
+        "claimed": 581,
+        "actual": 668,
+        "drift": 87
+      },
+      {
+        "claimed": 1550,
+        "actual": 1544,
+        "drift": -6
+      },
+      {
+        "claimed": 2126,
+        "actual": 2130,
+        "drift": 4
+      },
+      {
+        "claimed": 2612,
+        "actual": 2842,
+        "drift": 230
+      },
+      {
+        "claimed": 3245,
+        "actual": 3239,
+        "drift": -6
+      },
+      {
+        "claimed": 3438,
+        "actual": 3464,
+        "drift": 26
+      },
+      {
+        "claimed": 5069,
+        "actual": 5067,
+        "drift": -2
+      },
+      {
+        "claimed": 5497,
+        "actual": 5506,
+        "drift": 9
+      },
+      {
+        "claimed": 7948,
+        "actual": 7941,
         "drift": -7
       },
       {
-        "claimed": 1104,
-        "actual": 341,
-        "drift": -763
+        "claimed": 8555,
+        "actual": 8556,
+        "drift": 1
       }
     ]
   },
