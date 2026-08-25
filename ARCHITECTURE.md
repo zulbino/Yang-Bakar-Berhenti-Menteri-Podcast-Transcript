@@ -521,6 +521,15 @@ rather than any one key or project), a fallback provider was needed here too.
   about 21,000 cache-creation tokens and $0.08 per call, even on a trivial request.
   Overriding both cut that to about 500 tokens and $0.0016 per call, roughly a 48x
   reduction with no effect on output quality for these pure text-generation calls.
+- **No subprocess timeout, confirmed to hang indefinitely.** `_run_claude`'s
+  `subprocess.run` call had no `timeout=`. One specific episode's rewrite hung twice
+  in a row -- the CLI subprocess sat alive at near-zero CPU for 45+ minutes each
+  time, never returning, with nothing in stdout/stderr to explain why (a fresh
+  `claude -p "say ok"` sanity check in between the two hangs came back in 3.5s, so
+  the CLI itself wasn't broadly broken -- something about that specific call hung).
+  Added a bounded `CLI_TIMEOUT_SECONDS = 600` so a hang raises `RuntimeError` and
+  flows into the existing `retry()` wrapper instead of blocking the whole pipeline
+  forever with no way to detect it from outside.
 
 ## Why a clean exit code isn't enough
 

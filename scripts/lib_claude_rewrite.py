@@ -31,6 +31,12 @@ from lib_gemini import (
 
 MODEL = "claude-sonnet-5"
 CLAUDE_EXE = "claude"
+# subprocess.run has no default timeout -- confirmed directly: the CLI subprocess
+# hung twice in a row on the same episode with near-zero CPU (waiting on something
+# that never returned), blocking the pipeline indefinitely with no way to detect
+# or recover. A generous but bounded timeout turns that into a normal retry()able
+# failure instead.
+CLI_TIMEOUT_SECONDS = 600
 
 SYSTEM_PROMPT = "Respond only with the requested output. Do not narrate, explain, or add commentary."
 
@@ -69,7 +75,10 @@ def _run_claude(prompt, session_id=None, json_schema=None):
     if json_schema:
         cmd += ["--json-schema", json.dumps(json_schema)]
 
-    proc = subprocess.run(cmd, input=prompt.encode("utf-8"), capture_output=True)
+    try:
+        proc = subprocess.run(cmd, input=prompt.encode("utf-8"), capture_output=True, timeout=CLI_TIMEOUT_SECONDS)
+    except subprocess.TimeoutExpired:
+        raise RuntimeError(f"claude CLI hung past {CLI_TIMEOUT_SECONDS}s, no response")
     if proc.returncode != 0:
         raise RuntimeError(f"claude CLI exited {proc.returncode}: {proc.stderr.decode('utf-8', errors='replace')}")
 
