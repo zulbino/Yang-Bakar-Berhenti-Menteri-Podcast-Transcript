@@ -74,11 +74,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Saya uji sebutan suami dia. Ya lah tu. Samdek Joe. Tapi tak apa, maaf lah. Apa khabar?
 
-**Sum Dek Joe:** Sihat, terima kasih.
+**Sum Dek Jo:** Sihat, terima kasih.
 
 **Haziq:** Kalau tengok profil, saudara Joe pun bukan kali pertama muncul lah. Sebelum ni kita tengok banyak dekat pelancaran, dekat jelajah-jelajah semua kan. Tapi kalau tengok latar belakang, saudara Joe memang — apa, kena panggil saudara Joe?
 
-**Sum Dek Joe:** Joe lah, Joe.
+**Sum Dek Jo:** Joe lah, Joe.
 
 **Haziq:** Joe. Terlalu formal. Okay, saudara —
 
@@ -86,19 +86,19 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Kita akan sentuh nanti. Okay — pensyarah di Australian National University, kemudian jadi penasihat, penasihat ekonomi mikro di Kementerian Perbendaharaan Papua New Guinea. Mana dekat Papua New Guinea tu?
 
-**Sum Dek Joe:** Jadi pada masa itu saya bekerja dengan Asian Development Bank, dan Asian Development Bank ada projek-projek di negara yang kurang membangun seperti Papua New Guinea, di mana kerajaan — mungkin kakitangan awam mereka — kurang keupayaan untuk buat belanjawan atau ramalan. Jadi peranan utama saya pada masa itu di kerajaan Papua New Guinea, terutama Kementerian Perbendaharaan, ataupun perbendaharaan dalam konteks Malaysia, adalah untuk buat ramalan jangka sederhana serta belanjawan. Itulah peranan saya di sana.
+**Sum Dek Jo:** Jadi pada masa itu saya bekerja dengan Asian Development Bank, dan Asian Development Bank ada projek-projek di negara yang kurang membangun seperti Papua New Guinea, di mana kerajaan — mungkin kakitangan awam mereka — kurang keupayaan untuk buat belanjawan atau ramalan. Jadi peranan utama saya pada masa itu di kerajaan Papua New Guinea, terutama Kementerian Perbendaharaan, ataupun perbendaharaan dalam konteks Malaysia, adalah untuk buat ramalan jangka sederhana serta belanjawan. Itulah peranan saya di sana.
 
 **Haziq:** Fiskal lah.
 
-**Sum Dek Joe:** Fiskal lah, memang fokus dalam fiskal sahaja.
+**Sum Dek Jo:** Fiskal lah, memang fokus dalam fiskal sahaja.
 
 **Rafizi:** Dulu-dulu Malaysia pun ada lalui zaman itu, okey, yang mana pakar-pakar daripada World Bank, daripada agensi ekonomi dunia, datang bekerjasama dan membantu melatih. Sama juga macam peringkat sekarang, kerajaan kita biasa dapat permintaan daripada selalunya negara Afrika untuk kita menghantar pegawai kita ataupun pakar kita melatih kementerian mereka. Kalau macam saya dekat Kementerian Ekonomi dulu, sama ada perancang makro ataupun pegawai-pegawai statistik daripada DOSM. Cuma kesian kat diorang lah — aku ingat semua cakap, "tolonglah jangan hantar aku Afrika," yang banyak je kan.
 
-**Sum Dek Joe:** Tapi kerja itu sangat bermakna. Sebenarnya ia mengenai anda dapat secara langsung membantu orang yang paling memerlukan. Bandingkan dengan Malaysia, kita dah ada keupayaan semua. Dan sebenarnya sangat bermakna dapat membantu orang yang paling memerlukan.
+**Sum Dek Jo:** Tapi kerja itu sangat bermakna. Sebenarnya ia mengenai anda dapat secara langsung membantu orang yang paling memerlukan. Bandingkan dengan Malaysia, kita dah ada keupayaan semua. Dan sebenarnya sangat bermakna dapat membantu orang yang paling memerlukan.
 
 **Rafizi:** Tapi orang kita tak nak — dia nak pergi New York, penempatan di DC. Buat apa nak penempatan kat Papua New Guinea ni? Kenapa awak tak jadi hitam, tak jadi gelap?
 
-**Sum Dek Joe:** Ada kesan pemutihan agaknya, sebab saya agak kuat menyelam. Tapi setakat ni okay je.
+**Sum Dek Jo:** Ada kesan pemutihan agaknya, sebab saya agak kuat menyelam. Tapi setakat ni okay je.
 
 **Haziq:** Dan kali terakhir sebagai ahli ekonomi di ASEAN Plus 3 Macroeconomic Research Office — ini yang terakhir sekali lah sebelum meletak jawatan. Jadi kita masuk soalan seterusnya — kenapa sanggup meletak jawatan? Sebab, yelah, awak dah bina kerjaya korporat ni —
 
@@ -108,19 +108,19 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Saya pun tak tahu "kerjaya korporat" ni sesuai ke tak sebenarnya.
 
-**Sum Dek Joe:** Sebab tadi saya rasa istilah yang lebih tepat ialah penjawat awam antarabangsa, sebab pihak berkepentingan kita ni memang semua kerajaan-kerajaan negara masing-masing, negara serantau. Jadi kita bukan macam —
+**Sum Dek Jo:** Sebab tadi saya rasa istilah yang lebih tepat ialah penjawat awam antarabangsa, sebab pihak berkepentingan kita ni memang semua kerajaan-kerajaan negara masing-masing, negara serantau. Jadi kita bukan macam —
 
 **Rafizi:** ASEAN Plus 3, maksudnya ASEAN campur —
 
-**Sum Dek Joe:** Campur China —
+**Sum Dek Jo:** Campur China —
 
 **Rafizi:** Campur China, campur —
 
-**Sum Dek Joe:** Jepun —
+**Sum Dek Jo:** Jepun —
 
 **Haziq:** Dengan —
 
-**Sum Dek Joe:** Campur —
+**Sum Dek Jo:** Campur —
 
 **Haziq:** Korea —
 
@@ -134,27 +134,27 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Perjuangan —
 
-**Sum Dek Joe:** Bersama perjuangan bersama. Saya rasa ada masa yang kita perlu...
+**Sum Dek Jo:** Bersama perjuangan bersama. Saya rasa ada masa yang kita perlu...
 
 **Rafizi:** Awak kena cakap bahasa Melayu, Joe. Cakap bahasa Melayu, bersama-sama.
 
-**Sum Dek Joe:** Saya rasa...
+**Sum Dek Jo:** Saya rasa...
 
 **Rafizi:** Baru empat minit, baby. Aku guru yang garang.
 
-**Sum Dek Joe:** Memanglah. Tapi kembali kepada topik — saya rasa balik negara untuk berkhidmat, untuk menyumbang kepada perjuangan bersama, ini merupakan satu... panggilan. Dalam bahasa Melayu, "calling" tu apa? Panggilan. Panggilan. Ia sesuatu yang saya fikir merupakan panggilan yang perlu disahut. Sebab kat ASEAN Plus 3, pejabat dia berpangkalan di Singapura, jadi Singapura tu dekat je sebenarnya. Jadi saya ulang-alik lah JB dengan Singapura — walaupun saya duduk kat Singapura, saya pun ulang-alik cukup kerap. Jadi bagi saya, ia tidak sejauh berbanding dengan Papua New Guinea. Tapi saya rasa Malaysia layak mendapat yang jauh lebih baik. Apa yang kita ada sekarang langsung tak ada, atau sangat-sangat terhad, dalam perbincangan mengenai dasar, reformasi, apakah cara penyelesaian mengenai masalah-masalah jangka panjang. Itu langsung tidak dibentangkan atau dibangkitkan di mana-mana parti politik yang ada sekarang.
+**Sum Dek Jo:** Memanglah. Tapi kembali kepada topik — saya rasa balik negara untuk berkhidmat, untuk menyumbang kepada perjuangan bersama, ini merupakan satu... panggilan. Dalam bahasa Melayu, "calling" tu apa? Panggilan. Panggilan. Ia sesuatu yang saya fikir merupakan panggilan yang perlu disahut. Sebab kat ASEAN Plus 3, pejabat dia berpangkalan di Singapura, jadi Singapura tu dekat je sebenarnya. Jadi saya ulang-alik lah JB dengan Singapura — walaupun saya duduk kat Singapura, saya pun ulang-alik cukup kerap. Jadi bagi saya, ia tidak sejauh berbanding dengan Papua New Guinea. Tapi saya rasa Malaysia layak mendapat yang jauh lebih baik. Apa yang kita ada sekarang langsung tak ada, atau sangat-sangat terhad, dalam perbincangan mengenai dasar, reformasi, apakah cara penyelesaian mengenai masalah-masalah jangka panjang. Itu langsung tidak dibentangkan atau dibangkitkan di mana-mana parti politik yang ada sekarang.
 
 **Rafizi:** Jangan-jangan dia kata aku scam dia sudah. Tapi bukan YB paksa ke apa lah — entahlah, ajak, paksa kan.
 
-**Sum Dek Joe:** Langsung tak paksa. Ini memang secara sukarela, pro bono.
+**Sum Dek Jo:** Langsung tak paksa. Ini memang secara sukarela, pro bono.
 
 **Rafizi:** Sukarela. Cuma, yelah, Joe pernah jadi intern saya tahun 2014.
 
-**Sum Dek Joe:** Haa, 2014.
+**Sum Dek Jo:** Haa, 2014.
 
 **Rafizi:** Ketika awak dalam tahun pertama — selepas tahun pertama, masuk ke tahun kedua?
 
-**Sum Dek Joe:** Masuk ke tahun kedua.
+**Sum Dek Jo:** Masuk ke tahun kedua.
 
 **Rafizi:** Haa, jadi dia pernah jadi intern saya. Ini kepada yang muda-muda, umur 30-an semua ni kan — mungkin pada masa itulah saya ingat yang berpendidikan, umur 30-an, boleh bandingkan antara masalah yang ada, sebab dia dah melalui proses itu, dah bekerja, dah ada pengalaman, dan juga boleh bandingkan dengan tawaran penyelesaian yang ada daripada parti-parti dan ahli-ahli politik. Jadi siapa-siapa yang nak buat kerja gila macam Joe — letak jawatan dan tumpu untuk sama-sama membina bersama — saya alu-alukan. Bayaran gajinya ialah sepuluh sen.
 
@@ -212,23 +212,23 @@ Jadi saya telah menerima lama dahulu bahawa netizen yang jahat-jahat, yang suka 
 
 **Haziq:** Yelah, katanya tak boleh, sebab CE — Ganjaran Pekerja (Compensation of Employees) — kita cuma 33%, sebagai bahagian —
 
-**Sum Dek Joe:** Sebagai bahagian daripada perakaunan negara —
+**Sum Dek Jo:** Sebagai bahagian daripada perakaunan negara —
 
 **Haziq:** Sebagai bahagian daripada —
 
-**Sum Dek Joe:** KDNK lah.
+**Sum Dek Jo:** KDNK lah.
 
 **Haziq:** Dan produktiviti kita dah meningkat, tapi gaji masih macam ni. Jadi tak boleh — kena buat ni, tapi penggal kedua. Komen, yo?
 
-**Sum Dek Joe:** Okey ini ada dua aspek lah. Aspek yang pertama, penggal kedua —
+**Sum Dek Jo:** Okey ini ada dua aspek lah. Aspek yang pertama, penggal kedua —
 
 **Rafizi:** Sangat yakin lah, Nurul Izzah — beria yakin. Okay, beria yakin sangat yakin pasal penggal kedua.
 
-**Sum Dek Joe:** Sebab saya rasa tak berapa kuat untuk — tak berapa yakin. Tapi secara peribadi, dari aspek saya sendiri, pada pendapat saya, saya rasa ia sebenarnya agak jauh untuk diorang menang di pilihan raya umum yang akan datang ini. Jadi ini poin pertama. Poin kedua, mengenai reformasi gaji ini — kenapa tak buat sekarang, kenapa perlu tunggu sampai penggal kedua baru buat?
+**Sum Dek Jo:** Sebab saya rasa tak berapa kuat untuk — tak berapa yakin. Tapi secara peribadi, dari aspek saya sendiri, pada pendapat saya, saya rasa ia sebenarnya agak jauh untuk diorang menang di pilihan raya umum yang akan datang ini. Jadi ini poin pertama. Poin kedua, mengenai reformasi gaji ini — kenapa tak buat sekarang, kenapa perlu tunggu sampai penggal kedua baru buat?
 
 **Rafizi:** Yelah, memang dah ada beberapa dasar yang sedang dijalankan, dilaksanakan, tapi kita tak perlu tunggu penggal kedua.
 
-**Sum Dek Joe:** Awak boleh mula terus. Jadi saya langsung tak faham apa konteks dia, kenapa nak tunggu sampai penggal kedua baru mula.
+**Sum Dek Jo:** Awak boleh mula terus. Jadi saya langsung tak faham apa konteks dia, kenapa nak tunggu sampai penggal kedua baru mula.
 
 **Rafizi:** Tapi kita nak cari punchline beria kan?
 
@@ -276,19 +276,19 @@ Jadi saya telah menerima lama dahulu bahawa netizen yang jahat-jahat, yang suka 
 
 **Rafizi:** Itu daripada Chang Hong Siong — "terima kasih YB atas pendapat anda yang adil. Pusat Perkhidmatan Seri Kuantan kami telah disediakan untuk mengagihkan 70 bakul makanan kepada orang miskin pada 26 Julai, tetapi diketahui bahawa dua ahli PKR Kuantan Indera Mahkota memaksa penerima untuk menandatangani dan memohon menjadi ahli parti." Namun — haa, ini memalukan — hampir setiap penerima menolak keadaan ini, jadi mereka berhenti mengagihkan.
 
-**Sum Dek Joe:** Jadi mereka tak umumkan awal lah?
+**Sum Dek Jo:** Jadi mereka tak umumkan awal lah?
 
 **Rafizi:** Dia ada syarat ni.
 
-**Sum Dek Joe:** Dia cakap saja nak bagi bakul makanan —
+**Sum Dek Jo:** Dia cakap saja nak bagi bakul makanan —
 
 **Rafizi:** Sama juga yang minggu lepas, Joe — yang itu lagi memalukan lah, kerana mereka kutip nama dan juga nombor telefon untuk bagi bakul makanan. Lepas tu, apparently ada tuduhan kata dia pasang aplikasi juga atas telefon itu sekali lah. Jadi ia jadi isu yang tular bila ada yang tiba-tiba mendapati dia dapat SMS cakap dia dah masuk PKR — dia tak masuk PKR lah. Jadi, ialah, yang ini memalukan lah, sebab Farhan ni ialah — setiap usaha politik Dato' Sri Anwar — anak emas. Anak emas Dato' Sri Anwar, betul lah kan.
 
-**Sum Dek Joe:** Apa nama ni, jadi — saya ingat anak emas Dato' Sri Anwar Ibrahim sekarang, dia berkilau.
+**Sum Dek Jo:** Apa nama ni, jadi — saya ingat anak emas Dato' Sri Anwar Ibrahim sekarang, dia berkilau.
 
 **Rafizi:** Dia banyak anak emas.
 
-**Sum Dek Joe:** Dia banyak anak emas.
+**Sum Dek Jo:** Dia banyak anak emas.
 
 **Rafizi:** Baik, tarik balik, kau, disaman kau — maaf, tarik balik yang ini. Kalau boleh dipertahankan di mahkamah kalau dia panggil — kalau saya kata ini anak emas Datuk Seri Anwar, jadi fahamlah yang PKR dan Datuk Seri Anwar nak sangat bagi kepada saudara Farhan ni untuk menang pilihan raya kan, tapi dia tak boleh sampai ke peringkat begini lah kan. Jadi, cerita "scam" orang buat semua tu satu perkara lah, benda tu akan orang ambil, orang tahu jugalah, dan dia akan berbalik menyerang. Tapi saya daripada dulu — walaupun orang selalu kritik, walaupun ada risiko, bagi saya, kerana dalam politik, Joe, ada dilema ini bahawa awak perlu menjerit dan mempromosikan apa yang awak buat. Sebab orang kita macam sama lah, netizen semua ni kan — komen dia pasal Bersama, aku tengok sekarang macam dah tak ada benda lain dia nak komen, komen dia ialah "parti ni tidak akan berjaya kerana parti ni tak ada duit." Jadi masyarakat kita memang menerima seolah-olah rasuah itu satu keperluan dalam politik. Sama juga untuk ahli politik — masyarakat menerima "meniup trompet dan pukul gendang" itu adalah keperluan dalam politik kan, itu keperluan ahli politik — awak kena cari cara macam mana nak berkomunikasi kan. Tapi saya daripada dulu tak pernah buat — saya tak fikir, jarang sangat lah awak tengok aku ni sampaikan sumbangan kepada orang. Bukannya sebab aku tak sampaikan sumbangan kepada orang, tapi saya fikir kalau saya jadi orang miskin itu — awak nak tolong, awak tolong lah, jangan buat apa nama ni, jadikan konten daripada saya. Sebab saya mungkin memalukan tau, saya mungkin tak mahu orang tahu yang saya menerima bantuan, kerana awak tahu, saya ada keadaan saya, anak saya nak pergi sekolah kan. Kita pun tak nak tahu, tak nak, sebenarnya kalau boleh lah — sebab tu dalam Islam kan, kalau tangan kanan bagi, tangan kiri tak boleh tahu.
 
@@ -298,27 +298,27 @@ Sebaliknya, kita nak ahli politik ni berkualiti, bermutu — sebaliknya, sebahag
 
 **Rafizi:** Tak tahu, cuba tanya Joe — berapa lama awak duduk di Australia?
 
-**Sum Dek Joe:** Hampir 10 tahun.
+**Sum Dek Jo:** Hampir 10 tahun.
 
 **Rafizi:** 5 tahun?
 
-**Sum Dek Joe:** 5 tahun kat Australia, dan kemudian Papua New Guinea 2 tahun.
+**Sum Dek Jo:** 5 tahun kat Australia, dan kemudian Papua New Guinea 2 tahun.
 
 **Rafizi:** Papua New Guinea 5 juga? Ya Allah. Kemudian, bagus — tengok wakil rakyat Papua New Guinea dengan wakil rakyat Australia, itu dia agak sama.
 
-**Sum Dek Joe:** Papua New Guinea, mutu MP Papua New Guinea macam sama dengan Malaysia — memang sama lah.
+**Sum Dek Jo:** Papua New Guinea, mutu MP Papua New Guinea macam sama dengan Malaysia — memang sama lah.
 
 **Rafizi:** Australia?
 
-**Sum Dek Joe:** Australia lebih bertamadun lah, jelas sekali.
+**Sum Dek Jo:** Australia lebih bertamadun lah, jelas sekali.
 
 **Rafizi:** Maksudnya?
 
-**Sum Dek Joe:** Bertamadun dalam erti kata perbincangan yang mereka bawa lebih berorientasikan dasar, lebih berdasarkan kepada dasar — jadi tak banyak retorik lah macam Malaysia.
+**Sum Dek Jo:** Bertamadun dalam erti kata perbincangan yang mereka bawa lebih berorientasikan dasar, lebih berdasarkan kepada dasar — jadi tak banyak retorik lah macam Malaysia.
 
 **Rafizi:** Yang macam ini tak ada — ahli parlimen Australia pergi bahagikan kotak makanan semua ni kot?
 
-**Sum Dek Joe:** Biasanya tak ada. Dan juga, saya rasa YB tadi ada bawa satu poin yang sangat penting, iaitu perlindungan sosial. Sebab kat Malaysia, perlindungan sosial, terutama bantuan sosial, langsung tak ada apa-apa undang-undang yang menjadi asasnya. Ia tak macam — katakanlah, amalan terbaik lah kalau tengok, macam standard antarabangsa, penanda aras Pertubuhan Buruh Antarabangsa (ILO) — biasanya mereka menggalakkan negara untuk institusikan bantuan sosial supaya penerima boleh menerima dengan lebih bermaruah. Sebab sekarang, awak — maksud saya, katakanlah apa yang YB kata tadi lah, jadi kalau awak penerima, kadang-kadang awak rasa sedikit malu, sebab ia bukan salah awak, tapi entah macam mana memang ada pembelaan, ataupun... Jadi kadang-kadang awak cuma tak nak orang tahu. Tapi kalau macam situasi ni, semua orang tahu lah.
+**Sum Dek Jo:** Biasanya tak ada. Dan juga, saya rasa YB tadi ada bawa satu poin yang sangat penting, iaitu perlindungan sosial. Sebab kat Malaysia, perlindungan sosial, terutama bantuan sosial, langsung tak ada apa-apa undang-undang yang menjadi asasnya. Ia tak macam — katakanlah, amalan terbaik lah kalau tengok, macam standard antarabangsa, penanda aras Pertubuhan Buruh Antarabangsa (ILO) — biasanya mereka menggalakkan negara untuk institusikan bantuan sosial supaya penerima boleh menerima dengan lebih bermaruah. Sebab sekarang, awak — maksud saya, katakanlah apa yang YB kata tadi lah, jadi kalau awak penerima, kadang-kadang awak rasa sedikit malu, sebab ia bukan salah awak, tapi entah macam mana memang ada pembelaan, ataupun... Jadi kadang-kadang awak cuma tak nak orang tahu. Tapi kalau macam situasi ni, semua orang tahu lah.
 
 **Rafizi:** Tambah kalau kat Malaysia, bila politik ni sangat memecah-belah kan — jadi kalau keluar gambar orang tu menerima bantuan daripada PAS, terus jadi "orang PAS." Orang ni menerima bantuan daripada PKR, terus jadi "orang PKR." Padahal sebenarnya dia orang susah — kan, siapa-siapa patut pergi bantu dia kan. Jadi, tapi selagi kita tak sampai ke peringkat itu, benda ni akan berulang-ulang lah, budaya-budaya macam ni. Sebab pada pandangan aku lah, mungkin orang tak bersetuju lah, ia sebenarnya tidak lah selari sangat dengan semangat yang ada sebagai orang Islam pun. Awak nak bantu, awak bantu, awak bagi zakat, awak tak cakap kat semua orang tu "aku bagi zakat, ini zakat itu" — awak tolong-tolong lah, sebenarnya ia sebahagian daripada kehidupan kita yang menjadi milik masyarakat kan. Jadi ia baik untuk masyarakat, itu satu. Ia juga baik untuk kita — ia untuk kepuasan kita, kita bantu, kita rasa gembira, dan ia antara kita dengan Tuhan, tau. Bukan sebab itu kalau majlis bagi sumbangan itu — yang ini pun kita tak tahu duit kotak makanan itu dari mana, duit dia sendiri ke atau dari mana. Setahu awak sahaja ia bantuan kerajaan, peruntukan kerajaan. Dan kalau ada sumbangan — sumbangan itu, adakah yang menyumbang itu toke-toke besar yang menggunakan sumbangan ini untuk jadi rapat dengan mereka yang berkuasa? Jadi ia terlalu banyak soalan-soalan yang perlu dijawab.
 
@@ -332,7 +332,7 @@ Sebaliknya, kita nak ahli politik ni berkualiti, bermutu — sebaliknya, sebahag
 
 **Haziq:** Apa —
 
-**Sum Dek Joe:** Penawaran — tapi penawaran itu seharusnya dibekalkan oleh kerajaan, bukan parti politik. Jadi kalau kita institusikan program bantuan sosial, maka seharusnya penawaran itu datang daripada pihak kerajaan, bukanlah parti politik.
+**Sum Dek Jo:** Penawaran — tapi penawaran itu seharusnya dibekalkan oleh kerajaan, bukan parti politik. Jadi kalau kita institusikan program bantuan sosial, maka seharusnya penawaran itu datang daripada pihak kerajaan, bukanlah parti politik.
 
 **Haziq:** Okey, kita beria komen benda ni. Dah lama aku tengok ni, Beria ni dah 40 minit. Kita ada dua lagi, baby. Selamat datang kepada tetamu kita yang tak pernah datang — terima kasih. Jayakumar tutup kes 2024 baru umum 2026. Ini bila saudara Anwar Ibrahim membuat "rumah bangsa" versi PKR lah — tapi YB tak kena jemput lah, kesian.
 
@@ -422,15 +422,15 @@ Jadi kalau budaya itu, dua tiga tahun daripada sekarang, memang dah diterima pol
 
 **Haziq:** —mana yang paling—
 
-**Sum Dek Joe:** —beria. Bagi saya, saya rasa Mahal—
+**Sum Dek Jo:** —beria. Bagi saya, saya rasa Mahal—
 
 **Rafizi:** Oh, bukan Fahani. Fahal—
 
-**Sum Dek Joe:** Fauzi. Saya rasa Fahal—
+**Sum Dek Jo:** Fauzi. Saya rasa Fahal—
 
 **Rafizi:** Fauzi lah. Beria cari ahli.
 
-**Sum Dek Joe:** Dan menghina rakyat juga. Menghina rakyat.
+**Sum Dek Jo:** Dan menghina rakyat juga. Menghina rakyat.
 
 **Haziq:** Baik, malu apa bosku? Malu apa bosku. Kita terus ke "Hidup Keras, Tak Puas Hati."
 
@@ -450,19 +450,19 @@ Jadi kalau budaya itu, dua tiga tahun daripada sekarang, memang dah diterima pol
 
 **Rafizi:** Mujur ada Joe yang boleh kongsi pengalaman dia jadi pensyarah — berapa lama YB jadi pensyarah di ANU?
 
-**Sum Dek Joe:** Kira-kira dua tahun lah.
+**Sum Dek Jo:** Kira-kira dua tahun lah.
 
 **Rafizi:** Dua tahun. Pernah ajar budak Malaysia tak?
 
-**Sum Dek Joe:** Pernah, ada pelajar Malaysia. Dan pada masa itu saya mula sebagai tutor dulu, lepas itu kena naik pangkat jadi pensyarah juga. Jadi ada budak-budak Malaysia juga.
+**Sum Dek Jo:** Pernah, ada pelajar Malaysia. Dan pada masa itu saya mula sebagai tutor dulu, lepas itu kena naik pangkat jadi pensyarah juga. Jadi ada budak-budak Malaysia juga.
 
 **Rafizi:** Jadi macam mana mengajar budak Australia di ANU eh? Setakat ini baik-baik sahaja ke, langsung tak ada masalah? Maksudnya dia tak ada cakap, "Alah, saya tak nak lah pensyarah ni orang Malaysia, saya datang ke Australia untuk dapat pensyarah Australia"?
 
-**Sum Dek Joe:** Tak, saya rasa di sini kerana saya ada buat kerja rumah sikit lah — jadi saya buat kajian sendiri, dan nampak, wah, memang ada banyak kod etika yang pensyarah perlu mematuhi.
+**Sum Dek Jo:** Tak, saya rasa di sini kerana saya ada buat kerja rumah sikit lah — jadi saya buat kajian sendiri, dan nampak, wah, memang ada banyak kod etika yang pensyarah perlu mematuhi.
 
 **Haziq:** Oh, okay.
 
-**Sum Dek Joe:** Di IPTA Malaysia — di sana langsung kita tak ada. Setakat pengetahuan saya lah, kontrak kena ditandatangani, kena dinyatakan, "Oh, ini kod etika yang kita perlu patuhi kalau jadi pensyarah." Jadi tak ada, langsung tak ada. Jadi saya agak terkejut apabila saya tengok, wah, panjang betul senarainya.
+**Sum Dek Jo:** Di IPTA Malaysia — di sana langsung kita tak ada. Setakat pengetahuan saya lah, kontrak kena ditandatangani, kena dinyatakan, "Oh, ini kod etika yang kita perlu patuhi kalau jadi pensyarah." Jadi tak ada, langsung tak ada. Jadi saya agak terkejut apabila saya tengok, wah, panjang betul senarainya.
 
 **Haziq:** Jadi, Haziq — jadi? Itu akan kita bincangkan secara terperinci lah. Tapi yang pertamanya, mungkin saya nak tanya pandangan YB atau Joe: pengumuman yang tiba-tiba ini, apa pandangan YB?
 
@@ -470,7 +470,7 @@ Jadi kalau budaya itu, dua tiga tahun daripada sekarang, memang dah diterima pol
 
 Masalahnya, sebelum-sebelum ini, daripada pengalaman saya sendiri, bila kita nak buat sesuatu, selalunya PM yang kata, "Oh, yang ini tak boleh, nanti orang tak suka. Oh, yang ini tak boleh." Saya tak nampak sangat pun bangkangan itu daripada UMNO kan. Jadi bila Dato' Sri Anwar umumkan pemansuhan AUKU secara tiba-tiba di Kongres PKR, saya tak rasa ia dibincangkan lagi dengan kabinet atau apa. Saya tak rasa pun ia dibawa ke mana-mana forum rasmi kan. Itu bermakna, itulah kuasa sebenar seorang Perdana Menteri.
 
-**Sum Dek Joe:** Berunding dengan kabinet dulu.
+**Sum Dek Jo:** Berunding dengan kabinet dulu.
 
 **Rafizi:** Tidak, dia kena bawa ke kabinet. Okay, itu perbincangan seterusnya lah, sebab reaksi awal daripada beberapa pihak ialah proses ini perlu melalui kabinet. Kita kena tengok lepas ini, sebab pada masa yang sama, Menteri Pendidikan Tinggi, Datuk Seri Zambry — saya rasa selepas pengumuman pemansuhan AUKU ini, atau mungkin sebelumnya — dia pun kata Kementerian Pendidikan Tinggi sedang mengusahakan satu akta bersepadu mengenai pendidikan tinggi. Sebab itu ada pihak kata, kita kena tengok apa yang akan datang selepas AUKU. Kalau anda mansuhkan AUKU, lepas itu buat akta baru tapi sama atau pun lebih teruk daripada AUKU, buat apa nak mansuhkan AUKU kan?
 
@@ -500,13 +500,13 @@ Satu lagi, yang sama penting, ialah kemampuan kewangan dari perspektif pelajar. 
 
 **Haziq:** Mungkin kalau saya tanya Joe terus — adakah dilema ini turut wujud di universiti-universiti luar negara, mungkin daripada pengalaman anda?
 
-**Sum Dek Joe:** Memang, saya rasa apa yang YB kata tadi memang betul. Jadi ia memang perlu mencapai satu keseimbangan di antara pembiayaan sendiri dengan kepentingan komersial dan kemampanan. Jadi, katakan satu universiti itu memang didorong secara komersial, itu tak baik — objektifnya bukan sekadar menggalakkan lebih ramai bakat, tapi ada pulangan sosial dan tanggungjawab sosial juga. Jadi, tentunya dari segi perspektif ekonomi, kerajaan perlulah memainkan peranan dalam pembiayaan universiti. Sebenarnya, kebanyakan peruntukan datang dari kerajaan sendiri, dan ini sebenarnya mencipta masalah seperti yang YB kata tadi — ia ada kaitan antara IPTA dengan pasaran kerja, sebab IPTA langsung tak ada insentif untuk beradaptasi kepada apa yang pasaran mahukan, sebab kebanyakan peruntukan datang dari kerajaan. Jadi buat apa nak beradaptasi — kebanyakan masa, universiti hanya mengikut status quo.
+**Sum Dek Jo:** Memang, saya rasa apa yang YB kata tadi memang betul. Jadi ia memang perlu mencapai satu keseimbangan di antara pembiayaan sendiri dengan kepentingan komersial dan kemampanan. Jadi, katakan satu universiti itu memang didorong secara komersial, itu tak baik — objektifnya bukan sekadar menggalakkan lebih ramai bakat, tapi ada pulangan sosial dan tanggungjawab sosial juga. Jadi, tentunya dari segi perspektif ekonomi, kerajaan perlulah memainkan peranan dalam pembiayaan universiti. Sebenarnya, kebanyakan peruntukan datang dari kerajaan sendiri, dan ini sebenarnya mencipta masalah seperti yang YB kata tadi — ia ada kaitan antara IPTA dengan pasaran kerja, sebab IPTA langsung tak ada insentif untuk beradaptasi kepada apa yang pasaran mahukan, sebab kebanyakan peruntukan datang dari kerajaan. Jadi buat apa nak beradaptasi — kebanyakan masa, universiti hanya mengikut status quo.
 
 **Rafizi:** Orang akan kata, "Sekurang-kurangnya Joe pernah jadi pensyarah." Aku pula hanya bercita-cita untuk jadi pensyarah, tapi tak pernah jadi pensyarah kan — lebih banyak cita-cita je. Tak, aku memang ada, kecil-kecil dulu, nak jadi pensyarah. Anda boleh agak kan, aku boleh bercakap tiga jam. Garang lah — aku seorang cikgu yang garang kalau jadi pensyarah. Memang betul, satu-satunya cita-cita aku masa kecil-kecil dulu ialah nak jadi pensyarah. Tapi bila aku masuk sekolah menengah, cita-cita itu dah tak ada — cita-cita aku masa sekolah menengah ialah aku nak dapat biasiswa. Aku sebenarnya memohon untuk jadi peguam, sebab aku ni praktikal, aku tak pernah kongkong diri kepada satu pandangan sempit sahaja. Aku rasa orang macam aku ini lebih sesuai untuk aliran sastera — mungkin jadi peguam atau ahli sejarah. Aku nak dapat biasiswa untuk undang-undang atau sejarah. Tapi mana ada biasiswa untuk undang-undang dan sejarah — semua pelajar aliran sains tulen. Jadi semua tawaran yang aku dapat semuanya dalam sains tulen lah — ahli sains geo ke, jurutera petroleum ke. Masa itu yang bagi biasiswa kebanyakannya syarikat minyak dan gas. Jadi Petronas — aku kata tak nak mekanikal, kimia semua ni. Petroleum, jadi kejuruteraan berat. Dan kebetulan aku suka matematik dan fizik. Malah di universiti, semasa buat kejuruteraan elektronik, cita-cita aku tak ada — tak spesifik nak jadi jurutera ke apa. Aku nak buat duit je. Sebab itulah aku akhirnya jadi akauntan bertauliah — itu bayaran gaji tinggi — jadi aku masuk bidang itu.
 
 Kembali kepada soal universiti ini — mungkin ramai yang menonton ini pun daripada latar belakang universiti, dan saya rasa orang ramai tak banyak perbincangan atau wacana awam yang betul-betul mengupas struktur atau model yang kita ada. Kita ambil contoh model yang kita ada lah — kita ada dua aliran, satu universiti awam, satu lagi universiti swasta. Jadi semua yang berkaitan dengan AUKU ini sebenarnya berpunca daripada hakikat bahawa hanya kerajaan yang mampu menubuhkan universiti untuk orang ramai. Universiti swasta pun banyak, dan sekarang semakin baik lah, orang sebenarnya mengambil pinjaman atau membiayai sendiri melalui PTPTN. Tapi kebanyakannya, universiti awam lah — kita ada lebih kurang 20 universiti awam, campur dengan UIA yang tak dikira secara rasmi sebagai universiti awam. Satu lagi ialah UPNM, satu lagi UiTM. UPNM, UiTM, UIA — tak pakai AUKU. Jadi, kesemuanya, lebih kurang 23 universiti awam lah kan.
 
-**Sum Dek Joe:** Well, itu pun sebenarnya agak boleh dipertikaikan kalau anda kata tak pakai AUKU, Aziz. Tiga universiti itu — sebenarnya empat. UIA ditubuhkan sebagai sebuah syarikat. UiTM ada akta dia sendiri, Akta ITM, saya rasa tahun 76 ke apa. Kemudian UPNM, dan satu lagi, Universiti Malaya—
+**Sum Dek Jo:** Well, itu pun sebenarnya agak boleh dipertikaikan kalau anda kata tak pakai AUKU, Aziz. Tiga universiti itu — sebenarnya empat. UIA ditubuhkan sebagai sebuah syarikat. UiTM ada akta dia sendiri, Akta ITM, saya rasa tahun 76 ke apa. Kemudian UPNM, dan satu lagi, Universiti Malaya—
 
 **Haziq:** UM ada akta sendiri.
 
@@ -518,11 +518,11 @@ Jadi kalau kita kembali kepada soal mutu pendidikan — sebenarnya yang kita nak
 
 Jadi kalau soal tatatertib pula — AUKU ini ditulis untuk mengawal; nak kawal itu, kawal ini, semua. Jadi ia bertentangan dengan prinsip pendidikan tinggi dan prinsip mencambahkan pengetahuan, kerana kalau yang ini tak boleh komen, yang ini tak boleh — ini sebelum kita sampai pun kepada soal pembiayaan. Maka akhirnya kita menghasilkan universiti yang dimandulkan. Dan soal universiti yang dimandulkan ini — kalau kita tanya Adam Adli 15 tahun yang lepas, masa dia demo AUKU dulu, perspektif pasal AUKU ini 100% mengenai siswa. Tapi sebenarnya yang lebih besar bukan siswa, tapi pensyarah. Kalau pensyarah itu memang dah diikat kiri kanan, dah dimandulkan, macam mana dia nak mencari ilmu baru? Kerana mereka tak boleh. Kalau dia sendiri mandul, maka siswa di bawahnya pun turut mandul lah.
 
-**Sum Dek Joe:** Sebab memang ada satu perundangan — tak pasti YB tahu ke tak — Akta 605. Itu yang sebenarnya mentadbir tatatertib universiti awam. Akta 605 itu Akta Badan-Badan Berkanun. Universiti awam, IPTA, ditadbir sebagai badan berkanun kerana boleh ambil wang dari kerajaan. Kalau tak silap, ada satu seksyen — seksyen dua rasanya — yang menyatakan seseorang pegawai tidak boleh, sama ada secara lisan atau bertulis atau dengan apa-apa cara lain, membuat sebarang ulasan tentang kelebihan mana-mana dasar, rancangan, atau keputusan badan berkanun atau kerajaan. Ia sangat jelas. Jadi pensyarah-pensyarah langsung tak boleh buat apa-apa komen. Sudah tentu, ada pengecualian bagi beberapa fakulti — macam pensyarah perubatan, pensyarah pergigian, dan pensyarah farmasi.
+**Sum Dek Jo:** Sebab memang ada satu perundangan — tak pasti YB tahu ke tak — Akta 605. Itu yang sebenarnya mentadbir tatatertib universiti awam. Akta 605 itu Akta Badan-Badan Berkanun. Universiti awam, IPTA, ditadbir sebagai badan berkanun kerana boleh ambil wang dari kerajaan. Kalau tak silap, ada satu seksyen — seksyen dua rasanya — yang menyatakan seseorang pegawai tidak boleh, sama ada secara lisan atau bertulis atau dengan apa-apa cara lain, membuat sebarang ulasan tentang kelebihan mana-mana dasar, rancangan, atau keputusan badan berkanun atau kerajaan. Ia sangat jelas. Jadi pensyarah-pensyarah langsung tak boleh buat apa-apa komen. Sudah tentu, ada pengecualian bagi beberapa fakulti — macam pensyarah perubatan, pensyarah pergigian, dan pensyarah farmasi.
 
 **Rafizi:** Dia tak boleh komen sekejap gigi aku ke?
 
-**Sum Dek Joe:** Tapi mengenai dasar-dasar kerajaan, langsung tak boleh komen.
+**Sum Dek Jo:** Tapi mengenai dasar-dasar kerajaan, langsung tak boleh komen.
 
 **Haziq:** Kita ada penganalisis politik yang boleh kritik YB je lah.
 
@@ -542,19 +542,19 @@ Ia jadi macam kes di UM dulu — ingat tak, ada satu jemputan kepada seorang ahl
 
 Kalau di Australia macam mana?
 
-**Sum Dek Joe:** Australia sebenarnya agak menarik. Sebagai contoh, saya tak boleh cakap bagi semua universiti lah, tapi untuk universiti saya, Australian National University, lantikan naib canselor dibuat oleh ANU Council. Dan majlis itu langsung tak ada — berbanding dengan Malaysia, di mana naib canselor memang dilantik oleh menteri. Tapi di ANU atau universiti-universiti lain di Australia, ia dilantik oleh lembaga, majlis masing-masing.
+**Sum Dek Jo:** Australia sebenarnya agak menarik. Sebagai contoh, saya tak boleh cakap bagi semua universiti lah, tapi untuk universiti saya, Australian National University, lantikan naib canselor dibuat oleh ANU Council. Dan majlis itu langsung tak ada — berbanding dengan Malaysia, di mana naib canselor memang dilantik oleh menteri. Tapi di ANU atau universiti-universiti lain di Australia, ia dilantik oleh lembaga, majlis masing-masing.
 
 **Rafizi:** ANU ini universiti awam yang dibiayai oleh kerajaan?
 
-**Sum Dek Joe:** Ya, dan ANU pun ada satu akta sendiri juga. Jadi langsung tak ada pengaruh politik atau menteri di dalamnya.
+**Sum Dek Jo:** Ya, dan ANU pun ada satu akta sendiri juga. Jadi langsung tak ada pengaruh politik atau menteri di dalamnya.
 
 **Rafizi:** Siapa yang lantik ahli-ahli lembaga?
 
-**Sum Dek Joe:** Itu soalannya lah. Lembaga itu — kalau tak silap, ada 12 orang. Enam terdiri daripada ahli akademik dan pelajar, jadi perwakilan mahasiswa. Dan ada enam lagi, kalau tak silap, terdiri daripada lantikan menteri, tapi atas cadangan satu jawatankuasa — cadangan jawatankuasa itu namanya jawatankuasa pencalonan.
+**Sum Dek Jo:** Itu soalannya lah. Lembaga itu — kalau tak silap, ada 12 orang. Enam terdiri daripada ahli akademik dan pelajar, jadi perwakilan mahasiswa. Dan ada enam lagi, kalau tak silap, terdiri daripada lantikan menteri, tapi atas cadangan satu jawatankuasa — cadangan jawatankuasa itu namanya jawatankuasa pencalonan.
 
 **Rafizi:** Jawatankuasa pencalonan di kementerian, atau jawatankuasa pencalonan universiti?
 
-**Sum Dek Joe:** Itu saya tak pasti sangat. Tapi sekurang-kurangnya, dengan enam-enam ini, anda masih ada keseimbangan yang adil lah dalam universiti.
+**Sum Dek Jo:** Itu saya tak pasti sangat. Tapi sekurang-kurangnya, dengan enam-enam ini, anda masih ada keseimbangan yang adil lah dalam universiti.
 
 **Haziq:** Bercakap tentang autonomi universiti tadi, YB dan Joe dah terangkan secara terperinci dilema besar ini — macam mana nak seimbangkan semua. Tapi, sekali lagi, kalau kita memberikan autonomi kepada universiti dalam keadaan kerajaan masih bagi duit tapi kerajaan tak boleh menentukan hala tuju universiti — sebagai contoh, YB banyak sebut antara masalah besar dalam universiti sekarang ialah kursus-kursus yang tak relevan, dan ini akan mempengaruhi kerajaan sebab isu pengangguran dan sebagainya — dalam keadaan kerajaan bagi duit kepada universiti tetapi disebabkan autonomi kerajaan tak boleh campur tangan langsung, macam mana perkara itu boleh berlaku?
 
@@ -578,7 +578,7 @@ Jadi, kalau ia tak ada satu saiz yang sesuai untuk semua kan. Cuma, kalau kita t
 
 Jadi kalau kita tengok model di Eropah, di US, di Australia, di Jepun, di Korea Selatan, ini boleh dikategorikan sebagai satu lah — memang betul, di US kan, tapi di banyak negara lain, universiti sebahagiannya dibiayai oleh dana awam.
 
-**Sum Dek Joe:** Sebab dia ada tanggungjawab sosialnya.
+**Sum Dek Jo:** Sebab dia ada tanggungjawab sosialnya.
 
 **Rafizi:** Jadi, dia sebahagiannya dibiayai oleh dana awam. Jadi kerajaan memang bagi geran — nanti kita bincang bentuk-bentuk geran yang mungkin boleh dipertimbangkan untuk mencapai satu keseimbangan. Jadi kerajaan bagi geran, tapi kalaupun kerajaan ada wakil, dia hanya ada wakil di lembaga. Komposisi itu perlu dibangunkan supaya ia tidak menjadi sekadar pengesah rasmi (rubber stamp). Jadi lembaga selalunya begitu — di Malaysia atau di mana-mana pun, selalunya kumpulan wakil dalam lembaga pengarah universiti mestilah ada wakil daripada kerajaan, untuk memastikan tanggungjawab sosial ada penyelarasan dengan dasar kerajaan. Tambah pula, kalau di Malaysia, isu kemasukan universiti, isu ekuiti semua ini lebih sensitif — semua sangat sensitif, orang bergaduh tiap-tiap tahun kan. Jadi kena ada wakil kerajaan, kena ada wakil akademik, kemudian kena ada wakil industri, kena ada wakil tokoh terkemuka, dan kena ada wakil sama ada pelajar atau wakil kakitangan akademik. Dan satu lagi yang selalu diletakkan ialah wakil alumni. Jadi sama ada 10 orang, 12 orang, atau 15 orang, mereka dapat autonomi — dan mereka yang menentukan serta bertanggungjawab kepada geran yang diperolehi, bertanggungjawab sepenuhnya kepada kemampanan universiti.
 
@@ -604,23 +604,23 @@ Kalau Dato' Sri Anwar betul-betul seorang reformis, seluruh perkara tentang auto
 
 **Rafizi:** Banyak songit lah.
 
-**Sum Dek Joe:** Apa masalahnya ni?
+**Sum Dek Jo:** Apa masalahnya ni?
 
 **Rafizi:** Kau ingat ni kucing T20 mana ni? Masa dulu dia kucing... Saya rasa dia memang kucing T20 — makan pun makanan mahal lah, gaya dia memang kucing T20. Cuma kalau dia ada kat sini aku nak ungkit — masa dia jadi kucing gelandangan dulu, bukan sahaja penuh habuk, makan pun tak ada. Kita orang yang kutip dia sekarang. Sekarang dia boleh komplen demam sebab ada habuk. Jadi dia ada di satu spektrum. Kita akan sentiasa ada — kebanyakannya dalam kalangan ahli akademik, saya rasa — golongan, termasuklah rakyat biasa, yang berpandangan universiti dan pendidikan tinggi adalah satu kebaikan sosial awam, dan oleh itu mesti dibiayai sepenuhnya oleh kerajaan. Jadi ini sebenarnya yang terbaik daripada kedua-dua dunia untuk universiti lah — dia dapat autonomi, mereka boleh buat apa sahaja yang mereka suka, memang minta je apa dapat kan. Tapi pandangan saya lah, ia akan ada kesan yang kita cakap tadi — bila tak ada insentif, jadi ada risiko keberhasilan universiti itu agak terkebelakang, ataupun ada jurang dengan keperluan masyarakat. Dan saya tak rasa ia hanya kes Malaysia sahaja, anda tahu — di mana-mana pun, bila orang pergi mendapatkan pendidikan tinggi, mereka mahukan pekerjaan yang baik selepas itu. Sebab ada orang yang berhujah, eh, tugas universiti ini bukan untuk cari kerja tau, tugas kita untuk bagi ilmu. Jadi saya tak tahu, masa awak jadi pensyarah dulu, macam mana?
 
-**Sum Dek Joe:** Objektif dia memang sangat jelas, iaitu untuk dapat satu kerja yang bergaji baik.
+**Sum Dek Jo:** Objektif dia memang sangat jelas, iaitu untuk dapat satu kerja yang bergaji baik.
 
 **Rafizi:** Maksud awak sebagai pensyarah?
 
-**Sum Dek Joe:** Tidak, tidak — sebagai pelajar.
+**Sum Dek Jo:** Tidak, tidak — sebagai pelajar.
 
 **Rafizi:** Yalah kan, sebagai pelajar. Tapi bila awak jadi pensyarah, macam mana awak ubah pemikiran awak macam itu? Sebab ramai pensyarah yang kata, "Eh, ini apa nak susah-susah sangat ni — kursus saya ni tak penting semua, bukan tanggungjawab saya nak bagi kerja kat pelajar, tugas saya ialah memberi ilmu." Untuk awak—
 
-**Sum Dek Joe:** Untuk saya, agak berbeza sikit, sebab semasa saya jadi pensyarah, saya juga jadi konsultan untuk Department of Foreign Affairs and Trade Australia. Malah di universiti sana, mereka sebenarnya menggalakkan kakitangan untuk mencari konsultasi untuk membiayai penyelidikan. Di Malaysia, saya rasa, agak berbeza sikit — segala-galanya memang terpulang kepada pihak universiti bila ia melibatkan pembiayaan. Jadi saya sentiasa menggalakkan pelajar saya untuk sentiasa belajar sesuatu yang praktikal — bukan hanya teori; sudah tentu teori anda perlu ada lah, tapi anda perlu ada sisi praktikal juga.
+**Sum Dek Jo:** Untuk saya, agak berbeza sikit, sebab semasa saya jadi pensyarah, saya juga jadi konsultan untuk Department of Foreign Affairs and Trade Australia. Malah di universiti sana, mereka sebenarnya menggalakkan kakitangan untuk mencari konsultasi untuk membiayai penyelidikan. Di Malaysia, saya rasa, agak berbeza sikit — segala-galanya memang terpulang kepada pihak universiti bila ia melibatkan pembiayaan. Jadi saya sentiasa menggalakkan pelajar saya untuk sentiasa belajar sesuatu yang praktikal — bukan hanya teori; sudah tentu teori anda perlu ada lah, tapi anda perlu ada sisi praktikal juga.
 
 **Haziq:** Jadi pemikiran sebagai pensyarah semasa awak di Australia adalah untuk memastikan perkara itu sepadan dengan keperluan pelajar dia lah?
 
-**Sum Dek Joe:** Ini tentang — saya rasa pada akhirnya, awak juga mahu mereka mendapat kerja yang baik dan kemudian mendapat gaji yang baik juga. Malaysia sebenarnya... jadi apa nama ini—
+**Sum Dek Jo:** Ini tentang — saya rasa pada akhirnya, awak juga mahu mereka mendapat kerja yang baik dan kemudian mendapat gaji yang baik juga. Malaysia sebenarnya... jadi apa nama ini—
 
 **Rafizi:** Sebab itu model itu kan — insentif itu tak ada rasanya di Malaysia. Kalau kita bincang secara terperinci kan, banyak keluhan lah. Kalau anda bercakap dengan pensyarah, sebahagiannya ialah birokrasi. Contohnya kalau penyelidikan, terutamanya kajian berasaskan teknologi, IP itu milik universiti. Jadi tak ada — dia nak komersialkan, maksudnya dia tak ada insentif, dia bekerja untuk universiti lah. Jadi dia kena ada sesuatu insentif peribadi kan. Kalau dia nak komersialkan pun, dia kena pergi melalui, saya rasa, macam pejabat inovasi universiti — panjang cerita kan. Jadi akhirnya, kalau anda jadi pensyarah, kenapa nak kacau semua ini? Jadi saya rasa kalau konsultasi pun, saya rasa universiti memang ada banyak buat syarikat konsultasi sendiri, jadi anda pada asasnya menjadi panel syarikat universiti berbanding, contohnya, anda diambil bekerja atau mendapat geran kerana reputasi akademik anda sendiri yang disegani.
 
@@ -628,17 +628,17 @@ Jadi kita ada dua ekstrim ini. Satu, dibiayai sepenuhnya — geran memang keraja
 
 **Rafizi:** Jadi apa yang saya selalu ingat — dan ini sangat kontroversial, orang akan kata aku ni gila Cina betul lah, kalau tak, "Teng Chow Ping" betul lah — ada satu model, iaitu model sekolah jenis kebangsaan Cina. Tengok sekolah kat Malaysia, kita ada tiga kategori. Satu kategori ialah sekolah kebangsaan yang dibiayai sepenuhnya oleh kerajaan — daripada modal kepada cikgu, semua dibiayai sepenuhnya. Satu lagi asasnya sekolah swasta lah, sekolah antarabangsa yang dibiayai sepenuhnya secara persendirian, tak dapat apa-apa daripada kerajaan, semua kena bayar. Tapi sebenarnya, SJKC berada di tengah-tengah, tau — SMJK juga, dia sebenarnya dapat geran per kapita, tapi itu tak cukup untuk mereka, jadi apa yang mereka buat ialah mereka sebenarnya mengenakan yuran tambahan, mereka kutip dana sendiri. Sebab itulah sekolah SJKC ni kadang-kadang, ya Allah kan—
 
-**Sum Dek Joe:** Kalau pergi SJKC ataupun SMJK, awak boleh nampak infrastrukturnya jauh lebih baik daripada SMK ataupun SK, walaupun tak dapat pembiayaan yang lengkap seperti SK. Tapi kalau tengok mutu dan infrastrukturnya, dia memang bertaraf dunia pertama.
+**Sum Dek Jo:** Kalau pergi SJKC ataupun SMJK, awak boleh nampak infrastrukturnya jauh lebih baik daripada SMK ataupun SK, walaupun tak dapat pembiayaan yang lengkap seperti SK. Tapi kalau tengok mutu dan infrastrukturnya, dia memang bertaraf dunia pertama.
 
 **Rafizi:** Sebab saya rasa SJKC dan SMJK ni, gaji cikgu dibayar oleh kementerian, tapi dia dapat geran per kapita je per tahun — yang lain tu dia kena kutip dana sendiri. Jadi universiti, sebenarnya, kalau nak imbangkan kan — asasnya satu geran asas, katakanlah kita panggil geran asas — memang kerajaan kena bagi. Geran asas maksudnya dia boleh ditanda aras kepada—
 
-**Sum Dek Joe:** —bilangan pelajar?
+**Sum Dek Jo:** —bilangan pelajar?
 
 **Rafizi:** Bilangan pelajar — bergantung macam mana dia nak tanda aras semua tu — keperluan minimum yang mutlak, ataupun bukan minimum mutlak, OPEX dan CAPEX yang munasabah yang dia perlukan.
 
 Sebab, okay — universiti punya rungutan sekarang ni lain pula lah, dan ia agak bercelaru, mungkin orang ramai tak faham. Universiti tak puas hati sebab, pada satu pihak — terutamanya universiti-universiti baik yang permintaannya tinggi ni — dia bergantung kepada geran kerajaan, dan kerajaan kata, "Awak bergantung kat kita," tapi dia tak boleh naikkan yuran. Dan sebab itu, mereka tak boleh berkembang seperti yang mereka mahu, mereka tak boleh menjadi seberorientasikan pasaran seperti yang mereka mahu. Pada satu tahap, ada benarnya. Contohnya, ambil UM lah — dia sudah berada di top 50 di dunia. Sebenarnya, kalau dia nak dapat pelajar antarabangsa, dia boleh dapat banyak, tau.
 
-**Sum Dek Joe:** Malah, di peringkat pasca siswazah—
+**Sum Dek Jo:** Malah, di peringkat pasca siswazah—
 
 **Rafizi:** —ramai nak masuk UM. Tapi dia kena imbangkan, sebab dia terikat dengan segala jenis peraturan, dia tak boleh buat sesuka hati. Sebab kalau, contohnya, dia ambil banyak pelajar antarabangsa, nanti ada yang kata, "Oh, tengok ni, di bawah Madani, universiti-universiti telah mengabaikan orang Malaysia untuk orang luar negara." Jadi, sebenarnya, mesti ada keseimbangan.
 
@@ -648,11 +648,11 @@ Jadi untuk mencari keseimbangan, saya sentiasa membayangkan dua jenis pembiayaan
 
 Jadi keseimbangan antara geran asas teras dengan keupayaan universiti untuk melaksanakan autonomi — untuk menawarkan kursus, untuk mengembangkan kursus mengikut apa yang pasaran perlukan, di mana permintaan lebih tinggi — membolehkan mereka menjadi lebih mampan dari segi kewangan pada masa depan. Payah nak buat, susah nak buat.
 
-**Sum Dek Joe:** Well, benda baik memang payah lah.
+**Sum Dek Jo:** Well, benda baik memang payah lah.
 
 **Rafizi:** Saya tak tahu, di Australia atau di mana-mana lain, macam mana?
 
-**Sum Dek Joe:** Maaf, sebelum pergi ke Australia, saya rasa ada satu isu yang mungkin perlu diulas lagi, iaitu isu PTPTN — sebab itu juga berkaitan secara langsung dengan isu kemampanan kewangan negara. Kalau kita tengok tabung PTPTN pada masa sekarang, PTPTN sebenarnya rugi banyak wang. Ada beberapa unsur di mana, contohnya, untuk pinjaman PTPTN, dia kenakan 1% — "Hijrah," kalau tak silap namanya — itu macam faedah dalam konteks Islam. Tapi 1% itu dia tak kompaun, jadi ia sebenarnya cuma dikira setiap tahun berdasarkan baki tertunggak awak. Tapi pada masa yang sama, kos untuk PTPTN mendapatkan dana untuk dipinjamkan kepada orang ramai adalah lebih kurang 3-4% — kadar pasaran lah. Jadi secara teknikalnya, selain daripada apa yang kerajaan sudah peruntukkan kepada KPT, iaitu Kementerian Pengajian Tinggi, kerajaan juga membayar kerugian pinjaman pengajian tinggi yang PTPTN kena tanggung. Jadi ini juga satu isu.
+**Sum Dek Jo:** Maaf, sebelum pergi ke Australia, saya rasa ada satu isu yang mungkin perlu diulas lagi, iaitu isu PTPTN — sebab itu juga berkaitan secara langsung dengan isu kemampanan kewangan negara. Kalau kita tengok tabung PTPTN pada masa sekarang, PTPTN sebenarnya rugi banyak wang. Ada beberapa unsur di mana, contohnya, untuk pinjaman PTPTN, dia kenakan 1% — "Hijrah," kalau tak silap namanya — itu macam faedah dalam konteks Islam. Tapi 1% itu dia tak kompaun, jadi ia sebenarnya cuma dikira setiap tahun berdasarkan baki tertunggak awak. Tapi pada masa yang sama, kos untuk PTPTN mendapatkan dana untuk dipinjamkan kepada orang ramai adalah lebih kurang 3-4% — kadar pasaran lah. Jadi secara teknikalnya, selain daripada apa yang kerajaan sudah peruntukkan kepada KPT, iaitu Kementerian Pengajian Tinggi, kerajaan juga membayar kerugian pinjaman pengajian tinggi yang PTPTN kena tanggung. Jadi ini juga satu isu.
 
 **Rafizi:** Hmm, ada satu lagi perbincangan keseluruhan di sini, sebab sekarang ni, pelajar yang ambil PTPTN — itu bukan untuk yuran penuh, tau. Kalau dia masuk IPTA, dia ambil PTPTN — saya rasa yuran universiti itu 90% disubsidi oleh kerajaan, dan apa yang dia pinjam itu ialah untuk 10% yang lain, ditambah lagi selebihnya sebenarnya untuk kos sara hidup. Kalau kita faham dulu, PTPTN ini dibuat untuk membantu keluarga yang susah, supaya bila dia pergi universiti dan mendaftar, bulan ke bulan tu dia tak sampai membebankan keluarga, sampai kena jual tanah. Masa sepupu-sepupu saya dulu, orang tua-tua jual tanah, anak masuk universiti, sebab kena tanggung semua tu.
 
@@ -664,15 +664,15 @@ Kalau tidak, melalui sistem UPU semua yang ada sekarang, dia terlalu terhad oleh
 
 Ya, dia tak ada peraturan tegar yang tetap, tapi saya rasa apa yang perlu berlaku ialah universiti itu kena tangkas — maksudnya, mereka perlu berubah dengan dunia dengan jauh lebih pantas, dan dunia berubah dengan lebih cepat. Sekarang, macam mana dia boleh jadi tangkas kalau dia ada banyak lapisan birokrasi? Sebab itulah autonomi sangat penting, dan geran tidak boleh dibuat mengikut projek seperti sekarang. Sekarang, ia dibuat mengikut projek.
 
-**Sum Dek Joe:** Contohnya?
+**Sum Dek Jo:** Contohnya?
 
 **Rafizi:** Contohnya, jadi ia bukan macam blok—
 
-**Sum Dek Joe:** —bajet blok?
+**Sum Dek Jo:** —bajet blok?
 
 **Rafizi:** Tak, ia bukan geran blok.
 
-**Sum Dek Joe:** Ia bukan pembiayaan blok. Jadi ia tidak boleh diramal untuk universiti.
+**Sum Dek Jo:** Ia bukan pembiayaan blok. Jadi ia tidak boleh diramal untuk universiti.
 
 **Rafizi:** Betul. Contohnya kat UM, dia nak buat bilik kuliah baru, 7-8 blok, mungkin 7 dewan kuliah — dia kena melalui proses bajet di peringkat dia dulu. Daripada situ, dia kena bawa bajet itu ke peringkat KPT dulu. KPT pun tengok, ada 23 universiti minta. "Okay, tahun ni saya nak bagi kat awak sebab tahun lepas awak dah dapat, awak tunggu, awak datang balik tahun depan." Jadi barisan untuk apa yang satu-satu universiti perlu buat itu panjang. Lepas peringkat KPT, kemudian sampai kat Kementerian Ekonomi pula — Kementerian Ekonomi kata tak boleh, tak boleh. Jadi ia bukan geran blok, tau, ia sebenarnya mengikut projek individu. Berbeza dengan, contohnya, kalau awak ada geran blok — apa yang saya cakap tadi pasal geran teras — kemudian dia ada pendapatan bila dia boleh kenakan pada kadar pasaran. Kalau mereka ada RM400 juta setahun, mereka boleh rancang dan buat tanpa perlu terus naik sana sini, merata-rata — mereka tentukan sendiri. Jadi kita perlu pastikan autonomi itu berkaitan dengan kebebasan bukan sahaja akademik, tetapi juga kebebasan pendanaan.
 
@@ -694,7 +694,7 @@ Jadi kalau saya rasa jika kita mampu buat semua ini, dan gunakan peluang mansuhk
 
 **Rafizi:** Bukan anggaran yang dibuat — yang itu pun dipanggil "anggaran awal." Maksudnya, suku tahunan kan 3 bulan — jadi menjelang bulan kedua, dia dah ada keputusan bulan pertama dan bulan kedua, dia dah boleh buat unjuran. Itu yang dipanggil anggaran awal. Bulan ketiga, baru dia finalkan data untuk jadi angka sebenar. Jadi selalunya anggaran awal ni tak jauh sangat daripada angka sebenar. Jadi dalam Suku 2—
 
-**Sum Dek Joe:** Maksudnya anggaran awal — 5.8, eh? 5.8. Tapi anggaran Bloomberg, anggaran konsensus, adalah 5.2. Jadi ia jauh lebih tinggi daripada anggaran yang dibuat oleh ahli-ahli ekonomi.
+**Sum Dek Jo:** Maksudnya anggaran awal — 5.8, eh? 5.8. Tapi anggaran Bloomberg, anggaran konsensus, adalah 5.2. Jadi ia jauh lebih tinggi daripada anggaran yang dibuat oleh ahli-ahli ekonomi.
 
 **Rafizi:** Ahli ekonomi lah. Kemudian — bila cakap pasal anggaran ni, tanya Joe lah, sebab bila ahli ekonomi semua buat anggaran, dia bukannya pakai congak-congak je, dia ada model dia. Mungkin awak boleh terangkan sikit macam mana orang sebenarnya buat anggaran ekonomi. Saya nak subkontrakkan yang ni — aku nak pergi kencing dulu.
 
@@ -702,7 +702,7 @@ Jadi kalau saya rasa jika kita mampu buat semua ini, dan gunakan peluang mansuhk
 
 **Haziq:** Yelah — dan kenyataan rasmi Bank Negara Malaysia mengatakan pertumbuhan ini didorong oleh permintaan domestik yang berterusan dan prestasi eksport yang kukuh. Mungkin boleh komen, Joe?
 
-**Sum Dek Joe:** Saya rasa memang betul apa yang dinyatakan oleh Bank Negara dalam kenyataan rasmi mereka — itu memang betul, seperti penggunaan isi rumah, iaitu permintaan isi rumah, memang kukuh. Tetapi kenapa rakyat tak boleh rasa — saya rasa itu soalan yang lebih besar yang kita perlu jawab. Kenapa rakyat tidak dapat merasai limpahan ekonomi daripada kadar pertumbuhan ekonomi yang begitu tinggi? Kalau pergi tanya orang ramai kat kedai-kedai, ramai memang tak rasa. Dan pada masa yang sama, kita boleh rasa kos sara hidup semakin tinggi.
+**Sum Dek Jo:** Saya rasa memang betul apa yang dinyatakan oleh Bank Negara dalam kenyataan rasmi mereka — itu memang betul, seperti penggunaan isi rumah, iaitu permintaan isi rumah, memang kukuh. Tetapi kenapa rakyat tak boleh rasa — saya rasa itu soalan yang lebih besar yang kita perlu jawab. Kenapa rakyat tidak dapat merasai limpahan ekonomi daripada kadar pertumbuhan ekonomi yang begitu tinggi? Kalau pergi tanya orang ramai kat kedai-kedai, ramai memang tak rasa. Dan pada masa yang sama, kita boleh rasa kos sara hidup semakin tinggi.
 
 Jadi ini sebenarnya sentiasa jadi persoalan bagi ramai orang kerana ramai tak dapat menerangkan apakah punca utama di mana ada sesuatu yang tak berhubung antara gaji dan KDNK. Tapi pertama sekali, mungkin saya nak ulas sikit — jadi KDNK, iaitu Keluaran Dalam Negara Kasar, ia mengukur pengeluaran — berapa banyak yang dihasilkan di dalam satu negara, dalam satu ekonomi, pada satu masa. Dan dia memang ada keterputusan — ia tidak berkorelasi secara langsung antara KDNK dan gaji. Ini satu konsep yang kita perlu faham — ia bukan satu-lawan-satu. Sekalipun, katakanlah, awak ada pertumbuhan 5%, tak semestinya awak ada kenaikan gaji 5% juga; ia memang tak berfungsi macam itu.
 
@@ -712,11 +712,11 @@ Dan untuk suku tahun kedua ini, walaupun kita tengok kadar pertumbuhan KDNK 6%, 
 
 **Rafizi:** Awak kena terangkan sikit, Joe — orang biasa, bila baca laporan ekonomi kata ada ledakan permintaan untuk AI ni, dia ingat robot ke, dia ingat ChatGPT ke.
 
-**Sum Dek Joe:** Ledakan permintaan untuk AI ni kebanyakannya semikonduktor, sebab dia ada pemproses data, pusat data — semua ni memerlukan cip yang cukup pantas, cukup canggih, dan juga cip memori untuk menyimpan data-data yang kita guna kat ChatGPT ke, kat awan ke. Jadi memang ada permintaan yang sangat tinggi, dan Malaysia sebagai satu hab untuk OSAT — outsourced semiconductor assembly and testing—
+**Sum Dek Jo:** Ledakan permintaan untuk AI ni kebanyakannya semikonduktor, sebab dia ada pemproses data, pusat data — semua ni memerlukan cip yang cukup pantas, cukup canggih, dan juga cip memori untuk menyimpan data-data yang kita guna kat ChatGPT ke, kat awan ke. Jadi memang ada permintaan yang sangat tinggi, dan Malaysia sebagai satu hab untuk OSAT — outsourced semiconductor assembly and testing—
 
 **Rafizi:** Yang bahagian belakang tu?
 
-**Sum Dek Joe:** Bahagian belakang lah, memang belakang. Dan perlu saya tekankan, bahagian belakang ini memang nilai tambah yang paling rendah. Di dalam satu rantaian semikonduktor, bahagian hadapan itu seperti reka bentuk — reka bentuk itu memang merangkumi nilai yang paling tinggi. Tapi apa yang kita buat terutamanya kat Pulau Pinang biasanya ialah kerja bahagian belakang. Dan kita boleh nampak pada suku kedua ini, eksport semikonduktor berkembang sebanyak 40%. Itu satu angka yang sangat tinggi — kita tak pernah lihat angka setinggi itu untuk sekian lama.
+**Sum Dek Jo:** Bahagian belakang lah, memang belakang. Dan perlu saya tekankan, bahagian belakang ini memang nilai tambah yang paling rendah. Di dalam satu rantaian semikonduktor, bahagian hadapan itu seperti reka bentuk — reka bentuk itu memang merangkumi nilai yang paling tinggi. Tapi apa yang kita buat terutamanya kat Pulau Pinang biasanya ialah kerja bahagian belakang. Dan kita boleh nampak pada suku kedua ini, eksport semikonduktor berkembang sebanyak 40%. Itu satu angka yang sangat tinggi — kita tak pernah lihat angka setinggi itu untuk sekian lama.
 
 Jadi, dan yang paling penting, kembali kepada soalan tadi — kenapa rakyat tak berapa merasai — saya tidak mempunyai jawapan muktamad, tetapi apa yang saya nampak dari data makro ialah ada keterputusan antara KDNK dengan PNK. Untuk ramai yang mungkin tak berapa faham konsep KDNK dengan PNK — KDNK itu mengukur volum pengeluaran dalam satu ekonomi, tak kira orang asing ke, syarikat asing ke, atau orang tempatan ke — semua apa yang dibuat dalam Malaysia dikira dalam KDNK. Tapi PNK ni sedikit berbeza — PNK mewakili pendapatan negara kasar, apa yang dia ukur ialah jumlah pendapatan yang terakru kepada rakyat Malaysia sahaja, iaitu pendapatan yang diterima oleh orang Malaysia ataupun syarikat Malaysia sahaja.
 
@@ -728,7 +728,7 @@ Jadi, secara asas, apa yang kita lihat di sini — dan sekali lagi ini spekulasi
 
 **Haziq:** Jadi, dalam keadaan ideal, KDNK dan PNK itu berkembang serentak?
 
-**Sum Dek Joe:** Jadi idealnya, jurang perbezaan dia tidaklah sebegitu besar. Seperti saya katakan tadi, memang PNK sentiasa lebih rendah daripada KDNK, tetapi jurang perbezaannya semakin besar bermula suku pertama 2025. Jadi saya rasa banyak berkaitan dengan repatriasi dividen oleh firma asing — kebanyakan syarikat cip asing ini, mungkin sebab ledakan AI, permintaan tinggi, wang yang mereka dapat pun tinggi, oleh itu mereka memulangkan dividen mereka kepada entiti induk di luar negara. Jadi itulah sebabnya kita boleh nampak perbezaan ini, dan ini mungkin boleh menerangkan kenapa rakyat Malaysia tak berapa boleh merasai pertumbuhan ekonomi KDNK 6%.
+**Sum Dek Jo:** Jadi idealnya, jurang perbezaan dia tidaklah sebegitu besar. Seperti saya katakan tadi, memang PNK sentiasa lebih rendah daripada KDNK, tetapi jurang perbezaannya semakin besar bermula suku pertama 2025. Jadi saya rasa banyak berkaitan dengan repatriasi dividen oleh firma asing — kebanyakan syarikat cip asing ini, mungkin sebab ledakan AI, permintaan tinggi, wang yang mereka dapat pun tinggi, oleh itu mereka memulangkan dividen mereka kepada entiti induk di luar negara. Jadi itulah sebabnya kita boleh nampak perbezaan ini, dan ini mungkin boleh menerangkan kenapa rakyat Malaysia tak berapa boleh merasai pertumbuhan ekonomi KDNK 6%.
 
 **Haziq:** Dan benda tu banyak masuk, tapi dibawa balik ke luar?
 
@@ -756,23 +756,23 @@ Daripada 11 juta itu, sebenarnya kita ada data menyeluruh, tapi ia agensi-agensi
 
 Jadi kita ada lebih kurang 6 juta lebih titik data terperinci pekerja formal, dan daripada situ kita dapat pelaporan gaji suku tahunan. Daripada itu, kita boleh tahu beberapa perkara yang mengesahkan lagi apa yang Joe sebut tadi — maksudnya ada keterputusan. Satu, contohnya, gaji median — walaupun naik, gaji median memang naik. Saya rasa, masa laporan ini mula, suku 2 2023—
 
-**Sum Dek Joe:** Pada suku pertama 2023?
+**Sum Dek Jo:** Pada suku pertama 2023?
 
 **Rafizi:** Ia mula suku 2, 2023, kan?
 
-**Sum Dek Joe:** Sekejap — betulkah suku pertama 2023?
+**Sum Dek Jo:** Sekejap — betulkah suku pertama 2023?
 
 **Rafizi:** Suku pertama 2023, kan? Jadi suku pertama 2023 — gaji median, ni untuk orang yang mendengar — ingat tadi kita ada lebih kurang 6 juta orang punya data gaji ini. Awak tengok daripada gaji yang paling rendah, tak kisahlah RM800, RM900, awak susun sampai gaji yang paling tinggi, RM10 juta ke apa, jadi awak tengok daripada situ mana gaji pertengahan dia — itu yang jadi median, gaji median. Masa laporan pertama itu, suku 2 2023, adalah RM2,600. Ya.
 
-**Sum Dek Joe:** RM2,005? RM2,005?
+**Sum Dek Jo:** RM2,005? RM2,005?
 
 **Rafizi:** Ya.
 
-**Sum Dek Joe:** RM2,500 itu sebenarnya suku pertama 2022.
+**Sum Dek Jo:** RM2,500 itu sebenarnya suku pertama 2022.
 
 **Rafizi:** Ah.
 
-**Sum Dek Joe:** Januari 2022.
+**Sum Dek Jo:** Januari 2022.
 
 **Rafizi:** 2022. Ah, jadi itu kali pertama RM2,500—
 
@@ -788,17 +788,17 @@ Satu lagi jadi mangsa ialah pekerja berpengalaman — lagi kesian kalau yang tek
 
 Sebab itu gaji median kita RM3,027 — sebab yang berada di tengah, gaji median ni, kebanyakannya orang dalam kategori itu, sama ada dia kerja 2-3 tahun atau 5-6 tahun, tak ada ijazah tapi dia pekerja berpengalaman, ada diploma sahaja, ataupun orang yang ada ijazah mula-mula gaji RM2,000, lepas 5 tahun gaji dia masih RM3,000 lah. Apabila anda campurkan semua nombor ini, susunkan bersama-sama, ia menjelaskan kenapa — pertumbuhan ekonomi 6% dan naratif yang cuba dibawa bahawa, "oh baguslah Dato' Sri Anwar, kalau kita tukar PM matilah kita, ekonomi tak berkembang lepas ini" — tengok 6%, saya rasa kita telah menghabiskan runway itu. Runway itu hanya boleh kita gunakan dalam 2-3 tahun pertama. Sebab itu saya dulu selalu kata kita perlukan satu naratif yang kukuh dan menarik untuk membangunkan kepercayaan dalam ekonomi kita. Kepercayaan, aliran masuk portfolio akan berlaku, FDI akan berlaku, itu akan menyebabkan ringgit diperkukuhkan, wang masuk. Dan sekurang-kurangnya ia membangunkan kepercayaan untuk berinvestasi di negara ini, bukan sahaja dari luar negara tetapi juga modal domestik untuk dilaburkan di sini. Tetapi untuk memastikan rakyat benar-benar merasainya, salah satu reformasi struktur yang paling penting adalah reformasi pasaran buruh.
 
-**Sum Dek Joe:** Mungkin boleh tambah satu lagi poin mengenai gaji minimum ini — hanya untuk satu fakta menarik, kita boleh rujuk kepada Singapura. Fakta menarik, Singapura sebenarnya tidak mempunyai dasar gaji minimum, mereka tak ada gaji minimum langsung. Dan untuk menangani poin YB yang bangkitkan tadi mengenai mampatan gaji, ada ciri yang agak serupa kepada Malaysia di mana kebergantungan mereka kepada pekerja asing jauh lebih tinggi daripada Malaysia. Malaysia, kalau tak silap, sekarang...
+**Sum Dek Jo:** Mungkin boleh tambah satu lagi poin mengenai gaji minimum ini — hanya untuk satu fakta menarik, kita boleh rujuk kepada Singapura. Fakta menarik, Singapura sebenarnya tidak mempunyai dasar gaji minimum, mereka tak ada gaji minimum langsung. Dan untuk menangani poin YB yang bangkitkan tadi mengenai mampatan gaji, ada ciri yang agak serupa kepada Malaysia di mana kebergantungan mereka kepada pekerja asing jauh lebih tinggi daripada Malaysia. Malaysia, kalau tak silap, sekarang...
 
 **Rafizi:** Ialah pekerja Malaysia lah.
 
-**Sum Dek Joe:** Termasuklah Joe — dulu lah, dulu. Kalau tak silap, kadar kebergantungan pekerja asing di Malaysia 14%, tapi di Singapura, kalau tak silap, lebih kurang 40% kot. Jadi jauh lebih tinggi. Tetapi macam mana mereka menangani mampatan gaji itu adalah dengan memperkenalkan satu mekanisme iaitu Local Qualifying Salary, di mana kalau anda nak mengambil pekerja seorang pekerja asing, anda kena pastikan gaji yang anda bayar orang tempatan itu perlu memenuhi keperluan tertentu, tahap tertentu. Jadi ia bukan macam kes Malaysia, contohnya, apa yang YB kata tadi, anda sama ada potong atau anda tidak naikkan gaji. Tapi untuk Singapura, untuk anda mengupah seorang pekerja asing tambahan, anda kena pastikan gaji orang tempatan itu bukan sahaja anda kekalkan tetapi, sebab setiap tahun dia akan menyesuaikan, dia akan mengindeks kepada inflasi, jadi setiap tahun anda sebenarnya perlu meningkatkan — jadi ia mematahkan insentif orang untuk mengupah pekerja asing. Dan paling penting, pengupahan pekerja asing itu — keseluruhan tujuan, objektif dasar tu perlu jelas, ia perlu terang. Objektif utama bukan untuk menggantikan orang tempatan tetapi untuk melengkapi orang tempatan. Saya rasa itu yang kita keliru di sini — sebab di sini, ramai naratif tertumpu kepada, kita nak mengupah lebih ramai pekerja asing untuk menggantikan buruh domestik, sebab mereka lebih murah, atas pertimbangan kos. Tetapi saya rasa apa yang kita perlu bawa masuk dalam naratif ialah kita nak melengkapkan pasaran buruh kita, dan bukan sekadar untuk menggantikan pasaran kerja kita.
+**Sum Dek Jo:** Termasuklah Joe — dulu lah, dulu. Kalau tak silap, kadar kebergantungan pekerja asing di Malaysia 14%, tapi di Singapura, kalau tak silap, lebih kurang 40% kot. Jadi jauh lebih tinggi. Tetapi macam mana mereka menangani mampatan gaji itu adalah dengan memperkenalkan satu mekanisme iaitu Local Qualifying Salary, di mana kalau anda nak mengambil pekerja seorang pekerja asing, anda kena pastikan gaji yang anda bayar orang tempatan itu perlu memenuhi keperluan tertentu, tahap tertentu. Jadi ia bukan macam kes Malaysia, contohnya, apa yang YB kata tadi, anda sama ada potong atau anda tidak naikkan gaji. Tapi untuk Singapura, untuk anda mengupah seorang pekerja asing tambahan, anda kena pastikan gaji orang tempatan itu bukan sahaja anda kekalkan tetapi, sebab setiap tahun dia akan menyesuaikan, dia akan mengindeks kepada inflasi, jadi setiap tahun anda sebenarnya perlu meningkatkan — jadi ia mematahkan insentif orang untuk mengupah pekerja asing. Dan paling penting, pengupahan pekerja asing itu — keseluruhan tujuan, objektif dasar tu perlu jelas, ia perlu terang. Objektif utama bukan untuk menggantikan orang tempatan tetapi untuk melengkapi orang tempatan. Saya rasa itu yang kita keliru di sini — sebab di sini, ramai naratif tertumpu kepada, kita nak mengupah lebih ramai pekerja asing untuk menggantikan buruh domestik, sebab mereka lebih murah, atas pertimbangan kos. Tetapi saya rasa apa yang kita perlu bawa masuk dalam naratif ialah kita nak melengkapkan pasaran buruh kita, dan bukan sekadar untuk menggantikan pasaran kerja kita.
 
 **Rafizi:** Ya, sebab itu saya rasa, dalam maksud itu, yang Nurul Izzah kata itu — aku dah kata lama — yang sebenarnya, cara terakhir untuk memperbaiki kebimbangan ekonomi rakyat ni sebenarnya melalui reformasi pasaran buruh. Jadi kita ada beberapa perkara yang perlu diberi tumpuan. Dan seperti saya katakan awal-awal, semua projek rintis ni semua dah ada, cuma entah macam mana, saya rasa sama ada oleh kerana ia berkait dengan saya, ataupun sebab orang memang tak percaya dengan kaedah itu, ataupun ia menggegar status quo terlebih sangat, menggoncang bahtera terlebih sangat.
 
 Jadi saya bagi contoh. Ada beberapa punca utama. Satu, kita tahu kos paling utama ialah pekerja asing. Jadi secara rasminya ia lebih kurang 14% je. Sebenarnya jauh lebih tinggi daripada...
 
-**Sum Dek Joe:** ...itu.
+**Sum Dek Jo:** ...itu.
 
 **Rafizi:** Kalau tambah separuh masa, saya rasa ia hampir 18-19%. Jadi maksudnya bayangkan, bagi setiap 5 orang pekerja di Malaysia, seorang adalah pekerja asing. Dan setiap tahun memang berlumba-lumba untuk memenuhi kuota tu kononnya. Jadi awak ada — Johari Ghani, sebelum ini lah, eh sekarang kan, dia menteri apa sekarang? Pelaburan. Oh dia pelaburan — sebelum ini menteri pertanian kan. Jadi jangan sentuh pekerja asing, pertanian perlukan pekerja asing. Semua, setiap menteri dari setiap sektor akan ada yang kata kita perlukan lebih ramai pekerja asing — gunting rambut India pun. Mereka marah aku sebab aku cakap, apa pun ia, memang ada sedikit keutamaan budaya. Tapi kalau setiap satu ni semua perlukan pekerja asing, itu yang jadi sampai 18-19%.
 
@@ -818,7 +818,7 @@ Jadi kita buka kepada orang ramai. Ini masa saya ingat 2023, ketika kita memulak
 
 Sama juga, contohnya — yang ini paling tidak popular — ketagihan kita kepada pekerja asing di mamak.
 
-**Sum Dek Joe:** Mamak. Betul. Restoran.
+**Sum Dek Jo:** Mamak. Betul. Restoran.
 
 **Rafizi:** Memanglah, kalau tanya restoran-restoran, mereka akan kata, tak boleh, kita tak boleh ambil pekerja tempatan, mereka tak nak, tidak boleh diharap, semua. Sebenarnya, itu sebahagian daripada sebab saya menubuhkan KESUM. Saya ingin menguji dengan pakej yang betul, reka bentuk yang betul, bentuk yang betul — boleh ke tidak pekerja tempatan bekerja? Anda tahu, tanpa disedari, KESUM sudah hampir setahun. Ketepikan sahaja soal ia menjadikan saya kaya ke tidak — tak kaya lah — tapi sekurang-kurangnya eksperimen sosial saya, saya mahu memuaskan diri saya sendiri: kalau kita reka bentuk perkara-perkara tertentu dengan cara tertentu, boleh ke tidak anda mendapatkan orang tempatan untuk bekerja? Sebenarnya sudah hampir setahun, KESUM — ada dua syif, empat orang satu syif, syif siang, syif malam, berjalan seperti sekarang. Kami membayar mereka sedikit lebih tinggi daripada gaji minimum, tapi tidaklah terlalu tinggi. Mereka bekerja 8 jam sehari, 5 hari seminggu, kemudian mereka dapat kerja lebih masa, semua. Baik sahaja. Cuma sebab ini KESUM, ia murah sangat, semua. Jadi orang yang datang ke situ, pelanggan, mereka tahu, contohnya, mereka perlu menyesuaikan jangkaan — mereka tak boleh buat macam kedai mamak, orang datang order, dia pergi kaunter order, lepas tu ada panggil nombor, dia pergi ambil, layan diri sendiri.
 
@@ -834,7 +834,7 @@ Sama juga pasal gaji — jadi anda boleh mengaitkan pengambilan pekerja asing, c
 
 Jadi semua ini memerlukan program yang direka khusus, dan ia mestilah menyeluruh, barulah lama-kelamaan — dan kemungkinan besar ia akan mengambil masa 5 hingga 10 tahun walau apa pun. Dan perlu diselaraskan semua supaya jangan sampai ada dasar sekian-sekian tapi Kementerian Sumber Manusia memberi permit pekerja asing tanpa henti. Maksudnya, apa sahaja had ketat yang Kementerian Ekonomi tetapkan, ia tidak dipatuhi, sebab semua kementerian-kementerian lain datang mengetuk meja, "oh kami perlukan pekerja asing, kami perlu pekerja asing." Jadi dulu-dulu masa saya ada, saya rasa mereka selalu jeling-jeling, sebab saya rasa mereka anggap, "Mahmat ni buat bising," sebab saya sangat tegas — tidak, kami tidak akan mengubah, hak dia sekadar itu sahaja. Malah, kami akan menjadikannya semakin rendah dan rendah. Tapi perkara itu hanya pada perancangan makro, ia memerlukan KESUMA semua ini untuk berfungsi. Sebab itu, harapnya, sekarang semuanya bersatu — Pakatan Harapan pun ada kekalahan pilihan raya, Dato' Sri Anwar pun sebenarnya sudah berjanji untuk melaksanakan reformasi, semua ini, Izzah pun sudah mengingatkan — penggal seterusnya, reformasi gaji. Saya harap, jikalau Dato' Sri Anwar sebagai Menteri Kewangan, sebagai Perdana Menteri, inilah yang kita telah sediakan 3-4 tahun lalu untuk dia bergerak. Tapi sebelum ini, tiada siapa yang mahu melakukannya kerana ia terlalu banyak keperluan dan sangat sukar. Bagi mereka, semua ini susah. Tapi sekarang semuanya menunjukkan keadaan ini — pengembangan KDNK, tiada siapa yang terkejut dengan pengembangan KDNK lagi. PNK, semoga selepas ini orang akan mula tengok PNK. Tapi akhirnya, mereka akan melihat kenaikan gaji mereka lah.
 
-**Sum Dek Joe:** Dan saya rasa anda juga menyebutkan satu soalan yang sangat penting mengenai levi berbilang peringkat ini. Contohnya, di Singapura, untuk setiap pekerja asing yang syarikat mahu upah, anda perlu membayar levi yang lebih tinggi. Jadi jika anda menjadikannya lebih mahal untuk mengundang pekerja asing, ia memaksa anda untuk memperbaiki, untuk meningkatkan produktiviti anda. Satu unsur yang kita tidak sempat ulas dalam perbincangan ini ialah peranan pekerja asing dalam produktiviti negara — banyak kelembapan produktiviti sebenarnya boleh dikaitkan dengan ketagihan kita kepada buruh manual, buruh intensif. Sebab syarikat, firma, langsung tidak ada insentif untuk berubah, untuk mengautomasi, sebab sentiasa ada alternatif yang lebih murah, iaitu pekerja asing.
+**Sum Dek Jo:** Dan saya rasa anda juga menyebutkan satu soalan yang sangat penting mengenai levi berbilang peringkat ini. Contohnya, di Singapura, untuk setiap pekerja asing yang syarikat mahu upah, anda perlu membayar levi yang lebih tinggi. Jadi jika anda menjadikannya lebih mahal untuk mengundang pekerja asing, ia memaksa anda untuk memperbaiki, untuk meningkatkan produktiviti anda. Satu unsur yang kita tidak sempat ulas dalam perbincangan ini ialah peranan pekerja asing dalam produktiviti negara — banyak kelembapan produktiviti sebenarnya boleh dikaitkan dengan ketagihan kita kepada buruh manual, buruh intensif. Sebab syarikat, firma, langsung tidak ada insentif untuk berubah, untuk mengautomasi, sebab sentiasa ada alternatif yang lebih murah, iaitu pekerja asing.
 
 **Rafizi:** Sebenarnya, pengurusan levi berbilang peringkat ini, MTLM ini, Kementerian Ekonomi sudah bawa kepada kerajaan dan sudah diluluskan.
 
