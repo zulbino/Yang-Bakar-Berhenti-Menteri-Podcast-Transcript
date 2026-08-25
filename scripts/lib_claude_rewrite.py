@@ -17,6 +17,7 @@ pure text-generation calls with no file/bash/agent need) cuts that to ~500
 tokens and $0.0016 -- a ~48x reduction with no effect on output quality.
 """
 import json
+import re
 import subprocess
 
 from common import retry
@@ -134,12 +135,28 @@ def translate(client, mixed_text, target_language):
     return "\n\n".join(results)
 
 
+def _looks_like_placeholder(meta):
+    # Confirmed real failure mode (ep13, ep47): the CLI's --json-schema
+    # enforcement occasionally returns a schema-conformant but generic stub
+    # ("Topic A"/"Topic one", "Test summary.") instead of real extracted
+    # content, on long unchunked metadata calls specifically. retry() only
+    # catches exceptions, so this sailed through undetected until now.
+    if re.match(r"(?i)^test summary\.?$", meta.get("summary", "").strip()):
+        return True
+    if any(re.match(r"(?i)^topic [a-z0-9]+$", t.strip()) for t in meta.get("topics", [])):
+        return True
+    return False
+
+
 def extract_metadata(client, clean_text):
     prompt = META_PROMPT_TEMPLATE.format(clean_text=clean_text)
     schema = {**META_SCHEMA, "additionalProperties": False}
 
     def call():
         result = _run_claude(prompt, json_schema=schema)
-        return json.loads(result["result"])
+        meta = json.loads(result["result"])
+        if _looks_like_placeholder(meta):
+            raise RuntimeError(f"metadata extraction returned a placeholder stub: {meta}")
+        return meta
 
     return retry(call, max_attempts=10, base_delay=30, what="metadata extraction")

@@ -8,13 +8,47 @@ duration_seconds: 7650
 duration: 2h 7m
 view_count: 35332
 hosts:
-- Rafizi
+- Rafizi Ramli
 - Haziq
 guests: []
 topics:
-- Topic A
-- Topic B
-summary: Test summary.
+- Minister/MP salary slip transparency
+- Bersatu internal crisis and PM candidacy dispute
+- PAS's political cooperation stance
+- UM student admission/meritocracy controversy
+- University funding and course supply-demand mismatch
+- LNG facility security threat
+- Suria KLCC Palestine rally stick-ban controversy
+- Kampung Sungai Baru land dispute and URA
+- Nepal Gen Z protests and global capitalism critique
+- Charlie Kirk assassination and political extremism
+- Malaysia's PISA education ranking decline
+- Single-stream national school debate
+- Empty house tax and housing affordability
+- Brain drain and Malaysian diaspora talent
+- Bangsa Malaysia identity and multiracial integration
+summary: In Episode 13 of "Podcast Siang Berhenti Menteri," host Rafizi Ramli, joined
+  by co-host Haziq, opens by revealing his actual ministerial and MP salary slips
+  to debunk public perceptions of huge minister pay, showing a net take-home of around
+  RM35,000-36,000 combined. The duo then runs their "Beria" (cringe/pretentious) segment
+  mocking recent political theatrics, including Bersatu's internal turmoil with 120
+  division chiefs calling for Muhyiddin to step down, PAS's willingness to work with
+  any party except DAP, a discredited social media accuser, and a fake "sepupu" (cousin)
+  fitnah claim against Fadlina. In the "Hidup Keras" segment, Rafizi gives lengthy
+  analysis on Bersatu's leadership crisis and its effect on public trust in politics,
+  a security threat against an LNG facility, the KLCC Palestine rally stick confiscation
+  controversy, and the Kampung Sungai Baru URA land dispute, criticizing PAS/Bersatu
+  for opportunistic flip-flopping on redevelopment issues they themselves enabled
+  while in government. He also discusses the UM "top student rejected" admissions
+  controversy, tying it to structural funding issues in public universities rather
+  than pure meritocracy debates. In the world news segment, Rafizi draws parallels
+  between Nepal's Gen Z protests, Indonesia's unrest, and cracks in global capitalism,
+  and reflects on the assassination of Charlie Kirk as a cautionary tale against political
+  extremism. The episode closes with an extended Q&A covering Malaysia's poor PISA
+  education rankings, opposition to single-stream national schools, skepticism toward
+  an empty-house tax as a housing affordability fix, brain drain among skilled Malaysians,
+  and his views on building a "Bangsa Malaysia" identity through substantive integration
+  (like strengthening national schools) rather than symbolic labels.
 language: ms
 model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).

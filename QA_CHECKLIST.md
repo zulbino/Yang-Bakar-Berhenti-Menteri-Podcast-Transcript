@@ -62,10 +62,11 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa**
   - raw.md timestamp coverage only 89% (last ts 9704s of 10907s)
-  - raw.md has a 31269-char block with no paragraph breaks (wall-of-text)
-  - interview.md looks truncated (ratio 0.11 vs raw.md, expected >= 0.35)
+  - raw.md has a 33913-char block with no paragraph breaks (wall-of-text)
+  - raw.md has a repetition-loop degeneration (880 chars repeating 'mmmmmmmm'...) -- model got stuck re-emitting the same short phrase
+  - interview.md looks truncated (ratio 0.10 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.10 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.11 vs raw.md, expected >= 0.35)
+  - interview-ms.md looks truncated (ratio 0.10 vs raw.md, expected >= 0.35)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 910s, 10/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih**
@@ -74,11 +75,8 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-ms.md looks truncated (ratio 0.08 vs raw.md, expected >= 0.35)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 841s, 3/12 caption samples matched)
 - [ ] **2026-05-08-ep47-semua-bocor-exam-sprm-kerusi-pkr-dan-soalan-pru16-ybm-47**
-  - interview.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.09 vs raw.md, expected >= 0.35)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 665s, 12/12 caption samples matched)
-  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-05-22-ep49-seminggu-selepas-bersama-ph-bn-tidak-lagi-bersama-ybm-49**
   - interview.md looks truncated (ratio 0.06 vs raw.md, expected >= 0.35)
   - interview-en.md looks truncated (ratio 0.07 vs raw.md, expected >= 0.35)
