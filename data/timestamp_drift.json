@@ -2063,46 +2063,66 @@
   },
   "2026-05-22-ep49-seminggu-selepas-bersama-ph-bn-tidak-lagi-bersama-ybm-49": {
     "status": "ok",
-    "samples_matched": 7,
-    "samples_not_found_nearby": 5,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 372,
-    "flagged": true,
+    "max_drift_seconds": 46,
+    "flagged": false,
     "details": [
       {
-        "claimed": 43,
-        "actual": 50,
-        "drift": 7
+        "claimed": 75,
+        "actual": 70,
+        "drift": -5
       },
       {
-        "claimed": 100,
-        "actual": 87,
-        "drift": -13
+        "claimed": 399,
+        "actual": 402,
+        "drift": 3
       },
       {
-        "claimed": 122,
-        "actual": 116,
-        "drift": -6
+        "claimed": 1099,
+        "actual": 1097,
+        "drift": -2
       },
       {
-        "claimed": 134,
-        "actual": 126,
+        "claimed": 1961,
+        "actual": 1953,
         "drift": -8
       },
       {
-        "claimed": 196,
-        "actual": 192,
-        "drift": -4
+        "claimed": 2694,
+        "actual": 2683,
+        "drift": -11
       },
       {
-        "claimed": 259,
-        "actual": 245,
-        "drift": -14
+        "claimed": 5453,
+        "actual": 5457,
+        "drift": 4
       },
       {
-        "claimed": 617,
-        "actual": 245,
-        "drift": -372
+        "claimed": 6513,
+        "actual": 6559,
+        "drift": 46
+      },
+      {
+        "claimed": 7968,
+        "actual": 7965,
+        "drift": -3
+      },
+      {
+        "claimed": 9176,
+        "actual": 9178,
+        "drift": 2
+      },
+      {
+        "claimed": 10154,
+        "actual": 10155,
+        "drift": 1
+      },
+      {
+        "claimed": 11047,
+        "actual": 11055,
+        "drift": 8
       }
     ]
   },
