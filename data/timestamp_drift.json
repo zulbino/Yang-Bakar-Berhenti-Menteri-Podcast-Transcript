@@ -1,8 +1,8 @@
 {
   "2025-05-10-ep00-podcast-yang-berhenti-menteri": {
     "status": "ok",
-    "samples_matched": 10,
-    "samples_not_found_nearby": 2,
+    "samples_matched": 9,
+    "samples_not_found_nearby": 3,
     "samples_total": 12,
     "max_drift_seconds": 221,
     "flagged": false,
@@ -23,19 +23,14 @@
         "drift": -25
       },
       {
-        "claimed": 410,
-        "actual": 518,
-        "drift": 108
+        "claimed": 646,
+        "actual": 648,
+        "drift": 2
       },
       {
         "claimed": 1062,
         "actual": 1064,
         "drift": 2
-      },
-      {
-        "claimed": 1152,
-        "actual": 1255,
-        "drift": 103
       },
       {
         "claimed": 2143,
@@ -54,8 +49,8 @@
       },
       {
         "claimed": 3677,
-        "actual": 3869,
-        "drift": 192
+        "actual": 3871,
+        "drift": 194
       }
     ]
   },
@@ -170,7 +165,54 @@
     ]
   },
   "2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2": {
-    "status": "no_captions"
+    "status": "ok",
+    "samples_matched": 8,
+    "samples_not_found_nearby": 4,
+    "samples_total": 12,
+    "max_drift_seconds": 758,
+    "flagged": true,
+    "details": [
+      {
+        "claimed": 880,
+        "actual": 920,
+        "drift": 40
+      },
+      {
+        "claimed": 1062,
+        "actual": 304,
+        "drift": -758
+      },
+      {
+        "claimed": 1285,
+        "actual": 1280,
+        "drift": -5
+      },
+      {
+        "claimed": 2238,
+        "actual": 2282,
+        "drift": 44
+      },
+      {
+        "claimed": 2873,
+        "actual": 2958,
+        "drift": 85
+      },
+      {
+        "claimed": 3534,
+        "actual": 3645,
+        "drift": 111
+      },
+      {
+        "claimed": 4089,
+        "actual": 4095,
+        "drift": 6
+      },
+      {
+        "claimed": 4380,
+        "actual": 4383,
+        "drift": 3
+      }
+    ]
   },
   "2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard": {
     "status": "no_captions"
@@ -183,12 +225,28 @@
   },
   "2024-08-26-ep05-yang-bakar-menteri-ybm-ep5": {
     "status": "ok",
-    "samples_matched": 0,
-    "samples_not_found_nearby": 12,
+    "samples_matched": 3,
+    "samples_not_found_nearby": 9,
     "samples_total": 12,
-    "max_drift_seconds": 0,
+    "max_drift_seconds": 14,
     "flagged": true,
-    "details": []
+    "details": [
+      {
+        "claimed": 914,
+        "actual": 900,
+        "drift": -14
+      },
+      {
+        "claimed": 1064,
+        "actual": 1068,
+        "drift": 4
+      },
+      {
+        "claimed": 2369,
+        "actual": 2364,
+        "drift": -5
+      }
+    ]
   },
   "2024-09-30-ep06-yang-bakar-menteri-ep-6-rafizi-ramli-lim-sian-see": {
     "status": "no_captions"
