@@ -658,7 +658,7 @@ Kita dah berapa jam ni?
 
 **Rafizi Ramli:** Ya ke orang nak tahu?
 
-**Host:** Chaplos dah ada skrip YB — dia tunjuk apa, print screen YB sendiri, kata nak bertanding melawan Azmin dulu sebab nak tengok Anwar menjadi PM.
+**Host:** Ceplos dah ada skrip YB — dia tunjuk apa, print screen YB sendiri, kata nak bertanding melawan Azmin dulu sebab nak tengok Anwar menjadi PM.
 
 **Rafizi Ramli:** Yelah, kita dah tengok dia jadi PM lah. Jadi mungkin kalau boleh saya bagi konteks — perkataan "obses" tu, itu... apa nama ni, media yang letak. Aku tak letak perkataan "obses," I think I use the word "preoccupation." Tapi sebenarnya ada satu sudut yang — yelah, mungkin untuk Dato' Seri Anwar, atau untuk pimpinan PKR yang ada sekarang, atau simplistic mind yang merasakan bahawa bila kerajaan telah bertukar dan Dato' Seri Anwar dah jadi Perdana Menteri, maka kita akan "live happily ever after." Ada yang simplistic mind macam itu, tapi ada satu sudut yang mungkin mereka kurang selesa nak dengar.
 
@@ -666,7 +666,7 @@ Okey, baik. Saya tahu ada banyak penyokong tegar yang makin menghamun, yang sang
 
 Salahkah kalau ada sebahagian daripada pimpinan PKR, daripada aktivis PKR, orang macam saya, yang meletakkan aras standard yang lebih tinggi? Kerana masalah masyarakat ialah kalau kita continuously compromise our expectation and standard hanya kerana yang jadi kerajaan itu parti kita — itulah yang menyebabkan UMNO jadi UMNO, itulah yang menyebabkan we are where we are today, kan? Just because you don't want to do that job, because that job is not popular, tak apalah, we will do that job. Tapi tak payahlah sampai nak kata orang tu biadab. Orang ini biadab? I mean, who are you — berbanding dengan orang yang lama dalam PKR yang memikul Anwar Ibrahim daripada penjara kali pertama, penjara kali kedua. Janganlah sampai orang point that, "oh, tak cantiklah." Tapi there is an even bigger perspective yang sebenarnya bersabit dengan kemampuan Dato' Seri Anwar Ibrahim untuk kembali menjadi Perdana Menteri. Terima kasih.
 
-Biar saya tanya awak ini pula — actually, yang bising-bising ini, nampak banyaknya orang PKR, Chaplos semua kan. Actually reaksi daripada rakyat Melayu, orang biasa, macam mana?
+Biar saya tanya awak ini pula — actually, yang bising-bising ini, nampak banyaknya orang PKR, Ceplos semua kan. Actually reaksi daripada rakyat Melayu, orang biasa, macam mana?
 
 **Host:** Tak ada reaksi pun.
 
@@ -698,7 +698,7 @@ Biar saya tanya awak ini pula — actually, yang bising-bising ini, nampak banya
 
 Sebenarnya kenapa mereka tak minat kepada Dato' Seri Anwar Ibrahim? Because surveys in the past menunjukkan bahawa isu liwat semua tu, tuduhan serangan peribadi tu, sebenarnya tak ada kesan sangat. 80% daripada pengundi Melayu sebenarnya tak ambil pot, atau tak ambil tahu, tak percaya pun pasal tuduhan liwat. Tapi kenapa despite that — until now, either survey ataupun apa, keputusan pilihan raya menunjukkan at most 30% pengundi Melayu sahaja yang minat dengan Dato' Seri Anwar Ibrahim. Why do you think?
 
-Orang boleh kata, "yelah, bila cakap pasal pengundi Melayu ni, isu-isu Melayu lah, Anwar dia terkait dengan bogeyman anti-Melayu semua." Why dia jadi bogeyman anti-Melayu — you are right on that point. Maksudnya, pengundi Melayu ini, whether we like it or not, it's very uncomfortable orang nak cakap. Tapi dulu-dulu pun, dalam Biro Politik PKR, memang kita bincang — tahun 2013, ada seorang pimpinan dalam Biro Politik yang cakap direct kepada Dato' Seri Anwar Ibrahim, "kita ada masalah, Dato' Seri, we cannot sell you dengan Melayu." So it's not something yang hanya kerana aku bercakap terbuka, ni Chaplos-Chaplos ni melenting. I'm sure you ask Anwar Ibrahim, he is fully aware of this — dia soal trust, soal orang Melayu tidak begitu percaya kepada Dato' Seri Anwar Ibrahim. Full stop.
+Orang boleh kata, "yelah, bila cakap pasal pengundi Melayu ni, isu-isu Melayu lah, Anwar dia terkait dengan bogeyman anti-Melayu semua." Why dia jadi bogeyman anti-Melayu — you are right on that point. Maksudnya, pengundi Melayu ini, whether we like it or not, it's very uncomfortable orang nak cakap. Tapi dulu-dulu pun, dalam Biro Politik PKR, memang kita bincang — tahun 2013, ada seorang pimpinan dalam Biro Politik yang cakap direct kepada Dato' Seri Anwar Ibrahim, "kita ada masalah, Dato' Seri, we cannot sell you dengan Melayu." So it's not something yang hanya kerana aku bercakap terbuka, ni Ceplos-Ceplos ni melenting. I'm sure you ask Anwar Ibrahim, he is fully aware of this — dia soal trust, soal orang Melayu tidak begitu percaya kepada Dato' Seri Anwar Ibrahim. Full stop.
 
 **Host:** Why? [Nampak macam] Eureka moment...
 

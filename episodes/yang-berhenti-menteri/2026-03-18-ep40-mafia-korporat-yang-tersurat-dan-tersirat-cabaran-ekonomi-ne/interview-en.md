@@ -392,7 +392,7 @@ So those are the three levels of enforcement agencies' exposure to crime. Now �
 
 **Host:** I would assume it's political financing.
 
-**Rafizi Ramli:** Really? No, no, wait — let me comment. You're trying to trap me, if I misspeak I'll be the one caught. Imagine, pity me — the "chaplos" already dislike me, Anwar Ibrahim dislikes me, the authorities dislike me, and now even the underworld dislikes me if I misspeak again.
+**Rafizi Ramli:** Really? No, no, wait — let me comment. You're trying to trap me, if I misspeak I'll be the one caught. Imagine, pity me — the "ceplos" already dislike me, Anwar Ibrahim dislikes me, the authorities dislike me, and now even the underworld dislikes me if I misspeak again.
 
 Imagine, if just one activity — cigarette smuggling — can amount to RM30-40 billion a year. When we ran the Invoke campaign, if we held a dinner event for fundraising, we sold tickets so people could come hear me speak, give a talk — one ticket for RM100, after deducting costs, the fund we'd get from one ticket might only be RM20. If the hall is full, a thousand people come, the profit is RM20,000. And that's if done the right way. But imagine how much money exists in the underworld — illegal activities, secret societies — RM20-30 billion a year is just child's play to them. It's really just child's play.
 
