@@ -262,7 +262,7 @@ Bila saya tengok semua ini, saya kata inilah hikmah Allah — aku dah tak jadi m
 
 **Host:** Minum air dulu. Cuma saya terus tanya lah, actually, sebab YB selalu...
 
-**Rafizi Ramli:** Saya jarang sangat semak apa-apa. Selalunya, mana yang saya ingat, saya ingat sendiri. Agak-agak... apa nama ini... saya mendapati ia rumit lah, kan. Kita tak boleh bagi pandangan kosong sahaja. Jangan jadi macam Wan Faisal, terus, apa ni, "rukiah perjanjian syaitan." Baca lah dulu. Jadi saya ambil masa beberapa hari, bukan sahaja untuk baca perjanjian, tapi saya juga semak perjanjian dengan negara-negara lain, dari segi kedudukan sebenar net benefit secara kewangan kepada kita.
+**Rafizi Ramli:** Saya jarang sangat semak apa-apa. Selalunya, mana yang saya ingat, saya ingat sendiri. Agak-agak... apa nama ini... saya mendapati ia rumit lah, kan. Kita tak boleh bagi pandangan kosong sahaja. Jangan jadi macam Wan Fayhsal, terus, apa ni, "rukiah perjanjian syaitan." Baca lah dulu. Jadi saya ambil masa beberapa hari, bukan sahaja untuk baca perjanjian, tapi saya juga semak perjanjian dengan negara-negara lain, dari segi kedudukan sebenar net benefit secara kewangan kepada kita.
 
 **Host:** Jadi apa perasaan pertama YB?
 

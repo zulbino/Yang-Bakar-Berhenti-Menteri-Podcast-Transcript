@@ -261,7 +261,7 @@ When I look at all this, I say this is a blessing from Allah — that I'm no lon
 
 **Host:** Drink water first. But let me just ask straight away, actually, since YB always...
 
-**Rafizi Ramli:** I rarely check anything. Usually, whatever I remember, I remember on my own. Let's see... what's this called... I find it complicated, honestly. We can't just give an empty opinion. Don't be like Wan Faisal, who straight away goes, "what's this, exorcising a devil's agreement." Read it first. So I took a few days, not just to read the agreement, but I also checked the agreement against agreements with other countries, in terms of the actual net financial benefit to us.
+**Rafizi Ramli:** I rarely check anything. Usually, whatever I remember, I remember on my own. Let's see... what's this called... I find it complicated, honestly. We can't just give an empty opinion. Don't be like Wan Fayhsal, who straight away goes, "what's this, exorcising a devil's agreement." Read it first. So I took a few days, not just to read the agreement, but I also checked the agreement against agreements with other countries, in terms of the actual net financial benefit to us.
 
 **Host:** So what was your first impression, YB?
 

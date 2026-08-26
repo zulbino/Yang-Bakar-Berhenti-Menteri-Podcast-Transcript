@@ -133,7 +133,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Speaker 1:** Pesanan untuk Wan Ahmad Faisal. Tak ada lah.
 
-**Rafizi Ramli:** Menariknya, Saiful ini, Mazli dan Abu Hafiz. Bagaimana orang yang membawa mereka masuk ke Bersatu? Dan meyakinkan mereka, Tan Sri lah beritahu kita perlukan calon yang baik untuk menjadikan mereka calon apa semua itu. Alhamdulillah, kedua-dua mereka menjadi calon. Wan Faizal masih muda dan bekerja untuk Sadiq. Dan Mazli menang. Wan Saiful tidak menang pada masa itu. Tetapi menarik bagaimana Tan Sri mengikuti Wan Faizal dengan rapat. Dan mengikuti Wan Saiful dengan rapat. Dan sekarang apa yang berlaku, berlaku. Itulah sebabnya politik ini sangat sukar untuk difahami.
+**Rafizi Ramli:** Menariknya, Saiful ini, Mazli dan Abu Hafiz. Bagaimana orang yang membawa mereka masuk ke Bersatu? Dan meyakinkan mereka, Tan Sri lah beritahu kita perlukan calon yang baik untuk menjadikan mereka calon apa semua itu. Alhamdulillah, kedua-dua mereka menjadi calon. Wan Fayhsal masih muda dan bekerja untuk Sadiq. Dan Mazli menang. Wan Saiful tidak menang pada masa itu. Tetapi menarik bagaimana Tan Sri mengikuti Wan Fayhsal dengan rapat. Dan mengikuti Wan Saiful dengan rapat. Dan sekarang apa yang berlaku, berlaku. Itulah sebabnya politik ini sangat sukar untuk difahami.
 
 **Speaker 1:** Baik-baik. Jadi...
 
@@ -489,7 +489,7 @@ Kalau perjanjian ini telah melalui perkataan demi perkataan kan, kemungkinan ban
 
 **Fahmi:** Sangat ekstensif.
 
-**Rafizi Ramli:** Wan Faizal ini masih muda dan mungkin ada potensi penurunan penggantungan daripada satu tahun kepada beberapa masa.
+**Rafizi Ramli:** Wan Fayhsal ini masih muda dan mungkin ada potensi penurunan penggantungan daripada satu tahun kepada beberapa masa.
 
 **Fahmi:** Jadi, dia digantung berapa lama? Satu penggal?
 

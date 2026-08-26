@@ -12,7 +12,7 @@ hosts:
 guests:
 - Speaker 2 (co-host/interviewer)
 topics:
-- Viral 'beria' news segment (Wan Faisal flower logo, MB shopping trip, PKR RM100
+- Viral 'beria' news segment (Wan Fayhsal flower logo, MB shopping trip, PKR RM100
   handout, manipulated Facebook post, flotilla boat influencer)
 - Urban Renewal Act (URA/PSB) debate and tenants' rights concerns
 - Government Procurement Bill rushed passage and parliamentary process
@@ -29,7 +29,7 @@ topics:
 - Teacher training reform and education system challenges
 summary: 'In episode 12 of "Yang Berhenti Menteri" podcast, host Rafizi Ramli is interviewed
   by his co-host/interviewer through several segments. They open with light banter
-  before playing "Beria Mat," a segment scoring viral clips/news items (Wan Faisal''s
+  before playing "Beria Mat," a segment scoring viral clips/news items (Wan Fayhsal''s
   flower proposal, Selangor MB''s shopping trip, PKR''s RM100 Maisarah handout, a
   manipulated Facebook screenshot controversy, and an influencer''s flotilla boat
   stunt) on how "beria" (extreme/attention-seeking) each is. The conversation then
@@ -62,7 +62,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Speaker 2:** Even just now... Haa, good. Okay, YB. This time we have a new format and we're trying to keep it short and sweet. I don't want to talk too much. Okay, let's move straight to the first segment, called "beria mat" (so extra/dramatic). This segment is simple — I'll show a picture and YB has to comment on whether it's "beria" or not. Okay, next, YB, I'm sure everything I put here is beria, but YB's standard is high, so if there's one that doesn't quite fit first...
 
-**Rafizi Ramli:** What do you want to say? I wasn't in parliament at that time, I just read about it. Then it went viral for a while — Wan Faisal wanted to change the flower's name. I have a better suggestion. He's definitely being "beria" — if you ask whether it's beria or not, it definitely is. Not in parliament. But I have a better suggestion for that flower. Since it's a flower-themed party, might as well take the flower for real. So change the "Bunga Raya Bersatu" (Bersatu's Hibiscus) — I suggested to Wan Faisal that he bring this up at a Bersatu meeting, that's enough, no need to bring it to parliament — to honour the rafflesia instead. So replace the Bunga Raya Bersatu logo with the rafflesia flower. Okay, so that's quite beria.
+**Rafizi Ramli:** What do you want to say? I wasn't in parliament at that time, I just read about it. Then it went viral for a while — Wan Fayhsal wanted to change the flower's name. I have a better suggestion. He's definitely being "beria" — if you ask whether it's beria or not, it definitely is. Not in parliament. But I have a better suggestion for that flower. Since it's a flower-themed party, might as well take the flower for real. So change the "Bunga Raya Bersatu" (Bersatu's Hibiscus) — I suggested to Wan Fayhsal that he bring this up at a Bersatu meeting, that's enough, no need to bring it to parliament — to honour the rafflesia instead. So replace the Bunga Raya Bersatu logo with the rafflesia flower. Okay, so that's quite beria.
 
 **Speaker 2:** Beria? Eh, maybe you guys should give this a name... scoring, beria. Okay okay okay. So for this one, let me give... comment first, comment first, comment first. At the end we'll say which one's the most beria.
 

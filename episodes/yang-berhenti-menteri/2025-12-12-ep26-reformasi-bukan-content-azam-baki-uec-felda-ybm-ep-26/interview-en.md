@@ -95,17 +95,17 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Then in 2019, I was no longer interested in active politics. In June 2019, he missed me—that's when he got the picture and wrote it. He was still enthusiastic about politics. Once in a while back then when I still had WhatsApp, he messaged me, and I would give my views on this and that. These Ceplos types usually really like having a connection or communication with leaders because they can get information to create content for their writing. In the early days, I entertained all those old friends.
 
-**Rafizi:** After a while, I didn't get involved much, I didn't pay attention. Except one time, someone told me he asked, "Is it true that you support Izam [Izam Mohd Nor] joining the party?" What's the matter with me? He told me, "Because your man, Wan Fazudin, is carrying Izam, campaigning to ask Izam to join the party."
+**Rafizi:** After a while, I didn't get involved much, I didn't pay attention. Except one time, someone told me he asked, "Is it true that you support Izam [Izam Mohd Nor] joining the party?" What's the matter with me? He told me, "Because your man, Wan Fayhsal, is carrying Izam, campaigning to ask Izam to join the party."
 
 **Rafizi:** I remember in late 2019, I told him, if we are friends in a team, we have to follow the line that we determine together. We cannot make decisions on our own. After Sheraton, who was campaigning to bring Izam to strengthen the party? The problem was my name was attached. Before this my name was Lambor, now after this I want to bring Izam. So I told him via WhatsApp that I didn't agree. That thing wasn't right. If the party is weak, leave it to the leadership. I don't interfere, but making up strategies to bring Izam and then dragging my name into it, that I didn't agree with.
 
-**Rafizi:** That was where he became Ceplos. The story is actually because he cannot take any criticism at all. Our people sometimes don't look in the mirror. For example, with Wan Fazudin and other Ceplos of his generation, the line they always play when attacking me is, "He thinks only he is right, only his views are correct."
+**Rafizi:** That was where he became Ceplos. The story is actually because he cannot take any criticism at all. Our people sometimes don't look in the mirror. For example, with Wan Fayhsal and other Ceplos of his generation, the line they always play when attacking me is, "He thinks only he is right, only his views are correct."
 
 **Rafizi:** He didn't realize that he had to be so firm about it. It's not hard to bring Izam into this party, and that's proven to be true—Izam is now on top of the list of what he said about Anwar Ibrahim. From there he became very anti- because he was very stubborn and felt he no longer had the communication to get material. If not, he would have looked great because he got information from Rafizi; he sold my name. Now I don't know whose name he sells.
 
 **Host:** Ceplos, if you look at social media... "Ceplos" has become their official brand name. Their way and attitude are what caused the voters to go further away.
 
-**Rafizi:** Wan Fazudin has been like this from the beginning. We know his attitude—he's quick to get angry, rough, sharp-tongued, sitting in his own bubble. The party leadership should be the ones to reprimand him.
+**Rafizi:** Wan Fayhsal has been like this from the beginning. We know his attitude—he's quick to get angry, rough, sharp-tongued, sitting in his own bubble. The party leadership should be the ones to reprimand him.
 
 **Rafizi:** If someone is in our control—like him as a communications director in PKR—it seems to line up with his way. If we become leaders, we should be firm. People outside the party, the fence-sitters, don't care about internal feelings between party members. But if the content created looks too personal, harsh, vengeful, trivial—that is what causes people to drift further away. I feel PKR now is somewhat on autopilot, with nobody controlling them. Otherwise, people like this Salim Papu Kari...
 
@@ -115,7 +115,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Host:** Do you know each of these Ceplos individually?
 
-**Rafizi:** No. The only one I really know is Wan Fazudin because of his history. The others were all after the win.
+**Rafizi:** No. The only one I really know is Wan Fayhsal because of his history. The others were all after the win.
 
 **Host:** So eager. If only he continues like this until he dies... Next topic.
 
@@ -159,13 +159,13 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Host:** I think we can use this opportunity to say to the public: if you see a warning sign, don't remove it as you like.
 
-**Rafizi:** Who was the eager one this week? Wan Fazudin, but he failed to be eager this week. Last week set the bar very high. Next week go find better clips.
+**Rafizi:** Who was the eager one this week? Wan Fayhsal, but he failed to be eager this week. Last week set the bar very high. Next week go find better clips.
 
 **Host:** Let's go straight to the second segment: "Life is Hard, Kid". Some people don't like you, YB. "But not Wanon, even Rafizi doesn't like me." But that tone sounds like a tone wanting to make friends.
 
 **Rafizi:** In Form One, the Malay language teacher taught how intonation and words can have different meanings. For example: "Monkey eats banana." "Monkey eats banana" is a statement. "Monkey eats banana..." means you're a monkey eating a banana. So this is the same. If "Rafizi doesn't like me," it's just a statement. But if "Rafizi doesn't like me..." sad, his connotation is a little different.
 
-**Host:** Wan Fazudin said, "In the past we cursed Tan Sri Azam Baki because back then Tan Sri Azam Baki didn't arrest the robbers, because the PM at the time was the mastermind of the robbers. But now Tan Sri Azam Baki is doing a good job catching corruption, that's why we support him to the death."
+**Host:** Wan Fayhsal said, "In the past we cursed Tan Sri Azam Baki because back then Tan Sri Azam Baki didn't arrest the robbers, because the PM at the time was the mastermind of the robbers. But now Tan Sri Azam Baki is doing a good job catching corruption, that's why we support him to the death."
 
 **Rafizi:** We can spin it however we want, but the view of ordinary people and 99.9% of Malaysians who don't have a political brain—an ordinary brain, an ordinary logical brain—is that if we previously opposed and demanded SPRM reforms, including having Tan Sri Azam Baki no longer be the Chief Commissioner of the SPRM in 2020, that matter is not erased in a span of 3 to 4 years just because we are now the government. That is the burden placed on the government.
 
