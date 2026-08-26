@@ -613,7 +613,7 @@ Okay, ya — actually, yalah, bila kita cerita pasal work-life balance, pasal so
 
 **Haziq (kepada diri sendiri, dipotong rakan):** Apa? Kau nak landing kat mana ni? Oh, ok, sila landing.
 
-**Haziq:** Nak dinampak, representasi. Nak dinampak. Jadi... dia tak jive kat situ. Apa yang anak-anak muda nak sebenarnya? Okey, Pak An yang tua nak bercakap.
+**Haziq:** Nak dinampak, representasi. Nak dinampak. Jadi... dia tak jive kat situ. Apa yang anak-anak muda nak sebenarnya? Okey, Pa'an yang tua nak bercakap.
 
 **Farhan (Pa'an):** Millennial ni, saya nak tanya — actually, Gen Z minat ke kepada politik? Basically, are you guys following the politics of the nation?
 

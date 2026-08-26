@@ -11,7 +11,7 @@ view_count: 120754
 hosts:
 - Rafizi Ramli
 guests:
-- Pak Han
+- Pa'an
 topics:
 - Hari Raya banter and toll discount timing
 - Viral 'Beria' news segment
@@ -346,7 +346,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Speaker 2:** So you think I have experience, huh?
 
-**Rafizi Ramli:** We more or less understand this, don't we. I think a large portion of Malaysians don't even understand how these people operate. And what's funny is, I have a bodyguard — my bodyguard, he's fully trained and all that — so I often chat with my bodyguard, I need to explain to him about this underworld, and he doesn't understand it. Like how do illegal earnings work, what does that even mean? How do people make money from gambling? He doesn't understand. So I think, for us to understand the implicit part — because the implicit part will answer the main question, namely the extent of involvement, exposure, and also whether government leaders, leaders of enforcement agencies, have been compromised by criminal activities and elements — before we get to the corporate mafia exposed by Bloomberg, we need to rewind all the way to the source and how that activity happens. So how does it work? Pak Han might know, he was a bit of a bad boy — so go.
+**Rafizi Ramli:** We more or less understand this, don't we. I think a large portion of Malaysians don't even understand how these people operate. And what's funny is, I have a bodyguard — my bodyguard, he's fully trained and all that — so I often chat with my bodyguard, I need to explain to him about this underworld, and he doesn't understand it. Like how do illegal earnings work, what does that even mean? How do people make money from gambling? He doesn't understand. So I think, for us to understand the implicit part — because the implicit part will answer the main question, namely the extent of involvement, exposure, and also whether government leaders, leaders of enforcement agencies, have been compromised by criminal activities and elements — before we get to the corporate mafia exposed by Bloomberg, we need to rewind all the way to the source and how that activity happens. So how does it work? Pa'an might know, he was a bit of a bad boy — so go.
 
 **Speaker 2:** I went to a religious school.
 
@@ -486,7 +486,7 @@ Okay, we have three more topics here, baby. I suggest we do the last two after R
 
 This actually depends on one very big question: did the US Supreme Court's decision that day actually cancel the entire agreement we signed outright, including those one-sided terms, or did it only cancel the tariff itself without disturbing the agreement?
 
-**Pak Han:** From my understanding, that earliest tariff announcement was a precursor to the upcoming trade deal negotiations. So, Malaysia went early and then negotiated a new trade deal — goodbye. What the Supreme Court cancelled was the tariff that served as that precursor. So technically, is — this is our question — technically, is it only the initial tariff that was cancelled?
+**Pa'an:** From my understanding, that earliest tariff announcement was a precursor to the upcoming trade deal negotiations. So, Malaysia went early and then negotiated a new trade deal — goodbye. What the Supreme Court cancelled was the tariff that served as that precursor. So technically, is — this is our question — technically, is it only the initial tariff that was cancelled?
 
 **Rafizi Ramli:** I think if you ask Tengku Zafrul too, he'll answer just like you guys would — which is, actually nobody knows. My understanding is — when President Trump imposed this reciprocal tariff, he used a certain power under an act that's more of an emergency power, emergency powers — sounds just like Muhyiddin Yassin, emergency powers. He used that power, and it was challenged because in the US, the power to tax belongs to Congress, not the President. And as we all know, the US Supreme Court ruled that this was not valid — Trump did not have that power.
 
@@ -506,36 +506,36 @@ There's a possibility like this: when these investigations find that unfair trad
 
 All of this is something that should be discussed in Cabinet, and it's also something we want to hear from Dato' Seri Johari Ghani — what is his actual plan? We can't just simply say it's been cancelled and treat it as cancelled. It doesn't work like that. We should already be able to anticipate, given that the US is currently investigating Malaysia and Malaysia's trade practices, that they will impose tariffs based on other legal authority. So this matter is still not resolved. In my view, the government should use this reasoning immediately to cancel it — write a letter, or restate that we've decided not to ratify it, so that it becomes void. If there are new tariffs, those will be renegotiated.
 
-**Pak Han:** My question is — does the cancellation process need to be two-way, or can just one party say "I don't want to do this" and the other party has to accept it? Because in my opinion, Malaysia is currently in a difficult position — we signed it, but because of the Supreme Court ruling, we're now saying we can't, we don't want to do this anymore.
+**Pa'an:** My question is — does the cancellation process need to be two-way, or can just one party say "I don't want to do this" and the other party has to accept it? Because in my opinion, Malaysia is currently in a difficult position — we signed it, but because of the Supreme Court ruling, we're now saying we can't, we don't want to do this anymore.
 
 **Rafizi Ramli:** If I can recall — we read that agreement paragraph by paragraph, we went through it. There is indeed a termination clause. It's definitely possible, Malaysia can terminate it now. In fact, I've been asked about this before — my view then and now is the same: we do have the right to cancel or terminate it. But ideally, it shouldn't be a unilateral termination; it should be a mutual termination. A unilateral termination would embarrass the United States — meaning, it would look as if some small, disrespectful country just went ahead and cancelled it on its own, as if it thinks it's big enough to do so, and that could provoke a dispute. So even though there's a termination clause in the current AT agreement and Malaysia could simply use it, that's not a wise choice for our diplomatic-economic relationship with the US. So whether we like it or not, it needs to be reached by mutual consent — it must be a mutual agreement. That, in my view, needs to be led by MITI right now, to reach a mutual agreement for us to move on from this AT agreement, and if both countries agree to cancel it and want to negotiate a new one, then you can start afresh. That's how it's done.
 
 But certainly, I'm not comfortable with the current government giving the impression that all of this is already settled. What did Tengku Zafrul say — "Rafizi wants to spin all this, when the court says this we don't have to pay" — no, this matter isn't settled yet. It's the same when Datuk Seri Johari Ghani gives the impression that the agreement has been cancelled because of the court ruling — it's not. So this matter will continue to drag on and requires a definitive decision from the government. I don't mean to make this personal against Datuk Seri Johari Ghani, but when the effect of the MITI Minister's statement makes it seem as though we unilaterally cancelled the agreement, international media has already reported it — "Malaysia is the first country" [to do so], according to that report. That's why I think it needs to be corrected immediately.
 
-**Pak Han:** Just to revisit this — "either party may terminate this agreement by [written] notification to the other party." So technically, if we write to them saying it's cancelled, it's cancelled?
+**Pa'an:** Just to revisit this — "either party may terminate this agreement by [written] notification to the other party." So technically, if we write to them saying it's cancelled, it's cancelled?
 
 **Rafizi Ramli:** It's possible, but as I said, the termination clause does exist, it's just that it's practically impossible for Malaysia to dare do that, because that would essentially be picking a fight. Unless it had already been agreed beforehand that Malaysia would write such a notice, and the US would accept it with open arms. If we can't do it unilaterally, we write to them, and we expect the US to say "thank you, dear, I accept" — it doesn't work like that. So I think, that's the way it goes... [sound of an emergency vehicle passing outside] Okay, we need to wrap up here — this matter will continue to develop, and there will probably be many more podcast episodes ahead where we need to discuss this AT agreement.
 
-**Pak Han:** So in conclusion, don't rush, right?
+**Pa'an:** So in conclusion, don't rush, right?
 
 **Rafizi Ramli:** Yes, don't rush to announce that it's been cancelled. Don't rush in anything. This is what happens when you rush — in the end, someone lets it slip that it's actually cancelled, then rushes to reverse it, saying it's not cancelled yet. So don't rush — one person speaks, and five other people have to clean up the consequences. Okay, I think that's it, baby. Happy Hari Raya, Happy Hari Raya! God willing I've already arrived at my hometown, bye — our time is up too.
 
-**Pak Han:** No—
+**Pa'an:** No—
 
-**Rafizi Ramli:** Not really surprised, or is it too early? Is the YB about to move out or what — don't worry, as if I'd tell you, lots of mafia, dangerous, dangerous, dangerous, it's classified. All my movements can't be told to anyone — everything is confidential. Okay, alright. Happy Hari Raya, Happy Hari Raya! I apologize for any wrongdoing, I apologize for any wrongdoing. I'm really sorry, I apologize. I've done a lot wrong to the viewers too — I apologize to the viewers regarding myself. Many of my faults. Pak Han?
+**Rafizi Ramli:** Not really surprised, or is it too early? Is the YB about to move out or what — don't worry, as if I'd tell you, lots of mafia, dangerous, dangerous, dangerous, it's classified. All my movements can't be told to anyone — everything is confidential. Okay, alright. Happy Hari Raya, Happy Hari Raya! I apologize for any wrongdoing, I apologize for any wrongdoing. I'm really sorry, I apologize. I've done a lot wrong to the viewers too — I apologize to the viewers regarding myself. Many of my faults. Pa'an?
 
-**Pak Han:** I apologize too, since I've made many mistakes as well.
+**Pa'an:** I apologize too, since I've made many mistakes as well.
 
 **Rafizi Ramli:** What's wrong with that? What is this — your Raya greetings are so animated.
 
-**Pak Han:** That's because we're not politicians.
+**Pa'an:** That's because we're not politicians.
 
 **Rafizi Ramli:** But the YB will have a special appearance, right? I'll have a special appearance — wait for my Raya greeting. But are we putting it into the Beria segment for next week's segment? Let's see people's response — if people say Beria, we'll definitely put it in, let's see the response. If I get trolled, then it definitely goes into Beria. So there's a conflict of interest if next week it's me who gets trolled — once it's over, bring me back in. This is the material for the YB's Raya greeting this year that will be released later.
 
-**Pak Han:** Okay.
+**Pa'an:** Okay.
 
 **Rafizi Ramli:** That's it. Happy Raya, Happy Raya! Oh, take good care of the car.
 
-**Pak Han:** Okay, bye. Assalamualaikum.
+**Pa'an:** Okay, bye. Assalamualaikum.
 
 **Rafizi Ramli:** Assalamualaikum.

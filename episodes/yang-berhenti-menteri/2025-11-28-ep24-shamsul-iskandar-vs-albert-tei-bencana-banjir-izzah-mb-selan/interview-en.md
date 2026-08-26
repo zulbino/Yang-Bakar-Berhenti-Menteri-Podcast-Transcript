@@ -98,7 +98,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** They say Hatyai. It's just our people who say Hatnyai.
 
-**Haziq:** Oh, it's Hatyai. I was just testing who goes there often. But Pak Han goes there more often — who can pronounce it properly. Isn't there an AMK getaway in Hatyai too? They didn't invite me. How could they. So what's up with this? So worked up over a lie to the wife — he could've just said it plainly. What would he even say? I really want to know, I'm not used to lying.
+**Haziq:** Oh, it's Hatyai. I was just testing who goes there often. But Pa'an goes there more often — who can pronounce it properly. Isn't there an AMK getaway in Hatyai too? They didn't invite me. How could they. So what's up with this? So worked up over a lie to the wife — he could've just said it plainly. What would he even say? I really want to know, I'm not used to lying.
 
 **Farhan (Pa'an):** People who ride big bikes usually go to Hatyai. Why do people with big bikes go to Hatyai? Because it's the first stop after crossing the border, on the way to northern Thailand.
 
@@ -234,7 +234,7 @@ So that way we could save hundreds of millions every year. It's just that media 
 
 **Haziq:** It wasn't discussed, because here's how it works — the decision on which departments exist and so on is the Prime Minister's decision. So the discussions I had during government formation were indeed largely between me and Dato' Seri Anwar, regarding which ministries, how we'd merge them, what names, and also in the early stages of December 2022, who would be in charge of which ministry. Decisions regarding departments are all decisions made by the Prime Minister together with both Chief Secretaries. So the decision to retain JCOM was Dato' Seri Anwar's decision. That's why early on it was placed under the PMO. And after that decision was made, in cabinet, it's not discussed randomly or casually — it follows a paper, right. It follows the paper. That's never happened — discussing JCOM. Unless, for example now, the Ministry of Communications which oversees JCOM — unless the Ministry of Communications brings a paper to the Cabinet, a Cabinet Memorandum, informing us they want to abolish and dissolve JCOM — only then would JCOM be discussed.
 
-**Farhan (Pa'an):** So I want to highlight one thing — which is, before this, PH supporters themselves said JCOM should be abolished, it's a waste of money, this and that. Thanks for watching! But why does it still exist? Pak An, JASA had 80 million...
+**Farhan (Pa'an):** So I want to highlight one thing — which is, before this, PH supporters themselves said JCOM should be abolished, it's a waste of money, this and that. Thanks for watching! But why does it still exist? Pa'an, JASA had 80 million...
 
 **Haziq:** This one is 16 million.
 
@@ -302,7 +302,7 @@ But I do agree, ideally, except in cases of dire necessity — because if you lo
 
 **Haziq:** Alright YB, clear on the first issue. We already have a guest waiting on the next page. Oh really? Syamsul Iskandar's voice, how are you? Can you hear? No, not really.
 
-**Haziq:** Finally, Syamsul Iskandar. You've all taken plenty of photos of him already, poor guy. Pak An, Pak An, YB.
+**Haziq:** Finally, Syamsul Iskandar. You've all taken plenty of photos of him already, poor guy. Pa'an, Pa'an, YB.
 
 **Haziq:** Yes, we all know what happened. But I think the PM's statement at the election yesterday got quite a mixed response from netizens. He said that Syamsul Iskandar's decision to resign is proof that this Madani government has integrity. Because no leader has done this before, but now we have one.
 

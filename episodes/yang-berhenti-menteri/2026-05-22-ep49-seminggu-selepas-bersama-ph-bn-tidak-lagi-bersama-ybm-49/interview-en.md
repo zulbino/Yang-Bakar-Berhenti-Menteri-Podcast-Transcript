@@ -783,7 +783,7 @@ And lastly — this is what everyone keeps asking me — those who've already be
 
 **Farhan (Pa'an):** Let's not bring Fuziah into this seriously.
 
-**Rafizi Ramli:** It's okay, poor thing. Give her a moment. Let DAP have her. What is this? And last week too, I was actually wearing the mouse deer shirt. That's why if people noticed, go back and watch the video, Pak An kept giving signals, he was worried the mouse deer logo would show. I was actually getting annoyed because every so often I had to... pull it.
+**Rafizi Ramli:** It's okay, poor thing. Give her a moment. Let DAP have her. What is this? And last week too, I was actually wearing the mouse deer shirt. That's why if people noticed, go back and watch the video, Pa'an kept giving signals, he was worried the mouse deer logo would show. I was actually getting annoyed because every so often I had to... pull it.
 
 **Farhan (Pa'an):** Right, pull it. Pull it. At one point you said, "oh, it's cold."
 

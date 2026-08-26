@@ -10,9 +10,9 @@ view_count: 336299
 hosts:
 - Rafizi Ramli
 guests:
-- Pak An
+- Pa'an
 - Haziq
-- Pak Han
+- Pa'an
 topics:
 - Police escort (pengiring) culture and misuse of public perks
 - Selangor MB Amiruddin's social media strategy and authenticity in political branding
@@ -78,7 +78,7 @@ Okay, next — let's talk about another hot topic: the Selangor Menteri Besar. I
 
 I noticed this has been running for two or three months before it started gaining traction. I personally find it cringe to watch — because he's odd, for example he's the only MB who prays at a mosque while abroad, and he captioned it "the only MB who prays at a mosque even when overseas" — but there are big mosques like that in Indonesia too. Then there's also a video of him washing his own dishes without hiring help, a video of an MB's morning routine, and so on. We can't read his intentions, but I think a large part of this is the work of his media advisors.
 
-Let me ask Pak An — if someone tried to do something like this to me, I'd definitely reject it outright. Why, Pak An?
+Let me ask Pa'an — if someone tried to do something like this to me, I'd definitely reject it outright. Why, Pa'an?
 
 **Farhan (Pa'an):** It's not you.
 

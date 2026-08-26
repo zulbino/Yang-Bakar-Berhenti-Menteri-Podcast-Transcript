@@ -611,7 +611,7 @@ Okay, ya — sebenarnya, bila kita bercakap tentang work-life balance, tentang m
 
 **Haziq (kepada diri sendiri, dipotong rakan):** Apa? Kau nak mendarat kat mana ini? Oh, ok, sila mendarat.
 
-**Haziq:** Hendak dinampak, representasi. Hendak dinampak. Jadi... dia tak selaras di situ. Apa yang anak-anak muda mahu sebenarnya? Okey, Pak An yang tua nak bercakap.
+**Haziq:** Hendak dinampak, representasi. Hendak dinampak. Jadi... dia tak selaras di situ. Apa yang anak-anak muda mahu sebenarnya? Okey, Pa'an yang tua nak bercakap.
 
 **Farhan (Pa'an):** Milenial ini, saya nak tanya — sebenarnya, Gen Z minat kah kepada politik? Pada asasnya, adakah kamu semua mengikuti politik negara?
 

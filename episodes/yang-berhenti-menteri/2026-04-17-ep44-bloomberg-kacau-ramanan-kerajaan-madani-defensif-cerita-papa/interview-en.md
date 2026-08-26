@@ -77,7 +77,7 @@ Hehe, that's just creepy, right? Plus another 191 python gallbladders. Are you s
 
 Okay, this is related to a seizure made in Johor, involving a Vietnamese national who was arrested together with what we call gallbladders — gallbladders, and various other things — also snake tongues, which were allegedly meant to be smuggled and used for medicine.
 
-What's strange is — assuming, say, one gallbladder comes from one python, one tongue also comes from one python. That means he's killed 1,200 pythons. That's a lot of Titan pythons in Malaysia — that's what scares me more. Maybe it's a farm. Ha, he farms them. That's even more terrifying — meaning if you go to Johor, there's a python farm, is that insane? Probably hidden somewhere. Maybe these pythons aren't that big? They're big, right? Big. Okay okay, just a little, I'm scared now. Okay, wow — to think, if you go by Pak An, he even has a python farm. Crazy stuff. My feet are already lifting off the ground, I'm scared to even step on the ground now.
+What's strange is — assuming, say, one gallbladder comes from one python, one tongue also comes from one python. That means he's killed 1,200 pythons. That's a lot of Titan pythons in Malaysia — that's what scares me more. Maybe it's a farm. Ha, he farms them. That's even more terrifying — meaning if you go to Johor, there's a python farm, is that insane? Probably hidden somewhere. Maybe these pythons aren't that big? They're big, right? Big. Okay okay, just a little, I'm scared now. Okay, wow — to think, if you go by Pa'an, he even has a python farm. Crazy stuff. My feet are already lifting off the ground, I'm scared to even step on the ground now.
 
 **Aziz:** Here's a fun fact — Malaysia is home to the world's top wildlife smuggler.
 
@@ -99,7 +99,7 @@ One thing about Tan Sri Azam Baki — his boldness, even in a situation where ev
 
 **Rafizi Ramli:** Azam Baki, baby. Yeah, obviously people don't really like him and he hasn't succeeded with whatever comms plan was made. My advice to Tan Sri Azam Baki — maybe he should change his PR team. But I feel for the PR team too — even bringing in the most brilliant PR team from Hollywood, I don't think it could change public opinion about him. Okay, good luck to the PR team. And boldly — if there's any PR person watching this, hey, they're in trouble. Because I've been informed that one of MACC's responses is to ensure that whenever there's a YB podcast episode, certain people from MACC have to become cyber troopers to attack us. So if you don't want to become a cyber trooper, maybe it's best to pray that his contract isn't renewed. InsyaAllah — you sound so confident, but never mind.
 
-Let's look at more social media. This is a quote from a Deputy Minister: "Why is Anwar Ibrahim's nose so red like that?" That's mean, Pak An. Let it drip a little — eh, not us.
+Let's look at more social media. This is a quote from a Deputy Minister: "Why is Anwar Ibrahim's nose so red like that?" That's mean, Pa'an. Let it drip a little — eh, not us.
 
 **Aziz:** Us.
 
@@ -141,7 +141,7 @@ So you would think Anwar would be the most experienced person regarding the poli
 
 **Aziz:** YB, maybe we'll discuss government communications in a later segment. It's just, this might be a nightmare for the Prime Minister's stratcom team — they've planned everything nicely, but every weekend, controversial statements just keep popping up until it comes out from him and explodes, every single week, consistently. And people will remember what he said more than the other speeches. Yes.
 
-**Rafizi Ramli:** I don't think... okay, coming back to what you said, meaning it's a nightmare for the media team or stratcom, if there is such a thing, strategic communication. Pak An was afraid because when he first came — okay, let me tell an inside story about Pak An. This is a media person, right, someone used to content, social media, strategic communication. So I didn't know Pak An at all, didn't know him at all, didn't even want to meet him. So a friend recommended him, "sure, okay, come on," he came for an interview. Hahaha. So you can all focus on Pak An's face already turning red. So Pak An talked about strategic communication, all of it, how things develop, the strategies — I listened to everything he said.
+**Rafizi Ramli:** I don't think... okay, coming back to what you said, meaning it's a nightmare for the media team or stratcom, if there is such a thing, strategic communication. Pa'an was afraid because when he first came — okay, let me tell an inside story about Pa'an. This is a media person, right, someone used to content, social media, strategic communication. So I didn't know Pa'an at all, didn't know him at all, didn't even want to meet him. So a friend recommended him, "sure, okay, come on," he came for an interview. Hahaha. So you can all focus on Pa'an's face already turning red. So Pa'an talked about strategic communication, all of it, how things develop, the strategies — I listened to everything he said.
 
 Because in my book actually, the moment you need to have strategic communication, that means we already have a problem with what we want to convey. It's easier to just speak the truth — nothing beats telling the truth. Except, the first time you say it, people might not listen, people get angry, or don't feel it, or there are haters who'll remain haters no matter what you say. But if we consistently speak the truth, if we present and share an issue from a fair and truthful perspective, in the case of a politician, to the people, eventually that narrative will begin to be accepted by society because society is rational. It's a bell curve — there will be haters, there will be others, no matter what you say they won't accept it, whether because of politics or whatever. But actually the top of the bell curve, they're rational. If we explain, eventually they'll see, even though I don't like this person, actually what he said is true.
 
@@ -165,7 +165,7 @@ I'm more inclined to — oh God, Syahir, don't ride on my back to make content. 
 
 **Aziz:** Boldness award, okay man, we're done, let's rate it.
 
-**Rafizi Ramli:** Oh God, now there's a voice too. Give it to Pak An, Rik Pak An.
+**Rafizi Ramli:** Oh God, now there's a voice too. Give it to Pa'an, Rik Pa'an.
 
 **Aziz:** Oh, I — yes, Alhamdulillah. As if I'd be scared of a snake. I want to rate Syahir as...
 

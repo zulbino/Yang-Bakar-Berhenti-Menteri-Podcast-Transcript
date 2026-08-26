@@ -9,7 +9,7 @@ duration: 2h 45m
 view_count: 203668
 hosts:
 - Rafizi Ramli
-- Speaker 2 (Pak An/Aan)
+- Speaker 2 (Pa'an/Aan)
 guests:
 - Chopper (co-host, cat)
 topics:
@@ -208,7 +208,7 @@ Dan lapisan, kalau kita nak kira, mengupas benda ini secara moral untuk yang leb
 
 **Rafizi Ramli:** Dia bermula dengan orang bagi, dan orang bagi tu ialah kerana kita tutup sebelah mata — rasuah tak rasuah ni, ada je alasan kita. Kalau yang itu kita pergi kejar, yang ini kalau kawan kita, tak apa. Alasannya ialah, "oh, parti politik memang perlukan duit." Tapi kalau perlukan duit itu contoh bayar sewa, ataupun bila turun ke bawah sewa dewan ataupun ada makan-makan sikit, saya faham lah. Tapi bentuk yang macam itu tidak memerlukan ratu-ratu juta — dia mahal jadi ratu-ratu juta ni ialah kerana dia tabur duit macam ni lah, kalau seorang kena bagi RM200, bayar setiap kepala, kan. Dan kita semua tahu parti-parti utama di Malaysia semua buat. Bukti dah ada, siap ada tu, kalau dalam pilihan raya umum yang lepas, siap angkat — apa dia panggil, "angkat baik lah, wallahi saya undi tu." Wallahi semua kan, dan dia boleh gelak-gelak, senyum-senyum. "Wallahi saya akan undi tu" semua kan. Dia mungkin kata, "ikut suka saya lah saya nak undi siapa." Tapi itu dua soalan yang dia tak tanya lah, iaitu dari mana datang duit ni. Kalau dia tanya soalan itu, dia tahu ini duit bawah meja, duit rasuah ni. Dan soalan seterusnya, apa hukumnya aku makan duit rasuah, kerana dia mengambil hak orang lain, kan. Tapi kita je lah dalam podcast ni bising-bising, orang lain tak peduli pun lah.
 
-**Speaker 2:** Jadi sebab itu, kalau Pak An tanya, macam mana kita nak menghentikan semua ni, kan? Soalnya sama, boleh menghentikan atau tidak amalan ini —
+**Speaker 2:** Jadi sebab itu, kalau Pa'an tanya, macam mana kita nak menghentikan semua ni, kan? Soalnya sama, boleh menghentikan atau tidak amalan ini —
 
 **Rafizi Ramli:** Itu bukan di tangan kita.
 
@@ -572,7 +572,7 @@ Baik, baby. Lama dah kot.
 
 **Speaker 3:** Tak, I think dia in heat. Ya ke? Ya ke? Ya ke? Ya ke? Kena hantar neuter. Dia tak neuter lagi ke? Street cat. Mana kau tahu? Oh, maksud saya... dia punya jingga bel belakang tu usah lagi. Okay, baik.
 
-**Rafizi Ramli:** Itu saja. We don't want to go into Chopper's jingga bel. Okay, jadi insyaAllah penerima ni kita jumpa lagi. Kita sedang rancang dengan lebih tersusun lah semua pergerakan bersama. Kemudian itu akan diselaraskan dengan IRL, saluran YouTube kami akan ada program-program yang lebih tersusun. Dia bukan ad-hoc macam sekejap-sekejap ada, sekejap-sekejap tak ada lah. Aku sebenarnya bagi arahan secara live kepada Pak An. Okay.
+**Rafizi Ramli:** Itu saja. We don't want to go into Chopper's jingga bel. Okay, jadi insyaAllah penerima ni kita jumpa lagi. Kita sedang rancang dengan lebih tersusun lah semua pergerakan bersama. Kemudian itu akan diselaraskan dengan IRL, saluran YouTube kami akan ada program-program yang lebih tersusun. Dia bukan ad-hoc macam sekejap-sekejap ada, sekejap-sekejap tak ada lah. Aku sebenarnya bagi arahan secara live kepada Pa'an. Okay.
 
 **Speaker 2:** Jadi, itu saja YB. Selamat malam. Kita nantikan pengumuman-pengumuman seterusnya tentang PRN Melaka dan banyak lagi. Terima kasih. Kita jumpa lagi. Assalamualaikum.
 

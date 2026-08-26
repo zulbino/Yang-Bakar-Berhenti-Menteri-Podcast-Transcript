@@ -75,7 +75,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [11:34] Haziq: Hatyai. Cuma orang kita Hatnyai.
 
-[11:36] Haziq: Oh dia Hatyai. Aku sahaja nak test siapa yang selalu pergi ni. Tapi Pak Han lagi selalu. Siapa yang selalu, siapa yang boleh pronounce properly. Bukan DMK ada getaway dekat Hatyai pula. Oh AMK. Diorang tak jemput saya. Sampai hati. So apa kita ni?
+[11:36] Haziq: Oh dia Hatyai. Aku sahaja nak test siapa yang selalu pergi ni. Tapi Pa'an lagi selalu. Siapa yang selalu, siapa yang boleh pronounce properly. Bukan DMK ada getaway dekat Hatyai pula. Oh AMK. Diorang tak jemput saya. Sampai hati. So apa kita ni?
 
 [11:54] Haziq: Berialah tipu isteri Boleh je cakap Nak cakap apa eh? Saya minta tahu Tak biasa menipu lah
 
@@ -225,7 +225,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [50:41] Haziq: tak dia dia tak dibincangkan tak dibincangkan sebab dia begini Keputusan untuk menentukan jabatan mana semua keputusan Perdana Menteri. Jadi perbincangan dengan saya masa pembentukan kerajaan memang betul. Perbincangan itu sebahagian besarnya antara saya dengan Dato' Seri Anwar kan. Kementerian mana, macam mana kita nak gabung, nama apa dan juga yang pada peringkat awal Desember 2022 itu siapa untuk Kementerian mana kan. Keputusan mengenai jabatan semua itu, itu semua keputusan Perdana Menteri dengan kedua-dua setusun negara. Jadi keputusan untuk mengekalkan JKOM itu ialah keputusan Dato' Seri Anwar. Sebab itu awal-awal dia berada di bawah PMO. Dan selepas keputusan itu dibuat, di kabinet dia bukan sembang random rawak ke apa, dia mengikut kertas kan. Dia mengikut kertas, itu tak pernah ada. bincanglah mengenai JKOM. Kecuali contohnya, sekarang ini Kementerian Komunikasi yang JKOM, yang kawal JKOM. Kecuali Kementerian Komunikasi bawa kertas ke Jemaah Menteri, Memorandum Jemaah Menteri, beritahu kami nak menghapuskan dan membubarkan JKOM. Barulah bincang tentang JKOM.
 
-[52:09] Farhan (Pa'an): So, saya nak highlight satu benda lah. Which is, sebelum ni penyokong PH yang sendiri kata kena bubar JKOM, bazir duit lah, inilah itulah. Terima kasih kerana menonton! Tapi kenapa kita masih ada jekor? Pak An, jasa 80
+[52:09] Farhan (Pa'an): So, saya nak highlight satu benda lah. Which is, sebelum ni penyokong PH yang sendiri kata kena bubar JKOM, bazir duit lah, inilah itulah. Terima kasih kerana menonton! Tapi kenapa kita masih ada jekor? Pa'an, jasa 80
 
 [52:23] Haziq: juta. Ini 16 juta. 16
 
@@ -293,7 +293,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:19:05] Haziq: Baik YB, clear untuk isu yang pertama. Kita dah ada tetamu yang menanti-nanti di page yang seterusnya. Oh iya ke? Suara Syamsul Iskandar, apa khabar? Dengar ke? Tak adalah.
 
-[1:19:18] Haziq: Akhirnya Syamsul Iskandar. Korang pun banyak-banyak gambar, ambil gambar ni kesian kat dia. Pak An, Pak An YB.
+[1:19:18] Haziq: Akhirnya Syamsul Iskandar. Korang pun banyak-banyak gambar, ambil gambar ni kesian kat dia. Pa'an, Pa'an YB.
 
 [1:19:28] Haziq: Yelah kita tahulah apa yang berlaku semua. Cuma saya rasa kenyataan PM di pilihan raya semalam yang agak dapat respon yang pelbagai lah daripada netizen kan. Katanya keputusan Syamsul Iskandar meletak jawatan ni adalah bukti bahawa kerajaan madani ni berintegriti. Sebabnya mana ada pemimpin yang buat macam ni dahulu. Sekarang kita ada.
 

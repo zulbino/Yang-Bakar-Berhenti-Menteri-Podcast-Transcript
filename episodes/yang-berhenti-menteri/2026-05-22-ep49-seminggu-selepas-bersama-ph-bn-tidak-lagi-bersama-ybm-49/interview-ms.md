@@ -782,7 +782,7 @@ Dan yang terakhir, yang ini semua orang bertanya kepada saya — yang sudah menj
 
 **Farhan (Pa'an):** Kita tidak libatkan Fuziah dalam hal ini.
 
-**Rafizi Ramli:** Tidak mengapalah, kesian dia. Beri dia sedikit masa. Berikan dia kepada DAP. Apa ini? Dan minggu lepas pun memang saya pakai baju kancil. Sebab itu kalau orang perasan, pergi tengok balik video, Pak An duduk memberi isyarat, dia takut logo kancil itu terkeluar kelihatan. Saya sebenarnya menyampah sebab sedikit-sedikit saya kena... tarik.
+**Rafizi Ramli:** Tidak mengapalah, kesian dia. Beri dia sedikit masa. Berikan dia kepada DAP. Apa ini? Dan minggu lepas pun memang saya pakai baju kancil. Sebab itu kalau orang perasan, pergi tengok balik video, Pa'an duduk memberi isyarat, dia takut logo kancil itu terkeluar kelihatan. Saya sebenarnya menyampah sebab sedikit-sedikit saya kena... tarik.
 
 **Farhan (Pa'an):** Betul, tarik. Tarik. Pada satu ketika awak cakap, "oh sejuklah."
 

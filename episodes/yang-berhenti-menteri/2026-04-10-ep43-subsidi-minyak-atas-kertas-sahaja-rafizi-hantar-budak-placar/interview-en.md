@@ -203,7 +203,7 @@ So Petronas will negotiate with the government. And to answer Isyam Jalil — he
 
 Whoever forms the government, if they're responsible, needs to know there's a limit to how much money can be taken from Petronas, because Petronas needs that money to buy oil blocks in other countries. That's why Petronas is now in Brazil, in Suriname, in Guinea — because Sudan has already been taken. They need to find other blocks, and at the international level they have to compete with the world's biggest companies — Shell, Exxon, Conoco, Chevron, who have a lot of money. If you go pleading without money, even if you get the block, there's no money to develop it — how? Each block can cost tens of billions. So all this, I don't even understand how Isyam Jalil can speak as if he's smarter than the Prime Minister at the time. That's what I call nonsense, and it makes public discussion of oil issues more difficult.
 
-**Haziq:** Okay, Pak Han wants to ask — because we have half, that was only half about oil.
+**Haziq:** Okay, Pa'an wants to ask — because we have half, that was only half about oil.
 
 **Rafizi Ramli:** No, no, no, I don't want to disturb. Maybe to Sanusi next, I think? No, no, no, Sanusi is actually fine compared to Isyam Jalil, let me answer a bit.
 

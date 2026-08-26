@@ -97,7 +97,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Farhan (Pa'an):** Mereka menyebutnya Hatyai. Cuma orang kita menyebut Hatnyai.
 
-**Haziq:** Oh, Hatyai. Saya cuma nak menguji siapa yang selalu pergi ke sana. Tapi Pak Han lagi kerap — siapa yang boleh sebut dengan betul. Bukankah AMK ada program bersantai di Hatyai juga? Mereka tidak menjemput saya. Sampai hati. Jadi apa kita ni? Bersemangat pula, menipu isteri, boleh saja diceritakan. Nak cakap apa pula? Saya minta maaf, tidak biasa menipu.
+**Haziq:** Oh, Hatyai. Saya cuma nak menguji siapa yang selalu pergi ke sana. Tapi Pa'an lagi kerap — siapa yang boleh sebut dengan betul. Bukankah AMK ada program bersantai di Hatyai juga? Mereka tidak menjemput saya. Sampai hati. Jadi apa kita ni? Bersemangat pula, menipu isteri, boleh saja diceritakan. Nak cakap apa pula? Saya minta maaf, tidak biasa menipu.
 
 **Farhan (Pa'an):** Selalunya orang yang menunggang motosikal besar ini memang pergi Hatyai. Sebab apa orang bawa motosikal besar pergi Hatyai? Sebab ia adalah persinggahan pertama selepas melintasi sempadan, sebelum menuju ke utara Thailand.
 
@@ -233,7 +233,7 @@ Jadi dengan cara itu kita boleh menjimatkan beratus-ratus juta setiap tahun. Cum
 
 **Haziq:** Tidak dibincangkan, sebab begini — keputusan untuk menentukan jabatan mana semua, itu keputusan Perdana Menteri. Jadi perbincangan dengan saya semasa pembentukan kerajaan memang betul — perbincangan itu sebahagian besarnya antara saya dengan Dato' Seri Anwar, kementerian mana, bagaimana kita mahu menggabungkan, nama apa, dan juga pada peringkat awal Disember 2022 itu, siapa untuk kementerian mana. Keputusan mengenai jabatan semua itu, itu semua keputusan Perdana Menteri bersama kedua-dua setiausaha negara. Jadi keputusan untuk mengekalkan JCOM itu ialah keputusan Dato' Seri Anwar. Sebab itu awal-awal ia berada di bawah PMO. Dan selepas keputusan itu dibuat, di kabinet, ia bukan perbualan rawak — ia mengikut kertas. Ia mengikut kertas. Itu tak pernah ada — dibincangkan mengenai JCOM. Kecuali contohnya sekarang ini Kementerian Komunikasi yang mengawal JCOM — kecuali Kementerian Komunikasi membawa kertas ke Jemaah Menteri, Memorandum Jemaah Menteri, memberitahu kami mahu menghapuskan dan membubarkan JCOM — barulah dibincangkan tentang JCOM.
 
-**Farhan (Pa'an):** Jadi saya nak menekankan satu perkara — iaitu, sebelum ini penyokong PH sendiri berkata perlu dibubarkan JCOM, membazirkan wang, inilah, itulah. Terima kasih kerana menonton! Tetapi kenapa kita masih mempunyainya? Pak An, JASA 80 juta...
+**Farhan (Pa'an):** Jadi saya nak menekankan satu perkara — iaitu, sebelum ini penyokong PH sendiri berkata perlu dibubarkan JCOM, membazirkan wang, inilah, itulah. Terima kasih kerana menonton! Tetapi kenapa kita masih mempunyainya? Pa'an, JASA 80 juta...
 
 **Haziq:** Ini 16 juta.
 
@@ -301,7 +301,7 @@ Tapi memang saya setuju, sebaik-baiknya kecuali keperluan itu sangat mendesak �
 
 **Haziq:** Baik YB, jelas untuk isu yang pertama. Kita sudah ada tetamu yang menanti-nanti di halaman seterusnya. Oh iya ke? Suara Syamsul Iskandar, apa khabar? Dengar ke? Tak adalah.
 
-**Haziq:** Akhirnya Syamsul Iskandar. Korang pun banyak-banyak gambar, ambil gambar ni, kesian kat dia. Pak An, Pak An, YB.
+**Haziq:** Akhirnya Syamsul Iskandar. Korang pun banyak-banyak gambar, ambil gambar ni, kesian kat dia. Pa'an, Pa'an, YB.
 
 **Haziq:** Yelah, kita tahulah apa yang berlaku semua. Cuma saya rasa kenyataan PM di pilihan raya semalam yang agak mendapat respons yang pelbagai daripada netizen kan. Katanya keputusan Syamsul Iskandar meletak jawatan ini adalah bukti bahawa kerajaan Madani ini berintegriti. Sebabnya mana ada pemimpin yang buat macam ini dahulu, sekarang kita ada.
 
