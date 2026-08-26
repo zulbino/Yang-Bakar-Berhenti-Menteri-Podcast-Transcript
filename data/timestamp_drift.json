@@ -291,58 +291,58 @@
     "samples_matched": 10,
     "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 1193,
-    "flagged": true,
+    "max_drift_seconds": 212,
+    "flagged": false,
     "details": [
       {
-        "claimed": 196,
-        "actual": 192,
-        "drift": -4
+        "claimed": 279,
+        "actual": 324,
+        "drift": 45
       },
       {
-        "claimed": 317,
-        "actual": 308,
-        "drift": -9
+        "claimed": 545,
+        "actual": 538,
+        "drift": -7
       },
       {
-        "claimed": 418,
-        "actual": 418,
-        "drift": 0
+        "claimed": 671,
+        "actual": 665,
+        "drift": -6
       },
       {
-        "claimed": 531,
-        "actual": 517,
-        "drift": -14
+        "claimed": 1607,
+        "actual": 1693,
+        "drift": 86
       },
       {
-        "claimed": 603,
-        "actual": 593,
-        "drift": -10
+        "claimed": 2801,
+        "actual": 2851,
+        "drift": 50
       },
       {
-        "claimed": 711,
-        "actual": 715,
-        "drift": 4
+        "claimed": 3397,
+        "actual": 3398,
+        "drift": 1
       },
       {
-        "claimed": 1299,
-        "actual": 1432,
-        "drift": 133
+        "claimed": 3994,
+        "actual": 3999,
+        "drift": 5
       },
       {
-        "claimed": 1828,
-        "actual": 2070,
-        "drift": 242
+        "claimed": 4651,
+        "actual": 4653,
+        "drift": 2
       },
       {
-        "claimed": 3433,
-        "actual": 4626,
-        "drift": 1193
+        "claimed": 6027,
+        "actual": 6239,
+        "drift": 212
       },
       {
-        "claimed": 6482,
-        "actual": 6479,
-        "drift": -3
+        "claimed": 7106,
+        "actual": 7293,
+        "drift": 187
       }
     ]
   },
@@ -403,71 +403,66 @@
   },
   "2025-10-17-ep18-yang-berhenti-menteri-episod-18": {
     "status": "ok",
-    "samples_matched": 12,
-    "samples_not_found_nearby": 0,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 538,
-    "flagged": true,
+    "max_drift_seconds": 271,
+    "flagged": false,
     "details": [
       {
-        "claimed": 0,
-        "actual": 163,
-        "drift": 163
+        "claimed": 421,
+        "actual": 418,
+        "drift": -3
       },
       {
-        "claimed": 200,
-        "actual": 313,
-        "drift": 113
+        "claimed": 681,
+        "actual": 749,
+        "drift": 68
       },
       {
-        "claimed": 514,
-        "actual": 625,
-        "drift": 111
+        "claimed": 1032,
+        "actual": 1022,
+        "drift": -10
       },
       {
-        "claimed": 858,
-        "actual": 979,
-        "drift": 121
-      },
-      {
-        "claimed": 930,
-        "actual": 1209,
-        "drift": 279
-      },
-      {
-        "claimed": 2081,
-        "actual": 1543,
-        "drift": -538
-      },
-      {
-        "claimed": 2308,
-        "actual": 2347,
-        "drift": 39
-      },
-      {
-        "claimed": 3043,
-        "actual": 3470,
-        "drift": 427
-      },
-      {
-        "claimed": 4254,
-        "actual": 4250,
+        "claimed": 2082,
+        "actual": 2078,
         "drift": -4
       },
       {
-        "claimed": 6265,
-        "actual": 6271,
-        "drift": 6
+        "claimed": 2256,
+        "actual": 2251,
+        "drift": -5
       },
       {
-        "claimed": 7129,
-        "actual": 7156,
-        "drift": 27
+        "claimed": 2966,
+        "actual": 2967,
+        "drift": 1
       },
       {
-        "claimed": 7822,
-        "actual": 7814,
-        "drift": -8
+        "claimed": 3918,
+        "actual": 3918,
+        "drift": 0
+      },
+      {
+        "claimed": 4281,
+        "actual": 4552,
+        "drift": 271
+      },
+      {
+        "claimed": 5838,
+        "actual": 6066,
+        "drift": 228
+      },
+      {
+        "claimed": 6816,
+        "actual": 6953,
+        "drift": 137
+      },
+      {
+        "claimed": 7712,
+        "actual": 7747,
+        "drift": 35
       }
     ]
   },
@@ -608,21 +603,16 @@
   },
   "2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21": {
     "status": "ok",
-    "samples_matched": 2,
-    "samples_not_found_nearby": 10,
+    "samples_matched": 1,
+    "samples_not_found_nearby": 11,
     "samples_total": 12,
-    "max_drift_seconds": 55,
+    "max_drift_seconds": 18,
     "flagged": true,
     "details": [
       {
-        "claimed": 1394,
-        "actual": 1373,
-        "drift": -21
-      },
-      {
-        "claimed": 2573,
-        "actual": 2518,
-        "drift": -55
+        "claimed": 2804,
+        "actual": 2786,
+        "drift": -18
       }
     ]
   },
