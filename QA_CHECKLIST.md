@@ -36,7 +36,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-en.md looks truncated (ratio 0.27 vs raw.md, expected >= 0.35)
   - interview-ms.md looks truncated (ratio 0.24 vs raw.md, expected >= 0.35)
 - [ ] **2026-03-27-ep41-siapa-mr-r-bukti-40-muka-surat-tindak-balas-kerajaan-susulan**
-  - raw.md has a 33391-char block with no paragraph breaks (wall-of-text)
+  - raw.md has a 33388-char block with no paragraph breaks (wall-of-text)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 819s, 11/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar**
