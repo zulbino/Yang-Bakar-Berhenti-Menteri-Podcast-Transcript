@@ -16,7 +16,7 @@ topics:
 - Chinese New Year greetings and viral Mandarin video
 - PM Anwar allegedly acting as a cybertrooper defending MACC chief Azam Baki
 - PKR convention rhetoric and echo-chamber criticism
-- Bersatu internal conflict and religion-based politics (Wan Faisal)
+- Bersatu internal conflict and religion-based politics (Wan Fayhsal)
 - Fleximat and Kesum social enterprises and RM1.1 billion corruption trolling
 - Ramadan donation/delivery system via kesum.my and fleximat.my
 - Mind Your Mandarin language class launch
@@ -34,8 +34,7 @@ summary: In this episode of Rafizi Ramli's podcast, host Rafizi is joined by gue
   Bersatu camp) for a wide-ranging weekly review. They open with light banter about
   Chinese New Year, Rafizi's viral CNY Mandarin greeting video, and reminisce about
   how they first met through Anwar Ibrahim's office in the late 2000s. The bulk of
-  the episode is a 'beria' (viral-post) segment mocking PN/Bersatu figures like Wan
-  Faisal for politicising religion, criticising PM Anwar Ibrahim for personally forwarding
+  the episode is a 'beria' (viral-post) segment mocking PN/Bersatu figures like Wan Fayhsal for politicising religion, criticising PM Anwar Ibrahim for personally forwarding
   cybertrooper-style WhatsApp/Twitter content defending MACC chief Azam Baki and attacking
   Muda, and dissecting PKR's convention rhetoric ('PKR at its best') as echo-chamber,
   UMNO-style spin disconnected from ground sentiment (especially after backlash on
@@ -139,7 +138,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Speaker 1:** Oh really? There's an accusation saying the studio is at Menara Ilham. I can be a witness — this place is really a grassroots kind of place.
 
-**Speaker 2:** A grassroots place, eh, even parking here is hard. It's in a shophouse. Okay, alright. Okay, however many we have, let's dive right in. The first one, maybe we'll start a bit mild — yes, the issue of Bersatu quarrelling but rejecting Muhyiddin based on religious accusations. This is what Wan Faisal said. His level of exploiting [religion] — that's why I advise Cincong, politicians shouldn't ride on religion, because once they start riding on religion they get addicted, you know, because it's a shortcut. PKR or PH, everything gets put through the lens of religion — riding on religion. Now it's carried over, they're fighting among themselves, fellow Muslims, fellow Malays, fellow die-hard Bersatu members, and now it's centred on religious claims.
+**Speaker 2:** A grassroots place, eh, even parking here is hard. It's in a shophouse. Okay, alright. Okay, however many we have, let's dive right in. The first one, maybe we'll start a bit mild — yes, the issue of Bersatu quarrelling but rejecting Muhyiddin based on religious accusations. This is what Wan Fayhsal said. His level of exploiting [religion] — that's why I advise Cincong, politicians shouldn't ride on religion, because once they start riding on religion they get addicted, you know, because it's a shortcut. PKR or PH, everything gets put through the lens of religion — riding on religion. Now it's carried over, they're fighting among themselves, fellow Muslims, fellow Malays, fellow die-hard Bersatu members, and now it's centred on religious claims.
 
 **Speaker 1:** But he learns fast.
 

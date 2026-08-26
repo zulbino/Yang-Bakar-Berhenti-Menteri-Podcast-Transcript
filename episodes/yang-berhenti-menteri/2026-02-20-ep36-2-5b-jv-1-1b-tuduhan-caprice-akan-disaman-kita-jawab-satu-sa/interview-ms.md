@@ -16,7 +16,7 @@ topics:
 - Chinese New Year greetings and viral Mandarin video
 - PM Anwar allegedly acting as a cybertrooper defending MACC chief Azam Baki
 - PKR convention rhetoric and echo-chamber criticism
-- Bersatu internal conflict and religion-based politics (Wan Faisal)
+- Bersatu internal conflict and religion-based politics (Wan Fayhsal)
 - Fleximat and Kesum social enterprises and RM1.1 billion corruption trolling
 - Ramadan donation/delivery system via kesum.my and fleximat.my
 - Mind Your Mandarin language class launch
@@ -34,8 +34,7 @@ summary: In this episode of Rafizi Ramli's podcast, host Rafizi is joined by gue
   Bersatu camp) for a wide-ranging weekly review. They open with light banter about
   Chinese New Year, Rafizi's viral CNY Mandarin greeting video, and reminisce about
   how they first met through Anwar Ibrahim's office in the late 2000s. The bulk of
-  the episode is a 'beria' (viral-post) segment mocking PN/Bersatu figures like Wan
-  Faisal for politicising religion, criticising PM Anwar Ibrahim for personally forwarding
+  the episode is a 'beria' (viral-post) segment mocking PN/Bersatu figures like Wan Fayhsal for politicising religion, criticising PM Anwar Ibrahim for personally forwarding
   cybertrooper-style WhatsApp/Twitter content defending MACC chief Azam Baki and attacking
   Muda, and dissecting PKR's convention rhetoric ('PKR at its best') as echo-chamber,
   UMNO-style spin disconnected from ground sentiment (especially after backlash on
@@ -138,7 +137,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Speaker 1:** Oh iya ke? Ada tuduhan kata studio kat Menara Ilham. Saya boleh jadi saksi lah — tempat ni tempat memang rakyat lah kan.
 
-**Speaker 2:** Tempat rakyat, eh, nak parking pun susah. Dia di rumah kedai. Okay, baiklah. Okay, berapa pun kita tengok beria. Yang pertama ni mungkin kita mula lembut sikit lah eh — ya, isu Bersatu bergaduh tetapi menolak Muhyiddin berpaksikan tuduhan agama. Ini Wan Faisal yang cakap. Dia punya level menonggang itu kan — sebab itu saya menasihatkan kepada Cincong, mungkin tuan-tuan politik janganlah menonggang agama, sebab bila dia mula menonggang agama ni dia ketagihan tau, sebab dia kerja shortcut kan. PKR ataupun PH lah, semua tu diletakkan dalam lensa agama lah — menunggang agama. Sekarang terbawa-bawa, dia bergaduh sesama sendiri, sama Islam, sama Melayu, sama Bersatu totok, sekarang dia dah berpaksikan tuntutan agama.
+**Speaker 2:** Tempat rakyat, eh, nak parking pun susah. Dia di rumah kedai. Okay, baiklah. Okay, berapa pun kita tengok beria. Yang pertama ni mungkin kita mula lembut sikit lah eh — ya, isu Bersatu bergaduh tetapi menolak Muhyiddin berpaksikan tuduhan agama. Ini Wan Fayhsal yang cakap. Dia punya level menonggang itu kan — sebab itu saya menasihatkan kepada Cincong, mungkin tuan-tuan politik janganlah menonggang agama, sebab bila dia mula menonggang agama ni dia ketagihan tau, sebab dia kerja shortcut kan. PKR ataupun PH lah, semua tu diletakkan dalam lensa agama lah — menunggang agama. Sekarang terbawa-bawa, dia bergaduh sesama sendiri, sama Islam, sama Melayu, sama Bersatu totok, sekarang dia dah berpaksikan tuntutan agama.
 
 **Speaker 1:** Tapi dia belajar dengan cepat lah.
 

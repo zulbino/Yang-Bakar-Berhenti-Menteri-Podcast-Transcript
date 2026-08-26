@@ -96,17 +96,17 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Then in 2019, I was no longer interested in active politics. In June 2019, he missed me—that's when he got the picture and wrote it. Dia masih bersemangat politik. Sekali-sekala masa tu saya masih ada WhatsApp, dia mesej, saya bagilah pandangan itu ini. Ceplos-ceplos ni selalunya memang suka kalau ada hubungan atau komunikasi dengan pimpinan sebab boleh dapat maklumat buat konten untuk dia menulis. Masa awal-awal tu saya layanlah kawan-kawan lama semua.
 
-**Rafizi:** After a while, saya tak campur sangat, saya tak ambil tahu. Cuma satu masa tu, someone told me he asked, "Is it true that you support Izam [Izam Mohd Nor] joining the party?" What's the matter with me? He told me, "Because your man, Wan Fazudin, is carrying Izam, campaigning to ask Izam to join the party."
+**Rafizi:** After a while, saya tak campur sangat, saya tak ambil tahu. Cuma satu masa tu, someone told me he asked, "Is it true that you support Izam [Izam Mohd Nor] joining the party?" What's the matter with me? He told me, "Because your man, Wan Fayhsal, is carrying Izam, campaigning to ask Izam to join the party."
 
 **Rafizi:** Saya ingat dalam akhir tahun 2019, saya beritahu dia, kalau berkawan dalam pasukan, kita kena ikut garis yang sama-sama tentukan. Kita tak boleh buat keputusan sendiri. After Sheraton, who was campaigning to bring Izam to strengthen the party? The problem was my name was attached. Before this my name was Lambor, now after this I want to bring Izam. So I told him via WhatsApp that I didn't agree. Benda tu benda tak betul. Kalau parti lemah, serahkan kepada pimpinan. Saya tak campur, tapi pandai-pandai buat strategi nak bawa Izam lepas tu terpalit nama aku, yang tu saya tak setuju.
 
-**Rafizi:** Daripada situlah dia jadi Ceplos. Cerita tu sebenarnya sebab dia ni tak boleh ditegur langsung. Orang kita kadang-kadang tak memandang di cermin. Contohnya kalau Wan Fazudin dengan Ceplos-Ceplos seangkatannya, ayat yang selalu dimainkan bila serang aku ialah "dia ingat dia je betul, pandangan dia je betul."
+**Rafizi:** Daripada situlah dia jadi Ceplos. Cerita tu sebenarnya sebab dia ni tak boleh ditegur langsung. Orang kita kadang-kadang tak memandang di cermin. Contohnya kalau Wan Fayhsal dengan Ceplos-Ceplos seangkatannya, ayat yang selalu dimainkan bila serang aku ialah "dia ingat dia je betul, pandangan dia je betul."
 
 **Rafizi:** He didn't realize that he had to be so firm about it. It's not hard to bring Izam into this party, and that's proven to be true—Izam is now on top of the list of what he said about Anwar Ibrahim. From there he became very anti- because he was very stubborn and felt he no longer had the communication to get material. If not, he would have looked great because he got information from Rafizi; he sold my name. Now I don't know whose name he sells.
 
 **Host:** Ceplos, if you look at social media... "Ceplos" has become their official brand name. Their way and attitude are what caused the voters to go further away.
 
-**Rafizi:** Wan Fazudin is like this from the beginning. We know his attitude—he's quick to get angry, rough, sharp-tongued, sitting in his own bubble. Sepatutnya pimpinan parti yang kena tegur.
+**Rafizi:** Wan Fayhsal is like this from the beginning. We know his attitude—he's quick to get angry, rough, sharp-tongued, sitting in his own bubble. Sepatutnya pimpinan parti yang kena tegur.
 
 **Rafizi:** If someone is in our control—like him as a communications director in PKR—it seems to line up with his way. If we become leaders, we should be firm. People outside the party, the fence-sitters, don't care about internal feelings between party members. Tapi kalau konten yang dibuat nampak terlalu personal, kasar, berdendam, remeh—itu yang menyebabkan orang makin jauh. Saya rasa PKR sekarang agak autopilot, tak ada yang mengawal mereka. Kalau tidak, orang macam Salim Papu Kari ni...
 
@@ -116,7 +116,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Host:** Do you know each of these Ceplos individually?
 
-**Rafizi:** Tak. Yang betul-betul aku kenal Wan Fazudin seorang ni lah sebab ada history dia. Yang lain tu semua selepas menang lah.
+**Rafizi:** Tak. Yang betul-betul aku kenal Wan Fayhsal seorang ni lah sebab ada history dia. Yang lain tu semua selepas menang lah.
 
 **Host:** Beria lah. Kalaulah dia teruskan begini sampai mati... Next topic.
 
@@ -160,13 +160,13 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Host:** I think we can use this opportunity to say to the public: if you see a warning sign, don't remove it as you like.
 
-**Rafizi:** Siapa yang beria minggu ni? Wan Fazudin, tapi gagal lah beria minggu ni. Minggu lepas set the bar very high. Next week go find better clips.
+**Rafizi:** Siapa yang beria minggu ni? Wan Fayhsal, tapi gagal lah beria minggu ni. Minggu lepas set the bar very high. Next week go find better clips.
 
 **Host:** Kita terus ke segmen kedua: "Hidup Keras Dek". Ada orang tak suka YB, "Tapi bukan Wanon, Rafizi pun tak suka saya." Tapi nada tu macam nada nak berkawan.
 
 **Rafizi:** Masa tingkatan satu, cikgu Bahasa Melayu ajar macam mana intonasi dan perkataan boleh ada makna berbeza. Contohnya: "Monyet makan pisang." "Monyet makan pisang" is a statement. "Monyet makan pisang..." means kau monyet makan pisang. So this is the same. If "Rafizi doesn't like me," it's just a statement. But if "Rafizi doesn't like me..." sad, his connotation is a little different.
 
-**Host:** Wan Fazudin kata, "Dulu maki hamun Tan Sri Azam Baki sebab masa tu Tan Sri Azam Baki tak tangkap perompak, sebab PM masa tu dalang perompak. Tapi sekarang Tan Sri Azam Baki buat kerja baik tangkap rasuah, sebab tu sokong mati-matian."
+**Host:** Wan Fayhsal kata, "Dulu maki hamun Tan Sri Azam Baki sebab masa tu Tan Sri Azam Baki tak tangkap perompak, sebab PM masa tu dalang perompak. Tapi sekarang Tan Sri Azam Baki buat kerja baik tangkap rasuah, sebab tu sokong mati-matian."
 
 **Rafizi:** Kita boleh pusing macam manalah, tapi pandangan orang biasa dan 99.9% rakyat Malaysia yang tak ada otak politik—otak biasa, otak logik biasa—kalau dulu kita bangkang dan kita minta pembaharuan SPRM, termasuklah Tan Sri Azam Baki tidak lagi menjadi Ketua Pesuruhjaya SPRM pada tahun 2020, dalam tempoh 3-4 tahun perkara itu tak terpadam semata-mata hanya sekarang ini kita jadi kerajaan. Itu beban yang ada kepada kerajaan.
 

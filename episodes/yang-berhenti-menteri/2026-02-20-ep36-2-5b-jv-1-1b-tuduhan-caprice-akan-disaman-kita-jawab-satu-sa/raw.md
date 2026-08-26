@@ -46,7 +46,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [08:23] Speaker 1: Menara Ilham. Saya boleh jadi saksi lah Tempat ni tempat memang Rakyat
 
-[08:28] Speaker 2: lah kan Tempat rakyat eh Nak parking pun susah Dia di rumah kedai Okay Alright Okay berapa pun Kita tengok beria Yang pertama ni mungkin kita start Mile sikit lah eh Ya Isu Bersatu Bergaduh Tetapi menolak Muhyiddin berpaksikan tutup agama. Ini Wan Faisal yang cakap. Dia punya level menonggang itu kan. Sebab itu saya menasihatkan kepada Cincong. Mungkin tuan-tuan politik janganlah menonggang agama. Sebab bila dia mula menonggang agama ni dia ketagihan tau. Sebab dia kerja shortcut kan. PKR ataupun PH lah Semua tu diletakkan dalam lensa agama lah Menunggang agama Sekarang terbawa-bawa Dia bergaduh sama dia Sama Islam Sama Melayu Sama totok bersatu Sekarang dia dah berpaksikan tuntutan agama.
+[08:28] Speaker 2: lah kan Tempat rakyat eh Nak parking pun susah Dia di rumah kedai Okay Alright Okay berapa pun Kita tengok beria Yang pertama ni mungkin kita start Mile sikit lah eh Ya Isu Bersatu Bergaduh Tetapi menolak Muhyiddin berpaksikan tutup agama. Ini Wan Fayhsal yang cakap. Dia punya level menonggang itu kan. Sebab itu saya menasihatkan kepada Cincong. Mungkin tuan-tuan politik janganlah menonggang agama. Sebab bila dia mula menonggang agama ni dia ketagihan tau. Sebab dia kerja shortcut kan. PKR ataupun PH lah Semua tu diletakkan dalam lensa agama lah Menunggang agama Sekarang terbawa-bawa Dia bergaduh sama dia Sama Islam Sama Melayu Sama totok bersatu Sekarang dia dah berpaksikan tuntutan agama.
 
 [09:37] Speaker 1: Tapi dia belajar dengan cepat lah.
 

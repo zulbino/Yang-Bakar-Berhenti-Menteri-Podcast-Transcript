@@ -12,7 +12,7 @@ hosts:
 guests:
 - Speaker 2 (co-host/interviewer)
 topics:
-- Viral 'beria' news segment (Wan Faisal flower logo, MB shopping trip, PKR RM100
+- Viral 'beria' news segment (Wan Fayhsal flower logo, MB shopping trip, PKR RM100
   handout, manipulated Facebook post, flotilla boat influencer)
 - Urban Renewal Act (URA/PSB) debate and tenants' rights concerns
 - Government Procurement Bill rushed passage and parliamentary process
@@ -29,7 +29,7 @@ topics:
 - Teacher training reform and education system challenges
 summary: 'In episode 12 of "Yang Berhenti Menteri" podcast, host Rafizi Ramli is interviewed
   by his co-host/interviewer through several segments. They open with light banter
-  before playing "Beria Mat," a segment scoring viral clips/news items (Wan Faisal''s
+  before playing "Beria Mat," a segment scoring viral clips/news items (Wan Fayhsal''s
   flower proposal, Selangor MB''s shopping trip, PKR''s RM100 Maisarah handout, a
   manipulated Facebook screenshot controversy, and an influencer''s flotilla boat
   stunt) on how "beria" (extreme/attention-seeking) each is. The conversation then
@@ -61,7 +61,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Speaker 2:** Ni tadi even... Haa, baik. Okay, WB. Kita kali ni ada format baru dan kita cuba ringkas dan padat sikit lah. Saya tak nak cakap banyak. Okay, kita terus ke segmen yang pertama, dipanggil "beria mat." Jadi segmen ni senang sahaja — saya akan bagi gambar dan YB kena komen gambar ni beria ke tak beria. Okay, seterusnya, YB sure lah semua yang saya letak ni beria, tapi standard YB tinggi, kalau ada yang tak kena kan dulu...
 
-**Rafizi Ramli:** Apa yang awak nak cakap? Saya tak ada dalam parlimen lah masa ni, saya baca sahaja. Kemudian dia viral sekejap lah kan, Wan Faisal nak tukar nama bunga. Saya ada cadangan yang lebih baik. Dia memang beria lah, kalau tanya beria ke tidak, memang beria lah kan. Tak ada dalam parlimen. Tapi saya ada cadangan yang lebih baik untuk bunga tu. Dia kan parti bunga, baik ambil je lah bunga tu. Jadi tukar Bunga Raya Bersatu tu untuk mengangkat raflesia — saya cadangkan kepada Wan Faisal supaya dia bawa dalam mesyuarat Bersatu, cukup lah, tak payah bawa dalam parlimen. Untuk mengangkat raflesia, maka gantilah logo Bunga Raya Bersatu itu menjadi bunga raflesia. Okey, jadi cukup beria lah.
+**Rafizi Ramli:** Apa yang awak nak cakap? Saya tak ada dalam parlimen lah masa ni, saya baca sahaja. Kemudian dia viral sekejap lah kan, Wan Fayhsal nak tukar nama bunga. Saya ada cadangan yang lebih baik. Dia memang beria lah, kalau tanya beria ke tidak, memang beria lah kan. Tak ada dalam parlimen. Tapi saya ada cadangan yang lebih baik untuk bunga tu. Dia kan parti bunga, baik ambil je lah bunga tu. Jadi tukar Bunga Raya Bersatu tu untuk mengangkat raflesia — saya cadangkan kepada Wan Fayhsal supaya dia bawa dalam mesyuarat Bersatu, cukup lah, tak payah bawa dalam parlimen. Untuk mengangkat raflesia, maka gantilah logo Bunga Raya Bersatu itu menjadi bunga raflesia. Okey, jadi cukup beria lah.
 
 **Speaker 2:** Beria? Eh, patut korang bagi apa nama ni... skor, beria lah. Okay okay okay. So yang ini saya nak bagi berapa eh... komen dulu, komen dulu, komen dulu. Nanti akhir kita bagi mana paling beria ke apa.
 
