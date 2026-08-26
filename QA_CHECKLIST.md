@@ -89,7 +89,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [x] 2025-10-24-ep19-yang-berhenti-menteri-episod-19
 - [x] 2025-10-31-ep20-yang-berhenti-menteri-episod-20 (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2025-11-14-ep22-rafizi-jual-nasi-bawah-rm5-dinamik-prn-sabah-ybm-ep-22 (models: raw.md=gemini-3.7-flash)
-- [x] 2025-11-21-ep23-rafizi-jawab-tuduhan-rasuah-rm1-1-bilion-surat-sokongan-supo
+- [x] 2025-11-21-ep23-rafizi-jawab-tuduhan-rasuah-rm1-1-bilion-surat-sokongan-supo (models: interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2025-11-28-ep24-shamsul-iskandar-vs-albert-tei-bencana-banjir-izzah-mb-selan (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2025-12-05-ep25-prn-sabah-pkr-terkubur-masa-depan-ph-ybm-ep-25 (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2025-12-12-ep26-reformasi-bukan-content-azam-baki-uec-felda-ybm-ep-26 (models: raw.md=gemini-3.5-flash)
