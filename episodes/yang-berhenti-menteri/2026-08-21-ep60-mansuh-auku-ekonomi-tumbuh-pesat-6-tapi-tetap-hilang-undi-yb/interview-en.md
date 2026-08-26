@@ -339,7 +339,7 @@ On the other hand, we want quality, capable politicians — but on the other han
 
 **Rafizi:** Not just uninvited — I was actually kicked out of the house. Ha.
 
-**Haziq:** Xavier Jayakumar — we also have TN Chua, and possibly others interested in making a comeback too. Who else is there?
+**Haziq:** Xavier Jayakumar — we also have Tian Chua, and possibly others interested in making a comeback too. Who else is there?
 
 **Rafizi:** Go ahead, say it, smarty.
 
