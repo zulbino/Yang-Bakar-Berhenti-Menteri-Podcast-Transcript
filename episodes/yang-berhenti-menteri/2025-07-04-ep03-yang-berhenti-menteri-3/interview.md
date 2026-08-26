@@ -178,7 +178,7 @@ Dan bila mereka dapat, they get monthly assistance. Ada yang boleh dapat sehingg
 
 **Interviewer:** But that proposal wasn't fully implemented as planned, was it?
 
-**Rafizi:** Tapi tidak dipersetujui lah. Finally, it was postponed and postponed. It was postponed for the sake of internal politics within the government. This is interesting because we can't run away from the narratives being played. There is a narrative being played that this is about choice, but it has a direct effect. Many people ask, "Where did PADU go?" Actually, if I can say, bahagian penerangan ataupun Jabatan Penerangan (JCOM) gagal untuk memberikan explanation about this thing. As if they failed or didn't understand. That’s why we see the narrative being played that "King Formula" made PADU fail.
+**Rafizi:** Tapi tidak dipersetujui lah. Finally, it was postponed and postponed. It was postponed for the sake of internal politics within the government. This is interesting because we can't run away from the narratives being played. There is a narrative being played that this is about choice, but it has a direct effect. Many people ask, "Where did PADU go?" Actually, if I can say, bahagian penerangan ataupun Jabatan Penerangan (JKOM) gagal untuk memberikan explanation about this thing. As if they failed or didn't understand. That’s why we see the narrative being played that "King Formula" made PADU fail.
 
 **Interviewer:** Is there a possibility that PADU will be forgotten entirely?
 

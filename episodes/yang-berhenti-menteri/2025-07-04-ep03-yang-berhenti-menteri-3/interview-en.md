@@ -177,7 +177,7 @@ And when they get it, they get monthly assistance. Some can get up to RM500 a mo
 
 **Interviewer:** But that proposal wasn't fully implemented as planned, was it?
 
-**Rafizi:** But it wasn't agreed upon. Finally, it was postponed and postponed. It was postponed for the sake of internal politics within the government. This is interesting because we can't run away from the narratives being played. There is a narrative being played that this is about choice, but it has a direct effect. Many people ask, "Where did PADU go?" Actually, if I can say, the information department or the Department of Communications (JCOM) failed to provide an explanation about this thing. As if they failed or didn't understand. That’s why we see the narrative being played that "King Formula" made PADU fail.
+**Rafizi:** But it wasn't agreed upon. Finally, it was postponed and postponed. It was postponed for the sake of internal politics within the government. This is interesting because we can't run away from the narratives being played. There is a narrative being played that this is about choice, but it has a direct effect. Many people ask, "Where did PADU go?" Actually, if I can say, the information department or the Department of Communications (JKOM) failed to provide an explanation about this thing. As if they failed or didn't understand. That’s why we see the narrative being played that "King Formula" made PADU fail.
 
 **Interviewer:** Is there a possibility that PADU will be forgotten entirely?
 
