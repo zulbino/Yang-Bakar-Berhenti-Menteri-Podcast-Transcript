@@ -233,10 +233,10 @@
   },
   "2025-09-26-ep15-yang-berhenti-menteri-episod-15": {
     "status": "ok",
-    "samples_matched": 9,
-    "samples_not_found_nearby": 3,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 200,
+    "max_drift_seconds": 99,
     "flagged": false,
     "details": [
       {
@@ -245,24 +245,34 @@
         "drift": 1
       },
       {
-        "claimed": 1531,
-        "actual": 1531,
-        "drift": 0
+        "claimed": 518,
+        "actual": 584,
+        "drift": 66
       },
       {
-        "claimed": 3939,
-        "actual": 3983,
-        "drift": 44
+        "claimed": 1552,
+        "actual": 1575,
+        "drift": 23
       },
       {
-        "claimed": 4970,
-        "actual": 4964,
+        "claimed": 3056,
+        "actual": 3060,
+        "drift": 4
+      },
+      {
+        "claimed": 4076,
+        "actual": 4070,
         "drift": -6
       },
       {
-        "claimed": 5851,
-        "actual": 6051,
-        "drift": 200
+        "claimed": 4989,
+        "actual": 4978,
+        "drift": -11
+      },
+      {
+        "claimed": 6287,
+        "actual": 6285,
+        "drift": -2
       },
       {
         "claimed": 7671,
@@ -321,8 +331,8 @@
       },
       {
         "claimed": 3397,
-        "actual": 3398,
-        "drift": 1
+        "actual": 3399,
+        "drift": 2
       },
       {
         "claimed": 3994,
@@ -348,56 +358,71 @@
   },
   "2025-10-10-ep17-yang-berhenti-menteri-episod-17-belanjawan-2026-janji-fam": {
     "status": "ok",
-    "samples_matched": 9,
-    "samples_not_found_nearby": 3,
+    "samples_matched": 12,
+    "samples_not_found_nearby": 0,
     "samples_total": 12,
-    "max_drift_seconds": 547,
-    "flagged": true,
+    "max_drift_seconds": 184,
+    "flagged": false,
     "details": [
       {
-        "claimed": 596,
-        "actual": 602,
-        "drift": 6
+        "claimed": 138,
+        "actual": 138,
+        "drift": 0
       },
       {
-        "claimed": 717,
-        "actual": 785,
-        "drift": 68
+        "claimed": 317,
+        "actual": 306,
+        "drift": -11
       },
       {
-        "claimed": 1149,
-        "actual": 1151,
-        "drift": 2
+        "claimed": 617,
+        "actual": 613,
+        "drift": -4
+      },
+      {
+        "claimed": 1078,
+        "actual": 1068,
+        "drift": -10
       },
       {
         "claimed": 1418,
-        "actual": 1423,
-        "drift": 5
+        "actual": 1425,
+        "drift": 7
       },
       {
-        "claimed": 5705,
-        "actual": 5931,
-        "drift": 226
+        "claimed": 2149,
+        "actual": 2333,
+        "drift": 184
       },
       {
-        "claimed": 5833,
-        "actual": 5286,
-        "drift": -547
+        "claimed": 3226,
+        "actual": 3223,
+        "drift": -3
       },
       {
-        "claimed": 6050,
-        "actual": 6194,
-        "drift": 144
+        "claimed": 4474,
+        "actual": 4470,
+        "drift": -4
       },
       {
-        "claimed": 6761,
-        "actual": 6639,
-        "drift": -122
+        "claimed": 5369,
+        "actual": 5422,
+        "drift": 53
       },
       {
-        "claimed": 6990,
-        "actual": 6993,
-        "drift": 3
+        "claimed": 6353,
+        "actual": 6336,
+        "drift": -17
+      },
+      {
+        "claimed": 6849,
+        "actual": 6846,
+        "drift": -3
+      },
+      {
+        "claimed": 7323,
+        "actual": 7451,
+        "drift": 128
       }
     ]
   },
@@ -406,7 +431,7 @@
     "samples_matched": 11,
     "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 271,
+    "max_drift_seconds": 272,
     "flagged": false,
     "details": [
       {
@@ -446,8 +471,8 @@
       },
       {
         "claimed": 4281,
-        "actual": 4552,
-        "drift": 271
+        "actual": 4553,
+        "drift": 272
       },
       {
         "claimed": 5838,
@@ -538,10 +563,10 @@
   },
   "2025-10-31-ep20-yang-berhenti-menteri-episod-20": {
     "status": "ok",
-    "samples_matched": 11,
-    "samples_not_found_nearby": 1,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 137,
+    "max_drift_seconds": 240,
     "flagged": false,
     "details": [
       {
@@ -565,24 +590,19 @@
         "drift": 135
       },
       {
-        "claimed": 2845,
-        "actual": 2834,
-        "drift": -11
+        "claimed": 4241,
+        "actual": 4232,
+        "drift": -9
       },
       {
-        "claimed": 4270,
-        "actual": 4324,
-        "drift": 54
+        "claimed": 5440,
+        "actual": 5680,
+        "drift": 240
       },
       {
-        "claimed": 5943,
-        "actual": 5951,
-        "drift": 8
-      },
-      {
-        "claimed": 6422,
-        "actual": 6406,
-        "drift": -16
+        "claimed": 6331,
+        "actual": 6360,
+        "drift": 29
       },
       {
         "claimed": 6869,
@@ -791,8 +811,8 @@
       },
       {
         "claimed": 5623,
-        "actual": 5618,
-        "drift": -5
+        "actual": 5622,
+        "drift": -1
       },
       {
         "claimed": 5959,
@@ -900,36 +920,36 @@
         "drift": 177
       },
       {
-        "claimed": 5321,
-        "actual": 5321,
-        "drift": 0
-      },
-      {
-        "claimed": 6796,
-        "actual": 6785,
+        "claimed": 5356,
+        "actual": 5345,
         "drift": -11
       },
       {
-        "claimed": 8087,
-        "actual": 8189,
-        "drift": 102
+        "claimed": 6815,
+        "actual": 6869,
+        "drift": 54
       },
       {
-        "claimed": 8435,
-        "actual": 8427,
-        "drift": -8
+        "claimed": 8363,
+        "actual": 8376,
+        "drift": 13
       },
       {
-        "claimed": 8506,
-        "actual": 8525,
-        "drift": 19
+        "claimed": 8450,
+        "actual": 8454,
+        "drift": 4
+      },
+      {
+        "claimed": 8580,
+        "actual": 8878,
+        "drift": 298
       }
     ]
   },
   "2025-12-26-ep28-episod-terakhir-2025-10-perkara-yang-kita-tak-boleh-buat-bua": {
     "status": "ok",
-    "samples_matched": 9,
-    "samples_not_found_nearby": 3,
+    "samples_matched": 8,
+    "samples_not_found_nearby": 4,
     "samples_total": 12,
     "max_drift_seconds": 131,
     "flagged": false,
@@ -960,24 +980,19 @@
         "drift": 27
       },
       {
-        "claimed": 7002,
-        "actual": 6995,
-        "drift": -7
+        "claimed": 6986,
+        "actual": 6977,
+        "drift": -9
       },
       {
-        "claimed": 7853,
-        "actual": 7868,
-        "drift": 15
+        "claimed": 7691,
+        "actual": 7751,
+        "drift": 60
       },
       {
-        "claimed": 9293,
-        "actual": 9320,
-        "drift": 27
-      },
-      {
-        "claimed": 10418,
-        "actual": 10423,
-        "drift": 5
+        "claimed": 10398,
+        "actual": 10400,
+        "drift": 2
       }
     ]
   },
@@ -986,7 +1001,7 @@
     "samples_matched": 10,
     "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 218,
+    "max_drift_seconds": 125,
     "flagged": false,
     "details": [
       {
@@ -1005,9 +1020,9 @@
         "drift": 6
       },
       {
-        "claimed": 1282,
-        "actual": 1280,
-        "drift": -2
+        "claimed": 1309,
+        "actual": 1434,
+        "drift": 125
       },
       {
         "claimed": 2368,
@@ -1015,9 +1030,9 @@
         "drift": -4
       },
       {
-        "claimed": 2739,
-        "actual": 2731,
-        "drift": -8
+        "claimed": 2755,
+        "actual": 2751,
+        "drift": -4
       },
       {
         "claimed": 5079,
@@ -1025,14 +1040,14 @@
         "drift": 5
       },
       {
-        "claimed": 6439,
-        "actual": 6473,
-        "drift": 34
+        "claimed": 6411,
+        "actual": 6413,
+        "drift": 2
       },
       {
-        "claimed": 7517,
-        "actual": 7735,
-        "drift": 218
+        "claimed": 7445,
+        "actual": 7452,
+        "drift": 7
       },
       {
         "claimed": 9200,
@@ -1151,8 +1166,8 @@
     "samples_matched": 6,
     "samples_not_found_nearby": 6,
     "samples_total": 12,
-    "max_drift_seconds": 159,
-    "flagged": false,
+    "max_drift_seconds": 1195,
+    "flagged": true,
     "details": [
       {
         "claimed": 15,
@@ -1175,14 +1190,14 @@
         "drift": 10
       },
       {
-        "claimed": 4729,
-        "actual": 4738,
-        "drift": 9
+        "claimed": 5399,
+        "actual": 5430,
+        "drift": 31
       },
       {
-        "claimed": 5489,
-        "actual": 5501,
-        "drift": 12
+        "claimed": 6989,
+        "actual": 8184,
+        "drift": 1195
       }
     ]
   },
@@ -1191,7 +1206,7 @@
     "samples_matched": 10,
     "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 471,
+    "max_drift_seconds": 468,
     "flagged": true,
     "details": [
       {
@@ -1211,13 +1226,13 @@
       },
       {
         "claimed": 1941,
-        "actual": 2412,
-        "drift": 471
+        "actual": 2409,
+        "drift": 468
       },
       {
         "claimed": 3320,
-        "actual": 3461,
-        "drift": 141
+        "actual": 3458,
+        "drift": 138
       },
       {
         "claimed": 4809,
@@ -1226,8 +1241,8 @@
       },
       {
         "claimed": 5140,
-        "actual": 5162,
-        "drift": 22
+        "actual": 5160,
+        "drift": 20
       },
       {
         "claimed": 6034,
@@ -1591,7 +1606,7 @@
     "samples_matched": 11,
     "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 819,
+    "max_drift_seconds": 1083,
     "flagged": true,
     "details": [
       {
@@ -1610,14 +1625,14 @@
         "drift": 147
       },
       {
-        "claimed": 1771,
-        "actual": 1813,
-        "drift": 42
+        "claimed": 1378,
+        "actual": 1560,
+        "drift": 182
       },
       {
-        "claimed": 7150,
-        "actual": 7157,
-        "drift": 7
+        "claimed": 4806,
+        "actual": 5889,
+        "drift": 1083
       },
       {
         "claimed": 7194,
@@ -1653,8 +1668,8 @@
   },
   "2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-": {
     "status": "ok",
-    "samples_matched": 11,
-    "samples_not_found_nearby": 1,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
     "max_drift_seconds": 132,
     "flagged": false,
@@ -1675,24 +1690,19 @@
         "drift": 11
       },
       {
-        "claimed": 2011,
-        "actual": 2022,
-        "drift": 11
+        "claimed": 2060,
+        "actual": 2052,
+        "drift": -8
       },
       {
-        "claimed": 2864,
-        "actual": 2879,
-        "drift": 15
+        "claimed": 2930,
+        "actual": 2938,
+        "drift": 8
       },
       {
-        "claimed": 3244,
-        "actual": 3244,
-        "drift": 0
-      },
-      {
-        "claimed": 3995,
-        "actual": 4089,
-        "drift": 94
+        "claimed": 3275,
+        "actual": 3283,
+        "drift": 8
       },
       {
         "claimed": 6812,
@@ -1700,14 +1710,14 @@
         "drift": 132
       },
       {
-        "claimed": 7821,
-        "actual": 7849,
-        "drift": 28
+        "claimed": 7789,
+        "actual": 7786,
+        "drift": -3
       },
       {
-        "claimed": 8733,
-        "actual": 8808,
-        "drift": 75
+        "claimed": 8659,
+        "actual": 8671,
+        "drift": 12
       },
       {
         "claimed": 9934,
@@ -1928,8 +1938,8 @@
   },
   "2026-05-08-ep47-semua-bocor-exam-sprm-kerusi-pkr-dan-soalan-pru16-ybm-47": {
     "status": "ok",
-    "samples_matched": 12,
-    "samples_not_found_nearby": 0,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
     "max_drift_seconds": 665,
     "flagged": true,
@@ -1960,24 +1970,19 @@
         "drift": -4
       },
       {
-        "claimed": 4292,
-        "actual": 4546,
-        "drift": 254
+        "claimed": 4845,
+        "actual": 4851,
+        "drift": 6
       },
       {
-        "claimed": 5813,
-        "actual": 5852,
-        "drift": 39
+        "claimed": 5946,
+        "actual": 6174,
+        "drift": 228
       },
       {
-        "claimed": 6734,
-        "actual": 7247,
-        "drift": 513
-      },
-      {
-        "claimed": 7821,
-        "actual": 7847,
-        "drift": 26
+        "claimed": 7786,
+        "actual": 7782,
+        "drift": -4
       },
       {
         "claimed": 8444,
@@ -2071,8 +2076,8 @@
       },
       {
         "claimed": 1099,
-        "actual": 1097,
-        "drift": -2
+        "actual": 1099,
+        "drift": 0
       },
       {
         "claimed": 1961,
@@ -2118,21 +2123,26 @@
   },
   "2026-05-29-ep50-rafizi-berdepan-firing-squad-ybm-50": {
     "status": "ok",
-    "samples_matched": 8,
-    "samples_not_found_nearby": 4,
+    "samples_matched": 9,
+    "samples_not_found_nearby": 3,
     "samples_total": 12,
-    "max_drift_seconds": 176,
+    "max_drift_seconds": 146,
     "flagged": false,
     "details": [
       {
-        "claimed": 572,
-        "actual": 748,
-        "drift": 176
+        "claimed": 554,
+        "actual": 545,
+        "drift": -9
       },
       {
-        "claimed": 2726,
-        "actual": 2773,
-        "drift": 47
+        "claimed": 2113,
+        "actual": 2116,
+        "drift": 3
+      },
+      {
+        "claimed": 2706,
+        "actual": 2697,
+        "drift": -9
       },
       {
         "claimed": 3320,
@@ -2155,14 +2165,14 @@
         "drift": 52
       },
       {
-        "claimed": 8005,
-        "actual": 7996,
-        "drift": -9
+        "claimed": 8027,
+        "actual": 8102,
+        "drift": 75
       },
       {
-        "claimed": 9271,
-        "actual": 9267,
-        "drift": -4
+        "claimed": 9286,
+        "actual": 9432,
+        "drift": 146
       }
     ]
   },
@@ -2171,8 +2181,8 @@
     "samples_matched": 12,
     "samples_not_found_nearby": 0,
     "samples_total": 12,
-    "max_drift_seconds": 169,
-    "flagged": false,
+    "max_drift_seconds": 481,
+    "flagged": true,
     "details": [
       {
         "claimed": 43,
@@ -2201,13 +2211,13 @@
       },
       {
         "claimed": 3773,
-        "actual": 3774,
-        "drift": 1
+        "actual": 3775,
+        "drift": 2
       },
       {
         "claimed": 4059,
-        "actual": 4165,
-        "drift": 106
+        "actual": 4167,
+        "drift": 108
       },
       {
         "claimed": 4672,
@@ -2221,8 +2231,8 @@
       },
       {
         "claimed": 5898,
-        "actual": 5945,
-        "drift": 47
+        "actual": 6379,
+        "drift": 481
       },
       {
         "claimed": 7155,
@@ -2238,10 +2248,10 @@
   },
   "2026-06-12-ep52-parti-parti-politik-melayu-bergaduh-anak-muda-memberontak-yb": {
     "status": "ok",
-    "samples_matched": 9,
-    "samples_not_found_nearby": 3,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 156,
+    "max_drift_seconds": 128,
     "flagged": false,
     "details": [
       {
@@ -2250,24 +2260,29 @@
         "drift": 14
       },
       {
+        "claimed": 584,
+        "actual": 572,
+        "drift": -12
+      },
+      {
         "claimed": 1180,
         "actual": 1166,
         "drift": -14
       },
       {
-        "claimed": 1607,
-        "actual": 1596,
-        "drift": -11
+        "claimed": 1462,
+        "actual": 1488,
+        "drift": 26
       },
       {
-        "claimed": 2616,
-        "actual": 2772,
-        "drift": 156
+        "claimed": 2388,
+        "actual": 2422,
+        "drift": 34
       },
       {
-        "claimed": 3460,
-        "actual": 3473,
-        "drift": 13
+        "claimed": 3278,
+        "actual": 3361,
+        "drift": 83
       },
       {
         "claimed": 3827,
@@ -2280,9 +2295,9 @@
         "drift": -12
       },
       {
-        "claimed": 6889,
-        "actual": 6897,
-        "drift": 8
+        "claimed": 6599,
+        "actual": 6604,
+        "drift": 5
       },
       {
         "claimed": 7197,
@@ -2293,10 +2308,10 @@
   },
   "2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y": {
     "status": "ok",
-    "samples_matched": 10,
-    "samples_not_found_nearby": 2,
+    "samples_matched": 9,
+    "samples_not_found_nearby": 3,
     "samples_total": 12,
-    "max_drift_seconds": 56,
+    "max_drift_seconds": 253,
     "flagged": false,
     "details": [
       {
@@ -2305,39 +2320,34 @@
         "drift": 0
       },
       {
-        "claimed": 632,
-        "actual": 628,
-        "drift": -4
+        "claimed": 651,
+        "actual": 641,
+        "drift": -10
       },
       {
-        "claimed": 2188,
-        "actual": 2179,
-        "drift": -9
+        "claimed": 1124,
+        "actual": 1377,
+        "drift": 253
       },
       {
-        "claimed": 2657,
-        "actual": 2662,
-        "drift": 5
-      },
-      {
-        "claimed": 3962,
-        "actual": 3972,
-        "drift": 10
-      },
-      {
-        "claimed": 4571,
-        "actual": 4572,
-        "drift": 1
-      },
-      {
-        "claimed": 6138,
-        "actual": 6137,
+        "claimed": 4041,
+        "actual": 4040,
         "drift": -1
       },
       {
-        "claimed": 7099,
-        "actual": 7092,
-        "drift": -7
+        "claimed": 4890,
+        "actual": 5127,
+        "drift": 237
+      },
+      {
+        "claimed": 6193,
+        "actual": 6188,
+        "drift": -5
+      },
+      {
+        "claimed": 7117,
+        "actual": 7112,
+        "drift": -5
       },
       {
         "claimed": 7797,
@@ -2356,7 +2366,7 @@
     "samples_matched": 11,
     "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 117,
+    "max_drift_seconds": 118,
     "flagged": false,
     "details": [
       {
@@ -2396,8 +2406,8 @@
       },
       {
         "claimed": 2804,
-        "actual": 2921,
-        "drift": 117
+        "actual": 2922,
+        "drift": 118
       },
       {
         "claimed": 3480,
@@ -2441,8 +2451,8 @@
       },
       {
         "claimed": 1147,
-        "actual": 1177,
-        "drift": 30
+        "actual": 1181,
+        "drift": 34
       },
       {
         "claimed": 2607,
@@ -2455,9 +2465,9 @@
         "drift": 131
       },
       {
-        "claimed": 4472,
-        "actual": 4487,
-        "drift": 15
+        "claimed": 4314,
+        "actual": 4381,
+        "drift": 67
       },
       {
         "claimed": 5306,
@@ -2480,74 +2490,74 @@
         "drift": 136
       },
       {
-        "claimed": 9673,
-        "actual": 9679,
-        "drift": 6
+        "claimed": 9580,
+        "actual": 9603,
+        "drift": 23
       }
     ]
   },
   "2026-07-24-ep56-isu-pelaburan-efishery-lama-mana-kerajaan-madani-akan-bertah": {
     "status": "ok",
     "samples_matched": 11,
-    "samples_not_found_nearby": 0,
-    "samples_total": 11,
-    "max_drift_seconds": 15,
-    "flagged": false,
+    "samples_not_found_nearby": 1,
+    "samples_total": 12,
+    "max_drift_seconds": 325,
+    "flagged": true,
     "details": [
       {
-        "claimed": 72,
-        "actual": 61,
-        "drift": -11
+        "claimed": 52,
+        "actual": 223,
+        "drift": 171
       },
       {
-        "claimed": 94,
-        "actual": 84,
-        "drift": -10
-      },
-      {
-        "claimed": 112,
-        "actual": 106,
-        "drift": -6
-      },
-      {
-        "claimed": 160,
-        "actual": 162,
-        "drift": 2
-      },
-      {
-        "claimed": 235,
-        "actual": 229,
-        "drift": -6
-      },
-      {
-        "claimed": 262,
-        "actual": 255,
+        "claimed": 618,
+        "actual": 611,
         "drift": -7
       },
       {
-        "claimed": 305,
-        "actual": 297,
-        "drift": -8
+        "claimed": 1169,
+        "actual": 1179,
+        "drift": 10
       },
       {
-        "claimed": 325,
-        "actual": 310,
-        "drift": -15
+        "claimed": 1683,
+        "actual": 1698,
+        "drift": 15
       },
       {
-        "claimed": 337,
-        "actual": 324,
-        "drift": -13
+        "claimed": 2043,
+        "actual": 2043,
+        "drift": 0
       },
       {
-        "claimed": 405,
-        "actual": 395,
-        "drift": -10
+        "claimed": 2202,
+        "actual": 2203,
+        "drift": 1
       },
       {
-        "claimed": 495,
-        "actual": 482,
-        "drift": -13
+        "claimed": 2883,
+        "actual": 2885,
+        "drift": 2
+      },
+      {
+        "claimed": 4644,
+        "actual": 4969,
+        "drift": 325
+      },
+      {
+        "claimed": 6990,
+        "actual": 6989,
+        "drift": -1
+      },
+      {
+        "claimed": 7322,
+        "actual": 7492,
+        "drift": 170
+      },
+      {
+        "claimed": 8334,
+        "actual": 8322,
+        "drift": -12
       }
     ]
   },
@@ -2631,8 +2641,8 @@
       },
       {
         "claimed": 499,
-        "actual": 497,
-        "drift": -2
+        "actual": 499,
+        "drift": 0
       },
       {
         "claimed": 908,
