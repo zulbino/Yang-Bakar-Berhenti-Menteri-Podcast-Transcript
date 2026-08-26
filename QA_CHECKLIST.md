@@ -45,7 +45,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa**
   - raw.md timestamp coverage only 89% (last ts 9704s of 10907s)
-  - raw.md has a 31273-char block with no paragraph breaks (wall-of-text)
+  - raw.md has a 31270-char block with no paragraph breaks (wall-of-text)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 910s, 10/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih**
