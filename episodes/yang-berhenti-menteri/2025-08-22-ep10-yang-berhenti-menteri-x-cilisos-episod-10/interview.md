@@ -312,7 +312,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Host:** Pada pengetahuan YB, adakah perkara ini disebut berkali-kali?
 
-**Rafizi:** Tapi jawapan Dato' Seri Anwar itu sama sahaja — dia kata dia bekas setiausaha politik saya. Bukan isu sama ada Farhaj ni bekas ataupun masih memegang jawatan atau tidak. Soalnya ialah apabila ada cakap-cakap daripada ramai orang dalam dan luar kerajaan yang menunjukkan Farhaj ada pengaruh yang besar dalam keputusan kerajaan — sama ada betul atau tidak pun, kalaulah tak betul, persepsi itu sudah berbahaya. Jadi memang dibawa kepada Dato' Sri Anwar, tapi jawapannya begitu sahaja — "dia bekas setiausaha politik saya," tak ada apa-apa yang lain — bagi saya, isu Farhaj ini dah dibisik-bisikkan lama.
+**Rafizi:** Tapi jawapan Dato' Seri Anwar itu sama sahaja — dia kata dia bekas setiausaha politik saya. Bukan isu sama ada Farhaj ni bekas ataupun masih memegang jawatan atau tidak. Soalnya ialah apabila ada cakap-cakap daripada ramai orang dalam dan luar kerajaan yang menunjukkan Farhaj ada pengaruh yang besar dalam keputusan kerajaan — sama ada betul atau tidak pun, kalaulah tak betul, persepsi itu sudah berbahaya. Jadi memang dibawa kepada Dato' Seri Anwar, tapi jawapannya begitu sahaja — "dia bekas setiausaha politik saya," tak ada apa-apa yang lain — bagi saya, isu Farhaj ini dah dibisik-bisikkan lama.
 
 **Host:** Tapi opposition tak ambil kesempatan untuk membawa nama dia keluar dekat media pun.
 
