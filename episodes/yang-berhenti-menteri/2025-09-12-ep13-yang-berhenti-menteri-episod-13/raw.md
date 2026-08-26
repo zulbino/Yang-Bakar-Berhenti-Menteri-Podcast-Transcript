@@ -71,7 +71,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [15:43] Haziq: nanti akan ada lagi.
 
-[15:44] Rafizi: Oh ada lagi. Ya beria. Beria. Beria sebab nampak macam Tan Sri Muhyiddin tu beria gelak dengan Datuk Sri Hamzah Zainuddin. Beria gelak. Azmil dia macam dalam hati. Cuba tengok muka Hilman. Hilman pun kata beria betul dia orang ni. Malaysia tahu yang Muhyiddin dengan Hamzah ni memang tengah bergaduh besar kan. Tapi beria dia gelak depan orang. Okey. Okey baik. Seterusnya. Okay. Ya. Pas sedia kerjasama dengan semua parti kecuali, maksudnya kecuali DAP lah. Kecuali DAP. Menjalan kerjasama dengan PKR dan UMNO. Betul lah, dia nak balik berkuasa. Asalkan dapat jadi menteri balik kalau... Ustaz Idris jadi menteri balik, happy lah dia. Beria lah memang lah. Kalau jadi dia beria-ria nak bekerjasama dengan semua. Beria dan
+[15:44] Rafizi: Oh ada lagi. Ya beria. Beria. Beria sebab nampak macam Tan Sri Muhyiddin tu beria gelak dengan Datuk Seri Hamzah Zainuddin. Beria gelak. Azmil dia macam dalam hati. Cuba tengok muka Hilman. Hilman pun kata beria betul dia orang ni. Malaysia tahu yang Muhyiddin dengan Hamzah ni memang tengah bergaduh besar kan. Tapi beria dia gelak depan orang. Okey. Okey baik. Seterusnya. Okay. Ya. Pas sedia kerjasama dengan semua parti kecuali, maksudnya kecuali DAP lah. Kecuali DAP. Menjalan kerjasama dengan PKR dan UMNO. Betul lah, dia nak balik berkuasa. Asalkan dapat jadi menteri balik kalau... Ustaz Idris jadi menteri balik, happy lah dia. Beria lah memang lah. Kalau jadi dia beria-ria nak bekerjasama dengan semua. Beria dan
 
 [16:41] Haziq: teg-teg. Okay. Sosnya. Alamak sikit Hmm Ini Sid YB, YB kenal Sid? Tak ada aku tak kenal,
 
