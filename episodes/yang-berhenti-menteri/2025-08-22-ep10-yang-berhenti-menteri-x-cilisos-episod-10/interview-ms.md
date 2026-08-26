@@ -428,11 +428,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Host:** Boleh, boleh.
 
-**Rafizi:** Jadi ia dibangkitkan dan diperdebatkan. Sebab itu, bagi saya, proses itu kena berlaku — maksudnya kalau mahkamah dah strike it down, you kena draft balik, kena lalui proses itu semula. Tapi pada masa yang sama, kalaupun ada kesilapan, Fahmi Fazil patut pergi terangkan kepada rakyat, kenapa you perlukan ini. Pastikan orang faham — siapa yang baca semua Akta Multimedia ni? Siapa baca Kanun Keseksaan? Kecuali you pergi mahkamah macam saya ni, selalu kena dakwa. Kebanyakan orang tak tahu apa itu. Sepatutnya diterangkan betul-betul supaya cukup ramai orang faham, dan pada masa yang sama boleh sumbang pendapat. Macam mana kita nak urus keseimbangan itu.
+**Rafizi:** Jadi ia dibangkitkan dan diperdebatkan. Sebab itu, bagi saya, proses itu kena berlaku — maksudnya kalau mahkamah dah strike it down, you kena draft balik, kena lalui proses itu semula. Tapi pada masa yang sama, kalaupun ada kesilapan, Fahmi Fadzil patut pergi terangkan kepada rakyat, kenapa you perlukan ini. Pastikan orang faham — siapa yang baca semua Akta Multimedia ni? Siapa baca Kanun Keseksaan? Kecuali you pergi mahkamah macam saya ni, selalu kena dakwa. Kebanyakan orang tak tahu apa itu. Sepatutnya diterangkan betul-betul supaya cukup ramai orang faham, dan pada masa yang sama boleh sumbang pendapat. Macam mana kita nak urus keseimbangan itu.
 
 **Host:** Jadi apa yang YB katakan ialah menteri komunikasi ada masalah komunikasi.
 
-**Rafizi:** Saya tidak perlu mengatakan itu — semua orang sudah tahu itu. Kami sudah jemput YB Fahmi Fazil. InsyaAllah lepas ini dia akan terima jemputan kita.
+**Rafizi:** Saya tidak perlu mengatakan itu — semua orang sudah tahu itu. Kami sudah jemput YB Fahmi Fadzil. InsyaAllah lepas ini dia akan terima jemputan kita.
 
 **Host:** Itu satu kenyataan yang under-statement kalau dia yang cakap. Baiklah, mungkin kita pergi ke soalan seterusnya, berkaitan dengan Jemaah Menteri. Berdasarkan pengalaman YB sebelum ini bersama mereka dalam kabinet, ahli mana yang YB rasa paling underwhelming, dan yang paling mengagumkan YB selepas melihat prestasi mereka?
 

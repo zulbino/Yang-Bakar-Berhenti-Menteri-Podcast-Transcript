@@ -32,7 +32,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Hos:** Episod 35, *Podcast Yang Berhenti Menteri*. Seperti biasa, bersama saya, Saudara Fizi. Anda tidak ucap salam. *Assalamualaikum*, anda berada di penghujung video. Oh, baik, baik. Saya menunggu anda mengucapkan salam di penghujung video. Ya, bersama Saudara Fizi Ramli. Namun malangnya, Saudara Farhan tiada hari ini. Dia sedang menyambut ulang tahun kelahirannya lebih awal. Isterinya juga sedang menyambut Tahun Baru Cina.
+**Hos:** Episod 35, *Podcast Yang Berhenti Menteri*. Seperti biasa, bersama saya, Saudara Fizi. Anda tidak ucap salam. *Assalamualaikum*, anda berada di penghujung video. Oh, baik, baik. Saya menunggu anda mengucapkan salam di penghujung video. Ya, bersama Saudara Rafizi Ramli. Namun malangnya, Saudara Farhan tiada hari ini. Dia sedang menyambut ulang tahun kelahirannya lebih awal. Isterinya juga sedang menyambut Tahun Baru Cina.
 
 **Rafizi:** Rasanya dia sudah cabut awal-awal pergi beraya Cina ini, kan? *Barulah*. Assalamualaikum dan selamat malam.
 

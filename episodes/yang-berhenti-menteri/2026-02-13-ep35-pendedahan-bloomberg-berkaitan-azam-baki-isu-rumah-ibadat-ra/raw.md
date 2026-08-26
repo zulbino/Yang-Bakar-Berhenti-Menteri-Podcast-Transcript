@@ -19,7 +19,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [02:44] Rafizi: Tak bagi salam...
 
-[02:45] Fizi: Assalamualaikum dekat hujung sekali. Aku tunggulah kau bagi salam kat hujung sekali. Bersama saudara Fizi Ramli, tapi malangnya saudara Farhan tak ada pada hari ini.
+[02:45] Fizi: Assalamualaikum dekat hujung sekali. Aku tunggulah kau bagi salam kat hujung sekali. Bersama saudara Rafizi Ramli, tapi malangnya saudara Farhan tak ada pada hari ini.
 
 [02:56] Rafizi: Gaya awal... Ada ke? Isteri dia meraikan jugalah kan Tahun Baru Cina, jadi rasanya dia dah cabut awal-awal pergi beraya Cina ni kan. Dan barulah, assalamualaikum dan selamat malam.
 

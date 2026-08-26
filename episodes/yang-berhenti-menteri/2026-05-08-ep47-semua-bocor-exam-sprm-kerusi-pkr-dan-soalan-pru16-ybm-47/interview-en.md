@@ -219,7 +219,7 @@ Okay, before this podcast we also chatted about the YB's lawyers. Well, we can't
 
 **Pak An:** MOH allocation cut, football entertainment funded. This is because not all of us here are night owls who wake up at 3am to watch football. No — this is related to the MOH allocation YB already discussed last week. But at the same time, the Communications Minister announced that RTM has been chosen as the broadcaster for the FIFA World Cup.
 
-**Rafizi Ramli:** I'm just trying to understand — when the Communications Minister announces this, previously the World Cup broadcasting rights were held by Astro. So that means, at Fahmi Fazil's level, this is a big achievement for him, because he managed to wrest the broadcasting rights away from Astro, and now it can be watched on RTM, and RTM is free, so all Malaysians should be grateful for his good performance in securing the World Cup football broadcasting rights. That's the context.
+**Rafizi Ramli:** I'm just trying to understand — when the Communications Minister announces this, previously the World Cup broadcasting rights were held by Astro. So that means, at Fahmi Fadzil's level, this is a big achievement for him, because he managed to wrest the broadcasting rights away from Astro, and now it can be watched on RTM, and RTM is free, so all Malaysians should be grateful for his good performance in securing the World Cup football broadcasting rights. That's the context.
 
 **Pak An:** A populist move?
 

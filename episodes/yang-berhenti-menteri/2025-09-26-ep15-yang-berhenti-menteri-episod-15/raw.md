@@ -316,7 +316,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:43:00] Speaker 2: Memang patutlah tu je lah kot. Orang dah lama cabut lari dah. Gila kau. 2 jam 40 minit. Soalan banyak sangat kot. Mungkin kita kena benchmark lah kot lain kali. Betul, Weby.
 
-[2:43:12] Speaker 1: Baik, Weby. Jadi itu sahaja Rehat-rehat juga Tapi jangan lupa untuk subscribe Terima kasih Kita panggil apa? Channel Rafizie Ramli. Saluran. Saluran. Oh, saluran Rafizie Ramli. Dan kongsikan podcast ni kepada ramai lagi rakan-rakan yang lain. Itu saja. Patut
+[2:43:12] Speaker 1: Baik, Weby. Jadi itu sahaja Rehat-rehat juga Tapi jangan lupa untuk subscribe Terima kasih Kita panggil apa? Channel Rafizi Ramli. Saluran. Saluran. Oh, saluran Rafizi Ramli. Dan kongsikan podcast ni kepada ramai lagi rakan-rakan yang lain. Itu saja. Patut
 
 [2:43:31] Speaker 2: cakap awal-awal. Sekarang ini orang dah cabut
 

@@ -46,7 +46,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Rafizi Ramli:** Assalamualaikum dan selamat datang ke Podcast Yang Berhenti Menteri, episod kelima, bersama Saudara Fizy Ramli. Guest speaker kita pada malam ini, Dato' Syed Azwan, atau DSA. Apa khabar, Dato'?
+**Rafizi Ramli:** Assalamualaikum dan selamat datang ke Podcast Yang Berhenti Menteri, episod kelima, bersama Saudara Rafizi Ramli. Guest speaker kita pada malam ini, Dato' Syed Azwan, atau DSA. Apa khabar, Dato'?
 
 **Dato' Syed Azwan:** Baik, baik, sihat, sihat.
 

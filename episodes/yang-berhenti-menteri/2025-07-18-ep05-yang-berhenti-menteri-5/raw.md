@@ -16,7 +16,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 # Raw Transcript
 
-[00:01] Speaker 1: Assalamualaikum dan selamat datang Podcast Yang Berhenti Menteri Episod kan kelima sudah Bersama Saudara Fizy Ramli Guest speaker kita pada malam ini Dato' Syed Azwan atau DSA Apa khabar Dato'? Baik, baik, baik, sehat, sehat Dato' saya nak tanya sikit Dato' bila pertama kali jumpa Saudara Fizy sebenarnya?
+[00:01] Speaker 1: Assalamualaikum dan selamat datang Podcast Yang Berhenti Menteri Episod kan kelima sudah Bersama Saudara Rafizi Ramli Guest speaker kita pada malam ini Dato' Syed Azwan atau DSA Apa khabar Dato'? Baik, baik, baik, sehat, sehat Dato' saya nak tanya sikit Dato' bila pertama kali jumpa Saudara Fizy sebenarnya?
 
 [00:20] Speaker 2: Saya first time, saya jumpa di Alostar, melibat urus RMK 13. Oh, ya, ya. Okay, baik-baik. Sebab pun saya... Sensitif tu RMK 13 tu. Haa, sensitif tu. Saya pun ada sentuh juga dalam saya punya YouTube live. Haa, haa. Mengenai penungkaran ni, last minute, last minute. Itu bila dah bulan? Tahun lepas sahaja? Tahun ni, tahun ni di Alostar. Saya bulan 2, bulan 3.
 

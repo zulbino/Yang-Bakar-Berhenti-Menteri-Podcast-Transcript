@@ -258,7 +258,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [43:39] Haziq: Konteks tu
 
-[43:40] Rafizi: lah. Aku adalah tengok dekat YouTube-YouTube aku. Tapi yang buat-buat tu budak-budak yang nampak comel lah. Tapi bila Fahmi Fazil buat, ya Allah. Nampak macam orang gila aku kata. Yelah macam
+[43:40] Rafizi: lah. Aku adalah tengok dekat YouTube-YouTube aku. Tapi yang buat-buat tu budak-budak yang nampak comel lah. Tapi bila Fahmi Fadzil buat, ya Allah. Nampak macam orang gila aku kata. Yelah macam
 
 [43:57] Haziq: anak aku buat lah. Oh, ya. Hmm. Macam biasa, kita kena pilih satu yang paling beria. Mungkin kita bagi honor ni kepada saudara Nick. Siapa yang paling beria? Siapa yang paling
 
