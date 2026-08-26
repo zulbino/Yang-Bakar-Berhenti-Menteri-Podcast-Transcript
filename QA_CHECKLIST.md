@@ -10,6 +10,9 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 
 - [ ] **2024-08-26-ep05-yang-bakar-menteri-ybm-ep5**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 14s, 3/12 caption samples matched)
+- [ ] **2025-09-05-ep12-yang-berhenti-menteri-episod-12**
+  - raw.md has a repetition-loop degeneration (880 chars repeating 'adadadad'...) -- model got stuck re-emitting the same short phrase
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 - [ ] **2025-10-10-ep17-yang-berhenti-menteri-episod-17-belanjawan-2026-janji-fam**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 547s, 9/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
@@ -57,9 +60,6 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [ ] **2026-05-08-ep47-semua-bocor-exam-sprm-kerusi-pkr-dan-soalan-pru16-ybm-47**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 665s, 12/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
-- [ ] **2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y**
-  - check_timestamp_drift.py flagged timestamp mistiming (max drift 1200s, 5/12 caption samples matched)
-  - models: raw.md=gemini-3.5-flash, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-07-24-ep56-isu-pelaburan-efishery-lama-mana-kerajaan-madani-akan-bertah**
   - raw.md produced by weaker fallback model gemini-flash-lite-latest -- verify content quality closely
   - interview-ms.md looks truncated (ratio 0.30 vs raw.md, expected >= 0.35)
@@ -87,7 +87,6 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [x] 2025-08-15-ep09-yang-berhenti-menteri-episod-9-yb-rafizi-ramli-yb-rodziah-vi
 - [x] 2025-08-22-ep10-yang-berhenti-menteri-x-cilisos-episod-10
 - [x] 2025-08-29-ep11-yang-berhenti-menteri-episod-11-merdeka-dahulu-merdeka-sekar
-- [x] 2025-09-05-ep12-yang-berhenti-menteri-episod-12 (models: raw.md=gemini-3.5-flash-lite)
 - [x] 2025-09-12-ep13-yang-berhenti-menteri-episod-13 (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2025-09-19-ep14-yang-berhenti-menteri-episod-14
 - [x] 2025-09-26-ep15-yang-berhenti-menteri-episod-15 (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
@@ -116,6 +115,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [x] 2026-05-29-ep50-rafizi-berdepan-firing-squad-ybm-50 (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2026-06-05-ep51-so-it-begins-prn-johor-n9-tiada-madani-bagimu-ybm-51 (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2026-06-12-ep52-parti-parti-politik-melayu-bergaduh-anak-muda-memberontak-yb (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
+- [x] 2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2026-06-25-ep54-pilihanraya-negeri-johor-menghampiri-ybm-54 (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2026-07-17-ep55-apa-jadi-prn-johor-kenapa-tak-masuk-prn-negeri-sembilan-ybm- (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2026-07-31-ep57-laporan-rci-tabung-haji-ybm-57 (models: interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)

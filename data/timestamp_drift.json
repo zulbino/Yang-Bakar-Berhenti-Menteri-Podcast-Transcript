@@ -2293,11 +2293,11 @@
   },
   "2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y": {
     "status": "ok",
-    "samples_matched": 5,
-    "samples_not_found_nearby": 7,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 1200,
-    "flagged": true,
+    "max_drift_seconds": 56,
+    "flagged": false,
     "details": [
       {
         "claimed": 44,
@@ -2305,24 +2305,49 @@
         "drift": 0
       },
       {
-        "claimed": 630,
+        "claimed": 632,
         "actual": 628,
-        "drift": -2
+        "drift": -4
       },
       {
-        "claimed": 1016,
-        "actual": 1042,
-        "drift": 26
+        "claimed": 2188,
+        "actual": 2179,
+        "drift": -9
       },
       {
-        "claimed": 4226,
-        "actual": 5015,
-        "drift": 789
+        "claimed": 2657,
+        "actual": 2662,
+        "drift": 5
       },
       {
-        "claimed": 1376,
-        "actual": 2576,
-        "drift": 1200
+        "claimed": 3962,
+        "actual": 3972,
+        "drift": 10
+      },
+      {
+        "claimed": 4571,
+        "actual": 4572,
+        "drift": 1
+      },
+      {
+        "claimed": 6138,
+        "actual": 6137,
+        "drift": -1
+      },
+      {
+        "claimed": 7099,
+        "actual": 7092,
+        "drift": -7
+      },
+      {
+        "claimed": 7797,
+        "actual": 7853,
+        "drift": 56
+      },
+      {
+        "claimed": 8322,
+        "actual": 8332,
+        "drift": 10
       }
     ]
   },
