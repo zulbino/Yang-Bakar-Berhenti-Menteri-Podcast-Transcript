@@ -176,7 +176,7 @@ Dan bila mereka dapat, mereka mendapat bantuan bulanan. Ada yang boleh dapat seh
 
 **Interviewer:** Tetapi cadangan itu tidak dilaksanakan sepenuhnya seperti yang dirancang, bukan?
 
-**Rafizi:** Tapi tidak dipersetujui lah. Akhirnya, ia ditangguh dan ditangguh. Ia ditangguh demi politik dalaman dalam kerajaan. Ini menarik kerana kita tidak boleh lari daripada naratif yang dimainkan. Terdapat naratif yang dimainkan bahawa ini adalah soal pilihan, tetapi ia memberi kesan langsung. Ramai orang bertanya, "Ke mana perginya PADU?" Sebenarnya, jika saya boleh katakan, bahagian penerangan ataupun Jabatan Penerangan (JCOM) gagal untuk memberikan penjelasan mengenai perkara ini. Seolah-olah mereka gagal atau tidak faham. Sebab itu kita melihat naratif yang dimainkan bahawa "Raja Formula" membuatkan PADU gagal.
+**Rafizi:** Tapi tidak dipersetujui lah. Akhirnya, ia ditangguh dan ditangguh. Ia ditangguh demi politik dalaman dalam kerajaan. Ini menarik kerana kita tidak boleh lari daripada naratif yang dimainkan. Terdapat naratif yang dimainkan bahawa ini adalah soal pilihan, tetapi ia memberi kesan langsung. Ramai orang bertanya, "Ke mana perginya PADU?" Sebenarnya, jika saya boleh katakan, bahagian penerangan ataupun Jabatan Penerangan (JKOM) gagal untuk memberikan penjelasan mengenai perkara ini. Seolah-olah mereka gagal atau tidak faham. Sebab itu kita melihat naratif yang dimainkan bahawa "Raja Formula" membuatkan PADU gagal.
 
 **Interviewer:** Adakah terdapat kemungkinan PADU akan dilupakan sepenuhnya?
 

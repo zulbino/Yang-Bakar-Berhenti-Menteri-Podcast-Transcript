@@ -66,15 +66,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 I myself was surprised because I felt I wasn't really the right person — there are many other political YouTubers who should be more deserving.
 
-**Rafizi:** Was there anyone from JCOM on the list YouTube chose? Maybe Iswadi?
+**Rafizi:** Was there anyone from JKOM on the list YouTube chose? Maybe Iswadi?
 
-**Daniel Jani:** Oh, Iswadi isn't from JCOM. Iswadi wasn't on that list. Most of them were people from Sarawak.
+**Daniel Jani:** Oh, Iswadi isn't from JKOM. Iswadi wasn't on that list. Most of them were people from Sarawak.
 
 If I may share, I really started from the bottom. It's different with YB Rafizi — YB already had a big name before this, so whatever YB does, people already know him. I'm the one who truly started from zero to build an audience.
 
 When we do YouTube, we see a lot of things. We really see it — like YB has experience, as we said earlier, we've become influencers, people want to see what we comment on — that's actually what we discuss.
 
-That's what I see. And if I were to say more about JCOM later, people would say I'm criticizing, that I'm being arrogant. But there's a technique to this, that's why it needs to be learned.
+That's what I see. And if I were to say more about JKOM later, people would say I'm criticizing, that I'm being arrogant. But there's a technique to this, that's why it needs to be learned.
 
 I'm not saying I'm already very skilled, but maybe we could try. That's why we're rather weak in that area.
 

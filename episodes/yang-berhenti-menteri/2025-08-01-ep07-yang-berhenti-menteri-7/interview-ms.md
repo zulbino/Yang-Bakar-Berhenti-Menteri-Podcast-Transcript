@@ -65,15 +65,15 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 Saya sendiri terkejut sebab saya rasa saya bukanlah orangnya — ramai lagi YouTuber politik yang lain yang sepatutnya lebih layak.
 
-**Rafizi:** Ada dalam senarai yang YouTube pilih tu orang JCOM? Iswadi mungkin?
+**Rafizi:** Ada dalam senarai yang YouTube pilih tu orang JKOM? Iswadi mungkin?
 
-**Daniel Jani:** Oh, Iswadi bukan JCOM. Tak ada Iswadi dalam senarai tu. Kebanyakannya orang Sarawak.
+**Daniel Jani:** Oh, Iswadi bukan JKOM. Tak ada Iswadi dalam senarai tu. Kebanyakannya orang Sarawak.
 
 Kalau nak cerita, saya ni mula dari bawah betul-betul. Lain dengan YB Rafizi — YB dah ada nama besar sebelum ni, jadi apa-apa je yang YB buat, orang dah kenal. Saya ni yang betul-betul mula dari kosong untuk bina penonton.
 
 Bila kita buat YouTube ni, kita nampak banyak benda. Betul-betul kita nampak — macam YB ada pengalaman, macam yang kita cakap tadi, kita dah jadi pempengaruh, orang nak tengok apa yang kita ulas — itu sebenarnya apa yang kita bahaskan.
 
-Itu yang saya nampak. Dan kalau saya nak cakap lebih pasal JCOM ni nanti, orang kata saya mengkritik, kata saya berlagak. Tapi benda ni ada tekniknya, sebab itu perlu dipelajari.
+Itu yang saya nampak. Dan kalau saya nak cakap lebih pasal JKOM ni nanti, orang kata saya mengkritik, kata saya berlagak. Tapi benda ni ada tekniknya, sebab itu perlu dipelajari.
 
 Saya tak kata saya dah pandai sangat, tapi mungkin kita boleh cuba. Sebab itu kita agak lemah di situ.
 
