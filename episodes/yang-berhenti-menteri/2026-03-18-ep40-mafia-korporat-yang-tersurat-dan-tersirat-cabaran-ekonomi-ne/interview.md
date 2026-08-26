@@ -11,7 +11,7 @@ view_count: 120754
 hosts:
 - Rafizi Ramli
 guests:
-- Pak Han
+- Pa'an
 topics:
 - Hari Raya banter and toll discount timing
 - Viral 'Beria' news segment
@@ -347,7 +347,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Speaker 2:** So kau ingat aku ada pengalaman lah kan?
 
-**Rafizi Ramli:** Kita lebih kurang faham lah kan. Saya ingat sebahagian besar daripada rakyat Malaysia ni, dia tak faham pun macam mana mereka beroperasi. Dan yang lawaknya, saya ada bodyguard — bodyguard saya lah kan, dia terlatih semua ni kan — so aku selalu juga sembang dengan bodyguard aku lah, aku nak kena terangkan kat bodyguard aku pasal underworld ni kan, dia tak faham tu. Macam mana orang pendapatan haram tu maksudnya macam mana? Macam mana orang buat duit daripada judi? Dia tak faham kan. Jadi saya ingat, untuk kita memahami soal tersirat — kerana tersirat ini akan menjawab soalan utama, iaitu sejauh mana keterlibatan, keterdedahan, dan juga sama ada pimpinan kerajaan, pimpinan agensi penguatkuasa, telah dikompromi dengan kegiatan dan unsur jenayah — sebelum sampai ke mafia korporat yang didedahkan oleh Bloomberg ni, kita kena rewind all the way kepada punca dan bagaimana aktiviti itu berlaku. So macam mana? Pak Han mungkin tahu, dia budak jahat sikit — so go.
+**Rafizi Ramli:** Kita lebih kurang faham lah kan. Saya ingat sebahagian besar daripada rakyat Malaysia ni, dia tak faham pun macam mana mereka beroperasi. Dan yang lawaknya, saya ada bodyguard — bodyguard saya lah kan, dia terlatih semua ni kan — so aku selalu juga sembang dengan bodyguard aku lah, aku nak kena terangkan kat bodyguard aku pasal underworld ni kan, dia tak faham tu. Macam mana orang pendapatan haram tu maksudnya macam mana? Macam mana orang buat duit daripada judi? Dia tak faham kan. Jadi saya ingat, untuk kita memahami soal tersirat — kerana tersirat ini akan menjawab soalan utama, iaitu sejauh mana keterlibatan, keterdedahan, dan juga sama ada pimpinan kerajaan, pimpinan agensi penguatkuasa, telah dikompromi dengan kegiatan dan unsur jenayah — sebelum sampai ke mafia korporat yang didedahkan oleh Bloomberg ni, kita kena rewind all the way kepada punca dan bagaimana aktiviti itu berlaku. So macam mana? Pa'an mungkin tahu, dia budak jahat sikit — so go.
 
 **Speaker 2:** Saya budak sekolah agama.
 
@@ -487,7 +487,7 @@ Baiklah, kita ada tiga lagi topik ni, baby. Saya cadangkan dua yang terakhir kit
 
 Ini sebenarnya bergantung kepada satu soalan yang sangat besar: adakah keputusan *Supreme Court* di US hari itu sebenarnya membatalkan terus seluruh perjanjian yang kita tandatangani, termasuk syarat-syarat berat sebelah itu, ataupun ia hanya membatalkan tarif itu sahaja tanpa mengganggu perjanjian tersebut?
 
-**Pak Han:** Dari pemahaman saya, pengumuman tarif paling awal itu adalah *precursor* kepada perbincangan-perbincangan perjanjian dagangan yang akan datang. Jadi, Malaysia pergi awal dan kemudian berbincang *new trade deal* — selamat tinggal. Yang dibatalkan oleh *Supreme Court* ialah tarif yang menjadi *precursor* itu. Jadi *technically*, adakah — itu soalan kita — *technically* yang batal itu hanya tarif awal sahaja?
+**Pa'an:** Dari pemahaman saya, pengumuman tarif paling awal itu adalah *precursor* kepada perbincangan-perbincangan perjanjian dagangan yang akan datang. Jadi, Malaysia pergi awal dan kemudian berbincang *new trade deal* — selamat tinggal. Yang dibatalkan oleh *Supreme Court* ialah tarif yang menjadi *precursor* itu. Jadi *technically*, adakah — itu soalan kita — *technically* yang batal itu hanya tarif awal sahaja?
 
 **Rafizi Ramli:** Saya rasa kalau kau tanya Tengku Zafrul pun, dia akan jawab macam korang juga — *which is*, semua orang sebenarnya tak tahu. *My understanding lah* — apabila Presiden Trump mengenakan *reciprocal tariff* ini, dia menggunakan satu bidang kuasa dalam akta yang lebih kepada *emergency power*, kuasa-kuasa darurat — bunyi macam Muhyiddin Yassin je, kuasa-kuasa darurat. Dia gunakan kuasa itu, dan ia dicabar kerana di US, kuasa untuk cukai ialah kuasa Kongres, bukan kuasa Presiden. Dan kita semua sedia maklum, Mahkamah Agung US (*Supreme Court*) memutuskan bahawa perkara itu tidak sah — Trump tidak ada kuasa itu.
 
@@ -507,36 +507,36 @@ Ada kemungkinan begini: apabila siasatan-siasatan itu mendapati ada amalan perda
 
 Ini semua perkara yang sepatutnya dibincangkan di kabinet, dan ini juga perkara yang kita nak dengar daripada Dato' Seri Johari Ghani — sebenarnya apa perancangan dia? Kita tak boleh mudah-mudah sahaja kata dah terbatal, kira terbatal. *It doesn't work like that*. Kita sepatutnya sudah boleh menjangka, memandangkan US sekarang sedang menyiasat Malaysia dan amalan-amalan dagangan Malaysia, bahawa mereka akan mengenakan tarif berdasarkan bidang kuasa lain. Jadi perkara ini masih belum selesai. Pada pandangan saya, kerajaan patut gunakan alasan ini dengan segera untuk membatalkan — tulislah surat, atau nyatakan semula bahawa kita buat keputusan tidak akan *ratify*, maka ia terbatal. Kalau ada tarif baru, itu akan dirundingkan semula.
 
-**Pak Han:** Soalan saya — proses pembatalan itu, perlukah ia *two-way*, atau boleh sahaja seorang pihak kata "saya tak nak buat" dan pihak lain kena terima? Kerana pada pendapat saya sekarang, Malaysia berada dalam posisi yang sukar — kita telah menandatangani, tapi disebabkan keputusan kuasa *Supreme Court*, kita pula kata tak boleh, *we don't want to do this anymore*.
+**Pa'an:** Soalan saya — proses pembatalan itu, perlukah ia *two-way*, atau boleh sahaja seorang pihak kata "saya tak nak buat" dan pihak lain kena terima? Kerana pada pendapat saya sekarang, Malaysia berada dalam posisi yang sukar — kita telah menandatangani, tapi disebabkan keputusan kuasa *Supreme Court*, kita pula kata tak boleh, *we don't want to do this anymore*.
 
 **Rafizi Ramli:** *If I can recall* — perjanjian itu kita baca *paragraph by paragraph*, *we went through*. Memang ada *clause termination*. Memang boleh, Malaysia boleh *terminate* sekarang. Malah saya pernah ditanya soal ini — pandangan saya dulu dan sekarang sama: memang kita ada hak untuk membatalkan atau *terminate*. Tetapi sebaik mungkin, ia tak boleh jadi *unilateral termination*; ia mesti *mutual termination*. *Unilateral termination* ini akan menjatuhkan air muka Amerika Syarikat — maksudnya, seolah-olah ada sebuah negara kecil yang kurang ajar, pandai-pandai sahaja pergi batalkan, macam dia ingat dia besar, dan itu boleh cari gaduh. Jadi walaupun ada *termination clause* dalam perjanjian AT sekarang dan Malaysia boleh sahaja menggunakannya, itu bukan pilihan yang bijak untuk hubungan diplomatik-ekonomi kita dengan AS. Jadi nak tak nak, ia perlu mencapai persetujuan bersama — *it must be a mutual agreement*. Itu, pada pandangan saya, perlu diketuai oleh MITI sekarang, untuk mencapai persetujuan bersama *for us to move on* daripada AT ini, dan kalau dua-dua negara bersetuju untuk membatalkannya, dan nak berunding yang baru, *then you can start afresh*. Itu caranya.
 
 Tapi *certainly*, saya tak selesa dengan kerajaan sekarang memberi gambaran seolah-olah semua ini dah selesai. Tengku Zafrul kata apa — "Rafizi nak *spin* semua ini, bila mahkamah kata begini kita tak bayarlah" — mana ada, benda ini belum selesai lagi. Sama juga bila Datuk Seri Johari Ghani memberi gambaran perjanjian itu telah batal sebab keputusan mahkamah — *it's not*. Jadi perkara ini masih akan berlarutan dan memerlukan keputusan yang tuntas daripada kerajaan. Saya bukan nak jadi peribadi terhadap Datuk Seri Johari Ghani, tapi apabila kesan kenyataan Menteri MITI itu seolah-olah kita secara *unilateral* membatalkan perjanjian, media antarabangsa pun sudah melaporkannya — *Malaysia is the first country* [to do so], kata laporan itu. Sebab itu saya rasa ia perlu segera diperbetulkan.
 
-**Pak Han:** Ini cuma nak *revise* balik — "*either party may terminate this agreement by [written] notification to the other party*." Jadi *technically*, kalau kita tulis kepada mereka kata batal, batal lah?
+**Pa'an:** Ini cuma nak *revise* balik — "*either party may terminate this agreement by [written] notification to the other party*." Jadi *technically*, kalau kita tulis kepada mereka kata batal, batal lah?
 
 **Rafizi Ramli:** Boleh, tapi seperti saya katakan, *termination clause* itu memang ada, cuma mustahil Malaysia berani buat begitu, kerana sebenarnya itu sama seperti cari gaduh. Kecuali telah dipersetujui lebih awal untuk Malaysia menulis, dan US akan menerima dengan hati terbuka. Kalau kita tak boleh buat secara *unilateral*, kita tulis, dan kita *expect* US kata "terima kasih, adik sayang, saya terima" — *doesn't work like that*. Jadi saya rasa, itulah jalannya... [bunyi kenderaan kecemasan lalu di luar] Okey, kita kena habiskan di sini — perkara ini masih akan berlanjutan, dan mungkin banyak lagi episod podcast akan datang yang kita perlu ulas mengenai perjanjian AT ini.
 
-**Pak Han:** Jadi kesimpulannya, jangan tergesa-gesa, kan?
+**Pa'an:** Jadi kesimpulannya, jangan tergesa-gesa, kan?
 
 **Rafizi Ramli:** Ya, jangan tergesa-gesa umumkan telah terbatal. Jangan tergesa-gesa dalam semua perkara. Inilah akibatnya bila tergesa-gesa — akhirnya terlepas cakap kata sebenarnya dah batal, kemudian tergesa-gesa *reverse* balik, kata belum batal. Jadi jangan tergesa-gesa — satu orang cakap, lima orang lain kena bereskan akibatnya. Okay, saya rasa itu sahaja, baby. Selamat Hari Raya, Selamat Hari Raya! InsyaAllah saya dah sampai kampung, bye — waktu kita pun dah habis.
 
-**Pak Han:** Tak—
+**Pa'an:** Tak—
 
-**Rafizi Ramli:** Tak kaget pun, awal sangat ke apa? YB nak gerak ke apa — jangan risau, takkanlah aku nak cerita, mafia banyaklah, bahaya, bahaya, bahaya, dirahsiakan. Pergerakan aku semua tak boleh cakap kat orang — semuanya dirahsiakan. Okey, baiklah. Selamat Hari Raya, Selamat Hari Raya! Maaf zahir dan batin, maaf zahir dan batin. Minta maaf banyak-banyak, saya minta maaf. Saya pun banyak buat salah kepada penonton — minta maaf dengan penonton berkenaan saya. Banyak salah saya. Pak Han?
+**Rafizi Ramli:** Tak kaget pun, awal sangat ke apa? YB nak gerak ke apa — jangan risau, takkanlah aku nak cerita, mafia banyaklah, bahaya, bahaya, bahaya, dirahsiakan. Pergerakan aku semua tak boleh cakap kat orang — semuanya dirahsiakan. Okey, baiklah. Selamat Hari Raya, Selamat Hari Raya! Maaf zahir dan batin, maaf zahir dan batin. Minta maaf banyak-banyak, saya minta maaf. Saya pun banyak buat salah kepada penonton — minta maaf dengan penonton berkenaan saya. Banyak salah saya. Pa'an?
 
-**Pak Han:** Saya pun minta maaf juga sebab banyak salah juga.
+**Pa'an:** Saya pun minta maaf juga sebab banyak salah juga.
 
 **Rafizi Ramli:** Apanya pulak tak? Apa ni — animated betul ucapan raya korang ni.
 
-**Pak Han:** Itu sebab kami bukan *politicians*.
+**Pa'an:** Itu sebab kami bukan *politicians*.
 
 **Rafizi Ramli:** Tapi YB akan ada penampilan istimewa, kan? Saya akan ada penampilan istimewa — tunggu ucapan raya saya. Tapi masuk segmen Beria tak untuk minggu depan punya *segment*? Kita tengok respons orang — kalau orang kata Beria, memang kita masuk kan, tengok respons. Kalau aku kena *troll*, memang kena masuk Beria lah. Jadi *conflict of interest* kalau minggu depan aku pula yang kena *troll* — bila dah habis, bawa aku masuk balik lah. Ini bahan ucapan raya YB tahun ni yang akan keluar nanti.
 
-**Pak Han:** Okay.
+**Pa'an:** Okay.
 
 **Rafizi Ramli:** Itu sahaja. Selamat Raya, Selamat Raya! Eh, jaga kereta elok-elok.
 
-**Pak Han:** Okay, bye. Assalamualaikum.
+**Pa'an:** Okay, bye. Assalamualaikum.
 
 **Rafizi Ramli:** Assalamualaikum.

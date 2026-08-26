@@ -146,7 +146,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Wabi tahu, eh, setiap seorang-seorang. Haa, aku tahu lah semua yang berlaku. Kan, iyalah, dia masuk parti tu pun, masa dia masuk parti tu dia budak sangat lagi kan. Jadi saya ingat lah, sebab dia ni antara penyokong kuat Azmin dulu yang hentam aku tiap-tiap hari dalam WhatsApp kan. Jadi tak apa lah. Cuma yang lawaknya, netizen pergi korek balik gambar dia ni — popular satu masa dulu tau daripada orang, tahu — jadi tak tahu terus, gambar dia semasa seorang individu yang kontroversi, yang dikaitkan dengan satu video tidak berbaju, disandarkan semasa individu itu ditahan polis. Bekas menteri ekonomi bukan, yang muda — bukan aku — apa nama ni, gambar yang diambil yang mengiringi, yang disiasat polis itu, keluar adalah Danish ni!
 
-**Haziq:** Pak Han terus pergi Google, nampak kan?
+**Haziq:** Pa'an terus pergi Google, nampak kan?
 
 **Rafizi:** Oh, dia tengah lambat sambil telefon.
 
@@ -198,7 +198,7 @@ Jadi saya balik ke kabinet lah dan saya bentangkan. Sebenarnya memang ada appreh
 
 **Rafizi:** Memang lah, sebab "kita tak boleh percaya Singapura ni" — ayat sama, kan? Tak scientific. Kemudian, "kita akan hilang kemerdekaan, kalau kita harmonikan ni sampai ubah soal custom kita, soal orang keluar masuk immigration, ini mengancam keselamatan dan kedaulatan negara" — ayat sama yang kita dengar lah, yang menerangkan kenapa semasa zaman UMNO-BN dulu tak ada JSSEZ. Yang ada hanyalah pembangunan hartanah di selatan Johor, dengan harapan orang kaya Singapura datang beli — benda itu tak jadi. Tapi ye lah, kau tahu aku kan, kepala keras, pumpang-pumpang-pumpang semua, akhirnya, ye lah, macam itu lah, dapat lah kelulusan. Sebab sekarang pun kita tahu juga lah, kelulusan itu selalunya — ya di depan, belakang sabotaj.
 
-Jadi berdasarkan yang itu, maka saya dengan Desmond, Minister Desmond, kita bersetuju timeline. Timeline dia itu memang sangat — apa nama ini — ambitious kan. Sebab cuba Pak An cek kan, kita pertama, kita bersetuju untuk sign memoranda akhir 2023 kan — maksudnya dalam tempoh 4-5 bulan saja kat Johor kan. Yang itu yang sign dengan Minister Gan kan. Kemudian memorandum itu, bila ditandatangani, kita ada...
+Jadi berdasarkan yang itu, maka saya dengan Desmond, Minister Desmond, kita bersetuju timeline. Timeline dia itu memang sangat — apa nama ini — ambitious kan. Sebab cuba Pa'an cek kan, kita pertama, kita bersetuju untuk sign memoranda akhir 2023 kan — maksudnya dalam tempoh 4-5 bulan saja kat Johor kan. Yang itu yang sign dengan Minister Gan kan. Kemudian memorandum itu, bila ditandatangani, kita ada...
 
 **Haziq:** 11 Januari 2024.
 
@@ -340,7 +340,7 @@ Jadi kita bukan sahaja kerajaan, kita perlukan bank, kerana bank yang bawa pelab
 
 **Speaker 2:** So berdasarkan observation, ialah setiap orang dia ada apa ni, keutamaan yang berbeza-beza, macam mana dia nak menilai. Ada partly betul, ada yang kata "oh, ADUN ni bagus," boleh jadi betul, ada yang tengok isu nasional. Jadi saya rasa yang paling penting adalah kita klasifikasikan isu apa yang paling popular, ataupun keutamaan apa yang paling popular yang orang tu consider untuk mengundi kat situ lah.
 
-**Rafizi:** Jawapan selamat. Pak Han?
+**Rafizi:** Jawapan selamat. Pa'an?
 
 **Speaker 3:** My assumption based on the — my hypothesis based on the observation I've made so far, memang orang Johor akan mengundi Barisan Nasional balik.
 
@@ -396,7 +396,7 @@ Jadi kita bukan sahaja kerajaan, kita perlukan bank, kerana bank yang bawa pelab
 
 **Rafizi:** Plains of Pelennor, kan? Ya, it's outside Minas Tirith — Plains of Pelennor. So basically, the army of the dead, orang-orang dataran tinggi zaman dulu-dulu, dia ada oath dengan the ancestors of, dengan Isildur. Jadi dia terpaksalah — kalau dia tak tunaikan oath tu, dia forever be trapped as ghosts. Akhirnya, to have peace, dia kena tunaikan, sebab dulu dia mungkin pernah berjanji. Benda tu tak ada langsung dalam perkiraan — sebelah Ork pun tak ada, sebelah Theoden pun tak ada. Jadi kalau kau letak "so it begins" ni, for all you know, silap-silap hari nanti jadi macam itulah.
 
-So I will only know lebih lanjut dalam tempoh mungkin seminggu untuk kempen ni. Sebenarnya semua ADI sekarang — betullah macam Pak An kata. Kalau di Johor, dia nampak lebih cenderung kepada UMNO. Tapi bukan kerana kekuatan UMNO, bukan kerana UMNO rasa dia memang popular. UMNO pun rasa begitu, tapi ia lebih kepada faktor higienik. Sebab deciding factor untuk Johor hanya ada dua. Pertama, sama ada pengundi bukan Melayu akan keluar mengundi. Dan itu sebenarnya adalah hygienic factor dengan kerajaan persekutuan — soal SST, soal e-invoicing, soal sama ada pengundi bukan Melayu rasa Dato' Seri Anwar dan DAP dan PH ini telah deliver what they need to deliver. Itu satu. As you say, how PH can energize their core voter group, which is non-Malays — keluar ataupun tidak. Because kalau dia fall below a certain number, no matter what, memang susah nak menang.
+So I will only know lebih lanjut dalam tempoh mungkin seminggu untuk kempen ni. Sebenarnya semua ADI sekarang — betullah macam Pa'an kata. Kalau di Johor, dia nampak lebih cenderung kepada UMNO. Tapi bukan kerana kekuatan UMNO, bukan kerana UMNO rasa dia memang popular. UMNO pun rasa begitu, tapi ia lebih kepada faktor higienik. Sebab deciding factor untuk Johor hanya ada dua. Pertama, sama ada pengundi bukan Melayu akan keluar mengundi. Dan itu sebenarnya adalah hygienic factor dengan kerajaan persekutuan — soal SST, soal e-invoicing, soal sama ada pengundi bukan Melayu rasa Dato' Seri Anwar dan DAP dan PH ini telah deliver what they need to deliver. Itu satu. As you say, how PH can energize their core voter group, which is non-Malays — keluar ataupun tidak. Because kalau dia fall below a certain number, no matter what, memang susah nak menang.
 
 Dan perkara kedua, sama ada kalau dia keluar pun, sama ada dia bagi undi block voting kepada PH seperti dalam pilihan raya-pilihan raya yang lepas — 60% undi Cina dan India, or even lower than that. Because untuk PH menang considerably, dan especially untuk PKR dan Amanah tidak kena wipe out, mereka memerlukan at least 70% of non-Malay votes pada turnout rate around 60% or above. So it's, you know, it's a tall order. Masa sekarang, nampak memanglah dia cenderung kepada UMNO menang. Tapi sama ada UMNO — sebab UMNO dah pukul gendang sekarang ni — dia akan sapu lebih besar, mungkin menang sampai 50 kerusi. So whether or not, I think saya pun tak boleh baca lagi sekarang.
 

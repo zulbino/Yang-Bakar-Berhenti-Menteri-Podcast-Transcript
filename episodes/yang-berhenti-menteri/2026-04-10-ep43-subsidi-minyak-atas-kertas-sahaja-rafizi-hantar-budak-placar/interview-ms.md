@@ -202,7 +202,7 @@ Jadi Petronas akan bernegosiasi dengan kerajaan. Dan untuk menjawab Isyam Jalil 
 
 Sesiapa yang menjadi kerajaan, kalau bertanggungjawab, perlu tahu ada had berapa banyak wang boleh diambil daripada Petronas, kerana Petronas memerlukan wang itu untuk membeli blok minyak di negara lain. Sebab itu Petronas kini di Brazil, di Suriname, di Guinea — sebab Sudan sudah diambil. Kena cari blok-blok lain, dan di peringkat antarabangsa kena bersaing dengan syarikat-syarikat terbesar dunia — Shell, Exxon, Conoco, Chevron, yang duitnya banyak. Kalau kau pergi merayu tanpa duit, walaupun dapat blok tersebut, tak ada duit untuk usahakannya — bagaimana? Setiap blok boleh menelan berpuluh-puluh bilion. Jadi semua ini, saya pun tak faham macam mana Isyam Jalil boleh bercakap seolah-olah dia lebih pandai daripada Perdana Menteri ketika itu. Itulah yang saya panggil tahyul, dan ia menyukarkan perbincangan masyarakat mengenai isu minyak.
 
-**Haziq:** Okey, Pak Han nak tanya — sebab kita ada separuh, itu baru separuh pasal minyak.
+**Haziq:** Okey, Pa'an nak tanya — sebab kita ada separuh, itu baru separuh pasal minyak.
 
 **Rafizi Ramli:** Tak, tak, tak, saya tak nak kacau. Mungkin ke Sanusi pula, saya rasa? Tak, tak, tak, Sanusi ni baik lah berbanding Isyam Jalil, saya jawab sedikit.
 

@@ -145,7 +145,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** I know, eh, everyone individually. Ha, I know everything that's happened. Right, well, when he joined the party, he was still very young at the time. So I remember, because he was among Azmin's strong supporters back then who attacked me every single day on WhatsApp. So it's fine, no problem. But the funny thing is, netizens dug up an old photo of him — he was quite popular at one point, you know — and suddenly, there's a photo of him from when he was linked as an individual involved in a controversy, connected to a video of someone shirtless, standing next to that individual when he was detained by police. The former young economic minister — no, not me — what's this called, the photo taken accompanying the person being investigated by police, turns out to be Danish!
 
-**Haziq:** Pak Han immediately went to Google, you saw that?
+**Haziq:** Pa'an immediately went to Google, you saw that?
 
 **Rafizi:** Oh, he's slow, on his phone.
 
@@ -197,7 +197,7 @@ So I went back to cabinet and presented it. Actually there was apprehension — 
 
 **Rafizi:** Of course there was, because "we can't trust Singapore" — same line, right? Not scientific. Then, "we'll lose our sovereignty, if we harmonize this to the point of changing our customs, our immigration entry and exit, this threatens national security and sovereignty" — same lines we always hear, explaining why during the UMNO-BN era there was no JSSEZ. What existed was just property development in southern Johor, hoping rich Singaporeans would come buy — that didn't work out. But well, you know me, stubborn, kept pushing and pushing, eventually, well, that's how it is, got the approval. Because now we also know, approval is usually — yes to your face, sabotage behind your back.
 
-So based on that, I and Desmond, Minister Desmond, agreed on a timeline. That timeline was really — what's the word — ambitious. Because if you check, Pak An, first, we agreed to sign the memorandum by the end of 2023 — meaning within 4-5 months in Johor. That's the one signed with Minister Gan. Then that memorandum, once signed, we had...
+So based on that, I and Desmond, Minister Desmond, agreed on a timeline. That timeline was really — what's the word — ambitious. Because if you check, Pa'an, first, we agreed to sign the memorandum by the end of 2023 — meaning within 4-5 months in Johor. That's the one signed with Minister Gan. Then that memorandum, once signed, we had...
 
 **Haziq:** 11 January 2024.
 
@@ -339,7 +339,7 @@ So it's not just the government, we needed banks, because the banks bring in inv
 
 **Speaker 2:** So based on observation, everyone has different priorities, different ways of evaluating things. Some are partly right, some say, "oh, this assemblyman is good," that might be right, some look at national issues. So I think the most important thing is to classify what issue is most prominent, or what priority is most prominent that people consider when voting there.
 
-**Rafizi:** Safe answer. Pak Han?
+**Rafizi:** Safe answer. Pa'an?
 
 **Speaker 3:** My assumption based on the — my hypothesis based on the observation I've made so far, is that Johor people will vote Barisan Nasional back in.
 
@@ -395,7 +395,7 @@ So it's not just the government, we needed banks, because the banks bring in inv
 
 **Rafizi:** Plains of Pelennor, right? Yes, it's outside Minas Tirith — Plains of Pelennor. So basically, the army of the dead, people from the highlands of old, had an oath with the ancestors of, with Isildur. So they were forced — if they didn't fulfil the oath, they would be forever trapped as ghosts. In the end, to have peace, they had to fulfil it, because they had once made a promise. That thing was not in anyone's calculations at all — not on the Orc side, not on Théoden's side either. So if you title this "so it begins," for all you know, who knows, it might end up turning out just like that.
 
-So I will only know more within, perhaps, a week into this campaign. Actually all the assessments right now — Pak An is right. In Johor, it looks more inclined towards UMNO. But not because of UMNO's strength, not because UMNO feels it's genuinely popular. UMNO thinks so too, but it's more due to a hygienic factor. Because the deciding factor for Johor comes down to only two things. First, whether non-Malay voters will come out to vote. And that's actually a hygienic factor tied to the federal government — the SST issue, the e-invoicing issue, whether non-Malay voters feel Dato' Seri Anwar and DAP and PH have delivered what they need to deliver. That's one. As you say, how can PH energize their core voter group, which is non-Malays — will they come out or not. Because if it falls below a certain number, no matter what, it will genuinely be hard to win.
+So I will only know more within, perhaps, a week into this campaign. Actually all the assessments right now — Pa'an is right. In Johor, it looks more inclined towards UMNO. But not because of UMNO's strength, not because UMNO feels it's genuinely popular. UMNO thinks so too, but it's more due to a hygienic factor. Because the deciding factor for Johor comes down to only two things. First, whether non-Malay voters will come out to vote. And that's actually a hygienic factor tied to the federal government — the SST issue, the e-invoicing issue, whether non-Malay voters feel Dato' Seri Anwar and DAP and PH have delivered what they need to deliver. That's one. As you say, how can PH energize their core voter group, which is non-Malays — will they come out or not. Because if it falls below a certain number, no matter what, it will genuinely be hard to win.
 
 And the second thing, even if they do come out, whether they'll give block votes to PH like in past elections — 60% of Chinese and Indian votes, or even lower than that. Because for PH to win considerably, and especially for PKR and Amanah not to get wiped out, they need at least 70% of non-Malay votes at a turnout rate of around 60% or above. So it's, you know, it's a tall order. Right now, it does look like it's leaning towards an UMNO win. But whether or not — because UMNO is already beating the drums now — they'll sweep even bigger, maybe winning up to 50 seats. So whether or not, I think I can't quite read it yet either, right now.
 

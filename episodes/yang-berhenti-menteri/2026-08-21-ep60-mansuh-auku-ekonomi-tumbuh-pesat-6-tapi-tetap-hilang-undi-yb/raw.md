@@ -195,7 +195,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [29:53] Rafizi: Pancak lah Ada Ada atas kalipan Aduh Ken Tak apa nanti kita... Alright, berjaya. Seronok kita. Ini adalah admin eh. Aduh, at least delete ke apa ke, tak tahu
 
-[30:12] Rafizi: kan. Tapi, plot twist dia. Plot twist dia. Ada lagi. Tapi yang itu, Pak Han kena check lah betul-betul. Sebab aku rasa memang daripada akaun Haji Kemarul yang tulis ini admin. Tapi plot twist dia, kalau yang kata ini admin tu, dia daripada akaun lain. Maksudnya dia nak throw.
+[30:12] Rafizi: kan. Tapi, plot twist dia. Plot twist dia. Ada lagi. Tapi yang itu, Pa'an kena check lah betul-betul. Sebab aku rasa memang daripada akaun Haji Kemarul yang tulis ini admin. Tapi plot twist dia, kalau yang kata ini admin tu, dia daripada akaun lain. Maksudnya dia nak throw.
 
 [30:29] Sum Dek Jo: Lagi
 

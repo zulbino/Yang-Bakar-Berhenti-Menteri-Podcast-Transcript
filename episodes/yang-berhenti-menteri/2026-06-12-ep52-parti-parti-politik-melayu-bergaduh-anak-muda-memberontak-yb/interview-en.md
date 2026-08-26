@@ -612,7 +612,7 @@ Okay, yes — actually, when we talk about work-life balance, about social mobil
 
 **Haziq (to himself, interrupted by a friend):** What? Where are you trying to land this? Oh okay, go ahead and land it.
 
-**Haziq:** Wanting to be seen, representation. Wanting to be seen. So... it doesn't quite jive there. What do young people actually want? Okay, old Pak An wants to speak.
+**Haziq:** Wanting to be seen, representation. Wanting to be seen. So... it doesn't quite jive there. What do young people actually want? Okay, old Pa'an wants to speak.
 
 **Farhan (Pa'an):** Millennials — actually, I want to ask, is Gen Z even interested in politics? Basically, are you guys following the politics of the nation?
 

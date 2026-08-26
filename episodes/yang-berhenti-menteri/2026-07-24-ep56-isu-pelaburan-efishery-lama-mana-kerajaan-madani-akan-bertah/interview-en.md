@@ -9,7 +9,7 @@ duration: 2h 45m
 view_count: 203668
 hosts:
 - Rafizi Ramli
-- Speaker 2 (Pak An/Aan)
+- Speaker 2 (Pa'an/Aan)
 guests:
 - Chopper (co-host, cat)
 topics:
@@ -571,7 +571,7 @@ Alright, baby. It's been a long time, huh.
 
 **Speaker 3:** No, I think he's in heat. Really? Really? Really? Really? Needs to be sent to get neutered. Hasn't he been neutered yet? Street cat. How do you know? Oh, I mean... let's leave his orange bell thing alone for now. Okay, fine.
 
-**Rafizi Ramli:** That's all. We don't want to go into Chopper's orange bell. Okay, so God willing we'll meet again for this. We're planning our joint activities in a more organized manner. Then that'll be coordinated with IRL, our YouTube channel will have more organized programs. It won't be ad-hoc like sometimes it's there, sometimes it's not. I'm actually giving Pak An live instructions right now. Okay.
+**Rafizi Ramli:** That's all. We don't want to go into Chopper's orange bell. Okay, so God willing we'll meet again for this. We're planning our joint activities in a more organized manner. Then that'll be coordinated with IRL, our YouTube channel will have more organized programs. It won't be ad-hoc like sometimes it's there, sometimes it's not. I'm actually giving Pa'an live instructions right now. Okay.
 
 **Speaker 2:** So, that's it, YB. Good night. We look forward to further announcements about the Melaka state election and much more. Thank you. See you again. Assalamualaikum.
 

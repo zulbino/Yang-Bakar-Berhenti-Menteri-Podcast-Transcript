@@ -78,7 +78,7 @@ Hehe, geli je kan. Tambah 191 lagi hempedu ular sawa. Kau sure tak ada ular kat 
 
 Okay, ini berkaitan rampasan yang dibuat di Johor, melibatkan seorang warga negara Vietnam yang ditangkap bersama-sama dengan what we call hempedu, gallbladder, macam-macam — hempedu, gallbladder, juga lidah ular, yang dikatakan untuk diseludup dan digunakan untuk perubatan.
 
-Yang pelik tu kan — assuming lah, satu gallbladder tu daripada satu ular sawa, satu lidah tu pun daripada satu ular sawa. Maksudnya dia dah bunuh 1,200 ular sawa. Banyaknya ular sawa Titan kat Malaysia ni — itu yang aku lagi takut. Maybe farm kot. Ha, dia farm. Lagilah menggerunkan — maksudnya kalau pergi Johor ni, ada satu ladang ular sawa, gila ke? Secara tersembunyi lah kot. Mungkin ular sawa ni bukan besar ke? Besar kan? Besar. Okey okey, sikit-sikit je, takut lah aku ni. Okey, beria, beria — sampai kenal, kalau ikut Pak An lah, dia sampai ada ladang ular sawa. Gila beria. Aku kaki dah kena angkat, takut nak pijak tanah dah ni.
+Yang pelik tu kan — assuming lah, satu gallbladder tu daripada satu ular sawa, satu lidah tu pun daripada satu ular sawa. Maksudnya dia dah bunuh 1,200 ular sawa. Banyaknya ular sawa Titan kat Malaysia ni — itu yang aku lagi takut. Maybe farm kot. Ha, dia farm. Lagilah menggerunkan — maksudnya kalau pergi Johor ni, ada satu ladang ular sawa, gila ke? Secara tersembunyi lah kot. Mungkin ular sawa ni bukan besar ke? Besar kan? Besar. Okey okey, sikit-sikit je, takut lah aku ni. Okey, beria, beria — sampai kenal, kalau ikut Pa'an lah, dia sampai ada ladang ular sawa. Gila beria. Aku kaki dah kena angkat, takut nak pijak tanah dah ni.
 
 **Aziz:** Ada fun fact — Malaysia is home to the world's top wildlife smuggler.
 
@@ -100,7 +100,7 @@ Satu yang Tan Sri Azam Baki ni, beria dia — walaupun dalam suasana yang sekali
 
 **Rafizi Ramli:** Azam Baki lah, baby. Yelah, obviously orang tak berapa gemar dia dan dia tak berjaya dengan segala comms plan yang dibuat. Saya nasihatkan kepada Tan Sri Azam Baki, mungkin kena tukar UKK kot. Tapi UKK pun saya simpati lah — bawa UKK yang paling hebat daripada Hollywood pun saya tak rasa boleh mengubah pandangan rakyat mengenai dia. Okay, good luck kepada UKK. Dan beria — kalau ada UKK yang menonton ni, eh, mereka kena. Sebab saya dimaklumkan, salah satu tindak balas daripada SPRM ialah memastikan bila ada podcast YB ni, orang-orang tertentu daripada SPRM kena jadi cyber trooper hentam kita. Jadi kalau tak nak jadi cyber trooper, mungkin sebaiknya doakan supaya kontrak dia tak disambung. InsyaAllah — yakinnya kau, tapi tak apa.
 
-Kita tengok yang sosial media lagi. Ini kata-kata Timbalan Menteri: "Kenapa hidung Anwar Ibrahim tu sampai merah macam tu?" Jahat lah, Pak An. Lelehlah sikit — eh, bukan kita orang lah.
+Kita tengok yang sosial media lagi. Ini kata-kata Timbalan Menteri: "Kenapa hidung Anwar Ibrahim tu sampai merah macam tu?" Jahat lah, Pa'an. Lelehlah sikit — eh, bukan kita orang lah.
 
 **Aziz:** Kita.
 
@@ -142,7 +142,7 @@ Jadi anda akan fikir, Anwar lah yang paling mahir tentang senario politik di Mal
 
 **Aziz:** YB, mungkin kita akan ulas tentang komunikasi kerajaan dalam segmen nanti. Cuma, mungkin ini nightmare kepada stratcom Perdana Menteri — dia dah plan elok, tetapi setiap hujung minggu, kenyataan-kenyataan yang kontroversial ni nyet-nyet-nyet sehingga benda ni akan keluar daripada dia dan akan meletup, sampai setiap minggu, consistent. And orang akan lebih ingat apa yang dia cakap tu daripada speeches-speeches yang lain. Ya.
 
-**Rafizi Ramli:** Saya tak rasa... okay, coming back to what you said lah, maksudnya nightmare kepada pasukan media ataupun stratkom, if there is such a thing, strategic communication. Pak An takut sebab masa dia datang first time — okay, aku nak cerita benda dalam kain lah, split tentang Pak An. Ini orang media lah kan, ataupun orang yang biasa dengan content, social media kan, strategic communication. Jadi aku tak kenal Pak An ni, aku tak kenal langsung, tak nak jumpa pun kan. Jadi ada lah kawan yang recommend aku, "yalah, ok, datanglah," dia datang lah interview. Hahaha. So korang boleh fokus muka Pak An dah merah. So Pak An pun cakap lah pasal strategic communication, semua, how things develop, the strategies — semua aku tengok cakap dia kan.
+**Rafizi Ramli:** Saya tak rasa... okay, coming back to what you said lah, maksudnya nightmare kepada pasukan media ataupun stratkom, if there is such a thing, strategic communication. Pa'an takut sebab masa dia datang first time — okay, aku nak cerita benda dalam kain lah, split tentang Pa'an. Ini orang media lah kan, ataupun orang yang biasa dengan content, social media kan, strategic communication. Jadi aku tak kenal Pa'an ni, aku tak kenal langsung, tak nak jumpa pun kan. Jadi ada lah kawan yang recommend aku, "yalah, ok, datanglah," dia datang lah interview. Hahaha. So korang boleh fokus muka Pa'an dah merah. So Pa'an pun cakap lah pasal strategic communication, semua, how things develop, the strategies — semua aku tengok cakap dia kan.
 
 Sebab in my book lah sebenarnya, the moment you need to have strategic communication, maksudnya kita memang dah ada masalah dengan perkara yang kita nak sampaikan. Lebih mudah bercakap benar — nothing beats telling the truth. Cuma, cakap kali pertama, mungkin orang tak dengar, orang marah, ataupun tak rasa, ataupun ada lah hater tu akan tetap jadi hater, kau cakap macam mana ke mana. But kalau secara berterusan kita berkata benar, kalau satu isu itu kita persembahkan dan kita kongsi dalam perspektif yang adil dan benar kepada, in the case of politician, kepada rakyat, eventually naratif itu akan mula diterima oleh masyarakat kerana masyarakat ini waras. Dia bell curve lah — ada je yang hater, ada je yang tak, dia orang cakap macam mana pun dia tak terima, sama ada sebab politik ke atau apa kan. Tapi sebenarnya the bell curve yang kat atas tu, dia waras. Kalau kita terangkan, eventually dia tengok, walaupun aku tak suka orang ni, tapi actually yang dia cakap tu betul kan.
 
@@ -166,7 +166,7 @@ Saya lebih tertarik untuk — Allah, Syahir, kau tak payahlah nak menunggang aku
 
 **Aziz:** Beria, okay weh, kita dah habis, kita nak rate.
 
-**Rafizi Ramli:** Allah, ada pula suara. Bagi Pak An lah, Rik Pak An.
+**Rafizi Ramli:** Allah, ada pula suara. Bagi Pa'an lah, Rik Pa'an.
 
 **Aziz:** Oh, saya — ya, Alhamdulillah. Takkan pasal ular takut. Saya nak rate Syahir sebagai...
 

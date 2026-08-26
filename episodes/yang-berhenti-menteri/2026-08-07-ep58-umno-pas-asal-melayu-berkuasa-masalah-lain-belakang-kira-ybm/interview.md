@@ -10,9 +10,9 @@ view_count: 336299
 hosts:
 - Rafizi Ramli
 guests:
-- Pak An
+- Pa'an
 - Haziq
-- Pak Han
+- Pa'an
 topics:
 - Police escort (pengiring) culture and misuse of public perks
 - Selangor MB Amiruddin's social media strategy and authenticity in political branding
@@ -79,7 +79,7 @@ Okay, seterusnya — kita cakap tentang isu beria yang lain: Menteri Besar Selan
 
 Saya perhatikan ini dah berjalan dua-tiga bulan sebelum ia mula naik. Saya sendiri rasa cringe bila tengok — sebab dia ni pelik, contohnya dia satu-satunya MB yang pergi solat di masjid semasa di luar negara, dan dia tulis caption "the only MB yang solat di masjid walaupun di luar negara" — di Indonesia pun ada masjid besar macam itu. Lepas itu ada juga video basuh pinggan sendiri tak payah hire pembantu, rutin pagi seorang MB, dan macam-macam lagi. Kita tak boleh baca niat dia, tapi saya rasa sebahagian besar ini kerja penasihat media dia.
 
-Cuba tanya Pak An — kalau orang nak buat benda macam ini kat aku, memang aku kena "pangkang". Kenapa, Pak An?
+Cuba tanya Pa'an — kalau orang nak buat benda macam ini kat aku, memang aku kena "pangkang". Kenapa, Pa'an?
 
 **Farhan (Pa'an):** It's not you.
 

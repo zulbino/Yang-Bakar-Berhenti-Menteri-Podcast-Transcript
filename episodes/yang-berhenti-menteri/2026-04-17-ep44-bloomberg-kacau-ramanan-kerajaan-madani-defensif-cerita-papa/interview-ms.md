@@ -76,7 +76,7 @@ Hehe, geli je kan. Tambah 191 lagi hempedu ular sawa. Kau pasti tak ada ular kat
 
 Okey, ini berkaitan rampasan yang dibuat di Johor, melibatkan seorang warga negara Vietnam yang ditangkap bersama-sama dengan apa yang kita panggil hempedu, gallbladder, macam-macam — hempedu, gallbladder, juga lidah ular, yang dikatakan untuk diseludup dan digunakan untuk perubatan.
 
-Yang pelik ialah — andaikan lah, satu gallbladder itu daripada satu ular sawa, satu lidah pun daripada satu ular sawa. Maksudnya dia telah membunuh 1,200 ular sawa. Banyaknya ular sawa Titan di Malaysia ni — itu yang membuatkan aku lebih takut. Mungkin ladang kot. Ha, dia buat ladang. Lagilah menggerunkan — maksudnya kalau pergi Johor ni, ada satu ladang ular sawa, gila ke? Secara tersembunyi lah kot. Mungkin ular sawa ini bukan besar ke? Besar kan? Besar. Okey okey, sikit-sikit sahaja, takut lah aku ni. Okey, bersungguh-sungguh — sampai kenal, kalau ikut Pak An lah, dia sampai ada ladang ular sawa. Gila bersungguh-sungguh. Kakiku dah kena angkat, takut nak pijak tanah dah ni.
+Yang pelik ialah — andaikan lah, satu gallbladder itu daripada satu ular sawa, satu lidah pun daripada satu ular sawa. Maksudnya dia telah membunuh 1,200 ular sawa. Banyaknya ular sawa Titan di Malaysia ni — itu yang membuatkan aku lebih takut. Mungkin ladang kot. Ha, dia buat ladang. Lagilah menggerunkan — maksudnya kalau pergi Johor ni, ada satu ladang ular sawa, gila ke? Secara tersembunyi lah kot. Mungkin ular sawa ini bukan besar ke? Besar kan? Besar. Okey okey, sikit-sikit sahaja, takut lah aku ni. Okey, bersungguh-sungguh — sampai kenal, kalau ikut Pa'an lah, dia sampai ada ladang ular sawa. Gila bersungguh-sungguh. Kakiku dah kena angkat, takut nak pijak tanah dah ni.
 
 **Aziz:** Ada fakta menarik — Malaysia adalah tempat penyeludup hidupan liar terbesar dunia.
 
@@ -98,7 +98,7 @@ Satu yang Tan Sri Azam Baki ni, bersungguh-sungguh dia — walaupun dalam suasan
 
 **Rafizi Ramli:** Azam Baki lah, sayang. Yalah, obviously orang tak berapa gemar dia dan dia tak berjaya dengan segala pelan komunikasi yang dibuat. Saya nasihatkan kepada Tan Sri Azam Baki, mungkin kena tukar UKK kot. Tapi UKK pun saya simpati lah — bawa UKK yang paling hebat daripada Hollywood pun saya tak rasa boleh mengubah pandangan rakyat mengenai dia. Okey, good luck kepada UKK. Dan bersungguh-sungguh — kalau ada UKK yang menonton ini, eh, mereka kena. Sebab saya dimaklumkan, salah satu tindak balas daripada SPRM ialah memastikan bila ada podcast YB ni, orang-orang tertentu daripada SPRM kena jadi cyber trooper hentam kita. Jadi kalau tak nak jadi cyber trooper, mungkin sebaiknya doakan supaya kontrak dia tak disambung. InsyaAllah — yakinnya kau, tapi tak apalah.
 
-Kita tengok yang sosial media lagi. Ini kata-kata Timbalan Menteri: "Kenapa hidung Anwar Ibrahim tu sampai merah macam tu?" Jahat lah, Pak An. Lelehlah sikit — eh, bukan kita orang lah.
+Kita tengok yang sosial media lagi. Ini kata-kata Timbalan Menteri: "Kenapa hidung Anwar Ibrahim tu sampai merah macam tu?" Jahat lah, Pa'an. Lelehlah sikit — eh, bukan kita orang lah.
 
 **Aziz:** Kita.
 
@@ -140,7 +140,7 @@ Jadi anda akan fikir, Anwar lah yang paling mahir tentang senario politik di Mal
 
 **Aziz:** YB, mungkin kita akan ulas tentang komunikasi kerajaan dalam segmen nanti. Cuma, mungkin ini mimpi ngeri kepada stratkom Perdana Menteri — dia dah rancang elok, tetapi setiap hujung minggu, kenyataan-kenyataan yang kontroversial ini muncul semula sehingga benda ini akan keluar daripada dia dan akan meletup, sampai setiap minggu, konsisten. Dan orang akan lebih ingat apa yang dia cakap tu daripada ucapan-ucapan yang lain. Ya.
 
-**Rafizi Ramli:** Saya tak rasa... okey, kembali kepada apa yang awak sebut lah, maksudnya mimpi ngeri kepada pasukan media ataupun stratkom, kalau ada benda macam itu, komunikasi strategik. Pak An takut sebab masa dia datang kali pertama — okey, aku nak cerita cerita dalam-dalam lah, tentang Pak An. Ini orang media lah kan, ataupun orang yang biasa dengan kandungan, media sosial kan, komunikasi strategik. Jadi aku tak kenal Pak An ni, aku tak kenal langsung, tak nak jumpa pun kan. Jadi ada lah kawan yang mengesyorkan aku, "yalah, ok, datanglah," dia datang lah untuk temu bual. Hahaha. Jadi korang boleh fokus muka Pak An dah merah. Jadi Pak An pun bercakap lah pasal komunikasi strategik, semua, bagaimana perkara berkembang, strategi-strategi — semua aku tengok cakap dia kan.
+**Rafizi Ramli:** Saya tak rasa... okey, kembali kepada apa yang awak sebut lah, maksudnya mimpi ngeri kepada pasukan media ataupun stratkom, kalau ada benda macam itu, komunikasi strategik. Pa'an takut sebab masa dia datang kali pertama — okey, aku nak cerita cerita dalam-dalam lah, tentang Pa'an. Ini orang media lah kan, ataupun orang yang biasa dengan kandungan, media sosial kan, komunikasi strategik. Jadi aku tak kenal Pa'an ni, aku tak kenal langsung, tak nak jumpa pun kan. Jadi ada lah kawan yang mengesyorkan aku, "yalah, ok, datanglah," dia datang lah untuk temu bual. Hahaha. Jadi korang boleh fokus muka Pa'an dah merah. Jadi Pa'an pun bercakap lah pasal komunikasi strategik, semua, bagaimana perkara berkembang, strategi-strategi — semua aku tengok cakap dia kan.
 
 Sebab dalam pemahaman saya sebenarnya, saat kita perlu mempunyai komunikasi strategik, maksudnya kita memang dah ada masalah dengan perkara yang kita nak sampaikan. Lebih mudah bercakap benar — tiada apa yang mengatasi bercakap benar. Cuma, cakap kali pertama, mungkin orang tak dengar, orang marah, ataupun tak rasa, ataupun ada lah pembenci yang akan tetap jadi pembenci, kau cakap macam mana pun ke mana-mana. Tapi kalau secara berterusan kita berkata benar, kalau satu isu itu kita persembahkan dan kita kongsi dalam perspektif yang adil dan benar kepada, dalam kes ahli politik, kepada rakyat, akhirnya naratif itu akan mula diterima oleh masyarakat kerana masyarakat ini waras. Dia bell curve lah — ada je yang benci, ada je yang tidak, mereka cakap macam mana pun mereka tak terima, sama ada sebab politik atau apa kan. Tapi sebenarnya bell curve yang di atas tu, dia waras. Kalau kita terangkan, akhirnya dia tengok, walaupun aku tak suka orang ni, tapi sebenarnya yang dia cakap tu betul kan.
 
@@ -164,7 +164,7 @@ Saya lebih tertarik untuk — Allah, Syahir, kau tak payahlah nak menunggang aku
 
 **Aziz:** Bersungguh-sungguh, okey weh, kita dah habis, kita nak nilai.
 
-**Rafizi Ramli:** Allah, ada pula suara. Bagi Pak An lah, Rik Pak An.
+**Rafizi Ramli:** Allah, ada pula suara. Bagi Pa'an lah, Rik Pa'an.
 
 **Aziz:** Oh, saya — ya, Alhamdulillah. Takkan pasal ular takut. Saya nak nilai Syahir sebagai...
 
