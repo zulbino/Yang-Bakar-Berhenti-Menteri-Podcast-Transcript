@@ -546,6 +546,59 @@ rewrite/translate/metadata stage.
   not a fresh bug, and verify by reading the file's actual ending before assuming
   content is missing.
 
+### 1.15: Gemini audio verification going fully dark; Speechmatics as a working alternative
+
+- **Found, 2026-08-26:** every Gemini call (rewrite, translation, and
+  `verify_speakers.py`'s audio spot-check alike) started failing with `429
+  RESOURCE_EXHAUSTED: Your prepayment credits are depleted`, on every model
+  tier, not just the usual free-tier daily cap from 1.13. Tested across 4
+  independently-created API keys, including one on a brand-new Google account
+  that had never touched the Gemini API before and whose AI Studio console
+  showed "Free tier" with "Set up billing" never clicked. Confirmed via a raw
+  HTTP call to `generativelanguage.googleapis.com` (bypassing the `google-genai`
+  SDK entirely) that the block is server-side, not a client/SDK bug. This is a
+  harder failure than 2.1's original finding (shared Cloud Billing account
+  across keys): a project with billing never configured still hit a
+  "prepayment" error, suggesting Google's current policy requires an active
+  prepay balance for any call at all, even ostensibly free-tier ones. No
+  workaround found from this side; needs the account holder to actually
+  complete AI Studio's billing setup.
+- **Fix (unblocks diarization verification only, not the rewrite pipeline):**
+  Speechmatics (`asr.api.speechmatics.com`), a third-party batch
+  transcription+diarization API, used as a drop-in alternative to
+  `verify_speakers.py` for cross-checking a pyannote diarization split when
+  Gemini is unavailable. Recipe: `POST /v2/jobs` (multipart, `data_file` = the
+  episode's `.m4a`, `config` = `{"type":"transcription","transcription_config":
+  {"language":"ms","diarization":"speaker","operating_point":"enhanced"}}`),
+  poll `GET /v2/jobs/<id>` until `status` is `done`, then `GET
+  /v2/jobs/<id>/transcript?format=json-v2` and group consecutive same-speaker
+  `word`/`punctuation` items into turns. A 3-hour episode takes roughly
+  15-45 minutes to process; running 2 jobs concurrently against the same
+  account worked without issue.
+- **Validated on ep39:** Speechmatics' independent diarization agreed with
+  pyannote's existing 3-cluster split (down to which turns land where) and
+  resolved a suspected diarization merge as a false alarm: the personal,
+  first-person political content ("dia dah saman aku" -- someone is suing me,
+  reminiscing about being Economy Minister) that looked like it might be a
+  second person mixed into the same "Speaker 1" cluster as the show's opening
+  intro was, on both tools' independent read, one continuous speaker: Rafizi
+  personally delivers his own third-person-style intro in this episode (see
+  the Speaker naming convention section below), not the usual Haziq-does-intro
+  pattern. No manual per-turn split was actually needed once that was
+  understood.
+- **Validated on ep36:** used to break a tie between two plausible readings of
+  a fast, overlapping-banter Chinese New Year episode. Both pyannote and
+  Speechmatics agreed on the aggregate 2-speaker split; Speechmatics' turn
+  boundaries at the disputed points, combined with which speaker used the
+  "Wabi" nickname (always addressed at Rafizi, never used by him), confirmed
+  which cluster was Rafizi and which was the guest.
+- **Not a full replacement:** Speechmatics has no equivalent to 1.13's
+  named-identity resolution (Gemini watching video/audio and reporting who's
+  speaking by name or visual cue) -- it only gives voice clusters and turn
+  boundaries, same as pyannote. It resolves *whether* a diarization split is
+  real or a merge/glitch; a human (or Gemini, once billing is fixed) still has
+  to supply the actual name.
+
 ### 2.1: Choosing a fallback provider
 
 - **Found:** the rewrite stage originally only used Gemini. When Gemini's
@@ -882,12 +935,47 @@ same separator on the way back out as the way in.
 
 ## Speaker naming convention
 
-The 4 recurring cast members use short (first) names throughout, everywhere except
-`channel:`/`title:` frontmatter fields (real YouTube facts, never altered): `Rafizi`,
-`Haziq`, `Farhan (Pa'an)`, `Iqbal`. Every other speaker (guests, one-off panelists)
-keeps their full name. Applied archive-wide 2026-08-24 across `raw.md` and all three
-`interview*.md` files, including the `hosts:`/`summary:` metadata fields (which are
-our own generated content, unlike `channel:`/`title:`).
+The 4 recurring cast members use short (first) names in `raw.md` -- `Rafizi`,
+`Haziq`, `Farhan (Pa'an)`, `Iqbal` -- and their full names in all three
+`interview*.md` rewrites (`Rafizi Ramli`, `Haziq`, `Farhan (Pa'an)`, `Iqbal`;
+"Haziq" and "Iqbal" don't have a longer form in use anywhere in the corpus).
+**Correction, 2026-08-26:** an earlier version of this note claimed the short
+form applied "everywhere... including interview*.md", based on a 2026-08-24
+archive-wide rename. That's not what the archive actually contains: as of
+this date, 34 of the corpus's `interview.md` files use the full `Rafizi
+Ramli:` label, and only a handful (all reprocessed after the redo-wipe bug
+below) use the short form. Treat `raw.md` = short name, `interview*.md` =
+full name as the real convention going forward; don't re-run a blanket
+short-name substitution against `interview*.md` based on this doc's earlier
+wording. Every other speaker (guests, one-off panelists) keeps their full
+name in both.
+
+**Local-ASR redo silently wipes previously-applied speaker names, confirmed
+recurring, 2026-08-26:** any episode reprocessed via `--engine local` for an
+unrelated reason (corruption fix, drift fix, filler-loop fix) gets a
+completely fresh pyannote diarization pass with no memory of prior manual
+naming -- it always emits new anonymous "Speaker N" labels, silently
+reverting any naming work already done on that episode. First confirmed on
+ep25 (a manual naming commit followed one day later by a "redo via local
+ASR" commit that reset it back to generic labels), then found to affect the
+majority of a 39-episode backlog re-identified this session, none of which
+`qa_check.py` flags, since generic labels aren't a defect it checks for. No
+permanent fix implemented: before assuming an episode's generic labels mean
+it was never reviewed, check `git log -- <path>/raw.md` for a naming commit
+followed by a later local-ASR-redo commit, and budget for redoing the
+naming pass as a required last step after any such redo.
+
+**A same-person self-intro quirk that can look like a second speaker,
+confirmed on 5+ episodes:** Rafizi occasionally delivers the show's usual
+third-person-style opening line himself ("...macam biasa bersama saudara
+Rafizi Ramli...") instead of Haziq doing it, then continues straight into
+first-person content in the same breath. Read as two different people from
+the phrasing alone, this looks exactly like a diarization merge between an
+announcer and Rafizi; it isn't. Confirmed via cross-checking who a "Speaker
+N" cluster's later, unambiguous content belongs to (personal claims like
+being personally sued, or reminiscing about a specific ministerial
+portfolio) before concluding a cluster needs splitting. Seen on ep05, ep39,
+ep40, ep44, and ep58.
 
 **Two label-vs-real-person mismatches found and fixed before running this rename,
 both confirmed by direct audio listening, not guessed from text alone**:
