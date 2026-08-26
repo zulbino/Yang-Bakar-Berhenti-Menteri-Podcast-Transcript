@@ -393,7 +393,7 @@ Jadi itu tiga level keterdedahan agensi penguatkuasa kepada jenayah. Baik — di
 
 **Host:** Saya menganggap ia adalah pembiayaan politik.
 
-**Rafizi Ramli:** Betul? Tak, tak, nanti — aku nak komen. Kau sahaja nak sumbat aku dalam jerat, salah sebut nanti aku pula masuk. Bayangkan, kesian lah kat aku — dah lah "chaplos" tak suka kat aku, Anwar Ibrahim tak suka kat aku, pihak berkuasa tak suka kat aku, sekarang kongsi gelap pun tak suka kat aku kalau aku salah sebut lagi.
+**Rafizi Ramli:** Betul? Tak, tak, nanti — aku nak komen. Kau sahaja nak sumbat aku dalam jerat, salah sebut nanti aku pula masuk. Bayangkan, kesian lah kat aku — dah lah "ceplos" tak suka kat aku, Anwar Ibrahim tak suka kat aku, pihak berkuasa tak suka kat aku, sekarang kongsi gelap pun tak suka kat aku kalau aku salah sebut lagi.
 
 Bayangkan, kalau satu kegiatan sahaja — penyeludupan rokok — boleh sampai RM30-40 bilion setahun. Masa kita buat kempen Invoke, kalau kita buat majlis makan malam untuk kutipan dana, kita jual tiket untuk orang dengar aku bersuara, berceramah — satu tiket RM100, lepas tolak-tolak kos, dana yang kita dapat daripada satu tiket tu mungkin RM20 sahaja. Kalau penuh dewan, seribu orang datang, untungnya RM20,000. Itu pun kalau dengan cara yang betul. Tapi bayangkan betapa banyaknya duit yang ada dalam underworld — kegiatan haram, kongsi gelap — mainan je tiap-tiap tahun RM20-30 bilion. Mainan je sebenarnya.
 

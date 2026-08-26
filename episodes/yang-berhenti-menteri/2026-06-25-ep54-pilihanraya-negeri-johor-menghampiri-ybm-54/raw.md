@@ -98,7 +98,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [14:37] Speaker 1: ok baby yang akhir sekali ni agak pelik sikit sebab dah Orang dah nampak, YB pun dah cakap. Tapi mungkin orang nak dapatkan classification semua kan? InsyaAllah. Yang terakhir, beria. Oh yang ini. Tangkap, kakak gambar. Yang ini
 
-[14:56] Speaker 2: beria, Chaplos bersusun-susun menjawab dan menghentam lah.
+[14:56] Speaker 2: beria, Ceplos bersusun-susun menjawab dan menghentam lah.
 
 [15:00] Speaker 1: YB, saya selaku tak tahu siapa-siapa nak bagi pandangan atau nak meneka lah kenapa YB buat macam ni. Sebab ramai yang kata Alah YB takkanlah nak pati sangat benda macam ni Tapi saya awal-awal tengok pun eh apa hal Hafiz ni Tapi bila saya fikir bila saya teringat YB banyak cakap kan Kita terlalu banyak menyembunyikan perkara-perkara yang sebenarnya tak baik, tabiat yang buruk dengan benda-benda yang bagus Contohnya, YB pernah bagi contoh dalam podcast episod ke-5 ke ke-6 tentang hadiah hari guru kan Kononnya kita nak hargai orang itu hari guru tapi kita dah instil budaya bodek dan besar-besar lektor tu lah. Macam ni saya tengok Ini pseudo-intellect. Mungkinlah.
 
