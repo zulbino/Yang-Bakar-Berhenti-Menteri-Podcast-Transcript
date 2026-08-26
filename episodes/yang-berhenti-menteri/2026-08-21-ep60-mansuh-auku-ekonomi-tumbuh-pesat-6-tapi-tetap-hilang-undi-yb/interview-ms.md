@@ -338,7 +338,7 @@ Sebaliknya, kita nak ahli politik ni berkualiti, bermutu — sebaliknya, sebahag
 
 **Rafizi:** Yang kena jemput... aku bukan saja tak dijemput, aku ditendang daripada rumah. Haa.
 
-**Haziq:** Xavier Jayakumar — kita ada TN Chua, dan mungkin yang lain-lain lagi pun dah berminat lah untuk buat kembali. Siapa yang lain-lain lagi?
+**Haziq:** Xavier Jayakumar — kita ada Tian Chua, dan mungkin yang lain-lain lagi pun dah berminat lah untuk buat kembali. Siapa yang lain-lain lagi?
 
 **Rafizi:** Pandai-pandai awak cakap.
 

@@ -259,7 +259,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [41:19] Rafizi: Yang kena jemput... Aku bukan saja tak dijemput, aku ditendang daripada rumah. Haa.
 
-[41:27] Haziq: Zivia Jayakumar Kita ada TN Chua Dan mungkin yang lain-lain Lagi pun dah berminat lah Untuk buat comeback Siapa yang lain-lain
+[41:27] Haziq: Xavier Jayakumar. Kita ada Tian Chua Dan mungkin yang lain-lain Lagi pun dah berminat lah Untuk buat comeback Siapa yang lain-lain
 
 [41:35] Rafizi: lagi
 
