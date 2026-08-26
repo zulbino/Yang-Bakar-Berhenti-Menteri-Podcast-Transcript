@@ -34,7 +34,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Host:** Episode 35, *Podcast Yang Berhenti Menteri*. As usual, with me, Saudara Fizi. You didn't say hi. *Assalamualaikum*, you're at the end of the video. Oh, okay, okay. I was waiting for you to say hi at the end of the video. Yes, with Saudara Fizi Ramli. But unfortunately, Saudara Farhan is not here today. She's celebrating her early birthday. Her wife is also celebrating her Chinese New Year.
+**Host:** Episode 35, *Podcast Yang Berhenti Menteri*. As usual, with me, Saudara Fizi. You didn't say hi. *Assalamualaikum*, you're at the end of the video. Oh, okay, okay. I was waiting for you to say hi at the end of the video. Yes, with Saudara Rafizi Ramli. But unfortunately, Saudara Farhan is not here today. She's celebrating her early birthday. Her wife is also celebrating her Chinese New Year.
 
 **Rafizi:** Rasanya dia dah cabut awal-awal pergi beraya Cina ni kan. *Barulah*. Assalamualaikum dan selamat malam.
 

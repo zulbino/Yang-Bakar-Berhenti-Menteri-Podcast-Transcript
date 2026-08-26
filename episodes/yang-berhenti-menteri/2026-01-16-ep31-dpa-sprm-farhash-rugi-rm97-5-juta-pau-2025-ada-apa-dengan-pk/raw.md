@@ -16,7 +16,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 # Raw Transcript
 
-[02:33] Speaker 2: Macam biasa bersama saudara Rafi Z. Ramli dalam podcast... Eh, mana? Assalamualaikum. Saya nak tukar episod 31 baru. Oh, okey, okey, okey. Selama tak bagi salam. Haa, kena bagi juga kan, kalau ujung lah. Kena bagi salam. Ayat, ni, pasif eh. Ayat, aktif, aktif, pasif. Aku pun dah lupa ayat-ayat yang aktif. Podcast Yang Berhenti Menteri, episod 31 bersama saudara Rafizie Ramli. Assalamualaikum dan selamat datang. Dia punya tu dah, harakat dia dah pendek dah. YB, hari ni saya dengar semua orang akan disentuh lah. Semua parti lah. Semua parti. Baik, baik, baik. Semua parti lah. DAP je tak kena minggu ni.
+[02:33] Speaker 2: Macam biasa bersama saudara Rafi Z. Ramli dalam podcast... Eh, mana? Assalamualaikum. Saya nak tukar episod 31 baru. Oh, okey, okey, okey. Selama tak bagi salam. Haa, kena bagi juga kan, kalau ujung lah. Kena bagi salam. Ayat, ni, pasif eh. Ayat, aktif, aktif, pasif. Aku pun dah lupa ayat-ayat yang aktif. Podcast Yang Berhenti Menteri, episod 31 bersama saudara Rafizi Ramli. Assalamualaikum dan selamat datang. Dia punya tu dah, harakat dia dah pendek dah. YB, hari ni saya dengar semua orang akan disentuh lah. Semua parti lah. Semua parti. Baik, baik, baik. Semua parti lah. DAP je tak kena minggu ni.
 
 [03:17] Speaker 3: DAP dah kena dah
 

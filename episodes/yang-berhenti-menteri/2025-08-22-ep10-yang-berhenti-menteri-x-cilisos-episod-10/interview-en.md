@@ -429,11 +429,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Host:** Possible, possible.
 
-**Rafizi:** So it was raised and debated. That's why, for me, that process needs to happen — meaning if the court has struck it down, you need to redraft it, go through that process again. But at the same time, even if there was a mistake, Fahmi Fazil should go explain to the public why you need this. Make sure people understand — who reads the whole Multimedia Act? Who reads the Penal Code? Except if you go to court like me, always getting charged. Most people don't know what it is. It should be properly explained so that enough people understand, and at the same time can chip in. How do we manage that balance.
+**Rafizi:** So it was raised and debated. That's why, for me, that process needs to happen — meaning if the court has struck it down, you need to redraft it, go through that process again. But at the same time, even if there was a mistake, Fahmi Fadzil should go explain to the public why you need this. Make sure people understand — who reads the whole Multimedia Act? Who reads the Penal Code? Except if you go to court like me, always getting charged. Most people don't know what it is. It should be properly explained so that enough people understand, and at the same time can chip in. How do we manage that balance.
 
 **Host:** So what you're saying is the communications minister has a communications problem.
 
-**Rafizi:** I don't need to say that — everyone already knows that. We've already invited YB Fahmi Fazil. InsyaAllah he'll accept our invitation after this.
+**Rafizi:** I don't need to say that — everyone already knows that. We've already invited YB Fahmi Fadzil. InsyaAllah he'll accept our invitation after this.
 
 **Host:** That would be an understatement if he were the one saying it. Alright, perhaps let's move to the next question, related to the Cabinet. Based on YB's previous experience with them in cabinet, which member do you feel was the most underwhelming, and who impressed you the most after seeing their performance?
 

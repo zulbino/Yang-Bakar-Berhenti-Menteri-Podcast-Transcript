@@ -17,7 +17,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 # Raw Transcript
 
-[00:53] Speaker 2: Assalamualaikum dan salam sejahtera Podcast Yang Menteri-Menteri Dah episod ke-37 Macam biasa bersama saudara Rafizie Ramli Dan jangan dilupakan Saudara Farhan Yang tak ada Ada kan? You up for coffee kan? Tak adalah gurau kan? You up for coffee? Oh ya you up for coffee. Aku ingat tak puasa. Pelik aku blur sekejap lah. Kenapa pulak ni puasa. Saja je. Okay. Jadi tu jalan intro dah baby. Kita sebab ada 2 jam je baby. Kita mengejar lah. Hari ni pun ada macam-macam isu. Dan tetamu tetap kita yang ponteng pada minggu lepas dah ada semula. Engkau nanti kena tangkap dengan SPRM.
+[00:53] Speaker 2: Assalamualaikum dan salam sejahtera Podcast Yang Menteri-Menteri Dah episod ke-37 Macam biasa bersama saudara Rafizi Ramli Dan jangan dilupakan Saudara Farhan Yang tak ada Ada kan? You up for coffee kan? Tak adalah gurau kan? You up for coffee? Oh ya you up for coffee. Aku ingat tak puasa. Pelik aku blur sekejap lah. Kenapa pulak ni puasa. Saja je. Okay. Jadi tu jalan intro dah baby. Kita sebab ada 2 jam je baby. Kita mengejar lah. Hari ni pun ada macam-macam isu. Dan tetamu tetap kita yang ponteng pada minggu lepas dah ada semula. Engkau nanti kena tangkap dengan SPRM.
 
 [01:35] Speaker 1: Lunyai engkau
 

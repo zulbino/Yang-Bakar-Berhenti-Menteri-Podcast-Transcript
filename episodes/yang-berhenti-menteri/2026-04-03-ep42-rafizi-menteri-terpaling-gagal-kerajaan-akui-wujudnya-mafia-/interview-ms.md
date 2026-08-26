@@ -479,7 +479,7 @@ Jadi saya rasa sebab itulah, kalau tengok media sosial, bila Ramanan menuduh say
 
 **Rafizi Ramli:** Tak ada lah, sebab kita dah sejam 50 minit.
 
-**Zikri:** Ya. Kita ada tetamu juga nak bincang — mafia korporat dah lama, sejak sebelum 2018. Kalau boleh saya mulakan dengan ini dulu: kenyataan terbaru Menteri Komunikasi, Fahmi Fazil, bahawa mafia korporat ini sebenarnya dah wujud lama, sebelum 2018. Sekadar untuk semak dengan YB, adakah YB ambil kenyataan ini secara serius? Sebab kalau ya, sebenarnya adakah benda ini betul-betul dah lama? Kalau betul dah lama, kenapa kita tak perasan dari dulu?
+**Zikri:** Ya. Kita ada tetamu juga nak bincang — mafia korporat dah lama, sejak sebelum 2018. Kalau boleh saya mulakan dengan ini dulu: kenyataan terbaru Menteri Komunikasi, Fahmi Fadzil, bahawa mafia korporat ini sebenarnya dah wujud lama, sebelum 2018. Sekadar untuk semak dengan YB, adakah YB ambil kenyataan ini secara serius? Sebab kalau ya, sebenarnya adakah benda ini betul-betul dah lama? Kalau betul dah lama, kenapa kita tak perasan dari dulu?
 
 **Rafizi Ramli:** Tak adalah — maksud saya, sebelum kita sampai ke situ, itu jawapan yang memerangkap diri sendiri. Ini saya rasa, dalam budaya kerja, orang panggil what-aboutism. Bila kita gagal untuk menjawab keadaan sekarang, kita mula tuding jari ke sana-sini — kita kata, "ini Victor Chin ni, mafia korporat ini ada sejak sebelum 2018, dulu pun tak buat apa-apa." Well, sebab itulah orang pilih Pakatan Harapan, dan itu sebabnya jangkaan sekarang berlainan daripada sebelum 2018.
 

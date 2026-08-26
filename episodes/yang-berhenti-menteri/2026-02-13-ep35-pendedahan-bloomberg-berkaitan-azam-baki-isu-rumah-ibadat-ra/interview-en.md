@@ -33,7 +33,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Host:** Episode 35, *Podcast Yang Berhenti Menteri*. As usual, with me, Saudara Fizi. You didn't say hi. *Assalamualaikum*, you're at the end of the video. Oh, okay, okay. I was waiting for you to say hi at the end of the video. Yes, with Saudara Fizi Ramli. But unfortunately, Saudara Farhan is not here today. She's celebrating her early birthday. Her wife is also celebrating her Chinese New Year.
+**Host:** Episode 35, *Podcast Yang Berhenti Menteri*. As usual, with me, Saudara Fizi. You didn't say hi. *Assalamualaikum*, you're at the end of the video. Oh, okay, okay. I was waiting for you to say hi at the end of the video. Yes, with Saudara Rafizi Ramli. But unfortunately, Saudara Farhan is not here today. She's celebrating her early birthday. Her wife is also celebrating her Chinese New Year.
 
 **Rafizi:** I think she slipped out early to celebrate Chinese New Year, didn't she? *Barulah*. Assalamualaikum and good evening.
 

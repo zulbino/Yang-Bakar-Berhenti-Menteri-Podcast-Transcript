@@ -262,7 +262,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:19:33] Rafizi: kot
 
-[1:19:34] Speaker 4: Ok, dia jumpa Zahid tu. Ada gambar Fahmi Ada gambar Fahmi Farzi
+[1:19:34] Speaker 4: Ok, dia jumpa Zahid tu. Ada gambar Fahmi Ada gambar Fahmi Fadzil
 
 [1:19:38] Rafizi: Tak ada no no no I think dari segi pendirian PKR Saya rasa Haa ...peserakan ini... Kenapa? You nak suruh PKL buat macam mana lagi? Takkan nak kata Jom kita bergaduh Dalam kabinet baling kusi Tapi Tapi pendirian rasmi PKR Ialah Tok Min kekal Sebagai Kerajaan minoriti
 
@@ -438,7 +438,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:25:48] Speaker 4: Dia akan
 
-[2:25:48] Rafizi: pusing dalam bubble yang sama kan Okay Based from that perspective, so maksudnya apa yang dibuat oleh JCOM, oleh Fahmi Fazil sekarang ni dengan menggunakan beberapa orang, kepala-kepala, chaplor semua ni, memang menghabiskan duit. Dia orang kaya raya, kereta besar, gaji besar semua. Dan sebab tu you boleh nampak kesan dia di social media sekarang Kenapa it's very negative towards Datuk Seri Anwar Dan juga kepada towards PH Now, bila benda tu dah jadi Apa tindak balas mereka? Recovery action dia lah Recovery, maksudnya apa dia? Apa? You can see that clearly dekat MyFacebook. Dekat Twitter, dekat X dia tak boleh buat sebab lunyai dia kena. Sebab X is overwhelmingly anti-chap loss and anti-PH. So dia ada sedikit peluang dekat Facebook. So I've studied the last 3 weeks of my Facebook tau. Comment semua. Okay apa yang dia buat kat
+[2:25:48] Rafizi: pusing dalam bubble yang sama kan Okay Based from that perspective, so maksudnya apa yang dibuat oleh JCOM, oleh Fahmi Fadzil sekarang ni dengan menggunakan beberapa orang, kepala-kepala, chaplor semua ni, memang menghabiskan duit. Dia orang kaya raya, kereta besar, gaji besar semua. Dan sebab tu you boleh nampak kesan dia di social media sekarang Kenapa it's very negative towards Datuk Seri Anwar Dan juga kepada towards PH Now, bila benda tu dah jadi Apa tindak balas mereka? Recovery action dia lah Recovery, maksudnya apa dia? Apa? You can see that clearly dekat MyFacebook. Dekat Twitter, dekat X dia tak boleh buat sebab lunyai dia kena. Sebab X is overwhelmingly anti-chap loss and anti-PH. So dia ada sedikit peluang dekat Facebook. So I've studied the last 3 weeks of my Facebook tau. Comment semua. Okay apa yang dia buat kat
 
 [2:26:49] Afiq: Facebook aku? Dia
 

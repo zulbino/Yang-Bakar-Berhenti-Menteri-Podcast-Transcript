@@ -44,7 +44,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Rafizi Ramli:** Assalamualaikum dan selamat datang ke Podcast Yang Berhenti Menteri, episod kelima, bersama Saudara Fizy Ramli. Tetamu jemputan kita pada malam ini, Dato' Syed Azwan, atau DSA. Apa khabar, Dato'?
+**Rafizi Ramli:** Assalamualaikum dan selamat datang ke Podcast Yang Berhenti Menteri, episod kelima, bersama Saudara Rafizi Ramli. Tetamu jemputan kita pada malam ini, Dato' Syed Azwan, atau DSA. Apa khabar, Dato'?
 
 **Dato' Syed Azwan:** Baik, baik, sihat, sihat.
 

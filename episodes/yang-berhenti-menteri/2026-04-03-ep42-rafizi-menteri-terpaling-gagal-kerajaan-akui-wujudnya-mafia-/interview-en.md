@@ -480,7 +480,7 @@ So I think that's why, if you look at social media, when Ramanan accuses me of b
 
 **Rafizi Ramli:** No, because we're already at one hour 50 minutes.
 
-**Zikri:** Yes. We also have a guest to discuss — the corporate mafia has been around for a long time, since before 2018. If I may start with this first: the recent statement by the Minister of Communications, Fahmi Fazil, that this corporate mafia actually has existed for a long time, before 2018. Just to check with you, do you take this statement seriously? Because if yes, is this thing actually really old? If it's really been going on that long, why didn't we notice earlier?
+**Zikri:** Yes. We also have a guest to discuss — the corporate mafia has been around for a long time, since before 2018. If I may start with this first: the recent statement by the Minister of Communications, Fahmi Fadzil, that this corporate mafia actually has existed for a long time, before 2018. Just to check with you, do you take this statement seriously? Because if yes, is this thing actually really old? If it's really been going on that long, why didn't we notice earlier?
 
 **Rafizi Ramli:** No — I mean, before we get there, that answer is one that traps oneself. I think, in work culture, people call this what-aboutism. When we fail to answer the current situation, we start pointing fingers here and there — we say, "this is Victor Chin, this corporate mafia has existed since before 2018, they didn't do anything about it back then either." Well, that's exactly why people chose Pakatan Harapan, and that's why expectations now are different from before 2018.
 

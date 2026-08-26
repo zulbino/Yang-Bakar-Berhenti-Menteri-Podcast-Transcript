@@ -218,7 +218,7 @@ Okay, tadi sebelum podcast ni kita ada sembang juga pasal peguam-peguam YB. Takp
 
 **Pak An:** Peruntukan KKM dipotong, hiburan bola sepak ditanggung. Ini sebab kita semua dalam ini bukan kaki bangun 3 pagi tengok bola kot. Tak — ini berkaitan dengan YB dah ulas minggu lepas peruntukan KKM itu. Tetapi dalam masa sama, Menteri Komunikasi mengumumkan bahawa RTM dipilih sebagai penyiar Piala Dunia FIFA.
 
-**Rafizi Ramli:** Saya cuba nak faham je kan — bila Menteri Komunikasi umumkan ni, sebelum-sebelum ni Piala Dunia, konsesi adalah dengan Astro. Jadi maksudnya di peringkat Fahmi Fazil ini pencapaian besar lah dia, kerana dia berjaya merampas hak penyiaran itu daripada Astro, dan sekarang boleh ditonton di RTM, dan RTM ini percuma, jadi seluruh rakyat Malaysia patutlah bersyukur kerana prestasi baiknya mendapatkan hak penyiaran bola sepak Piala Dunia. Itulah konteksnya je.
+**Rafizi Ramli:** Saya cuba nak faham je kan — bila Menteri Komunikasi umumkan ni, sebelum-sebelum ni Piala Dunia, konsesi adalah dengan Astro. Jadi maksudnya di peringkat Fahmi Fadzil ini pencapaian besar lah dia, kerana dia berjaya merampas hak penyiaran itu daripada Astro, dan sekarang boleh ditonton di RTM, dan RTM ini percuma, jadi seluruh rakyat Malaysia patutlah bersyukur kerana prestasi baiknya mendapatkan hak penyiaran bola sepak Piala Dunia. Itulah konteksnya je.
 
 **Pak An:** Tindakan populis?
 

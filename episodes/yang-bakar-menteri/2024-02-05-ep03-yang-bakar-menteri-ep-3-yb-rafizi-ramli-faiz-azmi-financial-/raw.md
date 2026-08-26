@@ -17,7 +17,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 # Raw Transcript
 
-[04:41] Speaker 1: Assalamualaikum warahmatullahi wabarakatuh Kita ke rancangan Yang Bakar Menteri Podcast Yang kira panas Kita bersiaran 2 minggu sekali Malam ini macam biasa kita ada YB Rafiz Ramli Apa khabar YB?
+[04:41] Speaker 1: Assalamualaikum warahmatullahi wabarakatuh Kita ke rancangan Yang Bakar Menteri Podcast Yang kira panas Kita bersiaran 2 minggu sekali Malam ini macam biasa kita ada YB Rafizi Ramli Apa khabar YB?
 
 [04:58] Speaker 2: Aku sakit
 

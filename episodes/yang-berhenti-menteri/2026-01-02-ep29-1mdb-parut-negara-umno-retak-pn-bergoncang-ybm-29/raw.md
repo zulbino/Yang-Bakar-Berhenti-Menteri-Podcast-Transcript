@@ -26,7 +26,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [02:59] Speaker 2: untuk pergi.
 
-[03:03] Speaker 1: Assalamualaikum dan selamat datang Podcast Yang Berhenti Menteri Episode 29 Macam biasa dengan Saudara Rafizie Ramli Obviously Yang kali ini akan menjadi penganalisis politik Dan seorang lagi Guest speaker kita Saudara Iqbal Apa khabar? Kali ini je ke aku jadi penganalisis politik? Sebab isu kali ini sampai kesudah politik kan?
+[03:03] Speaker 1: Assalamualaikum dan selamat datang Podcast Yang Berhenti Menteri Episode 29 Macam biasa dengan Saudara Rafizi Ramli Obviously Yang kali ini akan menjadi penganalisis politik Dan seorang lagi Guest speaker kita Saudara Iqbal Apa khabar? Kali ini je ke aku jadi penganalisis politik? Sebab isu kali ini sampai kesudah politik kan?
 
 [03:23] Speaker 3: Ada beberapa kali ini
 
