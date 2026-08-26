@@ -2331,63 +2331,63 @@
     "samples_matched": 11,
     "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 458,
-    "flagged": true,
+    "max_drift_seconds": 117,
+    "flagged": false,
     "details": [
       {
-        "claimed": 15,
-        "actual": 28,
-        "drift": 13
+        "claimed": 16,
+        "actual": 8,
+        "drift": -8
       },
       {
-        "claimed": 339,
-        "actual": 346,
-        "drift": 7
+        "claimed": 336,
+        "actual": 342,
+        "drift": 6
       },
       {
-        "claimed": 437,
-        "actual": 525,
-        "drift": 88
+        "claimed": 575,
+        "actual": 578,
+        "drift": 3
       },
       {
-        "claimed": 683,
-        "actual": 764,
-        "drift": 81
+        "claimed": 877,
+        "actual": 871,
+        "drift": -6
       },
       {
-        "claimed": 954,
-        "actual": 1050,
-        "drift": 96
+        "claimed": 1201,
+        "actual": 1217,
+        "drift": 16
       },
       {
-        "claimed": 1278,
-        "actual": 1287,
-        "drift": 9
+        "claimed": 1791,
+        "actual": 1844,
+        "drift": 53
       },
       {
         "claimed": 2272,
-        "actual": 2284,
-        "drift": 12
+        "actual": 2285,
+        "drift": 13
       },
       {
-        "claimed": 2759,
-        "actual": 2768,
-        "drift": 9
+        "claimed": 2804,
+        "actual": 2921,
+        "drift": 117
       },
       {
-        "claimed": 3123,
-        "actual": 3299,
-        "drift": 176
+        "claimed": 3480,
+        "actual": 3480,
+        "drift": 0
       },
       {
-        "claimed": 3863,
-        "actual": 3859,
-        "drift": -4
+        "claimed": 3968,
+        "actual": 3971,
+        "drift": 3
       },
       {
-        "claimed": 4005,
-        "actual": 4463,
-        "drift": 458
+        "claimed": 4677,
+        "actual": 4794,
+        "drift": 117
       }
     ]
   },
