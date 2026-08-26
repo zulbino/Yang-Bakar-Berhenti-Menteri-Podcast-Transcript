@@ -40,7 +40,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 819s, 11/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar**
-  - raw.md has a 23599-char block with no paragraph breaks (wall-of-text)
+  - raw.md has a 23596-char block with no paragraph breaks (wall-of-text)
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 466s, 11/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa**
