@@ -56,9 +56,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Haziq:** Assalamualaikum
+**Razeef Rakimin:** Assalamualaikum
 
-**Razeef Rakimin:** and greetings. Podcast Siang Berdati Menteri, Episode 25 — a rather special episode this time, YB.
+**Haziq:** and greetings. Podcast Siang Berdati Menteri, Episode 25 — a rather special episode this time, YB.
 
 **Haziq:** Why is it special? What's so special about it?
 

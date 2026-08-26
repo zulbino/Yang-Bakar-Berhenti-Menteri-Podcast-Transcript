@@ -57,9 +57,9 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Haziq:** Assalamualaikum
+**Razeef Rakimin:** Assalamualaikum
 
-**Razeef Rakimin:** dan salam sejahtera. Podcast Siang Berdati Menteri, Episod 25 — episod yang agak istimewa YB kali ini.
+**Haziq:** dan salam sejahtera. Podcast Siang Berdati Menteri, Episod 25 — episod yang agak istimewa YB kali ini.
 
 **Haziq:** Sebab apa istimewa? Apa yang istimewanya?
 
