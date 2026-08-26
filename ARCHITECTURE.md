@@ -598,6 +598,123 @@ rewrite/translate/metadata stage.
   boundaries, same as pyannote. It resolves *whether* a diarization split is
   real or a merge/glitch; a human (or Gemini, once billing is fixed) still has
   to supply the actual name.
+- **Update, 2026-08-27: Gemini access restored.** A freshly issued API key
+  works end-to-end for full audio transcription, not just text generation --
+  confirmed directly via `lib_gemini.upload_audio` + `transcribe_raw` on a
+  real clip and then a full ~2-hour episode. The pinned model at the head of
+  `MODEL_FALLBACK_CHAIN` had since been retired (404 "no longer available");
+  the existing fallback logic (2.1) auto-advanced to `gemini-3.6-flash`
+  without any code change needed. A full-episode call succeeded only after
+  several automatic retries (one `block_reason=OTHER` content-filter
+  false-positive hit three times in a row, one `504 DEADLINE_EXCEEDED`) --
+  `lib_gemini.py`'s existing retry loop absorbed all of it silently, just
+  took longer than a clean run would. **Lesson for reusing this key**: don't
+  hardcode it anywhere in the repo; it's stored as a User-level Windows
+  environment variable (`GEMINI_API_KEY`, same convention as `NVIDIA_API_KEY`
+  and `HF_TOKEN`), picked up automatically by `genai.Client()`. **Lesson for
+  re-transcribing any already-processed episode now that Gemini works
+  again**: never blind `--force` redo a file that already has real speaker
+  names assigned -- confirmed directly that a fresh Gemini pass on a clip
+  used a generic "Host" label for a speaker (Haziq) that the existing,
+  already-correct `raw.md` had named correctly, the same regression class as
+  the local-ASR-redo-wipes-names bug in the Speaker naming convention
+  section below, just via a different engine. Where verification is wanted
+  without that risk: transcribe into a scratch file, not the real one, and
+  cross-check timestamps/content against the existing `raw.md` (see 1.16).
+
+### 1.16: Timestamp corruption bug catalog, and a free corpus-wide detector
+
+- **Context:** 1.11's `check_timestamp_drift.py` sweep flagged roughly a
+  fifth of the corpus for drift, but its own search-radius constraint (see
+  1.11's Fix) means severe cases beyond ±20 minutes surface only as
+  ambiguous "not found nearby" counts, not a quantified drift value --
+  undercounting true severity rather than hiding it outright. Manually
+  investigating several of these flagged episodes (ep05, ep10, ep26, ep32,
+  ep33, ep44, ep45) turned up **four distinct bug shapes**, not one:
+  - **Hard reset + constant offset** (ep32, confirmed root cause; ep33/ep44,
+    same signature confirmed via two independent caption sources each but
+    not yet fixed): the file's own printed timestamp sequence jumps
+    backward at one specific line, then runs at a large but *constant*
+    offset (ep32: exactly +2400s/40min, confirmed via an exact phrase match
+    at the boundary in two unrelated captions) for the rest of the file (or
+    until a second reset). **Critically, this does NOT necessarily mean
+    missing content** -- ep32's initial diagnosis assumed a ~14-minute audio
+    gap purely from comparing block-start labels, which was wrong: the
+    mislabeled section's actual text picks up with zero gap from the
+    correctly-timed content before it (both land at real time 02:04:14 in
+    the caption). The fix that was actually needed was pure relabeling
+    (add the measured constant offset to every affected timestamp), not
+    re-transcription. Also found, bundled with the same bug on ep32: a
+    3-line literal duplicate of the episode's sign-off, once at the
+    mislabeled timestamp and once at the correct one -- removed the
+    mislabeled copy.
+  - **Duplicated content with a fabricated later timestamp** (ep26, ep45,
+    confirmed via caption cross-check, NOT yet fixed): the opposite
+    direction from the reset case -- a stretch of the file's printed
+    timestamps are *larger* than the content's real position, and the
+    error grows across the stretch rather than staying constant, consistent
+    with a passage that really occurs earlier being re-inserted later in
+    the file under invented labels. More complex than ep32's case and
+    deliberately left unfixed pending a proper investigation (denser
+    caption sampling or a Gemini shadow-transcription of the affected
+    range) -- do not assume every near-duplicate passage in a long
+    monologue is this bug; real speakers do restate points for emphasis,
+    confirmed ambiguous on one of ep26's own late-file passages that looked
+    similar but wasn't obviously a verbatim repeat.
+  - **Block misordering, correct labels** (ep05, confirmed and fixed): a
+    short, internally-coherent exchange had each of its own timestamps
+    individually correct (confirmed against the episode's own caption) but
+    was physically placed later in the file than chronologically-later
+    content. Fix was a pure cut-and-reinsert at the right position, zero
+    text changed.
+  - **Single mistimed line** (ep10, confirmed and fixed): one isolated line
+    sandwiched between two otherwise-correctly-sequenced neighbors, content
+    reads as a natural direct reply to what precedes it. Not a sustained
+    bug, just one bad timestamp; corrected to a value consistent with its
+    neighbors.
+  - Separately, a fifth "bug" (ep45) turned out to be a plain formatting
+    typo unrelated to the above: `[21:18:55]` for a ~3-hour episode, an
+    extra leading digit, corrected to `[2:18:55]` per the very next line's
+    `[2:19:15]`. Worth checking for this class of typo specifically (an
+    implausible hour count) before assuming any large jump is a real
+    content-displacement bug.
+- **New detection method, free (no API or caption needed):** scan each
+  `raw.md`'s own printed timestamps in file order and flag any point where
+  a later line's value drops more than ~30s below the running maximum seen
+  so far. This alone found all four fixed bugs above, including two
+  (ep45's typo, ep05's reorder) that neither `check_timestamp_drift.py`'s
+  caption-based sweep nor a manual caption-based deep-dive had surfaced,
+  because both of those bugs preserve locally-correct timestamps and would
+  only show up as a hard-to-notice ordering violation, not a drift value.
+  Running it across the full 67-episode corpus took seconds and found
+  exactly 5 episodes with any jump over 30s -- worth adding as a permanent,
+  cheap check in `qa_check.py` rather than a one-off investigation script.
+- **Independent verification source discovered:** the YouTube channel
+  `@mediarakyat` (channel ID `UCiqdR78bc6Tu7jRpZH7xB5A`) has re-uploaded
+  nearly this entire podcast series as separate videos (often both a
+  `(LIVE)` raw-stream cut and an edited `(Episod Penuh)` cut per episode),
+  usually with their own independent YouTube auto-captions. Matched by
+  episode number and duration (within ~1-8%, confirming same recording).
+  Used to independently re-confirm ep32/ep33/ep44/ep26's bugs via a
+  completely separate recording and caption run, ruling out "one caption's
+  fuzzy-match coincidence" as an explanation. Also recovered usable
+  captions for 2 otherwise caption-less originals (`yang-berhenti-menteri`
+  ep01/ep02) and, as a side effect, confirmed a guest's real name ("Lee
+  Chean Chung", ep36) directly from mediarakyat's own video title. **Not
+  reliable for every episode**: checked all mediarakyat candidates for
+  `yang-berhenti-menteri` ep03-14, and every single one (Live and Penuh
+  alike) came back with zero automatic captions at all -- confirmed via
+  direct `yt-dlp --list-subs`, not a rate-limit artifact.
+- **A separate caption-availability gotcha, unrelated to mediarakyat:**
+  YouTube sometimes files a Malay video's own auto-caption under language
+  code `id` (Indonesian) rather than `ms`, since the two languages are
+  close enough to confuse its language detector. `ms` may also be nominally
+  listed but is then a lower-quality machine-translation of the `id`
+  original rather than a real independent transcription. Checking `id`
+  recovered captions for 3 originally-uncaptioned 2024-era episodes
+  (`yang-bakar-menteri` ep01-03). `check_timestamp_drift.py` and
+  `dedupe_raw.py`'s `fetch_captions()` currently only try `ms` then `en` --
+  should add `id` as a third fallback (not yet done).
 
 ### 2.1: Choosing a fallback provider
 
