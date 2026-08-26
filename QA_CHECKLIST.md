@@ -58,7 +58,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 665s, 12/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-08-07-ep58-umno-pas-asal-melayu-berkuasa-masalah-lain-belakang-kira-ybm**
-  - raw.md has a 43874-char block with no paragraph breaks (wall-of-text)
+  - raw.md has a 43875-char block with no paragraph breaks (wall-of-text)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 
 ## Clean episodes
