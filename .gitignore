@@ -4,3 +4,9 @@ __pycache__/
 .venv/
 audio/
 batch_*.log
+
+# One-off investigation artefacts: scratch transcripts and probe scripts stay
+# local, same convention as the scripts/_*.py probes.
+episodes/_scratch_*
+scripts/_*.py
+audio/_*
