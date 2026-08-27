@@ -54,6 +54,7 @@ reasons (see below).
 | Rewrite / translate / metadata (default) | Gemini, chunked text calls | |
 | Rewrite / translate / metadata (fallback) | `claude` CLI, headless (`claude -p`) | Uses an existing Claude Code seat rather than an API key (2.1) |
 | Ground truth for verification | YouTube auto-captions (`audio/<video_id>.ms.vtt`) | Free, already downloaded, cover full runtime. The most underused asset in the repo (1.11) |
+| Second, independent recording | `@mediarakyat` re-uploads of the same episodes | Own separate captions, so a finding can be confirmed without reusing the same caption run. Also recovered captions for two otherwise caption-less episodes. Does not cover ep03-14 (1.16) |
 | Timing sanity | `check_timestamp_drift.py` | Head-phrase match against captions (1.23) |
 | Content-loss detection | `check_caption_coverage.py` | 4-gram coverage, starts from the audio (1.25) |
 | Everything else | `qa_check.py` into `QA_CHECKLIST.md` | Runs every known failure signature; verdicts persist in `data/qa_reviewed.json` (1.21) |
