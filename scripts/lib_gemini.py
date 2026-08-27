@@ -285,15 +285,70 @@ def _generate_with_continuation(client, config, initial_parts):
     # avoid a runaway loop.
     contents = [types.Content(role="user", parts=initial_parts)]
     full_text = ""
-    for _ in range(8):
+    for round_index in range(8):
         resp = generate_content(client, contents, config)
         text = _text(resp)
-        full_text += text
+        if round_index == 0:
+            full_text = text
+        else:
+            before = len(full_text)
+            full_text, dropped = _drop_reemitted_prefix(full_text, text)
+            if dropped:
+                print(f"  continuation round {round_index}: dropped {dropped} "
+                      f"re-emitted turn(s) already covered")
+            if len(full_text) <= before:
+                raise RuntimeError(
+                    f"{model} continuation round {round_index} added no new content "
+                    f"(re-emitted {dropped} covered turn(s)) -- see ARCHITECTURE.md 1.22")
         if _finish_reason_name(resp) != "MAX_TOKENS":
             return full_text
         contents.append(types.Content(role="model", parts=[types.Part(text=text)]))
         contents.append(types.Content(role="user", parts=[types.Part(text=CONTINUE_PROMPT)]))
     raise RuntimeError(f"{model} still hitting MAX_TOKENS after 8 continuations")
+
+
+def _split_turns(text):
+    """Split a chunk into turns at each timestamp marker. Blank lines between
+    turns are not reliable here -- _normalize_turn_breaks runs later in the
+    pipeline -- so anchor on the marker instead."""
+    positions = [m.start() for m in _TIMESTAMP_RE.finditer(text)]
+    if not positions:
+        return [text] if text else []
+    turns = [text[:positions[0]]] if positions[0] > 0 else []
+    for i, start in enumerate(positions):
+        end = positions[i + 1] if i + 1 < len(positions) else len(text)
+        turns.append(text[start:end])
+    return turns
+
+
+def _turn_key(turn):
+    """Compare turns by their words alone: a re-emission typically reappears
+    under a fresh timestamp, so the marker itself must not be part of the key."""
+    return " ".join(_TIMESTAMP_RE.sub(" ", turn).lower().split())
+
+
+def _drop_reemitted_prefix(full_text, chunk):
+    """Strip a continuation chunk's leading turns that repeat ground already
+    collected (ARCHITECTURE.md 1.22). Only the prefix is stripped: real speech
+    does repeat, so a later restatement inside the chunk is left for the
+    duplicate-block tooling to judge rather than silently removed here."""
+    turns = _split_turns(full_text)
+    if not turns:
+        return full_text + chunk, 0
+    # Everything but the final turn is definitely complete; the final one may
+    # have been cut mid-sentence by MAX_TOKENS.
+    seen = {key for key in (_turn_key(t) for t in turns[:-1]) if key}
+    new = _split_turns(chunk)
+    tail_key = _turn_key(turns[-1])
+    dropped = 0
+    # If the cut-off turn is restated in full at the head of this chunk, keep the
+    # complete version instead of gluing the restatement onto the fragment.
+    if new and tail_key and _turn_key(new[0]).startswith(tail_key[:max(40, len(tail_key) // 2)]):
+        full_text = full_text[:len(full_text) - len(turns[-1])]
+    while new and _turn_key(new[0]) in seen:
+        new.pop(0)
+        dropped += 1
+    return full_text + "".join(new), dropped
 
 
 _TIMESTAMP_RE = re.compile(r"\[(?:(\d+):)?(\d+):(\d+)\]")

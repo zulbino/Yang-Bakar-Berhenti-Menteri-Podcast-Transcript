@@ -54,6 +54,14 @@ def ts_to_seconds(ts):
 
 def fetch_captions(video_id, lang):
     CAPTION_DIR.mkdir(exist_ok=True)
+    path = CAPTION_DIR / f"{video_id}.{lang}.vtt"
+    # Captions for a published episode do not change, and re-fetching them on
+    # every call made a corpus-wide QA pass 67 needless round trips per language
+    # at --sleep-requests 2. Worse, a throttled or failed fetch returns None,
+    # which every caller reads as "this episode has no captions" and silently
+    # skips the check -- a clean result that means nothing was examined.
+    if path.exists():
+        return path
     out_tmpl = str(CAPTION_DIR / f"{video_id}.%(ext)s")
     try:
         subprocess.run(
@@ -67,7 +75,6 @@ def fetch_captions(video_id, lang):
         # video (not necessarily an error worth surfacing) -- let the caller's
         # ms-then-en fallback try the other language instead of crashing outright.
         return None
-    path = CAPTION_DIR / f"{video_id}.{lang}.vtt"
     return path if path.exists() else None
 
 
