@@ -14,7 +14,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 # Raw Transcript
 
-[0:00] [Music / intro]
+[00:00] [Music / intro]
 
 [02:22] Haziq: Podcast Yang Berhenti Menteri episod ke-22. Assalamualaikum dan salam sejahtera, selamat datang kepada ramai-ramai yang baru tengok tu. Jangan lupa untuk follow media sosial Mohd Rafizi dan juga Spotify baru kita yang tak sampai sebulan kita dah ada dekat 600 followers YB.
 
@@ -671,4 +671,3 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [2:52:18] Rafizi: Malam ni Bell Curve.
 
 [2:52:21] Haziq: Okey, itu saja. Kita jumpa lagi minggu depan. Assalamualaikum, selamat malam.
-

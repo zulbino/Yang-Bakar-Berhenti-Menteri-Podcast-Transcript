@@ -30,55 +30,55 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [01:17] Haziq: Benda yang YB nak...
 
-[1:19] Rafizi: Tak, pengumuman tu besarlah. Macam saya ditanya wartawan tadilah, dia cuba, biasalah, semalam kan, semua nak nak tahu clue-cluelah.
+[01:19] Rafizi: Tak, pengumuman tu besarlah. Macam saya ditanya wartawan tadilah, dia cuba, biasalah, semalam kan, semua nak nak tahu clue-cluelah.
 
-[1:30] Haziq: Cuba korek.
+[01:30] Haziq: Cuba korek.
 
-[1:31] Rafizi: Cuba korek kan. Cuma saya kata dia memang pengumuman besar, bukan yang biasa-biasalah. Sebab kalau pengumuman biasa tu buat dekat TikTok pun cukuplah, buat dekat podcast pun boleh kan.
+[01:31] Rafizi: Cuba korek kan. Cuma saya kata dia memang pengumuman besar, bukan yang biasa-biasalah. Sebab kalau pengumuman biasa tu buat dekat TikTok pun cukuplah, buat dekat podcast pun boleh kan.
 
-[1:46] Haziq: Ada kaitan dengan yang bulan enam tu ke, YB?
+[01:46] Haziq: Ada kaitan dengan yang bulan enam tu ke, YB?
 
-[1:49] Rafizi: Tak apa, nanti kita jawab kemudianlah.
+[01:49] Rafizi: Tak apa, nanti kita jawab kemudianlah.
 
-[1:51] Haziq: Saja-saja.
+[01:51] Haziq: Saja-saja.
 
-[1:53] Farhan (Pa'an): YB, sebelum kita start kan, saya nak tanya, pegawai SPRM terkejut tak YB datang balik SPRM tadi?
+[01:53] Farhan (Pa'an): YB, sebelum kita start kan, saya nak tanya, pegawai SPRM terkejut tak YB datang balik SPRM tadi?
 
-[1:58] Rafizi: Dia orang nampak happy saja. Nak kata terkejut tu tak adalah, sebab peguam saya dah hantar surat hari Ahad. Jadi mereka sedia maklumlah. In fact, awal-awal tu kita bersetuju hari hari Rabu, sebab yalah, pihak media dan ada pihak yang mengatakan ini saja susun ni untuk ambush Ketua Pesuruhjaya SPRM yang baru. Sebenarnya tak ada kena-mengena kan. Saya hanya nak memastikan bahawa siasatan SPRM itu menyeluruh dan ada semua fakta yang tepat. Oleh kerana siasatannya setakat ini tidak ada kaitan dengan wang, tidak ada suapan, tidak ada transaksi, jadi ia berkaitan dengan keputusan kerajaan. Keputusan kerajaan itu melibatkan keputusan di kabinet, dan juga jawatankuasa-jawatankuasa pemandu yang ada bukan sahaja saya, ada Perdana Menteri, ada Menteri MITI, Zafrul, ada Menteri Kewangan II, Amir Hamzah, kan. Jadi tak bolehlah semuanya nak tahu pasal proses tapi hanya soal siasat saya. Soal siasatlah ketiga-tiga orang lagi inilah. Jadi itu sebahagian daripada proses undang-undang untuk memastikan bila masuk mahkamah nanti, contohnya kalau SPRM tidak panggil Perdana Menteri, itu isu besarlah. Maksudnya tidak siasatan itu tidak lengkap, kan. Tidak panggil Amir Hamzah, tidak panggil Zafrul. Jadi saya nak tengoklah nanti kan. Jadi itu terpulang kepada SPRM dan juga apa nama ni, Jabatan Peguam Negaralah, pihak pendakwa raya. Kalau mereka teruskan juga tanpa memanggil Datuk Seri Anwar, tanpa memanggil Amir Hamzah, tanpa memanggil Zafrul ni, dan dalam mahkamah nanti fireworks-lah nanti kan.
+[01:58] Rafizi: Dia orang nampak happy saja. Nak kata terkejut tu tak adalah, sebab peguam saya dah hantar surat hari Ahad. Jadi mereka sedia maklumlah. In fact, awal-awal tu kita bersetuju hari hari Rabu, sebab yalah, pihak media dan ada pihak yang mengatakan ini saja susun ni untuk ambush Ketua Pesuruhjaya SPRM yang baru. Sebenarnya tak ada kena-mengena kan. Saya hanya nak memastikan bahawa siasatan SPRM itu menyeluruh dan ada semua fakta yang tepat. Oleh kerana siasatannya setakat ini tidak ada kaitan dengan wang, tidak ada suapan, tidak ada transaksi, jadi ia berkaitan dengan keputusan kerajaan. Keputusan kerajaan itu melibatkan keputusan di kabinet, dan juga jawatankuasa-jawatankuasa pemandu yang ada bukan sahaja saya, ada Perdana Menteri, ada Menteri MITI, Zafrul, ada Menteri Kewangan II, Amir Hamzah, kan. Jadi tak bolehlah semuanya nak tahu pasal proses tapi hanya soal siasat saya. Soal siasatlah ketiga-tiga orang lagi inilah. Jadi itu sebahagian daripada proses undang-undang untuk memastikan bila masuk mahkamah nanti, contohnya kalau SPRM tidak panggil Perdana Menteri, itu isu besarlah. Maksudnya tidak siasatan itu tidak lengkap, kan. Tidak panggil Amir Hamzah, tidak panggil Zafrul. Jadi saya nak tengoklah nanti kan. Jadi itu terpulang kepada SPRM dan juga apa nama ni, Jabatan Peguam Negaralah, pihak pendakwa raya. Kalau mereka teruskan juga tanpa memanggil Datuk Seri Anwar, tanpa memanggil Amir Hamzah, tanpa memanggil Zafrul ni, dan dalam mahkamah nanti fireworks-lah nanti kan.
 
-[4:11] Haziq: Okey, baik YB. Kita tengok segmen apa yang ada dulu, YB. Beria macam biasa.
+[04:11] Haziq: Okey, baik YB. Kita tengok segmen apa yang ada dulu, YB. Beria macam biasa.
 
-[4:19] Rafizi: Minggu ni kita yang tak beria eh, sebab penat.
+[04:19] Rafizi: Minggu ni kita yang tak beria eh, sebab penat.
 
-[4:23] Haziq: Nampaklah penat, YB.
+[04:23] Haziq: Nampaklah penat, YB.
 
-[4:25] Rafizi: Nampak penat, penat, penat. Last two, three weeks memang penat. Dahlah ambil exam. Korang lupa aku ambil exam seminggu. Lepas tu semalam kena ambil paper tambahan lagi. Kemudian nak susun semua ni kan ke hari Ahad. Okey, tak apa. Harap YB gelaklah dengan penghibur-penghibur yang telah kita jemput.
+[04:25] Rafizi: Nampak penat, penat, penat. Last two, three weeks memang penat. Dahlah ambil exam. Korang lupa aku ambil exam seminggu. Lepas tu semalam kena ambil paper tambahan lagi. Kemudian nak susun semua ni kan ke hari Ahad. Okey, tak apa. Harap YB gelaklah dengan penghibur-penghibur yang telah kita jemput.
 
-[4:47] Rafizi: Penghibur pertama?
+[04:47] Rafizi: Penghibur pertama?
 
-[4:49] Haziq: Penghibur pertama sudah pasti watak utama.
+[04:49] Haziq: Penghibur pertama sudah pasti watak utama.
 
-[4:52] Rafizi: Ya Allahuakbar. Korang tak ada penghibur lain ke? Tiap-tiap minggu penghibur yang sama.
+[04:52] Rafizi: Ya Allahuakbar. Korang tak ada penghibur lain ke? Tiap-tiap minggu penghibur yang sama.
 
-[4:57] Haziq: Sendiri punya analisis, sendiri tak percaya. Ini berkaitan dengan kenyataan Naib Presiden kita, saudara Ramanan Ramakrishnan.
+[04:57] Haziq: Sendiri punya analisis, sendiri tak percaya. Ini berkaitan dengan kenyataan Naib Presiden kita, saudara Ramanan Ramakrishnan.
 
-[5:06] Rafizi: Kita?
+[05:06] Rafizi: Kita?
 
-[5:07] Haziq: Kita.
+[05:07] Haziq: Kita.
 
-[5:08] Rafizi: Tak mengaku.
+[05:08] Rafizi: Tak mengaku.
 
-[5:09] Haziq: Tak mengaku, okey okey okey. Betullah, saya pun tak undi dialah. Yang mengatakan sebenarnya lebih kelakarlah sebab dia kata survey ni hanya melibatkan beberapa ratusan orang, yang akan tentukan undi saya nanti ratusan ribu pengundi dalam PRU nanti.
+[05:09] Haziq: Tak mengaku, okey okey okey. Betullah, saya pun tak undi dialah. Yang mengatakan sebenarnya lebih kelakarlah sebab dia kata survey ni hanya melibatkan beberapa ratusan orang, yang akan tentukan undi saya nanti ratusan ribu pengundi dalam PRU nanti.
 
-[5:28] Rafizi: Dia orang ni tak ada WhatsApp group ke?
+[05:28] Rafizi: Dia orang ni tak ada WhatsApp group ke?
 
-[5:31] Haziq: Korang ada ke?
+[05:31] Haziq: Korang ada ke?
 
-[5:32] Rafizi: Ni kan Timbalan Presiden dengan Naib Presiden. Entah. Saya memang tak ada, orang semua tahu tak ada WhatsApp group, jadi orang fahamlah kalau tertinggal kapal ke apa kan. Dia orang ni hari tu masa pembentangan itu, dia pembentangan rasmi parti kepada semua pimpinan parti daripada seluruh negara. Sudah tentulah Ramanan sedia maklum. Dan yang yang yang lebih, lebih sensitif itu, itu adalah syor awal jeneral perang, Nurul Izzah. Dia nak mengemudi pilihan raya. Belum apa-apa bentang dah kena kerat dengan Ramanan kan. Jadi tak ada WhatsApp group ke? Paling kurang Izzah bagilah signal kat Ramanan, janganlah kerat kan. Cuma baguslah Ramanan jawab macam itu, sebab nampak sangat dia ni tak reti sains, kan. Kepada orang ramailah, ahli politik suka buat kenyataan-kenyataan yang menunjukkan besar kemungkinan masa dia ambil subjek Maths atau Add Maths masa SPM, dia fail statistik. Sebab nama pun statistik kan. Kaji selidik ini memanglah berasaskan sampel. Cuma cara terbaik untuk memahami sampling eh, sama ada 200 ke, 200,000 ke, sebab orang macam Ramanan, ahli politik lain, semua suka cakap macam tulah. "Ah itu hanya melibatkan 50 orang, tidak melambangkan" kan. It's a science, Maths kan. Cara paling mudah untuk orang ramai faham ialah katakanlah kita ada satu balang air. Satu balang air. Bukan air yang kat pasar Ramadan yang yang yang banyak ais tu, you know, satu balang yang bagus, sedang kan. Air penuh, kita buat sirap kan. Kalau sirap itu dibancuh dengan baik, maksudnya dia betul-betul bancuh dengan baik, rata semua tu kan, sebenarnya kita ambil dekat tepi balang ke, kita ambil dekat kanan balang ke, atas balang ke, bawah balang ke, sebab dia dibancuh dengan baik, rasa dia sama.
+[05:32] Rafizi: Ni kan Timbalan Presiden dengan Naib Presiden. Entah. Saya memang tak ada, orang semua tahu tak ada WhatsApp group, jadi orang fahamlah kalau tertinggal kapal ke apa kan. Dia orang ni hari tu masa pembentangan itu, dia pembentangan rasmi parti kepada semua pimpinan parti daripada seluruh negara. Sudah tentulah Ramanan sedia maklum. Dan yang yang yang lebih, lebih sensitif itu, itu adalah syor awal jeneral perang, Nurul Izzah. Dia nak mengemudi pilihan raya. Belum apa-apa bentang dah kena kerat dengan Ramanan kan. Jadi tak ada WhatsApp group ke? Paling kurang Izzah bagilah signal kat Ramanan, janganlah kerat kan. Cuma baguslah Ramanan jawab macam itu, sebab nampak sangat dia ni tak reti sains, kan. Kepada orang ramailah, ahli politik suka buat kenyataan-kenyataan yang menunjukkan besar kemungkinan masa dia ambil subjek Maths atau Add Maths masa SPM, dia fail statistik. Sebab nama pun statistik kan. Kaji selidik ini memanglah berasaskan sampel. Cuma cara terbaik untuk memahami sampling eh, sama ada 200 ke, 200,000 ke, sebab orang macam Ramanan, ahli politik lain, semua suka cakap macam tulah. "Ah itu hanya melibatkan 50 orang, tidak melambangkan" kan. It's a science, Maths kan. Cara paling mudah untuk orang ramai faham ialah katakanlah kita ada satu balang air. Satu balang air. Bukan air yang kat pasar Ramadan yang yang yang banyak ais tu, you know, satu balang yang bagus, sedang kan. Air penuh, kita buat sirap kan. Kalau sirap itu dibancuh dengan baik, maksudnya dia betul-betul bancuh dengan baik, rata semua tu kan, sebenarnya kita ambil dekat tepi balang ke, kita ambil dekat kanan balang ke, atas balang ke, bawah balang ke, sebab dia dibancuh dengan baik, rasa dia sama.
 
-[7:54] Haziq: Ha betul, betul.
+[07:54] Haziq: Ha betul, betul.
 
-[7:55] Rafizi: Kecuali kalau dalam balang tu air tu you tak kacau elok, kemudian apa nama ni tak bancuh elok semua, mungkinlah yang kat atas tu tak manis sangat, bawah tu manis kan. Sebab itu soal survey, dia ada Maths ataupun sains yang cukup jelas. Kita kena jumlah sampling tu untuk menentukan boleh terima atau tidak, dia ada beberapa perkara. Satu, contohnya confidence level, kan. Hanya sampling yang menepati threshold, dia boleh ada confidence level 95% ke ataupun lebih rendah ke apa kan. Satu lagi yang paling penting ialah margin of error. Margin of error itu jumlah survey itu, jumlah sampling yang dibuat daripada populasi itu dibandingkan dengan dengan the total size of population kan. So sebab itu ada margin of error 5%, 2%, 3%. Margin of error ni maksudnya begini kan. Kalau contohnya angka kata sokongan kepada Ramanan ialah 25% with a margin of error of 2%, maksudnya it can be 27%, it can be 23%. So it's within that banding kan. Jadi sebab itu, yang ini saya tak saya tak tahulah latar belakang kaji selidik yang Izzah buat ni. Kita dah sebut dulu pun, kita pun tak tahu ini betul-betul survey ke, ataupun ini pakai kira ikut campur tolak macam itu ikut keputusan pilihan raya yang lepas, kita tak tahu kan. Kemudian kita tak tahu sama ada is it just quantitative data ataupun kualitatif. Kita pun tak tahu sama ada sampling tu dibuat macam mana. Kerana kalau pengundi di Sungai Buloh tu ada katakanlah 180,000, mereka semua ni tak sama. Mereka berbeza ikut umur, ikut kaum, ikut pendapatan isi rumah, ikut pendapatan. So strata dia banyak kan. Jadi kita andaikanlah, sebab Izzah cerdik, kan, dan Izzah sudah tentulah kaji selidik yang nak dibentangkan dan juga menjadi strategi parti nak masuk pilihan raya ni sudah tentu menepati semua yang inilah. Jadi kalau dia telah menepati, assuming that 200 people daripada 180,000 assuming that it's representative kan, jadi sepatutnya Ramanan mengambil muhasabahlah. Kan, jadi if anything lah macam yang kita katalah, beria Izzah buat, beria Ramanan pergi cantas. Jadi tak tak damailah nampaknya dia orang sekarang ni kan. Jadi apa ni akhirnya dia memporak-perandakan imej PKR di mata rakyatlah. Kerana Timbalan Presiden ni tak ada WhatsApp group dengan Naib Presiden. Naib Presiden perlekehkan kerja Timbalan Presiden secara terbuka macam itu kan.
+[07:55] Rafizi: Kecuali kalau dalam balang tu air tu you tak kacau elok, kemudian apa nama ni tak bancuh elok semua, mungkinlah yang kat atas tu tak manis sangat, bawah tu manis kan. Sebab itu soal survey, dia ada Maths ataupun sains yang cukup jelas. Kita kena jumlah sampling tu untuk menentukan boleh terima atau tidak, dia ada beberapa perkara. Satu, contohnya confidence level, kan. Hanya sampling yang menepati threshold, dia boleh ada confidence level 95% ke ataupun lebih rendah ke apa kan. Satu lagi yang paling penting ialah margin of error. Margin of error itu jumlah survey itu, jumlah sampling yang dibuat daripada populasi itu dibandingkan dengan dengan the total size of population kan. So sebab itu ada margin of error 5%, 2%, 3%. Margin of error ni maksudnya begini kan. Kalau contohnya angka kata sokongan kepada Ramanan ialah 25% with a margin of error of 2%, maksudnya it can be 27%, it can be 23%. So it's within that banding kan. Jadi sebab itu, yang ini saya tak saya tak tahulah latar belakang kaji selidik yang Izzah buat ni. Kita dah sebut dulu pun, kita pun tak tahu ini betul-betul survey ke, ataupun ini pakai kira ikut campur tolak macam itu ikut keputusan pilihan raya yang lepas, kita tak tahu kan. Kemudian kita tak tahu sama ada is it just quantitative data ataupun kualitatif. Kita pun tak tahu sama ada sampling tu dibuat macam mana. Kerana kalau pengundi di Sungai Buloh tu ada katakanlah 180,000, mereka semua ni tak sama. Mereka berbeza ikut umur, ikut kaum, ikut pendapatan isi rumah, ikut pendapatan. So strata dia banyak kan. Jadi kita andaikanlah, sebab Izzah cerdik, kan, dan Izzah sudah tentulah kaji selidik yang nak dibentangkan dan juga menjadi strategi parti nak masuk pilihan raya ni sudah tentu menepati semua yang inilah. Jadi kalau dia telah menepati, assuming that 200 people daripada 180,000 assuming that it's representative kan, jadi sepatutnya Ramanan mengambil muhasabahlah. Kan, jadi if anything lah macam yang kita katalah, beria Izzah buat, beria Ramanan pergi cantas. Jadi tak tak damailah nampaknya dia orang sekarang ni kan. Jadi apa ni akhirnya dia memporak-perandakan imej PKR di mata rakyatlah. Kerana Timbalan Presiden ni tak ada WhatsApp group dengan Naib Presiden. Naib Presiden perlekehkan kerja Timbalan Presiden secara terbuka macam itu kan.
 
 [11:17] Haziq: YB, dalam mesyuarat-mesyuarat parti sebelum ini, berapa serius pimpinan-pimpinan daripada PKR atau Keadilan ni apa ni, berhubung dengan survey atau data? Ataupun rely kepada YB saja setiap kali pilihan raya?
 
