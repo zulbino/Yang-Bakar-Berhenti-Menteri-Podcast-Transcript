@@ -11,7 +11,7 @@ view_count: 272727
 hosts:
 - Rafizi Ramli
 guests:
-- Aziz
+- Haziq
 topics:
 - Wildlife smuggling (python gallbladders, Johor)
 - Azam Baki/SPRM controversy and public backlash
@@ -69,9 +69,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi Ramli:** Assalamualaikum and greetings. As usual, the Yang Berhormat Menteri Podcast, episode 44. Just a bit more and we'll reach episode 52 — why? Because that's one year, 52 weeks, without stopping. This is episode 44, so about two more months until we hit 52. Aren't you tired, Wabi? I do want to, but what can we do, never mind. Some people say "never mind" — and now I'm already rambling before we've even started.
 
-**Aziz:** Sounds like a comment on KS, right? Huh?
+**Haziq:** Sounds like a comment on KS, right? Huh?
 
-**Rafizi Ramli:** Never mind, never mind. Okay baby, let's start, baby. Shall we dive straight in enthusiastically? Okay. But before that, to our friends watching, especially the fence-sitter voters and victims of scammers — I mean government scammers even more so. It's not just PH that scams, PN scams too — until now there's still no hudud. Back then everything was a scam. Follow and share this podcast, and remember to also follow YB Rafizi Ramli's social media. Only then can we start, YB. Let's dive in with enthusiasm. Let's see how they performed this week. Bismillah, let's start with the first one: 1,022 python gallbladders.
+**Rafizi Ramli:** Never mind, never mind. Okay YB, let's start, YB. Shall we dive straight in enthusiastically? Okay. But before that, to our friends watching, especially the fence-sitter voters and victims of scammers — I mean government scammers even more so. It's not just PH that scams, PN scams too — until now there's still no hudud. Back then everything was a scam. Follow and share this podcast, and remember to also follow YB Rafizi Ramli's social media. Only then can we start, YB. Let's dive in with enthusiasm. Let's see how they performed this week. Bismillah, let's start with the first one: 1,022 python gallbladders.
 
 Hehe, that's just creepy, right? Plus another 191 python gallbladders. Are you sure there are no snakes here? At home I can't even mention snakes. Can't even say the word — that's why I can't watch *Anak Konda* anymore. You know *Anak Konda* on Netflix, such a waste, but because my wife absolutely cannot handle snakes at all.
 
@@ -79,11 +79,11 @@ Okay, this is related to a seizure made in Johor, involving a Vietnamese nationa
 
 What's strange is — assuming, say, one gallbladder comes from one python, one tongue also comes from one python. That means he's killed 1,200 pythons. That's a lot of Titan pythons in Malaysia — that's what scares me more. Maybe it's a farm. Ha, he farms them. That's even more terrifying — meaning if you go to Johor, there's a python farm, is that insane? Probably hidden somewhere. Maybe these pythons aren't that big? They're big, right? Big. Okay okay, just a little, I'm scared now. Okay, wow — to think, if you go by Pa'an, he even has a python farm. Crazy stuff. My feet are already lifting off the ground, I'm scared to even step on the ground now.
 
-**Aziz:** Here's a fun fact — Malaysia is home to the world's top wildlife smuggler.
+**Haziq:** Here's a fun fact — Malaysia is home to the world's top wildlife smuggler.
 
 **Rafizi Ramli:** In the world, that's what was in the news, right?
 
-**Aziz:** Yes.
+**Haziq:** Yes.
 
 **Rafizi Ramli:** Malaysia can, okay okay okay, this is even more interesting than the python story that scared me. It's dangerous — later they'll catch me and plant a python on me — hmm, that's already given away. Okay okay.
 
@@ -95,15 +95,15 @@ And there was one comment saying Azam Baki has a skill — if he went into polit
 
 One thing about Tan Sri Azam Baki — his boldness, even in a situation where every time he opens his mouth it invites emojis, but I do feel sorry for the MACC, because the MACC now needs a tactical squad to protect him. If it's to protect him from criminals, that's understandable, but this is protecting him from kids who are afraid of being ambushed with placards again. So if we're going to give an award for boldness this week, who should we give it to?
 
-**Aziz:** Azam Baki.
+**Haziq:** Azam Baki.
 
-**Rafizi Ramli:** Azam Baki, baby. Yeah, obviously people don't really like him and he hasn't succeeded with whatever comms plan was made. My advice to Tan Sri Azam Baki — maybe he should change his PR team. But I feel for the PR team too — even bringing in the most brilliant PR team from Hollywood, I don't think it could change public opinion about him. Okay, good luck to the PR team. And boldly — if there's any PR person watching this, hey, they're in trouble. Because I've been informed that one of MACC's responses is to ensure that whenever there's a YB podcast episode, certain people from MACC have to become cyber troopers to attack us. So if you don't want to become a cyber trooper, maybe it's best to pray that his contract isn't renewed. InsyaAllah — you sound so confident, but never mind.
+**Rafizi Ramli:** Azam Baki, YB. Yeah, obviously people don't really like him and he hasn't succeeded with whatever comms plan was made. My advice to Tan Sri Azam Baki — maybe he should change his PR team. But I feel for the PR team too — even bringing in the most brilliant PR team from Hollywood, I don't think it could change public opinion about him. Okay, good luck to the PR team. And boldly — if there's any PR person watching this, hey, they're in trouble. Because I've been informed that one of MACC's responses is to ensure that whenever there's a YB podcast episode, certain people from MACC have to become cyber troopers to attack us. So if you don't want to become a cyber trooper, maybe it's best to pray that his contract isn't renewed. InsyaAllah — you sound so confident, but never mind.
 
 Let's look at more social media. This is a quote from a Deputy Minister: "Why is Anwar Ibrahim's nose so red like that?" That's mean, Pa'an. Let it drip a little — eh, not us.
 
-**Aziz:** Us.
+**Haziq:** Us.
 
-**Rafizi Ramli:** Oh, really? Oh, it's already out there. "Wherever Anwar contests, that's where Rafizi Ramli will be." Who made this AI image? Why do I have four dots, four moles on my cheek there? I do have them, baby, but not four. Really, do I actually have that many? Ha, this facial cleanser isn't working, huh.
+**Rafizi Ramli:** Oh, really? Oh, it's already out there. "Wherever Anwar contests, that's where Rafizi Ramli will be." Who made this AI image? Why do I have four dots, four moles on my cheek there? I do have them, YB, but not four. Really, do I actually have that many? Ha, this facial cleanser isn't working, huh.
 
 So, this is saying that YB will contest wherever Dato' Seri Anwar contests. I think this got quite a bit of traction, especially I noticed it in the Chinese media too. So maybe we're craving a response from YB — whether YB wants to respond or just wants to give them the "boldness award" instead.
 
@@ -113,15 +113,15 @@ My political stance and that of my other friends actually has nothing to do with
 
 So I don't know whether he wants to contest again, or return to politics, or join KJ's Cabinet?
 
-**Aziz:** Oh, yes yes.
+**Haziq:** Oh, yes yes.
 
-**Rafizi Ramli:** Okay okay, never mind, let's just wait for KJ's Cabinet. He's joined UMNO, that's fine with him — whether it's PN or BN, as long as whoever throws him up in the air, lifts him up. If tomorrow I went and hugged him, I think that would suit him fine too, as long as there's a chance of winning. So he needs two conditions: one, a chance of winning; two, gaining power — hug him and lift him up. Okay, but let's be bold, just speculating here. Let's wait, baby, let's see if there's anyone else bold this week.
+**Rafizi Ramli:** Okay okay, never mind, let's just wait for KJ's Cabinet. He's joined UMNO, that's fine with him — whether it's PN or BN, as long as whoever throws him up in the air, lifts him up. If tomorrow I went and hugged him, I think that would suit him fine too, as long as there's a chance of winning. So he needs two conditions: one, a chance of winning; two, gaining power — hug him and lift him up. Okay, but let's be bold, just speculating here. Let's wait, YB, let's see if there's anyone else bold this week.
 
 We haven't heard news in a while — how are you, Datuk Seri? This is about the ongoing case. Background for those listening, or who might not remember well — there are so many cases, so YB sometimes forgets which one is which. This is about the jewellery case — rings, gems, jewellery, all that. If you look, RM443 million worth of jewellery was seized from Datin Seri Rosmah Mansor's residence at Pavilion. This was on election night, a few days after that. Of the RM443 million worth of jewellery seized, one piece worth RM67 million actually belonged to a luxury jewellery company from London.
 
 So that company sued Datin Seri Rosmah Mansor to get the item back, and the answer in court was, "Actually I didn't buy it, I was just looking." Just to look, right, to look and see whether to buy or not — this counts as sending a sample, a RM67 million jewellery sample at that. When you read it, it doesn't make sense. That's why I think we need to explain this to the public, because this kind of thing rarely happens in the world — meaning "sample" as Datin Seri Rosmah said, she was just sampling it, looking at it only. But it was funny in court, when the plaintiff's lawyer asked: "Are you in the business of promoting jewellery?" Meaning, the lawyer's question was, "Datin Seri, are you an influencer?" Because in Datin Seri Rosmah's statement, she said: "They were delivered to me with the aim and intention I would wear and use the jewellery so that it will attract, garner and obtain publicity and credibility through me." That's actually what the lawyer was asking — he didn't use the word "influencer," but Datin Seri Rosmah's answer was, "Yeah, people send it to me, and when I wear it, I help promote it." So that's what he was asking, whether she's in that business. So I don't know, Datin Seri Rosmah is actually an influencer too. If possible, I want to learn how to sell jewellery live on TikTok, I could learn from her.
 
-**Aziz:** If YB wanted to be an influencer, what product would YB sell?
+**Haziq:** If YB wanted to be an influencer, what product would YB sell?
 
 **Rafizi Ramli:** Uh-huh, maybe a hair product. No, maybe a hair product, but need to wait for it to grow in a bit first, right. For example, that stuff actually has an effect, you know — not me, but, for whatever reasons, this algorithm is cruel, all my algorithms are about bald hair, you know. It's so boring, on TikTok it comes up with bald hair, on Google too. So it comes from one — a Malaysian, I won't say the name, but I think many people know. He supposedly promotes eating biotin, claiming not only does hair become thick — he shows his hair from 5 years ago, his hair now. But his face also became as young as his daughter's. He's about my age, and it's true, when you look at his face from the side, his face looks about the same age as his daughter's. So I got influenced, bought it, but so far it seems like there's no effect. Maybe I need a scan. So if one day I want to become an influencer too, no need to send jewellery worth up to RM67 million — an effective hair tonic will do.
 
@@ -131,7 +131,7 @@ What year was that — 2016 or so. Indeed Datuk Seri Najib and Datin Seri Rosmah
 
 So if there's anyone watching tonight who's like that, no need to apologize to me, it's fine. But it's not good to keep repeating that, because it makes you look foolish — too sharp a comment.
 
-**Aziz:** Okay okay baby, boldness award baby, boldness boldness. Interesting excuses, bold excuses? Okay, is there more?
+**Haziq:** Okay okay YB, boldness award YB, boldness boldness. Interesting excuses, bold excuses? Okay, is there more?
 
 **Rafizi Ramli:** There's more — "thought working for the government was easy." This was at the PKR Terengganu convention. I think everyone already knows, Datuk Seri Anwar expressed his disappointment. This is the same speech, he said "give some credit, please." True, but the reaction was terrible, I think, on social media.
 
@@ -139,7 +139,7 @@ Because this is a problem for younger people who aspire to become politicians up
 
 So you would think Anwar would be the most experienced person regarding the political scenario in Malaysia, where you'll get criticized every single day. Turns out — not so. Not suited to it. So that's why, if I'm going to rate this for boldness, it's not so much about him saying "did you think being in government was easy" — I'll go back to the future, to his boldness in wanting to become Prime Minister. You would have thought that after wanting to become Prime Minister all this time, he would have accepted this already. If he really knew the brief before he started, gone through the job onboarding, this is exactly how it is — so maybe that would reduce the risk of being criticized when statements and speeches like this come out. So, boldness award for wanting to become Prime Minister.
 
-**Aziz:** YB, maybe we'll discuss government communications in a later segment. It's just, this might be a nightmare for the Prime Minister's stratcom team — they've planned everything nicely, but every weekend, controversial statements just keep popping up until it comes out from him and explodes, every single week, consistently. And people will remember what he said more than the other speeches. Yes.
+**Haziq:** YB, maybe we'll discuss government communications in a later segment. It's just, this might be a nightmare for the Prime Minister's stratcom team — they've planned everything nicely, but every weekend, controversial statements just keep popping up until it comes out from him and explodes, every single week, consistently. And people will remember what he said more than the other speeches. Yes.
 
 **Rafizi Ramli:** I don't think... okay, coming back to what you said, meaning it's a nightmare for the media team or stratcom, if there is such a thing, strategic communication. Pa'an was afraid because when he first came — okay, let me tell an inside story about Pa'an. This is a media person, right, someone used to content, social media, strategic communication. So I didn't know Pa'an at all, didn't know him at all, didn't even want to meet him. So a friend recommended him, "sure, okay, come on," he came for an interview. Hahaha. So you can all focus on Pa'an's face already turning red. So Pa'an talked about strategic communication, all of it, how things develop, the strategies — I listened to everything he said.
 
@@ -163,25 +163,25 @@ Oh, poor thing — that's an AI-generated image I think, it's not really a soul 
 
 I'm more inclined to — oh God, Syahir, don't ride on my back to make content. You're a Member of Parliament — so people actually want to wait and see what the stance of the young PAS MPs is. He's not even that young, he's only 2-3 years my junior, but within PAS, being in your mid-40s still counts as a baby. The young ones in PAS shouldn't just stay silent about this whole corporate mafia story, but he doesn't comment, and doesn't want to step forward — instead he wants to ride on the story of "what shirt am I wearing." "If light blue, his heart is still loyal to PKR. If yellow, leaning towards NGO activism. If black, a signal of a new political vehicle. If white, choosing an independent path in the 16th general election. I'll wear a colourful batik shirt." What a cop-out, dude — what kind of politician is this, what's this called, my signal is just whichever shirt is comfortable that day, that's what I wear.
 
-**Aziz:** Boldness award, okay man, we're done, let's rate it.
+**Haziq:** Boldness award, okay man, we're done, let's rate it.
 
 **Rafizi Ramli:** Oh God, now there's a voice too. Give it to Pa'an, Rik Pa'an.
 
-**Aziz:** Oh, I — yes, Alhamdulillah. As if I'd be scared of a snake. I want to rate Syahir as...
+**Haziq:** Oh, I — yes, Alhamdulillah. As if I'd be scared of a snake. I want to rate Syahir as...
 
 **Rafizi Ramli:** Warrior? Why are you not satisfied with Syahir?
 
-**Aziz:** Because people remember the debate between Syahir and YB — that's all they remember.
+**Haziq:** Because people remember the debate between Syahir and YB — that's all they remember.
 
 **Rafizi Ramli:** I was, at the time, like...
 
-**Aziz:** So, holding a grudge?
+**Haziq:** So, holding a grudge?
 
 **Rafizi Ramli:** Ha, you see, right, if on TikTok, in content there's that fat orange cat, right. That fat orange cat, its character has a lot of content, does all sorts of things, but its character is like blurry, like this — that's how I was during the debate that day, right. Fine, okay, maybe PAS won too, PAS's Dania won. Imagine, if back in those days there'd been a debate, and we already had a podcast and already had a boldness segment...
 
-**Aziz:** We really would have started the boldness segment throughout that whole era.
+**Haziq:** We really would have started the boldness segment throughout that whole era.
 
-**Rafizi Ramli:** That means Fuziah didn't win the all-time boldness award, it's the "roh-roh ni-ni-ni" poem instead. Okay, fine, life is tough, kid. Main segment now. But we have four, baby, we're already at 36 minutes, so we'll need to speed up a bit.
+**Rafizi Ramli:** That means Fuziah didn't win the all-time boldness award, it's the "roh-roh ni-ni-ni" poem instead. Okay, fine, life is tough, kid. Main segment now. But we have four, YB, we're already at 36 minutes, so we'll need to speed up a bit.
 
 Okay, and first and foremost, Akak Umbi's beloved idol — that sounds harsh. Not harsh, it's true, well, supporting him so that he wins, right. This is the "80-Chair Warlord," brother Ramanan Ramakrishna, welcome. RR too.
 
@@ -189,15 +189,15 @@ Bloomberg here — I'm even surprised, Bloomberg is really focused on this. Comi
 
 This is Bloomberg — actually it's been 2-3 months — I remember Ramanan himself once announced that the government is developing a new system that doesn't involve agents like that. Then the reaction from foreign worker agents was somewhat noisy. Then last month, I remember Malaysiakini exposed something about this TVPA, this two-drop system that caused Malaysiakini to be raided and is now under investigation, there's an ADAT case against Malaysiakini now. So maybe Aziz can explain a bit what this is, because I need to drink some water.
 
-**Aziz:** I think this Bloomberg article this time is quite short, even though my subscription has run out.
+**Haziq:** I think this Bloomberg article this time is quite short, even though my subscription has run out.
 
 **Rafizi Ramli:** Not even a trial account name. How poor of you, a trial account, because I'm unemployed. It's like you're mocking me.
 
-**Aziz:** Simply put, this is a new system — the reason given is to kill off agents. If you listen to Aminul Islam himself, he says this is good, this will reduce, firstly, middlemen; secondly, cost — the cost will go down. But what has been raised, or people's concern, is whether by doing this, this is actually a monopoly — wanting to monopolize, giving everything to Aminul Islam. So I think that's the summary. Except he was a bit bold at the end there, YB — Aminul Islam wants to work towards a Nobel Peace Prize for Dato' Seri Anwar Ibrahim.
+**Haziq:** Simply put, this is a new system — the reason given is to kill off agents. If you listen to Aminul Islam himself, he says this is good, this will reduce, firstly, middlemen; secondly, cost — the cost will go down. But what has been raised, or people's concern, is whether by doing this, this is actually a monopoly — wanting to monopolize, giving everything to Aminul Islam. So I think that's the summary. Except he was a bit bold at the end there, YB — Aminul Islam wants to work towards a Nobel Peace Prize for Dato' Seri Anwar Ibrahim.
 
 **Rafizi Ramli:** Alright, since the majority of Malaysians are poor like Haziq who can't afford a Bloomberg subscription, let's do what we've done before — let me read it out, and I'll translate it directly into Malay, but it's short, not as long as that other time. This was reported today, at 5:41pm yesterday: "Replacing Tycoon 1, a new foreign worker system developed by Tycoon Amin." We call him Amin Bangla — but for reference, when we say "Amin," it means Aminul Islam or Amin Bangla, this one.
 
-**Aziz:** I can see it.
+**Haziq:** I can see it.
 
 **Speaker 1:** Malaysia is planning to use a new foreign worker recruitment system developed by Bestinet Sendirian Berhad, a company established by foreign labour tycoon Aminul Islam, according to six people familiar with the matter. The software being touted is said to allow Malaysian companies to hire foreign workers directly without using middlemen, some of whom charge foreign workers exorbitant fees, according to information from people familiar with the matter, who asked not to be named in this report.
 
@@ -269,7 +269,7 @@ In Malaysia and in Bangladesh, this regulation has raised several accusations. O
 
 Take an example in Malaysia — I got an email. I haven't read it yet. Maybe I can read it out, but I need to find the email first. Wait a moment, it's a long story, only just got that email. It's actually quite pitiful reading it.
 
-**Aziz:** Is this an email from a victim?
+**Haziq:** Is this an email from a victim?
 
 **Speaker 1:** From the victim, or should I say — not really a victim, since it's the public. They regularly watch our commentary on issues like foreign workers, so they're sharing an experience they went through. Erm... don't forget to subscribe. If I find it, I find it; if not, I can just mention it verbally.
 

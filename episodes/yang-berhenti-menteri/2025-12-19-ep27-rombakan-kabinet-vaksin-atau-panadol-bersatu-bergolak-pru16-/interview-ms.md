@@ -12,7 +12,7 @@ hosts:
 - Rafizi Ramli
 guests:
 - Farhan
-- Amy
+- Farhan
 topics:
 - Cabinet reshuffle analysis
 - Khairul Aming / Rembayung restaurant and Bumiputera entrepreneurship
@@ -488,7 +488,7 @@ Yang kedua, sebab itu mungkin kaedah yang lebih baik ialah kita kena ada satu si
 
 Kemudian dapat pula, Datuk daripada Timbalan Ketua Bahagian Bersatu Segambut didakwa RM6 juta, bayar RM4 juta. Ada bekas Perdana Menteri, RM170 juta, pulangkan balik, tak kena apa. Jadi ada je — kalau pulangkan balik, tak kena apa. Jadi itu dua perkara yang perlu dibuat. Saya harap netizen lambung banyak-banyak supaya kita boleh pinda kanun keseksaan itu dan tengok semula. Tapi saya mesti mengaku, saya tak baca ia cover to cover. Tapi secara falsafahnya, kesalahan-kesalahan seperti ini sepatutnya tergolong dalam khidmat masyarakat, bukan masuk terus dalam kanun keseksaan. Aku bukan Menteri Undang-Undang pun.
 
-**Amy:** Sorry, sebab kita bincang pasal ni, saya teringat kes hakim dekat Providence tu — Frank Caprio, atau apa-apa, hakim paling baik di dunia. Sistem mahkamah dan kehakiman di Malaysia ni, tak ada ruang ke untuk perbicaraan mahkamah di mana kalau family tu betul-betul susah, dia dibenarkan — bukan dibenarkan lah, tapi dilepaskan dengan budi, macam dengan kasihan, dengan belas kasihan semua tu?
+**Farhan:** Sorry, sebab kita bincang pasal ni, saya teringat kes hakim dekat Providence tu — Frank Caprio, atau apa-apa, hakim paling baik di dunia. Sistem mahkamah dan kehakiman di Malaysia ni, tak ada ruang ke untuk perbicaraan mahkamah di mana kalau family tu betul-betul susah, dia dibenarkan — bukan dibenarkan lah, tapi dilepaskan dengan budi, macam dengan kasihan, dengan belas kasihan semua tu?
 
 **Rafizi Ramli:** Dia ada sebenarnya — maksud saya, saya tak tahu secara terperinci lah, sebab peguam ni kan, kau cakap A dia kata B, kau cakap B dia kata C. Tapi saya penerima manfaat salah satu peruntukan itu — bon kelakuan baik. Kes saya adalah Akta Rahsia Rasmi (OSA). Saya didakwa dan dijatuhkan penjara 3 tahun pada 2017 kerana mendedahkan laporan mengenai 1MDB yang berkait dengan kelewatan bayaran pencen askar. Masa tu, ya lah, saya di parlimen, saya terpaksa buat keputusan — ramai pesara yang mengadu, dia tak dapat pencen, tak dapat bayaran semua. Kau tanya dalam parlimen macam tu semua, dia tak layan pun. Jadi kau kena tunjukkan laporan yang memang kata duit macam itu kan. Jadi aku kena OSA. Jatuh hukuman bersalah, kemudian pergi ke mahkamah rayuan.
 
@@ -500,14 +500,14 @@ Sebab itu saya harap ada orang sampaikan kepada Datuk Seri Saifuddin Nasution �
 
 Baik, Chris, terima kasih. Alhamdulillah, tak ada dah kan soalan? Alhamdulillah. Itu je lah kot — dah 2 jam 35 minit. Selamat bercuti!
 
-**Amy:** Selamat!
+**Farhan:** Selamat!
 
 **Rafizi Ramli:** Tapi minggu depan kami tetap ada. Diorang minta supaya minggu depan tak ada, tapi tak boleh — tiap-tiap minggu kena ada. So minggu depan walaupun cuti — cuti satu hari selepas Christmas, Boxing Day — kita tetap bersiaran. Boxing Day. Kau boxing apa, Boxing Day?
 
-**Amy:** Yelah.
+**Farhan:** Yelah.
 
 **Rafizi Ramli:** I know. Tapi apa—
 
-**Amy:** —yang kau nak "box"? Kau tak sambut Christmas pun. Tak, tak, kita box yang beria je.
+**Farhan:** —yang kau nak "box"? Kau tak sambut Christmas pun. Tak, tak, kita box yang beria je.
 
 **Rafizi Ramli:** Okay, bukan idea yang baik. Kita balik dulu, Amy. Itu saja. Bye.

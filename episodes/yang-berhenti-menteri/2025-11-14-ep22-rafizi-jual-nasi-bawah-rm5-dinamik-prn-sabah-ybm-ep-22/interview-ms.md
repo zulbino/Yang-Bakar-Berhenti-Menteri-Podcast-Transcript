@@ -10,7 +10,7 @@ view_count: 114371
 hosts:
 - Rafizi
 - Haziq
-- Razal
+- Haziq
 guests: []
 topics:
 - Parliament debate over monument nose controversy
@@ -612,7 +612,7 @@ Jadi saya harap saya masih hidup untuk melihat satu masa nanti molten salt react
 
 Jangan sebut benda ni kat Sanusi — nanti ada Wakanda the second, dia pergi auditorium pulak. Jadi saya teruja dengan molten salt reactor ini, harap-harap kita boleh menjayakannya. Dan cerita di sebaliknya — dari segi latar belakang, benda ini bermula di Amerika Syarikat. Amerika tak nak uruskannya, tak membangunkannya — mereka tinggalkan molten salt reactor. China ambil alih, dan selepas 30 tahun menggunakannya, China berjaya.
 
-**Razal:** Okay, YB... eh, tak boleh lah. Eh, cepatlah, kita nak balik ni. Cepat, cepat, cepat. Haa, banyak tanya ni. Ini cepat-cepat lah eh, soalan tak banyak. Makin hari makin banyak insiden rempit dan kemalangan di lebuh raya. Baru-baru ini tular lagi kes jatuh beramai-ramai. Kenapa gejala ini makin berleluasa? Apa kombinasi faktor sebenar di sebalik ini — penguatkuasaan longgar ke, ekonomi anak muda ke, budaya tontonan, atau ada bentuk jalan yang menggalakkan kelajuan? Dari sudut dasar, apa pelan realistik 12 hingga 18 bulan untuk turunkan insiden ini, bukan sekadar operasi bermusim? Macam tanya Cik GPT je ni.
+**Haziq:** Okay, YB... eh, tak boleh lah. Eh, cepatlah, kita nak balik ni. Cepat, cepat, cepat. Haa, banyak tanya ni. Ini cepat-cepat lah eh, soalan tak banyak. Makin hari makin banyak insiden rempit dan kemalangan di lebuh raya. Baru-baru ini tular lagi kes jatuh beramai-ramai. Kenapa gejala ini makin berleluasa? Apa kombinasi faktor sebenar di sebalik ini — penguatkuasaan longgar ke, ekonomi anak muda ke, budaya tontonan, atau ada bentuk jalan yang menggalakkan kelajuan? Dari sudut dasar, apa pelan realistik 12 hingga 18 bulan untuk turunkan insiden ini, bukan sekadar operasi bermusim? Macam tanya Cik GPT je ni.
 
 **Rafizi:** Saya tak ada data, jadi saya tak ada interview budak-budak rempit ni semua kenapa mereka merempit. Jadi... kalau dalam bahasa sainsnya, pandangan saya ini kualitatif lah kan, tanpa ada sokongan quantitative data. Saya rasa — ini bukan sekadar hal mengubah bentuk jalan. Walaupun dengan penguatkuasaan undang-undang, berapa ratus ribu polis yang kita perlu bayar untuk mengejar budak-budak ini? Kita bayar banyak duit, kita habiskan semuanya, kemudian...
 
@@ -622,7 +622,7 @@ Kalau mereka kerja pun, kerja di kawasan setempat. Jadi aktiviti riadah mereka d
 
 Jadi cara yang lebih realistik akan ambil masa jauh lebih daripada 12 ke 18 bulan — selesaikan masalah social mobility, terutamanya dalam kalangan keluarga Melayu berpendapatan rendah; selesaikan masalah prospek pendidikan; pastikan seberapa ramai lepasan sekolah dan golongan muda ada hala tuju. Dan itu, secara sedikit sebanyak dan beransur-ansur, akan mengurangkan tarikan rempit ini sebagai satu hobi dan budaya.
 
-**Razal:** Selamat tinggal, Chris T. Clear. Seterusnya. Daripada Rafiq: Dalam episod lepas, YB kata YB tak suka guna food reviewer atau influencer. Kenapa? Sedangkan ekonomi influencer ini besar dan telah terbukti mampu menjadikan orang kaya — dari sudut asas, apa risikonya bila kerajaan atau syarikat terlalu bergantung kepada influencer, dan bila masanya munasabah untuk menggunakan mereka?
+**Haziq:** Selamat tinggal, Chris T. Clear. Seterusnya. Daripada Rafiq: Dalam episod lepas, YB kata YB tak suka guna food reviewer atau influencer. Kenapa? Sedangkan ekonomi influencer ini besar dan telah terbukti mampu menjadikan orang kaya — dari sudut asas, apa risikonya bila kerajaan atau syarikat terlalu bergantung kepada influencer, dan bila masanya munasabah untuk menggunakan mereka?
 
 **Rafizi:** Itu pilihan masing-masing, influencer ni. Kita hidup dalam dunia digital. Dulu orang bayar suratkhabar untuk pengiklanan, billboard — dan sekarang pun masih ada billboard kan — tapi sebenarnya masa yang paling banyak dihabiskan oleh orang ramai ialah di skrin. Jadi perniagaan memang tak boleh lari daripada mengiklan. Cuma, iklan macam mana, food reviewer yang macam mana, influencer yang macam mana — itu soalnya.
 
@@ -634,7 +634,7 @@ Sesuatu yang kita buat, contohnya perniagaan, ia hanya akan bertahan kalau reput
 
 Jadi itu memang disiplin saya dalam apa-apa yang saya buat — maksudnya, kita kena bina kekuatan dan aset kita sendiri. Memang kita kena guna digital marketing untuk marketing kita, tetapi digital marketing itu hanyalah medium untuk kita sampaikan kelebihan. Kena ada kelebihan terlebih dahulu. Tapi kalau ada, contohnya, paid food reviewer atau influencer, dan benda itu tak sedap tapi dikatakan sedap selama-lamanya — jadi pengguna kena berhati-hati, kena berhati-hati.
 
-**Razal:** Baik, YB, soalan terakhir daripada Ketua Kampung Springfield — eh, nanti dulu, jangan pergi balik, ada soalan kedua tu. Apa risikonya? Soalan kedua: apa risiko bila kerajaan atau syarikat terlalu bergantung kepada influencer?
+**Haziq:** Baik, YB, soalan terakhir daripada Ketua Kampung Springfield — eh, nanti dulu, jangan pergi balik, ada soalan kedua tu. Apa risikonya? Soalan kedua: apa risiko bila kerajaan atau syarikat terlalu bergantung kepada influencer?
 
 **Rafizi:** Kita bayar — dan masa saya di kementerian, sebenarnya ini mahal, kan? RM80,000, RM100,000 untuk seorang KOL — itulah yang mereka panggil, KOL. Ada yang murah, tapi yang murah jangkauannya sangat kecil. Saya nampak, dan saya rasa kita patut berhenti. Di mana kita boleh berhenti, kita berhenti. Sebab itulah, kalau kita lihat Kementerian Ekonomi, ada orang tanya, "Kenapa awak tak buat macam menteri ini, macam menteri itu?" Orang tak tahu — kalau ikut cara tertentu, memang dia nampak hebat, tapi dia bayar RM100,000. Kenapa tak keluar sana? Kenapa tak keluar sini? Orang selalu tanya kan, kenapa tak keluar dalam TV? Eh, kau ingat free ke? Kena bayar. Jadi kita yang fikir, "Razal, eh, duit rakyat ni, aku nak bayar RM200,000?" — tak apalah, aku buat je TikTok aku sendiri, contohnya kan, Razal jadi influencer.
 
@@ -642,22 +642,22 @@ Itu satu kos kepada kerajaan, sebab ia mahal — RM80,000 satu video. Yang kedua
 
 Jadi itu yang bahaya kalau kita terlalu bergantung kepada influencer. Yang terbaik ialah, macam saya kata tadi, biarlah — kalau menteri nak sampaikan sesuatu, biarlah kekuatan itu datang daripada kita sendiri. Kalau orang memang dah menyampah tengok kau, nasiblah kau. Jadi yang perlu ditumpukan ialah macam mana nak membaiki keadaan supaya dasar itu lebih baik, dan penyampaian kita lebih baik. Baik, clear maybe?
 
-**Razal:** Sontrahi — salam, YB, ada rakan-rakan dari Gapeta merungkap rasa kecewa. Skim pembantu tadbir dah lama tak disemak semula, walaupun sudah beberapa kali berjumpa PMX. Skim ini sangat ketinggalan jauh berbanding skim lain — QPEX pun dah banyak kali menggesa.
+**Haziq:** Sontrahi — salam, YB, ada rakan-rakan dari Gapeta merungkap rasa kecewa. Skim pembantu tadbir dah lama tak disemak semula, walaupun sudah beberapa kali berjumpa PMX. Skim ini sangat ketinggalan jauh berbanding skim lain — QPEX pun dah banyak kali menggesa.
 
 **Rafizi:** Yang ini saya susah nak komen, sebab saya tak terlibat dan tak tahu sangat pasal ini. Sebab dalam kerajaan — isu skim gaji, pentadbiran awam, semua ini di bawah Jabatan Perdana Menteri, sebab ia ditadbir oleh Jabatan Perkhidmatan Awam, JPA, di bawah PM. Dan satu lagi, isu kenaikan gaji — semua ini berkaitan dengan Kewangan, Kementerian Kewangan, juga di bawah PM. Dan saya dengan PM ni macam suami isteri sekarang, kan — jadi walaupun saya sebut pun, dia tak kisah.
 
 Jadi saya cadangkan, mungkin cakap dengan Tengku Zafrul — dia baik dengan PM sekarang, mungkin akan sampai kat PM.
 
-**Razal:** Sempat lagi?
+**Haziq:** Sempat lagi?
 
 **Rafizi:** Sempat.
 
-**Razal:** Okay. Sesi itu saja. Haa, itu je lah. Alhamdulillah, rekod malam ni kan.
+**Haziq:** Okay. Sesi itu saja. Haa, itu je lah. Alhamdulillah, rekod malam ni kan.
 
 **Rafizi:** Ya, apa jam? 2 jam 50 minit? Ya Allah. Esok macam mana ni? Aku nak sediakan nasi lemak.
 
-**Razal:** Tapi kita kena mula pukul 7 pagi juga kan?
+**Haziq:** Tapi kita kena mula pukul 7 pagi juga kan?
 
 **Rafizi:** Ya.
 
-**Razal:** Terima kasih kepada Belkerf kerana menjadi tuan rumah podcast kita malam ini. Ia telah disebut berkali-kali — Belkerf. Malam ini adalah Belkerf. Itu sahaja. Jumpa lagi minggu depan. Assalamualaikum. Selamat malam.
+**Haziq:** Terima kasih kepada Belkerf kerana menjadi tuan rumah podcast kita malam ini. Ia telah disebut berkali-kali — Belkerf. Malam ini adalah Belkerf. Itu sahaja. Jumpa lagi minggu depan. Assalamualaikum. Selamat malam.

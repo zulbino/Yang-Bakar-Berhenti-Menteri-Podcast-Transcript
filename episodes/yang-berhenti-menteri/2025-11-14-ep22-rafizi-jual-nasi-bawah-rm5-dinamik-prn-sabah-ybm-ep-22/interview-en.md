@@ -10,7 +10,7 @@ view_count: 114371
 hosts:
 - Rafizi
 - Haziq
-- Razal
+- Haziq
 guests: []
 topics:
 - Parliament debate over monument nose controversy
@@ -613,7 +613,7 @@ So I hope I'm still alive to see the day when molten salt reactors are adopted w
 
 Don't mention this to Sanusi — next thing you know there'll be a Wakanda the second, he'll go off to the auditorium instead. So I'm excited about the molten salt reactor, hopefully we can make it happen. And the story behind it — background-wise, this thing originated in the US. The US didn't want to deal with it, didn't develop it — they abandoned the molten salt reactor. China took it up, and after 30 years of using it, China succeeded.
 
-**Razal:** Okay, YB... eh, we can't do this. Eh, hurry up, we want to go home. Quick, quick, quick. Ha, there are a lot of questions here. Let's go quickly, there aren't too many questions. More and more incidents of illegal street racing and highway accidents happen by the day. Recently there was another viral case of a mass pile-up crash. Why is this phenomenon becoming more rampant? What's the real combination of factors behind this — lax enforcement, youth economy, viewing culture, or road designs that encourage speeding? From a policy standpoint, what's a realistic 12 to 18 month plan to reduce these incidents, not just seasonal operations? It's like asking ChatGPT.
+**Haziq:** Okay, YB... eh, we can't do this. Eh, hurry up, we want to go home. Quick, quick, quick. Ha, there are a lot of questions here. Let's go quickly, there aren't too many questions. More and more incidents of illegal street racing and highway accidents happen by the day. Recently there was another viral case of a mass pile-up crash. Why is this phenomenon becoming more rampant? What's the real combination of factors behind this — lax enforcement, youth economy, viewing culture, or road designs that encourage speeding? From a policy standpoint, what's a realistic 12 to 18 month plan to reduce these incidents, not just seasonal operations? It's like asking ChatGPT.
 
 **Rafizi:** I don't have data, so I haven't interviewed these street racing kids about why they race. So... in scientific terms, my view here is qualitative, without quantitative data to back it up. I think — this is not just a matter of changing the shape of the road. Even with law enforcement, how many hundred thousand police do we have to pay to chase these kids? We pay a lot of money, we spend it all, then...
 
@@ -623,7 +623,7 @@ Even if they work, they work locally. So their recreational activities with frie
 
 So the more realistic approach will take far longer than 12 to 18 months — solve the social mobility problem, especially among low-income Malay families; solve the education prospects problem; make sure as many school leavers and young people as possible have direction. And that, bit by bit and gradually, will reduce the appeal of street racing as a hobby and culture.
 
-**Razal:** Goodbye, Chris T. Clear. Next. From Rafiq: In the last episode, YB said YB doesn't like to use food reviewers or influencers. Why? While the influencer economy is big and has proven to make people rich — from a fundamental point of view, what is the risk when the government or a company is too dependent on influencers, and when is it reasonable to use them?
+**Haziq:** Goodbye, Chris T. Clear. Next. From Rafiq: In the last episode, YB said YB doesn't like to use food reviewers or influencers. Why? While the influencer economy is big and has proven to make people rich — from a fundamental point of view, what is the risk when the government or a company is too dependent on influencers, and when is it reasonable to use them?
 
 **Rafizi:** That's a personal choice, this influencer thing. We live in a digital world. In the past people paid for newspapers for advertising, billboards — and there are still billboards now, right — but actually the most time people spend nowadays is on screens. So businesses really can't avoid advertising. It's just, what kind of advertising, what kind of food reviewer, what kind of influencer — that's the question.
 
@@ -635,7 +635,7 @@ Something we do, for example a business, it will only last if its reputation is 
 
 So that's really my discipline in whatever I do — meaning, you have to build your own strength and your own asset. We do need to use digital marketing for our marketing, but digital marketing is only a medium for us to convey our strengths. We need to have the strength first. But if there is, for example, a paid food reviewer or influencer, and the thing isn't actually tasty but is said to be tasty forever — then consumers need to be careful, need to be careful.
 
-**Razal:** Alright, YB, the last question from the Village Head of Springfield — oh wait, hold on, don't leave yet, there's a second question. What's the risk? Second question: what's the risk when the government or a company becomes too dependent on influencers?
+**Haziq:** Alright, YB, the last question from the Village Head of Springfield — oh wait, hold on, don't leave yet, there's a second question. What's the risk? Second question: what's the risk when the government or a company becomes too dependent on influencers?
 
 **Rafizi:** You pay — and when I was in the ministry, actually this is expensive, right? RM80,000, RM100,000 for a KOL — that's what they call it, KOL. There are cheap ones, but the cheap ones have very small [reach]. I saw it, and I think we should stop. Where we can stop, we stop. That's why, if you look at the Ministry of Economy, some people ask, "Why don't you do it like this minister, like that minister?" People don't know — if you follow a certain way, they really do look impressive, but they pay RM100,000. Why doesn't it come out there? Why doesn't it come out here? People always ask, right, why don't you appear on TV? Eh, you think it's free? You have to pay. So we're the ones who think, "Razal, hey, this is public money, do I want to pay RM200,000?" — never mind, I'll just do my own TikTok, for example, Razal becomes an influencer.
 
@@ -643,22 +643,22 @@ That's a cost to the government, because it's expensive — RM80,000 per video. 
 
 So that's the danger of being too dependent on influencers. The best approach is, like I said earlier, let it be — if a minister wants to convey something, let that strength come from ourselves. If people are already sick of looking at you, that's your bad luck. So what needs to be focused on is how to improve the situation so the policy is better, and our delivery is better. Okay, clear maybe?
 
-**Razal:** Sontrahi — greetings, YB, some friends from Gapeta have expressed disappointment. The administrative assistant scheme hasn't been reviewed in a long time, even though there have already been several meetings with PMX. This scheme is far behind compared to other schemes — QPEX has also repeatedly pushed for it.
+**Haziq:** Sontrahi — greetings, YB, some friends from Gapeta have expressed disappointment. The administrative assistant scheme hasn't been reviewed in a long time, even though there have already been several meetings with PMX. This scheme is far behind compared to other schemes — QPEX has also repeatedly pushed for it.
 
 **Rafizi:** This one I find hard to comment on, because I'm not involved and don't know much about it. Because in the government — the issue of salary schemes, public administration, all of these are under the Prime Minister's office, because it's administered by the Public Service Department, JPA, under the PM. And another thing, the issue of salary increases — all of these are related to Finance, the Ministry of Finance, also under the PM. And I and the PM are like husband and wife now, right — so even if I mention it, he doesn't care.
 
 So I suggest, maybe talk to Tengku Zafrul — he's on good terms with the PM now, maybe it will reach the PM.
 
-**Razal:** Do we still have time?
+**Haziq:** Do we still have time?
 
 **Rafizi:** We do.
 
-**Razal:** Okay. That's it for this session. Alright, that's all. Alhamdulillah, a record tonight, right.
+**Haziq:** Okay. That's it for this session. Alright, that's all. Alhamdulillah, a record tonight, right.
 
 **Rafizi:** Yes, what time is it? 2 hours 50 minutes? Oh my God. How am I going to manage tomorrow? I need to prepare nasi lemak.
 
-**Razal:** But we have to start at 7 o'clock too, right?
+**Haziq:** But we have to start at 7 o'clock too, right?
 
 **Rafizi:** Yes.
 
-**Razal:** Thank you to Belkerf for hosting our podcast tonight. It's been mentioned many times — Belkerf. Tonight is Belkerf. That's all. See you next week. Assalamualaikum. Good night.
+**Haziq:** Thank you to Belkerf for hosting our podcast tonight. It's been mentioned many times — Belkerf. Tonight is Belkerf. That's all. See you next week. Assalamualaikum. Good night.
