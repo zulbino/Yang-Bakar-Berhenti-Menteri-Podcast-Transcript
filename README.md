@@ -54,7 +54,7 @@ All four files share the same YAML frontmatter (title, video ID, YouTube URL, pu
 
 An AI model produced these transcripts and rewrites by listening to the source audio. Every episode is audited automatically (see below), and I listened to the original recording wherever a passage needed a human decision: a disputed speaker label, content that looked like it was missing, an unusual name. **I have not verified any episode line by line**, so errors, mishearings and misattributed speaker turns are still possible, especially during cross-talk. Code-switching between Bahasa Melayu and English is preserved rather than translated. Treat `raw.md` as the closer-to-source reference, and `interview.md` as an editorial rewrite built on top of it.
 
-For episodes transcribed with the local ASR fallback (see [ARCHITECTURE.md](ARCHITECTURE.md#known-limitations)), the `raw.md` speaker labels come from a separate acoustic diarization pass with pyannote.audio rather than from Gemini's own diarization. They start as anonymous "Speaker N" labels, and I map them to real names by hand during review, the same as I do with Gemini's generic labels. Treat the labels on any episode I have not reviewed yet as unverified, particularly during fast multi-speaker exchanges.
+For episodes transcribed with the local ASR fallback (see [ARCHITECTURE.md](ARCHITECTURE.md#known-limitations)), the `raw.md` speaker labels come from a separate acoustic diarization pass with pyannote.audio rather than from Gemini's own diarization. They start as anonymous "Speaker N" labels, and I map them to real names by hand during review, the same as I do with Gemini's generic labels. Treat the labels on any episode I haven't reviewed yet as unverified, particularly during fast multi-speaker exchanges.
 
 `python scripts/qa_check.py` audits every episode for the failure signatures I know about: truncated rewrites, hallucinated timestamps, leaked model reasoning, content dropped from the middle of an episode, and more. It writes the results to `QA_CHECKLIST.md`. Run it after any batch, and read the output instead of trusting the exit code. Several of these failures produce no error and no non-zero exit, only corrupted or truncated file content. A clean row means no *known* signature fired, and not that I have verified the episode. Two episodes read as clean for months while missing 41% and 80% of their content, until I added checks for those signatures.
 
@@ -62,13 +62,13 @@ Proper nouns from the local ASR engine are not yet checked against a reference d
 
 ## License and disclaimer
 
-I have put the pipeline code in this repo, everything under `scripts/`, into the public domain under [CC0 1.0](LICENSE). You need no permission and owe no attribution to use, modify or redistribute it.
+I've put the pipeline code in this repo, everything under `scripts/`, into the public domain under [CC0 1.0](LICENSE). You need no permission and owe no attribution to use, modify or redistribute it.
 
-That covers my own code. The pipeline depends on models and tools with their own terms, and two of those terms apply to anyone who re-runs it: Meta's MMS forced aligner is **CC-BY-NC 4.0, non-commercial only**, and the WeSpeaker embedding model is CC-BY-4.0 and requires attribution. Reusing the finished transcripts is unaffected, because that does not involve the models. [CREDITS.md](CREDITS.md) has the full list, the citations the authors ask for, and the work this project depends on.
+That covers my own code. The pipeline depends on models and tools with their own terms, and two of those terms apply to anyone who re-runs it: Meta's MMS forced aligner is **CC-BY-NC 4.0, non-commercial only**, and the WeSpeaker embedding model is CC-BY-4.0 and requires attribution. Reusing the finished transcripts is unaffected, because that doesn't involve the models. [CREDITS.md](CREDITS.md) has the full list, the citations the authors ask for, and the work this project depends on.
 
 The episode transcripts under `episodes/` are transcriptions and translations of Rafizi Ramli's own podcast, taken from his public YouTube channel. I place no restrictions of my own on reusing them: no permission needed, no credit required. The underlying spoken content, meaning the show itself and anything Rafizi Ramli or his guests said, belongs to them and not to me, and nothing here changes that. Use this archive for research, reporting, or building your own tools on top of it. Please raise any dispute about the underlying content with the original creators rather than with this repo.
 
-I am not affiliated with Rafizi Ramli, his office, or the *Yang Bakar Menteri* / *Yang Berhenti Menteri* production.
+I'm not affiliated with Rafizi Ramli, his office, or the *Yang Bakar Menteri* / *Yang Berhenti Menteri* production.
 
 ## Reproducing this
 
