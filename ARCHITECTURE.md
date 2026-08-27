@@ -423,6 +423,15 @@ rewrite/translate/metadata stage.
     wall-of-text check has no way to tell "one long real monologue" from
     "several turns merged" short of this kind of manual read, so expect it
     to keep firing here on every future `qa_check.py` run.
+  - **ep43 (REVIEWED 2026-08-27, Type C confirmed via deep-probe, no fix
+    needed)**: flagged for both wall-of-text (one 23,596-char block, single
+    speaker label throughout, same non-bug shape as ep41/ep44/ep58) and
+    `check_timestamp_drift.py` (466s max drift, 11/12 matched). Re-ran
+    `_deep_drift_probe.py` directly: drift bounces between +1s and +399s
+    with no sustained trend or growth (+384, +66, +17, +399, +282, +1, +220,
+    +204, +32, +20 across the episode) -- scattered false-positive matches
+    on topically-similar content, not real displacement, matching last
+    night's original Type C classification.
 - **Fix:** for `check_timestamp_drift.py`, constrained the search to a ±20-minute
   window around each block's own claimed timestamp: genuine large-scale
   displacement (whole sections off by an hour or more) now shows up as "not found
