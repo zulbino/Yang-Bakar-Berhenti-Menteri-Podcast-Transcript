@@ -1792,3 +1792,64 @@ entry at all** -- it converts an open question into a settled answer and stops
 anyone looking again. The ep48 waiver was written from the transcript alone, for
 a claim only the audio could settle. Suppress on evidence from outside the
 artifact under review, or do not suppress.
+
+### 1.26: Restoring four episodes, and when a speaker label is worse than none
+
+- **2026-08-27.** ep00, ep26, ep45 and ep48 were all victims of the same
+  unguarded continuation loop (1.22). Between them they were missing about three
+  hours of audio. All four are now restored and the loop is guarded.
+- **The method, in the order that matters.** 1.24's lesson was to content-align
+  before cutting audio; `scripts/_align_blocks.py` does it, mapping every block
+  to its true audio start by head-phrase matching against the whole caption. Run
+  it *first*, every time. It is what showed that ep48's "missing" finale was not
+  missing at all -- it was sitting in `raw.md` displaced by 2,384s -- and that
+  ep26's blocks were not merely shifted but out of order.
+- **Splice, don't redo.** `scripts/_splice_gap.py` keeps the verified head and
+  tail verbatim and replaces only the damaged middle. ep48 kept 349 of its
+  original blocks, ep00 kept 45 plus its outro, ep26 kept 93. Everything kept
+  retains its hand-reviewed speaker labels, which a wholesale redo would have
+  destroyed -- the failure recorded for ep25 in an earlier session.
+
+**Naming new speakers from old labels.** The clip is cut to start several hundred
+seconds *before* the loss, so its opening turns overlap audio whose speaker is
+already known. Two rules make this work:
+
+1. **Match by text, not by timestamp.** `raw.md` can run 16s ahead of true audio,
+   and turns are often shorter than that, so "who was speaking at time t" votes
+   incoherently. Trigram overlap between new turns and verified ones does not
+   care what the timestamps say. On ep48 this took a 3-3 tie to unanimous.
+2. **When votes are thin, corroborate with the speaking pattern.** ep00's blocks
+   are few and huge, leaving only five verified turns to vote with. The pattern
+   settled it: the verified region runs Rafizi 88.1% in 22 long turns against
+   Haziq 11.9% in 23 short ones, and the new region runs Speaker 1 at 92.6% in 18
+   long turns against Speaker 2 at 4.5% in 16 short ones. ep26 matched too
+   (77/23 against 97/3). A guest answering at length and a host asking briefly is
+   a shape that survives re-transcription.
+
+**ep45 got no labels, deliberately.** Its diarization collapsed the whole panel
+into one cluster holding 98.8% of the text, with the host's intro and Rafizi's
+reply inside a single turn (*"...bersama saya dan saudara Rafizi Ramli.
+Waalaikumsalam Salam sejahtera Esok demo"*). Mapping that cluster to a name would
+have asserted that Rafizi said things the host said, across a three-hour episode.
+The `Speaker N` labels were stripped instead, restoring the unlabelled form the
+file already had. **A confident wrong label is worse than an honest absent one**:
+absent labels advertise the gap, wrong ones get trusted, quoted, and propagated
+into `interview*.md`. This is the same principle as 1.25's wrong waiver, one
+layer down.
+
+**Known limitation of restored stretches.** Local ASR's turns are far coarser
+than Gemini's -- ep26's new region averages 3,088 chars per turn against 227 in
+its verified region -- so some host questions are absorbed into long answers.
+That is the 1.11 coarse-VAD artifact, accepted here because the alternative was
+65 minutes of nothing. Two spots in ep48 also need an ear: forced alignment split
+one sentence across speakers at `[2:29:42]` and `[2:42:09]`, left as-is rather
+than hand-adjusted.
+
+**Also settled**: ep00's `Rashidi bin Haji Bandar Ahmad`, carried for several
+sessions as a suspected invention, is real -- the man introduces himself on the
+audio. ep00 is a town-hall, and its small diarization clusters are audience
+questioners, labelled `Audience` per the file's existing convention.
+
+**Corpus inconsistency worth fixing later**: ep26 writes `[Rafizi]:` and
+`[00:02:51]` where the rest of the corpus writes `Rafizi:` and `[2:51]`. The
+splice preserved ep26's local convention rather than mixing two inside one file.

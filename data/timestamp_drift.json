@@ -1982,21 +1982,61 @@
   },
   "2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih": {
     "status": "ok",
-    "samples_matched": 2,
-    "samples_not_found_nearby": 10,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 845,
-    "flagged": true,
+    "max_drift_seconds": 17,
+    "flagged": false,
     "details": [
       {
-        "claimed": 121,
-        "actual": 108,
+        "claimed": 44,
+        "actual": 44,
+        "drift": 0
+      },
+      {
+        "claimed": 1070,
+        "actual": 1065,
+        "drift": -5
+      },
+      {
+        "claimed": 2002,
+        "actual": 1991,
+        "drift": -11
+      },
+      {
+        "claimed": 2904,
+        "actual": 2888,
+        "drift": -16
+      },
+      {
+        "claimed": 4228,
+        "actual": 4211,
+        "drift": -17
+      },
+      {
+        "claimed": 4494,
+        "actual": 4484,
+        "drift": -10
+      },
+      {
+        "claimed": 6147,
+        "actual": 6134,
         "drift": -13
       },
       {
-        "claimed": 1254,
-        "actual": 409,
-        "drift": -845
+        "claimed": 6886,
+        "actual": 6876,
+        "drift": -10
+      },
+      {
+        "claimed": 9381,
+        "actual": 9366,
+        "drift": -15
+      },
+      {
+        "claimed": 10215,
+        "actual": 10202,
+        "drift": -13
       }
     ]
   },

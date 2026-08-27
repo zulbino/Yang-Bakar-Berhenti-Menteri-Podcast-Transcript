@@ -11,14 +11,8 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 ## Flagged episodes
 
 - [ ] **2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih**
-  - raw.md timestamp drops backward (755 jump(s), first from 6662s to 671s at '[11:11] Hmm.') -- likely a hard reset, block reorder, or digit typo, see ARCHITECTURE.md 1.16
-  - raw.md is missing content from the middle (68802s unexplained across 2 gap(s), 643% of the episode; worst is 68395s at 8326s -> 76735s) -- gaps too large for the text at their start, see ARCHITECTURE.md 1.17
-  - raw.md has 1028 duplicate block(s) repeated verbatim at different timestamps (135438 chars, 78% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
-  - interview.md looks truncated (ratio 0.34 vs raw.md, expected >= 0.35)
-  - interview-en.md looks truncated (ratio 0.24 vs raw.md, expected >= 0.35)
-  - interview-ms.md looks truncated (ratio 0.28 vs raw.md, expected >= 0.35)
-  - check_timestamp_drift.py flagged timestamp mistiming (max drift 845s, 2/12 caption samples matched)
-  - models: interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
+  - interview-en.md looks truncated (ratio 0.32 vs raw.md, expected >= 0.35)
+  - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 
 ## Clean episodes
 

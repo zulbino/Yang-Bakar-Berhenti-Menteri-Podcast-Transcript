@@ -348,10 +348,13 @@
     "flagged": false
   },
   "2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih": {
-    "status": "inconclusive",
-    "baseline": 0.0,
-    "mean_coverage": 0.026,
-    "caption_end": 10668
+    "status": "ok",
+    "baseline": 0.247,
+    "mean_coverage": 0.247,
+    "caption_end": 10668,
+    "dead_runs": [],
+    "worst_dead_run_seconds": 0,
+    "flagged": false
   },
   "2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r": {
     "status": "ok",
