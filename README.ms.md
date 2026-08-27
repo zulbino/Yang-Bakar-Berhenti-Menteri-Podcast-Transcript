@@ -31,7 +31,8 @@ episodes/
 data/
 └── manifest.json                        # indeks episod (metadata sahaja, tiada teks transkrip)
 scripts/                                 # kod pipeline, lihat ARCHITECTURE.md
-ARCHITECTURE.md                          # gambar rajah pipeline, sejarah penilaian model
+ARCHITECTURE.md                          # teknologi: persediaan, arahan, pengesahan
+ENGINEERING_LOG.md                       # setiap kegagalan, puncanya dan pembetulannya
 QA_CHECKLIST.md                          # dijana oleh scripts/qa_check.py
 ```
 
@@ -64,50 +65,10 @@ Transkrip episod di bawah `episodes/` merupakan transkripsi dan terjemahan podca
 
 Arkib ini tiada kaitan rasmi dengan Rafizi Ramli, pejabatnya, atau produksi *Yang Bakar Menteri* / *Yang Berhenti Menteri*.
 
-## Aliran kerja (Pipeline)
+## Menghasilkan semula arkib ini
 
-Memerlukan pembolehubah persekitaran `GEMINI_API_KEY`, Python 3, Node.js, dan ffmpeg. Dua alternatif menampung situasi di mana Gemini tidak tersedia atau tidak mampu mengendalikan sesuatu panggilan (lihat [ARCHITECTURE.md](ARCHITECTURE.md) untuk bila dan sebabnya): model ASR tempatan untuk peringkat transkripsi mentah, dan CLI `claude` untuk peringkat tulisan semula.
-
-Audio setiap episod dimuat turun daripada YouTube, dimuat naik ke Gemini sebagai fail audio berasingan, dan ditranskrip dalam satu laluan, selesa dalam had output 65k-token Gemini walaupun untuk episod terpanjang (~3.5 jam). Transkrip mentah kemudian melalui laluan tulisan semula/terjemahan berasingan (campuran, Inggeris, Melayu) sebagai teks biasa. Merujuk terus kepada URL YouTube (tanpa muat turun dahulu) pernah dicuba dan ditinggalkan: Gemini memuatkan keseluruhan video pada kadar token sesaat yang jauh lebih tinggi tanpa mengira sebarang offset yang diberikan, yang melebihi had input 1,048,576-token untuk apa-apa yang melebihi kira-kira sejam.
-
-### Persediaan sekali sahaja
-
-YouTube menyekat kebanyakan kombinasi client/format `yt-dlp` di sebalik token PO, penstriman khas SABR, atau DRM. Kombinasi yang berfungsi: client `web_embedded`, pelayan token PO yang dijalankan secara tempatan, dan Node.js untuk menyelesaikan cabaran JS.
-
-```bash
-pip install -r requirements.txt
-
-# Bina pelayan token PO sekali sahaja
-git clone https://github.com/Brainicism/bgutil-ytdlp-pot-provider ~/bgutil-ytdlp-pot-provider
-cd ~/bgutil-ytdlp-pot-provider/server && npm ci && npx tsc
-
-# ffmpeg diperlukan untuk menyusun semula fragmen audio DASH mentah yt-dlp
-# menjadi bekas (container) yang sah; tanpanya, Files API Gemini akan menolak muat naik terus.
-winget install Gyan.FFmpeg
-```
-
-`scripts/yt_download.py` memulakan pelayan token PO secara automatik jika ia belum berjalan, dan menghantar `--ffmpeg-location` secara eksplisit (kembali ke laluan pemasangan winget jika `ffmpeg` tiada dalam `PATH`).
-
-Muat naik juga perlu memaksa jenis mime kepada `audio/mp4`: SDK mengesan fail `.m4a` secara automatik sebagai `video/m4a`, yang gagal diproses secara senyap oleh backend Gemini (tiada trek video). `upload_audio()` dalam `scripts/lib_gemini.py` mengendalikan perkara ini.
-
-### Menjalankan
-
-```bash
-# Kemas kini semula indeks episod daripada playlist (episod >= 1 jam sahaja)
-python scripts/build_manifest.py
-
-# Proses satu episod
-python scripts/transcribe_episode.py <video_id>
-
-# Proses semua yang belum selesai, episod terlama dahulu (atau berikan ID video tertentu)
-python scripts/batch_process.py
-
-# Sama, tetapi transkripsi mentah melalui ASR tempatan dan bukan Gemini (lihat ARCHITECTURE.md)
-python scripts/batch_process.py --engine local
-
-# Sama, tetapi peringkat tulisan semula/terjemahan/metadata melalui CLI claude dan bukan Gemini
-python scripts/batch_process.py --rewrite-engine claude
-
-# Audit setiap episod untuk kesan kegagalan yang diketahui, menulis QA_CHECKLIST.md
-python scripts/qa_check.py
-```
+Keseluruhan pipeline ada dalam `scripts/`, dan segala yang diperlukan untuk
+menjalankannya -- teknologi yang digunakan, persediaan sekali sahaja, arahan, dan cara
+hasilnya disahkan -- ada dalam [ARCHITECTURE.md](ARCHITECTURE.md) (dalam Bahasa
+Inggeris). Setiap kegagalan yang membentuk pipeline ini direkodkan dalam
+[ENGINEERING_LOG.md](ENGINEERING_LOG.md) (dalam Bahasa Inggeris).
