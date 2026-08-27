@@ -1113,11 +1113,11 @@
   },
   "2026-01-23-ep32-sekolah-banyak-markah-jatuh-rpm-rptm-2026-2035-realiti-pendi": {
     "status": "ok",
-    "samples_matched": 8,
-    "samples_not_found_nearby": 4,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 593,
-    "flagged": true,
+    "max_drift_seconds": 101,
+    "flagged": false,
     "details": [
       {
         "claimed": 158,
@@ -1150,14 +1150,24 @@
         "drift": -9
       },
       {
-        "claimed": 5056,
-        "actual": 4463,
-        "drift": -593
+        "claimed": 7456,
+        "actual": 7482,
+        "drift": 26
       },
       {
-        "claimed": 6367,
-        "actual": 5899,
-        "drift": -468
+        "claimed": 8767,
+        "actual": 8817,
+        "drift": 50
+      },
+      {
+        "claimed": 9611,
+        "actual": 9609,
+        "drift": -2
+      },
+      {
+        "claimed": 10024,
+        "actual": 10014,
+        "drift": -10
       }
     ]
   },
