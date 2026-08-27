@@ -32,6 +32,12 @@ Checks per episode:
     chance (catches a raw.md that is a fabricated summary outline rather than a
     transcript, see ARCHITECTURE.md 1.18)
 
+Adjudicated verdicts live in data/qa_reviewed.json, keyed by episode slug and
+signature name. This file is regenerated from scratch on every run, so its
+checkboxes cannot hold review state -- without that ledger, every session
+re-investigates the same already-resolved episodes and the flagged count never
+moves. See ARCHITECTURE.md 1.21.
+
 Usage:
   python scripts/qa_check.py            # writes QA_CHECKLIST.md
 """
@@ -46,6 +52,7 @@ ROOT = Path(__file__).resolve().parent.parent
 EPISODES_DIR = ROOT / "episodes"
 MANIFEST_PATH = ROOT / "data" / "manifest.json"
 DRIFT_PATH = ROOT / "data" / "timestamp_drift.json"
+REVIEWED_PATH = ROOT / "data" / "qa_reviewed.json"
 OUT_PATH = ROOT / "QA_CHECKLIST.md"
 
 TIMESTAMP_RE = re.compile(r"\[(?:(\d+):)?(\d+):(\d+)\]")
@@ -54,6 +61,17 @@ FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 MIN_COVERAGE_PCT = 95
 MAX_COVERAGE_PCT = 150
 MAX_BLOCK_CHARS = 20_000  # a single real speaker turn is never this long
+
+# 1.11's objective test for whether an oversized block is a real defect, applied
+# here instead of being left to prose. The bug this check was written for is
+# MERGED TURNS -- paragraph breaks lost, so several speakers' turns run together.
+# A block that merged turns still contains their inline "[MM:SS] Speaker:"
+# markers, so counting them separates the two cases:
+#   1 marker  -> one genuine long monologue (the coarse-VAD-merge artifact). Not
+#                a defect; ep41/ep43/ep44/ep58 were all reclassified this way in
+#                earlier sessions, yet kept being re-flagged every run.
+#   2+        -> turns really were merged. Still a defect.
+INLINE_TURN_RE = re.compile(r"\[(?:\d+:)?\d+:\d+\]\s*[^:\n]{1,40}:")
 MIN_INTERVIEW_RATIO = 0.35  # interview.md chars / raw.md chars, calibrated against known-good episodes (0.74-0.93)
 
 # Signature of a specific failure mode: the model gets stuck second-guessing its
@@ -207,6 +225,15 @@ ROUND_TIMESTAMP_MIN_SAMPLES = 20
 # even when the density/ratio checks above don't catch anything.
 WEAK_MODELS = set(MODEL_FALLBACK_CHAIN[6:])
 
+# check_timestamp_drift.py is a sampling heuristic with a documented search-radius
+# limitation (1.11), so a small reported drift is not evidence of a defect. The
+# corpus splits cleanly: two episodes report 8s and 22s of drift on 1.5-2.7 hour
+# recordings -- within caption-alignment noise, and not actionable at any effort
+# level -- while every other flagged episode reports 325s or more. Flagging the
+# trivial pair alongside genuine 5-18 minute displacements made the checklist read
+# as 12 problems when it holds 10.
+MIN_ACTIONABLE_DRIFT_SECONDS = 60
+
 
 def last_timestamp_seconds(text):
     matches = TIMESTAMP_RE.findall(text)
@@ -340,27 +367,28 @@ def check_episode(ep_dir):
     if raw_model_match:
         models["raw.md"] = raw_model_match.group(1)
         if models["raw.md"] in WEAK_MODELS:
-            issues.append(f"raw.md produced by weaker fallback model {models['raw.md']} -- verify content quality closely")
+            issues.append(("weak-model", f"raw.md produced by weaker fallback model {models['raw.md']} -- verify content quality closely"))
 
     if duration:
         covered = last_timestamp_seconds(body)
         if covered is None:
-            issues.append("no timestamps found in raw.md")
+            issues.append(("coverage", "no timestamps found in raw.md"))
         else:
             pct = covered / duration * 100
             if pct < MIN_COVERAGE_PCT:
-                issues.append(f"raw.md timestamp coverage only {pct:.0f}% (last ts {covered}s of {duration}s)")
+                issues.append(("coverage", f"raw.md timestamp coverage only {pct:.0f}% (last ts {covered}s of {duration}s)"))
             elif pct > MAX_COVERAGE_PCT:
-                issues.append(f"raw.md timestamp coverage {pct:.0f}% -- likely hallucinated runaway timestamps")
+                issues.append(("coverage", f"raw.md timestamp coverage {pct:.0f}% -- likely hallucinated runaway timestamps"))
 
     jumps = backward_timestamp_jumps(body)
     if jumps:
         prev_max, ts, sample = jumps[0]
-        issues.append(
+        issues.append((
+            "backward-jump",
             f"raw.md timestamp drops backward ({len(jumps)} jump(s), first from "
             f"{prev_max}s to {ts}s at {sample!r}) -- likely a hard reset, block "
-            "reorder, or digit typo, see ARCHITECTURE.md 1.16"
-        )
+            "reorder, or digit typo, see ARCHITECTURE.md 1.16",
+        ))
 
     if duration:
         holes = lost_content_holes(body)
@@ -368,85 +396,97 @@ def check_episode(ep_dir):
         pct = lost / duration * 100
         if pct >= MAX_LOST_CONTENT_PCT:
             worst, ts, next_ts = max(holes)
-            issues.append(
+            issues.append((
+                "content-loss",
                 f"raw.md is missing content from the middle ({lost}s unexplained across "
                 f"{len(holes)} gap(s), {pct:.0f}% of the episode; worst is {worst}s at "
                 f"{ts}s -> {next_ts}s) -- gaps too large for the text at their start, "
-                "see ARCHITECTURE.md 1.17"
-            )
+                "see ARCHITECTURE.md 1.17",
+            ))
 
     round_pct, n_stamps = round_timestamp_pct(body)
     if round_pct is not None and round_pct >= ROUND_TIMESTAMP_PCT_THRESHOLD:
-        issues.append(
+        issues.append((
+            "round-timestamps",
             f"raw.md has {round_pct:.0f}% of its {n_stamps} timestamps on round :00 "
             "seconds -- timing was invented, not measured, so this file is likely a "
-            "fabricated summary outline rather than a transcript, see ARCHITECTURE.md 1.18"
-        )
+            "fabricated summary outline rather than a transcript, see ARCHITECTURE.md 1.18",
+        ))
 
     blocks = body.split("\n\n")
-    max_block = max((len(b) for b in blocks), default=0)
-    if max_block > MAX_BLOCK_CHARS:
-        issues.append(f"raw.md has a {max_block}-char block with no paragraph breaks (wall-of-text)")
+    biggest = max(blocks, key=len, default="")
+    max_block = len(biggest)
+    n_turns = len(INLINE_TURN_RE.findall(biggest))
+    if max_block > MAX_BLOCK_CHARS and n_turns > 1:
+        issues.append((
+            "wall-of-text",
+            f"raw.md has a {max_block}-char block containing {n_turns} inline turn "
+            "markers -- turns merged, paragraph breaks lost",
+        ))
 
     rep_spans = repetition_loops(body)
     if rep_spans:
         total_span, sample = max(rep_spans, key=lambda x: x[0])
-        issues.append(
+        issues.append((
+            "repetition-loop",
             f"raw.md has a repetition-loop degeneration ({total_span} chars repeating "
-            f"{sample[:60]!r}...) -- model got stuck re-emitting the same short phrase"
-        )
+            f"{sample[:60]!r}...) -- model got stuck re-emitting the same short phrase",
+        ))
 
     short_loops = short_block_loops(body)
     if short_loops:
         run_len, run_chars, sample = max(short_loops, key=lambda x: x[1])
-        issues.append(
+        issues.append((
+            "short-loop",
             f"raw.md has {run_len} consecutive near-identical short blocks "
             f"({run_chars} chars total, e.g. {sample[:40]!r}) -- likely a "
-            "distributed repetition-loop degeneration, not real content"
-        )
+            "distributed repetition-loop degeneration, not real content",
+        ))
 
     dup_count, dup_chars = duplicate_blocks(body)
     if dup_count:
         pct = dup_chars / len(raw_text) * 100 if raw_text else 0
-        issues.append(
+        issues.append((
+            "duplicates",
             f"raw.md has {dup_count} duplicate block(s) repeated verbatim at different "
             f"timestamps ({dup_chars} chars, {pct:.0f}% of raw.md) -- likely a "
-            "continuation-loop hallucination, not a transcription error"
-        )
+            "continuation-loop hallucination, not a transcription error",
+        ))
 
     if LEAKED_REASONING_RE.search(body) or BACKTICK_TIMESTAMP_RE.search(body):
-        issues.append("raw.md appears to contain leaked model reasoning/meta-commentary instead of transcript content")
+        issues.append(("leaked-reasoning", "raw.md appears to contain leaked model reasoning/meta-commentary instead of transcript content"))
 
     split_count = len(SPLIT_TIMESTAMP_RE.findall(body))
     if split_count:
-        issues.append(f"raw.md has {split_count} turn(s) with '[MM:SS]' and 'Speaker: text' split across two lines instead of one")
+        issues.append(("split-timestamp", f"raw.md has {split_count} turn(s) with '[MM:SS]' and 'Speaker: text' split across two lines instead of one"))
 
     raw_len = len(raw_text)
     for name in ("interview.md", "interview-en.md", "interview-ms.md"):
         path = ep_dir / name
         if not path.exists():
-            issues.append(f"missing {name}")
+            issues.append(("missing-file", f"missing {name}"))
             continue
         interview_text = path.read_text(encoding="utf-8")
         ratio = len(interview_text) / raw_len if raw_len else 0
         if ratio < MIN_INTERVIEW_RATIO:
-            issues.append(f"{name} looks truncated (ratio {ratio:.2f} vs raw.md, expected >= {MIN_INTERVIEW_RATIO})")
+            issues.append(("truncated", f"{name} looks truncated (ratio {ratio:.2f} vs raw.md, expected >= {MIN_INTERVIEW_RATIO})"))
 
         model_match = MODEL_RE.search(interview_text)
         if model_match:
             models[name] = model_match.group(1)
             if models[name] in WEAK_MODELS:
-                issues.append(f"{name} produced by weaker fallback model {models[name]} -- verify content quality closely")
+                issues.append(("weak-model", f"{name} produced by weaker fallback model {models[name]} -- verify content quality closely"))
 
         lang_match = re.search(r"^language:\s*(\S+)", interview_text, re.M)
         language = lang_match.group(1) if lang_match else None
         if language in ("mixed", "ms"):
             density = malay_density(interview_text)
             if density < MIN_MALAY_DENSITY:
-                issues.append(
+                issues.append((
+                    "language",
                     f"{name} claims language: {language} but reads as English-only "
-                    f"(Malay-marker density {density:.2f}/1000 chars, expected >= {MIN_MALAY_DENSITY})"
-                )
+                    f"(Malay-marker density {density:.2f}/1000 chars, expected >= {MIN_MALAY_DENSITY})",
+                ))
 
     return issues, models
 
@@ -467,12 +507,15 @@ def main():
         for slug, drift in drift_data.items():
             if not drift.get("flagged") or slug not in results:
                 continue
+            if (drift.get("max_drift_seconds") or 0) < MIN_ACTIONABLE_DRIFT_SECONDS:
+                continue
             issues, models = results[slug]
-            issues.append(
+            issues.append((
+                "drift",
                 f"check_timestamp_drift.py flagged timestamp mistiming "
                 f"(max drift {drift.get('max_drift_seconds', '?')}s, "
-                f"{drift.get('samples_matched', '?')}/{drift.get('samples_total', '?')} caption samples matched)"
-            )
+                f"{drift.get('samples_matched', '?')}/{drift.get('samples_total', '?')} caption samples matched)",
+            ))
             results[slug] = (issues, models)
 
     manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
@@ -480,7 +523,31 @@ def main():
         (episode_slug(ep), ep["title"]) for ep in manifest if episode_slug(ep) not in results
     )
 
+    reviewed = {}
+    if REVIEWED_PATH.exists():
+        reviewed = {k: v for k, v in
+                    json.loads(REVIEWED_PATH.read_text(encoding="utf-8")).items()
+                    if not k.startswith("_")}
+
+    # An adjudicated signature moves out of the flagged list. Without this,
+    # QA_CHECKLIST.md is regenerated from scratch every run and its checkboxes
+    # cannot hold review state, so every session re-investigates the same
+    # already-resolved episodes -- which is what kept the flagged count static.
     total = len(results)
+    benign = {}
+    for slug, (issues, models) in results.items():
+        verdicts = reviewed.get(slug, {})
+        keep, waived = [], []
+        for sig, text in issues:
+            entry = verdicts.get(sig)
+            if entry and entry.get("verdict") == "benign":
+                waived.append((sig, text, entry.get("reason", ""), entry.get("date", "")))
+            else:
+                keep.append((sig, text))
+        results[slug] = (keep, models)
+        if waived:
+            benign[slug] = waived
+
     broken = {slug: result for slug, result in results.items() if result[0]}
 
     lines = [
@@ -488,6 +555,10 @@ def main():
         "",
         f"Generated by `scripts/qa_check.py`. {total - len(broken)}/{total} processed episodes clean, "
         f"{len(broken)} flagged, {len(unprocessed)} not yet processed.",
+        "",
+        f"{sum(len(v) for v in benign.values())} issue(s) across {len(benign)} episode(s) were "
+        "reviewed and judged benign -- see the section at the end, and "
+        "`data/qa_reviewed.json` for the rationale. Delete an entry there to re-flag it.",
         "",
         "Re-run after any reprocessing batch: `python scripts/qa_check.py`.",
         "",
@@ -500,7 +571,7 @@ def main():
         lines.append("")
         for slug, (issues, models) in broken.items():
             lines.append(f"- [ ] **{slug}**")
-            for issue in issues:
+            for _sig, issue in issues:
                 lines.append(f"  - {issue}")
             if models:
                 lines.append(f"  - {format_models(models)}")
@@ -522,7 +593,9 @@ def main():
     lines.append("")
 
     OUT_PATH.write_text("\n".join(lines), encoding="utf-8")
-    print(f"wrote {OUT_PATH} -- {len(broken)}/{total} flagged, {len(unprocessed)} not yet processed")
+    print(f"wrote {OUT_PATH} -- {len(broken)}/{total} flagged, "
+          f"{sum(len(v) for v in benign.values())} issue(s) waived as reviewed-benign, "
+          f"{len(unprocessed)} not yet processed")
 
 
 if __name__ == "__main__":

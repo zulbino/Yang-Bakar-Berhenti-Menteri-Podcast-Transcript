@@ -692,12 +692,19 @@ rewrite/translate/metadata stage.
   section below, just via a different engine. Where verification is wanted
   without that risk: transcribe into a scratch file, not the real one, and
   cross-check timestamps/content against the existing `raw.md` (see 1.16).
-- **Update, 2026-08-27 afternoon: Gemini is walled again, same day.** The key
-  that had worked hours earlier returns `429 RESOURCE_EXHAUSTED: Your prepayment
-  credits are depleted` on every call. Treat "Gemini access restored" as true
-  only for the session that verified it -- the fresh-test-on-real-audio rule
-  caught this before any work was committed to a Gemini-dependent splice, which
-  is exactly what it is for.
+- **Update, 2026-08-27 afternoon: Gemini went walled, then a new key worked.**
+  Within one session the key that had worked hours earlier began returning
+  `429 RESOURCE_EXHAUSTED: Your prepayment credits are depleted` on every call,
+  and a freshly issued key then worked end-to-end on real audio upload
+  (`upload_audio` + `transcribe_raw` on a 133MB clip, model
+  `gemini-3.7-flash`). So access is per-key, not per-account-state, and it can
+  flip inside a single sitting. Two rules follow:
+  - Treat "Gemini access restored" as true only for the key and session that
+    verified it. The fresh-test-on-real-audio rule caught the wall before any
+    work was committed to a Gemini-dependent splice, which is what it is for.
+  - A trivial text call is still not sufficient evidence. The replacement key
+    passed a text call and then had to be re-verified on an actual audio upload
+    before being trusted.
 - **A second silent failure found while hitting that wall:**
   `verify_speakers.py` **exits 0 when every one of its Gemini calls fails.** All
   four samples returned 429, it wrote a `data/speaker_verification.json` full of
@@ -997,8 +1004,24 @@ rewrite/translate/metadata stage.
   - Sanity check that passed: Rafizi 89,879 chars vs Haziq 3,217 (29:1), matching
     Rafizi's own on-air remark that he had to do the talking because Haziq was
     ill and Pa'an was absent.
-- **Not fixed yet.** The splice from `[40:33]` onward, then `rewrite` and
-  `translate` re-run.
+- **Fixed 2026-08-27.** Spliced from `[40:33]` onward and `rewrite`/`translate`
+  re-run via Claude. raw.md went 46,389 -> 136,466 chars against ~151,000
+  expected for a 3h13m episode, the shortfall being the 2:38 of intro music and
+  natural pauses. ep35 now passes all three checks: off the QA flag list, off the
+  1.17 content-loss list, and the round-timestamp probe reports **zero** episodes
+  above threshold corpus-wide (ep35 was the only one, at 25%).
+- **One translation defect the splice exposed, worth knowing about.** "Ceplos" is
+  a coined term for a specific team of cybertroopers, so it is a named actor. The
+  English translate pass read it as *ceplas-ceplos* (Malay for blurting things
+  out) and rendered it four different generic ways across ~8 paragraphs -- "cheap
+  shots" x4, "outbursts" x3, "PKR sources", "blabbermouth" -- erasing the actor
+  from the English edition while `raw.md`, `interview.md` and `interview-ms.md`
+  all kept it correctly. So coined terms are vulnerable at **both** the
+  transcribe stage (Gemini normalising it INTO "cybertroopers") and the translate
+  stage (normalising it into a different generic category). Fixed with verified
+  targeted edits; each replacement had to share anchor words with a Malay
+  paragraph that used the term, so a generic phrase standing in for some other
+  word could not be swept up.
 
 ### 1.19: ep26's two duplicates, and why "needs audio" was the wrong call
 
@@ -1051,6 +1074,119 @@ rewrite/translate/metadata stage.
 - **Still open on ep26:** the remaining 2,990s gap between `[00:23:14]` and
   `[01:34:55]` (34% of runtime) is real missing content and needs
   re-transcription.
+
+### 1.20: The rewrite stage invents speakers out of mangled honorifics
+
+- **Found 2026-08-27**, after the user said they had never heard of a "Bobby" in
+  the podcast. The rewrite stage had given "Bobby" **246 labelled turns** across
+  ep04/ep19/ep22, and the metadata stage listed him as a host or guest in four
+  episodes. There is no Bobby. It is the ASR collapsing **"baik YB"** into one
+  token -- Haziq addressing Rafizi as YB while moving to the next segment, which
+  is why every occurrence sits at a segment transition.
+- **The detector: `scripts/_label_drift_audit.py`.** Any speaker label present in
+  `interview*.md` but absent from `raw.md`. It buckets results, because a first
+  version that did not flagged 63 of 67 episodes and was useless:
+  - `VARIANT` -- token subset either way ("Rafizi" / "Rafizi Ramli"). Ignored.
+  - `SPELLING` -- close but not identical ("Eric See-To" / "Eric Sito"). Real,
+    low severity, and what the proper-noun pass is for.
+  - `INVENTED` -- no relation to any raw.md speaker. Highest severity.
+  - `GENERIC` -- "Host", "Interviewer", and their Malay equivalents
+    (`Pewawancara`, `Penemuduga`, `Ko-hos`, `Klip petikan`). Without those in the
+    stop-list, translated placeholders read as invented person-names.
+- **The confirmed cases all share one root cause: a mangled honorific or a common
+  noun promoted to a speaker.** The rewrite appears to treat any unattributed
+  name-shaped token as a speaker label:
+
+  | Episode(s) | Invented label | Actually |
+  |---|---|---|
+  | ep04/19/22 | `Bobby` (246 turns) | "baik **YB**", spoken by Haziq |
+  | ep44 | `baby` x25 in text | **YB**; captions render it "babi" (= pig) |
+  | ep44 | `Aziz` | Haziq (raw.md `[01:16]` carries the line verbatim) |
+  | ep02 | `Abie` | Haziq |
+  | ep08 | `Zak` | Rafizi |
+  | ep22 | `Razal` | Haziq |
+  | ep27 | `Amy` | Farhan |
+  | ep00 | `Hakim` | the common noun *hakim* (judge), still unconfirmed |
+
+- **The three-stage propagation matters for how you fix it.** Each stage needs a
+  *different* repair, and a blanket rename is wrong:
+  - frontmatter `hosts`/`guests` -> **drop** the entry (no such person)
+  - frontmatter summary prose -> the real host's name
+  - speaker labels -> the real speaker
+  - dialogue mentions -> the honorific ("YB")
+  Renaming everything to "YB" would have written `hosts: - Rafizi - YB`.
+- **Verify each occurrence; the counts lie.** Two near-misses caught this way:
+  one ep44 "baby" is genuine English ("umur pertengahan 40 lebih tu kira masih
+  baby lah", about a politician's age), and an exclusion regex with a bare
+  unanchored `a` alternative matched "Beri**a** baby" as "a baby" and wrongly
+  protected it. In Malay, where many words end in 'a', unanchored single-letter
+  alternatives are actively dangerous.
+- **`raw.md` is not automatically authoritative either.** In ep04 and ep06 the
+  ASR was wrong and the rewrite *repaired* the name -- raw.md had "Chegubard"
+  where the audio says "ceplos", and "Cikgu Bard" where it says "Chegubard",
+  while all three interview files were already correct. So the rewrite stage both
+  corrupts names and corrects them depending on the case, and a proper-noun audit
+  has to compare all four files per episode rather than trusting either side.
+- **Cross-check against `data/manifest.json` before calling a name invented.**
+  Every episode's YouTube description is stored there and usually announces
+  guests. That check reclassified two of my own findings: `Dato' Syed Azwan` is a
+  real declared guest ("Dato' Syed Azuan ataupun lebih dikenali sebagai DSA"), and
+  `Dr Irwan Arifin` is declared in ep08's description. Both had been flagged only
+  because raw.md leaves those guests unlabelled. **Also watch the duplicate
+  episode numbers** -- the corpus has two ep05s across the two series, and I
+  initially audited the wrong one.
+- **Still open:** 19 invented labels across 16 episodes remain unverified, plus 3
+  spelling variants. ep00's `Hakim` and `Rashidi bin Haji Bandar Ahmad` need
+  audio; the rest need the same caption cross-check.
+
+### 1.21: The checklist could not shrink, because it had no memory
+
+- **Found 2026-08-27, from a fair challenge:** why does `QA_CHECKLIST.md` never go
+  down? At the time it held 15 flagged episodes. Categorising the flags answered it:
+  **11 of the 15 were flagged only by `drift` and/or `wall-of-text`** -- and both
+  had already been adjudicated as false positives in earlier sessions. The
+  2026-08-27 handoff says so explicitly: *"ep44 turned out to be a FALSE alarm...
+  same coarse-VAD-merge artifact as ep41... ep58, ep43: also confirmed non-bugs."*
+  They were still flagged.
+- **Root cause: `qa_check.py` fully overwrites `QA_CHECKLIST.md` on every run**,
+  emitting `- [ ]` for flagged and `- [x]` for clean. The checkboxes are therefore
+  decorative -- tick one after reviewing an episode and the next run erases it.
+  There was nowhere to record "reviewed, benign, because X". So every session
+  re-discovered and re-investigated the same resolved episodes, and the count
+  stayed pinned at 14-16 no matter how much real work happened. **The checks were
+  not too strict; they were amnesiac.** A verdict that lives only in prose is a
+  verdict the tool will keep asking about.
+- **Fix 1, a review ledger: `data/qa_reviewed.json`.** Episode slug -> signature
+  name -> `{verdict, reason, date}`. A `benign` verdict moves that issue out of the
+  flagged list into a "Reviewed, judged benign" section of the checklist, struck
+  through, with the rationale printed. Every issue now carries a stable signature
+  name (`drift`, `wall-of-text`, `content-loss`, `duplicates`, `backward-jump`,
+  `truncated`, `coverage`, `round-timestamps`, ...) so the ledger has something to
+  key on. Deleting an entry re-flags it; reprocessing an episode should clear its
+  entries so the new output is judged fresh. A suppression with no reason recorded
+  is worse than no suppression.
+- **Fix 2, automate 1.11's test instead of leaving it to prose.** The wall-of-text
+  check exists to catch MERGED TURNS -- lost paragraph breaks running several
+  speakers together. A block that merged turns still contains their inline
+  `[MM:SS] Speaker:` markers, so counting them separates the cases: one marker is a
+  genuine long monologue (the coarse-VAD-merge artifact, not a defect), two or more
+  means turns really were merged. This cleared ep58 outright and removed the flag
+  from ep41/ep43/ep44 with no manual suppression needed, which is strictly better
+  than a ledger entry -- the tool now reaches the same verdict a human did.
+- **Fix 3, a drift magnitude floor (`MIN_ACTIONABLE_DRIFT_SECONDS = 60`).**
+  `check_timestamp_drift.py` is a sampling heuristic with a documented
+  search-radius limitation (1.11), so small reported drift is not evidence of a
+  defect. The corpus splits cleanly: ep21 at 8s and ep05 at 22s on 1.5-2.7 hour
+  recordings -- within caption-alignment noise, not actionable at any effort level
+  -- against 325s to 1083s for every other flagged episode.
+- **Result: 15 -> 12 flagged, and the remaining 12 are all genuine open questions**
+  rather than re-litigation: 3 hard content defects (ep00, ep26, ep45) and 9
+  drift-only episodes needing one verification pass each. Because of the ledger,
+  each of those passes is now permanent.
+- **The wider lesson for this repo.** Adding a check is cheap and satisfying;
+  adding a check without a way to record its adjudication converts a one-off
+  investigation into a recurring tax. Any new signature should ship with a
+  signature name so the ledger can retire it.
 
 ### 2.1: Choosing a fallback provider
 
