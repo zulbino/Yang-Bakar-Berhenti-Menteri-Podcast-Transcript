@@ -22,6 +22,9 @@ Checks per episode:
     silently translating everything to English instead of preserving it)
   - cross-references data/manifest.json to list episodes with no episodes/
     folder yet (never run through the pipeline at all)
+  - raw.md's own printed timestamps never drop backward by more than 30s
+    (catches hard resets, block reorders, and digit typos -- free, no caption
+    or API needed, see ARCHITECTURE.md 1.16)
 
 Usage:
   python scripts/qa_check.py            # writes QA_CHECKLIST.md
@@ -128,6 +131,16 @@ SHORT_LOOP_MAX_CHARS = DUPLICATE_BLOCK_MIN_CHARS
 LEADING_TIMESTAMP_RE = re.compile(r"^\[(?:\d+:)?\d+:\d+\]\s*")
 
 MODEL_RE = re.compile(r"^model:\s*(\S+)", re.M)
+
+# Free, no-API detector for the timestamp corruption bug catalog in
+# ARCHITECTURE.md 1.16: walk each block's own leading timestamp in file order
+# and flag a drop of more than this many seconds below the running maximum
+# seen so far. Corpus-wide, this alone found every hard-reset/reorder bug the
+# caption-based checks already knew about (ep32) PLUS two neither had
+# surfaced (ep45's garbled-hour typo, ep05's block reorder), because both
+# preserve locally-correct individual timestamps and only show up as an
+# ordering violation, not a drift value.
+BACKWARD_JUMP_THRESHOLD_SECONDS = 30
 # Bottom of the fallback chain, only reached once every better model is exhausted or
 # down -- confirmed prone to silently dropping code-switched content (see
 # lib_gemini.py's MODEL_FALLBACK_CHAIN comment and the language-mistranslation
@@ -200,6 +213,23 @@ def short_block_loops(body):
     return runs
 
 
+def backward_timestamp_jumps(body):
+    jumps = []
+    running_max = -1
+    for block in body.split("\n\n"):
+        block = block.strip()
+        m = TIMESTAMP_RE.match(block)
+        if not m:
+            continue
+        h, mins, s = m.groups()
+        ts = (int(h) if h else 0) * 3600 + int(mins) * 60 + int(s)
+        if running_max >= 0 and ts < running_max - BACKWARD_JUMP_THRESHOLD_SECONDS:
+            jumps.append((running_max, ts, block[:60]))
+        if ts > running_max:
+            running_max = ts
+    return jumps
+
+
 def check_episode(ep_dir):
     issues = []
     models = {}
@@ -228,6 +258,15 @@ def check_episode(ep_dir):
                 issues.append(f"raw.md timestamp coverage only {pct:.0f}% (last ts {covered}s of {duration}s)")
             elif pct > MAX_COVERAGE_PCT:
                 issues.append(f"raw.md timestamp coverage {pct:.0f}% -- likely hallucinated runaway timestamps")
+
+    jumps = backward_timestamp_jumps(body)
+    if jumps:
+        prev_max, ts, sample = jumps[0]
+        issues.append(
+            f"raw.md timestamp drops backward ({len(jumps)} jump(s), first from "
+            f"{prev_max}s to {ts}s at {sample!r}) -- likely a hard reset, block "
+            "reorder, or digit typo, see ARCHITECTURE.md 1.16"
+        )
 
     blocks = body.split("\n\n")
     max_block = max((len(b) for b in blocks), default=0)
