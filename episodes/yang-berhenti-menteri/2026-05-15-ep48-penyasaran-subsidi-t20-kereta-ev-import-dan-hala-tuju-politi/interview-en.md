@@ -9,59 +9,45 @@ duration: 3h 20m
 view_count: 244259
 hosts:
 - Rafizi Ramli
-guests:
 - Haziq
+guests:
 - Farhan (Pa'an)
 topics:
-- SPRM/MACC investigation into cabinet decisions
-- Upcoming Sunday political announcement
-- Ramanan Ramakrishnan vs Nurul Izzah survey dispute
-- Statistics and sampling methodology explainer
-- Academic Dr. Jamaie Hamil's politically biased statement defending Farhash
-- PAS MP Nik Zawawi's controversial ceramah about Islamic history figures
-- PKR internal rivalry over Batu parliamentary seat (Ramanan vs Fuziah)
-- PKR culture shift from 'kamikaze' candidates to seat-grabbing
-- KSN's premature self-praise amid stalled Friends Committee (Jawatankuasa Kawan-Kawan)
-  report
-- T20/M40/B40 subsidy classification debate
-- Removing petrol subsidy from T20 households
-- PADU and PAKW (net disposable income) as alternative classification method
-- DAP's opposition to PADU and cash transfer mechanism
-- Malaysian car taxation structure (import duty, excise duty, sales tax)
-- Feasibility of lowering car prices in Malaysia
-- MITI's new policy restricting cheap imported EVs (BYD) to protect Proton/Perodua
-- EV adoption, NETR targets, and industry protectionism
-- Reflections on Malaysia's national development trajectory since 1874/1957
-- Announcement of 17 May event in Bandar Utama and clash with PH convention
-summary: Episode 48 of Podcast Yang Berhormat Menteri, hosted by Rafizi Ramli with
-  co-hosts Haziq and Farhan (Pa'an). Rafizi opens by discussing his return to MACC
-  (SPRM) for further questioning related to a cabinet-level decision under investigation,
-  and teases a "big announcement" planned for the upcoming Sunday event. In the "Beria"
-  segment, they mock PKR Vice President Ramanan Ramakrishnan's dismissal of an internal
-  survey (used by Nurul Izzah) with a detailed explainer on sampling and margin of
-  error; criticize an academic (Dr. Jamaie Hamil) for making politically partisan
-  statements defending Farhash Iqbal Wahid; discuss PAS MP Nik Zawawi's controversial
-  ceramah making offensive remarks about Saidina Abu Bakar and Saidina Umar; mock
-  PKR leaders (Ramanan and Fuziah Salleh) publicly competing over the Batu parliamentary
-  seat; and criticize KSN's self-congratulatory social media post about the stalled
-  "Jawatankuasa Kawan-Kawan" (Friends Committee) integrity report. In the main "Hidup
-  Keras" segment, Rafizi gives an extensive explainer on subsidy targeting (T20/M40/B40
-  classification), the government's internal conflict over withdrawing petrol subsidies
-  from T20 households, and the technical background of PADU and PAKW (Perbelanjaan
-  Asas Kehidupan Wajar) as a fairer net-disposable-income-based alternative to gross-income
-  classification, alleging political reluctance from PM Anwar Ibrahim and MOF to adopt
-  it due to fear of unpopularity. He then breaks down Malaysia's car taxation structure
-  (import duty, excise duty, sales tax) explaining why car prices could theoretically
-  be lowered, and discusses the challenges of transitioning without collapsing the
-  used car market. Finally, he analyzes MITI's new policy effectively banning cheaper
-  imported EVs (like BYD) below RM200,000/180kW to protect local industry (Proton/Perodua),
-  arguing the policy was implemented abruptly without proper sequencing with local
-  CKD manufacturing timelines. The episode closes with Rafizi reflecting philosophically
-  on Malaysia's slow "leap of faith" in national development compared to the rapid
-  transformation between 1874 (Pangkor Treaty) and 1957 independence, explaining his
-  motivation for staying in politics, and announcing details for his Sunday, 17 May
-  event/announcement in Bandar Utama, noting an unintentional date clash with a Pakatan
-  Harapan convention in Johor Bahru.
+- SPRM/MACC investigation and cabinet accountability
+- PKR internal conflicts (Ramanan vs Nurul Izzah, Batu seat dispute)
+- Statistics and survey sampling literacy
+- Farhash Hashim money laundering allegations
+- PAS Nik Zawawi controversial ceramah
+- KSN Azam Baki social media controversy
+- T20/M40/B40 income classification reform
+- PADU and PAKW (net disposable income methodology)
+- Fuel subsidy targeting
+- Car taxation structure (import duty, excise duty, sales tax)
+- EV import policy and MITI's CBU restrictions
+- Proton/Perodua industry protectionism
+- National Energy Transition Roadmap (NETR) EV targets
+- Rafizi's political philosophy and reasons for leaving PKR
+- Upcoming 17 May announcement/political future
+summary: 'Episode 48 of Podcast Yang Berhormat Menteri, hosted by Haziq and Farhan
+  (Pa''an) with Rafizi Ramli. The episode opens with Rafizi discussing his SPRM (MACC)
+  interrogation and the ongoing investigation involving cabinet-level decisions. In
+  the "Beria" segment, they mock PKR infighting (Ramanan vs Nurul Izzah over survey
+  data and statistics literacy), an academic''s defense of Farhash Hashim against
+  money laundering allegations, PAS MP Nik Zawawi''s controversial ceramah insulting
+  Saidina Abu Bakar and Umar, PKR leaders publicly fighting over the Batu parliamentary
+  seat, and KSN Azam Baki''s tone-deaf social media praise. The main "Hidup Keras"
+  segment covers three policy deep-dives: (1) the T20/M40/B40 income classification
+  debate and fuel subsidy targeting, explaining PADU, PAKW (Perbelanjaan Asas Kehidupan
+  Wajar) and why government resistance to net disposable income methodology is political
+  rather than technical; (2) the structure of Malaysian car taxation (import duty,
+  excise duty, sales tax) explaining why car prices are inflated by up to 100%+ and
+  the trade-offs in reducing them; (3) the EV import policy (MITI''s new CBU restrictions
+  protecting Proton/Perodua) and tensions between consumer affordability, national
+  EV adoption targets, and protecting local industry. The episode closes with extensive
+  reflection from Rafizi on why he cannot reconcile with PKR/Anwar Ibrahim, his philosophy
+  on politics as duty rather than pursuit of power, historical analogy about Malaysia''s
+  post-independence stagnation, and promotion of his upcoming major announcement event
+  on Sunday, 17 May, to be livestreamed on YouTube.'
 language: en
 model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style
@@ -70,255 +56,275 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Haziq:** Assalamualaikum and greetings. Podcast Yang Berhormat Menteri, episode 48. As usual, with me and brother Rafizi, who looks a bit tired.
+**Haziq:** Assalamualaikum and greetings. Podcast Yang Berhormat Menteri episode 48. As usual with me and brother Rafizi, who looks a bit tired.
 
-**Rafizi Ramli:** Yeah, tired because of a lot of preparations ahead of Sunday. We'll talk about Sunday later, but yeah, there's a lot to do, need to make sure everything goes well.
+**Rafizi Ramli:** Yeah, tired because there's a lot of preparation ahead of Sunday. We'll talk about Sunday later, but yeah, there's a lot to do, need to make sure everything happens well.
 
-**Haziq:** YB, are you checking everything one by one?
+**Haziq:** YB checking on each thing?
 
-**Rafizi Ramli:** I'm checking every single dot for every preparation.
+**Rafizi Ramli:** I check every single dot for every preparation.
 
-**Haziq:** It's big, right?
+**Haziq:** It's big then, right, big.
 
-**Rafizi Ramli:** Big in what sense?
+**Rafizi Ramli:** What do you mean big?
 
 **Haziq:** The thing YB wants...
 
-**Rafizi Ramli:** No, the announcement is big. Like reporters asked me earlier, they tried, as usual, yesterday, everyone wants to know some clues.
+**Rafizi Ramli:** No, the announcement is big. Like reporters asked me earlier, they tried, as usual, yesterday, everyone wanted to know clues.
 
-**Haziq:** Trying to dig it out.
+**Haziq:** Trying to dig.
 
-**Rafizi Ramli:** Trying to dig it out. I just told them it's really a big announcement, not an ordinary one. Because if it were an ordinary announcement, doing it on TikTok would be enough, doing it on a podcast would also do.
+**Rafizi Ramli:** Trying to dig, right. I just said it's indeed a big announcement, not an ordinary one. Because if it were an ordinary announcement, posting it on TikTok would be enough, doing it on a podcast would be fine too.
 
-**Haziq:** Is it related to that thing in June, YB?
+**Haziq:** Is it related to the one in June, YB?
 
-**Rafizi Ramli:** It's okay, we'll answer that later.
+**Rafizi Ramli:** Never mind, we'll answer that later.
 
 **Haziq:** Just asking.
 
-**Farhan (Pa'an):** YB, before we start, I want to ask, were the MACC officers surprised when you came back to MACC earlier?
+**Farhan (Pa'an):** YB, before we start, I want to ask, were the MACC officers surprised that you came back to MACC earlier?
 
-**Rafizi Ramli:** They just looked happy. Can't really say they were surprised, because my lawyer sent the letter on Sunday. So they were already informed. In fact, early on we agreed on Wednesday, because yes, the media and certain parties said this was arranged to ambush the new Chief Commissioner of the MACC. Actually it has nothing to do with that. I only want to make sure that the MACC investigation is thorough and has all the accurate facts. Since the investigation so far has no connection to money, no bribery, no transactions, it's related to government decisions. That government decision involved a Cabinet decision, and also the steering committees involved — not just me, there's the Prime Minister, there's the MITI Minister, Zafrul, there's the Second Finance Minister, Amir Hamzah, right. So it can't be that everyone wants to know about the process but only I get questioned. The other three people should be questioned too. So that's part of the legal process to make sure that when it goes to court later — for example if MACC doesn't call the Prime Minister, that's a big issue. It means the investigation isn't complete, right. Doesn't call Amir Hamzah, doesn't call Zafrul. So I'll wait and see. That's up to MACC and also the Attorney General's Chambers, the prosecution. If they proceed without calling Datuk Seri Anwar, without calling Amir Hamzah, without calling Zafrul, there'll be fireworks in court later.
+**Rafizi Ramli:** They looked happy actually. Can't say they were surprised, since my lawyer had already sent the letter on Sunday. So they were aware. In fact, initially we agreed on Wednesday, because, well, the media and some parties said this was just arranged to ambush the new Chief Commissioner of MACC. Actually it has nothing to do with that. I just want to ensure the MACC investigation is thorough and has all the accurate facts. Since the investigation so far has no connection to money, no bribery, no transactions, it's related to a government decision. That government decision involves a Cabinet decision, and also the steering committees involved — not just me, but the Prime Minister, the Minister of MITI, Zafrul, the Minister of Finance II, Amir Hamzah, right. So it can't be that everyone only wants to know about the process but only investigates me. All three of these other people should be investigated too. That's part of the legal process to ensure that when it goes to court later, for example if MACC doesn't call the Prime Minister, that's a big issue. It means the investigation is incomplete, right. Doesn't call Amir Hamzah, doesn't call Zafrul. So I want to see how it goes. So that's up to MACC and also the Attorney General's Chambers, the prosecution. If they proceed anyway without calling Datuk Seri Anwar, without calling Amir Hamzah, without calling Zafrul, then in court later there will be fireworks.
 
 **Haziq:** Okay, alright YB. Let's see what segments we have first, YB. Enthusiastic as usual.
 
-**Rafizi Ramli:** This week we're not so enthusiastic, huh, because we're tired.
+**Rafizi Ramli:** This week we're not that enthusiastic, because we're tired.
 
-**Haziq:** You look tired, YB.
+**Haziq:** You do look tired, YB.
 
-**Rafizi Ramli:** Look tired, tired, tired. The last two, three weeks have really been tiring. On top of that I had exams. You guys forgot I had exams for a week. Then yesterday I had to take an additional paper. Then I need to arrange all this for Sunday. Okay, never mind. I hope YB will laugh with the entertainers we've invited.
+**Rafizi Ramli:** Looking tired, tired, tired. Last two, three weeks have really been tiring. On top of that I took an exam. You all forgot I took an exam for a week. Then yesterday I had to take an additional paper too. Then I have to arrange all this for Sunday. Okay, never mind. Hope YB can laugh with the entertainers we've invited.
 
 **Rafizi Ramli:** First entertainer?
 
-**Haziq:** The first entertainer is definitely the main character.
+**Haziq:** The first entertainer is of course the main character.
 
-**Rafizi Ramli:** Ya Allahuakbar. Don't you guys have other entertainers? Every week it's the same entertainer.
+**Rafizi Ramli:** Ya Allahuakbar. Don't you all have other entertainers? Same entertainer every week.
 
-**Haziq:** Our own analysis, and even we don't believe it. This is related to the statement by our Vice President, brother Ramanan Ramakrishnan.
+**Haziq:** Our own analysis, we don't even believe it ourselves. This is related to a statement by our Vice President, brother Ramanan Ramakrishnan.
 
 **Rafizi Ramli:** "Our"?
 
 **Haziq:** "Our."
 
-**Rafizi Ramli:** Not admitting to it.
+**Rafizi Ramli:** I don't acknowledge that.
 
-**Haziq:** Not admitting, okay okay okay. True, I didn't vote for him either. What's even funnier is he said the survey only involved a few hundred people, when it's hundreds of thousands of voters who will decide the outcome in the general election.
+**Haziq:** Don't acknowledge it, okay okay okay. That's right, I didn't vote for him either. What's more amusing is he said the survey only involved a few hundred people, while what will determine my votes later is hundreds of thousands of voters in the general election.
 
-**Rafizi Ramli:** Don't they have a WhatsApp group?
+**Rafizi Ramli:** Don't these people have a WhatsApp group?
 
-**Haziq:** Do you guys have one?
+**Haziq:** Do you all have one?
 
-**Rafizi Ramli:** This is the Deputy President and the Vice President we're talking about. I don't know. I really don't have one, everyone knows I don't have a WhatsApp group, so people understand if I miss the boat on something. That day during the presentation, it was an official party presentation to all party leaders from across the country. Surely Ramanan was aware. And what's even more sensitive is that the early proposal by the general of the war, Nurul Izzah, who wants to steer the election strategy. Before anything was even presented, it already got cut down by Ramanan. So no WhatsApp group? At the very least Izzah could have signaled to Ramanan, don't cut it down. It's just good that Ramanan responded the way he did, because it clearly shows he doesn't understand science. To the public, politicians like to make statements that strongly suggest that when they took Maths or Add Maths for SPM, they failed statistics. Because the name itself is "statistics," right. This survey is of course based on a sample. But the best way to understand sampling — whether it's 200 or 200,000 — because people like Ramanan, and other politicians, all like to say things like: "Ah, that only involves 50 people, it's not representative," right. It's a science, it's Maths, right. The simplest way for the public to understand is to say we have a jar of water. A jar of water — not the water at the Ramadan bazaar with lots of ice, you know, a proper jar, medium-sized. Fill it with water, and we make cordial. If the cordial is mixed well, meaning really properly mixed, evenly throughout, then actually if we take a sample from the side of the jar, or from the right side, the top, or the bottom, because it's mixed well, it will taste the same.
+**Rafizi Ramli:** This is the Deputy President and the Vice President. I don't know. I really don't have one, everyone knows I don't have a WhatsApp group, so people understand if they get left behind on something or other. These people, that day during the presentation, it was an official party presentation to all party leaders from across the country. Surely Ramanan was aware. And what's more sensitive is the early proposal from the war general, Nurul Izzah. She wants to steer the election. Before anything was even presented, it was already cut down by Ramanan. So no WhatsApp group? At the very least Izzah could have signaled Ramanan, don't cut it down. It's just good that Ramanan responded that way, because it clearly shows he doesn't understand science, right. To the public, politicians like making statements that show a strong likelihood that when they took Maths or Add Maths for SPM, they failed statistics. Because the name itself is statistics, right. This survey is of course based on a sample. But the best way to understand sampling, whether it's 200 or 200,000, is that people like Ramanan, and other politicians, all like to say things like, "Oh that only involved 50 people, it doesn't represent [anything]." It's a science, Maths, right. The easiest way for the public to understand is to say we have a jar of water. One jar of water. Not the water at the Ramadan bazaar with lots of ice, you know, a proper jar, medium-sized. Full of water, we make syrup. If that syrup is mixed well, meaning it's really mixed properly, evenly throughout, actually if we take from the side of the jar, or from the right of the jar, the top, the bottom, because it's mixed well, it'll taste the same.
 
-**Haziq:** That's right, that's right.
+**Haziq:** Right, right.
 
-**Rafizi Ramli:** Unless the water in the jar isn't stirred properly, not mixed properly, then maybe the part at the top isn't sweet enough while the bottom is sweeter. That's why with surveys, there is Maths, or science, that is quite clear. We need the sample size to determine whether it's acceptable or not, and there are several factors. One, for example, confidence level, right. Only sampling that meets the threshold can have a confidence level of 95% or lower, right. Another important one is margin of error. Margin of error is the sample size taken from the population compared to the total size of the population, right. So that's why there's a margin of error of 5%, 2%, 3%. Margin of error means this — for example if the figure says support for Ramanan is 25% with a margin of error of 2%, it means it can be 27%, it can be 23%. So it's within that banding, right. So that's why, I don't know the background of the survey that Izzah did. We don't even know if this is really a survey, or if it's calculated based on adding and subtracting figures following the results of the last election, we don't know, right. Then we don't know whether it's just quantitative data or qualitative. We also don't know how the sampling was done. Because if the voters in Sungai Buloh number, say, 180,000, they are not all the same. They differ by age, by race, by household income. So there are many strata, right. So let's assume, since Izzah is smart, right, and surely the survey that's meant to be presented and become the party's strategy for entering the election would certainly meet all these criteria. So assuming that 200 people out of 180,000 is representative, right, Ramanan should reflect on himself. So if anything, Izzah worked hard on it, and enthusiastically Ramanan went and cut it down. So it seems they're not at peace with each other now, right. So in the end this messes up PKR's image in the eyes of the public. Because the Deputy President doesn't have a WhatsApp group with the Vice President, and the Vice President publicly belittles the Deputy President's work like that, right.
+**Rafizi Ramli:** Unless in the jar the water isn't stirred properly, then it's not mixed evenly, maybe the top isn't as sweet, the bottom is sweeter. That's why with surveys, there's Maths or science that's quite clear. We need the sample size to determine whether it's acceptable or not, there are several factors. One, for example, confidence level, right. Only sampling that meets the threshold can have a confidence level of 95% or lower, right. Another very important thing is the margin of error. The margin of error is the sample size taken from the population compared to the total size of the population, right. So that's why there's a margin of error of 5%, 2%, 3%. This margin of error means this: if for example the figure says support for Ramanan is 25% with a margin of error of 2%, that means it can be 27%, it can be 23%. So it's within that band, right. So that's why — I don't know the background of the survey Izzah did. We mentioned before too, we don't even know if this is really a survey, or if it's calculated based on adding and subtracting from the previous election results, we don't know, right. Then we don't know whether it's just quantitative data or qualitative. We also don't know how the sampling was done. Because if the voters in Sungai Buloh number, say, 180,000, they're not all the same. They differ by age, by race, by household income, by income. So there are many strata, right. So let's assume — because Izzah is smart, right, and Izzah's survey to be presented, which will also become the party's strategy for entering the election, surely meets all these criteria. So if it has met them, assuming that 200 people out of 180,000 is representative, right, then Ramanan should be doing some self-reflection. So if anything, as we said, Izzah works hard on this, and hard-headedly Ramanan goes and cuts it down. So it seems they're not at peace right now. So what ends up happening is that it wrecks PKR's image in the eyes of the public. Because the Deputy President doesn't have a WhatsApp group with the Vice President. The Vice President openly belittles the Deputy President's work like that.
 
-**Haziq:** YB, in previous party meetings, how seriously do PKR or Keadilan leaders take surveys or data? Or do they just rely on YB every time there's an election?
+**Haziq:** YB, in party meetings before this, how seriously do PKR or Keadilan leaders take surveys or data? Or do they just rely on YB every time there's an election?
 
 **Rafizi Ramli:** They're actually not interested. Not interested.
 
 **Haziq:** Okay.
 
-**Rafizi Ramli:** That's why people call me Mat Nerd. That's why in the end people think it's just me who's serious about it. I'm too lazy to even say anything — why are you too lazy to learn, right. He's not interested. It's true, if I present it's like talking to a wall.
+**Rafizi Ramli:** That's why people call me Mat Nerd. That's why in the end people think I'm the only one who's "right." I get tired of saying it — why are you too lazy to learn, right. They're not interested. It's true, if I present, it's like talking to a wall.
 
-**Haziq:** How did he do projections for elections and everything? Just going in blindly?
+**Haziq:** How do they do projections for elections then? Just going in blind?
 
-**Rafizi Ramli:** Before this, since 2016, for the past 10 years, it was really me who did it. So whether he wants to accept it or not, he just stays quiet, right. So it's hard for him to even quarrel with me, because if he quarrels I'll ask him, "What's your evidence? From where? On what basis?" But it's not just PKR — I think overall, political parties and politicians in Malaysia don't like technical and heavy matters like science. Data science, surveys are actually science data, right, he doesn't understand it. He considers it trivial work that should be done by the juniors, just to give me a report, that's all.
+**Rafizi Ramli:** Before this, since 2016, for the past 10 years, it's really been me doing it. So whether they want to accept it or not, they just stay quiet. So it's hard for them to even fight with me, because if they fight with me I'll ask them, what's your evidence? From where? You know. On what basis. But it's not just PKR, I think overall political parties and politicians in Malaysia dislike technical and heavy things like science. Data science — survey data is actually data science, right. They don't understand it. To them this is trivial work that should be done by juniors, just give me a report, that's it.
 
 **Farhan (Pa'an):** There's one aspect we haven't touched on yet.
 
 **Haziq:** What's that?
 
-**Farhan (Pa'an):** When this report is exposed, the ones blamed are the...
+**Farhan (Pa'an):** When this report gets exposed, the ones blamed are the gang...
 
-**Haziq:** Ah yes! It's blamed on YB. They say YB didn't take the pot.
+**Haziq:** Ah yes! Blamed on YB. They say YB didn't get the pot.
 
-**Rafizi Ramli:** That's Farhash's kids. Those kids are definitely Farhash's kids. Even if a cat gives birth, it's my fault, according to Farhash's kids in PKR nowadays.
+**Rafizi Ramli:** That's Farhash's kid. That kid is really Farhash's kid. Even if a cat gives birth, it'll be blamed on me if it's up to Farhash's kids in PKR nowadays.
 
-**Haziq:** That's three times you've been blamed this week.
+**Haziq:** That's three times YB's been blamed this week.
 
-**Rafizi Ramli:** Good, because people are starting to notice. Before, they criticized PAS or PN and kept chanting DAP DAP DAP. Now everything is my fault. I accept it as is.
+**Rafizi Ramli:** Good, because people are starting to notice. Before, they'd criticize PAS or PN, chanting DAP DAP DAP. Now everything's my fault. I accept it as it is.
 
-**Haziq:** Alright YB, alright YB accepts it. Okay, alright, that was the first one. We have the second, their friends too I guess. Hasn't appeared in a while. "Don't be influenced by certain parties' political propaganda deliberately attacking Farhash," said a political analyst.
+**Haziq:** Alright YB, good that YB accepts it. Okay, that's the first one. We have the second, their friends too I guess. Haven't appeared in a while. "Don't be influenced by certain parties' political propaganda deliberately attacking Farhash," says a political analyst.
 
 **Rafizi Ramli:** Who's this political analyst?
 
-**Haziq:** I read this — senior lecturer in the Political Science Program, Faculty of Social Sciences and Humanities, UKM, Dr. Jamaie Hamil said, "The claims linking Farhash to money laundering activities involving billions of ringgit sent abroad appear to be more of a perception attack and political propaganda." If I may continue, "The public needs to be mature because it is indeed the job of politicians to look for their opponents' weaknesses. Prime Minister Anwar Ibrahim is among the best leaders Malaysia has at present, even at the Asian level," he said in a statement on Monday. Huh, what's the connection here?
+**Haziq:** I read this — Senior Lecturer of the Political Science Program, Faculty of Social Sciences and Humanities, UKM, Dr. Jamaie Hamil said, "The allegations linking Farhash to money laundering activities involving billions of ringgit abroad appear to be more of a perception attack and political propaganda." If I may continue, "The public needs to be mature because it is indeed the job of politicians to find their opponents' weaknesses. Prime Minister Anwar Ibrahim is among the best leaders Malaysia has right now, even at the Asian level," he said in a statement on Monday. Eh, what's the connection?
 
-**Rafizi Ramli:** Imagine it this way, right. Imagine now that Anwar Ibrahim and PKR are the opposition. And the character Farhash represents someone from BN, he's the Jho Low. Let's say, right, because yes, suddenly rich, amazing, everything, right, there are certain allegations. Let's say the person being questioned by the public is Jho Low, and the ruling party is BN. Suddenly this senior lecturer issues a statement like that — "Don't be influenced by certain parties' political propaganda deliberately attacking Jho Low," for example. I wonder, what would Anwar Ibrahim's ceramah be like?
+**Rafizi Ramli:** Imagine it this way. Imagine right now Anwar Ibrahim and PKR are the opposition. And Farhash's character is like Jho Low from BN. Let's say, well, suddenly rich, amazing, all that. There are certain accusations. Say what the public is questioning is Jho Low, and the ruling party is BN. Suddenly a senior lecturer issues a statement like that. "Don't be influenced by certain parties' political propaganda deliberately attacking Jho Low," for example an analyst, eh. I wonder, what would Anwar Ibrahim's ceramah be like?
 
 **Haziq:** The ceramah I heard back in school, "Professor Kangkung."
 
-**Rafizi Ramli:** He'd say "Professor Kangkung," right. So his logic is actually like that. We need to look at what happens if the same thing occurs but we swap the characters, what would the reaction actually be. Anwar really gave speeches every night, "Professor kangkung, professor kangkung, professor kangkung," right. So don't be angry at the public when this too seems odd. What business does a senior lecturer have issuing media statements on this? The one who should issue media statements on this should be a politician, right, or at the very least civil society, activists, right. But an academic should express his views through scholarly publications. Scholarly publications need data, need research, need citations, right. If I may advise — I don't want to call people "kangkung" the way Anwar labels people left and right — but if an academic, well, it would be easier if he issues a media statement about politics representing his personal views as a politician, then he should just become a politician. So who's the enthusiastic one here? It's the senior lecturer.
+**Rafizi Ramli:** He'd say "Professor Kangkung," right. So his logic is actually like that. We need to look — if the same thing happened, if we switched the characters, what would the reaction actually be. Anwar really did give ceramah every night, "Professor Kangkung, Professor Kangkung, Professor Kangkung," right. So don't be angry at the public when this too seems odd. What business does a senior lecturer have issuing statements to the media? The one who should be issuing media statements should be a politician, right. At the very least, civil society, activists. But a senior lecturer, an academic, should be raising issues in the form of academic publications. Academic publications need data, need studies, need citations, right. If I may advise — I'm not saying he should go around calling people "kangkung" like Anwar did, but if an academic, well, it's easier for him to issue a media statement about politics representing his personal views as a politician, then go become a politician after that. So who's working hard here? The senior lecturer.
 
-**Haziq:** Right, if suddenly a statement like that comes out, I mean set aside the merits, but the fact that he's establishing a claim like that shouldn't be influenced.
+**Haziq:** Right, if suddenly a statement like that comes out, I mean set the merit aside, but the fact that he's establishing one fact that can't be influenced.
 
-**Rafizi Ramli:** Then "Abang Janggut" gets angry, "Propaganda tut tut tut." Where are these comments from?
+**Rafizi Ramli:** Then Abang Janggut gets angry, "Propaganda tut tut tut." Where are these comments from?
 
 **Haziq:** This is Facebook.
 
-**Rafizi Ramli:** Facebook news from Awani. Awani, of all things. Awani is something else too. Actually if we plot the media channels that broadcast the most news supporting Farhash from people we don't even know, it's Awani. So eventually people go, "Eh eh."
+**Rafizi Ramli:** Facebook, this Berita Awani news. Awani. Awani, this one too. This is Awani, we should mention it, right. Actually if we plot the media channels that broadcast the most news supporting Farhash from people we don't recognize, it's Awani. So over time people go, "Eh eh, Awani."
 
 **Haziq:** What's going on here.
 
-**Rafizi Ramli:** "What's going on here," right. It's no longer "Awani," it's become "Awat Ni" (why is this so). So if any Awani editor is watching, hopefully they understand, right. Don't be so obvious. Okay, alright.
+**Rafizi Ramli:** What's going on here, right. It's not Awani anymore, it's become "Awat Ni" [what's this]. So if any Awani editor is watching, they'll understand, right. Don't be so obvious. Okay, alright.
 
-**Haziq:** Enthusiastic. Let's leave our young entrepreneur. Let's move to the East Coast segment.
+**Haziq:** Full steam ahead. Let's leave our young entrepreneur. Let's move to the East Coast segment.
 
-**Rafizi Ramli:** I can already guess the feel of this.
+**Rafizi Ramli:** Can already guess the feel of it.
 
-**Haziq:** "Did I ask for forgiveness? I forgive everyone."
+**Haziq:** "Did I apologize? I forgive everyone."
 
-**Rafizi Ramli:** And PAS has forgiven him too. Tuan Ibrahim made a statement, right, PAS has accepted and forgiven him. Mutual forgiveness all around. I thought that only happened during Raya. Oh, this is heading into Hari Raya Haji.
+**Rafizi Ramli:** And PAS has forgiven him too. Tuan Ibrahim made a statement, right, PAS has accepted and forgiven him. Mutual forgiveness. I thought that was only during Raya season. Oh, this is heading into Raya Haji.
 
-**Haziq:** Yes, is Raya Haji still lively on the East Coast?
+**Haziq:** Yes, is Raya Haji still festive on the East Coast?
 
-**Rafizi Ramli:** Not as lively as before, but still somewhat. Maybe I'm just getting old, but it doesn't feel as festive anymore. Whether it's Raya Haji or Raya Puasa, everyone's just busy on Instagram. But if you want to see whether it's lively or not, look at Raya Haji — aren't there fewer people posting Raya photos, family photos, right. Okay, back to this matter. I watched everything, from A to Z of his speech, not just half of it, trying to understand it, right. For those who may not have followed this controversy, this is the Member of Parliament for Pasir Puteh, Ustaz Nik Zawawi. His speech was in Kuala Terengganu I believe, right. His delivery was spirited, but the content was shocking. For example, he wanted to give context that Islam is perfect — whoever embraces Islam becomes, well, becomes a good person. So he gave two examples. First, Saidina Abu Bakar radiallahuanhu, right. But he referred to Saidina Abu Bakar as formerly "a loan shark's father." Various things, no need to repeat them all here, it's long. That was the first time in my life I heard from anyone's mouth that Saidina Abu Bakar was a "loan shark's father." Then Saidina Umar al-Khattab — in his speech, if you count it, he used the word "devil" in that speech — and if Saidina Abu Bakar was a "loan shark's father," then Saidina Umar was a "father of adultery," meaning he'd take any woman he wanted. He wanted to explain how these two men, who were supposedly wicked, living in the pre-Islamic age of ignorance, became the best of humankind promised paradise once they embraced Islam with guidance and everything, right. Well, I don't want to comment at length on religious matters, otherwise he'll say I don't know anything, he's an ustaz and all that, right. But even without giving religious sermons ourselves, we know from our own basic knowledge that this is inaccurate and dangerous, right. And based on common understanding too, for example Saidina Abu Bakar As-Siddiq was given that title because he was truthful. Meaning, back in Mecca, if there were different tribes wanting to make peace, or there was compensation or debt — I'm trying to understand what context Ustaz Nik Zawawi meant, right — according to certain texts, if there were disputes between tribes (tribes meaning ethnic groups, right) in Mecca, Saidina Abu Bakar became, as they say, in our legal terms, an arbitration judge, because he was good, he was honest, right. So if people wanted confirmation that a debt would be paid, everyone would go see him. Not a "loan shark's father," you know. Even someone as ignorant as me knows that. So I think, as it stands, since he has already apologized and PAS has forgiven him, it's because public condemnation was really immediate, right, he really couldn't defend it anymore. Why did the public condemn him? Because the majority of the public really disagreed with what he said. But the thing that's most striking to me isn't so much the apology or forgiving everyone — that's just PAS's habit. Don't expect him to actually stop before he says something; he won't apologize before speaking. He's the one who can forgive everyone — look at his speech, he forgave everyone, right. What's striking is this — he was so enthusiastic giving that speech, and to rise to become a "ceramah sheikh," right, to reach that level. So for the younger generation who might be shocked that he gave such a political speech, right — actually it's because young Gen Z people didn't live through the 80s, 90s. People like me lived through it. That's why us older folks, and I'm old now, right, we older ones still remember the speeches we used to attend when we were kids, when we were young. The speeches back then were really "kafir this, kafir that" — because the system we have now uses a "kafir constitution," and as long as we don't change the constitution, it remains a secular kafir system. So ordinary people might be shocked now, but I'm not shocked because that's exactly why when a political campaign rides 100% on religion, right, he can't talk about anything else, about the people's issues. People talk about Azam Baki, about corporate mafia, he doesn't talk about that, right. He talks about this instead, and eventually the story gets overheated, fried and fried and fried — badly fried, and it ends up like this.
+**Rafizi Ramli:** Not as festive as before, but still. Maybe I'm just old now, but it feels less festive somehow. Raya Haji or Raya Puasa, everyone's just busy with Instagram. But if you want to see whether it's festive or not, look at Raya Haji — aren't there fewer people posting Raya photos, family photos, right. Okay, back to this one. I watched all of it, from A to Z of his ceramah, not just watching half of it, trying to understand it. For those who might not be following this controversy, this is the Member of Parliament for Pasir Puteh, Ustaz Nik Zawawi. His ceramah was in Kuala Terengganu I think. His ceramah was spirited. But the content was shocking. For example, he wanted to give context — actually he wanted to give the context that Islam is perfect. Whoever enters Islam will indeed be blessed, right, will become a good person. So he gave two examples. One, Saidina Abu Bakar radiallahuanhu, right. But he said Saidina Abu Bakar used to be a moneylender father [loan shark]. All sorts of things, no need to mention it here, it's long. That was the first time in my life I heard from any mouth that Saidina Abu Bakar was a "bapa ceti" [loan shark]. Then Saidina Umar al-Khattab. His ceramah — he used the word "syaitan" [devil] in it, you know, in that ceramah. And if Saidina Abu Bakar was a "bapa ceti," Saidina Umar was said to be a "bapa zina" [father of adultery], right. That he'd just take any woman he wanted. He wanted to explain how these two men, who were supposedly evil, in the age of ignorance [jahiliah], once they entered Islam, you know, with guidance and all, became the best of people who were promised heaven, all that. Well, I don't want to comment too much on religion, or he'll say I don't know anything, he's an ustaz and all that, right. But even without giving religious sermons, we know from a bit of general knowledge that this is inaccurate and dangerous, right. And even by ordinary understanding, for example Saidina Abu Bakar As-Siddiq — people call him that title because he was truthful. Meaning, in Mecca back then, if there were different clans that needed to reconcile, or compensation or debts — I'm trying to understand what context Ustaz Nik Zawawi was getting at, right. According to certain texts, for example if there were disputes between clans — clan meaning like a tribe, right — in Mecca, Saidina Umar and Saidina Abu Bakar became what people would call, in legal terms, arbitration judges, because they were good, honest people, right. So if, for example, someone wanted confirmation that a payment would be made, everyone would go see them. Not a "bapa ceti," you know. Even someone as ignorant as me knows that, right. So I think, so far, since he's already apologized, since PAS has already forgiven him, it's because the public backlash was sudden and overwhelming, right, it just couldn't be defended anymore. So why did the public criticize it — because the majority of the public clearly disagreed with what he said, right. But what's remarkable to me isn't really the apology, forgiving everyone — that's just PAS's character. Don't expect him to apologize for whatever he said — he wouldn't apologize on his own. He's the one who can forgive everyone else, right. Look at his speech, he forgave everyone, right. What's remarkable is this — he worked so hard delivering that ceramah, and to rise to the level of a "sheikh" of ceramah, right, to reach that level. So for the younger generation who might be shocked that political ceramah could go that far, right, actually it's because the younger ones, Gen Z and all, didn't live through the 80s, 90s. People like me lived through it. That's why the older folks — I'm old now too, right — the older among us still remember the ceramah we used to attend when we were kids, when we were young. The ceramah back then really did call [the government] kafir [infidel]. Because the system we have now uses a "kafir" constitution, a secular constitution, as long as we haven't changed it. So people who aren't used to it might be shocked now, but I'm not shocked, because that's exactly why when a political campaign rides 100% on religion, right, he can't talk about anything else, about the people's issues. People talk about Azam Baki, corporate mafia, he doesn't talk about that. He talks about this instead, and over time, talking about it gets him burned, fried, fried, fried. Fried wrongly, so it ends up like this. Working hard at frying.
 
-**Haziq:** Badly fried.
+**Haziq:** Fried wrongly.
 
-**Rafizi Ramli:** This got badly fried, burnt straight away, right.
+**Rafizi Ramli:** This is fried wrongly, burnt right away, right.
 
-**Haziq:** Enthusiastic?
+**Haziq:** Working hard?
 
-**Rafizi Ramli:** Enthusiastic.
+**Rafizi Ramli:** Working hard.
 
-**Haziq:** Okay, alright alright alright. So let's move on. Our Vice President was resting earlier, now he's back, paired up with the PKR Secretary-General.
+**Haziq:** Okay, alright alright alright. So let's move on. Our Vice President was resting earlier, now he's back, paired up with PKR's Secretary-General.
 
-**Rafizi Ramli:** Where's this from?
+**Rafizi Ramli:** Where's this now?
 
-**Haziq:** More PKR leaders fighting over seats. Ramanan, Fuziah want to seize the Batu Parliamentary seat from Prabakaran, question mark.
+**Haziq:** More PKR leaders fighting over seats. Ramanan, Fuziah want to contest the Batu Parliamentary seat from Prabakaran, question mark.
 
-**Rafizi Ramli:** What is Fuziah holding there? A saw or something?
+**Rafizi Ramli:** What's Fuziah holding there? A saw or something?
 
 **Haziq:** A saw and...
 
-**Rafizi Ramli:** Where did you get this photo of her, when was she holding a saw?
+**Rafizi Ramli:** Where did you get that photo, when was she holding a saw?
 
-**Haziq:** This is a photo from an old campaign, I think the Lynas movement.
+**Haziq:** This is a photo from the old anti-Lynas campaign days, I think.
 
-**Rafizi Ramli:** Oh really? Is that real? Is that photo actually real?
+**Rafizi Ramli:** Oh really? Is that a real photo?
 
-**Haziq:** Yes, it's a real photo.
+**Haziq:** Yes, a real photo.
 
 **Farhan (Pa'an):** Not AI.
 
-**Rafizi Ramli:** Ya Allahuakbar. She's holding a saw, and what's that other thing? A knife?
+**Rafizi Ramli:** Ya Allahuakbar. She's holding a saw, and what's that? A knife?
 
-**Rafizi Ramli:** A saw and a knife. A chopping knife. Oh, this is about fighting over Batu, the Batu seat. Fighting over it, and in the end everyone will be biting their fingers because Anwar Ibrahim went to Batu. Enthusiastically fighting over seats, right. But I don't know, I feel like they're really sitting inside their own bubble. Because as I've said in previous podcasts, it's not just PKR — even Datuk Seri Anwar himself is now being squeezed from two sides — from Malay voters and non-Malay voters, right. So if we take that situation into account, it means the seats that previously looked strong for PKR, including Batu, right, because Batu actually has a non-Malay majority, 60-40 I think, right. That's based entirely on the old premise that non-Malay voters are a voting bloc that will remain loyal to PKR or PH. There's no validity to that anymore, right. So what's even funnier to me is when PKR leaders openly fight over seats like this and cause unease at the grassroots level, all of this is being watched by the public. So the public can see that the job of senior party leaders — the Vice President and the Secretary-General — should be to increase public support for PKR, not to increase their own chances of becoming elected representatives. That's what I mean when I say PKR increasingly looks different from the PKR I used to know, right. Because most of us back then were all "kamikaze." And if you look at Nik Nazmi, in 2018, he came from a safe seat, the Seri Setia state seat, which was indeed safe, right, he'd already held it for two terms, right. And I think he was really shocked, and maybe even a bit hurt, when I said, "You're the AMK Chief, you need to go to a seat that's never been won." Because Setiawangsa had never been won by the opposition, it was always UMNO from the start because, as people say, there was a vote bank from the military camps located there, right. There's Wardieburn there, with roughly 15,000 military votes there, right. But well, as senior leaders, we have to go, right. And one reason I didn't leave Pandan — which Chegubard kept making noise about — is because I needed to campaign nationwide. Every election season, right, how many times was I actually campaigning in Pandan? I was in Johor, I was in Melaka, I was everywhere. I went campaigning in other places to win for other people, because we have to take the risk. Even though I didn't campaign there, wasn't really there much during the campaign period, I had to take that risk. So other senior leaders like this need to take that risk too — in 2018, going to a seat that had never been won, Setiawangsa. That's the PKR of the past, that's what they understood. It was that kind of PKR that caused UMNO Barisan Nasional to lose in 2018, then became the biggest bloc so that Datuk Seri Anwar could become Prime Minister. That, to me, is the essence of PKR. All of us were kamikaze, we didn't think about which seat we'd win or lose, because we didn't see politics as a place to gain rank or position. Politics was a path for us to bring about change, right. So now it's completely reversed, it's become like MIC, I guess. Fighting over seats, right. Enthusiastically fighting over seats while being mocked by the public. Just like in Western culture people say "Nero fiddling on the roof," playing the violin while Rome was on fire. Tone deaf, with Rome on fire and everything, the emperor, Nero, playing the violin on the roof.
+**Rafizi Ramli:** A saw and a knife. A chopping knife. Oh, this is about fighting for Batu, the Batu seat. Fighting over it, and in the end everyone's left biting their fingers because Anwar Ibrahim went to Batu. Working hard fighting over the seat, right. But I don't know, I think they're really sitting in their own bubble. Because as I mentioned in previous podcasts, not just PKR, even Datuk Seri Anwar himself is now being squeezed from two sides — from Malay voters and non-Malay voters. So if we take that situation, it means the seats that previously looked strong for PKR, including Batu — because Batu is actually majority non-Malay, about 60-40 I think — that's based squarely on the old premise that non-Malay voters are a voting bloc that will stay loyal to PKR or PH. That premise no longer holds true.
 
-**Farhan (Pa'an):** Maybe that's what Fuziah is holding.
+So for me, what's even funnier is that when PKR leaders openly fight over seats like this and cause unease at the grassroots level, all of this is being watched by the people. So the people can see that the job of the party's senior leadership — the Vice Presidents and the Secretary-General — should be to increase public support for PKR, not to increase their own chances of becoming elected representatives. That's what I meant when I said PKR increasingly looks different from the PKR I used to know. Because most of us back then, we were all kamikazes.
 
-**Rafizi Ramli:** What is it? Oh, it's flipped! It's a violin... no wait, that's not a violin, that's a saw. You'd get hurt if you played that, sawing it would cut your hand off.
+If you look at Nik, for example, in 2018, Nik Nazmi came from a safe seat, the Seri Setia state seat, which was indeed safe — he'd already held it for two terms. And I think he was genuinely shocked and perhaps hurt when I told him, "You're the AMK Chief, you need to go to a seat that's never been won before." Because Setiawangsa had never been won by the opposition, it was always UMNO from the start — people said because of the vote bank from the military camps there, there's Wardieburn and so on, there were about 15,000 military votes there. But that's how it is, as senior leaders, we have to go.
 
-**Haziq:** Okay okay. We're ending the Beria Mat segment with a special appearance from a guest who used to appear often. Goodbye, the Friends Committee (Jawatankuasa Kawan-Kawan).
+And one reason I didn't leave Pandan — which Chegubard kept making noise about — was because I needed to campaign nationwide. Every election season, how many times did I actually campaign in Pandan? I was in Johor, in Melaka, everywhere. I went to campaign in other places to help win seats for others, because we have to take risks. Even though I didn't campaign there — I was barely there at all during that campaign period — I had to take that risk. So other senior leaders should also take risks like that, like going to a seat that had never been won in 2018, Setiawangsa. That's what the old PKR understood. It was that kind of PKR that caused UMNO Barisan Nasional to lose in 2018, which then became the largest bloc, enabling Datuk Seri Anwar to become Prime Minister. To me, that's the essence of PKR. We were all kamikazes — we didn't think about which seat we'd win or lose, because we didn't see politics as a means to gain rank or position. Politics is a path for us to bring about change.
 
-**Rafizi Ramli:** Is this the last time, not as a special guest?
+Now it's completely reversed, it's become like MIC almost. Fighting over seats, desperately fighting over seats while being laughed at by the people. It's like in Western culture when people say Nero fiddling on the roof, playing his violin while Rome was on fire. Tone deaf — Rome was on fire and everything, and the emperor, Nero, was up on the roof playing the violin.
 
-**Haziq:** You sound so confident.
+**Farhan (Pa'an):** Maybe that's what Fuziah is holding, then.
 
-**Rafizi Ramli:** Ha, maybe so, right. He might come back as the Prime Minister's Integrity Advisor. Feels quite real. There were rumours about that, right, rumours that he'll become an advisor. He wants to advise...
+**Rafizi Ramli:** What is it? Oh, it's the opposite! A violin thing — no wait, that's not a violin, that's a saw. You'd cut yourself if you played that, sawing away at it, you'd lose your hand.
 
-**Haziq:** The other day he said he wants to go into politics instead.
+**Haziq:** Okay okay. We're ending the Beria Mat segment with a special appearance from a guest who used to show up regularly. Farewell, Friends Committee.
 
-**Rafizi Ramli:** Eh no, he said he doesn't want to go into politics.
+**Rafizi Ramli:** Is this the last time, then, not as a special guest?
 
-**Farhan (Pa'an):** Eh, wasn't there...
+**Haziq:** How confident you are.
+
+**Rafizi Ramli:** Ha, maybe indeed. Maybe he'll come back as the Prime Minister's Integrity Advisor. It really feels that way. There were rumors, right, rumors that he'll become an advisor. He wants to advise...
+
+**Haziq:** The other day he said he wanted to go into politics instead.
+
+**Rafizi Ramli:** No, he said he doesn't want to go into politics.
+
+**Farhan (Pa'an):** Wait, wasn't there...
 
 **Rafizi Ramli:** No, that's wrong. He said he doesn't want to go into politics. Maybe he wants to become an artist instead, he's good at singing.
 
-**Haziq:** That's right, sounds good. His skin's looking nice too, pretty.
+**Haziq:** Ha, true, he sounds good. His skin's improved too, looks nice.
 
-**Rafizi Ramli:** Skin's fine now, he wears glasses.
+**Rafizi Ramli:** His skin's fine now, and he wears glasses.
 
-**Farhan (Pa'an):** Eyes a bit red though.
+**Farhan (Pa'an):** The red string on his eye, a little.
 
-**Rafizi Ramli:** So this one is really, oh my, this week is challenging. Because this one is also enthusiastic, the Chief Secretary to the Government (KSN).
+**Rafizi Ramli:** So this one is really — oh my, this week is challenging. Because this one is also full of enthusiasm, the KSN.
 
-**Haziq:** From the KSN, "Many achievements and reforms have been implemented in leading the MACC."
+**Haziq:** From the KSN: "Many achievements and reforms have been implemented in leading the MACC."
 
 **Farhan (Pa'an):** That's a real conflict of interest.
 
-**Rafizi Ramli:** Ya Allahuakbar. The great service of Yang Berbahagia Tan Sri. When he posts something like this, later people will come collect debts from the Friends Committee. This KSN is the chairman of the Friends Committee. Don't post this, post that report first, right. It's embarrassing for the Prime Minister, Anwar Ibrahim, because when the Friends Committee was first set up, the PM promised two, three days, right? Just two, three days. How many months has it been now? Three months already I think? Three months already. It looks like we're really not going to see that report, right. I don't understand the tone-deafness in Putrajaya these days. Surely he understands? Surely he feels it? Right, huh.
+**Rafizi Ramli:** Ya Allahuakbar. The dedicated service of His Excellency Tan Sri. When he does something like this, people will come demanding debts from the Friends Committee. This KSN is the chairman of the Friends Committee. Don't post this one, post that report first. It's embarrassing for the Prime Minister, Anwar Ibrahim, because when the Friends Committee was first set up, the PM promised it would be done in two or three days, right? Just two or three days. How many months has it been now? Three months already, I think. It's been three months. Looks like we'll never see that report. I don't understand the tone-deafness in Putrajaya. Surely they understand? Surely they feel it? Right, huh.
 
-**Farhan (Pa'an):** Even if he did feel that way, just do it over WhatsApp, no need to...
+**Farhan (Pa'an):** Even so, just WhatsApp him, no need to...
 
-**Rafizi Ramli:** Even if he did feel that way, go have a karaoke session together for a bit, right, enjoy a little, right. Get to hear and appreciate Tan Sri Azam Baki's voice, that would be enough. But no, he goes and does this, which will always be remembered. I'm shocked, this is really something else.
+**Rafizi Ramli:** Even so, at least go do some karaoke together for a while, enjoy yourselves a bit. You could listen to and appreciate Tan Sri Azam Baki's voice, that would be enough. But instead, doing this, well, it will always be remembered. I'm genuinely shocked, that's really something.
 
 **Haziq:** Speechless.
 
-**Rafizi Ramli:** Speechless, just speechless. Then below that there's also, "Reform is a necessity." Wow, there we go! I nearly died for Reformasi 98, and this KSN, when he first joined back in Selangor, was still very much a die-hard UMNO man. That's true. I met him before, I was the CEO of the Selangor Economic Advisory Office back then. At that time I think he was still in Selangor.
+**Rafizi Ramli:** Speechless, it leaves you speechless. Then below that there's also, "Reform is a necessity." Wow, that's something! I nearly died for the 1998 Reformasi, and this KSN — when he first joined during his time in Selangor, he was still very much a die-hard UMNO figure. Really. I've met him before, I was CEO of the Selangor Economic Advisory Office back then. At that time, I believe he was still in Selangor.
 
-**Haziq:** Lucky he didn't say...
+**Haziq:** Lucky he didn't say anything about...
 
-**Rafizi Ramli:** He said a lot of things, but let's keep that here. That's why, after Selangor, he was then transferred to Putrajaya, right, to the Federal level. So it's funny when he's now enthusiastically saying "Reform is a necessity," when back when PKR first took over Selangor, I really don't think he liked reform much back then, right. Now that's it, people change the closer they get to the pinnacle of power, right. We don't even shout "Reform is a necessity" anymore.
+**Rafizi Ramli:** Oh, he said a lot, but let's keep that to ourselves. That's why, after his time in Selangor, he was then transferred to Putrajaya, to the Federal level. So it's funny that he's now enthusiastically saying "Reform is a necessity," when back at the start, when Pakatan PKR took over Selangor, I really don't think he liked reform at that time. That's how it is now — people change as they get closer to the pinnacle of power. Even we don't go around shouting "Reform is a necessity."
 
-**Haziq:** Okay alright, enthusiastic.
+**Haziq:** Okay, alright, very enthusiastic.
 
-**Rafizi Ramli:** Very enthusiastic. There are five, YB.
+**Rafizi Ramli:** Extremely enthusiastic. There are five, YB.
 
-**Haziq:** You need to pick one.
+**Haziq:** You have to pick one.
 
-**Rafizi Ramli:** Oh, that's tough. That's tough. Can I give many? Can we call it a tie? Meaning a draw.
+**Rafizi Ramli:** Oh, that's hard. That's hard. Can I give several at once? Can we allow a tie?
 
-**Haziq:** Sure, sure.
+**Haziq:** Ha, sure, sure.
 
-**Rafizi Ramli:** Let's call it a draw.
+**Rafizi Ramli:** Alright, let's call it a tie.
 
-**Haziq:** Between?
+**Haziq:** Between which ones?
 
-**Rafizi Ramli:** Between this one and this one. The other one is Ustaz Nik Zawawi's speech, this is extraordinary. Extraordinarily enthusiastic delivery. I'm also a speaker myself, but watching his full speech I was like, "Astagfirullahalazim," right. So I have to give it to him too.
+**Rafizi Ramli:** Between this one and this one. The other one is the sermon about the ustaz — this Ustaz Nik Zawawi, this is extraordinary. Extraordinarily enthusiastic in his preaching. I'm also a preacher myself, but when I watched his whole sermon I was like, "Astagfirullahalazim." So I have to give it to him.
 
-**Haziq:** But well, maybe they give so many speeches they eventually run out of material.
+**Haziq:** But well, maybe they preach so much that at some point they run out of ideas.
 
-**Rafizi Ramli:** Right, but if you run out of material, make jokes about Anwar Ibrahim, or about Rafizi. Don't touch Saidina Abu Bakar, Saidina Umar. If that happens, it's really him adding extra seasoning to the rice. If he only talks about Saidina Umar, Saidina Abu Bakar alone, maybe it's boring, sounds like a religious lecture. Oh, he wants to add more rice, add seasoning while it's frying, right, until it gets burnt like this, right.
+**Rafizi Ramli:** True, but if you run out of ideas, make jokes about Anwar Ibrahim or about Rafizi. Don't touch Saidina Abu Bakar, Saidina Umar. If you do, it's like adding extra seasoning to rice, really. If you only talk about Saidina Umar, only Saidina Abu Bakar, it might get boring, it sounds like a religious lecture. Oh, so what seasoning should I add, frying it up, until it's burnt like this.
 
-**Haziq:** Okay okay.
+**Haziq:** Okay, okay.
 
-**Rafizi Ramli:** It should be a lesson to all of us who give speeches, next time think it through. Even if you want to add extra rice, don't let the seasoning burn like this, right. Enthusiastic speech-giving, and enthusiastic "reform is a necessity."
+**Rafizi Ramli:** It's a lesson for all of us who give sermons — next time, think it through. Even if you want to add extra seasoning to the rice, don't let it burn like this. Enthusiastic, enthusiastic preaching, and enthusiastic "reform is a necessity."
 
 **Haziq:** Congratulations to Ustaz Zawawi and the KSN. For the KSN, we'll make a poster later.
 
-**Rafizi Ramli:** Congratulations. No wait, let's put his face and then write "Reform is a necessity." Then put Ramanan's face behind it. Doesn't compute at all.
+**Rafizi Ramli:** Congratulations. No wait, we'll put his face and then put "Reform is a necessity" underneath. Then put Ramanan's face behind him. That just doesn't compute at all.
 
-**Haziq:** Okay YB, 36 minutes, Beria segment done. Let's move to the main segment, Hidup Keras. We have three this time. Let's start with the first one. What's the latest from Putrajaya? About the T20 classification issue.
+**Haziq:** Okay YB, 36 minutes, Beria segment done. Let's move to the main segment, Hidup Keras. We have three today. Let's start with the first one. What's the news from Putrajaya? About the T20 classification issue.
 
-**Rafizi Ramli:** A lot of people have been asking me about this too, journalists, media people asking, right. But it needs a lengthy explanation, so it's better we comment on it in the podcast, right.
+**Rafizi Ramli:** Many people have been asking me — journalists, media outlets have asked. But I felt it needs a lengthy explanation, so it's better to comment on it in the podcast.
 
-**Haziq:** I was surprised they're fighting among themselves, because I thought this should have been settled earlier already?
+**Haziq:** I was surprised they're fighting among themselves, because I thought this was something that should have been settled earlier?
 
 **Rafizi Ramli:** Who's fighting here? UMNO fighting with DAP?
 
-**Haziq:** UMNO fighting with DAP, and even stranger, wasn't it when BUDI 95 was introduced, "Oh this is the brilliance of Datuk Seri Anwar and his team, this is even better than the previous idea"? But now suddenly the issue arises again with Datuk Seri Anwar himself saying the government is in the final stages of studying targeted subsidies by withdrawing fuel subsidies from the T20. Why is Datuk Seri Anwar suddenly talking about this issue again out of nowhere?
+**Haziq:** UMNO fighting with DAP, and even stranger — wasn't it that when BUDI 95 was introduced, "Oh, this is the greatness of Datuk Seri Anwar and his team, this is better than the previous idea"? But now suddenly the question of Datuk Seri Anwar himself has come up, speaking about the government being in the final stages of studying how to target subsidies by withdrawing fuel subsidies from the T20. Why is Datuk Seri Anwar suddenly talking about this issue again out of the blue?
 
-**Rafizi Ramli:** Well, he was asked by reporters. He can't avoid it, right. If you remember, early on when BUDI 95 was launched, right, Chegubard cursed me a lot, including netizens who also joined in, right. Because they said, "Ah, Rafizi thinks he's the only one who's right. It's better to give it to everyone, why differentiate," right. Because at that time the message being pushed, especially by MOF, by Datuk Seri Anwar, by Amir Hamzah, was all about how good our government is that it really cares for the people, giving to everyone and even lowering it further by 6 cents from RM2.05 to RM1.99. If we have the money, of course we want to give to everyone. If you ask me, why from the very first episode of our podcast we commented on this, right, we already said there were flaws in doing it that way. Because there will come a time when the issue of targeting arises, because when you give a blanket subsidy to everyone, that's no longer called targeted subsidy, it's not targeted at all. It's just splashed onto everyone, right. Same as my argument from the start about targeted subsidies. If you ask me, if we were Guyana — Guyana in South America, right — Guyana is now among the fastest-rising countries in terms of per capita income in the world. If we were like Guyana, meaning the population is only 600,000 people and oil is overflowing, that would be fine. The problem is we're not like that. Everyone knows by now, we are a net importer of oil, right. Then we can no longer afford to bear subsidies like before, so we need to find a balance. How do we protect the group that truly — I'll use the word "entitled," although people will then say every Malaysian citizen is "entitled," right, but I mean...
+**Rafizi Ramli:** Well, he was asked by journalists. He can't run away from that. If you recall, early on when BUDI 95 was launched, Chegubard cursed me out plenty, including some netizens who joined in too. Because they said, "Ah, this Rafizi thinks he's always right. It's better to give to everyone, why differentiate?" Because at that time the message being drummed up, especially by MOF, by Datuk Seri Anwar, by Amir Hamzah, all of them, was how good our government is, how it really cares for the people, giving to everyone and even lowering it by another 6 sen from RM2.05 to RM1.99. If we have the money, of course we want to give to everyone.
+
+If you ask me, why from the very start, from our very first podcast comment, we already said there were flaws in doing it that way. Because there would come a time when the issue of targeting would arise, because when you give a blanket subsidy to everyone, that's not targeted subsidy anymore, there's no targeting at all. It's just splashed on everyone. That's the same argument I've made from the start about subsidy targeting.
+
+If you ask me, if we were a country like Guyana — Guyana in South America — Guyana is now among the fastest-rising countries in terms of per capita income in the world. If we were like Guyana, meaning the population is only 600,000 people, oil overflowing, then that would be fine. The problem is we're not. Everyone knows by now, we're a net oil importer. And we can no longer afford to bear subsidies like before, so we need to find a balance. How do we protect the group that's truly — I want to use the word "entitled," but then people will say every Malaysian is entitled, right? But I mean...
 
 **Haziq:** Eligible?
 
-**Rafizi Ramli:** The ones who are eligible, who deserve, who rightfully should receive such subsidies because of their household's situation, if their fuel expenditure burden rises, it will affect other things, right. So we want to achieve that balance, and at the same time we want to make sure that government investment and spending on everyone isn't affected to the point of disrupting the progress and investment for every Malaysian citizen, right. But well, that principle, throughout my time in the Cabinet and now outside the Cabinet, that principle wasn't accepted, right, because he thinks Rafizi is stubborn, he thinks he's the only one who's right, right. I said from the start, doing it this way is popular at first. But if oil prices rise, we'll have a problem. My mouth really is bitter with predictions, right. I didn't expect there'd be this kind of war over it, right. But we're well aware crude oil prices fluctuate like that, they go up and down. It once reached $120. If you look at the two years during COVID, right, from the start of COVID in 2020 until the end of 2022, close to the general election, right, oil prices could drop drastically to $30 because people weren't using it, people couldn't leave their homes, so there was no demand for oil. Then when the economy reopened, combined with the war in Ukraine and everything, it shot up drastically to $120. We've seen within a two-year period, the price range surge and drop — who are we to say that won't happen again? Given the state of global geopolitics these days, right. But no one listened. When no one listened, what we heard afterward was Datuk Seri Anwar's complaint — "The government is bearing 7 billion a month, you know, the people don't read, don't understand, illiterate," and so on, right. If we're already bearing 7 billion a month, we know for sure that's not sustainable in the long run. So whatever politicians say, in the end they can't escape the reality of how much money is in the government's bank account. It's simple. Even us, we can talk big, big, big, but every month we still need to pay the bills. Even if we're in credit card debt, looking flashy and everything, taking the kids out to eat every night or whatever, there will come a time when all of that can no longer be sustained. Credit card maxed out, salary not increasing, no bonus, right. So that's why, internally, the government I believe cannot escape the reality that we can no longer afford this, we need to cut further. What should we cut? So it started with cutting the quota, from 300 to 200, right. I believe the choice of what to cut was among several options discussed internally, right. So because of that internal discussion, they can't avoid being asked by reporters, right. Reporters will definitely ask. That's why the Deputy Finance Minister, Lim Hui Ying, I think got quite a lot of flak. Because she went to a forum, and she talked about how actually 65% of Malaysians use 150 litres a month. Meaning there's room to cut further, from 200 to 150. Oh, she immediately had to issue a statement, "Oh, I didn't say that," right. Meaning if that were confirmed, she'd get thoroughly scolded once back at the office, right. And people say the difficult choices that need to be made surely include withdrawing subsidies from the T20, right. So I believe Datuk Seri Anwar — that matter was already circulating externally, and when he was asked, he couldn't avoid confirming that in principle it had been agreed upon. But that opened up another round of questions from netizens — "So who counts as T20 then? Do I fall into it or not?" and so on. I just sit here clapping and smiling.
+**Rafizi Ramli:** The ones who are eligible, who deserve, who rightfully should receive such subsidies because of their household situation — if their fuel expenditure burden rises, it will affect other things. So we want to achieve that balance, and at the same time we want to ensure that government investment and spending for everyone isn't affected to the point of disrupting the course and investment for every Malaysian.
 
-**Farhan (Pa'an):** Because if we go by it, since October 2024 already, right, YB had talked about income classification.
+But well, that principle, throughout my time in the cabinet and now outside the cabinet, that principle was never accepted, because they think Rafizi is stubborn, that he thinks only he's right. I said from the start, doing it this way would be popular initially. But if oil prices rise, we'll have a problem. My mouth really is bitter with prediction, huh. Even I didn't expect there'd be this kind of war over it. But we're well aware that crude oil prices fluctuate like that. It's gone as high as $120. If you look at the two years during COVID — from the early outbreak of COVID in 2020 until the end of 2022, close to the election — oil prices could crash drastically to $30 because people weren't using it, people couldn't leave their homes, so there was no demand for oil. Then when the economy reopened, plus with the war in Ukraine and everything, it spiked up to $120. We've seen within a two-year span, the price range surge and plunge — who are we to say that won't happen again? Given how the geopolitical situation in the world is, all sorts of things happening.
+
+But they didn't listen. When they didn't listen, what we heard afterward was Datuk Seri Anwar's complaint. "The government bears 7 billion a month, you know, the people don't read, don't understand, illiterate," and so on. If we're bearing 7 billion a month, we already know that thing cannot be sustained for long. So whatever politicians say, in the end they cannot escape the reality of how much money is in the government's bank account. It's simple. Even us, we can talk big, blah blah blah, but every month we still have to pay the bills. Even if we're in credit card debt, looking flashy, taking the kids out to eat every night or whatever, there will come a time when all of that can no longer be sustained. The credit card's maxed out, salary isn't rising, no bonus.
+
+So that's why internally, I believe, the government cannot escape the fact that we can no longer bear this, we need to cut further. What should we cut? So it started with cutting the quota, from 300 to 200. I believe the question of which option to cut is among several options being discussed internally. That's why, once discussed internally, it can't avoid being asked by journalists. Journalists will definitely ask. That's why the Deputy Finance Minister, Lim Hui Ying, I think, got quite an earful. Because she went to a forum and talked about how actually 65% of Malaysians use 150 liters a month. Meaning there's room for us to cut further, from 200 to 150. Oh, and then she immediately had to issue a statement, "Oh, I didn't say that." Meaning if that happened, she'd get thoroughly scolded once she got back to the office.
+
+And people say the difficult choices that need to be made surely include the matter of withdrawing subsidies from the T20. So Datuk Seri Anwar, I believe, that matter had already been circulating out there; when he was asked, he couldn't avoid confirming that in principle it had been agreed upon. It's just that this then opened up another round of questions from netizens, "So who exactly counts as T20? Do I fall into that or not?" and so on. I just sit here clapping and smiling.
+
+**Farhan (Pa'an):** Because if we go by it, since October 2024 already, YB, you'd spoken about income classification.
 
 **Rafizi Ramli:** No, from day one, Paan.
 
@@ -328,73 +334,75 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** No, but the first time you mentioned that the T15 classification should be redefined.
 
-**Rafizi Ramli:** That was actually much earlier, right. When we first entered government, we already saw all this. That's why even before Ekonomi MADANI existed, the Ministry of Economy had already set that one of the main targets, the goal of the national economic reform, was to re-target subsidies. And when we say re-targeting subsidies, the early discussions were all about using cash transfers. So when it comes to using cash transfers, we need to determine eligibility. So when it comes to eligibility, we can't escape two things. First, the method and definition to categorize and group households, the people. Because we need to be able to explain to the public, to everyone, that T20, T15, M40, B60, all these terms don't mean anything to the public. Those are just statistical lines. But well, politicians don't like statistics, right. It depends on the population definition used. For example, T20, M40, B40 as used since 2010, introduced by Najib, uses a simple method. It takes the population data for Malaysians based on gross household income. So we have our households — let's count back how many people we have, 34 million, meaning our households are around 17 million. Roughly. Oh, is it less than that, right? 17 million-ish. Sorry, less, less, less, less, less, our households are around 12, 13 million or so. Because our average household size is about two or 2.1 or so, let's say 13 million, right. So each household is taken — this household has a gross income of RM2,000 a month, this one RM3,000 a month. So you put all these households into a table, and then you sort it out — from the lowest, for example maybe RM50 a month, to the highest, maybe RM20 million a year. So you have 13 million data points here, households. And then you just cut across, right. Meaning T20 is a household if the sample size is 13, let's see, 13 million. If we go by the lower figure, the number of households is around 8 million. 8 million, 8 million. During our time...
+**Rafizi Ramli:** That was actually even earlier. From very early on when we entered government, we already saw all this. That's why, even before Ekonomi MADANI existed, the Ministry of Economy had already set out that one of the key targets, the goal of the country's economic reform, was to re-target subsidies. And when we talk about re-targeting subsidies, the early discussions were all about using cash transfers. So if we're going to use cash transfers, then we need to determine eligibility. So when it comes to eligibility, we can't avoid two things.
 
-**Farhan (Pa'an):** 8.4 million from PADU.
+First, the method and definition for grouping and categorizing households, the people. Because this needs to be explainable to the public — because T20, T15, M40, B40, all of this means nothing to the people. Those are just statistical lines. But well, politicians don't like statistics. It depends on the population definition used. For example, T20, M40, B40, which has been used since 2010 when it was introduced by Najib, uses a simple method. It takes population data for Malaysians based on gross household income. So we have our households, let's calculate how many households there are — eh, population is 34 million, meaning households number around 17 million. Roughly. Oh, is it less? Sorry, less, less, less. Our households are around 12, 13 million or so. Because our household size is around two or 2.1, let's say 13 million.
+
+So you take each household — this household has gross income of RM2,000 a month, this one RM3,000 a month. So you put all these households in a table, and then you sort it out. From the lowest, say maybe RM50 a month, to the highest, say maybe RM20 million a year. So you have 13 million data points, households. And then you just cut across. Meaning T20 is households, if the sample size is 13 — let me see, 13 million. Roughly speaking, the lower figure, the number of households is around 8 million. 8 million. At that time we...
+
+**Farhan (Pa'an):** 8.4 from PADU.
 
 **Haziq:** Actually 8 million, 8.2 I think.
 
-**Rafizi Ramli:** 8 million, 8 million. But if we look at PADU, right, actually I think it goes up to 12 million. Because it follows a definition that is fairer to the people — a single person is counted as one household, you know. A household is...
+**Rafizi Ramli:** 8 million, 8 million. But when we look at PADU, actually I think it goes up to 12 million. Because it follows a definition that's fairer to the people — a single person is counted as one household too, you know. A household is...
 
-**Haziq:** Oh, wasn't it counted like that before?
+**Haziq:** Oh, that wasn't counted before?
 
-**Rafizi Ramli:** The official data from DOSM, its definition is stricter. So the definition when we built PADU is that anyone who pays for their own monthly expenses, meaning they pay their own rent, pay their own electricity, is counted as one household. Take for example single people sharing a house, four people in one household. According to official statistics, that's counted as one household because it's one house. But according to the PADU definition, each person is counted as one household. That's why according to PADU, the total number of households is larger, over 12 million. The official figure is around 8 million, right.
+**Rafizi Ramli:** The official data from DOSM, its definition is stricter. So the definition used when we built PADU is that anyone who pays their own monthly expenses, meaning they pay their own rent, their own electricity, is counted as one household. Take, for example, single people sharing, four people in one household. Under the official statistics, that's counted as one household because it's one house. But under the PADU definition, each person is counted as one household. That's why under PADU's household count, it's much bigger, over 12 million. The official figure is around 8 million. So for T20, you just take the top 20%. That's why, according to that statistic, based on that, T20 nationally is households earning RM12,680 and above, per household. That's why it's dangerous. For example, take a family that actually has three people earning income. There's a mother, a father working separately, and a child also working. Say the father earns over RM4,000 a month, the mother over RM3,000, and the child, newly working, earns over RM3,000. That already makes them T20. Because combining those three incomes comes to about RM12,680, roughly. But if you ask people, someone over 50 years old earning, say, RM4,800, surely he's not rich. Not rich at all. Meaning he's just an ordinary person. So for him to fall into the T20 category and not be eligible for anything, not even fuel subsidy, he really feels genuinely victimized.
 
-So for T20, you just take the top 20%, right. That's why according to statistics, the national top 20% consists of households with income of RM12,680 and above, per household. That's why it's dangerous. For example, take a family that actually has three income earners — the mother and father each working, and the child also working. Say the father earns over RM4,000 a month, the mother over RM3,000, and the child, just starting work, earns over RM3,000. That already makes them T20, because combining those three incomes reaches RM12,680, or thereabouts. But if you ask people, a 50-something-year-old earning RM4,800, for example, they're definitely not rich. There's no way they're rich, meaning they're an ordinary person. So for them to fall into the T20 category and not be eligible for anything, even fuel subsidies, they really feel truly victimized.
+That's why, since Datuk Seri Najib's time when he first introduced this, after 7-8 years, the government policy was that only B40 receives assistance. So imagine the M40 group. If B40 now is defined as income up to RM5,859, take a young family earning RM4,000, RM4,000, just starting work with two kids, during a time when costs are high, they get no assistance at all because they fall under M40. That's the existing policy we inherited from Datuk Seri Najib, you know.
 
-That's why since Datuk Seri Najib's era when this was first introduced, after 7–8 years, government policy was that only B40 received assistance. Imagine an M40 household — if B40 now is income up to RM5,859, take a young family earning RM4,000, RM4,000, just starting work, with two children, during a time when costs are high, they get no assistance at all because they fall under M40. That's the existing policy we inherited from Datuk Seri Najib.
+So to answer what Pa'an asked, from the very beginning, in terms of policy for targeting subsidies, one key component was for us to unpack and rebuild the household classification system to make it fairer, more accurate. That's why we built PADU! And the concept within PADU is indeed different. And this matter was presented to the cabinet. I've mentioned it repeatedly in Parliament whenever asked, and even the opposition couldn't really attack it much, because I think the opposition themselves acknowledge that if it could be done that way, it would be good. That is, household classification for determining government assistance and policies shifting from gross income, as I mentioned earlier, to net disposable income.
 
-That's why, to answer Pa'an's question earlier — from the beginning, in terms of policy for targeting subsidies, one main component was for us to unpack and rebuild the household classification system to make it fairer, more accurate. That's why we built PADU! The concept in PADU is indeed different. This matter was presented to the Cabinet. I've said it repeatedly in Parliament when asked — even the opposition couldn't attack it much, because I think what we said, the opposition is also aware, that if it can be done that way, it would be good.
+That's why we need PADU to overhaul the dataset of 12 million households based on gross income, then just cut it up — 40% below B40, then the next 80% is M40, above M40 is T20, not eligible, for example. We said we need to take into account the actual reality of the cost of living in Malaysia. There are several things you don't need a PhD or a mathematics degree to understand. For example, the cost of living varies by geography, right? Rent differs by location. Then food prices differ by location. Then travel costs differ by location.
 
-That is, the household classification for determining government assistance and government policies shifts from gross income as I mentioned earlier, to net disposable income. That's why we needed PADU to rebuild the dataset of 12 million households based on gross income — then we just cut it, the bottom 40% becomes B40, the next 30% becomes M40, above that T20, not eligible. We said we need to take into account the real cost of living in Malaysia. There are several things that don't require a PhD or a mathematics degree for us to be aware of. For example, the cost of living varies by geography. Right? Rent differs by location, food prices differ by location, transportation costs differ by location.
+So, for example, for a worker whose household income is RM8,000 a month, if he lives in Kuala Lumpur with RM8,000 a month, two parents and two children, RM8,000 a month, if he lives in Kuala Lumpur economically speaking, his life is harder in Kuala Lumpur compared to a household with RM8,000 a month, two parents and two children, living in Perlis or Kelantan, for example. So location determines a lot of things. Then there's dependents. A single person living alone, say he works in Temerloh, works for the government, salary RM3,500. Under the current classification, he's in B40. So he can get everything — STR, subsidies, all kinds of assistance.
 
-So, for example, take a worker whose household income is 8,000 a month. If he lives in Kuala Lumpur with 8,000 a month, as a parent of two children, his life is harder in Kuala Lumpur compared to living with 8,000 a month in Perlis or Kelantan. So location determines a lot of things. Then there's dependents — a single person, living alone, working in Temerloh, a government job, salary RM3,500. Under the existing classification, he falls under B40. So he can get everything — STR, subsidies, all forms of aid. Compare that to a family living, say, in the Klang Valley, in Subang Jaya, husband's salary 3,500, wife's salary 3,500, so 7,000, with two young children, one aged 5, one aged 3. He won't get any aid at all because he's at RM7,000 a month, above the line that's simply drawn cutting across at RM5,859. But actually his burden is far greater because he has two children who require significant expenses at ages 5 and 3.
+Compared to a family living, say, in the Klang Valley, in Subang Jaya, he earns RM3,500 and his wife earns RM3,500, RM7,000 total. Then they have two young children, one aged 5, one aged 3. They won't get any assistance because they earn RM7,000 a month, above the simple line drawn at RM5,859. But actually their burden is far greater, because they have two children who need significant expenses at ages 5 and 3. So dependents have a big impact.
 
-Dependents have a big impact. Then there's the factor of workplace location — people living outside the Klang Valley or outside JB, outside city centres, their workplace is nearby. If they ride a motorcycle, it's cheaper. But if they live in Kuala Lumpur, in big cities, they have no choice but to use a car. And if they live far away, say from Seremban but work in KL — if they want to live in KL, house rent is expensive. So all these factors show that if we use the gross income method as we do now, it truly won't be fair. That's why we say we must switch to net disposable income.
+Then there's also the factor of work location. People living outside the Klang Valley or outside JB, outside the big city centers, their workplaces are nearby. And if they ride a motorcycle, it's even cheaper. But if they live in Kuala Lumpur, in big cities, they have no choice but to use a car. And if they live far away, say commuting from Seremban to work in KL — if they want to live in KL, housing is expensive. So all these factors show that if we use the gross income method as it currently exists, it will never be fair. That's why we said we must switch to net disposable income.
 
-What's the problem when we want to move to net disposable income? This is the argument used by the Ministry of Finance to reject PADU. They had a big argument — whether it was Amir Hamzah, the Ministry of Finance, or Anwar Ibrahim — rejecting PADU supposedly on one argument. What was it?
+What's the problem with switching to net disposable income? This is the argument used by the Ministry of Finance to reject PADU. They have a big argument. Whether it's Amir Hamzah, the Ministry of Finance, or Anwar Ibrahim, supposedly rejecting PADU based on one argument. What is it?
 
 **Farhan (Pa'an):** I think I remember. It's hard to understand.
 
-**Rafizi Ramli:** Hard to implement and hard to understand. Their answer: it's difficult. I was like, my God, is there anything good in this world that's easy, man? Everything is difficult! Even you becoming PM was difficult for us back then! That's how I wanted to answer. Their answer was "difficult" — that's the official reason, you know, "difficult." Imagine! My ears are already big, I felt them turn red, I could feel my ears getting hot when they gave the excuse that it's difficult to implement. Why is it difficult to implement? Good thing you remember the "difficult to implement" answer.
+**Rafizi Ramli:** Hard to implement and hard to understand. Hard. Their answer was "hard." I was like, oh my God, is there anything good in this world that's easy, man? Everything is hard! Even you becoming PM was hard for us back then! That's how I wanted to answer. Their answer was: hard. That's the official excuse, you know. Hard. Imagine! My ears — my big ears — I could feel them turning red, I could feel my ears getting hot when they gave that "hard to implement" excuse. Why is it hard to implement? Good thing you remember that the answer was "hard to implement."
 
-**Farhan (Pa'an):** Among the reasons, if I remember correctly, number one, every locality is different. And then we, I think we have to first go with PAKW. So another reason it's difficult is because there are many factors that need to be considered before actually coming to a classification.
+**Farhan (Pa'an):** Among the reasons, if I remember correctly, number one is every locality is different. And then, I think we have to first go with PAKW. So, another reason it's hard is because there are many factors that need to be considered before actually arriving at a classification.
 
-**Rafizi Ramli:** Actually — this is also something I remember from the people who are anti-PADU, which is funny. This is the time for me to troll back.
+**Rafizi Ramli:** Actually, this is also what I remember from the people who are anti-PADU, which is funny. This is my chance to troll them back.
 
-**Haziq:** The ones who said it's difficult — was this before or after building PADU?
+**Haziq:** The ones who said it's hard — was this before PADU was even built?
 
-**Rafizi Ramli:** While we were building it. But when we wanted to develop the whole concept, no one objected saying it couldn't be done. If it were me, it's simple, you know — if I say it can't be done, I insist it can't be done so as not to waste people's time. This is the sad story of PADU that KJ always trolls about — you can troll him too. We were instructed to build it, so we built the whole thing. If they knew from the start they didn't want to use it, they should have said so, and we wouldn't have wasted time. Okay, fine. The complication, the so-called "difficulty," is that people's lifestyles differ from one another. That's when filling in PADU, there was always some excuse that made me think, oh my God, this excuse just shows you don't really understand. Their excuse was, "Where's the fairness? That person buys two or three cars, has a lot of debt obligations. So if we subtract his salary by his expenses, he looks poor, even though he actually lives a rich lifestyle because he buys many cars, has a big house, and so on." Of course you cannot create a national database dependent on people's individual lifestyles and differences.
+**Rafizi Ramli:** It was while we were building it. But when we were designing the whole concept, nobody objected that it couldn't be done or whatever. If it were up to me, I'm simple — if I say it can't be done, I'd insist it can't be done so as not to waste people's time. This is the sad story of PADU that KJ keeps trolling about. He can troll it all he wants. We were instructed to build it, so we built the whole thing. If you knew from the start you didn't want to use it, you should have said so early, so we wouldn't waste time. Okay, fine.
 
-That's why we need to understand, for example, how the original T20, M40, B40 classifications were created in the first place. When I say they took household income from 8 million households and tabulated it — did they go knock on every single household's door? How exactly were T20, M40, B40 originally created?
+The supposed complication is that people's lifestyles differ from one another. When it came to filling in PADU, there were people who — oh my God — this excuse just shows you don't really understand. Their argument: "Is it fair? Someone buys two or three cars, has a lot of debt. So if we subtract his expenses from his salary, he looks poor, even though he actually lives a rich lifestyle because he buys many cars, has a big house, and so on." Of course you cannot create a national database dependent on lifestyle and individual differences. That's why you need to understand how, for example, the original T20, M40, B40 classification — when I say it takes household income from those 8 million households and tabulates it — did they actually go and knock on every single household's door? How was the original T20, M40, B40 classification actually done?
 
 **Haziq:** Taken from LHDN?
 
-**Rafizi Ramli:** Not at all! Not at all!
+**Rafizi Ramli:** No way! No way!
 
 **Farhan (Pa'an):** A salary census.
 
-**Rafizi Ramli:** It's not a salary census. Okay, every year we have what's called the Household Income and Expenditure Survey — a survey of national income and expenditure. It's not about going door-to-door to census every single family. Just like Haziq didn't understand earlier, it uses a sampling basis. That sampling involves, I believe, 80,000 households across Malaysia. The population size by now might have changed, but I think a few years back it was 80,000 households across Malaysia. Those selected, or rather forced to be part of the survey — because of national law, we have the Statistics Act. If you're made part of that sample population, you can't say you don't know, you have to comply. It's against the law to say "I don't want to." You must comply!
+**Rafizi Ramli:** It's not a salary census. Okay, every year we have what's called the Household Income and Expenditure Survey. It's a national survey of income and expenditure. They don't go and census every single family one by one. Same thing Ramanan didn't understand earlier — they use a sampling basis. And that sample involves, I think, 80,000 families across Malaysia. The population size by now may have changed, but I think a few years back it was 80,000 households across Malaysia. And those selected, or rather forced to be part of that survey — because under national law, we have the Statistics Act, you know. If you're chosen as part of that sample population, you can't say you don't know, you don't want to — you're required by law to participate. You can't say "I don't want to." You have to! So those 80,000 households are given a book, one book that they have to fill in every month recording how much they spend and how much they earn.
 
-So those 80,000 households are given a book that they have to fill in every month — how much they spend and how much they earn. That's the funny part when the Ministry of Finance says it's difficult to do, when all their calculations regarding how much subsidised fuel, how many people use fuel, come from the same source of data. So on the one hand we have been using it — the Household Income and Expenditure Survey — forever. That's the source used by every department. And suddenly, when it comes to building PADU and moving to net disposable income, they say it's difficult to do, that the data is difficult because it's about current people. Because the method is the same — those selected who represent each stratum of family will have their expenditure reported, and that figure is calculated statistically to estimate a typical household.
+That's what's funny — when the Ministry of Finance says it's hard to implement, yet all their calculations regarding how much fuel subsidy, how much of this, how much of that, how many people use fuel — all of that comes from this very source! So on the one hand, we have been using this Household Income and Expenditure Survey forever. That source has been used by all departments, all of them. Yet suddenly, when it comes to building PADU and shifting to net disposable income, they say it's hard to do. That the data is hard because it needs to be up to date. Because the method is the same. The method is that those selected, who represent their respective family strata, will have their expenditure reported, and that figure will be calculated statistically to estimate what a typical household looks like. Because when you take a stratum — say that stratum is a young family, wife, husband, two children, living in the city — some spend a lot, some spend little. Usually they take the median. So all that expenditure data actually comes from the raw data of the Household Income and Expenditure Survey. Based on that, we calculate the net disposable income of a household. The net disposable income of each family — that's what we used to build PAKW, the Reasonable Basic Cost of Living Expenditure (Perbelanjaan Asas Kehidupan Wajar). What's the difference when we introduce this concept of "reasonable living" compared to what exists now? What's funny is, this was already approved by the Cabinet.
 
-Because when you take, say, one stratum — that stratum is young families, wife, husband, two children living in the city — some spend a lot, some spend little, and usually the median is taken. So all that expenditure data actually comes from raw data from this Household Income and Expenditure Survey. Based on that, we calculate the net disposable income of a household — the net disposable income of each family. That's how we built PAKW, the Reasonable Basic Cost of Living Expenditure ("Perbelanjaan Asas Kehidupan Wajar"). What's the difference when we introduce this concept of reasonable living compared to what exists now? What's funny is that this was already approved by the Cabinet.
+**Farhan (Pa'an):** I think it's even been launched already.
 
-**Farhan (Pa'an):** There's already been a launch, I think.
-
-**Rafizi Ramli:** It's already been launched, all of it. Wasn't it the PM who launched it? He was the one who launched it. My God! He launched it in Penang. The Reasonable Basic Cost of Living Expenditure has been approved by the Cabinet, the PM has launched it, and then they don't want to implement it, don't want to use it. What's the difference between the concept of reasonable living introduced by the Ministry of Economy and DOSM in 2024, versus the T20, M40, B40 concept that the Ministry of Finance might be looking at now? What's the difference?
+**Rafizi Ramli:** It's already been launched and everything. Wasn't it the PM who launched it? He launched it. Oh my God! He launched it. He launched it in Penang. The Reasonable Basic Cost of Living Expenditure was already approved by Cabinet, the PM already launched it, and then he doesn't want to implement it, doesn't want to use it. What's the difference between the "reasonable living" concept introduced by the Ministry of Economy and DOSM in 2024, versus the T20, M40, B40 concept that the Ministry of Finance might now be looking at? What's the difference?
 
 **Haziq:** More decent?
 
-**Rafizi Ramli:** More "decent" living? "Decent" what — "decent" is just a literary word! This has to be based on some science to it. So what's the difference between the concept of reasonable living and what exists now?
+**Rafizi Ramli:** More "decent" living. What kind of literary word is "decent"! It must be based on some science to it. So what's the difference between the concept of reasonable living and what exists now?
 
-**Haziq:** The calculation — okay, firstly the calculation has two parts. One, based on geography and...
+**Haziq:** The calculation — okay, first the calculation has two parts. One, based on geography and...
 
-**Rafizi Ramli:** No, okay.
+**Rafizi Ramli:** Not quite, okay, okay.
 
 **Haziq:** And location.
 
-**Rafizi Ramli:** No, no, no, no, no.
+**Rafizi Ramli:** No, no, no, no, no, no.
 
 **Farhan (Pa'an):** There's a needs component...
 
@@ -408,47 +416,47 @@ Because when you take, say, one stratum — that stratum is young families, wife
 
 **Haziq:** Wants, needs, social participation?
 
-**Rafizi Ramli:** Okay, right. For those who studied sociology, basic economics, and so on, we're familiar with a theory that I recall has been in use for the past 70–80 years. It's called Maslow's hierarchy of needs — that pyramid. When a person is at the very bottom level, the most important thing for him, all he works and thinks about is just eating, having shelter, and clothing. That's his basic needs, no luxury. Meaning, it's total needs. When you go to the next level, we start to have wants — for example, we want a car, actually if we don't have a car it's fine too, we could just take the bus. So then you start to have wants, desires — meaning goods or additional expenses that are not basic necessities but make our lives more meaningful and comfortable. At the very top, fulfillment — people who are already rich, who already have a lot of money, actually aren't affected by matters of food, housing, clothes, they already have all that. So their lifestyle and decisions are largely influenced by the pursuit of fulfillment. If you don't believe me, ask Farhash. Once someone is at that top level, fulfillment for example might mean becoming a politician, having hobbies — that's usually how it goes. So this is about engagement.
+**Rafizi Ramli:** Okay, right. For those who studied sociology, basic economics or whatever, we're familiar with a theory that I believe has been in use for the past 70-80 years, called Maslow's hierarchy of needs. That pyramid, Maslow's hierarchy of needs, right. When someone is at the very bottom level, the most important thing to them — their work, their thinking — is all just about food, shelter, and clothing. Those are their basic needs. They have no luxuries at all. So that's total "needs." When you go to the next level, we start having "wants." Wants, for example, we want a car — actually if we didn't have a car it would be fine, we could just take the bus. So then you start having "want," desire, right. This means extra goods or expenses that aren't really basic necessities, but that make our lives more meaningful and comfortable. What's at the very top? Fulfillment. This means people who, once they're rich, once they have a lot of money, actually aren't affected by food, housing concerns anymore — they already have everything, clothes and all. So their lifestyle, their decisions, are largely influenced by the pursuit of fulfillment. If you don't believe me, ask Farhan. Once you're up there. Fulfillment, for example, is maybe people getting into politics, or having hobbies — usually hobbies, right. So it's about engagement.
 
-We take that concept, and according to international standards, this "reasonable living" means that besides the matter of needs — food and drink, determined by calories. What age is the child, how many calories, how much protein, and you map it back out — if you need to meet this calorie count, what kind of rice, and you know the costing for it. Housing — what kind of house, vehicles, transportation, healthcare, all of it — that's the usual thing that already exists. To determine whether someone is poor or not, based on needs — food, drink, shelter.
+So we took that concept, and following international standards, "reasonable living" means that besides the matter of needs — food and drink, which is determined by calories. What age is the child, how many calories, how much protein, and then you map it back out — if to meet these calories, what should the rice portion look like, and then you know the costing. Housing — what kind of house; transportation, vehicles; health — all of that. That's the usual stuff. Okay, that's what exists now. To determine whether someone is poor or not, it's based on needs — food, drink, shelter. When we introduce the concept of "reasonable living," it means we add one more element, which is basically an element of fulfillment. That's what we call social engagement and life engagement. So that means their spending on entertainment, spending on social activities, sports, all of that — all of it is included.
 
-When we introduce the concept of reasonable living, it means we add one more element, namely the element of fulfillment. That's what we call social engagement and life engagement. Meaning spending on entertainment, social activities, sports — all of that is included. So based on the report on people's expenditure, that's how we get PAKW. If one household has three people, children of a certain age, it's different from a household of eight people, parents with six children of a certain age.
+So based on the household expenditure report, that's how we got PAKW. If a household has three people, with children of certain ages, it will differ from a household of eight people — parents with six children of certain ages. So if we can do that, I think the people will feel it's fairer. Because currently, if you cross an income of roughly RM6,000 and above, you're simply not eligible for any assistance at all. Before this, during Najib's era, only B40 got help. Now, if we do T20 using the existing concept because it's supposedly too hard to implement what we built through PADU, then all households with income of RM12,700 won't get anything.
 
-So if we can do that, I think people would feel it's fairer. Because right now, if income exceeds roughly 6,000, they simply don't qualify for any aid. Previously, in Najib's era, only B40 got aid. Now if T20 is done using the existing concept, because it's "too difficult" to use what we built through PADU, then everyone whose household income is 12,700 gets nothing at all. So in the end, this is what we've all been waiting for when reporters ask — it's not about T20, B40, M40, because even T15 was previously used by the PM. While we were all still scratching our heads about it, never mind, he went ahead and announced T15! That's a whole other matter — this hasn't even finished being discussed and he's already announced T15. It's not about T15, T10, T5 — it's about what definition you use, what concept do you use to categorize household economic standing as fairly and as equitably as possible.
+So, in the end, this is what everyone's been waiting for when journalists ask about it. It's not about T20, B40, M40, because even T15 was previously the PM's idea. While we were all still scratching our heads over this, well, never mind, he just went ahead and announced T15! Meanwhile I'm over here dealing with this — this whole discussion hasn't even finished and he's already announced T15. It's not about T15, T10, T5. It's about what definition you use, what concept you use to categorize household economic standing as fairly and as equitably as possible.
 
-**Haziq:** YB, speaking of B40, M40, T20, I noticed media reports all informing of YB's statement that the B40, M40, T20 classification would be abolished starting 2024. But the government is still using those terms now. So what's the obstacle to making that happen? Because...
+**Haziq:** YB, speaking of B40, M40, T20 — I noticed media reports informed by YB's statements said this classification would be abolished starting 2024. But the government is still using those terms now. So what's the hindrance or obstacle to making that happen? Because...
 
-**Rafizi Ramli:** All that data already exists. The public actually — when we introduced this, kudos to DOSM, I feel for DOSM, they worked so hard to build all this. If you go to DOSM's website, they actually have a PAKW calculator. In fact I can remember the URL, pakw.dosm.gov.my. So if you go there, by just filling in some basic information — which state, which district, urban or rural area within that district, then how many people in the household, father's age and gender, mother, children, all of it — it will directly tell you that the reasonable basic cost of living expenditure for your household is, for example, RM7,000. What does RM7,000 mean?
+**Rafizi Ramli:** All the data already exists. So actually, the public — when we introduced this, credit to DOSM, poor DOSM had to work so hard on all this — if you go to DOSM's website, they actually have a PAKW calculator. In fact, I still remember the URL, pakw.dosm.gov.my. So if you go there, by just filling in some basic information — for example, which state, which district, urban or rural area within that district, then household size, father's age and gender, mother, children, and so on — it can immediately tell you that the reasonable basic cost of living expenditure for your household is, for example, RM7,000. What does that RM7,000 mean?
 
-**Haziq:** That's the expenditure that has included needs, maybe wants like buying whatever car, and also wanting to go bowling.
+**Haziq:** That's expenditure that already includes needs, maybe wants like buying a car or whatever, and also him wanting to go bowling.
 
-**Rafizi Ramli:** So that means, hypothetically, for my own family, if I went and entered, calculated, gave the information — my reasonable basic cost of living expenditure is RM7,000. But my actual income is only RM6,000. Under the existing M40, B40 classification, I would already fall under M40, you know. But under PAKW, under PADU, if the reasonable basic cost of living expenditure for that family is RM7,000 but their gross income is only RM6,000, what does that mean?
+**Rafizi Ramli:** So hypothetically, say for my family — I go and input, calculate, provide the information, and my household's reasonable basic cost of living expenditure is RM7,000. But my actual income is only RM6,000. Under the existing M40, B40 classification, I'd already be in M40, you know. But under PAKW, under PADU, if the reasonable basic cost of living expenditure for that family is RM7,000 but their gross income is only RM6,000, what does that mean?
 
-**Haziq:** It means to say he's dirt poor...
+**Haziq:** It means they're really poor...
 
-**Rafizi Ramli:** He's poor! He qualifies for aid. Because in fact he can't even meet his own reasonable basic cost of living expenditure. So when we have these two figures — gross income, and the basic family expenditure that is unique to each family according to location and so on — then you have a new set of population data. Instead of tabulating and determining eligibility based on gross income, we actually look at net disposable income. There will be families whose gross income is 9,000, but after subtracting PAKW according to family size and location, might be negative 2,000. That family qualifies for aid. Compared to someone whose gross income is, say, RM5,000 but whose PAKW is 2,000, 2,500, or 3,000 — when you place that in the population, that person might actually fall into the upper M40. So all of this already exists within PADU.
+**Rafizi Ramli:** They're poor! They're poor. They're eligible for assistance. Because in fact they can't even meet their reasonable basic cost of living expenditure. Right? So when we have these two figures — gross income, and each family's unique basic living expenditure according to location and so on — then you have a new set of population data. Instead of tabulating and determining people's eligibility based on gross income, we actually look at net disposable income. There will be families with a gross income of RM9,000 but after deducting PAKW according to their family size and location, they might be negative RM2,000. That family is eligible for assistance. Compared to someone with a gross income of, say, RM5,000 but a PAKW of RM2,000, RM2,500, or RM3,000 — when you place that within the population, they might actually fall into upper M40.
 
-Only, I remember, if Haziq asks what exactly the real obstacle is — it's politics. Because the PM and MOF are afraid the PM will lose popularity if we use PADU and the cash transfer method, because that would mean fuel prices need to be floated. He's afraid. Datuk Seri Anwar is haunted by this because he previously promised, "Win today, tomorrow fuel prices will come down." That's actually all there is to it! Whereas maybe if I were in his position, I would explain everything, I would apologize. It's fine if people want to be angry at me, let them be angry, but for the future of our country we need to make this shift. So because of that, simply because they don't want to raise fuel prices and use the cash transfer method based on PADU and household net disposable income, all of it was rejected.
+So all of this already exists within PADU. It's just that, if Haziq asks what the actual obstacle is — it's politics. Because they don't want — this started with the PM and MOF being afraid the PM would lose popularity if we used PADU and the cash transfer method, because that would mean fuel prices need to be floated. Ha, he's afraid. Datuk Seri Anwar is haunted by this because he once promised, "Win today, fuel prices come down tomorrow." That's really all it is! Whereas, perhaps, if I were in his position, I would explain everything, apologize. It's fine if people get angry at me, let them be angry, but for the country's future we need to make this transition. So, from that, purely because they don't want to raise fuel prices and implement the cash transfer method based on PADU, which is based on net household income and expenditure, all of it was rejected.
 
-Now it's become a joke, I just smile from a distance. Meaning now they have to figure out how to define T20, B40, M40? Because if they don't use the household net disposable income method that we already built through PADU, a lot of people will be angry. Because T20 will say, "What T20 am I, every month I subtract, subtract, subtract, I'm in debt." Because actually if you follow the PADU and PAKW method, they would indeed get aid because they're actually a large family, or there are other factors involved.
+Now it's become funny — I just smile from a distance. Because now they have to answer how to handle T20, B40, M40. Because if they don't use the net household income and expenditure method that we already developed through PADU, a lot of people will be angry. Because those in T20 say, "What T20 am I? Every month I deduct, deduct, deduct, I'm in debt." Because actually, under the PADU and PAKW method, they would indeed get assistance, because they're actually a large family, or have other contributing factors.
 
-**Farhan (Pa'an):** So it seems like a moment of, we could say in a way, "I told you so." Secondly also, with GE16 coming very soon...
+**Farhan (Pa'an):** So it seems like, in a way, we could say this is a "told you so" moment. Secondly, also with GE16 coming very soon...
 
-**Rafizi Ramli:** I'm not going to say "I told you so." The more I say that, the less likely they are to do it.
+**Rafizi Ramli:** I wouldn't say "I told you so." The more you say that, the less likely they are to do it.
 
 **Farhan (Pa'an):** But it's unlikely they can do anything for now, because the runway is already too short.
 
-**Rafizi Ramli:** I don't know, I don't know. I mean, that's up to them to decide what to do. But most probably I think Datuk Seri Anwar will do it together with Amir Hamzah, the MOF and everyone, because now it's become a clash of egos. If he uses PADU, it means he's admitting he was wrong. So what will most likely be done is this: they'll have this disposable income element, they'll also subtract things, not just gross expenditure, they'll say, "Oh actually we also have that data." So instead of using the already-existing PADU, they'll build a new database — just like they built a new database for BUDI 95. They'll come up with a new definition, a new style, all of which ultimately amounts to, "Oh this isn't PADU, this is what we built according to our own decisions." But it's a waste of time, a waste of money, and PADU already exists, 21 million Malaysians have already filled it all in, complete data.
+**Rafizi Ramli:** I don't know, I don't know. I mean, that's really up to them to decide what to do. But most probably, I think Datuk Seri Anwar will act together with Amir Hamzah, MOF and so on, because now it's become a clash of egos. If he uses PADU, that means admitting he was wrong. So what will most likely happen is this: there will be a disposable income element to it. They'll deduct this, deduct that — not just gross expenditure — they'll say, "Oh actually, we also have that data." So instead of using the PADU that already exists, they'll build their own new database. Just like they built a new database for BUDI95, they'll come up with a new definition, a new style, and eventually say, "Oh, this isn't PADU, this is what we built based on our own decisions." But it wastes time, wastes money, and PADU already exists, with 21 million Malaysians having already filled in complete data.
 
-**Haziq:** Or maybe they'll have everyone fill in PAKW too, then subtract it...
+**Haziq:** Or maybe they'll get everyone to fill in PADU again, then deduct from it...
 
-**Rafizi Ramli:** I don't think they'll go anywhere near anything that's already at the Ministry of Economy.
+**Rafizi Ramli:** I don't think they'll go near anything that already exists at the Ministry of Economy.
 
-**Farhan (Pa'an):** But the current Minister of Economy, YB Akmal, has said that PADU is actually being used, will be used, or is currently being used, right?
+**Farhan (Pa'an):** But the current Minister of Economy, YB Akmal, did say PADU is actually being used, will be used, or is used?
 
-**Rafizi Ramli:** Of course, that's for other departments. Other departments truly appreciate it, because if they had to collect all this data themselves, they wouldn't have the capacity and they really need this resource. Because if every Malaysian citizen dealing with one department had to fill everything in again, that doesn't make sense. There's already one central database that has data from all government departments including EPF, PERKESO, LHDN, all of it is already there. So other departments are more than happy, but MOF — MOF will not use it. So I don't think they'll go there. It's very likely they'll ask people to register again, or as usual — like STR, diesel, everyone has to apply again, go through the same process all over again. The problem with applying again is that it also needs to be verified, cross-checked, because with new applications there will always be people who cheat. Whereas the data already exists. So let's wait and see.
+**Rafizi Ramli:** Of course, that's for other departments. Other departments really appreciate it, because if they had to collect their own data for all this, they wouldn't have the capacity, and it would need constant verification. If every Malaysian had to fill in the same information again every time they dealt with a different department, that wouldn't make sense. There's already a central database with data from all government departments, including EPF, PERKESO, LHDN — all already included there. So other departments are more than happy, but MOF — MOF will never use it. So I don't think they'll go that route. Most likely, there's a possibility they'll ask people to register again, or as usual, like STR, whether it's STR or diesel — everyone has to apply again. Apply again, go through the same process all over again. The problem is, when people apply, it still needs to be verified. It still needs to be cross-checked, because with new applications there will always be people who cheat. The data already exists. So, we'll just have to wait and see.
 
-**Haziq:** YB, before we move on, maybe a political question. We understand Anwar Ibrahim, Datuk Seri Amir Hamzah, Johan Mahmood Merican — they're in their own bubble.
+**Haziq:** YB, before we move on, maybe one political question. We understand Anwar Ibrahim, Datuk Seri Amir Hamzah, Johan Mahmood Merican — they're in their own bubble.
 
 **Rafizi Ramli:** Why do you call him Johan Mahmood Merican? Do you think he's American? It's Johan Marican.
 
@@ -456,41 +464,35 @@ Now it's become a joke, I just smile from a distance. Meaning now they have to f
 
 **Rafizi Ramli:** Marican.
 
-**Haziq:** It's Marican, but there's an 'e', Merican, but he's Marican.
+**Haziq:** It's Marican, but there's an "e," Merican, but it's Marican.
 
-**Rafizi Ramli:** Right, but I think our pronunciation is Marican. Maybe the police officer who wrote the name misheard "American," and wrote Merican. Marican is a common name. It's really Marican. You wouldn't call Tan Sri Hassan, Tan Sri Hassan Merican? It's Tan Sri Hassan Marican.
+**Rafizi Ramli:** Yeah, but I think our pronunciation is Marican. Maybe the police officer who wrote the name misheard it as "American" and wrote "Merican." Marican is a common name, you know. It really is Marican. You wouldn't call Tan Sri Hassan Marican "Tan Sri Hassan Merican," would you? It's Tan Sri Hassan Marican.
 
 **Farhan (Pa'an):** Is he American or "Amarican"?
 
-**Haziq:** Okay, that's one group in the Ministry of Finance. Then we have DAP. YB previously said DAP was among those who strongly opposed PADU in the Cabinet.
+**Haziq:** Okay, that's one group in the Ministry of Finance. Then we have DAP. YB mentioned earlier that DAP was among the strongest opponents of PADU in the cabinet.
 
-**Rafizi Ramli:** And now you can see, what I said has actually now been proven true. DAP's stance is basically simple, populist. Don't allow any fuel price to go up, because people will get angry.
+**Rafizi Ramli:** And now you can see what I said is now proven. DAP's stance is basically simple, populist. Don't allow the price of anything — fuel, whatever — to go up, because then people will get angry.
 
-**Haziq:** But now when Datuk Seri Anwar talks about T20, they jumped. I recall Lim Lip Eng for example saying, "Not all T20 are rich." I mean, isn't that exactly what PADU addresses? Is there a chance they might u-turn and support PADU again?
+**Haziq:** But now when Datuk Seri Anwar talks about the T20, they jump. I remember Lim Lip Eng saying, for example, "Not all T20 are rich." I mean, isn't that exactly what PADU addresses? Is there a probability they might U-turn and support PADU again?
 
-**Rafizi Ramli:** I don't think so. This is the challenge when policy decisions on all these matters are made by taking a populist approach. Because with this populist approach, there will come a time when we can no longer balance it. Like balancing, like a tightrope — you're walking on a tightrope. That's the populist approach. But we all know that actually each will have contrasting demands, conflicting demands for every decision we make. So you walk a tightrope — if you're populist, one side wants balance, the other side wants balance, pull here, pull there, eventually you'll fall.
+**Rafizi Ramli:** I don't think so. This is the challenge when policy decisions on everything are made by taking a populist approach. Because with a populist approach, there will come a point where you can no longer balance things. We're balancing, it's like walking a tightrope, right? That's the populist approach. But we all know, in reality, each side will have contrasting demands. There will be conflicting demands for every decision we make. So you walk a tightrope, right? If you're populist, you're trying to balance one side, trying to balance the other side, pulled here, pulled there — eventually you'll fall. So a good example is DAP's position. When we were building PADU, they really opposed it strongly on the grounds that if we used cash transfers, then fuel prices would need to float. If it was RM2.05 at the time, it might become RM2.50. Only families that genuinely didn't need it would have to pay full price. The others would get RM400, RM500, RM200 — they'd get more. But we shift it into the form of cash transfers because economically — I think the reason the majority of economists in the world would say cash transfers are better than giving blanket subsidies like this is because when people have money in their pocket and pay the actual cost of the fuel, it affects consumption, usage. Now the Prime Minister's senior economic advisor went on BFM venting his frustration because it seems Malaysians don't seem to realize, haven't changed their consumption. Of course consumption hasn't changed — yes, fuel prices are the way they are. That's why we said we need to do cash transfers, because when you do cash transfers, even though the amount they get from the government is actually the same or even more for the majority of B40 families — they'd get more because they don't use much. Say 100 liters a month. If it's 100 liters a month for example, and they get 50 sen for every liter, they only get RM50 a month from the government. But through cash transfers, because they're B40, they might get a school allowance, they might get a child allowance. Add it all up and they get 300, they get an extra 250, you know. Only someone like me wouldn't get anything, which is fine. But because DAP was so terrified at the time that if we did this cash transfer, fuel prices would rise and they'd get cursed at — so they opposed PADU, "don't do it." Now they're kicking themselves because either way, there's no money. So either way you have to do something. You can't even cut the quota. So the government will say, "So which one do you want? Or should we cut all the ministers' salaries and not pay them, because there's no money?" So you can't even cut the quota. That's why, if you look at Datuk Seri Anwar's statement, it means he's already made a decision. It looks like the T20 will be the ones to bear the cut. So T20 — now there's a fight. So now when DAP says not all T20 are rich, that means what we said before was actually right. That's why we need a new method — net disposable income — which takes into account basic living expenses according to family size and locality. If you do that, then indeed there are T20 now who are actually B40. And then they'd get it. So I hope DAP reconsiders that.
 
-A good example is DAP's stance on this issue. When PADU was being built, they fought hard against it on the grounds that if cash transfers were used, fuel prices would need to be floated. If it was RM2.05 at the time, it might become RM2.50. Only families that truly didn't need it would have to pay the full price. Others would get RM400, RM500, RM200, they would get more. But we would transfer it in the form of cash transfers — because economically, I believe the majority of economists in the world would say cash transfers are better than giving blanket subsidies like this, because when people have money in their pocket and pay the actual cost for that fuel, it will influence consumption.
-
-Now, the Prime Minister's senior economic advisor went on BFM to vent his feelings because it seems Malaysians appear not to realize, not to change their consumption. Of course consumption hasn't changed, yes, at that fuel price. That's why we say cash transfers need to be done — because with cash transfers, even though the total amount received from the government is the same, or actually more, for the majority of B40 families. They'll get more because they don't use much — around 100 litres a month. If it's 100 litres a month, they get 50 sen per litre, they only get RM50 a month from the government. But through cash transfers because they're B40, they might get school allowances, child allowances — combined they get 300, they get an extra 250. Only people like me get nothing, and that's fine.
-
-But because DAP was so haunted by this at the time — if we do this cash transfer, fuel prices will go up, and then we'll get cursed at — so we fought against PADU, don't do it. Now they're biting their fingers, because either way there's no money. So either way you have to do something. You can't cut the fuel quota either. So the government will say, "So which one do you want then? Or shall we cut all the ministers' salaries, not pay them, because there's no money?" So cutting the quota isn't an option either. That's why if you look at Datuk Seri Anwar's statement, it means he's already made a decision. It looks like the ones who will be cut are T20. So now there's a fight. When DAP says not all T20 are rich, it means what we said before is indeed correct. That's why we need a new method, net disposable income that takes into account the reasonable basic cost of living expenditure according to family size and locality. If that's done, it's true that some T20 are actually B40 now, and they would receive aid. So I hope DAP reconsiders that.
-
-**Haziq:** Okay, good.
+**Haziq:** Okay, understood.
 
 **Rafizi Ramli:** But let's just wait and see, because I think this will keep being a tug-of-war within the government.
 
-**Haziq:** We'll wait. Meanwhile, let's look at another hot policy topic, YB, related to EVs. Finally, after being postponed two or three times, car prices haven't gone down, but EV prices have shot up. But before that, YB, I'm sorry, I want to bring something up.
+**Haziq:** We'll wait. Meanwhile, let's look at another hot policy, YB. Related to EV. Finally, after being postponed two or three times. Car prices haven't dropped, EV prices have shot up. But before that YB, I'm sorry, I want to bring something up.
 
-**Rafizi Ramli:** This is a night of bringing up old promises, huh.
+**Rafizi Ramli:** Tonight is bringing-up-all-the-promises night, huh.
 
 **Haziq:** No, I'm representing...
 
-**Rafizi Ramli:** Right, because whenever the topic of lowering car prices comes up, everyone brings it up.
+**Rafizi Ramli:** Yeah, because whenever the topic of lowering car prices comes up, everyone brings it up.
 
 **Haziq:** Back in my school days...
 
-**Rafizi Ramli:** Were you even paying attention back then? That year was 2012.
+**Rafizi Ramli:** Did you even know about it back then? That was 2012.
 
 **Haziq:** Yeah, that's right.
 
@@ -498,45 +500,43 @@ But because DAP was so haunted by this at the time — if we do this cash transf
 
 **Haziq:** Yeah, school. In 2012 I was in Form 2 or Form 1, something like that.
 
-**Rafizi Ramli:** Liar, you were already paying attention!
+**Rafizi Ramli:** Liar, you didn't know about it back then!
 
 **Haziq:** I saw the poster, the poster...
 
-**Rafizi Ramli:** Do you know what that poster was? Farhash's poster?
+**Rafizi Ramli:** Do you know what that poster actually was? The Farhash poster?
 
 **Farhan (Pa'an):** I was just about to mention that.
 
-**Haziq:** Was that really Farhash, YB? Was it really Farhash with YB?
+**Haziq:** Was that really Farhash, YB? Was it really Farhash and YB?
 
-**Rafizi Ramli:** Yeah, I was Director of Strategy at the time, I prepared the campaign, I prepared that material.
+**Rafizi Ramli:** Yeah, at the time I was Director of Strategy, I prepared the campaign, I prepared the materials.
 
-**Haziq:** Then when I saw Farhash, I was like "Eh, how come he's there?"
+**Haziq:** Then when he saw Farhash, "Eh, how come he's here?"
 
-**Rafizi Ramli:** No, no, I didn't even know him at that time. He'd be mad if I said I didn't know him. I assigned that task to Sim Ze Zin to find people to be photographed. Sim Ze Zin brought him. I didn't know him, had no idea. He brought his wife too, and then I don't think I was even there. I wasn't even present.
+**Rafizi Ramli:** No, no, I didn't even know him at the time. He was upset, saying I didn't know him. I assigned that task to Sim Ze Zin to find people to take photos with. So Sim Ze Zin brought him. I didn't know him, had no idea. He brought his wife, and then I don't think I was even there. I wasn't even present.
 
-**Haziq:** Right, it was composited.
+**Haziq:** Right, so it was combined.
 
 **Farhan (Pa'an):** It's a composite photo of two photos.
 
-**Rafizi Ramli:** Yes, yes, yes, we weren't sitting side by side. It's like a normal photo shoot, people take your photo, then people take — because I remember giving instructions to Sim at the time, I said I need one family photo, I need one with a multiracial young couple. All the design work, the designer made composite images. That's it, there really is a photo of me and Farhash in it. There you go.
+**Rafizi Ramli:** Yes, yes, yes, they weren't sitting side by side. So like a usual photo shoot, people take your photo, then people take — because I remember giving instructions to Sim at the time — I need one family photo, I need one with young multiracial people. So all the designs, the designer combined the photos together. That's it, there is indeed a photo of me and Farhash in there, right? There you go.
 
-**Haziq:** But not hugging together, right.
+**Haziq:** But not hugging together.
 
-**Rafizi Ramli:** No, the photos were separate, it was really Photoshopped.
+**Rafizi Ramli:** No, the photos were separate. It was really Photoshopped, Photoshop.
 
 **Haziq:** Okay.
 
-**Rafizi Ramli:** So this question that's collecting a debt from me? I tried to sidestep it earlier, but you still remembered.
+**Rafizi Ramli:** So this debt-collecting question of his? I was trying to sidestep it earlier, but I remembered anyway.
 
-**Haziq:** That promise, YB, a lot of people bring it up. So now, while we're on the topic of EVs, before we talk about lowering EV prices, we'll definitely need to go through the price structure and everything. So how was your actual thinking process when you promised to lower car prices 10 years ago? Oh wait, no, 15 years ago?
+**Haziq:** That promise, YB, a lot of people bring it up. So since we're going to talk about EVs now, before we talk about lowering EV prices we'll surely need to go into the structure and everything. So what was your thinking process actually, when you promised to lower car prices 10 years ago? No wait, 15 years ago?
 
-**Rafizi Ramli:** It's been a long time, roughly 15 years ago. That's why I explained this before, but people listening to this podcast probably never heard it. Because our discipline is, when we propose something, we don't just talk nonsense. We showed exactly how the price structure works, then how it would be done. Alright.
-
-So before we talk about EV prices, since you asked why car prices haven't come down — the answer is actually, we need to understand, when we pay for a car, buy a car for example RM100,000. What's this called — actually, of that RM100,000, how much is really the price of the car itself? It's RM100,000 right. But how many components make up the car's price? Actually, what are the components of the price we pay for a car in Malaysia? The car itself is one. What else?
+**Rafizi Ramli:** It's been a long time, roughly 15 years ago. That's why I already explained it before, but yeah, people on podcasts back then, never had this before. Because I remember our discipline — when we propose something, we don't just talk nonsense. We showed how the price structure works, then how to actually do it. Good. So that's why, before we talk about EV prices and all this — since you asked why car prices haven't come down. That answer is, we actually need to understand: when we pay for a car, buy a car for example, we buy it for RM100,000, right? Actually, of that RM100,000, what's the price of the car itself? RM100,000, right? But how many components make up the car's price? What are the actual components of the price we pay for a car in Malaysia? The car itself is one. What else?
 
 **Haziq:** The car itself, excise?
 
-**Rafizi Ramli:** What's excise? Let's not jump to excise yet. The problem with Haziq is, once we go through things quickly, he jumps ahead to give away the answer too soon. It doesn't help the audience understand. Okay, components — when you buy a car, this is the car's price. This car price means the cost of the car itself plus profit margin and everything. This basically goes to the car manufacturer. Besides that, what else do we pay? What other component is there? We pay tax. That tax goes to the government. So for example if the car price is 100,000, roughly how much is the tax component we pay? Okay, before that — how many types of tax do we have to pay for a car?
+**Rafizi Ramli:** What's excise? Before we get to excise. This is the problem with Haziq — when we go through things quickly, he jumps ahead to give away the answer. That doesn't help the audience understand. Okay, components. When you buy a car, this is the price of the car. The price of the car means the cost of the car plus the profit margin and so on. Okay, this goes basically to the car manufacturer. Besides that, what else do we pay? What other components are there? We pay tax. That tax goes to the government. So for example, if the car price is 100,000, roughly what's the tax component we pay? Okay, before that, before we get there — actually, how many types of tax do we have to pay for a car?
 
 **Farhan (Pa'an):** Import duty.
 
@@ -544,35 +544,35 @@ So before we talk about EV prices, since you asked why car prices haven't come d
 
 **Haziq:** Imported cars.
 
-**Rafizi Ramli:** For imported cars — okay, before we get to import duty, that's a longer story. We have two types of cars. In fact, we have three.
+**Rafizi Ramli:** For imported cars. Okay, before we get to import duty, that's a long story. We have two types of cars. In fact, we have three.
 
 **Haziq:** Okay.
 
-**Rafizi Ramli:** Actually if we're counting — one that's purely built here, that's the local car, Proton, Perodua and so on. Meaning all the components are made here, assembled here, becoming a Proton car. That's one category. What's another category?
+**Rafizi Ramli:** Actually, if we count it. One that's purely made here — that's local cars, Proton, Perodua, and so on. Meaning all the components are made here, assembled here, becoming a Proton car. That's one category. What's another category?
 
 **Haziq:** CBU, CKD.
 
-**Rafizi Ramli:** Okay, that's two. CBU?
+**Rafizi Ramli:** Okay, that's two already. CBU?
 
 **Haziq:** CBU? Completely built up.
 
 **Rafizi Ramli:** Built up, meaning?
 
-**Haziq:** The original car that's already fully finished, all nice and complete, from overseas, comes here...
+**Haziq:** The original car from abroad, already fully finished, comes here...
 
-**Rafizi Ramli:** Sold. What's the other one?
+**Rafizi Ramli:** And sold. What's the last one?
 
 **Haziq:** CKD, locally assembled. Meaning...
 
-**Rafizi Ramli:** CKD stands for what?
+**Rafizi Ramli:** What does CKD stand for?
 
 **Farhan (Pa'an):** Completely knocked down.
 
 **Rafizi Ramli:** Completely knocked down, CKD. CKD means locally assembled. Meaning?
 
-**Haziq:** It's not fully complete. It's assembled in Malaysia, but all the parts are from abroad.
+**Haziq:** It's not fully finished. It's assembled in Malaysia, but the parts all come from abroad.
 
-**Rafizi Ramli:** The components are imported. So for example, foreign cars that are CKD in Malaysia, what are the examples?
+**Rafizi Ramli:** The components are imported. So for example, what are examples of foreign cars that are CKD in Malaysia?
 
 **Farhan (Pa'an):** Toyota.
 
@@ -582,53 +582,45 @@ So before we talk about EV prices, since you asked why car prices haven't come d
 
 **Rafizi Ramli:** Honda, what else?
 
-**Haziq:** Naza, previously right?
+**Haziq:** Naza, back in the day?
 
 **Farhan (Pa'an):** Not Naza.
 
-**Rafizi Ramli:** Naza, sorry to say, is a rebadge, right? So many. I think Volvo, isn't it?
+**Rafizi Ramli:** Naza, sorry to say, Naza was just rebadging, right? So many. What's this one called — I think Volvo, isn't it?
 
-**Farhan (Pa'an):** Volvo has a plant, I think.
+**Farhan (Pa'an):** Volvo has a plant I think.
 
 **Rafizi Ramli:** Has a plant. Then Mercedes has a plant, in Pekan.
 
 **Haziq:** Yes, yes.
 
-**Rafizi Ramli:** Mercedes has models that are CKD. So a lot of the foreign cars we see, they're not imported as CBU, they're imported as CKD. Okay. So that's the cost we pay to the manufacturer, the marque, the owner of that car.
+**Rafizi Ramli:** Mercedes has models that are CKD. So a lot of the foreign cars we see, they're not imported as CBU, they're imported as CKD. Okay. So that's the cost we pay to the manufacturer, the marque owner, and so on.
 
-**Haziq:** Depending on the type of car.
+**Haziq:** Based on the type of car.
 
-**Rafizi Ramli:** Depending on the type of car, of course. So going back to why we asked about CKD, CBU, it's because of the import duty issue. Import duty for a fully built unit applies to CBU. But CKD also involves importing its components, though not as heavily as CBU. Besides import duty, what else is there?
+**Rafizi Ramli:** Based on the type of car, of course. So back to the reason we asked about CKD, CBU — it's because of import duty. Import duty applies to the whole unit for CBU. But CKD also has import components, but not as heavy as CBU. Besides import duty, what else is there?
 
 **Farhan (Pa'an):** Excise duty. Excise duty is only for CBU and CKD cars, right?
 
-**Rafizi Ramli:** Ha, see, that's wrong. Actually what does this excise duty that you guys keep mentioning mean? What kind of tax is excise duty? What form of tax is this excise duty? It's getting quiet, huh.
+**Rafizi Ramli:** See, that's wrong. What actually is meant by this excise duty you guys keep saying? What kind of tax is excise duty? What form of tax is excise duty? Quiet now, huh.
 
 **Haziq:** Tax on specific goods manufactured in or imported into the country.
 
 **Rafizi Ramli:** Ha, already Googled it. Okay.
 
-**Haziq:** Ha, the person next to me Googled it.
+**Haziq:** The guy next to me Googled it.
 
 **Rafizi Ramli:** Imported?
 
 **Haziq:** Manufactured in or imported.
 
-**Rafizi Ramli:** Okay. What's the difference between excise duty and import duty? I used to be in Petronas's indirect tax department, I'm the one who wrote the manual, I'm the one who did the training, many many years back. So what's the difference between excise duty and import duty? Import duty is specific to origin. Meaning, if it's the same goods, take for example the same mug, exactly identical, because it's a question of origin to protect the market. Its purpose is to protect the market. Meaning if this mug is made in Malaysia, there's no import duty. But exactly the same mug, the same quality, if imported for example from Canada, there's an import duty of such and such. So that's to protect local industry.
-
-Excise duty? Excise duty is a tax on specific goods, its purpose is to control consumption. So it doesn't care about origin. An example of excise duty in Malaysia that people know well — cigarettes. Of course people call it "sin tax," but it's actually excise duty. The way it works, if you want to make people smoke less, you raise the excise duty. So excise duty doesn't care where it comes from, the same goods, the same tax. If the excise duty on cigarettes is say 100%, then cigarettes from anywhere are 100%. Only if that cigarette is imported from another country and there's also an import duty of 50%, then the cigarette from that foreign country becomes 150% tax, while cigarettes manufactured in Malaysia are 100% tax.
-
-So not all goods have excise duty, you know. Cars have excise duty, cigarettes have excise duty, alcohol, motor vehicles, all of that. Excise duty is imposed with the purpose of controlling consumption. Okay. So now we know cars have import duty for CBU or CKD components, then there's excise duty. What other tax is there?
+**Rafizi Ramli:** Okay, okay. What's the difference between excise duty and import duty? I used to write the manual on indirect tax at Petronas myself, I trained people on it many, many years back. So what's the difference between excise duty and import duty? Import duty is specific to origin. Meaning if it's the same item — take the example of the same mug, an identical mug — because it's a question of origin, to protect the market. Its purpose is to protect the market. Meaning if the mug is made in Malaysia, there's no import duty. But the exact same mug, same quality, if imported from Canada for example, there's an import duty of so much. So that's to protect — the purpose is to protect the local industry. Excise duty? Excise duty is a tax on specific goods, its purpose is to control consumption. So it doesn't matter about origin. So an example of excise duty in Malaysia that people commonly know is cigarettes. Of course people call it a "sin tax," but it's actually excise duty. So the way it works, if you want people to smoke less, you raise the excise duty. So excise duty, it doesn't matter where it comes from, the same goods get the same tax. So if the excise duty on cigarettes is, say, 100%, cigarettes from anywhere are 100%. Except if the cigarette is also imported from another country and there's also a 50% import duty, then the foreign-made cigarette becomes 150% tax, while cigarettes made in Malaysia are 100% tax. So not every good has excise duty, you know. Cars have excise duty, cigarettes have excise duty, alcohol, motor vehicles, and so on. So excise duty is imposed according to purpose, its goal is to control consumption. Okay. So now we know cars have import duty for CBU or CKD components, then they have excise duty. What other taxes are there?
 
 **Haziq:** Google, Google, Google, Google.
 
 **Farhan (Pa'an):** SST.
 
-**Rafizi Ramli:** Yes, sales tax. Previously there was GST, at that time there was GST. Now SST, so there's sales tax. Okay. How is this tax calculated? Take the example of a car — the car is imported, let's say. Okay, let's start with an imported car first. Say that car is imported, the price entering Malaysia for the manufacturer, combining everything CIF — CIF here means cost plus insurance plus freight. Plus the manufacturer's margin and everything, let's say RM100,000. That car's engine size, let's say 1,500 cc, below 1,800 cc — I'll get to the cc matter later.
-
-Okay. It comes from China. So what's the import duty? Under MFN, Most Favoured Nation, China is MFN, I think. The cost of bringing it in, all the CIF, is 100,000. Then we have to pay import duty to the government of 30%, so it becomes RM130,000. Then there's excise duty. Excise duty is imposed based on engine size. For example, listen Malaysians — this is to answer why prices can't be lowered. Actually it can, but let me explain. The lowest excise duty for cars is 75%. Based on engine size — below 1,800 cc is 75%, 1,800 to 1,999 cc is 80%, 2,000 to 2,499 cc is 90%, above 2,500 cc is 105%.
-
-So you calculate, this excise duty is imposed on the last combined cost. That combined cost is CIF plus all values, basically the cost of the car 100, plus import duty 30, so 130. 75% of 130 is how much? Easy to calculate, 1.75 × 130 is how much?
+**Rafizi Ramli:** Yes, sales tax. There used to be GST, back when GST existed. Now it's SST, so there's sales tax. Okay. How is this tax calculated? So let's take an example, take the example of one car. If that car is, say, imported. Okay, never mind, okay, imported. Let's start with an imported car first. Say that car is imported, the price it enters Malaysia at, for the manufacturer, all combined, is CIF. CIF means cost plus insurance plus freight. Okay, CIF. So plus margin and everything to the manufacturer, let's say RM100,000. That car's engine size, let's say, is 1,500cc, below 1,800cc. I'll get to the cc issue later. Okay. So it comes from China. So there's import duty — how much is the import duty? If we go by MFN, Most Favoured Nation, China is MFN I think. So the cost of bringing it in, all CIF, is 100,000. Then we have to pay import duty to the government of 30%, so it becomes RM130,000. Okay. Then there's excise duty. Excise duty is imposed based on engine size. This is to answer, for the Malaysian public, why prices can't come down. Actually they can, but let me explain. The lowest excise duty for cars is 75%. So it follows engine size. Below 1,800cc — 75%, 1,800 to 1,999cc — 80%, 2,000 to 2,499cc — 90%, above 2,500cc — 105%. So you calculate — this excise duty is imposed on the last combined cost. So the last combined cost is CIF plus everything — basically the cost of the car, 100, plus import duty 30, so 130. 75% of 130 is how much? Easy calculation, 1.75 times 130 is what?
 
 **Farhan (Pa'an):** 97,000.
 
@@ -636,101 +628,115 @@ So you calculate, this excise duty is imposed on the last combined cost. That co
 
 **Haziq:** 227.
 
-**Rafizi Ramli:** 227. The final tax is sales tax. Sales tax is 10% on that combined cost. So 10% of 227 is 22.7. Add that to 227, so how much?
+**Rafizi Ramli:** 227. The final tax is sales tax. Sales tax is 10% on that combined cost. So 10% of 227 is 22.7. Add that to 227, what does that make?
 
-**Haziq:** 227 plus 22.7, so 249.7.
+**Haziq:** 227 plus 22.7k, so 249.7.
+
+**Rafizi Ramli:** Roughly RM250,000. Okay, so for Malaysians, this means if you buy an imported car from China priced at 100,000, the on-the-road price you pay is RM250,000 — actually RM150,000 of that is tax you're paying to the government. The car itself only costs 100,000. Because our tax structure on cars is indeed high. So easily, adding up all the taxes, it's around 100%. In fact, looking at the earlier example of 100,000, it's actually 150%. So okay, back to the question of why we can't lower car prices. So in 2011, 2012, I already talked about this. The country has to make a choice. Should the government collect revenue mainly through excise duty? Because sales tax applies to everyone at 10%. Import duty makes sense because for foreign cars we have to pay import duty — we pay import duty on other imported goods too. But excise duty — the need to impose tax on cars up to 100%, I mean a minimum of 75% — the government has to decide what's the best way to collect tax for national revenue. The current system is inherited from the Tun Mahathir era through to Najib. That approach means the government would say, "Well, we can collect so many billions in tax every year. If we go with Rafizi's idea, if we don't collect this excise duty, then fuel prices, car prices could indeed drop by half. But the government would lose revenue." That's it, right? That's the argument. My argument, on the other hand, is that because our public transportation isn't good, most people are forced to have private vehicles, especially families. Whether they like it or not, they need a vehicle, a car. When we impose tax up to 100% on top of the real price of a car, people take out bank loans that they pay monthly to pay this tax to us, to the government. And that monthly car payment forms a huge mandatory household expense. If someone's salary is 2,500 for example, and they buy the cheapest car, say a Saga or whatever, how much do they have to pay now? Over 300 a month, right? 400. 400 out of 2,500, let's say that's their net income, their gross income before tax might be 2,900, 2,800. What's 400 over 2,500?  Roughly 20%-ish, right? 20, let's calculate?
 
 **Haziq:** 16%?
 
-**Rafizi Ramli:** 16%, sorry, 16% right. Meaning 16% of his income just goes to paying for the car. Add petrol and everything, that's what brings it to around 20%. So even before anything else, 20% of his income is already gone. So wouldn't it be better to help families, we could actually remove that, so they'd have an extra RM200. If they're currently paying RM400, actually half of what they pay is tax. Meaning they're paying RM200 a month in tax. So that was the thinking then.
+**Rafizi Ramli:** 16%, sorry, 16%. That means 16% of their income goes to just the car payment. Add fuel and everything, it becomes around 20%-ish. So that means, before anything else, 20% of their income is already gone. So wouldn't it be better to help families — we could actually remove that, so they'd have an extra RM400, RM200. If they're paying RM400 now, actually half of what they pay for the car is tax. Meaning they're paying RM200 a month in tax. Right? Okay. So that was the thinking back then.
 
 **Haziq:** Hmm, but?
 
-**Rafizi Ramli:** There's no "but." I still think that is doable. But the thing people say has a big impact is that it's not easy to implement. There are a few issues — some relate to tax collection, another relates to how exactly do you implement this. But let's take the easier one — tax collection. I understand the people in government, MOF or Customs or LHDN, will fiercely defend this tax because it's revenue collection for them. They'll say, "If we don't collect this, the government has no money." Okay. But then ask the question — actually, how much does excise duty collect for the government each year? After searching, it's actually about 7 to 8 billion a year.
+**Rafizi Ramli:** There's no "but." I still think that is doable. But the thing people say, yeah, there's a big impact here, it's not easy to do. Okay, there are a few issues — partly about tax collection. Another is about exactly how you implement this. But let's take the easy one. The easier one is tax collection. The ones who fight hardest — I understand that within the government, MOF, Customs, LHDN and so on — of course they'll defend this tax fiercely. Because this is their revenue collection. They'll say, "Oh, if there's no money from this, if the government doesn't collect this, the government won't have money." Okay. But then ask the question — actually, how much does the government collect from this excise duty every year? Look it up, look it up. It's actually about 7 to 8 billion a year. There.
 
 **Farhan (Pa'an):** Total excise duty about 7.4, estimated for 2024.
 
-**Rafizi Ramli:** Estimated. It's not shown in detail actually. This can be read from what's tabled in Parliament every year, the government has to table the estimated government revenue. From that they show direct tax, indirect tax. Under indirect tax is actually excise duty. But we know the biggest excise duty is actually cars, cigarettes aren't that much. So it's actually about 7 to 8 billion a year, depending on car sales. We don't need to touch the rest — sales tax pays 10%, import duty for imported cars pays 30%. So then the question is — is the government actually capable or not of forgoing this 8 billion and collecting it through other means or other taxes? 8 billion, to put things in perspective — how big is 8 billion ringgit per year?
+**Rafizi Ramli:** Estimated. It doesn't actually show it in detail. This can be read from what's tabled in Parliament every year — the government has to table its estimated revenue. From there it shows direct tax, indirect tax. Under indirect tax, that's actually where excise duty is. But we know the largest component of excise duty is actually cars — cigarettes and the rest aren't that much. So it's actually about 7 to 8 billion a year, depending on car sales. 7 to 8 billion. As for the rest, let's not touch those. Sales tax, pay the 10%. Import duty, if you import a car you pay 30% or whatever because you're importing a car. So then the question is — can the government actually afford to forgo this 8 billion and collect it through other means or other taxes? 8 billion, to put things in perspective, how big is 8 billion ringgit per year?
 
-**Haziq:** Right now fuel subsidies are already 7 billion.
+**Haziq:** Right now the fuel subsidy is already 7 billion.
 
-**Rafizi Ramli:** Per month! That puts things in perspective. So if I'm asked, can fuel prices, car prices be lowered — financially, yes. Because we collect about 8 billion a year, we pay 7 billion a month in fuel subsidies. That says a lot... For hosting ASEAN, I think we spent roughly 2 billion for that hosting, right. So actually, our tax collection right now is around how much? Hang on, let me see — I think it's around... sorry, it's already over 300. No, no, no — actually that's federal revenue, over 300. Tax collection is around 280, because federal revenue if 330 minus what's collected by Petronas and so on over 50, leaves around 280. So 8 billion out of 280, what percentage is that?
+**Rafizi Ramli:** A month! That put things in perspective. So if I'm asked, can we lower the price of oil, the price of cars, financially, yes we can. Because we collect around 8 billion a year, we pay fuel subsidies of 7 billion a month. That's a lot, right. Organizing ASEAN, I think we spend around 2 billion for organizing ASEAN. Right? So actually 8 billion now, our tax collection is around how much? I think around 100 — hang on. Let me see, I think around, sorry, 230. Sorry, it's over 300. No no no. Actually that's federal revenue, over 300. Tax collection is around 280, because federal revenue if it's 330 minus what Petronas collects, all together over 50, so around 280, 280. So 8% of 280, how much? Sorry, 8 billion out of 280, calculate? 2.8? No! 8 billion! 8 over 280.
 
 **Farhan (Pa'an):** 2.8%.
 
-**Rafizi Ramli:** 2.8% actually. So can we replace that 2.8% from other sources? If you ask me, yes we can. In fact, financially I don't think there's any problem doing it, it's just that the answer given is that it's difficult to do. Now, but the bigger issue actually, if we want to lower fuel prices, car prices, isn't about changing this excise duty — it's actually about resale value, the second-hand market, the cut-off point, how do you sequence this? Because for example, say the government decides that starting 1 January 2027 excise duty is abolished entirely. Take Myvi for example — the most basic Myvi right now is around RM50,000, that includes excise duty. So if suddenly next year there's no excise duty, a new Myvi would cost RM30,000. If you just bought a Myvi in 2026 for RM50,000 — why would anyone want to buy your car second-hand, when a brand new car is RM30,000? So how do you sequence it so the second-hand market doesn't collapse completely. Then there's the issue of people protesting — there will be people who already bought a car saying, "That's not fair, I just bought it at the expensive price, pay me back my tax." Our people too are something else — they want prices to keep going down, down, down, but if suddenly it doesn't benefit them even though it benefits others, they get angry. Thirdly, when second-hand car prices drop drastically like that, everyone will sell their cars because new cars are cheap — why keep a 4-year-old car that's already worn out, might as well buy a new car since it might be half price. So we would most probably end up with a glut of second-hand cars. So if we want to do this, we need to figure out that sequencing. For example, we might need an arrangement like Japan — their recon cars are sold overseas. We might be able to sell them elsewhere, Africa, Central Asia. But there needs to be an arrangement and a system for that. So these are things that we could potentially already implement — for example, a vehicle age limit. Cars over 10 years old can't be on the road, so all cars over 10 years old...
+**Rafizi Ramli:** 2.8%. That's actually it. So can we replace that 2.8% from other sources? Actually if you ask me, yes we can. In fact financially I don't think there's a problem doing it, it's just that the answer is difficult. Hard to do, right. Okay now, but the bigger issue actually if we want to lower the price of oil, the price of cars, is — to me — not so much about changing excise duty. It's actually about resale value, the second-hand market. The cut-off point, how do you sequence this? Because for example, say the government decides that starting January 1, 2027 excise duty is abolished entirely. Let's take the Myvi as an example, right? The Myvi now, okay, the most basic Myvi say costs RM50,000, that RM50,000 already includes excise duty, you know. So if RM50,000, and suddenly next year there's no excise duty, the new Myvi costs RM30,000. You just bought your Myvi this year, 2026, for RM50,000. So why would anyone want to buy your car second-hand? Because a new car is RM30,000, right. So how do you sequence it so that the second-hand market doesn't collapse completely. Then there's the issue of people protesting. Because there will be people who already bought a car saying, "Oh that's not fair, I just bought it at a high price, pay me back my tax." There will be people like that, that's how our people are too. They want prices to go down, down, down, but if it suddenly doesn't benefit them even though it benefits others, they get angry. The third thing is when second-hand car prices drop drastically like that, everyone will sell their cars because car prices are cheap. Why would you keep a 4-year-old car that's already worn out, might as well buy a new car since the new car might be half price. So we will most probably end up with a glut of second-hand cars. Okay, so if we want to do this, we need to figure out the sequencing. For example we might need to have an arrangement — like Japan, they recondition their cars, sell them overseas. We might be able to sell them to other places, Africa, Central Asia. But there needs to be an arrangement and there needs to be a system for it. So these are things we could potentially implement, for example, a vehicle age limit. Cars over 10 years old can't be driven, so all cars 10 years old...
 
 **Farhan (Pa'an):** Like Singapore.
 
-**Rafizi Ramli:** Right, either you go sell it at the yard, turn it into scrap metal or whatever. So then people will get angry — that's the thing. It's difficult, people get angry, everyone's fussy about everything. So the question now is, will there be a government that says, "You know what, I want to have the long-term benefit — more money, more money in families' pockets, especially young families." Because young families are very burdened by car prices, since it forms quite a big chunk of their monthly expenses. "I want to have a long-term benefit of less pollution because all these cars are new cars." This is among the things that need to be decided as a choice. And if we want to do it, it means there needs to be a shift in our entire tax system so that we can make up that 3% of revenue loss from car excise.
+**Rafizi Ramli:** Right, either you go sell it at the yard or turn it into scrap metal or whatever. Then people will get angry. That's the thing. So it's difficult, people get angry, everyone is fussy about everything. So the question now is whether there will be a government that says, "You know what? I want to have the long-term benefit, more money, more money in the pockets of families, especially young families, you know. Because young families are the ones under a lot of pressure from car prices, since it forms quite a big chunk of their monthly expenses. I want to have the long-term benefit of less pollution because all the cars are new." So this is among the things that need to be decided as a choice. And if we want to do it, it means there needs to be a shift in our entire tax system so that we can make up for that 3% of revenue loss from car excise.
 
-**Haziq:** Except if we do this, wouldn't it encourage more people to buy cars and defeat the purpose of encouraging people to use public transport, reducing emissions?
+**Haziq:** But if we do this, wouldn't it encourage more people to buy cars and defeat the purpose of getting people to use public transport, reduce emissions?
 
 **Farhan (Pa'an):** It doesn't solve the high dependency on personal vehicles that we talked about.
 
 **Haziq:** Because we're also second highest per capita after Japan in car ownership.
 
-**Rafizi Ramli:** Yes, true. But I don't think there's a family that, just because they feel cars are cheap now, instead of buying — they're only two people, husband and wife, the wife doesn't drive, but because car prices are cheap they want to buy 10. No, that's not how it works. Most probably their elasticity is such that, up to a point, if people need two cars, they buy two cars, but better cars, newer cars. The extra money is used for other things — now they can afford other things. Another point is that dependency on cars isn't just about car prices, it's about substitutes, because there's no substitute. For example, if a person lives in the middle of the city, and parking is difficult — if there's good public transport, they wouldn't bother buying a car just to have one, even though parking is difficult. If it's very convenient, walk down the road just 50 metres and find an LRT. Because that's exactly what happens in other urban areas. Take London for example — I worked in London before, of course I could afford to buy a new car, I could buy a BMW because it's cheap there, there aren't all these taxes. But the cost is too high and it's not convenient — you have to park, you have to service it, whereas all I need is to walk 300 metres to reach the tube station. So the matter of private car ownership isn't just about car prices, there are many other factors — substitutes, the cost of keeping a car, all of that.
+**Rafizi Ramli:** Yes, true. But I don't think there's a family that, because they feel cars are cheap now, instead of buying — they only have two people, husband and wife, the wife doesn't drive, but because car prices are cheap they want to buy 10. No, that's not it. Most probably the elasticity is such that if people need two cars, they buy two cars, but better cars, newer cars. They use the extra money for other things, now they can afford other things. Another thing is that dependency on cars isn't purely about car prices, it's about substitutes. Because there's no substitute. For example, if someone lives in the city center, parking is hard, if there's good public transport, they wouldn't bother buying a car just to have one even though parking is difficult. If it's very convenient, just walk 50 meters and there's an LRT station. Because that's exactly what happens in other urban areas. Take London for example. I mean I used to work in London, I could definitely afford to buy a new car, could even buy a Beemer since it's cheap there, they don't have all these taxes. But the cost is too high and inconvenient. You need parking, you need to service it, whereas all I need is to walk 300 meters to reach a tube station. So the issue of private car ownership isn't just about car prices, there are many other factors — substitutes, cost of keeping a car, all of that.
 
-**Haziq:** Okay, understood YB.
+**Haziq:** Okay, noted YB.
 
-**Rafizi Ramli:** There you go, now that's a story. If you ask me, I'm certain, and I would like to see in the future that we work out a system that can balance all this so that we can sequence car prices where the tax isn't 100% like it is now. Because I still believe that RM1 in your pocket is better than RM1 in the government's pocket. Right, so if the monthly car payment we currently pay is RM800, and later we pay RM400 instead, that's actually something that has a big impact on families. So the difficulty at the government level in balancing how to have a policy, how to phase it out, how to take care of the secondary market — that's something we sit down and work out.
+**Rafizi Ramli:** Right, that's the background, meaning this, well, if you ask me, I'm confident actually, and I would like to see in the future that we work out a system that can balance all this so that we can sequence car prices where the tax isn't 100% like it is now. Because I still believe that RM1 in your pocket is better than RM1 in the government's pocket. Right, so if the monthly car payment is now RM800, and later it's RM400, that actually has a big impact on families. So the difficulty at the government level is how to balance policy, how to phase things out, how to protect the secondary market — that's something we need to sit down and work out.
 
-**Haziq:** Maybe a different tax rate for car ownership? If someone reaches a third, fourth car, maybe a different tax applies?
+**Haziq:** Maybe a different tax rate for car ownership? If you get to a third, fourth car, maybe a different tax?
 
-**Rafizi Ramli:** That's fine, that's what's called program design. It can happen — it's just about the concept of how you implement a policy, or program design, including on the question of taxation. If it's too complicated and complex, it's actually not easy to implement. The cost of implementing it might become too high, or its effectiveness might be reduced because its net is too wide. If you make all sorts of rules like this car this and that, eventually the government itself won't be able to monitor it, and there will be a lot of leakages. But all of this is something we can only decide on after we sit down and start calculating and running simulations to see how it works out — only then can we make a decision. But to answer Haziq's question earlier — first, can car prices come down? Yes, they can, because the tax we collect from excise, which ranges from 75% to 105%, amounts to roughly RM8 billion. And to put things in perspective, that's a year's worth, which is almost equivalent to one month of petrol subsidy payments right now. So is it financially possible? Yes. Can we just announce that car prices will come down across the board? No. So you have to have a national policy, and there will be a transition. There will be one generation over 3–4 years going through that transition — there will be people who are happy, there will be people who aren't, because they feel their car's value has dropped, and all that difficulty. But if you want to make a big change for the country, it will inevitably go through that turning point.
+**Rafizi Ramli:** That's possible, that's what's called program design. It's possible, but okay, the concept of implementing this policy or program design, including the tax matters, if it's too complicated, it actually becomes difficult to implement. The cost of implementing it might become too high, or its effectiveness might be reduced because the net is too wide — you make all sorts of rules about cars, and eventually the government itself can't monitor it properly, there will be a lot of leakages. So, but these are all things that — unless we sit down and start calculating and start doing simulations, seeing how it works, only then can we make a decision. But to answer Haziq's question earlier, firstly, can car prices go down? Yes, because the tax we collect from excise, which ranges from 75% to 105%, amounts to around 8 billion. And to put things in perspective, that's a year's worth, almost equivalent to one month's fuel subsidy payment, at current rates. So is it financially possible? Yes. Can we just announce that car prices will drop? No. So you have to have a national policy and there will be a transition. There will be one generation for 3-4 years going through that transition where there will be people who are happy, people who aren't happy, because they feel their car's value has dropped, it's hard, all that. But if we want to make a major national change, we will indeed have to go through that turning point.
 
-**Haziq:** Okay, alright YB. That's one issue.
+**Haziq:** Okay, noted YB. That's one issue.
 
 **Rafizi Ramli:** Right, that's the background before we get into EVs.
 
-**Haziq:** And I think another dilemma that's been widely discussed is how to balance the local industry with our need to give the public more options to get more affordable EVs. Recently MITI issued a new policy said to mark the end of cheap imported EVs, when MITI said it would no longer allow CBU cars — that is, fully imported cars — costing below RM200,000 before tax, into the country, and also related to their output, 180,000 right?
+**Haziq:** And I think another dilemma that's also widely discussed is how to balance the local industry with our need to give the public more options to get more affordable EVs. When recently MITI issued a new policy said to mark the end of cheap imported EVs, where MITI will no longer allow CBU cars — that is, fully imported cars — under 200,000 before taxes to enter the country, and also secondly related to output, 180,000, right. So when this happens...
 
 **Rafizi Ramli:** 180,000?
 
-**Haziq:** 180, 185 kilowatts. 180 kilowatts.
+**Haziq:** 180, 185 kilowatts. 180 kilowatts. 180,000 watts.
 
-**Rafizi Ramli:** Ha, you're smart. 180 kilowatts, that's the power output.
+**Rafizi Ramli:** Well, look at you. 180 kilowatts, its power output.
 
-**Haziq:** Yeah, exactly. So when this happens, many are worried that cars like the BYD Atto that we commonly use now won't be able to enter our market anymore, because we want to protect what's called the "national industry," since it has its own whole ecosystem. How do we balance this given our very ambitious NETR, YB? 80% of Malaysian consumers using EVs within how many more decades?
+**Haziq:** Yes, that's right. So when this happens, many are worried that cars like the BYD Atto that we're used to seeing can no longer enter our market because we want to protect — let's call it, the so-called national industry — because it has its own ecosystem and everything. How do we balance this given that our NETR is very ambitious, YB? 80% of Malaysian citizens using, what, EVs within how many decades?
 
 **Rafizi Ramli:** By 2050.
 
-**Farhan (Pa'an):** Maybe just to add on to what Haziq said. I think the strongest conversation is consumers feeling — is it fair to the consumers — because in the end they feel like the market was starting to be flooded with supposedly more affordable options. Before this we saw BMW and all that, Porsche, Mercedes electric vehicles, and now slowly more and more Chinese-made EVs are coming in, but with this new policy, they feel — or they're afraid — "Okay, that's it for cheap EVs."
+**Farhan (Pa'an):** Maybe to add on to what Haziq said. I think the loudest part of the conversation is consumers feeling — or Malaysians feeling — is it fair to the consumers, because eventually they feel like the market is starting to be flooded with supposedly more affordable options. Before this we saw BMW and so on, BMW, Porsche, Mercedes electric vehicles, and now slowly more and more Chinese-made EVs are coming in, but with this new policy, they feel or they fear that, "Okay, that's it for cheap EVs."
 
-**Rafizi Ramli:** For the benefit of those watching, I think we should also explain what this policy actually is, and why the cars can't come in. Malaysia doesn't yet have, apart from Proton and Perodua, I don't think we have local EV assembly, right? Are there other international companies that have local assembly here? No, right?
+**Rafizi Ramli:** For the knowledge of those watching, not all — I think we need to explain what this policy actually is, why cars can't come in. Malaysia doesn't yet have, other than Proton and Perodua, I don't think we have local assembly of EVs, right? Are there other international companies that have local assembly here? None, right?
 
-**Haziq:** They're all just starting now. BYD, as we've heard, XPENG wants to build in Melaka, Wuling in Segambut, Leapmotor in Gurun, Chery in Shah Alam, Honda not yet.
+**Haziq:** They're all just starting to do it. BYD, as we've heard, XPENG wants to do it in Melaka, Wuling wants to do it in Segambut, Leapmotor wants to do it in Gurun, Chery wants to do it in Shah Alam, Honda doesn't have one yet.
 
-**Rafizi Ramli:** Right, so that means we don't have CKD. So all the EVs we've been seeing so far — BYD and others — they're all CBU. They're made in China, then imported directly here as complete units. Our car industry, to import, we need an AP, an Approved Permit, to bring them in. So MITI's current policy is that MITI will no longer issue APs to cars whose cost — this pre-tax cost, the cost to the manufacturer — is below RM200,000. That means all the cars we've been seeing now, BYD, Great Wall, GWM and others, can no longer be brought into Malaysia, because their prices are around RM150,000. And what's left is only the existing inventory that has already been brought in. Once that's sold out, there'll be none left. Like it or not, people will be forced to buy Proton or Perodua, as Pa'an said earlier. There are various perspectives we need to look at holistically. Okay, one thing Haziq mentioned earlier — the country's need for people to switch to EVs as quickly as possible. If we go by our long-term target through NETR, the National Energy Transition Roadmap, we need 80% of cars in Malaysia by 2050 to be EVs. If we don't achieve that, it means our dependence on imported gas from abroad will be higher. So one is the transition to EVs, which isn't just about energy security — what's more urgent right now is reducing petrol subsidies as quickly as possible. That's one. Another perspective is that of the people. It's genuinely better for the people to use EVs. Why is it better for people to use EVs?
+**Rafizi Ramli:** Right, so that means we don't have CKD. We don't have CKD, right. So all the EVs we've been seeing all this while, BYD and so on, those are all CBU. They're made in China, then imported directly whole into the country. Our automotive industry, to import, we need an AP, Approved Permit, to bring them in. So MITI's current policy is that MITI will no longer issue APs to cars whose cost — cost before tax, mind you, the cost to the manufacturer — is below 200,000. That means all the cars we've been seeing now, BYD and so on, GWM as well and everything, none of those will be allowed, they can't be brought into Malaysia. Because their prices are around 150,000. And all that's available is the existing inventory that's already been brought in. Once that's sold out, that's it. Whether people like it or not, they'll have to buy Proton or Perodua, like Pa'an said earlier. There are various perspectives we need to look at comprehensively. Okay, one that Haziq mentioned earlier, the country's need for people to switch to EVs as quickly as possible. If we follow our long-term target through NETR, the National Energy Transition Roadmap, we need cars in Malaysia by 2050 to be 80% EV. If we don't achieve that, it means our dependency on imported gas from abroad is higher, right. So one is the transition to EVs, which is needed not just for energy security, but now more urgently to reduce fuel subsidies as quickly as possible. That's one. Another perspective is the perspective of the people. It's indeed better for the people to use EVs. Why is it better for people to use EVs?
 
 **Haziq:** Cheaper.
 
-**Rafizi Ramli:** Meaning cheaper to run.
+**Rafizi Ramli:** Meaning using a cheaper car.
 
 **Haziq:** In terms of energy, cost.
 
-**Rafizi Ramli:** Fuel cost, running cost. There's no maintenance, and especially the fuel cost. I think the EV charging fuel cost, if we calculate it based on the electricity rate compared to the price of RON 95 — I think it's what, 60% cheaper? So right now, in a month, even with the subsidy, with the current fuel, if in a month someone spends RM100 on RON 95, actually if they had an EV, they'd only spend RM40. They'd save the RM60, 60% cheaper. Right?
+**Rafizi Ramli:** Fuel cost, running cost. There's no maintenance, and especially fuel cost. I think the fuel cost of EVs for charging, if we calculate based on the electricity rate, compared to the price of RON 95, I think it's what, 60% cheaper? 60% cheaper. So if now, in a month, with the current subsidy on fuel, if in a month say someone spends RM100 on RON 95, actually if they had an EV, they'd only spend RM40. They'd save RM60, 60% cheaper. Right?
 
-**Farhan (Pa'an):** I've heard it being cheaper too.
+**Farhan (Pa'an):** I've heard it being cheaper.
 
-**Rafizi Ramli:** Yes, yes. Depending on the car and also usage, but it's about 40 to 60% cheaper.
+**Rafizi Ramli:** Right, yes. I think it's about 60 — depending on the car and also usage, but it's about 40 to 60% cheaper.
 
-**Farhan (Pa'an):** I have friends who I think commute about 10 km to work, and they spend about RM30 a month to run their EV.
+**Farhan (Pa'an):** I have some friends who, I think, commute to work about 10 km, they spend about RM30 a month to run the EV car.
 
 **Rafizi Ramli:** Yes, yes, yes.
 
-**Haziq:** He said, if it's equivalent to a full tank?
+**Haziq:** They said, if it's the equivalent of a full tank?
 
 **Farhan (Pa'an):** Tank.
 
-**Haziq:** A full tank would be about RM25.
+**Haziq:** A full tank is RM25 or so.
 
-**Rafizi Ramli:** You mean RM25 equivalent.
+**Rafizi Ramli:** You mean 25 — oh, at the equivalent.
 
-**Haziq:** Equivalent to regular petrol.
+**Haziq:** Equivalent to regular fuel.
 
-**Rafizi Ramli:** So that's roughly right. In fact that's even higher — because a full tank is about RM100 at the current subsidised price. So for the same mileage, if it's RM25, that's 75% cheaper. So that's why the range is between 40 to 60% cheaper. So this is actually good for the people, because it means more money in their pocket. It's also good for the country, because if people use less RON 95, the total subsidy paid won't reach RM7 billion a month. So this is also needed for the people. Okay, that's one side of the argument for why we need national policies to accelerate EV adoption. Then EV adoption depends on infrastructure, charging stations. It's a chicken-and-egg situation — because companies that want to install charging stations, if not many people use EVs, or EVs are only concentrated around KL, then charging stations will only be in KL. That's why when people go back to their hometowns, there are fights, people queuing up, and even PHEV owners get told off, "Don't charge here, this is for us only." Because when the number of EVs hasn't reached critical mass, companies only look at where there are a lot of EVs — the further away from Kuala Lumpur, the fewer there are. Okay, that's on the people's side. What about on the industry side? And that's also why Pa'an's question is quite tricky. On the industry side, what are the country's priorities? One is we want to protect jobs, because as MITI said — although with a caveat actually, we can't apply a blanket approach like that. MITI's caveat is this: we need to protect the local car industry because it's not just for Proton or Perodua alone, there are tens of thousands of companies and workers, especially throughout the car component value chain that depend on this industry. Because if they can't compete with these imported cars from abroad, they'll lose their jobs, close shop. That means the automotive industry in Malaysia would disappear. That's the argument at the MITI level. To answer what Pa'an asked earlier — the issue for me isn't an either/or matter. It's not a matter of if we want to help the people and ensure they can afford EVs to meet all the national goals on energy and cost of living — then we can't avoid the fact that local industry Proton, Perodua, and all the suppliers and supporting automotive industries will collapse in Malaysia because they lose to Chinese cars. It's actually not an either/or. It could have been handled better in my view. Because we had six years — when the government first started focusing on EVs, 2019, 2020, there was a tax holiday. Because what's become an issue now, previously there was a tax holiday. And that, too, I wasn't very satisfied with. Because it wasn't fair to all the other Malaysians, those outside KL or those who can't afford it. Because if a regular car has to pay up to 100% tax — a poor kid living in Gua Musang who buys a Proton Saga has to pay 100% tax. But a middle-class person who buys a BYD for RM150,000 in KL pays not a single cent of tax. Who made that decision? Tengku Zafrul, when he was Finance Minister back then. The reason given was to encourage EV adoption. It's quite simplistic, isn't it. And that continued until now, when Datuk Seri Johari Ghani became MITI Minister, he made that decision. MOF previously decided there'd be no tax holiday, then Datuk Seri Johari Ghani decided they can't even be brought in anymore. Now actually we've had six years. So I agree we need to develop our local automotive industry — Perodua and Proton. We also need to develop CKD in Malaysia so that, if we're going to sell, ideally we sell cars assembled in Malaysia. Like Honda, Mercedes, because it creates job opportunities and downstream industries supplying components, vendors, all that. The issue is the haphazard manner in which this was done. Because it was sudden — suddenly within a three-month period, it's completely not allowed anymore, before implementation even took place. Then the second issue — and I remember asking this in Cabinet — actually EVs are good, and as the minister who drafted the energy transition roadmap, I wanted to know what MITI's plan was to accelerate EV adoption. Especially to be fair to ordinary people — why didn't we allow smaller EVs in faster? Because the EVs that entered Malaysia and got APs before this were priced between RM100,000 and RM150,000. But the moment it's RM100,000–150,000, it's actually out of reach for an ordinary family. There are other countries, China for instance, that have EVs priced at RM50,000, RM60,000. Why not allow those in? That's more important than the RM100,000–150,000-and-above ones. The answer at the time from MITI, I recall, was that it was to give Perodua and Proton room and time to complete their EVs in that category, so the public could use those instead. In my heart I said, okay fair enough, but don't take too long, it's a pity for the people. So when did Proton finally launch their EV? 2024?
+**Rafizi Ramli:** So that's about right then. In fact that's higher, since a full tank is around RM100 at current subsidized prices. So for the same mileage, if it's RM25, that's 75% cheaper. So that's why the range is between 40 to 60% cheaper. So this is actually good for the people, because it means more money in their pocket. It's also good for the country, because if people use less RON 95, less petrol, the total subsidy paid won't reach 7 billion a month. So that's also needed for the people. Okay, that's one side of the argument for why we need — that's why there are national policies to accelerate EV adoption.
+
+Then EV adoption depends on infrastructure, charging stations. It's a chicken and egg situation. Because companies that want to install charging stations, if not many people use EVs, or EVs are only concentrated around KL, then charging stations will only be in KL. That's why there are conflicts when people go back to their hometowns — people queuing for long, even PHEV owners get scolded, "don't charge here, this is only for us," right. Because when the number of EVs hasn't reached a critical mass, companies will only look at where there are many EVs. The further away from Kuala Lumpur, the fewer there are.
+
+Okay, that's on the people's side. What about the industry's side? And that's why Pa'an's question is quite tricky too. What is the country's priority on the industry side? One is we want to protect jobs, because as MITI said — although it comes with a caveat actually. We can't just apply a blanket approach like that. MITI's caveat is this: we need to protect the local car industry because it's not just for Proton or Perodua alone, there are tens of thousands of companies and workers, especially along the car component value chain, that depend on this industry, because if they can't compete with imported cars from abroad, they'll lose their jobs, close their shops — the automotive industry in Malaysia will disappear. That's the argument at the MITI level, to answer Pa'an's question earlier.
+
+The issue for me is, it's not an either-or matter. It's not that if we want to help the people and ensure the people can afford EVs that achieve all the national goals on energy, cost of living — then we can't avoid it, the local industry, Proton, Perodua and all the suppliers and supporting automotive industries will be destroyed in Malaysia because they lose to all these Chinese cars. It's actually not an either-or. It could have been handled better in my view. Because we had six years. When the government first focused on EVs in 2019, 2020 — tax holiday. Because the issue now is, before this there was a tax holiday. Actually I wasn't very satisfied with that either. Because it wasn't fair to all the other Malaysians outside KL or those who can't afford it. Because for regular cars, you had to pay up to 100% tax — a poor kid living in Gua Musang buying a Proton Saga has to pay 100% tax. But a middle-class person buying a BYD for RM150,000 in KL pays not a single cent of tax. Who made that decision? Tengku Zafrul, when he was Finance Minister at the time. The reason given was to encourage EV adoption, right. Simplistic, isn't it.
+
+Yes, quite simplistic. And that continued until now, when Datuk Seri Johari Ghani became MITI Minister, only then did he make that decision. MOF previously decided there'd be no more tax holiday, then Datuk Seri Johari Ghani actually decided that they can't even be brought in at all anymore. Now actually we've had six years. So I agree we need to develop the local automotive industry — one, Perodua and Proton. We also need to develop CKD in Malaysia, so that if cars are to be sold, ideally they should be assembled in Malaysia. Like Honda, Mercedes, whatever — because it creates job opportunities and creates downstream industries supplying components, all the vendors and so on.
+
+The issue is the haphazard manner in which this was done. Because it was sudden, you know. Suddenly within a period of three months, it just wasn't allowed anymore — before implementation. Then the second issue — and I remember asking this at cabinet. Actually EVs are good, and as the minister who drafted the energy transition plan, I wanted to know what MITI's plan actually was to accelerate EV adoption. Especially also to be fair to ordinary people — why don't we allow smaller EVs to come in faster? Because the EVs that entered Malaysia and got APs before this were priced between RM100,000 and RM150,000. But the moment it's RM100,000–150,000, it's actually out of reach for ordinary families. There are other countries, yes China for example, that have EVs at RM50,000, RM60,000. Why not allow those to come in? That's more important than the ones RM100,000–150,000 and above.
+
+The answer at the time from MITI, I recall, was to give room and time for Perodua and Proton to complete their EVs in that category, so that the public could use those instead. In my heart I said, okay fair enough, but don't take too long, it's a pity for the people. Right? So finally when did Proton launch theirs? 2024?
 
 **Farhan (Pa'an):** e.MAS? e.MAS 7.
 
@@ -738,150 +744,244 @@ So you calculate, this excise duty is imposed on the last combined cost. That co
 
 **Haziq:** Last year.
 
-**Farhan (Pa'an):** Last year, 2025 right?
+**Farhan (Pa'an):** Last year, 2025, right?
 
-**Rafizi Ramli:** Okay. And the question is, the protection Pa'an asked about earlier — are we being fair to the people when we don't allow cheaper EVs from abroad to come in?
+**Rafizi Ramli:** Okay. And the question is the protection Pa'an asked about earlier — are we being fair to the people when we don't allow those cheaper EVs from abroad to come in?
 
 **Farhan (Pa'an):** Sorry, my mistake. e.MAS only launched last year.
 
-**Rafizi Ramli:** e.MAS last year, 2025. Perodua also last year?
+**Rafizi Ramli:** e.MAS last year, 2025. Perodua too, last year?
 
-**Farhan (Pa'an):** Perodua early this year I think.
+**Farhan (Pa'an):** Perodua, early this year I think.
 
-**Rafizi Ramli:** Alright. Now, the issue is, if we had done early planning, we wanted to see Proton and Perodua launch in 2025, and to ensure there's competition for EVs at a cheaper price for the public, by 2026 the CKD factories should already be there, already producing. So the decision to disallow or start controlling the entry of these CBUs should have taken into account when local assembly via CKD would actually happen. I don't think that's the case now. It was very abrupt. When it's abrupt, within a three-month period you can't bring them in anymore, and only existing inventory is allowed — yes, that's good for Proton, because like it or not people will be forced to buy Proton or Perodua. But for the public, they'll feel like, "We're being forced to support Proton or Perodua without having our own choice." So my view is, in the long term we do want healthy competition and manufacturing to happen locally through CKD. But if MITI had done forward planning earlier, in 2022, 2023, meaning investment to assemble these cars would have already been made because they already knew this was coming within two, three years. So the decision to stop APs for CBUs from China should have taken into account those facilities coming online. That, I'm not sure of — actually when will all these BYD CKD plants... But there's big news, news saying BYD might not open here after all.
+**Rafizi Ramli:** Alright. Now, the issue is if we had done early planning, we'd want to see Proton and Perodua launch all of this in 2025, and to ensure there is EV competition at cheaper prices for the people, by 2026 the CKD plants should already be there, already producing. So the decision to disallow or start controlling the entry of CBUs should have been made taking into account when local assembly of CKD would actually happen. I don't think that's the case now. It's very abrupt. When it's abrupt, within a period of three months you can't bring them in and only allow existing inventory — well, that's good for Proton because whether they like it or not, people will have to buy Proton or Perodua. But for the people, they'll feel like they're forced to support Proton or Perodua without having their own choice.
 
-**Haziq:** Yes, the news that caused a stir a few months ago too. When they wanted to build here, the government imposed a rather odd condition — for example, having to export 80%. So I think BYD themselves might feel caught in a bind — how can this be, CBU can't be brought in, but to do CKD there are all sorts of conditions.
+So my view is, in the long term we do want healthy competition and manufacturing to happen locally through CKD. But if MITI had done forward planning earlier — in 2022, 2023 — investments to assemble cars would already have been made, because they already knew within two, three years this would happen. So the decision to stop APs for CBUs from China should have taken into account those facilities coming online. That part I'm not sure about. Actually, when will BYD's CKD and so on happen — but there's big news, news saying BYD might not open a plant here after all.
 
-**Rafizi Ramli:** So that's why when there's criticism of MITI, Datuk Seri Johari Ghani, everyone knows Datuk Seri Johari Ghani is one of Tan Sri Syed Mokhtar's business partners. Tan Sri Syed Mokhtar controls 51% of Proton. That doesn't help if that's the case. So I think it should have been — of course it's not straightforward, because this isn't an easy matter. Meaning to ensure all of this can be achieved — EV adoption achieved according to plan, EV prices affordable for the public, lower-income groups actually able to afford EVs, we develop the local EV and automotive industry — all of this needs to happen symbiotically together. So it's not easy, and because of that it requires earlier planning. Right now I'm not sure what MITI's plans or announcements are — let's wait and see. But for now, we're seeing failure over the past 3, 4 years. We've failed to coordinate, plan, and convince on all this. Like BYD, when we impose conditions like that, if they pull out of Malaysia, it would truly be a pity for the Malaysian public. So this is among the things that, if not handled carefully, will keep damaging Proton and Perodua's image. Because people will say we are protecting Proton and Perodua at everyone's expense. And it is precisely the government's responsibility to protect and grow Proton and Perodua, while also striking a balance — and for the time being, I don't think the balance was struck.
+**Haziq:** Yes, the news that caused a stir a few months ago too. When will they build here, but then the government imposed rather odd conditions. For example, needing to export 80%. So I think maybe BYD also feels stuck — how can this work, CBU can't be brought in, but to do CKD there are all these conditions.
 
-**Haziq:** And we're not sure whether, when there's this so-called monopoly, prices will actually come down or become more affordable for the public, since there's no competition?
+**Rafizi Ramli:** So that's why when there's criticism of MITI, of Datuk Seri Johari Ghani and so on — and yes, everyone knows Datuk Seri Johari Ghani is one of Tan Sri Syed Mokhtar's business partners. Tan Sri Syed Mokhtar controls 51% of Proton. He's not going to help. If that's the case, he's not going to help, right? So I think it should be — well, it's not straightforward, because this isn't an easy matter. To ensure all of this can be achieved — EV adoption achieved as planned, EV prices affordable for the people, so that lower-income groups can actually afford EVs, while we develop the local automotive industry and so on — all of this needs to happen symbiotically together. So it's not easy. And because it's not easy, it requires earlier planning.
 
-**Rafizi Ramli:** That's a given, really. You guys didn't live through the 90s.
+So right now I'm not sure what planning or announcements from MITI, their plans and so on — we'll wait and see. But for now, we've seen failure over the past 3, 4 years. We've failed to coordinate, plan, and convince on all of this. Like BYD — when we impose conditions like that, if they pull out of Malaysia, it would really be a pity for the Malaysian people. So this is among the things that, if not handled carefully, will cause Proton and Perodua's image to actually become unattractive. Because people will say we are protecting Proton and Perodua at everyone's expense. And it is precisely the government's responsibility to protect and grow Proton and Perodua while also striking the balance, and for the time being I don't think the balance was struck.
+
+**Haziq:** And we're not sure whether, with this so-called monopoly, prices will actually go down or become more affordable for the people, since there's no competition?
+
+**Rafizi Ramli:** That's a given. If you guys didn't live through the 90s.
 
 **Haziq:** Okay.
 
-**Farhan (Pa'an):** I did.
+**Farhan (Pa'an):** I lived through it.
 
-**Rafizi Ramli:** Ha ha, but I mean not driving yet in the 90s, the 80s. Especially in the peak of the 90s — if you wanted to buy a Proton you had to wait 6 months.
+**Rafizi Ramli:** Ha ha, but by "lived through it" I mean not driving yet — back in the 90s, in the 80s. Especially the 90s, which was the peak — you had to wait 6 months to buy a Proton.
 
 **Haziq:** That long!
 
-**Farhan (Pa'an):** Like when the first Tesla launched.
+**Farhan (Pa'an):** Like when the first Tesla launched, huh.
 
-**Rafizi Ramli:** No, no, no, back then the policy was really tough, other cars were all expensive. Back then Toyota and all — I think, most probably four out of five cars were Proton back then. So that means a monopoly, when there's no choice, the quality isn't very good because why bother? That's why people used to joke about Proton back then, the side mirror falls off if you just nudge it a little, because why bother — like it or not people had to buy the car, they had no choice, they had to buy Proton. So without question, if the public has no choice, then in the long run it doesn't actually help Proton either. And if you look at the US industry — no matter how you look at it, in the end the US car industry failed. Because at first it couldn't compete with Japan — Japan was a lot more efficient, competitive, higher quality and cheaper, so the US couldn't compete with Japan. The most they could do was force Japan to open factories in the US. That's why you see a lot of Honda, a lot of Toyota in Japan because of the Plaza Accord in 1991 that created that. Now they can't even compete with Europe, even the US, especially the US can't compete with China. Even the Japanese find it quite difficult to compete with China. So I'm not saying we should just abandon Proton like that, but we have to accept the reality that the best way is to compete. How do you phase in that competition? If people see it as a blank check for Proton or Perodua, that's also not good for Proton and Perodua because there's no push for them to step up their game.
+**Rafizi Ramli:** No, no, no, back then the policy really was difficult, other cars were all expensive. At that time Toyota and so on — so I think, most probably four out of five cars were Proton back then, I think. So this monopoly, when there's no choice, quality naturally isn't very good because why bother, right? That's why back then people used to joke about Proton — push the side mirror slightly and it falls off, because why bother? Whether people like it or not, they have no choice, they have to buy Proton. So without question, if the people have no choice, then in the long run it actually doesn't defend Proton either.
 
-**Farhan (Pa'an):** And then also the issue of, because that protectionism policy was so strong, we ended up having no innovation.
+And if you look at the US automotive industry — no matter how you spin it, eventually its car industry failed. Because at first it couldn't compete with Japan. Because Japan was a lot more efficient, competitive, high quality and cheaper. So it couldn't compete with the US. The most it could do was force Japan to open factories in the US. That's why you see a lot of Honda, a lot of Toyota in Japan because of the Plaza Accord of 1991 back then, that's what created that. Now they can't compete — even Europe, even the US, especially the US, can't compete with China. Even the Japanese find it quite difficult to compete with China.
 
-**Rafizi Ramli:** Right, precisely, no innovation.
+So I'm not saying we should just abandon Proton and so on like that, but we have to accept reality that the best way is to compete. How do you phase in the competition? If people see it as a blank check to Proton or Perodua, that's also not good for Proton and Perodua because there's no push for them to step up their game.
 
-**Farhan (Pa'an):** That's what happened to China and that's why they advanced.
+**Farhan (Pa'an):** And then also the issue is, because that protectionism policy was so strong, we ended up with no innovation.
 
-**Rafizi Ramli:** So this is interesting, because I'm watching this PKR MP for Bayan Baru, let's see how he'll wriggle out of it. I'm not saying that's easy. People might say it's easy for you to comment, you're not a minister. Yes, but then again, if you're the minister — especially in the case of Zafrul, from being Finance Minister to becoming MITI Minister managing this whole EV story — you had 5 years, 6 years. And in the end it turned out like this.
+**Rafizi Ramli:** Yes, precisely, no innovation. No, no.
 
-**Haziq:** Maybe last one — don't you think maybe we have a problem with how they run ministries? MITI focuses on the ecosystem, trade and all that. But with EVs we have another bigger goal — to fulfil NETR's aspirations — which maybe MITI thinks, "Ah, that's not my KPI." Maybe it's time to move EVs to another ministry, or take a whole-of-government approach?
+**Farhan (Pa'an):** That's what happened to China and that's why they progressed.
 
-**Rafizi Ramli:** This sounds like a government department meeting question.
+**Rafizi Ramli:** So this is interesting, because I want to see how the PKR MP for Bayan Baru is going to navigate this. I'm not saying it's easy. Maybe people will say it's easy for you to comment, you're not the minister. Yes, but then again if you are the minister, especially in Zafrul's case — from being Finance Minister to becoming MITI Minister managing this whole EV story, you've had 5, 6 years. And in the end it ends up like this.
+
+**Haziq:** Maybe lastly — don't you think maybe we have a problem with how they run the ministry? MITI focuses on the ecosystem, trade and so on. But with EVs we have a bigger goal, to fulfill NETR's aspirations and so on, which maybe MITI treats as "ah, not my KPI." Maybe it's time to move EV to another ministry, or take a whole-of-government approach?
+
+**Rafizi Ramli:** This is like a question from a government department meeting.
 
 **Haziq:** Ha.
 
-**Rafizi Ramli:** Right, that's exactly the work of government departments — squabbling over who should handle what. Actually, in my view, EVs, cars, industry should indeed sit with MITI. It's just that they shouldn't be siloed. Don't be siloed, and whatever each ministry looks after, they can't just think about themselves — they need to think about the country as a whole. Call it whatever you want, whole-of-government or whatever — these are all consultant buzzwords that go into documents but aren't practised. Take a good example like the PADU story earlier — just because it was done by the Ministry of Economy, if it had been done by MOF, there wouldn't have been any issue, it would've been settled long ago. So I think MITI is the best ministry to manage EV car adoption and all that. But it can't be siloed, and it needs to look at goals that fall under other people's responsibilities — that's also its responsibility. And then strike a balance. It can't take the approach of "my job is to show the industry growing, higher investment, I can make a TikTok about how great I am at bringing in investors, never mind the cost to society." That can't happen.
+**Rafizi Ramli:** Yeah, that's what happens in government departments. They squabble over who takes care of what. Actually, in my view, EVs, cars, industry should indeed be under MITI. Just don't silo it. Don't silo it, and whatever each ministry is in charge of, they can't just think about themselves, they have to think about the whole country. Call it whatever you want, whole of government or whatever — these are all consultant words that go into documents but aren't practiced. Take a good example like the PADU story earlier — just because it was done by the Ministry of Economy. If it had been done by MOF, there wouldn't be an issue, it would have all been settled long ago.
 
-**Haziq:** Okay, alright. We're at 2 hours 26 minutes.
+So I think MITI is the best ministry to manage EV car adoption and so on. But it can't silo, and it has to look at goals that fall under other people's responsibility — that's also its responsibility. And then strike a balance. It can't take the approach of "my job is to show the industry growing, higher investment, I can make a TikTok about how great I am at bringing in investors," never mind the cost to society. That's not acceptable.
 
-**Rafizi Ramli:** Okay, we have the last 20 minutes, let's not drag it out.
+**Haziq:** Okay, good. We're at 2 hours 26 minutes.
 
-**Haziq:** The last one — Sunday's announcement. Nyet nyet nyet, playing coy.
+**Rafizi Ramli:** Okay, let's just do the last 20 minutes briefly, no need to go long.
 
-**Rafizi Ramli:** I will keep on with the nyet nyet nyet nyet nyet nyet nyet nyet. In fact this Sunday, Datuk Seri Anwar and I will be doing our "nyet-nyet" simultaneously in two different places. He'll be in Johor Bahru, I'll be in Bandar Utama, at Dewan Utama.
+**Haziq:** The last one. Sunday's announcement. "Nyet nyet nyet," playing hard to get.
 
-**Haziq:** And yes, people are saying there are 17 days this month, apart from the public holiday in Perlis. Regarding the announcement of the political direction, and I think YB has given hints before this — hint after hint after hint. If we can look back, YB gave a list — maybe I'll just refresh it. YB has given four "no's." One, not joining any existing political party — meaning maybe not PAS, not UMNO. Two, will not...
+**Rafizi Ramli:** I'll keep going nyet nyet nyet nyet nyet nyet nyet nyet. In fact, this Sunday Datuk Seri Anwar and I will be doing our "nyet-nyet" simultaneously in two different places. He's in Johor Bahru, I'm in Bandar Utama, at the main hall.
+
+**Haziq:** And yes, people say there are 17 days this month, aside from the public holiday in Perlis — related to the announcement of a political direction, and I think YB has hinted before this. Hint after hint after hint. If we look back, YB gave a list — let me just refresh it. YB gave four points. First, not joining any existing political party, meaning perhaps not PAS, not UMNO. Second, won't...
 
 **Rafizi Ramli:** Not DAP. Not Amanah.
 
-**Haziq:** Oh, that's important. Two, will not join a third force — depending on how we define third force. Three, will not form a new party. And the fourth, which is quite funny reading it back — will not join KJ.
+**Haziq:** Oh, that's important. Second, won't join a third force — depends on how we define third force. Third, won't form a new party. And the fourth, which is rather — reading it back it's quite funny — won't join KJ.
 
-**Rafizi Ramli:** That's just Ong Kian Ming who wants to join KJ. How can he join KJ, he's already in UMNO. He's now best BFF with Datuk Seri Zahid.
+**Rafizi Ramli:** That's only Ong Kian Ming who wants to join KJ. How could he join KJ, he's already joined UMNO. He's now best BFFs with Datuk Seri Zahid.
 
-**Haziq:** Can't be a cabinet member with KJ.
+**Haziq:** Can't be a member of KJ's cabinet.
 
-**Haziq:** Okay, but I think what's more important is for us to reflect back, YB. Because if I ask too long, then Sunday won't be as exciting, right? I hope viewers understand.
+**Haziq:** Okay, but I think what's more important is for us to reflect back, I think, YB. Because if I ask too much in detail, then Sunday won't be exciting anymore, right? I hope the viewers understand.
 
-**Rafizi Ramli:** Keep the suspense for Sunday. Viewers will curse me later for not being able to dig the secret out of YB.
+**Rafizi Ramli:** Keep the suspense for Sunday. Otherwise viewers will curse me out, "can't you dig out the secret from YB."
 
-**Rafizi Ramli:** You choose, Haziq — which is easier for you, viewers cursing you or me cursing you?
+**Rafizi Ramli:** You choose, Haziq — which is easier for you: the viewers cursing you, or me cursing you?
 
-**Haziq:** Okay, let viewers curse me. Sorry, guys. So maybe for the very last one — does Pa'an want to ask, or should I ask?
+**Farhan (Pa'an):** Viewers cursing me. And I think we're near the one-year mark since you were left behind and that whole election, I think we could ask for a bit of reflection from YB — the past year.
+
+**Haziq:** What —
+
+**Rafizi Ramli:** — do you want —
+
+**Haziq:** — reflect on, I mean? Let me ask one question that... many have asked. But as time goes on, more and more people understand. It may not be possible — that is, on the matter of sulking and all that, maybe why can't YB reconcile?
+
+**Rafizi Ramli:** Can't. It's not because... I understand many who...
+
+**Haziq:** But those who are genuinely sincere about wanting to see it happen.
+
+**Rafizi Ramli:** Yes, I can see that. Naturally, for example PH supporters, or PKR, they naturally hope all of this gets resolved. Then I go around campaigning like a madman telling Malaysia to give PH a win again. But I think that's different from what Pa'an asked earlier about reflection. I did reflect quite a lot. Well, it's not that I actually sit and brood — if you know me, I don't sit around moping over anything. Every day there's something I'm busy doing, there's no time for that. But from the start, I think we need to ask — this also goes to those who support, who follow the reform movement, PKR, PH — we really need to ask ourselves our starting point. Why are we in politics in the first place, people like me? Hmm, what's our purpose?
+
+Because if you look at — well — their emotions, there are many categories. The first category is one that was never at peace from the start. So the emotions of those who scold and curse me a lot revolve around miscalculation. Hmm. They started calculating, thinking — they thought, after their scheming, cheating the election, blockchain-not-blockchain, "heads without bodies" and all that — they thought, okay, he's lost, so he'll sit quietly and become our fortress within the party. Let him do the work, we'll hold the party, we'll control the party, we'll get everything. Enjoy the spoils. So when they see me making noise, they get upset because their calculations went wrong. That's one group.
+
+There's another group who genuinely supported me from the start, followed me, supported me during the last election too. At first, they were still shocked by what happened. But when I started criticizing, and being more open — for example on this podcast — about the weaknesses, the approach and so on, they started to feel, "oh, this is dangerous, if he does this PH could lose." So they also started cursing more. That's one category.
+
+There's yet another category who actually don't really care much about the party politics within PKR, but they want PH to win. So this is the category that still has hope — "surely it's not impossible, don't give up, come back and fight with PKR, PH and so on." So these are the three main categories that are busy with the sulking and grumbling.
+
+As for the "at peace" group — we understand them, their purpose really is the spoils, and their purpose is their current position. They don't really care much about right or wrong. For the next two groups, the question I asked myself — in fact, if Pa'an asks, I actually asked myself this question not when I resigned. I asked this question in March, when you got —
+
+**Farhan (Pa'an):** the victory —
+
+**Rafizi Ramli:** I could read what was happening. Wait, in March. When Datuk Seri announced, Datuk Seri Anwar, announced giving an easy path to Rafizi. I already knew, actually. I already knew what was in his head. That's why go back and watch the video when he made the announcement. I did not give any reaction. I wasn't smiling or looking happy. Because I already knew then where it was going. How much money was being distributed at the grassroots level, down to RM200 memberships to become new members, and there were police reports about corruption like that. Then the ones most actively driving this were the PM's own political secretaries, from Camsul, to Azman Bidin, to Cang Mingkai. I already knew where it was going. I could see it. Actually, I called my officers and told them, be prepared, I might resign from this position much earlier. Much earlier, before the voting even started. Right? Much earlier. So within 2 weeks after Datuk Seri Anwar's announcement, I already knew where it was going. April, I think. April. Actually the voting — if you recall, April was just when voting was starting, right, I had already made that decision, Aziz. People just didn't know. That's why I had no qualms resigning like that. Everything was already... To me it was quite straightforward, I had already seen it.
+
+Because what happened was this. The message from Datuk Seri Anwar was, as I mentioned, saying one thing to your face and another behind your back, doing one thing, announcing another. Because the message was quite simple. I don't want you to have influence in the party. So what I want is for you to be a technocrat. You have no influence at all, no chance to influence party decisions. So, my offer is simple. He doesn't say this outright, you know, because in politics, if you're senior enough, what matters more is what's not said, not what is said. So, you already know the calculations had all been set. All planned. That's why I watched, decision by decision, moving in that direction. From no election to having an election. From one-member-one-vote to using delegates instead. All of this — "I want you to be a technocrat because I want you to stay as a minister, okay I can give you the token position of deputy president uncontested," but everyone else, from branch level up to the MPP, he wants his own people. He doesn't want a single one of my people there, so that the situation is that I sit alone in the MPP, having to listen, get scolded, while he makes all the decisions, and I become just a rubber stamp.
+
+So that's why from early April I had already made that decision, because I asked myself this one question — and this is also the question I want to ask and help answer for those two groups earlier. Actually, why are we in politics in the first place? I don't know about others. I didn't enter politics to win. I also didn't enter politics to, what's it called, become a minister or Prime Minister or anything. I was dragged into politics because I felt there was a role I could play to fix things and bring change to society. That's all. That's all I ever wanted to do. Because to me, the matter of becoming PM, holding a position, being a minister, fortune, rank — that's not our realm. That's in God's realm. You can do whatever you want, but if Allah has decreed that it's not your fortune, it's not yours. Simple, right?
+
+So when all this became clear, I asked myself that question. Why exactly am I in politics? Certainly not to become a minister. Certainly not to sit there and hold a position but then be complicit in or used as a rubber stamp for whatever happens. That's why I made that decision far earlier, before voting even started. And you can chat with my staff, especially at the Ministry of Economy — that's why when I resigned, everything went smoothly. Everyone resigned. Because I had given them notice, roughly 2 months earlier. Earlier. That answers why reconciliation isn't possible anymore. Because it's actually not about PKR, not about position. That issue, in my view, this is why I made the decision.
+
+We can have differing views. You have your opinion, I have my opinion. Differences in style are normal. If someone is effective, you don't have to like his or her style. As long as they, that's their style, I know, my job. I don't have to like you, but I will acknowledge if you're actually good. Meaning if you do good work, you don't take money, I have no problem even if you're not the type I'd sit and chat with. That's fine. The problem with PKR that has reached the point of no reconciliation, to me, is simple. Differences in views, character, all this is part and parcel. But if the party reaches the point of cheating its own members, and you engineer all of this, to the point where the cheating is shameful and you victimize the people at the very bottom — that means the party is broken. That means the party has lost the most basic human instinct, a sense of fairness. If PKR has reached the point of cheating its own members, I cannot accept it. I don't think it can be reformed anymore. That's why, to me, that's the absolute extreme.
+
+So that's why when people ask, "hey, why don't you go back to PKR" — this is Anwar Ibrahim's final term. Do you think after this, in the next election, you think Fahmi Fadzil and his cronies won't arrange for every branch to pass a resolution, "we want Datuk Seri Anwar to remain as Party President"?
+
+**Haziq:** Eternal.
+
+**Rafizi Ramli:** President. Eternal President. He'll continue. Then, however you think you can supposedly do work or become popular in some way, you think he can't do it again — so there's no point, there's no competition left in PKR. The moment there's no sense of fairness to the point of it becoming cheating, actually there's no more competition, no room at all. Unless I go kiss his hand and become like everyone else. But I'm not like that, and that's not why I'm in politics. So it's clear, there's no point going back and reconciling.
+
+**Farhan (Pa'an):** This is an important matter. That's why you can't negotiate.
+
+**Rafizi Ramli:** I think we're too good at making things about "principle" — everything becomes "oh, that's a principle, this is a principle." I don't even know if this is a principle, but I live by certain rules. Very simple rules. And these aren't political rules. These are rules we live by normally — even when watching a football match on the sidelines, when we walk. One is: there must be a sense of fairness. Because if we, personally, don't have a sense of fairness, that means stealing is fine, abuse of power is fine, lying is fine. Because everything is okay when you don't have to consider whether it's fair or not. That's one thing. So I live by that very simple rule, because what has happened in PKR over the past year shows that any sense and decency about fairness, about right and wrong, about not victimizing people — that has disappeared in PKR. And because of that, you can call it whatever you like — principle, sulking, whatever — call it whatever you want. But to me, that line has been badly crossed. So...
+
+**Haziq:** Maybe that's quite clear from your answer. But let's take the perspective of a third party — someone who might, in good faith or with a pure heart, actually want change too, feel that something is lacking. But he looks at what we call the "lesser evil," and he's worried that if you split the wing or the progressive bloc, it will ultimately hand victory to the side he considers worse. How would YB respond to that?
+
+**Rafizi Ramli:** This idea of "the lesser evil," even though it's often used, needs to be handled carefully. Take UMNO around 2018 with Dato' Sri Najib as an example — do you think the other UMNO leaders didn't know what was happening with 1MDB? They knew. They knew. So why did they defend Najib so firmly? Because of the "lesser evil." "It's fine, Najib will eventually go, but we must defend UMNO, this sacred party. As for 1MDB, we can fix that later" — that's how it went, because that was the lesser evil, since if UMNO lost and Najib fell, that would bring disaster to society, so they said. You know, anyone in power will use the excuse of the lesser evil. Anyone. That's why we need lines that, at a certain point, simply cannot be negotiated or bent.
+
+Within a party, as I said earlier, for me the broad line is this: when there's lying, when there's no sense of fair play. In government too, we need lines, no matter what. So in government, what's the most important line for me? It's integrity. That's why other people — Chaplos or PKR or whatever, PH or whatever — can turn a blind eye to stories about mafia, corporate scandals, allegations against Farhaj, stories about Next G, about Azam Baki, about Rahmanan Raj. Ask them, and they'll say, "okay, I'll give the benefit of the doubt." But once the evidence starts coming out one by one, then for me that's a red line already. Because this isn't about PKR versus PH versus UMNO versus BN versus whoever. The issue is that if our leaders and government cross red lines of integrity, it means there are many harmful things we haven't yet seen.
+
+So now you talk about "lesser evil" the same way as UMNO/BN did under Dato' Sri Najib. Most ordinary people didn't see in detail what happened with 1MDB, because they only heard what they wanted to hear from the party they supported. When it collapsed, things came out one by one, money was brought back — cash alone worth RM160 million, plus all sorts of jewellery. If it hadn't fallen, no one would have known. Once it fell, everything became visible. It's the same with PKR now. PH supporters keep worrying about the "bogeyman" — afraid PAS will rise, PN will rise, BN will rise. That fear of the bogeyman gives power to whoever's at the top to cross those lines, because they have a convenient shortcut. It's like an ecstasy pill they hand out to PH supporters. No matter what happens, they won't want to use their rational judgment to evaluate the 1MDB evidence, because they don't want to look — because otherwise PH loses, or PAS rises. It's really the same thing.
+
+For me, the question of who becomes PM, who forms the government — that's not our domain. That belongs to the domain of God. Allah has determined it. Because only Allah can open a person's heart. It's not us. People listening to this podcast, which has gone on for almost 3 hours now — do you think they're listening because of us? Not really. I think somehow, Allah opens hearts. It's not even about me. Somehow Allah softens someone's heart, makes them willing to listen and open to our arguments. It could easily have gone the other way. That's how I see things.
+
+So actually, if there are politicians or party members who feel that their actions in supporting a party will determine whether that party wins or loses — I don't think I belong to that group. I always feel that I, people like me, all of us, are really just specks of dust. We are just a drop in the ocean. So what we go through as politicians, in political parties, in government, isn't so much because we're so powerful and influential that we can determine everything. It's actually a test for ourselves. Because we have to live by a set of rules, a set of principles. We have our religion, there are things we can't do, things we mustn't do. It's our test. As for the rest — whether people believe in us or support us — that's Allah's prerogative. Allah will decide.
+
+But for me, if I fail this test — meaning that purely because of politics, something right in front of me, I pretend not to see it, purely because politically I don't dare to say it openly when everyone else sees the hypocrisy, for example "if that person does it, it's okay, but if this person does it, it's not allowed" — then I fail the test. If I fail the test, not only will there be no guarantee that the people of Malaysia will listen to and respect us anymore, but personally, I will be accountable for that later. So all this means there's no turning back for me. Because the values that exist in PKR, and to a certain extent PH, once they have power, everything revolves around power. And I'm just not like that. I am a very different person from that group. I honestly don't care about winning or losing, I don't care. Because, again, as I said, I've been through many political crossroads in the past where I knew that what happened could only have happened because Allah willed it.
+
+Take 2018 as an example. Now, looking back, it's easy to say "oh, we won in 2018" and so on. I could say — and people will call me arrogant for saying this — most people who say this weren't on the ground, weren't there when we were campaigning, and don't know how hopeless that campaign felt. Because you'd go meet people, sometimes 20 people, sometimes 100 people, and you'd think about how hopeless it seemed to fight against Dato' Sri Najib and BN, which had 60 years of entrenchment and billions of ringgit. It was actually a foolish endeavor. But we still did it. Not because we were confident we'd win by doing it, but because it was the right thing to do. Someone had to do it. Win or not, so be it.
+
+Same with 2022. Now, with the benefit of hindsight, people can say, "oh, how great that despite losing Melaka and Johor, we still managed to become the largest bloc, enough for Dato' Sri Anwar to become PM." You see, every time I was asked then and now, I only gave the facts. Based on such-and-such numbers, we could win around 80 seats. Okay, that's the fact. I didn't actually know whether we could really win 80 or not. I'm not saying I knew. I could only say what, logically and based on my own reasoning, seemed like a fair and accurate figure to tell people. Beyond that, we shouldn't go further. Was I confident we'd win up to 80 seats? Honestly, I didn't know. Even now, if people ask me, what I say is based on facts. I honestly don't know who will win or lose. Because humans weren't created to be God. We weren't made to know the outcome. We were created to live by a set of rules, and leave the rest to Allah to decide.
+
+So the values in PH now are very different from that. It's no longer about that. Their value is: at all costs, stay in power. To those below, the leadership will say, "oh, because otherwise PAS will take over, or PN will take over — the harm would be greater."
+
+**Haziq:** Maybe before the last question, I want to talk also — we're getting close now...
+
+**Rafizi Ramli:** Almost 3 hours now.
+
+**Haziq:** About size. Perhaps from a practicality standpoint, people will say, "why, YB, would you want to start a movement, on whatever platform, when there are so few people with the strength to start this, to fight against giants that have been around for so long?" It's not practical, people say. Not me saying it.
+
+**Rafizi Ramli:** That's why there's a Malay proverb — isn't there a Malay proverb about this — that the mousedeer never forgets the snare? Or is it the snare that never forgets the mousedeer? Let's see.
+
+**Haziq:** It's "the snare never forgets the mousedeer" actually. Eh, the snare...
+
+**Rafizi Ramli:** Never forgets...
+
+**Haziq:** Ah yes. "The snare never forgets the mousedeer." Either way works. Yeah, either way works.
+
+**Rafizi Ramli:** But actually it's "the snare never forgets the mousedeer." Erm, well, maybe people who hold views like that — the difference is this. We can't blame ordinary people for holding views like this, because they're not politicians, and they haven't been on the battlefield their whole lives. So their view is based on whatever information they have at that particular time.
+
+I've gone through comments like that since the very beginning of my time in politics. When PKR was founded in 1999, that was the answer people gave me. In fact, the people who gave me that view weren't even being negative — they cared about me. "Why would you waste your life like this. This multiracial party has no place in Malaysia. Malaysia is about Malay parties for Malays, Chinese for Chinese, Indian for Indians. Why don't you just join UMNO? No one's going to support PKR. PKR is just Anwar's party. You're all just being fooled by Anwar." I've heard it from day one. We persevered, and I think, to a large extent, we proved people wrong.
+
+The same thing happened when we first started Invoke.
+
+**Farhan (Pa'an):** Hmm.
+
+**Rafizi Ramli:** I remember when we first started Invoke, only two PKR leaders dared to show up. I think it was only Nik and Wong Chen. Just the two of them. Izzah, Kak Wan — none of them showed up. Even though at that time — I withdrew from my tabung haji, about 2 million, whatever I had, and put everything into Invoke. Then, when we went down to campaign on the ground, UMNO and PAS laughed at me, that's one thing. PH people also laughed at me because they thought it was impossible for three corners to win. Then those within PH, whether Malay, Chinese, or Indian, made the same comments — "who are you? You're not a team player. You know, Azmin is Menteri Besar, Deputy President, you should just follow him." I've been through it. People said there was no support at all. Of course. Now, with the benefit of hindsight, people can say whatever they like. But yes, with the right information, if our decisions are made based on factual considerations, not emotion, if we take the appropriate risks, and our intentions are right, then Invoke and 2018 happened.
+
+Same with 2022. No one believed it, everyone just laughed. In fact, Izzah was even more brutal than me about her disbelief — she said PH would need two more general elections.
+
+**Haziq:** Yes, yes, yes, her statement.
+
+**Rafizi Ramli:** So, it's normal. That's why — I don't know about other politicians. I can't be someone else. I can't be who I'm not, right? Hmm. Erm... I've never made decisions based on whether something is popular or not, whether it gets support or not, any of that. Because I think, unless people understand, I see things quite differently from most people in Malaysian politics. As I mentioned earlier. I... I don't see winning an election, becoming PM, as the be-all and end-all of everything. I see it essentially as, you know, I've been given a set of tasks. This is the boundary of life I need to navigate. There are things that are clearly right, things that are clearly wrong. Then it becomes a test against myself. I mean, you know, there are certain rules I cannot break. It's like playing a game, if you play video games. So, you know, you actually compete with yourself. And the outcome, to me, is a by-product. And if you think like that, actually, then you're a lot more focused. That's why I think I'm different from other people. I'm a bit more focused than others. If I think something is the right thing to do, I'll do it, no matter what. I don't care what people say. If I have to go to court, I go to court. If that means, because this is the right thing to do, I have to go to prison, I'll go to prison. Because I submit myself to whatever Allah has decreed. And if you carry yourself like that, I think you don't pay that much attention to things like this. That's why I might be one of the most misunderstood politicians in Malaysia. People say I'm sulky, not a team player, emotional. Actually, you can ask — you guys work around me. I have no emotion whatsoever. Really. You can ask, ask Farhan. I'm actually so heartless and emotionless. Sometimes too brutal. Brutal. The reason I'm brutal is because I don't have emotion. So... whether people are there or not, if I think it's the same thing, it's something we have to do. Take this podcast as an example. There was a point around August, then September, where things got quieter, no one was listening anymore. I don't come here and, you know, we all just give up. It's more like, okay, how do we do it better, how do we change things. I don't know, eventually it'll get better. I don't know. But eventually — well, you know, it's like... eventually, as I said before in the last 2-3 podcasts, the moral arc of the universe is long, but it bends toward justice. So that means, if you know you're not doing wrong, you're trying your best to stay within certain principles, and what you're doing is actually fardu kifayah — something someone has to say. And then you keep doing it and keep doing it and you put in as much effort as possible. Surely you have to believe that the universe is fair. Then eventually, basically, a better outcome will come. So I think that's why questions about direction, about whether people will support me after this, whether I'll disappear, become some has-been politician — honestly, it doesn't factor into my considerations at all. That's why I sleep well at night. In fact, I'm more worried about — I sleep so well at night, I'm getting fatter.
+
+**Farhan (Pa'an):** Speaking of sleeping well at night, it's been three hours. Okay.
+
+**Haziq:** Okay, viewers are going to curse us. Sorry guys. So maybe for the very last one — Pa'an, do you want to ask, or should I?
 
 **Farhan (Pa'an):** Go ahead.
 
-**Haziq:** Okay. Yes, YB has explained the reflection and views on politics and all, but in terms of another bigger framework — apart from how we conduct ourselves, what politics should be — within perhaps a bigger framework, governance or what?
+**Haziq:** Okay. YB has explained his reflections and views on politics and everything, but from the perspective of one more, bigger framework — beyond how we conduct ourselves, what politics should be — within perhaps a bigger framework, governance or what?
 
-**Rafizi Ramli:** Right, it's like people often say this too, "He thinks he's the only smart one." Actually it's simple. You walk into a room, say at work, you walk into a room, there's a problem, right. If there's only one guy who has views, who tries to dissect it, who's interested and has the inquisitiveness to resolve the problem, are you going to curse him? While the others who walk in just sit there quietly blinking, not doing anything? I mean that's actually usually my situation. I have opinions about every problem. Otherwise, there's no point being in politics. If in politics you're just there to tail the Prime Minister on his way up, but you're not interested and have no opinions about matters concerning society, then that's a problem. So I've been in politics because from the start I felt we need a leap forward, really. We need a leap, otherwise it's a shame for people, especially the younger generation. And I always consider myself very lucky. You know, whatever happens after this, I've lived my life, I actually live a comfortable life, I have a few successes in life. Life would be enough for me until I retire and pass away. But you cannot say the same thing about many people. So we need a leap. A leap in society and the nation so that the future generation will be much better than us.
+**Rafizi Ramli:** Yeah, it's the same thing, right—people always say, "He thinks he's the only smart one, he thinks he's the only one" and all that. Actually it's simple. You walk into a room, let's say at work, you walk into a room, and there's a problem, right? Now if there's one guy who has views, who tries to dissect it, who's interested and has the inquisitiveness to resolve the problem, are you going to curse him? What about the others who just sit there quietly blinking, doing nothing? I mean that's actually usually my situation. I have opinions about any problem. If not, there's no point being in politics. If in politics you're just there to tail the Prime Minister to climb up, but you're not interested and have no opinions about matters concerning society, then that's a problem. So I'm in politics because from the start I felt we actually need a leap. We need a leap forward, otherwise it's a pity for people, especially the younger generation. And I always consider myself very lucky. You know, whatever happens after this or whatever, I've lived my life, I've actually lived a comfortable life, I've had a few successes in life. My life is enough for me until I retire and die. But you can't say the same thing about many people. So we need a leap. A leap in society and the nation so that the future generation will be much better off than us. Our problem in society is that people usually don't like to think about things with big ambitions, this leap of faith, or complicated matters. When you talk about something like building PADU, "It's difficult"—that's their answer. But I think if we look at, eh, our nationhood as a society. I was actually talking to my wife about this—because it was last weekend—because we're history buffs now, we like talking about history for whatever reason. Officially, the British intervened in Malaysia, in Malaya, in 1874, during the Pangkor Treaty, when Sultan Abdullah was around—1874. When did Malaysia gain independence? In 1957. From 74 to 57, that means 83 years. So Malaysia gained independence 83 years after the British officially intervened. So imagine, in 1874, in Malaya, there weren't even schools. Right? At that time the British could come in with just 100 soldiers and control everything. That means, feudally, in 1874 we had no concepts of self-administration at all, no concept of education, except perhaps informal religious education, maybe a pondok here, a pondok there—that was 1874. By 1950—even the 1940s, after World War II, meaning within, let's see, what, within 70 years, eh? Say 74, 70 years means 44, right? Yeah, 1944. 1944. Within 70 years, our society's leap of faith went from not going to school, most people illiterate, no proper housing, very primitive economic activity—by 1944 we already aspired to administer our own country, to gain independence, we already had an administrative system, we already had lawyers, we had everything. Just 70 years. From what, 74 to 57, what's that, 83—let me recalculate. 83. 83 years. 74 to 57 is 83 years, right? You're really something. That's right. 83 years, I miscalculated earlier. Within 83 years we gained independence. Right? Okay, to put things in context. From 1957 to now, 2026, how many years is that? 69. Next year, 70. The leap of faith that our society had, from the Pangkor Treaty in 1874, within 70 years, made us totally unrecognizable as a society in terms of big ambitions, in terms of the complexity of society, in terms of, you know, our society's worldview—within 70 years. Now we're 70 years from independence, 1957. Our thinking is more or less the same. From the 70s, 80s, we're still fighting over the same things. If it's about racial issues, we're still fighting over the same things. We're still chasing the same things, we're still talking about the same things. Meanwhile our neighboring countries like Vietnam made the kind of leap of faith that we made in those 70 years from the Pangkor Treaty. That's my problem. That's why I keep going on and on about it, and that's why I'm in politics, because I think if this is our country's trajectory, oh, it's a pity for the kids later. Meaning, you know, in the last 70 years we didn't jump forward, our leap of faith cannot be compared at all to the preceding 70 years before that—from the British era to independence in 1957. So I leave everyone with that question. If our people are satisfied with the current situation, then okay. Then maybe you're right. It's your right not to like me. But if I happen to have a bigger ambition and wish list for our society, for people in, you know, the next generation, I don't think it's my fault. Because, say, you know, in those 70 years from the 1874 Pangkor Treaty, if it weren't for people back then like Za'ba, Pak Sako, all of them, Tunku Abdul Rahman, Tun Abdul Razak, including Tun Mahathir—to be fair, during his time in the Japanese era—if they didn't have that big and "ridiculous" ambition, we wouldn't be where we are today.
 
-Our problem in society is that people usually don't like to think about things that are ambitious, this leap of faith, or complicated matters. They say something like building PADU is "too difficult," that's their answer. But I think if we look at it, our nationhood as a society — I was actually talking to my wife about this, because this was last weekend — because we're history buffs now, we like to talk about history for whatever reason. Actually, officially, the British intervened in Malaysia, in Tanah Melayu, in 1874, during the Pangkor Treaty, with Sultan Abdullah at the time, 1874. When did Malaysia gain independence? In 1957. From 74 to 57 that means 83 years. So Malaysia gained independence 83 years after the British officially intervened.
+**Haziq:** True, that's a problem too, right?
 
-So imagine, in 1874, Tanah Melayu didn't even have schools, right? Back then, the British with just 100 soldiers could come in and control everything. Meaning how feudal we were in 1874 — there was no concept of self-governance, no concept of education either, except perhaps informal religious education, a pondok school here and there, in 1874. By the 1940s, after World War II, meaning within a period — I recall, what, within about 70 years? Let's say 74, 70 years means 44, right? Yes, 1944. Within a period of 70 years, our society's leap of faith — from not going to school, most people illiterate, no houses even, very primitive economic activity — by 1944 we already had the ambition to govern our own country, to become independent, we already had an administrative system, we already had lawyers, we had everything. Just 70 years.
+**Rafizi Ramli:** Yeah. So, you know, I mean most probably in the 1920s, in Munshi Abdullah's era when he wrote stories that opened people's minds, in Za'ba's era and so on, I suppose plenty of our people said things like Za'ba is so-and-so. I suppose so, I'm sure. Right, I'm sure there were people saying, "What's wrong with him, this and that, because he thinks he's the only one who's right." Yeah, that's probably how it was. But usually that kind of thinking is always—I think it's not wrong to wish and dream for something much better for the people who come after you. And I think that's—if people join politics, that's, I think, one of the few noble privileges that politics can offer. That noble privilege isn't wealth, rank, and so on. It's being able to envision something much bigger than yourself. So, and that remains a work in progress until now. As long as we feel, you know, that we're behind, that we can do a lot better for these people, then I think we should. And we should stop here now because I'm tired. So we'll meet on Friday—oh wait, today is Friday. We'll meet on Sunday, 17 May. The hall will be full, I think the hall will be full. So if those who attend can't get a seat, I apologize, and we'll just sit together on the floor.
 
-By, what, 74 to 57, what's that — 83, let me recalculate. 83, right. 83 years. 74 to 57 is 83 years, right? Hard to calculate with you. That's right. 83 years, right, miscounted earlier. Within the 83 years until our independence, right? Okay, to put things in context — from 1957 until now, 2026, how many years? 69. Next year 70. The leap of faith our society had, from the Pangkor Treaty in 1874, within 70 years, is totally unrecognizable as a society in terms of big ambitions, in terms of the complexity of society, in terms of our society's worldview — within 70 years, you know.
+**Haziq:** As long as there's floor space to sit on.
 
-Now we're 70 years from independence, 1957. Our thinking is more or less the same, you know. From the 70s, 80s, we're still fighting over the same things. If it's about racial issues, still fighting over the same things. We're still chasing the same things, we're still — what do you call it — talking about the same things. Meanwhile our neighboring countries like Vietnam made the kind of leap of faith we made in that 70 years from the Pangkor Treaty. That's my problem. That's why I'm — nyet nyet nyet — and that's why I'm in politics, because I think if this is our country's trajectory, oh, pity the children later. Meaning, you know, in the last 70 years we haven't jumped forward, our leap of faith cannot be compared even to the preceding 70 years before that, from the British era to independence in 1957.
+**Rafizi Ramli:** Sure, sure, sure, sure. But our expectation is that the hall will be full. But for those who can't attend in person, don't forget to follow the live stream on my YouTube. Because we know a lot of people watch it live now. Our live stream will probably start as early as 1.30, maybe?
 
-So I leave everyone with that question. If our people are satisfied with the current situation, then okay, then you may be right, it's your right to dislike me. But if I happen to have a bigger ambition and wish list for our society, for people in, you know, the next generation, I don't think it's my fault. Because say, you know, in those 70 years from the 1874 Pangkor Treaty, if it weren't for people back then like Za'ba, Pak Sako, all of them, Tunku Abdul Rahman, Tun Abdul Razak — including Tun Mahathir, to be fair, during his time in the Japanese era — if they didn't have that big and ridiculous ambition, we wouldn't be where we are today.
+**Farhan (Pa'an):** 1.45.
 
-**Haziq:** True, that's also a problem, right?
+**Rafizi Ramli:** 1.45, right, 1.45. At 2.00 we'll officially begin. People will start arriving at 1.00, and our live stream begins at 1.45. And I also invite as many livestreamers as possible to come, so that it's not just on my channel but on as many YouTube channels as possible.
 
-**Rafizi Ramli:** Right. So, I mean, most probably in the 1920s, in the era of Munshi Abdullah writing stories that opened everyone's minds, in the era of Za'ba and all of them — I suppose there were plenty of our people who said, "What's up with this Za'ba, nyet nyet nyet nyet nyet nyet nyet," right. I suppose so, I'm sure. Right, I'm sure there were people, "What's up with him, him, him, because he thinks he's always right," right. That's probably the kind of line people said. But usually it's that kind of thinking that — I think it's not wrong to wish and dream for something much better for people who come after you. And I think that's — if people join politics, that's I think one of a few noble privileges that politics can offer. That noble privilege isn't wealth, rank, and so on, right. It's being able to envision something much bigger than yourself. Right, so that remains a work in progress until now, right. As long as we feel, you know, I think we are behind, we can do a lot better for these people, then I think we should.
+**Farhan (Pa'an):** Restream the stream?
 
-And we should probably stop here because I'm tired now. So we'll meet — oh, wait, it's actually Friday, today is Friday — we'll meet on Sunday, 17 May. The hall is going to be packed, you know, I think the hall will be full. So if there are people who show up but can't get a seat, I apologize, and we'll all just sit on the floor together, right.
+**Rafizi Ramli:** And for those who want to restream from my YouTube, you can restream it. And if you can monetize it, go ahead and monetize it. Take the money from YouTube.
 
-**Haziq:** As long as there's floor space, we can sit.
+**Haziq:** YB, someone asked why...
 
-**Rafizi Ramli:** Sure, sure, sure, right. But we're expecting the hall to be full. But for those who can't attend in person, don't forget to follow the live stream on my YouTube. Because we know a lot of people watch live these days. Our live stream will probably start as early as 1:30, right?
+**Rafizi Ramli:** Ugh, so long! Is there more?
 
-**Farhan (Pa'an):** 1:45.
+**Haziq:** Why is the date the same, actually?
 
-**Rafizi Ramli:** 1:45, right, 1:45. At 2:00 we'll officially begin. By 1:00 people will already be arriving, at 1:45 our live stream begins. And I also invite as many live streamers as possible to come, so it's not just on my channel but on as many YouTube channels as possible, come on down.
+**Rafizi Ramli:** Oh, why the date is the same. Oh, this is Chegubard accusing us. Saying this is meant to sabotage because...
 
-**Farhan (Pa'an):** Can we restream the stream?
+**Haziq:** People are really worried.
 
-**Rafizi Ramli:** And for those who want to restream from my YouTube, you can restream it. And if you can monetize it, go ahead and monetize it. Take some money from YouTube.
+**Rafizi Ramli:** Here's the story: we set this in February, mid-February I think, mid-February. We started in mid-February. We're poor, we needed to book, you know, a hall—we don't have a lot of money to book a hall last minute, some big hall. We had to find a hall that's not too expensive and then book early. Then it's cheap and dignified. Then there were also only a few of us to prepare everything. So actually we decided earlier than mid-February, all the preparations were already in place from mid-February. Yeah, the problem is, whether it's me and Datuk Seri Anwar, or PH, we're not BFFs right now. So he didn't ask me about the date either, he just went ahead and announced it. That's his luck, whatever happens.
 
-**Haziq:** YB, someone's asking why...
+**Farhan (Pa'an):** Coincidentally the same date as last year.
 
-**Rafizi Ramli:** Oh, that's long! Is there more?
+**Haziq:** Last year there was also a clash of two events.
 
-**Haziq:** Why is that date the same, actually?
+**Rafizi Ramli:** Yeah, but last year it was the reverse. Last year it was the reverse—everyone knew I had a campaign in Sabah on 17 May. But then Izzah and Amirudin Shari went and announced the launch of the Sabah state election machinery on the same day. Yeah, their purpose was so that people wouldn't come see me and would go there instead. The problem is I was the Election Director at the time. So last year, categorically I can say that they chose that date deliberately. This year the clash is very innocent. He didn't know my plans, so I think that's just the date when Datuk Seri Anwar happened to be free in May, and now it's been made into a story. That's why I say, a lot of these things are determined and destined by Allah, it's not all our plan.
 
-**Rafizi Ramli:** Oh, why is that date the same. Oh, this is Chegubard accusing me. Saying this is sabotage because...
+**Haziq:** And the time is more or less the same too, right?
 
-**Haziq:** Really worried, huh.
+**Rafizi Ramli:** Actually they changed the time. Originally it was at night. We had indeed set this date, place, and time since mid-February, we just didn't announce it publicly. Their early notice was for the Pakatan Harapan Convention at night, 8.00 pm. Somehow they changed it last minute to the afternoon, that's Allah's power again. So much so that most probably I and the PKR President will be giving our speeches at more or less the same time. Okay, fine, that's probably it then. So whatever happens, the important thing is to come this Sunday.
 
-**Rafizi Ramli:** Here's how it happened: we set this in February, mid-February I think, mid-February. We started in mid-February. We're poor people, we wanted to book — what's it called — a hall, we don't have a lot of money to book a big hall at the last minute. We had to find a hall that isn't too expensive and book it early. Then, cheap and dignified, right. Then there are only a handful of us to prepare everything. So actually we decided earlier than mid-February, all the preparations were already done from mid-February. Yes, the problem is, whether it's me and Datuk Seri Anwar, or PH, we're not BFFs right now. So he didn't ask me about the date either, he just went and announced it. His luck, whatever's done is done.
-
-**Farhan (Pa'an):** Coincidentally it's the same date as last year.
-
-**Haziq:** Last year there was also a clash.
-
-**Rafizi Ramli:** Ha, but last year it was the other way around. Last year it was the reverse, everyone knows, last year I had a campaign in Sabah, on 17 May. But Izzah and Amirudin Shari then went and announced the launch of the Sabah state election machinery on the same day. Yes, their purpose was so that people wouldn't come see me and would go there instead. The problem was I was the Election Director at the time. So last year, categorically I can say they chose that date on purpose. This year the clash is very innocent. He didn't know my plans, so I think that's just the date Datuk Seri Anwar happened to have free in May, and it's being made into a story. That's why I say, a lot of these things are determined and decreed by Allah, it's not all our plan.
-
-**Haziq:** And the time is roughly the same too, right?
-
-**Rafizi Ramli:** Actually they changed the time. Originally it was at night. We had indeed set this date, venue and time from mid-February, we just didn't announce it publicly. That early notice for the Pakatan Harapan Convention was for the night, 8:00 PM. Somehow they changed it last minute, that's Allah's will again. Now it's in the afternoon, to the point that most probably I and the PKR President will be giving speeches at roughly the same time. Okay, alright, I think that's it. Anyway, what matters is coming this Sunday.
-
-**Farhan (Pa'an):** Wait, but we might need to highlight — this week we heard YB Raf's views and thoughts.
+**Farhan (Pa'an):** Wait, but we should probably highlight—this week we heard YB Raf's views and thoughts.
 
 **Haziq:** Okay.
 
-**Farhan (Pa'an):** Next week, insya-Allah if possible, we'll have YB Nik as well maybe to...
+**Farhan (Pa'an):** Next week, God willing, if permitted, we'll have YB Nik as well, maybe to...
 
 **Rafizi Ramli:** Sure, sure.
 
-**Farhan (Pa'an):** Attack him instead.
+**Farhan (Pa'an):** Can attack him instead.
 
 **Haziq:** Okay YB Nik, get ready.
 
-**Rafizi Ramli:** Thank you, it's night already. If I don't cut it off like that, Haziq will keep going, he'll just keep rambling. I'm getting sleepy now, you know.
+**Rafizi Ramli:** Thank you, it's already night. If I don't cut it off like this, Haziq will want to keep going and just keep rambling. I'm already sleepy, you know.
 
-**Haziq:** Come on, come on, go to sleep. Good night.
+**Haziq:** Alright, let's go to sleep. Good night.
 
-**Rafizi Ramli:** I think that's it. Good night, see you Sunday. Assalamualaikum warahmatullahi wabarakatuh wa maghfiratuh.
+**Rafizi Ramli:** That's probably it then, eh. Good night, see you on Sunday. Assalamualaikum warahmatullahi wabarakatuh wa maghfiratuh.
