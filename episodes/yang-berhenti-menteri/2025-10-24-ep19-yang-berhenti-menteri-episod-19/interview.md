@@ -12,7 +12,6 @@ hosts:
 - Host
 - Co-host
 guests:
-- Bobby
 topics:
 - Rafizi's batik dress habit
 - Minister's aide's 'fell asleep in toilet' social media controversy
@@ -473,35 +472,35 @@ Sebab itu, kalau kita lihat, saya sebelum menjadi menteri tahun 2022, saya ada p
 
 **Rafizi:** We admit it.
 
-**Bobby:** Mana lah aku tahu — sebagai moderator, saya hanya bertanya. Konsepnya begini...
+**Haziq:** Mana lah aku tahu — sebagai moderator, saya hanya bertanya. Konsepnya begini...
 
 **Rafizi:** Apa-apa yang lebih kecil dan lebih cepat akan membuatnya lebih baik, okay. Dan pada masa saya dulu buat ijazah dalam bidang kejuruteraan elektronik, memanglah masa itu, it's always about trying to get into shorter and shorter wavelength. Shorter wavelength means more power, and also you can pack more data into it. So as the world has become more digital — I'm not very sure about this discovery, but logically it is — when we switch to AI, robots, and all of these, the number of bits, the digital zeros and ones, it's a function of two things: one, how much data — zeros and ones — that you can pack; then, how fast it can move. So it's certain that if it packs zeros and ones, it's in wavelength. So if you have a high-powered wavelength, which means a much shorter frequency, it will enable the new generation of chips yang boleh memproses jauh lebih tinggi kapasiti data dan juga jauh lebih tinggi speed dia, frekuensi dia.
 
-**Bobby:** Okay, YB. Memang macam yang tertulis di sini — "Rainbow Chips to build a bright future, berselerak untuk pengesanan pemasaan tepat dan komunikasi laju." Itulah dia, kepada pendengar yang tak menonton muka kami. Jadi dengan adanya ini, maksudnya besar kemungkinan kita akan lebih dekat dengan robot suatu hari nanti?
+**Haziq:** Okay, YB. Memang macam yang tertulis di sini — "Rainbow Chips to build a bright future, berselerak untuk pengesanan pemasaan tepat dan komunikasi laju." Itulah dia, kepada pendengar yang tak menonton muka kami. Jadi dengan adanya ini, maksudnya besar kemungkinan kita akan lebih dekat dengan robot suatu hari nanti?
 
 **Rafizi:** It's the same as the first time people used semiconductors. But the risk — the challenge — is always to make it smaller and faster. And it's a function of frequency, because you transmit with frequency.
 
-**Bobby:** Frequency, okay, very good, clear. Soalan kedua, kita ada satu lagi...
+**Haziq:** Frequency, okay, very good, clear. Soalan kedua, kita ada satu lagi...
 
-**Bobby:** Sel kulit jadi telur — untuk fertiliti wanita lah. Tapi lihat, teknologi ini untuk orang yang mungkin ada masalah fertiliti, maka kita boleh guna sel kulit manusia. Sejauh mana teknologi ini boleh memberi impak positif, terutamanya untuk mengatasi masalah aging nation? Saya tahu soalan ini besar, tapi mungkin boleh kongsi sikit.
+**Haziq:** Sel kulit jadi telur — untuk fertiliti wanita lah. Tapi lihat, teknologi ini untuk orang yang mungkin ada masalah fertiliti, maka kita boleh guna sel kulit manusia. Sejauh mana teknologi ini boleh memberi impak positif, terutamanya untuk mengatasi masalah aging nation? Saya tahu soalan ini besar, tapi mungkin boleh kongsi sikit.
 
 **Rafizi:** Soalan itu agak tergelincir lah — moderator cuba keras. Tak, dia dua isu yang berbeza ni. Breakthrough ni sebenarnya ialah ia boleh membantu fertiliti kepada orang yang ada masalah kemandulan — dan it's a great strike, because fertility treatment... Although the problem of fertility is a big problem in the community, fertility treatment, which is really IVF, faced a challenge from the community and scientists themselves when there were those who tried it. I think the three scientists were from Cambridge, and — I can't remember — satu lagi universiti, Manchester rasanya kan. So mereka yang mula-mula sekali buat IVF dalam tahun 60-an, and it took them sampai 1970-an bila mula berjaya, kerana ada banyak cabaran, sebab ada saintis yang menganggap ia un-Christian untuk dilakukan. So the fact that within 50 years from IVF, a skin cell can now become an egg — I think it certainly will help many families around the world, because fertility is a big issue.
 
 Soal aging nation tu bukan semata-mata soal fertiliti. Soalnya lebih kepada gaya hidup dan soal ekonomi, kerana generasi muda menganggap tidak berbaloi untuk ada anak. Kalau ada anak pun, oleh kerana kos itu tinggi, maka saiz keluarga yang ada sekarang di seluruh dunia jauh lebih kecil — kalau ada anak pun, seorang, dua orang, berbanding dulu sepuluh orang. Jadi it's not necessarily just fertility. Aging nation itu isu yang jauh lebih besar, sebab yang tak berkahwin bukannya sebab dia tak fertile — dia bukan tak dapat anak, dia memang tak nak kahwin. Fertility issues yang semakin biasa pun sebahagiannya sebab lifestyle juga, kerana orang semakin stress — lelaki, perempuan — jadi to conceive is getting more difficult. Jadi kalau treatment seperti ini, terutamanya untuk yang congenital — maksudnya memang dilahirkan dengan masalah kemandulan, sama ada dari segi kualiti telur — sel kulit yang sekarang boleh jadi telur ini tentu akan membantu ramai orang. So whether or not this will enable us to overcome the ageing problem — itu saya tak tahulah, maybe kena tunggu 20 tahun lagi kot.
 
-**Bobby:** Baik, baik, okay YB. Clear. Kita pergi ke segmen terakhir — kena cepat-cepat, segmen terakhir ni. Kita ada beberapa soalan sikit lagi.
+**Haziq:** Baik, baik, okay YB. Clear. Kita pergi ke segmen terakhir — kena cepat-cepat, segmen terakhir ni. Kita ada beberapa soalan sikit lagi.
 
-**Bobby:** Soalan pertama daripada Muhammad Aslan: "Selamat malam YB Raf. Kenapa prestasi Liverpool semakin teruk kebelakangan ini? Adakah pemain-pemain Liverpool masih dibuai kejayaan musim lepas?"
+**Haziq:** Soalan pertama daripada Muhammad Aslan: "Selamat malam YB Raf. Kenapa prestasi Liverpool semakin teruk kebelakangan ini? Adakah pemain-pemain Liverpool masih dibuai kejayaan musim lepas?"
 
 **Rafizi:** Saya tak tahu. Saya tak follow sangat. Saya pakai baju saja lah, dan sokong waktu mereka kalah — saya hanya muncul bila mereka kalah, untuk membakar semangat. Saya sebenarnya tak follow. Saya ada 24 jam sehari; my headspace... dulu banyak masa, semua saya follow — snooker pun saya follow — saya tak pergi kelas dua tiga hari, tengok orang main snooker 24 jam, agak bad boy jugalah dulu.
 
-**Bobby:** Tak adalah, it's like bebas kan — kebebasan, duduk sendiri kan.
+**Haziq:** Tak adalah, it's like bebas kan — kebebasan, duduk sendiri kan.
 
 **Rafizi:** Jadi masa tu okeylah, sekarang ni saya tak follow. Saya pun tak tahu kenapa, dia pun makin kalah kan ni — saya lagi tak follow jugalah. Jadi contrary to popular belief, sebenarnya masa ahli politik sangat terhad. Jadi I don't follow as much. Sebenarnya hari itu saya pakai je secara kebetulan — jersi Liverpool tu, isteri dengan anak saya beli untuk hari lahir saya. Jadi kebetulan hari itu saya pakai, masa itu jugalah malam itu Liverpool kalah. Itu yang saya tweet, tapi saya tak follow dan tak sempat nak tanya ChatGPT pun.
 
-**Bobby:** Haa, okey okey, baik baik — paling kurang YB mengaku. Tapi kalau setiap kali Liverpool kalah, bolehlah tag YB — saya ada lagi scarf Liverpool lah, topi Liverpool lah — pastikan Liverpool kalah untuk kita tengok. Okay, soalan seterusnya.
+**Haziq:** Haa, okey okey, baik baik — paling kurang YB mengaku. Tapi kalau setiap kali Liverpool kalah, bolehlah tag YB — saya ada lagi scarf Liverpool lah, topi Liverpool lah — pastikan Liverpool kalah untuk kita tengok. Okay, soalan seterusnya.
 
-**Bobby:** Daripada Ahjib: "Online business is affected by fake products or throwing away prices from foreign businesses such as China on TikTok, Shopee, Lazada, because there is no control or special act, causing them to be able to access the local market very easily. The local business is getting weaker and more dead. What should the government do?"
+**Haziq:** Daripada Ahjib: "Online business is affected by fake products or throwing away prices from foreign businesses such as China on TikTok, Shopee, Lazada, because there is no control or special act, causing them to be able to access the local market very easily. The local business is getting weaker and more dead. What should the government do?"
 
 **Rafizi:** Saya tak tahu proses dalam kerajaan secara terperinci untuk perkara ini, dan saya kurang pasti sama ada bidang kuasa ini di bawah MITI ataupun KPDN, ataupun kedua-duanya. Ini masalah yang semakin membengkak di negara-negara lain pun. Sebab itu Indonesia, contohnya, take action — there was a time when they closed the TikTok shop. In the US, the tariffs that were given by Trump were partly targeted at things like this — that's why small items from China have started to be taxed.
 
@@ -511,11 +510,11 @@ Tapi persoalannya, satu itu fake — produk tiruan memang ada peruntukan khusus,
 
 Jadi kecuali dia datang — kalau yang datang dengan kontena tu lain — tapi kalau contohnya ia dihantar sebagai parcel kecil, ia hampir macam hantar surat kan, daripada China. Jadi macam mana nak menguatkuasakan undang-undang — certainly, saya bersetuju kita tak boleh pandang ringan ataupun in denial bahawa perkara ini tidak ada kesan kepada peniaga tempatan. Yang itu saya tendang bola kepada MITI dan juga KPDN, terutamanya daripada perspektif fake product, imitation, ataupun dari segi anti-dumping.
 
-**Bobby:** Okay, next question. Kita ada Syafiq — saya ada emel daripada YB tentang perkara ini.
+**Haziq:** Okay, next question. Kita ada Syafiq — saya ada emel daripada YB tentang perkara ini.
 
 **Rafizi:** Oh, betul ke?
 
-**Bobby:** "Bagaimana laporan salah laku atau manipulasi di pejabat pendakwa raya boleh dibuat dengan berkesan? Apakah bukti yang diperlukan, dan kepada siapa aduan patut difailkan jika kepercayaan terhadap organisasi itu sendiri dipersoalkan?"
+**Haziq:** "Bagaimana laporan salah laku atau manipulasi di pejabat pendakwa raya boleh dibuat dengan berkesan? Apakah bukti yang diperlukan, dan kepada siapa aduan patut difailkan jika kepercayaan terhadap organisasi itu sendiri dipersoalkan?"
 
 **Rafizi:** Kementerian terjebat tu ada unit integrity, dan tujuan ada unit integrity itu ialah supaya kalau ada whistleblower, laporan salah laku itu boleh dibuatlah. I think the evidence must be, kalau boleh, ada smoking gun — it's easier if there is a smoking gun and there are documents. And the integrity unit is partly PTD; sometimes there are also SPRM officers there. That's the government design that needs to be done.
 
@@ -529,9 +528,9 @@ Saya ingat kefahaman dan juga timbang rasa itu penting — kalau tidak, kita aka
 
 Jadi ini yang saya nak kongsi dengan Saudara Syafiq — kita boleh cuba memahami juga berada dalam keadaan mereka; dia perlu sift through semua ini. Itu adalah proses yang saya sendiri pun, kalau saya berada dalam keadaan itu, saya go through that process — pertama saya tengok daripada kesan dia; kedua daripada... The third proof I want to see is whether it's just political-office infighting or not. So if there are many complaints, you take the one that really has a big impact on the public. Then the evidence has to be clear, and this is objective, not subjective.
 
-**Bobby:** Okay, very practical. Okay, YB — soalan terakhir.
+**Haziq:** Okay, very practical. Okay, YB — soalan terakhir.
 
-**Bobby:** Alif Salimi bertanya: bagaimana parlimen atau mana-mana pihak lain mahu memastikan reformasi pendidikan kekal berterusan tanpa mengira pertukaran kerajaan? Adakah kerana kualiti reformasi yang selalunya tidak berkualiti, maka menteri selalu mahu menukar pendekatan pendidikan?
+**Haziq:** Alif Salimi bertanya: bagaimana parlimen atau mana-mana pihak lain mahu memastikan reformasi pendidikan kekal berterusan tanpa mengira pertukaran kerajaan? Adakah kerana kualiti reformasi yang selalunya tidak berkualiti, maka menteri selalu mahu menukar pendekatan pendidikan?
 
 **Rafizi:** Pertama, saya rasa Malaysia tidak terkecuali daripada gejala yang berlaku di seluruh dunia yang dipanggil gejala populism. Gejala populism ini maksudnya, satu kerajaan selalu bertukar, dan bila kerajaan yang baru masuk, dia nak tunjukkan bahawa it has a short gain or low hanging fruit. So, in the end, a lot of things that need to be changed are cosmetic things. That's not something that only happens in Malaysia. Saya baru-baru ini membaca satu tulisan panjang tentang punca populism di dunia sekarang.
 
@@ -549,30 +548,30 @@ Carilah, terutamanya dalam tempoh 7-8 tahun kebelakangan ini, pertukaran menteri
 
 Jadi sebab itu, one credit kepada UMNO lah — semasa UMNO menjadi kerajaan 50 tahun lebih, Menteri Pendidikan ni sebenarnya menteri paling kanan. Sebab itu kalau tengok semua Perdana Menteri kita, semua pernah jadi Menteri Pendidikan — daripada Tun Mahathir, sebelum dia jadi Timbalan Perdana Menteri, dia Menteri Pendidikan; kemudian Pak Lah, saya ingat pernah jadi Menteri Pendidikan; Muhyiddin, Menteri Pendidikan — Ismail Sabri je tak pernah; Dato' Seri Anwar, Menteri Pendidikan. Jadi semua Menteri Pendidikan ni kena menteri kanan. Dan saya ingat, di akhir-akhir pentadbiran Datuk Seri Najib je Menteri Pendidikan ni bukan Naib Presiden — Datuk Seri Mahathir Khalid masa tu.
 
-**Bobby:** Mahathir Khalid ke, Mahathir K?
+**Haziq:** Mahathir Khalid ke, Mahathir K?
 
 **Rafizi:** Mahathir Khalid.
 
-**Bobby:** Itu Pengajian Tinggi?
+**Haziq:** Itu Pengajian Tinggi?
 
 **Rafizi:** Tak, itu Menteri Pendidikan kedua.
 
-**Bobby:** Ya, kedua.
+**Haziq:** Ya, kedua.
 
 **Rafizi:** Itu masa zaman Tan Sri Muhyiddin, I think so — Mahathir Khalid, not Mahathir K. Mahathir K was a Member of Parliament for Sungai Petani. Mahathir Khalid ialah yang pertama yang bukan Naib Presiden. Kemudian ia disambung kepada Maszlee, kemudian kepada Radzi Jidin, dan sekarang Fadhlina. So I think, at least, we need to get that — the next prime minister needs to think about it. You need to put someone very senior who can command respect.
 
-**Bobby:** Ada satu soalan daripada YouTube — pasal pendidikan asas.
+**Haziq:** Ada satu soalan daripada YouTube — pasal pendidikan asas.
 
 **Rafizi:** Okey, kita tarik balik soalan tu.
 
-**Bobby:** Siapa yang nakal? You think it's funny eh? You think it's funny? I don't think we want that to happen lah — nanti kita ada PM yang selalu tertidur dalam toilet. Jadi I don't think we want to be there lah.
+**Haziq:** Siapa yang nakal? You think it's funny eh? You think it's funny? I don't think we want that to happen lah — nanti kita ada PM yang selalu tertidur dalam toilet. Jadi I don't think we want to be there lah.
 
-**Bobby:** Sebelum YB panjangkan lagi, kita tutup lah di situ. Itu sahaja pada minggu ni. Terima kasih banyak kepada semua yang menonton. Follow channel dan subscribe Saudara Rafizi di YouTube, dan juga social media lain. Kita jumpa lagi episod ke-20 pada minggu depan. Ada perayaan ke untuk episod ke-20 ni?
+**Haziq:** Sebelum YB panjangkan lagi, kita tutup lah di situ. Itu sahaja pada minggu ni. Terima kasih banyak kepada semua yang menonton. Follow channel dan subscribe Saudara Rafizi di YouTube, dan juga social media lain. Kita jumpa lagi episod ke-20 pada minggu depan. Ada perayaan ke untuk episod ke-20 ni?
 
 **Rafizi:** Kita belum fikir lagi.
 
-**Bobby:** Dah bosan lah. Mungkin nak cadang apa-apa?
+**Haziq:** Dah bosan lah. Mungkin nak cadang apa-apa?
 
 **Rafizi:** Bagilah apa-apa, nanti kita adakan.
 
-**Bobby:** Baik, itu saja daripada kami. Kita jumpa lagi — selamat malam, jumpa minggu depan.
+**Haziq:** Baik, itu saja daripada kami. Kita jumpa lagi — selamat malam, jumpa minggu depan.

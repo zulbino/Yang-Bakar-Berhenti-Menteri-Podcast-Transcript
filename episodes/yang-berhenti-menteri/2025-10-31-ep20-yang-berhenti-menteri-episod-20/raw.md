@@ -196,7 +196,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:09:43] Rafizi: Bukanlah berjoget. Sebab tu saya kata yang ini yang walaun mungkin akan marah lah. Saya rasa kalau yang ada tutun Mahathir ke atau orang lain, saya tak rasa dia berjoget tau. Dia akan duduk, dia akan senyum lah. Dia tengok lah Trump joget. Itu hal Trump lah. Sebab saya perhatikan juga contohnya, bila ada pemimpin lain yang datang. Contohnya, si Jinping. Dia datang Malaysia kan. Tak ada tahun ni. Walau macam mana pun dalam dinner tu kan, walau macam mana ada joget ke apa, walaupun orang suruh dia pergi kan. Dia nyum, dia angguk tapi dia duduk kat situ dia tengok lah. Jadi dia sebenarnya karakter itu yang saya rasa mungkin Dato' Seri Anwar terlebih teruja pada hari itu yang sebenarnya ada kesan politik kepada terutamanya pengundi atas pagar.
 
-[1:10:41] Haziq: Okay baik Bobby Itu baru kosmetik eh Mungkin saya Teruskan ke Isu yang lebih Substantif Hmm Tak lain tak bukan berkaitan dengan agreement on reciprocal trade. Yang ini yang orang tunggu komen aku.
+[1:10:41] Haziq: Okay baik YB Itu baru kosmetik eh Mungkin saya Teruskan ke Isu yang lebih Substantif Hmm Tak lain tak bukan berkaitan dengan agreement on reciprocal trade. Yang ini yang orang tunggu komen aku.
 
 [1:10:56] Rafizi: Saya kena baca tau sebelum tu kan. Saya kena semak sebab tu kena minum air. YB
 

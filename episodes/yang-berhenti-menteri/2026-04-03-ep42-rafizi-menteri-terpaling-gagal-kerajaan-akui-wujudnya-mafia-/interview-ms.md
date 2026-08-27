@@ -565,7 +565,7 @@ Jadi, letakkan kes ini — di negara lain, bayangkan, kalau perkara ini berlaku 
 
 **Speaker(?):** Hmm.
 
-**Haziq:** Okay YB, 2 jam 20 minit. Menteri Pendidikan terbaik di dunia sudah menunggu. Okay, jangan biarkan dia tunggu lama-lama. Tak apa, dia sanggup tunggu lama-lama untuk saya. Sudah lama dia tidak hadir dalam podcast kita. Ya, jadi kita sibuk istimewa. Jadi Fadlina pasti berkata, "aduh, sudah berbulan-bulan aku sedikit kat podcast, keluar balik." Jadi kenapa korang letak video dia sedang bercakap, mengganggu tumpuan saya? Okay, ini disebabkan keputusan SPM baru-baru ini yang baru keluar YB — yang dicita-citakan, tetapi Fatinah dapat SPM lebih baik daripada SPM kau, walaupun tidak dapat yang dicita-citakan. Okay, jadi seterusnya, Bobby saya —
+**Haziq:** Okay YB, 2 jam 20 minit. Menteri Pendidikan terbaik di dunia sudah menunggu. Okay, jangan biarkan dia tunggu lama-lama. Tak apa, dia sanggup tunggu lama-lama untuk saya. Sudah lama dia tidak hadir dalam podcast kita. Ya, jadi kita sibuk istimewa. Jadi Fadlina pasti berkata, "aduh, sudah berbulan-bulan aku sedikit kat podcast, keluar balik." Jadi kenapa korang letak video dia sedang bercakap, mengganggu tumpuan saya? Okay, ini disebabkan keputusan SPM baru-baru ini yang baru keluar YB — yang dicita-citakan, tetapi Fatinah dapat SPM lebih baik daripada SPM kau, walaupun tidak dapat yang dicita-citakan. Okay, jadi seterusnya, YB saya —
 
 Keputusan SPM 2025 ini dikatakan terbaik dalam 5 tahun. Sedangkan YB pernah berkata sebelum ini, tiada reformasi pendidikan yang cukup signifikan yang dibuat oleh YB Fadlina. Adakah YB akhirnya akan mengaku kalah kepada YB Fadlina?
 

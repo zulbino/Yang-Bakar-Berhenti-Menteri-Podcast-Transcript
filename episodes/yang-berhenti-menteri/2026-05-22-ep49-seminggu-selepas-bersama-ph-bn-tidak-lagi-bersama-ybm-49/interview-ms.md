@@ -408,7 +408,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Nik Nazmi:** Izan bertanding kali kelima ke enam, menang, berganti arwah Salahuddin. So macam dalam PAS pun banyak cerita-cerita tu. So saya begitu bertuah, memang tak mimpi nak menang kat Selangor semua tu. Ya lah, ya lah waktu tu, tak ada orang nak tanya tu — mana orang kata "masa yang tepat" lah. So nak kata saya nak kata menyesal, kata tak fair lah, sebab saya senang — eh, segitu. Tapi sudah tentu, lalulah — tapi kita lalu, kita, saya rasa berbanding dengan Ramanan tu, kita lalulah masuk lokap, kita lalulah buat benda-benda tu kan. Untuk saya, ia mengajar kita dan kenal ramai orang. Dan ia bukan tentang Anwar — kalau nak fikir kita berjuang dengan Anwar, memang rugilah. Tapi kerana kita kenal dengan ramai orang biasa, dan beberapa daripada mereka akan menjadi sebahagian daripada bersama. Dan mungkin pengalaman tu kita akan gunakan lah. Tapi ya, kalau fikir kawan lain dah kaya, raya apa tu, then, ya lah, kita tak boleh — tahu pilihan kau, bila masuk politik patut cara betul, takkan kaya lah. Okay, baik-baik.
 
-**Haziq:** Mungkin kita masuk terus ke — di sebalik tabir, Bobby. Cuma sebelum tu, kalau saya boleh tanya sikit lah.
+**Haziq:** Mungkin kita masuk terus ke — di sebalik tabir, YB. Cuma sebelum tu, kalau saya boleh tanya sikit lah.
 
 **Rafizi Ramli:** Boleh, yang kau tanya kalau-kalau — memang kerja kau untuk tanya.
 

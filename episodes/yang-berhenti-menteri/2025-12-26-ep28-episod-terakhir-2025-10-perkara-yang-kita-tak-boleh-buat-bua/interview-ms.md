@@ -291,7 +291,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Farhan (Pa'an):** —tema-tema—
 
-**Haziq:** —tema-tema. Bye, terima kasih Farhan. Kita tengok yang pertama terus, Bobby — isu ekonomi.
+**Haziq:** —tema-tema. Bye, terima kasih Farhan. Kita tengok yang pertama terus, YB — isu ekonomi.
 
 **Rafizi Ramli:** Tak — kita kumpulkan ini berdasarkan apa? Kita tentukan 10 isu terbesar ni berdasarkan apa? Apa?
 
@@ -621,7 +621,7 @@ Jadi, yang tertinggal untuk saya ialah untuk memastikan bahawa apa jua yang berl
 
 **Haziq:** Tak ada...
 
-**Rafizi Ramli:** Tak ada pilihan. Baik, Bobby, isu yang ketujuh. Kita dah berapa lama ni?
+**Rafizi Ramli:** Tak ada pilihan. Baik, YB, isu yang ketujuh. Kita dah berapa lama ni?
 
 **Farhan (Pa'an):** Dua jam...
 
