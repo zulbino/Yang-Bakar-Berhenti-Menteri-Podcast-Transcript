@@ -6,6 +6,8 @@ Transkrip podcast panjang Rafizi Ramli (*Yang Bakar Menteri* / *Yang Berhenti Me
 
 Playlist sumber: https://www.youtube.com/playlist?list=PLqJKhYZQ8r9Uz3IPEh0lXpF17w3LQK62N
 
+Disemak silang dengan dua sumber bebas: sari kata automatik YouTube bagi setiap episod, yang digunakan di seluruh arkib untuk mengesahkan cap masa dan mengesan kandungan yang hilang, dan muat naik semula oleh [@mediarakyat](https://www.youtube.com/@mediarakyat) bagi episod yang sama, yang sari katanya dijana secara berasingan dan digunakan untuk mengesahkan semula penemuan tertentu berbanding rakaman yang berlainan. Kedua-dua sumber tidak meliputi setiap episod.
+
 Hanya episod penuh (1+ jam) disertakan. Teaser pendek, klip sorotan, snippet kad-quote, dan episod format ringkas daripada playlist yang sama tidak disertakan.
 
 > Transkrip dan tulisan semula dijana oleh model AI, disemak pada bahagian-bahagian terpilih berbanding rakaman asal tetapi tidak disahkan baris demi baris. Lihat [Nota ketepatan](#nota-ketepatan) sebelum memetik apa-apa daripada arkib ini.
