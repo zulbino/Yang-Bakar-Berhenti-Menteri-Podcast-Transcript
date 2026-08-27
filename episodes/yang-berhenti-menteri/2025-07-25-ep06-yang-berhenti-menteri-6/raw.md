@@ -663,7 +663,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:23:43] Zaim Zulkifli: Ha the cult of personality tu lahir sebab yalah budaya membodek dan sebagainya. Jadi yalah macam mana YB nampak benda ni kan dalam PKR sekarang? Dan adakah memang tak boleh nak buat apa-apa langsung? And if you wanted to yalah ulaslah basically about the situation happening currently.
 
-[1:23:59] Rafizi: No, I actually agree with you yang pasal cult of personality Kamil semua tu. You see, aku daripada aku mula-mula join PKRIah kan masa pemuda, umur-umur kau oranglah, I join PKR around your age lah, 21. Tuanya aku. Apa nama ni, dia akan terus ada karakter-karakter begini yang aku bagi contohlah, Cikgu Bard ada seorang, zaman akulah adalah. Zaman akulah ada Cikgu Bard dalam PKR kan, kemudian ada Shamsul Iskandar kan. Cuma macam Cikgu Bard ni aku noticelah dia ni memang dia dia dia dia meletakkan diri dia tu setaraf dengan Soekarno, dengan apa nama ni Che Guevara. Tu yang jadi Che'GuBard tu.
+[1:23:59] Rafizi: No, I actually agree with you yang pasal cult of personality Kamil semua tu. You see, aku daripada aku mula-mula join PKRIah kan masa pemuda, umur-umur kau oranglah, I join PKR around your age lah, 21. Tuanya aku. Apa nama ni, dia akan terus ada karakter-karakter begini yang aku bagi contohlah, Chegubard ada seorang, zaman akulah adalah. Zaman akulah ada Chegubard dalam PKR kan, kemudian ada Shamsul Iskandar kan. Cuma macam Chegubard ni aku noticelah dia ni memang dia dia dia dia meletakkan diri dia tu setaraf dengan Soekarno, dengan apa nama ni Che Guevara. Tu yang jadi Che'GuBard tu.
 
 [1:24:46] Haziq: Oh.
 
