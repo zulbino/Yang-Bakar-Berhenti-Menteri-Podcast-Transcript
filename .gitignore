@@ -3,10 +3,12 @@ __pycache__/
 *.pyc
 .venv/
 audio/
-batch_*.log
+*.log
 
 # One-off investigation artefacts: scratch transcripts and probe scripts stay
 # local, same convention as the scripts/_*.py probes.
 episodes/_scratch_*
 scripts/_*.py
 audio/_*
+data/_*
+

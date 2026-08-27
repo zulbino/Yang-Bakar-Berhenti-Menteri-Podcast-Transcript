@@ -61,5 +61,12 @@
       "reason": "Isolated false phrase-lock, not mistiming. 10 of ep17's 11 matched samples sit within -21s; the single -958s outlier is a 124-char block whose head words score equally badly at the claimed and matched positions (2/10 both), so the match barely cleared MIN_MATCHING_WORDS and locked onto a coincidence. Block [7323s] independently maps to audio at 7441s (p10 7341, p90 7535) by 4-gram origin mapping, and the caption coverage map shows no near-zero run anywhere in the episode. See ARCHITECTURE.md 1.23.",
       "date": "2026-08-27"
     }
+  },
+  "2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21": {
+    "drift": {
+      "verdict": "benign",
+      "reason": "Isolated false phrase-lock, same as ep17. Only 3 of 12 samples match at all because ep21's YouTube captions run at about half normal word density (8,182 caption words over 9,574s), which is also why check_caption_coverage.py reports it inconclusive. Two of the three matched samples are tight (-33s, -36s); the +976s outlier is contradicted by 4-gram origin mapping, which puts block [7574] at audio 7596-7669s (correctly positioned) and its neighbour [7832] at 7841s. See ARCHITECTURE.md 1.23.",
+      "date": "2026-08-27"
+    }
   }
 }

@@ -176,16 +176,36 @@
   },
   "2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2": {
     "status": "ok",
-    "samples_matched": 1,
-    "samples_not_found_nearby": 11,
+    "samples_matched": 5,
+    "samples_not_found_nearby": 7,
     "samples_total": 12,
-    "max_drift_seconds": 1,
-    "flagged": true,
+    "max_drift_seconds": 248,
+    "flagged": false,
     "details": [
       {
         "claimed": 159,
-        "actual": 160,
-        "drift": 1
+        "actual": 151,
+        "drift": -8
+      },
+      {
+        "claimed": 1062,
+        "actual": 1062,
+        "drift": 0
+      },
+      {
+        "claimed": 2238,
+        "actual": 1990,
+        "drift": -248
+      },
+      {
+        "claimed": 3534,
+        "actual": 3457,
+        "drift": -77
+      },
+      {
+        "claimed": 4089,
+        "actual": 4075,
+        "drift": -14
       }
     ]
   },
@@ -235,25 +255,56 @@
     ]
   },
   "2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-": {
-    "status": "no_captions"
+    "status": "ok",
+    "samples_matched": 6,
+    "samples_not_found_nearby": 6,
+    "samples_total": 12,
+    "max_drift_seconds": 27,
+    "flagged": false,
+    "details": [
+      {
+        "claimed": 281,
+        "actual": 282,
+        "drift": 1
+      },
+      {
+        "claimed": 964,
+        "actual": 950,
+        "drift": -14
+      },
+      {
+        "claimed": 1750,
+        "actual": 1736,
+        "drift": -14
+      },
+      {
+        "claimed": 2987,
+        "actual": 2977,
+        "drift": -10
+      },
+      {
+        "claimed": 3835,
+        "actual": 3824,
+        "drift": -11
+      },
+      {
+        "claimed": 5037,
+        "actual": 5010,
+        "drift": -27
+      }
+    ]
   },
   "2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar": {
     "status": "no_captions"
   },
   "2024-08-26-ep05-yang-bakar-menteri-ybm-ep5": {
     "status": "ok",
-    "samples_matched": 1,
-    "samples_not_found_nearby": 11,
+    "samples_matched": 0,
+    "samples_not_found_nearby": 12,
     "samples_total": 12,
-    "max_drift_seconds": 56,
+    "max_drift_seconds": 0,
     "flagged": true,
-    "details": [
-      {
-        "claimed": 3512,
-        "actual": 3456,
-        "drift": -56
-      }
-    ]
+    "details": []
   },
   "2024-09-30-ep06-yang-bakar-menteri-ep-6-rafizi-ramli-lim-sian-see": {
     "status": "no_captions"
@@ -692,16 +743,26 @@
   },
   "2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21": {
     "status": "ok",
-    "samples_matched": 1,
-    "samples_not_found_nearby": 11,
+    "samples_matched": 3,
+    "samples_not_found_nearby": 9,
     "samples_total": 12,
-    "max_drift_seconds": 28,
+    "max_drift_seconds": 976,
     "flagged": true,
     "details": [
       {
-        "claimed": 2804,
-        "actual": 2776,
-        "drift": -28
+        "claimed": 1394,
+        "actual": 1361,
+        "drift": -33
+      },
+      {
+        "claimed": 3526,
+        "actual": 3490,
+        "drift": -36
+      },
+      {
+        "claimed": 7574,
+        "actual": 8550,
+        "drift": 976
       }
     ]
   },
