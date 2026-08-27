@@ -25,6 +25,12 @@ Checks per episode:
   - raw.md's own printed timestamps never drop backward by more than 30s
     (catches hard resets, block reorders, and digit typos -- free, no caption
     or API needed, see ARCHITECTURE.md 1.16)
+  - raw.md's mid-file timestamp gaps are explained by the amount of text at each
+    gap's start (catches content silently dropped from the MIDDLE of an episode,
+    which the end-of-file coverage check above cannot see, see ARCHITECTURE.md 1.17)
+  - raw.md's timestamps don't land on round :00 seconds far more often than
+    chance (catches a raw.md that is a fabricated summary outline rather than a
+    transcript, see ARCHITECTURE.md 1.18)
 
 Usage:
   python scripts/qa_check.py            # writes QA_CHECKLIST.md
@@ -88,10 +94,22 @@ MIN_MALAY_DENSITY = 1.0  # marker hits per 1000 chars, for files claiming langua
 # ~1,600-word passage repeated verbatim at three different timestamps. The runaway-
 # timestamp check above only catches this when the fabricated timestamps overshoot
 # the real duration; a duplicate block whose timestamps stay in a locally-plausible
-# range needs its own check. 300 chars is long enough that identical repeats are
-# hallucination, not a naturally short recurring reaction ("Ya", "Baik").
-DUPLICATE_BLOCK_MIN_CHARS = 300
-SPEAKER_PREFIX_RE = re.compile(r"^\[(?:\d+:)?\d+:\d+\]\s*[^:]*:\s*")
+# range needs its own check.
+#
+# The original floor of 300 chars, and the original prefix regex requiring a
+# colon-terminated speaker label, together let the worst case in the corpus pass
+# silently. ep45 has 1028 duplicate blocks (one passage repeated 19 times) but
+# its blocks carry no speaker label ("[1:31:57] Sufi tahap tinggi...", not
+# "[1:31:57] Rafizi: Sufi tahap tinggi..."), so "[^:]*:" never matched and left
+# each block's unique timestamp in the comparison key, making every repeat look
+# distinct -- the same root cause already noted for short_block_loops below.
+# ep00 and ep26's duplicates are also real but only 60-283 chars, under the old
+# floor. Both fixed here: strip the timestamp whether or not a speaker label
+# follows, and drop the floor to 60. Calibrated corpus-wide -- at 60 chars this
+# flags exactly ep00, ep26 and ep45 and nothing else, so a naturally recurring
+# short reaction ("Ya", "Baik") stays below it on real content.
+DUPLICATE_BLOCK_MIN_CHARS = 60
+SPEAKER_PREFIX_RE = re.compile(r"^\[(?:\d+:)?\d+:\d+\]\s*(?:\[?[A-Za-z][\w '.-]{0,30}\]?:\s*)?")
 
 # Separate failure mode from the duplicate-block hallucination above: instead of
 # re-emitting a whole earlier passage under a new timestamp, the model gets stuck
@@ -141,6 +159,47 @@ MODEL_RE = re.compile(r"^model:\s*(\S+)", re.M)
 # preserve locally-correct individual timestamps and only show up as an
 # ordering violation, not a drift value.
 BACKWARD_JUMP_THRESHOLD_SECONDS = 30
+
+# The coverage check above only asks whether the LAST timestamp reaches the end
+# of the audio, so an episode that silently drops most of its MIDDLE still passes
+# as clean. Confirmed on ep00 (marked clean while missing ~41% of its runtime,
+# including a 16-minute hole between [1:42:11] and [1:58:38]) and on ep26. The
+# backward-jump check can't see these either -- the gaps jump forward, and the
+# printed timestamps stay perfectly monotonic through them.
+#
+# A naive "big gap between consecutive timestamps" check is useless here: it
+# over-flags 63 of 67 episodes, because raw.md merges a long monologue into one
+# timestamped block, so a genuine 6-minute monologue looks like a 6-minute gap
+# (the coarse-VAD-merge artifact, ARCHITECTURE.md 1.11). Scoring each gap against
+# how much text actually sits at its start fixes that -- Malay speech in this
+# corpus runs roughly 13 chars/sec, so a 982s gap opening from a 60-char one-liner
+# is missing content while a 2568s gap opening from a 33,000-char wall of text is
+# not.
+#
+# Lead-in and tail are deliberately excluded: intro music before the first words
+# is normal, and the tail is already covered by the coverage check. Blocks holding
+# only a bracketed non-speech marker are skipped too -- ep48 genuinely ends at
+# [2:39:48] and leaves 40 minutes of dead air labelled "[silence]" before
+# "[end of audio]", which is not lost content.
+#
+# Calibrated corpus-wide: these thresholds flag exactly ep45, ep26, ep00 and ep35.
+# The next-worst episode lands at 6%, comfortably below the 10% floor.
+SPEECH_CHARS_PER_SECOND = 13.0
+MIN_CONTENT_HOLE_SECONDS = 240
+MAX_LOST_CONTENT_PCT = 10
+NON_SPEECH_BLOCK_RE = re.compile(r"^\[(?:\d+:)?\d+:\d+\]\s*[\[(][^\])]*[\])][\s.]*$")
+
+# ep35's raw.md is not a transcript at all: it is a Gemini-written summary outline
+# posing as one, and it passed every check above as clean. Its giveaway is timing
+# that was invented rather than measured -- real ASR timestamps land on arbitrary
+# second values, but an outline lands on round minute boundaries constantly.
+# ep35 has 25% of its timestamps ending in :00 against 1.7% expected by chance,
+# and it is the only episode in the corpus above 8%, so this separates cleanly.
+# (Its content confirms it independently: numbered lists inside "speech", agenda
+# labels, third-person descriptions of what was said, and written-register marks
+# real speech never has such as "/" and parenthetical glosses.)
+ROUND_TIMESTAMP_PCT_THRESHOLD = 12
+ROUND_TIMESTAMP_MIN_SAMPLES = 20
 # Bottom of the fallback chain, only reached once every better model is exhausted or
 # down -- confirmed prone to silently dropping code-switched content (see
 # lib_gemini.py's MODEL_FALLBACK_CHAIN comment and the language-mistranslation
@@ -230,6 +289,41 @@ def backward_timestamp_jumps(body):
     return jumps
 
 
+def timestamped_blocks(body):
+    blocks = []
+    for block in body.split("\n\n"):
+        block = block.strip()
+        m = TIMESTAMP_RE.match(block)
+        if not m:
+            continue
+        h, mins, s = m.groups()
+        ts = (int(h) if h else 0) * 3600 + int(mins) * 60 + int(s)
+        blocks.append((ts, block))
+    return blocks
+
+
+def lost_content_holes(body):
+    """Gaps between timestamps too large to be explained by the text at their start."""
+    holes = []
+    blocks = timestamped_blocks(body)
+    for (ts, block), (next_ts, _) in zip(blocks, blocks[1:]):
+        if NON_SPEECH_BLOCK_RE.match(block):
+            continue
+        spoken = len(LEADING_TIMESTAMP_RE.sub("", block, count=1)) / SPEECH_CHARS_PER_SECOND
+        unexplained = (next_ts - ts) - spoken
+        if unexplained >= MIN_CONTENT_HOLE_SECONDS:
+            holes.append((int(unexplained), ts, next_ts))
+    return holes
+
+
+def round_timestamp_pct(body):
+    blocks = timestamped_blocks(body)
+    if len(blocks) < ROUND_TIMESTAMP_MIN_SAMPLES:
+        return None, len(blocks)
+    round_count = sum(1 for ts, _ in blocks if ts % 60 == 0)
+    return 100 * round_count / len(blocks), len(blocks)
+
+
 def check_episode(ep_dir):
     issues = []
     models = {}
@@ -266,6 +360,27 @@ def check_episode(ep_dir):
             f"raw.md timestamp drops backward ({len(jumps)} jump(s), first from "
             f"{prev_max}s to {ts}s at {sample!r}) -- likely a hard reset, block "
             "reorder, or digit typo, see ARCHITECTURE.md 1.16"
+        )
+
+    if duration:
+        holes = lost_content_holes(body)
+        lost = sum(h[0] for h in holes)
+        pct = lost / duration * 100
+        if pct >= MAX_LOST_CONTENT_PCT:
+            worst, ts, next_ts = max(holes)
+            issues.append(
+                f"raw.md is missing content from the middle ({lost}s unexplained across "
+                f"{len(holes)} gap(s), {pct:.0f}% of the episode; worst is {worst}s at "
+                f"{ts}s -> {next_ts}s) -- gaps too large for the text at their start, "
+                "see ARCHITECTURE.md 1.17"
+            )
+
+    round_pct, n_stamps = round_timestamp_pct(body)
+    if round_pct is not None and round_pct >= ROUND_TIMESTAMP_PCT_THRESHOLD:
+        issues.append(
+            f"raw.md has {round_pct:.0f}% of its {n_stamps} timestamps on round :00 "
+            "seconds -- timing was invented, not measured, so this file is likely a "
+            "fabricated summary outline rather than a transcript, see ARCHITECTURE.md 1.18"
         )
 
     blocks = body.split("\n\n")
