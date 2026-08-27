@@ -41,7 +41,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [01:45] Zaim Zulkifli: Oh, pertama eh?
 
-[1:45] Haziq: Pertamalah kut. Saya rasa sebelum ni berumurlah. Okey baik. Tanpa membuang masa lagi...
+[01:45] Haziq: Pertamalah kut. Saya rasa sebelum ni berumurlah. Okey baik. Tanpa membuang masa lagi...
 
 [01:51] Rafizi: Gen Z ni lahir tahun bila ke tahun bila?
 
@@ -810,4 +810,3 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 [1:57:04] Haziq: Itu saja, bye-bye. Jumpa lagi minggu depan. Assalamualaikum.
 
 [1:57:08] Rafizi: Insya-Allah.
-

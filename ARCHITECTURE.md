@@ -1083,7 +1083,7 @@ rewrite/translate/metadata stage.
   episodes. There is no Bobby. It is the ASR collapsing **"baik YB"** into one
   token -- Haziq addressing Rafizi as YB while moving to the next segment, which
   is why every occurrence sits at a segment transition.
-- **The detector: `scripts/_label_drift_audit.py`.** Any speaker label present in
+- **The detector: `scripts/label_drift_audit.py`.** Any speaker label present in
   `interview*.md` but absent from `raw.md`. It buckets results, because a first
   version that did not flagged 63 of 67 episodes and was useless:
   - `VARIANT` -- token subset either way ("Rafizi" / "Rafizi Ramli"). Ignored.
@@ -1799,12 +1799,12 @@ artifact under review, or do not suppress.
   unguarded continuation loop (1.22). Between them they were missing about three
   hours of audio. All four are now restored and the loop is guarded.
 - **The method, in the order that matters.** 1.24's lesson was to content-align
-  before cutting audio; `scripts/_align_blocks.py` does it, mapping every block
+  before cutting audio; `scripts/align_blocks.py` does it, mapping every block
   to its true audio start by head-phrase matching against the whole caption. Run
   it *first*, every time. It is what showed that ep48's "missing" finale was not
   missing at all -- it was sitting in `raw.md` displaced by 2,384s -- and that
   ep26's blocks were not merely shifted but out of order.
-- **Splice, don't redo.** `scripts/_splice_gap.py` keeps the verified head and
+- **Splice, don't redo.** `scripts/splice_gap.py` keeps the verified head and
   tail verbatim and replaces only the damaged middle. ep48 kept 349 of its
   original blocks, ep00 kept 45 plus its outro, ep26 kept 93. Everything kept
   retains its hand-reviewed speaker labels, which a wholesale redo would have
