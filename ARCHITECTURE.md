@@ -1188,6 +1188,54 @@ rewrite/translate/metadata stage.
   investigation into a recurring tax. Any new signature should ship with a
   signature name so the ledger can retire it.
 
+### 1.22: The continuation loop has no re-emission guard (root cause of ep45)
+
+- **Found 2026-08-27**, from a fair challenge: why does ep45 need "redoing again"?
+  It does not -- **ep45's `raw.md` has never been re-transcribed.** Its only
+  commits are corpus-wide sweeps (the folder split, a blank-line fix, timestamp
+  canonicalisation, the host short-name convention), and it carries no `model:`
+  line, so it is the original transcription. The 2026-08-26 commit "Fix ep44,
+  ep45, ep49 (severe truncation)" touched ep45 but **not** `raw.md` -- it repaired
+  the interview rewrites only.
+- **But the bug that produced it is still live and unguarded.**
+  `lib_gemini._generate_with_continuation` accumulates up to 8 continuation
+  rounds with no test that a chunk advances past what is already collected:
+
+      full_text = ""
+      for _ in range(8):
+          resp = generate_content(client, contents, config)
+          text = _text(resp)
+          full_text += text          # no overlap check
+          if _finish_reason_name(resp) != "MAX_TOKENS":
+              return full_text
+
+  When the model backtracks and re-emits a covered passage under fresh
+  timestamps, the loop appends it, and the "last timestamp keeps climbing"
+  progress heuristic still reads as satisfied. That is exactly ep45: 1,028
+  duplicate blocks, one passage repeated 19 times, 78% of the file, plus a
+  runaway `[21:18:55]` stamp on a 2h58m episode.
+- **So a plain `--force` redo can reproduce the same failure.** Three things
+  qualify that:
+  - **It is intermittent, not deterministic.** ep35's Gemini run went through the
+    same loop over a 2h33m clip and produced zero repetition.
+  - **It would no longer ship silently.** The duplicate-block check fixed in 1.17
+    is precisely what was blind to ep45 before, so a failed redo now gets caught
+    by `qa_check.py` rather than sitting in the corpus.
+  - **Speechmatics is structurally immune**: a single batch job with no
+    continuation loop, so re-emission cannot occur by construction. Measured at
+    zero repetition on a comparable-length clip, with the best literal
+    proper-noun fidelity of the three engines (1.15).
+- **Recommended order, not yet done:** add an overlap guard to the continuation
+  loop first -- reject or retry a chunk whose opening duplicates accumulated text
+  -- since that protects every future transcription rather than one episode. Then
+  transcribe ep45 with Speechmatics for text and timings and Gemini for speaker
+  spans only, the combination validated on ep35 in 1.18.
+- **General lesson.** This bug was documented in prose (in `qa_check.py`'s
+  duplicate-block comment) for weeks while nothing enforced it, and a redo was
+  being recommended without anyone checking whether the root cause was fixed.
+  Before reprocessing an episode, check whether the failure mode that broke it is
+  still reachable.
+
 ### 2.1: Choosing a fallback provider
 
 - **Found:** the rewrite stage originally only used Gemini. When Gemini's
