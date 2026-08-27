@@ -17,10 +17,8 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 8s, 3/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2025-12-12-ep26-reformasi-bukan-content-azam-baki-uec-felda-ybm-ep-26**
-  - raw.md timestamp drops backward (7 jump(s), first from 8425s to 5695s at '[01:34:55] [Rafizi]: But what if, what if memang betul aa Az') -- likely a hard reset, block reorder, or digit typo, see ARCHITECTURE.md 1.16
-  - raw.md is missing content from the middle (4813s unexplained across 2 gap(s), 54% of the episode; worst is 2990s at 1394s -> 5695s) -- gaps too large for the text at their start, see ARCHITECTURE.md 1.17
-  - raw.md has 4 duplicate block(s) repeated verbatim at different timestamps (641 chars, 1% of raw.md) -- likely a continuation-loop hallucination, not a transcription error
-  - models: raw.md=gemini-3.5-flash
+  - raw.md is missing content from the middle (2990s unexplained across 1 gap(s), 34% of the episode; worst is 2990s at 1394s -> 5695s) -- gaps too large for the text at their start, see ARCHITECTURE.md 1.17
+  - models: raw.md=gemini-3.5-flash, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-**
   - check_timestamp_drift.py flagged timestamp mistiming (max drift 327s, 12/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5

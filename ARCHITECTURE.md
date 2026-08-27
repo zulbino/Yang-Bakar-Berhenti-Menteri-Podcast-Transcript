@@ -856,6 +856,58 @@ rewrite/translate/metadata stage.
 - **Not fixed yet.** ep35 needs its `[39:15]`-onward stretch re-transcribed and
   spliced, then `rewrite` and `translate` re-run.
 
+### 1.19: ep26's two duplicates, and why "needs audio" was the wrong call
+
+- **Prior status:** ep26 was the corpus's most ambiguous open case, deliberately
+  left untouched on the grounds that it needed someone to listen to the audio to
+  decide whether a repeated passage near the end was a bug or genuine rhetorical
+  restatement. It did not. Text alone settles it, and cheaply.
+- **The settling argument:** the repeated span is **13,571 characters**. A
+  speaker cannot reproduce 13.5k characters of speech a second time, so
+  restatement was never a live hypothesis. Anything above roughly a paragraph
+  can be decided without audio; reserve the audio budget for genuinely short
+  ambiguous spans (ep31's two orphan lines are the real example of that).
+- **Which copy to delete, decided by ordering not by content:** the block appears
+  at `[01:34:55]`-`[01:35:33]` twice. The first sits in a monotonic position
+  (`00:23:14 -> 01:34:55 -> 01:56:00`); the second violates ordering
+  (`02:20:25 -> 01:34:55 -> 02:22:25`). The ordering-violating copy is the
+  spurious insert, and removing it also cleared the backward-jump flag from 1.16.
+- **The copies were not byte-identical**, which matters for how you write the
+  guard. In 12,867 chars they differ at exactly one token boundary (`bolehlah`
+  vs `boleh lah`), so the second copy came from a *separate transcription pass
+  over the same audio*, not a straight copy -- consistent with the
+  continuation-loop re-emission in 1.16. A byte-equality assertion fails here
+  and a whitespace-collapsing one also fails; compare with whitespace stripped
+  out entirely. The retained copy is also the correctly-spelled one, since
+  `bolehlah` is right for the Malay `-lah` suffix.
+- **A second, different duplicate found in the same pass, and a third duplicate
+  shape.** `[02:23:55]` shares its first **2,515 chars** with `[02:13:28]`
+  verbatim, then diverges: the first continues in Malay for 11,991 chars while
+  the second stops at 2,771 with a 256-char **English** restatement of the
+  two-school-types distinction the first already covers in Malay. So the
+  language-drift bug can reach `raw.md` itself, not just the rewrite stage. This
+  shape -- long shared prefix, then divergence -- evades all three earlier
+  detectors: exact matching misses it (they diverge), `difflib` scores it low
+  (the tails are unrelated text), and the language-density check passes (the file
+  is overwhelmingly Malay overall).
+- **Deliberately not made a permanent check.** A corpus-wide prefix-duplicate
+  sweep at a 400-char floor found this shape in exactly one other place: ep45,
+  where the hits are trivial variants of duplicates the fixed 1.17 check already
+  reports. With one real occurrence corpus-wide there's nothing to calibrate a
+  threshold against, so this stays a scratch probe rather than a `qa_check.py`
+  check that would mostly generate noise.
+- **A misplaced duplicate also inflates the 1.17 content-loss figure.** Before
+  the fix ep26 reported 4,813s lost across two gaps (54% of the episode); after
+  it, 2,990s across one (34%). The second "hole" was never missing content -- it
+  was the artifact of the duplicate block sitting at the wrong point in the
+  timeline, so the gap measured from its end to the next real timestamp. Order
+  matters when triaging: clear duplicates and ordering violations *first*, then
+  re-measure content loss, or you will go looking for audio to re-transcribe that
+  was never absent.
+- **Still open on ep26:** the remaining 2,990s gap between `[00:23:14]` and
+  `[01:34:55]` (34% of runtime) is real missing content and needs
+  re-transcription.
+
 ### 2.1: Choosing a fallback provider
 
 - **Found:** the rewrite stage originally only used Gemini. When Gemini's
