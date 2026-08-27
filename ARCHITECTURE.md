@@ -92,7 +92,7 @@ Uploads must force the mime type to `audio/mp4`: the SDK auto-detects `.m4a` as
 `scripts/lib_gemini.py`'s `upload_audio()` handles this.
 
 **Environment variables on Windows.** `HF_TOKEN`, `SPEECHMATICS_API_KEY` and
-`GEMINI_API_KEY` are persisted at User scope, but a fresh shell does not always
+`GEMINI_API_KEY` are persisted at User scope, but a fresh shell doesn't always
 inherit them, and re-persisting appears to work then fails again next session. Read
 them from the user environment inside the script, or set them per-run:
 
@@ -120,7 +120,7 @@ python scripts/qa_check.py
 
 ### Repair tools
 
-For an episode that is missing content or badly mistimed. **Run the alignment first.**
+For an episode that's missing content or badly mistimed. **Run the alignment first.**
 Establishing ground truth before cutting any audio is the lesson of 1.18 and 1.24; two
 transcription runs were wasted learning it.
 

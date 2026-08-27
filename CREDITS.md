@@ -5,7 +5,7 @@ is glue: it downloads audio, hands it to models other people trained, and checks
 result. Without the projects below there would be no transcripts here at all, and no
 Malay-language ones in particular.
 
-I am not a lawyer, and none of this is legal advice. This file records what each
+I'm not a lawyer, and none of this is legal advice. This file records what each
 component is, what its licence says, and what its authors ask for.
 
 ## What this project runs on
@@ -59,14 +59,14 @@ None of the three require attribution. They are recorded here because their term
 how this archive was built, and because requiring no attribution still leaves obligations.
 
 **Google Gemini and Google AI Studio** did most of the transcription and rewriting.
-Google [does not claim ownership](https://ai.google.dev/gemini-api/terms) of generated
+Google [doesn't claim ownership](https://ai.google.dev/gemini-api/terms) of generated
 content, and asks for attribution only where the law requires it. The term that matters
 here is the free tier: on unpaid services *"Google uses the content you submit to the
 Services and any generated responses to provide, improve, and develop Google products
 and services"*, and human reviewers may read what you submit. Everything I sent was
 already-public broadcast audio from a public YouTube channel, so I accepted that trade.
 It is a real property of the unpaid tier, though, so if you point this pipeline at
-private or sensitive audio, use the paid tier, which does not train on prompts or
+private or sensitive audio, use the paid tier, which doesn't train on prompts or
 responses.
 
 **Anthropic Claude**, through the `claude` CLI, ran the rewrite, translation and metadata
@@ -82,7 +82,7 @@ its commercial terms.
 
 ## Terms that carry over to anyone reusing this
 
-The [CC0 dedication](LICENSE) covers **my own code in `scripts/`**. It cannot relicense
+The [CC0 dedication](LICENSE) covers **my own code in `scripts/`**. It can't relicense
 anything above it. Two constraints remain:
 
 1. **The MMS forced aligner is CC-BY-NC 4.0, non-commercial only.** If you run this
@@ -90,7 +90,7 @@ anything above it. Two constraints remain:
    says about the glue code. This archive is free, unfunded and non-commercial, so its
    own use sits inside the terms. For a commercial pipeline, replace
    `scripts/lib_forced_align.py` or get separate permission from Meta. This constrains
-   the pipeline and not the transcripts, because reusing the finished text does not
+   the pipeline and not the transcripts, because reusing the finished text doesn't
    involve the model.
 2. **The WeSpeaker embedding model is CC-BY-4.0 and requires attribution.** Naming it,
    as this file does, satisfies that.
@@ -100,9 +100,9 @@ account, you must accept the model conditions, and you must state your organisat
 what you intend to use the models for. I requested access for this project's stated
 purpose: building a free, public, non-commercial transcript archive of a Malaysian
 public-affairs podcast. If you re-run this pipeline you need your own access under your
-own purpose, because a token cannot be shared or inherited.
+own purpose, because a token can't be shared or inherited.
 
-`bgutil-ytdlp-pot-provider` is GPL-3.0. This repo does not redistribute, bundle or link
+`bgutil-ytdlp-pot-provider` is GPL-3.0. This repo doesn't redistribute, bundle or link
 it. `requirements.txt` names it, you install it yourself, and `yt_download.py` runs it as
 a separate process. Vendoring it into the repo would change that.
 
@@ -120,7 +120,7 @@ across both organisations:
 | mesolitica datasets | 206 | 192 (93%) | `mit`, then `cc-by-nc-4.0` |
 | malaysia-ai datasets | 107 | 89 (83%) | `cc-by-nc-4.0` (14) |
 
-The silence runs across both organisations, so I cannot treat it as one blank card
+The silence runs across both organisations, so I can't treat it as one blank card
 somebody forgot. Three things point toward clear open intent:
 
 - Their code carries open licences: [`malaya`](https://github.com/malaysia-ai/malaya)
@@ -132,7 +132,7 @@ somebody forgot. Three things point toward clear open intent:
   promised on the card.
 
 Intent still is not a licence. Where these publishers do state one, they most often
-choose **`cc-by-nc-4.0`: attribution, non-commercial**. That is the best evidence I have
+choose **`cc-by-nc-4.0`: attribution, non-commercial**. That is the best evidence I've
 of what they expect.
 
 **How I treat it.** I credit mesolitica by name and link wherever I mention the model,
