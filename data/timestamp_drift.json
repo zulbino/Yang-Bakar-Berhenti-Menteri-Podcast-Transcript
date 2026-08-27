@@ -1,11 +1,11 @@
 {
   "2025-05-10-ep00-podcast-yang-berhenti-menteri": {
     "status": "ok",
-    "samples_matched": 11,
-    "samples_not_found_nearby": 1,
+    "samples_matched": 9,
+    "samples_not_found_nearby": 3,
     "samples_total": 12,
-    "max_drift_seconds": 446,
-    "flagged": true,
+    "max_drift_seconds": 24,
+    "flagged": false,
     "details": [
       {
         "claimed": 19,
@@ -13,14 +13,9 @@
         "drift": -19
       },
       {
-        "claimed": 118,
-        "actual": 76,
-        "drift": -42
-      },
-      {
-        "claimed": 322,
-        "actual": 297,
-        "drift": -25
+        "claimed": 255,
+        "actual": 243,
+        "drift": -12
       },
       {
         "claimed": 646,
@@ -28,29 +23,9 @@
         "drift": -10
       },
       {
-        "claimed": 1062,
-        "actual": 1053,
-        "drift": -9
-      },
-      {
-        "claimed": 1387,
-        "actual": 1376,
-        "drift": -11
-      },
-      {
         "claimed": 2143,
         "actual": 2119,
         "drift": -24
-      },
-      {
-        "claimed": 2620,
-        "actual": 2606,
-        "drift": -14
-      },
-      {
-        "claimed": 3193,
-        "actual": 3181,
-        "drift": -12
       },
       {
         "claimed": 3677,
@@ -58,9 +33,24 @@
         "drift": -19
       },
       {
-        "claimed": 7118,
-        "actual": 6672,
-        "drift": -446
+        "claimed": 5511,
+        "actual": 5496,
+        "drift": -15
+      },
+      {
+        "claimed": 6012,
+        "actual": 5998,
+        "drift": -14
+      },
+      {
+        "claimed": 6662,
+        "actual": 6653,
+        "drift": -9
+      },
+      {
+        "claimed": 7519,
+        "actual": 7506,
+        "drift": -13
       }
     ]
   },

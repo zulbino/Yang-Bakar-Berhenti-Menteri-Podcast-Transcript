@@ -31,17 +31,12 @@
   },
   "2025-05-10-ep00-podcast-yang-berhenti-menteri": {
     "status": "ok",
-    "baseline": 0.228,
-    "mean_coverage": 0.175,
+    "baseline": 0.29,
+    "mean_coverage": 0.292,
     "caption_end": 7935,
-    "dead_runs": [
-      [
-        4800,
-        7860
-      ]
-    ],
-    "worst_dead_run_seconds": 3060,
-    "flagged": true
+    "dead_runs": [],
+    "worst_dead_run_seconds": 0,
+    "flagged": false
   },
   "2025-06-20-ep01-yang-berhenti-menteri-1": {
     "status": "no_captions"
