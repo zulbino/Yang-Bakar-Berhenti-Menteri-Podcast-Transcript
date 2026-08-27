@@ -11,7 +11,7 @@ view_count: 272727
 hosts:
 - Rafizi Ramli
 guests:
-- Aziz
+- Haziq
 topics:
 - Wildlife smuggling (python gallbladders, Johor)
 - Azam Baki/SPRM controversy and public backlash
@@ -68,7 +68,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi Ramli:** Assalamualaikum dan salam sejahtera. Macam biasa, Podcast Yang Berhormat Menteri, episod yang ke-44. Sikit lagi kita nak masuk episod ke-52 — kenapa? Sebab satu tahun, 52 minggu, tanpa berhenti kan. Episod 44 ni, lebih kurang dua bulan lagi lah baru sampai 52. Wabi tak penat, Wabi? Nak jugalah, tapi nak buat macam mana, tak apalah. Ada orang kata "tak apalah" — nanti sekarang dah mula melalut kan, belum apa-apa lagi ni.
 
-**Aziz:** Cakap macam komen dekat KS tu kan? Ha?
+**Haziq:** Cakap macam komen dekat KS tu kan? Ha?
 
 **Rafizi Ramli:** Tak apa, tak apa. Okey sayang, kita mulakan, sayang. Kita terus masuk bersungguh-sungguh? Okey. Tapi sebelum itu, kepada rakan-rakan yang menonton, terutamanya pengundi-pengundi atas pagar dan mangsa-mangsa penipu — maksud penipu kerajaan lebih. Bukan PH sahaja yang menipu, PN pun menipu sampai sekarang tak ada lagi hudud ni. Semua benda pun menipu masa itu. Ikuti dan kongsi podcast ini, dan jangan lupa untuk ikuti juga media sosial YB Rafizi Ramli. Barulah kita boleh mulakan, YB. Kita mulakan dengan bersungguh-sungguh. Kita tengok macam mana prestasi mereka minggu ini. Bismillah, kita mulakan dengan yang pertama: 1022 hempedu ular sawa.
 
@@ -78,11 +78,11 @@ Okey, ini berkaitan rampasan yang dibuat di Johor, melibatkan seorang warga nega
 
 Yang pelik ialah — andaikan lah, satu gallbladder itu daripada satu ular sawa, satu lidah pun daripada satu ular sawa. Maksudnya dia telah membunuh 1,200 ular sawa. Banyaknya ular sawa Titan di Malaysia ni — itu yang membuatkan aku lebih takut. Mungkin ladang kot. Ha, dia buat ladang. Lagilah menggerunkan — maksudnya kalau pergi Johor ni, ada satu ladang ular sawa, gila ke? Secara tersembunyi lah kot. Mungkin ular sawa ini bukan besar ke? Besar kan? Besar. Okey okey, sikit-sikit sahaja, takut lah aku ni. Okey, bersungguh-sungguh — sampai kenal, kalau ikut Pa'an lah, dia sampai ada ladang ular sawa. Gila bersungguh-sungguh. Kakiku dah kena angkat, takut nak pijak tanah dah ni.
 
-**Aziz:** Ada fakta menarik — Malaysia adalah tempat penyeludup hidupan liar terbesar dunia.
+**Haziq:** Ada fakta menarik — Malaysia adalah tempat penyeludup hidupan liar terbesar dunia.
 
 **Rafizi Ramli:** Dalam dunia, itu yang dalam berita tu kan?
 
-**Aziz:** Ada.
+**Haziq:** Ada.
 
 **Rafizi Ramli:** Malaysia boleh, ok ok ok, ini lagi menarik daripada cerita ular sawa yang menakutkan aku tadi. Bahaya nanti dia tangkap aku, dia letak ular sawa — hmm, dah terlepas cakap dah. Okey okey.
 
@@ -94,13 +94,13 @@ Dan ada satu komen kata Azam Baki ini ada kemahiran — kalau dia masuk politik,
 
 Satu yang Tan Sri Azam Baki ni, bersungguh-sungguh dia — walaupun dalam suasana yang sekali buka mulut mengundang emoji, tapi saya kesian jugalah kepada SPRM, kerana SPRM sekarang ini dah kena ada skuad taktikal untuk melindungi dia. Kalau lindung daripada penjenayah tu faham lah, ini lindung daripada budak-budak yang takut kena ambush dengan plakad sekali lagi kan. Jadi kalau kita nak bagi bersungguh-sungguh ini, kita nak bagi kepada siapa?
 
-**Aziz:** Azam Baki.
+**Haziq:** Azam Baki.
 
 **Rafizi Ramli:** Azam Baki lah, sayang. Yalah, obviously orang tak berapa gemar dia dan dia tak berjaya dengan segala pelan komunikasi yang dibuat. Saya nasihatkan kepada Tan Sri Azam Baki, mungkin kena tukar UKK kot. Tapi UKK pun saya simpati lah — bawa UKK yang paling hebat daripada Hollywood pun saya tak rasa boleh mengubah pandangan rakyat mengenai dia. Okey, good luck kepada UKK. Dan bersungguh-sungguh — kalau ada UKK yang menonton ini, eh, mereka kena. Sebab saya dimaklumkan, salah satu tindak balas daripada SPRM ialah memastikan bila ada podcast YB ni, orang-orang tertentu daripada SPRM kena jadi cyber trooper hentam kita. Jadi kalau tak nak jadi cyber trooper, mungkin sebaiknya doakan supaya kontrak dia tak disambung. InsyaAllah — yakinnya kau, tapi tak apalah.
 
 Kita tengok yang sosial media lagi. Ini kata-kata Timbalan Menteri: "Kenapa hidung Anwar Ibrahim tu sampai merah macam tu?" Jahat lah, Pa'an. Lelehlah sikit — eh, bukan kita orang lah.
 
-**Aziz:** Kita.
+**Haziq:** Kita.
 
 **Rafizi Ramli:** Oh, ya ke? Oh, dah ada. "Di mana Anwar bertanding, di situ ada Rafizi Ramli." Ini siapa yang buat AI ni? Kenapa aku ada empat tanda titik, empat tahi lalat dekat pipi aku tu? Memang ada, sayang, tapi bukan empat lah. Ya ke, memang ada ke? Ha, ini pencuci muka tak berkesan ni kan.
 
@@ -112,7 +112,7 @@ Pendirian politik saya dan kawan-kawan yang lain sebenarnya tidak berkaitan deng
 
 Jadi saya tak tahu lah sama ada dia nak bertanding balik ke, dia nak balik ke politik semula ke, kan nak sertai Kabinet KJ?
 
-**Aziz:** Oh, ya ya.
+**Haziq:** Oh, ya ya.
 
 **Rafizi Ramli:** Okey okey, tak apalah, kita tunggu sahaja lah Kabinet KJ. Dah masuk UMNO, dia tak apa — dia PN ke, BN ke, asalkan siapa yang mengangkatnya, dia sertai. Esok kalau aku pergi peluk dia pun, aku rasa sesuai lagi dia okey kan, kalau ada peluang untuk menang. Jadi dia kena ada dua syarat: satu, ada peluang untuk menang; dua, mendapat kuasa — peluk dan angkat dia. Okey, tapi bersungguh-sungguh lah, buat spekulasi sahaja. Kita tunggu, sayang, kita tengok lagi ada yang bersungguh-sungguh ke tidak.
 
@@ -120,7 +120,7 @@ Lama kita tak dengar khabar — apa khabar, Datuk Seri? Ini pasal kes yang sedan
 
 Jadi syarikat itu telah menyaman Datin Seri Rosmah Mansor untuk mendapatkan kembali barang tersebut, dan jawapan di mahkamah ialah, "Sebenarnya saya bukan beli, saya tengok sahaja." Untuk tengok sahaja kan, untuk tengok-tengok kalau nak beli ke apa — ini kira hantar sampel lah, sampel barang kemas RM67 juta sekali. Bila baca, tak faham lah. Sebab itu saya rasa kita kena terangkan kepada orang ramai, sebab benda ini jarang berlaku di dunia lah — maksudnya "sampel" seperti yang Datin Seri Rosmah kata, dia sampel dia tengok sahaja lah kan. Tapi lucu lah di mahkamah tu, peguam kepada plaintif bertanya: "Are you in the business of promoting jewellery?" Maksudnya, soalan peguam itu ialah, "Datin Seri, adakah kamu ini influencer?" Sebab dalam kenyataan Datin Seri Rosmah, ada dia sebut: "They were delivered to me with the aim and intention I would wear and use the jewellery so that it will attract, garner and obtain publicity and credibility through me." Itu yang sebenarnya peguam tanya — dia tak sebut perkataan "influencer" lah, tapi jawapan Datin Seri Rosmah itu, "Yalah, orang hantar kat saya ni, bila saya pakai, saya tolong promotekan lah." Jadi itu yang dia tanya, adakah dia dalam bidang itu lah. Jadi saya pun tak tahu, Datin Seri Rosmah pun sebenarnya seorang influencer. Kalau boleh, saya nak belajar untuk jual barang kemas secara live di TikTok, saya boleh ajar.
 
-**Aziz:** Kalau YB nak jadi influencer, YB nak jual barang apa?
+**Haziq:** Kalau YB nak jadi influencer, YB nak jual barang apa?
 
 **Rafizi Ramli:** Uh-huh, mungkin produk rambut. Tak, mungkin produk rambut, tapi kena tunggu dia naik sikit lah kan. Contohnya benda tu ada kesan tau — bukan aku lah, ada, atas apa jua sebab, algoritma ini jahat tau, semua algoritma aku pasal rambut botak tau. Maksudnya bosan gila, kat TikTok pun keluar rambut botak, dekat Google pun keluar. Jadi ia keluar daripada seorang — rakyat Malaysia lah, tak nak sebut nama, tapi saya rasa ramai orang tahu lah. Dia kononnya promosi makan biotin, bukan sahaja rambut jadi tebal macam — dia tunjuk rambut dia 5 tahun dulu, rambut dia sekarang. Tapi muka dia jadi sama muda dengan anak dia. Dia dah umur lebih kurang macam aku, memang betul lah, tengok muka sebelah, muka lebih kurang sama dengan anak perempuan dia. Jadi aku terpengaruh, beli lah, tapi sampai sekarang macam tak ada kesan. Kena scan kot. Jadi kalaulah satu hari nanti saya nak jadi influencer juga, tak payah lah hantar barang kemas sampai RM67 juta — cukup untuk hantar hair tonic yang berkesan.
 
@@ -130,7 +130,7 @@ Tahun bila tu — 2016 macam itu. Memang Datuk Seri Najib dengan Datin Seri Rosm
 
 Jadi kalau ada di kalangan yang menonton malam ini yang macam itu, tak payah minta maaf pun kat saya, tak apa lah. Tapi tak baik ulang benda itu, kerana nanti nampak bodoh — tajam.
 
-**Aziz:** Okey okey sayang, bersungguh-sungguh sayang, bersungguh-sungguh bersungguh-sungguh. Alasan yang menarik, alasan yang bersungguh-sungguh ke? Okey, ada lagi?
+**Haziq:** Okey okey sayang, bersungguh-sungguh sayang, bersungguh-sungguh bersungguh-sungguh. Alasan yang menarik, alasan yang bersungguh-sungguh ke? Okey, ada lagi?
 
 **Rafizi Ramli:** Ada lagi — "ingat senang kerja di kerajaan." Ini yang di konvensyen PKR Terengganu. Saya ingat semua orang dah tahu lah, Datuk Seri Anwar meluahkan kekecewaan. Ini ucapan yang sama, dia kata "bagilah kredit sikit." Betul, tapi reaksi itu teruk lah, saya ingat, dekat media sosial kan.
 
@@ -138,7 +138,7 @@ Kerana ini masalah kepada adik-adik yang bercita-cita untuk menjadi ahli politik
 
 Jadi anda akan fikir, Anwar lah yang paling mahir tentang senario politik di Malaysia yang memang akan kena kecam tiap-tiap hari ini. Rupanya tidak — tidak sesuai. Jadi sebab itu kalau saya nak menilai bersungguh-sungguh ini, bukan sangat soal dia kata "ingat senang ke jadi kerajaan itu" — saya akan berbalik kepada bersungguh-sungguhnya dia nak jadi Perdana Menteri. Anda mungkin fikir bersungguh-sungguh nak jadi Perdana Menteri selama ini, dia sepatutnya sudah menerima ini lah kan. Kalau dia memang tahu taklimat dia sebelum masuk itu, proses onboarding kerja dia sudah dilalui, memang macam ini — jadi mungkin mengurangkan risiko kena kecam bila kenyataan-kenyataan dan ucapan macam ini keluar kot. Jadi bersungguh-sungguh untuk jadi Perdana Menteri.
 
-**Aziz:** YB, mungkin kita akan ulas tentang komunikasi kerajaan dalam segmen nanti. Cuma, mungkin ini mimpi ngeri kepada stratkom Perdana Menteri — dia dah rancang elok, tetapi setiap hujung minggu, kenyataan-kenyataan yang kontroversial ini muncul semula sehingga benda ini akan keluar daripada dia dan akan meletup, sampai setiap minggu, konsisten. Dan orang akan lebih ingat apa yang dia cakap tu daripada ucapan-ucapan yang lain. Ya.
+**Haziq:** YB, mungkin kita akan ulas tentang komunikasi kerajaan dalam segmen nanti. Cuma, mungkin ini mimpi ngeri kepada stratkom Perdana Menteri — dia dah rancang elok, tetapi setiap hujung minggu, kenyataan-kenyataan yang kontroversial ini muncul semula sehingga benda ini akan keluar daripada dia dan akan meletup, sampai setiap minggu, konsisten. Dan orang akan lebih ingat apa yang dia cakap tu daripada ucapan-ucapan yang lain. Ya.
 
 **Rafizi Ramli:** Saya tak rasa... okey, kembali kepada apa yang awak sebut lah, maksudnya mimpi ngeri kepada pasukan media ataupun stratkom, kalau ada benda macam itu, komunikasi strategik. Pa'an takut sebab masa dia datang kali pertama — okey, aku nak cerita cerita dalam-dalam lah, tentang Pa'an. Ini orang media lah kan, ataupun orang yang biasa dengan kandungan, media sosial kan, komunikasi strategik. Jadi aku tak kenal Pa'an ni, aku tak kenal langsung, tak nak jumpa pun kan. Jadi ada lah kawan yang mengesyorkan aku, "yalah, ok, datanglah," dia datang lah untuk temu bual. Hahaha. Jadi korang boleh fokus muka Pa'an dah merah. Jadi Pa'an pun bercakap lah pasal komunikasi strategik, semua, bagaimana perkara berkembang, strategi-strategi — semua aku tengok cakap dia kan.
 
@@ -162,23 +162,23 @@ Oh, gambar itu — itu gambar AI kot kan, tak adalah dia roh-roh ini-ini-ini mac
 
 Saya lebih tertarik untuk — Allah, Syahir, kau tak payahlah nak menunggang aku, nak buat konten. Awak tu ahli parlimen — jadi orang nak tunggu sebenarnya apa pendirian ahli-ahli parlimen PAS yang muda. Dia tak muda mana pun, dia 2-3 tahun junior aku sahaja pun, tapi dalam PAS lah, umur pertengahan 40-an tu kira masih bayi lah. PAS yang muda-muda ini takkan nak diam sahaja pasal cerita mafia korporat semua kan, tapi dia tak komen, dan dia tak nak ke depan — itu dia nak menunggang cerita "aku pakai baju apa." "Jika biru muda, hatinya masih setia PKR. Jika kuning, cenderung aktivisme NGO. Jika hitam, isyarat wadah politik baru. Jika putih, memilih jalan bebas dalam PRU16. Aku akan pakai baju batik warna-warni." Kena tangkap lah, kawan — apa punya ahli politik ini, apa nama ni, isyarat aku, mana baju yang selesa hari itu aku pakai.
 
-**Aziz:** Bersungguh-sungguh, okey weh, kita dah habis, kita nak nilai.
+**Haziq:** Bersungguh-sungguh, okey weh, kita dah habis, kita nak nilai.
 
 **Rafizi Ramli:** Allah, ada pula suara. Bagi Pa'an lah, Rik Pa'an.
 
-**Aziz:** Oh, saya — ya, Alhamdulillah. Takkan pasal ular takut. Saya nak nilai Syahir sebagai...
+**Haziq:** Oh, saya — ya, Alhamdulillah. Takkan pasal ular takut. Saya nak nilai Syahir sebagai...
 
 **Rafizi Ramli:** Pariwira? Kenapa kau tak puas hati dengan Syahir ni?
 
-**Aziz:** Sebab orang ingat debat Syahir dengan YB — itu sahaja yang dia ingat.
+**Haziq:** Sebab orang ingat debat Syahir dengan YB — itu sahaja yang dia ingat.
 
 **Rafizi Ramli:** Aku masa tu macam...
 
-**Aziz:** Jadi, dendam?
+**Haziq:** Jadi, dendam?
 
 **Rafizi Ramli:** Ha, kau tengok, kan ada — kalau kat TikTok, kat konten ada kucing oren gemuk itu kan. Kucing oren gemuk itu, karakter dia banyak lah kontennya, macam-macam dia buat, tapi karakter dia macam blur, dia macam ini — itulah aku masa debat hari itu kan. Baik, okey, mungkin menang juga PAS, dania PAS yang menang. Bayangkanlah, kalau masa ada debat zaman-zaman itu, kita dah ada podcast dan kita dah ada segmen bersungguh-sungguh...
 
-**Aziz:** Memang kita mula bersungguh-sungguh sepanjang zaman.
+**Haziq:** Memang kita mula bersungguh-sungguh sepanjang zaman.
 
 **Rafizi Ramli:** Maksudnya Fuziah tak menang bersungguh-sungguh sepanjang zaman ialah pantun roh-roh ini-ini-ini lah. Okey, baik, hidup keras, adik. Segmen utama lah. Tapi kita ada empat, sayang, kita dah 36 minit, jadi kita akan kejar masa sikit lah.
 
@@ -188,15 +188,15 @@ Bloomberg ini — aku pun terkejut sahaja, kat Bloomberg ini dia memang betul-be
 
 Ini Bloomberg sebenarnya dah 2-3 bulan — saya ingat Ramanan sendiri pernah mengumumkan kan, kerajaan sedang membangunkan satu sistem baru yang tidak melibatkan ejen macam itu kan. Kemudian reaksi daripada ejen-ejen pekerja asing ini bunyi bising sikit lah. Kemudian bulan lepas, saya ingat Malaysiakini mendedahkan mengenai TVPA ini, sistem two-drop ini yang menyebabkan Malaysiakini kena serbu dan disiasat lah sekarang, ada kes ADAT Malaysiakini kan. Jadi mungkin Aziz boleh terangkan sikit apa dia, sebab aku nak minum air.
 
-**Aziz:** Saya rasa artikel Bloomberg kali ini agak pendek lah, walaupun langganan saya dah habis.
+**Haziq:** Saya rasa artikel Bloomberg kali ini agak pendek lah, walaupun langganan saya dah habis.
 
 **Rafizi Ramli:** Bukan langganan percubaan. Miskinnya kau, percubaan, sebab aku penganggur. Macam mempermainkan aku sahaja ini.
 
-**Aziz:** Secara mudahnya, adalah satu sistem baru — alasan yang diberi adalah untuk menghapuskan ejen. Kalau kita dengar Aminul Islam sendiri cakap, ini bagus, ini akan mengurangkan, pertama, orang tengah; kedua, kos — kos itu akan menurun. Tetapi apa yang dibangkitkan, ataupun kegusaran orang ialah, adakah dengan kita buat macam ini, sebenarnya ini satu monopoli — nak monopoli, berikan semuanya kepada Aminul Islam. Jadi saya rasa itulah dia punya ringkasannya. Cuma dia bersungguh-sungguh sikit, YB, dekat hujung tu lah kan — Aminul Islam nak usahakan Anugerah Nobel Keamanan kepada Dato' Seri Anwar Ibrahim.
+**Haziq:** Secara mudahnya, adalah satu sistem baru — alasan yang diberi adalah untuk menghapuskan ejen. Kalau kita dengar Aminul Islam sendiri cakap, ini bagus, ini akan mengurangkan, pertama, orang tengah; kedua, kos — kos itu akan menurun. Tetapi apa yang dibangkitkan, ataupun kegusaran orang ialah, adakah dengan kita buat macam ini, sebenarnya ini satu monopoli — nak monopoli, berikan semuanya kepada Aminul Islam. Jadi saya rasa itulah dia punya ringkasannya. Cuma dia bersungguh-sungguh sikit, YB, dekat hujung tu lah kan — Aminul Islam nak usahakan Anugerah Nobel Keamanan kepada Dato' Seri Anwar Ibrahim.
 
 **Rafizi Ramli:** Baik, oleh kerana majoriti rakyat Malaysia ini miskin macam Haziq yang tidak mampu untuk membayar langganan Bloomberg, jadi kita buat macam yang lepas-lepas — aku tolong bacakan, dan aku nak kena terjemahkan terus dalam Bahasa Melayu, tapi pendek sahaja, tak panjang macam hari itu lah kan. Yang ini yang dilaporkan hari ini, pukul semalam 5.41 petang: "Menggantikan Taikun 1, sistem pekerja asing baru yang dibangunkan oleh Taikun Amin." Orang kita panggil Amin Bangla — tapi untuk rujukan, bila kita sebut "Amin", maksudnya Aminul Islam ataupun Amin Bangla, ini lah kan.
 
-**Aziz:** Saya boleh lihat.
+**Haziq:** Saya boleh lihat.
 
 **Speaker 1:** Malaysia sedang merancang untuk menggunakan satu sistem penggajian pekerja asing yang baru yang dibangunkan oleh Bestinet Sendirian Berhad, satu syarikat yang ditubuhkan oleh taikun pekerja asing Aminul Islam, mengikut enam orang yang mengetahui mengenai perkara tersebut. Perisian yang sedang diwar-warkan itu dikatakan akan membenarkan syarikat-syarikat Malaysia untuk mengambil pekerja asing secara terus tanpa menggunakan orang tengah yang sebahagiannya mengenakan bayaran yang tinggi kepada pekerja asing, mengikut maklumat daripada orang-orang yang mengetahui mengenai perkara itu, yang meminta supaya tidak dinamakan di dalam laporan ini.
 

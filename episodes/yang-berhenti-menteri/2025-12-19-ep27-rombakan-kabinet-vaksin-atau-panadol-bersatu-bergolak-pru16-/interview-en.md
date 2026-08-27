@@ -12,7 +12,7 @@ hosts:
 - Rafizi Ramli
 guests:
 - Farhan
-- Amy
+- Farhan
 topics:
 - Cabinet reshuffle analysis
 - Khairul Aming / Rembayung restaurant and Bumiputera entrepreneurship
@@ -489,7 +489,7 @@ Second, that's probably why a better approach would be to have a community servi
 
 Then there's also, a Datuk, Deputy Head of the Segambut Bersatu Division, charged RM6 million, paid back RM4 million. There's a former Prime Minister, RM170 million, returned it, faced nothing. So there you go — if you return it, nothing happens to you. So those are two things that need to be done. I hope netizens push this hard so we can amend the penal code and review it. But I have to admit, I don't read it cover to cover. But philosophically, offences like this should fall under community service, not go straight into the penal code. I'm not even the Minister of Law.
 
-**Amy:** Sorry, since we're discussing this, I'm reminded of that judge in Providence — Frank Caprio, or something, the nicest judge in the world. In Malaysia's court and judicial system, isn't there room for court proceedings where, if a family is genuinely struggling, they're allowed — not exactly allowed, but let off out of compassion, out of mercy and all that?
+**Farhan:** Sorry, since we're discussing this, I'm reminded of that judge in Providence — Frank Caprio, or something, the nicest judge in the world. In Malaysia's court and judicial system, isn't there room for court proceedings where, if a family is genuinely struggling, they're allowed — not exactly allowed, but let off out of compassion, out of mercy and all that?
 
 **Rafizi Ramli:** There actually is — I mean, I don't know the details, because lawyers, you know, you say A, they say B, you say B, they say C. But I'm a beneficiary of one of the provisions — bond of good behaviour. My case was OSA. I was charged and sentenced to 3 years in prison in 2017 for disclosing a report related to 1MDB concerning delays in military pension payments. At the time, well, I was in parliament, I had to make a decision — many pensioners were complaining, not getting their pensions, not getting their payments at all. You ask about it in parliament like that, and nobody pays attention. So you have to show the report that actually says the money is like that, right. So I got hit with the OSA. Convicted, then went to the Court of Appeal.
 
@@ -501,14 +501,14 @@ That's why I hope someone conveys this to Datuk Seri Saifuddin Nasution — he p
 
 Alright, Chris, thank you. Alhamdulillah, no more questions right? Alhamdulillah. I guess that's it — we're at 2 hours 35 minutes. Happy holidays!
 
-**Amy:** Happy holidays!
+**Farhan:** Happy holidays!
 
 **Rafizi Ramli:** But we'll still be here next week. They asked for us not to be here next week, but that's not possible — we have to be here every week. So next week even though it's a holiday — one day off after Christmas, Boxing Day — we'll still be broadcasting. Boxing Day. What are you boxing, Boxing Day?
 
-**Amy:** Yeah.
+**Farhan:** Yeah.
 
 **Rafizi Ramli:** I know. But what do—
 
-**Amy:** —you box? You don't celebrate Christmas. No, no, we box whatever's around.
+**Farhan:** —you box? You don't celebrate Christmas. No, no, we box whatever's around.
 
 **Rafizi Ramli:** Okay, not a good idea. Let's wrap up, Amy. That's it. Bye.

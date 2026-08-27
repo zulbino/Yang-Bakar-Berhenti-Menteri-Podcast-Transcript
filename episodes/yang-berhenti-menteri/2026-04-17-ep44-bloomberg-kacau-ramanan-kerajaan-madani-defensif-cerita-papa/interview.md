@@ -11,7 +11,7 @@ view_count: 272727
 hosts:
 - Rafizi Ramli
 guests:
-- Aziz
+- Haziq
 topics:
 - Wildlife smuggling (python gallbladders, Johor)
 - Azam Baki/SPRM controversy and public backlash
@@ -70,9 +70,9 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi Ramli:** Assalamualaikum dan salam sejahtera. Macam biasa, Podcast Yang Berhormat Menteri, episod yang ke-44. Sikit lagi kita nak masuk episod ke-52 — kenapa? Sebab satu tahun, 52 minggu, tanpa berhenti kan. Episod 44 ni, lebih kurang dua bulan lagi lah baru sampai 52. Wabi tak penat, Wabi? Nak jugalah, tapi nak buat macam mana, tak apalah. Ada orang kata "tak apalah" — nanti sekarang dah mula melalut kan, belum apa-apa lagi ni.
 
-**Aziz:** Cakap macam komen dekat KS tu kan? Ha?
+**Haziq:** Cakap macam komen dekat KS tu kan? Ha?
 
-**Rafizi Ramli:** Tak apa, tak apa. Okay baby, kita mulakan, baby. Kita terus masuk beria terus? Okay. Tapi sebelum itu, kepada rakan-rakan yang menonton, terutamanya pengundi-pengundi atas pagar dan mangsa-mangsa skamer — maksud skamer kerajaan lebih. Bukan PH je yang skam, PN pun skam sampai sekarang tak ada lagi hudud ni. Masa skam semua benda lah. Follow dan share podcast ni, dan kena ingatkan balik untuk follow juga social media YB Rafizi Ramli. Barulah kita boleh mulakan, YB. Kita mulakan dengan beria. Kita tengok macam mana prestasi mereka minggu ni. Bismillah, kita start dengan yang pertama: 1022 hempedu ular sawa.
+**Rafizi Ramli:** Tak apa, tak apa. Okay YB, kita mulakan, YB. Kita terus masuk beria terus? Okay. Tapi sebelum itu, kepada rakan-rakan yang menonton, terutamanya pengundi-pengundi atas pagar dan mangsa-mangsa skamer — maksud skamer kerajaan lebih. Bukan PH je yang skam, PN pun skam sampai sekarang tak ada lagi hudud ni. Masa skam semua benda lah. Follow dan share podcast ni, dan kena ingatkan balik untuk follow juga social media YB Rafizi Ramli. Barulah kita boleh mulakan, YB. Kita mulakan dengan beria. Kita tengok macam mana prestasi mereka minggu ni. Bismillah, kita start dengan yang pertama: 1022 hempedu ular sawa.
 
 Hehe, geli je kan. Tambah 191 lagi hempedu ular sawa. Kau sure tak ada ular kat sini? Aku kat rumah tak boleh sebut pasal ular ni. Sebut pun tak boleh — sebab tu aku tak boleh tengok *Anak Konda* lagi. Kan ada *Anak Konda* kat Netflix tu, rugi kan, tapi sebab my wife memang kalau ular ni tak boleh langsung.
 
@@ -80,11 +80,11 @@ Okay, ini berkaitan rampasan yang dibuat di Johor, melibatkan seorang warga nega
 
 Yang pelik tu kan — assuming lah, satu gallbladder tu daripada satu ular sawa, satu lidah tu pun daripada satu ular sawa. Maksudnya dia dah bunuh 1,200 ular sawa. Banyaknya ular sawa Titan kat Malaysia ni — itu yang aku lagi takut. Maybe farm kot. Ha, dia farm. Lagilah menggerunkan — maksudnya kalau pergi Johor ni, ada satu ladang ular sawa, gila ke? Secara tersembunyi lah kot. Mungkin ular sawa ni bukan besar ke? Besar kan? Besar. Okey okey, sikit-sikit je, takut lah aku ni. Okey, beria, beria — sampai kenal, kalau ikut Pa'an lah, dia sampai ada ladang ular sawa. Gila beria. Aku kaki dah kena angkat, takut nak pijak tanah dah ni.
 
-**Aziz:** Ada fun fact — Malaysia is home to the world's top wildlife smuggler.
+**Haziq:** Ada fun fact — Malaysia is home to the world's top wildlife smuggler.
 
 **Rafizi Ramli:** Dalam dunia, itu yang dalam news tu kan?
 
-**Aziz:** Ada.
+**Haziq:** Ada.
 
 **Rafizi Ramli:** Malaysia boleh ok ok ok, ini lagi menarik daripada cerita ular sawa tu yang menakutkan aku. Bahaya nanti dia tangkap aku, dia letak ular sawa — hmm, dah bocor dah. Okay okay.
 
@@ -96,15 +96,15 @@ Dan ada satu komen kata Azam Baki ni ada kemahiran — kalau dia masuk politik, 
 
 Satu yang Tan Sri Azam Baki ni, beria dia — walaupun dalam suasana yang sekali buka mulut mengundang emoji, tapi saya kesian jugalah kepada SPRM, kerana SPRM sekarang ni dah kena ada skuad taktikal untuk melindungi dia. Kalau lindung daripada penjenayah tu faham lah, ini lindung daripada budak-budak yang takut kena ambush dengan placard sekali lagi kan. Jadi kalau kita nak bagi beria ni, kita nak bagi kepada siapa?
 
-**Aziz:** Azam Baki.
+**Haziq:** Azam Baki.
 
-**Rafizi Ramli:** Azam Baki lah, baby. Yelah, obviously orang tak berapa gemar dia dan dia tak berjaya dengan segala comms plan yang dibuat. Saya nasihatkan kepada Tan Sri Azam Baki, mungkin kena tukar UKK kot. Tapi UKK pun saya simpati lah — bawa UKK yang paling hebat daripada Hollywood pun saya tak rasa boleh mengubah pandangan rakyat mengenai dia. Okay, good luck kepada UKK. Dan beria — kalau ada UKK yang menonton ni, eh, mereka kena. Sebab saya dimaklumkan, salah satu tindak balas daripada SPRM ialah memastikan bila ada podcast YB ni, orang-orang tertentu daripada SPRM kena jadi cyber trooper hentam kita. Jadi kalau tak nak jadi cyber trooper, mungkin sebaiknya doakan supaya kontrak dia tak disambung. InsyaAllah — yakinnya kau, tapi tak apa.
+**Rafizi Ramli:** Azam Baki lah, YB. Yelah, obviously orang tak berapa gemar dia dan dia tak berjaya dengan segala comms plan yang dibuat. Saya nasihatkan kepada Tan Sri Azam Baki, mungkin kena tukar UKK kot. Tapi UKK pun saya simpati lah — bawa UKK yang paling hebat daripada Hollywood pun saya tak rasa boleh mengubah pandangan rakyat mengenai dia. Okay, good luck kepada UKK. Dan beria — kalau ada UKK yang menonton ni, eh, mereka kena. Sebab saya dimaklumkan, salah satu tindak balas daripada SPRM ialah memastikan bila ada podcast YB ni, orang-orang tertentu daripada SPRM kena jadi cyber trooper hentam kita. Jadi kalau tak nak jadi cyber trooper, mungkin sebaiknya doakan supaya kontrak dia tak disambung. InsyaAllah — yakinnya kau, tapi tak apa.
 
 Kita tengok yang sosial media lagi. Ini kata-kata Timbalan Menteri: "Kenapa hidung Anwar Ibrahim tu sampai merah macam tu?" Jahat lah, Pa'an. Lelehlah sikit — eh, bukan kita orang lah.
 
-**Aziz:** Kita.
+**Haziq:** Kita.
 
-**Rafizi Ramli:** Oh, ya ke? Oh, dah ada. "Di mana Anwar bertanding, di situ ada Rafizi Ramli." Ni siapa yang buat AI ni? Kenapa aku ada empat tanda titik, empat tahi lalat dekat pipi aku tu? Memang ada, baby, tapi bukan empat lah. Ya ke, memang ada ke? Ha, ini facial cleanser tak berkesan ni kan.
+**Rafizi Ramli:** Oh, ya ke? Oh, dah ada. "Di mana Anwar bertanding, di situ ada Rafizi Ramli." Ni siapa yang buat AI ni? Kenapa aku ada empat tanda titik, empat tahi lalat dekat pipi aku tu? Memang ada, YB, tapi bukan empat lah. Ya ke, memang ada ke? Ha, ini facial cleanser tak berkesan ni kan.
 
 Jadi, ini yang dikatakan, YB akan bertanding di mana tempat Dato' Seri Anwar bertanding. Saya rasa ini agak mendapat sambutan, terutamanya di media-media China saya nampak juga. Jadi mungkin kita menagih respon daripada YB lah — sama ada YB nak respon atau YB beriakan je mereka ni.
 
@@ -114,15 +114,15 @@ Pendirian politik saya dan kawan-kawan yang lain sebenarnya tidak berkaitan deng
 
 So saya tak tahu lah sama ada dia nak bertanding balik ke, dia nak balik ke politik semula ke, kan nak join Kabinet KJ?
 
-**Aziz:** Oh, ya ya.
+**Haziq:** Oh, ya ya.
 
-**Rafizi Ramli:** Okay okay, tak apalah, kita tunggu je lah Kabinet KJ. Dah masuk UMNO, dia tak apa — dia PN ke, BN ke, asalkan siapa yang lambung, angkat dia. Esok kalau aku pergi peluk dia pun, aku rasa sesuai lagi dia okey kan, kalau ada peluang untuk menang. Jadi dia kena ada dua syarat: satu, ada peluang untuk menang; dua, mendapat kuasa — peluk dan lambung dia. Okay, tapi beria lah, buat spekulasi je. Kita tunggu, baby, kita tengok lagi ada yang beria ke tak.
+**Rafizi Ramli:** Okay okay, tak apalah, kita tunggu je lah Kabinet KJ. Dah masuk UMNO, dia tak apa — dia PN ke, BN ke, asalkan siapa yang lambung, angkat dia. Esok kalau aku pergi peluk dia pun, aku rasa sesuai lagi dia okey kan, kalau ada peluang untuk menang. Jadi dia kena ada dua syarat: satu, ada peluang untuk menang; dua, mendapat kuasa — peluk dan lambung dia. Okay, tapi beria lah, buat spekulasi je. Kita tunggu, YB, kita tengok lagi ada yang beria ke tak.
 
 Lama kita tak dengar khabar — apa khabar, Datuk Seri? Ini pasal kes yang sedang berlangsung kan. Latar belakang kepada mereka yang mendengar, atau yang mungkin kurang ingat — banyak sangat kes, so YB pun kadang-kadang dah terlupa yang mana satu. Ini pasal kes barang kemas — cincin, permata, barang kemas semua lah. Kalau tengok, sebanyak RM443 juta barang kemas dirampas daripada kediaman Datin Seri Rosmah Mansor di Pavilion. Ini malam pilihan raya, beberapa hari selepas itu. Daripada RM443 juta barang kemas yang dirampas ini, ada satu yang berjumlah RM67 juta sebenarnya dimiliki oleh sebuah syarikat barang kemas mewah daripada London.
 
 Jadi syarikat itu telah menyaman Datin Seri Rosmah Mansor untuk mendapatkan kembali barang tersebut, dan jawapan di mahkamah ialah, "Sebenarnya saya bukan beli, saya tengok je." Untuk tengok saja kan, untuk tengok-tengok kalau nak beli ke apa — ni kira hantar sampel lah, sampel barang kemas RM67 juta sekali. Bila baca, tak faham lah. Sebab itu saya rasa kita kena terangkan kepada orang ramai, sebab benda ni jarang berlaku di dunia lah — maksudnya "sampel" seperti yang Datin Seri Rosmah kata, dia sampel dia tengok sahaja lah kan. Tapi lawak lah di mahkamah tu, peguam kepada plaintif tanya: "Are you in the business of promoting jewellery?" Maksudnya, soalan peguam itu ialah, "Datin Seri, adakah kamu ini influencer?" Sebab dalam kenyataan Datin Seri Rosmah, ada dia sebut: "They were delivered to me with the aim and intention I would wear and use the jewellery so that it will attract, garner and obtain publicity and credibility through me." Itu yang sebenarnya peguam tanya — dia tak sebut perkataan "influencer" lah, tapi jawapan Datin Seri Rosmah itu, "Yalah, orang hantar kat saya ni, bila saya pakai, saya tolong promotekan lah." Jadi itu yang dia tanya, are you in that business lah. Jadi saya pun tak tahu, Datin Seri Rosmah pun sebenarnya seorang influencer. Kalau boleh, saya nak belajar untuk jual barang kemas secara live kat TikTok, saya boleh ajar.
 
-**Aziz:** Kalau YB nak jadi influencer, YB nak jual barang apa?
+**Haziq:** Kalau YB nak jadi influencer, YB nak jual barang apa?
 
 **Rafizi Ramli:** Uh-huh, mungkin produk rambut. Tak, mungkin produk rambut, tapi kena tunggu dia naik sikit lah kan. Contohnya benda tu ada kesan tau — bukan aku lah, ada, for whatever reasons, algorithm ni jahat tau, semua algorithm aku pasal rambut botak tau. Maksudnya bosan gila, kat TikTok pun keluar rambut botak, dekat Google pun keluar. Jadi dia keluar daripada seorang — rakyat Malaysia lah, tak nak sebut nama, tapi I think ramai orang tahu lah. Dia kononnya promote makan biotin, bukan sahaja rambut jadi tebal macam — dia tunjuk rambut dia 5 tahun dulu, rambut dia sekarang. Tapi muka dia jadi sama muda dengan anak dia. Dia dah umur lebih kurang macam aku, memang betul lah, tengok muka sebelah, muka lebih kurang sama dengan anak perempuan dia. Jadi aku terpengaruh, beli lah, tapi sampai sekarang macam tak ada kesan. Kena scan kot. Jadi kalaulah satu hari nanti saya nak jadi influencer juga, tak payah lah hantar barang kemas sampai RM67 juta — cukup untuk hantar hair tonic yang berkesan.
 
@@ -132,7 +132,7 @@ Tahun bila tu — 2016 macam itu. Memang Datuk Seri Najib dengan Datin Seri Rosm
 
 Jadi kalau ada di kalangan yang menonton malam ini yang macam itu, tak payah minta maaf pun kat saya, tak apa lah. Tapi tak baik ulang benda tu, kerana nanti nampak bodoh — tajam.
 
-**Aziz:** Okay okay baby, beria baby, beria beria. Excuses yang menarik, excuses yang beria ke? Okay, ada lagi?
+**Haziq:** Okay okay YB, beria YB, beria beria. Excuses yang menarik, excuses yang beria ke? Okay, ada lagi?
 
 **Rafizi Ramli:** Ada lagi — "ingat senang kerja di kerajaan." Ini yang di konvensyen PKR Terengganu. Saya ingat semua orang dah tahu lah, Datuk Seri Anwar meluahkan kekecewaan. Ini ucapan yang sama, dia kata "bagilah kredit sikit." Betul, tapi reaksi itu teruk lah, saya ingat, dekat media sosial kan.
 
@@ -140,7 +140,7 @@ Kerana ini masalah kepada adik-adik yang bercita-cita untuk menjadi ahli politik
 
 Jadi anda akan fikir, Anwar lah yang paling mahir tentang senario politik di Malaysia yang memang akan kena kecam tiap-tiap hari ni. Rupanya tidak — tidak sesuai. Jadi sebab itu kalau saya nak rating kan beria, bukan sangat soal dia kata "ingat senang ke jadi kerajaan itu" — saya akan pergi back to the future, beria dia nak jadi Perdana Menteri. You would have thought that beria nak jadi Perdana Menteri selama ini, he would have accepted this lah kan. Kalau dia memang tahu brief dia sebelum masuk tu, job onboarding dia dah melalui, memang macam ni — jadi mungkin mengurangkan risiko kena kecam bila kenyataan-kenyataan dan ucapan macam ni keluar kot. Jadi beria untuk jadi Perdana Menteri.
 
-**Aziz:** YB, mungkin kita akan ulas tentang komunikasi kerajaan dalam segmen nanti. Cuma, mungkin ini nightmare kepada stratcom Perdana Menteri — dia dah plan elok, tetapi setiap hujung minggu, kenyataan-kenyataan yang kontroversial ni nyet-nyet-nyet sehingga benda ni akan keluar daripada dia dan akan meletup, sampai setiap minggu, consistent. And orang akan lebih ingat apa yang dia cakap tu daripada speeches-speeches yang lain. Ya.
+**Haziq:** YB, mungkin kita akan ulas tentang komunikasi kerajaan dalam segmen nanti. Cuma, mungkin ini nightmare kepada stratcom Perdana Menteri — dia dah plan elok, tetapi setiap hujung minggu, kenyataan-kenyataan yang kontroversial ni nyet-nyet-nyet sehingga benda ni akan keluar daripada dia dan akan meletup, sampai setiap minggu, consistent. And orang akan lebih ingat apa yang dia cakap tu daripada speeches-speeches yang lain. Ya.
 
 **Rafizi Ramli:** Saya tak rasa... okay, coming back to what you said lah, maksudnya nightmare kepada pasukan media ataupun stratkom, if there is such a thing, strategic communication. Pa'an takut sebab masa dia datang first time — okay, aku nak cerita benda dalam kain lah, split tentang Pa'an. Ini orang media lah kan, ataupun orang yang biasa dengan content, social media kan, strategic communication. Jadi aku tak kenal Pa'an ni, aku tak kenal langsung, tak nak jumpa pun kan. Jadi ada lah kawan yang recommend aku, "yalah, ok, datanglah," dia datang lah interview. Hahaha. So korang boleh fokus muka Pa'an dah merah. So Pa'an pun cakap lah pasal strategic communication, semua, how things develop, the strategies — semua aku tengok cakap dia kan.
 
@@ -164,25 +164,25 @@ Oh, bacuk — itu gambar AI kot kan, tak adalah dia roh-roh ni-ni-ni macam tu, d
 
 Saya lebih tertarik untuk — Allah, Syahir, kau tak payahlah nak menunggang aku, nak buat konten. Awak tu ahli parlimen — jadi orang nak tunggu sebenarnya apa pendirian ahli-ahli parlimen PAS yang muda. Dia tak muda mana pun, dia 2-3 tahun junior aku je pun, tapi dalam PAS lah, umur pertengahan 40-an tu kira masih baby lah. PAS yang muda-muda ni takkan nak diam sahaja pasal cerita mafia korporat semua kan, tapi dia tak komen, dan dia tak nak ke depan — itu dia nak menunggang cerita "aku pakai baju apa." "Jika biru muda, hatinya masih setia PKR. Jika kuning, cenderung aktivisme NGO. Jika hitam, isyarat wadah politik baru. Jika putih, memilih jalan bebas dalam PRU16. Aku akan pakai baju batik warna-warni." Petak, member — apa punya ahli politik ni, apa nama ni, isyarat aku, mana baju yang selesa hari tu aku pakai.
 
-**Aziz:** Beria, okay weh, kita dah habis, kita nak rate.
+**Haziq:** Beria, okay weh, kita dah habis, kita nak rate.
 
 **Rafizi Ramli:** Allah, ada pula suara. Bagi Pa'an lah, Rik Pa'an.
 
-**Aziz:** Oh, saya — ya, Alhamdulillah. Takkan pasal ular takut. Saya nak rate Syahir sebagai...
+**Haziq:** Oh, saya — ya, Alhamdulillah. Takkan pasal ular takut. Saya nak rate Syahir sebagai...
 
 **Rafizi Ramli:** Pariwira? Kenapa kau tak puas hati dengan Syahir ni?
 
-**Aziz:** Sebab orang ingat debat Syahir dengan YB — itu je dia ingat.
+**Haziq:** Sebab orang ingat debat Syahir dengan YB — itu je dia ingat.
 
 **Rafizi Ramli:** Aku masa tu macam...
 
-**Aziz:** So, dendam?
+**Haziq:** So, dendam?
 
 **Rafizi Ramli:** Ha, kau tengok, kan ada — kalau kat TikTok, kat content ada that fat orange cat kan. Fat orange cat tu, karakter dia banyak lah content dia, macam-macam dia buat, tapi karakter dia macam blur, dia macam ni — itulah aku masa debat hari tu kan. Baik, okay, maybe menang juga PAS, dania PAS yang menang. Bayangkanlah, kalau masa ada debat zaman-zaman itu, kita dah ada podcast dan kita dah ada beria...
 
-**Aziz:** Memang kita mula beria sepanjang zaman.
+**Haziq:** Memang kita mula beria sepanjang zaman.
 
-**Rafizi Ramli:** Maksudnya Fuziah tak menang beria sepanjang zaman ialah pantun roh-roh ni-ni-ni lah. Okey, baik, hidup keras, dek. Segmen utama lah. Tapi kita ada empat, baby, kita dah 36 minit, jadi kita akan kejar masa sikit lah.
+**Rafizi Ramli:** Maksudnya Fuziah tak menang beria sepanjang zaman ialah pantun roh-roh ni-ni-ni lah. Okey, baik, hidup keras, dek. Segmen utama lah. Tapi kita ada empat, YB, kita dah 36 minit, jadi kita akan kejar masa sikit lah.
 
 Baik, dan pertama sekali dan tak lain dan tak bukan, idola kesayangan Akak Umbi — kasar saya. Tak kasar, betul lah, yelah menyokong kan supaya dia tu menang kan. Ini Panglima Perang 80 Kusi, saudara Ramanan Ramakrishna, selamat datang. RR juga.
 
@@ -190,15 +190,15 @@ Bloomberg ni — aku pun terkejut je, kat Bloomberg ni dia memang betul-betul fo
 
 Ini Bloomberg sebenarnya dia dah 2-3 bulan — saya ingat Ramanan sendiri pernah mengumumkan kan, kerajaan sedang membangunkan satu sistem baru yang tidak melibatkan ejen macam itu kan. Kemudian reaksi daripada ejen-ejen pekerja asing ini bunyi bising sikit lah. Kemudian bulan lepas, saya ingat Malaysiakini mendedahkan mengenai TVPA ni, sistem two-drop ni yang menyebabkan Malaysiakini kena serbu dan disiasat lah sekarang, ada kes ADAT Malaysiakini kan. Jadi mungkin Aziz boleh terangkan sikit apa dia, sebab aku nak minum air.
 
-**Aziz:** Saya rasa artikel Bloomberg kali ini agak pendek lah, walaupun subscription saya dah habis.
+**Haziq:** Saya rasa artikel Bloomberg kali ini agak pendek lah, walaupun subscription saya dah habis.
 
 **Rafizi Ramli:** Bukan nama trial. Miskinnya kau, trial, sebab aku penganggur. Macam perli aku je ni.
 
-**Aziz:** Secara mudahnya, adalah satu sistem baru — alasan yang diberi adalah untuk kill off agent. Kalau kita dengar Aminul Islam sendiri cakap, ini bagus, ini akan mengurangkan, pertama, orang tengah; kedua, kos — kos itu akan menurun. Tetapi apa yang dibangkitkan, ataupun kegusaran orang ialah, adakah dengan kita buat macam ini, sebenarnya ini satu monopoli — nak monopoli, berikan semuanya kepada Aminul Islam. Jadi saya rasa itulah dia punya ringkasannya. Cuma dia beria sikit, YB, dekat hujung tu lah kan — Aminul Islam nak usahakan Nobel Peace Prize kepada Dato' Seri Anwar Ibrahim.
+**Haziq:** Secara mudahnya, adalah satu sistem baru — alasan yang diberi adalah untuk kill off agent. Kalau kita dengar Aminul Islam sendiri cakap, ini bagus, ini akan mengurangkan, pertama, orang tengah; kedua, kos — kos itu akan menurun. Tetapi apa yang dibangkitkan, ataupun kegusaran orang ialah, adakah dengan kita buat macam ini, sebenarnya ini satu monopoli — nak monopoli, berikan semuanya kepada Aminul Islam. Jadi saya rasa itulah dia punya ringkasannya. Cuma dia beria sikit, YB, dekat hujung tu lah kan — Aminul Islam nak usahakan Nobel Peace Prize kepada Dato' Seri Anwar Ibrahim.
 
 **Rafizi Ramli:** Baik, oleh kerana majoriti rakyat Malaysia ini miskin macam Haziq yang tidak mampu untuk membayar langganan Bloomberg, jadi kita buat macam yang lepas-lepas — aku tolong bacakan, dan aku nak kena terjemahkan terus dalam Bahasa Melayu, tapi pendek je, tak panjang macam hari itu lah kan. Yang ini yang dilaporkan hari ini, pukul semalam 5.41 petang: "Menggantikan Taikun 1, sistem pekerja asing baru yang dibangunkan oleh Taikun Amin." Orang kita panggil Amin Bangla — tapi untuk rujukan, bila kita sebut "Amin", maksudnya Aminul Islam ataupun Amin Bangla, ini lah kan.
 
-**Aziz:** Saya boleh lihat.
+**Haziq:** Saya boleh lihat.
 
 **Speaker 1:** Malaysia sedang merancang untuk menggunakan satu sistem penggajian pekerja asing yang baru yang dibangunkan oleh Bestinet Sendirian Berhad, satu syarikat yang ditubuhkan oleh taikun pekerja asing Aminul Islam, mengikut enam orang yang mengetahui mengenai perkara tersebut. Perisian yang sedang diwar-warkan itu dikatakan akan membenarkan syarikat-syarikat Malaysia untuk mengambil pekerja asing secara terus tanpa menggunakan orang tengah yang sebahagiannya mengenakan bayaran yang tinggi kepada pekerja asing, mengikut maklumat daripada orang-orang yang mengetahui mengenai perkara itu, yang meminta supaya tidak dinamakan di dalam laporan ini.
 
