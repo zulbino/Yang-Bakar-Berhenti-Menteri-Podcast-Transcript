@@ -383,7 +383,7 @@ Maksudnya kalau kita fully maximize potensi guru sebagai asset utama pendidikan,
 
 Jadi saya sebenarnya bersetujulah dengan Kenneth bahawa latihan guru itu kunci utama. Cuma saya tak boleh nak komen sama ada guru sekarang ni ada rasa bangga ke tidak. Saya rasa mereka tetap bangga lah, but we need to help them.
 
-Baik-baik. Okay Bobby, bismillah.
+Baik-baik. Okay YB, bismillah.
 
 **Haziq:** Haa, tu je lah kot. Terima kasih kepada YB yang bercakap sama 2 jam.
 

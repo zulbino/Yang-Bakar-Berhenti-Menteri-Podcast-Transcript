@@ -266,7 +266,7 @@ Aku memang dari dulu sebenarnya berminat kedai runcit, kedai makan ni, sebab ini
 
 Aku menyesal sekarang kan. Tapi masa itu kan... betul lah, bukan lah ambil 1.1 bilion jolly pergi buka Fleximat. Kalau ada 1.1 bilion, dia jadi macam jolok lah, duduk kat luar negara, kaya raya, kereta. Paling kurang pun, kalau tak jadi jolok pun, jadi macam Farhaj — rumah puluh-puluh juta semua. Tak ada lah macam aku menyewa sekarang kan, buka kedai roti... nak makan, tak masuk akal.
 
-**Cincong:** Sejarah Malaysia ada orang yang berkuasa ambil duit sampai 1.1 bilion pergi buka kedai runcit — tak pernah berlaku. Beria-beria, okay Bobby, kita dah 40 minit, kita nak kena... terima kasih. Ini mungkin saya kena tanya mantan Pengarah Komunikasi — macam mana admin-admin
+**Cincong:** Sejarah Malaysia ada orang yang berkuasa ambil duit sampai 1.1 bilion pergi buka kedai runcit — tak pernah berlaku. Beria-beria, okay YB, kita dah 40 minit, kita nak kena... terima kasih. Ini mungkin saya kena tanya mantan Pengarah Komunikasi — macam mana admin-admin
 
 **Rafizi Ramli:** sosial media parti politik ini sebenarnya? Saya nampak dia sebenarnya perlu ada satu strategi komunikasi dan perlu adanya hierarki. Nampaknya Bersatu mungkin lebih sibuk dengan kerja-kerja lain. Jadi sehingga bila isu dalaman itu jadi terlalu hangat, social media mereka pun menjadi satu medan perperangan. Dan ceritanya nampak memang berjaya di-hijack lah — walaupun tak dapat hijack parti, tapi geng-geng ni yang Hamzah lah kan, dia dapat hijack social media dia.
 

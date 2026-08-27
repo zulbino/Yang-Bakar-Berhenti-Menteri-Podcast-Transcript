@@ -382,7 +382,7 @@ Meaning if we fully maximize the potential of teachers as the main asset of educ
 
 So actually I agree with Kenneth that teacher training is the main key. I just can't comment on whether teachers now feel proud or not. I think they're still proud, but we need to help them.
 
-Alright, alright. Okay Bobby, bismillah.
+Alright, alright. Okay YB, bismillah.
 
 **Haziq:** Ha, I guess that's it. Thank you to YB for speaking for 2 hours straight.
 
