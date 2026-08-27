@@ -14,7 +14,7 @@ guests:
 - Tang Hong Yau
 - Dato' Dr. Samsu Adabi Mamat
 - Dr. Harith Fakhrudin
-- Dato' Syed Azwan (DSA)
+- Dato' Dr. Syed Azuan Al-Idrus (DSA)
 topics:
 - BERSAMA party's debut in Johor state election (PRN Johor) post-mortem
 - 'Polling data analysis: pre- vs post-nomination Malay/Chinese/Indian voter swings'
@@ -39,7 +39,7 @@ summary: 'Episode 55 of Rafizi Ramli''s podcast "Podcast Yang Berhenti Menteri" 
   host Rafizi Ramli with moderator Haziq and panelists Tang Hong Yau (Chinese-community
   content creator), Dato'' Dr. Samsu Adabi Mamat (former political science lecturer
   and past PH/Amanah candidate), Dr. Harith Fakhrudin (BERSAMA''s DUN Tiram candidate),
-  and Dato'' Syed Azwan/DSA (BERSAMA campaigner). The episode opens with a lighthearted
+  and Dato'' Dr. Syed Azuan Al-Idrus/DSA (BERSAMA campaigner). The episode opens with a lighthearted
   "beria" (over-the-top/reckless behaviour) segment reacting to viral news items —
   a pregnant shopper accused of shoplifting at Lotus Selayang, AMK''s statement blaming
   vote-splitting for BN''s Johor win, Melaka CM''s pantun about UMNO-PAS "marriage,"
@@ -133,19 +133,19 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Two days before the candidate addition, that night meeting. Ah, alright, alright, alright. And lastly, Dato' DSA, is this the first time you're appearing here?
 
-**Dato' Syed Azwan (DSA):** Second time.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Second time.
 
 **Haziq:** Ah, second time. Ah, I think I may have asked this question before.
 
-**Dato' Syed Azwan (DSA):** Yes, yes, you've asked before. In person, this was during the 13th Malaysia Plan, ah, at Perkeleh, yes, in Alor Star.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Yes, yes, you've asked before. In person, this was during the 13th Malaysia Plan, ah, at Perkeleh, yes, in Alor Star.
 
 **Rafizi:** In Kedah.
 
-**Dato' Syed Azwan (DSA):** Ah, in Kedah, ah, that was in person, but I've been following Dato' Seri for a long time. Ah, this is the second time entering this studio. Ah, no need to get excited yet, old studio.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Ah, in Kedah, ah, that was in person, but I've been following Dato' Seri for a long time. Ah, this is the second time entering this studio. Ah, no need to get excited yet, old studio.
 
 **Rafizi:** Ha ha ha.
 
-**Dato' Syed Azwan (DSA):** Ah, yes yes yes, now for instance in the early days that studio was really cramped, right?
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Ah, yes yes yes, now for instance in the early days that studio was really cramped, right?
 
 **Rafizi:** Really cramped, but full of knowledge.
 
@@ -219,15 +219,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** I don't know, DSA, DSA is young.
 
-**Dato' Syed Azwan (DSA):** For me, when AMK makes this kind of statement, I'm usually the first person...
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** For me, when AMK makes this kind of statement, I'm usually the first person...
 
 **Haziq:** Ah.
 
-**Dato' Syed Azwan (DSA):** ...to grab it, open the camera, and make content right away. The latest one is this AMK woman.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** ...to grab it, open the camera, and make content right away. The latest one is this AMK woman.
 
 **Haziq:** The woman yes yes yes, it's on my YouTube.
 
-**Dato' Syed Azwan (DSA):** She exists, I don't even know where from, I didn't know her either, I know that one, this is amazing.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** She exists, I don't even know where from, I didn't know her either, I know that one, this is amazing.
 
 **Haziq:** Beria, beria, beria. Alright, we have the next one, the third one, to UMNO — overzealous with a pantun [poem]. Actually there's more to it, let me read it: "Married without a kadi, divorced without a talak, wedded without a dais." Then it goes dark. Then it goes dark.
 
@@ -245,11 +245,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Over there they're already married. But maybe DSA knows more about this, like getting married in Siam, no invitations, no public announcement at all.
 
-**Dato' Syed Azwan (DSA):** That pantun was the best. His pantun was really the best, I saw that his sequencing was really interesting. Like he prepared it in advance, meaning...
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** That pantun was the best. His pantun was really the best, I saw that his sequencing was really interesting. Like he prepared it in advance, meaning...
 
 **Rafizi:** He prepared that...
 
-**Dato' Syed Azwan (DSA):** The one he tapped...
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** The one he tapped...
 
 **Haziq:** His punchline had to be overzealous right.
 
@@ -303,15 +303,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Alright, alright, moving on YB. That's all we have YB, pick whoever. So we need to ask our panelists to choose who was the most overzealous. Maybe we'll start with Dato'.
 
-**Dato' Syed Azwan (DSA):** I'll pick YB, what's the name, the Melaka Chief Minister.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** I'll pick YB, what's the name, the Melaka Chief Minister.
 
 **Haziq:** Ah, the pantun one.
 
-**Dato' Syed Azwan (DSA):** Overzealous with a pantun. Really something, that pantun of his was truly the best, he didn't just think it up on the spot, he could play with the kadi story, he could play with the wedding dais and everything. Even more, he said we don't have YB status, meaning we can't do faraid [inheritance distribution].
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Overzealous with a pantun. Really something, that pantun of his was truly the best, he didn't just think it up on the spot, he could play with the kadi story, he could play with the wedding dais and everything. Even more, he said we don't have YB status, meaning we can't do faraid [inheritance distribution].
 
 **Haziq:** Ah, can't even do faraid, no faraid distribution at all then.
 
-**Dato' Syed Azwan (DSA):** No faraid distribution at all then.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** No faraid distribution at all then.
 
 **Haziq:** No faraid distribution at all then. Dr. Harith, your turn.
 
@@ -421,21 +421,21 @@ But there's one term I picked up from watching analysts, they call it tactical v
 
 **Haziq:** In your old party, YB, also rich like other parties. Our old party — the hats [approach] were still... but now, it's really very back to basics, simple, but still achieving its objectives. What's the clear difference DSA sees, from past experience — like YB Rafizi said this was the sweetest campaign experience he's ever handled, because even though the team was small, everything was small, yet everything functioned well. What about for DSA?
 
-**Dato' Syed Azwan (DSA):** Actually, I've been embedded in UMNO's DNA for a long time. I've been following UMNO campaigns since I was 21 years old. But I never actually joined UMNO. I say I never joined UMNO, but I observed how UMNO's machinery worked, the way they operated was very different indeed. Then, suddenly I — the first party I joined was PKR—
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Actually, I've been embedded in UMNO's DNA for a long time. I've been following UMNO campaigns since I was 21 years old. But I never actually joined UMNO. I say I never joined UMNO, but I observed how UMNO's machinery worked, the way they operated was very different indeed. Then, suddenly I — the first party I joined was PKR—
 
 **Rafizi Ramli:** Right.
 
-**Dato' Syed Azwan (DSA):** PKR. And I saw that PKR also had shades of UMNO in it — in terms of machinery, fighting over who becomes the machinery, who becomes the leader, the same thing. So when MyBersama came along, I felt something new. Something new. But first I want to congratulate bersama — when I looked at this data, it means that our entering the Johor state election was indeed the best choice. Because — one, Johor's term was nearly up anyway, but ahead there's still Sabah, still Sarawak, right? They should have been rushing frantically, but they wanted to do it early. So our choice to enter was the best one.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** PKR. And I saw that PKR also had shades of UMNO in it — in terms of machinery, fighting over who becomes the machinery, who becomes the leader, the same thing. So when MyBersama came along, I felt something new. Something new. But first I want to congratulate bersama — when I looked at this data, it means that our entering the Johor state election was indeed the best choice. Because — one, Johor's term was nearly up anyway, but ahead there's still Sabah, still Sarawak, right? They should have been rushing frantically, but they wanted to do it early. So our choice to enter was the best one.
 
 Because we entered the state election, it wasn't because there were parties betraying us. Meaning, in Negeri Sembilan, when bersama made the decision not to enter, to me that was the best decision, because entering would have been pointless — those parties were about to fight each other anyway, and if we went in, we'd become the victim. If that had happened, they would have ganged up on us — that was the best outcome. And the best thing for me, when I looked at the data Wabi showed, meaning bersama... please—
 
 **Rafizi Ramli:** Sorry.
 
-**Dato' Syed Azwan (DSA):** Yes, we want to—
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Yes, we want to—
 
 **Rafizi Ramli:** The cat needs to be chased away first. Oi! Chopper! There he goes talking now. Our thing, what do you call it, soundproof...
 
-**Dato' Syed Azwan (DSA):** This one is... soundproof, right, soundproof. Okay, let's continue, continue. It's normal for cats to be late. So when BERSAMA entered Johor, it means in Johor there are Chinese seats and Malay seats. So it's balanced. If we go into Kedah, it's a waste of time talking about this, because we'd only look at Malay voting patterns. So in Johor, this gives us the best input. When I looked at this data, I felt excited. We're not that bad, YB. If you look at the pre-domination poll compared to PN, we're actually better. So for me, this is a step forward — in Johor we really got a lot of input. Even though we lost, for me, I don't feel like we lost, and in fact I feel proud. Meaning our contribution in terms of money, fees — we didn't even take other people's money. We managed to join the Raya parade, meaning we're brave. That's what matters — being brave, baby. Like Dr. Sam said, our party is a brave party. So if people say to us, "Hey, you guys lost," we say, "Hey, we're brave!" That's what I meant earlier — when BERSAMA gets this data, we'll move forward.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** This one is... soundproof, right, soundproof. Okay, let's continue, continue. It's normal for cats to be late. So when BERSAMA entered Johor, it means in Johor there are Chinese seats and Malay seats. So it's balanced. If we go into Kedah, it's a waste of time talking about this, because we'd only look at Malay voting patterns. So in Johor, this gives us the best input. When I looked at this data, I felt excited. We're not that bad, YB. If you look at the pre-domination poll compared to PN, we're actually better. So for me, this is a step forward — in Johor we really got a lot of input. Even though we lost, for me, I don't feel like we lost, and in fact I feel proud. Meaning our contribution in terms of money, fees — we didn't even take other people's money. We managed to join the Raya parade, meaning we're brave. That's what matters — being brave, baby. Like Dr. Sam said, our party is a brave party. So if people say to us, "Hey, you guys lost," we say, "Hey, we're brave!" That's what I meant earlier — when BERSAMA gets this data, we'll move forward.
 
 **Rafizi Ramli:** If you look at the final data — that's why, if you noticed, from the first week of the campaign, I didn't really touch on PN anymore. Because from pre-poll to post-poll, pre-nomination to post-nomination polling, it was already clear that PN's votes collapsed in Johor. In fact, in my view, Dr. Sam, actually Ustaz Hadi's directive had no effect. Because once we got in, if you look at it, PN wasn't that far off from BERSAMA anymore — in fact they lost more deposits than BERSAMA. Actually they had really been reduced to, what do you call it, quite insignificant in Johor, for reasons we can discuss at greater length later. But, as DSA said — I remember, at the command center, I think Ubat also heard some of this but I didn't share it officially. The candidates too may have heard some, I don't know if the candidates heard about the first week's poll. So I didn't share it, I don't know.
 
@@ -517,23 +517,23 @@ So my strategy is simple. It's all about — as I always say, it's like business
 
 So actually we're going through that cycle now, we need to make sure we have — what do they call it — going through this downturn, because this downturn will affect many parties. We've already seen Bersatu is having problems, and PAS too, if they think they're too great — if I were friends with PAS, I'd tell them, Dr. Sam is also a friend, I told Dr. Sam, "you be careful, there are unintended consequences, if you do this to UMNO, UMNO will become too big and it will kill all of you." Us, they can't kill, because we're in a different market. You're in the same market, the same competitors, they'll kill you all off. So they'll go through that downturn, which will create a vacuum. What matters is when that vacuum appears, Bersama is ready to reap the benefit. So once you know that's our strategy, this PRN is just one of a few battles. You want to make sure you learn from going through the battle so you win the war. The war is not this PRN or Negeri Sembilan, you know. The war is a few more cycles down the road.
 
-**Dato' Syed Azwan (DSA):** May I add, Dato'? I was thinking about the pig thing. Actually the pig issue did have significance, especially in the Perling seat — where our candidate ran. The pig thing had significance because, it was said, because of the pig issue, the DAP candidate lost.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** May I add, Dato'? I was thinking about the pig thing. Actually the pig issue did have significance, especially in the Perling seat — where our candidate ran. The pig thing had significance because, it was said, because of the pig issue, the DAP candidate lost.
 
 **Rafizi Ramli:** People recognized it.
 
-**Dato' Syed Azwan (DSA):** It suddenly — no, no, BN won, because he dared to. His majority votes were actually with our candidate. If you look back at Tony Pua's dissatisfaction, it's because they lost the Perling seat.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** It suddenly — no, no, BN won, because he dared to. His majority votes were actually with our candidate. If you look back at Tony Pua's dissatisfaction, it's because they lost the Perling seat.
 
 **Haziq:** Because...
 
-**Dato' Syed Azwan (DSA):** ...this, because there was a Chinese candidate who dared to raise the pig issue — this is DAP in Selangor.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** ...this, because there was a Chinese candidate who dared to raise the pig issue — this is DAP in Selangor.
 
 **Tang Hong Yau:** I can't really say, I don't think it had much impact because in Johor there isn't... Yes, it's true they don't want pigs, but there is an issue there. On social media it went quite viral, but I think the people watching that weren't in Johor.
 
-**Dato' Syed Azwan (DSA):** Yes, it's not really a Johor-focused thing, but for me it had some significance. Okay, another thing you mentioned earlier — about Chinese voters who actually wanted to vote PH, but wanted to punish PH, so they voted BN. "Voting while crying" is actually —
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Yes, it's not really a Johor-focused thing, but for me it had some significance. Okay, another thing you mentioned earlier — about Chinese voters who actually wanted to vote PH, but wanted to punish PH, so they voted BN. "Voting while crying" is actually —
 
 **Haziq:** Voting while crying?
 
-**Dato' Syed Azwan (DSA):** Yes, "voting while crying" actually came from the Chinese community itself. It's true, I was talking to someone, he said, "we really wanted to vote PH, but we want to punish them. To punish them, we had to vote BN. With this punishment, it'll teach PH to shape up."
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Yes, "voting while crying" actually came from the Chinese community itself. It's true, I was talking to someone, he said, "we really wanted to vote PH, but we want to punish them. To punish them, we had to vote BN. With this punishment, it'll teach PH to shape up."
 
 **Rafizi Ramli:** In fact, I think — here, tissue, don't cry...
 
@@ -559,7 +559,7 @@ So actually we're going through that cycle now, we need to make sure we have —
 
 **Rafizi Ramli:** PKR getting one seat, that's because PKR won in Puteri Wangsa, which proves that the Chinese vote for PH is actually still above 60%. It just depends on each seat and the turnout rate. It's overwhelmingly non-Malay — actually over 70%, Malays only over 20% or so, if I remember, Chinese about 61-62% in Puteri Wangsa. So even though the turnout rate was low, because the Chinese vote was 60% plus, and it still came in at around 60% plus, they still won with a margin of about 4%.
 
-**Dato' Syed Azwan (DSA):** But people say Puteri Wangsa won because of Fauzia Saleh — that's the story...
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** But people say Puteri Wangsa won because of Fauzia Saleh — that's the story...
 
 **Rafizi Ramli:** ...a fairy tale for content. I think this time Fauzia Saleh was probably given a warning, "if you don't come out, I don't know what will happen." And I remember PH's campaign this time really had no lead figure — there wasn't one commander or face that could carry it. It was actually small clusters doing their own things. So there was no coherent story, no general. Dato' Seri Anwar, I suppose — yes, Dato' Seri Anwar. But he wasn't there the whole time. And in the end, from my experience running campaigns for PH before, we've always said that a campaign becomes dangerous when its identity becomes DAP — when the narrative becomes DAP's narrative, which, to Chinese voters, becomes stronger than the overall PH or PKR narrative. So, hmm, that's why if you look at the recent campaign, the absence of a narrative fully representing PH also had a big effect, because eventually, especially in the final week, it became DAP's narrative that dominated.
 
@@ -567,7 +567,7 @@ If you remember in GE2022, when we came back, if you look, I stuck my neck out e
 
 **Dato' Dr. Samsu Adabi Mamat:** He said it's sentiment.
 
-**Dato' Syed Azwan (DSA):** But what Zik mentioned earlier, the Anwar factor. Let me just ask YB — in Sabah, the same thing happened, they did the same thing, they lost. In Johor too, same thing, they lost. This is going for a third time now — what's YB's comment on this? Does he need to change his approach? Doesn't he learn? You'd think after Sabah, it's over, then coming to Johor, same thing happens.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** But what Zik mentioned earlier, the Anwar factor. Let me just ask YB — in Sabah, the same thing happened, they did the same thing, they lost. In Johor too, same thing, they lost. This is going for a third time now — what's YB's comment on this? Does he need to change his approach? Doesn't he learn? You'd think after Sabah, it's over, then coming to Johor, same thing happens.
 
 **Rafizi Ramli:** Does he want P9? I don't think anyone in PH dares to go and tell Anwar Ibrahim this. So it's like YB, "I'm not there anymore, only I say it." Actually, Dato' Seri, this approach, this narrative, people don't like it. I don't think anyone dares to correct him. And after he became PM, in his fourth year, because of the culture around him, I think it's not just within PKR, it's gone overboard, even reaching into Amanah — maybe only DAP now has started to be a bit blunt about it — the culture is a culture of hyping "PMX the best, who else could be PM besides PMX?" So I think, hmm, they believe their own narrative. They genuinely believe that Anwar Ibrahim is the most powerful weapon to win votes, when we already know that script no longer works. Especially with his speech scripts. What PH should urgently do is send him — I'm laughing as I say this — apart from our own new candidates who need to be sent, because we sent Haziq, two or three people, to sit down and discuss speech delivery techniques. There are, you know, two or three people we felt we needed to intervene with a bit. So we sent people experienced in public speaking, debating and so on, to give some speech tips. Besides Bersama's candidates, Anwar Ibrahim also needs speech tips, you know. He needs, what's it called, a debate coach who tells him honestly that he can't say certain things anymore, he needs to do it this way. But well, who dares to say that.
 
@@ -583,7 +583,7 @@ And I think it's reached a stage where the anti-Anwar sentiment is so strong tha
 
 **Rafizi Ramli:** So early on DAP was fairly confident about turning things around. Right, because when Onn Hafiz said he didn't want to sit at the same table as DAP, that made him look so arrogant. Right, it's like watching England play against Argentina, it's dynamic every minute. So on the PH side, they made a lot of these mistakes — although the main view is that all of that actually didn't have that much impact on the election result. I think the outcome had really been decided well before. Even the pre-poll showed BN with a commanding lead among Malays, at 37%. And in fact with the Chinese too, even before the campaign started, before polling started, their vote for BN was already at 26%. And that 26% Chinese BN vote held steady right through to the end. So in that sense, Johor really is quite unique, that's really the sentiment there.
 
-**Dato' Syed Azwan (DSA):** He just said, "The Menteri Besar isn't smart" — oh, he said this Menteri Besar isn't smart. Then he compared, "You're an MB, I'm the PM."
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** He just said, "The Menteri Besar isn't smart" — oh, he said this Menteri Besar isn't smart. Then he compared, "You're an MB, I'm the PM."
 
 **Rafizi Ramli:** Ha, that's another line. What was it, he said, "even if we lose, whatever wins or loses, I'm still—"
 
@@ -623,19 +623,19 @@ And I think it's reached a stage where the anti-Anwar sentiment is so strong tha
 
 **Rafizi Ramli:** For Johor. Became a great orator within a week...
 
-**Dato' Syed Azwan (DSA):** ...anyone can...
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** ...anyone can...
 
 **Rafizi Ramli:** ...become...
 
-**Dato' Syed Azwan (DSA):** ...an orator. That's right, I thank Bersama for that. Why is my talent being used like this now?
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** ...an orator. That's right, I thank Bersama for that. Why is my talent being used like this now?
 
 **Rafizi Ramli:** How touching...
 
-**Dato' Syed Azwan (DSA):** ...it is. It's sad, honestly, given my talent. My old party should never have looked past it. But Alhamdulillah — as I said earlier, Bersama's uniqueness is that it gives people who don't know politics a chance to become candidates. And during my two weeks there, I saw that Bersama really has influence, especially among people who genuinely want new politics, meaning they don't want these coalitions anymore, they're disgusted, seeing the same faces — first it was PH-BN, now it's about to become BN-PAS, so it just becomes a cycle. And for me, Bersama is a party where, when I was on the ground observing, a lot of the people who came were genuinely the best, organic. Truly organic. Something I don't think you'd find in UMNO or PKR — only in Bersama. InsyaAllah, our party will — after this state election, after the Negeri Sembilan state election, no need to say more, we'll go to Melaka, InsyaAllah.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** ...it is. It's sad, honestly, given my talent. My old party should never have looked past it. But Alhamdulillah — as I said earlier, Bersama's uniqueness is that it gives people who don't know politics a chance to become candidates. And during my two weeks there, I saw that Bersama really has influence, especially among people who genuinely want new politics, meaning they don't want these coalitions anymore, they're disgusted, seeing the same faces — first it was PH-BN, now it's about to become BN-PAS, so it just becomes a cycle. And for me, Bersama is a party where, when I was on the ground observing, a lot of the people who came were genuinely the best, organic. Truly organic. Something I don't think you'd find in UMNO or PKR — only in Bersama. InsyaAllah, our party will — after this state election, after the Negeri Sembilan state election, no need to say more, we'll go to Melaka, InsyaAllah.
 
 **Haziq:** Thank you, Dato'.
 
-**Dato' Syed Azwan (DSA):** Yes, alright.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Yes, alright.
 
 **Haziq:** Maybe Dr. Harith, as a candidate...
 
@@ -657,11 +657,11 @@ And I think it's reached a stage where the anti-Anwar sentiment is so strong tha
 
 **Tang Hong Yau:** I have two thoughts. One is a personal reflection — actually during this period I used a lot of Bahasa Malaysia. In Chinese society, people usually only make friends within the Chinese-speaking community. So I feel this campaign made me feel more Malaysian, because I made Malay friends, Indian friends. You can see at the ceramah, even when I spoke Chinese, the crowd was patient and listened. I feel grateful, in this increasingly polarized political climate, Bersama is truly important. In the content I shared for Chinese voters, I always emphasized this — usually, it's like, PN or BN tend to polarize Malays and non-Malays and make them resent each other. So I think this is very important, and it's also been a great, exclusive experience for me. Because of this I'm convinced that Bersama's future is important in ending the resentment between these two majority ethnic groups. Second reflection, since I'm also new to politics — actually BN and MCA don't really bother us, it's DAP that comes after us, saying we're splitting votes. So in Chinese media we're attacked more by DAP and MCA. So I think we need — our stance needs to be firmer, that we're not aligned with PAS or BN, we need to...
 
-**Dato' Syed Azwan (DSA):** ...be careful, careful, careful. A truly multiracial party, that's the best thing about it.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** ...be careful, careful, careful. A truly multiracial party, that's the best thing about it.
 
 **Rafizi Ramli:** Yes, indeed...
 
-**Dato' Syed Azwan (DSA):** Because...
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Because...
 
 **Rafizi Ramli:** Actually that pinpoints our country's situation. Us older folks, the three of us can say this here, DSA, Dr. Sam, all of us. We've gone through decades of this, and in a situation where we all know that in the next 10-15 years, the country's population demographics will make the question of majority not even relevant anymore. Even the Malay majority of 70%-plus already has issues within itself, actually. What we need is how to bring everyone to the table so we can work together, help each other. So that in a business, there's a Malay towkay and Chinese employees working there too. And in a Chinese towkay's business, Malays work there too. Everyone partnering together.
 
@@ -723,11 +723,11 @@ Because, you know, people call it "general," people think of it like calling gen
 
 **Haziq:** Alright, alright. DSA, in terms of our excitement, the Bersama members who were already prepared to go into Negeri Sembilan, but with a decision like this, how do you feel?
 
-**Dato' Syed Azwan (DSA):** Earlier when YB came in, his face was actually pale. I had already prepared everything, I said, "YB Rafizi didn't tell me anything?" But I said I wanted to prepare the highlights for people, baby. But when I read it again, on the way yesterday, when baby released the statement, I read the whole thing, and I think I agree. It means Bersama doesn't need to enter, because the contest now is a heavyweight contest between PH and BN, and BN itself wants to cooperate with PAS to crush PH. So if we enter, we disrupt things, get dragged down, end up losing, and then get blamed, even though we don't really have much impact anyway. Like Rafizi said earlier, we'd only enter at 5%, 6%, especially... my AMK.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Earlier when YB came in, his face was actually pale. I had already prepared everything, I said, "YB Rafizi didn't tell me anything?" But I said I wanted to prepare the highlights for people, baby. But when I read it again, on the way yesterday, when baby released the statement, I read the whole thing, and I think I agree. It means Bersama doesn't need to enter, because the contest now is a heavyweight contest between PH and BN, and BN itself wants to cooperate with PAS to crush PH. So if we enter, we disrupt things, get dragged down, end up losing, and then get blamed, even though we don't really have much impact anyway. Like Rafizi said earlier, we'd only enter at 5%, 6%, especially... my AMK.
 
 **Rafizi Ramli:** Right, that's significant for us, we already have that baseline for Johor. Because previously we had no baseline at all, we only had polling. Okay, so you need to validate the polling number with the baseline. Now that we already have that baseline, we don't need the next baseline.
 
-**Dato' Syed Azwan (DSA):** Right. I agree, and I think this is what you'd call the best choice. Let people say what they want. Because we have a strategy, we're based on data. When YB brought out the data just now, I finally understood why we went into Johor. This is also the data we'll use.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Right. I agree, and I think this is what you'd call the best choice. Let people say what they want. Because we have a strategy, we're based on data. When YB brought out the data just now, I finally understood why we went into Johor. This is also the data we'll use.
 
 **Rafizi Ramli:** All along it's this data that helped PH become the government — yes, it's the same data from 2016, it's just a matter of whether people want to believe it or not. Yes, Harun doesn't believe it, and it's funny too — right now I'm being attacked by UMNO as well, and by PAS too, "why not go in everywhere," they want us to go in, they want to stir things up. What do you call it, during Johor we got attacked by DAP, now we're getting attacked by UMNO too, and by PAS. That's all.
 
@@ -751,7 +751,7 @@ So it's like in war — usually people focus on a head-on center-flank clash, bo
 
 So most probably, a lot of what happened in Johor during those two campaign weeks needs to happen in early August this time. So then when they call for it in October or November, "come back to them," so to speak. So my plan is that we must be battle-ready in Melaka at the latest by mid-August. So I think once that starts happening, people will see that it's not actually a loss of momentum — we're just picking our battles.
 
-**Dato' Syed Azwan (DSA):** He said something like — there was a comment from a netizen too, you can check it out, saying that our concept follows something like the Art of War, Sun Tzu, he said — we know when the time is right for us to win, meaning whatever happens along the way is fine, we shouldn't let ourselves be ruled by emotion.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** He said something like — there was a comment from a netizen too, you can check it out, saying that our concept follows something like the Art of War, Sun Tzu, he said — we know when the time is right for us to win, meaning whatever happens along the way is fine, we shouldn't let ourselves be ruled by emotion.
 
 **Rafizi Ramli:** From the start, throughout my time as a politician, that's what some people don't like about me, because they say I just follow my own head. It's not just about following my own head — for me, in politics, in a campaign, even in anything, in a marketing campaign, whatever we do, the control must be with you. I like it like playing a game, like playing football — you lose control, you're in trouble. The control must be with you. So controlling the election narrative, controlling the campaign narrative, ideally we control it. It's just that right now we're small, it's hard to control the narrative. So controlling the narrative also means picking your battles. So if you pick the right battles, you can control certain elements — that's a lot better than in Johor Bahru, where we couldn't do much. That was indeed a process we had to go through, to establish a baseline, to get faces out there giving speeches and so on — like it or not, we had to go through it.
 
@@ -777,7 +777,7 @@ Regarding us not going into Negeri 9, actually, in my view, I was hoping we woul
 
 **Rafizi Ramli:** And Negeri Sembilan, it's fine, we have a lot — because among the top 5 areas with the highest Bersama membership, number 5 is Seremban. So naturally the members in Seremban are saying, "Allah, I'm ready." That's fine — it means the members in Seremban will later, in Negeri Sembilan, help us in Melaka, and those in Johor, and those in KL too. And hopefully by the time we go into GE16 in Negeri Sembilan, we'll be in much better shape. And because... well, the situation in Negeri Sembilan is unique because it doesn't just involve politics. It's already connected to the palace, and my view is that once UMNO has taken that position, and PH is indeed defending the status quo. I like this.
 
-**Dato' Syed Azwan (DSA):** The height of our friends in Johor, and in Negeri 9 we... we might as well eat popcorn. We won't have time to eat popcorn. Do we need to go to Melaka?
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** The height of our friends in Johor, and in Negeri 9 we... we might as well eat popcorn. We won't have time to eat popcorn. Do we need to go to Melaka?
 
 **Dato' Dr. Samsu Adabi Mamat:** Melaka. To maintain momentum.
 
