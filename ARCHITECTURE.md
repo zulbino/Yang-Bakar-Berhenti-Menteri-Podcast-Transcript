@@ -411,6 +411,18 @@ rewrite/translate/metadata stage.
     self-referential in-dialogue time-checks ("dah 3 jam") matching the
     file's real `duration_seconds`. No content is missing or displaced;
     reclassified out of 1.16's bug catalog entirely.
+  - **ep58 (REVIEWED 2026-08-27, same non-bug shape, different trigger
+    check)**: flagged only by `qa_check.py`'s wall-of-text check (a
+    43,878-char block), not by `check_timestamp_drift.py` at all --
+    `data/timestamp_drift.json` shows 12/12 samples matched with only 230s
+    max drift, comfortably clean. Confirmed the giant block contains exactly
+    one `[timestamp] Speaker:` label at its start and no others embedded
+    inside, i.e. it's one genuinely long uninterrupted Rafizi monologue
+    (consistent with the same speaking-style pattern as ep41/ep44), not
+    multiple turns merged by a missing paragraph break. No fix needed; the
+    wall-of-text check has no way to tell "one long real monologue" from
+    "several turns merged" short of this kind of manual read, so expect it
+    to keep firing here on every future `qa_check.py` run.
 - **Fix:** for `check_timestamp_drift.py`, constrained the search to a ±20-minute
   window around each block's own claimed timestamp: genuine large-scale
   displacement (whole sections off by an hour or more) now shows up as "not found
