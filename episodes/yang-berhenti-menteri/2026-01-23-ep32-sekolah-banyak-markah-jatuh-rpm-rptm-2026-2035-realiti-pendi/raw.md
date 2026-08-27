@@ -33,7 +33,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [03:32] Rafizi: Jadi untuk pengetahuan penonton yang telah mengikuti kita selama 31 episod, ini mungkin episod terakhir Haziq menjadi moderator. Bukanlah sebab orang banyak complain sangat. Kalau tengok-tengok tu, saya tengok komen-komen tu ramai dah jatuh cinta dengan Haziq lah kan.
 
-[03:59] Speaker 3: Podcast sweetheart.
+[03:59] Farhan (Pa'an): Podcast sweetheart.
 
 [04:00] Rafizi: Podcast sweetheart. Geli kan? Tapi benda ni dah kita tahu dua tiga minggu yang lepas kan. Jadi mungkin Haziq boleh cerita sedikitlah kenapa ini mungkin episod terakhir dan Haziq kena resign.
 
@@ -51,7 +51,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [04:47] Haziq: Saya rasa sebab tu jugalah, rasa annoying betul mamat ni.
 
-[04:50] Speaker 3: Elephant in the room tak boleh sebut berulang kali.
+[04:50] Farhan (Pa'an): Elephant in the room tak boleh sebut berulang kali.
 
 [04:53] Haziq: Banyak sangat perkataan tu.
 
@@ -65,15 +65,15 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [05:54] Rafizi: Tunggu, tunggu. Tunggu hujung, tunggu hujung.
 
-[05:57] Speaker 3: Haziq kalau saya rasa kalau episod 1 sampai 10 tu maybe dia akan resignlah lepas kena kecam tu. Sekarang podcast sweetheart.
+[05:57] Farhan (Pa'an): Haziq kalau saya rasa kalau episod 1 sampai 10 tu maybe dia akan resignlah lepas kena kecam tu. Sekarang podcast sweetheart.
 
 [06:06] Haziq: Tak adalah, saya teruk lagi.
 
-[06:08] Speaker 3: Tak tak tak, komen semua menyebelahi kau.
+[06:08] Farhan (Pa'an): Tak tak tak, komen semua menyebelahi kau.
 
 [06:11] Rafizi: Jadi kalau tak nak bagi Haziq ditukar dengan moderator lain, bolehlah komen. Tulis banyak-banyak Haziq sweetheart, Haziq sweetheart.
 
-[06:22] Speaker 3: Hantar love emoji banyak-banyak.
+[06:22] Farhan (Pa'an): Hantar love emoji banyak-banyak.
 
 [06:24] Rafizi: Hantar love emoji. Eh tapi kalau alih-alih tak ada orang hantar love emoji, memang kena tendanglah.
 
@@ -81,7 +81,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [06:33] Rafizi: So yang ini kira Haziq akan reveal yang mana satu dia resign ni di akhir episod inilah.
 
-[06:42] Speaker 3: Ke nak biar suspen sampai episod depan?
+[06:42] Farhan (Pa'an): Ke nak biar suspen sampai episod depan?
 
 [06:44] Rafizi: Eh tak payahlah. Lama sangat basi kan. Jadi kepada penjawat awam yang lain, nak buat podcast berhati-hatilah ya. Nanti akan ada aduan rasmi jadi kena buat pilihan. Nanti menangis macam Haziq tu.
 
@@ -109,7 +109,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [08:14] Rafizi: Ber-ia betullah. Malas, kalau saya ada saya nak angkat tangan nak tanya dia, sebenarnya sistem yang kita ada ini yang memusatkan perbekalan beras dan sebagainya kepada satu syarikat iaitu BERNAS, yang itu sebenarnya kita dapat daripada UMNO, diwariskan oleh UMNO kan. Jadi keseluruhan rejim perbekalan beras, perbekalan ke pembekalan?
 
-[08:45] Speaker 3: Pembekalan.
+[08:45] Farhan (Pa'an): Pembekalan.
 
 [08:46] Haziq: Pembekalan, eh?
 
@@ -133,11 +133,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [10:54] Haziq: Kita...
 
-[10:56] Speaker 3: Tapi dia diundang untuk hadir ke Perhimpunan Agung UMNO hari tu. Ada ura-ura kata dia akan buat comeback. Ada yang kata masih lagi belum boleh comeback.
+[10:56] Farhan (Pa'an): Tapi dia diundang untuk hadir ke Perhimpunan Agung UMNO hari tu. Ada ura-ura kata dia akan buat comeback. Ada yang kata masih lagi belum boleh comeback.
 
 [11:08] Haziq: Dia pun dalam dilema juga.
 
-[11:10] Speaker 3: Ya, dia pun dalam delima juga.
+[11:10] Farhan (Pa'an): Ya, dia pun dalam delima juga.
 
 [11:12] Rafizi: Delima juga. Tapi yang ini bukan pasal KJ lah, ini pasal Kian Ming. Kian Ming kalau pun KJ jadi Perdana Menteri nanti kan, kalau UMNO menerima dan dia jadi Perdana Menteri satu hari nanti, dia saya ingat masih lagi berlikulah jalannya untuk melantik seorang yang tidak ada apa-apa kedudukan politik untuk jadi menteri. Tidak semudah itulah kan. Jadi Kian Ming boleh terus berharap tapi dia punya langkah-langkah tu banyak kan. Satu, KJ kena masuk dalam UMNO dahulu. Kemudian dia kena jadi Presiden UMNO. Kemudian UMNO kena menang pilihan raya. Dan kemudian bila pun UMNO dah menang pilihan raya, dan kalau ditakdirkan saudara KJ jadi Perdana Menteri, dan dia kena cross the final hurdle iaitu mengambil seseorang yang tidak ada ataupun bekas ahli politik yang sudah tidak lagi ada base politik untuk menjadi menterilah. Tapi saya tabik kerana ber-ia-ia melobi dan orang kata hedging. Ini namanya hedging, melabur di masa akan datang dalam segala ketidaktentuan yang ada.
 
@@ -173,11 +173,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [16:52] Rafizi: Yang ini yang yang secara senyaplah dia belum mungkin meletup lagilah tapi secara senyap dia mengundang pelbagai pandangan di kalangan ahli parlimen sendiri, terutamanya daripada ahli Parlimen PKR jugalah kan. Dan semalam hari Khamis saya tengok Malaysiakini pun dah mula melaporkan perkara inilah. Ini kali pertama yang mana untuk buat sidang media di Parlimen perlu dapat kebenaran. Kan, jadi dan kita perlu kemukakan permohonan sekurang-kurangnya dua hari bekerja. Kemudian itulah permohonan yang lengkap dengan tujuan penggunaan yang jelas saja akan diproses, perlu kena ada kelulusan bertulis untuk dikeluarkan sebelum boleh buat PC. Dan kepada pengamal media pula, peraturannya tak boleh buat doorstop dah. Sebelum ini kan kita jalan-jalan ada reporter hulur mikrofon bagi soalan kan. Sekarang tak boleh dah kan. Jadi saya akan menulis secara rasmi kepada speaker minggu depan, Tan Sri Johari Abdul. Kerana pada pandangan saya ini adalah satu tindakan yang regresif yang UMNO pun tak buat dulu. Kan, kerana walau macam mana kita bagi alasan pun, walaupun niatnya baik, wallahuaklam tapi katakanlah niatnya baik, tapi hasilnya ialah dia akan mengekang perjalanan Parlimen itu sendiri. Kerana dan saya ada pengalaman sendirilah kerana sebelum soal sidang media ini jadi satu amalan sekarang, dalam tahun 2012, 2011, sebelum saya jadi ahli Parlimen pun, saya dah buat sidang media di Parlimen. Dan contohnya kes NFC kan, dia mula didedahkan dan sidang-sidang media itu diadakan di Parlimen, walaupun saya bukan ahli Parlimen, di lobi Parlimenlah. Kerana atas dasar pada ketika itu Parlimen ini ialah dewan tertinggi rakyat. Kan, jadi kalau kita hadkan, kita nak kawal, itulah hujah kita sebagai pembangkang dahulu. Kemudian bila saya jadi ahli Parlimen, memang saya bagi sidang media itu tiap-tiap hari. Ada sebabnya juga kerana satu, pihak media kalau mereka nak duduk dan dengar satu hari perbahasan di Parlimen, itu akan menyukarkan keluarnya cerita itu kepada rakyat. Kerana di zaman internet sekarang, laman-laman web media ini dia dia bukan macam zaman surat khabar dahulu yang dia kumpul semua satu cerita sampai malam, kemudian baru dia pilih yang mana untuk dia cetak esok baru keluar. Dia kalau contohnya ada berita sekarang, pihak media yang paling cepat mengeluarkan berita itu, itulah yang akan mendapat eyeball ataupun mendapat tontonan kan. Jadi maka elemen ataupun unsur masa itu sangat penting untuk mereka. Jadi dia tak boleh nak dengar duduk saja, berita tu tak keluar kan. Dan itu juga akan menyusahkan ahli Parlimen kerana kita perlukan berita itu keluar secepat mungkin untuk dibaca oleh orang ramai. Tambah pula perbahasan di Parlimen tu bukan semuanya substantif. Kadang-kadang dia menjerit, kadang-kadang takkan media tiap-tiap hari nak lapor Parlimen menjerit lagi, Parlimen bertumbuk lagi kan. Jadi sebab itu saya antara orang yang paling awal dahulu daripada 2013 yang memanfaatkan sepenuhnya kemudahan media. Dan masa 2013 sampai 2018 dah mula adalah, pusat media ni tak ada tahu. Kita buat sidang media tu di tepi jalan kan. Orang kerumun, kita baca. Ataupun dia ada macam lobi sikit yang ada tempat duduk, kita duduk kat situ, pihak media kerumun dan baca kan. Oleh kerana popularnya sidang media di ruang Parlimen itu semasa tahun-tahun itu, saya ingat itulah juga yang mendorong keputusan supaya perlu ada pusat media khusus untuk pihak media, yang sangat membantu ahli Parlimen dan juga pihak media sendiri kan. Sudah tentu bila sekarang ini perkara itu dah jadi amalan, jadi kita ada orang macam Wan Saiful ataupun pembangkang yang kerja dia memang habis saja buat sidang media, habis saja buat sidang media. Sama ada kita bersetuju ataupun tidak dengan perkara yang mereka bawa kan, ataupun kalau kita jadi kerajaan kita rasa benda tu annoying ataupun nuisance kan, tapi kita tak boleh nak menafikan bahawa itu adalah satu perkara yang penting dalam demokrasi. Dan kalau tidak kerana kebebasan untuk buat sidang media, untuk membawa isu yang diberikan oleh Parlimen di bawah speaker-speaker yang dahulu, masa zaman Tan Sri Pandikar dulu kan, dan maka kita takkan ada tau 1MDB, pendedahan 1MDB, pendedahan banyak satu demi satu ni. Jadi saya terkejutlah kerana kalau zaman UMNO pun, zaman Datuk Seri Najib pun perkara itu tidak disekat, dan saya harap sampaikanlah kepada Datuk Seri Anwar Ibrahim, kepada orang keliling dia. Saya akan menulis secara rasmi juga kepada Tan Sri Speaker supaya mempertimbangkan balik perkara ini kerana dia cukup tidak kena dengan nadi dan juga jiwa sebuah parti reformis seperti PKR ini, dan speakernya itu adalah daripada PKR. Kena hentam lagilah aku kan? Tapi memang betullah. Memang saya tak buat sidang media sangat sekarang kerana kita lagi banyak buat podcast, kita apa ni kadang-kadang kita buat kandungan di TikTok kan. Tapi jasa dan juga sumbangan ruang dan kelebihan yang diberikan untuk sidang media di Parlimen itu adalah banyak mencorakkan perkembangan negara dalam tempoh 10, 15 tahun yang lepas. Jadi saya tak tahu, saya boleh teka sajalah. Saya boleh teka dia rasa macam pembangkang ni banyak sangat buat sidang media is a nuisance, lepas satu, satu, lepas satu, satu kan. Tapi kalau dua tahun lagi kita jadi pembangkang? Ha, then kamu nak pergi mana kan? Jadi sebab itu what works for us then should still work for everyone else lah. Dia tak boleh bila kita dah bertukar, apa-apa annoyance yang kita rasa, kita rasa ni tak selesalah orang bercakap, dan kita menggunakan kuasa kita untuk menyekat. Kerana itulah yang disebut sebagai regresif, bukan progresif kan. Jadi belum kita mula Standing Order dengan isu-isu, dia dah ada keluar isu nilah. Dan saya rasa pihak media pun memang tak setujulah, benda ini menyusahkan hidup dia kan. Dia nak tulis kemudian takkanlah contohnya saya ahli Parlimen kan, takkan saya dah tahu awal-awal apa yang saya akan cakap dua hari lagi, tulis borang semua kan. Sebab gunanya sidang media di Parlimen itu ialah supaya kalau ada isu yang panas-panas yang perlu diberi maklum balas on the spot, itulah gunanya.
 
-[25:25] Speaker 3: Tapi I ada dengar Tan Sri Johari punya I think answers to Wan Saiful Wan Jan...
+[25:25] Farhan (Pa'an): Tapi I ada dengar Tan Sri Johari punya I think answers to Wan Saiful Wan Jan...
 
 [25:33] Haziq: Okey, ya Wan Saiful bangkitkan.
 
-[25:36] Speaker 3: Dia dia ada cite yang mengatakan banyak orang salah guna, bawa masuk orang luar buat sidang media di sana. Betul saya setuju ada regressive effort in terms of curtailing sidang media semua tu, tapi mungkin MP-MP dan juga pejabat speaker boleh come to a common ground di mana I mean di mana ada safeguards yang menentukan supaya orang tak salah gunalah.
+[25:36] Farhan (Pa'an): Dia dia ada cite yang mengatakan banyak orang salah guna, bawa masuk orang luar buat sidang media di sana. Betul saya setuju ada regressive effort in terms of curtailing sidang media semua tu, tapi mungkin MP-MP dan juga pejabat speaker boleh come to a common ground di mana I mean di mana ada safeguards yang menentukan supaya orang tak salah gunalah.
 
 [26:12] Rafizi: Apa maksud salah guna tu? Saya memang tak bersetuju kalau kata bahawa ruang sidang media Parlimen itu hanya eksklusif kepada ahli Parlimen. Tugas ahli Parlimen ini ialah membawa suara rakyat. Kalau macam contoh dulu, kita melawan ISA dan kita nak bawa bekas-bekas tahanan ISA. Dia, kamu darjat rendah bukan kamu sebab kamu bukan ahli Parlimen jadi kamu tak boleh bercakap? I always have that fundamental issue and dululah semasa saya bukan ahli Parlimen, I challenge that lah. Gua masuk langgar saja kan. Jadi dia sebenarnya bergantung kepada apa makna Parlimen yang kita adalah. Itu yang saya ingat membezakan mungkin pandangan saya dengan pandangan speaker Tan Sri Joharilah. Bagi saya, Parlimen itu ialah untuk Janganlah dia masuk Dewan Rakyat tiba-tiba dia masuk dia nak pergi duduk atas kerusi Ahli Parlimen Pandan, tak bolehlah. Tapi semua ruang lain, lobi semua tu, kalau dia dah masuk dan dia dah dapat pas di depan sebagai pelawat, sepatutnya dia bolehlah kan. Dan bukan semua yang bercakap itu akan mendapat tempat dalam media pun. Itu keputusan dan kebijaksanaan medialah menentukan mana yang newsworthy, mana yang tidak kan. Tapi this very concept bahawa kita sedaya upaya ingin menghadkan akses orang ramai kepada Parlimen, itu saya rasa juga problematiklah.
 
@@ -205,7 +205,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [30:14] Rafizi: Tak ada, tak ada.
 
-[30:15] Speaker 3: So tiba-tiba ajelah dia keluarkan?
+[30:15] Farhan (Pa'an): So tiba-tiba ajelah dia keluarkan?
 
 [30:16] Rafizi: Tiba-tiba ajelah. Tanyalah pandangan ahli-ahli Parlimen. Kalau tidak pun, mungkin bincanglah dulu di jawatankuasa-jawatankuasa pilihan yang ada dengan ahli-ahli Parlimen ini kan. Memang betul speaker bertanggungjawab kepada Parlimen, tetapi speaker itu kuasanya datang juga daripada pilihan ahli-ahli Parlimen. Dan Parlimen itu ada jawatankuasa-jawatankuasa tertentu, jawatankuasa majlis, jawatankuasa yang menetapkan peraturan semua tu. Kalau pun akhirnya dia menjadi keputusan speaker, sepatutnya paling kuranglah tanyalah pandangan-pandangan ahli Parlimen kan. Sebab kami daripada PKR yang backbenchers ni kami tak setuju, cakap terus-terang.
 
@@ -249,11 +249,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [34:04] Rafizi: Betul ke 3%? Check, aku rasa Singapura 5% kan? Check. Quarter 4 2025, quarter 4. I thought it's 5%.
 
-[34:16] Speaker 3: Year on year is 5.7%.
+[34:16] Farhan (Pa'an): Year on year is 5.7%.
 
 [34:19] Rafizi: Ha! Year on year. Memanglah yang angka ni memanglah year on year semua. No no, quarter 4 Singapore 2025 is five plus kan?
 
-[34:28] Speaker 3: 5.7%.
+[34:28] Farhan (Pa'an): 5.7%.
 
 [34:29] Rafizi: Okey, apa makna dia?
 
@@ -269,19 +269,19 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [42:02] Rafizi: Apa akan jadi kepada pertumbuhan ekonomi Malaysia?
 
-[42:04] Speaker 3: Lagi rendahlah, slowing down.
+[42:04] Farhan (Pa'an): Lagi rendahlah, slowing down.
 
 [42:06] Haziq: Slower.
 
-[42:08] Speaker 3: Export will reduce.
+[42:08] Farhan (Pa'an): Export will reduce.
 
 [42:13] Rafizi: Sebab apa export will reduce?
 
-[42:15] Speaker 3: Less people will be purchasing because of the strengthening Ringgit.
+[42:15] Farhan (Pa'an): Less people will be purchasing because of the strengthening Ringgit.
 
 [42:19] Rafizi: Sebab lagi mahallah. Okey, lagi?
 
-[42:23] Speaker 3: Investments into Malaysia akan berkurang sebab makin mahal.
+[42:23] Farhan (Pa'an): Investments into Malaysia akan berkurang sebab makin mahal.
 
 [42:26] Rafizi: Sebab lagi mahal. Okey. Sebab risiko Ringgit sekarang peliklah kan. Saya akan sebut risiko Ringgit mengukuh. Kan, selama ni kan soal kedudukan mata wang ini dia jadi kempen bahan politik seolah-olah kalau kuat bagus RM2, RM3 ni, 1 dolar ni cukup bagus untuk negara. Dia sekarang dia jadi risiko juga tahu. Kerana begini kan, apa yang berlaku minggu lepas pasal Greenland ni?
 
@@ -293,11 +293,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [43:20] Rafizi: Memang aku tanya NATO, NATO tak setuju, okey.
 
-[43:22] Speaker 3: European Union offload a lot of the US Treasuries, if I'm not mistaken.
+[43:22] Farhan (Pa'an): European Union offload a lot of the US Treasuries, if I'm not mistaken.
 
 [43:25] Rafizi: Ha, kan! Siapa sebenarnya US punya hutang ni paling besar dalam dunia. Cara dia berhutang ialah dia jual US Treasurylah, bon dia. Yang memegang bon US ni ialah Jepun, China dengan EU, Eropah. Jadi Trump, Trump being Trumplah. Masa dia tiba-tiba gung-ho nak rampas Greenlandlah, kemudian dia dah dah dah tone down sedikit, dia nak apa nama ni tidak akan menggunakan kekerasan. Dan masa ucapan dia dekat Davos, dekat WEF, dia sebut bahawa dia nak beli kan. Kenapa dia tone down itu ialah kerana EU gunakan senjata yang mungkin Trump sama ada dia tak terfikir ataupun dia sombong dia rasa benda tu tak ada kesan kepada dia. EU sebenarnya offload Treasury US Treasurylah. So kalau EU apa maknanya ni? Saya tahulah dia kompleks sikit kepada orang di luarlah tapi dah alang-alang kan kita gunakanlah peluang ini untuk bagi sedikit pandangan dan juga pengetahuan how sebenarnya ekonomi kita ini sangat terpengaruh kepada benda-benda yang berlaku di tempat lain kan. So bila EU offload apa ni US Treasury, apa jadi?
 
-[44:56] Speaker 3: America has to pay whatever...
+[44:56] Farhan (Pa'an): America has to pay whatever...
 
 [44:58] Rafizi: Mana ada? US Treasury kalau 10 year, 10 year lah. Kenapa pulak nak kena bayar masa tu?
 
@@ -345,7 +345,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:21:18] Rafizi: Okey, dekat Lembah Klang gilalah kan, ada yang 50, 40. Tapi kalau kat kawasan luar bandar, sekolah-sekolah lain?
 
-[1:21:26] Speaker 3: Saya tak pasti.
+[1:21:26] Farhan (Pa'an): Saya tak pasti.
 
 [1:21:27] Haziq: 30 macam tu? Tu pun banyak.
 
@@ -357,19 +357,19 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:30:01] Haziq: Duit kita dah spend banyak, kemudian kita ada kelas yang cukup, kita ada guru yang cukup, tapi cara kita menyusun atau kita memastikan apa ni benda tu diagihkan, resources tu.
 
-[1:30:17] Speaker 3: My my inference on what you presented ni adalah kualiti of what kita mengajar students tu tak match what is expected lah.
+[1:30:17] Farhan (Pa'an): My my inference on what you presented ni adalah kualiti of what kita mengajar students tu tak match what is expected lah.
 
 [1:30:31] Rafizi: Yalah, dalam bahasa ekonomi maksudnya is no is is not about spending tau, it's about efficiency. Maksudnya kita berbelanja dengan tidak berkesan, okey ya. Dia akan ada banyak konotasilah kan. Yang ini yang yang bagi sayalah okey nak kena sentuh Fadhlina sedikitlah kan. Ini yang mungkinlah mungkin sebab saya dilatih sebagai engineer, jadi cara kita berfikir dan yalah melihat kepada sesuatu masalah ataupun problem solving itu lebih metodikal kan. So kalau soalannya ialah soal efisiensi, kecekapan berbelanja dan pelaksanaan, dia ada beberapa perkara-perkara pokoklah. Spending efficiency mungkin bermakna kita berbelanja pada harga yang mahal untuk mendapat sesuatu. Sekolah yang sepatutnya RM20 juta, kita belanja RM40 juta. So oleh kerana spending efficiency itu dia habis pada harga yang lebih mahal, so spending is not efficient, it takes away the resources daripada perkara-perkara yang lebih diperlukan. Contohnya mungkin latihan guru, contohnya mungkin bahan bantuan pengajaran, contohnya mungkin internet access yang bagus kan, sebab so spending efficiency is something that we need to have a landing. Tapi yalah sepanjang 2 tahun setengah saya dalam kerajaan, kemudian sekarang pun sebagai backbencher, pernah tak kita dengar daripada Menteri Pendidikan menyentuh mengenai spending efficiency? Tak ada. Kalau ceplos-ceplos ni pun bila saya kritik Fadhlina, dia akan tweet dan juga cuba sebarkan, "Bagusnya Menteri Pendidikan, sebanyak berapa berapa ratus juta sekian-sekian telah dibelanjakan. Ini 100 juta sekian-sekian." When we know having gone through the details, it's not about the absolute amount, it's not about how what is being spent, it's about spending efficiency. Dan menjadi Menteri Pendidikan itu, if you want to make sure that every single ringgit is spent efficiently supaya you get the result, you cannot run away from spending efficiency. So perkara itu tak disentuh langsung. Saya ada hantar soalanlah dekat Parlimen mengenai spending efficiency tapi perkara-perkara yang infrastrukturnyalah, perkara-perkara fizikal. I hope she will answer it properlylah, give me the data. Because saya bukan nak tembak saja, I actually want to see perbincangan and discourse about spending efficiency because all this is staring right to us. So that's one, spending efficiency kan. Tapi katakanlah eh, spending efficiency semua okey, kalau Kementerian Pendidikan kata, "Tak, memang kita belanjakan cukup bagus. Kalau markah itu ialah RM5, memang RM5 kita belanjakan." Tapi result masih lagi macam ni, maksudnya apa dia?
 
-[1:34:01] Speaker 3: The syllabus.
+[1:34:01] Farhan (Pa'an): The syllabus.
 
 [1:34:02] Rafizi: Maksudnya syllabus. Maksudnya kaedah. Maksudnya cara kita mengajar, kaedah, syllabus and so on lah. Which brings me to the last slide. Okey ya. Yang ini saya baca masa PLM ini ialah apa nama ni dia panggil apa ni learning metrics kan? Yes, learning metrics. P stands for what? Tak nampak dah. Primary?
 
-[1:34:40] Speaker 3: Oh kejap. Nampak ke? Tak nampak.
+[1:34:40] Farhan (Pa'an): Oh kejap. Nampak ke? Tak nampak.
 
 [1:34:46] Rafizi: Bolehlah Google eh. Okey. Ini adalah satu lagi benchmarking serantau yang dibuat oleh UNICEF eh.
 
-[1:34:54] Speaker 3: Primary Learning Metrics.
+[1:34:54] Farhan (Pa'an): Primary Learning Metrics.
 
 [1:34:55] Rafizi: Primary Learning Metrics, not preliminary eh. PLM, dia sama lebih kurang macam PISA jugalah tapi dia di rantau Asia Tenggara ini.
 
@@ -377,7 +377,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:35:06] Rafizi: Dan dia enam negara ni aje yang turut serta, Indonesia tak join, apa nama ni Singapore tak join. You know bila bila Singapore tak join, aku rasa macam Singapore menghina kita aje. Because dia kata, "I'm not in your league," and the fact that Malaysia ada kat sini, maksudnya Malaysia sedar diri bahawa we are in the league of Cambodia, Laos, Myanmar, dan negara-negara seperti inilah kan. Thailand pun tak join kan. So ini yang terbarulah 2024 eh. Panjanglah juga report dia. Dia dia tak banyak beza daripada PISA dengan TIMSS lah. Tapi satu perkara yang paling penting and benda ni disiarkan dalam dua bulan lepas kan? Bulan November kan? Saya tunggu tau supaya dia meletup menjadi isu besar di negara. Tak meletup. Jom letupkan. So kita tunggulah bila kita nak bentangkan dekat podcast ni kan. Tapi kita tunggu masa yang sesuailah daripada bercakap semata-mata untuk buat isu on its own. Now I think is a good time untuk conclude eh. Cuba kita tengok jumlah jam yang diperuntukkan untuk pengajaran matematik eh. Negara yang berlainan dia ada tempoh masa pendidikan rendah yang berlainanlah. Semua 6 tahun kecuali Vietnam tahu, Vietnam 5 tahun dah habis sekolah rendah eh. Kemudian dia campurkan semua jumlah jam pengajaran untuk sepanjang tempoh sekolah rendah tu kan. Kita tengok Cambodia 4,100, kemudian Laos 4,400, Malaysia sepanjang 6 tahun belajar itu murid-murid akan melalui 4,800 jam jumlah pengajaran. Apa yang penting sekali? Cuba tengok, saya tengoklah ada dua tiga orang tahu pakar-pakar pendidikan yang melontarkan isu ini tapi dia mati macam tu aje. Keluar satu report, mati. Tak tak di tak diambil oleh ahli politik, apatah lagi oleh Kementerian Pendidikan, Perdana Menteri pun tak komen kan. Sedangkan bagi saya ini adalah perkara yang cukup penting because it goes right into the heart of reform. Kita dah tengok dari segi sumber mencukupi, okey you can question about spending efficiency, tapi yang ini yang ibu bapa cakap-cakap ada pandangan yang berbeza-beza tapi tidak pernah dibawa ke peringkat nasional untuk tunjukkan with a figure that sebenarnya kita ada masalah. Cuba tengok jumlah jam pengajaran matematik. Kita paling corot di rantau ini. Berapa peratus aje? Tak sampai 20%.
 
-[1:38:14] Speaker 3: 16%.
+[1:38:14] Farhan (Pa'an): 16%.
 
 [1:38:15] Rafizi: 16%. Maksudnya pelajar-pelajar darjah satu sampai darjah enam, kita duk sibuk cakap AI, artificial intelligence, nak buat cip, kita duk sibuk cakap pasal STEM, pelajar sekolah rendah kita 16% aje dia melalui pengajaran mathematics. Sains kita tak boleh nak bandingkan kerana sains tu dimasukkan dalam other domain hours tu. Dia sebenarnya mengukur tiga kategori eh: Dia mengukur bahasa, pengajaran bahasa PLM ni, dia mengukur maths, tapi sains tu dimasukkan di bawah other domains, maksudnya subjek-subjek lainlah. So yalah kita 16% saja maths. Macam mana kita nak skor PISA? Macam mana kita nak melahirkan lebih banyak engineers, lebih banyak orang yang boleh mencipta, ada inovasi semua kalau asas maths nya itu begitu rendah? Dan sains itu asasnya adalah maths. You tak boleh belajar fizik kalau you tak boleh you know your maths is weak. Chemistry pun ada maths, okey bio maybe kurang sikitlah kan. But these two core subjects, let alone engineering, is all engineering is derived daripada fizik yang asasnya adalah maths. So by looking at angka-angka ini, kita tahu memang kesian kat budak-budak ni asasnya memang tak cukuplah. Kan. Jadi kita dah tengok semua tu, maka now kita nak masuk perbincangan pasal RPM lah. Sebab kita tak guna nak bincang pasal Rancangan Pendidikan Malaysia, pasal umur 6 tahun semua ni kalau kita tak bermula dari segi where we are now, diagnosisnya ialah where we are. Dan kita tahu kita spend banyak macam orang lain, cikgu kita ratio banyak macam orang lain, sekolah banyak macam orang lain, average class bagus macam orang lain. Satu-satunya yang kita corot daripada orang lain ialah dari segi silibus. Maksudnya memang mata pelajaran kita, subjek-subjek kita tidak menekankan, tidak cukup untuk matematik dan saya pasti untuk STEM, untuk sains, untuk engineering pun memang kalau dibandingkan dan dipecahkan saya pasti dia juga akan lebih corot daripada negara-negara lainlah. The fact that kita lagi corot daripada Cambodia...
 
@@ -389,21 +389,21 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:41:07] Rafizi: So kau sembang jap, aku nak minum air, penat. Dari tadi 2 jam dah bercakap ni ha.
 
-[1:41:11] Speaker 3: Haziq masa sekolah dulu banyak belajar sains dengan maths tak?
+[1:41:11] Farhan (Pa'an): Haziq masa sekolah dulu banyak belajar sains dengan maths tak?
 
 [1:41:14] Haziq: Kena belajarlah sebab ada. Tapi tulah, memang masa tu yalah kita fahamlah kan, subjek non-STEM lain tu lebih banyak.
 
-[1:41:24] Speaker 3: Tapi saya ingat masa saya sekolah dulu, sains dan maths, especially sekolah rendahlah, sains dan maths was taking up quite a lot of our time every week. So I can't I can't relate to the problem now because I tak boleh bayangkan pergi sekolah tapi kurang belajar maths dengan science.
+[1:41:24] Farhan (Pa'an): Tapi saya ingat masa saya sekolah dulu, sains dan maths, especially sekolah rendahlah, sains dan maths was taking up quite a lot of our time every week. So I can't I can't relate to the problem now because I tak boleh bayangkan pergi sekolah tapi kurang belajar maths dengan science.
 
 [1:41:42] Haziq: Tapi cikgu-cikgu maths pun, kan kat TikTok banyak, dia kata cikgu-cikgu maths suka ambil waktu PJ. Kalau waktu PJ kosong, dia ajar maths sebab cikgu pun kata tak sempat nak habiskan.
 
-[1:41:50] Speaker 3: Tak cukup masa.
+[1:41:50] Farhan (Pa'an): Tak cukup masa.
 
 [1:41:53] Haziq: So maybe it's a thing.
 
 [1:41:57] Rafizi: I think betullah, aku dulu zaman Tok Kaduklah kan, 30 tahun lepas di sekolah, 30 tahun? 40 tahun dah aku kat sekolah kan dulu meninggalkan sekolah kan masa sekolah rendah. I think dulu masa banyak tau untuk maths dengan science. So saya kita masalahlah kerana kita tak boleh relate bila masa ia bertukar.
 
-[1:42:17] Speaker 3: Terkejut jugalah tengok tengok kalau... Maybe kita kena pergi tanya budak-budak muda sekarang, suruh dia orang share timetable sekolah dia orang. Kita nak tengok betul ke tak.
+[1:42:17] Farhan (Pa'an): Terkejut jugalah tengok tengok kalau... Maybe kita kena pergi tanya budak-budak muda sekarang, suruh dia orang share timetable sekolah dia orang. Kita nak tengok betul ke tak.
 
 [1:42:29] Rafizi: Tapi dia orang dah buat tu, PLM tu itulah tugas dia. Dia dah pergi tengok jadual lah, itu yang ditunjukkan kita memang corot berbanding dengan negara lainlah kan.
 
@@ -413,7 +413,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:42:49] Haziq: Ceplos tak. Kategori bukan.
 
-[1:42:51] Speaker 3: Kebijaksanaan Fadhlina.
+[1:42:51] Farhan (Pa'an): Kebijaksanaan Fadhlina.
 
 [1:42:54] Rafizi: Ceplos tak kan. Dia yalah kita nak mula, I suppose you want to start there lah kan. Kadang-kadang yalah ceplos politik ni pun patut kalau jumpa tepi jalan lempang aje. Ini bukan soal mainan siapa lebih hebat, siapa lebih pandai lah. Ini pasal budak-budak ni tahu kan. Maksudnya ini pasal anak-anak kita kan. And antara banyak-banyak bendalah yang dalam negara ni yang paling penting ialah pendidikan. Even economy is a by-product of pendidikan. You fix the school, you fix the classroom, you fix everything. Kan. Jadi dia bukan soal ambil kredit siapa dia. All we want to see is perkara itu diperbaiki kan. Kalau apa nama ni dan saya tak rasa akan ada seorang yang boleh baiki semua because the task is humongous. Tengoklah kan. Jadi lawaklah aku duk baca semua, ya Allah orang sepatutnya bincang pasal intipati dan masalah, dekat mana apa nama ni masalah kita, what we are going to do. Dia duk sibuk cerita siapa yang lagi cerdik, siapa yang mula semua dulu semua ni kan. Tapi tak apalah, that's why kita buat podcast malam ini. Dia dry sikit, dia berat sikit so that kita saya haraplah kan ibu bapa semua tu, guru-guru, yalah rakyat keseluruhannya we need to start somewhere untuk kita betul-betul serius menangani masalah reformasi pendidikan ini beyond politics, beyond sentimen kita, beyond perasaan kita.
 
@@ -429,23 +429,21 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:46:29] Rafizi: Ya. Cuma yang kalau dari segi reformasi pendidikan dalam RMK, dia sebenarnya ada dua teras utamalah. Satu ialah pra-sekolah dan memulakan darjah satu pada umur 6 tahun tu is a follow-through daripada pra-sekolah, universal pra-sekolahlah kan. Yang itu adalah walaupun penekanan tidak diberikan kepada pra-sekolah dan sebagainya kan. Tapi satu yang saya rasa tidak ada pengumuman langsung ialah mengenai menaik taraf dan meningkatkan kecekapan dan kemahiran guru melalui reformasi dan juga rasionalisasi dan optimasi institusi-institusi perguruan. Maksudnya dari segi kita nak meluaskan sepenuhnya pengambilan guru-guru ini, satu dari segi institusi perguruan kan, pendidikan guru IPG tu kan, supaya perbincangan dan idea asal kita itu ialah dia tidak boleh digunakan kapasitinya majoritinya ialah untuk melatih guru-guru lepasan sekolah ini untuk dia jadi guru. A substantial portion of it, sama ada satu pertiga ataupun separuh daripada IPG ini, digunakan sebagai institusi latihan profesional berterusan untuk melatih guru-guru secara berterusan. Dan kapasiti untuk melatih guru-guru yang kita ambil daripada IPG itu sepatutnya dibuka kepada segala jenis universiti dan segala jenis aliran. Supaya untuk menjadi guru ini bukanlah semata-mata dengan mengambil ijazah perguruan. Kita nak orang yang lulusan kimia, lulusan kejuruteraan, lulusan fizik kan, ataupun orang yang memang buat maths betul-betul maths, bukan ijazah perguruan dengan mengajar maths, supaya yang pergi universiti semua ni lepas itu dia ambil post-graduate untuk dia buat guru dan dia boleh jadi guru. So the variety of selection of teachers itu kita nak buka kan.
 
-[1:48:56] Speaker 3: Open service eh?
+[1:48:56] Farhan (Pa'an): Open service eh?
 
 [1:48:57] Rafizi: Open service maksudnya?
 
-[1:49:01] Speaker 3: I mean you don't have to go through the whole Institut Perguruan...
+[1:49:01] Farhan (Pa'an): I mean you don't have to go through the whole Institut Perguruan...
 
 [1:49:05] Rafizi: Tak, I mean open service ni ada makna yang tersendiri dalam kerajaan. Open service dengan close service, close service maksudnya khidmat tertutup ni kalau masuk jabatan itu dia tak boleh keluar dari jabatan tu skim tulah, dia duk skim tulah.
 
-[1:49:19] Speaker 3: Maksud saya adalah orang yang ada ijazah-ijazah tak belajar jadi guru boleh masuk satu skim...
+[1:49:19] Farhan (Pa'an): Maksud saya adalah orang yang ada ijazah-ijazah tak belajar jadi guru boleh masuk satu skim...
 
 [1:49:25] Rafizi: Ya, itu itu intention kitalah kan. Supaya kita nakkan variety, termasuklah contohnya career change. Orang yang mungkin saya contohnya kalau saya muda dulu saya jadi akauntan, lepas 5 tahun saya jadi akauntan, saya pergi ambil ijazah post-graduate untuk menjadi guru dan saya mengajar akaun di sekolah, tapi saya ada 5 tahun pengalaman bekerja dan sebagainyalah. The variety of teaching profession tu pentinglah. Yang itu tidak ada. Yang itu tidak ada. Nanti kita sembang nanti dari segi sensitiviti dan bangkangan yang daripada awal Kementerian Pendidikan bagi tu, dia mungkin bagi gambaran kenapa beberapa perkara itu yang kita masukkan secara jelas di dalam RMK tapi dalam RPM ini nampak dia tidak diberikan penekanan sangatlah.
 
 [1:50:15] Haziq: Okey baik YB. Jadi bila kita dah bincang tu semua, kita tengok dasar dan cerita belakang tabir yang ada pula YB. Mungkin saya boleh start lah. Actually apa cabaran yang dasar pendidikan negara kita yang sebelum-sebelum ni kita tengok ada masalah selama ni tak address? Dia ada banyaklah tapi...
 
-[1:50:37] Rafizi: Yalah, dia masa kita yalah sepanjang saya jadi menteri Menteri Pendidikan pulak dah, Menteri Ekonomi dulu. Slip of the tongue. Masa menjadi and it's not Freudian slip eh. Masa jadi Menteri Ekonomi dulu kan, ialah dia cabarannya itu ialah kerana kerajaan kita ni silo kan dan dia banyak diuruskan secara politik kan. Tugas kami di Kementerian Ekonomi dahulu ialah merancang untuk negara. Dan perancangan itu dia bukan ekonomi saja tahu. Orang tak cukup anak pun masalah kami, jalan tak cukup pun masalah kami. Apatah lagi mengenai pendidikan dan keberhasilan sistem pendidikan kita, kerana itu adalah modal insan kita yang menentukan perancangan ekonomi. Jadi saya daripada awal bertegas katakan kita tak boleh nak bincang pasal ekonomi, nak melonjakkan semua ni tapi we forget about the elephant in the room. The elephant in the room is the quality of our education system. Dari situlah mula masalahlah kerana yalah orang akan mengatakan aku campur tangan semualah. Tapi sebenarnya dia orang yang tak baca warta. Memang itu tugas Kementerian Ekonomi pun kan. Tambah pula dan ini satu lagi isu yang kita kena bincang dalam podcast-podcast yang akan datanglah. Kita ni sebenarnya ada satu Titanic. Kita sedang bergerak ke arah satu iceberg yang besar kan iaitu aging nation, negara menua. Kan, so yalah I mean I'm in a kalau kalau kalau nak hidup senang, buat apa nak fikir masalah-masalah yang akan datang 20 tahun daripada sekarang? It's not our problem. Samalah juga kalau tanya menteri lain ke, hatta Perdana Menteri pun, dia rasa masa tu aku dah tak ada dah. That's not my problem kan. Tapi aging nation ni kita tengok negara-negara yang jauh lebih kaya daripada kita, jauh lebih hebat daripada kita, jauh lebih teknologinya lebih maju kan, walaupun mereka bersedia lama, sampai sekarang dia tak keluar lagi tahu daripada masalah aging nation tu. Contoh yang paling baik, Jepunlah. Sekarang Korea, Singapore is moving towards that kan. Kepada yang yang mungkin tak faham sangat what is aging nation, keadaannya begini: Kita akan sampai satu peringkat yang mana apabila jumlah orang yang di dalam umur persaraan itu melebihi sesuatu peratusan daripada rakyat, maka dikira negara sedang menua. Kita dah melepasi garis itu. I can't remember the number lah, tapi kita can check. You cross aging nation at what percentage of retirees in the population? 11, 10% kan, can't remember. Tapi kita dah sekarang ini melalui kita dah melepasi garis masyarakat menua. Now, once you cross that line, the clock ticks. Maksudnya kita menunggu masa sahaja yang kita akan cross satu lagi garis yang dipanggil negara tua ataupun masyarakat tua ataupun aged nation. Saya ingat garisnya itu I tell you about 14 or 16% of the population ialah di dalam retirement age. Berapa? 15% kan. So kita kalau ikut berdasarkan dan kita sebab tu DOSM, Jabatan Statistik ni penting. Bukannya untuk apa nama ni dengar dia bagi data statistik yang orang semua tak tak tak ambil peduli ya. Berdasarkan unjuran dari segi kadar kelahiran, berdasarkan unjuran kepada jangka hayat hidup dan kematian kan, kita dijangka menjadi negara tua menjelang tahun 2043. Maksudnya tahun 2043 itu 15% daripada rakyat kita memang sudah masuk dalam umur persaraan ke atas. So apa kesan dia? Apa yang bising-bising ni kan? Maka kita akan ada yang ini yang saya ingat mungkin Izzah cuba cuba terangkanlah. Ini yang disebut sebagai sandwich generation kan. Sandwich generation ini merujuk terutamanya kepada millennials dan juga Gen Z dan nanti Gen Alpha. Kami yang Gen X ni dah selamat, kami akan jadi retiree. Sekarang tahun 2026, 2043 berapa tahun? 17 tahun daripada sekarang tau. Do you know how quick is 17 tahun? 17 tahun ni kalau maksudnya tahun 2000 2007, 2008, 2009. Ha 2009. Baru aje. Is only, so maksudnya 17 tahun, kita sekarang ni 2026, 17 tahun tu 2009. 2009 is so recent to us, 2010 semua ni baru lagi. Bukannya lama ke apa kan. So kita hanya ada 17 tahun kan. Kesan utama kepada aging aged nation ni bila kita cross 2043 nanti maksudnya apa tahu? Ekonomi kita akan menghadapi masalah kerana satu, kita nak kena tanggung dua kumpulan yang menelan belanja yang besar: Satu, kumpulan pesara, dan tambah pula jangka hayat hidup nanti kumpulan pesara ni, generasi aku eh, kami dijangka hidup sampai 90 tahun tahu. So kalau bersara umur 60 kan, ada 30 tahun nak tanggung. Sedangkan sistem persaraan kita yang ada sekarang ini berdasarkan kepada jangka hayat tahun 70-an, 80-an dulu. Jangka hayat dulu sampai 72 tahun aje. Maksudnya kalau bersara umur 60, sistem persaraan dan tabung persaraan itu hanya perlu menampung untuk 12 tahun. Sekarang 30 tahun tau. Okey, so beban persaraan tu tinggi. Kemudian bila hidup lebih lama, maka sistem kesihatan, perkhidmatan kesihatan itu dia kena lebih banyaklah, kena lebih menyeluruh, ubatnya, sebab orang lagi lama kan. So lagi beban kepada kerajaan kan. Dan yang yang yang paling teruk ialah jumlah orang yang bekerja itu sebagai peratusan daripada jumlah populasi adalah lebih rendah daripada sekarang. So you have a situation yang dipanggil sandwich generation, millennials ke bawah ni, millennials, Gen X, Gen Alpha ni kan, dia dah dahlah kena tanggung diri dia dan masa itu harga barang semua mahal semua kan, competition, dia dahlah kena tanggung diri dia. Dia pula kena tanggung generasi pak dia macam aku, datuk dia semua yang tak mati-mati ni. Yang makin lama makin membesar tak mati-mati kan. So therefore, the strain on them dari segi berapa jumlah cukai yang dia kena bayar semua tu kan, maka lebih tinggi. Dan itulah yang dialami oleh negara-negara yang telah pun sampai kat situ. Apa nama ni Jepun, Korea, China is going through that, Singapore. In fact, India is moving very quick towards that juga tahu kan. So kita semua tahu juga memang dah tak boleh nak dielakkan memang gaya hidup budak-budak sekarang yang generasi muda, nak marah dia pun tak boleh, dia kahwin lebih lambat. Sekarang kahwin umur 30, 28 tu biasa aje. Kemudian dahlah dia kahwin lambat, kemudian anak tak banyak. Dua orang, tiga tu dah kira banyak. Nak salahkan dia orang pun tak boleh juga, aku kahwin umur 34 anak seorang. So aku mendahului millennials dan juga Gen Z semua ni kan. It's a lifestyle, it's our life choices dan macam itulah di seluruh dunia kerana mereka merasakan tanggungan untuk kahwin dan anak itu terlalu mahal, lebih baik tak berkeluarga kan. So all this happening and is an iceberg that we as a country is a Titanic marching steadily tahu dalam tempoh 17 tahun daripada sekarang. So kita kena lakukan macam-macam tau kan so and I don't think we are doing enough lah. Okey, itu pada satu satu sudutlah dari segi aging nation. Ini dari segi perspektif kenapa RMK-13 meletakkan reformasi pendidikan sebagai paling penting yang tiba-tiba habis cerita Ceplos pasal campur tangan Fadhlina ni semua kan. Dia bermula daripada masalah negara itu. Itu satu masalah negara kan. Satu lagi masalah ialah yang kita tunjukkan tadi iaitu keberhasilan dan mutu pendidikan kita ini memang di belakang walaupun kita berbelanja lebih guru pada angkanya mencukupi semua kan. Satu perkara yang bila kita bandingkan ialah dari segi perkembangan minda kanak-kanak, dia perkembangan yang yang yang paling penting ialah pada umur 4 ke 9 tahun. Jadi pra-sekolah itu cukup penting. Kerana you know if you psychologically, physiologically kalau contohnya pada umur 4-5 tahun itu dia sudah ada minat belajar, dia dah boleh didedahkan kepada pembelajaran, maka itulah pertumbuhan yang paling kritikal. Sebab itu eh kalau ikut tadi budak-budak eh toddler lah, anak-anak kecil ni kan, the best time untuk dia pick up bahasa ialah umur 4-5 tahun. You letak dia contohnya dekat satu keluarga ke yang bercakap bahasa yang completely different, actually dia boleh pick up bahasa tu. Kita nak suruh ajar pada umur aku belajar Mandarin, memang nayalah kan. So 4-5 tahun tu very important eh. Tambah pula di Malaysia, dia dah jadi satu masalah sosial dan masalah ekonomi yang mana oleh kerana tidak ada perkhidmatan pra-sekolah yang universal dan percuma kepada rakyat, maka untuk keluarga muda, tanggungan membayar tadika, taman asuhan, preschool ni dah jadi mahal. Satu orang anak RM400 tu kira murah dah. Kalau di kawasan bandar, dia boleh jadi RM600, RM700. Kalau yang mahal sikit sampai lebih RM1,000 kan. Lagilah dia tak nak ada anak. Dan kalau dia tak nak ada anak, lagilah kita ada masalah, lagi cepatlah kita lagi menua. Bila kita jadi negara menua lagi cepat, potensi ekonomi kita lagilah terbantut. So it's all masalah yang berangkai kan. Jadi atas sebab itulah, maka ada satu pendekatan yang sebenarnya kalau kita laksanakan dengan baik, dia menyelesaikan banyak masalah-masalah berangkai ini dari segi masalah kos sara hidupnya kan dengan pra-sekolah, kemudian dari segi perkembangan kanak-kanak dan juga pendidikan supaya kita membaiki mutu pendidikan kita, kemudian dari segi pertumbuhan ekonomi kita untuk memastikan bahawa kita cukup modal insan untuk menggerakkan ekonomi kita untuk ini 17 tahun tak lama ni tau untuk satu generasi akan datang kan, dan juga untuk memastikan bahawa untuk berlaku adil kepada Gen Z, millennials, Gen Alpha ni, kita tak bebankan mereka masa orang macam aku, Anwar Ibrahim, Fadhlina tua nanti tau kan. So that is the thrust of RMK-13. Jadi memanglah aku ketuk meja macam biasalah kan. Awal-awal tu memang...
-
-[2:04:14] Haziq: Cerita belakang tabir.
+[1:50:37] Rafizi: Yalah, dia masa kita yalah sepanjang saya jadi menteri Menteri Pendidikan pulak dah, Menteri Ekonomi dulu. Slip of the tongue. Masa menjadi and it's not Freudian slip eh. Masa jadi Menteri Ekonomi dulu kan, ialah dia cabarannya itu ialah kerana kerajaan kita ni silo kan dan dia banyak diuruskan secara politik kan. Tugas kami di Kementerian Ekonomi dahulu ialah merancang untuk negara. Dan perancangan itu dia bukan ekonomi saja tahu. Orang tak cukup anak pun masalah kami, jalan tak cukup pun masalah kami. Apatah lagi mengenai pendidikan dan keberhasilan sistem pendidikan kita, kerana itu adalah modal insan kita yang menentukan perancangan ekonomi. Jadi saya daripada awal bertegas katakan kita tak boleh nak bincang pasal ekonomi, nak melonjakkan semua ni tapi we forget about the elephant in the room. The elephant in the room is the quality of our education system. Dari situlah mula masalahlah kerana yalah orang akan mengatakan aku campur tangan semualah. Tapi sebenarnya dia orang yang tak baca warta. Memang itu tugas Kementerian Ekonomi pun kan. Tambah pula dan ini satu lagi isu yang kita kena bincang dalam podcast-podcast yang akan datanglah. Kita ni sebenarnya ada satu Titanic. Kita sedang bergerak ke arah satu iceberg yang besar kan iaitu aging nation, negara menua. Kan, so yalah I mean I'm in a kalau kalau kalau nak hidup senang, buat apa nak fikir masalah-masalah yang akan datang 20 tahun daripada sekarang? It's not our problem. Samalah juga kalau tanya menteri lain ke, hatta Perdana Menteri pun, dia rasa masa tu aku dah tak ada dah. That's not my problem kan. Tapi aging nation ni kita tengok negara-negara yang jauh lebih kaya daripada kita, jauh lebih hebat daripada kita, jauh lebih teknologinya lebih maju kan, walaupun mereka bersedia lama, sampai sekarang dia tak keluar lagi tahu daripada masalah aging nation tu. Contoh yang paling baik, Jepunlah. Sekarang Korea, Singapore is moving towards that kan. Kepada yang yang mungkin tak faham sangat what is aging nation, keadaannya begini: Kita akan sampai satu peringkat yang mana apabila jumlah orang yang di dalam umur persaraan itu melebihi sesuatu peratusan daripada rakyat, maka dikira negara sedang menua. Kita dah melepasi garis itu. I can't remember the number lah, tapi kita can check. You cross aging nation at what percentage of retirees in the population? 11, 10% kan, can't remember. Tapi kita dah sekarang ini melalui kita dah melepasi garis masyarakat menua. Now, once you cross that line, the clock ticks. Maksudnya kita menunggu masa sahaja yang kita akan cross satu lagi garis yang dipanggil negara tua ataupun masyarakat tua ataupun aged nation. Saya ingat garisnya itu I tell you about 14 or 16% of the population ialah di dalam retirement age. Berapa? 15% kan. So kita kalau ikut berdasarkan dan kita sebab tu DOSM, Jabatan Statistik ni penting. Bukannya untuk apa nama ni dengar dia bagi data statistik yang orang semua tak tak tak ambil peduli ya. Berdasarkan unjuran dari segi kadar kelahiran, berdasarkan unjuran kepada jangka hayat hidup dan kematian kan, kita dijangka menjadi negara tua menjelang tahun 2043. Maksudnya tahun 2043 itu 15% daripada rakyat kita memang sudah masuk dalam umur persaraan ke atas. So apa kesan dia? Apa yang bising-bising ni kan? Maka kita akan ada yang ini yang saya ingat mungkin Izzah cuba cuba terangkanlah. Ini yang disebut sebagai sandwich generation kan. Sandwich generation ini merujuk terutamanya kepada millennials dan juga Gen Z dan nanti Gen Alpha. Kami yang Gen X ni dah selamat, kami akan jadi retiree. Sekarang tahun 2026, 2043 berapa tahun? 17 tahun daripada sekarang tau. Do you know how quick is 17 tahun? 17 tahun ni kalau maksudnya tahun 2000 2007, 2008, 2009. Ha 2009. Baru aje. Is only, so maksudnya 17 tahun, kita sekarang ni 2026, 17 tahun tu 2009. 2009 is so recent to us, 2010 semua ni baru lagi. Bukannya lama ke apa kan. So kita hanya ada 17 tahun kan. Kesan utama kepada aging aged nation ni bila kita cross 2043 nanti maksudnya apa tahu? Ekonomi kita akan menghadapi masalah kerana satu, kita nak kena tanggung dua kumpulan yang menelan belanja yang besar: Satu, kumpulan pesara, dan tambah pula jangka hayat hidup nanti kumpulan pesara ni, generasi aku eh, kami dijangka hidup sampai 90 tahun tahu. So kalau bersara umur 60 kan, ada 30 tahun nak tanggung. Sedangkan sistem persaraan kita yang ada sekarang ini berdasarkan kepada jangka hayat tahun 70-an, 80-an dulu. Jangka hayat dulu sampai 72 tahun aje. Maksudnya kalau bersara umur 60, sistem persaraan dan tabung persaraan itu hanya perlu menampung untuk 12 tahun. Sekarang 30 tahun tau. Okey, so beban persaraan tu tinggi. Kemudian bila hidup lebih lama, maka sistem kesihatan, perkhidmatan kesihatan itu dia kena lebih banyaklah, kena lebih menyeluruh, ubatnya, sebab orang lagi lama kan. So lagi beban kepada kerajaan kan. Dan yang yang yang paling teruk ialah jumlah orang yang bekerja itu sebagai peratusan daripada jumlah populasi adalah lebih rendah daripada sekarang. So you have a situation yang dipanggil sandwich generation, millennials ke bawah ni, millennials, Gen X, Gen Alpha ni kan, dia dah dahlah kena tanggung diri dia dan masa itu harga barang semua mahal semua kan, competition, dia dahlah kena tanggung diri dia. Dia pula kena tanggung generasi pak dia macam aku, datuk dia semua yang tak mati-mati ni. Yang makin lama makin membesar tak mati-mati kan. So therefore, the strain on them dari segi berapa jumlah cukai yang dia kena bayar semua tu kan, maka lebih tinggi. Dan itulah yang dialami oleh negara-negara yang telah pun sampai kat situ. Apa nama ni Jepun, Korea, China is going through that, Singapore. In fact, India is moving very quick towards that juga tahu kan. So kita semua tahu juga memang dah tak boleh nak dielakkan memang gaya hidup budak-budak sekarang yang generasi muda, nak marah dia pun tak boleh, dia kahwin lebih lambat. Sekarang kahwin umur 30, 28 tu biasa aje. Kemudian dahlah dia kahwin lambat, kemudian anak tak banyak. Dua orang, tiga tu dah kira banyak. Nak salahkan dia orang pun tak boleh juga, aku kahwin umur 34 anak seorang. So aku mendahului millennials dan juga Gen Z semua ni kan. It's a lifestyle, it's our life choices dan macam itulah di seluruh dunia kerana mereka merasakan tanggungan untuk kahwin dan anak itu terlalu mahal, lebih baik tak berkeluarga kan. So all this happening and is an iceberg that we as a country is a Titanic marching steadily tahu dalam tempoh 17 tahun daripada sekarang. So kita kena lakukan macam-macam tau kan so and I don't think we are doing enough lah. Okey, itu pada satu satu sudutlah dari segi aging nation. Ini dari segi perspektif kenapa RMK-13 meletakkan reformasi pendidikan sebagai paling penting yang tiba-tiba habis cerita Ceplos pasal campur tangan Fadhlina ni semua kan. Dia bermula daripada masalah negara itu. Itu satu masalah negara kan. Satu lagi masalah ialah yang kita tunjukkan tadi iaitu keberhasilan dan mutu pendidikan kita ini memang di belakang walaupun kita berbelanja lebih guru pada angkanya mencukupi semua kan. Satu perkara yang bila kita bandingkan ialah dari segi perkembangan minda kanak-kanak, dia perkembangan yang yang yang paling penting ialah pada umur 4 ke 9 tahun. Jadi pra-sekolah itu cukup penting. Kerana you know if you psychologically, physiologically kalau contohnya pada umur 4-5 tahun itu dia sudah ada minat belajar, dia dah boleh didedahkan kepada pembelajaran, maka itulah pertumbuhan yang paling kritikal. Sebab itu eh kalau ikut tadi budak-budak eh toddler lah, anak-anak kecil ni kan, the best time untuk dia pick up bahasa ialah umur 4-5 tahun. You letak dia contohnya dekat satu keluarga ke yang bercakap bahasa yang completely different, actually dia boleh pick up bahasa tu. Kita nak suruh ajar pada umur aku belajar Mandarin, memang nayalah kan. So 4-5 tahun tu very important eh. Tambah pula di Malaysia, dia dah jadi satu masalah sosial dan masalah ekonomi yang mana oleh kerana tidak ada perkhidmatan pra-sekolah yang universal dan percuma kepada rakyat, maka untuk keluarga muda, tanggungan membayar tadika, taman asuhan, preschool ni dah jadi mahal. Satu orang anak RM400 tu kira murah dah. Kalau di kawasan bandar, dia boleh jadi RM600, RM700. Kalau yang mahal sikit sampai lebih RM1,000 kan. Lagilah dia tak nak ada anak. Dan kalau dia tak nak ada anak, lagilah kita ada masalah, lagi cepatlah kita lagi menua. Bila kita jadi negara menua lagi cepat, potensi ekonomi kita lagilah terbantut. So it's all masalah yang berangkai kan. Jadi atas sebab itulah, maka ada satu pendekatan yang sebenarnya kalau kita laksanakan dengan baik, dia menyelesaikan banyak masalah-masalah berangkai ini dari segi masalah kos sara hidupnya kan dengan pra-sekolah, kemudian dari segi perkembangan kanak-kanak dan juga pendidikan supaya kita membaiki mutu pendidikan kita, kemudian dari segi pertumbuhan ekonomi kita untuk memastikan bahawa kita cukup modal insan untuk menggerakkan ekonomi kita untuk ini 17 tahun tak lama ni tau untuk satu generasi akan datang kan, dan juga untuk memastikan bahawa untuk berlaku adil kepada Gen Z, millennials, Gen Alpha ni, kita tak bebankan mereka masa orang macam aku, Anwar Ibrahim, Fadhlina tua nanti tau kan. So that is the thrust of RMK-13. Jadi memanglah aku ketuk meja macam biasalah kan. Awal-awal tu memang cerita belakang tabir.
 
 [2:04:16] Rafizi: Memang ditolak mentah-mentahlah kan, ditolak mentah-mentah kan. Dan saya ingat saya kena dua tiga kali tau pergi jumpa PM sendiri berkeras, cakap, "Yang ini saya takkan back off. You need to sit down dengan Kementerian Pendidikan. It has to happen." Dan teras kita ialah pendidikan pra-sekolah sebenarnya. So whatever we do, kita kena pastikan bahawa pendidikan pra-sekolah secara universal dan percuma adalah keutamaan nombor satu negara. Bila dia dah masuk di dalam RMK-13 dan dia jadi keutamaan nombor satu negara, maka di peringkat Kementerian Ekonomi lagi, perlulah memperuntukkan wang yang secukupnya untuk memastikan perkara itu berlakulah. Kalau nak bina 1,000 sekolah, binalah 1,000 sekolah, potonglah yang lain, buat sekolah. Kementerian Kewangan, kalau dah ada 1,000 sekolah, jangan bagi alasan tak cukup duit untuk menggaji kakitangan guru yang baru because it's a national mission. That was the the thinking lah kan. Tapi yalah, dia jadi turf war lah kerana Kementerian Pendidikan daripada awal tak berminat dengan pra-sekolah ni.
 
@@ -469,11 +467,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:13:57] Rafizi: Kita tak boleh lari daripada apabila kita melaksanakan sesuatu yang besarlah. I think this one is big. Dan kalau dia berjalan dengan baik kan dan dia membawa hasil yang baik 20-30 tahun nanti kan, mungkin Fadhlina jadi Menteri Pendidikan yang akan paling dikenang. Ha. Because it's the biggest reform yang kita buat daripada zaman Day One Merdeka tau. You know we are trying to reset the clock kan. Jadi ini bukan soal tukar buku teks ni, ini generational game. Jadi untuk membuat sesuatu yang generational game seperti ini, kita tak boleh lari daripada transisi. Fasa itu tak boleh buat kerana kalau kita tak boleh lari daripada pelaksanaan berfasa kan. Sebab contohnya kalau kita tak buat secara berfasa, maka dia akan ada satu tahun yang mana kohort untuk darjah satu itu meningkat sekali ganda. Sebab budak 7 tahun pun start masa itulah, dan budak 6 tahun pun start masa itulah kan. Dan maksudnya kohort saiz itu untuk sampai budak-budak tu habis belajar, dan kalau pengajian sekolah rendah 6 tahun, sekolah menengah 5 tahun kan, untuk apa nama ni 11 tahun, maka kita perlukan fasiliti yang double the normal size. Sebab kohort itu kalau dibuat sekaligus konon untuk mengelakkan macam Syed Saddiq kata disparity, inequality semua ni kan, dia tak masuk akal for you to build double the capacity untuk memenuhi keperluan satu kohort saja. Sebab kohort tu will move daripada darjah satu ke darjah dua, ke darjah tiga. Lepas tu kelas-kelas yang lain tu bila the next kohort masuk, dia dah half the capacity kan. Jadi kita memang tak boleh lari daripada melaksanakannya secara berfasa. Jadi yalah saya simpatilah kalau kalau Fadhlina kena hentam pasal pelaksanaan berfasa. Even if I'm the Education Minister, memang itulah jalannya, kita kena buat secara berfasa. Bezanya ialah I think for whatever reason kerana KPM ni dia macam allergic sikit pra-sekolah ni, jadi saya rasa sepatutnya mereka tumpu kepada pra-sekolah. Build the capacity kepada pra-sekolah, jadi bila pra-sekolah orang akan berlumba-lumba nak masuklah kerana dia percuma, dia tak mahal semua ni kan, and put a lot of money in there because itu kill two three birds with one stone. Dia akan membantu kos sara hidup keluarga, tumbesaran apa nama ni kanak-kanak semua kan. Jadi problem kapasiti untuk masuk umur 6 tahun tu, dia akan solve by itself a lot of it. Kerana memang budak-budak tu dah masuk umur 5 tahun dan bila you besarkan, you jangan fikir pasal darjah satu semata-mata, fokus kepada kapasiti pra-sekolah kan, then that should balance it lah. Tapi kita tak boleh lari daripada pelaksanaan secara berfasa. Kita masa buat RMK-13 dulu, kita tak bincanglah pelaksanaan in detail kerana itu adalah bidang kuasa Kementerian Pendidikan. Bidang kuasa Kementerian Ekonomi ialah sebagai perancang dasar jangka panjang, kita buat dasar begitu kan. Tapi sebab itulah juga salah satu daripada reformasi pendidikan di dalam RMK-13 ialah penubuhan Majlis Pendidikan Negara kerana dia perlu merentasi semua kementerian. Kementerian Pendidikan tak boleh planning secara silo dah lepas ni. So dia nak buat secara berfasa ni kan, dia memerlukan Kementerian Kerja Raya, Kementerian Ekonomi, dia memerlukan mungkin KKDW dan yang lain-lain semua kan. Dan planning dan phasing in untuk habis satu transitional cohort ini, adakah ambil masa 3 tahun, 4 tahun, yang itu akan sampai satu fasa yang mana semua kanak-kanak akan bermula pada umur 6 tahun kan. So dan saya harap rakyat pun kita kena realistiklah, benda ni tak boleh on and off switch. Dan kita nak selesaikan masalah yang besar banyak ni, mutu pendidikan, aging nation, economy, job semua kan, takkanlah kita dengan hanya satu tahun boleh selesai semua. That's why it has to be a generational national mission kan. Jadi sama ada perlu buat, bagi saya kalau kita tumpu kepada pra-sekolah dan debottleneck kapasiti pra-sekolah itu secepat sebanyak yang mungkin, dia tak timbullah soal ujian diagnostik pula nak tengok bersedia ke tak bersedia. So tak timbullah soal apa nama ni oh nanti anak orang kaya lebih bersedia, lepas exam umur 6 tahun dah nak kena ambil exam semua. Kerana it's a natural progression, dia dah memang start pra-sekolah di sekolah itu pada umur 5 tahun, lepas tu dia masuklah 6 tahun kan. Tapi yang missing yang sebab tu saya tak tahu cerita sebenar, but my guess is timbulnya cerita ujian diagnostik semua ni ialah kerana apprehension Kementerian Pendidikan pasal pra-sekolah. Mungkin perkara itu belum diselesaikan pun lagi di peringkat kerajaan, ni macam mana ni? Nak buat ke tidak pra-sekolah ni? But my caution is kalau teruskan dengan umur 6 tahun ini tanpa pra-sekolah, then memang akan ada masalah pelaksanaan. So orang akan tanyalah, "Eh macam mana nak buat sekolah banyak-banyak semua ni kan?" Sebab itu kita kena ubah sepenuhnya our overall philosophy kan. Saya tanya soalan, satu bilik darjah ni Kementerian Pendidikan belanja secara purata berapa? I think now eh satu bilik darjah ni RM1 juta lebih tau, average cost dia. Even more I think. Sebab satu sekolah kebelakangan ini normal harga dia RM40-50 juta satu sekolahlah kan.
 
-[2:21:06] Speaker 3: And and spek dia masih sama daripada zaman dahulu sampai sekarang. So maksudnya...
+[2:21:06] Farhan (Pa'an): And and spek dia masih sama daripada zaman dahulu sampai sekarang. So maksudnya...
 
 [2:21:11] Rafizi: Lebih kurang samalah. Yalah hargajelah makin naik makin naik inflasilah.
 
-[2:21:14] Speaker 3: Tak ada tak ada new teknologi...
+[2:21:14] Farhan (Pa'an): Tak ada tak ada new teknologi...
 
 [2:21:17] Rafizi: Don't think so. Kalau saya tanya selalunya jawapan yang saya dapat, "Harga sekarang dah mahal YB, besi dah mahal, simen dah mahal." My problem is that kerana sekolah persendirian Cina, dia boleh buat half the price. Kan, so there's always that question lah. Tapi maksudnya kalau kita nak bina secara cepat dalam 2-3 tahun, kita tak boleh dah guna secara konvensional. Sebab tu tadi jawapan Timbalan Menteri Pendidikan, Wong Kah Woh tadi, dia ada menyebut dan dan yang itu yang itulah kita masukkan di dalam RMK-13. Maksudnya for a generational national mission seperti ini, kita tak boleh buat business as usual. Nak sediakan dokumen tender sampai 3-4 bulan, lepas tu nak menilai tender sampai 3-4 bulan lagi, lepas tu nak bina sampai 2-3 tahun, lepas tu nak lengkapkan 1 tahun lagi, lepas tu nak tunggu guru-guru Kementerian Pendidikan Kementerian Kewangan bagi penjawatan guru-guru 1 tahun lagi. Alih-alih 1 sekolah ambil masa 5-6 tahun baru boleh buka, tak bolehlah macam tu. Sebab itu kena buat IBS secara besar-besaran. Kalau China boleh bina hospital 2 bulan, it can be done. Ini bukan buat sekolah baru ni, ini tambah kapasiti. Of courselah akan ada soal kekangan tanahlah semua ni kan, let's crack our head togetherlah. Sebab itu ada Majlis Pendidikan Negara tu. So contohnya dalam tu kena ada KKR, dalam tu kena ada MOF, dalam tu kena ada Kementerian Ekonomi supaya bersetuju awal-awal jumlah banyak ini, satu sekolah banyak ini, kita buat secara IBS besar-besaran, spek macam ini, kena siap dalam tempoh 6 bulan contohnya. Nak siap macam mana 6 bulan? Then maksudnya most probably kena modular. Then kalau tak cukup contohnya kalau tak ada kapasiti untuk buat modular IBS, IBS ni ada banyak jenis. Kalau tanya kerajaan, kerajaan akan kata, "Kami dah buat IBS." So aku tanyalah yang mana IBS yang dah buat ni? "Culvert kita buat. Longkang kita buat." So maksud itu prefab. Bila orang sebut pasal IBS IBS ni, orang selalunya refer kepada modular construction. Kalau tengok yalah di China, di Eropah semua kan, dia kalau buat kondo tu dia kalau katakanlah dia buat bangunan 10 tingkat kan lepas dia buat foundation semua kan, dia stack macam Lego aje. Mari satu dinding gang, mari satu dinding. Dan dia tak perlukan pekerja-pekerja asing yang buruh ni, dia hanya perlukan technician dan engineer yang skru, skru skru skru. Itu juga adalah kehendak ekonomi kita kerana budak-budak kita latihlah dia TVET macam mana pun, dia tak nak jadi buruh binaan. Tetapi kalau dia pakai coverall, dia pakai mesin macam DIY, dia nak ah kan. So kalau kita go into a national mission yang buat prefab besar-besaran, sorry what I meant not prefab, IBS modular besar-besaran 4-5 tahun, then I think hopefully kita boleh meet as much capacity as possible lah. Tapi jangan serahkan benda tu kepada Kementerian Pendidikan bulat-bulat, letihlah dia, dia tak boleh buat. Sebab Kementerian Kerja Raya kena ubah semua, Kementerian Kewangan dari segi tender dan perolehan kena ubah semua, dan kena tengok dalam pasaran, GLC kena tengok. Kalau contohnya tidak ada modular IBS, then if it takes government to invest untuk membina kilang-kilang ini, then you have to do it lah kan. Jadi semua perkara ini saya ingat memanglah Datuk Seri Anwar tak boleh nak umum semua satu-satu. So but I hope dia kena ada project management team. Dia tak boleh nak nak umum saja and then serahkan kepada Kementerian Pendidikan pandai-pandai kamu, it's not going to happen. There must be one project management team yang menguruskan merentasi semua ni dan tukar semua ni sebagai satu national project. Only then I think we can be able to go through the transition dalam tempoh 3-4 tahun.
 
@@ -489,7 +487,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:28:28] Rafizi: Ha okey, baguslah, kesian kat aku. Kau tak cerita lagi kau nak resign ni ha.
 
-[2:28:35] Speaker 3: Ada Sam lagi, Sam pengerusi...
+[2:28:35] Farhan (Pa'an): Ada Sam lagi, Sam pengerusi...
 
 [2:28:37] Rafizi: Oh ada Sam eh, last sekali kan.
 
@@ -501,37 +499,37 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:28:49] Rafizi: Then finally inilah okey ya. Kita sebenarnya sekarang duk bergaduh cerita umur 6 tahun, cerita sekolah tak cukuplah, cerita tu, sebenarnya itu hanyalah physical challenge, itu hanya logistical challenge tau. The real reform ialah ini.
 
-[2:29:10] Speaker 3: Silibus.
+[2:29:10] Farhan (Pa'an): Silibus.
 
 [2:29:11] Rafizi: Which is the content. Yang kita cakap tadi tu semua hardware kan. Hardware you know we have to go through it lah kan, buatlah apa yang patut kan. I mean easy for me to say lah, aku bukan menteri. Tapi kalau aku menteri, memang macam nilah aku duk ketuk mejalah kan semua kan. And I will call and summon everyone, aku akan potong bajet kementerian lain untuk bina sekolah contohnya. I mean that's what I would have done sebagai Menteri Ekonomi. Minta maaf tahun ini bajet kamu potong potong potong potong yang itu tak boleh ini, because we have to build 1,000 new preschool contohnya kan. But kalau kita berjaya buat yang itu dengan baik pun, we cannot run away daripada soal silibus, dari soal kaedah pendidikan and that berkait rapat dengan mutu guru. So saya berharap walaupun tidak diumumkan di dalam Rancangan Pendidikan Malaysia, RPM ni, saya berharap apa yang telah dimasukkan di dalam RMK-13 iaitu reformasi berkaitan dengan latihan, kemahiran dan pendidikan guru itu perlulah diteruskan. And I'm hoping akan ada pengumuman-pengumuman baru. Sebab itu saya duk tunggu juga dokumen penuh ni, dah keluar ke belum?
 
-[2:30:33] Speaker 3: So far tak jumpa lagi.
+[2:30:33] Farhan (Pa'an): So far tak jumpa lagi.
 
 [2:30:34] Rafizi: Kita cari pun tak dapat lagi kan. Tapi peliklah, macam mana ada ringkasan eksekutif tak ada dokumen penuh?
 
-[2:30:40] Speaker 3: Selalunya dia circulate dua-dua, so...
+[2:30:40] Farhan (Pa'an): Selalunya dia circulate dua-dua, so...
 
 [2:30:42] Rafizi: Ha, dia circulate dua-dua sepatutnya kan. Macam kita buat RMK kan, tebal macam ni kan, tapi kita bagi ringkasan eksekutif tu sebab kesian orang nak baca tebal. So ini kali pertama yang keluar ringkasan eksekutif, kita duk main cari-cari mana dokumen penuh. Is it just is it just me or memang tak ada lagi kan? So akhirnya satu perkara yang paling sensitif dan ini akan mengujilah Fadhlina ataupun mana-mana Menteri Pendidikan selepas ini ialah soal reformasi silibus kerana reformasi silibus itu berkaitan rapat juga dengan guru-guru dari segi mutu guru, pengambilan guru, tangga gaji guru, pembukaan profession guru lebih meluas kepada semua kan, kerana itu semua politically explosive. Tukar silibus akan ada mata pelajaran yang perlu dikurangkan ataupun waktu yang perlu dikurangkan, yang itu akan buat hal kan. Guru contohnya, kalau perlu melalui latihan baru ke ataupun perlu melalui pensijilan berterusan, kita panggil CPE lah, continuous professional education, mungkin guru tak suka. Sebenarnya salah satu cadangan oleh Kementerian Ekonomi dalam RMK-13 yang akhirnya saya mengalahlah, sebenarnya kita nak nak ada certification, open and independent certification of cikgu sama macam doktor, peguam, akauntan semua. Maksudnya guru-guru setiap tahun dia kena melalui yalah memenuhi syarat-syarat tertentu untuk dia memperbaharui sijil dia mengajar.
 
-[2:32:39] Speaker 3: Macam practicing license.
+[2:32:39] Farhan (Pa'an): Macam practicing license.
 
 [2:32:41] Rafizi: Macam practicing license. Kalau tak ada practicing license itu, maka dia tak boleh mengajar kerana cadangan kami itu juga membantu Kementerian Pendidikan menguruskan masalah guru-guru bermasalah. Yang ponteng tak ponteng semua ni, tapi sampai kesudahlah Kementerian Pendidikan tak nak. Jadi tak apalah saya terpaksa mengalah bab itulah. But when it comes to dari segi what is next kan, you tak boleh lari dari segi soal mutu silibus dan mutu pengajaran. Dan yang ini juga setakat ini kita tak ada banyak maklumatlah daripada RPM dan kita kena tunggulah. Saya harap ada dalam dokumen penuh yang akan di diterbitkan nanti, diedarkan nanti. Kalau tak ada, then kita kena terus tekan. Because the facts speak for itself lah tadi dari segi PISA, dari segi jumlah waktu mengajar, waktu pembelajaran untuk mathematics kan. Kalau perkara-perkara itu tak diubah, mula darjah enam pun mula umur 6 tahun pun kesian juga budak-budak ni, jem juga dia.
 
-[2:33:56] Speaker 3: Tapi tapi YB, saya ada satu soalanlah. Mungkin you can choose not to share. Masa perbincangan RMK-13 tu, adakah Kementerian Pendidikan perasan that there's an inherent problem dengan sistem pendidikan ataupun mereka masih business as usual? Sebab I mean if if any orang yang waraslah, boleh nampak ada isu besar dan kalau saya sebagai penjawat kalau saya penjawat awam, I would take it upon myself to try to correct lah, even if it's to rip off the band-aid.
+[2:33:56] Farhan (Pa'an): Tapi tapi YB, saya ada satu soalanlah. Mungkin you can choose not to share. Masa perbincangan RMK-13 tu, adakah Kementerian Pendidikan perasan that there's an inherent problem dengan sistem pendidikan ataupun mereka masih business as usual? Sebab I mean if if any orang yang waraslah, boleh nampak ada isu besar dan kalau saya sebagai penjawat kalau saya penjawat awam, I would take it upon myself to try to correct lah, even if it's to rip off the band-aid.
 
 [2:34:33] Rafizi: But you are not. You're not penjawat awam ah, so maybe we think differently lah. Resistance tu is real lah kan, so saya tak sampai ke peringkat pegawailah. Peringkat pegawai tu diuruskan oleh pegawailah, but the report that I get, the resistance was real lah kan. Jadi to be fair lah, I mean I would be careful not to just say it's Kementerian Pendidikan. Dia sebenarnya masalah kita sebagai sebuah negara dan sebagai sebuah kerajaan, we are very defensive kan. Jadi dan budaya orang Melayu juga, jiran dengan jiran, aku tak sentuh anak kau, kau jangan sentuh anak aku. Kan. So kalau ada masalah anak kita, ada masalah semua, kita sembunyi betul-betul daripada semua orang, jangan bagi orang tahu ha kan. Itu sebenarnya culture, culture kita. Jadi it was expected lah of kepimpinan Kementerian Pendidikan to resist all this. Dan sama ada mereka rasa tak ada masalah ke ataupun mereka tak nampak pencapaian PISA dengan TIMSS itu tersasar jauh daripada Education Blueprint, mereka tak nampak angka-angka yang kita bagi, that one saya tak sempat nak tanya directly lah. And even if I'm in the meeting, saya rasa tak guna untuk tanya dia orang. Because it's by nature orang kita akan jadi defensive. Sebab itu kalau orang tanya kenapa nak hentam di luar kan? Kerana bagi kritikan di dalam, menegur semua tu, never gets anything done, my experience lah. You can only push it dari kementerian you. Okey, kalau Kementerian Ekonomi, you boleh bang the table yang dalam Kementerian Ekonomi kalau you kita kata kepada pegawai-pegawai kita, "I want you to run 10 times faster," dia akan cuba larilah because you're the boss untuk kementerian itu kan. Tapi kalau mula merentas kementerian, mula bidang kuasa orang lain ke apa, dia memang shut the door terus. You ada pandangan pun macam my case dulu, kalau ada pandangan pun, itu dah kira campur tangan. Yang itulah yang Anwar Ibrahim selalu ungkit, "You ni orang tak sukalah, sebab you suka campur tangan. Ramai menteri datang complain kat saya ni." I was hoping for him to say, "Well, if what I say is correct, it's your job as Prime Minister to resolve it. Don't tell me to basically just stay duduk kat corner. After all, I'm basically covering your back more than anything else kan." Tapi dia dah jadi culture. So there's no point nak kata ini Kementerian Pendidikan ke apa, I think mana-mana kementerian begitu. Tak boleh nak ditegur, tak boleh nak disentuh, tak boleh ada feedback. Kau jaga kawasan kau, kau jaga territory engkau, aku jaga aku punya tu. Kita semua berpeluk cium, kita semua bagus, walaupun rakyat kat luar maki. And that bubble has to burst.
 
-[2:37:46] Speaker 3: Tapi masa pembangkang bukan main lagi, ini kena buat, ini kena buat, ini kena buat. Sekarang...
+[2:37:46] Farhan (Pa'an): Tapi masa pembangkang bukan main lagi, ini kena buat, ini kena buat, ini kena buat. Sekarang...
 
 [2:37:52] Rafizi: Tak ada weh. Ya ke masa pembangkang macam tu?
 
-[2:37:55] Speaker 3: Ah ada. I I also just pulled out manifesto Pakatan Harapan as well.
+[2:37:55] Farhan (Pa'an): Ah ada. I I also just pulled out manifesto Pakatan Harapan as well.
 
 [2:37:59] Haziq: Whole of government approach tu memang susahlah nak buat technically.
 
 [2:38:02] Rafizi: Whole of government approach itu adalah ayat-ayat consultant. Ayat-ayat consultant kan. Jadi sebab itu aku kalau ada orang datang aje Bank Negara ke, siapa-siapa ke datang dia letak slide kata "whole of government approach," aku tengok aje because I know orang yang cakap itu juga, agensi itu juga kalau kau sentuh dia, dia pun defensive juga. Tapi dia suruh semua orang whole of government approach lah. Sebab ayat consultant kan, sebab consultant tak payah buat kan. So so I think culturally we have a long way to go. Sebab itu kalau orang tanya, "Why I'm harsh on Anwar Ibrahim?" Because it's on his plate. He's the only one who can actually resolve this silo attitude. Dia seorang aje yang boleh bawa semua yang kata, "Okey, I need you to do this this this this, work together. I want this, you have to trust this, kementerian tu buat." Itu kerja dialah. Kan, jadi when that doesn't happen dan kita sampai ke peringkat ini, then you know kita pakai cap rakyat biasa, ahli Parlimen biasa, penganalisa politik biasa kan. Then kita nak tunjuk kat siapa? I mean obviously the buck stops at him lah, the Prime Minister. Kan, dan dalam keadaan yang pembangkang tidak berminat untuk sentuh benda-benda macam ni sedangkan ini isu yang paling penting untuk rakyat, then you know, I mean okeylah, kita buat kat podcast lah.
 
-[2:39:36] Speaker 3: Siapa siapa Shadow Education Minister pembangkang?
+[2:39:36] Farhan (Pa'an): Siapa siapa Shadow Education Minister pembangkang?
 
 [2:39:40] Haziq: Radzi Jidin eh?
 
@@ -541,17 +539,17 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:39:44] Rafizi: The fact that kita tak tahu...
 
-[2:39:48] Speaker 3: Okeylah. Bukan Saifuddin Abdullah ke?
+[2:39:48] Farhan (Pa'an): Okeylah. Bukan Saifuddin Abdullah ke?
 
 [2:39:50] Haziq: Tu Pengajian Tinggi eh?
 
 [2:39:51] Rafizi: Ya ke? I don't know, siapa? Google Google.
 
-[2:39:56] Speaker 3: Kejap. Betul, Datuk Seri Saifuddin Abdullah. Both Pendidikan dan Pengajian Tinggi.
+[2:39:56] Farhan (Pa'an): Kejap. Betul, Datuk Seri Saifuddin Abdullah. Both Pendidikan dan Pengajian Tinggi.
 
 [2:40:04] Haziq: Oh dia buat dua-dua. Okey baik baik. Okey.
 
-[2:40:07] Speaker 3: Baru kita tahu today.
+[2:40:07] Farhan (Pa'an): Baru kita tahu today.
 
 [2:40:09] Haziq: Kita boleh habiskan YB?
 
@@ -561,7 +559,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:40:36] Rafizi: I think dia just main tiga empat lima kolam dan you tak boleh blame dia. Okey. Kan, apa nama ni dalam apa-apa perkara pun, de-risking maksudnya ada option. The more option you create maksudnya the lower risk profile you have to manage kan. Jadi kalau kita jadi UMNO lah masa setahun setahun setengah lagi, untuk dia manage risk profile dia, dan dia kena buka seberapa banyak option yang dia adalah. Dan option dia panggil apa tu? Yang dia kata tu, bukan payung besar, dia panggil apa?
 
-[2:41:20] Speaker 3: Rumah Bangsa.
+[2:41:20] Farhan (Pa'an): Rumah Bangsa.
 
 [2:41:21] Haziq: Rumah Bangsa.
 
@@ -581,11 +579,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:45:20] Haziq: Okey baik YB. Mungkin kita...
 
-[2:45:23] Speaker 3: To to the final guest of our...
+[2:45:23] Farhan (Pa'an): To to the final guest of our...
 
 [2:45:25] Haziq: Ya, menjemput tetamu kita. Kita tak ada Tan Sri Azam Baki lah kerana agak sibuk. Jadi kita ada...
 
-[2:45:33] Speaker 3: Kempen PR dia...
+[2:45:33] Farhan (Pa'an): Kempen PR dia...
 
 [2:45:35] Haziq: Pandai eh. Ha ya, dah diri lama.
 
@@ -595,7 +593,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:45:55] Rafizi: Yalah, ambillah tindakan. I'm more than happy sebenarnya kan. Cuma Mat Salleh katalah, it's a bit rich lah sebab kalau nak ambil tindakan, selalunya kalau PKR ke parti-parti manalah, diambil tindakan kerana merosakkan nama baik parti. Antara aku dengan Shamsul Iskandar, aku rasa dia lagi banyak merosakkan nama baik partilah daripada aku. Paling kurang aku tak minta pound sterling orang kan. Tak ada cerita, jadi dia jadi bahan troll ni aku ingat nak masuk dalam pilihan raya nanti, secara berterusan keluarlah kan. Jadi itu haklah, hak dia. Tapi I was very impressed. Beraninya dia tunjuk muka kan. What was he thinking? Kan, kalau kita selepas dah jadi bahan tumpuan semua ni kan, I think he would have done the party a big favor by lying low.
 
-[2:47:04] Speaker 3: Mungkin sebab kalau kita nampak beberapa minggu dia diam dan sekarang ni tiba-tiba muncul balik, mungkin ada nak build momentum untuk PRN Melaka?
+[2:47:04] Farhan (Pa'an): Mungkin sebab kalau kita nampak beberapa minggu dia diam dan sekarang ni tiba-tiba muncul balik, mungkin ada nak build momentum untuk PRN Melaka?
 
 [2:47:19] Rafizi: Well, last sekali dialah yang membina momentum PRN Melaka dengan desas-desus kalau menang dia akan menjadi Ketua Menteri. Menanglah, jadilah Ketua Menteri dengan kosong kerusi. Kan, jadi saya tak well, I can understand lah, saya ingat sebab dia rasa he must defend himself lah kan. Tapi hari tu I tak tengok penuhlah podcast ni, dia ada sentuh ke tidak pasal kes dia, pasal Albert Tei? Dia ada bagi penerangan ke tidak?
 
@@ -603,13 +601,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:47:59] Rafizi: Tak sebab yang yang jadi klip yang duk viral ni hanyalah part ini. Sebab kalau contoh nampak sangat kita tak tengok podcast tulah kan. Sebab kalau he he wants to do the he wants to to do the party a favor, dia hanya ada dua jalanlah bila dia muncul ni: Sama ada dia berjaya meyakinkan diri bahawa dia tidak terlibat dan itu satu fitnah. Tapi nak kata fitnah, kawan baik kepada bos dia, Tan Sri Azam Baki yang dakwa dia, yang tangkap dakwa dia pun payah juga kan. So sebab sampai sekarang I have not come across any substantive denial or explanation lah pasal tuduhan-tuduhan itu kan. Kalau dia nak berlaku membuat kebaikan kepada parti dengan muncul ni, sepatutnya dia selesaikan masalah dia itulah, masalah pasal tuduhan tu kan. Dan satu lagi perkara yang logik kalau dia nak membantu parti ialah dia jangan keluar gualah. Duduk diam-diam kan. But the very fact yang dia datang dan dia berpolitik dengan menyerang macam ini kan, I don't think he's doing the party any favor lah. Aku enjoy aje baca semua komen tu.
 
-[2:49:34] Speaker 3: Actually saya perasan yang back up dia hanya adalah ceplos-ceplos dan kebanyakan rakyat biasa maki.
+[2:49:34] Farhan (Pa'an): Actually saya perasan yang back up dia hanya adalah ceplos-ceplos dan kebanyakan rakyat biasa maki.
 
 [2:49:42] Rafizi: So I I enjoyed reading the comments lah kan. So ini kadang-kadang ingatan kepada kita orang politiklah, myself kan. We really need to know how to read the room. Kan, so kalau baca komen semua tu, I think the signal is quite clear lah. Jadi I don't know, itu terpulang kepada beliau. Dia nak buat laporan ke, apa nama ni Lembaga Disiplin nak ambil tindakan ke. You know I am in a very good spot now. Maksudnya kepada PKR, damn if they do, damn if they don't. I mean I love being in that spot. Maksudnya apa-apa pun PKR yang kena fikir, apa dia nak buat dengan Rafizi ni? Pecat pun ada masalah, gantung pun ada masalah, tak gantung pun ada masalah kan. And so it it doesn't affect me whatsoever lah. Dan lebih banyak Datuk Seri Shamsul Iskandar hadir buat podcast, sebenarnya lebih baik untuk saya.
 
 [2:50:49] Haziq: Okey baik.
 
-[2:50:49] Speaker 3: Nak betul-betul jemput dia sebagai guest ke?
+[2:50:49] Farhan (Pa'an): Nak betul-betul jemput dia sebagai guest ke?
 
 [2:50:52] Rafizi: No.
 
@@ -637,17 +635,17 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:51:51] Rafizi: Cakap ajelah, dia punya tarik nak buat suspen. Eh dah lambatlah. Aku nak balik ni ha.
 
-[2:51:57] Speaker 3: Dah tidur dah.
+[2:51:57] Farhan (Pa'an): Dah tidur dah.
 
 [2:51:59] Haziq: Setakat ini saya akan resign daripadalah sana lah.
 
-[3:00:04] Speaker 3: Oh bukan podcast ah? So saya tak payah cari moderator barulah.
+[2:52:03] Farhan (Pa'an): Oh bukan podcast ah? So saya tak payah cari moderator barulah.
 
 [2:52:07] Haziq: Ha, sebab saya tak nak menyusahkan Pak Mat.
 
 [2:52:10] Rafizi: Ini tengah tengah apa nama ni saham tengah naik ni kan, ramai sweethearts.
 
-[2:52:15] Speaker 3: So ramai komen emoji love love love love?
+[2:52:15] Farhan (Pa'an): So ramai komen emoji love love love love?
 
 [2:52:18] Haziq: Tak adalah.
 
@@ -671,11 +669,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:53:17] Haziq: Alah, pegawai menteri pun saya resign. Tak adalah. Over pula tahu.
 
-[2:53:20] Speaker 3: So betullah Haziq bukan kejar jawatan ataupun duit.
+[2:53:20] Farhan (Pa'an): So betullah Haziq bukan kejar jawatan ataupun duit.
 
 [2:53:26] Haziq: Tak adalah, lebih-lebih pula.
 
-[2:53:27] Speaker 3: Sebab kau resignlah, so is a proof to everybody.
+[2:53:27] Farhan (Pa'an): Sebab kau resignlah, so is a proof to everybody.
 
 [2:53:29] Haziq: Okeylah, bolehlah sikit-sikit.
 
