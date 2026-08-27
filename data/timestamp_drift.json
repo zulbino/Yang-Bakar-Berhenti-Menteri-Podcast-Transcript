@@ -56,10 +56,10 @@
   },
   "2025-12-12-ep26-reformasi-bukan-content-azam-baki-uec-felda-ybm-ep-26": {
     "status": "ok",
-    "samples_matched": 9,
-    "samples_not_found_nearby": 3,
+    "samples_matched": 8,
+    "samples_not_found_nearby": 4,
     "samples_total": 12,
-    "max_drift_seconds": 17,
+    "max_drift_seconds": 19,
     "flagged": false,
     "details": [
       {
@@ -68,29 +68,19 @@
         "drift": 0
       },
       {
-        "claimed": 230,
-        "actual": 216,
+        "claimed": 247,
+        "actual": 233,
         "drift": -14
       },
       {
-        "claimed": 284,
-        "actual": 273,
-        "drift": -11
+        "claimed": 441,
+        "actual": 422,
+        "drift": -19
       },
       {
-        "claimed": 470,
-        "actual": 456,
-        "drift": -14
-      },
-      {
-        "claimed": 678,
-        "actual": 666,
-        "drift": -12
-      },
-      {
-        "claimed": 883,
-        "actual": 874,
-        "drift": -9
+        "claimed": 827,
+        "actual": 810,
+        "drift": -17
       },
       {
         "claimed": 1022,
@@ -98,14 +88,19 @@
         "drift": -14
       },
       {
-        "claimed": 1152,
-        "actual": 1137,
-        "drift": -15
+        "claimed": 1699,
+        "actual": 1686,
+        "drift": -13
       },
       {
-        "claimed": 1394,
-        "actual": 1377,
-        "drift": -17
+        "claimed": 2776,
+        "actual": 2769,
+        "drift": -7
+      },
+      {
+        "claimed": 8518,
+        "actual": 8499,
+        "drift": -19
       }
     ]
   },

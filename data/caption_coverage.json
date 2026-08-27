@@ -178,21 +178,12 @@
   },
   "2025-12-12-ep26-reformasi-bukan-content-azam-baki-uec-felda-ybm-ep-26": {
     "status": "ok",
-    "baseline": 0.133,
-    "mean_coverage": 0.132,
+    "baseline": 0.248,
+    "mean_coverage": 0.236,
     "caption_end": 8826,
-    "dead_runs": [
-      [
-        4980,
-        7920
-      ],
-      [
-        7980,
-        8880
-      ]
-    ],
-    "worst_dead_run_seconds": 2940,
-    "flagged": true
+    "dead_runs": [],
+    "worst_dead_run_seconds": 0,
+    "flagged": false
   },
   "2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-": {
     "status": "ok",
