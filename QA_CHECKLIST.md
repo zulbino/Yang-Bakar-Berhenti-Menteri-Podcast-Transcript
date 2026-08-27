@@ -28,7 +28,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 - [x] 2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar
 - [x] 2024-08-26-ep05-yang-bakar-menteri-ybm-ep5
 - [x] 2024-09-30-ep06-yang-bakar-menteri-ep-6-rafizi-ramli-lim-sian-see
-- [x] 2025-05-10-ep00-podcast-yang-berhenti-menteri (models: raw.md=mesolitica/malaysian-whisper-medium-v2)
+- [x] 2025-05-10-ep00-podcast-yang-berhenti-menteri (models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5)
 - [x] 2025-06-20-ep01-yang-berhenti-menteri-1
 - [x] 2025-06-27-ep02-yang-berhenti-menteri-2
 - [x] 2025-07-04-ep03-yang-berhenti-menteri-3
