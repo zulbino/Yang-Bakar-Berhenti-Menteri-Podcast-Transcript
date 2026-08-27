@@ -410,7 +410,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Nik Nazmi:** Izan bertanding kali kelima ke enam, menang, berganti arwah Salahuddin. So macam dalam PAS pun banyak cerita-cerita tu. So I was so lucky, memang tak mimpi nak menang kat Selangor semua tu. Ya lah, ya lah waktu tu, tak ada orang nak tanya tu — mana orang kata "right time" lah. So nak kata I nak kata menyesal, kata tak fair lah, sebab I had it good — eh, segitu. Tapi of course, lalulah — tapi kita lalu, kita, I think compare dengan Ramanan tu, kita lalulah masuk lock-up, kita lalulah buat benda-benda tu kan. Untuk saya, ia mengajar kita dan kenal ramai orang. Dan ia bukan tentang Anwar — kalau nak fikir kita berjuang dengan Anwar, memang rugilah. Tapi kerana kita kenal dengan ramai orang biasa, dan beberapa daripada mereka akan menjadi sebahagian daripada bersama. Dan mungkin pengalaman tu kita akan gunakan lah. Tapi yes, kalau fikir kawan lain dah kaya, raya apa tu, then, ya lah, kita tak boleh — you know your choice, bila masuk politik patut cara betul, takkan kaya lah. Okay, baik-baik.
 
-**Haziq:** Mungkin kita masuk terus ke — di sebalik tabir, Bobby. Cuma sebelum tu, kalau saya boleh tanya sikit lah.
+**Haziq:** Mungkin kita masuk terus ke — di sebalik tabir, YB. Cuma sebelum tu, kalau saya boleh tanya sikit lah.
 
 **Rafizi Ramli:** Boleh, yang kau tanya kalau-kalau — memang kerja kau untuk tanya.
 

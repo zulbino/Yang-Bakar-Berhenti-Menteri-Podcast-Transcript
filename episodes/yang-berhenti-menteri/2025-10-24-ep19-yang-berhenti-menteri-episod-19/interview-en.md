@@ -12,7 +12,6 @@ hosts:
 - Host
 - Co-host
 guests:
-- Bobby
 topics:
 - Rafizi's batik dress habit
 - Minister's aide's 'fell asleep in toilet' social media controversy
@@ -472,35 +471,35 @@ That's why, if we look at it, before I became a minister in 2022, I had free-ran
 
 **Rafizi:** We admit it.
 
-**Bobby:** How would I know — as moderator, I'm just asking. The concept is like this...
+**Haziq:** How would I know — as moderator, I'm just asking. The concept is like this...
 
 **Rafizi:** Anything that's smaller and faster will make it better, okay. And back when I did my degree in electronic engineering, that was already the case, it's always about trying to get into shorter and shorter wavelength. Shorter wavelength means more power, and also you can pack more data into it. So as the world has become more digital — I'm not very sure about this discovery, but logically it is — when we switch to AI, robots, and all of these, the number of bits, the digital zeros and ones, it's a function of two things: one, how much data — zeros and ones — that you can pack; then, how fast it can move. So it's certain that if it packs zeros and ones, it's in wavelength. So if you have a high-powered wavelength, which means a much shorter frequency, it will enable the new generation of chips that can process a much higher capacity of data and also much higher speed, its frequency.
 
-**Bobby:** Okay, YB. Indeed as it's written here — "Rainbow Chips to build a bright future, spread out for precise timing detection and fast communication." That's it, to the listeners who aren't watching our faces. So with this, does it mean there's a big possibility we'll be closer to robots one day?
+**Haziq:** Okay, YB. Indeed as it's written here — "Rainbow Chips to build a bright future, spread out for precise timing detection and fast communication." That's it, to the listeners who aren't watching our faces. So with this, does it mean there's a big possibility we'll be closer to robots one day?
 
 **Rafizi:** It's the same as the first time people used semiconductors. But the risk — the challenge — is always to make it smaller and faster. And it's a function of frequency, because you transmit with frequency.
 
-**Bobby:** Frequency, okay, very good, clear. Second question, we have one more...
+**Haziq:** Frequency, okay, very good, clear. Second question, we have one more...
 
-**Bobby:** Skin cells turned into eggs — for women's fertility. But look, this technology is for people who might have fertility problems, so we can use human skin cells. To what extent can this technology give a positive impact, especially to address the problem of an aging nation? I know this question is big, but maybe you can share a little.
+**Haziq:** Skin cells turned into eggs — for women's fertility. But look, this technology is for people who might have fertility problems, so we can use human skin cells. To what extent can this technology give a positive impact, especially to address the problem of an aging nation? I know this question is big, but maybe you can share a little.
 
 **Rafizi:** That question kind of slipped — the moderator is trying hard. No, these are two different issues. This breakthrough can actually help fertility for people who have infertility problems — and it's a great strike, because fertility treatment... Although the problem of fertility is a big problem in the community, fertility treatment, which is really IVF, faced a challenge from the community and scientists themselves when there were those who tried it. I think the three scientists were from Cambridge, and — I can't remember — another university, Manchester I think. So they were the first ones to do IVF in the 60s, and it took them until the 1970s before it succeeded, because there were many challenges, since some scientists considered it un-Christian to do. So the fact that within 50 years from IVF, a skin cell can now become an egg — I think it certainly will help many families around the world, because fertility is a big issue.
 
 The question of an aging nation isn't purely about fertility. It's more about lifestyle and economic issues, because the younger generation feels it's not worth having children. Even if they do have children, because the cost is high, family sizes now around the world are much smaller — if they have children at all, it's one or two, compared to ten in the past. So it's not necessarily just fertility. An aging nation is a much bigger issue, because those who don't marry aren't unmarried because they're infertile — it's not that they can't have children, they simply don't want to marry. Fertility issues that are becoming more common are also partly due to lifestyle, because people are increasingly stressed — men, women — so conceiving is getting more difficult. So treatment like this, especially for those with congenital issues — meaning they were born with fertility problems, whether in terms of egg quality — this skin cell that can now become an egg will certainly help many people. So whether or not this will enable us to overcome the ageing problem — that I don't know, maybe we'll have to wait another 20 years.
 
-**Bobby:** Alright, alright, okay YB. Clear. Let's move to the final segment — we need to hurry, this is the last segment. We have a few more questions.
+**Haziq:** Alright, alright, okay YB. Clear. Let's move to the final segment — we need to hurry, this is the last segment. We have a few more questions.
 
-**Bobby:** First question from Muhammad Aslan: "Good evening YB Raf. Why has Liverpool's performance gotten worse lately? Are Liverpool's players still riding on last season's success?"
+**Haziq:** First question from Muhammad Aslan: "Good evening YB Raf. Why has Liverpool's performance gotten worse lately? Are Liverpool's players still riding on last season's success?"
 
 **Rafizi:** I don't know. I don't really follow it. I just wear the shirt, and support them when they lose — I only show up when they lose, to boost morale. I actually don't follow it. I have 24 hours a day; my headspace... in the past I had a lot of time, I followed everything — I even followed snooker — I didn't go to class for two or three days, watched people play snooker for 24 hours, I was quite a bad boy back then.
 
-**Bobby:** No lah, it's like being free — freedom, living on your own, right.
+**Haziq:** No lah, it's like being free — freedom, living on your own, right.
 
 **Rafizi:** So back then it was okay, but now I don't follow it. I don't even know why they keep losing — I follow even less now. So contrary to popular belief, politicians actually have very limited time. So I don't follow as much. Actually that day I just happened to wear it by coincidence — that Liverpool jersey, my wife and my child bought it for my birthday. So coincidentally I wore it that day, and that very night Liverpool lost. That's what I tweeted about, but I don't follow it and didn't even have time to ask ChatGPT.
 
-**Bobby:** Haa, okay okay, alright — at least YB admits it. But every time Liverpool loses, we can tag YB — I still have a Liverpool scarf, a Liverpool cap — let's make sure Liverpool loses so we can watch. Okay, next question.
+**Haziq:** Haa, okay okay, alright — at least YB admits it. But every time Liverpool loses, we can tag YB — I still have a Liverpool scarf, a Liverpool cap — let's make sure Liverpool loses so we can watch. Okay, next question.
 
-**Bobby:** From Ahjib: "Online business is affected by fake products or throwing away prices from foreign businesses such as China on TikTok, Shopee, Lazada, because there is no control or special act, causing them to be able to access the local market very easily. The local business is getting weaker and more dead. What should the government do?"
+**Haziq:** From Ahjib: "Online business is affected by fake products or throwing away prices from foreign businesses such as China on TikTok, Shopee, Lazada, because there is no control or special act, causing them to be able to access the local market very easily. The local business is getting weaker and more dead. What should the government do?"
 
 **Rafizi:** I don't know the detailed process within the government for this matter, and I'm not quite sure whether this jurisdiction falls under MITI or KPDN, or both. This is a problem that's growing in other countries too. That's why Indonesia, for example, took action — there was a time when they closed the TikTok shop. In the US, the tariffs given by Trump were partly targeted at things like this — that's why small items from China have started to be taxed.
 
@@ -510,11 +509,11 @@ But the question is, one is fake products — there are specific provisions for 
 
 So unless it comes — if it comes in a container that's different — but if, for example, it's sent as a small parcel, it's almost like sending a letter, from China. So how do you enforce the law — certainly, I agree we can't take this lightly or be in denial that this has no effect on local traders. That one I'll pass to MITI and also KPDN, especially from the perspective of fake products, imitation, or in terms of anti-dumping.
 
-**Bobby:** Okay, next question. We have Syafiq — I have an email from YB about this matter.
+**Haziq:** Okay, next question. We have Syafiq — I have an email from YB about this matter.
 
 **Rafizi:** Oh, really?
 
-**Bobby:** "How can reports of misconduct or manipulation at the public prosecutor's office be made effectively? What evidence is needed, and to whom should complaints be filed if trust in the organization itself is in question?"
+**Haziq:** "How can reports of misconduct or manipulation at the public prosecutor's office be made effectively? What evidence is needed, and to whom should complaints be filed if trust in the organization itself is in question?"
 
 **Rafizi:** The ministry involved has an integrity unit, and the purpose of having an integrity unit is so that if there's a whistleblower, a report of misconduct can be made. I think the evidence must be, if possible, a smoking gun — it's easier if there is a smoking gun and there are documents. And the integrity unit is partly PTD; sometimes there are also MACC officers there. That's the government design that needs to be in place.
 
@@ -528,9 +527,9 @@ I think understanding and consideration are important — otherwise we'll be bur
 
 So this is what I want to share with Saudara Syafiq — we can also try to understand being in their position; they need to sift through all this. That's the process I myself, if I were in that position, would go through — first I look at the impact; second... The third proof I want to see is whether it's just political-office infighting or not. So if there are many complaints, you take the one that really has a big impact on the public. Then the evidence has to be clear, and this is objective, not subjective.
 
-**Bobby:** Okay, very practical. Okay, YB — last question.
+**Haziq:** Okay, very practical. Okay, YB — last question.
 
-**Bobby:** Alif Salimi asks: how can parliament or any other party ensure that education reform remains sustained regardless of changes in government? Is it because the quality of reforms is usually poor that ministers always want to change the education approach?
+**Haziq:** Alif Salimi asks: how can parliament or any other party ensure that education reform remains sustained regardless of changes in government? Is it because the quality of reforms is usually poor that ministers always want to change the education approach?
 
 **Rafizi:** First, I think Malaysia is not exempt from a phenomenon happening around the world called populism. This populism phenomenon means that a government keeps changing, and when a new government comes in, it wants to show that it has a short gain or low hanging fruit. So, in the end, a lot of things that need to be changed are cosmetic things. That's not something that only happens in Malaysia. I recently read a long piece about the causes of populism in the world today.
 
@@ -548,30 +547,30 @@ Look, especially over the past 7-8 years, the succession of ministers who, altho
 
 So that's why one credit to UMNO — during UMNO's 50-plus years as the government, the Education Minister was actually one of the most senior ministers. That's why if you look at all our Prime Ministers, all of them had been Education Minister — from Tun Mahathir, before he became Deputy Prime Minister, he was Education Minister; then Pak Lah, I believe he was also Education Minister; Muhyiddin, Education Minister — only Ismail Sabri never was; Dato' Seri Anwar, Education Minister. So all Education Ministers had to be senior ministers. And I recall, it was only toward the end of Datuk Seri Najib's administration that the Education Minister was no longer a Vice President — Datuk Seri Mahathir Khalid at that time.
 
-**Bobby:** Mahathir Khalid, is it? Mahathir K?
+**Haziq:** Mahathir Khalid, is it? Mahathir K?
 
 **Rafizi:** Mahathir Khalid.
 
-**Bobby:** That's Higher Education?
+**Haziq:** That's Higher Education?
 
 **Rafizi:** No, that was the second Education Minister.
 
-**Bobby:** Yes, the second one.
+**Haziq:** Yes, the second one.
 
 **Rafizi:** That was during Tan Sri Muhyiddin's time, I think — Mahathir Khalid, not Mahathir K. Mahathir K was a Member of Parliament for Sungai Petani. Mahathir Khalid was the first one who wasn't a Vice President. Then it continued with Maszlee, then Radzi Jidin, and now Fadhlina. So I think, at the very least, we need to get that — the next prime minister needs to think about it. You need to put someone very senior who can command respect.
 
-**Bobby:** There's a question from YouTube — about basic education.
+**Haziq:** There's a question from YouTube — about basic education.
 
 **Rafizi:** Okay, let's pull that question back.
 
-**Bobby:** Who's being naughty? You think it's funny eh? You think it's funny? I don't think we want that to happen lah — next thing you know we'll have a PM who's always falling asleep in the toilet. So I don't think we want to go there lah.
+**Haziq:** Who's being naughty? You think it's funny eh? You think it's funny? I don't think we want that to happen lah — next thing you know we'll have a PM who's always falling asleep in the toilet. So I don't think we want to go there lah.
 
-**Bobby:** Before YB extends this further, let's close it here. That's all for this week. Thank you very much to everyone watching. Follow the channel and subscribe to Saudara Rafizi on YouTube, and also on other social media. We'll see you again for episode 20 next week. Is there any celebration planned for episode 20?
+**Haziq:** Before YB extends this further, let's close it here. That's all for this week. Thank you very much to everyone watching. Follow the channel and subscribe to Saudara Rafizi on YouTube, and also on other social media. We'll see you again for episode 20 next week. Is there any celebration planned for episode 20?
 
 **Rafizi:** We haven't thought about it yet.
 
-**Bobby:** Getting bored already lah. Maybe you want to suggest something?
+**Haziq:** Getting bored already lah. Maybe you want to suggest something?
 
 **Rafizi:** Give us anything, and we'll arrange it.
 
-**Bobby:** Alright, that's all from us. See you again — good night, see you next week.
+**Haziq:** Alright, that's all from us. See you again — good night, see you next week.

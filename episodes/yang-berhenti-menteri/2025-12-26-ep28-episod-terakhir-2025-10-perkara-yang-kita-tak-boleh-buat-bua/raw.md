@@ -211,7 +211,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [45:22] Farhan (Pa'an): tema-tema
 
-[45:23] Haziq: Tema-tema Bye. Thank you, Farhan. Kita tengok yang pertama terus, Bobby. Isu
+[45:23] Haziq: Tema-tema Bye. Thank you, Farhan. Kita tengok yang pertama terus, YB. Isu
 
 [45:33] Rafizi: ekonomi. Tak. Kita group ni berdasarkan apa? Kita decide 10 isu terbesar ni berdasarkan apa? Apa?
 
@@ -505,7 +505,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:53:10] Haziq: tak ada
 
-[2:53:10] Rafizi: pilihan kan tak ada pilihan Baik Bobby, isu yang ketujuh. Kita dah berapa lama ni?
+[2:53:10] Rafizi: pilihan kan tak ada pilihan Baik YB, isu yang ketujuh. Kita dah berapa lama ni?
 
 [2:53:16] Farhan (Pa'an): 2
 

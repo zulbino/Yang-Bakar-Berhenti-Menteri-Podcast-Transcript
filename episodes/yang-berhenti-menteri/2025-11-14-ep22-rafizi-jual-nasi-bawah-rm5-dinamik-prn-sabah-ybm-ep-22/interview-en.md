@@ -9,7 +9,6 @@ duration: 2h 52m
 view_count: 114371
 hosts:
 - Rafizi
-- Bobby
 - Haziq
 - Razal
 guests: []
@@ -422,11 +421,11 @@ Actually, we've looked at how many countries in the world have a similar model t
 
 **Rafizi:** And we said the government must have a policy to ensure not only that the low-level workers who get the minimum wage are looked after, but also workers earning below RM5,000 — especially young graduates, and also experienced workers who find it hard to get a raise, or whose wage gap compared to the minimum wage isn't very big anymore. This group needs a specific policy. That's why we made—
 
-**Bobby:** What product is this?
+**Haziq:** What product is this?
 
 **Rafizi:** Progressive Wage.
 
-**Bobby:** Come on, tell us more.
+**Haziq:** Come on, tell us more.
 
 **Rafizi:** Then the second question is, should we make it mandatory? Because if, like Tong Kui Ho said, we make it mandatory, it would be more effective. But if we make it mandatory, he would also write that this burdens businesses and so on. The reality is, 97% of the companies in our country are SMEs — Small and Medium Enterprises. And I recall more than 60% of workers are employed by SMEs, not big companies. We know our SMEs really face big challenges in terms of productivity, profit, and value creation. If we make it mandatory — never mind how to implement it, that's very complicated because there are a thousand and one types of jobs. To regulate all of that, to go and catch all of that, is really difficult. But the effect that would happen right from the start is a rise in the price of goods.
 
@@ -434,7 +433,7 @@ Because if a business is forced to pay a fresh graduate RM4,000, and after worki
 
 Here's what I mean. The problem for SMEs is attracting quality talent, and also reducing job hopping — workers who jump and switch jobs in a short time. Because job hopping is a huge cost to small companies. They just hire a kid, train them, and once that's done, the kid jumps ship.
 
-**Bobby:** Isn't that what was discussed by Gen Z in a thread on Twitter?
+**Haziq:** Isn't that what was discussed by Gen Z in a thread on Twitter?
 
 **Rafizi:** It's a trend, right. Yes, I think if we compare it to the older generation before, we understand the younger generation doesn't want to stay in one job forever. But not every six months, please. From the company's perspective, if they've spent three, four months training a fresh graduate straight out of university until the kid can do the job, if it's already two years we can understand they might want to look for another career — because within those two years the company's operations and affairs have already stabilized since the worker has been trained and is able to contribute. But if after just four months they already need to find someone new again, that really becomes a problem for small and medium businesses — they feel it's not worth paying a lot.
 
@@ -442,7 +441,7 @@ It's actually a problem. And this isn't something I'm just saying casually — w
 
 So the aim is to make these SMEs more stable and able to attract better graduates and higher-quality talent. And that can't be separated from the question of wages. That's why the government created this Progressive Wage Policy scheme — a win-win scheme for companies, workers, and the country. Companies are helped by the government with RM200 for graduates so that they can offer a starting salary of RM3,200.
 
-**Bobby:** Eh, so how was that figure determined?
+**Haziq:** Eh, so how was that figure determined?
 
 **Rafizi:** It depends on each type of job — for example, for major positions like engineers or accountants, there's a specific rate. It's set by the National Wage Consultative Council, which determines what graduate salaries should be for such jobs. If the company pays according to that rate, the government will top up RM200. So this reduces the burden on the government, and the worker gets a higher salary at that company. But it comes with conditions — the worker must undergo training so that the employer feels it's worthwhile to hire them and raise their salary a little, with the government topping up a little. The worker must become better and more productive, which is why they have to go through two years of training. This is also what Tong Kui Hong was worried about — employers worry that after two years, once the government funding ends and the worker has to exit the progressive wage scheme, who will pay to continue that salary?
 
@@ -452,13 +451,13 @@ So of course Tong Kui Hong asked, why only 41%? We projected 50,000 workers for 
 
 But of these 21,000 workers — let's say these employers are typically small and medium-sized, with maybe 20 to 30 employees each—
 
-**Bobby:** On average, let's try calculating with 20 to 30 employees per company — 21,000 people would mean how many companies?
+**Haziq:** On average, let's try calculating with 20 to 30 employees per company — 21,000 people would mean how many companies?
 
 **Rafizi:** If it's 30, divide by... roughly 700. 700, right? You expect to get 21,000 workers — the problem is, you're a lawyer, thank goodness I'm not, or else you'd definitely be onto me about this calculation. Twenty-one thousand workers benefiting, with an average employer size of 20 to 30 employees, means there are about 700 companies. Just 700 companies.
 
 These 700 employers are employers who truly believe in raising wages, and they're committed — after that they will maintain those wages. So if you ask me, if it's just about hitting a broad target of 100%, a million, eight million recipients — great, it's easy for me to just give out free money. But because we deliberately tightened the conditions, the conditions really are strict — meaning the employer must raise wages, and after two years when the government's contribution ends, the employer cannot lower the wage again, it must be maintained. Those who join know there are conditions like this, because we want to change and solve the problem, not to be popular. That's why people often disagree with me.
 
-**Bobby:** Okay, okay.
+**Haziq:** Okay, okay.
 
 **Rafizi:** This shortcut is actually easy — just give out free money. But it's not sustainable and not useful. As a human being and also as a minister, I've never believed in the concept of "free money." There's no such thing as free money. The money the government gives out is other people's money — tax money that we collect and give to others. So it becomes a trust for us to be prudent, and the way we spend prudently is by ensuring that the people's money truly solves problems. So the challenge now is how to convince more employers to accept the fact that they need to pay a bit more in wages, the government adds a bit more, so that with better pay for these graduates and workers, productivity will rise. Let people comment however they want.
 
@@ -466,11 +465,11 @@ This has never been done in our country's history — in 70 years of government,
 
 Even though 21,000 recipients seems small, try asking them directly — I don't think they'd say this policy is ineffective, because they're getting an additional RM200 to RM300 a month in salary.
 
-**Bobby:** Okay, let's leave the Tong Kui Hong issue for now. Let's move to Professor Dr. Solehah — "The Romans learned shipbuilding from the Malays." We'll follow this from A to Z.
+**Haziq:** Okay, let's leave the Tong Kui Hong issue for now. Let's move to Professor Dr. Solehah — "The Romans learned shipbuilding from the Malays." We'll follow this from A to Z.
 
 **Rafizi:** I haven't even googled her research, but she's always on my timeline, there's no escaping it at all. Sometimes I've heard a few of her lectures, the short ones. When she tells stories like that, at first I found it strange. But when I look back at her explanation, there's actually some logic to it — she says it doesn't mean Roman scholars like Julius Caesar, Constantine the Great, or Justinian came directly to the Malay Peninsula and asked to be taught. It's more about the transfer of technology or knowledge — that's her view, and according to her there were still many intermediary groups connecting things from early on. It's just that it didn't happen directly like that, because the timeline is far apart — between the Roman Empire and the Malays.
 
-**Bobby:** If you look at it, what do you actually think?
+**Haziq:** If you look at it, what do you actually think?
 
 **Rafizi:** Besides people criticizing Professor Solehah, I think one of the reasons is that she is also a reflection of our society, especially the Malay community. We really like hearing stories that sound pleasant to the ear — whether they're true or not is a separate matter. If our society weren't like that, Professor Solehah wouldn't be busy telling these stories because no one would listen — she wouldn't get traction. It becomes an issue to the point of being reported because for everything she says, there's always a group that says, "Yes! Correct!" So one side of this is that we sometimes like to take shortcuts, take the easy way, and for us it becomes a joke.
 
@@ -480,11 +479,11 @@ I think as for what Professor Solehah has done — I hope that as an academic, s
 
 What do I mean by this culture of knowledge? I once wanted to do a PhD.
 
-**Bobby:** Oh, interesting — tell us a bit.
+**Haziq:** Oh, interesting — tell us a bit.
 
 **Rafizi:** In 2015, I was bored, so—
 
-**Bobby:** At that time were you doing a Master's or going straight for a PhD?
+**Haziq:** At that time were you doing a Master's or going straight for a PhD?
 
 **Rafizi:** I wanted to go straight for a PhD. The university allowed me to sit a test to prove my research methodology. And through that process I understood that to produce a scholarly study, in general, the knowledge must be something new that has never existed before — only then does it qualify for a PhD. And the process is actually very complicated. I didn't manage to finish — I only completed the research proposal, then I got busy, went back into politics and various other things, and couldn't continue. But in preparing that research proposal, one of the hardest things was actually determining what my research area was.
 
@@ -504,47 +503,47 @@ Because if an opinion is given merely because someone is a doctor, has a PhD, bu
 
 Yeah, but that's the culture of knowledge. And if we want our nation to advance, the intellectuals must cultivate that more than anyone else. If even the smart and knowledgeable ones just talk carelessly everywhere — as long as they're on TV, as long as they're on podcasts, as long as they're on TikTok — and yet you want to get angry at ordinary people below, ordinary folks who are simply asking for opinions? Enough already.
 
-**Bobby:** But isn't this the same as the problem of false information and false accusations in today's digital world?
+**Haziq:** But isn't this the same as the problem of false information and false accusations in today's digital world?
 
 **Rafizi:** No, that's indeed an effect of the digital world, where information travels more easily, and because we don't need a studio or big camera to create content — anyone can create content, even in a car. That is indeed an effect of the digital world. But if it's ordinary people doing that, I understand — but don't let a professor be like that too, because they have a greater responsibility to society. Just as we sometimes tease MPs who comment on whether a statue's nose is pointed enough — actually academics, professors, all have that responsibility, because they represent a group that plays a major role in society. They need to defend the culture of science and rigor of knowledge, so that the indirect effect doesn't cause people to belittle knowledge. We can't escape fake news — all of that will keep happening regardless. But if it's some uncle or auntie who hears a story and follows it, that's one thing. But if...
 
 That, to me, is the bigger issue with this "Romans learned shipbuilding" matter — it's not just about trolling. There's an underlying issue that perhaps no one dares mention because it's hard to criticize academics with PhD qualifications. Not all of them — don't generalize, I'm saying this is a normal distribution, and what I'm referring to here is the fringe. There are some, but only a small segment are like that, and they're more popular, more prominent, especially on matters that more easily gain traction with the public — political issues, national issues, Rome-Malay issues, and so on. We never hear a physics expert go on TikTok to talk about developments in physics because we don't want to hear that — people want to hear things like this. And that's why their responsibility matters — they need to be aware that what they say must be within the framework and discipline culture of the field they represent.
 
-**Bobby:** Maybe she just wants to stir up Malay spirit. If YB yourself talked about this, maybe more people would listen to our podcast.
+**Haziq:** Maybe she just wants to stir up Malay spirit. If YB yourself talked about this, maybe more people would listen to our podcast.
 
 **Rafizi:** About what? About the Romans learning... our Julius Caesar learning... but that's not my field! Hahaha. I mean, whatever I know is just from what I've read about European history. If I want to make a proper claim, I'd have to spend 20 years of my life researching it — and even after 20 years, it might turn out not to be true. I can't just claim something like that.
 
-**Bobby:** Okay, dear? We're already two hours and seventeen minutes in.
+**Haziq:** Okay, dear? We're already two hours and seventeen minutes in.
 
 **Rafizi:** Any more hard questions?
 
-**Bobby:** None. The world moves fast, very fast. Okay, the first issue earlier — the Professor Solehah and the Romans story was really long. Good thing I didn't get to touch on "crossing the Rubicon."
+**Haziq:** None. The world moves fast, very fast. Okay, the first issue earlier — the Professor Solehah and the Romans story was really long. Good thing I didn't get to touch on "crossing the Rubicon."
 
 **Rafizi:** I don't even understand that myself — people out there might understand when they say "crossing the Rubicon," but never mind.
 
-**Bobby:** Okay YB, the first one — the KL Peace Accord is stalled. But I think, to be fair to Dato' Seri Anwar, he has exhausted all the channels he could as ASEAN Chair. Does YB agree?
+**Haziq:** Okay YB, the first one — the KL Peace Accord is stalled. But I think, to be fair to Dato' Seri Anwar, he has exhausted all the channels he could as ASEAN Chair. Does YB agree?
 
-**Rafizi:** Yes, we have this... what is there to comment? I mean, Thailand suspended implementation of the KL Peace Accord — well, this will become political capital for the opposition, they'll belittle everything. But I commented on the podcast two or three weeks ago that ASEAN is a different category. ASEAN practices a doctrine of non-interference in the internal affairs of its members — that's why the Myanmar problem hasn't been resolved to this day. So that's a risk that Dato' Seri Anwar and Malaysia took on as ASEAN leader. I don't think we can say "yes, we can," or "no." That's a risk we already took when we tried to slightly elevate ASEAN's role, especially as ASEAN leader in this regional conflict. The risk really is like that, because there's nothing binding — ASEAN doesn't have a doctrine like the European Union, it's actually more like a club of friends. Okay, Bobby, clear?
+**Rafizi:** Yes, we have this... what is there to comment? I mean, Thailand suspended implementation of the KL Peace Accord — well, this will become political capital for the opposition, they'll belittle everything. But I commented on the podcast two or three weeks ago that ASEAN is a different category. ASEAN practices a doctrine of non-interference in the internal affairs of its members — that's why the Myanmar problem hasn't been resolved to this day. So that's a risk that Dato' Seri Anwar and Malaysia took on as ASEAN leader. I don't think we can say "yes, we can," or "no." That's a risk we already took when we tried to slightly elevate ASEAN's role, especially as ASEAN leader in this regional conflict. The risk really is like that, because there's nothing binding — ASEAN doesn't have a doctrine like the European Union, it's actually more like a club of friends. Okay, YB, clear?
 
-**Bobby:** Clear. Let's see the next one — Zohran Mamdani. This has gone viral since last week, the whole world is talking about him, we want to ask for a comment. It's quite ironic given our current situation with the rise of populism — suddenly there's a politician without any big PAC support who can win. What's actually happening? Quite ironic, really.
+**Haziq:** Clear. Let's see the next one — Zohran Mamdani. This has gone viral since last week, the whole world is talking about him, we want to ask for a comment. It's quite ironic given our current situation with the rise of populism — suddenly there's a politician without any big PAC support who can win. What's actually happening? Quite ironic, really.
 
 **Rafizi:** You ask... you're originally from New York, right?
 
-**Bobby:** I've been to London.
+**Haziq:** I've been to London.
 
 **Rafizi:** You're from London, sorry.
 
-**Bobby:** Yes, I used to live in London. I have friends in New York, I've been to New York, but I don't claim that I know New York well.
+**Haziq:** Yes, I used to live in London. I have friends in New York, I've been to New York, but I don't claim that I know New York well.
 
 **Rafizi:** I asked some close friends of mine — Americans who live near, although not right in Manhattan, they live near Long Island—
 
-**Bobby:** Long Island?
+**Haziq:** Long Island?
 
 **Rafizi:** Long Island, which is... yes, people say all kinds of things about him. I did some research myself on Zohran, and I follow Democratic Party politics closely, because I have some Democratic Party friends who are close to me. They're not frontline politicians — but the Democratic Party isn't the same, I mean parties in the United States really aren't the same as ours. They don't have official positions like we do, so many important or experienced people sit behind the scenes. Some of them are close friends of mine.
 
 People will give all kinds of opinions — he's good at this, good at that, he's good at using social media. Actually everyone tries to use social media, everyone is good at using social media — some succeed, some don't. So it's not about social media, I think it's about substance. When we were in grade one or two, we learned a physics theory called resonance.
 
-**Bobby:** Even so, I'm a lawyer — did we learn about resonance in physics?
+**Haziq:** Even so, I'm a lawyer — did we learn about resonance in physics?
 
 **Rafizi:** Physics. There's a concept called resonance. A politician, even someone selling nasi lemak, or any product, will get a good reception if there's resonance. In my view, Zohran Mamdani was accepted because the core issue, the core campaign message he brought, had resonance with voters. What was the core issue he brought? Freeze the rent. Everything else is just a second layer, just a top layer — free rent, free bus, all that is cost of living. But what's the actual issue behind cost of living? PAS also talks about cost of living, cost of living — rent is expensive. No, that's all just his plan. What's the message, the substance that emotionally resonates that he brought to voters? He talked about, aside from the one percent of rich people—
 
@@ -560,19 +559,19 @@ So the race is on — if we learn from this Zohran Mamdani case, actually for th
 
 **Rafizi:** Sorry, sorry — [pauses briefly].
 
-**Bobby:** Okay, let's move to the next topic, can we?
+**Haziq:** Okay, let's move to the next topic, can we?
 
 **Rafizi:** We can.
 
-**Bobby:** Okay, wow — we've arrived! Wow!
+**Haziq:** Okay, wow — we've arrived! Wow!
 
 **Rafizi:** Ha, yes, I'm very excited about this. For the listeners out there watching — this is something I've observed over the past two or three years, everyone talks about AI, about robots. Actually China has quietly advanced a great deal in this field, it's just not widely reported by Western media.
 
-**Bobby:** Well, but that's Western bias.
+**Haziq:** Well, but that's Western bias.
 
 **Rafizi:** There's a story behind why — because this thing originated from America.
 
-**Bobby:** But maybe Haziq wants to explain a bit about this molten salt reactor?
+**Haziq:** But maybe Haziq wants to explain a bit about this molten salt reactor?
 
 **Haziq:** This is one of the things that will have a very major impact on the world and on humanity — human civilization. [referring to notes] Should I refer to notes, to explain about this molten salt reactor? It's different from a conventional reactor. Previously, conventional nuclear reactors had rods — we learned this in physics, right?
 
@@ -586,7 +585,7 @@ So the race is on — if we learn from this Zohran Mamdani case, actually for th
 
 And it's different from the conventional one — this one doesn't need rods. But I don't know, when I explain it like this, how can people relate. I don't know either — it just increases efficiency—
 
-**Bobby:** Haziq doesn't have notes here, he can't explain it.
+**Haziq:** Haziq doesn't have notes here, he can't explain it.
 
 **Rafizi:** He can. He doesn't have rods — one has rods, this one doesn't. This one uses molten salt as its fuel as well, and also as a coolant — both at once. I'll try to explain it in simpler language, because he was just reciting from memory earlier. Understandable, he's a law student, he's not interested in things like this.
 
@@ -606,7 +605,7 @@ If in the next 30-40 years, molten salt reactors truly function at industrial sc
 
 So I hope I'm still alive to see the day when molten salt reactors are adopted worldwide. But that's why — if people ask, this is a bit of a joke about the earlier controversy, about the ART issue. This is what I mentioned earlier about people getting angry at me — we're all nuclear, we have to follow America. But if we want to buy a molten salt reactor from China, we can't. Hmm, it really is difficult.
 
-**Bobby:** That's Rafizi's answer.
+**Haziq:** That's Rafizi's answer.
 
 **Rafizi:** If not mistaken, Malaysia has one of the biggest thorium [reserves in the world].
 

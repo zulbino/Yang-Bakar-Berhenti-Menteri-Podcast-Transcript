@@ -11,7 +11,6 @@ view_count: 35900
 hosts:
 - Rafizi Ramli
 guests:
-- Bobby (co-host/interviewer)
 topics:
 - Viral political news reactions (Beria segment)
 - Corruption Perception Index and anti-corruption rhetoric
@@ -62,7 +61,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Speaker 1:** Kita akan teruskan dan tambah satu lagi. Sebab saya baca komen — okey ada yang kurang berpuas hati, dan memang betul, sebab saya selalu sebut "apa nama" ni mengingatkan kepada Tun Mahathir. Jadi minggu ini saya kena cuba kurangkan "apa nama."
 
-**Speaker 2:** Okey, okey, okey. Saya minta tolong kawan-kawan untuk kira di komen berapa kali saya sebut "apa nama." Okey Bobby, seperti biasa kita teruskan dengan segmen pertama — Beria, Beriamat. Saya harap berialah, kita tengok macam mana. Okey, kita tengok yang pertama. Seperti biasa, kita ada gambar dan YB terangkan apa yang YB nampak. Baik — yang pertama, apa yang awak paparkan?
+**Speaker 2:** Okey, okey, okey. Saya minta tolong kawan-kawan untuk kira di komen berapa kali saya sebut "apa nama." Okey YB, seperti biasa kita teruskan dengan segmen pertama — Beria, Beriamat. Saya harap berialah, kita tengok macam mana. Okey, kita tengok yang pertama. Seperti biasa, kita ada gambar dan YB terangkan apa yang YB nampak. Baik — yang pertama, apa yang awak paparkan?
 
 **Speaker 1:** Ya, bergaduh. Cuma tiba-tiba keluar cerita Azmin, kembali kepada cerita video semula. Yang ini saya tak nak campur, saya pun dah beri pandangan saya dalam bentuk kartun kucing gemuk. Perangai orang politik selalunya begini — hari ini kawan, esok bergaduh, lusa kawan semula. Yang ini saya rasa kita ambil popcorn, makan sahaja. Tapi saya salut kepada Wan Saiful Wan Jan kerana beria mengorek semula cerita pasal video itu.
 

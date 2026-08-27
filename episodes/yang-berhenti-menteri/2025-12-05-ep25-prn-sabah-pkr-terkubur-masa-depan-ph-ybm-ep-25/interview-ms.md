@@ -105,7 +105,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Faizal Rahman:** Oh, beria dia banyak jenis. Apa lagi jenis-jenis beria selain daripada poyo?
 
-**Haziq:** Beria jahat, beria poyo. Susah betul linggo budak-budak sekarang ni kan. So okeylah, beria kacip, saya terima je lah, dia beria. Okey, kita pergi ke next, Bobby. Next kita ada — kononnya ada bom, jadi habis satu flight kena turun. Ini flight mana ni? Ini Saudara Razif ada dalam flight tu?
+**Haziq:** Beria jahat, beria poyo. Susah betul linggo budak-budak sekarang ni kan. So okeylah, beria kacip, saya terima je lah, dia beria. Okey, kita pergi ke next, YB. Next kita ada — kononnya ada bom, jadi habis satu flight kena turun. Ini flight mana ni? Ini Saudara Razif ada dalam flight tu?
 
 **Razeef Rakimin:** Dalam flight tu? Bukan dalam flight tu. Kejadian ni berlaku waktu saya baru mendarat di KLIA. Waktu keluar tu kita tengok memang banyaklah anggota bersenjata datang — apalan, bukan sebab kau eh. Tapi waktu tu diorang bagitahu ada bom. Belum tahu lagi benda tu palsu.
 
@@ -193,9 +193,9 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Dan sebenarnya apa-apa pengumuman mengenai pembentukan kerajaan itu sepatutnya dibuat oleh parti yang tunggak kepada kerajaan itulah. Jadi, dan parti itu besar kemungkinan dalam mana-mana pilihan raya kena tunggu panggilan daripada istana.
 
-**Faizal Rahman:** Ya. Tapi cuma Bobby, kenapa? Kenapa suara yang umumkan?
+**Faizal Rahman:** Ya. Tapi cuma YB, kenapa? Kenapa suara yang umumkan?
 
-**Haziq:** Itu pun tak pernah berlaku, tapi... saya pun, kita tahulah. Orang luar tak tahu — kita tahulah kan, orang luar tak tahu. Yalah, Bobby, Fuziah ni ada satu kelebihan, dia mesti berada dalam limelight kan. Jadi sepatutnya hari itu, dan tidak sensitiflah juga kepada orang Sabah — itu yang saya sebut pasal PKR Sabah. Sepatutnya sebarang pengumuman semua itu mesti dibuat oleh pengerusi PKR Sabah. Yang pimpinan pusat ini, kita tak payahlah beria sangat, kerana konotasi apabila pimpinan pusat buat keputusan, buat pengumuman, itu maksudnya kita tidak menghormati otonomi Sabah — sedangkan PKR Sabah itu memang ada otonomi. Tapi saya tak tahulah, takut Mustapha Sarani tengah moyok sangat kan tepi dia kan. Tapi kita kenal Fuziah lah. Jadi bila dia buat pengumuman itu, dia ada pelbagai mesej yang tak cantik lah. Satu, sampai 10 tahun akan datang ni bila masuk pilihan raya, PKR akan jadi bahan jenaka macam ni, bersedia selagi tidak ada satu pengumuman pengganti kan — tak, kalau dia tak ada pun akan keluar "cukup jumlah" ni sampai bila-bila lah kan. Satu lagi ialah dia tak kena dengan mesej yang kita nak cuba yakinkan orang Sabah bahawa PKR di Sabah ini, kerajaan kepimpinan pusat sebenarnya bagi kebebasan dan otonomi. Tapi isu itu...
+**Haziq:** Itu pun tak pernah berlaku, tapi... saya pun, kita tahulah. Orang luar tak tahu — kita tahulah kan, orang luar tak tahu. Yalah, YB, Fuziah ni ada satu kelebihan, dia mesti berada dalam limelight kan. Jadi sepatutnya hari itu, dan tidak sensitiflah juga kepada orang Sabah — itu yang saya sebut pasal PKR Sabah. Sepatutnya sebarang pengumuman semua itu mesti dibuat oleh pengerusi PKR Sabah. Yang pimpinan pusat ini, kita tak payahlah beria sangat, kerana konotasi apabila pimpinan pusat buat keputusan, buat pengumuman, itu maksudnya kita tidak menghormati otonomi Sabah — sedangkan PKR Sabah itu memang ada otonomi. Tapi saya tak tahulah, takut Mustapha Sarani tengah moyok sangat kan tepi dia kan. Tapi kita kenal Fuziah lah. Jadi bila dia buat pengumuman itu, dia ada pelbagai mesej yang tak cantik lah. Satu, sampai 10 tahun akan datang ni bila masuk pilihan raya, PKR akan jadi bahan jenaka macam ni, bersedia selagi tidak ada satu pengumuman pengganti kan — tak, kalau dia tak ada pun akan keluar "cukup jumlah" ni sampai bila-bila lah kan. Satu lagi ialah dia tak kena dengan mesej yang kita nak cuba yakinkan orang Sabah bahawa PKR di Sabah ini, kerajaan kepimpinan pusat sebenarnya bagi kebebasan dan otonomi. Tapi isu itu...
 
 **Faizal Rahman:** Jadi maknanya isu otonomi ni sebelum PRN?
 

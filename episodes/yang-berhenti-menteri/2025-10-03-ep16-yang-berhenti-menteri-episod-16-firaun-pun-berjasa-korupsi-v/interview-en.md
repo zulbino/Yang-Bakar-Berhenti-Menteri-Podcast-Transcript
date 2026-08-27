@@ -11,7 +11,6 @@ view_count: 35900
 hosts:
 - Rafizi Ramli
 guests:
-- Bobby (co-host/interviewer)
 topics:
 - Viral political news reactions (Beria segment)
 - Corruption Perception Index and anti-corruption rhetoric
@@ -63,7 +62,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Speaker 1:** We will continue and add one more. Because I read the comments — okay, some who were not quite satisfied, and it's true, because I always say "what's it called" which reminds people of Tun Mahathir. So this week I have to try to reduce saying "what's it called."
 
-**Speaker 2:** Okay, okay, okay. I'll ask friends to help track in the comments how many times I say "what's it called." Okay Bobby, as usual let's continue with the first segment — Beria, Beriamat. I hope it's "beria," let's see how it goes. Okay, let's look at the first one. As usual, we have a picture and YB explains what YB sees. Alright — the first one, what did you move onto?
+**Speaker 2:** Okay, okay, okay. I'll ask friends to help track in the comments how many times I say "what's it called." Okay YB, as usual let's continue with the first segment — Beria, Beriamat. I hope it's "beria," let's see how it goes. Okay, let's look at the first one. As usual, we have a picture and YB explains what YB sees. Alright — the first one, what did you move onto?
 
 **Speaker 1:** Yes, a fight. Suddenly the Azmin story came up, back to the video story again. This one I don't want to get involved in, I've already given my view in the form of a fat cat cartoon. So the nature of politicians is usually like this — friends today, fighting tomorrow, friends again the day after. For this one I think we should just take popcorn and eat. But hats off to Wan Saiful Wan Jan for so diligently digging up the video story again.
 

@@ -265,7 +265,7 @@ I've actually been interested in grocery shops, food stalls, since long ago, bec
 
 I regret it now, honestly. But at the time... it's true, it wasn't like taking 1.1 billion and jollily going off to open Fleximat. If you had 1.1 billion, you'd be living it up abroad, filthy rich, cars. At the very least, even if not living it up, you'd be like Farhaj — houses worth tens of millions. Not like me, renting now, opening a bakery shop... it doesn't make sense.
 
-**Cincong:** In Malaysia's history, someone in power taking 1.1 billion and then opening a grocery shop — that has never happened. Fired up, okay Bobby, we're 40 minutes in, we need to... thank you. This might be something I should ask the former Communications Director — how do the admins
+**Cincong:** In Malaysia's history, someone in power taking 1.1 billion and then opening a grocery shop — that has never happened. Fired up, okay YB, we're 40 minutes in, we need to... thank you. This might be something I should ask the former Communications Director — how do the admins
 
 **Rafizi Ramli:** of political party social media actually work? I see that there really needs to be a communication strategy and there needs to be a hierarchy. It seems Bersatu might be too busy with other work. So until internal issues get too heated, their social media becomes a battlefield. And it seems the story really got hijacked successfully — even though they couldn't hijack the party, that Hamzah gang managed to hijack their social media.
 
