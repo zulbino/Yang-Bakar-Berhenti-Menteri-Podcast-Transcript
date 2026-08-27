@@ -8,7 +8,7 @@ Playlist sumber: https://www.youtube.com/playlist?list=PLqJKhYZQ8r9Uz3IPEh0lXpF1
 
 Hanya episod penuh (1+ jam) disertakan. Teaser pendek, klip sorotan, snippet kad-quote, dan episod format ringkas daripada playlist yang sama tidak disertakan.
 
-> Transkrip dan tulisan semula dijana oleh model AI, dan tidak disahkan secara manual berbanding rakaman asal. Lihat [Nota ketepatan](#nota-ketepatan) sebelum memetik apa-apa daripada arkib ini.
+> Transkrip dan tulisan semula dijana oleh model AI, disemak pada bahagian-bahagian terpilih berbanding rakaman asal tetapi tidak disahkan baris demi baris. Lihat [Nota ketepatan](#nota-ketepatan) sebelum memetik apa-apa daripada arkib ini.
 
 Lihat [ARCHITECTURE.md](ARCHITECTURE.md) (dalam Bahasa Inggeris) untuk rajah aliran kerja penuh, model-model yang telah diuji, dan sebab di sebalik pilihan teknologi yang digunakan.
 
@@ -49,7 +49,7 @@ Kesemua empat fail berkongsi frontmatter YAML yang sama (tajuk, ID video, URL Yo
 
 ## Nota ketepatan
 
-Transkrip dan tulisan semula dijana oleh model AI yang mendengar terus daripada audio sumber. Ia tidak disahkan secara manual berbanding rakaman asal. Percampuran bahasa (code-switching) antara Bahasa Melayu dan Inggeris dikekalkan, bukan diterjemah, tetapi kesilapan, salah dengar, atau salah kaitan penutur adalah mungkin berlaku, terutamanya semasa pertindihan suara (cross-talk). Anggap `raw.md` sebagai rujukan paling hampir dengan sumber asal, dan `interview.md` sebagai tulisan semula editorial yang dibina di atasnya.
+Transkrip dan tulisan semula dijana oleh model AI yang mendengar terus daripada audio sumber. Setiap episod diaudit secara automatik (lihat di bawah), dan bahagian yang memerlukan pertimbangan manusia -- label penutur yang diragui, kandungan yang disyaki hilang, nama yang luar biasa -- disemak dengan telinga berbanding rakaman asal. **Tiada episod yang disahkan baris demi baris**, jadi kesilapan, salah dengar, atau salah kaitan penutur masih mungkin berlaku, terutamanya semasa pertindihan suara (cross-talk). Percampuran bahasa (code-switching) antara Bahasa Melayu dan Inggeris dikekalkan, bukan diterjemah. Anggap `raw.md` sebagai rujukan paling hampir dengan sumber asal, dan `interview.md` sebagai tulisan semula editorial yang dibina di atasnya.
 
 Episod yang ditranskrip melalui alternatif ASR tempatan (lihat [ARCHITECTURE.md](ARCHITECTURE.md#known-limitations), dalam Bahasa Inggeris) mendapat label penutur `raw.md` daripada satu pusingan pengesanan penutur (diarization) berasingan berdasarkan bunyi suara (pyannote.audio), bukan daripada diarization Gemini sendiri. Label ini bermula sebagai "Speaker N" tanpa nama, yang kemudiannya dipetakan secara manual kepada nama sebenar semasa semakan, sama seperti label umum Gemini. Anggap label mana-mana episod yang belum disemak sebagai belum disahkan, terutamanya dalam pertukaran cepat antara pelbagai penutur.
 
