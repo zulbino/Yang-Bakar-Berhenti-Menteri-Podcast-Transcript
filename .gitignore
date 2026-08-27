@@ -11,4 +11,21 @@ episodes/_scratch_*
 scripts/_*.py
 audio/_*
 data/_*
-
+# Never commit credentials. `git add -A` swept scratch logs into this repo once
+# already (removed in c765c6d), so the filenames a key is most likely to land in
+# are blocked by name rather than left to discipline.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+*credentials*.json
+*secret*.json
+*token*.json
+apikey*
+api_key*
+.netrc
