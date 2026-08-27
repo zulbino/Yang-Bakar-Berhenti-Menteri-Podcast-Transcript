@@ -395,6 +395,22 @@ rewrite/translate/metadata stage.
     after the block's single claimed timestamp, so the drift is real but harmless:
     the transcript is complete and correctly ordered, just coarser-grained than
     usual for that one stretch.
+  - **ep44 (RESOLVED 2026-08-27, same artifact as ep41, not a bug)**: 1.16 had
+    provisionally classed ep44 alongside ep32/ep33 as "hard reset + constant
+    offset" based on `check_timestamp_drift.py`'s reported +910s/+1354s drift.
+    A direct re-check (fetching the cached caption and searching for phrases
+    spread across each flagged block, rather than trusting the production
+    tool's single mid-block sample) found no gap: this episode's local-ASR
+    transcript has only 19 candidate blocks for a 3-hour episode, i.e. very
+    coarse VAD merging, same root cause as ep41. The two flagged blocks are
+    each one continuous Rafizi monologue (confirmed by tracing multiple
+    phrases from across each block, which land at strictly increasing real
+    timestamps with no gap) -- one spans a ~15-minute FWCMS/TURAP policy
+    rant, the other a ~19-minute closing segment (a "cerita Papa Gomo"
+    personal story) that ends with the real episode sign-off and even
+    self-referential in-dialogue time-checks ("dah 3 jam") matching the
+    file's real `duration_seconds`. No content is missing or displaced;
+    reclassified out of 1.16's bug catalog entirely.
 - **Fix:** for `check_timestamp_drift.py`, constrained the search to a ±20-minute
   window around each block's own claimed timestamp: genuine large-scale
   displacement (whole sections off by an hour or more) now shows up as "not found
@@ -631,23 +647,47 @@ rewrite/translate/metadata stage.
   undercounting true severity rather than hiding it outright. Manually
   investigating several of these flagged episodes (ep05, ep10, ep26, ep32,
   ep33, ep44, ep45) turned up **four distinct bug shapes**, not one:
-  - **Hard reset + constant offset** (ep32, confirmed root cause; ep33/ep44,
-    same signature confirmed via two independent caption sources each but
-    not yet fixed): the file's own printed timestamp sequence jumps
-    backward at one specific line, then runs at a large but *constant*
-    offset (ep32: exactly +2400s/40min, confirmed via an exact phrase match
-    at the boundary in two unrelated captions) for the rest of the file (or
-    until a second reset). **Critically, this does NOT necessarily mean
-    missing content** -- ep32's initial diagnosis assumed a ~14-minute audio
-    gap purely from comparing block-start labels, which was wrong: the
-    mislabeled section's actual text picks up with zero gap from the
-    correctly-timed content before it (both land at real time 02:04:14 in
-    the caption). The fix that was actually needed was pure relabeling
-    (add the measured constant offset to every affected timestamp), not
-    re-transcription. Also found, bundled with the same bug on ep32: a
-    3-line literal duplicate of the episode's sign-off, once at the
-    mislabeled timestamp and once at the correct one -- removed the
-    mislabeled copy.
+  - **Hard reset + constant offset** (ep32, confirmed root cause and fixed):
+    the file's own printed timestamp sequence jumps backward at one specific
+    line, then runs at a large but *constant* offset (exactly +2400s/40min,
+    confirmed via an exact phrase match at the boundary in two unrelated
+    captions) for the rest of the file (or until a second reset).
+    **Critically, this does NOT necessarily mean missing content** -- ep32's
+    initial diagnosis assumed a ~14-minute audio gap purely from comparing
+    block-start labels, which was wrong: the mislabeled section's actual text
+    picks up with zero gap from the correctly-timed content before it (both
+    land at real time 02:04:14 in the caption). The fix that was actually
+    needed was pure relabeling (add the measured constant offset to every
+    affected timestamp), not re-transcription. Also found, bundled with the
+    same bug on ep32: a 3-line literal duplicate of the episode's sign-off,
+    once at the mislabeled timestamp and once at the correct one -- removed
+    the mislabeled copy. **ep44 was provisionally classed here too but turned
+    out to be a false alarm** -- see 1.11's ep44 entry, it's the same
+    timestamp-resolution artifact as ep41, no bug at all.
+  - **Genuine missing content, not just mislabeled** (ep33, confirmed via
+    direct caption dump, NOT yet fixed): unlike ep32, ep33's raw.md has *no*
+    backward jump at all in its own printed timestamps (the corpus-wide
+    backward-jump scan below returns clean on it) -- the file stays
+    monotonic while silently skipping real audio. Found two separate gaps by
+    fetching the cached caption directly and searching for phrases from
+    specific points within flagged blocks (the production tool's single
+    mid-block sample isn't dense enough to catch this): (1) a ~4-minute real
+    stretch (FWCMS foreign-worker digital-system procurement, PAC/Ketua Audit
+    Negara audit findings, COVID-era contract-legality discussion) dropped
+    from the middle of one paragraph, whose opening and closing sentences
+    both match the real caption fine but whose middle simply isn't there;
+    (2) a ~10-minute real stretch at the very end, where raw.md substitutes a
+    plausible-sounding but **fabricated** placeholder --
+    `[2:38:20] Music continues...` -> `[2:39:10] Music fades into a
+    continuous loop for the remainder of the recording archive` ->
+    `[2:48:20] End of Audio]` -- for what the real caption shows is genuine
+    substantive dialogue (a Selangor land-sale/governance discussion) followed
+    by the actual episode goodbye. A corpus-wide grep for this exact phrase
+    (`fades into a continuous loop`) found only one other match, ep00, whose
+    own "[Music / Outro]" marker covers a plausible 12-18s and is not this
+    bug. Needs real re-transcription of both gaps and re-splicing, not a
+    relabel -- a materially bigger fix than the other bug shapes here, left
+    unfixed pending that work.
   - **Duplicated content with a fabricated later timestamp** (ep26, ep45,
     confirmed via caption cross-check, NOT yet fixed): the opposite
     direction from the reset case -- a stretch of the file's printed
