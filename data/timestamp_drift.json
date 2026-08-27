@@ -1173,11 +1173,11 @@
   },
   "2026-01-30-ep33-pn-dari-bergolak-ke-berkecai-skandal-yang-belum-selesai-ybm-": {
     "status": "ok",
-    "samples_matched": 6,
-    "samples_not_found_nearby": 6,
+    "samples_matched": 8,
+    "samples_not_found_nearby": 4,
     "samples_total": 12,
-    "max_drift_seconds": 1195,
-    "flagged": true,
+    "max_drift_seconds": 159,
+    "flagged": false,
     "details": [
       {
         "claimed": 15,
@@ -1185,29 +1185,39 @@
         "drift": 159
       },
       {
-        "claimed": 1689,
-        "actual": 1681,
-        "drift": -8
+        "claimed": 589,
+        "actual": 742,
+        "drift": 153
       },
       {
-        "claimed": 2485,
-        "actual": 2478,
+        "claimed": 1716,
+        "actual": 1714,
+        "drift": -2
+      },
+      {
+        "claimed": 2223,
+        "actual": 2224,
+        "drift": 1
+      },
+      {
+        "claimed": 3123,
+        "actual": 3123,
+        "drift": 0
+      },
+      {
+        "claimed": 5032,
+        "actual": 5070,
+        "drift": 38
+      },
+      {
+        "claimed": 7488,
+        "actual": 7476,
+        "drift": -12
+      },
+      {
+        "claimed": 7922,
+        "actual": 7915,
         "drift": -7
-      },
-      {
-        "claimed": 3070,
-        "actual": 3080,
-        "drift": 10
-      },
-      {
-        "claimed": 5399,
-        "actual": 5430,
-        "drift": 31
-      },
-      {
-        "claimed": 6989,
-        "actual": 8184,
-        "drift": 1195
       }
     ]
   },
