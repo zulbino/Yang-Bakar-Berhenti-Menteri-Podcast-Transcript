@@ -25,7 +25,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [02:46] Rafizi: teruskan dan tambah satu lagi Apa? Sebab saya baca komen Okay yang kurang berpuas hati dan memang betul lah sebab saya selalu sebut apa nama Dia kata apa nama ni mengingatkan kepada Tun Mahathir. Jadi minggu ini saya kena cuba kurangkan apa nama. Okey, okey, okey. Saya
 
-[03:11] Haziq: minta tolong kawan-kawan untuk track di komen. Berapa kali saya sebut apa nama. Okey, baik, baik. Okey, Bobby. Macam biasa kita teruskan dengan segmen yang pertama. Beria, beriamat. Saya harap berialah. Kita tengok macam mana. Okey. Okey. Kita tengok yang pertama. Macam biasalah. Kita ada gambar dan YB explain apa yang YB tengok. Baik. Yang pertama Apa yang awak pindahkan?
+[03:11] Haziq: minta tolong kawan-kawan untuk track di komen. Berapa kali saya sebut apa nama. Okey, baik, baik. Okey, YB. Macam biasa kita teruskan dengan segmen yang pertama. Beria, beriamat. Saya harap berialah. Kita tengok macam mana. Okey. Okey. Kita tengok yang pertama. Macam biasalah. Kita ada gambar dan YB explain apa yang YB tengok. Baik. Yang pertama Apa yang awak pindahkan?
 
 [03:39] Rafizi: Ya bergaduh. Cuma tiba-tiba keluar cerita Azmin, balik cerita video balik lah. Yang ini saya tak nak campur lah. Saya pun dah bagi pandangan saya dalam bentuk kartun kucing gemuk. Jadi perangai orang politik selalunya begini. hari ni kawan, esok bergaduh, lusa kawan balik dan jadi yang ini saya rasa kita ambil popcorn, makan sahaja tapi saya salutlah kepada Wan Saiful Wan Jan kerana beria korek balik cerita pasal video
 

@@ -9,7 +9,6 @@ duration: 1h 51m
 view_count: 61217
 hosts:
 - Rafizi
-- Bobby
 guests:
 - Faiz Ahmad
 topics:
@@ -32,7 +31,7 @@ topics:
 - Judicial appointment controversy and Bar Council's Walk for Justice
 - Collective responsibility, party dissent, and loyalty to Anwar Ibrahim/PMX
 - Rafizi's political philosophy on speaking for the public vs defending government
-summary: In this episode of the "Podcast Yang Berhenti Menteri," host Bobby is joined
+summary: In this episode of the "Podcast Yang Berhenti Menteri," host Haziq is joined
   by guest speaker Faiz Ahmad, a TikTok economic commentator and former market analyst,
   to interview Rafizi. The discussion opens with the concept of "social enterprise"
   and Rafizi's AYO Malaysia initiative, which uses an Islamic musyarakah-based profit-sharing
@@ -51,7 +50,7 @@ summary: In this episode of the "Podcast Yang Berhenti Menteri," host Bobby is j
   the methodology gap between MITI's "potential" FDI announcements and DOSM's realized
   FDI figures, defends the independence and integrity of DOSM's data reporting from
   political interference, and discusses ringgit depreciation trends since 2015. Toward
-  the end, Bobby presses Rafizi on political loyalty, asking whether he would defend
+  the end, Haziq presses Rafizi on political loyalty, asking whether he would defend
   or oppose Anwar Ibrahim/PMX's government amid controversy over judicial appointments
   and the Bar Council's threatened "Walk for Justice." Rafizi argues that as a backbench
   MP (not bound by cabinet collective responsibility), his duty is to voice the public's
@@ -309,99 +308,99 @@ That's why government decisions matter in terms of sequencing, balancing needs w
 
 It might be reduced somewhat, but then we'd become a socialist state — because you'd have to intervene to bring prices down, or you'd give out cash is king. A comment from the Governor of Bank Negara — for five years, 2020-2025, cumulative inflation year on year was 9%, private sector wage growth...
 
-**Bobby:** 7.1, 7.9 — so actually people's real income fell by negative 1.9. So that's what's being played up on social media, meaning Madani failed to tackle this issue. And I see YB is moving towards progressive wages. How effective is that in tackling this issue? It'll take time, won't it?
+**Haziq:** 7.1, 7.9 — so actually people's real income fell by negative 1.9. So that's what's being played up on social media, meaning Madani failed to tackle this issue. And I see YB is moving towards progressive wages. How effective is that in tackling this issue? It'll take time, won't it?
 
 **Rafizi:** Okay, I mean first and foremost, if people are playing up this narrative of failure because — you take an average over a period of 5 years, inflation goes up by 9%, wages go up by 7%, and then you hit the current government. Well, look at it, that's a cumulative number. Who made the cumulative number go up that much? In 2021, 2022. In fact, I think the best thing is, even though people will continue to question — yes — the success of holding inflation down is not easy. I don't know, right, people may not feel it, but to reduce inflation from 4.00% in November 2022 when we took over, all the way down to about 1.4% now, monthly — if Madani fails, we'd still be stuck at 4%, it wouldn't stay at 4%, it would become 9% cumulative, it would become 15%. So that has to be fair. Actually, the "failure" is because we inherited that. But the issue of wages is the issue of our economic structure.
 
 This is very sensitive, because sometimes I feel — yes, our society takes a very simplistic approach. It's easy, we curse employers — "the company doesn't want to pay, the boss is bad," things like that. There are some like that, but before we point fingers like that, we have to look at the actual composition of our country's economy. The big companies are only 2% in our country. That's why if there's an opening in a big company — whether it's a GLC, let's say Petronas, or Maybank — thousands of people want to take that job.
 
-**Bobby:** Another 2% are medium-sized companies. Not big companies.
+**Haziq:** Another 2% are medium-sized companies. Not big companies.
 
 **Rafizi:** Right, what's it called — and these medium companies, meaning if it's a services company, a services company with revenue under RM20 million. Not a big company, you know, but it's already counted as medium, right?
 
-**Bobby:** 15% are small companies.
+**Haziq:** 15% are small companies.
 
 **Rafizi:** And 80% are micro businesses — meaning selling medicine, selling food, selling fried bananas, whatever, they might have 5 employees.
 
 So if people say, "oh, employers are so bad, why don't they want to pay?" — we need to look at what kind of employer it is. There are big employers, and if they're genuinely stingy, that requires a lot of policy and action. But at the same time, for example PSM, the Socialist Party — their approach is simple: "we're the government, you're the government, just order it." So that's why, you need balance, so that we do it in stages. That's why my decision before — to protect these small and medium companies, the government needs to intervene. Government intervention can't be in the form of forcing them to pay and mandating it, because there's already a mandatory line, which is the minimum wage of RM1,700. The rest, RM2,000 and above, that's meant to be raised according to the salary scale we deem appropriate — the government needs to give an injection, and the certificate carries an obligation, a responsibility from the employer. The employer has to upskill, do everything, right? That's true — if we want to give this to everyone, it's okay, but we'd have to spend RM5 billion, RM7 billion a year in a situation where we don't have the ability.
 
-**Bobby:** If the programme is geared towards the government?
+**Haziq:** If the programme is geared towards the government?
 
 **Rafizi:** That is, gearing up the government, because it's GLC — for GLCs only. So GLCs are indeed large companies with lots of money. So if their profit is hundreds of millions, and you pay workers below RM2,000, they really deserve to be hammered. But we can't do that for everyone, because in progressive wage — gaji progresif — the condition is that large companies can't be included, and companies owned by foreign shareholders can't be included either. It's specific to medium and smaller companies — which are actually the biggest employers in our country. But if you want to hit employers because you say all employers are bad — actually that's not really how it works, because they too are actually caught up in cost pressures, wages, and so on. We also want to make sure the impact on inflation isn't too big. If you force it — say you set a minimum wage ladder at RM1,700, fresh graduate salary at RM3,500 and so on — there are only two possibilities. One, they close down. Two, they enter the informal market — they'll say, "never mind, I can't pay you like that. You don't want to lose your job, right? So I won't hire you as a permanent worker, I'll hire you as a contractor."
 
 You don't have EPF, you don't have this — you will still get RM2,000, at least you don't lose your income altogether. Because if I take you as a permanent worker, I have to pay RM3,500, I can't afford it. Or the second thing he will do is increase the price — inflation will increase. So because of that, we have to manage private sector wages in a way that — and this comes back to the most fundamental problem, which is — people get angry at me for saying this, but it's a structural problem. Because our SME businesses, which make up 95% of our country's businesses, are not able to export. We actually just do what everyone else does. That's what I always repeat, and people get angry — they say I'm calling our attitude "Malay" — but sometimes, if there's a person selling milk donuts, and he's done selling milk donuts...
 
-**Bobby:** Just selling milk donuts there, if he has 10 customers, then it's just 10 people.
+**Haziq:** Just selling milk donuts there, if he has 10 customers, then it's just 10 people.
 
 **Rafizi:** Then you start having a problem, right — because compared to, for example, SMEs in other countries, SMEs in Germany or SMEs in Korea — they're called SMEs but they make components to fit into Boeing planes, you know. So that's why they hire engineers, they have 50 people, and that's why they can pay high salaries. Unless we shift from making buckets to making the machines that make buckets, this structural issue will never be resolved, no matter how long we wait.
 
-**Bobby:** But YB has raised a lot of problems. What's the solution? YB is part of the government now.
+**Haziq:** But YB has raised a lot of problems. What's the solution? YB is part of the government now.
 
 **Rafizi:** That's why, what's it called, for example — first, our entire economic framework needs to shift away from the legacy economy. Okay. Look at our great factories — but in terms of their content, our great factories don't actually produce the technology themselves. They're actually paying royalties to people out there, and the goods produced are commodity goods. This is the thing — that's what we studied in the 2023 mid-term review of the 12th Malaysia Plan — that's what we introduced, high growth, high value sectors. For example, the digital economy is actually a high growth, high value sector. Advanced Electronics, E&E. Then, energy transition — meaning, the industries based on energy transition, that's high growth. Critical minerals is a high growth, high value sector. And actually, modern farming.
 
 Modern farming too, because food is expensive, we need to import and so on. So the government's job is to redesign our economic sectors to shift toward higher-value sectors. So this is what it means for the budget to prioritize these sectors. Then, in terms of the workforce we produce, they must be steered in this direction. Immediately, there are things we can intervene in as a catalyst — that's, for example, the Ministry of Economy working together, and we succeeded in getting a semiconductor project so that within five years, Malaysia produces its own chips. And we will switch from installing chips to creating chips. Because if you create chips, you don't even need to install them — other people do that in Vietnam or Indonesia. Every chip has its own royalty. That's what happens in the US, the UK, Japan — but we hadn't reached that level.
 
-**Bobby:** The Arm chip is in that direction?
+**Haziq:** The Arm chip is in that direction?
 
 **Rafizi:** Yes, the Arm. That's actually why people don't understand — Arm is actually a monopoly on chip technology in the world. 95% of the chips in mobile devices, cell phones — 95% is Arm. But their business model, compared to Intel before — they do all the research, and once they have their blueprint and technology, they sell it to us, we get the IP. Then for every single chip sold, they get a percentage, 20% to 30%. So with the smartphone revolution that has happened over the past 20 years, that business model has succeeded, compared to the traditional model like Intel, AMD before where we bought chips directly from them. Our problem is, if we wait until we have our own experts to produce our own chips, it really might not happen even in 20 or 30 years. So that's why we're collaborating with Arm, so that the IP technology is given and they will also help produce our chips — which is what is happening now. Because when that happens, it means the type of work produced is no longer just an engineer who oversees chip installation — he becomes an engineer who designs the chips, and his salary is different.
 
-**Bobby:** Ok, let's move on to FDI, because right now PMX is known on social media as "Father of Potential" — "Father of FDI, Father of Potential." So actually this FDI — well, that announcement is said to be — what's it called — it's not yet realized, right, but potential, potential FDI. So how can the public verify this so that the information gets through?
+**Haziq:** Ok, let's move on to FDI, because right now PMX is known on social media as "Father of Potential" — "Father of FDI, Father of Potential." So actually this FDI — well, that announcement is said to be — what's it called — it's not yet realized, right, but potential, potential FDI. So how can the public verify this so that the information gets through?
 
 **Rafizi:** The data exists. I answered this once before — in terms of the country's official reporting, because a country needs official reporting. That's issued by DOSM, because every country has a National Statistics Office that reports all this based on internationally set standards. Okay. DOSM does report FDI every year. Okay. But before this, there were Najib supporters who always made noise, and the PAS crowd who didn't understand much — they asked why DOSM's number is a little different from the one announced by MITI.
 
 Now, the process is like this. According to international reporting standards, the FDI reported is FDI that has been spent. So for example, if there's Company A from, say, China, wanting to open a factory — the process is, when they want to open the factory, they need to get approval from MITI, through MIDA. So they will submit, saying, "I want to build such-and-such a factory, my capital expenditure is 2 billion." This is what gets announced — 2 billion and so on. The reason they need to get approval from MIDA is so they can get tax incentives — once they start operating, all that status gets tax incentives. That's what's announced by MITI — the three hundred billion highest figures and so on — that's for the approved year. Okay. But it's the same as any other economy — it's not that the company comes in, says "I want to build a factory for two billion," pop, and tomorrow the factory is suddenly there. There's no such thing. They need to go find land first, then they need to build the factory and so on. So say they want to build a factory — their project to build the factory, from getting the land until it starts operating, takes three years. So only then do they start bringing in money and start spending — and that's what's reported by DOSM.
 
-**Bobby:** Oh, ok. So that's what's reported by DOSM.
+**Haziq:** Oh, ok. So that's what's reported by DOSM.
 
 **Rafizi:** So actually, if the concept — if we want to understand it, perhaps a good concept is to compare it to a construction company. Okay, take construction — they will announce their earnings, their revenue for that year. Meaning, in terms of revenue recognition, usually what they've sold or what project progress can be billed, they can book, say, RM100 million for that year. But if we want to evaluate their stock — whether the company is good or not — we don't just look at that revenue, you know. We look at another thing, we call it the "order book." Meaning, they're currently earning RM100 million in revenue every year, but actually how much are the projects they've secured for the coming years? If it's higher, RM3 billion, RM4 billion, that's even better, because it means the company's prospects are indeed good.
 
 So the concept of "potential" FDI is the same as that — what's called approved FDI is the "order book." What DOSM reports is what has been "recognized" because it has been spent. What we need to pay close attention to is, what percentage of the FDI approved by MIDA and MITI is actually implemented, actually realized?
 
-**Bobby:** I always ask this question — so far, as I recall, it's around 80%.
+**Haziq:** I always ask this question — so far, as I recall, it's around 80%.
 
 **Rafizi:** Which is a good number, compared to previous times.
 
-**Bobby:** Before that, I thought it was... I can't remember, I didn't look at the data, it's lower.
+**Haziq:** Before that, I thought it was... I can't remember, I didn't look at the data, it's lower.
 
 **Rafizi:** I have to look for the data.
 
-**Bobby:** Look for the data — I think it's a lot lower, between 50% to 60%.
+**Haziq:** Look for the data — I think it's a lot lower, between 50% to 60%.
 
 **Rafizi:** So, you can say it's performing, right, the data is performing. But some people also say you can't believe the data, you can lie about it — netizens. Yes, that's their own right, but — I feel sorry for the DOSM officers. I think the people who say the data can all be manipulated sometimes forget that — if there were a minister who wanted to order it, like say I, as Minister of Economy — DOSM, when they want to publish data, they don't inform me. They can't inform me, because they need to be accountable to international partners.
 
 Actually, before this, the government before Pakatan Harapan — the PN government — there was a major issue, because inflation is announced by DOSM, and there were discussions among certain quarters that inflation data, before being announced, needed to be presented to the Cabinet first. Luckily they lost. So when I came in as Minister of Economy, I inherited this matter — because this was uncertain, since before that there were discussions that it couldn't be presented directly to the public before going to market. I said, "you go ahead," we don't need to inform the Cabinet, the PM, or even the Minister of Economy. This is also an integrity issue — meaning integrity in terms of not wanting to control information.
 
-**Bobby:** Right, before that it wasn't allowed.
+**Haziq:** Right, before that it wasn't allowed.
 
 **Rafizi:** DOSM — if there's a government that says it wants to look at the data first — that's not allowed, they have to answer to international organizations and standards. If international organizations and standards find out that the official figures published by DOSM went through — needed government approval first — you may be too young, but in the 80s and 90s, when China first started appearing to develop economically, do you know what China's main problem was? Integrity of data. People didn't trust their data. So the Chinese government took a long time to develop its international statistical system so that the data published would truly be trusted. It's the same with us — DOSM is respected. So DOSM officers — ministers come and go, governments come and go — they've already seen it all, ministers coming and going. If you tell them to change, they really won't change.
 
-**Bobby:** Even if they fight, they won't change?
+**Haziq:** Even if they fight, they won't change?
 
 **Rafizi:** I remember when they were noisy during the PN period, they wanted to check everything, they tried to. Did they report it to me? No, because — it's been a long time, because the people need to know that's the situation. Yes, I mean, there are different views. There are views that say this is indeed right — sometimes even within the unity government, not everyone is comfortable that these figures don't go through the government at all before being announced. But my stance is indeed — over my dead body. Because data integrity transcends anyone. The moment data — people don't believe it — and if there's noise, I don't care, whether they believe it or not, but if the market doesn't believe it — if the market looks and thinks "uh oh" — because China went through this, and even when our economy grew well people didn't believe it, even when our inflation was low people didn't believe it. So this has been defended as strongly as possible. Only people who — well, have some knowledge in the market question the integrity of the figures. The ones down below — well, they just do as they please, they can't explain why inflation is low.
 
-**Bobby:** True, then they turn it around — low inflation means economic growth will slow down.
+**Haziq:** True, then they turn it around — low inflation means economic growth will slow down.
 
 **Rafizi:** Okay, that one — that's actually not wrong. Because for inflation, if we look at countries with mature economies, most of their macro policy revolves around controlling inflation. Okay. Because inflation that's too high is truly destructive. True. Actually, if inflation is negative like China, that's doomsday.
 
-**Bobby:** Definition — Switzerland is not, Switzerland is negative?
+**Haziq:** Definition — Switzerland is not, Switzerland is negative?
 
 **Rafizi:** The economy is different, the service base is different. So, our ideal inflation now is 2%, between 1.5% to 2% based on our profile. That's actually correct. If, for example, inflation is too low or negative, deflation — I recall Japan went through almost 20 years of hardship because of this. People outside who say, "yes, yes, yes, lower prices, lower prices" — other countries have been through this, you know, Japan, from 1990.
 
-**Bobby:** All the way until recently?
+**Haziq:** All the way until recently?
 
 **Rafizi:** True.
 
-**Bobby:** What year was that? 30 years?
+**Haziq:** What year was that? 30 years?
 
 **Rafizi:** 30 years, right, deflation. They went through that process — indeed prices didn't rise and so on, but wages also didn't rise, there was no economic growth, many products disappeared. So when there's no economic growth, people don't invest to produce new economic activity. So eventually, over time the economy doesn't grow, the economy is actually destroyed — many sectors have disappeared and so on. In the old days in Japan, because of that negative inflation, banks had to pay so that — meaning if you kept money in the bank, you had to pay the bank, instead of earning interest. But the bank said, "don't keep your money in the bank, please go spend it." So it had its effects too — that was Abenomics. Only now, I think, this year — for the first time, I recall, the Bank of Japan's governor dared to raise interest rates, because inflation could rise to 3%.
 
 So this inflation thing has a range — it's unique to each country. I don't think you can say this is a hard and fast rule, that inflation must be a certain amount — there's no such thing. It's unique to growth, profile, and so on. But generally, like everything in life, the extreme is bad. True. If inflation is too high, it's dangerous. If inflation has gone negative, deflation — even though prices fall, the effect is it will destroy the whole economy. So I understand if people say the economy — inflation that keeps declining should be good. I think inflation, if we keep it at 1-2%, I don't think there's a need to worry. What we need to look at is the Purchasing Managers Index, PMI. That, what's it called, in terms of price indices — businesses buying and so on — if that continues to be low, then I think that has more correlation to economic growth. If we also look at consumer spending — well, that's because inflation as official inflation has its basket of products, it actually represents the ordinary person — so it's not 100% reflecting a perfect correlation with economic growth. Of course, consumer spending is part of it, but we're a country that relies heavily on manufacturing. So from that angle, if you want early alarm bells, I would look at PMI too.
 
-**Bobby:** We've been at this for an hour, but I want to ask more — the ringgit market always — look, because this is so boring, economics class, you'd rather go get a degree — is it boring or not, I want to ask too — the ringgit, it's always attacked. The current government — the ringgit is said to be low.
+**Haziq:** We've been at this for an hour, but I want to ask more — the ringgit market always — look, because this is so boring, economics class, you'd rather go get a degree — is it boring or not, I want to ask too — the ringgit, it's always attacked. The current government — the ringgit is said to be low.
 
 **Rafizi:** But when I look at it, over the past 15 years, the ringgit has been declining for a long period. Yes. But why do people highlight this particular period, why not highlight the decline that has occurred over 15 years? Yes, the biggest decline happened in 2015.
 
-**Bobby:** 2015, that's also Najib, right?
+**Haziq:** 2015, that's also Najib, right?
 
 **Rafizi:** I actually don't want to criticize Najib or anything, but actually people, especially the pro-Najib crowd, don't just talk about it — because I understand there were various factors at play in 2015. So if you want to talk about the decline in the ringgit's value, it actually happened back in 2015. So it's a big thing — once you have an accident, your leg is broken, you can't just run back, that's a big deal. In 2015, they got hit with a double whammy. I think one reason was the drop in oil prices — oil prices in 2015 fell to USD30 a barrel. Malaysia is an oil-exporting country, there was an impact. But at the same time, the 1MDB issue also blew up. So once that happened, the market, once it stopped trusting, it lost confidence in us.
 
@@ -411,33 +410,33 @@ The drastic dip was actually in 2015 — we can argue about various things, and 
 
 Actually, if you look at all the parameters overall, right now is the best. In 2015, the currency dropped sharply, inflation surged, and growth was quite slow at that time too. In 2022, it was the same — the currency dropped sharply, inflation surged, then growth was slow. Right now, the currency hasn't dropped sharply, it has stabilized around 4.2. It has stabilized — we wanted to see it do better, but it has stabilized. But at the same time, growth is better, inflation has basically stabilized at very low levels. So I don't agree if people on the PH side accuse us of these things when it's actually unfair, because a lot of focus right now is on fixing the structure of the economic market. The fact that those numbers show good things means our market and economy have reacted well. If this can be sustained on this trajectory for another 5 years, the situation would certainly be far better than now. So in conclusion, the economy is in a state of being fixed.
 
-**Bobby:** Say tomorrow there's an election, GE — my question to YB — PH, BN, or PN?
+**Haziq:** Say tomorrow there's an election, GE — my question to YB — PH, BN, or PN?
 
 **Rafizi:** The vote is secret.
 
-**Bobby:** I'm 25 years old, every time I listen to YB's show, YB will give suggestions — the vote is secret, but last time YB would reveal it. Do you want to stand, YB?
+**Haziq:** I'm 25 years old, every time I listen to YB's show, YB will give suggestions — the vote is secret, but last time YB would reveal it. Do you want to stand, YB?
 
 **Rafizi:** This time I will say the vote is secret. You choose who you like, but make the evaluation as a person who is a little knowledgeable.
 
-**Bobby:** So YB doesn't have any hints?
+**Haziq:** So YB doesn't have any hints?
 
 **Rafizi:** One, because it's not the election — eh, the election isn't tomorrow. So say the election is two years from now — okay, most probably two years from now we will go through many challenging global economic headwinds. We will also go through several matters that the incumbent government and the opposition need to go through, for example on reform. We also need to look from mid-term to the end of the term, all the parties that exist — how they react, and to be fair, we need to compare term to term. So it's an open field right now. So if you look at the US for example, mid-terms are a stark warning bell — whether that party or that president can ultimately remain and be re-elected, or change. It depends on the remainder of the term. For now, I'm worried if the opposition, whether PN or Bersatu, takes over, because it's a pity — in a situation where we think many policies have started to have an effect, and we need to ensure that what's being done remains consistent until the end of the term.
 
 So, of course, the concern of the people is if it changes, because PH's usual advantage is that the public is more confident PH is a more competent administrator. But — there's a "but" — whether it's the PH government or BN, whoever is in power now, don't take the public sentiment lightly. So if, for example, there's an issue that isn't handled well — that's also sometimes the influence, not you, usually PKR's influence.
 
-**Bobby:** Say the name, I don't remember their name — they call them "ceplos." I don't understand what ceplos is.
+**Haziq:** Say the name, I don't remember their name — they call them "ceplos." I don't understand what ceplos is.
 
 **Rafizi:** Don't underestimate the public's intelligence. Even if we support in our hearts, we can't take a holier-than-thou attitude — "my party is the best, if you don't support it, you're stupid and evil." It doesn't work like that. We need to show, and if there's something we feel is wrong, we need to point it out. So the situation now, in these remaining two years, also depends on how we handle public sentiment. I don't understand — but if the sentiment is not handled well, because the people feel that the government is disconnected, or it's holier-than-thou, or it talks down to the people — eventually, it becomes a "protest candidate." And that protest candidate phenomenon happened in 2018. That's why, even though Najib longs for his era because of the good example of 2017 — 2017 was economically a good year — that's why Najib was so confident he would win. Merdeka Center, other analysts, said with these numbers, he would surely win. No, he didn't win. Because there's a gap between the headline figures and the feelings of the people on the ground.
 
-**Bobby:** But YB, on that note, it's related to our discussion — you two burned me alone last night. Shouldn't he himself be the panellist?
+**Haziq:** But YB, on that note, it's related to our discussion — you two burned me alone last night. Shouldn't he himself be the panellist?
 
 **Other host:** That's right, he should be the one to answer.
 
-**Bobby:** I want to burn YB, he evaluated YB's answer, is it okay or burned or not?
+**Haziq:** I want to burn YB, he evaluated YB's answer, is it okay or burned or not?
 
 **Other host:** YB a little — it was related to... it was a burning attempt.
 
-**Bobby:** It's an economic issue, baby. There's one more burning question — societal sentiment. If we can know, in the government's economic communication, what is the biggest mistake in how any government handles communication on economic issues?
+**Haziq:** It's an economic issue, baby. There's one more burning question — societal sentiment. If we can know, in the government's economic communication, what is the biggest mistake in how any government handles communication on economic issues?
 
 **Rafizi:** I don't know — it's like — because I don't think there's a right and wrong. And this issue of communication, it can't be taken as a whole. Meaning, you can't say sentiment — sentiment, you can't say that everything has to be managed internally — "this is economic communication, this is Fahmi Fadzil's communication, this is this communication" — they just don't work like that actually. So, the people, they don't think about politics every day. They live their lives and they don't know much about politics — except when there are things the government does wrong. If the government communicates everything well, they don't even take notice. Except that's why it's very important not to be condescending, not to be seen as holier-than-thou, not to be — what's it called — because I understand, at the government level, we're preoccupied with macro issues, preoccupied with, what's it called, phasing down the government debt. So the fiscal glide has to happen — this year, there are many challenges, right, that is indeed a challenge for the government. But that's not what matters to the people. Do they care about that, debt and all that? And different groups have different priorities.
 
@@ -445,37 +444,37 @@ So, what's it called, that's why if I recall, the economic communication that ne
 
 So we need, actually, ministers and politicians and parliamentarians who can speak and translate things in simple language. Because I don't think our people are all "bad" — if we want everyone to just follow my way, that's not how it works. If you compare, all economic issues have trade-offs. You cut the SST tax, you have to cut somewhere else. For example, you must change the tax somewhere — who wants to pay this? In our own households it's the same — if you lose your salary, you have to go find something else. So people understand, but it needs to be understood by more people. And I hope the Minister of Communication will take the "economic licence" later, because he is the government spokesperson. So the person with the greatest authority to speak on the economy should be Fahmi Fadzil, because I can't — I can only comment on my portfolio, which is the long-term plan. The only person who can comment on everything — even the Ministry of Finance, even MITI — is Fahmi Fadzil. So if there is a Minister of Communication like Fahmi Fadzil who can really understand and explain, he can speak every day because he has the "licence." Other ministers don't have that licence.
 
-**Bobby:** Oh, like that?
+**Haziq:** Oh, like that?
 
 **Rafizi:** Yes, right? And he is Minister of Communication because he used to speak in Parliament. Other than the Prime Minister and the Prime Minister's team, the only person who can translate all this is him. He needs to go learn this. So aside from him — under him is the Ministry of Communication — so he needs to bring in people like this, other people who can translate. Government communication shouldn't just be one-sided and holier — just registering statements, "oh great, look at the government's statement" — you need to convince people. And this information actually depends heavily on credibility and, what's it called, people's trust in the information provider. And society these days, in this digital age, no longer grants authority just because of a position. Authority over information, the credibility of that information, is a long process.
 
-**Bobby:** Amen.
+**Haziq:** Amen.
 
 **Rafizi:** If you become an influencer, you know how it works — you know you have to constantly engage, people ask, you need to explain, answer, and so on. And the answer needs to have facts, because they will actually check, they will verify — sometimes they get the wrong facts too, out of context, you must be able to show that it's out of context. So actually, you must become a subject matter expert on that matter. So if these things can be done, I think the public can actually be fair and look at evaluating this economic situation objectively — they won't just take one thing. So this is constructive feedback for the government.
 
-**Bobby:** Or how — because I'm reading, YB, where will YB go after this? Will you defend the government or oppose it? This is what I'm asking — defend or not?
+**Haziq:** Or how — because I'm reading, YB, where will YB go after this? Will you defend the government or oppose it? This is what I'm asking — defend or not?
 
 **Rafizi:** Defend.
 
-**Bobby:** So what's wrong? Okay, the problem is that our people are thin-skinned. Because outside, the narrative is that PMX and YB are having problems and running away, or how? If YB wants to comment.
+**Haziq:** So what's wrong? Okay, the problem is that our people are thin-skinned. Because outside, the narrative is that PMX and YB are having problems and running away, or how? If YB wants to comment.
 
 **Rafizi:** No, if there is a problem, there's a problem — that's actually the view of each person. The best thing as a Member of Parliament, and not a minister, is that I do not have the responsibility to defend the government. I don't. My responsibility is to speak for the people. So some things are right, some are wrong. If I feel that minister is slow, it depends on that minister — if I say, "hey, you're slow," what's it called, it depends on him. If he's the type who says, "I want to do the best for my job because this is my responsibility," then you go a bit faster. But if he's the type who says "don't criticize me at all, don't be angry at me" — that's why this process has happened, if from me as a Member of Parliament from before, whoever it is, I will point it out. Some people take it positively, some people can't take it — even within the party it's like that. There are people I've pointed things out to, some like Haziq — I said if your review is worse after three weeks, I'll fire you.
 
 So let's see how the review goes. I take it that Haziq took it positively. Some people get angry. So, I think, if you lead a public life, you must be able to say things and to give and take.
 
-**Bobby:** Okay, the last one, the hottest one — can we trust PMX in terms of his integrity so far?
+**Haziq:** Okay, the last one, the hottest one — can we trust PMX in terms of his integrity so far?
 
 **Rafizi:** That's a question that — because YB is more engaged with him — you have to define what "integrity" means, how he steals money — yes, because all this time...
 
-**Bobby:** The integrity is big, Pak Yang, the integrity is a lot — money management. Because the latest issue is the issue of the judicial appointment, which YB held a press conference on. So I'm down here, I'm honest, I'm pro towards YB, but I'm also pro towards PMX. I want these two to still be together, I don't want a split, actually.
+**Haziq:** The integrity is big, Pak Yang, the integrity is a lot — money management. Because the latest issue is the issue of the judicial appointment, which YB held a press conference on. So I'm down here, I'm honest, I'm pro towards YB, but I'm also pro towards PMX. I want these two to still be together, I don't want a split, actually.
 
 **Rafizi:** Competition is good, competition is good — the "go-run" is good, this is because you guys are safe.
 
-**Bobby:** What is this, what is this, "saki-baki" (remnants)?
+**Haziq:** What is this, what is this, "saki-baki" (remnants)?
 
 **Rafizi:** Remnants from the past — he was beaten up like this, he couldn't talk, all of that. What's it called — who in this country, for the time being, on the government side, can criticize the Prime Minister? Name one person.
 
-**Bobby:** Me lah.
+**Haziq:** Me lah.
 
 **Rafizi:** Hmm. So if I feel there's something that can be improved, then it's my duty to say it. The challenge and the ball are also in the Prime Minister's court. We in PKR, 30 years, we say this is a reform party, we're open to democracy and so on — now that's a test. If it comes down to one thing, and the judge is out there — the judge is not me, or Anwar Ibrahim, or PKR. The judge is the public. And they will judge PH as a whole, because the alternative is even worse. The alternative, if, for example, we take the judiciary as an example — well, there are matters the government needs to answer. Then, it has reached the stage where the Bar Council will march. Every time the Bar Council marches, the government loses — 2007, Bar Council, Walk for Justice, 2008, lost. 2022, there was also a Walk for Justice, 2022, the government changed.
 

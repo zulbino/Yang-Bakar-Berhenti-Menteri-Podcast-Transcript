@@ -292,7 +292,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** —themes—
 
-**Haziq:** —themes. Bye, thank you Farhan. Let's look at the first one straight away, Bobby — the economic issue.
+**Haziq:** —themes. Bye, thank you Farhan. Let's look at the first one straight away, YB — the economic issue.
 
 **Rafizi Ramli:** Wait — what did we group this based on? How did we decide these are the 10 biggest issues? Based on what?
 
@@ -622,7 +622,7 @@ So, what's left for me is to make sure that whatever happens in the coming gener
 
 **Haziq:** There's no...
 
-**Rafizi Ramli:** No choice. Alright, Bobby, issue number seven. How long have we been going?
+**Rafizi Ramli:** No choice. Alright, YB, issue number seven. How long have we been going?
 
 **Farhan (Pa'an):** Two hours...
 

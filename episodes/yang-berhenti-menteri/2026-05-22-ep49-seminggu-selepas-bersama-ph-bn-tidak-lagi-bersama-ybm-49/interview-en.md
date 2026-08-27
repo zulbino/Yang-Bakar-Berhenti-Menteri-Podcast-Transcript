@@ -409,7 +409,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Nik Nazmi:** Izan contested for the fifth or sixth time, won, replacing the late Salahuddin. So within PAS too there are many such stories. So I was so lucky, I never dreamed of winning in Selangor at all. Yeah, right, at that time nobody would ask that — where people say it was the "right time." So to say I regret it, to say it's not fair, would be wrong, because I had it good — that's how it was. But of course, we went through things too — but we, I think compared to Ramanan, we went through lock-up, we did those things too. For me, it taught us things and let us meet many people. And it's not about Anwar — if we think we struggled for Anwar, that would truly be a waste. But because we came to know so many ordinary people, and some of them will become part of things together. And maybe we'll use that experience. But yes, if you think about how other friends are already rich, celebrating this and that, well, that's your choice — when you go into politics the right way, you're not going to get rich. Okay, fine.
 
-**Haziq:** Maybe let's move straight on — behind the scenes, Bobby. But before that, if I may ask something.
+**Haziq:** Maybe let's move straight on — behind the scenes, YB. But before that, if I may ask something.
 
 **Rafizi Ramli:** Sure, that's your job, to ask.
 

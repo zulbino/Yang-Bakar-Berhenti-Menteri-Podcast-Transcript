@@ -566,7 +566,7 @@ So, put this case — in another country, imagine, if this happened in Japan or 
 
 **Speaker(?):** Hmm.
 
-**Haziq:** Okay YB, 2 hours 20 minutes. The best Education Minister in the world has been waiting. Okay, let's not keep her waiting too long. It's fine, she's willing to wait a long time for me. She hasn't appeared on our podcast in a long time. Yes, so we've been especially busy. So Fadlina must be saying, "damn, I've been getting hit on the podcast for months, and now it's happening again." So why did you guys put up a video of her speaking, disrupting my concentration? Okay, this is because of the recent SPM results that just came out, YB — the results people hoped for weren't achieved, but Fatinah got a better SPM result than yours, even though it wasn't the one hoped for. Ok, so next, Bobby, my—
+**Haziq:** Okay YB, 2 hours 20 minutes. The best Education Minister in the world has been waiting. Okay, let's not keep her waiting too long. It's fine, she's willing to wait a long time for me. She hasn't appeared on our podcast in a long time. Yes, so we've been especially busy. So Fadlina must be saying, "damn, I've been getting hit on the podcast for months, and now it's happening again." So why did you guys put up a video of her speaking, disrupting my concentration? Okay, this is because of the recent SPM results that just came out, YB — the results people hoped for weren't achieved, but Fatinah got a better SPM result than yours, even though it wasn't the one hoped for. Ok, so next, YB, my—
 
 The point is, the 2025 SPM results are said to be the best in 5 years. Whereas YB previously said there hasn't been any sufficiently significant education reform carried out by YB Fadlina. Will YB finally admit YB Fadlina is right?
 

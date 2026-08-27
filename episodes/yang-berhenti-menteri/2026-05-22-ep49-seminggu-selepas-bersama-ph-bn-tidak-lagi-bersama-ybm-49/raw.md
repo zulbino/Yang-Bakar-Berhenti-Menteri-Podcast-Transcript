@@ -342,7 +342,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:05:47] Nik Nazmi: Izan bertanding kali kelima ke enam menang? Berganti arwah Salahuddin. So, macam dalam pas pun banyak cerita-cerita tu. So, I was so lucky memang tak mimpi nak menang kat Selangor semua tu. Yalah, yalah waktu tu. Tak ada orang nak tanya tu. Mana orang kata right time lah. So, nak kata, I nak kata menyesal, kata tak fair lah. Sebab I had it good. Eh, segitu. Tapi, of course lalulah. Tapi kita lalu, kita, I think compare dengan Ramanan tu, kita lalulah masuk lock up. Kita lalulah buat benda-benda tu kan. Untuk saya, ia mengajar kita dan kenal banyak orang. Dan ia bukan tentang Anwar. Kalau nak fikir kita berjuang dengan Anwar, memang rugilah. Tapi kerana kita kenal dengan ramai orang biasa, dan beberapa daripada mereka akan menjadi sebahagian daripada bersama. Dan mungkin pengalaman tu kita akan gunakan lah. Tapi yes, kalau fikir kawan lain dah kaya, raya apa tu, then, yelah, kita tak boleh. You know your choice. Bila masuk politik, patut cara betul takkan kaya lah. Okay, baik-baik.
 
-[1:06:47] Haziq: Mungkin kita masuk terus ke. Terus sama. Di sebalik tabir, Bobby. Cuma sebelum tu kalau saya boleh tanya sikit lah.
+[1:06:47] Haziq: Mungkin kita masuk terus ke. Terus sama. Di sebalik tabir, YB. Cuma sebelum tu kalau saya boleh tanya sikit lah.
 
 [1:06:54] Rafizi: Boleh yang kau tanya kalau-kalau. Memang kerja kau untuk tanya.
 

@@ -9,7 +9,6 @@ duration: 1h 51m
 view_count: 61217
 hosts:
 - Rafizi
-- Bobby
 guests:
 - Faiz Ahmad
 topics:
@@ -32,7 +31,7 @@ topics:
 - Judicial appointment controversy and Bar Council's Walk for Justice
 - Collective responsibility, party dissent, and loyalty to Anwar Ibrahim/PMX
 - Rafizi's political philosophy on speaking for the public vs defending government
-summary: In this episode of the "Podcast Yang Berhenti Menteri," host Bobby is joined
+summary: In this episode of the "Podcast Yang Berhenti Menteri," host Haziq is joined
   by guest speaker Faiz Ahmad, a TikTok economic commentator and former market analyst,
   to interview Rafizi. The discussion opens with the concept of "social enterprise"
   and Rafizi's AYO Malaysia initiative, which uses an Islamic musyarakah-based profit-sharing
@@ -51,7 +50,7 @@ summary: In this episode of the "Podcast Yang Berhenti Menteri," host Bobby is j
   the methodology gap between MITI's "potential" FDI announcements and DOSM's realized
   FDI figures, defends the independence and integrity of DOSM's data reporting from
   political interference, and discusses ringgit depreciation trends since 2015. Toward
-  the end, Bobby presses Rafizi on political loyalty, asking whether he would defend
+  the end, Haziq presses Rafizi on political loyalty, asking whether he would defend
   or oppose Anwar Ibrahim/PMX's government amid controversy over judicial appointments
   and the Bar Council's threatened "Walk for Justice." Rafizi argues that as a backbench
   MP (not bound by cabinet collective responsibility), his duty is to voice the public's
@@ -308,99 +307,99 @@ Sebab itu keputusan kerajaan penting dari segi sequencing, mengimbangi antara ke
 
 Ia mungkin boleh dikurangkan, tapi kita akan jadi negara sosialis — sebab awak kena campur tangan untuk turunkan harga, atau awak bagi "cash is king". Komen daripada Gabenor Bank Negara — untuk lima tahun, 2020-2025, inflasi terkumpul tahun demi tahun 9%, kenaikan gaji swasta...
 
-**Bobby:** 7.1, 7.9 — sebenarnya income rakyat kehilangan negatif 1.9. So itu yang dimainkan dekat media sosial, maksudnya Madani tak berjaya tackle isu ini. Dan saya tengok YB nak bergerak ke arah gaji progresif. Sejauh mana keberkesanan benda tu untuk take issue tu? Dia ambil masa lah?
+**Haziq:** 7.1, 7.9 — sebenarnya income rakyat kehilangan negatif 1.9. So itu yang dimainkan dekat media sosial, maksudnya Madani tak berjaya tackle isu ini. Dan saya tengok YB nak bergerak ke arah gaji progresif. Sejauh mana keberkesanan benda tu untuk take issue tu? Dia ambil masa lah?
 
 **Rafizi:** Okay, maksud saya first and foremost lah, kalau ada orang mainkan isu kegagalan kerana — awak ambil purata dalam tempoh 5 tahun, inflasi naik 9%, gaji naik 7%, kemudian awak salahkan kerajaan sekarang. Well, tengoklah, itu angka kumulatif. Siapa yang buat angka kumulatif itu naik sebegitu banyak? Pada 2021, 2022. Malah, saya rasa perkara yang terbaik ialah, walaupun orang akan terus mempersoalkan — yelah — kejayaan menahan inflasi daripada naik ini bukan mudah. Saya tak tahu, kan, orang mungkin tak rasa, tapi untuk mengurangkan inflasi daripada 4.00% pada November 2022 semasa kami ambil alih, sampai ke sekitar 1.4% sekarang, secara bulanan — kalau Madani gagal, kita akan masih tersekat pada 4%, ia tak akan kekal pada 4%, ia akan jadi 9% kumulatif, ia akan jadi 15%. Jadi itu kena adil. Sebenarnya, "kegagalan" itu adalah kerana kita mewarisinya. Tapi isu gaji ini adalah isu struktur ekonomi kita.
 
 Yang ini sangat sensitif, sebab kadang-kadang saya rasa — yalah, masyarakat kita ambil pendekatan yang sangat simplistik. Dia memanglah mudah, kita maki majikan — "syarikat tak nak bayar, boss jahat", gini-gini kan. Ada yang macam itu, tapi sebelum kita tuding jari macam itu, kita kena tengok komposisi sebenar ekonomi negara kita. Syarikat-syarikat besar hanya 2% di negara kita. Sebab itulah kalau ada kekosongan di syarikat besar — sama ada GLC, katakan Petronas, atau Maybank — beribu-ribu orang nak ambil kerja itu.
 
-**Bobby:** 2% lagi ialah syarikat sederhana. Dia bukan syarikat besar.
+**Haziq:** 2% lagi ialah syarikat sederhana. Dia bukan syarikat besar.
 
 **Rafizi:** Ha, apa nama ni — dan syarikat sederhana ni, maksudnya kalau syarikat servis lah, syarikat servis, revenue dia kurang daripada RM20 juta. Tak besar syarikat tu, tau, tapi dah dikira sebagai sederhana kan?
 
-**Bobby:** 15% adalah syarikat kecil.
+**Haziq:** 15% adalah syarikat kecil.
 
 **Rafizi:** Dan 80% adalah perniagaan mikro — maksudnya jual ubat ke, jual makanan, jual pisang goreng ke, apa, pekerja dia mungkin 5 orang.
 
 Jadi kalau orang kata, "oh jahatlah majikan ni, kenapa dia tak nak bayar?" — kita kena tengok majikan jenis macam mana. Ada majikan yang besar, kalau dia memang kedekut, yang itu memang perlukan banyak dasar dan tindakan. Tapi pada masa yang sama, contohnya PSM, Parti Sosialis — dia punya pendekatan mudah je: "kita sebagai kerajaan, kamu kerajaan, kamu arahkan saja." Jadi sebab itu, awak kena balance kan, supaya kita buat itu secara berkala. Sebab itulah keputusan saya dahulu — untuk kita melindungi syarikat-syarikat kecil dan sederhana ni, kerajaan kena campur tangan. Campur tangan kerajaan itu tak boleh dalam bentuk memaksa dia bayar dan menetapkan wajib, sebab dia dah ada garis wajib iaitu gaji minimum RM1,700. Yang lain-lain, yang RM2,000 dan seterusnya, itu nak dinaikkan mengikut tangga gaji yang kita rasakan wajar — kerajaan kena bagi suntikan, dan sijil itu membawa satu obligasi, satu tanggungjawab daripada majikan. Majikan kena upskill, buat semua, kan? Itu betul — kalau kita nak bagi ini kepada semua orang, tak apa, tapi kita perlu belanjakan RM5 bilion, RM7 bilion setahun dalam keadaan kita tak mampu.
 
-**Bobby:** Kalau program itu diarahkan kepada kerajaan?
+**Haziq:** Kalau program itu diarahkan kepada kerajaan?
 
 **Rafizi:** Iaitu gear up kerajaan, sebab dia GLC — untuk GLC sahaja. Jadi GLC memang syarikat besar dan memang duit dia banyak. Jadi kalau untung dia beratus juta, kau bayar orang gaji bawah RM2,000, memang patut kena lanyak lah. Tapi kita tak boleh buat macam itu untuk semua, sebab itu dalam progressive wage, gaji progresif, syaratnya syarikat besar tak boleh masuk, syarikat yang dimiliki oleh pemegang saham asing pun tak boleh. Dia khusus kepada syarikat-syarikat sederhana ke bawah — yang sebenarnya adalah majikan paling besar di negara kita. Tapi you nak pukul majikan sebab you kata majikan ni jahat semua — sebenarnya bukan begitu cara dia lah kan, sebab dia pun sebenarnya terpaksa bergelumang dengan tekanan kos, gaji, dan sebagainya. Kita pun nak pastikan kesan kepada inflasi itu tidak terlalu besar. Kalau you paksa — katakanlah you letakkan tangga gaji minimum RM1,700, gaji fresh graduate RM3,500 dan sebagainya — ada dua kemungkinan sahaja. Satu, dia gulung tikar. Dua, dia masuk pasaran informal — dia akan kata, "takpelah, aku tak boleh bayar kau macam itu. Kau tak nak hilang kerja kan? Jadi aku tak gaji kau sebagai pekerja tetap, aku gaji kau sebagai kontraktor."
 
 Kau tak dapat KWSP, kau tak dapat benda ini — kau akan tetap dapat RM2,000, sekurang-kurangnya kau tak hilang pendapatan sepenuhnya. Sebab kalau aku ambil kau sebagai pekerja tetap, aku kena bayar RM3,500, aku tak mampu. Atau perkara kedua yang dia akan buat ialah naikkan harga — inflasi akan naik. Jadi sebab itu, kita kena urus gaji sektor swasta dengan cara yang — dan ini kembali kepada masalah paling utama, iaitu — orang marah kat saya sebab cakap begini, tapi ini masalah struktur. Sebab perniagaan PKS kita, yang membentuk 95% daripada perniagaan negara kita, tidak mampu mengeksport. Kita sebenarnya cuma buat apa yang orang lain buat. Itulah yang saya selalu ulang, dan orang marah — mereka kata saya memanggil sikap kita "Melayu" — tapi kadang-kadang, kalau ada orang jual donut susu, dan dia dah habis jual donut susu...
 
-**Bobby:** Donut susu kat situ je lah, kalau pelanggannya ada 10 orang, 10 orang lah.
+**Haziq:** Donut susu kat situ je lah, kalau pelanggannya ada 10 orang, 10 orang lah.
 
 **Rafizi:** Kemudian kau mula ada masalah, kan — sebab berbanding contohnya dengan PKS negara lain, PKS Jerman ke, PKS di Korea — dia nama PKS tapi dia buat komponen untuk pasang dalam Boeing, tau. Jadi sebab itu dia gaji jurutera, dia ada 50 orang, dan sebab itu dia boleh bayar gaji yang tinggi. Kecuali kita beralih daripada buat baldi kepada buat mesin untuk buat baldi, sampai bila-bila pun soal struktur ni takkan diselesaikan.
 
-**Bobby:** Tapi YB banyak melontarkan masalah. Solusinya apa? YB dah jadi kerajaan sekarang.
+**Haziq:** Tapi YB banyak melontarkan masalah. Solusinya apa? YB dah jadi kerajaan sekarang.
 
 **Rafizi:** Sebab itu, apa nama ni, contohnya kan — pertama, keseluruhan rangka ekonomi kita ni kena beralih daripada ekonomi yang legacy. Okay. Kita tengok kilang-kilang hebat kita — tapi dari segi kandungannya, kilang-kilang hebat kita ni tidak menghasilkan teknologi itu sendiri. Dia sebenarnya membayar royalti kepada orang di luar sana, dan barang yang dihasilkan adalah barang komoditi. Perkara ini — itulah yang pada tahun 2023 kita buat kajian separuh penggal, Rancangan Malaysia Ke-12 kan — itu yang kita perkenalkan sektor pertumbuhan tinggi, nilai tinggi. Contohnya, ekonomi digital sebenarnya adalah sektor pertumbuhan tinggi, nilai tinggi. Elektronik Termaju, E&E. Kemudian, peralihan tenaga — maksudnya, industri berasaskan peralihan tenaga, itu pertumbuhan tinggi. Mineral kritikal adalah sektor pertumbuhan tinggi, nilai tinggi. Dan sebenarnya, pertanian moden.
 
 Pertanian moden pula sebab makanan mahal lah, kita kena import dan sebagainya kan. Jadi tugas kerajaan ialah merangka balik sektor ekonomi kita ini untuk beralih kepada sektor-sektor yang nilainya tinggi. Jadi ini lah maksudnya belanjawan kena pastikan sektor-sektor ini didahulukan. Kemudian, dari segi tenaga kerja yang kita lahirkan, mestilah didorong ke arah ini. Serta-merta, ada benda yang kita boleh intervene sebagai katalis — itu yang contohnya Kementerian Ekonomi bekerjasama, dan kita berjaya dapatkan projek semikonduktor supaya dalam tempoh lima tahun, Malaysia menghasilkan cip sendiri. Dan kita akan beralih daripada memasang cip kepada mencipta cip. Sebab kalau kau mencipta cip, kau tak perlu pun memasangnya — orang lain buat itu di Vietnam atau Indonesia. Setiap cip ada royaltinya sendiri. Itu yang berlaku di AS, UK, Jepun — tapi kita belum sampai ke tahap itu.
 
-**Bobby:** Cip Arm itu ke arah tersebut?
+**Haziq:** Cip Arm itu ke arah tersebut?
 
 **Rafizi:** Ya, Arm. Itu sebenarnya sebab orang tak faham — Arm sebenarnya adalah monopoli teknologi cip di dunia. 95% cip dalam peranti mudah alih, telefon bimbit — 95% adalah Arm. Cuma business model dia berbanding dengan Intel dulu — dia buat kajian semua, bila dia dah ada blueprint dia dan teknologi itu, dia jual kat kita, kita dapat IP itu. Kemudian setiap satu cip yang dijual itu, dia ada percentage dia, 20% ke 30%. Jadi dengan revolusi telefon pintar yang berlaku dalam 20 tahun yang lepas, model bisnes itulah yang berjaya, berbanding dengan model tradisional macam Intel, AMD dulu yang kita beli cip terus daripada dia. Masalah kita, kalau kita nak tunggu sampai kita ada pakar sendiri untuk menghasilkan cip kita sendiri, memang 20 tahun, 30 tahun pun tak tentu jadi. Jadi sebab itu kita bekerjasama dengan Arm, supaya teknologi IP itu diberikan dan mereka juga akan membantu menghasilkan cip kita — itulah yang sedang berlaku sekarang. Sebab bila itu berlaku, maksudnya jenis kerja yang dihasilkan bukan lagi sekadar jurutera yang mengawasi pemasangan cip — dia menjadi jurutera yang mereka bentuk cip, dan gajinya berbeza.
 
-**Bobby:** Ok, kita masuk tentang FDI pula, sebab sekarang ni PMX dikenali dekat media sosial sebagai "Bapa Potensi" — "Bapa FDI Bapa Potensi." So sebenarnya FDI ni — yelah, pengumuman tu dikatakan sebagai — apa nama dia — dia bukan realized lagi kan, tapi potential, potential FDI. So macam mana rakyat nak menyemak benda tu supaya maklumat itu sampai?
+**Haziq:** Ok, kita masuk tentang FDI pula, sebab sekarang ni PMX dikenali dekat media sosial sebagai "Bapa Potensi" — "Bapa FDI Bapa Potensi." So sebenarnya FDI ni — yelah, pengumuman tu dikatakan sebagai — apa nama dia — dia bukan realized lagi kan, tapi potential, potential FDI. So macam mana rakyat nak menyemak benda tu supaya maklumat itu sampai?
 
 **Rafizi:** Data tu ada. Saya pernah jawab ni sekali kan — secara pelaporan rasmi negara, sebab negara kena ada pelaporan rasmi. Yang itu dikeluarkan oleh DOSM lah, sebab mana-mana negara akan ada National Statistics Office yang melaporkan semua ini berdasarkan piawaian yang ditetapkan oleh antarabangsa. Okay. DOSM memang melaporkan FDI setiap tahun. Okay. Tapi sebelum ini, ada penyokong Najib yang selalu bising, dan golongan PAS yang tak berapa faham — mereka tanya kenapa angka DOSM sedikit berbeza daripada yang diumumkan oleh MITI.
 
 Sekarang, prosesnya macam ini. Menurut piawaian pelaporan antarabangsa, FDI yang dilaporkan ialah FDI yang telah dibelanjakan. Jadi contohnya kalau ada syarikat A daripada, katakanlah, China, dia nak buka kilang kan — proses dia, masa dia nak buka kilang itu, dia perlu mendapatkan kelulusan daripada MITI, melalui MIDA. Jadi dia akan submit, dia kata, "saya nak buat kilang sekian-sekian, perbelanjaan capital saya 2 bilion." Ini yang diumumkan lah — 2 bilion dan sebagainya. Kenapa dia perlu dapatkan kelulusan daripada MIDA ialah supaya dia akan dapat insentif cukai — nanti bila dia dah beroperasi, semua status itu dapatlah insentif untuk tax kan. Yang itu diumumkan oleh MITI — yang tiga ratus bilion tertinggi semua itu — yang itu untuk tahun yang telah diluluskan. Okay. Tapi samalah juga macam ekonomi lain — bukannya syarikat itu masuk, dia kata "saya nak buat kilang dua bilion," pop, esok terus ada kilang. Mana ada. Dia kena pergi cari tanah dulu, lepas tu dia kena pasang kilang dan sebagainya. Jadi katakanlah dia nak buat kilang — projek dia untuk memasang kilang, daripada dapatkan tanah sampailah beroperasi, tiga tahun. Jadi dia baru mula bawa masuk duit dan mula berbelanja — yang itu dilaporkan oleh DOSM.
 
-**Bobby:** Oh, ok. Haa, yang itu dilaporkan oleh DOSM kan.
+**Haziq:** Oh, ok. Haa, yang itu dilaporkan oleh DOSM kan.
 
 **Rafizi:** Jadi sebenarnya, kalau konsepnya — kalau kita nak faham, mungkin konsep yang baik ialah kalau kita bandingkan dengan syarikat pembinaan. Ok, cakap pembinaan — dia akan umumkan perolehan dia, revenue dia untuk tahun itu. Maksudnya dari segi revenue recognition, biasanya yang dia dah jual atau project progress dia yang boleh di-bill, dia boleh masukkan katakanlah RM100 juta untuk tahun itu. Tapi kalau kita nak menilai saham dia — okay ke tidak syarikat ni — kita tak tengok revenue itu sahaja, tau. Kita tengok satu lagi, kita panggil "order book." Maksudnya, dia sekarang ni dapat RM100 juta perolehan tiap-tiap tahun, tapi sebenarnya projek yang dia dapat untuk tahun-tahun akan datang ni berapa? Kalau lebih tinggi, RM3 bilion, RM4 bilion, lagi bagus lah, kerana maksudnya syarikat ni memang bagus prospeknya.
 
 Jadi konsep FDI "potensi" ni samalah macam itu — yang disebut sebagai FDI yang diluluskan itu adalah "order book." Yang DOSM laporkan itu adalah yang telah "recognized" kerana telah dibelanja. Yang kita kena perhati dengan baik ialah, berapa sebenarnya peratusan FDI yang diluluskan oleh MIDA dan MITI yang benar-benar dilaksanakan, direalisasikan kan?
 
-**Bobby:** Saya selalu tanya soalan ni — dalam mana, setakat ni saya ingat dalam 80% lah.
+**Haziq:** Saya selalu tanya soalan ni — dalam mana, setakat ni saya ingat dalam 80% lah.
 
 **Rafizi:** Itu adalah angka yang bagus, berbanding zaman-zaman sebelum ini.
 
-**Bobby:** Sebelum itu, saya rasa... saya tak ingat, saya tak lihat datanya, ia lebih rendah.
+**Haziq:** Sebelum itu, saya rasa... saya tak ingat, saya tak lihat datanya, ia lebih rendah.
 
 **Rafizi:** Saya kena cari data itu.
 
-**Bobby:** Cari datanya — saya rasa ia jauh lebih rendah, antara 50% hingga 60%.
+**Haziq:** Cari datanya — saya rasa ia jauh lebih rendah, antara 50% hingga 60%.
 
 **Rafizi:** Jadi, boleh dikatakan ia berprestasi baik, kan, datanya menunjukkan prestasi baik. Tapi ada orang juga kata kau tak boleh percaya data ni, boleh tipu — netizen. Ya, itu hak mereka sendiri, tapi — kesianlah kat pegawai-pegawai DOSM semua tu. Saya rasa orang yang kata data ni boleh ditipu semua ni, dia kadang-kadang lupa bahawa — kalaulah ada menteri yang nak suruh, macam saya Menteri Ekonomi kan — DOSM, mereka nak terbitkan data, mereka tak maklumkan kepada saya. Mereka tak boleh maklumkan kepada saya, sebab mereka perlu bertanggungjawab kepada rakan antarabangsa.
 
 Sebenarnya, sebelum ini, kerajaan sebelum Pakatan Harapan — kerajaan PN — ada isu besar, sebab inflasi diumumkan oleh DOSM, dan ada perbincangan pumpang-pumpang ni supaya data inflasi itu, sebelum diumumkan, kena present kat Kabinet dulu kan. Nasib baik diorang kalah lah. Jadi bila saya masuk jadi Menteri Ekonomi, perkara itu saya warisi — kerana ini tak tentu, sebab sebelum ini ada perbincangan tak boleh bentangkan terus umum terus kepada pasaran. Saya kata, "you go ahead," kita tak perlu maklum kepada Kabinet, PM, ataupun Menteri Ekonomi pun. Ini isu integriti jugalah kan — maksudnya berintegriti dari segi tidak nak control maklumat.
 
-**Bobby:** Haa iyalah, sebelum tu tak boleh.
+**Haziq:** Haa iyalah, sebelum tu tak boleh.
 
 **Rafizi:** DOSM tu, kalau ada kerajaan yang kata dia nak tengok dulu data — tak bolehlah, dia kena jawab kepada pertubuhan dan piawaian antarabangsa. Kalau pertubuhan dan piawaian antarabangsa tahu bahawa angka rasmi yang diterbitkan oleh DOSM itu telah melalui — kena dapat kelulusan kerajaan dulu — kau mungkin terlalu muda lah, tapi dalam tahun 80-an dan 90-an, masa China mula-mula nampak maju dalam ekonomi kan, kita tahu tak apa masalah utama China? Integriti data. Orang tak percaya data dia. So kerajaan China ambil masa yang lama untuk membangunkan sistem statistik antarabangsa dia supaya data yang diterbitkan itu memang betul-betul dipercayai. Jadi samalah juga macam kita — DOSM dihormati. Jadi pegawai-pegawai DOSM tu — menteri bertukar ganti, kerajaan bertukar ganti — dia dah kenal semuanya lah, menteri keluar masuk semua ni kan. Kalau suruh dia tukar, memang dia takkan tukar.
 
-**Bobby:** Walaupun mereka bergaduh, mereka tak akan tukar?
+**Haziq:** Walaupun mereka bergaduh, mereka tak akan tukar?
 
 **Rafizi:** Saya ingat masa mereka bising semasa zaman PN, mereka nak semak semua, mereka cuba. Adakah mereka lapor kepada saya? Tidak, sebab — dah lama, sebab rakyat perlu tahu itulah keadaannya. Ya, maksud saya, ada pandangan yang berbeza-beza. Ada pandangan yang kata ini memang betul lah — kadang-kadang di sebelah kerajaan perpaduan pun ada yang tidak semuanya selesa kalau angka ini langsung tidak melalui kerajaan sebelum diumumkan kan. Tapi memang pendirian saya — over my dead body. Sebab integriti data mengatasi sesiapa sahaja. Sebaik sahaja data itu orang tak percaya — dan kalau nak bising pun aku tak kisah, dia percaya ke tak percaya, tapi kalau pasaran tak percaya — kalau pasaran orang tengok, "alamak" — sebab China pernah melalui ini, dan ekonomi kita tumbuh baik pun orang tak percaya, inflasi kita rendah pun orang tak percaya. Jadi benda itu telah dipertahankan sekeras-kerasnya. Hanya orang yang — ialah, ada pengetahuan dalam pasaran yang mempersoalkan integriti angka. Yang bawah-bawah sajalah — yalah diorang tu ikut suka lah, diorang tak boleh nak jawab kenapa inflasi rendah.
 
-**Bobby:** Betul, dia pusing pula — inflasi rendah maksudnya pertumbuhan ekonomi akan perlahan.
+**Haziq:** Betul, dia pusing pula — inflasi rendah maksudnya pertumbuhan ekonomi akan perlahan.
 
 **Rafizi:** Okey, yang itu, yang itu — sebenarnya bukan salah. Sebab inflasi ni, kalau kita tengok di negara-negara yang ekonominya dah matang kan, kebanyakan daripada dasar makro dia adalah berkisar tentang kawalan inflasi. Okay. Sebab inflasi yang terlalu tinggi memang menghancurkan. Betul. Sebenarnya, kalau inflasi negatif macam China, kiamat.
 
-**Bobby:** Definisi — Switzerland tak, Switzerland negatif?
+**Haziq:** Definisi — Switzerland tak, Switzerland negatif?
 
 **Rafizi:** Ekonominya berbeza, asas perkhidmatannya berbeza. Jadi, inflasi ideal kita sekarang ialah 2%, antara 1.5% hingga 2% berdasarkan profil kita. Itu sebenarnya betul. Kalau contohnya inflasi itu terlalu rendah atau negatif, deflasi — saya ingat Jepun pun melalui hampir 20 tahun kesukaran oleh kerana ini. Orang-orang di luar yang kata, "ya, ya, ya, turun harga barang, turun harga barang" kan — negara lain pernah melalui ini, tau, Jepun, daripada tahun 1990.
 
-**Bobby:** Sampailah baru-baru ni?
+**Haziq:** Sampailah baru-baru ni?
 
 **Rafizi:** Betul.
 
-**Bobby:** Itu tahun berapa tu? 30 tahun?
+**Haziq:** Itu tahun berapa tu? 30 tahun?
 
 **Rafizi:** 30 tahun kan, deflasi kan. Dia melalui proses itu — memanglah harga barang tak naik dan sebagainya, tapi gaji pun tak naik, tak ada pertumbuhan ekonomi, produk banyak dah hilang. Jadi bila tak ada pertumbuhan ekonomi, orang tak melabur untuk menghasilkan kegiatan ekonomi yang baru. Jadi akhirnya, lama-lama ekonomi tak tumbuh, ekonomi sebenarnya musnah — banyak sektor itu dah hilang dan sebagainya. Zaman-zaman dulu di Jepun, oleh kerana inflasi negatif itu, bank kena bayar supaya — maksudnya kalau kau simpan duit dalam bank, kau kena bayar bank, bukannya dapat faedah. Tapi bank kata, "janganlah letak duit dalam bank ni, sila pergi berbelanja." So dia ada kesan dia jugalah — Abenomics lah. Hanya sekarang, saya rasa, tahun ini lah — buat pertama kali saya ingat Gabenor Bank of Japan berani menaikkan kadar faedah kan, sebab inflasi dah boleh naik ke 3%.
 
 Jadi inflasi ni ada gap lah — dia unique kepada setiap negara lah. Saya tak fikir kau boleh kata ini hard and fast rule, inflasi kena berapa banyak — tak ada benda macam itu. Dia unik kepada pertumbuhan, profile, dan sebagainya. Tetapi generally, sepertilah semua benda dalam hidup kita, yang ekstrem itu buruk. Betul. Kalau inflasi itu terlalu tinggi, ia berbahaya. Kalau inflasi itu dah negatif, deflasi — walaupun harga barang turun, kesannya ialah, akan memusnahkan ekonomi semualah. Jadi saya faham kalau orang kata ekonomi — inflasi yang terus menurun ni sepatutnya bagus. Saya rasa inflasi, kalau kita kekalkan pada 1-2%, saya rasa tak perlu risau. Yang kita perlu tengok ialah Purchasing Managers Index, PMI. Itu, apa nama ni, dari segi indeks harga — bisnes-bisnes dia beli dan sebagainya kan — kalau yang itu berterusan rendah, then saya rasa itu ada lebih banyak correlation kepada pertumbuhan ekonomi. Kalau consumer spending pun kita tengok juga kan — iyalah sebab tu, sebab inflasi sebagai inflasi rasmi itu dia punya basket of products, dia sebenarnya mewakili rakyat biasa — itulah kan, jadi dia tidak 100% melambangkan ada perfect correlation dengan pertumbuhan ekonomi lah. Sudah tentu, perbelanjaan pengguna adalah sebahagian daripadanya kan, tapi kita negara yang banyak bergantung kepada perkilangan. Jadi dari segi itu, kalau kau nak amaran awal, saya akan lihat PMI juga lah.
 
-**Bobby:** Kita dah sejam, tapi saya nak tanya lagi — pasar ringgit selalu — lihatlah, sebab bosan gila ni, kelas ekonomi ke, baik kau pergi ambil ijazah — dia bosan ke tak, saya nak tanya juga — ringgit, selalu dia diserang. Kerajaan sekarang ni, ringgit tu dikatakan rendah.
+**Haziq:** Kita dah sejam, tapi saya nak tanya lagi — pasar ringgit selalu — lihatlah, sebab bosan gila ni, kelas ekonomi ke, baik kau pergi ambil ijazah — dia bosan ke tak, saya nak tanya juga — ringgit, selalu dia diserang. Kerajaan sekarang ni, ringgit tu dikatakan rendah.
 
 **Rafizi:** Tapi bila saya tengok, sejak 15 tahun yang lepas, ringgit telah menurun untuk tempoh yang lama. Ya. Tapi kenapa orang highlight kawasan ini, kenapa tak highlight penurunan yang telah berlaku selama 15 tahun ni? Ya, penurunan paling besar berlaku pada 2015.
 
-**Bobby:** 2015, Najib juga kan?
+**Haziq:** 2015, Najib juga kan?
 
 **Rafizi:** Saya sebenarnya tak nak kritik Najib atau apa-apa, tapi sebenarnya orang, terutamanya yang wa-Najib, jangan cakap sahaja tanpa fikir — kerana saya faham ada pelbagai faktor yang berlaku pada 2015. Jadi kalau kau nak cakap tentang penurunan nilai ringgit, sebenarnya ia berlaku pada 2015 lagi. Jadi ia satu perkara besar — sekali kau accident, kaki kau patah, kau tak nak lari balik, itu perkara besar. Pada 2015, dia kena double whammy. Saya rasa satu sebab kejatuhan harga minyak — harga minyak pada 2015 jatuh ke USD30 satu tong. Malaysia negara pengeksport minyak, ada kesan. Tapi pada masa yang sama, isu 1MDB juga meletup. So once then, pasaran, bila dia tak percaya, dia hilang keyakinan kepada kita kan.
 
@@ -410,33 +409,33 @@ Kejatuhan mendadak tu sebenarnya 2015 — kita boleh argue lah pumpang-pumpang, 
 
 Sebenarnya, kalau kau tengok semua keseluruhan parameter, sekarang lah paling bagus. 2015, matawang jatuh mendadak, inflasi naik melonjak, pertumbuhan pun saya rasa agak perlahan masa itu lah. 2022, sama jugalah — matawang jatuh mendadak, inflasi naik mendadak, kemudian pertumbuhan perlahan. Sekarang ni, matawang bukanlah jatuh mendadak, dia dah stabilise di sekitar 4.2 lah. Dia dah stabilise — kita mahu lihat lebih baik lah kan, tapi dia dah stabilise. Tetapi pada masa yang sama, pertumbuhan lebih baik, inflasi pada asasnya telah stabil pada tahap yang sangat rendah semua lah kan. Jadi saya tak setuju kalau ada orang yang berada di sebelah PH, mereka menuduh benda-benda ni sedangkan sebenarnya tak adil, kerana banyak perkara yang diberi tumpuan sekarang ini ialah untuk membaiki struktur pasaran ekonomi. Fakta bahawa angka-angka tadi itu menunjukkan perkara yang baik, maksudnya pasaran dan ekonomi kita telah memberi reaksi yang baik. Kalau perkara ini boleh dipanjangkan pada landasan ini 5 tahun lagi, sudah tentulah keadaannya jauh lebih baik daripada sekarang ini. So kesimpulannya, ekonomi berada dalam keadaan yang sedang dibaiki lah.
 
-**Bobby:** Katakanlah esok pilihan raya, PRU — soalan saya kepada YB — PH, BN, atau PM?
+**Haziq:** Katakanlah esok pilihan raya, PRU — soalan saya kepada YB — PH, BN, atau PM?
 
 **Rafizi:** Undi adalah rahsia.
 
-**Bobby:** Saya berumur 25 tahun, setiap kali saya dengar rancangan YB, YB akan beri cadangan — undi rahsia, dulu YB akan dedahkan. YB nak bertanding, YB?
+**Haziq:** Saya berumur 25 tahun, setiap kali saya dengar rancangan YB, YB akan beri cadangan — undi rahsia, dulu YB akan dedahkan. YB nak bertanding, YB?
 
 **Rafizi:** Kali ini saya akan kata undi adalah rahsia. Kau pilih siapa yang kau suka, tapi buat penilaian sebagai seorang yang sedikit berpengetahuan.
 
-**Bobby:** Jadi YB tak ada sebarang petunjuk?
+**Haziq:** Jadi YB tak ada sebarang petunjuk?
 
 **Rafizi:** Satu, sebab bukan pilihan raya — eh, pilihan raya bukan esok kan. Jadi katakanlah pilihan raya dua tahun daripada sekarang — okay, most probably dua tahun daripada sekarang kita akan melalui banyak headwind ekonomi dunia yang memang mencabar kan. Kita juga akan melalui beberapa perkara yang kerajaan sedia ada dan juga pembangkang kena lalui, contohnya soal reform. Kita juga kena tengok daripada mid-term sampai habis penggal, parti-parti yang ada ni lah semua kan — macam mana reaksi dia, dan untuk kita berlaku adil, kita kena bandingkan satu penggal dengan satu penggal kan. Jadi ia adalah bidang yang terbuka — ia medan terbuka sekarang ini kan. Jadi kalau di US contohnya, mid-term tu adalah loceng amaran yang pedas — sama ada parti itu atau presiden itu akhirnya boleh kekal dan dipilih semula, atau bertukar. Dia bergantung kepada baki penggal itu. Buat masa sekarang, saya tengok — apa nama ni, bimbanglah saya kalau pembangkang, baik PN atau Bersatu, mengambil alih, kerana ia satu perkara yang malang — dalam situasi banyak perkara yang kita fikir dasarnya sudah mula ada kesan, dan kita perlu pastikan perkara-perkara yang dilakukan itu konsisten sampai ke akhir penggal.
 
 Jadi, sudah tentu, kebimbangan rakyat ialah kalau ia bertukar, kerana kelebihan PH lah selalunya ialah rakyat lebih yakin PH adalah pentadbir yang lebih kompeten. Tetapi — ada "tetapi" — kerajaan PH ke, BN ke, yang ada sekarang, jangan ambil mudah sentimen rakyat. Jadi kalau contohnya ada isu yang tidak dikendalikan dengan baik — itu juga kadang-kadang pengaruhnya, bukan kau, pengaruh PKR biasanya.
 
-**Bobby:** Sebut namanya, saya tak ingat nama mereka — mereka panggil "ceplos." Saya tak faham apa itu ceplos.
+**Haziq:** Sebut namanya, saya tak ingat nama mereka — mereka panggil "ceplos." Saya tak faham apa itu ceplos.
 
 **Rafizi:** Jangan rendahkan akal rakyat. Kalaupun kita sokong dalam hati kita, kita tak boleh ambil sikap holier-than-thou — "parti aku adalah yang paling baik, kalau kau tak sokong, kau bodoh dan jahat." Ia tidak berfungsi begitu. Kita kena tunjukkan, dan kalau ada yang kita rasa tak betul, kita kena tegur kan. Jadi keadaannya sekarang ialah dalam tempoh berbaki dua tahun ini, ia bergantung juga macam mana kita menangani sentimen rakyat. Saya tidak faham — tapi kalau sentimen tidak ditangani dengan baik, kerana rakyat rasa kerajaan itu terputus hubungan, atau dia holier-than-thou, atau dia bercakap merendah-rendahkan rakyat — akhirnya, dia jadi "calon protes." Dan calon protes itu berlaku pada 2018. Sebab itu, walaupun Najib merindui zamannya kerana contoh baik 2017 — 2017 adalah tahun yang baik secara ekonomi — sebab itulah Najib sangat yakin dia akan menang. Merdeka Center, penganalisis-penganalisis lain kata dengan angka ini, dia pasti menang. Tidak, dia tak menang. Kerana ada jurang antara angka-angka headline dengan perasaan rakyat di bawah.
 
-**Bobby:** Tapi YB, dengan itu, ia berkait dengan perbincangan kita — korang berdua bakar aku seorang-seorang malam tadi. Bukankah patut dia sendiri panelist?
+**Haziq:** Tapi YB, dengan itu, ia berkait dengan perbincangan kita — korang berdua bakar aku seorang-seorang malam tadi. Bukankah patut dia sendiri panelist?
 
 **Host lain:** Betul, dia patut yang jawab.
 
-**Bobby:** Saya nak bakar YB, dia menilai jawapan YB, ok ke atau terbakar ke tak?
+**Haziq:** Saya nak bakar YB, dia menilai jawapan YB, ok ke atau terbakar ke tak?
 
 **Host lain:** YB sedikit — ia berkaitan dengan... ia satu percubaan membakar.
 
-**Bobby:** Isu ekonomi lah, baby. Ada satu lagi soalan bakar — sentimen masyarakat. Kalau kita boleh tahulah, dalam komunikasi ekonomi kerajaan, apakah kesalahan paling besar dalam mana-mana kerajaan mengendalikan komunikasi untuk isu ekonomi?
+**Haziq:** Isu ekonomi lah, baby. Ada satu lagi soalan bakar — sentimen masyarakat. Kalau kita boleh tahulah, dalam komunikasi ekonomi kerajaan, apakah kesalahan paling besar dalam mana-mana kerajaan mengendalikan komunikasi untuk isu ekonomi?
 
 **Rafizi:** Tak tahu lah — ia seperti — kerana saya tak rasa lah ada right and wrong kan. Dan isu komunikasi ni, dia tak boleh diambil secara keseluruhan. Maksudnya, kau tak boleh kata sentimen kan — sentimen, kau tak boleh kata semua benda kena diurus secara dalaman — "ini komunikasi ekonomi, ini komunikasi Fahmi Fadzil, ini komunikasi ini" — ia sebenarnya tak berfungsi macam itu. Jadi, rakyat, mereka tidak fikir tentang politik setiap hari. Mereka menjalani hidup mereka dan mereka tidak tahu banyak tentang politik — kecuali ada benda-benda salah yang kerajaan buat. Kalau kerajaan komunikasi baik semua, dia tak ambil port pun. Kecuali sebab itu sangat penting supaya jangan condescending, jangan dilihat sebagai holier-than-thou, jangan — apa nama ni — kita, sebab saya faham, di peringkat kerajaan kita preoccupied dengan makro ni, preoccupied dengan, apa nama ni, phasing down hutang kerajaan. So the fiscal glide has to happen — tahun ini, ada banyak cabaran, kan, itu memang satu cabaran untuk kerajaan. Tapi itu bukan kepentingannya kepada rakyat. Mereka peduli tentang itu ke, hutang dan semua itu? Dan golongan lain pula berbeza kan.
 
@@ -444,37 +443,37 @@ Jadi, apa nama ni, sebab itu kalaulah saya ingat, komunikasi pasal ekonomi yang 
 
 Jadi kita perlukan, sebenarnya, menteri-menteri dan ahli politik serta ahli parlimen yang boleh bercakap dan menterjemahkan perkara-perkara dalam bahasa yang mudah. Sebab saya tak fikir semua rakyat kita "jahat" — kalau kita nak semua ikut cara aku sahaja, tak boleh nak macam itu. Kalau kau bandingkan, semua isu ekonomi ada trade-off. Kau potong cukai SST, kau kena potong di tempat lain. Contohnya, kau mesti tukar cukai di suatu tempat — siapa nak bayar ini? Kita dalam rumah tangga kita pun macam itu jugak — kalau kau hilang gaji ni, kau kena pergi cari benda lain. So orang faham, tapi ia perlu difahami oleh lebih ramai orang. Dan saya harap Menteri Komunikasi akan ambil "lesen ekonomi" nanti, sebab dia jurucakap kerajaan. Jadi orang yang mempunyai kuasa paling besar untuk bercakap tentang ekonomi sepatutnya Fahmi Fadzil, sebab saya tak boleh — saya hanya boleh mengulas tentang portfolio saya, iaitu pelan jangka panjang. Satu-satunya orang yang boleh mengulas tentang semua benda — walaupun Kementerian Kewangan, walaupun MITI — ialah Fahmi Fadzil. Jadi kalau ada Menteri Komunikasi seperti Fahmi Fadzil yang benar-benar boleh memahami dan menjelaskan, dia boleh bercakap setiap hari kerana dia ada "lesen" itu. Menteri lain tak ada lesen itu.
 
-**Bobby:** Oh, macam itu?
+**Haziq:** Oh, macam itu?
 
 **Rafizi:** Ya, kan? Dan dia Menteri Komunikasi sebab dia dulu bercakap dalam Parlimen. Selain daripada Perdana Menteri dan pasukan Perdana Menteri, satu-satunya orang yang boleh terjemahkan semua ini ialah dia. Dia kena pergi belajar lah kan. Jadi selain daripada dia — bawah dia tu ialah Kementerian Komunikasi kan — jadi dia kenalah ambil orang macam ni, orang lain yang boleh menterjemahkan. Jangan komunikasi kerajaan itu hanya satu hala yang holier — dan daftar keluar sahaja kenyataan, "oh baguslah, tengok kenyataan kerajaan" — kau kena yakinkan orang kan. Dan maklumat ini sebenarnya sangat bergantung kepada kredibiliti dan, apa nama ni, keyakinan orang kepada pemberi maklumat itu. Dan masyarakat ni, zaman digital ni, dia tidak lagi bagi authority hanya kerana jawatan. Authority kepada maklumat, kebolehpercayaan maklumat itu adalah proses yang panjang.
 
-**Bobby:** Amin.
+**Haziq:** Amin.
 
 **Rafizi:** Kau jadi influencer, kau tahu macam mana ia berfungsi — kau tahu kau kena sentiasa engage, orang tanya, kau kena terangkan, jawab, dan sebagainya. Dan jawapan pula kena ada fakta, sebab diorang akan semak sebenarnya, diorang akan check — kadang-kadang dia ambil fakta yang salah pun, out of context, kau mesti boleh tunjukkan bahawa ia out of context. Jadi sebenarnya, kau mesti jadi pakar subjek dalam perkara itu. Jadi kalau perkara-perkara ini boleh dibuat, saya rasa rakyat sebenarnya boleh berlaku adil dan melihat dalam menilai keadaan ekonomi ini secara objektif — dia tak ambil satu benda sahaja. Jadi ini teguran yang membina kepada kerajaan lah.
 
-**Bobby:** Atau macam mana — sebab saya membaca, YB, ke mana YB akan pergi selepas ini? YB akan pertahankan kerajaan atau menentangnya? Ini yang saya tanya — pertahan atau tidak?
+**Haziq:** Atau macam mana — sebab saya membaca, YB, ke mana YB akan pergi selepas ini? YB akan pertahankan kerajaan atau menentangnya? Ini yang saya tanya — pertahan atau tidak?
 
 **Rafizi:** Pertahan.
 
-**Bobby:** Jadi apa masalahnya? Okay, masalahnya ialah rakyat kita ni kulit nipis. Sebab di luar sana, naratifnya PMX dan YB ada masalah dan lari, atau macam mana? Kalau YB nak komen.
+**Haziq:** Jadi apa masalahnya? Okay, masalahnya ialah rakyat kita ni kulit nipis. Sebab di luar sana, naratifnya PMX dan YB ada masalah dan lari, atau macam mana? Kalau YB nak komen.
 
 **Rafizi:** Tidak, kalau ada masalah, ada masalah — itu sebenarnya pandangan setiap orang. Perkara terbaik sebagai Ahli Parlimen, dan bukan menteri, ialah saya tidak mempunyai tanggungjawab untuk mempertahankan kerajaan. Saya tidak. Tanggungjawab saya ialah bersuara untuk rakyat. Jadi ada yang betul, ada yang salah. Kalau menteri itu saya rasa perlahan, jadi bergantung kepada menteri itu — kalau saya kata, "alah, kau ni perlahan lah," apa nama ni, bergantung kat dia lah. Kalau dia jenis, "aku nak buat yang terbaik untuk kerja aku sebab ini tanggungjawab aku," maka kau pergi laju sikit lah. Tapi kalau jenis "tak boleh tegur langsung, jangan marah kat aku" — sebab itulah proses yang telah berlaku, kalau dari saya lah sebagai ahli Parlimen daripada dulu, siapa-siapa pun saya tegur. Ada orang ambil secara positif, ada orang tak boleh terima — dalam parti pun macam itu. Ada orang yang saya tegur, ada orang macam Haziq — aku kata kalau kau review lagi teruk selepas tiga minggu, aku buang kau.
 
 Jadi mari kita lihat macam mana review itu berlaku. Saya anggap Haziq mengambilnya secara positif. Ada orang marah. Jadi, saya rasa, kalau kau menjalani kehidupan awam, kau mesti boleh cakap benda dan give and take.
 
-**Bobby:** Okay, yang terakhir, yang paling panas — bolehkah kita percaya PMX dari segi integritinya setakat ini?
+**Haziq:** Okay, yang terakhir, yang paling panas — bolehkah kita percaya PMX dari segi integritinya setakat ini?
 
 **Rafizi:** Itu soalan yang — sebab YB lebih terlibat dengannya — kau kena definisikan apa maksud "integriti," macam mana dia mencuri duit — ya, sebab selama ini...
 
-**Bobby:** Integriti itu besar, Pak Yang, integriti tu banyak — pengurusan wang. Sebab isu terkini ialah isu pelantikan kehakiman, di mana YB adakan sidang media mengenainya. Jadi saya di sini, saya jujur, saya pro terhadap YB, tapi saya juga pro terhadap PMX. Saya nak dua-dua ini kekal bersama, saya tak nak perpecahan, sebenarnya.
+**Haziq:** Integriti itu besar, Pak Yang, integriti tu banyak — pengurusan wang. Sebab isu terkini ialah isu pelantikan kehakiman, di mana YB adakan sidang media mengenainya. Jadi saya di sini, saya jujur, saya pro terhadap YB, tapi saya juga pro terhadap PMX. Saya nak dua-dua ini kekal bersama, saya tak nak perpecahan, sebenarnya.
 
 **Rafizi:** Persaingan itu baik, persaingan itu baik — "go-run" itu baik, ini kerana korang selamat.
 
-**Bobby:** Apa ini, apa ini, saki-baki?
+**Haziq:** Apa ini, apa ini, saki-baki?
 
 **Rafizi:** Saki-baki daripada masa lalu — dia dipukul macam ini, dia tak boleh bercakap, semua itu. Apa nama ni — siapa dalam negara ini, buat masa sekarang, yang di dalam sebelah kerajaan yang boleh menegur Perdana Menteri? Namakan seorang.
 
-**Bobby:** Akulah.
+**Haziq:** Akulah.
 
 **Rafizi:** Hmm. Jadi kalau saya rasa ada benda yang boleh diperbaiki, maka itu tanggungjawab saya untuk menyatakannya. Cabaran dan bola juga berada di mahkamah Perdana Menteri. Kita dalam PKR, 30 tahun, kita kata ini parti reformasi, kita terbuka kepada demokrasi dan sebagainya — sekarang itu satu ujian. Kalau ia satu perkara sahaja, dan hakim itu berada di luar sana — hakim itu bukan saya, atau Anwar Ibrahim, atau PKR. Hakim itu ialah orang ramai. Dan dia akan menilai secara keseluruhan PKR kan, sebab alternatifnya lebih teruk lagi. Alternatifnya, kalau contohnya, ambil contoh kehakiman — haa, ada perkara-perkara yang perlu dijawab oleh kerajaan. Kemudian, dia dah sampai ke peringkat Majlis Peguam ni akan berarak. Setiap kali Majlis Peguam berarak, kerajaan tu kalah — 2007, Majlis Peguam, Walk for Justice, 2008, kalah. 2022, ada Walk for Justice juga, 2022, kerajaan bertukar.
 

@@ -9,7 +9,6 @@ duration: 2h 52m
 view_count: 114371
 hosts:
 - Rafizi
-- Bobby
 - Haziq
 - Razal
 guests: []
@@ -423,11 +422,11 @@ Actually, we have looked at how many countries in the world have a similar model
 
 **Rafizi:** Dan kita kata kerajaan mesti ada satu dasar untuk memastikan bukan sahaja pekerja bawahan yang dapat gaji minimum ini dibela, tetapi juga pekerja-pekerja di bawah gaji RM5,000 — terutamanya graduan muda, dan juga pekerja berpengalaman yang susah nak naik gaji, atau beza gaji dia dengan gaji minimum itu dah tak banyak sangat. Golongan ini perlukan satu dasar yang khusus. Sebab itu kita buat—
 
-**Bobby:** Produk apa ni?
+**Haziq:** Produk apa ni?
 
 **Rafizi:** Progressive Wage.
 
-**Bobby:** Come on, cerita lah lanjut.
+**Haziq:** Come on, cerita lah lanjut.
 
 **Rafizi:** Kemudian persoalan kedua ialah, adakah patut kita wajibkan? Sebab kalau macam Tong Kui Hong kata, kalau kita wajibkan, ia akan jadi lebih berkesan. Tapi kalau kita wajibkan, dia juga akan tulis bahawa ini menekan perniagaan dan macam-macam lagi. Hakikatnya, 97% daripada syarikat-syarikat di negara kita ini adalah PKS — Perusahaan Kecil dan Sederhana. Dan saya ingat lebih 60% daripada pekerja digaji oleh PKS, bukan syarikat besar. Kita tahu PKS kita memang menghadapi cabaran besar dari segi produktiviti, keuntungan, dan penciptaan nilai. Kalau kita wajibkan — tak payah cakap lagi macam mana nak melaksanakannya, itu sangat rumit kerana ada seribu satu jenis pekerjaan. Nak regulate semua itu, nak pergi tangkap semua itu, memang susah. Tapi kesan yang akan berlaku dari awal lagi ialah kenaikan harga barang.
 
@@ -435,7 +434,7 @@ Kerana kalau perniagaan dipaksa gaji budak graduan RM4,000, lepas dia kerja tiga
 
 Maksudnya begini. Masalah PKS ialah untuk menarik bakat tenaga kerja yang bermutu, dan juga untuk mengurangkan job hopping — pekerja yang melompat dan bertukar kerja dalam masa singkat. Sebab job hopping itu kos yang besar kepada syarikat-syarikat kecil. Baru ambil budak, dia latih, habis masa, budak tu lompat.
 
-**Bobby:** Itu apa yang dibincangkan oleh Gen Z dalam satu thread di Twitter tu, kan?
+**Haziq:** Itu apa yang dibincangkan oleh Gen Z dalam satu thread di Twitter tu, kan?
 
 **Rafizi:** It's a trend lah. Yalah, saya ingat kalau nak dibandingkan dengan generasi dulu yang lebih tua, kita faham lah generasi muda ini tidak mahu kekal dalam satu-satu pekerjaan sampai mati. Tapi janganlah setiap enam bulan. Dari perspektif syarikat, kalau dia dah habiskan tiga, empat bulan untuk melatih pekerja graduan yang baru keluar universiti sampai budak tu boleh buat kerja, kalau dah sampai dua tahun kita pun faham dia mungkin nak cari kerjaya lain — sebab dalam masa dua tahun itu operasi dan urusan syarikat sudah stabil kerana pekerja itu telah dilatih dan mampu menyumbang. Tapi kalau baru empat bulan dah kena cari orang baru semula, itu memang jadi masalah kepada perniagaan kecil dan sederhana — mereka rasa tak berbaloi bayar mahal.
 
@@ -443,7 +442,7 @@ It's actually a problem. Dan benda ini bukan saya cakap mudah-mudah sahaja — k
 
 Jadi tujuannya adalah untuk menjadikan PKS ini lebih stabil dan berjaya menarik minat graduan serta tenaga kerja yang lebih bermutu. Dan itu tidak boleh lari daripada soal gaji. Sebab itu kerajaan membuat skim Dasar Gaji Progresif ini — skim yang menang-menang kepada syarikat, pekerja, dan negara. Syarikat dibantu oleh kerajaan sebanyak RM200 untuk graduan supaya boleh menawarkan gaji permulaan sebanyak RM3,200.
 
-**Bobby:** Eh, macam mana pula angka tu ditentukan?
+**Haziq:** Eh, macam mana pula angka tu ditentukan?
 
 **Rafizi:** Ia bergantung kepada setiap jenis pekerjaan — contohnya untuk jawatan besar seperti jurutera atau akauntan, ada kadar tersendiri. Ia ditetapkan oleh Majlis Perundingan Gaji Kebangsaan, yang menetapkan bahawa untuk pekerjaan sebegini, gaji graduan sepatutnya berapa. Kalau syarikat bayar mengikut kadar itu, kerajaan akan top up RM200. Jadi ini mengurangkan beban kepada kerajaan, dan pekerja pula dapat gaji yang lebih tinggi di syarikat itu. Tapi ia bersyarat — pekerja kena melalui latihan supaya majikan rasa berbaloi mengambilnya dan menaikkan gajinya sedikit, dengan kerajaan top up sedikit. Pekerja itu mesti jadi lebih baik dan produktif, sebab itu dia kena melalui latihan selama dua tahun. Ini juga yang Tong Kui Hong risaukan — majikan bimbang, lepas dua tahun bila dah tak ada duit kerajaan dan pekerja itu kena keluar daripada skim gaji progresif, siapa nak bayar sambungan gaji itu?
 
@@ -453,13 +452,13 @@ Jadi tentulah Tong Kui Hong bertanya, kenapa hanya 41%? Kita anggarkan 50,000 pe
 
 Tetapi daripada 21,000 pekerja ini — katakanlah majikan-majikan ini biasanya bersaiz kecil dan sederhana, dengan mungkin 20 hingga 30 orang pekerja setiap satu—
 
-**Bobby:** Kalau on average lah, cuba kira dalam 20 ke 30 orang pekerja setiap syarikat — 21,000 orang tu bermakna dalam berapa buah syarikat?
+**Haziq:** Kalau on average lah, cuba kira dalam 20 ke 30 orang pekerja setiap syarikat — 21,000 orang tu bermakna dalam berapa buah syarikat?
 
 **Rafizi:** Kalau 30 orang, darab dengan... lebih kurang 700 lah. 700 kan? You harap dapat 21,000 pekerja — masalahnya, you ni peguam, nasib baik saya bukan peguam, kalau tak, memang confirm you kena dengan saya pasal kira-kira ni. Dua puluh satu ribu pekerja yang mendapat manfaat, dengan saiz purata majikan dalam 20 hingga 30 orang pekerja, bermakna ada dalam 700 buah syarikat. 700 buah syarikat sahaja.
 
 700 majikan ini ialah majikan yang benar-benar percaya untuk menaikkan gaji, dan mereka komited — selepas itu mereka akan kekalkan gaji tersebut. Jadi kalau tanya saya, kalau setakat nak capai pencapaian umum 100%, satu juta, lapan juta penerima — bagus, senang je saya bagi duit percuma. Tapi kerana kita memang ketatkan syarat, memang syaratnya ketat — maknanya majikan kena naikkan gaji, dan selepas dua tahun apabila sumbangan kerajaan tamat, majikan tak boleh turunkan semula gaji, gaji itu kena kekal. Mereka yang menyertai tahu ada syarat sebegini, sebab kita nak ubah dan selesaikan masalah, bukan nak popular. Itulah sebabnya orang selalu berbeza pandangan dengan saya.
 
-**Bobby:** Baik, baik.
+**Haziq:** Baik, baik.
 
 **Rafizi:** Jalan pintas ni sebenarnya mudah — bagi je duit percuma. Tapi ia tak sustainable dan tak berguna. Saya sebagai manusia dan juga sebagai menteri, tak pernah percaya kepada konsep "duit percuma." Tak ada duit percuma. Duit yang kerajaan bagi tu adalah duit orang — duit cukai yang kita kutip, kita bagi kepada orang lain. Jadi ia menjadi amanah kepada kita untuk berhemat, dan cara kita berbelanja dengan berhemat ialah dengan memastikan wang rakyat itu betul-betul menyelesaikan masalah. Jadi cabaran sekarang ialah macam mana nak yakinkan lebih ramai majikan menerima hakikat bahawa mereka kena bayar gaji lebih sikit, kerajaan tambah sikit, supaya dengan gaji yang lebih baik kepada graduan dan pekerja ini, produktiviti akan naik. Biarlah orang nak komen apa sekalipun.
 
@@ -467,11 +466,11 @@ Perkara ini tak pernah dibuat dalam sejarah negara kita — selama 70 tahun kita
 
 Walaupun 21,000 penerima nampak macam kecil, cuba tanya mereka sendiri — saya rasa mereka tidak akan kata dasar ini tidak berkesan, kerana mereka mendapat tambahan gaji sebanyak RM200 hingga RM300 sebulan.
 
-**Bobby:** Okay, kita tinggalkan dulu isu Tong Kui Hong ni. Kita pergi kepada Profesor Dr. Solehah — "Orang Rom belajar pembinaan kapal daripada orang Melayu." Kita akan follow dari A sampai Z.
+**Haziq:** Okay, kita tinggalkan dulu isu Tong Kui Hong ni. Kita pergi kepada Profesor Dr. Solehah — "Orang Rom belajar pembinaan kapal daripada orang Melayu." Kita akan follow dari A sampai Z.
 
 **Rafizi:** Saya tak adalah baca sampai google pun kajian dia, tapi dia selalu ada dekat timeline saya, tak boleh nak lari langsung. Kadang-kadang saya pernah dengar beberapa syarahan dia, yang pendek-pendek. Bila dia cerita macam itu, mula-mula saya rasa pelik. Tapi bila saya tengok balik penjelasan dia, sebenarnya ada logik sikit — dia kata bukanlah bermaksud sarjana-sarjana Rom seperti Julius Caesar, Constantine the Great, atau Justinian datang terus ke Tanah Melayu dan meminta diajar. Ia lebih kepada pemindahan teknologi atau ilmu — itu tanggapan beliau, dan menurutnya masih ada banyak kumpulan perantara yang menghubungkan dari awal. Cuma ia tidak berlaku secara langsung sebegitu, kerana timeline-nya jauh — antara Empayar Rom dengan orang Melayu.
 
-**Bobby:** Kalau awak tengok, macam mana sebenarnya?
+**Haziq:** Kalau awak tengok, macam mana sebenarnya?
 
 **Rafizi:** Selain daripada orang mengecam Profesor Solehah ini, saya rasa salah satu sebabnya ialah beliau ini juga perlambangan kepada masyarakat kita, terutama orang Melayu. Kita ini suka sangat dengar cerita-cerita yang sedap didengar telinga — betul ke tidak, itu belakang kira. Kalau masyarakat kita bukan jenis begitu, Profesor Solehah tak akan sibuk bercerita kerana orang tak akan dengar — dia takkan ada traction. Dia menjadi isu sehingga dilaporkan sebab semua yang dia cakap, ada je satu golongan yang kata "Ya! Betul!" Jadi salah satu sisinya ialah, kita kadang-kadang suka ambil jalan pintas, ambil mudah, dan bagi kita ia jadi benda lawak.
 
@@ -481,11 +480,11 @@ Saya rasa perkara yang dibuat oleh Profesor Solehah — saya harap beliau sebaga
 
 Apa maksud saya dengan budaya ilmu ini? Dulu saya pernah nak buat PhD.
 
-**Bobby:** Oh, menarik — cerita lah sikit.
+**Haziq:** Oh, menarik — cerita lah sikit.
 
 **Rafizi:** Pada 2015, saya bosan, jadi—
 
-**Bobby:** Masa tu awak buat Master atau terus nak buat PhD?
+**Haziq:** Masa tu awak buat Master atau terus nak buat PhD?
 
 **Rafizi:** Saya nak terus buat PhD. Universiti benarkan saya duduk satu ujian untuk membuktikan kaedah penyelidikan saya. Dan melalui proses itu saya faham bahawa untuk membuat satu kajian ilmiah, secara umum, ilmu itu mestilah sesuatu perkara baru yang tidak pernah ada — barulah layak mendapat PhD. Dan prosesnya sebenarnya sangat rumit. Saya tak sempat habiskan — saya siapkan cadangan penyelidikan sahaja, kemudian saya sibuk, masuk balik dunia politik dan macam-macam, tak sempat sambung. Tapi untuk menyediakan cadangan penyelidikan itu, salah satu perkara paling sukar ialah menentukan sebenarnya apa bidang penyelidikan saya.
 
@@ -505,47 +504,47 @@ Kerana kalau pandangan itu semata-mata kerana dia seorang doktor, ada PhD, tetap
 
 Yalah, tapi itulah budaya ilmu. Dan kalau kita mahukan bangsa kita maju, mereka yang cerdik pandai mestilah membudayakan perkara itu lebih daripada orang lain. Kalau yang bijak pandai pun main cakap merata-rata — asalkan keluar TV, asalkan keluar podcast, asalkan keluar TikTok — kau nak marah pula orang bawahan, rakyat biasa yang sekadar minta pandangan? Cukuplah.
 
-**Bobby:** Tapi bukankah ini sama sahaja dengan masalah maklumat palsu dan tuduhan palsu dalam dunia digital sekarang?
+**Haziq:** Tapi bukankah ini sama sahaja dengan masalah maklumat palsu dan tuduhan palsu dalam dunia digital sekarang?
 
 **Rafizi:** Tak, itu memang kesan daripada dunia digital, di mana maklumat lebih mudah sampai, dan kerana kita tak perlukan studio atau kamera besar untuk buat kandungan — semua orang boleh buat kandungan, dalam kereta pun boleh. Itu memang kesan dunia digital. Tapi kalau orang biasa yang buat begitu, saya faham — jangan jadi profesor pula macam itu, kerana mereka ada tanggungjawab yang lebih besar kepada masyarakat. Sama seperti kita kadang-kadang perli ahli parlimen yang komen pasal hidung tugu tak mancung — sebenarnya ahli akademik, profesor, semua ada tanggungjawab itu, kerana mereka mewakili satu kumpulan yang memainkan peranan besar dalam masyarakat. Mereka perlu mempertahankan budaya sains dan ketelitian ilmu, supaya kesan tidak langsungnya tidak menyebabkan orang memperlekehkan ilmu. Kita tak boleh lari daripada berita palsu — semua itu akan tetap berlaku. Tapi kalau yang bercakap itu pakcik makcik yang mendengar cerita dan mengikutnya, itu satu hal. Tapi kalau...
 
 Itulah yang bagi saya isu yang lebih besar pasal "orang Rom belajar bina kapal" ini — bukan sekadar soal trolling semata-mata. Ada isu tersirat yang mungkin tak ada orang berani sebut sebab susah nak kritik ahli-ahli akademik berkelulusan PhD. Bukan semua — jangan pukul rata, saya cakap ini adalah normal distribution, dan ini yang saya sebut adalah fringe. Ada, tapi segelintir sahaja yang begitu, dan mereka lebih popular, lebih ke depan, terutama dalam perkara-perkara yang lebih mudah mendapat traction dengan rakyat — isu politik, isu kebangsaan, isu Rom-Melayu, dan sebagainya. Kita tak pernah dengar pakar fizik pergi TikTok bercakap tentang pembangunan fizik kerana kita tak nak dengar — orang nak dengar perkara sebegini. Dan itulah sebabnya tanggungjawab mereka — mereka kena sedar bahawa apa yang mereka sebut itu mestilah dalam kerangka dan budaya disiplin ilmu yang mereka wakili.
 
-**Bobby:** Mungkin dia nak bangkitkan semangat Melayu je kot. Kalau YB sendiri cakap pasal benda ini, mungkin lebih ramai orang akan dengar podcast kita ni kot.
+**Haziq:** Mungkin dia nak bangkitkan semangat Melayu je kot. Kalau YB sendiri cakap pasal benda ini, mungkin lebih ramai orang akan dengar podcast kita ni kot.
 
 **Rafizi:** Pasal apa? Pasal orang Rom belajar... kita punya Julius Caesar belajar... tapi itu bukan bidang aku! Hahaha. I mean, whatever I know is just from what I've read about European history. If I want to make a proper claim, I'd have to spend 20 years of my life researching it — and even after 20 years, it might turn out not to be true. I can't just claim something like that.
 
-**Bobby:** Okey, sayang? Kita dah masuk dua jam tujuh belas minit ni.
+**Haziq:** Okey, sayang? Kita dah masuk dua jam tujuh belas minit ni.
 
 **Rafizi:** Ada lagi soalan susah?
 
-**Bobby:** Tak ada. Dunia bergerak laju, laju sangat. Okay, isu pertama tadi — cerita Profesor Solehah dengan orang Rom tu memang panjang. Nasib baik saya tak sempat sentuh pasal "crossing the Rubicon" pula.
+**Haziq:** Tak ada. Dunia bergerak laju, laju sangat. Okay, isu pertama tadi — cerita Profesor Solehah dengan orang Rom tu memang panjang. Nasib baik saya tak sempat sentuh pasal "crossing the Rubicon" pula.
 
 **Rafizi:** Aku pun tak faham lah — orang kat luar tu mungkin faham bila cakap "crossing the Rubicon," tapi tak apa.
 
-**Bobby:** Okay YB, yang pertama — Perjanjian Damai KL ni tergendala. Tapi saya rasa, to be fair kepada Dato' Seri Anwar, dia dah exhaust semua channel yang dia boleh sebagai ASEAN Chair. YB setuju tak?
+**Haziq:** Okay YB, yang pertama — Perjanjian Damai KL ni tergendala. Tapi saya rasa, to be fair kepada Dato' Seri Anwar, dia dah exhaust semua channel yang dia boleh sebagai ASEAN Chair. YB setuju tak?
 
-**Rafizi:** Ya, kita ada benda ni... apa yang nak komen? I mean, Thailand gantung pelaksanaan Perjanjian Damai KL — yalah, ini akan jadi modal politik untuk pembangkang, mereka akan perlekehkan semuanya. Tapi saya pernah komen dalam podcast dua tiga minggu lepas bahawa ASEAN is a different category. ASEAN mengamalkan doktrin tidak campur tangan dalam hal ehwal dalaman ahli-ahlinya — itulah sebabnya masalah Myanmar tidak dapat diselesaikan sehingga sekarang. Jadi itu risiko yang Dato' Seri Anwar dan Malaysia ambil sebagai pemimpin ASEAN. Saya tak rasa kita boleh kata "ya, kita boleh," atau "tidak." Itu risiko yang kita dah ambil apabila kita cuba menaikkan sedikit peranan ASEAN, terutamanya sebagai pemimpin ASEAN dalam konflik serantau ini. Risikonya memang begitu, kerana tiada apa yang mengikat — ASEAN tidak mempunyai doktrin seperti Kesatuan Eropah, ia sebenarnya lebih kepada satu kelab kawan-kawan. Okay, Bobby, clear?
+**Rafizi:** Ya, kita ada benda ni... apa yang nak komen? I mean, Thailand gantung pelaksanaan Perjanjian Damai KL — yalah, ini akan jadi modal politik untuk pembangkang, mereka akan perlekehkan semuanya. Tapi saya pernah komen dalam podcast dua tiga minggu lepas bahawa ASEAN is a different category. ASEAN mengamalkan doktrin tidak campur tangan dalam hal ehwal dalaman ahli-ahlinya — itulah sebabnya masalah Myanmar tidak dapat diselesaikan sehingga sekarang. Jadi itu risiko yang Dato' Seri Anwar dan Malaysia ambil sebagai pemimpin ASEAN. Saya tak rasa kita boleh kata "ya, kita boleh," atau "tidak." Itu risiko yang kita dah ambil apabila kita cuba menaikkan sedikit peranan ASEAN, terutamanya sebagai pemimpin ASEAN dalam konflik serantau ini. Risikonya memang begitu, kerana tiada apa yang mengikat — ASEAN tidak mempunyai doktrin seperti Kesatuan Eropah, ia sebenarnya lebih kepada satu kelab kawan-kawan. Okay, YB, clear?
 
-**Bobby:** Clear. Let's see the next one — Zohran Mamdani. Ini sudah tular sejak minggu lepas, seluruh dunia bercakap pasal dia, kita nak minta komen. Ia agak ironik dalam keadaan kita sekarang dengan kebangkitan populisme — tiba-tiba muncul seorang ahli politik yang tak ada sokongan PAC besar pun boleh menang. Apa yang sebenarnya berlaku? Quite ironic, really.
+**Haziq:** Clear. Let's see the next one — Zohran Mamdani. Ini sudah tular sejak minggu lepas, seluruh dunia bercakap pasal dia, kita nak minta komen. Ia agak ironik dalam keadaan kita sekarang dengan kebangkitan populisme — tiba-tiba muncul seorang ahli politik yang tak ada sokongan PAC besar pun boleh menang. Apa yang sebenarnya berlaku? Quite ironic, really.
 
 **Rafizi:** You tanya... you dari New York asalnya kan?
 
-**Bobby:** I've been to London.
+**Haziq:** I've been to London.
 
 **Rafizi:** You dari London, maaf.
 
-**Bobby:** Yes, I used to live in London. I have friends in New York, I've been to New York, but I don't claim that I know New York well.
+**Haziq:** Yes, I used to live in London. I have friends in New York, I've been to New York, but I don't claim that I know New York well.
 
 **Rafizi:** I asked some close friends of mine — Americans who live near, although not right in Manhattan, they live near Long Island—
 
-**Bobby:** Long Island?
+**Haziq:** Long Island?
 
 **Rafizi:** Long Island, which is... yes, people say all kinds of things about him. Saya sendiri buat sedikit kajian pasal Zohran, dan saya ikuti politik Parti Demokrat dengan rapat, sebab saya ada beberapa kawan dalam Parti Demokrat yang rapat dengan saya. Mereka bukanlah ahli politik barisan hadapan — tetapi parti Demokrat ni tak sama, I mean parti di Amerika Syarikat memang tak sama macam kita. Mereka tak ada jawatan-jawatan rasmi macam kita, jadi ramai orang penting atau berpengalaman yang duduk di belakang tabir. Sebahagiannya kawan rapat saya.
 
 Orang akan bagi macam-macam pandangan — dia pandai ini, pandai itu, dia pandai guna social media. Sebenarnya semua orang cuba guna social media, semua orang pandai guna social media — ada yang berjaya, ada yang tak berjaya. Jadi ia bukan tentang social media, saya rasa ia tentang substance. Bila kita darjah satu atau dua dulu, kita belajar satu teori fizik dipanggil resonans.
 
-**Bobby:** Kalau ya pun, aku ni lawyer — kita belajar resonans dalam fizik ke?
+**Haziq:** Kalau ya pun, aku ni lawyer — kita belajar resonans dalam fizik ke?
 
 **Rafizi:** Fizik. Ada satu konsep resonans. Ahli politik, hatta orang jual nasi lemak sekalipun, atau apa-apa produk, dia akan dapat sambutan yang baik kalau ada resonans. Pandangan saya, Zohran Mamdani ini diterima kerana core issue, core campaign yang dia bawa itu ada resonans dengan pengundi. Apa core issue yang dia bawa? Freeze the rent. Yang lain semua tu lapisan kedua, lapisan atas sahaja — free rent, free bus, semua itu kos sara hidup. Tapi apa isu sebenar kos sara hidup itu? PAS pun bercakap pasal kos sara hidup, kos sara hidup — sewa mahal. Bukan, itu semua sekadar plan dia. Apa mesej, substance yang secara emosi menarik yang dia bawa kepada pengundi? Dia bercakap tentang selain daripada satu peratus orang kaya—
 
@@ -561,19 +560,19 @@ Jadi the race is on — kalau kita belajar daripada Zohran Mamdani ini, sebenarn
 
 **Rafizi:** Maaf, maaf — [tersekat sebentar].
 
-**Bobby:** Okay, kita pergi topik seterusnya, boleh?
+**Haziq:** Okay, kita pergi topik seterusnya, boleh?
 
 **Rafizi:** Boleh.
 
-**Bobby:** Okay, fuyo — kita dah sampai! Fuyo!
+**Haziq:** Okay, fuyo — kita dah sampai! Fuyo!
 
 **Rafizi:** Ha, ya, ini saya sangat excited. Untuk pendengar di luar sana yang sedang menonton — ini satu perkara yang saya perhatikan dalam tempoh dua tiga tahun ini, semua orang cerita pasal AI, pasal robot. Sebenarnya China senyap-senyap sudah maju jauh dalam bidang ini, cuma tidak banyak dilaporkan oleh media Barat.
 
-**Bobby:** Yalah, tapi itu bias Barat.
+**Haziq:** Yalah, tapi itu bias Barat.
 
 **Rafizi:** Ada cerita di sebalik kenapa — sebab benda ini bermula daripada Amerika.
 
-**Bobby:** Tapi mungkin Haziq nak terangkan sedikit pasal molten salt reactor ni?
+**Haziq:** Tapi mungkin Haziq nak terangkan sedikit pasal molten salt reactor ni?
 
 **Haziq:** Ini antara salah satu perkara yang akan memberi kesan sangat besar kepada dunia dan kemanusiaan — tamadun manusia. [merujuk nota] Kena refer nota ke, nak cerita pasal molten salt reactor ni? Ia berbeza dengan reactor konvensional. Kalau sebelum ini reactor nuklear konvensional ada rod — ini kita belajar fizik kan?
 
@@ -587,7 +586,7 @@ Jadi the race is on — kalau kita belajar daripada Zohran Mamdani ini, sebenarn
 
 Dan ia berbeza dengan yang konvensional — yang ini tak perlukan rod. Tapi saya tak tahu bila saya terangkan macam ni, macam mana orang nak relate. Saya pun tak tahu — cuma ia meningkatkan efisiensi je—
 
-**Bobby:** Haziq ni tak ada nota, tak boleh nak terangkan lah.
+**Haziq:** Haziq ni tak ada nota, tak boleh nak terangkan lah.
 
 **Rafizi:** Boleh. Dia tak ada rod lah — satu ada rod, yang ini tak ada. Kalau yang ini, ia menggunakan molten salt sebagai fuel dia sekali, dan juga sebagai coolant — dua-dua sekali. Saya akan cuba terangkan dalam bahasa yang lebih mudah difahami, sebab dia ni menghafal je tadi. Fahamlah, dia budak law, dia tak ada minat benda-benda macam ini.
 
@@ -607,7 +606,7 @@ Kalau dalam 30-40 tahun akan datang, molten salt reactor benar-benar berfungsi p
 
 Jadi saya harap saya masih hidup untuk melihat satu masa nanti molten salt reactor ini diterima di seluruh dunia. Tapi sebab itulah — kalau orang bertanya, ini sedikit jenaka tentang kontroversi sebelum ini, pasal isu ART. Ini yang saya sebutkan tadi tentang orang yang marah kat saya — kita semua nuklear, kita kena ikut Amerika. Tapi kalau kita nak beli molten salt reactor dari China, kita tak boleh. Hmm, memang susah.
 
-**Bobby:** That's Rafizi's answer.
+**Haziq:** That's Rafizi's answer.
 
 **Rafizi:** If not mistaken, Malaysia has one of the biggest thorium [reserves in the world].
 

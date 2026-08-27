@@ -293,7 +293,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Farhan (Pa'an):** —tema-tema—
 
-**Haziq:** —tema-tema. Bye, thank you Farhan. Kita tengok yang pertama terus, Bobby — isu ekonomi.
+**Haziq:** —tema-tema. Bye, thank you Farhan. Kita tengok yang pertama terus, YB — isu ekonomi.
 
 **Rafizi Ramli:** Tak — kita group ni berdasarkan apa? Kita decide 10 isu terbesar ni berdasarkan apa? Apa?
 
@@ -623,7 +623,7 @@ Jadi, yang tertinggal untuk saya adalah untuk memastikan bahawa apa-apa yang jad
 
 **Haziq:** Tak ada...
 
-**Rafizi Ramli:** Tak ada pilihan. Baik, Bobby, isu yang ketujuh. Kita dah berapa lama ni?
+**Rafizi Ramli:** Tak ada pilihan. Baik, YB, isu yang ketujuh. Kita dah berapa lama ni?
 
 **Farhan (Pa'an):** Dua jam...
 
