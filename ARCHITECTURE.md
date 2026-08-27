@@ -635,7 +635,41 @@ rewrite/translate/metadata stage.
   boundaries, same as pyannote. It resolves *whether* a diarization split is
   real or a merge/glitch; a human (or Gemini, once billing is fixed) still has
   to supply the actual name.
-- **Update, 2026-08-27: Gemini access restored.** A freshly issued API key
+- **Update, 2026-08-27 afternoon: the Speechmatics diarization recipe above no
+  longer diarizes, silently.** Every submission now comes back with all items in
+  a single `S1` speaker cluster, while the API reports `status: done`,
+  `errors: None`, and echoes the accepted config back as
+  `{"diarization": "speaker", ...}`. So it looks like a success and produces a
+  perfectly good transcript with no speaker separation in it at all -- read the
+  distinct-speaker count, never the job status. Ruled out, one variable at a
+  time:
+  - **Not audio quality.** A mono 64k downmix and a faithful stereo 44.1kHz/128k
+    clip of the same stretch returned all-`S1` and near-identical text (93,192
+    vs 93,207 chars).
+  - **Not clip length or a hard episode.** A 10-minute clip from a stretch where
+    `raw.md` shows the two speakers alternating every few seconds returned
+    1,284 items, all `S1`.
+  - **Not `speaker_sensitivity`.** Adding
+    `speaker_diarization_config: {speaker_sensitivity: 0.6}` changed nothing.
+  - **Not Malay-specific.** The same clip with `language: en` returned 756
+    items, all `S1`.
+  Most likely an account entitlement or API change on Speechmatics' side, which
+  can't be diagnosed from here -- same shape as the Gemini billing wall above,
+  and it needs the account holder to check the plan. Until then Speechmatics is
+  a **transcription** source only, and 1.12/pyannote is the only working
+  diarization.
+- **What Speechmatics is still good for (new, 2026-08-27):** used as a pure
+  transcription source for the first time here, on ep35's fabricated tail
+  (1.18), and the text is strong -- 93k chars against YouTube captions' 99.5k
+  for the same 8,326 seconds, with the Malay/English code-switching preserved
+  ("So orang akan tag aku lah kan? ... Then u know itu troll farm kan") and
+  real punctuation and sentence casing, which the captions lack. Its weakness is
+  the same proper-noun problem the local engine has: it renders the Mahathir
+  nickname "atuk" correctly once and then as "atur", and garbles the same name
+  the captions garble. Any spliced output needs the name-correction pass, not a
+  spot check.
+- **Update, 2026-08-27: Gemini access restored** (but see the further update
+  below -- this lapsed the same day). A freshly issued API key
   works end-to-end for full audio transcription, not just text generation --
   confirmed directly via `lib_gemini.upload_audio` + `transcribe_raw` on a
   real clip and then a full ~2-hour episode. The pinned model at the head of
@@ -658,6 +692,25 @@ rewrite/translate/metadata stage.
   section below, just via a different engine. Where verification is wanted
   without that risk: transcribe into a scratch file, not the real one, and
   cross-check timestamps/content against the existing `raw.md` (see 1.16).
+- **Update, 2026-08-27 afternoon: Gemini is walled again, same day.** The key
+  that had worked hours earlier returns `429 RESOURCE_EXHAUSTED: Your prepayment
+  credits are depleted` on every call. Treat "Gemini access restored" as true
+  only for the session that verified it -- the fresh-test-on-real-audio rule
+  caught this before any work was committed to a Gemini-dependent splice, which
+  is exactly what it is for.
+- **A second silent failure found while hitting that wall:**
+  `verify_speakers.py` **exits 0 when every one of its Gemini calls fails.** All
+  four samples returned 429, it wrote a `data/speaker_verification.json` full of
+  failure entries, printed them, and still reported success to the shell.
+  Anything scripting around it reads that as a clean verification run. Not yet
+  fixed; it belongs in the "clean exit code isn't enough" list below.
+- **A stale fix for `KeyError: 'HF_TOKEN'`.** An earlier session's note said to
+  re-persist the variable. That is not the problem -- it is already correctly
+  persisted at User scope. It is that a fresh shell here does not inherit it, so
+  the fix is per-run injection, and re-persisting an already-persisted variable
+  looks like it worked and then fails again next session:
+  `$env:HF_TOKEN = [Environment]::GetEnvironmentVariable('HF_TOKEN','User')`.
+  Same for `SPEECHMATICS_API_KEY`.
 
 ### 1.16: Timestamp corruption bug catalog, and a free corpus-wide detector
 
@@ -825,11 +878,31 @@ rewrite/translate/metadata stage.
 ### 1.18: A `raw.md` that is a fabricated summary outline, not a transcript
 
 - **Found:** `ep35` (2026-02-13, `gemini-3.6-flash`) passed every check as
-  clean. It is a real verbatim transcript only for its first ~39 minutes
-  (lines 18-256, `[02:38]`-`[39:15]`). From line 298 `[1:05:00]` onward it is a
-  Gemini-written *summary of the episode* presented as a transcript. 46,389
-  chars for a 3h13m episode where ~151,000 is expected: roughly **80% of the
-  episode fabricated or missing**.
+  clean. Most of it is a Gemini-written *summary of the episode* presented as a
+  transcript. 46,389 chars for a 3h13m episode where ~151,000 is expected:
+  roughly **80% of the episode fabricated or missing**.
+- **Locating the boundary needed three attempts, and register heuristics failed
+  twice.** This is the most transferable lesson here.
+  1. Window-level profiling of round timestamps and written-register marks said
+     the transcript went bad at line 258. Wrong -- lines 258-264 are genuine.
+  2. Per-*utterance* register scoring said line 278 `[55:03]`. Also wrong. That
+     line claims `[55:03]` and reads "Tak pernah. Tak pernah. Setakat ini Datuk
+     Seri Anwar Ibrahim tak bagi sentuh pasal kuasa SPRM ni", but the captions
+     and Speechmatics independently have "Jadi sebab itu perkara ini. Saya tak
+     tahu sejauh mana lagi mereka nak tarik" at that moment. Register looked
+     clean because fabricated *dialogue* can be stylistically indistinguishable
+     from real dialogue -- only the round-timestamp tell is reliable, and it
+     fires late.
+  3. **Content alignment against the captions is the actual test.** For each
+     block, pull captions over a window sized to the block's own speech duration
+     (`chars/13 + 60s`) and measure word overlap. Genuine blocks score 0.69-1.00;
+     fabricated ones score <=0.41. Use an adaptive window, not a fixed one: at
+     +/-60s the genuine 6,518-char block scored 0.43 and looked fabricated,
+     because its words cannot all fall within two minutes of its start.
+  **True boundary: the `[40:33]` block is the last genuine one** (0.96);
+  everything from `[53:19]` is fabricated. Note also a real 4.4-minute content
+  hole between ~48:53 and 53:19 *inside* what the register heuristic called
+  genuine.
 - **How it reads.** Numbered lists inside "speech" (`1. Rehatkan Azam Baki
   serta-merta. 2. Tubuhkan Suruhanjaya Siasatan Diraja (RCI)...`), agenda labels
   (`Baik, kita masuk segmen terkahir: Soal Jawab & Mak Lampir / PKR`),
@@ -847,14 +920,85 @@ rewrite/translate/metadata stage.
   land on arbitrary second values, so ~1.7% should end in `:00` by chance.
   ep35 is at **25%**, and it is the only episode in the corpus above 8% --
   a clean separation, flagged at a 12% threshold.
-- **Also worth noting, unresolved:** ep35's only two speaker labels are
-  `Rafizi` and `Fizi`, and `Fizi` is not in the known cast. But it appears
-  inside the *genuine* transcript region and is self-introduced there
-  (`Macam biasa bersama saya, saudara Fizi`), so it is not safe to assume it
-  is wrong -- exactly the trap that made ep38's `Nazri`/`Haziq` mix-up
-  invisible. Needs real audio to settle.
-- **Not fixed yet.** ep35 needs its `[39:15]`-onward stretch re-transcribed and
-  spliced, then `rewrite` and `translate` re-run.
+- **`Fizi` resolved: it is the host, and the correct name is `Haziq`**
+  (user-verified against the audio). The mechanism is worth understanding because
+  it is the same bug class as ep38's `Nazri`/`Haziq`. The host's line is
+  `Macam biasa bersama saya, saudara Rafizi` -- he is introducing the *guest*.
+  YouTube's captions garble that to "saudara Fizi Ramlie", dropping the "Ra".
+  Gemini took that truncation of the **guest's** name and applied it as the
+  **host's** label, so the file has Rafizi's name split across both speakers.
+  Supporting evidence: the host calls the other party "YB" throughout (hosts do,
+  Rafizi does not call himself that); the captions say Farhan was absent that
+  day; and at `[1:23:27]` the audio has "Saya dah bacalah. Haziq pun dah baca",
+  a third-person reference placing Haziq in the room.
+- **One hallucinated token stood in for three different things**, so a
+  replace-all would have introduced new errors -- it would have written "Haziq
+  introduces Haziq" and "Haziq is sick, Haziq isn't here":
+
+  | Location | raw.md says | Actually | Count |
+  |---|---|---|---|
+  | speaker labels | `Fizi:` | Haziq | 91 |
+  | intro, L18 | "saudara Fizi" | saudara **Rafizi** | 1 |
+  | L132 | "Fizi tak ada" | **Pa'an** tak ada | 1 |
+
+  **Lesson for the corpus-wide wrong-name audit:** a wrong name is not
+  necessarily a single substitution, and in-text occurrences answer differently
+  from speaker labels. Both confirmed instances of this bug class (ep38, ep35)
+  landed on the **host** label, so start there rather than sampling all speakers
+  evenly.
+- **A caption limitation found while verifying this:** YouTube merges speakers
+  within a single cue. At `[22:45]` the captions read "Hazid demam. Pakan tak ada
+  hilang", which is actually Rafizi's "Haziq demam! Pa'an tak ada" plus Haziq
+  interjecting "Pa'an hilang". Do not treat one caption line as one speaker.
+- **Engine bake-off for the re-transcription, measured against the captions as
+  reference** (2026-08-27). All three ran on the same clip:
+
+  | | recall | precision | repetition | blocks | speakers |
+  |---|---|---|---|---|---|
+  | local ASR | .851 | .909 | **1,323ch loop** | 7 (max 56,785ch) | none, 1 cluster |
+  | Speechmatics | .864 | .914 | 0 | 1 | none, no-op (1.15) |
+  | Gemini | **.917** | **.949** | 0 | 136 (max 10,667ch) | **Rafizi / Host** |
+
+  Local ASR is unusable: 7 blocks for 138 minutes with the largest at 56,785
+  chars (the wall-of-text check trips at 20,000), a hallucination loop, and
+  pyannote resolving a two-person conversation to a single cluster.
+- **Gemini's winning score is partly an artefact of a serious flaw: it
+  normalises proper nouns into the generic category it thinks they mean.** The
+  spoken name here is "Ceplos" (user-verified against the audio). Gemini rendered
+  it **"cybertroopers" 17 times out of 17**, in sentences otherwise word-identical
+  to Speechmatics'. A 2-minute liveness clip of the same passage produced a third
+  answer, "Chegubard" -- a real Malaysian activist. So two runs, two different
+  fabricated-but-entirely-plausible names, on a name the weaker engine got right
+  every time.
+  - **Word-overlap metrics structurally cannot catch this**, because
+    "cybertroopers" genuinely occurs elsewhere in the same episode. Fluent
+    normalised text scores *better* against a reference than an unfamiliar proper
+    noun does.
+  - **A capitalised-token check does not catch it either.** Flagging capitalised
+    words unsupported by other sources found 13 candidates and missed all 17 of
+    these, because a substitution *into* a common word looks unremarkable. Of
+    those 13, only one was a real error; the rest were valid alternates
+    (`Dato'`), ordinary Malay words, or names Gemini got *right* that the others
+    lost entirely (Lalitha Kunaratnam, Fleximart, Free Anwar Campaign).
+  - Assume further entity normalisations remain undetected in any Gemini output.
+- **Chosen construction, using each engine only for what it demonstrably does
+  well:** Speechmatics for text and timings, Gemini for speaker spans mapped on
+  by time. Gemini's timestamps are reliable enough for this -- median drift **0s**,
+  range -1s..+2s against Speechmatics' word timings.
+  - **Snap speaker changes to sentence ends.** A raw time cut at +/-2s accuracy
+    still slices mid-clause in fast speech, which produced turns like
+    "hitam? Baju" out of "Baju hitam?". Snapping to the nearest sentence
+    terminator within 12 words fixed 73 of 125 boundaries.
+  - Rejected: caption `>>` markers as turn boundaries. There are 676 real ones
+    (median gap 9s) and they look promising, but alternating speakers across them
+    gave mean turn lengths of 142ch vs 138ch -- a ratio of 1.03, i.e. no speaker
+    signal at all. Labels derived that way would have been invented structure
+    presented as data.
+  - Sanity check that passed: Rafizi 89,879 chars vs Haziq 3,217 (29:1), matching
+    Rafizi's own on-air remark that he had to do the talking because Haziq was
+    ill and Pa'an was absent.
+- **Not fixed yet.** The splice from `[40:33]` onward, then `rewrite` and
+  `translate` re-run.
 
 ### 1.19: ep26's two duplicates, and why "needs audio" was the wrong call
 
