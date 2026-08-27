@@ -52,6 +52,7 @@ ROOT = Path(__file__).resolve().parent.parent
 EPISODES_DIR = ROOT / "episodes"
 MANIFEST_PATH = ROOT / "data" / "manifest.json"
 DRIFT_PATH = ROOT / "data" / "timestamp_drift.json"
+COVERAGE_PATH = ROOT / "data" / "caption_coverage.json"
 REVIEWED_PATH = ROOT / "data" / "qa_reviewed.json"
 OUT_PATH = ROOT / "QA_CHECKLIST.md"
 
@@ -515,6 +516,22 @@ def main():
                 f"check_timestamp_drift.py flagged timestamp mistiming "
                 f"(max drift {drift.get('max_drift_seconds', '?')}s, "
                 f"{drift.get('samples_matched', '?')}/{drift.get('samples_total', '?')} caption samples matched)",
+            ))
+            results[slug] = (issues, models)
+
+    if COVERAGE_PATH.exists():
+        coverage_data = json.loads(COVERAGE_PATH.read_text(encoding="utf-8"))
+        for slug, coverage in coverage_data.items():
+            if not coverage.get("flagged") or slug not in results:
+                continue
+            issues, models = results[slug]
+            spans = ", ".join(f"{a}s->{b}s" for a, b in coverage.get("dead_runs", []))
+            issues.append((
+                "caption-coverage",
+                f"raw.md has no counterpart for {coverage['worst_dead_run_seconds']}s of "
+                f"captioned speech ({spans}; episode baseline "
+                f"{coverage['baseline']:.0%}) -- content absent from the transcript "
+                f"rather than merely mistimed, see ARCHITECTURE.md 1.25",
             ))
             results[slug] = (issues, models)
 

@@ -55,13 +55,6 @@
       "date": "2026-08-27"
     }
   },
-  "2026-05-15-ep48-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi": {
-    "content-loss": {
-      "verdict": "benign",
-      "reason": "The 40-minute 'hole' is genuine dead air: the episode ends at [2:39:48] and the rest of the video is silence, labelled [silence] then [end of audio]. ARCHITECTURE.md 1.17.",
-      "date": "2026-08-27"
-    }
-  },
   "2025-10-10-ep17-yang-berhenti-menteri-episod-17-belanjawan-2026-janji-fam": {
     "drift": {
       "verdict": "benign",

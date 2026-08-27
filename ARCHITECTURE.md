@@ -1736,3 +1736,59 @@ or displaced blocks presents as a populated timeline and largely escapes it. The
 4-gram coverage map has no such blind spot because it starts from the audio and
 asks what is missing from the transcript, rather than starting from the
 transcript and asking what looks odd.
+
+### 1.25: A check that starts from the audio, and the wrong suppression it caught
+
+- **Found 2026-08-27**, immediately after 1.24. Having established that 4-gram
+  caption coverage localises content loss where the gap-based check cannot, the
+  obvious next question was whether ep00 and ep26 were the only two. They were
+  not. **ep48 is missing roughly 40 minutes**, and it had been affirmatively
+  waived as benign in `data/qa_reviewed.json`.
+- **The waiver read**: *"The 40-minute 'hole' is genuine dead air: the episode
+  ends at [2:39:48] and the rest of the video is silence, labelled [silence] then
+  [end of audio]."* That is an accurate description of what `raw.md` says. It is
+  not what the audio contains. The captions carry speech at a steady ~500 words
+  per five minutes from 9,500s to 11,900s -- normal conversational density,
+  sustained for 40 minutes, which YouTube's ASR does not manufacture over
+  silence. The content is coherent and substantive (PH's values, the cost of
+  staying in power, PN). Checked against the one benign explanation, a video
+  containing a second copy of the episode: the tail shares **0.2%** of its
+  4-grams with everything before it. It is new material.
+- **`raw.md` ends on a natural sign-off** (*"Selamat malam, jumpa hari Ahad"* at
+  `[2:39:35]`), which is exactly why the waiver looked right. A transcript that
+  stops at a plausible ending and labels the remainder `[silence]` is
+  indistinguishable from a correct one **from inside the transcript**. Only the
+  audio settles it.
+
+**The check** (`scripts/check_caption_coverage.py`, signature `caption-coverage`)
+slides a 60s window across the caption and scores each bucket by the fraction of
+its word 4-grams appearing anywhere in `raw.md`. It runs opposite to every other
+check here: it starts from the audio and asks what the transcript is missing,
+rather than starting from the transcript and asking what looks odd. That is what
+makes it immune to the backfill blind spot -- duplicated blocks, displaced
+blocks, and `[silence]` markers all populate the timeline, and none of them
+create a 4-gram match.
+
+**Calibration.** An absolute floor does not work, because how closely `raw.md`'s
+wording tracks the captions varies by episode. Healthy episodes cluster at 22-28%
+baseline coverage with worst dead runs of 0-120s. Four episodes sit at 0-3% for
+reasons that are not content loss -- ep02 has English captions against a Malay
+transcript, ep21's YouTube ASR runs at half normal word density, ep03's wording
+diverges from the captions throughout (its blocks still map to the correct audio
+positions, verified), and ep45's `raw.md` is 78% duplicated. Each bucket is
+therefore judged against its own episode's median, an episode below 10% baseline
+is reported `inconclusive` rather than flagged, and a dead run must reach 10
+minutes. Result on the corpus: 59 clean, 5 inconclusive, 3 flagged (ep00, ep26,
+ep48), no false positives.
+
+**Two lessons, and the second is the expensive one.** First, `fetch_captions`
+re-downloaded every `.vtt` on every call; a throttled fetch returns `None`, every
+caller reads that as "no captions", and the episode reports clean having never
+been examined. Now cached. Second, and this is the one worth internalising:
+1.21 established that a verdict with nowhere to live is a recurring tax, and the
+ledger fixed that. ep48 shows the other edge of the same tool. **A ledger entry
+is as permanent as it is convenient, so a wrong one is strictly worse than no
+entry at all** -- it converts an open question into a settled answer and stops
+anyone looking again. The ep48 waiver was written from the transcript alone, for
+a claim only the audio could settle. Suppress on evidence from outside the
+artifact under review, or do not suppress.
