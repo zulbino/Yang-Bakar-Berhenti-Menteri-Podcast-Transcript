@@ -35,6 +35,7 @@ data/
 scripts/                                 # kod pipeline, lihat ARCHITECTURE.md
 ARCHITECTURE.md                          # teknologi: persediaan, arahan, pengesahan
 ENGINEERING_LOG.md                       # setiap kegagalan, puncanya dan pembetulannya
+CREDITS.md                               # model pihak ketiga, lesen, petikan
 QA_CHECKLIST.md                          # dijana oleh scripts/qa_check.py
 ```
 
@@ -62,6 +63,8 @@ Nama khas (nama orang, ejaan luar biasa) yang ditranskrip oleh enjin ASR tempata
 ## Lesen dan penafian
 
 Kod aliran kerja dalam repositori ini (segala-galanya di bawah `scripts/`) dikeluarkan di bawah [CC0 1.0](LICENSE): domain awam, tiada kebenaran atau atribusi diperlukan untuk menggunakan, mengubah suai, atau mengedarkannya semula.
+
+Itu meliputi kod projek ini sahaja. Pipeline ini bergantung kepada model dan alat yang mempunyai terma masing-masing, dan dua daripadanya terpakai kepada sesiapa yang menjalankannya semula: penjajar paksa MMS oleh Meta adalah **CC-BY-NC 4.0 (bukan komersial sahaja)**, dan model embedding WeSpeaker adalah CC-BY-4.0 (atribusi diperlukan). Penggunaan semula transkrip yang sudah siap tidak terjejas kerana ia tidak melibatkan model tersebut. Lihat [CREDITS.md](CREDITS.md) (dalam Bahasa Inggeris) untuk senarai penuh, petikan yang diminta oleh penulisnya, dan hasil kerja orang lain yang menjadi asas kepada projek ini.
 
 Transkrip episod di bawah `episodes/` merupakan transkripsi dan terjemahan podcast milik Rafizi Ramli sendiri, disumberkan daripada saluran YouTube awamnya. Projek ini tidak mengenakan sebarang sekatan sendiri ke atas penggunaan semula fail-fail ini: tiada kebenaran diperlukan, tiada kredit diwajibkan. Walau bagaimanapun, kandungan pertuturan asal (rancangan itu sendiri, dan apa jua yang dituturkan oleh Rafizi Ramli atau tetamunya) adalah kepunyaan mereka, bukan projek ini, dan tiada apa di sini yang mengubah hakikat tersebut. Gunakan arkib ini untuk penyelidikan, laporan, atau membina alat anda sendiri di atasnya; sebarang pertikaian mengenai kandungan asal hendaklah dirujuk kepada pencipta asal, bukan repositori ini.
 
