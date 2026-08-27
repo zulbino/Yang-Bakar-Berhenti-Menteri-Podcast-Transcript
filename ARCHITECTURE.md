@@ -777,6 +777,85 @@ rewrite/translate/metadata stage.
   `dedupe_raw.py`'s `fetch_captions()` currently only try `ms` then `en` --
   should add `id` as a third fallback (not yet done).
 
+### 1.17: Content dropped from the middle of an episode, invisible to every check
+
+- **Found:** `qa_check.py` reported the corpus as 53/67 clean. Two of those
+  "clean" episodes were missing most of their content. `ep00`
+  (`yang-berhenti-menteri`, 2025-05-10) has 60 timestamped blocks for a
+  7,938-second episode, with four unexplained holes -- the largest 1,097s
+  between `[1:08:16]` and `[1:27:18]`, plus 982s between `[1:42:11]` and
+  `[1:58:38]` -- adding up to roughly **41% of the runtime with no transcript
+  at all**. `ep26` is worse at 54%.
+- **Why every existing check missed it.** The coverage check only asks whether
+  the *last* timestamp reaches the end of the audio (see 1.14 for how that
+  check has been wrong before), so a file can drop its entire middle and still
+  score 100%. The free backward-jump scan from 1.16 can't see it either: these
+  gaps jump *forward*, and the printed timestamps stay perfectly monotonic
+  straight through them. This is the same class as `ep33`'s mid-episode gap,
+  which only a direct caption-phrase-position check surfaced -- but this
+  detector is free and needs no captions.
+- **Why the obvious version of this check does not work.** Flagging any large
+  gap between consecutive timestamps over-flags **63 of 67 episodes**, because
+  `raw.md` merges a long monologue into a single timestamped block (the
+  coarse-VAD-merge artifact, 1.11). A genuine 6-minute monologue is
+  indistinguishable from a 6-minute hole if you only look at the timestamps.
+- **The fix that works:** score each gap against how much text actually sits at
+  its start. Malay speech in this corpus runs roughly 13 chars/sec, so a 982s
+  gap opening from a 60-char one-liner is missing content, while a 2,568s gap
+  opening from a 33,000-char wall of text is not. Two exclusions matter: skip
+  lead-in and tail (intro music before the first words is normal, and the tail
+  is already covered), and skip blocks holding only a bracketed non-speech
+  marker -- `ep48` genuinely ends at `[2:39:48]` and leaves 40 minutes of dead
+  air labelled `[silence]`, which is not lost content and would otherwise be a
+  false positive.
+- **Now permanent in `qa_check.py`.** Flags at 10% of runtime lost. Calibrated
+  corpus-wide: catches exactly ep45, ep26, ep00 and ep35, with the next-worst
+  episode at 6%.
+- **Related fix in the same pass.** The existing duplicate-block check had two
+  bugs that hid the corpus's worst case. Its prefix regex required a
+  colon-terminated speaker label (`[^:]*:`), but `ep45`'s blocks carry none
+  (`[1:31:57] Sufi tahap tinggi...`), so the timestamp stayed in the comparison
+  key and every repeat looked distinct -- the identical root cause already
+  documented for `short_block_loops`. Its 300-char floor also sat above ep00's
+  and ep26's real 60-283 char duplicates. With the timestamp stripped
+  unconditionally and the floor at 60, ep45 reports **1,028 duplicate blocks,
+  78% of the file**, one passage repeated 19 times. Dropping the floor to 60
+  introduced no false positives anywhere in the corpus.
+
+### 1.18: A `raw.md` that is a fabricated summary outline, not a transcript
+
+- **Found:** `ep35` (2026-02-13, `gemini-3.6-flash`) passed every check as
+  clean. It is a real verbatim transcript only for its first ~39 minutes
+  (lines 18-256, `[02:38]`-`[39:15]`). From line 298 `[1:05:00]` onward it is a
+  Gemini-written *summary of the episode* presented as a transcript. 46,389
+  chars for a 3h13m episode where ~151,000 is expected: roughly **80% of the
+  episode fabricated or missing**.
+- **How it reads.** Numbered lists inside "speech" (`1. Rehatkan Azam Baki
+  serta-merta. 2. Tubuhkan Suruhanjaya Siasatan Diraja (RCI)...`), agenda labels
+  (`Baik, kita masuk segmen terkahir: Soal Jawab & Mak Lampir / PKR`),
+  third-person descriptions of what was said rather than the words themselves
+  (`Sembang pasal komen-komen orang terhadap podcast YB`), and written-register
+  marks real speech never contains -- `/` as a conjunction and parenthetical
+  glosses like `(bekas setiausaha politik Anwar)`.
+- **This is a new hallucination shape.** Distinct from ep33's fabricated
+  `[Music fades into a continuous loop...]` placeholder (which at least admits
+  content is absent), from plain truncation (2.2), and from every repetition
+  variant in 1.16 -- this one is fluent, plausible, topically accurate, and
+  therefore the hardest to notice by reading.
+- **Free detector, now permanent in `qa_check.py`:** timing that was invented
+  rather than measured lands on round minute boundaries. Real ASR timestamps
+  land on arbitrary second values, so ~1.7% should end in `:00` by chance.
+  ep35 is at **25%**, and it is the only episode in the corpus above 8% --
+  a clean separation, flagged at a 12% threshold.
+- **Also worth noting, unresolved:** ep35's only two speaker labels are
+  `Rafizi` and `Fizi`, and `Fizi` is not in the known cast. But it appears
+  inside the *genuine* transcript region and is self-introduced there
+  (`Macam biasa bersama saya, saudara Fizi`), so it is not safe to assume it
+  is wrong -- exactly the trap that made ep38's `Nazri`/`Haziq` mix-up
+  invisible. Needs real audio to settle.
+- **Not fixed yet.** ep35 needs its `[39:15]`-onward stretch re-transcribed and
+  spliced, then `rewrite` and `translate` re-run.
+
 ### 2.1: Choosing a fallback provider
 
 - **Found:** the rewrite stage originally only used Gemini. When Gemini's
@@ -893,9 +972,16 @@ That's why `scripts/qa_check.py` exists, and why it's worth running (and reading
 the failure signatures found so far: timestamp coverage against episode duration,
 wall-of-text blocks with no paragraph breaks, duplicate blocks repeated at different
 timestamps, rewrite files disproportionately short against their raw transcript,
-leaked model reasoning in place of transcript content, and inconsistent turn
-formatting. It also cross-references `data/manifest.json` against the `episodes/`
-folder to flag episodes that were never processed at all.
+leaked model reasoning in place of transcript content, inconsistent turn
+formatting, timestamps that drop backward (1.16), content dropped from the middle
+of an episode (1.17), and timing invented rather than measured (1.18). It also
+cross-references `data/manifest.json` against the `episodes/` folder to flag
+episodes that were never processed at all.
+
+The checklist is only ever as good as the checks in it. The corpus was reported as
+53/67 clean right up until 1.17 and 1.18 were added, at which point two of those
+"clean" episodes turned out to be missing 41% and 80% of their content. Treat a
+clean row as "no *known* signature fired", not as verified.
 
 Every output file's frontmatter also records which model actually produced it
 (`model:`), and `qa_check.py` flags any file made by one of the fallback chain's
