@@ -1642,3 +1642,97 @@ inconsistency in Gemini's diarization is real and episode-specific, not just a
 theoretical concern; don't assume a mislabel found in one episode generalizes to
 every other episode using the same label, and don't assume a same-named label
 found correct in one episode generalizes either. Each case needs its own check.
+
+### 1.23: The drift checker measured block length, not mistiming
+
+- **Found 2026-08-27**, from a fair challenge: nine episodes (ep27, ep31, ep34,
+  ep41, ep43, ep44, ep47, ep51, ep56) had sat on the checklist as "drift-only,
+  needs one verification pass" across several sessions. They were not nine
+  separate verification jobs. They were one bug in the checker.
+- **The tell was in the data already collected.** Every drift spike in the corpus
+  was *positive* -- not one negative outlier in nine episodes -- and every spike
+  landed on the longest block in its sample. Drift caused by mistiming has no
+  reason to prefer one sign or to correlate with block length.
+- **Cause.** `check_episode` extracted its comparison phrase from the *middle* of
+  a block and compared the result against the timestamp at the block's *start*:
+
+      content_words = re.sub(r"[^\w\s]", " ", block.lower()).split()
+      mid = len(content_words) // 2
+      phrase = content_words[mid:mid + 20]
+      actual_ts = find_nearby_timestamp(words, times, phrase, claimed_ts)
+
+  A block's timestamp labels where the block begins. `raw.md` blocks routinely run
+  to 1,000-5,500 words because of the coarse-VAD merge behaviour described in
+  1.11, so a block's midpoint is genuinely 10-20 minutes of audio after its start.
+  The check was reporting half the block's duration and calling it mistiming.
+- **Fix**: strip the `[MM:SS] Speaker:` prefix and take the phrase from the
+  block's head, which is what the timestamp actually labels.
+- **Effect, corpus-wide.** Max drift on the nine fell from 325-1083s to 17-29s.
+  The corpus median max-drift is now **21s**, and only three episodes exceed 60s.
+  The module docstring's claimed "noise floor of roughly 100-250s even on
+  correctly-timed blocks" was never a noise floor -- it was this bias, measured
+  and then written down as a property of the method. `DRIFT_THRESHOLD_SECONDS`
+  (300) was calibrated against it, so the threshold now sits ~10x above the real
+  noise floor rather than barely above a phantom one.
+- **What survived the fix**: ep00 (446s) and ep45 (845s), both genuinely broken
+  and both already flagged by stronger checks, plus ep17 (958s), a single
+  false phrase-lock adjudicated benign in `data/qa_reviewed.json`.
+- **Match confidence was tested as a way to retire ep17 automatically and
+  rejected.** Across all 470 samples the score separates poorly: ep45's *real*
+  defect matches at 4/5 distinctive words (0.80) while ep00's *real* defect
+  matches at 4/13 (0.31), straddling ep17's false lock at 4/9 (0.44). No honest
+  cut exists, so ep17 got a ledger entry instead of an invented rule. Per 1.21,
+  prefer an objective test to a ledger entry -- but only when the objective test
+  actually separates the cases.
+
+**The transferable lesson**: this checker's own output contained the proof it was
+wrong (all-positive spikes, correlated with block length) for as long as it had
+been running. A heuristic's residual error is worth reading as data about the
+heuristic, not just as a list of suspects. Nine episodes were carried as open QA
+work for multiple sessions on the strength of a measurement artifact.
+
+### 1.24: ep00 and ep26 are missing an hour of audio each, not "middle gaps"
+
+- **Found 2026-08-27** while working the two remaining content defects with the
+  captions-first method 1.17 recommends.
+- The checklist described ep00 as "41% missing across 4 gaps" and ep26 as "34%
+  missing, one 2,990s gap". Both understate the damage and misdescribe its shape.
+  A first probe looked reassuring -- 70-95% of each gap's distinctive caption
+  words were present somewhere in `raw.md` -- but that test is worthless: single
+  common Malay words will match somewhere in a 130-minute transcript by chance.
+- **The decisive test is 4-gram coverage, bucketed by time.** Word 4-grams are
+  rare enough that a match means the speech is genuinely present. Sliding a
+  60-second window across the caption and asking what fraction of its 4-grams
+  appear anywhere in `raw.md` produces a coverage strip that localises loss
+  exactly. Both episodes show normal coverage for their first ~75 minutes and
+  then flat zero to the end:
+  - **ep00**: zero coverage from 4800s to 7860s (caption runs to 7935s).
+  - **ep26**: zero coverage from 4920s to 8880s (caption runs to 8826s).
+- **Reverse-mapping each block to its true audio position** (the ep35 fabrication
+  recipe, 1.18) explains what filled the space:
+  - **ep00** transcribes audio 0-4050s correctly, then blocks `[4088]`, `[4092]`,
+    `[4096]`, `[5238]`, `[6127]`, `[6131]` and `[7118]` are verbatim re-emissions
+    of blocks `[2612]`, `[2617]`, `[2620]` and `[3652]` under fresh timestamps
+    (identical char counts, identical median audio origin). Blocks `[5710]`-`[5763]`
+    hold real content displaced from audio 4361-4760s. Then it jumps to the
+    genuine outro at `[7860]`. **Roughly 57 of 132 minutes were never transcribed.**
+  - **ep26** holds real content in order out to audio ~4880s, but every timestamp
+    from block `[1394]` onward is wrong -- `[5733]` is really 3222s, `[6960]` is
+    really 3858s, `[8950]` is really 4077s. **Roughly 66 of 147 minutes are absent.**
+- **Both are the 1.22 continuation-loop failure**, matching ep45 and ep35: the
+  model backtracks, re-emits covered ground under new timestamps, and the loop
+  appends it while the "last timestamp keeps climbing" heuristic still reads as
+  satisfied. The re-emitted material consumes the output budget that the real
+  remaining hour needed. That makes three confirmed victims of one unguarded loop
+  (ep00, ep26, ep45) plus one suspected (ep35).
+- **Consequence for the repair plan**: neither episode can be fixed by editing
+  `raw.md`. Both need re-transcription of the missing tail, and the overlap guard
+  should land first so the redo cannot reproduce the same failure.
+
+**Why the existing content-loss check understated both**: it measures gaps
+*between* consecutive timestamps against the text at the gap's start, so it can
+only see loss that leaves a hole in the timeline. Loss backfilled by duplicated
+or displaced blocks presents as a populated timeline and largely escapes it. The
+4-gram coverage map has no such blind spot because it starts from the audio and
+asks what is missing from the transcript, rather than starting from the
+transcript and asking what looks odd.

@@ -50,6 +50,13 @@ DRIFT_THRESHOLD_SECONDS = 300
 SEARCH_RADIUS_SECONDS = 1200
 
 BLOCK_TS_RE = re.compile(r"^\[((?:\d+:)?\d+:\d+)\]")
+# A block's timestamp labels where the block STARTS, so the phrase compared
+# against it must come from the block's head. Sampling from the middle instead
+# measured the offset from the block's start to its midpoint -- pure block
+# length, not mistiming. raw.md blocks run to 5,000+ words (20+ minutes of
+# speech), which produced 325-1083s of phantom "drift" on nine episodes, always
+# positive and always on the longest block in the sample. See ARCHITECTURE.md 1.23.
+BLOCK_PREFIX_RE = re.compile(r"^\[(?:\d+:)?\d+:\d+\]\s*(?:[^:\n]{1,40}:)?\s*")
 
 
 def ts_to_seconds(ts):
@@ -112,9 +119,8 @@ def check_episode(video_id, episode):
     results = []
     not_found = 0
     for claimed_ts, block in samples:
-        content_words = re.sub(r"[^\w\s]", " ", block.lower()).split()
-        mid = len(content_words) // 2
-        phrase = content_words[mid:mid + 20]
+        head = BLOCK_PREFIX_RE.sub("", block)
+        phrase = re.sub(r"[^\w\s]", " ", head.lower()).split()[:20]
         actual_ts = find_nearby_timestamp(words, times, phrase, claimed_ts)
         if actual_ts is None:
             not_found += 1

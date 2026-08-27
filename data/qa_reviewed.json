@@ -22,7 +22,6 @@
     "Re-flag by deleting the entry. If an episode is reprocessed and its content",
     "changes, delete its entries so the new output gets judged fresh."
   ],
-
   "2026-03-27-ep41-siapa-mr-r-bukti-40-muka-surat-tindak-balas-kerajaan-susulan": {
     "wall-of-text": {
       "verdict": "benign",
@@ -60,6 +59,13 @@
     "content-loss": {
       "verdict": "benign",
       "reason": "The 40-minute 'hole' is genuine dead air: the episode ends at [2:39:48] and the rest of the video is silence, labelled [silence] then [end of audio]. ARCHITECTURE.md 1.17.",
+      "date": "2026-08-27"
+    }
+  },
+  "2025-10-10-ep17-yang-berhenti-menteri-episod-17-belanjawan-2026-janji-fam": {
+    "drift": {
+      "verdict": "benign",
+      "reason": "Isolated false phrase-lock, not mistiming. 10 of ep17's 11 matched samples sit within -21s; the single -958s outlier is a 124-char block whose head words score equally badly at the claimed and matched positions (2/10 both), so the match barely cleared MIN_MATCHING_WORDS and locked onto a coincidence. Block [7323s] independently maps to audio at 7441s (p10 7341, p90 7535) by 4-gram origin mapping, and the caption coverage map shows no near-zero run anywhere in the episode. See ARCHITECTURE.md 1.23.",
       "date": "2026-08-27"
     }
   }
