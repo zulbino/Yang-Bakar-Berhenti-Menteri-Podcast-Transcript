@@ -153,7 +153,44 @@
     "status": "no_captions"
   },
   "2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard": {
-    "status": "no_captions"
+    "status": "ok",
+    "samples_matched": 6,
+    "samples_not_found_nearby": 6,
+    "samples_total": 12,
+    "max_drift_seconds": 39,
+    "flagged": false,
+    "details": [
+      {
+        "claimed": 289,
+        "actual": 302,
+        "drift": 13
+      },
+      {
+        "claimed": 1976,
+        "actual": 1937,
+        "drift": -39
+      },
+      {
+        "claimed": 2953,
+        "actual": 2949,
+        "drift": -4
+      },
+      {
+        "claimed": 3487,
+        "actual": 3511,
+        "drift": 24
+      },
+      {
+        "claimed": 3726,
+        "actual": 3725,
+        "drift": -1
+      },
+      {
+        "claimed": 5480,
+        "actual": 5487,
+        "drift": 7
+      }
+    ]
   },
   "2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-": {
     "status": "no_captions"
@@ -166,13 +203,13 @@
     "samples_matched": 3,
     "samples_not_found_nearby": 9,
     "samples_total": 12,
-    "max_drift_seconds": 14,
+    "max_drift_seconds": 22,
     "flagged": true,
     "details": [
       {
-        "claimed": 914,
-        "actual": 900,
-        "drift": -14
+        "claimed": 934,
+        "actual": 912,
+        "drift": -22
       },
       {
         "claimed": 1064,
@@ -623,16 +660,26 @@
   },
   "2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21": {
     "status": "ok",
-    "samples_matched": 1,
-    "samples_not_found_nearby": 11,
+    "samples_matched": 3,
+    "samples_not_found_nearby": 9,
     "samples_total": 12,
-    "max_drift_seconds": 18,
+    "max_drift_seconds": 8,
     "flagged": true,
     "details": [
       {
-        "claimed": 2804,
-        "actual": 2786,
-        "drift": -18
+        "claimed": 2014,
+        "actual": 2016,
+        "drift": 2
+      },
+      {
+        "claimed": 3526,
+        "actual": 3534,
+        "drift": 8
+      },
+      {
+        "claimed": 9041,
+        "actual": 9044,
+        "drift": 3
       }
     ]
   },

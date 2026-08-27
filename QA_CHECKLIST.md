@@ -9,9 +9,9 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 ## Flagged episodes
 
 - [ ] **2024-08-26-ep05-yang-bakar-menteri-ybm-ep5**
-  - check_timestamp_drift.py flagged timestamp mistiming (max drift 14s, 3/12 caption samples matched)
+  - check_timestamp_drift.py flagged timestamp mistiming (max drift 22s, 3/12 caption samples matched)
 - [ ] **2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21**
-  - check_timestamp_drift.py flagged timestamp mistiming (max drift 18s, 1/12 caption samples matched)
+  - check_timestamp_drift.py flagged timestamp mistiming (max drift 8s, 3/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2025-12-12-ep26-reformasi-bukan-content-azam-baki-uec-felda-ybm-ep-26**
   - raw.md timestamp drops backward (7 jump(s), first from 8425s to 5695s at '[01:34:55] [Rafizi]: But what if, what if memang betul aa Az') -- likely a hard reset, block reorder, or digit typo, see ARCHITECTURE.md 1.16
