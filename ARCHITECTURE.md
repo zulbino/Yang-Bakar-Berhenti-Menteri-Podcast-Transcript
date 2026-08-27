@@ -3,8 +3,8 @@
 How an episode goes from a YouTube URL to four transcript files: the models and tools
 in the stack, how to set it up and run it, and how the output gets verified.
 
-This file describes the stack **as it currently stands**. Every failure that shaped it
--- what broke, why, and what fixed it -- is in [ENGINEERING_LOG.md](ENGINEERING_LOG.md),
+This file describes the stack **as it currently stands**. Every failure I hit while
+building it is in [ENGINEERING_LOG.md](ENGINEERING_LOG.md),
 numbered `1.x` for the transcription stage and `2.x` for the rewrite stage. References
 below of the form "1.17" point there.
 
@@ -53,8 +53,8 @@ reasons (see below).
 | Speaker labels, fallback path | `pyannote.audio` 3.1 + forced alignment | Local ASR has no diarization of its own. Unreliable on some episodes -- see Known limitations |
 | Rewrite / translate / metadata (default) | Gemini, chunked text calls | |
 | Rewrite / translate / metadata (fallback) | `claude` CLI, headless (`claude -p`) | Uses an existing Claude Code seat rather than an API key (2.1) |
-| Ground truth for verification | YouTube auto-captions (`audio/<video_id>.ms.vtt`) | Free, already downloaded, cover full runtime. The most underused asset in the repo (1.11) |
-| Second, independent recording | `@mediarakyat` re-uploads of the same episodes | Own separate captions, so a finding can be confirmed without reusing the same caption run. Also recovered captions for two otherwise caption-less episodes. Does not cover ep03-14 (1.16) |
+| Ground truth for verification | YouTube auto-captions (`audio/<video_id>.ms.vtt`) | Free, already downloaded, and they cover the full runtime (1.11) |
+| Second, independent recording | `@mediarakyat` re-uploads of the same episodes | Their captions are generated separately, so a finding can be confirmed without reusing the same caption run. They also supplied captions for two episodes that had none. They do not cover ep03-14 (1.16) |
 | Timing sanity | `check_timestamp_drift.py` | Head-phrase match against captions (1.23) |
 | Content-loss detection | `check_caption_coverage.py` | 4-gram coverage, starts from the audio (1.25) |
 | Everything else | `qa_check.py` into `QA_CHECKLIST.md` | Runs every known failure signature; verdicts persist in `data/qa_reviewed.json` (1.21) |
@@ -121,8 +121,8 @@ python scripts/qa_check.py
 ### Repair tools
 
 For an episode that's missing content or badly mistimed. **Run the alignment first.**
-Establishing ground truth before cutting any audio is the lesson of 1.18 and 1.24; two
-transcription runs were wasted learning it.
+Establish ground truth before you cut any audio. That is the lesson of 1.18 and 1.24,
+and I wasted two transcription runs learning it.
 
 ```bash
 # Where does each block's text ACTUALLY occur in the audio?
@@ -141,7 +141,7 @@ named from the episode's existing verified labels, is 1.26.
 
 ## Cross-checks: what catches what
 
-No single check is sufficient, and each has a blind spot another covers. The history
+No single check is sufficient. Each one misses something another catches. The history
 behind this table is 1.11, 1.14, 1.17, 1.23 and 1.25.
 
 | Check | Catches | Blind to |
@@ -149,7 +149,7 @@ behind this table is 1.11, 1.14, 1.17, 1.23 and 1.25.
 | `coverage` | A transcript ending well before the episode does | Loss backfilled by duplicate or displaced blocks, which leaves the timeline looking full |
 | `content-loss` | Gaps between timestamps too large for the text at their start | The same backfill, plus loss papered over with `[silence]` markers (1.25) |
 | `caption-coverage` | Audio whose speech has no counterpart anywhere in the transcript | Episodes whose wording diverges from the captions throughout, which report `inconclusive` rather than clean |
-| `drift` | Blocks timestamped far from where they were actually spoken | Sparse or wrong-language captions; isolated false phrase-locks still need adjudicating by hand |
+| `drift` | Blocks timestamped far from where they were actually spoken | Sparse or wrong-language captions. Isolated false phrase-locks still need adjudicating by hand |
 | `duplicates` | The same block re-emitted at another timestamp | Near-duplicates differing by a word |
 | `backward-jump` | Timestamps that decrease | Forward-only corruption |
 | `round-timestamps` | Timing invented rather than measured, i.e. a fabricated outline (1.18) | A fabrication that copies plausible timings |
@@ -157,17 +157,17 @@ behind this table is 1.11, 1.14, 1.17, 1.23 and 1.25.
 | `truncated` | A rewrite disproportionately short against its raw transcript | Condensation that stays above the ratio |
 | `language` | A mixed-language transcript silently rewritten to English only | |
 
-The decisive property of `caption-coverage` is its direction: **it starts from the
-audio and asks what the transcript is missing**, where every other check reads the
-transcript and asks what looks odd. Duplicated blocks, displaced blocks and `[silence]`
-markers all produce a populated timeline, and none of them can fake a 4-gram match.
-That is what finally caught ep48 (1.25).
+`caption-coverage` runs in the opposite direction from the others. **It starts from the
+audio and asks what the transcript is missing.** Every other check reads the transcript
+and asks what looks odd there. Duplicated blocks, displaced blocks and `[silence]`
+markers all fill the timeline, and none of them can fake a 4-gram match, which is how
+this check caught ep48 (1.25).
 
 Verdicts live in `data/qa_reviewed.json`, keyed by episode and signature name, so a
 reviewed issue stays reviewed instead of being re-investigated every session (1.21).
-**A wrong entry there is worse than no entry**, because it converts an open question
-into a settled answer and stops anyone looking. Suppress only on evidence from outside
-the artifact under review.
+**A wrong entry there does more harm than no entry at all.** It turns an open question
+into a settled answer, so nobody checks again. Only suppress an issue on evidence from
+outside the file being reviewed.
 
 ## Why a clean exit code isn't enough
 
@@ -184,8 +184,8 @@ as a "successful" result (2.1), and the same validate-nothing-but-the-
 exception gap letting Claude silently condense a heavily disfluent chunk instead of
 fully rewriting it (2.2). None of them raised an exception.
 
-That's why `scripts/qa_check.py` exists, and why it's worth running (and reading
-`QA_CHECKLIST.md`, not just the exit code) after every batch. It checks for all of
+That's why `scripts/qa_check.py` exists. Run it after every batch, and read
+`QA_CHECKLIST.md` rather than the exit code. It checks for all of
 the failure signatures found so far: timestamp coverage against episode duration,
 wall-of-text blocks with no paragraph breaks, duplicate blocks repeated at different
 timestamps, rewrite files disproportionately short against their raw transcript,
@@ -195,10 +195,10 @@ of an episode (1.17), and timing invented rather than measured (1.18). It also
 cross-references `data/manifest.json` against the `episodes/` folder to flag
 episodes that were never processed at all.
 
-The checklist is only ever as good as the checks in it. The corpus was reported as
-53/67 clean right up until 1.17 and 1.18 were added, at which point two of those
-"clean" episodes turned out to be missing 41% and 80% of their content. Treat a
-clean row as "no *known* signature fired", not as verified.
+The checklist is only ever as good as the checks in it. I reported the corpus as 53/67
+clean until I added 1.17 and 1.18, and then two of those "clean" episodes turned out to
+be missing 41% and 80% of their content. Treat a clean row as "no *known* signature
+fired", and not as verified.
 
 Every output file's frontmatter also records which model actually produced it
 (`model:`), and `qa_check.py` flags any file made by one of the fallback chain's
@@ -213,9 +213,9 @@ The 4 recurring cast members use short (first) names in `raw.md` -- `Rafizi`,
 `Haziq`, `Farhan (Pa'an)`, `Iqbal` -- and their full names in all three
 `interview*.md` rewrites (`Rafizi Ramli`, `Haziq`, `Farhan (Pa'an)`, `Iqbal`;
 "Haziq" and "Iqbal" don't have a longer form in use anywhere in the corpus).
-**Correction, 2026-08-26:** an earlier version of this note claimed the short
-form applied "everywhere... including interview*.md", based on a 2026-08-24
-archive-wide rename. That's not what the archive actually contains: as of
+**I got this wrong once, and corrected it on 2026-08-26.** An earlier version of this
+note claimed the short form applied "everywhere... including interview*.md", based on a
+2026-08-24 archive-wide rename. That's not what the archive actually contains: as of
 this date, 34 of the corpus's `interview.md` files use the full `Rafizi
 Ramli:` label, and only a handful (all reprocessed after the redo-wipe bug
 below) use the short form. Treat `raw.md` = short name, `interview*.md` =

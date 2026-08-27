@@ -64,7 +64,7 @@ Start here if something looks wrong. Find the symptom, read the section.
 
   | Model | Result |
   |---|---|
-  | `mesolitica/malaysian-whisper-medium-v2` | **Selected.** No repetition-loop hallucinations on the original test clips. A real one surfaced later in production on ep60 (~19s, "di atas" repeated ~140x on one noisy stretch). See Known Limitations below. |
+  | `mesolitica/malaysian-whisper-medium-v2` | **Selected.** No repetition-loop hallucinations on the original test clips. A real one appeared later in production on ep60 (~19s, "di atas" repeated ~140x on one noisy stretch). See Known Limitations below. |
   | `mesolitica/malaysian-distil-whisper-large-v3` | Repetition-loop hallucinations |
   | `mesolitica/malaysian-whisper-small-v3` | Repetition-loop hallucinations |
   | `openai/whisper-large-v3` (non-fine-tuned) | Repetition-loop hallucinations, plus entity errors at crosstalk moments (for example, hearing "Ampang" as "abang") |
@@ -280,7 +280,7 @@ Start here if something looks wrong. Find the symptom, read the section.
   (Whisper) has no mechanism to invent people or topics that aren't in the audio, so
   this failure class isn't possible with the local fallback, confirmed on ep60's
   redo, which produced a normal, verifiably real sign-off in place of the fabricated
-  tail. The local engine surfaced a different, much smaller-stakes failure of its
+  tail. The local engine produced a different, much smaller-stakes failure of its
   own on the redo: short stretches (typically under 20s) where Whisper gets stuck
   repeating one filler sound or word ("di atas" ~140x, "mmmm..." runs, "Maksudnya"
   ~80x) on a noisy or unclear patch of audio: garbled nonsense, not a fabricated
@@ -512,7 +512,7 @@ Start here if something looks wrong. Find the symptom, read the section.
   guest co-host Amin Sahmat) depending on sample point, not one person mislabeled
   twice. Not every cluster resolves to a single name: when repeated sampling keeps
   returning different real people for the same label, that's a genuine diarization
-  merge, and the honest fix is leaving it labeled generically rather than forcing a
+  merge, and the fix is to leave it labeled generically rather than force a
   guess.
 - **Context (YouTube video descriptions are a high-value, already-available source
   of ground truth):** `data/manifest.json`'s `description` field (fetched once by
@@ -535,7 +535,7 @@ Start here if something looks wrong. Find the symptom, read the section.
   forward passes was silently dropping chunks past roughly index 524) made no
   difference: a fresh run reproduced the exact same 9704s/1203s numbers, byte-for-byte
   identical to the run before the fix.
-- **Root cause:** that exact reproducibility was the tell that this was never a
+- **Root cause:** that exact reproducibility showed this was never a
   content-loss bug at all. Debug logging added directly into
   `transcribe_raw_local()` showed the last **pre-merge** raw chunk actually started at
   10856.9s, essentially the true end of the 10906.8s episode; every one of the final
@@ -792,7 +792,7 @@ Start here if something looks wrong. Find the symptom, read the section.
   a later line's value drops more than ~30s below the running maximum seen
   so far. This alone found all four fixed bugs above, including two
   (ep45's typo, ep05's reorder) that neither `check_timestamp_drift.py`'s
-  caption-based sweep nor a manual caption-based deep-dive had surfaced,
+  caption-based sweep nor a manual caption-based deep-dive had found,
   because both of those bugs preserve locally-correct timestamps and would
   only show up as a hard-to-notice ordering violation, not a drift value.
   Running it across the full 67-episode corpus took seconds and found
@@ -840,7 +840,7 @@ Start here if something looks wrong. Find the symptom, read the section.
   score 100%. The free backward-jump scan from 1.16 can't see it either: these
   gaps jump *forward*, and the printed timestamps stay perfectly monotonic
   straight through them. This is the same class as `ep33`'s mid-episode gap,
-  which only a direct caption-phrase-position check surfaced -- but this
+  which only a direct caption-phrase-position check found -- but this
   detector is free and needs no captions.
 - **Why the obvious version of this check does not work.** Flagging any large
   gap between consecutive timestamps over-flags **63 of 67 episodes**, because
@@ -1228,9 +1228,9 @@ Start here if something looks wrong. Find the symptom, read the section.
 
 - **Found 2026-08-27**, from a fair challenge: nine episodes (ep27, ep31, ep34,
   ep41, ep43, ep44, ep47, ep51, ep56) had sat on the checklist as "drift-only,
-  needs one verification pass" across several sessions. They were not nine
-  separate verification jobs. They were one bug in the checker.
-- **The tell was in the data already collected.** Every drift spike in the corpus
+  needs one verification pass" across several sessions. All nine came from one bug
+  in the checker.
+- **The evidence was already in the data I had collected.** Every drift spike in the corpus
   was *positive* -- not one negative outlier in nine episodes -- and every spike
   landed on the longest block in its sample. Drift caused by mistiming has no
   reason to prefer one sign or to correlate with block length.
@@ -1258,7 +1258,7 @@ Start here if something looks wrong. Find the symptom, read the section.
 - **What survived the fix**: ep00 (446s) and ep45 (845s), both genuinely broken
   and both already flagged by stronger checks, plus ep17 (958s), a single
   false phrase-lock adjudicated benign in `data/qa_reviewed.json`.
-- **Match confidence was tested as a way to retire ep17 automatically and
+- **I tested match confidence as a way to retire ep17 automatically, and
   rejected.** Across all 470 samples the score separates poorly: ep45's *real*
   defect matches at 4/5 distinctive words (0.80) while ep00's *real* defect
   matches at 4/13 (0.31), straddling ep17's false lock at 4/9 (0.44). No honest
@@ -1266,11 +1266,11 @@ Start here if something looks wrong. Find the symptom, read the section.
   prefer an objective test to a ledger entry -- but only when the objective test
   actually separates the cases.
 
-**The transferable lesson**: this checker's own output contained the proof it was
-wrong (all-positive spikes, correlated with block length) for as long as it had
-been running. A heuristic's residual error is worth reading as data about the
-heuristic, not just as a list of suspects. Nine episodes were carried as open QA
-work for multiple sessions on the strength of a measurement artifact.
+This checker's own output contained the proof it was wrong for as long as it had been
+running: every spike positive, and every spike correlated with block length. I had been
+reading its residual error as a list of suspects when it was data about the checker
+itself. Nine episodes stayed open across several sessions because of a measurement
+artifact.
 
 ### 1.24: ep00 and ep26 are missing an hour of audio each, not "middle gaps"
 
@@ -1281,7 +1281,7 @@ work for multiple sessions on the strength of a measurement artifact.
   A first probe looked reassuring -- 70-95% of each gap's distinctive caption
   words were present somewhere in `raw.md` -- but that test is worthless: single
   common Malay words will match somewhere in a 130-minute transcript by chance.
-- **The decisive test is 4-gram coverage, bucketed by time.** Word 4-grams are
+- **4-gram coverage, bucketed by time, settles it.** Word 4-grams are
   rare enough that a match means the speech is genuinely present. Sliding a
   60-second window across the caption and asking what fraction of its 4-grams
   appear anywhere in `raw.md` produces a coverage strip that localises loss
@@ -1362,17 +1362,16 @@ is reported `inconclusive` rather than flagged, and a dead run must reach 10
 minutes. Result on the corpus: 59 clean, 5 inconclusive, 3 flagged (ep00, ep26,
 ep48), no false positives.
 
-**Two lessons, and the second is the expensive one.** First, `fetch_captions`
+**Two lessons.** First, `fetch_captions`
 re-downloaded every `.vtt` on every call; a throttled fetch returns `None`, every
 caller reads that as "no captions", and the episode reports clean having never
-been examined. Now cached. Second, and this is the one worth internalising:
-1.21 established that a verdict with nowhere to live is a recurring tax, and the
-ledger fixed that. ep48 shows the other edge of the same tool. **A ledger entry
-is as permanent as it is convenient, so a wrong one is strictly worse than no
-entry at all** -- it converts an open question into a settled answer and stops
-anyone looking again. The ep48 waiver was written from the transcript alone, for
-a claim only the audio could settle. Suppress on evidence from outside the
-artifact under review, or do not suppress.
+been examined. Now cached. Second, the expensive one. 1.21 established that a verdict with nowhere to live is a
+recurring tax, and the ledger fixed that. ep48 shows the same tool cutting the other
+way. **A ledger entry is as permanent as it is convenient, so a wrong one does more
+harm than no entry at all.** It turns an open question into a settled answer, and then
+nobody checks again. I wrote the ep48 waiver from the transcript alone, to settle a
+claim only the audio could settle. Suppress an issue on evidence from outside the file
+being reviewed, or leave it flagged.
 
 ### 1.26: Restoring four episodes, and when a speaker label is worse than none
 
@@ -1384,7 +1383,7 @@ artifact under review, or do not suppress.
   to its true audio start by head-phrase matching against the whole caption. Run
   it *first*, every time. It is what showed that ep48's "missing" finale was not
   missing at all -- it was sitting in `raw.md` displaced by 2,384s -- and that
-  ep26's blocks were not merely shifted but out of order.
+  ep26's blocks were out of order, and not simply shifted.
 - **Splice, don't redo.** `scripts/splice_gap.py` keeps the verified head and
   tail verbatim and replaces only the damaged middle. ep48 kept 349 of its
   original blocks, ep00 kept 45 plus its outro, ep26 kept 93. Everything kept
@@ -1413,10 +1412,9 @@ reply inside a single turn (*"...bersama saya dan saudara Rafizi Ramli.
 Waalaikumsalam Salam sejahtera Esok demo"*). Mapping that cluster to a name would
 have asserted that Rafizi said things the host said, across a three-hour episode.
 The `Speaker N` labels were stripped instead, restoring the unlabelled form the
-file already had. **A confident wrong label is worse than an honest absent one**:
-absent labels advertise the gap, wrong ones get trusted, quoted, and propagated
-into `interview*.md`. This is the same principle as 1.25's wrong waiver, one
-layer down.
+file already had. **A confident wrong label does more harm than an absent one.** An absent
+label advertises the gap. A wrong one gets trusted, quoted, and carried into
+`interview*.md`. That is 1.25's wrong waiver again, one layer down.
 
 **Known limitation of restored stretches.** Local ASR's turns are far coarser
 than Gemini's -- ep26's new region averages 3,088 chars per turn against 227 in
