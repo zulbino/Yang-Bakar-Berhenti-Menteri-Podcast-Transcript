@@ -299,7 +299,7 @@ def _generate_with_continuation(client, config, initial_parts):
             if len(full_text) <= before:
                 raise RuntimeError(
                     f"{model} continuation round {round_index} added no new content "
-                    f"(re-emitted {dropped} covered turn(s)) -- see ARCHITECTURE.md 1.22")
+                    f"(re-emitted {dropped} covered turn(s)) -- see ENGINEERING_LOG.md 1.22")
         if _finish_reason_name(resp) != "MAX_TOKENS":
             return full_text
         contents.append(types.Content(role="model", parts=[types.Part(text=text)]))
@@ -329,7 +329,7 @@ def _turn_key(turn):
 
 def _drop_reemitted_prefix(full_text, chunk):
     """Strip a continuation chunk's leading turns that repeat ground already
-    collected (ARCHITECTURE.md 1.22). Only the prefix is stripped: real speech
+    collected (ENGINEERING_LOG.md 1.22). Only the prefix is stripped: real speech
     does repeat, so a later restatement inside the chunk is left for the
     duplicate-block tooling to judge rather than silently removed here."""
     turns = _split_turns(full_text)

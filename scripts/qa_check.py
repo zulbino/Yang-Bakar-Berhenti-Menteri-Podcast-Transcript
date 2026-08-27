@@ -24,19 +24,19 @@ Checks per episode:
     folder yet (never run through the pipeline at all)
   - raw.md's own printed timestamps never drop backward by more than 30s
     (catches hard resets, block reorders, and digit typos -- free, no caption
-    or API needed, see ARCHITECTURE.md 1.16)
+    or API needed, see ENGINEERING_LOG.md 1.16)
   - raw.md's mid-file timestamp gaps are explained by the amount of text at each
     gap's start (catches content silently dropped from the MIDDLE of an episode,
-    which the end-of-file coverage check above cannot see, see ARCHITECTURE.md 1.17)
+    which the end-of-file coverage check above cannot see, see ENGINEERING_LOG.md 1.17)
   - raw.md's timestamps don't land on round :00 seconds far more often than
     chance (catches a raw.md that is a fabricated summary outline rather than a
-    transcript, see ARCHITECTURE.md 1.18)
+    transcript, see ENGINEERING_LOG.md 1.18)
 
 Adjudicated verdicts live in data/qa_reviewed.json, keyed by episode slug and
 signature name. This file is regenerated from scratch on every run, so its
 checkboxes cannot hold review state -- without that ledger, every session
 re-investigates the same already-resolved episodes and the flagged count never
-moves. See ARCHITECTURE.md 1.21.
+moves. See ENGINEERING_LOG.md 1.21.
 
 Usage:
   python scripts/qa_check.py            # writes QA_CHECKLIST.md
@@ -170,7 +170,7 @@ LEADING_TIMESTAMP_RE = re.compile(r"^\[(?:\d+:)?\d+:\d+\]\s*")
 MODEL_RE = re.compile(r"^model:\s*(\S+)", re.M)
 
 # Free, no-API detector for the timestamp corruption bug catalog in
-# ARCHITECTURE.md 1.16: walk each block's own leading timestamp in file order
+# ENGINEERING_LOG.md 1.16: walk each block's own leading timestamp in file order
 # and flag a drop of more than this many seconds below the running maximum
 # seen so far. Corpus-wide, this alone found every hard-reset/reorder bug the
 # caption-based checks already knew about (ep32) PLUS two neither had
@@ -189,7 +189,7 @@ BACKWARD_JUMP_THRESHOLD_SECONDS = 30
 # A naive "big gap between consecutive timestamps" check is useless here: it
 # over-flags 63 of 67 episodes, because raw.md merges a long monologue into one
 # timestamped block, so a genuine 6-minute monologue looks like a 6-minute gap
-# (the coarse-VAD-merge artifact, ARCHITECTURE.md 1.11). Scoring each gap against
+# (the coarse-VAD-merge artifact, ENGINEERING_LOG.md 1.11). Scoring each gap against
 # how much text actually sits at its start fixes that -- Malay speech in this
 # corpus runs roughly 13 chars/sec, so a 982s gap opening from a 60-char one-liner
 # is missing content while a 2568s gap opening from a 33,000-char wall of text is
@@ -388,7 +388,7 @@ def check_episode(ep_dir):
             "backward-jump",
             f"raw.md timestamp drops backward ({len(jumps)} jump(s), first from "
             f"{prev_max}s to {ts}s at {sample!r}) -- likely a hard reset, block "
-            "reorder, or digit typo, see ARCHITECTURE.md 1.16",
+            "reorder, or digit typo, see ENGINEERING_LOG.md 1.16",
         ))
 
     if duration:
@@ -402,7 +402,7 @@ def check_episode(ep_dir):
                 f"raw.md is missing content from the middle ({lost}s unexplained across "
                 f"{len(holes)} gap(s), {pct:.0f}% of the episode; worst is {worst}s at "
                 f"{ts}s -> {next_ts}s) -- gaps too large for the text at their start, "
-                "see ARCHITECTURE.md 1.17",
+                "see ENGINEERING_LOG.md 1.17",
             ))
 
     round_pct, n_stamps = round_timestamp_pct(body)
@@ -411,7 +411,7 @@ def check_episode(ep_dir):
             "round-timestamps",
             f"raw.md has {round_pct:.0f}% of its {n_stamps} timestamps on round :00 "
             "seconds -- timing was invented, not measured, so this file is likely a "
-            "fabricated summary outline rather than a transcript, see ARCHITECTURE.md 1.18",
+            "fabricated summary outline rather than a transcript, see ENGINEERING_LOG.md 1.18",
         ))
 
     blocks = body.split("\n\n")
@@ -531,7 +531,7 @@ def main():
                 f"raw.md has no counterpart for {coverage['worst_dead_run_seconds']}s of "
                 f"captioned speech ({spans}; episode baseline "
                 f"{coverage['baseline']:.0%}) -- content absent from the transcript "
-                f"rather than merely mistimed, see ARCHITECTURE.md 1.25",
+                f"rather than merely mistimed, see ENGINEERING_LOG.md 1.25",
             ))
             results[slug] = (issues, models)
 

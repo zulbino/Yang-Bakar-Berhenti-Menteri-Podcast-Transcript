@@ -8,7 +8,7 @@ publish_date: '2026-02-13'
 duration_seconds: 11629
 duration: 3h 13m
 view_count: 298786
-model: speechmatics-enhanced+gemini-3.7-flash (tail re-transcribed, see ARCHITECTURE.md 1.18)
+model: speechmatics-enhanced+gemini-3.7-flash (tail re-transcribed, see ENGINEERING_LOG.md 1.18)
 note: Raw, lightly-cleaned transcript straight from audio. See interview.md for the
   polished newspaper-style rewrite.
 ---

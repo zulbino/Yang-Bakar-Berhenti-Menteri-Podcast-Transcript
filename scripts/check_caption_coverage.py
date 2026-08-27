@@ -1,6 +1,6 @@
 """Cross-check raw.md against YouTube's captions for content that is simply absent.
 
-The content-loss check in qa_check.py (ARCHITECTURE.md 1.17) measures gaps
+The content-loss check in qa_check.py (ENGINEERING_LOG.md 1.17) measures gaps
 *between* consecutive timestamps, so it only sees loss that leaves a hole in the
 timeline. Loss backfilled by duplicated or displaced blocks -- or, in ep48's
 case, papered over with `[silence]` markers -- presents as a populated timeline

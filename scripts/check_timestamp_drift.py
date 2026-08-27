@@ -55,7 +55,7 @@ BLOCK_TS_RE = re.compile(r"^\[((?:\d+:)?\d+:\d+)\]")
 # measured the offset from the block's start to its midpoint -- pure block
 # length, not mistiming. raw.md blocks run to 5,000+ words (20+ minutes of
 # speech), which produced 325-1083s of phantom "drift" on nine episodes, always
-# positive and always on the longest block in the sample. See ARCHITECTURE.md 1.23.
+# positive and always on the longest block in the sample. See ENGINEERING_LOG.md 1.23.
 BLOCK_PREFIX_RE = re.compile(r"^\[(?:\d+:)?\d+:\d+\]\s*(?:[^:\n]{1,40}:)?\s*")
 
 
