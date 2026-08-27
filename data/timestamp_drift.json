@@ -2127,8 +2127,8 @@
   },
   "2026-05-15-ep48-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi": {
     "status": "ok",
-    "samples_matched": 9,
-    "samples_not_found_nearby": 3,
+    "samples_matched": 12,
+    "samples_not_found_nearby": 0,
     "samples_total": 12,
     "max_drift_seconds": 20,
     "flagged": false,
@@ -2139,44 +2139,59 @@
         "drift": 0
       },
       {
-        "claimed": 714,
-        "actual": 704,
-        "drift": -10
-      },
-      {
-        "claimed": 1092,
-        "actual": 1072,
+        "claimed": 781,
+        "actual": 761,
         "drift": -20
       },
       {
-        "claimed": 2117,
-        "actual": 2110,
-        "drift": -7
-      },
-      {
-        "claimed": 2980,
-        "actual": 2962,
-        "drift": -18
-      },
-      {
-        "claimed": 4334,
-        "actual": 4325,
-        "drift": -9
-      },
-      {
-        "claimed": 4932,
-        "actual": 4918,
-        "drift": -14
-      },
-      {
-        "claimed": 5599,
-        "actual": 5584,
+        "claimed": 1506,
+        "actual": 1491,
         "drift": -15
       },
       {
-        "claimed": 8504,
-        "actual": 8488,
-        "drift": -16
+        "claimed": 2196,
+        "actual": 2182,
+        "drift": -14
+      },
+      {
+        "claimed": 3599,
+        "actual": 3589,
+        "drift": -10
+      },
+      {
+        "claimed": 4840,
+        "actual": 4827,
+        "drift": -13
+      },
+      {
+        "claimed": 5419,
+        "actual": 5407,
+        "drift": -12
+      },
+      {
+        "claimed": 6300,
+        "actual": 6287,
+        "drift": -13
+      },
+      {
+        "claimed": 7295,
+        "actual": 7281,
+        "drift": -14
+      },
+      {
+        "claimed": 8487,
+        "actual": 8468,
+        "drift": -19
+      },
+      {
+        "claimed": 8966,
+        "actual": 8956,
+        "drift": -10
+      },
+      {
+        "claimed": 10708,
+        "actual": 10691,
+        "drift": -17
       }
     ]
   },

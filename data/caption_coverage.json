@@ -387,17 +387,12 @@
   },
   "2026-05-15-ep48-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi": {
     "status": "ok",
-    "baseline": 0.276,
-    "mean_coverage": 0.243,
+    "baseline": 0.292,
+    "mean_coverage": 0.291,
     "caption_end": 11980,
-    "dead_runs": [
-      [
-        9000,
-        11100
-      ]
-    ],
-    "worst_dead_run_seconds": 2100,
-    "flagged": true
+    "dead_runs": [],
+    "worst_dead_run_seconds": 0,
+    "flagged": false
   },
   "2026-05-22-ep49-seminggu-selepas-bersama-ph-bn-tidak-lagi-bersama-ybm-49": {
     "status": "ok",
