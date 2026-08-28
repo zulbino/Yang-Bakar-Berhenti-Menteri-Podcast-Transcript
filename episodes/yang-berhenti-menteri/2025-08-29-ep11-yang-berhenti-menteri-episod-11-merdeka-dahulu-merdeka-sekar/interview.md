@@ -403,11 +403,11 @@ Because I was on the outside — I was working in the corporate sector, so I was
 
 **Host:** And everyone was already all wrapped up — the mosquitoes, there was no chance. So suddenly you feel that the last 10 years was not in vain. And it burned all the spirits. I've never felt anything like that since. Okay, so taking that sense, that emotional resonance that YB Rafizi just explained earlier — if you had to sum up Merdeka as an emotional vibe untuk orang-orang muda yang mungkin tak pernah melalui apa-apa yang kita pernah melalui in the past 10-20 years, apakah maksud Merdeka kepada kedua-dua anda?
 
-**Ikhbal:** Merdeka, I think ultimately, dia bebas — itu satu bahagian. Tetapi dia juga, kita ada keupayaan untuk menentukan hala tuju kita.
+**Iqbal:** Merdeka, I think ultimately, dia bebas — itu satu bahagian. Tetapi dia juga, kita ada keupayaan untuk menentukan hala tuju kita.
 
 **Host:** Pressure tu?
 
-**Ikhbal:** Pressure, pressure. And I think itu yang — bagi saya, macam kadang-kadang bila tengok orang muda... in fact kan, kita dah dapat undi 18, for better or for worse. But I think benda tu pun inevitable. Kita boleh persoal ke apa, inevitable ke tak. Tapi yang — tak kisah pun ada yang mengundi PAS, tu satu hal lah. Tapi kalau budak-budak ni langsung tak kisah dan tak ambil tahu — sebab dulu, nak dapat undi 18 pun susah. Orang zaman Merdeka dulu, the whole point adalah untuk kita tentukan hala tuju kita kan. So for me, itu satu benda — bebas, tapi kalau bebas sahaja kita tak dapat tentukan hala tuju kita, tak akan ada makna lah.
+**Iqbal:** Pressure, pressure. And I think itu yang — bagi saya, macam kadang-kadang bila tengok orang muda... in fact kan, kita dah dapat undi 18, for better or for worse. But I think benda tu pun inevitable. Kita boleh persoal ke apa, inevitable ke tak. Tapi yang — tak kisah pun ada yang mengundi PAS, tu satu hal lah. Tapi kalau budak-budak ni langsung tak kisah dan tak ambil tahu — sebab dulu, nak dapat undi 18 pun susah. Orang zaman Merdeka dulu, the whole point adalah untuk kita tentukan hala tuju kita kan. So for me, itu satu benda — bebas, tapi kalau bebas sahaja kita tak dapat tentukan hala tuju kita, tak akan ada makna lah.
 
 **Rafizi:** Yelah, I think Merdeka ni is precisely what it is lah, Merdeka.
 
@@ -419,35 +419,35 @@ Kita masih mempunyai api di dalam perut — maksudnya, jika kita perlu berjalan 
 
 **Rafizi:** Saya rasa itu satu poin untuk berakhir dengan baik. Selamat Hari Merdeka.
 
-**Host:** Ikhbal sangat bersopan hari ini.
+**Host:** Iqbal sangat bersopan hari ini.
 
-**Ikhbal:** Kena lah, kena lah — lepas habis kena kecam, dah trauma dah.
+**Iqbal:** Kena lah, kena lah — lepas habis kena kecam, dah trauma dah.
 
 **Host:** Trauma.
 
-**Ikhbal:** Kena jatuh dari kesilapan. Saya merdekakan diri daripada komen-komen negatif.
+**Iqbal:** Kena jatuh dari kesilapan. Saya merdekakan diri daripada komen-komen negatif.
 
 **Host:** Terima kasih kepada semua penonton yang bersama kami sepanjang 1 jam 40 minit ini, dan Selamat Hari Merdeka.
 
-**Ikhbal:** Hari ini aku rasa viewership went down.
+**Iqbal:** Hari ini aku rasa viewership went down.
 
 **Host:** Hahaha.
 
-**Ikhbal:** Janganlah panggil aku.
+**Iqbal:** Janganlah panggil aku.
 
 **Host:** Dah sebab orang bosan tu kalau tak bakar-bakar ni.
 
-**Ikhbal:** Oh.
+**Iqbal:** Oh.
 
 **Host:** Dia nak cuba bakar je.
 
-**Ikhbal:** Bakar lagi, bakar lagi.
+**Iqbal:** Bakar lagi, bakar lagi.
 
 **Host:** Itu kena panggil orang lain.
 
 **Rafizi:** It was weird because you had people — the feedback asking for, can you ask for more vision questions, like long-term vision-building questions.
 
-**Ikhbal:** Oh ya ke?
+**Iqbal:** Oh ya ke?
 
 **Host:** Oh okay, okay. So ada?
 

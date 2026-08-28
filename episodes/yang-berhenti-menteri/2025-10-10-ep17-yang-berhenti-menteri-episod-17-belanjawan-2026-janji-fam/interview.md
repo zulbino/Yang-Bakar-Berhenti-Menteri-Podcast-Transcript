@@ -370,8 +370,6 @@ Hmm, kalau tak berhati-hati, maka dia jadi tak menjadilah — maka orang tak dat
 
 **Haziq:** Okay YB, clear. Soalan yang kedua tentang RMK: "Bagaimana Belanjawan Negara 2026 yang baru diumumkan sejajar dengan plan RMK ke-13?" Tanda soalan. Saya dah...
 
-**Haziq:** Okay YB, tepat masa? Tak ada bukan tepat,
-
 **Rafizi:** Saya dah ulas panjang tadi tau. Walaupun saya tak kaitkan dengan RMK13 kan, ada banyak perkara yang menjadi tunjang RMK13 itu. Tapi yang saya ingat mungkin langsung tidak disebutlah yang ada kesan besar soal struktur ekonomi ini ialah tentang pekerja asing. RMK13 menetapkan kita akan kurangkan jumlah pekerja asing kita daripada 15% kepada 10%, kemudian 5 tahun lagi kepada 5%. Tidak ada disebut langsung lah. Sama juga dari segi mungkin... ada perkara-perkara pokok yang saya sebut tadi lah.
 
 So kalau contohnya, semasa kita buat kajian separuh penggal RMK12 — yang itu dokumen pertama yang saya uruskan, 2023 kan — memanglah semua orang tak suka kat saya, tapi memang saya jelaskan bahawa terasnya ialah kita kena merombak sistem subsidi kita, 2023. Sebab itu dalam ucapan Belanjawan lepas, dan masa saya ada, sehinggalah saya keluar, cerita subsidi ini bergaduh lah, kena buat. Dan cuma cara nak buat itu memang bergaduh lah kan. Sebab itu sekarang ini diesel, petrol dah berjalan lah kan.
