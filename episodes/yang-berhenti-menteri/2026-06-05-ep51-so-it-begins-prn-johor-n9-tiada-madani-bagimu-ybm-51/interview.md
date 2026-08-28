@@ -10,7 +10,7 @@ view_count: 159299
 hosts:
 - Rafizi
 - Haziq
-- Wan Afiq
+- Farhan (Pa'an)
 guests: []
 topics:
 - JSSEZ (Johor-Singapore Special Economic Zone) - sejarah dan penubuhan
