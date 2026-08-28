@@ -116,8 +116,25 @@ def parse_blocks(raw_text, duration):
     return blocks
 
 
-def cached_diarization(video_id, audio, sr, n_speakers):
-    path = ROOT / "data" / f"diar_{video_id}_n{n_speakers}.json"
+def cached_diarization(video_id, audio, sr, n_speakers, threshold=None):
+    """Diarize by exact speaker count, or by clustering threshold when that collapses.
+
+    THE TWO MODES ARE MUTUALLY EXCLUSIVE, not additive. pyannote ignores
+    clustering.threshold whenever num_speakers is set: it solves for whatever cut height
+    yields exactly that many clusters instead. So passing both silently gives you the
+    count-only behaviour, and a "threshold sweep" done that way measures nothing.
+
+    Measured on ep58, the worst episode in the corpus, against 14 seconds whose speaker
+    was confirmed from video (ENGINEERING_LOG 1.36):
+        num_speakers=3   top cluster 98.4%, and 13 of 13 confirmed-Haziq seconds fall
+                         inside the dominant Rafizi cluster -- total failure
+        threshold=0.55   top cluster 87.8%, 10 of 13 land in a separate 15.3-min cluster
+        threshold=0.45   top cluster 77.0%, but Haziq shatters across three clusters,
+                         which makes him unnameable -- over-splitting is its own failure
+        min_cluster_size no effect at 4, actively worse at 1 (99.8%). Not a useful dial.
+    """
+    tag = f"t{threshold:.2f}".replace(".", "") if threshold else f"n{n_speakers}"
+    path = ROOT / "data" / f"diar_{video_id}_{tag}.json"
     if path.exists():
         return [tuple(x) for x in json.loads(path.read_text())]
     import torch
@@ -125,8 +142,13 @@ def cached_diarization(video_id, audio, sr, n_speakers):
     pipe = Pipeline.from_pretrained("pyannote/speaker-diarization-3.1", token=os.environ["HF_TOKEN"])
     if torch.cuda.is_available():
         pipe.to(torch.device("cuda"))
+    if threshold:
+        params = pipe.parameters(instantiated=True)
+        params["clustering"]["threshold"] = threshold
+        pipe.instantiate(params)
     waveform = torch.from_numpy(audio).float().unsqueeze(0)
-    out = pipe({"waveform": waveform, "sample_rate": sr}, num_speakers=n_speakers)
+    kwargs = {} if threshold else {"num_speakers": n_speakers}
+    out = pipe({"waveform": waveform, "sample_rate": sr}, **kwargs)
     seen, segs = {}, []
     for turn, _, spk in out.exclusive_speaker_diarization.itertracks(yield_label=True):
         seen.setdefault(spk, f"Speaker {len(seen) + 1}")
@@ -265,6 +287,8 @@ def main():
     ep_tag = sys.argv[1]
     probe = "--probe" in sys.argv
     write = "--write" in sys.argv
+    threshold = next((float(a.split("=", 1)[1]) for a in sys.argv
+                      if a.startswith("--threshold=")), None)
 
     ep_dir = find_episode(ep_tag)
     raw_path = ep_dir / "raw.md"
@@ -281,12 +305,13 @@ def main():
         yt_download.download_audio(video_id, ROOT / "audio")
 
     import lib_local_asr, soundfile as sf
-    print(f"{ep_tag}: {duration/60:.0f} min, roster says {n_spk} speakers", flush=True)
+    mode = f"clustering.threshold={threshold}" if threshold else f"num_speakers={n_spk}"
+    print(f"{ep_tag}: {duration/60:.0f} min, roster says {n_spk} speakers, {mode}", flush=True)
     wav = lib_local_asr._decode_to_wav(audio_file)
     try:
         audio, sr = sf.read(str(wav), dtype="float32")
         t0 = time.time()
-        segs = cached_diarization(video_id, audio, sr, n_spk)
+        segs = cached_diarization(video_id, audio, sr, n_spk, threshold)
         clusters = sorted({s[2] for s in segs})
         raw_turns = len(segs)
         segs, dropped = smooth_islands(segs)
@@ -297,9 +322,11 @@ def main():
 
         share = collapsed_share(segs)
         if share > MAX_COLLAPSED_SHARE:
-            print(f"  ABORT: top cluster still holds {share*100:.1f}% of the audio even "
-                  f"with num_speakers={n_spk} -- the collapse is not fixed, so re-cutting "
-                  "would only rename real labels to anonymous ones. Left untouched.",
+            print(f"  ABORT: top cluster still holds {share*100:.1f}% of the audio with "
+                  f"{mode} -- the collapse is not fixed, so re-cutting would only rename "
+                  "real labels to anonymous ones. Left untouched."
+                  + ("" if threshold else " Try --threshold=0.55, which drops the count "
+                     "hint; a count hint makes pyannote ignore the threshold entirely."),
                   flush=True)
             return
 

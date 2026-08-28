@@ -1952,6 +1952,43 @@ ep51.
 those 944 fixes most of these vocatives read as `baby`, `WB` or `Oibi` and matched
 nothing.
 
+### 1.36: The clustering threshold works, but only with the speaker count removed
+
+- **2026-08-28.** Twelve episodes still held 96-99.5% of their speech in one cluster even
+  when told the exact speaker count, so `reattribute_blocks.py`'s guard 1 refused all of
+  them. `num_speakers` had been the only dial tried. `clustering.threshold` fixes ep58,
+  the worst of them -- but only when the count hint is dropped.
+
+**The two settings are mutually exclusive, not additive**, and this is the whole reason
+the dial looked dead. pyannote ignores `clustering.threshold` whenever `num_speakers` is
+set: it solves for whatever cut height yields exactly that many clusters instead. Passing
+both silently gives count-only behaviour, so a threshold sweep run that way measures
+nothing at all.
+
+**Measured against video, not against plausibility.** The frames pass (1.35) had already
+established the speaker at 14 seconds inside ep58's two collapsed blocks -- 13 Haziq, 1
+Rafizi -- which turned the re-cut into something testable for the first time:
+
+| config | clusters | top cluster | confirmed-Haziq seconds landing outside the dominant cluster |
+|---|---|---|---|
+| `num_speakers=3` (shipped) | 3 | 98.4% | **0 of 13** |
+| `+ min_cluster_size=4` | 3 | 98.5% | not run, no separation to test |
+| `+ min_cluster_size=1` | 3 | 99.8% | not run, worse |
+| **`threshold=0.55`, no hint** | 5 | 87.8% | **10 of 13**, all in one 15.3-min cluster |
+| `threshold=0.45`, no hint | 14 | 77.0% | 8 of 13, but split across THREE clusters |
+
+The confirmed-Rafizi second lands in the dominant cluster under every config, so the
+threshold configs gain recall without losing that precision check.
+
+**Over-splitting is its own failure mode, not a milder version of success.** `0.45` scores
+a lower collapse share than `0.55` and is worse: Haziq shatters across three clusters, and
+a speaker spread thin across many clusters cannot be named by voiceprint or by word
+overlap. `min_cluster_size` is not a useful dial here at all -- no effect at 4, actively
+worse at 1, which shatters the episode into 351 clusters.
+
+**`0.55` still over-splits three people into five clusters**, and the two spare clusters
+carry mid-sentence fragments of Rafizi. Naming has to resolve those before any write.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider
