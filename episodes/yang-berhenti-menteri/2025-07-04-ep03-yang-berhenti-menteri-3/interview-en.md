@@ -9,10 +9,9 @@ duration: 1h 57m
 view_count: 71607
 hosts:
 - Rafizi
-- Host
+- Haziq
 guests:
 - Faizal Rahman
-- Interviewer
 topics:
 - Judicial independence and appointments
 - Rancangan Malaysia ke-13 (RMK-13)

@@ -9,9 +9,8 @@ duration: 2h 27m
 view_count: 36756
 hosts:
 - Rafizi
-- Host
-- Co-host
-guests:
+- Haziq
+guests: []
 topics:
 - Rafizi's batik dress habit
 - Minister's aide's 'fell asleep in toilet' social media controversy
@@ -39,33 +38,32 @@ topics:
 - Cheap/counterfeit Chinese e-commerce imports harming local businesses
 - Reporting misconduct/whistleblowing in government integrity units
 - Sustaining education reform across changing governments
-summary: 'Episode 19 of "Podcast Yang Berhenti Menteri" features Rafizi with
-  his regular co-hosts/moderators running through several recurring segments. In the
-  "Beria" (viral/attention-seeking) segment, they discuss a Fadhlina aide''s cringeworthy
-  birthday post claiming the minister "fell asleep in the toilet" from exhaustion
-  (Rafizi shares his own toilet-napping story from his UK audit-firm days), Najib''s
-  "self-returned bribery money" defence, a TikTok "influencer" charging RM40,000 for
-  restaurant reviews, children damaging a Deepavali kolam (blamed on parental negligence),
-  and Selangor''s plan to introduce pickleball in schools (Rafizi questions the cost-benefit
-  versus established sports). The "Standing Order" segment reviews parliamentary questions
-  on the RMK-13 education reform (lowering school-starting age to 6, universal free
-  preschool) and the PADU data system''s role beyond RON95 subsidy targeting. The
-  lengthy "Hidup Keras" segment tackles several PAS controversies: Takiyuddin''s inflammatory
-  Masjid Rusila/Memali allegations against APMM; the Sabah High Court ruling on 40%
-  revenue return and its complex legal, fiscal and federal-state implications ahead
-  of the Sabah state election; Hadi Awang''s Dinar-vs-USD proposal and PAS''s economic
-  management shortcomings; PM Anwar''s public rebuke of developers over school provision
-  in mega housing projects (which Rafizi argues misunderstands planning approval processes);
-  Nik Mohamad Abduh/Marzuk Syahri''s racially charged Palestine-Malaysia comparison;
-  and a PAS MP''s ECRL-vs-Penang-LRT funding complaint (countered with ECRL''s RM84
-  billion cost). World news covers Singapore''s backlash against PAS leaders endorsing
-  Workers'' Party Malay candidates, the Louvre jewellery heist as a symbol of French
-  decline, and Japan''s new right-leaning, anti-immigration female PM. A rapid-fire
-  segment covers "rainbow chip" semiconductor technology and skin-cell-to-egg fertility
-  breakthroughs. Listener questions close the show, covering Liverpool''s poor form,
-  cheap/counterfeit Chinese e-commerce imports hurting local businesses, how to effectively
-  report misconduct to integrity units, and how to sustain education reform across
-  changing governments.'
+summary: 'Episode 19 of "Podcast Yang Berhenti Menteri" features Rafizi with his regular
+  co-hosts/moderators running through several recurring segments. In the "Beria" (viral/attention-seeking)
+  segment, they discuss a Fadhlina aide''s cringeworthy birthday post claiming the
+  minister "fell asleep in the toilet" from exhaustion (Rafizi shares his own toilet-napping
+  story from his UK audit-firm days), Najib''s "self-returned bribery money" defence,
+  a TikTok "influencer" charging RM40,000 for restaurant reviews, children damaging
+  a Deepavali kolam (blamed on parental negligence), and Selangor''s plan to introduce
+  pickleball in schools (Rafizi questions the cost-benefit versus established sports).
+  The "Standing Order" segment reviews parliamentary questions on the RMK-13 education
+  reform (lowering school-starting age to 6, universal free preschool) and the PADU
+  data system''s role beyond RON95 subsidy targeting. The lengthy "Hidup Keras" segment
+  tackles several PAS controversies: Takiyuddin''s inflammatory Masjid Rusila/Memali
+  allegations against APMM; the Sabah High Court ruling on 40% revenue return and
+  its complex legal, fiscal and federal-state implications ahead of the Sabah state
+  election; Hadi Awang''s Dinar-vs-USD proposal and PAS''s economic management shortcomings;
+  PM Anwar''s public rebuke of developers over school provision in mega housing projects
+  (which Rafizi argues misunderstands planning approval processes); Nik Mohamad Abduh/Marzuk
+  Syahri''s racially charged Palestine-Malaysia comparison; and a PAS MP''s ECRL-vs-Penang-LRT
+  funding complaint (countered with ECRL''s RM84 billion cost). World news covers
+  Singapore''s backlash against PAS leaders endorsing Workers'' Party Malay candidates,
+  the Louvre jewellery heist as a symbol of French decline, and Japan''s new right-leaning,
+  anti-immigration female PM. A rapid-fire segment covers "rainbow chip" semiconductor
+  technology and skin-cell-to-egg fertility breakthroughs. Listener questions close
+  the show, covering Liverpool''s poor form, cheap/counterfeit Chinese e-commerce
+  imports hurting local businesses, how to effectively report misconduct to integrity
+  units, and how to sustain education reform across changing governments.'
 language: ms
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
@@ -296,7 +294,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Ya. Dulu dia saya ingat aktivis pemuda PAS lah. Ni tahun 2012 saya ingat kan. Masa tu saya... dia sangat popular dengan PAS sebab saya diperlukan untuk memberi syarahan. Sebab kalau syarahan itu PAS, isunya sama sahaja. Tapi bila PKR datang, kita ada banyak isu — isu NFC, isu skandal, semuanya. Jadi orang PAS suka. Jadi masa tu, dia masih muda, saya ingat. Dia pun susah payah nak jemput saya. Dia mengacau aku untuk hadir ke satu forum yang dia dengan kawan dia buat — saya ingat dekat mana ni, dekat KL lah — lagi saya pergilah. Saya tertinggal satu file folder mahal saya yang ada orang pernah bagi, folder Montblanc. Ada dengan dia. Bagi balik folder Montblanc aku. Bagi balik. Selepas 13 tahun ingat lagi. Baik.
 
-**Host:** YB, ya, mengkritik Tan Sri Tuan Guru Haji Abdul Hadi kerana menukar penggunaan Dinar menggantikan USD. Tetapi hujah balas pun datang — oh, ini pernah dibangkitkan dahulu, Mahathir pernah bincangkan. Tapi ini lain, katanya, ini mencari kambing hitam. Itulah hujah daripada rakan sejawat kita, YB.
+**Haziq:** YB, ya, mengkritik Tan Sri Tuan Guru Haji Abdul Hadi kerana menukar penggunaan Dinar menggantikan USD. Tetapi hujah balas pun datang — oh, ini pernah dibangkitkan dahulu, Mahathir pernah bincangkan. Tapi ini lain, katanya, ini mencari kambing hitam. Itulah hujah daripada rakan sejawat kita, YB.
 
 **Rafizi:** Yalah, bila dia tak boleh menjawab, maka dia serang peribadi lah. Jadi, dan hujah ni selalunya banyak datang sama ada daripada walaun ataupun wajib, daripada tahun 2018 lagi kan — yang akan kata kau dah tak relevan, padam muka kau. Sebenarnya saya ingat tahun 2018 dulu, bila saya mengambil keputusan untuk tarik diri daripada politik dan sebagainya, semua kan hujah yang sama. Cari pelampung lah, sekarang ni dah tak relevan, kena tendang dalam parti, padan muka dan sebagainya. Mereka yang memaki hamun ni tidak pula, bila PKR, Pakatan Harapan berjaya membentuk kerajaan tahun 2022 kan, tidak pula dia datang kata "alamak, dia ada lagi." Selepas dia orang dah buat, dosa memaki hamun berkarung, 3-4 tahun tiba-tiba saya ada lagi kan, dan Alhamdulillah berada di kedudukan yang lebih baik pun. Jadi hujah-hujah seperti ini — kalau mereka tidak mempunyai modal hujah, mereka akan menyerang secara peribadi. Atau, saya juga fikir ia bagus, maknanya perspektif politik mereka 100% daripada kefahaman parti mereka. Contohnya, UMNO, atau dalam PAS misalnya — sebab itu, mereka terpaksa mencium tangan orang atasan 100%, dan sukar bagi mereka untuk bercakap secara bebas, apatah lagi mengkritik pimpinan mereka sendiri. Kerana apabila mereka tidak lagi berada dalam struktur atau kepimpinan parti, contohnya, mereka tidak ada tempat. Dan berada di dalam struktur kepimpinan parti dengan harapan bila ada jawatan dalam parti, maka kalau parti mereka itu berkuasa, mereka akan dapat habuan. Jawatan dia ni, saya ingat, diangkat sebagai pemikir utama PAS — rendah sikit daripada Baco yang pakar ekonomi tu lah. Kadang sebab itu serangan mereka macam itulah — pelampung, tak relevan, pesu gagal, semua kan. Sebenarnya rakyat boleh melihat dan menghakimi sendiri.
 
@@ -312,13 +310,13 @@ Jadi, akhirnya, saya perlu memainkan peranan saya untuk membolehkan rakyat membu
 
 Yang bagusnya, saya ingat hanya walaun yang betul-betul percaya kepada perkara ini lah. Rakyat akan tetap boleh membandingkan kerana kita bolehlah — kita dah cuba sekali, dah pernah merasa, ya, 33 bulan. Dan masa itu, saya ingat, antara yang paling banyak duduk dalam gua — yelah, penyokong utama PAS lah, termasuklah dia ni kot — sebab dia tak boleh menjawab bagi pihak menteri-menteri PAS. Yang saya ingat beberapa perkara: Tuan Ibrahim Tuan Man, menteri yang bertanggungjawab kepada alam sekitar, bila ditanya dalam parlimen, jawapannya perubahan iklim itu tidak terpakai kepada kita, jadi kita tidak perlu bimbang. Jadi kita pernah ada pengalaman itu, dan nasihat saya kepada PAS, rakyat Malaysia — kalau ditakdirkan PAS menjadi kerajaan satu hari nanti, kalau selepas PRU16 ke jadi kerajaan — adakah PAS telah menyediakan pemimpin-pemimpin mereka selama dua tahun untuk mampu mengendalikan isu-isu rumit yang saya sebutkan tadi? Doktrin dan budaya dalam PAS menyatakan bahawa pemimpin sayap kanan yang berpendidikan agama tidak perlu tahu mengenai pentadbiran kerana kita boleh arah orang yang akan cium tangan kita. Itulah yang akhirnya jadi macam Sanusi di Kedah — saya baca je, tak boleh, menteri mesti buat keputusan, kalau menteri baca sahaja, rosak negara ini.
 
-**Host:** Tapi penggunaan Dinar ganti USD, itulah idea dia.
+**Haziq:** Tapi penggunaan Dinar ganti USD, itulah idea dia.
 
 **Rafizi:** Ialah Dinar ganti USD, contohnya kan. Cantik untuk didengari, tetapi kurang praktikal buat masa sekarang. Kalau tidak, negara-negara seperti Rusia dan BRICS yang lebih berkemampuan secara ekonomi, mereka dah boleh menggunakan mata wang sendiri lah. Sebab itu, langkah yang kita perlu ambil itu mesti lebih pragmatik dan realistik. Contohnya, tulang belakang sistem mata wang dunia ini adalah bersandarkan dolar. Bila saya sebut tulang belakang itu, bukan semata-mata soal dolar itu sahaja — keseluruhan pindahan wang adalah berasaskan dolar, sistem penjelasan (clearing system) juga berasaskan dolar. Kerana kalau kau mahu mencabar itu, satu-satunya negara yang sebenarnya mempunyai keupayaan ekonomi dan kewangan yang boleh mencabar dolar ialah China. Tetapi China masih berhati-hati dalam keadaan itu kerana mereka tahu tidak mudah untuk membina sistem perbankan antarabangsa yang saling berkaitan — termasuklah semua ini, sistem penjelasan, sistem pemindahan — yang berbeza daripada sistem dolar yang sedia ada.
 
 Sebab itu, langkah pragmatik perlu melalui cara yang sama. Contohnya, jika Malaysia berdagang dengan China, jadi kita tak perlulah menggunakan dolar — transaksi kita sama ada dalam Ringgit ataupun Yuan. Kalau Malaysia dan Arab Saudi, kalau kita boleh yakin, kita boleh gunakan yang mana-mana sahaja, sama ada Ringgit ataupun Riyal, contohnya kan? Jadi langkah itu lebih pragmatik dan realistik berbanding retorik politik "mari kita guna Dinar, mari kita guna itu dan ini." Kerana Malaysia adalah negara kecil — kita bukanlah, kita bukan Arab Saudi pun. Jadi yang selalu akan berlaku seperti ini iaitu retorik di Marang, dekat kampung-kampung kat Marang, kedai kopi — itu yang saya kata ni sedap didengar, ada kedai kopi ni, best lah, bunyi hebat semua, bagus lah dia. Tapi ada sebab kenapa perkara itu, hatta Arab Saudi pun, sampai sekarang Cina ke, Jepun ke, masih lagi belum boleh buat.
 
-**Host:** Okey YB, jelas, terima kasih kemaskan idea Tan Sri Abdul Hadi Awang. Kita ke isu seterusnya. Ini berkaitan ucapan PM — kita pukul semua, PAS kita pukul, sekarang PM pula kena pukul lah. Di Residensi Aman Damai. Mungkin saya explain lah, saya takut orang tak faham kan — lagipun kalau yang dengar dekat Spotify tu, dia tak tengok, dia tengah jogging, jadi memang kena explain apa dia. Jadi PMX menegur supaya projek perumahan mega, 3,500 unit ke atas, mesti sediakan sekolah dan tadika. Jadi dia tegur secara langsung dalam ucapannya, dia katakan malah kalau tak buat lagi projek ni, satu lagi blok lain tu kena tangguh sampai syarat ni dipenuhi — malah dia single out pengarah perancang tak siap saya. Jadi cuma WB, soalan saya — tapi saya kena beritahu awal-awal lah, dalam video TikTok, khusus untuk video ini, respons daripada orang ramai agak baik, tiada pendekatan menentang PMX. Tapi apa pandangan YB tentang cara PM campur tangan sebegini? Adakah ada kesan buruk, atau adakah ia satu perkara baik yang kita alu-alukan sekali sekala?
+**Haziq:** Okey YB, jelas, terima kasih kemaskan idea Tan Sri Abdul Hadi Awang. Kita ke isu seterusnya. Ini berkaitan ucapan PM — kita pukul semua, PAS kita pukul, sekarang PM pula kena pukul lah. Di Residensi Aman Damai. Mungkin saya explain lah, saya takut orang tak faham kan — lagipun kalau yang dengar dekat Spotify tu, dia tak tengok, dia tengah jogging, jadi memang kena explain apa dia. Jadi PMX menegur supaya projek perumahan mega, 3,500 unit ke atas, mesti sediakan sekolah dan tadika. Jadi dia tegur secara langsung dalam ucapannya, dia katakan malah kalau tak buat lagi projek ni, satu lagi blok lain tu kena tangguh sampai syarat ni dipenuhi — malah dia single out pengarah perancang tak siap saya. Jadi cuma WB, soalan saya — tapi saya kena beritahu awal-awal lah, dalam video TikTok, khusus untuk video ini, respons daripada orang ramai agak baik, tiada pendekatan menentang PMX. Tapi apa pandangan YB tentang cara PM campur tangan sebegini? Adakah ada kesan buruk, atau adakah ia satu perkara baik yang kita alu-alukan sekali sekala?
 
 **Rafizi:** Kebimbangan saya ialah kalau... saya tak pasti, saya tengok video ni, PM tegur seolah-olah yang tak nak buat ini adalah pemaju, dan seolah-olah tanggungjawab menyediakan sekolah tadika ini semua tanggungjawab pemaju. Apa yang saya tidak pasti ialah sama ada ini gimik politik PM — kerana seperti yang Haziq sebut tadi, dia popular dengan rakyat — atau dia tidak jelas mengenai proses pentadbiran. Kerana sebelum sesuatu projek itu diluluskan, sama ada projek perumahan bertingkat seperti ini ataupun rumah teres, apa proses dia? Kita perlu mendapatkan hak untuk merancang — kebenaran merancang. Kalau tidak, kita tak boleh membinanya. Apakah yang dimaksudkan dengan kebenaran merancang? Tidak boleh setiap majlis bandaran memutuskan sendiri apa yang sesuai untuk dibina di situ — ia adalah kesesuaian keputusan, angkang dia macam mana, apa yang ada, dia merujuk kepada apa. Dia merujuk kepada beberapa perkara lah. Satu, dia merujuk kepada rancangan tempatan. Okey. Dia tak boleh, contohnya, kalau dekat situ sebelum dia nak luluskan, tanah itu contohnya untuk rekreasi, dan dia kena melalui proses kalau dia nak tukar syarat tanah itu — dia kena tengok pula akan ada bantahan kerana tanah ini telah dizonkan untuk perkara A, perkara B, tak boleh pandai-pandai tukar — dan juga standard-standard yang telah ditetapkan oleh Plan Malaysia. Plan Malaysia adalah sebuah agensi di bawah KPKT, di bawah kerajaan persekutuan, yang menetapkan standard perbandaran.
 
@@ -328,31 +326,31 @@ Jadi kalau saya jadi pemaju, sebenarnya kerajaan tidak boleh arahkan suka-suka "
 
 Kalau pihak swasta mahu memudahkan apabila diminta untuk berbuat demikian, mereka boleh melakukannya, tetapi apa yang berlaku akhirnya? Ia akan dimasukkan dalam kos — harga rumah akan menjadi lebih tinggi. Dan walaupun sekolah dibina, ia tidak boleh ada guru — sekolah masih perlu diserahkan kepada kerajaan. Jadi sebab itu, saya tidak faham kenapa PM mahu menunjukkannya begitu hands-on dan tegas, sebagai satu arahan — atau adakah dia tidak yakin dengan proses dirinya sendiri? Saya tidak pasti tentang itu. Atau saya tidak tahu, tapi mungkin realitinya, biasanya kalau pemaju mahu meminta kebenaran merancang daripada PBT, kadang-kadang PBT meminta rundingan — "tolong tambah ini sikit, tambah itu sikit, kalau tidak, saya tak luluskan."
 
-**Host:** YB, atau macam mana?
+**Haziq:** YB, atau macam mana?
 
 **Rafizi:** Tak, dia melalui proses. Jadi dia ada one-stop centre kan. Jadi kebenaran merancang tu dia ada banyak berpuluh jabatan yang terlibat — bomba pun ada, air pun ada, letrik. Dia akan meletakkan syarat-syarat dia lah, dan kalau ditolak dia boleh kayuh lagi. Tapi ada syarat-syarat, contohnya sekolah, kalau disebut sekolah. Tadika tu lain sikit — tadika tu, contohnya, kalau pemaju bina tadika, nak run tadika, kalau adalah KEMAS, akan ada bajet dan KEMAS akan masuk. Dan macam mana kau tahu setiap projek perumahan ada kuota? Kerana pembangunan rumah itu di bawah majlis tempatan, di bawah PBT, jadi semua syarat boleh ditetapkan. Tetapi akhirnya, untuk memberikan kemudahan itu, ia berada di tangan kerajaan — yang mahu memenuhi pembinaan itu masih kerajaan. Jadi, dan prosesnya, contohnya, ia memang berlaku pada peringkat one-stop centre, itulah OSC yang akan menetapkannya. Jadi saya tidak pasti latar belakang dan konteks yang mana, kalau PM meminta untuk keluar bercakap tentang perkara ini kerana pihak swasta — kita sebagai rakyat pun ada hak kita di sisi undang-undang.
 
-**Host:** Ok baik-baik YB, choose violence tak?
+**Haziq:** Ok baik-baik YB, choose violence tak?
 
 **Rafizi:** Tak adalah, tak adalah violence. Saya tak faham, mungkin ada benda perkara yang PM faham atau tahu yang saya tak tahulah. Tapi kalau ikut prosesnya begitulah — contohnya kalau saya seorang pemilik syarikat pemaju, saya akan garu kepala, "macam mana pula ni, macam mana susah lah ni, saya ikut proses, saya dah hantar ikut kebenaran merancang, kebenaran merancang kalau ikut kemudahannya untuk begini begini, dia suruh saya buat, resort dah bagi, resort tu takkan? Janganlah marah saya."
 
-**Host:** Baik, baik, baik. Ni minta buat benda di luar kontrak tu lah kot.
+**Haziq:** Baik, baik, baik. Ni minta buat benda di luar kontrak tu lah kot.
 
 **Rafizi:** Baik.
 
-**Host:** Kita ada lagi — Allah, PAS lagi, WB, WB, tak letih ke membetulkan naratif dia orang ni?
+**Haziq:** Kita ada lagi — Allah, PAS lagi, WB, WB, tak letih ke membetulkan naratif dia orang ni?
 
 **Rafizi:** Itulah yang dipanggil, berdakwah. Ya, berdakwah. Ini pun sama — yang ini pasal Marzuk. Saya juga ada cerita, sekitar 2012, sama macam Nurul Islam.
 
-**Host:** Okey, cerita lah.
+**Haziq:** Okey, cerita lah.
 
 **Rafizi:** Nurul Islam tadi ada berhutang folder, ni pula tak berhutang, tapi ada cerita. Saya ingat kawasan Bachok ni, adalah kerusi yang selalu bertukar tangan pas UMNO. Masa itu Bachok masih UMNO, jadi antara banyak-banyak kerusi di Kelantan, kerusi yang boleh bergoyang sikit ialah Bachok. Sebab itu Bachok selalu tunjukkan banyak wajah baru. Jadi tahun 2012, Ustaz Marzuk masih seorang ustaz muda, dia belum jadi sehebat sekarang. Jadi orang-orang dia selalu duduk sibuk mengacau dan memujuk saya untuk pergi bagi ceramah besar dekat situ. Masa itu zaman NFC, zaman skandal kan, jadi saya ingatlah saya pun turun ke sana, dan masa itu duit pun tak berapa sangat. Dan bila saya pergi ceramah PAS, saya tak pernah ambil duit — orang lain ambil duit sebab PAS akan bayar kalau pergi kan. Sebab itu siapa yang ligat atas ceramah PAS zaman-zaman dulu, memang ligat dengan tin Milo lah — kerana kutipan tin Milo tu.
 
-**Host:** Oh, ke situ lah.
+**Haziq:** Oh, ke situ lah.
 
 **Rafizi:** Memang lah, tin Milo itu kutipannya dibayar ialah untuk membayar penceramah, selain daripada makan dan semua tu — hotel dia, minyak dia, dan duit poket lah. Saya tak tahu budaya tu dah ada lagi ke tidak lah. Tapi sebab itu juga saya selalu dikejar oleh PAS kawasan seluruh Malaysia masa itu, sebab ceramah saya, orang datang dengar sebab ada cerita baru, dan pada masa yang sama saya tak ambil duit. Cuma letihlah aku nak bawa kereta kan masa itu.
 
-**Host:** Bagi drive sendiri kan?
+**Haziq:** Bagi drive sendiri kan?
 
 **Rafizi:** Drive dengan Akmal lah. Nak sampai ke Bachok kena lalu kot Gua Musang kan. Jadi saya pernah lah pergi tolong dia di Bachok. Sebab pada ketika itu orang-orang keliling dia beritahu, Zulk ini mesti membuktikan yang dia berjaya buat ceramah yang besar dan juga bawa penceramah nasional datang, dan itu boleh membantu dia untuk dicalunkan. Wallahualam lah apa dia. Cuma saya kenal dia masa itulah, saya tak pernah sangka lah dia boleh menjadi seresis ini — kan, dia tak ada tanda-tanda resis masa tu.
 
@@ -360,7 +358,7 @@ Okay, jadi selepas 13 tahun, daripada 2012 ke 2025, saya memang terkejutlah bila
 
 Dikatakan naratif dia lah, mungkin daripada orang luar datang, kemudian orang luar itu — macam mana negara Israel itu ditubuhkan?
 
-**Host:** Melalui mandat British, ha?
+**Haziq:** Melalui mandat British, ha?
 
 **Rafizi:** Itu dengan mandat British, ha? Jadi dekat Malaysia ni ada mandat British ke untuk menubuhkan negara China? Tak ada lain. Tidak ada perbandingan langsung. Negara Israel itu tertubuh bukannya sebab pendatang yang disebut ni tiba-tiba menipu orang Palestine — itu ialah kerana kuasa dunia pada masa itu memberikan mandat kepada sebuah negara untuk menjadi Israel, dan perkara itu diluluskan pada peringkat antarabangsa. Sama ada betul atau salah, kita semua tidak bersetuju — memang kita tidak bersetuju, kerana siapa kau, British, untuk memberikan tanah kepada orang lain untuk membuat negara lain? Tapi dia tidak mempunyai paralel dan perbandingan langsung dengan yang berlaku di Malaysia ini. Tapi dia mengambilnya dan dia mengubahnya. Dan inilah yang saya katakan, ia sedap didengar di kedai kopi — berapa ramai orang di kedai kopi, atau yang menonton ini di TikTok, pergi baca asal-usul penubuhan Negara Israel? Kecuali di Malaysia, kita berada di bawah mandat negara-negara lain yang akhirnya memberikan Kelantan kepada orang Cina. Benda yang mustahil berlaku.
 
@@ -372,7 +370,7 @@ Jadi sepatutnya ahli-ahli politik, kalau betul-betul nak tolong orang Melayu, ia
 
 Jadi saya tak tahu sejauh mana lagi Ustaz Marzuk ni nak buat macam ini. Dia mungkinlah boleh menang di Pengkalan Chepa selama-lamanya. Tapi saya ingatlah, selagi dia memainkan isu yang makin perkauman seperti ini, itu pun tidak membantu PAS. Kerana bukan sahaja orang bukan Melayu kecil hati dengan cara dia ni, orang Melayu pun akan rasa ini adalah satu permainan yang berbahaya. Kerana di Kelantan bolehlah begini, tapi di bahagian dan kawasan-kawasan lain di seluruh Malaysia, kita ada masyarakat yang majmuk dan kita saling bergantung, yang vibrant, yang bagus, yang membuka peluang. Dan orang Cina pun tahu majoriti di negara ini ialah Melayu — kalau ekonomi itu makin bertambah baik, limpahan itu akan sampai kepada Melayu juga. Tapi kalau ekonomi itu perlahan, seperti yang berlaku di Kelantan selama mereka memerintah berpuluh tahun, akhirnya yang jadi mangsa Melayu juga — yang terpaksa berhijrah ke negeri-negeri yang kononnya ini Zionis dan Israel.
 
-**Host:** Okey baik YB, kita tinggalkan Marzuk Syahri, kita pergi ke satu lagi. Ada lagi satu daripada PAS juga, cuma ini isu ekonomi lah saya rasa — perebutan peruntukan. Tapi saya rasa dia ada persamaan sikit lah dengan YB. Dia highlightkan tentang peruntukan pengangkutan.
+**Haziq:** Okey baik YB, kita tinggalkan Marzuk Syahri, kita pergi ke satu lagi. Ada lagi satu daripada PAS juga, cuma ini isu ekonomi lah saya rasa — perebutan peruntukan. Tapi saya rasa dia ada persamaan sikit lah dengan YB. Dia highlightkan tentang peruntukan pengangkutan.
 
 **Rafizi:** Itu je lah, tapi yang itu sebab dia nak tikam Pulau Pinang lah. Yang ni saya nak ulas dua perkara boleh lah, sebab saya dah banyak ulas pasal PAS malam ni. Ini satu lagi sebab kenapa saya tidak pernah yakin dengan kemampuan PAS mentadbir — kerana saya tidak melihat growth mindset yang ada daripada PAS. Setiap kali mereka diberikan peluang dan amanah mentadbir negeri, satu-satunya jalan yang mereka ambil ialah viktimologi — "kamilah mangsa. Kenapa kami jadi mangsa? Kami dianaktirikan. Kenapa kami tidak diberi peruntukan?" Dia tak bercakap pun macam mana dia nak menambah hasil, macam mana dia nak membaiki keadaan. Bandingkan kalau macam Kelantan — Kelantan ni, macam saya pernah sebut, ialah sebuah negeri yang kaya: hasil sumber bumi, tempat-tempat untuk pelancongan, budaya. Macam mana negeri seperti Melaka dan juga Negeri Sembilan, yang tidak ada hasil apa-apa kecuali pantai-pantai je yang dia ada kan, macam mana mereka boleh berada lebih maju, berdikari, hasilnya lebih baik? Tak kisahlah di bawah kerajaan UMNO ke, di bawah Pakatan Harapan ke, di bawah PKR, Datuk Seri Amin — peningkatan hasil berbanding 10 tahun dulu tu jauh lagi baik. Jadi macam mana dia boleh buat kan?
 
@@ -380,93 +378,93 @@ Jadi bezanya, saya ingat, satu yang nampak sangat ialah bila mereka menjadi kera
 
 Perkara kedua — dan saya sebenarnya terkejut — kenapa tidak ada pemimpin kerajaan yang menjawab? Saya nak jawab malam ini. Ini apabila dia berkata bahawa kerajaan sepatutnya menyediakan LPT [Lebuhraya Pantai Timur] ke Pantai Timur berbanding LRT di Pulau Pinang — "kasihan rakyat Pantai Timur, mereka ditinggalkan, sedangkan orang Penang dapat semuanya." Sebenarnya, apa projek yang menyebabkan hutang paling besar kepada kerajaan sekarang? Di seluruh Malaysia, apa satu-satunya projek yang menyebabkan hutang ditanggung oleh seluruh Malaysia, untuk anak cucu cicit kita?
 
-**Host:** Hmm?
+**Haziq:** Hmm?
 
 **Rafizi:** Satu projek — kalau yang besar-besar, macam tempatan banjir, yang bila-bila...
 
-**Host:** ECRL?
+**Haziq:** ECRL?
 
 **Rafizi:** ECRL, East Coast Rail Link. Berapa?
 
-**Host:** 84 bilion.
+**Haziq:** 84 bilion.
 
 **Rafizi:** Pergi negeri mana?
 
-**Host:** Pergi negeri dia, Kelantan, Terengganu, lalu Pahang.
+**Haziq:** Pergi negeri dia, Kelantan, Terengganu, lalu Pahang.
 
 **Rafizi:** Jadi kalau saya dari Penang, saya betul-betul terkejut kerana tiada seorang pun daripada Parlimen, daripada Kementerian Pembangunan, yang berkata, "Eh, sebenarnya infrastruktur paling canggih, yang paling besar, untuk menghubungkan Kelantan, Terengganu, Pantai Timur, sampai ke sini, adalah yang paling mahal, dan ia ditanggung oleh hutang rakyat Malaysia, untuk cucu cicit kita datang ke negeri kamu." RM84 bilion. Dan setiap hari, kamu buat mata buta, cuba nak main isu perkauman, duduk sibuk cerita yang pasal Pulau Pinang. Sebab nanti Pulau Pinang akan kata, "eksport daripada negara paling besar ni daripada negeri kami, eksport elektronik daripada negeri kami — kamu eksport apa?" 84 bilion, sampai ke hujung Tumpat pergi. Itu tak campur lagi dengan projek-projek baru menghubungkan Sungai Golok, kemudian jambatan semua, Pelabuhan Tok Bali — kalau kita nak sebut, banyak. Tapi tak payah sebut yang lain lah, sebut 84 bilion yang ECRL. Katakanlah kita bagi sama rata tiga negeri, 84 bahagi tiga, berapa?
 
-**Host:** 28. 28 bilion.
+**Haziq:** 28. 28 bilion.
 
 **Rafizi:** Ha, yang tu dia tak pernah sebut pun. Jadi sebab itulah, kalau ini adalah gaya kepimpinan PAS, saya risau untuk masa depan. Saya okey — saya hampir 50 tahun, dah cukup, lagi sikit, 20 tahun lagi. Tapi kalau macam ini, maknanya sama ada dia tidak faham angka, atau mereka tidak mahu bertindak secara adil, atau model politik mereka adalah untuk menghasut orang Melayu tidak menyukai orang Cina, kerana Penang itu Cina, Kelantan itu Melayu. Di mana lagi kita mahukan itu? Yang tu kita bertanggungjawab ke Kelantan, ke Terengganu, semua ini. Masa itu, tak ada pula dia buat bising. Malah saya yang mempersoalkan dulu, adakah keperluan untuk membelanjakan sampai 70 bilion — bukan 84, ini tahun 2014, 2015, anggarannya 70 bilion — saya yang mempersoalkan adakah keperluan untuk kita membuat ECRL ini. Jadi saya rasa yang itu kita tunggu PAS nak jawab macam mana, ha, ECRL, ECRL.
 
-**Host:** Baik, WB. Habis kekerasan kita minggu ini. Jom kita pergi ke berita dunia.
+**Haziq:** Baik, WB. Habis kekerasan kita minggu ini. Jom kita pergi ke berita dunia.
 
 **Rafizi:** Okey.
 
-**Host:** Segmen berita dunia agak perlahan hari ini.
+**Haziq:** Segmen berita dunia agak perlahan hari ini.
 
 **Rafizi:** Ya, kerana ada banyak sangat benda pasal PAS, saya dah hilang tenaga.
 
-**Host:** YB, yakin ke tak ada lagi isu PAS?
+**Haziq:** YB, yakin ke tak ada lagi isu PAS?
 
 **Rafizi:** Ya, ada lagi ke?
 
-**Host:** Tahniah kepada PAS yang melebarkan sayap ke segmen berita dunia podcast YBM — ada PAS, so minggu ni minggu PAS. Tapi ini berkaitan dengan kempen pilihan raya di Singapura — dah lama, tapi dia bangkit balik dalam parlimen mereka. Ada dua pemimpin PAS yang menyokong calon-calon Melayu dari Workers' Party lah, contohnya yang saya pasal Faisal Manap dan sebagainya. Dan nampaknya kerajaan Singapura agak upset dengan PAS sehingga sekarang. Mari kita bincangkan tentang tanggapan campur tangan, YB — saya nak tanya pandangan YB tentang ini, sebab kat Malaysia pun kita ada pendirian tentang parti politik di luar, contohnya Hamas dan Fatah. So macam mana pendirian Menteri Hal Ehwal Dalam Negeri Singapura ni?
+**Haziq:** Tahniah kepada PAS yang melebarkan sayap ke segmen berita dunia podcast YBM — ada PAS, so minggu ni minggu PAS. Tapi ini berkaitan dengan kempen pilihan raya di Singapura — dah lama, tapi dia bangkit balik dalam parlimen mereka. Ada dua pemimpin PAS yang menyokong calon-calon Melayu dari Workers' Party lah, contohnya yang saya pasal Faisal Manap dan sebagainya. Dan nampaknya kerajaan Singapura agak upset dengan PAS sehingga sekarang. Mari kita bincangkan tentang tanggapan campur tangan, YB — saya nak tanya pandangan YB tentang ini, sebab kat Malaysia pun kita ada pendirian tentang parti politik di luar, contohnya Hamas dan Fatah. So macam mana pendirian Menteri Hal Ehwal Dalam Negeri Singapura ni?
 
 **Rafizi:** Itu nasib dia orang lah, hak masing-masing lah — PAS nak sokong, hak dia; Singapura tak puas hati, hak dia. Cuma, kalau PAS bercita-cita untuk menjadi kerajaan persekutuan, maka mereka kena fahamlah, dia ada protokolnya. Kerana nanti jadi macam ini — yang ini pasal PAS dengan Singapura lah kan. Tapi yang viral 2-3 hari ini, Presiden Trump menegur Kevin Rudd, bekas Perdana Menteri Australia dan juga Duta Australia ke Amerika Syarikat lah, kerana Kevin Rudd bagi komen yang ganas terhadap Trump, dan tiba-tiba Trump menang, dan dia menyusahkan keadaan. Jadi memang pimpinan PAS ini mungkin — saya ingat mereka selalu bermain untuk khalayak mereka sendiri. Tapi bila sesebuah parti itu ada cita-cita untuk menjadi kerajaan persekutuan, maka mereka perlu lebih lunak dan fahamlah ada protokol-protokolnya. Memang hak mereka untuk buat komen, tapi komen itu ada konsekuensinya lah, kerana hak kerajaan Singapura juga untuk merasakan bahawa itu campur tangan dalam politik mereka. Dan itu agak biasa berlaku — contohnya, Trump, kalau dia nampak negara-negara lain memberi komen secara kritikal, dia akan membalas dengan keras. Keir Starmer akan kena. Justin Trudeau akan kena. Tetapi elok kita ada protokol diplomatik dan antarabangsa yang perlu kita patuhi.
 
 Sebab itu, kalau kita lihat, saya sebelum menjadi menteri tahun 2022, saya ada pandangan yang bebas lah kan — yalah, latar belakang saya, sudah tentulah, contohnya, saya lebih rapat dengan Demokrat, contohnya kan, sudah tentu saya lebih rapat dengan Labour Party, dan saya ada kawan-kawan seperti itu di seluruh dunia — kita semua ada kawan. Tetapi apabila saya menjadi menteri, kalau kau perasan, saya tidak mengulas tentang parti-parti politik lain atau kerajaan-kerajaan lain. Kerana saya bukan lagi hanya mewakili diri saya sendiri — saya boleh dianggap sebagai wakil kerajaan ataupun parti saya, dan apabila sudah menjadi sebahagian kerajaan persekutuan, maka dia ada nuansa dan juga protokol yang kita terpaksa ikuti lah. Jadi kita pendam je lah. Jadi PAS kena belajar lah bahawa untuk jadi kerajaan persekutuan ni, lebih rumit daripada untuk memenangkan hati walaun baik-baik.
 
-**Host:** Ok YB, tahniah PAS berada di berita dunia. Yang kedua, kita terbang jauh sikit lah ke Louvre di Paris. Saya tunggu filem Hollywood ataupun Netflix yang terbaru lah yang pasal cerita ni.
+**Haziq:** Ok YB, tahniah PAS berada di berita dunia. Yang kedua, kita terbang jauh sikit lah ke Louvre di Paris. Saya tunggu filem Hollywood ataupun Netflix yang terbaru lah yang pasal cerita ni.
 
 **Rafizi:** Oh, akan ada?
 
-**Host:** Belum lah, tapi mesti ada banyak cerita akhirnya — macam mana ini berlaku. Tangga, dia ada tangga kan? Ya, dia menyamar jadi...
+**Haziq:** Belum lah, tapi mesti ada banyak cerita akhirnya — macam mana ini berlaku. Tangga, dia ada tangga kan? Ya, dia menyamar jadi...
 
 **Rafizi:** Saya tak tahu cerita penuh tentang benda Louvre ni. Dia seorang kakitangan, masuk, dan mencuri 8 barang perhiasan — kebanyakannya milik permaisuri-permaisuri, daripada Bonaparte.
 
-**Host:** Oh, Josephine.
+**Haziq:** Oh, Josephine.
 
 **Rafizi:** Saya tak baca dengan teliti. Cerita Ocean's Eleven ni okey lah. Kita tunggu nanti dokumentari cerita dia, nak tengok macam mana lah kan dia buat kan. Last kali ada barang hilang daripada Louvre ni, 1912.
 
-**Host:** 1912?
+**Haziq:** 1912?
 
 **Rafizi:** Haa, last kali ada orang curi kan. Saya ingat sajalah, 1912 kan. Kalau kita nak ambil yang lebih besar, ataupun pandangan yang lebih atas pasal Louvre ni kan, dia sebenarnya sangat demoralizing kepada negara Perancis yang sudah pun dalam keadaan sekarang. Perancis sekarang sudah ada lima Perdana Menteri yang meletak jawatan — ya, dalam sepenuhnya, ia hampir tidak boleh diperintah. Kerana dia ada pecahan perbezaan politik yang sangat kuat — di satu pihak ada kebanyakan parti sayap pelampau kanan lah, yang parti perkauman — dulu masa saya muda dulu, Jean Le Pen kan, Marine Le Pen.
 
-**Host:** Bapa dia, sekarang anak dia — Marine Le Pen juga.
+**Haziq:** Bapa dia, sekarang anak dia — Marine Le Pen juga.
 
 **Rafizi:** Jadi ini memang satu pukulan besar kepada rakyat Perancis, kerana mereka rasa bangga — kerana negara mereka, dari segi ekonominya, kini berada dalam keadaan yang teruk. Dari segi kerajaannya, masyarakatnya, krisis politik, dan tiba-tiba sudah tentu akan — apa yang berlaku di Louvre itu seperti satu simbol kepada sebuah komuniti dan negara yang dahulunya berasa hebat, bahawa mereka kini sebuah negara kecil.
 
-**Host:** Okay, WB. Tapi ada orang tanya juga, sekurang-kurangnya di Louvre kita ada mendengar kecurian, tapi kita tak pernah dengar kecurian atau cubaan mencuri di muzium-muzium negara kita. Tak rasa itu salah satu masalah juga ke?
+**Haziq:** Okay, WB. Tapi ada orang tanya juga, sekurang-kurangnya di Louvre kita ada mendengar kecurian, tapi kita tak pernah dengar kecurian atau cubaan mencuri di muzium-muzium negara kita. Tak rasa itu salah satu masalah juga ke?
 
 **Rafizi:** Kenapa nak pergi muzium? Kita bercakap tentang daya tarikan — apa yang mahal dalam muzium kita? Saya tak rasa ada apa-apa.
 
-**Host:** Ya, ada.
+**Haziq:** Ya, ada.
 
 **Rafizi:** Apa jenis soalan ni? Ini bukan soal daya tarikan — kerana ia dibandingkan dengan Louvre. Di mana boleh dibandingkan? Tak boleh dibandingkan. Muzium — eh, Mona Lisa ada di sini ke?
 
-**Host:** Ya, ada.
+**Haziq:** Ya, ada.
 
 **Rafizi:** Ada Mona Lisa di sini? Di sini, saya rasa apa yang disimpan bernilai beratus-ratus juta — contohnya, kekayaan ahli-ahli politik hebat, berpuluh-puluh juta, disimpan di Muzium Negara. Ada banyak Ocean's Eleven nak pergi Muzium Negara? Saya tak tahu tentang Muzium Negara, saya tak rasa ada banyak harta atau barang berharga yang disimpan di sana.
 
-**Host:** Okey, baiklah, WB, jelas. Kalau boleh kita beralih ke isu terakhir — isu dunia, PM Jepun. Beliau seorang tradisionalis yang tegas dan berminat dengan Margaret Thatcher. Kalau boleh saya bertanya, dua perkara yang agak ironik — Jepun adalah negara yang paling menua, contohnya. Tapi sekarang, apabila dasar mereka anti-imigran, macam mana mereka mendamaikan dua keperluan ini, sedangkan apa yang mereka mahu paksakan agak bertentangan?
+**Haziq:** Okey, baiklah, WB, jelas. Kalau boleh kita beralih ke isu terakhir — isu dunia, PM Jepun. Beliau seorang tradisionalis yang tegas dan berminat dengan Margaret Thatcher. Kalau boleh saya bertanya, dua perkara yang agak ironik — Jepun adalah negara yang paling menua, contohnya. Tapi sekarang, apabila dasar mereka anti-imigran, macam mana mereka mendamaikan dua keperluan ini, sedangkan apa yang mereka mahu paksakan agak bertentangan?
 
 **Rafizi:** Tak, maksud saya, saya akan ceritakan aging nation semua ni — ia kekal menjadi masalah pembuat dasar; hari politik dia tak fikir. Okay, jadi yang lebih membimbangkan tentang PM wanita pertama Jepun ini, bukan sangat soal diri dia lah. Kebimbangannya ialah kecenderungan (swing) ke arah anti-imigran, dasar-dasar yang dilihat sebagai sayap kanan, sebagai ekstrim. Kerana ada dua masyarakat dalam dunia ini yang trauma akibat Perang Dunia Kedua dan mereka trauma dengan parti-parti pelampau sayap kanan — satu ialah Jerman, satu lagi Jepun lah. Jadi ini kali pertama, selain daripada beliau adalah Perdana Menteri wanita pertama, yang lebih signifikan ialah ini kali pertama seorang yang dilihat bersayap kanan, yang secara terbuka anti-imigran, menjadi Perdana Menteri Jepun. Dan saya ingat semua perkara lain itu adalah perkara yang secondary dalam politik ataupun yang diperhatikan oleh dunia lah.
 
-**Host:** Okey, baik, baik, baik. Saya cuma cakap yang kita tak boleh komen terlalu banyak tentang benda lain, tapi ini agak pendek dan padat.
+**Haziq:** Okey, baik, baik, baik. Saya cuma cakap yang kita tak boleh komen terlalu banyak tentang benda lain, tapi ini agak pendek dan padat.
 
 **Rafizi:** Ya.
 
-**Host:** Okey, baik. Selesai, WB, kita pergi ke segmen seterusnya. Kita ada Fuyoh — di mana kita akan berada? Kita akan berada di sana dalam sejam 50 minit.
+**Haziq:** Okey, baik. Selesai, WB, kita pergi ke segmen seterusnya. Kita ada Fuyoh — di mana kita akan berada? Kita akan berada di sana dalam sejam 50 minit.
 
 **Rafizi:** Okey, kita ada 10 minit lagi, kita akan laju.
 
-**Host:** Itu banyak sebab segmen PAS tadi.
+**Haziq:** Itu banyak sebab segmen PAS tadi.
 
 **Rafizi:** Ya.
 
-**Host:** Tapi ini satu tuntutan (claim), YB — kita ada yang pertama, kita ada rainbow chip. Kalau saya cuba cari tadi, dengan rainbow chip ni, kita boleh dapat internet lebih laju, kita ada sensor yang lebih baik untuk autopilot kereta. Jadi mungkin YB boleh gambarkan macam mana ia berfungsi sebenarnya.
+**Haziq:** Tapi ini satu tuntutan (claim), YB — kita ada yang pertama, kita ada rainbow chip. Kalau saya cuba cari tadi, dengan rainbow chip ni, kita boleh dapat internet lebih laju, kita ada sensor yang lebih baik untuk autopilot kereta. Jadi mungkin YB boleh gambarkan macam mana ia berfungsi sebenarnya.
 
 **Rafizi:** Kita mengaku.
 

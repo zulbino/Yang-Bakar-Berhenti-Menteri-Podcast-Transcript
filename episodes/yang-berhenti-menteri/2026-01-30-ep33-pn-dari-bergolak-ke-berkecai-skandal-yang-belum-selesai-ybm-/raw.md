@@ -249,7 +249,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [42:18] Haziq: Okey, clear and concise. Kita ke segmen yang seterusnya. Ni ada satu saja. Hidup keras dik. Okey ini the main main one. Tapi kita start dengan hiburan politik. Okey. Ada kenduri ramai-ramai. Perikatan Nasional titik dua bertindih dari bergolak ke berkecai. Kalau tengok yalah kenyataan baru-baru ini tiang gol bukan dialih tapi dipadam apabila Muhyiddin cadang jawatan Pengerusi PN dimansuhkan dan PAS menunjukkan trend yang agak membimbangkan iaitu semakin rancak bergaduh depan-depan. So maybe just a simple question kepada rakyat ni apa yang mesej apa kita panggil di sebaliknya ni berlaku sebenarnya? 
 
-[43:10] Rafizi: Baguslah I think PKR kita set the trend ah. Semua orang sekarang ikut trend ini. Kita bergaduh secara terbuka. Tu PAS yang kita tak boleh fikir gaduh secara terbuka dalam gambar tu ada ex-PKR tu. That's the common denominator. Memang PKR spread your wings. So habis semua bergaduh secara terbuka. Bersatu pun bergaduh secara terbuka. UMNO pun bergaduh secara terbuka. Sekarang PAS pun bergaduh secara terbuka. Kalaulah Shahir ni kan ahli parlimen Bachok ni kalaulah dia setegas ini masa lawan debat dengan aku dan tak bagi pantun aku rasa dia menang hari itu. Tak, I mean the latest ones lah Wong Chen I think it has gone daripada drama kepada being utterly ridiculous lah. Maksudnya Bersatu ni bermula daripada Perikatan Nasional kan bermula daripada Perlis kemudian daripada situ dia berjangkit kepada bergaduh dengan Bersatu dan sebagai tindak balas Tan Sri Muhyiddin letak jawatan dan PAS akan kata PAS kata akan lantik pengerusi PN yang baru kemudian ada satu mesyuarat di rumah Tan Sri Muhyiddin mula ada mesyuarat yang sepatutnya lain tapi dibatalkan saat-saat akhir kemudian mesyuarat itu dibuat pula di rumah Tan Sri Muhyiddin kemudian saya baca tadi ada media tanya Datuk Seri Hamzah Zainudin dia kata "macam mana saya nak pergi saya tak dijemput pun?" Ah sudah kan kemudian lepas mesyuarat itu Tan Sri Muhyiddin keluarkan kenyataan kan surat dalam surat menyatakan bahawa selepas ini tidak lagi ada jawatan pengerusi PN tetapi ada dua badan, satu ialah Majlis Presiden yang bertanggungjawab untuk menetapkan hala tuju dan dasar-dasar yang itu akan diketuai oleh Bersatu, satu lagi ialah Majlis Eksekutif lah macam Majlis kalau dalam PAS dia panggil dewan harian lah maksudnya ini implementor yang akan melaksanakan urusan harian yang itu akan diketuai oleh PAS kan. Jadi satu hari tu kita tengok lah seolah-olah telah selesai lah pergolakan dalam PN kemudian keluar pula pasal Ketua Pemuda PAS ha kita satu pasukan bola kemudian dia kata keeper letak jawatan penjaga gol, coach panggil pasukan bincang nak lantik keeper baru tiba-tiba keeper yang letak jawatan minta tiang gol dimasukkan ah sudah kan kemudian dia berjangkit sampai ke dalam PAS tahu. 
+[43:10] Rafizi: Baguslah I think PKR kita set the trend ah. Semua orang sekarang ikut trend ini. Kita bergaduh secara terbuka. Tu PAS yang kita tak boleh fikir gaduh secara terbuka dalam gambar tu ada ex-PKR tu. That's the common denominator. Memang PKR spread your wings. So habis semua bergaduh secara terbuka. Bersatu pun bergaduh secara terbuka. UMNO pun bergaduh secara terbuka. Sekarang PAS pun bergaduh secara terbuka. Kalaulah Shahir ni kan ahli parlimen Bachok ni kalaulah dia setegas ini masa lawan debat dengan aku dan tak bagi pantun aku rasa dia menang hari itu. Tak, I mean the latest ones lah Wong Chen I think it has gone daripada drama kepada being utterly ridiculous lah. Maksudnya Bersatu ni bermula daripada Perikatan Nasional kan bermula daripada Perlis kemudian daripada situ dia berjangkit kepada bergaduh dengan Bersatu dan sebagai tindak balas Tan Sri Muhyiddin letak jawatan dan PAS akan kata PAS kata akan lantik pengerusi PN yang baru kemudian ada satu mesyuarat di rumah Tan Sri Muhyiddin mula ada mesyuarat yang sepatutnya lain tapi dibatalkan saat-saat akhir kemudian mesyuarat itu dibuat pula di rumah Tan Sri Muhyiddin kemudian saya baca tadi ada media tanya Datuk Seri Hamzah Zainuddin dia kata "macam mana saya nak pergi saya tak dijemput pun?" Ah sudah kan kemudian lepas mesyuarat itu Tan Sri Muhyiddin keluarkan kenyataan kan surat dalam surat menyatakan bahawa selepas ini tidak lagi ada jawatan pengerusi PN tetapi ada dua badan, satu ialah Majlis Presiden yang bertanggungjawab untuk menetapkan hala tuju dan dasar-dasar yang itu akan diketuai oleh Bersatu, satu lagi ialah Majlis Eksekutif lah macam Majlis kalau dalam PAS dia panggil dewan harian lah maksudnya ini implementor yang akan melaksanakan urusan harian yang itu akan diketuai oleh PAS kan. Jadi satu hari tu kita tengok lah seolah-olah telah selesai lah pergolakan dalam PN kemudian keluar pula pasal Ketua Pemuda PAS ha kita satu pasukan bola kemudian dia kata keeper letak jawatan penjaga gol, coach panggil pasukan bincang nak lantik keeper baru tiba-tiba keeper yang letak jawatan minta tiang gol dimasukkan ah sudah kan kemudian dia berjangkit sampai ke dalam PAS tahu. 
 
 [46:05] Wong Chen: Hebat analogi bola tapi di parlimen tak main bola pun. Masa ada bola dia tak bagi saya captain. Parlimen main bola tak ada pun seorang pun ni main keeper. 
 
@@ -403,7 +403,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:56:33] Rafizi: Hmm.
 
-[1:56:34] Farhan: Sorry, saya ada a bit of a soalan tambahanlah. Sebagai layman, disebabkan financial scandal, easy to see money ter-lost. Jenayah jenayahlah. Tapi in terms of scandal human trafficking, apa implikasi kepada negara dalam konteks negara dan juga global?
+[1:56:34] Farhan (Pa'an): Sorry, saya ada a bit of a soalan tambahanlah. Sebagai layman, disebabkan financial scandal, easy to see money ter-lost. Jenayah jenayahlah. Tapi in terms of scandal human trafficking, apa implikasi kepada negara dalam konteks negara dan juga global?
 
 [1:56:58] Rafizi: Yang itu yang YB Wong Chen dah sebutlah, pasal
 
@@ -473,7 +473,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:01:56] Rafizi: Second report coming ke tidak kan. Dan dia dia dia dah jadi sampai ke peringkat dia dah beritahu nama satu-satu.
 
-[2:02:04] Farhan: So Bloomberg in a way mengatakan the government of Malaysia in cahoots lah?
+[2:02:04] Farhan (Pa'an): So Bloomberg in a way mengatakan the government of Malaysia in cahoots lah?
 
 [2:02:12] Rafizi: Hmm.
 
@@ -629,11 +629,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:17:26] Rafizi: Yup.
 
-[2:17:27] Farhan: Terus boleh nampak ada ketegangan di Melaka juga kan antara UMNO dan DAP dan
+[2:17:27] Farhan (Pa'an): Terus boleh nampak ada ketegangan di Melaka juga kan antara UMNO dan DAP dan
 
 [2:17:33] Rafizi: Yalah, yang itu yang sebab apa nama ni yang pasal Najib dululah kan? Keputusan Najib.
 
-[2:17:37] Farhan: Ha, dan dan also apa nampak yang PKR sebagai satu komponen parti dalam PH tak ambil any stance to defend ataupun to coalition party.
+[2:17:37] Farhan (Pa'an): Ha, dan dan also apa nampak yang PKR sebagai satu komponen parti dalam PH tak ambil any stance to defend ataupun to coalition party.
 
 [2:17:50] Rafizi: Itu PKR lah. PKR hanya muncul apabila ada konsert. So bila Dia ada muncul? Dia muncul wish Akmal selamat bersidang.
 
@@ -793,19 +793,19 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:40:44] Rafizi: Yalah, tapi itu salah PKRlahlah! Lepas tu aku macam, macam mana aku nak komennya? Ini memang Menteri Besar PKR dua-dua pergi jual tanah kan? Isu dia ialah how in the future you want to build tatakelola, the governance to make sure supaya bila ada kerajaan tak kisahlah from PKR ke, DAP ke, Bersatu ke, actually there are there are processes yang dia kena melalui supaya dia lebih accountable bila nak jual tanah. Kalau tidak, you ada satu kerajaan dia nak joli, dalam 5 tahun habis dia jual semua tanah. You know, you know?
 
-[2:41:26] Farhan: So that's that's I was going to allude to this lah. Sebagai seorang anak Selangor, saya
+[2:41:26] Farhan (Pa'an): So that's that's I was going to allude to this lah. Sebagai seorang anak Selangor, saya
 
 [2:41:34] Rafizi: Kita bukan anak Selangor. Eh, saya!
 
-[2:41:36] Farhan: Betul.
+[2:41:36] Farhan (Pa'an): Betul.
 
 [2:41:36] Rafizi: Oh yalah, you were born in PJ. Okeylah. Aku orang Terengganu.
 
-[2:41:40] Farhan: So the the question is I mean PKR held Selangor for quite some timelah. Ada ada tak had pelupusan tanah for development and all that for us for Selangor every year?
+[2:41:40] Farhan (Pa'an): So the the question is I mean PKR held Selangor for quite some timelah. Ada ada tak had pelupusan tanah for development and all that for us for Selangor every year?
 
 [2:41:54] Rafizi: Maksudnya had pelupusan?
 
-[2:41:55] Farhan: I mean I mean is there a limit? Is there a limit?
+[2:41:55] Farhan (Pa'an): I mean I mean is there a limit? Is there a limit?
 
 [2:41:57] Rafizi: Tak ada, tak ada orang tahu! Tak ada orang tahu. Tak ada limit, tak ada tahu. If anything, the next step tu, inilah yang kita kata reform. Sepatutnya
 
@@ -849,7 +849,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:45:38] Wong Chen: Oh.
 
-[2:45:39] Farhan: Selamat Hari Thaipusam.
+[2:45:39] Farhan (Pa'an): Selamat Hari Thaipusam.
 
 [2:45:40] Rafizi: Selamat Hari Ya, Thaipusam dulu. kepada yang merayakan kan, yang menyambut. Selamat menyambut Hari Thaipusam. Saya ada dalam 2-3 hari untuk cuba hafal ucapan dalam bahasa Tamil. Tengok boleh buat ke tidaklah. Tapi kalau saya punya ucapan nanti dalam bahasa Melayu, maksudnya aku faillah.
 
@@ -863,7 +863,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:46:08] Rafizi: Maksud benda lain ha. Lagi ada apa lagi? Hari Wilayah.
 
-[2:46:11] Farhan: Hari Wilayah.
+[2:46:11] Farhan (Pa'an): Hari Wilayah.
 
 [2:46:12] Rafizi: Selamat menyambut Hari Wilayah. Majikanlah kan, macam my my officelah kan, budak-budak I mean my management, dia orang dah garu kepala dah, "Alamak, minggu depan sampai empat hari cuti non-stop! Habislah business Februari!"
 
@@ -891,7 +891,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:47:31] Rafizi: Tak apa, kita tengok.
 
-[2:47:34] Farhan: I wanted to end it with Happy Chinese New Year, tapi tak Lambat lagilah.
+[2:47:34] Farhan (Pa'an): I wanted to end it with Happy Chinese New Year, tapi tak Lambat lagilah.
 
 [2:47:37] Wong Chen: Lambat lagi, next week baru kita cakap.
 

@@ -8,9 +8,10 @@ duration_seconds: 9937
 duration: 2h 45m
 view_count: 203668
 hosts:
-- Rafizi Ramli
-- Speaker 2 (Pa'an/Aan)
-guests:
+- Rafizi
+- Haziq
+- Farhan (Pa'an)
+guests: []
 topics:
 - Parti Bersama updates (Johor candidates, Melaka PRN prep, Kancil app launch)
 - 'Beria segment: viral/absurd political and social media content'
@@ -52,11 +53,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Speaker 2:** Podcast Yang Berhenti — Menteri, episode 56, as usual with Brother Fizi and Chopper making noise back there.
 
-**Rafizi Ramli:** I'm smiling because just now when I called Chopper's name, he responded, and then he wouldn't stop responding.
+**Rafizi:** I'm smiling because just now when I called Chopper's name, he responded, and then he wouldn't stop responding.
 
 **Speaker 2:** YB, how has the week been since HQ opened?
 
-**Rafizi Ramli:** Alhamdulillah, because we've been moving as fast as possible. Last Monday I sat down with our joint candidates from the recent Johor state election, and we've agreed on follow-up steps so that the service and shared role offered to the grassroots residents in Johor can continue to be rolled out. InsyaAllah, in the near future we will start opening — I don't like calling it an office, we'll call the place a shared space. A shared space, right.
+**Rafizi:** Alhamdulillah, because we've been moving as fast as possible. Last Monday I sat down with our joint candidates from the recent Johor state election, and we've agreed on follow-up steps so that the service and shared role offered to the grassroots residents in Johor can continue to be rolled out. InsyaAllah, in the near future we will start opening — I don't like calling it an office, we'll call the place a shared space. A shared space, right.
 
 Then last Wednesday, an initial preparatory meeting for the Melaka state election was held, and insyaAllah after this there will be weekly updates for the public, and we'll introduce candidates as early as possible. So for anyone from Melaka, make sure that you were either born in Melaka or your address is in Melaka — meaning a Melaka voter — for those who haven't yet applied to be an open candidate. Because our joint candidates, as we've shown in Johor, consist of two groups. One is the activist/organiser group who have political experience and community service experience. The other is open candidates from among professionals, from among the youth, those stepping forward to offer service, to contribute to society. For those who haven't yet applied to be a candidate, you can go to bersama.org, click "Join Us." There you can apply to become a candidate, and go through the interview and screening process like the other candidates have.
 
@@ -64,19 +65,19 @@ And today, the Kancil app has started operating for Android users.
 
 **Speaker 2:** That's usually how it goes, the Android Play Store is usually faster than the Apple Store.
 
-**Rafizi Ramli:** So for BERSAMA members using Android, you can start downloading now.
+**Rafizi:** So for BERSAMA members using Android, you can start downloading now.
 
 **Speaker 2:** So it's already live?
 
-**Rafizi Ramli:** Kancil is already live, and through this process, you can see how we intend to use digital strength to manage BERSAMA members. And our hope is that, over time, we'll introduce new features that not only help BERSAMA members on the ground step forward to offer to run programmes, to help expand BERSAMA in their respective areas, but also to differentiate the contributions of members who are currently active. So that's the process for us to cultivate a new kind of politics that must be based on merit. That's why we don't want to make any leadership appointments for now, to allow this process to happen first so that BERSAMA members can get to know each other based on track record. And when the time is right, based on our own benchmarks, a nationwide election will be held to choose leaders. From that, my hope is that the Kancil app will provide a form of transparency so that BERSAMA members can assess who deserves to be entrusted with leadership. We're still waiting for the Apple Store to approve it.
+**Rafizi:** Kancil is already live, and through this process, you can see how we intend to use digital strength to manage BERSAMA members. And our hope is that, over time, we'll introduce new features that not only help BERSAMA members on the ground step forward to offer to run programmes, to help expand BERSAMA in their respective areas, but also to differentiate the contributions of members who are currently active. So that's the process for us to cultivate a new kind of politics that must be based on merit. That's why we don't want to make any leadership appointments for now, to allow this process to happen first so that BERSAMA members can get to know each other based on track record. And when the time is right, based on our own benchmarks, a nationwide election will be held to choose leaders. From that, my hope is that the Kancil app will provide a form of transparency so that BERSAMA members can assess who deserves to be entrusted with leadership. We're still waiting for the Apple Store to approve it.
 
 **Speaker 2:** How long will that take?
 
-**Rafizi Ramli:** You never really know. For those familiar with the digital field, the issue with Android Play Store versus Apple Store — as BERSAMA, being the app developer, once it's approved internally, we submit the app, and then it depends on Apple Store or Android because they review it. So it also depends on how fast or slow they are, or whether there are things they ask us to change.
+**Rafizi:** You never really know. For those familiar with the digital field, the issue with Android Play Store versus Apple Store — as BERSAMA, being the app developer, once it's approved internally, we submit the app, and then it depends on Apple Store or Android because they review it. So it also depends on how fast or slow they are, or whether there are things they ask us to change.
 
 **Speaker 2:** Oh right, sometimes they ask for changes.
 
-**Rafizi Ramli:** So we started with Android first, and we're hoping that within a week or two the Apple Store will also approve it. Those are the plans currently underway.
+**Rafizi:** So we started with Android first, and we're hoping that within a week or two the Apple Store will also approve it. Those are the plans currently underway.
 
 **Speaker 2:** Alright, alright, alright. Okay YB, one question, six minutes — YB answers.
 
@@ -84,103 +85,103 @@ And today, the Kancil app has started operating for Android users.
 
 **Speaker 2:** True. Okay, as usual YB, let's start with Beria.
 
-**Rafizi Ramli:** Now I see a lot of people wanting to say "Beria, Beria." Even other politicians have started using the word Beria. It's really trending, YB.
+**Rafizi:** Now I see a lot of people wanting to say "Beria, Beria." Even other politicians have started using the word Beria. It's really trending, YB.
 
 **Speaker 2:** Okay, let's see what we have this week, YB. The first one — Ceng Bermat: "This marathon suits Rafizi."
 
-**Rafizi Ramli:** The shortest journey in the world — no problem for me, I can do that. Why is this? Because some people said I should do a run like Saiddul Sadiq to raise funds for BERSAMA.
+**Rafizi:** The shortest journey in the world — no problem for me, I can do that. Why is this? Because some people said I should do a run like Saiddul Sadiq to raise funds for BERSAMA.
 
 **Speaker 2:** Oh, where would you run from and to?
 
-**Rafizi Ramli:** No, no. I think we do it like this — do it maybe just for 10 metres. But make sure we run the same distance like that. Work smart, work smart. So in terms of efficiency, that's more efficient, more effective, right. It could actually work. We're actually planning to do a kind of — what's it called — hmm — not exactly a game, but a public activity that's actually become quite a trend in other countries. It's an obstacle course format. But that obstacle course tests skills at each obstacle, and that's what we want to try to bring too. So we could design one of them, maybe this one. So I'll wait at the front, and I'll run before this.
+**Rafizi:** No, no. I think we do it like this — do it maybe just for 10 metres. But make sure we run the same distance like that. Work smart, work smart. So in terms of efficiency, that's more efficient, more effective, right. It could actually work. We're actually planning to do a kind of — what's it called — hmm — not exactly a game, but a public activity that's actually become quite a trend in other countries. It's an obstacle course format. But that obstacle course tests skills at each obstacle, and that's what we want to try to bring too. So we could design one of them, maybe this one. So I'll wait at the front, and I'll run before this.
 
 **Speaker 2:** Okay, alright. Why "Beria" though? What does this have to do with Beria?
 
-**Rafizi Ramli:** Beria lah, he's making it short.
+**Rafizi:** Beria lah, he's making it short.
 
 **Speaker 2:** YB, but how does this actually work?
 
-**Rafizi Ramli:** Giving a new idea. A new idea.
+**Rafizi:** Giving a new idea. A new idea.
 
 **Speaker 2:** But right now it seems like — people are getting formal about running and such. YB, are you trying to get fit, have you joined any of these paid runs?
 
-**Rafizi Ramli:** Since when has running been formal, compared to the old days?
+**Rafizi:** Since when has running been formal, compared to the old days?
 
 **Speaker 2:** Oh, it existed before?
 
-**Rafizi Ramli:** Of course, it's just that maybe some people continuously pick up running. I've basically gone off the rails because of BERSAMA and politics. After I resigned last year, in June, July, I picked up running quite well, though I couldn't stretch like before, so my running pace was slower compared to before because my maximum heart rate has changed. But after that, after the fasting month, a month of Ramadan leave, after the fasting month while planning to launch BERSAMA, it's been broken ever since — I haven't exercised at all.
+**Rafizi:** Of course, it's just that maybe some people continuously pick up running. I've basically gone off the rails because of BERSAMA and politics. After I resigned last year, in June, July, I picked up running quite well, though I couldn't stretch like before, so my running pace was slower compared to before because my maximum heart rate has changed. But after that, after the fasting month, a month of Ramadan leave, after the fasting month while planning to launch BERSAMA, it's been broken ever since — I haven't exercised at all.
 
 **Speaker 2:** Which month was the fasting month?
 
-**Rafizi Ramli:** It's now month 4, going on almost 3 months, right, 3 months.
+**Rafizi:** It's now month 4, going on almost 3 months, right, 3 months.
 
 **Speaker 2:** Hmm.
 
-**Rafizi Ramli:** Alright YB. Let's look at the next one.
+**Rafizi:** Alright YB. Let's look at the next one.
 
 **Speaker 2:** You guys just love picking on this. Just saying, don't take offense — you said this marathon suits Rafizi. Okay, that's the marathon one. This next one — work up. There's someone who went overboard with Beria — he pronounced a divorce (talak) if Argentina lost. Is this true or not?
 
-**Rafizi Ramli:** Because nowadays...
+**Rafizi:** Because nowadays...
 
 **Speaker 2:** Eh, again — but YB always says this is usually a self-made screenshot, right?
 
-**Rafizi Ramli:** Because usually in this era it's the content era, especially on social media/track.
+**Rafizi:** Because usually in this era it's the content era, especially on social media/track.
 
 **Speaker 2:** It's just that so far it seems like there's already news quoting it, and people seem to be confirming it.
 
-**Rafizi Ramli:** Yes, news is also content now. What is this, everything's clickbait now, right, just to get clicks. So we actually don't know whether there's really someone like this who made a bet with a friend, that if Argentina lost he'd immediately pronounce triple talak. In the old days this kind of thing only happened in politics.
+**Rafizi:** Yes, news is also content now. What is this, everything's clickbait now, right, just to get clicks. So we actually don't know whether there's really someone like this who made a bet with a friend, that if Argentina lost he'd immediately pronounce triple talak. In the old days this kind of thing only happened in politics.
 
 **Speaker 2:** YB, correct me — was it just 3 [talaks]? If you jump party, then the divorce falls.
 
-**Rafizi Ramli:** But it's been so long, YB, I feel like I've — no need to rest, no need to mention it, whichever one it is. But I did want to ask, way back — what if he wasn't married? There would be an advantage for him then, no burden, no obligation, so it would be easy for him to jump. Or does that mean PAS candidates must only be married people? Because if you're not married, you can't be bound by that kind of pledge.
+**Rafizi:** But it's been so long, YB, I feel like I've — no need to rest, no need to mention it, whichever one it is. But I did want to ask, way back — what if he wasn't married? There would be an advantage for him then, no burden, no obligation, so it would be easy for him to jump. Or does that mean PAS candidates must only be married people? Because if you're not married, you can't be bound by that kind of pledge.
 
 **Speaker 2:** Those questions we can ask PAS.
 
-**Rafizi Ramli:** Is the person we'd ask even still alive?
+**Rafizi:** Is the person we'd ask even still alive?
 
 **Speaker 2:** Well, I don't know, maybe someone from PAS will answer that out there.
 
-**Rafizi Ramli:** So what's the story here — supposedly this is "beria" behaviour — if it's true, it's beria; if it's not true, then it's beria of this person to do it just for a moment. This isn't beria, this is called stupid.
+**Rafizi:** So what's the story here — supposedly this is "beria" behaviour — if it's true, it's beria; if it's not true, then it's beria of this person to do it just for a moment. This isn't beria, this is called stupid.
 
 **Speaker 2:** Stupid.
 
-**Rafizi Ramli:** Well yeah, that's why I doubt such a person even exists now. I have my doubts, I don't know, surely no one is that ignorant. Maybe it doesn't exist? Maybe it doesn't exist. Who made up this story to the point that Dr. Zulkifli had to go and reply to it, right.
+**Rafizi:** Well yeah, that's why I doubt such a person even exists now. I have my doubts, I don't know, surely no one is that ignorant. Maybe it doesn't exist? Maybe it doesn't exist. Who made up this story to the point that Dr. Zulkifli had to go and reply to it, right.
 
 **Speaker 2:** Okay, alright, all sorts of things. But he managed to make it into Beria.
 
-**Rafizi Ramli:** Within BERSAMA, hopefully there's no one this foolish — better if there isn't. But if someone wanted to make one up — if I wanted to make one up, it would be: "My husband made a bet with his friends, that if Argentina loses to Spain, he'll divorce me with triple talak." Oh my God.
+**Rafizi:** Within BERSAMA, hopefully there's no one this foolish — better if there isn't. But if someone wanted to make one up — if I wanted to make one up, it would be: "My husband made a bet with his friends, that if Argentina loses to Spain, he'll divorce me with triple talak." Oh my God.
 
 **Speaker 2:** Let's behave ourselves.
 
-**Rafizi Ramli:** So let me try to think this through — if it's a bet, right? He's betting. If he's betting, there must be a consequence both if he loses and if he wins. If Argentina loses, triple talak must happen; if Argentina wins, then it doesn't apply. So what kind of foolish bet is that, where he gets nothing? Unless he genuinely wanted to divorce his wife with triple talak anyway.
+**Rafizi:** So let me try to think this through — if it's a bet, right? He's betting. If he's betting, there must be a consequence both if he loses and if he wins. If Argentina loses, triple talak must happen; if Argentina wins, then it doesn't apply. So what kind of foolish bet is that, where he gets nothing? Unless he genuinely wanted to divorce his wife with triple talak anyway.
 
 **Speaker 2:** That's YB's analysis. Is that right?
 
-**Rafizi Ramli:** He's just giving a reason — who knows, maybe he's just giving a reason, no, he genuinely wanted to give triple talak. Because if it's a bet, there must be — meaning unless his friend, if Argentina wins, meaning his friend loses, then his friend has to hand over his own triple talak. Hmm. We don't have the full picture, our minds just can't comprehend such foolish things.
+**Rafizi:** He's just giving a reason — who knows, maybe he's just giving a reason, no, he genuinely wanted to give triple talak. Because if it's a bet, there must be — meaning unless his friend, if Argentina wins, meaning his friend loses, then his friend has to hand over his own triple talak. Hmm. We don't have the full picture, our minds just can't comprehend such foolish things.
 
 **Speaker 2:** Hopefully it doesn't happen. Okay YB, that was the public. Now this is Barisan Nasional. Okay — their "job manifesto" has been fulfilled, by appointing Deputy Excos in the state of Johor. They didn't even mention this during the campaign, we didn't hear about it, now only we find out.
 
-**Rafizi Ramli:** Well, that's what the voters of Johor wanted. Deal with it.
+**Rafizi:** Well, that's what the voters of Johor wanted. Deal with it.
 
 **Speaker 2:** A bit harsh there.
 
-**Rafizi Ramli:** Right. Hmm. But yes, we did campaign and that was our effort to give clarity to ordinary people, right. We said from the start, parties like UMNO, BN — when they win, they don't think about ordinary people at all, because they have an aristocratic mindset and aristocratic behaviour. They consider it their right to get spoils, to get positions to lead — that's their right, in their view. So during the campaign, they showed the people [something else]. Because it's a party that's been around for 70 years, that has ruled for over 60 years, right. But even so, don't be so eager to show that aristocratic attitude this quickly — it hasn't even been a week, right. Because ordinary people might think — "oh good, my YB became Deputy Exco." And so on, not realising that once the position of Deputy Exco is created, it comes with allowances and salary, an office must be set up for him, staff must be appointed for him, there must be special allocations. So there must be allowances and so on. Official car, official car and everything, right.
+**Rafizi:** Right. Hmm. But yes, we did campaign and that was our effort to give clarity to ordinary people, right. We said from the start, parties like UMNO, BN — when they win, they don't think about ordinary people at all, because they have an aristocratic mindset and aristocratic behaviour. They consider it their right to get spoils, to get positions to lead — that's their right, in their view. So during the campaign, they showed the people [something else]. Because it's a party that's been around for 70 years, that has ruled for over 60 years, right. But even so, don't be so eager to show that aristocratic attitude this quickly — it hasn't even been a week, right. Because ordinary people might think — "oh good, my YB became Deputy Exco." And so on, not realising that once the position of Deputy Exco is created, it comes with allowances and salary, an office must be set up for him, staff must be appointed for him, there must be special allocations. So there must be allowances and so on. Official car, official car and everything, right.
 
 So how many were added? 10?
 
 **Speaker 2:** 10.
 
-**Rafizi Ramli:** Add 10 to the existing Excos, which is also about 10, right. So almost half of the BN representatives, apart from their assemblyman salary, now get an additional new allowance salary. Add that up, I recall — let's say for each one, I don't know the exact figure, maybe an additional RM7,000–RM8,000 a month. So RM80,000 a month, plus all the allowances, plus special allocations, at minimum RM150,000 a month. So actually, if per person it's RM6,000, RM7,000, RM10,000 — say salary plus allowance is seven, plus staff, plus all the allocations, maybe RM30,000 a month, RM300,000 a month [total]. So in a year that's already RM4 million. That RM4 million, if given to kampung folks, even RM200 per family would already help a lot more people, right. But unfortunately our people don't pay attention to things like this, right. So never mind, let's wait for the next state election, and vote again.
+**Rafizi:** Add 10 to the existing Excos, which is also about 10, right. So almost half of the BN representatives, apart from their assemblyman salary, now get an additional new allowance salary. Add that up, I recall — let's say for each one, I don't know the exact figure, maybe an additional RM7,000–RM8,000 a month. So RM80,000 a month, plus all the allowances, plus special allocations, at minimum RM150,000 a month. So actually, if per person it's RM6,000, RM7,000, RM10,000 — say salary plus allowance is seven, plus staff, plus all the allocations, maybe RM30,000 a month, RM300,000 a month [total]. So in a year that's already RM4 million. That RM4 million, if given to kampung folks, even RM200 per family would already help a lot more people, right. But unfortunately our people don't pay attention to things like this, right. So never mind, let's wait for the next state election, and vote again.
 
 There's one more thing I think most people may not be fully aware of — I don't believe these positions actually exist in the constitution. For example, at the federal level, the constitution only provides for the position of Prime Minister and Ministers. So, for example, Deputy Ministers, even the Deputy Prime Minister himself, actually has no legal source of power. A Deputy Minister has no power, he can't direct anything, he's just a decoration — unless he gets a Minister who gives him room and assigns him tasks to do. But even then, on paper, he has no source of power. It's the same at the state level, I believe — I don't think the state constitution specifically provides for a Deputy Exco position or anything like that, right. So all of this ultimately goes to politicians who get positions with no real power and therefore no accountability. So they're the ones having fun.
 
 **Speaker 2:** And I think Johor is okay, if we look at Melaka too — 10 Excos, 10 Deputy Excos. This means there are more executives than...
 
-**Rafizi Ramli:** Than a badminton team — the whole team. Great, and then collect more tax, collect more tax. So Beria — this one is really Beria because they couldn't wait. But what can you do, they had to announce the so-called state cabinet, so they couldn't wait too long, had to announce it right away. This is the reward for UMNO Barisan Nasional's big win in Johor. But the reward isn't for the people, the reward is for themselves. Congratulations, job opportunities — job opportunities suddenly doubled, and with high pay, over RM4,000. That's why their promise — the manifesto for those 10 people has been fulfilled, the manifesto for those 10 people has been carried out.
+**Rafizi:** Than a badminton team — the whole team. Great, and then collect more tax, collect more tax. So Beria — this one is really Beria because they couldn't wait. But what can you do, they had to announce the so-called state cabinet, so they couldn't wait too long, had to announce it right away. This is the reward for UMNO Barisan Nasional's big win in Johor. But the reward isn't for the people, the reward is for themselves. Congratulations, job opportunities — job opportunities suddenly doubled, and with high pay, over RM4,000. That's why their promise — the manifesto for those 10 people has been fulfilled, the manifesto for those 10 people has been carried out.
 
 **Speaker 2:** Okay, alright. That was the leaders, this next one might be the voters — showing off "petrol money." This is from the Johor state election, that was 2 weeks ago, right. Except in Pak Ni, Negeri Sembilan there might be more, in Trads. But when confronted about it, they got a bit defensive too — saying this is indeed our petrol money. They didn't even ask who you voted for or anything. So it seems like it's being normalised to some extent.
 
-**Rafizi Ramli:** That's why I think politics is a long, drawn-out process, because politics is supposed to be a process of enlightenment. We want to make the public more discerning and we want to stop practices that, while comfortable, are actually bad for society. This is one example, because those who receive it are happy — they say they were never even asked [who they voted for]. I think, actually, where does this money even come from? If someone gives me RM200 for my trip back from Penang to Kota Tinggi, right — Puan Nur Sofia Izatul Ain, quite pretty too with all the flowers, right — the recipient probably feels it's their right, since it's being given to them anyway. I remember back in the kampung, when people used to scatter money, right — there were people, I grew up hearing answers from kampung folks like that — "he's already willing to give it, even if he doesn't give it, it's still good that he did."
+**Rafizi:** That's why I think politics is a long, drawn-out process, because politics is supposed to be a process of enlightenment. We want to make the public more discerning and we want to stop practices that, while comfortable, are actually bad for society. This is one example, because those who receive it are happy — they say they were never even asked [who they voted for]. I think, actually, where does this money even come from? If someone gives me RM200 for my trip back from Penang to Kota Tinggi, right — Puan Nur Sofia Izatul Ain, quite pretty too with all the flowers, right — the recipient probably feels it's their right, since it's being given to them anyway. I remember back in the kampung, when people used to scatter money, right — there were people, I grew up hearing answers from kampung folks like that — "he's already willing to give it, even if he doesn't give it, it's still good that he did."
 
 See, they don't realise, first, they should ask where that money actually came from, because politicians don't have that much money [of their own]. So the money must come from a questionable source — they can't use government money because government money would definitely get exposed, and they'd end up in jail. So it's under-the-table money. That under-the-table money is very likely bribe money. So if we think about it rationally — and this is a development, an ongoing process in our society — there will be people who feel "as long as I get something, I don't care where he got the money, corruption doesn't concern me." But they don't realise that once corruption takes root, they're also the ones who complain — "oh why are the tolls so expensive, why is this and that" — about everything the government spends on. A project that should cost RM100 million ends up costing RM120 million, because they need to cover that [extra cost], right.
 
@@ -188,27 +189,27 @@ And if we peel back the layers, examining this more deeply from a moral standpoi
 
 **Speaker 2:** Taking away other people's rights?
 
-**Rafizi Ramli:** Yes, if we accept bribery, it takes away someone else's rights, because that money is stolen, that money was supposed to go to someone else who deserves it more. So if you ask me, voting really is our responsibility. And we need to understand that if we don't vote, and the leader or government that gets chosen does something we don't like, that's really our own fault. So it's every citizen's responsibility to vote, to be able to choose a government that truly serves our interests, not one that just gives us money. If it's like this, then there's no need for political parties at all — just let the richest people become politicians, they scatter money, they win. But it's really true, look at how "beria" this is — I don't understand why the people sharing this don't feel any sense of wrongdoing at all. "Vote in Batu Pahat, live in JB, vote in Batu Pahat, get RM50, guys." Wow. Well, as they say —
+**Rafizi:** Yes, if we accept bribery, it takes away someone else's rights, because that money is stolen, that money was supposed to go to someone else who deserves it more. So if you ask me, voting really is our responsibility. And we need to understand that if we don't vote, and the leader or government that gets chosen does something we don't like, that's really our own fault. So it's every citizen's responsibility to vote, to be able to choose a government that truly serves our interests, not one that just gives us money. If it's like this, then there's no need for political parties at all — just let the richest people become politicians, they scatter money, they win. But it's really true, look at how "beria" this is — I don't understand why the people sharing this don't feel any sense of wrongdoing at all. "Vote in Batu Pahat, live in JB, vote in Batu Pahat, get RM50, guys." Wow. Well, as they say —
 
 **Speaker 2:** The one giving it out didn't even ask who they voted for, as long as they came to claim it at the party centre, that's enough. Like that, they feel it's really their right.
 
-**Speaker 3:** But usually this kind of thing means you have to go specifically to that party.
+**Farhan (Pa'an):** But usually this kind of thing means you have to go specifically to that party.
 
 **Speaker 2:** Yes, yes, true, true. Ha ha ha.
 
-**Rafizi Ramli:** But it's fairly common, I've mentioned this before — there really are people who come on polling day, to me personally, I happened to be at the campaign centre, a woman came and said, "I want to vote, is there any petrol money?" No. I'm sure I didn't get her vote then, right. But it really is a culture.
+**Rafizi:** But it's fairly common, I've mentioned this before — there really are people who come on polling day, to me personally, I happened to be at the campaign centre, a woman came and said, "I want to vote, is there any petrol money?" No. I'm sure I didn't get her vote then, right. But it really is a culture.
 
-**Speaker 3:** How do we get rid of this culture?
+**Farhan (Pa'an):** How do we get rid of this culture?
 
-**Rafizi Ramli:** That's why, if I have any frustration about the MACC, about Datuk Seri Anwar previously, it's because this culture of money among politicians must be fought against as fiercely as possible, because that's the root cause of it. If no one gives, then this wouldn't exist.
+**Rafizi:** That's why, if I have any frustration about the MACC, about Datuk Seri Anwar previously, it's because this culture of money among politicians must be fought against as fiercely as possible, because that's the root cause of it. If no one gives, then this wouldn't exist.
 
 **Speaker 2:** True indeed.
 
-**Rafizi Ramli:** It starts because people give, and people give because we turn a blind eye — whether it's corruption or not, we always find an excuse. If it's someone else, we go after them; if it's our friend, it's fine. The excuse is, "oh, political parties really need money." But if the need for money is, say, to pay rent, or when going down to the ground you need to rent a hall or provide some food, I understand that. But things like that don't require handing out millions — the reason it costs millions is because they distribute money like this, paying per head, say RM200 per person. And we all know the major parties in Malaysia all do this. There's already proof, it's all there — in the last general election, there were people who even said, "I've received it, wallahi I'll vote for that one." Everyone saying "wallahi," and they can laugh and smile about it. "Wallahi I'll vote for that one," all of them. They might say, "it's up to me who I want to vote for." But there are two questions they never ask: where does this money come from? If they asked that question, they'd know this is under-the-table money, bribery money. And the next question: what's the ruling on me consuming bribery money, because it takes away someone else's rights. But it's just us making noise about this on the podcast — nobody else cares.
+**Rafizi:** It starts because people give, and people give because we turn a blind eye — whether it's corruption or not, we always find an excuse. If it's someone else, we go after them; if it's our friend, it's fine. The excuse is, "oh, political parties really need money." But if the need for money is, say, to pay rent, or when going down to the ground you need to rent a hall or provide some food, I understand that. But things like that don't require handing out millions — the reason it costs millions is because they distribute money like this, paying per head, say RM200 per person. And we all know the major parties in Malaysia all do this. There's already proof, it's all there — in the last general election, there were people who even said, "I've received it, wallahi I'll vote for that one." Everyone saying "wallahi," and they can laugh and smile about it. "Wallahi I'll vote for that one," all of them. They might say, "it's up to me who I want to vote for." But there are two questions they never ask: where does this money come from? If they asked that question, they'd know this is under-the-table money, bribery money. And the next question: what's the ruling on me consuming bribery money, because it takes away someone else's rights. But it's just us making noise about this on the podcast — nobody else cares.
 
 **Speaker 2:** So that's why, if someone asks, how do we stop all this, right? The question is the same — can this practice be stopped or not?
 
-**Rafizi Ramli:** That's not in our hands.
+**Rafizi:** That's not in our hands.
 
 **Speaker 2:** Hmm.
 
@@ -258,7 +259,7 @@ And if we peel back the layers, examining this more deeply from a moral standpoi
 
 **Speaker 1:** Right, he's not here. Statement — oh you couldn't find his, why isn't there a visual of him. Visual didn't make it in time, right? Well, never mind, let's move straight to the "life is hard" segment I guess.
 
-**Speaker 3:** Workout's done, our team lost, so never mind.
+**Farhan (Pa'an):** Workout's done, our team lost, so never mind.
 
 **Speaker 2:** The thing being said is, Malaysia becoming World Cup host.
 
@@ -268,11 +269,11 @@ And if we peel back the layers, examining this more deeply from a moral standpoi
 
 **Speaker 1:** They all went into hiding shortly after the Johor state election, right, while we kept podcasting even after losing our deposit.
 
-**Speaker 3:** And there were also several statements from AMK repeating, right, Angkatan Muda Keadilan, that commented a lot about Rafizi and company. But...
+**Farhan (Pa'an):** And there were also several statements from AMK repeating, right, Angkatan Muda Keadilan, that commented a lot about Rafizi and company. But...
 
 **Speaker 2:** They keep repeating this...
 
-**Speaker 3:** Same thing, boring, so we didn't want to include it.
+**Farhan (Pa'an):** Same thing, boring, so we didn't want to include it.
 
 **Speaker 1:** If we included it, we'd be making our own talk seem overly enthusiastic. Why? That would put us on the same level as political analysts, lecturers at universities in northern Malaysia, commenting on all these AMK statements. So don't lower our standing, our importance. But if we had to pick one...
 
@@ -310,7 +311,7 @@ And if we peel back the layers, examining this more deeply from a moral standpoi
 
 **Speaker 2:** Usually, the companies I understand, there's a concept that's usually tech-based. Not necessarily, but from observation nowadays it's mostly like that, based on this report. And like this E-fishery, they do aquaculture — oh no, aqua...
 
-**Speaker 3:** Aquaculture.
+**Farhan (Pa'an):** Aquaculture.
 
 **Speaker 2:** It's quite interesting too, because they found that their problem statement is — 70% wastage among shrimp and fish farmers comes from feed. So if we could track using sensors exactly how much feed is actually needed, we could save the business a lot of money. So the original concept of E-fishery was like modern farming, right.
 
@@ -340,7 +341,7 @@ Of course, you wish that most startups could become like Google, because Google 
 
 **Speaker 1:** He needs to find someone whose risk appetite — meaning risk appetite in Malay, what is it — let's just say risk tolerance level. Appetite means "selera" — risk tolerance. It's not really an "appetite" for risk, it's their risk tolerance, and it's very high. Meaning if he gives RM100,000, he already knows that 99% of that RM100,000 will be lost, because he's giving it to a kid — "I like the idea," a kid who seems to have no track record at all, but seems to really want to do it. Like Airbnb back then — right, the idea of competing with hotels, renting out our rooms, turning our whole house into a hotel? Imagine when two founders go meet the first few VCs, most people wouldn't be convinced, right? So VCs or Venture Capital Firms are firms that collect money from people who say, "you put your money in my fund, I want to raise 100 million first, so you put it in, in 5 years when we're done and we close this fund, you'll get a 20% return." So you're not investing directly in the company — you're investing in the fund. That's why there needs to be a firm called a VC firm, because the people giving the money aren't the ones going out to find all these companies — it's this VC firm.
 
-**Speaker 3:** Oh, so these are people who invest in the VC?
+**Farhan (Pa'an):** Oh, so these are people who invest in the VC?
 
 **Speaker 1:** Yes, yes, yes, the VC firm isn't using its own money.
 
@@ -370,15 +371,15 @@ So Kuap started investing in e-Fishery in July 2023 — that was for Series D, f
 
 So, back to Gibran, and back to our earlier discussion about startups — why they need to scale up, why they need to kill off everyone, fundraising and so on. So what actually happened that led e-Fishery to become like this? Gibran made a confession in a Bloomberg interview — that happened a while ago, that was after talk events.
 
-**Speaker 3:** Oh, ok — so they cooked the books? They inflated their figures to look attractive to investors?
+**Farhan (Pa'an):** Oh, ok — so they cooked the books? They inflated their figures to look attractive to investors?
 
 **Speaker 2:** Basically that's it.
 
-**Rafizi Ramli:** True, but not entirely accurate. What happened was this — a cash flow issue. There was one set of books they kept among themselves. That one showed the actual performance. For example, I think he claimed there were 400 thousand people who had bought and used his e-Fishery. The real figure, I think, was 24 thousand. 24 thousand. So the 24 thousand is what's in his real account books. That one covers salaries, losses, everything. He knew all of that. That's why it's fraud. That's what Anwar said — being deceived. So he had that book, but by 2018 — and that's around the time — 500 Global started coming in, and Malaysian funds became indirectly involved in e-Fishery. I think by 2018, if I'm not mistaken based on media reports, and I followed this fairly closely — I'm a startup founder, I find this fascinating — I think they were already running out of cash. Because remember earlier, a startup needs to burn cash to kill others in order to scale up. By 2018 they were already running out of cash, and that's when the two sets of account books came about. So the correct set, the one showing actual losses, the RM24,000 figure, unable to grow, that one they kept among themselves. But what was officially reported to investors, they started creating a new set of account books. And how did he cheat? He created a Shell Company.
+**Rafizi:** True, but not entirely accurate. What happened was this — a cash flow issue. There was one set of books they kept among themselves. That one showed the actual performance. For example, I think he claimed there were 400 thousand people who had bought and used his e-Fishery. The real figure, I think, was 24 thousand. 24 thousand. So the 24 thousand is what's in his real account books. That one covers salaries, losses, everything. He knew all of that. That's why it's fraud. That's what Anwar said — being deceived. So he had that book, but by 2018 — and that's around the time — 500 Global started coming in, and Malaysian funds became indirectly involved in e-Fishery. I think by 2018, if I'm not mistaken based on media reports, and I followed this fairly closely — I'm a startup founder, I find this fascinating — I think they were already running out of cash. Because remember earlier, a startup needs to burn cash to kill others in order to scale up. By 2018 they were already running out of cash, and that's when the two sets of account books came about. So the correct set, the one showing actual losses, the RM24,000 figure, unable to grow, that one they kept among themselves. But what was officially reported to investors, they started creating a new set of account books. And how did he cheat? He created a Shell Company.
 
 And this isn't much different from what we ourselves went through in Malaysia — the Serba Dinamik case. I don't even understand our own people on this. Our people going on about this RM200 million Kuap thing, making a huge fuss about it worldwide now. Not that I'm defending Anwar Ibrahim or the government or anything, I'm trying to be as objective as possible. And I'm uncomfortable if this matter is turned into a mere political football without us actually solving the problem. Otherwise, it will happen again in the future.
 
-**Rafizi Ramli:** Do you remember Serba Dinamik? Its collapse happened during the PN administration — which had UMNO in it, BERSATU in it, Wawasan in it, PAS in it. Money from PNB — unit trust funds, you know, I think PNB's money was close to 4 billion in there — plus money from Tabung Haji, EPF money, I don't know how much went into Serba Dinamik. Serba Dinamik did the same thing — shell companies and fictitious invoices. In the Serba Dinamik case back then, when the SC went to seize evidence, there were fake Petronas chops, all of that. So the same thing happened with e-Fishery — it invoiced those companies, so it looked fine, but the transaction didn't actually exist. The sales never happened. So in the end the money was never really there, but the financial statements kept showing sales, revenue going up and all that. It only ended when there was an internal whistleblower. After keeping 2 separate books for 4-5 years, an internal whistleblower went and told a board member, then all hell broke loose. That's what led to where we are now.
+**Rafizi:** Do you remember Serba Dinamik? Its collapse happened during the PN administration — which had UMNO in it, BERSATU in it, Wawasan in it, PAS in it. Money from PNB — unit trust funds, you know, I think PNB's money was close to 4 billion in there — plus money from Tabung Haji, EPF money, I don't know how much went into Serba Dinamik. Serba Dinamik did the same thing — shell companies and fictitious invoices. In the Serba Dinamik case back then, when the SC went to seize evidence, there were fake Petronas chops, all of that. So the same thing happened with e-Fishery — it invoiced those companies, so it looked fine, but the transaction didn't actually exist. The sales never happened. So in the end the money was never really there, but the financial statements kept showing sales, revenue going up and all that. It only ended when there was an internal whistleblower. After keeping 2 separate books for 4-5 years, an internal whistleblower went and told a board member, then all hell broke loose. That's what led to where we are now.
 
 Now let's go back to how Kuat's involvement worked — not Visifem. Kuat, as an institutional investor, has a risk appetite, has what's called asset allocation — it allocates a certain percentage of its fund here. Their asset allocation is usually very low risk. That's why, usually, whether it's EPF, Kuat, or even PNB, most of it is in fixed income, in bonds. If there's any at all, it's in money market instruments. And another portion is equity — and that equity is mostly in the stock market. They very rarely invest in unquoted shares, private limited companies, let alone startups. So there are several things that need scrutiny — if they are investigated, these are the matters that need to be looked into.
 
@@ -392,13 +393,13 @@ That's one thing, at the highest level. At the second level, usually with a VC f
 
 **Speaker 2:** From the public's side, we need to push the government to disclose the extent of due diligence that was carried out.
 
-**Rafizi Ramli:** How would an audit review work — the public doesn't even understand it. These are very detailed financial statements, and they'll definitely say all this is bound by an NDA, a non-disclosure agreement. Once you sign all that, everything's under NDA, you can't disclose it. Well, okay — before we move on, we've spent almost an hour talking about this, before we move to the bigger issue of culture, of governance and so on.
+**Rafizi:** How would an audit review work — the public doesn't even understand it. These are very detailed financial statements, and they'll definitely say all this is bound by an NDA, a non-disclosure agreement. Once you sign all that, everything's under NDA, you can't disclose it. Well, okay — before we move on, we've spent almost an hour talking about this, before we move to the bigger issue of culture, of governance and so on.
 
 To the government — it's funny because I think Tan Sri Azam Baki said more or less the same thing I said. So it looks like I agree with Tan Sri Azam Baki. But actually, unless a criminal element can be proven — and that's true, Gibran has already gone to prison, 9 years for fraud — but the liability from being defrauded doesn't really give much recourse to the Malaysian government from e-Fishery. After all, e-Fishery is finished, the company, the money is gone. At most, Kuat might consider a few things. One, suing the auditor — similar to the 1MDB case, where KPMG and Deloitte were sued, and eventually settled out of court. KPMG paid close to 300 million, I think. So the Malaysian government, Kuat, could try to sue. I don't know who e-Fishery's auditor was, but they could sue to try to get some compensation. The problem is the auditor is an auditor in Indonesia, not here. So you'd have to fight it in Indonesian courts. Also, I don't think — financial reporting standards, of course, need to follow international standards, but every country is different. Commercial law is different, company law is different, but I'm sure Kuat needs to carefully study what it can pursue. The other thing is, if they relied on other people's due diligence...
 
-**Speaker 3:** Hmm.
+**Farhan (Pa'an):** Hmm.
 
-**Rafizi Ramli:** Then they have two avenues for recourse. There must be internal recourse — if due diligence wasn't done properly, or if they relied on confirmation or support from other investors, whether Temasek, Softbank, 500 Global, North Star, all of them — then they have to look into that. But usually, commercial agreements will have a disclaimer — "we are not liable for whatever decision you make based on our report." But if there's a third party they relied on to make this investment decision, then they can pursue it commercially through legal means, to try to make sure that party is held liable. But beyond that, it's not easy, that's just how it is.
+**Rafizi:** Then they have two avenues for recourse. There must be internal recourse — if due diligence wasn't done properly, or if they relied on confirmation or support from other investors, whether Temasek, Softbank, 500 Global, North Star, all of them — then they have to look into that. But usually, commercial agreements will have a disclaimer — "we are not liable for whatever decision you make based on our report." But if there's a third party they relied on to make this investment decision, then they can pursue it commercially through legal means, to try to make sure that party is held liable. But beyond that, it's not easy, that's just how it is.
 
 So that's why we need to go back to the broader issue of governance and culture, so that this doesn't happen again. Alright — why does this happen? Even if, for example, due diligence was done perfectly, properly, this will still happen in the future. Why? Because we don't know how to pinpoint who is in charge or accountable for it. Because in our culture, we don't have a culture of accountability — a culture of people taking responsibility. If this happened in Japan or Korea, or maybe China, and also in European countries, someone would have already resigned. Have we heard of anyone resigning yet, from Kuat itself? No. No one. That's why there's pressure for Tan Sri Johan Mahmud Marikan, as chairman of Kuat, to resign.
 
@@ -422,9 +423,9 @@ Well, if that culture doesn't exist, we'll always come back to cases like Tabung
 
 **Speaker 1 (Rafizi Ramli):** No, that's what becomes a national problem. So our national problem, when it comes to tax issues and so on, we're very far behind. Our funding scene — there's a word for it, it's not "funding scene," I've forgotten what it's called. Our funding is very thin. Money raised in Malaysia is most probably one-twentieth or even lower than what is being raised, meaning the funds available in Singapore for startups in Singapore, or Indonesia, or Vietnam — most probably 20-30 times bigger than what's available in Malaysia. Wealthy businesses here just chase government projects. They get one tender, one concession, 3 billion over 10 years, and they chase that. They don't want to invest in young people with the mindset of "if I give 100 thousand, maybe in 10 years this company could become worth 1 billion." So, "okay I give you a check" — it's not like the stories we see in the US, how Google started, how Mark Zuckerberg started, because Mark Zuckerberg was among the earliest funders from the PayPal Mafia — just writing a cheque.
 
-**Speaker 3:** But... doesn't this also relate to Malaysia's risk appetite? Because Malaysians technically — I don't know, culturally we're lacking, maybe.
+**Farhan (Pa'an):** But... doesn't this also relate to Malaysia's risk appetite? Because Malaysians technically — I don't know, culturally we're lacking, maybe.
 
-**Rafizi Ramli:** Yes, that's what we always call a structural problem in our economy. Because for example in Malaysia, big companies, all the GLCs — the smart kids, straight out of school, with good results, get scholarships, go abroad, come back wearing a tie, sit in Menara 118 or some fund there. So in Malaysia our culture is that if you want to succeed, you work for the biggest and safest company, and you wait 20 years to get a good salary and rise up the ranks. That's it. That's why there's no innovation, because there's no competition. Because our economy is dominated by large companies, usually MNCs or GLCs, and people scramble to get jobs there. Whereas in economies like China, the US, Europe, actually a lot of smart people don't want to work like that. They'll say, "okay I'd rather work on a solution and build my company," and they can do that because of funding availability — there's enough VC, enough engineers and so on. We don't have any of that.
+**Rafizi:** Yes, that's what we always call a structural problem in our economy. Because for example in Malaysia, big companies, all the GLCs — the smart kids, straight out of school, with good results, get scholarships, go abroad, come back wearing a tie, sit in Menara 118 or some fund there. So in Malaysia our culture is that if you want to succeed, you work for the biggest and safest company, and you wait 20 years to get a good salary and rise up the ranks. That's it. That's why there's no innovation, because there's no competition. Because our economy is dominated by large companies, usually MNCs or GLCs, and people scramble to get jobs there. Whereas in economies like China, the US, Europe, actually a lot of smart people don't want to work like that. They'll say, "okay I'd rather work on a solution and build my company," and they can do that because of funding availability — there's enough VC, enough engineers and so on. We don't have any of that.
 
 On one hand, structurally, our economy, the government to this day, doesn't want to loosen the dominance of these big companies because we don't want to take risks with small companies. And for the small companies that do exist, they know how they're supposed to compete — because even if you enter a tender, you won't get paid, you're definitely not going to win, it's a waste of time, it's already been arranged among themselves — and then it comes down to corruption. When you don't have a clean business environment, when tender competition is still influenced by corruption, connections and so on, why bother working like this — you don't even know if you'll eat properly, all for the promise of a future — better to work at Maybank, feels great, salary of RM7,000 a month, can drive a car and everything. So because of that, it becomes chicken-and-egg. We're very far behind compared to our region, compared to the three main countries — which are Singapore, Thailand, and Vietnam.
 
@@ -442,7 +443,7 @@ So unless we succeed in changing our economic structure so that competition impr
 
 **Speaker 2:** I don't think the second one is that long. I'm not sure, maybe a bit more — the issue with these small companies is that it's been business as usual for the past 10-20 years. Maybe YB can tell us, does the government have a transition roadmap in mind, or...
 
-**Rafizi Ramli:** Policy for all these GLCs is under the Ministry of Finance — don't come to me, even if you call Khazanah, they won't really entertain you either, they know the boss is the Prime Minister, and Amir Hamzah can barely do anything — "don't touch it, you'll get scolded, just play it safe." You understand lah. So that's the problem. So in the end, it's business as usual anyway.
+**Rafizi:** Policy for all these GLCs is under the Ministry of Finance — don't come to me, even if you call Khazanah, they won't really entertain you either, they know the boss is the Prime Minister, and Amir Hamzah can barely do anything — "don't touch it, you'll get scolded, just play it safe." You understand lah. So that's the problem. So in the end, it's business as usual anyway.
 
 And that's why what we need is — culture. That's why I always emphasize the culture of power, the culture of power, the culture of power. Because everyone looks up to the Prime Minister and those at the top. If the Prime Minister or those at the very top appear lax about accountability, about performance and so on — if whoever is friendly with him, smiles at him, gets a smile back, and then — then you are in trouble.
 
@@ -454,25 +455,25 @@ So basically, all this eFishery stuff, Tabung Haji, network schools — there'll
 
 **Speaker 2:** Okay, alright. We —
 
-**Rafizi Ramli:** An hour and a half.
+**Rafizi:** An hour and a half.
 
 **Speaker 2:** Two hours total. We have an hour left. Let's look at the last one — maybe a bit of politics, about how long the unity government will last. That's another one. I think...
 
-**Rafizi Ramli:** This one, I feel sorry for PH too. If people make it seem like PH is still hopeful — they're not hopeful at all, they're not hoping for anything. Anwar Ibrahim has announced he'll reveal the Tabung Haji RCI report. Where did that idea suddenly come from? Did he watch a ceramah about CYB? I don't know, but the people — maybe it's a player. I had already planned, when I was doing a ceramah in Johor, to bring up the Tabung Haji RCI story, so as to needle Anwar a bit. I'm sure there are people around him within PH who said "that's actually a really good idea, good idea." So suddenly, out of nowhere, the government has actually already approved, already agreed to disclose it. So this is actually what we want to discuss — how much longer the government will...
+**Rafizi:** This one, I feel sorry for PH too. If people make it seem like PH is still hopeful — they're not hopeful at all, they're not hoping for anything. Anwar Ibrahim has announced he'll reveal the Tabung Haji RCI report. Where did that idea suddenly come from? Did he watch a ceramah about CYB? I don't know, but the people — maybe it's a player. I had already planned, when I was doing a ceramah in Johor, to bring up the Tabung Haji RCI story, so as to needle Anwar a bit. I'm sure there are people around him within PH who said "that's actually a really good idea, good idea." So suddenly, out of nowhere, the government has actually already approved, already agreed to disclose it. So this is actually what we want to discuss — how much longer the government will...
 
 **Speaker 2:** Last. And maybe we need to observe several manipulated variables that exist, to form a hypothesis on how long it will last. I mean — oh sorry, that sounds too scientific.
 
-**Rafizi Ramli:** I don't even understand it myself.
+**Rafizi:** I don't even understand it myself.
 
 **Speaker 2:** Sorry, sorry. Yeah, there are several variables we're looking at to estimate how long it can hold on. Where did Chopper go?
 
-**Speaker 3:** He's — meow. Oh —
+**Farhan (Pa'an):** He's — meow. Oh —
 
-**Rafizi Ramli:** Okay, alright.
+**Rafizi:** Okay, alright.
 
-**Speaker 3:** Oh, over there — I don't know why, but he really likes to —
+**Farhan (Pa'an):** Oh, over there — I don't know why, but he really likes to —
 
-**Rafizi Ramli:** Sleep on my keyboard. Hmm. Yes, the staff who feed him — I gave instructions for him to be fed, just feed him. So Chopper is smart, he knows — this is a politician, all talk, doesn't actually feed me. Hmm... Well, okay.
+**Rafizi:** Sleep on my keyboard. Hmm. Yes, the staff who feed him — I gave instructions for him to be fed, just feed him. So Chopper is smart, he knows — this is a politician, all talk, doesn't actually feed me. Hmm... Well, okay.
 
 So let's take stock, actually, of what's happening right now. Last week was heated, to the point of daring each other to resign. It started, I believe, with Kamil Munim, Head of AMK, who asked that ministers or BN parties leave the government. Then it was followed up by — by the Head of PH Youth as well saying something similar, PH Youth Movement also said something like that. But the one most widely quoted was the Prime Minister's rebuke, Datuk Seri Anwar — that if you attack the federal government, ministers should resign. So that means, the message and challenge to resign was actually planned and orchestrated from the PH side, from the PM's side himself. The fact that the PM said it, and it started with Kamil first, then PH Youth Movement, then the PM himself spoke — that means this was a coordinated thing, not something handed to the PM, not the PM misspeaking out of emotion. It was coordinated, and that's what we need to establish.
 
@@ -484,19 +485,19 @@ Throughout all this, I haven't even thought about answering that question — it
 
 There are several situations and several rumors, and lots of political theories — even though, yes, sometimes rumors in Malaysia are never confirmed, but usually when there's a rumor, it means it came from credible sources. It's just that when it's passed along layer by layer, the original version eventually becomes a different version. If you look at Datuk Seri Zahid, he said today, after all the pantun exchanges, that BN will continue to support this government until the next general election — meaning until the end of this term, until it's dissolved, until the next general election. Try reading that, read between the lines — what does that mean? He's right when he told me it's simple — copy paste and sleep. Ha, between the lines eh. That's up to interpretation. What did he say again? Sorry.
 
-**Speaker 3:** Sorry.
+**Farhan (Pa'an):** Sorry.
 
-**Rafizi Ramli:** He said — yesterday. Yesterday. He said that BN will support this Madani government until the end of the term. And he doesn't want to be associated with attempts to bring down the roof or the "Dubai move" and so on. Try reading in between —
+**Rafizi:** He said — yesterday. Yesterday. He said that BN will support this Madani government until the end of the term. And he doesn't want to be associated with attempts to bring down the roof or the "Dubai move" and so on. Try reading in between —
 
-**Speaker 3:** So that means... he wants to call for snap elections. The next election, after that election. Oh, during that election there's definitely no — no friendship there.
+**Farhan (Pa'an):** So that means... he wants to call for snap elections. The next election, after that election. Oh, during that election there's definitely no — no friendship there.
 
 **Speaker 2:** No, ok. When does this current term end?
 
-**Rafizi Ramli:** End of next year. That's if nothing else happens.
+**Rafizi:** End of next year. That's if nothing else happens.
 
 **Speaker 2:** How is a parliamentary term defined? Is it three times a year?
 
-**Rafizi Ramli:** No, no, no, no. What I mean is, one term of the Dewan Rakyat, one parliamentary term, is defined from one election to the next upcoming election. In August, what Zahid said is correct — he'll support this government until the end of this term. This term — we don't have a fixed parliamentary term. We're not like some other countries that have a fixed term — where 5 years runs from date A to date B, we don't have that. The term is defined by when the next election happens. So it's open to interpretation, genuinely open-ended. So it wouldn't be wrong for BN to be planning things with PN after each state election in this series, since it's also a matter of perception among political parties. Because the kingmakers here are Sabah and Sarawak, GPS and GRS. So if GPS and GRS see confirmation — after one election after another in this planned series — that BN is getting stronger and winning more, and that BN-PN might become the federal government, then they might say, "okay then, we'll go along with BN-PN," because it looks nearly impossible for PH to return as government.
+**Rafizi:** No, no, no, no. What I mean is, one term of the Dewan Rakyat, one parliamentary term, is defined from one election to the next upcoming election. In August, what Zahid said is correct — he'll support this government until the end of this term. This term — we don't have a fixed parliamentary term. We're not like some other countries that have a fixed term — where 5 years runs from date A to date B, we don't have that. The term is defined by when the next election happens. So it's open to interpretation, genuinely open-ended. So it wouldn't be wrong for BN to be planning things with PN after each state election in this series, since it's also a matter of perception among political parties. Because the kingmakers here are Sabah and Sarawak, GPS and GRS. So if GPS and GRS see confirmation — after one election after another in this planned series — that BN is getting stronger and winning more, and that BN-PN might become the federal government, then they might say, "okay then, we'll go along with BN-PN," because it looks nearly impossible for PH to return as government.
 
 If they withdraw support — the question of BN withdrawing support now, it doesn't have much bite if GPS, GRS, and the independents don't follow along. There are still 1-2 vacant seats, right? Out of 1-5-0 how many, wanting 30-something? 1-2 vacant. And the simple majority now, I think it's 1-1-0. Close to 1-1-1? 1-1-1, minus the 2 of us, me and Nik, that's 1-1-1. There's still a buffer of 9. So unless BN and PN succeed in showing and convincing, and also scaring GPS and GRS into believing that they'll win big in the coming general election, and that it's in their best interest to take sides with them now — it's not so easy for BN to just withdraw support. That's one possible outcome... one possibility.
 
@@ -504,11 +505,11 @@ Another possibility is if, for example, the results in Negeri Sembilan or Melaka
 
 **Speaker 2:** What's the third possibility? Cooperation with PAS — is the PN-BN cooperation not going too smoothly?
 
-**Rafizi Ramli:** Yes, that's a possibility. Because in the last day or two there have already been signs of discomfort, or major disagreements. When Dato' Sri Hamzah cleverly went ahead and announced "Perikatan Barisan Nasional." So some BN people said, "wow, he just had the Wawasan party for a short while, and now he's easily slapping the word 'Perikatan' in front." Nasional Perikatan, or BNP — at least it sounds a bit like a bank, BNP Paribas — Barisan Nasional Perikatan. But he cleverly said "Perikatan Barisan Nasional." So the UMNO President stood up, the Menteri Besar wasn't too pleased either, and the secretary-general said there had been no discussion on this yet. Dato' Sri Zahid's answer was that this was only for Negeri Sembilan. Then Datuk Seri Hamzah went and announced something else about the MB.
+**Rafizi:** Yes, that's a possibility. Because in the last day or two there have already been signs of discomfort, or major disagreements. When Dato' Sri Hamzah cleverly went ahead and announced "Perikatan Barisan Nasional." So some BN people said, "wow, he just had the Wawasan party for a short while, and now he's easily slapping the word 'Perikatan' in front." Nasional Perikatan, or BNP — at least it sounds a bit like a bank, BNP Paribas — Barisan Nasional Perikatan. But he cleverly said "Perikatan Barisan Nasional." So the UMNO President stood up, the Menteri Besar wasn't too pleased either, and the secretary-general said there had been no discussion on this yet. Dato' Sri Zahid's answer was that this was only for Negeri Sembilan. Then Datuk Seri Hamzah went and announced something else about the MB.
 
 **Speaker 2:** He announced who would be MB? Jalal — because he was at Jalal's ceramah, so he just announced it right there. He said the likely candidate for MB.
 
-**Rafizi Ramli:** He didn't need to announce that one, Jalal has already been announced for years, everyone already knows. It'd be different if he announced that Dato' Sri Jalaluddin would become Deputy Prime Minister after this — that would be a different story. But these signs — I mean, these aren't trivial signs — this BN-PN cooperation, even though to their supporters it all looks smooth and nice, behind the scenes, among the leadership themselves, it won't be that smooth. And that's without even getting into the PAS story yet.
+**Rafizi:** He didn't need to announce that one, Jalal has already been announced for years, everyone already knows. It'd be different if he announced that Dato' Sri Jalaluddin would become Deputy Prime Minister after this — that would be a different story. But these signs — I mean, these aren't trivial signs — this BN-PN cooperation, even though to their supporters it all looks smooth and nice, behind the scenes, among the leadership themselves, it won't be that smooth. And that's without even getting into the PAS story yet.
 
 Because there are several versions of this. One version is about an informal agreement — you know, like that "Piram Lee" story — one for you, one for me, one for you, one for me. Imagine, Zahid and Hadi playing "one for you, one for me" — so Johor for me, right? Negeri Sembilan for me, Melaka for me — okay, three, right, okay, that's fine. Kelantan for me, Terengganu for me, Kedah for me, Perlis for me — okay, three, four, three, still fine. Then we come to Pahang — this raises the President's issue, Zahid would say, how should it be — "Pahang for you, or Pahang for me?" Already getting difficult. Then further along, Selangor — everyone fighting over Selangor, "is this Selangor for you or for me?" Perak. That's one layer. The layer even deeper down, at the bottom — for example, the UMNO Terengganu leadership. Even if the UMNO and BN leadership at the top level have agreed "one for you, one for me" — Terengganu for you, PAS, right — the leadership below would say, "how can you just casually give Terengganu to PAS, what does that even mean? Will PAS get everything? Will UMNO only contest 3 seats, 5 seats, 6 seats? How many is PAS willing to give?" PAS in turn says, "don't talk too much, in Terengganu there are 32 seats, you have none, I want — I'll only give you two seats." So it's not easy. In Kelantan, in Kedah, in Perak — so this road is still long.
 
@@ -516,7 +517,7 @@ Because of this, based on all this, it's highly likely that Dato' Sri Anwar will
 
 **Speaker 2:** YB, right, let's mix it up a bit. How much time do we have left — continuing on GPS, GRS. What benefit is there for GPS and GRS to stay in this unity government, [rather than] break off together with BN, since they are indeed old friends?
 
-**Rafizi Ramli:** Hmm. Right, it depends on GPS and GRS. I don't know — I have no contact at all with GPS, with GRS, I really don't know. I've never discussed politics with other parties. That's also what I remember about everyone in politics within the previous government — whether PH or BN — they probably find it hard to get into this round. I mean, to be fair, I'm friendly with everyone, I think I get along so well with everyone. I don't have quarrels with anyone or anything, everything's fine. It's just that, I suppose our professional culture is different. I don't discuss politics with other parties or other ministers, because to me the unity government we have is the result of necessity. It's not as if we were told to merge. From the start I knew that so long as I do my job as entrusted, you do your job, we set our parties aside. So you shouldn't wear your party hat while in government. Because of that, I really never discussed it at all and never had any exchange of ideas or political moves or strategy. So I don't know what GPS and GRS are thinking.
+**Rafizi:** Hmm. Right, it depends on GPS and GRS. I don't know — I have no contact at all with GPS, with GRS, I really don't know. I've never discussed politics with other parties. That's also what I remember about everyone in politics within the previous government — whether PH or BN — they probably find it hard to get into this round. I mean, to be fair, I'm friendly with everyone, I think I get along so well with everyone. I don't have quarrels with anyone or anything, everything's fine. It's just that, I suppose our professional culture is different. I don't discuss politics with other parties or other ministers, because to me the unity government we have is the result of necessity. It's not as if we were told to merge. From the start I knew that so long as I do my job as entrusted, you do your job, we set our parties aside. So you shouldn't wear your party hat while in government. Because of that, I really never discussed it at all and never had any exchange of ideas or political moves or strategy. So I don't know what GPS and GRS are thinking.
 
 But — let's say we were in their position. Let's start with Sarawak. Sarawak previously had PBB, then we had PRS, then we had SPDP, then we had SUPP. All of these are the BN Sarawak coalition that used to be part of Barisan Nasional. They left BN in 2018, after Najib lost. So they still remember the era when UMNO was very dominant. And PBB had to submit to UMNO. And the Chief Minister of Sarawak back then, even though he held power, had to submit to the Prime Minister. And the Chief Minister of Sarawak was treated the same as other Chief Ministers. Sometimes it's different under Anwar — the Chief Minister of Sarawak now holds a higher standing. Then he gets a lot from the government under Dato' Sri Anwar, whether in terms of allocations, or in terms of federal assets that are now being taken over by Sarawak, by GPS and so on. And they also have money in terms of state income, which is far higher now than before. And another example is the matter of Petros and also Petronas, regarding the management of hydrocarbons in Sarawak.
 
@@ -534,7 +535,7 @@ So unless Dato' Sri Zahid Hamidi says, "okay, I'll sacrifice for UMNO, so I won'
 
 **Speaker 2:** Do you think it can happen?
 
-**Rafizi Ramli:** Not that simple. Not that simple at all. So the funny thing is the grassroots supporters — the BN-PN side is already clapping, "the government will fall, we'll get a new Prime Minister." They haven't even thought about who the new Prime Minister would be, they don't realize that the new Prime Minister will have to fight it out with the people at the top. Then on the PH side, everyone's wailing and moaning, "Oh God, pity us, if this is the last week Dato' Sri Anwar is Prime Minister." Mind you, I read through the threads and all, they actually don't realize the reality. Then there are also those saying "DAP is falling," getting all worked up. Then there are also those, if non-Malays who are staunch DAP supporters, still playing the same tune, "we can't forgive anyone who causes BN-PH or PAS to rise." So I think this drama will drag on, and we'll see how much the public can swallow.
+**Rafizi:** Not that simple. Not that simple at all. So the funny thing is the grassroots supporters — the BN-PN side is already clapping, "the government will fall, we'll get a new Prime Minister." They haven't even thought about who the new Prime Minister would be, they don't realize that the new Prime Minister will have to fight it out with the people at the top. Then on the PH side, everyone's wailing and moaning, "Oh God, pity us, if this is the last week Dato' Sri Anwar is Prime Minister." Mind you, I read through the threads and all, they actually don't realize the reality. Then there are also those saying "DAP is falling," getting all worked up. Then there are also those, if non-Malays who are staunch DAP supporters, still playing the same tune, "we can't forgive anyone who causes BN-PH or PAS to rise." So I think this drama will drag on, and we'll see how much the public can swallow.
 
 Because for me — I'm just young — I hold on to, well, we grew up with the Quranic verse, that Allah does not change the fate of a people unless that people changes it themselves. And if we look at the tradition of the Prophet's biography too, those who brought enlightenment and called for change in society, it was never easy, and usually they didn't win early either. But that doesn't break the spirit, because at some point, if we keep working and praying so that people see, I think there will come a time when the public will see. Actually, none of them have ever discussed how to raise wages, about the economic structure that we discussed at length regarding Kuap earlier — starting from Kuap, it leads to the question of why things have become like this, why Kuap has to go invest in Indonesia, why can't they invest in Malaysia, why don't we even have VC firms until we're forced to depend on foreign companies. They're not interested in any of this.
 
@@ -542,7 +543,7 @@ Two days, a week or two, there'll be new rumors, but for now I think Datuk Seri 
 
 **Speaker 2:** In politics that isn't...
 
-**Rafizi Ramli:** This is like the comparison to the startup story earlier — a new product, meant to solve pain points in something. In terms of the wall, meaning the barrier is high. First, it's a new product, we need to convince people. Second, we don't have resources and we're forced to compete with the big giants. Third, consumers take time to notice something. So we really only have one choice, which is to strengthen the party's foundation from the ground up, then continue bringing enlightenment, building a good track record that distinguishes us from the existing dinosaur political parties. The only question is how long — one year, two years, five years — but at the very least we won't get trapped in this kind of game that flip-flops every week, every two months, and doesn't need to twist its tongue, saying one thing one moment and another the next.
+**Rafizi:** This is like the comparison to the startup story earlier — a new product, meant to solve pain points in something. In terms of the wall, meaning the barrier is high. First, it's a new product, we need to convince people. Second, we don't have resources and we're forced to compete with the big giants. Third, consumers take time to notice something. So we really only have one choice, which is to strengthen the party's foundation from the ground up, then continue bringing enlightenment, building a good track record that distinguishes us from the existing dinosaur political parties. The only question is how long — one year, two years, five years — but at the very least we won't get trapped in this kind of game that flip-flops every week, every two months, and doesn't need to twist its tongue, saying one thing one moment and another the next.
 
 I've noticed a lot of content on my FYP about Ashraf Wajdi. I remember two months ago he appeared on the Lebih Masa YB podcast — was it this one? No, longer ago than that? Oh, longer than that. He tore into PAS half to death as untrustworthy. Now he's over there sucking up to them. So this is the time they feel there's a wave for them to play these games, and, you know, I don't blame them if they feel that they can get away with murder. But every wave recedes. So, you know, waves crash on the shore, they come and go and they recede. So the choice to stay together requires believing that we have an important role to play for society.
 
@@ -564,24 +565,24 @@ Alright, baby. It's been a long time, huh.
 
 **Speaker 2:** 2 hours 45 minutes.
 
-**Rafizi Ramli:** That should be enough, I think. Chopper's getting really restless too, Chopper.
+**Rafizi:** That should be enough, I think. Chopper's getting really restless too, Chopper.
 
 **Speaker 2:** He's restless. He wants... he wants to mate. No way, right.
 
-**Speaker 3:** No, I think he's in heat. Really? Really? Really? Really? Needs to be sent to get neutered. Hasn't he been neutered yet? Street cat. How do you know? Oh, I mean... let's leave his orange bell thing alone for now. Okay, fine.
+**Farhan (Pa'an):** No, I think he's in heat. Really? Really? Really? Really? Needs to be sent to get neutered. Hasn't he been neutered yet? Street cat. How do you know? Oh, I mean... let's leave his orange bell thing alone for now. Okay, fine.
 
-**Rafizi Ramli:** That's all. We don't want to go into Chopper's orange bell. Okay, so God willing we'll meet again for this. We're planning our joint activities in a more organized manner. Then that'll be coordinated with IRL, our YouTube channel will have more organized programs. It won't be ad-hoc like sometimes it's there, sometimes it's not. I'm actually giving Pa'an live instructions right now. Okay.
+**Rafizi:** That's all. We don't want to go into Chopper's orange bell. Okay, so God willing we'll meet again for this. We're planning our joint activities in a more organized manner. Then that'll be coordinated with IRL, our YouTube channel will have more organized programs. It won't be ad-hoc like sometimes it's there, sometimes it's not. I'm actually giving Pa'an live instructions right now. Okay.
 
 **Speaker 2:** So, that's it, YB. Good night. We look forward to further announcements about the Melaka state election and much more. Thank you. See you again. Assalamualaikum.
 
-**Rafizi Ramli:** Happy voting. Haa, happy voting.
+**Rafizi:** Happy voting. Haa, happy voting.
 
 **Speaker 2:** But it's only the first week.
 
-**Rafizi Ramli:** Oh, first week, ok, forgot.
+**Rafizi:** Oh, first week, ok, forgot.
 
 **Speaker 2:** Forgot, forgot.
 
-**Rafizi Ramli:** Next week we'll say the voting cheer. Ok, alright.
+**Rafizi:** Next week we'll say the voting cheer. Ok, alright.
 
 **Speaker 2:** Bye.

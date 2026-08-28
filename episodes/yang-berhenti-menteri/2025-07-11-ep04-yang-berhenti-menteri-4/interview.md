@@ -9,6 +9,7 @@ duration: 1h 51m
 view_count: 61217
 hosts:
 - Rafizi
+- Haziq
 guests:
 - Faiz Ahmad
 topics:
@@ -137,7 +138,7 @@ Model social enterprise yang lebih mutakhir ini lebih baik kerana ia lebih nimbl
 
 **Rafizi:** Ia sepatutnya memang dah ada dalam RMK ke-13, kalau tidak diubah. Di peringkat kami di Kementerian Ekonomi, kita memang menyatakan bahawa pada masa depan kita perlu menghidupkan sektor ketiga ini untuk mengurangkan saiz kerajaan. Jadi memang dah ada. Tapi bila kita tengok, kita tahu banyak perkara yang kerajaan kena buat — undang-undang baru mengenai social enterprise kena dibuat, sokongan daripada kerajaan kena ada. Tapi pada masa yang sama, we have a choice — sama ada nak tunggu kerajaan ambil masa 5-7 tahun untuk prepare semua sebelum betul-betul nak start, atau perkara macam ni boleh terus dihidupkan sementara kerajaan prepare. Sebab selalunya kerajaan dengan proses libat urus dan bangkangannya — bila ada social enterprise, nanti kementerian-kementerian akan bergaduh siapa punya bidang kuasa ini. Ada kementerian kata "aku tak nak buat," ada yang kata "ini bidang kita" — nak selesaikan itu sahaja boleh ambil masa tiga tahun.
 
-Jadi sebab itu saya rasa melalui AYO Malaysia ini — walaupun konsepnya mungkin asing bagi rakyat kita — sebenarnya sebahagiannya memang kami dah buat sesama kami. Puan Wan Roziah contohnya, dia kumpul modal, kemudian dia beli mesin kopek bilis, lepas tu dia sewakan mesin itu pada kadar yang sangat rendah kepada lima-enam orang makcik di kawasannya. Dengan mesin kopek bilis itu, kerja jadi lebih laju, bilis lebih cepat terjual, dan pulangannya cukup untuk membayar pre-profit return yang diperlukan.
+Jadi sebab itu saya rasa melalui AYO Malaysia ini — walaupun konsepnya mungkin asing bagi rakyat kita — sebenarnya sebahagiannya memang kami dah buat sesama kami. Makcik Rodziah contohnya, dia kumpul modal, kemudian dia beli mesin kopek bilis, lepas tu dia sewakan mesin itu pada kadar yang sangat rendah kepada lima-enam orang makcik di kawasannya. Dengan mesin kopek bilis itu, kerja jadi lebih laju, bilis lebih cepat terjual, dan pulangannya cukup untuk membayar pre-profit return yang diperlukan.
 
 **Host:** Dari segi sustainability — sebab ini macam menuju ke arah sosialis, kan?
 

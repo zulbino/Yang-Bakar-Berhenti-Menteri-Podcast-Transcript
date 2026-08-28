@@ -61,7 +61,7 @@ For episodes transcribed with the local ASR fallback (see [ARCHITECTURE.md](ARCH
 
 `python scripts/qa_check.py` audits every episode for the failure signatures I know about: truncated rewrites, hallucinated timestamps, leaked model reasoning, content dropped from the middle of an episode, and more. It writes the results to `QA_CHECKLIST.md`. Run it after any batch, and read the output instead of trusting the exit code. Several of these failures produce no error and no non-zero exit, only corrupted or truncated file content. A clean row means no *known* signature fired, and not that I have verified the episode. Two episodes read as clean for months while missing 41% and 80% of their content, until I added checks for those signatures.
 
-Proper nouns from the local ASR engine are not yet checked against a reference dictionary, so names and unusual spellings may be wrong. I plan a manual correction pass using Dewan Bahasa dan Pustaka's PRPM dictionary through the `malaya` library (see [ARCHITECTURE.md](ARCHITECTURE.md#known-limitations) for the tooling).
+Names are checked by comparing them against the rest of the archive rather than against a dictionary: `python scripts/check_proper_nouns.py` reports any name spelled differently from the form used consistently elsewhere, and any name the episode's own YouTube captions never heard. A dictionary check turned out to be the wrong instrument here, and I have written up why in [ENGINEERING_LOG.md 1.28](ENGINEERING_LOG.md#128-one-name-eight-spellings-and-why-a-nickname-was-not-a-nickname). Around 250 candidates are still queued for review, so unusual spellings may still be wrong.
 
 ## License and disclaimer
 

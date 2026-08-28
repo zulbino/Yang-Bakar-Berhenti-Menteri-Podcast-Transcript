@@ -10,7 +10,6 @@ duration: 1h 38m
 view_count: 102632
 hosts:
 - Rafizi
-- Moderator
 guests:
 - Prof. Emeritus Dr. Barjoyai Bardai
 topics:
@@ -24,11 +23,11 @@ topics:
 - Civil Service Bureaucracy and Risk-Taking
 - Gig Economy and E-Hailing Regulation
 - PADU Database and Aging Population Planning
-summary: In this episode of the 'Yang Bakar Menteri' podcast, host Rafizi and
-  the moderator converse with economic expert Prof. Emeritus Dr. Barjoyai Bardai.
-  The discussion centers on restructuring Malaysia's economy, focusing on shifting
-  from bulk to targeted subsidies, the implementation of a progressive wage policy,
-  and improving household income. They also address the fiscal challenges of introducing
+summary: In this episode of the 'Yang Bakar Menteri' podcast, host Rafizi and the
+  moderator converse with economic expert Prof. Emeritus Dr. Barjoyai Bardai. The
+  discussion centers on restructuring Malaysia's economy, focusing on shifting from
+  bulk to targeted subsidies, the implementation of a progressive wage policy, and
+  improving household income. They also address the fiscal challenges of introducing
   a Universal Basic Income, the potential of a Waqf-based sovereign fund, issues in
   the tourism sector, the role of civil servants in policy execution, the regulation
   of the gig economy, and the strategic importance of the PADU database in preparing

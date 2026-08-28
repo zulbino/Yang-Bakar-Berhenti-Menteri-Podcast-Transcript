@@ -22,10 +22,12 @@ Start here if something looks wrong. Find the symptom, read the section.
 | Timestamps drift, jump backward, or exceed the episode length | [1.10](#110-non-canonical-timestamps-past-the-first-hour), [1.11](#111-verifying-timestamps-against-youtubes-own-captions), [1.16](#116-timestamp-corruption-bug-catalog-and-a-free-corpus-wide-detector), [1.23](#123-the-drift-checker-measured-block-length-not-mistiming) |
 | A word or phrase repeats hundreds of times | [1.7](#17-token-repetition-degeneration-after-repeated-retries) |
 | Transcript reads like a summary, not speech | [1.8](#18-fabricated-fake-episodes-when-the-continuation-loop-runs-out-of-real-audio), [1.18](#118-a-rawmd-that-is-a-fabricated-summary-outline-not-a-transcript) |
-| Wrong speaker name, or a name nobody said | [1.12](#112-verifying-speaker-labels-against-real-audio), [1.13](#113-verifying-speaker-labels-via-native-youtube-clip-processing), [1.20](#120-the-rewrite-stage-invents-speakers-out-of-mangled-honorifics), [1.26](#126-restoring-four-episodes-and-when-a-speaker-label-is-worse-than-none) |
+| Wrong speaker name, or a name nobody said | [1.30](#130-why-the-obvious-generic-label-rule-is-wrong), [1.29](#129-three-speaker-label-gotchas-that-keep-recurring), [1.12](#112-verifying-speaker-labels-against-real-audio), [1.13](#113-verifying-speaker-labels-via-native-youtube-clip-processing), [1.20](#120-the-rewrite-stage-invents-speakers-out-of-mangled-honorifics), [1.26](#126-restoring-four-episodes-and-when-a-speaker-label-is-worse-than-none), [1.27](#127-seven-episodes-filed-rafizis-words-under-a-co-hosts-name) |
 | Gemini refuses the audio, or the API goes dark | [1.5](#15-prohibited_content-safety-block-on-politically-sensitive-audio), [1.15](#115-gemini-audio-verification-going-fully-dark-speechmatics-as-a-working-alternative) |
 | Rewrite is much shorter than the transcript | [2.1](#21-choosing-a-fallback-provider), [2.2](#22-claude-silently-condensing-heavily-disfluent-chunks-instead-of-fully-rewriting-them) |
 | A check keeps flagging something already judged fine | [1.21](#121-the-checklist-could-not-shrink-because-it-had-no-memory) |
+| Most of an episode credited to the wrong speaker | [1.27](#127-seven-episodes-filed-rafizis-words-under-a-co-hosts-name) |
+| A person's name spelled several different ways | [1.28](#128-one-name-eight-spellings-and-why-a-nickname-was-not-a-nickname) |
 | A check reports clean but you do not believe it | [1.14](#114-a-coverage-check-that-checked-the-wrong-timestamp-and-the-content-loss-it-invented), [1.23](#123-the-drift-checker-measured-block-length-not-mistiming), [1.25](#125-a-check-that-starts-from-the-audio-and-the-wrong-suppression-it-caught) |
 | Choosing or replacing a model | [1.1](#11-earlier-llm-based-candidates-rejected-before-the-whisper-comparison), [1.2](#12-which-local-asr-model), [1.4](#14-the-gemini-model-chain), [2.1](#21-choosing-a-fallback-provider) |
 
@@ -1432,6 +1434,249 @@ questioners, labelled `Audience` per the file's existing convention.
 **Corpus inconsistency worth fixing later**: ep26 writes `[Rafizi]:` and
 `[00:02:51]` where the rest of the corpus writes `Rafizi:` and `[2:51]`. The
 splice preserved ep26's local convention rather than mixing two inside one file.
+
+### 1.27: Seven episodes filed Rafizi's words under a co-host's name
+
+- **Found 2026-08-28**, while auditing name *spellings*. Seven episodes gave most
+  of the transcript to the wrong person: ep24, ep25, ep27, ep42 and ep52 to
+  `Haziq`, ep34 to `Farhan (Pa'an)`, ep36 to `Cincong`. Between them that is
+  roughly 17 hours of speech, including ep42's `aku menteri paling gagal` and
+  ep36's `masa saya menteri itu dulu`, lines only Rafizi can say.
+- **Root cause:** 1.26's collapse (one diarization cluster holding 90%+ of an
+  episode) happening *without* being noticed, and then a review pass naming that
+  cluster after whoever it saw first. ep45 got caught because it was being looked
+  at. These seven were not.
+- **Why every check missed it.** Each file was internally consistent. There is no
+  textual signature: a merged cluster reads exactly like a coarse-VAD episode,
+  which the corpus is full of legitimately. Neither is block size a signature --
+  the corpus median dominant block runs 960 chars and healthy episodes reach
+  6,674, so ep27's 16,563-char block is unremarkable here. Every check in
+  `qa_check.py` judged one episode in isolation, and in isolation these look fine.
+
+**What actually separates them: comparison across episodes.** Rafizi is the
+principal, so his share of the text is stable corpus-wide. The median is 87%, healthy
+episodes run 68-99%, and these seven sat at 0-7%. That is now a permanent check
+(`speaker-attribution` in `qa_check.py`), and it would have caught all seven on the
+first run. Two guest-led episodes sit legitimately low, ep05 at 37% and ep21 at 49%,
+both well clear of the 25% floor.
+
+**Confirming it acoustically, which is the part that mattered.** A share anomaly
+says *something* is wrong, not who is who, and the plan going in was to rename
+`Cincong` to a sitting MP's real name. Doing that on text evidence would have put
+Lee Chean Chung's name on 92% of an episode he barely speaks in -- a worse error
+than the typo it was meant to fix. `scripts/verify_speaker_voiceprint.py` settles
+it without an LLM: average Rafizi's voice from episodes whose labels are already
+trusted, then score every cluster in every suspect episode against it by cosine
+similarity on speaker embeddings.
+
+The numbers were unambiguous. Rafizi scores 0.928 against himself across two
+different episodes, which is the ceiling the method can reach; all seven dominant
+clusters landed 0.945-0.967. The secondary labels landed 0.30-0.51, and per-block
+scoring confirmed no guest label held any Rafizi speech at all (every block below
+0.80, standard deviation 0.04-0.13, so single voices rather than merges). It also
+corrected two guesses I had made from the text: ep27's and ep34's second voice is
+Farhan (Pa'an), not Haziq, and ep36's is neither.
+
+**Two traps in that method, both worth knowing before trusting a number.** A span
+runs from a block's timestamp to the next block's, so a brief interjection's window
+bleeds into the neighbouring speaker's audio: anything under about a minute of total
+speech scores toward whoever surrounds it. A co-host reference built only from brief
+interjections inherits the same bleed, which is why the `Haziq` reference reads 0.73-0.85
+against confirmed-Rafizi clusters. Compare which reference wins by how much, not one
+score against one threshold.
+
+**`Cincong` is a real nickname, settled by the audio and by Rafizi himself.** At
+ep36 `[05:48]` Rafizi addresses the man in the room in the second person: *"Masa tu
+Cincong adalah pegawai penyelidik Dato' Seri Anwar Ibrahim. You were research officer
+Dato' Seri Anwar tahun 2008 ke 2012, sebelum you bertanding first time di Semambu
+2013"*, and at `[06:47]` *"Cincong di Indera Mahkota, saya dekat Kemaman"*. Lee Chean
+Chung won Semambu in 2013 and Indera Mahkota is the neighbouring Pahang seat. So the
+413 in-dialogue mentions stay exactly as spoken -- they are what was said, by name, on
+air -- and the real identity is carried in the `guests` field instead. `[06:47]` also
+settles his role: *"Cincong kurang bernasib baik hari ini... kerana dijemput"*, an
+invited guest, not a co-host.
+
+**Fixing it.** `scripts/relabel_speakers.py` applies a whole mapping in one pass over
+the block headers, because renaming A to B and then B to A with two passes files
+everything under A and silently destroys a swap. Three of the seven needed exactly
+that swap. Body text is never touched: a name spoken inside dialogue is transcript,
+not a label.
+
+**The rewrites had to be regenerated, not renamed.** `interview*.md` inherited the
+bad attribution (ep24 gave `Haziq` 77% of the rewrite, ep52 66%), and their label
+sets had drifted from `raw.md` in ways no mapping can express -- ep27's rewrite
+invented `Speaker 1`, `Host` and `Speaker 2`, and ep34's carried both `Rafizi` and
+`Rafizi Ramli` as separate speakers. All 21 files were regenerated from the corrected
+`raw.md`, the same call 1.26 made for ep00, ep26 and ep45.
+
+**The lesson, and it is not the one 1.26 taught.** 1.26 said a confident wrong label
+does more harm than an absent one, and that still holds. This adds the harder half:
+a whole-episode mislabel cannot be detected from inside that episode, because
+everything there agrees with it. It only shows up against the other 66. Any future
+check on speaker identity should compare across the corpus, and confirm against the
+audio before renaming anyone.
+
+### 1.28: One name, eight spellings, and why a nickname was not a nickname
+
+- **Found 2026-08-28**, immediately after 1.27, while standardising names. ASR renders
+  the same person's name differently almost every time it hears it, and the variants
+  do not look like each other. Lee Chean Chung appears across the corpus as
+  `Cincong`, `Cincung`, `Cengcung`, `Chenchung`, `Cenchong`, `Chin Chong`,
+  `Chinchong`, `Chin Chiong`, `Cian Chun`, and inside `bercincung` and `bercencong`.
+- **Root cause:** nothing in the pipeline knows what a name is. Each mention is
+  transcribed independently from sound, so a name the model has no prior for comes out
+  differently depending on the surrounding audio.
+
+**The trap: the most common garble looked like a real word.** `Cincong` is also
+ordinary Malay for fuss or chatter, so every occurrence read as plausible speech and
+the archive carried it as an on-air nickname for months. It even survived a first
+correction pass, because I preserved one occurrence as "the real Malay word" on the
+strength of the phrase *"Jangan tambah banyak-banyak cincong"*. That parse was wrong.
+It is direct address: *"Don't add too much, Chean Chung"*. The repo owner, a native
+speaker, heard it correctly on the first listen.
+
+`bercincung` fooled me the same way and worse. Both `raw.md` and the YouTube captions
+independently produced a `ber-` prefixed form (`wari bercincung` and `bi bercencong`),
+which reads exactly like a Malay verb, so I argued from the shared prefix that it could
+not be the name. It is *"YB Chean Chung"*. The agreement between two sources meant only
+that both mis-heard the same sound the same way, which is what you would expect from
+two ASR systems on one audio track. **Two independent transcripts agreeing is not
+corroboration when both are guessing at the same acoustics.**
+
+**What did work.** Content, not phonetics. Three separate episodes identify him by
+facts that can be checked against the public record, and all three agree:
+
+| Episode | What is said | Checks out as |
+|---|---|---|
+| ep36 `[05:48]` | Rafizi, in the second person: "you were research officer Dato' Seri Anwar 2008 ke 2012, sebelum you bertanding first time di Semambu 2013" | Won Semambu in 2013 |
+| ep30 | "YB Wong Chen, Ahli Parlimen Subang... YB Chean Chung, Ahli Parlimen PJ" | Both seats correct |
+| ep50 | "YB Chean Chung pun, Ahli Parlimen PJ pun telah disekat" | MP for Petaling Jaya |
+
+**`Aziz` is Haziq, and this one nearly went wrong in the other direction.** A previous
+session's audit had recorded `Aziz` as an invented name that "does not exist". It is a
+real person: the co-host, whom Rafizi addresses by it. The tell is in ep47 --
+*"Pa'an pun sebut. You pun sebut Aziz"* -- naming him beside the other co-host. A blind
+rename would have been just as bad, because six unrelated real people share the name
+here: Tok Guru Nik Aziz, Umar Abdul Aziz, Putera Abdul Aziz, Aziz Ishak (1960s
+Agriculture Minister), Aziz Ahmad, Azeez Rahim (Tabung Haji chairman), and a viewer
+called Azizan Aziz. A first pass caught 87 occurrences; inspecting them dropped it to
+64, because `apa nama` sitting next to the name marks a third party -- it is what
+someone says groping for a name they cannot recall, which never happens for the person
+sitting across the table.
+
+**Rules that came out of this.**
+
+1. A garbled name is corrected to a **precise** form, not necessarily a full one:
+   `Chean Chung` in dialogue, `Lee Chean Chung` in the `guests` field.
+2. Full names belong to the speaker label and the `guests` field. Dialogue keeps what
+   was actually said.
+3. Never conclude a name-shaped token is an ordinary word from spelling alone, and
+   never accept two ASR sources agreeing as proof. Check the content, or ask someone
+   who knows the audio.
+4. Print every occurrence before a name substitution runs. Both name fixes in this
+   session would have corrupted real people's names without that step.
+
+**Reading the transcript is not the same as hearing it, and I kept forgetting that.**
+Three times in one session I reasoned from the text to a confident wrong answer, and
+each time the repo owner settled it by ear in one line:
+
+| I argued | Actually |
+|---|---|
+| *"banyak-banyak cincong"* is the ordinary Malay word, so keep it | Direct address: "don't add too much, Chean Chung" |
+| `bercincung` has a `ber-` verb prefix in two independent sources, so it cannot be a name | It is "YB Chean Chung" |
+| *"Makcik Roziah"* who pools capital for an anchovy-peeling machine is an illustrative village auntie | It is YB Rodziah Ismail, the MP for Ampang, doing constituency work |
+
+The failure mode is the same each time: a garbled name reads as *plausible* Malay, and
+plausibility is exactly what a text-only check cannot distinguish from correctness. The
+tooling in this repo can narrow a corpus of 26,467 word forms down to a review queue of
+about 250 names, which is worth a great deal. It cannot close that queue. **On names,
+treat the text as generating candidates and a person who knows the audio as the only
+thing that resolves them.** Ship timestamped links, not conclusions.
+
+`Makcik Rodziah` produced one more find on the way: ep04's rewrite rendered her as
+`Puan Wan Rodziah`, stacking an honorific and inserting a `Wan` that is not part of her
+name. That is 1.20 again, in a spot no speaker-label check would ever look, because it
+sits in the middle of dialogue rather than in a label.
+
+### 1.29: Three speaker-label gotchas that keep recurring
+
+Moved out of ARCHITECTURE.md on 2026-08-28: these are failures and their fixes, not
+the stack as it stands, so they belong here. The convention itself stays in
+[ARCHITECTURE.md](ARCHITECTURE.md#speaker-naming-convention).
+
+**Local-ASR redo silently wipes previously-applied speaker names, confirmed
+recurring, 2026-08-26:** any episode reprocessed via `--engine local` for an
+unrelated reason (corruption fix, drift fix, filler-loop fix) gets a
+completely fresh pyannote diarization pass with no memory of prior manual
+naming -- it always emits new anonymous "Speaker N" labels, silently
+reverting any naming work already done on that episode. First confirmed on
+ep25 (a manual naming commit followed one day later by a "redo via local
+ASR" commit that reset it back to generic labels), then found to affect the
+majority of a 39-episode backlog re-identified this session, none of which
+`qa_check.py` flags, since generic labels aren't a defect it checks for. No
+permanent fix implemented: before assuming an episode's generic labels mean
+it was never reviewed, check `git log -- <path>/raw.md` for a naming commit
+followed by a later local-ASR-redo commit, and budget for redoing the
+naming pass as a required last step after any such redo.
+
+**A same-person self-intro quirk that can look like a second speaker,
+confirmed on 5+ episodes:** Rafizi occasionally delivers the show's usual
+third-person-style opening line himself ("...macam biasa bersama saudara
+Rafizi Ramli...") instead of Haziq doing it, then continues straight into
+first-person content in the same breath. Read as two different people from
+the phrasing alone, this looks exactly like a diarization merge between an
+announcer and Rafizi; it isn't. Confirmed via cross-checking who a "Speaker
+N" cluster's later, unambiguous content belongs to (personal claims like
+being personally sued, or reminiscing about a specific ministerial
+portfolio) before concluding a cluster needs splitting. Seen on ep05, ep39,
+ep40, ep44, and ep58.
+
+**Two label-vs-real-person mismatches found and fixed before running this rename,
+both confirmed by direct audio listening, not guessed from text alone**:
+- ep30's raw `"Farhan"` label is a genuine third recurring panelist, not a
+  mislabeled Haziq (an earlier session's working theory, based on a since-corrected
+  Gemini redo that had wiped a prior manual correction): confirmed by his own
+  words in the transcript ("memang like Haziq mentioned just now", explicitly
+  distinguishing himself from Haziq) plus consistent panelist-level participation
+  across the full 2.5-hour episode, not one-off guest content.
+- ep39's raw `"Farhan Iqbal"` label (217 turns) was actually Haziq's voice:
+  an isolated per-run Gemini diarization slip specific to this one episode, not
+  a pattern affecting the other 10 episodes where `"Farhan Iqbal"` legitimately
+  appears. Fixed to `"Haziq Azfar"` (later shortened to `Haziq` by the archive
+  rename) before running the rename, so it wasn't caught in the blanket
+  substitution. The real `"Iqbal"` in ep39 (85 turns) is a separate, correctly
+  labeled recurring guest, confirmed distinct from Haziq by ear.
+
+This confirms the standing risk noted elsewhere in this doc: per-run label
+inconsistency in Gemini's diarization is real and episode-specific, not just a
+theoretical concern; don't assume a mislabel found in one episode generalizes to
+every other episode using the same label, and don't assume a same-named label
+found correct in one episode generalizes either. Each case needs its own check.
+
+### 1.30: Why the obvious generic-label rule is wrong
+
+The rewrite stage leaves 1,441 speaker labels as `Host`, `Speaker 2`, `Interviewer`
+and similar, in episodes where `raw.md` already carries a real name. The information
+exists, so this looks like a pure mechanical fill-in.
+
+The rule that suggests itself -- *map the generic label to the single non-Rafizi speaker
+in `raw.md`* -- is wrong, and I caught it only by printing the mapping before running it.
+It produces:
+
+| Episode | Would map | To | Who that actually is |
+|---|---|---|---|
+| ep02 (2024 run) | `Moderator` | `Prof. Barjoyai` | the **guest** |
+| ep05 | `Host` | `Dato' Dr. Syed Azuan Al-Idrus` | the **guest** |
+
+The rule assumes the one non-Rafizi speaker in `raw.md` must be the host. In a
+guest-interview episode it is the guest, and the host was never given a `raw.md` label at
+all -- so the rule confidently assigns the host's questions to the guest.
+
+Adding one condition makes it safe: **the target must be a known recurring host**
+(Haziq, Farhan (Pa'an), Iqbal, Wan Afiq). With that, 558 labels across six episodes were
+resolved and both bad cases were correctly skipped. The remaining 1,441 have two or more
+candidates fitting, so they stay generic rather than being guessed -- consistent with
+1.26's finding that an absent label advertises the gap while a wrong one gets trusted.
 
 ## Rewrite, translate and metadata stage
 

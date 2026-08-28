@@ -9,6 +9,7 @@ duration: 1h 57m
 view_count: 57185
 hosts:
 - Rafizi
+- Haziq
 guests:
 - Zaim Zulkifli
 topics:
@@ -19,12 +20,12 @@ topics:
 - Political culture and leadership
 - Role of student activism
 - Subsidy rationalization and macroeconomic management
-summary: This episode features a discussion between host Rafizi and student
-  activist Zaim Zulkifli regarding political and institutional reforms, corruption,
-  and economic policies under the Anwar Ibrahim administration. The conversation covers
-  the complexities of governing, the necessity of balancing political stability with
-  reform goals, and the role of cultural and educational change in addressing corruption,
-  with a critical look at the current political landscape.
+summary: This episode features a discussion between host Rafizi and student activist
+  Zaim Zulkifli regarding political and institutional reforms, corruption, and economic
+  policies under the Anwar Ibrahim administration. The conversation covers the complexities
+  of governing, the necessity of balancing political stability with reform goals,
+  and the role of cultural and educational change in addressing corruption, with a
+  critical look at the current political landscape.
 language: mixed
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa
   Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript,

@@ -8,10 +8,10 @@ duration_seconds: 9546
 duration: 2h 39m
 view_count: 159299
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Haziq
-guests:
-- Afiq
+- Wan Afiq
+guests: []
 topics:
 - JSSEZ (Johor-Singapore Special Economic Zone) - sejarah dan penubuhan
 - Kritikan terhadap AMK/PKR berkaitan kredit JSSEZ

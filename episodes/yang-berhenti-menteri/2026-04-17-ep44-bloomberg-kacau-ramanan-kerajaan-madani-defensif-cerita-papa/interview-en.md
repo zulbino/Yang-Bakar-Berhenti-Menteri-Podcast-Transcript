@@ -9,9 +9,9 @@ duration_seconds: 10907
 duration: 3h 1m
 view_count: 272727
 hosts:
-- Rafizi Ramli
-guests:
+- Rafizi
 - Haziq
+guests: []
 topics:
 - Wildlife smuggling (python gallbladders, Johor)
 - Azam Baki/SPRM controversy and public backlash
@@ -33,7 +33,7 @@ topics:
 - Papa Gomo police case and PMO involvement
 - Upcoming PKR/Tangkap Azam Baki rally announcements
 summary: In episode 44 of the Podcast Yang Berhormat Menteri, Rafizi Ramli and co-host
-  Aziz open with the lighthearted "Beria" segment, mocking a range of viral news items
+  Haziq open with the lighthearted "Beria" segment, mocking a range of viral news items
   — python gallbladder smuggling in Johor, Azam Baki's widely-mocked "financial advice"
   and the tactical squad now protecting him, an AI-generated meme linking Rafizi to
   Anwar's election seats and Ong Kian Ming's remarks, Rosmah Mansor's RM443 million
@@ -67,11 +67,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Rafizi Ramli:** Assalamualaikum and greetings. As usual, the Yang Berhormat Menteri Podcast, episode 44. Just a bit more and we'll reach episode 52 — why? Because that's one year, 52 weeks, without stopping. This is episode 44, so about two more months until we hit 52. Aren't you tired, YB? I do want to, but what can we do, never mind. Some people say "never mind" — and now I'm already rambling before we've even started.
+**Rafizi:** Assalamualaikum and greetings. As usual, the Yang Berhormat Menteri Podcast, episode 44. Just a bit more and we'll reach episode 52 — why? Because that's one year, 52 weeks, without stopping. This is episode 44, so about two more months until we hit 52. Aren't you tired, YB? I do want to, but what can we do, never mind. Some people say "never mind" — and now I'm already rambling before we've even started.
 
 **Haziq:** Sounds like a comment on KS, right? Huh?
 
-**Rafizi Ramli:** Never mind, never mind. Okay YB, let's start, YB. Shall we dive straight in enthusiastically? Okay. But before that, to our friends watching, especially the fence-sitter voters and victims of scammers — I mean government scammers even more so. It's not just PH that scams, PN scams too — until now there's still no hudud. Back then everything was a scam. Follow and share this podcast, and remember to also follow YB Rafizi Ramli's social media. Only then can we start, YB. Let's dive in with enthusiasm. Let's see how they performed this week. Bismillah, let's start with the first one: 1,022 python gallbladders.
+**Rafizi:** Never mind, never mind. Okay YB, let's start, YB. Shall we dive straight in enthusiastically? Okay. But before that, to our friends watching, especially the fence-sitter voters and victims of scammers — I mean government scammers even more so. It's not just PH that scams, PN scams too — until now there's still no hudud. Back then everything was a scam. Follow and share this podcast, and remember to also follow YB Rafizi Ramli's social media. Only then can we start, YB. Let's dive in with enthusiasm. Let's see how they performed this week. Bismillah, let's start with the first one: 1,022 python gallbladders.
 
 Hehe, that's just creepy, right? Plus another 191 python gallbladders. Are you sure there are no snakes here? At home I can't even mention snakes. Can't even say the word — that's why I can't watch *Anak Konda* anymore. You know *Anak Konda* on Netflix, such a waste, but because my wife absolutely cannot handle snakes at all.
 
@@ -81,11 +81,11 @@ What's strange is — assuming, say, one gallbladder comes from one python, one 
 
 **Haziq:** Here's a fun fact — Malaysia is home to the world's top wildlife smuggler.
 
-**Rafizi Ramli:** In the world, that's what was in the news, right?
+**Rafizi:** In the world, that's what was in the news, right?
 
 **Haziq:** Yes.
 
-**Rafizi Ramli:** Malaysia can, okay okay okay, this is even more interesting than the python story that scared me. It's dangerous — later they'll catch me and plant a python on me — hmm, that's already given away. Okay okay.
+**Rafizi:** Malaysia can, okay okay okay, this is even more interesting than the python story that scared me. It's dangerous — later they'll catch me and plant a python on me — hmm, that's already given away. Okay okay.
 
 Next, Azam Baki's advice to the public. This went viral too, right? I think there were only two things that went viral — one, the news and financial advice from Tan Sri Azam Baki: willing to take bribes to maintain a luxurious lifestyle. Look who's talking. Then it came out that the MACC deployed a tactical squad to protect Azam Baki. This is a dangerous species here.
 
@@ -97,13 +97,13 @@ One thing about Tan Sri Azam Baki — his boldness, even in a situation where ev
 
 **Haziq:** Azam Baki.
 
-**Rafizi Ramli:** Azam Baki, YB. Yeah, obviously people don't really like him and he hasn't succeeded with whatever comms plan was made. My advice to Tan Sri Azam Baki — maybe he should change his PR team. But I feel for the PR team too — even bringing in the most brilliant PR team from Hollywood, I don't think it could change public opinion about him. Okay, good luck to the PR team. And boldly — if there's any PR person watching this, hey, they're in trouble. Because I've been informed that one of MACC's responses is to ensure that whenever there's a YB podcast episode, certain people from MACC have to become cyber troopers to attack us. So if you don't want to become a cyber trooper, maybe it's best to pray that his contract isn't renewed. InsyaAllah — you sound so confident, but never mind.
+**Rafizi:** Azam Baki, YB. Yeah, obviously people don't really like him and he hasn't succeeded with whatever comms plan was made. My advice to Tan Sri Azam Baki — maybe he should change his PR team. But I feel for the PR team too — even bringing in the most brilliant PR team from Hollywood, I don't think it could change public opinion about him. Okay, good luck to the PR team. And boldly — if there's any PR person watching this, hey, they're in trouble. Because I've been informed that one of MACC's responses is to ensure that whenever there's a YB podcast episode, certain people from MACC have to become cyber troopers to attack us. So if you don't want to become a cyber trooper, maybe it's best to pray that his contract isn't renewed. InsyaAllah — you sound so confident, but never mind.
 
 Let's look at more social media. This is a quote from a Deputy Minister: "Why is Anwar Ibrahim's nose so red like that?" That's mean, Pa'an. Let it drip a little — eh, not us.
 
 **Haziq:** Us.
 
-**Rafizi Ramli:** Oh, really? Oh, it's already out there. "Wherever Anwar contests, that's where Rafizi Ramli will be." Who made this AI image? Why do I have four dots, four moles on my cheek there? I do have them, YB, but not four. Really, do I actually have that many? Ha, this facial cleanser isn't working, huh.
+**Rafizi:** Oh, really? Oh, it's already out there. "Wherever Anwar contests, that's where Rafizi Ramli will be." Who made this AI image? Why do I have four dots, four moles on my cheek there? I do have them, YB, but not four. Really, do I actually have that many? Ha, this facial cleanser isn't working, huh.
 
 So, this is saying that YB will contest wherever Dato' Seri Anwar contests. I think this got quite a bit of traction, especially I noticed it in the Chinese media too. So maybe we're craving a response from YB — whether YB wants to respond or just wants to give them the "boldness award" instead.
 
@@ -115,7 +115,7 @@ So I don't know whether he wants to contest again, or return to politics, or joi
 
 **Haziq:** Oh, yes yes.
 
-**Rafizi Ramli:** Okay okay, never mind, let's just wait for KJ's Cabinet. He's joined UMNO, that's fine with him — whether it's PN or BN, as long as whoever throws him up in the air, lifts him up. If tomorrow I went and hugged him, I think that would suit him fine too, as long as there's a chance of winning. So he needs two conditions: one, a chance of winning; two, gaining power — hug him and lift him up. Okay, but let's be bold, just speculating here. Let's wait, YB, let's see if there's anyone else bold this week.
+**Rafizi:** Okay okay, never mind, let's just wait for KJ's Cabinet. He's joined UMNO, that's fine with him — whether it's PN or BN, as long as whoever throws him up in the air, lifts him up. If tomorrow I went and hugged him, I think that would suit him fine too, as long as there's a chance of winning. So he needs two conditions: one, a chance of winning; two, gaining power — hug him and lift him up. Okay, but let's be bold, just speculating here. Let's wait, YB, let's see if there's anyone else bold this week.
 
 We haven't heard news in a while — how are you, Datuk Seri? This is about the ongoing case. Background for those listening, or who might not remember well — there are so many cases, so YB sometimes forgets which one is which. This is about the jewellery case — rings, gems, jewellery, all that. If you look, RM443 million worth of jewellery was seized from Datin Seri Rosmah Mansor's residence at Pavilion. This was on election night, a few days after that. Of the RM443 million worth of jewellery seized, one piece worth RM67 million actually belonged to a luxury jewellery company from London.
 
@@ -123,7 +123,7 @@ So that company sued Datin Seri Rosmah Mansor to get the item back, and the answ
 
 **Haziq:** If YB wanted to be an influencer, what product would YB sell?
 
-**Rafizi Ramli:** Uh-huh, maybe a hair product. No, maybe a hair product, but need to wait for it to grow in a bit first, right. For example, that stuff actually has an effect, you know — not me, but, for whatever reasons, this algorithm is cruel, all my algorithms are about bald hair, you know. It's so boring, on TikTok it comes up with bald hair, on Google too. So it comes from one — a Malaysian, I won't say the name, but I think many people know. He supposedly promotes eating biotin, claiming not only does hair become thick — he shows his hair from 5 years ago, his hair now. But his face also became as young as his daughter's. He's about my age, and it's true, when you look at his face from the side, his face looks about the same age as his daughter's. So I got influenced, bought it, but so far it seems like there's no effect. Maybe I need a scan. So if one day I want to become an influencer too, no need to send jewellery worth up to RM67 million — an effective hair tonic will do.
+**Rafizi:** Uh-huh, maybe a hair product. No, maybe a hair product, but need to wait for it to grow in a bit first, right. For example, that stuff actually has an effect, you know — not me, but, for whatever reasons, this algorithm is cruel, all my algorithms are about bald hair, you know. It's so boring, on TikTok it comes up with bald hair, on Google too. So it comes from one — a Malaysian, I won't say the name, but I think many people know. He supposedly promotes eating biotin, claiming not only does hair become thick — he shows his hair from 5 years ago, his hair now. But his face also became as young as his daughter's. He's about my age, and it's true, when you look at his face from the side, his face looks about the same age as his daughter's. So I got influenced, bought it, but so far it seems like there's no effect. Maybe I need a scan. So if one day I want to become an influencer too, no need to send jewellery worth up to RM67 million — an effective hair tonic will do.
 
 There's another angle to this one — because many of UMNO and Datuk Seri Najib's supporters still keep repeating, "Rafizi, you've sinned, you'll go to hell for slandering Datin Seri Rosmah, slandering Najib about buying rings and all that." Hey, where have they been hiding? Not just that night — look, Dato' Amar Singh said cash and jewellery came pouring out of the luggage, they just stuffed it in bags, so much of it, RM443 million worth of jewellery. And they can say I slandered Rosmah Mansor, when she only sent a RM67 million sample.
 
@@ -133,7 +133,7 @@ So if there's anyone watching tonight who's like that, no need to apologize to m
 
 **Haziq:** Okay okay YB, boldness award YB, boldness boldness. Interesting excuses, bold excuses? Okay, is there more?
 
-**Rafizi Ramli:** There's more — "thought working for the government was easy." This was at the PKR Terengganu convention. I think everyone already knows, Datuk Seri Anwar expressed his disappointment. This is the same speech, he said "give some credit, please." True, but the reaction was terrible, I think, on social media.
+**Rafizi:** There's more — "thought working for the government was easy." This was at the PKR Terengganu convention. I think everyone already knows, Datuk Seri Anwar expressed his disappointment. This is the same speech, he said "give some credit, please." True, but the reaction was terrible, I think, on social media.
 
 Because this is a problem for younger people who aspire to become politicians up to the level of minister or prime minister — believe me, that even if you do good and excellent work, no one will thank you. But if an action invites differing views, or controversy, or is unpopular, you'll get flooded with criticism. That's why I mentioned why this goes into the "boldness" segment. You would have thought that Dato' Seri Anwar, having been a politician since 1981, would understand that — being a politician has never been easy. That's why, in our culture, to make it worthwhile, you might as well steal lots of money, so it's worth getting flooded with criticism; otherwise, it's not worth it — getting criticized every day no matter how well you do your job.
 
@@ -141,7 +141,7 @@ So you would think Anwar would be the most experienced person regarding the poli
 
 **Haziq:** YB, maybe we'll discuss government communications in a later segment. It's just, this might be a nightmare for the Prime Minister's stratcom team — they've planned everything nicely, but every weekend, controversial statements just keep popping up until it comes out from him and explodes, every single week, consistently. And people will remember what he said more than the other speeches. Yes.
 
-**Rafizi Ramli:** I don't think... okay, coming back to what you said, meaning it's a nightmare for the media team or stratcom, if there is such a thing, strategic communication. Pa'an was afraid because when he first came — okay, let me tell an inside story about Pa'an. This is a media person, right, someone used to content, social media, strategic communication. So I didn't know Pa'an at all, didn't know him at all, didn't even want to meet him. So a friend recommended him, "sure, okay, come on," he came for an interview. Hahaha. So you can all focus on Pa'an's face already turning red. So Pa'an talked about strategic communication, all of it, how things develop, the strategies — I listened to everything he said.
+**Rafizi:** I don't think... okay, coming back to what you said, meaning it's a nightmare for the media team or stratcom, if there is such a thing, strategic communication. Pa'an was afraid because when he first came — okay, let me tell an inside story about Pa'an. This is a media person, right, someone used to content, social media, strategic communication. So I didn't know Pa'an at all, didn't know him at all, didn't even want to meet him. So a friend recommended him, "sure, okay, come on," he came for an interview. Hahaha. So you can all focus on Pa'an's face already turning red. So Pa'an talked about strategic communication, all of it, how things develop, the strategies — I listened to everything he said.
 
 Because in my book actually, the moment you need to have strategic communication, that means we already have a problem with what we want to convey. It's easier to just speak the truth — nothing beats telling the truth. Except, the first time you say it, people might not listen, people get angry, or don't feel it, or there are haters who'll remain haters no matter what you say. But if we consistently speak the truth, if we present and share an issue from a fair and truthful perspective, in the case of a politician, to the people, eventually that narrative will begin to be accepted by society because society is rational. It's a bell curve — there will be haters, there will be others, no matter what you say they won't accept it, whether because of politics or whatever. But actually the top of the bell curve, they're rational. If we explain, eventually they'll see, even though I don't like this person, actually what he said is true.
 
@@ -165,37 +165,37 @@ I'm more inclined to — oh God, Syahir, don't ride on my back to make content. 
 
 **Haziq:** Boldness award, okay man, we're done, let's rate it.
 
-**Rafizi Ramli:** Oh God, now there's a voice too. Give it to Pa'an, Rik Pa'an.
+**Rafizi:** Oh God, now there's a voice too. Give it to Pa'an, Rik Pa'an.
 
 **Haziq:** Oh, I — yes, Alhamdulillah. As if I'd be scared of a snake. I want to rate Syahir as...
 
-**Rafizi Ramli:** Warrior? Why are you not satisfied with Syahir?
+**Rafizi:** Warrior? Why are you not satisfied with Syahir?
 
 **Haziq:** Because people remember the debate between Syahir and YB — that's all they remember.
 
-**Rafizi Ramli:** I was, at the time, like...
+**Rafizi:** I was, at the time, like...
 
 **Haziq:** So, holding a grudge?
 
-**Rafizi Ramli:** Ha, you see, right, if on TikTok, in content there's that fat orange cat, right. That fat orange cat, its character has a lot of content, does all sorts of things, but its character is like blurry, like this — that's how I was during the debate that day, right. Fine, okay, maybe PAS won too, PAS's Dania won. Imagine, if back in those days there'd been a debate, and we already had a podcast and already had a boldness segment...
+**Rafizi:** Ha, you see, right, if on TikTok, in content there's that fat orange cat, right. That fat orange cat, its character has a lot of content, does all sorts of things, but its character is like blurry, like this — that's how I was during the debate that day, right. Fine, okay, maybe PAS won too, PAS's Dania won. Imagine, if back in those days there'd been a debate, and we already had a podcast and already had a boldness segment...
 
 **Haziq:** We really would have started the boldness segment throughout that whole era.
 
-**Rafizi Ramli:** That means Fuziah didn't win the all-time boldness award, it's the "roh-roh ni-ni-ni" poem instead. Okay, fine, life is tough, kid. Main segment now. But we have four, YB, we're already at 36 minutes, so we'll need to speed up a bit.
+**Rafizi:** That means Fuziah didn't win the all-time boldness award, it's the "roh-roh ni-ni-ni" poem instead. Okay, fine, life is tough, kid. Main segment now. But we have four, YB, we're already at 36 minutes, so we'll need to speed up a bit.
 
 Okay, and first and foremost, Akak Umbi's beloved idol — that sounds harsh. Not harsh, it's true, well, supporting him so that he wins, right. This is the "80-Chair Warlord," brother Ramanan Ramakrishna, welcome. RR too.
 
 Bloomberg here — I'm even surprised, Bloomberg is really focused on this. Coming out one story at a time. So this is the latest news that came out yesterday, yesterday Thursday. Although actually this news broke earlier, early in April — he himself said so before, he himself said it before, yes right. It's just that now Bloomberg is taking a bit of action, because when they publish something, all his stories explode — I wonder if Bloomberg's subscriptions have increased recently or not. Let's send Bloomberg an email, I just want to find out.
 
-This is Bloomberg — actually it's been 2-3 months — I remember Ramanan himself once announced that the government is developing a new system that doesn't involve agents like that. Then the reaction from foreign worker agents was somewhat noisy. Then last month, I remember Malaysiakini exposed something about this TVPA, this two-drop system that caused Malaysiakini to be raided and is now under investigation, there's an ADAT case against Malaysiakini now. So maybe Aziz can explain a bit what this is, because I need to drink some water.
+This is Bloomberg — actually it's been 2-3 months — I remember Ramanan himself once announced that the government is developing a new system that doesn't involve agents like that. Then the reaction from foreign worker agents was somewhat noisy. Then last month, I remember Malaysiakini exposed something about this TVPA, this two-drop system that caused Malaysiakini to be raided and is now under investigation, there's an ADAT case against Malaysiakini now. So maybe Haziq can explain a bit what this is, because I need to drink some water.
 
 **Haziq:** I think this Bloomberg article this time is quite short, even though my subscription has run out.
 
-**Rafizi Ramli:** Not even a trial account name. How poor of you, a trial account, because I'm unemployed. It's like you're mocking me.
+**Rafizi:** Not even a trial account name. How poor of you, a trial account, because I'm unemployed. It's like you're mocking me.
 
 **Haziq:** Simply put, this is a new system — the reason given is to kill off agents. If you listen to Aminul Islam himself, he says this is good, this will reduce, firstly, middlemen; secondly, cost — the cost will go down. But what has been raised, or people's concern, is whether by doing this, this is actually a monopoly — wanting to monopolize, giving everything to Aminul Islam. So I think that's the summary. Except he was a bit bold at the end there, YB — Aminul Islam wants to work towards a Nobel Peace Prize for Dato' Seri Anwar Ibrahim.
 
-**Rafizi Ramli:** Alright, since the majority of Malaysians are poor like Haziq who can't afford a Bloomberg subscription, let's do what we've done before — let me read it out, and I'll translate it directly into Malay, but it's short, not as long as that other time. This was reported today, at 5:41pm yesterday: "Replacing Tycoon 1, a new foreign worker system developed by Tycoon Amin." We call him Amin Bangla — but for reference, when we say "Amin," it means Aminul Islam or Amin Bangla, this one.
+**Rafizi:** Alright, since the majority of Malaysians are poor like Haziq who can't afford a Bloomberg subscription, let's do what we've done before — let me read it out, and I'll translate it directly into Malay, but it's short, not as long as that other time. This was reported today, at 5:41pm yesterday: "Replacing Tycoon 1, a new foreign worker system developed by Tycoon Amin." We call him Amin Bangla — but for reference, when we say "Amin," it means Aminul Islam or Amin Bangla, this one.
 
 **Haziq:** I can see it.
 
@@ -393,7 +393,7 @@ So that's why we need to look at this matter. And I think the older PKR MPs, who
 
 **Host:** YB, there are people sending messages — especially from Amanah people — advising YB to be patient and not speak out publicly like this. What's YB's response?
 
-**Rafizi Ramli:** Anything can be done. It's just that the consequences to the government are huge, the consequences to PH are also huge. Because lately I've been getting messages, especially from Amanah people, advising that what I'm doing doesn't actually bring any benefit — be patient, stay united with Amanah. But Amanah too carries a responsibility. There are two ministers in it, so speak up. DAP has five ministers, speak up. Because the PH members within government aren't speaking up, so those of us outside are forced to speak up.
+**Rafizi:** Anything can be done. It's just that the consequences to the government are huge, the consequences to PH are also huge. Because lately I've been getting messages, especially from Amanah people, advising that what I'm doing doesn't actually bring any benefit — be patient, stay united with Amanah. But Amanah too carries a responsibility. There are two ministers in it, so speak up. DAP has five ministers, speak up. Because the PH members within government aren't speaking up, so those of us outside are forced to speak up.
 
 Back when we were in the opposition, we continuously questioned AMIN's involvement — how this system has a monopoly. And when there's a monopoly like that, it creates loopholes that allow for abuse. So I don't know, if with TURAP, Datuk Seri Anwar will get a Nobel Prize — meaning, Anwar Ibrahim is even greater than Donald Trump, right? Let's wait and see. But we will keep speaking up.
 
@@ -401,35 +401,35 @@ To the public, thank you. Issues like this may seem boring, but this is actually
 
 **Host:** So, has that party taken any legal action against YB so far?
 
-**Rafizi Ramli:** I'm just waiting for him to sue me for RM9.5 million.
+**Rafizi:** I'm just waiting for him to sue me for RM9.5 million.
 
 **Host:** Not sued yet?
 
-**Rafizi Ramli:** No, not sued yet.
+**Rafizi:** No, not sued yet.
 
 **Host:** In that case, give us an exclusive statement.
 
-**Rafizi Ramli:** Not sued yet. Not sued yet.
+**Rafizi:** Not sued yet. Not sued yet.
 
 **Host:** Okay, we're also waiting for YB along with other "samurai" to make a statement.
 
-**Rafizi Ramli:** You can count me as one of the samurai too.
+**Rafizi:** You can count me as one of the samurai too.
 
 **Host:** Okay. If that was heavy, this next part is even heavier.
 
 Don't run off, watch till the end.
 
-**Rafizi Ramli:** Sometimes you all, when it comes to heavy topics like this, only want to know about Cephlos — just want the gossip. Cephlos is just chili, right, just for flavor. If our country wants to be sorted out, we can't run away from things like this.
+**Rafizi:** Sometimes you all, when it comes to heavy topics like this, only want to know about Cephlos — just want the gossip. Cephlos is just chili, right, just for flavor. If our country wants to be sorted out, we can't run away from things like this.
 
 **Host:** And at the end there will be a segment about Papa Gomo.
 
 But before that, let's hear about NETA first. But YB, I want to touch on something — everyone's attitude when YB says we want to discuss NETA and all this. Maybe many viewers and listeners tonight want to hear the hot stuff. But YB wants to slip in the academic stuff instead. This actually goes against the law of political nature — YB wants to talk about things that aren't "hot" at all.
 
-**Rafizi Ramli:** Not hot, right? Well this right here is what's hot, isn't it?
+**Rafizi:** Not hot, right? Well this right here is what's hot, isn't it?
 
 **Host:** It's hot, it's hot. But the EV story, the story we mentioned last week — even though people got angry at me for it — but it's interesting, it actually follows the platform. We can see, if a platform blows up — meaning lots of positive engagement — that's on platforms whose users are more educated. On other platforms, the same comments come out, "oh how evil, it's all about the formula money," and all that.
 
-**Rafizi Ramli:** We mentioned last week that Malaysia needs to accept the reality that we can't keep depending on and being addicted to cheap fuel. This is actually something I mentioned even before GE15 in 2022. If you recall, when we launched Ayuh Malaysia, we had five main pillars. One main pillar was precisely about energy transition.
+**Rafizi:** We mentioned last week that Malaysia needs to accept the reality that we can't keep depending on and being addicted to cheap fuel. This is actually something I mentioned even before GE15 in 2022. If you recall, when we launched Ayuh Malaysia, we had five main pillars. One main pillar was precisely about energy transition.
 
 I'm an electronics engineer by training, so I understand a fair bit about Malaysia's energy industry. Then I also worked at Petronas, so from there it gave me two perspectives — left hand and right hand — on Malaysia's energy industry. TNB, electricity, that's about generation; on the Petronas side, it's about coal, about gas, that's about fuel. So even before I became a minister, I already had major concerns about Malaysia's energy security — especially after we saw for ourselves what happened to European countries after the Ukraine War.
 
@@ -451,7 +451,7 @@ The problem is, only a small handful of leaders in the world — not just in Mal
 
 **Host:** What about a leader like Zohran Mamdani, for example?
 
-**Rafizi Ramli:** I don't know. It's too early to say. So far, Mamdani leans more performative. Whether he can deliver or not, we can only see in the next 5–6 years. But his demeanor, his approach, leans more performative.
+**Rafizi:** I don't know. It's too early to say. So far, Mamdani leans more performative. Whether he can deliver or not, we can only see in the next 5–6 years. But his demeanor, his approach, leans more performative.
 
 But if we look at other world leaders, the example I remember most — one we often overlook — is China's Deng Xiaoping. A totally different character compared to Mao Zedong. He was quiet, not even president, shy. But the China we have today, its greatness, its wealth, all of it comes from the mind of Deng Xiaoping. Deng Xiaoping opened up China. Deng Xiaoping is the one who said, it doesn't matter whether it's a black cat or a white cat, as long as it catches mice. That's why we have this unique situation now — China is a communist country, yet the fastest moving forward in capitalist economics. That's why Deng Xiaoping is a substantive leader — not performative.
 
@@ -461,7 +461,7 @@ But if we take Churchill as an example — I think we can argue Churchill was bo
 
 **Host:** Didn't he lose an election once?
 
-**Rafizi Ramli:** No, no, no — don't bring in the part where he won again afterward. If we want to judge Churchill, it's fairer to judge him based on his leadership during the war, because as a peacetime leader he was honestly boring. He won again in 1951 until he retired, but that's nothing much.
+**Rafizi:** No, no, no — don't bring in the part where he won again afterward. If we want to judge Churchill, it's fairer to judge him based on his leadership during the war, because as a peacetime leader he was honestly boring. He won again in 1951 until he retired, but that's nothing much.
 
 Imagine this Churchill — everyone disliked him. And we don't even need to argue about his performative charisma — he was admired for his style as a politician, his speeches. I remember I used to be a debater, and I used to get bored during debates, especially English debates in school, because people would repeatedly open their debates with his quotations, his speeches — "this is not the end, this is not the end, this is the end of the beginning" — all that. I'd go look up other people's speeches in encyclopedias, but every single debate people would say the same thing. But no one could ever joke about his delivery.
 
@@ -473,7 +473,7 @@ When war broke out, the British MPs looked left and right, and they said there w
 
 **Host:** Alright, back to the real world — we've been talking for two hours now.
 
-**Rafizi Ramli:** Let's come back to Malaysia. Our problem is that our society, especially on social media now, is very fond of the performative — creating content, even if you're giving out contributions you have to take photos of it. Some people complain to me, "YB, YB only does politics, why doesn't YB go help people, give out lots of contributions like other ministers, other politicians?" If I were the type who didn't help people, I wouldn't have won Pandan with a majority of RM48,000.
+**Rafizi:** Let's come back to Malaysia. Our problem is that our society, especially on social media now, is very fond of the performative — creating content, even if you're giving out contributions you have to take photos of it. Some people complain to me, "YB, YB only does politics, why doesn't YB go help people, give out lots of contributions like other ministers, other politicians?" If I were the type who didn't help people, I wouldn't have won Pandan with a majority of RM48,000.
 
 My view is, I don't like this sort of thing being turned into political material. If I go help someone who's struggling, and we take photos of them and broadcast it everywhere — that's not right. If you want to help, just help — that's the responsibility of a member of parliament anyway. It's the same when we build infrastructure facilities — there's no need to officiate it with photos, as if to say "look how much I've done," because that's simply our duty.
 
@@ -487,7 +487,7 @@ The best example is our dependence and addiction to cheap fuel. Try telling peop
 
 **Host:** So what did YB actually do while serving as minister before? Many are asking, throughout that period, it was as if YB did nothing.
 
-**Rafizi Ramli:** Yes, people ask, what did he do as minister, when he was minister he did nothing — probably because they thought I was the type who'd say "oh, I have no money, oh I'm announcing an extra 50 days of leave, oh I'm giving that bonus." That's performative — it won't solve the problem.
+**Rafizi:** Yes, people ask, what did he do as minister, when he was minister he did nothing — probably because they thought I was the type who'd say "oh, I have no money, oh I'm announcing an extra 50 days of leave, oh I'm giving that bonus." That's performative — it won't solve the problem.
 
 So the first thing I looked at before was that energy is the blood vessels of the economy — like blood in the body. If those blood vessels have a problem, it will dry and suffocate the economy in the future. We built our country's economy in the 70s, 80s, 90s based on wildly subsidized, extremely cheap energy. That's why so many factories came here — because of the low costs. But that can't continue. That's why we created the National Energy Transition Roadmap, NETA.
 
@@ -499,7 +499,7 @@ Many things have actually been decided under NETA, but some are complicated to e
 
 **Host:** What's the difference between NETA and previous energy policies?
 
-**Rafizi Ramli:** We already had the National Energy Policy before this, launched in 2022. It's just that NETA is more comprehensive — including things we've never heard of, like biodiesel, there are 10 tiers. And it clearly sets out who needs to do what — Petra has to do this, and the ecosystem including EVs is included, MITI has to do that — and there are targets. I think that's what was lacking in the previous government. The problem with policy in our country is — even though policymakers have been saying since way back that we can't depend on cheap fossil energy because it will run out, said 20-30 years ago already — nobody dared to deal with the elephant in the room.
+**Rafizi:** We already had the National Energy Policy before this, launched in 2022. It's just that NETA is more comprehensive — including things we've never heard of, like biodiesel, there are 10 tiers. And it clearly sets out who needs to do what — Petra has to do this, and the ecosystem including EVs is included, MITI has to do that — and there are targets. I think that's what was lacking in the previous government. The problem with policy in our country is — even though policymakers have been saying since way back that we can't depend on cheap fossil energy because it will run out, said 20-30 years ago already — nobody dared to deal with the elephant in the room.
 
 Why, for example, during Najib's time, even though there were ambitions for solar, it didn't go anywhere? By 2023, before NETA was created, solar's contribution to the country was very small.
 
@@ -509,11 +509,11 @@ The 2025 installed capacity breakdown: 29% coal, 42% gas, only 1% bioenergy, 14%
 
 **Host:** We have two more topics, and people are still waiting for the Papa Gomo segment. Can we touch a bit on EV?
 
-**Rafizi Ramli:** I think EV really deserves its own special series — sorry, there's no time for EV this time.
+**Rafizi:** I think EV really deserves its own special series — sorry, there's no time for EV this time.
 
 **Host:** Alright, back to the earlier question — since solar already existed before, what did Rafizi actually do as minister?
 
-**Rafizi Ramli:** The problem is, when we create a national energy policy, our policies are all aspirational — we dream of the country being like this and that. That's what people say — the policy is good, but the implementation doesn't work out. Why doesn't implementation work? Because we don't dare touch the sensitive things. When it comes to electricity, what exactly is so sensitive about it?
+**Rafizi:** The problem is, when we create a national energy policy, our policies are all aspirational — we dream of the country being like this and that. That's what people say — the policy is good, but the implementation doesn't work out. Why doesn't implementation work? Because we don't dare touch the sensitive things. When it comes to electricity, what exactly is so sensitive about it?
 
 Existing capital, monopoly — people don't dare touch the monopoly. People say, "this will kill TNB." And our system was built with IPPs — independent power producers — people say cronies got them. Getting an IPP licence is like getting a licence to print money, because as soon as you get that concession, you can take it to the bank, and the bank will finance the entire project. Then you sign a PPA — Power Purchase Agreement — with TNB, and TNB, whether it wants to or not, has to pay.
 
@@ -543,15 +543,15 @@ Our targets for 2030, 2040, 2050 — NETA is now a framework. We know how much i
 
 **Host:** What about the issue of rooftop solar? We have two more topics to discuss.
 
-**Rafizi Ramli:** A little more, we have two more topics. Which one do you want to ask about?
+**Rafizi:** A little more, we have two more topics. Which one do you want to ask about?
 
 **Host:** Rooftop.
 
-**Rafizi Ramli:** Never mind, let's save that for later. Even though we're not touching on it now, let the brothers and sisters think about it themselves, because we want to talk about Papa Gomo. But before Papa Gomo, we have our guest — Zambaki, right. We need to talk about...
+**Rafizi:** Never mind, let's save that for later. Even though we're not touching on it now, let the brothers and sisters think about it themselves, because we want to talk about Papa Gomo. But before Papa Gomo, we have our guest — Zambaki, right. We need to talk about...
 
 **Host:** Next week already.
 
-**Rafizi Ramli:** As an endangered species being cared for and preserved by the Malaysian government — preserved, yes, right to the very end we'll see how Tan Sri Azam Baki... We don't know what his actual findings were, but a recent statement from the government spokesperson said that the cabinet has already been presented with the outcome of the findings, and it's been handed to the KSN to take action. That was a month ago already. But as of three days before this, when the media asked, no action had been taken yet. YB, can you comment a bit — when it's reached the point where the MACC Chief Commissioner has become a species that needs protecting, masyaAllah to the government and to society, right.
+**Rafizi:** As an endangered species being cared for and preserved by the Malaysian government — preserved, yes, right to the very end we'll see how Tan Sri Azam Baki... We don't know what his actual findings were, but a recent statement from the government spokesperson said that the cabinet has already been presented with the outcome of the findings, and it's been handed to the KSN to take action. That was a month ago already. But as of three days before this, when the media asked, no action had been taken yet. YB, can you comment a bit — when it's reached the point where the MACC Chief Commissioner has become a species that needs protecting, masyaAllah to the government and to society, right.
 
 The people will remember, the government and cabinet can always give excuses, "Oh, actually we're waiting for the KSN, the KSN hasn't brought it yet" — passing the buck to the KSN, right. Same as before, when there was exposure of a shareholding, it got passed off to a committee of friends to be jointly investigated. Everyone also knows that the KSN is answerable to the Prime Minister. If the PM says "speed him up," speed him up. If the PM says hurry, he'll hurry. I don't even know whether the KSN is reviewing this matter or not. Maybe cut down a little on the "Setia Madani" tour with civil servants and please get this settled, right. If he's busy with the Setia Madani tour while this issue is going to become a huge burden on the government if they keep giving the excuse "our administration is still waiting for the report, the KSN hasn't brought it yet."
 
@@ -573,7 +573,7 @@ So, don't forget — next week I'll be promoting this every day. We have two app
 
 **Amin:** He's the head of strike—
 
-**Rafizi Ramli:** —com. Head of strike com for other people, other than me. Amin, right. And maybe this is why — during PH's campaign before, when PH was the victim, people saw, "oh, poor them, getting arrested, getting intimidated," people felt sympathy and gave support. Conversely, the government that supposedly wants to control public trauma now uses its power, but the backlash falls on them instead — as if they're cruel and oppressive. This is a playbook that PH itself benefited from and experienced firsthand. But why is it being repeated now — not 360 degrees, 180 degrees. Ha, 180 degrees, like that. Yeah, it's hard for us to understand how their minds work.
+**Rafizi:** —com. Head of strike com for other people, other than me. Amin, right. And maybe this is why — during PH's campaign before, when PH was the victim, people saw, "oh, poor them, getting arrested, getting intimidated," people felt sympathy and gave support. Conversely, the government that supposedly wants to control public trauma now uses its power, but the backlash falls on them instead — as if they're cruel and oppressive. This is a playbook that PH itself benefited from and experienced firsthand. But why is it being repeated now — not 360 degrees, 180 degrees. Ha, 180 degrees, like that. Yeah, it's hard for us to understand how their minds work.
 
 Actually, if we're offensive — it's true, I'm always offensive, I've never been defensive in anything I do. That's what people call "aggressive," that's really what it is. We really need to be offensive — if you play football and just sit in front of your own goalpost, when are you ever going to win? You really need to attack. It's just that being offensive is different when we're the opposition versus when we're the government. As the opposition, we need to be offensive in exposing the government's weaknesses, especially if there's misconduct, corruption, integrity issues. On that front we need to be offensive because we are the people's last line of defence. If we don't speak up, government departments — MACC, PDRM — actually answer to their ministers, they won't act on their own. As long as we don't have independent institutions, then hoping the MACC will go arrest its own minister, I don't think that will happen. So as the people's last line of defence, if we're the opposition, when there are integrity and corruption cases, we really need to oppose, need to be aggressive. We also need to be offensive on policy matters, to show and convince the people how we would do things differently. If we feel, like the energy matter earlier, that there's something problematic and that business as usual won't save the country from becoming a Titanic hitting an iceberg — then you need to lay it out, you need to convince people. That's the opposition's way of being offensive.
 

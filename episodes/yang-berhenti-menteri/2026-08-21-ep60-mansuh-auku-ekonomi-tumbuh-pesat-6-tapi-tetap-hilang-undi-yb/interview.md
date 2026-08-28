@@ -8,11 +8,10 @@ duration_seconds: 11922
 duration: 3h 18m
 view_count: 89200
 hosts:
-- Rafizi Ramli
+- Rafizi
+- Haziq
 guests:
-- Joe (Samdek Joe)
-- Aziz
-- Host (unnamed presenter)
+- Sum Dek Joe
 topics:
 - Introduction of guest Joe and his career background
 - Reasons for Joe leaving international career to volunteer with Bersama
@@ -416,7 +415,7 @@ Jadi kalau budaya itu, dua tiga tahun daripada sekarang, memang dah diterima pol
 
 **Rafizi:** So —
 
-**Rafizi:** A shadow candidate maksudnya dia belum confirmed lagi dan boleh ditukar. Dia semuanya memang telah menandatangani bond, semua itu kan. Tapi, mengambil apa yang Aziz cakap tadi, kalau tiba-tiba dia kena disoal — contohnya, tiba-tiba dua minggu lagi terpapar besar-besaran yang dia sebenarnya scammer terbesar Malaysia — jadi kita kena tarik balik pencalonan itu. Kita memang buat seberapa yang mampu untuk menapis semua calon. Jadi selagi dia belum menjadi calon rasmi, memang dia calon bayangan lah — sama macam shadow cabinet, kabinet bayangan.
+**Rafizi:** A shadow candidate maksudnya dia belum confirmed lagi dan boleh ditukar. Dia semuanya memang telah menandatangani bond, semua itu kan. Tapi, mengambil apa yang Haziq cakap tadi, kalau tiba-tiba dia kena disoal — contohnya, tiba-tiba dua minggu lagi terpapar besar-besaran yang dia sebenarnya scammer terbesar Malaysia — jadi kita kena tarik balik pencalonan itu. Kita memang buat seberapa yang mampu untuk menapis semua calon. Jadi selagi dia belum menjadi calon rasmi, memang dia calon bayangan lah — sama macam shadow cabinet, kabinet bayangan.
 
 **Haziq:** Baik, baik. Kita nak mengundi. Bagi Kak Jo, kena pilih—
 
@@ -482,7 +481,7 @@ Jadi semua proses ini — nak mansuhkan AUKU pun mesti dibawa ke kabinet, becaus
 
 **Rafizi:** Well, sepatutnya, kalau Menteri Pendidikan Tinggi tak nak bersetuju, ada dua pilihan lah. Satu, Menteri Pendidikan Tinggi itu letak jawatan — because kalau inilah pendirian kerajaan dan dia tak nak buat, then you are no longer aligned with the Prime Minister, you letak jawatan lah kerana you dah tak dapat mandat daripada Perdana Menteri. Yang kedua, Perdana Menteri buang, ganti dengan yang baru. Actually that is the basic concept, your time — contohnya bila keadaan itu berlaku, semua tahu apa yang berlaku dalam pemilihan PKR itu banyaknya sebenarnya berpunca daripada pandangan Dato' Seri Anwar sendiri; dia yang mengizinkan tata cara pemilihan itu. Maksudnya, kalau saya sudah hilang keyakinan daripada Perdana Menteri, then I have no business to be there, kerana kalau Perdana Menteri dah tak ada keyakinan dengan apa-apa yang saya nak buat, kementerian saya nak buat pun memang payah nanti kan — similarly, it works both ways lah. Kalau PM dah kata kita nak buat satu, dua, tiga, dia dah umumkan kepada orang, dan Kementerian Pendidikan Tinggi serta menteri tak nak, then you better resign, atau pun ganti dengan menteri yang lain kan. Tapi itu satu perspektif lah.
 
-Yang satu lagi — saya rasa ini nak menjawab soalan Aziz tadi — ialah pemansuhan AUKU sahaja tak jamin pengundi muda sokong PH kan. Kita tak boleh nak mengesahkan apa niat sebenar Dato' Seri Anwar tiba-tiba nak mansuhkan AUKU ini. Kita boleh buat spekulasi, kita boleh ulas — besar kemungkinan ini dilihat sebagai satu daripada bukti reformasi sedang berjalan, sebab kritikan utama terutamanya daripada penyokong PH ialah kerajaan ini telah mengabaikan reformasi, jadi mansuhkan AUKU lah kan.
+Yang satu lagi — saya rasa ini nak menjawab soalan Haziq tadi — ialah pemansuhan AUKU sahaja tak jamin pengundi muda sokong PH kan. Kita tak boleh nak mengesahkan apa niat sebenar Dato' Seri Anwar tiba-tiba nak mansuhkan AUKU ini. Kita boleh buat spekulasi, kita boleh ulas — besar kemungkinan ini dilihat sebagai satu daripada bukti reformasi sedang berjalan, sebab kritikan utama terutamanya daripada penyokong PH ialah kerajaan ini telah mengabaikan reformasi, jadi mansuhkan AUKU lah kan.
 
 Saya bersetuju — dengan siapa penganalisis ini asalnya, I don't know lah — saya bersetuju bahawa sebenarnya kebanyakan pengundi biasa, apatah lagi pengundi muda, AUKU bukan isu. Isu mengenai AUKU ini sebenarnya ialah isu pembinaan negara yang langsung tidak populis. Isu AUKU ini yang kita boleh ulas — sebenarnya apa kesan AUKU kepada negara sebelum ini, dan apa yang ideal perlu ada dalam negara kalau kita nak pastikan masyarakat kita cemerlang, ekonomi kita tumbuh, dan sebagainya. Harapan bahawa ini akan berjaya menarik undi muda — saya tak rasa ramai orang muda pun yang faham sebenarnya apa kesan AUKU itu. Sebab kalau nak kata AUKU ini mengharamkan penglibatan dalam politik — mana ada; AUKU telah dipinda pada 2019, siswa dan pelajar-pelajar memang boleh menyertai parti politik, tak ada masalah kan. Saya tak rasa mereka melihat AUKU ini sebagai satu faktor harian yang mempengaruhi keputusan mereka.
 
@@ -508,7 +507,7 @@ The other side, yang sama penting, ialah kemampuan kewangan dari perspektif pela
 
 Coming back to soal universiti ini — mungkin ramai yang menonton ini pun daripada latar belakang universiti, dan saya rasa orang ramai tak banyak diskusi atau public discourse yang betul-betul mengupas struktur atau model yang kita ada. Kita ambil contoh model yang kita ada lah — kita ada dua aliran, satu universiti awam, satu lagi universiti swasta. Jadi semua yang berkaitan dengan AUKU ini sebenarnya berpunca daripada hakikat bahawa hanya kerajaan yang mampu menubuhkan universiti untuk orang ramai. Universiti swasta pun banyak, dan now it's getting better lah, orang actually take loans atau self-fund melalui PTPTN. Tapi kebanyakannya, universiti awam lah — kita ada lebih kurang 20 universiti awam, campur dengan UIA yang tak dikira secara rasmi sebagai universiti awam. Satu lagi ialah UPNM, satu lagi UiTM. UPNM, UiTM, UIA — tak pakai AUKU. Jadi, all in all, lebih kurang 23 universiti awam lah kan.
 
-**Sum Dek Jo:** Well, itu pun sebenarnya agak debatable lah kalau you kata tak pakai AUKU, Aziz. Tiga universiti itu — sebenarnya empat. UIA ditubuhkan sebagai sebuah syarikat. UiTM ada akta dia sendiri, Akta ITM, I think tahun 76 ke apa. Kemudian UPNM, dan satu lagi, Universiti Malaya—
+**Sum Dek Jo:** Well, itu pun sebenarnya agak debatable lah kalau you kata tak pakai AUKU, Haziq. Tiga universiti itu — sebenarnya empat. UIA ditubuhkan sebagai sebuah syarikat. UiTM ada akta dia sendiri, Akta ITM, I think tahun 76 ke apa. Kemudian UPNM, dan satu lagi, Universiti Malaya—
 
 **Haziq:** UM ada akta sendiri.
 
@@ -574,7 +573,7 @@ Board sekarang ini dipilih — apa ni, VC dipilih oleh menteri. Malah TNC, timba
 
 **Haziq:** Dulu waktu saya di UM, ada orang yang datang lobby untuk saya bagi nama dia sebagai TNC lah.
 
-**Rafizi:** So, maksudnya, pencari lobbying kau? Wah, hebat, orang kuat lah ini, Aziz — sebab masa itu kau presiden kesatuan mahasiswa. Korang gelakkan Aziz tau, Aziz dulu presiden kesatuan mahasiswa tau. I mean, that's what happened, sampai macam itu sekali lah.
+**Rafizi:** So, maksudnya, pencari lobbying kau? Wah, hebat, orang kuat lah ini, Haziq — sebab masa itu kau presiden kesatuan mahasiswa. Korang gelakkan Haziq tau, Haziq dulu presiden kesatuan mahasiswa tau. I mean, that's what happened, sampai macam itu sekali lah.
 
 Jadi, kalau ia tak ada one size fits all kan. Cuma, kalau kita tengok model — kita ada, okay, cut lah — kalau kita tengok negara-negara yang universitinya nampak lebih baik daripada kita, ada dua tiga jenis negara. Satu, negara-negara Barat, termasuklah Australia, US, Eropah semua. Satu, China — model dia lain, tapi keberhasilan universitinya ke langit. Satu lagi, Korea dan Jepun, yang sebenarnya lebih rapat kepada model negara-negara Barat.
 
@@ -586,7 +585,7 @@ Jadi kalau kita tengok model di Eropah, di US, di Australia, di Jepun, di Korea 
 
 Board itulah yang menentukan hala tuju universiti, dan board is concerned about sustainability, quality, semua itu. Kemudian, ada beberapa cara — sama ada melalui nomination committee atau search committee yang mencari naib canselor. Ia boleh dibuka secara terbuka. Naib canselor, kadang-kadang, di negara lain, boleh jadi rakyat negara lain, akademik daripada negara lain — biasa, itu perkara biasa. Ia bukannya, "saya mesti alumni Universiti Malaya untuk menjadi VC Universiti Malaya" — ia terbuka kepada satu dunia, siapa-siapa pun boleh. Cuma masalah orang kita, katakanlah ada orang Finland jadi Vice Chancellor UM kan — oh, kecoh lah, "Islam terancam," "tak ada orang Malaysia ke," "Islam terancam," semua kan. Tetapi dalam dunia akademik, it's not like that — it's actually open. Itu autonomi mereka.
 
-Then, when you get the selection process itu right, dan kita dapat orang yang terbaik untuk menjadi kepimpinan universiti daripada VC kepada NC, TNC semua — at least itu dah pada landasan yang betul. Jadi untuk soalan Aziz tadi — macam mana kita nak selesaikan soal job market mismatch — ada satu lagi badan di universiti, iaitu senate. Senate ini sebenarnya management committee lah. Board ialah yang paling atas, kemudian ada senate, management committee. Senate ini wakil-wakil daripada fakulti semua — dean-dean yang duduk dalam senate — mengendalikan soal kualiti, silibus, dan sebagainya.
+Then, when you get the selection process itu right, dan kita dapat orang yang terbaik untuk menjadi kepimpinan universiti daripada VC kepada NC, TNC semua — at least itu dah pada landasan yang betul. Jadi untuk soalan Haziq tadi — macam mana kita nak selesaikan soal job market mismatch — ada satu lagi badan di universiti, iaitu senate. Senate ini sebenarnya management committee lah. Board ialah yang paling atas, kemudian ada senate, management committee. Senate ini wakil-wakil daripada fakulti semua — dean-dean yang duduk dalam senate — mengendalikan soal kualiti, silibus, dan sebagainya.
 
 Jadi sepatutnya, kita boleh manage soal mismatch ini kalau flow itu seamless daripada board kepada senate untuk mengurus. Because the board would know, contohnya, funding kita banyak-banyak ini je, okay, ini keberhasilan kita di luar sekian-sekian. Dan ada wakil industri, ada luminaries di situ — this is where the future is going, kita mula kena tu kan. Dan itulah yang, daripada keputusan-keputusan di board, diterjemahkan oleh NC dan juga senate. Cuma give and take itu kena berlaku — sebab dalam senate, contohnya, kalau ada fakulti yang sebenarnya kursus ini nampaknya tidak lagi mendapat sambutan, atau is actually already quite outdated, some courses terpaksa di-phase out lah. Dan kalau daripada board dan senate, you would say, "Kita sebenarnya nak kena double or triple intake untuk ini," dan kita nak translate ini kepada more lecture rooms, more labs, more intakes — instead of 300 per intake, maybe you need to start taking 700, 800 — semua ini dalam kemampuan akademik untuk buat. Ia bukanlah rocket science.
 

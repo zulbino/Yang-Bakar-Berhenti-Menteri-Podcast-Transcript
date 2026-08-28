@@ -10,9 +10,8 @@ view_count: 38244
 hosts:
 - Rafizi
 - Haziq
-- Rafizi
 guests:
-- Dr. Irwan Arifin
+- Prof Madya Dr Muhammad Irwan Ariffin
 topics:
 - 13th Malaysia Plan (RMK13) overview and structure
 - Education reform and teacher training (IPG)
@@ -30,8 +29,8 @@ topics:
 - Price transparency in supply chains
 - Nuclear energy (SMR) rollout timeline
 - Role of ministers vs technical experts in policymaking
-summary: In this episode of "Podcast Yang Berhenti Menteri," hosts Rafizi, Haziq
-  and Zak are joined by Dr. Muhammad Irwan Arifin, an economics academic from Universiti
+summary: In this episode of "Podcast Yang Berhenti Menteri," hosts Rafizi, Haziq and
+  Zak are joined by Dr. Muhammad Irwan Arifin, an economics academic from Universiti
   Islam Antarabangsa Malaysia (UIA), to dissect Malaysia's 13th Malaysia Plan (RMK13).
   After a light-hearted introduction of Dr. Irwan, the conversation moves into how
   RMK13 differs from past five-year plans by focusing on root-cause structural reform

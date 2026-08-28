@@ -9,9 +9,9 @@ duration: 1h 36m
 view_count: 50133
 hosts:
 - Rafizi
-guests:
 - Iqbal
-- Cili Sos
+guests:
+- Chak Onn Lau
 topics:
 - Rafizi's education and scholarship background
 - Farhaj and his alleged influence over Anwar Ibrahim
@@ -26,16 +26,15 @@ topics:
 - Separation of Attorney General and Public Prosecutor roles
 - Rafizi's political ambitions and views on power
 summary: A crossover episode between "Berhenti Menteri" and the "Siapa Makan Cili"
-  podcast, where hosts Iqbal and Cili Sos interview Rafizi. The wide-ranging
-  conversation covers his schooling and scholarship history (Exxon, Petronas), his
-  early PKR involvement, the rise and influence of Farhaj within Anwar Ibrahim's inner
-  circle and the so-called "Black Shirt Gang" faction, the Kajang Move and the "ends
-  justify the means" debate, the formation of the unity government with UMNO, the
-  controversial MCMC Act Section 233 "offensive and annoying" provision and cyberbullying
-  laws, his candid grading of fellow cabinet ministers' performance, whether UMNO
-  is a scapegoat for slow reforms, the PADU centralized data initiative and subsidy
-  retargeting politics, cyber troopers and online toxicity, and his own ambivalence
-  about ambitions of becoming Prime Minister.
+  podcast, where hosts Iqbal and Cili Sos interview Rafizi. The wide-ranging conversation
+  covers his schooling and scholarship history (Exxon, Petronas), his early PKR involvement,
+  the rise and influence of Farhaj within Anwar Ibrahim's inner circle and the so-called
+  "Black Shirt Gang" faction, the Kajang Move and the "ends justify the means" debate,
+  the formation of the unity government with UMNO, the controversial MCMC Act Section
+  233 "offensive and annoying" provision and cyberbullying laws, his candid grading
+  of fellow cabinet ministers' performance, whether UMNO is a scapegoat for slow reforms,
+  the PADU centralized data initiative and subsidy retargeting politics, cyber troopers
+  and online toxicity, and his own ambivalence about ambitions of becoming Prime Minister.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).

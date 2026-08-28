@@ -136,6 +136,28 @@ python scripts/splice_gap.py ep48 --clip-start 8500 --keep-until 8960 --gap-from
 python scripts/label_drift_audit.py
 ```
 
+For an episode whose speakers may be named wrongly. **Confirm against the audio before
+renaming anyone.** A whole-episode mislabel is invisible from inside that episode, so
+text evidence alone is not enough (1.27).
+
+```bash
+# Which label is really Rafizi? Voiceprints, no LLM involved
+python scripts/verify_speaker_voiceprint.py --all-suspect
+
+# Is one label hiding two voices?
+python scripts/verify_speaker_voiceprint.py --episodes ep42 --per-block "Zikri Kamarulzaman"
+
+# Apply the rename. A swap needs a single pass, which is the whole point of this tool
+python scripts/relabel_speakers.py ep36 "Cincong=Rafizi" "Rafizi=Cincong" --dry-run
+```
+
+After relabelling `raw.md`, regenerate the rewrites rather than renaming inside them:
+`interview*.md` label sets drift from `raw.md` in ways no mapping can express (1.27).
+
+```bash
+python -c "import sys; sys.path.insert(0,'scripts');   from transcribe_episode import process_rewrite;   process_rewrite('KYJN-OhRdEA', force=True, rewrite_engine='claude')"
+```
+
 The full restoration recipe, including how speakers in newly-transcribed stretches get
 named from the episode's existing verified labels, is 1.26.
 
@@ -156,6 +178,7 @@ behind this table is 1.11, 1.14, 1.17, 1.23 and 1.25.
 | `wall-of-text` | Turns merged into one undifferentiated block | Genuine long monologues, excluded on purpose by counting inline speaker markers |
 | `truncated` | A rewrite disproportionately short against its raw transcript | Condensation that stays above the ratio |
 | `language` | A mixed-language transcript silently rewritten to English only | |
+| `speaker-attribution` | Most of an episode credited to someone other than Rafizi (1.27) | Wrong names on the *smaller* labels, and legitimately guest-led episodes, which it reports for judgement rather than assuming |
 
 `caption-coverage` runs in the opposite direction from the others. **It starts from the
 audio and asks what the transcript is missing.** Every other check reads the transcript
@@ -209,69 +232,31 @@ model line in `QA_CHECKLIST.md` until reprocessed.
 
 ## Speaker naming convention
 
-The 4 recurring cast members use short (first) names in `raw.md` -- `Rafizi`,
-`Haziq`, `Farhan (Pa'an)`, `Iqbal` -- and their full names in all three
-`interview*.md` rewrites (`Rafizi Ramli`, `Haziq`, `Farhan (Pa'an)`, `Iqbal`;
-"Haziq" and "Iqbal" don't have a longer form in use anywhere in the corpus).
-**I got this wrong once, and corrected it on 2026-08-26.** An earlier version of this
-note claimed the short form applied "everywhere... including interview*.md", based on a
-2026-08-24 archive-wide rename. That's not what the archive actually contains: as of
-this date, 34 of the corpus's `interview.md` files use the full `Rafizi
-Ramli:` label, and only a handful (all reprocessed after the redo-wipe bug
-below) use the short form. Treat `raw.md` = short name, `interview*.md` =
-full name as the real convention going forward; don't re-run a blanket
-short-name substitution against `interview*.md` based on this doc's earlier
-wording. Every other speaker (guests, one-off panelists) keeps their full
-name in both.
+The recurring cast use short (first) names as the speaker label in **every** file,
+`raw.md` and all three `interview*.md` rewrites alike: `Rafizi`, `Haziq`,
+`Farhan (Pa'an)`, `Iqbal`, `Wan Afiq`. Every other speaker (guests, one-off
+panelists) keeps their full name as the label.
 
-**Local-ASR redo silently wipes previously-applied speaker names, confirmed
-recurring, 2026-08-26:** any episode reprocessed via `--engine local` for an
-unrelated reason (corruption fix, drift fix, filler-loop fix) gets a
-completely fresh pyannote diarization pass with no memory of prior manual
-naming -- it always emits new anonymous "Speaker N" labels, silently
-reverting any naming work already done on that episode. First confirmed on
-ep25 (a manual naming commit followed one day later by a "redo via local
-ASR" commit that reset it back to generic labels), then found to affect the
-majority of a 39-episode backlog re-identified this session, none of which
-`qa_check.py` flags, since generic labels aren't a defect it checks for. No
-permanent fix implemented: before assuming an episode's generic labels mean
-it was never reviewed, check `git log -- <path>/raw.md` for a naming commit
-followed by a later local-ASR-redo commit, and budget for redoing the
-naming pass as a required last step after any such redo.
+The `hosts` and `guests` frontmatter fields carry the **fullest** form of a person's
+name, since they are metadata about who took part.
 
-**A same-person self-intro quirk that can look like a second speaker,
-confirmed on 5+ episodes:** Rafizi occasionally delivers the show's usual
-third-person-style opening line himself ("...macam biasa bersama saudara
-Rafizi Ramli...") instead of Haziq doing it, then continues straight into
-first-person content in the same breath. Read as two different people from
-the phrasing alone, this looks exactly like a diarization merge between an
-announcer and Rafizi; it isn't. Confirmed via cross-checking who a "Speaker
-N" cluster's later, unambiguous content belongs to (personal claims like
-being personally sued, or reminiscing about a specific ministerial
-portfolio) before concluding a cluster needs splitting. Seen on ep05, ep39,
-ep40, ep44, and ep58.
+**A speaker label names the person, so it uses their real name even when the show only
+ever uses a nickname.** ep36's guest is called `Cincong` throughout the audio and is
+labelled `Lee Chean Chung`. Words spoken inside the dialogue are never touched to match:
+that episode keeps its 25 spoken "Cincong" mentions, and so do ep45, ep50 and ep58.
+The label says who is talking; the transcript says what they said.
 
-**Two label-vs-real-person mismatches found and fixed before running this rename,
-both confirmed by direct audio listening, not guessed from text alone**:
-- ep30's raw `"Farhan"` label is a genuine third recurring panelist, not a
-  mislabeled Haziq (an earlier session's working theory, based on a since-corrected
-  Gemini redo that had wiped a prior manual correction): confirmed by his own
-  words in the transcript ("memang like Haziq mentioned just now", explicitly
-  distinguishing himself from Haziq) plus consistent panelist-level participation
-  across the full 2.5-hour episode, not one-off guest content.
-- ep39's raw `"Farhan Iqbal"` label (217 turns) was actually Haziq's voice:
-  an isolated per-run Gemini diarization slip specific to this one episode, not
-  a pattern affecting the other 10 episodes where `"Farhan Iqbal"` legitimately
-  appears. Fixed to `"Haziq Azfar"` (later shortened to `Haziq` by the archive
-  rename) before running the rename, so it wasn't caught in the blanket
-  substitution. The real `"Iqbal"` in ep39 (85 turns) is a separate, correctly
-  labeled recurring guest, confirmed distinct from Haziq by ear.
+**This changed on 2026-08-28, on the archive owner's call, and it reversed what this
+file said before.** The old convention was short names in `raw.md` and full names in
+`interview*.md`, which left `Rafizi` and `Rafizi Ramli` both in play as labels for the
+same man and made every cross-file comparison need a mapping table. One form
+everywhere removes that. If you find older commit messages or code comments
+describing the two-form split, they predate this decision.
 
-This confirms the standing risk noted elsewhere in this doc: per-run label
-inconsistency in Gemini's diarization is real and episode-specific, not just a
-theoretical concern; don't assume a mislabel found in one episode generalizes to
-every other episode using the same label, and don't assume a same-named label
-found correct in one episode generalizes either. Each case needs its own check.
+Three gotchas keep recurring around these labels: a local-ASR redo wipes names that were
+already applied, Rafizi sometimes delivers the show's own third-person intro line
+himself, and a label found wrong in one episode does not generalise to the others. All
+three, with the evidence, are [ENGINEERING_LOG.md 1.29](ENGINEERING_LOG.md#129-three-speaker-label-gotchas-that-keep-recurring).
 
 ## Retrying Gemini on a previously-failed episode
 
@@ -311,6 +296,21 @@ check, not silently shipped, but a reminder that block-splitting logic needs the
 same separator on the way back out as the way in.
 
 ## Known limitations
+
+- **1,366 speaker labels in `interview*.md` are still generic**, across 35 episodes:
+  `Host`, `Speaker 1`/`2`/`3`, `Interviewer`, `Pengacara` and bracketed variants.
+  The rewrite stage invented these where `raw.md` already carries a real name, so the
+  information exists -- it just was not carried across. 558 were resolved on 2026-08-28
+  in the six episodes where the mapping was forced (exactly one non-Rafizi speaker in
+  `raw.md`, that speaker a known recurring host, and no `Speaker N` among the generics).
+  The rest need a person, because two or more candidates fit and guessing would put a
+  named person on words that may not be theirs.
+
+  A generic label is vague rather than wrong, which is why this is a limitation and not
+  a bug. `scripts/label_drift_audit.py` lists the mismatches, and
+  [ENGINEERING_LOG.md 1.30](ENGINEERING_LOG.md#130-why-the-obvious-generic-label-rule-is-wrong)
+  records the rule that looks right and is not.
+
 
 - **Fixed, 2026-08-24**: episodes transcribed via `--engine local` previously had
   no speaker diarization at all: `raw.md` was one undifferentiated stream of
@@ -442,13 +442,21 @@ same separator on the way back out as the way in.
   access as granted well before the actual file-download (resolve) endpoint
   stopped 403ing; don't trust either of those as proof the pipeline will
   actually load; the only real test is trying the download.
-- Local ASR proper-noun accuracy (names, unusual spellings) isn't verified against
-  any reference dictionary yet: a manual correction pass is planned, guided by the
-  repo owner rather than guessed at automatically. Candidate tooling for that pass:
-  the `malaya` Python library's `dictionary.keyword_dbp()` and `dictionary.is_malay()`,
-  which check a word against Dewan Bahasa dan Pustaka's PRPM reference (scraped, not a
-  documented API, fine for occasional lookups during a correction pass, not for
-  validating every word of every transcript at scale).
+- **Proper nouns are checked by corpus comparison, not by a dictionary.**
+  `scripts/check_proper_nouns.py` reports names whose spelling is a near-miss of a form
+  used consistently elsewhere, and names the episode's own captions never heard. It
+  found and fixed 82 mangled mentions of six public figures on 2026-08-28. Roughly 250
+  candidates remain queued for a human.
+
+  An earlier plan here was to validate against Dewan Bahasa dan Pustaka's PRPM
+  dictionary via the `malaya` library's `dictionary.keyword_dbp()`. **That was dropped,
+  for two measured reasons.** The speech is colloquial and code-switched, so a
+  standard-Malay check flags well over 100,000 legitimate tokens (`kan` appears 19,493
+  times in the corpus, `tak` 18,961, `lah` 14,042). And it fails on the case that
+  matters most: `Cincong`, which concealed a sitting MP's name for months, *is* a valid
+  Malay word for fuss, so a dictionary would have marked it correct. A dictionary
+  answers "is this a word", and the question here is "is this the right person's name"
+  (ENGINEERING_LOG.md 1.28).
 - Crosstalk-driven entity errors are possible in any Whisper-family transcription,
   local or cloud.
 - Gemini's free-tier quota is unreliable for raw transcription on episodes longer

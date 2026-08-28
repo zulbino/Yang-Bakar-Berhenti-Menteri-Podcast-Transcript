@@ -8,7 +8,8 @@ duration_seconds: 5491
 duration: 1h 31m
 view_count: 108943
 hosts:
-- Rafizi Ramli
+- Rafizi
+- Haziq
 guests: []
 topics:
 - Viral fake/bot engagement on PKR live stream (Chittagong, Amharic language)
@@ -195,7 +196,7 @@ Because of that, this is probably the liveliest election yet. And so far, despit
 
 **Speaker 1:** But if we look at this round too, aside from the offers and what will be done if they win, this might also be a testing ground for political alignment. For example, look at how some say this time they're trying to test the vision of the earlier Muafakat Nasional cooperation, but through Barisan Nasional, PAS, and also Wawasan, for instance.
 
-**Speaker 2:** But if you read the implied messages about Wawasan, because Wawasan presents itself as a bridge — a bridge toward voter alignment. But if we read what's explicit, this bridge, a bridge between whom and whom, from where to where — I don't see it as a bridge between Tan Sri Muhyiddin's Bersatu and Datuk Seri Hadi Awang's PAS. Their fight has really been — even Anwar and I don't fight like that, at most I poke at him a little. So if the bridge that's often touted as Wawasan's strategic function — what I understand is that this bridge is between UMNO and PAS. And in the middle of that is Datuk Seri Hamzah Zainudin and Wawasan as the second bridge. That's toward Ummah unity. Call it whatever you want, call it Muafakat 2.0 or whatever, go ahead. So that's what I see.
+**Speaker 2:** But if you read the implied messages about Wawasan, because Wawasan presents itself as a bridge — a bridge toward voter alignment. But if we read what's explicit, this bridge, a bridge between whom and whom, from where to where — I don't see it as a bridge between Tan Sri Muhyiddin's Bersatu and Datuk Seri Hadi Awang's PAS. Their fight has really been — even Anwar and I don't fight like that, at most I poke at him a little. So if the bridge that's often touted as Wawasan's strategic function — what I understand is that this bridge is between UMNO and PAS. And in the middle of that is Datuk Seri Hamzah Zainuddin and Wawasan as the second bridge. That's toward Ummah unity. Call it whatever you want, call it Muafakat 2.0 or whatever, go ahead. So that's what I see.
 
 How this will play out in the Johor state election, I think we'll only be able to see after the candidates are announced. If, for example, PAS doesn't contest much in UMNO's seats, then surely it'll be felt that this alignment is indeed happening behind the scenes. So it'll become a cycle again — from PAS replacing UMNO, to PAS fighting UMNO, then PAS embracing UMNO in Muafakat Nasional, then PAS being together in government after the Sheraton Move, then PAS cursing UMNO as "UMDAP," and now back to being sweet again. So we'll only see that after candidate nominations.
 

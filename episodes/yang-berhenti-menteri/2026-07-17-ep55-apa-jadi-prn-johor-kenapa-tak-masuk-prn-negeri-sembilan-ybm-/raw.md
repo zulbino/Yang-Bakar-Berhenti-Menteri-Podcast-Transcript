@@ -38,7 +38,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [01:45] Rafizi: sama
 
-[01:45] Haziq: tengok lah. Muka sama. Aziz versi China. Okay baik. Kita buat icebreaking sikit eh. Just nak tahu untuk masing-masing. Bila first time jumpa YB Yiraf? Saudara Fizi, pertama kali.
+[01:45] Haziq: tengok lah. Muka sama. Haziq versi China. Okay baik. Kita buat icebreaking sikit eh. Just nak tahu untuk masing-masing. Bila first time jumpa YB Yiraf? Saudara Fizi, pertama kali.
 
 [02:02] Tang Hong Yau: Bulan lepas
 
@@ -316,7 +316,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:14:30] Dr. Harith Fakhrudin: tell.
 
-[1:14:32] Rafizi: Now it's already so polarized. You tahulah sebenarnya ini jenis yang kalau dah sampai tsunami ni. Tsunami begitulah kan. Cuma yang selalu susah untuk kita semak ialah pengundi India lah. Sebab pengundi India hardly ada sebarang tempat mengundi yang exclusively pengundi India. Dan pengundi India tu is very small. kemungkinan mungkin ada 30% je pengundi India. So even from that, for you to say conclusively, pengundi India bagi banyak ni, banyak tu pun quite difficult lah kan. But the number of Chinese voters tu are statistically significant enough lah untuk kita buat analisa pengkat atas. And bagi saya memang it's quite obvious lah kalau soalan Aziz tu maksudnya kepada UMNO, BN dan Chinese, BN paling kurang dapat 25%-30%.
+[1:14:32] Rafizi: Now it's already so polarized. You tahulah sebenarnya ini jenis yang kalau dah sampai tsunami ni. Tsunami begitulah kan. Cuma yang selalu susah untuk kita semak ialah pengundi India lah. Sebab pengundi India hardly ada sebarang tempat mengundi yang exclusively pengundi India. Dan pengundi India tu is very small. kemungkinan mungkin ada 30% je pengundi India. So even from that, for you to say conclusively, pengundi India bagi banyak ni, banyak tu pun quite difficult lah kan. But the number of Chinese voters tu are statistically significant enough lah untuk kita buat analisa pengkat atas. And bagi saya memang it's quite obvious lah kalau soalan Haziq tu maksudnya kepada UMNO, BN dan Chinese, BN paling kurang dapat 25%-30%.
 
 [1:15:37] Haziq: Sedikit soalan susulan kepada UBAT Maksudnya Sampai sekarang ni Chinese yang kita tahu sebelum ni Hardcore PH semua Tapi kali ni mereka sanggup mengundi BN balik Dan MCA Sebab tadi kita dah cakap bahawa Yelah macam-macam sentiment Cuba dimainkan oleh DAP Dan termasuk Adalah Perkahwinan BN dengan PAS ni Adakah itu tak berkesan ke Atau tak clear lagi waktu tu ke
 

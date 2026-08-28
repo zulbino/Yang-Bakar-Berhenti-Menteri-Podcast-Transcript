@@ -306,9 +306,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:42:46] Rafizi: benda ni tak pernah berlaku dalam sebarang podcast sebelum ini aku nak berikan ceng hahaha
 
-[1:42:53] Haziq: Sebelum ni, wari bercincung lah.
+[1:42:53] Haziq: Sebelum ni, YB Chean Chung lah.
 
-[1:42:56] Rafizi: Pernah kan, wari bercincung
+[1:42:56] Rafizi: Pernah kan, YB Chean Chung
 
 [1:42:57] Haziq: pergi
 

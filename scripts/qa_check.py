@@ -235,6 +235,40 @@ WEAK_MODELS = set(MODEL_FALLBACK_CHAIN[6:])
 # as 12 problems when it holds 10.
 MIN_ACTIONABLE_DRIFT_SECONDS = 60
 
+# Seven episodes filed most of Rafizi's speech under a co-host's name and passed every
+# check above, because nothing here compared one episode against the rest of the corpus.
+# Each looked internally consistent: the diarizer had merged the speakers into a single
+# cluster, and the naming pass then labelled that cluster after whoever it saw first.
+#
+# He is the show's principal, so his share of the text is stable corpus-wide and the
+# outliers separate cleanly: the median is 87%, healthy episodes run 68-99%, and the
+# seven bad ones sat at 0-7%. Flagging any episode where a label other than his holds
+# the most text catches all seven.
+#
+# Two legitimate exceptions, so this reports rather than assumes: a guest-led interview
+# really can leave the guest with the larger share (ep05 at 53%, ep21 at 51%, both
+# confirmed by voiceprint), and ep45 is deliberately unlabelled. Verify a flag with
+# scripts/verify_speaker_voiceprint.py before renaming anything -- that compares voices
+# across episodes and is the only check here immune to a whole-episode mislabel.
+PRINCIPAL_LABELS = {"Rafizi", "Rafizi Ramli", "YB Rafizi"}
+MIN_PRINCIPAL_SHARE_PCT = 25
+
+
+def principal_share(body):
+    """Share of transcript text under the principal's label, and the label holding most."""
+    totals = {}
+    for match in INLINE_TURN_RE.finditer(body):
+        label = body[match.start():match.end()].split("]", 1)[1].strip().rstrip(":").strip()
+        end = body.find("\n\n", match.end())
+        text = body[match.end():end if end != -1 else len(body)]
+        totals[label] = totals.get(label, 0) + len(text)
+    total = sum(totals.values())
+    if not total:
+        return None, None, 0
+    principal = sum(chars for label, chars in totals.items() if label in PRINCIPAL_LABELS)
+    dominant = max(totals, key=totals.get)
+    return 100 * principal / total, dominant, 100 * totals[dominant] / total
+
 
 def last_timestamp_seconds(text):
     matches = TIMESTAMP_RE.findall(text)
@@ -460,6 +494,15 @@ def check_episode(ep_dir):
     split_count = len(SPLIT_TIMESTAMP_RE.findall(body))
     if split_count:
         issues.append(("split-timestamp", f"raw.md has {split_count} turn(s) with '[MM:SS]' and 'Speaker: text' split across two lines instead of one"))
+
+    share, dominant, dominant_share = principal_share(body)
+    if share is not None and dominant not in PRINCIPAL_LABELS and share < MIN_PRINCIPAL_SHARE_PCT:
+        issues.append((
+            "speaker-attribution",
+            f"raw.md gives Rafizi only {share:.0f}% of the text while {dominant!r} holds "
+            f"{dominant_share:.0f}% -- likely a whole-episode speaker mislabel; confirm with "
+            f"scripts/verify_speaker_voiceprint.py before renaming",
+        ))
 
     raw_len = len(raw_text)
     for name in ("interview.md", "interview-en.md", "interview-ms.md"):
