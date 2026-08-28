@@ -1,72 +1,51 @@
 {
-  "_README": [
-    "Adjudicated QA verdicts, so a reviewed episode stays reviewed.",
-    "",
-    "qa_check.py regenerates QA_CHECKLIST.md from scratch on every run, which means",
-    "its checkboxes cannot hold review state -- tick one and the next run erases it.",
-    "Without this file, every session re-discovers and re-investigates the same",
-    "already-adjudicated episodes. That is what kept the flagged count stuck at",
-    "14-16 while real work was being done.",
-    "",
-    "Keys are episode slugs. Under each, a signature name maps to a verdict.",
-    "Signature names match the `signature` argument in qa_check.py's issue() calls:",
-    "  wall-of-text, drift, content-loss, duplicates, backward-jump, truncated,",
-    "  coverage, round-timestamps, weak-model, language, split-timestamp,",
-    "  leaked-reasoning, repetition-loop, short-loop, missing-file",
-    "",
-    "verdict: \"benign\" moves the issue out of the flagged list into a separate",
-    "'Reviewed, judged benign' section. Any other verdict (or no entry) leaves it",
-    "flagged. Always record a reason and a date -- a suppression with no rationale",
-    "is worse than no suppression.",
-    "",
-    "Re-flag by deleting the entry. If an episode is reprocessed and its content",
-    "changes, delete its entries so the new output gets judged fresh."
-  ],
-  "2026-03-27-ep41-siapa-mr-r-bukti-40-muka-surat-tindak-balas-kerajaan-susulan": {
-    "wall-of-text": {
-      "verdict": "benign",
-      "reason": "Coarse-VAD-merge artifact, not merged turns: the giant block carries a single speaker label, so it is one real long monologue. See ENGINEERING_LOG.md 1.11.",
-      "date": "2026-08-27"
-    }
-  },
-  "2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar": {
-    "wall-of-text": {
-      "verdict": "benign",
-      "reason": "Confirmed non-bug via deep-probe in a prior session; single speaker label in the flagged block. ENGINEERING_LOG.md 1.11.",
-      "date": "2026-08-27"
-    }
-  },
-  "2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa": {
-    "wall-of-text": {
-      "verdict": "benign",
-      "reason": "Reclassified as a FALSE alarm in a prior session -- same coarse-VAD-merge artifact as ep41. ENGINEERING_LOG.md 1.11.",
-      "date": "2026-08-27"
+    "_README": [
+        "Adjudicated QA verdicts, so a reviewed episode stays reviewed.",
+        "",
+        "qa_check.py regenerates QA_CHECKLIST.md from scratch on every run, which means",
+        "its checkboxes cannot hold review state -- tick one and the next run erases it.",
+        "Without this file, every session re-discovers and re-investigates the same",
+        "already-adjudicated episodes. That is what kept the flagged count stuck at",
+        "14-16 while real work was being done.",
+        "",
+        "Keys are episode slugs. Under each, a signature name maps to a verdict.",
+        "Signature names match the `signature` argument in qa_check.py's issue() calls:",
+        "  wall-of-text, drift, content-loss, duplicates, backward-jump, truncated,",
+        "  coverage, round-timestamps, weak-model, language, split-timestamp,",
+        "  leaked-reasoning, repetition-loop, short-loop, missing-file",
+        "",
+        "verdict: \"benign\" moves the issue out of the flagged list into a separate",
+        "'Reviewed, judged benign' section. Any other verdict (or no entry) leaves it",
+        "flagged. Always record a reason and a date -- a suppression with no rationale",
+        "is worse than no suppression.",
+        "",
+        "Re-flag by deleting the entry. If an episode is reprocessed and its content",
+        "changes, delete its entries so the new output gets judged fresh.",
+        "",
+        "WITHDRAWN 2026-08-28 -- the wall-of-text waivers on ep41/ep43/ep44/ep58, and ep44's",
+        "coverage waiver. All rested on one claim: 'the giant block carries a single speaker",
+        "label, so it is one real long monologue.' That is circular. A collapsed diarization",
+        "cluster produces exactly one label across the whole block, so the label count cannot",
+        "witness its own correctness. Reading those blocks found real co-host turns inside",
+        "them (ep58 'Devil's advocate sikit, YB'; ep43 'Kau rakyat jelata biasa?' answered by",
+        "'Saya rakyat jelita biasa lah'). The size trigger now lives in the separate",
+        "'oversized-block' signature, which does not consult the label count.",
+        "",
+        "Waiving an issue needs evidence INDEPENDENT of the artefact under suspicion. Audio,",
+        "or dialogue content, or the roster -- not the label whose correctness is the question."
+    ],
+    "2025-10-10-ep17-yang-berhenti-menteri-episod-17-belanjawan-2026-janji-fam": {
+        "drift": {
+            "verdict": "benign",
+            "reason": "Isolated false phrase-lock, not mistiming. 10 of ep17's 11 matched samples sit within -21s; the single -958s outlier is a 124-char block whose head words score equally badly at the claimed and matched positions (2/10 both), so the match barely cleared MIN_MATCHING_WORDS and locked onto a coincidence. Block [7323s] independently maps to audio at 7441s (p10 7341, p90 7535) by 4-gram origin mapping, and the caption coverage map shows no near-zero run anywhere in the episode. See ENGINEERING_LOG.md 1.23.",
+            "date": "2026-08-27"
+        }
     },
-    "coverage": {
-      "verdict": "benign",
-      "reason": "89% coverage is the same VAD-merge artifact: the last block holds a long monologue whose text runs past its own timestamp. Confirmed directly in a prior session.",
-      "date": "2026-08-27"
+    "2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21": {
+        "drift": {
+            "verdict": "benign",
+            "reason": "Isolated false phrase-lock, same as ep17. Only 3 of 12 samples match at all because ep21's YouTube captions run at about half normal word density (8,182 caption words over 9,574s), which is also why check_caption_coverage.py reports it inconclusive. Two of the three matched samples are tight (-33s, -36s); the +976s outlier is contradicted by 4-gram origin mapping, which puts block [7574] at audio 7596-7669s (correctly positioned) and its neighbour [7832] at 7841s. See ENGINEERING_LOG.md 1.23.",
+            "date": "2026-08-27"
+        }
     }
-  },
-  "2026-08-07-ep58-umno-pas-asal-melayu-berkuasa-masalah-lain-belakang-kira-ybm": {
-    "wall-of-text": {
-      "verdict": "benign",
-      "reason": "Confirmed non-bug via deep-probe in a prior session; single speaker label inside the 43,878-char block. ENGINEERING_LOG.md 1.11.",
-      "date": "2026-08-27"
-    }
-  },
-  "2025-10-10-ep17-yang-berhenti-menteri-episod-17-belanjawan-2026-janji-fam": {
-    "drift": {
-      "verdict": "benign",
-      "reason": "Isolated false phrase-lock, not mistiming. 10 of ep17's 11 matched samples sit within -21s; the single -958s outlier is a 124-char block whose head words score equally badly at the claimed and matched positions (2/10 both), so the match barely cleared MIN_MATCHING_WORDS and locked onto a coincidence. Block [7323s] independently maps to audio at 7441s (p10 7341, p90 7535) by 4-gram origin mapping, and the caption coverage map shows no near-zero run anywhere in the episode. See ENGINEERING_LOG.md 1.23.",
-      "date": "2026-08-27"
-    }
-  },
-  "2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21": {
-    "drift": {
-      "verdict": "benign",
-      "reason": "Isolated false phrase-lock, same as ep17. Only 3 of 12 samples match at all because ep21's YouTube captions run at about half normal word density (8,182 caption words over 9,574s), which is also why check_caption_coverage.py reports it inconclusive. Two of the three matched samples are tight (-33s, -36s); the +976s outlier is contradicted by 4-gram origin mapping, which puts block [7574] at audio 7596-7669s (correctly positioned) and its neighbour [7832] at 7841s. See ENGINEERING_LOG.md 1.23.",
-      "date": "2026-08-27"
-    }
-  }
 }

@@ -63,6 +63,19 @@ MIN_COVERAGE_PCT = 95
 MAX_COVERAGE_PCT = 150
 MAX_BLOCK_CHARS = 20_000  # a single real speaker turn is never this long
 
+# A block this long in WALL-CLOCK time is suspect no matter how many labels it carries.
+# Kept separate from MAX_BLOCK_CHARS on purpose: the char threshold is gated on
+# `n_turns > 1` because it targets merged paragraph breaks, and that gate is exactly how
+# a 62-minute collapsed block passed QA for a month. Some episodes really do contain a
+# 20-minute monologue (ep36, ep51 and ep44's Bloomberg read-out are confirmed by
+# reading them), so this flags for adjudication rather than asserting a bug -- record the
+# verdict per episode in data/qa_reviewed.json, never by widening this rule.
+MAX_BLOCK_SECONDS = 1200
+
+# A roster member holding less than this share of the text is present in name only:
+# their turns are sitting inside somebody else's block. 0% means no label at all.
+MIN_ROSTER_SHARE_PCT = 1.0
+
 # 1.11's objective test for whether an oversized block is a real defect, applied
 # here instead of being left to prose. The bug this check was written for is
 # MERGED TURNS -- paragraph breaks lost, so several speakers' turns run together.
@@ -270,6 +283,73 @@ def principal_share(body):
     return 100 * principal / total, dominant, 100 * totals[dominant] / total
 
 
+def label_seconds(body, duration):
+    """Seconds of runtime under each speaker label, measured by gap to the next stamp."""
+    marks = []
+    for match in INLINE_TURN_RE.finditer(body):
+        stamp = TIMESTAMP_RE.search(body, match.start(), match.end())
+        if not stamp:
+            continue
+        h, m, sec = stamp.groups()
+        start = (int(h) if h else 0) * 3600 + int(m) * 60 + int(sec)
+        label = body[match.start():match.end()].split("]", 1)[1].strip().rstrip(":").strip()
+        marks.append((start, label))
+    totals = {}
+    for i, (start, label) in enumerate(marks):
+        end = marks[i + 1][0] if i + 1 < len(marks) else max(duration or start, start)
+        totals[label] = totals.get(label, 0) + max(0, end - start)
+    return totals, marks
+
+
+def longest_block_seconds(body, duration):
+    """(seconds, start_second, label) of the block occupying the most wall-clock time."""
+    _, marks = label_seconds(body, duration)
+    best = (0, 0, None)
+    for i, (start, label) in enumerate(marks):
+        end = marks[i + 1][0] if i + 1 < len(marks) else max(duration or start, start)
+        if end - start > best[0]:
+            best = (end - start, start, label)
+    return best
+
+
+def roster(ep_dir, key):
+    """hosts/guests from interview.md -- they are NOT in raw.md's frontmatter."""
+    path = ep_dir / "interview.md"
+    if not path.exists():
+        return []
+    match = FRONTMATTER_RE.match(path.read_text(encoding="utf-8"))
+    if not match:
+        return []
+    listing = re.search(key + r":\s*\n((?:[ \t]*-[ \t]+.*\n)+)", match.group(1) + "\n")
+    if not listing:
+        return []
+    return [x.strip().lstrip("-").strip().strip("'\"")
+            for x in listing.group(1).splitlines() if x.strip()]
+
+
+def unlabelled_roster_members(ep_dir, body, duration):
+    """Roster members whose own label holds ~none of the transcript.
+
+    Compares on the first name token: ep08 labels the principal "YB Rafizi", which an
+    exact compare would report as a missing person. This is the check that would have
+    caught all 19 affected episodes on its first run. `speaker-attribution` cannot,
+    because it only fires when a NON-principal label dominates -- the mirror image.
+    """
+    people = roster(ep_dir, "hosts") + roster(ep_dir, "guests")
+    if not people:
+        return []
+    totals, _ = label_seconds(body, duration)
+    total = sum(totals.values()) or 1
+    missing = []
+    for person in people:
+        first = person.split()[0].lower().strip("'")
+        held = sum(sec for label, sec in totals.items() if first in label.lower())
+        pct = 100 * held / total
+        if pct < MIN_ROSTER_SHARE_PCT:
+            missing.append((person, held, pct))
+    return missing
+
+
 def last_timestamp_seconds(text):
     matches = TIMESTAMP_RE.findall(text)
     if not matches:
@@ -457,6 +537,24 @@ def check_episode(ep_dir):
             "wall-of-text",
             f"raw.md has a {max_block}-char block containing {n_turns} inline turn "
             "markers -- turns merged, paragraph breaks lost",
+        ))
+
+    block_secs, block_ts, block_label = longest_block_seconds(body, duration)
+    if block_secs > MAX_BLOCK_SECONDS:
+        issues.append((
+            "oversized-block",
+            f"raw.md has a {block_secs // 60}-minute block at "
+            f"[{block_ts // 60}:{block_ts % 60:02d}] under one label ({block_label!r}) -- "
+            "either a real monologue or a collapsed diarization cluster hiding other "
+            "speakers; read the block before waiving, and do not treat the single label "
+            "as proof it is one person",
+        ))
+
+    for person, held, pct in unlabelled_roster_members(ep_dir, body, duration):
+        issues.append((
+            "unlabelled-host",
+            f"{person!r} is on interview.md's roster but holds {pct:.1f}% of raw.md "
+            f"({held // 60}m) -- their turns are inside another speaker's blocks",
         ))
 
     rep_spans = repetition_loops(body)
