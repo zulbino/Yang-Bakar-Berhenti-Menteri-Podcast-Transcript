@@ -162,7 +162,7 @@ Alright, thank you YB, half an hour has passed before YB's boldness segment, we 
 
 Oh, poor thing — that's an AI-generated image I think, it's not really a soul like that, it's like he's thinking. He commented: "Hey, YB, what should YB wear when going down to the rally, going down for Azam Baki later?" Oh, there are so many comments on this. Wow, look at this, wow, all singing. I, but that one, oh, the first mention of the NFC 1MDB issue — "oil prices going down, car prices going down, many voters fell for the promises." Fell for what promises, the story of YMDB and its NFC clearly shows it. Don't be offended if more people support PKR and PH at the time because we were the ones leading the fight against corruption — the problem is because PAS is satisfied. The son is satisfied. Even though there's Syahir Nomics who's quite knowledgeable about economics, come face the public directly, it just melts away. So this is what he wants to say, supposedly, from a distance...
 
-I'm more inclined to — oh God, Syahir, don't ride on my back to make content. You're a Member of Parliament — so people actually want to wait and see what the stance of the young PAS MPs is. He's not even that young, he's only 2-3 years my junior, but within PAS, being in your mid-40s still counts as a baby. The young ones in PAS shouldn't just stay silent about this whole corporate mafia story, but he doesn't comment, and doesn't want to step forward — instead he wants to ride on the story of "what shirt am I wearing." "If light blue, his heart is still loyal to PKR. If yellow, leaning towards NGO activism. If black, a signal of a new political vehicle. If white, choosing an independent path in the 16th general election. I'll wear a colourful batik shirt." What a cop-out, dude — what kind of politician is this, what's this called, my signal is just whichever shirt is comfortable that day, that's what I wear.
+I'm more inclined to — oh God, Syahir, don't ride on my back to make content. You're a Member of Parliament — so people actually want to wait and see what the stance of the young PAS MPs is. He's not even that young, he's only 2-3 years my junior, but within PAS, being in your mid-40s still counts as a YB. The young ones in PAS shouldn't just stay silent about this whole corporate mafia story, but he doesn't comment, and doesn't want to step forward — instead he wants to ride on the story of "what shirt am I wearing." "If light blue, his heart is still loyal to PKR. If yellow, leaning towards NGO activism. If black, a signal of a new political vehicle. If white, choosing an independent path in the 16th general election. I'll wear a colourful batik shirt." What a cop-out, dude — what kind of politician is this, what's this called, my signal is just whichever shirt is comfortable that day, that's what I wear.
 
 **Haziq:** Boldness award, okay man, we're done, let's rate it.
 
@@ -274,7 +274,7 @@ Take an example in Malaysia — I got an email. I haven't read it yet. Maybe I c
 
 **Speaker 1:** From the victim, or should I say — not really a victim, since it's the public. They regularly watch our commentary on issues like foreign workers, so they're sharing an experience they went through. Erm... don't forget to subscribe. If I find it, I find it; if not, I can just mention it verbally.
 
-**Speaker 2:** Is this new, Abie?
+**Speaker 2:** Is this new, YB?
 
 **Speaker 1:** Fairly new, two or three days ago. But you know, my inbox is heavy, gotta scroll.
 

@@ -96,7 +96,7 @@ Ini bukan kat Malaysia, ini kat India. Yang ini... orang, apa nama ni, dulu masa
 
 **Speaker 2:** Wah ya, tahniah. Seterusnya.
 
-**Speaker 1:** Bibi — yang ini pun saya kena bagi banyak bintang jugalah, sebab saya terhibur tengok adik-adik ni lah, tengok terutamanya yang ini ni lah — ni anak siapa ni lah, sanggup buat apa nama ni, TikTok kan kan.
+**Speaker 1:** YB — yang ini pun saya kena bagi banyak bintang jugalah, sebab saya terhibur tengok adik-adik ni lah, tengok terutamanya yang ini ni lah — ni anak siapa ni lah, sanggup buat apa nama ni, TikTok kan kan.
 
 **Speaker 2:** Okay.
 
@@ -138,11 +138,11 @@ Saya rasalah — kalau tengok saya sepanjang saya jadi menteri sehingga sekarang
 
 Begitu juga kalau kita tengok dari segi tindakan-tindakan besar — Dato' Seri Anwar tidak boleh semata-mata berkata, "hanya kerana saya telah ambil tindakan di bawah kerajaan saya, SPRM ini, Tan Sri Azam Baki sangat berani." Tetapi kalau ada orang sebut yang berkaitan dengan parti-parti di dalam kerajaan sekarang, tak ada tindakan. Jadi itu, ataupun contohnya kalau dilihat ada tokoh-tokoh baru ini yang cakap-cakapnya ialah, kalau nak projek A, projek B kena jumpa si polan-polan — kalau itu tidak ditangani, akhirnya akan jadi retorik yang saya tak rasa akan melekat dengan rakyat. Sakat ini belum sebut "apa nama" lagi.
 
-**Speaker 2:** Tahniah WB, WB takde.
+**Speaker 2:** Tahniah YB, YB takde.
 
 **Speaker 1:** Cabaran ni — "government to clean up corruption mess within 3 years." Yang ini akan terus dipetik dan diulang berkali-kali lah.
 
-**Speaker 2:** Baik WB, kita ke yang seterusnya. Kita ada lagi — saya rasa isu rasuah juga: Ops Grip, MSCC berautaya seludup—
+**Speaker 2:** Baik YB, kita ke yang seterusnya. Kita ada lagi — saya rasa isu rasuah juga: Ops Grip, MSCC berautaya seludup—
 
 **Speaker 1:** Hmm.
 
@@ -280,7 +280,7 @@ Bolehlah kita marah dia — kita, PKR, atau pakatan — boleh saja mengambil sik
 
 **Speaker 2:** Biobie, crystal clear. Kita ke segmen yang seterusnya, dunia punya hal — tapi dunia punya hal kali ni banyaklah berkaitan dengan konflik Gaza dan juga Israel. Mungkin kita mula yang pertama, plan Gaza Trump — mungkin saya tanya direct terus lah, adakah acceptable untuk membawa kereta good?
 
-**Speaker 1:** Itu soalan yang saya rasa, tanya kepada sesiapa pun kecuali Donald Trump dan Benjamin Netanyahu dan juga beberapa orang, majoriti penduduk dunia tidak boleh menerimanya lah. Okay baby.
+**Speaker 1:** Itu soalan yang saya rasa, tanya kepada sesiapa pun kecuali Donald Trump dan Benjamin Netanyahu dan juga beberapa orang, majoriti penduduk dunia tidak boleh menerimanya lah. Okay YB.
 
 Dan ada dua tiga sebab, kan. Kalau kita ikuti dengan lebih dekat perkembangan rundingan-rundingan, peringkat pertama itu berlaku di antara pentadbiran Trump dengan pimpinan-pimpinan dan wakil-wakil sebahagian daripada negara-negara Islam — di situlah saya ingat termasuklah Qatar, Saudi, saya ingat Turki pun ada, Mesir pun ada — dan daripada itulah ada beberapa perkara yang mungkin ada titik pertemuan. Tetapi rundingan peringkat seterusnya adalah antara pentadbiran Trump dengan kerajaan Israel, dengan Benjamin Netanyahu, secara berasingan. Dan mengikut laporan-laporan yang ada di seluruh dunia, bilateral oleh Israel ini termasuklah — sebahagiannya, Israel akan ada kuasa veto kepada apa-apa keputusan, termasuk juga contohnya soal pengunduran daripada Gaza itu mestilah berdasarkan kepada matlamat Israel untuk menghapuskan terus Hamas. Jadi kalau begitu, sampai kiamat, kalau Israel kata Hamas masih ada kat situ, tak ada benda yang bertukarlah.
 
@@ -322,7 +322,7 @@ Jadi kalau macam menteri dahulu, kita tak boleh nak buat komen sesuka hati keran
 
 **Speaker 2:** Okay.
 
-**Rafizi:** Baby.
+**Rafizi:** YB.
 
 **Speaker 2:** Minta—
 
@@ -408,11 +408,11 @@ Sebab itu, kalau kita tengok dari segi syarikat civil apa ni, airplane, sebab it
 
 **Rafizi:** Tak boleh free promo dia. Nah, itu pilihan masing-masing. Cuma saya tak yakin sebenarnya bahawa keberkesanan kita sebagai seorang ahli politik ini boleh dinilai seratus-peratus kepada nilai like dan views. Apatah lagi kalau likes dan views itu ialah dengan bela — dia totally different consideration. Selalunya saya ingat pandangan ataupun bagaimana orang menilai kita — kalau kita salesman kereta, maka kita kena tumpu kepada perkara-perkara yang memberi nilai mengenai kereta kepada pelanggan kita. Kalau saya salesman rumah, saya mestilah berpengetahuan dan subject matter saya ialah rumah. Jadi sebagai ahli politik, like atau tidak like, viral ke tidak, itu sebenarnya kadang-kadang ada yang viral, ada yang tidak — macam saya sebut tadi, bahawa likes itu akan menentukan turun semata-mata, menurunkan turun naik apa nama lagi, menaikkan atau menurunkan prospek seseorang ahli politik. Yang penting, saya melihat soal konten komunikasi ini sebagai sebahagian tugas kita. Kita ada perjuangan, kita ada pandangan dan kita ada perubahan yang kita nak lihat dalam masyarakat, berforum. Ada masa yang kita kena buat kandungan-kandungan pendek, sebahagiannya melalui podcast. Walaupun soalannya banyak tu, tapi tak apalah.
 
-**Speaker 2:** Kita pilih-pilih. Pilih-pilih. Okay Afiq, nak buat macam mana, itulah ketetapannya. Baik YB. Habis dah. Ya. Tada. Itu je lah kot. Kenapa letak muka aku macam tu, ck, saya tak setuju Abie — itu. Nanti kita tukar gambar lain lah minggu depan. Potong gaji.
+**Speaker 2:** Kita pilih-pilih. Pilih-pilih. Okay Afiq, nak buat macam mana, itulah ketetapannya. Baik YB. Habis dah. Ya. Tada. Itu je lah kot. Kenapa letak muka aku macam tu, ck, saya tak setuju YB — itu. Nanti kita tukar gambar lain lah minggu depan. Potong gaji.
 
 **Rafizi:** Ini muka selepas Anwar Ibrahim ada kat depan aku ni kan. Dekat ASEAN lah gitu kan, ASEAN lah. Okay.
 
-**Speaker 2:** Okay Abie, itu saja. Kepada rakan-rakan lain, sebelum meninggalkan podcast ini — pertama, like, komen dan share. Bukan sepatutnya cakap awal ke? Betul, itu pun kita kena improve. Segi teka-teki, berapa banyak kali apa nama yang telah diucapkan selama 2 jam 5 minit.
+**Speaker 2:** Okay YB, itu saja. Kepada rakan-rakan lain, sebelum meninggalkan podcast ini — pertama, like, komen dan share. Bukan sepatutnya cakap awal ke? Betul, itu pun kita kena improve. Segi teka-teki, berapa banyak kali apa nama yang telah diucapkan selama 2 jam 5 minit.
 
 **Rafizi:** Performance tak baik tadi, ujung-ujung tu dia dah tergelincir banyak.
 

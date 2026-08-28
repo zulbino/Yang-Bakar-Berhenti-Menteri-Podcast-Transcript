@@ -25,7 +25,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [05:02] Rafizi: Dah, I got sleep date so it's 24x7 pain so Kalau mood tak baik malam ni, it's nothing to do with the podcast. It's just, you know.
 
-[05:11] Syed Munawar: Okay, okay. Okay. Kita doakan WB cepat sembuh semua. Amin. Okay. Dan malam ni kita ada tetamu istimewa. Seorang yang famous. Famous, terkenal di social media. Saudara Faiz yang terkenal dengan rancangan. Apa nama... Rancangan Faiz, Financial Faiz lah. Financial
+[05:11] Syed Munawar: Okay, okay. Okay. Kita doakan YB cepat sembuh semua. Amin. Okay. Dan malam ni kita ada tetamu istimewa. Seorang yang famous. Famous, terkenal di social media. Saudara Faiz yang terkenal dengan rancangan. Apa nama... Rancangan Faiz, Financial Faiz lah. Financial
 
 [05:29] Rafizi: Faiz. Nampak sangat gantui. Dia kata yang terkenal, lepas tu dia tak ingat nama dia. Bukan, bukan. Nak nama rancangan tu. Nama rancangan. But the
 

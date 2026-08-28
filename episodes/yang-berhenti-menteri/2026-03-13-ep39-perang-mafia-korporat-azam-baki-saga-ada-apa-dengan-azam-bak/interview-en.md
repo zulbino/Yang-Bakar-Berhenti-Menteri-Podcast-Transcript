@@ -148,11 +148,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** I don't think that view is representative of the people's opinion. And I don't think a revision of Datuk Seri Najib's achievements will have much effect on BN's prospects. It's just that from time to time, because politics is dynamic — for example, if voters start comparing with Datuk Seri Najib's era, whether Najib was better or maybe Pak Lah was better, actually it is an indictment against the present government. It's actually a reflection of people starting to feel that maybe the past was better. It doesn't necessarily mean that will translate into voting decisions later, but as an expression stemming from a sense of dissatisfaction with the current government's performance — and I think that will happen from time to time. Any government, if not careful, will face this kind of comparative sentiment. But so far, I don't think it's easy to make a comeback. Moving forward, and this is what we need as a country and a society — we need to be able to learn to move on. If we can't go back to old things, old leadership, we need to move on.
 
-Anyway, after all that, people commented that he's really fired up about 1MDB. Fired up, baby, fired up indeed. Second-last — the "thug of the month" award. He really went off, whatever he wasn't paying attention to with the car, he has lots of theories when you read the comments. Among them, double parking. Then what else? Oh, that's the double parking one, what was it, straight to me—
+Anyway, after all that, people commented that he's really fired up about 1MDB. Fired up, YB, fired up indeed. Second-last — the "thug of the month" award. He really went off, whatever he wasn't paying attention to with the car, he has lots of theories when you read the comments. Among them, double parking. Then what else? Oh, that's the double parking one, what was it, straight to me—
 
 **Haziq:** Double parking. Some say he blocked the road like that. Maybe he said everyone [parks their] cars
 
-**Rafizi:** like that. Hahaha. So actually, if the person who caused the trouble really did park right in the middle of the road, you can sort of understand the frustration — but maybe not that way, baby. But what way then? Knock on the window, "sorry, you've made a mistake, don't do it again."
+**Rafizi:** like that. Hahaha. So actually, if the person who caused the trouble really did park right in the middle of the road, you can sort of understand the frustration — but maybe not that way, YB. But what way then? Knock on the window, "sorry, you've made a mistake, don't do it again."
 
 **Haziq:** In Russia there's a group — okay, I looked into this because I wanted to see how people handle road rage issues. So in Russia there's a group that, when someone parks wrongly or double parks or blocks the way, they stick a sticker on the car that absolutely cannot be peeled off. Then straight to—
 
@@ -186,7 +186,7 @@ Anyway, so people asked, why has Datuk Seri Anwar been so quick to anger lately?
 
 This one too, Datuk Seri Anwar is really going all out trying to deflect from this threat and that threat. And I opened The Sun's report, and it's really a very short, five-paragraph piece. He just said this was based on disclosure from the IGP, that's it. He just slipped it into his speech. We don't know the full context. But Datuk Seri Anwar can't really get angry if the public sees this as him going on and on about threat after threat while the public is like, eh, we don't even understand which "youth threat" this is, what's going on here. The only "youth threat" in my area is illegal motorcycle racers — riding around nearly crashing into things. Nothing else makes sense.
 
-Okay, let's wrap up this segment — YB, 36 minutes. Never mind, let's move on after this segment. YB wants to rate it? Don't know. So, Iqbal, need to rate this week? Let's give it to Iqbal then, baby. This is like — oh, this one? Oh, this one wins outright, wins outright, okay? Okay, alright, let's move on. So, PM wins, congratulations. Who won last week?
+Okay, let's wrap up this segment — YB, 36 minutes. Never mind, let's move on after this segment. YB wants to rate it? Don't know. So, Iqbal, need to rate this week? Let's give it to Iqbal then, YB. This is like — oh, this one? Oh, this one wins outright, wins outright, okay? Okay, alright, let's move on. So, PM wins, congratulations. Who won last week?
 
 **Haziq:** Last week, Dr. Sam.
 
@@ -520,7 +520,7 @@ That, I think, if we need to go out and demonstrate, we should. And I read Loke'
 
 **Iqbal:** Yes.
 
-**Rafizi:** Let's just set a date for the demo, baby. Set the date, don't make me miss celebrating Raya.
+**Rafizi:** Let's just set a date for the demo, YB. Set the date, don't make me miss celebrating Raya.
 
 **Iqbal:** Oh, you want to celebrate Raya?
 
@@ -560,7 +560,7 @@ And if it's just ordinary netizens judging it simplistically — "oh this happen
 
 Take PH first. PH in its original framework, meaning the three parties, already has problems because of lost support, especially from non-Malays, and urban Malays — if you look at who's loudest on social media, it's actually urban Malays rejecting PH. Even if Dato' Seri Anwar feels he can bring PH in together with BN — BN doesn't want that. Because BN will say, you're weak, why should I let you become Prime Minister? I'm better off becoming Prime Minister myself, especially since you can't even bring in votes anymore, you've lost the Malays, and now even DAP can't carry the Chinese vote, so why bother?
 
-Then you go to UMNO — UMNO now wants itself to be the anchor and to represent this "rumah bangsa." The problem is, would you give it to PAS? PAS says "no way Jose, hasta la vista baby," like Terminator, that won't work either. And then PAS, for its part, will say, you know, sure we need to unite, but the problem is even unity within itself is in disarray. Hmm. Then if it tries to call on UMNO, UMNO won't agree either. So so far there's no sign that any one group has truly gotten its house in order.
+Then you go to UMNO — UMNO now wants itself to be the anchor and to represent this "rumah bangsa." The problem is, would you give it to PAS? PAS says "no way Jose, hasta la vista YB," like Terminator, that won't work either. And then PAS, for its part, will say, you know, sure we need to unite, but the problem is even unity within itself is in disarray. Hmm. Then if it tries to call on UMNO, UMNO won't agree either. So so far there's no sign that any one group has truly gotten its house in order.
 
 So for me, voters who are firmly aligned with their respective parties will just follow along. But over the next year, over the next six months — meaning for the fence-sitting voters — they will remain confused. Because there's too much clashing, too much contrast. The strategy from one party to another is all contrasting each other. And after Ustaz Hadi's judgment that the UMNO house is unsafe, full of ghosts, I don't know whether UMNO can continue selling this "rumah bangsa" idea. I mean, laugh at him all you like, but once Ustaz Hadi says the house has ghosts in it, it's basically a poison dart, you know. That's basically fatal.
 

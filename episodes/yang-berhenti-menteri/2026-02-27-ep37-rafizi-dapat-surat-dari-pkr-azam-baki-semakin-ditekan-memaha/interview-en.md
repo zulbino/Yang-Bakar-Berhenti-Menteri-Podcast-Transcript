@@ -108,7 +108,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** But yeah, I think DAP will also say, "ugh, these PKR prefects" — prefects in Parliament, prefects in the party — why is she the one speaking on behalf of DAP, just like in Sabah she spoke on behalf of GRS.
 
-**Farhan (Pa'an):** Okay, alright, that's beria, baby. Let's move to the third one — backing out now, after not going through with resigning.
+**Farhan (Pa'an):** Okay, alright, that's beria, YB. Let's move to the third one — backing out now, after not going through with resigning.
 
 **Speaker 3:** Dr. Akmal hasn't actually resigned yet, right? As far as I know, not yet. He declared it but it wasn't accepted.
 
@@ -164,7 +164,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Live hungry, live thirsty.
 
-**Farhan (Pa'an):** Up for coffee? No, up for coffee, no — okay okay okay. Alright, first issue, baby: Rafizi gets sacked, asking what's going to happen. This is about when the letter YB just shared was issued — the show-cause letter. I don't know whether to be brave and ask, or to play devil's advocate—
+**Farhan (Pa'an):** Up for coffee? No, up for coffee, no — okay okay okay. Alright, first issue, YB: Rafizi gets sacked, asking what's going to happen. This is about when the letter YB just shared was issued — the show-cause letter. I don't know whether to be brave and ask, or to play devil's advocate—
 
 **Rafizi:** You can be brave, if I'm not happy I'll just smash it.
 

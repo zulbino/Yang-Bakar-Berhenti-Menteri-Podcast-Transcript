@@ -163,7 +163,7 @@ Baik-baik, terima kasih YB, dah setengah jam habis saya sebelum YB beria kita ad
 
 Oh, bacuk — itu gambar AI kot kan, tak adalah dia roh-roh ni-ni-ni macam tu, dia macam fikir. Dia terkata: "Key, YB, YB nak pakai baju apa turun himpunan, turun Azam Baki nanti?" Oh, tu banyak ni komen dia kan. Wah, ni tengok, wah nyanyi-nyanyi. Saya, tapi yang tu tau, oh, isu NFC 1MDB pertama disebut — "turun harga minyak, turun harga kereta, ramai pengundi termakan janji." Termakan janji apa cerita, YMDB dengan NFC-nya memang kelihatan. Janganlah kecik hati kalau orang lebih menyokong PKR dan juga PH masa itu kerana kami ke depan memperjuangkan gerakan anti-rasuah ini — masalahnya sebab PAS berpuas hati. Anak berpuas hati. Walaupun ada Syahir Nomics yang cukup arif tentang ekonomi, mari berdepan dengan rakyat, terus cair. Jadi ini yang dia nak kata, kononnya, dari kejauhan...
 
-Saya lebih tertarik untuk — Allah, Syahir, kau tak payahlah nak menunggang aku, nak buat konten. Awak tu ahli parlimen — jadi orang nak tunggu sebenarnya apa pendirian ahli-ahli parlimen PAS yang muda. Dia tak muda mana pun, dia 2-3 tahun junior aku je pun, tapi dalam PAS lah, umur pertengahan 40-an tu kira masih baby lah. PAS yang muda-muda ni takkan nak diam sahaja pasal cerita mafia korporat semua kan, tapi dia tak komen, dan dia tak nak ke depan — itu dia nak menunggang cerita "aku pakai baju apa." "Jika biru muda, hatinya masih setia PKR. Jika kuning, cenderung aktivisme NGO. Jika hitam, isyarat wadah politik baru. Jika putih, memilih jalan bebas dalam PRU16. Aku akan pakai baju batik warna-warni." Petak, member — apa punya ahli politik ni, apa nama ni, isyarat aku, mana baju yang selesa hari tu aku pakai.
+Saya lebih tertarik untuk — Allah, Syahir, kau tak payahlah nak menunggang aku, nak buat konten. Awak tu ahli parlimen — jadi orang nak tunggu sebenarnya apa pendirian ahli-ahli parlimen PAS yang muda. Dia tak muda mana pun, dia 2-3 tahun junior aku je pun, tapi dalam PAS lah, umur pertengahan 40-an tu kira masih YB lah. PAS yang muda-muda ni takkan nak diam sahaja pasal cerita mafia korporat semua kan, tapi dia tak komen, dan dia tak nak ke depan — itu dia nak menunggang cerita "aku pakai baju apa." "Jika biru muda, hatinya masih setia PKR. Jika kuning, cenderung aktivisme NGO. Jika hitam, isyarat wadah politik baru. Jika putih, memilih jalan bebas dalam PRU16. Aku akan pakai baju batik warna-warni." Petak, member — apa punya ahli politik ni, apa nama ni, isyarat aku, mana baju yang selesa hari tu aku pakai.
 
 **Haziq:** Beria, okay weh, kita dah habis, kita nak rate.
 
@@ -275,7 +275,7 @@ Ambil contoh di Malaysia — saya dapat email. Saya tak baca lagi. Mungkin saya 
 
 **Speaker 1:** Dari mangsa, ataupun nak kata mangsa tu tak juga lah — sebab ia orang ramai ni kan, dia selalu tengok kita ulas isu-isu macam pekerja asing semua kan, jadi dia berkongsi pengalaman dia lah yang dia pernah melalui. Erm... jangan lupa untuk berlangganan. Kalau jumpa, jumpa; kalau tak jumpa, aku boleh sebut sahaja.
 
-**Speaker 2:** Ini baru, Abie?
+**Speaker 2:** Ini baru, YB?
 
 **Speaker 1:** Baru-baru, dua-tiga hari. Tapi kau tahu lah, email aku ni berat-ratu, kena scroll.
 

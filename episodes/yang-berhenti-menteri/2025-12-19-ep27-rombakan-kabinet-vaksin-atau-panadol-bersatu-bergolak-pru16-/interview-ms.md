@@ -62,7 +62,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Rafizi:** Assalamualaikum dan selamat datang sekali lagi podcast Yang Berhenti Menteri. Dah episod ke-27. Macam biasa bersama saudara Rafizi Ramli. Obviously kenapa ada dua kali saudara-saudara gagap. Episod ke-27 pun masih lagi gagap. Maaf YB, tapi YB itu tak penting, sebab yang lebih penting adalah minggu ini saya rasa isu yang terbesar adalah berkaitan dengan rombakan kabinet. Saya tukar topik. Tapi sebelum itu — pandai kau mengelak kan. Sebelum itu, macam biasa baby, kita ke segmen yang pertama lah, kita cuba ringkaskan sikit, dah kat segmen beria. Kita tengok apa yang ada pada minggu ini. Yang pertama, belum buka dah kena review. Tak sedap baby, belum buka lagi. Not tasty — mana yang dia kata not tasty? Kat bawah sekali tau, not tasty. Dia buka tahun depan baby. Oh, baiklah. Khairul Aming lah yang mendapat ketawa terakhir. Sebab orang yang beria-ia pergi review semua ni kan, dia jadi bahan beria lah kerana belum buka lagi dah direview. Tapi ia sesuai betul dengan strategi go-to-market Rembayong lah kot, sebab hari ini semuanya tentang viral, semuanya tentang nilai media. Jadi tahniah pada Khairul Aming lah. Tahniah untuk kau baby.
+**Rafizi:** Assalamualaikum dan selamat datang sekali lagi podcast Yang Berhenti Menteri. Dah episod ke-27. Macam biasa bersama saudara Rafizi Ramli. Obviously kenapa ada dua kali saudara-saudara gagap. Episod ke-27 pun masih lagi gagap. Maaf YB, tapi YB itu tak penting, sebab yang lebih penting adalah minggu ini saya rasa isu yang terbesar adalah berkaitan dengan rombakan kabinet. Saya tukar topik. Tapi sebelum itu — pandai kau mengelak kan. Sebelum itu, macam biasa YB, kita ke segmen yang pertama lah, kita cuba ringkaskan sikit, dah kat segmen beria. Kita tengok apa yang ada pada minggu ini. Yang pertama, belum buka dah kena review. Tak sedap YB, belum buka lagi. Not tasty — mana yang dia kata not tasty? Kat bawah sekali tau, not tasty. Dia buka tahun depan YB. Oh, baiklah. Khairul Aming lah yang mendapat ketawa terakhir. Sebab orang yang beria-ia pergi review semua ni kan, dia jadi bahan beria lah kerana belum buka lagi dah direview. Tapi ia sesuai betul dengan strategi go-to-market Rembayong lah kot, sebab hari ini semuanya tentang viral, semuanya tentang nilai media. Jadi tahniah pada Khairul Aming lah. Tahniah untuk kau YB.
 
 **Farhan (Pa'an):** Eh, sekejap.
 
@@ -102,7 +102,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Farhan (Pa'an):** Lebaran...
 
-**Rafizi:** Lebaran raya. Saja test. Jadi kalau dah dia dua lembaran, ke surat sokongan tu, besar kemungkinan bukan Utusan pandai-pandai lah. Maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk menegangkan — tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu sokongan ini terang lah, walau macam mana pun, beritahu dia ikut proses kan, walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa — kita kena ingat rakyat biasa tau. Katakanlah saya, saya nak masuk tender — itu pun masalah orang politik tau, sebab dia tak pernah melalui proses tender tu, dia dekat atas, dia bagi arahan, kau dicampur tangan kan, nak masuk tender kan. Idea bahawa tak kira betapa baik pun saya, tapi ada orang lain boleh ada laluan ekspres — laluan ekspres ni orang tak suka. Kalau dekat pasar raya pun kita beratur susah payah, ada orang pergi potong, memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama — dalam proses standard, orang lain ikut proses, kamu semua pergi potong kan. Jadi terang macam mana pun surat sokongan, dia memang tidak akan berjaya mengubah persepsi rakyat lah. Jadi cuba lagi di masa akan datang. Baik, ubi, semoga berjaya. Kita tengok kalau dia nak datang podcast ni terangkan pun, dialu-alukan lah.
+**Rafizi:** Lebaran raya. Saja test. Jadi kalau dah dia dua lembaran, ke surat sokongan tu, besar kemungkinan bukan Utusan pandai-pandai lah. Maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk menegangkan — tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu sokongan ini terang lah, walau macam mana pun, beritahu dia ikut proses kan, walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan kan. Maksudnya rakyat biasa — kita kena ingat rakyat biasa tau. Katakanlah saya, saya nak masuk tender — itu pun masalah orang politik tau, sebab dia tak pernah melalui proses tender tu, dia dekat atas, dia bagi arahan, kau dicampur tangan kan, nak masuk tender kan. Idea bahawa tak kira betapa baik pun saya, tapi ada orang lain boleh ada laluan ekspres — laluan ekspres ni orang tak suka. Kalau dekat pasar raya pun kita beratur susah payah, ada orang pergi potong, memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama — dalam proses standard, orang lain ikut proses, kamu semua pergi potong kan. Jadi terang macam mana pun surat sokongan, dia memang tidak akan berjaya mengubah persepsi rakyat lah. Jadi cuba lagi di masa akan datang. Baik, YB, semoga berjaya. Kita tengok kalau dia nak datang podcast ni terangkan pun, dialu-alukan lah.
 
 **Farhan (Pa'an):** Boleh?
 
@@ -136,15 +136,15 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Ini segmen beria, tiba-tiba dah jadi sangat berat nak cerita tentang tamadun pula.
 
-**Farhan (Pa'an):** Lepas ni lebih politik lah baby, jadi ni masyarakat sikit.
+**Farhan (Pa'an):** Lepas ni lebih politik lah YB, jadi ni masyarakat sikit.
 
-**Rafizi:** Okey lah kot baby.
+**Rafizi:** Okey lah kot YB.
 
 **Farhan (Pa'an):** Okey lah.
 
-**Rafizi:** Yang mana boleh minggu depan kalau tak ada bahan, kita bercuti lah daripada beria seminggu, dia susah nak komen beria dia. Okey, sebabnya ialah Fuziah dah tak ada, susah nak bincang — dia kalau ada mesti dia macam saya cukup jumlah dan tengah membentuk kerajaan dengan satu kerusi. Yang itu baru beria, itu red sangat baby.
+**Rafizi:** Yang mana boleh minggu depan kalau tak ada bahan, kita bercuti lah daripada beria seminggu, dia susah nak komen beria dia. Okey, sebabnya ialah Fuziah dah tak ada, susah nak bincang — dia kalau ada mesti dia macam saya cukup jumlah dan tengah membentuk kerajaan dengan satu kerusi. Yang itu baru beria, itu red sangat YB.
 
-**Farhan (Pa'an):** Okay. Okay baby, baby nak red ke tak perlu?
+**Farhan (Pa'an):** Okay. Okay YB, YB nak red ke tak perlu?
 
 **Rafizi:** Tak payah lah minggu ni.
 
@@ -424,7 +424,7 @@ Jadi apa cabaran yang perlu ditangani terutamanya oleh PKR lah? Soalan ini belum
 
 **Rafizi:** Yelah, kita nak panjangkan je kan, supaya orang tengok lebih lama.
 
-**Farhan (Pa'an):** Okey baby. Kita ke segmen seterusnya, kita ke Fuyo — akhirnya kembali balik.
+**Farhan (Pa'an):** Okey YB. Kita ke segmen seterusnya, kita ke Fuyo — akhirnya kembali balik.
 
 **Rafizi:** Fuyo ni aku sehang, korang aku penat. Sila, pasal apa? Silalah komen korang.
 
@@ -510,21 +510,21 @@ Jadi apa cabaran yang perlu ditangani terutamanya oleh PKR lah? Soalan ini belum
 
 **Farhan (Pa'an):** Okeylah, saya tak tahu nak balas apa tu.
 
-**Rafizi:** Itu satu. Yang kedua... Ni nak suruh buat jemputan. Suruh dia balik Malaysia ni. Kau ni siapa nak suruh buat jemputan tu semua? Ha ha ha. Anonymous aku. Okey, alright. Jadi, kita doakan yang terbaik untuk dia. Saya harap satu hari dia akan balik ke Malaysia dan bawa duit PE dan VC dan semua syarikat penyelidikan ini datang ke Malaysia. Maksud saya, pada usianya sekarang, kalau dia nak balik, kesian. Kalau dia ada peluang yang jauh lebih baik, terutamanya kalau dah dapat anugerah junior Nobel, kemungkinan besar syarikat farmaseutikal terbesar di dunia akan mahukan dia dan dia lebih baik pergi ke sana dahulu dan timba pengalaman untuk balik satu hari nanti. Baik, baby, kena salam kepada keluarga dia di Teluk Intan, bye bye, bye bye, dia takkan balik. Kita ke segmen seterusnya.
+**Rafizi:** Itu satu. Yang kedua... Ni nak suruh buat jemputan. Suruh dia balik Malaysia ni. Kau ni siapa nak suruh buat jemputan tu semua? Ha ha ha. Anonymous aku. Okey, alright. Jadi, kita doakan yang terbaik untuk dia. Saya harap satu hari dia akan balik ke Malaysia dan bawa duit PE dan VC dan semua syarikat penyelidikan ini datang ke Malaysia. Maksud saya, pada usianya sekarang, kalau dia nak balik, kesian. Kalau dia ada peluang yang jauh lebih baik, terutamanya kalau dah dapat anugerah junior Nobel, kemungkinan besar syarikat farmaseutikal terbesar di dunia akan mahukan dia dan dia lebih baik pergi ke sana dahulu dan timba pengalaman untuk balik satu hari nanti. Baik, YB, kena salam kepada keluarga dia di Teluk Intan, bye bye, bye bye, dia takkan balik. Kita ke segmen seterusnya.
 
 **Farhan (Pa'an):** Kesihatan terakhir, Bapak. Banyak soalan tapi mungkin ada 2. Kita dah 2 jam 22 minit. Dalam 8 minit. Soalan pertama, Chong Wei Jin. YB, statistik tunjuk ramai yang bekerja sendiri dah mencarum PERKESO, tapi sektor seni cuma sikit sangat. Sebagai orang yang banyak bekerja dengan kreatif dan media, apa model perlindungan sosial yang realistik untuk pemuzik, pelakon, kru produksi yang pendapatannya turun naik macam yoyo ni?
 
 **Rafizi:** Memanglah caruman pilihan yang dibuat oleh pekerja ini, ialah untuk semua orang yang memang tidak ada pekerjaan tetap lah. Jadi saya tak rasa isunya ialah model perlindungan sosial yang ada ni tak realistik. Sebenarnya mungkin sama ada industri pemuzik ini, industri di Malaysia ini tidak berjaya sebaik negara-negara lain yang pendapatan mereka sangat tidak menentu — pelakon, kru produksi ini kan. Ataupun sebab gaji mereka itu rendah. Jadi sebab itulah untuk dibuat pilihan mencarum itu dia rasa tak cukup. Maka mereka tak mencarum. Tapi dari segi modelnya memang saya rasa model yang ada dengan PERKESO sekarang ini memadai. Jadi bukan setakat soal model perlindungan sosial, tapi macam mana kita nak membangunkan industri seni ini supaya dia mendapat lebih banyak pelaburan, modal kerjanya itu lebih tetap. Mungkin kalau lihat di Hollywood lah, kesatuan sekerja mereka itu sangat kukuh, sangat berpengaruh. Kesatuan untuk pekerja Hollywood, untuk pekerja-pekerja seni, untuk penulis skrip. Tahun bila — dua tahun lepas, dua tahun lepas — bila kesatuan sekerja penulis skrip Hollywood mogok, seluruh dunia menghadapi masalah, semuanya terjejas. Jadi mungkin saya rasa yang boleh dipertimbangkan ialah kesatuan sekerja pekerja-pekerja seni ini perlu ditubuhkan kalau belum ada, dan kalau yang ada, mereka perlu lebih vokal dan lebih ke depan, sebab kadang-kadang persatuan seni yang ada di Malaysia ni banyaknya lebih kepada kebajikan sahaja. Cuma saya faham lah kesukarannya ialah sebab mereka bukan digaji tetap. Jadi kalau dia tak ada majikan yang tetap, macam mana pula dia nak buat kesatuan sekerja kan? Jadi kalau ada apa-apa, Chong, itu yang saya rasa perlu diberikan perhatian. Ini bukan soal PERKESO sebenarnya. Ini soal bagaimana kita nak mencipta "collective bargaining" itu dalam keadaan industri seni di Malaysia ini yang tidak setaraf dengan negara-negara lain yang lebih well funded, lebih berstruktur. Mereka ada perhubungan pekerjaan, kita ini sebenarnya banyaknya freelancers lah, itulah semuanya kan. Jadi mungkin — hah, Ramanan? Ini kerja rumah untuk Ramanan. Ramanan kena fikirkan macam mana — saya boleh sampaikan soalan Chong kepada Ramanan. Ramanan kena fikirkan bagaimana untuk memanfaatkan freelancers yang ada ini supaya mereka boleh mempunyai... Sekali kau selesaikan itu, sebenarnya soal caruman sendiri memang PERKESO dah ada lah. Jadi root causenya bukan PERKESO. Root causenya adalah sifat pekerjaan mereka yang tidak menentu.
 
-**Farhan (Pa'an):** Menarik baby. Tiap-tiap minggu boleh bagi satu homework kepada satu menteri, haa.
+**Farhan (Pa'an):** Menarik YB. Tiap-tiap minggu boleh bagi satu homework kepada satu menteri, haa.
 
 **Rafizi:** Boleh boleh boleh.
 
 **Farhan (Pa'an):** Tapi bagi homework, dia bukan layan pun.
 
-**Rafizi:** Haa, ok baik baby.
+**Rafizi:** Haa, ok baik YB.
 
-**Farhan (Pa'an):** Soalan yang terakhir baby, haa. Dari Nandini ni, YB. Bila kita nampak kes suami isteri dipenjara sehari dan didenda kerana curi barang kurang RM100, ramai bandingkan dengan kes rasuah juta-juta yang nampak lebih ringan. Dari perspektif reformasi sistem keadilan, apa yang patut dirombak untuk elak rasa kelas bawah dihukum, kelas atas dilindungi? Ni ada yang latest yang di Melaka tu kan, sian. Dia ambil apa ni — ada 4 barang, 4-5 barang. Nampak tak? Dia kena penjara sehari. Sehari.
+**Farhan (Pa'an):** Soalan yang terakhir YB, haa. Dari Nandini ni, YB. Bila kita nampak kes suami isteri dipenjara sehari dan didenda kerana curi barang kurang RM100, ramai bandingkan dengan kes rasuah juta-juta yang nampak lebih ringan. Dari perspektif reformasi sistem keadilan, apa yang patut dirombak untuk elak rasa kelas bawah dihukum, kelas atas dilindungi? Ni ada yang latest yang di Melaka tu kan, sian. Dia ambil apa ni — ada 4 barang, 4-5 barang. Nampak tak? Dia kena penjara sehari. Sehari.
 
 **Rafizi:** Erm... Satu, saya tak baca kanun keseksaan daripada kulit ke kulit lah kan. Kesalahan-kesalahan seperti ini selalunya jatuh di bawah kanun keseksaan.
 

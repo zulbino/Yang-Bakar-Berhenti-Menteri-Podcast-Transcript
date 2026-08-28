@@ -70,7 +70,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Haa, baru bercakap sekali terus demam. Jadi selalunya orang tak faham, untuk kempen dalam siri pilihan raya ni, sebenarnya dia memerlukan stamina yang sangat-sangat tinggi, sebab risiko pertama tu lah — hilang suara. Dan hilang suara tu sebab akan terus demam, sebab kita hampir tidak tidur sebenarnya, 2-3 jam sehari je. Jadi kalau dia berlarut sampai 1 bulan, kita pada dasarnya perlu tahan dengan tidak tidur selama 1 bulan, 7 hari seminggu. Kemudian makan memang tak terjaga. Dan suara tu satu hal — dalam kes saya lah, dia berdiri sampai easily 7, 8, 9 jam sehari tanpa henti. Kalori banyak hilang. Bila kita tak rehat, badan kita tak terjaga, sebab sebenarnya kalori tidur yang penting — tidur. Jadi kalau tidur kita tak tersusun... tapi aku rasa orang dah marah dan menyampah kat kita, orang dengar podcast ni bukan nak dengar cerita tidur, hilang suara, semua tu. Jadi terus je.
 
-**Haziq:** Okay, baik. Itu sebab nak masuk pilihan raya, baby. Tapi kita akan sentuh juga dalam hidup keras ni. Cuma kita tengok berita dulu lah, kita mula dengan — ada sedikit mesej moral lah.
+**Haziq:** Okay, baik. Itu sebab nak masuk pilihan raya, YB. Tapi kita akan sentuh juga dalam hidup keras ni. Cuma kita tengok berita dulu lah, kita mula dengan — ada sedikit mesej moral lah.
 
 **Rafizi:** "Lelaki disangka hilang, rupanya tertidur di tepi mesin basuh..."
 

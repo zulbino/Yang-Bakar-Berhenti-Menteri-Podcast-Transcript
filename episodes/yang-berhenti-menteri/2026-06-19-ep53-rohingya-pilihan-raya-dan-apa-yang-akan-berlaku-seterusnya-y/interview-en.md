@@ -66,7 +66,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Because last week's viewership dropped, showing that YBM podcast viewers are mostly older folks. When we invited two Gen Z guests, even though they were enthusiastic, and Zahim ended up dozing off because it got too late — poor guy — in the end, viewership dropped. I think there are two reasons. One, we had a roadshow, back to back. When we have back-to-back roadshows, the algorithm needs to balance things out a bit, I guess. I don't know exactly how it affects things, but most probably content that gets more views, likes, and clicks will suppress and cannibalize content that came before it. Yeah, yeah, yeah. So for the first time, last week's YBM podcast — that was episode 52, the first anniversary — didn't do well, hasn't crossed 100,000 yet after a week. Usually within two days it's already crossed over 100,000. So to all the Gen Zs out there, don't get mad if we don't talk about Gen Z. Next time if you want the YBM podcast to talk about Gen Z, please watch in large numbers.
 
-**Haziq:** Okay, alright. Let's look at the most enthusiastic one, Abie. We have six, okay, quite a lot this time.
+**Haziq:** Okay, alright. Let's look at the most enthusiastic one, YB. We have six, okay, quite a lot this time.
 
 **Rafizi:** Yes, hopefully they're enthusiastic.
 
@@ -88,7 +88,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** I think because the position of DG of JKOM is really a hot seat, and before this maybe expectations of that person were very high, and to show that he's really performing that function, he ends up doing all sorts of things. The bar for that is very...
 
-**Rafizi:** Low. Because before this, as long as you made a podcast and got 10 viewers — that was the bar before. But actually, say you become Director-General of JKOM — let's say Pa'an. Pa'an, you become DG of JKOM, right, okay baby, Pa'an becomes it, you, Pa'an — actually what's your job assessment for deliverable work? Surely the assessment, the highest KPI, isn't how much, how enthusiastically you can act like a clown?
+**Rafizi:** Low. Because before this, as long as you made a podcast and got 10 viewers — that was the bar before. But actually, say you become Director-General of JKOM — let's say Pa'an. Pa'an, you become DG of JKOM, right, okay YB, Pa'an becomes it, you, Pa'an — actually what's your job assessment for deliverable work? Surely the assessment, the highest KPI, isn't how much, how enthusiastically you can act like a clown?
 
 **Farhan (Pa'an):** Because JKOM's job is to bridge the communication gap between the government and the people. So as DG of JKOM, shouldn't you be on the ground, getting feedback from the people about the government's performance? Well that's given right...
 
@@ -124,11 +124,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** That started early on. It was indeed Datuk Sri Anwar's wish. Because only he could do this, right? Because the rule is that a minister can't complain about the functions of another minister. So, for instance, the Ministry of Economy is really tortured. Can't comment on anyone. Because all the implementing agencies belong to other ministries, whereas all the policies and issues are under the Ministry of Economy, for example. Can complain, but can't even comment. The second reason is because the Madani government involves PH, BN, GPS, GRS all together. So political issues are best avoided from being answered directly. Only the Prime Minister can answer those. So when there's controversy between parties, we actually can't comment because that would disturb the stability and integrity of the government. So in the end everyone stays quiet. That's why, if you notice, before the Madani government, there was no government spokesperson. Right. Only the Madani government has a government spokesperson — apart from the Prime Minister, only one person is given approval to comment about the government and about matters touching on the cabinet, on other ministries. Who is that? Fahmi. And even he only answers with about 6-7 sentences. So Fahmi — before the Madani government, you know, there was never a minister appointed as government spokesperson; only the Madani government has this, and Fahmi is the one given that task. It doesn't help much, because the rule really is that you cannot comment.
 
-**Speaker 3:** Okay, right, WB. Beria,
+**Speaker 3:** Okay, right, YB. Beria,
 
 **Rafizi:** Beria. We're commenting beria.
 
-**Haziq:** We're commenting beria. Okay, right. We have another influencer, WB, but one who has become a mind-reader of people's hearts. Let's welcome our guest, Jason Yu — "Wong Chan dares not resign, instead wants to be sacked by the party in order to remain as the Subang MP."
+**Haziq:** We're commenting beria. Okay, right. We have another influencer, YB, but one who has become a mind-reader of people's hearts. Let's welcome our guest, Jason Yu — "Wong Chan dares not resign, instead wants to be sacked by the party in order to remain as the Subang MP."
 
 **Rafizi:** Eh, is Jason Yu's content still going viral like before, or has the traction dropped? Looks like on X it's lower, quite a lot lower, right.
 
@@ -138,17 +138,17 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** YB paid for his efforts?
 
-**Rafizi:** Yes. Oh, YB paid him? Yes. Monthly? Yes. But I think after that, once people saw his traction was high, I think everyone else also went to approach him, and, yeah, he got comfortable. Not too high, but volume is the game. No, but compared to one or two years ago, the volume was higher then. I mean, if you look at the graph over 2-3 years, there's probably been a drop, no? That's the impression I get. So it comes back to the JKOM question earlier — ah, yes, JKOM. It actually has to begin with the substance of the content. It's not 100% about editing or whatever. If you add political content, and that political content isn't popular, no matter what you do it won't be popular. But this one, "mind-reader of people's hearts" — so this is what Jason posted: "Wong Chan dares not resign; if he resigns he says he'll be called a traitor." I'm disappointed, honestly, because Jason — I thought he was a principled kid, you know? But that's the problem when... yeah, when you're tied to a party. Because I think he's now tied to PKR. So if he doesn't attack like this... I don't even know if someone gave him instructions to make content like this. Because if you look at his older content, he wasn't like this. His older content never reflected his personal opinions. And that was actually more like news — in the early days, early understanding, because we didn't want him to become an influencer who could later be lobbied or bought among politicians — whoever pays more — until he reaches a certain level of traction, then he becomes a mouthpiece for that person. Jason Yu was supposed to, in the early days, just be news. So cut and push, cut and push, right. But now, like in this example, it looks like there's an instruction for him to attack, and now he's started this — reading people's minds. Okay, right WB. So, pity him. Never mind, that's his choice. Alright.
+**Rafizi:** Yes. Oh, YB paid him? Yes. Monthly? Yes. But I think after that, once people saw his traction was high, I think everyone else also went to approach him, and, yeah, he got comfortable. Not too high, but volume is the game. No, but compared to one or two years ago, the volume was higher then. I mean, if you look at the graph over 2-3 years, there's probably been a drop, no? That's the impression I get. So it comes back to the JKOM question earlier — ah, yes, JKOM. It actually has to begin with the substance of the content. It's not 100% about editing or whatever. If you add political content, and that political content isn't popular, no matter what you do it won't be popular. But this one, "mind-reader of people's hearts" — so this is what Jason posted: "Wong Chan dares not resign; if he resigns he says he'll be called a traitor." I'm disappointed, honestly, because Jason — I thought he was a principled kid, you know? But that's the problem when... yeah, when you're tied to a party. Because I think he's now tied to PKR. So if he doesn't attack like this... I don't even know if someone gave him instructions to make content like this. Because if you look at his older content, he wasn't like this. His older content never reflected his personal opinions. And that was actually more like news — in the early days, early understanding, because we didn't want him to become an influencer who could later be lobbied or bought among politicians — whoever pays more — until he reaches a certain level of traction, then he becomes a mouthpiece for that person. Jason Yu was supposed to, in the early days, just be news. So cut and push, cut and push, right. But now, like in this example, it looks like there's an instruction for him to attack, and now he's started this — reading people's minds. Okay, right YB. So, pity him. Never mind, that's his choice. Alright.
 
 **Speaker 2:** That's Jason. Now let's look at what AMK is up to this week. We have — "Selangor AMK Chief: torn shirt highlights Anwar's simplicity despite being PM." Does this need commenting on? I think it's not so much about the tear itself, but among many statements, maybe AMK could highlight policy or something else instead. But it's a culture of raising trivial issues.
 
-**Rafizi:** Yes, that's why people like you leave AMK and leave PKR. So I don't know. Of course people will react, "Ya Allahu Akbar" — that's for the engagement ratio, right, right, right. But if we comment too much, then we become the beria ones. Because AMK is just like that, that's just how it is now. So even if we comment, this is the AMK that exists now. So personally I'm already tired of getting involved or commenting on AMK stories, PKR stories and all that. What's important is making sure the young ones with us don't turn out like this. That's why selection, training, then culture matter — don't give room for this kind of style. I think that's more important for me than commenting, or else I'll end up being the "beria" champion myself. Okay, bye OBI.
+**Rafizi:** Yes, that's why people like you leave AMK and leave PKR. So I don't know. Of course people will react, "Ya Allahu Akbar" — that's for the engagement ratio, right, right, right. But if we comment too much, then we become the beria ones. Because AMK is just like that, that's just how it is now. So even if we comment, this is the AMK that exists now. So personally I'm already tired of getting involved or commenting on AMK stories, PKR stories and all that. What's important is making sure the young ones with us don't turn out like this. That's why selection, training, then culture matter — don't give room for this kind of style. I think that's more important for me than commenting, or else I'll end up being the "beria" champion myself. Okay, bye YB.
 
 **Haziq:** Learn a lesson.
 
 **Rafizi:** Hint hint.
 
-**Haziq:** Hint. Okay, we have more, baby. Let's look at something else. Beware of someone named Tilaga. Ha, what's this story? Who's Tilaga? Name is Tilaga Gunaratnam. Oh, Tilaga
+**Haziq:** Hint. Okay, we have more, YB. Let's look at something else. Beware of someone named Tilaga. Ha, what's this story? Who's Tilaga? Name is Tilaga Gunaratnam. Oh, Tilaga
 
 **Rafizi:** Gunaratnam. Zero posts, zero followers, seven following. Her comments attack Bersama's content — about Bersama, on Bersama's account and also my account. Yes. And a lot of other comments too.
 
@@ -176,7 +176,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Meaning we need to go back to the RM9.5 million issue, since we've been commenting on those things, and suddenly he... Raki, secret. Yeah, after he made a fuss about wanting to sue me over the RM9.5 million, I think someone gave him a warning. Usually when Rafizi repeats something over and over, he has proof — "don't, better you keep quiet," right. So after this we'll try to find a way to reverse his beria disappearance so he reappears. He reappears and becomes our guest. He's a minister after all — and an important one, the Minister of Human Resources. How can the Minister of Human Resources just stay silent — quiet, missing? Pity the kids at Infineon who are already queuing up for long lines, there should be a comment from the minister, we want to hear what the minister is doing. Okay, later — it's just that we're busy with the election. Let's think about how to bring Ramanan back up.
 
-**Haziq:** Ok alright baby, that's it, we need to pick one now, baby.
+**Haziq:** Ok alright YB, that's it, we need to pick one now, YB.
 
 **Rafizi:** There are 6 — let Pa'an choose. Ha, let Pa'an, I'll pretend to choose, I don't know how. Yeah,
 
@@ -184,7 +184,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Ha, okay then, okay then. Even though we actually think Ramanan is really cute, never mind, since we've given that power to Pa'an. So this week's winner is JKOM. Congratulations. Ha, beria, beria. But watch out, you know — we give him the beria award, then next week he's here, wants to join this podcast, "let me in," then he calls us names — "I want to podcast with these idiots," right, that's what he calls us — unintended consequences, you know.
 
-**Haziq:** Okay, okay baby, 44 minutes. Let's move on to a serious issue. To the brothers and sisters who've been waiting a long time, we'll finally — I can adjust — this is a hot topic, discussing the Rohingya issue. And maybe with this issue we'll go through a few stages, baby, to help people understand too. We'll first touch on the origins, then move to today's problems, and maybe we'll look at what way forward could be considered. And if — yeah, I can go through it once — currently there are 128,000 Rohingya registered with UNHCR, estimated at around 200,000 in total... the overall cell, hold on, we can, we can —
+**Haziq:** Okay, okay YB, 44 minutes. Let's move on to a serious issue. To the brothers and sisters who've been waiting a long time, we'll finally — I can adjust — this is a hot topic, discussing the Rohingya issue. And maybe with this issue we'll go through a few stages, YB, to help people understand too. We'll first touch on the origins, then move to today's problems, and maybe we'll look at what way forward could be considered. And if — yeah, I can go through it once — currently there are 128,000 Rohingya registered with UNHCR, estimated at around 200,000 in total... the overall cell, hold on, we can, we can —
 
 **Rafizi:** there's already a request, so cold. Ha, wrong
 
@@ -234,7 +234,7 @@ The real issue is what has happened since then. Because there are two major chal
 
 Another matter, an operational one, that needs to be addressed urgently, is the question of what do you do with the 130,000 who are already here? Right? Okay, so what do you do?
 
-**Haziq:** It's a bit of a dilemma, maybe to be fair to the government. If we don't give them the right to work, for example, right, they're human beings, they can't just sit at home without eating. They will resort to survival in less savory ways — stealing or whatever — and that will lead to crime. But if we do give them that right, other Malaysians will feel uncomfortable — they'll feel like it's "abandoning" us, but we're giving them access to things, and resources aren't even enough as it is. So if you were the government, it'd be tough too, baby.
+**Haziq:** It's a bit of a dilemma, maybe to be fair to the government. If we don't give them the right to work, for example, right, they're human beings, they can't just sit at home without eating. They will resort to survival in less savory ways — stealing or whatever — and that will lead to crime. But if we do give them that right, other Malaysians will feel uncomfortable — they'll feel like it's "abandoning" us, but we're giving them access to things, and resources aren't even enough as it is. So if you were the government, it'd be tough too, YB.
 
 **Rafizi:** You're really speaking for Anwar Ibrahim right now, not Pa'an.
 
@@ -436,7 +436,7 @@ Back to this, yes? So, um, these issues became issues because when that communit
 
 **Speaker 3:** [no clear response]
 
-**Speaker 1:** Alright, it's already exploded. It's already exploded. Okay baby. So how many minutes do we have left? Half an hour? Roughly, half an hour or so left. How many minutes? None left.
+**Speaker 1:** Alright, it's already exploded. It's already exploded. Okay YB. So how many minutes do we have left? Half an hour? Roughly, half an hour or so left. How many minutes? None left.
 
 **Haziq:** Let's finish up, we have a second topic — elections and money.
 

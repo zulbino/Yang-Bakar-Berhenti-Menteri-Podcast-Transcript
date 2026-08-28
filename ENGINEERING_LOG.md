@@ -1800,6 +1800,48 @@ file's mtime changes -- `process_rewrite` writes all three files at the end, so 
 whether the process is still alive, not the timestamp.** The post-regeneration sequence
 caught the damage on the next run, which is the argument for having it written down.
 
+### 1.32: The YB honorific, garbled twelve more ways
+
+- **2026-08-28.** Found while checking, contextually rather than by keyword, whether the
+  giant single-speaker blocks in ep45 and its peers really are Rafizi talking. A vocative
+  the roster did not recognise kept appearing at segment transitions: `Obi`, `Ovi`,
+  `Oibi`. The owner identified all three on sight as **YB**, the same garble that earlier
+  produced `Bobby` (1.20) and `Wabi` (b2a8fe1). A position-based sweep then found nine
+  more spellings, including `WB` at 102 occurrences in `raw.md` alone.
+- **Fixed:** 944 substitutions across 168 files via `scripts/fix_yb_honorific.py`, plus
+  four anchored edits for a separate rewrite-stage garble (below). Final family:
+  `baby` (543), `WB` (234), `obi` (38), `ovi` (14), `ubi` (13), `oibi` (8), `waibi` (5),
+  `bobby` (4), `abby` (2), `bibi` (1), `yobi` (1), `abie` (1).
+
+**Guessing spellings does not close a garble family; detecting the position does.** Three
+rounds of "what else could Y-B sound like" kept finding one or two more. What finished it
+was searching the *slot* instead: any short token sitting between a segment opener
+(`baik`, `okey`, `seterusnya`, `tahniah`) and the next clause. In that slot `yb` appears
+301 times, `baby` 43, `wb` 33, and every other token is an ordinary Malay or English
+function word. That is a closed list, and it produced `WB` and `bibi`, which no amount of
+guessing had.
+
+**Eight spans had to be protected, and no rule found them -- only reading did.** A blind
+substitution corrupts real text: `ubi keledek` is sweet potato (ep07), `baby sharks`
+(ep16), `baby formula` (ep29) and `baby boomer` (ep29) are genuine English introduced by
+the *rewrite*, and ep24's `rasa macam baby umur 20 tahun` is a real baby inside a
+longevity argument. A regex classifier over `raw.md` scored these at **zero**, because
+`raw.md` contains none of them -- the English ones exist only in `interview-en.md`.
+**Check the rewrites separately; they have vocabulary the raw transcript does not.**
+
+- **Left alone deliberately:** ep51 `[02:46]` "ada sekali tu Abi datang memang hambat
+  sikit" is narrative, not vocative, so `abi` is excluded from the tool entirely. ep40's
+  "Entah-entah dengan baby kawan" parses either way and is left for an ear.
+- **The rewrite stage garbles YB too, independently of the ASR.** ep50's `raw.md` reads
+  "Airplane mode tu YB" and all three rewrites turned it into "abi". So `raw.md` being
+  correct does not mean the rewrites are: the same honorific can be right upstream and
+  wrong downstream, which no `raw.md`-only check can see.
+- **Why this matters beyond spelling.** Every one of these tokens is a co-host addressing
+  Rafizi, so each marks a turn boundary. In ep58's 62-minute block labelled `Rafizi`,
+  "Okey baik, menarik, Oibi, 2 jam 10 minit" is a co-host at the 54% mark. That makes the
+  garble a text-only detector for speaker changes inside the collapsed blocks, needing no
+  audio -- see the block-granularity audit alongside this entry.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider

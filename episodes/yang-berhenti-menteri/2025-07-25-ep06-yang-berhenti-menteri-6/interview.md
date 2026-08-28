@@ -176,7 +176,7 @@ So, I hope you actually think carefully about all of this. I'm not saying that p
 
 So, when it comes to the system, I'll give it a D. I think the debate is a bit different. I'll check the debate first. I'm also debating. Who is the judge tonight?
 
-**Interviewer:** There's no end to it, baby. We'll have to wait for the BPM. If you become Isham Jalil and debate with me, you'll die. I'll die. Anyway, you wanted to ask about corruption.
+**Interviewer:** There's no end to it, YB. We'll have to wait for the BPM. If you become Isham Jalil and debate with me, you'll die. I'll die. Anyway, you wanted to ask about corruption.
 
 **Interviewer (Zaim Zulkifli):** Yes, that's right. A lot about corruption, but I think we can also touch on economic issues. We are very interested in that. We've talked a lot about institutional reform, and I think we've reached a point where people see where we are going with it. Now let's talk about economic reform, since you are the Minister of Economy. We are a bit shy to talk about economics. But first, what degree did you do?
 

@@ -72,7 +72,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Haa, baru bercakap sekali terus demam. Jadi selalunya orang tak faham, untuk kempen dalam siri pilihan raya ni, sebenarnya dia memerlukan stamina yang sangat-sangat tinggi, sebab risiko pertama tu lah — hilang suara. Dan hilang suara tu sebab akan demam terus, sebab you hardly sleep sebenarnya, 2-3 jam sehari je. Jadi kalau dia drag sampai 1 bulan, you basically have to put up dengan tidak tidur selama 1 bulan, 7 hari seminggu. Kemudian makan memang tak terjaga. Dan suara tu satu hal — in my case lah, dia berdiri sampai easily 7, 8, 9 jam sehari non-stop. Kalori banyak hilang. Bila kita tak rehat, badan kita tak terjaga, sebab sebenarnya kalori tidur yang penting — tidur. So kalau you tidur yang tak tersusun... tapi aku rasa orang dah marah dan menyampah kat kita, orang dengar podcast ni bukan nak dengar cerita tidur hilang suara ke semua. So on straight.
 
-**Haziq:** Okay, baik. Itu sebab nak masuk pilihan raya, baby. Tapi kita akan sentuh juga dalam hidup keras ni. Cuma kita tengok beria dulu lah, kita start dengan — ada sedikit mesej moral lah.
+**Haziq:** Okay, baik. Itu sebab nak masuk pilihan raya, YB. Tapi kita akan sentuh juga dalam hidup keras ni. Cuma kita tengok beria dulu lah, kita start dengan — ada sedikit mesej moral lah.
 
 **Rafizi:** "Lelaki disangka hilang, rupanya tertidur di tepi mesin basuh..."
 
@@ -272,9 +272,9 @@ Jadi kita bukan sahaja kerajaan, kita perlukan bank, kerana bank yang bawa pelab
 
 **Speaker 3:** Tak, dia bukan setakat tukar baju — dia tukar baju, pakai, tengok final, bersorak untuk team tu lagi. Lepas tu kata, "tak, saya sebenarnya fan Liverpool." Bangsa final kot. Bangsa final. Ada ya, bangsa final.
 
-**Rafizi:** Jadi... haa, tak apa lah. Itu kelebihan dia lah kot. Sebab tu saya ingat Zafrul lebih istimewa daripada kita semua — dia sangat fleksibel. Sebab orang yang biasa di luar jangkauan akal kita untuk buat benda macam ni kan, itulah istimewanya Zafrul. Sebab itu setiap kali ada kerajaan bertukar, dia mesti ada kat situ. Jadi, yalah, dia bergantung kepada kita orang ramai tengok lah, cuma kepada yang terutamanya yang muda-muda lah kan — tak payahlah buat macam ni, kita kekallah dengan setia, tu penting tu juga. Yang lawak lah dalam PKR kan, macam orang macam saya ni dimaki tiap-tiap hari sebagai tidak setia, tapi pada masa yang sama ialah watak seperti Tengku Zafrul ini menunjukkan bahawa ketidaksetiaan itulah yang dicari di dalam PKR kan. Itu yang orang Zali buat lawak kata, "sudah lepas ni kalau PAS jadi kerajaan, dia kena masuk PAS pula." Menarik, menarik. Okay, baby, ni tak payah tanya lah — pemenang beria adalah saya pada minggu ini.
+**Rafizi:** Jadi... haa, tak apa lah. Itu kelebihan dia lah kot. Sebab tu saya ingat Zafrul lebih istimewa daripada kita semua — dia sangat fleksibel. Sebab orang yang biasa di luar jangkauan akal kita untuk buat benda macam ni kan, itulah istimewanya Zafrul. Sebab itu setiap kali ada kerajaan bertukar, dia mesti ada kat situ. Jadi, yalah, dia bergantung kepada kita orang ramai tengok lah, cuma kepada yang terutamanya yang muda-muda lah kan — tak payahlah buat macam ni, kita kekallah dengan setia, tu penting tu juga. Yang lawak lah dalam PKR kan, macam orang macam saya ni dimaki tiap-tiap hari sebagai tidak setia, tapi pada masa yang sama ialah watak seperti Tengku Zafrul ini menunjukkan bahawa ketidaksetiaan itulah yang dicari di dalam PKR kan. Itu yang orang Zali buat lawak kata, "sudah lepas ni kalau PAS jadi kerajaan, dia kena masuk PAS pula." Menarik, menarik. Okay, YB, ni tak payah tanya lah — pemenang beria adalah saya pada minggu ini.
 
-**Speaker 2:** Ada satu lagi, baby.
+**Speaker 2:** Ada satu lagi, YB.
 
 **Rafizi:** Oh, ada lagi? YB ke atau Zafrul? Tak, tak, tak — aku menang, aku sekarang self-claim. Orang lain bergebut nak claim kredit untuk JSSEZ ni, aku claim kredit beria.
 

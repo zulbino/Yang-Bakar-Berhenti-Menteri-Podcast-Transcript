@@ -309,7 +309,7 @@ Okay, tadi sebelum podcast ni kita ada sembang juga pasal peguam-peguam YB. Takp
 
 Okay, sayang, kita habis beria, kita terus ke Hidup Keras Dik — ada tiga lah minggu ni. Cuma yang pertama, sudah pasti kita akan menyentuh tentang peperiksaan paling besar pada minggu lepas, iaitu peperiksaan YB. Gila lama — bila kali terakhir kau ambil peperiksaan lah?
 
-**Rafizi:** Bila, Abie? Saya kali terakhir ambil peperiksaan ialah sekitar tahun 2004 ke 2005. Masa tu, yelah, peperiksaan-peperiksaan yang lepas — maksudnya habis universiti, kemudian saya buat Chartered Accountancy dengan ICAEW, semua peperiksaan habis 2002. Peperiksaan terakhir bertulis yang saya ambil ialah untuk tahun pertama Bachelor of Jurisprudence di UM lah.
+**Rafizi:** Bila, YB? Saya kali terakhir ambil peperiksaan ialah sekitar tahun 2004 ke 2005. Masa tu, yelah, peperiksaan-peperiksaan yang lepas — maksudnya habis universiti, kemudian saya buat Chartered Accountancy dengan ICAEW, semua peperiksaan habis 2002. Peperiksaan terakhir bertulis yang saya ambil ialah untuk tahun pertama Bachelor of Jurisprudence di UM lah.
 
 **Farhan (Pa'an):** Oh.
 
@@ -445,7 +445,7 @@ Okay, sayang, kita habis beria, kita terus ke Hidup Keras Dik — ada tiga lah m
 
 **Farhan (Pa'an):** Hmm.
 
-**Rafizi:** Dia sudah bercakap mengkritik Anwar semua ini — Farhaj, Ramanan — berbulan-bulan sebelum itu, dekat setahun sebelum itu. Tapi dua tiga hari selepas cerita pasal saham Azam Baki keluar, terus buka fail dengannya. Sekali lagi, logik rakyat lekat pada benda itu. Cuma Ceplos twist naratif itu, baby. Bagaimana dia twist? Dia kata: disebabkan YB ada kes, YB serang dulu — Azam Baki diserang bertubi-tubi, supaya bila YB kena, YB boleh kata ini disebabkan oleh YB yang menyerang dahulu.
+**Rafizi:** Dia sudah bercakap mengkritik Anwar semua ini — Farhaj, Ramanan — berbulan-bulan sebelum itu, dekat setahun sebelum itu. Tapi dua tiga hari selepas cerita pasal saham Azam Baki keluar, terus buka fail dengannya. Sekali lagi, logik rakyat lekat pada benda itu. Cuma Ceplos twist naratif itu, YB. Bagaimana dia twist? Dia kata: disebabkan YB ada kes, YB serang dulu — Azam Baki diserang bertubi-tubi, supaya bila YB kena, YB boleh kata ini disebabkan oleh YB yang menyerang dahulu.
 
 **Farhan (Pa'an):** Tapi saya rasa itu naratif Ceplos dan Ceplos sahaja kot.
 

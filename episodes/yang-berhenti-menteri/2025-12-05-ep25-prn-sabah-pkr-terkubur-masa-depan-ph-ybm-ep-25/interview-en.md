@@ -284,7 +284,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Faizal Rahman:** What was mentioned was this massage chair, what was it — during the exposure.
 
-**Rafizi:** If WB sits...
+**Rafizi:** If YB sits...
 
 **Faizal Rahman:** Oh, like an Ogawa brand or something. So if there are documents in the handphone, they can indeed be extracted.
 
@@ -370,7 +370,7 @@ So to those watching who don't understand why we have such a cynical view about 
 
 **Razeef Rakimin:** He has his uses — regarding the Azam Baki issue, in Sabah, what people are seeing now... yes, after several prosecutions, suddenly afterward everything got suspended. No one has been convicted of anything. So people's perception is like, "well, we used to pressure him to resign, now that we're the government, we grab him, we grab this bad guy, we make him our weapon." That's what people see now. So, it's gone to his head, right.
 
-**Rafizi:** Okay WB, 50 minutes here and we haven't even talked about Syamsul and Albert T. Yes. But it's actually true, the Syamsul and Albert T issue, what we're seeing now is just the tip of the iceberg. And like Razif said, don't think the people are stupid, you know. The people read all this — for example, this weaponizing of MACC. Even people who aren't highly educated, ordinary folks at the coffee shop, the way they say it is different, the language is different, but the conclusion is—
+**Rafizi:** Okay YB, 50 minutes here and we haven't even talked about Syamsul and Albert T. Yes. But it's actually true, the Syamsul and Albert T issue, what we're seeing now is just the tip of the iceberg. And like Razif said, don't think the people are stupid, you know. The people read all this — for example, this weaponizing of MACC. Even people who aren't highly educated, ordinary folks at the coffee shop, the way they say it is different, the language is different, but the conclusion is—
 
 **Faizal Rahman:** —the same. Look, if YB comments on something, puts up a status about this, look at the people's comments. It means the people understand. I don't understand what you're saying.
 
@@ -386,7 +386,7 @@ So to those watching who don't understand why we have such a cynical view about 
 
 **Razeef Rakimin:** "You want my vote, you carry our issues. If you can't, we'll choose someone else. We can move as one bloc, no problem." That's why we were shocked by DAP's result. We knew this would happen, and we'd warned the leadership from early on. But we saw no change, no action. They said they would act, but nothing happened. We saw nothing at all on the Chinese community issues they were supposed to voice. In the end they saw no other hope besides choosing Warisan. So it wasn't sudden. Not sudden at all. This has been building for over a year. Even during the Hero campaign, I think YB already presented this — we saw the support percentage keep dropping. It kept being reported back, reported back more, because when we see the decline, we don't just look at the support numbers, we want to know what the issue is. This issue could actually have been resolved, but some of our leaders were focused on other issues, and some were just overconfident due to ego. To them, when we talk about Chinese voters, [they'd say] "they're loyal to Pakatan Harapan." But the Chinese community isn't like that at all. "If you can deliver, I'll give you my vote. If you can't deliver, you're done." That's what happened.
 
-**Faizal Rahman:** But can I ask something? Baby — I want to ask, when [you] posted our photo for this, whatever, the question I got was, it's said that the twin commanders who are so in sync, at the time of the voting, weren't in Sabah. Is that true? It's said like now there's a stir in PKR Kedah — apparently Saifuddin, at that time, was actually somewhere else playing golf. And Izzah also wasn't in Malaysia at that time. I heard Izzah went for—
+**Faizal Rahman:** But can I ask something? YB — I want to ask, when [you] posted our photo for this, whatever, the question I got was, it's said that the twin commanders who are so in sync, at the time of the voting, weren't in Sabah. Is that true? It's said like now there's a stir in PKR Kedah — apparently Saifuddin, at that time, was actually somewhere else playing golf. And Izzah also wasn't in Malaysia at that time. I heard Izzah went for—
 
 **Razeef Rakimin:** Umrah.
 
@@ -548,7 +548,7 @@ So at that time — why? Because there was "parachuting." Interference. At first
 
 But there are two or three things I saw on TikTok — things that are newly emerging in PKR. For example... PKR never used to have entertainment in our campaigns. Because the people who follow PKR aren't the type who want entertainment. If they wanted entertainment, they wouldn't support PKR, they'd support other parties. So looking from a distance, I'd say our way of campaigning has strayed quite far — going viral, that TikTok stuff.
 
-**Razeef Rakimin:** If Abie remembers, during the MPP meeting before, when we wanted to celebrate Keadilan's 25th anniversary, we cancelled the concert part, the singer part, we cancelled it. Because we're not...
+**Razeef Rakimin:** If YB remembers, during the MPP meeting before, when we wanted to celebrate Keadilan's 25th anniversary, we cancelled the concert part, the singer part, we cancelled it. Because we're not...
 
 **Rafizi:** We're good at "suffering." Entertainment, I mean this — the people aren't stupid. They see a tabla balik performer brought in, tens of thousands spent bringing them all in. Instead of spending tens of thousands on that, better give it to me. Better give it to the people, help them. Better go door to door, you know. So this is something that never used to happen — when I look at our campaign programs — I don't know, I only see what's on TikTok — the feudalism is getting worse and worse. In our time, in my time, I forced Datuk Seri Anwar to sit on a plastic chair like me. We never had VIP chairs, never. Come like everyone else, sit on a plastic chair. Even until the state election, even in 2023 you know, those 6 states, we sat on plastic chairs. But when I look at Sabah, the setup has become feudal.
 

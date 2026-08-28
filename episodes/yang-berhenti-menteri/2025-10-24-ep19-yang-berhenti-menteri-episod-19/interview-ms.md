@@ -144,7 +144,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Baik, baik, baik.
 
-**Hos:** Okey baby, ada lagi ni. Di Pavali... ni dekat mana ni?
+**Hos:** Okey YB, ada lagi ni. Di Pavali... ni dekat mana ni?
 
 **Ko-hos:** Diorang kata dekat Pening eh?
 
@@ -316,7 +316,7 @@ Yang bagusnya, saya ingat hanya walaun yang betul-betul percaya kepada perkara i
 
 Sebab itu, langkah pragmatik perlu melalui cara yang sama. Contohnya, jika Malaysia berdagang dengan China, jadi kita tak perlulah menggunakan dolar — transaksi kita sama ada dalam Ringgit ataupun Yuan. Kalau Malaysia dan Arab Saudi, kalau kita boleh yakin, kita boleh gunakan yang mana-mana sahaja, sama ada Ringgit ataupun Riyal, contohnya kan? Jadi langkah itu lebih pragmatik dan realistik berbanding retorik politik "mari kita guna Dinar, mari kita guna itu dan ini." Kerana Malaysia adalah negara kecil — kita bukanlah, kita bukan Arab Saudi pun. Jadi yang selalu akan berlaku seperti ini iaitu retorik di Marang, dekat kampung-kampung kat Marang, kedai kopi — itu yang saya kata ni sedap didengar, ada kedai kopi ni, best lah, bunyi hebat semua, bagus lah dia. Tapi ada sebab kenapa perkara itu, hatta Arab Saudi pun, sampai sekarang Cina ke, Jepun ke, masih lagi belum boleh buat.
 
-**Haziq:** Okey YB, jelas, terima kasih kemaskan idea Tan Sri Abdul Hadi Awang. Kita ke isu seterusnya. Ini berkaitan ucapan PM — kita pukul semua, PAS kita pukul, sekarang PM pula kena pukul lah. Di Residensi Aman Damai. Mungkin saya explain lah, saya takut orang tak faham kan — lagipun kalau yang dengar dekat Spotify tu, dia tak tengok, dia tengah jogging, jadi memang kena explain apa dia. Jadi PMX menegur supaya projek perumahan mega, 3,500 unit ke atas, mesti sediakan sekolah dan tadika. Jadi dia tegur secara langsung dalam ucapannya, dia katakan malah kalau tak buat lagi projek ni, satu lagi blok lain tu kena tangguh sampai syarat ni dipenuhi — malah dia single out pengarah perancang tak siap saya. Jadi cuma WB, soalan saya — tapi saya kena beritahu awal-awal lah, dalam video TikTok, khusus untuk video ini, respons daripada orang ramai agak baik, tiada pendekatan menentang PMX. Tapi apa pandangan YB tentang cara PM campur tangan sebegini? Adakah ada kesan buruk, atau adakah ia satu perkara baik yang kita alu-alukan sekali sekala?
+**Haziq:** Okey YB, jelas, terima kasih kemaskan idea Tan Sri Abdul Hadi Awang. Kita ke isu seterusnya. Ini berkaitan ucapan PM — kita pukul semua, PAS kita pukul, sekarang PM pula kena pukul lah. Di Residensi Aman Damai. Mungkin saya explain lah, saya takut orang tak faham kan — lagipun kalau yang dengar dekat Spotify tu, dia tak tengok, dia tengah jogging, jadi memang kena explain apa dia. Jadi PMX menegur supaya projek perumahan mega, 3,500 unit ke atas, mesti sediakan sekolah dan tadika. Jadi dia tegur secara langsung dalam ucapannya, dia katakan malah kalau tak buat lagi projek ni, satu lagi blok lain tu kena tangguh sampai syarat ni dipenuhi — malah dia single out pengarah perancang tak siap saya. Jadi cuma YB, soalan saya — tapi saya kena beritahu awal-awal lah, dalam video TikTok, khusus untuk video ini, respons daripada orang ramai agak baik, tiada pendekatan menentang PMX. Tapi apa pandangan YB tentang cara PM campur tangan sebegini? Adakah ada kesan buruk, atau adakah ia satu perkara baik yang kita alu-alukan sekali sekala?
 
 **Rafizi:** Kebimbangan saya ialah kalau... saya tak pasti, saya tengok video ni, PM tegur seolah-olah yang tak nak buat ini adalah pemaju, dan seolah-olah tanggungjawab menyediakan sekolah tadika ini semua tanggungjawab pemaju. Apa yang saya tidak pasti ialah sama ada ini gimik politik PM — kerana seperti yang Haziq sebut tadi, dia popular dengan rakyat — atau dia tidak jelas mengenai proses pentadbiran. Kerana sebelum sesuatu projek itu diluluskan, sama ada projek perumahan bertingkat seperti ini ataupun rumah teres, apa proses dia? Kita perlu mendapatkan hak untuk merancang — kebenaran merancang. Kalau tidak, kita tak boleh membinanya. Apakah yang dimaksudkan dengan kebenaran merancang? Tidak boleh setiap majlis bandaran memutuskan sendiri apa yang sesuai untuk dibina di situ — ia adalah kesesuaian keputusan, angkang dia macam mana, apa yang ada, dia merujuk kepada apa. Dia merujuk kepada beberapa perkara lah. Satu, dia merujuk kepada rancangan tempatan. Okey. Dia tak boleh, contohnya, kalau dekat situ sebelum dia nak luluskan, tanah itu contohnya untuk rekreasi, dan dia kena melalui proses kalau dia nak tukar syarat tanah itu — dia kena tengok pula akan ada bantahan kerana tanah ini telah dizonkan untuk perkara A, perkara B, tak boleh pandai-pandai tukar — dan juga standard-standard yang telah ditetapkan oleh Plan Malaysia. Plan Malaysia adalah sebuah agensi di bawah KPKT, di bawah kerajaan persekutuan, yang menetapkan standard perbandaran.
 
@@ -338,7 +338,7 @@ Kalau pihak swasta mahu memudahkan apabila diminta untuk berbuat demikian, merek
 
 **Rafizi:** Baik.
 
-**Haziq:** Kita ada lagi — Allah, PAS lagi, WB, WB, tak letih ke membetulkan naratif dia orang ni?
+**Haziq:** Kita ada lagi — Allah, PAS lagi, YB, YB, tak letih ke membetulkan naratif dia orang ni?
 
 **Rafizi:** Itulah yang dipanggil, berdakwah. Ya, berdakwah. Ini pun sama — yang ini pasal Marzuk. Saya juga ada cerita, sekitar 2012, sama macam Nurul Islam.
 
@@ -398,7 +398,7 @@ Perkara kedua — dan saya sebenarnya terkejut — kenapa tidak ada pemimpin ker
 
 **Rafizi:** Ha, yang tu dia tak pernah sebut pun. Jadi sebab itulah, kalau ini adalah gaya kepimpinan PAS, saya risau untuk masa depan. Saya okey — saya hampir 50 tahun, dah cukup, lagi sikit, 20 tahun lagi. Tapi kalau macam ini, maknanya sama ada dia tidak faham angka, atau mereka tidak mahu bertindak secara adil, atau model politik mereka adalah untuk menghasut orang Melayu tidak menyukai orang Cina, kerana Penang itu Cina, Kelantan itu Melayu. Di mana lagi kita mahukan itu? Yang tu kita bertanggungjawab ke Kelantan, ke Terengganu, semua ini. Masa itu, tak ada pula dia buat bising. Malah saya yang mempersoalkan dulu, adakah keperluan untuk membelanjakan sampai 70 bilion — bukan 84, ini tahun 2014, 2015, anggarannya 70 bilion — saya yang mempersoalkan adakah keperluan untuk kita membuat ECRL ini. Jadi saya rasa yang itu kita tunggu PAS nak jawab macam mana, ha, ECRL, ECRL.
 
-**Haziq:** Baik, WB. Habis kekerasan kita minggu ini. Jom kita pergi ke berita dunia.
+**Haziq:** Baik, YB. Habis kekerasan kita minggu ini. Jom kita pergi ke berita dunia.
 
 **Rafizi:** Okey.
 
@@ -436,7 +436,7 @@ Sebab itu, kalau kita lihat, saya sebelum menjadi menteri tahun 2022, saya ada p
 
 **Rafizi:** Jadi ini memang satu pukulan besar kepada rakyat Perancis, kerana mereka rasa bangga — kerana negara mereka, dari segi ekonominya, kini berada dalam keadaan yang teruk. Dari segi kerajaannya, masyarakatnya, krisis politik, dan tiba-tiba sudah tentu akan — apa yang berlaku di Louvre itu seperti satu simbol kepada sebuah komuniti dan negara yang dahulunya berasa hebat, bahawa mereka kini sebuah negara kecil.
 
-**Haziq:** Okay, WB. Tapi ada orang tanya juga, sekurang-kurangnya di Louvre kita ada mendengar kecurian, tapi kita tak pernah dengar kecurian atau cubaan mencuri di muzium-muzium negara kita. Tak rasa itu salah satu masalah juga ke?
+**Haziq:** Okay, YB. Tapi ada orang tanya juga, sekurang-kurangnya di Louvre kita ada mendengar kecurian, tapi kita tak pernah dengar kecurian atau cubaan mencuri di muzium-muzium negara kita. Tak rasa itu salah satu masalah juga ke?
 
 **Rafizi:** Kenapa nak pergi muzium? Kita bercakap tentang daya tarikan — apa yang mahal dalam muzium kita? Saya tak rasa ada apa-apa.
 
@@ -448,7 +448,7 @@ Sebab itu, kalau kita lihat, saya sebelum menjadi menteri tahun 2022, saya ada p
 
 **Rafizi:** Ada Mona Lisa di sini? Di sini, saya rasa apa yang disimpan bernilai beratus-ratus juta — contohnya, kekayaan ahli-ahli politik hebat, berpuluh-puluh juta, disimpan di Muzium Negara. Ada banyak Ocean's Eleven nak pergi Muzium Negara? Saya tak tahu tentang Muzium Negara, saya tak rasa ada banyak harta atau barang berharga yang disimpan di sana.
 
-**Haziq:** Okey, baiklah, WB, jelas. Kalau boleh kita beralih ke isu terakhir — isu dunia, PM Jepun. Beliau seorang tradisionalis yang tegas dan berminat dengan Margaret Thatcher. Kalau boleh saya bertanya, dua perkara yang agak ironik — Jepun adalah negara yang paling menua, contohnya. Tapi sekarang, apabila dasar mereka anti-imigran, macam mana mereka mendamaikan dua keperluan ini, sedangkan apa yang mereka mahu paksakan agak bertentangan?
+**Haziq:** Okey, baiklah, YB, jelas. Kalau boleh kita beralih ke isu terakhir — isu dunia, PM Jepun. Beliau seorang tradisionalis yang tegas dan berminat dengan Margaret Thatcher. Kalau boleh saya bertanya, dua perkara yang agak ironik — Jepun adalah negara yang paling menua, contohnya. Tapi sekarang, apabila dasar mereka anti-imigran, macam mana mereka mendamaikan dua keperluan ini, sedangkan apa yang mereka mahu paksakan agak bertentangan?
 
 **Rafizi:** Tak, maksud saya, saya akan ceritakan aging nation semua ni — ia kekal menjadi masalah pembuat dasar; hari politik dia tak fikir. Okay, jadi yang lebih membimbangkan tentang PM wanita pertama Jepun ini, bukan sangat soal diri dia lah. Kebimbangannya ialah kecenderungan (swing) ke arah anti-imigran, dasar-dasar yang dilihat sebagai sayap kanan, sebagai ekstrim. Kerana ada dua masyarakat dalam dunia ini yang trauma akibat Perang Dunia Kedua dan mereka trauma dengan parti-parti pelampau sayap kanan — satu ialah Jerman, satu lagi Jepun lah. Jadi ini kali pertama, selain daripada beliau adalah Perdana Menteri wanita pertama, yang lebih signifikan ialah ini kali pertama seorang yang dilihat bersayap kanan, yang secara terbuka anti-imigran, menjadi Perdana Menteri Jepun. Dan saya ingat semua perkara lain itu adalah perkara yang secondary dalam politik ataupun yang diperhatikan oleh dunia lah.
 
@@ -456,7 +456,7 @@ Sebab itu, kalau kita lihat, saya sebelum menjadi menteri tahun 2022, saya ada p
 
 **Rafizi:** Ya.
 
-**Haziq:** Okey, baik. Selesai, WB, kita pergi ke segmen seterusnya. Kita ada Fuyoh — di mana kita akan berada? Kita akan berada di sana dalam sejam 50 minit.
+**Haziq:** Okey, baik. Selesai, YB, kita pergi ke segmen seterusnya. Kita ada Fuyoh — di mana kita akan berada? Kita akan berada di sana dalam sejam 50 minit.
 
 **Rafizi:** Okey, kita ada 10 minit lagi, kita akan laju.
 

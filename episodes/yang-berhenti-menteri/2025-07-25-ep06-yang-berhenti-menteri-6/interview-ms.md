@@ -174,7 +174,7 @@ Jadi, saya harap anda benar-benar berfikir dengan teliti tentang semua ini. Saya
 
 Jadi, apabila bercakap tentang sistem, saya beri gred D. Saya rasa perdebatan itu agak berbeza. Saya akan semak perdebatan itu dahulu. Saya juga berdebat. Siapa hakim malam ini?
 
-**Moderator:** Tiada penghujungnya, 'baby'. Kita kena tunggu BPM. Kalau anda jadi Isham Jalil dan berdebat dengan saya, anda akan mati. Saya akan mati. Apa-apa pun, anda mahu bertanya tentang rasuah.
+**Moderator:** Tiada penghujungnya, 'YB'. Kita kena tunggu BPM. Kalau anda jadi Isham Jalil dan berdebat dengan saya, anda akan mati. Saya akan mati. Apa-apa pun, anda mahu bertanya tentang rasuah.
 
 **Moderator (Zaim Zulkifli):** Ya, betul. Banyak tentang rasuah, tetapi saya rasa kita boleh sentuh juga isu ekonomi. Kami sangat berminat dengan itu. Kita telah banyak bercakap tentang reformasi institusi, dan saya rasa kita telah sampai ke satu tahap di mana orang nampak ke mana arah tuju kita dengannya. Sekarang mari kita bercakap tentang reformasi ekonomi, memandangkan anda adalah Menteri Ekonomi. Kami agak segan mahu bercakap tentang ekonomi. Tapi pertama, ijazah apa yang anda ambil?
 

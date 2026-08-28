@@ -95,7 +95,7 @@ This isn't in Malaysia, this is in India. This one... people, what's it called, 
 
 **Speaker 2:** Wow yes, congratulations. Next.
 
-**Speaker 1:** Bibi — I have to give this one many stars too, because I was entertained watching these kids, especially this one — whose child is this, willing to do what's it called, TikTok huh.
+**Speaker 1:** YB — I have to give this one many stars too, because I was entertained watching these kids, especially this one — whose child is this, willing to do what's it called, TikTok huh.
 
 **Speaker 2:** Okay.
 
@@ -137,11 +137,11 @@ I think — if you look throughout my time as a minister until now, I've stopped
 
 Similarly, if we look at major actions — Dato' Seri Anwar cannot simply say, "just because I've taken action under my government, MACC, Tan Sri Azam Baki is very brave." But if someone mentions something related to parties within the current government, no action is taken. So that, or for example if there are new figures whose talk is, "if you want project A, project B, you need to meet so-and-so" — if that isn't addressed, in the end it will become rhetoric that I don't think will stick with the people. And I haven't even said "what's it called" yet in all this.
 
-**Speaker 2:** Congratulations WB, WB has none.
+**Speaker 2:** Congratulations YB, YB has none.
 
 **Speaker 1:** This challenge — "government to clean up corruption mess within 3 years." This will continue to be quoted and repeated many times.
 
-**Speaker 2:** Alright WB, let's move to the next one. We still have — I think it's also a corruption issue: Ops Grip, MSCC busts smuggling ring—
+**Speaker 2:** Alright YB, let's move to the next one. We still have — I think it's also a corruption issue: Ops Grip, MSCC busts smuggling ring—
 
 **Speaker 1:** Hmm.
 
@@ -279,7 +279,7 @@ We could get angry — PKR, or the coalition, could take that kind of stance, no
 
 **Speaker 2:** Biobie, crystal clear. Let's move to the next segment, world affairs — this time it's largely related to the conflict in Gaza and Israel. Maybe let's start with the first one, Trump's Gaza plan — maybe let me ask directly, is it acceptable to bring good cars? [translator's note: sentence unclear in source]
 
-**Speaker 1:** That's a question that I think, if you ask anyone except Donald Trump and Benjamin Netanyahu and a few others, the majority of the world's population cannot accept it. Okay, baby.
+**Speaker 1:** That's a question that I think, if you ask anyone except Donald Trump and Benjamin Netanyahu and a few others, the majority of the world's population cannot accept it. Okay, YB.
 
 There are two or three reasons, right. If we follow the negotiation developments more closely, the first stage happened between the Trump administration and leaders and representatives of some Islamic countries — that's where, I remember, Qatar, Saudi Arabia were included, I think Turkey was there too, Egypt was there too — and from that, there were a few points of potential agreement. But the next stage of negotiations was between the Trump administration and the Israeli government, with Benjamin Netanyahu, separately. And according to reports around the world, this bilateral engagement with Israel included — in part — Israel having veto power over any decision, including, for example, on withdrawal from Gaza, which would have to be based on Israel's goal of completely eliminating Hamas. So if that's the case, until doomsday, if Israel says Hamas is still there, nothing will change.
 
@@ -321,7 +321,7 @@ So as a former minister, we can't just make comments as we please because we're 
 
 **Speaker 2:** Okay.
 
-**Rafizi:** Baby.
+**Rafizi:** YB.
 
 **Speaker 2:** Ask—
 
@@ -407,11 +407,11 @@ So if you look at civil aviation companies, airplanes, that's why there's only A
 
 **Rafizi:** Can't give him free promo. Well, that's each person's choice. It's just that I'm honestly not convinced that our effectiveness as a politician can be judged one hundred percent by like and view counts. Especially if those likes and views are through — that's a totally different consideration. I always remember the view or how people judge us — if we're a car salesman, then we need to focus on things that give value about the car to our customer. If I'm a house salesman, I must be knowledgeable and my subject matter is houses. So as a politician, whether it's liked or not, whether it goes viral or not — that's actually sometimes it goes viral, sometimes it doesn't — like I mentioned earlier, that likes will merely determine — going up or down, whatever it's called — raising or lowering a politician's prospects. What matters is, I see this matter of communication content as part of our job. We have a cause, we have views and we have changes we want to see in society, through forums. There are times we need to make short content, some of it through podcasts. Even though there are a lot of questions, that's fine.
 
-**Speaker 2:** We pick and choose. Pick and choose. Okay Afiq, how should we do it, that's the decision. Alright YB. That's it then. Yes. Ta-da. That's about it I think. Why did you make that face, ck, I don't agree Abie — that. We'll change the picture next week. Pay cut.
+**Speaker 2:** We pick and choose. Pick and choose. Okay Afiq, how should we do it, that's the decision. Alright YB. That's it then. Yes. Ta-da. That's about it I think. Why did you make that face, ck, I don't agree YB — that. We'll change the picture next week. Pay cut.
 
 **Rafizi:** This is my face after Anwar Ibrahim was right in front of me, you know. At ASEAN, like that, ASEAN. Okay.
 
-**Speaker 2:** Okay Abie, that's it. To the other friends, before leaving this podcast — first, like, comment and share. Shouldn't that have been said at the start? True, that's something we need to improve too. As for the riddle, how many times was [that word] said over the 2 hours 5 minutes.
+**Speaker 2:** Okay YB, that's it. To the other friends, before leaving this podcast — first, like, comment and share. Shouldn't that have been said at the start? True, that's something we need to improve too. As for the riddle, how many times was [that word] said over the 2 hours 5 minutes.
 
 **Rafizi:** Performance wasn't great earlier, towards the end it slipped quite a bit.
 

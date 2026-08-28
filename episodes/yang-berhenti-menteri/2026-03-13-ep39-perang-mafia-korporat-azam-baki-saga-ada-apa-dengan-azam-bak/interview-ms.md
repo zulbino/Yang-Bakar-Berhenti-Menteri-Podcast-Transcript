@@ -147,11 +147,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Saya tak rasa pandangan itu representatif kepada pandangan rakyat. Dan saya tak rasa penilaian semula terhadap pencapaian Datuk Seri Najib itu akan memberi banyak kesan kepada prospek BN. Cuma dari semasa ke semasa, oleh kerana politik ini dinamik — kalau contohnya pengundi-pengundi mula membuat perbandingan dengan Datuk Seri Najib dulu, mungkin Najib lebih baik ataupun mungkin Pak Lah lebih baik, sebenarnya ia adalah satu dakwaan terhadap kerajaan sekarang. Ia sebenarnya adalah timbal balik apabila orang mula merasakan bahawa mungkin dulu lebih baik. Ia tidak semestinya bermakna itu akan bertukar menjadi keputusan undi nanti, tetapi ia sebagai satu luahan akibat daripada rasa kurang senang dengan prestasi kerajaan yang ada sekarang, dan saya rasa itu akan berlaku dari semasa ke semasa — mana-mana kerajaan pun kalau tidak berhati-hati akan ada sentimen perbandingan itu. Tetapi setakat ini, saya tidak rasa ia mudah untuk membuat comeback. Kerana saya rasa untuk bergerak ke hadapan, dan itu yang kita perlukan sebagai sebuah negara dan masyarakat — kita perlu belajar untuk terus bergerak ke hadapan. Kalau kita tidak boleh kembali kepada perkara-perkara lama, pimpinan lama, kita perlu terus maju.
 
-Okay, habis panjang lebar pun, orang komen dia beria-ia pasal 1MDB saja. Beria, baby, beria kan. Kedua terakhir — anugerah samseng bulan ini. Dia terus melayang, apa yang dia tak perhatikan dengan kereta, dia ada banyak teori kalau baca komen. Antaranya double park. Kemudian apa lagi? Oh, itu double park, apa tu, terus—
+Okay, habis panjang lebar pun, orang komen dia beria-ia pasal 1MDB saja. Beria, YB, beria kan. Kedua terakhir — anugerah samseng bulan ini. Dia terus melayang, apa yang dia tak perhatikan dengan kereta, dia ada banyak teori kalau baca komen. Antaranya double park. Kemudian apa lagi? Oh, itu double park, apa tu, terus—
 
 **Haziq:** Double park. Ada yang kata dia menghalang jalan macam itu. Mungkin dia cakap semua orang [park] kereta
 
-**Rafizi:** macam itu. Hahaha. Jadi sebenarnya, kalau yang buat hal itu keretanya memang nampak betul-betul letak tengah jalan, kau memang boleh geram — tapi bukan dengan cara itu, baby. Tapi dengan cara yang bagaimana? Ketuk, "maaf, anda melakukan kesilapan, jangan ulang lagi."
+**Rafizi:** macam itu. Hahaha. Jadi sebenarnya, kalau yang buat hal itu keretanya memang nampak betul-betul letak tengah jalan, kau memang boleh geram — tapi bukan dengan cara itu, YB. Tapi dengan cara yang bagaimana? Ketuk, "maaf, anda melakukan kesilapan, jangan ulang lagi."
 
 **Haziq:** Di Russia ada satu kumpulan ini. Okay, sebab ini saya tengok benda ini, saya cari macam mana isu road rage orang lain. Jadi di Russia ada satu kumpulan ini, bila salah parking ataupun double park ataupun menghalang, mereka tampal stiker yang memang tak boleh dikoyak. Terus—
 
@@ -185,7 +185,7 @@ Apa pun, jadi orang tanya, kenapa Dato' Seri Anwar ini kebelakangan ini cepat sa
 
 Yang ini pun juga beria-ia Dato' Seri Anwar nak mengelak soal ancaman itu, ancaman ini. Dan saya buka laporan The Sun itu, ia memang sangat ringkas, lima perenggan. Dia cuma kata sebabnya ini adalah pendedahan daripada IGP, itu sahaja. Dia seakan-akan menyelitkannya dalam ucapan dia. Konteks semua itu, kita tak tahu apa. Tapi Dato' Seri Anwar tak boleh marah kalau rakyat akan melihat ini sebagai beria-ia bercerita pasal ancaman demi ancaman dalam keadaan rakyat macam eh, kita macam tak faham ancaman anak muda yang mana, macam mana pula ini. Satu-satunya ancaman anak muda yang ada di kawasan saya, rempit — kan dia naik motosikal selalu nak berlanggar saja. Yang lain itu tak faham.
 
-Okay, kita habiskan segmen ini — YB, 36 minit. Tak apalah, kita bergerak ke hadapan lepas segmen ini. YB nak menilai? Tak tahu. So, Iqbal, kena menilai minggu ini? Bagi Iqbal saja, baby. Ini macam beria-ia — oh, yang ini? Oh, yang ini terus menang, terus menang, okay? Okay, baik, kita teruskan. So, PM menang, tahniah. Minggu lepas siapa yang menang?
+Okay, kita habiskan segmen ini — YB, 36 minit. Tak apalah, kita bergerak ke hadapan lepas segmen ini. YB nak menilai? Tak tahu. So, Iqbal, kena menilai minggu ini? Bagi Iqbal saja, YB. Ini macam beria-ia — oh, yang ini? Oh, yang ini terus menang, terus menang, okay? Okay, baik, kita teruskan. So, PM menang, tahniah. Minggu lepas siapa yang menang?
 
 **Haziq:** Minggu lepas Dr. Sam.
 

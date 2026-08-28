@@ -71,7 +71,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Ha, spoke just once and immediately got sick. So usually people don't understand, campaigning in this election season actually requires very, very high stamina, because the first risk is that — losing your voice. And losing your voice happens because you'll get sick right after, because you hardly sleep actually, only 2-3 hours a day. So if it drags on for a month, you basically have to put up with not sleeping for a month, 7 days a week. Then you can't even eat properly. And the voice is one thing — in my case, I'm standing for easily 7, 8, 9 hours a day non-stop. You lose a lot of calories. When we don't rest, our body isn't taken care of, because actually sleep calories are important — sleep. So if your sleep is disrupted... but I think people are already annoyed and fed up with us, people listen to this podcast not to hear stories about losing sleep or losing your voice. So let's go straight on.
 
-**Haziq:** Okay, alright. That's because we're heading into the election, baby. But we'll touch on that later in the show as well. Let's look at the news first though, let's start with — there's a bit of a moral message here.
+**Haziq:** Okay, alright. That's because we're heading into the election, YB. But we'll touch on that later in the show as well. Let's look at the news first though, let's start with — there's a bit of a moral message here.
 
 **Rafizi:** "Man thought to be missing, turns out he was sleeping next to the washing machine..."
 
@@ -271,9 +271,9 @@ So it's not just the government, we needed banks, because the banks bring in inv
 
 **Speaker 3:** No, it wasn't just swapping jerseys — he swapped jerseys, wore it, watched the final, cheered for that team too. Then afterwards said, "actually, I'm a Liverpool fan." A final-day nation, apparently. A final-day nation. There really are people like that, a final-day nation.
 
-**Rafizi:** So... ah, well, never mind. Maybe that's his special quality. Because someone who's normally beyond our comprehension for doing something like this — that's what makes Zafrul special. That's why every time there's a change of government, he's always right there. So, well, it's up to the wider public to see — but especially the young ones — you don't need to be like this, staying loyal is important too. What's funny is, within PKR, someone like me gets cursed at every single day for being "disloyal," but at the same time, a figure like Tengku Zafrul shows that disloyalty is exactly what's being sought within PKR. That's why Zali joked, "after this, if PAS becomes the government, he'll have to join PAS too." Interesting, interesting. Okay baby, no need to even ask — the winner of Bold of the Week is me.
+**Rafizi:** So... ah, well, never mind. Maybe that's his special quality. Because someone who's normally beyond our comprehension for doing something like this — that's what makes Zafrul special. That's why every time there's a change of government, he's always right there. So, well, it's up to the wider public to see — but especially the young ones — you don't need to be like this, staying loyal is important too. What's funny is, within PKR, someone like me gets cursed at every single day for being "disloyal," but at the same time, a figure like Tengku Zafrul shows that disloyalty is exactly what's being sought within PKR. That's why Zali joked, "after this, if PAS becomes the government, he'll have to join PAS too." Interesting, interesting. Okay YB, no need to even ask — the winner of Bold of the Week is me.
 
-**Speaker 2:** There's one more, baby.
+**Speaker 2:** There's one more, YB.
 
 **Rafizi:** Oh, there's more? YB or Zafrul? No, no, no — I win, I'm self-claiming it now. Other people are scrambling to claim credit for JSSEZ, I'm claiming credit for boldness.
 

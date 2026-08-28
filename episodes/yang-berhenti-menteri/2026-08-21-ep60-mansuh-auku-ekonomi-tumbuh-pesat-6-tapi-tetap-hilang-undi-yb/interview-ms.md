@@ -140,7 +140,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Sum Dek Jo:** Saya rasa...
 
-**Rafizi:** Baru empat minit, baby. Aku guru yang garang.
+**Rafizi:** Baru empat minit, YB. Aku guru yang garang.
 
 **Sum Dek Jo:** Memanglah. Tapi kembali kepada topik — saya rasa balik negara untuk berkhidmat, untuk menyumbang kepada perjuangan bersama, ini merupakan satu... panggilan. Dalam bahasa Melayu, "calling" tu apa? Panggilan. Panggilan. Ia sesuatu yang saya fikir merupakan panggilan yang perlu disahut. Sebab kat ASEAN Plus 3, pejabat dia berpangkalan di Singapura, jadi Singapura tu dekat je sebenarnya. Jadi saya ulang-alik lah JB dengan Singapura — walaupun saya duduk kat Singapura, saya pun ulang-alik cukup kerap. Jadi bagi saya, ia tidak sejauh berbanding dengan Papua New Guinea. Tapi saya rasa Malaysia layak mendapat yang jauh lebih baik. Apa yang kita ada sekarang langsung tak ada, atau sangat-sangat terhad, dalam perbincangan mengenai dasar, reformasi, apakah cara penyelesaian mengenai masalah-masalah jangka panjang. Itu langsung tidak dibentangkan atau dibangkitkan di mana-mana parti politik yang ada sekarang.
 
@@ -202,7 +202,7 @@ Jadi saya telah menerima lama dahulu bahawa netizen yang jahat-jahat, yang suka 
 
 **Rafizi:** Saya ingat masa tu mungkin peguam dia bagi nasihat yang betul kot — jangan sambut, jangan saman, saman pergi habis terbuka semua kan. Itu jugalah nasihat dan ingatan kepada saya sendiri, sebab itu saya tak pernah saman orang. Saya hanya saman Caprice, kerana tuduhan yang dia buat itu terlalu berat — dia tuduh saya makan rasuah, projek berbilion-bilion. Dan ingat tak tadi saya kata, undang-undang fitnah ini dia tengok pertama sekali ialah ketepatan fakta — benda itu memang jelas tak betul, kerana itu adalah syarikat swasta, saya semua ni kan, dan dia berbentuk sindiran, yang maksudnya berniat jahat. Jadi yelah, benda tu dah mudah sangat untuk diikuti dari segi undang-undang — maksudnya ada banyak hujah yang kita boleh bawa. Dan Caprice kaya, jadi kalau saya saman, berbaloi — kalau menang boleh dapat duit. Tapi kalau orang HQ lagi, eh, tak adalah duit aku lah, apa dah bagi orang, jadi bangkit balik HQ, sekarang ni pun aku tengah pikul. Jadi maksudnya kita nak kata beria lah Dr. Ashraf Wajdi ni nak saman — nanti tengok lah, nanti susah pening kalau dia saman semua ni, dia kena pindah pejabat, ketua pengarah, marah tu, duduk dalam mahkamah tiap-tiap hari duduk di situ ada kes. Itu salah satu sebab kenapa saya tak nak saman orang — banyak kerja lain aku boleh buat. Jadi lebih mudah serahkan kepada Allah, selesaikanlah yang netizen-netizen yang mulut comel ni.
 
-**Haziq:** Baik, OBI, ini yang pertama. Yang kedua, mungkin saya nak tanya Joe. Yang beria kedua ni — selepas RCI Tabung Haji, agenda reformasi gaji pun kena peram. Ini merujuk kepada kenyataan bekas Timbalan Presiden parti itu, bercakap —
+**Haziq:** Baik, YB, ini yang pertama. Yang kedua, mungkin saya nak tanya Joe. Yang beria kedua ni — selepas RCI Tabung Haji, agenda reformasi gaji pun kena peram. Ini merujuk kepada kenyataan bekas Timbalan Presiden parti itu, bercakap —
 
 **Rafizi:** Bekas Timbalan Presiden — maklumat kena tepat, nanti disaman awak, haa.
 
@@ -244,7 +244,7 @@ Jadi saya telah menerima lama dahulu bahawa netizen yang jahat-jahat, yang suka 
 
 **Rafizi:** Ok, ok, baik baik.
 
-**Haziq:** Jadi beria baby, beria, beria. Ok, seterusnya, jangan lupa untuk berlangganan dan berlangganan. Setinggi-tinggi tahniah kepada diri saya sendiri.
+**Haziq:** Jadi beria YB, beria, beria. Ok, seterusnya, jangan lupa untuk berlangganan dan berlangganan. Setinggi-tinggi tahniah kepada diri saya sendiri.
 
 **Rafizi:** Tak, aku bergurau tu — ni Joe mungkin tak tahu lah, bagi konteks kepada Joe, Joe tak faham semua ni, tak berapa ikut.
 
@@ -334,7 +334,7 @@ Sebaliknya, kita nak ahli politik ni berkualiti, bermutu — sebaliknya, sebahag
 
 **Sum Dek Jo:** Penawaran — tapi penawaran itu seharusnya dibekalkan oleh kerajaan, bukan parti politik. Jadi kalau kita institusikan program bantuan sosial, maka seharusnya penawaran itu datang daripada pihak kerajaan, bukanlah parti politik.
 
-**Haziq:** Okey, kita beria komen benda ni. Dah lama aku tengok ni, Beria ni dah 40 minit. Kita ada dua lagi, baby. Selamat datang kepada tetamu kita yang tak pernah datang — terima kasih. Jayakumar tutup kes 2024 baru umum 2026. Ini bila saudara Anwar Ibrahim membuat "rumah bangsa" versi PKR lah — tapi YB tak kena jemput lah, kesian.
+**Haziq:** Okey, kita beria komen benda ni. Dah lama aku tengok ni, Beria ni dah 40 minit. Kita ada dua lagi, YB. Selamat datang kepada tetamu kita yang tak pernah datang — terima kasih. Jayakumar tutup kes 2024 baru umum 2026. Ini bila saudara Anwar Ibrahim membuat "rumah bangsa" versi PKR lah — tapi YB tak kena jemput lah, kesian.
 
 **Rafizi:** Yang kena jemput... aku bukan saja tak dijemput, aku ditendang daripada rumah. Haa.
 
@@ -354,7 +354,7 @@ Sebaliknya, kita nak ahli politik ni berkualiti, bermutu — sebaliknya, sebahag
 
 **Rafizi:** Jadi saya ingat minggu lepas kan, 19 Ogos, minggu ni lah minggu ni — maksudnya SPRM mengesahkan NFA lah. Tapi ia berlaku dalam tahun 2024 tau. Jadi ialah persepsi rakyat ialah, sudah tentulah Dr. Xavier Jayakumar ni memang dilepaskan di bawah pentadbiran Dato' Seri Anwar. Jadi masing-masing akan buat kesimpulan masing-masing. Jadi kalau macam itu, mungkin berjaya lah panggilan "rumah mangsa." Cuma orang-orang yang tak ada kes, macam aku, tak ada kes, tak ada insentif lah, tak ada insentif.
 
-**Haziq:** Okay baik baby. Kita ada satu lagi — Bersama, umum calon PRN Melaka.
+**Haziq:** Okay baik YB. Kita ada satu lagi — Bersama, umum calon PRN Melaka.
 
 **Rafizi:** Akhirnya kita masuk segmen Beria umum awal — jadi awak nak troll apa ni? Ini kita tengok macam mana Haziq nak troll diri sendiri, nak troll kita kan.
 

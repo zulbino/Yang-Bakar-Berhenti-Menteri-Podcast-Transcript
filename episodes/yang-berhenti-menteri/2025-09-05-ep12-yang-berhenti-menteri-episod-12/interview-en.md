@@ -66,7 +66,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Beria, ok, next.
 
-**Rafizi:** Does it need a soundtrack? That soundtrack thing, right? Okay. Ha, did you notice, Abie? Remember, remember, no, no. Ha, him. Hahaha, okay. No, beria, he's already been caught out, that's being caught red-handed. No need to spin it around. Now — well, not just now, from before — Facebook shows edit history, so he's already been caught. So it's very beria of him to try to spin it. Manipulated, Abie. Ha, "manipulated," showing that he edited it, his earlier comment. Went all beria, writing a long post. When actually it's quite straightforward. This is the kind of attitude found in certain segments of our society — in his mind, everything wrong in the world is China's fault. Yeah, if his beard turned white like mine, I think he'd blame China for that too. So he's being beria trying to cover up after getting caught. But I hope this becomes a lesson for everyone after this — don't do things like this anymore, because netizens nowadays are diligent. Netizens are also beria — they go check, double beria, double beria. Okay.
+**Rafizi:** Does it need a soundtrack? That soundtrack thing, right? Okay. Ha, did you notice, YB? Remember, remember, no, no. Ha, him. Hahaha, okay. No, beria, he's already been caught out, that's being caught red-handed. No need to spin it around. Now — well, not just now, from before — Facebook shows edit history, so he's already been caught. So it's very beria of him to try to spin it. Manipulated, YB. Ha, "manipulated," showing that he edited it, his earlier comment. Went all beria, writing a long post. When actually it's quite straightforward. This is the kind of attitude found in certain segments of our society — in his mind, everything wrong in the world is China's fault. Yeah, if his beard turned white like mine, I think he'd blame China for that too. So he's being beria trying to cover up after getting caught. But I hope this becomes a lesson for everyone after this — don't do things like this anymore, because netizens nowadays are diligent. Netizens are also beria — they go check, double beria, double beria. Okay.
 
 **Haziq:** Any more? There's more. Okay, last one, huh? Kod. Any thoughts, man?
 
@@ -78,7 +78,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** I don't remember.
 
-**Rafizi:** But apparently he's an influencer. This is for making content, making content. But there you go, he got caught presumably because it's dangerous or he didn't have a license. But it's worth it, baby.
+**Rafizi:** But apparently he's an influencer. This is for making content, making content. But there you go, he got caught presumably because it's dangerous or he didn't have a license. But it's worth it, YB.
 
 **Haziq:** It gets attention. Nowadays it's not easy to get that.
 
@@ -226,15 +226,15 @@ But just looking at the records — if you look at the record of prime ministers
 
 **Rafizi:** I don't know, we have to wait and see, read up, we have to keep predicting. Predicting and predicting. But Azmin's prediction, from the opposition's perspective, that's a normal thing. He actually wants to psych up — what's this called — his machinery, especially since Bersatu now has problems, infighting, poison-pen letters and so on. So to divert attention from internal turmoil, beat the election drum. Right. Hold on—
 
-**Haziq:** Okay baby, another one.
+**Haziq:** Okay YB, another one.
 
 **Rafizi:** Ha, have you all seen it? What's that — a Hollywood movie, it's called Wag the Dog. Ha, never seen it? Ha, go check it out, Wag the Dog. I'll share it later, I want to watch it. Because it shows how politicians divert attention. This is a story about the US, the US President, he had a scandal, turmoil. So how does he divert attention? He goes and starts a war in another country, so everyone focuses on the war, and once that's over, people's attention shifts away from the internal problem to the new war. It's hard to start a war though, so the most common thing is to beat the election drum.
 
-**Haziq:** Interesting, interesting. Okay baby, one more that I think is really tough. Is there more?
+**Haziq:** Interesting, interesting. Okay YB, one more that I think is really tough. Is there more?
 
 **Rafizi:** Life is tough, this?
 
-**Haziq:** I think this is the last question, but this one's really tough, baby. Related to our friends across the water, Indonesia, who are rioting. Yeah, I think everyone already knows what happened. It's just that many say this didn't happen suddenly. From YB's observation, following this diagnosis, what were the symptoms that had actually already appeared earlier, but maybe we didn't notice, before it became this time bomb that exploded?
+**Haziq:** I think this is the last question, but this one's really tough, YB. Related to our friends across the water, Indonesia, who are rioting. Yeah, I think everyone already knows what happened. It's just that many say this didn't happen suddenly. From YB's observation, following this diagnosis, what were the symptoms that had actually already appeared earlier, but maybe we didn't notice, before it became this time bomb that exploded?
 
 **Rafizi:** I'm not an Indonesia expert. So I haven't followed it closely, closely enough to say whether there were symptoms and so on — I haven't. And if there are Malaysians, commentators who give long comments too, actually we're not there, we're not part of the citizenry, so we don't really understand the actual situation there either. And if you look at Indonesia's economic growth and performance over the past 20 years, Indonesia's growth has actually been better than Malaysia's. So from the perspective of someone far away, seeing Indonesia getting better and better, rising like this over 20 years compared to Malaysia rising like this, hahaha, right. So I think for people looking from afar — yeah, I really didn't see the symptoms if we're calling it a time bomb and so on.
 

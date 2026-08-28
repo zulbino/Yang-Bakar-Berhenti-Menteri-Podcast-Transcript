@@ -149,11 +149,11 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Saya tak rasalah pandangan itu representatif kepada pandangan rakyat. Dan saya tak rasa revision of pencapaian Datuk Seri Najib itu akan ada banyak kesan kepada prospek BN. Cuma dari semasa ke semasa, oleh kerana politik ni dynamic kan — kalau contohnya pengundi-pengundi mula membuat perbandingan dengan Datuk Seri Najib dulu, mungkin Najib lebih baik ke ataupun mungkin Pak Lah lebih baik ke, sebenarnya it is an indictment against the present government. Dia sebenarnya adalah timbal balik orang mula merasakan bahawa mungkinlah dulu lebih baik. It doesn't necessarily mean itu akan translate kepada keputusan undi nanti, tetapi dia sebagai satu luahan akibat daripada rasa kurang senang dengan prestasi kerajaan yang ada sekarang, and that is I think will happen from time to time — mana-mana kerajaan pun kalau tidak berhati-hati akan ada sentimen perbandingan itulah. But setakat ini, I don't think it's easy to make a comeback lah. For I think moving forward, dan itu yang kita perlukan sebagai sebuah negara dan masyarakat — we need to be able to learn to move on. Kalau kita tak boleh kembali kepada perkara-perkara lama, pimpinan lama, we need to move on lah kan.
 
-Okay, habis panjang lebar pun, orang komen dia beria pasal 1MDB je. Beria, baby, beria lah kan. Second last — anugerah samseng bulan ni. Dia kepak terus lah, apa yang dia tak perhati dengan kereta, dia ada banyak teori lah bila baca komen. Antaranya double park. Kemudian ada apa lagi? Oh, itu double park lah, apa tu, terus kat aku—
+Okay, habis panjang lebar pun, orang komen dia beria pasal 1MDB je. Beria, YB, beria lah kan. Second last — anugerah samseng bulan ni. Dia kepak terus lah, apa yang dia tak perhati dengan kereta, dia ada banyak teori lah bila baca komen. Antaranya double park. Kemudian ada apa lagi? Oh, itu double park lah, apa tu, terus kat aku—
 
 **Haziq:** Double park. Ada yang dia kata dia halang jalan macam itulah. Mungkin dia cakap semua orang [park] kereta
 
-**Rafizi:** macam tu. Hahaha. Jadi sebenarnya, kalau yang buat hal tu kereta memang nampak betul-betul dia pakai letak tengah jalan, yang kau suka dia lah — tapi bukan dengan cara tu lah kot, baby. Tapi dengan cara yang macam mana? Ketuk, "maaf, anda melakukan kesilapan, jangan ulang lagi."
+**Rafizi:** macam tu. Hahaha. Jadi sebenarnya, kalau yang buat hal tu kereta memang nampak betul-betul dia pakai letak tengah jalan, yang kau suka dia lah — tapi bukan dengan cara tu lah kot, YB. Tapi dengan cara yang macam mana? Ketuk, "maaf, anda melakukan kesilapan, jangan ulang lagi."
 
 **Haziq:** Dekat Russia diorang ada satu grup ni. Okay, ini sebab saya tengok benda ni, saya cari lah macam mana orang road rage punya isu kan. So dekat Russia ada satu grup ni, bila salah parking ataupun double park ataupun block, diorang tampal stiker yang memang tak boleh koyak. Terus dekat—
 
@@ -187,7 +187,7 @@ Anyway, so orang tanya lah, kenapa Dato' Seri Anwar ni kebelakangan ni cepat san
 
 Yang ini pun juga beria-ia kan Dato' Seri Anwar nak deflect soal ancaman itu, ancaman ini. Dan saya buka The Sun punya tu, dia memang a very five-paragraph short. Dia cuma kata sebabnya ini adalah pendedahan daripada IGP, itu sahaja. Dia macam selit lah dalam ucapan dia. Konteks semua tu, kita tak tahu apa. Tapi Dato' Seri Anwar tak boleh nak marahkan kalau rakyat akan melihat ini sebagai beria-ia bercerita pasal ancaman demi ancaman dalam keadaan yang rakyat macam eh, kita macam tak faham ancaman anak muda yang mana, macam mana pula ni kan. Satu-satunya ancaman anak muda yang ada dekat kawasan aku ni, rempit — kan dia naik motor selalu nak berlanggar je kan. Yang lain tu tak faham lah kan.
 
-Okay, kita habiskan segmen ni — YB, 36 minit. Tak apalah, kita move on lah lepas segmen ni. YB nak rate ke? Tak tahu. So, Iqbal, kena rate ke minggu ni? Bagi Iqbal lah kot, baby. Ni macam beria — oh, yang ni? Oh, yang ni terus menang, terus menang, okey? Okey, baik, kita move on. So, PM menang, tahniah. Last week siapa yang menang?
+Okay, kita habiskan segmen ni — YB, 36 minit. Tak apalah, kita move on lah lepas segmen ni. YB nak rate ke? Tak tahu. So, Iqbal, kena rate ke minggu ni? Bagi Iqbal lah kot, YB. Ni macam beria — oh, yang ni? Oh, yang ni terus menang, terus menang, okey? Okey, baik, kita move on. So, PM menang, tahniah. Last week siapa yang menang?
 
 **Haziq:** Last week Dr. Sam.
 
@@ -521,7 +521,7 @@ Yang itu, saya rasa, kalau kita perlu turun berdemonstrasi, we should. Dan saya 
 
 **Iqbal:** Ya.
 
-**Rafizi:** Kita tarikh demo je lah, baby. Tarikh demo, jangan lah aku nak beraya.
+**Rafizi:** Kita tarikh demo je lah, YB. Tarikh demo, jangan lah aku nak beraya.
 
 **Iqbal:** Oh, nak beraya?
 
@@ -561,7 +561,7 @@ Dan kalau setakat netizen biasa, kalau dia hanya menilai secara mudah — "oh ya
 
 Ambil PH mula-mula kan. PH pada kerangka asal, iaitu tiga parti pun dah bermasalah kerana hilangnya sokongan, terutamanya daripada bukan Melayu, dan Melayu bandar — semua ni kalau tengok yang paling bising dekat social media tu, sebenarnya Melayu bandar yang menolak PH kan. Kalaupun Dato' Seri Anwar rasa dia boleh membawa PH masuk dengan BN — BN tak nak. Because BN akan kata, you lemah, buat apa I nak masuk you jadi Perdana Menteri? I'm better off I jadi Perdana Menteri, lagi pun you bukan boleh bawa undi pun, Melayu you dah tak ada, sekarang China pun DAP tak boleh carry, so why bother?
 
-Kemudian you pergi kepada UMNO — UMNO sekarang ni nak UMNO dia jadi pasak dan dia akan mewakili rumah bangsa. Masalahnya, you nak bagi PAS? PAS cakap "no way Jose, hasta la vista baby" kan, Terminator kan, pun tak boleh. And then PAS pula dia akan kata, you know, betul kita kena bersatu semua ni, tapi masalahnya dia dengan bersatu pun dah kucar-kacir. Hmm. Kemudian dia nak panggil UMNO pun, UMNO takkan setuju. Jadi setakat ini belum ada tanda-tanda bahawa ada satu kumpulan yang betul-betul have gotten their house in order.
+Kemudian you pergi kepada UMNO — UMNO sekarang ni nak UMNO dia jadi pasak dan dia akan mewakili rumah bangsa. Masalahnya, you nak bagi PAS? PAS cakap "no way Jose, hasta la vista YB" kan, Terminator kan, pun tak boleh. And then PAS pula dia akan kata, you know, betul kita kena bersatu semua ni, tapi masalahnya dia dengan bersatu pun dah kucar-kacir. Hmm. Kemudian dia nak panggil UMNO pun, UMNO takkan setuju. Jadi setakat ini belum ada tanda-tanda bahawa ada satu kumpulan yang betul-betul have gotten their house in order.
 
 Jadi bagi saya lah, pengundi yang memang tegak dengan parti masing-masing itu, dia akan ikut lah. Tapi dalam satu tahun akan datang, dalam enam bulan akan datang kan — maksudnya untuk pengundi atas pagar lah, dia akan terus bercelaru. Because dia terlalu banyak orang kata pertembungan tau, dia terlalu banyak kontras. Strategi itu daripada satu parti ke satu parti semua contrasting each other lah. Dan selepas hukuman Ustaz Hadi bahawa rumah UMNO itu tak selamat, banyak hantu, so I don't know whether UMNO akan boleh berterusan menjaja rumah bangsa ini lah. I mean, laugh him as you like lah, tapi bila Ustaz Hadi dah kata rumah tu ada hantu, it's as good as basically a poison dart, tau. Mati tu.
 

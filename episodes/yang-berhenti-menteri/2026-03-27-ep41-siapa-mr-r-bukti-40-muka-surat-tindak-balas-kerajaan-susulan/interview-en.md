@@ -140,7 +140,7 @@ So Fuziah Saleh is being so "beria" making a statement about wanting to sue. Did
 
 **Rafizi:** I don't know, maybe she's under pressure — let's think well of her, maybe she's under pressure. There are all sorts of assumptions now. In Malaysia it's clear that political parties cannot sue their critics, even for defamation, because when a defamatory statement is made, it usually refers to an individual or a leader within the political party — let that individual sue on their own.
 
-**Farhan (Pa'an):** Yes, "beria" baby, "beria" contender — don't be surprised, we have more "next"s. Our guest this week... but which one is it? "The underling backing the boss" or "the boss backing the underling"? Usually it's the underling who backs the boss, right — the underling usually backs the boss. But in this Madani era it's even more amazing, because it's the boss who's backing the underling instead.
+**Farhan (Pa'an):** Yes, "beria" YB, "beria" contender — don't be surprised, we have more "next"s. Our guest this week... but which one is it? "The underling backing the boss" or "the boss backing the underling"? Usually it's the underling who backs the boss, right — the underling usually backs the boss. But in this Madani era it's even more amazing, because it's the boss who's backing the underling instead.
 
 **Rafizi:** Let's see which underling this is.
 

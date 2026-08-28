@@ -93,7 +93,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Right, UMNO doesn't agree, correct? This is Hafiz Sabri who's already gone in outrageous before — he's gone in twice now with outrageous behavior, YB. This is ADUN Malin Joy, gone in twice too. There should be an award, right. If I were PAS, I'd be embarrassed, because previously one of the things PAS was most proud of was its ability to mobilize, its members' mobilization was supposedly excellent. I remember around 2013, 2014, PAS used to mock Bersih and also Pakatan at the time — I don't think Pakatan Harapan even existed yet. Because when PAS came out, the line their people down below would use was "without PAS, no one would go to Bersih", because the ones supporting Bersih 1, 2, 3 were all PAS people. But we know Bersih 4, the biggest one, happened without PAS's participation at all, the whole of Kuala Lumpur was yellow at that time. So if that was supposed to be PAS's strength, then PAS Youth should be embarrassed to be going around courting UMNO to attend. First, because previously they always looked down on UMNO and other parties for not having the ability to mobilize. Second, it's clear UMNO isn't interested, because they were once engaged before — that engagement broke off during Muafakat Nasional, then they went and dated Bersatu, now there might be problems with Bersatu, and now they're inviting the ex-fiancé UMNO back. So if our neighbor were like this — engaged here, break up there, then invited back — people looking for a match would think twice about taking such a partner. So on top of that, when PAS Youth has already said no, it really is outrageous to try to ride on the URA issue to stoke racial sentiment. Very outrageous. Lucky they didn't have to apologize like the other day.
 
-**Haziq:** Okay good, YB says outrageous. Okay next, let's see what else there is. Alright, Abby.
+**Haziq:** Okay good, YB says outrageous. Okay next, let's see what else there is. Alright, YB.
 
 **Rafizi:** What do you think, YB? This is Azrael Muhammad, if I'm not mistaken, I've blocked him, that's why it's not showing.
 
@@ -105,7 +105,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Collective responsibility, and my minority view on this is publicly known. So it's really outrageous of this six-figure scoundrel to try to twist things around.
 
-**Haziq:** Alright, okay, let's see what else there is. Next, okay, we have rogue taxis — from RM60 to RM800, baby?
+**Haziq:** Alright, okay, let's see what else there is. Next, okay, we have rogue taxis — from RM60 to RM800, YB?
 
 **Rafizi:** This one picked up a tourist, then took them to a dark area, then threatened them to pay RM800. Right, should be jailed once the rogue driver is caught.
 
@@ -249,7 +249,7 @@ But PADU still exists, and it's used for other purposes within government, becau
 
 **Haziq:** There is, there is. This is a bit of a social issue, YB.
 
-**Rafizi:** Ha, this calls for a drink of water. Drink some water first, baby. Eh, this is all divisive. There are some who agree — I haven't heard many say they agree, though. But those who disagree have gotten quite harsh. Poor Kelantan Police Chief.
+**Rafizi:** Ha, this calls for a drink of water. Drink some water first, YB. Eh, this is all divisive. There are some who agree — I haven't heard many say they agree, though. But those who disagree have gotten quite harsh. Poor Kelantan Police Chief.
 
 **Haziq:** Yes. In a situation where we have "leakage in crime" — meaning there are people who commit crimes but... well, crime leakage. This is your clever thinking here — because we're looking at...
 
@@ -315,7 +315,7 @@ Okay, okay, so what's this called, the turmoil within Bersatu is unending. Becau
 
 So secondly, meaning the energy and focus of Bersatu will continue to be, what's this called, wasted on internal political maneuvering, at a time when there are actually many issues affecting the people. That statutory rape issue earlier — that's actually a real issue, you know. But there isn't a single MP or anyone brave enough to bring it up. Even me bringing it up, I'm bound to get heavily criticized, some genuinely criticizing me, because it's seen as having no political mileage. Thank you for watching Urusan dan Harian Rakyat, and I'm sure this is actually giving the police a headache, because they're the ones who have to deal with all of this. So when major parties like Bersatu get dragged into this, good luck to them.
 
-**Haziq:** Okay baby, clear, in one complete statement. Thank you. Oh! Bismillahirrahmanirrahim. Just one more thing, baby, I think before this MACC already issued a statement saying the video has no credibility, then the whistleblower refused to cooperate, so the video that exists has been edited. So the public is watching, wondering how long this will drag on and what the actual conclusion will be, and how we're actually handling this.
+**Haziq:** Okay YB, clear, in one complete statement. Thank you. Oh! Bismillahirrahmanirrahim. Just one more thing, YB, I think before this MACC already issued a statement saying the video has no credibility, then the whistleblower refused to cooperate, so the video that exists has been edited. So the public is watching, wondering how long this will drag on and what the actual conclusion will be, and how we're actually handling this.
 
 **Rafizi:** How should [we handle it]? On this Sabah scandal issue, the Sabah mining scandal, I'm actually just like everyone else. I don't have deep, insider information. Except that I've met a few people, checked a few things and so on. But I think my views and my reaction are the same as everyone else's.
 
@@ -361,7 +361,7 @@ So, I hope that going forward, society and politicians together — let's shift,
 
 **Rafizi:** I was watching the speech —
 
-**Haziq:** Full-on, his teleprompter broke down, then his escalator broke down too. He'd barely arrived and things kept going wrong. So, in conjunction with the UN's 80th anniversary, he criticized the UN. So people want to know, is this an effort to try to cut globalization, or, WB, is it to maintain US hegemony or dominance?
+**Haziq:** Full-on, his teleprompter broke down, then his escalator broke down too. He'd barely arrived and things kept going wrong. So, in conjunction with the UN's 80th anniversary, he criticized the UN. So people want to know, is this an effort to try to cut globalization, or, YB, is it to maintain US hegemony or dominance?
 
 **Rafizi:** You're asking me as if I'm Trump. How would I know? But if the issue relates to Trump and the UN, it ties back to two big things. One is the Trump administration's long-held view that the US bears the largest financial burden for the UN. That's true — every country needs to contribute, and of course the largest contribution comes from the US. And it's argued that the US doesn't get a fair reciprocal benefit relative to how much the UN and its agencies depend on US funding.
 

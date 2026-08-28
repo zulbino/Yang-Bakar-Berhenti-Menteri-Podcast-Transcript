@@ -109,7 +109,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Tapi yalah, saya rasa DAP pun akan kata, "apalah, prefect-prefect daripada PKR ni" — prefect kat Parlimen, dekat parti, kenapa dia pula yang bercakap bagi pihak DAP, sama macam kat Sabah dia bercakap bagi pihak GRS.
 
-**Farhan (Pa'an):** Okay baik, beria ya baby. Kita ke yang ketiga — backup sekarang, lepas tak jadi lepas jawatan.
+**Farhan (Pa'an):** Okay baik, beria ya YB. Kita ke yang ketiga — backup sekarang, lepas tak jadi lepas jawatan.
 
 **Speaker 3:** Dr. Akmal ni memang belum letak jawatan lagi kan? As far as I know, belum. Dia declare tapi tak diterima lah.
 
@@ -165,7 +165,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Hidup lapar, hidup dahaga.
 
-**Farhan (Pa'an):** Up for coffee? Tak ada, up for coffee, tak ada — dah dah dah. Okay, isu pertama lah baby: Rafizi dipecat, tanya soal apa nak jadi. Ini bila surat yang YB baru kongsi itu dikeluarkan — surat tunjuk sebab. Saya tak tahulah nak jadi berani atau tak nak tanya, atau nak jadi devil's advocate—
+**Farhan (Pa'an):** Up for coffee? Tak ada, up for coffee, tak ada — dah dah dah. Okay, isu pertama lah YB: Rafizi dipecat, tanya soal apa nak jadi. Ini bila surat yang YB baru kongsi itu dikeluarkan — surat tunjuk sebab. Saya tak tahulah nak jadi berani atau tak nak tanya, atau nak jadi devil's advocate—
 
 **Rafizi:** Boleh je kau jadi berani, kalau aku tak puas hati aku smash lah.
 

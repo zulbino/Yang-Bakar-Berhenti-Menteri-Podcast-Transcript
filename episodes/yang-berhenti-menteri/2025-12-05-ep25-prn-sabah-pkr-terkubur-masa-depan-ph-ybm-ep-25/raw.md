@@ -130,7 +130,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [23:17] Rafizi: ada kursi urut.
 
-[23:19] Faizal Rahman: Yang disebut tu adalah. Kursi urut ni apa dia? Masa pendedahan. Kalau WB duduk. Oh macam Ogawa semua tu lah. So kalau ada dokumen-dokumen dalam handphone tu. memang boleh di-extract lah.
+[23:19] Faizal Rahman: Yang disebut tu adalah. Kursi urut ni apa dia? Masa pendedahan. Kalau YB duduk. Oh macam Ogawa semua tu lah. So kalau ada dokumen-dokumen dalam handphone tu. memang boleh di-extract lah.
 
 [23:32] Rafizi: Jadi dari segi
 
@@ -198,7 +198,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [55:39] Razeef Rakimin: Ada jasa Dia kalau isu Azam Baki ni Di Sabah ni Yang orang nampak sekarang ni Iyalah Lepas beberapa pendakwaan Secara tiba-tiba Lepas tu semua pun tergantung Tidak ada yang Dijatuhi hukuman apa Jadi pandangan orang ni macam Yalah kita dulu desak dia untuk letak jawatan Sekarang bila kita jadi kerajaan ni Kita grab dia Kita grab orang jahat ni Kita jadikan dia senjata kita Jadi itu yang orang nampak sekarang So besar kepala dia kan
 
-[56:09] Rafizi: Okay WB 50 minit dekat sini Padahal nak cakap pasal Syamsul dengan Albert T Ya Tapi sebenarnya Memang betul isu Syamsul dengan Albert T ni Yang nampak sekarang ni the tip of the iceberg. Dan macam yang Razif kata kan, jangan ingat rakyat bodoh tau. Rakyat baca semua ni. Contohnya weaponizing SPRM ni. Yang ini yang orang daripada yang berpendidikan rakyat biasa kedai kopi, cara dia cakap tu lain lah bahasanya. Tapi kesimpulan itu
+[56:09] Rafizi: Okay YB 50 minit dekat sini Padahal nak cakap pasal Syamsul dengan Albert T Ya Tapi sebenarnya Memang betul isu Syamsul dengan Albert T ni Yang nampak sekarang ni the tip of the iceberg. Dan macam yang Razif kata kan, jangan ingat rakyat bodoh tau. Rakyat baca semua ni. Contohnya weaponizing SPRM ni. Yang ini yang orang daripada yang berpendidikan rakyat biasa kedai kopi, cara dia cakap tu lain lah bahasanya. Tapi kesimpulan itu
 
 [56:47] Faizal Rahman: sama. Tengok kalau YB buat komen apa kan, up status tentang ni, tengok komen-komen rakyat. Maknanya rakyat faham. Saya tidak faham apa yang awak cakap.
 
@@ -214,7 +214,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:02:28] Razeef Rakimin: Kau mahu saya pilih kau, kau bawa isu kami. Kalau kau tidak mampu, kami pilih lain. Kami boleh bergerak dalam satu blok, tidak ada masalah. Sebab itulah kita terkejut dengan keputusan yang DAP dapat. Kita tahu yang ini akan berlaku Dan kita sudah warning pimpinan sejak awal. Tapi kita tengok macam tidak ada perubahan, tidak ada tindakan. Mereka beritahu mereka akan buat. Tapi tidak ada apa-apa. Kita tengok tidak ada apa-apa pun yang isu kaum Cina yang mereka suarakan. Akhirnya mereka tengok tidak ada harapan lain selain daripada pilih warisan. So bukan tiba-tiba lah. Bukan tiba-tiba. Benda ini sudah lama. Lebih kurang setahun lebih. Malah waktu kempen hero pun saya rasa YB sudah bentang. Kita tengok peratusan sokongan turun-turun. dikongsikan balik lebih dikongsikan balik sebab bila kita tengok menurun ni kita bukan tengok daripada sokongan je kita mahu tahu apa isu dia isu ni sebenarnya kita boleh selesaikan tetapi pimpinan kita ni ada yang fokus isu lain ada juga yang ego dia confident bagi dia orang ialah bila kita cakap pasal pengundi Chinese ni mereka setia dengan Pakatan Harapan Tapi Chinese community ni Drone bukan jenis begitu Kalau boleh bawa Saya bagi kau undi Kalau tidak boleh bawa Selesailah kau Itu yang berlaku
 
-[1:03:44] Faizal Rahman: Tapi saya nak tanya boleh baby Saya nak tanya Bila baby up Gambar kita untuk ada ni Apa semua kan Soalan yang saya terima Dikatakan Dua panglima kembar Yang secocok kita ni Dikatakan pada masa Pemilihan Pengundian tu Tak ada di Sabah Betul tak? Dia kata macam sekarang ni kecoh PKR Kedah Tedahkan Saifuddin pada masa tu Sebenarnya berada di tempat lain bermain golf Dan Izzah pun tidak ada di Malaysia pada masa tu Saya dengar macam Izzah pergi
+[1:03:44] Faizal Rahman: Tapi saya nak tanya boleh YB Saya nak tanya Bila YB up Gambar kita untuk ada ni Apa semua kan Soalan yang saya terima Dikatakan Dua panglima kembar Yang secocok kita ni Dikatakan pada masa Pemilihan Pengundian tu Tak ada di Sabah Betul tak? Dia kata macam sekarang ni kecoh PKR Kedah Tedahkan Saifuddin pada masa tu Sebenarnya berada di tempat lain bermain golf Dan Izzah pun tidak ada di Malaysia pada masa tu Saya dengar macam Izzah pergi
 
 [1:04:16] Razeef Rakimin: Umrah
 
@@ -340,7 +340,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:46:13] Rafizi: Tapi adalah dua tiga perkara bila saya tengok dekat TikTok tu kan. Perkara-perkara yang baru muncul dalam PKR lah. Contohnya... PKR ni tak pernah ada hiburan dalam kempen kita. Sebab orang yang mengikuti PKR ni bukan jenis orang nak hiburan. Kalau dia nak hiburan, dia tak sokong PKR. Dia berjaya parti lain. Jadi saya tengok daripada jauh, saya kata ni dah agak jauh terpisung cara kita kempen ni kan. Viral kan? VTT tu.
 
-[1:46:44] Razeef Rakimin: Kalau Abie ingat pun waktu mesyuarat... MPP dulu, waktu kita mahu sambut 25 tahun keadilan pun, kita batalkan bab konsert, bab penghapus, kita batalkan. Sebab
+[1:46:44] Razeef Rakimin: Kalau YB ingat pun waktu mesyuarat... MPP dulu, waktu kita mahu sambut 25 tahun keadilan pun, kita batalkan bab konsert, bab penghapus, kita batalkan. Sebab
 
 [1:46:55] Rafizi: kita
 
@@ -376,7 +376,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:51:05] Faizal Rahman: Tapi dari satu sudut Maknanya Pengundi tu bijak
 
-[1:51:08] Rafizi: lah Tapi maksudnya Kalau pas letak Tapi ialah Sepanggar ni kursi campuran Jadi maksudnya Efek doktor Apa ni doktor Dia tak boleh lebih Daripada karambunai lah Dia maksudnya kalau dia nak bawa ke Sepanggar parlimen tu Tidak semudah itulah sebab dalam Sepanggar tu Kalau macam Inanam Dia banyak juga KDM Dia tak mudah lah Baik Oibi, berkaitan dengan isu yang berkaitan dengan PRU ni, berkaitan dengan 10 orang yang terpalit dengan rakaman video 8 orang jadi adun. Kalau saya boleh tanya mungkin Saudara Razif lah, sejauh mana kes-kes adun terpalit rasuah ni sebenarnya bagi kesan kepada pengundi-pengundi dekat kawasan masing-masing yang mereka menang?
+[1:51:08] Rafizi: lah Tapi maksudnya Kalau pas letak Tapi ialah Sepanggar ni kursi campuran Jadi maksudnya Efek doktor Apa ni doktor Dia tak boleh lebih Daripada karambunai lah Dia maksudnya kalau dia nak bawa ke Sepanggar parlimen tu Tidak semudah itulah sebab dalam Sepanggar tu Kalau macam Inanam Dia banyak juga KDM Dia tak mudah lah Baik YB, berkaitan dengan isu yang berkaitan dengan PRU ni, berkaitan dengan 10 orang yang terpalit dengan rakaman video 8 orang jadi adun. Kalau saya boleh tanya mungkin Saudara Razif lah, sejauh mana kes-kes adun terpalit rasuah ni sebenarnya bagi kesan kepada pengundi-pengundi dekat kawasan masing-masing yang mereka menang?
 
 [1:52:00] Razeef Rakimin: Kalau kira peratusan ni sebenarnya kesan video-video tu mungkin dalam 5% je. Dia isu rasuah ni tidak ada kesan. Dan kursi dia orang kebanyakan kursi interior kan? Dia orang banyak
 

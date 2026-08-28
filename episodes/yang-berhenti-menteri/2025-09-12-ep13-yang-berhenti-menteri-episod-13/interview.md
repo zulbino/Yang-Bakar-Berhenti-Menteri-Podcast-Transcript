@@ -70,7 +70,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** TikTok pun tak boleh?
 
-**Haziq:** TikTok lah. Oh, TikTok tak boleh. Jadi YB macam mana, dia tak boleh jadi politik. Okay, tak apa. Patut aku berhenti menteri, nanti kita check. Okay, sebelum kita ke segmen Beria, baby, kita ada segmen tambahan untuk minggu ni je lah, sebab minggu lepas YB ada janji nak tunjuk kepada kawan-kawan kita di luar sana iaitu slip gaji.
+**Haziq:** TikTok lah. Oh, TikTok tak boleh. Jadi YB macam mana, dia tak boleh jadi politik. Okay, tak apa. Patut aku berhenti menteri, nanti kita check. Okay, sebelum kita ke segmen Beria, YB, kita ada segmen tambahan untuk minggu ni je lah, sebab minggu lepas YB ada janji nak tunjuk kepada kawan-kawan kita di luar sana iaitu slip gaji.
 
 **Rafizi:** Haa, dikira hutang minggu lepas lah. Aku ada tengok dekat Twitter, semua orang duk ingatkan jangan lupa slip gaji. Aku dah nak terlupa tadi.
 
@@ -94,7 +94,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Ya, ok baik.
 
-**Rafizi:** Baiklah, itu slip gaji ahli parlimen. Gaji pokok ahli parlimen sebenarnya RM16,000. Oleh kerana sebagai anggota pentadbiran, menteri, allowance tu dapat allowance menteri je lah, dia tak dapat allowance ahli parlimen semua. Jadi RM16,000 ditolak — yang Angkasa tu sebenarnya, Angkasa tu macam mana? Potongan kepada parti. But what through Angkasa, baby? Sebab memang Angkasa ada arrangement dengan kerajaan, kalau potongan pinjaman ke korporasi ke — jadi saya ingat PKR memang ada konsep yang serupa dengan Angkasa. Angkasa tolak, so dia tolak RM8,000, aku dapat RM7,600. Jadi dia potong lagi panjang — sumbangan kepada parti tu RM8,000, semua dapat RM7,600. Jadi campur dua — tadi RM29,000 campur RM7,000, dapatlah dalam RM35,000, RM36,000 sebulan.
+**Rafizi:** Baiklah, itu slip gaji ahli parlimen. Gaji pokok ahli parlimen sebenarnya RM16,000. Oleh kerana sebagai anggota pentadbiran, menteri, allowance tu dapat allowance menteri je lah, dia tak dapat allowance ahli parlimen semua. Jadi RM16,000 ditolak — yang Angkasa tu sebenarnya, Angkasa tu macam mana? Potongan kepada parti. But what through Angkasa, YB? Sebab memang Angkasa ada arrangement dengan kerajaan, kalau potongan pinjaman ke korporasi ke — jadi saya ingat PKR memang ada konsep yang serupa dengan Angkasa. Angkasa tolak, so dia tolak RM8,000, aku dapat RM7,600. Jadi dia potong lagi panjang — sumbangan kepada parti tu RM8,000, semua dapat RM7,600. Jadi campur dua — tadi RM29,000 campur RM7,000, dapatlah dalam RM35,000, RM36,000 sebulan.
 
 **Haziq:** Baik, baik, baik. Jadi di luar tu digembar-gemburkan gaji menteri-menteri ni kena dapat RM60,000, ada sampai RM100,000, tapi lebih cabut je ni.
 
@@ -140,13 +140,13 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Kena kat dia. So you can say the same lah.
 
-**Haziq:** Aduh, weh. Kita jemput balik, baby...
+**Haziq:** Aduh, weh. Kita jemput balik, YB...
 
 **Rafizi:** Siapa? Tak payah buang masa lah, mamat ni buang masa. Aku tak rasa dia ada nilai untuk korang layan dia ni.
 
 **Haziq:** Baik, kita takkan layan lagi.
 
-**Rafizi:** Ok, next time, baby.
+**Rafizi:** Ok, next time, YB.
 
 **Haziq:** Ok, last one.
 
@@ -180,7 +180,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Ya, baik.
 
-**Haziq:** WB, kita teruskan. Jadi segmen seterusnya adalah sama juga, Hidup Keras. Jadi mungkin banyak sikit lah, sebab banyak benda keras yang berlaku pada minggu ni, YB. Okay, jadi yang pertama sudah pastilah, macam saya cakap tadi tu, tentang Bersatu — Bersatu-bersatu. Bila tiba-tiba kita dikejutkan 120 ketua bahagian Bersatu, kesemuanya berundur. Adakah ini persediaan pilihan raya mereka, seperti yang Azmin cakap tu, YB?
+**Haziq:** YB, kita teruskan. Jadi segmen seterusnya adalah sama juga, Hidup Keras. Jadi mungkin banyak sikit lah, sebab banyak benda keras yang berlaku pada minggu ni, YB. Okay, jadi yang pertama sudah pastilah, macam saya cakap tadi tu, tentang Bersatu — Bersatu-bersatu. Bila tiba-tiba kita dikejutkan 120 ketua bahagian Bersatu, kesemuanya berundur. Adakah ini persediaan pilihan raya mereka, seperti yang Azmin cakap tu, YB?
 
 **Rafizi:** Haa... ini parti orang kan... Blah. Sebenarnya kalau aku masih lagi timbalan presiden PKR, aku tak komen lah, sebab parti. Tapi sekarang kita free agent, haa, boleh komen apa-apa kan. Okay. Yelah, dia sebenarnya — kalau tengok 120 ketua bahagian tu, Bersatu sebenarnya ada 202 kan? 120 ni lebih daripada separuh. Jadi saya faham lah yang buat SD — sebut satu terus bersin aku ini apa — maksudnya kalau lebih daripada separuh yang telah tandatangan dan gesa berundur tu, saya fahamlah niat mereka. Akuan bersumpah itu maksudnya tidak lagi mendapat kepercayaan daripada 120 dan lebih ketua bahagian. Jadi maksudnya pergolakan itu besar, dan bila dah sampai melimpah kepada perhimpunan begini kan — jadi sama ada Tan Sri Muhyiddin turun ataupun tidak, itu sebenarnya kita tak boleh ramal lah, itu hal diorang lah. Tapi dia akan menambahkan lagi mual rakyat kepada parti-parti politik lah. Sebelum ni PKR bergolak kan, PKR bergolak tu ada kesan kepada PH contohnya. Jadi bila Bersatu pula jadi macam ni, dia ada kesan kepada PN. Jadi saya ingat, walau kepada parti masing-masing tu jadilah apapun, dia akan komen yang baik. Tetapi pilihan raya ni tidak pernah ditentukan oleh geng-geng walau atas pagar. Dan undi atas pagar, saya ingat, hanya mahukan pimpinan dan juga parti politik menumpukan kepada kerja kan. Jadi tambah pula di dalam PN kan, kerana saya percaya sebahagian rakyat Malaysia ini tahu bahawa kemampuan mentadbir PAS itu adalah terhad. Jadi kalaupun mereka mengundi PN, mereka berharap supaya kemahiran mentadbir dari segi dasar, dari segi anjakan itu, mereka hanya boleh letakkan harapan kepada Bersatu. Tapi macam ada saya baca laporan oleh seorang bekas exco Armada Bersatu — kerana tiga perhimpunan agung tahunan berturut-turut semuanya berlegar mengenai sentimen mengangkat dan menjulang Tan Sri Muhyiddin. Jadi dulu orang kata PKR parti yang hanya berlegar kepada Anwar Ibrahim; sekarang kalau macam ini, akan timbul macam itulah, Bersatu pula parti yang berlegar sekitar Tan Sri Muhyiddin sahaja. Yalah, hal dalaman Bersatu tu bagus lah, nampak mereka semua tengah exercise lah. Tapi yang malangnya, saya ingat rakyat Malaysia lah — maksudnya ditolih kanan, ditolih kiri kan. Rakyat berhak mendapat yang lebih baik lah. I think the public deserve better.
 
@@ -188,7 +188,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Saya tak dapat data lagi. Jadi saya selalunya kalau saya komen sesuatu mengenai sentimen politik itu, itu selepas saya dah dapat data — bulanan, data setiap tiga bulan sekali kerana kita semak. Saya belum lagi dapat data yang kuantitatif lah. Yang kita dengar-dengar, orang sana cakap, orang sini cakap, itu mungkin sentimen orang keliling kita lah, sama ada dia mewakili sentimen rakyat keseluruhan tu — I think we have to wait for the data lah. Tapi, hmm, maknanya dalam keadaan negara yang cabaran mentadbir, cabaran geopolitik itu makin mendesak — saya, sebagai kalau saya rakyat biasa kan, saya sebenarnya nakkan pembangkang ni betul-betul mainkan peranan dia. Dan peranan itu ialah untuk memastikan setiap keputusan besar yang kerajaan buat itu, pembangkang ada nilai tambah. Kalau benda itu, kalau macam saya dulu, dia soal korupsi, soal penyelewengan — jadi itu, you betul-betul kena mainkan peranan sebagai pembangkang. Kalau sekarang contohnya ada isu korupsi, pergilah dedah, pergilah semak — yang besar, contohnya pasal kedudukan hutang dan fiskal negara, sebenarnya macam mana nak baiki ini kan. Jadi bila contohnya parti utama dan secara tidak rasmi calon Perdana Menteri PN ini datang daripada Bersatu, tapi kalau semuanya berlegar dalam Parlimen soal ketimbang, kemudian soal — itu tidak ada nilai tambah. Dan parti-parti politik di Malaysia lah, baik di sebelah kerajaan, baik di pembangkang kan, kita dah kena keluar daripada kepompong lama iaitu, "undilah aku kerana aku lebih baik, apa aku buat lepas tu korang tak payah tahulah, sebab aku lebih baik maka aku berhak berada dalam kerajaan, undilah aku dulu." Itu sebenarnya saya ingat untuk masa-masa akan datang lah. Dan ini kepada rakyat sebenarnya — parti politik akan jadi macam itulah kalau tidak ada gasakan daripada rakyat, tak kena gasak. Dia memang parti politik tidak akan berubah lah. Rakyat kena menggasak supaya pertembungan politik ini beralih daripada sentimen individu kan — yang ini ada walaun, yang itu ada walaun, ni ada walaun kan, semua satu-satu-satu kan. Jadi dia perlu tumpu kepada actually how exactly are you going to resolve? Have you done your calculation? How are you going to do things differently? Dan daripada situlah saya ingat, barulah rakyat boleh buat keputusan yang lebih adil and informed choice at the ballot box.
 
-**Haziq:** Okay, baik WB, janganlah komen lama-lama. Teruskan.
+**Haziq:** Okay, baik YB, janganlah komen lama-lama. Teruskan.
 
 **Rafizi:** Ya.
 
@@ -220,15 +220,15 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Dia complicated lah.
 
-**Haziq:** Okay baby, mungkin kita teruskan yang next. Ada lagi yang keras.
+**Haziq:** Okay YB, mungkin kita teruskan yang next. Ada lagi yang keras.
 
 **Rafizi:** Ada lagi keras?
 
-**Haziq:** Ini mungkin sikit lah, baby. Ini isu sensitif — kayu bukan bendera, berkaitan dengan perhimpunan pro-Palestin. Adakah appropriate halangan yang dibuat tu, baby?
+**Haziq:** Ini mungkin sikit lah, YB. Ini isu sensitif — kayu bukan bendera, berkaitan dengan perhimpunan pro-Palestin. Adakah appropriate halangan yang dibuat tu, YB?
 
 **Rafizi:** Ya... ini sebenarnya lose-lose ni, dia tengok kepada perspektif lah kan. Kalau kita jadi, apa nama ni, pegawai ataupun kakitangan keselamatan di Suria KLCC — dia ada arahan itu, dan saya tak rasa lah dia ada arahan yang kata "Palestine tak boleh" ke apa. Tapi arahan SOP itu, contohnya, besar kemungkinan ialah perkara-perkara yang dikira boleh dijadikan senjata ataupun tidak sesuai kan. Kalau dia tak buat, nanti kalau jadi apa-apa, dia nak kena jawab, samalah dengan kakitangan kerajaan dan sebagainya lah kan. Kalau dia — apa nama ni — buat dan tafsiran dia, tafsiran dia bila ada sahaja kayu, itu sudah dikira melanggar daripada SOP yang dibenarkan. Jadi akhirnya jadi macam inilah, dan kesnya pula ialah kes yang sensitif Palestine kan. Betul. Jadi saya ingat perkara ini perlukan untuk membantu lah, apa nama ni, kakitangan bawahan semua tu. Dan maksudnya SOP itu mesti lebih — apa nama ni — mesti lebih jelas lah. Hmm, saya boleh cadangkan contohnya lah, kalau contohnya pengurusan KLCC kan, kalau yang dibimbangkan ialah kayu ataupun kategori barang-barang yang boleh dijadikan senjata atau merosakkan, maka mereka boleh meninggalkan barang mereka di concierge ataupun di pintu masuk lah. Tapi kalau benda-benda macam paraphernalia — apa nama ni — yalah, tapi masalah juga, kadang-kadang Tian Chua ni memang suka mencuri perhatian, itu pun ada juga isu dia. Saya kawan lama dengan dia, dia selalunya memang kalau boleh menarik perhatian, dia tarik perhatian. Contohnya, kalau saya, mungkin keadaannya agak berbeza — mungkin saya boleh rundingkan, tak apa, semua ni ataupun bendera kami boleh buat masuk, kami lipat ataupun kami pakai sidai, tapi kayu tu kami kena tinggal kat luar contohnya. Tapi untuk membantu security dan juga kakitangan bawahan, apa nama ni, SOP tu perlu dijelaskan. Okey, baik. Saya tak rasa kalau nak kata pengurusan Suria KLCC itu anti-Palestin, itu tak betul. Cuma maksudnya SOP dan arahan kepada kakitangan bawahan itu mungkin belum dikemas kini. Dan dia mungkin kena buat satu SOP khusus untuk Tian Chua lah. Ha ha ha.
 
-**Haziq:** Baik, baik. Lose-lose lah, baby. Okay, next — tak ada apa lagi. Oh ya, ini isu hangat juga, semalam berlaku, dan saya rasa semua tahulah apa yang berlaku.
+**Haziq:** Baik, baik. Lose-lose lah, YB. Okay, next — tak ada apa lagi. Oh ya, ini isu hangat juga, semalam berlaku, dan saya rasa semua tahulah apa yang berlaku.
 
 **Rafizi:** Saya sentimental sikit dengan Dang Wangi dan OCPD Dang Wangi ni, sebab dalam banyak-banyak kali saya kena tahan, paling banyak ditahan di Dang Wangi lah — ialah OCPD Dang Wangi lah.
 

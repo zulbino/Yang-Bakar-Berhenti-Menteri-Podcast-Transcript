@@ -83,7 +83,7 @@ Okay, tadi sebelum podcast ni kita ada sembang juga pasal lawyer-lawyer YB. Takp
 
 **Rafizi:** Kita akan sembang kemudian pasal exam SPRM tu. Okay je, tak ada apa. Satu je matlamat yang tidak tercapai — saya ingat soal siasat yang panjang tu, sebab bila kita bercakap sebenarnya kita membakar lemak kan. So target aku lepas habis soal siasat tu, hilang sekilo. Tak hilang juga. Tak cukup bercakap lah, tak tahu kenapa tak cukup. Yang lain, all is good lah.
 
-**Farhan (Pa'an):** Okay baik, baby. Nanti kita sambung lagi. Tapi kita tengok beria YB.
+**Farhan (Pa'an):** Okay baik, YB. Nanti kita sambung lagi. Tapi kita tengok beria YB.
 
 **Rafizi:** Disebabkan kita terus beria...
 
@@ -131,7 +131,7 @@ Okay, tadi sebelum podcast ni kita ada sembang juga pasal lawyer-lawyer YB. Takp
 
 **Rafizi:** Lain kan? Yep.
 
-**Farhan (Pa'an):** Okay baik, baby. Itu satu, kita tengok yang lain lagi. Ketua Pemuda UMNO bangkit muncul sekali lagi. Orang yang janji tapi tak resign, cakap tentang jawatan orang lain. Ini saya rasa pertikaian apabila ada krisis di Negeri Sembilan — pemuda-pemuda ni berlawan-lawan, DAP dan Pemuda UMNO. "Kau letak jawatan," "kau pecat," "kau ni pecat." Cuma saya rasa orang yang pernah berjanji berdegar-degar untuk meletakkan jawatan tapi tak jadi atas apa alasan sekalipun, tak boleh atau hilang kredibiliti untuk bercakap tentang jawatan orang lain. Pandangan saya agak berbeza sedikit.
+**Farhan (Pa'an):** Okay baik, YB. Itu satu, kita tengok yang lain lagi. Ketua Pemuda UMNO bangkit muncul sekali lagi. Orang yang janji tapi tak resign, cakap tentang jawatan orang lain. Ini saya rasa pertikaian apabila ada krisis di Negeri Sembilan — pemuda-pemuda ni berlawan-lawan, DAP dan Pemuda UMNO. "Kau letak jawatan," "kau pecat," "kau ni pecat." Cuma saya rasa orang yang pernah berjanji berdegar-degar untuk meletakkan jawatan tapi tak jadi atas apa alasan sekalipun, tak boleh atau hilang kredibiliti untuk bercakap tentang jawatan orang lain. Pandangan saya agak berbeza sedikit.
 
 **Rafizi:** Tengok ni, sebab tu aku tarik nafas panjang, aku tengok je kan.
 
@@ -207,7 +207,7 @@ Okay, tadi sebelum podcast ni kita ada sembang juga pasal lawyer-lawyer YB. Takp
 
 **Rafizi:** Kerana Alhamdulillah, sumpah laknat Datuk Seri Najib akhirnya telah dinampakkan kesannya.
 
-**Farhan (Pa'an):** Okay baik, baby. Dan cuma satu lah, saya tengok ada satu usaha untuk whitewash isu Najib ni giat sampai sekarang lah. Kedua, bagaimana publik — sebab kes Najib ni dah banyak sangat, jadi orang dah overwhelmed, kurang excited berbanding sewaktu laporan-laporan kes Najib ni keluar beberapa tahun dulu. Adakah ada kaitan dengan kesedaran orang tentang isu rasuah, ataupun?
+**Farhan (Pa'an):** Okay baik, YB. Dan cuma satu lah, saya tengok ada satu usaha untuk whitewash isu Najib ni giat sampai sekarang lah. Kedua, bagaimana publik — sebab kes Najib ni dah banyak sangat, jadi orang dah overwhelmed, kurang excited berbanding sewaktu laporan-laporan kes Najib ni keluar beberapa tahun dulu. Adakah ada kaitan dengan kesedaran orang tentang isu rasuah, ataupun?
 
 **Rafizi:** Itu mungkin cabaran utama UMNO lah.
 
@@ -271,7 +271,7 @@ Okay, tadi sebelum podcast ni kita ada sembang juga pasal lawyer-lawyer YB. Takp
 
 **Rafizi:** Morocco pernah kan. Jadi setiap World Cup, dia mesti ada satu pasukan underdog. So memang, pandangan aku, underdog team yang kita semua patut sokong ialah Bosnia.
 
-**Farhan (Pa'an):** Okay baik, baby. Kita dah 40 minit, kita ada satu lagi beria.
+**Farhan (Pa'an):** Okay baik, YB. Kita dah 40 minit, kita ada satu lagi beria.
 
 **Rafizi:** Ada lagi, beria satu lagi.
 
@@ -283,7 +283,7 @@ Okay, tadi sebelum podcast ni kita ada sembang juga pasal lawyer-lawyer YB. Takp
 
 **Rafizi:** Tapi taat arahan. Memang beria lah dia nak buat atap. Saya nak komen apa dah, sebab dia dah mengaku sendiri — "kalau boleh, kalau korang marah kat aku, kata aku nak sebut atap, yang hari tu sebenarnya kalau boleh aku dah lama nak sebut atap." So beria. Nak komen apa lagi? Memang dia beria lah.
 
-**Farhan (Pa'an):** Okay baby, selebihnya nanti dalam segmen lah kan. Okay, selesai. Kita nak kena pilih — kita ada 6, 7... 1, 2, 3, 4, 5, 6. Tapi minta maaf, minggu ini memang by far good cop bad cop.
+**Farhan (Pa'an):** Okay YB, selebihnya nanti dalam segmen lah kan. Okay, selesai. Kita nak kena pilih — kita ada 6, 7... 1, 2, 3, 4, 5, 6. Tapi minta maaf, minggu ini memang by far good cop bad cop.
 
 **Rafizi:** Good cop bad cop. Sebab sebahagiannya tu saya rasa ada orang kena nasihatkan Izzah lah — strategi begini tak berjalan, dia mengundang lebih banyak troll.
 
@@ -309,9 +309,9 @@ Okay, tadi sebelum podcast ni kita ada sembang juga pasal lawyer-lawyer YB. Takp
 
 **Farhan (Pa'an):** Okey, baik. Saudara Nurul Izzah, sila cuba lagi.
 
-Okay, baby, kita habis beria, kita terus ke Hidup Keras dik — ada tiga lah minggu ni. Cuma yang pertama, sudah pasti kita akan menyentuh tentang exam paling besar pada minggu lepas, iaitu exam YB. Gila lama — bila last kali kau ambil exam lah?
+Okay, YB, kita habis beria, kita terus ke Hidup Keras dik — ada tiga lah minggu ni. Cuma yang pertama, sudah pasti kita akan menyentuh tentang exam paling besar pada minggu lepas, iaitu exam YB. Gila lama — bila last kali kau ambil exam lah?
 
-**Rafizi:** Bila, Abie? Saya last kali ambil exam ialah sekitar tahun 2004 ke 2005. Masa tu, yelah, exam-exam yang lepas — maksudnya habis universiti, kemudian saya buat Chartered Accountancy dengan ICAEW, semua exam habis 2002. Exam terakhir bertulis yang saya ambil ialah untuk tahun pertama Bachelor of Jurisprudence di UM lah.
+**Rafizi:** Bila, YB? Saya last kali ambil exam ialah sekitar tahun 2004 ke 2005. Masa tu, yelah, exam-exam yang lepas — maksudnya habis universiti, kemudian saya buat Chartered Accountancy dengan ICAEW, semua exam habis 2002. Exam terakhir bertulis yang saya ambil ialah untuk tahun pertama Bachelor of Jurisprudence di UM lah.
 
 **Farhan (Pa'an):** Oh.
 
@@ -447,7 +447,7 @@ Okay, baby, kita habis beria, kita terus ke Hidup Keras dik — ada tiga lah min
 
 **Farhan (Pa'an):** Hmm.
 
-**Rafizi:** Dia sudah bercakap mengkritik Anwar semua ini — Farhaj, Ramanan — berbulan-bulan sebelum itu, dekat setahun sebelum itu. Tapi dua tiga hari selepas cerita pasal saham Azam Baki keluar, terus buka fail dengannya. Sekali lagi, logik rakyat lekat pada benda itu. Cuma Ceplos twist naratif itu, baby. Bagaimana dia twist? Dia kata: disebabkan YB ada kes, YB serang dulu — Azam Baki diserang bertubi-tubi, supaya bila YB kena, YB boleh kata ini disebabkan oleh YB yang menyerang dahulu.
+**Rafizi:** Dia sudah bercakap mengkritik Anwar semua ini — Farhaj, Ramanan — berbulan-bulan sebelum itu, dekat setahun sebelum itu. Tapi dua tiga hari selepas cerita pasal saham Azam Baki keluar, terus buka fail dengannya. Sekali lagi, logik rakyat lekat pada benda itu. Cuma Ceplos twist naratif itu, YB. Bagaimana dia twist? Dia kata: disebabkan YB ada kes, YB serang dulu — Azam Baki diserang bertubi-tubi, supaya bila YB kena, YB boleh kata ini disebabkan oleh YB yang menyerang dahulu.
 
 **Farhan (Pa'an):** Tapi saya rasa itu naratif Ceplos dan Ceplos sahaja kot.
 

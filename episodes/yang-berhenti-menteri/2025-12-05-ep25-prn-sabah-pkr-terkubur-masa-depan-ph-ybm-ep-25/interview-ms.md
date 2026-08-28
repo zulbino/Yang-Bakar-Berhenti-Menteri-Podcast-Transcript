@@ -283,7 +283,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Faizal Rahman:** Yang disebut tu adalah kerusi urut ni, apa dia — masa pendedahan.
 
-**Rafizi:** Kalau WB duduk...
+**Rafizi:** Kalau YB duduk...
 
 **Faizal Rahman:** Oh macam Ogawa semua tu lah. So kalau ada dokumen-dokumen dalam handphone tu, memang boleh diekstrak lah.
 
@@ -369,7 +369,7 @@ Jadi kepada yang menonton yang tidak faham kenapa kita mempunyai pandangan yang 
 
 **Razeef Rakimin:** Ada jasa dia — kalau isu Azam Baki ni, di Sabah ni, yang orang nampak sekarang ni... iyalah, lepas beberapa pendakwaan, secara tiba-tiba lepas tu semua pun tergantung. Tidak ada yang dijatuhi hukuman apa. Jadi pandangan orang ni macam, "yelah, kita dulu desak dia untuk letak jawatan, sekarang bila kita jadi kerajaan ni, kita grab dia, kita grab orang jahat ni, kita jadikan dia senjata kita." Jadi itu yang orang nampak sekarang. Jadi, besar kepala dia kan.
 
-**Rafizi:** Okay WB, 50 minit dekat sini padahal nak cakap pasal Syamsul dengan Albert T. Ya. Tapi sebenarnya memang betul, isu Syamsul dengan Albert T ni, yang nampak sekarang ni hanya puncak gunung ais. Dan macam yang Razif kata kan, jangan ingat rakyat bodoh tau. Rakyat baca semua ni — contohnya menyenjatakan SPRM ni. Yang ini yang orang daripada yang berpendidikan, rakyat biasa kedai kopi, cara dia cakap tu lain lah bahasanya, tapi kesimpulan itu—
+**Rafizi:** Okay YB, 50 minit dekat sini padahal nak cakap pasal Syamsul dengan Albert T. Ya. Tapi sebenarnya memang betul, isu Syamsul dengan Albert T ni, yang nampak sekarang ni hanya puncak gunung ais. Dan macam yang Razif kata kan, jangan ingat rakyat bodoh tau. Rakyat baca semua ni — contohnya menyenjatakan SPRM ni. Yang ini yang orang daripada yang berpendidikan, rakyat biasa kedai kopi, cara dia cakap tu lain lah bahasanya, tapi kesimpulan itu—
 
 **Faizal Rahman:** —sama. Tengok kalau YB buat komen apa kan, up status tentang ni, tengok komen-komen rakyat. Maknanya rakyat faham. Saya tidak faham apa yang awak cakap.
 
@@ -385,7 +385,7 @@ Jadi kepada yang menonton yang tidak faham kenapa kita mempunyai pandangan yang 
 
 **Razeef Rakimin:** "Kau mahu saya pilih kau, kau bawa isu kami. Kalau kau tidak mampu, kami pilih lain. Kami boleh bergerak dalam satu blok, tidak ada masalah." Sebab itulah kita terkejut dengan keputusan yang DAP dapat. Kita tahu yang ini akan berlaku, dan kita sudah beri amaran kepada pimpinan sejak awal. Tapi kita tengok macam tidak ada perubahan, tidak ada tindakan. Mereka beritahu mereka akan buat, tapi tidak ada apa-apa. Kita tengok tidak ada apa-apa pun yang isu kaum Cina yang mereka suarakan. Akhirnya mereka tengok tidak ada harapan lain selain daripada pilih Warisan. Jadi, bukan tiba-tiba lah. Bukan tiba-tiba. Benda ini sudah lama, lebih kurang setahun lebih. Malah waktu kempen Hero pun, saya rasa YB sudah bentangkan — kita tengok peratusan sokongan turun-turun. Dikongsikan balik, lebih dikongsikan balik, sebab bila kita tengok menurun ni, kita bukan tengok daripada sokongan je, kita mahu tahu apa isu dia. Isu ni sebenarnya kita boleh selesaikan, tetapi pimpinan kita ni ada yang fokus isu lain, ada juga yang ego dia yakin. Bagi mereka ialah, bila kita cakap pasal pengundi Cina ni, "mereka setia dengan Pakatan Harapan." Tapi masyarakat Cina ni, sebenarnya bukan jenis begitu. "Kalau boleh bawa, saya bagi kau undi. Kalau tidak boleh bawa, selesailah kau." Itu yang berlaku.
 
-**Faizal Rahman:** Tapi saya nak tanya boleh? Baby — saya nak tanya, bila baby up gambar kita untuk ada ni, apa semua kan, soalan yang saya terima, dikatakan dua panglima kembar yang secocok kita ni, dikatakan pada masa pemilihan, pengundian tu, tak ada di Sabah. Betul tak? Dia kata macam sekarang ni kecoh PKR Kedah — teduhkan Saifuddin, pada masa tu sebenarnya berada di tempat lain bermain golf. Dan Izzah pun tidak ada di Malaysia pada masa tu. Saya dengar macam Izzah pergi—
+**Faizal Rahman:** Tapi saya nak tanya boleh? YB — saya nak tanya, bila YB up gambar kita untuk ada ni, apa semua kan, soalan yang saya terima, dikatakan dua panglima kembar yang secocok kita ni, dikatakan pada masa pemilihan, pengundian tu, tak ada di Sabah. Betul tak? Dia kata macam sekarang ni kecoh PKR Kedah — teduhkan Saifuddin, pada masa tu sebenarnya berada di tempat lain bermain golf. Dan Izzah pun tidak ada di Malaysia pada masa tu. Saya dengar macam Izzah pergi—
 
 **Razeef Rakimin:** Umrah.
 
@@ -547,7 +547,7 @@ Jadi waktu itu — kenapa? Sebab ada "parasut". Campur tangan. Mulanya kita teng
 
 Tapi ada dua tiga perkara bila saya tengok dekat TikTok tu kan — perkara-perkara yang baru muncul dalam PKR lah. Contohnya... PKR ni tak pernah ada hiburan dalam kempen kita. Sebab orang yang mengikuti PKR ni bukan jenis orang nak hiburan. Kalau dia nak hiburan, dia tak sokong PKR, dia sudah sokong parti lain. Jadi saya tengok daripada jauh, saya kata ni dah agak jauh terpesong cara kita kempen ni kan — viral kan, VTT tu.
 
-**Razeef Rakimin:** Kalau Abie ingat pun waktu mesyuarat MPP dulu, waktu kita mahu sambut 25 tahun Keadilan pun, kita batalkan bab konsert, bab penyanyi, kita batalkan. Sebab kita bukan...
+**Razeef Rakimin:** Kalau YB ingat pun waktu mesyuarat MPP dulu, waktu kita mahu sambut 25 tahun Keadilan pun, kita batalkan bab konsert, bab penyanyi, kita batalkan. Sebab kita bukan...
 
 **Rafizi:** Kita ni pandai berderita. Hiburan, maksudnya begini — rakyat bukanlah bodoh. Dia tengok tabla balik, bawa tabla balik, berapa puluh ribu habis bawa dia orang semua ni kan. Daripada habis puluh-puluh ribu tu, baik bagi kat aku kan. Baik bagi kat rakyat, bantu. Baik-baik pergi jalan, tahu. Jadi benda yang tak pernah berlaku sama juga bila saya tengok program-program kempen kita — saya tak tahu lah, saya tengok yang dekat TikTok sahaja kan — dia punya feudal tu dah makin menjadi-jadi. Zaman kita dulu, masa saya, saya paksa Datuk Seri Anwar duduk atas kerusi plastik macam aku. Mana ada kita pernah ada kerusi VIP semua ni, tak pernah. Datang macam biasa duduk kerusi plastik. Sampai tu pun macam tu lah kan, sampai PRN pun kita duduk kerusi plastik, 2023 tau, 6 negeri tu. Tapi kalau saya tengok di Sabah tu kan, susunan dia tu dia dah jadi feudal.
 

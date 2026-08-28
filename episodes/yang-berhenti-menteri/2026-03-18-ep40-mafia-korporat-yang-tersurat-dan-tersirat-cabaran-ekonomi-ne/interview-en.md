@@ -66,7 +66,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** I'm just generalizing. But yes, some have already gone back since yesterday, so tonight there will definitely be congestion around Gombak, I'd guess. God willing, whether it's tonight or tomorrow, since it looks like we'll be celebrating Raya on Friday.
 
-**Speaker 2:** Maybe with your friend's baby?
+**Speaker 2:** Maybe with your friend's YB?
 
 **Rafizi:** Not yet, it hasn't been announced yet. But he actually has his own tricks too — that's how I feel it will fall on Friday.
 
@@ -78,9 +78,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Yes, that means the government must have made its plans, they need to determine when the tolls apply and when the public will be on the roads. So they actually need to know when Raya really is. So the announcement of the 50% toll discount on Wednesday and Thursday gives the impression, based on the government's intuition, that Friday is already Raya.
 
-**Speaker 2:** Alright, alright, alright. Okay, okay, baby.
+**Speaker 2:** Alright, alright, alright. Okay, okay, YB.
 
-**Rafizi:** This is episode 40 and our final week of fasting. Let's move straight to the segment, baby.
+**Rafizi:** This is episode 40 and our final week of fasting. Let's move straight to the segment, YB.
 
 **Speaker 2:** Yes.
 
@@ -168,7 +168,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** We should get worked up too, do a TikTok live.
 
-**Speaker 2:** He got scolded, baby.
+**Speaker 2:** He got scolded, YB.
 
 **Rafizi:** With AirAsia — I think this is an experience everyone has faced already.
 
@@ -482,7 +482,7 @@ If we look at everything, what hasn't been done yet — correct me if I'm wrong 
 
 And sometimes when temple leaders or temple activists come with a list of 70-80 requests, the government looks at that list and feels it's too much — if everything is done, others will be upset. Just because there's a view that this is hard to implement doesn't mean it should be dropped entirely or not engaged with at all. The process must start. But I think because the process is complicated, they say "oh no, this is difficult," and in the end the matter gets dragged out, dragged out — so now it's like a lose-lose for everyone. Perhaps the only ones who benefit are those who become celebrities because they got caught. That's it.
 
-Okay, we have three more topics here, baby. I suggest we do the last two after Raya — are you crazy? How many more hours do you want to chat, we're already three hours in. Let's just go to the last topic; the other two can come after Raya. Okay, let's look at the final one, baby: the AT agreement — cancelled or not cancelled?
+Okay, we have three more topics here, YB. I suggest we do the last two after Raya — are you crazy? How many more hours do you want to chat, we're already three hours in. Let's just go to the last topic; the other two can come after Raya. Okay, let's look at the final one, YB: the AT agreement — cancelled or not cancelled?
 
 This actually depends on one very big question: did the US Supreme Court's decision that day actually cancel the entire agreement we signed outright, including those one-sided terms, or did it only cancel the tariff itself without disturbing the agreement?
 
@@ -518,7 +518,7 @@ But certainly, I'm not comfortable with the current government giving the impres
 
 **Farhan (Pa'an):** So in conclusion, don't rush, right?
 
-**Rafizi:** Yes, don't rush to announce that it's been cancelled. Don't rush in anything. This is what happens when you rush — in the end, someone lets it slip that it's actually cancelled, then rushes to reverse it, saying it's not cancelled yet. So don't rush — one person speaks, and five other people have to clean up the consequences. Okay, I think that's it, baby. Happy Hari Raya, Happy Hari Raya! God willing I've already arrived at my hometown, bye — our time is up too.
+**Rafizi:** Yes, don't rush to announce that it's been cancelled. Don't rush in anything. This is what happens when you rush — in the end, someone lets it slip that it's actually cancelled, then rushes to reverse it, saying it's not cancelled yet. So don't rush — one person speaks, and five other people have to clean up the consequences. Okay, I think that's it, YB. Happy Hari Raya, Happy Hari Raya! God willing I've already arrived at my hometown, bye — our time is up too.
 
 **Farhan (Pa'an):** No—
 

@@ -69,7 +69,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Not even on TikTok?
 
-**Haziq:** TikTok. Oh, not allowed on TikTok either. So YB, that's how it is, politicians can't do that. Okay, never mind. That's why I should stop being a minister — let's check later. Okay, before we go to the Beria segment, baby, we have an additional segment just for this week, because last week YB promised to show our friends out there his payslip.
+**Haziq:** TikTok. Oh, not allowed on TikTok either. So YB, that's how it is, politicians can't do that. Okay, never mind. That's why I should stop being a minister — let's check later. Okay, before we go to the Beria segment, YB, we have an additional segment just for this week, because last week YB promised to show our friends out there his payslip.
 
 **Rafizi:** Ah, that's counted as last week's debt. I saw on Twitter, everyone kept reminding me not to forget the payslip. I almost forgot just now.
 
@@ -93,7 +93,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Yes, ok alright.
 
-**Rafizi:** Alright, that was the minister's payslip. This is the MP's payslip. The MP's base salary is actually RM16,000. Since I'm a member of the administration, a minister, the allowances I get are only ministerial allowances, I don't get all the MP allowances. So from RM16,000 it's deducted — the Angkasa one, actually, how does Angkasa work? It's a deduction to the party. But what goes through Angkasa, baby? Because Angkasa does have an arrangement with the government, for loan deductions to corporations or whatnot — so I think PKR has a similar concept to Angkasa. Angkasa deducts, so it deducts RM8,000, I get RM7,600. So there's a further deduction — the party contribution is RM8,000, so I get RM7,600 net. So combining the two — earlier RM29,000 plus RM7,000, that gives around RM35,000, RM36,000 a month.
+**Rafizi:** Alright, that was the minister's payslip. This is the MP's payslip. The MP's base salary is actually RM16,000. Since I'm a member of the administration, a minister, the allowances I get are only ministerial allowances, I don't get all the MP allowances. So from RM16,000 it's deducted — the Angkasa one, actually, how does Angkasa work? It's a deduction to the party. But what goes through Angkasa, YB? Because Angkasa does have an arrangement with the government, for loan deductions to corporations or whatnot — so I think PKR has a similar concept to Angkasa. Angkasa deducts, so it deducts RM8,000, I get RM7,600. So there's a further deduction — the party contribution is RM8,000, so I get RM7,600 net. So combining the two — earlier RM29,000 plus RM7,000, that gives around RM35,000, RM36,000 a month.
 
 **Haziq:** Alright, alright, alright. So out there people are hyping that ministers should be getting RM60,000, some even say up to RM100,000, but it's actually way less than that.
 
@@ -139,13 +139,13 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** That hit him. So you can say the same lah.
 
-**Haziq:** Aduh, man. Let's invite him back, baby...
+**Haziq:** Aduh, man. Let's invite him back, YB...
 
 **Rafizi:** Who? No need to waste time, this guy is a waste of time. I don't think he has any value for you all to entertain him.
 
 **Haziq:** Alright, we won't entertain him anymore.
 
-**Rafizi:** Ok, next time, baby.
+**Rafizi:** Ok, next time, YB.
 
 **Haziq:** Ok, last one.
 
@@ -179,7 +179,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Yes, alright.
 
-**Haziq:** WB, let's continue. So the next segment is the same too, Hidup Keras [Hard Life]. There might be a bit more this time, because a lot of intense things happened this week, YB. Okay, so the first one is of course, as I mentioned earlier, about Bersatu — Bersatu-Bersatu. When suddenly we were shocked that 120 Bersatu division heads all withdrew. Is this their election preparation, as Azmin said, YB?
+**Haziq:** YB, let's continue. So the next segment is the same too, Hidup Keras [Hard Life]. There might be a bit more this time, because a lot of intense things happened this week, YB. Okay, so the first one is of course, as I mentioned earlier, about Bersatu — Bersatu-Bersatu. When suddenly we were shocked that 120 Bersatu division heads all withdrew. Is this their election preparation, as Azmin said, YB?
 
 **Rafizi:** Ha... this is someone else's party... let it be. Actually if I were still PKR deputy president, I wouldn't comment, because it's a party matter. But now we're a free agent, ha, can comment on anything. Okay. Yeah, actually — if you look at the 120 division heads, Bersatu actually has 202 right? 120 is more than half. So I understand why they made statutory declarations — mentioning one after another, sneezing at this point — meaning if more than half have signed and are urging him to step down, I understand their intent. A sworn declaration means they no longer have confidence from 120-plus division heads. So this means the turmoil is significant, and when it spills over to an assembly like this — so whether Tan Sri Muhyiddin steps down or not, we actually can't predict that, that's their business. But it will add to public disillusionment with political parties. Before this PKR had turmoil, PKR's turmoil had an effect on PH for example. So when Bersatu becomes like this, it has an effect on PN. So I think, regardless of what happens to each party, I'll give a fair comment. But elections have never been decided by the fence-sitters. And swing voters, I think, only want leadership and political parties to focus on their work. So added to this within PN, because I believe a portion of Malaysians know that PAS's governing capability is limited. So even if they vote for PN, they hope that the administrative skill in terms of policy, in terms of transformation, they can only place their hopes on Bersatu. But I read a report by a former Bersatu Armada exco — because three consecutive annual general assemblies have all revolved around the sentiment of elevating and glorifying Tan Sri Muhyiddin. So before, people said PKR was a party that only revolved around Anwar Ibrahim; now if it's like this, the same thing will arise, Bersatu becomes a party that revolves solely around Tan Sri Muhyiddin. Well, Bersatu's internal matters are fine, it seems they're all going through an exercise. But unfortunately, I think it's the Malaysian public — meaning being pulled right, pulled left. The public deserves better. I think the public deserve better.
 
@@ -187,7 +187,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** I don't have the data yet. So usually when I comment on something about political sentiment, that's after I've gotten the data — monthly data, data every three months because we review it. I haven't gotten quantitative data yet. What we hear, people here say this, people there say that, that might just be the sentiment of the people around us, whether it represents the sentiment of the public as a whole — I think we have to wait for the data. But, hmm, meaning in a country facing mounting governance and geopolitical challenges — if I were an ordinary citizen, I would actually want the opposition to truly play their role. And that role is to ensure that every major decision the government makes, the opposition adds value. If it's something like what I dealt with before, questioning corruption, questioning misappropriation — you really need to play the role of the opposition properly. If now for example there's a corruption issue, go expose it, go investigate it — the bigger issues, for example regarding the country's debt and fiscal position, actually how do we fix this. So when for example the main party and the unofficial PN Prime Minister candidate comes from Bersatu, but if everything just revolves in Parliament around petty squabbles, then about — that adds no value. And political parties in Malaysia, whether on the government side or the opposition side, we need to break out of the old mold of, "vote for me because I'm better, you don't need to know what I'll do after that, because I'm better so I deserve to be in government, vote for me first." I think that's actually for the times ahead. And this is really up to the public — political parties will remain like that if there's no pushback from the public, if they're not pushed. Political parties really won't change on their own. The public needs to push so that this political clash shifts away from individual sentiment — this one has fans, that one has fans, this one has fans, all separate one by one. They need to focus on actually how exactly are you going to resolve issues? Have you done your calculation? How are you going to do things differently? And from there, I think, only then can the public make a fairer and more informed choice at the ballot box.
 
-**Haziq:** Okay, alright WB, don't comment too long. Let's continue.
+**Haziq:** Okay, alright YB, don't comment too long. Let's continue.
 
 **Rafizi:** Yes.
 
@@ -219,15 +219,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** It's complicated.
 
-**Haziq:** Okay baby, maybe let's move on to the next one. Anything else intense?
+**Haziq:** Okay YB, maybe let's move on to the next one. Anything else intense?
 
 **Rafizi:** Anything else intense?
 
-**Haziq:** This might be a small one, baby. This is a sensitive issue — a stick, not a flag, related to the pro-Palestine gathering. Was the obstruction that took place appropriate, baby?
+**Haziq:** This might be a small one, YB. This is a sensitive issue — a stick, not a flag, related to the pro-Palestine gathering. Was the obstruction that took place appropriate, YB?
 
 **Rafizi:** Yeah... this is actually lose-lose, it depends on the perspective. If we were, what do you call it, an officer or security staff at Suria KLCC — they have their instructions, and I don't think there was an instruction saying "Palestine not allowed" or anything. But the SOP instruction, for example, most likely covers things considered to be potential weapons or unsuitable items. If they don't enforce it, and something happens later, they'll have to answer for it, same as government staff and so on. If they, what do you call it, enforce it, and their interpretation is that any stick at all is already considered a violation of the allowed SOP. So in the end it becomes like this, and the case happens to be a sensitive one, Palestine. Right. So I think this matter needs help, what do you call it, for the frontline staff and everyone. And it means the SOP must be clearer. Hmm, I could suggest for example, if KLCC management, if what they're worried about is sticks or categories of items that could be used as weapons or cause damage, then they could allow people to leave their items at the concierge or at the entrance. But if it's things like paraphernalia — what do you call it — well, there's also a problem, sometimes Tian Chua likes to grab attention, that's also part of the issue. I'm an old friend of his, he usually, if he can attract attention, he will attract attention. For example, if it were me, the situation might be a bit different — maybe I could negotiate, it's fine, all this or our flags can come in, we'll fold them or wear them draped, but the stick we'll leave outside for example. But to help security and the frontline staff, what do you call it, the SOP needs to be clarified. Okay, alright. I don't think it's right to say Suria KLCC management is anti-Palestine. It's just that the SOP and instructions to the frontline staff might not have been updated. And they might need to make a special SOP just for Tian Chua. Ha ha ha.
 
-**Haziq:** Alright, alright. Lose-lose, baby. Okay, next — nothing else. Oh yes, this is a hot issue too, happened yesterday, and I think everyone knows what happened.
+**Haziq:** Alright, alright. Lose-lose, YB. Okay, next — nothing else. Oh yes, this is a hot issue too, happened yesterday, and I think everyone knows what happened.
 
 **Rafizi:** I'm a bit sentimental about Dang Wangi and the Dang Wangi OCPD, because out of the many times I've been detained, most of the time it was at Dang Wangi — it was the Dang Wangi OCPD.
 

@@ -76,7 +76,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Ada saman, kawan, dia salah sebut. Biarlah, itu hak dia lah. Itu hak dia mengikut, apa nama ni... hak masing-masing lah, dan kalau nak tengok memang mahkamah bergantung kepada budi bicara mahkamah. Saya ingat netizen pun janganlah zalim sangat, sebab... hmm... kalau nak banding dengan ahli politik yang ada CBT, ada apa nama ni, yang ada dakwaan, saya ingat, yalah, I think give them a chance lah, asalkan dia mengikut apa nama ni, peraturan dan juga kehendak mahkamah. Saya rasa saya tak nak campur.
 
-**Haziq:** Baik-baik, menarik. Oibi kau tak puas hati dengan diorang ke apa ni?
+**Haziq:** Baik-baik, menarik. YB kau tak puas hati dengan diorang ke apa ni?
 
 **Rafizi:** Tak, saya okey. Yang ini pun saya tak follow sangat, tapi tak kenal. Kenal lah bila tengok dia giling-giling, jegil-jegil tu faham lah. Tapi tak faham apa isu dia.
 
