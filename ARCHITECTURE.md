@@ -200,6 +200,14 @@ behind this table is 1.11, 1.14, 1.17, 1.23 and 1.25.
 | `truncated` | A rewrite disproportionately short against its raw transcript | Condensation that stays above the ratio |
 | `language` | A mixed-language transcript silently rewritten to English only | |
 | `speaker-attribution` | Most of an episode credited to someone other than Rafizi (1.27) | Wrong names on the *smaller* labels, and legitimately guest-led episodes, which it reports for judgement rather than assuming |
+| `generic-label`, `published-placeholder`, `label-mismatch`, `duplicate-turn`, `malay-loss`, `inline-turn-marker` (`check_published.py`) | Defects in the three `interview*.md` files a reader actually sees (1.39) | Anything the rewrite got wrong that still reads as well-formed |
+| `unsourced-figure` (`check_figures.py`) | A figure in the published text with no counterpart in `raw.md` -- a changed digit or a changed scale word, e.g. `8.2 bilion` for raw's `8.2 juta` (1.39) | Figures whose digits are all present but REGROUPED, e.g. raw's `10, RM300` printed as `RM10,300`. Bare years, excluded on purpose |
+
+Every check above the last two rows reads `raw.md`. **`raw.md` is not what anybody
+publishes.** Until 1.39 nothing read the `interview*.md` files except for existence, a
+length ratio and a Malay-density floor set below anything the corpus could produce, so the
+suite reported 0/67 clean while the published text carried thousands of placeholder labels.
+When a suite reports clean, ask which file it read.
 
 `caption-coverage` runs in the opposite direction from the others. **It starts from the
 audio and asks what the transcript is missing.** Every other check reads the transcript
@@ -328,15 +336,23 @@ same separator on the way back out as the way in.
 
 ## Known limitations
 
-- **20 episodes have a cast member present with no speaker label.** Coarse blocks absorb
+- **5 episodes have a cast member present with no speaker label**: three guests
+  (ep02, ep05, ep08) and `Farhan (Pa'an)` in ep39 and ep55. This read 20 until the
+  speaker-attribution work of 1.35-1.38, and then read 35 too high for a different reason
+  -- `RAW_LABEL` excluded parentheses from the name class, so it could not see
+  `Farhan (Pa'an)` in any of the 35 episodes that label him that way (1.39). Coarse blocks absorb
   short interjections, so the speech ends up inside someone else's turn and the leftover
   generic clusters are 0.0-2.4 minutes, too short to carry it. The `hosts` field records
   these people anyway (see the naming convention above); what is still missing is the
   block-level attribution, which needs blocks split at speaker boundaries as ep45's were
   (1.31). **Careful if automating: ep60 contains two different Farhans** -- the co-host,
   and a politician described as "anak emas Dato' Seri Anwar".
-- **1,366 speaker labels in `interview*.md` are still generic**, across 35 episodes:
-  `Host`, `Speaker 1`/`2`/`3`, `Interviewer`, `Pengacara` and bracketed variants.
+- **2,836 speaker labels in `interview*.md` are still generic**, across 26 episodes:
+  `Host` 963, `Speaker 2` 817, `Speaker 1` 418, `Speaker 3` 216, `Interviewer` 209,
+  `Moderator` 83, `Hos` 73, `Speaker` 57. Re-measured with `label_drift_audit.py` on
+  2026-08-28; the previous figure of 1,366 across 35 episodes predated the re-cuts.
+  9 of those episodes ship a numbered diarizer cluster id straight to the reader
+  (`published-placeholder`, 1.39), ep54 for all 97 of its turns.
   The rewrite stage invented these where `raw.md` already carries a real name, so the
   information exists -- it just was not carried across. 558 were resolved on 2026-08-28
   in the six episodes where the mapping was forced (exactly one non-Rafizi speaker in

@@ -31,7 +31,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent / "episodes"
 # Handles "[10:00] Name:", "[10:00] [Name]:" and "[10:00] [Name]" (no colon).
-RAW_LABEL = re.compile(r"^\[[\d:]+\]\s*(?:\[([^\]]{1,30})\]|([A-Za-z][\w '.-]{1,28})\s*:)", re.M)
+# Parentheses are part of the name class on purpose. Without them this pattern could not
+# see "Farhan (Pa'an)", the show's regular co-host, in any of the 35 episodes whose raw.md
+# labels him that way -- so he counted as a cast member with no speaker label, and every
+# consumer of raw_names (this audit's classifier, check_published's generic-label count)
+# was working from a roster missing one of the three people usually in the room.
+RAW_LABEL = re.compile(
+    r"^\[[\d:]+\]\s*(?:\[([^\]]{1,30})\]|([A-Za-z][\w '.()-]{1,28})\s*:)", re.M)
 MD_LABEL = re.compile(r"\*\*([A-Za-z][\w '.-]{1,28})\s*:?\*\*")
 # Includes the Malay equivalents the rewrite emits when translating a generic
 # label -- Pewawancara/Penemuduga/Penemubual all mean "interviewer", Ko-hos is

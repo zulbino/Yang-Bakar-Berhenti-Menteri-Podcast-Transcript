@@ -2072,6 +2072,89 @@ re-cuts had already been written, so the voiceprint pass simply had to be re-run
 only because the tool is idempotent and the scores are recomputable. Do not pipe a
 long-running batch through `tail`.
 
+### 1.39: Withdrawing the ep43 fabrication finding, and calibrating the two checks it prompted
+
+**The headline finding of the 2026-08-28 published-files audit was wrong, and this entry
+withdraws it.** That audit reported that ep43's `interview.md` had Rafizi citing five oil
+production figures -- 30,629 / 38,041 / 28,325 / 25,389 / 34,195 KTOE -- that appeared
+nowhere in `raw.md`, attributed to a named government agency, invented to fill a
+208-second hole. A full sweep of every figure in the corpus found the opposite. All five
+are in `raw.md`. He read them into a calculator one digit at a time and the ASR wrote each
+digit as its own token:
+
+| `interview.md` | `raw.md`, same sentence |
+|---|---|
+| `38,041 KTOE` | `38.041 KTOE. Kali 7333.` |
+| `34,195` | `pengeluaran kita Kira 3, 4, 1, 9, 5 Kali 7333` |
+| `28,325 KTOE` | `Ambil 2011. 2011, 28, 3, 2, 5. KTOE x 7333` |
+| `25,389 KTOE` | `dia tinggal RM25,389. 333 bahagi 365` |
+| `30,629` | `Itu 36. 30,600. 629. Okey. Kali...` |
+
+The rewrite was tracking the transcript closely, not inventing. The tell is that it also
+faithfully copies raw's ASR noise, keeping `RM615,000` and `RM569,000` as ringgit amounts
+where the units are barrels per day. The 208-second "hole" is not one either: the block at
+`[44:30]` holds 2,048 characters, 9.85 chars/sec against a corpus median of 12.1.
+
+**Why the original audit got it wrong is the part worth keeping.** It searched `raw.md` for
+the figure as written and, not finding it, concluded invention -- then explained the
+absence with a mechanism (a content hole) that sounded right and was never measured. Two
+plausible stories agreeing with each other is not corroboration. The same audit correctly
+warned that two of its own new checks over-fired and were only caught because the owner
+pushed back on a count; this is the third instance, and it survived longer because it was
+the alarming finding rather than the boring one.
+
+**The hole-predicts-fabrication hypothesis is dead.** Measured at every altered figure, the
+worst unexplained gap is 51.7 seconds. `MIN_CONTENT_HOLE_SECONDS = 240` was never the
+reason anything was missed; lowering it to 120 flags 34 of 67 episodes and 42 gaps, not one
+of which contains an altered figure. Leave it alone.
+
+**What the sweep did find is real, smaller, and a different shape**: single digits changed
+between `raw.md` and the published text, in the same sentence, with dense transcript either
+side. YBkM-ep06 prints `45 bilion` two clauses after printing `4.5 bilion USD` from the
+same source; `240 juta USD` for raw's `340 juta`; `25.8 sen` for raw's `26.8 sen`.
+YBhM-ep21 prints `8.2 bilion` where raw says `8.2 juta` -- a 1000x error on a global market
+size. That is `scripts/check_figures.py`.
+
+**Two matching regimes, and the split is the whole design.** A figure carrying a scale word
+is compared BY VALUE, because digits alone cannot separate 4.5e9 from 45e9 and that exact
+pair is a confirmed defect. A plain figure is compared by digit CONCATENATION over a short
+window, because that is the only way `3, 4, 1, 9, 5` matches `34,195`. Getting there needed
+four corpus measurements, each of which had been a guess: the scale-word list is counted
+from the corpus (`bilion` 3029, `juta` 2647 ... `triliun` 22 -- missing that one spelling
+alone put five episodes on the list); suffixed scales (`9.6B`, `227k`) are as common as
+spelled ones; bare four-digit years are excluded because all 12 year-shaped flags traced to
+raw's `50-an`/`60-an` decade shorthand; and a bare number may borrow a scale word stated up
+to 4 tokens away, because a speaker says the unit once and then lists values against it.
+
+Result: 12 of 67 episodes, 24 figure strings. It catches 5 of 7 hand-verified defects and 0
+of 6 hand-verified legitimate reconstructions. **The 2 misses are structural, not a
+threshold to chase.** In YBhM-ep14 raw reads `RM30,000 kalau 10, RM300` and the published
+text prints `RM10,300`; in YBkM-ep04 raw reads `250, 450` and the text prints `RM200.5,
+RM400.5`. Every digit is present -- only the grouping is wrong. The permissive concatenation
+that makes ep43 pass correctly is exactly what lets these through, and tightening it
+re-flags all five ep43 figures. That is the worse trade.
+
+**`label-mismatch` went from 25 episodes to 2, and it was comparing the wrong thing.** It
+compared label STRINGS across the three derived files, so it flagged every episode where a
+role had been translated -- `Host` -> `Hos`, `Speaker (unidentified)` -> `Penutur (tidak
+dikenali)`. That is correct translation of a non-name. What must not differ between a file
+and its own translation is the set of PEOPLE NAMED, so it now compares those, with a
+bilingual role-word stoplist. The 2 survivors are real: YBhM-ep11's mixed file splits one
+person into `Iqbal` (55 turns) and `Ikhbal` (9) where the English file correctly has all 64
+as one, and YBhM-ep14's Malay file replaces the named Haziq with a bare role.
+
+**Three smaller corrections in the same pass.** `TURN_RE` had the colon optional, so ep20's
+`**Beza Krim dengan Fleximat** --`, a bolded topic phrase opening a continuation paragraph,
+parsed as a speaker; 40,032 labels in the derived files carry a colon and exactly one bold
+run does not, so the colon is now required. `placeholder-label` only ever read `raw.md`,
+which is allowed to be mid-work -- a new `published-placeholder` reads the derived files and
+finds 9 episodes shipping diarizer cluster ids, ep54 printing all 97 turns as `Speaker 1`/
+`Speaker 2` and ep56 doing it 121 times beside a `Speaker 1 (Rafizi Ramli)` that gives the
+name away. And `generic-label` was double-reporting those same turns, which is why it read
+26 episodes and now reads 19.
+
+Corpus after the pass: 37 of 67 flagged, from 43.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider

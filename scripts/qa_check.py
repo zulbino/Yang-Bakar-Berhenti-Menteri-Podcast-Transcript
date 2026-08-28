@@ -50,6 +50,7 @@ from lib_gemini import MODEL_FALLBACK_CHAIN
 
 ROOT = Path(__file__).resolve().parent.parent
 import check_published  # published-file signatures; see its docstring
+import check_figures  # published figures vs raw.md; see its docstring
 
 EPISODES_DIR = ROOT / "episodes"
 MANIFEST_PATH = ROOT / "data" / "manifest.json"
@@ -648,10 +649,11 @@ def check_episode(ep_dir):
                     f"(Malay-marker density {density:.2f}/1000 chars, expected >= {MIN_MALAY_DENSITY})",
                 ))
 
-    # Every signature above reads raw.md. These read the files a reader actually
-    # sees. Their absence is why this suite reported 0/67 clean while ep43's
-    # published text carried five fabricated statistics -- see check_published.py.
+    # Every signature above reads raw.md. These two read the files a reader actually sees.
+    # Their absence is why this suite reported 0/67 clean while the published text carried
+    # thousands of placeholder labels and a scatter of altered figures.
     issues.extend(check_published.check(ep_dir))
+    issues.extend(check_figures.check(ep_dir))
 
     return issues, models
 

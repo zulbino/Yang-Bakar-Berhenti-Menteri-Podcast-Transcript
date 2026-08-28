@@ -45,7 +45,11 @@ MIN_DUP_WORDS = 6
 GROUP_LABEL = re.compile(
     r"^(multiple|overlapping|beberapa|ramai|penceramah bertindih|beberapa penutur)",
     re.I)
-TURN_RE = re.compile(r"^\*\*([^*]{2,40}?):?\*\*\s*(.*)$")
+# The colon is REQUIRED. Measured: 40,032 labels in the derived files carry it and
+# exactly ONE bold run does not -- ep20's "**Beza Krim dengan Fleximat** --", a topic
+# phrase opening a continuation paragraph. With the colon optional that one line parsed
+# as a speaker named "Beza Krim dengan Fleximat" and drove a label-mismatch flag.
+TURN_RE = re.compile(r"^\*\*([^*]{2,40}?):\*\*\s*(.*)$")
 # A raw.md block holding two or more of these has lost a paragraph break. qa_check's
 # wall-of-text signature also demanded >20,000 chars, which is why ep53's seven such
 # blocks all passed.
@@ -58,6 +62,11 @@ INLINE_TURN_RE = re.compile(r"\[(?:\d+:)?\d+:\d+\]\s*[^:\n]{1,40}:")
 # named, i.e. unfinished work.
 PLACEHOLDER_RE = re.compile(
     r"^\[(?:\d+:)?\d+:\d+\]\s*(SPEAKER_\d+|Speaker\s+\d+)\s*:", re.M)
+# The same numbered placeholder, but in a PUBLISHED file. ep54 prints all 97 turns as
+# "Speaker 1"/"Speaker 2" while its own frontmatter names both hosts, and ep56 prints 121
+# such turns next to a "Speaker 1 (Rafizi Ramli)" that gives the name away. raw.md can be
+# mid-work; a published file showing a diarizer's cluster id cannot.
+DERIVED_PLACEHOLDER_RE = re.compile(r"^(SPEAKER_\d+|Speaker\s+\d+)(?:\s|$)", re.I)
 
 
 def derived_turns(text):
@@ -67,6 +76,31 @@ def derived_turns(text):
         if m:
             out.append((m.group(1).strip(), m.group(2).strip()))
     return out
+
+
+# Everything a label can say that is NOT a person's name, in both languages. A label is
+# allowed to be translated -- "Host" -> "Hos", "Speaker (unidentified)" -> "Penutur (tidak
+# dikenali)" -- because that is correct translation of a role, not speaker drift. Comparing
+# label STRINGS flagged 25 episodes and 21 of them were exactly this. What must not differ
+# between a file and its own translation is the set of PEOPLE NAMED.
+ROLE_WORDS = set("""
+host hosts hos ko-hos cohost co-host guest guests tetamu
+interviewer interviewers penemubual pewawancara moderator questioner penyoal penanya
+audience hadirin penonton speaker speakers penutur penceramah pembicara
+unidentified unknown unnamed tidak dikenali dikenal pasti dikenalpasti
+other others lain another multiple several beberapa pelbagai berbilang ramai
+overlapping bertindih banter sindiran voice suara narrator crew staff
+male female lelaki perempuan man woman seorang dan with the of a an
+""".split())
+NAME_TOKEN = re.compile(r"[A-Za-zÀ-ÿ][\w'’-]*")
+
+
+def names_in_label(label):
+    s = re.sub(r"[\[\]()]", " ", label)
+    s = re.sub(r"(speaker|penutur|penceramah)\s*[\d?]+", " ", s, flags=re.I)
+    s = s.replace("/", " ")
+    return {t for t in NAME_TOKEN.findall(s)
+            if t[0].isupper() and t.lower() not in ROLE_WORDS}
 
 
 def raw_speaker_names(raw_body):
@@ -105,15 +139,29 @@ def check(ep_dir):
             break
 
     names = raw_speaker_names(raw_body)
-    label_sets = {}
+    label_sets, name_sets = {}, {}
     for name in DERIVED:
         path = ep_dir / name
         if not path.exists():
             continue
         turns = derived_turns(path.read_text(encoding="utf-8"))
         label_sets[name] = Counter(label for label, _ in turns)
+        name_sets[name] = {label: names_in_label(label) for label, _ in turns}
 
-        generic = {l: n for l, n in label_sets[name].items() if GENERIC.match(l)}
+        numbered = Counter(l for l, _ in turns if DERIVED_PLACEHOLDER_RE.match(l))
+        if numbered:
+            shown = ", ".join(f"{k} x{v}" for k, v in numbered.most_common(3))
+            issues.append((
+                "published-placeholder",
+                f"{name} labels {sum(numbered.values())} turn(s) with a diarizer cluster "
+                f"id ({shown}) -- ep54 prints all 97 turns this way while its frontmatter "
+                f"names both hosts, and ep56 does it beside a 'Speaker 1 (Rafizi Ramli)' "
+                f"that gives the name away"))
+
+        # Exclude the numbered ones: published-placeholder already reports those, and
+        # counting them twice made 9 episodes carry two flags for one set of turns.
+        generic = {l: n for l, n in label_sets[name].items()
+                   if GENERIC.match(l) and not DERIVED_PLACEHOLDER_RE.match(l)}
         if generic and names:
             shown = ", ".join(f"{k} x{v}" for k, v in
                               sorted(generic.items(), key=lambda kv: -kv[1])[:3])
@@ -133,21 +181,29 @@ def check(ep_dir):
                     f"line turned out to be fabricated outright"))
                 break
 
-    # Group labels are SUPPOSED to differ between the files: "Multiple speakers" becomes
-    # "Beberapa Penceramah" in the Malay translation, which is correct translation and not
-    # drift. Comparing raw label sets reported 27 episodes, nearly all of them this.
-    if len(label_sets) == 3:
-        sets = [{l for l in v if not GROUP_LABEL.match(l)} for v in label_sets.values()]
-        shared = set.intersection(*sets)
-        unique = [s - shared for s in sets]
-        if any(unique):
-            detail = "; ".join(f"{n}: {sorted(u)[:3]}"
-                               for n, u in zip(label_sets, unique) if u)
+    # Compare the PEOPLE NAMED, not the label strings. A role translated into the target
+    # language is correct output; a person who exists in one file and not in its own
+    # translation is not. On the corpus this moves the signature from 25 episodes to 2:
+    # ep11, whose mixed file splits Iqbal into "Iqbal" (55 turns) and "Ikhbal" (9) where
+    # the English file correctly has all 64 as one person, and ep14, whose Malay file
+    # replaces the named Haziq with the role "Penemubual"/"Pewawancara".
+    if len(name_sets) == 3:
+        flat = {n: set().union(*v.values()) if v else set()
+                for n, v in name_sets.items()}
+        shared = set.intersection(*flat.values())
+        # A label that already carries a shared name identifies a person the other files
+        # know: "Speaker 1 (Rafizi Ramli)" beside their "Rafizi" is one person written two
+        # ways. Only labels naming somebody entirely new count.
+        unique = {n: {x for label, ns in v.items() if ns and not (ns & shared)
+                      for x in ns} - shared
+                  for n, v in name_sets.items()}
+        if any(unique.values()):
+            detail = "; ".join(f"{n}: {sorted(u)}" for n, u in unique.items() if u)
             issues.append((
                 "label-mismatch",
-                f"the three derived files disagree on speaker labels ({detail}) -- the "
-                f"same person is named differently between the mixed version and its own "
-                f"translations"))
+                f"the three derived files name different people ({detail}) -- either one "
+                f"person is spelt two ways, or a name present in one file was replaced by "
+                f"a bare role in its own translation"))
 
     interview = ep_dir / "interview.md"
     if interview.exists():
