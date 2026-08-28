@@ -1935,7 +1935,7 @@ into guessing.
 
 **Locating a second inside a collapsed block needs a separate tool.** A 62-minute block
 carries exactly one timestamp, so there is nothing to aim at.
-`scripts/_cohost_candidates.py` finds candidate seconds from two text-only signals: a
+`scripts/cohost_candidates.py` finds candidate seconds from two text-only signals: a
 `YB` vocative, which is always someone ADDRESSING Rafizi and so never Rafizi speaking,
 and run-sheet phrases. Timestamps come from the caption track's word-level timings, used
 purely as an index -- no caption text is written into any transcript, since `raw.md` is
