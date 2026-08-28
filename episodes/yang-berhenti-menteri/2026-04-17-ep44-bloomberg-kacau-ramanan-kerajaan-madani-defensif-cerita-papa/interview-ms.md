@@ -33,7 +33,7 @@ topics:
 - Political communication strategy and cybertrooper/bot narratives
 - Papa Gomo police case and PMO involvement
 - Upcoming PKR/Tangkap Azam Baki rally announcements
-summary: In episode 44 of the Podcast Yang Berhormat Menteri, Rafizi Ramli and co-host
+summary: In episode 44 of the Podcast Yang Berhenti Menteri, Rafizi Ramli and co-host
   Haziq open with the lighthearted "Beria" segment, mocking a range of viral news
   items — python gallbladder smuggling in Johor, Azam Baki's widely-mocked "financial
   advice" and the tactical squad now protecting him, an AI-generated meme linking
@@ -67,7 +67,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Rafizi:** Assalamualaikum dan salam sejahtera. Macam biasa, Podcast Yang Berhormat Menteri, episod yang ke-44. Sikit lagi kita nak masuk episod ke-52 — kenapa? Sebab satu tahun, 52 minggu, tanpa berhenti kan. Episod 44 ni, lebih kurang dua bulan lagi lah baru sampai 52. YB tak penat, YB? Nak jugalah, tapi nak buat macam mana, tak apalah. Ada orang kata "tak apalah" — nanti sekarang dah mula melalut kan, belum apa-apa lagi ni.
+**Rafizi:** Assalamualaikum dan salam sejahtera. Macam biasa, Podcast Yang Berhenti Menteri, episod yang ke-44. Sikit lagi kita nak masuk episod ke-52 — kenapa? Sebab satu tahun, 52 minggu, tanpa berhenti kan. Episod 44 ni, lebih kurang dua bulan lagi lah baru sampai 52. YB tak penat, YB? Nak jugalah, tapi nak buat macam mana, tak apalah. Ada orang kata "tak apalah" — nanti sekarang dah mula melalut kan, belum apa-apa lagi ni.
 
 **Haziq:** Cakap macam komen dekat KS tu kan? Ha?
 

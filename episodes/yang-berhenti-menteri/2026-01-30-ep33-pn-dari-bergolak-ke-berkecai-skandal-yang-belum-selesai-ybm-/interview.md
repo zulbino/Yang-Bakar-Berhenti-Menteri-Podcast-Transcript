@@ -79,7 +79,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Tak apa lah, bagi can lah dia nak try new things. Akhirnya.
 
-**Haziq:** Oleh itu, assalamualaikum dan selamat datang podcast Yang Menteri-Menteri kali ini tak lain tak bukan selain bersama saudara Rafizi, kita bersama YB Wong Chen, Ahli Parlimen Subang. Apa khabar YB?
+**Haziq:** Oleh itu, assalamualaikum dan selamat datang podcast Yang Berhenti Menteri kali ini tak lain tak bukan selain bersama saudara Rafizi, kita bersama YB Wong Chen, Ahli Parlimen Subang. Apa khabar YB?
 
 **Wong Chen:** Baik, baik. I didn't ask for this lah tapi tak apa, I'm happy to be here.
 

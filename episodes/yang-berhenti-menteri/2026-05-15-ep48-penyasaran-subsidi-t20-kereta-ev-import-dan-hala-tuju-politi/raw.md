@@ -16,7 +16,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [muzik/intro]
 
-[00:44] Haziq: Assalamualaikum dan salam sejahtera. Podcast Yang Berhormat Menteri episod ke-48. Macam biasa bersama saya dan saudara Rafizi yang nampak letih sikit.
+[00:44] Haziq: Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri episod ke-48. Macam biasa bersama saya dan saudara Rafizi yang nampak letih sikit.
 
 [00:54] Rafizi: Yalah, letih sebab banyak persediaan ke arah hari Ahad. Nanti kita sembang pasal hari Ahad kemudianlah, tapi yalah, banyak benda nak kena buat, nak kena pastikan semua berlaku dengan baiklah.
 

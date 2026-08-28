@@ -32,7 +32,7 @@ topics:
 - young Malaysian scientist Belvinda's Junior Nobel-style awards and brain drain
 - social security for gig/freelance arts workers (PERKESO)
 - criminal justice disparities between petty theft and corruption cases
-summary: 'Episode 27 of Rafizi Ramli''s podcast "Podcast Yang Menteri-Menteri" with
+summary: 'Episode 27 of Rafizi Ramli''s podcast "Podcast Yang Berhenti Menteri" with
   co-host Farhan (Pa''an). The show opens with the "Beria" segment covering viral
   topics: chef Khairul Aming''s restaurant Rembayung being reviewed before opening,
   Kamil Munim''s controversial support letters, an influencer being invited to officiate

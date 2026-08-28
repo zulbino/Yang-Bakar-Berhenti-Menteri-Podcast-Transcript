@@ -27,7 +27,7 @@ topics:
 - Dasar umur persaraan, penyertaan wanita, dan pekerja asing
 - Huru-hara dalaman PKR di cabang Kangar, Pandan, Kuala Selangor dan Tuaran
 - Penilaian setahun Nurul Izzah sebagai Timbalan Presiden PKR
-summary: Episod ke-45 Podcast Yang Multimenteri bersama Rafizi Ramli dan Pa'an membincangkan
+summary: Episod ke-45 Podcast Yang Berhenti Menteri bersama Rafizi Ramli dan Pa'an membincangkan
   segmen beria mingguan yang menyoroti billboard besar Ramanan Ramakrishnan, komen
   sufi Fuad Zakashi mengenai rasuah Rafizi, gate-crash Tengku Zafrul di majlis raya
   Pandan, penyelesaian saman fitnah Ahli Parlimen Jasin dengan Harakah, dan janji

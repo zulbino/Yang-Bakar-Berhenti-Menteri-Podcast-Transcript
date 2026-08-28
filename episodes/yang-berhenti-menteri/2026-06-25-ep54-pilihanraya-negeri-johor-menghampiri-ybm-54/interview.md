@@ -27,7 +27,7 @@ topics:
 - Candidate asset declaration and undated resignation letters as accountability measures
 - Volunteer-based, money-free campaign machine and KANCIL mobilisation system
 - Preview of Bersama's 15 candidates and nomination day event logistics
-summary: 'In this episode of the Podcast Yang Berhormat Menteri (Episod 54), broadcast
+summary: 'In this episode of the Podcast Yang Berhenti Menteri (Episod 54), broadcast
   briefly from a "secret" location in JB, Rafizi Ramli and his co-host run through
   the "Beria" segment of viral political news: a suspicious record-breaking PKR live
   stream with foreign/bot comments (Chittagong, Amharic-language commenters), an awkward
@@ -59,7 +59,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Speaker 1:** Assalamualaikum dan salam sejahtera, Podcast Yang Berhormat Menteri, Episod ke-54. Saya rasa agak kekok sikit, YB. Agaknya kenapa YB?
+**Speaker 1:** Assalamualaikum dan salam sejahtera, Podcast Yang Berhenti Menteri, Episod ke-54. Saya rasa agak kekok sikit, YB. Agaknya kenapa YB?
 
 **Speaker 2:** Kita live daripada tempat sulit, tempat rahsia daripada... hmm, JB. Haa, JB lah. Tempat ni dia macam ada alien sikit sebab dia ada banyak electrical charge kan, jadi kita orang tak boleh sentuh banyak sangat. Haziq baru sahaja kena electrocuted tadi. Dan hari ni kita yang paling pendek kot.
 

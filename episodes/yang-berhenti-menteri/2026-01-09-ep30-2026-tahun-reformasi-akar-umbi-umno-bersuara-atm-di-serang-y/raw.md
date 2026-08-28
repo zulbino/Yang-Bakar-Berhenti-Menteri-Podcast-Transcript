@@ -16,7 +16,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [Intro / Music]
 
-[02:45] Haziq: Assalamualaikum. Selamat datang, Podcast Yang Berkhidmat Menteri episod ke-30. Macam biasa, dengan saya dan saudara Rafizi.
+[02:45] Haziq: Assalamualaikum. Selamat datang, Podcast Yang Berhenti Menteri episod ke-30. Macam biasa, dengan saya dan saudara Rafizi.
 
 [02:54] Rafizi: Dia tersasul sebelum dia bagi assalamualaikum. Assalamualaikum.
 

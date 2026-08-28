@@ -17,7 +17,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 # Raw Transcript
 
-[01:08] Rafizi: Assalamualaikum dan selamat hari raya Podcast yang berti menteri Episod ke-41 Kau pakai baju raya lagi? Saya, YB dah habis beraya Saya belum lagi Aku raya diganggu Dengan Dengan Mr. R So, tapi kita orang tak koordinat ni tau Tapi memang dua-dua pakai baju merah Sebab sepatutnya memang terbakar Ya, dan saya dah takut dah YB Bila YB buat pendedahan pun Saya tengok media pun macam Nak report, tak report Tapi YB dalam keadaan semalam dah buat pendedahan, hari ini nak buat lagi. Kita nak sambung lagi dan hari ini sebab saya letih walaupun kita dah terang dengan dua video panjang lebar semua. netizen masih lagi tanya so MP yang Mr. R tu siapa so ini memang kalau ambil peperiksaan SPM ni banyak tak lepas lah
+[01:08] Rafizi: Assalamualaikum dan selamat hari raya Podcast Yang Berhenti Menteri Episod ke-41 Kau pakai baju raya lagi? Saya, YB dah habis beraya Saya belum lagi Aku raya diganggu Dengan Dengan Mr. R So, tapi kita orang tak koordinat ni tau Tapi memang dua-dua pakai baju merah Sebab sepatutnya memang terbakar Ya, dan saya dah takut dah YB Bila YB buat pendedahan pun Saya tengok media pun macam Nak report, tak report Tapi YB dalam keadaan semalam dah buat pendedahan, hari ini nak buat lagi. Kita nak sambung lagi dan hari ini sebab saya letih walaupun kita dah terang dengan dua video panjang lebar semua. netizen masih lagi tanya so MP yang Mr. R tu siapa so ini memang kalau ambil peperiksaan SPM ni banyak tak lepas lah
 
 [02:02] Farhan (Pa'an): mungkin sebab nama dia memang start dengan R
 
