@@ -2222,6 +2222,47 @@ trace: ep16 Haziq 29/29 and Rafizi 34/35, ep54 Haziq 26/26, ep51 Haziq 32/35 and
 **The repo is NOT clean and should not be published yet.** The two big classes are known,
 measured, and traceable to the rewrite stage rather than to the checks.
 
+### 1.41: ep61, where the transcript looked complete and was 92% one loop
+
+The first Gemini pass on ep61 ended at `[2:55:06]` against a 2:54:39 runtime, so I looked
+at the last timestamp and called coverage complete. It was 430 blocks holding **35 distinct
+texts** -- the same passages re-emitted every ~8m20s, 92% of the body duplicated, roughly
+seven minutes of real content stretched over three hours.
+
+`qa_check.py` caught all of it and I had not run it: 381 duplicate blocks, 2402s of missing
+middle, and a warning that the raw came from `gemini-flash-lite-latest` after two models
+fell back. **The checks were not the weak link here; skipping them was.** Timestamp
+coverage says nothing about content coverage, and a continuation loop is exactly the defect
+that keeps the clock looking healthy.
+
+**Recovery, in the order that worked.** Local ASR removed the loop (120k chars against
+Gemini's 7k unique) but pyannote returned five turns for the whole episode, two of them
+64k and 53k characters. `reattribute_blocks.py --threshold=0.55` re-cut those into 204
+turns and surfaced four speakers where the file had one. Voiceprints then separated them
+cleanly: 149.6 min at 0.961 against Rafizi, 20.9 min at 0.943 Haziq against 0.667 Rafizi.
+Two short clusters -- 1.2 min averaging 5s turns, and 18 seconds -- the tool itself calls
+unresolvable, and they stay `Speaker ?`.
+
+Worth noting for the next episode: at threshold 0.55 the re-cut had ALREADY been tried
+against the looped raw and its guard refused to write, because non-dominant speech would
+have fallen from 30.8 to 20.7 minutes. The same threshold on the same audio then worked
+once the text underneath was real. **The guard was protecting against bad input, not a bad
+threshold**, which is not something the abort message can tell you.
+
+**Rewrite variance is larger than the engine choice.** Four runs on this one episode, as a
+share of raw.md: Gemini quota-failing mid-run gave 24/24/13, Claude gave 32/20/19, Gemini
+on the corrected raw gave 63/60/64 and passed `check_rewrite_complete` for the first time,
+and a fourth run on that same input came back 39/34/35. Keep the best output and measure
+it; do not assume a rerun is an improvement.
+
+Also fixed: four Whisper degeneration loops (887 characters of `m`, 886 of `r`), the show
+name garbled to "Yang Berti Menteri", and `(Akta 672)` in all three published files -- a
+real statute number the rewrite supplied from world knowledge, which the speaker never
+says. A correct fact the transcript did not contain is still an insertion.
+
+ep61 ends with two flags, both familiar: 1393s of missing middle from VAD chunking, and
+40% Malay loss in the rewrite, the same class as the 14 older episodes.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider
