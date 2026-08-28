@@ -47,5 +47,26 @@
             "reason": "Isolated false phrase-lock, same as ep17. Only 3 of 12 samples match at all because ep21's YouTube captions run at about half normal word density (8,182 caption words over 9,574s), which is also why check_caption_coverage.py reports it inconclusive. Two of the three matched samples are tight (-33s, -36s); the +976s outlier is contradicted by 4-gram origin mapping, which puts block [7574] at audio 7596-7669s (correctly positioned) and its neighbour [7832] at 7841s. See ENGINEERING_LOG.md 1.23.",
             "date": "2026-08-27"
         }
+    },
+    "2026-02-20-ep36-2-5b-jv-1-1b-tuduhan-caprice-akan-disaman-kita-jawab-satu-sa": {
+        "oversized-block": {
+            "verdict": "benign",
+            "reason": "Genuine Rafizi monologue. TWO independent lines of evidence, neither of them the block's own label -- that was the circular error withdrawn on 2026-08-28. (1) Content: the 22.6-min block at [1:46:50] contains ZERO co-host markers across all of it. The four signatures present in every confirmed-mixed block are absent: no run-sheet clock reading (\"2 jam 40 minit\"), no segment hand-off, no question addressed to YB, no second-person address. It reads as sustained first-person self-defence, opening \"naya lah semua menteri dituduh salah guna kuasa\" and closing \"ini doa akulah kan. Aku tak nak mati\". (2) Acoustic: scripts/reattribute_blocks.py re-ran pyannote with an exact speaker count and left this block whole, on the same batch where it split ep45's 41-minute, ep44's 44-minute and ep43's 32-minute blocks into 153, 133 and 155 turns. The method demonstrably works on comparable episodes and declined here. Re-flag by deleting this entry if the episode is ever re-transcribed.",
+            "date": "2026-08-28"
+        }
+    },
+    "2026-06-05-ep51-so-it-begins-prn-johor-n9-tiada-madani-bagimu-ybm-51": {
+        "oversized-block": {
+            "verdict": "benign",
+            "reason": "Genuine Rafizi monologue. TWO independent lines of evidence, neither of them the block's own label -- that was the circular error withdrawn on 2026-08-28. (1) Content: the 20.9-min block at [17:02] contains ZERO co-host markers across all of it. The four signatures present in every confirmed-mixed block are absent: no run-sheet clock reading (\"2 jam 40 minit\"), no segment hand-off, no question addressed to YB, no second-person address. It reads as sustained policy exposition, \"bila saya jadi menteri ekonomi, tugas yang pertama ialah...\", running to JS-SEZ customs harmonisation. (2) Acoustic: scripts/reattribute_blocks.py re-ran pyannote with an exact speaker count and left this block whole, on the same batch where it split ep45's 41-minute, ep44's 44-minute and ep43's 32-minute blocks into 153, 133 and 155 turns. The method demonstrably works on comparable episodes and declined here. Re-flag by deleting this entry if the episode is ever re-transcribed.",
+            "date": "2026-08-28"
+        }
+    },
+    "2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-": {
+        "oversized-block": {
+            "verdict": "benign",
+            "reason": "Genuine Rafizi monologue. TWO independent lines of evidence, neither of them the block's own label -- that was the circular error withdrawn on 2026-08-28. (1) Content: the 23.6-min block at [1:29:28] contains ZERO co-host markers across all of it. The four signatures present in every confirmed-mixed block are absent: no run-sheet clock reading (\"2 jam 40 minit\"), no segment hand-off, no question addressed to YB, no second-person address. It reads as sustained analysis of whether a party can win on voter resentment alone; note this is NOT ep27's [1:11:24] block, which does contain co-host turns. (2) Acoustic: scripts/reattribute_blocks.py re-ran pyannote with an exact speaker count and left this block whole, on the same batch where it split ep45's 41-minute, ep44's 44-minute and ep43's 32-minute blocks into 153, 133 and 155 turns. The method demonstrably works on comparable episodes and declined here. Re-flag by deleting this entry if the episode is ever re-transcribed.",
+            "date": "2026-08-28"
+        }
     }
 }
