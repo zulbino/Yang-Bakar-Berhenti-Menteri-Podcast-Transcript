@@ -55,75 +55,75 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Speaker 2:** Assalamualaikum and welcome, Yang Berhenti Menteri, episode 16. That means... how many weeks is it? 4 weeks huh, 4 months.
+**Haziq:** Assalamualaikum and welcome, Yang Berhenti Menteri, episode 16. That means... how many weeks is it? 4 weeks huh, 4 months.
 
-**Speaker 1:** 4 months, YB.
+**Rafizi:** 4 months, YB.
 
-**Speaker 2:** Just testing my maths or what? YB, before we continue, I want to check — the experiment with me and "I" YB last week, are we going to continue or not?
+**Haziq:** Just testing my maths or what? YB, before we continue, I want to check — the experiment with me and "I" YB last week, are we going to continue or not?
 
-**Speaker 1:** We will continue and add one more. Because I read the comments — okay, some who were not quite satisfied, and it's true, because I always say "what's it called" which reminds people of Tun Mahathir. So this week I have to try to reduce saying "what's it called."
+**Rafizi:** We will continue and add one more. Because I read the comments — okay, some who were not quite satisfied, and it's true, because I always say "what's it called" which reminds people of Tun Mahathir. So this week I have to try to reduce saying "what's it called."
 
-**Speaker 2:** Okay, okay, okay. I'll ask friends to help track in the comments how many times I say "what's it called." Okay YB, as usual let's continue with the first segment — Beria, Beriamat. I hope it's "beria," let's see how it goes. Okay, let's look at the first one. As usual, we have a picture and YB explains what YB sees. Alright — the first one, what did you move onto?
+**Haziq:** Okay, okay, okay. I'll ask friends to help track in the comments how many times I say "what's it called." Okay YB, as usual let's continue with the first segment — Beria, Beriamat. I hope it's "beria," let's see how it goes. Okay, let's look at the first one. As usual, we have a picture and YB explains what YB sees. Alright — the first one, what did you move onto?
 
-**Speaker 1:** Yes, a fight. Suddenly the Azmin story came up, back to the video story again. This one I don't want to get involved in, I've already given my view in the form of a fat cat cartoon. So the nature of politicians is usually like this — friends today, fighting tomorrow, friends again the day after. For this one I think we should just take popcorn and eat. But hats off to Wan Saiful Wan Jan for so diligently digging up the video story again.
+**Rafizi:** Yes, a fight. Suddenly the Azmin story came up, back to the video story again. This one I don't want to get involved in, I've already given my view in the form of a fat cat cartoon. So the nature of politicians is usually like this — friends today, fighting tomorrow, friends again the day after. For this one I think we should just take popcorn and eat. But hats off to Wan Saiful Wan Jan for so diligently digging up the video story again.
 
-**Speaker 2:** Ok fine, no one asked, they suddenly fought on their own. Ok fine, the second one.
+**Haziq:** Ok fine, no one asked, they suddenly fought on their own. Ok fine, the second one.
 
-**Speaker 1:** Ha, can you tell? Where is this actually? This is Petron—
+**Rafizi:** Ha, can you tell? Where is this actually? This is Petron—
 
-**Speaker 2:** Jalan—
+**Haziq:** Jalan—
 
-**Speaker 1:** Tun Razak. Petron Jalan Tun Razak. Ha, not Pandan right? No, no, no. Ha this one, if it's Jalan Tun Razak, it's near Pusperawi right? Ha, near Wisma Sejarah right. A group of teenagers staged a protest after being told that the RM1.99 petrol price is for driving licence holders and card holders — this one doesn't have a licence, meaning he doesn't have a licence. Many said "thank you lah, thank you Petronas lah." Interesting, yeah this is really diligent. This is really the quality of diligence we should showcase in this podcast. So he's happy, showing a peace sign too. So does that mean he'll forever not have a licence? Something like that huh. Okay, okay, diligent. Next.
+**Rafizi:** Tun Razak. Petron Jalan Tun Razak. Ha, not Pandan right? No, no, no. Ha this one, if it's Jalan Tun Razak, it's near Pusperawi right? Ha, near Wisma Sejarah right. A group of teenagers staged a protest after being told that the RM1.99 petrol price is for driving licence holders and card holders — this one doesn't have a licence, meaning he doesn't have a licence. Many said "thank you lah, thank you Petronas lah." Interesting, yeah this is really diligent. This is really the quality of diligence we should showcase in this podcast. So he's happy, showing a peace sign too. So does that mean he'll forever not have a licence? Something like that huh. Okay, okay, diligent. Next.
 
 This isn't in Malaysia, this is in India. This one... people, what's it called, when I was young — the urban legend was that doctors have the worst handwriting, the ugliest. So in class it becomes a bit of a paradox, because usually if a student is a bit slow, their handwriting is bad. But if their handwriting is bad, the teacher would say "never mind, maybe one day he can become a doctor." So this is my first confirmation — I thought this was a judge being diligent in court, what case is this, because someone took the wrong medicine and died?
 
-**Speaker 2:** No. It's actually not the gist of the case at all. The case is about a scam and exploitation. It's just that the judge looked at the medical report and didn't understand it, so he got pissed off probably, that's why he issued something like that.
+**Haziq:** No. It's actually not the gist of the case at all. The case is about a scam and exploitation. It's just that the judge looked at the medical report and didn't understand it, so he got pissed off probably, that's why he issued something like that.
 
-**Speaker 1:** So but, if you write a prescription like this, eh, someone could die you know — giving the wrong medicine. So it's good, even though this doctor... this judge was so diligent that he issued a court order about it. But to doctors out there, especially those whose handwriting is really bad — maybe it's less relevant now, since everyone uses electronic systems. But if there are still those with bad handwriting like this, and to parents — if your child's handwriting is bad, don't say they might become a doctor one day. Court, okay, embrace technology — doctors need neater handwriting.
+**Rafizi:** So but, if you write a prescription like this, eh, someone could die you know — giving the wrong medicine. So it's good, even though this doctor... this judge was so diligent that he issued a court order about it. But to doctors out there, especially those whose handwriting is really bad — maybe it's less relevant now, since everyone uses electronic systems. But if there are still those with bad handwriting like this, and to parents — if your child's handwriting is bad, don't say they might become a doctor one day. Court, okay, embrace technology — doctors need neater handwriting.
 
-**Speaker 2:** Okay, fine. Let's look at what else there is. Ah, politics.
+**Haziq:** Okay, fine. Let's look at what else there is. Ah, politics.
 
-**Speaker 1:** PAS ready to meet Trump if... original context aside. Yeah, anyone would be ready to meet Trump. But I'm not sure whether Trump wants to meet Takiuddin or not — it's not easy to meet Trump. So I think PAS and Takiuddin are being diligent trying to impress everyone. But I think if the American embassy sees this, they'd just laugh. So this is also usually how politicians are diligent in saying all sorts of things, even though compared to the reality of the world, it doesn't make sense. It doesn't make sense for Trump to want to meet Takiuddin.
+**Rafizi:** PAS ready to meet Trump if... original context aside. Yeah, anyone would be ready to meet Trump. But I'm not sure whether Trump wants to meet Takiuddin or not — it's not easy to meet Trump. So I think PAS and Takiuddin are being diligent trying to impress everyone. But I think if the American embassy sees this, they'd just laugh. So this is also usually how politicians are diligent in saying all sorts of things, even though compared to the reality of the world, it doesn't make sense. It doesn't make sense for Trump to want to meet Takiuddin.
 
-**Speaker 2:** But if we look at the video, there's more reasoning — in one sentence he said, "If Trump doesn't come, PAS will protest. But if Trump comes, he must meet PAS. If he doesn't meet PAS, PAS will protest anyway." So either way...
+**Haziq:** But if we look at the video, there's more reasoning — in one sentence he said, "If Trump doesn't come, PAS will protest. But if Trump comes, he must meet PAS. If he doesn't meet PAS, PAS will protest anyway." So either way...
 
-**Speaker 1:** Never mind, that's just his style of argument. PAS's reasoning is usually like that — whatever happens, he's right. So I'm not surprised. So the message to Trump is — if you don't want protests, meet Takiuddin. Trump take note.
+**Rafizi:** Never mind, that's just his style of argument. PAS's reasoning is usually like that — whatever happens, he's right. So I'm not surprised. So the message to Trump is — if you don't want protests, meet Takiuddin. Trump take note.
 
-**Speaker 2:** Alright YB, we have four "diligent" items this time. Maybe YB, for the rating, I'll go back from the front — the fight that nobody asked for.
+**Haziq:** Alright YB, we have four "diligent" items this time. Maybe YB, for the rating, I'll go back from the front — the fight that nobody asked for.
 
-**Speaker 1:** This one because the popcorn factor is interesting, I'll give it four. Because this will provide interesting political content for the next three, four months. Congratulations to Wan Saiful for diligently digging up this video story. So I give it four stars.
+**Rafizi:** This one because the popcorn factor is interesting, I'll give it four. Because this will provide interesting political content for the next three, four months. Congratulations to Wan Saiful for diligently digging up this video story. So I give it four stars.
 
-**Speaker 2:** Wow yes, congratulations. Next.
+**Haziq:** Wow yes, congratulations. Next.
 
-**Speaker 1:** YB — I have to give this one many stars too, because I was entertained watching these kids, especially this one — whose child is this, willing to do what's it called, TikTok huh.
+**Rafizi:** YB — I have to give this one many stars too, because I was entertained watching these kids, especially this one — whose child is this, willing to do what's it called, TikTok huh.
 
-**Speaker 2:** Okay.
+**Haziq:** Okay.
 
-**Speaker 1:** This one, never mind, I'll give three, give three. Thank you Jash. Ha, thank you. This one too, because Takiuddin's expression is very — I think it's quite likely, if Trump sees it too, he'd feel that, due to fear of PAS's threat to protest. I think Trump might consider meeting Takiuddin so there won't be a protest. So I'll give this four too. See, there are three videos that are very diligent, getting four stars.
+**Rafizi:** This one, never mind, I'll give three, give three. Thank you Jash. Ha, thank you. This one too, because Takiuddin's expression is very — I think it's quite likely, if Trump sees it too, he'd feel that, due to fear of PAS's threat to protest. I think Trump might consider meeting Takiuddin so there won't be a protest. So I'll give this four too. See, there are three videos that are very diligent, getting four stars.
 
-**Speaker 2:** Alright.
+**Haziq:** Alright.
 
-**Speaker 1:** Alhamdulillah.
+**Rafizi:** Alhamdulillah.
 
-**Speaker 2:** Okay fine, so that's the "diligent" segment for this time. Let's move on to the next one, let's speed through the "diligent" segment a bit.
+**Haziq:** Okay fine, so that's the "diligent" segment for this time. Let's move on to the next one, let's speed through the "diligent" segment a bit.
 
-**Speaker 1:** Let's move straight to something more substantive.
+**Rafizi:** Let's move straight to something more substantive.
 
-**Speaker 2:** Yes.
+**Haziq:** Yes.
 
-**Speaker 1:** 8 minutes.
+**Rafizi:** 8 minutes.
 
-**Speaker 2:** Let's move to "Hidup Keras" (Life is Hard). As usual there are all sorts of stories. Is life still hard?
+**Haziq:** Let's move to "Hidup Keras" (Life is Hard). As usual there are all sorts of stories. Is life still hard?
 
-**Speaker 1:** Not enough yet I think, still hard.
+**Rafizi:** Not enough yet I think, still hard.
 
-**Speaker 2:** But let's see — okay, let's start with the first: Corruption, struggle or theater. None other than—
+**Haziq:** But let's see — okay, let's start with the first: Corruption, struggle or theater. None other than—
 
-**Speaker 1:** "Janji jerung" (shark promise) first, and Bersih, 2-3 years — I mean 3 years. This one is bound to get criticized, it's dangerous now, there'll be a chain of cyber troopers after this.
+**Rafizi:** "Janji jerung" (shark promise) first, and Bersih, 2-3 years — I mean 3 years. This one is bound to get criticized, it's dangerous now, there'll be a chain of cyber troopers after this.
 
-**Speaker 2:** But maybe I'll ask a fairly fair question — I'll present two rather ironic premises. First, if we compare with the previous government, I think indeed many sharks, or maybe baby sharks, have been caught — we have Tan Sri Abu Juling and so on, compared to the previous administration. But YB's data in the recent Hero campaign shows that public perception of corruption is still worrying to the people, and our CPI hasn't improved much either. So there are one or two rather contradictory premises. Maybe YB can respond.
+**Haziq:** But maybe I'll ask a fairly fair question — I'll present two rather ironic premises. First, if we compare with the previous government, I think indeed many sharks, or maybe baby sharks, have been caught — we have Tan Sri Abu Juling and so on, compared to the previous administration. But YB's data in the recent Hero campaign shows that public perception of corruption is still worrying to the people, and our CPI hasn't improved much either. So there are one or two rather contradictory premises. Maybe YB can respond.
 
-**Speaker 1:** Let's start with the CPI. I think this is a good point, no matter how people question the CPI. This CPI — Corruption Perception Index — is an index developed by Transparency International, used widely around the world to measure stakeholders' views in a country, including ordinary citizens, especially the business community, both local and foreign. So it's true, if you look at the CPI index, it hasn't changed much.
+**Rafizi:** Let's start with the CPI. I think this is a good point, no matter how people question the CPI. This CPI — Corruption Perception Index — is an index developed by Transparency International, used widely around the world to measure stakeholders' views in a country, including ordinary citizens, especially the business community, both local and foreign. So it's true, if you look at the CPI index, it hasn't changed much.
 
 I notice that when Dato' Seri Anwar hears people talking about corruption, he usually seems frustrated. And the impression I always get from him is that he feels the situation is actually better. That might be a challenge for any government — whatever the government does, in the end the government, or anyone in government, may feel they've done a lot, there are various initiatives, but the proof of the pudding — meaning the real measure — is a yardstick beyond our control, which becomes the benchmark. So the benchmark for corruption is largely the CPI. And if we look at the goals of Malaysia Madani, improving the CPI is also one of the main objectives.
 
@@ -137,17 +137,17 @@ I think — if you look throughout my time as a minister until now, I've stopped
 
 Similarly, if we look at major actions — Dato' Seri Anwar cannot simply say, "just because I've taken action under my government, MACC, Tan Sri Azam Baki is very brave." But if someone mentions something related to parties within the current government, no action is taken. So that, or for example if there are new figures whose talk is, "if you want project A, project B, you need to meet so-and-so" — if that isn't addressed, in the end it will become rhetoric that I don't think will stick with the people. And I haven't even said "what's it called" yet in all this.
 
-**Speaker 2:** Congratulations YB, YB has none.
+**Haziq:** Congratulations YB, YB has none.
 
-**Speaker 1:** This challenge — "government to clean up corruption mess within 3 years." This will continue to be quoted and repeated many times.
+**Rafizi:** This challenge — "government to clean up corruption mess within 3 years." This will continue to be quoted and repeated many times.
 
-**Speaker 2:** Alright YB, let's move to the next one. We still have — I think it's also a corruption issue: Ops Grip, MSCC busts smuggling ring—
+**Haziq:** Alright YB, let's move to the next one. We still have — I think it's also a corruption issue: Ops Grip, MSCC busts smuggling ring—
 
-**Speaker 1:** Hmm.
+**Rafizi:** Hmm.
 
-**Speaker 2:** It's just that the angle is quite broad, YB, so what I want to ask is... I was astonished and touched — looking at the comments, not touched, astonished — looking at comments on, what, social media. Among what I read: "the people lose out, can't get cheap tyres," or second, "at least he helped people sell at a cheap price." So I don't know, is this a challenge we face in fighting corruption, or is there something we need to fix starting with society itself?
+**Haziq:** It's just that the angle is quite broad, YB, so what I want to ask is... I was astonished and touched — looking at the comments, not touched, astonished — looking at comments on, what, social media. Among what I read: "the people lose out, can't get cheap tyres," or second, "at least he helped people sell at a cheap price." So I don't know, is this a challenge we face in fighting corruption, or is there something we need to fix starting with society itself?
 
-**Speaker 1:** No, there are two different matters here. The cheap tyre issue is a matter of supply and demand and also the competitiveness in our economy. So how do we compete? If the only way to sell something cheaper is by breaking the law, that's not acceptable — because one reason for the law is to ensure everyone competes on a level playing field. And so, even though buyers feel it's cheap, it's actually not good for the economy.
+**Rafizi:** No, there are two different matters here. The cheap tyre issue is a matter of supply and demand and also the competitiveness in our economy. So how do we compete? If the only way to sell something cheaper is by breaking the law, that's not acceptable — because one reason for the law is to ensure everyone competes on a level playing field. And so, even though buyers feel it's cheap, it's actually not good for the economy.
 
 A better way is for something to end up cheap because of a few factors — one, competitiveness in terms of scale. Second, when that scale is large, the unit cost is cheap. Third, competitiveness in terms of technology. This is how other countries with minimal corruption manage to develop their economy properly.
 
@@ -157,21 +157,21 @@ Same thing if the view is "never mind if he cheats or whatever, as long as we ge
 
 The second matter is about crime. So earlier was about society, the second matter is about crime — meaning, if someone under-declares, imports genuine tyres but declares them as counterfeit tyres, so that's why they don't pay tax to the government.
 
-**Speaker 2:** The ones smuggled in, are they used tyres only?
+**Haziq:** The ones smuggled in, are they used tyres only?
 
-**Speaker 1:** Used, yes. They import used tyres.
+**Rafizi:** Used, yes. They import used tyres.
 
-**Speaker 2:** Used, used — they declare them as imported used tyres. Yes that's right.
+**Haziq:** Used, used — they declare them as imported used tyres. Yes that's right.
 
-**Speaker 1:** I mean like this — they import genuine tyres but declare them as used tyres. So because they're declared as used tyres, the base cost is lower, maybe because it's second hand, maybe half the price. So the duty is calculated based on that base cost — that's why they can sell cheaply to people. Whereas others who import the same tyres, because they don't engage in corruption, can only sell at the correct price, including the duty paid to the government. So it's not fair to the government — meaning it's not fair to the people, but also not fair to others operating the same business. So this is something very dishonest, truly against the law.
+**Rafizi:** I mean like this — they import genuine tyres but declare them as used tyres. So because they're declared as used tyres, the base cost is lower, maybe because it's second hand, maybe half the price. So the duty is calculated based on that base cost — that's why they can sell cheaply to people. Whereas others who import the same tyres, because they don't engage in corruption, can only sell at the correct price, including the duty paid to the government. So it's not fair to the government — meaning it's not fair to the people, but also not fair to others operating the same business. So this is something very dishonest, truly against the law.
 
 So if we say "never mind, as long as we get a cheap price" — that's why I remember, from young, one thing my parents taught me — on the matter of halal and haram, we can't play around. Where something originates from, as much as possible we want to buy, to obtain something from a source we're confident is halal. If not, if it's doubtful, if we're unsure, don't bother — because what matters isn't just what we see reaching us, what's behind it also matters.
 
 So it's good that MACC exposed this, and I think there's still a lot of leakage at our ports, at our borders, on the matter of what's it called — declaration of imported goods for duty payment. There are all sorts of tricks. I... well, I was never involved in daily import-export matters, but when I used to work, I did focus a bit on what's it called, on goods coming in and out, ok, and from there, I inevitably had to know about import clearance and so on. So there are indeed many loopholes that need to be closed, and I think if properly checked, not just tyres, there are many more under-declared items that need to be cracked down on.
 
-**Speaker 2:** Ok fine.
+**Haziq:** Ok fine.
 
-**Speaker 2:** Clear. Let's look at another issue — Malaysia Kini suspended, 263 cyber troopers boosting the PM. Yes, I think, well, people can feel suspicious. But again, there's no clear evidence, so I ask, is it really fair for us to blame the government when the Communications Minister has already denied any connection? So how do we actually make a decision on this?
+**Haziq:** Clear. Let's look at another issue — Malaysia Kini suspended, 263 cyber troopers boosting the PM. Yes, I think, well, people can feel suspicious. But again, there's no clear evidence, so I ask, is it really fair for us to blame the government when the Communications Minister has already denied any connection? So how do we actually make a decision on this?
 
 **Rafizi:** No, first, as an ordinary person and also a party member. When I read this, I wasn't surprised at all. Because I went through it myself. In fact, before this matter was exposed 4-5 months ago, I had commented in one of my campaign speeches about the PKR Vietnam chapter. At that time, there was a story about it. I think it was in March this year. I do pay close attention to social media matters. So for my content on TikTok or Facebook and so on, I check who likes it, who comments. Not for any particular reason, I want to understand how we can close that communication gap, what different views there are and so on. So even the likes, sometimes I check who liked it.
 
@@ -185,7 +185,7 @@ It's a common practice worldwide, because there will always be people who create
 
 On top of that, when there's a troll farm liking everything, we think, oh wow, I'm actually popular. That's what caused — I think it's part of the reason — why someone like Dato' Seri Najib was once so confident he would win the 2018 general election. Because there's a gap between actual reality and the bubble we live in. So my advice — likely to whoever in PKR is doing this — if this is a way to flatter Dato' Seri Anwar Ibrahim, this doesn't help. It actually enlarges that bubble further, creating a mirage. You know, when it's hot, we see that shimmer — in Malay, "fatamorgana," a mirage — but there's actually no water there, it's just an illusion. It's the same here — using such methods creates a comfortable illusion when the actual reality is very different.
 
-**Speaker 2:** Alright. YB was talking about power. We have another topic about power too, YB, about the "deep state" in MOE. This is a recent statement from Dr. Mazli. But if we look from PH 1.0 until now, the "deep state" is talked about a lot every time, but we never actually hear how to overcome it. So YB has been in the corridors of power before — how do you see actually curbing the deep state problem in any government?
+**Haziq:** Alright. YB was talking about power. We have another topic about power too, YB, about the "deep state" in MOE. This is a recent statement from Dr. Mazli. But if we look from PH 1.0 until now, the "deep state" is talked about a lot every time, but we never actually hear how to overcome it. So YB has been in the corridors of power before — how do you see actually curbing the deep state problem in any government?
 
 **Rafizi:** I think this is easy escapism. Okay. Especially something often used by Pakatan Harapan supporters. Before 2018, there was concern that the government would never change, because the "deep state" would defend UMNO. This "deep state" meant government officials, civil servants. But it changed in 2018. Similarly, I think, nowadays whenever there's difficulty getting something done, the deep state issue comes up again and again.
 
@@ -207,7 +207,7 @@ So looking back over my more than two years as a minister, I never once mentione
 
 I understand, for example, at the Ministry of Education the bureaucracy might be heavier, because the Ministry of Education is huge, with many people. But ultimately it can't escape the minister, which is Dr. Mazli Malik. So be careful, especially those from PKR and PH, not to jump too quickly to say all this is "deep state." Civil servants are loyal to the government of the day. Whatever the government of the day instructs, they have to do. If they don't, the government of the day has the right to replace them, or find someone else, or make changes. But ultimately all of that comes back to the minister.
 
-**Speaker 2:** Alright, alright, alright. Just a quick follow-up question. YB might have had experience — what deep state did YB feel during the time YB was a minister before?
+**Haziq:** Alright, alright, alright. Just a quick follow-up question. YB might have had experience — what deep state did YB feel during the time YB was a minister before?
 
 **Rafizi:** So in my ministry, there wasn't any. My ministry really didn't have one, I didn't go through that deep state process. Sometimes there were indeed tense arguments. Tense arguments, meaning debates — I'd say this, a senior officer would say that, I'd say this — there were genuinely tense arguments. That I allowed, I could see it, "can't, YB, I disagree, actually it's like this, YB, like that." That happened. And they also knew I might disagree with their view. Some senior officers were more vocal, the way they said it felt like they wanted to argue with me. Some senior officers were more diplomatic, the way they'd say, "the situation is like this, YB," like that, and so on.
 
@@ -221,29 +221,29 @@ Similarly, when we drafted the CCUS Act, I informed my team it needed to be comp
 
 So I think, when it comes down to the implementation stage, most of the civil servants I met — and most of those who dealt with me were at least Grade 48, 52 and above, JUSA and so on — even those I saw at Grade 48, 44, most of them, once instructions were given, tried their best. There were varying levels of quality from different groups. But for me to conclude that it's hard to run this government because there's a "deep state" — I won't jump quickly to blame the deep state, because I prefer to look at myself first, if something didn't happen as it should have. If it's within my own ministry under my control, then the buck stops with me, and I need to roll up my sleeves and solve the problem myself.
 
-**Speaker 2:** Yes, yes, yes. But it's not easy to avoid calling it "deep state." Looking at it, YB, it seems to require a lot of persistence, and we need to persuade people so that the culture changes.
+**Haziq:** Yes, yes, yes. But it's not easy to avoid calling it "deep state." Looking at it, YB, it seems to require a lot of persistence, and we need to persuade people so that the culture changes.
 
 **Rafizi:** No, there's a difference, you know. The "deep state" that's often — because these are two different things. If we want to change culture, that exists in any organization. Even managing a school football team — I used to manage a school hockey team, and it was also hard to change the culture, they'd rather do things their own way, training starts at 5pm, not easy, the kids always have excuses. So, changing culture in any organization isn't easy. But when we say "deep state," it seems as if there's some grand conspiracy that will sabotage — it's not the same, you know, concluding there's a deep state, a grand conspiracy that will sabotage the Pakatan Harapan government. I think that is — we have to be a lot more careful about that.
 
-**Speaker 2:** I understand. So it could be a difference of opinion that wasn't managed properly, or a matter of performance.
+**Haziq:** I understand. So it could be a difference of opinion that wasn't managed properly, or a matter of performance.
 
-**Speaker 1:** On the issue of a culture of performance within an organization, let me give an example. If Mazli Malik were the CEO of a company and he couldn't get something implemented, surely he wouldn't say the company has a "deep state"?
+**Rafizi:** On the issue of a culture of performance within an organization, let me give an example. If Mazli Malik were the CEO of a company and he couldn't get something implemented, surely he wouldn't say the company has a "deep state"?
 
-**Speaker 2:** Right? So it becomes malicious when you say "deep state" like that.
+**Haziq:** Right? So it becomes malicious when you say "deep state" like that.
 
-**Speaker 1:** Meaning, my advice is to be careful about jumping quickly and easily pointing fingers, saying this is civil servant sabotage. Because that's a form of escapism.
+**Rafizi:** Meaning, my advice is to be careful about jumping quickly and easily pointing fingers, saying this is civil servant sabotage. Because that's a form of escapism.
 
-**Speaker 2:** Alright.
+**Haziq:** Alright.
 
-**Speaker 1:** And I'd rather encourage us to evaluate ourselves first, because as ministers, the buck stops with us.
+**Rafizi:** And I'd rather encourage us to evaluate ourselves first, because as ministers, the buck stops with us.
 
-**Speaker 2:** Alright, alright, alright.
+**Haziq:** Alright, alright, alright.
 
-**Speaker 1:** YB, is that clear? You've asked so much about this deep state thing that we went off track.
+**Rafizi:** YB, is that clear? You've asked so much about this deep state thing that we went off track.
 
-**Speaker 2:** Alright, so let's stop asking Ustaz about that, let's ask about something else. Maybe the last one — life is tough, everyone has contributed something, even Pharaoh. Hey, did you notice that?
+**Haziq:** Alright, so let's stop asking Ustaz about that, let's ask about something else. Maybe the last one — life is tough, everyone has contributed something, even Pharaoh. Hey, did you notice that?
 
-**Speaker 1:** Yes, yes, yes. Some people sent me this message, commenting directly at me. Some reporters also asked — what's it called... haha, no, can't, reset, reset, reset. Take a breath. Someone asked for my comment on Dato' Seri Anwar's statement that even Pharaoh had his merits. The context was that even Pharaoh had merits, but if you break the law, action must be taken. Meaning, even though there was no need to mention that Pharaoh had merits too. I'm not sure whether Dato' Seri Anwar mentioned "even Pharaoh had merits" because he wanted it to carry a connotation with Tun Mahathir. Because in the early days of the reformasi era, Tun Mahathir was referred to as "Mahafir'aun" [Pharaoh Mahathir]. So I'm not sure, really.
+**Rafizi:** Yes, yes, yes. Some people sent me this message, commenting directly at me. Some reporters also asked — what's it called... haha, no, can't, reset, reset, reset. Take a breath. Someone asked for my comment on Dato' Seri Anwar's statement that even Pharaoh had his merits. The context was that even Pharaoh had merits, but if you break the law, action must be taken. Meaning, even though there was no need to mention that Pharaoh had merits too. I'm not sure whether Dato' Seri Anwar mentioned "even Pharaoh had merits" because he wanted it to carry a connotation with Tun Mahathir. Because in the early days of the reformasi era, Tun Mahathir was referred to as "Mahafir'aun" [Pharaoh Mahathir]. So I'm not sure, really.
 
 This is the part where, if we're not careful, it will go back to what we discussed earlier about corruption. There will come a time when the public becomes saturated. And once that happens, many things will be seen as mere rhetoric. So if, for example, the overall messaging or communication from the government, particularly from Datuk Seri Anwar Ibrahim, gives the impression that the super-rich must be fought entirely, and that this is the symbol of "I am anti-corruption" — but the focus is only on two or three individuals, say, while at the same time we also have crony billionaires who remain wealthy no matter which government comes in — we have cronies like this, right — then if that rhetoric is seen as being applied only to certain groups, it will be viewed as just rhetoric.
 
@@ -259,27 +259,27 @@ So in the end it comes back to the question of consistency according to rules. Y
 
 And that also brings us back to the question of Tan Sri Azam Baki. Because if we say even Pharaoh had good deeds, then if he has violated rules, action needs to be taken. The issues raised about Tan Sri Azam Baki, including by Datuk Seri Anwar himself — I myself, before GE2022 — involved the use of his name or his brother's name, which clearly violated rules. So if we say it doesn't matter who he is, whether he has good deeds or not, because it is rule-based, then action needs to be taken. That's why keeping Tan Sri Azam Baki in place will continue to cause the messages from Datuk Seri Anwar Ibrahim to possibly lack teeth, as before.
 
-**Speaker 2:** Okay, YB. That's... intense. Not for everyone, but for this segment.
+**Haziq:** Okay, YB. That's... intense. Not for everyone, but for this segment.
 
-**Speaker 1:** You're mesmerized already.
+**Rafizi:** You're mesmerized already.
 
-**Speaker 2:** But there, maybe let me add one more thing, YB. I think when YB says something like that, your opponents will say, "This is the problem with brother Rafizi, being impractical" — if we were to follow the rules the way Fawzi describes, maybe the government wouldn't even be able to form, because we'd be forced to work with people we used to oppose, and all sorts of things couldn't move forward. Because, well, for example in money politics, that still happens systemically. If we're the only ones objecting, does that actually affect the greater good? So that's what's often thrown out there.
+**Haziq:** But there, maybe let me add one more thing, YB. I think when YB says something like that, your opponents will say, "This is the problem with brother Rafizi, being impractical" — if we were to follow the rules the way Fawzi describes, maybe the government wouldn't even be able to form, because we'd be forced to work with people we used to oppose, and all sorts of things couldn't move forward. Because, well, for example in money politics, that still happens systemically. If we're the only ones objecting, does that actually affect the greater good? So that's what's often thrown out there.
 
-**Speaker 1:** We're not alone. PKR, for instance, is a major party in the government. And Datuk Seri Anwar is not alone either — he's the Prime Minister. And I know, from my relationship with Datuk Seri Anwar before, that he sometimes feels frustrated, feeling that the expectations placed by the public for reform are too high and perhaps impractical.
+**Rafizi:** We're not alone. PKR, for instance, is a major party in the government. And Datuk Seri Anwar is not alone either — he's the Prime Minister. And I know, from my relationship with Datuk Seri Anwar before, that he sometimes feels frustrated, feeling that the expectations placed by the public for reform are too high and perhaps impractical.
 
-**Speaker 2:** Okay.
+**Haziq:** Okay.
 
-**Speaker 1:** Because we need to take into account — we need to consider this reality, right. But that's exactly why the people chose us, right? So we also cannot be at odds with that hope. So if, for example, we say that this is the practice of the ruling party now, we have the opportunity, so we need to be realistic — when you enter a goat pen you bleat, when you enter a buffalo or cow pen you... buffalo, what do they do — roar, low.
+**Rafizi:** Because we need to take into account — we need to consider this reality, right. But that's exactly why the people chose us, right? So we also cannot be at odds with that hope. So if, for example, we say that this is the practice of the ruling party now, we have the opportunity, so we need to be realistic — when you enter a goat pen you bleat, when you enter a buffalo or cow pen you... buffalo, what do they do — roar, low.
 
-**Speaker 2:** Please help us out in the comments.
+**Haziq:** Please help us out in the comments.
 
-**Speaker 1:** Hmm. Good thing I didn't sit for exams, good thing UPSR doesn't exist anymore now — if grammar came up, this language would be done for. No, if we say something like that, then the public will say, "there's no difference between you and the other parties." We chose you because after decades of you campaigning and giving speeches, we thought that once you got in, you would be different. Even with that hope alone, it's already difficult, it can't be done.
+**Rafizi:** Hmm. Good thing I didn't sit for exams, good thing UPSR doesn't exist anymore now — if grammar came up, this language would be done for. No, if we say something like that, then the public will say, "there's no difference between you and the other parties." We chose you because after decades of you campaigning and giving speeches, we thought that once you got in, you would be different. Even with that hope alone, it's already difficult, it can't be done.
 
 We could get angry — PKR, or the coalition, could take that kind of stance, no problem at all. But then we'd lose the election, because the public would say, "we chose you before because we thought you were different, but if you're just the same, never mind, we'll just choose whichever one is available." There you go.
 
-**Speaker 2:** Biobie, crystal clear. Let's move to the next segment, world affairs — this time it's largely related to the conflict in Gaza and Israel. Maybe let's start with the first one, Trump's Gaza plan — maybe let me ask directly, is it acceptable to bring good cars? [translator's note: sentence unclear in source]
+**Haziq:** Biobie, crystal clear. Let's move to the next segment, world affairs — this time it's largely related to the conflict in Gaza and Israel. Maybe let's start with the first one, Trump's Gaza plan — maybe let me ask directly, is it acceptable to bring good cars? [translator's note: sentence unclear in source]
 
-**Speaker 1:** That's a question that I think, if you ask anyone except Donald Trump and Benjamin Netanyahu and a few others, the majority of the world's population cannot accept it. Okay, YB.
+**Rafizi:** That's a question that I think, if you ask anyone except Donald Trump and Benjamin Netanyahu and a few others, the majority of the world's population cannot accept it. Okay, YB.
 
 There are two or three reasons, right. If we follow the negotiation developments more closely, the first stage happened between the Trump administration and leaders and representatives of some Islamic countries — that's where, I remember, Qatar, Saudi Arabia were included, I think Turkey was there too, Egypt was there too — and from that, there were a few points of potential agreement. But the next stage of negotiations was between the Trump administration and the Israeli government, with Benjamin Netanyahu, separately. And according to reports around the world, this bilateral engagement with Israel included — in part — Israel having veto power over any decision, including, for example, on withdrawal from Gaza, which would have to be based on Israel's goal of completely eliminating Hamas. So if that's the case, until doomsday, if Israel says Hamas is still there, nothing will change.
 
@@ -291,13 +291,13 @@ It was while Palestine was under the British Protectorate that the British Forei
 
 With everything that has happened over the past 100 years, right, and Trump's own stance, and Benjamin Netanyahu's last-minute intervention that changed part of the common ground between the Trump administration and the other Arab countries, then — it really doesn't make sense that anyone in the world could agree to this, and I don't see any sincerity in it at all. If there was genuine intent to resolve the crisis happening in Gaza now, the humanitarian crisis, right, it could happen easily. Even if there weren't complicated matters regarding Israel's claims, allegations and so on, it could happen easily if the world — meaning Donald Trump and the United States — forced Israel to stop the blockade, and allowed food to get in, humanitarian aid to get in. Solve it. If that happened, at least there would be some sincerity. Without that, in my view, whatever plan is discussed by anyone, while the blockade remains, we know there is no sincerity.
 
-**Speaker 2:** Okay, okay. I refer to the Wisma Putra statement: Malaysia welcomes the United States' efforts towards ending the war in Gaza. Touching on this — are these two different things, or is it appropriate for Malaysia to issue a statement like that?
+**Haziq:** Okay, okay. I refer to the Wisma Putra statement: Malaysia welcomes the United States' efforts towards ending the war in Gaza. Touching on this — are these two different things, or is it appropriate for Malaysia to issue a statement like that?
 
-**Speaker 1:** Diplomatic language is different, okay, right. So a country, because of many considerations to maintain good relations, especially Malaysia's trade relations with the United States, so that they can remain positive — I think that was the decision made at the Cabinet level and also by Wisma Putra, right. Welcoming that effort, I think, is diplomatic language — "we welcome any effort to resolve it." But I'm quite concerned, right — I haven't read the full statement.
+**Rafizi:** Diplomatic language is different, okay, right. So a country, because of many considerations to maintain good relations, especially Malaysia's trade relations with the United States, so that they can remain positive — I think that was the decision made at the Cabinet level and also by Wisma Putra, right. Welcoming that effort, I think, is diplomatic language — "we welcome any effort to resolve it." But I'm quite concerned, right — I haven't read the full statement.
 
-**Speaker 2:** Okay, alright YB. With that, let's move to the next issue — I think this is the elephant in the room. We were informed last night, YB, that 15 Malaysians were sent home from Europe, YB. I think everyone already understands and knows this story quite well. But if I may ask YB, actually, what would be the most appropriate response, what reaction should Malaysia take? Because there are many voices — we have Youth leader A, we have Youth leader B, saying "we need to cancel the invitation to Trump" for this ASEAN summit. So, how far do we need to react?
+**Haziq:** Okay, alright YB. With that, let's move to the next issue — I think this is the elephant in the room. We were informed last night, YB, that 15 Malaysians were sent home from Europe, YB. I think everyone already understands and knows this story quite well. But if I may ask YB, actually, what would be the most appropriate response, what reaction should Malaysia take? Because there are many voices — we have Youth leader A, we have Youth leader B, saying "we need to cancel the invitation to Trump" for this ASEAN summit. So, how far do we need to react?
 
-**Speaker 1:** Hmm... Yes, I — the government, I think, the priority is to ensure that Malaysians return home safely. First of all, for me, these brave souls have achieved their goal. As for politicians' responses, we can't really say much, right, each one will try to ride the wave and show who's the biggest hero. But for me, the response that should continue, led by politicians — if there are any who are truly brave and sincere — or then taken up by the public, is: we must produce not just 15 brave Malaysians like this, we must continuously produce hundreds more who follow in their footsteps, joining future flotillas.
+**Rafizi:** Hmm... Yes, I — the government, I think, the priority is to ensure that Malaysians return home safely. First of all, for me, these brave souls have achieved their goal. As for politicians' responses, we can't really say much, right, each one will try to ride the wave and show who's the biggest hero. But for me, the response that should continue, led by politicians — if there are any who are truly brave and sincere — or then taken up by the public, is: we must produce not just 15 brave Malaysians like this, we must continuously produce hundreds more who follow in their footsteps, joining future flotillas.
 
 So this flotilla effort cannot stop at this point, because this isn't just about — the short-term goal is, God willing, this humanitarian aid will be able to help the suffering people of Palestine right now. That's the short-term goal. The long-term goal is for us to mobilize humanitarian unity, humanitarian solidarity, to ensure that the people of the world stand united in rejecting Israel's cruelty.
 
@@ -309,37 +309,37 @@ So that's why, I pray this global flotilla effort will continue. If right now th
 
 So for us, especially for politicians — have you noticed, actually, if you count it, I haven't been all that vocal or fiery about Palestine. Yes, it's not that I don't... what's the word...
 
-**Speaker 2:** Don't see you wearing a keffiyeh.
+**Haziq:** Don't see you wearing a keffiyeh.
 
 **Rafizi:** It's not that I'm not interested or not sympathetic — since I was young, I've actually never missed a Palestine demonstration in the UK. Even as a former Member of Parliament, I was often invited to international conferences to speak about Palestine. Even in the British Parliament, right. So I think, if I were an ordinary citizen, I would say, you're a former minister, you're a senior political leader, surely you can do more than just that. So if it were up to me, if I didn't have considerations about my family and so on, I would really want to be there. Sometimes there are comments on social media, right — "let's go to war," "let's send [ships]," "go on, flotilla." As I said, we shouldn't stop at these 15 brave souls alone. I hope after this more people will be brave, and let's pray that more of us become the voice of the world. If not — as I said in a past podcast — I'm actually ashamed of myself, in front of my Muslim friends, and even my Jewish friends in the UK and US, who are far more vocal than I am, right.
 
 So as a former minister, we can't just make comments as we please because we're bound by government positions, right. As a Member of Parliament, if it's just issuing harsh statements here without daring to go there, I think I need to be honest — if I'm not as brave as they are, then I have no right to boast as if I were the greatest champion of Palestine. And in my current position, I'm no different from other Malaysians, who can only pray and help and contribute if possible. Going forward, more Malaysians want to join — our prayer is for new flotillas — because this needs to continue happening, and we pray it will build humanitarian unity across the world. And that, I believe, is one of the effective ways to pressure Israel and the United States. Okay.
 
-**Speaker 2:** YB, very inspiring. Do you want to go? Huh. Can you, YB? Yes. YB go first. Huh. No, I mean — after that we'll get more people to join. Huh, that's the problem.
+**Haziq:** YB, very inspiring. Do you want to go? Huh. Can you, YB? Yes. YB go first. Huh. No, I mean — after that we'll get more people to join. Huh, that's the problem.
 
 **Rafizi:** Don't get me wrong, this is a politician's problem. Huh. Talk, talk, talk, talk, then push someone else aside, we go. I really got hit hard on that one. Talk, talk. Yes, what now? Look behind. Huh, no one there, right. I want to go, YB.
 
-**Speaker 2:** Okay.
+**Haziq:** Okay.
 
 **Rafizi:** YB.
 
-**Speaker 2:** Ask—
+**Haziq:** Ask—
 
 **Rafizi:** —permission from my wife first, right. Okay.
 
-**Speaker 2:** Still single?
+**Haziq:** Still single?
 
 **Rafizi:** Oh, still single.
 
-**Speaker 2:** Then you can go. Alright. That's this week's world news, with brother Rafizi Ramli. Let's move on to a new story as usual. Wow. So if last week we looked at sodium salt batteries — sodium — let's see what we have. Wow, what do we have this week? We have the Unitree anti-gravity — it falls, gets up, keeps moving.
+**Haziq:** Then you can go. Alright. That's this week's world news, with brother Rafizi Ramli. Let's move on to a new story as usual. Wow. So if last week we looked at sodium salt batteries — sodium — let's see what we have. Wow, what do we have this week? We have the Unitree anti-gravity — it falls, gets up, keeps moving.
 
 **Rafizi:** First—
 
-**Speaker 2:** Yeah, it falls, then it just got back up, YB.
+**Haziq:** Yeah, it falls, then it just got back up, YB.
 
 **Rafizi:** Yeah.
 
-**Speaker 2:** I noticed that YB, actually, when you were Minister of Economy, went to visit Unitree in China. Maybe YB could share a bit — actually people say it's kind of, what's the word, small-scale, this company. I mean, to compare it with Boston Dynamics — but like Boston Dynamics, Boston Robotics — sorry, Boston Robotics, Boston Dynamics — what we're looking at here, how does it change our lives or...
+**Haziq:** I noticed that YB, actually, when you were Minister of Economy, went to visit Unitree in China. Maybe YB could share a bit — actually people say it's kind of, what's the word, small-scale, this company. I mean, to compare it with Boston Dynamics — but like Boston Dynamics, Boston Robotics — sorry, Boston Robotics, Boston Dynamics — what we're looking at here, how does it change our lives or...
 
 **Rafizi:** Have we ever met this robot? We have, it just wasn't around when we visited. When I was visiting China to secure early investment for JS-SEZ, for Johor and so on — one of the companies I spent about an hour or more visiting was Unitree. Because I asked my team at the Ministry of Economy at the time, which company is the most advanced in robotics technology. That company is Unitree, in Hangzhou. Hangzhou is, and they say the founder, the founder of Unitree, is this 25-year-old kid. When I met him, I thought he was some intern or something — dressed so casually in a t-shirt, jeans and slippers, you know. And it's true, his company is in a warehouse — people say a rundown warehouse — and his meeting room is so cramped, you can barely fit inside.
 
@@ -353,7 +353,7 @@ But before we comment on whether it's "small-time" or not — what's actually im
 
 So — that's why the Ministry of Economy actually had a collaboration with Unitree.
 
-**Speaker 2:** So maybe that's why you all chose Unitree.
+**Haziq:** So maybe that's why you all chose Unitree.
 
 **Rafizi:** The Ministry of Economy — but since we're no longer there, I don't know what's happening with it now. Actually, I gave the founder a challenge, this kid — well, he's not really a kid, he's 25 but has a PhD, truly impressive to have built all this. I challenged him, I said, this robot dog thing is tough, people might not want to buy it, but we have a big problem in Malaysia, which is harvesting oil palm, because we have a huge dependency on foreign workers for oil palm harvesting — even though the pay is high, over RM4,000, locals don't want to do it. So I told Unitree our challenge was to see whether, with their existing technology, it's possible for oil palm harvesting work, or other related tasks in collecting oil palm fruit, to be carried out by robots. Because if the price is RM80,000 each, there's actually a ready market for it, because the main problem for big plantation companies in Malaysia is not enough foreign workers, and no local workers available. Even for the workers they do have, they can't get enough of them.
 
@@ -363,15 +363,15 @@ Alright, and let's go back to this "small-time" comment — it only looks small-
 
 So I don't know, maybe I'll go meet my Unitree friends again — maybe we try to introduce these robots as servers in Malaysia, since they're not expensive. The price is actually around RM70,000–RM80,000 — and if it fits our economic needs, it's actually cheaper than paying foreign workers or humans.
 
-**Speaker 2:** Alright, YB. Clear, YB. That's it for Unitree. Let's move to the final segment — the last one, lots of questions. At least so far—
+**Haziq:** Alright, YB. Clear, YB. That's it for Unitree. Let's move to the final segment — the last one, lots of questions. At least so far—
 
 **Rafizi:** —only mentioned "what's-its-name" three times so far. That's good.
 
-**Speaker 2:** Eating humble pie, huh.
+**Haziq:** Eating humble pie, huh.
 
 **Rafizi:** Not really. Hey, it's not easy, you know, not easy, Bik. How do I make sure I don't say "what's-its-name," right. At the back of my mind there is a constant reminder — don't say "what's-its-name." Haa.
 
-**Speaker 2:** Hahaha. Alright, alright, alright, Bik. Let's move to the first question. From Wan Natasha: how does the proposal to end school at age 16 avoid a one-year gap before A-Levels/IB starting at 17, and will the government review the automatic placement of officers' or diplomats' children into international schools costing around RM100,000 per year, so that funding could be redirected to entry-level schools or a fixed RM100 allowance per child? Hmm. Um...
+**Haziq:** Hahaha. Alright, alright, alright, Bik. Let's move to the first question. From Wan Natasha: how does the proposal to end school at age 16 avoid a one-year gap before A-Levels/IB starting at 17, and will the government review the automatic placement of officers' or diplomats' children into international schools costing around RM100,000 per year, so that funding could be redirected to entry-level schools or a fixed RM100 allowance per child? Hmm. Um...
 
 **Rafizi:** First, I can't answer on behalf of the government, I can only give my opinion. I recall that the matter of A-Levels or IB starting at age 17 isn't actually a rule. It depends on when a student completes their secondary school qualifications to enter university. Some start A-Levels at 16, some start IB at 16, I believe. It's just that in Malaysia, because our secondary schooling currently ends at age 17, many start A-Levels or IB — for those watching, IB is International Baccalaureate. Europe uses IB a lot, the UK actually, the Commonwealth uses A-Levels a lot. In the US, it's not A-Levels, not IB, they use the SAT and others. But if we want to enter US universities, we'd still use either A-Levels or IB.
 
@@ -387,7 +387,7 @@ I actually don't know in detail the total amount the government bears annually f
 
 But to the public, I think many may only find out tonight that diplomats' children, when they return, or children of Wisma Putra officers, and some from MITI, some under the Prime Minister's Department — their children, even while serving in Malaysia, if they meet the eligibility criteria, get their education covered at international schools at 100,000 a year. Over 5 years, that's 500,000.
 
-**Speaker 2:** Okay, alright, YB. That's the first question. Let's look at the next question. From Furhan Rozi: what are the main barriers — materials technology and core design, capital volume, FAA certification — to developing a commercial or military jet engine industry in Malaysia, and to what extent do export controls like ITAR limit technology transfer? This...
+**Haziq:** Okay, alright, YB. That's the first question. Let's look at the next question. From Furhan Rozi: what are the main barriers — materials technology and core design, capital volume, FAA certification — to developing a commercial or military jet engine industry in Malaysia, and to what extent do export controls like ITAR limit technology transfer? This...
 
 **Rafizi:** I might answer this in a way that Furhan won't like. Because before we get into more detailed matters — certification issues, supply chain issues, let alone IP issues, as well as export controls and so on — this is an industry where only a handful of companies in the world have succeeded. This is for commercial and military jet engines in Malaysia. For jet engines, we have Boeing, we have Airbus. And now there's that Chinese company, what's it called? CC-something, COMAC. COMAC, I think. And in terms of aircraft companies, there are really only these two. What's the... yes, yes. Who jinxed me here? I said it smoothly without mentioning the name, right? There are other companies involved with military jet engines too. There aren't many of those companies in the world either. In the US we have McDonnell Douglas, we have Lockheed, and a few others. As I recall, usually the engine isn't made by the aircraft company itself — engines are usually made by, one of the well-known ones is GE. I'm not sure, I believe Rolls Royce also makes engines for all this.
 
@@ -395,28 +395,28 @@ So if we want to start on the question of developing a commercial and military j
 
 So if you look at civil aviation companies, airplanes, that's why there's only Airbus and Boeing, and now that Chinese company — because in Airbus's case, from the start, since it was a joint European effort mainly between France and the UK, and it was a European project, they could ensure European airlines started using it. Same with Boeing, since the aviation industry started in the US, it already had adoption, and from there it spread to the world. Same with the Chinese company, why can they do it? Because of adoption — they have a huge volume of Chinese airlines using it. If we build one, what would adoption look like? We'd have to fight against all that. So that's why, from the start, I said my answer might not be well received — either by Furhan or those in the aircraft industry. Because I think it's better for us to strengthen our position as part of the supply chain. For example, Malaysia has companies that supply wing components; for a large engine, maybe the blades come from Malaysia. Maybe some of the electronics come from Malaysia. So we strengthen our position in that supply chain, and that's enough for our country — at least for now, rather than us trying to build an engine to compete with what has already proven to be an oligopoly. Only a handful of companies have the resilience, technology, and enough money to survive. And most importantly, they have adoption support from either their home country or their market. Okay, alright.
 
-**Speaker 2:** Clear. And we have another question, from Afiq Ikhwan. Afiq Ikhwan asks: many politicians nowadays double as influencers — what's this, is this a jab at me or what, hahaha, who is Afiq — what principle does YB use to distinguish substantive policy communication from view-chasing content? How does YB evaluate ROI, time or resources spent going on the ground, making policy, versus recording content? And what are YB's red lines — sponsorship, factual accuracy, ethics around using officials, or data privacy?
+**Haziq:** Clear. And we have another question, from Afiq Ikhwan. Afiq Ikhwan asks: many politicians nowadays double as influencers — what's this, is this a jab at me or what, hahaha, who is Afiq — what principle does YB use to distinguish substantive policy communication from view-chasing content? How does YB evaluate ROI, time or resources spent going on the ground, making policy, versus recording content? And what are YB's red lines — sponsorship, factual accuracy, ethics around using officials, or data privacy?
 
 **Rafizi:** How many questions is this? There's like seven or eight questions in one. No, I don't see it as double-hatting, actually. Politicians must communicate. And whether we like it or not, communication these days is through social media. I was late to TikTok, for example, because TikTok came about while I was outside of politics. Actually, early on when I looked at TikTok, I wasn't that interested — TikTok seemed to be about people dancing, doing slapstick stuff. But like it or not, we have to accept that TikTok is an important, dominant medium of communication. Same as Facebook, same as YouTube, same as X. So part of a politician's function is to bring change to society, and that change must come from ideas, and we can't avoid communicating. I'm not particularly fond of podcasts, but they need to be done so we can convey information. So I think communication is unavoidable. What sometimes makes people angry is when you become the government — and this isn't just PH,
 
-**Speaker 2:** you know.
+**Haziq:** you know.
 
 **Rafizi:** UMNO before, Bersatu especially PAS — when they were the government, they completely dropped the ball on communication, they just sat around. So people didn't know, weren't informed, and so on. The question of whether it's influencers or policy communication depends on, and will be judged based on, the content, the issues and the positions we bring. That's why, if you look, I don't do gimmicky things. I would never — some people, if there's a trend on TikTok like this, some people will do that trend. I don't, because I see content through social media as part of the job of communicating. And whether people are interested or not, whether it gets a lot of clicks or not, that's a routine that needs to happen. For example, now every day I need to put out at least one piece of content. Not to chase views — that's my duty as a member of parliament. Before TikTok existed, or before video became the main medium for communicating content — looking back at 2012, 2013, towards 2018 — I issued a media statement every single day. That's been the case from the start, because we need to communicate. And I don't calculate ROI and so on. If, for instance, we set a routine that we need to communicate every day, then at least one hour needs to be devoted to recording. And I record it myself. I don't have expensive production, an expensive team. I always remember this too — sometimes PH supporters complain: "oh, why is Tengku Zafrul's so good, that person's is good, and mine is just so-so." I'm different because I'm careful with money. We could have all sorts of content, but if the team doing it is 7-8 people — wherever we go there are 4-5 people tagging along — unless we're millionaires who can pay for all that. If we're not paying out of our own pocket, that means we're using government money. Same as when I was at the Ministry of Economy before — the group that liked me less probably included journalists and media too, because I would never pay. I'm not like some other ministries that pay for media-buy content, whether on TV3 or FMT or whatever, so they'll write news, produce content like that until doomsday — I don't pay, because that's the people's money. So all the content I make, I really just set up my iPhone, record, speak myself. Then there's someone there who quickly edits and posts it. Because to me, we need to balance between the informational content we want to convey and the time it takes, and especially the cost, more so if that cost is borne by the government and the people. So if we can balance all that, then the people should judge our position based on the content, the facts, the message we deliver — not how many times I ride a bicycle, make content of riding a bicycle in the office or whatever — that shouldn't happen, that's not gimmicks we should be making. So that's my rule — YB is really anti-gimmick, because I feel gimmicks aren't authentic. I'm the type who — we need to be transparent, what you see is what you get. So if I'm not a great singer, there's no need for me to sing. Sanusi, well, maybe he feels he's a great singer, so he sings. So it's not that I can't sing, I can sing, but just to make content, to get clicks or whatever — that shouldn't be part of my duty as a member of parliament. Things that are personal to me, at home and all that, that's my personal matter. There's no need to turn it into content. So authenticity is very important, because if it's for gimmicks or to build an image as an artist, there's no need to become a politician. As politicians, people don't choose us because we can make all kinds of content that tickles the public's feelings, but actually people want to know what your views and positions are on issues or problems affecting the people, and how you intend to solve them. So we're against —
 
-**Speaker 2:** It wouldn't be like that either. I don't know, I don't really follow it. Is that so? Depends on someone's view or perspective. For example, ask me straightforwardly, I'll ask back — embarrassed to say it, for example Syed Saddiq. Oh, the "berpuatakan" one, right. Embarrassed to mention it, that's a friend of Syed Saddiq's, there is one.
+**Haziq:** It wouldn't be like that either. I don't know, I don't really follow it. Is that so? Depends on someone's view or perspective. For example, ask me straightforwardly, I'll ask back — embarrassed to say it, for example Syed Saddiq. Oh, the "berpuatakan" one, right. Embarrassed to mention it, that's a friend of Syed Saddiq's, there is one.
 
 **Rafizi:** Can't give him free promo. Well, that's each person's choice. It's just that I'm honestly not convinced that our effectiveness as a politician can be judged one hundred percent by like and view counts. Especially if those likes and views are through — that's a totally different consideration. I always remember the view or how people judge us — if we're a car salesman, then we need to focus on things that give value about the car to our customer. If I'm a house salesman, I must be knowledgeable and my subject matter is houses. So as a politician, whether it's liked or not, whether it goes viral or not — that's actually sometimes it goes viral, sometimes it doesn't — like I mentioned earlier, that likes will merely determine — going up or down, whatever it's called — raising or lowering a politician's prospects. What matters is, I see this matter of communication content as part of our job. We have a cause, we have views and we have changes we want to see in society, through forums. There are times we need to make short content, some of it through podcasts. Even though there are a lot of questions, that's fine.
 
-**Speaker 2:** We pick and choose. Pick and choose. Okay Afiq, how should we do it, that's the decision. Alright YB. That's it then. Yes. Ta-da. That's about it I think. Why did you make that face, ck, I don't agree YB — that. We'll change the picture next week. Pay cut.
+**Haziq:** We pick and choose. Pick and choose. Okay Afiq, how should we do it, that's the decision. Alright YB. That's it then. Yes. Ta-da. That's about it I think. Why did you make that face, ck, I don't agree YB — that. We'll change the picture next week. Pay cut.
 
 **Rafizi:** This is my face after Anwar Ibrahim was right in front of me, you know. At ASEAN, like that, ASEAN. Okay.
 
-**Speaker 2:** Okay YB, that's it. To the other friends, before leaving this podcast — first, like, comment and share. Shouldn't that have been said at the start? True, that's something we need to improve too. As for the riddle, how many times was [that word] said over the 2 hours 5 minutes.
+**Haziq:** Okay YB, that's it. To the other friends, before leaving this podcast — first, like, comment and share. Shouldn't that have been said at the start? True, that's something we need to improve too. As for the riddle, how many times was [that word] said over the 2 hours 5 minutes.
 
 **Rafizi:** Performance wasn't great earlier, towards the end it slipped quite a bit.
 
-**Speaker 2:** Yes, in the beginning
+**Haziq:** Yes, in the beginning
 
 **Rafizi:** it was good. But
 
-**Speaker 2:** never mind, there's room next week. Next week we'll get it to zero, so to speak. That's a bold statement. Whether we can do it or not, we'll meet next week. Assalamualaikum, see you again.
+**Haziq:** never mind, there's room next week. Next week we'll get it to zero, so to speak. That's a bold statement. Whether we can do it or not, we'll meet next week. Assalamualaikum, see you again.

@@ -56,75 +56,75 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Speaker 2:** Assalamualaikum dan selamat datang, Yang Berhenti Menteri, episod ke-16. Maksudnya dah... berapa minggu ya? 4 minggu ah, 4 bulan.
+**Haziq:** Assalamualaikum dan selamat datang, Yang Berhenti Menteri, episod ke-16. Maksudnya dah... berapa minggu ya? 4 minggu ah, 4 bulan.
 
-**Speaker 1:** 4 bulan YB.
+**Rafizi:** 4 bulan YB.
 
-**Speaker 2:** Saja nak test maths ke apa? YB, sebelum kita teruskan, saya nak check — adakah eksperimen saya dan "aku" YB minggu lepas tu, kita akan teruskan atau tak?
+**Haziq:** Saja nak test maths ke apa? YB, sebelum kita teruskan, saya nak check — adakah eksperimen saya dan "aku" YB minggu lepas tu, kita akan teruskan atau tak?
 
-**Speaker 1:** Kita akan teruskan dan tambah satu lagi. Sebab saya baca komen — okay yang kurang berpuas hati, dan memang betul lah, sebab saya selalu sebut "apa nama" ni mengingatkan kepada Tun Mahathir. Jadi minggu ini saya kena cuba kurangkan "apa nama."
+**Rafizi:** Kita akan teruskan dan tambah satu lagi. Sebab saya baca komen — okay yang kurang berpuas hati, dan memang betul lah, sebab saya selalu sebut "apa nama" ni mengingatkan kepada Tun Mahathir. Jadi minggu ini saya kena cuba kurangkan "apa nama."
 
-**Speaker 2:** Okey, okey, okey. Saya minta tolong kawan-kawan untuk track di komen berapa kali saya sebut "apa nama." Okey YB, macam biasa kita teruskan dengan segmen yang pertama — Beria, Beriamat. Saya harap berialah, kita tengok macam mana. Okey, kita tengok yang pertama. Macam biasalah, kita ada gambar dan YB explain apa yang YB tengok. Baik — yang pertama, apa yang awak pindahkan?
+**Haziq:** Okey, okey, okey. Saya minta tolong kawan-kawan untuk track di komen berapa kali saya sebut "apa nama." Okey YB, macam biasa kita teruskan dengan segmen yang pertama — Beria, Beriamat. Saya harap berialah, kita tengok macam mana. Okey, kita tengok yang pertama. Macam biasalah, kita ada gambar dan YB explain apa yang YB tengok. Baik — yang pertama, apa yang awak pindahkan?
 
-**Speaker 1:** Ya, bergaduh. Cuma tiba-tiba keluar cerita Azmin, balik cerita video balik lah. Yang ini saya tak nak campur lah, saya pun dah bagi pandangan saya dalam bentuk kartun kucing gemuk. Jadi perangai orang politik selalunya begini — hari ni kawan, esok bergaduh, lusa kawan balik. Yang ini saya rasa kita ambil popcorn, makan sahaja. Tapi saya salutlah kepada Wan Saiful Wan Jan kerana beria korek balik cerita pasal video.
+**Rafizi:** Ya, bergaduh. Cuma tiba-tiba keluar cerita Azmin, balik cerita video balik lah. Yang ini saya tak nak campur lah, saya pun dah bagi pandangan saya dalam bentuk kartun kucing gemuk. Jadi perangai orang politik selalunya begini — hari ni kawan, esok bergaduh, lusa kawan balik. Yang ini saya rasa kita ambil popcorn, makan sahaja. Tapi saya salutlah kepada Wan Saiful Wan Jan kerana beria korek balik cerita pasal video.
 
-**Speaker 2:** Ok baik baik, tak ada siapa yang tanya, mereka tiba-tiba gaduh sendiri. Ok baik, yang kedua.
+**Haziq:** Ok baik baik, tak ada siapa yang tanya, mereka tiba-tiba gaduh sendiri. Ok baik, yang kedua.
 
-**Speaker 1:** Haa, boleh perasan tak? Ini kat mana ni sebenarnya? Ini Petron—
+**Rafizi:** Haa, boleh perasan tak? Ini kat mana ni sebenarnya? Ini Petron—
 
-**Speaker 2:** Jalan—
+**Haziq:** Jalan—
 
-**Speaker 1:** Tun Razak. Petron Jalan Tun Razak. Haa, Pandan bukan lah kan? Bukan bukan bukan. Haa yang ini, kalau Jalan Tun Razak tu dia dekat Pusperawi kan? Haa, dekat Wisma Sejarah ni kan. Sekumpulan remaja melakukan protes setelah mereka diberitahu bahawa harga minyak RM1.99 untuk pemegang lesen pemandu dan main kad — dia tak ada lesen lah, maksudnya dia tak ada lesen. Ramai yang kata "thank you lah, thank you Pemex lah." Menarik, yelah ni sangat beria lah. Ini memang kualiti beria yang kita patut tunjukkan dalam podcast ini. Jadi seronok dia, tunjuk peace lagi. Maksudnya selama-lamanya ini dia memang tak ada lesen? Macam tu eh. Okay, okay, beria. Seterusnya.
+**Rafizi:** Tun Razak. Petron Jalan Tun Razak. Haa, Pandan bukan lah kan? Bukan bukan bukan. Haa yang ini, kalau Jalan Tun Razak tu dia dekat Pusperawi kan? Haa, dekat Wisma Sejarah ni kan. Sekumpulan remaja melakukan protes setelah mereka diberitahu bahawa harga minyak RM1.99 untuk pemegang lesen pemandu dan main kad — dia tak ada lesen lah, maksudnya dia tak ada lesen. Ramai yang kata "thank you lah, thank you Pemex lah." Menarik, yelah ni sangat beria lah. Ini memang kualiti beria yang kita patut tunjukkan dalam podcast ini. Jadi seronok dia, tunjuk peace lagi. Maksudnya selama-lamanya ini dia memang tak ada lesen? Macam tu eh. Okay, okay, beria. Seterusnya.
 
 Ini bukan kat Malaysia, ini kat India. Yang ini... orang, apa nama ni, dulu masa saya kecil-kecil lah — urban legend dia ialah tulisan doktor ni paling teruk sekali, paling buruk sekali lah. Jadi dalam kelas dia jadi macam paradoks sedikit, sebab selalunya kalau murid tu kurang pantas sikit, tulisan dia buruk. Tapi kalau tulisan dia buruk, cikgu kata "tak apalah, mungkin satu hari nanti boleh jadi doktor." Jadi ini pengesahan pertama saya — ingat beria hakim ni dalam mahkamah, kes apa ni, sebab orang tersalah makan ubat sampai mati ke?
 
-**Speaker 2:** No. It's actually bukannya the gist of the case pun. The case tu pasal scam dan exploitation. Cuma judge tu tengok medical report tu dia tak faham, so dia piss off lah kot, tu dia keluarkan macam tu lah.
+**Haziq:** No. It's actually bukannya the gist of the case pun. The case tu pasal scam dan exploitation. Cuma judge tu tengok medical report tu dia tak faham, so dia piss off lah kot, tu dia keluarkan macam tu lah.
 
-**Speaker 1:** Jadi tapi lah, kalau tulis prescription macam ini, eh boleh mati orang tau — salah bagi ubat. Jadi bagus lah, walaupun doktor ni... hakim ni beria-ia sampai buat bagi arahan mahkamah. Tapi kepada doktor-doktor di luar, terutamanya kepada yang tulisan memang buruk — mungkin sekarang kurang relevant kot, sebab semua pakai elektronik. Tapi kalau ada yang masih lagi tulisan buruk macam ini, dan kepada ibu bapa — kalau tulisan anak buruk, jangan cakap nanti boleh jadi doktor. Mahkamah, okey, ambil teknologi — doktor kena tulisan lebih cantik.
+**Rafizi:** Jadi tapi lah, kalau tulis prescription macam ini, eh boleh mati orang tau — salah bagi ubat. Jadi bagus lah, walaupun doktor ni... hakim ni beria-ia sampai buat bagi arahan mahkamah. Tapi kepada doktor-doktor di luar, terutamanya kepada yang tulisan memang buruk — mungkin sekarang kurang relevant kot, sebab semua pakai elektronik. Tapi kalau ada yang masih lagi tulisan buruk macam ini, dan kepada ibu bapa — kalau tulisan anak buruk, jangan cakap nanti boleh jadi doktor. Mahkamah, okey, ambil teknologi — doktor kena tulisan lebih cantik.
 
-**Speaker 2:** Okey, baik. Kita tengok lagi apa yang ada. Ah, politik.
+**Haziq:** Okey, baik. Kita tengok lagi apa yang ada. Ah, politik.
 
-**Speaker 1:** PAS sedia jumpa Trump sekiranya hadis sedang... kemucah asal. Yalah, siapa-siapa pun sedia berjumpa dengan Trump. Tapi saya tak pastilah Trump nak jumpa Takiuddin ke tidak — dia tak mudah nak jumpa Trump ni. Jadi saya ingat beria PAS dan Takiuddin ni cuba untuk impress sekalian lah. Tapi saya rasa kalau kedutaan Amerika tengok pun, dia gelak sajalah. Jadi ini juga selalunya macam mana orang politik beria cakap macam-macam, walaupun berbanding realiti dunia, benda itu tidak masuk akal. Tidak masuk akal lah kalau Trump nak jumpa Takiuddin.
+**Rafizi:** PAS sedia jumpa Trump sekiranya hadis sedang... kemucah asal. Yalah, siapa-siapa pun sedia berjumpa dengan Trump. Tapi saya tak pastilah Trump nak jumpa Takiuddin ke tidak — dia tak mudah nak jumpa Trump ni. Jadi saya ingat beria PAS dan Takiuddin ni cuba untuk impress sekalian lah. Tapi saya rasa kalau kedutaan Amerika tengok pun, dia gelak sajalah. Jadi ini juga selalunya macam mana orang politik beria cakap macam-macam, walaupun berbanding realiti dunia, benda itu tidak masuk akal. Tidak masuk akal lah kalau Trump nak jumpa Takiuddin.
 
-**Speaker 2:** Tapi kalau kita tengok video tu, dia lagi ada sebab — in one sentence dia kata, "kalau Trump tak datang, PAS protest. Tapi kalau Trump datang, kena jumpa dengan PAS. Kalau tak jumpa dengan PAS, PAS akan protes juga." So in both ways...
+**Haziq:** Tapi kalau kita tengok video tu, dia lagi ada sebab — in one sentence dia kata, "kalau Trump tak datang, PAS protest. Tapi kalau Trump datang, kena jumpa dengan PAS. Kalau tak jumpa dengan PAS, PAS akan protes juga." So in both ways...
 
-**Speaker 1:** Tak apalah, tu memang style dalil dia. Dalil daripada PAS selalunya, macam mana pun jadi, dia betul. Jadi saya tak terkejut lah kan. Jadi maksudnya mesej kepada Trump — kalau tak nak ada protes, jumpalah Takiuddin. Trump take note.
+**Rafizi:** Tak apalah, tu memang style dalil dia. Dalil daripada PAS selalunya, macam mana pun jadi, dia betul. Jadi saya tak terkejut lah kan. Jadi maksudnya mesej kepada Trump — kalau tak nak ada protes, jumpalah Takiuddin. Trump take note.
 
-**Speaker 2:** Baik YB, kita ada empat lah beria kali ni. Mungkin YB kalau nak rating, saya pergi balik dari depan — pergaduhan yang tak ada siapa tanya.
+**Haziq:** Baik YB, kita ada empat lah beria kali ni. Mungkin YB kalau nak rating, saya pergi balik dari depan — pergaduhan yang tak ada siapa tanya.
 
-**Speaker 1:** Ini sebab popcorn dia menarik lah kan, saya bagi empat lah. Sebab ini akan menyediakan konten politik yang menarik untuk tiga, empat bulan akan datang kan. Tahniah kepada Wan Saiful kerana beria-ia menggali balik cerita video ni. Jadi saya bagi empat bintang.
+**Rafizi:** Ini sebab popcorn dia menarik lah kan, saya bagi empat lah. Sebab ini akan menyediakan konten politik yang menarik untuk tiga, empat bulan akan datang kan. Tahniah kepada Wan Saiful kerana beria-ia menggali balik cerita video ni. Jadi saya bagi empat bintang.
 
-**Speaker 2:** Wah ya, tahniah. Seterusnya.
+**Haziq:** Wah ya, tahniah. Seterusnya.
 
-**Speaker 1:** YB — yang ini pun saya kena bagi banyak bintang jugalah, sebab saya terhibur tengok adik-adik ni lah, tengok terutamanya yang ini ni lah — ni anak siapa ni lah, sanggup buat apa nama ni, TikTok kan kan.
+**Rafizi:** YB — yang ini pun saya kena bagi banyak bintang jugalah, sebab saya terhibur tengok adik-adik ni lah, tengok terutamanya yang ini ni lah — ni anak siapa ni lah, sanggup buat apa nama ni, TikTok kan kan.
 
-**Speaker 2:** Okay.
+**Haziq:** Okay.
 
-**Speaker 1:** Yang ni tak apalah, beri tiga lah, beri tiga. Terima kasih Jash. Haa, terima kasih. Yang ini pun sebab muka Takiuddin tu sangat — saya tengok besar kemungkinan lah, kalau Trump tengok pun, dia rasa oleh kerana takut ugutan PAS untuk buat protes. Saya ingat Trump mungkin akan pertimbangkan untuk jumpa Takiuddin supaya tidak ada protes. Maka saya bagi empat juga. Tengok, dia ada tiga video yang sangat beria dapat empat bintang.
+**Rafizi:** Yang ni tak apalah, beri tiga lah, beri tiga. Terima kasih Jash. Haa, terima kasih. Yang ini pun sebab muka Takiuddin tu sangat — saya tengok besar kemungkinan lah, kalau Trump tengok pun, dia rasa oleh kerana takut ugutan PAS untuk buat protes. Saya ingat Trump mungkin akan pertimbangkan untuk jumpa Takiuddin supaya tidak ada protes. Maka saya bagi empat juga. Tengok, dia ada tiga video yang sangat beria dapat empat bintang.
 
-**Speaker 2:** Baik.
+**Haziq:** Baik.
 
-**Speaker 1:** Alhamdulillah.
+**Rafizi:** Alhamdulillah.
 
-**Speaker 2:** Okay baik, jadi itu yang beria kali ini. Kita teruskan yang seterusnya, kita cepat sikit lah yang beria ni kan.
+**Haziq:** Okay baik, jadi itu yang beria kali ini. Kita teruskan yang seterusnya, kita cepat sikit lah yang beria ni kan.
 
-**Speaker 1:** Kita terus kepada yang lebih substantif.
+**Rafizi:** Kita terus kepada yang lebih substantif.
 
-**Speaker 2:** Yes.
+**Haziq:** Yes.
 
-**Speaker 1:** 8 minit lah.
+**Rafizi:** 8 minit lah.
 
-**Speaker 2:** Kita terus ke "Hidup Keras." Macam biasalah ada macam-macam cerita. Hidup masih keras ke?
+**Haziq:** Kita terus ke "Hidup Keras." Macam biasalah ada macam-macam cerita. Hidup masih keras ke?
 
-**Speaker 1:** Belum cukup kot, masih lagi keras.
+**Rafizi:** Belum cukup kot, masih lagi keras.
 
-**Speaker 2:** Tapi kita tengok — okay, kita mulai yang pertama: Korupsi, perjuangan atau teater. Tak lain tak bukan—
+**Haziq:** Tapi kita tengok — okay, kita mulai yang pertama: Korupsi, perjuangan atau teater. Tak lain tak bukan—
 
-**Speaker 1:** Janji jerung dulu, dan Bersih, 2-3 tahun — nak maksudkan 3 tahun lah. Yang ini mesti kena kecam ni kan, bahaya sekarang ni, ada cyber trooper berangkai kan lepas ni.
+**Rafizi:** Janji jerung dulu, dan Bersih, 2-3 tahun — nak maksudkan 3 tahun lah. Yang ini mesti kena kecam ni kan, bahaya sekarang ni, ada cyber trooper berangkai kan lepas ni.
 
-**Speaker 2:** Tapi mungkin saya bagi soalan yang agak fair lah — saya kemukakan dua premise yang agak ironi. Pertama, kalau kita bandingkan dengan kerajaan dulu, saya rasa memanglah banyak isu jerung-jerung, atau mungkin anak jerung, yang ditangkap — kita ada Tan Sri Abu Juling dan sebagainya, berbanding dengan pentadbiran lalu. Tapi data YB dalam kempen Hero yang lepas menunjukkan persepsi rasuah dalam kalangan rakyat masih membimbangkan rakyat, dan CPI kita pun taklah banyak improve. Jadi ada satu, dua premise yang agak kontradik. Mungkin YB boleh respon.
+**Haziq:** Tapi mungkin saya bagi soalan yang agak fair lah — saya kemukakan dua premise yang agak ironi. Pertama, kalau kita bandingkan dengan kerajaan dulu, saya rasa memanglah banyak isu jerung-jerung, atau mungkin anak jerung, yang ditangkap — kita ada Tan Sri Abu Juling dan sebagainya, berbanding dengan pentadbiran lalu. Tapi data YB dalam kempen Hero yang lepas menunjukkan persepsi rasuah dalam kalangan rakyat masih membimbangkan rakyat, dan CPI kita pun taklah banyak improve. Jadi ada satu, dua premise yang agak kontradik. Mungkin YB boleh respon.
 
-**Speaker 1:** Kita bermula daripada CPI. Saya ingatkan ini titik yang baik, walau macam mana pun orang persoalkan CPI. CPI ini — Corruption Perception Index — iaitu satu indeks yang dibangunkan oleh Transparency International, yang digunakan secara meluas di seluruh dunia untuk mengukur pandangan pemegang taruh dalam sesebuah negara, termasuklah rakyat biasa, terutamanya juga komuniti bisnes, termasuk yang dalam dan luar negara. Jadi memang betul, kalau tengok kepada indeks CPI, tidaklah begitu banyak berubah.
+**Rafizi:** Kita bermula daripada CPI. Saya ingatkan ini titik yang baik, walau macam mana pun orang persoalkan CPI. CPI ini — Corruption Perception Index — iaitu satu indeks yang dibangunkan oleh Transparency International, yang digunakan secara meluas di seluruh dunia untuk mengukur pandangan pemegang taruh dalam sesebuah negara, termasuklah rakyat biasa, terutamanya juga komuniti bisnes, termasuk yang dalam dan luar negara. Jadi memang betul, kalau tengok kepada indeks CPI, tidaklah begitu banyak berubah.
 
 Saya tengok kalau Dato' Seri Anwar, dia selalunya nampak macam frustrated kalau orang bercerita pasal rasuah. Dan gambaran yang saya selalu dapat daripada dia itu ialah kerana sebenarnya keadaannya lebih baik. Itu mungkinlah juga cabaran kepada mana-mana kerajaan — apa-apa yang dibuat oleh kerajaan, akhirnya kerajaan, atau sesiapa yang ada dalam kerajaan, mungkin rasa dah banyak benda buat, ada pelbagai inisiatif, tetapi the proof of the pudding — maksudnya ukuran sebenar — ialah kayu ukur yang di luar kawalan kita, yang menjadi penanda aras kan. Jadi penanda aras untuk rasuah ini ialah CPI yang besar lah. Dan kalau tengok kepada matlamat Malaysia Madani itu, peningkatan CPI itu juga ialah salah satu daripada matlamat utama.
 
@@ -138,17 +138,17 @@ Saya rasalah — kalau tengok saya sepanjang saya jadi menteri sehingga sekarang
 
 Begitu juga kalau kita tengok dari segi tindakan-tindakan besar — Dato' Seri Anwar tidak boleh semata-mata berkata, "hanya kerana saya telah ambil tindakan di bawah kerajaan saya, SPRM ini, Tan Sri Azam Baki sangat berani." Tetapi kalau ada orang sebut yang berkaitan dengan parti-parti di dalam kerajaan sekarang, tak ada tindakan. Jadi itu, ataupun contohnya kalau dilihat ada tokoh-tokoh baru ini yang cakap-cakapnya ialah, kalau nak projek A, projek B kena jumpa si polan-polan — kalau itu tidak ditangani, akhirnya akan jadi retorik yang saya tak rasa akan melekat dengan rakyat. Sakat ini belum sebut "apa nama" lagi.
 
-**Speaker 2:** Tahniah YB, YB takde.
+**Haziq:** Tahniah YB, YB takde.
 
-**Speaker 1:** Cabaran ni — "government to clean up corruption mess within 3 years." Yang ini akan terus dipetik dan diulang berkali-kali lah.
+**Rafizi:** Cabaran ni — "government to clean up corruption mess within 3 years." Yang ini akan terus dipetik dan diulang berkali-kali lah.
 
-**Speaker 2:** Baik YB, kita ke yang seterusnya. Kita ada lagi — saya rasa isu rasuah juga: Ops Grip, MSCC berautaya seludup—
+**Haziq:** Baik YB, kita ke yang seterusnya. Kita ada lagi — saya rasa isu rasuah juga: Ops Grip, MSCC berautaya seludup—
 
-**Speaker 1:** Hmm.
+**Rafizi:** Hmm.
 
-**Speaker 2:** Cuma angle tu agak banyak lah YB, jadi apa yang nak ditanya ni... Cuma saya terkesima dan terharu — tengok komen-komen, bukan terharu lah, terkesima — tengok komen-komen daripada, apa, dekat social media kan. Antara yang saya baca lah: "rakyat lah rugi, tak dapat tayar murah," atau yang kedua, "at least dia tolong orang jual harga murah." Jadi saya tak tahu, adakah ini cabaran kita nak menghadapi, nak melawan rasuah, ataupun ada sesuatu yang kita kena betulkan bermula dengan masyarakat?
+**Haziq:** Cuma angle tu agak banyak lah YB, jadi apa yang nak ditanya ni... Cuma saya terkesima dan terharu — tengok komen-komen, bukan terharu lah, terkesima — tengok komen-komen daripada, apa, dekat social media kan. Antara yang saya baca lah: "rakyat lah rugi, tak dapat tayar murah," atau yang kedua, "at least dia tolong orang jual harga murah." Jadi saya tak tahu, adakah ini cabaran kita nak menghadapi, nak melawan rasuah, ataupun ada sesuatu yang kita kena betulkan bermula dengan masyarakat?
 
-**Speaker 1:** Tak, dia ada dua perkara yang berbeza. Soal tayar murah ni ialah soal supply demand dan juga soal kompetitiveness — daya saing yang ada dalam ekonomi kita, kan. Jadi macam mana kita nak bersaing? Kalau untuk boleh menjual sesuatu itu dengan lebih murah, kita hanya nampak jalan untuk melanggar undang-undang, dia tak boleh — kerana undang-undang itu salah satu sebabnya ialah untuk memastikan semua orang bersaing pada landasan yang adil. Dan sebab itu pembeli merasakan itu murah, sebenarnya tidak baik untuk ekonomi lah.
+**Rafizi:** Tak, dia ada dua perkara yang berbeza. Soal tayar murah ni ialah soal supply demand dan juga soal kompetitiveness — daya saing yang ada dalam ekonomi kita, kan. Jadi macam mana kita nak bersaing? Kalau untuk boleh menjual sesuatu itu dengan lebih murah, kita hanya nampak jalan untuk melanggar undang-undang, dia tak boleh — kerana undang-undang itu salah satu sebabnya ialah untuk memastikan semua orang bersaing pada landasan yang adil. Dan sebab itu pembeli merasakan itu murah, sebenarnya tidak baik untuk ekonomi lah.
 
 Cara yang lebih baik ialah supaya akhirnya, kalau perkara itu murah, disebabkan oleh beberapa perkara — satu, daya saingnya dari segi skala. Kedua, bila skala itu besar, unit kosnya murah. Ketiga, daya saing dari segi teknologi. Ini cara negara-negara lain yang rasuahnya minimal tetapi dapat membangunkan ekonomi dia yang berpatutan.
 
@@ -158,21 +158,21 @@ Sama juga kalau pandangannya ialah "tak apalah dia tipu ke apa, asalkan kita dap
 
 Perkara kedua ialah soal jenayah. Jadi tadi yang soal masyarakat, perkara kedua ialah soal jenayah lah, maksudnya — kalau dia under-declare, dia import tayar yang tulen, tapi dia declare sebagai tayar tiruan, jadi sebab itu dia tak bayar cukai kepada kerajaan.
 
-**Speaker 2:** Yang disuang tu terpakai tak saja?
+**Haziq:** Yang disuang tu terpakai tak saja?
 
-**Speaker 1:** Terpakai, ya. Dia import tayar terpakai.
+**Rafizi:** Terpakai, ya. Dia import tayar terpakai.
 
-**Speaker 2:** Terpakai, terpakai — dia declare import tayar terpakai. Ya betul lah.
+**Haziq:** Terpakai, terpakai — dia declare import tayar terpakai. Ya betul lah.
 
-**Speaker 1:** Maksudnya begini — dia import tayar tulen tapi dia declare sebagai tayar terpakai kan. Jadi oleh kerana itu tayar terpakai, maka base cost dia adalah lebih murah lah, mungkin sebab second hand kan, mungkin half the price. Jadi duty itu dikira berdasarkan kepada base cost tu — sebab itu dia boleh jual murah kepada orang. Sedangkan orang lain yang import tayar yang sama, oleh kerana dia tak rasuah, dia hanya boleh jual pada harga yang betul, termasuk dengan duty yang dibayar kepada kerajaan. Jadi tidak berlaku adil kepada kerajaan — maksudnya tak berlaku adil kepada rakyatlah, tetapi juga tak berlaku adil kepada orang lain yang sama-sama mengusahakan. Jadi perkara ini adalah sesuatu yang sangat tidak jujur, memang melanggar undang-undang.
+**Rafizi:** Maksudnya begini — dia import tayar tulen tapi dia declare sebagai tayar terpakai kan. Jadi oleh kerana itu tayar terpakai, maka base cost dia adalah lebih murah lah, mungkin sebab second hand kan, mungkin half the price. Jadi duty itu dikira berdasarkan kepada base cost tu — sebab itu dia boleh jual murah kepada orang. Sedangkan orang lain yang import tayar yang sama, oleh kerana dia tak rasuah, dia hanya boleh jual pada harga yang betul, termasuk dengan duty yang dibayar kepada kerajaan. Jadi tidak berlaku adil kepada kerajaan — maksudnya tak berlaku adil kepada rakyatlah, tetapi juga tak berlaku adil kepada orang lain yang sama-sama mengusahakan. Jadi perkara ini adalah sesuatu yang sangat tidak jujur, memang melanggar undang-undang.
 
 Jadi kalau kita kata "tak apalah, asalkan kami dapat harga yang murah" — sebab itu saya ingat, saya daripada kecil lah kan, satu perkara yang saya dididik oleh mak ayah saya lah — di soal halal haram ni, kita tak boleh nak main-main. Punca dia, asal dia daripada mana, seboleh-bolehnya lah kita nak beli, nak dapatkan sesuatu daripada sesuatu yang memang kita yakin benda tu halal. Kalau bukan, tak kita macam subhah, kita macam ragu-ragu, tak payahlah — kerana tak penting apa yang kita nampak masuk kat kita je, yang kat belakang-belakang itu juga adalah penting kan.
 
 Jadi baguslah SPRM bongkar, dan saya rasa banyak lagi ketirisan di pelabuhan-pelabuhan kita, di sempadan kita, soal apa nama ni — pengisytiharan barangan import untuk dibayar duty ni. Ada macam-macam trik lah kan. Saya dulu... yelah, tak pernah lah terlibat secara tiap-tiap hari soal import-export ni kan, tapi dulu masa saya kerja, saya pernah lah fokus sedikit tentang apa nama ni, soal barang keluar masuk, ok, and daripada situ, nak tak nak terpaksa tahulah tentang import clearance dan sebagainya kan. Jadi memang ada banyak lompong-lompong yang perlu ditutup kan, dan saya rasa kalau semak betul-betul, bukan sahaja tayar, banyak lagi perkara-perkara yang under-declare yang perlu dibanteras.
 
-**Speaker 2:** Ok baik.
+**Haziq:** Ok baik.
 
-**Speaker 2:** Clear. Kita tengok lagi isu lain — Malaysia Kini digantung, 263 cyber trooper angkat PM. Ya, saya rasa, yelah, orang boleh rasa suspicious. Tapi again lah, dia tak ada bukti yang jelas, jadi saya tanya, betul ke adil kita nak salahkan kerajaan dalam keadaan Menteri Komunikasi pun dah nafikan dia tak ada kaitan? So macam mana kita nak buat decision benda ni sebenarnya?
+**Haziq:** Clear. Kita tengok lagi isu lain — Malaysia Kini digantung, 263 cyber trooper angkat PM. Ya, saya rasa, yelah, orang boleh rasa suspicious. Tapi again lah, dia tak ada bukti yang jelas, jadi saya tanya, betul ke adil kita nak salahkan kerajaan dalam keadaan Menteri Komunikasi pun dah nafikan dia tak ada kaitan? So macam mana kita nak buat decision benda ni sebenarnya?
 
 **Rafizi:** Taklah, pertama, sebagai orang biasa dan juga orang parti lah kan. Bila saya baca ini, saya tidak terkejut langsung lah. Kerana saya melaluinya sendiri lah. Malah sebenarnya, sebelum perkara ini dibongkarkan 4-5 bulan yang lalu, saya pernah komen dalam satu ceramah kempen saya tentang PKR cabang Vietnam. Pada ketika itu, ada cerita dia lah, nak cerita dia lah kan. Saya ingat dalam bulan Mac tahun ini lah. Saya memang teliti kalau bab-bab social media ni. Jadi kalau kandungan saya di TikTok ke Facebook dan sebagainya kan, saya semak siapa yang like, siapa yang komen. Bukan sebab apa, saya nak memahami bagaimana untuk kita menutup jurang komunikasi itu, apa pandangan yang berbeza dan sebagainya. Jadi yang like tu pun kadang-kadang saya semak siapa yang like.
 
@@ -186,7 +186,7 @@ Ia adalah satu amalan biasa di dunia, kerana akan tetap ada orang yang menghasil
 
 Tambah pula bila ada troll farm yang duk pergi like semua ni, kita rasa, oh hebat, oh saya sebenarnya popular. Itulah yang menyebabkan — saya ingat sebahagian sebab lah — kenapa macam Dato' Seri Najib dahulu, dia sangat yakin dia menang dalam PRU 2018. Kerana ada terpisah di antara realiti sebenar dan bubble yang kita duduk. Jadi nasihat saya lah, kepada, besar kemungkinan lah orang-orang PKR lah yang buat ni kan — kalau ini cara untuk membodek Dato' Seri Anwar Ibrahim, ini tidak membantu. Ini sebenarnya membesarkan lagi bubble itu, dia mewujudkan mirage. You know kan, kita kalau panas kan kita tengok panas — dalam bahasa Melayu, fatamorgana lah, dia mirage kan, tapi sebenarnya tak ada air, itu hanya ilusi. Sama juga lah, bila menggunakan cara begini, dia mewujudkan ilusi yang selesa sedangkan realiti sebenarnya sangat berbeza.
 
-**Speaker 2:** Baik. YB bercakap tentang kuasa. Kita ada satu lagi topik tentang kuasa juga, YB, tentang deep state MOE. Ini kenyataan baru-baru ini daripada Dr. Mazli lah. Cuma kalau kita tengok daripada PH 1.0 sampai sekarang, deep state ni setiap kali banyak lah dicakap, tapi kita tak pernah dengar pun macam mana kita nak overcome ke apa. Jadi YB dah pernah berada di koridor kuasa, YB tengok macam mana nak kekang sebenarnya masalah deep state dalam mana-mana kerajaan pun?
+**Haziq:** Baik. YB bercakap tentang kuasa. Kita ada satu lagi topik tentang kuasa juga, YB, tentang deep state MOE. Ini kenyataan baru-baru ini daripada Dr. Mazli lah. Cuma kalau kita tengok daripada PH 1.0 sampai sekarang, deep state ni setiap kali banyak lah dicakap, tapi kita tak pernah dengar pun macam mana kita nak overcome ke apa. Jadi YB dah pernah berada di koridor kuasa, YB tengok macam mana nak kekang sebenarnya masalah deep state dalam mana-mana kerajaan pun?
 
 **Rafizi:** Saya rasa ini eskapisme yang mudah. Okay. Terutamanya yang selalu digunakan oleh penyokong-penyokong Pakatan Harapan. Sebelum 2018 dahulu, ada kebimbangan kerajaan tidak akan bertukar lah, kerana deep state ini akan mempertahankan UMNO. Deep state ini maksudnya pegawai kerajaan lah, penjawat-penjawat awam kan. Tapi dia bertukar 2018. Sama juga, saya ingat, sekarang ini kalau ada apa-apa kepayahan untuk melakukan sesuatu, soal deep state ini akan kembali-balik.
 
@@ -208,7 +208,7 @@ Jadi kalau tengok lah dalam dua tahun lebih saya jadi menteri, saya tak pernah s
 
 Saya faham lah, kalau contoh di Kementerian Pendidikan mungkin birokrasi dia tinggi, sebab Kementerian Pendidikan ni besar, ramai orang kan. Tapi akhirnya ia tidak boleh lari daripada menterinya, ialah Dr. Mazli Malik. Jadi berhati-hati lah, terutamanya mereka daripada PKR dan PH, supaya jangan cepat sangat melompat mengatakan semua ini ialah deep state. Penjawat awam ini dia setia kepada the government of the day. Apa yang government of the day arahkan, dia kena buat. Kalau dia tak buat, government of the day itu ada hak untuk tukar ke, ataupun untuk cari orang lain ke, ataupun untuk ubah. Tapi semua itu akhirnya berbalik kepada menteri itu.
 
-**Speaker 2:** Baik, baik, baik. Just soalan susulan sikit lah. YB mungkin ada pengalaman — apa deep state yang YB rasa dekat waktu YB menjadi menteri dulu?
+**Haziq:** Baik, baik, baik. Just soalan susulan sikit lah. YB mungkin ada pengalaman — apa deep state yang YB rasa dekat waktu YB menjadi menteri dulu?
 
 **Rafizi:** Jadi kementerian saya tak ada. Kementerian saya tak ada sebenarnya, saya tak melalui proses deep state itu. Kadang-kadang memang berlaku lah tense arguments. Tense arguments, maksudnya hujah — saya kata begini-begini, pegawai kanan kata begitu-begitu, saya kata begini — memang tense arguments lah. Yang itu saya benarkan, saya boleh lihat, "tak boleh YB, tak setuju, sebenarnya begini YB, gitu-gitu." Ada. Dan dia orang pun tahu sebenarnya saya mungkin tak bersetuju dengan pandangan itu. Ada pegawai kanan yang mungkin lebih vokal, cara dia sebut itu macam nak bergaduh dengan aku lah. Ada pegawai kanan yang lebih diplomatik, cara dia sebut, "keadaannya begini YB," ha gitu-gitu kan, nanti begitu kan.
 
@@ -222,29 +222,29 @@ Sama juga bila kita buat Akta CCUS, saya maklumkan kepada pasukan saya, perlu di
 
 Jadi saya ingat, bila sampai ke peringkat pelaksanaan tu, sebahagian besar penjawat awam yang saya jumpa lah — dan kebanyakan yang berurusan dengan saya ni pangkat dia ialah pangkat paling kurang 48, 52 ke atas lah, JUSA dan sebagainya kan — hatta yang saya tengok grade 48, 44 pun, kebanyakannya bila arahan itu telah diberikan, mereka cuba sedaya upaya. Ada mutu yang berbeza-beza lah daripada kumpulan yang berbeza-beza. Tapi untuk saya buat keputusan bahawa susah nak jadi kerajaan ni kerana ada deep state — saya tak akan cepat melompat untuk menyalahkan deep state lah, kerana saya lebih suka cermin diri saya dulu, kalau ada sesuatu perkara itu tidak berlaku seperti yang sepatutnya. Kalau ia di dalam kementerian saya yang di bawah kawalan saya, maka the buck stops at me, dan saya yang perlu sing-sing lengan turun dan selesaikan masalah itu lah.
 
-**Speaker 2:** Ya, ya, ya. Tapi bukan mudah lah untuk tidak cakap benda tu deep state. Tengok-tengok, YB, dia macam memerlukan kecekalan dan kita nak pujuk supaya budaya tu diubah.
+**Haziq:** Ya, ya, ya. Tapi bukan mudah lah untuk tidak cakap benda tu deep state. Tengok-tengok, YB, dia macam memerlukan kecekalan dan kita nak pujuk supaya budaya tu diubah.
 
 **Rafizi:** Tak, beza tau. Deep state yang selalu di — sebab itu dua perkara berbeza. Kalau kita nak ubah budaya, itu mana-mana organisasi pun ada. Kita jaga pasukan bola sekolah pun — saya dulu pernah uruskan pasukan hoki sekolah, pun payah nak ubah budaya, dia nak suka dia turun pukul 5 petang start training, tak mudah tau, ada je alasan budak-budak ni kan. So, mana-mana organisasi pun nak ubah budaya, tak mudah. Tapi bila disebut deep state ini, ia seolah-olah ada konspirasi besar yang akan mensabotaj — tak sama tau, kesimpulan ada deep state, konspirasi besar yang akan mensabotaj kerajaan Pakatan Harapan. I think that is — we have to be a lot more careful about that.
 
-**Speaker 2:** I understand. So it can be perbezaan pandangan yang tak diuruskan, ataupun soal performance.
+**Haziq:** I understand. So it can be perbezaan pandangan yang tak diuruskan, ataupun soal performance.
 
-**Speaker 1:** Soal culture of performance di dalam sesebuah organisasi ini, saya beri contoh. Kalau Mazli Malik jadi CEO satu syarikat, dia tidak dapat melaksanakan sesuatu perkara, takkan dia nak kata syarikat itu ada deep state?
+**Rafizi:** Soal culture of performance di dalam sesebuah organisasi ini, saya beri contoh. Kalau Mazli Malik jadi CEO satu syarikat, dia tidak dapat melaksanakan sesuatu perkara, takkan dia nak kata syarikat itu ada deep state?
 
-**Speaker 2:** Kan? Jadi malice pula bila cakap deep state tu.
+**Haziq:** Kan? Jadi malice pula bila cakap deep state tu.
 
-**Speaker 1:** Maksudnya, saya menasihatkan supaya berhati-hati untuk melompat dan dengan mudah untuk tuding jari, kata ini sabotaj penjawat awam. Kerana itu satu eskapism.
+**Rafizi:** Maksudnya, saya menasihatkan supaya berhati-hati untuk melompat dan dengan mudah untuk tuding jari, kata ini sabotaj penjawat awam. Kerana itu satu eskapism.
 
-**Speaker 2:** Baik.
+**Haziq:** Baik.
 
-**Speaker 1:** Dan saya lebih menggalakkan supaya kita nilai diri kita sendiri, kerana sebagai menteri, the buck stops at us.
+**Rafizi:** Dan saya lebih menggalakkan supaya kita nilai diri kita sendiri, kerana sebagai menteri, the buck stops at us.
 
-**Speaker 2:** Baik, baik, baik.
+**Haziq:** Baik, baik, baik.
 
-**Speaker 1:** YB, clear. Banyak sangat kau tanya pasal deep state ni sampai terkeluar.
+**Rafizi:** YB, clear. Banyak sangat kau tanya pasal deep state ni sampai terkeluar.
 
-**Speaker 2:** Baik, jadi kita berhentilah bertanya bersama Ustaz, kita bertanya benda lain. Mungkin yang terakhir — dalam hidup ni keras, semua berjasa, termasuk Fir'aun. Weh, perasan?
+**Haziq:** Baik, jadi kita berhentilah bertanya bersama Ustaz, kita bertanya benda lain. Mungkin yang terakhir — dalam hidup ni keras, semua berjasa, termasuk Fir'aun. Weh, perasan?
 
-**Speaker 1:** Ya, ya, ya. Ada orang duk hantar mesej inilah kat saya, comment saya terus. Ada juga wartawan tanyalah — apa nama ni... hahaha, tak boleh, reset, reset, reset. Tarik nafas. Ada orang tanya komen saya mengenai kenyataan Dato' Seri Anwar yang Fir'aun pun ada jasa. Konteks dia ialah, Fir'aun pun ada jasa, tapi kalau melanggar undang-undang, tindakan itu perlu diambil. Maksudnya, walaupun tidak payahlah sebut Fir'aun pun ada jasa, kan. Saya tak pasti Dato' Seri Anwar sebut Fir'aun pun ada jasa itu sebab dia nak ada konotasi dengan Tun Mahathir. Sebab di awal-awal zaman reformasi dahulu, Tun Mahathir ni disebut sebagai Mahafir'aun. Jadi saya tak pastilah, kan.
+**Rafizi:** Ya, ya, ya. Ada orang duk hantar mesej inilah kat saya, comment saya terus. Ada juga wartawan tanyalah — apa nama ni... hahaha, tak boleh, reset, reset, reset. Tarik nafas. Ada orang tanya komen saya mengenai kenyataan Dato' Seri Anwar yang Fir'aun pun ada jasa. Konteks dia ialah, Fir'aun pun ada jasa, tapi kalau melanggar undang-undang, tindakan itu perlu diambil. Maksudnya, walaupun tidak payahlah sebut Fir'aun pun ada jasa, kan. Saya tak pasti Dato' Seri Anwar sebut Fir'aun pun ada jasa itu sebab dia nak ada konotasi dengan Tun Mahathir. Sebab di awal-awal zaman reformasi dahulu, Tun Mahathir ni disebut sebagai Mahafir'aun. Jadi saya tak pastilah, kan.
 
 Kita di sini bahagian yang, kalau tidak berhati-hati, dia akan kembali seperti yang kita bincang pasal rasuah tadi. Akan sampai masa rakyat sudah tepu. Dan bila tepu itu, banyak perkara akan dilihat sebagai retorik. Jadi kalau contohnya keseluruhan messaging ataupun komunikasi daripada kerajaan, terutamanya daripada Datuk Seri Anwar Ibrahim, ialah memberi gambaran bahawa maha-kaya-maha-kaya yang ada ini perlu diperangi sepenuhnya, dan itulah lambang bahawa "saya ini anti-rasuah" — tetapi ditumpukan kepada dua, tiga orang contohnya, kan, pada masa yang sama kita juga ada kroni-kroni jutawan yang kaya-kaya, yang mana-mana kerajaan pun masuk mereka akan mendapat tempat. Kita ada kroni-kroni yang kaya begini, kan. Jadi kalau dilihat bahawa retorik itu hanya digunakan untuk golongan-golongan tertentu sahaja, maka dia akan dilihat sebagai retorik lah.
 
@@ -260,27 +260,27 @@ Jadi akhirnya dia akan kembali kepada soal konsistensi mengikut peraturan. You m
 
 Dan itu juga yang kembali kepada persoalan Tan Sri Azam Baki. Sebab kalau kita kata Fir'aun pun ada jasa, maka kalau dia telah melanggar peraturan, maka perlu diambil tindakan. Soal yang dibangkitkan mengenai Tan Sri Azam Baki, termasuk oleh Dato' Seri Anwar sendiri, saya sendiri sebelum PRU 2022 dahulu, yang menggunakan nama dia atau adik dia yang secara jelasnya melanggar peraturan. Jadi kalau kita kata tak kisahlah siapa dia, dia ada jasa ke tak ada jasa, because it is rule based, maka tindakan perlu diambil. Sebab itu, mengekalkan Tan Sri Azam Baki akan terus menyebabkan mesej-mesej daripada Datuk Seri Anwar Ibrahim ini mungkin tidak ada teeth, macam sebelum-sebelum ini.
 
-**Speaker 2:** Okey baik, YB. Itu... jekut. Bukan untuk semua lah, tapi untuk segmen kali ini.
+**Haziq:** Okey baik, YB. Itu... jekut. Bukan untuk semua lah, tapi untuk segmen kali ini.
 
-**Speaker 1:** Terkasima terus kau.
+**Rafizi:** Terkasima terus kau.
 
-**Speaker 2:** Tapi itulah, mungkin saya selit satu lagi, YB. Saya rasa bila YB cakap macam itu, opponent YB akan cakap, "inilah masalah saudara Rafizi yang tidak praktikal" — kalaulah kita nak ikut rule macam yang Fawzi sebut, mungkin kerajaan pun tak terbentuk, sebab kita terpaksa bekerjasama dengan orang yang dulu kita tentang, dan macam-macam benda tak boleh bergerak. Sebab, yelah, contohnya dalam politik wang, benda tu masih lagi berlaku secara sistemik. Bila kita seorang saja yang membantah, adakah benda tu memberi kesan kepada the greater good? Jadi itulah yang selalu dihamburkan.
+**Haziq:** Tapi itulah, mungkin saya selit satu lagi, YB. Saya rasa bila YB cakap macam itu, opponent YB akan cakap, "inilah masalah saudara Rafizi yang tidak praktikal" — kalaulah kita nak ikut rule macam yang Fawzi sebut, mungkin kerajaan pun tak terbentuk, sebab kita terpaksa bekerjasama dengan orang yang dulu kita tentang, dan macam-macam benda tak boleh bergerak. Sebab, yelah, contohnya dalam politik wang, benda tu masih lagi berlaku secara sistemik. Bila kita seorang saja yang membantah, adakah benda tu memberi kesan kepada the greater good? Jadi itulah yang selalu dihamburkan.
 
-**Speaker 1:** Kita bukan seorang. Kalau macam PKR, ia adalah parti utama dalam kerajaan. Dan Dato' Seri Anwar bukan seorang, dia Perdana Menteri. Dan saya tahulah daripada hubungan saya dengan Dato' Seri Anwar sebelum-sebelum ini, dia kadang-kadang ada frustration, yang dia rasakan bahawa harapan yang diletakkan oleh rakyat untuk reform ini terlalu tinggi dan tidak praktikal mungkin.
+**Rafizi:** Kita bukan seorang. Kalau macam PKR, ia adalah parti utama dalam kerajaan. Dan Dato' Seri Anwar bukan seorang, dia Perdana Menteri. Dan saya tahulah daripada hubungan saya dengan Dato' Seri Anwar sebelum-sebelum ini, dia kadang-kadang ada frustration, yang dia rasakan bahawa harapan yang diletakkan oleh rakyat untuk reform ini terlalu tinggi dan tidak praktikal mungkin.
 
-**Speaker 2:** Okey.
+**Haziq:** Okey.
 
-**Speaker 1:** Kerana kita perlu melakukan — kita kena ambil kira realiti begini, kan. Tapi sebab itu rakyat pilih kita, kan? Jadi kita juga tidak boleh bermusuh dengan harapan itu. Jadi kalau contohnya kita kata bahawa ini adalah amalan parti pemerintah sekarang, kami ada peluang, maka kami perlu realistik — masuk kandang kambing mengembik, masuk kandang kerbau ke lembu? Kerbau, kerbau apa dia — mengaum, menguak.
+**Rafizi:** Kerana kita perlu melakukan — kita kena ambil kira realiti begini, kan. Tapi sebab itu rakyat pilih kita, kan? Jadi kita juga tidak boleh bermusuh dengan harapan itu. Jadi kalau contohnya kita kata bahawa ini adalah amalan parti pemerintah sekarang, kami ada peluang, maka kami perlu realistik — masuk kandang kambing mengembik, masuk kandang kerbau ke lembu? Kerbau, kerbau apa dia — mengaum, menguak.
 
-**Speaker 2:** Tolong bantu kami di komen.
+**Haziq:** Tolong bantu kami di komen.
 
-**Speaker 1:** Hmm. Nasib baik tak ambil exam, nasib baik sekarang UPSR tak ada, kalau keluar tatabahasa, habis kan bahasa ni. Tak, kalau kita kata macam itu, maka rakyat kata, "tak ada bezalah kamu dengan parti-parti yang lain." Kami pilih kamu kerana kami ingat selepas berpuluh tahun kamu berkempen dan bercerama, bila kamu masuk, maka kamu akan berlainan. Atas harapan itu pun susah, tak boleh.
+**Rafizi:** Hmm. Nasib baik tak ambil exam, nasib baik sekarang UPSR tak ada, kalau keluar tatabahasa, habis kan bahasa ni. Tak, kalau kita kata macam itu, maka rakyat kata, "tak ada bezalah kamu dengan parti-parti yang lain." Kami pilih kamu kerana kami ingat selepas berpuluh tahun kamu berkempen dan bercerama, bila kamu masuk, maka kamu akan berlainan. Atas harapan itu pun susah, tak boleh.
 
 Bolehlah kita marah dia — kita, PKR, atau pakatan — boleh saja mengambil sikap sedemikian, tak ada masalah pun. Tapi kalahlah pilihan raya, sebab rakyat kata, "kami dulu pilih kamu sebab kami ingat kamu lain, tapi kalau kamu sama sahaja, tak apalah, kami pun pilih je lah mana-mana yang ada ini." Haa.
 
-**Speaker 2:** Biobie, crystal clear. Kita ke segmen yang seterusnya, dunia punya hal — tapi dunia punya hal kali ni banyaklah berkaitan dengan konflik Gaza dan juga Israel. Mungkin kita mula yang pertama, plan Gaza Trump — mungkin saya tanya direct terus lah, adakah acceptable untuk membawa kereta good?
+**Haziq:** Biobie, crystal clear. Kita ke segmen yang seterusnya, dunia punya hal — tapi dunia punya hal kali ni banyaklah berkaitan dengan konflik Gaza dan juga Israel. Mungkin kita mula yang pertama, plan Gaza Trump — mungkin saya tanya direct terus lah, adakah acceptable untuk membawa kereta good?
 
-**Speaker 1:** Itu soalan yang saya rasa, tanya kepada sesiapa pun kecuali Donald Trump dan Benjamin Netanyahu dan juga beberapa orang, majoriti penduduk dunia tidak boleh menerimanya lah. Okay YB.
+**Rafizi:** Itu soalan yang saya rasa, tanya kepada sesiapa pun kecuali Donald Trump dan Benjamin Netanyahu dan juga beberapa orang, majoriti penduduk dunia tidak boleh menerimanya lah. Okay YB.
 
 Dan ada dua tiga sebab, kan. Kalau kita ikuti dengan lebih dekat perkembangan rundingan-rundingan, peringkat pertama itu berlaku di antara pentadbiran Trump dengan pimpinan-pimpinan dan wakil-wakil sebahagian daripada negara-negara Islam — di situlah saya ingat termasuklah Qatar, Saudi, saya ingat Turki pun ada, Mesir pun ada — dan daripada itulah ada beberapa perkara yang mungkin ada titik pertemuan. Tetapi rundingan peringkat seterusnya adalah antara pentadbiran Trump dengan kerajaan Israel, dengan Benjamin Netanyahu, secara berasingan. Dan mengikut laporan-laporan yang ada di seluruh dunia, bilateral oleh Israel ini termasuklah — sebahagiannya, Israel akan ada kuasa veto kepada apa-apa keputusan, termasuk juga contohnya soal pengunduran daripada Gaza itu mestilah berdasarkan kepada matlamat Israel untuk menghapuskan terus Hamas. Jadi kalau begitu, sampai kiamat, kalau Israel kata Hamas masih ada kat situ, tak ada benda yang bertukarlah.
 
@@ -292,13 +292,13 @@ Semasa Palestine berada di bawah British Protectorate itulah setiausaha luar, at
 
 Dengan semua yang telah berlaku dalam 100 tahun yang lepas, kan, dan pendirian Trump sendiri, campur tangan Benjamin Netanyahu di peringkat akhir yang mengubah sebahagian daripada titik pertemuan di antara pentadbiran Trump dengan negara-negara Arab yang lain, maka — memang tak masuk akal lah kalau ada orang di dunia ini yang boleh bersetuju, dan saya tak nampak langsung ada keikhlasan lah. Kalau betul ingin menyelesaikan masalah yang berlaku di Gaza sekarang, the humanitarian crisis, kan, dia berlaku dengan mudah sahaja. Kalaupun tak ada perkara yang rumit tentang tuntutan Israel, ada macam dakwaan dan sebagainya, dia berlaku dengan mudah apabila dunia — dunia tu maksudnya Donald Trump lah dan Amerika Syarikat — memaksa Israel menghentikan blokade, dan supaya makanan dapat masuk, humanitarian aid boleh masuk. Selesaikan. Kalau yang itu berlaku, paling kurang ada sedikit keikhlasan. Tanpa itu, bagi saya, apa-apa plan yang dibincangkan oleh sesiapa pun dan menghilangkan blokade dan kita tahu tidak ada keikhlasan.
 
-**Speaker 2:** Baik-baik. Saya refer kepada kenyataan Wisma Putra: Malaysia menyambut baik usaha Amerika Syarikat ke arah mengakhiri perang di Gaza. Dengan menyentuh kepada perkara inilah — adakah dua benda yang berbeza, atau boleh, sesuai tak Malaysia mengeluarkan kenyataan macam itu?
+**Haziq:** Baik-baik. Saya refer kepada kenyataan Wisma Putra: Malaysia menyambut baik usaha Amerika Syarikat ke arah mengakhiri perang di Gaza. Dengan menyentuh kepada perkara inilah — adakah dua benda yang berbeza, atau boleh, sesuai tak Malaysia mengeluarkan kenyataan macam itu?
 
-**Speaker 1:** Bahasa diplomatik ni lain, okey, kan. Jadi sebuah negara, oleh kerana banyak pertimbangan untuk memastikan hubungan baik, terutamanya hubungan dagang Malaysia dengan Amerika Syarikat, itu boleh kekal positif — maka saya ingat itu keputusan yang dibuat di Jemaah Menteri dan juga Wisma Putra, kan. Menyambut baik usaha itu, saya ingat, ialah bahasa diplomatik — "kita alu-alukan lah sebarang usaha untuk menyelesaikannya." Tetapi saya agak bimbang lah — saya tak baca kenyataan penuh tu.
+**Rafizi:** Bahasa diplomatik ni lain, okey, kan. Jadi sebuah negara, oleh kerana banyak pertimbangan untuk memastikan hubungan baik, terutamanya hubungan dagang Malaysia dengan Amerika Syarikat, itu boleh kekal positif — maka saya ingat itu keputusan yang dibuat di Jemaah Menteri dan juga Wisma Putra, kan. Menyambut baik usaha itu, saya ingat, ialah bahasa diplomatik — "kita alu-alukan lah sebarang usaha untuk menyelesaikannya." Tetapi saya agak bimbang lah — saya tak baca kenyataan penuh tu.
 
-**Speaker 2:** Okay, baik-baik, YB. Dengan itu, kita ke isu yang seterusnya — saya rasa ini elephant in the room lah. Dan kita dikhabarkan malam semalam, YB, 15 orang daripada rakyat Malaysia telah dihantar pulang dari Eropah, YB. Saya rasa semua dah faham dan tahulah sangatlah cerita ni. Cuma kalau saya boleh tanya YB sebenarnya, apa respons yang paling tepat sepatutnya reaksi Malaysia ambil? Sebab suara itu ada banyak — kita ada ketua pemuda A, kita ada ketua pemuda B, "kita perlu batalkan jemputan kepada Trump" untuk ASEAN summit ini. So, how far kita perlu react?
+**Haziq:** Okay, baik-baik, YB. Dengan itu, kita ke isu yang seterusnya — saya rasa ini elephant in the room lah. Dan kita dikhabarkan malam semalam, YB, 15 orang daripada rakyat Malaysia telah dihantar pulang dari Eropah, YB. Saya rasa semua dah faham dan tahulah sangatlah cerita ni. Cuma kalau saya boleh tanya YB sebenarnya, apa respons yang paling tepat sepatutnya reaksi Malaysia ambil? Sebab suara itu ada banyak — kita ada ketua pemuda A, kita ada ketua pemuda B, "kita perlu batalkan jemputan kepada Trump" untuk ASEAN summit ini. So, how far kita perlu react?
 
-**Speaker 1:** Hmm... Ya, saya — kerajaan, saya ingat, keutamaan ialah untuk memastikan bahawa rakyat Malaysia itu pulang dengan selamat. Pertama sekali, bagi saya, jiwa yang berani ini telah mencapai matlamat mereka. Respons ahli politik itu, kita tak boleh nak cakap apa lah, kan, masing-masing akan cuba menunggang dan menunjukkan siapa paling hero. Tapi bagi saya, respons yang sepatutnya berterusan, diketuai oleh ahli politik — kalau ada yang betul-betul berani dan ikhlas — ataupun kemudian disambut oleh rakyat, ialah: kita mesti melahirkan bukan saja 15 rakyat Malaysia yang berjiwa berani begini, kita mesti secara berterusan melahirkan beratus-ratus lagi yang saling mengikuti jejak mereka, menyertai flotila yang akan datang.
+**Rafizi:** Hmm... Ya, saya — kerajaan, saya ingat, keutamaan ialah untuk memastikan bahawa rakyat Malaysia itu pulang dengan selamat. Pertama sekali, bagi saya, jiwa yang berani ini telah mencapai matlamat mereka. Respons ahli politik itu, kita tak boleh nak cakap apa lah, kan, masing-masing akan cuba menunggang dan menunjukkan siapa paling hero. Tapi bagi saya, respons yang sepatutnya berterusan, diketuai oleh ahli politik — kalau ada yang betul-betul berani dan ikhlas — ataupun kemudian disambut oleh rakyat, ialah: kita mesti melahirkan bukan saja 15 rakyat Malaysia yang berjiwa berani begini, kita mesti secara berterusan melahirkan beratus-ratus lagi yang saling mengikuti jejak mereka, menyertai flotila yang akan datang.
 
 Jadi flotilla ini, dia tak boleh berhenti masa ini sahaja, sebab ini bukan soal semata-mata — tujuan jangka pendeknya ialah, kalau diizinkan Allah, maka bantuan kemanusiaan ini akan dapat membantu rakyat Palestine yang sedang menderita sekarang. Itu tujuan jangka pendek. Tujuan jangka panjangnya ialah untuk kita menggembeling kesatuan kemanusiaan, solidariti kemanusiaan, untuk memastikan bahawa rakyat dunia ini bersatu hati menolak kekejaman Israel.
 
@@ -310,37 +310,37 @@ Jadi sebab itu, global flotilla ini, saya berdoa supaya dia akan berterusan. Kal
 
 Jadi kepada kita, terutamanya kepada ahli politik lah — perasan tak, saya sebenarnya, kalau dikira, tidaklah begitu lantang berapi-api sangat tentang Palestine. Ya, bukannya saya tak... tak apa nama ni...
 
-**Speaker 2:** Tak nampaklah pakai mafla.
+**Haziq:** Tak nampaklah pakai mafla.
 
 **Rafizi:** Bukanlah saya tidak minat ataupun tidak bersimpati — saya daripada muda lagi, saya tak pernah miss sebenarnya demonstrasi Palestine ni di UK. Sebagai ahli parlimen pun sebelum ini, saya selalu dijemput ke persidangan antarabangsa bercakap mengenai Palestine. Di parlimen Britain pun pernah, kan. Jadi kalau saya rasa, kalau saya jadi rakyat biasa, saya akan kata, kamu ni bekas menteri, kamu ni pimpinan politik kanan, takkan setakat itu je kamu boleh buat. Jadi kalau ikut saya lah, kalau saya tidak ada pertimbangan tentang keluarga saya dan sebagainya, saya pun nak ada kat situ sangat ni. Kadang-kadang ada komen dekat sosial media kan — "jom kita perang," "jom kita hantar," "pergilah, flotila." Sepatutnya, macam saya sebut lah, kita tidak boleh berhenti dengan 15 jiwa berani ini sahaja. Saya harap selepas ini lebih ramai yang berani, dan kita mendoakan lah lebih ramai kita menjadi suara dunia. Kalau tidak — macam saya sebut dalam podcast yang lepas lah — saya sebenarnya malu kepada diri sendiri lah, kepada kawan-kawan saya yang Muslim ada, sebagainya, Yahudi pun ada kawan saya yang dekat UK, US, yang jauh lagi lantang daripada saya, kan.
 
 Jadi kalau macam menteri dahulu, kita tak boleh nak buat komen sesuka hati kerana kita terikat dengan pendirian kerajaan, kan. Kalau sebagai ahli parlimen, kalau setakat mengeluarkan kenyataan kasar di sini tetapi tidak berani pergi ke situ, saya rasa saya perlu berterus terang lah — kalau saya tidaklah seberani mereka, maka saya tidak ada hak untuk mendabik dada seolah-olah akulah pejuang Palestine yang paling hebat. Dan saya pada kedudukan saya sekarang tidak ubah seperti rakyat Malaysia yang lain, yang hanya boleh mendoakan dan membantu dan memberi sumbangan kalau ada. Selepas ini, lebih ramai rakyat Malaysia yang nak menyertai — doa kita, flotila-flotila yang baru — kerana perkara ini akan berlaku, perlu diteruskan, dan kita berdoa lah itu akan membina kesatuan kemanusiaan di seluruh dunia. Dan itu, saya ingat, adalah salah satu cara yang berkesan untuk menekan Israel dan Amerika Syarikat. Baik.
 
-**Speaker 2:** YB, sangat inspiring. Kau nak pergi ke? Haa. Boleh, YB? Boleh. YB pergi dulu. Haa. Tak adalah, I mean — lepas tu kita ramaikan lagi lah. Haa, itu masalahnya.
+**Haziq:** YB, sangat inspiring. Kau nak pergi ke? Haa. Boleh, YB? Boleh. YB pergi dulu. Haa. Tak adalah, I mean — lepas tu kita ramaikan lagi lah. Haa, itu masalahnya.
 
 **Rafizi:** Jangan salah faham, ini masalah orang politik lah. Haa. Sembang, pumpang, pumpang, pumpang, apa-apa dia tolak orang lain, kita pergi. Aku terlalu kena. Pumpang, pumpang. Ya, apa so? Tengok belakang. Haa, tak ada orang, kan. Saya nak pergi, YB.
 
-**Speaker 2:** Okay.
+**Haziq:** Okay.
 
 **Rafizi:** YB.
 
-**Speaker 2:** Minta—
+**Haziq:** Minta—
 
 **Rafizi:** —izin dengan isteri dulu lah. Baik.
 
-**Speaker 2:** Single lagi?
+**Haziq:** Single lagi?
 
 **Rafizi:** Oh, single lagi lah.
 
-**Speaker 2:** Dah boleh pergi lah. Baik. Itu berita dunia minggu ini lah, bersama saudara Rafizi Ramli. Kita teruskan satu kisah yang baru macam biasa. Fuyo. Jadi kalau minggu lepas kita dah tengok baterai garam sodium — sodium — kita tengok apa yang ada. Fuyo, apa yang ada pada minggu ini? Kita ada Unitree anti-gravity — dia jatuh, bangun, sambung gerak.
+**Haziq:** Dah boleh pergi lah. Baik. Itu berita dunia minggu ini lah, bersama saudara Rafizi Ramli. Kita teruskan satu kisah yang baru macam biasa. Fuyo. Jadi kalau minggu lepas kita dah tengok baterai garam sodium — sodium — kita tengok apa yang ada. Fuyo, apa yang ada pada minggu ini? Kita ada Unitree anti-gravity — dia jatuh, bangun, sambung gerak.
 
 **Rafizi:** Pertama—
 
-**Speaker 2:** Yelah, dia jatuh, dia baru dibangun balik lah, YB.
+**Haziq:** Yelah, dia jatuh, dia baru dibangun balik lah, YB.
 
 **Rafizi:** Yelah.
 
-**Speaker 2:** Saya tengok YB pun sebenarnya waktu jadi Menteri Ekonomi dulu pernah pergi ke Unitree ni dekat China. Kalau mungkin YB boleh kongsi sikit lah — actually orang kata macam, apa ni, macam cikai eh, dia punya company. I mean, nak compare dengan Boston Dynamics ke — tapi macam Boston Dynamics ke, Boston Robotics — sorry, Boston Robotics, Boston Dynamics pula — apa yang we tengok kat depan ni, macam mana dia ubah kita punya kehidupan atau...
+**Haziq:** Saya tengok YB pun sebenarnya waktu jadi Menteri Ekonomi dulu pernah pergi ke Unitree ni dekat China. Kalau mungkin YB boleh kongsi sikit lah — actually orang kata macam, apa ni, macam cikai eh, dia punya company. I mean, nak compare dengan Boston Dynamics ke — tapi macam Boston Dynamics ke, Boston Robotics — sorry, Boston Robotics, Boston Dynamics pula — apa yang we tengok kat depan ni, macam mana dia ubah kita punya kehidupan atau...
 
 **Rafizi:** Kita pernah jumpa robot ni tak? Kita jumpa, dia tak ada masa kita pergi. Saya, masa saya melawat China untuk dapatkan pelaburan awal ke JS-SEZ lah, ke Johor dan sebagainya tu — salah satu syarikat yang saya ambil masa lebih kurang sejam lebih lah pergi ialah ke Unitree ni. Sebab saya tanya pasukan saya dekat Kementerian Ekonomi masa itu, syarikat apa yang paling ke depan dalam teknologi robotik. Syarikat itu ialah Unitree, dekat Hangzhou. Hangzhou ni ialah, dan orang kata founder dia, pengasas Unitree, ini budak umur 25 tahun. Masa jumpa dia, saya ingat dia ni intern ke apa — dengan selekeh dia pakai t-shirt, pakai jeans dan selipar, kan. Dan memang betul lah, syarikat dia tu ialah di satu gudang lah — orang kata gudang buruk lah — dan meeting room dia tu sempit sangat, nak masuk pun tak muat, tau.
 
@@ -354,7 +354,7 @@ Cuma sebelum kita masuk komen pasal cikai ke tidak — apa sebenarnya kehebatan 
 
 Jadi — hmm — sebab itu Kementerian Ekonomi sebenarnya ada kerjasama dengan Unitree ni.
 
-**Speaker 2:** So mungkin sebab itulah korang pilih Unitree ni, kan.
+**Haziq:** So mungkin sebab itulah korang pilih Unitree ni, kan.
 
 **Rafizi:** Kementerian Ekonomi — cuma selepas kami dah tak ada, ni tak tahu apa cerita dia lah. Sebenarnya saya bagi cabaran kepada founder dia tu, budak tu lah — dia bukan budak lah, dia umur 25 tapi dia PhD, memang hebat lah buat semua ni, kan. Saya bagi cabaran kat dia, saya kata, robot anjing ni susah lah, mungkin orang-orang tak nak beli, tapi kita ada satu masalah besar di Malaysia iaitu untuk mengait kelapa sawit, kerana kita ada pergantungan yang cukup besar kepada pekerja asing untuk mengait kelapa sawit — walaupun gajinya tu tinggi, RM4,000 lebih, tapi orang tak nak lah, orang tempatan tak nak. Jadi saya kata cabaran kita kepada Unitree ialah untuk tengok, dengan teknologi mereka yang ada, boleh ke tidak kerja mengait buah kelapa sawit ini ataupun kerja-kerja lain yang berkaitan dengan kumpul kelapa sawit ini dilaksanakan oleh robot. Kerana kalau harga dia RM80,000 satu, sebenarnya ada pasaran yang memang sedia menerimanya, kerana masalah utama syarikat-syarikat peladangan besar di Malaysia ialah tidak cukup pekerja asing, pekerja tempatan tak ada. Yang ada tu pun, dia nak dapatkan pekerja asli pun tak cukup.
 
@@ -364,15 +364,15 @@ Baik eh, dan kita nak kembali kepada soal cikai ini lah — dia nampak saja cika
 
 Jadi saya tak tahu lah, mungkin saya pergi jumpa balik dengan kawan-kawan Unitree yang saya jumpa dulu ni — mungkin kita cuba jadi perkenalkan robot-robot ini untuk jadi pelayan di Malaysia, sebab harga dia tak mahal. Harga dia sebenarnya dalam RM70,000–RM80,000 itu — yang kalau dia bertepatan dengan kehendak ekonomi kita, dia sebenarnya lebih murah daripada membayar pekerja-pekerja asing ataupun manusia.
 
-**Speaker 2:** Baik, YB. Clear, YB. Ini untuk Unitree. Kita ke segmen yang terakhir — terakhir, banyak tanya. Paling kurang setakat ini—
+**Haziq:** Baik, YB. Clear, YB. Ini untuk Unitree. Kita ke segmen yang terakhir — terakhir, banyak tanya. Paling kurang setakat ini—
 
 **Rafizi:** —baru tiga kali sebut apa nama, kan. Itu bagus lah.
 
-**Speaker 2:** Makan bakul lah.
+**Haziq:** Makan bakul lah.
 
 **Rafizi:** Tak ada lah. Eh, tak mudah tau, tak mudah eh, Bik. Macam mana saya nak pastikan tak sebut apa nama, kan. At the back of my mind there is a constant reminder — jangan sebut apa nama. Haa.
 
-**Speaker 2:** Hahaha. Baik, baik, baik, Bik. Kita pergi ke soalan yang pertama. Daripada Wan Natasha: bagaimana cadangan tamat sekolah pada 16 tahun ke akan elak jurang setahun A-Levels/IB mula 17, dan adakah kerajaan akan kaji semula penempatan otomatik anak pegawai atau diplomat ke sekolah antarabangsa dengan kos lebih kurang RM100,000 per tahun, untuk disalur semula kepada sekolah kemasukan atau bantuan tetap RM100 per anak? Hmm. Um...
+**Haziq:** Hahaha. Baik, baik, baik, Bik. Kita pergi ke soalan yang pertama. Daripada Wan Natasha: bagaimana cadangan tamat sekolah pada 16 tahun ke akan elak jurang setahun A-Levels/IB mula 17, dan adakah kerajaan akan kaji semula penempatan otomatik anak pegawai atau diplomat ke sekolah antarabangsa dengan kos lebih kurang RM100,000 per tahun, untuk disalur semula kepada sekolah kemasukan atau bantuan tetap RM100 per anak? Hmm. Um...
 
 **Rafizi:** Satu, saya tak boleh jawab bagi pihak kerajaan, saya boleh bagi pandangan saja lah. Saya ingat sebenarnya soal A-Levels atau IB bermula umur 17 tahun ini, ini sebenarnya bukan peraturan. Itu bergantung kepada bila murid itu habis kelayakan sekolah menengah untuk masuk universiti. Ada saja yang memulakan A-Levels pada umur 16 tahun, ada saja yang memulakan IB 16 tahun, saya ingat. Cuma di Malaysia, oleh kerana kita sekarang persekolahan menengah kita berakhir pada umur 17 tahun, ramai yang memulakan A-Levels ataupun IB — bagi mereka yang menonton ini, IB ini International Baccalaureate. Eropah banyak pakai IB, UK lah sebenarnya, Commonwealth banyak pakai A-Levels lah. Kalau US, bukan A-Levels, bukan IB lah, dia pakai SAT dan yang lain semua lah, kan. Tapi kalau kita nak masuk ke universiti US, memang akan pakai sama ada A-Levels lah, kan, ataupun IB, kan.
 
@@ -388,7 +388,7 @@ Saya sebenarnya tidak tahu secara terperinci berapa jumlah keseluruhan yang dita
 
 Cuma kepada orang ramai, saya ingat ramai yang mungkin malam ini baru tahu, bahawa anak-anak diplomat, bila mereka balik, ataupun anak pegawai Wisma Putra, dan juga sebahagian MITI, sebahagian di bawah Jabatan Perdana Menteri — anak mereka, walaupun mereka berkhidmat di Malaysia, tapi kalau cukup kelayakan, mereka ditanggung pendidikan di sekolah antarabangsa 100 ribu setahun. Kalau 5 tahun, 500 ribu.
 
-**Speaker 2:** Okay, baik, YB. Itu soalan yang pertama. Kita tengok soalan yang seterusnya. Dari Furhan Rozi: apakah halangan utama teknologi bahan dan reka bentuk teras modal, volume persijilan FAA, untuk membangunkan industri enjin jet komersial atau perang di Malaysia, dan sejauh mana kawal selia eksport seperti ITAR mengehadkan pemindahan teknologi? Ini...
+**Haziq:** Okay, baik, YB. Itu soalan yang pertama. Kita tengok soalan yang seterusnya. Dari Furhan Rozi: apakah halangan utama teknologi bahan dan reka bentuk teras modal, volume persijilan FAA, untuk membangunkan industri enjin jet komersial atau perang di Malaysia, dan sejauh mana kawal selia eksport seperti ITAR mengehadkan pemindahan teknologi? Ini...
 
 **Rafizi:** Saya mungkin kalau saya jawab ni, saudara Furhan tak suka lah kot. Sebab kalau nak tanya pandangan saya sebelum kita pergi kepada perkara-perkara yang lebih detail ni — soal pensijilan, soal rantaian bekalan, apatah lagi soal IP, sama juga kawal selia eksport dan sebagainya — ini adalah satu industri yang hanya ada beberapa syarikat di dunia sahaja yang berjaya melaksanakannya. Ini untuk enjin jet komersial dan perang di Malaysia. Enjin jet ni, kita ada Boeing, kita ada Aerobus. Dan sekarang yang China tu nama syarikat apa? CC something, CCJ. CCJ ke apa rasa. Dan kalau dari segi syarikat aircraft, dia ada dua ni je. Yang apa nama ni? Yang syarikat apa nak... ya, ya. Siapa letak badi ni? Tadi dengan smooth sahaja tak ada sebut kan? Ada syarikat-syarikat lain yang terlibat dengan enjin jet perang pula. Syarikat dia pun tak banyak di dunia. Kalau di US kita ada McDonnell Douglas, kita ada Lockheed dan beberapa lah. Seingat saya, selalunya enjin itu bukan dibuat oleh syarikat itu sendiri — enjin selalunya mungkin GE buat, salah satu yang terkenal ialah GE. Saya tak pasti, saya ingat Rolls Royce pun ada enjin untuk semua ni.
 
@@ -396,28 +396,28 @@ Jadi kalau kita nak memulakan soalan untuk membangunkan industri enjin jet komer
 
 Sebab itu, kalau kita tengok dari segi syarikat civil apa ni, airplane, sebab itu hanya Airbus dan juga Boeing, dan sekarang ini syarikat yang Cina itu — kerana dalam kes Airbus, mereka daripada awal lagi, oleh kerana ia usaha sama Eropah antara Perancis dengan UK sebahagian besarnya, dan dia adalah projek Eropah, maka dia boleh memastikan bahawa syarikat-syarikat penerbangan Eropah itu mula menggunakannya. Sama juga dengan Boeing, oleh kerana industri penerbangan udara ini bermula di US maka dia sudah ada adoption, dan daripada situlah dia akan merebak ke dunia. Sama macam syarikat China, kenapa dia boleh buat? Kerana adoption itu — dia ada volume yang besar untuk syarikat-syarikat penerbangan China menggunakannya. Kalau kita buat, agaknya adoption macam mana? Kita kena lawan semua ni. Jadi sebab itu, daripada awal tu, saya kata jawapan saya mungkin kurang diminati — baik oleh saudara Furhan ataupun mereka yang di dalam aircraft industry. Kerana saya rasa lebih baik kita memperkuatkan kedudukan kita sebagai sebahagian pemain rantaian bekalan. Contohnya, Malaysia ada syarikat-syarikat yang menyediakan komponen-komponen sayap; Malaysia mungkin satu enjin yang besar itu, blade-nya mungkin datang daripada Malaysia. Mungkin sebahagian electronics itu datang daripada Malaysia. Jadi kita memperkukuhkan kedudukan kita dalam rantaian bekalan itu, dan itu sudah mencukupi untuk negara kita — mungkin buat masa sekarang, daripada kita nak buat enjin untuk bersaing dengan yang memang telah terbukti sebenarnya oligopoli. Hanya ada beberapa syarikat sahaja yang ada daya tahan, teknologi dan wang yang cukup banyak untuk bertahan. Dan yang paling penting, ada sokongan adoption daripada sama ada negara mereka atau pasaran mereka. Okey, baik.
 
-**Speaker 2:** Clear. Dan kita ada soalan lagi, dari Afiq Ikhwan. Afiq Ikhwan tanya: ramai ahli politik kini double hat sebagai influencer — apa ni, sindir aku ke apa, hahaha, siapa Afiq — apa prinsip YB untuk bezakan komunikasi dasar yang berisi daripada konten pemburu views? Bagaimana YB menilai ROI, masa atau sumber turun padang, buat dasar, rakam konten? Dan apa garis merah YB — penajaan ke, ketepatan fakta, etika guna pegawai, atau privasi data?
+**Haziq:** Clear. Dan kita ada soalan lagi, dari Afiq Ikhwan. Afiq Ikhwan tanya: ramai ahli politik kini double hat sebagai influencer — apa ni, sindir aku ke apa, hahaha, siapa Afiq — apa prinsip YB untuk bezakan komunikasi dasar yang berisi daripada konten pemburu views? Bagaimana YB menilai ROI, masa atau sumber turun padang, buat dasar, rakam konten? Dan apa garis merah YB — penajaan ke, ketepatan fakta, etika guna pegawai, atau privasi data?
 
 **Rafizi:** Ini ada berapa soalan ni? Ada tujuh lapan dalam satu soalan. Tak, saya tak melihat dia bukan double hat sebenarnya. Ahli politik mesti berkomunikasi. Dan sama ada kita suka atau tidak suka, komunikasi zaman sekarang ialah melalui media sosial. Saya lambat dalam TikTok contohnya, kerana TikTok datang semasa saya berada di luar politik. Sebenarnya awal-awal saya tengok TikTok tu, saya macam kurang minat — TikTok ni tengok orang menari-nari, buat perkara slapstick. Tapi nak tak nak, kita terpaksa terima bahawa TikTok adalah satu medium komunikasi yang penting, yang dominant. Sama macam Facebook, sama macam YouTube, sama macam X. Jadi fungsi ahli politik ini sebahagiannya ialah untuk membawa perubahan kepada masyarakat, perubahan itu mestilah daripada idea, dan kita tak boleh lari daripada berkomunikasi. Saya tak adalah minat sangat podcast ni, tapi ia perlu dibuat untuk kita menyampaikan maklumat. Jadi saya ingat komunikasi itu tak boleh lari. Yang orang marah kadang-kadang ialah bila dah jadi kerajaan — dan ini bukan PH sahaja,
 
-**Speaker 2:** tau.
+**Haziq:** tau.
 
 **Rafizi:** UMNO dulu, Bersatu terutamanya PAS — masa mereka jadi kerajaan, mereka langsung patah kaki pasal komunikasi ni, duduk semua. Jadi orang tak tahu, tidak diterangkan dan sebagainya. Soalan sama ada influencer ataupun komunikasi dasar itu bergantung kepada, dan akan dinilai berdasarkan kandungan, perkara-perkara, isu dan pendirian yang kita bawa. Sebab itu, kalau tengok, saya tak buat perkara-perkara gimmick. Saya takkanlah — ada orang kalau ada trend TikTok macam ni, ada orang akan buat trend itu. Saya tak, sebab saya melihat kandungan melalui social media ini sebagai sebahagian tugas untuk berkomunikasi. Dan sama ada orang berminat ke tidak, klik banyak ke tidak, itu satu rutin yang perlu berlaku. Contohnya, sekarang setiap hari paling kurang saya perlu keluarkan satu kandungan. Bukan untuk memburu views, itu adalah tugas saya sebagai ahli parlimen. Sebelum ada TikTok, ataupun sebelum video menjadi medium utama komunikasi kandungan — tengok-tengok tahun 2012, 2013, ke arah 2018 — saya keluarkan kenyataan media tiap-tiap hari. Memang itu daripada dulu, kerana kita perlu berkomunikasi. Dan saya tak berkira soal ROI dan sebagainya. Kalau kita contohnya menetapkan rutin bahawa kita perlu berkomunikasi setiap hari, maka paling kurang satu jam itu perlu ditumpukan untuk buat merakam. Dan saya rakam sendiri. Saya tak ada produksi yang mahal, tim yang mahal. Itu juga saya selalu ingat, kadang-kadang penyokong PH komplain: "oh, ini kenapa Tengku Zafrul punya bagus begini, orang itu bagus, saya ni semua." Saya berbeza kerana saya berhati-hati menggunakan wang. Kita boleh ada konten yang segala jenisnya, tapi kalau pasukan yang buat itu sampai 7-8 orang — di mana-mana kita pergi ada 4-5 orang ikut balik semua — kecualilah kita nak jutawan yang boleh bayar semua. Kalau kita tak bayar daripada poket kita, maksudnya kita guna duit kerajaan. Sama macam saya di Kementerian Ekonomi dulu — kumpulan yang kurang gemar dengan saya termasuklah mungkin wartawan dan media juga, kerana saya tak akan bayar. Saya tak macam sebahagian kementerian lain yang membayar konten media buy, baik kat TV3 ke, baik kat FMT ke, baik kat yang itu semua, supaya tulis berita, buat konten macam saya sampai kiamat, saya tak bayar, kerana itu duit rakyat. Jadi semua konten yang saya buat memang aku pasang iPhone, rekod, cakap sendiri. Kemudian ada seorang kat situ yang cepat-cepat edit dan post. Sebab bagi saya, kita kena imbangkan di antara kandungan maklumat yang kita nak sampaikan dengan masa yang diambil, dan terutamanya dengan kos, apatah lagi kalau kos itu ditanggung oleh kerajaan dan rakyat. Jadi kalau kita dapat imbangkan semua itu, maka sepatutnya rakyat akan menilai pendirian kita berdasarkan kandungan, fakta, mesej yang kita sampaikan — bukan berapa banyak aku naik basikal, buat content naik basikal dalam pejabat ke apa, itu sepatutnya tak berlaku, bukannya gimmick yang kita buat. Jadi itu my rule — YB memang anti gimmick, sebab saya rasa gimmick ni tidak authentic. Saya jenis yang — kita kena transparent, what you see is what you get. Jadi kalau saya bukan jenis penyanyi hebat, tak payahlah saya nak menyanyi. Sanusi tak apa lah kot, dia rasa dia penyanyi hebat, dia menyanyilah. Jadi saya bukanlah tak boleh menyanyi, boleh menyanyi, tapi hanya untuk buat content, untuk dapat klik ke apa — itu sepatutnya bukan sebahagian daripada tugas saya sebagai ahli parlimen. Perkara yang peribadi kepada saya, kat rumah saya semua itu, itu hal peribadi saya. Tak perlulah dijadikan konten. Jadi authenticity itu cukup penting, kerana kalau untuk gimmick ataupun untuk image jadi artis, tak payah jadi ahli politik. Ahli politik ni, orang pilih kita bukan sebab kita boleh buat kandungan yang macam-macam yang menggeletik jiwa rakyat, tapi sebenarnya orang nak tahu apa pandangan dan pendirian kamu tentang isu-isu ataupun masalah-masalah rakyat, dan bagaimana kamu nak menyelesaikannya. Jadi we're against —
 
-**Speaker 2:** Takkan seperti hati juga. Saya tak tahu, saya tak follow sangat. Adakah? Depends kepada pandangan atau perspektif seseorang. Contohnya tanya aku senang, aku tanya balik — segan tak sebut, contoh Syed Saddiq. Oh, yang berpuatakan tu lah kan. Segan tak sebut, itu kawan Syed Saddiq ada.
+**Haziq:** Takkan seperti hati juga. Saya tak tahu, saya tak follow sangat. Adakah? Depends kepada pandangan atau perspektif seseorang. Contohnya tanya aku senang, aku tanya balik — segan tak sebut, contoh Syed Saddiq. Oh, yang berpuatakan tu lah kan. Segan tak sebut, itu kawan Syed Saddiq ada.
 
 **Rafizi:** Tak boleh free promo dia. Nah, itu pilihan masing-masing. Cuma saya tak yakin sebenarnya bahawa keberkesanan kita sebagai seorang ahli politik ini boleh dinilai seratus-peratus kepada nilai like dan views. Apatah lagi kalau likes dan views itu ialah dengan bela — dia totally different consideration. Selalunya saya ingat pandangan ataupun bagaimana orang menilai kita — kalau kita salesman kereta, maka kita kena tumpu kepada perkara-perkara yang memberi nilai mengenai kereta kepada pelanggan kita. Kalau saya salesman rumah, saya mestilah berpengetahuan dan subject matter saya ialah rumah. Jadi sebagai ahli politik, like atau tidak like, viral ke tidak, itu sebenarnya kadang-kadang ada yang viral, ada yang tidak — macam saya sebut tadi, bahawa likes itu akan menentukan turun semata-mata, menurunkan turun naik apa nama lagi, menaikkan atau menurunkan prospek seseorang ahli politik. Yang penting, saya melihat soal konten komunikasi ini sebagai sebahagian tugas kita. Kita ada perjuangan, kita ada pandangan dan kita ada perubahan yang kita nak lihat dalam masyarakat, berforum. Ada masa yang kita kena buat kandungan-kandungan pendek, sebahagiannya melalui podcast. Walaupun soalannya banyak tu, tapi tak apalah.
 
-**Speaker 2:** Kita pilih-pilih. Pilih-pilih. Okay Afiq, nak buat macam mana, itulah ketetapannya. Baik YB. Habis dah. Ya. Tada. Itu je lah kot. Kenapa letak muka aku macam tu, ck, saya tak setuju YB — itu. Nanti kita tukar gambar lain lah minggu depan. Potong gaji.
+**Haziq:** Kita pilih-pilih. Pilih-pilih. Okay Afiq, nak buat macam mana, itulah ketetapannya. Baik YB. Habis dah. Ya. Tada. Itu je lah kot. Kenapa letak muka aku macam tu, ck, saya tak setuju YB — itu. Nanti kita tukar gambar lain lah minggu depan. Potong gaji.
 
 **Rafizi:** Ini muka selepas Anwar Ibrahim ada kat depan aku ni kan. Dekat ASEAN lah gitu kan, ASEAN lah. Okay.
 
-**Speaker 2:** Okay YB, itu saja. Kepada rakan-rakan lain, sebelum meninggalkan podcast ini — pertama, like, komen dan share. Bukan sepatutnya cakap awal ke? Betul, itu pun kita kena improve. Segi teka-teki, berapa banyak kali apa nama yang telah diucapkan selama 2 jam 5 minit.
+**Haziq:** Okay YB, itu saja. Kepada rakan-rakan lain, sebelum meninggalkan podcast ini — pertama, like, komen dan share. Bukan sepatutnya cakap awal ke? Betul, itu pun kita kena improve. Segi teka-teki, berapa banyak kali apa nama yang telah diucapkan selama 2 jam 5 minit.
 
 **Rafizi:** Performance tak baik tadi, ujung-ujung tu dia dah tergelincir banyak.
 
-**Speaker 2:** Ya, awal-awal tu
+**Haziq:** Ya, awal-awal tu
 
 **Rafizi:** bagus. Tapi
 
-**Speaker 2:** tak apa, ada minggu depan ada ruang. Minggu depan kita akan zero apa nama. Itu satu kenyataan yang berani. Boleh buat atau tak, kita jumpa minggu depan. Assalamualaikum, jumpa lagi.
+**Haziq:** tak apa, ada minggu depan ada ruang. Minggu depan kita akan zero apa nama. Itu satu kenyataan yang berani. Boleh buat atau tak, kita jumpa minggu depan. Assalamualaikum, jumpa lagi.
