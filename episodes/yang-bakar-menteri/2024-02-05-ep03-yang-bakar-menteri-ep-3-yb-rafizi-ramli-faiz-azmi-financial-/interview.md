@@ -50,29 +50,29 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Host:** Assalamualaikum warahmatullahi wabarakatuh. Kita ke rancangan Yang Bakar Menteri Podcast yang kira panas. Kita bersiaran 2 minggu sekali. Malam ini macam biasa kita ada YB Rafizi Ramli. Apa khabar YB?
+**Syed Munawar:** Assalamualaikum warahmatullahi wabarakatuh. Kita ke rancangan Yang Bakar Menteri Podcast yang kira panas. Kita bersiaran 2 minggu sekali. Malam ini macam biasa kita ada YB Rafizi Ramli. Apa khabar YB?
 
 **Rafizi:** Aku sakit kaki.
 
-**Host:** Dah makan belum YB?
+**Syed Munawar:** Dah makan belum YB?
 
 **Rafizi:** Dah. I've got a slipped disc, so it's 24/7 pain. So kalau mood tak baik malam ni, it's nothing to do with the podcast, it's just, you know.
 
-**Host:** Okay, okay. Kita doakan YB cepat sembuh. Amin. Okay, dan malam ni kita ada tetamu istimewa, seorang yang famous — terkenal di social media. Saudara Faiz, yang terkenal dengan rancangan... apa nama rancangan tu... Financial Faiz.
+**Syed Munawar:** Okay, okay. Kita doakan YB cepat sembuh. Amin. Okay, dan malam ni kita ada tetamu istimewa, seorang yang famous — terkenal di social media. Saudara Faiz, yang terkenal dengan rancangan... apa nama rancangan tu... Financial Faiz.
 
 **Rafizi:** Nampak sangat dia kata terkenal, lepas tu tak ingat nama rancangan dia sendiri.
 
 **Faiz:** But the brand is actually more than just the name — the baju with the face.
 
-**Host:** Okay, saudara Faiz, apa khabar?
+**Syed Munawar:** Okay, saudara Faiz, apa khabar?
 
 **Faiz:** Alhamdulillah.
 
-**Host:** Let's jom. So, bersedia untuk bakar menteri malam ni, insyaAllah. Tadi sebelum kita live pun ada sedikit soalan-soalan yang agak panas, tapi kita tak boleh tunjuk yang tu — itu cerita di belakang tabir. Malam ni kita akan biarkan saudara Faiz cuba membakar YB Menteri, dan YB Menteri, kalau dia rasa panas, dia akan bakar balik. Kita rasa conversation macam ini seronok untuk ditonton oleh kawan-kawan di luar. Jadi saya menggantikan saudara Nazri Hamdan untuk menjadi moderator — dia famous dan dia bayar lebih, saya mungkin lebih murah, cuma dapat belanja KFC pun dah cukup.
+**Syed Munawar:** Let's jom. So, bersedia untuk bakar menteri malam ni, insyaAllah. Tadi sebelum kita live pun ada sedikit soalan-soalan yang agak panas, tapi kita tak boleh tunjuk yang tu — itu cerita di belakang tabir. Malam ni kita akan biarkan saudara Faiz cuba membakar YB Menteri, dan YB Menteri, kalau dia rasa panas, dia akan bakar balik. Kita rasa conversation macam ini seronok untuk ditonton oleh kawan-kawan di luar. Jadi saya menggantikan saudara Nazri Hamdan untuk menjadi moderator — dia famous dan dia bayar lebih, saya mungkin lebih murah, cuma dapat belanja KFC pun dah cukup.
 
 **Rafizi:** Tak ada. Saya gurau. Marah Nazri, nanti dia hantar bil.
 
-**Host:** Okey, gurau, tak ada apa-apa. Okey, kita start malam ini. Sebelum saudara Faiz start, kita juga akan sediakan beberapa soalan daripada penonton di luar. YB Rafizi juga telah sediakan hashtag Tanya Rafizi yang disiarkan di media sosial beliau, dan kita akan pilih beberapa soalan untuk ditanya kepada YB Menteri malam ini juga. Tapi sebelum hashtag Tanya Rafizi itu, kita mulakan malam ini dengan saudara Faiz untuk... yelah, bakar, cuba bakar.
+**Syed Munawar:** Okey, gurau, tak ada apa-apa. Okey, kita start malam ini. Sebelum saudara Faiz start, kita juga akan sediakan beberapa soalan daripada penonton di luar. YB Rafizi juga telah sediakan hashtag Tanya Rafizi yang disiarkan di media sosial beliau, dan kita akan pilih beberapa soalan untuk ditanya kepada YB Menteri malam ini juga. Tapi sebelum hashtag Tanya Rafizi itu, kita mulakan malam ini dengan saudara Faiz untuk... yelah, bakar, cuba bakar.
 
 **Faiz:** Yes. Okay YB, let's get to it. So, I have a company, dan kita orang dah start bayar SST tahun ini. Bila kami start dalam setahun lepas, belum lagi — dia kena ada threshold, okay, which is nice. Tapi my finance team mengadulah yang pelaksanaan SST ni memang agak mengelirukan, dan information dia daripada satu pihak — pihak yang collect, iaitu Customs — penerangan dia agak lemah. 8% membuatkan orang marah. Kenapa benda macam ni boleh berlaku?
 
@@ -236,11 +236,11 @@ Eksport kita, terutamanya E&E (elektronik), kita perlu naik ke peringkat nilai y
 
 Jadi semua ini bersabit dengan penstrukturan semula ekonomi kita. Jadi kalau orang tanya apa yang kerajaan buat untuk ringgit ini, banyak yang kita buat ini dalam kawalan kita, tetapi ia mengambil masa — menstrukturkan ekonomi, mengukuhkan fiskal, mengurangkan hutang. Bagi mereka yang tak faham, mereka kata apa kena-mengena, tapi sebenarnya itulah yang dilihat sebagai tanggungjawab kerajaan yang boleh meyakinkan pelabur dan pedagang bahawa ekonomi kita sudah sampai ke peringkat yang lebih tinggi, maka eksport dan permintaan kita juga lebih baik — itu juga akan meningkatkan ringgit.
 
-**Host:** Ringgit. Hmm, okey, so lebih kurang sama macam kes Red Earth ni kan? Red Earth sebenarnya — apa kaitan ringgit dengan Red Earth?
+**Syed Munawar:** Ringgit. Hmm, okey, so lebih kurang sama macam kes Red Earth ni kan? Red Earth sebenarnya — apa kaitan ringgit dengan Red Earth?
 
 **Rafizi:** Bukan, bukan.
 
-**Host:** Bukan pasal eksport itu? Oh, okey. Red Earth sebelum ini kan, kita cakap jangan hanya fokus kepada eksport sahaja, jadi kita nak buat semua kat sini. Orang macam itu lah kan. Ya, ya. Untuk orang kata jadi sesuatu. Ya.
+**Syed Munawar:** Bukan pasal eksport itu? Oh, okey. Red Earth sebelum ini kan, kita cakap jangan hanya fokus kepada eksport sahaja, jadi kita nak buat semua kat sini. Orang macam itu lah kan. Ya, ya. Untuk orang kata jadi sesuatu. Ya.
 
 **Rafizi:** I mean, the rule of thumb is kalau produk kita itu *commodity*, orang lain pun boleh buat. Ya, ya, ya. Jadi itu yang tempat lain, contohnya Vietnam, *cost structure* dia lagi murah. Jadi buat apa nak beli di Malaysia sahaja kalau boleh beli benda yang sama daripada Vietnam yang lebih murah.
 
@@ -270,15 +270,15 @@ Jadi semua ini bersabit dengan penstrukturan semula ekonomi kita. Jadi kalau ora
 
 **Faiz:** Jadi saya ambil perhatian tentang itu. Ya, menarik. Sebelum kita semua berhijrah ke Dubai, jadi ini perlu dilakukan lebih cepat daripada lambat. Kami kenal beberapa orang yang sudah pergi ke sana, dan jawapannya kerana mereka mempunyai kewangan juga — ya, ya, ya — terutamanya untuk sumber asing. Mereka tidak peduli dengan sumber tempatan, seperti kalau mereka mempunyai kontrak media daripada syarikat tempatan, tidak mengapa. Tetapi apabila ia datang daripada syarikat asing, hanya kerana ia berlaku di Malaysia yang menjadi domisil, duit itu pun turut termasuk dikenakan cukai di Malaysia.
 
-**Host:** Saya rasa itu hasil yang baik daripada perbincangan malam ini, dan ia juga jadi satu respons — dia boleh lobi terus. Ha, *direct lobby* ini. Okay, saya rasa dah sampai masa untuk menamatkan rancangan ini. Baiklah, terima kasih kepada saudara Faiz, Financial Faiz, yang datang malam ini. Saya rasa bukanlah sesi yang formal sangat, tapi perbincangan yang menarik, dan saya rasa banyak input berguna daripada YB. Cuma saya...
+**Syed Munawar:** Saya rasa itu hasil yang baik daripada perbincangan malam ini, dan ia juga jadi satu respons — dia boleh lobi terus. Ha, *direct lobby* ini. Okay, saya rasa dah sampai masa untuk menamatkan rancangan ini. Baiklah, terima kasih kepada saudara Faiz, Financial Faiz, yang datang malam ini. Saya rasa bukanlah sesi yang formal sangat, tapi perbincangan yang menarik, dan saya rasa banyak input berguna daripada YB. Cuma saya...
 
 **Rafizi:** ...tak tahu sama ada *the public* — saya rasa yang mendengar ini, lepas 5 minit dia bosan. Saya rasa ia terdengar sangat finansial dan sangat berkata-kata. Tapi saya rasa ia adalah...
 
-**Host:** Pendidikan.
+**Syed Munawar:** Pendidikan.
 
 **Rafizi:** Hanya-hanya...
 
-**Host:** Ia menjadi pendidikan. Ya, itu salah satu tujuan podcast ini juga — kita nak mencerdikkan orang-orang di bawah sana. Okey, terima kasih Saudara Faiz sekali lagi, terima kasih YB kerana meluangkan masa. Ya, kita ingat sejam setengah tadi, tapi kita dah pergi lebih dua jam kan? Okey. Jumpa lagi dua minggu dari sekarang, insyaAllah. Assalamualaikum warahmatullahi wabarakatuh. Bye-bye.
+**Syed Munawar:** Ia menjadi pendidikan. Ya, itu salah satu tujuan podcast ini juga — kita nak mencerdikkan orang-orang di bawah sana. Okey, terima kasih Saudara Faiz sekali lagi, terima kasih YB kerana meluangkan masa. Ya, kita ingat sejam setengah tadi, tapi kita dah pergi lebih dua jam kan? Okey. Jumpa lagi dua minggu dari sekarang, insyaAllah. Assalamualaikum warahmatullahi wabarakatuh. Bye-bye.
 
 **Rafizi:** Assalamualaikum warahmatullahi wabarakatuh.
 

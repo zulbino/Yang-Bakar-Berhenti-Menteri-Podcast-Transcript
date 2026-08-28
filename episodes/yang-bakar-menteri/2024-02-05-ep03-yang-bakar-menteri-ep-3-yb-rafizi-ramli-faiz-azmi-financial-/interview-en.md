@@ -49,29 +49,29 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Host:** Assalamualaikum warahmatullahi wabarakatuh. Welcome to the Yang Bakar Menteri Podcast, which is quite a hot show. We broadcast every two weeks. Tonight, as usual, we have YB Rafizi Ramli. How are you, YB?
+**Syed Munawar:** Assalamualaikum warahmatullahi wabarakatuh. Welcome to the Yang Bakar Menteri Podcast, which is quite a hot show. We broadcast every two weeks. Tonight, as usual, we have YB Rafizi Ramli. How are you, YB?
 
 **Rafizi:** My leg hurts.
 
-**Host:** Have you eaten, YB?
+**Syed Munawar:** Have you eaten, YB?
 
 **Rafizi:** Yes. I've got a slipped disc, so it's 24/7 pain. So if my mood isn't great tonight, it's nothing to do with the podcast, it's just, you know.
 
-**Host:** Okay, okay. We wish you a speedy recovery, YB. Amen. Okay, and tonight we have a special guest, someone famous — well-known on social media. Brother Faiz, known for his show... what's the show called... Financial Faiz.
+**Syed Munawar:** Okay, okay. We wish you a speedy recovery, YB. Amen. Okay, and tonight we have a special guest, someone famous — well-known on social media. Brother Faiz, known for his show... what's the show called... Financial Faiz.
 
 **Rafizi:** It's obvious he says he's famous, but then can't even remember the name of his own show.
 
 **Faiz:** But the brand is actually more than just the name — the baju with the face.
 
-**Host:** Okay, brother Faiz, how are you?
+**Syed Munawar:** Okay, brother Faiz, how are you?
 
 **Faiz:** Alhamdulillah.
 
-**Host:** Let's go. So, get ready to grill the minister tonight, insyaAllah. Earlier, before we went live, there were already some fairly hot questions, but we can't show those — that's the story behind the scenes. Tonight we'll let brother Faiz try to grill the Minister, and the Minister, if he feels the heat, will grill back. We think conversations like this are enjoyable for our friends out there to watch. So I'm standing in for brother Nazri Hamdan as moderator — he's famous and gets paid more, I'm probably cheaper, just a KFC treat would be enough for me.
+**Syed Munawar:** Let's go. So, get ready to grill the minister tonight, insyaAllah. Earlier, before we went live, there were already some fairly hot questions, but we can't show those — that's the story behind the scenes. Tonight we'll let brother Faiz try to grill the Minister, and the Minister, if he feels the heat, will grill back. We think conversations like this are enjoyable for our friends out there to watch. So I'm standing in for brother Nazri Hamdan as moderator — he's famous and gets paid more, I'm probably cheaper, just a KFC treat would be enough for me.
 
 **Rafizi:** No, no. I'm joking. Don't be mad, Nazri, or he'll send you a bill.
 
-**Host:** Okay, just joking, nothing to it. Okay, let's start tonight. Before brother Faiz starts, we'll also prepare some questions from the audience out there. YB Rafizi has also set up the hashtag Tanya Rafizi that's shared on his social media, and we'll pick a few questions to ask YB Minister tonight as well. But before the Tanya Rafizi hashtag, let's start tonight with brother Faiz to... well, grill, try to grill.
+**Syed Munawar:** Okay, just joking, nothing to it. Okay, let's start tonight. Before brother Faiz starts, we'll also prepare some questions from the audience out there. YB Rafizi has also set up the hashtag Tanya Rafizi that's shared on his social media, and we'll pick a few questions to ask YB Minister tonight as well. But before the Tanya Rafizi hashtag, let's start tonight with brother Faiz to... well, grill, try to grill.
 
 **Faiz:** Yes. Okay YB, let's get to it. So, I have a company, and we started paying SST this year. When we started, within a year, not yet — there has to be a threshold, okay, which is nice. But my finance team keeps complaining that the implementation of SST is quite confusing, and the information from one party — the party collecting it, namely Customs — their explanation is quite weak. 8% is making people angry. Why does something like this happen?
 
@@ -235,11 +235,11 @@ Our exports, especially E&E (electronics), we need to move up to a higher value 
 
 So all of this is tied to restructuring our economy. So if people ask what the government is doing about the ringgit, a lot of what we're doing is within our control, but it takes time — restructuring the economy, strengthening fiscal position, reducing debt. For those who don't understand, they'll say what's the connection, but actually that's what's seen as the government's responsibility that can convince investors and traders that our economy has reached a higher level, so our exports and demand will also be better — that will also strengthen the ringgit.
 
-**Host:** The ringgit. Hmm, okay, so is it more or less similar to the Red Earth case? What does Red Earth actually have to do with the ringgit?
+**Syed Munawar:** The ringgit. Hmm, okay, so is it more or less similar to the Red Earth case? What does Red Earth actually have to do with the ringgit?
 
 **Rafizi:** No, no.
 
-**Host:** Not about exports? Oh, okay. Red Earth before this — we said don't just focus on exports alone, so we want to do everything here. That's what people said, right? Yes, yes. For people to say something becomes something. Yes.
+**Syed Munawar:** Not about exports? Oh, okay. Red Earth before this — we said don't just focus on exports alone, so we want to do everything here. That's what people said, right? Yes, yes. For people to say something becomes something. Yes.
 
 **Rafizi:** I mean, the rule of thumb is if our product is a commodity, other people can make it too. Yes, yes, yes. So that's why other places, for example Vietnam, have a cheaper cost structure. So why buy only from Malaysia if you can buy the same thing from Vietnam more cheaply.
 
@@ -269,15 +269,15 @@ So all of this is tied to restructuring our economy. So if people ask what the g
 
 **Faiz:** So I'll take note of that. Yes, interesting. Before we all migrate to Dubai, so this needs to be done sooner rather than later. We know a few people who have already gone there, and the reason is because they have financial considerations too — yes, yes, yes — especially for foreign-sourced income. They don't care about local income, like if they have a media contract from a local company, that's fine. But when it comes from a foreign company, just because it happens to be domiciled in Malaysia, that money also ends up being taxed in Malaysia.
 
-**Host:** I think that's a good outcome from tonight's discussion, and it's also become a response — he can lobby directly. Ha, this direct lobby. Okay, I think it's time to end this show. Alright, thank you to brother Faiz, Financial Faiz, for coming tonight. I don't think it was too formal a session, but it was an interesting discussion, and I think there was a lot of useful input from YB. It's just that I...
+**Syed Munawar:** I think that's a good outcome from tonight's discussion, and it's also become a response — he can lobby directly. Ha, this direct lobby. Okay, I think it's time to end this show. Alright, thank you to brother Faiz, Financial Faiz, for coming tonight. I don't think it was too formal a session, but it was an interesting discussion, and I think there was a lot of useful input from YB. It's just that I...
 
 **Rafizi:** ...don't know whether the public — I think whoever's listening to this, after 5 minutes they'll get bored. I think it sounds very financial and very wordy. But I think it is...
 
-**Host:** Educational.
+**Syed Munawar:** Educational.
 
 **Rafizi:** Just...
 
-**Host:** It becomes educational. Yes, that's one of the purposes of this podcast too — we want to make the people out there smarter. Okay, thank you again brother Faiz, thank you YB for taking the time. Yes, we thought it would be an hour and a half earlier, but we've gone over two hours, right? Okay. See you again two weeks from now, God willing. Assalamualaikum warahmatullahi wabarakatuh. Bye-bye.
+**Syed Munawar:** It becomes educational. Yes, that's one of the purposes of this podcast too — we want to make the people out there smarter. Okay, thank you again brother Faiz, thank you YB for taking the time. Yes, we thought it would be an hour and a half earlier, but we've gone over two hours, right? Okay. See you again two weeks from now, God willing. Assalamualaikum warahmatullahi wabarakatuh. Bye-bye.
 
 **Rafizi:** Assalamualaikum warahmatullahi wabarakatuh.
 

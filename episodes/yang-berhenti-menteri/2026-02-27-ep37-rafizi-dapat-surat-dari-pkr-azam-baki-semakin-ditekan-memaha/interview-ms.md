@@ -197,7 +197,7 @@ Tapi awak dan saya tahu, pandangan rakyat di luar itu akan berbeza-beza. Rakyat 
 
 Tapi mereka akan buat, mereka akan guna alasan bahawa parti telah mentafsirkan Ahli Parlimen Pandan telah mengisytiharkan keluar parti. Oleh kerana dia telah mengisytiharkan keluar parti, itu telah pun menepati syarat di dalam Akta Lompat Parti, maka dengan itu kerusi Parlimen Pandan dikosongkan. Tepuk tangan.
 
-**Host:** Tepuk, tepuk, tepuk. YB, disebabkan tak ada apa nak ditambah, mungkin saya perluaskan sedikit isu ini kepada pilihan orang ramai. Mungkin ada yang bertanya, bila keadaan sudah jadi seteruk ini — dalam situasi mereka mungkin tak suka pada PH tapi tak nak mengundi PN — apakah alternatif akhirnya yang rakyat ada? Saya sebut ini sekali dengan kenyataan YB tentang persediaan untuk... menjual pemilikan.
+**Haziq:** Tepuk, tepuk, tepuk. YB, disebabkan tak ada apa nak ditambah, mungkin saya perluaskan sedikit isu ini kepada pilihan orang ramai. Mungkin ada yang bertanya, bila keadaan sudah jadi seteruk ini — dalam situasi mereka mungkin tak suka pada PH tapi tak nak mengundi PN — apakah alternatif akhirnya yang rakyat ada? Saya sebut ini sekali dengan kenyataan YB tentang persediaan untuk... menjual pemilikan.
 
 **Co-host:** Macam...
 
@@ -219,11 +219,11 @@ Saya rasa kita sudah hampir berada pada peringkat yang sama sekarang. Maksudnya,
 
 Reporter-reporter sibuk bertanya sama ada saya ini watak "pengkhianat besar negara" — oh, itu berkaitan surat yang... bukan kenyataan media.
 
-**Host:** Kenyataan media. Media. Baik. Okey, kita beralih kepada isu yang seterusnya — selamat datang kembali kepada tetamu kita. Isu ini berada di tengah-tengah perhatian sekarang: Tan Sri Azam Baki semakin ditekan, dan kita dengar baru-baru ini DAP sudah bersuara meminta ditubuhkan RCI. Jadi kalau saya boleh bertanya, YB, dalam Perhimpunan Turun Azam Baki baru-baru ini, YB sendiri sudah cakap kalau DAP yang bercakap, Perdana Menteri akan dengar. Jadi kalau kita tengok reaksi DAP pun banyak — bukan satu, daripada ramai Ahli Parlimen dan juga kenyataan rasmi menteri-menteri, mereka keluar kenyataan bagi pihak parti. Jadi pada pemerhatian YB, adakah ini memberi kesan atau tidak?
+**Haziq:** Kenyataan media. Media. Baik. Okey, kita beralih kepada isu yang seterusnya — selamat datang kembali kepada tetamu kita. Isu ini berada di tengah-tengah perhatian sekarang: Tan Sri Azam Baki semakin ditekan, dan kita dengar baru-baru ini DAP sudah bersuara meminta ditubuhkan RCI. Jadi kalau saya boleh bertanya, YB, dalam Perhimpunan Turun Azam Baki baru-baru ini, YB sendiri sudah cakap kalau DAP yang bercakap, Perdana Menteri akan dengar. Jadi kalau kita tengok reaksi DAP pun banyak — bukan satu, daripada ramai Ahli Parlimen dan juga kenyataan rasmi menteri-menteri, mereka keluar kenyataan bagi pihak parti. Jadi pada pemerhatian YB, adakah ini memberi kesan atau tidak?
 
 **Rafizi:** Ya, saya rasa ada kesan. Kita sekarang sedang merekod ini pada waktu pagi Jumaat, dan sedang kita rekodkan ini, Kabinet juga sedang bersidang.
 
-**Host:** Ya.
+**Haziq:** Ya.
 
 **Rafizi:** Dan DAP telah pun menyatakan bahawa mereka berkeras agar RCI — Suruhanjaya Siasatan Diraja — ditubuhkan.
 
@@ -243,13 +243,13 @@ Malangnya ini nampak berulang semasa kes Tan Sri Azam Baki ini. Tindak-tanduk pe
 
 **Rafizi:** 1MDB dulu macam inilah. Bila Ahli Parlimen bawa usul untuk membincangkannya, Speaker menolak, tolak, tolak, ada yang kena gantung. Bila isu mula dibawa oleh Asian Wall Street Journal, reaksinya ialah ini propaganda asing, ini untuk mengacau-gadukan kestabilan kerajaan. Sama — reaksi daripada agensi-agensi berkenaan pun sama. Semua ini betul, awak tahu, awal-awal lagi... Hmm... Eh, payah lah — boleh buang telefon ini tak? Dia tak berhenti-henti ni. Mereka ini tidak faham, kalau saya tidak menjawab, maksudnya saya ada sesuatu yang lain. Itu satu cabaran.
 
-**Host:** Jadi mereka...
+**Haziq:** Jadi mereka...
 
 **Rafizi:** ...popular. Sekarang sangat popular. Jadi tengok kat mana. Maksudnya, masa 1MDB dulu, bila ada tuduhan-tuduhan itu awal-awal, SPRM — ni lah, Tan Sri Azam Baki, kat mana dia? Ada kat sini. Tan Sri Azam Baki kat tengah-tengah. Tolong, pak, kat sini — beritahu dia, benda itu memang derma Saudi. Dan benda yang sama, masa 1MDB dahulu, apabila ia mula-mula timbul, reaksi kerajaan ialah pergi kejar orang yang bercakap. "Aku kena tangkap lah, orang itu kena saman lah, DAP kena tangkap," kemudian kena gantung semua. Sekarang ini perkara itu berulang — Dato' Seri Anwar marah balik wartawan bila ditanya, kemudian Speaker tak bagi peluang.
 
 Oleh sebab itu, kita sudah sampai ke peringkat di mana saya rasa DAP sendiri merasakan kalau mereka tidak buat sesuatu, memang mereka yang akan rugi — macam yang saya sebut masa Perhimpunan Turun Azam Baki itu. Dan banyak lagi perkara berlaku — tiba-tiba ada siasatan penyelewengan melibatkan RM3.6 bilion yang membabitkan saya pula. Sebab itu lepas ni, kalau saya tak ada kerja pun, tak apa, saya ada RM3.6 bilion.
 
-**Host:** Sampai hati, YB, seorang-seorang kan. Seorang-seorang.
+**Haziq:** Sampai hati, YB, seorang-seorang kan. Seorang-seorang.
 
 **Rafizi:** Seorang-seorang gayanya — "aku ada RM3.6 bilion, insyaAllah." Kopi pun tak sempat belajar, sudah ada siasatan mengenai konspirasi untuk mengganggu-gugat kestabilan kerajaan. Saya belum sempat komen lagi, wartawan sudah sibuk bekerja. Jadi maksudnya, bibit-bibit yang sama sedang berlaku, dan kita telah melaluinya semasa 1MDB dahulu. Saya tidak nampak bagaimana Dato' Seri Anwar boleh lepas daripada perkara ini.
 
@@ -259,15 +259,15 @@ Yang saya tidak pasti sekarang ialah sama ada Dato' Seri Anwar boleh mempertahan
 
 SPRM ini lebih berkuasa daripada polis, semua tahu — dia boleh tangkap semua orang, dia boleh bekukan akaun orang. Sekarang kebanyakan jenayahnya ialah jenayah kolar putih; jenayah kongsi gelap pun memerlukan jenayah kolar putih kerana mereka nak cuci duit. Jadi kalau tidak ada keyakinan terhadap SPRM, kita akan berada dalam keadaan tidak tahu nak percaya siapa. Bila SPRM tangkap orang — kalau ahli politik itu betul-betul makan duit, betul-betul rasuah, SPRM tangkap, tapi rakyat tak percaya sebab rakyat tak yakin dengan SPRM — itu sangat-sangat merbahaya.
 
-**Host:** Okay, bye. Kita...
+**Haziq:** Okay, bye. Kita...
 
 **Rafizi:** Kita ada 3 segmen lagi, 3 tajuk lagi, insyaAllah 20 minit — 20 minit, 15 minit, mungkin pendek-pendek sebab kita ada topik Gen Z yang kita berhutang, akhirnya.
 
-**Host:** Baik, seterusnya. Berkaitan RUU Perlembagaan pemisahan Peguam Negara dan Pendakwa Raya. Kalau saya boleh mendahulukan soalan terus, YB — kalau kita tengok hujah utama daripada pihak mereka ialah, "oh, ini tidak akan ada penglibatan daripada ahli politik."
+**Haziq:** Baik, seterusnya. Berkaitan RUU Perlembagaan pemisahan Peguam Negara dan Pendakwa Raya. Kalau saya boleh mendahulukan soalan terus, YB — kalau kita tengok hujah utama daripada pihak mereka ialah, "oh, ini tidak akan ada penglibatan daripada ahli politik."
 
 **Rafizi:** Hujah utama daripada siapa?
 
-**Host:** Daripada kerajaan, termasuk Peguam Negara, dalam taklimat dengan Ahli Parlimen — ini tidak akan ada penglibatan langsung oleh ahli politik dalam pelantikan itu. Dan ada juga komentator yang menambah, menyokong kata-kata itu — kalau diletakkan di bawah parlimen, akan ada banyak kepentingan peribadi dalam kalangan ahli politik. Jadi biarlah bukan ahli politik yang menguruskannya, sebab kalau ahli politik, lain cerita.
+**Haziq:** Daripada kerajaan, termasuk Peguam Negara, dalam taklimat dengan Ahli Parlimen — ini tidak akan ada penglibatan langsung oleh ahli politik dalam pelantikan itu. Dan ada juga komentator yang menambah, menyokong kata-kata itu — kalau diletakkan di bawah parlimen, akan ada banyak kepentingan peribadi dalam kalangan ahli politik. Jadi biarlah bukan ahli politik yang menguruskannya, sebab kalau ahli politik, lain cerita.
 
 **Rafizi:** Tapi sebelum itu — ya, sorry, rambut saya dah banyak berkurang kan? Oh ya, Ken?
 
@@ -285,7 +285,7 @@ SPRM ini lebih berkuasa daripada polis, semua tahu — dia boleh tangkap semua o
 
 Apa maxim yang paling utama di sini — ini yang saya nak kongsikan dengan pendengar-pendengar. Memang mudah untuk kita hentam Ahli Parlimen atau ahli politik — "ahli politik ini jahat, ahli politik ini tak boleh dipercayai, mereka korup, mereka ada kepentingan peribadi, semua masalah di dunia ini daripada..."
 
-**Host:** ...semua masalah kat dunia ni daripada...
+**Haziq:** ...semua masalah kat dunia ni daripada...
 
 **Rafizi:** Semua masalah ini, semua masalah ahli politik, kan? Kita kena kembali kepada maxim yang paling penting: kuasa itu cenderung merosakkan, dan kuasa mutlak pasti merosakkan secara mutlak. Ia tidak mengatakan ahli politik itu semestinya korup — tapi sesiapa yang memegang kuasa memang ada kecenderungan untuk menjadi korup. Kalau kuasa itu dipegang oleh beberapa orang sahaja tanpa ada semak-imbang, tanpa ada akauntabiliti, maka kecenderungan untuk ia menjadi lebih korup adalah lebih tinggi.
 
@@ -307,7 +307,7 @@ Sebab itu, bagi saya, alasan yang mengatakan "ini tidak boleh melibatkan parlime
 
 Soal mutu Ahli Parlimen itu pula adalah tanggungjawab kita bersama sebagai rakyat. Kita kena pastikan parti politik dan calon-calon yang diletakkan sebagai Ahli Parlimen itu calon yang berkemampuan, berakal dan berakhlak. Rakyat pula kena memilih mereka yang betul-betul boleh menjalankan tugas itu — jangan ikut sahaja apa yang parti letakkan. Orang dulu kata "letak songkok pun boleh menang" — janganlah letak songkok, janganlah pilih songkok. Apabila itu berlaku, barulah kita sampai ke peringkat semak-imbang yang baik, barulah kuasa itu diagihkan sewajarnya kepada parlimen. Dan Pendakwa Raya yang bakal dilantik itu perlu berhati-hati, kerana tindak-tanduknya akan turut dipantau, dan parlimen mempunyai kuasa — kuasa yang sumbernya datang daripada kuasa dan suara rakyat yang dizahirkan dalam pilihan raya.
 
-**Host:** Ehm... Mungkin satu lagi berkaitan dengan penglibatan parlimen ini — dalam RUU ini pun, Ahli Parlimen diberitahu dengan agak singkat. Blue Bill baru diterima, kemudian minggu depan sudah nak dibahas dan diundi terus. Tapi jawapan yang diberikan ialah, "oh, ini sudah 3-4 tahun proses ini berlangsung" — siapa yang bagi jawapan ini? — bahawa penglibatan urus semua ini sudah berlaku lebih awal.
+**Haziq:** Ehm... Mungkin satu lagi berkaitan dengan penglibatan parlimen ini — dalam RUU ini pun, Ahli Parlimen diberitahu dengan agak singkat. Blue Bill baru diterima, kemudian minggu depan sudah nak dibahas dan diundi terus. Tapi jawapan yang diberikan ialah, "oh, ini sudah 3-4 tahun proses ini berlangsung" — siapa yang bagi jawapan ini? — bahawa penglibatan urus semua ini sudah berlaku lebih awal.
 
 **Rafizi:** Saya tak rasa penglibatan urus dengan Ahli Parlimen berlaku. Masa kami buat 2-3 akta dahulu, memang betul kami libat-urus selama 5-6 bulan, dan orang kata pun itu tak cukup. Tapi yang ini tak ada langsung penglibatan urus — kalaupun ada, hanya minggu lepas.
 
@@ -325,19 +325,19 @@ Sebab itu saya harap — saya tidak tahu apa akan jadi minggu depan, kerana seta
 
 Jadi berdasarkan tiga kumpulan ini, nampaknya sukarlah kerajaan hendak mendapat 148, kerana kerajaan sekarang ada 152 — kalau tolak kami 10 orang, tinggal 142, susah nak dapat 148. Saya tidak pasti macam mana ia nak diteruskan. Saya berharap kerajaan akhirnya menerima pandangan dan memasukkan bahagian akauntabiliti serta peranan parlimen. Kalau tidak, kita sudah ada masalah — kita "beli" sokongan lepas itu.
 
-**Host:** Okey, baik, YB. Bercakap tentang Perikatan Nasional, kita ke topik kedua terakhir — berkaitan pergolakan Perikatan Nasional. Akhirnya, adakah ia selesai atau tidak?
+**Haziq:** Okey, baik, YB. Bercakap tentang Perikatan Nasional, kita ke topik kedua terakhir — berkaitan pergolakan Perikatan Nasional. Akhirnya, adakah ia selesai atau tidak?
 
 **Rafizi:** Cuba cek — pejabat Bloomberg baru sahaja kena serbu, cuba cek sama ada pejabat kita ada di mana-mana yang kena serbu, sebab tadi telefon tak berhenti-henti. Sekejap.
 
-**Host:** Haa.
+**Haziq:** Haa.
 
 **Rafizi:** Haa.
 
-**Host:** Jadi sebagai penganalisis politik, macam mana orang boleh tahu — sebenarnya berita ini agak tak lengkap, cuma berita bahawa pengerusi PN yang baru telah dilantik, tapi bagaimana konsensus itu dicapai, adakah kedua-dua pihak menang, kalau ada pihak yang kalah apa yang dikorbankan — semua ini tidak ada akses awam. Jadi kalau pada YB — bukanlah YB ada akses, tapi sila berasa bebas untuk berkongsi pandangan.
+**Haziq:** Jadi sebagai penganalisis politik, macam mana orang boleh tahu — sebenarnya berita ini agak tak lengkap, cuma berita bahawa pengerusi PN yang baru telah dilantik, tapi bagaimana konsensus itu dicapai, adakah kedua-dua pihak menang, kalau ada pihak yang kalah apa yang dikorbankan — semua ini tidak ada akses awam. Jadi kalau pada YB — bukanlah YB ada akses, tapi sila berasa bebas untuk berkongsi pandangan.
 
 **Rafizi:** Saya tak termasuk dalam kumpulan WhatsApp mereka, saya tak ada kumpulan WhatsApp itu. Tapi saya rasa kalau kita tengok diagnosisnya, agak jelas. Maksudnya, PAS sekarang ini berkuasa penuh di dalam PN. Oleh kerana perpecahan yang berlaku di dalam Bersatu, PAS boleh memainkan peranan pecah dan perintah dengan lebih mudah, kerana dua-dua faksyen — Tan Sri Muhyiddin dan Dato' Seri Hamzah Zainuddin — kedua-dua kumpulan mereka bergantung harap kepada PAS.
 
-**Host:** Hmm.
+**Haziq:** Hmm.
 
 **Rafizi:** Jadi kedua-dua mereka mahu baik dengan PAS, dan itu membolehkan PAS mendapat segala-galanya. Sebab itu setakat ini kita sudah tahu bahawa Pengerusi PN adalah daripada PAS, dan Ketua Pembangkang pun akan datang daripada PAS — cuma masih belum ditentukan siapa Ketua Pembangkangnya. Saya rasa mereka perlu tentukan sama ada Ketua Pembangkang itu Dato' Tuan Ibrahim sebagai Timbalan Presiden, atau Dato' Takiyuddin sebagai Ketua Whip. Ini menunjukkan bahawa di peringkat Tan Sri Muhyiddin Yassin, setakat ini pilihan politik yang ada ialah mengalah 100% kepada PAS. Tak ada, ya?
 
@@ -345,7 +345,7 @@ Jadi berdasarkan tiga kumpulan ini, nampaknya sukarlah kerajaan hendak mendapat 
 
 **Rafizi:** Tak ada, Zulfar. Okey. Kat bawah tak ada, kat bawah macam ini. Ha ha ha. Maksudnya dia kena mengalah 100% kepada PAS dan beri muka kepada PAS 100%, kemudian membeli masa untuk terus berjuang di kemudian hari. Pada masa yang sama, faksyen Dato' Seri Hamzah Zainuddin pun sudah menyatakan mereka menarik diri daripada pengerusi PN yang baru. Apa yang berlaku di dalam Bersatu sudah sampai ke peringkat itu, dan ia memberi kelebihan kepada PAS untuk memainkan peranan pecah dan perintah sepenuhnya.
 
-**Host:** Jadi orang tanya juga, adakah Dato' Seri Hamzah akhirnya dicampak ke bawah PAS bersama rakan-rakannya?
+**Haziq:** Jadi orang tanya juga, adakah Dato' Seri Hamzah akhirnya dicampak ke bawah PAS bersama rakan-rakannya?
 
 **Rafizi:** Tak, saya rasa yang akan berlaku begini — khabar angin mengatakan Dato' Seri Hamzah Zainuddin akan masuk sebuah parti Melayu yang lain. Yang saya dengar ialah Berjasa. Dan kalau sebelum ini masalah Muafakat Nasional ini tidak boleh dibawa ke depan adalah kerana kehadiran Bersatu, terutamanya Tan Sri Muhyiddin, sebab dia calon Perdana Menteri — dengan keadaan yang berlaku ini, satu konfigurasi yang mungkin berlaku ialah kalau Dato' Seri Hamzah dan Ahli Parlimen yang dikatakan ada 19 orang dengan dia, masuk ke sebuah parti yang lebih kecil tapi parti Melayu, contohnya Berjasa — dan itu membolehkan mereka menjadi jambatan kepada UMNO dan PAS untuk menghidupkan kembali Muafakat Nasional. Supaya dalam pilihan raya umum akan datang, UMNO, PAS dan Berjasa akan menjadi satu kuasa baru, dan secara automatik itu bermakna Perikatan Nasional ini akan mati.
 
@@ -355,17 +355,17 @@ Sebab itu saya beritahu Dato' Seri Anwar — apa pun strategi yang dia ada, dia 
 
 Apatah lagi dengan rang undang-undang pemisahan kuasa itu — itu bermakna kedudukan Dato' Seri Zahid Hamidi dalam UMNO sebenarnya semakin kukuh. Sebab apa?
 
-**Host:** Sebab dia belum jadi PM?
+**Haziq:** Sebab dia belum jadi PM?
 
 **Rafizi:** Sebab dia belum jadi PM, dan saingan utamanya iaitu Dato' Seri Najib, kalaupun diberi pengampunan dan kalaupun keluar penjara, kemungkinan besar susah untuk Dato' Seri Najib jadi PM atau jadi calon PM. Jadi jalannya sudah jelas untuk Dato' Seri Zahid Hamidi sekarang. Kalau kita jadi Dato' Seri Zahid Hamidi, kenapa kita nak membontoti Anwar Ibrahim sampai bila-bila? Tambahan pula kalau keadaannya kita merasakan BN lebih kuat daripada PH. Jadi kalau kita jadi BN, kita mahu ada pilihan yang berbeza-beza, jalan mana yang memberi peluang terbaik kepada Dato' Seri Zahid Hamidi untuk menjadi Perdana Menteri. Dan jalannya mungkin Muafakat Nasional, contohnya.
 
-**Host:** Menarik, menarik. Kita simpan lagi ulasan itu untuk akan datang. Kita pergi ke...
+**Haziq:** Menarik, menarik. Kita simpan lagi ulasan itu untuk akan datang. Kita pergi ke...
 
 **Rafizi:** Selesai ke tidak lagi? Belum jawab lagi. Selesai ke tidak?
 
 **Co-host:** Hmmm... kalau Perikatan Nasional dipotong, Muhyiddin dan geng keluar, mungkin selesai.
 
-**Host:** Kalau ikut kata YB tadi, sudah "dibungkus" lah Perikatan Nasional ini.
+**Haziq:** Kalau ikut kata YB tadi, sudah "dibungkus" lah Perikatan Nasional ini.
 
 **Rafizi:** Kalau ikut terus dengan Muafakat Nasional, kita perlu tunggu dan lihat. Maksudnya buat masa sekarang mereka dalam tahap euforia — penyokong PN lega, rasa semua sudah selesai. Tapi hakikatnya, apabila ia sudah sampai ke peringkat berpecah dan PAS menguasai sepenuhnya Perikatan Nasional, saya tak rasa ia boleh menyembuhkan duka — duka itu dalam. Saya bagi contoh begini: kenapa Perang Dunia Kedua berlaku? Jangan bagi alasan Hitler sahaja — tapi kenapa Hitler itu jadi Hitler, kenapa wujudnya Hitler itu, sehingga dia diterima oleh rakyat Jerman?
 
