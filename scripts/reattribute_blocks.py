@@ -70,6 +70,13 @@ MIN_MINORITY_RETENTION = 0.80
 # data/qa_reviewed.json with that evidence, not in another re-cut.
 MIN_IMPROVEMENT = 0.15
 
+# Finding a speaker the file did not have is material gain on its own, even when neither
+# the longest block nor total minority time moves. Needed for guest-heavy episodes: ep21's
+# guest holds 75.8 of its 76 minority minutes, so a co-host appearing with a few minutes of
+# his own is invisible against that total. Counted label-agnostically, since clusters are
+# still anonymous at this point.
+NEW_SPEAKER_MIN_S = 60.0
+
 WINDOW_S = 45.0
 ACCEPT_FRACTION = 0.62
 # Words per second is measured PER BLOCK (its own word count over its own duration)
@@ -340,7 +347,22 @@ def main():
         block_gain = (old_max - new_max) / old_max if old_max else 0.0
         minority_gain = ((new_minority - old_minority) / old_minority
                          if old_minority else 1.0)
-        if block_gain < MIN_IMPROVEMENT and minority_gain < MIN_IMPROVEMENT:
+        def speakers_over(spans, floor=NEW_SPEAKER_MIN_S):
+            per = {}
+            for st, en, lab in spans:
+                per[lab] = per.get(lab, 0.0) + max(0.0, en - st)
+            return sum(1 for v in per.values() if v >= floor)
+
+        old_voices = speakers_over([(b["start"], b["end"], b["label"]) for b in blocks])
+        new_voices = speakers_over([(t, out[j + 1][0] if j + 1 < len(out) else duration, lab)
+                                    for j, (t, lab, _) in enumerate(out)])
+        found_voice = new_voices > old_voices
+        if found_voice:
+            print(f"  a voice the file did not have: {old_voices} -> {new_voices} speakers "
+                  f"with over {NEW_SPEAKER_MIN_S:.0f}s", flush=True)
+
+        if (block_gain < MIN_IMPROVEMENT and minority_gain < MIN_IMPROVEMENT
+                and not found_voice):
             print(f"  ABORT: no material gain -- longest block {old_max/60:.1f} -> {new_max/60:.1f} min "
                   f"({block_gain*100:+.0f}%), minority time {old_minority/60:.1f} -> "
                   f"{new_minority/60:.1f} min ({minority_gain*100:+.0f}%). Left untouched; if that "
