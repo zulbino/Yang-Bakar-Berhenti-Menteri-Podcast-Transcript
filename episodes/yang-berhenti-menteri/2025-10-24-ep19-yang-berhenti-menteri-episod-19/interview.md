@@ -146,7 +146,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Baik, baik, baik.
 
-**Haziq:** Okey baby, ada lagi ni. Di Pavali... ni dekat mana ni?
+**Haziq:** Okey YB, ada lagi ni. Di Pavali... ni dekat mana ni?
 
 **Haziq:** Diorang kata dekat Pening eh?
 
@@ -318,7 +318,7 @@ Yang bagusnya, saya ingat hanya walaun yang betul-betul percaya kepada perkara i
 
 Because of that, the pragmatic step has to go through the same way. For example, if Malaysia trades with China, jadi kita tak perlulah menggunakan dolar — transaksi kita sama ada dalam Ringgit ataupun Yuan. Kalau Malaysia and Saudi Arabia, if we can be sure, we can use whichever, whether it's Ringgit or Riyal, for example, right? So that step is more pragmatic and realistic than the political rhetoric of "let's use Dinar, let's use this and that." Because Malaysia is a small country — kita bukanlah, kita bukan Arab Saudi pun. Jadi yang selalu akan berlaku seperti ini iaitu retorik di Marang, dekat kampung-kampung kat Marang, kedai kopi — itu yang saya kata ni sedap didengar, ada kedai kopi ni, best lah, bunyi hebat semua, bagus lah dia. Tapi ada sebab kenapa perkara itu, hatta Arab Saudi pun, sampai sekarang Cina ke, Jepun ke, masih lagi belum boleh buat.
 
-**Haziq:** Okey YB, clear, terima kasih kemaskan idea Tan Sri Abdul Hadi Awang. Kita ke isu seterusnya. Ini berkaitan ucapan PM — kita pukul semua, PAS kita pukul, sekarang PM pula kena pukul lah. Di residensi Aman Damai. Mungkin saya explain lah, saya takut orang tak faham kan — lagipun kalau yang dengar dekat Spotify tu, dia tak tengok, dia tengah jogging, jadi memang kena explain apa dia. Jadi PMX menegur supaya projek perumahan mega, 3,500 unit ke atas, mesti sediakan sekolah dan tadika. Jadi dia tegur direct lah dalam ucapannya, dia katakan in fact kalau tak buat lagi projek ni, satu lagi blok lain tu kena tangguh sampai syarat ni dipenuhi — in fact dia single out pengarah perancang tak siap saya. Jadi cuma WB, soalan saya — tapi saya kena beritahu awal-awal lah, in the TikTok video, specific for this video, the response from the public is quite good, there is no PMX approach. But what is YB's opinion with the way PM interjects like this? Is there an adverse effect, or is it a good thing that we welcome once?
+**Haziq:** Okey YB, clear, terima kasih kemaskan idea Tan Sri Abdul Hadi Awang. Kita ke isu seterusnya. Ini berkaitan ucapan PM — kita pukul semua, PAS kita pukul, sekarang PM pula kena pukul lah. Di residensi Aman Damai. Mungkin saya explain lah, saya takut orang tak faham kan — lagipun kalau yang dengar dekat Spotify tu, dia tak tengok, dia tengah jogging, jadi memang kena explain apa dia. Jadi PMX menegur supaya projek perumahan mega, 3,500 unit ke atas, mesti sediakan sekolah dan tadika. Jadi dia tegur direct lah dalam ucapannya, dia katakan in fact kalau tak buat lagi projek ni, satu lagi blok lain tu kena tangguh sampai syarat ni dipenuhi — in fact dia single out pengarah perancang tak siap saya. Jadi cuma YB, soalan saya — tapi saya kena beritahu awal-awal lah, in the TikTok video, specific for this video, the response from the public is quite good, there is no PMX approach. But what is YB's opinion with the way PM interjects like this? Is there an adverse effect, or is it a good thing that we welcome once?
 
 **Rafizi:** Kebimbangan saya ialah kalau... saya tak pasti, saya tengok video ni, PM tegur seolah-olah yang tak nak buat ini adalah pemaju, dan seolah-olah tanggungjawab menyediakan sekolah tadika ini semua tanggungjawab pemaju. What I'm not sure is whether it's a gimmick of PM's politics — because as Haziq said earlier, he's popular with the people — or he's not clear about the administration process. Because sebelum sesuatu projek itu diluluskan, sama ada projek perumahan bertingkat seperti ini ataupun rumah teres, apa proses dia? We have to get the right to plan — kebenaran merancang. If not, we can't build it. What does the right to plan refer to? It can't be that every city council decides on its own what's suitable pada apa yang nak bina dekat situ — ia adalah kesesuaian keputusan, angkang dia macam mana, apa yang ada, dia merujuk kepada apa. Dia merujuk kepada beberapa perkara lah. Satu, dia merujuk kepada rancangan tempatan. Okey. Dia tak boleh, contohnya, kalau dekat situ sebelum dia nak luluskan, tanah itu contohnya untuk rekreasi, dan dia kena melalui proses kalau dia nak tukar syarat tanah itu — dia kena tengok pula akan ada bantahan kerana tanah ini telah dizonkan untuk perkara A, perkara B, tak boleh pandai-pandai tukar — dan juga standard-standard yang telah ditetapkan oleh Plan Malaysia. Plan Malaysia adalah sebuah agensi di bawah KPKT, di bawah kerajaan persekutuan, yang menetapkan standard perbandaran.
 
@@ -340,7 +340,7 @@ If the private sector wants to make it easy when asked to do this, they can do i
 
 **Rafizi:** Baik.
 
-**Haziq:** Kita ada lagi — Allah, PAS lagi, WB, WB, tak letih ke membetulkan naratif dia orang ni?
+**Haziq:** Kita ada lagi — Allah, PAS lagi, YB, YB, tak letih ke membetulkan naratif dia orang ni?
 
 **Rafizi:** That's what it's called, preaching. Yes, preaching. Ini pun sama — yang ini pasal Marzuk. Saya juga ada cerita, sekitar 2012, sama macam Nurul Islam.
 
@@ -400,7 +400,7 @@ The second thing — and I was actually surprised — why is there no government
 
 **Rafizi:** Ha, yang tu dia tak pernah sebut pun. Jadi sebab itulah, if this is the style of PAS leadership, I fear for the future. I'm okay — I'm almost 50 years old, it's enough, just a little more, 20 years to go. But if it's like this, it means either he doesn't understand the numbers, or they don't want to act fairly, or their political model is to incite the Malays to dislike the Chinese, because Penang is Chinese, Kelantan is Malay. Where else do we want that? Yang tu kita bertanggungjawab ke Kelantan, ke Terengganu, semua ini. Masa itu, tak ada pula dia buat bising. Malah saya yang mempersoalkan dulu, adakah keperluan untuk membelanjakan sampai 70 bilion — bukan 84, ini tahun 2014, 2015, anggarannya 70 bilion — saya yang mempersoalkan adakah keperluan untuk kita membuat ECRL ini. Jadi saya rasa yang itu kita tunggu PAS nak jawab macam mana, ha, ECRL, ECRL.
 
-**Haziq:** Baik, WB. Habis kekerasan kita minggu ini. Let's go to the world news.
+**Haziq:** Baik, YB. Habis kekerasan kita minggu ini. Let's go to the world news.
 
 **Rafizi:** Okey.
 
@@ -438,7 +438,7 @@ Sebab itu, kalau kita lihat, saya sebelum menjadi menteri tahun 2022, saya ada p
 
 **Rafizi:** So this is definitely a great blow to the French, because they feel proud — because their country, in terms of its economy, is now in a bad state. Dari segi kerajaannya, masyarakatnya, krisis politik, dan tiba-tiba sudah tentu akan — what is happening at the Louvre is like a symbol to a community and a country that used to feel great, that they're now a small country.
 
-**Haziq:** Okay, WB. Tapi ada orang tanya juga, at least in the Louvre we have heard of theft, but we have never heard of theft or attempted theft in our national museums. Don't you think that's one of the problems too?
+**Haziq:** Okay, YB. Tapi ada orang tanya juga, at least in the Louvre we have heard of theft, but we have never heard of theft or attempted theft in our national museums. Don't you think that's one of the problems too?
 
 **Rafizi:** Why would you want to go to the museum? We're talking about attractions — what's expensive in our museum? I don't think there's anything.
 
@@ -450,7 +450,7 @@ Sebab itu, kalau kita lihat, saya sebelum menjadi menteri tahun 2022, saya ada p
 
 **Rafizi:** There is a Mona Lisa here? Here, I think what is stored is worth hundreds of millions — for example, the wealth of great politicians, tens of millions, is put in the National Museum. Ada banyak Ocean's Eleven nak pergi National Museum? I don't know about the National Museum, I don't think there are many treasures or precious items stored there.
 
-**Haziq:** Okay, well, WB, clear. If we can move to the last issue — the world issue, PM Japan. She is a staunch traditionalist and is interested in Margaret Thatcher. If I may ask, two things that are a bit ironic — Japan is the most aging nation, for example. But now, when their policy is anti-immigration, how do they reconcile these two needs, when what they want to impose is quite contradictory?
+**Haziq:** Okay, well, YB, clear. If we can move to the last issue — the world issue, PM Japan. She is a staunch traditionalist and is interested in Margaret Thatcher. If I may ask, two things that are a bit ironic — Japan is the most aging nation, for example. But now, when their policy is anti-immigration, how do they reconcile these two needs, when what they want to impose is quite contradictory?
 
 **Rafizi:** Tak, I mean, saya akan cerita aging nation semua ni — dia kekal jadi masalah pembuat dasar; hari politik dia tak fikir. Okay, jadi dia yang lebih membimbangkan tentang PM wanita pertama Jepun ini, bukan sangat soal diri dia lah. Kebimbangannya ialah the swing, kecenderungan ke arah anti-immigran, dasar-dasar yang dilihat sebagai sayap kanan, sebagai ekstrim. Kerana ada dua masyarakat dalam dunia ini yang trauma akibat Perang Dunia Kedua dan mereka trauma dengan parti-parti pelampau sayap kanan — satu ialah Jerman, satu lagi Jepun lah. Jadi ini kali pertama, selain daripada beliau adalah Perdana Menteri wanita pertama, yang lebih signifikan ialah ini kali pertama seorang yang dilihat bersayap kanan, yang secara terbuka anti-immigran, menjadi Perdana Menteri Jepun. Dan saya ingat semua perkara lain itu adalah perkara yang secondary dalam politik ataupun yang diperhatikan oleh dunia lah.
 
@@ -458,7 +458,7 @@ Sebab itu, kalau kita lihat, saya sebelum menjadi menteri tahun 2022, saya ada p
 
 **Rafizi:** Yes.
 
-**Haziq:** Okay, good. Done, WB, we're going to the next segment. We have Fuyoh — where are we going to be? We're going to be there in an hour and 50 minutes.
+**Haziq:** Okay, good. Done, YB, we're going to the next segment. We have Fuyoh — where are we going to be? We're going to be there in an hour and 50 minutes.
 
 **Rafizi:** Okay, we have 10 minutes more, we're going to be fast.
 

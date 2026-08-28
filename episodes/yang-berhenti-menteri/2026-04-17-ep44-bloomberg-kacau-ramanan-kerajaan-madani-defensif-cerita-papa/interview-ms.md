@@ -273,7 +273,7 @@ Ambil contoh di Malaysia — saya dapat emel. Saya tak baca lagi. Mungkin saya b
 
 **Speaker 1:** Daripada mangsa, atau nak kata mangsa itu pun tidak juga — sebab dia ini orang ramai kan, dia selalu tengok kita mengulas isu-isu seperti pekerja asing semua ini kan, jadi dia berkongsi pengalaman dia yang dia pernah lalui. Erm... jangan lupa untuk melanggan. Kalau jumpa, jumpa; kalau tak jumpa, saya boleh sebut sahaja.
 
-**Speaker 2:** Ini baru, Abie?
+**Speaker 2:** Ini baru, YB?
 
 **Speaker 1:** Baru-baru, dua-tiga hari. Tapi kau tahu lah, emel aku ni banyak sangat, kena scroll.
 

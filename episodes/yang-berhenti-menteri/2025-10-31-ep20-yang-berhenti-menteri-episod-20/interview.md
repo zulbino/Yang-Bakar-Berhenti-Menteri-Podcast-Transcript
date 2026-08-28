@@ -113,7 +113,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Tak, dia senang je. Dalil politik lah. Okay. Sebab awal tu, ini juga masalah dalam politik. Sebab dia doktrin, an enemy of my enemy is my friend and vice versa. Jadi awal tu saya ingat PAS memainkan... retorik bahawa Anwar diketepikan oleh Trump sebab tak jumpa, tak dapat panggilan telefon semua kan. Jadi oleh sebab Trump dilihat mengenepikan Perdana Menteri Malaysia yang mereka tidak suka, jadi Trump jadi kawan dia, jadi idola dia lah, itu yang sampai ucap tahniah. Sekarang ni bila tiba-tiba Trump pula jadi baik dengan Dato' Seri Anwar yang baru lah.
 
-**Haziq:** Tapi yelah dia tahulah baby dia pernah hantar ucapan kepada Trump dan kemudian dia terus tak dapat jadi kerajaan. Jadi sebab itulah dia kata macam ni. Okay
+**Haziq:** Tapi yelah dia tahulah YB dia pernah hantar ucapan kepada Trump dan kemudian dia terus tak dapat jadi kerajaan. Jadi sebab itulah dia kata macam ni. Okay
 
 **Rafizi:** aku tak faham sangat apa yang kau cakap, aku gelak je lah.
 
@@ -121,11 +121,11 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** je yang kat luar tu faham
 
-**Haziq:** lah. Okay baby yang seterusnya, pasal Trump juga. Kita ada Papa Gomo — Trump tak jadi datang Malaysia. Ini bila
+**Haziq:** lah. Okay YB yang seterusnya, pasal Trump juga. Kita ada Papa Gomo — Trump tak jadi datang Malaysia. Ini bila
 
 **Rafizi:** pula Papa Gomor cakap ni?
 
-**Haziq:** Ini memang a few days sebelum datang. Cuma yang mengejutkan WB, saya tak fahamlah psyche sesetengah yang menonton ni sampai 7,000-8,000 di live TikTok lah. Jadi, ya. Apa?
+**Haziq:** Ini memang a few days sebelum datang. Cuma yang mengejutkan YB, saya tak fahamlah psyche sesetengah yang menonton ni sampai 7,000-8,000 di live TikTok lah. Jadi, ya. Apa?
 
 **Rafizi:** Tapi dia lalu datang lah. Saya pun tak faham yang korang letakkan Papa Gomo kat sini ni. Dia actually
 
@@ -133,11 +133,11 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Malaysia. Siapa percaya Papa Gomo, sejak dia selari masuk lock up macam dulu lah. Jadi, yalah itu masalah ada... Kita macam budaya kita juga macam dulu-dulu kan, kita ada orang kata "sidang gosip tingkap". Pagi-pagi, makcik-makcik semua buka tingkap, rumah berjiran. Lepas itu dia bercakap lah. Semua keluar, semua cerita. Jadi memang dalam masyarakat kita ada market lah untuk orang macam Papa Gomo ni. Dia cakap apa pun, dia dan pengikut-pengikut dia disatukan oleh satu perkara lah, iaitu kebencian kepada Anwar Ibrahim. Jadi lagi banyak hentam, lagi banyak bawa cerita, walaupun tak penting, yang menunjukkan Anwar itu tak baik, Papa Gomo akan terus ada pengikutlah. Yang malang itu pengikut-pengikut dia tu lah yang akhirnya jadi bahan konten kepada Papa Gomo sahaja.
 
-**Haziq:** Baik, baik, baik. Kita tengok ada lagi ke tak. Okey, baby juara dunia — seekor kucing bertina.
+**Haziq:** Baik, baik, baik. Kita tengok ada lagi ke tak. Okey, YB juara dunia — seekor kucing bertina.
 
 **Rafizi:** Baik lagi kucing ni daripada Papa Gomo. Paling kurang menaikkan nama Malaysia.
 
-**Haziq:** Tahniah kepada baby. Dia menang di Romania, pertunjukan kucing antarabangsa. YB tak nak hantar kucing YB? Tak boleh sebab
+**Haziq:** Tahniah kepada YB. Dia menang di Romania, pertunjukan kucing antarabangsa. YB tak nak hantar kucing YB? Tak boleh sebab
 
 **Rafizi:** ada belah-belah ekor tu. Jadi dia tak boleh pilih kasih.
 
@@ -147,11 +147,11 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Tapi mungkin ada yang akan kata inilah usaha dia sebagai ahli parlimen backbencher untuk apa ni — mengharumkan nama PM dan kerajaan untuk...
 
-**Rafizi:** Ini bukan mengharumkan nama, dia mengundang kritikan. Dan untuk jangka masa yang panjang, contohnya PKR di peringkat antarabangsa — dulu jawatan saya yang pertama dalam PKR, dalam Pemuda Keadilan masa itu, ialah pengerusi biro antarabangsa. Dan jaringan antarabangsa yang kita jalin ialah dengan parti-parti progresif. Kalau di UK contohnya, kita tak rapat sangat dengan Conservative Party. Dengan Labour, parti buruh yang dilihat lebih progresif, kita lebih rapat, dengan tokoh contohnya macam Jeremy Corbyn dan Ann Clwyd, yang mempertahankan Palestine kan. Jadi jaringan antarabangsa PKR itu ialah di kalangan parti-parti progresif. Jadi bila ada ahli parlimen kata ini untuk melonjakkan Perdana Menteri, dia tak berlaku begitulah. Dia sebenarnya mencacatkan sedikitlah image dan juga intipati PKR yang dibina selama ini. Baik Obi, patut tanyalah Cik GPT dulu, Cik GPT akan bagi jawapan macam itulah.
+**Rafizi:** Ini bukan mengharumkan nama, dia mengundang kritikan. Dan untuk jangka masa yang panjang, contohnya PKR di peringkat antarabangsa — dulu jawatan saya yang pertama dalam PKR, dalam Pemuda Keadilan masa itu, ialah pengerusi biro antarabangsa. Dan jaringan antarabangsa yang kita jalin ialah dengan parti-parti progresif. Kalau di UK contohnya, kita tak rapat sangat dengan Conservative Party. Dengan Labour, parti buruh yang dilihat lebih progresif, kita lebih rapat, dengan tokoh contohnya macam Jeremy Corbyn dan Ann Clwyd, yang mempertahankan Palestine kan. Jadi jaringan antarabangsa PKR itu ialah di kalangan parti-parti progresif. Jadi bila ada ahli parlimen kata ini untuk melonjakkan Perdana Menteri, dia tak berlaku begitulah. Dia sebenarnya mencacatkan sedikitlah image dan juga intipati PKR yang dibina selama ini. Baik YB, patut tanyalah Cik GPT dulu, Cik GPT akan bagi jawapan macam itulah.
 
 **Haziq:** Cik GPT biasanya, ya, betul. Saya setuju. Saya setuju.
 
-**Rafizi:** Itu geruk. Okey. Cik GPT tak, Cik GPT akan beritahu tau. Okey, baik Obi. Next. Sila berasa bebas untuk menyukai,
+**Rafizi:** Itu geruk. Okey. Cik GPT tak, Cik GPT akan beritahu tau. Okey, baik YB. Next. Sila berasa bebas untuk menyukai,
 
 **Haziq:** melanggan, memuji dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian. Okay, last. Cuti-cuti Malaysia, seminggu baru cukup, daripada tak lain tak bukan Muhammad Sawitik Omar. Kerana seronok datang ke KL, boleh menari, Donald Trump hajat nak duduk seminggu, tetapi kerana dia takut kepada pencela jalanan, dia pulang awal. Selamat jalan Trump.
 
@@ -159,9 +159,9 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Fantastic.
 
-**Rafizi:** Fantastic. Okay, baik Obi. Jadi itu Obi nak bagi bintang? Bintang terus kepada dia sebenarnya sebab level dia — Papa Gomo dan Sayuti ni dah kira satu bakul, dia tie, tak boleh nak bagi kat diorang lah. Jadi saya bagi kepada Make Malaysia Great Again, sebab terlebih-lebih beria dia nak membodek sampai jadi macam ni. Kau lah, PKR sekarang ni ada dua kekosongan menteri kan, mungkin lah dengan Make Malaysia Great Again ni Ahli Parlimen Bayan Baru boleh jadi menteri lepas ni, tak tahu lah. Baik Obi, so yang ni pemenang untuk minggu inilah. Tahniah. Empat setengah bintang. Empat setengah bintang. Sebenarnya aku nak bagi tiga suku bintang. Okay.
+**Rafizi:** Fantastic. Okay, baik YB. Jadi itu YB nak bagi bintang? Bintang terus kepada dia sebenarnya sebab level dia — Papa Gomo dan Sayuti ni dah kira satu bakul, dia tie, tak boleh nak bagi kat diorang lah. Jadi saya bagi kepada Make Malaysia Great Again, sebab terlebih-lebih beria dia nak membodek sampai jadi macam ni. Kau lah, PKR sekarang ni ada dua kekosongan menteri kan, mungkin lah dengan Make Malaysia Great Again ni Ahli Parlimen Bayan Baru boleh jadi menteri lepas ni, tak tahu lah. Baik YB, so yang ni pemenang untuk minggu inilah. Tahniah. Empat setengah bintang. Empat setengah bintang. Sebenarnya aku nak bagi tiga suku bintang. Okay.
 
-**Haziq:** Okay baik Obi. Kita terus ke segmen seterusnya sebelum itu, producer okay ke? Berapa kali duk tanya producer ni? Saja je nak tunjuk dia ada. Okay, untuk standing order WB. Mungkin kita cepat sikit lah, sebab saya tak sabar dah nak tanya tentang tarif WB.
+**Haziq:** Okay baik YB. Kita terus ke segmen seterusnya sebelum itu, producer okay ke? Berapa kali duk tanya producer ni? Saja je nak tunjuk dia ada. Okay, untuk standing order YB. Mungkin kita cepat sikit lah, sebab saya tak sabar dah nak tanya tentang tarif YB.
 
 **Rafizi:** Orang tunggu pasal
 
@@ -169,11 +169,11 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Ini suruh Menteri Ekonomi jawab. Tapi dalam dua tahun setengah yang diusahakan semasa saya di Kementerian Ekonomi, salah satu perkara yang insyaAllah akan bawa laba besar kepada negara ialah sebenarnya JSSEZ. Ya. Kemudian... yalah, kita mungkin tidak bercakap berkali-kali ataupun beri tumpuan kepada JSSEZ. Kerana pelaburan-pelaburan yang masuk tu, makin lama kalau berjaya, salah satu tarikan utamanya ialah JSSEZ lah. Jadi saya ingat setakat Oktober 2025 dah sekitar RM37 bilion dalam tempoh yang singkat. Maksudnya, dia ditandatangani secara rasmi 8 Januari 2025, yang telah diluluskan seingat saya ialah RM37 bilion. Sekarang ni ada menteri-menteri, ada yang jenis yang dia kalau boleh nak padamkan lah yang JSSEZ ni datangnya daripada saya dulu kan. Tak kisahlah siapa dia jadi menteri, potensi yang ada dekat JSSEZ tu besar dan ia mestilah dipandu mengikut perancangan yang telah dibuat lah kerana potensi ekonomi kepada negara — di Johor, tetapi pekerja-pekerja akan datang daripada seluruh Malaysia, cukai yang dikutip itu akan masuk kepada kerajaan persekutuan yang akhirnya akan diagihkan kepada Kelantan, Terengganu, Kedah semua. Jadi bagi saya, dia antara salah satu rasa puas hati yang baik lah sepanjang saya jadi Menteri Ekonomi, kerana tinggalan itu akan menjadi lama. JSSEZ kalau berkembang, dan setakat ini sambutannya baik. Kalau ada orang tanya apa formula, ini salah satu formula — ekonomi khas dua buah negara yang tak pernah ada di rantau ini, malah ada beberapa kerat je di dunia ini kan. Jadi saya berharap lah, dari satu tahun ke satu tahun. Jadi kalau siapa-siapa walaun yang duk tanya formula tu, JSSEZ ni dari segi pelaburan yang telah berjaya dibawa masuk dalam tempoh tak sampai satu tahun, sudah tentu lagi banyak daripada yang diusahakan oleh SEZ mereka.
 
-**Haziq:** Baik Obi. Cuma JSSEZ ini memang daripada your brainchild. Dari mana Obi dapat inspirasi?
+**Haziq:** Baik YB. Cuma JSSEZ ini memang daripada your brainchild. Dari mana YB dapat inspirasi?
 
 **Rafizi:** Tak, sebabnya begini, saya mengambil alih Kementerian Ekonomi dan Kementerian Ekonomi bertanggungjawab. Jadi selepas mesyuarat pertama itu, saya ingat dalam bulan Februari 2023, bila saya tengok senarai yang dibincangkan kerjasama Singapura dengan Malaysia, dia dah jadi kepada perbincangan birokrasi — contohnya untuk membina taman bersama. Jadi bagi saya, banyak masa, tenaga, wang dihabiskan oleh kedua-dua buah kerajaan, takkan nak berbincang pasal nak buat taman kot. Sedangkan kita tahu Singapura ada kekangan — dia tak cukup tempat dan dia tak ada tenaga. Kita pula perlukan, dan kita ada sumber yang baik. Negara ini macam langit dengan bumi dari segi di kacamata pelabur, sebab Singapura dilihat cekap, cepat, tenaga kerja yang baik, kemudian Johor dilihat sebagai Malaysia yang banyak yang tak cukup. Jadi sebab itu, kalaulah pentas perbincangan di antara kementerian saya dengan kerajaan Singapura itu, kita naik tarafkan bincang benda yang lagi besar. Dan bincang benda yang lagi besar ialah macam mana kita nak harmonikan proses, prosedur, supaya jangan Malaysia atau Johor bersaing dengan Singapura. Yang diharmonikan itu, maka pelabur, they can have the best of both worlds — dia boleh letak corporate office dia dekat Singapura tapi operasi dia dekat Johor, dan dia keluar masuk tu lebih kurang macam — sebab tambak Johor tu satu kilometer lebih je, jadi kalau daripada Singapura nak menyeberang ke Johor tu hanya ambil masa 30 minit, sama macam duduk dekat Ampang kerja dekat Petaling Jaya lah. Dan kalau itu boleh dibuat — malah awal-awal itu saya ditegur kerana saya kongsi idea saya itu secara terbuka semasa satu sesi libat urus secara terbuka. Jadi ada orang tegur saya lah, yang ini ni nanti kena tanya dulu, kena bincang, kena itu dan ini kan. Tapi alhamdulillah, idea itu bila dibawa kepada kerajaan Singapura, mereka mengalu-alukan. Dibawa kepada kerajaan Johor, mereka mengalu-alukan. Bila saya bawa kepada kerajaan persekutuan, ada beberapa suara yang menentang awalnya, tapi akhirnya bila nampak dah okey, semua orang akan join the bandwagon lah. Politik memang begitulah.
 
-**Haziq:** Ok baik Obi, kita tengok ke soalan yang kedua. Dari Kota Baru: minta Perdana Menteri menyatakan justifikasi dan alasan-alasan perundangan, legal grounds, pihak SPRM menutup kes yang dikatakan skandal perlombongan Sabah, mengaitkan Datuk Seri Farhaj Wafa Salvador Rizal Mubarak, seperti mana yang diumumkan oleh Ketua Pesuruhjaya SPRM baru-baru ini.
+**Haziq:** Ok baik YB, kita tengok ke soalan yang kedua. Dari Kota Baru: minta Perdana Menteri menyatakan justifikasi dan alasan-alasan perundangan, legal grounds, pihak SPRM menutup kes yang dikatakan skandal perlombongan Sabah, mengaitkan Datuk Seri Farhaj Wafa Salvador Rizal Mubarak, seperti mana yang diumumkan oleh Ketua Pesuruhjaya SPRM baru-baru ini.
 
 **Rafizi:** Yang diluluskan kedua, kerana oleh kerana tidak ada lesen dan tidak ada pertukaran title, maka dia tidak dikira sebagai satu kesalahan lah. Yang itu, saya ingat Farhaj pun dah saman saya. Yang itu kita akan bawa ke mahkamah nantilah, kerana dia sebenarnya lebih kompleks daripada itu. Lebih kompleks daripada itu. Tapi tak apalah, orang ramai tunggulah bila perbicaraan. Masalahnya bila dah disaman ini, maka sebagai orang yang kena saman, banyak perkara itu — kalau saya komen lebih-lebih sebelum dibawa ke mahkamah, itu untuk menunjukkan kononnya saya berniat jahat, jadi dia. Sebab salah satu daripada elemen yang perlu dibuktikan di dalam kes mereka bila mereka saman saya ialah elemen malice, ada niat jahat. Jadi sebab itu pandangan-pandangan saya — ada beberapa perspektif yang rakyat sebenarnya ada hak untuk bertanya dan juga untuk mendapatkan maklumat tentang kes ini. Yang itu nanti, saya ingat boleh dibawa ke mahkamah nantilah.
 
@@ -185,7 +185,7 @@ Saya tak pasti sama ada soalan ini ialah soalan untuk menyindir, sebab isu dia m
 
 Alasan yang diberikan ialah oleh Menteri Kewangan — kedua, alasan yang diberikan ialah dia terlalu rumit ni, nak mengambil kira saiz isi rumah, lokaliti, pendapatan. Dia takut rakyat tak faham, nanti rakyat marah dan sebagainya lah kan. Jadi itu latar belakangnya. Kita berada dalam keadaan yang mana pada satu sudut keputusan-keputusan itu telah dibuat, maklumat semua itu dah ada kan. Tapi oleh kerana use case yang utama, iaitu penyasaran semula subsidi RON95, itu tidak menggunakan kaedah inilah. Jadi sebab itu saya tengok jawapan daripada Kementerian Ekonomi — jawapan Kementerian Ekonomi itu jawapan yang tak landing. Jadi saya ingat, membaca jawapan daripada Kementerian Ekonomi itu, maksudnya kerajaan sekarang, ataupun Datuk Seri Amir Hamzah yang sekarang ini memangku Menteri Ekonomi, dia masih lagi tidak bersetuju dengan kaedah inilah. Walaupun kalau nak laksana, memang dah boleh lah kalau nak gunakan dan laksanakan itu, dan mula melihat semuanya daripada perspektif seperti yang Ahli Parlimen Bakri kata ni — memang semua data, semua sistem semua itu dah ada.
 
-**Haziq:** By WB, clear. Tapi jangan risau, Bakri biasa dia akan jawab lah. Bila WB cakap, "Okay baik," err...
+**Haziq:** By YB, clear. Tapi jangan risau, Bakri biasa dia akan jawab lah. Bila YB cakap, "Okay baik," err...
 
 **Rafizi:** Next, Pasir Gudang. Oh, ini soalan Pasir Gudang yang lain, bukan pasal tarif. Jeremy—
 

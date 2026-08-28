@@ -79,9 +79,9 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Ya lah, maksudnya kerajaan pun mestilah dia nak kena buat perancangan kan, dia nak tentukan bila tol dan dia nak tentukan bila orang ramai akan berada di jalan. Jadi dia nak kena tahu sebenarnya bila hari raya. Jadi pengumuman diskaun tol 50% pada hari Rabu dan Khamis ini memberi gambaran, pada firasat kerajaan, hari Jumaat itu dah raya.
 
-**Speaker 2:** Baik, baik, baik. Okey, okey, baby.
+**Speaker 2:** Baik, baik, baik. Okey, okey, YB.
 
-**Rafizi:** Ini episod ke-40 dan minggu terakhirlah kita berpuasa. Kita terus ke segmen lah, baby.
+**Rafizi:** Ini episod ke-40 dan minggu terakhirlah kita berpuasa. Kita terus ke segmen lah, YB.
 
 **Speaker 2:** Ya.
 
@@ -169,7 +169,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Patut kita meroyan jugalah, buat live TikTok kan.
 
-**Speaker 2:** Dia kena sidai, baby.
+**Speaker 2:** Dia kena sidai, YB.
 
 **Rafizi:** Dengan AirAsia — saya rasa ni pengalaman semua orang pernah hadapi dah kot.
 
@@ -483,7 +483,7 @@ Kalau kita tengok semua, yang belum dibuat lagi — betul ke tak kalau saya caka
 
 Dan kadang-kadang bila pimpinan kuil atau aktivis kuil datang dengan senarai 70-80 permintaan, kerajaan tengok senarai itu dan rasa ini terlampau banyak — kalau semua dibuat, orang lain akan marah. Kerana ada pandangan yang rasa ini sukar dilaksanakan, itu tak bermakna langsung tak buat atau tak *engage*. *The process must start*. Tapi saya rasa oleh kerana proses itu rumit, mereka kata "alamak, susah," dan akhirnya benda itu di-*drag*, di-*drag* — jadi macam sekarang, *lose-lose* untuk semua. Mungkin yang untung cuma mereka yang jadi selebriti kerana kena tangkap. Itu sahaja.
 
-Baiklah, kita ada tiga lagi topik ni, baby. Saya cadangkan dua yang terakhir kita boleh buat lepas raya — kau gila ke? Berapa jam lagi kau nak sembang ni, dah masuk tiga jam. Jom kita pergi topik terakhir sahaja; dua yang lain boleh masuk lepas raya. Okay, kita tengok yang terakhir sekali, baby: perjanjian AT — batal ke tak batal?
+Baiklah, kita ada tiga lagi topik ni, YB. Saya cadangkan dua yang terakhir kita boleh buat lepas raya — kau gila ke? Berapa jam lagi kau nak sembang ni, dah masuk tiga jam. Jom kita pergi topik terakhir sahaja; dua yang lain boleh masuk lepas raya. Okay, kita tengok yang terakhir sekali, YB: perjanjian AT — batal ke tak batal?
 
 Ini sebenarnya bergantung kepada satu soalan yang sangat besar: adakah keputusan *Supreme Court* di US hari itu sebenarnya membatalkan terus seluruh perjanjian yang kita tandatangani, termasuk syarat-syarat berat sebelah itu, ataupun ia hanya membatalkan tarif itu sahaja tanpa mengganggu perjanjian tersebut?
 
@@ -519,7 +519,7 @@ Tapi *certainly*, saya tak selesa dengan kerajaan sekarang memberi gambaran seol
 
 **Farhan (Pa'an):** Jadi kesimpulannya, jangan tergesa-gesa, kan?
 
-**Rafizi:** Ya, jangan tergesa-gesa umumkan telah terbatal. Jangan tergesa-gesa dalam semua perkara. Inilah akibatnya bila tergesa-gesa — akhirnya terlepas cakap kata sebenarnya dah batal, kemudian tergesa-gesa *reverse* balik, kata belum batal. Jadi jangan tergesa-gesa — satu orang cakap, lima orang lain kena bereskan akibatnya. Okay, saya rasa itu sahaja, baby. Selamat Hari Raya, Selamat Hari Raya! InsyaAllah saya dah sampai kampung, bye — waktu kita pun dah habis.
+**Rafizi:** Ya, jangan tergesa-gesa umumkan telah terbatal. Jangan tergesa-gesa dalam semua perkara. Inilah akibatnya bila tergesa-gesa — akhirnya terlepas cakap kata sebenarnya dah batal, kemudian tergesa-gesa *reverse* balik, kata belum batal. Jadi jangan tergesa-gesa — satu orang cakap, lima orang lain kena bereskan akibatnya. Okay, saya rasa itu sahaja, YB. Selamat Hari Raya, Selamat Hari Raya! InsyaAllah saya dah sampai kampung, bye — waktu kita pun dah habis.
 
 **Farhan (Pa'an):** Tak—
 

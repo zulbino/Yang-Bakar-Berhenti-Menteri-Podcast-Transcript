@@ -93,7 +93,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Lee Chean Chung:** Oh dekat-dekat kan?
 
-**Rafizi:** Dekat-dekat, sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua. Dua-dua, Pantai Timur. Okay baby, kita terus ke segmen. Chean Chung kurang bernasib baik hari ini lah, kerana dijemput — sebab kita jemput jadual ni memang kita tentukan awal kan, dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas itu panas. Jadi Chean Chung kena hadir pada sesi, pada podcast yang panas. Jadi lepas ini kena kejar dengan Ceplos.
+**Rafizi:** Dekat-dekat, sebelah-sebelah. Kita orang sebelah-sebelah. Pantai Timur dua-dua. Dua-dua, Pantai Timur. Okay YB, kita terus ke segmen. Chean Chung kurang bernasib baik hari ini lah, kerana dijemput — sebab kita jemput jadual ni memang kita tentukan awal kan, dia ikut apa yang berlaku minggu lepas. Jadi minggu lepas itu panas. Jadi Chean Chung kena hadir pada sesi, pada podcast yang panas. Jadi lepas ini kena kejar dengan Ceplos.
 
 **Lee Chean Chung:** Tak apa.
 
@@ -101,7 +101,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Lee Chean Chung:** Ready.
 
-**Rafizi:** Baik. Kita — ni kalau bunyi bising kat luar tu, sebabnya ada orang potong rumput. Potong rumput, motor lalu dengan main mercun. Main mercun lah. Pagi-pagi, sebab tu selalunya kita tak buat pagi lah. Pagi ni macam-macam lah, ada orang potong rumput lah kan. Jadi kalau dengar bising sikit tu, orang potong rumput ni. Tapi tu membuktikan satu lah baby — studio kita bukan kat Menara Ilham lah.
+**Rafizi:** Baik. Kita — ni kalau bunyi bising kat luar tu, sebabnya ada orang potong rumput. Potong rumput, motor lalu dengan main mercun. Main mercun lah. Pagi-pagi, sebab tu selalunya kita tak buat pagi lah. Pagi ni macam-macam lah, ada orang potong rumput lah kan. Jadi kalau dengar bising sikit tu, orang potong rumput ni. Tapi tu membuktikan satu lah YB — studio kita bukan kat Menara Ilham lah.
 
 **Lee Chean Chung:** Tak, tak, tak.
 
@@ -117,7 +117,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Lee Chean Chung:** So fast learner lah.
 
-**Rafizi:** Itu kelebihan dia lah. Dengan cuma satu je kan, Kelantan dia tu — masa lagi tak jalan, tak nampak, tak duduk lah. So maksudnya dia tak boleh masuk PAS lagi lah kot, walaupun dah pakai kopiah semua kan. So bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni, yang macam mana — itu kita kena jemput dia. Tak apalah, bersangka baik. Okay baby, betul ya. Boleh kita — beria, beria, beria. Memang yang ini sangat beria menunggang agama. Tahniah. Okey, bersedia?
+**Rafizi:** Itu kelebihan dia lah. Dengan cuma satu je kan, Kelantan dia tu — masa lagi tak jalan, tak nampak, tak duduk lah. So maksudnya dia tak boleh masuk PAS lagi lah kot, walaupun dah pakai kopiah semua kan. So bila dia kata tolak Muhyiddin berpaksikan tuntutan agama ni, yang macam mana — itu kita kena jemput dia. Tak apalah, bersangka baik. Okay YB, betul ya. Boleh kita — beria, beria, beria. Memang yang ini sangat beria menunggang agama. Tahniah. Okey, bersedia?
 
 Ini apa ni YB — PMX beria jadi Saitro backup Azam Baki, maksudnya dia sendiri yang forward video ni. Orang yang bukan PKR mungkin terkejut lah. Itu salah satu sebab saya keluar daripada — saya tak ada WhatsApp ni kan. Sebab WhatsApp ni banyak grup lah, jadi PKR ni ada — saya rasa yang ini dekat grup Malaysia Madani ke apa, kemudian ada banyak-banyak grup lain lah orang. Grup-grup tu lah kan. Orang mungkin tak tahu, di luar power selain daripada menjadi Perdana Menteri, Dato' Seri Anwar juga sekali-sekala dia — orang kata moonlighting — dia panggil apa? Moonlighting lah kan, dia moonlighting sebagai Saitro juga di dalam WhatsApp-WhatsApp. Tengok ni, dia forwardkan satu komen, satu content TikTok: "Kenapa muda nak tangkap Azam Baki." Kemudian ada lah gambar Said Sadiq, gambar arwah Tun Daim, gambar Naimah, gambar Tun Malik — itu gambar siapa? Mirzan ke atau Pemozani lah — nak menunjukkan bahawa muda ini sebenarnya dibiayai dan adalah alat kepada Tun Daim, Tun Dr Mahathir semua lah kan. Kalau datang daripada orang biasa tak apa, ni datang daripada Perdana Menteri tau kan, dan dihantar kepada kumpulan-kumpulan WhatsApp — nampak kita tahu lah arahan itu nampak jelas lah. "Silalah sebarkan," sebab setakat ni hanya ada 45 likes tu kan, dan 7 komen. Saya ingat bila rakyat nampak, dia menimbulkan banyak persoalan — konten-konten sampah macam ini. Sebab ini semua cyber trooper. Bila konten itu datang daripada akaun ataupun platform ataupun kumpulan yang memang tidak memperkenalkan diri, kita tak tahu siapa di belakang dan membuat tuduhan yang macam-macam, ia masuk dalam kategori cyber trooper lah kan. Jadi bila Perdana Menteri sendiri yang — macam mana dia boleh tahu konten-konten ni, kita pun tak tahu, kita pun tak follow. Ada 45 likes je pun. Kemudian bukan setakat macam mana dia tahu, kemudian dia juga forward kat orang semua kan. Tapi orang mungkin terkejut lah, saya yang dah lama dengan dia ni memang tak terkejut, dia memang macam ni.
 

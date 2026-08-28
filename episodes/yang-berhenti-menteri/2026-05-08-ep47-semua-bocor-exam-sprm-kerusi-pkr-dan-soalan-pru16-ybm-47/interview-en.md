@@ -82,7 +82,7 @@ Okay, before this podcast we also chatted about the YB's lawyers. Well, we can't
 
 **Rafizi:** We'll talk later about the MACC "exam." It's fine, nothing much. Only one goal wasn't achieved — I thought, during the long interrogation, since when we talk we're actually burning fat, right. So my target was that after finishing the interrogation, I'd lose a kilo. Didn't lose it. Guess I didn't talk enough, not sure why it wasn't enough. Everything else, all is good.
 
-**Farhan (Pa'an):** Okay, good, baby. We'll continue later. But let's look at the "beria" (fired-up) segment.
+**Farhan (Pa'an):** Okay, good, YB. We'll continue later. But let's look at the "beria" (fired-up) segment.
 
 **Rafizi:** Since we're going straight into "beria"...
 
@@ -130,7 +130,7 @@ Okay, before this podcast we also chatted about the YB's lawyers. Well, we can't
 
 **Rafizi:** Different, right? Yep.
 
-**Farhan (Pa'an):** Okay, good, baby. That's one, let's look at what else there is. The UMNO Youth Chief has risen again. Someone who promised but didn't resign, talking about other people's positions. I think this dispute arose because of the crisis in Negeri Sembilan — the youth wings are fighting each other, DAP and UMNO Youth. "You resign," "you got sacked," "you sacked." I just think someone who once loudly promised to resign but didn't follow through, for whatever reason, has lost the credibility to talk about other people's positions. My view differs a bit here.
+**Farhan (Pa'an):** Okay, good, YB. That's one, let's look at what else there is. The UMNO Youth Chief has risen again. Someone who promised but didn't resign, talking about other people's positions. I think this dispute arose because of the crisis in Negeri Sembilan — the youth wings are fighting each other, DAP and UMNO Youth. "You resign," "you got sacked," "you sacked." I just think someone who once loudly promised to resign but didn't follow through, for whatever reason, has lost the credibility to talk about other people's positions. My view differs a bit here.
 
 **Rafizi:** Look at this, that's why I'm taking a deep breath, I'm just watching.
 
@@ -206,7 +206,7 @@ Okay, before this podcast we also chatted about the YB's lawyers. Well, we can't
 
 **Rafizi:** Because, Alhamdulillah, Datuk Seri Najib's damning curse has finally shown its effect.
 
-**Farhan (Pa'an):** Okay, good, baby. And just one thing — I see there's an ongoing effort to whitewash Najib's issue that's still active until now. Second, how has the public — since there have been so many Najib cases already, people are overwhelmed, less excited compared to when the reports on Najib's case first came out years ago. Is there any connection to public awareness about the issue of corruption, or?
+**Farhan (Pa'an):** Okay, good, YB. And just one thing — I see there's an ongoing effort to whitewash Najib's issue that's still active until now. Second, how has the public — since there have been so many Najib cases already, people are overwhelmed, less excited compared to when the reports on Najib's case first came out years ago. Is there any connection to public awareness about the issue of corruption, or?
 
 **Rafizi:** That might be UMNO's main challenge.
 
@@ -270,7 +270,7 @@ Okay, before this podcast we also chatted about the YB's lawyers. Well, we can't
 
 **Rafizi:** Morocco did have their moment. So every World Cup, there's always one underdog team. So really, in my view, the underdog team we should all support is Bosnia.
 
-**Farhan (Pa'an):** Okay, alright, baby. We're at 40 minutes, we have one more "beria."
+**Farhan (Pa'an):** Okay, alright, YB. We're at 40 minutes, we have one more "beria."
 
 **Rafizi:** There's more, one more "beria."
 
@@ -282,7 +282,7 @@ Okay, before this podcast we also chatted about the YB's lawyers. Well, we can't
 
 **Rafizi:** But obedient to orders. He really is fired up wanting to make a roof. What can I even comment on now, since he's already admitted it himself — "if possible, if you're all mad at me for saying I want to mention the roof, that day actually if I could, I would have mentioned the roof long ago." So fired up. What else can I comment on? He really is fired up.
 
-**Farhan (Pa'an):** Okay baby, we'll cover the rest in the segment later. Okay, done. We need to pick — we have 6, 7... 1, 2, 3, 4, 5, 6. But sorry, this week it's by far good cop bad cop.
+**Farhan (Pa'an):** Okay YB, we'll cover the rest in the segment later. Okay, done. We need to pick — we have 6, 7... 1, 2, 3, 4, 5, 6. But sorry, this week it's by far good cop bad cop.
 
 **Rafizi:** Good cop bad cop. Because partly I think someone should advise Izzah — this strategy doesn't work, it invites more trolls.
 
@@ -308,9 +308,9 @@ Okay, before this podcast we also chatted about the YB's lawyers. Well, we can't
 
 **Farhan (Pa'an):** Okay, alright. Sister Nurul Izzah, please try again.
 
-Okay, baby, we're done with "beria," let's move on to "Hidup Keras dik" — we have three this week. But the first one, we'll surely touch on the biggest exam of last week, namely YB's exam. It's been so long — when was the last time you took an exam?
+Okay, YB, we're done with "beria," let's move on to "Hidup Keras dik" — we have three this week. But the first one, we'll surely touch on the biggest exam of last week, namely YB's exam. It's been so long — when was the last time you took an exam?
 
-**Rafizi:** When, Abie? The last time I took an exam was around 2004 to 2005. At that time, well, all the exams before that — meaning after finishing university, then I did Chartered Accountancy with ICAEW, all those exams finished in 2002. The last written exam I took was for the first year of Bachelor of Jurisprudence at UM.
+**Rafizi:** When, YB? The last time I took an exam was around 2004 to 2005. At that time, well, all the exams before that — meaning after finishing university, then I did Chartered Accountancy with ICAEW, all those exams finished in 2002. The last written exam I took was for the first year of Bachelor of Jurisprudence at UM.
 
 **Farhan (Pa'an):** Oh.
 
@@ -446,7 +446,7 @@ Okay, baby, we're done with "beria," let's move on to "Hidup Keras dik" — we h
 
 **Farhan (Pa'an):** Hmm.
 
-**Rafizi:** He had already been speaking out and criticising Anwar over all this — Farhaj, Ramanan — for months before that, nearly a year before that. But two or three days after the story about Azam Baki's shares broke, they suddenly opened a file on him. Once again, public logic latches onto that. It's just that Ceplos twists the narrative, baby. How does he twist it? He says: because YB has a case hanging over him, YB attacked first — attacking Azam Baki repeatedly, so that when YB gets hit, YB can claim it's because YB attacked first.
+**Rafizi:** He had already been speaking out and criticising Anwar over all this — Farhaj, Ramanan — for months before that, nearly a year before that. But two or three days after the story about Azam Baki's shares broke, they suddenly opened a file on him. Once again, public logic latches onto that. It's just that Ceplos twists the narrative, YB. How does he twist it? He says: because YB has a case hanging over him, YB attacked first — attacking Azam Baki repeatedly, so that when YB gets hit, YB can claim it's because YB attacked first.
 
 **Farhan (Pa'an):** But I think that's a narrative only Ceplos and Ceplos alone believe.
 

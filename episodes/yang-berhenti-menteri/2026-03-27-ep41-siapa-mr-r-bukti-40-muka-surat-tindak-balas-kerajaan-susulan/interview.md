@@ -141,7 +141,7 @@ Jadi Fuziah Saleh ni "beria-ia" buat kenyataan nak saman ni. Dia ni tak semak du
 
 **Rafizi:** Tak tahulah, mungkin dia ditekan kot — husnuzan kita lah, mungkin dia ditekan. Macam-macam andaian sekarang. Di Malaysia memang jelas bahawa parti politik tidak boleh saman pengkritik, hatta fitnah sekalipun, kerana bila sesuatu fitnah itu dikenakan, selalunya ia merujuk kepada seorang individu atau pimpinan di dalam parti politik itu — biarlah individu itu sendiri yang menyaman.
 
-**Farhan (Pa'an):** Ya, "beria" baby, "beria" contender — jangan terkejut, kita ada lagi "next." Tetamu kita minggu ini... tapi yang mana ni? "Anak buah backup bos" ke "bos backup anak buah"? Biasanya anak buah yang backup bos, kan — selalu anak buah backup bos. Tapi ini di zaman Madani lagi hebat, kerana bos pulak yang backup anak buah.
+**Farhan (Pa'an):** Ya, "beria" YB, "beria" contender — jangan terkejut, kita ada lagi "next." Tetamu kita minggu ini... tapi yang mana ni? "Anak buah backup bos" ke "bos backup anak buah"? Biasanya anak buah yang backup bos, kan — selalu anak buah backup bos. Tapi ini di zaman Madani lagi hebat, kerana bos pulak yang backup anak buah.
 
 **Rafizi:** Tengoklah anak buah mana pulak ni.
 

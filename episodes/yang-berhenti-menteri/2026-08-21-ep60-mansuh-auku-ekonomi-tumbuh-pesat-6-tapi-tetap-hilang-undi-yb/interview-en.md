@@ -141,7 +141,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Sum Dek Jo:** I think...
 
-**Rafizi:** Only four minutes in, baby. I'm a strict teacher.
+**Rafizi:** Only four minutes in, YB. I'm a strict teacher.
 
 **Sum Dek Jo:** Indeed. But back to the topic — I think coming home to serve, to contribute to the shared struggle, is a... calling — what's "calling" in Malay? "Panggilan." Panggilan. It's something that I think is a calling that you need to answer. Because at ASEAN Plus 3, the office is based in Singapore, so Singapore is actually quite close. I used to commute between JB and Singapore — even though I lived in Singapore, I still commuted quite often. So to me, it's not as far compared to Papua New Guinea. But I feel Malaysia deserves a lot better. What we have now is either completely absent, or very, very limited, in terms of discussion about policy, reform, what solutions there are to long-term problems. That is simply not being presented or raised by any political party that currently exists.
 
@@ -245,7 +245,7 @@ So I accepted long ago that malicious netizens who love to slander don't lose an
 
 **Rafizi:** Okay, okay, alright, alright.
 
-**Haziq:** So over the top, baby, over the top, over the top. Okay, next, don't forget to subscribe and subscribe. Huge congratulations to myself.
+**Haziq:** So over the top, YB, over the top, over the top. Okay, next, don't forget to subscribe and subscribe. Huge congratulations to myself.
 
 **Rafizi:** No, that was a joke — Joe might not get this, let me give Joe some context, Joe won't understand all this, hasn't been following closely.
 
@@ -335,7 +335,7 @@ On the other hand, we want quality, capable politicians — but on the other han
 
 **Sum Dek Jo:** Supply — but that supply should be provided by the government, not political parties. So if we institutionalize the social assistance program, then the supply should come from the government, not from political parties.
 
-**Haziq:** Okay, that's our comment on this. It's been quite a while, this Beria segment is already 40 minutes. We have two more, baby. Welcome to our guest who's never been here — thank you. Jayakumar's 2024 case just got closed, but only announced in 2026. This is around when Anwar Ibrahim held the "house of the wronged" version of PKR — but YB wasn't invited, poor thing.
+**Haziq:** Okay, that's our comment on this. It's been quite a while, this Beria segment is already 40 minutes. We have two more, YB. Welcome to our guest who's never been here — thank you. Jayakumar's 2024 case just got closed, but only announced in 2026. This is around when Anwar Ibrahim held the "house of the wronged" version of PKR — but YB wasn't invited, poor thing.
 
 **Rafizi:** Not just uninvited — I was actually kicked out of the house. Ha.
 
@@ -355,7 +355,7 @@ On the other hand, we want quality, capable politicians — but on the other han
 
 **Rafizi:** So I recall, last week, on 19 August, this very week — meaning MACC confirmed an NFA. But this happened back in 2024, mind you. So the public perception is, surely Dr. Xavier Jayakumar was cleared under Dato' Seri Anwar's administration. So everyone will draw their own conclusions. So if that's the case, maybe the "house of the wronged" label really did work out. Only those without any pending cases, like me, get no such incentive, no incentive at all.
 
-**Haziq:** Okay, alright baby. We have one more — Bersama has announced its Melaka state election candidates.
+**Haziq:** Okay, alright YB. We have one more — Bersama has announced its Melaka state election candidates.
 
 **Rafizi:** Finally we get to the Beria segment for announcing candidates early — so what are you going to troll here? Let's see how Hans is going to troll himself, or troll us.
 

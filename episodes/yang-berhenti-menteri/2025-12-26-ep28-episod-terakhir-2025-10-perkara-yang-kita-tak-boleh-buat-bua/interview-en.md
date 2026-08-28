@@ -372,7 +372,7 @@ So there is confidence, and if you look recently, in the past week or two, part 
 
 So if you look at the numbers, then as I mentioned earlier, actually 4.5% to 5% is, in my view, the latent potential of our economy — meaning whichever government is in power, if it's business as usual, it will grow at about 4.5% to 5%. The real credit comes if it shoots beyond 5%, especially if it hits 6%. So we have to see whether it continues below 4.5%, or falls even below 4%, and other problems to the country's fiscal position, and overtaking Vietnam and the Philippines again will take a much longer time. Okay, love.
 
-**Iqbal:** I guess because the next slide is about the cost of living, and we just talked about macro and micro — the gap between what people hear about, "okay, look, we're growing," but at the same time goods are still expensive and I still can't deal with these problems. And that, like Abie said earlier, is a salary problem. So then when we go to the next slide, which is about subsidy reform — is this still... yes, reform—
+**Iqbal:** I guess because the next slide is about the cost of living, and we just talked about macro and micro — the gap between what people hear about, "okay, look, we're growing," but at the same time goods are still expensive and I still can't deal with these problems. And that, like YB said earlier, is a salary problem. So then when we go to the next slide, which is about subsidy reform — is this still... yes, reform—
 
 **Rafizi:** We're dying here now, it's 1 o'clock, more than an hour has passed, and we're still on topic number 1. Number 1! Is today going to be 5 hours or something?
 
@@ -406,7 +406,7 @@ So if you look at the numbers, then as I mentioned earlier, actually 4.5% to 5% 
 
 **Rafizi:** I think — in the last state election in 2020, DAP won 6 seats. Those 6 seats in 2020 were because they used the Warisan logo — but even that's not quite right. Although I have friends from Warisan, if Warisan feels that they got Chinese votes on their own strength, that's also not right. Actually the Chinese voters already supported DAP before that in 2020 — whatever logo you put. Look, put a PH logo that people don't recognize, that Star Trek-looking symbol, not the rocket — Chinese voters would still vote if they believe. So in 2020 that strength was actually DAP's strength among urban Chinese voters, it wasn't really about the logo and such. So by the same extension, for example PKR or PH, whatever logo you use, but if people have already lost trust — and that trust depends on several things. For example, the quality of leadership available. The quality of PKR Sabah's leadership — if you look at how Nurul Izzah goes around taking photos anywhere, that doesn't work. If they're seen as just following orders and needing to wait for instructions from Putrajaya, that also doesn't work. So it starts with that quality. The second thing is it also depends on the party's narrative — using PKR Sabah merely as an extension also doesn't work.
 
-**Haziq:** Okay good, WB — that's the second issue chosen by our viewers. Let's look at the third — we have ART and the Tariff. YB, there's perhaps a slight difference in approach between Tengku Zafrul and Datuk Seri Johari. If we look at Datuk Johari, he seems less apologetic about ART — meaning when he became minister, he immediately said there's a problem, maybe said he wants to renegotiate, compared to Tengku Zafrul who was more diplomatic about what he had led before. What do we call this — government damage control through — this, who is it, Datuk Johari?
+**Haziq:** Okay good, YB — that's the second issue chosen by our viewers. Let's look at the third — we have ART and the Tariff. YB, there's perhaps a slight difference in approach between Tengku Zafrul and Datuk Seri Johari. If we look at Datuk Johari, he seems less apologetic about ART — meaning when he became minister, he immediately said there's a problem, maybe said he wants to renegotiate, compared to Tengku Zafrul who was more diplomatic about what he had led before. What do we call this — government damage control through — this, who is it, Datuk Johari?
 
 **Rafizi:** Before I answer, I think we've — again the format, because it's become like... the usual hard living. Ha.
 
@@ -494,7 +494,7 @@ So if you look at the numbers, then as I mentioned earlier, actually 4.5% to 5% 
 
 **Farhan (Pa'an):** Okay, another element is, I think many people talked about the whole move to remove...
 
-**Rafizi:** WB? Do you expect me to talk about myself?
+**Rafizi:** YB? Do you expect me to talk about myself?
 
 **Farhan (Pa'an):** No, no, no, I mean, just to comment on why people talked so much about that.
 

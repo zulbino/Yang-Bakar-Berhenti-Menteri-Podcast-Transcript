@@ -186,7 +186,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Does he touch on this often? Not quite like Puan Sakachi maybe. They're roughly on the same level — both are strong Najib supporters. This time he's promising to channel RM40 million to help PAS. He says he wants to sue several influencers and PH and BN-aligned figures. Is this guy's style trying to become a PAS candidate or what? Maybe that's the only path, YB. But if it's like this, what a great campaign — he could go straight to becoming PAS president. If not that, straight to Murshidul Am. As for helping with this 40 million, he just says he wants to help with 40 million if he wins the defamation suits. If he wins. This 40 million — how many people is he suing? Four individuals. So that means he's estimating about 10 million per lawsuit. He doesn't really understand the court process very well, because when you do this, once you're in front of the judge, the judge will be the first to say go through arbitration, mediation first. You go through mediation, all that. That's one thing. I also hope PAS won't start counting their chickens thinking "after this we'll be rich, we have 40 million," hoping Isham Jalil will give it. Because, the last time there was a court order for compensation — damages, as they call it — from a defamation suit exceeding 1 million, I think it was the case of Vincent Tan versus the late MGG Pillai. That was in the early 2000s, and I think that was more than 1 million, and at the time, even among legal practitioners, I recall, they felt that award was too high. And after that, I noticed the most anyone's gotten is maybe 400, 500 thousand. Izzah got a bit more I think, 900 thousand, right — when she won her defamation suit... the Lahad Datu case I think. So to get 10 million, even if you win the suit, the court will look at your "statute" — your standing. In Isham Jalil's case, he's not a Member of Parliament, he doesn't hold any position in a party, he's not a civil servant with any particular status. He's a former officer under Najib. So that actually determines, in terms of the value of your stature, how much it's worth. Then they'll also look at whether the damage was truly to your standing. So I don't think even if he wins, he'll get more than RM200,000 per case. So RM200,000, if he wins all four, he'll get maybe RM800,000. And then, it's not like going to court settles things in two months. If PAS is counting on entering the upcoming general election with money channelled by Isham Jalil, they're really going to get scammed. Because even a High Court case alone will take more than a year. After the High Court, if appealed, it goes to the Court of Appeal, then to the Federal Court. Usually a case takes four to five years to finish. By then, it'll already be time for another general election. He didn't even say when he's "stepping down."
 
-That's true too — he didn't say when the election would be. Empty promise. And another thing, he said, "I'm confident I'll win this suit because throughout my life I've never lost a defamation suit." How many cases has he actually had? Before this, nobody really paid much attention to whether he'd ever been sued. How many times has he sued people, or how many times has he been sued — I tried searching, I searched but couldn't really find anything. So that means he hasn't really gone through much of a court process regarding defamation suits, right. So, in addition — if he's really never sued anyone, how could he have lost? So never mind, that's that. Ovi should debate this — which one is the most eager, right.
+That's true too — he didn't say when the election would be. Empty promise. And another thing, he said, "I'm confident I'll win this suit because throughout my life I've never lost a defamation suit." How many cases has he actually had? Before this, nobody really paid much attention to whether he'd ever been sued. How many times has he sued people, or how many times has he been sued — I tried searching, I searched but couldn't really find anything. So that means he hasn't really gone through much of a court process regarding defamation suits, right. So, in addition — if he's really never sued anyone, how could he have lost? So never mind, that's that. YB should debate this — which one is the most eager, right.
 
 **Farhan (Pa'an):** I don't know, what's Pak An's view? Mine is definitely... Billboard.
 
@@ -502,7 +502,7 @@ So all of this doesn't just require an adjustment from government policy, but it
 
 **Rafizi:** I don't even understand it myself. That's another piece of advice for the public, for people who want to go into politics — do everything in moderation, don't go so far that you burn bridges and lose face. This is a case like Noamin Ahmad.
 
-**Haziq:** Okay, baby. Ha, right, this is Kangar. Ha, what's the story?
+**Haziq:** Okay, YB. Ha, right, this is Kangar. Ha, what's the story?
 
 **Rafizi:** The story is — the Kangar branch is in turmoil, a group of 15 PKR committee members were reported to have resigned. Then he responded, he said, "all this happened because of pro-Rafizi leaders."
 
@@ -608,7 +608,7 @@ So all this will be watched, and it's normal to always look at the second in com
 
 In fact, you'll notice, I never expelled Ramanan from the party, you know.
 
-**Host:** Yeah, baby.
+**Host:** Yeah, YB.
 
 **Rafizi:** When did I ever say Ramanan should leave the party because of this and that? Never. I only admonished — joining this party comes with its own etiquette, its own principles, its own struggle, you have to follow it — and it's not just for a position, for us to flatter him, people say the path has to be right. I never said that anywhere. So that's why when Amir arrogantly said something like that... uh, I don't actually feel anything, because I think I've crossed the bridge. It's quite obvious, right, I've crossed the bridge, and I've bombed the bridge. Not just burned it, I've bombed the bridge. There's really nothing left.
 
@@ -644,7 +644,7 @@ Okay, officiating a PKR branch annual general meeting, if it's grand, showy, the
 
 So these are all fairly new things that exist in PKR now, from when I became branch chief in 2010. So I've done 16 years of branch chief work now. I became branch chief at age 32. So things like that, there are a lot of new things in PKR now. But since we don't know — if it's like Pematang Pauh where we don't know when it started, never mind, the others we know when they started.
 
-**Host:** Yes, okay, Bobby. Two hours fifty minutes.
+**Host:** Yes, okay, YB. Two hours fifty minutes.
 
 **Rafizi:** So let me conclude like this. It's actually good, you know, if it continues, that every day all the problems in PKR get dumped on me. Because if we have a problem, we need to make the correct diagnosis, and for the correct diagnosis, we also need to know what the actual root cause is. If we misdiagnose and are in denial, blaming others, pointing fingers at others, we will never solve that problem no matter how long we wait.
 

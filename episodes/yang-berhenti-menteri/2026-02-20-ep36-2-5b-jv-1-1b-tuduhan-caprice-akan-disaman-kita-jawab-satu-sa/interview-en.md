@@ -92,7 +92,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Lee Chean Chung:** Oh, close to each other?
 
-**Rafizi:** Close, right next to each other. We're neighbours. Both on the East Coast. Both East Coast. Okay baby, let's move on to the segment. Chean Chung is a bit less fortunate today, because he was invited — since we set this schedule well in advance — but it happens to follow what happened last week. And last week was intense. So Chean Chung has to attend the session, the podcast, right after a hot week. So after this you'll have to rush off to Ceplos.
+**Rafizi:** Close, right next to each other. We're neighbours. Both on the East Coast. Both East Coast. Okay YB, let's move on to the segment. Chean Chung is a bit less fortunate today, because he was invited — since we set this schedule well in advance — but it happens to follow what happened last week. And last week was intense. So Chean Chung has to attend the session, the podcast, right after a hot week. So after this you'll have to rush off to Ceplos.
 
 **Lee Chean Chung:** No worries.
 
@@ -100,7 +100,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Lee Chean Chung:** Ready.
 
-**Rafizi:** Alright. We — if you hear noise outside, it's because someone's mowing the lawn. Mowing the lawn, motorbikes passing by and firecrackers going off. Firecrackers, right. In the morning — that's usually why we don't record in the morning. This morning there's all sorts of things going on, someone's mowing the lawn. So if you hear a bit of noise, that's the lawn mower. But that proves one thing, baby — our studio is not at Menara Ilham.
+**Rafizi:** Alright. We — if you hear noise outside, it's because someone's mowing the lawn. Mowing the lawn, motorbikes passing by and firecrackers going off. Firecrackers, right. In the morning — that's usually why we don't record in the morning. This morning there's all sorts of things going on, someone's mowing the lawn. So if you hear a bit of noise, that's the lawn mower. But that proves one thing, YB — our studio is not at Menara Ilham.
 
 **Lee Chean Chung:** No, no, no.
 
@@ -116,7 +116,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Lee Chean Chung:** A fast learner.
 
-**Rafizi:** That's his advantage. With just one seat, his Kelantan one — it wasn't moving before, it wasn't visible, wasn't settled. So that means he probably can't even join PAS yet, even though he's already wearing a kopiah and everything. So when he says he rejects Muhyiddin on religious grounds — how exactly — we should invite him on. Never mind, let's think positively. Okay baby, right. Let's dive in — dive in, dive in. This one really rides hard on religion. Congratulations. Okay, ready?
+**Rafizi:** That's his advantage. With just one seat, his Kelantan one — it wasn't moving before, it wasn't visible, wasn't settled. So that means he probably can't even join PAS yet, even though he's already wearing a kopiah and everything. So when he says he rejects Muhyiddin on religious grounds — how exactly — we should invite him on. Never mind, let's think positively. Okay YB, right. Let's dive in — dive in, dive in. This one really rides hard on religion. Congratulations. Okay, ready?
 
 What's this, YB — PMX enthusiastically becomes a cyber trooper backing Azam Baki, meaning he himself forwarded this video. People who aren't in PKR might be shocked by this. That's actually one reason I got off — I don't have WhatsApp anymore. Because WhatsApp has so many groups, so PKR has — I think this one is in the Malaysia Madani group or something, then there are many other groups people are in. Those groups. People may not know, outside of being Prime Minister, Dato' Seri Anwar also occasionally — people call it "moonlighting" — what do they call it? Moonlighting, right, he moonlights as a cyber trooper too in these WhatsApp groups. Look at this, he forwarded a comment, a TikTok piece of content: "Why are the young ones trying to bring down Azam Baki." Then there are pictures of Said Sadiq, the late Tun Daim, Naimah, Tun Malik — whose picture is that? Mirzan or Pemozani — trying to suggest that these "young ones" are actually funded by and are tools of Tun Daim, Tun Dr Mahathir and so on. If this came from an ordinary person, fine, but this came from the Prime Minister, and was sent to WhatsApp groups — we can clearly see the instruction behind it. "Please spread this," because so far it only has 45 likes and 7 comments. I thought once the public sees this, it raises a lot of questions — garbage content like this. Because this is all cyber trooper stuff. When content comes from an account, platform, or group that doesn't identify itself, and we don't know who's behind it and they're making all kinds of accusations, that falls into the cyber trooper category. So when the Prime Minister himself — how does he even come across this content, we don't know, we don't even follow it. It only has 45 likes. Then not only does he somehow know about it, he also forwards it to everyone. But people might be shocked, but I, having been around him a long time, am not shocked at all — he's always been like this.
 

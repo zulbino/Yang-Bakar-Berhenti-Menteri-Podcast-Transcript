@@ -55,7 +55,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Tamat. Itu tak masuk skrip dan tak dibincangkan. Tapi progresnya bagus. Habis ni tak sebagus dulu lah. Tapi... bagi orang yang pernah kena attack, actually it's not bad lah. Baik, baik, baik. Disiplin tu bagus lah. Saya jogging sebelum podcast tau.
 
-**Haziq:** Ni tadi even... Haa, baik. Okay, WB. Kita kali ni ada format baru dan kita cuba short and sweet sikit lah. Saya tak nak cakap banyak. Okay, kita terus ke segmen yang pertama, dia sebutnya "beria mat". Jadi segmen ni senang sahaja — saya akan bagi gambar dan YB kena komen gambar ni, beria ke tak beria. Ok, seterusnya, YB, sure lah semua yang kau letak ni beria, tapi standard YB tinggi kalau ada yang tak kena kan. First.
+**Haziq:** Ni tadi even... Haa, baik. Okay, YB. Kita kali ni ada format baru dan kita cuba short and sweet sikit lah. Saya tak nak cakap banyak. Okay, kita terus ke segmen yang pertama, dia sebutnya "beria mat". Jadi segmen ni senang sahaja — saya akan bagi gambar dan YB kena komen gambar ni, beria ke tak beria. Ok, seterusnya, YB, sure lah semua yang kau letak ni beria, tapi standard YB tinggi kalau ada yang tak kena kan. First.
 
 **Rafizi:** Apa yang awak nak cakap? Saya tak ada dalam parlimen lah masa ni, saya baca sahaja. Kemudian dia viral sekejap lah kan — Wan Faisal nak tukar nama bunga. Saya ada cadangan yang lebih baik. Dia memang beria lah, kalau tanya beria ke tidak, memang beria lah kan. Tak ada dalam parlimen. Tapi saya ada cadangan yang lebih baik — bunga tu. Dia kan parti bunga, baik ambil je lah bunga tu. Jadi tukar bunga raya bersatu tu untuk mengangkat raflesia. Saya cadangkan kepada Wan Faisal supaya dia bawa dalam mesyuarat Bersatu, cukup lah, tak payah bawa dalam parlimen. Untuk mengangkat raflesia, maka gantilah logo bunga raya Bersatu itu menjadi bunga raflesia. Okey, jadi cukup beria lah. Beria? Eh, patut korang bagi apa nama ni, scoring, beria lah. Okay okay okay. So yang ini aku nak bagi berapa eh? Comment dulu, comment dulu. Last kali nanti kita bagi mana paling beria ke apa, okay. So scoring dia — orang boleh tengok dan comment, nanti aku bagi scoring dia, katakanlah satu ke lima. Lima yang gila punya beria lah kan, satu tu kira sepatutnya tak payah masuk kat sini lah sebab tak cukup beria. Baik, baik.
 
@@ -67,7 +67,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Beria, ok, seterusnya.
 
-**Rafizi:** Dia kena ada ke soundtrack kau? Soundtrack tu kan? Okay. Haa, perasan tak, Abie? Haa, ingat-ingat tak, tak, tak. Haa, dia. Hahaha, okey. Tak, beria, dia dah kantoi, itu kantoi lah. Tak payahlah nak pusing-pusing. Sekarang — bukan sekarang, daripada dulu — Facebook tunjukkan edit history kan, dah kantoi kan. Jadi sangat beria lah nak pusing. Dimanipulasi, Abie. Haa, dimanipulasi, yang menunjukkan yang dia edit, yang komen awal dia tu kan. Pergi beria, dia tulis panjang. Padahal quite straightforward. Ini perangai jenis-jenis yang ada dalam masyarakat kita — dalam kepala otak dia tu, semua salah yang ada dalam dunia ni salah China. Ya, kalau janggut dia tu jadi putih macam janggut aku pun, salah China juga aku rasa kan. Jadi beria dia nak tutup lepas dia kantoi. Tapi saya harap dia jadi pengajaran lah kepada semua lepas ini — jangan lagi buat benda macam ni lah, kerana netizen sekarang rajin. Netizen pun beria — pergi check, double beria, double beria. Okay.
+**Rafizi:** Dia kena ada ke soundtrack kau? Soundtrack tu kan? Okay. Haa, perasan tak, YB? Haa, ingat-ingat tak, tak, tak. Haa, dia. Hahaha, okey. Tak, beria, dia dah kantoi, itu kantoi lah. Tak payahlah nak pusing-pusing. Sekarang — bukan sekarang, daripada dulu — Facebook tunjukkan edit history kan, dah kantoi kan. Jadi sangat beria lah nak pusing. Dimanipulasi, YB. Haa, dimanipulasi, yang menunjukkan yang dia edit, yang komen awal dia tu kan. Pergi beria, dia tulis panjang. Padahal quite straightforward. Ini perangai jenis-jenis yang ada dalam masyarakat kita — dalam kepala otak dia tu, semua salah yang ada dalam dunia ni salah China. Ya, kalau janggut dia tu jadi putih macam janggut aku pun, salah China juga aku rasa kan. Jadi beria dia nak tutup lepas dia kantoi. Tapi saya harap dia jadi pengajaran lah kepada semua lepas ini — jangan lagi buat benda macam ni lah, kerana netizen sekarang rajin. Netizen pun beria — pergi check, double beria, double beria. Okay.
 
 **Haziq:** Ada lagi? Ada lagi. Okay, last eh? Kod. Ada perasaan, weh?
 
@@ -79,13 +79,13 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Saya tak ingat.
 
-**Rafizi:** Tapi nama dia influencer. Ini kira nak buat content lah, buat content. Tapi itulah, dia kena tangkap ni presumably kerana membahayakan ataupun tak dapat lesen lah. Tapi berbaloi lah, baby.
+**Rafizi:** Tapi nama dia influencer. Ini kira nak buat content lah, buat content. Tapi itulah, dia kena tangkap ni presumably kerana membahayakan ataupun tak dapat lesen lah. Tapi berbaloi lah, YB.
 
 **Haziq:** Dapat attract perhatian. Sekarang bukan easy kan nak dapat.
 
 **Rafizi:** Tak tahulah, ni untuk apa, untuk dapat YouTube bayar? Itu kereta dia ke, kereta? Tak tahu kereta siapa. Berhati-hati sebab sekarang ni ada perubahan iklim, cuba-cuba buat beria buat benda ni. Apa nama ni, kalau mari ombak ke, tsunami ke. Cuma, sebenarnya influencer ke apa, kita masih lagi ada undang-undang, kita masih lagi ada peraturan. Baik, yang Adun Manjoi tadi, kalau nak komen ke apa yang macam ini pun, janganlah kita jadi masyarakat yang demi content, sebab kebelakangan ini yang ini satu contoh lah yang beria buat benda ni kan. Tapi kalau nak ambil daripada perspektif demi content, kita ada satu kes dua minggu lepas yang mana seorang guru Bahasa Inggeris dihadapkan ke mahkamah kerana buat konten. Jadi di parlimen dimaklumkan konten dia yang buat cerita arwah Zara dimasukkan ke dalam mesin basuh tu. Bila ditanya, kita dimaklumkan jawapan dia, dia nak buat konten. Jadi ialah budaya buat konten beria-ia buat konten ni bagus lah, tapi kita masih lagi ada undang-undang satu, kita ada akal bicara — janganlah sampai dia menyusahkan orang, dia menyebabkan cerita palsu, ataupun dalam kes ini, kerja kepada penguatkuasa yang tak pasal-pasal kena tunda, dia ambil gambar dan sebagainya. Tapi saya harap berbaloi lah, kita cuba macam mana, berbaloi.
 
-**Haziq:** Lah. Okay, WB, sesa habis. So semua... lepas skor lah beria. Saya...
+**Haziq:** Lah. Okay, YB, sesa habis. So semua... lepas skor lah beria. Saya...
 
 **Rafizi:** Kalau yang aku kan, kedekut, strict lah. So kalau ikut skor 1 ke 5, yang dapat paling tinggi, 4 yang inilah, memang beria lah. Kemudian yang mana lagi tadi ada? Kita belakang balik. Yang tempat kedua, kedua yang mana? Tiga-tiga ni kita bagi kepada Hafiz Sabri dan juga kepada Waf lah, beria dia kan. Dan okey lah, Izzah dengan Amir ni nak buat content juga, tapi content dia ni mengundang macam-macam komen, jadi kita bagi dua. So next week ada lagi lah, make sure korang pergi cari yang betul-betul beria lah, tak tolong juga.
 
@@ -93,7 +93,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Ada, kalau ada yang beria kat kita orang...
 
-**Haziq:** Lah. Okey, WB, kita teruskan dengan segmen yang seterusnya, standing order. Standing order ni, WB, dengar standing order ni pasal apa sebenarnya?
+**Haziq:** Lah. Okey, YB, kita teruskan dengan segmen yang seterusnya, standing order. Standing order ni, YB, dengar standing order ni pasal apa sebenarnya?
 
 **Rafizi:** Parlimen. Parlimen lah kan, standing order. Tambah sekarang lah, saya masa penggal pertama kita orang pembangkang jarang — saya tak pernah bangun tau standing order. Sebab pandangan saya, standing order ni kalau digunakan berkali-kali, dia... parlimen, parlimen itu ialah untuk membahaskan perkara-perkara substantif. Ini kadang-kadang saya tengok kebelakangan ini, yang dibahaskan ialah standing order. Sikit-sikit ini mengelirukan dewan, sikit-sikit ini mengelirukan dewan, terutamanya daripada pembangkang lah. Jadi kalau saya rakyat biasa, saya tengok parlimen dan ahli parlimen kata, masalah lah wakil rakyat kita ini, dia senang terkeliru, sikit-sikit standing order. Jadi ini pasal apa? Ini pasal — jadi segmen kedua ialah mengenai parlimen.
 
@@ -109,7 +109,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Itu yang nanti ada lah, benda-benda lain pun. Saya rasa kalau nasihat saya, ambil masa kan — saya ingat, apa nama ni, saya buat dua rang undang-undang lah dalam tempoh dua tahun tu kan. Kita ambil masa. Kalau macam CCUS, kita duduk dia berbulan-bulan pergi semua kan. Jadi kalau tidak, backbenchers akan rasa macam, "habis kamu ni nak suruh kami buat apa? Kalau kami tak sokong, kamu marah, tapi kamu tak bagi peluang kepada kita." Kalau bacaan pertama hari ini, esok dah bacaan kedua, bila masanya kita nak bagi feedback nya? Faham. Baik.
 
-**Haziq:** Jelas, tepat. Seterusnya, WB, ada lagi — satu lagi, RUU Perolehan. PN kata ini memusatkan kuasa kepada Menteri Kewangan. Menteri Kewangan Kedua kata ini menyahkan pemusatan kuasa terhadap Menteri Kewangan. Masa tu yang salah...
+**Haziq:** Jelas, tepat. Seterusnya, YB, ada lagi — satu lagi, RUU Perolehan. PN kata ini memusatkan kuasa kepada Menteri Kewangan. Menteri Kewangan Kedua kata ini menyahkan pemusatan kuasa terhadap Menteri Kewangan. Masa tu yang salah...
 
 **Haziq:** Kenapa hadir ni sekarang?
 
@@ -227,15 +227,15 @@ Cuma rekod-rekod, kalau tengok rekod Perdana Menteri yang berkhidmat sehingga ha
 
 **Rafizi:** Saya tak tahu, kita kena tengok, baca lah, kita kena tilik-menilik. Tilik-menilik. Tapi tilikan Azmin tu, kalau daripada perspektif pembangkang, itu benda biasalah. Dia sebenarnya nak saiko — apa nama ini — jentera dia, tambah Bersatu sekarang ni ada masalah, duk bergaduh, surat layang semua kan. Jadi untuk alihkan pandangan daripada pergolakan dalaman, pukul gendang pilihan raya. Betul. Sekejap—
 
-**Haziq:** Okay baby, another one.
+**Haziq:** Okay YB, another one.
 
 **Rafizi:** Haa, korang pernah tengok? Apa tu — satu cerita Hollywood je, nama dia Wag the Dog. Haa, tak pernah? Haa, pergi semak, Wag the Dog. Sharing nanti saya nak tengok. Sebab itu menunjukkan macam mana orang politik mengalihkan perhatian. Ini cerita pasal di US, Presiden US, dia ada skandal, pergolakan. Jadi macam mana dia nak mengalihkan perhatian? Dia pergi buat perang kat satu negara lain, so semua orang bertumpu kat perang tu, dah tak ada benda pun, satu habis, jadi larilah perhatian orang daripada masalah dalaman itu kepada perang yang baru. Ini susah nak buat perang kan, jadi paling common boleh pukul gendang pilihan raya lah.
 
-**Haziq:** Menarik, menarik. Okay baby, satu lagi yang ni saya rasa memang sangat keras. Ada lagi ke?
+**Haziq:** Menarik, menarik. Okay YB, satu lagi yang ni saya rasa memang sangat keras. Ada lagi ke?
 
 **Rafizi:** Hidup keras ni?
 
-**Haziq:** Last quote saya rasa, tapi ni memang keras lah baby. Berkaitan dengan rakan-rakan kita di seberang, Indonesia yang merusuh. Yelah, saya rasa semua orang dah tahu apa yang jadi. Cuma ramai yang kata benda ni tak berlaku tiba-tiba. Pada pemerhatian YB, ikut diagnosis ini, apa sebenarnya simptom-simptom yang sebenarnya dah berlaku awal, tapi mungkin kita tak perasan, sebelum dia jadi bom jangka yang meletup ini?
+**Haziq:** Last quote saya rasa, tapi ni memang keras lah YB. Berkaitan dengan rakan-rakan kita di seberang, Indonesia yang merusuh. Yelah, saya rasa semua orang dah tahu apa yang jadi. Cuma ramai yang kata benda ni tak berlaku tiba-tiba. Pada pemerhatian YB, ikut diagnosis ini, apa sebenarnya simptom-simptom yang sebenarnya dah berlaku awal, tapi mungkin kita tak perasan, sebelum dia jadi bom jangka yang meletup ini?
 
 **Rafizi:** Saya bukan pakar Indonesia. Jadi saya tak mengikuti dengan dekat, secara dekat, kalau ada simptom ke apa semua tu, saya tak. Dan kalau ada orang Malaysia, juru komen yang bagi komen panjang-panjang pun, sebenarnya kita tak berada di situ, kita bukan sebahagian daripada rakyat, jadi kita pun tak memahami sangat suasana sebenar di sana. Dan kalau tengok kepada pertumbuhan dan ekonomi dan prestasi ekonomi Indonesia untuk 20 tahun yang lepas, sebenarnya Indonesia pertumbuhannya lebih baik daripada Malaysia. Jadi kalau daripada kacamata orang jauh, nampak Indonesia ni makin bagus, naik macam ni dalam tempoh 20 tahun berbanding Malaysia naik macam ini, hahaha kan. Jadi saya rasa orang yang daripada jauh ini — yelah saya memang tak nampak simptom dia kalau nak kata bom jangka dan sebagainya.
 

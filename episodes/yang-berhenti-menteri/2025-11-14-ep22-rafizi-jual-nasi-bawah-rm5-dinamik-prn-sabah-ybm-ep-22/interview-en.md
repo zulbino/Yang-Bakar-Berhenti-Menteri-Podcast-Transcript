@@ -81,7 +81,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** This week we should go fast, I'm tired, because I've been going for two weeks—
 
-**Host:** Come on Abie, two weeks minding this shop, people are tired, so we'll do it quickly, quickly, quickly, but—
+**Host:** Come on YB, two weeks minding this shop, people are tired, so we'll do it quickly, quickly, quickly, but—
 
 **Rafizi:** Besides, there weren't that many issues last week anyway. Maybe there were a lot of people making noise, but there weren't that many big issues.
 

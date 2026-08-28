@@ -562,7 +562,7 @@ What is GPK? For example, at a school, for every grade you get, there's a score 
 
 **Rafizi:** That one should be credited to Pa'an, not ok. Actually the problem with education systems everywhere in the world is that our system — examinations — is based on the law of averages. Take an example — two students. One student gets straight A's, but their A's are 73, 74 — basically A minus, but still straight A's, 73, 74 in all subjects. So on paper they get 9A. Another student gets 5A plus, 4D — their 5A plus are 98, 97 in physics, science and so on. So you have two students — one gets 9A, one gets 5A plus 4D. Which one is better?
 
-**Zikri Kamarulzaman:** Repeat that, baby.
+**Zikri Kamarulzaman:** Repeat that, YB.
 
 **Rafizi:** Right, the law of averages. So you have two students. One student, in nine subjects, gets A in all of them, nine A's — but their A's are A minus, meaning all their subjects score around 72, 73, but they get nine A's. So you have a candidate with 9A. The other student, next to them, also takes nine subjects, gets five A plus and four D. The A plus, say in Maths, Add Maths, Physics, Chemistry, Bio — their A plus is 98, 97 for all 5 subjects, but their D is 50, 51 and so on. On paper, one has 9A, the other has 5A plus 4D. Which one is better?
 

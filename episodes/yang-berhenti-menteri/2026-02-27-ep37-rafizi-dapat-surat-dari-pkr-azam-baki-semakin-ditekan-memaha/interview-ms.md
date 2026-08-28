@@ -107,7 +107,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Tapi yalah, saya rasa DAP pun akan kata, "apalah, pengawas-pengawas daripada PKR ni" — pengawas kat Parlimen, dekat parti, kenapa dia pula yang bercakap bagi pihak DAP, sama macam kat Sabah dia bercakap bagi pihak GRS.
 
-**Farhan (Pa'an):** Okay baik, beria ya baby. Kita ke yang ketiga — bersedia sekarang, lepas tak jadi lepas jawatan.
+**Farhan (Pa'an):** Okay baik, beria ya YB. Kita ke yang ketiga — bersedia sekarang, lepas tak jadi lepas jawatan.
 
 **Speaker 3:** Dr. Akmal ni memang belum letak jawatan lagi kan? Setakat yang saya tahu, belum. Dia isytihar tapi tak diterima lah.
 
@@ -163,7 +163,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Hidup lapar, hidup dahaga.
 
-**Farhan (Pa'an):** Nak minum kopi? Tak ada, nak minum kopi, tak ada — dah dah dah. Okay, isu pertama lah baby: Rafizi dipecat, tanya soal apa nak jadi. Ini bila surat yang YB baru kongsi itu dikeluarkan — surat tunjuk sebab. Saya tak tahulah nak jadi berani atau tak nak tanya, atau nak jadi peguam pembela iblis—
+**Farhan (Pa'an):** Nak minum kopi? Tak ada, nak minum kopi, tak ada — dah dah dah. Okay, isu pertama lah YB: Rafizi dipecat, tanya soal apa nak jadi. Ini bila surat yang YB baru kongsi itu dikeluarkan — surat tunjuk sebab. Saya tak tahulah nak jadi berani atau tak nak tanya, atau nak jadi peguam pembela iblis—
 
 **Rafizi:** Boleh je awak jadi berani, kalau saya tak puas hati saya hentam lah.
 

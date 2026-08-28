@@ -563,7 +563,7 @@ Apa dia GPK? Contoh, dekat satu sekolah tu, setiap grade kita dapat tu, dia ada 
 
 **Rafizi:** Situ pun kena gelar dengan Pa'an, tak ok. Dia sebenarnya masalah sistem pendidikan di mana-mana, di seluruh dunia, kerana sistem kita ni ialah — peperiksaan ni ialah berdasarkan the law of average. Ambil contoh — dua pelajar. Seorang pelajar dapat straight A semua, tapi A dia tu ialah 73, 74 — A minus lah kira, tapi dia straight A, 73, 74 semua mata pelajaran. So atas kertas dia dapat 9A. Ada seorang lagi pelajar, dia dapat 5A plus, 4D — 5A plus dia tu ialah 98, 97 mata pelajaran fizik, sains semua. So you ada dua pelajar ni — seorang dapat 9A, seorang dapat 5A plus 4D. Yang mana lebih baik?
 
-**Zikri Kamarulzaman:** Ulang balik baby.
+**Zikri Kamarulzaman:** Ulang balik YB.
 
 **Rafizi:** Haa, the law of average lah kan. So you ada dua pelajar. Seorang pelajar tu, sembilan mata pelajaran, dia dapat A semua, sembilan A — tapi A dia tu A minus lah, maksudnya semua subjek dia 72, 73 score macam tu, tapi dia dapat sembilan A lah. So you have a candidate sembilan A. Seorang lagi pelajar ni, sebelah dia, dia ambil sembilan subjek juga, dia dapat lima A plus dan empat D. A plus tu, katakanlah Maths, Add Maths, Fizik, Chemistry, Bio — A plus dia tu 98, 97 semua untuk 5 mata pelajaran, tapi D dia tu 50, 51 semua. Atas kertas, dia ada 9A dengan 5A plus 4D. Yang mana lebih baik?
 

@@ -145,7 +145,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Sure, sure, sure.
 
-**Haziq:** Okay baby, there's more here. At Pavali... where is this?
+**Haziq:** Okay YB, there's more here. At Pavali... where is this?
 
 **Haziq:** They said it's near Penang?
 

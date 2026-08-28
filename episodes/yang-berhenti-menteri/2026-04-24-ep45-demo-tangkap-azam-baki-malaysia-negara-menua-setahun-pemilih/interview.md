@@ -187,7 +187,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Selalu sentuh ke? Tak macam Puan Sakachi dia kot. Lebih kurang lah dia orang ni — sama taraf, dua-dua penyokong kuat Najib. Kali ini janji menyalurkan RM40 juta untuk membantu PAS. Katanya nak menyaman beberapa influencer dan pengaruh PH dan BN. Dia ni gayanya nak jadi calon PAS ke apa? Mungkin itu saja laluan, YB. Tapi kalau macam ini, kempen yang baiklah — boleh terus jadi presiden PAS. Kalau tak apa, Murshidul Am terus. Untuk bantu 40 juta ni, cuma dia kata dia nak bantu 40 juta ni kalau menang saman fitnah. Kalau menang. 40 juta ni dia saman berapa orang? Empat individu. Jadi maksudnya, dia agak-agak satu saman kepada seorang itu 10 juta lah. Dia belum memahami sangat proses mahkamah lah, sebab bila buat macam ni, masuk depan hakim tu, hakim tu yang pertama kata go through arbitration, mediation dulu. You go through mediation, semua kan. Itu satu lah. Saya berharap juga PAS janganlah berkira-kira lepas ni kita kaya, ada 40 juta, harap Isham Jalil akan bagi. Sebabnya ialah, kali terakhirlah ada arahan mahkamah bayaran pampasan — damages lah dia panggil kan — daripada kes saman yang melebihi 1 juta, saya rasa kes Vincent Tan lawan mendiang MGG Pillai. Itu tahun awal 2000, dan that one I think lebih daripada 1 juta lah, dan masa itu pun saya ingat di kalangan pengamal undang-undang lah merasakan bahawa award itu terlalu tinggi. Dan saya tengok selepas itu memang paling banyak pun 400, 500 ribu lah. Izzah lah dapat banyak sikit kot, 900 ribu kan — masa dia menang kes saman... kes lahad datu tu I think so. So nak dapat 10 juta tu memang, kalaupun menang saman, mahkamah akan tengok statute you. Dalam kes Isham Jalil, dia bukan ahli parlimen, dia tidak ada apa-apa jawatan dalam parti, dia bukan seorang penjawat awam yang ada status. Dia adalah bekas pegawai Najib. Jadi itu menentukan sebenarnya, in terms of the value of your stature, berapa kan. Kemudian dia tengok juga adakah damage itu betul-betul kepada your standing. So saya tak rasa kalau dia menang, dia dapat lebih RM200,000 satu lah. Jadi RM200,000 kalau dia menang semua empat, dia akan dapat mungkin RM800,000 lah. Kemudiannya, bukannya masuk mahkamah ni selesai terus dua bulan. Kalau PAS berkira-kira nak masuk PRU akan datang ni dengan wang yang disalurkan oleh Isham Jalil, memang ini kena skam. Sebabnya kes di mahkamah tinggi itu pun akan ambil masa satu tahun lebih. Dah habis mahkamah tinggi itu, kalau dirayu pergi mahkamah rayuan, kemudian pergi ke mahkamah persekutuan. Selalunya satu kes itu empat lima tahun baru habis. Jadi masa itu, pilihan raya dah nak pilihan raya sekali lagi. Dia tak kata nak turun bila.
 
-Betul juga — dia tak kata PRU bila. Janji kosong. Dan another one, dia kata, "saya yakin akan menang saman ini sebab seluruh ini saya tidak pernah kalah dalam kes saman fitnah." Berapa banyak kes yang dia dah ada? Sebelum ni orang tak ambil pot sangat pernah saman dia. Berapa banyak yang dia pernah saman orang ataupun berapa banyak yang dia pernah disaman — saya pernah search, saya search lah tapi macam tak jumpa. Jadi maksudnya, dia belum sangat melalui proses mahkamah mengenai defamation suit lah kan, fitnah ni kan. Jadi tambah — kalau memang tak pernah saman orang, macam mana nak kalah? Jadi tak apalah, habis. Ovi kena debatkan — mana seorang yang paling beria lah.
+Betul juga — dia tak kata PRU bila. Janji kosong. Dan another one, dia kata, "saya yakin akan menang saman ini sebab seluruh ini saya tidak pernah kalah dalam kes saman fitnah." Berapa banyak kes yang dia dah ada? Sebelum ni orang tak ambil pot sangat pernah saman dia. Berapa banyak yang dia pernah saman orang ataupun berapa banyak yang dia pernah disaman — saya pernah search, saya search lah tapi macam tak jumpa. Jadi maksudnya, dia belum sangat melalui proses mahkamah mengenai defamation suit lah kan, fitnah ni kan. Jadi tambah — kalau memang tak pernah saman orang, macam mana nak kalah? Jadi tak apalah, habis. YB kena debatkan — mana seorang yang paling beria lah.
 
 **Farhan (Pa'an):** Tak tahu, Pak An punya pandangan? Saya punya memang semestinya... Billboard.
 
@@ -503,7 +503,7 @@ Jadi semua ini bukan sahaja perlukan penyesuaian daripada dasar kerajaan, tetapi
 
 **Rafizi:** Aku pun tak faham. Itu satu lagi nasihat kepada orang ramai, orang-orang yang nak jadi ahli politik ke apa kan — buatlah semua itu berpada-pada, jangan sampai malu mata dan bakar jambatan. Dia kes macam Noamin Ahmad ni lah.
 
-**Haziq:** Okey, baby. Ha, kan, ni Kangar ni kan. Ha, apa cerita?
+**Haziq:** Okey, YB. Ha, kan, ni Kangar ni kan. Ha, apa cerita?
 
 **Rafizi:** Cerita dia — cabang Kangar bergolak, sekumpulan 15 AJK PKR didakwa letak jawatan. Kemudian dia jawab tu, dia jawab lah, dia kata, "ni semua berlaku sebab pimpinan-pimpinan pro-Rafizi."
 
@@ -609,7 +609,7 @@ Jadi semua ini akan dilihat, dan it's normal to always look at the second in com
 
 In fact, kau notice lah, aku tak pernah halau Ramanan keluar parti tau.
 
-**Host:** Haa ya baby.
+**Host:** Haa ya YB.
 
 **Rafizi:** Mana pernah aku cakap Ramanan keluar parti semua sebab kau gini-gini. Mana ada. Cuma aku tegur, masuk dalam parti ni ada adab dia, ada prinsip dia, ada perjuangan dia, kena ikut lah — dan dia bukan semata-mata untuk jawatan, untuk kita membodek dia kena, orang kata landasan itu kena betul kan. Aku dah mana pun aku tak pernah kata kan. Jadi sebab itu bila Amir Yalah dengan gah cakap macam itu... Uh, aku tak rasa apa-apa sebenarnya, sebab I think I've crossed the bridge. It's quite obvious kan, I've crossed the bridge, and I've bombed the bridge. Bukan sahaja burn, I've bombed the bridge. Memang tak ada dah kan.
 
@@ -645,7 +645,7 @@ Okay, perasmian mesyuarat agung tahunan cabang PKR ni, kalau besar-besar, gah-ga
 
 Jadi ini semua benda-benda yang agak baru lah yang ada dalam PKR ni kan, daripada 2010 aku ketua cabang. Jadi ni dah buat 16 tahun kerja ketua cabang kan. Kerja ketua cabang, umur 32 tahun. Jadi benda-benda macam tu ni, banyak benda baru lah yang ada dalam PKR kan. Jadi tapi sebab kita tak tahu — kalau macam Pematang Pauh tu tak tahu jom pangkal, tak apa lah, yang lain tu kita tahu jom pangkal.
 
-**Host:** Ya, okey, Bobby. Dua jam lima puluh minit.
+**Host:** Ya, okey, YB. Dua jam lima puluh minit.
 
 **Rafizi:** Jadi saya nak simpulkan begini lah. Bagus tau, kalau diteruskan lagi yang tiap-tiap hari semua masalah yang ada dalam PKR ini dilonggokkan kepada aku. Kerana kalau kita ada masalah, kita kena buat diagnosis yang betul, dan diagnosis yang betul itu kita kena lah juga tahu apa punca sebenarnya. Kalau kita salah diagnosis dan kita in denial, kita salahkan orang lain, point out ke orang lain, kita sampai bila-bila tak akan selesaikan masalah itu.
 

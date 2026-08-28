@@ -65,7 +65,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Sebab minggu lepas tontonan merudum, menunjukkan bahawa penonton-penonton podcast YBM ini tua-tua. Bila kita jemput dua Gen Z datang, walaupun bersemangat, dan Zahim sampai tertidur-tidur sebab dah lambat sangat kan, kesian kat dia. Akhirnya tontonan itu, saya rasa ada dua sebab lah. Satu sebab kita ada jelajah kan, back to back. Bila kita ada jelajah back to back, jadi algoritm tu dia perlu balance sikit lah kot. Saya pun tak tahu betul-betul macam mana ia memberi kesan, tapi kemungkinan besar kandungan yang mendapat lebih tontonan daripada like dan klik, kandungan yang kemudian itu akan menekan dan memakan kandungan yang lebih awal lah. Ya, ya, ya. Jadi buat pertama kali podcast YBM minggu lepas — itu episod ke-52, ulang tahun pertama — dia tidak begitu memuncak, belum melepasi 100 ribu lagi kan selepas seminggu. Selalunya dalam dua hari dia dah melepasi 100 ribu lebih dah. Jadi kepada Gen Z sekalian, jangan marah kalau kami tak cakap pasal Gen Z. Lain kali kalau nak podcast YBM bercakap pasal Gen Z, silalah tonton ramai-ramai.
 
-**Haziq:** Okey, baik. Kita tengok yang beria terus, Abie. Kita ada enam, okeylah, banyak sikit.
+**Haziq:** Okey, baik. Kita tengok yang beria terus, YB. Kita ada enam, okeylah, banyak sikit.
 
 **Rafizi:** Ya, semoga beria lah kot.
 
@@ -87,7 +87,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Saya rasa sebab jawatan KPJKOM ni memang sangat panas, dengan sebelum ni mungkin jangkaan orang terhadapnya sangat tinggi, dan nak tunjuk dia betul-betul berfungsi, sampai kena buat semua benda. Bar itu sangat...
 
-**Rafizi:** Rendah. Sebab sebelum ini, asalkan buat podcast, ada 10 orang menonton — sebab itulah bar dia sebelum ini. Tapi sebenarnya, katakanlah korang jadi ketua pengarah JKOM — Pa'an lah kot. Pa'an, kau jadi ketua pengarah JKOM, betul, okey baby, Pa'an jadi, kau ke Pa'an ke — sebenarnya apa penilaian kerja kau tentang kerja yang boleh dihantar? Takkanlah penilaiannya, KPI paling tinggi ialah seberapa banyak, seberapa beria kau jadi badut.
+**Rafizi:** Rendah. Sebab sebelum ini, asalkan buat podcast, ada 10 orang menonton — sebab itulah bar dia sebelum ini. Tapi sebenarnya, katakanlah korang jadi ketua pengarah JKOM — Pa'an lah kot. Pa'an, kau jadi ketua pengarah JKOM, betul, okey YB, Pa'an jadi, kau ke Pa'an ke — sebenarnya apa penilaian kerja kau tentang kerja yang boleh dihantar? Takkanlah penilaiannya, KPI paling tinggi ialah seberapa banyak, seberapa beria kau jadi badut.
 
 **Farhan (Pa'an):** Kerana tugas JKOM adalah untuk merapatkan jurang dalam komunikasi antara kerajaan dan rakyat. Jadi sebagai KPJKOM, tidakkah anda harus berada di atas tanah, mendapatkan maklum balas daripada rakyat mengenai persembahan kerajaan? Itu memang sepatutnya...
 
@@ -123,11 +123,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Itu bermula awal-awal dulu lah. Memang itu kehendak Datuk Sri Anwar. Oh, sebab dia je yang boleh buat ni kan? Sebab peraturannya ialah menteri tak boleh nak komplain pasal fungsi menteri yang lain. Jadi, macam Kementerian Ekonomi memang seksa. Tak boleh komen siapa-siapa lah. Sebab semua agensi pelaksana tu semua kementerian yang lain, sedangkan semua dasar dan isu itu semua di bawah Kementerian Ekonomi contohnya. Boleh komplain, tak boleh nak komen pun. Yang keduanya ialah kerana kerajaan Madani ini melibatkan PH, BN, GPS, GRS semua. Jadi isu politik memang sebaik-baiknya dielakkan daripada dijawab terus. Yang itu semua hanya Perdana Menteri yang boleh jawab. Jadi bila ada kontroversi sesama parti-parti, sebenarnya kita tak boleh komen kerana itu akan mengganggu-gugat kestabilan dan keutuhan kerajaan. Jadi akhirnya semua orang diam. Sebab itu, kalau perasan, sebelum kerajaan Madani mana ada jurucakap kerajaan. Betul. Hanya kerajaan Madani yang ada jurucakap kerajaan — selain daripada Perdana Menteri, hanya seorang yang diberikan kelulusan untuk komen pasal kerajaan dan yang menyentuh pasal kabinet, pasal kementerian lain. Siapa itu? Fahmi lah. Dia pun menjawab dengan bagi 6-7 je. Jadi Fahmi — sebelum kerajaan Madani tak ada tahu, seorang menteri yang dilantik sebagai jurucakap kerajaan hanyalah kerajaan Madani ni ada, dan Fahmi pula yang diberi tugasan itu. Tak membantu banyak lah, sebabnya ialah kerana memang peraturan itu ialah tidak boleh komen.
 
-**Speaker 3:** Okey, baik, WB. Beria,
+**Speaker 3:** Okey, baik, YB. Beria,
 
 **Rafizi:** beria. Beria kita komen.
 
-**Haziq:** Beria kita komen. Okey, baik. Kita ada lagi pempengaruh lain, WB, yang tetapi menjadi tukang tilik isi hati orang. Dipersilakan tetamu kita, saudara Jason Yu — Wong Chan tidak berani meletak jawatan, sebaliknya mahu dipecat parti untuk kekal sebagai ahli parlimen Subang.
+**Haziq:** Beria kita komen. Okey, baik. Kita ada lagi pempengaruh lain, YB, yang tetapi menjadi tukang tilik isi hati orang. Dipersilakan tetamu kita, saudara Jason Yu — Wong Chan tidak berani meletak jawatan, sebaliknya mahu dipecat parti untuk kekal sebagai ahli parlimen Subang.
 
 **Rafizi:** Eh, Jason Yu ni kandungan dia masih lagi viral macam dulu ke, atau tarikannya dah kurang? Nampak kalau dekat X kurang, kurang banyak lah kan.
 
@@ -137,17 +137,17 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Usaha YB bayar
 
-**Rafizi:** dia? Ya. Oh, YB bayar dia? Ya. Setiap bulan? Ya. Cuma aku rasa lepas itu, bila orang tengok tarikan dia tinggi semua kan, aku rasa semua orang lain pun pergi hampiri dia dan, ya, selesa lah kan. Tak terlalu tinggi, tapi jumlah itu yang penting. Tak, tapi berbanding dengan satu dua tahun lepas, dulu tinggi lah kan jumlahnya. Maksudnya, kalau lihat graf sepanjang 2-3 tahun, memang ada penurunan lah kot, tak? Itu tanggapan yang saya perolehi lah. Jadi dia kembali kepada soal JKOM tadi — ah, ya, JKOM. Sebenarnya — ia perlu bermula dengan isi kandungan itu sendiri. Dia bukannya 100% pasal penyuntingan ke apa. Kalau tambah kandungan politik, kalau kandungan politik itu tidak popular, buat macam mana pun dia tak popular lah. Tapi yang ini, "tukang tilik isi hati orang" — so ini Jason yang letak lah, "Wong Chan tidak berani meletak jawatan, kalau letak jawatan dia kata pengkhianat." Saya kecewa lah sebab Jason ni, saya ingat dia budak yang berjenis lah, kan? Tapi itu masalahnya bila... yelah, bila terikat dengan parti. Sebab saya ingat sekarang dia terikat dengan PKR kan. Jadi kalau dia tak hentam macam ini... saya pun tak tahu sama ada ada orang bagi arahan kepada dia untuk buat konten-konten macam ini kan. Sebab kalau tengok konten dia yang dulu-dulu, dia tak macam ni. Konten dia yang dulu-dulu, dia tidak pernah melambangkan pandangan peribadi dia. Dan itu pun sebenarnya ia macam berita — masa awal-awal dulu, awal pemahaman, sebab kita tak nak dia jadi pengaruh yang kemudian boleh dilobi atau dibeli di dalam kalangan ahli politik ini — sesiapa yang bayar lebih — daripada bila dia dah sampai tarikan tertentu, kemudian orang itu, dia jadi corong kepada orang itu. Jason Yu ni sepatutnya, masa awal-awal dulu, ialah dia just jadi berita. So dia potong dan siar, potong dan siar kan. Tapi sekarang kalau macam contoh ni, nampak macam gayanya ada arahan lah untuk dia menyerang, dan mulalah jadi macam ini — mula membaca isi hati orang. Okey, baik WB. So, kesian lah kat dia. Tak apa lah, itu pilihan dia. Baik.
+**Rafizi:** dia? Ya. Oh, YB bayar dia? Ya. Setiap bulan? Ya. Cuma aku rasa lepas itu, bila orang tengok tarikan dia tinggi semua kan, aku rasa semua orang lain pun pergi hampiri dia dan, ya, selesa lah kan. Tak terlalu tinggi, tapi jumlah itu yang penting. Tak, tapi berbanding dengan satu dua tahun lepas, dulu tinggi lah kan jumlahnya. Maksudnya, kalau lihat graf sepanjang 2-3 tahun, memang ada penurunan lah kot, tak? Itu tanggapan yang saya perolehi lah. Jadi dia kembali kepada soal JKOM tadi — ah, ya, JKOM. Sebenarnya — ia perlu bermula dengan isi kandungan itu sendiri. Dia bukannya 100% pasal penyuntingan ke apa. Kalau tambah kandungan politik, kalau kandungan politik itu tidak popular, buat macam mana pun dia tak popular lah. Tapi yang ini, "tukang tilik isi hati orang" — so ini Jason yang letak lah, "Wong Chan tidak berani meletak jawatan, kalau letak jawatan dia kata pengkhianat." Saya kecewa lah sebab Jason ni, saya ingat dia budak yang berjenis lah, kan? Tapi itu masalahnya bila... yelah, bila terikat dengan parti. Sebab saya ingat sekarang dia terikat dengan PKR kan. Jadi kalau dia tak hentam macam ini... saya pun tak tahu sama ada ada orang bagi arahan kepada dia untuk buat konten-konten macam ini kan. Sebab kalau tengok konten dia yang dulu-dulu, dia tak macam ni. Konten dia yang dulu-dulu, dia tidak pernah melambangkan pandangan peribadi dia. Dan itu pun sebenarnya ia macam berita — masa awal-awal dulu, awal pemahaman, sebab kita tak nak dia jadi pengaruh yang kemudian boleh dilobi atau dibeli di dalam kalangan ahli politik ini — sesiapa yang bayar lebih — daripada bila dia dah sampai tarikan tertentu, kemudian orang itu, dia jadi corong kepada orang itu. Jason Yu ni sepatutnya, masa awal-awal dulu, ialah dia just jadi berita. So dia potong dan siar, potong dan siar kan. Tapi sekarang kalau macam contoh ni, nampak macam gayanya ada arahan lah untuk dia menyerang, dan mulalah jadi macam ini — mula membaca isi hati orang. Okey, baik YB. So, kesian lah kat dia. Tak apa lah, itu pilihan dia. Baik.
 
 **Speaker 2:** Kita, itu Jason. Sekarang kita kena tengok pula AMK buat hal apa minggu ini. Ha, kita ada — Ketua AMK Selangor, baju koyak serlah sifat kesederhanaan Anwar biarpun bergelar PM. Yang ini nak kena komen ke? Saya rasa bukan isu koyak ke tak apa lah kan, tapi dalam banyak-banyak kenyataan, mungkin AMK boleh menonjolkan dasar ke, benda lain ke. Tapi ialah budaya mengetengahkan isu-isu yang picisan.
 
-**Rafizi:** Ya, sebab itulah orang macam kau keluar AMK dan keluar PK lah. Jadi tak tahu lah. Memanglah orang akan tengok, "Ya Allahu Akbar" — itu kena ada nisbah tu kan, kan, kan. Tapi kalau kita nak komen lebih pun, kita pula yang jadi beria. Sebab AMK memang macam ini, macam itulah, dah memang macam ini. Jadi kalau kita nak komen pun, inilah AMK yang ada sekarang. Jadi kalau macam saya pun malas dah nak campur ataupun nak komen cerita AMK, cerita PKR semua ni. Yang penting ialah kita kena pastikan yang muda-muda dalam bersama tak jadi macam ini lah. Sebab itu memilih, melatih, kemudian budaya — jangan bagi ruang yang ada gaya-gaya macam ini. Saya rasa yang itu lebih penting untuk saya daripada nak komen, nanti aku pula yang jadi pemenang beria. Okay, bye OBI.
+**Rafizi:** Ya, sebab itulah orang macam kau keluar AMK dan keluar PK lah. Jadi tak tahu lah. Memanglah orang akan tengok, "Ya Allahu Akbar" — itu kena ada nisbah tu kan, kan, kan. Tapi kalau kita nak komen lebih pun, kita pula yang jadi beria. Sebab AMK memang macam ini, macam itulah, dah memang macam ini. Jadi kalau kita nak komen pun, inilah AMK yang ada sekarang. Jadi kalau macam saya pun malas dah nak campur ataupun nak komen cerita AMK, cerita PKR semua ni. Yang penting ialah kita kena pastikan yang muda-muda dalam bersama tak jadi macam ini lah. Sebab itu memilih, melatih, kemudian budaya — jangan bagi ruang yang ada gaya-gaya macam ini. Saya rasa yang itu lebih penting untuk saya daripada nak komen, nanti aku pula yang jadi pemenang beria. Okay, bye YB.
 
 **Haziq:** Ambil pengajaran.
 
 **Rafizi:** Hint hint.
 
-**Haziq:** Hint. Okay, kita ada lagi baby. Jadi kita tengok lah yang lain. Hati-hati yang bernama Tilaga. Haa, ni apa cerita? Siapa Tilaga ni? Nama Tilaga Gunaratnam. Oh, Tilaga
+**Haziq:** Hint. Okay, kita ada lagi YB. Jadi kita tengok lah yang lain. Hati-hati yang bernama Tilaga. Haa, ni apa cerita? Siapa Tilaga ni? Nama Tilaga Gunaratnam. Oh, Tilaga
 
 **Rafizi:** Gunaratnam. Sifar catatan, sifar pengikut, tujuh diikuti. Komen-komen dia ialah hentam konten Bersama — pasal Bersama, di akaun Bersama dan juga akaun aku lah. Ya. Dan banyak lagi lah komen-komen lain pun.
 
@@ -175,7 +175,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Maksudnya kita nak kena kembali kepada isu RM9.5 juta ya, selama kita ulas dengan benda-benda tu, sekali dia... Raki, rahsia. Ya, lepas dia buat bising-bising pasal nak saman aku pasal RM9.5 juta tu, aku rasa ada orang bagi amaran kat dia lah. Selalunya kalau Rafizi ulang berkali-kali, dia ada bukti — "kau janganlah, baik kau duduk diam-diam" kan. Jadi lepas ni kita akan cuba cari jalan untuk kita, apa ni, terbalikkan beria hilang dia ni supaya dia muncul balik. Dia muncul balik dan menjadi tetamu kita. Dia kan menteri — menteri pula, menteri Sumber Manusia yang penting. Mana boleh menteri Sumber Manusia diam je kan — senyap, hilang. Kesian budak-budak yang kat Infineon beratur panjang-panjang dah jadi kan, sepatutnya ada komen daripada menteri, kita nak dengar lah menteri buat apa kan. Okay, nanti — cuma kita sibuk dengan pilihan raya lah. Fikir balik macam mana untuk kita timbulkan balik Ramanan ni.
 
-**Haziq:** Ok baik baby, itu sahaja, kita kena pilih satu dah baby.
+**Haziq:** Ok baik YB, itu sahaja, kita kena pilih satu dah YB.
 
 **Rafizi:** Ada 6 — bagi Pa'an pilih. Haa, bagi Pa'an, aku buat-buat pilih ni tak reti. Ya,
 
@@ -183,7 +183,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Haa, then okey lah, okey lah. Walaupun kita sebenarnya nampak macam Ramanan tu comel sangat, tapi tak apa lah, sebab kita dah bagi kuasa itu kepada Pa'an. Maka pemenang minggu ini adalah JKOM. Tahniah. Haa, beria, beria. Tapi bahaya tau — kita bagi dia anugerah beria, lepas ni minggu depan dia ada kat sini, dia nak masuk podcast ni, "let me in," lepas tu dia panggil kita belaci-belaci — "saya nak berpodcast dengan belaci-belaci ni" kan, itu nama dia — kesan yang tidak dijangka tau.
 
-**Haziq:** Okay, okay baby, 44 minit. Kita terus ke isu keras. Kepada saudara-saudari yang menunggu lama, kita akhirnya akan — aku boleh adjust — ini isu panas, mengulas tentang isu Rohingya. Dan mungkin isu ini kita akan pergi beberapa peringkat lah baby untuk memahamkan orang juga. Kita akan sentuh dulu asal-usul, kemudian sehingga kepada permasalahan hari ini, dan mungkin kita akan tengok apakah hala tuju yang boleh dipertimbangkan. Dan kalau — yelah, saya boleh terangkan sekali lalu lah — sekarang ini ada 128,000 komuniti Rohingya yang berdaftar dengan UNHCR, dianggarkan seramai 200 ribu lah yang... jumlah keseluruhannya, nanti jap, boleh, boleh —
+**Haziq:** Okay, okay YB, 44 minit. Kita terus ke isu keras. Kepada saudara-saudari yang menunggu lama, kita akhirnya akan — aku boleh adjust — ini isu panas, mengulas tentang isu Rohingya. Dan mungkin isu ini kita akan pergi beberapa peringkat lah YB untuk memahamkan orang juga. Kita akan sentuh dulu asal-usul, kemudian sehingga kepada permasalahan hari ini, dan mungkin kita akan tengok apakah hala tuju yang boleh dipertimbangkan. Dan kalau — yelah, saya boleh terangkan sekali lalu lah — sekarang ini ada 128,000 komuniti Rohingya yang berdaftar dengan UNHCR, dianggarkan seramai 200 ribu lah yang... jumlah keseluruhannya, nanti jap, boleh, boleh —
 
 **Rafizi:** ada permintaan dah, gila sejuk. Haa, salah
 
@@ -233,7 +233,7 @@ Isu sebenar ialah apa yang telah berlaku sejak itu. Kerana ada dua cabaran besar
 
 Satu lagi perkara yang operasi, yang perlu ditangani segera, ialah soal, apa yang kita buat dengan yang 130,000 yang dah ada ni? Haa, kan? Okay, jadi apa yang kita buat?
 
-**Haziq:** Dia agak dilema lah, mungkin untuk berlaku adil pada kerajaan lah. Kalau kita tak bagi dia hak untuk bekerja, contohnya kan, dia ni manusia, takkan duduk rumah tak makan. Dia akan cari cara untuk terus hidup dengan cara yang teruk sikit lah — mencuri ke apa ke, dan benda tu akan menyebabkan jenayah. Tapi kalau kita bagi pula, orang Malaysia lain ni akan rasa kurang selesa lah — dia rasa dia orang "meninggalkan" kita lah, tapi kita pula macam bagi dia orang akses apa semua, dan sumber pun tak cukup semua. Jadi kalau jadi kerajaan susah juga lah, baby.
+**Haziq:** Dia agak dilema lah, mungkin untuk berlaku adil pada kerajaan lah. Kalau kita tak bagi dia hak untuk bekerja, contohnya kan, dia ni manusia, takkan duduk rumah tak makan. Dia akan cari cara untuk terus hidup dengan cara yang teruk sikit lah — mencuri ke apa ke, dan benda tu akan menyebabkan jenayah. Tapi kalau kita bagi pula, orang Malaysia lain ni akan rasa kurang selesa lah — dia rasa dia orang "meninggalkan" kita lah, tapi kita pula macam bagi dia orang akses apa semua, dan sumber pun tak cukup semua. Jadi kalau jadi kerajaan susah juga lah, YB.
 
 **Rafizi:** Kau sekarang ni memang wakil kepada Anwar Ibrahim, bukan Pa'an.
 
@@ -435,7 +435,7 @@ Kembali kepada perkara ini, ya? Jadi, isu-isu ini menjadi isu kerana apabila kom
 
 **Speaker 3:** [tiada respons jelas]
 
-**Speaker 1:** Baik, dah meletup pun. Dah meletup pun. Okay baby. Jadi kita ada berapa minit lagi? Setengah jam? Lebih kurang lah, setengah jam lebih kurang lagi lah. Berapa minit? Tak ada dah.
+**Speaker 1:** Baik, dah meletup pun. Dah meletup pun. Okay YB. Jadi kita ada berapa minit lagi? Setengah jam? Lebih kurang lah, setengah jam lebih kurang lagi lah. Berapa minit? Tak ada dah.
 
 **Haziq:** Kita habiskan, kita ada topik yang kedua — masuk pilihan raya, duit masuk.
 

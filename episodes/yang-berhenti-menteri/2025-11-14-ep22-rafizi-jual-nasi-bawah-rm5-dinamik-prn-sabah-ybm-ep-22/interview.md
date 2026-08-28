@@ -82,7 +82,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Minggu ni kita cepat kot, saya penat, sebab saya dah dua minggu—
 
-**Host:** Jom Abie, dua minggu jaga kedai ni, orang penat, so kita akan buat cepat-cepat-cepat, tapi—
+**Host:** Jom YB, dua minggu jaga kedai ni, orang penat, so kita akan buat cepat-cepat-cepat, tapi—
 
 **Rafizi:** Lagipun minggu lepas pun tak banyak isu kan. Yang beria mungkin ramai lah orang beria, isu besar tu mungkin tak banyak lah kan.
 
