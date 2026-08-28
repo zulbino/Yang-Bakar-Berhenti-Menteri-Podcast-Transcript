@@ -8,19 +8,27 @@ duration_seconds: 10237
 duration: 2h 50m
 view_count: 162397
 model: mesolitica/malaysian-whisper-medium-v2
-note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2
-  with VAD chunking. Speaker turns are labeled via pyannote.audio acoustic diarization
-  (anonymous "Speaker N" labels, not yet mapped to real names). See interview.md for
-  the polished newspaper-style rewrite.
+note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
+  Speaker attribution was rebuilt on 2026-08-28 at turn level by
+  scripts/reattribute_blocks.py. The original diarization had collapsed, leaving at
+  least one cast member with no label at all, so pyannote was re-run with an exact
+  speaker count from the roster and the existing text re-cut against it WITHOUT
+  re-transcribing. The transcript text is byte-for-byte unchanged; only speaker
+  boundaries moved. 375 blocks became 585 turns, and Haziq now hold labels of their own where they had none.
+  Recurring hosts were identified by voiceprint (scripts/verify_speaker_voiceprint.py);
+  guests by word overlap with the previous attribution
+  (scripts/map_clusters_to_old_labels.py), which is reliable for them because guest
+  labels were the part of the old file that had not collapsed.
+  interview*.md still carries the older attribution.'
 ---
 
 # Raw Transcript
 
-[00:45] Speaker 1: Assalamualaikum dan salam sejahtera Macam biasa bersama saya Yang suara tak baik lagi Saudara Haziq Dan macam biasa juga Saudara Haziq? Saudara Haziq macam pelik kan Haziq
+[00:45] Haziq: Assalamualaikum dan salam sejahtera Macam biasa bersama saya Yang suara tak baik lagi Saudara Haziq Dan macam biasa juga Saudara Haziq? Saudara Haziq macam pelik kan Haziq
 
 [00:56] Rafizi: Mana ada orang memperkenalkan diri. Nama saya Saudara Haziq. Okey, saya salah. Waalaikumsalam. Saya over. Over sikit di situ. Macam Kamil Munim. Yang sentuh bekas ketua saya.
 
-[01:10] Speaker 1: Terus speechless. Dan macam biasa bersama Saudara Fizir Ramli dan bersama dua individu misterius. Jadi korang ni siapa sebenarnya? Mula dengan sebelah kiri. Aku
+[01:10] Haziq: Terus speechless. Dan macam biasa bersama Saudara Fizir Ramli dan bersama dua individu misterius. Jadi korang ni siapa sebenarnya? Mula dengan sebelah kiri. Aku
 
 [01:21] Rafizi: dulu kan kalau kalau masa muda-muda kan masa kecil-kecil aku paling anti kalau ada jumpa orang tua orang tanya awak ni anak siapa? Aku mesti jawab anak orang lah. So sama macam soalan korang ni siapa?
 
@@ -28,7 +36,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [01:38] Rafizi: Siapakah
 
-[01:38] Speaker 1: saudara mara sekalian?
+[01:38] Haziq: saudara mara sekalian?
 
 [01:40] Syuk: Dijemput atas kapasiti anak muda so jawapannya anak muda lah kot.
 
@@ -46,15 +54,15 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [02:01] Rafizi: saya. Zain? 22. Apalah korang salah jemput yang tua-tua ni Engkau? 22 22, ni masih lagi layak lah Layak
 
-[02:10] Speaker 1: lah Okay balik Syuk, balik
+[02:10] Haziq: lah Okay balik Syuk, balik
 
 [02:14] Farhan (Pa'an): Kita pasal ada
 
-[02:17] Speaker 1: Force. MC Ranggi. Pada siapa yang tengok jelajah kancil di Melaka.
+[02:17] Haziq: Force. MC Ranggi. Pada siapa yang tengok jelajah kancil di Melaka.
 
 [02:22] Rafizi: Kenapa budak sekarang macam tu kan, dia kena pakai seluar dia tu. Seluar kembang. Dia punya boleh sapu lantai.
 
-[02:29] Speaker 1: Ni pun banyak juga.
+[02:29] Haziq: Ni pun banyak juga.
 
 [02:31] Zaim Zulkifli: Dia palazo lah macam zaman dulu punya. Palazo
 
@@ -78,15 +86,15 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [02:53] Rafizi: kembang bawah. Dia kembang bawah sajalah. Dekat peha tu ketat nak mampuskan. Lebih pernah terjebak? Tak, aku senyum tu sebab. Haa, dia sebab aku senyum. Sebab masa aku kat sekolah, dia macam yang GQ tu kan, yang masih lagi, dia... Kan dia......cycle tu berulang-ulang kan. So my time dulu......masa kat sekolah menengah......orang pakai yang loose macam tu lah. Tapi aku ada seorang cikgu English. Kalau dia tengok ni mesti dia gelak. Dia......dia......masa tu zaman early 90s... Tapi dia pakai baju dia aku ingat dia tak pernah tukar wardrobe dia daripada 70s. So collar dia besar gila. Kemudian dia punya seluar bell bottom semua. So kita orang panggil dia master collar. Master. Dia sebab collar dia. Yelah master collar sebab orang masa tu collar semua kecil-kecil kan. Dia punya collar telinga gajah punya collar. So dia repeat and repeat and repeat kan sebab... Saya rasa tahun 80-an yang zaman orang pakai apa nama ini ketat gila ni kan, apa nama, skinny jeans kan. And then the last 5-6 years, ada skinny jeans. So sekarang aku tak tahu nak buat apa dengan skinny jeans aku. Not only dia out of fashion, memang tak muat dengan aku sekarang.
 
-[04:12] Speaker 1: Kena tunggulah sebab fashion ni dia
+[04:12] Haziq: Kena tunggulah sebab fashion ni dia
 
 [04:14] Rafizi: akan pulang balik kan. Tunggu
 
-[04:16] Speaker 1: fasa dia sampai,
+[04:16] Haziq: fasa dia sampai,
 
 [04:17] Rafizi: boleh balik balik. Yalah tapi by the time aku 55 pakai skinny jeans, ada problem lah.
 
-[04:22] Speaker 1: Okay, baik-baik. Jadi saudara Syuk, Syuk lah. Dia membakar aku awal-awal dulu. Baik kita tengok sekali lagi macam mana. Hangus dulu. Siapa yang hangus? Tak tahu. Susah. Susah nak cakap. Trauma. Trauma tak kau lepas habis dulu. Masih trauma. Sebelum ni
+[04:22] Haziq: Okay, baik-baik. Jadi saudara Syuk, Syuk lah. Dia membakar aku awal-awal dulu. Baik kita tengok sekali lagi macam mana. Hangus dulu. Siapa yang hangus? Tak tahu. Susah. Susah nak cakap. Trauma. Trauma tak kau lepas habis dulu. Masih trauma. Sebelum ni
 
 [04:42] Zaim Zulkifli: pun saya tanya dulu lah. Haziq
 
@@ -94,7 +102,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [04:44] Zaim Zulkifli: okey tak aku kena bantai apa semua ni. Trauma Zaim sekali.
 
-[04:49] Speaker 1: Kena bantai aku tak jawab. Okey baik. Kita macam biasa. Kita tengok dulu siapa yang beria minggu ni. Tapi kita minta dia orang banyak komen lah kot Tapi
+[04:49] Haziq: Kena bantai aku tak jawab. Okey baik. Kita macam biasa. Kita tengok dulu siapa yang beria minggu ni. Tapi kita minta dia orang banyak komen lah kot Tapi
 
 [05:00] Rafizi: nanti dulu Okay okay sebelum tu Sebab Yang menonton ni dia mesti pelik Apa dia orang duk sembang-sembang ni Sebab ni episode yang ke-52 Kan Jadi dia kita dah cukup satu tahun daripada kita reset bermula balik podcast YBM kan. Haa. Dan kalau episod 52 ni sama saja, bosan lah. Jadi alasan yang rasmi ialah kita nak fokus kepada pandangan yang muda-muda lah. Aku lah, kau mungkin tak lah kan. Aku dah ketinggalan zaman lah. Itu alasan rasmi. Alasan tidak rasmi sebenarnya aku sakit tekak. Hahaha. Bercakap 3 jam tiap-tiap minggu kemudian sambung lagi je lah ajar. Jadi hari ni kita bagi peluang kepada yang muda-muda untuk komen.
 
@@ -104,19 +112,19 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [05:55] Rafizi: Kalau views dah bersabarlah korang kan. Kalaupun korang sebosannya lah budak 2 orang, 3 orang ni kan. Ya. Silalah tap tap tap. Support lah support lah. budak lah. Tap tap tap tap tap. Boleh lah. Tap tap screen. Tap tap tap screen. Tap tap screen. Itu linggo budak-budak ke? Linggo budak-budak. Tap tap tap. Itu TikTok lah. Oh ya. Itu TikTok. TikTok.
 
-[06:21] Speaker 1: Okey baik. Clear context itu maybe. Kita tengok beria. Tak ada empat lah untuk minggu ni Jadi kita tengok yang pertama
+[06:21] Haziq: Okey baik. Clear context itu maybe. Kita tengok beria. Tak ada empat lah untuk minggu ni Jadi kita tengok yang pertama
 
 [06:30] Rafizi: dulu. Zahim macam serius gila. Ini bukan exam. Risau, risau. Dia
 
-[06:35] Speaker 1: trauma.
+[06:35] Haziq: trauma.
 
 [06:37] Rafizi: Trauma dulu. Itu episod keberapa? Itu episod awal-awal. Episode 4.
 
-[06:41] Speaker 1: Episode 4. Selepas itu dia jenis pertama datang. Yelah. Terus kena rentung, kena bakau. So kedua Iswadi. Lepas itu Faizal Rahman. Lepas itu terdiri.
+[06:41] Haziq: Episode 4. Selepas itu dia jenis pertama datang. Yelah. Terus kena rentung, kena bakau. So kedua Iswadi. Lepas itu Faizal Rahman. Lepas itu terdiri.
 
 [06:52] Farhan (Pa'an): Dan time itu tak ada format. Tak
 
-[06:55] Speaker 1: ada format. dengan dia dulu ok alright ni bukan exam eh ok ok baik baik Kita tengok yang pertama, kita ada penjual nasi ayam. RM26. Ini viral baru-baru ini. Ini kat mana dia jual? RM26? Ini dia jual dari rumah dia lah. Yelah rumah
+[06:55] Haziq: ada format. dengan dia dulu ok alright ni bukan exam eh ok ok baik baik Kita tengok yang pertama, kita ada penjual nasi ayam. RM26. Ini viral baru-baru ini. Ini kat mana dia jual? RM26? Ini dia jual dari rumah dia lah. Yelah rumah
 
 [07:17] Syuk: dia kat mana? Saya tak sure rumah dia kat mana. Tapi saya perasan TikTok, dia open order lah. Macam siapa nak, open order and then dia macam...
 
@@ -136,7 +144,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [07:45] Rafizi: one who gave me that. Oh, ya. Dia mana ada pernah kena-mena. Dia tak pernah duduk bangsa. Tak ada trace bangsa langsung. Ya. So, I'm the naughty boy. Dia mana wati. Siapa ini?
 
-[07:56] Speaker 1: Ini Mak Nilofa. Tapi tak apalah, bukan itu isunya kan. Isunya jual RM26 ni. Oh so maksudnya jual daripada KL lah. Ya jual daripada KL. Jadi ada yang kata tak apalah ini dia ada target market dia. Kalau tak mahu mungkin kau buka target market dia. Tapi ada juga yang bimbang sebab inilah sebabnya harga barang tu susah nak turun. Sebab ada orang yang ada willing buyer, willing seller dengan harga yang tinggi. ni. Dan something macam itulah. Tanyalah yang
+[07:56] Haziq: Ini Mak Nilofa. Tapi tak apalah, bukan itu isunya kan. Isunya jual RM26 ni. Oh so maksudnya jual daripada KL lah. Ya jual daripada KL. Jadi ada yang kata tak apalah ini dia ada target market dia. Kalau tak mahu mungkin kau buka target market dia. Tapi ada juga yang bimbang sebab inilah sebabnya harga barang tu susah nak turun. Sebab ada orang yang ada willing buyer, willing seller dengan harga yang tinggi. ni. Dan something macam itulah. Tanyalah yang
 
 [08:35] Syuk: Yelah sebelum, tak aku komen ke kau. Okay, kau kena fikir.
 
@@ -166,27 +174,27 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [10:39] Rafizi: Pusan lah dia orang komen beria. Dia komen, korang komen macam Chef Wan tengah komen masakan. Padahal korang tak makan pun lagi ni.
 
-[10:49] Speaker 1: YB, saya teringat dulu YB punya PC lah awal-awal, indeks harga pengguna eh. Yang Yelah benda tu agak controversial Tapi kalau faham konteks faham lah Maksudnya bila benda tu dijual mahal Pengguna ada peranan lah contohnya Tapi ayat YB sebut tu Kalau apa
+[10:49] Haziq: YB, saya teringat dulu YB punya PC lah awal-awal, indeks harga pengguna eh. Yang Yelah benda tu agak controversial Tapi kalau faham konteks faham lah Maksudnya bila benda tu dijual mahal Pengguna ada peranan lah contohnya Tapi ayat YB sebut tu Kalau apa
 
 [11:09] Rafizi: Sepatutnya Kalau normal Ayam Ekonomi lah kan Dia ada E supply and demand curve kan elastik ke tak elastik maksudnya sepatutnya in a normal supply demand kalau demand tu tinggi maka harga tu naik lah kalau demand tu rendah harga dia turun lah that's what you mean
 
-[11:34] Speaker 1: ya betul betul dan mungkin berkaitan dengan yang ini juga sebab dulu YB pernah kata yelah by right kalau harga yang tu mahal kita tak Tak beli ayam. Tapi maksudnya Itu untuk economically lah Kecuali ada substitute Haa Jadi? Dalam konteks ni boleh kita kata benda yang sama ke? Maksudnya pengguna pun ada peranan. Tapi ni segmen
+[11:34] Haziq: ya betul betul dan mungkin berkaitan dengan yang ini juga sebab dulu YB pernah kata yelah by right kalau harga yang tu mahal kita tak Tak beli ayam. Tapi maksudnya Itu untuk economically lah Kecuali ada substitute Haa Jadi? Dalam konteks ni boleh kita kata benda yang sama ke? Maksudnya pengguna pun ada peranan. Tapi ni segmen
 
 [11:59] Rafizi: beria
 
-[11:59] Speaker 1: yang kau nak buat jadi kelas ekonomi ni sebab apa? Sebab minggu lepas saya setkan ada sampai sejam. Okey, tak apa kita terus cari siapa yang beria.
+[11:59] Haziq: yang kau nak buat jadi kelas ekonomi ni sebab apa? Sebab minggu lepas saya setkan ada sampai sejam. Okey, tak apa kita terus cari siapa yang beria.
 
 [12:08] Rafizi: Tak, dia, yelah. Memang ada dalam masyarakat Not di Malaysia je Di mana-mana kan Maksudnya Demand itu ada mungkin bukan sebab produk itu Tapi sebab branding dia Kalau macam ni association Branding lah value kan Because I think contohnya lah ini ayam nasi ayam RM26. Contohnya beg Louis Vuitton LV. RM20,000 satu beg. Handbag sahaja. Saya ingat masa saya di Petronas dulu. kat situ memang ada kat Surya KLCC tu ada kedai LV kan so lepas musim bonus Petronas ni memang penuh orang beli apa nama bag LV tu kan kita lelaki tak faham lah why lah orang nak beli bag I mean RM15,000, RM20,000 LV kan tapi kalau tanya yang wanita dia ada sebab dia lah because Value proposition Daripada LV tu Masuk akal kan So I suppose Benda ni ada Dalam setiap Hmm segmen market sama juga macam kan ada viral dulu orang buat apa nama ni Maggi yang tepi jalan kat setiap bangsa kan Maggi mahal kan dia masuk-masuk 20 ringgit lebih satu Maggi kan orang beratur sepanjang-panjang je kan so kalau ada market maka orang jual lah jadi
 
-[13:48] Speaker 1: tak berialah untuk jual harga seperti
+[13:48] Haziq: tak berialah untuk jual harga seperti
 
 [13:52] Rafizi: Aku rasa yang beria yang korang masukkan benda ni Sampai orang tak boleh nak komen Semua tak tahu nak komen Macam mana harga RM26
 
-[14:00] Speaker 1: Baik baik baik Biasalah yang pertama tu memang kita beria Macam minggu lepas tu sama
+[14:00] Haziq: Baik baik baik Biasalah yang pertama tu memang kita beria Macam minggu lepas tu sama
 
 [14:05] Rafizi: Minggu lepas apa dia?
 
-[14:06] Speaker 1: Yang pasal orang hilang tu
+[14:06] Haziq: Yang pasal orang hilang tu
 
 [14:07] Rafizi: Haa itulah macam Haa apa dia orang hilang kan So yang ni biasalah to say that Sebab ada orang jual nasi ayam RM26 dan semua orang lain akan menaikkan harga jual nasi ayam jadi contohnya RM15, RM20 kan. Hmm tak tentu betul ke tidak lah sebab it's quite obvious lah orang dia jual kepada segment market dia sendiri. Kalau orang biasa jual, kalau contohnya ada orang jual nasi ayam kat Sungai Besi ni jual RM26, tutup kedai lah 2-3 hari lepas tu kan. Cuma, memang perang aku rasa... Selalunya yang beria pun orang kita juga yang beratur. Yang kadang-kadang kalau tengok dekat foodie tu kan, ada yang makanan viral, yang orang sanggup beratur sepanjang-panjangnya kan. Yang tu beria lah tapi that's our culture.
 
@@ -216,13 +224,13 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [15:31] Rafizi: sekali
 
-[15:31] Speaker 1: tu tak beli lah. Sebab saya rasa macam daging je. Mungkin sama. Yelah, brand tu kan.
+[15:31] Haziq: tu tak beli lah. Sebab saya rasa macam daging je. Mungkin sama. Yelah, brand tu kan.
 
-[15:36] Speaker 1: Dia tak tahu lah dia. Tapi lepas
+[15:36] Haziq: Dia tak tahu lah dia. Tapi lepas
 
 [15:38] Rafizi: tu macam dah krik-krik. model dia pun. Dia macam Dulu-dulu orang Bisnes jual baju kan Dia akan beli stok Kemudian dia viralkan, dia push. And then dia cuba habiskan stok tu. Kemudian dia next time dia jual next round. Dia jual benda lain pula. Dia roll modal macam tu lah. So saya tak rasa lah dia jual ni because ini adalah periuk nasi harian dia kan. So dia cuba nanti dia tengok kalau ada lagi orang beli mungkin nasi ayam pistacho boleh jual RM40. RM40 pula. Baiklah Okey, baik-baik. Memang beria letak benda ni. Memang beria letak
 
-[16:25] Speaker 1: benda ni. Susah nak komen. Kita tengok lepas ni ada lagi. Dah lama tak jadi tetamu kita. Tetapi dia singgah. Sekejap Oh,
+[16:25] Haziq: benda ni. Susah nak komen. Kita tengok lepas ni ada lagi. Dah lama tak jadi tetamu kita. Tetapi dia singgah. Sekejap Oh,
 
 [16:38] Rafizi: ya ini bagi dia orang lah komen. Satu minggu, satu parhas. Ini ikon usahawan muda yang paling terkenal. Anak-anak muda kenal. Silakan aku nak minum air. Zaim. Zaim. Sebab dia lah...
 
@@ -248,17 +256,17 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [18:27] Rafizi: Hmm So, macam mana ni? Fahash kekal setia perjuangan reformasi terus bersama Anwar. Ni NGO mana pula yang cakap ni? Haa NGO mana Syuk?
 
-[18:39] Speaker 1: Dia bukan lecturer yang cakap tu. Haa sebenarnya tu nama dia satu minggu satu farhaj. Tetap minggu ada sahaja yang akan tiba-tiba farhaj ini, farhaj itu. Dia aneh lah.
+[18:39] Haziq: Dia bukan lecturer yang cakap tu. Haa sebenarnya tu nama dia satu minggu satu farhaj. Tetap minggu ada sahaja yang akan tiba-tiba farhaj ini, farhaj itu. Dia aneh lah.
 
 [18:49] Syuk: Dia apa pertubuhan kebajikan madani ke apa? Minggu ni NGO lah. Minggu lepas ada
 
 [18:55] Syuk: pensyarah.
 
-[18:55] Speaker 1: Minggu lepas ada lagi
+[18:55] Haziq: Minggu lepas ada lagi
 
-[18:56] Speaker 1: pensyarah
+[18:56] Haziq: pensyarah
 
-[18:57] Speaker 1: lain.
+[18:57] Haziq: lain.
 
 [18:57] Rafizi: Nasib baik pensyarah UUM bukan pensyarah UIA. Tak recognize lah. Kalau dia pensyarah UIA, pensyarah kau lah kan. Kau buat kursus apa? Political Science lah. Saya tak ada kelihatan memang lecturer saya kan. Kata aku kan. Hah? Mana
 
@@ -268,7 +276,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [19:37] Syuk: Dikeri oleh Zaim.
 
-[19:42] Speaker 1: Hmm Siapa yang beria ni? Siapa yang menggerakkan kenyataan supaya benda itu
+[19:42] Haziq: Hmm Siapa yang beria ni? Siapa yang menggerakkan kenyataan supaya benda itu
 
 [19:49] Rafizi: berkeluar tiap-tiap minggu. Oh, maksudnya, tim PR, public relation yang diuruskan ini memang beria lah. Kalau duit banyak, beria lah kan.
 
@@ -324,23 +332,23 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [22:44] Rafizi: Bubble Bukit Bintang Bubble ni Saya menafikan sekerasnya BBB 3B Bukit Bintang Bubble Okay Beria tak Syubh dan Saim Aku tak ada baju macam tu kan Kut-kut satu hari kan aku datang, buangkan baju macam tu. Tak pernah nampak lah. Tak pernah nampak. Okay. Beria. So siapa yang beria? Beria tak Zain? Beria. NGO tu beria. Tapi kaya tak apa. Kaya tak apa?
 
-[23:12] Speaker 1: Kaya tak apa. NGO beria. Okay, kita tengok lagi UIB. Ini pasal parti UIB lah. Hah? Bukan ni lah. Ini aku anak muda selepas ni. Entah,
+[23:12] Haziq: Kaya tak apa. NGO beria. Okay, kita tengok lagi UIB. Ini pasal parti UIB lah. Hah? Bukan ni lah. Ini aku anak muda selepas ni. Entah,
 
 [23:24] Syuk: selaku anak
 
-[23:24] Speaker 1: muda. Dulu adalah Menteri Haiwa Rafizi tapi saya dah turunkan jadi Biro Haiwa Rafizi. Oh dah
+[23:24] Haziq: muda. Dulu adalah Menteri Haiwa Rafizi tapi saya dah turunkan jadi Biro Haiwa Rafizi. Oh dah
 
 [23:32] Rafizi: agak Oh ini yang dia kata Permohonan jadi calon parti bersama Kini dibuka
 
-[23:40] Speaker 1: Terdesak sebab buka percalanan online
+[23:40] Haziq: Terdesak sebab buka percalanan online
 
 [23:45] Rafizi: Haa Tanya anak muda, tanya anak muda.
 
-[23:47] Speaker 1: Selaku anak-anak muda, terpaling muda ni, bila tengok sekali tu memang nampak terdesak ke?
+[23:47] Haziq: Selaku anak-anak muda, terpaling muda ni, bila tengok sekali tu memang nampak terdesak ke?
 
-[23:55] Speaker 1: Tak adalah. Sebab anak muda kan suka melalui kata-kata. Zahid melukakan
+[23:55] Haziq: Tak adalah. Sebab anak muda kan suka melalui kata-kata. Zahid melukakan
 
-[24:00] Speaker 1: apa?
+[24:00] Haziq: apa?
 
 [24:00] Zaim Zulkifli: Sejujurnya tak adalah nampak. Kau kenal ke siapa ni? Kenal, kenal. Oh, rasa baik. Nama quite familiar lah. Okey, okey.
 
@@ -352,7 +360,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [24:23] Rafizi: There is a logic. There is a logic untuk nampak sangat korang anak muda ni terpisah dengan budaya politik lama Malaysia. Betul. There is a logic sebab dari pandangan UMNO especially kan calon ni maksudnya hanya boleh datang daripada organisasi yang besar. ada negeri. Jadi semua ni kena datang daripada yang berebut-rebut daripada bahagian semua. Sebab tu ramai orang ada calon senara yang panjang semua nak melobi kan. Jadi kalau the reverse maksudnya sampai kena buka dan jemput orang biasa maksudnya itu memberi gambaran parti tu tak ada bahagian, tak ada cawangan, tak ada orang. Jadi terdesak lah. So logic dia tu ada. daripada you know well dia punya train of thoughts there's nothing wrong dengan train of thoughts sebab memang itulah budaya ini nampak sangat tak pernah masuk parti itu kan Zahid
 
-[25:28] Speaker 1: dah register parti mana-mana ke?
+[25:28] Haziq: dah register parti mana-mana ke?
 
 [25:30] Rafizi: janganlah tanya itu maklumat peribadi nanti UIA cari dia orang ada AUKU tapi sekarang dah
 
@@ -370,7 +378,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [25:48] Rafizi: ada juga Tapi sebenarnya Yang inilah kan Sebenarnya I think Masa saya Pengarah pilihan raya Untuk PRU 2022 PRU 15, yang itu kali pertama masa BKR buat. Haa, muda ikut je lah lepas tu kan. Cuma orang tak ingat lah yang masa tu memang kita buka untuk semua. Jadi cuma mungkin masa itu orang ingat ini lebih kepada dalaman parti lah kan. Jadi memang baru lah. So kali pertama kita buat 2022. Kemudian muda ikut untuk PRN 2023 Haa Baru dua kali lah
 
-[26:28] Speaker 1: Itu ada Dr. Aisyah
+[26:28] Haziq: Itu ada Dr. Aisyah
 
 [26:30] Rafizi: Haa sebab itu ada Dr. Aisyah Haa Fatin Adalah yang Yang apa nama ni macam ada seorang tu nama Saiful Yazan yang sekarang ni jadi orang kuat menteri besar Selangor kan. So berdaya ni sangat baru.
 
@@ -384,7 +392,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [26:59] Rafizi: ketiga. Oh yang ini Puan Zakashi sia-sia je ada PhD pergi UK. Oh dia ada PhD? Aku pernah jumpa dia first kali tahun 1997 rasanya dekat London. Masa tu dia dah nak habis-habis buat PhD dia sebab sekarang dia dah tua lah kan. dia Presiden Kelab UMNO UK. Saya rasa begitu. Jadi, ada mesyuarat semua. Jadi, dia ada PhD. Sebab itu, Dr. Puad Zarkashi. Mana ada negara lain It's very common Negara In fact kita yang pelik Sebab Sistem politik kita kena jadi ketua bahagian, ketua cabang baru boleh dipertimbangkan kan. Kalau di US atau banyak negara barat dia ada sistem primary. Siapa-siapa nak bertanding boleh tawarkan diri je. Kalau tidak tak adalah Zohran Mamdani boleh jadi calon kan. But sebelum itu dia kena melalui primary. Primary itu maksudnya pemilihan parti lah. siapa jadi ketua bahagian semua ni nak ada election sahaja katakanlah pilihan raya senat, katakanlah setahun setengah lagi kan jadi Zahim pun boleh kata saya nak bertanding melawan siapa senator yang popular From US Nampak sangat semua tak kenal sekarang kan Ha
 
-[28:33] Speaker 1: Alah siapa tu yang selalu duduk tu? Bernie Sanders.
+[28:33] Haziq: Alah siapa tu yang selalu duduk tu? Bernie Sanders.
 
 [28:38] Rafizi: Bernie Sanders lah katakan. Bernie Sanders betul-betul. Boleh je nak lawan Bernie Sanders. Kata saya nak lawan Bernie Sanders atas tiket Demokrat. Tapi then Demokrat akan buat primary lah. Dia akan mengundi. Kalau menang, menang lah. Kalau kalah, then orang yang menang. Itu jadinya. Kalau kat UK lagi menarik kan. Bila sebab dia akan buka pencalonan bertanding di kawasan parlimen itu. And kau datang dia akan interview lah Maksudnya pimpinan Or parti dekat situ akan interview Dan kalau lepas lepas dapat lah
 
@@ -396,9 +404,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [30:26] Zaim Zulkifli: Tapi I think yang tertarik dengan yang perenggan ketiga. Dia kata calon online boleh menyebabkan yang terpelik itu bukan ahli jenius yang telatih dari segi kepimpinan dan fikiran perjuangannya. To me that's a very mindset punya thinking. Memang dia old pun je tu. Ya memang dia old lah. And I think, but dia sebenarnya bila cakap macam tu, dia macam alienate, mengasingkan a lot of. Sebenarnya Gen Z tak suka lah. I don't think that anak muda sekarang suka dengan sistem yang very rigid. But that,
 
-[30:55] Speaker 1: kalau cakap pasal logic, bukankah itu logic? Sebab Ya ada
+[30:55] Haziq: kalau cakap pasal logic, bukankah itu logic? Sebab Ya ada
 
-[30:58] Speaker 1: logic lah. Gen Z pun suka job hopping. So kalau kita apply, tak biar lah. Betul betul betul.
+[30:58] Haziq: logic lah. Gen Z pun suka job hopping. So kalau kita apply, tak biar lah. Betul betul betul.
 
 [31:03] Zaim Zulkifli: Sebab macam contoh macam
 
@@ -418,11 +426,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [36:28] Rafizi: orang komen pasal tapi dia dari dulu dia istiqamah tapi terima kasih Fitri Nordin kita we have the same thinking dan tengok tu like paling ramai pun maksudnya rakyat Malaysia semua fikir macam kita
 
-[36:43] Speaker 1: baik-baik Beria. Okay. Beria. Sediakan kalkulator semua sebab kita ada kelas mengira lepas ni. Tak, maksudnya beria satu lagi. Tapi yang tu betul
+[36:43] Haziq: baik-baik Beria. Okay. Beria. Sediakan kalkulator semua sebab kita ada kelas mengira lepas ni. Tak, maksudnya beria satu lagi. Tapi yang tu betul
 
 [36:54] Rafizi: juga. Kira-kira beria. Yang tu betul juga tu. Tiba-tiba Puat yang apply nanti. Nanti ada cerita. Ada cerita. Korang gelap. Belum aku cerita lagi kan. Tiba-tiba Puat yang apply nanti sebab merajuk UMNO tak pilih jadi cikgu. Ada cerita. Sebab tahun 2018 memang dia merajuk. tak jadi calon Batu Pahan. Jadi dia berkira-kira dia dah nak umum bagi gambaran dekat media untuk dia jadi calon bebas. Nasib baik bersama tak ada masa itu Kalau tidak kita dapat last minute application Dia punya credential Saya adalah menteri halewarang Kita pun dapat
 
-[37:38] Speaker 1: Okay baik-baik Boleh kita pergi sosial web? Haa Dan terakhir Buka kalkulator 90 juta Bahagi 4.2 juta orang Dapat berapa Yang ini Viral
+[37:38] Haziq: Okay baik-baik Boleh kita pergi sosial web? Haa Dan terakhir Buka kalkulator 90 juta Bahagi 4.2 juta orang Dapat berapa Yang ini Viral
 
 [37:52] Rafizi: Dekat FYP Aku beberapa hari Ha Ha Yang ni dapat RM20 juta Dapat RM20 juta Syuk Dia umur dapat RM20 juta lah Mungkin dapat
 
@@ -448,7 +456,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [39:48] Rafizi: No, no, no, no. Oh, rakyat Johor bukan 4.2 juta? No, no, no, no. Kenapa Zaleha sampai tersasul 90 juta bagi 4.2 juta dapat 20 juta? Kenapa Zaleha sampai tersasul? Sebabnya dia bukanlah seorang yang biasa berceramah. Oh. Haa. Dia tak pernah berceramah. Pernah aku tengok Zaleha sebelum kita letak dia jadi calon di Sekijang tahun 2022. Ada tak rakyat Malaysia ni yang kenal Zaleha ni sebagai terkedepan? Tak ada. First time nampak
 
-[40:28] Speaker 1: dekat truck YB dah.
+[40:28] Haziq: dekat truck YB dah.
 
 [40:29] Rafizi: First time nampak dekat truck YB. Truck aku kan dekat Sekijang kan. Jadi dia tak pernah berada di depan Jadi bila dia tak pernah berada di depan... Dia tak pernah kena bagi ucapan macam ini. Dia kemahiran dia ialah doktor setempat lah. Dia kalau sembang semua tu okey lah. Tapi you campak dia suruh bagi ceramah yang sebagai pimpinan utama. Memang tersasul lah dia. Dia bukan biasa pengucapan awam ceramah ni. Jadi sebenarnya yang salah bukan Zaleha. Yang beria tu ialah PKR pergi letak dia. Sepatutnya PKR memang dah tahu. Itu aku kata kebat.
 
@@ -456,7 +464,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [41:18] Rafizi: Sebenarnya kesianlah Zaleha jadi mangsa lah. You letak orang yang bukan ahli dia untuk tiba-tiba mengetuai pilihan raya negeri. Tidak pernah ada rekod yang berceramah panjang Dia pun tidak ada pengikut yang besar Kerana ceramah yang berpengaruh sebelum itu kan Jadi dia punya learning curve tu Kena sangat cepat Habis tersasul keluar 20 juta lah Jadi yang ini nak kena tanyalah Pimpinan-pimpinan PKR Kenapa dia tak letakkan ramanan untuk berceramah ni? Kan? Biasa lebih better ke? Aku rasa lah. Mungkin. Rahmanan paling kurang ada gambar dia dengan Anwar. Dekat dada. Tarikan untuk
 
-[42:06] Speaker 1: anak muda.
+[42:06] Haziq: anak muda.
 
 [42:07] Rafizi: Tapi itulah. So ini cabaran-cabaran yang PKR kena berdepan lah. Sebab selain daripada Dato' Seri Anwar dan juga Saifuddin Nasution. PKR akan ada masalah tau. Bercanggah. Sebab gap antara Saifuddin dengan Datuk Seri Anwar dengan the next line of leadership tu Tak ada seorang pun yang memang sebab ceramah sikit ni Dia sebenarnya macam rock artist Dia orang yang mengikuti penceramah ni dia ikut 10-15 tahun. Dia macam rock band lah. Tua the country kan. Dia ada groupie semua kan. Jadi, you need to take that long. Dia bukan macam pergi bagi ceramah dalam majlis kementerian merasmikan sesuatu. You are a story. Kau kena ada kemahiran storyteller. Kau kena ada kemahiran stand up comedy. And you certainly have to know how to work the crowd. Dia sama macam rock band lah. Nyanyi-nyanyi lagu. orang tak respon. Dia pun buka baju lah. Hahaha kan. So, aa.. pimpinan.. PKR yang ada sekarang ni termasuklah juga Zali Hadid memang tidak pernah melalui training itu dan sepatutnya pimpinan PKR perlu tahulah.
 
@@ -466,23 +474,23 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [43:37] Rafizi: Mereka
 
-[43:37] Speaker 1: pun okey kan Izzah, Amiruddin, Syariah. Ke dia tak
+[43:37] Haziq: pun okey kan Izzah, Amiruddin, Syariah. Ke dia tak
 
 [43:39] Rafizi: cukup rock band macam tadi tu? Tak, dia boleh berucap. Contohnya kan, okay. You nak tengok ukuran sama ada seseorang itu, dia dikira dia dah capai status tertentu sebagai penceramah ni kan, senang sahaja. Kau jangan buat majlis yang ada semua. Kau suruh dia seorang pergi ceramah dekat kawasan itu, tengok ada orang keluar ke tidak. Jadi, memanglah Kamil boleh berucap. Saya ingat, Izzah pun boleh berucap. But it remains to be seen. Contohnya, masa berkempen nanti, sama ada kalau Kamil berucap di Kuala Kelawang. Ada seribu orang ketidak dengar dia kat situ. Sebab, tambah sekarang zaman TikTok, zaman live semua ni kan, orang basically follow you. They don't follow the party ke apa. Dia macam rock band. Jadi kepada yang muda-muda nak join politik ni kan, yang berminat. Sebab tu aku campak korang awal-awal. Kerana ia mengambil masa bertahun-tahun untuk membina kekuatan pembentukan itu. Politik, I mean, bercerama ni, public speaking is about showmanship. Bukannya pergi ke depan baca ataupun bagi ucapan berbentuk pentadbiran. Dia kena pandai bercerita, dia kena pandai buat lawak bangang, kemudian pause tengah jalan. Lepas tu tengok pakcik tu pakai kain pelet kat koyak. Man straight, kena komen tau pakcik tu pakai kain pelet kat koyak. And that takes years and years and that takes, dia tak ada... Coklat, sebab tu kalau dalam industri muzik kan, dia ada beza besar antara orang yang manufactured, artis yang manufactured, contohnya yang menang-menang American Got Talent ke, American Idol ke apa semua kan, dengan yang memang jenis yang tour the country non-stop. Bob Dylan ke ataupun kalau zaman sekarang macam Ed Sheeran ke Dia memang membesar dengan cultivating dia followers
 
-[45:54] Speaker 1: Tapi that will take time macam YB dulu YB pernah cerita speech yang pertama YB pun YB Yelah aku baca So daripada situ sampai YB sampai ke tahap boleh buat Tua rock kapak YB Berapa lama tu kan ya
+[45:54] Haziq: Tapi that will take time macam YB dulu YB pernah cerita speech yang pertama YB pun YB Yelah aku baca So daripada situ sampai YB sampai ke tahap boleh buat Tua rock kapak YB Berapa lama tu kan ya
 
 [46:10] Rafizi: Dia, ini dah tak cerita pasal Zaleha dah lah kan, tapi tak apa. Sebab ada Gen Z. Ini Gen Z-Gen Z yang bercita-cita ni kan. It's a combination of two things. Satu is your skill. skill berucap. Sebab sebenarnya nak berucap ni dia kena ada skill, dia ada teknik. Dia bukannya orang tu. Kalaupun dia dilahirkan pandai berucap, kalau salah teknik tak jadi. So you need to know the techniques lah. Tapi teknik and pandai berucap sahaja selalunya tidak boleh cultivate following. Sebab following ni dia ikut cerita. Sebenarnya penceramah ni penglipulara. Zaman-zaman Melaka dulu-dulu dia ada kalau dalam medieval culture dekat Europe kan. They are called batsmen. Dia pergi ke bandar-bandar, town-town, kampung. Dia cerita. So it depends on your story. So in my case contohnya... Saya ingat Gamai yang ikuti saya ceramah Dulu zaman PR Dan yang paling Sayang kat aku ni PAS Sebab I remember the first time dulu tu Ialah pasal buku jingga. Sebab aku yang tulis buku jingga tu kan. Jadi bila nak terangkan, dia tak biasa tau. Dia tak ada penceramah yang boleh terangkan pasal dasar semua kan. So, you know, I go around the country, terangkan kebanyakannya tu memang pendengarnya pas semua lah. Tapi kalau dia ulang yang itu, bosan lah. Then the next ada cerita baru, cerita lembu dalam kondor. Habislah semua orang nak dengar cerita lembu dalam kondor kan. Contohnya dekat mana nak ada punchline dia Dekat mana nak lawak sedikit And more often than not Kau cerita benda ni tiap-tiap hari Dia tetap gelap Aku sebenarnya Kadang-kadang Masa zaman Najib dulu kan YMDB kan Aku nak je Beri ceramah Sebab dia orang tengah Tunggu in anticipation Punchline nak gelak ni Aku nak berhenti Tapi tak sampai hati kan So It didn't take long. Kalau buat bersungguh-sungguh, within one or two years you become quite good. Of course, you need to have the talent and you need to know the skill. But yang lagi penting ialah the content. Dia sama macam orang buat content kat TikTok sekarang lah. You actually need to have different content yang betul-betul orang suka lah. Kalau setakat tahu how to edit, how to put in the music, it's not going to work.
 
-[48:51] Speaker 1: Hmm... Menarik dan susah Macam beria Beria Okey beria Kita dah habis Kita kena pilih Bagilah jenis yang paling beria Bagaimana rakan-rakan sekalian Terdempat Kena tengok lagi Satu Dua
+[48:51] Haziq: Hmm... Menarik dan susah Macam beria Beria Okey beria Kita dah habis Kita kena pilih Bagilah jenis yang paling beria Bagaimana rakan-rakan sekalian Terdempat Kena tengok lagi Satu Dua
 
-[49:09] Speaker 1: Yang
+[49:09] Haziq: Yang
 
 [49:09] Zaim Zulkifli: paling beria Terdempat Dia sama ada yang nasi ayam ni ataupun Farhaish. Tidak tunda nasi ayam.
 
-[49:15] Speaker 1: Atau Farhaish. Itu pilihan je, Zee. Kita
+[49:15] Haziq: Atau Farhaish. Itu pilihan je, Zee. Kita
 
-[49:17] Speaker 1: diam.
+[49:17] Haziq: diam.
 
 [49:18] Syuk: Tak, saya kesian sebab dia salah kira. So, saya rasa paling beria Farhaish punya ni kot. Eh, Farhaish? Sebab kalau RM26 tu, yelah itu market dia. Lepas tu, Zaliha ni mungkin salah kira, saya kesian. Salah kira kesian. So, bersama... Puad Zarkashi sebab
 
@@ -490,11 +498,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [49:35] Syuk: Kesian. Kesian lah. So, saya rasa paling beria NGO yang keluar statement ni. nak push and ni lah anak
 
-[49:43] Speaker 1: muda sokong anak muda lah pulak
+[49:43] Haziq: muda sokong anak muda lah pulak
 
 [49:48] Rafizi: Bukan NGO kau eh Bukan
 
-[49:50] Speaker 1: Tak ada kaitan Padahal lah tahu Koko dia belakang Saudara-saudari Keputusan telah dibuat Haa Tahniah kepada usaha orang muda kita. Ya. Okay, jadi itu je lah kot. Ikon anak muda. Ya, ikon anak muda.
+[49:50] Haziq: Tak ada kaitan Padahal lah tahu Koko dia belakang Saudara-saudari Keputusan telah dibuat Haa Tahniah kepada usaha orang muda kita. Ya. Okay, jadi itu je lah kot. Ikon anak muda. Ya, ikon anak muda.
 
 [50:03] Zaim Zulkifli: Itu memang betul gelaran itu. Ikon anak muda itu.
 
@@ -504,15 +512,15 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [50:10] Rafizi: Tak itu dekat apa ni Dekat social media Social seorang selalu buat lawak Macam tu lah dia ikon anak muda Sebab dia out of nowhere Tiba-tiba dia je kaya raya Ikon anak muda lah Nampak sangat lah Terpisah antara Gen Z Dengan orang tua punya lawak Aku rasa tua Aduh
 
-[50:32] Speaker 1: Okay Settle lah Settle Kita terus ke hidup Keras Dan topik pertama Itulah sebab kenapa Mereka berdua berada di sini Dia nak batuk je So masa Masa
+[50:32] Haziq: Okay Settle lah Settle Kita terus ke hidup Keras Dan topik pertama Itulah sebab kenapa Mereka berdua berada di sini Dia nak batuk je So masa Masa
 
 [50:44] Rafizi: Zahim datang First time kena
 
-[50:46] Speaker 1: bakar Lalu tak ada segmen
+[50:46] Haziq: bakar Lalu tak ada segmen
 
 [50:47] Rafizi: lagi Dia bakar berterusan Hmm Yang
 
-[50:52] Speaker 1: pertama Kenapa ada Hanayo tu? AI, kau prompt supaya
+[50:52] Haziq: pertama Kenapa ada Hanayo tu? AI, kau prompt supaya
 
 [50:54] Rafizi: ada hana
 
@@ -528,7 +536,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [51:14] Rafizi: Yang kat tengah tu bukan Kamil Munim? Tak, goh. Eh, sebelah dia Farah Hashim. Hahaha, yang kat sebelah tu nampak macam Farah Hashim. Okay, okay, okay. Okay. So, ni cerita pasal apa ni?
 
-[51:26] Speaker 1: Orang muda nak ke mana dalam masa mudahnya, saya rasa... Apa yang macam ucapan YB awal-awal kan waktu launching 17 bulan tu Tapi YB tanya general lah Kau ni nak apa? Kau ni nak apa Tapi untuk hari ni mungkin kita check lah Apa yang nak orang muda ni nak sebenarnya Tapi sebelum tu mungkin kita intro sikit Kepada Gen Z Siapa Gen Z ni sebenarnya? I mean kalau orang biasa kata Gen Z ni manja, tak kental macam generasi dulu Lepas tu orang tua dia selalu cakap lah Aku dulu macam ni, macam ni Tapi sekarang korang, korang macam ni Jadi, siapa... Korang ni sebenarnya Ruzai macam Hmm
+[51:26] Haziq: Orang muda nak ke mana dalam masa mudahnya, saya rasa... Apa yang macam ucapan YB awal-awal kan waktu launching 17 bulan tu Tapi YB tanya general lah Kau ni nak apa? Kau ni nak apa Tapi untuk hari ni mungkin kita check lah Apa yang nak orang muda ni nak sebenarnya Tapi sebelum tu mungkin kita intro sikit Kepada Gen Z Siapa Gen Z ni sebenarnya? I mean kalau orang biasa kata Gen Z ni manja, tak kental macam generasi dulu Lepas tu orang tua dia selalu cakap lah Aku dulu macam ni, macam ni Tapi sekarang korang, korang macam ni Jadi, siapa... Korang ni sebenarnya Ruzai macam Hmm
 
 [52:07] Syuk: Tak Dia to be fair Yelah orang muda kan
 
@@ -536,7 +544,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [52:14] Rafizi: muda Ni Gen Z Gen Z lah Korang dua-dua Gen Z
 
-[52:19] Speaker 1: Dua Gen Z Pertengahan ke Dua sampai 2012 kan So korang lahir 2004 Dia
+[52:19] Haziq: Dua Gen Z Pertengahan ke Dua sampai 2012 kan So korang lahir 2004 Dia
 
 [52:23] Syuk: Dua Orang muda ni Gen Z sahaja ke? Millennials ni dah kira tak muda lah eh. Dia kira... Sebab... Tak sangat dah.
 
@@ -546,7 +554,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [52:33] Syuk: dah
 
-[52:34] Speaker 1: tu. Oh, iya ke? Ha. Okay, tua. Tapi 35 still. Ya ke? Bukan Gen Z? Saya 28. Oh, betul
+[52:34] Haziq: tu. Oh, iya ke? Ha. Okay, tua. Tapi 35 still. Ya ke? Bukan Gen Z? Saya 28. Oh, betul
 
 [52:40] Rafizi: lah. 97. End of Millennials is 96 kan? Yes. 96 end of Millennials. 30 baru dah start. 30 lah. So, 29 ke bawah tu Gen Z lah. Yeah. Itu pun aku tak puas hati So American Gen Z Sepatutnya Gen Z lah Gen Z Tapi takut bunyi macam Gen Z So that's why Dia tukar jadi Gen Z
 
@@ -556,9 +564,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [53:08] Rafizi: Tak, tapi Haziq tanya soalan pertama tadi. Pertama lah kan. Soalan pertamanya ialah. Siapa korang? Siapa korang? Jen Z. Apakah ciri-ciri Jen Z? Betul ke mereka ni manja?
 
-[53:19] Speaker 1: Betul, tak tahan
+[53:19] Haziq: Betul, tak tahan
 
-[53:21] Speaker 1: dengan tekanan.
+[53:21] Haziq: dengan tekanan.
 
 [53:23] Syuk: Dia Jen Z ni, I think cabaran paling utama yang diorang hadap is kebebasan ataupun keterbukaan social media lah. Okay. Eh tapi zaman aku pun ada social media juga
 
@@ -574,23 +582,23 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [54:09] Syuk: Lahir
 
-[54:09] Speaker 1: kan dah ada.
+[54:09] Haziq: kan dah ada.
 
 [54:10] Syuk: Dah lahirlah ada tapi aku tak ada media sampai. Yang
 
 [54:12] Rafizi: Gen Z tu
 
-[54:12] Speaker 1: tak sangat. Gen Z muda
+[54:12] Haziq: tak sangat. Gen Z muda
 
 [54:13] Syuk: maybe yes. Kau umur berapa kau ada media?
 
 [54:17] Zaim Zulkifli: Kalau orang dah jahat-jahat lah, dah jahat 6, dah jahat 5 dah ada akses lah. Dah jahat 4 dah, aku form what. So, saya dapat phone. So, daripada situ lah
 
-[54:24] Speaker 1: boleh buka macam-macam. Tapi masa,
+[54:24] Haziq: boleh buka macam-macam. Tapi masa,
 
-[54:27] Speaker 1: maksudnya masa Zaim lahir, lahir-lahir je dah ada, 24, 25 kat atas tu dah ada.
+[54:27] Haziq: maksudnya masa Zaim lahir, lahir-lahir je dah ada, 24, 25 kat atas tu dah ada.
 
-[54:32] Speaker 1: Semua waktu tu,
+[54:32] Haziq: Semua waktu tu,
 
 [54:33] Zaim Zulkifli: Steve macam
 
@@ -602,7 +610,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [54:38] Rafizi: blueberry. Jangan blueberry eh. Blueberry makan dia. So, masa tu social media Facebook lah. Malaysia ni around 2006-2007 lah. So my space was apa nama ni 2002-ish by 2004 tu Friendster, 2003 Friendster. So I think kat Malaysia Friendster has taken over lah. Kemudian Facebook came about 2006-2007 lah kat Malaysia. And then Twitter ni around 2008 macam tu lah kan. So tapi betul lah Macam Zahir maksudnya By the time dia kenal Phone Memang Semua orang dah ada Semua tu lah YB first ada Facebook tahun berapa kalau YB ingat balik? Haa cerita tahun 2007 I used to hate social media The only reason kenapa aku mula-mula dulu ada social media and I started with Friendster and MySpace. Sebab aku coach budak-budak hoki, debating semua. Haa. And masa tu, 2003, 2004 sampai 2006 lah. Diorang semua communicate with each other dengan Facebook semua. Messenger lah. Err, well not only that. Okay, kalau kau coach kan, you need to know macam mana budak-budak yang kau coach ni mentally how are they. So, they wear everything on Facebook. So contohnya, in fact from Friendster lagi lah, contohnya dia tengah down, study teruk, lepas tu bosan lah, oh cikgu ni jahat lah semua kan. So actually lah, penamani is because of that lah. But I really hated social media. Sebab tu aku resisted untuk ada penamani X lah Twitter ni sampai 2010. Sebab to me masa tu lah Facebook semua tu kan And my Facebook masa tu basically Facebook zaman tu dia takde public tau You only get to see siapa yang kawan kita sajalah your friends kan Because this whole idea yang you say what's on your mind and you share dengan the world bagi aku kukuh hajur gila Kalau kau tak suka orang tu senyap, simpan dalam hati je lah kan. So, but you know that's how society change lah. So, I only started basically nak tak nak terpaksa make my... Social media, masa tu yang paling banyak tu lah Facebook dengan Twitter Public ni because of politics lah 2010 onwards lah
 
-[57:22] Speaker 1: Walaupun dia buat ni lah kenyataan-kenyataan cringe dulu Lepas tu sekarang tengok macam Ya Allah, apa aku cakap dulu? Tak adalah
+[57:22] Haziq: Walaupun dia buat ni lah kenyataan-kenyataan cringe dulu Lepas tu sekarang tengok macam Ya Allah, apa aku cakap dulu? Tak adalah
 
 [57:28] Rafizi: Jarang lah Because I... In fact, iyalah kalau tengok, I never share banyak sangat lah kan lah. So, we
 
@@ -626,21 +634,21 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:00:12] Zaim Zulkifli: On Gen Z punya cara fikir lah And itu juga macam Dulu pernah borak juga pasal gaming lah I think contoh dulu macam my parent punya generation Gen X kan main game hanya untuk release stress Tapi currently Gen Z Gaming itself is a culture To the point that it defines you Contoh you tak belong to certain part of gaming You maybe like no Loser.
 
-[1:00:33] Speaker 1: So dia social hierarchy
+[1:00:33] Haziq: So dia social hierarchy
 
 [1:00:34] Zaim Zulkifli: menentukan
 
 [1:00:34] Rafizi: Betul
 
-[1:00:34] Speaker 1: betul even like to the point yang Game
+[1:00:34] Haziq: betul even like to the point yang Game
 
 [1:00:35] Zaim Zulkifli: tu. Kau bukan Gen Z
 
 [1:00:37] Zaim Zulkifli: ke?
 
-[1:00:38] Speaker 1: Tua
+[1:00:38] Haziq: Tua
 
-[1:00:39] Speaker 1: lah. Gen Z 2 lah. Tak main game.
+[1:00:39] Haziq: lah. Gen Z 2 lah. Tak main game.
 
 [1:00:41] Zaim Zulkifli: Tak main Discord apa semua lah. Even like genre of the game yang you play pun like dia akan define your punya social hierarchy. Contoh macam kalau kau main game macam ni kau macam mana? Kau budak macam mana? Kau budak macam mana? So kalau aku main Ninja Saga. Itu susah sikit lah. Ninja Saga macam. Dulu
 
@@ -652,7 +660,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:01:21] Syuk: nampak macam tak ada lah Tak ada peluang So Dan menjawab soalan ke tidak tadi? Respon pasal manja Entahlah Saya nak respon ni sebab Kalau kita nak cakap dia manja, I think sebab Gen Z ni dia berani bising dekat social media. Kiranya dia, kalau orang dulu mungkin dia ada banyak agak masalah. Tapi dia orang tak adalah macam YB. Dia ada masalah tapi dia tak send dekat Facebook, dia tak send dekat TikTok. Bukan cara untuk confront. Bukan untuk confront. Tapi Gen Z anak muda, I think dia lebih berani yang dia tak... Tak rasa simpan malu tu faham tak? So dekat... Dan
 
-[1:01:59] Speaker 1: ini
+[1:01:59] Haziq: ini
 
 [1:02:00] Rafizi: mementingkan
 
@@ -678,7 +686,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:03:28] Rafizi: Ha. Selalunya aku yang macam tu Dia orang semua takut kat aku Aku selalunya yang letak Stiker semua ni kan Haa So, aku tidak melambangkan Gen X, Gen Z punya
 
-[1:03:40] Speaker 1: relationship aku. So, Gen Z agak open dan dia agak confront lah. Dan benda
+[1:03:40] Haziq: relationship aku. So, Gen Z agak open dan dia agak confront lah. Dan benda
 
 [1:03:47] Zaim Zulkifli: tu dia macam bukan nak kata tak reti malu tapi dia dah very tak kisah. Macam kau walaupun kau tua kau level-level aku juga macam tu. So, behave as you do
 
@@ -692,9 +700,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:04:05] Syuk: It's not really entitled. Dia macam orang kena tahu masalah aku. Sebab kawan-kawan aku pun ada masalah sama juga. Facebook
 
-[1:04:13] Speaker 1: ke dia post ke apa ke Macam tu lah. Jadi disebabkan Sejak dia lahir je memang dah ada akses Untuk renting
+[1:04:13] Haziq: ke dia post ke apa ke Macam tu lah. Jadi disebabkan Sejak dia lahir je memang dah ada akses Untuk renting
 
-[1:04:19] Speaker 1: dekat social media.
+[1:04:19] Haziq: dekat social media.
 
 [1:04:20] Rafizi: Aku rasa By now view semua pakcik-pakcik Semua pergi tidur Okay Kita ke soalan lain lah Tak tak okay aku nak komen Dia It depends on Macam mana masyarakat tengok lah kan Gen Z ke apa semua ni kan Hmm Memang ada, ada, ada... Perubahan yang besar dalam masyarakat Contohnya kan Dan cabaran tu yang paling besar di tempat kerja lah Menanyakan sebab The difference between gen X Especially And then kemudian Millennials yang muda-muda sikit ni Memang banyak beza lah Jadi Bosnya semua gen X Puma ni Jadi dia memang ada cabaran lah And I remember Seawal tahun 2004-2005 when I was still in the corporate kan. Soal how to handle the young ones ni, walaupun masa tu tak dipanggil millennials ke. In fact, awal-awal tu millennials ni dipanggil gen. Why? Somehow along the way dia tukar jadi millennials kan. Dia memang jadi... topik hangat management around the world. It becomes huge corporate headache macam mana nak mengendalikan yang muda-muda ni kan. Sebab generational gap tu besar. Sebab yang gen X ke atas dengan boomer semua, memang selalunya dia akan mengikut arahan Dan dia ada longer attention span Jadi maksudnya Kalau dia nak buat sesuatu tu Dia akan cuba sampai dia dah nak mati dah Kalau tak boleh baru dia pergi tanya senior dia Atau baru dia pergi tanya boss dia lah kan So bila masuk yang especially later millennials lah And then Gen Z, suasana di tempat kerja tu bertukar banyak lah. Kerana selalunya Gen Z kalau tak boleh, dia pergi tanya terus. Kan lah, so there's a tendency yang Gen X kat atas ni ataupun Millennials pun sekarang melalui 2M Millennials apa nama ni, blame Gen Z lah, point fingers kat Gen Z lah kan. Yang rasa, apa aku orang ni, ni ni ni kan. Tapi sebenarnya ia hanya perubahan dalam masyarakat dan ia telah berlaku begitu banyak kali di masa lalu. Dan sebab terbesar ialah digitalisasi. Memang betul. Gen X ke atas, masa kami membesar, dekat sekolah, mula kerja, kita tak ada titik referensi. Jadi, anda hanya tahu dengan membandingkan dengan kumpulan yang dekat. Jadi, kalau anda bekerja di syarikat itu, anda tahu dua, tiga, dua sajalah, ada kawan-kawan lebih. Jadi, tidak ada poin referensi universal. Sedangkan, milenial, gen Z, semua ini, media sosial adalah poin referensi. Sebab itu, dulu tidak ada sangat perkara FOMO ini. FOMO adalah perkara yang sangat baru. dan Benda tu akan keluar Semua orang dapat tahu And semua orang wants to be Like that kan Tapi sebenarnya Benda tu bukanlah Benda yang unique sekarang Kepada millennials And Gen Z semua ni Okey, belum kita cakap pasal Malaysia. If you go to Europe and... Hmm... 100... Well... Maybe lah 150 years back... Masa zaman Victoria... Hmm... Kan... Sebenarnya, perempuan bercakap dengan lelaki sangat alien. Sebab itu Jane Austen punya tulisan Semakan Pride and Prejudice semua itu adalah mengusahakan naratif untuk membebaskan wanita. Supaya masyarakat membenarkan mereka lebih banyak ruang. Sebab kalau tidak, wanita ini duduk di dapur sahaja. Dan itu adalah era Victoria di Eropah. Walaupun ia berlaku selepas Victoria. Dan kemudian, sepanjang jalan ke, saya rasa, Georgia pada tahun 1920. Memang macam itu. Tapi sekarang, bayangkan... Kau tengok Mak Saleh tak payah kata kan? Zaman Victoria, untuk seorang wanita, untuk seorang gadis menghampiri seorang lelaki... Itu dah kira promise quest gila Teruk gila minah ni Walaupun untuk menangis kepada lelaki, dah teruk gila lah. Kan? So... And that's Europe, you know. Kita punya culture lagi lah. Kan? So... So the whole world ke macam tu? Yes, the whole world is like that. Kan, so society memang sebenarnya berubah lah. Ambil contoh kerja kan, kerja kan. Zaman Victorian jugalah Industrial Revolution kan Orang kerja Non-stop Mana ada konsep 8 jam sehari ni Hmm It's because it's almost slavery and then cai labor, budak-budak kena kerja. That's why you have Oliver Twist punya cerita kan. Actually they live almost like a slave, kena kerja, kerja, kerja and then duduk krem semua. So sebab out of that lah wujud labor movement around the world. Hence ada labor party fighting for better rights untuk pekerja. Zaman itu, that was considered gila kurang hajar. Generasi baru ni, budak-budak ni, pemalas. Adakah minta 8 jam sehari je kerja? Tapi ia berlaku, masyarakat berubah kerana segala-galanya yang ada di dunia ini akan mempunyai perubahan permainan. Contohnya, revolusi industri pada dasarnya steam, akhirnya elektrifikasi, kemudian industri. Oleh kerana itu, masyarakat berubah. Oleh itu, Benda yang zaman Victorian, 1880s kan, yang tak masuk akal, ada hak pekerja. There's no such thing as hak pekerja about 150 years ago. And then it's only in the early 20th century yang majikan kerajaan tidak ada... choice but to allow and to do labour reform lah kan. So actually sama jugalah. So in my case contohnya memanglah pening kepala sebenarnya menguruskan yang muda-muda. Sebab they have shorter attention span semua ni kan. Dia... It's totally different lah daripada what we are used to kan. But rather than looking at it sebagai masalah you know lembik lah, manja lah. I think society, especially leadership, ini yang masalah bila ada orang macam Pak Zakashi, sebenarnya the world is changing. Sebab internet, kalau zaman Victorian itu, ia adalah revolusi industri. Sebenarnya internet ini, konektiviti, digitalisasi ini, saya rasa 100 tahun dari sekarang, orang akan melihat ke belakang dan berkata, sebenarnya ia adalah revolusi. Ia mengubah masyarakat di seluruh dunia. Ia mengubah segala-galanya dari segi konektiviti, dari segi ilmu, dari segi kepercayaan, dari segi norma sosial, benda yang patut tak cakap, orang cakap. Ia mengubah cara kita berkelakuan sebagai manusia dan masyarakat. Jadi, kalau anda gen X ke ataupun yang kerajaan, semua yang jadi politik, semua ini, You cannot find it. It is going to happen. Apa yang contohnya lah. Work-life balance. Kan. It's just. It's an important topic. Sebab it's already at the end of a cycle. Yang kita ada sekarang. Semua pasal kerja ni. Is defined by. kapitalisme yang tidak berhenti daripada zaman revolusi industri. Ada percubaan untuk mengurangkannya, seperti komunisme, sosialisme, tetapi itu tidak berhenti. Pada dasarnya, ia dipercayai. Jadi, komunisme dan sosialisme tidak berjaya. Mereka tidak boleh memberi kemampuan. Jadi, ini semua tentang kapitalisme. Semakin kaya, semakin kaya. Dan orang yang bekerja ini, dan generasi saya okey dengannya. Boomer was okay with it but by the time dia sampai millennials and apa nama ni now Gen Z kan dia You know, the anger and also anxiety about it, benda tu tak boleh diubah dah. And it's not to me lah. Sociologically, I don't know, you belajar political science, I don't know whether you learn sociology ke tidak kan. Sociologically, it's not... I don't see it as sebenarnya gen Z ni malas, lembik ke apa. It means that the system that we have no longer works. And there is a reason for it. Sebab kenapa contohnya gen X dulu, boomer dulu... Kerja teruk ke Aku kerja teruk daripada muda Masa aku kat corporate I leave house 6.30 Pukul 7 aku dah ada kat office Pukul 10 aku balik
 
@@ -702,7 +710,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:14:14] Rafizi: malam That's why diorang semua seksa kerja dengan aku Until today I'm like that kan But it's normal for me The reason being is because I felt that Masa itu I get what is due to me Maksudnya aku kerja 18 jam sehari pun, gaji aku dapat, internal social mobility semua dia berbaloi. Kerana orang keluar dari kekosongan, daripada dia tak ada apa-apa, dia boleh ada rumah, dia hidup lebih baik daripada ibu bapa mereka semua. Jadi, ia berbaloi. Kalau macam AS, boomers punya, tahun terbaik kemampuan untuk AS sebenarnya antara 1945, ke-45 hingga ke 60-an. 60-an adalah tahun terbaik. Maksudnya, Kau keluar high school, kau tak pergi universiti pun, kau kerja dekat kilang dekat rumah kawasan kau, kau boleh beli, you can afford a house, you can afford kereta, and then you can have a good life, holiday semua, you can send anak-anak kau pergi universiti. Padahal kau sebenarnya keluar sekolah sahaja. Sudah tentu anda tidak boleh mengatakan perkara yang sama sekarang. Dan sebab mengapa Gen Z sekarang berasa seperti kerana keseimbangan kehidupan kerja dan sebagainya adalah kerana Social mobility and equitability itu makin lama makin pendek dan makin teruk. Meaning that even if you work 18 hours a day, actually it doesn't change your life that much. Only beberapa kerat saja, less than 1% of population actually can graduate to a higher social mobility. Yang lain itu kerja untuk cukup makan. Terima kasih. Kenapa kamu mengganggu melakukan ini dan tidak lebih baik untuk menyacai, sehingga keseimbangan hidup kerja. Ia tidak berbeza, tidak banyak berbeza daripada zaman revolusi industri. Orang kata, buat apalah aku ni kerja dekat lombong orang batu dekat kilang ni sampai kena batuk TB semua ni, hanya untuk mendapatkan mangkuk sup dan roti. dan jadi It is actually the end of that unbridled capitalism. And sesiapa yang nak jadi pemimpin ekonomi in the world kan, at some point... You tak boleh dah nak push this demand for better equity, better work-life balance semualah. And when that happens, majikan ke older generation, kerajaan, society... Saya rasa anda lebih baik menyesuaikan diri kerana itu yang berlaku sepanjang masa di masa lalu. Apabila masyarakat berubah, anda bergaduh dan tidak ke mana-mana ataupun anda beradaptasi.
 
-[1:17:18] Speaker 1: Tapi kalau kita... Skandal jadi serius? Kalau kita memenuhi tuntutan work-life balance semua ni, bukankah dia agak ironi sikit? Sebab dia akan menurunkan produktiviti semua?
+[1:17:18] Haziq: Tapi kalau kita... Skandal jadi serius? Kalau kita memenuhi tuntutan work-life balance semua ni, bukankah dia agak ironi sikit? Sebab dia akan menurunkan produktiviti semua?
 
 [1:17:31] Rafizi: No, it's not. It's about... Okay, my only caution kepada Gen Z... Yang pasal work-life balance, semua ni job hopping, semua my caution lah. Be careful kalau you don't get the skill. contohnya kenapa you kena balance work from home aku nak kerja work from home, work from home semua kan hak kita dia akan ada kemahiran-kemahiran yang yang you cannot fully develop sebab leadership, communication, meeting with people, problem solving Kadang-kadang anda perlu bekerja dalam pasukan. So kalau you completely tak ada team and semua je screen tu, it's not so much because kalau saya sebagai employer, it's not so much because aku tak percaya engkau menipu kerja. Because within two years, you'll be out-marketed. And your generation, dia lagi competitive. Dia bukan macam zaman aku, orang keluar universiti pun tak ramai mana. You will definitely get a job. So for you to progress, you definitely needs to take as many boxes as possible. And some of those skills require you to do certain things. And you have to accept that you need to learn from someone more skilled and more experienced. So kalau you totally... Out of there Macam mana nak belajar Sangat kan But eh Work-life balance and productivity ni tak ada kena-mengena. Oh. You duduk kat ofis lama, tapi tak buat kerja, lagi teruk. And if I'm an employer kan, kalau Gen Z ni duduk makin hamun, duduk dekat ofis, duduk main Facebook, semua tengok puasa lah, main Facebook, lagi teruk. I rasa Sam kerja, apa nama ni, masa dia work from home, dia work from home. Masa dia, apa nama ni, kerja tu, dia betul-betul focus. And then habis 8 jam, dia nak balik, and then dia buat apa dia, and then dia happy. You want them to be as fresh as energetic kan? Masalah Malaysia I think less about work-life balance versus productivity more because inefficiency. Partly because kita tak... Tak apa nama ni... Adapt technology sangat. Partly because culture kita... Kita tak percaya sangat untuk... Empower team Or budak-budak Buat kerja And buat decision Setiap satu benda Nak kena Ada mesyuarat Nak kena putuskan Kadang-kadang ada mesyuarat Kalau dalam Kerajaan kan Ada mesyuarat Penganjuran program Bincang pasal menu apa Hmm Cuba tanya dia orang ni, kalau datang tanya aku pasal menu, memang kena gigit dengan aku. Don't waste my time untuk tanya aku pasal menu ke apa lah. It's your call lah. Nanti menteri tak suka. Itu masalahnya. You know, it's like awal-awal kan. Aku pola, aku tak ada rahsia ni. But I felt like, I don't think we are paid by the public to discuss menu. So, and then, but to be fair jugalah kepada workforce kita, culture kita. Benda tu mesti bermula daripada bos ke atas. Kalau bos jenis yang tarik muka masam tak suka kena macam ini Jadi orang kat bawah dia tu trauma Macam Zahim trauma So bila dia trauma Benda-benda tu semua dia tak nak buat keputusan Sebab itu bila tak nak buat keputusan Dia kena melalui meeting Bila kena buat meeting Kena ada minute Bila ada minute Perlu disemak Bila perlu kena semak Kena diluluskan Jadi seminggu Habis menatang tu So It's less about In fact masa Masa You know, when I was in ministry kan, one thing that I wanted to do tapi tak sempat aku resign dulu kan. Okay, yelah. Aku really nak find a way untuk menggunakan AI untuk mencatatkan minit.
 
@@ -726,7 +734,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:25:33] Rafizi: You know, to be fair, I don't think, itu juga masalahnya kerana akhirnya cerita pasal Gen Z, Gen X, Boomer semua ni, dia jadi generational fight. It is not a generational fight You cannot put the blame Dekat Gen Z ke Gen X ke Sebab tu selalunya Orang dalam politik Tak suka kat aku Because Kalau you nak selesaikan masalah You jangan selesaikan symptom Kau demam 3 minggu ni, nampak sangat tidak menyelesaikan masalah. Entah-entah kau ada penyakit atau apa-apa.
 
-[1:26:10] Speaker 1: Saya dah tanya doktor, doktor kata awak Gen Z manja sangat. Makan je lah.
+[1:26:10] Haziq: Saya dah tanya doktor, doktor kata awak Gen Z manja sangat. Makan je lah.
 
 [1:26:15] Rafizi: Quite obvious benda tu bohong. Ada doktor tak cakap macam tu kot. So contohnya kan, kalau contohnya Gen Z kata ini semua salah bos aku, Gen X. Hanya kerana sebagai masyarakat dan masyarakat kita Sistem is no longer working. And itulah tugas yang duduk ke atas-atas ni. It is definitely my responsibility. In fact, masa aku menti ekonomi pun, benda tu was heavy in my head tau. Cakap, you buat macam mana pun, soal gaji, soal wajah, semua ni kan. You tekan sana, yang ini bermasalah. You paksa manjikan, suruh naikkan gaji sekian-sekian, gini-gini, you buat peraturan. Yang syarikat besar okey lah. Yang syarikat kecil, dia tutup terus. Dia tak mampu nak bayar. Dia pun manusia juga. Dia pun ada keluarga juga. It's not fair on them kan. It's because, macam aku cakap tadi, this whole unbridled capitalism where government punya... Okay, let me... Dia heavy sikit lah untuk Gen Z kan? Okay. Lukis, lukis, lukis. Aku nak kena lukis lah. Tak faham lah. Okay, ya. Actually... Yalah bila kita cerita pasal work-life balance, pasal social mobility, pasal equity ni kan. Ini semua dia soal pasal economic system dan juga governing system. Sebenarnya yang ada kat Malaysia dan ada di banyak negara di dunia ni... Apa peran kerajaan dalam semua ini? untuk mengawal perkara Okey. Untuk
 
@@ -756,19 +764,19 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:30:22] Rafizi: korang tak bayar tax lagi. Ke korang tak bayar tax, korang dah bayar tax. Do you feel? Sebab, this anxiety dengan Gen Z semua ni menunjukkan bahawa model tu is no longer working as it should be. Bukan hanya di Malaysia, sebab itu soal Gen Z ini bukan soal Malaysia tau. Ia adalah fenomena global. Di mana-mana, Gen Z memang tidak bergantung. Dan isu yang sama, kekurangan mobiliti sosial, kos hidup, sebab itu kita tengok, harga kemampuan, kemajuan populasi, semua menurunkan. Sebab Gen Z dah tak nak kahwin, sebab anak mahal, bukan hanya di Malaysia, di mana-mana pun. Jadi, adakah ia berfungsi? Kerana jelas Gen Z tak rasa ia berfungsi.
 
-[1:31:17] Speaker 1: Sistem tu dah tak work lah sebab dulu sebagai contohnya orang selalu kata Yelah pendapatan mak ayah kita rendah pun dia dapat beli rumah Sekarang belum lagi Dulu semua nak dapat scholarship senang Sekarang scholarship tu aku tak tahu scholarship tu apa tak tahu Ketiga untuk kerajaan contohnya kan Dulu ada pension sekarang dah tak ada So maksudnya the whole thing macam mana benderan dulu The current generation dah start kena pay benda tu Itu sahaja.
+[1:31:17] Haziq: Sistem tu dah tak work lah sebab dulu sebagai contohnya orang selalu kata Yelah pendapatan mak ayah kita rendah pun dia dapat beli rumah Sekarang belum lagi Dulu semua nak dapat scholarship senang Sekarang scholarship tu aku tak tahu scholarship tu apa tak tahu Ketiga untuk kerajaan contohnya kan Dulu ada pension sekarang dah tak ada So maksudnya the whole thing macam mana benderan dulu The current generation dah start kena pay benda tu Itu sahaja.
 
 [1:31:49] Rafizi: So sebab itu I think I don't have an answer to this Obviously You know Sekarang macam bersama Eh kenalah selit sedikit Bersama Kau tidak buat apa-apa Ada korang kat sini Kan So contohnya lah Satu cabar I've Spend the last what, 17 years writing policies untuk PH dan kemudian kerajaan. Most of the policy itu sebenarnya one way or another, dia pusing-pusing, adalah air tangan aku di mana-mana lah kan. Also about public discourse about policy sebenarnya kan. By the time aku dah nak masuk 50 ni kan, I begin to question this whole growth tax transfer that means that di mantra bahawa companies and economies must grow at whatever cost. Dan kemudian kita kena teks semua ini dan kemampuan fiskal semua ini. Saya mula bertanya sama ada ada cara lain untuk melakukannya. Masalahnya ialah sistem yang kita ada yang menyebabkan semua yang berlaku dalam negara ini kan. Ini semua adalah sistem konvensional yang tidak pernah dicabar. Sebab memang macam inilah around the world. To be fair lah. Kan nak kata Malaysia ni teruk, pimpinan teruk semua. Sebab tu daripada 1957 sampai today, inilah model dia. But if you take a much wider perspective and see You know, this whole thing about gen Z semua ni kan, restlessness, anxiety, dia sebenarnya a symptom of a system... yang mungkin tidak lagi berfungsi. Dan tentu saja, kalau zaman revolusi industri, sama lah, kegelapan dan kegelapan semua. Polisi preskripsi masa itu, ia mewujudkan gerakan untuk sosialisme dan komunisme. And it brought down the old order. Semua Maharaja, Zah, Raja semua jatuh because of that. And then half of the world went through that process dengan socialism, dengan communism. That also didn't work. Yang saya tak tahu begini kan. Jika kita sudah berakhir dengan kitaran itu, Apa yang akan datang? Dan inilah sebabnya orang politik yang tua, Gen X, tambah lagi macam Puak Zakashi tadi, semua yang ada dekat Putrajaya, atau pembuat kebijakan. Kita perlu mula bertanya soalan, jika kita tidak menguruskan ini dengan betul, Swing ini lebih radikal dan drastik daripada yang kita boleh kawal seperti mana zaman revolusi industri dulu, swing itu mencipta komunisme dan sosialisme. Okay, jadi, anda tahu, jadi... I'm looking at it. Sebab itu bila kita nak tulis 12 agenda, kita dah decide itu 12 agenda. It's all about future sustainability. It's all trying to manage this Gen Z punya restlessness, inequity, lack of social mobility. Tapi pandangan, and now we are going through that process of... Of defining it Tengok Dasar apa Program apa Cost it properly Undang-undang macam mana kan Hmm Tapi kalau you buat semua tu masih lagi dalam kerangka sedia ada, I don't think it's going to be any different. So cabaran kami di bersama ialah how to tap into the global knowledge and see sebenarnya in 10, 15, 20 years time macam mana kita nak beralih daripada this traditional growth trend. transfer yang mencipta semua masalah ini menjadi sesuatu yang lebih berkelanjutan walaupun sebenarnya orang masih lagi rasa macam you hear semua orang kutuk lah Profesor UIA akan kutuk Profesor UUM akan kutuk kan but I think we should be we should take the risk to be ahead of our time Tetapi ia akan berlaku dan pemikir tertinggi di dunia, ekonomis tertinggi di dunia sudah menunjukkan perkara ini. If you don't manage this dan kita tak nak berubah dan keluar daripada that traditional model, maksudnya kita akan melahirkan satu generasi, bukan saja gen Z, gen Alpha, gen Beta yang more angry. Sebab itu you tengok banyak anarki around the world. Budak-budak muda just basically keluar pakai topeng bakar semua. Kawan-kawan Zahim. Kawan-kawan Zahim lah. Oh! Engkau yang bakar kan? Haa kan? Kawan-kawan Zahim. Kawan-kawan Zahim yang pernah membakar seseorang. Ya, so that's the reality lah. It's a bit heavy. Tapi sepatutnya... Politik juga tentang itu. Pemerintahan juga tentang itu. Sebab itu, aku selalu ada masalah kalau orang bincang sesuatu sebagai perniagaan seperti biasa. Kerana kau tak perlukan pengurus. What you need is orang yang ada courage, leadership yang ada courage, leadership yang ada sincerity and the know-how and the knowledge to really steer kita away from this certain trajectory. This trajectory is clear. Sebab bukan sahaja Malaysia. It's actually negara-negara lain pun you are talking about, you know, Macam Izzah kata sandwich generation Cerita sandwich generation ni bukan benda baru Orang dah cakap pasal sandwich generation ni Dah 10 tahun lepas That Gen Z will be the sandwich generation You bear the cost of your time ...legasi generasi tua anda yang anda perlu bayar......dan juga kekuatan masa depan. Jadi memang kalau aku jadi korang, aku marah.
 
-[1:38:41] Speaker 1: Saya marah lebih. Macam mana setuju? Saudara Syuk. Heavy. Dia heavy. Heavy. Balik kau buat tesis. Kena sempat dengan UIA. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Okay, YB mungkin kita tanya terus lah YB tentang apa orang muda nak ke mana ni. Tadi kita dah berdah sedikit lah tentang social mobility dan juga bagaimana penggunaan social media tu sedikit sebanyak. Bukan sedikit
+[1:38:41] Haziq: Saya marah lebih. Macam mana setuju? Saudara Syuk. Heavy. Dia heavy. Heavy. Balik kau buat tesis. Kena sempat dengan UIA. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Haa. Okay, YB mungkin kita tanya terus lah YB tentang apa orang muda nak ke mana ni. Tadi kita dah berdah sedikit lah tentang social mobility dan juga bagaimana penggunaan social media tu sedikit sebanyak. Bukan sedikit
 
 [1:39:10] Rafizi: sebanyak, memang banyak. Sangat banyak
 
-[1:39:12] Speaker 1: membuatkan mereka ni nak lebih didengari dan saya rasa YB pernah share survey YB pun sama jugalah untuk didengari semua kan. Sebab kalau kita tengok political participation Gen Z sebagai contohnya. Pertama, tidaklah.
+[1:39:12] Haziq: membuatkan mereka ni nak lebih didengari dan saya rasa YB pernah share survey YB pun sama jugalah untuk didengari semua kan. Sebab kalau kita tengok political participation Gen Z sebagai contohnya. Pertama, tidaklah.
 
 [1:39:32] Rafizi: Eh, Kamil Munim tu Gen Z ke? Tak. Tak
 
-[1:39:34] Speaker 1: eh? Dia jenual, millennial tau. Last, Taufik. Taufik Gen Z. Taufik Gen Z. Oh, Taufik tu Gen Z. Haa, dia Gen Z paling tua lah. Saya kedua paling tua. So, dia 29. Dia 29. Oh. YB juga share dalam survei, Gen Z findings, only 27% feel positive about PHBN-PN. Dan itu sangat rendah. Maksudnya, diesel franchise dalam kalangan anak muda ini sangat-sangat tinggi. Dan juga participation pun kita tak berapa nak nampak Saya rasa bersama pun Walaupun Kan ada 4 Siapa? Nama dia Fawaz? Fawaz Fawaz Fawaz as in musuh utama aku Senang kata participation tu agak meragukan Tapi Sebenarnya Agak pelik... Apa? Kau nak landing kat mana ni? Oh, ok. Sila landing. Haa, benda-benda. Nak... Nak di... Representasi. Nak dinampak. Jadi... Dia tak jive kat situ. Apa yang anak budak nak sebenarnya? Okey, Pa'an yang tua nak bercakap.
+[1:39:34] Haziq: eh? Dia jenual, millennial tau. Last, Taufik. Taufik Gen Z. Taufik Gen Z. Oh, Taufik tu Gen Z. Haa, dia Gen Z paling tua lah. Saya kedua paling tua. So, dia 29. Dia 29. Oh. YB juga share dalam survei, Gen Z findings, only 27% feel positive about PHBN-PN. Dan itu sangat rendah. Maksudnya, diesel franchise dalam kalangan anak muda ini sangat-sangat tinggi. Dan juga participation pun kita tak berapa nak nampak Saya rasa bersama pun Walaupun Kan ada 4 Siapa? Nama dia Fawaz? Fawaz Fawaz Fawaz as in musuh utama aku Senang kata participation tu agak meragukan Tapi Sebenarnya Agak pelik... Apa? Kau nak landing kat mana ni? Oh, ok. Sila landing. Haa, benda-benda. Nak... Nak di... Representasi. Nak dinampak. Jadi... Dia tak jive kat situ. Apa yang anak budak nak sebenarnya? Okey, Pa'an yang tua nak bercakap.
 
 [1:40:50] Farhan (Pa'an): Millenial Saya nak tanya Actually Gen Z minat ke Kepada Politik Dan Ha Basically, are you guys following the politics of the nation?
 
@@ -778,13 +786,13 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:41:09] Farhan (Pa'an): Tapi
 
-[1:41:09] Speaker 1: to be fair Mereka memang politically They
+[1:41:09] Haziq: to be fair Mereka memang politically They
 
 [1:41:11] Farhan (Pa'an): are
 
 [1:41:12] Farhan (Pa'an): But
 
-[1:41:12] Speaker 1: mesti lah Dia ada kawan-kawan
+[1:41:12] Haziq: mesti lah Dia ada kawan-kawan
 
 [1:41:15] Farhan (Pa'an): Among your friends Are you melihat bahawa mereka lebih seperti, saya tidak peduli atau Mereka berminat dan ingin tahu lebih lanjut.
 
@@ -806,7 +814,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:45:52] Farhan (Pa'an): Tetapi saya... Kami melihat sesuatu seperti masa mobilisasi untuk banjir tapi tak cukup banyak no but i mean that interest to go out, mobilize i want to be part of something cuma it died out lepas tu
 
-[1:46:10] Speaker 1: yelah waktu sekali tu juga kan
+[1:46:10] Haziq: yelah waktu sekali tu juga kan
 
 [1:46:11] Rafizi: yeah but now why because there is already a clear before aku probe further yang pasal you know fahami ke pasal push you know kalau if i'm fahami kan Dan saya kata, sebenarnya memang ada jalan untuk anda. Macam-macam dah ada ni, parlimen belia lah, setiap parti ada sayap pemuda, platform semua. Tak cukup dengan itu, ada parti untuk orang muda
 
@@ -850,7 +858,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:51:30] Rafizi: Sebab orang tua kata no, it's not through the normal democratic process. Yang itu
 
-[1:51:36] Speaker 1: kena pindah perlembagaan. So sistem sekarang ni ada problem untuk anak muda ni rasa to be hurt lah. Setiap benda yang dibuat, macam tokenism ada sayap parti pemuda ialah tengok contohnya ketua AMK ketua pemuda UMNO pun last last last kena ikut jugalah apa yang presiden dia cakap ada parti muda macam takde impact je so sampai kesudah takde selamba je
+[1:51:36] Haziq: kena pindah perlembagaan. So sistem sekarang ni ada problem untuk anak muda ni rasa to be hurt lah. Setiap benda yang dibuat, macam tokenism ada sayap parti pemuda ialah tengok contohnya ketua AMK ketua pemuda UMNO pun last last last kena ikut jugalah apa yang presiden dia cakap ada parti muda macam takde impact je so sampai kesudah takde selamba je
 
 [1:52:03] Rafizi: that's your opinion
 
@@ -916,11 +924,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:55:37] Zaim Zulkifli: FGD lah FGD. I think yang daripada 12 point tu antara ni adalah yang pasal pendidikan tu. Apa nama dia? I think I forgot lah. Apa namanya? Yang pasal pendidikan. Pisa. Pisa and dan sebagainya lah. And ada yang pasal apa lah.
 
-[1:55:52] Speaker 1: Menurunkan had lah.
+[1:55:52] Haziq: Menurunkan had lah.
 
 [1:55:53] Zaim Zulkifli: Apa dia?
 
-[1:55:53] Speaker 1: Menurunkan had umur.
+[1:55:53] Haziq: Menurunkan had umur.
 
 [1:55:55] Zaim Zulkifli: Menurunkan had umur. Dia a lot to do with education and macam mana kita nak transfer terus skill ni terus jadi kerja. Oh dual. I forgot what's next. Haa betul 2 streaming dan sebagainya The problem with muda adalah Walaupun sampai sekarang, kita tak jelas apa yang muda nak bawa untuk orang muda.
 
@@ -964,11 +972,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:58:31] Rafizi: Mereka semakin berani Aku pun tak tahu Siapalah yang jadi PR consultant Macam ni ni Haa Tambah pula kalau dia gemuk Tangan dia Ya Allah Hahaha
 
-[1:58:42] Speaker 1: Jadi takeaway kita malam ni, untuk nampak anak muda ni to be heard, jangan sekadar kita kekalkan sistem sedia ada yang token, yang olok-olok dan persanan kepada, amaran kepada muda, jangan juga olok-olokkan anak muda. Apa kena-mengena dengan muda pula ni? Muda pula, bersama-sama. Sorry, sorry, sorry. Saya tersasul. Sebaik kau demam. Bersama juga jangan sekadar Menunggang dan Memperoloh-olohkan
+[1:58:42] Haziq: Jadi takeaway kita malam ni, untuk nampak anak muda ni to be heard, jangan sekadar kita kekalkan sistem sedia ada yang token, yang olok-olok dan persanan kepada, amaran kepada muda, jangan juga olok-olokkan anak muda. Apa kena-mengena dengan muda pula ni? Muda pula, bersama-sama. Sorry, sorry, sorry. Saya tersasul. Sebaik kau demam. Bersama juga jangan sekadar Menunggang dan Memperoloh-olohkan
 
-[1:59:18] Speaker 1: anak muda,
+[1:59:18] Haziq: anak muda,
 
-[1:59:19] Speaker 1: satu macam tu.
+[1:59:19] Haziq: satu macam tu.
 
 [1:59:20] Syuk: And it's a new hope and I hope it's not a fake one lah.
 
@@ -986,11 +994,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:04:34] Rafizi: Sebenarnya, kamu tahu kita yang itu serah kepada Allah lah, menang kalah kan? Ia hanya sebuah masyarakat yang dikendalikan oleh orang yang minoriti dan tidak lagi terhubung dengan kumpulan terbesar akan ada masalah. Kalau the largest group dalam negara ialah the younger ones, below 41 years old, ini dah 50% of the population kan. Tapi yang buat keputusan ni semua orang tua-tua. 70, 80. Bukanlah aku anti orang tua. It's just that, you know, it's like kita kata, dia tak faham. Dia memang no longer representative of what is needed by the population. And then we have a problem. So, but I can understand lah sebab yang muda mungkin dia rasa macam... Saya masih lagi tak kuat, rumah pun tak beli lagi, tiba-tiba nak bertanding. Banyak
 
-[2:05:36] Speaker 1: benda, nak kahwin, Syukur kahwin, Zahim nak kahwin. Kau nak kahwin?
+[2:05:36] Haziq: benda, nak kahwin, Syukur kahwin, Zahim nak kahwin. Kau nak kahwin?
 
 [2:05:42] Rafizi: Tak adalah. 22 terlalu muda, aku kahwin umur 34 tau. Lambat lagi ya. So, ada lah every now and then, ada lah karakter macam Sam Dek Jo Tapi to be fair to Joe lah Dia jawatan besar Dan dibayar dalam dollar sebelum ini Although I don't You know I mean Kalau ada 10 orang macam dia Okay lah Yang sanggup jump into this because dia rasa it's time to give back kan tapi kecualilah Gen Z sendiri bila peluang tu dah dibuka people come forward then kita akan terus ada masalah inilah because on the one hand Gen Z merasakan bahawa they are detached and disconnected daripada the political and society system so dia macam terbuku dalam hati tau and then kalau tak careful jadi toxic Semua tak setuju. And kalau dalam society kita lagi bahaya, kalau dia dah ada disillusion macam tu, siapa bagi duit, yang itu diambil. And that's dangerous. Because you know, but we also need more and more people to come forward and take up the challenge and understand politik ni bukannya batu loncatan untuk hidup senang. Obama miskin tau, until dia jadi presiden. Because he chose to be like that. Dia keluar Harvard Law School semua, dia choose untuk jadi community leader. Bini dia yang tanggung dia lah. Dia jadi pekerja masyarakat, pekerja sosial, tolong orang semua dengan orang miskin semua. And he went through that for almost 10 years, I think. Sebelum dia bertanding untuk menjadi senator. So it's his choice to do that. Dia memang tahu that this is what he wants to do in life. Jadi dia forfeit kekayaan, kesenangan walaupun dia Harvard Law School grad. So we need more of this Kalau tidak kita akan terus ada Sembang Gen Z macam ni lah Orang lama-lama kata Sembang je lah Oh agak kuat lah
 
-[2:07:57] Speaker 1: Jadi cabaran kepada Gen Z.
+[2:07:57] Haziq: Jadi cabaran kepada Gen Z.
 
 [2:08:01] Rafizi: Dan cabaran kepada parti-parti politik lah. Macam, you know, I'm very certain that sebenarnya kita kena push more of the younger ones. Not because nak menang undi. But because I no longer understand Gen Z. How do I lead contohnya kalau bersama? How do I lead if I no longer understand apa yang majority nak? Aku ikut kepala aku, ikut kepala aku memang aku tak faham. I don't have a challenge untuk dapatkan rumah ke. I mean I have a house, financially I'm quite okay. Aku tak faham cerita orang struggle untuk bayar bil. I don't have that problem. Contohnya lah. You go down, you nampaklah benda macam ni kan. And that's the learning curve that I go through. Tapi to say that aku faham, you know. And sebab itu kalau ada orang yang menteri, yang atas-atas, semua 70, 80, kalau dia kata dia faham, I doubt it tau. I doubt it sebab orang ni bila dah sampai peringkat aku, we live in a bubble. Kita ada seorang pemandu, aku parking kereta pun tidak. Orang lain tolong parking kan, contohnya kan. Jadi bagaimana mereka mengharapkan saya untuk memahami rushing ke apa semua, nak cari parking. Saya tidak lagi memahami itu. Itu hidup saya 20-30 tahun lepas. Masa aku zaman korang, yalah kan. But aku ada driver daripada zaman muda. So I don't, even I don't really understand it. Jadi, kalau aku pretend macam aku faham semua ni, whatever my understanding is from my job as an MP, from my reading and understanding as... I don't know I'm not a trained economist But I spend a lot of time Reading economy Sociology Semua ni kan So It's all from that Tapi the best source of truth is daripada your generation lah
 
@@ -998,7 +1006,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:11:00] Rafizi: tugas. Sebab ia adalah tanggungjawab dan tugas parti-parti politik dan juga pimpinan parti politik untuk memahami ini. Kita duduk kat sini bukan soal nak menang saja. The reason we are in politics is sebab kita rasa kita ada tanggungjawab yang boleh bawa kebaikan kepada masyarakat. And then, you know, I mean, it's clear cut. Kita perlukan lebih ramai yang Gen Z dan millennials untuk... Take up the challenge and itu tanggungjawab parti politik lah. Seperti bersama contohnya to campaign as much as possible untuk yakinkan semua orang, bukan saja yang muda, yang tua pun that we have to do this for the future. Sebab macam aku selalu cakap lah, actually 20-30 years from now you guys are paying for me. Saya tidak mahu berpengaruh dalam keadaan semuanya berjalan lancar. Saya mahu memastikan semuanya lancar. Jadi sama seperti jika anda membangun syarikat. Kan, I mean, if you have a small company, you want to make sure by the time you move on, the company is in good hands. Because when the company is in good hands, semua you benefit after all, it's your company. Kau tak nak kau dah retire semua, kecoh, hancur, lebur semua, you lose everything. It's actually not even, even kalau orang kata selfish, it's a good selfish motivation lah. So that when we are really old, you guys can take care of us. So it's a responsibility. Kalau parti lain tak nampak, nasib dia orang lah. Tapi memanglah ia adalah cabaran. Tapi saya rasa ia adalah sesuatu yang orang tua pun faham. Kita hanya perlu mengambil keberanian untuk mempunyai keberanian untuk keluar ke sana dan berkempen. Aku rasa orang kat luar dah macam, tukarlah tajuk, aku dah lama. Dua jam dua belas minit maybe, to be fair pun.
 
-[2:13:09] Speaker 1: Kita bagi kata-kata. Sekali-sekala kan, Gen Z. Kata-kata terakhir mereka? Boleh, mungkin Zaim dulu.
+[2:13:09] Haziq: Kita bagi kata-kata. Sekali-sekala kan, Gen Z. Kata-kata terakhir mereka? Boleh, mungkin Zaim dulu.
 
 [2:13:16] Rafizi: Oh, pasal topik ni? Ya. Orang Gen Z nak ke mana? Lepas ni kita nak cakap pasal orang tua pula. Lepas ni, semua kita cerita pasal orang tua. Kita tak
 
@@ -1018,11 +1026,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:13:43] Rafizi: suka kacau orang muda. So, I mean, I have this habit of... I don't know, aku rasa sebab masa aku senior lah kat sekolah ke, aku memang suka... Sakat orang. Bully. Bully junior aku. Hahaha. Lebih mudah.
 
-[2:14:01] Speaker 1: Eh, Syukur MSKK kan?
+[2:14:01] Haziq: Eh, Syukur MSKK kan?
 
 [2:14:03] Rafizi: Sekejap.
 
-[2:14:03] Speaker 1: Kau masa bila? 16 tahun.
+[2:14:03] Haziq: Kau masa bila? 16 tahun.
 
 [2:14:04] Rafizi: Hah?
 
@@ -1038,15 +1046,15 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:14:48] Rafizi: Silalah memohon untuk menjadi Calon Kita ada seorang umur 34 Itu paling muda lah YB I think so lah Setakat ni tu yang paling muda 34 Haa Baik, baik, baik. Mungkin yang muda-muda lain tengah kira nak bayar kereta dan semuanya kan. Haa, betul lah. Okay, baik. Kita pergi ke segmen orang tua pula. Next segmen, segmen orang tua. Haa, dia orang tua. Memang tua semua. Tapi itu bukannya muda sikit sebelah Mak Sabu. Itu siapa tu? Itu siapa? Cuba sebut seseorang dulu.
 
-[2:15:22] Speaker 1: Cuba sebut. Kepada pendengar Spotify, kita bukanlah cakap tentang orang tua. Tapi kita cakap penjajaran semula politik Melayu. Orang tua lah tu.
+[2:15:22] Haziq: Cuba sebut. Kepada pendengar Spotify, kita bukanlah cakap tentang orang tua. Tapi kita cakap penjajaran semula politik Melayu. Orang tua lah tu.
 
 [2:15:29] Rafizi: Tapi masalahnya politik Melayu ni semua orang
 
-[2:15:31] Speaker 1: tua kan? Kita ada Tok Guru Haji Hadi di atas sekali. Tan Sri Muhyiddin di kanannya. Lepas tu Reset, Datuk Seri Hamzah. Di bawahnya Mak Sabu. Kemudian sebelah dia tu Tak kena kenali Kalau orang Akmal ke? Dia actually
+[2:15:31] Haziq: tua kan? Kita ada Tok Guru Haji Hadi di atas sekali. Tan Sri Muhyiddin di kanannya. Lepas tu Reset, Datuk Seri Hamzah. Di bawahnya Mak Sabu. Kemudian sebelah dia tu Tak kena kenali Kalau orang Akmal ke? Dia actually
 
 [2:15:47] Farhan (Pa'an): daripada gambar Hishamuddin
 
-[2:15:49] Speaker 1: Oh Hishamuddin Ni kucuk keris Hishamuddin Tusin Kita ada Zahid Hamidi Eh
+[2:15:49] Haziq: Oh Hishamuddin Ni kucuk keris Hishamuddin Tusin Kita ada Zahid Hamidi Eh
 
 [2:15:54] Rafizi: Hishamuddin Kurus lah Tak macam tu Kesian kat dia Kau tunjukkan dia nampak Macam tembang macam aku Dan
 
@@ -1054,29 +1062,29 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:16:09] Rafizi: sebab ada Gen Z ni saya suka visual ok ok ok satu suri Dr. Zahid Hamidi dan juga Datuk Seri Anwar Ibrahim yang berada di sebelah kolam aku pun tak faham kenapa dia kena ada dalam swimming pool
 
-[2:16:20] Speaker 1: sama ada
+[2:16:20] Haziq: sama ada
 
 [2:16:22] Rafizi: you are talking sebab nanti semua nak masuk kolam sekali sebenarnya semua dalam satu kolam semua dalam satu kolam
 
-[2:16:32] Speaker 1: ok Dalam podcast sebelum ini pun, YB ada cerita tentang penjajaran semula pengundi berbanding dengan parti-parti politik yang cuba menjajarkan semula mereka sendirilah. Dan kita dengar berita baru hari, beberapa hari yang sudah, hubungan bersatu dan PAS dah diceraikan. Dan UMNO pun nampaknya berminat untuk berbaik dengan bersatu. Kalau saya tanya terus terang, YB. macam berulang banyak kali diorang ni tak takut kena skam balik ke atau benda ni tak menjadi ke tak ada inovasi lain ke
+[2:16:32] Haziq: ok Dalam podcast sebelum ini pun, YB ada cerita tentang penjajaran semula pengundi berbanding dengan parti-parti politik yang cuba menjajarkan semula mereka sendirilah. Dan kita dengar berita baru hari, beberapa hari yang sudah, hubungan bersatu dan PAS dah diceraikan. Dan UMNO pun nampaknya berminat untuk berbaik dengan bersatu. Kalau saya tanya terus terang, YB. macam berulang banyak kali diorang ni tak takut kena skam balik ke atau benda ni tak menjadi ke tak ada inovasi lain ke
 
 [2:17:11] Rafizi: itulah orang kata there's no permanent friends or enemies in politics there's only permanent interest
 
-[2:17:19] Speaker 1: Tapi sangat Tak jenuin je
+[2:17:19] Haziq: Tapi sangat Tak jenuin je
 
 [2:17:22] Rafizi: No no Benda itu Di Di Mata pemimpin parti lah Kalau macam UMNO dengan PAS Benda tu make sense lah Itu strategi yang paling hebat lah Yang mereka ada Cuma sama ada Penerimaan rakyat itu Seperti yang mereka sangka So Bab inilah Saya ada satu Yalah orang kata Hypothesis dan learning curve lah Dia soal Unintended consequences So contohnya kan Masa kerajaan mandani ini nak ditubuhkan lah kan, tahun 2022. Dia berat sebenarnya nak fikir pasal... Bergabung dengan UMNO ni Tak mudah lah kan Orang dalam PKR macam saya sendiri Menghabiskan seluruh usia Remaja, muda Sampailah ke umur 46, 47 47 Apa nama ni Eh mah aku umur berapa masa tu eh 2022 Betul lah aku 46 masa tu 46 Aku pun dah lupa umur aku masa tu eh Tiba-tiba nak kena bergabung dengan UMNO kan Cuma masa itu satu... Perkiraannya lah kan? Kalau contohnya UMNO bergabung dengan Bersatu dan Perikatan Nasional dan PAS membentuk kerajaan masa itu, Kesan dari segi trajektori jangka panjang masyarakat itu, kesan itu dilihat lebih mudarat. Sebabnya ialah kita akan ada satu kerajaan yang ultra right wing, sayap kanan, yang ultra nationalist kan. Dia tak ada unsur... ...progresif langsung dalam kerajaan itu kan. Jadi, dan satu orang kata pertimbangannya ialah... Kalau UMNO itu dijajahkan balik dalam kerajaan madani, bergabung jadi sebahagian. Maka kita sebab hipotesisnya UMNO ni tetap ada core voters dia macam mana pun kan. Itu akan mengimbangi politik ekstrim dan politik sayap kanan di Malaysia. Itu hipotesis dia. Adakah itu berlaku? Tidak, tidak, tidak. Sebabnya ialah ujian paling awal ialah PRN 2023. Dalam PRN 2023, kita dah dapat jawapan terus kepada hipotesis itu iaitu pengundi-pengundi UMNO meninggalkan UMNO dan swing bagi undi untuk memperkukuhkan Perikatan Nasional. Sebab itu Perikatan Nasional nampak macam green wave tahun 2023, 2022, 2023 kan? Sebab sebenarnya kerana pengundi UMNO itu dia swing kepada Perikatan Nasional. Jadi hipotesis bahawa... Orang politik dan pimpinan politik di atas boleh menjajahkan politik ikut suka kepala dia dan pengikut dan rakyat di bawah akan ikut saja, by now I know better, it doesn't work. Sebab dia ada unintended consequences. Jadi kalau macam penubuhan kerajaan madani yang berlaku, unintended consequences-nya ialah oleh kerana keputusan UMNO pada ketika itu untuk bersama-sama dengan PH membentuk kerajaan, sebenarnya sangat ditentang oleh penyokong UMNO, maka unintended consequences-nya dia swing kepada PN. Sebab itu, Pimpinan yang lama-lama lah oleh kerana kerangka politik mereka itu masih lagi lama begitulah. Malaysia ni feudal politiknya. Orang atas decide semua maka orang bawah ni kena ikut saja
 
-[2:21:50] Speaker 1: kan.
+[2:21:50] Haziq: kan.
 
 [2:21:51] Rafizi: Sedangkan kita baru sembang lama gila pasal JNZ. JNZ mana ikut orang? Orang. Kan ini budaya zaman digital, zaman social media. Dia ikut suka kepala dia lah. Iwan-iwan lah. Jadi sebenarnya macam saya pernah sebut dalam podcast yang lepas-lepas lah. Yang saya ingat lebih dominant dalam pilihan raya ke dalam politik Malaysia ke Bukannya penjajaran semula politik Melayu di peringkat atas sesama parti politik Yang lebih berbahaya kalau orang politik tak boleh baca ialah penjajaran semula pengundi dekat bawah They will realign Dan sebenarnya Benda itu telah berlaku Tahun 2023 UMNO voters Realign Damsas 2PN Bila dia tak setuju Apa yang berlaku ke atas kan Now Itu saya ingat Adalah pertimbangan Yang UMNO dan PAS Mungkin tidak lihat Sebenarnya kita tak boleh baca lah. Kalau pas dengan... BN atau UMNO bergabung Ada panggillah nama apakah Ataupun ada kerjasama politik Kita sebenarnya tak boleh baca Apa reaksi pengundi PAS contohnya Apa reaksi pengundi atas pagar Melayu Yang sebelum ini menyokong Perikatan Nasional Atas konsep Muafakat dan penyatuan Melayu Sebab mereka menyokong Perikatan Nasional. Sebab mereka menolak UMNO. Dan yang PAS pun betul-betul menyokong Perikatan Nasional sebelum ini kerana... Mereka rasa bersatu itu lebih ikhlas daripada UMNO. Jadi itu hanya kita boleh nampak dalam tempoh beberapa bulan yang akan datang. Maksudnya survei dan data kita kena semak balik. Saya tak rasa kita... But you never know, kesan itu mungkin boleh dilihat pun masa pilihan raya-pilihan raya negeri nantilah, Johor dengan, walaupun tempoh itu sangat pendek dan apa nama ni, bentuk kerjasama itu belum lagi diumumkan lah. So... Keadaan ini memang saya tak tahu kesannya nanti sebab dia bukan saja akan ada kesan kepada UMNO dan PAS, dia juga akan ada kesan kepada PH contohnya, PKR dengan Amanah. So PKR Amanah pun rely quite heavily, dia kena ada threshold undi Melayu. Kalau tak dapat undi Melayu banyak itu, memang bermasalah lah PH kan. Tanyalah JNZ apa pandangan dia orang. Aku sejuk ni gila. Aku pakai t-shirt malam ni. Syuk, Zahim.
 
 [2:24:58] Syuk: Entahlah. Hmm. On-site JNZ sebenarnya tak minat dah Dengan politik yang Berasaskan kaum Especially Bila Really Most of Dalam sekejaya lah Memang Kenapa tak minat Kau berkata Melayu Sebab politik Melayu ni Mereka masih ramai Dinosaur kot So bila ramai sangat dinosaur, approach dia pun yang sama. So diorang rasa politik Melayu ni hanyalah politik yang nak naikkan muka-muka sesama Melayu. Which is at the end of the day tak menyelesaikan masalah core pun.
 
-[2:25:31] Speaker 1: Bukan tak minat politik Melayu tapi tak minat pemain dia?
+[2:25:31] Haziq: Bukan tak minat politik Melayu tapi tak minat pemain dia?
 
 [2:25:33] Syuk: Tak minat pemain dia, which is kita tak pernah try lah. Ada pemain politik Melayu muda atau pemain politik Melayu yang anak muda yang naik atas memang dia main isu Melayu je tapi dia muda. Tak pernah try tapi... Ada Dr. Akmal. Which is fail miserably lah Okay alright
 
-[2:25:48] Speaker 1: Oh Satu kenyataan yang berani
+[2:25:48] Haziq: Oh Satu kenyataan yang berani
 
 [2:25:50] Rafizi: Jen millennial lah Satu takman Dia millennial kan Dia sama umur With you ke apa kan
 
@@ -1120,7 +1128,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:29:54] Syuk: think...
 
-[2:29:54] Speaker 1: Boleh percayakah? Saya teka maybe. Haa. Dia tak jadi nak buat pilihan raya awal. Sebab? Haa sebab sebelum ni mungkin di speculation lah. Haa. Haa ada pergat apa? Pergantungan kepada not only UMNO tetapi juga kepada Kepada PAS Maksudnya Yelah ada macam backup kalau berlaku apa-apa. Sebab itu kalau yang saya nampak jugalah, dia tak adalah tengok bila DAP merentan bising-bising itu, dia macam tak adalah ambil serius sangat pun. Sampai DAP pun terpaksa tangguhkan konvensyen sampai bulan 8 pula. Tapi dalam keadaan tiba-tiba, bau-bau muafakat nasional ini dihidupkan semula, susahlah nak dibubarkan tahun ini juga. Terpaksalah tangguh lagi.
+[2:29:54] Haziq: Boleh percayakah? Saya teka maybe. Haa. Dia tak jadi nak buat pilihan raya awal. Sebab? Haa sebab sebelum ni mungkin di speculation lah. Haa. Haa ada pergat apa? Pergantungan kepada not only UMNO tetapi juga kepada Kepada PAS Maksudnya Yelah ada macam backup kalau berlaku apa-apa. Sebab itu kalau yang saya nampak jugalah, dia tak adalah tengok bila DAP merentan bising-bising itu, dia macam tak adalah ambil serius sangat pun. Sampai DAP pun terpaksa tangguhkan konvensyen sampai bulan 8 pula. Tapi dalam keadaan tiba-tiba, bau-bau muafakat nasional ini dihidupkan semula, susahlah nak dibubarkan tahun ini juga. Terpaksalah tangguh lagi.
 
 [2:30:47] Rafizi: Selamat datang ke Goa. Kita tinggal Kita pun tak boleh lah 2 jam setengah dah YB 2 jam setengah Dah cukup-cukup Kesianlah Esok aku nak pergi ke Perak lah Pesuh Amir kahwin dah pula kan Ha Oh esok start jelajah kancil Ke Negeri Sembilan Tapi sebab esok Salah seorang daripada kru kami Kawin Aku nak marah dia pun tak boleh Dia dah book awal-awal Masa dia book dia nak kahwin Tu manalah dia tahu ada pilihan raya Masa tu tak ada pun idea nak buat parti pun So kita pun tak boleh lama sangat kan Okey lah. Ini contohnya macam mana nak membaca ni apa jadi kan. Dia banyak kemungkinan lah kan. Jadi satu benda yang orang politik ataupun... You dalam mana-mana organisasi You kena tengok scenario planning Ada banyak scenario Satu Scenario ialah Macam kita sebut tadi, BN menarik sokongan daripada kerajaan Ahmad Dhani tinggal 1-2-0. Jadi kalau itu berlaku, apa a series of things that will follow? Sebelum kita boleh tentukan Dato' Seri Anwar jatuh ke tidak ataupun ada pilihan raya ke tidak. Apa yang akan berlaku? GPS akan follow. Adakah GPS akan follow? Then you ask that question. Adakah GPS akan follow? And maksudnya kalau Dato' Seri Anwar untuk dia kekal sebagai Perdana Menteri dengan hanya 1-2 kosong, satu dia kena make sure GPS stay, satu lagi dia kena beef up the number lah. So macam mana nak bagi GPS stay?
 
@@ -1156,13 +1164,13 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:34:44] Rafizi: Tak, dia pernah buat. Tak adalah. I think they will... Kes Mahkamah Dia kena hadap semua kes mahkamah Polis, SPRM semua datang berterbangan lah. Lepas ni bukan akulah yang ambil exam SPRM, polis semua ni. Semua orang UMNO lah line up untuk ambil ni. Maybe boleh buat kelas. Haa kan. Dan saya boleh buat tuition lah. Haa macam mana kan. So based on that. Dan Anwar pula ada satu lagi pilihan to beef up the number. Kerana dalam bersatu ni sekarang memang Tan Sri Muhyiddin dengan Azmin. Dia pun tak banyak pilihan dah. Dia tak boleh pergi kepada apa nama ni... PAS dah Jadi pun Pilihan dia kalau dia masuk Sendiri Dia kena buat gabungan sendiri Mungkin dengan muda Pejuang Berjasa Semua kan Satu lagi pilihan ialah Anwar boleh sign Confidence Supply Agreement lah maksudnya kalau ada undi tidak percaya bersatu ada 6 je lebih kurang sekarang. 6 itu tapi daripada 6 itu jadi sangat berkuasa lah kerana daripada 120 jadi 126. So, ini berdasarkan semua inilah. Bagi saya di peringkat kerajaan persekutuan, nampaknya memang leverage itu masih lagi ada dengan Dato' Seri Anwar. Kalau aku ada sebelah dia, aku tulislah ni semua senario planning Dan kita umumkan kepada semua Supaya penasihat-penasihat kat dia, keliling dia tu boleh buat senario planning lah kan Jadi leverage tu sebenarnya ada dengan Dato' Seri Anwar Dan berdasarkan itu tidak mudah lah untuk apa ni BN untuk tarik ataupun untuk jatuhkan kerajaan. On that basis lah. Jadi on that basis jugalah. Memang ada ura-ura... Apa ni pilihan raya umum akan diadakan awal kan? Bulan 10 ke atau... Baiklah, saya fikir psikologinya ialah... mana-mana Perdana Menteri kat Malaysia ni, dia kalau boleh dia nak tarik sampai ke ujung. Ada lebih kurang setahun setengah lagi buat apa nak berubah awal kan. Dan leverage tu ada dengan dia dan saya ingat BN pun kena betul-betul pasti kalau dia nak buat tarik sokongan ke untuk jadi. Dia tak boleh buat macam di Negeri Sembilan lah contohnya kan. lalui Assuming semua itu bermakna You know game theory tak? Give you real, you know kan So orang akan buat semualah Pilihan itu, pilihan Selalunya lah manusia ni Bila dia buat keputusan Dia fikir pasal self preservation dia je Di dalam keadaan ini, Dato' Seri Anwar pun self-preservation dia ialah supaya kerajaan tak jatuh. BN pula... Staff preservation dia... Supaya dia tak jadi pembangkang... Kalau tidak... Kes-kes semua keluar... Kan... Jadi... Suddenly, walaupun mereka bergaduh di luar, walaupun BN ni dah jelas dah akan pergi bersama dengan PAS, tapi they have a common objective in terms of self-preservation. Jadi besar kemungkinan lah. Gayanya kita akan melalui zaman yang mana kita ada satu kerajaan sampai lah pilihan raya umum dipanggil, yang agak pelik lah kerana BN dah bersama dengan PAS. Di luar dah memang dah agak clear dah kan. Tapi mereka masuk. Masih lagi berada dalam kerajaan kan Jadi nasib baik aku resign awal-awal tahun lepas Allah maha kaya Sebab kau bayangkan Orang lain mungkin lah Dia boleh tahan sebenarnya Aku tak boleh tahan Sebab aku jenis yang direct kat orang kan Ni kerja gila apa ni Anwar sebelah dia Ni aku boleh cakap susunan kabinet lah kan Haa Kalau aku ada dululah... Anwar... Kemudian sebelah kanannya Zahid Hamidi. Sebelah tu Loke, sebelah tu aku. Sebab dia ikut seniority in the party kan. Kerja gila apanya Anwar dengan Zahid ada kat sebelah tu. Kat luar pumpang-pumpang-pumpang. UMNO gini-gini. DAP, Hontam, UMNO, Pesok, UMNO, Hontam segala jenis je kan. Tapi dalam kabinet sengih. Zahid tengok kepada Loke. Loke sengih. Nasib baik aku tak ada kat situ. Kalau tidak aku memang... Sengih agak lah. Sebab aku tak reti sengih aku. Allah dah bantu, aku tak ada kat situ. Tapi kita akan melalui zaman itu. Yang memang pelik lah. Pelik kan. Dan pas kalau mereka sanggup, mereka juga kena melalui keadaan yang itulah. Yang mana sekarang ni dah bertunang, tinggal nak kahwin. Tapi tunang sekarang ni sedang berkahwin pula dengan orang lain kan dalam kerajaan. Begitulah gilanya politik Malaysia. Masya Allah. Hmm.
 
-[2:40:29] Speaker 1: Anak muda berhati-hati.
+[2:40:29] Haziq: Anak muda berhati-hati.
 
 [2:40:32] Syuk: Serabutlah politik Melayu ni bagi aku.
 
 [2:40:36] Rafizi: So itu yang berbalik kepada penjajaran semula politik Melayu. Ini besar kemungkinan akan berlaku di atas. Yang kita tak tahu ialah apa pandangan pengundi atas pagar Melayu terhadap
 
-[2:40:50] Speaker 1: kegilaan ini. Cuma YB pernah share dalam lama dah 10 episod yang lepas bahawa antara keutamaan utama pengundi Melayu atas pagar ni mungkin dia sedikit progresif tapi dia masih lagi dalam kategori Melayu fascist lah. Pertama adalah penyatuan umar. Jadi adakah mereka akan lihat PAS dengan UMNO ni macam it's a the thick priority mereka untuk ni lah. Melihat Melayu ni bersatu, jangan bergaduh.
+[2:40:50] Haziq: kegilaan ini. Cuma YB pernah share dalam lama dah 10 episod yang lepas bahawa antara keutamaan utama pengundi Melayu atas pagar ni mungkin dia sedikit progresif tapi dia masih lagi dalam kategori Melayu fascist lah. Pertama adalah penyatuan umar. Jadi adakah mereka akan lihat PAS dengan UMNO ni macam it's a the thick priority mereka untuk ni lah. Melihat Melayu ni bersatu, jangan bergaduh.
 
 [2:41:20] Rafizi: Tak, yang when you say Melayu atas pagar ni, you are referring Melayu atas pagar yang menyokong PN sebelum ni? Ya betul. Okay, that's going to be a problem yang kita sebenarnya tak boleh baca sehinggalah data dan juga keputusan pilihan raya kan. Yang ini saya dah sebut dalam podcast yang sebelum-sebelum ini. Kalau pas Yakin bahawa sokongan yang mereka dapat dalam PRU 2022 dan juga PRN 2023 itu ialah sebahagian besarnya kekuatan PAS dan PAS sekarang ini adalah parti nombor satu Melayu. I caution it. Sebab PAS... mendapat menang sampai 44 kusi ke 43? 44 kusi itu sebahagiannya atas gelombang penyatuan Melayu yang melihat sebagai Perikatan Nasional, PN ini adalah wadah yang paling baik untuk penyatuan Melayu kerana UMNO dia orang tak suka UMNO pun dia banyaknya bekas UMNO pun ataupun pengundi atas pagar Melayu yang tak suka UMNO sebab 1MDB semua tu kan mereka juga tak suka DAP dan juga Anwar Ibrahim sebab itu mereka melihat Perikatan Nasional ni bagus itu satu ya Kedua, masa tahun 2022 tu, gelombang yang bermula masuk ke PRU 2022 dan bersambung ke PRN 2023, masa tu bersatu banyak duit. Ha ha. Dan dia ada kesan besar kepada terutamanya pengundi muda Gen Z ni. Sebab pengundi muda masa tu ialah dia ada short attention span. Dia pun majority tak minat sangat pun dengan politik ni. Tapi yang bagi... Lalu dekat TikTok dia. Not just the TikTok lah. Okay, TikTok tu banyak lah. Yang itu secara tersusun lah kan. Keluar kat TikTok semua. Bayar influencer semua kan. Tapi yang sama berkesan terutamanya di kawasan-kawasan... Pengundi Melayu separa bandar atau luar bandar Ialah budak-budak yang diambil sebagai jentera pilihan raya ni So diorang dapat duit RM200, RM300 sehari Jadi jentera bersatu, jentera pas semua ni kan Pasang bendera semua Benda tu pesta meriah untuk mereka So kalau contohnya, satu kawasan parlimen tu ada 200-300 orang budak-budak lepasan sekolah yang macam ni. Sebab tu kalau tengok PAS semua ni, dia betul-betul tumpu kepada naik motor, kapcai, rempik semua ni. Sebab dia punya orang kata network effect. Yang budak yang pergi pasar bendera semua tu. Dia ajak kawan dia lagi. Dia ajak kawan dia lagi. Jadi parti yang paling visible di kalangan kumpulan itu ialah PN lah. Now benda tu tak ada lupanya tu lah. Sebab duit tu tak ada Siapa nak bayar budak-budak ni semua Dulu boleh lah duit banyak Sekarang selat-selat hari PH yang pakai macam tu Bayar, bayar, bayar budak-budak Yang belajar daripada yang berlaku kan So So kalau PAS Secara, iyalah kalau diagnosis PAS ialah kekuatan yang ada pada PN sebelum ini yang orang ada ulang sebagai green wave, green wave itu semata-mata kekuatan PAS. Saya akan berhati-hati. Sebab saya rasa memang akan terkesan. Maksudnya yang pengundi Melayu atas pagar yang sebelum ini melihat kepada penyatuan umah melalui perkataan nasional semua ini kan. Yang itu dia mula cakap, ya Allah. Dia jadi disillusion lah. Dia rasa aku dah undi kau, aku dah beri peluang kat kau semua. Tengok kau orang gaduh sama sendiri. dengan Hamzah Zainuddinnya kemudian PAS pula bergaduh dengan bersatu lepas tu 3-4 tahun duduk kutuk Zahid Hamidi sebagai DNAA 47K marah sana gini semua eh pergi berpeluh balik Proses yang pernah berlaku di antara PH dengan BN masa membentuk Kerajaan Madani itu sebahagiannya proses itu juga akan berlaku di antara Pas di antara bekas-bekas penyokong PN lah. Jadi sebab itu memang meriah lepas ni lah kita tengok kan. Dan sebab itu saya kata bila ada orang tuduh terutamanya yang bukan Melayu lah yang penyokong DAP yang kata bersama ni akan menyebabkan undi Cina berpecah. Sebenarnya semua undi berpecah lepas ni undi Melayu pun berpecah, undi Cina pun berpecah. dan penghujung kitaran politik. Dia A 30 year political cycle Sebahagiannya kerana semua pimpinan Yang ada ni semua dah Umur 80 tahun. Sebahagiannya kerana pengundi terbesar ialah Gen Z dengan Millennials. And especially Gen Z, dia tak ada loyalty or attachment kepada mana-mana parti. Hari ini dia suka kau, lusa dia suka orang tu. So it's basically very short attention span. Kerana itu memang zaman social media. So whoever yang boleh meyakinkan Gen Z dengan mesej yang lebih baik, pen yang lebih baik, calon yang lebih baik Dia ada peluang yang sama sebenarnya dengan parti-parti lama yang ada lah. Jadi memang meriah. Zahim dah mengantuk kau. Anak-anak muda tidur awal tak roh. Kau gila ke apa? Yang tuanya aku. Kau ni mata aku. Masih lagi. Semangat lagi. Semangat. Macam mana ni? Tapi takpelah YB kita pun dekat 3 jam lah. Yelah actually kau sebenarnya tahap anak aku tau. Saya
 
@@ -1174,7 +1182,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:48:16] Rafizi: Okey, kesianlah. Budak-budak nak kena tidur. Haa, budak-budak kena tidur awal. Tak baik. Tak baik tok-tok besaran dia. Betul, betul, betul. Jadi minta maaf. Tinggi dia kena tinggi lagi. Haa, kita kena. Ini masalahnya kalau jemput Zenzi ni. Kita kena habiskan awal. Okey,
 
-[2:48:36] Speaker 1: Azul habiskan situ. Okey, tu je lah kot.
+[2:48:36] Haziq: Azul habiskan situ. Okey, tu je lah kot.
 
 [2:48:39] Rafizi: Oh, jangan lupa malam esok kita akan terus bersiaran. Dan lusa hari Ahad kita akan ada jelajah kancil di Ipoh, Perak. dan kalau boleh kita ulang yang berlaku minggu lepas iaitu ramai gila orang tengok sampai I think on all platforms kalau hari Ahad tu yang kat Melaka tu RM20,000 di Johor dalam RM15,000 itu on my account sahaja tau on my YouTube, TikTok dengan Facebook hari Ahad dalam RM20,000 di Melaka Johor dalam 16,000 lah Itu tak campur yang orang lain punya Jadi kalau boleh teruskan juga Saya akan make surekan Zaim tidur dengan mencukupi
 
@@ -1182,6 +1190,6 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:49:39] Rafizi: Tak apalah. Kita dah mula jual tiket tapi mungkin kita minggu depan aku dah. Maksudnya one week before apa ni? Sebelum pengumpulan dana sebenar, kita akan berjalan lagi.
 
-[2:50:00] Speaker 1: Okay bye OMI Selamat malam Good night Zahim dan rakan-rakan Good night semua Lights off Wadah datang
+[2:50:00] Haziq: Okay bye OMI Selamat malam Good night Zahim dan rakan-rakan Good night semua Lights off Wadah datang
 
 [2:50:06] Rafizi: Wadah datang Okay selamat malam Assalamualaikum
