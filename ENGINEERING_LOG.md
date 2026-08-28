@@ -1629,6 +1629,23 @@ The voiceprints did hold up here, and settled the part the graphic could not:
 So he stood in for Haziq across two episodes rather than one, and a third episode's
 `Afiq` was never him. **Ask the audio who is speaking, ask the video what he is called.**
 
+Checking the thumbnails properly then produced two more corrections in ep46 alone, both
+in the same glance:
+
+- The guest labelled `Amin Sahmat` for months is **Amir Sahmat**. The thumbnail captions
+  him, and the dialogue corroborates once you look for it: Rafizi introduces the pair
+  with *"Ni Afiq orang Terengganu, ni Amir orang Selayang"*. (`Amir Hamzah` also appears
+  in that episode and is the Finance Minister, a different man, left alone.)
+- He is a **co-host**, not a guest. ep46 is the episode where Haziq was away and two
+  people stood in for him, so its cast is Rafizi, Wan Afiq and Amir Sahmat with no guest
+  at all.
+
+The pattern across 1.27 and 1.28 is consistent enough to state plainly: the transcript
+and the captions are two guesses at the same audio, the voiceprints establish *identity*
+without ever establishing a *name*, and the only cheap source of ground-truth names is
+the video the audio was extracted from. It should be the first check on any name
+question, not the last.
+
 ### 1.29: Three speaker-label gotchas that keep recurring
 
 Moved out of ARCHITECTURE.md on 2026-08-28: these are failures and their fixes, not
