@@ -72,49 +72,58 @@ def classify(label, raw_names):
     return "INVENTED", None
 
 
-buckets = {"INVENTED": [], "SPELLING": [], "GENERIC": []}
-no_labels = []
-for ep in sorted(ROOT.glob("*/*")):
-    if not ep.is_dir() or not (ep / "raw.md").exists():
-        continue
-    found = RAW_LABEL.findall((ep / "raw.md").read_text(encoding="utf-8"))
-    raw_labels = Counter(a or b for a, b in found)
-    raw_named = {n for n in raw_labels if not GENERIC.match(n)}
-    if not raw_named:
-        no_labels.append(ep.name)
-        continue
-
-    seen = Counter()
-    for name in ("interview.md", "interview-en.md", "interview-ms.md"):
-        p = ep / name
-        if p.exists():
-            seen.update(MD_LABEL.findall(p.read_text(encoding="utf-8")))
-
-    for label, n in seen.items():
-        if n < MIN_TURNS:
+def main():
+    """Print the audit. Kept behind a guard so importing GENERIC/classify from here
+    does not trigger a full 67-episode scan -- qa_check.py now imports this module via
+    check_published.py, and an import with side effects made it print this whole report
+    in the middle of the QA summary."""
+    buckets = {"INVENTED": [], "SPELLING": [], "GENERIC": []}
+    no_labels = []
+    for ep in sorted(ROOT.glob("*/*")):
+        if not ep.is_dir() or not (ep / "raw.md").exists():
             continue
-        if GENERIC.match(label):
-            buckets["GENERIC"].append((ep.name, label, n, ""))
+        found = RAW_LABEL.findall((ep / "raw.md").read_text(encoding="utf-8"))
+        raw_labels = Counter(a or b for a, b in found)
+        raw_named = {n for n in raw_labels if not GENERIC.match(n)}
+        if not raw_named:
+            no_labels.append(ep.name)
             continue
-        kind, ref = classify(label, raw_named)
-        if kind != "VARIANT":
-            buckets[kind].append((ep.name, label, n, ref or ""))
 
-for kind in ("INVENTED", "SPELLING"):
-    rows = buckets[kind]
-    eps = sorted({r[0] for r in rows})
-    print(f"\n{'=' * 70}\n{kind}: {len(rows)} label(s) across {len(eps)} episode(s)\n")
-    for ep in eps:
-        for _, label, n, ref in sorted((r for r in rows if r[0] == ep), key=lambda r: -r[2]):
-            suffix = f"  ~ raw.md '{ref}'" if ref else ""
-            print(f"  {ep[:52]:52} {label:24} x{n:<4}{suffix}")
+        seen = Counter()
+        for name in ("interview.md", "interview-en.md", "interview-ms.md"):
+            p = ep / name
+            if p.exists():
+                seen.update(MD_LABEL.findall(p.read_text(encoding="utf-8")))
 
-print(f"\n{'=' * 70}\nGENERIC placeholders replacing named speakers: "
-      f"{len({r[0] for r in buckets['GENERIC']})} episode(s)")
-top = Counter()
-for ep, label, n, _ in buckets["GENERIC"]:
-    top[label] += n
-print(f"  {dict(top.most_common(8))}")
-if no_labels:
-    print(f"\nraw.md with no parseable speaker labels ({len(no_labels)}): "
-          f"{', '.join(e[:34] for e in no_labels[:6])}")
+        for label, n in seen.items():
+            if n < MIN_TURNS:
+                continue
+            if GENERIC.match(label):
+                buckets["GENERIC"].append((ep.name, label, n, ""))
+                continue
+            kind, ref = classify(label, raw_named)
+            if kind != "VARIANT":
+                buckets[kind].append((ep.name, label, n, ref or ""))
+
+    for kind in ("INVENTED", "SPELLING"):
+        rows = buckets[kind]
+        eps = sorted({r[0] for r in rows})
+        print(f"\n{'=' * 70}\n{kind}: {len(rows)} label(s) across {len(eps)} episode(s)\n")
+        for ep in eps:
+            for _, label, n, ref in sorted((r for r in rows if r[0] == ep), key=lambda r: -r[2]):
+                suffix = f"  ~ raw.md '{ref}'" if ref else ""
+                print(f"  {ep[:52]:52} {label:24} x{n:<4}{suffix}")
+
+    print(f"\n{'=' * 70}\nGENERIC placeholders replacing named speakers: "
+          f"{len({r[0] for r in buckets['GENERIC']})} episode(s)")
+    top = Counter()
+    for ep, label, n, _ in buckets["GENERIC"]:
+        top[label] += n
+    print(f"  {dict(top.most_common(8))}")
+    if no_labels:
+        print(f"\nraw.md with no parseable speaker labels ({len(no_labels)}): "
+              f"{', '.join(e[:34] for e in no_labels[:6])}")
+
+
+if __name__ == "__main__":
+    main()

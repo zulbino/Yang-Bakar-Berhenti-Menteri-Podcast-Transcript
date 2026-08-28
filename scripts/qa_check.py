@@ -49,6 +49,8 @@ from common import episode_slug
 from lib_gemini import MODEL_FALLBACK_CHAIN
 
 ROOT = Path(__file__).resolve().parent.parent
+import check_published  # published-file signatures; see its docstring
+
 EPISODES_DIR = ROOT / "episodes"
 MANIFEST_PATH = ROOT / "data" / "manifest.json"
 DRIFT_PATH = ROOT / "data" / "timestamp_drift.json"
@@ -645,6 +647,11 @@ def check_episode(ep_dir):
                     f"{name} claims language: {language} but reads as English-only "
                     f"(Malay-marker density {density:.2f}/1000 chars, expected >= {MIN_MALAY_DENSITY})",
                 ))
+
+    # Every signature above reads raw.md. These read the files a reader actually
+    # sees. Their absence is why this suite reported 0/67 clean while ep43's
+    # published text carried five fabricated statistics -- see check_published.py.
+    issues.extend(check_published.check(ep_dir))
 
     return issues, models
 

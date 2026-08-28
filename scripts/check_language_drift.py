@@ -26,22 +26,30 @@ def strip_frontmatter(text):
     return text
 
 
-episodes_dir = Path(__file__).parent.parent / "episodes"
-rows = []
-for ep_dir in sorted(episodes_dir.glob("*/*")):
-    raw_path = ep_dir / "raw.md"
-    interview_path = ep_dir / "interview.md"
-    if not raw_path.exists() or not interview_path.exists():
-        continue
-    raw_text = strip_frontmatter(raw_path.read_text(encoding="utf-8"))
-    interview_text = strip_frontmatter(interview_path.read_text(encoding="utf-8"))
-    r_raw = malay_ratio(raw_text)
-    r_interview = malay_ratio(interview_text)
-    drop = r_raw - r_interview
-    rows.append((drop, ep_dir.name, r_raw, r_interview))
+def main():
+    """Behind a guard: qa_check.py imports malay_ratio/strip_frontmatter from here
+    via check_published.py, and an unguarded module body printed this whole report
+    into the middle of the QA summary."""
+    episodes_dir = Path(__file__).parent.parent / "episodes"
+    rows = []
+    for ep_dir in sorted(episodes_dir.glob("*/*")):
+        raw_path = ep_dir / "raw.md"
+        interview_path = ep_dir / "interview.md"
+        if not raw_path.exists() or not interview_path.exists():
+            continue
+        raw_text = strip_frontmatter(raw_path.read_text(encoding="utf-8"))
+        interview_text = strip_frontmatter(interview_path.read_text(encoding="utf-8"))
+        r_raw = malay_ratio(raw_text)
+        r_interview = malay_ratio(interview_text)
+        drop = r_raw - r_interview
+        rows.append((drop, ep_dir.name, r_raw, r_interview))
 
-rows.sort(reverse=True)
-print(f"{'drop':>7} {'raw%':>6} {'interview%':>11}  episode")
-for drop, name, r_raw, r_interview in rows:
-    flag = "  <-- CHECK" if drop > 0.05 else ""
-    print(f"{drop*100:6.1f}% {r_raw*100:5.1f}% {r_interview*100:10.1f}%  {name}{flag}")
+    rows.sort(reverse=True)
+    print(f"{'drop':>7} {'raw%':>6} {'interview%':>11}  episode")
+    for drop, name, r_raw, r_interview in rows:
+        flag = "  <-- CHECK" if drop > 0.05 else ""
+        print(f"{drop*100:6.1f}% {r_raw*100:5.1f}% {r_interview*100:10.1f}%  {name}{flag}")
+
+
+if __name__ == "__main__":
+    main()

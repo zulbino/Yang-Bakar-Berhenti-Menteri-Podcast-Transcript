@@ -1,0 +1,188 @@
+"""Check the PUBLISHED files against raw.md. Nothing else in the suite did.
+
+Every other check reads `raw.md`. But `raw.md` is not what a reader sees -- the three
+`interview*.md` files are, and until now those were only checked for existence, a
+character-length ratio, one bold label, and an absolute Malay-density floor set 4.6x below
+the corpus minimum, so it could never fire. An audit on 2026-08-28 found five fabricated
+statistics in ep43's published text, thousands of placeholder labels standing in for named
+speakers, and proper nouns the rewrite made WORSE than the transcript it was rewriting.
+QA reported 0/67 clean throughout.
+
+That is the same shape as the two earlier false-clean incidents (ENGINEERING_LOG 1.25, and
+the circular waiver withdrawn the same day): the check could not see the defect it existed
+to catch. The fix is not a better threshold, it is reading the other file.
+
+THRESHOLDS ARE CALIBRATED FROM THE CORPUS, NOT CHOSEN. Where a distribution has a natural
+break the break is the threshold, and the margin is recorded here so a later reader can
+tell a measured number from a taste-based one.
+
+Returns [(signature, message)] so `qa_check.py` can fold these in beside its own.
+"""
+import re
+import sys
+from collections import Counter
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from check_language_drift import malay_ratio, strip_frontmatter
+from label_drift_audit import GENERIC, RAW_LABEL, norm
+
+DERIVED = ["interview.md", "interview-en.md", "interview-ms.md"]
+
+# Relative Malay loss, raw.md -> interview.md. The distribution is bimodal: median 0.011,
+# p75 0.107, then a cluster of 14 episodes running from 0.178 to 0.726. The gap between
+# the 14th worst (0.178) and the 15th (0.045) is 13 points, so 0.15 sits inside a natural
+# break rather than on a slope. All 14 are early episodes; ep24 onward score ~0, so this
+# is legacy damage and not a current regression.
+MAX_MALAY_LOSS = 0.15
+
+# A turn repeated verbatim is a chunk-boundary artefact, not speech. Measured: 8 instances
+# in 4 episodes, every one a defect -- ep27's repeated line was fabricated outright, and
+# ep17's duplicated a line raw.md contains once. Short turns legitimately repeat ("Ya.",
+# "Betul."), so only turns of 6+ words count.
+MIN_DUP_WORDS = 6
+
+GROUP_LABEL = re.compile(
+    r"^(multiple|overlapping|beberapa|ramai|penceramah bertindih|beberapa penutur)",
+    re.I)
+TURN_RE = re.compile(r"^\*\*([^*]{2,40}?):?\*\*\s*(.*)$")
+# A raw.md block holding two or more of these has lost a paragraph break. qa_check's
+# wall-of-text signature also demanded >20,000 chars, which is why ep53's seven such
+# blocks all passed.
+INLINE_TURN_RE = re.compile(r"\[(?:\d+:)?\d+:\d+\]\s*[^:\n]{1,40}:")
+# ONLY NUMBERED clusters. "Speaker ?" is NOT flagged: it is the deliberate marker for a
+# turn nobody could identify, and ARCHITECTURE.md's position is that a wrong name is worse
+# than none. A first version flagged it and reported 26 episodes, most of them for honestly
+# marked unknowns -- the same over-firing as the 1% unlabelled-host threshold that flagged
+# genuinely quiet co-hosts. A NUMBERED cluster is different: it is a re-cut that was never
+# named, i.e. unfinished work.
+PLACEHOLDER_RE = re.compile(
+    r"^\[(?:\d+:)?\d+:\d+\]\s*(SPEAKER_\d+|Speaker\s+\d+)\s*:", re.M)
+
+
+def derived_turns(text):
+    out = []
+    for line in strip_frontmatter(text).splitlines():
+        m = TURN_RE.match(line.strip())
+        if m:
+            out.append((m.group(1).strip(), m.group(2).strip()))
+    return out
+
+
+def raw_speaker_names(raw_body):
+    names = set()
+    for a, b in RAW_LABEL.findall(raw_body):
+        name = (a or b).strip()
+        if name and not GENERIC.match(name):
+            names.add(norm(name))
+    return names
+
+
+def check(ep_dir):
+    issues = []
+    raw_path = ep_dir / "raw.md"
+    if not raw_path.exists():
+        return issues
+    raw_body = strip_frontmatter(raw_path.read_text(encoding="utf-8"))
+
+    placeholders = Counter(m.group(1).strip() for m in PLACEHOLDER_RE.finditer(raw_body))
+    if placeholders:
+        shown = ", ".join(f"{k} x{v}" for k, v in placeholders.most_common(3))
+        issues.append((
+            "placeholder-label",
+            f"raw.md labels {sum(placeholders.values())} turn(s) with a placeholder "
+            f"({shown}) -- a published transcript should name the speaker or say nothing, "
+            f"and these propagate into the derived files as several ungreppable variants"))
+
+    for line in raw_body.splitlines():
+        markers = INLINE_TURN_RE.findall(line)
+        if len(markers) >= 2:
+            issues.append((
+                "inline-turn-marker",
+                f"a raw.md block holds {len(markers)} inline turn markers "
+                f"(first {markers[0]!r}) -- a paragraph break was lost, so one speaker's "
+                f"block contains another's words"))
+            break
+
+    names = raw_speaker_names(raw_body)
+    label_sets = {}
+    for name in DERIVED:
+        path = ep_dir / name
+        if not path.exists():
+            continue
+        turns = derived_turns(path.read_text(encoding="utf-8"))
+        label_sets[name] = Counter(label for label, _ in turns)
+
+        generic = {l: n for l, n in label_sets[name].items() if GENERIC.match(l)}
+        if generic and names:
+            shown = ", ".join(f"{k} x{v}" for k, v in
+                              sorted(generic.items(), key=lambda kv: -kv[1])[:3])
+            issues.append((
+                "generic-label",
+                f"{name} labels {sum(generic.values())} turn(s) generically ({shown}) "
+                f"while raw.md names {len(names)} real speaker(s) -- the rewrite discarded "
+                f"names the transcript already had"))
+
+        repeated = Counter((l, t) for l, t in turns if len(t.split()) >= MIN_DUP_WORDS)
+        for (label, text), count in repeated.items():
+            if count > 1:
+                issues.append((
+                    "duplicate-turn",
+                    f"{name} repeats one {label} turn verbatim {count}x "
+                    f"({text[:60]!r}) -- a chunk-boundary artefact; in ep27 the repeated "
+                    f"line turned out to be fabricated outright"))
+                break
+
+    # Group labels are SUPPOSED to differ between the files: "Multiple speakers" becomes
+    # "Beberapa Penceramah" in the Malay translation, which is correct translation and not
+    # drift. Comparing raw label sets reported 27 episodes, nearly all of them this.
+    if len(label_sets) == 3:
+        sets = [{l for l in v if not GROUP_LABEL.match(l)} for v in label_sets.values()]
+        shared = set.intersection(*sets)
+        unique = [s - shared for s in sets]
+        if any(unique):
+            detail = "; ".join(f"{n}: {sorted(u)[:3]}"
+                               for n, u in zip(label_sets, unique) if u)
+            issues.append((
+                "label-mismatch",
+                f"the three derived files disagree on speaker labels ({detail}) -- the "
+                f"same person is named differently between the mixed version and its own "
+                f"translations"))
+
+    interview = ep_dir / "interview.md"
+    if interview.exists():
+        raw_ratio = malay_ratio(raw_body)
+        iv_ratio = malay_ratio(strip_frontmatter(interview.read_text(encoding="utf-8")))
+        if raw_ratio > 0 and (raw_ratio - iv_ratio) / raw_ratio > MAX_MALAY_LOSS:
+            issues.append((
+                "malay-loss",
+                f"interview.md lost {(raw_ratio - iv_ratio) / raw_ratio * 100:.0f}% of "
+                f"raw.md's Malay ({raw_ratio * 100:.1f}% -> {iv_ratio * 100:.1f}% marker "
+                f"density) while still declaring itself mixed -- the rewrite anglicised a "
+                f"code-switched original"))
+    return issues
+
+
+def main():
+    root = Path(__file__).resolve().parent.parent / "episodes"
+    counts, flagged, total = Counter(), 0, 0
+    for ep_dir in sorted(root.glob("*/*")):
+        found = check(ep_dir)
+        total += 1
+        if not found:
+            continue
+        flagged += 1
+        tag = re.search(r"-(ep\d+)-", ep_dir.name)
+        label = tag.group(1) if tag else ep_dir.name[:14]
+        print(f"\n{label}{' (2024)' if 'bakar' in str(ep_dir) else ''}")
+        for sig in {sig for sig, _ in found}:
+            counts[sig] += 1
+        for sig, msg in found:
+            print(f"   [{sig}] {msg}")
+    print(f"\n{flagged} of {total} episode(s) flagged")
+    for sig, n in counts.most_common():
+        print(f"   {sig:20} {n} episode(s)")
+
+
+if __name__ == "__main__":
+    main()
