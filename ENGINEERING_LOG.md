@@ -2155,6 +2155,73 @@ name away. And `generic-label` was double-reporting those same turns, which is w
 
 Corpus after the pass: 37 of 67 flagged, from 43.
 
+### 1.40: Fixing what 1.39 found, and the bias that nearly put the wrong names in
+
+**Content fixed.** Five altered figures: YBkM-ep06's `45 bilion` for raw's `4.5 bilion`
+(printed two clauses after the correct value, from the same source), `240 juta` for
+`340 juta`, `25.8 sen` for `26.8 sen`; YBhM-ep07's back-computed `RM10-12 bilion` where raw
+says ten; YBhM-ep10's `RM1.69` where raw says `RM1.99`. Plus ep11's mixed file splitting
+Iqbal into `Iqbal` and `Ikhbal`, ep14's Malay file replacing the named Haziq with two role
+words, and spurious duplicate turns in ep17 and ep27 -- in both cases the FIRST copy, which
+sat between a question and someone else's answer while the second got the real reply.
+
+**Adjudicating instead of trusting the count found six matcher bugs**, every one of which
+had been producing a confident false positive: an ellipsis before a number stopped it
+tokenising (`...91 juta`), the ASR spells decimals as `3 point 3` and `32. 2`, `BR1M` parsed
+as one million, Malay glues `-lah` onto `bilion`, and a comma-thousands number with a
+decimal tail returned no value at all. **That last one made me truncate ep22's `RM1,666.67`
+before checking the full raw string, which reads `RM1,666.6667`.** The published figure was
+correct and I broke it; reverted in the same session. Grep a window wide enough to contain
+the whole number before concluding anything about it.
+
+Four figure flags and two duplicate flags are now adjudicated benign in
+`data/qa_reviewed.json` with the evidence, not silenced. The interesting one is ep21, where
+the rewrite CORRECTS the transcript: raw says `pasar global 8.2 juta ... Ia 4.2%`, but
+347/8.2 is 42x, while 347e6/8.2e9 is 4.23%. The ASR mis-heard the unit and the rewrite
+fixed it. Publishing raw's `juta` would have been the error.
+
+**121 placeholder turns named, and the near-miss is the lesson.** `name_published_placeholders.py`
+matches each published turn to its raw block by rare-word overlap and renames a `Speaker N`
+only when the turns agree. Extending it to role labels exposed a bias that was also
+affecting the numbered ones: it proposed `Interviewer` -> Rafizi, and Rafizi is the
+interviewEE. The score was measuring shared TOPIC, and because he speaks most and at
+greatest length his blocks win any overlap comparison by sheer volume. Dividing by
+sqrt(block length) flips those to the right people.
+
+Even corrected, role labels land at 55-76% agreement, so they stay out of scope --
+ambiguous, not mis-scored. And a literal-substring trace of each turn's opening clause now
+has to confirm the vote at 80% before anything is written. That gate is what keeps ep56's
+`Speaker 2` a placeholder: 65% over 43 traces, because its turns splice two raw speakers
+together, starting with an opening that merges Rafizi `[00:44]` and Haziq `[00:45]`.
+
+Two guards decided more than the scoring did. **A placeholder that raw.md ALSO carries is
+not a dropped name**, it is raw's own unidentified speaker -- that alone stopped ep26, ep36
+and ep53 from being confidently mislabelled, because the right answer was never in the
+candidate set. And elimination: once ep54's `Speaker 2` is Rafizi at 94%, a two-speaker
+episode leaves exactly one reading for `Speaker 1`.
+
+Applied to ep03, ep16, ep37, ep51, ep54, ep56, each re-audited afterwards by the literal
+trace: ep16 Haziq 29/29 and Rafizi 34/35, ep54 Haziq 26/26, ep51 Haziq 32/35 and Farhan
+20/21, ep03 Syed Munawar 8/8, ep56 Rafizi 51/53.
+
+**Corpus: 43/67 flagged at the start of 1.39, 27/67 now, stable across consecutive runs.**
+
+### What is still open, and why it is not a threshold problem
+
+- **`generic-label`, 18 episodes.** `Host`, `Interviewer`, `Moderator`, `Hos` standing in
+  for names raw.md has. Measured above at 55-76% agreement per turn, which is not good
+  enough to write. These need the rewrite re-run with the names in the prompt, not a
+  cleverer matcher.
+- **`malay-loss`, 14 episodes.** All early; ep24 onward score ~0. Legacy damage from a
+  rewrite that anglicised a code-switched original, and only regeneration fixes it.
+- **`published-placeholder`, 5 episodes.** ep26/ep36/ep53 correctly refuse because raw is
+  unidentified too; ep37 and ep56 have leftover labels whose turns merge speakers.
+- **`unsourced-figure` 4, `placeholder-label` 4, `duplicate-turn` 2, `inline-turn-marker`
+  1** -- the figure and duplicate ones are the adjudicated-benign set.
+
+**The repo is NOT clean and should not be published yet.** The two big classes are known,
+measured, and traceable to the rewrite stage rather than to the checks.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider

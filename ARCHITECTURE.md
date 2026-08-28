@@ -134,6 +134,12 @@ python scripts/splice_gap.py ep48 --clip-start 8500 --keep-until 8960 --gap-from
 
 # Speaker labels that appear in interview*.md but never in raw.md
 python scripts/label_drift_audit.py
+
+# Name the `Speaker N` labels the rewrite left in the PUBLISHED files, using raw.md as
+# the key. Dry run by default; it prints the agreement it found and refuses anything a
+# literal trace of the turn's opening clause does not confirm (1.40).
+python scripts/name_published_placeholders.py
+python scripts/name_published_placeholders.py ep54 --apply
 ```
 
 For an episode whose speakers may be named wrongly. **Confirm against the audio before
@@ -347,7 +353,13 @@ same separator on the way back out as the way in.
   block-level attribution, which needs blocks split at speaker boundaries as ep45's were
   (1.31). **Careful if automating: ep60 contains two different Farhans** -- the co-host,
   and a politician described as "anak emas Dato' Seri Anwar".
-- **2,836 speaker labels in `interview*.md` are still generic**, across 26 episodes:
+- **`interview*.md` speaker labels are still generic in 18 episodes.** 121 turns across
+  ep03, ep16, ep37, ep51, ep54 and ep56 were named from `raw.md` by
+  `name_published_placeholders.py` (1.40), which renames a `Speaker N` only when a literal
+  trace of the turn's opening clause confirms the match at 80%. Role labels (`Host`,
+  `Interviewer`, `Hos`) are deliberately out of its scope: measured, they sit at 55-76%
+  agreement per turn, so they need the rewrite re-run with the names in the prompt rather
+  than a better matcher. The pre-1.40 figure was 2,836 labels across 26 episodes:
   `Host` 963, `Speaker 2` 817, `Speaker 1` 418, `Speaker 3` 216, `Interviewer` 209,
   `Moderator` 83, `Hos` 73, `Speaker` 57. Re-measured with `label_drift_audit.py` on
   2026-08-28; the previous figure of 1,366 across 35 episodes predated the re-cuts.
