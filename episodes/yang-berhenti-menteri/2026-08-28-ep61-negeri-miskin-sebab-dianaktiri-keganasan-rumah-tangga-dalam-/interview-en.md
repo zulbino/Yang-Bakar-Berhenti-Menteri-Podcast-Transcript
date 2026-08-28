@@ -11,6 +11,7 @@ view_count: 11868
 hosts:
 - Rafizi
 - Haziq
+- Farhan (Pa'an)
 guests: []
 topics:
 - Hydrogen therapy nebulizer health overclaims
@@ -512,7 +513,7 @@ Then at some point, we must think as a society: when do we break this vicious cy
 
 Okay, bye WB. 2 hours 50 minutes, that should be enough. I'm really exhausted too. Tomorrow we are in Melaka for a gathering together. Which DUN is that? Ah, not Kesidang; tomorrow night's ceramah is in the Telok Mas DUN. Telok Mas DUN is within Kota Melaka. The address is at Tiny House, a venue called Tiny House. Telok Mas is a DUN constituency in Kota Melaka. So come meet us. My elbow is better after getting injured playing pickleball. So if there's pickleball, I'll play again. Play again, then get injured again! Then tomorrow night's ceramah is at the premises of a devotees' association...
 
-**Haziq:** Because they wouldn't change it last minute. On Maps it's listed differently—the place has two names. On Maps it's Zi Ling Gong Temple. Oh, a temple.
+**Farhan (Pa'an):** Because they wouldn't change it last minute. On Maps it's listed differently—the place has two names: the grounds of Persatuan Penganut Dewa Kuan Ti, or on Maps, Xi Ling Gong Temple. Oh, a temple.
 
 **Rafizi:** Next thing you know, people will spin a new slander saying I went to a temple. Out of all places you could pick, you picked this place. But PKR was like that in the early days too, we had no venues. So eventually there was a congress—I forget which year, 2004 I think—that 2004 congress was held at a temple in Ipoh. So if anyone, say a certified Walanon or whoever, attacks us saying we went to a temple, back when you guys struggled to get venues, you held talks around temples too.
 
