@@ -16,7 +16,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 # Raw Transcript
 
-[02:33] Speaker 1: Macam biasa bersama saudara Rafi
+[02:33] Haziq: Macam biasa bersama saudara Rafi
 
 [02:35] Haziq: Z. Ramli dalam podcast... Eh, mana? Assalamualaikum. Saya nak tukar episod 31 baru. Oh, okey, okey, okey. Selama tak bagi salam. Haa, kena bagi juga kan, kalau ujung lah. Kena bagi salam. Ayat, ni, pasif eh. Ayat, aktif, aktif, pasif.
 
@@ -72,7 +72,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [15:10] Rafizi: sosial di Bukit
 
-[15:10] Speaker 1: Teritam. Kita juga ada KRC di Padang Terang. Kita juga ada
+[15:10] Speaker ?: Teritam. Kita juga ada KRC di Padang Terang. Kita juga ada
 
 [15:11] Haziq: banyak air. Kita juga ada
 
@@ -204,7 +204,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:10:43] Farhan (Pa'an): Menarik Tapi YB juga ada mention tadi Pasal Macam tak ada pelapis Lepas ni kan Eh mana ada aku cakap Tak ada You imply Tak adalah I don't imply
 
-[1:10:56] Speaker 1: that
+[1:10:56] Rafizi: that
 
 [1:11:00] Rafizi: Saya tak kata PAS tak ada pelapis. Saya kata pertembungan itu akan berlaku sampai bila-bila. Kumpulan ustaz dengan kumpulan non-ustaz kerana intipati PAS itu kekuatannya ialah ustaz-ustaz ini yang merasakan mereka lah kekuatan yang berkempen. kata apa ni, rampasan perang. Tapi bila menang orang tu, padahal aku yang lama dulu, eh bila menang orang tu, nak kata benda tu betul ke tidak, Perkara yang sama ada dalam PKR Baru nak cakap Saya baru nak drop balance Perkara yang sama ada PKR Jadi benda itu agak normal Benda itu agak normal Kalau kita dalam PAS pun Kita geng ustaz Hmm daripada awal masa orang tak ada minat pas semua ni kitalah yang duduk pasang bendera semua kan tiba-tiba ada mentang-mentang kononnya dia professional masuk, oh demi untuk kita dapat kuasa maka cuma ada kumpulan ustaz juga yang mengasakan lah bila naik saja apa nama ni mereka boleh mengawal you know, you cannot control power not that easy bila dapat saja jawatan dia akan buat kepala dia lah If you think that orang 100% ikut kepala yang diputuskan oleh parti, then you don't understand the nature of power lah. So, I fully understand pertembungan yang ada dalam PAS ni. Dan itu adalah intrinsic... Weakness impas Dia ada kelebihan yang cukup besar Dari segi mudah untuk berkempen Kerana main sentimen agama Dari segi di bawah ni Kerana dia ada banyak ustaz-ustaz ni Yang senyap-senyap pergi masuk semua Dia ada pastilah Dia ada seriti lah Segala-galanya dia dibuat ni kan Secara halus kan Tetapi dia ada fault line di atas Kerana fault line pertembungan Gang Ustaz dengan North Ustaz ni Akan berlaku sampai bila-bila Selagi dia adalah parti PAS Ada solution yang kreatif tak YB Buat apa aku nak bagi solution kepada PAS Itu masalah dia
 
@@ -218,7 +218,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:14:07] Haziq: Tak ada ya sekarang dalam pangkalan? Tak ada.
 
-[1:14:10] Speaker 1: Itu masalah dia. Kalau dia ada itu tak adalah masalah ini. Syahir pun tak? Tak cukup. Tak cukup. Tak cukup. Syahir Sulaiman. Syahir Sulaiman. Tak tahu
+[1:14:10] Rafizi: Itu masalah dia. Kalau dia ada itu tak adalah masalah ini. Syahir pun tak? Tak cukup. Tak cukup. Tak cukup. Syahir Sulaiman. Syahir Sulaiman. Tak tahu
 
 [1:14:21] Rafizi: ke? Janganlah tanya kita, tanyalah rakyat Malaysia. Saya tanya Haziq. Tanya Haziq. Tak cukup kau. Pada selaku rakyat biasa tak cukup. Tapi bagi saya lah, the fact that sekarang ini masih lagi ada pertembungan di dalam PAS. Siapa calon Perdana Menteri? Adakah Tuan Ibrahim? Adakah Taki Yudin? Adakah Dr. Samsuri? Adakah Sanusi? kurangan. Sebab calon ideal contohnya, kalaulah ada seorang presiden PAS Yang dia memang ada kemahiran mentadbir dan juga rekod yang baik dalam menguruskan sesuatu. Idea yang bagus, terbuka. Pada masa yang sama, dia juga ulama' besar, yang progresif, yang ilmu tinggi. Dia juga seorang penghafal Al-Quran. Eh, aku undi pas tu! Ha? The fact that I don't vote for PAS Because they don't have that lah Jadi dia menjadi menunggang agama lah You menunggang agama untuk dapat kuasa You dapat kuasa you tak boleh buat Dan mudarat kepada masyarakat itu Lebih besar akibat itu That's why I don't vote for PAS Tapi kalau ada yang macam itu Aku undi PAS lah So cabarannya sepatutnya kepada PAS kan
 
@@ -276,7 +276,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:46:37] Rafizi: orang banyak forward lah Kata Ingat Zahid Baik dengan you Tengok dia hentam you Hentam ke? Entam lah... Tapi... Ini kan perhimpunan dalaman ni kan yang ucapan Zahid kata Rafisi, Hasuk Fitnah. Siapa yang tulis ni tak kerti mengeja. Hasuk
 
-[1:46:58] Speaker 1: Fitnah.
+[1:46:58] Rafizi: Fitnah.
 
 [1:46:59] Rafizi: Hasuk is H-A-S-U-D. Ini orang Pantai Timur. Oh, Pantai Timur. Hasuk Fitnah. Apa nama ni? Ini dalam ucapan dia dalam temur rapat tertutup kan? Betul, temur rapat tertutup. So, saya menonton secara terbuka, secara penuh lah kan? Saya ingat kita kena ingat konteks dia lah I think yang dia nak sampaikan itu ialah... Kita kena belajar daripada Rafizi Itu yang dia nak kena sampaikan Sebab dia kata And I think they quote You know Few of the things yang saya selalu ulang Maksudnya Kita ni kena ofensif. Sebab itu kalau dalam PKR kan, timbalan presiden tu selalu orang asosiat dengan sebagai general. Bukannya pergi perang ke bawah. Maksudnya, timbalan presiden PKR itu kena agresif. Kerana dalam membina naratif dan juga komunikasi politik, kita tak boleh lihat defensif. Dan that's exactly what we went through sebagai menteri dahululah. yang ini, ini kepada siapa-siapa jadi kerajaan Bila kita jadi kerajaan dulu awal-awal kan, memang kebiasaan walaun-walaun ni kalau kita agresif sikit je, ofensif sikit dia kata, macam ni ke menteri? Orang menteri buat kerja menteri je lah. Itu taktik yang kita dah lalui kalau kita ikut bodoh kita. Dia memang nak suruh kau diam, hilang supaya dia boleh maki kau tiap-tiap hari dan kau tak jawab. Bila kau jawab sahaja, oh macam ni ke menteri? Then by now kita dah boleh conclude dah yang kata macam ni menteri ni memang kebanyakannya kepala otak walaun. So apa yang Dato' Sui Zahid nak sebut ialah, dan saya tengok ucapan dia kan. Saya ingat dia pun berkongsi pengalaman dia daripada kerajaan. Maksudnya, hanya kerana you jadi kerajaan... Kalau you ambil strategi komunikasi yang kerajaan pakai ke laut. So walaupun you jadi kerajaan, you kena jadi agresif. Dan agresif itu, dia ambil contoh aku lah kan. Yang agresif dengan UMNO dan Najib dulu. Dan bagailah secara tidak langsung saya ingat dia mengiktiraf lah. Maksudnya kempen kita dulu tu ada kesan yang besar sehingga menyumbang kepada kekalahan Dato' Seri Najib lah. kata hasut fitnah semua ni Yang ini memang Mainan di dalam UMNO Yang saya pun dah ulas Dalam podcast yang lepas At some point Ya UMNO pun kena berhati-hati juga. Dengan crowd mereka, oleh kerana mereka dah bina naratif itu yang perkara-perkara yang saya bawa dulu terutamanya tentang YMDB itu adalah hasut dan fitnah. Fitnah lah fitnah kan. Actually yang ruginya mereka Kerana dia akan makin menjarakkan rakyat daripada mereka The longer rakyat nampak bahawa UMNO ini masih percaya semua perkara itu adalah fitnah The more rakyat rasa mereka ini terpisah daripada rakyat But they have to navigate lah kerana Semasa mereka mempertahankan 1MDB dahulu Dia jawab ini adalah fitnah Ini adalah fitnah Rafizi Raja Fitnah Rafizi Raja Formula Kan, I mean... It's not working. Yang duk happy sangat Raja Fitnah, Raja Formula ni sama-sama geng diorang je. Rakyat atas pagar secara keseluruhan, dia tak ikut label. Dia tengok apa yang kita cakap, dia tengok satu persatu, then they make their own decision lah. Jadi kalau contohnya, Dato' Seri Zahid suruh UMNO jadi agresif, tapi UMNO substance agresif dia tu tak betul. lebih kepada Dr. Akmal dahulu kan pergi buat pergi ugut kemudian pergi timbulkan kontroversi perkawaman semua memanglah agresif tapi itu tak meningkatkan apa nama ni sokongan pun so saya tak adalah kecil hati dengan Dato' Syed Zaid ok baik-baik itu
 
@@ -374,4 +374,4 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:35:25] Farhan (Pa'an): malam.
 
-[2:35:25] Speaker 1: Saya boleh lihat.
+[2:35:25] Speaker ?: Saya boleh lihat.

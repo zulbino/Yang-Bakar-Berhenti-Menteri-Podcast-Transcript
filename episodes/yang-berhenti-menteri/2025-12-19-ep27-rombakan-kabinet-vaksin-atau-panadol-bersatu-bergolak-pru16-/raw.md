@@ -43,13 +43,13 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [06:13] Rafizi: lamanya kata nak
 
-[06:14] Speaker 4: sekejap je sorry sorry sorry satu lagi because I teringat balik kau ada share dalam rembayung ke? tak tak tak
+[06:14] Farhan (Pa'an): sekejap je sorry sorry sorry satu lagi because I teringat balik kau ada share dalam rembayung ke? tak tak tak
 
 [06:22] Farhan (Pa'an): I teringat balik perbualan kita pasal usahawan muda semua kan adakah YB rasa dia ni antara
 
-[06:30] Speaker 4: yang boleh dijadikan idola ataupun
+[06:30] Farhan (Pa'an): yang boleh dijadikan idola ataupun
 
-[06:33] Speaker 4: Saya tak rasa dia nak jadi
+[06:33] Farhan (Pa'an): Saya tak rasa dia nak jadi
 
 [06:35] Rafizi: idola Hmm And in fact, kadang-kadang... Apa yang kita perlukan lebih dalam masyarakat adalah kurang dari, anda tahu, idola. Lebih banyak orang yang sebenarnya melakukannya Haa Dan jadi Eee Apa nama ni Eee Bagus dari segi orang boleh dapatkan inspirasi lah kan. Tapi inspirasi tu kalau setakat, oh saya jadi fan awak. What we need is actually more and more people yang especially yang muda-muda yang memilih jalan untuk berniaga. Dan... Saya ingat itu memang yang kita duk preach daripada dulu lah kan Macam dekat Kementerian Ekonomi dulu Bila kita rombak semula Yayasan peneraju, teraju Salah satu fokusnya Ialah untuk kita menukar Sukses model Sebab terutamanya kepada Bumi Putera Sukses model tu dia masih lagi sangkut kepada sukses model zaman 70 ke 80 untuk menghasilkan kelas menengah. Jadi, UIM Putra dah ramai kelas menengah. Tapi kelas menengah makan gaji. Jadi, the capital is not mobilized. Then, selalunya is very inward into you. Maksudnya... kelas menengah Melayu boleh makan di Rembayung lah, bayar apa-apa pun. Tapi dari segi how to grow and mobilize the capital tu, dia masih lagi berlegar di kalangan beberapa saja kerana kelas menengah Melayu, terutamanya yang muda-muda ni masih lagi dia nak beratur kerja dekat Petronas, dekat Maybank lah, dekat Solcom DG lah kan. Berbeza dengan negara yang sangat inovatif. Selalunya... Yang muda-muda ni, dia memilih untuk serangkap on their own. So, in that sense lah. With the assistance
 
@@ -61,11 +61,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [08:41] Rafizi: kan.
 
-[08:41] Speaker 4: Yelah. Tapi itu
+[08:41] Farhan (Pa'an): Yelah. Tapi itu
 
-[08:43] Speaker 4: pun jadi isu juga
+[08:43] Farhan (Pa'an): pun jadi isu juga
 
-[08:44] Speaker 4: sebab ada... Eh,
+[08:44] Farhan (Pa'an): sebab ada... Eh,
 
 [08:46] Rafizi: beria. Yang beria sangat ni kenapa? Beria kena pendek.
 
@@ -99,9 +99,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [14:33] Rafizi: saja. Sebenarnya yang beria ialah yang tukang ajak dia. Saya dia tukang ajak. Oh tukang ajak.
 
-[14:39] Speaker 4: Sebab dia kata orang jemput. Orang
+[14:39] Farhan (Pa'an): Sebab dia kata orang jemput. Orang
 
-[14:41] Speaker 4: jemput. Dia buat kerja dia je. Tapi ada orang ajak.
+[14:41] Farhan (Pa'an): jemput. Dia buat kerja dia je. Tapi ada orang ajak.
 
 [14:44] Rafizi: Mungkin lah kot. Mungkin sebenarnya yang beria tu cikgu-cikgu yang jemput dia. Haa... Yalah, masa itu kalau anything, dia mungkin menunjukkan pandangan masyarakat yang secara perlahan-lahan berubah lah kan. Saya adalah baca komen-komen ada yang mengaku cikgu dekat media sosial. Kata orang netizen ni pandai-pandai je buat komen kan, past judgement. Sebenarnya jadi cikgu ni susah sangat nak dapat sumbangan. RM500 pun susah nak dapat sumbangan kan. Jadi... Mungkin lah yang beria tu yang jemput sekolah dia Budak ni dah jemput Dia rasa hebat dia pergilah kan Netizen pula Kan free Boleh komen So dia komen lah Cuma Ini sesuatu yang masyarakat kena fikirkan. Satu maksudnya adakah bermakna... mereka yang berduit yang dapat bagi sumbangan itu akan diangkat di dalam masyarakat itu Itu satu... Perkara yang masyarakat kena buat keputusan lah kan. Saya selalunya kurang... Kurang seronoklah kalau kedudukan seseorang dalam masyarakat itu diukur daripada harta dia. Dan harta tak kekal. Yang kekal selalunya ilmu. Jadi sebaiknya sekolah mesti menunjukkan nilai itu kepada... Murid-murid kan Bahawa yang Harta bagus Orang yang menderma Bagus tapi kalau boleh janganlah cakap kat satu dunia kita menderma kan. Itu bagus. Tapi fungsi sekolah dan pentingnya sekolah dalam masyarakat ialah kerana kita nak memupuk kecintaan dan budaya ilmu itu daripada muda. Dan itu yang datang berbalik kepada yang Haziq sebut tadi lah maksudnya Sekolah pun kena berhati-hati bahawa kita nak kena imbangkan bagaimana kita memberi sukses model, model kejayaan untuk anak-anak itu. Kalau model kejayaan itu ialah harta semata-mata, duit semata-mata. Kemudian... Kenapa? kesan dia kepada masyarakat dijangka masa panjang tu dia akan ada kesan
 
@@ -115,7 +115,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [20:50] Haziq: ke? Kenapa timbalan menteri agama tak ada kat situ korang?
 
-[21:12] Speaker 4: Gambar dia satu
+[21:12] Farhan (Pa'an): Gambar dia satu
 
 [21:13] Farhan (Pa'an): je. Which is dekat depan, I think dekat parlimen. Masa dia swearing as senator.
 
@@ -125,19 +125,19 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [21:53] Rafizi: Oh, Make Malaysia Great Again.
 
-[21:55] Speaker 4: Berbaloi. Oh,
+[21:55] Farhan (Pa'an): Berbaloi. Oh,
 
 [21:56] Haziq: dia pernah masuk. Okey, okey. Tapi sekarang timbalan menteri bolehlah Make Malaysia Great Again. Mungkin vaksin atau Panadol. Sama ada rombakan kabinet ini cure the disease. Untuk terus menang PRU. Ataupun dia sekadar menahan sakit Panadol. Tapi dia tak ubah trajektori atau apa. Mungkin kita punya tujuan perbincangan lah. Tapi kalau nak start daripada awal, kalau boleh dapat gambaran awal daripada YB dalam keadaan YB, kita tengok pelatikan ni ada some negative comment daripada netizen. Kenapa orang ini diletakkan kat situ, orang ini diletakkan kat sini. Jadi sebenarnya why is the stick yang sekarang kita ada dalam keadaan... Kabinet tu disusun seperti tu Vaksin ni
 
 [22:45] Rafizi: Nanti anti-vax marahlah pula. The premise is that kalau vaksin, dia akan mengubat sakit. Panadol penahan sakit kan? Tapi tak semua orang setuju vaksin mengubat sakit lah. Just to put a note, supaya anti-vax kalau hatta marah kan? Yalah, rombakan Jemaah Menteri ini perlu dibuat ummm Saya ingat banyak perbincangan itu lupa satu perkara penting iaitu... Dia bukan rombakan jemaah menteri yang berlaku di beberapa negara lain yang mana ia dibuat di tengah penggal untuk menambah baik kerajaan. Itu bukan sebab utama. Lagipun kita sebenarnya dah 60% ada penggal ini. Sebenarnya dia bukan di tengah penggal. Ya. Rombakan ini perlu dibuat oleh kerana Tengku Zafrul dah tak jadi menteri, ada kekosongan. Kemudian ditambah pula saya dengan Nik, dengan Iwan letak jawatan. Jadi dia disebabkan oleh kekosongan lah. Jadi dia tak sama dengan rombakan-rombakan cemah menteri yang pernah berlaku terutamanya zaman-zaman dulu lah kan. Jadi dari segi itu saya ingat... pertimbangan yang Dato' Seri Anwar buat itu bukan semata-mata untuk soal menambah baik prestasi kerajaan lah itu this is a reshuffle that is forced upon him not because he wanted it lah kan jadi dah lang-lang tu kita buat lah ambil peluang lah kan jadi comment netizen Memang akan ada komen lah. Sekarang kalau orang komen sebab boleh komen. Dulu sebab tak boleh komen. So sekarang bayangkan orang kita setiap satu benda, Carol Aming ke, ni kalau kelas ni pun orang akan komen. Jadi dia akan komen lah. Jadi kalau soal sesuatu macam merombakkan jemaah menteri, Memang akan mengundang pelbagai pandangan lah Akhirnya Semua perancangan itu Di dalam kepala Perdana Menteri lah Kita hanya boleh meneka Dan Hmm Biarkan melalui proses itulah Awal-awal itu ada euforia Orang nak tahu siapa dia ni Latar belakang dia Semua kan Kemudian dia juga bergantung kepada penjawat itulah yang jadi menteri, yang timbalan menteri itu kan. Kalau tidak berhati-hati, dua bulan orang lupa lah. dan kesan dan risiko yang diambil oleh Dato' Seri Anwar ialah Dan ini memang dinyatakan sendiri oleh Perdana Menteri lah Saya baca berita, saya ingat semalam kan dua hari lepas selepas mesyuarat jemaah menteri yang pertama dengan kabinet baru ini Dato' Seri Anwar pun, saya ingat ada temuramah dengan bernama kan yang dia nyata dia mengakui bahawa prestasi perlu diperbaiki kan. Kerana risiko yang paling utama ialah kalau prestasi tidak lebih baik maka itu akan ada kesan kepada... potensi Datuk Seri Anwar untuk kembali jadi Perdana Menteri dalam tempoh 2 tahun dari sekarang Hmm Kau nak suruh aku komen apa?
 
-[26:56] Speaker 4: Maybe we can also highlight...
+[26:56] Farhan (Pa'an): Maybe we can also highlight...
 
 [26:58] Rafizi: Oh, Zahid Ibrahim pun tak ada?
 
-[27:01] Speaker 4: Patut lagi.
+[27:01] Farhan (Pa'an): Patut lagi.
 
-[27:02] Speaker 4: Dah crowded sangat.
+[27:02] Farhan (Pa'an): Dah crowded sangat.
 
 [27:04] Rafizi: CM pun tak ada.
 
@@ -155,9 +155,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [39:46] Farhan (Pa'an): Insignificant mungkin terlalu banyak perkataan.
 
-[39:48] Speaker 4: Tapi too small of a player ataupun...
+[39:48] Farhan (Pa'an): Tapi too small of a player ataupun...
 
-[39:53] Speaker 4: Saya tak rasa
+[39:53] Farhan (Pa'an): Saya tak rasa
 
 [39:54] Rafizi: MIC is the biggest loser. tu ada bekas bendahari MIC dia ada wakil dalam kabinet naturalisasi oleh PKR dia ada wakil daripada MIC tak saya rasa dari isu mengenai MCA dengan MIC ni saya dah ulas minggu lepas bahawa ugutan ataupun bising-bising itu lebih kepada soal positioning dan bargaining power MCA-MIC di dalam kerajaan melalui BN. Satu ialah window yang ada ini ialah untuk merombakkan cemah menteri inilah sama ada mereka ada pendapat tempat ataupun tidak. Hmm. Tapi tak mudah jugalah pertama contohnya dari segi perkiraan berapa mewakili parti mana dia mengikut gabungan. Jadi BN kan, gabungan BN untuk memberi satu jawatan menteri kepada sama ada MCA ataupun MIC maka BN kena bagi kursi itu kepada mereka kerana perjanjian kerajaan perpaduan Yang itu saya tulis tau. Memang dah secara jelas menunjukkan dia mesti berkadar langsung dengan jumlah kerusi. Malah sebenarnya UMNO dapat lebih sekarang. Sebab kalau ikut perkadaran itu BN sepatutnya dapat 5 sahaja. Tapi sebab Tengku Zafrul dahulu tidak dikatakan mewakili UMNO tetapi mewakili... Dalam perbincangan itu kata bukan mewakili UMNO. Masa awal-awal kita tubuh lah dia kira ini bukan kuota UMNO ini. Ini kuota Tengku Zafrul sebab Tengku Zafrul dot-dot-dot lah. Jadi UMNO pula kata oh tapi sebab dia ahli UMNO maka bila dia tak ada nanti kuota itu mesti jadi kuota UMNO. Tapi sekarang ni UMNO kalau ikut berkadar langsung. UMNO dapat lebih lah satu kan. Jadi sama ada... UMNO nak bagi satu kursi dia kepada MCA ataupun satu kursi Jemaah Menteri itu kepada MIC takkan bagilah. Jadi kalau UMNO nak tekan pula PH bagi kursi kamu lagilah tak bagi. Jadi memang dalam keadaan sekarang kan jadi window ini memang dah terlepas lah kepada MCA, MIC. Dan sama ada Dato' Seri Anwar kira MCA, MIC ini insignificant ke yang itu Datuk Seri Anwar boleh dengan mudah pelepas dengan cara eh bukan saya, ini kamu selesai dalam BN lah, kalau kamu dah bincang dalam BN, tiba-tiba satu kerusi pun BN tak nak bagi pengurusi BN tak nak bagi kepada MCA dengan MIC, jangan marah saya jadi window yang seterusnya kita kena tengok sama ada mereka berjaya dapatkan kerusi PKR atau MC atau DAP dalam pilihan raya umum yang akan datang. Baik,
 
@@ -165,13 +165,13 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [43:12] Rafizi: sure,
 
-[43:12] Speaker 4: sure. So... Nanti minggu depan kita tukar. Kita
+[43:12] Farhan (Pa'an): sure. So... Nanti minggu depan kita tukar. Kita
 
 [43:17] Farhan (Pa'an): cuba
 
-[43:17] Speaker 4: Farhan jadi
+[43:17] Farhan (Pa'an): Farhan jadi
 
-[43:19] Speaker 4: moderator. Satu lagi persoalan.
+[43:19] Farhan (Pa'an): moderator. Satu lagi persoalan.
 
 [43:24] Farhan (Pa'an): Basically... Dikatakan now with the introduction lebih ramai orang muda especially in terms of deputy ministers and then Taufik dinaikkan sebagai minister KBS. Dikatakan Dato' Seri Anwar sedang mencuba solidify the future generations to lead berdasarkan penyelidikan ini. Adakah itu komen yang adil? Adakah itu kesempatan yang adil?
 
@@ -189,7 +189,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [56:23] Rafizi: Siapa soalan itu? Sarah Swati. Oh Sarah. Sarah dah ada ramanan dan ramanan tak suka Sarah, Sarah tak suka ramanan. Jadi mereka tak boleh duduk di dalam satu kerajaan. Kan? Hmm... Yalah yang... I think ialah yang perasaan saya bercampur-campur lah maksudnya. Pada satu masa saya ingat... Ia adalah kehilangan yang beliau digugurkan. Satu masa lagi saya rasa ia bagus juga kerana beliau ini seorang yang sangat baik dan juga sangat bendul. Dr. Naim lah. Dr. Naim. Bila Dr. Naim digugurkan kan. Kerana dia memang bukan orang politik. Dan dia Seorang yang terlalu Baik sebagai seorang manusia Akhlak dia itu baik sangat Jadi mungkin Politik is Perhaps Not a place for him lah Kan Dalam tempoh Hmm Saya ingat dua tahun setengah yang sama-sama dalam jemaah menteri. Memang ialah akhlak beliau itu di dalam jemaah menteri, sesama menteri-menteri memang antara orang yang sangat baik. Saya ingatkan nak berbanding dengan senator yang... Senator apa ni? Yang mana? Hmm... Dr. Zulkifli kan yang menggantikan dia. Dr. Zulkifli ni satunya ialah orang kuat abim. Jadi kalau nak ikut kredensial tu, Dr. Naim ni tidak dilihat begitulah, bukan dalam lensa abim kan. Jadi itu dah satu kelebihan dan satu kekurangan kepada beliau lah. Kepada Dr. Naim. Satu lagi saya ingat Dr. Zulkifli ni lebih kepada seorang politikian lah dari segi aura berbanding dengan Dr. Naim akademik, akademisyen dan juga seorang pentadbir true and true but I hope he will have a good time kembali kepada keluarga dan berehatlah lepas ini Tapi, iyalah dia... Yang berhenti menteri. Dia iron... Oh, boleh. Dia datang kan? Dia datang. Eh, tapi dia bukan
 
-[58:48] Speaker 4: berhenti. Dia lain sedikit lah. Yang diberhenti.
+[58:48] Farhan (Pa'an): berhenti. Dia lain sedikit lah. Yang diberhenti.
 
 [58:51] Rafizi: Tak, tapi dia ironis. Setis tau. Oh. Ini adalah antara menteri agama yang paling kurang kontroversi. Selalunya menteri agama ni banyak kontroversi Dan selalulah kena hentam kiri kanan kan Jadi saya tak pasti Jadi itu yang mungkin pandangan yang berbeza-bezalah Macam mana kita nak menilai kan Bagi saya, kalau seorang menteri agama tu Dia tak ada kontroversi Actually, it's actually quite good Kerana untuk sebuah kerajaan, kita tak nak ada kontroversi yang berkaitan agama. Kalau ada kontroversi agama ni susah kerana soal agama ni is very divisive. You cannot bring people to the middle. Orang yang kata A, A lah. Orang kata Z, Z lah kan. Jadi dalam tempoh 2 tahun setengah, ada termasuklah penyokong PH semua yang merasakan dia tidak agresif. Mungkin itu pertimbangan yang Dato' Seri Anwar buat lah. Dia ni tak agresif kan? Ya, soal agresif. Tidak berjaya melawan PAS, you know. Ataupun dia ni macam tak ada kesan. Sebab dia pendiam ataupun dia... Yalah, dia Dr. Naim kan? Tapi pandangan saya agak berbeza lah. Maksudnya kalau ada menteri agama itu, kerja jalan... Perkara itu berlaku, tambah baik itu berlaku. Tapi dari satu isu ke satu isu, dia tidak meletup. dan dia aman damai, dia tidak ada kontroversi, saya rasa itu prestasi yang baik. Tapi malangnya orang politik selalunya dia tak memandang daripada perspektif itulah. Orang politik ini memandang kualiti seseorang itu mestilah agresif, mestilah bising, mestilah melawan. Tapi untuk portfolio agama, Kita kena tengok selepas inilah. Tapi whatever people say about Dr. Naim lah. Maksudnya dalam tempoh dua tahun setengah yang lepas itu. Walaupun orang mungkin tak terfikir. The fact that kita tidak ada kontroversi agama yang besar. Seperti sebelum ini. Saya rasa itu satu kejayaan yang dia boleh banggakan.
 
@@ -205,9 +205,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:04:56] Rafizi: So vaksin ke Panadol ni? Masa yang menentukan. Only time can tell.
 
-[1:05:01] Speaker 4: Tapi cukup ke ... masa ... untuk
+[1:05:01] Farhan (Pa'an): Tapi cukup ke ... masa ... untuk
 
-[1:05:04] Speaker 4: Vaksin atau Panadol cukup kot tapi vaksin... Panadol memang definitely
+[1:05:04] Farhan (Pa'an): Vaksin atau Panadol cukup kot tapi vaksin... Panadol memang definitely
 
 [1:05:07] Rafizi: Panadol buat masa sekarang kan. Tapi vaksin tu, kalaupun vaksin yang berkesan, oleh kerana dia tidak dicuba dalam medical trial yang lama, dia mungkin ada side effect yang besar. Baik, baik, baik. Okay, YB. Cukup ke tidak masa? Maksudnya
 
@@ -239,11 +239,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:28:41] Farhan (Pa'an): Since we're on the topic of pembangkang kan, Di mata orang ramai Perhaps... Parti yang paling stable... At the moment... Masih pass... Sebab di... No dirty laundry ad... Dekat... Public... Dikatakan tak ada... Tak ada pergaduhan dalam, tak ada kontroversi sangatlah. Adakah ini satu signal yang teruk yang di allowed by PH?
 
-[1:29:09] Speaker 4: Because PH pun bergelak. Bati-bati Signal macam mana? Tanyalah
+[1:29:09] Farhan (Pa'an): Because PH pun bergelak. Bati-bati Signal macam mana? Tanyalah
 
-[1:29:15] Speaker 4: dalam bahasa Melayu
+[1:29:15] Farhan (Pa'an): dalam bahasa Melayu
 
-[1:29:16] Speaker 4: Setengah fikir macam mana nak tanya soalan Translate dalam bahasa Melayu Tanya cik GPT
+[1:29:16] Farhan (Pa'an): Setengah fikir macam mana nak tanya soalan Translate dalam bahasa Melayu Tanya cik GPT
 
 [1:29:22] Farhan (Pa'an): Kira orang ramai akan pandang PAS ni Sebagai parti yang paling stable lah
 
@@ -281,7 +281,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:14:29] Rafizi: Well, kalau dah kalah kan, maksudnya kenapa pula kau rasa generasi kau, you cannot speak on behalf of your generation. Kau je yang fikir macam tu. I mean, orang lain yang muda-muda semua nak. I guess
 
-[2:14:42] Speaker 4: we have to go satu lagi cycle of... Ya, nak menunggu cycle.
+[2:14:42] Farhan (Pa'an): we have to go satu lagi cycle of... Ya, nak menunggu cycle.
 
 [2:14:47] Rafizi: Wah, wuh... Definitely, I think it will take a lot more than one or two cycles lah.
 
@@ -305,7 +305,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:18:57] Rafizi: to. I have a personal interest in it. Absorbable maksudnya, bukankah bahaya nanti stand tu hilang?
 
-[2:19:06] Speaker 4: Ya. Yes. So, over time dia akan hilang. Dia akan hilang. So,
+[2:19:06] Farhan (Pa'an): Ya. Yes. So, over time dia akan hilang. Dia akan hilang. So,
 
 [2:19:10] Rafizi: bukankah lagi bahaya untuk jantung aku? Err... The whole idea of having a stand
 
@@ -313,33 +313,33 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:19:16] Farhan (Pa'an): to keep the
 
-[2:19:17] Speaker 4: Untuk
+[2:19:17] Farhan (Pa'an): Untuk
 
 [2:19:18] Rafizi: dia Make sure kan The pathway tu adalah So kalau dia hilang Lama-lama dia collapse balik lah
 
 [2:19:23] Farhan (Pa'an): Baiklah, jadi pejabat term is developing bioreabsorbable drug eluting stent. So drug eluting part portion tu, dia stent tu release medication over time. And gradually slow release. The second prize dia menang adalah kerana dia develop AI model yang boleh detect glioma dalam CT scan. So basically dia ambil satu CT scan, AI to detect with accuracy yang tinggi, glioma yang ada dalam the brain lah. So doctors dapat. He's from
 
-[2:20:03] Speaker 4: Imperial? Dia actually dari... Dia dari... Queen Mary University Queen
+[2:20:03] Farhan (Pa'an): Imperial? Dia actually dari... Dia dari... Queen Mary University Queen
 
-[2:20:11] Speaker 4: Mary Pandan. Oh, QMW.
+[2:20:11] Farhan (Pa'an): Mary Pandan. Oh, QMW.
 
 [2:20:16] Rafizi: James University. Ya, James first degree dekat QMW and then dia buat master dekat Oxford. Dan ini hanya untuk undergraduate
 
 [2:20:26] Haziq: students sahaja.
 
-[2:20:28] Speaker 4: Tapi dia menang
+[2:20:28] Farhan (Pa'an): Tapi dia menang
 
-[2:20:29] Speaker 4: twice in a row. So that's very impressive lah.
+[2:20:29] Farhan (Pa'an): twice in a row. So that's very impressive lah.
 
-[2:20:33] Speaker 4: She's doing medit dekat QMW.
+[2:20:33] Farhan (Pa'an): She's doing medit dekat QMW.
 
-[2:20:35] Speaker 4: Yes, biomedical engineering to be exact. Medical engineering? Biomedical engineering.
+[2:20:35] Farhan (Pa'an): Yes, biomedical engineering to be exact. Medical engineering? Biomedical engineering.
 
 [2:20:42] Farhan (Pa'an): So we wanted to highlight dia sebab dia antara Saya baca baca baca research je Kagum betul lah dekat achievement dia
 
 [2:20:50] Rafizi: Kenapa dia panggil Junior Noble? Sebab hanya untuk undergraduate student only. Yelah, but is it given by Alfred Nobel Foundation? Yes, yes, yes. It is given by Alfred Nobel... Yes. Okay, tapi... Aku takut sebab kadang-kadang Malaysia ni, kita suka hype. Dia mungkin dapat award semua Tapi kita pun letak junior Nobel But it's actually not Nobel From Nobel Foundation But this is from Nobel Foundation Okay So, suruh dia lah bertanding dekat Teluk Intan nanti. Ganti
 
-[2:21:24] Speaker 4: dengan komik. Lawan dengan komik.
+[2:21:24] Farhan (Pa'an): dengan komik. Lawan dengan komik.
 
 [2:21:28] Farhan (Pa'an): Sorry,
 
@@ -347,7 +347,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:21:28] Farhan (Pa'an): baik. Err... antara kita nak pakai platform ni lah come back and serve
 
-[2:21:35] Speaker 4: kot minta dia datang balik and Siapa yang nak minta dia datang balik ni? Tak, kita buat pelawaan yang terbuka. Why would she come back? That's a good question. Kalau saya jadi dia, saya tak datang balik.
+[2:21:35] Farhan (Pa'an): kot minta dia datang balik and Siapa yang nak minta dia datang balik ni? Tak, kita buat pelawaan yang terbuka. Why would she come back? That's a good question. Kalau saya jadi dia, saya tak datang balik.
 
 [2:21:46] Rafizi: Not so much about tak suka Malaysia ke apa. And this is challenge kita lah. Hmm... And that's the reason lah contohnya lah kalau nak cerita. That's the reason kenapa dulu aku buat engineering kan, electronic engineering. That's part of the reason kenapa aku kemudian kerja swing tukar jadi charter accountant. Sebab kalau you want to pursue research semua ni yang high level semua ni kan frontier work kan Especially dalam engineering Mana ada kerja kat Malaysia So you balik kat Malaysia masa tu I was looking like alamak yang ada lab berapa je and then it doesn't pay. Lepas tu bukan ke mana sangat pun. Kalau jadi electronic engineer, balik-balik kerja kehilang. Tak apalah kan. So to be fair to her lah, I mean she's helping humankind dengan her research and the breakthroughs she make kan. Kalau dia balik kat Malaysia as biomedical engineer, dia nak kerja kat mana? Untuk jujur dengan dia. Ugi lah. Ya tak? Hmm
 
@@ -365,7 +365,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:28:19] Haziq: Menarik YB Tiap-tiap minggu Boleh bagi satu homework Dekat satu menteri Haa Boleh boleh boleh
 
-[2:28:24] Speaker 4: Tapi
+[2:28:24] Farhan (Pa'an): Tapi
 
 [2:28:25] Haziq: Super bagi homework Dia bukan layan pun Haa Ok baik YB Soalan yang terakhir YB Haa Dari Nandi ni YB Bila kita nampak kes suami isteri Di penjara sehari dan denda Kerana curi barang kurang RM100 Ramai bandingkan dengan kes rasuah juta-juta Yang nampak lebih ringan Dari perspektif reform sistem keadilan Apa yang patut dirombak Untuk elak rasa kelas bawah dihukum Kelas atas dilindungi
 
@@ -381,14 +381,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:37:31] Haziq: Tak ada dah Alhamdulillah Itu
 
-[2:37:33] Speaker 4: je lah kot 2 jam 35 Selamat bercuti Selamat
+[2:37:33] Farhan (Pa'an): je lah kot 2 jam 35 Selamat bercuti Selamat
 
 [2:37:37] Rafizi: Tapi minggu depan kami tetap ada lah Ya baik Dia orang Dia orang minta Supaya minggu depan tak ada Tak boleh Tiap minggu kena ada So Minggu depan walaupun cuti Cuti Satu hari selepas Christmas eh Ya Kita tetap bersiaran Boxing day Boxing day Kau boxing apa Boxing day
 
-[2:37:57] Speaker 4: Yelah
+[2:37:57] Farhan (Pa'an): Yelah
 
 [2:37:58] Rafizi: I know But what do
 
-[2:37:58] Speaker 4: you box You don't celebrate Christmas Tak tak Kita box yang beria
+[2:37:58] Farhan (Pa'an): you box You don't celebrate Christmas Tak tak Kita box yang beria
 
 [2:38:05] Haziq: Okay Not a good idea Kita balik dulu, Amy. Itu saja. Bye.

@@ -16,11 +16,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 # Raw Transcript
 
-[02:22] Speaker 1: Assalamualaikum
+[02:22] Haziq: Assalamualaikum
 
 [02:23] Haziq: dan selamat datang Podcast Yang Berhenti Menteri Episod ke-21 Bersama YB Rafizi Minggu ni tak ada salam-salam dengan Arud Tak ada, dah tak ada YB Saya dah bertobat Tapi kita ada seorang lagi Tetamu istimewa kita Pada malam ini Yang misteri tapi dah diteka dengan tepat oleh Yalah korang pakai gambar dia
 
-[02:43] Speaker 3: Obviously orang boleh teka lah Tak minta gambar ni
+[02:43] Rafizi: Obviously orang boleh teka lah Tak minta gambar ni
 
 [02:46] Haziq: Tak lain tak pakai Tak letaklah gambar lain kan Barulah misteri Dato' Dr. Rais Hussin How are you Dato' Alhamdulillah thank you For having me Jadi Dato' Dr. Rais Hussin Adalah ex kepada Ahli Bersatu Supreme Council
 
@@ -34,9 +34,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [08:25] Dr. Rais Hussin: beritahu? Masa itu saya banyak berbincang dengan Izzah juga. Saya ingat di hospital pantai, semasa isteri saya masih di hospital, sedang menghantar bayi, ada kedai kopi tertentu di pantai, Zainis Starbucks. Jadi di sana, kami menghabiskan kira-kira dua jam, berbincang tentang jalan ke depan PM lagi. Kenapa? Kerana saya kata itu satu-satunya cara untuk membawa Datuk Seri Anwar, padan, proses ini, semua itu. Masa itu. Sebab masa itu, kita... DAP tidak mahu menerima Tan Sri Muhyiddin sebagai pilihan PM, jika anda ingat dengan betul, Raf. Tetapi pada masa itu, ini adalah satu-satunya penyelesaian yang kita ada. Dan kemudian, hari seterusnya atau hari seterusnya, Nurul pergi ke... Izzah pergi ke London untuk berbincang tentang itu. Jadi perjanjian perjalanan itu pada Julai 14, 2017. Tak boleh lupa kerana hari seterusnya anak-anak saya lahir. Dan pada malam itu, sampai tengah malam itu, bergaduh di pejabat PKR punya pejabat itu oleh semua orang. Dan Tun Mahathir kata, Ruk, jika itu keadaan, kita akan meninggalkan. Salahuddin Arwah, jika anda ingat dengan betul, dia terbang. Dia kata, tak boleh macam ni. He went little bit, you know. Tak boleh macam ni. We need to do this. Then I ask, Masjid, if you remember, can you give us 15 minutes, 30 minutes break? We'll come up with the agreement. So masa itu, Raf brought up an agreement, I brought up an agreement. And dalam agreement tu, adalah banyak yang sebelah ni lebih focus on Dato' Seri Anwar, if you remember correctly, if you don't mind, truthfully kan, in my agreement, Semua yang Raff sebutkan, Padan, Transition, apa semua itu ada sebutkan. Ada dalam ini tapi kita juga fokus sedikit pada apa nama ini, banyak pada Malaysia. Kenapa? Pertimbangan saya adalah bahawa perjanjian ini akan terbuka. Di Malaysia, semuanya terbuka. Jadi saya tahu ia akan terbuka. Jadi itulah sebabnya kami menyarankan itu. Jadi Raff berusaha untuk menetapkan 24 bulan. Saya berkata, jangan menetapkan 24 bulan. Saya
 
-[10:46] Speaker 1: tidak tahu apa 24 bulan itu. 2 tahun. Oh, release of Datuk Seri
+[10:46] Speaker ?: tidak tahu apa 24 bulan itu. 2 tahun. Oh, release of Datuk Seri
 
-[10:50] Speaker 1: Anwar. No, no.
+[10:50] Rafizi: Anwar. No, no.
 
 [10:52] Dr. Rais Hussin: Become the PM. Oh, ya, ya. I
 
@@ -64,15 +64,15 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [15:19] Rafizi: Tak, dia adalah dekat timeline. Timeline. Dia keluar tapi saya tak adalah follow sangat. Dia duduk bergaduh dengan Jojo. Ya. Ini pasal Muatai. Muatai, betul. Saya tak tahulah.
 
-[15:29] Speaker 3: Kan salah-salah sebut, esok dia ada kat ofis aku ajak bergaduh. Letih orang. I think the rule of thumb is quite straightforward lah kan. Apa nama ni? Hmm. yang bawah umur yang anak ni tak boleh. Saya
+[15:29] Rafizi: Kan salah-salah sebut, esok dia ada kat ofis aku ajak bergaduh. Letih orang. I think the rule of thumb is quite straightforward lah kan. Apa nama ni? Hmm. yang bawah umur yang anak ni tak boleh. Saya
 
 [15:46] Rafizi: cuba, in my own case lah, some people mungkin suka lah dia jadi public figure, family semua. Saya, cabaran terbesar saya adalah untuk menghidupkan isteri saya dengan
 
-[15:58] Speaker 3: anak-anak. Kerana mereka berhak mempunyai kehidupan peribadi. Sebab ini adalah pekerjaan kita. Tetapi
+[15:58] Rafizi: anak-anak. Kerana mereka berhak mempunyai kehidupan peribadi. Sebab ini adalah pekerjaan kita. Tetapi
 
 [16:08] Rafizi: masyarakat kita masih belum berhati-hati. Selalunya kita tidak berhati-hati. Ini sebenarnya menyebabkan saya melanggar garis. Kerana menggunakan... Dan kalau program yang... Tuan
 
-[16:24] Speaker 3: Sensitif sangat. Itu tak apa. Ini motai dah. Budak-budak motai semua. Tapi ialah... Saya rasa ia hanya mengejutkan saya. Jadi memang
+[16:24] Rafizi: Sensitif sangat. Itu tak apa. Ini motai dah. Budak-budak motai semua. Tapi ialah... Saya rasa ia hanya mengejutkan saya. Jadi memang
 
 [16:36] Dr. Rais Hussin: semua orang
 
@@ -134,7 +134,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [27:48] Haziq: rekod ya ataupun dia kantoi. Dia rekod dan ya from rekod tu dia nampak. Tak cerdik sikit
 
-[27:56] Speaker 3: lah. Kalau orang tak clean lah nak buat ni kan. Kalau nak buat grafiti tu kena clean sikit lah.
+[27:56] Rafizi: lah. Kalau orang tak clean lah nak buat ni kan. Kalau nak buat grafiti tu kena clean sikit lah.
 
 [28:04] Dr. Rais Hussin: I never knew sticking stickers like this is a
 
@@ -146,7 +146,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [28:11] Rafizi: an offence. Because by extension kalau you boleh tampal sticker, you boleh pergi spray colour semua tu habis. Ya,
 
-[28:18] Speaker 3: ya, ya. Beria tapi kurang sikit. Hmm, kurang sikit.
+[28:18] Rafizi: ya, ya. Beria tapi kurang sikit. Hmm, kurang sikit.
 
 [28:22] Rafizi: Belum cukup. Tak clean lah, jenayah.
 
@@ -164,7 +164,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [28:52] Dr. Rais Hussin: Minister Ngah telling like that, I will speak to your editor as well. Yelah, tak... Pertama saya adalah seorang jurnalist. Saya adalah seorang jurnalist dalam sebuah kertas yang dipanggil The Sun dan kemudian Star. Sun adalah meja penyakit yang baik untuk politik. Saya bergurau. Meja penyakit. Dan sekarang, selepas itu saya berada di meja perniagaan. Jadi, banyak kali masa itu kena juga. Masa itu, di bawah era Tun Mahathir. Jadi, politik dan pemerintah adalah demigod. So banyak kena macam tu. But now because of advance of social media and so on, you buat macam tu, kena lah. But I think the good thing is that, Nga apologize. He entered the ego free zone and apologize. Kalau kadang-kadang ada menteri yang very ego full, tak nak kan. Tapi yang ni nak tutup benda ni, dia minta maaf, okey lah.
 
-[29:47] Speaker 3: Ya, saya
+[29:47] Rafizi: Ya, saya
 
 [29:48] Rafizi: ada pandangan lain sikit lah. Sebenarnya... Itu salah satu sebab kenapa orang Melayu Ada... Suspicion dengan DAP. Sebab... By the time... Ngak Kho Ming... Minta maaf kan... You tak boleh nak salahkan rakyat lah. Well, some journalists say the same thing. Yang benda tu sebenarnya superficial. Because yang keluar, attitude yang keluar masa menegur wartawan semua, I will call your editor, single out utusan semua tu. itu sebenarnya a more truthful orang kata truthful manifestation of what you think. Because it was spontaneous. Dan itu bukan perkara yang pertama kali berlaku. Jadi, dia tidak membantu kos Pakatan Harapan dengan Melayu. Jadi, kalau DAP tanya, Kenapa ada masalah, kenapa Melayu tak suka, kena hentikan benda-benda superficial macam ini. Dan sebahagian daripada sebab kenapa pengundi Melayu ada pandangan yang serong terhadap mengakomeng kerana selalunya dia terlalu superficial. Jadi kalau nak Melayu, dia Melayukan. Berpantun supaya mati semua. Because people see through gimmick yang kita buat ni. In fact, kalau kita sebagai ahli politik terlalu bergantung kepada gimmick, then you are in trouble. Kerana orang melihat yang di belakang gimmick itu kan. Jadi kalau dia bend backwards, cuba, orang kata try too hard semua, tiba-tiba keluar kejadian macam tadi. persepsi dan pandangan. Dan ini bukan orang pas, orang PN tau. Ini pengundi Melayu atas pagar. Jadi dia mungkin nampak perkara kecil kan. Dia sebut, kemudian dia buat ni. Tetapi dia tidak membantu kos Pakatan Harapan dengan pengundi Melayu lah. Yang ini yang lekat tau. Baik-baik tu. Walaupun
 
@@ -232,7 +232,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [47:32] Dr. Rais Hussin: Ataupun drag. Dan kalau kita tak setuju dengan mereka, mereka akan mengundang klausus di mana mereka mempunyai hak untuk terminasi. post tarif lagi. Then what is that reciprocity? That's what I said. Ada orang tanya lah, what do you think of this reciprocal agreement? I said, this is the most unreceivable reciprocal agreement.
 
-[47:58] Speaker 3: Baik, baik. Tak apa, nanti
+[47:58] Rafizi: Baik, baik. Tak apa, nanti
 
 [47:58] Rafizi: kita semak. Tapi ialah jawapan. Jawapannya dah ada, wey. Jawapan kementerian selalunya sangat general lah kan. Memastikan Malaysia kekal berkecuali dalam persaingan teknologi AI. Memastikan. Kita akan kata, kita. Yalah, aku pun pernah jadi menteri juga dulu kan. kita akan memastikan lah.
 
@@ -280,7 +280,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [51:45] Dr. Rais Hussin: Apa yang, macam when I was in that agency, I try to bring some changes lah. Macam dekat India. Let's take India as an example. Mereka mempunyai 1.4 juta orang. Dan mereka makan beras ini 3 kali atau 3.5 kali lebih daripada Malaysia, Malaysia yang beragam. Mula-mula mereka mempunyai gunung beragam. Lepas itu, mereka makan kua dan lain-lain. Kemudian gunung Kilimanjaro dengan yoghurt dan lain-lain. 3.5 kali lebih daripada kita. Tetapi adakah anda tahu bahawa mereka menjual 25 juta metrik setiap tahun? Dan cara dia orang buat itu bukannya very sophisticated. automation, mechanization and for IR. Itu saja. I went to the place called Telanggana dengan Haidabad, tengok mati kepala sendiri. Nak bawa masuk diorang sini, punya lapaya dengan all this bureaucracy and so on. So this is a serious issue. Very, very serious issue. Dan dulu, we talk about B40, T20 and so on. I do not know why people are still talking about B40, T20. Sebab bagi saya, when kita buat kajian di MA Research, M40 jadi M20. T20 jadi T10 Sebab After the COVID Dengan Economic Geoeconomic Journey crisis A lot of people Slide down the knee I think Ralph also have spoken before That This classification Maybe archaic And needed to be changed So I think This is a big problem This must be And if we continue To rely on Import Katakan ringgit jatuh Hmm Koyak kita And the one who's going to be hit hard Is the B70 Sebab sekarang ni saya pergi Ke grocery Dulu saya tak tengok B lah Sekarang saya tengok B lah One apa yang trolley tu Dulu sepatutnya dalam lebih kurang RM300, RM400 Sekarang ni RM700, RM800 And I ask them Eh I'm buying the same thing Kenapa ia sangat mahal? Kata Tok, saya selalu pergi ke tempat itu. Tok, harga barangan dah naik. Walaupun ia Kiwi ke, bahkan buah-buahan tempatan pun. Pisang berangan pun naik. Ini adalah isu yang sangat serius untuk pemerintah seterusnya, untuk pilihan seterusnya, seseorang yang boleh menangani keselamatan makanan ini, Kita akan mempunyai peluang yang lebih baik
 
-[54:18] Speaker 3: untuk menang. Cuma soalan ini pasal keselamatan makanan dengan
+[54:18] Rafizi: untuk menang. Cuma soalan ini pasal keselamatan makanan dengan
 
 [54:23] Rafizi: malnutrisi. Ialah bagus sebab Tan Sri Muhyiddin Bawa perkara ini difokuskan. Cuma malnutrition ni memang Malaysia kalau untuk kanak-kanak bawah 12 tahun. I think Malaysia adalah antara yang paling teruk di Asia Tenggara. Err... But saya rasa soalan ini ditanya... on the hypothesis bahawa keluarga miskin tidak mampu membeli makanan. That's basically hypothesis kan. Which is not necessarily accurate I think. Sebab kalau kita tengok dia ada faktor-faktor lain yang juga mempengaruhi sebahagiannya ialah Faktor sosioekonomi oleh kerana banyak ibu lah sebenarnya bekerja sekarang. Jadi anak-anak ni dia tak makan... Perfectly tau, lunch semua. Sebab bila ibu bapa bekerja, lepas sekolah tu, dia kena pandai-pandai sendiri. Dia tak macam zaman saya dulu, bila mak kita full time, housewife kan, makan tengah hari tu memang dia masak betul-betul, you makan nasi betul-betul tau, budak-budak. Scar and Dan juga, yalah, ada juga gaya hidup budak-budak ni, dia suka makan jajan lah, jang lah, dia makan odeng ke apa, you know, fishball lah semua kan. kalau lihat kalau ikut daerah daerah yang paling teruk bantut ni ialah Putrajaya. Putrajaya ialah household income paling tinggi di Malaysia. Jadi, sebahagian daripada sebabnya, saya rasa, ialah sebenarnya kerana gaya hidup. Jadi, kita perlu mengetahui kerana selain daripada isu kos harian hidup, harga barang mahal ini betul. Tapi kalaupun kalau kita tengok model di Putrajaya, walaupun sebenarnya pendapatan isi rumah itu lebih tinggi daripada tempat-tempat lain, tapi insiden bantut, anda tahu, mengejutkan, Paling tinggi juga di Putrajaya. So, it's... My guess is kerana kebanyakan orang di Putrajaya contohnya ialah dua-dua ibu bapa bekerja. Jadi dia habis sekolah tu and I know my son sekolah Putrajaya sebelum ni kan. Bila kita observe, dia kadang-kadang habis sekolah tu dia kena pandai-pandai sendirilah sebelum dia nak pergi sekolah agama. So it's not a proper meal. It's that bit yang lunch kena proper meal semua itu yang dia jadi double challenge. So the double burden ni bukan saja soal kemiskinan and malnutrition. double challenge to make sure that they eat exactly what they should be eating for the nutrition. Kalau tidak then you have a problem. So tapi yalah we don't hear it enough lah. Saya ingat dalam kerajaan ada je jawatan kuasa, jawatan kuasa yang bentangkan laporan semua itu tapi Saya ingat soal malnutrition ni yang lebih berminat mungkin doktor-doktor je kan. Jadi then doktor-doktor pula daripada kesihatan ke apa. Dia banyak masalah penyakit lain lagi. I mean the fact that anak-anak kita, our younger generation ni is facing malnutrition whether because of cost of living or whether because of socio-economic reason macam itu dia belum escalate ke peringkat negara lagi lah.
 
@@ -490,7 +490,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:25:45] Dr. Rais Hussin: ekstensif. Wan Fayhsal ini masih muda dan mungkin potensi penurangan suspensi dari satu tahun ke beberapa masa. Jadi, dia gantung lama mana? Satu penggal? Setahun. Mungkin, mungkin. Dan kemudian, ada perbincangan semula tentang rancangan perubahan. Dan jika saya bersatu lagi, saya akan mengatakan bahawa untuk menghadapi pilihan, pilihan yang akan datang, sama ada tahun depan atau tahun depan, anda memerlukan seseorang yang boleh memimpin kumpulan. Dan siapa yang anda lihat di pas? Jadi seseorang bercakap tentang Dr. Ahmad Samsuri, siapa yang anda lihat dalam Gerakan? Tiada siapa. Siapa yang anda lihat dalam parti lain? Siapa yang anda lihat dalam MCA? Tiada. Siapa yang anda lihat dalam MIC? Tiada. Berfikir bahawa orang-orang ini akan menyertai mereka. Dan siapa yang anda lihat dalam Bersatu? Hamzah adalah pembekal yang baik. Dia dikenali sebagai pengusaha. Tetapi di belakang, dia sangat suaf. Tetapi orang yang dapat memberikan kepimpinan Jadi saya rasa akan ada, semoga, saya tidak tahu sama ada penyelamatan adalah penyelamatan jenis Gaza atau penyelamatan yang mempunyai kekal dan mereka boleh datang ke meja dan berbincang antara diri mereka sendiri. Kami telah melakukannya. Sekarang kami tahu siapa dia, siapa dia, siapa dia. Untuk Saifuddin Abdullah, saya terkejut melihat Saifuddin. Saya mengenal dia selama lama, sejak masa universiti saya. Dia adalah pengasas di Universiti Islam ketika saya seorang pelajar di UIA dulu. Jadi saya mengenal dia selama lama. Tetapi untuk dia datang dan bercakap dengan begitu berani seperti itu, tidak ada duit, parti, kadang-kadang itu benar. Anda tidak boleh mengoperasikan parti berdasarkan hanya wang. Semasa saya berada di Perni Besatu, kita perlu memperhatikan wang kita sendiri. Saya masih ingat banyak perkara yang kita lakukan, kita menggunakan wang kita sendiri, wang saya sendiri. Kami tidak pernah suka politik laba selepas itu. Saya diadakan sebagai Ketua Ketua Ketua, tapi RM8,000 sebulan. Adakah anda tahu apa salari saya pada tahun 1997-1998? Hampir RM4 juta sebulan, bekerja untuk syarikat Kanada. Tidak ada laba. Walaupun di Meranti, saya mungkin adalah CEO yang paling murah di Malaysia kerana nilai salari. Dan kedua, apabila mereka mahu melakukan peningkatan dan bonus, saya berkata tidak.
 
-[2:28:35] Speaker 3: Cuba okey. Ia seperti, anda tahu, saya...
+[2:28:35] Rafizi: Cuba okey. Ia seperti, anda tahu, saya...
 
 [2:28:39] Rafizi: Yalah kita yang biasa dalam parti politik Kemudian biasa dengan Azmin Memahatikan Hamzah dengan yang lain semua ni kan Saya tak yakin ceasefire ni tau Okay So satu soalan pertama kan Bukan soalan pertama lah Key questionnya ialah Kenapa Hamzah... You know, Dato' Seri Hamzah dan kumpulan dia... Kenapa mereka merasakan sangat terdesak that the leadership itu mesti berubah sekarang? Because most probably because of pilihan raya. Somehow dia sangat yakin bahawa kalau Tan Sri Muhyiddin kekal memimpin bersatu, maka peluang untuk PN menang kurang. Ataupun Hamzah mungkin merasakan bahawa PN peluang untuk menang sangat tinggi jadi inilah peluang untuk menjadi PN. So either way the focus masih lagi untuk menukar kepimpinan untuk masuk PRU 16. So satu kan. Kedua, faction. I suppose Tan Sri Muhyiddin ni orang mungkinlah generally sebagai orang tua dalam parti, party founder yang lain boleh terima. But the divide di antara faction Azmin dengan Datuk Seri Hamzah tu sangat besar. And I don't know knowing Azmin ke apa. payah nak tutup kalau tutup pun sementara sementara Tan Sri Muhyiddin adalah but Hamzah akan tengok Tan Sri Muhyiddin sebagai pelindung Azmin and Azmin pun akan kata Muhyiddin is my pelindung so either way I must support Tan Sri Muhyiddin untuk berada di situ selama-lamanya which is not acceptable to Hamzah so how do you get out of this mess? Itu perkara yang sangat menarik. Baguslah aku jadi moderator, tanya soalan. Kalau tidak, aku kena jawab. Tapi,
 
@@ -504,7 +504,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:35:45] Dr. Rais Hussin: Well...
 
-[2:35:48] Speaker 3: Ya lah, you jengas my links lah betul lah kan. Sorry, I like to pull people's legs
+[2:35:48] Rafizi: Ya lah, you jengas my links lah betul lah kan. Sorry, I like to pull people's legs
 
 [2:35:54] Haziq: lah. YB cuma dalam hosting YB, YB ada kata nak sambung cerita tentang Trojan Horse. Tak payah aku dah malam
 
@@ -532,15 +532,15 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:38:17] Haziq: Sebab saya check social media, setiap hari share tujuh ke lapan tentang...
 
-[2:38:22] Speaker 3: Saya
+[2:38:22] Rafizi: Saya
 
 [2:38:23] Rafizi: ingat, semua orang duk google Mamdhani sekarang,
 
-[2:38:26] Speaker 3: semua dia dah tahu banyak lah kan. I like that kan,
+[2:38:26] Rafizi: semua dia dah tahu banyak lah kan. I like that kan,
 
 [2:38:27] Dr. Rais Hussin: the way dia punya campaign tu is... Sangat baik. Saya rasa ada sesuatu yang boleh kita pelajari.
 
-[2:38:35] Speaker 3: Cuma kita orang tak boleh rap. Kita
+[2:38:35] Rafizi: Cuma kita orang tak boleh rap. Kita
 
 [2:38:37] Rafizi: boleh rap kan. Betul. Okey kot. Okay, thank
 
@@ -554,4 +554,4 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:38:54] Haziq: Kita jumpa lagi Dato'. InsyaAllah. Kepada yang lain. Tolong share. Dan esok. Seawal 9 pagi. Datang beramai-ramai. Ke Kesum di Pandan Indah. letih ni tau. Ya memang letih YB. Tapi okey YB itu saja terima kasih Dato' terima kasih YB kita jumpa lagi minggu depan
 
-[2:39:12] Speaker 1: Selamat malam.
+[2:39:12] Haziq: Selamat malam.

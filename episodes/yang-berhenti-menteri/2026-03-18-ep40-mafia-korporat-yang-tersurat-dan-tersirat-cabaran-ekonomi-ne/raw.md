@@ -17,7 +17,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 # Raw Transcript
 
-[00:53] Speaker 1: Podcast Yang Berhenti Menteri
+[00:53] Haziq: Podcast Yang Berhenti Menteri
 
 [00:55] Haziq: Episod ke-40 sudah Assalamualaikum dan salam sejahtera Macam biasa bersama Saudara Rafizi Walaupun agak sempoi hari ini Aku sebenarnya
 
@@ -137,11 +137,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [20:06] Rafizi: Ikut suka korang. Kan banyak lagi benda kita kat Malaysia ni. Hmm... Akhirnya... Masing-masing ikut kepala masing-masing kan. Dan... Yelah saya baik lah dengan YB Kula Haa Dan Eee Eee Ini... Saya harap... Biarlah dia mengukuhkan lagi apa yang saya pernah... sebut berulang-ulang kali sebenarnya bila berada di dalam anggota pentadbiran. Maksudnya sebagai menteri, timbalan menteri, setiusnya politik pun anggota pentadbiran tau. Erm... Kita kena menghormati lah. Jadi sebab itu, kalau orang yang duduk kata, oh merajuk, meroyan semua kan, bila tak ada jawatan. Sebenarnya, duduk di dalam kerajaan itu, itu, Kalau tidak kena cara, jiwa lebih tidak tenteram. Kerana bila kita nak kena hormati keputusan kerajaan semua, ada perkara yang dia akan bertentangan dengan pendirian dan pandangan peribadi kita. Ini yang berlaku sekarang. Maksudnya saya tak nafikan langsung bahawa YB Kula ada pandangan dia mengenai perkara ini. dia terbiarlah he is entitled to his view as a politician and as a person Masalahnya apabila sebagai timbalan menteri dia hadir begini dan apapun dia kata sama ada dia kata dia hadir atas kapasiti peribadi. Maka itu dah kira melanggar satu ialah dari segi melanggar semangat collective responsibility dalam kerajaan. Keduanya ialah dia berbahaya juga kerana dia timbalan menteri di Jabatan Perdana Menteri mengenai undang-undang. Kehadiran beliau itu menunjukkan kerajaan berat sebelah. Dan seorang timbalan menteri undang-undang menunjukkan sokongan kepada orang kena tuduh di dalam sesuatu isu yang sangat eksplosif kan. Jadi pandangan saya, ingatan kepada saya jugalah di masa akan datang. Kita kena buat pilihan Maksudnya kalau kita nak menjadi seorang ahli politik yang bebas bersuara dan menzahirkan pandangan kita dalam isu-isu terutamanya yang sensitif, maka kita tak boleh jadi sebahagian daripada anggota pentadbiran. Jangan jadi menteri, jangan jadi timbalan menteri kan. Dan kita boleh bebas buat podcast seperti sekarang. Kerana bila sudah jadi menteri ataupun timbalan menteri, hatta setiap sepolitik pun, dia tak ada konsep bahawa ini pandangan peribadi saya kerana setiap tingkah laku kita itu akan diertikan sebagai mewakili ataupun melambangkan pendirian kerajaan. Jadi kehadiran beliau dalam kes ini sangat-sangat tidak membantulah. Mungkin nak score political point sendiri Saya tak Saya sebenarnya Soal nak score Political point ke Itu niat dia tu pun Saya tak nak komen Kerana Kita tak tahu For all you know Memang dia sangat-sangat rapat Dengan Arun For example Mungkin juga ia sesuatu isu yang sangat... Sensitive dan he has a very strong emotional attachment to the issue. Mungkin. Jadi saya tak tahulah kenapa kan. Jadi I take it at face value. Yang dia kata dia kenal Arun dan oleh sebab itu dia nak bagi sokongan. I take it at face value. Masalahnya yang kita tak boleh lagi ialah apabila kita jadi sebahagian daripada anggota pentadbiran. sebagai mewakili pendirian pentadbiran. Dan dalam isu-isu seperti ini, tugas kerajaan ialah to de-escalate untuk menurunkan suhu perkauman. Jadi kalau anggota pentadbiran, apapun niat kita, sama ada nak score political point ke, sama ada nak tunjuk solidarity dengan kawan ke, Apabila tingkah laku kita itu dilihat tidak membantu usaha dan tanggungjawab kerajaan untuk menurunkan suhu perkauman. Dan bagi saya itu bermasalah. Okay, bye. Next, kita ada lagi... Di Terengganu. Ini nak balik. Aku tak dapat duit raya ke? Sebagai rakyat Terengganu. Mungkin banyak lambat. Yang ini, chairman ni menteri besar lah. Chairman menteri besar lah. Chairman menteri besar, director ni mesti ex-co. Ex-co. Jadi chairman dapat RM10,000, director RM6,000. Kaki tangan dapat sepuluh bulan. Jadi kita nak kata beria. Oh beria bagi duit raya kepada MB. Kepada MB. Yang inilah sebenarnya kan. Saya kadang-kadang baik yang walaunnya ke, yang walanunnya ke, yang caplosnya ke kan. Sebenarnya Yang selalu kena padan muka di Malaysia Ini ialah geng-geng yang ini Walaun ke Walanon ke Ceplos ke Oh sepau matilah Bergalang nyawa Ingat Dulu kalau tahun 2009 Dulu kan Penyokong PAS Bila kerajaan Pakatan Rakyat di Perak masa itu jatuh. Dan Menteri Besar Datuk Seri Nizam masa itu jatuh kan. Dia punya emosi dan attachment dia sampai dia sanggup tidur atas jalan untuk stop kereta kan. Itu sebenarnya ketaksuban penyokong-penyokong kan. Yang paling untung ialah pemimpin-pemimpin Sebab itu dia mati-matian dia nak menang
 
-[25:15] Speaker 1: Kerana bila menang dia
+[25:15] Rafizi: Kerana bila menang dia
 
 [25:17] Haziq: jadi menteri besar Gaji Menteri Besar Terengganu pun
 
-[25:23] Speaker 1: memang antara yang paling
+[25:23] Speaker ?: memang antara yang paling
 
 [25:23] Haziq: tinggi dah sekarang pun
 
@@ -161,7 +161,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [35:20] Haziq: kes Bloomberg ni lah kan, saya tak tahu orang lain lah kan. Tapi sebahagian daripada
 
-[35:30] Speaker 1: kita dah biasa dengan Bloomberg ni lama. nombor satu dunia nak tengok harga minyak tengok blumber nak tengok harga saham tengok blumber semua blumber kan daripada tahun 2010 lagi
+[35:30] Speaker ?: kita dah biasa dengan Bloomberg ni lama. nombor satu dunia nak tengok harga minyak tengok blumber nak tengok harga saham tengok blumber semua blumber kan daripada tahun 2010 lagi
 
 [35:38] Haziq: daripada cita 1MDB lagi tengok blumber kan Dan betul lah, belum ber, ada masa dia sokong, ada masa dia tak sokong. Ada masa dan masa saya jadi Menteri Ekonomi dulu pun kadang-kadang aku nak cekik juga. Kita nak suruh dia fokus ataupun laporkan perkara-perkara yang baik. Dia duduk sibuk tanya bila nak buat subsidi, bila nak buat subsidi, bila nak hapus subsidi. Contohnya kan. Tapi kita tak boleh nak marah hati lah kerana dia ada tanggungjawab dia dan dia ada kredibiliti dia. Sama macam yang orang katalah sebahagian daripada kita ni tak berubah yang berubahnya PKR. Dia sama juga dalam kes ni. Bloomberg tak berubah daripada
 
@@ -343,4 +343,4 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:17:03] Haziq: balik lah Ini buatan usiapan Raya YB tahun ni lah Yang akan keluar nanti Okay Itu sahaja Selamat Raya Selamat Raya Oh kereta
 
-[2:17:09] Speaker 1: elok-elok Okay bye Assalamualaikum Assalamualaikum
+[2:17:09] Speaker ?: elok-elok Okay bye Assalamualaikum Assalamualaikum
