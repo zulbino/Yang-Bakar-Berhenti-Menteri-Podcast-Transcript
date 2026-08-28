@@ -11,6 +11,7 @@ view_count: 272727
 hosts:
 - Rafizi
 - Haziq
+- Farhan (Pa'an)
 guests: []
 topics:
 - Wildlife smuggling (python gallbladders, Johor)
@@ -33,23 +34,23 @@ topics:
 - Papa Gomo police case and PMO involvement
 - Upcoming PKR/Tangkap Azam Baki rally announcements
 summary: In episode 44 of the Podcast Yang Berhormat Menteri, Rafizi Ramli and co-host
-  Haziq open with the lighthearted "Beria" segment, mocking a range of viral news items
-  — python gallbladder smuggling in Johor, Azam Baki's widely-mocked "financial advice"
-  and the tactical squad now protecting him, an AI-generated meme linking Rafizi to
-  Anwar's election seats and Ong Kian Ming's remarks, Rosmah Mansor's RM443 million
-  jewellery seizure and her "I'm an influencer, I was just given samples" court defence,
-  Anwar's "you thought working for government is easy" remark at the PKR Terengganu
-  convention, and PAS MP Ahmad Syahir's cryptic "what colour shirt will I wear" social
-  media post. The show then shifts to a deep dive into a Bloomberg report on TURAP,
-  a new foreign-worker recruitment platform being developed by Bestinet's Aminul Islam
-  ("Amin Bangla"), which Rafizi argues risks creating a private monopoly over Malaysia's
-  multi-billion-ringgit foreign worker levy/permit ecosystem, potentially sidelining
-  reforms (MTLM levy tiering, Akademi Dalam Industri, NETA-linked labour targets)
-  that Rafizi had pushed as former Economy Minister; he criticises Human Resources
-  Minister Ramanan Ramakrishnan's handling and questions why predecessor Steven Sim,
-  who reportedly objected to the same plan, has stayed silent. Rafizi then explains
-  Malaysia's National Energy Transition Roadmap (NETA) — subsidised fuel dependency,
-  the "energy trilemma," moving from IPP quota systems to willing-seller-willing-buyer
+  Haziq open with the lighthearted "Beria" segment, mocking a range of viral news
+  items — python gallbladder smuggling in Johor, Azam Baki's widely-mocked "financial
+  advice" and the tactical squad now protecting him, an AI-generated meme linking
+  Rafizi to Anwar's election seats and Ong Kian Ming's remarks, Rosmah Mansor's RM443
+  million jewellery seizure and her "I'm an influencer, I was just given samples"
+  court defence, Anwar's "you thought working for government is easy" remark at the
+  PKR Terengganu convention, and PAS MP Ahmad Syahir's cryptic "what colour shirt
+  will I wear" social media post. The show then shifts to a deep dive into a Bloomberg
+  report on TURAP, a new foreign-worker recruitment platform being developed by Bestinet's
+  Aminul Islam ("Amin Bangla"), which Rafizi argues risks creating a private monopoly
+  over Malaysia's multi-billion-ringgit foreign worker levy/permit ecosystem, potentially
+  sidelining reforms (MTLM levy tiering, Akademi Dalam Industri, NETA-linked labour
+  targets) that Rafizi had pushed as former Economy Minister; he criticises Human
+  Resources Minister Ramanan Ramakrishnan's handling and questions why predecessor
+  Steven Sim, who reportedly objected to the same plan, has stayed silent. Rafizi
+  then explains Malaysia's National Energy Transition Roadmap (NETA) — subsidised
+  fuel dependency, the "energy trilemma," moving from IPP quota systems to willing-seller-willing-buyer
   solar deals, TNB's shift to wheeling charges and battery storage investment — framing
   his tenure as "substantive" rather than "performative" politics, with historical
   asides on Churchill, Deng Xiaoping, Lincoln and Mamdani. The episode closes with

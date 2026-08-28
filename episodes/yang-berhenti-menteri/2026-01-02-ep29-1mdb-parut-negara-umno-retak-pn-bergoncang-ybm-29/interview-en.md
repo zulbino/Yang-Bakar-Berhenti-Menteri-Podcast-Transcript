@@ -9,6 +9,7 @@ duration: 2h 56m
 view_count: 186784
 hosts:
 - Rafizi
+- Haziq
 - Farhan (Pa'an)
 - Iqbal
 guests: []

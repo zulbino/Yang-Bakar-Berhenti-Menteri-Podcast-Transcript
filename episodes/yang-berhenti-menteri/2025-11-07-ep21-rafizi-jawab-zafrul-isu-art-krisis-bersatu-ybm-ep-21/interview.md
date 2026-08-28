@@ -9,6 +9,7 @@ duration: 2h 39m
 view_count: 44888
 hosts:
 - Rafizi
+- Haziq
 guests:
 - Dr. Rais Hussin
 topics:

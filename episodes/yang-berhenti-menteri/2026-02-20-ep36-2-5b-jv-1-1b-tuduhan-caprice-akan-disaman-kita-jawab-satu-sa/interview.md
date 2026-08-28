@@ -9,6 +9,8 @@ duration: 2h 38m
 view_count: 181982
 hosts:
 - Rafizi
+- Haziq
+- Farhan (Pa'an)
 guests:
 - Lee Chean Chung
 topics:

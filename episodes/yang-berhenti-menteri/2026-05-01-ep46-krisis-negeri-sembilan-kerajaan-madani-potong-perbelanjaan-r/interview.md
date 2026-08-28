@@ -10,6 +10,7 @@ duration: 3h 10m
 view_count: 199839
 hosts:
 - Rafizi
+- Farhan (Pa'an)
 - Wan Afiq
 - Amir Sahmat
 guests: []

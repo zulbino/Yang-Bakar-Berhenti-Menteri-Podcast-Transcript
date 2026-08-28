@@ -9,6 +9,7 @@ duration: 2h 50m
 view_count: 162397
 hosts:
 - Rafizi
+- Haziq
 - Farhan (Pa'an)
 guests:
 - Syuk

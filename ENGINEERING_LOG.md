@@ -26,6 +26,7 @@ Start here if something looks wrong. Find the symptom, read the section.
 | Gemini refuses the audio, or the API goes dark | [1.5](#15-prohibited_content-safety-block-on-politically-sensitive-audio), [1.15](#115-gemini-audio-verification-going-fully-dark-speechmatics-as-a-working-alternative) |
 | Rewrite is much shorter than the transcript | [2.1](#21-choosing-a-fallback-provider), [2.2](#22-claude-silently-condensing-heavily-disfluent-chunks-instead-of-fully-rewriting-them) |
 | A check keeps flagging something already judged fine | [1.21](#121-the-checklist-could-not-shrink-because-it-had-no-memory) |
+| An episode has no speaker labels at all | [1.31](#131-labelling-ep45-by-scoring-blocks-instead-of-clusters), [1.26](#126-restoring-four-episodes-and-when-a-speaker-label-is-worse-than-none) |
 | Most of an episode credited to the wrong speaker | [1.27](#127-seven-episodes-filed-rafizis-words-under-a-co-hosts-name) |
 | A person's name spelled several different ways | [1.28](#128-one-name-eight-spellings-and-why-a-nickname-was-not-a-nickname) |
 | A check reports clean but you do not believe it | [1.14](#114-a-coverage-check-that-checked-the-wrong-timestamp-and-the-content-loss-it-invented), [1.23](#123-the-drift-checker-measured-block-length-not-mistiming), [1.25](#125-a-check-that-starts-from-the-audio-and-the-wrong-suppression-it-caught) |
@@ -1418,6 +1419,9 @@ file already had. **A confident wrong label does more harm than an absent one.**
 label advertises the gap. A wrong one gets trusted, quoted, and carried into
 `interview*.md`. That is 1.25's wrong waiver again, one layer down.
 
+**Reversed on 2026-08-28, and ep45 is now labelled.** The call above was right for the
+evidence available at the time; a per-block voiceprint pass resolved it later. See 1.31.
+
 **Known limitation of restored stretches.** Local ASR's turns are far coarser
 than Gemini's -- ep26's new region averages 3,088 chars per turn against 227 in
 its verified region -- so some host questions are absorbed into long answers.
@@ -1742,6 +1746,49 @@ Adding one condition makes it safe: **the target must be a known recurring host*
 resolved and both bad cases were correctly skipped. The remaining 1,441 have two or more
 candidates fitting, so they stay generic rather than being guessed -- consistent with
 1.26's finding that an absent label advertises the gap while a wrong one gets trusted.
+
+### 1.31: Labelling ep45 by scoring blocks instead of clusters
+
+- **2026-08-28.** ep45 had been the corpus's one unlabelled episode since 1.26, on the
+  grounds that its diarization collapsed into a single cluster and naming that cluster
+  would credit Rafizi with the host's words.
+- **The wrong diagnosis first.** Asked why it could not simply be labelled, I said it
+  needed re-processing: fresh diarization, then forced alignment to cut the blocks at
+  speaker boundaries. The repo owner pushed back -- ep45 had already been rebuilt more
+  than once -- and was right. The transcript content is fine and QA is clean. Nothing
+  needed re-processing.
+
+**What actually worked: stop asking about clusters, ask about blocks.** Every previous
+speaker check took a diarization cluster and tried to name it. When the diarizer collapses,
+there is only one cluster and the question has no answer. But the *blocks* are still
+separate objects, and a block can be scored on its own by sampling several points inside it
+and embedding each. Two numbers come out of that, and they answer different questions:
+
+  - the mean similarity to each reference says **who** the block mostly is;
+  - the agreement between a block's own samples says **whether it is one voice at all**.
+
+On ep45's 33 measurable blocks that gave 10 clean Rafizi blocks, 8 that score higher
+against Farhan (Pa'an) than Rafizi, 4 whose internal samples disagree outright (self-
+agreement 0.04-0.52), and the rest Rafizi-dominant but impure. Note the large blocks land
+at 0.82-0.89 where a clean Rafizi cluster elsewhere hits 0.945-0.967 -- that gap is the
+host speech folded into them, visible as a number.
+
+**It also corrected a standing assumption.** Every earlier note on ep45 treated its
+co-host as unidentified. He is **Farhan (Pa'an)**: the eight interviewer-shaped turns
+("Tapi saya nak tanya YB", "Sekejap, saya ada soalan lagi") score 0.71-0.85 against his
+voiceprint and 0.12-0.39 against Haziq's.
+
+**The decision, which was the owner's to make.** Labelling all 49 blocks knowingly accepts
+one error: `[00:44]` opens with the host's greeting before Rafizi replies, and is labelled
+Rafizi. That is the same coarse-block artifact every other episode carries -- ep58's Rafizi
+block contains "bersama saudara Rafizi Ramli" -- so the choice was between one file that is
+uniquely unattributed and one that is inconsistent with the corpus in a documented,
+understood way. The owner chose consistency.
+
+**The general lesson.** 1.26's rule stands: do not put a confident wrong label on a real
+person. But "we cannot name this cluster" is not the same as "we cannot attribute this
+episode", and for two sessions those were treated as the same sentence. When cluster-level
+diarization fails, drop to the block and ask again.
 
 ## Rewrite, translate and metadata stage
 

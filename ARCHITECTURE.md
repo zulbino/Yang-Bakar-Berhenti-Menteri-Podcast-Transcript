@@ -147,6 +147,11 @@ python scripts/verify_speaker_voiceprint.py --all-suspect
 # Is one label hiding two voices?
 python scripts/verify_speaker_voiceprint.py --episodes ep42 --per-block "Zikri Kamarulzaman"
 
+# No labels at all, because diarization collapsed? Score the blocks, not the clusters
+# (1.31) -- mean similarity says who a block mostly is, and the agreement between a
+# block's own samples says whether it is one voice at all.
+python scripts/verify_speaker_voiceprint.py --episodes ep45 --per-block Rafizi
+
 # Apply the rename. A swap needs a single pass, which is the whole point of this tool
 python scripts/relabel_speakers.py ep36 "Cincong=Rafizi" "Rafizi=Cincong" --dry-run
 ```
@@ -241,6 +246,16 @@ panelists) keeps their full name as the label.
 The `hosts` and `guests` frontmatter fields carry the **fullest** form of a person's
 name, since they are metadata about who took part.
 
+**`hosts` records who took part, not who got a label.** A cast member is often plainly
+present and still unlabelled, because a coarse block swallowed his interjections. The
+field is metadata about participation rather than a transcript label, so it goes on
+dialogue evidence, held to a deliberate bar: direct address ("Haziq, aku cabar kau"), or a
+reference to what the person said earlier in *that* episode ("yang Haziq sebut tadi"). A
+passing third-person mention is not enough, and absence is recorded just as carefully --
+ep46 and ep50 say outright that Haziq was away ("Haziq tak ada so kita cover lain lah"),
+which is exactly where the stand-ins appear. The per-episode calls live in
+`PRESENT_UNLABELLED` in `data/_roster.py`, each with the line that justifies it.
+
 **A speaker label names the person, so it uses their real name even when the show only
 ever uses a nickname.** ep36's guest is called `Cincong` throughout the audio and is
 labelled `Lee Chean Chung`. Words spoken inside the dialogue are never touched to match:
@@ -298,6 +313,13 @@ same separator on the way back out as the way in.
 
 ## Known limitations
 
+- **20 episodes have a cast member present with no speaker label.** Coarse blocks absorb
+  short interjections, so the speech ends up inside someone else's turn and the leftover
+  generic clusters are 0.0-2.4 minutes, too short to carry it. The `hosts` field records
+  these people anyway (see the naming convention above); what is still missing is the
+  block-level attribution, which needs blocks split at speaker boundaries as ep45's were
+  (1.31). **Careful if automating: ep60 contains two different Farhans** -- the co-host,
+  and a politician described as "anak emas Dato' Seri Anwar".
 - **1,366 speaker labels in `interview*.md` are still generic**, across 35 episodes:
   `Host`, `Speaker 1`/`2`/`3`, `Interviewer`, `Pengacara` and bracketed variants.
   The rewrite stage invented these where `raw.md` already carries a real name, so the
