@@ -30,7 +30,7 @@ topics:
 - Speculation on which seat Anwar Ibrahim will contest next
 - PKR/PH internal political strategy, voter sentiment, and self-inflicted controversies
 - Rafizi's advice to aide James Chai to consider entering politics
-summary: 'In episode 47 of Podcast Yang Berhormat, host Pa'an catches up with Rafizi
+summary: 'In episode 47 of Podcast Yang Berhormat, host Pa''an catches up with Rafizi
   Ramli covering the week''s political ''beria'' (fired-up) moments: Nurul Izzah''s
   ''good cop bad cop'' sympathetic statement about Rafizi''s SPRM probe contrasted
   with Anwar''s harsher tone; UMNO Youth vs DAP Youth sparring over resignations in

@@ -12,6 +12,8 @@ Arkib ini merangkumi episod penuh sepanjang satu jam atau lebih. Ia meninggalkan
 
 > Transkrip dan tulisan semula ini dihasilkan oleh model AI. Saya menyemaknya pada bahagian-bahagian terpilih berbanding rakaman asal, tetapi saya tidak menyemak mana-mana episod baris demi baris. Sila baca [nota ketepatan](#nota-ketepatan) sebelum anda memetik apa-apa daripada arkib ini.
 
+**[Lihat kesemua 67 episod](EPISODES.md)** — tarikh, tetamu, tempoh, dan pautan terus ke setiap transkrip.
+
 Untuk aliran kerja itu sendiri, lihat [ARCHITECTURE.md](ARCHITECTURE.md) (dalam Bahasa Inggeris). Untuk setiap kegagalan yang saya hadapi semasa membinanya, lihat [ENGINEERING_LOG.md](ENGINEERING_LOG.md) (dalam Bahasa Inggeris).
 
 ## Kenapa arkib ini wujud
@@ -33,6 +35,7 @@ episodes/
 data/
 └── manifest.json                        # indeks episod (metadata sahaja, tiada teks transkrip)
 scripts/                                 # kod pipeline, lihat ARCHITECTURE.md
+EPISODES.md                              # indeks kesemua 67 episod, pautan ke setiap fail
 ARCHITECTURE.md                          # teknologi: persediaan, arahan, pengesahan
 ENGINEERING_LOG.md                       # setiap kegagalan, puncanya dan pembetulannya
 CREDITS.md                               # model pihak ketiga, lesen, petikan

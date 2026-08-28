@@ -12,6 +12,8 @@ This archive covers full episodes of an hour or more. It leaves out short teaser
 
 > An AI model produced these transcripts and rewrites. I spot-checked them against the source recordings, but I have not checked any episode line by line. Please read the [accuracy note](#accuracy-note) before you cite anything here.
 
+**[Browse all 67 episodes](EPISODES.md)** — dates, guests, lengths, and direct links to every transcript.
+
 For the pipeline itself, see [ARCHITECTURE.md](ARCHITECTURE.md). For every failure I hit while building it, see [ENGINEERING_LOG.md](ENGINEERING_LOG.md).
 
 ## Why this exists
@@ -33,6 +35,7 @@ episodes/
 data/
 └── manifest.json                        # episode index (metadata only, no transcript text)
 scripts/                                 # pipeline code, see ARCHITECTURE.md
+EPISODES.md                              # index of all 67 episodes, links to every file
 ARCHITECTURE.md                          # the stack: setup, commands, verification
 ENGINEERING_LOG.md                       # every failure found, its cause and fix
 CREDITS.md                               # third-party models, licences, citations
