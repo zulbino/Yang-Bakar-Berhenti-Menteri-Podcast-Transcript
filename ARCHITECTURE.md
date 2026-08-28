@@ -166,7 +166,7 @@ skipping these silently undoes work:
 ```bash
 python scripts/rebuild_roster.py --write            # hosts/guests, incl. presence calls
 python scripts/normalize_speaker_labels.py --write  # short-name convention in the bodies
-python scripts/build_episode_index.py               # EPISODES.md
+python scripts/build_episode_index.py               # episode tables in both READMEs
 python scripts/qa_check.py                          # then read QA_CHECKLIST.md
 ```
 

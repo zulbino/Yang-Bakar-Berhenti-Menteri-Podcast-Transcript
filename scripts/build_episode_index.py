@@ -1,14 +1,15 @@
-"""Regenerate EPISODES.md, and the episode tables inside both READMEs, from frontmatter.
+"""Regenerate the episode tables inside README.md and README.ms.md from frontmatter.
 
-The index exists for two reasons. It gives a reader one page listing every episode, and
-it gives crawlers a path to the transcripts: GitHub's robots.txt blocks `/*/tree/` and
-`/*/raw/` but not `/*/blob/`, so a folder listing is not crawlable while these links are.
+The tables are written between marker comments rather than pasted in, because a
+hand-copied 67-row table goes stale the first time an episode changes and nothing would
+catch it. Moving the markers moves the section; deleting them makes the next run append
+it at the end.
 
-THE SAME TABLES ARE INJECTED INTO README.md AND README.ms.md, between marker comments, so
-a visitor sees the full list on the page they land on without following a link. They are
-generated rather than pasted for the obvious reason: a hand-copied 67-row table goes stale
-the first time an episode changes and nothing would catch it. If the markers are absent
-the section is appended, so deleting the block is enough to move it.
+THE ROW LINKS MUST STAY /blob/ LINKS. That is the whole reason a table exists at all:
+GitHub's robots.txt blocks `/*/tree/` and `/*/raw/` but not `/*/blob/`, so a folder
+listing is not crawlable while these links are. This used to live in a separate
+EPISODES.md, removed once the READMEs carried the same table -- keeping both meant two
+places to drift.
 
 Guests come from the `guests` frontmatter, which `scripts/rebuild_roster.py` derives from
 the `raw.md` speaker labels (it used to be a `data/_roster.py` scratch file, promoted in
@@ -25,7 +26,6 @@ from pathlib import Path
 
 NL = chr(10)
 ROOT = Path(__file__).resolve().parent.parent
-OUT_PATH = ROOT / "EPISODES.md"
 SERIES = [
     ("yang-berhenti-menteri", "Yang Berhenti Menteri",
      "{n} episodes, 2025 rename onward.", "{n} episod, dari penamaan semula 2025."),
@@ -135,35 +135,6 @@ def inject_into_readme(filename):
 
 
 def main():
-    blocks, total = [], 0
-    for series_dir, heading, blurb, _ in SERIES:
-        rows = episode_rows(series_dir)
-        if not rows:
-            continue
-        total += len(rows)
-        blocks.append(f"## {heading}\n\n{blurb.format(n=len(rows))}\n\n"
-                      "| Ep | Date | Title | Length | Hosts | Guests | Transcripts |\n"
-                      "|---|---|---|---|---|---|---|\n" + "\n".join(rows))
-
-    header = (
-        "# Episode index\n\n"
-        "Every episode, newest first, with direct links to all four transcript files.\n\n"
-        f"{total} episodes. `raw` is the close-to-verbatim transcript,\n"
-        "`mixed` keeps the original code-switched English and Bahasa Melayu, and `EN` / `MS` are\n"
-        "the full translations. See the [README](README.md) for what each file is, and the\n"
-        "[accuracy note](README.md#accuracy-note) before citing anything.\n\n"
-        "Rafizi hosts throughout. Haziq and Farhan (Pa'an) are the regular co-hosts, and\n"
-        "Iqbal, Wan Afiq and Amir Sahmat stood in on the episodes where a regular could not\n"
-        "make it. The Guests column lists guests only, never the cast.\n\n"
-        "This column reports what each transcript actually names, so it under-reports rather\n"
-        "than guesses. Where it shows Rafizi alone, a co-host is usually present in the audio\n"
-        "but was never named in that episode; where it is empty, that episode carries no\n"
-        "speaker labels at all, because its diarization collapsed and a wrong name would have\n"
-        "been worse than none. Both cases are covered in\n"
-        "[ARCHITECTURE.md](ARCHITECTURE.md#known-limitations).\n")
-
-    OUT_PATH.write_text(header + "\n" + "\n\n".join(blocks) + "\n", encoding="utf-8")
-    print(f"wrote {OUT_PATH.relative_to(ROOT)}: {total} episodes")
     for name in README_TEXT:
         print(f"wrote {name}: {inject_into_readme(name)} episodes inlined")
 
