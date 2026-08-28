@@ -348,13 +348,20 @@ def unlabelled_roster_members(ep_dir, body, duration):
     people = roster(ep_dir, "hosts") + roster(ep_dir, "guests")
     if not people:
         return []
-    totals, _ = label_seconds(body, duration)
+    totals, marks = label_seconds(body, duration)
     total = sum(totals.values()) or 1
     missing = []
     for person in people:
         first = person.split()[0].lower().strip("'")
         held = sum(sec for label, sec in totals.items() if first in label.lower())
-        if held == 0:
+        # Count TURNS, not seconds. label_seconds measures the gap to the next stamp, so
+        # a label whose every turn is shorter than the one-second stamp resolution
+        # measures as exactly zero -- ep42's sole "Farhan (Pa'an): tahulah" at [2:13:12]
+        # is followed by another turn at [2:13:12]. Reporting that as "no label at all"
+        # is a different and false claim, and one turn is a small share, which this check
+        # deliberately does not fire on.
+        turns = sum(1 for _, label in marks if first in label.lower())
+        if turns == 0:
             missing.append((person, held, 100 * held / total))
     return missing
 

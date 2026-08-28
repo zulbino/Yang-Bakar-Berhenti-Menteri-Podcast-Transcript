@@ -1882,6 +1882,33 @@ already sitting in ep42's and ep55's `guests:` from the previous session's manua
 application. Added to `rebuild_roster.py`'s `DROP` pattern alongside `overlapping
 speaker`. Any new non-person label needs the same treatment.
 
+### 1.34: The two attribution checks, and the two ways the second one misfired
+
+- **2026-08-28.** QA reported the corpus clean at 0/67 while ep45 held a 41-minute block
+  labelled with one name. Two signatures were added, and honest counts followed: 28/67,
+  then 12/67 as the fixes landed.
+  - `oversized-block` -- any block over `MAX_BLOCK_SECONDS` (1200), **counted regardless
+    of how many labels the file carries**. The previous rule required a suspicious label
+    distribution as well, which is precisely what a collapsed cluster does not have.
+  - `unlabelled-host` -- a roster member whose own label holds none of the transcript.
+    Compares on the first name token, since ep08 labels the principal "YB Rafizi" and an
+    exact compare would report him missing.
+
+**A share threshold cannot express this check; only zero can.** Firing at under 1% flagged
+ep33 and ep49, where Farhan's turns are complete coherent questions inside well-diarized
+episodes of 447 and 316 blocks -- he is the producer and is genuinely quiet. It then
+flagged ep44's Farhan at 0.9% immediately after the owner had confirmed that exact label
+from the video. Quiet is not the same as absent, and no percentage separates them.
+
+**Zero seconds is not zero turns, and the difference is a false claim.** `label_seconds`
+measures each turn by the gap to the next timestamp, so a label whose every turn is
+shorter than the one-second stamp resolution measures as exactly 0. ep42's sole
+`[2:13:12] Farhan (Pa'an): tahulah` is followed by another turn at `[2:13:12]`, so a
+present, correct, owner-consistent label was reported as "no label at all". The check now
+counts turns. **A derived measurement standing in for a raw one will eventually round a
+real value to the sentinel that means absent** -- the same shape as the circular waiver
+this whole audit started from, where an artefact was used as evidence about itself.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider
