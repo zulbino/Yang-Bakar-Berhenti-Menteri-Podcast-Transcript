@@ -198,7 +198,7 @@ But you and I know, the views of the public out there will differ. The public wi
 
 But they'll go ahead, they'll use the excuse that the party has interpreted the Pandan MP as having declared his resignation from the party. Because he has declared his resignation from the party, that has already met the requirement under the Anti-Party Hopping Act, and therefore the Pandan parliamentary seat is vacated. Round of applause.
 
-**Host:** Clap, clap, clap. YB, since there's nothing more to add, maybe I'll extend this issue a bit to the public's choice. Maybe some are asking, when things have gotten this bad — in a situation where they might not like PH but don't want to vote for PN — what alternative do the public ultimately have? I'm bringing this up in conjunction with YB's statement about preparing for... selling ownership.
+**Haziq:** Clap, clap, clap. YB, since there's nothing more to add, maybe I'll extend this issue a bit to the public's choice. Maybe some are asking, when things have gotten this bad — in a situation where they might not like PH but don't want to vote for PN — what alternative do the public ultimately have? I'm bringing this up in conjunction with YB's statement about preparing for... selling ownership.
 
 **Co-host:** Like...
 
@@ -220,11 +220,11 @@ I think we are now nearly at the same stage. Meaning, if there are voters who fe
 
 Reporters keep busy asking whether I'm this "great traitor to the nation" figure — oh, that's related to a letter that... that's not a media statement.
 
-**Host:** Media statement. Media. Alright. Okay, let's move to the next topic — welcome back to our guest. This issue is at the center of attention right now: Tan Sri Azam Baki is under increasing pressure, and we've heard recently that DAP has already spoken out demanding an RCI be established. So if I may ask, YB, at the recent "Turun Azam Baki" rally, you yourself said that if DAP speaks, the Prime Minister will listen. So if we look at DAP's reactions, there have been many — not just one, from many Members of Parliament and also official statements from ministers, they've come out with statements on behalf of the party. So in your observation, YB, is this having an effect or not?
+**Haziq:** Media statement. Media. Alright. Okay, let's move to the next topic — welcome back to our guest. This issue is at the center of attention right now: Tan Sri Azam Baki is under increasing pressure, and we've heard recently that DAP has already spoken out demanding an RCI be established. So if I may ask, YB, at the recent "Turun Azam Baki" rally, you yourself said that if DAP speaks, the Prime Minister will listen. So if we look at DAP's reactions, there have been many — not just one, from many Members of Parliament and also official statements from ministers, they've come out with statements on behalf of the party. So in your observation, YB, is this having an effect or not?
 
 **Rafizi:** Yes, I think there is an effect. We're recording this on Friday morning, and while we're recording this, the Cabinet is also in session.
 
-**Host:** Yes.
+**Haziq:** Yes.
 
 **Rafizi:** And DAP has already stated that they are insisting that an RCI — Royal Commission of Inquiry — be established.
 
@@ -244,13 +244,13 @@ Unfortunately, this seems to be repeating itself in the Tan Sri Azam Baki case. 
 
 **Rafizi:** 1MDB was just like this before. When MPs brought motions to discuss it, the Speaker rejected them, rejected them, rejected them, some were even suspended. When the issue was first brought up by the Asian Wall Street Journal, the reaction was that this is foreign propaganda, this is meant to destabilize the government. Same thing — the reaction from the relevant agencies was the same too. All of this is true, you know, from the very start... Hmm... Eh, this is difficult — can we get rid of this phone? It won't stop. They don't understand, if I don't answer, it means I have something else going on. That's one challenge.
 
-**Host:** So they...
+**Haziq:** So they...
 
 **Rafizi:** ...popular. Very popular now. So let's see where this goes. Meaning, back during 1MDB, when those accusations first came up, the MACC — where's Tan Sri Azam Baki in all this? He's right here. Tan Sri Azam Baki is right in the middle. Please, sir, over here — tell him, that thing was indeed a donation from Saudi Arabia. And the same thing, back during 1MDB, when it first came up, the government's reaction was to go after the people who spoke up. "I have to arrest that person, that person has to be sued, DAP has to be arrested," then everyone got suspended. Now this is happening again — Dato' Seri Anwar snapping back at journalists when asked, then the Speaker not giving them a chance.
 
 That's why we've reached the stage where I think DAP itself feels that if they don't do something, they will be the ones who lose out — as I mentioned during the "Turun Azam Baki" rally. And many other things have happened — suddenly there's an investigation into a RM3.6 billion misappropriation involving me as well. That's why, after this, if I don't even have a job, it's fine, I've got RM3.6 billion.
 
-**Host:** How could you, YB, targeting one person at a time. One at a time.
+**Haziq:** How could you, YB, targeting one person at a time. One at a time.
 
 **Rafizi:** One at a time, like, "I've got RM3.6 billion, insyaAllah." Didn't even have time to finish my coffee, and there's already an investigation into a conspiracy to destabilize the government. I haven't even had the chance to comment yet, and journalists are already busy at work. So it means the same seeds are being sown, and we've been through this before during 1MDB. I don't see how Dato' Seri Anwar can get out of this.
 
@@ -260,15 +260,15 @@ What I'm not sure about now is whether Dato' Seri Anwar can defend not launching
 
 The MACC is more powerful than the police, everyone knows that — it can arrest anyone, it can freeze anyone's accounts. Nowadays most crime is white-collar crime; even organized crime syndicates need white-collar crime because they need to launder money. So if there's no confidence in the MACC, we'll be in a situation where we don't know who to trust. When the MACC arrests someone — if that politician really did take money, really is corrupt, and the MACC arrests them, but the people don't believe it because the people don't trust the MACC — that is extremely dangerous.
 
-**Host:** Okay, bye. Let's...
+**Haziq:** Okay, bye. Let's...
 
 **Rafizi:** We have 3 more segments, 3 more topics, insyaAllah 20 minutes — 20 minutes, 15 minutes, maybe short ones since we owe our audience the Gen Z topic, finally.
 
-**Host:** Alright, next. Regarding the constitutional bill on separating the Attorney General and the Public Prosecutor. If I may prompt directly, YB — if we look at the main argument from their side, it's that "oh, there won't be any involvement from politicians."
+**Haziq:** Alright, next. Regarding the constitutional bill on separating the Attorney General and the Public Prosecutor. If I may prompt directly, YB — if we look at the main argument from their side, it's that "oh, there won't be any involvement from politicians."
 
 **Rafizi:** Main argument from whom?
 
-**Host:** From the government, including the Attorney General, in the briefing with MPs — that there won't be any direct involvement by politicians in that appointment. And there are also commentators who add to that, supporting that statement — that if it's placed under parliament, there will be a lot of vested interest among politicians. So better to let it be handled by non-politicians, because if politicians handle it, that's a different story.
+**Haziq:** From the government, including the Attorney General, in the briefing with MPs — that there won't be any direct involvement by politicians in that appointment. And there are also commentators who add to that, supporting that statement — that if it's placed under parliament, there will be a lot of vested interest among politicians. So better to let it be handled by non-politicians, because if politicians handle it, that's a different story.
 
 **Rafizi:** But before that — yes, sorry, my hair has thinned out a lot, hasn't it? Oh right, Ken?
 
@@ -286,7 +286,7 @@ The MACC is more powerful than the police, everyone knows that — it can arrest
 
 What's the most important maxim here — this is what I want to share with the listeners. It's easy for us to attack MPs or politicians — "politicians are bad, politicians can't be trusted, they're corrupt, they have vested interests, all the problems in this world come from..."
 
-**Host:** ...all the problems in this world come from...
+**Haziq:** ...all the problems in this world come from...
 
 **Rafizi:** All these problems, all these problems are politicians' fault, right? We need to go back to the most important maxim: power corrupts, absolute power corrupts absolutely. It doesn't say politicians corrupt — but whoever holds power does tend to become corrupt. If that power is held by just a few people without any checks and balances, without any accountability, then the tendency for it to become more corrupt is higher.
 
@@ -308,7 +308,7 @@ That's why, to me, the argument that says "this cannot involve parliament" is a 
 
 As for the quality of MPs, that's a responsibility we all share as citizens. We need to ensure that political parties and the candidates put forward as MPs are candidates who are capable, intelligent, and of good character. The people, in turn, need to choose those who can genuinely carry out that duty — don't just follow whatever the party puts forward. People used to say "even if you put up a songkok, it would still win" — well, don't put up a songkok, don't vote for a songkok. When that happens, only then will we reach a stage of good checks and balances, only then will power be devolved accordingly to parliament. And the Public Prosecutor to be appointed needs to be careful, because his conduct will also be monitored, and parliament will have power — power whose source comes from the power and voice of the people manifested in elections.
 
-**Host:** Ehm... Maybe one more point related to this parliamentary involvement — even in this bill, MPs were informed quite briefly. The Blue Bill was only just received, and then the following week it's already set to be debated and voted on directly. But the answer given was, "oh, this process has been ongoing for 3-4 years" — who gave this answer? — that engagement on all this had already happened earlier.
+**Haziq:** Ehm... Maybe one more point related to this parliamentary involvement — even in this bill, MPs were informed quite briefly. The Blue Bill was only just received, and then the following week it's already set to be debated and voted on directly. But the answer given was, "oh, this process has been ongoing for 3-4 years" — who gave this answer? — that engagement on all this had already happened earlier.
 
 **Rafizi:** I don't think engagement with MPs happened. When we did 2-3 acts before, we really did engage for 5-6 months, and people still said that wasn't enough. But this one had no engagement at all — if there was any, it was only last week.
 
@@ -326,19 +326,19 @@ That's why I hope — I don't know what will happen next week, because so far th
 
 So based on these three groups, it seems difficult for the government to get 148, because the government currently has 152 — if you subtract our 10, that leaves 142, which makes it hard to reach 148. I'm not sure how this will proceed. I hope the government eventually accepts the views and includes the accountability component and parliament's role. Otherwise, we already have a problem — we're "buying" support after the fact.
 
-**Host:** Okay, alright, YB. Speaking of Perikatan Nasional, let's move to the second-to-last topic — regarding the Perikatan Nasional turmoil. In the end, is it resolved or not?
+**Haziq:** Okay, alright, YB. Speaking of Perikatan Nasional, let's move to the second-to-last topic — regarding the Perikatan Nasional turmoil. In the end, is it resolved or not?
 
 **Rafizi:** Try checking — Bloomberg's office was just raided, try checking whether our office is among any of those raided, because my phone hasn't stopped ringing. Hold on.
 
-**Host:** Haa.
+**Haziq:** Haa.
 
 **Rafizi:** Haa.
 
-**Host:** So as a political analyst, how would people know — actually this news is quite incomplete, it's just news that the new PN chairman has been appointed, but how that consensus was reached, whether both sides won, if any side lost what was sacrificed — none of this is publicly accessible. So if YB — not that YB has access, but please feel free to share your view.
+**Haziq:** So as a political analyst, how would people know — actually this news is quite incomplete, it's just news that the new PN chairman has been appointed, but how that consensus was reached, whether both sides won, if any side lost what was sacrificed — none of this is publicly accessible. So if YB — not that YB has access, but please feel free to share your view.
 
 **Rafizi:** I'm not in their WhatsApp group, I don't have that WhatsApp group. But I think if we look at the diagnosis, it's fairly clear. Meaning, PAS now holds full power within PN. Because of the split that occurred within Bersatu, PAS can play a divide and rule role more easily, because both factions — Tan Sri Muhyiddin and Dato' Seri Hamzah Zainuddin — both of their groups depend on PAS.
 
-**Host:** Hmm.
+**Haziq:** Hmm.
 
 **Rafizi:** So both of them want to stay on good terms with PAS, and that allows PAS to get everything. That's why so far we already know that the PN Chairman is from PAS, and the Opposition Leader will also come from PAS — it's just not yet decided who the Opposition Leader will be. I think they need to determine whether the Opposition Leader will be Dato' Tuan Ibrahim as Deputy President, or Dato' Takiyuddin as Chief Whip. This shows that at Tan Sri Muhyiddin Yassin's level, so far the political choice available is to concede 100% to PAS. Nothing left, right?
 
@@ -346,7 +346,7 @@ So based on these three groups, it seems difficult for the government to get 148
 
 **Rafizi:** Nothing, Zulfar. Okay. At the grassroots level there's nothing, it's like this at the bottom. Ha ha ha. Meaning he has to concede 100% to PAS and give PAS full face 100%, then buy time and fight another day. At the same time, Dato' Seri Hamzah Zainuddin's faction has already stated they're walking out on the new PN chairmanship. What's happening within Bersatu has reached that stage, and it gives PAS the advantage to fully divide and rule.
 
-**Host:** So people are also asking, will Dato' Seri Hamzah eventually be cast off under PAS along with his allies?
+**Haziq:** So people are also asking, will Dato' Seri Hamzah eventually be cast off under PAS along with his allies?
 
 **Rafizi:** No, I think what will happen is this — rumours say Dato' Seri Hamzah Zainuddin will join another Malay party. What I've heard is Berjasa. And if previously the Muafakat Nasional issue couldn't be pushed forward because of Bersatu's presence, especially Tan Sri Muhyiddin, since he's a Prime Minister candidate — with this situation, one possible configuration is that if Dato' Seri Hamzah and the MPs said to number 19 with him join a smaller but Malay party, for example Berjasa — that would allow them to become a bridge for UMNO and PAS to revive Muafakat Nasional. So that in the upcoming general election, UMNO, PAS and Berjasa would become a new force, and that would automatically mean Perikatan Nasional dies.
 
@@ -356,17 +356,17 @@ That's why I told Dato' Seri Anwar — whatever strategy he has, he cannot sidel
 
 Especially with the 10-year limit bill — no, the separation of powers bill — that means Dato' Seri Zahid Hamidi's position within UMNO is actually getting stronger. Why is that?
 
-**Host:** Because he hasn't become PM yet?
+**Haziq:** Because he hasn't become PM yet?
 
 **Rafizi:** Because he hasn't become PM yet, and his main rival, namely Dato' Seri Najib, even if he's granted a pardon and even if he gets out of prison, it's likely to be difficult for Dato' Seri Najib to become PM or a PM candidate. So the course is clear for Dato' Seri Zahid Hamidi now. If we were Dato' Seri Zahid Hamidi, why would we want to keep trailing behind Anwar Ibrahim forever? Especially if the situation is such that we feel BN is stronger than PH. So if we were BN, we'd want to have different options, whichever path gives Dato' Seri Zahid Hamidi the best chance of becoming Prime Minister. And that path might be Muafakat Nasional, for example.
 
-**Host:** Interesting, interesting. Let's save that commentary for another time. Let's move on to...
+**Haziq:** Interesting, interesting. Let's save that commentary for another time. Let's move on to...
 
 **Rafizi:** Is it resolved or not yet? Haven't answered yet. Resolved or not?
 
 **Co-host:** Hmmm... if Perikatan Nasional gets cut down, Muhyiddin and his gang leave, maybe it's resolved.
 
-**Host:** Going by what YB said earlier, Perikatan Nasional has already been "wrapped up."
+**Haziq:** Going by what YB said earlier, Perikatan Nasional has already been "wrapped up."
 
 **Rafizi:** If it goes straight to Muafakat Nasional, well, it remains to be seen. Meaning for now they're in a stage of euphoria — PN supporters are relieved, feeling everything's settled. But the reality is, once it's reached the stage of splitting and PAS fully dominating Perikatan Nasional, I don't think that can heal the grief — that grief runs deep. Let me give an example: why did World War II happen? Don't just blame Hitler — but why did Hitler become Hitler, why did Hitler come to exist in the first place, to the point where he was accepted by the German people?
 

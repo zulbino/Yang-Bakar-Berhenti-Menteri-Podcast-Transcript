@@ -314,11 +314,11 @@ Pertama sekali kita perlu tanya soalan ini, sebagai seorang rakyat — tolak tep
 
 **Rafizi:** Ya lah, insider trading namanya privileged information lah. Tapi kenapa? Sebab ia persaingan yang tidak adil. Persaingan yang tidak adil. Bila berlaku persaingan yang tidak adil, ada orang yang mendapat maklumat lebih awal berbanding maklumat dalaman, maka dia boleh membuat keputusan yang lebih baik, yang lebih menguntungkan dirinya berbanding orang lain. Jadi untuk mendapatkan maklumat itu, apa yang mereka lakukan? Rasuah. Jadi caranya ialah, kalau hardware itu kita tidak sentuh — itu sebenarnya bidang SPRM. Sekarang kita bercakap tentang software pula kan. Tadi ada banyak perkara yang perlu diubah mengenai software itu dan ia mestilah bergerak ke arah memastikan medan yang sama rata, dan caranya ialah dengan mengurangkan sebanyak mungkin kuasa daripada 3-4 orang, melalui mekanisme yang tidak membenarkan mereka mengawal semua itu, dan juga memastikan sekurang-kurangnya ia setelus mungkin, supaya semua orang mempunyai akses kepada medan yang sama rata. Jadi itulah konsepnya. Bagaimana ia diterjemahkan menjadi satu, dari segi tadbir urus perolehan, contohnya, dari segi projek-projek berbentuk konsesi ni — langsung tiada ketelusan. Kalau saya ada peluang, saya boleh buat, saya nak bina jambatan terbang ke Kuala Kangsar. Saya pun bawa, saya pergi jumpa, dekati, tiba-tiba perkara itu akan dipertimbangkan oleh unit kerjasama awam swasta di bawah Perdana Menteri. Diputuskan entah bagaimana, kita semua tak tahu apa-apa. Tiba-tiba, kerajaan telah membuat keputusan begini-begini. Saya dalam kerajaan pun dulu tak nampak, tiba-tiba dah sampai ke kabinet. Masa itu, begini-begini. Jadi, perkara-perkara seperti ini — semakin banyak kita menyingkap tabir dan tirai ini, semakin telus ia, maka tidak perlulah untuk menyimpan orang di kementerian-kementerian, di bahagian perolehan, tak perlu simpan sesiapa pun, sebab semua orang boleh mendapat medan yang sama rata. Itu dari segi hardware-nya kita masih belum nampak lagi lah. Saya belum yakin dan belum nampak sangat perubahan besar. Tapi kalau hardware-nya bagus, kalau software-nya bagus... ada satu lagi komponen yang amat penting yang jika tiada, risiko rasuah akan tetap tinggi — iaitu budaya. Budaya itu adalah mengikut teladan. Dan inilah yang saya rasa cabaran utama yang Dato' Seri Anwar hadapi untuk meyakinkan rakyat bahawa beliaulah pemimpin terbaik yang boleh kita berikan amanah untuk membersihkan Malaysia daripada rasuah, kerana sehingga sekarang, pada pandangan saya, rakyat tidak yakin bahawa budaya kepimpinan kerajaan dan politik itu telah berubah. Sebab itulah pandangan rakyat ialah semuanya sama sahaja. Macam itulah. Masuk siapa pun, sama sahaja. Seperti yang selalu saya sebut, kalau PAS, orang yang membawa beg itu akan memakai kopiah — orang yang sama. Kalau PKR, dia memakai suit tapi tanpa tali leher — tapi orang yang sama, mengepit-ngepit fail. Eh, mengepit-ngepit. Kalau contohnya UMNO, dia dengan cerut dia, dengan kafe mahal dan sebagainya, dengan tali leher dia semua. Jadi rakyat memang rasa apa sahaja yang masuk, sama sahaja mereka itu. Sebabnya mereka tidak nampak sebarang perubahan dari segi budaya kepimpinan di peringkat kerajaan. Jadi macam mana nak ubah budaya kepimpinan? Mula dengan kita. Mula dengan kita betul-betul. Tepat sekali. Ia mesti bermula dari atas. Sebab itu kalau ada orang cakap, "kenapa kau marah sangat kat aku ni, kenapalah kau hentam sangat Anwar Ibrahim? Kenapalah kau marah sangat kat Anwar Ibrahim?" Tidak. Saya memberi nasihat kepadanya. Kau ingat semasa aku dalam parti dulu, aku tak pernah bagi nasihat macam ini? Begini caranya aku memberi nasihat. Sebab itulah dia tidak menyukainya berlama-lama. Sebab itu saya teringat dulu semasa pemilihan 2022, Datuk Seri Anwar berkempen untuk Saifuddin kan. Dia pergi tunjuk kepada orang, "tengok ni, dia ni kasar dengan saya." Nasir, kalau dia menegur saya ini kasar, tidak menghormati saya — itulah yang dia katakan tadi.
 
-**Speaker:** Ya.
+**Rafizi:** Ya.
 
 **Rafizi:** Itulah yang dia beritahu orang. Dia pergi tunjukkan kepada seorang demi seorang.
 
-**Speaker:** Ya.
+**Rafizi:** Ya.
 
 **Rafizi:** Orang tunjukkan balik kepada saya kan? Memang betul lah saya. Saya menegur, memang begitu, minta maaflah. Bagaimana lagi saya nak menyatakannya? Kan budaya kita ni, mesejnya tidak sampai kan? Jadi, saya menegur ini kerana kita mahu dia berubah dan menjadi lebih baik, kerana dalam aspek melawan rasuah dan memerangi rasuah, ia mesti bermula daripada orang nombor satu di negara kita — iaitu Perdana Menteri. Dan mengikut keadaan sekarang, pada pandangan saya, ada perkara-perkara yang melunturkan keyakinan, yang menyebabkan rakyat rasa bahawa walaupun di bawah Dato' Seri Anwar Ibrahim, budaya kepimpinan itu tidak berubah. Contohnya bila ada orang seperti Farash? Orang kata, hmm, sama sahaja. Katakanlah Datuk Seri Anwar, katakanlah apa sahaja, sebenarnya tidak ada kaitan. Orang tahu, orang tengok bagaimana budak ini dalam tempoh 2-3 tahun jadi begini, kontrak sana, kontrak sini. Kau katakanlah semua ini dimenangi secara tender terbuka. Orang akan kata, ya lah, Menteri Kewangan itu ialah Anwar Ibrahim. Jadi akhirnya rakyat pun mula berkata dia sama juga dengan Tan Sri Azam Baki. Orang akan kata macam mana kau, Anwar, dulu tahun 2022 kau juga pergi berdemonstrasi di depan Parlimen, menyuruh menukar dia. Sebab Tan Sri Azam Baki masa itu ada kes yang didakwa telah melanggar peraturan kerana didakwa terlibat dalam pegangan saham. Saya masa itu tak ada dalam politik pun, saya tak ambil bahagian pun, saya sedang berbasikal masa itu. Yang bersusah payah berdemonstrasi ialah Anwar Ibrahim. Tiga tahun kemudian, kau kata, ah, dialah orang yang paling sesuai, dialah orang yang berani. Jadi, apa yang kau harapkan rakyat rasa? Rakyat akan kata, hmm, sama sahaja, budayanya tidak berubah — asalkan dia ikut aku, dia okey; kalau dia melawan aku, dia tidak okey. Itulah maksudnya. Budaya — sebaik sahaja kita hilang keyakinan orang, kerana mesej kita ialah budaya itu sama seperti dulu, kau letakkanlah ketua pusat integriti sehebat mana pun, kau letakkanlah tadbir urus dan SOP sehebat mana pun, rakyat akan tetap sinis, dan itulah cabaran paling besar kepada kerajaan yang ada sekarang. Saya tidak kisah tentang cerita mereka, itu cerita mereka lah, tapi malangnya kerana kita telah berjuang dan berkempen berpuluh tahun untuk melawan rasuah. Kita hanya ada satu peluang ini untuk membetulkannya, maksudnya untuk membetulkan hardware, membetulkan software dan yang paling penting membaiki budaya dalam kerajaan, dalam politik, dalam masyarakat kita. Saya tidak fikir kita akan berjaya melaksanakannya menjelang pilihan raya akan datang.
 
@@ -334,71 +334,71 @@ Pertama sekali kita perlu tanya soalan ini, sebagai seorang rakyat — tolak tep
 
 **Rafizi:** Dia nak buat dengan kau ke? Dia dah buat podcast sendiri. Ada orang tanya, ada pegawai-pegawai kerajaan — pegawai kerajaan kita ni pun nakal juga. Janganlah sibuk mengacau bekas menteri, pergilah mengacau menteri-menteri lain. Dia ada-adalah, dia yang bertanya. Dia kata, "eh, ini sebenarnya bukan melanggar peraturan, kerana penjawat awam tidak boleh mengeluarkan kenyataan media secara terbuka. Itu kerja menteri, menteri yang boleh bercakap secara terbuka semua ini. Pegawai awam, penjawat awam ni, KSU atau ketua pengarah, dia tidak boleh, dia terikat, dia hanya boleh mengeluarkan kenyataan sahaja." Tapi tak apa, dia Superman — Unit Integriti SPRM akan tengok. Soalan YB di Parlimen — kalau saya boleh tunjukkan soalan dulu kot kan. "Sekolah lebih mahal daripada rumah teres" dan ini menyebabkan... cuba tengok, pergi semak, cuba tengok soalan saya. Soalan saya itu, secara terperinci, menyatakan perincian matriks kos sebuah bilik darjah mengikut komponen kos, jenis sekolah, bandar atau luar bandar, serta mengikut pecahan negeri bagi setiap tahun dari 2015 hingga 2025, dari tahun diluluskan hingga diduduki dan jumlah sekolah yang tempoh siapnya melebihi 5 tahun. Itulah soalannya. Tengok jawapan Menteri Pendidikan, memang tidak kena langsung. Kaji semula jawapannya, ha? Nak baca apa, YB? Tak payahlah. Tapi saya minta data secara terperinci — semua yang kita minta ini dari segi pecahan kos, jenis sekolah, bandar luar bandar, mengikut negeri, mengikut tahun. Satu pun tidak diberikan olehnya. Sebab itulah kanak-kanak kita bila mengambil ujian PISA tercicir — bukan main, menteri pun bila ditanya soalan, lain yang ditanya, lain yang dijawab. Kefahaman memang tidak betul. Okey. Dan kita lihat bila keluar di media, tajuknya, "kos bina bilik darjah naik ketara sejak 2021, cecah RM520,000 sebuah." Dan saya rasa ini pun orang ramai mempertikaikan sebab kita tidak perlukan pengetahuan tentang DE atau apa, perkara ini memang tidak masuk akal. Ya lah, harga rumah lebih murah kan. Jadi pertama, adakah YB bersetuju dengan jawapan itu — tidak bersetuju. Tidak, jawapan itu kau tidak boleh bersetuju atau tidak bersetuju, memang itulah kosnya. Tapi sebenarnya yang kita nak bincangkan ini, kos itu pun tidak diceritakan sepenuhnya, sebab kalau rakyat tahu, lagi terkejut rakyat. Dan YB pun kerana pernah menguruskan projek pembangunan, DE, mandat Kementerian Ekonomi — ini pun cabaran-cabaran DE, kos mahal, pengambilan tanah. Jadi bagaimana sebenarnya punca sebenar, mesti diberitahu di mana puncanya, sebelum kita sampai kepada punca sebenar. Ya lah, saya bertanya itu sebenarnya kerana saya nak mengumpul data, bukan saya nak menyerang Fadhlina atau apa. Soalan Parlimen saya biasanya hanya untuk mendapatkan data, kerana kerajaan kita ini tidak mahu berkongsi data. Ia tidak seperti negara lain yang kita boleh mendapat data penuh. Kalau kita ada pun data seperti DOSM sahaja, itu sajalah yang ada. Tapi kalau data seperti perolehan kerajaan, kos-kos ini, mereka tidak mahu memberikan data itu pun. Saya sebenarnya sudah tahu anggaran kos untuk satu bilik darjah secara purata, dan saya tahu jawapan yang diberikan itu tidak kena. Cuma rakyat kali pertama mengetahui, jadi ia menjadi heboh. Belum sempat saya mengulas, ia sudah menjadi isu. Jadi ini, sebelum kita pergi secara terperinci — pertama, kita perlu sahkan sama ada data kos yang diberikan itu betul atau tidak, berdasarkan maklumat yang kita ada. Kemudian kita perlu tahu kenapa, pada pandangan pihak kerajaan, pegawai awam, semua, kenapa kos itu tinggi sebegitu. Ia akan berbalik kepada beberapa perkara yang kita sebut tadi, dari segi budaya semua itu. Kemudian kita perlu bincangkan sebenarnya bagaimana kita hendak menambah kapasiti kalau perkara ini tidak diselesaikan. Jadi sebenarnya kos RM520,000 satu kelas ini, dan itu meliputi kos bilik darjah, membuat empat dinding itu dengan tiangnya, dengan tangga, dengan koridor dan tandas. Apakah kos yang tidak termasuk di sini?
 
-**Speaker:** Kerusi? Tanah?
+**Rafizi:** Kerusi? Tanah?
 
 **Rafizi:** Kerusi. Eh, maaf. Tanah mungkin, tapi itu bergantung juga, ada jenis-jenis tanah — itu nanti kita bincangkan, sebenarnya kerajaan hendak membina sekolah ini di atas tanah siapa, contohnya. Apa lagi yang tidak termasuk di situ? Kos kantin tidak termasuk, kos infrastruktur seperti jalan semua tidak termasuk, kos pagar tidak termasuk, kos pendawaian di luar bilik darjah semua itu, kos lampu, kos dewan, kos kelengkapan sukan, kos bilik guru, kos perpustakaan, segala jenis. Agaknya kenapa semua itu tidak dimasukkan? Sebab nanti kosnya lebih tinggi, sebab mereka tahu untuk seluruh Malaysia, bila mereka tahu. Jadi sebenarnya berapa kos sebenar, mari saya dapatkan angka itu — sebenarnya berapa kos terkini sebenar untuk membina sekolah ini secara purata? Jawapan Fadhlina ialah antara 250...
 
-**Speaker:** Tidak ada balik tadi, RM280,000 kan yang tadi.
+**Rafizi:** Tidak ada balik tadi, RM280,000 kan yang tadi.
 
 **Rafizi:** Tadi. Itu ada yang di bawah itu. Kalau ikutnya...
 
-**Speaker:** Tidak, tidak, tidak.
+**Rafizi:** Tidak, tidak, tidak.
 
 **Rafizi:** Yang tadi kan, 280 ribu itu.
 
-**Speaker:** Yang, maaf, sebut tadi kan, 280 ribu ke.
+**Rafizi:** Yang, maaf, sebut tadi kan, 280 ribu ke.
 
 **Rafizi:** RM520,000. Itu jawapan dia kan, dan jawapan Parlimen dia juga — ini berdasarkan jawapan Parlimen tadi. Tapi sekarang kita hendak beritahu pendengar bahawa jawapan itu ialah jawapan yang kita tanya sebenarnya, "baju raya sepasang berapa?" Baju Melayu, seluar dengan samping berapa, songkok — dia beritahu kos seluar dalam sahaja, kita cerita yang lain. Jadi sebenarnya sepasang baju raya berapa? Ha, sebenarnya lebih kurang RM1.5 juta.
 
-**Speaker:** RM1.5 juta?
+**Rafizi:** RM1.5 juta?
 
 **Rafizi:** Tiga kali ganda daripada apa yang kita ketahui. Ya lah, kos itu sampai kiamat kita tidak akan dapat tahu kecuali satu masa nanti.
 
-**Speaker:** Bagaimana boleh sampai ke situ?
+**Rafizi:** Bagaimana boleh sampai ke situ?
 
 **Rafizi:** Kecuali satu masa nanti ialah kita betul-betul telus, kita siarkan semuanya. Saya tidak boleh menyebut satu persatu sebab itu rahsia kerajaan — itu masa saya menjadi Menteri Ekonomi dulu saya terpaksa melalui ini, dan memang pening kepala berdepan bagaimana kos ini banyak sangat. Ada kos rujukan daripada beberapa laporan yang memang boleh disemak oleh rakyat.
 
-**Speaker:** Contoh-contoh laporan?
+**Rafizi:** Contoh-contoh laporan?
 
 **Rafizi:** Hmm, penarafan kereta, eh?
 
-**Speaker:** Mana ada orang semak kos sekolah untuk penarafan.
+**Rafizi:** Mana ada orang semak kos sekolah untuk penarafan.
 
 **Rafizi:** Hmm, Laporan Ketua Audit Negara lah.
 
-**Speaker:** Oh, Laporan Ketua Audit Negara.
+**Rafizi:** Oh, Laporan Ketua Audit Negara.
 
 **Rafizi:** Ingat, standard antarabangsa sudah ada, Laporan Ketua Audit Negara lah.
 
-**Speaker:** Okay.
+**Rafizi:** Okay.
 
 **Rafizi:** Laporan Ketua Audit Negara. Hmm. Ambil contoh Laporan Ketua Audit Negara supaya tiada orang boleh menuduh saya berkongsi maklumat sulit — laporan ini semua orang boleh pergi semak. Jadi kalau ikut Laporan Ketua Audit Negara tahun 2020-2021 — ini 2021, dan ini belum lagi yang Fadhlina kata sekarang ini sudah RM520,000, naik mendadak kan — jadi Laporan Ketua Audit Negara 2021 sebenarnya menyemak sekolah-sekolah yang dibina dan kos serta prestasinya. Contoh-contoh sekolah yang diberikan ialah Sekolah Menengah Kebangsaan Jalan Sungai Besi, 24 bilik darjah, RM27.64 juta — ini sebelum 2021 lagi, maksudnya.
 
-**Speaker:** Ini kalau 2021 maksudnya dibina sebelum itu kan.
+**Rafizi:** Ini kalau 2021 maksudnya dibina sebelum itu kan.
 
 **Rafizi:** Jadi RM27.64 juta bagi 24, berapa? Satu juta lebih satu. Ini tahun 2021 ini.
 
-**Speaker:** 2021.
+**Rafizi:** 2021.
 
 **Rafizi:** Sama juga di luar, Sekolah Kebangsaan Taman Pelangi, 24 bilik darjah, RM20.7 juta, lebih kurang sejuta juga. Sekolah Kebangsaan Teluk Kapas, 30 bilik darjah, RM32 juta — semua sama, ini tahun 2021 tau. Dan kalau tengok RMK11 — RMK11 maksudnya tahun 2016 sampai tahun 2020 — jumlah kos yang diluluskan untuk pembinaan sekolah ialah RM11.43 bilion untuk 657 sekolah. Ha, hebat betul.
 
-**Speaker:** 0.017.
+**Rafizi:** 0.017.
 
 **Rafizi:** Maksudnya lebih kurang RM18 juta satu.
 
-**Speaker:** RM18 juta.
+**Rafizi:** RM18 juta.
 
 **Rafizi:** Betul.
 
-**Speaker:** RM17.9.
+**Rafizi:** RM17.9.
 
 **Rafizi:** Hmm. Kan. Kemudian ada maklumat yang lebih terkini — yang tahun 2021 itu untuk yang dibina 10 tahun yang lepas. 10 tahun yang lepas pun sudah satu juta satu bilik darjah tau. Jadi ini mendapat satu maklumat ini, saya boleh cari-cari-cari jumpa — yang terbaru ini ialah Sekolah Menengah Kebangsaan Bukit Mahkota Bangi, 42 bilik darjah, RM53.2 juta. Jadi lebih kurang satu juta lebih kan?
 
-**Speaker:** Hmm. Hmm.
+**Rafizi:** Hmm. Hmm.
 
 **Rafizi:** Okay. Perkara ini ada masalah bila kita kena terima sebenarnya — bilik darjah ini kos untuk membina sekolah pun paling murah pun satu juta satu bilik darjah. Lebih kurang kan? Malah ada yang lebih tinggi. Kalau saya boleh ingat, julat kos keseluruhan sekolah dalam 1-2 tahun terkini, biasanya dalam RM40 juta. Kalau di Sabah Sarawak, boleh jadi sampai RM70 juta, sampai RM80 juta satu sekolah. Jadi pertama, memang sekarang kita tahu bahawa kos untuk satu bilik darjah secara purata itu lebih dari RM1 juta, boleh jadi sampai RM1.5 juta — ini campur semua, bukan tunjuk seluar dalam sahaja seperti ini. Ini ada masalah dari segi dua perspektif. Satu, logik rakyat. Logik rakyat kata, "eh, macam mana pula bilik darjah, satu bilik darjah, empat dinding, tak ada bilik lain, tak ada apa-apa, tak ada tandas di dalamnya, tak ada dapur, tak ada penyaman udara — eh, ia sama mahal dengan rumah teres sebiji, RM500,000." Ini rumah teres di KL, agak jauh sikit, di luar-luar seperti Kajang atau apa sebenarnya, tapi tetap rumah. Kalau ada orang kata — sebab pegawai-pegawai kerajaan akan kata, sistem kerajaan kita akan kata, kos itu bukan sahaja untuk bilik darjah itu, kita perlu buat jalan, kita perlu buat pagar, kita perlu buat dewan, kita perlu buat kantin, jadi campur-campur semua, sebab itu ia menjadi satu juta lebih satu bilik darjah. Tidak adil untuk kita membandingkan kos bilik darjah itu apple to apple dengan satu rumah teres. Betul ke tidak? Logik ke tidak? Sekali dengar macam...
 
-**Speaker:** Betul juga.
+**Rafizi:** Betul juga.
 
 **Rafizi:** Okay, sekali dengar. Dua kali dengar, sudah dengar YB cakap begini, kau sedang berfikir maksudnya tidak betul, tidak logik. Tapi kau sedang berfikir kenapa tidak logik, maksudnya sebab apa tidak logik?
 

@@ -58,30 +58,37 @@ MIN_TRACE_CHARS = 28
 # placeholder, which is the right answer: its turns splice two raw speakers together.
 MIN_TRACES = 3
 MIN_TRACE_AGREEMENT = 0.80
+# Roles need more traces than numbered ids, because a role label can legitimately cover two
+# people across an episode ("Host" for whoever is asking) whereas a cluster id is one voice
+# by construction. Five is where the surviving role labels are unanimous rather than merely
+# ahead.
+MIN_TRACES_ROLE = 5
 
 
-# NUMBERED cluster ids only. Role labels -- `Host`, `Interviewer`, `Moderator`, `Hos` --
-# look like the same defect and were in scope for one run. They are deliberately out again,
-# and the reason is worth keeping because it also says what this scoring can and cannot do.
+# Numbered cluster ids AND role labels, but they are held to different evidence.
 #
-# Extended to roles, the script proposed `Interviewer` -> Rafizi in YBhM-ep03 and ep06.
-# Rafizi is the interviewEE. The score was measuring shared TOPIC, not shared speaker: he
-# talks most and at greatest length, so his blocks share the most rare words with any turn,
-# and the longest-block speaker wins by volume. Dividing each score by the square root of
-# the block length fixes the direction -- `Interviewer` becomes Faizal Rahman, `Moderator`
-# becomes Haziq, `Hos` becomes Haziq, all of which are right -- but agreement then lands at
-# 55-76%, under the bar. So the honest reading is that role labels are ambiguous at turn
-# level by this method, not that they are resolvable and merely mis-scored.
+# Roles were out of scope for one run, and the reason is worth keeping. Scored by word
+# overlap the script proposed `Interviewer` -> Rafizi in two episodes, and Rafizi is the
+# interviewEE: the score was measuring shared TOPIC, and he speaks most and at greatest
+# length, so his blocks win any overlap comparison by volume. Dividing by sqrt(block
+# length) fixes the direction, but role agreement then sits at 55-76% -- ambiguous, not
+# merely mis-scored. So a role is renamed ONLY on literal traces, never on the overlap
+# vote, and needs more of them (see _confirm). Three clear it: YBkM-ep03's `Host` traces
+# 9/9 to Syed Munawar, YBhM-ep37's 6/6 to Haziq, YBhM-ep34's `Speaker` 7/7 to Rafizi.
 #
-# `Speaker ?` is out of scope for a different reason: it is the repo's marker for a turn
-# nobody could identify, and trading an honest unknown for a guess is what this refuses.
+# `Speaker ?` is excluded outright: it is the repo's marker for a turn nobody could
+# identify, and trading an honest unknown for a guess is what this refuses to do.
 UNKNOWN_MARKER = re.compile(r"^(speaker|penutur|penceramah)\s*\?+$", re.I)
+
+
+def is_numbered(label):
+    return bool(DERIVED_PLACEHOLDER_RE.match(label.strip()))
 
 
 def is_placeholder(label):
     if UNKNOWN_MARKER.match(label.strip()):
         return False
-    return bool(DERIVED_PLACEHOLDER_RE.match(label))
+    return bool(is_numbered(label) or GENERIC.match(label))
 
 
 def words(text):
@@ -166,15 +173,26 @@ def verbatim_votes(ep_dir, raw_body):
 
 
 def _confirm(label, who, traces):
-    """Does the literal-trace evidence back this name? Returns (ok, note)."""
+    """Does the literal-trace evidence back this name? Returns (ok, note).
+
+    A ROLE label must be carried by traces alone. The bag-of-words score is allowed to
+    propose a name for a numbered cluster id and be confirmed, but for `Host` and
+    `Interviewer` it is measurably unreliable -- corrected for block length it still only
+    reaches 55-76% agreement, and before that correction it was answering `Rafizi` for
+    labels belonging to whoever was interviewing him. So roles get no bag-of-words fallback
+    and need more traces. Three of them clear that bar outright: YBkM-ep03's `Host` traces
+    9/9 to Syed Munawar, YBhM-ep37's 6/6 to Haziq, YBhM-ep34's `Speaker` 7/7 to Rafizi.
+    """
     tally = traces.get(label)
-    if not tally or sum(tally.values()) < MIN_TRACES:
-        return True, "[no literal traces; bag-of-words only]"
-    total = sum(tally.values())
+    total = sum(tally.values()) if tally else 0
+    floor = MIN_TRACES if is_numbered(label) else MIN_TRACES_ROLE
+    if total < floor:
+        if is_numbered(label):
+            return True, "[no literal traces; bag-of-words only]"
+        return False, f"[role label, only {total} literal trace(s); needs {floor}]"
     n = tally.get(who, 0)
     share = n / total
-    note = f"[traces {n}/{total} = {share:.0%} {who}]"
-    return share >= MIN_TRACE_AGREEMENT, note
+    return share >= MIN_TRACE_AGREEMENT, f"[traces {n}/{total} = {share:.0%} {who}]"
 
 
 def propose(ep_dir):
