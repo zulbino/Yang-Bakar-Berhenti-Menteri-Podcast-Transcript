@@ -9,8 +9,8 @@ duration: 1h 17m
 view_count: 152220
 hosts:
 - Rafizi
-guests:
 - Najib Bakar
+guests:
 - Nazri Hamdan
 topics:
 - National Debt and Fiscal Deficit
@@ -20,9 +20,9 @@ topics:
 - Governance and Audit Reports
 - Hardcore Poverty Eradication
 - PADU Database and Subsidy Rationalization
-summary: In this episode of Yang Bakar Menteri, Minister Rafizi fields questions
-  from moderator Najib Bakar and commentator Nazri Hamdan on Malaysia's fiscal policy
-  and economic reforms. Rafizi explains national debt management, bond maturity structures,
+summary: In this episode of Yang Bakar Menteri, Minister Rafizi fields questions from
+  moderator Najib Bakar and commentator Nazri Hamdan on Malaysia's fiscal policy and
+  economic reforms. Rafizi explains national debt management, bond maturity structures,
   and fiscal deficit targets through 2028. He discusses the government's pragmatic
   stance on GST versus SST, tax progressivity, vehicle excise duties, and public governance
   in light of the Auditor General's report. Additionally, he details strategies for
