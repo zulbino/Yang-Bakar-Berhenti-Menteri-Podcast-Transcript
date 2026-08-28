@@ -11,6 +11,10 @@ episodes/_scratch_*
 scripts/_*.py
 audio/_*
 data/_*
+# Review artefacts written at the repo root. ROSTER_DIFF.txt reached a commit before
+# this line existed, so name the shape rather than trusting the habit.
+*_DIFF.txt
+*_diff.txt
 # Never commit credentials. A `git add -A` once swept scratch logs into this repo,
 # so the filenames a key is most likely to land in are blocked by name rather than
 # left to discipline. GitHub secret scanning and push protection are the backstop.
