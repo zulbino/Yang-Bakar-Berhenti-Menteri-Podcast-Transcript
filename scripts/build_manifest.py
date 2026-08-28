@@ -52,9 +52,34 @@ def main():
             "description": meta.get("description"),
         })
 
+    # MERGE, never overwrite. The playlist is not an archive: an episode can be unlisted,
+    # made private, or simply not returned by a flaky fetch, and this script used to just
+    # write whatever it got. Re-running it on 2026-08-29 returned 66 instead of 67 and
+    # silently dropped ep14 (uboskXAZBfs), whose transcript is published in this repo --
+    # the manifest is what every other tool resolves a tag against, so losing a row here
+    # orphans a whole episode with a clean exit code.
+    existing = []
+    if MANIFEST_PATH.exists():
+        existing = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+    fetched = {e["video_id"]: e for e in episodes}
+    merged, seen = [], set()
+    for old in existing:
+        vid = old["video_id"]
+        seen.add(vid)
+        merged.append(fetched.get(vid, old))
+    dropped = [e["video_id"] for e in existing if e["video_id"] not in fetched]
+    added = [vid for vid in fetched if vid not in seen]
+    merged.extend(fetched[vid] for vid in added)
+
     MANIFEST_PATH.parent.mkdir(exist_ok=True)
-    MANIFEST_PATH.write_text(json.dumps(episodes, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"wrote {len(episodes)} episodes to {MANIFEST_PATH}", file=sys.stderr)
+    MANIFEST_PATH.write_text(json.dumps(merged, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"wrote {len(merged)} episodes to {MANIFEST_PATH} "
+          f"({len(added)} new, {len(dropped)} kept from the previous manifest)",
+          file=sys.stderr)
+    for vid in dropped:
+        print(f"  WARNING: {vid} is in the manifest but no longer in the playlist -- "
+              f"kept. Check whether it was unlisted or the fetch was incomplete.",
+              file=sys.stderr)
 
 
 if __name__ == "__main__":
