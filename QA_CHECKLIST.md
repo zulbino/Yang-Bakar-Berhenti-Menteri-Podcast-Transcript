@@ -17,10 +17,15 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - "Farhan (Pa'an)" is on interview.md's roster but has no label at all in raw.md -- their turns are sitting inside another speaker's blocks
   - models: interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2025-11-28-ep24-shamsul-iskandar-vs-albert-tei-bencana-banjir-izzah-mb-selan**
+  - 'Rafizi' is on interview.md's roster but has no label at all in raw.md -- their turns are sitting inside another speaker's blocks
   - 'Haziq' is on interview.md's roster but has no label at all in raw.md -- their turns are sitting inside another speaker's blocks
+  - "Farhan (Pa'an)" is on interview.md's roster but has no label at all in raw.md -- their turns are sitting inside another speaker's blocks
+  - raw.md gives Rafizi only 0% of the text while 'Speaker 1' holds 89% -- likely a whole-episode speaker mislabel; confirm with scripts/verify_speaker_voiceprint.py before renaming
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2025-12-05-ep25-prn-sabah-pkr-terkubur-masa-depan-ph-ybm-ep-25**
+  - 'Rafizi' is on interview.md's roster but has no label at all in raw.md -- their turns are sitting inside another speaker's blocks
   - 'Haziq' is on interview.md's roster but has no label at all in raw.md -- their turns are sitting inside another speaker's blocks
+  - raw.md gives Rafizi only 0% of the text while 'Speaker 3' holds 62% -- likely a whole-episode speaker mislabel; confirm with scripts/verify_speaker_voiceprint.py before renaming
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2025-12-12-ep26-reformasi-bukan-content-azam-baki-uec-felda-ybm-ep-26**
   - raw.md has a 24-minute block at [87:58] under one label ('Rafizi') -- either a real monologue or a collapsed diarization cluster hiding other speakers; read the block before waiving, and do not treat the single label as proof it is one person
