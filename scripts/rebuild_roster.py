@@ -95,31 +95,34 @@ def canon(n):
 PRESENT_UNLABELLED = {
     # Haziq: addressed directly, or quoted as having just spoken
     "ep21": ["Haziq"],   # "Haziq selain daripada dia buat kerja percuma jadi moderator"
-    "ep24": ["Haziq"],   # "yang macam Haziq kata tadi lah"
-    "ep25": ["Haziq"],   # "kalau macam Haziq tanya, apa remedy dia"
     "ep27": ["Haziq"],   # "yang Haziq sebut tadi lah"
-    "ep29": ["Haziq"],   # "Haziq, aku cabar kau cakap ho-ho-ho"
     "ep31": ["Haziq"],   # "kalau kau Haziq kan, buat video"; "Saya tanya Haziq. Tak cukup kau."
-    "ep42": ["Haziq"],   # "to answer you Haziq kan"
     "ep47": ["Haziq"],   # "You pun sebut Haziq"; "Pertama kali Haziq jadi host kita"
-    "ep52": ["Haziq"],   # the intro: "bersama saya... Saudara Haziq"
-    "ep58": ["Haziq"],   # "macam Haziq kata lah"
     # Farhan (Pa'an): same bar
-    "ep23": ["Farhan (Pa'an)"],   # "Ya Paan, nak tanya apa?"
     "ep39": ["Farhan (Pa'an)"],   # "apa nama ni Farhan sebut tadi"
     "ep55": ["Farhan (Pa'an)"],   # "Pa'an yang takut dah"
-    "ep60": ["Farhan (Pa'an)"],   # "Pa'an kena check lah betul-betul"
     # ep43 and ep44 removed 2026-08-28: both were re-cut at turn level, so Farhan holds
     # 26 and 16 labelled turns of his own. ep44's identity was confirmed by the repo owner
     # from the video after the voiceprint returned UNRESOLVABLE on 7-second turns.
+    #
+    # TEN MORE removed later the same day, each because the person now holds real turns:
+    #   ep24 (78), ep25 (38), ep29 (52), ep42 (28), ep52 (102), ep58 (50) for Haziq
+    #   ep23 (20), ep46 (19), ep60 (1) for Farhan, and ep36 for both (1 and 5)
+    # ep58 is the clearest case: 0 -> 50 turns once clustering.threshold=0.55 broke a
+    # collapse that no speaker-count hint could (ENGINEERING_LOG 1.36), and ep36, ep42 and
+    # ep60 came from reading the video frames rather than from any acoustic pass (1.35).
+    #
+    # SIX REMAIN, and they are the honest remainder of this audit: Haziq in ep21, ep27,
+    # ep31 and ep47, Farhan in ep39 and ep55. Each is present on dialogue evidence and
+    # still has no label, because their speech sits inside a block the diarizer would not
+    # split. ep47 is the one where the video already proves it: 11 of 17 sampled seconds
+    # inside its two 24-minute "Rafizi" blocks are Haziq.
     # both
-    "ep36": ["Haziq", "Farhan (Pa'an)"],   # "sebab Haziq dah pakai"; "kita dah set 8 Mac kan, Pa'an kan"
     # ep45 removed 2026-08-28: Haziq now holds 55 labelled turns of his own after
     # scripts/reattribute_blocks.py re-cut the collapsed blocks, so he no longer needs
     # a manual override. The justifying quote was "Itu bukan sebab dia malas, Haziq.
     # Kau cara cakap tu". Entries here should be deleted, not kept, as each episode's
     # blocks get re-cut -- an override that outlives its cause hides whether the fix worked.
-    "ep46": ["Farhan (Pa'an)"],            # "Pa'an gelak kat kau"; "Kau pun sebenarnya"
 }
 # Deliberately NOT added, and why:
 #   ep40  "boleh menggantikan Haziq sebagai moderator" reads as replacing an absent Haziq

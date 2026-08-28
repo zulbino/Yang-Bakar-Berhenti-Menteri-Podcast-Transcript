@@ -33,7 +33,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [00:05] Haziq: salam sejahtera
 
-[00:06] Multiple speakers: Macam biasa bersama saudara
+[00:06] Haziq: Macam biasa bersama saudara
 
 [00:07] Rafizi: Rafizi Ramli Dan yang tak biasa bersama saudara Zikri How are you? Kau kena perkenalkan Zikri orang tak tahu Dia ni yang selalu cari pasal dengan orang
 
@@ -79,7 +79,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [04:52] Rafizi: Ya, ya, ya. Actually kalau tengok di mana-mana pun kan, even US kan, No Kings punya march kan dekat US kan, time change. Jadi memang... Kita kena recalibrate sebenarnya impact berapa ramai orang turun lah. Kalau dulu expectation, kalau bersih kena 100,000 orang semua kan. Sekarang sebenarnya kalau you hit 5, 10,000 tu sebenarnya besar. Kerana dulu orang pergi itu untuk menunjukkan sokongan. That's the only avenue they can do it lah. Solidarity semua. Sekarang ni kebanyakannya memang dah online media kan. Cuma saya perasan contohnya dalam... yang himpunan Azam Baki 2 bulan lepas, lebih kurang pertengahan Februari kan jumlah yang bagi engagement dan reaction di social media yang berkaitan dengan apa yang saya post, my speech, gambar semua tu kan ataupun notice untuk turun tu when you total 4-5 content tu across apa nama ni, social media platforms kan it was more than 150,000 so maksudnya That is going to be the mainstay in the future lah. Kita masih lagi perlukan demonstrasi. Dan demonstrasi itu bagi saya memang masih lagi cara yang baik. Tetapi to expect 150,000 orang turun itu tak mudah lah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak, dia memperlekehkan perkara itu, then you do that, you know, at your own peril lah kan. Beria? Hmm Eh lepas ni lagi banyak lah Al-Berti pergi buat Hahaha Okay Itu tak cukup YB Kita tengok lagi Kita ada... Minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak terlepas berita menarik. Ini berikutan daripada kenyataan bukan Dato' Bandar lah. Tapi hit kepada kerajaan tempatan di Davao Del Norte. Ini di Mindanao lah. Dalau Del Norte. Betul. Itu rancang beli minyak dari Malaysia. dengan pihak yang berkenaan di Johor, di tengah-tengah negeri Sembilan dan mahu membeli minyak sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot sekali beli tapi 44 juta kerana memang banyak minyak di Johor, di tengah-tengah negeri Sembilan. Saya terbaca ni mula kat Malaysia kini lah sebab itu-itu. Petronas nafi terlibat rancang Filipina. punya laba tapis-tapis payah tau. Jadi dia keluar kenyataan. So saya pun pergilah semak dekat Philippines. Lawak lah kerana wilayah Davao de Norte ni ada pertemuan dengan pembesar daripada Johor. Oh Johor. Dan Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk Johor dan sebab itu dia bagi komitmen untuk kepada
 
-[08:22] Multiple speakers: daftar dan noter.
+[08:22] Rafizi: daftar dan noter.
 
 [08:25] Rafizi: Siapa-siapalah pembesar?
 
@@ -99,7 +99,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [09:15] Rafizi: liters. 159 liter? 159 liter. So kalau 44 juta liter tu bagi dengan 159 dapat lebih kurang... Oh, aku gelak. Lebih kurang 200 juta, lebih kurang 20 juta barrel. Wah. Okay, to give perspective lah. Yang Filipina ni pun check lah dengan check GPT dulu kan. Production Malaysia sekarang untuk minyak mentah lebih kurang 350,000 barrel sehari. So, maksudnya sebulan 3.5 juta barrel lah. So, maksudnya 20 juta barrel yang dia kata dia nak jual daripada Johor tu ialah pengeluaran lebih kurang setahun Malaysia.
 
-[10:06] Multiple speakers: Aku pun nak jumpa sebenarnya kalau lah ada pembesar tu tengok apa nama ni, podcast ni saya harap silalah datang jumpa saya, saya nak belanja sebab dia punya tahap beria skam ni dah memang tahapik spring lah and ni lah nobody advice dia kot, tak tahu siapa dia? nobody advice and Filipina aku tak nak sentuh negara orang lah kan aku nak sentuh bagusnya pencapaian skamer mungkin ada
+[10:06] Rafizi: Aku pun nak jumpa sebenarnya kalau lah ada pembesar tu tengok apa nama ni, podcast ni saya harap silalah datang jumpa saya, saya nak belanja sebab dia punya tahap beria skam ni dah memang tahapik spring lah and ni lah nobody advice dia kot, tak tahu siapa dia? nobody advice and Filipina aku tak nak sentuh negara orang lah kan aku nak sentuh bagusnya pencapaian skamer mungkin ada
 
 [10:40] Zikri Kamarulzaman: Tapi bila cakap tentang sentuh-sentuh negara ni, energi krisis ni ada hidupkan balik sentimen dari certain ahli politik daripada Filipina
 
@@ -141,7 +141,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [27:21] Rafizi: Tak adalah. That means I didn't get 10A1. Jadi saya masa trial dapat 10A1 memang lepas tu aku lambung buku semua. Memang happy gila lah kan. Kerana masalahnya duduk sekolah asrama. Trial bulan 9. Exam bulan 11. Okeylah, lepas ni aku dah tak dulu kat sekolah ni aku nak enjoy. So aku enjoy betul lah kan. So. scholarship dapat masa trial punya result. So in fact in my case saya dapat scholarship sebelum saya sit for trial result. Itu pun juga you know that's why saya I'm very sensitive about entitlement. Sebab I went through that process myself. Kan masa itu kegagalan paling besar akulah tak dapat straight A1s masa SPM dulu kan sebab orang semua expect aku dapat 10 A1s kan. One extra subject I took on my own. Call not action lah. So you know you dah dapat scholarship by the time you sit for trial. And then trial you dapat 10A1. So memang ke bulan lah kan. So I got another scholarship pergi UK sebelum SPM result keluar. So by December tu aku dah fly semua lah kan. So aku kena dapat result SPM ni dengan telefon sekolah. Jadi saya dan kawan-kawan saya bercakap dengan cukup langsung. Kalau dia mula sebut subjek by subjek tu Means kau tak dapat straight A1 So aku macam biasalah Dia bermula dengan bahasa Melayu A1 Aku
 
-[28:59] Multiple speakers: cakap
+[28:59] Rafizi: cakap
 
 [29:03] Rafizi: Lama jugalah menangis, berminggu-minggu jugalah menangis kan. Memang aku nangis betul lah. But I think dalam banyak-banyak benda, that was my first big failure in life. Tak dapat straight A1s. So aku rasa kalau aku dapat straight A1s dulu kan, aku memang sombong gila lah. So it really brought me to the ground and taught me humility lah. Tak adalah koyak ke apa My result was Bagus, sangat bagus. Cuma saya tidak mendapat A1 yang saya mahukan. Cukup. Atau awak lebih sibuk di betting? Tidak, bukan. Memang bukan aku sajalah, satu batch aku. Memang kita main-main. Jadi, ia seperti... Oh, ini jangan ulang. Budak-budak di sekolah asrama. Apa itu? Joli di MCKK? Itu juga. Itu bukan apa-apa untuk joli. Jadi, ia seperti anda mahu menghabiskan lebih banyak masa dengan kawan-kawan. Last month tu sampai ke peringkat Macam dia dah tak ada rule Kan sekolah asrama kan And then MCKK tu pula Tengah-tengah Bandar kecil yang tak ada apa kan So preoccupation is always about makan So makan ni sebenarnya Kau boleh keluar weekend je Aku lunch dengan selambanya Tiap-tiap hari lunch Kau makan kat luar Contohnya kan There was one time tu Tengah-tengah makan Alamak PKM ada kat depan tu kan So I was like So dia datang sembang-sembang Aku ingat lepas ni dia Balik ni memang kena rotan semualah Nak pergi bayar Takpe cikgu dah bayar So malam pun keluar Siang pun keluar So bila you Spend more time dengan kawan-kawan Enjoy semua ni Actually your focus on exam tu memang Berterabur lah kena balance anak-anak muda.
 
@@ -165,13 +165,13 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [31:58] Rafizi: Agak epic lah. Dia boleh scam gubernur ni kan. Tak, kalau dia kata dia tu mewakili daripada Kertih ke, aku faham lah orang mungkin boleh percaya, boleh google sikit. Banyak-banyak tempat Johol. setuju kalau kau tanya aku pun I would have rated Johol
 
-[32:20] Multiple speakers: ok kita ke segmen yang special untuk Zikri dari bilik berita segmen khas Dia
+[32:20] Haziq: ok kita ke segmen yang special untuk Zikri dari bilik berita segmen khas Dia
 
 [32:28] Rafizi: masih lagi panggil dari bilik-bilit ke sekarang? Untuk apa? Apa yang awak panggil dari bilik-bilit? Dulu-dulu, masa aku kecil-kecil dulu, 80 semua dulu, bila ada berita, dia memang title dia dari bilik-bilit. Dia sabar bila ni? Dia macam angkasa puri semua tu ke? Angkasa puri, dari bilik-bilit angkasa puri. Am I that old? I think so. So sekarang dah tak panggil from newsroom
 
 [32:55] Zikri Kamarulzaman: ke? Saya boleh lihat. Berita sebagai industri ni terlalu divers lah. Oh. And format berita tu dah sangat-sangat. So, orang file story daripada Coffee Bee ke apa. Saya pernah kerja dari pulau. Jangan sebut banyak-banyak.
 
-[33:12] Multiple speakers: Okay, kita ke
+[33:12] Rafizi: Okay, kita ke
 
 [33:17] Multiple speakers: satu segmen khas dan
 
@@ -181,7 +181,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [33:24] Rafizi: Korang AI kan rambut aku sekali ke apa tu Nampak macam lebat je
 
-[33:28] Multiple speakers: Gambar sama ... lah Tak nampak ... muka tapi dia keluar rambut sekali
+[33:28] Farhan (Pa'an): Gambar sama ... lah Tak nampak ... muka tapi dia keluar rambut sekali
 
 
 
@@ -225,7 +225,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [45:37] Rafizi: So sebab itu saya punya kebimbangan begitulah. Maksudnya, media freedom ni kalau hari biasa, isu.
 
-[45:45] Multiple speakers: Hanya ada isu bila ada krisis di negara dan media-media ini ada persimpangan dia kan dan kerana itu kemudian Structurally lah Society lah Society ni masuk kerajaan lah juga kan Society has to find ways How to build financial feasibility kepada media yang ada sekarang.
+[45:45] Rafizi: Hanya ada isu bila ada krisis di negara dan media-media ini ada persimpangan dia kan dan kerana itu kemudian Structurally lah Society lah Society ni masuk kerajaan lah juga kan Society has to find ways How to build financial feasibility kepada media yang ada sekarang.
 
 [46:13] Rafizi: Because otherwise, kita tak boleh nak move on kepada perkara-perkara yang lebih tinggi untuk melindungi kebebasan media. Contohnya, undang-undang untuk memastikan pemilikan media ini tidak boleh kepada parti politik atau ahli politik. Sekarang ini, kita macam in... In a bind lah sebab kita tahu bahawa media prima ini dikuasai oleh Dato' Seri Johari Ghani. You know, I mean, depending on how you look at it, ada orang akan kata, oh tak apalah sebab dia tak kawal ke apa semua lah kan. But principally lah sepatutnya lah, as best as possible, ahli politik tidak boleh dekat dengan media. Because media ni orang panggil the fourth estate kan. Dia ada tanggungjawab untuk melindungi kepentingan masyarakat sebenarnya. So saya tak kata lah kalau ahli politik tu Apa nama ni memiliki media Dia ada gun to the media's head Tapi as best as possible You don't want that to happen lah Tapi dia jadi chicken and egg juga Kalau kita kata di Malaysia Media tidak boleh dikawal Dimiliki oleh parti politik Atau ahli politik ke macam mana Then saya pasti pihak media pun akan tanya Tapi nanti kita orang tak boleh hidup So,
 
@@ -303,7 +303,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [58:22] Rafizi: Well kalau subscription media pun nak tak nak, you still have to post dekat Facebook. Yes. Kat Malaysia masih lagi overwhelmingly pembaca dekat Facebook lah. Yes. Social media ada pencil.
 
-[58:35] Multiple speakers: Okey.
+[58:35] Rafizi: Okey.
 
 [58:36] Rafizi: Kita ke segmen... Pendengar macam, bosan
 
@@ -465,7 +465,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:13:09] Zikri Kamarulzaman: petik kenyataan daripada Dato' Abu Hanifah. Saya tak
 
-[2:13:12] Farhan (Pa'an): tahulah
+[2:13:12] Haziq: tahulah
 
 [2:13:12] Zikri Kamarulzaman: mungkin soalan ni membuatkan YB kena saman lagi kan.
 
@@ -567,7 +567,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:46:50] Zikri Kamarulzaman: rasa... For now, for me personally, it's too early to tell lah. But, kita dah tahu dari banyak pada pengundi PAS, mereka dah hardcore, cakap apa-apa pun takpelah. Kita dah tutup, ini parti kita, sokong dia. Tapi pengundi atas pagar yang Pengundi Melayu atas pagar yang mahukan kepimpinan Melayu Tapi tidak undecided Saya rasa ada potensi tapi sama ada Mencukupi untuk UMNO kembali sebagai parti yang dominan Saya tak pasti, saya tak yakin Pasal UMNO bukan sahaja pasal KJ walaupun KJ mungkin menonjol tetapi banyak faktor yang berat way down basically you dah cakap
 
-[2:47:44] Multiple speakers: UMNO banyak baggage
+[2:47:44] Rafizi: UMNO banyak baggage
 
 [2:47:45] Zikri Kamarulzaman: lah UMNO banyak baggage lah UMNO banyak baggage and then so lah susah it's not easy untuk orang seperti KJ just to prime up orang tu kata okay it's not enough lah
 

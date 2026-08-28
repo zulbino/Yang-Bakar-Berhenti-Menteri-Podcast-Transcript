@@ -1989,6 +1989,49 @@ worse at 1, which shatters the episode into 351 clusters.
 **`0.55` still over-splits three people into five clusters**, and the two spare clusters
 carry mid-sentence fragments of Rafizi. Naming has to resolve those before any write.
 
+### 1.37: What the video pass actually fixed, and what it did not
+
+- **2026-08-28.** QA 12/67 -> 9/67. ep36, ep42, ep58 and ep60 cleared.
+- **ep58, the worst episode in the corpus, is fixed.** 39 turns -> 174, longest block
+  62.4 min -> 14.5 min, Haziq 0 labels -> 50. Text verified identical at 20,061 words
+  either side, so only boundaries and labels moved.
+- **21 more labels rewritten from frames alone** across ep36, ep42 and ep60, plus 3 the
+  owner adjudicated directly from the video.
+
+**Three independent methods agreed on ep58, having been derived separately.** The frames
+put Haziq at 13 seconds inside the collapsed blocks; `threshold=0.55` put 10 of those 13
+in one 15.8-minute cluster; the voiceprint scored that cluster Haziq at **0.946** against
+Rafizi 0.675. Agreement between an acoustic clustering, an acoustic embedding and a video
+frame is the strongest evidence this repo has ever had for a speaker label.
+
+**The re-cut recovered a quiet speaker instead of dissolving him.** ep58's old labels held
+2.4 minutes of Farhan across 19 interjections; the new `SPEAKER_00` holds 2.3 minutes and
+scores Farhan **0.908**. Guard 2 exists to catch the opposite outcome and it was not needed.
+
+**Over-splitting resolved to the truth, not to a new person.** `threshold=0.55` produced 5
+clusters for 3 people. The two spares scored 0.838 and 0.813 toward Rafizi -- below the
+usable floor, so the voiceprint correctly refused to name them -- and frames at three of
+their longest turns showed Rafizi mouth-open with no cut. Both were Rafizi. **A dial that
+over-splits is recoverable; one that collapses is not**, which is the asymmetry that makes
+0.55 the right setting even though 0.45 scores a lower collapse share.
+
+**A cluster can hold two people, so a per-cluster verdict can be wrong even when the
+majority is right.** ep36's `Speaker 4` was 5 Farhan turns and 2 Rafizi fragments; its
+`Speaker 3` was Rafizi twice and unknowable twice. Naming either wholesale would have
+written a false label.
+
+**What the video could NOT settle, and why the count is honest.** Roughly a third of
+sampled seconds are two-shots or full-screen graphics, where no answer exists. ep58's
+2:09:18 -- the one moment 1.32 had found by hand -- came back UNKNOWABLE: Rafizi on
+screen, mouth closed, listening. Two candidates resolved to **Rafizi saying "YB" himself**
+(ep47 46:59, ep58 2:28:01), so the text cue has real false positives and cannot drive
+re-attribution alone.
+
+**Six roster overrides remain and they are the true remainder**: Haziq in ep21, ep27, ep31
+and ep47; Farhan in ep39 and ep55. ep47 is proven collapsed by video (11 of 17 sampled
+seconds are Haziq inside its two 24-minute "Rafizi" blocks) and simply has not been re-cut
+yet.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider
