@@ -1790,6 +1790,16 @@ person. But "we cannot name this cluster" is not the same as "we cannot attribut
 episode", and for two sessions those were treated as the same sentence. When cluster-level
 diarization fails, drop to the block and ask again.
 
+**A postscript on reading output too early.** ep45's rewrite took 31.6 minutes. Eighteen
+minutes in, its `interview*.md` files carried a fresh mtime from an unrelated write, so I
+read them, found the old pre-labelling content, concluded the regeneration had failed to
+carry the new labels through, and committed that conclusion. It had not failed. The real
+output attributes 201 of 215 turns to a named person (Rafizi 110, Farhan (Pa'an) 60,
+Haziq 31) against 122 in what I had read. **A regeneration is not finished when an output
+file's mtime changes -- `process_rewrite` writes all three files at the end, so check
+whether the process is still alive, not the timestamp.** The post-regeneration sequence
+caught the damage on the next run, which is the argument for having it written down.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider
