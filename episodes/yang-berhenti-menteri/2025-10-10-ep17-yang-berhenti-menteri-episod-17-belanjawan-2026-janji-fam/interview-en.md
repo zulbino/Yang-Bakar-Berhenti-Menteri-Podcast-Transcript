@@ -369,8 +369,6 @@ Hmm, if we're not careful, then it won't materialize — then people won't come,
 
 **Haziq:** Okay YB, clear. The second question about the Malaysia Plan: "How does the newly announced 2026 National Budget align with the 13th Malaysia Plan?" Question mark. I've...
 
-**Haziq:** Okay YB, on time? No it's not on time,
-
 **Rafizi:** I already discussed this at length earlier. Although I didn't link it to the 13th Malaysia Plan, there are many things that form the pillars of the 13th Malaysia Plan. But what I think may not have been mentioned at all, which has a big impact on economic structure, is about foreign workers. The 13th Malaysia Plan sets out that we will reduce our foreign worker numbers from 15% to 10%, then 5 years later to 5%. Not mentioned at all. Same with, perhaps... there are core things I mentioned earlier.
 
 So for example, when we did the 12th Malaysia Plan mid-term review — that was the first document I handled, 2023 — everyone disliked me for it, but I did explain clearly that the core issue is we need to overhaul our subsidy system, in 2023. That's why in the last Budget speech, and while I was still there, until I left, the subsidy issue was a whole fight, it had to be done. And the way to do it was indeed a fight. That's why now diesel, petrol subsidy rationalization is already underway.

@@ -70,19 +70,54 @@ WINDOW = 4
 # translation legitimately does (`RM569,000` <-> `569 ribu`).
 VALUE_TOL = 0.005
 
-# How far a scale word may sit from a bare number and still apply to it. A speaker states
-# the unit once and then lists values against it -- ep57's raw reads "satu 10 bilion, satu
-# lagi berapa? 9.6", where the 9.6 is billions by context and nothing else. Measured: 6
-# tokens covers every such case in the corpus; beyond ~10 a "bilion" in one sentence starts
-# lending its scale to unrelated numbers in the next.
-SCALE_REACH = 4
+# How far, in CHARACTERS, a scale word may sit from a bare number and still apply to it. A
+# speaker states the unit once and then lists values against it -- ep57's raw reads "satu 10
+# bilion, satu lagi berapa? 9.6", where the 9.6 is billions by context and nothing else.
+# Tuned against the ground-truth set below; see the module docstring for the counts.
+SCALE_REACH = 120
+SCALE_WORD = re.compile(
+    r"\b(ribu|juta|bilion|biliun|billion|trilion|triliun|trillion|thousand|million)\b",
+    re.I)
 # The ASR writes suffixed scales as often as spelled ones: `9.6B`, `227k`, `22.7k`.
 SUFFIX = {"k": 1e3, "rb": 1e3, "j": 1e6, "m": 1e6, "b": 1e9, "t": 1e12}
 
-NUM = re.compile(r"(?<![\d.,])(\d[\d.,]*\d|\d)"
+# The lookbehind rejects only a separator that is itself preceded by a digit, so it still
+# refuses to start mid-figure (`38,041` must not also yield `041`) without being blocked by
+# ordinary punctuation. A plain `(?<![\d.,])` treated the ellipsis in raw's `...91 juta.` as
+# a decimal point and never tokenised the 91 at all, so ep31 was flagged for a figure its
+# own transcript contains.
+# Malay glues enclitics onto the scale word -- raw's `RM320 bilionlah`, `jutalah`,
+# `jutanya`. Ten instances in the corpus, and requiring a bare word boundary after the
+# scale meant ep04 was flagged for `320 bilion` that its own raw.md states outright.
+NUM = re.compile(r"(?<!\d)(?<![\d][.,])(\d[\d.,]*\d|\d)"
                  r"(?:\s*(ribu|juta|jt|bilion|biliun|billion|trilion|triliun|"
-                 r"trillion|thousand|million)\b"
+                 r"trillion|thousand|million)(?:lah|kan|nya|tu|pun|ke)?\b"
                  r"|\s?([kKbBmMtT]|[rR][bB])(?![A-Za-z0-9]))?", re.I)
+
+
+def _matches(text):
+    """NUM matches, minus the ones where a letter-suffix reading is spurious.
+
+    `BR1M` is a cash-transfer programme, not one million: the suffix branch happily reads
+    the trailing `M` and reported `1M` as an unsourced figure in ep17 and ep46. A currency
+    prefix must still work, so the letter before the number is only disqualifying for the
+    single-letter suffix reading -- `RM320` is unaffected.
+    """
+    for m in NUM.finditer(text):
+        if m.group(3) and m.start() and text[m.start() - 1].isalpha():
+            continue
+        yield m
+
+
+# The ASR writes a dictated decimal as a word: raw's `Facebook 3 point 3 juta` is the
+# published `Facebook 3.3 juta`. Without this, ep49 was flagged for a figure spoken aloud.
+SPOKEN_POINT = re.compile(r"(\d)\s*(?:point|titik)\s*(\d)", re.I)
+# The ASR also breaks a decimal across a space, reading the point as a full stop: ep45's raw
+# says `Rakyat Malaysia 32. 2 juta` for the published `32.2 juta`. Deliberately narrow --
+# it only fires when a scale word follows, so it can never fuse `4.5 bilion` into `45`.
+SPLIT_DECIMAL = re.compile(
+    r"(\d)[.,]\s+(\d{1,2})(?=\s*(?:ribu|juta|bilion|biliun|billion|trilion|triliun|"
+    r"trillion|thousand|million)\b)", re.I)
 
 
 def digits(s):
@@ -97,7 +132,11 @@ def parse_value(raw_num, scale_word):
     # A single trailing group of exactly 3 after a comma is a thousands separator; a
     # 1-2 digit tail is a decimal. `38.041` is ambiguous and deliberately yields None so
     # such figures fall through to digit matching instead of a bogus value comparison.
-    if re.fullmatch(r"\d{1,3}(?:,\d{3})+", t):
+    if re.fullmatch(r"\d{1,3}(?:,\d{3})+(?:\.\d+)?", t):
+        # Thousands separators with an optional decimal tail. Without the tail this
+        # returned None for raw's `RM1,666.6667`, so ep22's correctly-rounded published
+        # `RM1,666.67` looked unsourced -- and a first pass at "fixing" it truncated a
+        # figure that was right. VALUE_TOL absorbs the rounding.
         val = float(t.replace(",", ""))
     elif re.fullmatch(r"\d+[.,]\d{1,2}", t):
         val = float(t.replace(",", "."))
@@ -111,7 +150,7 @@ def parse_value(raw_num, scale_word):
 
 def figures(text):
     out = []
-    for m in NUM.finditer(text):
+    for m in _matches(text):
         num, scale = m.group(1), m.group(2) or m.group(3)
         if len(digits(num)) < MIN_DIGITS and not scale:
             continue
@@ -121,22 +160,44 @@ def figures(text):
     return out
 
 
-def raw_evidence(raw_body):
-    toks, scales = [], []
-    for m in NUM.finditer(raw_body):
+def _scan(raw_body):
+    toks, at = [], []
+    for m in _matches(raw_body):
         w = (m.group(2) or m.group(3) or "").lower()
-        toks.append((m.group(1), digits(m.group(1)),
-                     parse_value(m.group(1), w)))
-        scales.append(SCALE.get(w, SUFFIX.get(w)))
+        toks.append((m.group(1), digits(m.group(1)), parse_value(m.group(1), w)))
+        at.append((m.start(), SCALE.get(w, SUFFIX.get(w))))
     values = {v for _, _, v in toks if v is not None}
-    # Let a bare number borrow a scale word stated nearby, so a listed value counts as
-    # spoken even when the speaker only said the unit once.
+    # Every scale word in the text, INCLUDING ones attached to no number at all. ep05's raw
+    # reads "consumption is is in the trillion, 1.2, thereabout" -- the unit is a bare word
+    # and the value follows it, so a scale list built only from number-attached words cannot
+    # see it, and the published "1.2 trillion" looked unsourced.
+    spoken = [(m.start(), SCALE[m.group(0).lower()])
+              for m in SCALE_WORD.finditer(raw_body)]
     for i, (_, _, v) in enumerate(toks):
-        if v is None or scales[i] is not None:
+        if v is None or at[i][1] is not None:
             continue
-        lo, hi = max(0, i - SCALE_REACH), min(len(toks), i + SCALE_REACH + 1)
-        for s_ in {x for x in scales[lo:hi] if x}:
-            values.add(v * s_)
+        pos = at[i][0]
+        for p, s_ in spoken:
+            if abs(p - pos) <= SCALE_REACH:
+                values.add(v * s_)
+    return toks, values
+
+
+def raw_evidence(raw_body):
+    """Scan raw.md as written, then again with the ASR's two decimal manglings undone.
+
+    The rewrites ADD readings, they do not replace them. Substituting in place destroyed
+    evidence: raw's `Ada 6. 6 bilion` became `6.6 bilion`, and a published `6 bilion` that
+    the transcript plainly supports was then reported unsourced. Five episodes appeared on
+    the flag list that way before this was split in two.
+    """
+    toks, values = _scan(raw_body)
+    for fix in (SPOKEN_POINT, SPLIT_DECIMAL):
+        alt = fix.sub(r"\1.\2", raw_body)
+        if alt != raw_body:
+            more_toks, more_values = _scan(alt)
+            toks = toks + more_toks
+            values |= more_values
     return toks, values
 
 
