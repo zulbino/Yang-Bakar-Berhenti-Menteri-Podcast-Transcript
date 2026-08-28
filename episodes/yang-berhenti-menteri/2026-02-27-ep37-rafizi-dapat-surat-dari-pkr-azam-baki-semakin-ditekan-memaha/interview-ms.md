@@ -383,15 +383,15 @@ Jadi saya rasa perkara ini, walaupun mereka boleh senyum di depan semua orang, l
 
 Dan kalau, sebagai contoh, dia dilihat sebagai boneka — semuanya dia hanyalah wajah hiasan yang senyum sahaja, tetapi semua keputusan itu dibuat oleh orang yang lebih tua dan lebih kanan dalam PAS, terutamanya Dato' Seri Hadi Awang — itu juga akan ada kesan besar kepadanya pada masa akan datang. Dan kalau setiap kali dia dihulurkan mikrofon, orang tanya pasal PN, dia tak boleh bagi jawapan terus, dia kata "oh, kita kena balik mesyuarat dulu" — orang memang akan tahu sebenarnya kamu ini boneka, kamu tak boleh buat keputusan. Jadi itu sesuatu yang menarik, kerana maksudnya kita akan ada modal yang banyak untuk PRU akan datang.
 
-**Speaker 2:** Baik. Kita ke tajuk yang terakhir. Akhirnya, setelah...
+**Haziq:** Baik. Kita ke tajuk yang terakhir. Akhirnya, setelah...
 
 **Rafizi:** Kenapa ada Stranger Things? Stranger Things ni memang Gen Z ke? Eh, Gen Z — aku tengok Stranger Things, so aku kira Gen Z lah. YB, hati Gen Z. Gen Z transfer, Gen Z transfer. Haa. Kenapa pula ada Friends? Sejak bila pula Friends jadi Gen Z? Friends tu Millennials. Mana ada — Friends tu Gen X lah, itu zaman aku. Tua bangka. Masa saya tengok, maksudnya kau dah ketinggalan zaman, maksudnya kau suka oldies. Friends kan 90-an — 90-an lah, 90-an. Haa, korang baru lahir...
 
-**Speaker 2:** ...kan masa tu.
+**Haziq:** ...kan masa tu.
 
 **Speaker 3:** Tapi dia sampai awal 2000-an...
 
-**Speaker 2:** ...tengok kan. Tapi sekarang tengok lagi, ada kat Netflix kan. Okay, baik. Jadi pengumuman kepada rakan-rakan yang mendengar podcast ini — kita ada buat survei berkaitan dengan memahami Gen Z ini. Kita buat satu kajian mendalam yang kita tak pernah buat sebelum ini, dan kita menjemput penganalisis politik utama kita untuk bertanya soalan. Apa dapatannya, YB?
+**Haziq:** ...tengok kan. Tapi sekarang tengok lagi, ada kat Netflix kan. Okay, baik. Jadi pengumuman kepada rakan-rakan yang mendengar podcast ini — kita ada buat survei berkaitan dengan memahami Gen Z ini. Kita buat satu kajian mendalam yang kita tak pernah buat sebelum ini, dan kita menjemput penganalisis politik utama kita untuk bertanya soalan. Apa dapatannya, YB?
 
 **Rafizi:** Kau ni macam Zaleha.
 
@@ -399,11 +399,11 @@ Dan kalau, sebagai contoh, dia dilihat sebagai boneka — semuanya dia hanyalah 
 
 **Rafizi:** Engkau?
 
-**Speaker 2:** Gen Z 2. Gen Z awal-awal.
+**Haziq:** Gen Z 2. Gen Z awal-awal.
 
 **Speaker 3:** Eh kau—
 
-**Speaker 2:** Gen Z ke? Gen Z 2 lagi lah, '98.
+**Haziq:** Gen Z ke? Gen Z 2 lagi lah, '98.
 
 **Speaker 3:** So memang antara persoalan besar ini — even kalau tengok media pun, kebanyakan orang tanya soalan yang sama: apa yang Gen Z nak? Dulu, apa yang Millennial nak? Tapi kami pun masa itu tak tahu apa.
 
@@ -411,7 +411,7 @@ Dan kalau, sebagai contoh, dia dilihat sebagai boneka — semuanya dia hanyalah 
 
 **Speaker 3:** Oh, tak kisah.
 
-**Speaker 2:** Saya rasa sebab pendekatannya berbeza. Orang tak boleh faham sampai sekarang. Jadi itulah soalan saya — kita dah lambat sikit, kita dah bercakap Gen Z ni bertahun-tahun, tapi dari segi proses pemikiran pun orang tak dapat nak start kat mana, macam mana. Jadi YB, macam mana proses pemikiran YB untuk sampai dapat survei ni?
+**Haziq:** Saya rasa sebab pendekatannya berbeza. Orang tak boleh faham sampai sekarang. Jadi itulah soalan saya — kita dah lambat sikit, kita dah bercakap Gen Z ni bertahun-tahun, tapi dari segi proses pemikiran pun orang tak dapat nak start kat mana, macam mana. Jadi YB, macam mana proses pemikiran YB untuk sampai dapat survei ni?
 
 **Rafizi:** Jadi sebab itu — masa itu, kita bermula daripada soalan yang sama: actually apa dalam kepala Gen Z, Millennials ini, dia nak apa. Jadi sebab itu kita cuba memahami sikap mereka kepada beberapa perkara tertentu. Ini kaedah biasa bila kita buat kajian sosio-politik — kita kena tengok tingkah laku dan juga sikap sebelum kita boleh cuba ramalkan keputusan dia. Contohnya, ada orang kata ini "kajian menyelam diagnostik" — saya tak nak pergi panjang lebar. Kita cuba faham, pada pandangan Gen Z, orang yang macam mana atau ahli politik yang macam mana yang dilihat lebih kompeten untuk menyelesaikan masalah kos hidup. Jadi kita tanya benda-benda macam itu — bukanlah kita tanya dia, "okey macam mana nak selesaikan," kita tanya pandangan dia — di mata dia, orang yang macam mana yang boleh menyelesaikan masalah kos sara hidup ni dengan lebih baik.
 
@@ -427,7 +427,7 @@ Jadi ini menjadi cabaran yang utama, kerana jelaslah — Gen Z Melayu, Cina, sam
 
 Yang ini kita tak tunjuk di sini, tapi yang ini kita cuba nak faham pasal perangai ataupun sikap Gen Z dan Millennial Melayu dan Cina yang berkaitan dengan lawak jenaka — untuk kita cuba faham apa yang mereka kira sensitif, apa yang mereka kira tak sensitif, dan ada percanggahan yang jelas. Contohnya, kita tanya apa pandangan mengenai lawak jenaka yang mengenai kaum ataupun mengenai jantina. Untuk Gen Z dan Millennial Melayu, yang paling dominan ialah: tak boleh diterima langsung.
 
-**Speaker 2:** Oh, ya.
+**Haziq:** Oh, ya.
 
 **Rafizi:** Yang paling dominan. Tapi untuk Gen Z Cina dan Millennial Cina, dia kata boleh diterima, tapi sepatutnya mestilah "berniat baik" — maksudnya, mesti berniat baik untuk melawak sahaja. Jadi anda lihat percanggahan itu — sebab itu dia ada masalah dalam masyarakat. Kerana Gen Z Melayu dan Millennial Melayu ini akan cepat terpengaruh, terutamanya kalau benda itu bersabit dengan kaum — dia akan melihat itu sebagai satu "kuah hajar" [tempias/kesan buruk] pada orang Melayu. Cina, dia tak kisah sangat — anda buat lawak pasal Cina pun dia tak kisah sangat, asalkan lawak itu bukan sangat pasal perkauman, tapi itu memang buat lawak. Jadi antara Melayu dengan Cina itu berbeza.
 
@@ -467,12 +467,12 @@ Jadi ini masa yang baik untuk kita berhenti. Ini bermakna kita tidak ada jawapan
 
 **Rafizi:** Okay lah, tak adalah pendek. Selalunya dua jam setengah. Okay lah, itu saja lah kot. Selamat malam. Kalau anda berpuasa, nampak macam tak bersemangat — okay, itu saja. Aku yang kena kejar kiri kanan, orang tanya dah kena tangkap ke belum, ni pun masih bersemangat.
 
-**Speaker 2:** Itu saja. Jom kita moreh. Moreh apa? Yelah, diorang malam kan sekarang.
+**Haziq:** Itu saja. Jom kita moreh. Moreh apa? Yelah, diorang malam kan sekarang.
 
 **Rafizi:** Yelah, tapi bukan — orang dah masuk moreh apa, pukul satu pagi? Pukul satu pagi lah, orang dah masuk sahur. Sahur, okay, jom kita bersahur. Okay, sahur, jangan lupa. Oh, tapi kesum tak ada kat sahur. Moreh masa lagi boleh kat kesum. Haa, okay. Dan minggu — saya ingat minggu depan kita akan lancarkan "Pinjam Gadget." Haa, ya, dari ni eh.
 
-**Speaker 2:** Haa.
+**Haziq:** Haa.
 
 **Speaker 3:** Ya, ya, betul, minggu depan.
 
-**Speaker 2:** Okay, kita jumpa lagi minggu depan. Selamat berpuasa, beribadah, dan sama-sama beribadah. Itu saja. Assalamualaikum, jumpa lagi.
+**Haziq:** Okay, kita jumpa lagi minggu depan. Selamat berpuasa, beribadah, dan sama-sama beribadah. Itu saja. Assalamualaikum, jumpa lagi.

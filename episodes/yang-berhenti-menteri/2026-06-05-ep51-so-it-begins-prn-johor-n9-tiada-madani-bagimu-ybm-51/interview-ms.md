@@ -236,161 +236,161 @@ Jadi kita bukan sahaja kerajaan, kita perlukan bank, kerana bank yang bawa pelab
 
 **Rafizi:** Tepuk dahi kita orang. Awak sekat semua benda, MOF tu sampai berapa mesyuarat, MB Johor pun melenting, saya pun melenting kan. Sampai kita dah tandatangan, MOF masih lagi tak bagi butiran dari segi insentif, cukainya macam mana, kastamnya macam mana kan. Dia kata nanti dulu, nanti dulu, sebab kita tak nak begini-begini kan. Tak apalah, dah tandatangan semua, dah jadi berita baik semua. Subhanallah, MITI kemudian datang ke kabinet. Perancangan sebenarnya Kementerian Ekonomi, tapi bila dah jadi dilaksanakan, maka mestilah MITI. Dan kabinet bersetuju. Jadi saya tengok klip-klip. Sebab itu saya rasa kalau tak ada kesabaran kan, tak adalah JSSEZ ni. Jadi sekarang ni jadi lawak bila tiba-tiba AMK ni gunakan pula JSSEZ ni sebagai modal untuk PH kan. Jadi saya tengok saja mereka berbual, saya suka lah — satu inisiatif ekonomi merentas sempadan dua negara ke arah pasaran bersama, sekarang ni nampak berlaku dengan baik. Sebab, saya harap lah, kalaupun saya mati selepas ini, siapa pun jadi Menteri Ekonomi atau Perdana Menteri Malaysia — pemacu diplomasi ekonomi paling penting generasi akan datang ialah ke arah kesatuan pasaran bersama dan kastam bersama untuk Asia Tenggara pula. Bila itu berlaku, Asia Tenggara ini boleh menjadi ekonomi keempat atau ekonomi ketiga terbesar di dunia — selepas China, selepas Eropah — maaf, selepas AS, kemudian Asia Tenggara. Sekarang ini sebenarnya susunannya ialah AS, China, kemudian Eropah, kemudian India, Asia Tenggara — kita nombor 5. Dan kita dijangka akan mengambil alih tempat keempat dalam tempoh 10 tahun. Tapi kalau kita menuju ke arah pasaran bersama dan kesatuan kastam, dan modelnya ialah JSSEZ — sebab di Eropah dia lain, mereka pakai mata wang tunggal. Kita takkan bersetuju dengan itu. Asia Tenggara takkan setuju mata wang tunggal. Sebab sebaik sahaja anda ada mata wang tunggal, kekangan bajet anda itu — mereka anggap anda akan hilang kedaulatan ekonomi. Sebab inflasi anda kena kekal dalam paras tertentu, defisit bajet anda kena kekal, kalau tidak, anda tidak boleh mengendalikan mata wang tunggal. Jadi kita perlu ada model yang tak pernah ada di dunia lagi, iaitu kita ada mata wang berdaulat yang bebas tetapi kita beroperasi sebagai satu pasaran tunggal dan satu kesatuan kastam. Benda ni mungkin ambil masa 10, 15, 20 tahun — masa depan negara, bukan untuk mengambil kredit. Pada masa itu saya dah mati, Anwar Ibrahim dah mati, On Hafiz pun mungkin dah tak ada, Zafrul pun insyaAllah dah tak ada apabila ia berlaku. Tapi sebab itu kita perlu pastikan ia berjaya. Sebab kalau ia berjaya, kedua-dua Malaysia dan Singapura boleh yakinkan seluruh Asia Tenggara bahawa kita telah lakukannya. Dan jika berkesan, ia menjadi Shenzhen yang baharu, maka kita boleh gunakan konsep yang sama untuk seluruh Asia Tenggara. Dan bila kita buat itu, ia secara berkesan menjadi satu pasaran tunggal, satu kesatuan kastam. Kemudian pada asasnya kita menjadi ekonomi ketiga, keempat terbesar di dunia.
 
-**Speaker 3:** Ini adalah soalan untuk anda, kerana saya ingat ada orang lontarkan idea juga antara Malaysia dan Thailand. Adakah ini kerana JSSEZ atau sebelum itu dah memang dah ada?
+**Farhan (Pa'an):** Ini adalah soalan untuk anda, kerana saya ingat ada orang lontarkan idea juga antara Malaysia dan Thailand. Adakah ini kerana JSSEZ atau sebelum itu dah memang dah ada?
 
 **Rafizi:** Tak, bila ia jadi, kemudian JSSEZ mendapat perhatian dunia. Sebab memang, sebab itulah pelaburan itu jadi tertinggi semua kan. Sebab ia masuk akal. Akhirnya, orang kata akhirnya Malaysia dan Singapura jadi waras sedikit sendiri, 60 tahun — benda yang sepatutnya jadi tak jadi-jadi kan. Maka semua nak lah. Jadi negeri-negeri utara nak — kami nak zon ekonomi khas dengan Thailand. Thailand pun nak kan. Jadi benda tu tiba-tiba jadi. Jadi kita buat kajian semua, memang ada kajian, memang kita dah lalui proses tu semua. Ia tak setanding sepenuhnya. Sebabnya begini — kompleksiti ekonomi Singapura jauh di hadapan berbanding kita, cuma Singapura tidak ada sumber langsung. Satu-satunya kelebihan yang Singapura ada ialah kecekapan. Jadi kalau kita gabungkan kecekapan Singapura dengan sumber yang Malaysia ada dan kita bergerak sebagai satu unit ekonomi — pada asasnya rakan kongsi, perkongsian kan — memang dari segi tawaran nilai kepada dunia itu, tak banyak tempat di dunia yang ada seperti itu. Cuma kalau kita tak buat JSSEZ dan kita kekal dengan kerangka pembangunan hartanah zaman-zaman dulu di mana Malaysia habiskan duit, tunggu orang datang, tak menjadilah — ia memerlukan kecekapan di pihak kita, ia memerlukan kita mengatasi kesesakan, contohnya imigresen kita, kastam kita, kecekapan kita. Kalaupun birokrasi di Malaysia ini tak boleh secekap Singapura, tapi paling kurang hampir 80% Singapura lah — itulah sebab JSSEZ boleh berlaku. Anda tidak boleh kata perkara yang sama, ia langsung tidak setanding, contohnya antara Rantau Panjang dan Golok — mana ada, tiada satu pun yang menepati ciri itu. Antara Perlis Utara, Bukit Kayu Hitam dengan... apa nama, apa dipanggil — Sadau? Sadau kan, Sadau. Ia tidak setanding. Jadi saya memang — bila kita disuruh orang nak — sebenarnya saya kata tak apalah, kita akan buat kajian, lalui proses, dan kita tengok keputusan. Dan keputusannya, tak apalah, kita KIV dulu. Dah sejam eh — haa, sejam pasal JSSEZ. Supaya tak payahlah berbual-bual soal kredit.
 
-**Speaker 3:** Tapi mungkin kita boleh minta AMK petik lebih banyak lagi lah, supaya...
+**Farhan (Pa'an):** Tapi mungkin kita boleh minta AMK petik lebih banyak lagi lah, supaya...
 
 **Rafizi:** ...kita boleh terangkan. Tak, tapi bukan AMK — kepada penulis-penulis hantu, sesiapa sahaja yang menjadi bekas wartawan yang sekarang ini menjadi penulis hantu kepada AMK kan. Baik, beria, beria. Tapi yang ini yang beria ialah saya. Sebab beria saya tegangkan sampai satu jam. Ini adalah kandungan beria yang paling lama dalam 51 episod.
 
-**Speaker 2:** Dan YB cakap tentang MITI tadi — saya tak tahulah, saya rasa orang biasa memang akan rasa... orang yang tak waras je rasa benda tu tak buat mereka annoyed.
+**Haziq:** Dan YB cakap tentang MITI tadi — saya tak tahulah, saya rasa orang biasa memang akan rasa... orang yang tak waras je rasa benda tu tak buat mereka annoyed.
 
 **Rafizi:** Yalah, sama ada dia percaya ataupun tidak lah. Dia akan kata, "tak ada lah, Rafizi bohong semua ni kan." Jangan tanya saya, pergi tanya pegawai-pegawai beratus-ratus yang buat itu, termasuklah juga pasukan daripada PricewaterhouseCoopers yang bekerja dengan kita orang. Jangan tanya saya. Cakap, "saya baru tengok saja podcast tu, eh betul ke?" — jadi macam itu hampir tanya mereka. Mereka akan cakap, "kita orang berbulan-bulan sakit hati tau."
 
-**Speaker 2:** Okey, bercakap tentang MITI, kita ada bekas Menteri MITI.
+**Haziq:** Okey, bercakap tentang MITI, kita ada bekas Menteri MITI.
 
-**Speaker 3:** Intern pandan.
+**Farhan (Pa'an):** Intern pandan.
 
-**Speaker 2:** Intern pandan. Pasukan bola pun boleh...
+**Haziq:** Intern pandan. Pasukan bola pun boleh...
 
 **Rafizi:** ...lalang. Tanda soal. Tapi dia jawab kan, dia cuba jawab lah — dia kata dia ada perjanjian dengan ketua AMK Ampang untuk bertukar baju.
 
-**Speaker 3:** Tapi kalau saya, saya datang tengok...
+**Farhan (Pa'an):** Tapi kalau saya, saya datang tengok...
 
 **Rafizi:** Itu boleh diterima ke...
 
-**Speaker 3:** ...selaku orang yang tak tengok bola...
+**Farhan (Pa'an):** ...selaku orang yang tak tengok bola...
 
 **Rafizi:** Tak tahu.
 
-**Speaker 3:** Sebagai peminat bola, saya rasa tak boleh.
+**Farhan (Pa'an):** Sebagai peminat bola, saya rasa tak boleh.
 
 **Rafizi:** Tak boleh lah, tak boleh, tak boleh lah. Saya yang bukan — awak tengok lah, saya yang bukan apa nama ni, dikira peminat tegar semua ni kan, bukan peminat bola sangat kan. Tak pernah saya tukar pasukan kan, macam mana pun saya sokong lah — saya memang Liverpool daripada dulu lah, menang kalah pun apa kan. Jadi tak tahulah, kena tanya orang, memang biasakah orang bertukar-tukar pasukan begini?
 
-**Speaker 3:** Tak, dia bukan setakat tukar baju — dia tukar baju, pakai, tengok final, bersorak untuk pasukan itu lagi. Lepas tu kata, "tak, saya sebenarnya peminat Liverpool." Bangsat final kot. Bangsat final. Ada ya, bangsat final.
+**Farhan (Pa'an):** Tak, dia bukan setakat tukar baju — dia tukar baju, pakai, tengok final, bersorak untuk pasukan itu lagi. Lepas tu kata, "tak, saya sebenarnya peminat Liverpool." Bangsat final kot. Bangsat final. Ada ya, bangsat final.
 
 **Rafizi:** Jadi... haa, tak apa lah. Itu kelebihan dia lah kot. Sebab tu saya ingat Zafrul lebih istimewa daripada kita semua — dia sangat fleksibel. Sebab orang biasa di luar jangkauan akal kita untuk buat benda macam ni kan, itulah istimewanya Zafrul. Sebab itu setiap kali ada kerajaan bertukar, dia mesti ada di situ. Jadi, yalah, ia bergantung kepada kita orang ramai untuk tengok lah, cuma kepada mereka terutamanya yang muda-muda lah kan — tak payahlah buat macam ni, kita kekallah dengan setia, itu penting juga. Yang lawaknya dalam PKR kan, orang seperti saya ni dimaki tiap-tiap hari sebagai tidak setia, tapi pada masa yang sama watak seperti Tengku Zafrul ini menunjukkan bahawa ketidaksetiaan itulah yang dicari di dalam PKR kan. Itu sebabnya orang buat lawak kata, "lepas ni kalau PAS jadi kerajaan, dia kena masuk PAS pula." Menarik, menarik. Okay, sayang, ni tak payah tanya lah — pemenang beria adalah saya pada minggu ini.
 
-**Speaker 2:** Ada satu lagi, sayang.
+**Haziq:** Ada satu lagi, sayang.
 
 **Rafizi:** Oh, ada lagi? YB ke atau Zafrul? Tak, tak, tak — saya menang, saya sekarang self-claim. Orang lain bergaduh nak claim kredit untuk JSSEZ ni, saya claim kredit beria.
 
-**Speaker 2:** Tak apa lah, ini yang terakhir pun saya takut tambah sejam lagi. "Profesor pakai data PADU, masukkan dalam Bersama" — dia tiap-tiap hari ada je benda-benda. YB, bukan ini sajalah saya rasa. Ni bila YB kata nak masuk PRN Johor, berapa juta lagi isteri Datuk Zahiduddin nak sponsor ni?
+**Haziq:** Tak apa lah, ini yang terakhir pun saya takut tambah sejam lagi. "Profesor pakai data PADU, masukkan dalam Bersama" — dia tiap-tiap hari ada je benda-benda. YB, bukan ini sajalah saya rasa. Ni bila YB kata nak masuk PRN Johor, berapa juta lagi isteri Datuk Zahiduddin nak sponsor ni?
 
 **Rafizi:** Yang itulah cerita — cerita terbaru itu bermula RM8.5 juta. Kemudian cerita pasal isteri Arwah Tun Daim, Toh Puan Naimah, yang bagi duit untuk bertanding masuk PRN. Johor dan Melaka dengan Negeri Sembilan pun kata, oh ini sebab dia ada penaja, pembiaya semuanya. Tapi dalam banyak-banyak fitnah itu, fitnah yang paling lawak ialah Rafizi pakai data PADU untuk daftarkan ahli. Hari ini saya ingat ahli Bersama lebih kurang RM23,000-an lebih — dah perlahan dah, formalnya dah kurang, dah perlahan jadi RM23,000-an kan. Tapi maksudnya, insyaAllah lah, saya ingat selepas satu bulan, ahli Bersama ini akan jadi 30,000-an lah — yang mana okay lah kan, agak memberangsangkan lah. Tapi kalau saya gunakan data PADU, ahli Bersama ini 34,000,000. Bukan 23,000, dia mengarutlah. Saya pun tak ada akses PADU, dan ini semua data datangnya daripada kerajaan. Dan dia sangat menghina orang di atas pagar yang beria-ia menjadi ahli Bersama, sampai saya jadi khidmat pelanggan, kena marah tiap-tiap hari — "saya nombor pendaftaran tak dapat lagi, saya belum diluluskan lagi." Jadi, tak tahu ada orang percaya ke yang kita pakai data, atau ini cuma dalam gelembung mereka sahaja?
 
-**Speaker 2:** Berani sungguh. Tengok, berani. Haa, kesan rangkaian itu tak ada lah, sebab benda itu tak masuk akal kan.
+**Haziq:** Berani sungguh. Tengok, berani. Haa, kesan rangkaian itu tak ada lah, sebab benda itu tak masuk akal kan.
 
-**Speaker 3:** Sebab mereka kongsi juga. Mereka macam — dulu kalau ada dakwaan atau fitnah atau apa, mereka akan tanya, "betulkah?" Tapi sekarang, mereka forward kepada saya, mereka tanya, "apalah mereka ni, dakwa benda ini pula?"
+**Farhan (Pa'an):** Sebab mereka kongsi juga. Mereka macam — dulu kalau ada dakwaan atau fitnah atau apa, mereka akan tanya, "betulkah?" Tapi sekarang, mereka forward kepada saya, mereka tanya, "apalah mereka ni, dakwa benda ini pula?"
 
 **Rafizi:** Kan? Lagipun, kita parti yang baru, kecil kan. Dan memang orang yang kenal saya, saya tidak pernah percaya kepada kuantiti. Saya tidak pernah percaya pada kuantiti. Sebab itu orang kata dia susah nak kerja dengan saya, begini-begini semua kan — sebab saya sentiasa percaya pada kecekapan. Jadi untuk jadi cekap, sebenarnya kita hanya perlukan jisim kritikal. Maksudnya, kuantiti itu hanya perlu jisim kritikal sahaja. Sebaik sahaja anda ada saiz pasukan yang betul, yang penting ialah kecekapan, kualiti.
 
-**Speaker 2:** Jadi awak manfaatkan segalanya?
+**Haziq:** Jadi awak manfaatkan segalanya?
 
 **Rafizi:** Bukan, maksudnya, kalau ambil contoh untuk parti-parti politik kan — sebenarnya kita, kalau ada 34 juta rakyat Malaysia nak masuk, baguslah kan. Tapi sebenarnya, bezanya contohnya ada dua keadaan kan. Satu parti mengaku dia ada 1.5 juta ahli, jadi kuantiti bagus lah, tapi dari segi kesan buat kerja, parti yang ada 1.5 juta itu, kesannya lebih kurang macam dia ada 50 ribu orang sahaja. Jadi, maksud saya, anda ada apa yang dipanggil kuantiti dengan mengorbankan kualiti, kerana mereka yang masuk itu semua adalah yang orang lain tolong daftarkan — mereka tak peduli pun semua kan. Saya tak nak Bersama jadi macam itu kan. Tapi kalau kecil sangat, ahli pun 10,000, 5,000, payahlah nak buat kerja. Jadi saiz yang betul untuk parti politik pada pandangan saya, contohnya lah kan, dalam tempoh menjelang hujung tahun ini ataupun untuk masuk PRU nanti, kita ada 100 ribu ahli. Tetapi 100 ribu ahli itu tiap-tiap hari buat kerja — kalau dia tidak berada di lapangan menjadi jentera, dia tiap-tiap hari menerangkan mengenai Bersama seperti yang berlaku sekarang. Sekarang, ya — 100,000 itu telah mencapai jisim kritikal dan mempunyai tahap kecekapan yang lebih tinggi daripada parti yang ada 1.5 juta ataupun 3 juta. Jadi, kita mahukan ahli berkualiti. Jadi ada orang yang merayu kepada saya, kata, "ini yang bekas PKR lah." Okay, dia kata dia ada ramai orang, ada 3,000-4,000 orang yang boleh ikut dia kan — tapi masa zaman PKR dulu senang, sebab tak ada yuran, tak ada bayaran, yuran keahlian RM20 itu. "Jadi saya boleh kutip je semua IC, saya masukkan." Jadi Bersama kena macam tu lah — RM20 ini, saya tak nak begitu, ok. Kenapa kita nak RM20 itu? Selain daripada kita perlu tunjukkan bahawa kita boleh kendalikan satu parti secara bermaruah dengan duit yang kecil dan duit itu daripada kutipan ahli dan orang ramai — itu satu model yang penting. Satu lagi, kita juga nak pastikan benda itu tak berlaku lah, supaya orang yang masuk itu memang betul-betul nak masuk, sanggup bayar RM20. Jadi... kalaulah saya, kalaupun saya ada akses kepada data PADU, ataupun kita boleh daftarkan orang saja macam itu — itu adalah kerja yang bodoh. Jadi beria lah dia buat kerja, tapi masih lagi tidak boleh menandingi saya yang menang beria tadi. Baik, kita dah kena move on, kita dah dekat sejam lebih beria kan.
 
-**Speaker 2:** Tahniah YB, yang memecahkan rekod bukan sahaja menobatkan diri sendiri, tetapi paling lama lah. Haa, dah lah. Okay, kita tengok "Hidup Keras" pula — ada dua je.
+**Haziq:** Tahniah YB, yang memecahkan rekod bukan sahaja menobatkan diri sendiri, tetapi paling lama lah. Haa, dah lah. Okay, kita tengok "Hidup Keras" pula — ada dua je.
 
 **Rafizi:** Haa, ya. Sebab saya ingat orang nak tunggu. Dan hari ini pun kita tak boleh nak lama sangat kan, sebab pagi-pagi esok saya dah nak kena — kena PSC di Pandan kan, kemudian saya nak kena ke Johor malam esok kan. Kaunter bergerak — pagi dan malam, ke JB terus. Dan kemudian ke JB itu, maksudnya dengan kumpulan orang, banyaklah orang kita perlu susun jentera daripada awal, baik. Jadi kita teruskan...
 
-**Speaker 2:** ...ke "Hidup Keras." Kita ada "So It Begins," di mana kedua-dua DUN dibubarkan.
+**Haziq:** ...ke "Hidup Keras." Kita ada "So It Begins," di mana kedua-dua DUN dibubarkan.
 
 **Rafizi:** Itu kenapa pula yang di tengah itu, apa nama dia, King Théoden? Théoden. Kenapa pula ada King Théoden di situ?
 
-**Speaker 3:** Selalu kalau...
+**Farhan (Pa'an):** Selalu kalau...
 
 **Rafizi:** Kenapa awak tak letak muka Anwar Ibrahim di situ sebagai King Théoden?
 
-**Speaker 3:** Sebab saya cuba pakai ChatGPT tadi tapi tak menjadi. Tok Min dengan Menteri Besar Johor, On Hafiz lah. Okay.
+**Farhan (Pa'an):** Sebab saya cuba pakai ChatGPT tadi tapi tak menjadi. Tok Min dengan Menteri Besar Johor, On Hafiz lah. Okay.
 
 **Rafizi:** Jadi awak tak boleh, awak tak boleh transpose muka pimpinan utama, sama ada BN atau PH, menjadi King Théoden? Tak dapat. Okeylah, tiruan yang bagus.
 
-**Speaker 2:** YB, saya — kita bukan nak mula dengan pilihan raya apa semua, tapi lebih kepada apa yang penting kepada pilihan raya orang-orang di Johor dan orang-orang di Negeri Sembilan ini. Jadi sebelum kita nak faham sentimen atau apa, mungkin kita kena faham keadaan di setiap negeri itu dulu. Kalau kita boleh go through, mungkin saya rasa mula dengan Johor kot — bagaimana taburan populasi, keadaan ekonomi, cabaran yang unik untuk negeri Johor. Ada juga mungkin ancaman-ancaman yang sebenarnya mereka tak terfikir ada, tapi sebenarnya ada, kalau kita tak bertindak sekarang.
+**Haziq:** YB, saya — kita bukan nak mula dengan pilihan raya apa semua, tapi lebih kepada apa yang penting kepada pilihan raya orang-orang di Johor dan orang-orang di Negeri Sembilan ini. Jadi sebelum kita nak faham sentimen atau apa, mungkin kita kena faham keadaan di setiap negeri itu dulu. Kalau kita boleh go through, mungkin saya rasa mula dengan Johor kot — bagaimana taburan populasi, keadaan ekonomi, cabaran yang unik untuk negeri Johor. Ada juga mungkin ancaman-ancaman yang sebenarnya mereka tak terfikir ada, tapi sebenarnya ada, kalau kita tak bertindak sekarang.
 
 **Rafizi:** Ya, saya ingat, dalam tempoh 3-4 minggu ini lah kan, kita akan ada ramai peramal politik dan juga pakar-pakar politik dari kalangan netizen lah kan. Bukan sahaja daripada kalangan netizen, daripada kalangan pensyarah, pakar-pakar semua jadi pakar politik lah kan. Jadi mungkin yang kita nak ulas dan kita nak berkongsi dengan yang menonton ialah — jangan pakai tembak rambang sahaja, kerana ia ada perkara-perkara yang sangat rumit. Maksud saya, ada banyak faktor yang bermain di sini kan. Jadi sebelum saya masuk ke semua ini — erm, saya ingat PRN ini ialah yang paling suka diramal. Okey. Dan ia sebenarnya adalah garis dasar baru yang akan memberi gambaran penjajaran undi. Orang selalu cakap penjajaran semula politik kan? Itu parti politik syok sendiri — dia ingat dia masuk gabungan itu, dia masuk ini semua, maka dialah menentukan macam mana orang memilih. Ia terbalik tau sekarang. Yang rumitnya ialah pengundi menjajarkan diri mereka sendiri, penjajaran itu. Jadi kita tak pernah ada garis dasar kan. Jadi ramalan-ramalan netizen atau pakar-pakar ini semua bersifat sejarah — ia bukan bersifat ramalan. Ia menggunakan keputusan yang lepas-lepas. Dan keputusan yang lepas-lepas itu, sebenarnya bukan setanding sepenuhnya. Dan seperti yang saya selalu sebut, ada beza yang besar antara korelasi dengan sebab-akibat. Korelasi ini boleh tengok perkara-perkara yang lepas-lepas, dan mungkinlah kita kata kalau A berlaku, maka B akan berlaku — tapi ia tidak semestinya sebab-akibat, di mana penjajaran undi oleh rakyat ini akan berlaku. Maka kita perlu cuba faham sebenarnya apa faktor-faktor yang mempengaruhi keputusan dan kehidupan rakyat harian yang digunakan untuk menilai parti-parti — itu yang mungkin memberi sedikit gambaran mengenai sebab-akibat, kenapa keputusan undi itu dibuat. Jadi kalau kita ambil Johor terlebih dahulu — itu faktor yang kadang-kadang semua orang terlupa kan — Johor ini, walaupun orang kata ini tanah kelahiran UMNO dan ini ialah kubu kuat UMNO kan, Johor ini dari segi demografi mengikut negeri, yang Bumiputera, Melayu, Islam hanyalah 57%. 43% adalah bukan Bumiputera, pada asasnya Cina dan India. Betul, yang mana sangat tinggi. Sebenarnya, kalau saya tidak silap — cuba semak — Selangor pun ada komposisi orang Melayu, penduduk Melayu, yang lebih tinggi daripada bukan Melayu. Cuba tengok kan. Johor adalah tinggi kedua selepas Pulau Pinang. Selangor macam mana?
 
-**Speaker 3:** Selangor kira-kira 56% Melayu.
+**Farhan (Pa'an):** Selangor kira-kira 56% Melayu.
 
-**Speaker 2:** Jadi maksudnya Cina, India 35%.
+**Haziq:** Jadi maksudnya Cina, India 35%.
 
 **Rafizi:** Apa dia — Cina dan India Selangor, 35% je?
 
-**Speaker 3:** Selangor?
+**Farhan (Pa'an):** Selangor?
 
 **Rafizi:** Ya. Jadi, macam mana? Itu belum genap — itu baru 90.
 
-**Speaker 2:** Ikut komposisi jenis... bukan warganegara lah. Ada bukan warganegara?
+**Haziq:** Ikut komposisi jenis... bukan warganegara lah. Ada bukan warganegara?
 
 **Rafizi:** Bukan warganegara, 8%. Okay. Apapun, maksudnya, orang selalu ingat Lembah Klang ini ialah tempat yang paling bercampur lah, majmuk kan? Sebenarnya, Johor setanding dengan Selangor — dari segi hanya 57% Bumiputera, berbanding bukan Melayu. Oleh sebab itu dari segi pecahan kerusi-kerusi kan, ada antara 20 ke 25 kerusi di mana pengundi bukan Melayu adalah sama ada majoriti, ataupun mereka adalah minoriti yang besar sampai 30%, 25% ke 30%. Jadi itu hampir separuh daripada kerusi di Johor, begitu tau. Negeri Sembilan tidaklah sampai begitu, tetapi masih agak ketara — saya ingat Negeri Sembilan lebih kurang 63% Bumiputera Melayu Islam, 37% bukan Melayu. Betul. Cuma Negeri Sembilan itu, dari segi taburan pengundi bukan Melayu, ia lebih tertumpu — jadi kira-kira satu pertiga sahaja, maksudnya daripada 36 kerusi, ada lebih kurang 12 kerusi lah di mana sama ada pengundi bukan Melayu itu majoriti, kemudian 3 atau 4 kerusi lagi yang mana ia menjadi minoriti signifikan yang akan menentukan pemenang. Jadi, ini sangat merupakan medan yang sepatutnya PH menang — sepatutnya. Okay, sebelum kita pergi ke situ, nak ulas siapa yang menang dalam perkara yang satu lagi kan — jadi mengetahui demografi dan cabaran seterusnya ialah untuk kita cuba fahamlah sebenarnya, kalau kita jadi pengundi Johor — kalau kita Melayu, kalau kita Cina, kalau kita India, kalau kita di Negeri Sembilan kan — sebenarnya apa yang mempengaruhi undi kita nanti? Apa pendapat awak?
 
-**Speaker 2:** Paling jelas, antarabangsa...
+**Haziq:** Paling jelas, antarabangsa...
 
 **Rafizi:** Ya ke? Melayu maksudnya apa pertimbangan besarnya, kalau Cina apa pertimbangan besarnya, India apa pertimbangan besarnya kan. Sebab kalau tengok kepada penganalisis-penganalisis politik negeri kanan kan — saya bukanlah, sebab itu mereka tak suka kepada saya, sebab saya tak pernah layan mereka. Dan sebahagian sebab kenapa saya tak pernah layan mereka, sebab saya rasa kamu tak menambah ilmu baru. Sebab dia akan bagi apa yang kita akan dengar — sebenarnya untuk undi negeri, di DUN negeri ini, faktor-faktor tempatan adalah cukup penting. Kita dengar akan ada — "oh, sebenarnya untuk ADUN ini orang melihat kepada calon, bukan parti kan." Betul ke itu?
 
-**Speaker 2:** Sebagai orang...
+**Haziq:** Sebagai orang...
 
 **Rafizi:** Itu pada asasnya asas, contohnya, kenapa UMNO-BN sangat yakin menang besar di Negeri Sembilan dan juga di Johor. Sebab kononnya prestasi On Hafiz sebagai Menteri Besar adalah sangat baik dan dia sangat popular. PH pula rasa, kalau di Negeri Sembilan, prestasi Dato' Seri Aminuddin Harun, dia sangat popular, dan prestasi negeri memang betul lah, sebenarnya kedua-duanya betul. Dato' Seri On Hafiz memang popular dengan pengundi, betul. Prestasi pengurusan ekonomi Johor sebagai sebuah negeri, bila dibandingkan dengan negeri-negeri lain, memang bagus. Sebenarnya perkara yang sama boleh dikatakan tentang Dato' Seri Aminuddin — Tok Min memang popular dengan pengundi-pengundi Negeri Sembilan, Melayu, Cina, India. Prestasi ekonomi, pengurusan kewangan negeri, di bawah Tok Min memang pun lebih baik berbanding negeri-negeri lain, dan ada peningkatan yang baik dalam tempoh 8 tahun dia jadi Menteri Besar. Sekarang persoalannya, adakah itu menjadi faktor utama? Boleh jadi. Tak — ini bukan menjawab soalan, ini meneka jawapan. Apa pendapat awak? Awak mesti ada pendapat. Dan awak mesti ada pendapat — itu untuk netizen yang nak menjadi penganalisis dan peramal politik lah. Awak ada pendapat kerana awak ada asas untuk pendapat itu. Dan asas pendapat itu mestilah bertunjang kepada beberapa fakta, kepada beberapa penilaian, dan sebagainya. Itulah yang dipanggil hujah atau hipotesis — bukan meramal kosong. Jadi apa pendapat anda, bagaimana pengundi di Johor dan Negeri Sembilan akan mengundi?
 
-**Speaker 2:** Uh... ia ada banyak faktor, dan setiap orang, sekurang-kurangnya saya tak ada apa-apa tinjauan...
+**Haziq:** Uh... ia ada banyak faktor, dan setiap orang, sekurang-kurangnya saya tak ada apa-apa tinjauan...
 
 **Rafizi:** ...bukan setakat tinjauan lah — tinjauan itu data kuantitatif, tapi nama itu hipotesis. Hipotesis kan? Hipotesis juga bergantung kepada pemerhatian, kualitatif kan.
 
-**Speaker 2:** Jadi berdasarkan pemerhatian, setiap orang ada apa ni, keutamaan yang berbeza-beza, macam mana dia nak menilai. Sebahagiannya mungkin betul, ada yang kata "oh, ADUN ini bagus," boleh jadi betul, ada yang tengok isu nasional. Jadi saya rasa yang paling penting adalah kita klasifikasikan isu apa yang paling popular, ataupun keutamaan apa yang paling popular yang orang itu pertimbangkan untuk mengundi di situ lah.
+**Haziq:** Jadi berdasarkan pemerhatian, setiap orang ada apa ni, keutamaan yang berbeza-beza, macam mana dia nak menilai. Sebahagiannya mungkin betul, ada yang kata "oh, ADUN ini bagus," boleh jadi betul, ada yang tengok isu nasional. Jadi saya rasa yang paling penting adalah kita klasifikasikan isu apa yang paling popular, ataupun keutamaan apa yang paling popular yang orang itu pertimbangkan untuk mengundi di situ lah.
 
 **Rafizi:** Jawapan selamat. Pa'an?
 
-**Speaker 3:** Andaian saya berdasarkan — hipotesis saya berdasarkan pemerhatian yang saya buat setakat ini, memang orang Johor akan mengundi Barisan Nasional balik.
+**Farhan (Pa'an):** Andaian saya berdasarkan — hipotesis saya berdasarkan pemerhatian yang saya buat setakat ini, memang orang Johor akan mengundi Barisan Nasional balik.
 
 **Rafizi:** Dan orang — sebab apa? Apakah asas untuk anda kata begitu?
 
-**Speaker 3:** Sebab saya rasa mereka ni, um, prestasi Barisan Nasional di Johor agak okey. Trajektori ekonomi Johor...
+**Farhan (Pa'an):** Sebab saya rasa mereka ni, um, prestasi Barisan Nasional di Johor agak okey. Trajektori ekonomi Johor...
 
 **Rafizi:** Bila awak kata prestasi, maksud awak?
 
-**Speaker 3:** Dari segi tadbir urus. Okay, tiada isu sebenar yang menghantui Barisan Nasional Johor. Dan juga, saya rasa boleh dikatakan Menteri Besar On Hafiz telah melakukan kerja yang baik lah. Jadi kepuasan umum orang-orang Johor dengan kerajaan negeri semasa. Cuma, saya rasa ia akan lebih menolak kepada kelebihan UMNO, UMNO-BN, dan PH akan lebih kalah sikit lah, kerana mereka lihat UMNO sebagai tadbir urus utama, bukan... walaupun ada.
+**Farhan (Pa'an):** Dari segi tadbir urus. Okay, tiada isu sebenar yang menghantui Barisan Nasional Johor. Dan juga, saya rasa boleh dikatakan Menteri Besar On Hafiz telah melakukan kerja yang baik lah. Jadi kepuasan umum orang-orang Johor dengan kerajaan negeri semasa. Cuma, saya rasa ia akan lebih menolak kepada kelebihan UMNO, UMNO-BN, dan PH akan lebih kalah sikit lah, kerana mereka lihat UMNO sebagai tadbir urus utama, bukan... walaupun ada.
 
 **Rafizi:** Itu tidak sepenuhnya menjawab soalan, ataupun — dengan saya kan orang letih lah, tak apa, awak kena bersistematik. Itu jawapan dah melompat ke depan untuk meramalkan keputusan terus. Yang saya duk tanya kamu semua ialah, sebenarnya kita tahu ke tidak apa yang akan menjadi pertimbangan bila orang nak keluar mengundi ini? Tak — anda tidak mempunyai hipotesis sama sekali. Well, awak ada — awak ada hipotesis awak. Sebab itu awak bagi jawapan tadi, orang akan cenderung kepada BN sebab tiada skandal, ataupun tadbir urus nampak okey, prestasi nampak okey, semua kan, negeri. Maksudnya isu dan prestasi di negeri dan pimpinan negeri itu adalah faktor utama yang lebih dominan, contohnya, daripada isu nasional. Sebenarnya itu adalah hipotesis anda. Sebab itu anda cakap orang akan — tetapi pada dasarnya, adakah itu hipotesis? Saya tak ada data, saya tak ada buat...
 
-**Speaker 3:** Pemerhatian itu maksudnya bersembang dengan kawan-kawan daripada Johor lah.
+**Farhan (Pa'an):** Pemerhatian itu maksudnya bersembang dengan kawan-kawan daripada Johor lah.
 
 **Rafizi:** Anekdot.
 
-**Speaker 3:** Daripada Negeri Sembilan.
+**Farhan (Pa'an):** Daripada Negeri Sembilan.
 
-**Speaker 2:** Pemerhatian. Cuma satu lagi, YB — bukan nak tukar topik — nak mengundi ini susah ke, YB?
+**Haziq:** Pemerhatian. Cuma satu lagi, YB — bukan nak tukar topik — nak mengundi ini susah ke, YB?
 
 **Rafizi:** Apalah susahnya, hanya pangkah je lah.
 
-**Speaker 2:** Keluar rumah, hidupkan enjin. Jadi, maksud saya, okay — untuk setakat tengok prestasi kerajaan bagus, okay, memang bagus, okay — jadi ada faktor yang betul-betul buatkan orang itu keluar, teruja. PRU 18? Maaf, PRU 14.
+**Haziq:** Keluar rumah, hidupkan enjin. Jadi, maksud saya, okay — untuk setakat tengok prestasi kerajaan bagus, okay, memang bagus, okay — jadi ada faktor yang betul-betul buatkan orang itu keluar, teruja. PRU 18? Maaf, PRU 14.
 
 **Rafizi:** Haa, PRU 14. Pengembara masa.
 
-**Speaker 2:** Pengembara masa. Okay — dia ada, apa, kalau macam orang biasa macam saya sebutkan, dia ada sebab yang membuatkan orang keluar mengundi, bukan pasal saintifik — "bagus ke, angka ini ke apa sangat" — tahu kenapa nak keluar, nak kalahkan BN untuk kali pertama, keterujaan semua itu. Kalau hanya melihat kepada prestasi kerajaan negeri yang baik semua ini, "dia okay, dia baik, dia buat kerja" — jadi, takkan saya nak hidupkan enjin saya keluar untuk pergi pun...
+**Haziq:** Pengembara masa. Okay — dia ada, apa, kalau macam orang biasa macam saya sebutkan, dia ada sebab yang membuatkan orang keluar mengundi, bukan pasal saintifik — "bagus ke, angka ini ke apa sangat" — tahu kenapa nak keluar, nak kalahkan BN untuk kali pertama, keterujaan semua itu. Kalau hanya melihat kepada prestasi kerajaan negeri yang baik semua ini, "dia okay, dia baik, dia buat kerja" — jadi, takkan saya nak hidupkan enjin saya keluar untuk pergi pun...
 
 **Rafizi:** Kalau tanya saya lah, pada peringkat sekarang ini kan, sebenarnya saya pun tak boleh baca semua hipotesis yang ada. Macam tadi, hipotesis yang kata untuk negeri, orang tengok prestasi kerajaan negeri, jadi poster boy-nya ialah Menteri Besar semua itu kan. Ataupun, sisi lain hipotesis itu ialah pengundi bila dia mengundi di peringkat negeri, dia hanya melihat kepada isu negeri dan isu tempatan, tidak dipengaruhi oleh isu nasional semua itu. Itu adalah, saya ingat, hipotesis yang dalam 2-3 pilihan raya lepas pun, ia bercampur-campur. Sangat sukar untuk dibuktikan. Kalau tengok kepada korelasi daripada 2018, kemudian PRN 2022, kemudian PRU 2022 kan — sebenarnya korelasi yang paling tinggi adalah kadar keluar mengundi. Maksudnya, itu memang terbukti — kalau jumlah pengundi bukan Melayu keluar ramai, maka BN kalah. Kalau jumlah pengundi bukan Melayu jatuh pada kadar tertentu, BN menang besar. Boleh dikatakan tentang Johor, boleh dikatakan tentang Negeri Sembilan. Dan berdasarkan itu, sebenarnya, hipotesis-hipotesis seperti yang kita kata isu lokal, poster boy semua itu — kita nampak sebenarnya semua itu tiada korelasi dengan keputusan. Ambil contoh Negeri Sembilan 2018 — Tok Mat sangat popular.
 
-**Speaker 3:** Ha.
+**Farhan (Pa'an):** Ha.
 
 **Rafizi:** Tok Mat popular masa itu sebagai Menteri Besar, dia pun tak ada isu sangat pun kan — tapi kalah. Sebab yang keluar mengundi itu, macam Haziq kata lah, PRU 14 itu membuatkan semua orang keluar kan, jadi kadar keluar mengundi pengundi bukan Melayu terutamanya tinggi kan. Kalau tengok Johor, samalah, 2022 UMNO menang besar, yang ada 40 kerusi sekarang ini — bukanlah sebab UMNO itu sangat disokong, teruklah orang marah, atau Melayu telah kembali kepada UMNO semua kan? Tiada korelasi sangat pun dengan data — tetapi yang boleh dibuktikan ialah pengundi bukan Melayu tak keluar. Tapi bila PRU 2022, pengundi bukan Melayu yang keluar itu lebih ramai, maka keputusannya terbalik.
 
-**Speaker 2:** Terbalik di Johor kan? Dalam tempoh 6 bulan kan?
+**Haziq:** Terbalik di Johor kan? Dalam tempoh 6 bulan kan?
 
 **Rafizi:** Jadi awak betul tau, awak betul. Sebenarnya, kemudian awak boleh tanya soalan seterusnya lah — sebenarnya lah kan, kalau kita tahu satu-satunya korelasi ialah pengundi bukan Melayu keluar ramai atau tidak, sebenarnya apa yang mempengaruhi dia nak keluar atau tidak? Jadi itu sebenarnya yang sebenarnya kita susah nak cakap sekarang lah kan. Jadi, kemudian awak pergi ke lapisan soalan seterusnya kan. Saya dulu masa saya kerja lah, orang memang menyampah, sebab saya akan tanya sampai dah tak boleh nak tanya — kerana itulah cara awak mendiagnosis sesuatu. Sama kalau pergi jumpa doktor — kalau awak demam, awak pergi jumpa doktor cakap, "saya demam." Doktor akan cakap, "demam itu ada sakit tekak atau tidak? Hingus keluar atau tidak?" "Keluar." "Selalu pergi tandas atau tidak?" "Tak." Jadi, awak tanya, tanya, tanya, tanya, kemudian awak boleh mempersempitkan. Sebenarnya, ia disiplin yang sama dalam politik pun. Okay, sekarang kita tahu bahawa sebenarnya faktor yang paling penting ialah kadar keluar mengundi. Kadar keluar mengundi — sebelum pun kita nak bincang siapa yang disokongnya, sebab kalau kadar keluar mengundi itu rendah, memang korelasinya sangat jelas daripada 2018 lagi — kalau pengundi bukan Melayu tak keluar mengundi, memang UMNO akan menang. Dan UMNO menang itu bukan sebab UMNO kuat, tapi mungkin sebab faktor higienik — kenapa pengundi yang progresif tak keluar mengundi kan? Kemudian awak tanya soalan, sebenarnya, dia nak keluar atau tidak ini semua, apa faktor-faktornya? Okay, ini yang akan kita lihat nanti lah, yang akan jadi garis dasar baru kepada penjajaran undi baru pengundi-pengundi lah kan, dalam mana-mana pilihan raya lah kan. Sebenarnya isu ekonomi itu sentiasa isu nombor satu. Hmm. Macam mana dia bina perspektif ekonomi yang mempengaruhi keputusannya — pertama, dia nak keluar atau tidak; kedua, dia nak mengundi siapa — itu sebenarnya berbeza-beza, berbeza-beza. Tapi isu ekonomi itu, isu kos sara hidup itu, memang, memang nombor satu lah kan. Dan dalam kes Johor ini, ia sangat unik, kerana ia lebih unik daripada Negeri Sembilan — kerana contohnya, walaupun UMNO boleh sebut bahawa di bawah pentadbiran UMNO, perkembangan ekonomi Johor itu bagus, cemerlang semua kan, adakah kesan limpahan itu sudah sampai atau tidak? Adakah kesan pencetus itu, maksudnya orang sudah boleh nampak — contohnya sedang gembar-gemburkan JSSEZ ini, Kerajaan Persekutuan lah PH, UMNO lah BN sedang gembar-gemburkan kan, benda itu sudah mula dirasai ataupun tidak? Berapa ramai sebenarnya yang sudah dapat gaji yang besar begitu-begitu — itu satu yang penting lah, sebab kalau tidak, ia tidak mengubah perspektif ekonomi pengundi di bawah kan. Yang kedua, yang tak baik sebenarnya, ada kesan sampingan yang tidak diingini. Jadi kalau ambil contoh Johor, kesan sampingan yang tidak diingini itu sudah mula nampak — contohnya, pusat data.
 
-**Speaker 2:** Pusat data yang orang bising.
+**Haziq:** Pusat data yang orang bising.
 
 **Rafizi:** Yang orang bising, kerana pusat data ada di mana-mana. Dan dalam keadaan di mana Johor ada kekurangan sumber, terutamanya air, sama ada orang sudah mula nampak bahawa ada sisi lain JSSEZ dan juga pertumbuhan ekonomi. Pelaburan-pelaburan semua ini — "dah lah kami tak dapat apa lagi buat masa sekarang ini kan" — tapi pada masa yang sama, ia mula ada kesan-kesan lain. Sumber air, semua itu satu hal lah. Harga jadi tinggi, kerana pertumbuhan datang dengan inflasi — kan, pertumbuhan lebih kuat maksudnya kuasa beli lebih kuat, kuasa beli lebih kuat akan menyebabkan harga naik. Cuma Johor ini unik lah, kalau kuasa beli lebih kuat itu ialah orang dari luar yang datang ke Johor — baik orang Singapura, baik orang daripada Lembah Klang, ataupun orang daripada China, orang-orang asing yang datang kerja — itu menyebabkan sewa naik, itu menyebabkan harga rumah jadi naik tinggi kan. Jadi semua perkara-perkara ini, buat masa sekarang ini, saya tak rasa ada sesiapa pun yang mengukur dan boleh menyimpulkan secara muktamad sama ada ia putih atau hitam. Tapi soal naratif ekonomi ini yang memang menjadi keputusan ataupun faktor paling utama yang mempengaruhi pengundi, sebenarnya adalah pedang bermata dua kepada semua. Sama seperti kalau di peringkat persekutuan kan — ya, jawapan daripada kerajaan ialah, "oh, mata wang terbaik," jawapan daripada kerajaan ialah, "oh, pelaburan terbaik," kan? Kita tahu, memang betul lah, angka makroekonomi itu baik, tapi kenapa ia tidak bertukar menjadi sokongan yang padu kepada Dato' Seri Anwar, ialah kerana kesan limpahan itu masih lagi belum dirasakan, dan juga terutamanya ada beberapa kesan sampingan yang tidak diingini yang masih lagi belum dapat diselesaikan dengan baik. Sebab bagi setiap keputusan ekonomi yang kerajaan buat, sebenarnya ada pertukaran (trade-off). Jadi contohnya kerajaan nak kekalkan, contoh yang baik, harga RON95 lah kan — mengekalkan RON95 menunjukkan bagus, begini-begini kan — pertukarannya ialah kerajaan kena potong semua perbelanjaan lain. Jadi bila potong perbelanjaan lain, ceritanya di hospital, ceritanya di sekolah — jadi mungkin sumbangan PIBG tiba-tiba jadi tinggi, ataupun projek-projek kecil tak boleh berlaku. Jadi, semua kena dikawal, dipotong semua kan. Mana-mana pihak yang mengaku mereka lah jaguh ekonomi yang lebih baik dan telah mentadbir ekonomi dengan baik dalam keadaan sekarang ini, ia adalah pedang bermata dua yang kita tak pasti. Yang membawa kepada soalan seterusnya — jadi sebenarnya, kalaulah pengundi bukan Melayu ini sangat penting untuk mengubah keputusan ke mana-mana arah, agak-agaknya lah pengundi bukan Melayu ini, sebenarnya isu ekonomi apa yang paling penting untuk mereka?
 
-**Speaker 2:** Macam yang pernah disebut, semasa dia berniaga — cukai e-invois.
+**Haziq:** Macam yang pernah disebut, semasa dia berniaga — cukai e-invois.
 
 **Rafizi:** Tekaan saya lah, dan ini kita akan tengok nanti bila kita berkempen lah — bila kita berkempen, keputusannya nanti kan. Saya setuju dengan apa yang Haziq kata itu — sebenarnya pengundi Cina, dia tak peduli pun dengan cerita JSSEZ ini, atau cerita kehebatan Dato' Seri On Hafiz ini, tak peduli pun. Dia sebenarnya, ceritanya yang akan menjadi faktor besar ialah apa yang dia kena hadapi tiap-tiap hari dari segi ekonomi, sebab dia memang peniaga. Jadi, SST, e-invois, semua kan — permit, lesen, inflasi, harga diesel — itu semua, saya rasa, di kalangan Cina terutamanya, akan lebih penting berbanding dengan soal kehebatan, baik Kerajaan Pakatan Harapan di Persekutuan, ataupun Kerajaan BN di Johor. Kerana itu lah, sebenarnya agak sukar untuk kita baca. Sebab itu, ini antara pilihan raya yang paling sukar untuk saya baca, benarnya kan? Baik. Dan kemudian, faktor Negeri Sembilan lagi menarik. Haa, haa, eh — kerana yalah, Tok Min sebenarnya popular, dia sama macam bayangan cermin Dato' Seri On Hafiz di Negeri Sembilan — dia baik, orang suka kepadanya, dia tak ada isu semua kan. Cuma dia ada faktor yang melibatkan sesuatu yang lebih sukar berbanding dengan Johor — dia ada faktor istana dan adat. Dan adat itu menjadi faktor paling utama di Negeri Sembilan.
 
-**Speaker 2:** Tapi itu memang rakyat Negeri Sembilan ambil kisah.
+**Haziq:** Tapi itu memang rakyat Negeri Sembilan ambil kisah.
 
 **Rafizi:** Okey, kita akan pergi ke sana — maksudnya isu yang paling dominan yang saya ingat akan cuba dimainkan dan menjadi pertempuran di Negeri Sembilan. UMNO akan kata Tok Min ini derhaka. Tidak semudah itulah, kerana pandangan pengundi Melayu nanti itu, dia ada pandangan masing-masing — siapa yang derhaka, dia suka siapa. Sebab ia berkait, kerana orang tahu bahawa, walaupun ia mungkin tidak disebut dalam ceramah-ceramah, pengundi sedia maklum bahawa untuk menukar Yang Dipertuan, maka perlu tandatangan daripada Menteri Besar. Jadi siapa yang menang nanti, dialah yang menentukan Yang Dipertuan mana lah. Jadi ia lagi rumit, kerana Negeri Sembilan ini seolah-olah bukan sahaja untuk memilih Menteri Besar, ia sampai memilih Yang Dipertuan — kerana sekarang ini ada persaingan antara dua kumpulan untuk takhta Kerajaan Negeri Sembilan. Jadi itu sangat rumit, dan oleh kerana kita tak pernah masuk pilihan raya yang melibatkan siapa yang akhirnya memberi kesan kepada takhta istana — tak pernah berlaku — jadi tidak semudah itu lah. Sudah tentu di peringkat PH, mereka akan yakin bahawa UMNO akan dihukum, kerana UMNO dilihat terbabit di dalam kemelut ini kan — jadi PH mengandaikan UMNO akan dihukum kerana terbabit. UMNO mengandaikan mereka akan menang, dan rakyat akan menghukum PH dan Tok Min kerana dilihat sebagai derhaka, derhaka kan. Walaupun saya rasa isu itu akan jadi pertimbangan besar untuk pengundi Melayu lah kan, tapi pengundi Cina dan pengundi India, mereka masih lagi soal yang sama dengan Johor — soal ekonomi mereka, tiap-tiap hari, sebab kebanyakan mereka adalah peniaga, dan mereka perlu hadapi itu kan. Cuma mungkin dari segi tekanan harga, inflasi semua itu, Negeri Sembilan tidaklah terlalu terdedah kepada pengaruh luar seperti mana Johor — sebab Johor ini, hanya kerana kedekatannya dengan Singapura, maknanya harga barang, tawaran-permintaan itu sangat terdedah kepada pelawat ataupun pelancong yang masuk ke Johor. Jadi berdasarkan semua itu, ia menjadi satu pilihan raya yang sangat rumit — yang kalau saya menjadi pengarah pilihan raya, ataupun untuk membina strategi mesej semuanya, ia memang sangat rumit lah. Jadi baguslah saya tak ada dalam dua-dua — saya bukan di dalam BN, saya bukan di dalam PH. Jadi kita sama-sama tengok nanti, nanti kalau apa nama ini, ceramah-ceramah lagi, ia jadi Battle of Helm's Deep lah, bagi mereka yang menonton Lord of the Rings kan. Mula — hmm — Théoden kalah, dia diserang, jadi dia pindahkan rakyatnya pergi ke Helm's Deep, iaitu satu kubu untuk Rohan yang tak pernah kalah dalam sejarahnya. Tapi musuh ini, geng-geng Sauron, Uruk-hai ini, berjaya sampai pecah masuk. Jadi dia kena kosongkan, kemudian akhirnya dia berpegang di Gondor. Jadi Gondor itu semua sepatutnya kalah, tidak ada apa-apa, King Théoden pun akhirnya mati. Tapi oleh kerana ada perkara yang langsung tidak terfikir, yang menyebabkan akhirnya yang jahat itu kalah. Dan benda yang tak terfikir itu ialah kerana ada satu tentera hantu. Haa — saya ingat Lord of the Rings, itu the letter — akhirnya, sebenarnya, awak tahu, apa ini, pegang dekat — apa dipanggil — Dataran...
 
-**Speaker 3:** Dataran Paranormal...
+**Farhan (Pa'an):** Dataran Paranormal...
 
 **Rafizi:** Dataran Pelennor, kan? Ya, ia di luar Minas Tirith — Dataran Pelennor. Jadi pada asasnya, tentera hantu itu, orang-orang dataran tinggi zaman dulu-dulu, mereka ada sumpah dengan nenek moyang, dengan Isildur. Jadi mereka terpaksalah — kalau mereka tak tunaikan sumpah itu, mereka akan selamanya terperangkap sebagai hantu. Akhirnya, untuk mendapat kedamaian, mereka kena tunaikan, sebab dulu mereka mungkin pernah berjanji. Perkara itu tidak ada langsung dalam perkiraan — pihak Ork pun tiada, pihak Theoden pun tiada. Jadi kalau awak letak "so it begins" ini, siapa tahu, silap-silap hari nanti jadi macam itulah.
 
@@ -402,11 +402,11 @@ Negeri Sembilan lebih kabur lagi, sebab saya masih menunggu data daripada Negeri
 
 Jadi kerana itu, saya memang tak tahu apa-apa mengenai Negeri Sembilan. Jadi kita masih menunggu — maksud saya, kita perlu pastikan kita dapat sedikit data asas dalam tempoh seminggu. Tapi saya rasa ia lebih rumit kerana pengundi Melayu di Negeri Sembilan ada satu isu yang unik, iaitu sesiapa yang menang akan mempengaruhi keputusan tahta. Dan ini sesuatu yang tak pernah menjadi pertimbangan dalam pilihan raya-pilihan raya sebelum ini — orang masuk, orang tengok UMNO, BN, PN, PH; tiba-tiba ini lebih rumit dan kompleks. Jadi untuk isu yang membabitkan pengundi bukan Melayu, sama juga — sama ada di Negeri Sembilan ataupun di Johor pun sama. Ia satu persoalan sama ada anda boleh menggerakkan mereka untuk keluar, kemudian sama ada anda boleh meyakinkan mereka untuk mengundi anda.
 
-**Speaker 2:** YB, sejak YB dah pecahkan kepada kaum Melayu dan Cina, kita...
+**Haziq:** YB, sejak YB dah pecahkan kepada kaum Melayu dan Cina, kita...
 
 **Rafizi:** Nak masuk yang kedua terus, aku, tak?
 
-**Speaker 2:** Boleh, saya — haa, sebab tentang ekonomi. Oh, tentang ekonomi. Haa, tentang ekonomi. Yelah, YB dah cakap pasal Cina tadi — pertimbangan dia lebih kepada bread and butter, cukai dan lain-lain. Untuk Melayu ni, YB, sebenarnya pertimbangan ekonomi dia ni apa? Sebab bread and butter kita ni, kita pengguna, beli barang. Dan sebenarnya bila kita beli barang, kita tak pernah rasa pun barang tu turun — dia akan naik saja. Setakat ni, dalam PRU sebelum ni, macam YB cakap, kita gerakkan diorang dengan — apa kita panggil — kita ada sasaran lah, inilah kenapa ekonomi mereka macam ni. Tapi untuk pengalaman mereka sendiri, dalam keadaan sekarang kita dah tak boleh salahkan sesiapa, apa yang akan jadi pertimbangan ekonomi orang Melayu sebenarnya? Satu, untuk Cina — apa kalau seminggu sebelum mengundi, Dato' Seri Anwar umumkan: "Kita akan hapuskan e-invoicing, semua bayaran balik cukai, SST kita akan kurangkan sampai 2%"? Adakah itu akan bagi kesan juga kepada undi Cina?
+**Haziq:** Boleh, saya — haa, sebab tentang ekonomi. Oh, tentang ekonomi. Haa, tentang ekonomi. Yelah, YB dah cakap pasal Cina tadi — pertimbangan dia lebih kepada bread and butter, cukai dan lain-lain. Untuk Melayu ni, YB, sebenarnya pertimbangan ekonomi dia ni apa? Sebab bread and butter kita ni, kita pengguna, beli barang. Dan sebenarnya bila kita beli barang, kita tak pernah rasa pun barang tu turun — dia akan naik saja. Setakat ni, dalam PRU sebelum ni, macam YB cakap, kita gerakkan diorang dengan — apa kita panggil — kita ada sasaran lah, inilah kenapa ekonomi mereka macam ni. Tapi untuk pengalaman mereka sendiri, dalam keadaan sekarang kita dah tak boleh salahkan sesiapa, apa yang akan jadi pertimbangan ekonomi orang Melayu sebenarnya? Satu, untuk Cina — apa kalau seminggu sebelum mengundi, Dato' Seri Anwar umumkan: "Kita akan hapuskan e-invoicing, semua bayaran balik cukai, SST kita akan kurangkan sampai 2%"? Adakah itu akan bagi kesan juga kepada undi Cina?
 
 **Rafizi:** Hmm. Yalah, kau tanya aku macam aku ni tukang ramal — hanya ramalan yang boleh bagi jawapan kepada soalan-soalan macam ni, ramalan kau perkara semata-mata, kerana ini semua soalan yang sebenarnya kita tak boleh jangka. Tapi soal macam mana ekonomi orang Melayu — dia sebenarnya lebih kompleks daripada itu. Kerana kaji selidik lah, kalau Merdeka Center ke apa semua, semua orang cakap perkara yang biasa, iaitu orang mengundi sebab kos hidup begini-begini. Saya dah buat ni lama, 10 tahun, melihat data, mengolah, menganalisis. Sampai sekarang kita tak boleh lagi nak modelkan sebenarnya kekompleksan keputusan ekonomi, terutamanya Melayu.
 
@@ -416,11 +416,11 @@ Tapi untuk anda dapat mengatakan secara konklusif pertimbangan ekonomi Melayu ia
 
 Sekarang — walaupun anda balikkan semua itu, mungkin ada kesan kepada satu golongan pengundi. Tapi ia juga persoalan komposit. Contohnya, tentang kompetensi, tentang integriti — adakah anda menunaikan apa yang anda cakap? Dulu anda cakap macam ini, sekarang anda cakap macam ini; bila kami nak marah, anda balikkan; nanti kalau kami bagi undi, nanti anda pusing balik. Jadi semua itu sangat kompleks. Sebab itu, meramal pilihan raya memang tak mudah — mana-mana pilihan raya — dan dalam pilihan raya ini ia jauh lebih kompleks daripada pilihan raya-pilihan raya sebelum ini. Kalau kita tengok PRU ke-14, corak itu hanya nampak dalam minggu terakhir berkempen. Semua data sehingga minggu terakhir sebenarnya menunjukkan undi Melayu untuk PN tidaklah jauh berbeza. Semua data, maksud saya, hampir mendatar — minggu terakhir itu baru dia naik mendadak. Jadi saya juga rasa perkara yang sama akan berlaku dalam PRN ini, iaitu kita tak boleh baca sehinggalah 4-5 hari terakhir baru kita boleh nampak perubahan itu. Kerana akhirnya, undi teras parti masing-masing tak berubah. Yang menentukan keputusan pilihan raya ialah pengundi atas pagar. Dan itu sangat sukar dibaca sekarang. Kita ada lebih kurang 25-24 minit lagi. Tapi bagus jugalah sebab kita sebenarnya sudah bincang.
 
-**Speaker 2:** Dah bincang. Cuma ini fokusnya — kita akan tengok bersama penyertaan tapi sebelum itu, perkembangan terbaru ini — apabila DUN Johor dibubarkan dan kemudian DUN Negeri Sembilan dibubarkan, ini satu tamparan hebat kepada Dato' Seri Anwar. Kerana untuk kali yang ke-1426, beliau disakiti sekali lagi selepas mempercayai bahawa boleh masuk sekali dengan UMNO dalam pilihan raya negeri Johor, tetapi beliau telah "dighost" oleh anak muridnya sendiri. Jadi, tiada Madani bagimu. Tiada maaf—
+**Haziq:** Dah bincang. Cuma ini fokusnya — kita akan tengok bersama penyertaan tapi sebelum itu, perkembangan terbaru ini — apabila DUN Johor dibubarkan dan kemudian DUN Negeri Sembilan dibubarkan, ini satu tamparan hebat kepada Dato' Seri Anwar. Kerana untuk kali yang ke-1426, beliau disakiti sekali lagi selepas mempercayai bahawa boleh masuk sekali dengan UMNO dalam pilihan raya negeri Johor, tetapi beliau telah "dighost" oleh anak muridnya sendiri. Jadi, tiada Madani bagimu. Tiada maaf—
 
 **Rafizi:** —bagimu.
 
-**Speaker 2:** Habis, saya nak tengok apa pertimbangan masing-masing sebenarnya — macam mana keputusan itu diambil di PRN Johor, dan untuk Negeri Sembilan, adakah ia reaksi terburu-buru sahaja, ataupun bagaimana? Untuk kedua-dua itu.
+**Haziq:** Habis, saya nak tengok apa pertimbangan masing-masing sebenarnya — macam mana keputusan itu diambil di PRN Johor, dan untuk Negeri Sembilan, adakah ia reaksi terburu-buru sahaja, ataupun bagaimana? Untuk kedua-dua itu.
 
 **Rafizi:** Ya, ini pandangan saya — saya tak berada di situ. Ia tak sama kalau saya cerita pasal Zafrul, JSSCZ, BT dan sebagainya — aku memang ada kat situ. Ini pandangan meneka-neka. Kalau kita jadi UMNO di Johor, memang ini keputusan yang paling tepat untuk dibuat secara strategi politik, iaitu untuk membubarkan dengan segera, kerana setiap parti lawan ada masalah masing-masing.
 
@@ -434,17 +434,17 @@ Negeri Sembilan lain. Negeri Sembilan itu saya rasa ini adalah tekanan DAP. Seba
 
 Cuma, kita tengok, semasa krisis ini bermula, itu bukanlah keputusan PH. Tetapi apabila UMNO di Johor buat ketetapan "tiada Madani bagimu", terkejut jugalah — dan dalam konvensyen PH hari itu, ada yang terlalu bersemangat, kata "kalau Johor buat hari ini, Negeri Sembilan kami bubar—"
 
-**Speaker 3:** —esok.
+**Farhan (Pa'an):** —esok.
 
 **Rafizi:** Jadi, itu tidak baik, sebenarnya, kerana orang yang boleh membaca di sebalik semua ini memang akan buat kesimpulan bahawa ini adalah kehendak DAP. Dan kita fahamlah, pengalaman saya dengan DAP ini ialah mereka merasakan bahawa, kalau boleh, pilihan raya mesti dilakukan serentak semua, kerana kekuatan mereka bergantung kepada jumlah keluar mengundi. Kalau pilihan raya dibuat satu-satu, pengundi Cina tak keluar berkali-kali — dia keluar sekali je. Dan itu juga dari segi sumbernya.
 
 Kerajaan Negeri Sembilan ini di bawah PH, kerajaan Johor di bawah BN. Incumbent itu ada kelebihan dari segi masih menjadi kerajaan penjaga semasa masuk pilihan raya. Kalau hanya Johor saja, maksudnya seluruh kekuatan UMNO akan tertumpu di Johor, dalam keadaan PH berkempen sebagai pembangkang negeri — tetapi kalau serentak, UMNO dan BN pula akan berkempen melawan sebuah kerajaan negeri PH. Jadi saya rasa itu semua faktor yang membawa kepada keputusan itu.
 
-**Speaker 2:** Dan mungkin, saya tanya teruslah — pasal penyertaan Bersama pula, sebab kita ada beberapa minit lagi.
+**Haziq:** Dan mungkin, saya tanya teruslah — pasal penyertaan Bersama pula, sebab kita ada beberapa minit lagi.
 
 **Rafizi:** Kita ada lebih kurang 17 minit lagi.
 
-**Speaker 2:** Yang saban hari dikatakan akan memecahkan undi blok-blok progresif. Dan bila sekali dengar, memang nampak sangat logik, YB. Sebab kemenangan pada PRU ke-14, contohnya, adalah kerana tiga penjuru. Jadi menggunakan logik yang sama, bila undi progresif pun berpecah, benda itu akan berlaku juga — beri kelebihan kepada PN atau lawan. Macam mana komennya?
+**Haziq:** Yang saban hari dikatakan akan memecahkan undi blok-blok progresif. Dan bila sekali dengar, memang nampak sangat logik, YB. Sebab kemenangan pada PRU ke-14, contohnya, adalah kerana tiga penjuru. Jadi menggunakan logik yang sama, bila undi progresif pun berpecah, benda itu akan berlaku juga — beri kelebihan kepada PN atau lawan. Macam mana komennya?
 
 **Rafizi:** Ya, sebab itu saya kata, setiap bacaan dan keputusan yang kita nak buat — terutamanya bagi peramal politik, penganalisis politik, netizen-netizen lain — ia memerlukan analisis yang lebih mendalam. Ia tak boleh tengok semata-mata "dulu macam itu, maka kali ini beginilah."
 
@@ -456,7 +456,7 @@ Tapi saya rasa jangka masa yang realistik begitulah — jangka masa yang lebih r
 
 Setiap parti yang masuk ada tujuan masing-masing, kita faham. Kalau BN bertanding, dia sebab dia nak menang dan BN nak kembali. Kalau PH bertanding, dia pun nak jadi kerajaan. Dan saya rasa serangan PH itu lebih kuat kepada Bersama daripada kepada BN ataupun PAS — yang mana ia satu kesilapan.
 
-**Speaker 2:** Oh, macam tu?
+**Haziq:** Oh, macam tu?
 
 **Rafizi:** Ya, kerana cabaran kepada PH ini bukannya Bersama. Bersama ni, sebab itu kita masuk dalam pilihan raya dengan mengambil kira perspektif jangka panjang. Misi kami sama sekali berbeza daripada parti-parti lain. Kita tahu memang kita tak akan jadi kerajaan; kita mengambil horizon yang panjang — 5 hingga 10 tahun — untuk ada kesan besar kepada politik negara. Parti lain masuk, mereka rasa akan ada kesan besar kepada pilihan raya ini. Tetapi penyertaan Bersama dalam pilihan raya negeri Johor dan Negeri Sembilan akan bagi ruang dan peluang kepada Bersama untuk bukan sahaja mengesahkan hipotesis sokongan — bukan sebab nak menang, kita nak faham masyarakat.
 
@@ -464,7 +464,7 @@ Bersama wujud kerana, berdasarkan hipotesis sekarang, ada keperluan untuk politi
 
 Tapi sambutan yang memberangsangkan itu tidak tentu akan diterjemahkan 100% serta-merta dalam pilihan raya, kerana dengan tempoh masa yang ada, kita perlu membina jentera, kempen, sistem pilihan raya, dan pimpinan-pimpinan untuk lapisan seterusnya, sebelum kempen bermula secara rasmi — untuk menyiapkan semua ini dalam keadaan parti lain mengambil masa berpuluh-puluh tahun. Maksud saya, biar kita realistik tentangnya. Tapi ini peluang yang baik untuk satu garis dasar. Kedua, untuk kita bina dan latih, kerana kalau Bersama kata kita nak merintis politik yang lebih futuristik, yang lebih cekap — kerana politik yang cekap itu, organisasinya, kempennya, caranya, adalah satu kemestian kalau kita nak buang rasuah. Satu sebab kenapa rasuah berleluasa dalam politik ialah kerana organisasi politik parti-parti yang ada ini sangat tidak cekap. Nak pasang bendera kena bayar orang, nak pacak kena bayar orang, kempen makan-makan semua bayar, duit minyak bayar. Sebab itu orang kata, satu kerusi kalau nak bertanding, satu kerusi parlimen paling kurang 4-5 juta.
 
-**Speaker 2:** Hmm.
+**Haziq:** Hmm.
 
 **Rafizi:** Kita nak buktikan kita boleh berkempen, contohnya, dalam satu parlimen, 50 ribu pun dah cukup sebenarnya. Dan bila 50 ribu sahaja yang kita perlukan, maksudnya dalam 40 ribu, 30 ribu lebih, kalau itu yang wang yang diperlukan untuk menjalankan kempen — maksudnya memanglah kita tak perlu ambil duit toke, rasuah, semua ini, kerana kita boleh bergantung kepada crowdfunding dan sebagainya. Dan bagi saya, perubahan budaya politik itu adalah sesuatu yang kami nak bawa kepada masyarakat. Sebab orang akan tengok, "eh, sebenarnya kalau Bersama, kempen dia okey je, tak adalah daif sangat, okey je" — sebab kempen dia murah, ditunjuk semua resit, apa semua dia belanja, semua ditunjukkan, dan kami yang bagi duit. Kemudian ia akan menjadi tanggungjawab kepada parti-parti lain di masa akan datang — orang tanya, "kalau Bersama boleh buat, kenapa kamu tak boleh?" Jadi kita sebenarnya nak mengubah budaya. Dan walaupun tiga minggu itu tempoh yang pendek, tetapi itu sesuatu yang kami bawa ke meja perbincangan, supaya pengundi rakyat Malaysia, terutamanya yang muda-muda — sebab kita tak boleh nak benci itu, benci ini, "saya benci ahli politik, rasuah semua ini," lepas itu kita tak berubah, kita macam melakukan perkara yang sama berulang-ulang. Lama-lama yang muda ini akan hilang keyakinan kepada proses politik dan demokrasi. Objektif yang sama sekali berbeza. Dan sebab itu kita kena masuk sekarang.
 
@@ -474,13 +474,13 @@ Cuma sebab itu, kita tak boleh nak marah DAP. Kalau kita berada di tempat DAP pu
 
 Jadi adakah Bersama akan memecahkan undi bukan Melayu dan menyebabkan PH akan kalah mudah kepada UMNO? Maksudnya, kempen PH nanti: "undi Bersama, dapat UMNO," atau "undi Bersama, dapat PAS" — dia akan cakap macam tu je.
 
-**Speaker 2:** Jadi YB bagi idea ke dia orang?
+**Haziq:** Jadi YB bagi idea ke dia orang?
 
 **Rafizi:** Ya, aku memang berhati-hati dengan idea saya — selalunya idea aku tu ada strategi lain. Jadi dia akan berkempen begitulah kan, adakah itu benar, adakah Bersama masuk ini akan menjadi spoiler menyebabkan pecah undi bukan Melayu sehingga menyebabkan PAS atau UMNO menang percuma?
 
-**Speaker 2:** Tak semestinya, kalau pengundi-pengundi atas pagar Melayu juga menyokong.
+**Haziq:** Tak semestinya, kalau pengundi-pengundi atas pagar Melayu juga menyokong.
 
-**Speaker 3:** Sebab awak share sebelum ni yang ramai Melayu yang join.
+**Farhan (Pa'an):** Sebab awak share sebelum ni yang ramai Melayu yang join.
 
 **Rafizi:** Ya. Bacaan saya setakat ini — yang ini saya harap penonton bukan Melayu... banyak yang menonton, tapi saya tak boleh cakap Mandarin. Jadi banyak kawan-kawan bukan Melayu, Cina, India, sekarang buat permintaan supaya semua konten kita ni kena ada sarikata Mandarin dan Tamil. Boleh buat tak? Haa, kan? Minggu depan — mantap kan, minggu depan podcast kita akan mula ada sarikata Mandarin dan Tamil. Anda ada seminggu untuk fikirkannya.
 
@@ -494,13 +494,13 @@ Cuma agakan saya, kali ini penjajaran undi Melayu itu lebih besar. Sebabnya, ada
 
 Tapi katakan, katakan Bersama masuk PRN Johor dan Bersama masuk PRN Negeri Sembilan — kalau Bersama dapat 10% undi Melayu, memanglah tak menang, mungkin kita cukup-cukup nak hilang deposit sebab nak deposit ni kena lepas 12.5%. Jadi katakanlah Bersama dapat 10% undi Melayu — Cina, India kita tak tahu lagi, lagi susah nak baca undi Cina dan India ni, sebab kita terpaksa berdepan dengan serangan bertubi-tubi pasal pecah undi ni: "undi Bersama ialah memenangkan UMNO dan juga PAS." Saya tak akan meremehkan serangan itu, apa kesannya kepada pengundi Cina dan India. Jadi ia tidak mudah. Tapi bayangkan — kalau Bersama dapat 10%, itu meletakkan Bersama dalam lingkungan undi Melayu untuk PH.
 
-**Speaker 2:** Eh, betul.
+**Haziq:** Eh, betul.
 
 **Rafizi:** Ya, sebab undi Melayu PH selalunya dalam PRN yang lepas antara 15 hingga 18% je. Bersama baru tiga minggu. Dan dari mana ia datang — kalau tengok daripada keahlian, dia datang daripada semua: daripada pengundi Melayu atas pagar yang mengundi siapa-siapa sebelum ini, daripada UMNO pun dia datang, daripada PAS pun dia datang, daripada PN, daripada Bersatu pun dia datang. Daripada mana-mana pun dia datang. Jadi undi Melayu sekarang sedang dijajarkan semula.
 
 Terutamanya yang langsung kita tak boleh baca ialah undi milenial dan Gen Z. Sebab undi milenial dan Gen Z ini sangat berubah-ubah dalam profil yang kita buat dalam tempoh enam bulan yang lepas. Pengundi Melayu Gen Z ada 70% keterbukaan untuk mempertimbangkan parti baru. Dia undi — dan kita ada keadaan macam ini: dia menyetujui PM, "saya berpuas hati dengan prestasi Dato' Seri Anwar Ibrahim"; dia menyetujui kerajaan persekutuan, "saya berpuas hati dengan kerajaan persekutuan, betul lah ekonomi baik" — ekonomi baik sebenarnya. Tapi bila sampai kepada, "adakah anda akan terbuka untuk mempertimbangkan mengundi parti baru?" — ya. Kemudian, "pilihan raya lepas anda undi siapa?"
 
-**Speaker 2:** Hmm.
+**Haziq:** Hmm.
 
 **Rafizi:** BN. Haa. Jadi Gen Z macam tu, kita langsung tak boleh baca — hanya sebab dia suka Anwar Ibrahim, ke Zahid Hamidi, ke PAS, dia akan ada memori kekal terakhir sebelum dia nak mengundi. Maka sebenarnya kita tak boleh baca. Dan pengundi bawah 40 tahun ini ialah 51% daripada jumlah pengundi.
 
@@ -508,23 +508,23 @@ Jadi, yang saya rasa menjadi misi utama Bersama dalam PRN akan datang ini ialah 
 
 Tapi misi yang utama ialah untuk menjajarkan balik undi Melayu, sebab kita tahu kita pun dah bosan — undi macam mana pun, balik kot situ juga: undi PH, lah-lah kena buat kerajaan campuran dengan PAS; undi PAS, lah-lah Zahid Hamidi jadi PM. Pusing-pusing macam itulah — macam orang selalu kata, "pusing-pusing sampai Abang Jamil mampus." Kau tak tengok Keluarga 69?
 
-**Speaker 2:** Haa.
+**Haziq:** Haa.
 
 **Rafizi:** Abang Jamil kahwin tiga, lepas tu dia menipu-nipu, lama-lama bini-bini dia banding nota...
 
-**Speaker 2:** Haa, ambillah. Tapi tu Madu 3.
+**Haziq:** Haa, ambillah. Tapi tu Madu 3.
 
 **Rafizi:** Eh, Madu 3? Bukan yang Keluarga 69 yang mana?
 
-**Speaker 2:** Haa. Dia ada line yang sama juga.
+**Haziq:** Haa. Dia ada line yang sama juga.
 
 **Rafizi:** Haa, line yang sama juga. Jadi yang sampai "Abang Jamil mampus" ni, Madu 3 ke Keluarga 69?
 
-**Speaker 2:** Madu 3.
+**Haziq:** Madu 3.
 
 **Rafizi:** Haa, yang kahwin tiga. Haa, sorry. Kan, jadi — sebenarnya itu perkara...
 
-**Speaker 2:** Itulah, kau urban sangat, tak tengok cerita begini.
+**Haziq:** Itulah, kau urban sangat, tak tengok cerita begini.
 
 **Rafizi:** Haa. Jadi — sebab itu, kita akan masuk, dan bila kita nak umumkan nanti, saya rasa orang akan terkejut, kerana hipotesis yang kata Bersama ini akan memecahkan undi PH dan bukan Melayu, dan sasarannya ialah kerusi-kerusi PH — perkara itu tidak betul. Kita memang akan lawan semua, dan kebanyakan kerusi yang kita bertanding, insya-Allah, ialah melawan PAS dan juga UMNO. Tapi sekarang ini ia berpecah beberapa penjuru: di mana ada BN/UMNO, di situ ada PKR ataupun Amanah, di situ ada PAS ataupun Bersatu, dan di situ ada Bersama. Sama juga di mana ada DAP, di situ ada MCA, di situ ada Gerakan atau MIC, dan ada Bersama. Jadi cuma tak pernah ada orang buat "kamikaze" macam ini kepada semua parti yang ada — kerana kita mahu membentuk garis dasar, untuk kita mengesahkan bahawa misi menjajarkan balik bermula dengan pengundi Melayu. Dan kalau pengundi bukan Melayu nampak, sebenarnya, dalam semua perkara, Bersama sebenarnya ada peluang yang lebih besar untuk menjajarkan undi Melayu yang PH telah gagal selama 20 tahun — maka saya rasa pengundi bukan Melayu akan kata, sebenarnya mereka akan dapat membentuk semula budaya politik Malaysia secara keseluruhannya dalam tempoh 4, 5, 10 tahun daripada sekarang. Ia misi yang panjang. Dan itu perlu berlaku dengan kita mencuba di semua kerusi — terutamanya yang UMNO dengan PAS pun kita lawan, yang PKR pun kita lawan, dan sudah tentu ada juga kerusi-kerusi DAP yang kita lawan.
 
@@ -532,22 +532,22 @@ Jadi, saya rasa bila kita mula umumkan calon-calon, saya harap terutamanya pengu
 
 Kita kena berhenti juga tak? Ya, baik-baik, saya nak makan ubat.
 
-**Speaker 3:** Aku pun dah sakit dekat.
+**Farhan (Pa'an):** Aku pun dah sakit dekat.
 
 **Rafizi:** Oh, okey. Haa.
 
-**Speaker 3:** Habislah. Kita start je lah — sedangkan awak demam.
+**Farhan (Pa'an):** Habislah. Kita start je lah — sedangkan awak demam.
 
 **Rafizi:** Haa. Itulah, ia bukan permulaan yang baik lah, kan. Jadi tapi seminggu lepas ini sangat teruk — aku dalam tempoh tiga hari, setiap hari aku tidur secara purata dua-tiga jam je.
 
-**Speaker 3:** Allah, sikit sangat.
+**Farhan (Pa'an):** Allah, sikit sangat.
 
 **Rafizi:** Jadi, jumpa kepada pengundi di Pandan dan sekitar Ampang — kita akan memulakan Kaunter Bersama Rakyat di Pasar Pagi Taman Muda Ampang esok, pukul 8.30 pagi, saya ada sampai tengah hari. Kemudian saya akan bergegas ke Johor — jumpa kami di Johor, di Danga Bay, bermula pukul 8 malam, Jelajah State Tour, Jelajah Kancil, dan selain saya dengan Nik, ada penampilan istimewa — sudah tentu presiden Bersama akan ada, dan kita ada dua-tiga orang muka baru yang kita akan mula perkenalkan dari satu jelajah ke satu jelajah. Kalau orang ingat ini hanyalah Rafizi dengan Nik — setiap satu jelajah akan ada muka baru. Dan jumpa kami di Melaka hari Ahad, sama juga, 8 malam, di Hotel Sri Malaysia.
 
-**Speaker 3:** Yang luar Johor dan Melaka boleh—
+**Farhan (Pa'an):** Yang luar Johor dan Melaka boleh—
 
 **Rafizi:** —dan lepas ini, korang tiap-tiap malam akan menonton kami; pagi pun menonton kami, malam pun menonton kami, kerana jelajah-jelajah ini, Kaunter Bersama Rakyat, akan terus disiarkan secara langsung di YouTube, di TikTok, dan yang lain-lain.
 
-**Speaker 2:** Jumpa anda di sana, dan tengok secara langsung.
+**Haziq:** Jumpa anda di sana, dan tengok secara langsung.
 
 **Rafizi:** Selamat malam. Assalamualaikum. Selamat pagi. Selamat Hari Raya apa — selamat mengundi!
