@@ -10,8 +10,8 @@ duration: 2h 3m
 view_count: 70948
 hosts:
 - Rafizi
-guests:
 - Syed Munawar
+guests:
 - Faiz (Financial Faiz)
 topics:
 - SST (Sales and Service Tax) implementation and expansion

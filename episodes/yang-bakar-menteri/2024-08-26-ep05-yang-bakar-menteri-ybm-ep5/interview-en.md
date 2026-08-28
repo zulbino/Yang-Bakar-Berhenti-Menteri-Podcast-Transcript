@@ -9,8 +9,8 @@ duration: 1h 31m
 view_count: 32289
 hosts:
 - Rafizi
-guests:
 - Ibrahim Sani
+guests:
 - Azlan Awang
 topics:
 - Putera35 (Bumiputera Economic Transformation Plan 2035)

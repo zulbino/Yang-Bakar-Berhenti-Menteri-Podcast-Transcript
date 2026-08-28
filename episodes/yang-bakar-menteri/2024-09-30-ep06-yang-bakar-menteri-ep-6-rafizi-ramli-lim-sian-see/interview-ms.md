@@ -9,8 +9,8 @@ duration: 1h 0m
 view_count: 125019
 hosts:
 - Rafizi
-guests:
 - Syed Munawar
+guests:
 - Eric See-To
 topics:
 - The revelation of Eric Sito as Lim Sian See
