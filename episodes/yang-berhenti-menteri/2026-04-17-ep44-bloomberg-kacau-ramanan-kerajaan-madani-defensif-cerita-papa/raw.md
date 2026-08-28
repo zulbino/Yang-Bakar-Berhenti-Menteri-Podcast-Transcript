@@ -17,7 +17,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 # Raw Transcript
 
-[00:44] Rafizi: Assalamualaikum dan salam sejahtera Macam biasa Podcast Yang Berti Menteri episod yang ke-44 Sikit lagi kita nak masuk episod ke-52 Kenapa? Satu tahun 5-2 minggu tanpa berhenti kan So 4-4 ada Lebih kurang 2 bulan lagi lah YB tak penat YB? Nak lah juga kan Tapi nak buat macam mana Tak apa Ada orang kata Tak apalah Nanti sekarang Kedang mula melalut kan Belum apa-apa lagi
+[00:44] Rafizi: Assalamualaikum dan salam sejahtera Macam biasa Podcast Yang Berhenti Menteri episod yang ke-44 Sikit lagi kita nak masuk episod ke-52 Kenapa? Satu tahun 5-2 minggu tanpa berhenti kan So 4-4 ada Lebih kurang 2 bulan lagi lah YB tak penat YB? Nak lah juga kan Tapi nak buat macam mana Tak apa Ada orang kata Tak apalah Nanti sekarang Kedang mula melalut kan Belum apa-apa lagi
 
 [01:16] Haziq: Cakap macam komen dekat KS tu kan? Ha?
 

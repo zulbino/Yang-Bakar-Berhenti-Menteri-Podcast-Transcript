@@ -17,7 +17,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:08] Rafizi: Tak apa lah, bagi can lah dia nak try new things. Akhirnya. 
 
-[00:15] Haziq: Oleh itu, assalamualaikum dan selamat datang podcast Yang Menteri-Menteri kali ini tak lain tak bukan selain bersama saudara Rafizi, kita bersama YB Wong Chen, Ahli Parlimen Subang. Apa khabar YB? 
+[00:15] Haziq: Oleh itu, assalamualaikum dan selamat datang podcast Yang Berhenti Menteri kali ini tak lain tak bukan selain bersama saudara Rafizi, kita bersama YB Wong Chen, Ahli Parlimen Subang. Apa khabar YB? 
 
 [00:23] Wong Chen: Baik, baik. I didn't ask for this lah tapi tak apa, I'm happy to be here. 
 

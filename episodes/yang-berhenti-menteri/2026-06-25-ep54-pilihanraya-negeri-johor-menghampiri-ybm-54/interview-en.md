@@ -27,7 +27,7 @@ topics:
 - Candidate asset declaration and undated resignation letters as accountability measures
 - Volunteer-based, money-free campaign machine and KANCIL mobilisation system
 - Preview of Bersama's 15 candidates and nomination day event logistics
-summary: 'In this episode of the Podcast Yang Berhormat Menteri (Episod 54), broadcast
+summary: 'In this episode of the Podcast Yang Berhenti Menteri (Episod 54), broadcast
   briefly from a "secret" location in JB, Rafizi Ramli and his co-host run through
   the "Beria" segment of viral political news: a suspicious record-breaking PKR live
   stream with foreign/bot comments (Chittagong, Amharic-language commenters), an awkward

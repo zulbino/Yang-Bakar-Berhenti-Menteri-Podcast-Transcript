@@ -33,7 +33,7 @@ topics:
 - Political communication strategy and cybertrooper/bot narratives
 - Papa Gomo police case and PMO involvement
 - Upcoming PKR/Tangkap Azam Baki rally announcements
-summary: In episode 44 of the Podcast Yang Berhormat Menteri, Rafizi Ramli and co-host
+summary: In episode 44 of the Podcast Yang Berhenti Menteri, Rafizi Ramli and co-host
   Haziq open with the lighthearted "Beria" segment, mocking a range of viral news
   items — python gallbladder smuggling in Johor, Azam Baki's widely-mocked "financial
   advice" and the tactical squad now protecting him, an AI-generated meme linking

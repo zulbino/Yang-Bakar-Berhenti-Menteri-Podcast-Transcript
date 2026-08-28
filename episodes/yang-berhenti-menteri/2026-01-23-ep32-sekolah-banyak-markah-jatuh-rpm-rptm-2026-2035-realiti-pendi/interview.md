@@ -26,7 +26,7 @@ topics:
 - Ministry of Education bureaucratic resistance
 - UMNO Rumah Bangsa and coalition politics
 - Shamsul Iskandar controversy
-summary: Episode 32 of "Podcast Yang Bakal Menteri" hosted by Rafizi Ramli with moderator
+summary: Episode 32 of "Podcast Yang Berhenti Menteri" hosted by Rafizi Ramli with moderator
   Haziq and co-host Farhan (Pa'an). The episode opens with a lighthearted "dilema"
   about Haziq possibly having to resign as moderator due to complaints that a civil
   servant is hosting a government-critical podcast. The Ber-ia segment mocks political
@@ -59,7 +59,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Haziq:** Assalamualaikum, salam sejahtera, dajia hao, vanakkam. Podcast Yang Bakal Menteri episod ke-32. Macam biasa dengan saudara Rafizi. Minggu ni kita bincang topik heavy sikitlah tapi jangan risau di hujung-hujung tu kita ada segmen hiburan. Kita mula dengan Ber-ia, kemudian topik pendidikan, ekonomi sikit, pendidikan dan kita ada segmen hiburan.
+**Haziq:** Assalamualaikum, salam sejahtera, dajia hao, vanakkam. Podcast Yang Berhenti Menteri episod ke-32. Macam biasa dengan saudara Rafizi. Minggu ni kita bincang topik heavy sikitlah tapi jangan risau di hujung-hujung tu kita ada segmen hiburan. Kita mula dengan Ber-ia, kemudian topik pendidikan, ekonomi sikit, pendidikan dan kita ada segmen hiburan.
 
 **Rafizi:** Hiburan tu berkaitan Shamsul Iskandar.
 

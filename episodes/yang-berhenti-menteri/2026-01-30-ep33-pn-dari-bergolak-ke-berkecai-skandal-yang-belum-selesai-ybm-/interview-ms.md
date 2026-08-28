@@ -77,7 +77,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Tak apa lah, bagi peluang lah dia nak cuba benda baru. Akhirnya.
 
-**Haziq:** Oleh itu, assalamualaikum dan selamat datang podcast Yang Menteri-Menteri kali ini tak lain tak bukan selain bersama saudara Rafizi, kita bersama YB Wong Chen, Ahli Parlimen Subang. Apa khabar YB?
+**Haziq:** Oleh itu, assalamualaikum dan selamat datang podcast Yang Berhenti Menteri kali ini tak lain tak bukan selain bersama saudara Rafizi, kita bersama YB Wong Chen, Ahli Parlimen Subang. Apa khabar YB?
 
 **Wong Chen:** Baik, baik. Saya tak minta pun benda ni tapi tak apa, saya gembira berada di sini.
 

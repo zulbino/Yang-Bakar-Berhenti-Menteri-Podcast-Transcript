@@ -17,7 +17,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [Muzik / countdown bermula]
 
-[02:38] Haziq: Assalamualaikum, salam sejahtera, dajia hao, vanakkam. Podcast Yang Bakal Menteri episod ke-32. Macam biasa dengan saudara Rafizi. Minggu ni kita bincang topik heavy sikitlah tapi jangan risau di hujung-hujung tu kita ada segmen hiburan. Kita mula dengan Ber-ia, kemudian topik pendidikan, ekonomi sikit, pendidikan dan kita ada segmen hiburan.
+[02:38] Haziq: Assalamualaikum, salam sejahtera, dajia hao, vanakkam. Podcast Yang Berhenti Menteri episod ke-32. Macam biasa dengan saudara Rafizi. Minggu ni kita bincang topik heavy sikitlah tapi jangan risau di hujung-hujung tu kita ada segmen hiburan. Kita mula dengan Ber-ia, kemudian topik pendidikan, ekonomi sikit, pendidikan dan kita ada segmen hiburan.
 
 [03:00] Rafizi: Hiburan tu berkaitan Shamsul Iskandar.
 

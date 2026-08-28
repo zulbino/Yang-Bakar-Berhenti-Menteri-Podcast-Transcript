@@ -32,7 +32,7 @@ topics:
 - young Malaysian scientist Belvinda's Junior Nobel-style awards and brain drain
 - social security for gig/freelance arts workers (PERKESO)
 - criminal justice disparities between petty theft and corruption cases
-summary: 'Episode 27 of Rafizi Ramli''s podcast "Podcast Yang Menteri-Menteri" with
+summary: 'Episode 27 of Rafizi Ramli''s podcast "Podcast Yang Berhenti Menteri" with
   co-host Farhan (Pa''an). The show opens with the "Beria" segment covering viral
   topics: chef Khairul Aming''s restaurant Rembayung being reviewed before opening,
   Kamil Munim''s controversial support letters, an influencer being invited to officiate
@@ -62,7 +62,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Rafizi:** Assalamualaikum dan selamat datang sekali lagi podcast Yang Menteri-Menteri. Dah episod ke-27. Macam biasa bersama saudara Rafizi Ramli. Obviously kenapa ada dua kali saudara-saudara gagap. Episod ke-27 pun masih lagi gagap. Maaf YB, tapi YB itu tak penting, sebab yang lebih penting adalah minggu ini saya rasa isu yang terbesar adalah berkaitan dengan rombakan kabinet. Saya tukar topik. Tapi sebelum itu — pandai kau mengelak kan. Sebelum itu, macam biasa baby, kita ke segmen yang pertama lah, kita cuba ringkaskan sikit, dah kat segmen beria. Kita tengok apa yang ada pada minggu ini. Yang pertama, belum buka dah kena review. Tak sedap baby, belum buka lagi. Not tasty — mana yang dia kata not tasty? Kat bawah sekali tau, not tasty. Dia buka tahun depan baby. Oh, baiklah. Khairul Aming lah yang mendapat ketawa terakhir. Sebab orang yang beria-ia pergi review semua ni kan, dia jadi bahan beria lah kerana belum buka lagi dah direview. Tapi ia sesuai betul dengan strategi go-to-market Rembayong lah kot, sebab hari ini semuanya tentang viral, semuanya tentang nilai media. Jadi tahniah pada Khairul Aming lah. Tahniah untuk kau baby.
+**Rafizi:** Assalamualaikum dan selamat datang sekali lagi podcast Yang Berhenti Menteri. Dah episod ke-27. Macam biasa bersama saudara Rafizi Ramli. Obviously kenapa ada dua kali saudara-saudara gagap. Episod ke-27 pun masih lagi gagap. Maaf YB, tapi YB itu tak penting, sebab yang lebih penting adalah minggu ini saya rasa isu yang terbesar adalah berkaitan dengan rombakan kabinet. Saya tukar topik. Tapi sebelum itu — pandai kau mengelak kan. Sebelum itu, macam biasa baby, kita ke segmen yang pertama lah, kita cuba ringkaskan sikit, dah kat segmen beria. Kita tengok apa yang ada pada minggu ini. Yang pertama, belum buka dah kena review. Tak sedap baby, belum buka lagi. Not tasty — mana yang dia kata not tasty? Kat bawah sekali tau, not tasty. Dia buka tahun depan baby. Oh, baiklah. Khairul Aming lah yang mendapat ketawa terakhir. Sebab orang yang beria-ia pergi review semua ni kan, dia jadi bahan beria lah kerana belum buka lagi dah direview. Tapi ia sesuai betul dengan strategi go-to-market Rembayong lah kot, sebab hari ini semuanya tentang viral, semuanya tentang nilai media. Jadi tahniah pada Khairul Aming lah. Tahniah untuk kau baby.
 
 **Farhan (Pa'an):** Eh, sekejap.
 

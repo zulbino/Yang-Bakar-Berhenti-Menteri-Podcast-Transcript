@@ -23,7 +23,7 @@ topics:
 - 'Kontroversi Angkatan Tentera Malaysia: budaya ''ye-ye'' dan isu perolehan pertahanan/kartel'
 - Kritikan terhadap metodologi kaji selidik populariti (Institut Masa, Ipsos)
 - Kemelut dalaman BERSATU/Perikatan Nasional dan status jawatan Muhyiddin
-summary: Episod ke-30 Podcast Yang Berkhidmat Menteri bersama Rafizi Ramli, dihoskan
+summary: Episod ke-30 Podcast Yang Berhenti Menteri bersama Rafizi Ramli, dihoskan
   oleh Haziq dengan Farhan turut menyertai perbincangan. Bermula dengan segmen ringan
   "Beria" yang mengulas reaksi Kamil Munim terhadap seruan Dr. Akmal Saleh untuk UMNO
   keluar kerajaan, naratif "Melayu berpecah" dalam parti-parti Melayu, dan insiden
@@ -44,7 +44,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Haziq:** Assalamualaikum. Welcome to Podcast Yang Berkhidmat Menteri, episode 30. As usual, with me and brother Rafizi.
+**Haziq:** Assalamualaikum. Welcome to Podcast Yang Berhenti Menteri, episode 30. As usual, with me and brother Rafizi.
 
 **Rafizi:** He stumbled before he even said assalamualaikum. Assalamualaikum.
 

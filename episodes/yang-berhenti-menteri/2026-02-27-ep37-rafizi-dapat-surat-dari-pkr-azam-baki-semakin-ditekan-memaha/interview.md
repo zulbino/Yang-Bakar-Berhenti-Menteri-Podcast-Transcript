@@ -31,7 +31,7 @@ topics:
 - Possible revival of Muafakat Nasional
 - Bersatu internal split between Muhyiddin and Hamzah Zainuddin
 - Survey findings on Gen Z and Millennial political attitudes
-summary: 'In episode 37 of "Podcast Yang Menteri-Menteri," host Rafizi Ramli and co-host
+summary: 'In episode 37 of "Podcast Yang Berhenti Menteri," host Rafizi Ramli and co-host
   Farhan open with the satirical "Beria" segment mocking political posturing — the
   new Backbenchers Club chairman Zaleha Ismail overstepping her role by warning both
   Rafizi and DAP to "stay disciplined," Fuziah Saleh appearing to speak for DAP on
@@ -69,7 +69,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Farhan (Pa'an):** Assalamualaikum dan salam sejahtera, Podcast Yang Menteri-Menteri, episod ke-37. Macam biasa bersama Saudara Rafizi Ramli. Dan jangan lupa, Saudara Farhan pun ada — you up for coffee kan? Tak adalah, gurau je. Aku ingat you tak puasa tadi, pelik, blur sekejap. Kenapa pulak puasa, saja je. Okay, jadi itulah intro kita hari ini. Kita ada dua jam sahaja, jadi kena kejar sikit. Hari ini pun banyak isu. Dan tetamu tetap kita yang ponteng minggu lepas pun dah kembali.
+**Farhan (Pa'an):** Assalamualaikum dan salam sejahtera, Podcast Yang Berhenti Menteri, episod ke-37. Macam biasa bersama Saudara Rafizi Ramli. Dan jangan lupa, Saudara Farhan pun ada — you up for coffee kan? Tak adalah, gurau je. Aku ingat you tak puasa tadi, pelik, blur sekejap. Kenapa pulak puasa, saja je. Okay, jadi itulah intro kita hari ini. Kita ada dua jam sahaja, jadi kena kejar sikit. Hari ini pun banyak isu. Dan tetamu tetap kita yang ponteng minggu lepas pun dah kembali.
 
 **Rafizi:** Nanti engkau kena tangkap dengan SPRM.
 

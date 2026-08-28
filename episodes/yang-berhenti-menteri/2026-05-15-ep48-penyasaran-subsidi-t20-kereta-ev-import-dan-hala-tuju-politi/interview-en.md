@@ -28,7 +28,7 @@ topics:
 - National Energy Transition Roadmap (NETR) EV targets
 - Rafizi's political philosophy and reasons for leaving PKR
 - Upcoming 17 May announcement/political future
-summary: 'Episode 48 of Podcast Yang Berhormat Menteri, hosted by Haziq and Farhan
+summary: 'Episode 48 of Podcast Yang Berhenti Menteri, hosted by Haziq and Farhan
   (Pa''an) with Rafizi Ramli. The episode opens with Rafizi discussing his SPRM (MACC)
   interrogation and the ongoing investigation involving cabinet-level decisions. In
   the "Beria" segment, they mock PKR infighting (Ramanan vs Nurul Izzah over survey
@@ -56,7 +56,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Haziq:** Assalamualaikum and greetings. Podcast Yang Berhormat Menteri episode 48. As usual with me and brother Rafizi, who looks a bit tired.
+**Haziq:** Assalamualaikum and greetings. Podcast Yang Berhenti Menteri episode 48. As usual with me and brother Rafizi, who looks a bit tired.
 
 **Rafizi:** Yeah, tired because there's a lot of preparation ahead of Sunday. We'll talk about Sunday later, but yeah, there's a lot to do, need to make sure everything happens well.
 

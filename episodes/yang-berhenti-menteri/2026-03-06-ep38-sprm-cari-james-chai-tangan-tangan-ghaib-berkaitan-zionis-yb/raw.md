@@ -15,7 +15,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [00:00] [muzik/intro]
 
-[00:53] Haziq: Podcast Yang Berhormat Menteri, episod ke-38. Assalamualaikum YB, macam biasa.
+[00:53] Haziq: Podcast Yang Berhenti Menteri, episod ke-38. Assalamualaikum YB, macam biasa.
 
 [00:57] Rafizi: Waalaikumussalam. Bagus hari ni, bagi salam dengan tertib, takde tarik, bagi salam dulu.
 

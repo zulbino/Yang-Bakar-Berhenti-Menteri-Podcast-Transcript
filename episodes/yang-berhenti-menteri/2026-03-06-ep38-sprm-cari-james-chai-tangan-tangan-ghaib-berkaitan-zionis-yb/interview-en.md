@@ -28,7 +28,7 @@ topics:
 - Projek ARM (semiconductor) RM1.1 bilion dan siasatan SPRM
 - Kes James Chai dan notis SPRM
 - Politik dalaman PKR dan kesetiaan ahli Parlimen
-summary: Episod ke-38 Podcast Yang Berhormat Menteri bersama Rafizi Ramli, dihoskan
+summary: Episod ke-38 Podcast Yang Berhenti Menteri bersama Rafizi Ramli, dihoskan
   oleh Haziq bersama Farhan (Pa'an). Segmen 'Ber-ia' mengulas isu-isu ringan seperti
   ahli Parlimen tidak hadir sidang, budaya sewa iPhone semasa raya, kekecohan Perikatan
   Nasional tanpa calon PM, dan kejutan sahur yang mengganggu ketenteraman awam. Rafizi
@@ -51,7 +51,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Haziq:** Podcast Yang Berhormat Menteri, episode 38. Assalamualaikum YB, as usual.
+**Haziq:** Podcast Yang Berhenti Menteri, episode 38. Assalamualaikum YB, as usual.
 
 **Rafizi:** Waalaikumussalam. Good day, greet properly, none of that dragging it out, greet first.
 
