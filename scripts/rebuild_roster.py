@@ -97,7 +97,6 @@ PRESENT_UNLABELLED = {
     "ep21": ["Haziq"],   # "Haziq selain daripada dia buat kerja percuma jadi moderator"
     "ep27": ["Haziq"],   # "yang Haziq sebut tadi lah"
     "ep31": ["Haziq"],   # "kalau kau Haziq kan, buat video"; "Saya tanya Haziq. Tak cukup kau."
-    "ep47": ["Haziq"],   # "You pun sebut Haziq"; "Pertama kali Haziq jadi host kita"
     # Farhan (Pa'an): same bar
     "ep39": ["Farhan (Pa'an)"],   # "apa nama ni Farhan sebut tadi"
     "ep55": ["Farhan (Pa'an)"],   # "Pa'an yang takut dah"
@@ -112,11 +111,14 @@ PRESENT_UNLABELLED = {
     # collapse that no speaker-count hint could (ENGINEERING_LOG 1.36), and ep36, ep42 and
     # ep60 came from reading the video frames rather than from any acoustic pass (1.35).
     #
-    # SIX REMAIN, and they are the honest remainder of this audit: Haziq in ep21, ep27,
-    # ep31 and ep47, Farhan in ep39 and ep55. Each is present on dialogue evidence and
-    # still has no label, because their speech sits inside a block the diarizer would not
-    # split. ep47 is the one where the video already proves it: 11 of 17 sampled seconds
-    # inside its two 24-minute "Rafizi" blocks are Haziq.
+    # ep47 removed too, once the same threshold=0.55 re-cut gave Haziq 61 turns of his
+    # own. Its clusters agreed with the video on ALL ELEVEN frame-confirmed seconds.
+    #
+    # FIVE REMAIN: Haziq in ep21, ep27 and ep31, Farhan in ep39 and ep55. The first
+    # three are queued for the same re-cut. The last two look genuinely unresolvable:
+    # every textual trace of Farhan there is a THIRD-PERSON reference to what he said
+    # ("apa nama Farhan sebut tadi", "Pa'an yang takut dah"), not a hand-off to him, and
+    # frames at those exact seconds show Rafizi and the guest, no Farhan.
     # both
     # ep45 removed 2026-08-28: Haziq now holds 55 labelled turns of his own after
     # scripts/reattribute_blocks.py re-cut the collapsed blocks, so he no longer needs
