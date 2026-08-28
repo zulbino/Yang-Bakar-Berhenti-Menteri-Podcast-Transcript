@@ -22,7 +22,8 @@ SERIES = [
 ]
 FIELD_RE = {k: re.compile(rf"^{k}:\s*(.*)$", re.M)
             for k in ("title", "youtube_url", "publish_date", "duration")}
-LIST_RE = re.compile(r"^guests:\s*(\[\]|\n(?:- .*\n)*)", re.M)
+LIST_RE = {key: re.compile(rf"^{key}:\s*(\[\]|\n(?:- .*\n)*)", re.M)
+           for key in ("hosts", "guests")}
 
 
 def cell(text):
@@ -37,8 +38,9 @@ def read_fields(path):
     for key, pattern in FIELD_RE.items():
         m = pattern.search(frontmatter)
         out[key] = (m.group(1).strip().strip("'\"") if m else "")
-    m = LIST_RE.search(frontmatter)
-    out["guests"] = re.findall(r"- (.+)", m.group(1)) if m else []
+    for key, pattern in LIST_RE.items():
+        m = pattern.search(frontmatter)
+        out[key] = re.findall(r"- (.+)", m.group(1)) if m else []
     return out
 
 
@@ -65,7 +67,8 @@ def episode_rows(series_dir):
             fields["publish_date"], number,
             f"| {number} | {fields['publish_date']} | "
             f"[{cell(fields['title'])}]({fields['youtube_url']}) | "
-            f"{fields['duration']} | {cell(', '.join(fields['guests']))} | {links} |"))
+            f"{fields['duration']} | {cell(', '.join(fields['hosts']))} | "
+            f"{cell(', '.join(fields['guests']))} | {links} |"))
     rows.sort(reverse=True)  # newest first
     return [r[2] for r in rows]
 
@@ -78,8 +81,8 @@ def main():
             continue
         total += len(rows)
         blocks.append(f"## {heading}\n\n{blurb.format(n=len(rows))}\n\n"
-                      "| Ep | Date | Title | Length | Guests | Transcripts |\n"
-                      "|---|---|---|---|---|---|\n" + "\n".join(rows))
+                      "| Ep | Date | Title | Length | Hosts | Guests | Transcripts |\n"
+                      "|---|---|---|---|---|---|---|\n" + "\n".join(rows))
 
     header = (
         "# Episode index\n\n"
@@ -88,8 +91,15 @@ def main():
         "`mixed` keeps the original code-switched English and Bahasa Melayu, and `EN` / `MS` are\n"
         "the full translations. See the [README](README.md) for what each file is, and the\n"
         "[accuracy note](README.md#accuracy-note) before citing anything.\n\n"
-        "The Guests column lists guests only. Rafizi and the recurring co-hosts are on every\n"
-        "episode and are not repeated here.\n")
+        "Rafizi hosts throughout. Haziq and Farhan (Pa'an) are the regular co-hosts, and\n"
+        "Iqbal, Wan Afiq and Amir Sahmat stood in on the episodes where a regular could not\n"
+        "make it. The Guests column lists guests only, never the cast.\n\n"
+        "This column reports what each transcript actually names, so it under-reports rather\n"
+        "than guesses. Where it shows Rafizi alone, a co-host is usually present in the audio\n"
+        "but was never named in that episode; where it is empty, that episode carries no\n"
+        "speaker labels at all, because its diarization collapsed and a wrong name would have\n"
+        "been worse than none. Both cases are covered in\n"
+        "[ARCHITECTURE.md](ARCHITECTURE.md#known-limitations).\n")
 
     OUT_PATH.write_text(header + "\n" + "\n\n".join(blocks) + "\n", encoding="utf-8")
     print(f"wrote {OUT_PATH.relative_to(ROOT)}: {total} episodes")
