@@ -104,11 +104,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [34:03] Rafizi: cakap tu kan I mean Yelah tapi orang tak peduli Orang tak peduli Sama juga macam ni kan Benda yang kita kata sangat penting Kerana dia melambangkan Competency Ataupun Professionalism Kalau benda macam ini pun tak boleh nak buat kan Tapi benda tu tak penting pun kepada pengundi. Jadi akhirnya, pemenang minggu ini ialah kita. Beria komen benda-benda yang orang tak tuli. Saya rasa beria yang nerd sikit lah minggu ni.
 
-[34:35] Haziq: Tapi
+[34:35] Multiple speakers: Tapi ... sepatutnya ada satu lagi, YB. Tapi ... mungkin tak sepatutnya masukkan.
 
-[34:36] Rafizi: sepatutnya ada satu lagi, YB. Tapi
 
-[34:38] Haziq: mungkin tak sepatutnya masukkan.
 
 [34:38] Rafizi: Kenapa itu prnn9.com?
 
@@ -297,4 +295,3 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 [2:45:12] Rafizi: Minggu depan lah kita ucap semangat mengundi Ok Alright
 
 [2:45:15] Haziq: Bye
-

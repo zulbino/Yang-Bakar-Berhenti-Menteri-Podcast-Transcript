@@ -78,11 +78,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [08:13] Razeef Rakimin: berasingan. Ini nama dia Didi. Haa Didi. Dia ni... Ini bila dia cakap dengan saya lah sebab... Oh kau kenal dia? Kenal. Gambar ada sini banyak. Dia asal mana? Dia... Dia bagitahu sempurna. Oh dia sempurna. Asal sempurna. Dan dia ni... Dia bagitahu lah. Dia ni okey you. Cuma dia tidak bagitahu dia okey you apa. Dan dia memang kalau bercakap berpantun ni memang rajul lah. Jadi bila sudah viral tu... Parti-parti politik ni selalu panggil dia tolong promote apa itu
 
-[08:41] Haziq: dengan
+[08:41] Multiple speakers: dengan ... pantun ... dia.
 
-[08:43] Rafizi: pantun
 
-[08:43] Razeef Rakimin: dia.
 
 [08:43] Haziq: Jadi masih dia pun tahulah yang dia tukar-tukar baju. Tapi
 
@@ -230,11 +228,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [40:37] Razeef Rakimin: Lepas tu, bila jadi kerajaan, bukan ditukar, disambung beberapa
 
-[40:41] Razeef Rakimin: kali. So
+[40:41] Multiple speakers: kali. So ... reform tu tak adalah ... sebenarnya.
 
-[40:43] Rafizi: reform tu tak adalah
 
-[40:44] Faizal Rahman: sebenarnya.
 
 [40:44] Faizal Rahman: Tak berlaku
 
@@ -434,11 +430,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:42:21] Razeef Rakimin: ni parti derita.
 
-[1:42:22] Razeef Rakimin: Pasal
+[1:42:22] Multiple speakers: Pasal ... derita ... pakai poster.
 
-[1:42:24] Rafizi: derita
 
-[1:42:24] Razeef Rakimin: pakai poster.
 
 [1:42:26] Rafizi: Masa derita zaman aku ada poster lah.
 
@@ -510,11 +504,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:52:14] Razeef Rakimin: Dia beginilah, ini daripada bila saya dan pasukan sendiri turun bawah. Bila kita jumpa dengan komuniti Chinese ni, bila kita cerita pasal video ni kan? Mereka hanya berkata, anda faham bagaimana cara berniaga. Itu perkara biasa. Itu yang pertama. Kedua, apabila kita masuk ke kawasan kampung-kampung ini, dari pandangan orang politik, bagi mereka, ini adalah perkara yang baik. Kerana apabila kita bercerita dengan orang kampung, kami tidak peduli. Yang kami tahu ialah dia dapat berapa ratus ribu pun Mereka tolong dia buat atap rumah saya, bucur,
 
-[1:52:50] Haziq: infra,
+[1:52:50] Multiple speakers: infra, ... apa ... semua
 
-[1:52:51] Rafizi: apa
 
-[1:52:51] Haziq: semua
 
 [1:52:52] Razeef Rakimin: Jadi bagi mereka itu tidak ada masalah dengan mereka Jadi bagi orang politik ini, mereka tengok ini satu yang bagus Walaupun macam mana berlaku begini pun tidak ada kesan dengan kita Tapi sebagai seorang yang menentang rasuah ini Ini sesuatu yang sangat menakutkan bagi saya Sebab seolah-olah benda ini normal, kita boleh tengok 8 masih survive dan ada di antara mereka menang besar lagi tu. Cuma setakat ini... Ketua Menteri belum ada terlibat lah. Sebab belum ada video apa kan.
 
@@ -586,11 +578,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:05:57] Razeef Rakimin: ni awal lagi orang masih kira undi
 
-[2:05:59] Rafizi: Sebab aku tak tidur lagi masa tu kan
+[2:05:59] Multiple speakers: Sebab aku tak tidur lagi masa tu kan ... eh dah cukup ... jumlah Haa
 
-[2:06:01] Razeef Rakimin: eh dah cukup
 
-[2:06:01] Rafizi: jumlah Haa
 
 [2:06:02] Razeef Rakimin: Jadi bila sudah Cukup jumlah tu... Ya ini real punya cukup jumlah. Jadi diorang semua sudah bersedia ada yang berbaju hitam. Yang pakai kot apa keluar. Kebetulan wartawan datang dia bagi tahu. Saya ke istana dulu. Selepas tu baru akan bercakap dengan wartawan. Bila beliau bergerak kami dimaklumkan lah. Kalau boleh... Haji Ji minta tunggu di tuaran Sebab selepas angkat sumpah Dia akan bergerak ke tuaran Untuk buat kesyukuran kecil-kecilan Malam tu juga Subuh tu juga Jadi kita orang bergerak lah Perlahan-lahan ke tuaran Kita dapat maklumat Jam 3 lebih Jam 3 lah Dia sudah angkat sumpah Selepas angkat sumpah Dia balik ke Serigaya untuk bertemu dengan wartawan apa Lepas itu dia bergerak ke Tuaran Itu yang berlaku lah Dia pada waktu tu lah memang cukup sokongan Sebab kalau kita tengok pun Kelima-lima calon bebas ni pun Memang daripada parti dia Pro kepada Haji Ji Dan memang antara orang yang Haji Ji sayang lah sebenarnya Cuma macam kita faham lah Soal pembagian kerusi ni kadang-kadang Contohnya... Pertagas lah. Pintasan. Pintasan. Ketua pemuda dia adalah YB incumbent. Dia adalah seorang pemuda. Tapi dia terpaksa singkirkan ketua pemuda itu. YB incumbent. Untuk letak seorang tua yang pernah kalah dulu. Yang bertongkat itu. Jadi itu menimbulkan protes lah Dan kita memang tahu dia ada kekuatan Jadi kalau mahu cerita pasal petagas ni pun sama juga.
 

@@ -96,11 +96,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [09:21] Rafizi: terus Ya sebab tu saya kata Macam mana YB? Sebab tu Saya ingat Lok pun Silap-silap hari Tak tengok pun Laporan penuh pun Dia tak macam orang PKR Yang duk follow live tu Jadi dia pun mungkin Terpinga-pinga Jadi dia terpaksa je lah Bagi respon apa dia kan yang masa muda kurus ni untuk bagi motivasi
 
-[09:46] Haziq: ke YB
+[09:46] Multiple speakers: ke YB ... look sekarang tak macam tu tau betul ... saya setuju
 
-[09:46] Rafizi: look sekarang tak macam tu tau betul
 
-[09:49] Haziq: saya setuju
 
 [09:50] Rafizi: tapi it's a bit rich for me to comment that because aku pun pakai gambar tahun 2021
 
@@ -248,11 +246,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [43:19] Farhan (Pa'an): Saya ada tanya kan hari dia buat scuba tu hari sebelum. So kita hari pelancaran ada tiga orang Gen Z. So saya tanya diorang.
 
-[43:30] Haziq: Secara random kan
+[43:30] Multiple speakers: Secara random kan ... aku ada kat ... situ.
 
-[43:31] Farhan (Pa'an): aku ada kat
 
-[43:32] Haziq: situ.
 
 [43:34] Farhan (Pa'an): Korang tahukah apa scuba 677 tu? Diorang kata tak tahu.
 
@@ -310,11 +306,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:03:32] Rafizi: apa nama ni, nyawa reformasi masa tu mestilah ada internet. Sebab itu tugas kita dekat Malaysia. So Raz nak balik
 
-[1:03:37] Nik Nazmi: Malaysia. So
+[1:03:37] Multiple speakers: Malaysia. So ... we spend, orang lain ... pergi clubbing, pergi travelling Europe.
 
-[1:03:39] Rafizi: we spend, orang lain
 
-[1:03:40] Nik Nazmi: pergi clubbing, pergi travelling Europe.
 
 [1:03:44] Rafizi: Buat kerja gila. Duit semua buat kerja gila ni kan. And then I think lah kan, coming back to Seminggu Bersama ni kan, tadi orang tanya lah, orang selalu tanya actually how do you feel? Actually I don't know, I don't feel anything. Dia just another day lah kan, I think it's long coming kan. Sebab itu... Kalau keputusan tu dibuat Mengikut emosi Dan dia bermasalah I don't know Nick lah To me aku tak ada emosi langsung
 
@@ -346,11 +340,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:06:54] Rafizi: Boleh yang kau tanya kalau-kalau. Memang kerja kau untuk tanya.
 
-[1:06:59] Haziq: Agak sopan di situ. Betul-betul
+[1:06:59] Multiple speakers: Agak sopan di situ. Betul-betul ... angkat tangan ... dia.
 
-[1:07:01] Nik Nazmi: angkat tangan
 
-[1:07:02] Rafizi: dia.
 
 [1:07:03] Haziq: tangan-tangan je. Saya ada soalan. Sebelum buat parti ni YB nak tahu thinking process dia tu lepas daripada bulan 5, bulan 6 tu memang straight away kata oh kita dah boleh buat parti ke ataupun YB mungkin ada consider sebenarnya nak break kejap ke atau macam mana. Saja nak tahu
 
@@ -386,11 +378,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:31:35] Nik Nazmi: Even progresif pun bagi, ni my view lah Bila kita bincang nama, takut, yelah kita target kita Eventually kita nak grow kepada semua tempat kan Merangkul semua pengundi ni Nama progresif tu pun mungkin kurang menarik. Kurang menarik. Sebab dia berkata orang putih.
 
-[1:31:54] Rafizi: Berkata orang putih
+[1:31:54] Multiple speakers: Berkata orang putih ... dah. Bro, ... bro,
 
-[1:31:55] Haziq: dah. Bro,
 
-[1:31:55] Nik Nazmi: bro,
 
 [1:31:56] Haziq: bro. So, dia ni agak critical sikit lah dengan nama progresif tu. Bukan lah. Kita bincang
 
@@ -576,13 +566,10 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:55:12] Rafizi: numbers lah. Interesting numbers kan. Dia, dia, ya lah. If you work with data, you look at Orang kata anomalis like that. And is that anomalis like that that you want to validate further? Of course kita akan kena tunggu baseline number dalam 2-3 minggu daripada sekarang. From there, then we have more evidence again. Strategi yang berpeluk tubuh dan tak buat apa-apa ni kan tak semestinya berkesan lah pada pandangan saya. Itu juga cabaran bersama saya dengan Nick semua untuk tawarkan sesuatu untuk eksak pengundi yang Melayu, Cina, India kan. Strategi kami of course lah we have to be entirely different daripada semua parti-parti lain. Kita kena disrupt keadaan ada. Dari segi pemikiran, tawaran. Itu je kita ada. Bukan ada duit, kami tak ada ramanan.
 
-[2:56:08] Nik Nazmi: Macam UMNO ada jentera, PAS ada jentera,
+[2:56:08] Multiple speakers: Macam UMNO ada jentera, PAS ada jentera, ... ada ... ramai ... orang.
 
-[2:56:11] Rafizi: ada
 
-[2:56:11] Nik Nazmi: ramai
 
-[2:56:11] Rafizi: orang.
 
 [2:56:11] Nik Nazmi: UMNO ada duit.
 
@@ -647,4 +634,3 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 [3:12:29] Rafizi: Dah tiga sekil. Aku selalunya selalu aksi dengan budak dua orang ni, bahasa Melayu aku lebih baik. Sekarang kantoi, peribahasa tu tak tahu bahasa pekak dan meriam. Terima kasih dan
 
 [3:12:41] Haziq: kena follow juga laman rasmi TikTok, Instagram, Facebook, Tread, X dan YouTube official bersama. Itu sahaja. Terima kasih. Kita jumpa lagi minggu depan. Kita bersama balik minggu depan. Ya, kita bersama minggu depan. Selamat malam. Assalamualaikum. Bersama-sama kita tidur.
-

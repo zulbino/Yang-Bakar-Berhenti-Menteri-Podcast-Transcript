@@ -146,21 +146,16 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [33:59] Haziq: buka supaya YB buka cerita.
 
-[34:01] Rafizi: Okay,
+[34:01] Multiple speakers: Okay, ... tak saya baca ... lah. Ini tak ada kena-kena. Jangan inkompet ni.
 
-[34:03] Haziq: tak saya baca
 
-[34:03] Rafizi: lah. Ini tak ada kena-kena. Jangan inkompet ni.
 
 [34:06] Haziq: Ini pasal pertanian. YB nak last terus saya baca. Tak,
 
-[34:11] Rafizi: baca
+[34:11] Multiple speakers: baca ... lah dulu. Kesian ... yang orang duk ... kenyurangkan
 
-[34:11] Haziq: lah dulu. Kesian
 
-[34:12] Rafizi: yang orang duk
 
-[34:13] Haziq: kenyurangkan
 
 [34:14] Rafizi: Spotify tengah jogging ni kan.
 
@@ -248,15 +243,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:45:17] Haziq: belum? Kalau ikut kita tak jumpa kat mana-mana source lah. Kalau aku tanya tu tak ada lah maksudnya. Pembangkang yang minta didedahkan lah.
 
-[1:45:26] Rafizi: Pembangkang
+[1:45:26] Multiple speakers: Pembangkang ... minta ... didedahkan. Kenapa kerajaan tak boleh ... dedahkan ... lagi?
 
-[1:45:26] Haziq: minta
 
-[1:45:26] Rafizi: didedahkan. Kenapa kerajaan tak boleh
 
-[1:45:28] Haziq: dedahkan
 
-[1:45:28] Rafizi: lagi?
 
 [1:45:30] Haziq: Sebab tak ada.
 
@@ -365,4 +356,3 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 [2:31:09] Rafizi: Saya pengalaman retail. Saya pernah jaga kedai korporasi masa tingkatan 2 dan tingkatan 3 menjual kacang macam-macam lah kepada senior. Dekat sekolah dulu hari Sabtu malam ada wayang. Jadi masa wayang tu orang beratur panjang lah. Kedai korporasi kat sekolah saya tu satu tingkat kecil je. Collect dah ni. Collect kan. pengalaman saya menjual-beli ini daripada korporasi sekolah masa tingkatan 2 ke atas. Jadi saya akan mulakan baliklah pengalaman itu balik esok.
 
 [2:31:45] Haziq: Okey, baik YB. Jadi kita tamatkan dan kita tidur awal supaya esok kita boleh pergi ke kedai ramai-ramai. Itu saja daripada kami. Kita jumpa lagi podcast yang akan datang. Itu je lah Bye Assalamualaikum
-

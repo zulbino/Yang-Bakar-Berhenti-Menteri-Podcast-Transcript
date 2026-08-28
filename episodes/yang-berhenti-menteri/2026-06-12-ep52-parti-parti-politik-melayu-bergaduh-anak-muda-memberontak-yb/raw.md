@@ -46,11 +46,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [01:52] Syuk: 27. Dah tua rupanya. Gen Z tua lah. Bukan anak muda apa.
 
-[01:58] Syuk: 27 dah
+[01:58] Multiple speakers: 27 dah ... jadi ayah orang. Salah ... jemput lah
 
-[02:00] Rafizi: jadi ayah orang. Salah
 
-[02:01] Syuk: jemput lah
 
 [02:01] Rafizi: saya. Zain? 22. Apalah korang salah jemput yang tua-tua ni Engkau? 22 22, ni masih lagi layak lah Layak
 
@@ -72,13 +70,10 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [02:39] Syuk: fashion dulu memang orang dah pakai macam tu kan.
 
-[02:42] Zaim Zulkifli: Tapi tak tahu asal orang guna
+[02:42] Multiple speakers: Tapi tak tahu asal orang guna ... baik ... sekarang. Dulu ... memang, seluar kembang dia kan?
 
-[02:44] Syuk: baik
 
-[02:44] Zaim Zulkifli: sekarang. Dulu
 
-[02:45] Syuk: memang, seluar kembang dia kan?
 
 [02:47] Rafizi: Ya, tapi dulu seluar kembang dia kena ketat dekat apa?
 
@@ -86,11 +81,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [02:53] Rafizi: kembang bawah. Dia kembang bawah sajalah. Dekat peha tu ketat nak mampuskan. Lebih pernah terjebak? Tak, aku senyum tu sebab. Haa, dia sebab aku senyum. Sebab masa aku kat sekolah, dia macam yang GQ tu kan, yang masih lagi, dia... Kan dia......cycle tu berulang-ulang kan. So my time dulu......masa kat sekolah menengah......orang pakai yang loose macam tu lah. Tapi aku ada seorang cikgu English. Kalau dia tengok ni mesti dia gelak. Dia......dia......masa tu zaman early 90s... Tapi dia pakai baju dia aku ingat dia tak pernah tukar wardrobe dia daripada 70s. So collar dia besar gila. Kemudian dia punya seluar bell bottom semua. So kita orang panggil dia master collar. Master. Dia sebab collar dia. Yelah master collar sebab orang masa tu collar semua kecil-kecil kan. Dia punya collar telinga gajah punya collar. So dia repeat and repeat and repeat kan sebab... Saya rasa tahun 80-an yang zaman orang pakai apa nama ini ketat gila ni kan, apa nama, skinny jeans kan. And then the last 5-6 years, ada skinny jeans. So sekarang aku tak tahu nak buat apa dengan skinny jeans aku. Not only dia out of fashion, memang tak muat dengan aku sekarang.
 
-[04:12] Haziq: Kena tunggulah sebab fashion ni dia
+[04:12] Multiple speakers: Kena tunggulah sebab fashion ni dia ... akan pulang balik kan. Tunggu ... fasa dia sampai,
 
-[04:14] Rafizi: akan pulang balik kan. Tunggu
 
-[04:16] Haziq: fasa dia sampai,
 
 [04:17] Rafizi: boleh balik balik. Yalah tapi by the time aku 55 pakai skinny jeans, ada problem lah.
 
@@ -514,19 +507,15 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [50:32] Haziq: Okay Settle lah Settle Kita terus ke hidup Keras Dan topik pertama Itulah sebab kenapa Mereka berdua berada di sini Dia nak batuk je So masa Masa
 
-[50:44] Rafizi: Zahim datang First time kena
+[50:44] Multiple speakers: Zahim datang First time kena ... bakar Lalu tak ada segmen ... lagi Dia bakar berterusan Hmm Yang
 
-[50:46] Haziq: bakar Lalu tak ada segmen
 
-[50:47] Rafizi: lagi Dia bakar berterusan Hmm Yang
 
 [50:52] Haziq: pertama Kenapa ada Hanayo tu? AI, kau prompt supaya
 
-[50:54] Rafizi: ada hana
+[50:54] Multiple speakers: ada hana ... you ... ke apa ni?
 
-[51:01] Farhan (Pa'an): you
 
-[51:01] Rafizi: ke apa ni?
 
 [51:01] Rafizi: Tak,
 
@@ -586,11 +575,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [54:10] Syuk: Dah lahirlah ada tapi aku tak ada media sampai. Yang
 
-[54:12] Rafizi: Gen Z tu
+[54:12] Multiple speakers: Gen Z tu ... tak sangat. Gen Z muda ... maybe yes. Kau umur berapa kau ada media?
 
-[54:12] Haziq: tak sangat. Gen Z muda
 
-[54:13] Syuk: maybe yes. Kau umur berapa kau ada media?
 
 [54:17] Zaim Zulkifli: Kalau orang dah jahat-jahat lah, dah jahat 6, dah jahat 5 dah ada akses lah. Dah jahat 4 dah, aku form what. So, saya dapat phone. So, daripada situ lah
 
@@ -600,11 +587,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [54:32] Haziq: Semua waktu tu,
 
-[54:33] Zaim Zulkifli: Steve macam
+[54:33] Multiple speakers: Steve macam ... main stream ... dia pakai Sony, pakai Blackberry.
 
-[54:34] Rafizi: main stream
 
-[54:34] Zaim Zulkifli: dia pakai Sony, pakai Blackberry.
 
 [54:38] Zaim Zulkifli: Dia belom
 
@@ -638,11 +623,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:00:34] Zaim Zulkifli: menentukan
 
-[1:00:34] Rafizi: Betul
+[1:00:34] Multiple speakers: Betul ... betul even like to the point yang Game ... tu. Kau bukan Gen Z
 
-[1:00:34] Haziq: betul even like to the point yang Game
 
-[1:00:35] Zaim Zulkifli: tu. Kau bukan Gen Z
 
 [1:00:37] Zaim Zulkifli: ke?
 
@@ -784,11 +767,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:41:04] Farhan (Pa'an): Okay maybe Actually yeah you're right Because these guys Are somewhat politically
 
-[1:41:09] Farhan (Pa'an): Tapi
+[1:41:09] Multiple speakers: Tapi ... to be fair Mereka memang politically They ... are
 
-[1:41:09] Haziq: to be fair Mereka memang politically They
 
-[1:41:11] Farhan (Pa'an): are
 
 [1:41:12] Farhan (Pa'an): But
 

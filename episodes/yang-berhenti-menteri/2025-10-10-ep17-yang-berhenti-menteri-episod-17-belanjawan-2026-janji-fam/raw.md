@@ -66,15 +66,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [10:44] Haziq: Okay, baik YB. YB nak buat rating?
 
-[10:46] Rafizi: Tak
+[10:46] Multiple speakers: Tak ... perlu? Minggu ... ni ... tak payah ... rating. Minggu ni tak
 
-[10:47] Haziq: perlu? Minggu
 
-[10:47] Rafizi: ni
 
-[10:48] Haziq: tak payah
 
-[10:48] Rafizi: rating. Minggu ni tak
 
 [10:48] Haziq: payah. Kita rehat. Saya ingat kita nak fokus kepada bajet kot. Okay YB, jadi kita ke segmen yang seterusnya. Ni baru okay lah. Just nice. Okay YB. Kita mungkin saya select satu sajalah Dan saya rasa saya kena minta izin dulu daripada YB lah Sebab saya tanya terus lah Ini kalau dekat Kenapa nak kena minta izin? Sebab kat Twitter YB dikatakan Ini isu yang tak ada ahli politik pun nak ulas Kerajaan, pembangkang Eh apa
 
@@ -166,11 +162,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [47:55] Haziq: Biasa compare dengan negara lain lah kalau I mean
 
-[47:59] Rafizi: That's one way, that's one way
+[47:59] Multiple speakers: That's one way, that's one way ... lagi ... cara dia Kalau tengok kepada negara kita sendiri
 
-[48:00] Haziq: lagi
 
-[48:01] Rafizi: cara dia Kalau tengok kepada negara kita sendiri
 
 [48:06] Haziq: Kita compare dengan... Apa lagi? Biasa saya kompeng dengan negara lain je lah.
 
@@ -289,4 +283,3 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 [2:09:08] Rafizi: Belum berpuas hati, weekend ini saya akan bincang dengan isteri saya. So menu dan sebagainya. Menu kita dah tetapkan. mana kita nak pastikan. Ada talian hayat. CP tu kan. Ada talian hayat korang kan. Jadi insyaAllah lah mungkin minggu ketiga, minggu keempat Oktober, kita akan buka. Jadi kepada Irfan dan yang lain, saya tumpukan kepada dua yang ini dahulu kerana dia melibatkan kos yang besar lah. Kita nak buka kedai ni banyak habis duit dan kita tak nak main-main. Kita nak betul-betul dia membantu orang dan kita dah kira boleh jual RM5 kan. Tapi kita tak nak lah salah kira nanti tak untung. Jadi we really develop everything from scratch. InsyaAllah lah once I think that happens then kita boleh buka peluang kepada yang lain untuk Pada masa yang sama, social enterprise yang lain pinjam gadget. Kita dah dapat dalam berapa banyak? Kita dah ada 17 laptop pertama yang kita nak baiki sebagai test untuk kita bagi kepada pelajar-pelajar miskin Dari segi tanah-tanah pertanian untuk tanam duit kan Ini untuk buat pertanian modern melalui social enterprise Kita dah ada berapa? 7-8 tapak yang hadir kan yang menawarkan tanah Jadi sebenarnya saya tak nak mulakan yang lain dulu tu sebab saya nak betul-betul tumpu dua ini dulu orang mula beli dan dia nampak berjaya dan maksudnya insyaAllah November tu kita akan juga mula dengan yang lain-lain. Baik, baik YB. Thank you for the update. Baik.
 
 [2:10:56] Haziq: Itu je lah ke YB. Alhamdulillah. 2 jam 10 minit yang produktif. Terima kasih banyak YB Rafizi. Terima kasih baik. Esok weekend. Betul. Esok weekend. Dah habis dah interview ni. Dah habis YB. Saya segan pula macam mana. Jadi kita stop dekat sini. lagi minggu depan. Terima kasih. Minta tolong share kepada kawan-kawan lain. Kita jumpa lagi minggu depan. Terima kasih.
-

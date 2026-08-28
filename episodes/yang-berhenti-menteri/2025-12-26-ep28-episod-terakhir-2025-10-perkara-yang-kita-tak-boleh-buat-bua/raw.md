@@ -109,11 +109,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [16:33] Rafizi: Those are two different issues kan. Yang political reset ni. Okay, itu
 
-[16:40] Iqbal: suatu
+[16:40] Multiple speakers: suatu ... pandangan ... yang tak bersetuju juga.
 
-[16:40] Rafizi: pandangan
 
-[16:40] Iqbal: yang tak bersetuju juga.
 
 [16:42] Rafizi: No, saya macam inilah kan. Saya boleh lihat. Dan ini trapping untuk sesiapa yang dia ascend dalam society I don't know mungkin itu pandangan orang kenapa mereka nak jadi Datuk, Tan Sri Tun ke Pekawai, ke Bawai Tinggi ke apa kan Oleh kerana Yalah Saya ingat masyarakat kita ni Daripada dulu Asal-usulnya feudal Eee... kita 100 tahun yang lepas masih lagi feudal sedangkan kalau tengok masyarakat lain mereka telah melalui 3-400 tahun untuk beralih daripada masyarakat feudal kepada masyarakat modern yang ada sekarang ni kan jadi ada satu kecenderungan. Bila kita naik dalam hierarki masyarakat ini, kita ada sense of entitlement. Jadi pandangan Kian Meng ini seolah-olah Najib ada sumbangan, Muhyiddin ada sumbangan, Guan Eng ada sumbangan dan mereka ini sangatlah penting kepada negara daripada terus bergolak dan baik kan itu maksud dia lah kan itu entitlement orang politik that we think that the world revolves around us. Tapi pada pandangan rakyat biasa lah kan. And I've tried my best at any point to always remind myself of that bit tau. Sesuatu itu kalau macam ini, kalau rakyat biasa apa dia rasa? Dia rasa yang one rule apply to you, another rule apply to me. Kalau kita salah parking, tak bayar kena saman, tak bayar saman compound, kita kena jail tau. Tak ada orang pun nak ampunkan kita. The law was never framed to treat different people differently. If anything, sepatutnya yang berkedudukan itulah ada tanggungjawab yang lebih tinggi. Because you come from a position of influence, you should know better. Jadi, ironi dia ialah bila dia datang daripada DAP lah. Because sebelum PKR pun, in the 70s, 80s, 90s kan, the lone voice for egalitarian society ni adalah DAP. yang mahukan supaya semua orang dilayan sama rata. Dulu adalah parti rakyat, barisan sosialis. Basically the left wing parties of the country in the 60s, 70s. Kemudian by 80s tu tinggal DAP je yang ada representation kan. Jadi dia jadi sangat anomaly yang sangat besar. It's a very big anomaly coming from Tian Ming. yang sepatutnya mempromosikan egalitarian values tiba-tiba kita menjadi very feudal dan oleh kerana orang ini adalah pembesar kita, maka jomlah kita maafkan.
 
@@ -581,11 +579,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [3:22:58] Iqbal: Saya rasa untuk mengakhiri episod terakhir podcast YBM untuk tahun ini dengan nota positif, apakah mungkin... Ho ho ho! Jangan
 
-[3:23:10] Haziq: ambil saya
+[3:23:10] Multiple speakers: ambil saya ... punya ... tagline.
 
-[3:23:10] Iqbal: punya
 
-[3:23:11] Haziq: tagline.
 
 [3:23:11] Iqbal: Ya, itu dia punya. Saya rasa saya melakukannya lebih baik daripada anda. Apakah mungkin silver lining ataupun sesuatu... Cause for hope Yang You take For yourself In waking up everyday And then Allows you to go to work Because for me Contohnya untuk saya Mungkin Sounds so sad Etiba yang saya ambil adalah Err Kalau the quote from Martin Luther King, ya itu the arc of history is long but it bends towards justice. Nak apa-apa pun, things can only get better. And yes, maksudnya kita kena cuba usaha untuk dapatkan masa depan yang lebih baik itu. Tapi adakah itu, is that where you get the strength to continue every day? Batuk tu aku. Hmm.
 
@@ -616,4 +612,3 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 [3:31:02] Haziq: Okay baik YB Jom tidur Yes And good night everyone Ho ho ho Jumpa
 
 [3:31:08] Haziq: tahun depan
-

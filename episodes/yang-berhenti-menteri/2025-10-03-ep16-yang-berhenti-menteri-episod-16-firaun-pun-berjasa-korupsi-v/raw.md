@@ -221,13 +221,10 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:08:02] Rafizi: Performance tak baik tadi ujung-ujung tu dia dah tergelincir banyak kan.
 
-[2:08:06] Haziq: Ya awal-awal
+[2:08:06] Multiple speakers: Ya awal-awal ... tu ... bagus.
 
-[2:08:07] Rafizi: tu
 
-[2:08:08] Haziq: bagus.
 
 [2:08:08] Rafizi: Tapi
 
 [2:08:08] Haziq: tak apa ada minggu depan ada ruang. Minggu depan kita akan zero apa nama. Itu satu kenyataan yang berani. Boleh buat atau tak kita jumpa minggu depan. Assalamualaikum jumpa lagi.
-

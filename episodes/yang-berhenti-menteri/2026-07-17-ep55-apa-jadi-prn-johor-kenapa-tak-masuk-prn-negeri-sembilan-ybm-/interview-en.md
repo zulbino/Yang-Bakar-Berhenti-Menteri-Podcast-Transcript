@@ -13,7 +13,6 @@ hosts:
 - Farhan (Pa'an)
 guests:
 - Tang Hong Yau
-- Multiple speakers
 - Dato' Dr. Samsu Adabi Mamat
 - Dr. Harith Fakhrudin
 - Dato' Dr. Syed Azuan Al-Idrus (DSA)

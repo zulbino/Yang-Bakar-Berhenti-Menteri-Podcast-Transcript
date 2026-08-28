@@ -61,11 +61,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [23:00] Rafizi: Sebab itu satu soal pertindahan itu adalah satu perkara yang masalah besar dalam kerajaan. Kita ada berapa puluh agensi yang semuanya mengaku ialah kami sedang menjalankan program membantu Bumi Putera kan contohnya kan tapi program itu kejayaannya itu bercampur-campur lah kan dan ada yang dan saya ingat budaya orang kita juga kalau ada 100 peserta Yang betul-betul berjaya dua pesertanya Yang 98 lagi tu mungkin suam-suam
 
-[23:39] Faiz: Lepas tu dua tu
+[23:39] Multiple speakers: Lepas tu dua tu ... lah yang ... akan digembar-gemburkan
 
-[23:39] Rafizi: lah yang
 
-[23:40] Faiz: akan digembar-gemburkan
 
 [23:41] Rafizi: Yang dua tu lah yang digembar-gemburkan Itu satu perkara yang kami sedang tukar. Sebab itu Kongres Ekonomi Berputera ini sebahagiannya ialah untuk kita menetapkan hala tuju dan pendekatan minda yang baru supaya kita tidak berterusan mengulangi perkara ini. Yang keduanya, saya sedih maklum bukan sangat, bukan sahaja dari segi program yang bersabit dengan Mubin Putera, tapi program kerajaan keseluruhannya kalau program desain itu tidak dibuat dengan berhati-hati akhirnya ia tidak sampai sepenuhnya kepada penerima kerana sebahagian itu pergi kepada konsultan-konsultan sebab itu kalau tengok dalam pendekatan yang kita telah buat yang melibatkan orang miskin lepas kan Kita tidak lagi menggunakan konsultan-konsultan untuk melatih dan sebagainya. Dan wang itu pun kalau contohnya melalui IPR, wang pun kita tak bagi kepada penerima tebus, tunai. Yang kita buat ialah kita laburkan di dalam infrastruktur supaya dia mewujudkan peluang pekerjaan dan penerima itu mesti bekerja. Cuma oleh kerana kerajaan telah melaburkan untuk membina ekosistem dan infrastruktur itu, maka banyak risiko-risiko perniagaan itu telah diambil dan diserap oleh kerajaan. Boleh
 
@@ -230,4 +228,3 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 [2:01:54] Syed Munawar: pendidikan. Ya, itu salah satu tujuan podcast ini juga. Kita nak mencerdikkan orang-orang di bawah sana. Okey, terima kasih Surah Faiz sekali lagi. Terima kasih YB yang meluangkan masa. Ya, kita ingat sejam setengah tapi kita dah pergi dua jam lebih kan? Okey. Jumpa lagi 2 minggu dari sekarang. InsyaAllah. Assalamualaikum warahmatullahi wabarakatuh. Bye-bye. Assalamualaikum warahmatullahi wabarakatuh.
 
 [2:02:21] Speaker ?: Terima kasih.
-

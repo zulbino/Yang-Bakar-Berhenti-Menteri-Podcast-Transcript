@@ -389,11 +389,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:02:27] Rafizi: teori yang menyatakan
 
-[1:02:28] Rafizi: Eh, tapi
+[1:02:28] Multiple speakers: Eh, tapi ... tak tanya ubat lagi pasal ... pemudi China Aku pun nak dengar juga Saya
 
-[1:02:29] Haziq: tak tanya ubat lagi pasal
 
-[1:02:30] Rafizi: pemudi China Aku pun nak dengar juga Saya
 
 [1:02:33] Tang Hong Yau: rasa yang polling swing tu Pasal juga dengan Strategi PH Sebab masuk minggu pertama mereka Bangkikan isu Release Najib pada Najib Dan juga Green Wave kan Jadi saya rasa ini yang Dia hantar isyarat untuk pengundi Melayu jugalah Untuk ada buah fakat ke perpaduan umar ke How about split vote Chinese? Split vote Chinese lah saya rasa dalam minggu pertama kan memang pengundi China ni memang kecewa dan bosan tapi yang minggu kedua Awak ada perasaan tak mereka menjemput balik Superman? Ya, ya, ya. Superman. Dan Kisiam
 
@@ -537,11 +535,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:48:24] Rafizi: Kesihatan jugalah. Kita tengoklah Negeri Sembilan
 
-[1:48:28] Rafizi: macam
+[1:48:28] Multiple speakers: macam ... mana. YB, kita ... dah lama Johor.
 
-[1:48:28] Haziq: mana. YB, kita
 
-[1:48:30] Rafizi: dah lama Johor.
 
 [1:48:32] Haziq: 1 jam 47 minit. Kita 3 jam kan? Yelah tapi janganlah aku nak kena kencing. YB dah sebut tadi apa yang bersama dapat dari hilang semua deposit 15 kusi. Kita bina jentera dalam seminggu. 1 juta rakyat yang menonton dan 315 ribu yang baru. Kita buktikan calon-calon kita, kita tunjukkan semangat sukarelawan dan cara kita menguruskan model kewangan kita. Dan mungkin kalau YB nak kongsi, sebenarnya kalau compare parti baru macam bersama ni masuk dalam pertama kali pilihan raya dibandingkan dengan parti-parti politik lain yang first time masuk juga, macam mana performance dia?
 
@@ -687,11 +683,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:53:22] Dato' Dr. Samsu Adabi Mamat: kekalkan momentum.
 
-[2:53:30] Dato' Dr. Samsu Adabi Mamat: Visibility
+[2:53:30] Multiple speakers: Visibility ... kita kan. So yang menonton podcast, ... korang kena bersedia je lah lepas ni.
 
-[2:53:30] Rafizi: kita kan. So yang menonton podcast,
 
-[2:53:34] Multiple speakers: korang kena bersedia je lah lepas ni.
 
 [2:53:36] Rafizi: Podcast ni bising lah, kucing ni. Tak apa, tak apa. Pandai-pandai. So apa ni, sebab saya rasa kita memang tak boleh berehat lama. Cuma saya perlukan satu dua minggu ni So minggu depan saya mula sit down dengan tim ubat, tim sana, tim sini. Joe is coming to see me esok. Satu-satu-satu kita nak kena susun. Dan tanggungjawab saya pun besar lah sebab ada orang letak jawatan semua ni kan. So kan yang letak jawatan untuk menumpukan satu tahun akan datang untuk buat benda ni kan. Dan diorang ni gaji puluh-puluh ribu kan. So kita nak kena pastikan semua tu disusun dengan baik lah. plan betul-betul dan insyaAllah lah dalam baik ujung bulan Julai ni, saya rasa kita dah mula kat Melaka dah, diorang saya tak cakap kat diorang je lagi, diorang kurang ada dua hari je lah pun, kalau nak rehat pun, ke depan jelajah kancah tu, jelajah negeri tu
 

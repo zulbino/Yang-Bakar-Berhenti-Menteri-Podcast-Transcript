@@ -70,11 +70,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [13:22] Rafizi: pernah ulas, kita tolong bantu lah. Tolong bantu Syamgas ni kan. Haa, consultation percuma. Consultation percuma. Patutlah aku tak kaya berserang kan. Kan kita pernah ada slot kan kita bincang mengenai masalah komunikasi kerajaan. So dia mesti bermula dengan orang kata situational assessment. Sebenarnya kenapa kerajaan ada masalah untuk menyampaikan dasar dan juga pencapaian kerajaan? So kenapa? Bahasa dia
 
-[14:00] Haziq: tak... Ya ke? Jeff dengan
+[14:00] Multiple speakers: tak... Ya ke? Jeff dengan ... rakyat? Is it because ... of bahasa? Oh no, kecil lah kot
 
-[14:03] Speaker 3: rakyat? Is it because
 
-[14:05] Haziq: of bahasa? Oh no, kecil lah kot
 
 [14:11] Speaker 3: Hmm
 
@@ -450,11 +448,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:15:36] Rafizi: lagi. Okay. So kau nak buloh berapa kau nak letak kau kat situ? Buloh seorang sponsor. RM5,000. RM5,000. Bobol lah RM5,000. Jadi RM40,000. RM40,000. Kemudian, sebab tu orang tak suka kerja dengan aku. Selalu aku tarik muka masam. Belanja je kan aku tarik muka masam kan. Kemudian apa lagi belanja yang besar lah kononnya kempen. Belanja program lah kan. Program. Buat Haiti sana lah, makan sini lah. Dewan, sewa Dewan. Dewan, sewa Dewan. Tempoh berkempen 2 minggu. Katakanlah, ni yang jenis rajin betul lah. Tiap-tiap hari ada dalam katakan 5 program begitu. Tiap-tiap hari lah kan. So 2 minggu 5, 5 x 14 berapa? 70. 70 So satu program tu Kan nak letak berapa Seribu. Okeylah masuk tujuh puluh ribu. Tujuh puluh ribu. Lagi? Depositor
 
-[2:16:49] Haziq: Tak
+[2:16:49] Multiple speakers: Tak ... masuk? Okey, ... tak
 
-[2:16:49] Rafizi: masuk? Okey,
 
-[2:16:49] Haziq: tak
 
 [2:16:49] Rafizi: masuk. Tak, ini untuk kempen lah. Okey lah, letaklah deposit parlimen. SPR RM10,000, PBT selalunya RM5,000, RM15,000. Tapi itu sebenarnya deposit dapat balik. Tapi tak apalah, letak je lah. Lagi, apa lagi yang besar? Ceramah lah katakanlah ceramah besar lah Dua minggu tu ada empat ceramah besar Satu ceramah mungkin katakanlah belanja pumpang-pumpang-pumpang semua Katakanlah lima ribu satu Dua puluh ribu? Dua puluh ribu
 
@@ -583,4 +579,3 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 [2:59:55] Haziq: Dah hujah.
 
 [2:59:56] Rafizi: Zahim. Kesian Zahim dengan Syuk kecil hati. Sebagainya sebab cannibalization of content. Sebagainya mungkin sebab Gen Z nampak sangat yang menonton. Ini bukan muda-muda. Okay, selamat malam. Selamat malam. Assalamualaikum warahmatullahi wabarakatuh. kita langsung daripada JB Ya
-

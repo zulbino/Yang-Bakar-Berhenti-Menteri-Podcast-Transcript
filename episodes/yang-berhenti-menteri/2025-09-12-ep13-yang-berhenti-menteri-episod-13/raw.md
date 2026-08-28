@@ -85,11 +85,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [17:59] Rafizi: siapa tak payah buang masa lah mamat ni buang masa aku tak rasa dia ada nilai yang korang layan dia ni kenapa
 
-[18:09] Haziq: baik kita takkan
+[18:09] Multiple speakers: baik kita takkan ... layan lagi ... ok next time YB ok last time
 
-[18:09] Rafizi: layan lagi
 
-[18:11] Haziq: ok next time YB ok last time
 
 [18:16] Rafizi: Tuh dia. Wah ini. Pengetua dan Fadlina tu sepupu. Ini geng-geng sepupu sepapat lah ni. Tak heran lah. Mereka bersebahag dalam kes ini. Pengetua tak ditahan. Baru tahu rupa-rupanya sepupu je. Je dua orang dua tu. Pengetua orang Pulau Pinang. Mak pengetua dan mak si Fadlina tu adik-beradik. Berarti. Dua orang dua sepupu je. Hmm Tak heranlah mereka bersebah Lepas tu kat bawah tu boleh tanya Ya ke sis? Hmm Haa Yalah, beria dia fitnah orang. Saya tak tahu detail dia lah tapi saya tak rasa lah apa nama ni pengetua tu sepupu Fadlina kan. Aku bukanlah tahu selok belok keluarga Fadlina tapi saya tak rasa lah ini perangai yang pakai tembak je. Fadlina dah buat laporan polis kot. Yes, dan dia pun dah tarik balik kenyataan tu. Oh dalam, oh seronok lah tarik balik je. Tapi yang dia confident sangat kata sepupu sepapak ni. Ini macam yang ahli parlimen kepala batas tu juga. Sepupu sepupu.
 
