@@ -237,161 +237,161 @@ So it's not just the government, we needed banks, because the banks bring in inv
 
 **Rafizi:** Slap our own foreheads, honestly. You blocked everything — how many meetings did MOF have, the Johor MB even got worked up about it, I got worked up too. Even after we'd signed, MOF still hadn't given the details on the incentives, how the tax works, how customs works. They kept saying "wait, wait first," because we didn't want it to be like this. Anyway, never mind — once it was all signed, it all became good news. Subhanallah, then MITI came to Cabinet. The planning was rightly done by the Ministry of Economy, but once it moved into implementation, it naturally had to be MITI. And Cabinet agreed. So I watched the clips. That's why I feel that without patience, JSSEZ wouldn't exist today. So now it's become a joke that suddenly AMK is using JSSEZ as political capital for PH. So I just watch them talk about it — I actually like it. One cross-border economic initiative between two countries, moving towards a common market — it's now clearly working well. Because, well, I hope — even if I die after this, whoever becomes Economy Minister or Prime Minister of Malaysia — the most important economic diplomatic drive of the next generation will be moving towards a common market and customs union for Southeast Asia. When that happens, Southeast Asia could become the fourth, or even the third, largest economy in the world — after China, after Europe — sorry, after the US, then Southeast Asia. Right now it's actually the US, China, then Europe, then India, then Southeast Asia — we're number 5. And we're projected to overtake fourth place within 10 years. But if we move towards a common market and customs union, with JSSEZ as the model — because in Europe it's different, you know, they use a single currency. We would never agree to that. Southeast Asia will never agree to a single currency. Because the moment you have a single currency, your budgetary constraints — you'd lose economic sovereignty. Because your inflation has to stay within range, your budget deficit has to stay within range, otherwise you cannot operate a single currency. So we need a model that has never existed anywhere else in the world — where we have an independent sovereign currency, but we operate as a single market and a single customs union. This may take 10, 15, 20 years — it's about the country's future, not about taking credit now. By then I'll be dead, Anwar Ibrahim will be dead, Onn Hafiz might well be gone too, Zafrul too, God willing, will be gone by the time it happens. But that's exactly why we have to make sure it works. Because if it succeeds, both Malaysia and Singapore can convince the whole of Southeast Asia that we've done this. And if it's effective, it becomes the new Shenzhen, and then we can apply the same concept across the whole of Southeast Asia. And when we do that, it effectively becomes a single market, a customs union. Then basically we become the world's third or fourth largest economy.
 
-**Speaker 3:** This question is for you, because I recall someone also floated the idea between Malaysia and Thailand. Was it because of JSSEZ, or did that already exist before?
+**Farhan (Pa'an):** This question is for you, because I recall someone also floated the idea between Malaysia and Thailand. Was it because of JSSEZ, or did that already exist before?
 
 **Rafizi:** No, once JSSEZ happened, it caught the world's attention. That's precisely why investment there hit record highs. Because it's common sense. In the end, people said, "finally Malaysia and Singapore have come to their senses a little" — 60 years, and something that should have happened just never did. So now everyone wants it. The northern states want it too — "we want a special economic zone with Thailand." Thailand wants it too. So it just suddenly became a thing. So we did do a study on it — there really was a study, we really did go through that whole process. But it's not apples to apples. Here's why — Singapore's economic complexity is far ahead of ours, but Singapore has absolutely no resources. The one advantage Singapore has is efficiency. So if we combine Singapore's efficiency with the resources Malaysia has, and we move as one economic unit — basically a partnership — in terms of the value proposition to the world, there really aren't many places in the world that can offer that. But if we hadn't built JSSEZ and had just stuck with the old-style property development framework where Malaysia spends the money, shows off clips, and waits for people to come — it wouldn't have worked. It requires efficiency on our side, it requires us to debottleneck — for example our immigration, our customs, our efficiency. Even if Malaysian bureaucracy can't be as efficient as Singapore's, at least getting to nearly 80% of Singapore's level — that's the reason JSSEZ could happen. You cannot say the same for, say, Rantau Panjang and Golok — none of that ticks the box. Between North Perlis, Bukit Kayu Hitam, and — what's it called — Sadao? Sadao, right. It's not apples to apples at all. So honestly — when people push for it — I actually said, fine, we'll do a study, go through the process, and see the outcome. And the outcome was: never mind, we'll keep it in view. It's been an hour — ha, an hour on JSSEZ. So that we don't need to keep talking about credit.
 
-**Speaker 3:** But maybe we should ask AMK to quote more so that...
+**Farhan (Pa'an):** But maybe we should ask AMK to quote more so that...
 
 **Rafizi:** ...we can explain it. No, but not AMK — to the ghostwriters, whoever the former journalists are who are now ghostwriters for AMK. Fine, go ahead, be as bold as you like. But the boldest one here today is me. Because I kept this bold segment going for a full hour. This is the longest "bold" segment in 51 episodes.
 
-**Speaker 2:** And YB talked about MITI earlier — I don't know, I think ordinary people would definitely feel... only someone not in their right mind would feel that's not annoying.
+**Haziq:** And YB talked about MITI earlier — I don't know, I think ordinary people would definitely feel... only someone not in their right mind would feel that's not annoying.
 
 **Rafizi:** Right, whether they believe it or not. They'll say, "no way, Rafizi's making all this up." Don't ask me — go ask the hundreds of officers who worked on it, including the team from PricewaterhouseCoopers who worked with us. Don't ask me. They'll say, "I just watched the podcast, is that true?" — it's almost like asking them directly. They'll say, "we suffered for months over this, you know."
 
-**Speaker 2:** Okay, speaking of MITI, we have a former MITI Minister.
+**Haziq:** Okay, speaking of MITI, we have a former MITI Minister.
 
-**Speaker 3:** The pandan intern.
+**Farhan (Pa'an):** The pandan intern.
 
-**Speaker 2:** The pandan intern. Even football teams can...
+**Haziq:** The pandan intern. Even football teams can...
 
 **Rafizi:** ...be as fickle as grass in the wind. Question mark. But he answered it, he tried to answer — he said he had an agreement with the AMK Ampang chief to swap jerseys.
 
-**Speaker 3:** But if it were me, I'd look at it...
+**Farhan (Pa'an):** But if it were me, I'd look at it...
 
 **Rafizi:** Is that acceptable...
 
-**Speaker 3:** ...as someone who doesn't even watch football...
+**Farhan (Pa'an):** ...as someone who doesn't even watch football...
 
 **Rafizi:** I don't know.
 
-**Speaker 3:** As a football fan, I don't think that's acceptable.
+**Farhan (Pa'an):** As a football fan, I don't think that's acceptable.
 
 **Rafizi:** It's not acceptable, not acceptable, not acceptable. Even I, who am not — look, I'm not exactly what you'd call a die-hard fan, not really a football person. I've never switched teams — whatever happens, I've always been Liverpool from the start, win or lose. So I don't know, you'd have to ask people — is it normal for people to switch teams like that?
 
-**Speaker 3:** No, it wasn't just swapping jerseys — he swapped jerseys, wore it, watched the final, cheered for that team too. Then afterwards said, "actually, I'm a Liverpool fan." A final-day nation, apparently. A final-day nation. There really are people like that, a final-day nation.
+**Farhan (Pa'an):** No, it wasn't just swapping jerseys — he swapped jerseys, wore it, watched the final, cheered for that team too. Then afterwards said, "actually, I'm a Liverpool fan." A final-day nation, apparently. A final-day nation. There really are people like that, a final-day nation.
 
 **Rafizi:** So... ah, well, never mind. Maybe that's his special quality. Because someone who's normally beyond our comprehension for doing something like this — that's what makes Zafrul special. That's why every time there's a change of government, he's always right there. So, well, it's up to the wider public to see — but especially the young ones — you don't need to be like this, staying loyal is important too. What's funny is, within PKR, someone like me gets cursed at every single day for being "disloyal," but at the same time, a figure like Tengku Zafrul shows that disloyalty is exactly what's being sought within PKR. That's why Zali joked, "after this, if PAS becomes the government, he'll have to join PAS too." Interesting, interesting. Okay YB, no need to even ask — the winner of Bold of the Week is me.
 
-**Speaker 2:** There's one more, YB.
+**Haziq:** There's one more, YB.
 
 **Rafizi:** Oh, there's more? YB or Zafrul? No, no, no — I win, I'm self-claiming it now. Other people are scrambling to claim credit for JSSEZ, I'm claiming credit for boldness.
 
-**Speaker 2:** Never mind, this last one — I'm worried it'll add another hour. "Professor uses PADU data, puts it into Bersama" — every day there's something. YB, and it's not just this. When YB said he's going into the Johor state election, how many more millions is Datuk Zahiduddin's wife supposed to sponsor?
+**Haziq:** Never mind, this last one — I'm worried it'll add another hour. "Professor uses PADU data, puts it into Bersama" — every day there's something. YB, and it's not just this. When YB said he's going into the Johor state election, how many more millions is Datuk Zahiduddin's wife supposed to sponsor?
 
 **Rafizi:** That's the story — the latest one started with RM8.5 million. Then there was the story about the wife of the late Tun Daim, Toh Puan Naimah, giving money for the state election run. Johor and Malacca and Negeri Sembilan too — "oh, it's because he has backers, funders and all." But among all these slanders, the funniest slander is that Rafizi used PADU data to sign up members. Today I think Bersama membership is around RM23,000-something — it's slowed down already, it's dropped a bit, it's slowed to RM23,000. But I mean, God willing, I think after one month, Bersama membership will hit RM30,000 — which is okay, fairly encouraging. But if I were using PADU data, Bersama membership would be RM34,000,000. It's not RM23,000 — that's nonsense. I don't even have access to PADU, and all this comes from the government. And he's really insulting the people who are bravely, painstakingly becoming Bersama members — to the point I've become customer service, getting scolded every day — "I haven't got my registration number yet, I haven't been approved yet." So, I don't know — does anyone actually believe this data-usage claim, or is it just their own bubble?
 
-**Speaker 2:** Bold move. Look at that, bold. Ha, there's no network effect there, because it just doesn't make sense.
+**Haziq:** Bold move. Look at that, bold. Ha, there's no network effect there, because it just doesn't make sense.
 
-**Speaker 3:** Because they share it too. They're like — before, if there were claims or slander, they'd ask, "is this true?" But now, they forward it to me, they ask, "what's wrong with them, claiming this now?"
+**Farhan (Pa'an):** Because they share it too. They're like — before, if there were claims or slander, they'd ask, "is this true?" But now, they forward it to me, they ask, "what's wrong with them, claiming this now?"
 
 **Rafizi:** Right? Besides, we're a new, small party. And people who know me know I've never believed in quantity. I never believe in quantity. That's why people say it's hard to work with me, all that — because I always believe in efficiency. So to be efficient, we actually only need critical mass. Meaning, quantity just needs to reach critical mass. Once you have the right size of the team, what matters is efficiency, quality.
 
-**Speaker 2:** So you utilize everything?
+**Haziq:** So you utilize everything?
 
 **Rafizi:** No, I mean — take political parties as an example. Of course, if all 34 million Malaysians wanted to join, that would be great. But actually, the difference is between two situations. One party claims 1.5 million members, so the quantity looks good, but in terms of actual effectiveness, that party with 1.5 million members might actually have the effectiveness of only about 50,000 people. So, you have so-called quantity at the expense of quality, because everyone who "joined" was just registered by someone else on their behalf — they don't even care. I don't want Bersama to become like that. But if it's too small, with only 10,000 or 5,000 members, it's hard to get things done. So the right size for a political party, for me, say by the end of this year or heading into the next general election, is 100,000 members. But those 100,000 members are working every single day — even if they're not out in the field as ground machinery, they're explaining Bersama to people every single day, like what's happening now. Right now, that 100,000 has reached critical mass and has a higher efficiency level than a party with 1.5 million or 3 million members. So we want quality members. Some people have appealed to me, saying, "I'm ex-PKR." Okay, they say they have lots of people, 3,000-4,000 people who could follow them — but back in the PKR days it was easy, because there was no fee, no membership fee — RM20. "So I could just collect everyone's IC, sign them up." Bersama can't be like that — that RM20, I don't want that, okay. Why do we want that RM20? Aside from needing to show that we can run a party with dignity on a small budget, funded by member and public contributions — that's an important model. Secondly, we also want to make sure that kind of thing doesn't happen, so that whoever joins genuinely wants to join, is willing to pay the RM20. So... even if I had access to PADU data, or we could just register people like that — that would be a stupid thing to do. So sure, they're being bold doing that, but it still can't beat me, who won Bold of the Week earlier. Alright, we need to move on, we're already over an hour on "Bold."
 
-**Speaker 2:** Congratulations YB, breaking the record — not only crowning yourself, but also the longest segment. Ha, that's it. Okay, let's look at "Hardcore Life" — there are only two.
+**Haziq:** Congratulations YB, breaking the record — not only crowning yourself, but also the longest segment. Ha, that's it. Okay, let's look at "Hardcore Life" — there are only two.
 
 **Rafizi:** Ah, yes. Because I think people are waiting. And today we also can't go too long, because tomorrow morning I have to — I have the PSC in Pandan, then I need to head to Johor tomorrow night. Mobile counter — morning and night, straight to JB. And then in JB, meaning with a group of people, we've got a lot of ground machinery to organize from the start. Alright, let's go straight...
 
-**Speaker 2:** ...to "Hardcore Life." We have "So It Begins," where both state assemblies have been dissolved.
+**Haziq:** ...to "Hardcore Life." We have "So It Begins," where both state assemblies have been dissolved.
 
 **Rafizi:** Why is that one in the middle, what's his name, King Théoden? Théoden. Why is King Théoden there?
 
-**Speaker 3:** It's usually when...
+**Farhan (Pa'an):** It's usually when...
 
 **Rafizi:** Why didn't you put Anwar Ibrahim's face there as King Théoden?
 
-**Speaker 3:** Because I tried using ChatGPT earlier but it didn't work. It's Tok Min and the Johor Menteri Besar, Onn Hafiz. Okay.
+**Farhan (Pa'an):** Because I tried using ChatGPT earlier but it didn't work. It's Tok Min and the Johor Menteri Besar, Onn Hafiz. Okay.
 
 **Rafizi:** So you couldn't, you couldn't transpose the faces of the top leaders, either BN or PH, onto King Théoden? Couldn't do it. Okay, well, good imitation.
 
-**Speaker 2:** YB, I — we're not trying to start with the election or anything, but more about what matters to the voters in Johor and Negeri Sembilan. So before we try to understand the sentiment or whatever, maybe we should first understand the situation in each state. If we could go through it, maybe I think we should start with Johor — how is the population distribution, the economic situation, the unique challenges for the state of Johor. There might also be threats people haven't even thought of, but which actually exist if we don't act now.
+**Haziq:** YB, I — we're not trying to start with the election or anything, but more about what matters to the voters in Johor and Negeri Sembilan. So before we try to understand the sentiment or whatever, maybe we should first understand the situation in each state. If we could go through it, maybe I think we should start with Johor — how is the population distribution, the economic situation, the unique challenges for the state of Johor. There might also be threats people haven't even thought of, but which actually exist if we don't act now.
 
 **Rafizi:** Yes, I think, over the next 3-4 weeks, we'll have a lot of political forecasters and also political experts among the netizens. Not just netizens — lecturers, all sorts of experts turning into political pundits too. So maybe what we should discuss and share with viewers is — don't just fire off random guesses, because there are very complicated factors at play. You know, there are many factors at work. So before I go into all this — hmm, I think this state election is the one people most love to predict. Okay. And it's actually a new baseline that will give a picture of vote alignment. People always talk about political realignment, right? That's parties being full of themselves — they think that by joining this coalition or that one, they're the ones determining how people vote. It's actually the reverse now. The complicated part is that voters are aligning themselves — that alignment is happening on the voters' own terms. So we've never had a baseline for this. So the predictions from netizens or experts are all historical — they're not predictive. They're using past results. And those past results aren't really apples to apples. And as I always say, there's a big difference between correlation and causation. Correlation lets you look at past events, and maybe say if A happens, B will happen — but that's not necessarily causation, where the actual voting alignment by the people will occur. So we need to try to understand what factors actually influence people's decisions and daily lives that are used to judge parties — that's what might give us a bit of insight into causation, why a voting decision is made. So if we take Johor first — this is a factor people sometimes forget — Johor, even though people call it the birthplace of UMNO and a UMNO stronghold, demographically by state, the Bumiputera, Malay, Muslim population is only 57%. 43% are non-Bumiputera, basically Chinese and Indian. Right, which is very high. Actually, if I'm not mistaken — let's check — Selangor even has a higher proportion of Malays, Malay population, compared to non-Malays. Let's look. Johor is the second highest after Penang. What about Selangor?
 
-**Speaker 3:** Selangor is about 56% Malay.
+**Farhan (Pa'an):** Selangor is about 56% Malay.
 
-**Speaker 2:** So that means Chinese, Indian is 35%.
+**Haziq:** So that means Chinese, Indian is 35%.
 
 **Rafizi:** What is it — Chinese and Indian in Selangor, only 35%?
 
-**Speaker 3:** Selangor?
+**Farhan (Pa'an):** Selangor?
 
 **Rafizi:** Yes. So how does that work? That doesn't compute — that's only 90.
 
-**Speaker 2:** Based on the composition, non-citizens... aren't there non-citizens?
+**Haziq:** Based on the composition, non-citizens... aren't there non-citizens?
 
 **Rafizi:** Non-citizens, 8%. Okay. Anyway, my point is, people always think the Klang Valley is the most mixed, the most pluralistic place, right? Actually, Johor is comparable to Selangor — in terms of only 57% Bumiputera versus non-Malay. That's why, in terms of seat distribution, there are between 20 to 25 seats where non-Malay voters are either the majority, or they're a large minority of up to 30%, 25% to 30%. So that's almost half of the seats in Johor, you know. Negeri Sembilan isn't quite at that level, but still quite significant — I think Negeri Sembilan is about 63% Bumiputera Malay Muslim, 37% non-Malay. Right. Except in Negeri Sembilan, in terms of the distribution of non-Malay voters, it's more concentrated — so only about one-third, meaning out of 36 seats, there are about 12 seats where non-Malay voters are the majority, and then another 3 or 4 seats where they're a significant minority that will decide the winner. So, it's very much terrain that PH should win — theoretically. Okay, before we go there, let's discuss who's winning on another front — so understanding the demographics and challenges next is for us to try to understand, actually, if we were a Johor voter — if we're Malay, if we're Chinese, if we're Indian, if we're in Negeri Sembilan — what actually influences our vote? What do you think?
 
-**Speaker 2:** Most obviously, international...
+**Haziq:** Most obviously, international...
 
 **Rafizi:** Really? Malays, meaning what's their major consideration, what's the Chinese major consideration, what's the Indian major consideration? Because if you look at senior state political analysts — I'm not one of them, that's why they don't like me, because I never entertain them. And part of the reason I never entertain them is because I feel you're not adding any new knowledge. Because they'll tell you what we always hear — that for state elections, at the DUN level, local factors matter a lot. We'll hear, "oh, actually for the state assemblyman, people look at the candidate, not the party." Is that true?
 
-**Speaker 2:** As a person...
+**Haziq:** As a person...
 
 **Rafizi:** That is basically the basis, for instance, for why UMNO-BN is so confident of winning big in Negeri Sembilan and also in Johor. Because supposedly Onn Hafiz's performance as Menteri Besar is very good and he's very popular. PH, meanwhile, thinks that in Negeri Sembilan, Dato' Seri Aminuddin Harun's performance is very popular, and the state's performance is genuinely good too — actually both are correct. Dato' Seri Onn Hafiz is indeed popular with voters, true. Johor's economic management performance as a state, compared to other states, is indeed good. Actually the same can be said about Dato' Seri Aminuddin — Tok Min is indeed popular with Negeri Sembilan voters, Malay, Chinese, Indian. The state's economic performance, financial management, under Tok Min is indeed better compared to other states, and there's been good improvement over his 8 years as Menteri Besar. Now then the question is, does that become the main factor? It could be. No — that's not answering the question, that's guessing at an answer. What is your opinion? You must have an opinion. And you must have an opinion — this is for the netizens who want to become political analysts and forecasters. You have an opinion because you have a basis for that opinion. And that basis of opinion must be grounded in some facts, some assessments, and so on. That's what's called an argument or a hypothesis — not a blind prediction. So what's your... opinion about how voters in Johor and Negeri Sembilan will vote?
 
-**Speaker 2:** Uh... there are many factors, and everyone, at least I don't have any survey...
+**Haziq:** Uh... there are many factors, and everyone, at least I don't have any survey...
 
 **Rafizi:** ...it's not just a survey — a survey is quantitative data, but this is called a hypothesis. A hypothesis, right? A hypothesis also depends on observation, qualitative observation.
 
-**Speaker 2:** So based on observation, everyone has different priorities, different ways of evaluating things. Some are partly right, some say, "oh, this assemblyman is good," that might be right, some look at national issues. So I think the most important thing is to classify what issue is most prominent, or what priority is most prominent that people consider when voting there.
+**Haziq:** So based on observation, everyone has different priorities, different ways of evaluating things. Some are partly right, some say, "oh, this assemblyman is good," that might be right, some look at national issues. So I think the most important thing is to classify what issue is most prominent, or what priority is most prominent that people consider when voting there.
 
 **Rafizi:** Safe answer. Pa'an?
 
-**Speaker 3:** My assumption based on the — my hypothesis based on the observation I've made so far, is that Johor people will vote Barisan Nasional back in.
+**Farhan (Pa'an):** My assumption based on the — my hypothesis based on the observation I've made so far, is that Johor people will vote Barisan Nasional back in.
 
 **Rafizi:** And people — why is that? What is the basis for you to say that?
 
-**Speaker 3:** Because I feel that, um, Barisan Nasional's performance in Johor is quite okay. Johor's economic trajectory...
+**Farhan (Pa'an):** Because I feel that, um, Barisan Nasional's performance in Johor is quite okay. Johor's economic trajectory...
 
 **Rafizi:** When you say performance, you mean?
 
-**Speaker 3:** In terms of governance. Okay, there's no real issue that haunts Barisan Nasional Johor. And also, I suppose you could say Menteri Besar Onn Hafiz has been doing a good job. So general satisfaction among Johor people with the current state government. It's just, I think it will push more towards UMNO's, UMNO-BN's advantage, and PH will lose out a bit more, because people see UMNO as the central governance, not... although there is.
+**Farhan (Pa'an):** In terms of governance. Okay, there's no real issue that haunts Barisan Nasional Johor. And also, I suppose you could say Menteri Besar Onn Hafiz has been doing a good job. So general satisfaction among Johor people with the current state government. It's just, I think it will push more towards UMNO's, UMNO-BN's advantage, and PH will lose out a bit more, because people see UMNO as the central governance, not... although there is.
 
 **Rafizi:** That doesn't quite answer the question, or — with me, people get tired of this, never mind, you have to be methodical. That answer already leapt ahead to predicting the outcome directly. What I've been asking you all is, do we actually know what will be the consideration when people go out to vote? No — you don't have a hypothesis at all. Well, you do — you have your hypothesis. That's why you gave that answer earlier, that people will lean towards BN because there's no scandal, or governance looks okay, performance looks okay, all that, at the state level. Meaning state issues and state leadership performance are the more dominant main factor, for example, over national issues. That's actually your hypothesis. That's why you said people will — but essentially, is that a hypothesis? I don't have data, I haven't done...
 
-**Speaker 3:** Observation meaning chatting with friends from Johor.
+**Farhan (Pa'an):** Observation meaning chatting with friends from Johor.
 
 **Rafizi:** Anecdotal.
 
-**Speaker 3:** From Negeri Sembilan.
+**Farhan (Pa'an):** From Negeri Sembilan.
 
-**Speaker 2:** Observation. Just one more thing, YB — not to change the topic — is voting hard, YB?
+**Haziq:** Observation. Just one more thing, YB — not to change the topic — is voting hard, YB?
 
 **Rafizi:** What's hard about it, you just mark the ballot.
 
-**Speaker 2:** Leave the house, start the engine. So, I mean, okay — just looking at good government performance, okay, sure it's good, okay — so is there a factor that really makes people go out, excited? GE18? Sorry, GE14.
+**Haziq:** Leave the house, start the engine. So, I mean, okay — just looking at good government performance, okay, sure it's good, okay — so is there a factor that really makes people go out, excited? GE18? Sorry, GE14.
 
 **Rafizi:** Ha, GE14. Time traveller.
 
-**Speaker 2:** Time traveller. Okay — is there, what, if an ordinary person like me put it — is there a reason that makes people go out to vote, not scientific reasons like "is it good, are the numbers good" — you know why you want to go out, you want to defeat BN for the first time, all that excitement. If you're just looking at the good performance of the state government, "he's okay, he's good, he does his job" — so, am I really going to start my engine and go out just for that...
+**Haziq:** Time traveller. Okay — is there, what, if an ordinary person like me put it — is there a reason that makes people go out to vote, not scientific reasons like "is it good, are the numbers good" — you know why you want to go out, you want to defeat BN for the first time, all that excitement. If you're just looking at the good performance of the state government, "he's okay, he's good, he does his job" — so, am I really going to start my engine and go out just for that...
 
 **Rafizi:** It's — if you ask me, at this stage, honestly I can't fully read all the hypotheses out there either. Like earlier, the hypothesis that says for the state, people look at state government performance, so the poster boy is the Menteri Besar and so on. Or, the other side of the coin of that hypothesis is that when voters vote at the state level, they only look at state and local issues, unaffected by national issues at all. That's, I think, a hypothesis that even in the past 2-3 elections has been mixed. Very difficult to prove. If we look at the correlation from 2018, then the 2022 state election, then the 2022 general election — actually the highest correlation is turnout rate. Meaning, that's actually proven — if the number of non-Malay voters who come out is high, then BN loses. If the number of non-Malay voters drops by a certain rate, BN wins big. Can be said about Johor, can be said about Negeri Sembilan. And based on that, actually, the hypotheses we mentioned — local issues, poster boy, all that — you see that they actually have no correlation with the results. Take Negeri Sembilan 2018 as an example — Tok Mat was very popular.
 
-**Speaker 3:** Ha.
+**Farhan (Pa'an):** Ha.
 
 **Rafizi:** Tok Mat was popular then as Menteri Besar, he didn't really have any issues either — but he lost. Because the people who came out to vote — like Haziq said, GE14 made everyone come out, so the non-Malay voter turnout rate especially was high. If you look at Johor, it's the same — 2022, UMNO won big, getting the 40 seats they have now — it's not because UMNO was so strongly supported, or people were so angry, or Malays had "returned" to UMNO. There isn't really any correlation with the data on that — but what can be proven is that non-Malay voters didn't come out. But by the 2022 general election, more non-Malay voters came out, and the result flipped.
 
-**Speaker 2:** Flipped in Johor, right? Within a span of 6 months?
+**Haziq:** Flipped in Johor, right? Within a span of 6 months?
 
 **Rafizi:** So you are right, you know, you are right. Actually, then you can ask the next question — actually, if we know the only correlation is whether non-Malay voters come out in large numbers or not, what actually influences whether they come out or not? So that's actually what's really hard for us to say right now. So then you go into the next layer of questions. Back when I worked, people really got fed up with me, because I would keep asking until there was nothing left to ask — because that's how you diagnose something. It's the same as going to see a doctor — if you have a fever, you go to the doctor and say, "I have a fever." The doctor will say, "does the fever come with a sore throat or not? Runny nose or not?" "Yes." "Do you go to the toilet often or not?" "No." So, you ask, ask, ask, ask, then you can narrow it down. Actually, it's the same discipline in politics too. Okay, now we know that actually the most important factor is turnout rate. Turnout rate — even before we discuss who they support, because if the turnout rate is low, the correlation is very clear from 2018 onward — if non-Malay voters don't come out to vote, UMNO will definitely win. And UMNO winning isn't because UMNO is strong, but maybe because of a hygienic factor — why don't progressive voters come out to vote? Then you ask the question, actually, will they come out or not, and what are the factors behind that? Okay, this is what we'll see later, what will become the new baseline for the new voter alignment, in any election. Actually, economic issues are always the number one issue. Hmm. How does that build the economic perspective that influences their decision — first, whether they'll come out at all; second, who they'll vote for — those are actually different, quite different. But the economic issue, the cost-of-living issue, is really, really number one. And in Johor's case, it's very unique, because it's even more unique than Negeri Sembilan — because for example, even though UMNO can say that under UMNO administration, Johor's economic development is good, excellent, all that — has the trickle-down effect actually reached the ground yet? Has the trigger effect, meaning people can actually see it — for example, all this talk about JSSEZ, the Federal Government meaning PH, UMNO meaning BN, both hyping it up — has it actually started being felt or not? How many people have actually gotten a substantial pay rise from this — that's important, because if not, it doesn't change the economic perspective of voters on the ground. Secondly, and this isn't good — there are unintended consequences. So take Johor as an example, the unintended consequences are already starting to show — for example, data centers.
 
-**Speaker 2:** The data centers people are complaining about.
+**Haziq:** The data centers people are complaining about.
 
 **Rafizi:** The ones people are complaining about, because data centers are everywhere. And in a situation where Johor is short of resources, especially water, people are starting to see that there is another side of the coin to JSSEZ and to economic growth. All these investments — "well, we haven't gotten anything out of it yet" — but at the same time, it's starting to have other effects. Water resources, all that, is one issue. Prices are going up, because growth comes with inflation — right, stronger growth means stronger buying power, stronger buying power causes prices to rise. Except Johor is unique — if that stronger buying power comes from outsiders coming into Johor — whether Singaporeans, people from the Klang Valley, or people from China, foreigners coming to work — that causes rents to go up, that causes house prices to shoot up. So all these things, at the moment, I don't think anyone has measured and can conclusively say is white or black. But the economic narrative issue that actually becomes the deciding factor or the main factor influencing voters, is actually a double-edged sword for everyone. Same as at the federal level — yes, the government's answer is, "oh, best currency," the government's answer is, "oh, best investment," right? We know, sure, the macroeconomic numbers are good, but why hasn't it translated into solid support for Dato' Seri Anwar — it's because the trickle-down effect still hasn't been felt, and especially because there are several unintended consequences that still haven't been resolved well. Because for every economic decision the government makes, there's actually a trade-off. So for example, the government wants to maintain — a good example — the RON95 price, right — keeping RON95 looks good, all that — the trade-off is they have to cut all other spending. So when other spending gets cut, that's the hospital story, the school story — so maybe PTA contributions suddenly go up, or small projects can't happen. So, everything needs to be controlled, cut everywhere. Whichever side claims to be the better economic champion and has managed the economy well under current conditions, it's a double-edged sword that we're not sure about. Which brings us to the next question — so actually, if non-Malay voters are so important to swing either way, what economic issue is actually most important to them, do you think?
 
-**Speaker 2:** As mentioned before, it affects their business — invoicing tax.
+**Haziq:** As mentioned before, it affects their business — invoicing tax.
 
 **Rafizi:** My guess, and we'll see this later when we campaign — when we campaign, the results will show. I agree with what Haziq said — actually, Chinese voters don't care at all about the JSSEZ story, or the greatness of Dato' Seri Onn Hafiz — they don't care at all. Actually, for them, what will become a major factor is what they face every single day economically, because they're mostly business people. So, SST, e-invoicing, all that — permits, licenses, inflation, diesel prices — all of that, I think, among the Chinese especially, will matter more than the greatness of either the Pakatan Harapan Federal Government or the BN Johor state government. Because of that, it's actually quite hard for us to read. That's why this is among the hardest elections for me to read, honestly. Alright. And then, Negeri Sembilan's factors are even more interesting. Ha, ha, eh — because yes, Tok Min is actually popular, he's like a mirror image of Dato' Seri Onn Hafiz in Negeri Sembilan — he's good, people like him, he has no issues at all. Except he has a factor involving something trickier than in Johor — he has the palace and adat (custom) factor. And adat is the main factor in Negeri Sembilan.
 
-**Speaker 2:** But that's something Negeri Sembilan people really do care about.
+**Haziq:** But that's something Negeri Sembilan people really do care about.
 
 **Rafizi:** Okay, we'll get to that — meaning the most dominant issue I think will be played up and will become the battleground in Negeri Sembilan. UMNO will say Tok Min is derhaka (disloyal/treasonous to the ruler). It's not that simple, because the view of Malay voters will differ from person to person — who's disloyal, who they like. Because it's connected — people know that, even though it may not be said explicitly in campaign speeches, voters are well aware that to change the Yang Dipertuan Besar, you need the Menteri Besar's signature. So whoever wins later determines which Yang Dipertuan Besar it will be. So it's even more complicated, because Negeri Sembilan seems to not just be about choosing a Menteri Besar, but even choosing the Yang Dipertuan Besar — because right now there's a rivalry between two groups for the Negeri Sembilan throne. So that's very complicated, and because we've never had an election that involves who ultimately affects the palace throne — it's never happened before — so it's not that easy. Of course, at the PH level, they'll be confident that UMNO will be punished, because UMNO is seen as involved in this crisis — so PH assumes UMNO will be punished for being involved. UMNO assumes they will win, and that the people will punish PH and Tok Min for being seen as disloyal, disloyal to the ruler. Although I think that issue will be a big consideration for Malay voters, Chinese and Indian voters still face the same issue as in Johor — their economic issues, day-to-day, since most of them are business people, and they have to deal with that. Except maybe in terms of price pressure, inflation and so on, Negeri Sembilan isn't as exposed to outside influence as Johor is — because Johor, simply due to proximity to Singapore, means goods prices, supply and demand, are very exposed to visitors or tourists entering Johor. So based on all that, this becomes a very complicated election — if I were an election director, or building a messaging strategy, it's genuinely very complicated. So it's good I'm not in either camp — I'm not in BN, I'm not in PH. So we'll watch together, and later, if you will, it might turn into the Battle of Helm's Deep for those who've watched Lord of the Rings. At first — hmm — Théoden loses, he gets attacked, so they move all the people to Helm's Deep, a fortress for Rohan that had never fallen throughout its history. But this enemy, Sauron's gang, the Uruk-hai, manages to break through. So they have to abandon it, and eventually make their stand at Gondor. So Gondor should have lost too, nothing left, King Théoden even dies in the end. But because of something completely unthought-of, the evil side ends up losing. And that unthought-of thing is because there's an army of the dead. Ha — I remember in Lord of the Rings, that letter — finally, actually, you know, what's it called, held at — what do you call it — the Plains...
 
-**Speaker 3:** Plains of Paranormal...
+**Farhan (Pa'an):** Plains of Paranormal...
 
 **Rafizi:** Plains of Pelennor, right? Yes, it's outside Minas Tirith — Plains of Pelennor. So basically, the army of the dead, people from the highlands of old, had an oath with the ancestors of, with Isildur. So they were forced — if they didn't fulfil the oath, they would be forever trapped as ghosts. In the end, to have peace, they had to fulfil it, because they had once made a promise. That thing was not in anyone's calculations at all — not on the Orc side, not on Théoden's side either. So if you title this "so it begins," for all you know, who knows, it might end up turning out just like that.
 
@@ -403,11 +403,11 @@ Negeri Sembilan is even hazier, because I'm still waiting for data from Negeri S
 
 So because of that, I genuinely don't know anything about Negeri Sembilan. So we are still waiting — I mean, we need to make sure we get some baseline data within a week. But I think it's more complicated because Malay voters in Negeri Sembilan have a unique issue, which is that whoever wins will influence the decision on the throne. And this is something that has never been a consideration in previous elections — people would come in, look at UMNO, BN, PN, PH; suddenly this is more complicated. So for the issue involving non-Malay voters, it's the same — whether in Negeri Sembilan or in Johor, it's the same. It's a question of whether you can energize them to come out, then whether you can convince them to vote for you.
 
-**Speaker 2:** YB, since YB has already split it into Malay and Chinese voters...
+**Haziq:** YB, since YB has already split it into Malay and Chinese voters...
 
 **Rafizi:** Should I go straight into the second one?
 
-**Speaker 2:** Sure — ah, about the economy. Oh, about the economy. Right, about the economy. Well, YB already talked about the Chinese earlier — their consideration leans more towards bread and butter, tax and so on. For the Malays, YB, what actually is the economic consideration? Because our bread and butter, we're consumers, we buy things. And actually when we buy things, we never feel prices go down — they only go up. So far, in the previous general election, like YB said, we energized them by — what do you call it — we had a target, this is why their economy is like this. But for their own experience, in the current situation where we can no longer blame anyone else, what will actually be the economic consideration for Malay voters? First, for the Chinese — what if a week before voting, Dato' Seri Anwar announces: "We will abolish e-invoicing, refund all taxes, and reduce SST to 2%"? Would that also affect the Chinese vote?
+**Haziq:** Sure — ah, about the economy. Oh, about the economy. Right, about the economy. Well, YB already talked about the Chinese earlier — their consideration leans more towards bread and butter, tax and so on. For the Malays, YB, what actually is the economic consideration? Because our bread and butter, we're consumers, we buy things. And actually when we buy things, we never feel prices go down — they only go up. So far, in the previous general election, like YB said, we energized them by — what do you call it — we had a target, this is why their economy is like this. But for their own experience, in the current situation where we can no longer blame anyone else, what will actually be the economic consideration for Malay voters? First, for the Chinese — what if a week before voting, Dato' Seri Anwar announces: "We will abolish e-invoicing, refund all taxes, and reduce SST to 2%"? Would that also affect the Chinese vote?
 
 **Rafizi:** Hmm. Well, you're asking me as if I'm some kind of prophet — only a prophecy could answer questions like this, because these are all things we genuinely cannot predict. But as for how the Malay economy works — it's actually more complex than that. Because surveys, whether from Merdeka Center or whoever, everyone says the usual thing, which is that people vote because of the cost of living being like this and that. I've been doing this for a long time, 10 years, looking at the data, crunching it, analysing it. Until now we still can't model the composite nature of economic decisions, especially among Malays.
 
@@ -417,11 +417,11 @@ But for you to conclusively say the Malay economic consideration is one, two, th
 
 Now — even if you reverse all that, it might have an effect on one segment of voters. But it's also a composite question. For example, about competence, about integrity — do you deliver what you say? Before you said this, now you say that; when we're about to get angry, you reverse it; later if we give you our vote, you'll flip it back. So all of that is very complex. That's why predicting elections is never easy — in any election — and in this election it's far more complex than in previous ones. If we look at the 14th General Election, that pattern only appeared in the final week of campaigning. All the data up until the last week actually showed that the Malay vote for PN wasn't that different. All the data, I mean, was almost a plateau — only in that last week did it suddenly spike. So I think the same thing will happen in this state election, meaning we won't be able to read it until the last 4-5 days, only then will we be able to see that swing. Because in the end, each party's hardcore base doesn't change. What determines the election outcome are the fence-sitters. And that's very difficult to read right now. We have about 25-24 minutes left. But it's good that we've actually discussed this.
 
-**Speaker 2:** We've discussed it. This is the focus — we'll look together at the participation, but before that, the latest development — when the Johor State Assembly was dissolved and then the Negeri Sembilan State Assembly was dissolved, this is a huge blow to Dato' Seri Anwar. Because for the 1,426th time, he's been hurt again after believing he could go in together with UMNO in the Johor state election, but he was "ghosted" by his own protégé. So, no Madani for you. No forgiveness—
+**Haziq:** We've discussed it. This is the focus — we'll look together at the participation, but before that, the latest development — when the Johor State Assembly was dissolved and then the Negeri Sembilan State Assembly was dissolved, this is a huge blow to Dato' Seri Anwar. Because for the 1,426th time, he's been hurt again after believing he could go in together with UMNO in the Johor state election, but he was "ghosted" by his own protégé. So, no Madani for you. No forgiveness—
 
 **Rafizi:** —for you.
 
-**Speaker 2:** So, I want to look at what each side's considerations actually were — how that decision was made in the Johor state election, and for Negeri Sembilan, was it just a knee-jerk reaction, or how? For both of these.
+**Haziq:** So, I want to look at what each side's considerations actually were — how that decision was made in the Johor state election, and for Negeri Sembilan, was it just a knee-jerk reaction, or how? For both of these.
 
 **Rafizi:** Yes, this is my view — I wasn't there. It's not the same as when I talk about Zafrul, JSSCZ, BT and so on — I was actually there for that. This is speculation. If we were UMNO in Johor, this really is the most precise decision to make strategically and politically, which is to dissolve immediately, because every opposing party has its own problems.
 
@@ -435,17 +435,17 @@ Negeri Sembilan is different. Negeri Sembilan, I think, is DAP pressure. Because
 
 However, note that when this crisis began, that wasn't PH's decision. But once UMNO in Johor made the "no Madani for you" declaration — well, that stung too — and at PH's convention that day, some people got too fired up and said, "if Johor does it today, we'll dissolve Negeri Sembilan—"
 
-**Speaker 3:** —tomorrow.
+**Farhan (Pa'an):** —tomorrow.
 
 **Rafizi:** So, that's actually not good, because people who can read between the lines will conclude that this is what DAP wanted. And we understand — my experience with DAP is that they feel that, if possible, elections should all be held simultaneously, because their strength depends on turnout numbers. If elections are held one at a time, Chinese voters won't come out repeatedly — they'll only come out once. And that's also a matter of resources.
 
 The Negeri Sembilan government is under PH, the Johor government is under BN. The incumbent has the advantage of still being the caretaker government going into the election. If it were only Johor, that would mean UMNO's entire strength would be concentrated in Johor, with PH campaigning as the state opposition — but if simultaneous, UMNO and BN would instead be campaigning against a PH state government. So I think all those are factors that led to that decision.
 
-**Speaker 2:** And maybe, let me go straight on — about Bersama's participation, since we have a few more minutes.
+**Haziq:** And maybe, let me go straight on — about Bersama's participation, since we have a few more minutes.
 
 **Rafizi:** We have about 17 minutes left.
 
-**Speaker 2:** It's said every day that it will split the progressive bloc's votes. And once you hear it, it does sound very logical, YB. Because the victory in GE14, for example, was because of three-cornered fights. So using the same logic, once the progressive vote splits too, the same thing will happen — giving an advantage to PN or the opposing side. What's your comment on that?
+**Haziq:** It's said every day that it will split the progressive bloc's votes. And once you hear it, it does sound very logical, YB. Because the victory in GE14, for example, was because of three-cornered fights. So using the same logic, once the progressive vote splits too, the same thing will happen — giving an advantage to PN or the opposing side. What's your comment on that?
 
 **Rafizi:** Yes, that's why I say every reading and decision we want to make — especially for political forecasters, political analysts, other netizens — requires deeper analysis. You can't just look at it as "it was like that before, so this time it'll be like this."
 
@@ -457,7 +457,7 @@ But I think the realistic timeline is that — the more realistic timeline is th
 
 Every party that enters has its own purpose, we understand that. If BN contests, it's because they want to win and BN wants to return to power. If PH contests, they too want to be the government. And I think PH's attacks are aimed more strongly at Bersama than at BN or PAS — which is wrong, and a mistake.
 
-**Speaker 2:** Oh, is that so?
+**Haziq:** Oh, is that so?
 
 **Rafizi:** Yes, because the challenge to PH isn't actually Bersama. Bersama, that's why we're entering this election with a long-term perspective in mind. Our mission is totally different from other parties. We know we won't become the government; we're taking a long horizon — 5 to 10 years — to have a major impact on national politics. Other parties enter because they feel they'll have a major impact on this election. But Bersama's participation in the Johor and Negeri Sembilan state elections will give Bersama the space and opportunity not just to win, but to validate the support hypothesis — it's not about wanting to win, we want to understand society.
 
@@ -465,7 +465,7 @@ Bersama exists because, based on the current hypothesis, there's a need for futu
 
 But an encouraging response won't necessarily translate 100% immediately into election results, because with the time available, we need to build machinery, campaigns, an election system, and leadership for the next tier, before the campaign officially begins — to get all of this ready while other parties have taken decades to do so. I mean, let's be realistic about it. But this is a good opportunity for a baseline. Second, for us to build and train, because if Bersama says we want to pioneer more futuristic, more efficient politics — because efficient politics, its organisation, its campaigning, its methods, is a must if we want to get rid of corruption. One reason corruption is rampant in politics is because the political organisations of existing parties are very inefficient. Want to put up a flag, have to pay someone; want to plant a signboard, have to pay someone; campaign feasts, all paid for; fuel money, paid for. That's why people say, if you want to contest one seat, one parliamentary seat needs at least 4-5 million.
 
-**Speaker 2:** Hmm.
+**Haziq:** Hmm.
 
 **Rafizi:** We want to prove we can campaign, for example, in one parliamentary seat, with just 50 thousand — that's actually enough. And when only 50 thousand is needed, meaning within 40 thousand, just over 30 thousand, if that's the money needed to run a campaign — that means we really don't need to take money from tycoons, corruption, all of that, because we can rely on crowdfunding and so on. And to me, that change in political culture is something we want to bring to society. Because people will see, "oh, actually with Bersama, the campaign is fine, it's not lacking at all, it's fine" — because their campaign is cheap, all receipts are shown, everything spent is shown, everything is disclosed, and we're the ones who gave the money. Then it becomes incumbent upon other parties in the future — people will ask, "if Bersama can do it, why can't you?" So we actually want to change the culture. And even though three weeks is a short period, this is something we're bringing to the table, so that Malaysian voters, especially the young ones — because we can't just keep hating this and that, "I hate politicians, corruption, all this," and then not change, we're just doing the same thing over and over again. Over time, the young will lose confidence in the political process and democracy. Totally different objective. And that's why we need to get in now.
 
@@ -475,13 +475,13 @@ It's just that, because of that, we can't get angry at DAP. If we were in DAP's 
 
 So will Bersama split the non-Malay vote and cause PH to lose easily to UMNO? Meaning, PH's campaign later will be: "vote Bersama, get UMNO," or "vote Bersama, get PAS" — they'll just say it like that.
 
-**Speaker 2:** So did YB give them the idea?
+**Haziq:** So did YB give them the idea?
 
 **Rafizi:** Yes, I'm indeed careful with my ideas — my ideas usually have another strategy behind them. So they'll campaign like that, right, but is it true, will Bersama entering become a spoiler causing a split in the non-Malay vote to the point of handing UMNO or PAS a free win?
 
-**Speaker 2:** Not necessarily, if the Malay fence-sitters also support us.
+**Haziq:** Not necessarily, if the Malay fence-sitters also support us.
 
-**Speaker 3:** Because you shared before that many Malays are joining.
+**Farhan (Pa'an):** Because you shared before that many Malays are joining.
 
 **Rafizi:** Yes. My reading so far — and I hope non-Malay viewers... many are watching, but I can't speak Mandarin. So many non-Malay friends, Chinese, Indian, are now requesting that all our content have Mandarin and Tamil subtitles. Can that be done? Ha, right? Next week — that's great, right, starting next week our podcast will begin having Mandarin and Tamil subtitles. You have one week to figure it out.
 
@@ -495,13 +495,13 @@ It's just that my guess is, this time the realignment of the Malay vote will be 
 
 But say, suppose Bersama enters the Johor state election and Bersama enters the Negeri Sembilan state election — if Bersama gets 10% of the Malay vote, it definitely won't win, we might just barely lose our deposit since you need to pass 12.5% to keep the deposit. So say Bersama gets 10% of the Malay vote — Chinese, Indian we don't know yet, it's even harder to read the Chinese and Indian vote, because we have to face relentless attacks about this vote split: "voting Bersama means handing victory to UMNO and also PAS." I won't underestimate that attack, what effect it will have on Chinese and Indian voters. So it's not easy. But imagine — if Bersama gets 10%, that puts Bersama within the range of the Malay vote for PH.
 
-**Speaker 2:** Hey, that's true.
+**Haziq:** Hey, that's true.
 
 **Rafizi:** Yes, because PH's Malay vote in the last state elections was usually only between 15 to 18%. Bersama is only three weeks old. And where it comes from — if you look at membership, it comes from everywhere: from Malay fence-sitters who've voted for anyone before, it comes from UMNO too, it comes from PAS too, from PN, from Bersatu too. It comes from everywhere. So the Malay vote is now being realigned.
 
 Especially the one we absolutely cannot read is the millennial and Gen Z vote. Because the millennial and Gen Z vote has been very much swinging in the profiling we've done over the past six months. Malay Gen Z voters show a 70% openness to considering a new party. They vote — and we have a situation like this: they approve of the PM, "I'm satisfied with Dato' Seri Anwar Ibrahim's performance"; they approve of the federal government, "I'm satisfied with the federal government, the economy is indeed good" — the economy is indeed good. But when it comes to, "would you be open to considering voting for a new party?" — yes. And then, "who did you vote for in the last election?"
 
-**Speaker 2:** Hmm.
+**Haziq:** Hmm.
 
 **Rafizi:** BN. Ha. So with Gen Z like that, we can't read it at all — just because they like Anwar Ibrahim, or Zahid Hamidi, or PAS, they'll have some last retention memory before they go to vote. So we really can't read it. And voters under 40 years old make up 51% of total voters.
 
@@ -509,23 +509,23 @@ So, I think what becomes Bersama's main mission in this upcoming state election 
 
 But the main mission is to realign the Malay vote, because we know we're tired of it too — no matter how you vote, it circles back to the same place: vote PH, well, they end up forming a coalition government with PAS; vote PAS, well, Zahid Hamidi becomes PM. Round and round it goes — like people always say, "round and round until Abang Jamil drops dead." Haven't you watched Keluarga 69?
 
-**Speaker 2:** Ha.
+**Haziq:** Ha.
 
 **Rafizi:** Abang Jamil married three times, then he kept lying, eventually his wives compared notes...
 
-**Speaker 2:** Ha, go ahead. But that's Madu 3.
+**Haziq:** Ha, go ahead. But that's Madu 3.
 
 **Rafizi:** Eh, Madu 3? Not the one from Keluarga 69?
 
-**Speaker 2:** Ha. It has the same line too.
+**Haziq:** Ha. It has the same line too.
 
 **Rafizi:** Ha, the same line too. So the one that goes "until Abang Jamil drops dead," is that Madu 3 or Keluarga 69?
 
-**Speaker 2:** Madu 3.
+**Haziq:** Madu 3.
 
 **Rafizi:** Ha, the one who married three times. Ha, sorry. Right, so — actually that thing...
 
-**Speaker 2:** That's the thing, you're too urban, you don't watch shows like this.
+**Haziq:** That's the thing, you're too urban, you don't watch shows like this.
 
 **Rafizi:** Ha. So — that's why we're going to enter, and when we announce it later, I think people will be surprised, because the hypothesis that says Bersama will split the PH and non-Malay vote, and that its targets are PH seats — that's not right. We will indeed contest against everyone, and most of the seats we contest, God willing, will be against PAS and also UMNO. But right now it's split into several fronts: wherever there's BN/UMNO, there's also PKR or Amanah, there's PAS or Bersatu, and there's Bersama. Same with wherever there's DAP, there's MCA, there's Gerakan or MIC, and there's Bersama. It's just that no one has ever done this "kamikaze" move against every existing party like this — because we want to set the baseline, to confirm that the mission of realignment begins with Malay voters. And if non-Malay voters see that, actually, in everything, Bersama actually has a bigger chance of realigning the Malay vote that PH has failed to do for 20 years — then I think non-Malay voters will say, actually they will be able to reconstitute Malaysia's political culture as a whole within 4, 5, 10 years from now. It's a long mission. And that needs to happen by us trying in every seat — especially contesting against UMNO and PAS too, contesting against PKR too, and of course there will also be DAP seats we contest.
 
@@ -533,22 +533,22 @@ So, I think when we start announcing candidates, I hope especially voters, both 
 
 Should we stop here too? Yes, sorry, I need to take my medicine.
 
-**Speaker 3:** I'm feeling unwell too.
+**Farhan (Pa'an):** I'm feeling unwell too.
 
 **Rafizi:** Oh, okay. Ha.
 
-**Speaker 3:** That's it then. Let's just start — just that you're down with a fever.
+**Farhan (Pa'an):** That's it then. Let's just start — just that you're down with a fever.
 
 **Rafizi:** Ha. That's the thing, it's not a good start, is it. But this past week has been so bad — over three days, on average I've only been sleeping two to three hours a night.
 
-**Speaker 3:** Oh dear, that's so little.
+**Farhan (Pa'an):** Oh dear, that's so little.
 
 **Rafizi:** So, to voters in Pandan and around Ampang — we'll be starting the Kaunter Bersama Rakyat at Pasar Pagi Taman Muda Ampang tomorrow, at 8.30 am, I'll be there until noon. Then I'll rush over to Johor — meet us in Johor, at Danga Bay, starting at 8 pm, the State Tour Roadshow, the Kancil Roadshow, and besides me and Nik, there will be a special appearance — of course the Bersama president will be there, and we have two or three new faces that we'll start introducing from one roadshow to the next. If people think it's only Rafizi and Nik — every roadshow will have a new face. And meet us in Melaka on Sunday, same thing, 8 pm, at Hotel Sri Malaysia.
 
-**Speaker 3:** For those outside Johor and Melaka, can they—
+**Farhan (Pa'an):** For those outside Johor and Melaka, can they—
 
 **Rafizi:** —and after this, you'll be watching us every night; morning too you'll watch us, night too you'll watch us, because these roadshows, the Kaunter Bersama Rakyat, will continue to be broadcast live on YouTube, on TikTok, and elsewhere.
 
-**Speaker 2:** See you there, and watch it live.
+**Haziq:** See you there, and watch it live.
 
 **Rafizi:** Good night. Assalamualaikum. Good morning. Happy — whatever it is — happy voting!

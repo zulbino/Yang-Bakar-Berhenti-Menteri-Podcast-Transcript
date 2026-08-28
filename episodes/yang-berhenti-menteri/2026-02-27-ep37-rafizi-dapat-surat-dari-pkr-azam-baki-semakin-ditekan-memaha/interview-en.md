@@ -384,15 +384,15 @@ So I think this matter, even though they can smile in front of everyone, the wou
 
 And if, for example, he's seen as a puppet — where he's just a poster boy who smiles, but all the decisions are made by older and more senior figures within PAS, especially Dato' Seri Hadi Awang — that will also have a major impact on him going forward. And if every time he's handed a microphone and asked about PN, he can't give a direct answer, he says "oh, we need to go back and have a meeting first" — people will really know that you're actually a puppet, that you can't make decisions. So that's something interesting, because it means we'll have a lot of ammunition for the upcoming general election.
 
-**Speaker 2:** Alright. Let's move to the final topic. Finally, after...
+**Haziq:** Alright. Let's move to the final topic. Finally, after...
 
 **Rafizi:** Why is there Stranger Things? Is Stranger Things really Gen Z? Eh, Gen Z — I watch Stranger Things, so I guess I'm Gen Z then. YB, Gen Z at heart. Gen Z transfer, Gen Z transfer. Haa. Why is there Friends too? Since when did Friends become Gen Z? Friends is Millennials. No way — Friends is Gen X, that's my era. Old fogey. When I watched it, that means you're behind the times, meaning you like oldies. Friends is 90s — 90s, 90s. Haa, you guys were just born...
 
-**Speaker 2:** ...at that time.
+**Haziq:** ...at that time.
 
 **Speaker 3:** But it runs up to the early 2000s...
 
-**Speaker 2:** ...watch it. But now look again, it's on Netflix, right. Okay, alright. So an announcement to friends listening to this podcast — we conducted a survey to understand this Gen Z. We did an in-depth study that we've never done before, and we invited our chief political analyst to ask the questions. What were the findings, YB?
+**Haziq:** ...watch it. But now look again, it's on Netflix, right. Okay, alright. So an announcement to friends listening to this podcast — we conducted a survey to understand this Gen Z. We did an in-depth study that we've never done before, and we invited our chief political analyst to ask the questions. What were the findings, YB?
 
 **Rafizi:** You're like Zaleha.
 
@@ -400,11 +400,11 @@ And if, for example, he's seen as a puppet — where he's just a poster boy who 
 
 **Rafizi:** You?
 
-**Speaker 2:** Gen Z 2. Early Gen Z.
+**Haziq:** Gen Z 2. Early Gen Z.
 
 **Speaker 3:** Eh you—
 
-**Speaker 2:** Gen Z? More like Gen Z 2, '98.
+**Haziq:** Gen Z? More like Gen Z 2, '98.
 
 **Speaker 3:** So this really is among the big questions — even if you look at the media, most people ask the same question: what do Gen Zs want? Before, it was what do Millennials want? But we didn't know back then either.
 
@@ -412,7 +412,7 @@ And if, for example, he's seen as a puppet — where he's just a poster boy who 
 
 **Speaker 3:** Oh, doesn't matter.
 
-**Speaker 2:** I think it's because the approach is different. People still can't understand it to this day. So that's my question — we're a bit late, we've been talking about Gen Z for years now, but even in terms of the thinking process, people can't figure out where to start, how to go about it. So YB, what was your thinking process to get to this survey?
+**Haziq:** I think it's because the approach is different. People still can't understand it to this day. So that's my question — we're a bit late, we've been talking about Gen Z for years now, but even in terms of the thinking process, people can't figure out where to start, how to go about it. So YB, what was your thinking process to get to this survey?
 
 **Rafizi:** So that's why — at that time, we started from the same question: actually what's on the minds of these Gen Z, Millennials, what do they want. So that's why we tried to understand their attitudes toward certain specific matters. This is the usual method when we do socio-political research — we need to look at behaviour and also attitude before we can try to predict their decisions. For example, some call this a "diagnostic dive-in" — I won't go into too much detail. We tried to understand, in Gen Z's view, what kind of person or what kind of politician is seen as more competent to solve the cost-of-living problem. So we asked things like that — we didn't ask them, "okay how should this be solved," we asked their opinion — in their eyes, what kind of person can solve this cost-of-living problem better.
 
@@ -428,7 +428,7 @@ So this becomes a major challenge, because clearly — Gen Z Malays, Chinese, bo
 
 This one we're not showing here, but this one we tried to understand the behavior or attitudes of Malay and Chinese Gen Z and Millennials in relation to jokes and humor — to try to understand what they consider sensitive, what they consider not sensitive, and there's a clear clash. For example, we asked about views on jokes about race or about gender. For Malay Gen Z and Millennials, the most dominant view was: absolutely unacceptable.
 
-**Speaker 2:** Oh, yes.
+**Haziq:** Oh, yes.
 
 **Rafizi:** The most dominant. But for Chinese Gen Z and Millennials, they said it's acceptable, but it should be "mean-spirited" — meaning, it must be well-intentioned, just for a joke. So you see that clash — that's why there's an issue in society. Because Malay Gen Z and Millennials get influenced quickly, especially if the matter relates to race — they'll see it as a "kuah hajar" [collateral damage/bad effect] on Malays. The Chinese don't mind so much — you make a joke about Chinese people and they don't mind too much, as long as the joke isn't too much about race, but it is indeed a joke. So there's a difference between Malays and Chinese there.
 
@@ -468,12 +468,12 @@ So this is a good time for us to stop. This means we don't have the answer yet �
 
 **Rafizi:** Okay then, that's not short at all. It's usually two and a half hours. Okay, I guess that's it then. Good night. If you're fasting, you seem to look a bit low on energy — okay, that's it. I'm the one who has to run around everywhere, people asking whether I've been arrested yet or not, and I'm still full of energy.
 
-**Speaker 2:** That's it. Let's go for moreh. Moreh what? Well, it's nighttime for them now.
+**Haziq:** That's it. Let's go for moreh. Moreh what? Well, it's nighttime for them now.
 
 **Rafizi:** Right, but isn't it — people have already moved into moreh at what, one in the morning? At one in the morning, people have already moved into sahur. Sahur, okay, let's go have sahur together. Okay, sahur, don't forget. Oh, but there's no kesum noodles at sahur. There's still time for moreh, we can get kesum then. Alright, okay. And next week — I think next week we'll be launching "Pinjam Gadget." Yes, starting from this.
 
-**Speaker 2:** Ah.
+**Haziq:** Ah.
 
 **Speaker 3:** Yes, yes, that's right, next week.
 
-**Speaker 2:** Okay, see you again next week. Have a blessed Ramadan, keep up with your worship, and let's worship together. That's it. Assalamualaikum, see you again.
+**Haziq:** Okay, see you again next week. Have a blessed Ramadan, keep up with your worship, and let's worship together. That's it. Assalamualaikum, see you again.

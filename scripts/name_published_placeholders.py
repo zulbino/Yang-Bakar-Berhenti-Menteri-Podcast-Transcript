@@ -38,7 +38,7 @@ WORD = re.compile(r"[A-Za-zÀ-ÿ][\w'’-]{2,}")
 MAX_DOC_RATIO = 0.30
 # A turn matched below this weight is treated as unmatched rather than forced onto its
 # best guess. Short interjections ("Betul.", "Ya lah") legitimately score near zero.
-MIN_SCORE = 2.0
+MIN_SCORE = 0.15
 # Share of a placeholder's MATCHED turns that must agree on one name before it is renamed.
 # Set high on purpose: these labels are wrong in a way the reader cannot detect, so the
 # bar to overwrite them is agreement, not plurality.
@@ -50,6 +50,38 @@ MIN_PLURALITY = 0.60
 # A placeholder with fewer matched turns than this is left alone; the agreement figure
 # would not mean anything.
 MIN_MATCHED = 3
+# A turn's opening must be this long before a literal trace means anything; below it,
+# "ya betul lah kan" matches half the episode.
+MIN_TRACE_CHARS = 28
+# Literal traces needed before they OVERRIDE the bag-of-words vote, and the share of them
+# that must agree. ep56's Speaker 2 fails here at 65% over 43 traces and stays a
+# placeholder, which is the right answer: its turns splice two raw speakers together.
+MIN_TRACES = 3
+MIN_TRACE_AGREEMENT = 0.80
+
+
+# NUMBERED cluster ids only. Role labels -- `Host`, `Interviewer`, `Moderator`, `Hos` --
+# look like the same defect and were in scope for one run. They are deliberately out again,
+# and the reason is worth keeping because it also says what this scoring can and cannot do.
+#
+# Extended to roles, the script proposed `Interviewer` -> Rafizi in YBhM-ep03 and ep06.
+# Rafizi is the interviewEE. The score was measuring shared TOPIC, not shared speaker: he
+# talks most and at greatest length, so his blocks share the most rare words with any turn,
+# and the longest-block speaker wins by volume. Dividing each score by the square root of
+# the block length fixes the direction -- `Interviewer` becomes Faizal Rahman, `Moderator`
+# becomes Haziq, `Hos` becomes Haziq, all of which are right -- but agreement then lands at
+# 55-76%, under the bar. So the honest reading is that role labels are ambiguous at turn
+# level by this method, not that they are resolvable and merely mis-scored.
+#
+# `Speaker ?` is out of scope for a different reason: it is the repo's marker for a turn
+# nobody could identify, and trading an honest unknown for a guess is what this refuses.
+UNKNOWN_MARKER = re.compile(r"^(speaker|penutur|penceramah)\s*\?+$", re.I)
+
+
+def is_placeholder(label):
+    if UNKNOWN_MARKER.match(label.strip()):
+        return False
+    return bool(DERIVED_PLACEHOLDER_RE.match(label))
 
 
 def words(text):
@@ -80,12 +112,69 @@ def weights(blocks):
 
 
 def best_match(turn_words, blocks, w):
+    """Nearest raw block by shared rare words, divided by the block's length.
+
+    The division is not cosmetic. Without it the score measures shared TOPIC and the
+    speaker with the longest blocks wins every comparison -- on this corpus that is always
+    Rafizi, who is the interviewee, so an `Interviewer` label resolved to him. Normalising
+    by sqrt(block length) flips those cases to the right people and, on ep56, moves
+    `Speaker 2` off Rafizi and onto Haziq, which a verbatim trace independently confirms.
+    """
     best, score = None, 0.0
     for name, ws in blocks:
-        s = sum(w.get(x, 0.0) for x in turn_words & ws)
+        if not ws:
+            continue
+        s = sum(w.get(x, 0.0) for x in turn_words & ws) / math.sqrt(len(ws))
         if s > score:
             best, score = name, s
     return (best, score) if score >= MIN_SCORE else (None, score)
+
+
+def _flat(s):
+    return " ".join(re.sub(r"[^a-z0-9 ]", " ", s.lower()).split())
+
+
+def verbatim_votes(ep_dir, raw_body):
+    """Who raw.md says spoke each placeholder turn, by literal substring match.
+
+    Stronger evidence than the bag-of-words score and independent of it: the rewrite
+    tidies wording but usually leaves the opening clause intact, so a turn's first seven
+    words can often be found verbatim inside exactly one raw block. Where the two methods
+    disagree, this one is right -- it decided ep56, where the overlap score said Rafizi at
+    64% and the literal traces said Haziq at 65%, and the turns themselves turned out to
+    splice two speakers together.
+    """
+    blocks = [(m.group(1).strip(), _flat(m.group(2))) for m in
+              re.finditer(r"^\[[\d:]+\]\s*([^:\n]{2,25}):\s*(.+)$", raw_body, re.M)]
+    votes = defaultdict(Counter)
+    for name in DERIVED:
+        path = ep_dir / name
+        if not path.exists():
+            continue
+        for line in strip_frontmatter(path.read_text(encoding="utf-8")).splitlines():
+            m = TURN_RE.match(line.strip())
+            if not m or not is_placeholder(m.group(1).strip()):
+                continue
+            key = " ".join(_flat(m.group(2)).split()[:7])
+            if len(key) < MIN_TRACE_CHARS:
+                continue
+            for spk, btxt in blocks:
+                if key in btxt:
+                    votes[m.group(1).strip()][spk] += 1
+                    break
+    return votes
+
+
+def _confirm(label, who, traces):
+    """Does the literal-trace evidence back this name? Returns (ok, note)."""
+    tally = traces.get(label)
+    if not tally or sum(tally.values()) < MIN_TRACES:
+        return True, "[no literal traces; bag-of-words only]"
+    total = sum(tally.values())
+    n = tally.get(who, 0)
+    share = n / total
+    note = f"[traces {n}/{total} = {share:.0%} {who}]"
+    return share >= MIN_TRACE_AGREEMENT, note
 
 
 def propose(ep_dir):
@@ -95,6 +184,7 @@ def propose(ep_dir):
     if not blocks:
         return {}, {}
     w = weights(blocks)
+    traces = verbatim_votes(ep_dir, raw_body)
 
     votes = defaultdict(Counter)
     for name in DERIVED:
@@ -106,7 +196,7 @@ def propose(ep_dir):
             if not m:
                 continue
             label = m.group(1).strip()
-            if not DERIVED_PLACEHOLDER_RE.match(label):
+            if not is_placeholder(label):
                 continue
             who, _ = best_match(words(m.group(2)), blocks, w)
             if who:
@@ -120,7 +210,7 @@ def propose(ep_dir):
     raw_placeholders = set()
     for a, b in RAW_LABEL.findall(raw_body):
         name = (a or b).strip()
-        if DERIVED_PLACEHOLDER_RE.match(name):
+        if is_placeholder(name):
             raw_placeholders.add(norm(name))
 
     proposal = {}
@@ -130,22 +220,24 @@ def propose(ep_dir):
         matched = sum(tally.values())
         who, n = tally.most_common(1)[0]
         agree = n / matched if matched else 0.0
-        if matched >= MIN_MATCHED and agree >= MIN_AGREEMENT:
-            proposal[label] = (who, agree, matched)
+        ok, note = _confirm(label, who, traces)
+        if matched >= MIN_MATCHED and agree >= MIN_AGREEMENT and ok:
+            proposal[label] = (who, agree, matched, note)
 
     # Elimination. Where one placeholder is settled, the speaker it took is no longer
     # available to the others, and a weaker plurality for a name nobody else claimed is
     # then worth acting on. ep54 is the clean case: Speaker 2 is Rafizi at 94%, the episode
     # has exactly two speakers, so Speaker 1's 66% for Haziq is the only reading left.
-    claimed = {who for who, _, _ in proposal.values()}
+    claimed = {v[0] for v in proposal.values()}
     for label, tally in sorted(votes.items()):
         if label in proposal or any(norm(label) == norm(p) for p in raw_placeholders):
             continue
         matched = sum(tally.values())
         who, n = tally.most_common(1)[0]
         agree = n / matched if matched else 0.0
-        if matched >= MIN_MATCHED and who not in claimed and agree >= MIN_PLURALITY:
-            proposal[label] = (who, agree, matched)
+        ok, note = _confirm(label, who, traces)
+        if matched >= MIN_MATCHED and who not in claimed and agree >= MIN_PLURALITY and ok:
+            proposal[label] = (who, agree, matched, note)
             claimed.add(who)
     return proposal, votes
 
@@ -158,7 +250,7 @@ def apply(ep_dir, proposal):
             continue
         text = path.read_text(encoding="utf-8")
         before = text
-        for label, (who, _, _) in proposal.items():
+        for label, (who, _, _, _) in proposal.items():
             text = text.replace(f"**{label}:**", f"**{who}:**")
         if text != before:
             path.write_text(text, encoding="utf-8")
@@ -187,9 +279,9 @@ def main():
             matched = sum(tally.values())
             detail = ", ".join(f"{k} {v}" for k, v in tally.most_common(4))
             if label in proposal:
-                who, agree, _ = proposal[label]
+                who, agree, _, note = proposal[label]
                 print(f"   {label:24} -> {who:18} {agree:.0%} of {matched} matched"
-                      f"   [{detail}]")
+                      f"   {note}")
             else:
                 print(f"   {label:24}    REFUSED  ({matched} matched) [{detail}]")
         if args.apply and proposal:
