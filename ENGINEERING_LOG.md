@@ -1598,6 +1598,37 @@ thing that resolves them.** Ship timestamped links, not conclusions.
 name. That is 1.20 again, in a spot no speaker-label check would ever look, because it
 sits in the middle of dialogue rather than in a label.
 
+**And then I over-corrected, which is its own lesson.** Having just caught that invented
+`Wan`, I found the label `Wan Afiq` in ep46, ep50 and ep51 and built what looked like a
+solid case against it: the name is never spoken, all 18 dialogue mentions say only
+`Afiq`, he introduces himself in ep46 as *"Bersama saya, Afiq"*, and `git log -S` traced
+the string's first appearance to an "Add interview rewrite" commit rather than to any
+audio-grounded speaker-ID pass. I normalised 188 labels to `Afiq`.
+
+**`Wan Afiq` was correct.** The show captions him on screen, in an on-air name graphic,
+in the very episode I was checking. The whole argument rested on a bad premise: that a
+name absent from dialogue is suspect. Nobody says their own surname mid-conversation.
+Rafizi is called `Rafizi` on air roughly six thousand times and his name is still Rafizi
+Ramli. Provenance did not help either -- `git log -S` shows when a *string* first
+appeared, which for a label the rewrite stage happens to write first says nothing about
+whether the underlying fact was known.
+
+**The video is a source, and it had not occurred to me.** Thumbnails and lower-third
+graphics name guests and stand-in hosts directly, produced by the people in the room. On
+a name question that is stronger evidence than the transcript, the captions, and the
+commit history combined, and it costs one glance. Check it before arguing from absence.
+
+The voiceprints did hold up here, and settled the part the graphic could not:
+
+| Cluster | Verdict |
+|---|---|
+| ep46 `Wan Afiq` vs ep50 `Wan Afiq` | **0.914** -- the same man, so he is in both, not only ep50 |
+| ep46/ep50 `Wan Afiq` vs the Haziq references | 0.28-0.36, against 0.921 Haziq-to-Haziq |
+| ep51 `Afiq` | 0.784 against Farhan (Pa'an), 0.38 against the real Wan Afiq -- a mislabel, corrected |
+
+So he stood in for Haziq across two episodes rather than one, and a third episode's
+`Afiq` was never him. **Ask the audio who is speaking, ask the video what he is called.**
+
 ### 1.29: Three speaker-label gotchas that keep recurring
 
 Moved out of ARCHITECTURE.md on 2026-08-28: these are failures and their fixes, not

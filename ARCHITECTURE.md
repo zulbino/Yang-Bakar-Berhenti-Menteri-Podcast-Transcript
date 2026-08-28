@@ -171,6 +171,7 @@ behind this table is 1.11, 1.14, 1.17, 1.23 and 1.25.
 | `coverage` | A transcript ending well before the episode does | Loss backfilled by duplicate or displaced blocks, which leaves the timeline looking full |
 | `content-loss` | Gaps between timestamps too large for the text at their start | The same backfill, plus loss papered over with `[silence]` markers (1.25) |
 | `caption-coverage` | Audio whose speech has no counterpart anywhere in the transcript | Episodes whose wording diverges from the captions throughout, which report `inconclusive` rather than clean |
+| the video itself | Guest and stand-in-host names, from on-screen lower-third graphics and thumbnails, produced by the people in the room (1.28) | Anyone never captioned on screen |
 | `drift` | Blocks timestamped far from where they were actually spoken | Sparse or wrong-language captions. Isolated false phrase-locks still need adjudicating by hand |
 | `duplicates` | The same block re-emitted at another timestamp | Near-duplicates differing by a word |
 | `backward-jump` | Timestamps that decrease | Forward-only corruption |
