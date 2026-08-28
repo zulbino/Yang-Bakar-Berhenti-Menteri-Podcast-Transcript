@@ -11,6 +11,7 @@ view_count: 151282
 hosts:
 - Rafizi
 - Haziq
+- Farhan (Pa'an)
 guests: []
 topics:
 - Politik dalaman PKR dan isu calon (CEPLOS)

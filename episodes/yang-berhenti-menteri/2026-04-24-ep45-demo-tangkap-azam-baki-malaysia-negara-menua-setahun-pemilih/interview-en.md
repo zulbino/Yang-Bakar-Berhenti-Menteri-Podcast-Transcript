@@ -8,7 +8,10 @@ publish_date: '2026-04-24'
 duration_seconds: 10693
 duration: 2h 58m
 view_count: 195377
-hosts: []
+hosts:
+- Rafizi
+- Haziq
+- Farhan (Pa'an)
 guests: []
 topics:
 - Malaysian politics
@@ -306,7 +309,7 @@ So I remember — what, tomorrow? Yes, tomorrow let's pray as many people as pos
 
 **Host:** Oh, is that playing safe? Very safe. Go ahead and ask — what's the view... repeat the one in yellow, which one?
 
-**Other host:** That's the Bersih statement regarding the Yang di-Pertuan Agong's declaration.
+**Host:** That's the Bersih statement regarding the Yang di-Pertuan Agong's declaration.
 
 **Host:** Where — "Reformasi calls on MACC to set up an RCI immediately." Everyone doesn't want to comment.
 
@@ -348,13 +351,13 @@ So I think that's the gap — where the Yang di-Pertuan Agong's statement, at th
 
 **Host:** So YB, before we close, a message to—
 
-**Other host:** Wait, I have another question.
+**Host:** Wait, I have another question.
 
 **Host:** Hmm, okay.
 
-**Other host:** Because okay, the Yang di-Pertuan Agong has said that Azam Baki will not be reappointed. But surely it won't just end there tomorrow, right?
+**Host:** Because okay, the Yang di-Pertuan Agong has said that Azam Baki will not be reappointed. But surely it won't just end there tomorrow, right?
 
-**Interviewer:** That's exactly why — I read the Bersih statement, and there's media chasing me asking, "So how will tomorrow go, will the demo still happen?" Then once there's this declaration from the Yang di-Pertuan Agong, does that mean all of this was in vain or what... So what is next? If you look from day one, the statements that came out, then the rally before Chinese New Year, and yesterday — not the last two nights, the grand finale — and yesterday's Bersih statement.
+**Host:** That's exactly why — I read the Bersih statement, and there's media chasing me asking, "So how will tomorrow go, will the demo still happen?" Then once there's this declaration from the Yang di-Pertuan Agong, does that mean all of this was in vain or what... So what is next? If you look from day one, the statements that came out, then the rally before Chinese New Year, and yesterday — not the last two nights, the grand finale — and yesterday's Bersih statement.
 
 **Rafizi:** Actually it hasn't changed at all. There are three demands. One is an RCI, so that a full investigation is carried out not only into Tan Sri Azam Baki's shareholding but also into all the allegations, the disclosures so far, especially regarding the corporate mafia. And within these two months too, since the first Bloomberg disclosure, more has come out — the "next G" story has already surfaced, and it has started to implicate not only the MACC but also AMLA, Bukit Aman, the police (PDRM). So the demand is evergreen. It's not resolved simply by changing or having a new MACC Chief Commissioner, because what the public is demanding is that we protect the integrity, reputation, and independence of the MACC. So that demand will continue to be pursued and monitored by the public.
 
@@ -362,7 +365,7 @@ The second demand, of course, is for Tan Sri Azam Baki to step down, followed by
 
 And the third demand is institutional reform of the MACC — meaning we need to improve and further polish the MACC's reputation, so we must ensure that the appointment of the chief commissioner going forward is improved so that it isn't seen as being solely under the control of the executive — it should go through Parliament, right?
 
-**Interviewer:** Okay, I have three or four more minutes. This is the last thing before we move to the next topic, right? This is the argument that has been given by the government so far regarding parliamentary involvement — every time, and this applies whether it's the appointment of the MACC chief commissioner or, as is being discussed now, the appointment of the public prosecutor — they just call it "public prosecutor," right? The argument currently used by the government is that it's unconstitutional. Because I don't remember — you're a lawyer, right, you're a lawyer — which article of the Constitution states that the Dewan Rakyat, Parliament, is the legislative body? Which article is that?
+**Host:** Okay, I have three or four more minutes. This is the last thing before we move to the next topic, right? This is the argument that has been given by the government so far regarding parliamentary involvement — every time, and this applies whether it's the appointment of the MACC chief commissioner or, as is being discussed now, the appointment of the public prosecutor — they just call it "public prosecutor," right? The argument currently used by the government is that it's unconstitutional. Because I don't remember — you're a lawyer, right, you're a lawyer — which article of the Constitution states that the Dewan Rakyat, Parliament, is the legislative body? Which article is that?
 
 **Rafizi:** I don't remember exactly, everyone please check, even I've forgotten. Where did my mind go — over 40 and already forgetting things. But that is the argument that's always used — that our demand, from the 10 PKR MPs, is that we want Parliament to be brought into the appointment process, starting with vetting of candidates by a select committee, followed by a vote for approval. Only after Parliament approves would the Prime Minister bring it forward to be presented to the Yang di-Pertuan Agong, and if there is any violation, scandal, or controversy that meets the criteria, then Parliament can vote on a motion to dismiss. No — the Constitution stipulates that Parliament only has a legislative function. The act of appointing and dismissing is an executive function.
 
@@ -370,19 +373,19 @@ And the argument goes, our Parliament is different from other parliaments we ref
 
 And all three of these matters are issues that will continue to be debated and continue to be demanded — Tan Sri Azam Baki should not become MACC chief commissioner, you know.
 
-**Interviewer:** But when the constitutional reason is given, that's really the reason it can't be done because...
+**Host:** But when the constitutional reason is given, that's really the reason it can't be done because...
 
 **Rafizi:** That's the main argument so far. And God willing, next week I'll be the bad boy again — I need to round up the troublemakers again, the naughty kids who think, and state our position — that this appointment and vetting process should go through Parliament because [the current setup] violates the Constitution, and we should improve certain clauses and provisions in the Constitution to enable it. If that's the argument, then the anti-party-hopping act shouldn't have been possible either, since we amended freedom of association for that. Yes, exactly the same — for that one we amended it, so for this one too. So wait for next week, I'll gather the 10 black boys again. There's that song, right, "10 Little Black Boys" — one goes off wandering, and you're left with 8. But God willing, our 10 black boys will remain more... more, it's not like the song "10 Little Black Boys" — one wanders off and falls in a drain, 9 left, one wanders off and meets a friend, 8 left, down to 1, then none. Ours will remain, none lost, hopefully enough.
 
-**Interviewer:** An hour and 20 minutes to go. But before that, friends watching — at the very end, as usual, we'll have an entertainment segment, meaning politics. Before that, I'll write a letter to Nurul Izzah — oh wait, there's no "Kanda," that's not a thing, only Mujahid does that. Okay. Let's move to the second topic, YB — hope it's not too boring — which is YB's policy issue, and perhaps YB is the only minister who always talks about this agenda, which is the aging nation agenda. Before we go into detail, YB, when you were drafting the 13th Malaysia Plan and included the aging Malaysia agenda — that was a bit shortsighted, wasn't it?
+**Host:** An hour and 20 minutes to go. But before that, friends watching — at the very end, as usual, we'll have an entertainment segment, meaning politics. Before that, I'll write a letter to Nurul Izzah — oh wait, there's no "Kanda," that's not a thing, only Mujahid does that. Okay. Let's move to the second topic, YB — hope it's not too boring — which is YB's policy issue, and perhaps YB is the only minister who always talks about this agenda, which is the aging nation agenda. Before we go into detail, YB, when you were drafting the 13th Malaysia Plan and included the aging Malaysia agenda — that was a bit shortsighted, wasn't it?
 
 **Rafizi:** Shortsighted indeed.
 
-**Interviewer:** But people say that when you're in your late 40s, early 50s, you do get farsighted [presbyopia] — can't see things up close.
+**Host:** But people say that when you're in your late 40s, early 50s, you do get farsighted [presbyopia] — can't see things up close.
 
 **Rafizi:** Okay, okay.
 
-**Interviewer:** Alright, YB. So? So what did YB notice that made YB want to highlight this policy? Because no one else — well, other people talk about AI and such — YB suddenly said, "hey, I talk about that too," YB said. But this aging nation issue, YB talks about it, and we don't hear much about it from others.
+**Host:** Alright, YB. So? So what did YB notice that made YB want to highlight this policy? Because no one else — well, other people talk about AI and such — YB suddenly said, "hey, I talk about that too," YB said. But this aging nation issue, YB talks about it, and we don't hear much about it from others.
 
 **Rafizi:** Um... my view is — this is something close to policy, eh. Okay, this is the difference — people keep saying, "what has he done as economy minister, there's no visible impact," you know. I was given boring work. My job is to look ahead, and we need to see how to protect and strengthen the country's future, especially for the young. So that's why early on I focused on substantive and structural matters — people got upset about that, right, questioning how we should handle subsidies. I never said we should abolish subsidies. Okay. In fact, if you look at the concept — okay, for those interested in understanding a bit about how to approach managing a nation from a policy perspective, from an Islamic viewpoint, one of the best writings is by Ibn Khaldun.
 
@@ -414,23 +417,23 @@ The number of people working, 15 to 65% — in fact it's 16 to 65, the internati
 
 So that's the profile of our population, and we're not far off — it peaks in 2030, and after that it will decline, decline, decline. Now then you ask the next question — for all these countries labeled aging nations, who's smart, how do you decide? How do you decide if a country is aging or not aging? You look at the trend before a nation ages — aging means it's in the process, then eventually it becomes old. Right, how do you decide that? For example, is Malaysia currently aging, or already old, or what? How do you do it?
 
-**Interviewer:** There's a standard.
+**Host:** There's a standard.
 
 **Rafizi:** There's a global standard. Because this isn't just Malaysia's problem, it's a global problem. So the categorization of whether a country is aging, has become old, or is very old, is determined by the percentage of people aged 65 and above. That's why we started earlier — we need to know that we're now at 8%. 8%, eh. Okay, this is the standard according to the United Nations, according to economic agencies worldwide. Any country where the population aged 65 and above exceeds 7% is considered an aging society. So once you cross 7%, you are considered an aging society. So we, meaning, it's an aging society already — we're at 8%.
 
 Okay, when the number of people aged 65 and above crosses 14% of the population, the country becomes an "aged" nation. When will we cross this 14% — I was the minister before, so you probably don't know this, this is what I went through. Okay, by population projection, we will reach a population profile where 14% of the population is above 65 years old in the year 2043. Okay. Where does it say that? It was indeed 2043, that's what I recall. But, okay, this is a projection, you know, it changes every year depending on birth rates and death rates, and it depends on government policies. That 2043 figure, I think, was from 2024 when we were doing it. It now says 2048. Eh.
 
-**Interviewer:** 2048?
+**Host:** 2048?
 
 **Rafizi:** I remember it being 2043 before, so there's a latest figure from DOSM now. So now 2048 — 2048 means 22 years from now. Okay, so that's the situation, okay, this can't be avoided. If we do nothing — meaning we don't encourage people, unless, for example, there's a policy saying whoever has two children gets a Proton Saga, four children, five children — unless we have a policy like that. If it's business as usual like this, the latest projection is that we will cross into being an aged nation by 2048.
 
 So I think that's settled. So meaning we only have 22 years before this happens. The next question we should ask is this — if outsiders are already bored, "why does he keep going on and on about old people, old people, old people" — okay...
 
-**Interviewer:** So,
+**Host:** So,
 
 **Rafizi:** The next question we should ask is, actually, if we become an aging nation and now we are in the process towards that, with only 22 years left, what's actually the impact on our country that makes you all fuss so much about it? So, what's the impact? Production becomes low.
 
-**Host (Haziq?):** Production of what? Children?
+**Host:** Production of what? Children?
 
 **Rafizi:** National productivity.
 
@@ -498,21 +501,21 @@ Then we'll have an issue with — what's it called — pensions. Take the govern
 
 **Rafizi:** No, not six months. Much earlier, right? That's what I mean. Much earlier, much earlier. They just keep it secret but pull all the resources in the world to basically build a mitigation plan, the arc. So they slowly, suddenly there's a lottery, on that day, and so on. So, meaning, we now know that if we're not careful, there's this asteroid, let's say all components of our society agree that this asteroid is coming, the problem is agreeing alone while doing nothing, and business as usual isn't an option either, because we only have 22 years, and the policies that need to be made to fix things, to prepare us to overcome this problem, will all be hated by the public. That's my main concern — if people in PKR or in the government who always attack me think I'm the only one who's right, well, facts are facts. Just because you don't dare, or you don't want to tell the truth and take difficult steps, don't get angry at me. I have a duty. My duty is to say that actually, if we continue like this, we live comfortably. But these kids who are 15-20 years old now, their lives will really be miserable. Because by then, our economic growth would have plateaued. Our workforce would have declined. And at the same time, they'll have to support us, the elderly. So their taxes will be higher, they'll have to be penalized and pay for all of us. So it's better we do this now, especially policies that, even though they seem difficult and uncomfortable because they'll change lifestyles and society as a whole. Thank you — there will be a large part of society and the public who understand. So, there are certain things. I think we need to proceed. If I keep going on like this, people will say, you're no longer the Economy Minister, why are you making so much noise? Certain things I can say directly. Two or three things that are indeed uncomfortable.
 
-**Interviewer:** Okay.
+**Host:** Okay.
 
 **Rafizi:** The first is regarding the retirement age. We can't solve everything with... because you know, the problem is the workforce is shrinking, right? Because the number of elderly people is increasing. So the group, the workforce, from 70% now, will drop to 65% — of population is shrinking, right? So what you do is you have to raise the retirement age. It's 60 now. Maybe raising it straight to 65 would be difficult. So you need to raise it — 60, 62, maybe 65. But if our people, especially the young ones, Gen X or whatever, just mentioning raising the retirement age already makes them upset — you're only thinking about yourself. But it is for your own sake that we need to expand this, so our economic capacity continues its momentum earlier than it otherwise would. So that's one very unpopular thing but we need to do it.
 
 Second is to make sure the workforce starts earlier. That's why we said in the 13th Malaysia Plan, and this also aligns with educational needs — actually the most important period is ages 4, 5, 6. So start at age 6 so that by age 16 they've finished, and at 17 they can already join the workforce. And we're hoping that if we have a dual system — one that goes to university and so on, by age 20 they can actually already be part of the workforce. The ones at age 16, the other stream — the skills stream — at 17 they've already started working based on work experience. So that helps push the workforce age limit both upward and downward. So it helps slow down the drop in the workforce. It's uncomfortable, people get angry.
 
-**Interviewer:** What else can we do to make sure our workforce, its percentage out of the population, doesn't shrink too quickly?
+**Host:** What else can we do to make sure our workforce, its percentage out of the population, doesn't shrink too quickly?
 
 **Rafizi:** We have a group that has historically not worked or has always been associated with not working. Maybe we need to give incentives for them to work too.
 
-**Interviewer:** For example?
+**Host:** For example?
 
 **Rafizi:** Women.
 
-**Interviewer:** Yes, okay.
+**Host:** Yes, okay.
 
 **Rafizi:** That — oh, you could become Economy Minister with that answer, reading it just now. So actually, the potential we have — the third thing is we need to increase the rate of women's participation in the workforce, in the labor force. We're at 60% plus now, I think. And we need to push it above 70% plus. The problem with women wanting to work isn't just in our society, in many other societies too, there are constraints. They have to look after children, they become homemakers — many skilled, educated women, all of them, have to make that difficult decision. And I'm one of the families that made that decision — I decided we'd be a single-earner family because she needs to raise our son. So my wife, for example, is one of the statistics of someone who should be working. Some people have to make calculations — it's actually cheaper if the mother doesn't work, even though she's qualified, she can do many things, because childcare is expensive and all that. Sending a nanny, kindergarten, all expensive. So it's not just simply a matter of giving incentives for them to work. Because she's not working, that's not because she's lazy, Haziq. The way you talk about it, giving incentives, money, telling her to work — implying she's lazy. It's not. She's not lazy, not lazy at all. Because the cost-benefit analysis is that it costs a lot more if they work. Because of childcare and all that. So what you need to do — we need to make sure our workforce is conducive for working mothers. It's about childcare, it's about flexi hours, it's about work from home. So that they too can work while at the same time not neglecting their responsibility of raising children.
 
@@ -520,49 +523,49 @@ Then, equally important — these things too are uncomfortable. The public might
 
 And the fourth thing that needs to be done is post-retirement — say at age 62, 65, according to our employment act, at 65 they can already retire, and they retire. Our economic problem is, after they retire, if they want to return to work, there's no law for it. So employers say, we don't hire these elderly people because the law simply doesn't allow it. And even if they want to hire them, there's no law defining what their rights are, where, how long, all that. So one, we need to fix the law. Second, we also need to make sure that employers — whether through incentives or forms of work that can accommodate pensioners, elderly people. Right now these jobs don't exist, there aren't many available, because these jobs were all developed by our economic system for young people. That's why when someone turns 40, 50, employers don't really want them — because employers don't want that, and it's true actually, when someone is older, they're a bit less productive, and at the same time their salary is already high. So again, policy needs to change to make sure employers know that I will not bear the burden that the government is passing on. This is actually the government's job to take care of the elderly — why are you passing it on to me? So that's why the government has to come in. In what way? Do you incentivize? Do you make sure that there are certain jobs where, if you hire a retiree, you get a tax credit, for example. There are many ways to do it, but it can't be done by expecting employers, the private sector, to bear the government's and society's burden.
 
-**Interviewer:** Okay, now — all of this, do you think it can be done within that 22-year period?
+**Host:** Okay, now — all of this, do you think it can be done within that 22-year period?
 
 **Rafizi:** It has to start now. Because all of this makes people angry — do this, employers get angry; do that, elderly people get angry. Then the pensioners themselves, they won't want to say, "hey, I'm already retired, you want to make me work again?" right. Okay, now, when you look at all this, it's not just about the programs and policies made one by one, but it goes even much higher than that — namely, dependence on foreign workers. That's why I'm consistent in saying, and even though many disagree with me — thankfully the government accepted what I left in the 13th Malaysia Plan — that we can no longer continue business as usual, year after year, still taking in foreign workers. We must work — we must make it a national agenda to reduce foreign workers year by year. So the target goes down from 15% of the total workforce now to 10% by 2030, to 5% by 2035. Because once we no longer have foreign workers, we'll be forced to hire local workers. Some are just within the working age of 16 to 65, and even that alone isn't enough. So eventually employers, society, we're forced to adjust. Take a good example — a good example, right? Until when are we going to rely on foreign workers, especially from Bangladesh, to be waiters at our mamak stalls? Until when? You go to many countries in the world, they don't have waiters like that, you know — you order, no one comes, you either take it yourself, or the ones serving are either kids or elderly people. Right now employers really don't want that, because they say, "ah, hiring elderly people, they can't work that much, or hiring local kids, they'll quit later. That's why I want to hire workers from Bangladesh — they stay, sleep, eat and drink upstairs, they work 18 hours a day, they don't run away, it's been 3 years of an easy life for me." I understand, I'm an employer myself, I also have an F&B business — it's true, if you go by convenience, that's how it is. But the cost to society is a lot higher. Similarly, our own people also need to accept this — at some point, we might actually need to serve ourselves. We need to get used to the fact that the one taking your order is an elderly person, working a 4-hour shift. That's what we're trying to do at our coffee shop — it's not strange, take Aci, for example, she's over 60, so we hire elderly people to be cleaners and such. There are housewives who come in for just 4 hours to peel onions. So it's indeed difficult, the operations are difficult, not as easy as other F&B businesses. And indeed I sweat every month looking at it, oh no, all the money's gone to paying salaries. But that's what we need to accept as a society, because we can no longer afford all this.
 
 So all this requires not just adjustment from government policy, but also adjustment and acceptance from the public, from society, and from businesses and the economy. And that's something we can't do just by talking about it. It's a national mission that should have started already. Unfortunately it still hasn't — and this is something I've read — actually the national aging agenda, this National Aging Blueprint, was actually completed by the Ministry of Economy in 2024. And we were indeed going to table a white paper in parliament so that all members of parliament would know, and we'd align all of this as a national mission. But politics — we had tabled it, had gotten approval, but when it came to bringing it to parliament and implementing it, there were voices saying, "why is the Ministry of Economy doing this? This should be something we do." So it kept getting delayed for two years, and until now it hasn't moved. So in government this is crazy work, you know. I hope senior political and ministerial leaders won't keep fighting over credit for this. People don't get anything from that anyway. It's not like the private sector — in the private sector, if your KPIs are good, you get a bonus for the year. In government, whether you're a Secretary-General or a minister, no matter how good your performance is, your salary stays the same. So if someone has already done the work and genuinely wants to do it right, then you should applaud them, say it's good, and support it. But there's always someone behind the scenes stirring things up — "why is it the Ministry of Economy? Oh, bring it here first." So eventually I resigned. Yet that paper, by the time I resigned, had already been tabled and approved for almost a year. It just needed to be brought forward and publicized — but some people were afraid the Ministry of Economy would get the credit. "This is our portfolio, why is he talking about health? Why is he talking about social matters?" Well, it's called the Ministry of Economy — of course it covers everything. So I read — according to the latest news, the Ministry of Economy said it will finally be tabled in 2026. So let's wait. I hope it gets tabled as soon as possible because we're increasingly running out of time.
 
-**Interviewer:** Alright. We'll wait and see whether it gets tabled or not. We're at 2 hours 10 minutes now.
+**Host:** Alright. We'll wait and see whether it gets tabled or not. We're at 2 hours 10 minutes now.
 
 **Rafizi:** Wait for the election first — the longer they don't table it, the longer they won't table it.
 
-**Interviewer:** I think we have two more topics. And we're at 2 hours 10 minutes. So I think we'll skip the next one. Let's go straight to the PKR love stories.
+**Host:** I think we have two more topics. And we're at 2 hours 10 minutes. So I think we'll skip the next one. Let's go straight to the PKR love stories.
 
 **Rafizi:** Oh.
 
-**Interviewer:** Okay, okay. With all due respect, allow me — the third question, which is the PH-BN-PN social media war, next week.
+**Host:** Okay, okay. With all due respect, allow me — the third question, which is the PH-BN-PN social media war, next week.
 
 **Rafizi:** Yes, that's right.
 
-**Interviewer:** But people want to know about what happened after a year of PKR holding elections, all this chaos — is it Rafizi's fault? Is it right, YB? Never anyone else's fault?
+**Host:** But people want to know about what happened after a year of PKR holding elections, all this chaos — is it Rafizi's fault? Is it right, YB? Never anyone else's fault?
 
 **Rafizi:** Okay, let's see. It has been Rahmanan's fault before. It's been Rahmanan's fault before.
 
-**Interviewer:** We'll invite these guests to explain for themselves. We have many YBs, and we'll probably cite one branch to another — this is context, you know.
+**Host:** We'll invite these guests to explain for themselves. We have many YBs, and we'll probably cite one branch to another — this is context, you know.
 
 **Rafizi:** Oh, this is what you've compiled, all these headlines about PKR lately. And I think this happened because it's currently the branch annual general meeting season. So in every branch there are all sorts of dramas going on.
 
-**Interviewer:** So maybe...
+**Host:** So maybe...
 
 **Rafizi:** No, no. Yes, let me cut in early here. Yes, I read them, one after another, one after another. I just laugh, because coincidentally Pandan was among the earliest branches to hold theirs.
 
-**Interviewer:** Ha, yes, right.
+**Host:** Ha, yes, right.
 
 **Rafizi:** And it was in Pandan that certain chess players arranged all this — they wanted to embarrass me. Yet we won big. And I'm quite frugal — for the Branch Annual General Meeting in Pandan, I really do hold it in a small community hall like that. So to fulfill the requirements to file with the Registrar of Societies, ROS, they ambushed and arranged a vote of no confidence, supposedly to remove me — and they lost. But they didn't realize that by doing that, they gave an idea and legitimized the same thing happening anywhere else. Because when that happened, not a single party leader said don't do that — because at that time the target was Rafizi, so everyone secretly applauded. They didn't realize that once that became the norm, it was then done in every other branch. So it became one after another.
 
-**Interviewer:** So where should we start?
+**Host:** So where should we start?
 
 **Rafizi:** Maybe we start with the north of the country. Let's begin with Kangar. Definitely my haters there.
 
-**Interviewer:** Ha, haters.
+**Host:** Ha, haters.
 
 **Rafizi:** Okay, haters. Even I don't understand it. That's another piece of advice for the public, for people who want to go into politics or whatever — do everything in moderation, don't embarrass yourself and burn bridges. This is like the case of Noor Amin Ahmad.
 
-**Interviewer:** Okay, baby. So Kangar — what's the story? The story is, the Kangar branch was in turmoil — a group of 15 PKR committee members were alleged to have resigned.
+**Host:** Okay, baby. So Kangar — what's the story? The story is, the Kangar branch was in turmoil — a group of 15 PKR committee members were alleged to have resigned.
 
 **Rafizi:** Then he responded, he said all this happened because of pro-Rafizi leaders. Yes, pro-Rafizi. I can see — inactive since winning. And Noor Amin, actually, the problem is when someone gets carried away. It's related to — I was the one who went to fetch him and told him he'd be the candidate for 2018. PKR had never won Kangar. PAS had never won Kangar. Kangar had never fallen to the opposition at all. So nobody believed Kangar could fall. But well, we called him up, we campaigned for him — I went down to Kangar myself. Right? Right. So he won. He won, and initially there was nothing wrong, because once he won I didn't interfere, let him do as he pleased. In Kangar, every candidate I fielded won. He won, then there were two or three PKR state seats that won — Indera Kayangan, Guar Nyaring did win, they'd won even before that. Then the Sena seat, Asrul also won. Then the Kuala Perlis seat — all of those were candidates I placed. As for the candidate for Kuala Perlis, Azam, actually we already had another candidate lined up. I remember, after a program at — no, not Kuala Perlis — at the KL Selangor Chinese Assembly Hall, there was a forum in 2018, a few months before the election. Because he wasn't really based in Perlis much, he used to work on ships, spent a lot of time abroad. We already had another candidate, yes. He came and waited until midnight, when I came out, waited by the car — "please let me be the candidate, please let me be the candidate," like that. And at the time, I already knew that after this I probably wouldn't be in politics anyway — I was going to prison. "Whoever it is, okay, we can consider it, let's give him the candidacy." So they won, confirmed, Kangar 2018. As fate would have it, I ended up out of politics, so I was generous about it and didn't dwell on it.
 
@@ -570,15 +573,15 @@ Then in 2022, when PKR kept losing and losing — you all also urged me to come 
 
 Coming to the election, I said from the start to PKR leadership, to Dato' Sri Anwar — if you don't like me because I'm outspoken, fine, I am more than willing to resign and walk out and retire from politics. I don't even want it, I'm more than happy to go back to my business and private life. But if you do this and stir things up at the grassroots, destroying the party — I already said this. Because it becomes personal. Because the people at the grassroots work hard, they genuinely contest, and then they feel cheated. That's what happens when the body has no head. Body without a head — and one example is Perlis. What happens, body without a head becomes like that — one person wins, everyone else loses. What's even more interesting about Kangar — he claimed he had problems as if it was because people loyal to me sabotaged him. What he never mentioned — in Perlis, the group he lost to, the losing group there, was to YB Guar Nyaring — YB Guar Nyaring is a strong supporter of Izzah, Sim Zain and that group, never supported me at all. He was fighting with them. What matters to him is just that he didn't win. But all his cronies who lost too — logically he should have lost too. But somehow, by the magic of the blockchain, he alone won while the others lost.
 
-**Interviewer:** So it becomes like this. But because this is the party — what is it? R is Rafizi. Party of Blaming Rafizi. Party's fault. We can say. Party Kesalahan Rafizi. PKR. So everything becomes my fault. Nothing to do with me at all, still my fault. That's the Perlis story. Another crazy story. That was Perlis. Then let's move to your branch, YB. In Pandan. The Women's Chief of Pandan. Said to be your sibling. No photo. She's affectionate. No photo. Her name is Rosiah Ramli.
+**Host:** So it becomes like this. But because this is the party — what is it? R is Rafizi. Party of Blaming Rafizi. Party's fault. We can say. Party Kesalahan Rafizi. PKR. So everything becomes my fault. Nothing to do with me at all, still my fault. That's the Perlis story. Another crazy story. That was Perlis. Then let's move to your branch, YB. In Pandan. The Women's Chief of Pandan. Said to be your sibling. No photo. She's affectionate. No photo. Her name is Rosiah Ramli.
 
 **Rafizi:** Yes.
 
-**Interviewer:** We gave her the name Aisyah. So she was briefly popular. And she's said to have really been your ally before. But how could she turn against you, YB?
+**Host:** We gave her the name Aisyah. So she was briefly popular. And she's said to have really been your ally before. But how could she turn against you, YB?
 
 **Rafizi:** Hmm. Let's have a drink of water first.
 
-**Interviewer:** Ha. Drink water first. Okay. It... it started with the 2022 election too? Open to everyone?
+**Host:** Ha. Drink water first. Okay. It... it started with the 2022 election too? Open to everyone?
 
 **Rafizi:** Open to everyone. Ha. At that time I had already retired from politics for 4 years. I wasn't paying attention to it. So when people urged me to come back, suddenly, oh well, I had to return. I called all the people in Pandan to discuss the 2022 election. And from the start, actually, I never really got involved much in party management at the branch level. I really did leave it and put my trust in the committee, from the deputy branch chief down. They were considered the party elders in Pandan. There were Chinese members, Indian members.
 
@@ -588,7 +591,7 @@ So one of them said, to the then women's chief, "You, no need to hand it to some
 
 So the question arose, who's the candidate this person wants to bring in as the new face? So that man said, "I have a new candidate."
 
-**Interviewer:** Yes.
+**Host:** Yes.
 
 **Rafizi:** I had never known or met Kak Aisyah in my life. Never even seen her in the party the whole time I was in Pandan. But because I respected the advice of these elders, they said that back in the '98 era, she had gone along with her husband and been involved. So we should try her out. Hmm. She's a housewife. She had never really been active in the party. So, out of good faith, I said fine, if that's the decision, go ahead.
 
@@ -616,7 +619,7 @@ She's a housewife who's only been in politics for 2-3 years, given a chance, she
 
 Just, um, if she's not careful, she'll embarrass herself in Pandan. People know me, they don't know her, right? All this time people only knew she existed because of her association with me, right? So suddenly when she does this, people will say, "why are you doing this? We didn't even know you, and now you're doing this, suddenly stepping up. Why don't others step up? Why is it only certain people who can issue these media statements, all the other men?" They picked the women's chief because it's the easy route — "here's the text, we've prepared it, please release it." So honestly, I do feel sympathy for her, but what can you do, that's politics — once you've done it, this is ultimately what it comes to.
 
-**Interviewer:** Okay, that's Pandan. How many more do you want to mention? We might have one more in Selangor and then fly to Sabah, I think. Let's move quickly through Selangor because — but let's go to Kuala Selangor, Tengku Zafrul's former turf, this is quite interesting because what was done to YB in Pandan, the same thing was done in Kuala Selangor when a vote of no confidence against the branch chief happened. And that branch chief lost badly, right? And there's a video of him even fleeing, and so on. He ran away from it. If YB wants to comment.
+**Host:** Okay, that's Pandan. How many more do you want to mention? We might have one more in Selangor and then fly to Sabah, I think. Let's move quickly through Selangor because — but let's go to Kuala Selangor, Tengku Zafrul's former turf, this is quite interesting because what was done to YB in Pandan, the same thing was done in Kuala Selangor when a vote of no confidence against the branch chief happened. And that branch chief lost badly, right? And there's a video of him even fleeing, and so on. He ran away from it. If YB wants to comment.
 
 **Rafizi:** Well, that's what I commented briefly earlier. They arranged all this to embarrass me in Pandan, not realizing it's a double-edged sword. You do that, and in Pandan, I'm strong, that's my turf — you come in to clash and try to cause chaos, maybe, okay, you ambushed us, maybe that day there was an opportunity, but in other branches where the body is now headless because of this, the branch chief who won really has no one behind him, the ones who do have people are those who opposed him.
 
@@ -634,7 +637,7 @@ He himself was the first branch chief to propose sacking Rafizi Ramli, saying th
 
 **Host:** Okay, I think that's enough on what happened there. How many minutes do we have left?
 
-**Producer/Co-host:** It's 35 minutes in, so we have about 5-6 minutes left.
+**Host:** It's 35 minutes in, so we have about 5-6 minutes left.
 
 **Host:** Maybe we should touch a bit on marking one year of PKR's deputy president — the PKR deputy president who might be working from home since we haven't seen her. Aside from her not working from home, what else does YB see, marking her one year?
 
@@ -684,15 +687,15 @@ What's it called — someone told me — the Pematang Pauh Branch Annual General
 
 **Host:** Zafrul's —
 
-**Co-host:** Where?
+**Host:** Where?
 
 **Host:** Zafrul, the one in Terengganu, he followed Datuk Seri Anwar touring the state.
 
-**Co-host:** During the state visit, but there was an officiation too, right?
+**Host:** During the state visit, but there was an officiation too, right?
 
 **Host:** There was too. He's Ampang, right? If it's one he officiated, that's Ampang, right, he really officiated it properly.
 
-**Co-host:** Seventh effector, Abang Ampang.
+**Host:** Seventh effector, Abang Ampang.
 
 **Rafizi:** No, it's not that — meaning he was a VIP invited to officiate. You see, I'm the only one, as the long-time branch chief of a big branch, Pandan. In PKR's ranking, Pandan is considered an influential branch. I'm the only one who never invites anyone, I officiate it myself. And I've never done it in a big hall either — just a regular community hall. I don't want to lecture anyone. So other people usually do the officiation grandly — that's also where I have a slightly different view.
 

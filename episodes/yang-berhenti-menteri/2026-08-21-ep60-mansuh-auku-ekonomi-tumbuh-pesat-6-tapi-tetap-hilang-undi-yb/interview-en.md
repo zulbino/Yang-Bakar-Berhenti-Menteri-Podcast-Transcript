@@ -10,6 +10,7 @@ view_count: 89200
 hosts:
 - Rafizi
 - Haziq
+- Farhan (Pa'an)
 guests:
 - Sum Dek Joe
 topics:

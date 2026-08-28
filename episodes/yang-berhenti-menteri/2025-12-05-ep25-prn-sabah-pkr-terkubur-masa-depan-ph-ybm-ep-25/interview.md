@@ -9,6 +9,7 @@ duration: 2h 36m
 view_count: 108521
 hosts:
 - Rafizi
+- Haziq
 guests:
 - Razeef Rakimin
 - Faizal Rahman

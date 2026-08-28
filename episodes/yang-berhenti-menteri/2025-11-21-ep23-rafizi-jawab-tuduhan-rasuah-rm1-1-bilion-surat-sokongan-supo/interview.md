@@ -10,6 +10,7 @@ view_count: 57939
 hosts:
 - Rafizi
 - Haziq
+- Farhan (Pa'an)
 guests: []
 topics:
 - 'Beria segment: viral clips and news commentary'

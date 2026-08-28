@@ -8,7 +8,10 @@ publish_date: '2026-04-24'
 duration_seconds: 10693
 duration: 2h 58m
 view_count: 195377
-hosts: []
+hosts:
+- Rafizi
+- Haziq
+- Farhan (Pa'an)
 guests: []
 topics:
 - Malaysian politics
@@ -307,7 +310,7 @@ Jadi saya ingat — apa ni, esok? Ya lah, esok kita berdoa seberapa ramai yang h
 
 **Host:** Oh tu play safe eh? Play safe sangat. Terus tanya — apa pandangan... ulang yang warna kuning tu, yang mana?
 
-**Host (lain):** Itu yang kenyataan bersih berkenaan dengan titah Yang di-Pertuan Agong.
+**Host:** Itu yang kenyataan bersih berkenaan dengan titah Yang di-Pertuan Agong.
 
 **Host:** Mana — "Reformasi perhatikan SPRM tubuh RCI segera." Semua tak nak komen.
 
@@ -349,13 +352,13 @@ Jadi saya ingat, kelompongan itulah — yang bila titah Yang di-Pertuan Agong it
 
 **Host:** Jadi YB, sebelum kita tutup, pesanan kepada—
 
-**Host (lain):** Sekejap, saya ada soalan lagi.
+**Host:** Sekejap, saya ada soalan lagi.
 
 **Host:** Hmm, okey.
 
-**Host (lain):** Sebab okeylah, YDPA dah bagitahu yang Azam Baki tidak akan disambung. Tapi takkan dia tutup macam tu je ke esok?
+**Host:** Sebab okeylah, YDPA dah bagitahu yang Azam Baki tidak akan disambung. Tapi takkan dia tutup macam tu je ke esok?
 
-**Interviewer:** Itulah sebab itu, saya baca kenyataan bersih dan adalah pihak media yang duk kejar saya tanya, "So esok macam mana, demo jadi ke tidak?" Kemudian bila sudah ada kenyataan titah daripada Yang Dipertuan Agong itu, adakah bermakna semua ini sia-sia ke apa ataupun... So what is next kan? Kalau tengok daripada hari pertama, kenyataan-kenyataan yang keluar, kemudian himpunan sebelum Tahun Baru China, dan semalam — bukan dua malam yang lepas, grand finale — dan kenyataan bersih semalam kan.
+**Host:** Itulah sebab itu, saya baca kenyataan bersih dan adalah pihak media yang duk kejar saya tanya, "So esok macam mana, demo jadi ke tidak?" Kemudian bila sudah ada kenyataan titah daripada Yang Dipertuan Agong itu, adakah bermakna semua ini sia-sia ke apa ataupun... So what is next kan? Kalau tengok daripada hari pertama, kenyataan-kenyataan yang keluar, kemudian himpunan sebelum Tahun Baru China, dan semalam — bukan dua malam yang lepas, grand finale — dan kenyataan bersih semalam kan.
 
 **Rafizi:** Sebenarnya dia tak berubah langsung. Yang dituntut itu ada tiga tuntutan kan. Satu ialah RCI, supaya siasatan penuh dibuat bukan sahaja mengenai pemilikan saham Tan Sri Azam Baki tetapi juga kepada semua tuduhan-tuduhan yang dibuat, pendedahan setakat ini terutamanya mengenai mafia korporat lah. Dan dalam tempoh dua bulan ini jugalah, daripada pendedahan pertama oleh Bloomberg itu, dia keluar juga — habis dah keluar cerita "next G", tak, "next G"-nya — dan dia dah mula berkait bukan sahaja SPRM tetapi juga AMLA semua kan, Bukit Aman, PDRM. Jadi tuntutan itu evergreen. Bukannya dia selesai dengan menukar ataupun akan ada ketua pesuruhjaya SPRM yang baru, kerana yang menjadi tuntutan rakyat ialah kita nak melindungi integriti dan juga reputasi dan kebebasan SPRM. Jadi yang itu tetap akan dituntut dan diperhatikan oleh rakyat.
 
@@ -363,7 +366,7 @@ Tuntutan yang kedua, sudah tentulah supaya Tan Sri Azam Baki ni turun, kemudian 
 
 Dan tuntutan ketiga ialah reformasi institusi SPRM, iaitu untuk kita menambah baik dan menggilap lagi reputasi SPRM, maka kita kena pastikan pelantikan ketua pesuruhjaya selepas ini mestilah diperbaiki supaya tidak dilihat berada di bawah kawalan pihak eksekutif semata-mata — Parlimen kan?
 
-**Interviewer:** Okey baik, saya tiga empat minit lagi. Ini yang terakhir sebelum kita nak masuk yang seterusnya kan? Ini hujah yang diberikan oleh pihak kerajaan setakat ini mengenai penglibatan parlimen — setiap kali, dan ini terpakai sama ada pelantikan ketua pesuruhjaya SPRM ke ataupun sekarang ini yang dibincangkan, pelantikan public prosecutor, pendakwa raya — pendakwa raya je dia panggil, "pendakwa raya, public source" kita kan. Hujah yang digunakan oleh kerajaan sekarang ini ialah itu bertentangan dengan perlembagaan. Kerana saya tak ingat — kau lawyer kan, kau lawyer — artikel, cek artikel perlembagaan yang menyatakan bahawa Dewan Rakyat, Parlimen itu ialah badan legislatif. Itu artikel berapa?
+**Host:** Okey baik, saya tiga empat minit lagi. Ini yang terakhir sebelum kita nak masuk yang seterusnya kan? Ini hujah yang diberikan oleh pihak kerajaan setakat ini mengenai penglibatan parlimen — setiap kali, dan ini terpakai sama ada pelantikan ketua pesuruhjaya SPRM ke ataupun sekarang ini yang dibincangkan, pelantikan public prosecutor, pendakwa raya — pendakwa raya je dia panggil, "pendakwa raya, public source" kita kan. Hujah yang digunakan oleh kerajaan sekarang ini ialah itu bertentangan dengan perlembagaan. Kerana saya tak ingat — kau lawyer kan, kau lawyer — artikel, cek artikel perlembagaan yang menyatakan bahawa Dewan Rakyat, Parlimen itu ialah badan legislatif. Itu artikel berapa?
 
 **Rafizi:** Itu tak lepas sangat lah, orang ramai sila cek, aku pun dah lupa. Hati ke mana, 40 lebih ke baru lupa lah. Tapi itulah hujah yang selalu digunakan — bahawa tuntutan kami, ahli-ahli parlimen PKR yang 10 orang ni, yang mahukan supaya parlimen dibawa dalam proses pelantikan bermula dengan vetting kandidat oleh jawatankuasa terpilih, kemudian ada undian untuk meluluskan. Selepas diluluskan parlimen lah baru Perdana Menteri bawa untuk dipersembahkan kepada Yang Dipertuan Agong, dan kalau ada sebarang pelanggaran, skandal, kontroversi yang menepati syarat, maka parlimen boleh mengundi usul untuk memecat kan. Tidak — perlembagaan menetapkan Parlimen itu hanyalah sebagai fungsi legislatif. Tindakan melantik dan memecat itu ialah fungsi eksekutif.
 
@@ -371,19 +374,19 @@ Dan hujahnya, parlimen kita ini berbeza dengan parlimen-parlimen lain yang kita 
 
 Dan ketiga-tiga perkara ini adalah satu isu yang akan terus diperdebatkan dan terus dituntut, Tan Sri Azam Baki ni tak jadi ketua Pesuruhjaya SPRM tau.
 
-**Interviewer:** Tapi bila diberi alasan tentang perlembagaan semua itu, memang itu alasannya tak boleh buat sebab...
+**Host:** Tapi bila diberi alasan tentang perlembagaan semua itu, memang itu alasannya tak boleh buat sebab...
 
 **Rafizi:** Itu alasan utama setakat ini. Dan insya-Allah minggu depan saya jadi budak jahat sekali lagi — saya kena kumpul balik budak-budak jahat ini, budak nakal yang fikir, dan menyatakan pendirian itulah, proses pelantikan, vetting semua ni di parlimen sebab itu melanggar perlembagaan, dan kita tambah baik klausa-klausa dan fasal-fasal tertentu dalam perlembagaan lah untuk membolehkannya. Kalau itu hujahnya, sepatutnya akta anti-lompat parti pun tak boleh buat lah, sebab kita pindah kebebasan berpersatuan tu kan. Ya, samalah — yang ini kita pindah lah, yang itu. Jadi tunggu minggu depan, saya akan kumpulkan balik 10 budak hitam. Kan ada lagu tu kan, "10 budak hitam" — pergi jalan-jalan satu, pun dah tinggal lah 8. Tapi insya-Allah 10 budak hitam kami akan kekal lebih... lebih, dia tak macam lagu "10 budak hitam" — jalan-jalan jatuh longkang, tinggal 9, jalan-jalan jumpa rakan, tinggal 8, tinggal 1, tak ada. Kami kekal, tak ada, secukup lah kot.
 
-**Interviewer:** Sejam 20 minit seterusnya. Tapi sebelum itu, rakan-rakan yang menonton — di hujung sekali, macam biasalah, kita akan ada segmen hiburan, iaitu politik. Sebelum itu, saya akan menulis warkah kepada Nurul Izzah — eh, tak ada, "Kanda" tak ada bukan, yang itu Mujahid je buat. Okay. Kita ke yang kedua lah, YB — harap tak boring sikit lah — iaitu isu dasar YB, dan mungkin YB satu-satunya menteri yang selalu bercakap tentang agenda ini, iaitu agenda negara menua. Sebelum go detail YB, waktu YB rangka Rancangan Malaysia Ke-13 yang YB masukkan agenda Malaysia negara menua ni lah — tapi rabun dekat je kan?
+**Host:** Sejam 20 minit seterusnya. Tapi sebelum itu, rakan-rakan yang menonton — di hujung sekali, macam biasalah, kita akan ada segmen hiburan, iaitu politik. Sebelum itu, saya akan menulis warkah kepada Nurul Izzah — eh, tak ada, "Kanda" tak ada bukan, yang itu Mujahid je buat. Okay. Kita ke yang kedua lah, YB — harap tak boring sikit lah — iaitu isu dasar YB, dan mungkin YB satu-satunya menteri yang selalu bercakap tentang agenda ini, iaitu agenda negara menua. Sebelum go detail YB, waktu YB rangka Rancangan Malaysia Ke-13 yang YB masukkan agenda Malaysia negara menua ni lah — tapi rabun dekat je kan?
 
 **Rafizi:** Rabun dekat lah.
 
-**Interviewer:** Tapi orang kata memang bila you dah late 40s, early 50s, memang you rabun dekat lah.
+**Host:** Tapi orang kata memang bila you dah late 40s, early 50s, memang you rabun dekat lah.
 
 **Rafizi:** Okay, okay.
 
-**Interviewer:** Baik YB. So? So apa yang YB perasan sampai YB nak ketengahkan polisi ni? Sebab tak ada siapa — eh, lah, orang lain cakap AI lah, apa semua — YB tiba-tiba cakap sama, "eh, aku pun cakap juga," YB cakap juga. Tapi negara menua ni YB cakap, orang lain ni kita tak dengar sangat lah.
+**Host:** Baik YB. So? So apa yang YB perasan sampai YB nak ketengahkan polisi ni? Sebab tak ada siapa — eh, lah, orang lain cakap AI lah, apa semua — YB tiba-tiba cakap sama, "eh, aku pun cakap juga," YB cakap juga. Tapi negara menua ni YB cakap, orang lain ni kita tak dengar sangat lah.
 
 **Rafizi:** Um... pandangan saya lah kan, pandangan saya ialah dalam — ini bersahabat dengan dasar eh. Okey, inilah yang bezanya, orang duk kata dia jadi menteri ekonomi, apalah dia buat, you know, tak ada kesan semua kan. Saya diberikan kerja yang bosan. Kerja saya ialah untuk melihat ke hadapan, dan kita kena lihat macam mana untuk kita melindungi dan memperkukuhkan masa depan negara terutamanya kepada yang muda-muda. Jadi sebab itu awal-awal dulu saya memang tumpukan kepada perkara-perkara substantif dan struktural — yang orang duk marah lah kan, dia soal macam mana untuk kita menangani subsidi. Saya tak pernah kata kita kena hapuskan subsidi. Okay. Malah kalau tengok dalam konsep lah eh — okay lah, bagi siapa yang berminat lah nak faham sedikit macam mana pendekatan menguruskan negara daripada dasar, dari kacamata Islam kan, antara yang penulisan paling baik ialah Ibn Khaldun kan.
 
@@ -415,23 +418,23 @@ Jumlah orang yang bekerja kan, 15 ke 65% — in fact it's 16 to 65, the internat
 
 So that's kita tahu profil penduduk kita, dan kita tak jauh dah — dia memuncak 2030, dan menjelang selepas itu dia akan menurun, menurun, menurun kan. Now then you ask the next question lah — ni negara-negara menua semua ni, siapa yang pandai, how do you decide? How do you decide negara menua, tak menua ni lah? Dia tengok trend lah sebelum negara menua — menua tu maksudnya dia tengah kat proses tu, then baru dia jadi tua. Yelah, macam mana you nak decide? Contohnya Malaysia sekarang ni tengah menua ke, tua ke, apa. How do you do it?
 
-**Interviewer:** Ada standard.
+**Host:** Ada standard.
 
 **Rafizi:** Dia ada standard dunia. Sebab ini bukan masalah Malaysia je, dia masalah satu dunia. Jadi kategorisasi sama ada negara itu sedang menua, atau telah tua, ataupun sangat tua, itu ditentukan oleh peratusan orang-orang yang berumur 65 tahun ke atas. That's why kita mula tadi tu, kita kena tahu bahawa kita sekarang ni 8%. 8%, eh. Okay, ini standard dia mengikut Bangsa-Bangsa Bersatu, ini mengikut agensi-agensi ekonomi seluruh dunia lah kan. Mana-mana negara yang mana jumlah penduduknya yang berumur 65 tahun ke atas itu melepasi 7%, dia akan dikira sebagai negara yang sedang menua, or an aging society. So once you cross 7%, you are considered as an aging society. So kita sekarang maksudnya, it's an aging society lah — kita dah 8%.
 
 Okay, apabila jumlah orang berumur 65 tahun ke atas ini cross 14% of population, dia jadi negara tua. Bila agaknya kita akan cross 14% ini — aku yang menteri dulu, so kau tak tahu lah kot, ini yang I go through lah. Okay, by population projection, unjuran populasi, kita akan mencecah profil penduduk 14% daripada populasi tu di atas umur 65 tahun ialah pada tahun 2043 kan. Okey. Kat mana dia kata? Memang 2043 lah kan, that's what I recall lah. Cuma, okay, ini unjuran tau, dia akan berubah-ubah setiap tahun bergantung kepada kadar kelahiran dan kadar kematian, dan dia bergantung kepada dasar-dasar kerajaan lah. Yang 2043 ini, I think ini angka dalam tahun 2024 when we were doing it. Itu kata 2048. Eh.
 
-**Interviewer:** 2048?
+**Host:** 2048?
 
 **Rafizi:** Saya ingatnya pada tahun 2043 dulu, so ada latest number lah daripada DOSM. So now 2048 — 2048 maksudnya 22 tahun daripada sekarang. Okay, so itu keadaan dia lah, okay, ini tak boleh lari. Ini kalau kita do nothing — maksudnya kita tak galakkan orang, bukanlah, kecualilah, contohnya, ada dasar yang mengatakan siapa yang anak dua, setiap seorang itu dapat posyek sebiji, anak empat, anak empat, anak lima — kecuali kita ada dasar macam itulah kan. Kalau is business as usual seperti ini, unjuran terkini ialah kita akan cross negara tua itu 2048 lah.
 
 So I think itu settle. So maksudnya kita hanya ada 22 tahun sahaja sebelum perkara itu berlaku. The next question we should ask begini — kalau orang luar dah bosan, "apalah dia membebel pasal orang tua, pasal orang tua, pasal orang tua" — okay...
 
-**Interviewer:** So,
+**Host:** So,
 
 **Rafizi:** The next question we should ask is, actually, if we become an aging nation and now we are in the process towards that, with only 22 years left, what's actually the impact on our country that makes you all fuss so much about it? So, apa kesan dia? Production jadi rendah.
 
-**Host (Haziq?):** Production apa? Production anak?
+**Host:** Production apa? Production anak?
 
 **Rafizi:** Productivity negara.
 
@@ -499,21 +502,21 @@ Kemudian kita akan ada masalah apa nama ni — pension. Kita ambil pensyen keraj
 
 **Rafizi:** Mana ada six months? Much earlier kan? That's what I mean. Much earlier, much earlier. Cuma they keep it secret but they pull all the resources in the world untuk build basically mitigation plan lah, the arc lah. So dia nak slowly tiba-tiba ada lottery lah, hari itulah, gini-gini kan. So maksudnya sekarang kita dah tahu kalau tak berhati-hati ada asteroid ni, katakanlah semua komponen dalam masyarakat kita bersetuju bahawa akan ada asteroid ni kan, masalahnya bersetuju saja goyang kaki and then business as usual pun tak boleh kerana kita hanya ada 22 tahun dan dasar-dasar yang perlu dibuat untuk memperbaiki, siap sediakan kita mengatasi masalah ini semua ini akan dibenci oleh rakyat. Itu kebimbangan utama saya — kalau orang dalam PKR ke dalam kerajaan yang selalu hentam aku kata dia ingat dia seorang je betul, I mean faks adalah fakta. Hanya kerana anda tidak berani ataupun anda tidak mahu memberitahu kebenaran dan mengambil langkah-langkah yang sukar, janganlah marah aku. Saya mempunyai tugas. Tugas saya adalah untuk mengatakan sebenarnya kalau kita berterusan macam ini, kita hidup senang. Tapi budak-budak yang umur 15-20 tahun ini, dia memang seksa hidup dia. Sebab pada masa itu, pertumbuhan ekonomi kita dah plato. Tenaga kerja kita dah menurun. Dan pada masa yang sama dia kena tanggung kita yang tua-tua ni. So cukai dia lebih tinggi, they have to be penalized and pay for all of us. So lebih baik kita buat benda itu daripada sekarang, terutamanya dasar-dasar yang walaupun nampak susah dan tidak selesa kerana dia akan mengubah gaya hidup dan juga keseluruhan masyarakat. Terima kasih — akan ada sebahagian besar masyarakat dan orang ramai yang faham lah. So, there are certain things lah. I think kita nak kena proceed lah kan. Kalau aku teruskan ni, nanti dia jadi orang kata, kau dah bukan menteri ekonomi, kau bising-bising tu kenapa? Certain things saya boleh sebut terus lah. Dua tiga benda yang memang tak selesa.
 
-**Interviewer:** Okay.
+**Host:** Okay.
 
 **Rafizi:** Yang pertama ialah dari segi umur persaraan. Kita tak boleh selesaikan semuanya dengan... because you know, the problem is the workforce is shrinking, kan? Sebab orang yang tua tu makin ramai. So the group, the workforce tu daripada 70% sekarang ni, dia akan turun sampai 65% — of population is shrinking kan? So what you do is that you kena naikkan umur persaraan tu. Sekarang ni 60 kan. Mungkin nak naik terus ke 65, mungkin payahlah. So you kena naikkan — 60, 62, mungkin 65. Tapi kalau orang kita, terutamanya yang muda-muda ni lah, Gen X ke, sebut sahaja tingkat persaraan makin hamun lah — you fikir pasal dia je. But it is for your own sake that we need to enlarge, supaya our economic capacity continue its momentum lebih awal daripada yang sepatutnya. Jadi itu satu perkara yang sangat tidak popular tetapi kita perlu melakukannya.
 
 Kedua ialah untuk kita memastikan bahawa tenaga kerja itu kena mula lebih awal lah. Sebab itu kita kata dalam RMK 13, dan itu juga bertepatan dengan kehendak pendidikan — sebenarnya tempoh yang paling penting ialah umur 4, 5, 6. So start umur 6 tahun supaya umur 16 tahun tu dia dah habis, dan 17 dia dah boleh join workforce. And we are hoping kalau kita ada dual system — satu yang pergi universiti semua ni, umur 20 sebenarnya dia dah boleh jadi tenaga kerja. Yang umur 16 tu, yang satu lagi aliran kemahiran, umur 17 dia start kerja dah atas pengalaman kerja dia. So that helps you push the workforce age limit tu ke atas dan juga ke bawah. So it helps memperlahankan the drop in the workforce. Tidak selesa, orang marah.
 
-**Interviewer:** Apa lagi yang boleh kita buat untuk memastikan workforce kita ini, percentage dia out of population itu tidak shrink cepat?
+**Host:** Apa lagi yang boleh kita buat untuk memastikan workforce kita ini, percentage dia out of population itu tidak shrink cepat?
 
 **Rafizi:** Kita ada golongan yang selama ini tak kerja ataupun selalu disinonimkan tidak bekerja. Mungkin kita kena bagi incentive untuk mereka bekerja juga.
 
-**Interviewer:** Contoh?
+**Host:** Contoh?
 
 **Rafizi:** Perempuan.
 
-**Interviewer:** Yes, okay.
+**Host:** Yes, okay.
 
 **Rafizi:** Itu — oh, ini dah boleh jadi Menteri Ekonomi lah ni kot, kau baca tadi kan. So kita sebenarnya yang potensi yang kita ada — yang ketiga ialah kita kena meningkatkan kadar penyertaan wanita di dalam sektor kerja, dalam tenaga kerja. Kita sekarang 60% plus, I think. Dan kita kena push above 70% plus. Masalahnya wanita nak kerja ni, bukan saja dalam masyarakat kita lah, dalam banyak masyarakat yang lain, dia ada kekangan. Dia kena jaga anak, dia jadi suri rumah — banyak yang berkemahiran, berpendidikan, semua ni, they have to make that difficult decision. And I'm one of the family that made that decision lah — saya buat keputusan kita jadi single earner punya family sebab she needs to raise our son. Jadi my wife, contohnya, ialah salah satu daripada statistik yang sepatutnya dia bekerja lah. Ada orang dia kena buat perkiraan — dia lebih murah sebenarnya kalau ibu itu tidak bekerja, walaupun dia ada kelayakan, dia boleh buat macam-macam, because childcare mahal semua ni kan. Nak hantar pengasuh, tadika, semua mahal kan. So dia bukan je lah semata-mata sebenarnya soal insentif bagi dia orang kerja. Sebab dia tak bekerja, itu bukan sebab dia malas, Haziq. Kau cara cakap tu bagi dia insentif, duit, suruh dia kerja — soal-soal dia malas. It's not. Dia tak malas, tak malas. Because the cost-benefit analysis is that it cost a lot more if they work. Sebab childcare lah, itu semua kan. So what you need to do — kita kena make sure tenaga kerja kita ialah conducive untuk ibu-ibu bekerja. Dia soal childcare, dia soal flexi hours, dia soal work from home kan. Supaya mereka ini juga boleh bekerja dan pada masa yang sama bukan diketepikan tanggungjawab untuk membesarkan anak-anak.
 
@@ -521,49 +524,49 @@ Kemudian yang tak kurang pentingnya — benda-benda itu pun tak selesa. Rakyat m
 
 Dan yang keempat lah yang perlu dibuat ialah selepas persaraan — katakanlah umur 62, 65 tu mengikut akta pekerja kita lah, dia 65 tu dia dah boleh bersara, dan bersara lah kan. Masalah ekonomi kita, lepas dia bersara tu, dia nak masuk kerja balik, tak ada undang-undang lah. So majikan kata, kita tak ambil orang tua ni sebab undang-undang memang tak bagi. Dan kalau dia nak ambil pun, then tak ada undang-undang untuk define apa hak dia, di mana, berapa lama, semua kan. So satu, kita kena fix undang-undang. Second, kita juga nak kena pastikan bahawa majikan-majikan itu — sama ada insentif ataupun bentuk-bentuk kerja yang boleh mengambil orang pencen, orang tua lah kan. Sekarang ini kerja-kerja itu tak ada, tak banyak yang ada, kerana kerja-kerja ini semuanya dibangunkan oleh sistem ekonomi kita untuk orang-orang muda. Sebab itu bila umur dia 40, 50, majikan macam tak nak sangat — sebab majikan tak nak itu kerana memang betul lah, bila dia lebih tua, dia kurang produktif sikit lah, dan pada masa yang sama gaji dia itu dah tinggi. So again, polisi dasar itu mesti diubah untuk memastikan bahawa majikan tahu bahawa saya tidak akan menanggung beban yang kerajaan bagi. Ini tugas kerajaan jaga orang tua sebenarnya — yang kau bagi kat aku kenapa, kan? So sebab itu, then government has to come in. In what way? Do you incentivize? Do you make sure that there are certain jobs yang kalau hire pesara, then you get a tax credit, contohnya lah. Ada banyak cara nak buat, tetapi dia tak boleh dengan berharap majikan, pihak swasta, tanggung beban kerajaan dan masyarakat itu.
 
-**Interviewer:** Okay, now — semua ini, do you think boleh dibuat dalam tempoh 22 tahun macam itu je?
+**Host:** Okay, now — semua ini, do you think boleh dibuat dalam tempoh 22 tahun macam itu je?
 
 **Rafizi:** It has to start now. Sebab semua ini orang marah — buat yang ini majikan marah, buat yang itu orang tua marah. Kemudian orang tua pula lah yang pencen, takkan dia nak kata, "eh aku kan dah pencen, takkan kau nak suruh aku kerja balik," kan. Okay, now, when you look at all this, dia bukan sahaja program dan dasar yang dibuat setiap satu tu kan, but it goes even much higher daripada itu — iaitu, pergantungan kepada pekerja asing. Sebab itu saya konsisten kata, dan walaupun ramai tak bersetuju, lah, dari — Alhamdulillah kerajaan terima yang saya tinggalkan dalam RMK 13 itu — iaitu kita tak boleh dah nak business as usual dari satu tahun ke satu tahun masih lagi ambil pekerja asing. We must work — kita mestilah meletakkan sebagai agenda nasional untuk mengurangkan pekerja asing dari satu tahun ke satu tahun. So the target goes down daripada 15% daripada total workforce sekarang kepada 10% menjelang 2030, kepada 5% menjelang 2035. Sebabnya bila kita dah tak ada pekerja asing, maka nak tak nak kita kena ambil pekerja tempatan. Ada yang within working age semata-mata, umur 16 ke 65 ni semata-mata pun tak cukup. Jadi akhirnya majikan, masyarakat, kita terpaksa adjust. Ambil contoh yang baik lah — contoh yang baik kan? Sampai bila kita nak bergantung kepada pekerja-pekerja asing, terutamanya daripada Bangladesh, untuk jadi penghidang makan kita dekat kedai mamak semua? Sampai bila? You go to many countries in the world, dia tak ada penghidang server macam tu tau — order, orang datang tu tak ada, dia sama ada ambil sendiri ataupun yang serve itu sama ada budak ataupun orang tua. Sekarang ini majikan memang tak nak lah, sebab dia kata, "ala, ambil orang tua ni dia tak boleh kerja banyak-banyak sangat, ataupun ambil budak tempatan ni lepas ni dia lari lah. Sebab itu saya nak ambil pekerja daripada Bangladesh — dia duduk, tidur, makan minum atas tu, dia kerja 18 jam sehari, dia tak lari, dah 3 tahun senang hidup saya." Saya faham, saya pemajikan, saya pun ada F&B — memang betul, memang kalau ikut senangnya macam itulah. Tetapi the cost to society is a lot higher. Sama jugalah orang kita pun kena terima lah — at some point sebenarnya, kita kena mungkin serving sendiri. Kita kena biasa sebenarnya yang ambil order tu orang tua, dia kerja 4 jam sehari untuk shift ini. Yang itu yang kita cuba dekat kedai kopi kami — bukan aneh, kalau Aci lah kan, Aci tu umur 60 lebih kan, so kita ambil orang tua untuk jadi cleaner semua lah kan. Ada suri rumah yang dia masuk 4 jam sahaja untuk dia kopek bawang lah. So memanglah susah, operasi tu susah, tak semudah F&B yang lain. Dan memang aku berpeluh tiap-tiap bulan tengok, alamak, habis duit bayar gaji kan. But itulah yang kita kena terima sebagai society, because we can no longer afford semua ni lah kan.
 
 Jadi semua ini bukan sahaja perlukan penyesuaian daripada dasar kerajaan, tetapi dia perlukan penyesuaian penerimaan daripada orang ramai, daripada masyarakat dan daripada bisnes dan ekonomi. Dan itu sesuatu yang kita tak boleh buat dengan hanya sembang dengan mulut sahaja. Ia adalah misi nasional yang sepatutnya bermula daripada sekarang. Malangnya tak ada lagi lah, dan ini yang saya baca lah kan — sebenarnya agenda negara menua ni, National Aging Blueprint ni, sebenarnya Kementerian Ekonomi dah siapkan tahun 2024. Dan kita memang akan bentangkan kertas putih di parlimen supaya ahli parlimen negara semua tahu, dan kita align semua ini sebagai national mission. Tapi politik — kita dah bentang, dah dapat kelulusan, tapi bila sampai nak bawa ke parlimen dan nak laksanakan, ada suara-suara kata, "ya, ini kenapa Kementerian Ekonomi buat ni? Yang ni patut kami buat ni." So tertangguh-tangguh dua tahun, sampai sekarang tak bergerak benda tu. Jadi dalam kerajaan ni kerja gila tau. Ini saya harap lah pimpinan-pimpinan kanan politik dan juga kementerian ni kan — janganlah duk berebut cerita kredit ni. Orang tak dapat apa pun daripada itu. Dia bukan macam swasta — swasta kalau KPI bagus dapat bonus satu tahun. Dalam kerajaan ni, KSU ke ataupun menteri ke, prestasi bagus macam mana, gaji aku macam tu lah, tak ke mana. Jadi sepatutnya kalau dah ada orang buat dan dia nak buat betul-betul, then you tepuk tangan lah, bagus lah, kita sokong lah. Tapi ada saja orang kot belakang pergi cucuk — "yang ini kenapa Kementerian Ekonomi? Oh, ni bawa ke sini dulu." Jadi lama-lama sampai aku resign. Sedangkan paper tu, masa aku resign tu, dah dekat setahun telah dibentangkan dan diluluskan. Cuma nak bawa dan nak hebahkan saja — ada orang takut Kementerian Ekonomi dapat kredit nanti. "Yang ini bahagian kami ni, kenapa pula dia nak cerita pasal kesihatan? Kenapa dia nak cerita pasal sosial?" Memanglah namanya Kementerian Ekonomi, dia cover semua kan. Jadi saya baca — kalau ikut terkini, Kementerian Ekonomi kata akhirnya akan dibentangkan dalam tahun 2026. Jadi kita tunggulah. Saya harap dibentangkan secepat mungkin kerana kita dah makin kehilangan masa.
 
-**Interviewer:** Baik. Kita tunggu akan dibentang atau tidak. Kita dah 2 jam 10 minit.
+**Host:** Baik. Kita tunggu akan dibentang atau tidak. Kita dah 2 jam 10 minit.
 
 **Rafizi:** Tengok pilihan raya dulu — lagi tak bentang, lagi tak bentang.
 
-**Interviewer:** I think kita ada 2 lagi. Dan kita dah 2 jam 10 minit. So I think kita skip yang seterusnya. Kita terus pergi kepada cerita cinta-cinta PKR lah.
+**Host:** I think kita ada 2 lagi. Dan kita dah 2 jam 10 minit. So I think kita skip yang seterusnya. Kita terus pergi kepada cerita cinta-cinta PKR lah.
 
 **Rafizi:** Oh.
 
-**Interviewer:** Baik-baik. Dengan segala hormatnya dipersilakan — soalan yang ketiga, iaitu perang media sosial PH-BN-PN ni, next week lah.
+**Host:** Baik-baik. Dengan segala hormatnya dipersilakan — soalan yang ketiga, iaitu perang media sosial PH-BN-PN ni, next week lah.
 
 **Rafizi:** Ya betul.
 
-**Interviewer:** Tapi orang nak tahu pasal selepas satu tahun PKR mengadakan pemilihan, semua huru-hara — salah Rafizi? Betul, salah YB? Tak pernah salah orang lain?
+**Host:** Tapi orang nak tahu pasal selepas satu tahun PKR mengadakan pemilihan, semua huru-hara — salah Rafizi? Betul, salah YB? Tak pernah salah orang lain?
 
 **Rafizi:** Okay, kita tengok. Pernah lah salah Rahmanan. Pernah salah Rahmanan.
 
-**Interviewer:** Kita jemput tetamu-tetamu ni untuk menjelaskan sendiri. Kita ada ramailah YB, dan kita akan petik mungkin satu cabang ke satu cabang — ini konteks lah kan.
+**Host:** Kita jemput tetamu-tetamu ni untuk menjelaskan sendiri. Kita ada ramailah YB, dan kita akan petik mungkin satu cabang ke satu cabang — ini konteks lah kan.
 
 **Rafizi:** Oh, ni yang kau susun semua tu, semua headline-headline pasal PKR kebelakangan ini lah. Dan saya rasa benda ni berlaku sebab sekarang ni musim mesyuarat agung tahunan cabang. Jadi dekat setiap cabang ni macam-macam ragam lah kan.
 
-**Interviewer:** Jadi mungkin...
+**Host:** Jadi mungkin...
 
 **Rafizi:** Tak, tak. Ya, inilah aku nak potong awal-awal lah kan. Ya, saya baca lah kan, lepas satu, satu, lepas satu, satu kan. Aku gelak je kan, sebab kebetulan Pandan antara cabang yang paling awal buat.
 
-**Interviewer:** Ha, ya betul.
+**Host:** Ha, ya betul.
 
 **Rafizi:** Dan dekat Pandan tu lah ada pencatur-pencatur yang susun semua ni — dia nak malukan aku kan. Padahal kami menang besar. Dan aku memang kedekut lah — kalau Mesyuarat Agung Tahunan Cabang kat Pandan tu, memang aku buat dekat dewan orang ramai kecil macam tu lah. Jadi untuk mencukupkan syarat untuk difailkan kepada Pendaftar Pertubuhan, ROS, kan, dia pun ambush susun untuk buat undi tidak percaya, kononnya nak pecat kan — kalah lah kan. Tapi dia tak sedar bila dia buat macam itu, dia bagi idea dan dia menghalalkan benda yang sama berlaku di mana-mana. Sebab masa benda itu berlaku, pimpinan parti tak ada seorang pun yang kata jangan buat benda itu — sebab masa itu yang disasarkan itu Rafizi, semua orang dalam hati tepuk tangan. Dia tak sedar sebenarnya bila benda itu dah jadi norma, dia dibuat di semua tempat cabang lain. Jadilah macam ini, selepas satu-satu-satu.
 
-**Interviewer:** So kita nak mula dengan mana dulu?
+**Host:** So kita nak mula dengan mana dulu?
 
 **Rafizi:** Mungkin kita mula dengan utara tanah air. Kita termulakan dari Kangar. Memang hater aku lah kan.
 
-**Interviewer:** Haa, hater.
+**Host:** Haa, hater.
 
 **Rafizi:** Okay, hater lah. Aku pun tak faham. Itu satu lagi nasihat kepada orang ramai, orang-orang yang nak jadi ahli politik ke apa kan — buatlah semua itu berpada-pada, jangan sampai malu mata dan bakar jambatan. Ini kes macam Noor Amin Ahmad ni lah.
 
-**Interviewer:** Okey, baby. Ni Kangar ni kan, apa cerita? Cerita dia, cabang Kangar bergolak — sekumpulan 15 AJK PKR didakwa letak jawatan.
+**Host:** Okey, baby. Ni Kangar ni kan, apa cerita? Cerita dia, cabang Kangar bergolak — sekumpulan 15 AJK PKR didakwa letak jawatan.
 
 **Rafizi:** Kemudian dia jawab tu, dia jawab lah — dia kata ni semua berlaku sebab pimpinan-pimpinan pro-Rafizi. Ya, pro-Rafizi. Saya boleh lihat — tak aktif sejak menang. Dan Noor Amin ni sebenarnya, masalahnya bila sudah telajak. Ia berkaitan dengan — saya yang pergi jemput dia dan beritahu dia dia jadi calon untuk 2018 tu. PKR mana pernah menang Kangar. PAS tak pernah menang Kangar. Kangar tak pernah jatuh kepada pembangkang semua itu. So tak ada orang lah yang percaya yang Kangar tu boleh jatuh. Tapi yalah, kita pun panggil lah dia, kita campaign lah untuk dia — aku turun Kangar berperi. Betul kan? Betul. Jadi dia menang. Dia menang, mulanya tu tak ada apa kan, sebab bila dia dah menang aku tak kacau lah, ikut suka lah semua kan. Di Kangar tu semua yang aku letak calon semua menang. Dia menang, kemudian ada dua-tiga DUN PKR menang kan — yang Indera Kayangan, Guar Nyaring memang menang lah, memang menang sebelum itu pun. Kemudian DUN Sena, Sena Asrul pun menang. Kemudian DUN Kuala Perlis — itu semua tu yang aku letak. Kalau calon untuk Kuala Perlis, Azam tu kan, sebenarnya kita dah ada calon lain. Aku ingat lagi masa itu, lepas satu program dekat — eh, bukan Kuala Perlis — dekat KL Selangor Chinese Assembly Hall, lah, ada satu forum, dalam tahun 2018, beberapa bulan sebelum pilihan raya kan. Sebab dia bukan ada di Perlis sangat pun, dia dulu kerja kapal, dia banyak duduk kat luar pun kan. Kita dah ada calon lain, ya. Dia datang tunggu sampai pukul 12 malam, aku keluar tu, tunggu kat kereta — "tolonglah bagi aku jadi calon, tolonglah bagi aku jadi calon," kan tu, haa. Dan aku masa tu, aku pun dah tahu aku lepas ni bukan jadi dari politik pun — saya ke penjara kan. "Siapa-siapa yang tu, ni okey lah, kita boleh pertimbang, bagilah calon." Jadi dia orang menang, sah tau, Kangar 2018. Ditakdirkan aku pun dah tak jadi dalam politik lah, so aku besar hati dan tak ambil pot kan.
 
@@ -633,7 +636,7 @@ Sendiri yang menjadi ketua cabang pertama yang mengusulkan untuk memecat Rafizi 
 
 **Host:** Okay, saya rasa cukup lah kita tengok apa yang berlaku. Kita ada berapa minit lagi?
 
-**Producer/Co-host:** Jam 35 minit, ok tinggal 5-6 minit lagi lah.
+**Host:** Jam 35 minit, ok tinggal 5-6 minit lagi lah.
 
 **Host:** Mungkin kita sentuh sikit mengenang timbalan presiden PKR setahun — timbalan presiden PKR yang mungkin work from home sebab kita tak nampak dia. Selain daripada dia jangan work from home, apa lagi yang YB nampak lah untuk mengenang setahun dia?
 
@@ -683,15 +686,15 @@ Apa nama ni, ada orang beritahulah — Mesyuarat Agung Tahunan Cabang Pematang P
 
 **Host:** Zafrul punya —
 
-**Co-host:** Kat mana?
+**Host:** Kat mana?
 
 **Host:** Zafrul tu yang kat Terengganu, dia ikut Datuk Seri Anwar pergi menjelajah negeri.
 
-**Co-host:** Ketika negeri lah, tapi ada perasmian juga, kan?
+**Host:** Ketika negeri lah, tapi ada perasmian juga, kan?
 
 **Host:** Ada juga. Dia Ampang lah, kan? Kalau yang dia merasmikan, dia Ampang lah, kan, dia merasmikan dia betul-betul.
 
-**Co-host:** Efektor ketujuh, Abang Ampang.
+**Host:** Efektor ketujuh, Abang Ampang.
 
 **Rafizi:** Tak adalah dia — maksudnya dia VIP yang dijemput untuk merasmikan. You see, aku seorang je sebagai ketua cabang yang lama dan cabang yang besar, Pandan, kan. Kalau dalam PKR, ranking PKR, Pandan ni kira cabang berpengaruh lah, kan. Aku seorang je tak pernah jemput siapa-siapa, aku sendiri yang rasmikan. And then aku tak pernah lah buat dekat dewan besar semua ni — dia dewan orang ramai, biasa je. Aku tak nak ajar. Jadi orang lain tu selalunya perasmian — itu juga yang aku berbeza pandangan sikit lah.
 

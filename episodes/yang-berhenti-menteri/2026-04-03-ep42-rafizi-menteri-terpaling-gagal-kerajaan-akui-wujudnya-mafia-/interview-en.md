@@ -10,6 +10,7 @@ duration: 2h 59m
 view_count: 180819
 hosts:
 - Rafizi
+- Haziq
 - Farhan (Pa'an)
 guests:
 - Zikri Kamarulzaman

@@ -10,6 +10,7 @@ view_count: 155344
 hosts:
 - Rafizi
 - Haziq
+- Farhan (Pa'an)
 guests:
 - Tang Hong Yau
 - Dato' Dr. Samsu Adabi Mamat
