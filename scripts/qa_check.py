@@ -72,9 +72,19 @@ MAX_BLOCK_CHARS = 20_000  # a single real speaker turn is never this long
 # verdict per episode in data/qa_reviewed.json, never by widening this rule.
 MAX_BLOCK_SECONDS = 1200
 
-# A roster member holding less than this share of the text is present in name only:
-# their turns are sitting inside somebody else's block. 0% means no label at all.
-MIN_ROSTER_SHARE_PCT = 1.0
+# Fire on a roster member with NO label at all, not on a small share.
+#
+# A 1% threshold looked reasonable and was wrong. It flagged ep33 and ep49, whose Farhan
+# turns are complete coherent questions ("Sorry, saya ada a bit of a soalan tambahanlah.
+# Sebagai layman...") in episodes diarized into 447 and 316 blocks -- he is simply quiet,
+# being the producer. It then flagged ep44's Farhan at 0.9% immediately after the repo
+# owner confirmed that label from the video. A co-host who really does speak 1.6 minutes
+# in a three-hour episode is correctly labelled, not defective.
+#
+# Zero is the honest signal: the roster says they took part and the transcript gives them
+# nothing, so their words are inside somebody else's block. Where a tiny share IS a
+# symptom, the episode is collapsed and `oversized-block` already flags it -- ep41's
+# Farhan sits at 1.0 min but its 48-minute block keeps the episode on the list.
 
 # 1.11's objective test for whether an oversized block is a real defect, applied
 # here instead of being left to prose. The bug this check was written for is
@@ -344,9 +354,8 @@ def unlabelled_roster_members(ep_dir, body, duration):
     for person in people:
         first = person.split()[0].lower().strip("'")
         held = sum(sec for label, sec in totals.items() if first in label.lower())
-        pct = 100 * held / total
-        if pct < MIN_ROSTER_SHARE_PCT:
-            missing.append((person, held, pct))
+        if held == 0:
+            missing.append((person, held, 100 * held / total))
     return missing
 
 
@@ -553,8 +562,8 @@ def check_episode(ep_dir):
     for person, held, pct in unlabelled_roster_members(ep_dir, body, duration):
         issues.append((
             "unlabelled-host",
-            f"{person!r} is on interview.md's roster but holds {pct:.1f}% of raw.md "
-            f"({held // 60}m) -- their turns are inside another speaker's blocks",
+            f"{person!r} is on interview.md's roster but has no label at all in raw.md "
+            "-- their turns are sitting inside another speaker's blocks",
         ))
 
     rep_spans = repetition_loops(body)

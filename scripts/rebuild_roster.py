@@ -106,11 +106,12 @@ PRESENT_UNLABELLED = {
     # Farhan (Pa'an): same bar
     "ep23": ["Farhan (Pa'an)"],   # "Ya Paan, nak tanya apa?"
     "ep39": ["Farhan (Pa'an)"],   # "apa nama ni Farhan sebut tadi"
-    "ep43": ["Farhan (Pa'an)"],   # "Pa'an nak tanya"
-    "ep44": ["Farhan (Pa'an)"],   # "Kalau ikut Pa'an lah"; "Pa'an takut"
     "ep55": ["Farhan (Pa'an)"],   # "Pa'an yang takut dah"
     "ep60": ["Farhan (Pa'an)"],   # "Pa'an kena check lah betul-betul"
-    # both, and ep45 has three participants for two identifiable voices
+    # ep43 and ep44 removed 2026-08-28: both were re-cut at turn level, so Farhan holds
+    # 26 and 16 labelled turns of his own. ep44's identity was confirmed by the repo owner
+    # from the video after the voiceprint returned UNRESOLVABLE on 7-second turns.
+    # both
     "ep36": ["Haziq", "Farhan (Pa'an)"],   # "sebab Haziq dah pakai"; "kita dah set 8 Mac kan, Pa'an kan"
     # ep45 removed 2026-08-28: Haziq now holds 55 labelled turns of his own after
     # scripts/reattribute_blocks.py re-cut the collapsed blocks, so he no longer needs
