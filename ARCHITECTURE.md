@@ -159,6 +159,21 @@ python scripts/relabel_speakers.py ep36 "Cincong=Rafizi" "Rafizi=Cincong" --dry-
 After relabelling `raw.md`, regenerate the rewrites rather than renaming inside them:
 `interview*.md` label sets drift from `raw.md` in ways no mapping can express (1.27).
 
+**Every regeneration needs the same three steps after it.** The metadata stage rewrites
+`hosts`/`guests` from scratch and reverts speaker labels to `Rafizi Ramli` each time, so
+skipping these silently undoes work:
+
+```bash
+python scripts/rebuild_roster.py --write            # hosts/guests, incl. presence calls
+python scripts/normalize_speaker_labels.py --write  # short-name convention in the bodies
+python scripts/build_episode_index.py               # EPISODES.md
+python scripts/qa_check.py                          # then read QA_CHECKLIST.md
+```
+
+Regenerate several episodes as separate OS processes rather than sequentially or in
+threads: six episodes took 33 minutes in parallel against 26 minutes *each* in series, and
+`lib_claude_rewrite` keeps the current model in module-level state that would interleave.
+
 ```bash
 python -c "import sys; sys.path.insert(0,'scripts');   from transcribe_episode import process_rewrite;   process_rewrite('KYJN-OhRdEA', force=True, rewrite_engine='claude')"
 ```
@@ -254,7 +269,7 @@ reference to what the person said earlier in *that* episode ("yang Haziq sebut t
 passing third-person mention is not enough, and absence is recorded just as carefully --
 ep46 and ep50 say outright that Haziq was away ("Haziq tak ada so kita cover lain lah"),
 which is exactly where the stand-ins appear. The per-episode calls live in
-`PRESENT_UNLABELLED` in `data/_roster.py`, each with the line that justifies it.
+`PRESENT_UNLABELLED` in `scripts/rebuild_roster.py`, each with the line that justifies it.
 
 **A speaker label names the person, so it uses their real name even when the show only
 ever uses a nickname.** ep36's guest is called `Cincong` throughout the audio and is
