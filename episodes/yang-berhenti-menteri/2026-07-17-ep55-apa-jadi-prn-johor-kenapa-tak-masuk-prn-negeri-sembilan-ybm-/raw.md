@@ -8,10 +8,23 @@ duration_seconds: 10624
 duration: 2h 57m
 view_count: 155344
 model: mesolitica/malaysian-whisper-medium-v2
-note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2
-  with VAD chunking. Speaker turns are labeled via pyannote.audio acoustic diarization
-  (anonymous "Speaker N" labels, not yet mapped to real names). See interview.md for
-  the polished newspaper-style rewrite.
+note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
+  Speaker attribution was rebuilt on 2026-08-28 at turn level by
+  scripts/reattribute_blocks.py. The original diarization had collapsed, leaving at
+  least one cast member with no label at all, so pyannote was re-run with an exact
+  speaker count from the roster and the existing text re-cut against it WITHOUT
+  re-transcribing. The transcript text is byte-for-byte unchanged; only speaker
+  boundaries moved. 268 blocks became 343 turns.
+  Recurring hosts were identified by voiceprint (scripts/verify_speaker_voiceprint.py);
+  guests by word overlap with the previous attribution
+  (scripts/map_clusters_to_old_labels.py), which is reliable for them because guest
+  labels were the part of the old file that had not collapsed.
+  Note on names: "Ubat" in this episode is Tang Hong Yau''s nickname, confirmed by the
+  repo owner, not the Malay word for medicine. All 17 occurrences here are the person;
+  the 28 in other episodes are the ordinary word ("ubat gigi", "makan ubat") and were
+  left alone. The turn at [16:05] was split by hand on the owner''s reading, and
+  "harap pelamin" corrected to "arak pelamin" there.
+  interview*.md still carries the older attribution.'
 ---
 
 # Raw Transcript
@@ -32,11 +45,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [01:26] Rafizi: ni takut-takut kat aku tau. Memang, saya takut. Ceramah, beranilah sikit lah. Asal
 
-[01:31] Speaker 4: YB
+[01:31] Multiple speakers: YB
 
-[01:32] Speaker 4: tak ada ke depan?
+[01:32] Multiple speakers: tak ada ke depan?
 
-[01:34] Speaker 4: Kalau saya ada, dia takut-takut lah.
+[01:34] Multiple speakers: Kalau saya ada, dia takut-takut lah.
 
 [01:36] Haziq: Sila, sila, sila. Okey, baik. Kita ada empat orang YB. Dan yang pertama, sudah pasti kita ada Ya betul. Muka
 
@@ -98,7 +111,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [04:33] Haziq: post-mortem tu untuk orang mati
 
-[04:34] Speaker 4: oh ok oh itu sebenarnya
+[04:34] Multiple speakers: oh ok oh itu sebenarnya
 
 [04:37] Haziq: kan post-mortem beda orang mati lah kan beda siasat
 
@@ -106,7 +119,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [04:41] Haziq: ke beda
 
-[04:43] Speaker 4: mati betul mati sebut post-mortem aku bukan post-mortem
+[04:43] Multiple speakers: mati betul mati sebut post-mortem aku bukan post-mortem
 
 [04:47] Haziq: kita akan refleksi Dan kemudian kita akan tengok ke pihak R&D ke-9, Melaka dan way forward lah. Tapi sebelum itu, kita akan ada beriamat sedikit lah. Jadi kita minta panelis-panelis kita bersedia untuk rate lah yang mana satu yang paling beria. Kita cuba eh, kita tengok minggu ni macam mana. Okay, baik. Yang pertama, besar pertama bukan politik lah. Kita ada... Siapa letak gambar semua tu?
 
@@ -128,7 +141,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [06:55] Rafizi: Ini kebarang kalian curi barang sebab perut ni mungkin orang lelaki lagi tinggi.
 
-[07:05] Speaker 4: Jadi
+[07:05] Multiple speakers: Jadi
 
 [07:07] Rafizi: untuk berlaku adil kepada abang yang buat kerja, macam mana nak check orang curi barang ke tidak? Mungkin sebabnya memang pernah berlaku kejadian. Ya betul. Orang curi barang dengan sembunyi dalam perut lah. So macam mana nak check ni lawyer yang ada ni doktor?
 
@@ -136,7 +149,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [07:40] Rafizi: Tapi scanner tu bukan... Ada scanner kan? Sepatutnya dia boleh scanner scan je kan? Ke ada barang yang tak ada tagging? Ada barang yang tak ada tagging. Ada barang yang tak ada tagging. Makanan yang kadang-kadang tak ada. Ya betul, makanan yang barang muncit betul. Sebab sebenarnya SOP lah yang saya ingat kalau di luar negara lah kan, kalau macam ini, dia akan bawa ke special room dengan security. Ya, special room. Security akan basically check badan lah kan, inspect the body semua.
 
-[08:13] Speaker 4: So, yang ini kira beria. Jadi, beria lah webbing kan? Beria lah. Tak nak lah. Dekat situ semua buka. Oh, dahsyat lah. Nak jaya, nak jaya. Tapi betul juga. CCTV, dia tak boleh
+[08:13] Multiple speakers: So, yang ini kira beria. Jadi, beria lah webbing kan? Beria lah. Tak nak lah. Dekat situ semua buka. Oh, dahsyat lah. Nak jaya, nak jaya. Tapi betul juga. CCTV, dia tak boleh
 
 [08:20] Rafizi: tengok CCTV ke? Hmm, betul sebenarnya. Because je lah kalau aku jadi guide, aku kata, ya lah. Tapi saya buat kerja saya. Kalau terlepas, saya teruk kena. So, to be fair macam mana dia
 
@@ -164,13 +177,13 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [11:32] Dato' Dr. Syed Azuan Al-Idrus (DSA): Terus ambil buka kamera terus buat content lah. Yang terbaru yang ni lah AMK ni. Yang perempuan tu. Perempuan ya ya ya. Ada dalam YouTube saya. wujud lah tak ada mana saya pun tak tahu lah yang tu saya kenal lah ni hebat
 
-[11:52] Speaker 4: lah
+[11:52] Multiple speakers: lah
 
-[11:54] Speaker 4: Beria, beria.
+[11:54] Multiple speakers: Beria, beria.
 
 [11:54] Haziq: Beria. Baik, kita ada yang seterusnya. Yang ketiga kepada UMNO. Beria berpantun. Dia sebenarnya ada yang penuh lebih kalau saya boleh baca. Bernikah tanpa kadi. Bercerai tidak bertalak. Bersanding tanpa pelamin. Lepas tu dia gelap. Lepas
 
-[12:15] Speaker 4: tu dia gelap.
+[12:15] Multiple speakers: tu dia gelap.
 
 [12:22] Rafizi: Saya sebenarnya suka sebab bermaksud... Orang UMNO sukalah. Ini kebangkitan UMNO kan. Mereka lupa bahawa dalam 2-3 tahun ini, rakyat Malaysia lupa dah sedikit sebanyak tentang perangai UMNO. Jadi belum apa-apa lagi, Ketua Menteri Melaka ini cepat-cepat mula tunjuk bibit-bibit perangai UMNO. Jadi ayat dia itu memang sangat-sangat sombong. Dia sebenarnya tak sedar selepas PRN Melaka Pilihan Raya Umum 2022 UMNO sebenarnya hilang semua kursi di Melaka 6 parlimen tu Satu pun tak ada UMNO Tapi yalah itulah UMNO kan Jadi saya harap lebih banyak Supaya pimpinan UMNO Lebih beria macam inilah Dia memudahkan kerja kita Prof je ada Prof
 
@@ -206,31 +219,35 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [16:01] Dato' Dr. Samsu Adabi Mamat: Satu hari
 
-[16:01] Speaker 4: nanti Kita simpan ni tau Satu hari nanti
+[16:01] Multiple speakers: nanti Kita simpan ni tau Satu hari nanti
 
-[16:04] Speaker 4: Kita
+[16:04] Multiple speakers: Kita
 
-[16:05] Speaker 4: harap pelamin Okey, baik beria YB ini. Ubat kena senyap lah. Ini cerita Melayu. Cerita Melayu. Yuki lah.
+[16:05] Rafizi: arak pelamin
 
-[16:14] Speaker 4: Kalau
+[16:08] Haziq: Okey, baik beria YB ini.
+
+[16:10] Rafizi: Ubat kena senyap lah. Ini cerita Melayu. Cerita Melayu. Yuki lah.
+
+[16:14] Multiple speakers: Kalau
 
 [16:17] Dato' Dr. Samsu Adabi Mamat: Melayu, kawin ramai. Cina kawin satu. Cina kawin satu.
 
 [16:24] Dato' Dr. Samsu Adabi Mamat: Dah muncullah
 
-[16:25] Speaker 4: hero kita. Biar je
+[16:25] Multiple speakers: hero kita. Biar je
 
-[16:26] Speaker 4: lah. Biar je lah. Ini je lah hasil daripada Johor.
+[16:26] Multiple speakers: lah. Biar je lah. Ini je lah hasil daripada Johor.
 
-[16:37] Speaker 4: Okay,
+[16:37] Multiple speakers: Okay,
 
 [16:38] Haziq: baik-baik. Wow, Zidane. Okay, kita tengok ini UMNO dan PAS. Kemudian kita tengok orang yang sakit hatilah pula apa reaksi mereka. Pahlawan keyboard warrior KUCHI PH hadir memeriahkan pengumuman calon BN. Ini sebab sakit hati dengan kapal tu. Dia pergi serang majlis... Kapa dia yang lama tu lah
 
 [17:04] Rafizi: Jadi Tak apalah Dia bagi bernafas Kita punya Live Kalau tidak Kita punya live Tiap-tiap malam Kena segar dengan dia orang Sekarang BN rasakan
 
-[17:18] Speaker 4: Tapi betul lah Cep Los pun Memang all out lah Dengan dia orang kan Sakit hati betul
+[17:18] Multiple speakers: Tapi betul lah Cep Los pun Memang all out lah Dengan dia orang kan Sakit hati betul
 
-[17:22] Speaker 4: Tapi Saya ingat Hmm
+[17:22] Multiple speakers: Tapi Saya ingat Hmm
 
 [17:26] Rafizi: Kita lah kalau macam kita lah kan, parti yang baru umur 2 bulan ni kan, selepas sesuatu keputusan, kita akan duduk dan tengok mana yang ok, mana yang tak ok kan. Jadi saya pun tak tahulah apa yang jadi dengan PH sekarang ni. Dia seolah-olah tak ada command control langsung tau. Benda ni memang dah jelas jadi bahan tertawa orang kan. Jadi sepatutnya perlu dihentikan segera lah. Maknanya dia tidak ada kesan. Tapi bila dia alihkan daripada menyerang. Sebab sebelum ini selalunya kampen digital bersama lah. dapat tontonan tinggi kan jadi sekarang bila dialihkan kepada BN dia mengesahkan yang kita cakap selama inilah Tahniah kepada BN Maksudnya duit banyak Mungkin dia dah ikat kontrak Sampai PRU ni Jadi nak tak nak Sebab kontrak dah ikat Kerja kena buat lah Kan siapa-siapa kan Kita tak apa Kita hantar
 
@@ -248,25 +265,25 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [21:05] Rafizi: Saleh. Dia memang macam ada. So dia boleh nampak. Boleh nampak. Tapi in that sense lah, in that sense tu yang saya kata kan, Tapi kalau macam itu Maksudnya Pengundi China lebih cepat Dynamik dia Mengenal pasti Sembang kencang ni Dan Kalau mereka dah melihat Ngah Koming Dan memahami Kenapa Pengundi Melayu Tidak menyukai Ngah Koming Sebab di mata pengundi Melayu Itu Akmal Saleh China lah Tapi kalau pengundi Melayu Masih belum nampak lagi Sebenarnya Geng-geng Sembang Kencang ni kan
 
-[21:39] Speaker 4: Baik. Baik bergerak, YB. Kita
+[21:39] Multiple speakers: Baik. Baik bergerak, YB. Kita
 
 [21:42] Haziq: ada itu saja,
 
-[21:43] Speaker 4: YB.
+[21:43] Multiple speakers: YB.
 
 [21:44] Haziq: Pilihlah siapa-siapa. Jadi kita kena minta lah panelis kita untuk memilih yang paling bergerak lah. Mungkin kita mula dengan Dato'.
 
 [21:54] Dato' Dr. Syed Azuan Al-Idrus (DSA): Saya pilih YB, apa nama, KM Melakaul tu lah. Haa, pantun. Beria berpantun. Beria berpantun. Lekah-lekah lah tu lah. Pantun dia tu memang terbaik. Dia tak terfikir kan, dia boleh main cerita kadi, dia boleh main pelamin semua. Yang lebih dia kata, kita tak ada surat YB. Maknanya kita tak boleh meng-Faraid. Haa, Faraid
 
-[22:16] Speaker 4: pun tak boleh. Habis keluar kita Faraid semua. Habis keluar Faraid semua. Habis
+[22:16] Multiple speakers: pun tak boleh. Habis keluar kita Faraid semua. Habis keluar Faraid semua. Habis
 
-[22:20] Speaker 4: keluar Faraid semua. Dr. Haris je lah.
+[22:20] Multiple speakers: keluar Faraid semua. Dr. Haris je lah.
 
 [22:25] Dr. Harith Fakhrudin: Saya berbelah bagi ni MKM ni dengan AMK Dengan AMK Tapi sebab AMK tu dah Memang macam itu kan. Memang macam itu kan. Dapat channel. Semua yang KM Melaka ni macam baru
 
 [22:37] Dr. Harith Fakhrudin: je. Fresh. Fresh.
 
-[22:40] Speaker 4: Beria. Okay.
+[22:40] Multiple speakers: Beria. Okay.
 
 [22:42] Dato' Dr. Samsu Adabi Mamat: Dr. Saif channel. Macam tadi lah. Macam isu-isu nikah kahwin. Nikah kahwin. Umur kan. Dia macam menarik minat lah. Jangankan dia nak kata dia beria. Kita pun beria. Okay.
 
@@ -274,13 +291,13 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [23:09] Tang Hong Yau: Dia
 
-[23:09] Speaker 4: practice lama Practice lama
+[23:09] Multiple speakers: practice lama Practice lama
 
-[23:13] Speaker 4: Dia buat cermin
+[23:13] Multiple speakers: Dia buat cermin
 
-[23:16] Speaker 4: 4-0
+[23:16] Multiple speakers: 4-0
 
-[23:17] Speaker 4: Tahniah
+[23:17] Multiple speakers: Tahniah
 
 [23:20] Haziq: Itu saja OEB Untuk beria kita Kita pergi terus ke topik utama Kita ada dua Satu tentang PRN Johor Bersama lesson Dan kedua Tentang yang lain-lain lah Jadi kita terus yang Pertama Jadi Saya akan Bertanya soalan Kepada YB Dan yang lain-lain Dijemput lah Untuk interject Dan saya juga akan Cuba tanya Yang lain-lain jugalah Baik Kita nak tahu yang Sebab ialah Kita ada pengalaman Yang berbeza
 
@@ -312,13 +329,13 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [46:03] Rafizi: selalu duduk cakap Dr. Sam JSA kan saya tu selalu beritahu kat command center lah eh kalau dia orang menang aku pengsan but that's not the
 
-[46:11] Speaker 4: plan
+[46:11] Multiple speakers: plan
 
-[46:13] Speaker 4: tapi
+[46:13] Multiple speakers: tapi
 
 [46:14] Rafizi: yang bagusnya awal-awal tu saya ingat bila Syukri contact calon satu-satu-satu saya dah tanya beritahu Syukri lah saya nak tahu satu perkara penting Dia orang ni faham ke tidak dia orang takkan menang. Syukri semua kata Semua calon faham Dia takkan menang So okay Kalau ada yang rasa Nak masuk tu Sebab dia berharap menang Memang kota tak ambil Maksudnya Tak realistik So the good thing Sahkan apa yang Dr. Arif katalah Memang masuk tu Memang Tahu ini adalah Pioneer awal Memang hulur kepala dulu
 
-[46:48] Speaker 4: lah kan
+[46:48] Multiple speakers: lah kan
 
 [46:50] Haziq: Hmm
 
@@ -336,7 +353,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [51:05] Haziq: aku Parti lama YB jugalah
 
-[51:08] Speaker 4: Kaya macam parti lain Parti lama kita Topi masih Topi masih sama
+[51:08] Multiple speakers: Kaya macam parti lain Parti lama kita Topi masih Topi masih sama
 
 [51:15] Haziq: Mari sekarang ni Memang Sangat Macam back Back to basic lah Simple Tapi masih lagi mencapai apa objektif dia apa perbezaan ketara yang DSA nampak lah experience dulu kalau macam YB Rafizi dia kata ini kempen pengalaman paling manis lah yang pernah dia handle sebab walaupun tim kecil semua kecil tapi yelah semua function well macam kalau DSA macam mana
 
@@ -454,7 +471,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:29:45] Tang Hong Yau: menangis. Tisu bersama. Wipe your tears. What's the deal? Terima kasih. Terima kasih. Team China. Sebab dia ada satu... advertisement lah untuk pihak PH kan dia siarkan korang tahu tak ada satu movie dalam bahasa China Amar The Qing Su surat cinta daripada nenek memang viral dekat masyarakat China jadi dia pun siarkan nenek panggil you untuk balik undi jadi media China bersama pun buatlah satu poster Nenek suruh balik Tapi jangan Undi dengan tears Kita Tawarkan tisu ni You boleh Undi Dengan senyuman Undi
 
-[1:30:34] Speaker 4: dalam thanks Faham Faham
+[1:30:34] Multiple speakers: dalam thanks Faham Faham
 
 [1:30:36] Rafizi: Saya yang Soal Pecah undi ni Of course kita takkan dapat Err Err keputusan yang kuantitatif kerana kita tak boleh pergi cari setiap pengundi tanya dia kau undi sebab apa semua kan tapi kita ada anekdot lah, kita ada bukti-bukti anekdot di bawah kan saya memang ada jumpa beberapa orang Cina yang datang dan beritahu nasib baik bersama ada, sebab saya dah buat keputusan untuk undi BN
 
@@ -536,7 +553,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:53:20] Tang Hong Yau: Sebab dalam media Cina dia memang tunjukkan pasal padu kan. down to earth sangat humble sangat yang
 
-[1:53:29] Speaker 4: aku
+[1:53:29] Multiple speakers: aku
 
 [1:53:29] Tang Hong Yau: memang down to earth kan cuma aku garang je kan I
 
@@ -584,7 +601,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:06:14] Rafizi: Yang lagi Seksa
 
-[2:06:16] Speaker 4: bertempur Bertempur Kerana Mahaki dengan China
+[2:06:16] Multiple speakers: bertempur Bertempur Kerana Mahaki dengan China
 
 [2:06:20] Tang Hong Yau: Saya ada Dua pendapat Satu refleksi personal Sebenarnya Sebenarnya Tempo ini banyak saya pakai bahasa Malaysia. Jadi sebenarnya dalam masyarakat China dia memang kawan dengan bahasa China sahaja kan. Jadi saya rasa kempen ini membuat saya rasa lebih seperti orang Malaysia. Sebab ada kawan Melayu, kawan India. Awak tengok dekat ceramah, awak boleh tengok. Saya cakap bahasa China pun orang ramai sabar sahaja. Saya rasa bersyukur dalam keadaan politik yang makin polarisasi ini. bersama ini memang penting dalam konten-konten yang saya beritahu untuk pengundi China, saya memang menegaskan inilah Err... Biasanya dia... Memang macam lah ataupun PN, BN dia macam membuatkan orang Melayu dengan orang non-Melayu tu pluralize dan mendam sama sendiri lah. Jadi saya rasa ni sangat penting pun satu eksklusif yang sangat baik untuk saya. Dengan ini saya yakinkan lah parti bersama ni future dan dia penting. untuk berhenti dendam antara dua kaum yang mempunyai majoriti ini. Yang kedua saya refleksi ini sebab saya pun baru dalam politik kan. Jadi BN dengan MCA sebenarnya mereka tidak kacau kita. Yang DAP dia kacau kita lah kata kita split vote ni. Jadi memang dalam media China ni kita lebih serang DAP. MCA Jadi saya rasa Kita kenalah Kita punya stand Kenalah lebih tegas Kita tidak Perkawan dengan PS ke BN ke Haa Kena
 
@@ -596,7 +613,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:08:26] Rafizi: Sebenarnya itu pinpoint negara kita Kita yang dah tua sikit saya Kita tiga orang yang boleh dua kat sini kan DSA, Dr. Sam semua kan Kita dah berapa puluh tahun go through benda ni kan dalam keadaan sebenarnya kita semua tahu bahawa 10-15 tahun akan datang ni populasi negara memang dia tak timbul lah soal majority tak majority ni Memang Melayu majority 70% kat atas dia pun dah ada isu langsung sebenarnya kan Yang kita nak perlukan ialah how to bring everyone to the table supaya sama-sama buat kerja sama-sama Bantu membantu. Supaya bisnes tu ada yang tokeh Melayu, China pun kerja. Yang tokeh China, Melayu pun kerja. Semua sama-sama partner kan. So, sebab tu model PHBN semua ni, dia sebenarnya sudah agak ketinggalan zaman. So, saya boleh ambil jalan mudah. Which is to kekal dalam PH. Aku tunggu je lah. Anwar tak ada aku jadi presiden PKR. Lepas tu nak tak nak selalunya calon PM tu mesti daripada PKR lah kan. Tunggu je lah kan. Tapi the ticking time bomb itu ialah... ...kebenaran kebenaran yang ditulis... Makin lama, makin PH dan BNPN ni makin depolarize tau. Yang sebelah PHBN ni kalau boleh, dia nak kata orang bukan Melayu, engkau duduk kat situ, aku ketua. Kalau yang PH pula, dia kalau boleh dia nak tunjukkan bahawa sebenarnya orang bukan Melayu ni tak sokong langsung. Kalau apa-apa yang datang daripada BN, PAS tu semua teruk pun tak boleh juga. Because there is a racial identification yang undi PH dilihat sebagai pro bukan Melayu, yang undi PAS. BN, PN itu semua dia layak Melayu kan. So, sebab itu ada keperluan untuk kita ada satu parti yang memang tak ada racial identification. Sebab dalam itu dia dapat undi semua. Dia bukan dapat undi yang maksimum lah. Tapi daripada Melayu dia dapatlah 30%, daripada China dia dapatlah 40%, India dapat 40% and that's enough untuk menang kan. Senang cakap lah Susah nak dibuat kan Kalau macam PKR dulu Itulah idealism PKR awalnya Masalahnya ialah Masa tu kami umur 21-22 tahun I mean bukan tempat kami untuk Untuk membangkang strategi politik Kerana strategi politik masa itu ialah membebaskan Anwar Ibrahim. Dan Anwar Ibrahim tahun 1998-1999 dia kira apa nama ni, dia pun datang daripada UMNO, BN juga kan. Jadi kerangka tu ialah kerangka BN. Jadi ada kononnya PKR yang multiracial, kena ada satu parti Cina, kena ada satu parti Melayu. Supaya PKR ni jadi jambatan dan gam. Dan after 20-30 tahun, kita dah tahu bahawa benda itu dah tak boleh dipakai lagi. Dah expired, dah pemodel itu. Anwar Ibrahim pun dah jadi PM. Dan kita masih lagi, malah menjadi lebih teruk. I don't know sebab masa saya membesar dululah, in the 90s memang kan. Saya tak rasa racial identification seteruk ini dalam politik. Masa kita-kita muda-muda, I don't know. Dr. Sam mungkin kaji benda ini. But I don't recall growing up yang racial identification kepada politik ini sedemikian rupa. Kalau macam saya, saya tak join PAS dulu sebab saya rasa, Allah, PAS ini dia tak menyelesaikan masalah. Itu saja dia cerita pasal kalau tak masuk PAS, kita tak islam. Aku tengok, ya Allahu Akbar. Semua nak jadi bos besar je dia orang ni kan. So, tapi lebih kepada masih lagi ada sedikit sebanyak soal competence dulu tau. Sekarang ni dia nampak seolah-olah soal competence semua ni tak penting dah. Dia racial identification. Kalau kita Melayu, kita kena pastikan tak ada DAP dan PH. Kalau kita kepada yang bukan Melayu pula, yang Melayu dalam PH ni pula, undi besar daripada Bukan Melayu. Jadi akhirnya PH jadi kalau kita Bukan Melayu kita kena pertahankan suara Bukan Melayu ni dengan 100% undi DAP. So benda tu sebenarnya is spiraling downwards. The more you go on this, the more polarization. Dia macam magnet yang menolak tau. Dia menarik kan. saya kena tidur atas bumbung lama lagi lah.
 
-[2:13:27] Speaker 4: YB,
+[2:13:27] Multiple speakers: YB,
 
 [2:13:27] Haziq: jadi untuk merealisasikan apa yang YB cakap tu lah, soalan terakhir saya, kita pun ada 107 constituency poll ni. Jadi kalau mungkin YB boleh share, what's next for bersama dari segi latest survey dekat seluruh negara dan adakah keputusan di PRN Johor tu akan menghantui kita Saya
 
@@ -646,7 +663,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:50:12] Dr. Harith Fakhrudin: Akmal nak
 
-[2:50:12] Speaker 4: resign
+[2:50:12] Multiple speakers: resign
 
 [2:50:17] Rafizi: tak resign True true memang betul Saya tak sempat nak beritahu Dia orang sebab kalau boleh Kalau calon-calon yang hadir Kan hari Ahad tu kan kita ada terima kasih Sekarang lawan kan Korang balik tidur lah aku terpaksa tengok workout lah Kat situ kan Sebab pagi esok Isnin Next Monday tu Memang saya nak jumpa dengan semua Seberapa banyak calon yang ada Sebab kita memang nak kena plan where to go from here lah. Kita ada beberapa isu yang kita dah jumpa. Contohnya isu hak milik tanah, isu hak milik perumahan, semua tu kan. Semua ni tak boleh sembang masa kempen je. Kita dah nak kena mula susun kempennya dengan rakyatnya kan. So sebab itu macam Dr. Haris kata lah. I think firepower kita tu lebih baik dikekalkan sedikit momentum di Johor supaya orang boleh tengok actually they are serious. They mean business budak-budak ni kan. Pada masa yang sama kita yang ketumbukan utama tu Dr. Sam kita nak kena alih ke Melaka lah.
 
@@ -674,7 +691,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:53:30] Rafizi: kita kan. So yang menonton podcast,
 
-[2:53:34] Speaker 4: korang kena bersedia je lah lepas ni.
+[2:53:34] Multiple speakers: korang kena bersedia je lah lepas ni.
 
 [2:53:36] Rafizi: Podcast ni bising lah, kucing ni. Tak apa, tak apa. Pandai-pandai. So apa ni, sebab saya rasa kita memang tak boleh berehat lama. Cuma saya perlukan satu dua minggu ni So minggu depan saya mula sit down dengan tim ubat, tim sana, tim sini. Joe is coming to see me esok. Satu-satu-satu kita nak kena susun. Dan tanggungjawab saya pun besar lah sebab ada orang letak jawatan semua ni kan. So kan yang letak jawatan untuk menumpukan satu tahun akan datang untuk buat benda ni kan. Dan diorang ni gaji puluh-puluh ribu kan. So kita nak kena pastikan semua tu disusun dengan baik lah. plan betul-betul dan insyaAllah lah dalam baik ujung bulan Julai ni, saya rasa kita dah mula kat Melaka dah, diorang saya tak cakap kat diorang je lagi, diorang kurang ada dua hari je lah pun, kalau nak rehat pun, ke depan jelajah kancah tu, jelajah negeri tu
 
@@ -684,16 +701,16 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:56:08] Rafizi: Baik, YB.
 
-[2:56:09] Speaker 4: Clear. Tiga jam. Tiga jam? Dua
+[2:56:09] Multiple speakers: Clear. Tiga jam. Tiga jam? Dua
 
 [2:56:12] Haziq: jam lima puluh lima minit.
 
-[2:56:14] Speaker 4: Okey.
+[2:56:14] Multiple speakers: Okey.
 
 [2:56:15] Haziq: Boleh kau berhenti. Terima kasih banyak kepada semua hadir. Terima kasih banyak kepada panelis-panelis yang hadir pada malam ni. Harap boleh join lagi dalam masa akan datang. Okey, baik. Kita berehat dulu sebab esok nak sambung kerja. Selamat malam. Jumpa lagi. Assalamualaikum.
 
-[2:56:33] Speaker 4: Chopper kata nak beri salam.
+[2:56:33] Multiple speakers: Chopper kata nak beri salam.
 
-[2:56:34] Speaker 4: Eh, chopper. Tak apa. Assalamualaikum, jumpa lagi hari
+[2:56:34] Multiple speakers: Eh, chopper. Tak apa. Assalamualaikum, jumpa lagi hari
 
-[2:56:40] Speaker 4: Ahad
+[2:56:40] Multiple speakers: Ahad

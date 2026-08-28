@@ -8,10 +8,18 @@ duration_seconds: 10607
 duration: 2h 56m
 view_count: 186784
 model: mesolitica/malaysian-whisper-medium-v2
-note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2
-  with VAD chunking. Speaker turns are labeled via pyannote.audio acoustic diarization
-  (anonymous "Speaker N" labels, not yet mapped to real names). See interview.md for
-  the polished newspaper-style rewrite.
+note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
+  Speaker attribution was rebuilt on 2026-08-28 at turn level by
+  scripts/reattribute_blocks.py. The original diarization had collapsed, leaving at
+  least one cast member with no label at all, so pyannote was re-run with an exact
+  speaker count from the roster and the existing text re-cut against it WITHOUT
+  re-transcribing. The transcript text is byte-for-byte unchanged; only speaker
+  boundaries moved. 193 blocks became 279 turns, and Haziq now hold labels of their own where they had none.
+  Recurring hosts were identified by voiceprint (scripts/verify_speaker_voiceprint.py);
+  guests by word overlap with the previous attribution
+  (scripts/map_clusters_to_old_labels.py), which is reliable for them because guest
+  labels were the part of the old file that had not collapsed.
+  interview*.md still carries the older attribution.'
 ---
 
 # Raw Transcript
