@@ -1646,6 +1646,23 @@ without ever establishing a *name*, and the only cheap source of ground-truth na
 the video the audio was extracted from. It should be the first check on any name
 question, not the last.
 
+**One more calibration, and it stops the next session from breaking something that
+works.** After the seven episodes were fixed, ep51's `Haziq` label still looked wrong:
+0.635 and 0.616 against the two Haziq references, which agree with each other at 0.921.
+I flagged it as the last open item. The owner checked five turns spread across the
+episode and every one is Haziq.
+
+The label was right the whole time. That cluster is 10.4 minutes, which sounds
+comfortably long, but it is 54 *short interjections* rather than sustained speech, so
+almost every 8-second sampling window contains Rafizi answering on either side. The
+minute-long threshold in the tool is not enough on its own -- **what matters is whether
+the individual turns are long, not whether the minutes add up.**
+
+Practical rule: on a cluster of short turns, roughly 0.60-0.80 means the method cannot
+resolve it, not that the label is wrong. Do not relabel on a score in that band. Go to
+the video, or ask. Had I "fixed" ep51 on the strength of 0.635, I would have taken a
+correct label off a real person for the second time in one day.
+
 ### 1.29: Three speaker-label gotchas that keep recurring
 
 Moved out of ARCHITECTURE.md on 2026-08-28: these are failures and their fixes, not

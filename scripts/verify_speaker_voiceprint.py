@@ -21,10 +21,20 @@ means much.
 
 Two traps worth knowing:
 
-  - Short spans lie. A span is measured from a block's timestamp to the next block's,
-    and raw.md blocks are coarse, so a brief interjection's window bleeds into the
-    neighbouring speaker's audio. Anything under about a minute of total speech scores
-    toward whoever surrounds it. The report marks those.
+  - Short spans lie, and they lie further than you would guess. A span is measured from
+    a block's timestamp to the next block's, and raw.md blocks are coarse, so a brief
+    interjection's window bleeds into the neighbouring speaker's audio. Anything under
+    about a minute of total speech scores toward whoever surrounds it; the report marks
+    those. But the effect does not stop there: ep51's Haziq label covers 10.4 minutes
+    across 54 short interjections and scores only 0.635 and 0.616 against the two Haziq
+    references, which agree with each other at 0.921 -- and the owner confirmed by ear
+    that every sampled turn really is Haziq.
+
+    So a mid-range score on a cluster made of interjections is not evidence of anything.
+    Treat roughly 0.60-0.80 as unresolvable by this method whenever the cluster's turns
+    are short, no matter how many minutes they add up to, and go to the video or ask
+    someone who knows the audio. Only a cluster with long continuous turns earns a
+    verdict from a number in that range.
   - A co-host reference built only from brief interjections inherits that same bleed,
     which is why the co-host references here read high against Rafizi. Compare which
     reference wins by how much, not a score against one threshold.
@@ -83,6 +93,11 @@ DEFAULT_REFERENCES = {
 }
 SHORT_SPAN_MINUTES = 1.0
 CLIP_SECONDS = 8.0
+# A cluster whose individual turns average shorter than this cannot be scored reliably,
+# however many minutes it totals: every sampling window catches the neighbouring speaker.
+# ep51's Haziq is 10.4 minutes of 11-second turns and reads 0.635 against a reference that
+# agrees with itself at 0.921, yet the label is correct (confirmed by ear).
+MIN_MEAN_TURN_SECONDS = 20.0
 
 _inference = None
 
@@ -200,6 +215,7 @@ def score_episode(tag, references, per_block=None):
     result = {}
     for label, label_spans_ in sorted(spans.items(), key=lambda kv: -sum(e - s for s, e in kv[1])):
         minutes = sum(e - s for s, e in label_spans_) / 60
+        mean_turn = (minutes * 60) / len(label_spans_)
         vector = embed(audio, label_spans_)
         if vector is None:
             continue
@@ -214,6 +230,14 @@ def score_episode(tag, references, per_block=None):
             verdict = "-> inconclusive"
         if minutes < SHORT_SPAN_MINUTES:
             verdict += "  [span too short to trust]"
+        elif (mean_turn < MIN_MEAN_TURN_SECONDS and not verdict.startswith("-> not")
+              and not (scores[best] >= 0.85 and scores[best] - runner_up >= 0.15)):
+            # An interjection-shaped cluster has its score dragged toward its neighbours,
+            # so a mid-range number here means nothing. A high score with a clear margin
+            # still stands: bleed can pull a score down or muddle it, but it cannot
+            # manufacture 0.87 against the right reference and 0.65 against the next one.
+            verdict = (f"-> UNRESOLVABLE, turns average {mean_turn:.0f}s "
+                       f"(check the video or ask; do not relabel on this score)")
         rendered = "  ".join(f"{who.split()[0]}={score:+.3f}" for who, score in scores.items())
         print(f"   {label:26} {minutes:6.1f} min   {rendered}   {verdict}")
         result[label] = {"minutes": round(minutes, 1),
