@@ -28,10 +28,31 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
+# Diarization islands shorter than this are noise, not turns. Without smoothing, the
+# per-word labelling flickers across a real speaker change and tears single sentences
+# into 1-3 word scraps under alternating names -- 306 isolated tears plus 267 alternating
+# chains already in the corpus from the original run (scripts/merge_torn_scraps.py counts
+# them). Those cannot be repaired from text afterwards, because the scrap is often a
+# genuine short turn and it is the neighbour's tail that is misnamed, so the direction is
+# only knowable from audio. Fixing it here, before any word is labelled, is the only
+# place the information exists.
+#
+# 0.9s is above pyannote's flicker and below a real interjection: "hmm" and "betul" run
+# past a second in this corpus, and ep51's confirmed Haziq turns average 15s.
+MIN_ISLAND_S = 0.9
+
 WINDOW_S = 45.0
 ACCEPT_FRACTION = 0.62
-WORDS_PER_S = 2.6          # measured on this corpus; over-feed is intentional
-OVERFEED = 1.9
+# Words per second is measured PER BLOCK (its own word count over its own duration)
+# rather than fixed corpus-wide. Speech density varies far too much between a rapid
+# exchange and a slow explanation for one constant: with a fixed 2.6 w/s and 1.9x
+# over-feed, ep45's assigned shares came out 95.3/3.6/1.1 against the diarization's own
+# 92.5/6.2/1.3, i.e. roughly half of the second speaker's time leaked to the first
+# because over-fed windows compress the alignment and push words across boundaries.
+# Matching the block's real density lets OVERFEED drop close to 1, which is what keeps
+# the recovered word times honest.
+OVERFEED = 1.25
+MIN_WORDS_PER_S = 1.2
 
 TS = re.compile(r"^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*([^:]{1,40}?):\s*(.*)$")
 
@@ -79,17 +100,40 @@ def cached_diarization(video_id, audio, sr, n_speakers):
     return segs
 
 
+def smooth_islands(segs, min_island_s=MIN_ISLAND_S):
+    """Drop sub-threshold turns that sit between two turns of one other speaker.
+
+    Only islands are removed, never a short turn at the edge of a longer run by the same
+    speaker, so a genuine brief interjection that pyannote resolved confidently survives.
+    """
+    out = [list(s) for s in segs]
+    dropped = 0
+    i = 1
+    while i < len(out) - 1:
+        prev, cur, nxt = out[i - 1], out[i], out[i + 1]
+        if (cur[1] - cur[0] < min_island_s
+                and prev[2] == nxt[2] and prev[2] != cur[2]):
+            prev[1] = nxt[1]          # absorb the island and its far neighbour
+            del out[i:i + 2]
+            dropped += 1
+            continue
+        i += 1
+    return [tuple(x) for x in out], dropped
+
+
 def word_times(text, audio, sr, t0, t1):
     """Absolute (word, start, end) for every token in `text` across [t0, t1)."""
     import lib_forced_align
     words = text.split()
+    span = max(t1 - t0, 1.0)
+    wps = max(MIN_WORDS_PER_S, len(words) / span)   # this block's own speech density
     out, pos, t = [], 0, t0
     while pos < len(words) and t < t1 - 0.2:
         w_end = min(t + WINDOW_S, t1)
         seg = audio[int(t * sr):int(w_end * sr)]
         if seg.shape[0] < sr * 0.5:
             break
-        take = max(8, int(WORDS_PER_S * (w_end - t) * OVERFEED))
+        take = max(8, int(wps * (w_end - t) * OVERFEED))
         chunk = words[pos:pos + take]
         aligned = lib_forced_align.align_words(" ".join(chunk), seg, sr)
         span = w_end - t
@@ -118,9 +162,12 @@ def label_for(segs, start, end):
 
 def resplit(block, segs, audio, sr):
     timed = word_times(block["text"], audio, sr, block["start"], block["end"])
+    # A word whose span misses every diarization turn keeps whoever is already talking;
+    # at the very start of a block there is nobody yet, so fall back to the block's own
+    # existing label rather than emitting a None turn.
     turns, cur, cur_start, cur_words = [], None, block["start"], []
     for w, s, e in timed:
-        spk = label_for(segs, s, e) or cur
+        spk = label_for(segs, s, e) or cur or label_for(segs, block["start"], block["end"]) or block["label"]
         if spk != cur:
             if cur_words:
                 turns.append((cur_start, cur, " ".join(cur_words)))
@@ -131,9 +178,14 @@ def resplit(block, segs, audio, sr):
     return turns
 
 
-# Blocks shorter than this are already turn-level; re-cutting them buys nothing and
-# only risks moving a correct boundary.
-MIN_BLOCK_S = 120.0
+# Re-cut EVERY block, not just the oversized ones. An earlier version skipped blocks
+# under two minutes on the theory that they were already turn-level, and ep45 came out
+# with a mixed roster: 92% under a new "Speaker 1" alongside a stale "Rafizi" 3.5% and
+# "Farhan" 0.8% left on the untouched short blocks. Those old labels came from the same
+# block-level voiceprint pass that is being replaced, so trusting them just preserves the
+# error in the gaps. Short blocks align in well under a second, so this costs almost
+# nothing and leaves one consistent set of clusters to name.
+MIN_BLOCK_S = 0.0
 
 
 def roster_size(ep_dir):
@@ -181,8 +233,12 @@ def main():
         t0 = time.time()
         segs = cached_diarization(video_id, audio, sr, n_spk)
         clusters = sorted({s[2] for s in segs})
-        print(f"  diarization: {len(clusters)} clusters, {len(segs)} turns "
+        raw_turns = len(segs)
+        segs, dropped = smooth_islands(segs)
+        print(f"  diarization: {len(clusters)} clusters, {raw_turns} turns "
               f"({time.time()-t0:.0f}s)", flush=True)
+        print(f"  smoothed out {dropped} island(s) under {MIN_ISLAND_S}s -> "
+              f"{len(segs)} turns", flush=True)
 
         blocks = parse_blocks(raw_text, duration)
         big = [b for b in blocks if b["end"] - b["start"] >= MIN_BLOCK_S]

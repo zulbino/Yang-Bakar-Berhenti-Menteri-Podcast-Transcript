@@ -112,7 +112,11 @@ PRESENT_UNLABELLED = {
     "ep60": ["Farhan (Pa'an)"],   # "Pa'an kena check lah betul-betul"
     # both, and ep45 has three participants for two identifiable voices
     "ep36": ["Haziq", "Farhan (Pa'an)"],   # "sebab Haziq dah pakai"; "kita dah set 8 Mac kan, Pa'an kan"
-    "ep45": ["Haziq"],                     # "Itu bukan sebab dia malas, Haziq. Kau cara cakap tu"
+    # ep45 removed 2026-08-28: Haziq now holds 55 labelled turns of his own after
+    # scripts/reattribute_blocks.py re-cut the collapsed blocks, so he no longer needs
+    # a manual override. The justifying quote was "Itu bukan sebab dia malas, Haziq.
+    # Kau cara cakap tu". Entries here should be deleted, not kept, as each episode's
+    # blocks get re-cut -- an override that outlives its cause hides whether the fix worked.
     "ep46": ["Farhan (Pa'an)"],            # "Pa'an gelak kat kau"; "Kau pun sebenarnya"
 }
 # Deliberately NOT added, and why:
