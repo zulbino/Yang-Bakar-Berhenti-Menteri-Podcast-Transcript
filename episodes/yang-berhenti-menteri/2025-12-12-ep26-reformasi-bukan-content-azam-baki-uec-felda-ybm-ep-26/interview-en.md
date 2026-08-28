@@ -10,6 +10,7 @@ view_count: 81498
 hosts:
 - Rafizi
 - Haziq
+- Farhan (Pa'an)
 guests: []
 topics:
 - BERIA viral social media segment
