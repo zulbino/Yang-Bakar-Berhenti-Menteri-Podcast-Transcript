@@ -237,7 +237,7 @@ Jadi saya rasa, apabila sampai ke peringkat pelaksanaan, sebahagian besar penjaw
 
 **Speaker 2:** Baik, baik, baik.
 
-**Speaker 1:** Wabi, jelas. Terlalu banyak kamu bertanya tentang "deep state" ini sampai terkeluar topik.
+**Speaker 1:** YB, jelas. Terlalu banyak kamu bertanya tentang "deep state" ini sampai terkeluar topik.
 
 **Speaker 2:** Baik, jadi kita berhentilah bertanya bersama Ustaz mengenai perkara itu, kita tanya perkara lain pula. Mungkin yang terakhir — dalam hidup ini keras, semua ada jasanya, termasuk Firaun. Perasan tak?
 

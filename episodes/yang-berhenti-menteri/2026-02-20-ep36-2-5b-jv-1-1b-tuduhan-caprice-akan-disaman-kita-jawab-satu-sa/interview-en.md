@@ -71,11 +71,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi Ramli:** Good, good.
 
-**Cincong:** But even the earlier part wasn't quite right. Because you said we need to start the broadcast exactly at 10 o'clock — but this is a recording, so we recorded late today. About seven minutes late because of the Chinese New Year firecrackers. Wabi, even though it's a holiday, you're still willing to come to this podcast. Oh, you've already started work.
+**Cincong:** But even the earlier part wasn't quite right. Because you said we need to start the broadcast exactly at 10 o'clock — but this is a recording, so we recorded late today. About seven minutes late because of the Chinese New Year firecrackers. YB, even though it's a holiday, you're still willing to come to this podcast. Oh, you've already started work.
 
 **Speaker 3:** Oh, already started work. Do you think Chinese people take holidays like us? They get two days off, then they start working. Someone has to open the shop. Festive mood, right.
 
-**Cincong:** Festive mood. The body still has to work. Okay-okay, good, Wabi. So maybe before we start — I'm wearing a red Malay outfit, which suits Ramadan and Chinese New Year nicely. But since Haziq is already wearing one, I've neutralized it, even though it's not that red. Otherwise it would get boring. But it's fine, because I'm wearing — what's this called, what do they call it? This isn't a cheongsam...
+**Cincong:** Festive mood. The body still has to work. Okay-okay, good, YB. So maybe before we start — I'm wearing a red Malay outfit, which suits Ramadan and Chinese New Year nicely. But since Haziq is already wearing one, I've neutralized it, even though it's not that red. Otherwise it would get boring. But it's fine, because I'm wearing — what's this called, what do they call it? This isn't a cheongsam...
 
 **Rafizi Ramli:** This isn't one. It's just a Raya outfit.
 
@@ -147,7 +147,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi Ramli:** That's his advantage — with just one thing, right, at the time in Kelantan he wasn't gaining traction, wasn't visible, wasn't settled in. So that means he couldn't get in. Even PAS, probably, even though he already wears a skullcap and all that.
 
-**Cincong:** So when he says "reject Muhyiddin based on religious demands" — what does that even mean? We should invite him. Never mind, we'll cast a wide net. Okay baby, right? Can we — dive in, dive in, dive in. This one really dives deep into exploiting religion. Congratulations. Okay, ready? Ha, this one — this one ha, Cincong ha, doesn't fit into Cincong's language, got dragged in. Ha, what's this, Wabi? I want to look at this one too — PMX dives in as a cyber trooper, backing Azam Baki. Meaning he himself forwarded this video. People who aren't PKR might be surprised. Ha, that's one reason I don't have WhatsApp — because WhatsApp has so many groups. So PKR has — I think this one was in the Malaysia Madani group or something. Then there are many other groups, people's groups.
+**Cincong:** So when he says "reject Muhyiddin based on religious demands" — what does that even mean? We should invite him. Never mind, we'll cast a wide net. Okay baby, right? Can we — dive in, dive in, dive in. This one really dives deep into exploiting religion. Congratulations. Okay, ready? Ha, this one — this one ha, Cincong ha, doesn't fit into Cincong's language, got dragged in. Ha, what's this, YB? I want to look at this one too — PMX dives in as a cyber trooper, backing Azam Baki. Meaning he himself forwarded this video. People who aren't PKR might be surprised. Ha, that's one reason I don't have WhatsApp — because WhatsApp has so many groups. So PKR has — I think this one was in the Malaysia Madani group or something. Then there are many other groups, people's groups.
 
 People might not know, outside of being Prime Minister, Dato' Seri Anwar also occasionally — people call it moonlighting — moonlights as a cyber trooper in these WhatsApp groups too. Look at this, he forwarded a comment, a TikTok content: "Why are the young ones trying to catch Azam Baki." Then there's a photo of Said Sadiq, a photo of the late Tun Daim, a photo of Naimah, a photo of Tun Malik — whose photo is that, Mirzan or Pemozani — trying to show that these "young ones" are actually funded by and are tools of Tun Daim, Tun Dr Mahathir, and so on.
 
@@ -245,7 +245,7 @@ So we need to see this — when Dato' Seri Anwar beats the war drum saying PKR i
 
 To Faiz Naaman — you need to remember actually, if you join this party but aren't part of the inner circle or aren't a close friend of Rafizi's group, you won't get a seat. It's that simple, really. Honestly, when people do things like this, I don't even know if he enjoys making accusations like this. I don't feel anything about it, but he'll bear that sin himself. If the lawsuits run out, he can open two more. These people are useless, honestly, I don't know. Because if you want to sue, the problem with suing these people is that it takes up a lot of time. So it's not worth it. And whoever we do decide to sue — well, there are people who do get sued. But if every... the cyber trooper level has become sycophant level. And this guy here, he's making conjectures that... are truly insane conjectures. But the rest, he'll bear that in the afterlife.
 
-**Rafizi Ramli:** Yes, Wabi? I think the reason he's so fired up might be because he's new in PKR. So he has to be an even bigger sycophant? He has to show himself off. And meanwhile I've noticed that the old-timers in the party regarding this case, many of them actually stay silent because they know what actually happened, and don't want to add to the...
+**Rafizi Ramli:** Yes, YB? I think the reason he's so fired up might be because he's new in PKR. So he has to be an even bigger sycophant? He has to show himself off. And meanwhile I've noticed that the old-timers in the party regarding this case, many of them actually stay silent because they know what actually happened, and don't want to add to the...
 
 **Speaker 4:** sin in this case. Actually, Cincong has a good point that there's a lot of echoing about this 1.1 billion, actually, from sycophants and newcomers.
 

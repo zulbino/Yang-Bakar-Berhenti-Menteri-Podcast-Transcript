@@ -72,11 +72,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Sikit je. Sikit je. Mungkin tak ramai yang jogging. Gaya dia belum sebulan lagi. Memalukan tu.
 
-**Host:** Okey, kita kembali. Kepada semua, Jasni di Alustar, Ramanan di Shah Alam — ya, saya akan tengok komen-komen tu. Okey, Wabi, sebelum itu, kita ada pengarah kita di sini. Dia masih hidup ke?
+**Host:** Okey, kita kembali. Kepada semua, Jasni di Alustar, Ramanan di Shah Alam — ya, saya akan tengok komen-komen tu. Okey, YB, sebelum itu, kita ada pengarah kita di sini. Dia masih hidup ke?
 
 **Rafizi:** Dia masih hidup.
 
-**Host:** Okey, jom kita tengok segmen pertama seperti biasa, Wabi.
+**Host:** Okey, jom kita tengok segmen pertama seperti biasa, YB.
 
 **Rafizi:** Minggu ni kita cepat kot, saya penat, sebab saya dah dua minggu—
 

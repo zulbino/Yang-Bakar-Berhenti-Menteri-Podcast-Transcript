@@ -196,7 +196,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Host:** Jadi maksud saya, beria kau letak yang ini di sini, Ahli Parlimen Jasin lah YB. Jadi kau nak kata dia beria apa?
 
-**Rafizi Ramli:** Dia bukanlah beria, Wabi — kecualilah dia masuk mahkamah, dia baca kunut nazilah kat situ semua. Dia baca kunut nazilah dalam mahkamah semasa berhujah, itu bolehlah masuk beria.
+**Rafizi Ramli:** Dia bukanlah beria, YB — kecualilah dia masuk mahkamah, dia baca kunut nazilah kat situ semua. Dia baca kunut nazilah dalam mahkamah semasa berhujah, itu bolehlah masuk beria.
 
 **Host:** Yang ini aku tengah fikir, kau angle mana beria ni?
 

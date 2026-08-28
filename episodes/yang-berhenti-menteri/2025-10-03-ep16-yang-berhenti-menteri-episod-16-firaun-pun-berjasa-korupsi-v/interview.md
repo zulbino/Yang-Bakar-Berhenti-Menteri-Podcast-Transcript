@@ -185,7 +185,7 @@ Ia adalah satu amalan biasa di dunia, kerana akan tetap ada orang yang menghasil
 
 Tambah pula bila ada troll farm yang duk pergi like semua ni, kita rasa, oh hebat, oh saya sebenarnya popular. Itulah yang menyebabkan — saya ingat sebahagian sebab lah — kenapa macam Dato' Seri Najib dahulu, dia sangat yakin dia menang dalam PRU 2018. Kerana ada terpisah di antara realiti sebenar dan bubble yang kita duduk. Jadi nasihat saya lah, kepada, besar kemungkinan lah orang-orang PKR lah yang buat ni kan — kalau ini cara untuk membodek Dato' Seri Anwar Ibrahim, ini tidak membantu. Ini sebenarnya membesarkan lagi bubble itu, dia mewujudkan mirage. You know kan, kita kalau panas kan kita tengok panas — dalam bahasa Melayu, fatamorgana lah, dia mirage kan, tapi sebenarnya tak ada air, itu hanya ilusi. Sama juga lah, bila menggunakan cara begini, dia mewujudkan ilusi yang selesa sedangkan realiti sebenarnya sangat berbeza.
 
-**Speaker 2:** Baik. Wabi bercakap tentang kuasa. Kita ada satu lagi topik tentang kuasa juga, YB, tentang deep state MOE. Ini kenyataan baru-baru ini daripada Dr. Mazli lah. Cuma kalau kita tengok daripada PH 1.0 sampai sekarang, deep state ni setiap kali banyak lah dicakap, tapi kita tak pernah dengar pun macam mana kita nak overcome ke apa. Jadi YB dah pernah berada di koridor kuasa, YB tengok macam mana nak kekang sebenarnya masalah deep state dalam mana-mana kerajaan pun?
+**Speaker 2:** Baik. YB bercakap tentang kuasa. Kita ada satu lagi topik tentang kuasa juga, YB, tentang deep state MOE. Ini kenyataan baru-baru ini daripada Dr. Mazli lah. Cuma kalau kita tengok daripada PH 1.0 sampai sekarang, deep state ni setiap kali banyak lah dicakap, tapi kita tak pernah dengar pun macam mana kita nak overcome ke apa. Jadi YB dah pernah berada di koridor kuasa, YB tengok macam mana nak kekang sebenarnya masalah deep state dalam mana-mana kerajaan pun?
 
 **Rafizi Ramli:** Saya rasa ini eskapisme yang mudah. Okay. Terutamanya yang selalu digunakan oleh penyokong-penyokong Pakatan Harapan. Sebelum 2018 dahulu, ada kebimbangan kerajaan tidak akan bertukar lah, kerana deep state ini akan mempertahankan UMNO. Deep state ini maksudnya pegawai kerajaan lah, penjawat-penjawat awam kan. Tapi dia bertukar 2018. Sama juga, saya ingat, sekarang ini kalau ada apa-apa kepayahan untuk melakukan sesuatu, soal deep state ini akan kembali-balik.
 
@@ -239,7 +239,7 @@ Jadi saya ingat, bila sampai ke peringkat pelaksanaan tu, sebahagian besar penja
 
 **Speaker 2:** Baik, baik, baik.
 
-**Speaker 1:** Wabi, clear. Banyak sangat kau tanya pasal deep state ni sampai terkeluar.
+**Speaker 1:** YB, clear. Banyak sangat kau tanya pasal deep state ni sampai terkeluar.
 
 **Speaker 2:** Baik, jadi kita berhentilah bertanya bersama Ustaz, kita bertanya benda lain. Mungkin yang terakhir — dalam hidup ni keras, semua berjasa, termasuk Fir'aun. Weh, perasan?
 
@@ -315,7 +315,7 @@ Jadi kepada kita, terutamanya kepada ahli politik lah — perasan tak, saya sebe
 
 Jadi kalau macam menteri dahulu, kita tak boleh nak buat komen sesuka hati kerana kita terikat dengan pendirian kerajaan, kan. Kalau sebagai ahli parlimen, kalau setakat mengeluarkan kenyataan kasar di sini tetapi tidak berani pergi ke situ, saya rasa saya perlu berterus terang lah — kalau saya tidaklah seberani mereka, maka saya tidak ada hak untuk mendabik dada seolah-olah akulah pejuang Palestine yang paling hebat. Dan saya pada kedudukan saya sekarang tidak ubah seperti rakyat Malaysia yang lain, yang hanya boleh mendoakan dan membantu dan memberi sumbangan kalau ada. Selepas ini, lebih ramai rakyat Malaysia yang nak menyertai — doa kita, flotila-flotila yang baru — kerana perkara ini akan berlaku, perlu diteruskan, dan kita berdoa lah itu akan membina kesatuan kemanusiaan di seluruh dunia. Dan itu, saya ingat, adalah salah satu cara yang berkesan untuk menekan Israel dan Amerika Syarikat. Baik.
 
-**Speaker 2:** Wabi, sangat inspiring. Kau nak pergi ke? Haa. Boleh, YB? Boleh. YB pergi dulu. Haa. Tak adalah, I mean — lepas tu kita ramaikan lagi lah. Haa, itu masalahnya.
+**Speaker 2:** YB, sangat inspiring. Kau nak pergi ke? Haa. Boleh, YB? Boleh. YB pergi dulu. Haa. Tak adalah, I mean — lepas tu kita ramaikan lagi lah. Haa, itu masalahnya.
 
 **Rafizi Ramli:** Jangan salah faham, ini masalah orang politik lah. Haa. Sembang, pumpang, pumpang, pumpang, apa-apa dia tolak orang lain, kita pergi. Aku terlalu kena. Pumpang, pumpang. Ya, apa so? Tengok belakang. Haa, tak ada orang, kan. Saya nak pergi, YB.
 

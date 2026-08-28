@@ -260,7 +260,7 @@ Okay, tadi sebelum podcast ni kita ada sembang juga pasal peguam-peguam YB. Takp
 
 **Rafizi Ramli:** Kali ini memang Bosnia.
 
-**Pa'an:** Wabi sokong sebab memang wabi punya gaya sokong benda yang underdog ke, ataupun macam mana?
+**Pa'an:** YB sokong sebab memang YB punya gaya sokong benda yang underdog ke, ataupun macam mana?
 
 **Rafizi Ramli:** Aku selalu sokong underdog. Saya tak pernah sokong England daripada dulu, setiap kali Piala Dunia — tak pernah, okelah itu pun tak betul. Pasukan kegemaran saya daripada dulu-dulu, Piala Dunia sentiasa Brazil. Dan bukan sebab Brazil tu selalu menang ke apa, sebab permainan bola Brazil tu adalah satu hiburan kerana kemahiran dia itu di tahap lain berbanding pasukan-pasukan lain. Tapi saya selalu ada satu lagi pasukan underdog — jadi ada satu kali pasukan yang saya sokong adalah Belanda, dan Belanda menang dari mana-mana. Saya rasa ada satu tahun, satu masa, saya rasa perlahan-lahan semua orang menang untuk Croatia — selalu seperti itu. Pada masa itu, ada satu tahun Cameroon — semua orang menang untuk Cameroon sebagai underdog.
 

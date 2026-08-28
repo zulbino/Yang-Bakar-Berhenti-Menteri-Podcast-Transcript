@@ -70,11 +70,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi Ramli:** Baik, baik.
 
-**Cincong:** Tapi tadi tu, yang awal-awal pun tak betul. Sebab you kata kita kena memulakan siaran tepat jam pukul 10 — tapi ini rakaman, jadi kita rakam lambat hari ni. Lambat lebih kurang tujuh minit kerana ada mercun Tahun Baru Cina. Wabi, walaupun cuti-cuti ni, sanggup datang ke podcast ni. Eh, dah mula kerja dah.
+**Cincong:** Tapi tadi tu, yang awal-awal pun tak betul. Sebab you kata kita kena memulakan siaran tepat jam pukul 10 — tapi ini rakaman, jadi kita rakam lambat hari ni. Lambat lebih kurang tujuh minit kerana ada mercun Tahun Baru Cina. YB, walaupun cuti-cuti ni, sanggup datang ke podcast ni. Eh, dah mula kerja dah.
 
 **Speaker 3:** Oh dah mula kerja. Kau ingat orang Cina macam kita cuti? Dia dua hari cuti, dia mula kerja lah. Siapa kena buka kedai lah. Mood masa raya lah.
 
-**Cincong:** Mood masa raya. Badan kena kerja. Okey-okey, baik Wabi. Jadi mungkin sebelum kita mula — saya pakai baju Melayu warna merah, barulah kena dengan Ramadhan dan juga Tahun Baru Cina. Tapi sebab Haziq dah pakai, saya dah neutralkan lah, walaupun tak merah sangat pun. Kalau tidak, nanti jadi macam bosan. Tapi tak apa, sebab aku dah pakai — apa nama ni, dia panggil apa ni? Ni bukan cheongsam...
+**Cincong:** Mood masa raya. Badan kena kerja. Okey-okey, baik YB. Jadi mungkin sebelum kita mula — saya pakai baju Melayu warna merah, barulah kena dengan Ramadhan dan juga Tahun Baru Cina. Tapi sebab Haziq dah pakai, saya dah neutralkan lah, walaupun tak merah sangat pun. Kalau tidak, nanti jadi macam bosan. Tapi tak apa, sebab aku dah pakai — apa nama ni, dia panggil apa ni? Ni bukan cheongsam...
 
 **Rafizi Ramli:** Ni bukan lah. Ini cuma baju raya.
 
@@ -146,7 +146,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi Ramli:** Itu kelebihan dia lah — dengan cuma satu je kan, Kelantan dia tu masa lagi tak jalan, tak nampak, tak duduk lah. So maksudnya dia tak boleh masuk. PAS lagi lah kot, walaupun dah pakai kopiah semua kan.
 
-**Cincong:** So bila dia kata "tolak Muhyiddin berpaksikan tuntutan agama" ni — macam mana tu? Kena kita jemput dia. Tak apalah, bersangkan pukat. Okey baby, betul ya? Boleh kita — beria, beria, beria. Memang yang ini sangat beria menunggang agama. Tahniah. Okey, bersedia? Ha, yang ini — yang ini ha, Cincong ha, tak masuk bahasa Cincong terheret. Ha, ini apa ni, Wabi? Yang ini aku pun nak tengok ni — PMX beria jadi saitro, sokong Azam Baki. Maksudnya dia sendiri yang forward video ni. Orang yang bukan PKR mungkin terkejut lah. Ha, itu salah satu sebab saya keluar daripada — saya tak ada WhatsApp ni kan, sebab WhatsApp ni banyak grup lah. Jadi PKR ni ada — saya rasa yang ini di grup Malaysia Madani ke apa. Kemudian ada banyak-banyak grup lain, orang-orang, grup-grup tu lah.
+**Cincong:** So bila dia kata "tolak Muhyiddin berpaksikan tuntutan agama" ni — macam mana tu? Kena kita jemput dia. Tak apalah, bersangkan pukat. Okey baby, betul ya? Boleh kita — beria, beria, beria. Memang yang ini sangat beria menunggang agama. Tahniah. Okey, bersedia? Ha, yang ini — yang ini ha, Cincong ha, tak masuk bahasa Cincong terheret. Ha, ini apa ni, YB? Yang ini aku pun nak tengok ni — PMX beria jadi saitro, sokong Azam Baki. Maksudnya dia sendiri yang forward video ni. Orang yang bukan PKR mungkin terkejut lah. Ha, itu salah satu sebab saya keluar daripada — saya tak ada WhatsApp ni kan, sebab WhatsApp ni banyak grup lah. Jadi PKR ni ada — saya rasa yang ini di grup Malaysia Madani ke apa. Kemudian ada banyak-banyak grup lain, orang-orang, grup-grup tu lah.
 
 Orang mungkin tak tahu, di luar kuasa selain daripada menjadi Perdana Menteri, Dato' Seri Anwar juga sekali-sekala — orang kata moonlighting — dia moonlighting sebagai saitro juga dalam WhatsApp-WhatsApp. Tengok ni, dia forward satu komen, satu konten TikTok: "Kenapa muda nak tangkap Azam Baki." Kemudian ada gambar Said Sadiq, gambar arwah Tun Daim, gambar Naimah, gambar Tun Malik — itu gambar siapa, Mirzan ke, atau Pemozani lah — nak menunjukkan bahawa "muda" ini sebenarnya dibiayai dan menjadi alat kepada Tun Daim, Tun Dr Mahathir semua lah kan.
 
@@ -244,7 +244,7 @@ Jadi kita nak tengok ni, bila Dato' Seri Anwar pukul gendang perang, kata PKR be
 
 Kepada Faiz Naaman ni, kau kena ingat sebenarnya, kalau masuk parti ni tapi tak menjadi sebahagian daripada kelompok ataupun bukan kawan baik kumpulan Rafizi, kau takkan dapat kerusinya. Mudah saja lah kan. Saya sebenarnya bila orang macam ini, saya pun tak tahu lah dia seronok buat tuduhan macam ini semua ni kan. Saya tak terasa apa lah, tapi dosa itu dia tanggung lah. Kalau habis saman boleh buka dua lagi tu. Tak guna dia orang ni sebenarnya, tak tahu lah. Sebab kalau nak saman, masalah saman orang ni kan, kerana dia mengambil banyak masa. So it's not worth it. Dan yang kita kena saman nanti tu kita saman — ha, ada lah orang yang kena saman tu kan. Tapi kalau setiap... level cyber trooper ni dah jadi level chapalos. Dan ni dia ni kan, dia buat andaian yang... memang tak waras punya andaian-nya kan. Tapi yang lain tu dia tanggung di akhirat nanti lah.
 
-**Rafizi Ramli:** Ya, Wabi? Saya rasa sebab dia beria-ia mungkin sebab dia baru dalam parti PKR. So dia kena jadi chapalos yang lebih besar? Dia kena tunjukkan dia ke depan. Dan sedangkan saya perhatikan yang orang lama kan dalam parti tentang kes ni kan, ramai yang sebenarnya berdiam diri sebab mereka tahu sebenarnya apa yang berlaku, dan tidak menambahkan... dosa lah dalam
+**Rafizi Ramli:** Ya, YB? Saya rasa sebab dia beria-ia mungkin sebab dia baru dalam parti PKR. So dia kena jadi chapalos yang lebih besar? Dia kena tunjukkan dia ke depan. Dan sedangkan saya perhatikan yang orang lama kan dalam parti tentang kes ni kan, ramai yang sebenarnya berdiam diri sebab mereka tahu sebenarnya apa yang berlaku, dan tidak menambahkan... dosa lah dalam
 
 **Speaker 4:** kes ni. Sebenarnya, Cincong ada betul jugak, banyak yang menggembar-gemburkan pasal 1.1 billion ni sebenarnya, chapalos dengan yang baru masuk.
 

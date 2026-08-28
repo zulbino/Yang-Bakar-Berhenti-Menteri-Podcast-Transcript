@@ -536,7 +536,7 @@ Back in my day, I forced Datuk Seri Anwar to sit on a plastic chair just like me
 
 **Haziq:** VIP leaders sitting in front.
 
-**Faizal Rahman:** Wabi got left out. That's security protocol. The one singing the "tabola" beat that though...
+**Faizal Rahman:** YB got left out. That's security protocol. The one singing the "tabola" beat that though...
 
 **Haziq:** Really excessive, poor Dato' Uji. But you know, that "tabola" performer isn't even able to vote. Actually that tabola performer is a genuine artist from Batam — if you look closely, more Indonesian, meaning the original artist, brought in from Batam.
 

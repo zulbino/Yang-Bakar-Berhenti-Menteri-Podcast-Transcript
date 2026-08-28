@@ -537,7 +537,7 @@ Zaman kita dulu, masa saya, saya paksa Datuk Seri Anwar duduk atas kursi plastik
 
 **Haziq:** Pimpinan VIP duduk kat depan.
 
-**Faizal Rahman:** Wabi terlepas. Itu protokol keselamatan. Yang menyanyi tabola balik tu kalah lah...
+**Faizal Rahman:** YB terlepas. Itu protokol keselamatan. Yang menyanyi tabola balik tu kalah lah...
 
 **Haziq:** Memang merotai, kesian dekat Dato' Uji. Tapi nampak macam mana, tabola balik tu pun bukan boleh mengundi pun. Eh, tu tabola balik memang artis dia daripada Batam yang betul lah — kalau tengok betul lebih Indonesia, maksudnya original artist dia lah, dia ambil daripada Batam tu lah kan.
 
