@@ -72,11 +72,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [09:05] Farhan (Pa'an): light maybe. Oh, light. Habis light. Banyak tu. Oh,
 
-[09:09] Rafizi: okay okay. Tulis love tu, nampak? Okay
+[09:09] Multiple speakers: okay okay. Tulis love tu, nampak? Okay ... okay ... okay. Okay, next. Ketinggalan zaman untuk laku. Okay,
 
-[09:10] Wan Afiq: okay
 
-[09:11] Rafizi: okay. Okay, next. Ketinggalan zaman untuk laku. Okay,
 
 [09:14] Wan Afiq: dulu help Rafizi serang term MB Johor. So bahasa mudah saya simpulkan secara pendek sedikit. Phone on Afish. Ada cubaan untuk hack Oleh certain-certain perkara Then dia dapat notice daripada Apple
 
@@ -280,11 +278,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:11:05] Rafizi: Dia ni feudal tau Dia tanya minta izin, lepas tu dia terima kasih, very feudal Okay, saya kena
 
-[1:11:12] Farhan (Pa'an): keluar daripada mana punya Kita
+[1:11:12] Multiple speakers: keluar daripada mana punya Kita ... take turns lah, ... kesian
 
-[1:11:14] Rafizi: take turns lah,
 
-[1:11:14] Farhan (Pa'an): kesian
 
 [1:11:16] Rafizi: So take the heat off daripada Afiq
 
@@ -428,11 +424,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:10:56] Rafizi: Banyaknya, banyak doktor kan apa ini
 
-[2:10:58] Wan Afiq: Banyak
+[2:10:58] Multiple speakers: Banyak ... doktor, banyak ... pasal healthcare
 
-[2:10:59] Rafizi: doktor, banyak
 
-[2:10:59] Wan Afiq: pasal healthcare
 
 [2:11:00] Rafizi: I'm not a doctor and healthcare is not my
 
@@ -512,15 +506,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:45:55] Wan Afiq: So soalan boleh? Boleh kan dia kena soalan?
 
-[2:45:58] Rafizi: Boleh. Ada lagi soalan kan? Tak
+[2:45:58] Multiple speakers: Boleh. Ada lagi soalan kan? Tak ... tak ada. Ini ... dah habis dah ni? Ini dah habis ... dah. Oh okey okey ... okey.
 
-[2:46:00] Farhan (Pa'an): tak ada. Ini
 
-[2:46:00] Rafizi: dah habis dah ni? Ini dah habis
 
-[2:46:02] Farhan (Pa'an): dah. Oh okey okey
 
-[2:46:03] Wan Afiq: okey.
 
 [2:46:04] Rafizi: So yang lain akan memberontak lah kan tu ada lagi tu.
 
@@ -543,4 +533,3 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 [2:48:55] Wan Afiq: malam Bye bye semua
 
 [2:48:57] Rafizi: Terima kasih Assalamualaikum warahmatullahi wabarakatuh Dan jumpa lagi minggu depan Dan bersama akan terus ada pengumuman Demi pengumuman tiap-tiap minggu
-

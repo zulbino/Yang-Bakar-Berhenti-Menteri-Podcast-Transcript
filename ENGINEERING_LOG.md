@@ -1842,6 +1842,46 @@ longevity argument. A regex classifier over `raw.md` scored these at **zero**, b
   garble a text-only detector for speaker changes inside the collapsed blocks, needing no
   audio -- see the block-granularity audit alongside this entry.
 
+### 1.33: Word-level labelling shreds sentences, and naming the pieces is worse than not
+
+- **2026-08-28.** Near a real speaker change, the word-level pass in
+  `reattribute_blocks.py` flickers and chops one phrase into alternating fragments under
+  different names: ep15 `[2:00:59]` reads `Haziq: Ini` / `Rafizi: scaling up,` /
+  `Haziq: commercial` / `Rafizi: operation.` Four names on one phrase is four claims, and
+  at most one arrangement is right.
+- **Fixed:** 65 runs across 25 episodes now carry a single `Multiple speakers` turn with
+  the fragments joined by `...`, via `scripts/group_shredded_turns.py`. Every word stays
+  in order; the false precision goes. The convention is the repo owner's.
+
+**Merging the fragments into a neighbour asserts the opposite of the truth.** The first
+version folded each fragment into the surrounding label, and verification killed it:
+ep12 `[07:58]`'s "beria ok seterusnya" is the run-sheet voice, which is never Rafizi, and
+ep13 `[03:06]`'s "pun tak boleh?" completes a real question. In both the fragment is a
+genuine short turn and the NEIGHBOUR'S TAIL is what sits under the wrong name. Direction
+is not recoverable from text, so the only safe move is to make no claim at all.
+
+**The detector had to be narrowed twice, and both drafts failed for the same reason --
+treating Malay as if it were English.** Counting particles as mid-sentence markers
+matched 2,181 spans, because `Tak` and `Okey` are ordinary sentence *openers*, not
+continuations. Dropping that but grouping any alternating run still matched 482,
+including runs holding substantive paragraphs; ep01's "Dari mana?" / "Daripada Johor
+Bahru." is real rapid dialogue, correctly attributed, and blobbing it destroys good
+information. Three conditions together match 65: three or more consecutive turns, every
+turn eight words or fewer, and every seam mid-sentence.
+
+**Two silent-data-loss bugs sat in the write path, both found by inspecting the diff
+rather than the output.** Rebuilding the body from parsed turns drops every line the turn
+regex does not match -- 37 stage directions such as `[00:00] [music/intro]` across 21
+episodes. None were in the 25 target files, so this would have stayed invisible until the
+first run over ep23. And `splitlines()` discards the trailing newline, which rewrote the
+last turn of 7 files as a no-op diff. The write path now edits only the lines a run
+covers and asserts the word sequence is unchanged.
+
+**`Multiple speakers` is a label, so the roster tool listed it as a guest.** It was
+already sitting in ep42's and ep55's `guests:` from the previous session's manual
+application. Added to `rebuild_roster.py`'s `DROP` pattern alongside `overlapping
+speaker`. Any new non-person label needs the same treatment.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider

@@ -284,11 +284,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:24:02] Rafizi: Oh.
 
-[2:24:04] Haziq: Kita lupa. Kita lupa. Memang
+[2:24:04] Multiple speakers: Kita lupa. Kita lupa. Memang ... teruk aku kan this ... week.
 
-[2:24:06] Rafizi: teruk aku kan this
 
-[2:24:08] Haziq: week.
 
 [2:24:09] Rafizi: Saya baru teringat tadi sebab teringat pas. Satu, cakap... Langsung tak beria this week. Tak excited. Trend tu cuma mungkin sedikit berubah selepas daripada keputusan pihak REN Sabah. Oibir cakap tadi dalam UMNO pun ada aliran yang kata, why not kita bergantung kepada DAP untuk sokongan. Mereka pun melihat DAP pun macam 50-50 dengan kaum China ni. Adakah? perkiraan untuk masuk dalam PRU15 tu akan ambil kira benda tu termasuklah contohnya dah tak payah bergantungan DAP jadi kita bertanding je lah semua sebagai contohnya Baiklah. Kalaupun perkiraannya ialah DAP mungkin tak boleh deliver undi China, siapa yang boleh deliver? Chances are DAP walaupun dia tidak dapat sedominan undi China seperti sebelum ini, masih lagi majoriti pengundi China akan bagi kepada DAP. PKR itu lagi kuranglah. Jadi, dan... Saya tak tahulah kalau tengok kepada Datuk Seri Anwar, kepada pimpinan kerajaan semua kan. Sebenarnya yang nampak betul-betul gelisah dan bimbang ni hanyalah DAP. Kita tak nampak gaya-gaya yang contohnya Dato' Sri Anwar ataupun PKR rasa ini krisis besar ataupun BN. Tak ada. Hanya DAP yang berkeraskan. Jadi saya rasa sebahagiannya juga mereka merasakan bubble, mereka duduk dalam bubble itu yang tamparan daripada Sabah itu tidaklah sebesar yang kita rakyat di luar ini nampak. Baik, baik, baik. Lepas tu ada chaplose. Chaplose akan lambung, lambung, lambung kan. Dan chaplose tu akan membesarkan lagi bubble tu. Bubble tu makin besar, makin besar lah. Okay, baik. YB. Clear YB, okay. Satu jam. Eh, dua jam, 20 minit. Hmm. Aku rasa tak beria Okay baik YB Itu sahaja Saya minta maaf Kepada penonton-penonton Kerana production team Minggu ini Nampaknya memang tak beria Susah nak talk Fuzia lah. Tapi sebenarnya ada satu. Itu adalah alasan Ceplos. Kan aku dah cakap, kalau kita ada persaingan, we should strive better. Kena cari lagi. Point finger kepada Fuzia. Sebab ada Fuzia sebagai beria terulung ni. Susah yang lain nak cari makan. Sebenarnya kita
 

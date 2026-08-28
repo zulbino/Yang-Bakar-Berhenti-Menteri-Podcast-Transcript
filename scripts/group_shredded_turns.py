@@ -33,7 +33,7 @@ THE SCOPE HAS TO BE NARROW, and two earlier drafts were too wide:
     substantive paragraphs. ep01's "Dari mana?" / "Daripada Johor Bahru." is real rapid
     dialogue, correctly attributed, and blobbing it would destroy good information.
 
-All three conditions are required, and together they match 61 runs / 564 words:
+All three conditions are required, and together they match 65 runs across 25 files:
 
   1. Three or more consecutive turns, so at least two seams are untrustworthy.
   2. EVERY turn at most MAX_FRAGMENT_WORDS words -- a fragment, not a real turn.
@@ -43,6 +43,11 @@ All three conditions are required, and together they match 61 runs / 564 words:
 Runs that fail these are reported, not touched: isolated single tears (one fragment
 between two substantial turns) still need audio to place, and the acoustic pass in
 reattribute_blocks.py is where that belongs.
+
+The write path edits the covered lines in place rather than rebuilding the body from
+parsed turns. Rebuilding drops every line the turn regex does not match, which is 37
+stage directions ("[00:00] [music/intro]") across 21 episodes -- none of them in today's
+25 target files, so the loss would have been silent until the first run over ep23.
 """
 import re
 import sys
@@ -59,8 +64,15 @@ TURN = re.compile(r"^\[([0-9:]+)\]\s*([^:]{1,40}?):\s*(.*)$")
 
 
 def parse(body):
-    return [[m.group(1), m.group(2).strip(), m.group(3).strip()]
-            for m in (TURN.match(line.strip()) for line in body.splitlines()) if m]
+    """(timestamp, label, text, line_index). The line index is what makes the write path
+    edit in place: stage-direction lines like "[00:00] [music/intro]" carry no label, so
+    rebuilding the body from turns alone would silently delete all 37 of them."""
+    turns = []
+    for n, line in enumerate(body.splitlines()):
+        m = TURN.match(line.strip())
+        if m:
+            turns.append([m.group(1), m.group(2).strip(), m.group(3).strip(), n])
+    return turns
 
 
 def _fragment(turn):
@@ -92,23 +104,18 @@ def find_runs(turns):
     return runs
 
 
-def apply_runs(turns, runs):
-    grouped, out, cut = [], [], {}
+def apply_runs(body, turns, runs):
+    """Rewrites only the lines a run covers, leaving every other line byte-identical."""
+    lines = body.splitlines()
+    grouped, drop = [], set()
     for i, j in runs:
-        cut[i] = j
-    k = 0
-    while k < len(turns):
-        if k in cut:
-            j = cut[k]
-            span = turns[k:j + 1]
-            text = JOIN.join(t[2] for t in span)
-            out.append([span[0][0], GROUP_LABEL, text])
-            grouped.append((span[0][0], [(t[1], t[2]) for t in span]))
-            k = j + 1
-        else:
-            out.append(turns[k])
-            k += 1
-    return out, grouped
+        span = turns[i:j + 1]
+        grouped.append((span[0][0], [(t[1], t[2]) for t in span]))
+        lines[span[0][3]] = (f"[{span[0][0]}] {GROUP_LABEL}: "
+                             + JOIN.join(t[2] for t in span))
+        for t in span[1:]:
+            drop.add(t[3])
+    return chr(10).join(l for n, l in enumerate(lines) if n not in drop), grouped
 
 
 def main():
@@ -125,7 +132,7 @@ def main():
         runs = find_runs(turns)
         if not runs:
             continue
-        new_turns, grouped = apply_runs(turns, runs)
+        new_body, grouped = apply_runs(body, turns, runs)
         files += 1
         total += len(grouped)
         label = f"{tag}{'(24)' if 'bakar' in str(path) else ''}"
@@ -134,9 +141,11 @@ def main():
             print(f"   [{ts:>8}] " + "  |  ".join(f"{lab}: {txt}" for lab, txt in span))
             print(f"             => {GROUP_LABEL}: {JOIN.join(t[1] for t in span)}")
         if write:
-            new_body = ("\n\n" + "\n\n".join(f"[{t[0]}] {t[1]}: {t[2]}" for t in new_turns)
-                        + "\n")
-            path.write_text(head + "# Raw Transcript" + new_body, encoding="utf-8")
+            before = " ".join(t[2] for t in turns)
+            after = " ".join(t[2].replace(JOIN, " ") for t in parse(new_body))
+            assert before.split() == after.split(), f"{tag}: word content changed"
+            path.write_text(head + "# Raw Transcript" + new_body.rstrip(chr(10)) + chr(10),
+                            encoding="utf-8")
     print("")
     print(f"{total} shredded runs across {files} files")
     print("dry run -- pass --write to apply" if not write else "written")

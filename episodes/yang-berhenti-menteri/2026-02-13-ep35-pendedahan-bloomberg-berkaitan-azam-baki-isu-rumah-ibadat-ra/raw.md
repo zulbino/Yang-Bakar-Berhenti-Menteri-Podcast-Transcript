@@ -371,11 +371,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:10:49] Haziq: Baik kita dah lama benda ni. 2 jam 8 minit. Ok la.
 
-[2:10:54] Rafizi: Kita kita ada dalam 30 minit untuk habis
+[2:10:54] Multiple speakers: Kita kita ada dalam 30 minit untuk habis ... ada 2 lagi. Ada 2 ... lagi.
 
-[2:10:57] Haziq: ada 2 lagi. Ada 2
 
-[2:10:58] Rafizi: lagi.
 
 [2:11:00] Haziq: Jadi sebelum yang terakhir itulah yang Wafiy ada sebut sebut tadi tu kita pergi ke satu tajuk yang saya rasa agak research jugalah. Isu rumah ibadat, penyelesaian atau tambah garam kepada luka lama dan mungkin kalau tengok pendekatan Perdana Menteri pun. Dia benarkan. Pembersihan rumah ibadat tanpa kebenaran. Tapi dalam masa sama dia tak benarkan kempen yang berbentuk anti rumah ibadat haram nak runtuhkan sendiri ke nak demo ke tak boleh jadi ialah pada dia. Mungkin dia jalan jalan tu ok lah. Dua dua macam fair. Tapi adakah pendekatan ni sustainable? Ataupun mungkin ada cara yang lebih baik. Macam mana nak tackle this problem?
 

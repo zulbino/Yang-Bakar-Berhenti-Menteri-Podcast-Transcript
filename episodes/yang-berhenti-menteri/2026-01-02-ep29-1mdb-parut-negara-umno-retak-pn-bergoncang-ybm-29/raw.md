@@ -48,15 +48,11 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [03:25] Rafizi: YB cuma Saya Iqbal, introduce lah Iqbal Dia pakai baju pas tu Kita
 
-[03:30] Iqbal: semua tiga-tiga pakai baju
+[03:30] Multiple speakers: semua tiga-tiga pakai baju ... secara ... tidak ... sengaja ... ataupun subliminally
 
-[03:32] Haziq: secara
 
-[03:34] Rafizi: tidak
 
-[03:34] Haziq: sengaja
 
-[03:36] Iqbal: ataupun subliminally
 
 [03:37] Rafizi: sengaja tak tak, I just want to fit I thought that I could fit dalam baju Melayu ni yang ni tahun 2023 it's quite obvious I'm still fat lah kan
 
@@ -80,11 +76,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [04:06] Haziq: go
 
-[04:07] Haziq: to that stage. Aku
+[04:07] Multiple speakers: to that stage. Aku ... punya batuk terbangun tengah tidur sebab ... batuk. YB dah recover lah. Dah recover lah,
 
-[04:09] Rafizi: punya batuk terbangun tengah tidur sebab
 
-[04:12] Haziq: batuk. YB dah recover lah. Dah recover lah,
 
 [04:14] Haziq: much better. Okay lepas saya, Haziq pula lepas ni.
 
@@ -264,21 +258,17 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [39:46] Iqbal: Dalam 24 jam pertama lepas you sworn in, apa does that look like typically? 24 jam kelihatan.
 
-[39:59] Rafizi: Dia tak sama kot MB dengan menteri kan
+[39:59] Multiple speakers: Dia tak sama kot MB dengan menteri kan ... kedudukan kuasa yang saya bayangkan At least ... untuk buat first impression tu lah
 
-[40:03] Iqbal: kedudukan kuasa yang saya bayangkan At least
 
-[40:06] Haziq: untuk buat first impression tu lah
 
 [40:08] Rafizi: You pergi office kemudian you go through taklimat lah Ada beberapa perkara yang perlu dipenuhi. Contohnya, whatever dokumen rahsia rasmi yang you kena sign, you kena sign. Dan selalunya, kalau kementerian ke, ataupun kalau negeri, SUK lah, sesuatu kajian negeri kan, dia akan sediakan... basically welcoming pack lah. Welcoming pack tu selalunya kalau menteri, buku tata cara menteri kan dan juga akta dan juga contohnya kelayakan menteri, hal-hal pentadbiran lah. But after that, in my case tu in fact in my case lagi teruk. Kerana saya menyanyi, Lian. I don't know, but I think I had to represent the country and attend the meeting sebelum aku angkat sumpah. Sebab I think angkat sumpah hari Isnin kan, something like that, hari bekerja lah. So kebetulan meeting OPEC, meeting OPEC is always online dan dia malam kadang-kadang sampai 2-3 pagi. Menteri tak ada because kerajaan bertukar kan dan meeting of PEC ni dipengerusikan oleh Putera Abdul Aziz which is abang kepada Muhammad bin Salman lah. So, yelah it's very high powered punya tu lah. Jadi, kalau tak ada menteri ni memang panik lah kerajaan kan. Jadi, I think they persuaded me walaupun tak angkat sumpah lagi or something, kena hadir lah. meeting OPEC so but I don't know other people lah my experience is that after angkat sumpah tu you hit the ground running terus but then dalam case macam ni saya
 
 [42:07] Iqbal: macam pelik adakah meeting ni disetkan oleh pejabat dia was this supposed to happen sebelum dengan ambience sebelumnya
 
-[42:15] Rafizi: ataupun oi tak I don't think
+[42:15] Multiple speakers: ataupun oi tak I don't think ... dan ... kenapa sukan tarik
 
-[42:18] Farhan (Pa'an): dan
 
-[42:18] Rafizi: kenapa sukan tarik
 
 [42:19] Rafizi: tali
 

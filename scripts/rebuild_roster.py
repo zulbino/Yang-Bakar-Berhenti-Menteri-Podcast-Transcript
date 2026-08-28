@@ -66,7 +66,8 @@ MERGE = {
 }
 # not people: diarization placeholders, roles, and the cat
 DROP = re.compile(
-    r"^(speaker\s*[\d?]+|speaker\s*\?|overlapping speaker|quoted clip|audience|"
+    r"^(speaker\s*[\d?]+|speaker\s*\?|overlapping speaker|multiple speakers|"
+    r"quoted clip|audience|"
     r"host|co-host|moderator|interviewer|host \(unnamed presenter\)|"
     r"chopper.*|unnamed.*|unknown.*)$", re.I)
 

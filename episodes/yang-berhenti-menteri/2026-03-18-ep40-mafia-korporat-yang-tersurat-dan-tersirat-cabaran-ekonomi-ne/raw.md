@@ -53,11 +53,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [18:32] Farhan (Pa'an): Saya sudah sebutkan, pengalaman, untuk jujur, Firefly pun pernah kena sekali.
 
-[18:37] Rafizi: Tidak, Firefly
+[18:37] Multiple speakers: Tidak, Firefly ... ke Penang. Kita ... balik.
 
-[18:40] Farhan (Pa'an): ke Penang. Kita
 
-[18:41] Rafizi: balik.
 
 [18:44] Farhan (Pa'an): Kelantan Kelantan Kelantan TKSU pun kena Kena sidai 4 jam
 
@@ -162,4 +160,3 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 [2:16:36] Farhan (Pa'an): Itu sebab kami bukan politicians.
 
 [2:16:38] Rafizi: Tapi Goybi akan ada penampilan istimewa kan? Saya akan ada penampilan istimewa tunggu ucapan raya saya. Tapi masuk beria tak untuk minggu depan punya segment? Kita tengok orang. Kalau orang kata beria memang kita masuk kan? Tengok respon. Kalau aku kena troll memang kena masuk beria lah. Jadi conflict of interest kalau minggu depan aku punya tu kena troll, Bila dah habis Bawa aku masuk balik lah Ini buatan usiapan Raya YB tahun ni lah Yang akan keluar nanti Okay Itu sahaja Selamat Raya Selamat Raya Oh kereta elok-elok Okay bye Assalamualaikum Assalamualaikum
-

@@ -86,11 +86,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [26:53] Haziq: Okey, baik YB Having said that, kita ke Bukan episod, tapi
 
-[26:58] Rafizi: Segmen seterusnya Ini
+[26:58] Multiple speakers: Segmen seterusnya Ini ... segmen ... yang
 
-[27:00] Haziq: segmen
 
-[27:00] Rafizi: yang
 
 [27:01] Haziq: keras Hidup ni keras, baik. Hidup keras dek. Jadi kekerasan yang pertama, saya rasa ni minggu Budi 95 lah. Walaupun dah diterangkan beberapa kali, tapi mungkin saya nak tanya sikit lah benda yang... Yang pertama, Budi 95, 300 liter untuk semua. Cuma soalnya YB, saya rasa YB pun dah bercakap panjang macam mana dari faktor bagaimana ditentukan dan mempengaruhi. What if? Selepas ini harga minyak mentah per barrel meningkat seperti beberapa tahun lepas Dan dalam masa sama USD dan Malaysia Ringgit ada sedikit masalah ataupun ia pun masalah juga Jadi apa kerajaan perlu buat waktu itu dan macam mana kita nak selesaikan
 
@@ -200,13 +198,10 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:00:55] Rafizi: bateri sodium ion yang pertama kan. Sodium ion bateri ni dah ada.
 
-[2:00:59] Haziq: Ini
+[2:00:59] Multiple speakers: Ini ... scaling up, ... commercial ... operation.
 
-[2:00:59] Rafizi: scaling up,
 
-[2:01:00] Haziq: commercial
 
-[2:01:01] Rafizi: operation.
 
 [2:01:02] Haziq: Yes, yes. Dan kalau bateri sekarang ni, biasa kita lithium ion lah. Jadi dia sebenarnya dua-dua ni pun ada pro and cons. Tapi macam mana dengan ada sodium ion yang pertama yang dah di-commercialize ni, YB? Dia akan game changer sikit lah. Especially untuk renewable energy ke.
 
@@ -321,4 +316,3 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 [2:43:31] Rafizi: cakap awal-awal. Sekarang ini orang dah cabut
 
 [2:43:35] Haziq: tidur semualah. Okay, kita akan approve. Kita akan cakap awal-awal. Okay, kita jumpa lagi minggu depan. Assalamualaikum dan selamat malam.
-

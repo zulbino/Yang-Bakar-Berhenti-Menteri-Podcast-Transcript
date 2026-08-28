@@ -40,11 +40,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [03:10] Rafizi: Oh iya ke? Amharic. Etopia.
 
-[03:14] Haziq: Saya
+[03:14] Multiple speakers: Saya ... kena ... copy masuk chat GBT, what language
 
-[03:15] Rafizi: kena
 
-[03:16] Haziq: copy masuk chat GBT, what language
 
 [03:18] Rafizi: it is. And then cuba tengok apa tu tak ada kena-mengena langsung dengan Anwar Ibrahim. Accept it. They say you mention me, it looks like a wish. Don't mind attacking. Even if the quote is repeated, So, apa nama ni, kalau saya jadi ceplos-ceplos, saya bimbang lah. Maksudnya, ceplos-ceplos pun sekarang ini telah terdedah kepada ancaman pekerja asing. Kalau tak selama ni kita ingat ni Pekerja-pekerja dekat ladang kelapa sawit ke apa Sekarang cyber trooper pun terdedah kepada pekerja asing
 
@@ -102,11 +100,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [15:00] Haziq: YB, saya selaku tak tahu siapa-siapa nak bagi pandangan atau nak meneka lah kenapa YB buat macam ni. Sebab ramai yang kata Alah YB takkanlah nak pati sangat benda macam ni Tapi saya awal-awal tengok pun eh apa hal Hafiz ni Tapi bila saya fikir bila saya teringat YB banyak cakap kan Kita terlalu banyak menyembunyikan perkara-perkara yang sebenarnya tak baik, tabiat yang buruk dengan benda-benda yang bagus Contohnya, YB pernah bagi contoh dalam podcast episod ke-5 ke ke-6 tentang hadiah hari guru kan Kononnya kita nak hargai orang itu hari guru tapi kita dah instil budaya bodek dan besar-besar lektor tu lah. Macam ni saya tengok Ini pseudo-intellect. Mungkinlah.
 
-[15:54] Rafizi: We can't even tell
+[15:54] Multiple speakers: We can't even tell ... whether it's ... pseudo-intellect ke tidak kerana dia hanyalah gambar. Haa.
 
-[15:55] Haziq: whether it's
 
-[15:56] Rafizi: pseudo-intellect ke tidak kerana dia hanyalah gambar. Haa.
 
 [16:00] Haziq: Dan juga mungkin politik gambar tapi disulamkan dengan benda-benda yang murni. Oh ini budaya yang baca, baguslah. Tapi dia ada budaya yang buruk di sebaliknya yang disorokkan.
 
@@ -154,13 +150,10 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [42:26] Haziq: kesan daripada pembangunan yang sangat dahsyat dulu lah kan
 
-[42:31] Rafizi: ok spesifik lagi maksudnya
+[42:31] Multiple speakers: ok spesifik lagi maksudnya ... traffic jam ... dia sebenarnya traffic jam ... ha
 
-[42:33] Haziq: traffic jam
 
-[42:34] Rafizi: dia sebenarnya traffic jam
 
-[42:36] Haziq: ha
 
 [42:38] Rafizi: Isu nombor satu Bila kita buat kajian data menunjukkan, saya pun terkejut padak. Saya tak pernah semua hidup. Saya mengendalikan pilihan raya banyak kali, kemudian mengendalikan polling, survei, kajian selidik banyak kali kan. Ini kali pertama isu paling besar di dalam sebuah pilihan raya ialah traffic jam. Hahaha. Jadi kita tak dengar sama ada PH ke BN. And the very fact, contohnya PH yang sebenarnya ada banyak wakil rakyat di kawasan-kawasan selatan Johor ni, baik DON ataupun baik parlimen, The very fact kita tak dengar pasal itu, bagi saya melambangkan bagaimana naratif yang ditentukan oleh pimpinan pusat itu benar-benar sangat terpisah dengan apa kehendak dan juga kecenderungan pengundi-pengundi di bawah lah sudah tentu tak mudah lah kalau kita nak cakap bersama akan bercakap pasal traffic jam kan contohnya memang akan ke? memang akan bercakap pasal traffic jam kita sebenarnya melihat kepada data mana yang kita rasa data menunjukkan sekian-sekian kita perlu bagi reaksi dan respon lah kepada isu-isu itu kan cuma bila bersama pun kita cuba mengulas pengundi-pengundi di Johor kenapa perlu undi bersama dalam kes traffic jam ni tak mudah jugalah untuk kita olah jadi itu adalah cabaran-cabaran yang ada kepada parti-parti politik yang bertanding sekarang cuma Pada bacaan saya lah Kalau parti-parti politik termasuklah bersama sendiri apatah lagi parti-parti politik gabungan yang besar-besar ni kan Kalau fokusnya itu adalah semata-mata mengenai politik personality Kalau BN cuba dipaparkan yang Dato' Seri On Hafiz ni poster boy Maka undilah kami sebab poster boy kami dia popular Ibrahim, PMX the best PMX the best kan ataupun at the lower level mungkin Dr. Mazli Malik you know, dia akan membawa kepakaran dia sebagai menteri pendidikan ke negeri semua kan I don't know whether that will work To be frank I really don't know whether that will work Sebab Kalau mengikut data tu Nampaknya Ialah kecelaruan pengundi. Pengundi memang merasakan bahawa pusing-pusing-pusing macam itu juga. Dia tidak akan mengubah apa-apa. Aku tetap kena hadap benda ini tiap-tiap hari lah kan. Itu sebahagian besar daripada pengundi atas pagar yang akan menentukan pilihan raya ini. And how and... you know how any party can come in and convince and energize this fan sitter itu adalah cabaran yang besar yang bersama pun tidak tentu ada jawapan ke arah itulah
 
@@ -204,11 +197,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:14:24] Rafizi: you pergi, then dia tidak akan membazirkan masa lah kan. Kenapa kita buat begitu ialah kerana pengalaman saya sendiri pun menguruskan pilihan raya dan juga sebagai calon Dia sebenarnya orang-orang parti ni yang kononnya bertanggungjawab menguruskan kempen parti ni pun kadang-kadang ada kepala angin juga Orang datang dia tak nak terima chill semua kan. Ramai sahaja orang datang tau untuk kalau ada bilik gerakan, ramai sahaja orang datang ke bilik gerakan untuk Saya nak buat apa? Saya nak buat apa? Ya, ya. Tapi tak ada orang layan dia, ada setengah tu kena halau je. Sebab, oh saya sibuk lah, tak payah ni ni ni kan semua kan. Jadi sebab itu kita selalu rugi. Kerana orang yang datang sebagai sukarela nak tolong itu, yang itu sebab orang tak kenal ataupun tak ada orang nak layan dia, akhirnya dia tak membantulah. Jadi itu perkara yang kita cuba selesaikan melalui sistem kancil, bersama, dia tak payah nak pergi tanya siapa-siapa, nak kenal orang semua, memang semua senarai itu dah ada, boleh pilih yang mana dia boleh susun jadual dia kalau kita berjaya buat yang ini Kita akan ubah struktur budaya politik di Malaysia yang cenderung rasuah. Sebab itu pada pandangan saya lah selepas yang saya lalui 25 tahun lebih dalam politik di Malaysia ni kan. Saya tak percaya lagi dah slogan-slogan ni. Kami anti rasuah, kami anti sakar. Saya tak percaya dah. Hmm. Kalau orang kata orang tu lagi bersih daripada orang ni, itu pun aku tak percaya. Saya rasa kita dah sampai ke peringkat yang mana kalau benar-benar nak tengok parti itu atau pemimpin itu benar-benar anti-rasuah atau ada integriti ke tidak, tengok kepada tindakan dia, tengok kepada... Sistem dan budaya dan proses yang ada di dalam parti dia Kalau kita contohnya ingin melawan rasuah dan penyelewengan ahli politik Dia tak cukup dengan mengetatkan undang-undang Bagi saya dia tak cukup pun kalau ada akta pendanaan politik Sebab orang politik ni cekedik Ada je jalan dia Loophole dia kena kan Kalau kita betul-betul nak lawan yang itu, kita kena ubah keseluruhan pendekatan dan amalan dan disiplin dalam politik. Dan yang itu bermakna, parti-parti politik kena berkempen dan ambil jalan kami kazi, berkempen tanpa menggunakan wang dan kembali kepada cara sukarela. Cuma cara nak buat itu, dia tak boleh dengan mulut sajalah. Kalau cara, secara sukarela, kita mesti memberi ruang kepada semua orang yang nak membantu, hatta satu jam pun, dia boleh membantu. Itu yang sekarang kami cuba laksanakan. Sama ada berjaya ataupun tidak, kita kena usahalah. Kalau tak berjaya kali ini, kita cuba lagi. Sebab budaya ini tak mudah. ni dia tak suka daftar-daftar cari semua ni kan dia tak suka dia kalau boleh ikut sekarang aku lah aku pergi aku pergi aku tolong.
 
-[1:17:55] Haziq: But
+[1:17:55] Multiple speakers: But ... why registration is so important ... maybe?
 
-[1:17:56] Rafizi: why registration is so important
 
-[1:17:57] Haziq: maybe?
 
 [1:17:57] Rafizi: Untuk kita Menyusun, satu menyusun dari segi orang kata apa nama ni, resource, contohnya kan. Kita ada limited resources, bendera ada banyak tu je. Jadi kita nak pastikan berapa orang yang ada pasang berapa bendera. Sebab yang selalu berlaku dalam parti-parti politik sedia ada ialah belanja banyak-banyak, bagi bendera, mamat tu tak pasang pun. Sebab itu pendaftaran tu penting. Saya nak tahu sebenarnya siapa yang ambil bendera dan dia pasang ke tidak. Dia muncul ke tidak. Bila kita buat ceramah, kita minta seberapa yang banyak daftar-daftar-daftar sebab ia membantu kita menguruskan acara itu dengan baik. Kalau yang daftar itu 50 orang, kita letak kursi 50 lah. Kalau yang daftar itu 300, kita letak 300. Jadi kursi itu kami nak kena sewa. Kursi itu kami nak kena kutip balik kan dan kami tak ada duit. Jadi saya terpaksalah merayu supaya kita ubah sedikit budaya kita dengan mendaftarkan. Jadi contoh yang baiklah. Kalau orang datang rumah kau tak cakap dengan kau, kau pun bengka juga lah. Kau baru-baru tidur lah, lepas tu makanan pun tak ada, kopi pun dah habis semua ni kan. Hatta benda simple, orang nak datang rumah kita supaya kita boleh... bersedia dengan lebih baik, kita kena tahu dulu. Begitulah juga dengan kempen pilihan raya lah. Dan satu lagi, kenapa kena mendaftar ini supaya kita betul-betul boleh pegang dan tahu kekuatan jentera kita. Kalau tidak, saya jadi seperti ahli-ahli politik pimpinan parti lain yang syok sendiri. Ya, saya ada ramai orang. Ya, saya ada tu. Keluar ada tiga orang. Mampu engkau. Kan? Oh, saya hebat-hebat. Keluar ada sepuluh orang kan? Jadi sebab itu, kita dan supaya kita benar-benar realistik dengan sebab bersama baru satu bulan kita nak kena realistik lah kalau ada empat orang, empat orang lah kat situ jadi kalau ada empat orang maka kita susun dengan cara empat orang kalau ada dua puluh orang kita susun dengan dua puluh orang contohnya nak pasang banner bahan-bahan promosi kan Kalau dekat don itu hanya ada mungkin 10 orang, kita tak cukup orang, maka kita nak kena sesuaikanlah 10 orang ni untuk tempoh seminggu ni berapa banyaknya dia boleh pasang. Jadi tak perlulah berbelanja sampai beratus-ratus ribu lepas itu membazir tak pasang. Jadi semua ini ialah... Pengurusan yang baik untuk mengelakkan pembaziran dan memastikan kempen kita cekap. Cuma satu-satunya yang kita perlu minta tolong ialah orang ramai terutamanya ahli bersama Sukarelawan yang nak membantu itu, sila masuk dan log in ke sistem Kancil, pergi ke laman bersama.org, tekan sertai kempen. Yang itu memang budaya orang kita, dia kurang suka sikit. Dia tak apa nanti saya pergi sendiri semua, walk in, walk in, walk in, suka walk in kan. Itu yang beratur nak interview 3,000 orang tu kan. So yang itu saya kena minta kan supaya sebab begini saya juga tak nak orang datang susah payah daripada saya rasa akan ada yang bawa kereta dia seronok kan dia naik bas ke pergi ke berkampen di Johor Sampai-sampai dia klip-klip dia tak tahu buat apa jadi rugi masa dia rugi duit dia rugi kita rugi calon kan jadi Hanya dengan satu minit, dengan login kepada sistem Kancil, masuk ke situ, sertai kempen kami, daripada situ boleh tahu tegur sebenarnya ke mana nak pergi, siapa nak contact semualah.
 
@@ -227,4 +218,3 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 [1:31:20] Haziq: Kita gerak dulu
 
 [1:31:22] Rafizi: Assalamualaikum Warahmatullahi Wabarakatuh Jangan lupa esok Jumpa esok
-

@@ -181,11 +181,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [33:24] Rafizi: Korang AI kan rambut aku sekali ke apa tu Nampak macam lebat je
 
-[33:28] Zikri Kamarulzaman: Gambar sama
+[33:28] Multiple speakers: Gambar sama ... lah Tak nampak ... muka tapi dia keluar rambut sekali
 
-[33:29] Rafizi: lah Tak nampak
 
-[33:29] Zikri Kamarulzaman: muka tapi dia keluar rambut sekali
 
 [33:34] Rafizi: But this issue lah kan Bias kita yang grill Zikri Before aku kena grill Media freedom banyak soalan Media freedom On the one hand, ialah apa nama ni, Malaysia Ups, Latest Sport, semua tu kan. Tapi pada masa yang sama juga, kita, I don't know, mungkin lah Psychologically I'm wrong Tapi memang ada rasa macam banyak je tindakan Every now and then ada saja yang Journalist ini disoal, ditahan So much so that I feel lah Sebagai orang biasa, bukan journalist lah So I wouldn't, that's why nak tanya journalist ni kan Dia macam Tak ada beza lah dengan sebelum ni kan.
 

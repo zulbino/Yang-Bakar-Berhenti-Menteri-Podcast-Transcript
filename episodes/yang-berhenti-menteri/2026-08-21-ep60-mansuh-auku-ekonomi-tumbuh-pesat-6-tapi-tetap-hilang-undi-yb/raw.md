@@ -59,11 +59,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [04:46] Rafizi: Cina. Campur Cina, campur
 
-[04:47] Sum Dek Jo: Jepun
+[04:47] Multiple speakers: Jepun ... dengan ... campur
 
-[04:48] Haziq: dengan
 
-[04:48] Sum Dek Jo: campur
 
 [04:49] Haziq: Korea
 
@@ -315,11 +313,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [52:12] Haziq: Baik, baik. Kita nak mengundi. Kita nak mengundi. Bagi Kak Jo, kena
 
-[52:16] Rafizi: pilih yang
+[52:16] Multiple speakers: pilih yang ... mana yang paling ... beria. Bagi saya, saya rasa mahal.
 
-[52:17] Haziq: mana yang paling
 
-[52:18] Sum Dek Jo: beria. Bagi saya, saya rasa mahal.
 
 [52:21] Rafizi: Oh, bukan Fahani. Fahal
 
@@ -594,4 +590,3 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 [3:17:09] Haziq: kat situ kot. Ya, 3 jam 16 minit. Itu sahaja 3 jam 16 minit juga Ya Itu sahaja Terima kasih kepada Joe Yang sudi hadir Jangan serik Joe Nanti datang
 
 [3:17:18] Rafizi: lagi Nanti datang lagi Bagi yang lain Kita jumpa lagi nanti Chopper kering salam Dia demam kat luar Terbontang dia kat luar Demam Ya, kita bersama. Dan kita ada kenduri bersama di Tangga Batu dekat Bukit Rambai hari Ahad pagi. Dan malam itu kita ada ceramah di Sungai Udang di depan Masjid Tun Ghaffar Baba. Di Sungai Udang. Jadi jumpa saya hari Jumaat. Hari Jumaat pula. Hari Ahad. Hari Ahad dekat Melaka. Selangor kan Kita ada di Subang Di Petaling Jaya Dan malam tu ada Satu dinner Dengan Ahli-ahli bersama Di Kerana Jaya KGNS KGNS Kelab Golf Negara Subang. Okey, itu saja. Okey, terima kasih banyak-banyak. Terima kasih. Assalamualaikum.
-

@@ -67,19 +67,14 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [04:42] Wan Afiq: Harapnya tidak lah kan Ni yang mana ni Ni waktu demo hari tu Dia Wartawan tanya dia Tak pergi demo ke Dia kata dia tak dijemput
 
-[04:52] Rafizi: Kenapa muka dia macam Jamal Abdillah Haa
+[04:52] Multiple speakers: Kenapa muka dia macam Jamal Abdillah Haa ... itu faham ... nak ... tanya.
 
-[04:55] Wan Afiq: itu faham
 
-[04:55] Rafizi: nak
 
-[04:55] Wan Afiq: tanya.
 
-[04:57] Farhan (Pa'an): Saya minta dia share skincare
+[04:57] Multiple speakers: Saya minta dia share skincare ... rutin ... dia.
 
-[05:00] Rafizi: rutin
 
-[05:00] Farhan (Pa'an): dia.
 
 [05:02] Rafizi: Nampak berbeza lah, nampak muda sikit. Korang dah selalu kutuk mata dia merah terus dia pakai shade. Sorry tak nampak mata dah. Tapi dia bergaya tu. Tak ada, ni apa dia, saya tak akan berhimpun di hadapan Sogo selepas tamat perkhidmatan. Ni sebab apa orang tanya dia, dia join demo
 
@@ -423,15 +418,11 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:24:13] Rafizi: Follow of Vietnam Itu tambah lagi kalau follow of Vietnam How does that Hmm Bagaimana keadaan itu sebenarnya cukup bertentangan dengan tonggak Platform sosial Yang mana Anda mesti mempunyai efek jaringan Dia jadi fit lah Maksudnya, walaupun you nampak kasar, hebat, share 100, 200 kan, actually dia pergi kepada 200 orang itu sahaja. It doesn't go to other people.
 
-[2:24:47] Amir Sahmat: Maksudnya, dia
+[2:24:47] Multiple speakers: Maksudnya, dia ... orang ni ... short ... sendiri ... and
 
-[2:24:47] Rafizi: orang ni
 
-[2:24:48] Amir Sahmat: short
 
-[2:24:48] Rafizi: sendiri
 
-[2:24:48] Amir Sahmat: and
 
 [2:24:48] Rafizi: pushing dalam circle. Network effect tu sebab itu, network effect. Network is very important. You may have, contohnya kan, follower 40,000 orang. Tapi kalau follower tu semua jenis macam kau, you don't influence politik dia. Kerana dia dalam bubble itu. So katakanlah ambil Vietnam contohnya kan. Vietnam ini mungkin ada 100,000 akaun. 100,000 akaun itu bersamaan dengan 100 mobile phone yang disambung-sambung-sambung dikawal oleh 3 orang. Actually the network effect is kepada 3 orang itu sahaja. It doesn't go to other people. So by sia-sia lah kerja. Yalah kerja sia-sia lah.
 
@@ -519,11 +510,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [3:00:47] Rafizi: memahamkan dia. untuk membunuh dissenting view, suara yang tidak bersetuju ataupun suara yang berpandangan lain kan. Jadi, then you end up with network effect jugalah. Maksudnya, daripada hanya satu generasi yang faham, sekarang ni orang lebih faham tentang kenapa perlunya reformasi institusi, kenapa dalam budaya politik dan kuasa negara kita ini, benda-benda ini boleh berlaku kan. Eeeemm Aku sebenarnya lebih... terbuka sekarang lah. This is part and parcel of what needs to happen lah. Cuma kepada pendengar lah takut-kut-kut minggu depan, kot buat pertama kalinya kita tergelincir tak boleh nak buat podcast. Takut aku dah kena tahan ataupun dah kena dakwa masa tu kan. Kau berjangka
 
-[3:01:57] Wan Afiq: dia akan
+[3:01:57] Multiple speakers: dia akan ... tahan ... sampai
 
-[3:01:57] Rafizi: tahan
 
-[3:01:57] Wan Afiq: sampai
 
 [3:01:58] Rafizi: seminggu? I don't know, you cannot tell. You can never tell lah kan.
 
@@ -558,4 +547,3 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 [3:09:59] Rafizi: baik.
 
 [3:10:00] Wan Afiq: So, itu sajalah. Selamat malam semua. Okay, terima kasih.
-
