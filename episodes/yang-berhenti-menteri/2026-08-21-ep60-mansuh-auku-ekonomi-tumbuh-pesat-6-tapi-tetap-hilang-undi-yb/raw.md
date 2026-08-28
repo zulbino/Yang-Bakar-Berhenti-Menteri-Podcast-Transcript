@@ -93,7 +93,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [08:39] Haziq: Sebab. Dia ni tak move on lagi daripada PKR. Bukan tak move on. Dia cakap pasal polisi negara. Haa. Pasal gaji ke apa ke. Pandai ke pusing. Okey. Haa. Luruh jantung saya tau. Haa. Okey kita teruskan. Beria. Haa. Yang pertama kita mula dengan UMNO lah. Haa. Kita Susa Agung UMNO Siapa yang dapat LOD ni? Ni Selampau ramai Cuma Ini berlaku selepas disentuhnya Isu RCI Tabung Haji lah Jadi Ismail Saleh dapat LOD Abid Abdullah dapat LOD Dan juga Page-page Pro kerajaan Yang kita tak tahu siapa lah Pun diancam untuk Disaman juga lah My News Hub Something macam tu My News Hub tu bukan Najib punya ke? Sekarang dah jadi... Yakah? Sekarang dah swing ke?
 
-[09:30] Speaker ?: Saya tak
+[09:30] Haziq: Saya tak
 
 [09:31] Haziq: baca Eh bukan Dia ada satu nama lain Tapi dia dekat-dekat My News Hub tu Najib punya Dia dekat juga Tapi point dia Adalah ancaman Itu Najib punya Najib punya Bukan LOD 5 juta OAB Dan Yelah kalau kita Tengok pun Biasanya Personal politik ni Dia takkan menang Sampai 5 juta pun lah Dia macam Isyam Jalil Kita pernah cakap juga Dia pun nak saman Beberapa juta juga kan
 
@@ -239,7 +239,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [40:15] Speaker ?: Selamat tinggal. Ya, budaya...
 
-[40:18] Rafizi: urbanizing sumbangan ataupun aid to public for political games ni I think it's getting chronic sangat kat Malaysia luasa
+[40:18] Farhan (Pa'an): urbanizing sumbangan ataupun aid to public for political games ni I think it's getting chronic sangat kat Malaysia luasa
 
 [40:26] Haziq: tapi dia ada demand ada supply
 
@@ -329,7 +329,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [52:44] Rafizi: Bersama tak menang. Maaf, saya boleh cuba
 
-[52:46] Overlapping Speaker: lagi.
+[52:46] Rafizi: lagi.
 
 [52:50] Rafizi: Sebab itu kalau aku pilih, aku pilih diri sendiri.
 
