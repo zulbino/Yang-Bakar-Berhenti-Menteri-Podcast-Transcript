@@ -129,3 +129,96 @@ def resplit(block, segs, audio, sr):
     if cur_words:
         turns.append((cur_start, cur, " ".join(cur_words)))
     return turns
+
+
+# Blocks shorter than this are already turn-level; re-cutting them buys nothing and
+# only risks moving a correct boundary.
+MIN_BLOCK_S = 120.0
+
+
+def roster_size(ep_dir):
+    import re as _re
+    text = (ep_dir / "interview.md").read_text(encoding="utf-8").split("---")[1]
+    n = 0
+    for key in ("hosts", "guests"):
+        m = _re.search(key + r":\s*\n((?:[ \t]*-[ \t]+.*\n)+)", text + "\n")
+        if m:
+            n += len([x for x in m.group(1).splitlines() if x.strip()])
+    return n
+
+
+def find_episode(ep_tag):
+    for d in sorted((ROOT / "episodes").glob("*/*")):
+        if re.search(r"-" + ep_tag + r"-", d.name) and "bakar" not in str(d):
+            return d
+    raise SystemExit(f"no episode dir for {ep_tag}")
+
+
+def main():
+    ep_tag = sys.argv[1]
+    probe = "--probe" in sys.argv
+    write = "--write" in sys.argv
+
+    ep_dir = find_episode(ep_tag)
+    raw_path = ep_dir / "raw.md"
+    raw_text = raw_path.read_text(encoding="utf-8")
+    fm = raw_text.split("---")[1]
+    video_id = re.search(r"video_id:\s*(\S+)", fm).group(1)
+    duration = int(re.search(r"duration_seconds:\s*(\d+)", fm).group(1))
+    n_spk = roster_size(ep_dir)
+
+    audio_file = ROOT / "audio" / f"{video_id}.m4a"
+    if not audio_file.exists():
+        import yt_download
+        print(f"downloading {video_id} ...", flush=True)
+        yt_download.download_audio(video_id, ROOT / "audio")
+
+    import lib_local_asr, soundfile as sf
+    print(f"{ep_tag}: {duration/60:.0f} min, roster says {n_spk} speakers", flush=True)
+    wav = lib_local_asr._decode_to_wav(audio_file)
+    try:
+        audio, sr = sf.read(str(wav), dtype="float32")
+        t0 = time.time()
+        segs = cached_diarization(video_id, audio, sr, n_spk)
+        clusters = sorted({s[2] for s in segs})
+        print(f"  diarization: {len(clusters)} clusters, {len(segs)} turns "
+              f"({time.time()-t0:.0f}s)", flush=True)
+
+        blocks = parse_blocks(raw_text, duration)
+        big = [b for b in blocks if b["end"] - b["start"] >= MIN_BLOCK_S]
+        print(f"  {len(blocks)} blocks, {len(big)} over {MIN_BLOCK_S:.0f}s to re-cut", flush=True)
+
+        if probe:
+            b = max(big, key=lambda x: x["end"] - x["start"] if "--longest" in sys.argv else -x["start"])
+            print(f"\n--- probe: block [{fmt(b['start'])}] {(b['end']-b['start'])/60:.1f} min, "
+                  f"label {b['label']!r}, {len(b['text'])} chars ---", flush=True)
+            t = time.time()
+            for start, spk, text in resplit(b, segs, audio, sr):
+                print(f"\n[{fmt(start)}] {spk}: {text[:220]}")
+            print(f"\n  ({time.time()-t:.0f}s for this block)")
+            return
+
+        out, done = [], 0
+        for b in blocks:
+            if b["end"] - b["start"] < MIN_BLOCK_S:
+                out.append((b["start"], b["label"], b["text"]))
+                continue
+            done += 1
+            print(f"  re-cutting [{fmt(b['start'])}] "
+                  f"{(b['end']-b['start'])/60:.1f} min ({done}/{len(big)})", flush=True)
+            for start, spk, text in resplit(b, segs, audio, sr):
+                out.append((start, spk, text))
+        print(f"\n  {len(blocks)} blocks -> {len(out)} turns")
+        if write:
+            head = raw_text.split("# Raw Transcript", 1)[0] + "# Raw Transcript\n\n"
+            body = "\n\n".join(f"[{fmt(s)}] {spk}: {txt}" for s, spk, txt in out) + "\n"
+            raw_path.write_text(head + body, encoding="utf-8")
+            print(f"  wrote {raw_path.name} -- clusters are anonymous, name them next")
+        else:
+            print("  dry run -- pass --write to apply")
+    finally:
+        wav.unlink(missing_ok=True)
+
+
+if __name__ == "__main__":
+    main()
