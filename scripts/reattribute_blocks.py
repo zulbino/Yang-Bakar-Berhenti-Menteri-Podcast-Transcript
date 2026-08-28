@@ -41,6 +41,35 @@ sys.path.insert(0, str(ROOT / "scripts"))
 # past a second in this corpus, and ep51's confirmed Haziq turns average 15s.
 MIN_ISLAND_S = 0.9
 
+# If one cluster still holds this much of the audio, the collapse was NOT fixed and the
+# output must not be written. An exact num_speakers rescues most of these panels but not
+# all: ep45/ep44/ep43 land near 92.9/6/1, while ep58 stays at 98.4/1.1/0.5 and ep41 at
+# 99.5/0.5. Writing those replaces real names with anonymous collapsed clusters, which is
+# strictly worse than leaving the file alone, and naming such a cluster is the exact error
+# ENGINEERING_LOG 1.26 was written about. Verified on one episode is not verified.
+MAX_COLLAPSED_SHARE = 0.95
+
+# Second guard, independent of the first. Never write an attribution that gives the
+# non-dominant speakers LESS time than the file already had. ep26 slipped past the
+# collapse check and would have cut Haziq from 11.6 min to 4: its existing labels came
+# from Gemini, not pyannote, so they were already better than anything this tool produces
+# there. A fix that has to be judged against the previous state needs to actually compare
+# with it, not just check its own output looks plausible.
+MIN_MINORITY_RETENTION = 0.80
+
+# Third guard. Even when nothing regresses, refuse to write unless the run actually buys
+# something: a materially shorter longest block, or materially more time for the quiet
+# speakers. ep27/ep36/ep51 passed both guards above and still gained nothing -- their
+# longest blocks came out unchanged at 23.6, 22.6 and 20.9 minutes and minority time moved
+# by tenths of a minute. All they did was trade real names for "Speaker N", which then has
+# to be re-earned by a voiceprint pass for no benefit.
+#
+# When this fires it is usually informative rather than a failure: ep36's and ep51's long
+# blocks were independently confirmed by reading as genuine Rafizi monologues, so
+# diarization leaving them whole is the CORRECT answer. Those belong in
+# data/qa_reviewed.json with that evidence, not in another re-cut.
+MIN_IMPROVEMENT = 0.15
+
 WINDOW_S = 45.0
 ACCEPT_FRACTION = 0.62
 # Words per second is measured PER BLOCK (its own word count over its own duration)
@@ -151,6 +180,25 @@ def word_times(text, audio, sr, t0, t1):
     return out
 
 
+def collapsed_share(segs):
+    """Fraction of diarized time held by the single largest cluster."""
+    per = {}
+    for s, e, lab in segs:
+        per[lab] = per.get(lab, 0.0) + (e - s)
+    total = sum(per.values())
+    return max(per.values()) / total if total else 1.0
+
+
+def minority_seconds(spans):
+    """Total seconds held by everyone except the single largest speaker."""
+    per = {}
+    for start, end, lab in spans:
+        per[lab] = per.get(lab, 0.0) + max(0.0, end - start)
+    if not per:
+        return 0.0
+    return sum(per.values()) - max(per.values())
+
+
 def label_for(segs, start, end):
     best, best_ov = None, 0.0
     for s, e, lab in segs:
@@ -240,6 +288,14 @@ def main():
         print(f"  smoothed out {dropped} island(s) under {MIN_ISLAND_S}s -> "
               f"{len(segs)} turns", flush=True)
 
+        share = collapsed_share(segs)
+        if share > MAX_COLLAPSED_SHARE:
+            print(f"  ABORT: top cluster still holds {share*100:.1f}% of the audio even "
+                  f"with num_speakers={n_spk} -- the collapse is not fixed, so re-cutting "
+                  "would only rename real labels to anonymous ones. Left untouched.",
+                  flush=True)
+            return
+
         blocks = parse_blocks(raw_text, duration)
         big = [b for b in blocks if b["end"] - b["start"] >= MIN_BLOCK_S]
         print(f"  {len(blocks)} blocks, {len(big)} over {MIN_BLOCK_S:.0f}s to re-cut", flush=True)
@@ -265,6 +321,33 @@ def main():
             for start, spk, text in resplit(b, segs, audio, sr):
                 out.append((start, spk, text))
         print(f"\n  {len(blocks)} blocks -> {len(out)} turns")
+
+        old_minority = minority_seconds(
+            [(b["start"], b["end"], b["label"]) for b in blocks])
+        new_minority = minority_seconds(
+            [(t, out[i + 1][0] if i + 1 < len(out) else duration, lab)
+             for i, (t, lab, _) in enumerate(out)])
+        if old_minority and new_minority < old_minority * MIN_MINORITY_RETENTION:
+            print(f"  ABORT: non-dominant speakers would drop from "
+                  f"{old_minority/60:.1f} min to {new_minority/60:.1f} min. The "
+                  "existing labels are better than this run; left untouched.",
+                  flush=True)
+            return
+
+        old_max = max((b["end"] - b["start"] for b in blocks), default=0.0)
+        new_max = max((out[j + 1][0] - t if j + 1 < len(out) else duration - t
+                       for j, (t, _, _) in enumerate(out)), default=0.0)
+        block_gain = (old_max - new_max) / old_max if old_max else 0.0
+        minority_gain = ((new_minority - old_minority) / old_minority
+                         if old_minority else 1.0)
+        if block_gain < MIN_IMPROVEMENT and minority_gain < MIN_IMPROVEMENT:
+            print(f"  ABORT: no material gain -- longest block {old_max/60:.1f} -> {new_max/60:.1f} min "
+                  f"({block_gain*100:+.0f}%), minority time {old_minority/60:.1f} -> "
+                  f"{new_minority/60:.1f} min ({minority_gain*100:+.0f}%). Left untouched; if that "
+                  "long block is a genuine monologue, waive it in data/qa_reviewed.json.",
+                  flush=True)
+            return
+
         if write:
             head = raw_text.split("# Raw Transcript", 1)[0] + "# Raw Transcript\n\n"
             body = "\n\n".join(f"[{fmt(s)}] {spk}: {txt}" for s, spk, txt in out) + "\n"
