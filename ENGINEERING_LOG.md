@@ -1909,6 +1909,49 @@ counts turns. **A derived measurement standing in for a raw one will eventually 
 real value to the sentinel that means absent** -- the same shape as the circular waiver
 this whole audit started from, where an artefact was used as evidence about itself.
 
+### 1.35: Reading the camera, when the audio methods have run out
+
+- **2026-08-28.** The podcast cuts to whoever is talking, so a video frame is direct
+  evidence of a speaker. `scripts/frames_at.py` fetches a window, samples it at 1 fps,
+  burns the absolute timestamp onto each frame and tiles them into ONE image.
+  `--at 03:19 51:58` gives one padded row per turn; `--range` gives a continuous stretch.
+- **Validated before use, against answers already known.** On ep55 the owner had
+  adjudicated three consecutive turns by ear. The frames reproduced all three: Rafizi
+  alone at 16:05-16:09, a cut to Haziq at 16:10-16:11, back to Rafizi at 16:12.
+
+**The cut lags the speech by about two seconds, and not by a fixed amount.** At ep55's
+16:08, which the owner identified as Haziq, the shot is still Rafizi; it cuts at 16:10.
+A single-second screenshot is therefore worthless. Every target is padded two seconds
+either side -- the owner's instruction after watching the same lag himself.
+
+**A cluster can hold two people, so identification has to be per TURN, not per cluster.**
+The first pass here assumed a pyannote cluster was one person and planned to identify each
+once. ep36's `Speaker 3` broke it: its 03:19 turn cuts to the guest Lee Chean Chung and
+its 51:58 turn cuts to the laptop seat. Identify the turn.
+
+**Two-shots and full-screen graphics prove nothing**, and roughly a third of frames are
+one or the other. UNKNOWABLE has to be an allowed answer or the method quietly degrades
+into guessing.
+
+**Locating a second inside a collapsed block needs a separate tool.** A 62-minute block
+carries exactly one timestamp, so there is nothing to aim at.
+`scripts/_cohost_candidates.py` finds candidate seconds from two text-only signals: a
+`YB` vocative, which is always someone ADDRESSING Rafizi and so never Rafizi speaking,
+and run-sheet phrases. Timestamps come from the caption track's word-level timings, used
+purely as an index -- no caption text is written into any transcript, since `raw.md` is
+the reviewed artefact. It found 63 candidates across the 12 oversized blocks, and
+independently rediscovered the "Baik. Menarik YB. 2 jam 10 minit" moment at ep58's
+2:09:18 that 1.32 had recorded by hand.
+
+**Candidate density is itself evidence.** ep47 has 25 candidates in 48 block-minutes and
+ep58 has 25 in 102; ep40 has 1 in 20. A block nobody interrupts is what a real monologue
+looks like, which is the same conclusion guard 3 reached acoustically for ep27, ep36 and
+ep51.
+
+**This detector only exists because the honorific was normalised first** (1.32). Before
+those 944 fixes most of these vocatives read as `baby`, `WB` or `Oibi` and matched
+nothing.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider

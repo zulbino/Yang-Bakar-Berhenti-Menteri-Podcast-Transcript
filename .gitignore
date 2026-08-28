@@ -15,6 +15,13 @@ data/_*
 # this line existed, so name the shape rather than trusting the habit.
 *_DIFF.txt
 *_diff.txt
+# Video-frame contact sheets and the clip cache behind them (scripts/frames_at.py).
+# These are review artefacts, regenerable in seconds, and the cache is video data we
+# have no licence to redistribute -- which is the same reason audio/ is ignored.
+frames_*.png
+ep*-[0-9]*.png
+data/frames_cache/
+.playwright-mcp/
 # Never commit credentials. A `git add -A` once swept scratch logs into this repo,
 # so the filenames a key is most likely to land in are blocked by name rather than
 # left to discipline. GitHub secret scanning and push protection are the backstop.
