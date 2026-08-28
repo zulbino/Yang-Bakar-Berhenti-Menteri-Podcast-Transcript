@@ -11,7 +11,7 @@ hosts:
 - Rafizi
 guests:
 - Syed Munawar
-- Eric Sito
+- Eric See-To
 topics:
 - The revelation of Eric Sito as Lim Sian See
 - Rare Earth Elements (REE) and Lynas disposal facilities
@@ -20,8 +20,8 @@ topics:
 - Najib Razak's RM2.6 billion tax assessment
 - National debt and government financial management
 summary: This episode of 'Yang Bakar Menteri' features a face-to-face discussion between
-  Economy Minister Rafizi and Dato' Eric Sito, who is revealed as the persona
-  behind the 'Lim Sian See' social media account. Moderated by Syed Munawar, the dialogue
+  Economy Minister Rafizi and Dato' Eric Sito, who is revealed as the persona behind
+  the 'Lim Sian See' social media account. Moderated by Syed Munawar, the dialogue
   involves a heated exchange over the 1MDB scandal, the recovery of state assets,
   the logic behind Najib Razak's tax cases, and the rare earth elements (REE) industry.
   The guest, Eric Sito, defends the previous Barisan Nasional administration's policies

@@ -9,6 +9,7 @@ duration: 1h 20m
 view_count: 134859
 hosts:
 - Rafizi
+- Haziq
 guests: []
 topics:
 - Resignation as Minister of Economy
@@ -17,12 +18,12 @@ topics:
 - Economic Structural Reforms
 - The Third Sector and Civic Empowerment
 - Future Political Plans and Grassroots Strategy
-summary: In this episode, former Malaysian Minister of Economy Rafizi discusses
-  his decision to resign from the cabinet following internal PKR party elections.
-  He addresses public criticisms regarding his resignation, political dynamics with
-  Prime Minister Anwar Ibrahim, his achievements at the Ministry of Economy, the concept
-  of a 'third sector' to empower ordinary citizens, and his future political plans
-  focused on grassroots initiatives rather than forming a new political party.
+summary: In this episode, former Malaysian Minister of Economy Rafizi discusses his
+  decision to resign from the cabinet following internal PKR party elections. He addresses
+  public criticisms regarding his resignation, political dynamics with Prime Minister
+  Anwar Ibrahim, his achievements at the Ministry of Economy, the concept of a 'third
+  sector' to empower ordinary citizens, and his future political plans focused on
+  grassroots initiatives rather than forming a new political party.
 language: mixed
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa
   Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript,
@@ -31,19 +32,19 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Interviewer:** My intro is not important today because we have a very rare outfit, YB's Springfield Village. Where did you get it? Because no one got it, but suddenly YB got it.
+**Haziq:** My intro is not important today because we have a very rare outfit, YB's Springfield Village. Where did you get it? Because no one got it, but suddenly YB got it.
 
 **Rafizi:** This is for free. I don't know, someone sent it to the office. But if I don't wear it, I'll die. I still call it Twitter now, even though everyone is calling it X.
 
-**Interviewer:** Apparently, these are the people who have changed their profile photos to characters from The Simpsons. Okay, I didn't actually watch The Simpsons, YB, sorry. Springfield Village, that place, is it in the story or not?
+**Haziq:** Apparently, these are the people who have changed their profile photos to characters from The Simpsons. Okay, I didn't actually watch The Simpsons, YB, sorry. Springfield Village, that place, is it in the story or not?
 
 **Rafizi:** Springfield is there, but you never know whether Springfield is in Ohio or Minnesota, because Springfield in the US is a common city name. So if you watch The Simpsons—I grew up with The Simpsons—the one mystery is actually which Springfield this is.
 
-**Interviewer:** But this is not a podcast about Springfield. So I just want to start. We don't want to talk about Springfield, but we want to talk about what people are actually saying. I think that's the whole conversation for today. That's what people say, whether you like it or you don't like it.
+**Haziq:** But this is not a podcast about Springfield. So I just want to start. We don't want to talk about Springfield, but we want to talk about what people are actually saying. I think that's the whole conversation for today. That's what people say, whether you like it or you don't like it.
 
-**Interviewer:** Kena jawab sikit demi sikitlah, YB. Saya rasa pemilihan pun dah habis dan macam-macam yang berlaku. YB dah resign, jadi orang-orang bertanyakan hal ini.
+**Haziq:** Kena jawab sikit demi sikitlah, YB. Saya rasa pemilihan pun dah habis dan macam-macam yang berlaku. YB dah resign, jadi orang-orang bertanyakan hal ini.
 
-**Interviewer:** We want to make a change, YB. Whatever the decision, YB has a platform to make a change as a minister. Why don't you just continue? Why do you have to resign? In people's eyes, they understand that a minister has the capacity and can do that—maybe some people think there's even a magic wand. But why did YB choose to resign?
+**Haziq:** We want to make a change, YB. Whatever the decision, YB has a platform to make a change as a minister. Why don't you just continue? Why do you have to resign? In people's eyes, they understand that a minister has the capacity and can do that—maybe some people think there's even a magic wand. But why did YB choose to resign?
 
 **Rafizi:** Saya ingat tak ramai orang pernah jadi menteri. Saya pun sebelum jadi menteri ada pandangan yang berbeza tentang proses dalam kerajaan. Bukannya kalau seseorang itu jadi menteri, dia boleh buat keputusan seorang-seorang dan benda itu terus berlaku.
 
@@ -61,11 +62,11 @@ Dan sebagai menteri yang dilihat sudah hilang keyakinan daripada Perdana Menteri
 
 It's quite different between private companies and the government, because the government needs legitimacy to make changes. So if the message is clear, through this election, that the President and the Prime Minister have lost confidence in me, then for kepentingan negara, adalah lebih baik untuk berundur secara terhormat.
 
-**Interviewer:** YB, saya nak *try* sikit. Tadi YB dah cakap tentang perubahan *and it's not* macam *magic stick* menteri buat PADU terus jadi. Dan YB pun dalam *posting* YB ada cakap bahawa YB dah tak terikat dengan rahsia, jadi saya cuba tanyalah. Contohnya pasal PADU...
+**Haziq:** YB, saya nak *try* sikit. Tadi YB dah cakap tentang perubahan *and it's not* macam *magic stick* menteri buat PADU terus jadi. Dan YB pun dalam *posting* YB ada cakap bahawa YB dah tak terikat dengan rahsia, jadi saya cuba tanyalah. Contohnya pasal PADU...
 
 **Rafizi:** Tu jawab kemudianlah, nanti tak pasal-pasal satu malam kita cerita pasal benda *technical* macam itu. Tengok dia cuba. Aku senang, aku buli je moderator.
 
-**Interviewer:** Okay, baik-baik. Kita pergi kepada apa yang orang katakan seterusnya, YB. Ni lebih kepada pandangan penyokong pro-pemerintah. Dia kata, setiap kali pemilihan ada yang menang, ada yang kalah. Biasalah yang kalah itu dirangkul, dan PM pun dah pujuk, tapi kenapa tak makan saman pujukan ini?
+**Haziq:** Okay, baik-baik. Kita pergi kepada apa yang orang katakan seterusnya, YB. Ni lebih kepada pandangan penyokong pro-pemerintah. Dia kata, setiap kali pemilihan ada yang menang, ada yang kalah. Biasalah yang kalah itu dirangkul, dan PM pun dah pujuk, tapi kenapa tak makan saman pujukan ini?
 
 **Rafizi:** Pujuk, macam saya sebut tadilah, dia bukan soal pujuk tak pujuk. Saya tak merasakan ada kebaikan kepada negara kalau you jadi minister *lame duck* yang akan mengheret kementerian you sendiri kerana mesej dan isyarat itu jelas.
 
@@ -97,7 +98,7 @@ So that's why, for me, the question of being upset or going back goes back to th
 
 If that matter is resolved, whether I'm in the party leadership or government or not, it's actually better. Because those who get support from the people are supported not because of our individuals, but because of the ideas, culture, and political values that we bring—which, in the last election, mendapat banyak kritikan daripada orang ramai.
 
-**Interviewer:** Agak membimbangkan bila YB kata tak boleh bercakap itu dan ini. Tapi YB, naratif "merajuk" ini sebenarnya adalah hujah utama sebahagian penyokong. Pada rakyat yang mungkin tak dapat konteks penuh, logik mereka mudah: YB dipilih melalui pilihan raya di P100 Pandan, menang, dan jadi menteri. Kemudian YB kalah dalam satu *internal election* yang tidak melibatkan keseluruhan rakyat—hanya peratusan kecil sahaja yang terlibat. Jadi timbul pandangan kononnya meletak jawatan itu mengkhianati mandat rakyat. Ini pandangan awam yang tidak mengikuti pemilihan parti secara dekat.
+**Haziq:** Agak membimbangkan bila YB kata tak boleh bercakap itu dan ini. Tapi YB, naratif "merajuk" ini sebenarnya adalah hujah utama sebahagian penyokong. Pada rakyat yang mungkin tak dapat konteks penuh, logik mereka mudah: YB dipilih melalui pilihan raya di P100 Pandan, menang, dan jadi menteri. Kemudian YB kalah dalam satu *internal election* yang tidak melibatkan keseluruhan rakyat—hanya peratusan kecil sahaja yang terlibat. Jadi timbul pandangan kononnya meletak jawatan itu mengkhianati mandat rakyat. Ini pandangan awam yang tidak mengikuti pemilihan parti secara dekat.
 
 **Rafizi:** Kita kena buat kelas pendidikan politik yang lebih panjanglah. Dulu-dulu, *there was civic education at school.* Bila ada *civic education*, biasanya bila dah lulus Tingkatan 5, orang faham sistem kerajaan. Tapi sekarang saya rasa generasi anda tidak melalui *civic education*, jadi mereka menyamakan kerja dengan syarikat dan kerja dengan kerajaan. Majikannya berbeza.
 
@@ -113,17 +114,17 @@ Kalau boleh saya simpulkan lagi, rakyat mahu menteri bekerja, tetapi menteri per
 
 *Therefore, it is reasonable for the Prime Minister to appoint an Economic Minister who has his mandate and confidence so that he can direct other ministers and signal to civil servants. Only then will the government be able to function and carry out things as planned.*
 
-**Interviewer:** I think that makes sense. Prime Minister adalah ketua parti yang melantik menteri, manakala rakyat hanya memilih ahli parlimen. Jadi untuk katakan meletak jawatan sebagai menteri itu mengkhianati mandat rakyat, *it's not related at all.*
+**Haziq:** I think that makes sense. Prime Minister adalah ketua parti yang melantik menteri, manakala rakyat hanya memilih ahli parlimen. Jadi untuk katakan meletak jawatan sebagai menteri itu mengkhianati mandat rakyat, *it's not related at all.*
 
 Okay YB, hari ini kita nak cakap pasal apa yang orang kata. Saya nak balik kepada hujah penyokong pro-pemerintah tadi...
 
 **Rafizi:** Why are you always busy with them?
 
-**Interviewer:** Tak boleh, YB, sebab nanti orang sebut juga...
+**Haziq:** Tak boleh, YB, sebab nanti orang sebut juga...
 
 **Rafizi:** Ini masalahnya, moderator pun dah terpengaruh dengan cybertrooper ini.
 
-**Interviewer:** *We have a lot of big things.* Tapi okay, saya rasa YB dah jawab soalan itu banyak kali. Ada satu lagi tohmahan: "not a team player". Dalam mana-mana organisasi, apabila sesuatu itu berjaya, ia adalah kerana kerjasama berpasukan. Kalau tak setuju dengan itu dan ini, dianggap *not a team player*. Macam mana nak tadbir? Betul tak?
+**Haziq:** *We have a lot of big things.* Tapi okay, saya rasa YB dah jawab soalan itu banyak kali. Ada satu lagi tohmahan: "not a team player". Dalam mana-mana organisasi, apabila sesuatu itu berjaya, ia adalah kerana kerjasama berpasukan. Kalau tak setuju dengan itu dan ini, dianggap *not a team player*. Macam mana nak tadbir? Betul tak?
 
 **Rafizi:** Itulah, ni berapa puluh minit menjawab geng-geng empat lima orang sahaja yang bising dekat TikTok dan Twitter. Mudah untuk menyerang peribadi dan buat *character assassination*.
 
@@ -131,7 +132,7 @@ Orang yang dah lama jadi ahli politik macam saya sebenarnya tak ambil pot pun or
 
 Kalau saya bukan *team player*—sebab ada kata PM tak suka sebab saya bukan *team player*, kononnya saya dengar pendapat sendiri sahaja—sepatutnya saya kerja kat mana-mana pun kena buang. *But that's not the case. I had a wonderful career.* Contohnya kat Petronas, saya pengurus paling muda dilantik pada umur 25 tahun—umur kau berapa sekarang?
 
-**Interviewer:** 27.
+**Haziq:** 27.
 
 **Rafizi:** Aku masa umur 25 dah jadi ketua unit, dah jadi pengurus. Saya jadi Ketua Perancangan Perniagaan untuk perniagaan Petrokimia Petronas pada umur 27 tahun. Kalau saya bukan *team player*, tak adalah saya naik pangkat sebegitu cepat.
 
@@ -153,7 +154,7 @@ Every time the "team player" accusation comes out, I get worried. I've been in t
 
 So yeah, we don't need to layan all these pro-government attacks. *View* aku pun lagi banyak daripada mereka kat sosial media.
 
-**Interviewer:** YB mentioned earlier a view regarding team players. In politics, if someone dissents from the direction, it can be tough. But with YB's experience, if someone disagrees with YB, is it welcomed for added value to get the work done?
+**Haziq:** YB mentioned earlier a view regarding team players. In politics, if someone dissents from the direction, it can be tough. But with YB's experience, if someone disagrees with YB, is it welcomed for added value to get the work done?
 
 **Rafizi:** It's actually like this. If we are in a small team to do a program in a parliamentary constituency, everyone has a view—this person wants water, that person wants it done in front of his house, another says the neighbor is useless. Allow everyone to give their views.
 
@@ -165,7 +166,7 @@ Tapi bila naik ke atas—contohnya masa saya jadi Naib Presiden dahulu—kalau a
 
 But in my case, bila saya Timbalan Presiden, *the buck stops at me and also the President.* When it reaches a level where, despite my track record and contributions, there is no room for my views to be considered, then the only honorable thing for me to do is to withdraw.
 
-**Interviewer:** YB, *are you serious in getting the job done?* Sebab YB dah bagi macam-macam formula, kemudian YB *resign*.
+**Haziq:** YB, *are you serious in getting the job done?* Sebab YB dah bagi macam-macam formula, kemudian YB *resign*.
 
 **Rafizi:** Yes, I get a lot of messages and emails saying, "Oh, you have to stay to get the job done." First, at the risk of sounding repetitive, the dynamics of government are very important to understand. Untuk melakukan kerja memperbaharui ekonomi, itulah sebabnya mandat sangat penting.
 
@@ -191,7 +192,7 @@ Daripada saya kekal di dalam kabinet, ada dua masalah. Pertama, *if I stay in th
 
 It's better if I become a regular MP yang boleh menyuarakan pandangan dengan terbuka. Mana-mana kerajaan perlukan kritikan dan semak imbang yang baik. Dalam keadaan pembangkang sekarang yang tidak berminat dengan isu pentadbiran dan hanya fokus pada isu toksik, peribadi, nasionalisme, dan benda-benda kecil, *we need a backbencher that can keep the government on its toes.*
 
-**Interviewer:** YB, *having said that*, kita faham Kementerian Ekonomi banyak buat perancangan makro. Tetapi ada segmen masyarakat yang menganggap kewujudan YB di situ tidak memberi apa-apa perbezaan. Macam mana YB nak respon kepada kritikan ini?
+**Haziq:** YB, *having said that*, kita faham Kementerian Ekonomi banyak buat perancangan makro. Tetapi ada segmen masyarakat yang menganggap kewujudan YB di situ tidak memberi apa-apa perbezaan. Macam mana YB nak respon kepada kritikan ini?
 
 **Rafizi:** Perlu respon ke? *It's as I say: your track record speaks for itself.* Sama ada berada dalam kerajaan atau tidak, ia berbeza mengikut individu. Ada orang melihat politik 100% adalah kuasa dan matlamatnya adalah menjadi menteri. *If his mindset is that only through power as a minister can he contribute to change, I don't really agree with that.*
 
@@ -227,19 +228,19 @@ So, if people ask about politics, about whether jobs are increasing or not, I th
 
 There are many more spaces that I think we can add value to. And I don't think we should pay attention to detractors. Detractors are easy to speak—that's their view. What's more important is: the more you have a good track record, the more you touch people's lives, the more people get benefit from your work. For me, I think that's my ultimate goal as a politician. Actually, I derive satisfaction from having an impact on common people's lives, and I'm a lot more comfortable doing that than being stuck on top where I feel my hands are tied and my mouth is locked.
 
-**Interviewer:** YB, when listeners hear this, there are two things they will look at. First, they observe what YB actually wants to do next. People expect a gung-ho approach to party politics, but end up asking: does YB feel politics no longer needs power, or does YB no longer want power?
+**Haziq:** YB, when listeners hear this, there are two things they will look at. First, they observe what YB actually wants to do next. People expect a gung-ho approach to party politics, but end up asking: does YB feel politics no longer needs power, or does YB no longer want power?
 
 **Rafizi:** I don't say it doesn't need power. But if there is a politician who says, "If we are not in the government, we cannot do anything," then we are politicians who actually cannot do anything. Because of that mindset—whether beating the roof or cutting the pole—as long as I am in the government, only then can I help. That is wrong, because the very definition of politics itself is the authoritative allocation of resources and values. And there are many ways to allocate resources. Resources are not 100% from the government. In fact, the larger resources in society are owned by the private sector or owned by ordinary people.
 
-**Interviewer:** Okay, YB. Regarding the third sector, I think ramai yang mungkin first time dengar dan nak tahu lebih lanjut. Secara realistiknya, macam mana kat Malaysia ni kita boleh buat benda ni?
+**Haziq:** Okay, YB. Regarding the third sector, I think ramai yang mungkin first time dengar dan nak tahu lebih lanjut. Secara realistiknya, macam mana kat Malaysia ni kita boleh buat benda ni?
 
 **Rafizi:** Tak apalah, tunggulah aku umum kemudian. Kalau tidak, sebab diorang dah tulis besar-besar kat situ masa dah nak habis.
 
-**Interviewer:** Okey, YB. Soalan seterusnya...
+**Haziq:** Okey, YB. Soalan seterusnya...
 
 **Rafizi:** Ni lama mana yang kita dibenarkan bercakap ni? Kat sini pun korang nak gam aku, ya?
 
-**Interviewer:** YB, soalan ramai—I think kita dah tak boleh tahan dah. Orang tanya pasal next YB punya perbincangan. Parti baru—YB akan buat parti baru ke?
+**Haziq:** YB, soalan ramai—I think kita dah tak boleh tahan dah. Orang tanya pasal next YB punya perbincangan. Parti baru—YB akan buat parti baru ke?
 
 **Rafizi:** Ya lah, parti. There is a way to win over defeat. It's a new thing—usually people form a party to win over victory, so I will make a party to win over defeat in early July. But not a political party; that's a kenduri party, a feast party!
 
@@ -267,7 +268,7 @@ They have a strong desire and the yearning to serve is still there; they want to
 
 So the answer is: there is no new party other than the feast party.
 
-**Interviewer:** But YB, there is a question related to that. If there is no new party, will YB and the team contest in the KEADILAN party election in 2028? That's what people will ask too.
+**Haziq:** But YB, there is a question related to that. If there is no new party, will YB and the team contest in the KEADILAN party election in 2028? That's what people will ask too.
 
 **Rafizi:** Yes, people will ask. But life is not in our hands—I've had a heart attack before, anything can happen. Talking about 2028 now is very premature, too early, because there are many variables. Between 2025 and 2028, many things can change.
 
@@ -281,7 +282,7 @@ This is not the first time I have stepped back from party leadership to work dir
 
 So there's nothing stopping me from focusing on that. What will happen one, two, or three years down the line, only time can tell. It's best not to be too calculative with every decision we make now, calculating political survival or posts. I don't think so. It's enough for me to go back and start numerous projects with the rakyat. I will pour my utmost attention and resources into it and see how it goes from there.
 
-**Interviewer:** YB, orang expect ada revolusi—ada bising sana dan bising sini. Orang lain mungkin dah bosan. Tak rasa bosan ke dengan apa yang YB nak buat ni?
+**Haziq:** YB, orang expect ada revolusi—ada bising sana dan bising sini. Orang lain mungkin dah bosan. Tak rasa bosan ke dengan apa yang YB nak buat ni?
 
 **Rafizi:** Saya tidak tahu. Maksud saya, ia seperti anda tidak pernah tahu sehingga anda mencuba. Bosan atau tidak membosankan, itu terpulang pada pandangan. I'm always reminded of one thing: saya selalu beritahu diri saya sendiri bahawa sebenarnya anda tidak bersaing dengan orang lain, anda bersaing dengan diri sendiri. You set the limit for yourself, you draw your plan, you decide what your objective is, you decide what your job satisfaction is, and then you compete with yourself.
 
@@ -293,7 +294,7 @@ In the last two or three months, saya dah fikirkan apa yang saya nak buat. Then 
 
 After all, our understanding of politics is different. My understanding is that it's not necessarily about power or the position of a minister, but about freedom—the ability to have a good shot at solving a problem. That's very important to me in politics. And politics is, again I repeat, the authoritative allocation of resources and values. It never says that politics must strictly be the government, the minister, or the prime minister. So let me see. In the end, whether it's a political party, a party leader, or a politician, kita ni sebenarnya *marketer* sahaja, kan? We have to go back to the market outside. The market is the rakyat, and let the rakyat choose based on their own preference.
 
-**Interviewer:** Baik, YB. Banyak kerja nak kena buat tu. Saya rasa masa pun dah suntuk. Dah berapa lama perbincangan ni?
+**Haziq:** Baik, YB. Banyak kerja nak kena buat tu. Saya rasa masa pun dah suntuk. Dah berapa lama perbincangan ni?
 
 **Rafizi:** I don't know. Is it already 4 hours? I think it's 70 minutes. 70 minutes. I think our listeners are waiting to see what we want to do. We can't reveal everything here at once—it's like Netflix series, right? I don't want to tell you everything immediately; if I do, it becomes boring. It's like exposing a scandal: the rule of thumb is that if you want an issue to stick in the public's mind, it must be delivered progressively so that it stays in the newsroom and is discussed by the people for at least two weeks.
 
@@ -303,10 +304,10 @@ As long as you don't get bored watching my content every week or every day! For 
 
 Humans don't just listen when you talk to them, no matter how much you explain or present Einstein's theories or thick books proving the knowledge is on the dot. If they don't want to listen, they won't believe it. They have to go through it experientially. They have to see it and understand it themselves before making their own decisions. So today's podcast is actually the first trailer. After this, there will be more content. I hope those who agree or feel they can contribute as we go on in future weeks will come on board and see how they can join us to make a difference in our own way.
 
-**Interviewer:** Baik, YB. Thank you, YB. Jadi saya pun berjanji tak akan cakap lagi tentang *pro-bono*... tapi kita akan fokus.
+**Haziq:** Baik, YB. Thank you, YB. Jadi saya pun berjanji tak akan cakap lagi tentang *pro-bono*... tapi kita akan fokus.
 
 **Rafizi:** Ya, kau boleh je cakap. Lepas tu aku tukar moderator lain! Saya dah cakap kat dia, kalau dia kerja tak elok atau tak puas hati, lepas episod ketiga aku tukar orang ni!
 
-**Interviewer:** So guys, support me! Okay, we will focus on what we want to do, and InsyaAllah there will be a lot of content related to our plans and how everyone can join on board with us. That's all from us before we meet next week. Assalamualaikum.
+**Haziq:** So guys, support me! Okay, we will focus on what we want to do, and InsyaAllah there will be a lot of content related to our plans and how everyone can join on board with us. That's all from us before we meet next week. Assalamualaikum.
 
 **Rafizi:** I don't understand why there is a salam like this!

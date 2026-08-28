@@ -9,8 +9,8 @@ duration: 1h 51m
 view_count: 37381
 hosts:
 - Rafizi
-guests:
 - Iqbal
+guests:
 - Nik Nazmi
 topics:
 - Merdeka / patriotism across generations
@@ -26,9 +26,9 @@ topics:
 - Vision and identity of political parties, especially PKR
 - Personal definitions of 'Merdeka' and independence
 summary: In this Merdeka-themed second episode of "Yang Berhenti Menteri," host Iqbal
-  leads a wide-ranging conversation with Rafizi and special guest Nik Nazmi.
-  They reminisce about their upbringing, debate backgrounds at MCKK and in the UK,
-  and how their families shaped their political consciousness and sense of Malay identity,
+  leads a wide-ranging conversation with Rafizi and special guest Nik Nazmi. They
+  reminisce about their upbringing, debate backgrounds at MCKK and in the UK, and
+  how their families shaped their political consciousness and sense of Malay identity,
   insecurity, and social mobility. The discussion moves into how information technology
   (blogs, VCDs, Facebook, TikTok) shaped Malaysian political shifts from 2008 to 2022,
   reflections on Tun Abdullah Badawi's legacy, and lessons from being ministers versus

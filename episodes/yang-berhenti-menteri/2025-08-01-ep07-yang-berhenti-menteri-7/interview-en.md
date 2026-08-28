@@ -9,6 +9,7 @@ duration: 2h 7m
 view_count: 50324
 hosts:
 - Rafizi
+- Haziq
 guests:
 - Daniel Jani
 topics:
@@ -336,7 +337,7 @@ This is me — this small fry — who has become the source of fear for people a
 
 **Danial:** The party's problems now — like what was just said — is it beyond repair, or is there still a way for us to get back on track?
 
-**Rafizi:** In my view, yes, it can be fixed. But the number of people who helped open this door, and who want to come through it, is far too many compared to those who want to close it. For example, someone like me at state leadership level, and YB himself at the highest level — if it's just me alone, there should be two or three more people, otherwise there isn't enough strength to do it. Even though part of YB's own team at the top level — for example Akmal, MB9, or Roziah — all of them, it's still not enough.
+**Rafizi:** In my view, yes, it can be fixed. But the number of people who helped open this door, and who want to come through it, is far too many compared to those who want to close it. For example, someone like me at state leadership level, and YB himself at the highest level — if it's just me alone, there should be two or three more people, otherwise there isn't enough strength to do it. Even though part of YB's own team at the top level — for example Akmal, MB9, or Rodziah — all of them, it's still not enough.
 
 Because this could be balanced when YB himself was deputy president. But once you're no longer deputy president — how do we fix it? We can't fix it. They're coming in now — before it wasn't 50-50 or 40-60 because of YB Rafizi, now 95 out of them can get in. It used to be 40-60, now it's 95-5. That's really what's responsible. If I may continue what Danial once said — the group of voters who support the progressive voice still exists, at least 30% at any given time. That's why if we look back at the 1960s, Parti Rakyat, Barisan Sosialis, Barisan Buruh — they still won no matter what happened, because this group will always be there.
 

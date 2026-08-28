@@ -9,11 +9,10 @@ duration_seconds: 11428
 duration: 3h 10m
 view_count: 199839
 hosts:
-- Rafizi Ramli
+- Rafizi
+- Wan Afiq
 guests:
-- Afiq
-- Amin Sahmat (Speaker 4)
-- Speaker 3
+- Amin Sahmat
 topics:
 - Labour Day and social commentary
 - Tan Sri Azam Baki's retirement remarks and SOGO demonstration
@@ -69,11 +68,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Afiq:** Assalamualaikum dan salam sejahtera. Kembali lagi kita dalam...
+**Wan Afiq:** Assalamualaikum dan salam sejahtera. Kembali lagi kita dalam...
 
 **Rafizi:** Gila bersemangat. Belum apa-apa lagi pun aku dah rasa gila bersemangat, mengalahkan DJ radio. Sabar, sabar, sabar. Ada dua jam lebih lagi.
 
-**Afiq:** So, saya mula balik ke? Okay, sorry, maaf. Kali pertama untuk saya dalam YBM. Ni dah episod ke-46. Bersama saya, Afiq, saya Amin Sahmat. Sebab apa korang ada kat sini, saya rasa kita tak adalah nak membakar YBM. Sila berasa bebas untuk menyukai, melanggan, dan memberi ganjaran untuk menyokong laluan kami di Spotify dan YouTube.
+**Wan Afiq:** So, saya mula balik ke? Okay, sorry, maaf. Kali pertama untuk saya dalam YBM. Ni dah episod ke-46. Bersama saya, Afiq, saya Amin Sahmat. Sebab apa korang ada kat sini, saya rasa kita tak adalah nak membakar YBM. Sila berasa bebas untuk menyukai, melanggan, dan memberi ganjaran untuk menyokong laluan kami di Spotify dan YouTube.
 
 **Rafizi:** Mana ada tipu lah, sebab Haziq entah hilang ke mana. Haziq tak ada, so korang kena cover lah. Haziq kena belajar, kita kena belajar. Haziq pergi mana, tak tahu. Saya tak tahu, sebenarnya. Semua tak tahu?
 
@@ -89,45 +88,45 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Ni Afiq orang Terengganu, ni Amir orang Selayang. Diorang pernah — bukan pernah, memang ada podcast lah kan — Selayang Jawab, Selawat Selayang Jawab. Itu je lah, aku bayar diorang untuk tolong promosikan podcast diorang. Yang paling baik jenisnya.
 
-**Afiq:** So, Abie, kita teruskan. Okay, segmen pertama kita, seperti biasa. Pa'an gelak kat kau, tapi tak apa.
+**Wan Afiq:** So, Abie, kita teruskan. Okay, segmen pertama kita, seperti biasa. Pa'an gelak kat kau, tapi tak apa.
 
 **Rafizi:** Saya cuba sedaya upaya.
 
-**Afiq:** Kita kena kurangkan gula sikit lah, sebab kau tengah bersemangat sangat ni.
+**Wan Afiq:** Kita kena kurangkan gula sikit lah, sebab kau tengah bersemangat sangat ni.
 
 **Rafizi:** Beria, Mat! Beria! Beria! Awal-awal lagi kita dah ada jalan Beria, Mat. Okay, kita teruskan kepada — eh, nanti jam, kita tak mengucapkan Selamat Hari Pekerja. Satu Mei, Selamat Hari Pekerja. Baik, Selamat Hari Pekerja kepada semua.
 
-**Afiq:** Semua-semua.
+**Wan Afiq:** Semua-semua.
 
 **Rafizi:** Selamat Hari Pekerja kepada semua, kecuali yang masih bekerja. Cuma dekat Malaysia, hari pekerja ni konteksnya kurang sikit lah kot, sebab dia lebih disambut sebagai cuti berbanding di negara-negara lain yang lebih bersayap kiri kan. Hari Pekerja ni ada konotasi sosialisme, komunisme. Dia sama macam Hari Wanita dengan Hari Pekerja — ramai yang tak tahu, contohnya dua-dua ni asal-usulnya daripada gerakan sayap kiri lah, maksudnya gerakan komunisme, gerakan sosialisme kan. Hari Wanita sebenarnya meraikan wanita-wanita — saya ingat di St. Petersburg — yang berarak ramai-ramai menuntut supaya Tsar Nicholas turun jawatan. Hari Pekerja memanglah untuk merayakan Soviet, maksudnya untuk merayakan kumpulan-kumpulan kesatuan sekerja ni kan. Tapi dekat Malaysia, dua-dua konotasi itu telah hilang, dia hanya menjadi sambutan cuti. Jadi, selamat bekerja. Selamat bekerja sama-sama.
 
-**Afiq:** Terima kasih.
+**Wan Afiq:** Terima kasih.
 
 **Rafizi:** SPRM tak bekerja hari ni, tak pasal-pasal aku kena tak ada podcast malam ni kan. Awal dah kena sentuh. So sekarang ni kita jumpa tokoh paling besar kita — panjang cerita. Adakah ini penampilan terakhir Tan Sri Azam Baki sebagai tetamu kat podcast ni, sebab dah tiga bulan lah, hampir tiap-tiap minggu dia ada dalam podcast ni. Mungkin tak. Mungkin dia dilantik senator. Mungkin. Terima kasih.
 
-**Afiq:** Harapnya tidak lah kan. Ni yang mana ni — ni waktu demo hari tu, wartawan tanya dia tak pergi demo ke, dia kata dia tak dijemput.
+**Wan Afiq:** Harapnya tidak lah kan. Ni yang mana ni — ni waktu demo hari tu, wartawan tanya dia tak pergi demo ke, dia kata dia tak dijemput.
 
 **Rafizi:** Kenapa muka dia macam Jamal Abdillah?
 
-**Afiq:** Itu faham nak tanya.
+**Wan Afiq:** Itu faham nak tanya.
 
 **Speaker 3:** Saya minta dia kongsi rutin skincare dia.
 
 **Rafizi:** Nampak berbeza lah, nampak muda sikit. Korang dah selalu kutuk mata dia merah, terus dia pakai shade. Sorry, tak nampak mata dah. Tapi dia bergaya tu — "saya tak akan berhimpun di hadapan Sogo selepas tamat perkhidmatan." Ni sebab ada orang tanya dia, dia sertai demo ke tidak.
 
-**Speaker 4:** Dia kan dah nak bersara, lepas tu wartawan tanya lah, apa Azam Baki nak buat lepas ni, lepas dah bersara. Dia kata dia pejabat awam, tugasnya berkhidmat untuk negara, tapi "saya takkan berjumpa di hadapan Sogo" — macam dia perli lah, orang tak jemput dia, tiba-tiba nak datang.
+**Amin Sahmat:** Dia kan dah nak bersara, lepas tu wartawan tanya lah, apa Azam Baki nak buat lepas ni, lepas dah bersara. Dia kata dia pejabat awam, tugasnya berkhidmat untuk negara, tapi "saya takkan berjumpa di hadapan Sogo" — macam dia perli lah, orang tak jemput dia, tiba-tiba nak datang.
 
 **Rafizi:** Luka dalam ni, luka dalam kan. Selalunya penjawat awam berjawatan kanan ni, selepas mereka bersara, selalunya dapat tempat dalam syarikat-syarikat sebagai ahli lembaga lah. RM20,000 kat sana, RM30,000 kat sini — kalau ada 10 lembaga, dapatlah RM300,000 sebulan kan. Jadi memanglah dia tak payah nak fikir-fikir pasal demo ni, memang selepas ini selain daripada mungkin jadi ahli lembaga, main saham dah. Jadi dia komen — orang tak tanya pun — dia jawab sendiri pasal demo kat Sogo ni. Aku rasa itu kesan podcast dan juga demo tu, memang luka dalam kat dia lah. Beria-beria, tapi lebih kepada beria dari segi skincare kot. Malu je korang — tengok muka kau, banding dengan Azam Baki.
 
-**Afiq:** Saya memang teruk.
+**Wan Afiq:** Saya memang teruk.
 
 **Rafizi:** Dia makan biotin kot, tak?
 
-**Speaker 4:** Kalau husnuzan, mungkin kesan wuduk kot.
+**Amin Sahmat:** Kalau husnuzan, mungkin kesan wuduk kot.
 
 **Rafizi:** Kan ada dekat TikTok sekarang, pil-pil tu. Dia ada banyak reel yang kata kalau nak nampak muda, makan biotin. So korang kena husnuzan. Mana tahu, dia makan biotin. Tapi nampak sangat tak pernah tahu... apa sebabnya.
 
-**Afiq:** So, mungkin kita pergi pada beria seterusnya. Boleh?
+**Wan Afiq:** So, mungkin kita pergi pada beria seterusnya. Boleh?
 
 **Rafizi:** Boleh. Jahat korang — korang letak Zafrul tengah pakai baju BN, mana baju PKR dia? Tak jumpa. Sepatutnya korang letak baju dia masa dia dengan Tan Sri Muhyiddin, kemudian baju BN, kemudian baju PKR. Dan kalau PKR tak menang pilihan raya akan datang, InsyaAllah dia pakai kopiah dengan baju PAS selepas ini. So sekarang ni mencari kerja — bukan mencari kerja, ini masih belum buat kerja, dia dah buat latihan amali, so dia dah buat kerja dekat Pandan ini yang keterbaca... Korang pun jahat kan, netizen ni pun jahat. Yang dia komen pasal dia pergi ke Masjid Al-Azim di Pandan — masjid paling besar dekat Pandan Indah tu kan — dan dia kata panas, pasal ada orang jawab, "pergi sembahyang sikit pun dah rasa panas." Yang ini sebenarnya Zafrul tiap-tiap hari memang dah ada kat Pandan lah. Jadi dah memang jelas dia memang telah dijanjikan untuk bertanding di Pandan. Dan dalaman PKR pun memang telah sebut lah, memang dia telah diarahkan juga untuk bertanding di Pandan. Jadi kita akan dapat banyak lagi laporan-laporan latihan amali macam ini lah.
 
@@ -135,7 +134,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Aku gelak juga, netizen ni memang nakal lah. Sebab dia buat konten kotak agihan letrik yang meletup kan, so dia pergi tengok semua. So jawapan netizen tu — kalau terletup, panggillah apa nama ni, TNB kan. Jadi... dan tempat tu pun, Nuri Court tu, memang kita berkali-kali pergi turun semua lah kan. Tapi good luck untuk dia lah. Saya ingat pengundi kat Pandan lah, minta duit banyak-banyak, minta banyak-banyak, minta semua.
 
-**Afiq:** Tapi tak bahagia ni, dah berumur dah, InsyaAllah akan bantu habis.
+**Wan Afiq:** Tapi tak bahagia ni, dah berumur dah, InsyaAllah akan bantu habis.
 
 **Rafizi:** Apa dia, Masjid Al-Azim tu, kalau nak bandingkan 10 tahun yang lepas lah — betul lah dia tidak lah panas. Bagi saya lah, kalau nak bantu tu, banyak lagi masjid-masjid atau surau-surau kecil yang orang solat Jumaat, yang mungkin lebih panas lah. Ada satu tu dekat sebelah Pandan Jaya, belakang Pandan Prima — saya ingat Surau Al-Hilal, itu lagi panas lah kalau nak banding. Cuma bila masjid besar, kalau tanya jemaah, saya tak fikir jemaah kata panas lah kan. Cuma dia dah ada kipas besar, dah cukup ok, berangin, tapi peringkat seterusnya dia nak — yalah, aircon pula lah kan. Jadi kalau macam saya sebagai ahli parlimen, selalunya begitulah bila kita tetapkan nak bantu yang mana — kita tengok secara keseluruhan, mana yang kita rasa mungkin lebih mendesak, dan kita bantu yang itu dulu secara kecil-kecilan. Dan kalau tengok, saya tak pernah lah buat konten bagi bantuan. Tak betul — saya tak pernah buat konten, sebab bagi saya itu memang tugas ahli parlimen. Mana yang kita bantu, kita agihkan. Dan saya rasa sangat feudal kalau masjid ke, sekolah ke, ataupun kumpulan orang ramai, dia nak dapat bantuan daripada ahli parlimen dia, dia kena susah payah habiskan setengah hari pergi duduk kat depan tu ambil cek semua. Jadi kalau macam masjid dan surau, memang kalau bantuan kita bagi, sama ada kita hantar terus cek, kita kumpulkan sekaligus. Dan itu pun, kalau perasan, saya tak pernah buat konten lah kan — jadi itu pandangan yang lain-lain, dan saya sangat anti-feudal sebenarnya, sebab saya letakkan diri saya — kalau saya, dah lah tiap-tiap hari aku yang bersusah payah dengan masyarakat ni, wakil rakyat nampak sekali-sekala je kan, kemudian hanya untuk aku dapat RM2,000-RM3,000 aku kena angkat dia dan sembah dia. Jadi bila saya jadi wakil rakyat dulu, saya cuba sedaya upaya untuk memastikan orang yang kita berurusan itu tak rasa macam itu lah. Tapi yalah, itulah saya. Orang lain lepas ni mungkin kipas tak jalan kat rumah pun, pop, ada Zafrul — mungkin kena buat video nanti dia dapat bantuan. Saya risau Sabtu ni — esok lah — dia akan ada kaunter bergerak.
 
@@ -147,59 +146,59 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** So kalau kat KL, dia nak datang jumpa kau untuk mengadu, dia kena bayar Grab — masa tu teksi dulu — kena bayar teksi sampai RM80, RM40 pergi, RM40 balik. Dia bukan ada kereta, dia nak jalan, nak lintas MRR2 tu besar. Jadi tak masuk akal wakil rakyat duduk dekat pusat khidmat ni semata-mata; dia memang kena duduk juga lah sekali-sekala, tapi maksudnya kalau urusannya nak jumpa wakil rakyat kena pergi ke pejabat, ia tidak berfungsi macam itu. Kau sebenarnya kena pergi ke setiap kawasan, seberapa yang boleh, beralih daripada satu kawasan ke satu kawasan, supaya orang yang betul-betul susah dekat situ tak payah jalan kaki jauh. So ia bukan sebenarnya untuk buat konten ke untuk dapat sokongan — itu memang tugas wakil rakyat, dan cara yang lebih mengurangkan beban rakyat ialah supaya kau pergi sendiri dekat tempat dia kan. Jadi sama ada Zafrul ke — saya pun tak faham, mari kita lihat. Sebahagiannya sebab dia takut kena maki di tempat kejadian lah — memang kena maki di tempat kejadian, sebab katakanlah kalau dibahagikan kepada mungkin 40 taman, 40 kawasan, kau nak habiskan satu pusingan seluruh kawasan tu satu tahun. Jadi bila giliran seterusnya sampai kat kawasan tu, dia kata, "YB dah satu tahun tak jumpa kau." So selalunya orang nak mengelakkan daripada — kemudian dia akan cerita benda-benda yang kadang-kadang tak boleh diselesaikan, dia marah, semua kan. Jadi saya ingat sebahagian besar wakil rakyat tu tak nak macam itu. Tapi saya rasa itu memang sebahagian daripada menjadi wakil rakyat lah. Sama ada Zafrul nak tiru lepas ni — kalau Zafrul tiru, bagus, Alhamdulillah, sebab dia patut jadi budaya.
 
-**Afiq:** Kalau dia tiru, dia tiru je betul-betul bulat-bulat lah, tak ada malu je.
+**Wan Afiq:** Kalau dia tiru, dia tiru je betul-betul bulat-bulat lah, tak ada malu je.
 
 **Rafizi:** Dia memang tak ada malu — sebab tu tak terkejut. Kalau dia jenis malu, dia tak adalah boleh melompat daripada Tan Sri Muhyiddin kepada UMNO. UMNO angkat dia sampai jadi bendahari kan.
 
-**Speaker 4:** Bendahari UMNO Selangor.
+**Amin Sahmat:** Bendahari UMNO Selangor.
 
 **Rafizi:** Angkat dia, semua letakkan dia jadi calon terus kan. Lepas tu, Anwar dah maki dia berkarung-karung sebelum pilihan raya, dan Disember 2022 jadi kawan baik selama-lamanya, BFF sampai sekarang. So kalau dia jenis malu, dia tak adalah jadi Tengku Zafrul yang ada sekarang kan. Jadi saya tak terkejut kalau dia buat apa-apa daripada itu lah. Tapi yang saya rasa kita kena raikan — barulah kalau dia buat kaunter bergerak, maka itu sebenarnya lebih — sebab kadang-kadang kami pun tak cukup tenaga dan tak cukup sumber untuk selesaikan semua masalah-masalah ini kan.
 
-**Speaker 4:** YB, saya nak tanya sikit. Tadi YB ada sebut pasal penyampaian bantuan daripada parlimen, sebagai ahli parlimen kan — kalau dari segi jangkauan lah, jangkauan kepada pengundi. Kalau kita tengok pendekatan YB, YB tak nak dedahkan. Kalau saya banding lah — kalau YB tahu, Adun Duyong, Dr Ilmi, dia lebih maklumkan kepada media sosial. Dari segi maksud untuk jangkauan itu, pada pandangan YB, sama ada kita senyap ataupun kita dedahkan, mana lebih menjangkau kepada rakyat?
+**Amin Sahmat:** YB, saya nak tanya sikit. Tadi YB ada sebut pasal penyampaian bantuan daripada parlimen, sebagai ahli parlimen kan — kalau dari segi jangkauan lah, jangkauan kepada pengundi. Kalau kita tengok pendekatan YB, YB tak nak dedahkan. Kalau saya banding lah — kalau YB tahu, Adun Duyong, Dr Ilmi, dia lebih maklumkan kepada media sosial. Dari segi maksud untuk jangkauan itu, pada pandangan YB, sama ada kita senyap ataupun kita dedahkan, mana lebih menjangkau kepada rakyat?
 
 **Rafizi:** Bagi saya, pada akhirnya, dia bergantung kepada niat kita. Saya memandang semua ni mungkin dari perspektif yang lain — saya tak pernah memandangnya dari segi untuk menang pilihan raya. Satu ialah, kita orang Islam lah kan, tangan kanan yang memberi, sebaiknya tangan kiri jangan tahu lah. Yang kedua ialah, membantu itu memang tanggungjawab, memang kerja kita sebenarnya. Dan saya lebih takut kalau — dia nampak macam orang dulu kata, kerja tak cukup jam, ambil gaji tapi tak cukup jam — so saya lebih takut yang itu, yang kita buat semua itu supaya kita betul-betul dah laksana tanggungjawab dan kita telah memperoleh rezeki. Soal orang tahu ke tidak, jangkauan ke tidak, semua itu — sama ada kau yakin ke tidak bahawa akhirnya soal orang undi ke tidak itu semua ketentuan Allah. So that's why saya tak — tengok, daripada 2013, saya jarang sekali post konten yang berkaitan dengan bantuan orang miskin ke apa. Memang saya tak — yang penting benda tu sampai secepat yang mungkin, kalau tak daripada saya pun daripada pusat khidmat saya, dan tak payah nak tunggu saya. Yang penting orang tu betul-betul dah ada bantuan, kecuali lepas 2-3 minggu tak jadi-jadi juga dia nak jumpa wakil rakyat, dan okey lah. Sebab akhirnya, saya ingat kalau kita buat kerja dengan betul, niat betul, jujur, Allah akan bantu lah. Sama ada ada kat TikTok ke, sama ada ada kat Facebook. Faham?
 
-**Afiq:** Okay, jelas. So YB, beria-beria je ini — panas dan beria. So seterusnya, kita pergi beria seterusnya. Kembali kita ke Bumi PAS.
+**Wan Afiq:** Okay, jelas. So YB, beria-beria je ini — panas dan beria. So seterusnya, kita pergi beria seterusnya. Kembali kita ke Bumi PAS.
 
 **Rafizi:** Sampai hati kau panggil Kelantan Bumi PAS?
 
-**Afiq:** Dah lama-lama sangat.
+**Wan Afiq:** Dah lama-lama sangat.
 
 **Rafizi:** Dia orang Besut, ada darah Kelantan. Ni masalah orang Kelantan dengan orang Besut ni kan. Ni yang mana? Yang YB Melor?
 
-**Afiq:** Yes, betul YB.
+**Wan Afiq:** Yes, betul YB.
 
 **Rafizi:** So YB Melor ni nama apa?
 
-**Speaker 4:** Wan Rohimi.
+**Amin Sahmat:** Wan Rohimi.
 
 **Rafizi:** Wan Rohimi.
 
-**Afiq:** So kisahnya simple, dia buat konvoi. Simple sangat, saya suka, dan ucapan dia — dia ada mempersoalkan, dia panggil "bodoh," tapi dari Kelantan tu dia definisikan "bodoh" tu macam bahasa biasa — apa benda kau ni — bagi orang Kelantan, dia macam tu. Tapi maksud kat sini kita nak tengok adalah dia dakwa bahawa dia dapat bawa motor 3,000 biji, ramai, tapi dalam video hanya dalam kurang 200.
+**Wan Afiq:** So kisahnya simple, dia buat konvoi. Simple sangat, saya suka, dan ucapan dia — dia ada mempersoalkan, dia panggil "bodoh," tapi dari Kelantan tu dia definisikan "bodoh" tu macam bahasa biasa — apa benda kau ni — bagi orang Kelantan, dia macam tu. Tapi maksud kat sini kita nak tengok adalah dia dakwa bahawa dia dapat bawa motor 3,000 biji, ramai, tapi dalam video hanya dalam kurang 200.
 
 **Rafizi:** Oh, yang itu aku pelik juga — awal-awal kenapa kau letak gambar demo, apa nama ni, tangkap Azam Baki kat atas tu kan. Oh, so nak membandingkan yang PAS mengaku banyak tu, 9,000 orang, tapi yang kat atas tu, yang memang agak jelas lebih ramai — 300 orang. Tapi YB Melor tu juga, 3,000.
 
-**Afiq:** Banyak komunikasi ni.
+**Wan Afiq:** Banyak komunikasi ni.
 
 **Rafizi:** Terlebih dakwaan tau, tak banyak — sekarang sebenarnya ada ChatGPT, sebenarnya ia cukup benar. Kau ambil gambar dari sudut yang berbeza, kemudian kau upload kepada beberapa AI ini, dan minta mereka untuk mengira, dan dia tak lari jauh lah. Macam yang kita buat, kita punya pengiraan cepat dalam seribu setengah kan, ChatGPT/AI letak antara seribu setengah ke dua ribu setengah kan, media anggarkan lebih kurang seribu. So dia tak adalah langit dengan bumi kan. Tapi kembali kepada Wan Rohimi ni kan, soal dia soal perkataan bodoh — dia kata "bodoh polis."
 
-**Speaker 4:** Dia kata macam kita ni kena "bodoh" dengan polis, ke polis kena "bodoh" dengan dia?
+**Amin Sahmat:** Dia kata macam kita ni kena "bodoh" dengan polis, ke polis kena "bodoh" dengan dia?
 
 **Rafizi:** Terbalik tu kan. Aku tiga suku darah Kelantan-Besut dan satu suku darah Terengganu kan — dia kata polis kena "bodoh" macam tu je. So nak kata dia beria, beria lah. Tak adalah dia konsep — dia ada dua perspektif lah kan, bukan soal maksud sahaja. Satu ialah sebagai wakil rakyat, dan kalau Wan Rohimi ni lagi sensitif lah, sebab dia peguam — dia peguam utama PAS kan — sepatutnya kita tak boleh memberi teladan yang menggalakkan orang melanggar undang-undang. Peraturan jalan raya tu peraturan jalan raya. Bila dia kata "polis kena bodoh je" macam tu, sebab saya ingat dia kata polis buat sekatan jalan raya, tapi dia lari ikut jalan seberang sana kan — itu yang dia kata kan. Dan pun dia masuk jalan kampung tu tak apa lah, tapi maksudnya untuk lari daripada sekatan jalan raya tu, dia lari di seberang sana bawa motor bertentang arah, ni pun itu dah melanggar undang-undang dan membahayakan orang. Kemudian PAS ada banyak pengaruh dengan anak-anak muda yang main motor ni — saya balik raya di Kemaman, raya yang lepas, sampai dalam 2 pagi kan, terkejut aku, sepanjang-panjang jalan raya tu beratus-ratus motor berlumba macam itu je, semua. Ini betul, ni cerita betul kan — di Cukai tu, daripada keluar saja lebuh raya, masuk je dalam 5km sebelum bandar tu, ada jalan panjang nak ke arah bandar Cukai kan — malam 2 pagi dia berlumba tu, tak kisah orang, kita yang kat tepi ni takut, kena tunggu dia dah berhenti baru bawa balik. Polis pun tak ada, aku ingat polis pun dah give up kan. Jadi sebagai wakil rakyat, pengamal undang-undang kan, kita tak boleh lah — walaupun kita perlukan sokongan daripada adik-adik motor semua ni — tapi kita tak boleh nak menggalakkan mereka. Dan itu yang saya rasa PAS tidak berhati-hati soal motor ni. Dia terlalu nak sangat sokongan anak muda yang motor ni, sampai dia menunjukkan wajah-wajah yang orang lain kurang selesa. Satu macam ini lah maksudnya, menggalakkan langgar peraturan, menggalakkan tak hormat undang-undang dan polis. Kemudian boleh bangga pula kata "polis ni kita boleh bodoh" macam tu je. Satu lagi perspektif ialah soal tatasusila — kau kata "membodohkan," "bodoh polis" ni, bahasa Kelantan mungkin sama-sama kata tak ambil serius, tapi dalam konotasi bahasa slanga, mana lah wakil rakyat, tambah lagi seorang peguam macam dia, sepatutnya tak adalah guna perkataan "bodoh" — perkataan yang, sebab itu polis terus pergi dakwa tu. Dia mencabar pihak berkuasa lah kan. Boleh kritik polis, boleh kan — tapi boleh kritik, kita kritik SPRM sepanjang masa kan, tapi jangan sampai menjadi teladan kepada yang muda-muda ini, maksudnya kita boleh buli ataupun tak ambil peduli pasal undang-undang. Ini bukan soal undang-undang yang rumit, ini soal keselamatan jalan raya — polis buat sekatan jalan raya, jadi lepas ni polis sekat jalan raya mana-mana budak-budak muda, semua tak apa, "hari ni kita bodohkan polis," susah lah.
 
-**Afiq:** Dia tak mendidik lah. So okay, dah ada berapa? Ada lagi beria ke tak ada? Ada lagi. Ini tetamu setia YBM.
+**Wan Afiq:** Dia tak mendidik lah. So okay, dah ada berapa? Ada lagi beria ke tak ada? Ada lagi. Ini tetamu setia YBM.
 
 **Rafizi:** Siapa dia?
 
-**Afiq:** Versi lain RR.
+**Wan Afiq:** Versi lain RR.
 
 **Rafizi:** Oh, By Fire Merah.
 
-**Afiq:** Tapi yang ini menariknya, yang ini wartawan Malaysiakini, Nantakumar, dia memang dah lama menumpukan kepada kes-kes dan pendedahan mengenai warga asing, pekerja asing. So dia yang banyak buat kajian dan laporan mengenai Turap lah, yang terkini kan.
+**Wan Afiq:** Tapi yang ini menariknya, yang ini wartawan Malaysiakini, Nantakumar, dia memang dah lama menumpukan kepada kes-kes dan pendedahan mengenai warga asing, pekerja asing. So dia yang banyak buat kajian dan laporan mengenai Turap lah, yang terkini kan.
 
 **Rafizi:** Tapi yang menarik tu, masa aku tengok berita, aku tengok diorang pergi serbu rumah dia — rumah dia kat Serdang kan. Kesian tu, wartawan takut betul, orang pandai dengan dia — bukan, kalau tengok rumah dia, rumah dia lebih daripada B40. So orang kita ingat semua, terutamanya yang M40, duduk KL lah, paling kurang duduk kat flat ke apartmen kan — saya rasa Nantakumar ni kesian, duduk dekat rumah kayu je dekat Serdang. Jadi kalau kau put that into perspective, maksudnya mereka ni memang bergalang nyawa lah — ada di kalangan media kita yang bergalang nyawa untuk membawa isu kepada rakyat kan, dan dia tak dapat apa pun. Sebenarnya kalau dia menjadi penjilat, saya pasti dia dah kaya raya lah kan. Jadi konteks tengok rumah dia tu mengingatkan saya sebenarnya, walaupun kesian — kesian memang kesian lah kan — tapi maksudnya kita masih ada harapan dalam masyarakat ni, kerana ada watak-watak yang tidak mementingkan wang dan kedudukan untuk bawa kebenaran kan. Cuma yang lawaknya, kalau pasal serbuan kepada Nantakumar ni — Rembau ni, tak boleh sentuh langsung, tak boleh disentuh, haa, jangan tanya aku, tanyalah Perdana Menteri. Jadi sebelum ini banyak je kes-kes yang wartawan dedah pasal kerajaan, pasal menteri, pasal zaman PH, tapi polis tak ambil tindakan secepat kalau — ini laporan daripada Kementerian Sumber Manusia lah kan, daripada KESUMA kan. Laporannya, saya ingat, bersabit bahawa Nantakumar ada dokumen rasmi kerajaan, jadi dia pergi serbu lah, tapi tak jumpa lah kan. Cuma beria lah kalau nak kira — Rembau ialah Menteri Sumber Manusia, sepatutnya dialah yang paling ke depan melindungi kebajikan hak pekerja-pekerja — apa nama ni, orang media pun pekerja juga lah — tapi Nantakumar ni pernah kena tangkap pasal cuba menyelidik, menyiasat mengenai pekerja asing, kemudian kena serbu rumah dia kan. Jadi saya pun terkejut lah bila KESUMA buat laporan polis — kita nak salahkan pegawai kerajaan pun tak boleh, kerana kalau dia dah dapat arahan, dia terpaksalah buat laporan polis. Dan polis pula beria, dengan segera pergi serbu rumah Nantakumar.
 
-**Afiq:** So KESUMA tak fikir kalau dia buat benda ni akan berbalik menyerang kerajaan? Kau tak pernah duduk dalam kerajaan.
+**Wan Afiq:** So KESUMA tak fikir kalau dia buat benda ni akan berbalik menyerang kerajaan? Kau tak pernah duduk dalam kerajaan.
 
 **Rafizi:** That's why lah saya takkan masuk kerajaan. Dia sebenarnya, dalam kerajaan tu gelembung sebenarnya. Dalam kerajaan, terutamanya kalau menteri, dia cepat panas. Aku pernah buat laporan polis, oleh kementerian, sekali je — ingat Yaman ni — bukan aku lah, maksudnya kementerian pernah buat laporan polis sekali je.
 
@@ -207,35 +206,35 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Pasal ganja. Oh ya, ya, ya — ada orang hantar ganja kat aku. So kenalah buat laporan polis, nanti polis ingat aku order ganja. Itu satu-satunya laporan polis yang kita pernah buat lah. Jadi kalau macam saya dulu, orang kritik ke apa, saya jawab lah. Sebab tu awalnya ni nama dia yang bakar menteri. Bila orang kritik semua kan, takkan kita nak saman sepanjang masa. Memanglah sebagai menteri, sebagai kerajaan, senang hantar polis, saman, semua ni kan — memang kau pilih untuk jadi menteri kat atas, kau pilih untuk menjadi anggota pentadbir tertinggi kan. Jadi orang ada pandangan macam-macam, dia ada yang dia nak tanya. Kalau yang dia kata tu tak betul, kau terangkan. Kalau yang dia tuduh itu menipu, kau tunjukkan lah dokumen yang betul. Itu sahaja kan. Tapi tak semua menteri macam itu lah, tak semua kementerian, pegawai kanan kerajaan macam tu. Dia kira ini masalah juga, sebab sama — kawan-kawan polis di bawah kementerian itu, SPRM di bawah Perdana Menteri — jadi bila kerajaan itu berkuasa, siapa-siapa sentuh dia kata "alamak, ini kawan bos aku," "alamak, ini menteri itu" — jadi payah lah kan. Dan kita masih belum ada budaya itu, yang mana kita menghormati bahawa yang kau nak jadi menteri itu, kenapa — memanglah orang akan hentam tiap-tiap hari, kau jangan jadi menteri kalau begitu. Kalau orang hentam, kau jawab. Kalau orang kutuk dekat TikTok, kau jawab kat TikTok. Kalau TikTok kau tak seberapa, maka memang kau kena usahakan supaya TikTok kau naik lah. Itu sebenarnya apa yang kami alami lah. Saya sebagai menteri dulu, awal-awal sebab saya buka lambat TikTok, jadi TikTok saya ke belakang. Jadi nak tak nak, ada satu masa tu memang kita buat keputusan lah, memang kita kena buat konten TikTok lah. So aku penat macam mana pun, aku pun buat lah, aku buat rekod almost every day, sampai sekarang lah — every day ada rekod. Sebabnya ialah kerana itu realiti penyampaian maklumat sekarang. Jadi di Putrajaya, saya ingat, gelembung tu belum pecah. Dan kerajaan mana pun masuk, kalau gelembung itu tidak dipecahkan, dia akan terus berulang macam ini lah. Kalau PAS jadi menteri, dia akan hantar polis untuk tangkap orang yang dia tak suka. Kalau UMNO, macam itu lah kan. So saya rasa pada satu tahap lah, kita kena menyedarkan rakyat, beri pencerahan. Dan menteri yang suka hantar polis dan sebagainya untuk serbu ni, kita kena troll sebanyak yang mungkin lah. Only then dia faham lah, harap-harapnya — ataupun make sure dia tak jadi menteri pilihan raya seterusnya lah.
 
-**Speaker 4:** Faham, faham YB. Saya nak tanya sikit lah YB, pasal tadi YB sebut pasal penyampaian kan. Satu, pengalaman YB lah sebagai bekas menteri — kita ada agensi penyampaian kerajaan, kita ada JASA, kita ada Bernama...
+**Amin Sahmat:** Faham, faham YB. Saya nak tanya sikit lah YB, pasal tadi YB sebut pasal penyampaian kan. Satu, pengalaman YB lah sebagai bekas menteri — kita ada agensi penyampaian kerajaan, kita ada JASA, kita ada Bernama...
 
 **Rafizi:** Yang itu mungkin kita dalam...
 
-**Speaker 4:** Yang...
+**Amin Sahmat:** Yang...
 
 **Rafizi:** Kita memang ada satu slot untuk kita bincang tentang perang media sosial sekarang, dan itu terus mengait dengan soalan itu — kenapa contohnya setiap kali ada kerajaan baru, soal penyampaian maklumat ni bergaduh dan nampak sangat defensif, sedangkan kita ada agensi, kita ada JKOM, kita ada semua.
 
-**Afiq:** Ok, jelas. So YB, kita tutup. Amin nak tanya lagi, tak puas hati?
+**Wan Afiq:** Ok, jelas. So YB, kita tutup. Amin nak tanya lagi, tak puas hati?
 
-**Speaker 4:** Satu lagi. YB tadi ada dua benda yang saya tertarik — satu lagi pasal, kalau kita tengok sekarang ni, menteri dah boleh arah — Menteri Madani boleh arah polis untuk serbu.
+**Amin Sahmat:** Satu lagi. YB tadi ada dua benda yang saya tertarik — satu lagi pasal, kalau kita tengok sekarang ni, menteri dah boleh arah — Menteri Madani boleh arah polis untuk serbu.
 
 **Rafizi:** Well, berhati-hati — saya tak fikir kau boleh kata menteri arah polis lah. Menteri mungkin arah supaya satu laporan polis dibuat, dan itu keputusan polis lah. Cuma bila laporan polis itu datang daripada sama ada pejabat menteri ataupun kementerian utama, jadi dia ada keutamaan untuk polis ambil tindakan lah.
 
-**Speaker 4:** Tapi dari segi kebebasan media, kalau kita tengok tahun ni, indeks kebebasan kita dah jatuh sikit — dari 80 lebih kepada 95, tak silap saya. Dan kemudian kita ada isu ni. Dan kalau kita boleh flashback tahun 2016, masa 1MDB belum letupkan — The Edge kena tarik lesen, DAP kena gantung, semua, Sarawak Report kena gantung — adakah kita ni sekarang ni dah on the way balik kepada zaman ke mana kebebasan media tu dah hampir disekat? Sebab respons daripada rakyat biasa, dia tengok kebebasan media kita makin lama makin — ya, kita dulu cakap kita nak buat sesuatu untuk beri kebebasan media, tapi sekarang, ia jadi lebih teruk.
+**Amin Sahmat:** Tapi dari segi kebebasan media, kalau kita tengok tahun ni, indeks kebebasan kita dah jatuh sikit — dari 80 lebih kepada 95, tak silap saya. Dan kemudian kita ada isu ni. Dan kalau kita boleh flashback tahun 2016, masa 1MDB belum letupkan — The Edge kena tarik lesen, DAP kena gantung, semua, Sarawak Report kena gantung — adakah kita ni sekarang ni dah on the way balik kepada zaman ke mana kebebasan media tu dah hampir disekat? Sebab respons daripada rakyat biasa, dia tengok kebebasan media kita makin lama makin — ya, kita dulu cakap kita nak buat sesuatu untuk beri kebebasan media, tapi sekarang, ia jadi lebih teruk.
 
 **Rafizi:** Saya tak fikir saya dalam kedudukan untuk beri jawapan itu kerana jawapan saya hanya pandangan saya, dan pandangan saya tak semestinya mewakili semua rakyat Malaysia kan. Itu masalah pasal soal kebebasan media, ruang demokrasi dalam masyarakat ni — kerajaan atau parti-parti politik hanya sedar bila dia dah kena. Jadi yang kita tahu hanyalah daripada laporan-laporan rasmi. So sekarang, laporan yang paling orang kata kredibel dalam dunia, RSF lah — Reporters Without Borders, RSF, Reporters Sans Frontières kan — memang kebebasan media di Malaysia jatuh dalam semua aspek, kecuali keselamatan media sahaja — memanglah selamat lah, kita tak ada perang kan. Tapi kalau nak kata kerajaan tahu, kerajaan bimbang, ataupun rakyat tahu, saya rasa sangat sukar untuk mengukur denyutnya melainkan kau buat kajian menyeluruh dengan rakyat mengenai kebebasan media dan ruang demokrasi kan. Dan itu yang jadi beban kepada PH, kerana dalam banyak-banyak tiga gabungan parti utama ni, yang dilihat paling banyak berkempen mengenai ruang demokratik adalah PH, yang dilihat progresif adalah PH — progresif itu maksudnya lebih percaya kepada suara dan keputusan rakyat. Tidak praktikal untuk ahli politik tahu semua kan. Jadi kalau secara benda-benda macam ini, dan dilihat tahap tolerans pimpinan PH, tambah menteri pula macam Rembau, dia tak ada tahap tolerans langsung kepada soalan isu yang dibawa, maka akhirnya memang orang akan rasa macam makin sempit — tanya sikit pun tak boleh, kritik sikit pun, komen sikit orang kata "nyet-nyet-nyet." Jadi itulah, lama-lama dia melekat dalam kepala rakyat — kau kata kau demokratik, tapi kami rasa bahawa kami kena kawal diri sendiri. Nak tanya tu tak boleh, nak tanya ni tak boleh, laporan yang ini nanti polis datang. Akhirnya dia akan mula dizahirkan yang dalam ranking kebebasan media RSF tu satu perkara, tapi dia mula dizahirkan dalam kepala rakyat, yang akhirnya berakhir dengan peti undi lah.
 
-**Afiq:** Jelas.
+**Wan Afiq:** Jelas.
 
 **Rafizi:** Okay sayang. So korang pilih lah mana, sebab korang tetamu khas kan.
 
-**Afiq:** Amir pilih, mana yang paling beria.
+**Wan Afiq:** Amir pilih, mana yang paling beria.
 
-**Speaker 4:** Ada empat tadi. Kalau bagi saya, paling beria sebenarnya kita masih pada pandangan saya lah, sayang.
+**Amin Sahmat:** Ada empat tadi. Kalau bagi saya, paling beria sebenarnya kita masih pada pandangan saya lah, sayang.
 
 **Rafizi:** Tak apa, itu hak kau.
 
-**Speaker 4:** Saya nak Zafrul lah, sebab pertama dia jadi pegawai latihan amali yang tak berbayar.
+**Amin Sahmat:** Saya nak Zafrul lah, sebab pertama dia jadi pegawai latihan amali yang tak berbayar.
 
 **Rafizi:** Saya setuju, Pa'an pun setuju. Haa, okey, okey, okey. So maksudnya dah dua kali, dua minggu berturut-turut, pilihan itu mendapat konsensus semua.
 
@@ -247,27 +246,27 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Kita semua setuju sebab dia punya papan iklan besar tu kan. So kalau penonton dia di luar setuju, komen satu — bagi BN tu jarang jadi, sebab dia sanggup jadi pelatih amali di Pandan. Okay, jelas semua. So kita pergi Hidup Keras.
 
-**Afiq:** Hidup Keras.
+**Wan Afiq:** Hidup Keras.
 
 **Rafizi:** Kita ada 4 kan, jadi kita nak kena kawal sikit lah mungkin. Kita ada masa banyak mana lagi? Kita dah 39 minit.
 
-**Afiq:** 39 minit.
+**Wan Afiq:** 39 minit.
 
 **Rafizi:** So kita ada lebih kurang 2 jam lah, lebih kurang. Sengaja, sengaja. Okey lah, topik minggu ni tak berat-berat.
 
-**Afiq:** Okey, so kita pergi yang pertama — kemelut Negeri Sembilan. So isu ni susah nak difahami, dia sangat kompleks.
+**Wan Afiq:** Okey, so kita pergi yang pertama — kemelut Negeri Sembilan. So isu ni susah nak difahami, dia sangat kompleks.
 
 **Rafizi:** Dia ke susah nak faham?
 
-**Afiq:** Susah, sebenarnya. Dia kait dengan — dia tebuk atap lah.
+**Wan Afiq:** Susah, sebenarnya. Dia kait dengan — dia tebuk atap lah.
 
 **Rafizi:** Puncanya. Haa, puncanya — yelah, dia ada banyak cerita, kemudian Negeri Sembilan ni adat perpatih pula kan.
 
-**Afiq:** Itu susah kan dia. So bagi saya, macam mana nak mudahkan, terangkan kronologinya?
+**Wan Afiq:** Itu susah kan dia. So bagi saya, macam mana nak mudahkan, terangkan kronologinya?
 
 **Rafizi:** Saya rasa dia kena faham asal-usul yang memulakan ini lah kan. Pada awalnya, dia hanya nampak seperti pergolakan di antara — bukan undang-undang, "law" — dia ada empat orang Undang. Jadi Undang di Negeri Sembilan ada empat orang, tambah bersama dengan Tunku Besar Tampin kan? Ya, Tunku Besar Tampin. Bukan 4, tapi dia plus 1 — ya, Tunku Besar Tampin. Dia bermula dari soal perselisihan di antara Undang yang Empat — sebenarnya betul, dia tak panggil "undang-undang," dia panggil "Undang Yang Empat" — dan juga Tunku Besar Tampin dengan, apa nama ni, Yang Maha Mulia Yang di-Pertuan Besar Negeri Sembilan, Tuanku Muhriz lah. Dan kita hanya tahu sekarang bila isu ini meletup. Perkara itu, sebelum ini, prosiding perselisihan faham itu berlaku di dalam Dewan Keadilan dan Undang Negeri Sembilan, DKU, iaitu dewan tertinggi yang menyelaraskan dan mengawal adat perpatih — kepada yang bukan orang Negeri Sembilan lah, saya tak tahu berapa ramai orang yang faham tentang adat perpatih, asal-usul Negeri Sembilan ni. Saya pun tak — saya bukan orang Negeri Sembilan kan, tapi saya minat sejarah sedikit sebanyak lah kan. Kerana asal-usulnya, Negeri Sembilan ni orang berdagang kan — Minang dulu, orang berdagang daripada Sumatera. Jadi bila diorang settle di Negeri Sembilan tu, dia ada daerah-daerah — itu yang jadi "Sembilan" itu kan. Dan sesama mereka itu, dia macam penghulu lah. Jadi untuk ada seorang yang macam raja yang boleh mentadbir dan diterima oleh kesemua itu, asal-usulnya mereka bersetuju untuk menjemput raja Melewar daripada Sumatera lah — Padang, Pagar Ruyung — daripada Pagar Ruyung kan. Jadi awalnya, setiap kali nak pilih Yang di-Pertuan Besar, mereka perlu bersetuju siapa untuk dijemput daripada Pagar Ruyung kan. Dan sehinggalah kepada, saya ingat, Yang Tuan Radin — selepas Yang Tuan Radin itu, persetujuannya ialah Yang di-Pertuan Besar itu mestilah salasilah dan keturunan Yang Tuan Radin. Itu 1870-an lebih, macam tu lah kan. Jadi sebab itu adat perpatih ni sangat demokratik, dan dia ikut susur galur ibu kan — dia daripada yang bawah, dan luak-luak kan — aku pun dah lupa lah — anak-anak buah...
 
-**Speaker 4:** Buah.
+**Amin Sahmat:** Buah.
 
 **Rafizi:** Buah, pak lembaga, Undang. Kemudian Lembaga, kemudian Undang Yang Empat, itulah yang pilih Yang di-Pertuan. Jadi sebenarnya bila dia dah meletup, baru kita tahu sebenarnya isu mengenai seorang Undang, Undang Sungai Ujong ni, dah memang bermula daripada 2025 pun lagi. Jadi ada perbincangan dan ada aduan, dan perkara itu diuruskan di peringkat DKU lah. Sehingga April, DKU mengumumkan bahawa Undang Sungai Ujong telah dilucutkan jawatan — jadi daripada situlah bermula. Masa itu pun, masa pelucutan jawatan Undang Sungai Ujong itu, saya ingat dia tak jadi berita sangat lah, senyap je semua kan. Kemudian yang besarnya ialah bila Undang Yang Empat itu buat kenyataan media lah, menurunkan takhta Yang Maha Mulia Tuanku Muhriz lah — secara langsung, dia buat siaran langsung maksudnya tu. Dan rentetan daripada itulah, apa nama ni, dia mengheret Tok Mien, Dato' Seri Aminuddin Harun sebagai Menteri Besar, kerana bermula apabila Undang Yang Empat mengatakan bahawa Tok Mien pun dah kena letak jawatan. Dan yang terakhir ialah apabila — bukan 19 ADUN, oh, 19 ADUN tu campur dengan PN 14, BN 5, BN — sehinggalah kepada ADUN BN lah buat — kau nak panggil langkah apa ni, langkah pertang, ke langkah Jalaluddin? Langkah jalan lah, orang panggil banyak. Kalau kat media sosial tu orang panggil "langkah jalan" lah kan. Membuat keputusan menarik balik sokongan kepada Tok Mien lah. So itu sebenarnya latar belakang yang paling mudah untuk kita terangkan. Apa yang bermula sebagai satu perselisihan pandangan dan pertikaian di peringkat — orang kata "bangsawan," sebenarnya di peringkat bangsawan — tiba-tiba dia mengheret keseluruhan politik di Negeri Sembilan. Cuma itu pun sebenarnya, dalam keadaan sekarang, dia memang akan berkait kerana adat perpatih ini memang dah dimasukkan di dalam Undang-Undang Tubuh Negeri Sembilan. Contohnya untuk melantik Menteri Besar yang baru, atau mana-mana Menteri Besar lah, dia bukan dengan persetujuan Yamtuan sahaja, dia mesti dengan Empat Undang. Sama juga nak ubah — dewan dia, bukan yang dia — tak sama macam negeri-negeri lain yang mana boleh dibubarkan oleh Sultan sahaja, dia perlukan Empat Undang. Jadi dalam keadaan Empat Undang itu, satu tidak setentang mata dengan Yamtuan; keduanya, Undang Sungai Ujong, kalau ikut pendirian kerajaan Negeri Sembilan kan, telah dipecat; kemudian ada seorang lagi Undang mana yang belum lagi ditabalkan — Undang Rembau, yang paling muda sekali. Undang ada empat ni: Sungai Ujong, Rembau, Johol, Jelebu — saya rasa salah seorang daripada Undang tu, saya rasa Rembau rasanya, belum lagi ditabalkan, dia paling muda, dan dia hanya dilantik setahun yang lepas pun. Jadi walaupun katakanlah kau nak bubarkan dewan ke, kau nak lantik Menteri Besar yang baru, dalam keadaan kedudukan Undang Yang Empat itu pun dipersoalkan dari segi undang-undang, pun bermasalah. Kemudian, contoh untuk yang berkait dengan kedudukan Yang Tuanku Muhriz kan, itu pun bermasalah, kerana walaupun Undang Yang Empat itu kata "kami nak menurunkan takhta Tuanku Muhriz," tapi pengisytiharan itu mesti melalui proses perlembagaan. Dan proses perlembagaan itu — memang ada dalam Undang-Undang Tubuh, yang saya faham — mesti ditandatangani oleh Menteri Besar. Pengisytiharan itu tidak sah, kerana satu Undang telah dibuang, dilucutkan jawatan; satu lagi Undang belum pasti sah atau tidak dalam jawatan. So dia sebenarnya jalan buntu — dia menjadi jalan buntu sekarang ini. Jadi sebab itu saya pelik lah sebagai orang politik lah — UMNO Negeri Sembilan, masa dia buat keputusan untuk menarik sokongan ni, apa yang mereka fikirkan? Takkan dia tak ada penasihat undang-undang? Dia fikir tebuk atap ye kot? Tak tahu lah. Yelah, nak tebuk atap pun mesti mengikut undang-undang — dia tebuk atap tu tak boleh tak mengikut undang-undang lah. Jadi itu yang menyebabkan sekarang ni jalan buntu lah sebenarnya, keadaan yang berlaku kan. Cuma ada dua tiga perspektif yang lebih dalam yang kita boleh kupas lah kan. Satu, contohnya, ialah — erm — dari segi kesan politik, sebab sekarang ini tindakan, pada bacaan saya lah — kita ni sebenarnya penganalisis politik sekarang kan, jadi kita melihat dan kita menganalisa, tak tentu yang kita kata tu betul, tetapi memang bidang kita menganalisa politik lah kan — selepas kemelut ini berlaku, dia meletakkan politik di Negeri Sembilan itu kepada dua pihak lah. Satu ialah di sebelah Yang Tuanku, Yang di-Pertuan Besar Negeri Sembilan, Tuanku Muhriz dan keluarga, dan juga bersama-sama dengan Dato' Seri Aminuddin, di satu pihak. Satu lagi pihak ialah UMNO yang menarik sokongan dengan Undang Yang Empat. Jadi, ini lah akhirnya bila sudah ada jalan buntu politik macam ini — dia dah, orang kata, terperangkap — kedua-dua pihak tidak boleh bergerak mahupun berundur kan. Akhirnya dia akan kembali kepada rakyat lah. Dan itulah saya rasa kelebihan itu ada di sebelah Tuanku Muhriz dan juga Tok Mien lah.
 
@@ -275,15 +274,15 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Sebab satunya, Tuanku Muhriz dan keluarga ni sangat popular — sangat-sangat popular kan. Kau boleh semak curahan sokongan dekat media sosial. Dan saya faham lah kenapa mereka sangat-sangat popular. Satu sebab — okay, saya kena isytiharkan lah, nanti orang kata konflik kepentingan lah — saya memanglah kenal dengan keluarga Tuanku Muhriz kan, baik dengan Tuanku Muhriz sendiri. After all, pingat kebesaran saya, Datuk Seri, daripada Negeri Sembilan. Dan memang, kalau dari segi sembah mengadap, memang antara raja-raja yang saya paling banyak sembah mengadap ialah Tuanku Muhriz lah. Kemudian ditakdirkan juga lah sebenarnya, saya kenal anak Tuanku Muhriz sebelum Tuanku Muhriz sendiri, sebab saya mengadap Tuanku Muhriz tu selepas saya jadi menteri kan — tapi saya kenal yang pertamanya, anak bongsu dia lah kan, Tunku Zain. Itu di penghujung 90-an, awal 2000-an. Masa tu saya dah kerja di London, dan Tunku Zain masa itu belajar di LSE. Oh — dan, biarlah, kau tahu, kami yang orang kata "berfikiran progresif," sebab dekat London ni berapa kerat sangat orang, tambah yang dah bekerja semua, yang ambil minat pasal apa yang berlaku di negara kan. Jadi memang ada beberapa ruang, yang yelah kami kenal, ada beberapa program yang kami bersama kan, Tunku Zain kan. Terima kasih kerana menonton. Yang Tuanku Muhriz — Tunku Ali, sekarang Tunku Besar...
 
-**Speaker 4:** Serting?
+**Amin Sahmat:** Serting?
 
 **Rafizi:** Ya, betul. Tunku Ali sebaya dengan saya kan, dan tapi dia — dia cepat lah sebab dia pergi sekolah antarabangsa, di UK, semua, dan dia pergi ke Cambridge tu — dia graduan Cambridge kan, dia pergi Cambridge. Jadi kami ada banyak kawan sama — kami sezaman yang sama masa di UK. Dan masa di UK, masa dia di Cambridge, memang banyak kawan-kawan yang senior saya dari MCKK, kawan-kawan yang berada sezaman dengan dia. Dan kemudian bila dia balik Malaysia, akhirnya dia kerja dengan Khazanah — saya rasa dia mula dengan Boston Consulting Group rasanya kan, kemudian dia kerja dengan Khazanah kan. Masa dia kerja dengan Khazanah pun, kalangan orang itu juga kawan-kawan sama, sesetengah orang yang memang rapat dengan saya kan. Jadi dalam erti kata itu saya kena isytiharkan lah — memang saya kira kenal baik, dari segi budi pekerti, keluarga, Yamtuan Tuanku Muhriz ni lah.
 
-**Afiq:** Kau nak tanya sesuatu? Kau dah pegang ni.
+**Wan Afiq:** Kau nak tanya sesuatu? Kau dah pegang ni.
 
 **Rafizi:** Amir nak tanya.
 
-**Speaker 4:** Okay, mungkin...
+**Amin Sahmat:** Okay, mungkin...
 
 **Rafizi:** Biar saya habiskan bahagian tentang populariti ni dulu kan. Sebab ini yang saya rasa UMNO tidak jangka — curahan sokongan kepada Tuanku Muhriz. Sejarah kehadiran Tuanku Muhriz ni agak panjang. Selepas almarhum ayahanda kepada Tuanku Muhriz mangkat pada tahun 1968, saya rasa — Tuanku Muhriz tidak dipilih sebagai Yang di-Pertuan Besar pada masa itu. Takhta itu pergi kepada almarhum bapa saudaranya, Tuanku Jaafar, dulu kan. Jadi Tuanku Muhriz hidup sebagai orang biasa, dan dia ada anak autisme kan. Dan saya rasa ramai orang, orang Negeri Sembilan, mengikuti hidup biasa dia membesarkan seorang anak autisme itu. Dan itu berkait rapat, tau, kepada orang Negeri Sembilan, dan bukan sahaja orang Negeri Sembilan — rakyat biasa lah.
 
@@ -295,7 +294,7 @@ Kemudian Tok Min pula. Orang memang tahu dia jenis suka tersenyum sahaja, bukan 
 
 Jadi kemudian awak letak dalam satu penjuru gelanggang gabungan seorang Menteri Besar yang popular dengan rakyat Negeri Sembilan, dan seorang Yang di-Pertuan yang keluarga dan kerabatnya popular dengan rakyat Negeri Sembilan. Sebab itu saya rasa bila UMNO membuat keputusan begini, ia bukan setakat kebuntuan dari segi undang-undang tubuh Negeri Sembilan — ia akan berlarutan kepada soal penerimaan rakyat, pandangan rakyat kepada UMNO. Itu keadaan yang saya rasa sekarang sedang berlaku secara perlahan di belakang tabir.
 
-**Speaker 4:** Ya, Amir nak tanya soalan. Okay baby — tadi YB dah jelaskan tentang situasi semua ini. Jadi mungkin saya dengan Afiq akan mula bertanya soalan-soalan yang lebih tertumpu kepada politik. Jadi, salah seorang daripada awak — pertama sekali, kalau kita tengok, tadi dia terangkan ada dua pihak: pihak [Yang di-Pertuan] dengan pihak Undang. Kalau kita tengok pun, masa PRN hari itu, BN menang pun saya boleh kata menang nasib sebab dia menang tipis — sesetengah kerusi pun menang dengan beratus-ratus undi sahaja. Jadi dengan keadaan macam ini, adakah PH, terutamanya PKR, ada peluang untuk kembali kepada kerusi yang lebih baik daripada keputusan 2018? Saya rasa 2018 pun agak — 2018 yang terbaik. Adakah kita akan kembali kepada kerusi 2018 itu? Contohnya UMNO memang hampir runtuh juga di Negeri Sembilan ketika itu. Tak juga? 2018 itu—
+**Amin Sahmat:** Ya, Amir nak tanya soalan. Okay baby — tadi YB dah jelaskan tentang situasi semua ini. Jadi mungkin saya dengan Afiq akan mula bertanya soalan-soalan yang lebih tertumpu kepada politik. Jadi, salah seorang daripada awak — pertama sekali, kalau kita tengok, tadi dia terangkan ada dua pihak: pihak [Yang di-Pertuan] dengan pihak Undang. Kalau kita tengok pun, masa PRN hari itu, BN menang pun saya boleh kata menang nasib sebab dia menang tipis — sesetengah kerusi pun menang dengan beratus-ratus undi sahaja. Jadi dengan keadaan macam ini, adakah PH, terutamanya PKR, ada peluang untuk kembali kepada kerusi yang lebih baik daripada keputusan 2018? Saya rasa 2018 pun agak — 2018 yang terbaik. Adakah kita akan kembali kepada kerusi 2018 itu? Contohnya UMNO memang hampir runtuh juga di Negeri Sembilan ketika itu. Tak juga? 2018 itu—
 
 **Rafizi:** Bukan UMNO hampir runtuh. Negeri Sembilan ni kerusi-kerusinya — dia ada dalam 38 kan? 36. Maaf, 36 ya. Jadi awak perlukan 19 untuk majoriti kan. Sejak 2013 lagi, saya rasa DAP memang dah menang 12 kerusi. Sekarang DAP dia apa — 11. Jadi 11 kerusi itu memang majoriti bukan Melayu, betul — memang macam itu lah, sebelas kerusi kan. Kemudian kerusi-kerusi PKR yang kerusi campuran tapi bukan Melayu signifikan, ada dua — ada Chua dengan ada Sri Tanjung, kedua-duanya dekat Kapodiksen. Chua, pengundi Cina yang signifikan; Sri Tanjung, pengundi India yang signifikan. Jadi itu dah tinggal 13. Enam kerusi — sebab 13 itu memang di luar jangkauan mana-mana parti lain sebelum ini, memang PH lah kan.
 
@@ -327,7 +326,7 @@ Kita berjaya mengubah keadaan daripada UMNO menang besar di PRN Melaka, Johor �
 
 Jadi kalau rancangan UMNO — yang ini saya tak boleh baca lagi. Adakah — saya ada firasat saya sendiri lah, tapi awak tahu, malas lah, kita simpan dulu — saya rasa ia sebahagian daripada strategi besar UMNO untuk membina gelombang ke arah PRU akan datang. Ya, faham — UMNO nak pilihan raya awal. Kalau boleh, UMNO nak pilihan raya negeri Johor bulan lapan, Melaka bulan sepuluh. Jadi mereka masih sentimental kepada 4-5 tahun yang lepas, membina gelombang cara mereka — iaitu menang besar di Johor, menang besar di Melaka. Dan sekarang ada peluang untuk menang besar di Negeri Sembilan. Dato' Seri Anwar sama ada mahu atau tidak akan terpaksa memanggil pilihan raya juga, dan dia menyapu seluruh Malaysia. Itu strateginya, saya rasa. Tapi ia dah berbalik sekarang.
 
-**Speaker 4:** Maksudnya YB nak cakap sekarang ni, PRN Melaka dengan Johor tu memang dijangka pasti lah?
+**Amin Sahmat:** Maksudnya YB nak cakap sekarang ni, PRN Melaka dengan Johor tu memang dijangka pasti lah?
 
 **Rafizi:** Saya rasa PRN Melaka dengan Johor, pandangan UMNO ialah dia nak secepat mungkin. Jadi jangan terkejut sebenarnya kalau PRN Johor jatuh bulan lapan, dan Melaka — ataupun Johor dan Melaka sekali — bulan sepuluh. Sebab itu kita tak boleh menolak kemungkinan itu. Dan sekarang bila ada dimensi Negeri Sembilan, bila kebuntuan begini, kebuntuan ini hanya boleh diselesaikan dengan sidang Dun yang akan datang — maksudnya undi tidak percaya di sidang Dun. Dan itu hanya boleh berlaku, maksudnya, maksimum Tok Min boleh melengah-lengahkan untuk tidak memanggil sidang Dun ialah Oktober, kerana Oktober ialah bajet — mahu tidak mahu terpaksa dipanggil kalau tidak, tak boleh beroperasi. Jadi ada kemungkinan sekarang ialah PRN Negeri Sembilan, PRN Melaka, PRN Johor bulan sepuluh, dan mungkin PRU terus bulan sepuluh sekaligus.
 
@@ -335,21 +334,21 @@ Cuma dari segi rancangan strategi UMNO untuk membina gelombang — lepas satu ja
 
 Jadi semua ini bertentangan — dan apabila ia melibatkan pula Undang Yang Empat dan juga Yang di-Pertuan, Tuanku Muhriz — kemudian, sebarang sokongan untuk UMNO dalam isu ini untuk menukar MB akan dilihat sebagai sokongan kepada, dilihat sebagai menolak Tuanku Muhriz. Sangat rumit kan. Jadi saya sangat bersyukur saya bukan dalam kepimpinan PKR sekarang — kalau tidak, saya perlu berfikir macam mana nak selesaikan benda ini, sebab ia memang masih kusut — sebaik-baiknya lah, saya rasa. Jadi Dato' Sianok — biarlah bro, mungkin dia pun nak menghentikannya macam mana, nak membenarkan macam mana, maksudnya—
 
-**Afiq:** Maksudnya, yang Negeri Sembilan ni, mahu tidak mahu PKR adalah Menteri Besar?
+**Wan Afiq:** Maksudnya, yang Negeri Sembilan ni, mahu tidak mahu PKR adalah Menteri Besar?
 
 **Rafizi:** Ya, sehingga enam bulan akan datang, dia terpaksa mempertahankannya.
 
-**Afiq:** Dia—
+**Wan Afiq:** Dia—
 
-**Speaker 4:** Menteri Besar sepatutnya — sepatutnya dia mempertahankan. Dia dah pertahankan lah—
+**Amin Sahmat:** Menteri Besar sepatutnya — sepatutnya dia mempertahankan. Dia dah pertahankan lah—
 
 **Rafizi:** —kot.
 
-**Speaker 4:** Ok, dia jumpa Zahid tu. Ada gambar Fahmi—
+**Amin Sahmat:** Ok, dia jumpa Zahid tu. Ada gambar Fahmi—
 
 **Rafizi:** Tak ada, tidak, tidak, tidak. Saya rasa dari segi pendirian PKR, saya rasa — perpecahan ini, kenapa? Awak nak suruh PKR buat macam mana lagi? Takkan nak kata jom kita bergaduh dalam kabinet, baling kerusi. Tapi pendirian rasmi PKR ialah Tok Min kekal sebagai [Menteri Besar bagi] kerajaan minoriti.
 
-**Speaker 4:** Kalau macam itu saya rasa betul lah — adakah mungkin kerajaan minoriti di Negeri Sembilan itu, kalaulah Tok Min sebagai kerajaan minoriti menang undi percaya itu — adakah mungkin kerajaan minoriti, kalau betul, ini pertama kali kot Malaysia ada kerajaan minoriti?
+**Amin Sahmat:** Kalau macam itu saya rasa betul lah — adakah mungkin kerajaan minoriti di Negeri Sembilan itu, kalaulah Tok Min sebagai kerajaan minoriti menang undi percaya itu — adakah mungkin kerajaan minoriti, kalau betul, ini pertama kali kot Malaysia ada kerajaan minoriti?
 
 **Rafizi:** Tidak, sekarang ini pun dah berkecamuk — nak kata kerajaan minoriti pun sudah tidak lagi, sebab kenyataan UMNO yang terkini semalam ialah 14 adun itu menyokong kerajaan tapi nak MB ditukar. Jadi kerajaan tidak lagi menjadi kerajaan minoriti secara sebenarnya.
 
@@ -357,31 +356,31 @@ Saya ingat kenyataan media malam itu, dalam sidang media bersama-sama juga denga
 
 Kemudian, hari Khamis, bila UMNO kata 14 adun itu kekal menyokong kerajaan tapi nak tukar MB — dan itu dah tak dikira minoriti, tahu. Jadi saya rasa harapan UMNO sekarang untuk menyelamatkan air muka ialah dia akan cuba berunding supaya dapat lebih banyak konsesi, dapat lebih banyak perkara daripada PH.
 
-**Speaker 4:** Kalau kita tengok kenyataan UMNO yang terakhir, dia nak berbincang dengan PH — dia nak mengaktifkan klausa, saya tak ingat berapa, dalam perjanjian perpaduan, untuk berbincang kalau ada apa-apa isu — jadi mungkin dia mahu menuntut sesuatu lah.
+**Amin Sahmat:** Kalau kita tengok kenyataan UMNO yang terakhir, dia nak berbincang dengan PH — dia nak mengaktifkan klausa, saya tak ingat berapa, dalam perjanjian perpaduan, untuk berbincang kalau ada apa-apa isu — jadi mungkin dia mahu menuntut sesuatu lah.
 
 **Rafizi:** Saya pun tak ingat — sayalah yang menulis perjanjian itu — dia memang ada satu klausa, kalau ada pertelingkahan atau apa, dia ada peruntukan pengantaraan lah. Pengantaraan itu untuk kita mengelakkan daripada bergaduh secara terbuka. Tapi ini dah tak berlaku lah — dia orang dah bergaduh, baling kerusi, bila dah lewat baru nak menggunakan klausa pengantaraan.
 
-**Afiq:** Okay, okay baby.
+**Wan Afiq:** Okay, okay baby.
 
 **Rafizi:** Okay.
 
-**Afiq:** Jadi kita beralih kepada topik seterusnya. Ini pun menarik. Jadi kita ada baki dalam sejam lebih lagi, baby.
+**Wan Afiq:** Jadi kita beralih kepada topik seterusnya. Ini pun menarik. Jadi kita ada baki dalam sejam lebih lagi, baby.
 
 **Rafizi:** Boleh, boleh. Yang terakhir tadi sekejap je saya nak kena tangkap — nak diulang panjang pun tak perlu juga.
 
-**Afiq:** Okay. Terakhir. Beri perkataan saksidi.
+**Wan Afiq:** Okay. Terakhir. Beri perkataan saksidi.
 
 **Rafizi:** Jadi mungkin... potong lemak atau tersalah potong urat — macam ibadat korban lah. Ini bukan dekat ibadat korban — ini kena tanya orang tok siak-tok siak dekat masjid. Jadi mungkin—
 
-**Afiq:** Ini tidakkah yang terlalu lambat—
+**Wan Afiq:** Ini tidakkah yang terlalu lambat—
 
 **Rafizi:** Tidak, awak kena — orang yang dengar podcast ini, ada yang dengar dekat audio sahaja, dekat apa nama ini, Spotify, semua. Jadi awak kena jelaskan sebenarnya apa dia.
 
-**Afiq:** Okay baik. Sorry, maaf, saya kali pertama—
+**Wan Afiq:** Okay baik. Sorry, maaf, saya kali pertama—
 
 **Rafizi:** Jadi saya sudah jelaskan tadi. Haziq pasti ketawa tengok — kena belajar daripada saya dulu.
 
-**Afiq:** Jadi okay, saya ada [soalan] mudah — saya ambil semenit sahaja, sangat ringkas. Kementerian Kewangan mengeluarkan satu arahan untuk semua kementerian terpaksa memotong sedikit bajetnya, disebabkan krisis ini — sebab subsidi ada 58 [bilion], jangkaan subsidi Malaysia meningkat sebanyak RM58 bilion. Jadi potongan bajet yang dijangka perlu dipotong ialah RM10 bilion. Jadi itu rangka ringkas yang saya boleh terangkan. Jadi soalan saya kepada YB — adakah ini tindakan yang terlalu lambat? Sepatutnya dia dah mengumumkan perkara ini lebih awal. Atau dia bawa— ha? Tidak, okay — atau duit—
+**Wan Afiq:** Jadi okay, saya ada [soalan] mudah — saya ambil semenit sahaja, sangat ringkas. Kementerian Kewangan mengeluarkan satu arahan untuk semua kementerian terpaksa memotong sedikit bajetnya, disebabkan krisis ini — sebab subsidi ada 58 [bilion], jangkaan subsidi Malaysia meningkat sebanyak RM58 bilion. Jadi potongan bajet yang dijangka perlu dipotong ialah RM10 bilion. Jadi itu rangka ringkas yang saya boleh terangkan. Jadi soalan saya kepada YB — adakah ini tindakan yang terlalu lambat? Sepatutnya dia dah mengumumkan perkara ini lebih awal. Atau dia bawa— ha? Tidak, okay — atau duit—
 
 **Rafizi:** Sebelum itu, saya rasa latar belakangnya — ini hari apa, hari Jumaat? Eh tak, hari — hari ini hari Jumaat lah. Maksudnya surat ini keluar, saya rasa, hari Rabu. Ya betul, hari Rabu. Surat itu sekarang dihantar melalui e-mel, sekejap sahaja menjadi tular seluruh Malaysia — orang mengaku-ngaku menerima surat. Surat dalam bahasa perbendaharaan lah, dia panggil "sekatan perbelanjaan" — maksudnya mereka meletakkan had lah, dan oleh itu awak terpaksa — kalaupun telah diluluskan belanjawan atau bajet, peruntukan — bahasanya ialah peruntukan.
 
@@ -401,7 +400,7 @@ Hasil kutipan cukai berapa? Cuba google — sebab PM baru mengumumkan hasil pali
 
 Hampir satu pertiga — sebenarnya, kalau digabungkan dengan subsidi elektrik, subsidi gas dan LPG, memang satu pertiga. Kita bakar untuk minyak supaya kita boleh diberitahu bahawa "minyak kita bagusnya, harga minyak kerajaan kita terendah dalam dunia—"
 
-**Speaker 4:** Kerajaan—
+**Amin Sahmat:** Kerajaan—
 
 **Rafizi:** —memahami rakyat. Padahal kerajaan ambil duit cukai kita, dan kita bakar. Jadi okay, izinkan saya bertanya begini — katakanlah awak bayar cukai RM2,000 setahun, katakanlah — tolak-tolak semua, RM2,000 setahun, dan itu dibakar sebagai subsidi minyak, subsidi petrol, semua ini kan. Tapi sebahagian besar benda itu — lebih kurang 60% lebih — pergi kepada orang-orang kaya, orang-orang M40 atasan ke atas. Bagaimana perasaan awak? Kalau awak rasa, adakah itu — sebelum kita cerita pasal potong duit — jadi sekali lagi, ia berbalik kepada soalan dasar.
 
@@ -421,11 +420,11 @@ Jadi berhutang ini hanya boleh dibuat untuk belanja pembangunan. Belanja pembang
 
 Jadi berbalik kepada ini — dengan kutipan cukai tertinggi yang LHDN buat, RM203 bilion, masih memerlukan RM58 bilion untuk bayar subsidi. Tolak RM15 bilion yang telah diperuntukkan, tinggal RM43. Tolak RM10 bilion yang cuba dipotong, tinggal RM33 — dalam keadaan kerajaan tidak boleh meminjam. Jadi kerajaan nak buat apa?
 
-**Speaker 4:** Tambah cukai baru, tarik dividen Petronas.
+**Amin Sahmat:** Tambah cukai baru, tarik dividen Petronas.
 
 **Rafizi:** Cukai baru tak sempat, sebab ia mengambil masa panjang, dan memang boleh menyebabkan kekalahan pilihan raya kalau buat cukai baru. Akhirnya dia akan ambil dividen Petronas. Dividen Petronas — jadi besar kemungkinan Petronas mungkin kena bayar sampai RM50 bilion. Maksudnya yang dia dah komit RM20 bilion lebih, tambah lagi RM30 bilion, jadi RM50 bilion.
 
-**Speaker 4:** Jadi keuntungan Petronas makin lama makin jatuh?
+**Amin Sahmat:** Jadi keuntungan Petronas makin lama makin jatuh?
 
 **Rafizi:** Dan itu akan menyebabkan Petronas tidak ada sumber kewangan yang mencukupi untuk melabur dalam projek-projek minyak yang baru. Jadi ia jadi kitaran, tahu. Pada satu pihak, kita terpaksa bayar ini kerana kita dah menjadi pengimport minyak entahlah — tapi duit yang Petronas ada itu daripada kenaikan harga minyak, walaupun tidaklah setinggi — orang kena ingat, walaupun ia naik, contohnya, daripada USD60 ke USD100, bukan bermakna USD40 itu setiap sen akan diterjemahkan kepada keuntungan, sebab ia datang dengan pelbagai kenaikan kos lain — kos pengangkutan, insurans, kos modal dan macam-macam. Jadi saya tak tahu, mungkin hanya 50% diterjemahkan kepada keuntungan tulen yang sebenar.
 
@@ -457,27 +456,27 @@ Jadi dia kena pandai-pandai pada harga RON RM3.50 — macam mana dia nak kurangk
 
 Jadi kalau kita jadi orang awam — sekarang ini soalan yang orang awam kena jawab. Kualiti tak berani, tahu, dia tak apalah — yang kesiannya budak-budak lah, zaman kamu lah, 30-40 tahun lagi, bila minyak dah tak ada, hutang dah bertrilion-trilion, kamu akan tetap kena bayar harga minyak mahal juga nanti. Sepuluh tahun lagi kamu akan tetap kena bayar ini, harga RM3.50 semua ini — memang pasti kamu kena bayar itu. Isunya ialah, pada masa itu, berapa hutang yang kena ditanggung, hospital cukup atau tidak. Sebab itulah saya menganjurkan kepada kerajaan daripada dulu — daripada memberi minyak murah ini, kemudian penggunaan makin lama makin meningkat, kereta paling banyak per kapita selepas Jepun di Asia semua, per keluarga — mereka akan menyesuaikan dan memutuskan apa yang harus dilakukan dengan RM600-RM700 [itu].
 
-**Speaker 4:** Aaa nak tanya YB. Buat masa sekarang, bajet subsidi kita lebih kurang RM58 bilion. Kalau kita katakanlah kita hidup dalam satu alam semesta yang lain, kata kerajaan mengikut cadangan YB dulu, kita buat PADU, kita lakukan mengikut strategi YB dan semuanya. Kalau saya rasa bajet 2025, subsidi kita pun hampir RM50 sesuatu lah, saya tak ingat sangat. Tapi subsidi kita pada 2035, katalah contoh — itu jumlah subsidi, katalah contoh, bukan...
+**Amin Sahmat:** Aaa nak tanya YB. Buat masa sekarang, bajet subsidi kita lebih kurang RM58 bilion. Kalau kita katakanlah kita hidup dalam satu alam semesta yang lain, kata kerajaan mengikut cadangan YB dulu, kita buat PADU, kita lakukan mengikut strategi YB dan semuanya. Kalau saya rasa bajet 2025, subsidi kita pun hampir RM50 sesuatu lah, saya tak ingat sangat. Tapi subsidi kita pada 2035, katalah contoh — itu jumlah subsidi, katalah contoh, bukan...
 
 **Rafizi:** Subsidi minyak.
 
-**Speaker 4:** Katalah jumlah subsidi kita, kita letak ia terakhir semasa YB ada dalam kabinet lah.
+**Amin Sahmat:** Katalah jumlah subsidi kita, kita letak ia terakhir semasa YB ada dalam kabinet lah.
 
 **Rafizi:** Sebab masa itu subsidi minyak adalah sekitar RM20 bilion.
 
-**Speaker 4:** Okay, kata kita letak RM20 bilion. Kalau kita ikut rancangan YB, kita boleh jimatkan subsidi itu agak-agak dalam berapa bilion?
+**Amin Sahmat:** Okay, kata kita letak RM20 bilion. Kalau kita ikut rancangan YB, kita boleh jimatkan subsidi itu agak-agak dalam berapa bilion?
 
 **Rafizi:** Sekali lagi, sekali lagi, okey, saya terus betulkan — ini bukan soal jimat subsidi, sebab wang itu seberapa banyak, sepatutnya memang kena pergi balik kepada rakyat. Okey, ambil contohnya, RM20 bilion itu untuk petrol RM95 pada harga RM2.05, dan tak ada kuota, tak ada apa, campur dengan diesel semua. Masa itu diesel harga telah diapungkan, tapi bagi RM300 Budi Madani, semua itulah kan — yang itu jumlah keseluruhan subsidi RM20 bilion. Sekarang, perbincangan masa itu ialah RM20 bilion itu boleh dipulangkan balik kepada rakyat dalam bentuk pindahan tunai bulanan. Jadi ada keluarga boleh dapat RM500, ada mungkin RM700, ada mungkin dapat RM200 semua. Tapi harga itu diapungkan lah — jadi kalau diapungkan, masa itu daripada RM2.05, dia jadi RM2.50. Cuma yang ekstra RM0.35 yang dia bayar itu, dia akan banyak beri untung kepada keluarga M40 dan B40, kerana M40 dan B40 dia tak pakai banyak petrol. Sekarang pun kita tengok, memang betul — sebahagian besar rakyat kita memang tak habis lebih 100 liter sebulan, kecuali yang dalam sekitar Lembah Klang. Sebab itu kita kata kena pakai Padu, supaya kita tahu kau duduk di mana, kerja di mana, supaya orang yang commute lebih ini, dia dapat kuota lebih. Jadi untuk keluarga yang berpendapatan rendah lah kan, dia mungkin bayar ekstra — katakanlah dia pakai 100 liter, dan dia bayar ekstra 35 sen seliter sebulan, dia pakai 100 liter sebulan, itu baru berapa? Baru RM35. Tapi dia dapat pindahan itu naik RM200, mungkin RM400. Jadi, wang itu lebih bersasar dan lebih membantu golongan bawah. Orang macam saya, duit daripada minyak saya lah pergi memberi ekstra kepada mereka. Jadi macam mana dia nak gunakan itu, terpulang kepada dia lah. Kita tak boleh nak kata, "oh tak boleh percaya lah orang susah ni, nanti dia pergi beli dadah lah, rokok lah." Tak adalah begitu.
 
-**Speaker 4:** Saya boleh berikan komen, kritikan nakal sikit lah pada idea YB tadi. Dulu masa 2016, Najib dah buat subsidi bersasar, bagi balik duit melalui BR1M. Apa beza dia dengan idea YB?
+**Amin Sahmat:** Saya boleh berikan komen, kritikan nakal sikit lah pada idea YB tadi. Dulu masa 2016, Najib dah buat subsidi bersasar, bagi balik duit melalui BR1M. Apa beza dia dengan idea YB?
 
 **Rafizi:** Sebab itu, BR1M dan juga sekarang ini dipanggil STR kan — benda itu dibuat sebagai wang hadiah kerajaan. BR1M dulu diberi setahun sekali...
 
-**Speaker 4:** Oh, okey.
+**Amin Sahmat:** Oh, okey.
 
 **Rafizi:** Haa, setahun sekali. Bila anda diberi setahun sekali, dia jadi wang durian runtuh — dia ambil, dia pergi beli KFC beraya. Sedangkan kita nak pastikan bahawa itu menjadi sebahagian daripada pendapatan bulanan dia. Sebab itu dia kena tiap-tiap bulan, dan itu yang saya kata, penyasaran semula subsidi ini sebenarnya memberi peluang kepada kita untuk membina satu sistem keselamatan sosial yang kita belum ada lagi. Kita tak ada sistem keselamatan sosial yang kalau orang miskin ni tiap-tiap bulan dia dapat. Sebab kita ada JKM, kita ada zakat, tapi kena memohon, ikut kelayakan, ikut peruntukan semua kan — peruntukannya mengabut sikit lah, macam-macam lah kan. Kita nak pastikan bahawa dengan Padu, bila kita dah ada data yang baik dan kita akan terus perbaiki data itu, orang tak payah nak memohon. Kalau anda memang orang susah dan kedudukan anda begini-begini, terus naik RM100, RM200, RM400. Anak dua, memang kalau seorang tu dapat RM100, dapat RM200 — tak kisah anda siapa. Jadi kita nak mewujudkan sistem keselamatan sosial sebagai persediaan menghadapi masyarakat menua pada masa depan. Jadi kalau anda nak buat sesuatu yang sukar, yang orang akan maki, keputusan politik besar, pastikan matlamat itu ada 3-4 matlamat yang bila kita capai, berbaloi untuk dibuat. Jadi bezanya dengan bagi 4-5 bulan sekali, 3 bulan sekali, sebab orang akan gunakan untuk bayar hutang lah. Ia mesti sama macam gaji kita, setiap bulan, setiap bulan, setiap bulan kan. Itu peluang yang kita ada daripada RM20 bilion setahun itu untuk dikembalikan sebagai pindahan tunai, menjadi sistem keselamatan sosial negara kepada semua. Memanglah rakyat akan tertekan kerana kalau sebelum ini dia kena bayar 30 sen untuk 1 liter ekstra, sekarang dia kena bayar RM1. Dan pada ketika itu kerajaan boleh ada pilihan, sama ada RM1 itu dia nak kembalikan sebagai duit tunai ekstra, ataupun dia nak subsidi di pam — dia boleh buat ataupun guna dua-dua cara. Dia mungkin gunakan 5% untuk, daripada harga naik daripada RM2.50 jadi RM3.20, jadi RM2.80 — tak rasa sangat sebab kita mahu mengekalkan kesan lambakan inflasi. 5% lagi itu dia tambah kepada tambahan pindahan tunai rakyat lah, daripada RM200 dia mungkin dapat RM300. Jadi anda boleh bermain-main dengan itu bila ada begini kan. Tapi perkara baiknya kalau kita buat begitu ialah kita sudah boleh mula mempengaruhi penggunaan rakyat.
 
-**Afiq:** Jadi, Abie, soalan — tapi nak cadangkan idea dalam kabinet, kabinet tolak. Jadi tak logik kalau saya guna otak, logik saya untuk tolak idea ini tak masuk akal. Kecuali dia rasa terancam dengan anda.
+**Wan Afiq:** Jadi, Abie, soalan — tapi nak cadangkan idea dalam kabinet, kabinet tolak. Jadi tak logik kalau saya guna otak, logik saya untuk tolak idea ini tak masuk akal. Kecuali dia rasa terancam dengan anda.
 
 **Rafizi:** Tak ada, tak ada. Tak ada kaitan dengan rasa terancam apa semua. Dia ada dua pertimbangan sebenarnya. Pertimbangan yang lebih besar daripada parti-parti lah, dan ini merentasi semua — daripada UMNO, daripada GPS, semua takut kalah. Kalau naikkan 50 sen, 20 sen, walaupun sebenarnya rakyat akan dapat pindahan tunai, bantuan tiap-tiap bulan, dia takut kalah. Itu satu. Faktor kedua sebenarnya ialah MOF. Sebab MOF telah merancang untuk buat sistem ini sejak zaman Tengku Zafrul lagi. Jadi dry run dia, semua ujian dalam Parlimen — itu saya jawab berpuluh kali dalam Parlimen. Bila pembangkang tanya, "ini dah diuji ke belum semua ni?" — sepatutnya yang menjawab ialah MOF. MOF tak nak jawab, dia suruh Kementerian Ekonomi jawab. Jadi saya jawab lah, tak apalah — Kementerian Kewangan ini tak nak jawab, dia limpahkan kepada Kementerian Ekonomi. Baiklah, saya jawab lah. Tapi sebenarnya MOF dah rancang perkara ini sebelum ada Madani pun lagi. Jadi dia macam mana pun berkeras nak pakai sistem ini semua. Nanti akan ada cerita saya keluarkan satu-satu — cerita sistem MOF semua ini, sistem SARA ini, banyak cerita lagi, belum keluar lagi sebenarnya. Berapa peratus sebenarnya yang dibayar kepada penyedia sistem, itu belum ditanya lagi. Anda ingat semua ini percuma? Padu pun tak ada sistem, Padu belanja sekaligus, habis RM30 juta, kajian itu digunakan sampai bila-bila lah. Ini setiap kali ada pindah-pindah-pindah — anda ingat tak ada bayaran ke? Ada bayaran, ada komisen.
 
@@ -489,35 +488,35 @@ Jadi kalau kita jadi orang awam — sekarang ini soalan yang orang awam kena jaw
 
 **Rafizi:** Itu melalui tiga Perdana Menteri, mungkin tak terkecuali. Jadi MOF memang rancangan dia dari awal nak buat begitu. Jadi bila Kementerian Ekonomi kata secara ekonominya kita kena buat begini-begini-begini, jadi MOF dan Dato' Seri Anwar — iaitu Menteri Kewangan — dia dengar pandangan pegawai-pegawai dia, yang dia pun tak tanya. Sebenarnya, berapa lama kamu dah rancang perkara ini? Dia tak tanya. Dry run ini kamu di mana, bila? Dia tak tanya perkara itu semua. Jadi akhirnya, bila PM ialah Menteri Kewangan, dan pegawai-pegawai MOF semua ini pandangan dia begitu, campur pula dengan semua ahli politik lain yang memang terkenal tak berani — "kalau naik harga 20 sen kita kalah pilihan raya" — jadilah begini. Dan Allah nak uji, berlaku perang di Iran, dan berlaku perkara ini, keseluruhan naratif yang cuba disampaikan oleh PM untuk masuk pilihan raya — "saya berjaya menurunkan harga minyak, saya beri banyak" — hancur lebur sekarang. Sebab yang dikendong tak dapat, yang dikejar berceceran. Yang dikendong pasal harga minyak murah itu pun dah hancur lebur, sekarang ini yang dikejar tak dapat sebab kena potong lagi soal kesihatan, soal pendidikan tinggi dan sebagainya. Saya amat bersyukur saya buat keputusan untuk walk out, sebab akhirnya, katakanlah saya masih lagi Menteri Ekonomi...
 
-**Speaker 4:** Menjawab.
+**Amin Sahmat:** Menjawab.
 
 **Rafizi:** Semua ini saya kena jawab lah. Padahal yang membuat keputusan ialah Amir Hamzah, Anwar Ibrahim, Johan Mahmood Merican yang menentukan semua. Tapi yang menjawabnya, bila sampai — sebab Kementerian Kewangan ialah Menteri Kewangan, OPM tak nak jawab, "ini Menteri Ekonomi kena jawab." Jadi sekarang saya jawab di podcast.
 
-**Speaker 4:** Okey, soalan terakhir pasal — saya rasa keputusan politik lah pasal subsidi ini kan. Saya agak terkejut juga bila WB cakap masing-masing dalam kabinet takut keputusan tidak popular ini akan menyebabkan mereka kalah pilihan raya. Sebab kalau kita cakap pasal subsidi bersasar, salah satu parti dalam PH selain daripada PKR ialah DAP, yang agak lantang dari dulu tentang soal subsidi bersasar, dan mereka malah pernah — saya kira Bakri pun pernah berkempen tentang soal manifesto kita. Tapi sekarang, apabila mereka dalam kabinet, mereka senyap dan takut kalah pilihan raya.
+**Amin Sahmat:** Okey, soalan terakhir pasal — saya rasa keputusan politik lah pasal subsidi ini kan. Saya agak terkejut juga bila WB cakap masing-masing dalam kabinet takut keputusan tidak popular ini akan menyebabkan mereka kalah pilihan raya. Sebab kalau kita cakap pasal subsidi bersasar, salah satu parti dalam PH selain daripada PKR ialah DAP, yang agak lantang dari dulu tentang soal subsidi bersasar, dan mereka malah pernah — saya kira Bakri pun pernah berkempen tentang soal manifesto kita. Tapi sekarang, apabila mereka dalam kabinet, mereka senyap dan takut kalah pilihan raya.
 
 **Rafizi:** Tak, DAP yang paling anti, selain daripada UMNO, yang paling lantang menentang subsidi bersasar ini ialah DAP lah. Ya, betul. Ada dua sebab. Satu ialah populisme lah — nak jadi jurucakap berpanjangan dalam kabinet, tak boleh orang marah semua kan. Tapi dia ada juga sedikit latar belakang MOF. Sebenarnya, sebelum Sheraton Move, Ketua Setiausaha Perbendaharaan sekarang, Johan Mahmood Merican, dia dulu ialah Pengarah Pejabat Belanjawan Negara semasa Lim Guan Eng jadi Menteri Kewangan. Jadi idea sebenarnya untuk menggunakan kad semua ini, banyaknya idea DAP daripada zaman Guan Eng lagi. Jadi bila kerajaan bertukar-ganti, sebab itu pegawai kerajaan ini pun anda kena uruskan mereka dengan baik kerana kerajaan datang dan pergi, tapi bila dia dah buat keputusan itu, bila dia datang, dia akan cuba mempengaruhi lah. Dan bila Perdana Menteri itu ialah Menteri Kewangan, maka dia ada pergelutan yang besar kerana "ini kehendak Perdana Menteri, ini kehendak Perdana Menteri." DAP tak bercakap pasal subsidi bersasar lagi — DAP takut kalah pilihan raya.
 
-**Speaker 4:** Ya, sebab sekarang DAP sangat senyap pasal subsidi dan semuanya, macam senyap-senyap sahaja.
+**Amin Sahmat:** Ya, sebab sekarang DAP sangat senyap pasal subsidi dan semuanya, macam senyap-senyap sahaja.
 
 **Rafizi:** Tak, saya sebenarnya bukan anti-subsidi. Saya fikir setiap sen wang kerajaan itu mesti pergi balik kepada rakyat. Tetapi tak bolehlah jadi populis, kerana ia menghukum banyak pihak. Satu sebenarnya ia menghukum keluarga miskin, kerana duit yang sepatutnya mereka dapat lebih, mereka dapat kurang, kerana orang yang tak sepatutnya dapat, dapat. Jadi yang itu, macam saya cakap lah — pakai penghawa dingin 24 jam ini tak payahlah, kau tak ada duit, apa nama ini kan. Jadi orang itu tak perlukan, kita perlu urus lah — daripada ada tiga kereta, mungkin kita perlu ada dua kereta sahaja. Contohnya, penghawa dingin kalau kita buka tiap-tiap hari 24 jam, lepas itu masa pergi kerja, anda tutup lah penghawa dingin itu — bazir kan. Jadi orang miskin tak dapat yang sepatutnya mereka dapat. Tapi masalah lebih besar yang saya ada — inilah yang mungkin orang menyampah kepada saya lah. Orang akan kata ini ayat-ayat "holier than thou", dia ingat dia seorang sahaja betul, dia ingat dia seorang sahaja baik. Tidak, kerana kita ada tanggungjawab kepada generasi muda. Saya ada tanggungjawab kepada anda semua, yang akan menghadapi ini nanti. Tapi sudah tentulah, kalau saya tak buat ini, saya hidup senang lah. Tapi anda tahu, memikirkan 10 tahun lagi, bila pengeluaran kita tinggal 100 ribu tong setahun, kita mengimport mungkin 80%, kita tak ada dana untuk mengawal subsidi minyak semua ini, dan kita dah tak ada duit untuk melabur dalam pengangkutan awam dan semua macam itu kan. Kemudian kita jadi Sri Lanka lah, yang bergantung kepada import minyak 100 peratus — naik melonjak sikit, tak ada minyak, beratur; naik melonjak sikit, tak ada beratur. Jadi kita ada tanggungjawab bukan sahaja untuk menang kali ini, tetapi pada masa depan. Dan saya selalu percaya bahawa memenangi pilihan raya itu kuasa Allah, sebenarnya bukan milik kita — tugas kita ialah menunaikan amanah itu sebaik yang mungkin. Sebab itu orang menyampah kepada saya, faham. Orang kata, "tengok dia cakap," orang kata holier than thou, macam dia sahaja betul. Bukan begitu. Jangan salahkan saya kalau saya ada pandangan yang agak pelik daripada orang lain kan. Jadi mungkin orang cakap macam-macam, orang nak kritik kan. Jadi sekarang kita hanya boleh tengok lah, dan kita berdoa lah supaya apa-apa yang dipotong daripada perkhidmatan kesihatan, pendidikan tinggi, berapa banyak duit yang diambil daripada Petronas, tidaklah sampai memberi kesan mendadak. Tapi kepada Petronas, kesan untuk jangka masa panjang yang anda akan tanggung, ada.
 
-**Afiq:** Ya, betul. Jadi, kita beralih kepada soalan seterusnya — sudah 2 jam 6 minit, okey, kita ada berapa lagi? Kita ada 2 sahaja lagi. Jadi, berkaitan dengan siapa menang di media sosial, PH-BN atau PN — ini ringkas mudah untuk kita jelaskan macam mana peranan media sosial sebagai platform utama untuk semua parti politik sekarang. Untuk pendengar yang guna Spotify yang tak dengar audio, saya jelaskan secara khas. Saya belajar daripada kesilapan, jadi jom soalan saya kepada YB — YB, adakah PH mendahului dalam media sosial, atau PN, atau BN? Tak tahulah parti sabar-sabar kita tak setuju lah, ini call lah kan. Abang rasa adakah PH mendahului dalam media sosial?
+**Wan Afiq:** Ya, betul. Jadi, kita beralih kepada soalan seterusnya — sudah 2 jam 6 minit, okey, kita ada berapa lagi? Kita ada 2 sahaja lagi. Jadi, berkaitan dengan siapa menang di media sosial, PH-BN atau PN — ini ringkas mudah untuk kita jelaskan macam mana peranan media sosial sebagai platform utama untuk semua parti politik sekarang. Untuk pendengar yang guna Spotify yang tak dengar audio, saya jelaskan secara khas. Saya belajar daripada kesilapan, jadi jom soalan saya kepada YB — YB, adakah PH mendahului dalam media sosial, atau PN, atau BN? Tak tahulah parti sabar-sabar kita tak setuju lah, ini call lah kan. Abang rasa adakah PH mendahului dalam media sosial?
 
 **Rafizi:** Sebenarnya, kalau sesiapa ada jawapan itu, dia menang lah pilihan raya. Sebenarnya kita tidak ada sebarang laporan yang konklusif pun yang boleh meletakkan siapa berada di depan lah. Dan soal perang mad-source ini, budak-budak "socials" lah — saya nak panggil media sosial, "media sosial" itu panjang lah, saya panggil "socials" okey.
 
-**Afiq:** Boleh, boleh.
+**Wan Afiq:** Boleh, boleh.
 
 **Rafizi:** Anda tahu, masalahnya — bukan masalahnya, keunikan platform socials ini ialah anda hanya akan tahu apabila terlambat. Jadi dalam konteks politik, maksudnya kita hanya tahu siapa yang menang, PH ke, BN ke, PN ke, itu selepas keputusan pilihan raya. Pada masa itu sudah terlambat kan. Jadi sebab itu yang kita perlu perhatikan, ialah adakah strategi yang digunakan itu betul? Adakah maksudnya mereka yang bertanggungjawab untuk menyampaikan maklumat — agensi-agensi ini, kumpulan-kumpulan ini, jurukempen — adakah mereka betul-betul faham macam mana socials berfungsi? Kemudian yang ketiga ialah kita boleh tengok trend dan juga penunjuk yang ada sekarang ini untuk kita meramal yang mana akan meletup nanti dalam socials ke arah pilihan raya akan datang. Jadi sebab itu, pertama sekali — tak tahulah, Fahmi ini kan, kalau dalam kabinet ini dia memang menteri media sosial lah. Orang cerita pasal dasar semua ini, dia cerita pasal posting media sosial. Saya kata macam, ya Allah, malunya lah parti saya. Tapi tak boleh buat apa lah, dia kesayangan Dato' Seri Anwar kan, tak boleh buat apa. Kebanyakan masa, saya rasa bukan sahaja ahli politik tahu — yang menteri, yang ahli politik ini faham lah, dia mungkin tak faham secara mendalam. Tapi orang-orang yang diberi tanggungjawab ini, baik daripada cyber-troopers, baik daripada pakar-pakar strategi, parti-parti, penasihat komunikasi strategik — bagaimana socials berfungsi, konsepnya bagaimana kan? Dan untuk menjadikan keadaan lebih buruk, kepimpinan pula selalunya, baik dalam PH, baik dalam BN, terutamanya di dalam PN, mereka selalunya dalam gelembung penyokong mereka sendiri. Sebab media sosial ini memang gelembung, dan untuk itu kita perlu faham konsepnya. Media sosial ini bergerak, dibina atas satu konsep yang paling mudah — namanya "network effect". Dalam bahasa Melayu, network effect ialah kesan rangkaian. Apa maksudnya sebagai network effect ini?
 
-**Afiq:** Ini kali pertama saya dengar.
+**Wan Afiq:** Ini kali pertama saya dengar.
 
 **Rafizi:** Sejujurnya saya jujur, ini kali pertama saya susah nak buat podcast begini semua. Maksud saya, sesiapa yang nak faham penyampaian maklumat di zaman ini, di zaman digital, mesti faham konsep yang paling mudah, iaitu network effect. Okey, apa itu network effect? Kesan rangkaian.
 
-**Speaker 4:** Maksudnya, kandungan kita itu satu yang boleh dicapai atau tidak, membina algoritma atau tidak?
+**Amin Sahmat:** Maksudnya, kandungan kita itu satu yang boleh dicapai atau tidak, membina algoritma atau tidak?
 
 **Rafizi:** Tak, itu dah keterangan peringkat keempat, kelima ke enam dah. Niche — saya beritahu anda, itu niche. Tak, ia bukan niche, network effect. Maksudnya bila sesuatu itu disukai oleh orang, maka orang lain akan kongsi. Itu yang akhirnya jadi kononnya viral tak viral, sebenarnya, maksud saya istilah akademik untuk viral ialah network effect. Dan network effect ini bukan untuk media sosial sahaja tau, ia termasuklah apa nama ini, perniagaan, aplikasi — semuanya berkait dengan network effect. Jadi untuk itu anda betul-betul perlu faham tentang orang itu. Jadi network effect ini kan, maksudnya begini — kalau ada sesuatu kandungan, dalam konteks sosial, kalau ada sesuatu kandungan yang orang suka, orang akan kongsi. Kemudian anda boleh tanya beberapa soalan seterusnya. Satu ialah kandungan yang macam mana yang orang suka. Kemudian, bila dia soal network, network effect, anda sebagai seorang individu, anda perlu tanya soalan seterusnya — sebenarnya, apakah jenis rangkaian yang saya ada? Sebab kalau rangkaian saya itu ialah jenis kepala macam saya semua, maka ia jadi gelembung.
 
-**Afiq:** Okey.
+**Wan Afiq:** Okey.
 
 **Rafizi:** Terutamanya untuk politik. Kemudian barulah soalan ketiga ialah, sebenarnya, mengetahui tentang kandungan dan rangkaian, kemudian — itulah sebenarnya cara platform-platform ini membina algoritma, dan platform berbeza mempunyai algoritma berbeza. Okey, sekarang, sebenarnya di Malaysia — sebelum kita nak sampai ini lah, ini masalah dengan saya, saya kena cerita satu-satu, semua dulu, seorang yang faham. Kemudian barulah anda betul-betul — okey, ini kembali kepada sekolah. Saya pemalas di sekolah lah, saya memang bukan jenis yang belajar malam, ulang kaji semua. Peraturan saya agak mudah — masa cikgu ajar, belajar, faham betul-betul, supaya lepas itu tak payah baca dah. Sekali anda faham, anda faham selama-lamanya. Masa lebih itu, kau pergi main. Begitulah cara saya melalui persekolahan. Jadi sama juga macam benda-benda nak faham ini — jangan ambil jalan pintas, faham betul-betul dalam-dalam, kerana selepas itu anda tak payah baca dah kan. Okey sekarang, sebenarnya di Malaysia, platform apa yang paling berpengaruh ini? WhatsApp...
 
@@ -525,11 +524,11 @@ Jadi kalau kita jadi orang awam — sekarang ini soalan yang orang awam kena jaw
 
 **Rafizi:** Okey, WhatsApp ketepikan dulu lah, sebab banyak kandungan daripada WhatsApp itu sebenarnya datang daripada platform-platform ini. Pertama, Facebook, jauh mengatasi yang lain. Pengguna Facebook ada lebih kurang berapa? 26-27 juta di Malaysia. Jadi jauh mengatasi ialah Facebook. Nombor 2, saya fikir itu adalah perkara yang paling penting. Facebook dari segi profil umur, ia lebih menyeluruh, ia merentasi kaum, merentasi semua umur. TikTok lebih cenderung kepada orang muda, Gen Z, tapi TikTok pun dah lebih 20 juta lebih dah. Jadi TikTok ketiga? Instagram?
 
-**Afiq:** Twitter itu?
+**Wan Afiq:** Twitter itu?
 
 **Rafizi:** Ya, ketiga sebenarnya YouTube, cuma orang tak pandang sangat YouTube ini sebagai media sosial. Kemudian jauh di bawah daripada top 3 ini, jauh di bawah sebenarnya, Twitter dengan Instagram. Threads sangat rendah di bawah, malah Threads belum sampai ke peringkat yang perlu dilesenkan pun lagi. Untuk dilesenkan anda perlu ada 8 juta pengguna, Threads tak masuk, Threads lebih kurang 3 juta, 3 ke 4 juta kan. Okey, sekarang — jadi ini kita beri kelas percuma kepada Jkom lah, okey kiralah Jkom, ada sebab kenapa saya sebut ini. Kepada penonton nanti, jadi inilah tiga: Facebook, TikTok dengan YouTube. Kemudian jauh di bawah itu, Instagram dengan Twitter kan. Dan daripada lima ini, setiap satu itu ada fungsi yang berlainan sebenarnya. Saya boleh lihat — kembali kepada network effect, network effect itu lebih luas, ia sebenarnya lebih kepada semua orang, lebih kepada semua umur. TikTok lebih kepada Gen Z, dan sebab itu kandungannya berlainan, gayanya berlainan semua lah. YouTube sebenarnya, boleh dikatakan sama penting atau lebih penting daripada TikTok, sebab...
 
-**Speaker 4:** Sebab YouTube boleh dicapai oleh pelbagai peringkat umur?
+**Amin Sahmat:** Sebab YouTube boleh dicapai oleh pelbagai peringkat umur?
 
 **Rafizi:** Satu, tapi sebab YouTube ada penukaran (conversion) yang lebih tinggi. Conversion ini maksudnya macam mana nak meyakinkan. Okey, TikTok sebab ia pendek tau, haa kan. Jadi TikTok kepada pengundi belum membuat keputusan, tidak sepengaruh YouTube kepada pengundi belum membuat keputusan, kerana orang yang dah buat keputusan, dia dah buat keputusan, kau cakap macam mana pun kan. Tapi orang yang nak buat keputusan, dia suka mencari maklumat, dia nak faham semua — mereka biasanya lebih cenderung kepada YouTube kerana dia dapat penerangan, dia nak belajar semua kan. Itulah sebabnya podcast YouTube kita sangat panjang, sampai 3-4 jam, kerana ia disasarkan untuk orang seperti itu kan. Twitter — Twitter tak ramai mana tau, X lah, X tak seramai top 3 itu lah. Tapi kenapa X tetap begitu penting?
 
@@ -541,111 +540,111 @@ Jadi kalau kita jadi orang awam — sekarang ini soalan yang orang awam kena jaw
 
 **Rafizi:** Saya tak semestinya kata ia intelektual. Tak ada benda di Twitter itu, di X itu, kadang-kadang tak, tak, tak intelektual. Pada asasnya, ia paling kuat dalam advokasi. Jadi selalunya X ini menjadi penetapan agenda, X is agenda setting secara politik. Jadi selalunya isu itu meletup juga di X. Ingat dulu kerajaan gagal kan — sebenarnya X ini kebanyakannya pengundi PH pun, pengundi bandar semua kan. Tapi ia boleh meletup dan mula merebak ke tempat lain, sebabnya ialah pengguna X ini tepatnya lebih urban, lebih berpendidikan, dan oleh itu lebih berpendapat, dan oleh itu banyak advokasi berlaku di X berbanding contohnya Facebook. Jadi Facebook ini lebih banyak orang berkongsi cerita, memasak semua kan. Katakanlah ada 28 juta itu kan, yang betul-betul berpendapat ataupun yang menggunakan Facebook 100% untuk berita politik, mungkin 20% sahaja, 50% yang lain itu ialah untuk urusan keluarga, gambar, semua kan. Tapi di X, peratusan yang lebih tinggi advokasi politik dan sosial sebenarnya berlaku di X kan. Jadi X juga penting. Cuma Instagram lah, Instagram sebenarnya ia hampir seperti pendua kepada Facebook, dan ia lebih spesifik kepada milenial sebenarnya, milenial bandar.
 
-**Speaker 4:** Tapi ia tak boleh dicapai?
+**Amin Sahmat:** Tapi ia tak boleh dicapai?
 
 **Rafizi:** Capaiannya tak setinggi mana lah. Tapi anda tahu, segmen wanita, wanita, bandar, milenial itu memang banyak dominan di Instagram. Kemudian, anda tahu, semua itu, kemudian barulah kita boleh — okey lah, boleh bercakap 10 minit lagi tentang ini kan. Kemudian kita tanya strategi kan, berdasarkan itu kan, kita kembali kepada dua perkara — lapisan kedua yang saya tanya tadi. Soalan pertama ialah network effect, kemudian lapisan seterusnya ialah network effect itu fungsi kandungan dan fungsi rangkaian kan. Kemudian kita boleh kembali kepada mengetahui itu dan — jadi berdasarkan itu, apa strategi yang digunakan oleh kerajaan sekarang untuk menangani kandungan dan juga rangkaian? Dan berbanding juga dengan bagaimana PH buat, BN buat, dan PN buat.
 
-**Afiq:** Dia potong lah, dia hapuskan kandungan yang dia rasa tak sesuai dengannya, itu satu lah. Sensor. Sekejap lagi lebih mudah lah, satu lagi mereka guna...
+**Wan Afiq:** Dia potong lah, dia hapuskan kandungan yang dia rasa tak sesuai dengannya, itu satu lah. Sensor. Sekejap lagi lebih mudah lah, satu lagi mereka guna...
 
 **Rafizi:** Oh ya, itu masalah besar komunikasi kerajaan sekarang, cyber-troopers. Sebenarnya kalau anda tengok, terutamanya di X, kan, boleh tengok macam mana sikap kepada Dato' Seri Anwar dan Madani ini sebenarnya berubah dalam tempoh 7-8 bulan yang lepas — banyaknya dipengaruhi oleh cyber-troopers. Ya, betul. Kalau ingat, selepas pemilihan PKR Mei 2025, sebenarnya pandangan kepada Dato' Seri Anwar itu masih lagi okey lah, masih lagi orang masih lagi okey kan. Ia mula menjadi semakin ketara atas dua sebab — satu, serangan berlebihan terhadap saya oleh cyber-troopers ini; keduanya ialah pembelaan berlebihan terhadap PKR, PH dan Dato' Seri Anwar, yang dilihat sebagai "ini dah menjilat tak gila ini kan", jadi macam susah besar macam itu, macam susah besar lah, macam susah besar semua lah. Jadi sebenarnya, bila — sebab itu, ini soal kandungan dan juga rangkaian kan. Bila kandungan itu dah terlampau begitu, ia mula akan menjadi bumerang kepada kerajaan, kerana orang yang belum membuat keputusan, ataupun malah penyokong PH, pernah rasa "saya sangat terkesan dengan ini lah", rasa mengganggu, rasa macam terlalu toksik lah. Kemudian yang kedua, pasal rangkaian, sama jugalah — okey, Jkom ke, anda tahu, Fahmi ke, ataupun kumpulan-kumpulan cyber-trooper yang digunakan kan, Malaysiakini pun dah tulis lah pasal cyber-trooper ini kan. Saya ingat teras cyber-trooper mungkin ada 100 orang, kemudian cyber-trooper lain yang AMK lah, itulah, ini mungkin ada 200 orang kan. Jadi kesemuanya, 300 orang lah. Cuma caranya, mungkin 300 orang ini setiap seorang mungkin ada 20 akaun, 30 akaun, dan itu, pengikut ada 2, 3, 2, 3, 2, 3 sahaja kan. Jadi mereka saling menambah sesama sendiri. Sekarang, bagaimana itu memberi kesan kepada network effect?
 
-**Speaker 4:** Kau lupa satu tadi, kau lupa satu — pengikut Vietnam.
+**Amin Sahmat:** Kau lupa satu tadi, kau lupa satu — pengikut Vietnam.
 
 **Rafizi:** Pengikut Vietnam — itu menambah lagi kalau pengikut Vietnam. Bagaimana keadaan itu sebenarnya cukup bertentangan dengan tonggak platform sosial, di mana anda mesti mempunyai network effect. Ia jadi palsu lah, maksudnya walaupun anda nampak kasar hebat, kongsi 100, 200 kan, sebenarnya ia pergi kepada 200 orang itu sahaja, ia tidak pergi kepada orang lain.
 
-**Speaker 4:** Maksudnya, mereka ini...
+**Amin Sahmat:** Maksudnya, mereka ini...
 
 **Rafizi:** Pendek, dan...
 
-**Speaker 4:** Menolak dalam bulatan.
+**Amin Sahmat:** Menolak dalam bulatan.
 
 **Rafizi:** Network effect itu, sebab itu network effect — rangkaian sangat penting. Anda mungkin ada, contohnya kan, 40,000 pengikut, tapi kalau pengikut itu semua jenis macam kau, kau tak mempengaruhi politik mereka, kerana mereka dalam gelembung itu. Jadi katakanlah ambil Vietnam contohnya kan — Vietnam ini mungkin ada 100,000 akaun. 100,000 akaun itu bersamaan dengan 100 telefon bimbit yang disambung-sambung-sambung, dikawal oleh 3 orang. Sebenarnya, network effect itu hanya kepada 3 orang itu sahaja, ia tidak pergi kepada orang lain, jadi itu kerja sia-sia lah.
 
-**Speaker 4:** Sebab itu kalau saya tambah, YB — macam Jkom, mereka ada buat podcast, apa, Tok Abah Podcast kan, dan malah Selangor ada buat PINS Podcast tau, dan komennya — satu, dua. Lepas itu bila dah kena tegur sikit, komen naik sikit lah, tiga orang, empat orang, like pun sikit sebab ia berpusing dalam satu gelembung.
+**Amin Sahmat:** Sebab itu kalau saya tambah, YB — macam Jkom, mereka ada buat podcast, apa, Tok Abah Podcast kan, dan malah Selangor ada buat PINS Podcast tau, dan komennya — satu, dua. Lepas itu bila dah kena tegur sikit, komen naik sikit lah, tiga orang, empat orang, like pun sikit sebab ia berpusing dalam satu gelembung.
 
 **Rafizi:** Ia berpusing dalam gelembung yang sama kan. Okey, dari perspektif itu, jadi maksudnya apa yang dibuat oleh Jkom, oleh Fahmi Fadzil sekarang ini, dengan menggunakan beberapa orang, kepala-kepala, cyber-trooper semua ini, memang menghabiskan duit. Mereka kaya raya, kereta besar, gaji besar semua. Dan sebab itu anda boleh nampak kesannya di media sosial sekarang — kenapa ia sangat negatif terhadap Dato' Seri Anwar dan juga kepada PH. Sekarang, bila perkara itu dah jadi, apa tindak balas mereka? Tindakan pemulihan lah. Pemulihan, maksudnya apa? Anda boleh nampak itu dengan jelas di Facebook. Di Twitter, di X, mereka tak boleh buat sebab teruk sangat — sebab X sangat mengatasi anti-cyber-trooper dan anti-PH, jadi mereka ada sedikit peluang di Facebook. Jadi saya telah mengkaji 3 minggu terakhir Facebook saya, tau, komen semua. Okey, apa yang mereka buat di Facebook saya?
 
-**Afiq:** Mereka komen.
+**Wan Afiq:** Mereka komen.
 
 **Rafizi:** Mereka gunakan akaun palsu ini untuk komen cepat-cepat, dan kemudian sama-sama like semua supaya ia naik di atas, dengan harapan untuk menunjukkan bahawa sebenarnya Rafizi ini tak ada orang sokong lah, ataupun dia ini dah tak popular ke, tak ada sokongan. Sekarang, adakah perkara itu betul-betul akan ada kesan ataupun tidak? Tak, orang akan rasa menyampah — itu satu, orang ada menyampah, okey. Tapi saya selalunya tak fikir pasal pandangan orang itu, kerana itu sangat subjektif, saya tak tahu apa yang ada dalam kepala orang. Jadi mungkin sebab saya dilatih sebagai jurutera lah kan, jadi semua yang saya semak berdasarkan metrik kan. Jadi ia hanya ada kesan, maksudnya perkara itu berkesan, kalau capaian dan penglibatan setiap posting itu turun mendadak. Bukan, ia tak turun mendadak. Jadi capaian, maksudnya kalau setiap — capaian bulanan saya lah untuk Facebook saya adalah antara 8 hingga 15 juta sebulan. Ia tak turun, lebih kurang macam itulah — kalau tak ada isu, mungkin 8, kalau ada isu sikit, ia 15 juta sebulan. Jadi ia tak ada kan. Jadi sebab itu, anda kena tengok likes. Malah orang kata "tengok dia kena bantai di Facebook dia sendiri" kan, itu yang selalunya orang PN duduk di gelembung mereka sendiri, mereka ingat dengan hanya pergi maki, mereka tak suka, mereka pergi maki semua. Itu maksudnya memang media sosial dah betul lah. Sebenarnya yang penting ialah majoriti senyap.
 
-**Afiq:** Oh, okey.
+**Wan Afiq:** Oh, okey.
 
 **Rafizi:** Majoriti senyap — biar saya tanya ini, majoriti senyap ini jenis komen ke?
 
-**Speaker 4:** Tak, mereka tak komen, mereka memerhati.
+**Amin Sahmat:** Tak, mereka tak komen, mereka memerhati.
 
 **Rafizi:** Yang paling banyak mereka buat apa?
 
-**Speaker 4:** Mereka akan memerhati, tengok.
+**Amin Sahmat:** Mereka akan memerhati, tengok.
 
 **Rafizi:** Okey, memerhati itu satu, tapi yang paling banyak, mereka like.
 
-**Speaker 4:** Mereka like.
+**Amin Sahmat:** Mereka like.
 
 **Rafizi:** Penyokong kuat akan kongsi. Jadi oleh itu, ia tidak semestinya — malah, komen itu sebenarnya, bila cyber-trooper ini, saya dah uji 2-3 kali tau, itu sebab kau pernah perasan, saya pernah post secara tiba-tiba dalam pukul 4, pukul 5 ke apa, kerana cyber-trooper ini ikut waktu, mereka bekerja.
 
-**Speaker 4:** Oh, okey.
+**Amin Sahmat:** Oh, okey.
 
 **Rafizi:** Kalau kau post waktu tertentu, mereka masuk kan, lepas itu saya rasa mereka pergi tidur ke, mereka pergi makan. Jadi saya pernah post pukul 3 ke apa, cuma nak tengok kan — memang komen itu tak ada cyber-trooper langsung, maksudnya mereka sedang berehat kan. Okey sekarang, satu perkara yang mereka tak tahu ialah bila mereka komen banyak, sebenarnya algoritma akan melihatnya sebagai penglibatan tinggi, kemudian mereka akan tunjukkan kepada lebih ramai orang, dan orang yang belum membuat keputusan akan tengok lebih lah kan. Walaupun rangkaian mereka, kesannya sama, tak ada kesan sangat, tapi posting itu sebenarnya ada penglibatan yang lebih tinggi. Yang paling penting untuk Facebook sebenarnya ialah, bagi saya lah, like dan kongsi. Sebab itu anda mungkin nampak komen cyber-trooper ini maki hamun berkarung-karung, dan anda tahu ada cyber-troopers dan komen cyber-trooper, sebab yang disebut itu mengesahkan naratif yang memang nak disampaikan. Jadi dalam kes saya, naratif itu hanya dua tiga sahaja — "ini merajuk," "menteri gagal," "cetong, cetong, cetong" semua kan, "nyet-nyet-nyet-nyet" kan, haa. Anda tahu semua komen daripada 4, 5, 6 bulan lepas perkara yang sama, kononnya perkara itu akan dekat. Kemudian mereka tak faham juga, dengan berbuat begitu secara automatik, mengasingkan semua ini sebenarnya sebagai tingkah laku tidak tulen yang diselaraskan. Kemudian anda tahu lah bagaimana mereka buat kan. Tapi yang penting, bukan semestinya komen, yang penting sebenarnya likes dengan kongsi. Sebab itu anda perasan, kebanyakannya likes jauh lebih tinggi daripada komen, sebab majoriti senyap sebenarnya akan hanya like dan kongsi. Anda boleh tahu, kalau pergi tengok posting-posting pemimpin PN, kongsi mereka sangat rendah.
 
-**Speaker 4:** Betul.
+**Amin Sahmat:** Betul.
 
 **Rafizi:** Mereka mungkin like nampak tinggi, komen banyak kan, tapi kongsi mereka sangat rendah. Jadi kemudian anda dapat rasa bahawa banyak daripada ini diselaraskan, banyak daripada ini pada asasnya cyber-troopers. Kalau pergi tengok Facebook Datuk Seri Zahid Hamidi, selalunya konsisten tau, like semua kan, tapi kongsi agak rendah. Jadi semua ini maksudnya, malangnya, saya sepatutnya menjangka orang-orang yang komunikasi strategik semua ini faham semua ini, kemudian mereka reka strategi itu. Itulah yang nak menjawab yang kau nak tanya tadi lah — kenapa contohnya Jkom semua ini, ada RTM, semua bernama, semua yang kita ada, UKK ini nampaknya kurang berkesan. Ini kerana kurang kefahaman sebenarnya tentang bagaimana socials berfungsi lah. Dan itu juga terpakai kepada PN dan BN. Ambil contoh, saya melalui ini zaman 2022 — jadi kita kembali, saya balik bersara, semua orang takut kepada Facebook Najib macam itu, memang viral gila, takut gila, tak ada orang berani nak sentuh kan, teratas kan. Jadi tengoknya memang membimbangkan lah, 30,000 like semua ini kan. Jadi saya bekerja dengan pasukan saintis data saya lah, jadi itulah kata, okey okey, jom kita lihat sebenarnya apa maksud sebenarnya 30,000 like semua ini kepada sokongan rakyat kan. Sekarang itu kembali kepada soal network effect. Apa beza contohnya — 30,000 like yang mana 30,000 itu datang daripada seluruh negara, yang setiap kumpulan ada, tua ada, Melayu ada, Cina ada, Kedah ada, Kelantan ada, semua itu like-like-like 30,000, berbeza dengan 30,000 like juga tapi daripada Kota Bharu sahaja. Beza kepada kesan undi.
 
-**Speaker 4:** Beza kepada kesan undi. Haa, kalau di Kota Bharu itu sahaja, ia hanya mempengaruhi kawasan itu sahaja lah kan?
+**Amin Sahmat:** Beza kepada kesan undi. Haa, kalau di Kota Bharu itu sahaja, ia hanya mempengaruhi kawasan itu sahaja lah kan?
 
 **Rafizi:** Okey.
 
-**Speaker 4:** Tapi kemudian, naratif itu tak kekal?
+**Amin Sahmat:** Tapi kemudian, naratif itu tak kekal?
 
 **Rafizi:** Ada dua komponen itu kan, satu ialah network effect. Jadi ambil contohnya posting-posting Najib kan — posting Najib dulu lah, walaupun penglibatan like tinggi, tapi ia datang daripada profil demografi dan kawasan yang lebih kurang sama, maksudnya Melayu, banyaknya pantai timur — itu adalah kawasan-kawasan yang memang UMNO dah menang. Marilah 30,000 pun ia takkan sampai dan memberi kesan, dan ia adalah network effect kerana yang menekan like semua itu ialah memang penyokong UMNO pun, dan kumpulan mereka memang kumpulan UMNO pun. Jadi akhirnya, kehebatan kemarahan itu, walaupun setia kepada Najib UMNO semua, ia tak boleh memberi kesan untuk mengalihkan pandangan politik. Jadi tapi di mata orang, kata "oh ini hebat ini" kan. Sama juga yang berlaku dengan banyak pemimpin PAS — pemimpin PAS memang dari segi sosial ada traksi tinggi semua kan, tapi ia berlegar di kawasan ataupun di kalangan pengundi-pengundi yang memang macam itu. Dan oleh itu, sebab itu ia sampai ke sudah, tak dapat mengubah pengundi bukan Melayu, kerana hampir tiada pengundi bukan Melayu yang terkesan, sebab tak ada network effect itu.
 
-**Afiq:** Jadi anda nak tanya?
+**Wan Afiq:** Jadi anda nak tanya?
 
 **Rafizi:** Ya, penjelasan ringkas — macam mana nak lari daripada...
 
-**Afiq:** Okey, itulah sebabnya ia kembali kepada — itu yang saya tanya tadi kan. Berbeza RM30,000 daripada Kota Bharu sahaja like, dengan 30,000 tapi daripada seluruh negara ada, kerana bila seluruh negara ada, Cina ada, Melayu ada, yang muda ada, yang tua ada, setiap seorang daripada mereka ada network effect masing-masing. Jadi sebarannya jauh lebih tinggi kepada golongan yang berlainan, berbanding yang 30,000 itu tetapi kepada golongan yang sama. Bagaimana nak buat begitu?
+**Wan Afiq:** Okey, itulah sebabnya ia kembali kepada — itu yang saya tanya tadi kan. Berbeza RM30,000 daripada Kota Bharu sahaja like, dengan 30,000 tapi daripada seluruh negara ada, kerana bila seluruh negara ada, Cina ada, Melayu ada, yang muda ada, yang tua ada, setiap seorang daripada mereka ada network effect masing-masing. Jadi sebarannya jauh lebih tinggi kepada golongan yang berlainan, berbanding yang 30,000 itu tetapi kepada golongan yang sama. Bagaimana nak buat begitu?
 
 **Rafizi:** Tepat sekali kembali kepada soal kandungan.
 
-**Afiq:** Bukan anda beli iklan anda ke? Ia set demografi semuanya?
+**Wan Afiq:** Bukan anda beli iklan anda ke? Ia set demografi semuanya?
 
 **Rafizi:** Tak. Malah, kalau anda boost dengan Facebook, anda beli iklan Meta anda untuk sampaikan kepada lebih ramai orang, kalau memang kandungan itu tidak menarik, tak menarik, anda akhirnya bayar mahal gila dan ia tak sampai pun. Anda mungkin akhirnya habis RM200,000, tapi akhirnya yang menekan klik pun jenis macam itu juga, dan kemudian ia terus sampaikan kepada orang yang sama, kepada kumpulan orang yang sama. Jadi capaian mungkin lah, kata "oh saya bayar ini, saya dapat 10,000 capaian", tapi 10,000 capaian itu sebenarnya jenis orang yang sama, yang dalam gelembung rangkaian anda kan. Jadi akhirnya ia kembali kepada kandungan. Sebab itu, kalau contohnya pemimpin-pemimpin PH, kalau strategi kandungannya ialah mengagung-agungkan Dato' Seri Anwar dalam keadaan yang kita tahu dia tidak begitu popular sekarang, maka anda akan mempunyai cabaran yang cukup besar di media sosial. Kalau contohnya kandungan-kandungan itu ialah berbentuk cara lama kerajaan menyampaikan maklumat — kenyataan media panjang, "hari ini saya berpeluang untuk merasmikan satu mesyuarat" — kemudian anda kena berhati-hati, sebab kandungan itu orang cakap, "eh ini gaya pakcik-pakcik, ini cerita mesyuarat," orang skip. Semua gambar-gambar sama, duduk mempengerusikan mesyuarat, beratus-ratus gambar mempengerusikan mesyuarat kan. Orang mahu tahu — dan kita pernah dalam podcast yang lepas bincang tentang kandungan Gen Z macam mana, mereka mahu tahu pengalaman yang boleh dihidupi, mereka mahu berhubung. Jadi ia semua tentang kandungan, dan kandungan itulah akhirnya yang ahli-ahli politik kena pilih. Sebab itu, ia mesti substance mengatasi bentuk, kerana anda tak boleh menang semua — kita tak boleh jadi serba boleh. Contohnya, kita tak ada sayang kucing, jadi kita tak boleh — kita tak boleh nak jadi ustaz agama kan. Jadi anda mesti, oleh itu, dari segi media sosial ini, akhirnya sesuatu isu yang kita pilih ataupun kita nak bawa itu mestilah isu yang ada penyebut sepunya dengan seramai orang yang mungkin. Itu nombor satu kan. Dan yang kedua, sebenarnya, lama-kelamaan orang akan perhatikan kau, dia akan tentukan sama ada kau ini palsu ke, kau ini kaki tunjuk muka ke, cringy ke, ataupun anda tulen ke. Saya rasa sebaik sahaja anda mencapai keadaan itu, kemudian mudah-mudahan lebih ramai orang akan mengikuti anda. Dan yang paling penting ialah orang yang mengikuti itu, orang yang dicapai itu, ialah jenis orang yang memang mewakili sebahagian besar rakyat Malaysia keseluruhannya — Melayu, Cina, India, muda, tua, bandar semua. Dan barulah network effect itu jadi besar — satu kandungan itu pergi bukan sahaja kepada lebih ramai orang, tetapi kepada kelompok-kelompok yang berbeza dalam masyarakat.
 
-**Speaker 4:** Okey WB, saya tanya soalan sikit lah, satu — nyahpepijat lebih lanjut dari segi politik jugalah. Err, kalau dulu semasa kita jadi pembangkang... pada pandangan saya lah, media sosial PH atau malah PKR sebagai sebuah parti, dari segi kekuatan sosial, saya akan katakan ia cukup kuat. Kita boleh mempercayai orang untuk mengikuti kita, terutamanya pengguna yang belum membuat keputusan. Dengan cara kita yang tidak sama dengan apa yang kita buat sekarang — kita tidak ada cyber-trooper apa-apa. Tetapi sekarang, apabila kita menjadi kerajaan, di saat kita berjaya dengan satu strategi, apabila kita menjadi kerajaan, kita mengikuti strategi yang BN buat pada 2018 itu dan tumbang. Tak faham cakap rasa apa, bangga sangat kalian ini.
+**Amin Sahmat:** Okey WB, saya tanya soalan sikit lah, satu — nyahpepijat lebih lanjut dari segi politik jugalah. Err, kalau dulu semasa kita jadi pembangkang... pada pandangan saya lah, media sosial PH atau malah PKR sebagai sebuah parti, dari segi kekuatan sosial, saya akan katakan ia cukup kuat. Kita boleh mempercayai orang untuk mengikuti kita, terutamanya pengguna yang belum membuat keputusan. Dengan cara kita yang tidak sama dengan apa yang kita buat sekarang — kita tidak ada cyber-trooper apa-apa. Tetapi sekarang, apabila kita menjadi kerajaan, di saat kita berjaya dengan satu strategi, apabila kita menjadi kerajaan, kita mengikuti strategi yang BN buat pada 2018 itu dan tumbang. Tak faham cakap rasa apa, bangga sangat kalian ini.
 
 **Speaker 3:** Untuk pendengar Spotify, YB Rafizi menunjukkan...
 
-**Speaker 4:** Itu tanggungjawab dia, dan tak ada sesiapa tegur perkara ini — dalam parti PKR ke, kabinet ke, saya kira?
+**Amin Sahmat:** Itu tanggungjawab dia, dan tak ada sesiapa tegur perkara ini — dalam parti PKR ke, kabinet ke, saya kira?
 
 **Rafizi:** Begini lah kan, bercorak kabinet ini di peringkat kerajaan — kira supremo komunikasi ini Fahmi lah, jadi itu tanggungjawab dia kan. Dan kita ada portfolio masing-masing, dan walaupun menteri itu dari segi kekananan politiknya berbeza-beza, saya lebih kanan, senior ke apa, kita tak boleh nak tegur — masing-masing menteri, saya menteri juga, kau siapa? Dia tak pernah jumpa YB untuk belajar?
 
-**Speaker 4:** Tak ada, itu membawa kepada perkara kedua dalam...
+**Amin Sahmat:** Tak ada, itu membawa kepada perkara kedua dalam...
 
 **Rafizi:** Parti dalam parti pula kan — dalam parti, masalahnya, banyak yang muda-muda ni memang melihat segala-galanya daripada lensa politik. Bukannya saya tak sokong dia, jadi saya tak belajar dengan dia — itu bukan soalnya. Masalahnya ialah bila dah jadi kerajaan, dia ambil jalan pintas. Sebab untuk kita... Dan kalau dilihat, sebelum 2018 sampai sekarang, sebenarnya PKR dan PH ini ialah parti yang dibina berdasarkan isu. Dia bukan parti personaliti, dia parti isu. Kenapa kandungan kita orang baca semua? Kerana ia memberi pencerahan — baik soal anti-rasuah, baik soal dasar. Ia sebenarnya ada substans, bukan soal slogan atau retorik semata-mata; ada sesuatu, dan kita bentangkan hujah, kemudian ada bukti, ada fakta. Benda tu penat nak buat — kena baca, kena semak. Kandungan saya sampai hari ini saya buat sendiri, jadi tak ada "ceplos-ceplos" dalam kandungan saya ni; semua saya buat sendiri. Dan sebabnya, bagi saya, itu sebahagian daripada apa yang diperlukan untuk menyampaikan maklumat. Dan bila saya belajar sesuatu yang baharu, saya kongsi dengan orang lain — ia juga daripada rasa ingin tahu saya, saya perlu tahu sesuatu yang baharu. Tapi berapa ramai orang yang menyertai politik, bila dah jadi menteri, buat benda macam tu? Dia tak buat. Sebab "saya menteri," dia dah belagak, dah ada pasukan yang dibayar, orang duduk ikut semua. Jadi dia merendahkan betapa pentingnya setiap kandungan itu — dia melihat setiap satu kandungan itu hanyalah sebagai hantaran media sosial. Saya tidak — saya lihat setiap satu kandungan saya. Kau boleh tanya Pa'an, salah sikit kena marking, saya berabuk. Saya sebenarnya semak setiap satu benda, sebabnya benda yang paling penting dengan rakyat ialah komunikasi kita, dan sebenarnya ia media sosial. Itulah diri saya di mata orang ramai. Apa yang saya cakap, gambar saya — gambar saya tak kisah lah kan — tapi kalau salah fakta, memang saya semak setiap satu perkara, saya tulis — tetap, setiap satu perkara. Mereka bila dah jadi menteri, semua itu dia tak pernah buat. Masa dulu, masa 2017-18, yang duk berkempen, yang duk bawa isu, yang duk kaji, berapa kerat je — tapi dia mendapat laba daripada gelombang itu. Dan mereka tidak pernah membina disiplin itu. Jadi bila jadi kerajaan, dia ambil jalan mudah, menggunakan kaedah dan struktur yang sama macam BN guna dulu. Itu yang jadi "ceplos-ceplos" yang sekarang ini berterabur di media sosial.
 
-**Speaker 4:** Satu lagi, baby, saya tengok — saya tak nak sebut nama lah. Tapi beberapa orang dalam JKOM ini masih orang yang sama — zaman Najib, zaman Muhyiddin, dan zaman Madani, saya...
+**Amin Sahmat:** Satu lagi, baby, saya tengok — saya tak nak sebut nama lah. Tapi beberapa orang dalam JKOM ini masih orang yang sama — zaman Najib, zaman Muhyiddin, dan zaman Madani, saya...
 
 **Rafizi:** Tak tahu, saya tak kenal.
 
-**Speaker 4:** Saya tak nak dedahkan nama mereka lah. Malah ada seorang tu memang menjawab — dia memang ceplos, malah dalam PKR pun. Tapi sebelum ini, masa zaman Muhyiddin, dia adalah pegawai JKOM yang cukup senior juga lah. Jadi maksudnya, macam, bagi saya — kau dah tahu masa zaman dulu orang yang ada dalam JKOM ini tidak berfungsi dengan baik, awak kekalkan orang yang sama, bayar gaji dengan bayaran cukai kita ini untuk apa? Untuk Fahmi lah. Bagi saya, itulah sebabnya perkara paling besar — saya kata macam sayang lah. Sebab kita boleh ubah semua jentera kerajaan ini, sekurang-kurangnya...
+**Amin Sahmat:** Saya tak nak dedahkan nama mereka lah. Malah ada seorang tu memang menjawab — dia memang ceplos, malah dalam PKR pun. Tapi sebelum ini, masa zaman Muhyiddin, dia adalah pegawai JKOM yang cukup senior juga lah. Jadi maksudnya, macam, bagi saya — kau dah tahu masa zaman dulu orang yang ada dalam JKOM ini tidak berfungsi dengan baik, awak kekalkan orang yang sama, bayar gaji dengan bayaran cukai kita ini untuk apa? Untuk Fahmi lah. Bagi saya, itulah sebabnya perkara paling besar — saya kata macam sayang lah. Sebab kita boleh ubah semua jentera kerajaan ini, sekurang-kurangnya...
 
 **Rafizi:** Sebenarnya saya tak setuju dengan itu — untuk menggunakan pemerintah sendiri. Malah, inilah cerita yang berkaitan dengan potongan 10 bilion. 10 bilion, 10 bilion, suruh potong kesihatan semua — benda pertama yang perlu dipotong ialah bubarkan JKOM.
 
-**Speaker 4:** Ya.
+**Amin Sahmat:** Ya.
 
 **Rafizi:** Betul. Bubarkan semua pembelian media — pembelian media semua ini, sebab ia menghabiskan puluh-puluh juta, mungkin ratus-ratus juta setiap tahun. Sebabnya, komunikasi politik tidak boleh lagi disubkontrakkan keluar — awak kena buat sendiri. Dah tak ada dah gaya-gaya zaman dulu itu kan, sama ada JKOM lah, ataupun "orang tengah" yang duduk sibuk menguruskan media semua ini — buat baik dengan media, nanti media lambung sikit, bagi sponsor sikit, media tulis lebih sikit. Saya tak buat macam itu, memang kena pecat saya kalau buat. Semua itu sudah tidak berfungsi lagi dalam dunia digital ini — awak kena jadi wajah itu sendiri. Zaman 80-an, 90-an, semua menteri boleh duduk baik dengan setiausaha akhbar yang menguruskan, kemudian merancang cerita macam ini-macam ini. Sekarang mana boleh dah — awak kena ceritakan sendiri, awak kena kuasai isu itu, awak kena nampak semuanya. Jadi kalau sebelum ini masa yang dihabiskan oleh menteri untuk komunikasi mungkin 5%, sekarang tak boleh, ia mesti 20-30%. Awak kena berkomunikasi secara berterusan. Jadi walau apa pun kajiannya — PH ke, BN ke, PN lepas ini — kalau pendekatannya tetap membazirkan wang rakyat untuk mengekalkan JKOM dan sebagainya, lama-lama jadi macam puak Zarkashi — ketua pengarah bekas, ketua pengarah "berjasa" JKOM zaman dulu, tengok saja dia macam mana. Jadi kalau awak buat begitu, ia akan kembali kepada masalah yang sama kepada sesiapa sahaja yang jadi kerajaan, kerana mereka gagal memahami bagaimana media sosial dibina. Ia dibina dengan kesan rangkaian (network effect), dan kesan rangkaian itu adalah fungsi kandungan dan fungsi jaringan. JKOM ini — bila JKOM, asas kajiannya semuanya bergantung kepada fungsi profil palsu, semuanya fungsi tingkah laku tidak tulen yang diselaraskan (coordinated inauthentic behaviour). Itu adalah antitesis sebenar kepada kesan rangkaian, tahu.
 
-**Afiq:** Baik, kita ada berapa lagi bang? Baik, kita ada 10 minit lagi. Terima kasih.
+**Wan Afiq:** Baik, kita ada berapa lagi bang? Baik, kita ada 10 minit lagi. Terima kasih.
 
 **Speaker 3:** Kelas.
 
-**Afiq:** Komunikasi daripada YB Raf sendiri. Memang betul-betul MCPC patut bayar. Okay, seterusnya — maaf, kita pergi soalan terakhir.
+**Wan Afiq:** Komunikasi daripada YB Raf sendiri. Memang betul-betul MCPC patut bayar. Okay, seterusnya — maaf, kita pergi soalan terakhir.
 
 **Rafizi:** Sebenarnya ada sebab — nasib baik saya teringat sebab ini. Kerana kita dah dekat pilihan raya, kita dah dekat pilihan raya, ramai yang menonton, ramai yang membaca kandungan tiap-tiap minggu. Saya habiskan masa setengah jam bercerita pasal media sosial, kesan rangkaian semua ini, sebab selepas ini maksudnya kita perlukan lebih ramai orang, bukan sekadar menonton tahu — kita nak kena perkuatkan kesan rangkaian itu. Orang yang menonton, kalau bersetuju dengan kandungan, kalau tak cipta kandungan pun, awak kena kongsi; kalau tak kongsi pun, awak kena kirim (forward). Sebab satu-satunya cara untuk menang dalam kempen digital zaman sekarang ialah kesan rangkaian. Dan sebab itulah yang menonton ini tiap-tiap minggu memang ramai — yang live pun ramai, yang menonton pun ramai. Kalau rasa setuju dengan apa yang kami sebut, pandangan-pandangan kami, paling kurang kongsilah. Kalau rajin lagi, buat splice — ambil mana-mana bahagian yang disukai, buat video pendek, ataupun hantar di Facebook atau mana-mana, kongsi. Kalau itu berjaya dibuat dengan baik, maksudnya begitu banyak perkara boleh dilakukan dalam 4-5 bulan yang akan datang.
 
-**Afiq:** Jelas? Jadi, marilah bersama kita. Okay, seterusnya — mungkin kali terakhir ini. Berapa hari sebelum didakwa? Dulu pernah didakwa polis kan, SPRM...
+**Wan Afiq:** Jelas? Jadi, marilah bersama kita. Okay, seterusnya — mungkin kali terakhir ini. Berapa hari sebelum didakwa? Dulu pernah didakwa polis kan, SPRM...
 
 **Rafizi:** Kali pertama lah. Saya dah dapat notis kan tadi, 3.5 — saya dah agak dah, sebab bila melihat kepada siasatan James punya semua itu, awak boleh agak lebih kurang James adalah yang terakhir. Dan selepas James itu, memang saya teka, dan saya ingat Tan Sri Azam Baki ada lebih kurang 2 minggu lagi, dan maksudnya siasatan itu mesti diselesaikan supaya boleh cepat-cepat didakwa. Kalau kita tengok kes-kes yang SPRM buat sebelum-sebelum ini, lepas dia panggil satu dua hari, kemudian dia terus dakwa. Jadi besar kemungkinan bahawa saya, dalam seminggu dua minggu — kalau tak minggu depan pun, minggu-minggu selepas itu — akan didakwa lah. Sama ada dia nak suruh pakai baju oren tu pun terpulang lah — baju ungu ada, tapi bagus juga kan, saya hanya ada gambar baju ungu, belum ada gambar baju oren, bolehlah. Jadi kita fahamlah, jadi ia gabungan — maksudnya saya akan mula memberi keterangan jam 10 pagi hari Isnin ini di ibu pejabat MACC di Putrajaya. Berapa hari itu terpulang kepada dia lah, tapi saya tak rasa — dia dah habiskan 2-3 bulan ini daripada bulan Februari, kemudian dah bergaduh pasal gim semua ini, tiba-tiba lepas ambil keterangan saya, lepas itu tutup fail — tak adalah, itu memang kita dah tahu. Maksudnya bila dah sampai peringkat ini, saya rasa mereka dah tak kisah kes di mahkamah itu macam mana, menang kalah itu hanya diketahui 3-4 tahun kemudian, kerana satu kes ini perbicaraan 3-4 tahun, lepas habis 3-4 tahun itu rayuan pula, kemudian rayuan pula kan. Jadi paling cepat pun mungkin 5-6 tahun. Menjelang masa itu, saya ingat pegawai-pegawai semua ini dikira "saya mengikut arahan" — masa itu saya dah naik pangkat semua, jadi dia tak kisah lah. Jadi yang diperlukan ialah arahannya: benda ini kena diselesaikan siasatan, kemudian didakwa di mahkamah.
 
@@ -653,29 +652,29 @@ Saya boleh lihat perkara itu diperlukan dalam suasana politik sekarang. Satu, sa
 
 Saya ingat, setakat ini lah — selepas 2-3 bulan ini kita akan tahu kes ini mudah. Tuduhannya ialah saya telah mempengaruhi Perdana Menteri, Kabinet, semua pegawai-pegawai kanan kerajaan untuk secara tergesa-gesa menandatangani perjanjian dengan ARM. Dan saya rasa teknikalitinya nanti mereka akan bawa ke mahkamah bahawa oleh kerana dalam keadaan tergesa-gesa itu ada beberapa perkara yang dikatakan tidak menurut arahan kabinet, maka itu dikira sebagai salah guna kuasa dan juga rasuah. Dan saya akan didakwa atas perkara itulah. Dan itu tak apalah, kita akan masuk ke mahkamah — saya rasa pembelaan itu tak ada masalah. Cuma yang seronoknya, memang semua kena panggil lah — daripada Dato' Seri Anwar Ibrahim, video-video Dato' Seri Anwar Ibrahim yang mengambil kredit, cerita Zafrul, Dato' Seri Anwar pun yang duduk kata masa ucapan hari itu, "you know, I — I'm only 30 minutes, to convince me — 30 minit je saya dah yakin dah." Jadi pula saya yang mempengaruhinya? Kalau nak dakwa, dakwa CEO ARM yang mempengaruhi Anwar Ibrahim — kemudian dia juga menjaga ARM ini, 8 bulan lambat kalau ikut saya, 3 bulan patut dah jadi. Kalau nak ikut yang tergesa-gesa ditekan, sepatutnya Perdana Menteri lah yang kena. Jadi sama juga macam perjanjian-perjanjian sebelumnya, itu semua diluluskan kabinet, kemudian perjanjian akhir itu melalui jawatankuasa bersama Kementerian Kewangan, MITI, Kementerian Ekonomi, kemudian ia telah dipersetujui oleh penasihat undang-undang masing-masing. Jadi sebab itu bila masuk mahkamah, saya rasa saya tak bimbang pun — banyak lagi kes-kes lain yang saya dah lalui yang sebenarnya dari segi teknikal undang-undangnya lebih berisiko daripada yang ini. Yang ini memang 100% lah bagi saya, cuma menghabiskan masa untuk naik ke mahkamah sahaja lah kan.
 
-**Speaker 4:** Cuma... orang biar anggap macam itu, lawatan ke mahkamah lah.
+**Amin Sahmat:** Cuma... orang biar anggap macam itu, lawatan ke mahkamah lah.
 
 **Rafizi:** Saya dah banyak sangat lawatan. Dah sabar dengan lawatan ini, nak sambung lawatan 6 tahun lagi ke mahkamah ini, tapi tak apalah, ia sebahagian daripada perjalanan ini. Cuma ia sama macam Negeri Sembilan tadi kan — awal-awal kita bincang pasal Negeri Sembilan. Kadang-kadang saya rasa mereka ini lupa konsep akibat yang tidak diduga (unintended consequences). Dan mungkin ia sesuatu yang baik untuk berlaku, sebab kalau contohnya tiba-tiba isu ARM ini tidak direka cipta — orang suruh reka cipta, dia reka cipta kes — kalau ia tidak direka cipta, mungkin susah untuk pengundi atas pagar dan juga orang yang menyokong PH sebelum ini untuk faham. Dan mereka mungkin rasa memang Rafizi ini merajuk, dia kalah dia merajuk. Sebenarnya sekarang ini, awak tahu, naratif "merajuk" semua ini hanya cybertroopers dan "ceplos" sahaja yang duduk hantar — awak dah tak dengar sangat, sebab saya rasa sepanjang 10 bulan lepas ini lah, orang dah nampak sebenarnya ada isu dalaman yang besar. Dan bezanya ialah saya memilih untuk tidak berdiam diri — soal Farha, soal Rahmanan, soal Tan Sri Azam Baki, soal kes-kes campur tangan semua ini kan. Jadi orang faham sebenarnya pertelingkahan itu bukan mengenai pemilihan PKR. Ia sebenarnya ada perkara yang lebih besar yang bersabit dengan tadbir urus, tentang amanah, tentang reformasi kan. Bila ada perkara-perkara ini, ia mengesahkannya.
 
 Dan yang lebih berbahaya ialah — ada dua kumpulan. Satu kumpulan yang pernah melalui Reformasi 1998, sama ada yang berumur macam saya, 50-an, ataupun yang lebih tua, 60-70-an — mereka akan rasa, "sebenarnya benda yang berlaku ini dulu macam ini lah." Ia soal dinamik kuasa — siapa yang ada kuasa di atas, kalau ada orang yang berani mempersoalkan dia, "aku akan ajar kau," dan dia ajar dengan mendakwa, dilanyak cukup-cukup supaya dah belajar, lepas itu duduk diam-diam. Itu satu kumpulan, dan ia akan membawa balik ingatan 90-an, 98, dan mengingatkan kenapa sebenarnya orang minta supaya sistem dan budaya kuasa ini mesti ditukar. Tapi yang lebih berbahaya ialah budak-budak Gen Z, sebab budak-budak Gen Z sebenarnya tak pernah ada memori atau tak pernah "mengambil pot" pasal reformasi 90-an, 80-an dulu. Awak perkenalkan macam mana dia nampak bagaimana SPRM ini sebagai satu instrumen yang telah "diperalatkan" (weaponized). Yang patut disiasat, tak disiasat. Yang patut keluar laporan — soal Tan Sri Azam Baki — disembunyikan mati-matian, macam mana pun, sampai sekarang tak keluar, tak ambil tindakan. Tapi tambah pula isu ARM ini pasal semikonduktor, yang orang faham ini untuk masa depan — budak-budak lebih seronok dapat gaji lebih tinggi, semua di negara Malaysia kan, banyak generasi baharu sekarang.
 
-**Speaker 4:** Banyak bekerja dalam TVET pun. Haa, jadi dia lebih faham. Lepas itu dia tengok, buat pertama kali dia melalui sendiri episod demi episod.
+**Amin Sahmat:** Banyak bekerja dalam TVET pun. Haa, jadi dia lebih faham. Lepas itu dia tengok, buat pertama kali dia melalui sendiri episod demi episod.
 
 **Rafizi:** Yang memahamkan dia untuk membunuh pandangan yang tidak bersetuju (dissenting view), suara yang tidak bersetuju ataupun suara yang berpandangan lain kan. Jadi, awak akan berakhir dengan kesan rangkaian juga lah — maksudnya, daripada hanya satu generasi yang faham, sekarang orang lebih faham tentang kenapa perlunya reformasi institusi, kenapa dalam budaya politik dan kuasa negara kita ini, benda-benda ini boleh berlaku. Saya sebenarnya lebih terbuka sekarang lah — ini sebahagian daripada apa yang perlu berlaku. Cuma kepada pendengar, takut-takut minggu depan, kalau buat pertama kalinya kita tergelincir, tak boleh nak buat podcast — takut saya dah kena tahan ataupun dah kena dakwa masa itu kan.
 
-**Afiq:** Kau jangka dia akan tahan sampai seminggu?
+**Wan Afiq:** Kau jangka dia akan tahan sampai seminggu?
 
 **Rafizi:** Saya tak tahu, awak tak boleh nak agak. Awak tak boleh nak agak sama sekali lah kan.
 
-**Afiq:** Kalau dia buat macam itu, langkah politik.
+**Wan Afiq:** Kalau dia buat macam itu, langkah politik.
 
 **Rafizi:** Tapi saya tak rasa Azam Baki peduli pun, saya rasa dia sangat peribadi sekarang — sampai kes SOGO pun dia komen, benda yang patut dia tak komen, dia komen kan. Boleh remankan dia. Jadi, menjelang minggu depan tu awak tak boleh nak agak lah kan. Dulu masa 1MDB, dulu kali terakhir saya kena tahan, tapi masa itu bukan SPRM lah, masa itu PDRM — masa itu dia reman 5 hari.
 
-**Afiq:** Eh, kalau ada anak muda nak pergi juga, nak bagi sokongan kat YB?
+**Wan Afiq:** Eh, kalau ada anak muda nak pergi juga, nak bagi sokongan kat YB?
 
 **Rafizi:** Pergi dekat luar pagar lah, jangan masuk. Ini satu lagi orang tak faham sebenarnya kan — orang penonton selalu kata lah, "masa James, oh sila bawa peguam, oh sila itu." Sebenarnya, akta SPRM tak sama dengan penal code, kanun kesiksaan, akta-akta lain tahu. Satu, awak tak boleh bawa peguam — awak masuk memang seorang diri, tak boleh bawa peguam. Kedua, awak tidak ada pilihan untuk tidak menjawab. Kalau akta-akta lain macam kanun kesiksaan, dia ada seksyen — maksudnya kalau polis tanya, awak boleh kata "saya menggunakan hak saya untuk tidak menjawab sekarang dan akan menjawab di mahkamah." Polis tak boleh buat apa, direkodkan itu saja. Akta SPRM tak boleh macam itu — kalau dia tanya, awak kena jawab. Kalau tak jawab, dia boleh dakwa awak kerana tidak menjawab, dan itu satu kesalahan, terus didakwa di mahkamah. Jadi peguam pun tak boleh — dia tak ada Hak Miranda. Ini benda-benda yang nanti kita kena tengok balik lah — satu hari nanti, bila kuasa yang begitu besar diberikan kepada SPRM, daripada tak ada Hak Miranda, kan, yang kemudian dia boleh bekukan akaun siapa-siapa yang dia nak, dia tak perlu pergi jumpa hakim, dia boleh buat keputusan sendiri — kompaun itu yang pernah berlaku, macam dalam Bersatu itu, menantu, bukan menantu, macam anak saudara, anak sepupu macam itu, ambil 6 juta lebih, bayar kompaun lepas itu 4 juta — jadi kompaun pun Ketua Pengarah SPRM, Ketua Pesuruhjaya, semua dia yang tentukan. Kuasa sangat besar. Jadi ini antara benda-benda yang kita kena tengok balik. Jadi sebab itu ada hikmahnya lah saya kena — biar saya pergi, saya tengok perangai pegawai penyiasat, cara dia, semua. Biarkan saya lalui proses ini, undang-undang, kemudian bila dia dakwa, semua itu memberi kita lebih maklumat untuk masa depan — kita nak mengawal kuasa-kuasa yang sekarang ini. Bila tidak dikawal, itulah yang mewujudkan masalah mafia, korporat, semua yang ada ini lah, sebab SPRM orang takut sangat — panggil saja sebab dia boleh bekukan akaun macam itu je, kemudian bila dah bekukan akaun itu, orang dah takut semua, kena lah, boleh nego lah, nego. Jadi itulah — kita harap minggu depan kita akan jumpa balik lah di podcast, tapi kalau tak, kalau saya tak ada pun minggu depan, kemudian korang buat podcast biasa lah, teruskan sahajalah — kita buat pokok depan SPRM, siaran langsung.
 
-**Afiq:** Boleh. Jadi, YB, kita dah berapa jam? Kita dah tiga jam empat minit.
+**Wan Afiq:** Boleh. Jadi, YB, kita dah berapa jam? Kita dah tiga jam empat minit.
 
 **Speaker 3:** Maaf, soalan terakhir — YB nak tanya secara peribadi, YB, mentally prepared? Okay ke? Apa perasaan YB terpaksa melalui semua ini?
 
@@ -683,16 +682,16 @@ Dan yang lebih berbahaya ialah — ada dua kumpulan. Satu kumpulan yang pernah m
 
 Jadi saya rasa, kalau awak tak buat salah — sebenarnya tiada apa-apa yang perlu dikhuatirkan. Kalau awak tak buat salah, dan kalau niat itu betul — insyaAllah, awak tahu awak tak buat salah dan niat itu betul, kalau tak hari ini, minggu depan, dan pada suatu saat di masa depan, kebenaran akan keluar. Jadi sebenarnya, strategi terbaik dan persediaan terbaik adalah untuk memberitahu kebenaran. Kalau awak rasa benda itu betul, maka memang awak tak menipu ke apa semua, maka awak kekal dengan itu. Ya lah, awak tahu, awak mungkin dikelilingi oleh orang yang paling berkuasa, dia boleh buat apa-apa sahaja kan, tapi masa akan berpihak kepada awak satu hari nanti lah. Jadi saya rasa itulah sikap saya, saya tak rasa apa-apa. Dan kita akan lalui ini, dan saya hanya harap, nak dakwa, dakwalah kan — awak tak ada apa-apa untuk hilang lah, saya sebenarnya tak ada apa-apa untuk hilang.
 
-**Afiq:** Jadi boleh lah — episod seterusnya kita akan kemas kini apa SPRM tanya.
+**Wan Afiq:** Jadi boleh lah — episod seterusnya kita akan kemas kini apa SPRM tanya.
 
 **Rafizi:** Itu nak kena semak — dalam akta tak boleh, oh maaf, akta tak boleh, peguam tak boleh — tak, peguam tahulah. Sebab itu awak perasan saya tak pernah buat laporan SPRM, sebab itulah tujuannya — kalau saya bawa semua bukti, saya pergi lapor kepada SPRM, memang saya dah tak boleh bercakap, dia tutup fail, mampus sahaja kes itu. Sebab itu sebabnya, akta SPRM — lepas awak disoal siasat, awak tak boleh bercakap. Sebab itu saya nak kena beri amaran awal-awal, cakap awal-awal, lepas itu dah tak boleh komen. Sebab itu James, wartawan duduk tanya, media, dia tak boleh sebut apa — sama macam ketiadaan Hak Miranda, kalau ditanya tak jawab, kena; kalau bagi kenyataan lepas itu, kena — semua. Sebab itu tak apa, insyaAllah, kalau umur dan nyawa kita panjang, kita akan tengok balik akta SPRM ini, supaya tak berlaku lagi lah watak seperti Tan Sri Azam Baki, dan SPRM ini tak jadi macam yang ada sekarang ini lah, insyaAllah.
 
-**Afiq:** Okay, YB — jadi YB, kita dah penutup. Jadi terima kasih, itu sajalah kunci. Selamat malam semua. Saya minta maaf kalau saya banyak buat silap, saya masih belajar, kena pasang sarikata.
+**Wan Afiq:** Okay, YB — jadi YB, kita dah penutup. Jadi terima kasih, itu sajalah kunci. Selamat malam semua. Saya minta maaf kalau saya banyak buat silap, saya masih belajar, kena pasang sarikata.
 
 **Rafizi:** Faham, nanti dia letak sarikata. Tapi tak apalah, kesan rangkaian — mungkin sebab malam ini orang Besut, Kelantan jadi moderator, penonton kita daripada Kelantan dan Terengganu ramai sikit kot malam ini, lebih difahami.
 
-**Afiq:** Okay.
+**Wan Afiq:** Okay.
 
 **Rafizi:** Baik.
 
-**Afiq:** Jadi, itu sajalah. Selamat malam semua. Okay, terima kasih.
+**Wan Afiq:** Jadi, itu sajalah. Selamat malam semua. Okay, terima kasih.

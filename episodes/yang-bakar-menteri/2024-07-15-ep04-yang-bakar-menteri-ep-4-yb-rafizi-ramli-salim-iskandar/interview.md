@@ -9,8 +9,8 @@ duration: 1h 22m
 view_count: 91347
 hosts:
 - Rafizi
-guests:
 - Haziq
+guests:
 - Salim Iskandar
 topics:
 - Sungai Bakap and Kuala Kubu Bharu By-Election Analysis

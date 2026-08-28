@@ -62,7 +62,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [06:00] Haziq: Okey baik YB. Kita tengok yang seterusnya. Tauke kedai mop lantai, indicator ekonomi tak menentu.
 
-[06:07] Rafizi: Ini siapa yang ambil? Oh, Roziah Ismail Facebook. Kantoi ambil. Gambar nilah.
+[06:07] Rafizi: Ini siapa yang ambil? Oh, Rodziah Ismail Facebook. Kantoi ambil. Gambar nilah.
 
 [06:16] Haziq: YB, ni betul-betul mop ke atau stand politik aje?
 

@@ -10,7 +10,7 @@ view_count: 114371
 hosts:
 - Rafizi
 - Haziq
-- Haziq
+- Farhan (Pa'an)
 guests: []
 topics:
 - Parliament debate over monument nose controversy
@@ -114,7 +114,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Taman Tasik Perdana, itu pun payah, sebab dia kuat hilly semua lah. Kalau hiking kat dalam tu okey, sebaiknya flat track lah lagi mudah kan. So tak tahulah dalam parlimen lain jogging kat situ kan.
 
-**Host:** Ok baik. Kita tengok yang seterusnya — the floor-mopping shop, the indicator that the economy is uncertain. Who took this? Oh, Roziah Ismail Facebook. So the office took this picture. But is this really a mob, or a political stunt?
+**Host:** Ok baik. Kita tengok yang seterusnya — the floor-mopping shop, the indicator that the economy is uncertain. Who took this? Oh, Rodziah Ismail Facebook. So the office took this picture. But is this really a mob, or a political stunt?
 
 **Rafizi:** No, no, no, it's really a mob, because kita dapat kedai ni siap dalam 3 hari sebelum nak lancar. Boleh je nak buat macam — yelah, bisnes lain, tunggu 1 bulan nak sedia, lepas tu baru nak lancar. Tapi ni social enterprise — kalau bayar sewa satu bulan tanpa ada hasil, payahlah kedai itu. Jadi memang saya tetapkan jadual masa yang sangat pendek. Dapat kedai itu tiga hari sebelum itu, barang, equipment, dapur semua sampai dua hari sebelum. Jadi, and this is one day before the opening, right? So in all the chaos, where you have people piled up in the kitchen, all that, there was no one to mop the floor. So me and my wife — I was actually directed by my wife.
 

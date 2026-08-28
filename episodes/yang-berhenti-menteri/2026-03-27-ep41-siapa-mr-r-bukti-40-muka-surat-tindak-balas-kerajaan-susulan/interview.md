@@ -9,9 +9,9 @@ duration_seconds: 11048
 duration: 3h 4m
 view_count: 177475
 hosts:
-- Rafizi Ramli
-guests:
-- Farhan
+- Rafizi
+- Farhan (Pa'an)
+guests: []
 topics:
 - PKR internal politics and 'Beria' rankings
 - Fuziah Salleh's defamation threat and legal precedent barring parties from suing
@@ -69,189 +69,189 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Farhan:** Assalamualaikum dan selamat hari raya. Podcast Yang Berhormat, episod ke-41. Kau pakai baju raya lagi?
+**Farhan (Pa'an):** Assalamualaikum dan selamat hari raya. Podcast Yang Berhormat, episod ke-41. Kau pakai baju raya lagi?
 
-**Rafizi Ramli:** Saya... YB dah habis beraya, saya belum lagi. Raya aku diganggu dengan... dengan isu Mr. R ni.
+**Rafizi:** Saya... YB dah habis beraya, saya belum lagi. Raya aku diganggu dengan... dengan isu Mr. R ni.
 
-**Farhan:** Kita orang tak koordinat pun, tapi memang dua-dua pakai baju merah. Sebab sepatutnya memang terbakar!
+**Farhan (Pa'an):** Kita orang tak koordinat pun, tapi memang dua-dua pakai baju merah. Sebab sepatutnya memang terbakar!
 
-**Rafizi Ramli:** Ya, dan saya dah takut dah, YB. Bila YB buat pendedahan pun, saya tengok media macam nak report, tak report. Tapi YB, dalam keadaan semalam dah buat pendedahan, hari ini nak buat lagi.
+**Rafizi:** Ya, dan saya dah takut dah, YB. Bila YB buat pendedahan pun, saya tengok media macam nak report, tak report. Tapi YB, dalam keadaan semalam dah buat pendedahan, hari ini nak buat lagi.
 
-**Farhan:** Kita nak sambung lagi hari ini, walaupun saya letih. Walaupun kita dah terangkan dengan dua video panjang lebar, netizen masih lagi tanya siapa MP yang "Mr. R" ni. Ini kalau ambil peperiksaan SPM pun, ramai yang tak lepas lah.
+**Farhan (Pa'an):** Kita nak sambung lagi hari ini, walaupun saya letih. Walaupun kita dah terangkan dengan dua video panjang lebar, netizen masih lagi tanya siapa MP yang "Mr. R" ni. Ini kalau ambil peperiksaan SPM pun, ramai yang tak lepas lah.
 
-**Farhan:** Mungkin sebab nama dia memang start dengan R.
+**Farhan (Pa'an):** Mungkin sebab nama dia memang start dengan R.
 
-**Rafizi Ramli:** So dia dah lekat dekat kepala. Tak apa, itu nanti akan ada QR code. Saya faham kekeliruan itu berlaku kerana tak ramai orang yang telah membaca sepenuhnya dokumen 40 muka surat itu. Dan 40 muka surat itu memang memberi penerangan yang jelas, dan kita boleh faham siapa "Mr. R" dan ahli parlimen yang dituduh mengambil RM9.5 juta. Kemudian, saya tak tahu orang lain, tetapi saya juga ada dokumen-dokumen sokongan, termasuklah arahan-arahan rasmi ini yang belum pernah didedahkan kepada sesiapa. Saya memang dah dapat benda itu — cuma media yang melaporkan dahulu. Saya tak pasti sama ada media dapat dokumen itu atau tidak, tapi saya memang ada dokumen tersebut, dan ia belum lagi disebut langsung sebenarnya — sangat-sangat "terbakar", panas dan meletup. Jadi kita akan bagi QR code nanti supaya penonton boleh muat turun dan baca sendiri 40 muka surat itu, dan kita minta disebarkan kepada semua. Dokumen 40 muka surat itu memberi rujukan dan dokumen sokongan bagi setiap perkara yang berlaku, tetapi saya tak akan kongsi semuanya — sebab jatuh "peluru simpan."
+**Rafizi:** So dia dah lekat dekat kepala. Tak apa, itu nanti akan ada QR code. Saya faham kekeliruan itu berlaku kerana tak ramai orang yang telah membaca sepenuhnya dokumen 40 muka surat itu. Dan 40 muka surat itu memang memberi penerangan yang jelas, dan kita boleh faham siapa "Mr. R" dan ahli parlimen yang dituduh mengambil RM9.5 juta. Kemudian, saya tak tahu orang lain, tetapi saya juga ada dokumen-dokumen sokongan, termasuklah arahan-arahan rasmi ini yang belum pernah didedahkan kepada sesiapa. Saya memang dah dapat benda itu — cuma media yang melaporkan dahulu. Saya tak pasti sama ada media dapat dokumen itu atau tidak, tapi saya memang ada dokumen tersebut, dan ia belum lagi disebut langsung sebenarnya — sangat-sangat "terbakar", panas dan meletup. Jadi kita akan bagi QR code nanti supaya penonton boleh muat turun dan baca sendiri 40 muka surat itu, dan kita minta disebarkan kepada semua. Dokumen 40 muka surat itu memberi rujukan dan dokumen sokongan bagi setiap perkara yang berlaku, tetapi saya tak akan kongsi semuanya — sebab jatuh "peluru simpan."
 
-**Farhan:** Peluru simpan — maksudnya banyak lagi, ya?
+**Farhan (Pa'an):** Peluru simpan — maksudnya banyak lagi, ya?
 
-**Rafizi Ramli:** Belajarlah daripada Iran — mula-mula hantar drone dulu. Lepas tu bila pihak lawan dah "huang-huang-huang," baru kau hantar misel.
+**Rafizi:** Belajarlah daripada Iran — mula-mula hantar drone dulu. Lepas tu bila pihak lawan dah "huang-huang-huang," baru kau hantar misel.
 
-**Farhan:** Baik, YB. So, raya okey?
+**Farhan (Pa'an):** Baik, YB. So, raya okey?
 
-**Rafizi Ramli:** Raya saya pun okey lah. Konsep raya dalam keluarga saya memang sangat bersederhana — maksudnya raya adalah untuk adik-beradik balik. Jadi bila adik-beradik semua balik, habis, kita orang memang sama-sama je, tak... tak terima tetamu dari luar.
+**Rafizi:** Raya saya pun okey lah. Konsep raya dalam keluarga saya memang sangat bersederhana — maksudnya raya adalah untuk adik-beradik balik. Jadi bila adik-beradik semua balik, habis, kita orang memang sama-sama je, tak... tak terima tetamu dari luar.
 
-**Farhan:** Tak terima tetamu?
+**Farhan (Pa'an):** Tak terima tetamu?
 
-**Rafizi Ramli:** Over the years, orang dah tahu — masa diorang beraya, ini je masanya untuk adik-beradik dan keluarga diorang sendiri. Jadi walaupun semua orang duduk di luar pun, semua sibuk. Disiplin adik-beradik saya dan mak ayah saya dari dulu ialah kami tak mengganggu masing-masing — sebab itu kita orang tak ada WhatsApp group ke, apa ke, semua ni tak ada. Jadi bila balik lima-enam kali setahun, itulah masa semua ada; dua-tiga hari itulah yang betul-betul fokus, dan orang pun jarang datang, tak ramai.
+**Rafizi:** Over the years, orang dah tahu — masa diorang beraya, ini je masanya untuk adik-beradik dan keluarga diorang sendiri. Jadi walaupun semua orang duduk di luar pun, semua sibuk. Disiplin adik-beradik saya dan mak ayah saya dari dulu ialah kami tak mengganggu masing-masing — sebab itu kita orang tak ada WhatsApp group ke, apa ke, semua ni tak ada. Jadi bila balik lima-enam kali setahun, itulah masa semua ada; dua-tiga hari itulah yang betul-betul fokus, dan orang pun jarang datang, tak ramai.
 
-**Farhan:** Ada orang ambush?
+**Farhan (Pa'an):** Ada orang ambush?
 
-**Rafizi Ramli:** Ada juga. Rumah saya, rumah mak ayah saya, ada pintu depan dan pintu pagar, pintu depan dan pintu belakang, dan tanahnya agak besar — ada jalan yang mengelilingi rumah tu. Aku ingat hari raya pertama tu aku dah pandai, aku duduk belakang. Tapi ada juga yang ambush — tapi tenang lah, tak ada apa. Cuma masa nak balik raya tu, raya pun terkejut juga sebab aku salah predik — aku confident hari raya jatuh hari Jumaat, sangkut dekat Gombak tiga jam jugalah, kena masuk jalan kampung Orang Asli, semua kosong. Sebab balik awal jugalah, balik hari raya kedua.
+**Rafizi:** Ada juga. Rumah saya, rumah mak ayah saya, ada pintu depan dan pintu pagar, pintu depan dan pintu belakang, dan tanahnya agak besar — ada jalan yang mengelilingi rumah tu. Aku ingat hari raya pertama tu aku dah pandai, aku duduk belakang. Tapi ada juga yang ambush — tapi tenang lah, tak ada apa. Cuma masa nak balik raya tu, raya pun terkejut juga sebab aku salah predik — aku confident hari raya jatuh hari Jumaat, sangkut dekat Gombak tiga jam jugalah, kena masuk jalan kampung Orang Asli, semua kosong. Sebab balik awal jugalah, balik hari raya kedua.
 
-**Farhan:** Oh, awal.
+**Farhan (Pa'an):** Oh, awal.
 
-**Rafizi Ramli:** Kita orang pun ada masalah — kalau tak balik hari raya kedua, maksudnya dah tiga hari kita orang tinggalkan kucing.
+**Rafizi:** Kita orang pun ada masalah — kalau tak balik hari raya kedua, maksudnya dah tiga hari kita orang tinggalkan kucing.
 
-**Farhan:** Oh ya, adik YB kena jaga balik kucing.
+**Farhan (Pa'an):** Oh ya, adik YB kena jaga balik kucing.
 
-**Rafizi Ramli:** Tapi banyak sangatlah, kan. Kucing adik saya tu kucing "T5" — betul-betul groom, cantik, dan behave, macam puteri je duduk tengok orang. Kalau bawa balik kampung, habislah — kucing bandar datang kampung. Kucing aku pulak memang kucing kampung yang masuk rumah bandar, jadi dia masih tak reti nak menyesuaikan diri.
+**Rafizi:** Tapi banyak sangatlah, kan. Kucing adik saya tu kucing "T5" — betul-betul groom, cantik, dan behave, macam puteri je duduk tengok orang. Kalau bawa balik kampung, habislah — kucing bandar datang kampung. Kucing aku pulak memang kucing kampung yang masuk rumah bandar, jadi dia masih tak reti nak menyesuaikan diri.
 
-**Farhan:** Kucing bandar datang kampung lah ni!
+**Farhan (Pa'an):** Kucing bandar datang kampung lah ni!
 
-**Rafizi Ramli:** Baik, okey.
+**Rafizi:** Baik, okey.
 
-**Farhan:** Jom kita tengok dulu "Beria." Mungkin ini kali pertama YB calonkan semua sekali, sebab risau nanti ucapan raya YB sendiri pun termasuk dalam "Beria." Jadi disebabkan YB calonkan semua, tak adalah — terima kasih.
+**Farhan (Pa'an):** Jom kita tengok dulu "Beria." Mungkin ini kali pertama YB calonkan semua sekali, sebab risau nanti ucapan raya YB sendiri pun termasuk dalam "Beria." Jadi disebabkan YB calonkan semua, tak adalah — terima kasih.
 
-**Farhan:** Yang pertama, ini "main contender," awal-awal dah masuk ni. Jangan tuduh nanti kena saman pulak — ini patutnya letak last, tapi tak apalah. Yang ini ekoran daripada pendedahan dan laporan mengenai seorang ahli parlimen PKR yang menerima RM9.5 juta. Beberapa hari lepas keluar kenyataan, "PKR threatens legal action over slander against party leadership." Belum apa-apa dah "slander" pulak.
+**Farhan (Pa'an):** Yang pertama, ini "main contender," awal-awal dah masuk ni. Jangan tuduh nanti kena saman pulak — ini patutnya letak last, tapi tak apalah. Yang ini ekoran daripada pendedahan dan laporan mengenai seorang ahli parlimen PKR yang menerima RM9.5 juta. Beberapa hari lepas keluar kenyataan, "PKR threatens legal action over slander against party leadership." Belum apa-apa dah "slander" pulak.
 
-**Farhan:** Sebab dia "beria" ni ialah... seingat kita — correct me if I'm wrong — yang tengok ni semua kan, memang ada keputusan mahkamah bahawa parti tidak boleh menyaman atas fitnah?
+**Farhan (Pa'an):** Sebab dia "beria" ni ialah... seingat kita — correct me if I'm wrong — yang tengok ni semua kan, memang ada keputusan mahkamah bahawa parti tidak boleh menyaman atas fitnah?
 
-**Rafizi Ramli:** Ya, kes Lim Guan Eng lawan Chua Soi Lek di Federal Court punya judgment lah. Kalau saya boleh explain sikit...
+**Rafizi:** Ya, kes Lim Guan Eng lawan Chua Soi Lek di Federal Court punya judgment lah. Kalau saya boleh explain sikit...
 
-**Farhan:** Dia lulusan undang-undang, ini masanya nak tunjuk sikit action.
+**Farhan (Pa'an):** Dia lulusan undang-undang, ini masanya nak tunjuk sikit action.
 
-**Rafizi Ramli:** Silakan, silakan.
+**Rafizi:** Silakan, silakan.
 
-**Farhan:** Action sikit lah, dah study awal-awal.
+**Farhan (Pa'an):** Action sikit lah, dah study awal-awal.
 
-**Rafizi Ramli:** Jadi ini keputusan mahkamah — ada dua ground kenapa parti tak boleh saman. Pertama, Federal Court berpandangan bahawa untuk mewujudkan "right balance," maksudnya individu itu sendiri sudah boleh menyaman, jadi tak perlu parti politik diberi akses juga untuk menyaman. Kedua, ini juga untuk "preserve" apa yang kita panggil "value of democracy," sebab parti politik ada jentera, ada akses, ada media, boleh buat sidang media untuk mempertahankan diri. Ini masalah tentang individu — individu ada hak untuk menyaman.
+**Rafizi:** Jadi ini keputusan mahkamah — ada dua ground kenapa parti tak boleh saman. Pertama, Federal Court berpandangan bahawa untuk mewujudkan "right balance," maksudnya individu itu sendiri sudah boleh menyaman, jadi tak perlu parti politik diberi akses juga untuk menyaman. Kedua, ini juga untuk "preserve" apa yang kita panggil "value of democracy," sebab parti politik ada jentera, ada akses, ada media, boleh buat sidang media untuk mempertahankan diri. Ini masalah tentang individu — individu ada hak untuk menyaman.
 
 Jadi Fuziah Saleh ni "beria-ia" buat kenyataan nak saman ni. Dia ni tak semak dulu ke, ataupun PKR dah tak ada peguam sekarang? Ramai-ramai peguam PKR ni semua dah lari, kan?
 
-**Farhan:** Betul kan.
+**Farhan (Pa'an):** Betul kan.
 
-**Rafizi Ramli:** Jadi apa nak cakap kat Kak Ji ni? Kena buat homework dulu kot.
+**Rafizi:** Jadi apa nak cakap kat Kak Ji ni? Kena buat homework dulu kot.
 
-**Farhan:** Sila masuk gua untuk seminggu.
+**Farhan (Pa'an):** Sila masuk gua untuk seminggu.
 
-**Rafizi Ramli:** Kerana kesilapan sebegini tidak sepatutnya dibuat oleh seorang Setiausaha Agung parti pemerintah. Kalau ia datang daripada parti "di hulu-curut-tokun," aku faham lah — mungkin dia tak ada peguam ke apa. Tapi yang ini, sepanjang-panjang saya dedah, buat "exposé," saya memang tahu parti politik tak boleh nak saman. Jadi "beria" sia-sia je — berapa perenggan tu? Satu, dua, tiga, empat, lima — lima perenggan yang "beria-ia" tetapi sia-sia.
+**Rafizi:** Kerana kesilapan sebegini tidak sepatutnya dibuat oleh seorang Setiausaha Agung parti pemerintah. Kalau ia datang daripada parti "di hulu-curut-tokun," aku faham lah — mungkin dia tak ada peguam ke apa. Tapi yang ini, sepanjang-panjang saya dedah, buat "exposé," saya memang tahu parti politik tak boleh nak saman. Jadi "beria" sia-sia je — berapa perenggan tu? Satu, dua, tiga, empat, lima — lima perenggan yang "beria-ia" tetapi sia-sia.
 
-**Farhan:** Mungkin ada KPI setiap minggu kena keluar media berapa kali.
+**Farhan (Pa'an):** Mungkin ada KPI setiap minggu kena keluar media berapa kali.
 
-**Rafizi Ramli:** Tak tahulah, mungkin dia ditekan kot — husnuzan kita lah, mungkin dia ditekan. Macam-macam andaian sekarang. Di Malaysia memang jelas bahawa parti politik tidak boleh saman pengkritik, hatta fitnah sekalipun, kerana bila sesuatu fitnah itu dikenakan, selalunya ia merujuk kepada seorang individu atau pimpinan di dalam parti politik itu — biarlah individu itu sendiri yang menyaman.
+**Rafizi:** Tak tahulah, mungkin dia ditekan kot — husnuzan kita lah, mungkin dia ditekan. Macam-macam andaian sekarang. Di Malaysia memang jelas bahawa parti politik tidak boleh saman pengkritik, hatta fitnah sekalipun, kerana bila sesuatu fitnah itu dikenakan, selalunya ia merujuk kepada seorang individu atau pimpinan di dalam parti politik itu — biarlah individu itu sendiri yang menyaman.
 
-**Farhan:** Ya, "beria" baby, "beria" contender — jangan terkejut, kita ada lagi "next." Tetamu kita minggu ini... tapi yang mana ni? "Anak buah backup bos" ke "bos backup anak buah"? Biasanya anak buah yang backup bos, kan — selalu anak buah backup bos. Tapi ini di zaman Madani lagi hebat, kerana bos pulak yang backup anak buah.
+**Farhan (Pa'an):** Ya, "beria" baby, "beria" contender — jangan terkejut, kita ada lagi "next." Tetamu kita minggu ini... tapi yang mana ni? "Anak buah backup bos" ke "bos backup anak buah"? Biasanya anak buah yang backup bos, kan — selalu anak buah backup bos. Tapi ini di zaman Madani lagi hebat, kerana bos pulak yang backup anak buah.
 
-**Rafizi Ramli:** Tengoklah anak buah mana pulak ni.
+**Rafizi:** Tengoklah anak buah mana pulak ni.
 
-**Farhan:** Ini anak buah kesayangan — anak emas berkilau-kilau, kan. Anwar Ibrahim reposted sidang media khas Menteri Sumber Manusia.
+**Farhan (Pa'an):** Ini anak buah kesayangan — anak emas berkilau-kilau, kan. Anwar Ibrahim reposted sidang media khas Menteri Sumber Manusia.
 
-**Rafizi Ramli:** Sepatutnya lah kan. Kau perasan lah, aku tak pernah repost apa-apa daripada orang di luar yang banyak membantu saya menyebarkan maklumat, mengikuti komen semua — jangan kecil hati, kerana saya memang jarang untuk repost, tambah-tambah kalau pimpinan parti sendiri ataupun ahli politik. Kerana saya percaya bahawa kita masing-masing kena bina kekuatan masing-masing, itu satu. Yang kedua, repost itu kalau tidak berhati-hati, ia jadi "endorsement." Satu lagi, "guilt by association." Tambah kalau macam ini contohnya — bila Perdana Menteri repost sidang media khas Ramanan, sebenarnya dia tak tahu pun Ramanan cakap apa masa itu, kerana ia sedang berlaku secara langsung. Dan dengan mutu serta benda-benda yang Ramanan cakap masa sidang media itu, ia jadi seperti "endorsement" ataupun "guilt by association" kepada Anwar Ibrahim.
+**Rafizi:** Sepatutnya lah kan. Kau perasan lah, aku tak pernah repost apa-apa daripada orang di luar yang banyak membantu saya menyebarkan maklumat, mengikuti komen semua — jangan kecil hati, kerana saya memang jarang untuk repost, tambah-tambah kalau pimpinan parti sendiri ataupun ahli politik. Kerana saya percaya bahawa kita masing-masing kena bina kekuatan masing-masing, itu satu. Yang kedua, repost itu kalau tidak berhati-hati, ia jadi "endorsement." Satu lagi, "guilt by association." Tambah kalau macam ini contohnya — bila Perdana Menteri repost sidang media khas Ramanan, sebenarnya dia tak tahu pun Ramanan cakap apa masa itu, kerana ia sedang berlaku secara langsung. Dan dengan mutu serta benda-benda yang Ramanan cakap masa sidang media itu, ia jadi seperti "endorsement" ataupun "guilt by association" kepada Anwar Ibrahim.
 
 Satu lagi lah kan — ini yang aku tak faham, yang belum dijawab. Semasa saya jadi menteri dulu, jadual itu padat, tau — daripada pukul 8 lebih sampai pukul 10 malam. Kalau saya kadang-kadang masam muka, itu sebab jadual disusun bertubi-tubi sampai nak makan tengah hari pun tak ada masa. Kalau ada break pun untuk solat sekejap, kemudian makan sekejap, berturusan. Jadi memang tak ada masa nak "chat" media sosial pun.
 
-**Farhan:** PM kita ni banyak repost ni — maksudnya dalam tengah mesyuarat ke, eh Ramanan nak buat PC ni, "support, support, support," kan? Dia berada dalam WhatsApp group yang dapat arahan "sila repost sekarang"?
+**Farhan (Pa'an):** PM kita ni banyak repost ni — maksudnya dalam tengah mesyuarat ke, eh Ramanan nak buat PC ni, "support, support, support," kan? Dia berada dalam WhatsApp group yang dapat arahan "sila repost sekarang"?
 
-**Rafizi Ramli:** Jadi yang itu saya tak faham. Tapi joke aside, maksud saya... saya tak pasti — ni pukul berapa ni?
+**Rafizi:** Jadi yang itu saya tak faham. Tapi joke aside, maksud saya... saya tak pasti — ni pukul berapa ni?
 
-**Farhan:** Pukul 2.26.
+**Farhan (Pa'an):** Pukul 2.26.
 
-**Rafizi Ramli:** Maksudnya besar kemungkinan PM ada mesyuarat lain. Yang mungkin berlaku ialah Dato' Seri Anwar ni dah hilang kawalan dengan media sosial dia sendiri, dan dia dikelilingi oleh orang-orang yang memang dah berpihak — mungkin kepada Ramanan dalam kes ini — jadi mereka pandai-pandai repost. Jadi mungkin bukan PM, ini mungkin "Cepslos" yang repost. Masalahnya, sampai bila Dato' Seri Anwar nak kata "bukan saya, ini orang lain," kerana kita sendiri yang memilih siapa yang berada di sekeliling kita. Kalau aset yang paling penting — iaitu media sosial — bagi seorang ahli politik sekarang, aset paling penting adalah "digital asset." Kalau akses kepada "digital assets" pun kita tak tahu siapa yang kawal, sehingga perkara ini boleh berlaku, ia akan terus jadi bahan "beria."
+**Rafizi:** Maksudnya besar kemungkinan PM ada mesyuarat lain. Yang mungkin berlaku ialah Dato' Seri Anwar ni dah hilang kawalan dengan media sosial dia sendiri, dan dia dikelilingi oleh orang-orang yang memang dah berpihak — mungkin kepada Ramanan dalam kes ini — jadi mereka pandai-pandai repost. Jadi mungkin bukan PM, ini mungkin "Cepslos" yang repost. Masalahnya, sampai bila Dato' Seri Anwar nak kata "bukan saya, ini orang lain," kerana kita sendiri yang memilih siapa yang berada di sekeliling kita. Kalau aset yang paling penting — iaitu media sosial — bagi seorang ahli politik sekarang, aset paling penting adalah "digital asset." Kalau akses kepada "digital assets" pun kita tak tahu siapa yang kawal, sehingga perkara ini boleh berlaku, ia akan terus jadi bahan "beria."
 
-**Farhan:** Satu, satu, satu.
+**Farhan (Pa'an):** Satu, satu, satu.
 
-**Rafizi Ramli:** Yang ini sepatutnya, nasihat saya, kena terbalik — biarlah anak buah yang backup bos, bukannya bos yang backup anak buah. Dato' Seri Anwar diserang kiri-kanan, tapi kita tak nampak pun Ramanan ke, Fahmi Fadzil ke, naib presiden yang lain ke, ataupun pimpinan kanan PKR backup bosnya. Malah kalau kita tengok, banyak episodnya ialah Anwar Ibrahim yang kena backup orang-orang yang dia pikul ni — dulu Fadlina, sekarang Ramanan.
+**Rafizi:** Yang ini sepatutnya, nasihat saya, kena terbalik — biarlah anak buah yang backup bos, bukannya bos yang backup anak buah. Dato' Seri Anwar diserang kiri-kanan, tapi kita tak nampak pun Ramanan ke, Fahmi Fadzil ke, naib presiden yang lain ke, ataupun pimpinan kanan PKR backup bosnya. Malah kalau kita tengok, banyak episodnya ialah Anwar Ibrahim yang kena backup orang-orang yang dia pikul ni — dulu Fadlina, sekarang Ramanan.
 
-**Farhan:** Beria, beria. Baik, kita ada "next" lagi — masih orang yang sama. Selamat Hari Raya daripada Ramanan — tapi video dia tak keluar pula. Mana video dia?
+**Farhan (Pa'an):** Beria, beria. Baik, kita ada "next" lagi — masih orang yang sama. Selamat Hari Raya daripada Ramanan — tapi video dia tak keluar pula. Mana video dia?
 
-**Rafizi Ramli:** Aduh... boleh kita dengar? Kena "label"-kan dia punya kot — tak apalah.
+**Rafizi:** Aduh... boleh kita dengar? Kena "label"-kan dia punya kot — tak apalah.
 
 Yang ini sebenarnya dalam PKR, kan — inilah yang dimaksudkan, saya rasa, orang macam Ramanan ni menjaga akar umbi. Jadi ini daripada PKR Johor — berdiri di depan kotak-kotak, mengucapkan terima kasih kepada YB Ramanan kerana menyumbangkan kotak-kotak raya. Tengok kotak raya tu — kita tak boleh zoom in, tapi kalau zoom in, kotak raya tu ada dua gambar, macam biasalah — baju dia pun ada gambar — ada Anwar Ibrahim dan juga ada gambar Ramanan.
 
-**Farhan:** Tapi yang kecil-kecil itu, kalau tengok kat tengah-tengah, ada Jata Negara.
+**Farhan (Pa'an):** Tapi yang kecil-kecil itu, kalau tengok kat tengah-tengah, ada Jata Negara.
 
-**Rafizi Ramli:** Ya betul. Kemudian di bawah tu ada logo-logo agensi pulak. Rupanya itu daripada Kementerian Sumber Manusia dan agensi-agensi di bawahnya. Kalau orang tengok, ini sebenarnya kotak daripada Menteri Sumber Manusia secara rasmi — daripada Kesuma secara rasmi, dan disokong oleh agensi-agensi di bawah Kesuma.
+**Rafizi:** Ya betul. Kemudian di bawah tu ada logo-logo agensi pulak. Rupanya itu daripada Kementerian Sumber Manusia dan agensi-agensi di bawahnya. Kalau orang tengok, ini sebenarnya kotak daripada Menteri Sumber Manusia secara rasmi — daripada Kesuma secara rasmi, dan disokong oleh agensi-agensi di bawah Kesuma.
 
-**Farhan:** Kalau kau jadi rakyat biasa, kau cakap apa? "Asal aku tak dapat!" Sebab yang mengedarkannya akan kata ini sumbangan daripada menteri, daripada Ramanan.
+**Farhan (Pa'an):** Kalau kau jadi rakyat biasa, kau cakap apa? "Asal aku tak dapat!" Sebab yang mengedarkannya akan kata ini sumbangan daripada menteri, daripada Ramanan.
 
-**Rafizi Ramli:** Oh, "lemak" jadi menteri macam itu.
+**Rafizi:** Oh, "lemak" jadi menteri macam itu.
 
-**Farhan:** Ada satu video pun viral juga, lately — BMK bagi sumbangan "on behalf of" Menteri Kesuma, yang ditanya, "Handsome tak Menteri Kesuma?"
+**Farhan (Pa'an):** Ada satu video pun viral juga, lately — BMK bagi sumbangan "on behalf of" Menteri Kesuma, yang ditanya, "Handsome tak Menteri Kesuma?"
 
-**Rafizi Ramli:** Tak perasan. Yang mana? Yang Melaka tu?
+**Rafizi:** Tak perasan. Yang mana? Yang Melaka tu?
 
-**Farhan:** Ya, Melaka — calon yang dulu bertanding PRN Melaka.
+**Farhan (Pa'an):** Ya, Melaka — calon yang dulu bertanding PRN Melaka.
 
-**Rafizi Ramli:** Okey... ini budaya MIC dan UMNO daripada zaman Tok Kadu. Farhan, kau kerja dengan aku masuk ke kementerian dulu, kan — pernah tak aku bagi sumbangan yang menggunakan duit kementerian atau duit raya? Tak pernah. Malah kalau ada syarikat swasta — masa awal-awal saya jadi menteri dulu, banyaklah syarikat GLC, apatah lagi agensi-agensi di bawah Kementerian Ekonomi, yang datang kata, "YB, ini dekat puasa ni, kami nak buat majlis buka puasa, kami sponsor untuk YB di Pandan." Ada pula kata, "kami nak bagi sumbangan kat Pandan semua." Memang kena marah dengan aku lah — sebab duit itu bukan duit ahli parlimen Pandan. Duit kementerian yang diluluskan di bawah belanjawan kerajaan adalah untuk rakyat keseluruhannya, bukan demi kepentingan saya sebagai ahli parlimen Pandan. Jadi selepas tahun pertama itu, dia dah tahulah.
+**Rafizi:** Okey... ini budaya MIC dan UMNO daripada zaman Tok Kadu. Farhan, kau kerja dengan aku masuk ke kementerian dulu, kan — pernah tak aku bagi sumbangan yang menggunakan duit kementerian atau duit raya? Tak pernah. Malah kalau ada syarikat swasta — masa awal-awal saya jadi menteri dulu, banyaklah syarikat GLC, apatah lagi agensi-agensi di bawah Kementerian Ekonomi, yang datang kata, "YB, ini dekat puasa ni, kami nak buat majlis buka puasa, kami sponsor untuk YB di Pandan." Ada pula kata, "kami nak bagi sumbangan kat Pandan semua." Memang kena marah dengan aku lah — sebab duit itu bukan duit ahli parlimen Pandan. Duit kementerian yang diluluskan di bawah belanjawan kerajaan adalah untuk rakyat keseluruhannya, bukan demi kepentingan saya sebagai ahli parlimen Pandan. Jadi selepas tahun pertama itu, dia dah tahulah.
 
 Ada juga yang "perkeras" — dia nak bagi sumbangan, kata, "kau buat lah sebagai sumbangan kau sendiri, tak ada kena-mengena dengan aku, aku takkan pergi." Jadi sia-sia lah kalau dia buat pun, sebab dia kira "menteri tak datang juga," so tak jadilah. Sebab itu, kepada pengundi Pandan yang kecil hati — memang pengundi Pandan tak mewah lah macam kawasan lain, dapat kiri, dapat kanan semua. Tapi kita kena berhati-hati, sebab budaya ini mesti dihentikan. Kalau nak buka kes, ini sebenarnya boleh dibuka kes, kerana telah menggunakan sumber rakyat yang diagihkan melalui parti politik.
 
 Kotak-kotak ini diberikan sebagai sumbangan daripada naib presiden PKR kepada cabang-cabang PKR di Johor untuk diagih-agihkan, sedangkan itu bukan sumbangan naib presiden PKR — itu adalah sumbangan daripada kerajaan, dan itu semua bajet daripada agensi-agensi. Sebab bila dah letak macam itu, ia memang rasmi. Kecuali kalau gambar Ramanan sahaja, atau gambar Ramanan dengan Dato' Seri Anwar, dan di bawah tu ada "disclaimer" — then okey lah. Tapi bila dah ada gambar semua tu — kenapa kena letak Jata Negara? Kenapa kena letak logo-logo agensi ini?
 
-**Farhan:** Untuk dokumentasi agensi tu?
+**Farhan (Pa'an):** Untuk dokumentasi agensi tu?
 
-**Rafizi Ramli:** Dokumentasinya untuk membuktikan bahawa ini adalah program rasmi kementerian. Jadi bila dia nak bayar nanti, dia boleh kata ini bukan bayaran peribadi, tapi bayaran program. Jadi ingatan saya kepada PKR, kepada menteri-menteri: hentikanlah amalan ini, dan anda boleh belajar daripada ini.
+**Rafizi:** Dokumentasinya untuk membuktikan bahawa ini adalah program rasmi kementerian. Jadi bila dia nak bayar nanti, dia boleh kata ini bukan bayaran peribadi, tapi bayaran program. Jadi ingatan saya kepada PKR, kepada menteri-menteri: hentikanlah amalan ini, dan anda boleh belajar daripada ini.
 
 Ada satu budaya lain yang saya kurang selesa, tapi kita cubalah macam mana kan. Dekat raya ni, orang hantar hamper kepada menteri banyak, dan setiap menteri pun akan hantar hamper kepada menteri lain. Bagus lah, kan? Tapi masalahnya, hamper-hamper tu besar habis dan mahal rasanya. Aku selalu tertanya-tanya, siapa yang bayar hamper-hamper ni? Jadi aku rasa berat sangat nak bagi hamper — raya tu cukup setakat raya lah, sebab kita bukan ada duit. Kalau satu hamper tu katakanlah RM300–400, sampai kalau 100 hamper, dah RM30,000. Tapi ia bukan 100 hamper, ia 1,000 hamper — RM300,000 untuk bagi hamper masa raya! Kalau saya ada duit itu, baik saya bagi kat orang miskin, kan. Jadi kita pun terfikirlah, agaknya siapa yang bayar hamper-hamper ni. Tapi pegawai-pegawai aku kat kementerian kata, "tak boleh lah YB, nampak sangat orang bagi hamper kat you semua, menteri lain semua, you tak balas." Akhirnya aku okey lah, kita ambil duit mana yang ada dan bagilah. Tapi masalahnya, hamper daripada Menteri Ekonomi — hamper yang paling "berekonomi" sekali! Kadang-kadang malu, sebab ada kacang, satu balang. Kadang-kadang kita bagi kacang je. Bagi hamper pun sangat kecil — wah, itu boleh jadi bahan gurauan, tau.
 
-**Farhan:** Menteri Ekonomi kedekut betul.
+**Farhan (Pa'an):** Menteri Ekonomi kedekut betul.
 
-**Rafizi Ramli:** Kalau barisan semua hamper menteri-menteri tu, orang akan kata, "yang itu tak payah bagi lah, kau bagi satu balang kacang je?" Betul kan, kita bagi kacang je. Selepas kita bergaduh, kata "tak nak, tak nak bagi," tapi kena bagi juga — bagi je lah kacang. Jadi maksudnya, hamper macam tu lebih kurang RM10, aku ingat. Tapi budaya ini menular dan perlu dihentikan. Kalau nak "beria" menjaga akar umbi, bagilah daripada poket sendiri.
+**Rafizi:** Kalau barisan semua hamper menteri-menteri tu, orang akan kata, "yang itu tak payah bagi lah, kau bagi satu balang kacang je?" Betul kan, kita bagi kacang je. Selepas kita bergaduh, kata "tak nak, tak nak bagi," tapi kena bagi juga — bagi je lah kacang. Jadi maksudnya, hamper macam tu lebih kurang RM10, aku ingat. Tapi budaya ini menular dan perlu dihentikan. Kalau nak "beria" menjaga akar umbi, bagilah daripada poket sendiri.
 
 Dan kepada PKR Johor ni, saya kenal seorang-seorang dalam gambar ni. Yang itu bekas ADUN Bakri dulu, yang itu bendahari PKR Johor — kita ni parti reformis, kan, takkanlah kita tak tahu bahawa kotak-kotak ini bila sampai dengan label daripada kementerian, takkanlah kita tak tahu ini sebenarnya duit rakyat. Dan kita menyambung, malah mungkin membesar-besarkan lagi amalan yang kita lawan dahulu.
 
-**Farhan:** "Beria," tapi mungkin akar umbi kata, "yelah, kami terdesak nak buat kerja untuk kawasan semua."
+**Farhan (Pa'an):** "Beria," tapi mungkin akar umbi kata, "yelah, kami terdesak nak buat kerja untuk kawasan semua."
 
-**Rafizi Ramli:** Yelah, kita kan parti reformis. Jadi kalau semata-mata untuk menunjukkan kita ada sumbangan, nak bersaing dengan parti-parti lain — kita pernah jadi parti pembangkang, dalam tahun-tahun yang susah dahulu. Kenapa masa kita pembangkang dulu — dan saya sampai sekarang masih keras pasal perkara ini — kenapa kita tidak menyokong, malah kita membantah amalan ini? Kerana ia bersamaan dengan menyeleweng sebenarnya peruntukan rakyat untuk kegunaan parti. Yelah, kerana ia tidak memberi "level playing field" kepada semua orang. Kita mungkin tak suka parti lawan kita — PAS ke, kita tak suka Bersatu ke, kita tak suka parti-parti lain — sebab biasalah bila kita parti politik, kita nak berada di atas, kita nak menang, kan. Tapi jangan lupa, kita pernah menjadi parti pembangkang, dan kita rasa sangat tak adil apabila kita terpaksa mengeluarkan duit sendiri — duit gaji, simpanan, jual tanah semua — untuk buat program kepada rakyat di kawasan kita. Sedangkan parti lawan yang berada dalam kerajaan itu hidup bermewah menggunakan wang rakyat, dan masa raya sampai besar-besaran bagi bantuan besar-besaran. Itu akan menghasilkan keadaan yang tidak adil, kan. Jadi sepatutnya bila kita jadi kerajaan, kita ingatlah asal-usul kita, dan perbetulkanlah keadaan itu. Untuk kita kekal menjadi kerajaan, bukanlah dengan tabur duit, dengan tabur semua ni. Orang pilih kita — saya tak rasa orang pilih PKR sebab PKR bagi hamper paling banyak. Orang pilih PKR kerana orang rasa PKR boleh bawa perubahan, ada pimpinan-pimpinan berkarisma, yang ada idea, yang ada integriti. Jadi fokuslah kepada itu.
+**Rafizi:** Yelah, kita kan parti reformis. Jadi kalau semata-mata untuk menunjukkan kita ada sumbangan, nak bersaing dengan parti-parti lain — kita pernah jadi parti pembangkang, dalam tahun-tahun yang susah dahulu. Kenapa masa kita pembangkang dulu — dan saya sampai sekarang masih keras pasal perkara ini — kenapa kita tidak menyokong, malah kita membantah amalan ini? Kerana ia bersamaan dengan menyeleweng sebenarnya peruntukan rakyat untuk kegunaan parti. Yelah, kerana ia tidak memberi "level playing field" kepada semua orang. Kita mungkin tak suka parti lawan kita — PAS ke, kita tak suka Bersatu ke, kita tak suka parti-parti lain — sebab biasalah bila kita parti politik, kita nak berada di atas, kita nak menang, kan. Tapi jangan lupa, kita pernah menjadi parti pembangkang, dan kita rasa sangat tak adil apabila kita terpaksa mengeluarkan duit sendiri — duit gaji, simpanan, jual tanah semua — untuk buat program kepada rakyat di kawasan kita. Sedangkan parti lawan yang berada dalam kerajaan itu hidup bermewah menggunakan wang rakyat, dan masa raya sampai besar-besaran bagi bantuan besar-besaran. Itu akan menghasilkan keadaan yang tidak adil, kan. Jadi sepatutnya bila kita jadi kerajaan, kita ingatlah asal-usul kita, dan perbetulkanlah keadaan itu. Untuk kita kekal menjadi kerajaan, bukanlah dengan tabur duit, dengan tabur semua ni. Orang pilih kita — saya tak rasa orang pilih PKR sebab PKR bagi hamper paling banyak. Orang pilih PKR kerana orang rasa PKR boleh bawa perubahan, ada pimpinan-pimpinan berkarisma, yang ada idea, yang ada integriti. Jadi fokuslah kepada itu.
 
-**Farhan:** Okay, clear. "Beria." Kita ada satu lagi yang terakhir — "pau rumah urut" untuk duit raya. Ini minggu "beria" PKR punya rupanya. Apa ni, semua PKR... eh, PKR beraya betul, sapu duit raya bini orang pun jadi.
+**Farhan (Pa'an):** Okay, clear. "Beria." Kita ada satu lagi yang terakhir — "pau rumah urut" untuk duit raya. Ini minggu "beria" PKR punya rupanya. Apa ni, semua PKR... eh, PKR beraya betul, sapu duit raya bini orang pun jadi.
 
-**Rafizi Ramli:** Yelah, dikatakan — saya dah tengok video ni sebelum ia dilaporkan, sebab saya dapat mesej dan video ini daripada YB Zahir, Ahli Parlimen Wangsa Maju. Dia mengadu — dia yang dikalahkan dalam pemilihan cabang, dan ini yang menang-menang, ini semua "Tim Damai" lah, ini anak-anak buah Nurul Izzah semua ni, kalau nak ikutkan "by association," kan. Jadi bila perkara ini berlaku, orang semua cari dia, susah dia nak jawab. Katanya, "saya memang tak suka diorang ni, saya memang dah lawan habis-habisan dalam parti — sebab itulah nampak sekarang kenapa kami lawan mereka." Tapi ini yang jadi beban kepada orang dalam PKR sekarang — yang buat salah tu satu kumpulan, tapi yang lain yang tak bersetuju dengan mereka pun kena sama sekali.
+**Rafizi:** Yelah, dikatakan — saya dah tengok video ni sebelum ia dilaporkan, sebab saya dapat mesej dan video ini daripada YB Zahir, Ahli Parlimen Wangsa Maju. Dia mengadu — dia yang dikalahkan dalam pemilihan cabang, dan ini yang menang-menang, ini semua "Tim Damai" lah, ini anak-anak buah Nurul Izzah semua ni, kalau nak ikutkan "by association," kan. Jadi bila perkara ini berlaku, orang semua cari dia, susah dia nak jawab. Katanya, "saya memang tak suka diorang ni, saya memang dah lawan habis-habisan dalam parti — sebab itulah nampak sekarang kenapa kami lawan mereka." Tapi ini yang jadi beban kepada orang dalam PKR sekarang — yang buat salah tu satu kumpulan, tapi yang lain yang tak bersetuju dengan mereka pun kena sama sekali.
 
 So, yang ini dikatakan seorang ahli Majlis Perwakilan Penduduk.
 
-**Farhan:** Kau dah tengok video penuh lah?
+**Farhan (Pa'an):** Kau dah tengok video penuh lah?
 
-**Rafizi Ramli:** Aku dengar caranya — ada "seni" dia nak memperkenalkan diri semua tu.
+**Rafizi:** Aku dengar caranya — ada "seni" dia nak memperkenalkan diri semua tu.
 
-**Farhan:** Video tu tengok, tapi suara tu macam "inaudible."
+**Farhan (Pa'an):** Video tu tengok, tapi suara tu macam "inaudible."
 
-**Rafizi Ramli:** Dia jauh-jauh sikit lah, sebab tu "inaudible" sikit. Cara dia memperkenalkan diri sebagai Majlis Perwakilan Penduduk — kemudian dia beritahu bahawa dialah sebenarnya yang akan bagi laporan kepada DBKL untuk mana DBKL nak "serbu."
+**Rafizi:** Dia jauh-jauh sikit lah, sebab tu "inaudible" sikit. Cara dia memperkenalkan diri sebagai Majlis Perwakilan Penduduk — kemudian dia beritahu bahawa dialah sebenarnya yang akan bagi laporan kepada DBKL untuk mana DBKL nak "serbu."
 
-**Farhan:** Aku nak gelak juga — aku rasa yang duduk kat "receptionist" tu, tak payah cakap, aku dah tahu kau nak datang nak "pau"!
+**Farhan (Pa'an):** Aku nak gelak juga — aku rasa yang duduk kat "receptionist" tu, tak payah cakap, aku dah tahu kau nak datang nak "pau"!
 
-**Rafizi Ramli:** Hahaha. Dan ini juga benda-benda yang memalukan, dan saya tahu ini bukan sahaja berlaku di Wangsa Maju, tapi ia juga berlaku di tempat-tempat lain di bawah pentadbiran kerajaan negeri Selangor, contohnya. Jadi kepada kedai-kedai semua, sila pasang CCTV, supaya bila ada orang nak datang "pau" macam ini — tak kisahlah, ini "protection money" jugalah.
+**Rafizi:** Hahaha. Dan ini juga benda-benda yang memalukan, dan saya tahu ini bukan sahaja berlaku di Wangsa Maju, tapi ia juga berlaku di tempat-tempat lain di bawah pentadbiran kerajaan negeri Selangor, contohnya. Jadi kepada kedai-kedai semua, sila pasang CCTV, supaya bila ada orang nak datang "pau" macam ini — tak kisahlah, ini "protection money" jugalah.
 
-**Farhan:** Mafia jugalah.
+**Farhan (Pa'an):** Mafia jugalah.
 
-**Rafizi Ramli:** Mafia jugalah — jadi ada lapis-lapis mafia dalam masyarakat kita ni, kan. Mafia yang paling atas, nanti kita cakap lepas ni.
+**Rafizi:** Mafia jugalah — jadi ada lapis-lapis mafia dalam masyarakat kita ni, kan. Mafia yang paling atas, nanti kita cakap lepas ni.
 
-**Farhan:** Ini mafia paling bawah.
+**Farhan (Pa'an):** Ini mafia paling bawah.
 
-**Rafizi Ramli:** Ini mafia paling bawah ni — dia kutip wang perlindungan daripada orang-orang di bawah "jajahan kuasa"nya, hantar penguat kuasa. Jadi saya juga minta — kepada yang jadi mangsa, iaitu pekedai-kedai semua ni, dan juga penguat kuasa yang jadi mangsa — sila pasang CCTV, jangan satu je, empat-lima, biar "angle" perut pun ada, "angle" kepala pun ada, kan — pasang banyak-banyak, supaya kalau ada orang "pause" saja terus boleh viral. Kemudian kepada penguat kuasa di pihak berkuasa tempatan, pegawai-pegawai kerajaan — lawan! Jangan dengar, pergi buat laporan terus. Jangan layan dan jangan takut dengan ahli-ahli politik picisan yang baru ada dalam parti dua-tiga tahun — setakat jadi ahli Majlis Perwakilan Penduduk pun, gayanya mengalahkan apa. Jadi kalau ada arahan ke apa semua ni, kita kena peka supaya kita tahu siapa yang kutip duit dan sebagainya — jangan sampai penguat kuasa dan anggota PBT ini menjadi "enabler" kepada mafia-mafia kecil di bawah ini. Memang meriah betul lah PKR tahun ini beraya, kan — beraya dengan... beraya "pau" duit raya. Saya harap bukan duit inilah yang PKR akhirnya akan bagi sebagai duit raya — cabang PKR Wangsa Maju bagi duit raya daripada "pau" rumah urut.
+**Rafizi:** Ini mafia paling bawah ni — dia kutip wang perlindungan daripada orang-orang di bawah "jajahan kuasa"nya, hantar penguat kuasa. Jadi saya juga minta — kepada yang jadi mangsa, iaitu pekedai-kedai semua ni, dan juga penguat kuasa yang jadi mangsa — sila pasang CCTV, jangan satu je, empat-lima, biar "angle" perut pun ada, "angle" kepala pun ada, kan — pasang banyak-banyak, supaya kalau ada orang "pause" saja terus boleh viral. Kemudian kepada penguat kuasa di pihak berkuasa tempatan, pegawai-pegawai kerajaan — lawan! Jangan dengar, pergi buat laporan terus. Jangan layan dan jangan takut dengan ahli-ahli politik picisan yang baru ada dalam parti dua-tiga tahun — setakat jadi ahli Majlis Perwakilan Penduduk pun, gayanya mengalahkan apa. Jadi kalau ada arahan ke apa semua ni, kita kena peka supaya kita tahu siapa yang kutip duit dan sebagainya — jangan sampai penguat kuasa dan anggota PBT ini menjadi "enabler" kepada mafia-mafia kecil di bawah ini. Memang meriah betul lah PKR tahun ini beraya, kan — beraya dengan... beraya "pau" duit raya. Saya harap bukan duit inilah yang PKR akhirnya akan bagi sebagai duit raya — cabang PKR Wangsa Maju bagi duit raya daripada "pau" rumah urut.
 
-**Farhan:** PKR Wangsa Maju pun ada kes kan yang...
+**Farhan (Pa'an):** PKR Wangsa Maju pun ada kes kan yang...
 
-**Rafizi Ramli:** Ini bukan kali pertama begini di Wangsa Maju. Kalau kita bezakan dari segi tahap keberaniannya, ahli parlimen Wangsa Maju yang pernah kalah dengan mereka yang memang veteran — YB Zahir ini, bagi saya, adalah salah seorang yang paling saya hormati dalam PKR. Dan dia sudah cuba, tetapi masalahnya adalah orang-orang di cabang itu sendiri. Ketua cabangnya sudah digantung, kerana ketua cabang itu pernah terlibat dalam video yang kantoi, mengugut, "Kalau aku jadi Perdana Menteri, aku pecat, aku lanyak, aku kurung dalam penjara terus." Seronok betul pergi beritahu orang macam nak peras duit begitu. Tapi akhirnya PKR hanya ambil tindakan gantung sahaja. Jadi sekarang PKR Wangsa Maju tidak ada ketua cabang — hanya ada timbalannya yang memangku jawatan itu. Tapi kita mesti bezakan antara ahli parlimen Wangsa Maju dengan barisan di cabang PKR Wangsa Maju ini.
+**Rafizi:** Ini bukan kali pertama begini di Wangsa Maju. Kalau kita bezakan dari segi tahap keberaniannya, ahli parlimen Wangsa Maju yang pernah kalah dengan mereka yang memang veteran — YB Zahir ini, bagi saya, adalah salah seorang yang paling saya hormati dalam PKR. Dan dia sudah cuba, tetapi masalahnya adalah orang-orang di cabang itu sendiri. Ketua cabangnya sudah digantung, kerana ketua cabang itu pernah terlibat dalam video yang kantoi, mengugut, "Kalau aku jadi Perdana Menteri, aku pecat, aku lanyak, aku kurung dalam penjara terus." Seronok betul pergi beritahu orang macam nak peras duit begitu. Tapi akhirnya PKR hanya ambil tindakan gantung sahaja. Jadi sekarang PKR Wangsa Maju tidak ada ketua cabang — hanya ada timbalannya yang memangku jawatan itu. Tapi kita mesti bezakan antara ahli parlimen Wangsa Maju dengan barisan di cabang PKR Wangsa Maju ini.
 
-**Host:** Baik, itu mengakhiri sesi "beria" kita bersama PKR ini. Sekarang jom kita buat ranking pula. Ada empat YB yang perlu kita nilai — satu, dua, tiga, empat. Okay, kita pergi kepada kontender utama: bila ada Fuziah, memang akan jadi pertandingan sengit antara Fuziah dengan Ramanan. Jom kita tengok video yang ketiga ini.
+**Farhan (Pa'an):** Baik, itu mengakhiri sesi "beria" kita bersama PKR ini. Sekarang jom kita buat ranking pula. Ada empat YB yang perlu kita nilai — satu, dua, tiga, empat. Okay, kita pergi kepada kontender utama: bila ada Fuziah, memang akan jadi pertandingan sengit antara Fuziah dengan Ramanan. Jom kita tengok video yang ketiga ini.
 
-**Host:** Eh, tadi ada videonya kan? Oh, hilang pula. Tak apa, tak apa...
+**Farhan (Pa'an):** Eh, tadi ada videonya kan? Oh, hilang pula. Tak apa, tak apa...
 
-**Host:** ...tapi setelah dipertimbangkan — terima kasih, Dato' Rahmanan. Itulah yang nak ditunjukkan tadi. Tapi minta maaf, Ramanan, setiap kali ada Fuziah, Fuziah akan menang melawan sesiapa sahaja yang mencabarnya.
+**Farhan (Pa'an):** ...tapi setelah dipertimbangkan — terima kasih, Dato' Rahmanan. Itulah yang nak ditunjukkan tadi. Tapi minta maaf, Ramanan, setiap kali ada Fuziah, Fuziah akan menang melawan sesiapa sahaja yang mencabarnya.
 
-**Rafizi Ramli:** Sebab dia mengeluarkan kenyataan tanpa asas yang kukuh — asasnya, seorang setiausaha agung sesebuah parti politik tidak sepatutnya mengugut untuk menyaman orang begitu sahaja. Ini menjejaskan kredibiliti parti itu sendiri. Saya rasa kredibiliti parti itu memang sudah sangat terjejas.
+**Rafizi:** Sebab dia mengeluarkan kenyataan tanpa asas yang kukuh — asasnya, seorang setiausaha agung sesebuah parti politik tidak sepatutnya mengugut untuk menyaman orang begitu sahaja. Ini menjejaskan kredibiliti parti itu sendiri. Saya rasa kredibiliti parti itu memang sudah sangat terjejas.
 
-**Host:** Okey, kita tak boleh cakap banyak lagi lah kalau begitu. Tak ada kesan sangat kalau Fuziah asyik "beria" pun. Mungkin sebab itulah dia terus "beria" — alang-alang sudah begini.
+**Farhan (Pa'an):** Okey, kita tak boleh cakap banyak lagi lah kalau begitu. Tak ada kesan sangat kalau Fuziah asyik "beria" pun. Mungkin sebab itulah dia terus "beria" — alang-alang sudah begini.
 
-**Host:** Baiklah. Bismillahirrahmanirrahim. Kepada rakan-rakan, sila baca betul-betul dan bersedia untuk imbas kod QR serta muat turun dokumen berkenaan. Tetamu istimewa kita hari ini telah pun membantu menyediakan dokumen untuk rakan-rakan imbas. Jadi tolong imbas dan kongsikan bersama.
+**Farhan (Pa'an):** Baiklah. Bismillahirrahmanirrahim. Kepada rakan-rakan, sila baca betul-betul dan bersedia untuk imbas kod QR serta muat turun dokumen berkenaan. Tetamu istimewa kita hari ini telah pun membantu menyediakan dokumen untuk rakan-rakan imbas. Jadi tolong imbas dan kongsikan bersama.
 
 Dan YB, saya tak mahu bercakap panjang-panjang. Cuma saya rasa perkara penting dalam isu ini — YB sudah buat tiga keping kandungan dalam dua hari. Ada dua perkara penting yang perlu kita fahami dengan betul. Pertama, siapakah "Mr. R" itu — itu kita bincangkan kemudian. Yang pertama sudah tentu, siapakah ahli parlimen PKR yang menerima RM9.5 juta itu. Bagi je lah RM10 juta terus, payah pula nak sebut RM9.5 juta.
 
 Okey, baik YB. Secara berterus terang, YB ada berikan dua ciri-ciri tentang siapa dia dalam PKR ini kan?
 
-**Rafizi Ramli:** Tapi sebelum itu — sebelum itu, saya nak rewind sedikit. Ini masalah saya, sebab itulah kadang-kadang orang jadi letih dengan saya. Sebelum kita sampai kepada butiran itu, kita kena faham dahulu perkara besar, perkara makro, latar belakangnya — kenapa perkara ini tiba-tiba meletup.
+**Rafizi:** Tapi sebelum itu — sebelum itu, saya nak rewind sedikit. Ini masalah saya, sebab itulah kadang-kadang orang jadi letih dengan saya. Sebelum kita sampai kepada butiran itu, kita kena faham dahulu perkara besar, perkara makro, latar belakangnya — kenapa perkara ini tiba-tiba meletup.
 
 Asalnya ialah Victor Chin. Kenapa Victor Chin tiba-tiba keluarkan semua ini, dan kenapa dia berani buat begini. Sebab itulah ada "ceplos-ceplos" PKR — dah jadi ramai pula sekarang — yang kata saya ini membela Victor Chin, seolah-olah saya menyokong "mafia korporat" yang mereka sendiri panggil syaitan itu. Jadi sebelum kita masuk kepada soal khusus siapa Mr. R dan siapa ahli parlimen itu, kita perlu ada gambaran latar belakang ini dahulu — kalau tidak, ia seperti kanvas yang kosong. Butiran-butiran itu hanyalah lukisan; kalau kita tak tahu apa kanvasnya, kita tak dapat gambaran keseluruhan.
 
@@ -287,9 +287,9 @@ Jadi bila kita letakkan kanvas ini, di situlah berlakunya pertembungan antara pi
 
 Itulah titik permulaan cerita ini. Atas kepentingan bersama ini, Victor Chin dan Farhaj memang ada berjumpa, dan akhirnya melalui perbincangan, mereka bersetuju untuk bekerjasama dalam projek mengambil alih NextG ini. Jadi mereka bermula sebagai rakan kongsi dan satu pasukan. Tugas Victor Chin, seperti yang saya faham, ialah melaksanakan pengambilalihan NextG daripada pemegang saham sedia ada. Bila sudah dikawal, tugasnya juga untuk menambah baik profil dan imej NextG...
 
-**Host:** Adakah pengambilan ini dibuat secara sah (legal) atau tidak?
+**Farhan (Pa'an):** Adakah pengambilan ini dibuat secara sah (legal) atau tidak?
 
-**Rafizi Ramli:** Itu yang akan menjawab persoalan mengenai Mr. R nanti — kalau tidak, orang akan tertanya-tanya apa cerita Mr. R ini semua. Yang perlu difahami dahulu, ceritanya ialah ini untuk mengambil alih NextG melalui share consolidation — maksudnya, mengambil alih saham-saham supaya dia mengawal NextG. Tugasnya sebagai corporate turnaround specialist pula ialah menambah baik imej NextG dan menyediakan pipeline perniagaan yang boleh dibawa kepada kerajaan.
+**Rafizi:** Itu yang akan menjawab persoalan mengenai Mr. R nanti — kalau tidak, orang akan tertanya-tanya apa cerita Mr. R ini semua. Yang perlu difahami dahulu, ceritanya ialah ini untuk mengambil alih NextG melalui share consolidation — maksudnya, mengambil alih saham-saham supaya dia mengawal NextG. Tugasnya sebagai corporate turnaround specialist pula ialah menambah baik imej NextG dan menyediakan pipeline perniagaan yang boleh dibawa kepada kerajaan.
 
 Sebab itu, sebelum Oktober 2025, Victor Chin adalah COO NextG, manakala CEO ialah Dato' Abu Hanifah — pemegang saham asal dan boleh dikatakan co-founder NextG. Jadi Victor Chin, sebagai COO, adalah orang nombor dua secara rasmi dalam syarikat itu.
 
@@ -331,9 +331,9 @@ Kalaupun sebenarnya ahli politik, menteri, atau orang berkepentingan itu ada sal
 
 Jadi sebelum kita masuk kepada cerita Mr. R dan RM9.5 juta ini, memahami latar belakang ini akan membolehkan rakyat Malaysia bertanya soalan sendiri — adakah ini sesuatu yang kita boleh tolerate?
 
-**Host:** Tetapi bila YB cakap tuduhan-tuduhan yang tidak masuk akal terhadap YB sendiri, YB jawab. Kita sudah dengar beberapa minggu lepas nama PM disebut dalam CNA, dan sekarang YB sebut sekali lagi — tetapi nampaknya tidak ada respons langsung. Itu sangat merisaukan.
+**Farhan (Pa'an):** Tetapi bila YB cakap tuduhan-tuduhan yang tidak masuk akal terhadap YB sendiri, YB jawab. Kita sudah dengar beberapa minggu lepas nama PM disebut dalam CNA, dan sekarang YB sebut sekali lagi — tetapi nampaknya tidak ada respons langsung. Itu sangat merisaukan.
 
-**Rafizi Ramli:** Ya. Orang pertama yang sebut nama Anwar Ibrahim dalam hal ini bukan saya — walaupun saya sudah tahu pada masa itu. Kalau saya sebut ketika itu, semasa pengambilalihan NextG, semasa Datuk Abu Hanifah mula membuat kenyataan terbuka tentang pergelutan dalam lembaga pengarah NextG, saya tidak sebut kerana saya tahu kalau saya sebut, "ceplos-ceplos" akan kata saya memfitnah.
+**Rafizi:** Ya. Orang pertama yang sebut nama Anwar Ibrahim dalam hal ini bukan saya — walaupun saya sudah tahu pada masa itu. Kalau saya sebut ketika itu, semasa pengambilalihan NextG, semasa Datuk Abu Hanifah mula membuat kenyataan terbuka tentang pergelutan dalam lembaga pengarah NextG, saya tidak sebut kerana saya tahu kalau saya sebut, "ceplos-ceplos" akan kata saya memfitnah.
 
 Yang sebut nama itu ialah CNA, sebuah agensi media. Selain Farhaj yang menghantar LOD — tidak tahu sama ada dia saman atau tidak — laporan CNA itu masih lagi berada di sana. Tidak diturunkan, tidak ada permohonan maaf, tidak ada apa-apa. Dan Perdana Menteri masih belum sebut sepatah pun, dan sekarang keluar pula cerita ini.
 
@@ -345,15 +345,15 @@ Cuma saya harap orang ramai yang masih ada keraguan, yang kata Rafizi ini "meraj
 
 Itulah yang saya tegaskan sejak dulu. Kalau anda tengok podcast-podcast saya sebelum saya kena saman oleh Farhaj tahun lepas — seawal Julai 2025 saya sudah kata, sebab pada masa itu saya sudah dengar khabar-khabar tentang perkara ini — saya sudah minta Dato' Seri Anwar tangani isu berkaitan Farhaj ini. Saya sudah sebut secara terbuka kepadanya, dan di luar saya beri amaran berlapik sendiri: "sila tangani isu Farhaj ini, kalau tidak ia akan jadi beban." Tak sampai setahun, jadilah ia begini.
 
-**Rafizi Ramli:** Baik, kau nak tanya soalan, sebab aku nak minum air dulu.
+**Rafizi:** Baik, kau nak tanya soalan, sebab aku nak minum air dulu.
 
-**Host:** Kita biarkan Perdana Menteri dengan silence-nya yang defining itu. Kita mungkin bergerak kepada Mr. R dan RM9.5 juta ini. Cuma mungkin kita perlu faham dahulu dinamik hubungan antara Mr. R dengan Victor Chin — mereka awalnya rakan kongsi, tapi kemudian... Kita nak mulakan dengan Mr. R dulu, atau ahli parlimen RM9.5 juta dulu?
+**Farhan (Pa'an):** Kita biarkan Perdana Menteri dengan silence-nya yang defining itu. Kita mungkin bergerak kepada Mr. R dan RM9.5 juta ini. Cuma mungkin kita perlu faham dahulu dinamik hubungan antara Mr. R dengan Victor Chin — mereka awalnya rakan kongsi, tapi kemudian... Kita nak mulakan dengan Mr. R dulu, atau ahli parlimen RM9.5 juta dulu?
 
-**Rafizi Ramli:** Ahli parlimen pun boleh.
+**Rafizi:** Ahli parlimen pun boleh.
 
-**Host:** Kita mulakan dengan ahli parlimen dahulu — boleh, boleh, sebab flow ceritanya lebih baik begitu. Okey, baik. Ahli parlimen, YB — YB ada bagi dua ciri-ciri, dan dalam PKR orang akan bersetuju dua ciri-ciri ini menepati tetamu kita, Saudara Ramanan. Jadi betul ke YB nak cakap terus tuduh dia begitu sahaja, sedangkan Dato' Seri Ramanan sendiri sudah kata, "please name me, I will sue him"?
+**Farhan (Pa'an):** Kita mulakan dengan ahli parlimen dahulu — boleh, boleh, sebab flow ceritanya lebih baik begitu. Okey, baik. Ahli parlimen, YB — YB ada bagi dua ciri-ciri, dan dalam PKR orang akan bersetuju dua ciri-ciri ini menepati tetamu kita, Saudara Ramanan. Jadi betul ke YB nak cakap terus tuduh dia begitu sahaja, sedangkan Dato' Seri Ramanan sendiri sudah kata, "please name me, I will sue him"?
 
-**Rafizi Ramli:** Itu belum lagi dia suruh saya jual ais krim kat Eskimo — itu Anwar Ibrahim yang boleh jual ais krim kepada Eskimo, saya ni a very bad salesman.
+**Rafizi:** Itu belum lagi dia suruh saya jual ais krim kat Eskimo — itu Anwar Ibrahim yang boleh jual ais krim kepada Eskimo, saya ni a very bad salesman.
 
 Jadi soalan yang timbul daripada komen-komen netizen — susah payah saya terangkan, tetap juga tidak faham. Kepada netizen — walaupun kita orang Melayu suka gosip, itu semua lain cerita — setiap kali saya bercakap, saya kena berlaku adil. Saya tidak boleh cakap sesuatu yang tidak adil kepada orang lain. Itu satu. Netizen tidak mengapa — dia komen, hentam apa sahaja, tidak ada kesan kepadanya, dosa sahaja yang dia tanggung. Saya pula, kalau saya tidak berlaku adil, dosa itu terus kena kepada saya. Kemudian, sebagai public figure, saya ada tanggungjawab untuk berlaku adil. Saya juga ada satu lapis tambahan yang netizen tidak ada — setiap patah kata yang saya sebut boleh disaman.
 
@@ -385,15 +385,15 @@ Tetapi macam mana nak bagi RM10 juta itu untuk selesaikan semua urusan — dia k
 
 Jadi saya rasa, pada masa itulah Victor Chin berfikir untuk mendekati seorang pemimpin kanan PKR. Dia tidak bermula dengan seorang ahli parlimen biasa — maksudnya, dia bermula dengan pimpinan kanan PKR, pada bulan Oktober 2025.
 
-**Host:** Oktober 2025? Apa yang kita buat masa itu?
+**Farhan (Pa'an):** Oktober 2025? Apa yang kita buat masa itu?
 
-**Rafizi Ramli:** Podcast.
+**Rafizi:** Podcast.
 
-**Host:** Oh ya, kita sedang buat podcast — agak sendu masa itu.
+**Farhan (Pa'an):** Oh ya, kita sedang buat podcast — agak sendu masa itu.
 
-**Host:** Oktober 2025, bukan? Kita buka kes, um—
+**Farhan (Pa'an):** Oktober 2025, bukan? Kita buka kes, um—
 
-**Rafizi Ramli:** Kita tengah sibuk sekarang nak buka Flexi Mart — kita buka minggu pertama November ni. Jadi kita memang sibuk dengan benda-benda macam ni. Dia orang pun sibuk pasal isu ini, so mereka perlu approach seorang pimpinan kanan PKR. MP status itu secondary — saya rasa yang penting ialah ciri-ciri tertentu. Pertama, dia mesti seorang pimpinan kanan PKR sebab ini benda besar. Kedua, orang itu mestilah rapat dengan Dato' Seri Anwar dan juga dengan Farhaj, kerana tekanan-tekanan ini melibatkan kerajaan dan orang dalam kerajaan yang paling berkuasa yang boleh menghentikannya. Farhaj itu penting kerana lawan kepada kumpulan Victor Chin ini ialah kumpulan yang dikaitkan dengan Farhaj.
+**Rafizi:** Kita tengah sibuk sekarang nak buka Flexi Mart — kita buka minggu pertama November ni. Jadi kita memang sibuk dengan benda-benda macam ni. Dia orang pun sibuk pasal isu ini, so mereka perlu approach seorang pimpinan kanan PKR. MP status itu secondary — saya rasa yang penting ialah ciri-ciri tertentu. Pertama, dia mesti seorang pimpinan kanan PKR sebab ini benda besar. Kedua, orang itu mestilah rapat dengan Dato' Seri Anwar dan juga dengan Farhaj, kerana tekanan-tekanan ini melibatkan kerajaan dan orang dalam kerajaan yang paling berkuasa yang boleh menghentikannya. Farhaj itu penting kerana lawan kepada kumpulan Victor Chin ini ialah kumpulan yang dikaitkan dengan Farhaj.
 
 Dua ciri ini penting. Jadi untuk menjawab netizen — kalau Mr. R tu Ruben, kenapa pula Ramanan tiba-tiba marah-marah, buat sidang media, padahal tak ada orang sebut nama dia pun? Bagi mereka yang tahu, Mr. R itu bukanlah ahli parlimen yang dituduh — Mr. R adalah individu yang berlainan daripada ahli parlimen PKR itu. Tapi kenapa dia melenting sampai semua isu lain pun keluar sekali?
 
@@ -445,23 +445,23 @@ Ada satu fasal, Fasal 8, dipanggil *condition precedent*. Ini biasa dalam perjan
 
 Dalam perjanjian ini, hebatnya Fasal 8.1: *"On or before 30th November 2025"* — dalam masa seminggu daripada tarikh tandatangan 24 November — pelabur dan pembeli (geng korporat mafia) akan menggunakan usaha terbaik mereka, *best efforts*, untuk bekerjasama dengan pihak berkuasa berkaitan bagi membatalkan tindakan PDRM dan agensi penguatkuasaan lain termasuk SPRM dan LHDN, yang sedang menjalankan siasatan dan penguatkuasaan berterusan melibatkan Vendor dan Guarantor — Tan Sri Khairul Adib, Anwar, dan Victor — sama ada siasatan, dakwaan atau apa-apa, dengan matlamat mendapatkan keputusan *no further action*.
 
-**Host:** Hmm.
+**Farhan (Pa'an):** Hmm.
 
-**Rafizi Ramli:** Dengar ni — *this is the killer, the killer, the killer.* Pelabur dan pembeli — maksudnya geng korporat mafia — akan menggunakan usaha terbaik mereka untuk bekerjasama dengan Pejabat Perdana Menteri dan agensi penguatkuasaan lain untuk membatalkan tindakan dan membersihkan nama Vendor dan Guarantor.
+**Rafizi:** Dengar ni — *this is the killer, the killer, the killer.* Pelabur dan pembeli — maksudnya geng korporat mafia — akan menggunakan usaha terbaik mereka untuk bekerjasama dengan Pejabat Perdana Menteri dan agensi penguatkuasaan lain untuk membatalkan tindakan dan membersihkan nama Vendor dan Guarantor.
 
-**Host:** Selamat tinggal.
+**Farhan (Pa'an):** Selamat tinggal.
 
-**Host:** Dan tidak ada... Hmm... jangan bercakap — tapi dia orang tak specify siapa kat pejabat, benda macam tu?
+**Farhan (Pa'an):** Dan tidak ada... Hmm... jangan bercakap — tapi dia orang tak specify siapa kat pejabat, benda macam tu?
 
-**Rafizi Ramli:** Ya, tak ada. Sepatutnya bila benda ni dah keluar macam ni, kalau aku Anwar Ibrahim, aku buat laporan polis terus — semua ini kena disiasat, menyalahgunakan nama, *misrepresenting*, "saya tidak ada kena-mengena, gini, gini, gini." Aku memang akan marah betul — ini mewujudkan masalah negara yang tak wujud, skamer menggunakan nama saya begini, aku akan keluar buat perutusan khas. Tapi kita tunggu lah. Jadi Ruben ini hanyalah balaci sahaja.
+**Rafizi:** Ya, tak ada. Sepatutnya bila benda ni dah keluar macam ni, kalau aku Anwar Ibrahim, aku buat laporan polis terus — semua ini kena disiasat, menyalahgunakan nama, *misrepresenting*, "saya tidak ada kena-mengena, gini, gini, gini." Aku memang akan marah betul — ini mewujudkan masalah negara yang tak wujud, skamer menggunakan nama saya begini, aku akan keluar buat perutusan khas. Tapi kita tunggu lah. Jadi Ruben ini hanyalah balaci sahaja.
 
 Yang penting, *global settlement agreement* ini menunjukkan kita berada dalam sebuah negara sekarang di mana ada kumpulan-kumpulan yang dengan selambanya boleh membuat perjanjian yang mengatakan "saya boleh kautim." Dalam undang-undang — I remember when I was drafting commercial agreements dulu, selalunya kita akan bergaduh besar pasal *endeavour* versus *effort*. Masa saya muda-muda, *legal counsel* saya akan bergaduh mati-matian dengan *commercial team*. Contohnya kalau di Petronas dulu, kita buat kilang untuk *supply* propylene ke pembeli sebagai *feedstock* — gas itu kena berterusan sepanjang tahun, tapi kadang-kadang ada *unplanned shutdown*. Jadi dalam *clause performance delivery*, soalan yang bergaduh ialah: *how much effort do you make* untuk memastikan konsistensi *supply*? Ini billions worth of money — mengikut undang-undang di seluruh dunia, kalau you sign *best endeavour* atau *best effort*, ukurannya ialah *you must move heaven and earth to make it happen.* Yang geng korporat mafia ni bagi *undertaking* "best effort" untuk NFA — mereka mesti *move heaven and earth*. Paling-paling *legal counsel* akan bersetuju ia cuma *reasonable effort*.
 
 Anyhow, coming back to this — nama Perdana Menteri, nama Pejabat Perdana Menteri disebut. Kemudian, yang ini berkaitan pendakwaan dan siasatan di mana Menteri Dalam Negeri turut disebut. Sepanjang isu ini keluar, tidak ada kenyataan yang merujuk kepada tuduhan bahawa AMLA dan PDRM telah disalahgunakan untuk menekan. IGP pun tak bagi jawapan terus. Menteri Dalam Negeri pun tak bagi. Saya tahu Saifuddin rasa tersepit.
 
-**Host:** Hmm.
+**Farhan (Pa'an):** Hmm.
 
-**Rafizi Ramli:** Dia rasa tersepit kerana ini melibatkan Farhaj, dan melibatkan Farhaj bermakna melibatkan Anwar Ibrahim. Bagaimana hubungan Dato' Saifuddin dengan Farhaj? Tak baik — Farhaj sangat tidak sukakan Saifuddin. Sebab itu setiap kali ada *reshuffle*, mesti ada spekulasi bahawa Saifuddin akan digugurkan, kerana Saifuddin memang tak selesa dengan Farhaj.
+**Rafizi:** Dia rasa tersepit kerana ini melibatkan Farhaj, dan melibatkan Farhaj bermakna melibatkan Anwar Ibrahim. Bagaimana hubungan Dato' Saifuddin dengan Farhaj? Tak baik — Farhaj sangat tidak sukakan Saifuddin. Sebab itu setiap kali ada *reshuffle*, mesti ada spekulasi bahawa Saifuddin akan digugurkan, kerana Saifuddin memang tak selesa dengan Farhaj.
 
 Ini satu cerita yang saya mungkin belum pernah sebut sebelum ini. Ingat tak dulu semasa pemilihan PKR? Bila isu itu dah kecoh, Izzah minta jumpa saya. Saya rasa hormat kepada Saifuddin — kami kenal lama, berpuluh tahun. Walaupun saya sebenarnya sudah tutup buku, atas rasa hormat, saya bersetuju bila dia merayu untuk jumpa di rumahnya. Izzah menawarkan saya jadi Timbalan Presiden yang dilantik. Ini yang belum pernah saya cerita — alasan Izzah merayu untuk kita bergabung, Raf, untuk menyelamatkan parti, ialah kerana kita mesti bersatu untuk melawan Farhaj dalam parti. Kalau tidak, Farhaj akan kawal semua, dan dalam pemilihan akan datang dia akan bertanding sebagai Timbalan Presiden atau naik jadi Presiden, dan dengan kuasa serta duitnya, dia akan ambil alih parti dan merosakkannya.
 
@@ -469,15 +469,15 @@ Izzah duduk di sebelah kiri saya, saya di tengah, Saifuddin di sebelah kanan. Sa
 
 Bila semua soalan ini keluar — dan Peguam Negara, apa yang nak dia kata? Dengan selambanya, ada pihak boleh mengaku boleh kautim supaya *no further action*. Malaysia ini sangat sensitif soal NFA — ada kes Dato' Seri Zahid dengan 47 tuduhan NFA, AG tarik semua. Sekarang ada perjanjian bertulis tentang NFA. Apa pendirian Peguam Negara pasal benda ini? Dokumen ini saya pasti Victor Chin sudah sebarkan — bukan saya seorang saja yang dapat, media dah dapat, ahli politik dah dapat, kedutaan-kedutaan pun mungkin dah dapat, CIA pun mungkin dah dapat. Jawablah, korang. Baiklah, selamat tinggal.
 
-**Host:** Speechless.
+**Farhan (Pa'an):** Speechless.
 
-**Rafizi Ramli:** Sangat speechless. Jadi kita buat yoga sekejap — kita tarik nafas, tahan 3 saat, hembus nafas. Mungkin dalam episod akan datang akan ada lagi pendedahan baru. Yang ada semua bukti ini ialah Victor Chin. Saya dimaklumkan ada orang tengah yang cuba menyelesaikan perkara ini dengan Victor Chin sekarang — belum ada jalan penyelesaian. Kalau keluarlah lagi, keluarlah lagi. Tapi kalau tiba-tiba Victor Chin *poof*, hilang, dan kita rasa "oh, dah settle" — rakyat Malaysia jangan lupa. Cerita ini dah keluar semua, jangan lupa.
+**Rafizi:** Sangat speechless. Jadi kita buat yoga sekejap — kita tarik nafas, tahan 3 saat, hembus nafas. Mungkin dalam episod akan datang akan ada lagi pendedahan baru. Yang ada semua bukti ini ialah Victor Chin. Saya dimaklumkan ada orang tengah yang cuba menyelesaikan perkara ini dengan Victor Chin sekarang — belum ada jalan penyelesaian. Kalau keluarlah lagi, keluarlah lagi. Tapi kalau tiba-tiba Victor Chin *poof*, hilang, dan kita rasa "oh, dah settle" — rakyat Malaysia jangan lupa. Cerita ini dah keluar semua, jangan lupa.
 
 Sama seperti tahun lepas — orang duk maki saya pasal isu kehakiman. Kita tahu di Malaysia, orang yang berkuasa, kalau kita tak lawan dan kita tak bersuara, lepas tu perkara itu akan hilang begitu saja. Untuk memastikan sesuatu kerosakan itu tidak berterusan, you kena lawan, you kena bersuara. Sama macam isu kehakiman — kita tahu ada cubaan campur tangan, tapi bila kita lawan dan buat bising, tiba-tiba dia tak boleh teruskan dan akan kata "tak ada pun." Kalau tiba-tiba cerita Victor Chin ini hilang, senyap, tak ada apa-apa — dan Tan Sri/Dato' Seri Anwar kata "ini semua Rafizi bohong, Rafizi fitnah saja" — padahal kita dah tahu ia sedang dirundingkan sekarang, ada orang tengah cuba menyelesaikannya. Kalau ia berterusan, maksudnya *global settlement agreement* ini masih belum dilaksanakan. Kalau tiba-tiba senyap, maksudnya *they live happily ever after* — dan yang sengsara hanyalah rakyat. Rakyat yang baik. Okay, kita tengok lagi yang selanjutnya.
 
-**Host:** Satu topik yang...
+**Farhan (Pa'an):** Satu topik yang...
 
-**Rafizi Ramli:** Rakyat sengsara juga. Rakyat sengsara. Cerita sengsara — itu maksud cerita ini. Perang Iran dan ekonomi terhantuk, baru tengadah. Mungkin saya nak mula dengan beberapa kenyataan balas yang diberikan oleh kongsi-kongsi pembangkang tentang apa yang dibuat oleh Perdana Menteri dengan keputusan menaikkan harga minyak, terutamanya diesel — bahawa ia akan memberi kesan kos kepada rantaian bekalan dan pengangkutan. Itu satu. Dan dalam keadaan ini kita juga perlu tengok bagaimana keberkesanan langkah kerajaan mengurangkan Budi 95 — how far dia boleh go dalam penjimatan kerajaan sebenarnya?
+**Rafizi:** Rakyat sengsara juga. Rakyat sengsara. Cerita sengsara — itu maksud cerita ini. Perang Iran dan ekonomi terhantuk, baru tengadah. Mungkin saya nak mula dengan beberapa kenyataan balas yang diberikan oleh kongsi-kongsi pembangkang tentang apa yang dibuat oleh Perdana Menteri dengan keputusan menaikkan harga minyak, terutamanya diesel — bahawa ia akan memberi kesan kos kepada rantaian bekalan dan pengangkutan. Itu satu. Dan dalam keadaan ini kita juga perlu tengok bagaimana keberkesanan langkah kerajaan mengurangkan Budi 95 — how far dia boleh go dalam penjimatan kerajaan sebenarnya?
 
 Saya tak pasti bila orang buat komen pasal diesel, pasal logistik, rantaian logistik semua ini — ini bahasa Syahir Bacok lah — sama ada dia betul-betul semak atau tidak mengenai sistem subsidi bersasar diesel ini. Sebab yang betul-betul menanggung diesel yang mahal sekarang, dah RM5 lebih kan — RM5.52. Ini adalah orang biasa yang pakai diesel. Saya ingat ada 14–15 kategori industri dan kenderaan yang dikira terlibat dalam logistik ataupun pengangkutan awam yang sebenarnya mendapat diesel subsidi RM2.15. Jadi kita kena tengok nanti laporan-laporan inflasi dalam tempoh satu dua bulan dari sekarang. Tapi sebenarnya majoriti rangkaian logistik di Malaysia — baik lori, baik bas, baik bas sekolah, van, semua itu — dikira sebagai rangkaian logistik dan pengangkutan, dan mereka mendapat RM2.15. Jadi saya ingat kesan kepada peningkatan kos logistik itu jauh lebih rendah daripada yang difikirkan oleh orang ramai. Orang ramai saya faham mungkin tak tahu tentang sistem subsidi bersasar diesel ini. Tapi kalau ahli parlimen Bacok yang bernama Syahir Nomi tapi tak tahu benda ini, itu memalukan.
 
@@ -491,27 +491,27 @@ Pemikiran pegawai ataupun kerajaan begini: bila nak bagi sesuatu kelebihan ataup
 
 Jadi soal diesel ini, bila kenaikan ke RM5.52 — kalau kita tengok yang banyak bising di netizen, mereka yang memang pakai pickup truck berdiesel dan rakyat biasa yang tak masuk kategori bersasar tadi. Berapa besar mereka ini? Bukanlah majoriti seperti pengguna RON95, sebab itu api protes ini tak nampak besar sangat lagi. Jadi pandangan saya, yang perlu dibuat kerajaan sekarang ialah dengan segera menutup lubang keciciran itu. Program reka bentuk subsidi sasar diesel ini sudah dua tahun — kita umumkan Jun 2024, ini dah nak masuk Jun 2025... eh, 2026. Dah dua tahun. Jadi sebenarnya kita dah cukup maklumat dan maklum balas rakyat untuk kenal pasti *exclusion error* dan *inclusion error*. *Exclusion error* seperti yang saya sebut tadi — orang yang sepatutnya perlu dibantu tapi tak dapat apa-apa, jadi beban itu besar kepada mereka. Kalau macam pickup truck sekarang, sekali isi RM400, dalam RM450 — jadi satu bulan berapa kali isi?
 
-**Host:** Kalau...
+**Farhan (Pa'an):** Kalau...
 
-**Rafizi Ramli:** Kalau...
+**Rafizi:** Kalau...
 
-**Host:** ...bajet dikira, tak tekan sangat bawa...
+**Farhan (Pa'an):** ...bajet dikira, tak tekan sangat bawa...
 
-**Rafizi Ramli:** Janganlah tekan bawa nama ke...
+**Rafizi:** Janganlah tekan bawa nama ke...
 
-**Host:** You can...
+**Farhan (Pa'an):** You can...
 
-**Rafizi Ramli:** ...*probably get* dua kali isi sebulan. So maksudnya dalam RM900 sebulan. So *actually* pakai diesel jimat kalau tak mahal — kalau tak mahal, okay. So RM900 sebulan. So kalau dapat subsidi paling kurang RM300 tu, dia jadi RM600 — maksudnya sekali isi RM300 lah, masih lagi tinggi. Tapi RM900, *at least* tak sesakit itu. RM300 *still matters a lot*, especially kepada yang agak muda-muda — bukan muda, tua pun terasa tau, kalau RM900 sebulan isi minyak. Jadi itu yang saya tak dengar apa-apa daripada Dato' Seri Amir Hamzah sekarang. Sebab sepatutnya selepas satu tahun pun dia dah kena ada semakan, dia dah kena ada penambahbaikan program itu. Itu satu perkara mengenai diesel.
+**Rafizi:** ...*probably get* dua kali isi sebulan. So maksudnya dalam RM900 sebulan. So *actually* pakai diesel jimat kalau tak mahal — kalau tak mahal, okay. So RM900 sebulan. So kalau dapat subsidi paling kurang RM300 tu, dia jadi RM600 — maksudnya sekali isi RM300 lah, masih lagi tinggi. Tapi RM900, *at least* tak sesakit itu. RM300 *still matters a lot*, especially kepada yang agak muda-muda — bukan muda, tua pun terasa tau, kalau RM900 sebulan isi minyak. Jadi itu yang saya tak dengar apa-apa daripada Dato' Seri Amir Hamzah sekarang. Sebab sepatutnya selepas satu tahun pun dia dah kena ada semakan, dia dah kena ada penambahbaikan program itu. Itu satu perkara mengenai diesel.
 
 Jadi akhirnya ia berbalik kepada soal yang kita kata "terhantuk baru tengadah" ini — berbalik kepada perbezaan pandangan dasar utama saya dengan Dato' Seri Anwar dan Dato' Seri Amir Hamzah. Iaitu kalau kita nak betul-betul perbaiki keadaan mengenai subsidi pukal dan kedudukan ekonomi negara, kita tak boleh buat sepau masak sahaja. Dulu ada dua pandangan. Di sebelah saya, pandangan saya ialah soal subsidi minyak ini bukan semata-mata soal... nanti sekejap, aku ada dapat mesej penting. Bismillahirrahmanirrahim. Saya baru dapat mesej — Ramanan telah menghantar orang, *lawyer to lawyer*, untuk *settle* RM9.5 juta. Oh, *live update*.
 
-**Host:** *Live update.*
+**Farhan (Pa'an):** *Live update.*
 
-**Rafizi Ramli:** Jadi selamatlah — tapi ini maklumat yang saya dapat lah, mungkin Victor Chin akan senyap tapi YB akan disaman. Ha? Mungkin Victor Chin akan senyap tapi dia akan disaman Ramanan. Macam saya sebut lah, Victor Chin akan senyap tapi Ramanan akan saman. Sebab itu dia yakin, dia melenting dulu sebab memang dia akan *settle*. Macam saya sebut, dia akan *settle* RM9.5 juta.
+**Rafizi:** Jadi selamatlah — tapi ini maklumat yang saya dapat lah, mungkin Victor Chin akan senyap tapi YB akan disaman. Ha? Mungkin Victor Chin akan senyap tapi dia akan disaman Ramanan. Macam saya sebut lah, Victor Chin akan senyap tapi Ramanan akan saman. Sebab itu dia yakin, dia melenting dulu sebab memang dia akan *settle*. Macam saya sebut, dia akan *settle* RM9.5 juta.
 
-**Host:** Ada duit macam tu je, *settle* macam tu. Aku hutang RM2 pun tak payah.
+**Farhan (Pa'an):** Ada duit macam tu je, *settle* macam tu. Aku hutang RM2 pun tak payah.
 
-**Rafizi Ramli:** *Touch code* T20, *live update*. Ia berbalik kepada perbezaan pandangan yang utama — iaitu cara yang telah dibuat sekarang dengan Budi 95 ini, cara itu nampak popular kepada Dato' Seri Anwar, kepada MOF contohnya, Dato' Seri Amir Hamzah — dia nampak macam pejuang kanan kepada Dato' Seri Anwar kerana mempopularkan Dato' Seri Anwar, tapi ia tak menyelesaikan masalah. Dan saya dah sebut berkali-kali bahawa itu hanya nampak okay kalau harga minyak kekal rendah, $60, $65 macam itu ataupun lebih rendah. Tapi kalau harga minyak menonjak naik ke atas, melambung, segala yang kita buat untuk *fiscal consolidation*, untuk memperbaiki kedudukan kewangan kerajaan, semua itu akan hapus.
+**Rafizi:** *Touch code* T20, *live update*. Ia berbalik kepada perbezaan pandangan yang utama — iaitu cara yang telah dibuat sekarang dengan Budi 95 ini, cara itu nampak popular kepada Dato' Seri Anwar, kepada MOF contohnya, Dato' Seri Amir Hamzah — dia nampak macam pejuang kanan kepada Dato' Seri Anwar kerana mempopularkan Dato' Seri Anwar, tapi ia tak menyelesaikan masalah. Dan saya dah sebut berkali-kali bahawa itu hanya nampak okay kalau harga minyak kekal rendah, $60, $65 macam itu ataupun lebih rendah. Tapi kalau harga minyak menonjak naik ke atas, melambung, segala yang kita buat untuk *fiscal consolidation*, untuk memperbaiki kedudukan kewangan kerajaan, semua itu akan hapus.
 
 Kita dah tahu, contohnya bila Budi 95 dilaksanakan, Dato' Seri Amir Hamzah sendiri kata bahawa penjimatan tahunan RM2.5 bilion — itu saja penjimatan tahunan subsidi. Sekarang, sekali naik saja, dia jadi RM3.2 bilion setahun. Jadi dalam masa sebulan saja dia *wipe out everything*. Dan bila dia *wipe out everything* dalam keadaan sekarang, rakyat mula nampak sebenarnya memang betul ada krisis tenaga dunia dan harga pasaran sebanyak itu. Di pihak kerajaan dan penyokong-penyokong kerajaan pula, duk lambung — baiknya kerajaan menanggung — eh, itu tugas duit kerajaan, duit rakyat. Tugas kerajaan ialah menentukan macam mana untuk menguruskan wang itu dengan terbaik supaya ia bagi nilai yang terbaik, bukan sahaja untuk kita sekarang.
 
@@ -523,9 +523,9 @@ Kita ambil jalan yang lain. Saya ingat pada tahun 80-an, 90-an, harga minyak tid
 
 So satu, kita tak tahu perang ini berlarutan sampai bila. Tapi katakanlah Dato' Seri Amir Hamzah betul, katanya oh, perang dengan bantuan Dato' Seri Anwar mungkin akan ditamatkan dalam tempoh satu dua bulan — katakan dua minggu daripada sekarang. Agak-agaknya bila perang tamat, adakah harga minyak akan kembali normal kepada $60 setong atau tidak? Kalau ikut yang YB cakap sebelum ini, dia tak akan turun. Sebabnya?
 
-**Host:** *I mean*, *facility-facility* dekat Middle East banyak yang...
+**Farhan (Pa'an):** *I mean*, *facility-facility* dekat Middle East banyak yang...
 
-**Rafizi Ramli:** Oh, aku dah pernah sebut — *invested by western punya country* semua. So kita kena ingat, *oil and gas* ini ada satu ciri yang dipanggil *long term gestation period*. Sesuatu keputusan untuk melabur itu akan ambil masa, dia akan kira pulangan untuk tempoh 20–30 tahun akan datang — dia bukan macam aku jual nasi lemak kat Keramat tau, 20–30 tahun akan datang. Jadi dia akan tengok makro 20–30 tahun akan datang, *supply demand* satu, *financing* semua. Selepas perang yang berlaku, ada dua perkara yang kita tahu akan mempengaruhi harga minyak mentah ke arah lebih tinggi di masa akan datang.
+**Rafizi:** Oh, aku dah pernah sebut — *invested by western punya country* semua. So kita kena ingat, *oil and gas* ini ada satu ciri yang dipanggil *long term gestation period*. Sesuatu keputusan untuk melabur itu akan ambil masa, dia akan kira pulangan untuk tempoh 20–30 tahun akan datang — dia bukan macam aku jual nasi lemak kat Keramat tau, 20–30 tahun akan datang. Jadi dia akan tengok makro 20–30 tahun akan datang, *supply demand* satu, *financing* semua. Selepas perang yang berlaku, ada dua perkara yang kita tahu akan mempengaruhi harga minyak mentah ke arah lebih tinggi di masa akan datang.
 
 Pertama, kerana semua fasiliti yang perlu diganti ini memerlukan duit — ia dah rosak semua, perlukan duit, akan ambil masa. Jadi bukannya bila perang berhenti, semua naik balik terus. Ada *shutdown*, nak baiki semua, itu memerlukan wang, dan bila memerlukan wang, ia *a combination of extra cost* dan *extra curtailment of supply*. Jadi *supply most probably is tight* untuk tempoh lima enam bulan akan datang — kalaupun kita tak kata bertahun-tahun, lima enam bulan akan datang. So *you would expect* harga minyak mentah tidak akan turun mendadak — mungkin turun ke $90, $80 begitulah saya ingat. *I think* untuk dia kembali ke $60 setong, yang mana perkiraan Budi 95 itu dibuat, *not that easy* pada pandangan saya.
 
@@ -557,9 +557,9 @@ Sebab itu bagi saya — ini yang terakhir saya nak cakap pasal benda ini — say
 
 Kemudian saya tengok pembangkang. Satu-satunya kenyataan yang datang daripada Perikatan Nasional ialah, dia maklumkan bahawa Dato' Seri Dr. Hamzah — Pengerusi PN — kata kerajaan mestilah membuat satu jawatankuasa *non-partisan* yang melibatkan mereka untuk buat keputusan. Dia nak buat jawatankuasa pula. Isu dia bukan isu jawatankuasa — nak buat jawatankuasa, buatlah. Tapi kalau keputusan itu tak boleh dibuat kerana ahli politik masih lagi nak jadi populis, kalau keputusan untuk jangka panjang tidak boleh dibuat, jadi ia jadi macam segala jenis jawatankuasa yang pernah ada — lepas satu, satu.
 
-**Host:** Sedikit soalan *devil's advocate*. Mungkin sedikit ketagihan rakyat kepada harga minyak murah ini — orang marah kata rakyat ketagihan — itu juga disumbangkan oleh ahli politik melalui ceramah-ceramah sebelum ini. Contohnya, harga minyak dengan harga yang tertentu — pun saya rasa okaylah, mungkin waktu itu tengok harga *brand* berapa. Tapi ada yang mengatakan bahawa Malaysia ini pengeluar minyak, jadi lebih baik subsidi itu diagihkan kepada rakyat. Ini paling *famous* Dato' Seri Najib lah, tapi YB pun mungkin ada sikit. Jadi macam mana YB jawab?
+**Farhan (Pa'an):** Sedikit soalan *devil's advocate*. Mungkin sedikit ketagihan rakyat kepada harga minyak murah ini — orang marah kata rakyat ketagihan — itu juga disumbangkan oleh ahli politik melalui ceramah-ceramah sebelum ini. Contohnya, harga minyak dengan harga yang tertentu — pun saya rasa okaylah, mungkin waktu itu tengok harga *brand* berapa. Tapi ada yang mengatakan bahawa Malaysia ini pengeluar minyak, jadi lebih baik subsidi itu diagihkan kepada rakyat. Ini paling *famous* Dato' Seri Najib lah, tapi YB pun mungkin ada sikit. Jadi macam mana YB jawab?
 
-**Rafizi Ramli:** Tak, keadaan sebenarnya kita kena dinamikkan. Keadaan mesti kita semak dari satu semasa ke semasa. Tadi saya bagi contoh diesel — semasa program reka bentuk itu dibuat tahun 2024, itu yang terbaik yang difikirkan pada masa itu. Selepas dua tahun, kita akan kenal pasti *exclusion error* dan *inclusion error*, maka kita tambah baik. Sama juga seperti saya ingat Budi 95, pada masa itu, keperluannya — walaupun saya sendiri memang tak bersetuju sampai ke sudah dengan pendekatan itu — keperluan itu dirasakan sebagai imbangan terbaik kepada rakyat supaya inflasi ataupun populariti kerajaan tidak terjejas. Kerana Dato' Seri Anwar sangat trauma kalau pasal harga minyak naik, sebab dia yang berkempen pasal harga minyak dulu.
+**Rafizi:** Tak, keadaan sebenarnya kita kena dinamikkan. Keadaan mesti kita semak dari satu semasa ke semasa. Tadi saya bagi contoh diesel — semasa program reka bentuk itu dibuat tahun 2024, itu yang terbaik yang difikirkan pada masa itu. Selepas dua tahun, kita akan kenal pasti *exclusion error* dan *inclusion error*, maka kita tambah baik. Sama juga seperti saya ingat Budi 95, pada masa itu, keperluannya — walaupun saya sendiri memang tak bersetuju sampai ke sudah dengan pendekatan itu — keperluan itu dirasakan sebagai imbangan terbaik kepada rakyat supaya inflasi ataupun populariti kerajaan tidak terjejas. Kerana Dato' Seri Anwar sangat trauma kalau pasal harga minyak naik, sebab dia yang berkempen pasal harga minyak dulu.
 
 Saya boleh lihat, sekarang kalau keadaan ini berterusan, Budi 95 tidak lagi mencapai sasaran dan tidak ada kesan kepada usaha mengekang subsidi negara. Sama juga seperti tahun awal 2008 contohnya — masa itu harga minyak masih dalam keadaan $40, $50, dia naik melonjak lebih $80 tahun 2008. Itu satu. Kedua, rezab dan pengeluaran minyak mentah Malaysia masih lagi tinggi masa itu. Dan permintaan minyak dunia masa itu tidaklah seperti sekarang, yang mana pasaran terbesar minyak dunia ialah China dan India, populasi mereka besar. So saya ingat keadaan itu dah banyak berubah. Kita kena terima hakikat, macam saya sebut — minyak mentah kita dah tak ada; di luar pesisir pantai Terengganu memang sangat berkurang, minyak yang ada pun kebanyakannya di luar pesisir pantai Sabah dan Sarawak, dan yang masih ada di Terengganu pun banyaknya gas, serta daripada JDA — Joint Development Area — dengan Thailand.
 
@@ -573,40 +573,40 @@ Amaran pula kepada PAS, Bersatu, UMNO — kalau mereka teruskan dengan naratif p
 
 Saya tak rasa kita boleh pergi kepada isu nombor tiga, nombor empat — tiga jam, kita dah tiga jam.
 
-**Host:** Tak apalah, tunda lagi.
+**Farhan (Pa'an):** Tak apalah, tunda lagi.
 
-**Rafizi Ramli:** Jadi, mereka yang nak tahu sama ada "Rafizi Menteri Paling Gagal," dan juga untuk saya balas balik segala jenis manusia yang diambil — Luqman Nur Adam, Luqman Nur Adam dia boleh mengaku kononnya dia buat masuk dalam fikiran, dia rekrut YB.
+**Rafizi:** Jadi, mereka yang nak tahu sama ada "Rafizi Menteri Paling Gagal," dan juga untuk saya balas balik segala jenis manusia yang diambil — Luqman Nur Adam, Luqman Nur Adam dia boleh mengaku kononnya dia buat masuk dalam fikiran, dia rekrut YB.
 
-**Host:** Ya.
+**Farhan (Pa'an):** Ya.
 
-**Rafizi Ramli:** Kalau betul aku malulah kot. Okay. Kali pertama saya jumpa Luqman Nur Adam ialah yang dia kata dia pergi ke London itu — kononnya nak rekrut aku.
+**Rafizi:** Kalau betul aku malulah kot. Okay. Kali pertama saya jumpa Luqman Nur Adam ialah yang dia kata dia pergi ke London itu — kononnya nak rekrut aku.
 
-**Host:** Ya, ya.
+**Farhan (Pa'an):** Ya, ya.
 
-**Rafizi Ramli:** Kau nak tahu apa cerita dia?
+**Rafizi:** Kau nak tahu apa cerita dia?
 
-**Host:** Ha, apa cerita dia?
+**Farhan (Pa'an):** Ha, apa cerita dia?
 
-**Rafizi Ramli:** Aku masuk PKR ataupun reformasi ini sebenarnya — yelah, sebab saya kenal Dato' Seri Anwar ini lebih awal, masa dia dipecat, ikut kawan-kawan. Jadi sebelum ada PKR lagi, masa itu Luqman Nur Adam ini ada dalam UMNO lagi, aku dah ada dah semua. Cuma nak dijadikan cerita. Ini tahun bila — tahun 2000 kot. Izam Mokhno, entah apa-apa, dia ada mesyuarat di London. Jadi dia nak jumpa di London. Okaylah, tak apa. Tapi Izam kata dia nak bawa Luqman Nur Adam sekali — masa itu Luqman Nur Adam ini ketua pemuda PKR. Tapi Izam tak nak bayar hotel dia, cuma bayar tiket sahaja. Jadi dia kena cari tempat duduk, tempat menumpang — yalah, dia menumpang atas lantai bilik aku. Itu kali pertama aku...
+**Rafizi:** Aku masuk PKR ataupun reformasi ini sebenarnya — yelah, sebab saya kenal Dato' Seri Anwar ini lebih awal, masa dia dipecat, ikut kawan-kawan. Jadi sebelum ada PKR lagi, masa itu Luqman Nur Adam ini ada dalam UMNO lagi, aku dah ada dah semua. Cuma nak dijadikan cerita. Ini tahun bila — tahun 2000 kot. Izam Mokhno, entah apa-apa, dia ada mesyuarat di London. Jadi dia nak jumpa di London. Okaylah, tak apa. Tapi Izam kata dia nak bawa Luqman Nur Adam sekali — masa itu Luqman Nur Adam ini ketua pemuda PKR. Tapi Izam tak nak bayar hotel dia, cuma bayar tiket sahaja. Jadi dia kena cari tempat duduk, tempat menumpang — yalah, dia menumpang atas lantai bilik aku. Itu kali pertama aku...
 
-**Host:** Habis tak pasal-pasal kena lukis.
+**Farhan (Pa'an):** Habis tak pasal-pasal kena lukis.
 
-**Rafizi Ramli:** Tak pasal-pasal! Kau gila ke apa lah, Khumar ni, janganlah bawa cerita benda-benda yang boleh memalukan. Kan. Maka dia pun duduklah di bilik aku, tidur atas lantai. Aku kesian tengok, konon "ini pejuang reformasi" — dan tidur atas lantai di bilik aku, sebab dia nak sangat pergi ke London tapi tak ada duit, dan tak ada orang boleh bayar untuk *accommodation* dia. Aku pun bantulah, duduklah atas lantai bilik aku. Itulah kali pertama aku jumpa Luqman Nur Adam. Jadi saya nak perbetulkan — dia bukan bawa aku masuk PKR, aku bawa dia masuk bilik aku.
+**Rafizi:** Tak pasal-pasal! Kau gila ke apa lah, Khumar ni, janganlah bawa cerita benda-benda yang boleh memalukan. Kan. Maka dia pun duduklah di bilik aku, tidur atas lantai. Aku kesian tengok, konon "ini pejuang reformasi" — dan tidur atas lantai di bilik aku, sebab dia nak sangat pergi ke London tapi tak ada duit, dan tak ada orang boleh bayar untuk *accommodation* dia. Aku pun bantulah, duduklah atas lantai bilik aku. Itulah kali pertama aku jumpa Luqman Nur Adam. Jadi saya nak perbetulkan — dia bukan bawa aku masuk PKR, aku bawa dia masuk bilik aku.
 
 Jadi yang "Eng Lom" — yang siapa "Eng Lom" — semua orang tak ingat dia, nama dia, dia kata dia pengasas PKR, tapi semua tak ingat siapa. Kita tangguh minggu depan lah.
 
-**Host:** Okay, harap tak basi lagi.
+**Farhan (Pa'an):** Okay, harap tak basi lagi.
 
-**Rafizi Ramli:** Eh, tak apa, cerita gosip macam itu orang suka. Itu je lah kot. Sama juga yang KJ kata — "oh pembangkang paling tak berguna" — itulah padan muka walaun-walaun yang selama ini duduk lambung KJ. Jadi yang itu kita tangguhkan ke minggu depan.
+**Rafizi:** Eh, tak apa, cerita gosip macam itu orang suka. Itu je lah kot. Sama juga yang KJ kata — "oh pembangkang paling tak berguna" — itulah padan muka walaun-walaun yang selama ini duduk lambung KJ. Jadi yang itu kita tangguhkan ke minggu depan.
 
 Selamat Hari Raya.
 
-**Host:** Selamat Hari Raya.
+**Farhan (Pa'an):** Selamat Hari Raya.
 
-**Rafizi Ramli:** Jaga makan, jangan banyak sangat. Aku dah tambah satu kilo.
+**Rafizi:** Jaga makan, jangan banyak sangat. Aku dah tambah satu kilo.
 
-**Host:** Tak apa, boleh turun balik.
+**Farhan (Pa'an):** Tak apa, boleh turun balik.
 
-**Rafizi Ramli:** Okay.
+**Rafizi:** Okay.
 
-**Host:** Okay, bye.
+**Farhan (Pa'an):** Okay, bye.

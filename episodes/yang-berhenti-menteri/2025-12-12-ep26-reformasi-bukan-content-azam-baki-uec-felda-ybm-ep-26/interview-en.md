@@ -8,7 +8,7 @@ duration_seconds: 8846
 duration: 2h 27m
 view_count: 81498
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Haziq
 guests: []
 topics:
@@ -50,209 +50,209 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Not "Yang Berhenti Menteri," this is already episode 26 with brother Rafizi. But before that, everyone needs to follow us on social media as usual: Facebook, Twitter, IG, and YouTube. I hear one account already has 1 million, though it's not the usual one, right?
 
-**Rafizi Ramli:** That's the comment section one, right.
+**Rafizi:** That's the comment section one, right.
 
 **Haziq:** The comment section has 1 million. On Facebook, huh? So we need to add even more followers, okay? So I probably won't prolong this, we have a lot of issues, YB, this week. Let's go straight to BERIA. "Beria Mat." Let's look at episode 26, segment one. Bismillah.
 
 **Haziq:** Waving your hand gets you RM100. But before that, does YB know him?
 
-**Rafizi Ramli:** No, I don't know him. Isn't this the one Papa Gomo wasn't happy with?
+**Rafizi:** No, I don't know him. Isn't this the one Papa Gomo wasn't happy with?
 
 **Haziq:** People call him the Generous Sultan.
 
-**Rafizi Ramli:** Never knew that. This is the first time I've come across him because of this issue. But even so, I don't really know him. I just saw on social media the cybertrooper... yeah, what did Papa Gomo call him?
+**Rafizi:** Never knew that. This is the first time I've come across him because of this issue. But even so, I don't really know him. I just saw on social media the cybertrooper... yeah, what did Papa Gomo call him?
 
 **Haziq:** Tun M's cybertrooper.
 
-**Rafizi Ramli:** Tun M's cybertrooper? The one who was very angry at him, right? But this one, there's a lot of it in the media, that he just gives RM100 for a wave, just a wave gets RM100. Then there was someone behind him who...
+**Rafizi:** Tun M's cybertrooper? The one who was very angry at him, right? But this one, there's a lot of it in the media, that he just gives RM100 for a wave, just a wave gets RM100. Then there was someone behind him who...
 
 **Haziq:** Do you need to know him?
 
-**Rafizi Ramli:** No... don't know... didn't really watch it. But there was someone... true, he's like giving out ang pow, right? Giving ang pow. There's a risk... oh, that! Is that like Sanusi Hamzah?
+**Rafizi:** No... don't know... didn't really watch it. But there was someone... true, he's like giving out ang pow, right? Giving ang pow. There's a risk... oh, that! Is that like Sanusi Hamzah?
 
 **Haziq:** Yes, Ulul Albab.
 
-**Rafizi Ramli:** So he has ris- where is this?
+**Rafizi:** So he has ris- where is this?
 
 **Haziq:** In Melaka.
 
-**Rafizi Ramli:** Oh, in Melaka. Klebang. Ah, at Klebang. There's a risk when you give out money like ang pow, people will take the money two or three times, right? So that's why the person behind said only one wave gets RM100.
+**Rafizi:** Oh, in Melaka. Klebang. Ah, at Klebang. There's a risk when you give out money like ang pow, people will take the money two or three times, right? So that's why the person behind said only one wave gets RM100.
 
-**Rafizi Ramli:** But Haziq, what's the reason he wants to give RM100?
+**Rafizi:** But Haziq, what's the reason he wants to give RM100?
 
 **Haziq:** What's the method?
 
-**Rafizi Ramli:** Why does he give RM100? Or is he just really generous?
+**Rafizi:** Why does he give RM100? Or is he just really generous?
 
 **Haziq:** He's really generous. No, the fact that people always call him the Generous Sultan is because before this he used to give gifts on livestreams. He gave the Lion gift. Does YB know how much one costs? Over RM2,000.
 
-**Rafizi Ramli:** Oh really? That's on TikTok, right?
+**Rafizi:** Oh really? That's on TikTok, right?
 
 **Haziq:** TikTok.
 
-**Rafizi Ramli:** I hope tonight he gives a Lion gift to YB's TikTok live.
+**Rafizi:** I hope tonight he gives a Lion gift to YB's TikTok live.
 
-**Rafizi Ramli:** We can't do that.
+**Rafizi:** We can't do that.
 
 **Haziq:** Eh, but you can't because, well, you're a politician.
 
-**Rafizi Ramli:** Political matters, can't accept that.
+**Rafizi:** Political matters, can't accept that.
 
-**Rafizi Ramli:** Even though he can't give gifts at all?
+**Rafizi:** Even though he can't give gifts at all?
 
 **Haziq:** Can't give gifts directly.
 
-**Rafizi Ramli:** Aw man.
+**Rafizi:** Aw man.
 
 **Haziq:** Missed opportunity.
 
-**Rafizi Ramli:** No point doing TikTok tonight then.
+**Rafizi:** No point doing TikTok tonight then.
 
-**Rafizi Ramli:** Hm... Beria... let me comment on this, I'm usually not... not really comfortable with this kind of approach, right? Mhm. Because one thing is, in our culture, in Islam, if the right hand gives, the left hand shouldn't even know. That's one thing. Then when it becomes content for the media like this, we can't read people's intentions. But normalizing something like "wave your hand, get RM100," it's normalizing, yeah, a feudal thing in our society, right? Meaning the rich person, the person above. We don't even know why he's rich or whatever, right? But it normalizes rich people just giving, giving, giving to everyone. In my opinion, hmm... like at a normal celebration event, during Raya, giving ang pow... giving ang pow and all that, I'm not too comfortable with it either. But it's become our culture, so it's fine. Okay. At the very least, at a celebration event like that, we have a different perspective. It's for the kids, for everyone to be happy. But it would be better if everyone who's genuinely struggling was helped quietly. But yeah, this looks like it's for making content, I guess. Hm mhm.
+**Rafizi:** Hm... Beria... let me comment on this, I'm usually not... not really comfortable with this kind of approach, right? Mhm. Because one thing is, in our culture, in Islam, if the right hand gives, the left hand shouldn't even know. That's one thing. Then when it becomes content for the media like this, we can't read people's intentions. But normalizing something like "wave your hand, get RM100," it's normalizing, yeah, a feudal thing in our society, right? Meaning the rich person, the person above. We don't even know why he's rich or whatever, right? But it normalizes rich people just giving, giving, giving to everyone. In my opinion, hmm... like at a normal celebration event, during Raya, giving ang pow... giving ang pow and all that, I'm not too comfortable with it either. But it's become our culture, so it's fine. Okay. At the very least, at a celebration event like that, we have a different perspective. It's for the kids, for everyone to be happy. But it would be better if everyone who's genuinely struggling was helped quietly. But yeah, this looks like it's for making content, I guess. Hm mhm.
 
-**Rafizi Ramli:** But sorry, sorry. This has a political connotation. Because he's involved with me — if I'm not mistaken, he's a PKR member?
+**Rafizi:** But sorry, sorry. This has a political connotation. Because he's involved with me — if I'm not mistaken, he's a PKR member?
 
-**Rafizi Ramli:** Yeah? After my time, probably?
+**Rafizi:** Yeah? After my time, probably?
 
 **Haziq:** After your time.
 
-**Rafizi Ramli:** After my era. I don't know him. Don't know him.
+**Rafizi:** After my era. I don't know him. Don't know him.
 
-**Rafizi Ramli:** If we swap him with a celebrity example, the one people always see is like Isa Isarb? Isa Isarb always gives out money...
+**Rafizi:** If we swap him with a celebrity example, the one people always see is like Isa Isarb? Isa Isarb always gives out money...
 
 **Haziq:** Isa Isarb.
 
-**Rafizi Ramli:** ...all that. Is that considered beria too, or...
+**Rafizi:** ...all that. Is that considered beria too, or...
 
 **Haziq:** I wanted to ask that too.
 
-**Rafizi Ramli:** Yeah, that's everyone's own perspective, right? Meaning the public probably likes it. It's like unexpected luck, fortune from stepping with the right foot first, right?
+**Rafizi:** Yeah, that's everyone's own perspective, right? Meaning the public probably likes it. It's like unexpected luck, fortune from stepping with the right foot first, right?
 
 **Haziq:** He says it's an inspiration for others to do good? In a wrong way, maybe?
 
-**Rafizi Ramli:** Well, I hold to... no. I hold to the most basic principle. If you want to give, the right hand gives, the left hand shouldn't know, right? Yeah, everyone has their own reasons. But if it becomes a culture, and it becomes such that rich people feel they must come down and give, regardless of how they made their money, right? Then we're deifying money. Because the rich person has money, he can give it all, right? But yeah, everyone has their own view. If it's an artist or whoever, maybe it's good for content. Actually this is more of a modern-day thing, the content era, right? It's good for content. Beria for making content.
+**Rafizi:** Well, I hold to... no. I hold to the most basic principle. If you want to give, the right hand gives, the left hand shouldn't know, right? Yeah, everyone has their own reasons. But if it becomes a culture, and it becomes such that rich people feel they must come down and give, regardless of how they made their money, right? Then we're deifying money. Because the rich person has money, he can give it all, right? But yeah, everyone has their own view. If it's an artist or whoever, maybe it's good for content. Actually this is more of a modern-day thing, the content era, right? It's good for content. Beria for making content.
 
 **Haziq:** Okay. Alright YB, let's look at...
 
-**Rafizi Ramli:** If it were me, if waving one hand gets RM100, what about waving two hands? Get RM200? Give me a watch, bro.
+**Rafizi:** If it were me, if waving one hand gets RM100, what about waving two hands? Get RM200? Give me a watch, bro.
 
 **Haziq:** Next. Grab Hero Brother. This one's a new beria category, YB.
 
-**Rafizi Ramli:** Oh, this is the antidote to the others. This is the antidote to last week's "enough already." This one, yeah, we rarely see this, right? Because he has no connection to it, right? Actually, he doesn't even know where his motorbike is. But it's good that he goes to help... Because usually when a drain is clogged, actually there's only a little trash on top, right? He... so if everyone did beria like this, it'd be fine. Good. Good. Good, good, good. Okay, this is beria too.
+**Rafizi:** Oh, this is the antidote to the others. This is the antidote to last week's "enough already." This one, yeah, we rarely see this, right? Because he has no connection to it, right? Actually, he doesn't even know where his motorbike is. But it's good that he goes to help... Because usually when a drain is clogged, actually there's only a little trash on top, right? He... so if everyone did beria like this, it'd be fine. Good. Good. Good, good, good. Okay, this is beria too.
 
 **Haziq:** Hm.
 
-**Rafizi Ramli:** Beria like this is fine. Beria like this is fine. Every day beria like this is fine.
+**Rafizi:** Beria like this is fine. Beria like this is fine. Every day beria like this is fine.
 
 **Haziq:** Okay YB, let's look at the next one. But YB, don't be shocked. Bismillah.
 
-**Rafizi Ramli:** Who's in that picture? Ceplos? But he's praising YB, huh? That's from back in the day. Someone's tagging me here. "What's wrong with him emotionally?" So, people don't know the background, right? Because he says he recites my name as a wirid every day, every hour, right? He's afraid that if he dies, he'll be reciting my name before he dies too, right? That was back in 2019. Oh, it's not easy to get a picture with the family. A great figure. "What's wrong with spelling 'macho' like this? But most macho." Well, actually I... characters like this come and go, right? So there's a reason. It's just, I remember, that his beria... I don't understand. I want to say I don't understand — I don't know. I understand why he recites my name as a ritual every day. I just don't understand what exactly he thinks he gets out of it in his head. But part of it, I think, is because it's personal. Because his story...
+**Rafizi:** Who's in that picture? Ceplos? But he's praising YB, huh? That's from back in the day. Someone's tagging me here. "What's wrong with him emotionally?" So, people don't know the background, right? Because he says he recites my name as a wirid every day, every hour, right? He's afraid that if he dies, he'll be reciting my name before he dies too, right? That was back in 2019. Oh, it's not easy to get a picture with the family. A great figure. "What's wrong with spelling 'macho' like this? But most macho." Well, actually I... characters like this come and go, right? So there's a reason. It's just, I remember, that his beria... I don't understand. I want to say I don't understand — I don't know. I understand why he recites my name as a ritual every day. I just don't understand what exactly he thinks he gets out of it in his head. But part of it, I think, is because it's personal. Because his story...
 
 **Haziq:** Does YB know him?
 
-**Rafizi Ramli:** Oh, I know him. He's a retired soldier, right? So I remember, what year was it... around 2012, 2013, something like that. Or maybe even earlier? At that time, Datuk Fauzi Rahman was the PKR Pahang chairman. So he told me, there's this retired soldier who's very diligent, making content and all that. Back in those days, right? So, whenever we could help, we'd help. So, occasionally, since he's retired — I remember retired soldiers get, what, RM300, RM400, RM500, something like that? So, yeah, we help whichever friends we can over the years. So then he became a follower. A follower, right? So this is his character, he must be obsessive. He can't help but be obsessive, you know. So he followed. Then, in 2019 — by 2019 I was already not interested in politics anymore. Ah, yes. So, meaning around June 2019, he probably missed me already, that's why when he got that picture he immediately wrote about it, right? So he was still politically enthusiastic though. So, occasionally, at that time I still had WhatsApp. Occasionally he'd message, and I'd give him my views on this and that, right? People like him usually like it, ah, these Ceplos types.
+**Rafizi:** Oh, I know him. He's a retired soldier, right? So I remember, what year was it... around 2012, 2013, something like that. Or maybe even earlier? At that time, Datuk Fauzi Rahman was the PKR Pahang chairman. So he told me, there's this retired soldier who's very diligent, making content and all that. Back in those days, right? So, whenever we could help, we'd help. So, occasionally, since he's retired — I remember retired soldiers get, what, RM300, RM400, RM500, something like that? So, yeah, we help whichever friends we can over the years. So then he became a follower. A follower, right? So this is his character, he must be obsessive. He can't help but be obsessive, you know. So he followed. Then, in 2019 — by 2019 I was already not interested in politics anymore. Ah, yes. So, meaning around June 2019, he probably missed me already, that's why when he got that picture he immediately wrote about it, right? So he was still politically enthusiastic though. So, occasionally, at that time I still had WhatsApp. Occasionally he'd message, and I'd give him my views on this and that, right? People like him usually like it, ah, these Ceplos types.
 
 **Haziq:** Aha.
 
-**Rafizi Ramli:** He usually really likes it when he has contact or communication with leaders or whoever, because he can get information he can turn into content to write about, right? So in the early days I entertained him occasionally, old friends and all, right? Then there was one time, even I, after a while, I really didn't get too involved, I didn't pay attention, right? But at one point, he was like — I saw someone told him...
+**Rafizi:** He usually really likes it when he has contact or communication with leaders or whoever, because he can get information he can turn into content to write about, right? So in the early days I entertained him occasionally, old friends and all, right? Then there was one time, even I, after a while, I really didn't get too involved, I didn't pay attention, right? But at one point, he was like — I saw someone told him...
 
 **Haziq:** Ah.
 
-**Rafizi Ramli:** He asked, "Is it true you support Izam joining this party?" Izam Nakno?
+**Rafizi:** He asked, "Is it true you support Izam joining this party?" Izam Nakno?
 
 **Haziq:** Izam Nakno. Hm, okay.
 
-**Rafizi Ramli:** Right? So I was like, "Eh, what does that have to do with me?" right? So he told me, "This guy of yours, Wan Fayhsal, is bringing in Izam, campaigning for Izam to join the party." So I remember around 2019, towards the end, I told him, "If you're really friends within a team or whatever, we have to follow the same line or direction that's been agreed together. We can't just make our own decisions." So, for bigger matters, like — I think this was after Sheraton, after Sheraton, when he campaigned very hard to bring in Izam, supposedly to strengthen the party. The problem was, my name got dragged into it, because supposedly, before this he was, like, associated with my image, now after this he wants to bring in Izam, right? So I confronted him, I said, "I don't agree."
+**Rafizi:** Right? So I was like, "Eh, what does that have to do with me?" right? So he told me, "This guy of yours, Wan Fayhsal, is bringing in Izam, campaigning for Izam to join the party." So I remember around 2019, towards the end, I told him, "If you're really friends within a team or whatever, we have to follow the same line or direction that's been agreed together. We can't just make our own decisions." So, for bigger matters, like — I think this was after Sheraton, after Sheraton, when he campaigned very hard to bring in Izam, supposedly to strengthen the party. The problem was, my name got dragged into it, because supposedly, before this he was, like, associated with my image, now after this he wants to bring in Izam, right? So I confronted him, I said, "I don't agree."
 
 **Haziq:** On WhatsApp?
 
-**Rafizi Ramli:** On WhatsApp. We still had WhatsApp back then. I confronted him, I told him that's not the right thing to do. Yeah, if the party is weak or whatever, leave it to the leadership, right? I wasn't involved in that anymore. But going around scheming to bring in Izam, and then dragging my name into it — that, I didn't agree with, right? From there, he became Ceplos. From there, actually the story — because he simply cannot be corrected at all.
+**Rafizi:** On WhatsApp. We still had WhatsApp back then. I confronted him, I told him that's not the right thing to do. Yeah, if the party is weak or whatever, leave it to the leadership, right? I wasn't involved in that anymore. But going around scheming to bring in Izam, and then dragging my name into it — that, I didn't agree with, right? From there, he became Ceplos. From there, actually the story — because he simply cannot be corrected at all.
 
 **Haziq:** Hm.
 
-**Rafizi Ramli:** He, I think, um... if he... there's one viewpoint. That's sometimes, our people, right? We don't look in the mirror. Because, for example, with someone like Wan Fayhsal, and the Ceplos crowd of his generation, right? The line they'll always play is that he thinks only he's right. If he attacks me, he thinks only he's right, only his view is right, right? He doesn't realize that actually he should have been corrected at the same time... that there was no need to go to such trouble to bring Izam into this party. And it turned out exactly like this now, right? And that thing proved to be true. Izam is now on the PAS stage. What hasn't he said about Anwar Ibrahim, right? So, from there. From there he became very anti — because he got corrected at the same time, and I think because he feels he no longer has that line of communication to use as material. Otherwise, he'd look impressive, because he got this info from Rafizi. He already sold my name, right? Now who's name he's selling, I don't know.
+**Rafizi:** He, I think, um... if he... there's one viewpoint. That's sometimes, our people, right? We don't look in the mirror. Because, for example, with someone like Wan Fayhsal, and the Ceplos crowd of his generation, right? The line they'll always play is that he thinks only he's right. If he attacks me, he thinks only he's right, only his view is right, right? He doesn't realize that actually he should have been corrected at the same time... that there was no need to go to such trouble to bring Izam into this party. And it turned out exactly like this now, right? And that thing proved to be true. Izam is now on the PAS stage. What hasn't he said about Anwar Ibrahim, right? So, from there. From there he became very anti — because he got corrected at the same time, and I think because he feels he no longer has that line of communication to use as material. Otherwise, he'd look impressive, because he got this info from Rafizi. He already sold my name, right? Now who's name he's selling, I don't know.
 
 **Haziq:** Like there's no one now, huh?
 
-**Rafizi Ramli:** Hm... Okay, okay, okay YB. But just this Ceplos thing, if you look at social media, right? But the name "Ceplos" has really stuck, you know.
+**Rafizi:** Hm... Okay, okay, okay YB. But just this Ceplos thing, if you look at social media, right? But the name "Ceplos" has really stuck, you know.
 
 **Haziq:** Yes, true. Official branding.
 
-**Rafizi Ramli:** It's become their official branding with this name Ceplos, right? If you look at social media, their approach, their fanaticism, right? Those things are what's pushing fence-sitting voters further away. So, Wan Fayhsal has always been like this from the start. Right? We know his character, he's quick to become obsessive, he's rough, careless with his words, right? He lives in his own bubble, right? The party leadership should really be correcting him. So if, for example, there's someone under our supervision, and on top of that he's the PKR Pahang Communications Director.
+**Rafizi:** It's become their official branding with this name Ceplos, right? If you look at social media, their approach, their fanaticism, right? Those things are what's pushing fence-sitting voters further away. So, Wan Fayhsal has always been like this from the start. Right? We know his character, he's quick to become obsessive, he's rough, careless with his words, right? He lives in his own bubble, right? The party leadership should really be correcting him. So if, for example, there's someone under our supervision, and on top of that he's the PKR Pahang Communications Director.
 
 **Haziq:** Yes.
 
-**Rafizi Ramli:** Right? It looks quite improper, the way he behaves, right? If we were the leadership, we should correct him. Especially because outsiders, the fence-sitters, they don't really want to know about the internal matters, your feelings about each other within the party. But if the content that's made looks too personal, too rough, looks too vengeful, right? Looks too petty. That's what will push people further and further away. But I think PKR right now is somewhat on autopilot, there's no one... no one controlling them. Otherwise, people like Salim Papu Kari...
+**Rafizi:** Right? It looks quite improper, the way he behaves, right? If we were the leadership, we should correct him. Especially because outsiders, the fence-sitters, they don't really want to know about the internal matters, your feelings about each other within the party. But if the content that's made looks too personal, too rough, looks too vengeful, right? Looks too petty. That's what will push people further and further away. But I think PKR right now is somewhat on autopilot, there's no one... no one controlling them. Otherwise, people like Salim Papu Kari...
 
 **Haziq:** Mhm.
 
-**Rafizi Ramli:** ...wouldn't, wouldn't, wouldn't be brought close. Before, because he was the one cursing Anwar and PKR and everything.
+**Rafizi:** ...wouldn't, wouldn't, wouldn't be brought close. Before, because he was the one cursing Anwar and PKR and everything.
 
 **Haziq:** Mhm.
 
-**Rafizi Ramli:** So we said, "If you're so great, come face us directly." He did come to face us, but he was really timid when he came, right?
+**Rafizi:** So we said, "If you're so great, come face us directly." He did come to face us, but he was really timid when he came, right?
 
-**Rafizi Ramli:** I remember he came late, really late.
+**Rafizi:** I remember he came late, really late.
 
-**Rafizi Ramli:** Ah, timid.
+**Rafizi:** Ah, timid.
 
-**Rafizi Ramli:** Had to wait an hour.
+**Rafizi:** Had to wait an hour.
 
-**Rafizi Ramli:** Ah, okay. So but suddenly when he's brought into the Ceplos group, it really shows there's no direction and no control over these Ceplos people. Unfortunately, PKR's image...
+**Rafizi:** Ah, okay. So but suddenly when he's brought into the Ceplos group, it really shows there's no direction and no control over these Ceplos people. Unfortunately, PKR's image...
 
 **Haziq:** Is represented by them.
 
-**Rafizi Ramli:** ...is represented by these Ceplos on social media, you know.
+**Rafizi:** ...is represented by these Ceplos on social media, you know.
 
 **Haziq:** Mhm, mhm, okay, YB.
 
-**Rafizi Ramli:** I wonder if YB knows every single one of these Ceplos people?
+**Rafizi:** I wonder if YB knows every single one of these Ceplos people?
 
 **Haziq:** No, the only one I really know is Wan Fayhsal since he has a history, right? The rest, I only know after they won, you know.
 
 **Haziq:** True, true, true. Okay, alright, YB. Beria indeed.
 
-**Rafizi Ramli:** Hmm. This is beria. If he keeps this up until he dies, ya Allahuakbar, right?
+**Rafizi:** Hmm. This is beria. If he keeps this up until he dies, ya Allahuakbar, right?
 
 **Haziq:** Okay, alright, YB. Next. A new way to fight parking spot reservers. "Chop" or "cop"?
 
-**Rafizi Ramli:** Cop.
+**Rafizi:** Cop.
 
 **Haziq:** Cop, cop.
 
-**Rafizi Ramli:** Cop, cop. Cop is "chop." Ah, cop, cop. Reserving a parking spot. Mhm. This isn't in Malaysia, is it?
+**Rafizi:** Cop, cop. Cop is "chop." Ah, cop, cop. Reserving a parking spot. Mhm. This isn't in Malaysia, is it?
 
-**Rafizi Ramli:** Ha, where's this? China?
+**Rafizi:** Ha, where's this? China?
 
 **Haziq:** China. If you watch, the car comes out, and it parks itself automatically. Then the person comes back. But there are already a lot of cars that can park themselves now, right? Just hasn't reached Malaysia yet. Yeah. Don't know how it'll be once it reaches Malaysia. So, who's the beria one here? I think one that... The parking-spot reserver. That parking-spot reserver. Oh, the parking-spot reserver is beria. Yeah, like parking in Malaysia, right. Every time we go park, if it's at a shopping mall, we really have to be prepared to rack up more sins, because of how our people behave when parking, all sorts of things happen. So, but in Malaysia there are also people who reserve parking spots, right? Eh, plenty. There are, plenty, plenty, plenty. I think... Hm. So, God willing, that type of person will eventually go extinct, I guess. The social problem will get solved by this technology. I think you guys picked this clip and I don't even know what to comment on. But, but for me... This is such a clip selection that I'm like, "What is beria supposed to make me comment on here?" Um... No, if he's not chasing him, YB, can he just stay there? Oh, ah... I think, I think he lost to this autonomous driving car, which, to me, looks... He's chasing him, why? He was told, "Eh, don't park here. There, there, there." Oh, oh, mhm. That auntie is really kiasu. Okay. Okay, this one's tricky, this is confusing. Confusing. A confusing beria. To us who are beria. You guys are actually the beria ones. I think you guys have run out of ideas, you want me to comment on what — a beria car that's good at parking, ha. A car that's good at parking. Okay, YB. Okay, last one. Ah, last one. Eh, there's one more, this is second-to-last. Manners, our culture. Hmm, that's the one... this is in...
 
 **Haziq:** Women's Coach.
 
-**Rafizi Ramli:** Women's Coach, but the video of the men — there's this Hafizudin guy, is he sitting in the Women's Coach? It's taken from other videos, YB. Ah, so that's not beria. Meaning there's someone... there's someone. But good beria shows something that should be happening, right? But, ha, this one really deserves to be criticized. Please, YB, public service announcement. One of my pet hates in Malaysia is the lack of manners our people have when it comes to, well, being in, yeah, in...
+**Rafizi:** Women's Coach, but the video of the men — there's this Hafizudin guy, is he sitting in the Women's Coach? It's taken from other videos, YB. Ah, so that's not beria. Meaning there's someone... there's someone. But good beria shows something that should be happening, right? But, ha, this one really deserves to be criticized. Please, YB, public service announcement. One of my pet hates in Malaysia is the lack of manners our people have when it comes to, well, being in, yeah, in...
 
 **Haziq:** Public utilities.
 
 **Haziq:** ...he already knows. They don't know who moved the signboard.
 
-**Rafizi Ramli:** Even the motive
+**Rafizi:** Even the motive
 
 **Haziq:** isn't known either.
 
-**Rafizi Ramli:** Is it true there was a signboard? There was. The minister has confirmed it, right? Because the minister asked whoever has information about who moved the signboard to come forward. The minister got this information from KKR. Ha, JKR below them, right? It's definitely confirmed there was one. There are two possibilities. This one is naughty, huh. There are two possibilities. Meaning either the signboard really existed and there's some crazy person who did the beria. Most likely he turned it into scrap metal or something at his house. The other possibility is the thing never existed at all. It really never existed. But they can't just say there was no signboard. So the official report says there was a signboard. But well, we give the benefit of the doubt, meaning there really was some crazy person who took it. Want to call it beria? He's evil? Beria of that thing, that's negative beria, the really bad kind. But the impact is huge. Yeah, I want to say he's beria, that's not just silly, that's evil. That's terrible. That's criminal. Criminal beria? Could be. No, no, not quite either. Okay. If that's the case, if it's criminal beria, then we'd have to comment on every single bank robbery every week.
+**Rafizi:** Is it true there was a signboard? There was. The minister has confirmed it, right? Because the minister asked whoever has information about who moved the signboard to come forward. The minister got this information from KKR. Ha, JKR below them, right? It's definitely confirmed there was one. There are two possibilities. This one is naughty, huh. There are two possibilities. Meaning either the signboard really existed and there's some crazy person who did the beria. Most likely he turned it into scrap metal or something at his house. The other possibility is the thing never existed at all. It really never existed. But they can't just say there was no signboard. So the official report says there was a signboard. But well, we give the benefit of the doubt, meaning there really was some crazy person who took it. Want to call it beria? He's evil? Beria of that thing, that's negative beria, the really bad kind. But the impact is huge. Yeah, I want to say he's beria, that's not just silly, that's evil. That's terrible. That's criminal. Criminal beria? Could be. No, no, not quite either. Okay. If that's the case, if it's criminal beria, then we'd have to comment on every single bank robbery every week.
 
 **Haziq:** No, no, no. I think we can use this opportunity to tell the public, if you see a sign, a cupboard, or anything, don't just remove it as you please. Another piece.
 
-**Rafizi Ramli:** Beria puts it there. Meaning it's getting worse. Because Fuzia's
+**Rafizi:** Beria puts it there. Meaning it's getting worse. Because Fuzia's
 
 **Haziq:** last week's
 
-**Rafizi Ramli:** was already too good. We don't know what to put this week. This isn't — it's not our fault, it's last week's fault, the all-time champion. So now whatever content comes in as beria seems like. It's hard to. It's hard now to meet the beria standard, right. Okay, alright YB, let's quickly move to the other segment. Okay. But does YB want to give it a rating? Fail, or don't rate it at all, no need to rate it. It really is Wan Fayhsal, but it's a fail for this week's beria. Aduh.
+**Rafizi:** was already too good. We don't know what to put this week. This isn't — it's not our fault, it's last week's fault, the all-time champion. So now whatever content comes in as beria seems like. It's hard to. It's hard now to meet the beria standard, right. Okay, alright YB, let's quickly move to the other segment. Okay. But does YB want to give it a rating? Fail, or don't rate it at all, no need to rate it. It really is Wan Fayhsal, but it's a fail for this week's beria. Aduh.
 
 **Haziq:** So hard, so hard. Last week set the bar very high.
 
-**Rafizi Ramli:** Next week you go find something good, all right. We'll interview people all the way, okay. Alright. Let's move on to segment two, baby. This segment, "Life Is Hard, Bro." There's quite a lot this week too, I think. Let's just look at the first one. Someone doesn't like YB. But not in a hostile way. "Rafizi doesn't even like me." But the tone is like wanting to be friends, right. Because there's this — "Rafizi doesn't even like me." If you study language... I remember when I was close to a Malay language teacher, she taught how language — obviously a Malay language teacher would teach language, but she taught how intonation and a slight change in words can carry different meanings. Her example sentence: "The monkey likes eating bananas." "The monkey eats bananas." "Even the monkey likes eating bananas." No, for example "The monkey eats bananas" can carry all sorts of meanings depending on the connotation, the intonation. "The monkey eats bananas" as a statement. "The monkey eats bananas." "You monkey, eat the banana." "The monkey eats bananas." So it's the same here. If it's "Rafizi doesn't like me," it's just a statement. But if it's "Even Rafizi doesn't like me" — now that's sad. It's a bit different, right, the connotation is a bit different.
+**Rafizi:** Next week you go find something good, all right. We'll interview people all the way, okay. Alright. Let's move on to segment two, baby. This segment, "Life Is Hard, Bro." There's quite a lot this week too, I think. Let's just look at the first one. Someone doesn't like YB. But not in a hostile way. "Rafizi doesn't even like me." But the tone is like wanting to be friends, right. Because there's this — "Rafizi doesn't even like me." If you study language... I remember when I was close to a Malay language teacher, she taught how language — obviously a Malay language teacher would teach language, but she taught how intonation and a slight change in words can carry different meanings. Her example sentence: "The monkey likes eating bananas." "The monkey eats bananas." "Even the monkey likes eating bananas." No, for example "The monkey eats bananas" can carry all sorts of meanings depending on the connotation, the intonation. "The monkey eats bananas" as a statement. "The monkey eats bananas." "You monkey, eat the banana." "The monkey eats bananas." So it's the same here. If it's "Rafizi doesn't like me," it's just a statement. But if it's "Even Rafizi doesn't like me" — now that's sad. It's a bit different, right, the connotation is a bit different.
 
-**Rafizi Ramli:** No, I... they ask, "Why me?" Take Wan Fazudin for example — Wan Fazudin said, oh, previously he cursed and criticized Tan Sri Azam Baki relentlessly because at that time Tan Sri Azam Baki didn't catch corrupt people since the Prime Minister at the time was allegedly encouraging corruption, supposedly for his son-in-law. But now, because Tan Sri Azam Baki is doing a good job catching corrupt people, that's why he supports him relentlessly now. We can spin it however we want, but in the eyes of ordinary people, and 99.9% of Malaysians don't have a political brain, they have an ordinary brain, ordinary logical thinking.
+**Rafizi:** No, I... they ask, "Why me?" Take Wan Fazudin for example — Wan Fazudin said, oh, previously he cursed and criticized Tan Sri Azam Baki relentlessly because at that time Tan Sri Azam Baki didn't catch corrupt people since the Prime Minister at the time was allegedly encouraging corruption, supposedly for his son-in-law. But now, because Tan Sri Azam Baki is doing a good job catching corrupt people, that's why he supports him relentlessly now. We can spin it however we want, but in the eyes of ordinary people, and 99.9% of Malaysians don't have a political brain, they have an ordinary brain, ordinary logical thinking.
 
 If previously we opposed and demanded reform of the MACC, including that Tan Sri Azam Baki no longer be Chief Commissioner of the MACC — that was 2020, right? So within 3-4 years, that matter doesn't just get erased simply because we're now the government. So this is what I feel is a burden on the government. So actually I don't have a preference. I don't have "I like this person, I don't like that person," none of that. The function of this podcast and my function as a Member of Parliament is to state something that the government, society and the country need to know, in my view, based on the voices of ordinary people.
 
@@ -262,11 +262,11 @@ But once we became the government, suddenly Dato' Sri Anwar praised him, saying 
 
 **Haziq:** You have new findings on that?
 
-**Rafizi Ramli:** New findings, God willing, next week. But why should I share it with you all?
+**Rafizi:** New findings, God willing, next week. But why should I share it with you all?
 
 **Haziq:** Okay, okay, okay.
 
-**Rafizi Ramli:** I go through all the trouble, spend a lot to produce it, and then share it so you can just use it. I'll keep that for my own understanding. So what I mean is, this is something I hope the party leadership and government understand. Because the facts don't change, you know. For example, the latest one, from the same project, one-third of the politicians charged ultimately ended up released, just like that, since 2018. The government will have excuses. The MACC will have excuses, the AGC, the Attorney General's Chambers will have excuses, the Public Prosecutor will all have excuses — this case is like this, that case is like that.
+**Rafizi:** I go through all the trouble, spend a lot to produce it, and then share it so you can just use it. I'll keep that for my own understanding. So what I mean is, this is something I hope the party leadership and government understand. Because the facts don't change, you know. For example, the latest one, from the same project, one-third of the politicians charged ultimately ended up released, just like that, since 2018. The government will have excuses. The MACC will have excuses, the AGC, the Attorney General's Chambers will have excuses, the Public Prosecutor will all have excuses — this case is like this, that case is like that.
 
 But the people's demand — and that's why PKR was given votes before — the people's demand is that any politician or senior civil servant involved in or charged, especially when in the public's view it looks like a clear-cut offence, they want these people punished. So even if there's no interference, for example, and they get off because the case is weak, that's still the government's fault. That's what needs to be fixed. Even more so if, for example yesterday, the Public Prosecutor decided not to appeal Datuk Sri Rosmah Mansor's case. So all these matters increasingly reinforce the public perception that it's all the same.
 
@@ -290,11 +290,11 @@ So if PKR-PH has lost that anti-corruption credential, actually what other crede
 
 **Haziq:** But what if it's true that Azam Baki isn't reappointed, and YB, you also said that low-hanging fruits include not renewing Azam Baki's term. What effect would it have on a government that doesn't have much time left before facing the election? Maybe I'll add to that issue. Because we have roughly a year and a half left until the next election. And having a track record where for 3 years we continued with something we were supposed to fight against, but in the end we enabled it — hmm, isn't the damage already too far done for PH?
 
-**Rafizi Ramli:** Well, two years —
+**Rafizi:** Well, two years —
 
 **Haziq:** is...
 
-**Rafizi Ramli:** Remember, look. Prime Minister Datuk Seri Anwar Ibrahim had his best rating in the last 6 months of 2024. If you set aside the euphoria of the first 2-3 months — that euphoria is normal — then he plummeted in 2023, and it took a long time for him to climb back up. The economy improved in 2024, and I think the public could also see that the Perikatan Nasional opposition kept repeating the same thing, and the public eventually got bored with the endless racial and identity politics. So actually, in the second half of 2024, ratings and public support for Dato' Sri Anwar and the unity government kept rising. Entering the first quarter of 2025, it was actually getting even better, but from March until now it's been plummeting. So actually politics is very fluid, and our people are open-minded, especially fence-sitting voters.
+**Rafizi:** Remember, look. Prime Minister Datuk Seri Anwar Ibrahim had his best rating in the last 6 months of 2024. If you set aside the euphoria of the first 2-3 months — that euphoria is normal — then he plummeted in 2023, and it took a long time for him to climb back up. The economy improved in 2024, and I think the public could also see that the Perikatan Nasional opposition kept repeating the same thing, and the public eventually got bored with the endless racial and identity politics. So actually, in the second half of 2024, ratings and public support for Dato' Sri Anwar and the unity government kept rising. Entering the first quarter of 2025, it was actually getting even better, but from March until now it's been plummeting. So actually politics is very fluid, and our people are open-minded, especially fence-sitting voters.
 
 Within that two-year period, in my view, regarding the low-hanging fruit issue of the MACC and so on, it's not too late. But the public will be more careful in assessing sincerity versus political tactics. So if, for example, Tan Sri Azam Baki isn't reappointed, who is appointed in his place will determine whether the public judges this as sincere or not — then what is done and the progress in fighting corruption involving the big sharks will also be judged by the public.
 
@@ -310,37 +310,37 @@ Yes, Haziq, what was I supposed to ask about again? Not in the notes? So is it s
 
 **Haziq:** It's settled for this one. Let's wait for more. YB, are you there?
 
-**Rafizi Ramli:** Nothing more.
+**Rafizi:** Nothing more.
 
 **Haziq:** Let's move to the next issue.
 
-**Rafizi Ramli:** He's scared. Ask the wrong thing and I'll scold him.
+**Rafizi:** He's scared. Ask the wrong thing and I'll scold him.
 
 **Haziq:** Learn your lesson, learn your lesson. Okay. But what was YB talking about?
 
-**Rafizi Ramli:** The Dangling Carrot. Only after losing do they want to raise this issue and so on. We have the recent UEC issue, also OIB — which is said to be a Dangling Carrot for DAP after their voters became somewhat demotivated. If PAS maybe has hudud, UMNO maybe has Najib's release to sell to their voters whose motivation might have dropped a bit — a lose-lose situation. I think this is really a lose-lose situation, not just for Dato' Sri Anwar but for any PM or government.
+**Rafizi:** The Dangling Carrot. Only after losing do they want to raise this issue and so on. We have the recent UEC issue, also OIB — which is said to be a Dangling Carrot for DAP after their voters became somewhat demotivated. If PAS maybe has hudud, UMNO maybe has Najib's release to sell to their voters whose motivation might have dropped a bit — a lose-lose situation. I think this is really a lose-lose situation, not just for Dato' Sri Anwar but for any PM or government.
 
 **Haziq:** Okay, I'll go ahead and ask YB — he seems all over the place tonight, like a helicopter that can't land. I'm waiting to see where you'll land tonight.
 
-**Rafizi Ramli:** Okay, let me land this — eh, for the sake of choosing a side.
+**Rafizi:** Okay, let me land this — eh, for the sake of choosing a side.
 
 **Haziq:** Because earlier we already talked a lot about UEC, YB. There are 2 camps, the anti and the pro. How does YB not just pick a camp, but actually unpack this thing?
 
-**Rafizi Ramli:** That's right, it's not landing tonight. Tonight's problem, don't know if it's the end of the year or what, on this issue. Emm... it. If you ask me, well, not exactly a "roommate," not really a roommate. But because it has become political dopamine. And this dopamine — people probably know what dopamine is out there, political dopamine. And what's more unique, this political dopamine involves Chinese voters and Malay voters, and therefore the dividing line between DAP and Malay parties like UMNO, and now there's Bersatu, PAS, becomes very clear. Yet this is an issue that, before we decide which camp to join — support or not, oppose or not — if the UEC issue could be looked at objectively, setting aside all this sentiment, look at it objectively.
+**Rafizi:** That's right, it's not landing tonight. Tonight's problem, don't know if it's the end of the year or what, on this issue. Emm... it. If you ask me, well, not exactly a "roommate," not really a roommate. But because it has become political dopamine. And this dopamine — people probably know what dopamine is out there, political dopamine. And what's more unique, this political dopamine involves Chinese voters and Malay voters, and therefore the dividing line between DAP and Malay parties like UMNO, and now there's Bersatu, PAS, becomes very clear. Yet this is an issue that, before we decide which camp to join — support or not, oppose or not — if the UEC issue could be looked at objectively, setting aside all this sentiment, look at it objectively.
 
 Okay, actually, how many Chinese students are in UEC schools? If we total it across all years —
 
 **Haziq:** No, no. At any given time.
 
-**Rafizi Ramli:** At a given time.
+**Rafizi:** At a given time.
 
 **Haziq:** He said the number has reached 100,000.
 
-**Rafizi Ramli:** So if we divide it... actually it's not that many.
+**Rafizi:** So if we divide it... actually it's not that many.
 
 **Haziq:** He didn't have time to google that. What is UEC? Unified Examination Certificate.
 
-**Rafizi Ramli:** Okay, before I get into the DAP, UMNO side of things, let me lay out something factual like this. Objectively, in my view, these facts need to be taken into account.
+**Rafizi:** Okay, before I get into the DAP, UMNO side of things, let me lay out something factual like this. Objectively, in my view, these facts need to be taken into account.
 
 The first fact that I think should be considered is about the quality of education and also the direction education will take in the future. We cannot escape the fact that Mandarin will overtake English as the language of knowledge. We already know that China will overtake the US within 10-15 years, not only as the world's number one economic power, but as the world's number one power. And whether we're lucky or unlucky, we are the generation going through this transition — from the language of knowledge shifting from English to Chinese, from the great power shifting from the US to China. We will live to see that happen. There are people who never got to experience such things — people who died in the 90s only knew one great power, or two at the time, the USSR. People who lived in the 19th century only knew one great power — Britain.
 
@@ -348,7 +348,7 @@ Okay, no — what I think we really need to examine is, what will be the fate of
 
 So, whatever we want to discuss about UEC, before getting into UEC itself, the question is whether our society is willing to accept the fact that we need to become a trilingual society. Bilingual is no longer enough, it must be trilingual. Meaning our society needs to master, besides the national language — Bahasa Melayu, English and Mandarin. I myself want to relearn Mandarin after this. Even though you're old, at the very least you should be able to say a few things here and there, because I will live through that era where without Mandarin you are incapacitated, right? Okay, alright, now you know.
 
-**Rafizi Ramli:** In my view, we need to start from there — that let's not pretend that Mandarin isn't important. The leadership needed in our country is telling exactly that: that we need to change from a bilingual to a trilingual society, because we can't afford to fall behind in Mandarin. I think once you start from there, it will soften and smooth out and ease any discussion about UEC.
+**Rafizi:** In my view, we need to start from there — that let's not pretend that Mandarin isn't important. The leadership needed in our country is telling exactly that: that we need to change from a bilingual to a trilingual society, because we can't afford to fall behind in Mandarin. I think once you start from there, it will soften and smooth out and ease any discussion about UEC.
 
 Because UEC has... erm... I want to say "baggage," but people might not like that. But there's a collection of history around it that people say is very divisive. But sadly, most of those who are strongly against UEC, I'm not sure they even understand the historical context of UEC. I understand if, for example, it's Tun Mahathir's generation, the post-independence generation. After independence, we didn't have a unified education system. We had just become an independent nation, and it was very important for our identity and for us to build a national identity image, and we wanted all Malaysians, regardless of ethnic background, to truly understand and be loyal to Malaysia — because at that time there were still citizens of Chinese or Indian descent who might have been in Malaysia for only 20 years, only 30 years, whose families were still in China or India. That's the historical context there.
 
@@ -358,19 +358,19 @@ Moreover, most of the young people now, those under 30 years old, most of them w
 
 **Haziq:** You mean there were, like, 10-15% non-Malay?
 
-**Rafizi Ramli:** Even in Terengganu.
+**Rafizi:** Even in Terengganu.
 
 **Haziq:** Terengganu?
 
-**Rafizi Ramli:** Yes.
+**Rafizi:** Yes.
 
 **Haziq:** The 1% Chinese?
 
-**Rafizi Ramli:** Yes, because there's Kemaman, Cukai — and Cukai is an oil town, right.
+**Rafizi:** Yes, because there's Kemaman, Cukai — and Cukai is an oil town, right.
 
 **Haziq:** Right, there is.
 
-**Rafizi Ramli:** Er, hmm, people from outside Terengganu who came in.
+**Rafizi:** Er, hmm, people from outside Terengganu who came in.
 
 So as a result of that in the 1960s, two different streams of Chinese schools emerged. One, the national-type schools — whether National-Type Primary Schools or National-Type Secondary Schools. They use the government syllabus, teach in Malay, but they also have Mandarin. And those who didn't want to change remained private, independent schools. Because of that, once they were no longer part of the government education system, they held their own examinations. That's what became Dong Jiao Zong. Dong Jiao Zong issues — people say — its own examination called UEC.
 
@@ -386,15 +386,15 @@ Okay so, I've touched on two perspectives, two big things — one is the future,
 
 **Haziq:** Quite a lot.
 
-**Rafizi Ramli:** How many schools are there in Malaysia that offer UEC? Those who are making noise, those who are fighting each other over this, do they have any figures — you haven't had time to google it?
+**Rafizi:** How many schools are there in Malaysia that offer UEC? Those who are making noise, those who are fighting each other over this, do they have any figures — you haven't had time to google it?
 
 **Haziq:** Those who have graduated, not — no, now, now.
 
-**Rafizi Ramli:** No time to google, no need to google. Actually, the schools —
+**Rafizi:** No time to google, no need to google. Actually, the schools —
 
 **Haziq:** Understood, are you googling now? 60.
 
-**Rafizi Ramli:** 63. Actually roughly... Yes, the Chinese schools... that offer UEC... meaning private secondary schools, independent secondary schools. Actually there are only 61, plus 2 that I recall are kind of hybrid, which officially makes about 63. The total number of Chinese students in these schools is roughly 90,000, out of around 400-plus thousand Chinese students in secondary school — meaning roughly 20%. So... if we take the view of DAP supporters who say, if there are strong UEC supporters or people who politicize UEC saying this is the lifeblood of Chinese education, the numbers don't reflect that. Because those taking UEC in Chinese schools are only around 20%. But that 20% is still considered significant — it's still a sizeable stream.
+**Rafizi:** 63. Actually roughly... Yes, the Chinese schools... that offer UEC... meaning private secondary schools, independent secondary schools. Actually there are only 61, plus 2 that I recall are kind of hybrid, which officially makes about 63. The total number of Chinese students in these schools is roughly 90,000, out of around 400-plus thousand Chinese students in secondary school — meaning roughly 20%. So... if we take the view of DAP supporters who say, if there are strong UEC supporters or people who politicize UEC saying this is the lifeblood of Chinese education, the numbers don't reflect that. Because those taking UEC in Chinese schools are only around 20%. But that 20% is still considered significant — it's still a sizeable stream.
 
 However, we also have a group of Malays who are anti-UEC, and their issue seems to be that Chinese students don't go through a nation-building process related to unity, which is why there's often a portrayal that the existence of Chinese schools causes disunity. If we look at the figures earlier, there are only about 63 Chinese schools teaching UEC, and 20% of Chinese students go through UEC. Actually, 80% of Chinese students in Malaysia go through the national system. So to say that the presence of UEC in Chinese schools will undermine the national education system — numerically, that's simply not accurate. What's more, in the future, the Chinese population in our country will decrease.
 
@@ -410,13 +410,13 @@ And what I remember, if these two things can become a meeting point, then all th
 
 **Haziq:** But YB, if I may conclude, you mean YB is emphasizing the importance of Mandarin but it doesn't necessarily have to be UEC as the only way. Can I put it that way?
 
-**Rafizi Ramli:** No, the UEC issue — psychologically, UEC is a symbol of vernacular schools. UEC exists because we have the Chinese-stream schools. It's just that outside, mostly especially among Malays, they can't distinguish between private schools that teach in Mandarin and SJKC, and SMJK — the National-Type Chinese schools, National-Type Chinese secondary schools. They can't tell the difference. SJKC Chinese schools are part of the national stream.
+**Rafizi:** No, the UEC issue — psychologically, UEC is a symbol of vernacular schools. UEC exists because we have the Chinese-stream schools. It's just that outside, mostly especially among Malays, they can't distinguish between private schools that teach in Mandarin and SJKC, and SMJK — the National-Type Chinese schools, National-Type Chinese secondary schools. They can't tell the difference. SJKC Chinese schools are part of the national stream.
 
 So on the matter of Mandarin, I think the government has no choice. Mandarin should indeed — if this is something I once did, when we drafted RMK-13, we already included it, you know, in RMK-13. People might not have read my details closely. In RMK-13, I insisted that a third language be included. Our children really need to start learning Mandarin from now. It's just that there needs to be a drastic increase in Mandarin teachers. To teach Mandarin the way we teach English, we need as many Mandarin teachers as possible. And which pool would we draw from? Most likely from the pool of private Chinese schools that have been teaching Mandarin for decades, and there's a strong likelihood they are all UEC graduates. So if we want to turn our society into a trilingual society, we really can't avoid the issue of vernacular schools, the issue of UEC. Why not change the subject from something that has divided us all this while — use it to build shared strength, especially when you need a trilingual society now. Okay, okay.
 
 **Haziq:** Clear, clear. Please, sir. Okay, but I have a follow up question — I think it relates more to... hmm, the question of how an issue like the education system, or the polemic of politicizing everything, and for me, even something like an education system, that conversation cannot be had because everything is made political. So, I think this issue will never resolve in the end if every side cannot control their emotions in discussing this matter.
 
-**Rafizi Ramli:** But it's an emotive subject. If, for example, it's the UEC issue, it's an emotive subject. So if we go on at length lecturing that "we must not politicize it," that also doesn't reflect the reality on the ground. There is indeed a long-standing sentimentality and emotion, because this is — perhaps we could say — a burden borne by the Chinese community for a long time, having to bear the cost of their own education. And the older generation, from the 60s, 70s, they feel they were forced, for example. The Malays, on the other hand, will say, "this is proof of why the Chinese never wanted to be part of our country, people wanted to build one school, they didn't want to," for example.
+**Rafizi:** But it's an emotive subject. If, for example, it's the UEC issue, it's an emotive subject. So if we go on at length lecturing that "we must not politicize it," that also doesn't reflect the reality on the ground. There is indeed a long-standing sentimentality and emotion, because this is — perhaps we could say — a burden borne by the Chinese community for a long time, having to bear the cost of their own education. And the older generation, from the 60s, 70s, they feel they were forced, for example. The Malays, on the other hand, will say, "this is proof of why the Chinese never wanted to be part of our country, people wanted to build one school, they didn't want to," for example.
 
 So for me, the way forward is for politicians to stop exploiting that emotional opportunity in this era. Because this era has changed a lot already. The context is different from before, the circumstances are different from before. I don't think we want to be in the blaming game. If it were up to me, I don't want to point and say, "this was Malay politics doing this and that back then," or "this was Chinese politics doing this and that" — that was the process we went through to shape the nation we have now. But the circumstances are very different now, as I mentioned. There isn't, and there won't be, a single Malaysian of Chinese descent who feels closer to mainland China than to Malaysia. That doesn't exist anymore, right. So that matter is no longer relevant.
 
@@ -426,15 +426,15 @@ However, as long as there's no solution, it will continue to be used as a politi
 
 **Haziq:** I think this photo is very apt for the topic, which is he looks like he's sulking.
 
-**Rafizi Ramli:** That's a photo from when I was really fat. Who's that girl there?
+**Rafizi:** That's a photo from when I was really fat. Who's that girl there?
 
 **Haziq:** That's Lina Ahmad. Oh, she's the one who made the post — the one who posted on Facebook. She's the source...
 
-**Rafizi Ramli:** She's a cyber trooper. Cyber trooper, AI. Who knows, behind "Lina Ahmad" the real name might be "Leman Ahmad."  Okay.
+**Rafizi:** She's a cyber trooper. Cyber trooper, AI. Who knows, behind "Lina Ahmad" the real name might be "Leman Ahmad."  Okay.
 
 **Haziq:** Or Salim Sandar.
 
-**Rafizi Ramli:** Who knows, maybe Wan Fauzuddin. That's not — no, I take that back, take it back, take it back. Just joking. Oh, this is... yeah, someone forwarded this to me, and I noticed the attacks on my physique have been getting heavier. Yes. Especially from PKR supporters and also so-called "chapless" PKR people. Someone forwarded me — I didn't write much, didn't read much — "understanding the psychology of a narcissist named Rafizi Ramli." Someone forwarded to me, "YB, is this narcissist a Nazi supporter?" Totally random, "Nazi supporter." I thought, Malaysians don't understand what a narcissist is. Full stop. So? That's a bit far-fetched, YB.
+**Rafizi:** Who knows, maybe Wan Fauzuddin. That's not — no, I take that back, take it back, take it back. Just joking. Oh, this is... yeah, someone forwarded this to me, and I noticed the attacks on my physique have been getting heavier. Yes. Especially from PKR supporters and also so-called "chapless" PKR people. Someone forwarded me — I didn't write much, didn't read much — "understanding the psychology of a narcissist named Rafizi Ramli." Someone forwarded to me, "YB, is this narcissist a Nazi supporter?" Totally random, "Nazi supporter." I thought, Malaysians don't understand what a narcissist is. Full stop. So? That's a bit far-fetched, YB.
 
 I think on the matter of sulking or not sulking, if I may go back to the first episode, where we were once asked directly — whether YB is sulking or not. But the way I answered back then, people didn't like it, maybe because it was very plain. You know what, I tried to dramatize it a bit but I was afraid to ask. But I just asked — well, if I don't like it, I'll get over it. But since many have started asking about the sulking issue — what if Dato' Sri Anwar is genuinely serious about trying to reconcile with YB, for example, but for the bigger — the so-called bigger interest, maybe to avoid Pakatan becoming the government, or maybe they simply can't accept anything other than that — and if the page loses, meaning... what's this, this is what's on social media, many pleading, "please pray they reconcile already," yes, exactly.
 
@@ -442,7 +442,7 @@ I mean, I will answer this question. I don't even want to respond to that one �
 
 **Haziq:** That's because of sulking. Maybe just ask directly — is YB still sulking? Has YB ever sulked, or is YB still sulking?
 
-**Rafizi Ramli:** Yeah, on that question, the problem with that question is I don't think I should entertain it because the premise is wrong. The question you're asking shows that you've become a "cheplos" yourself. You're repeating this cheplos narrative that says I'm sulking. So, I mean, the issue is this. If you look at all this — Salim Iskandar, not Salim Iskandar, all of them — cyber troopers, cheplos accounts, government media outlets under JCOM, all of them being mobilized to attack me personally, to the point of introducing the term "narcissist." SIS. Right? SIS. SIS. Eee... Actually, I feel that if this continues to be pushed by PKR, it will keep widening the gap between what the public thinks and the bubble that PKR lives in. The narrative is: he's sulking. The narrative is: he's a narcissist. He thinks he's always right. He can't work with others, all that. I'm trying to frame an argument here — if PKR people look at this, sometimes you have to wear a different cap. This is the problem that ruling parties have had since the UMNO era, even if PN became the government — when you're at the top, you only wear your own cap. You look at everything through your own lens, but the reality is the public doesn't think that way, people don't see it like that. That's why I say survey data and analysis are important, because it's impossible for us to know what's inside the heads of 30 million Malaysians. Impossible. So as a politician, one thing I find most thrilling throughout — and at the same time frightening — is figuring out what's actually in the head of the ordinary citizen. That's why I use continuous data. And continuous data means continuous analysis, whether through nationwide surveys, big data, sentiment analysis, comments — all of that we need to look at. Only then do we see: actually, ordinary people think like this, completely different from what I see from my own perspective.
+**Rafizi:** Yeah, on that question, the problem with that question is I don't think I should entertain it because the premise is wrong. The question you're asking shows that you've become a "cheplos" yourself. You're repeating this cheplos narrative that says I'm sulking. So, I mean, the issue is this. If you look at all this — Salim Iskandar, not Salim Iskandar, all of them — cyber troopers, cheplos accounts, government media outlets under JCOM, all of them being mobilized to attack me personally, to the point of introducing the term "narcissist." SIS. Right? SIS. SIS. Eee... Actually, I feel that if this continues to be pushed by PKR, it will keep widening the gap between what the public thinks and the bubble that PKR lives in. The narrative is: he's sulking. The narrative is: he's a narcissist. He thinks he's always right. He can't work with others, all that. I'm trying to frame an argument here — if PKR people look at this, sometimes you have to wear a different cap. This is the problem that ruling parties have had since the UMNO era, even if PN became the government — when you're at the top, you only wear your own cap. You look at everything through your own lens, but the reality is the public doesn't think that way, people don't see it like that. That's why I say survey data and analysis are important, because it's impossible for us to know what's inside the heads of 30 million Malaysians. Impossible. So as a politician, one thing I find most thrilling throughout — and at the same time frightening — is figuring out what's actually in the head of the ordinary citizen. That's why I use continuous data. And continuous data means continuous analysis, whether through nationwide surveys, big data, sentiment analysis, comments — all of that we need to look at. Only then do we see: actually, ordinary people think like this, completely different from what I see from my own perspective.
 
 So, take this "sulking" story. PKR people need to be careful too, because if I were really sulking, I would actually take certain actions. First, a person who sulks must start from wanting something. And what a politician wants is power. So it doesn't compute — he sulks but resigns his position, walks out freely. That doesn't compute. Because this will be criticized, and the cheplos crowd will attack even more after this. Be careful using personal attacks like "narcissist," "sulking," and so on, because these cheplos accounts are mostly young people — they're in their 20s, 30s, they didn't go through 1998, the reformasi era. They weren't there. Because if the same frame of argument were applied to Dato' Sri Anwar Ibrahim, it would be even more dangerous. I would go along with it too.
 
@@ -460,11 +460,11 @@ Hmm. Goodbye, OB [outside bloc/opposition bloc? — kept as is]. Noted. For thos
 
 **[Interviewer]:** And one more thing I want to ask — about when Rafizi will stop "sulking" and all that. This is also — I'd say it's PKR's culture that's not right either. I think this is a culture —
 
-**Rafizi Ramli:** Psychology. Our people.
+**Rafizi:** Psychology. Our people.
 
 **[Interviewer]:** Okay.
 
-**Rafizi Ramli:** Yes. If we have competition — for example, say I open a food stall, there's competition, let's say the stall next door is doing better business, right. Usually, in our culture, we don't see it as, "hey, actually he's running things well, doing better business, I need to beat him by competing properly." If he sells at 10, I sell at 9. If his menu has 10 items, mine has 20, right. So that mindset is one of competing positively. Ha. There's also, and maybe more dominant, our culture where — if there's a competitor next door doing better, we'd rather send a bunch of people to poison his shop with black magic so people stop going there, right. It's the same in politics. If they want to outdo the things I've raised, instead of trying to character-assassinate like this — petty things, "sulking," personal attacks — wouldn't it be better if they competed with me to make sure they execute their digital campaign far better than mine? Then there wouldn't even be an issue of me being a problem for the government. For example, if our view at some point X, and their view when they do X times 10 — there wouldn't be an issue, because it wouldn't shake the government at all.
+**Rafizi:** Yes. If we have competition — for example, say I open a food stall, there's competition, let's say the stall next door is doing better business, right. Usually, in our culture, we don't see it as, "hey, actually he's running things well, doing better business, I need to beat him by competing properly." If he sells at 10, I sell at 9. If his menu has 10 items, mine has 20, right. So that mindset is one of competing positively. Ha. There's also, and maybe more dominant, our culture where — if there's a competitor next door doing better, we'd rather send a bunch of people to poison his shop with black magic so people stop going there, right. It's the same in politics. If they want to outdo the things I've raised, instead of trying to character-assassinate like this — petty things, "sulking," personal attacks — wouldn't it be better if they competed with me to make sure they execute their digital campaign far better than mine? Then there wouldn't even be an issue of me being a problem for the government. For example, if our view at some point X, and their view when they do X times 10 — there wouldn't be an issue, because it wouldn't shake the government at all.
 
 For example, if I raise a few points about the MACC — respond about MACC's greatness, respond to the facts I raised, refute the argument, and make sure the digital campaign's traction is dozens of times stronger. The problem is, that doesn't happen. If you look at the content, or the argument, or the digital campaign from PKR leaders — there's none. Izzah has none, Saifuddin has none. They think it's still the BN-era style — they think going to an official event, a bit of video, changes public opinion. It doesn't. If there's an issue where someone says you're fat — if you're not fat, you need to respond directly on why you're not fat. Don't go "oh, oh, oh, oh, oh," and then start attacking the person who called you fat with "you're fatter." Until when will people just lose interest?
 
@@ -476,37 +476,37 @@ So these are tips I'm giving to the cheplos crowd and also the strategic thinker
 
 **[Interviewer]:** Alright, alright. Every week YB gives free consultant advice. Free, huh.
 
-**Rafizi Ramli:** If you don't want to pay, consultant — otherwise, I charge a lot for strategic communication advice.
+**Rafizi:** If you don't want to pay, consultant — otherwise, I charge a lot for strategic communication advice.
 
 **[Interviewer]:** Okay, alright YB, let's move to the next issue, we have more. We have Felda. Politicians fighting, Felda getting worse. Maybe I'll start with a fairly general question. Where are we now? We're at one hour 40 minutes.
 
-**Rafizi Ramli:** Okay.
+**Rafizi:** Okay.
 
 **[Interviewer]:** Don't drag it out too long, I want to go home as usual.
 
-**Rafizi Ramli:** Yes, let's wrap up.
+**Rafizi:** Yes, let's wrap up.
 
 **[Interviewer]:** Okay, alright. With everything the government has done for Felda — from the recovery plan, then in 2023 the government guaranteed 10 billion for the settlers — it doesn't seem to be going very well, since FGV itself had to be taken over by Felda. So so much has been invested, but the results don't seem very encouraging. So what actually went wrong, if we're doing a bit of a post-mortem on Felda?
 
-**Rafizi Ramli:** Is this about Felda, or about Terengganu?
+**Rafizi:** Is this about Felda, or about Terengganu?
 
 **[Interviewer]:** It's about Terengganu.
 
-**Rafizi Ramli:** The hot issue right now, Terengganu wants to evict [them].
+**Rafizi:** The hot issue right now, Terengganu wants to evict [them].
 
 **[Interviewer]:** But that's a hot issue related to the conflict between the state and federal government, related to the premium, right.
 
-**Rafizi Ramli:** Hmm. Hmm. Yeah, Felda — Felda is a victim of the stupidity of Malaysian politicians, over generations. Felda started and peaked as Malaysia's number one success story — I think if you take it from the 60s to the 90s. And credit to the Barisan Nasional government, I'll say it if I have to — I'll call a spade a spade. Under successive Barisan Nasional administrations, UMNO successfully built Felda into one of the most successful land schemes in the world, and it served as a good counterbalance to the private sector in oil palm cultivation. And Malaysia in the 70s, 80s, 90s was built on two backbones of its economy — one was palm oil, the other was petroleum. And it was palm oil and petroleum that generated the profits and gave us room to expand the economy, to give room to other industries like electronics, manufacturing, and so on.
+**Rafizi:** Hmm. Hmm. Yeah, Felda — Felda is a victim of the stupidity of Malaysian politicians, over generations. Felda started and peaked as Malaysia's number one success story — I think if you take it from the 60s to the 90s. And credit to the Barisan Nasional government, I'll say it if I have to — I'll call a spade a spade. Under successive Barisan Nasional administrations, UMNO successfully built Felda into one of the most successful land schemes in the world, and it served as a good counterbalance to the private sector in oil palm cultivation. And Malaysia in the 70s, 80s, 90s was built on two backbones of its economy — one was palm oil, the other was petroleum. And it was palm oil and petroleum that generated the profits and gave us room to expand the economy, to give room to other industries like electronics, manufacturing, and so on.
 
 Eeemm. Why was Felda, in that era, Malaysia's pride and its major success story in the world, and why did that same government — UMNO and Barisan Nasional — also destroy Felda, starting from 2007-2008? That's the question I'm asking.
 
 **[Interviewer]:** Huh? The model wasn't sustainable?
 
-**Rafizi Ramli:** Why wasn't the model sustainable?
+**Rafizi:** Why wasn't the model sustainable?
 
 **Haziq:** A sustainable model, I think, because Felda was turned into a piggy bank for UMNO and...
 
-**Rafizi Ramli:** Well, it was turned into a piggy bank because... because the main difference between Felda in its first 20-30 years and Felda in the last 10-15 years is that in the early years, politicians didn't interfere. Okay. Felda was established as a government department, then later as a statutory body. And Felda was managed as best as possible. Okay. As a government body, there was UMNO influence and UMNO interference throughout, but it was more about access for political campaigning. Meaning UMNO people, UMNO leaders, were the ones who got to visit Felda, who got to officiate this and that, it didn't reach the level of misusing Felda's money. All that changed in the Dato' Sri Najib era. That's why — I know some UMNO people will criticize me for this even into my grave — but I can't accept people who are so blindly loyal to Najib that they can't see the damage Najib left behind for the country, especially for Malay institutions. And the biggest one is Felda. Because in 2007-2008, Felda was rich. Felda barely had any debt in 2007-2008. Felda had roughly 1.3, 1.4 billion ringgit. Ha, that's when Datuk Seri Najib started becoming Prime Minister, started getting all sorts of ideas, plenty of "healthy" sources and all that. And Felda was supposedly going to be — yeah, it was like killing two birds with one stone, meaning Felda was to become a bigger economic engine. To do that, we had to corporatize it, that's how FGV came about. From FGV, the money raised from the listing, part of it was distributed to the settlers. And that's what the settlers got, the settlers got their windfall in 2013.
+**Rafizi:** Well, it was turned into a piggy bank because... because the main difference between Felda in its first 20-30 years and Felda in the last 10-15 years is that in the early years, politicians didn't interfere. Okay. Felda was established as a government department, then later as a statutory body. And Felda was managed as best as possible. Okay. As a government body, there was UMNO influence and UMNO interference throughout, but it was more about access for political campaigning. Meaning UMNO people, UMNO leaders, were the ones who got to visit Felda, who got to officiate this and that, it didn't reach the level of misusing Felda's money. All that changed in the Dato' Sri Najib era. That's why — I know some UMNO people will criticize me for this even into my grave — but I can't accept people who are so blindly loyal to Najib that they can't see the damage Najib left behind for the country, especially for Malay institutions. And the biggest one is Felda. Because in 2007-2008, Felda was rich. Felda barely had any debt in 2007-2008. Felda had roughly 1.3, 1.4 billion ringgit. Ha, that's when Datuk Seri Najib started becoming Prime Minister, started getting all sorts of ideas, plenty of "healthy" sources and all that. And Felda was supposedly going to be — yeah, it was like killing two birds with one stone, meaning Felda was to become a bigger economic engine. To do that, we had to corporatize it, that's how FGV came about. From FGV, the money raised from the listing, part of it was distributed to the settlers. And that's what the settlers got, the settlers got their windfall in 2013.
 
 I am sentimental about Felda because you can go and check my record. Among all the PKR and PH leaders over the past 10 years, the one who has been most at the forefront of exposing and trying to make our people understand about Felda — that's me. Even though there were occasional grumbles of dissatisfaction, all of it — what do you expect me to say? I mean, compare it: I wrote very long articles, article by article, with financial analysis between 2015 and 2019 — I think about 48 of them. One by one. If I hadn't kept going, if I didn't want people saying "this is Rafizi, this is Rafizi, why don't you go and do it yourself" — so I spent a lot of my time, 48, I think I wrote about 48. I believe I am the first person who brought out Felda's financial results. Then the exposé about buying a hotel in the UK, all of that — no, no, it was Felda in the UK. Australia was upset about it. So I went there, went to visit the hotel, asked questions. They did tell me that certain rooms were indeed reserved for UMNO leadership. I scanned, scanned — I went to the UK and checked one by one. So it's very personal to me because it's a sad story, because Felda's success was built on the backs of over 112,000 settler families. Back in their time, it wasn't like now; they went into the jungle, had to clear the jungle, had an axe, cleared the jungle with it. And I have two uncles who were actually Felda settlers. So, you know, I mean it's personal to me. Unfortunately, from 2009 onwards...
 
@@ -526,11 +526,11 @@ That's why, I think, I tried my best, like when I was a minister, not to look at
 
 **Haziq:** Sorry, Wafi, I just want to, on a lighter note — did you meet Tan Sri Hanafiah?
 
-**Rafizi Ramli:** Perhaps.
+**Rafizi:** Perhaps.
 
 **Haziq:** Would you like to share some...
 
-**Rafizi Ramli:** Well, what's notable is that early Felda, when it first started, was multi-racial. In Felda's early makeup, there were Chinese, Indians, Malays. At the time, when Tun Razak wanted to set up Felda, he was the one who called him in to set up Felda. He was a chartered accountant at the time, so he was asked to become Felda's GM. So he went down to the ground level, everywhere. And at that time there really wasn't a Bumiputera, non-Bumiputera dimension. Felda was the Federal Land Development Scheme meant to eradicate poverty. That's the early history of Felda. Of course, over the years, things change.
+**Rafizi:** Well, what's notable is that early Felda, when it first started, was multi-racial. In Felda's early makeup, there were Chinese, Indians, Malays. At the time, when Tun Razak wanted to set up Felda, he was the one who called him in to set up Felda. He was a chartered accountant at the time, so he was asked to become Felda's GM. So he went down to the ground level, everywhere. And at that time there really wasn't a Bumiputera, non-Bumiputera dimension. Felda was the Federal Land Development Scheme meant to eradicate poverty. That's the early history of Felda. Of course, over the years, things change.
 
 Alright, alright. Okay, we've gone past two hours. We have one more for... Sure, just one more then we're done. The last one, politics — oh, this one's actually more interesting. Why did you save this one for the back? Save best for the last. Alright, end with the bank.
 
@@ -540,11 +540,11 @@ And yes, this happened because BN's hegemony has been fractured since May 2018, 
 
 **Haziq:** ...because your window isn't clean. I think your comments on the whole idea of... Well, Barisan Nasional is such an old coalition, it already looks fragile — MCA, MIC already look like they want to leave. MIC itself has already said...
 
-**Rafizi Ramli:** MIC has already gone into PN,
+**Rafizi:** MIC has already gone into PN,
 
 **Haziq:** MCA too. So, I don't know, maybe in the context of them fighting among themselves, the coalition already seems fragile — who's going to answer?
 
-**Rafizi Ramli:** This is something perhaps never mentioned before. This is... my evaluation and reading of what each side's actual political tactics really are. Okay. I don't think MCA and MIC are truly serious about leaving BN and joining PN. They themselves aren't willing to take that risk. Because... I don't think non-Malay voters, especially Chinese and Indian voters, can accept PAS. Because they've been down that road before. This is something many people forget. After 2008, especially peaking in 2013, Pakatan Rakyat — which included PAS at the time — actually received over 90% of the votes from non-Malay voters. They didn't care at all how the ustaz looked, wearing a turban or whatever — they just voted for it. They just marked the ballot.
+**Rafizi:** This is something perhaps never mentioned before. This is... my evaluation and reading of what each side's actual political tactics really are. Okay. I don't think MCA and MIC are truly serious about leaving BN and joining PN. They themselves aren't willing to take that risk. Because... I don't think non-Malay voters, especially Chinese and Indian voters, can accept PAS. Because they've been down that road before. This is something many people forget. After 2008, especially peaking in 2013, Pakatan Rakyat — which included PAS at the time — actually received over 90% of the votes from non-Malay voters. They didn't care at all how the ustaz looked, wearing a turban or whatever — they just voted for it. They just marked the ballot.
 
 So when PAS did that after GE13, and PAS began to change and sometimes became even more racially charged than UMNO — once beaten twice shy. And I don't think, within the living memory of non-Malay voters, that they'll want to get close to PAS. So now they're mostly caught in a bind. Because there's no choice. If they don't support PH, their only option is to not go out and vote. That's it.
 
@@ -566,23 +566,23 @@ So, as for reading how this will affect the election, only God knows. But going 
 
 **Haziq:** I want to ask, because... again, with a year and a half to the next election, that's not long — is it a bit too early for them to be playing these kinds of games? Eh, not too early?
 
-**Rafizi Ramli:** What if, for example, the next election that's supposed to happen is Sarawak's, around May 2026 — not long from now, about 5 months away. What if Sarawak dissolves early, after the March holidays? Then the next one after that would be Melaka. Melaka around November, let's say November. If it's all done at once during that time — Melaka, Johor, federal all at once then — that means about 11 months. Eh, seat negotiations haven't been resolved in 2 years. In fact, it's true that if MCA and MIC start banging the table now, because eh, there's only 11 months left, we have no direction, we don't know what else to do. But it's true indeed.
+**Rafizi:** What if, for example, the next election that's supposed to happen is Sarawak's, around May 2026 — not long from now, about 5 months away. What if Sarawak dissolves early, after the March holidays? Then the next one after that would be Melaka. Melaka around November, let's say November. If it's all done at once during that time — Melaka, Johor, federal all at once then — that means about 11 months. Eh, seat negotiations haven't been resolved in 2 years. In fact, it's true that if MCA and MIC start banging the table now, because eh, there's only 11 months left, we have no direction, we don't know what else to do. But it's true indeed.
 
 **Haziq:** So the most, you could say the most united front, with — maybe not much infighting right now — would be Perikatan Nasional? Not necessarily either, because Perikatan Nasional—
 
-**Rafizi Ramli:** —there are already four parties. And those four parties, we have an Indian party, right, then we have Gerakan. That's within Perikatan Nasional. But at the same time, Tan Sri Muhyiddin formed IPR. Yes, you forgot. Yes, forgot, we forgot. There's IPR. IPR has how many? 14 parties. Those 14 parties include Muda, PSM, all of them, Putra, everyone. All of them need parties, negotiating with 14. Actually—
+**Rafizi:** —there are already four parties. And those four parties, we have an Indian party, right, then we have Gerakan. That's within Perikatan Nasional. But at the same time, Tan Sri Muhyiddin formed IPR. Yes, you forgot. Yes, forgot, we forgot. There's IPR. IPR has how many? 14 parties. Those 14 parties include Muda, PSM, all of them, Putra, everyone. All of them need parties, negotiating with 14. Actually—
 
 **Haziq:** —we forgot one that should really be included. The one where PAS announced their winner in Sabah will support Haji Ji.
 
-**Rafizi Ramli:** Oh.
+**Rafizi:** Oh.
 
 **Haziq:** We forgot. We forgot. Indeed—
 
-**Rafizi Ramli:** —that's terrible of me this—
+**Rafizi:** —that's terrible of me this—
 
 **Haziq:** —week.
 
-**Rafizi Ramli:** I just remembered earlier, because I remembered PAS said — first of all, not lively at all this week, not excited. The trend might only change slightly following the decision by the GRS Sabah side. Oibir said earlier, within UMNO there's also a faction that says why not we rely on DAP for support. They also see DAP as 50-50 with the Chinese community now. Will the calculations for entering GE15 take that into account, including for example no longer needing to rely on DAP, so we just contest on our own as an example.
+**Rafizi:** I just remembered earlier, because I remembered PAS said — first of all, not lively at all this week, not excited. The trend might only change slightly following the decision by the GRS Sabah side. Oibir said earlier, within UMNO there's also a faction that says why not we rely on DAP for support. They also see DAP as 50-50 with the Chinese community now. Will the calculations for entering GE15 take that into account, including for example no longer needing to rely on DAP, so we just contest on our own as an example.
 
 Alright. Even if the calculation is that DAP might not be able to deliver Chinese votes, who can deliver? Chances are DAP, even though it can't get as dominant a share of Chinese votes as before, the majority of Chinese voters will still go to DAP. PKR would get even less. So I don't know, if you look at Datuk Seri Anwar, at the government leadership overall, actually the ones who really look anxious and worried are only DAP. We don't see, for example, Dato' Sri Anwar or PKR treating this as a major crisis, or BN either. Not at all. Only DAP is being rigid about it.
 
@@ -590,4 +590,4 @@ So I think, partly it's also because they're sitting in that bubble — the blow
 
 **Haziq:** —should make a trophy, put it—
 
-**Rafizi Ramli:** —behind. Jelakot YV for episode 26. See you again next week. Good night.
+**Rafizi:** —behind. Jelakot YV for episode 26. See you again next week. Good night.

@@ -9,9 +9,9 @@ duration_seconds: 9667
 duration: 2h 41m
 view_count: 151282
 hosts:
-- Rafizi Ramli
-guests:
+- Rafizi
 - Haziq
+guests: []
 topics:
 - Politik dalaman PKR dan isu calon (CEPLOS)
 - Penghinaan terhadap Dr. Noor Aisyah oleh ketua cabang PKR
@@ -53,7 +53,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Rafizi Ramli:** In terms of contribution to the party, standing with the people, and background too — all of those become factors in the consideration. I myself played this role before, since I was one of those tasked with calling branch chiefs to apologize when they weren't made candidates. So I really understand these matters of nomination letters. I had to listen to branch chiefs' complaints, and there were cases where the chosen candidate wasn't close to that branch at all, no matter how strong and active the branch was.
+**Rafizi:** In terms of contribution to the party, standing with the people, and background too — all of those become factors in the consideration. I myself played this role before, since I was one of those tasked with calling branch chiefs to apologize when they weren't made candidates. So I really understand these matters of nomination letters. I had to listen to branch chiefs' complaints, and there were cases where the chosen candidate wasn't close to that branch at all, no matter how strong and active the branch was.
 
 All of this ties back to the candidate issue. Because when the CEPLOS story came out about Dato' Seri Anwar being willing to "hold the knee" of an MP [to beg], many didn't believe it — why would the President who issues the nomination letter need to beg an MP? But an election campaign is a machine that moves across the whole country, and Dato' Seri Anwar himself, at that time, was aware — based on the record of GE14 — that I had a certain role. I remember at the time he knew I was quite outspoken, that if I disagreed I would say so openly. The problem is, when the media asks, I'm not good at hiding it — I really can't lie. If asked whether I agree or not, I'll say I don't agree. That's why he really hoped I wouldn't speak out publicly at the time, because he knew my views on several matters I'd raised clearly showed I disagreed. So his worry was that if I stated that disagreement openly during the election, it would damage PKR's entire campaign at the time. That's the story.
 
@@ -81,13 +81,13 @@ One thing we still haven't heard any good response on from the Home Minister or 
 
 **Haziq:** Singapore has one, right? But I don't think we have one.
 
-**Rafizi Ramli:** We don't have one. As far as I know, we only have the penal code. And the penal code will only catch the "small fry" below — for example, if someone commits murder, deals drugs, or goes on a rampage injuring people, the police can certainly charge them under the penal code. But in other countries — a good example is the US — they have a specific anti-organized crime law. Such a law is enough to prove that the mafia bosses at the top have influence and give orders. So even though the "dirty work" is done by their underlings, however they launder the money, if there's evidence they acted on orders from the mafia boss above — regardless of whether that mafia boss is a Tan Sri or a Datuk Seri — he can be arrested and charged under the anti-organized crime law. We don't have a law like this. So it's high time we campaign seriously for this.
+**Rafizi:** We don't have one. As far as I know, we only have the penal code. And the penal code will only catch the "small fry" below — for example, if someone commits murder, deals drugs, or goes on a rampage injuring people, the police can certainly charge them under the penal code. But in other countries — a good example is the US — they have a specific anti-organized crime law. Such a law is enough to prove that the mafia bosses at the top have influence and give orders. So even though the "dirty work" is done by their underlings, however they launder the money, if there's evidence they acted on orders from the mafia boss above — regardless of whether that mafia boss is a Tan Sri or a Datuk Seri — he can be arrested and charged under the anti-organized crime law. We don't have a law like this. So it's high time we campaign seriously for this.
 
 For me, one worry since I became a minister is that I'm not sure of the actual state of organized crime in Malaysia, compounded now by this corporate mafia issue. This is dangerous, because if people in our society, or those entrusted with responsibility, can be bought with money — and that money largely comes from criminal activity and organized crime — we as a society need to focus efforts on enacting an anti-organized crime law in Malaysia. If we want to curb demand, is that even possible? Meaning, if there's no demand, there's no supply...
 
 **Haziq:** ...demand. Demand of what? Gangsters?
 
-**Rafizi Ramli:** Demand of what? Of gangsters? Demand... like we've discussed before, politicians who... you mean demand for money? Actually it's not as simple as that. I don't see this purely as demand and supply — it's not solely the fault of politicians just because some ask for money. Actually this crime exists whenever there's an opportunity to make money. If we look at countries like Japan, the Yakuza for example — they have a very strict culture about taking bribes, but organized crime still exists, because the crime itself, and now it's even more complicated — crossing borders, international syndicates.
+**Rafizi:** Demand of what? Of gangsters? Demand... like we've discussed before, politicians who... you mean demand for money? Actually it's not as simple as that. I don't see this purely as demand and supply — it's not solely the fault of politicians just because some ask for money. Actually this crime exists whenever there's an opportunity to make money. If we look at countries like Japan, the Yakuza for example — they have a very strict culture about taking bribes, but organized crime still exists, because the crime itself, and now it's even more complicated — crossing borders, international syndicates.
 
 I once asked a question in Parliament — those major drug seizures that get announced with great fanfare, has the top boss actually been identified yet? PDRM and the Home Ministry couldn't answer. Worrying. So I think there's a good chance there's a legal loophole where only the poor village or urban kids get caught — those easily recruited because of their circumstances. But those at the top, the masterminds, get away scot-free. So it's justified that we start looking at some form of law that makes it easier to prosecute these bosses at the top, so that if they're caught, it becomes difficult for them to launder money, bribe, or buy off politicians and senior government officials as is happening now.
 
@@ -95,7 +95,7 @@ So you want to introduce something like the RICO Act? I actually often watch maf
 
 **Haziq:** RICO — Racketeer Influenced and Corrupt Organizations Act.
 
-**Rafizi Ramli:** That's the anti-organized crime act. In the US it's known as the RICO Act. In the 80s, the underworld and mafia were very large. So the police, the FBI, did all sorts of things — usually they'd go undercover or wiretap conversations. And sometimes when they wiretap those conversations, it takes years, because the mafia is smart — when they talk, they talk about fish, never about the actual orders. So they have to wait years until the real order slips out, only then can they nail them directly. And they no longer need to prove that so-and-so made this or that drug — if there's evidence the order came from the mafia boss, he can be caught.
+**Rafizi:** That's the anti-organized crime act. In the US it's known as the RICO Act. In the 80s, the underworld and mafia were very large. So the police, the FBI, did all sorts of things — usually they'd go undercover or wiretap conversations. And sometimes when they wiretap those conversations, it takes years, because the mafia is smart — when they talk, they talk about fish, never about the actual orders. So they have to wait years until the real order slips out, only then can they nail them directly. And they no longer need to prove that so-and-so made this or that drug — if there's evidence the order came from the mafia boss, he can be caught.
 
 So, let's campaign together on this. Tonight I'm announcing that the "Beria" [Overzealous] winner is myself. Not done yet — there's one more. The Chief Secretary and government officers who don't understand the Madani concept. This is a news report about the Madani Loyalty Tour at the Selangor state level — apparently many government officers still don't grasp the Madani concept. Not only do they have to attend the loyalty assembly, but afterward they get scolded too for being considered disloyal.
 
@@ -107,7 +107,7 @@ We thought that matter was over, and suddenly now this Madani Loyalty Tour appea
 
 **Haziq:** Looks like not, sir — Haziq has resigned, so it's fine.
 
-**Rafizi Ramli:** Oh, he's resigned. No wonder he's bold. So you won't get to go on this Madani Loyalty Tour — not a civil servant anymore. But I myself have experience with civil servants who say one thing to your face and another behind your back — enough, enough, let's save that story for later.
+**Rafizi:** Oh, he's resigned. No wonder he's bold. So you won't get to go on this Madani Loyalty Tour — not a civil servant anymore. But I myself have experience with civil servants who say one thing to your face and another behind your back — enough, enough, let's save that story for later.
 
 Okay, the "Beria" [Overzealous] rating segment — today I'm nominating myself as the winner. I rarely do a U-turn, but today is a bit special, maybe because it's episode 43, so I'll have to give myself some credit. This week's "Beria" winner is myself, because of that mafia story earlier — I'm genuinely dissatisfied. How could something like this happen? Imagine if I were sitting next to my wife there, continuing to eat, or walking with my wife — imagine the trauma, right before your eyes, dozens of people coming in carrying baseball bats.
 
@@ -121,7 +121,7 @@ Why were there pictures of MCKK boys behind him during that speech? Because the 
 
 **Haziq:** I'm not too confident whether that photo is genuine or not.
 
-**Rafizi Ramli:** That photo is real — I think it really is a genuine setting there, not an AI image. It's just that there's a mischievous TikTok video where netizens took footage of Dato' Seri Anwar calling people stupid and illiterate, then cut to a photo of schoolboys, as if to suggest he was speaking that way even to schoolchildren.
+**Rafizi:** That photo is real — I think it really is a genuine setting there, not an AI image. It's just that there's a mischievous TikTok video where netizens took footage of Dato' Seri Anwar calling people stupid and illiterate, then cut to a photo of schoolboys, as if to suggest he was speaking that way even to schoolchildren.
 
 So, back to this issue — we can certainly agree that he's stressed. But this isn't about whether to give him a Panadol or not. The real matter here is the policy and national system in setting fuel prices — petrol and diesel — and if we want to broaden it further, the entire energy management system in Malaysia, including electricity and gas. This is a national question that will continue to be a huge "asteroid" for us, and for whichever government comes after this — whether it's Tan Sri Hadi Awang as Economy Minister, or Hamzah Zainuddin, or even Dr. Samsuri — this problem won't go away. So it's very important that Malaysians understand the real situation.
 
@@ -153,7 +153,7 @@ Take the year 1990 as an example — our production then was around 30,629 KTOE.
 
 **Haziq:** 7,333.
 
-**Rafizi Ramli:** Seven-three-three, okay. Divide by 365... you get 764,000 barrels a day. That was the peak in 2004, and it stayed near that figure until 2008. That has its own connotation — that's why during 2005 to 2008, people always replay the video of the debate between Dato' Seri Anwar and Dato' Seri Ismail Sabri saying "win today, tomorrow fuel prices drop." Bear in mind, in 2008 our production was around 34,195 KTOE, or about 686,000 barrels a day, and at that time our production exceeded our petrol and diesel consumption — consumption then, I recall, was under 400,000 barrels a day, in fact even lower, around just 300-something thousand. So there was a big buffer — production was nearly double consumption at that time.
+**Rafizi:** Seven-three-three, okay. Divide by 365... you get 764,000 barrels a day. That was the peak in 2004, and it stayed near that figure until 2008. That has its own connotation — that's why during 2005 to 2008, people always replay the video of the debate between Dato' Seri Anwar and Dato' Seri Ismail Sabri saying "win today, tomorrow fuel prices drop." Bear in mind, in 2008 our production was around 34,195 KTOE, or about 686,000 barrels a day, and at that time our production exceeded our petrol and diesel consumption — consumption then, I recall, was under 400,000 barrels a day, in fact even lower, around just 300-something thousand. So there was a big buffer — production was nearly double consumption at that time.
 
 But starting from 2010, it began to decline. Take the year 2011 — 28,325 KTOE, multiplied by 7,333 and divided by 365, gives around 569,000 barrels a day. By 2021, it was down to 25,389 KTOE — equivalent to around 510,000 barrels a day. Now, national production of crude oil usable by refineries — whether in Kertih, Pengerang, or Sungai Udang, Melaka — is only around 340,000 barrels a day, roughly half, in fact more than half less than in 2008. Over 20 years, from around 690,000 barrels, it has plunged to 340,000 barrels.
 
@@ -169,11 +169,11 @@ That's why no government, whichever one it is, can escape this "asteroid." So if
 
 **Haziq:** So this "asteroid" that's coming, number one — are we over-reliant on petrol and diesel?
 
-**Rafizi Ramli:** No.
+**Rafizi:** No.
 
 **Haziq:** Over-reliant, we're over-consuming. Over-consuming. But yes, over-reliant too, since there's no EV. Making a promise like 20 years ago is actually irresponsible — because if you lower the price, it means more people will use it, and that consumption will keep rising even further, ultimately making the problem even bigger.
 
-**Rafizi Ramli:** Here's the story, there are a few things that need to be understood. For example, as I mentioned earlier, our oil production in 2020-2021 was around 500,000 barrels a day, and within five years it dropped to 350,000 barrels a day. That's a decline of nearly 35 to 40%. What this means is — part of the reason is that at the time we didn't fully understand the profile of our oil wells. These oil wells are underground.
+**Rafizi:** Here's the story, there are a few things that need to be understood. For example, as I mentioned earlier, our oil production in 2020-2021 was around 500,000 barrels a day, and within five years it dropped to 350,000 barrels a day. That's a decline of nearly 35 to 40%. What this means is — part of the reason is that at the time we didn't fully understand the profile of our oil wells. These oil wells are underground.
 
 I was once involved in a team that purchased an oil well in Mauritania. That's why I ended up spending two weeks in Mauritania — good grief, fish every single day, it nearly killed me. When we bought it in 2007, that oil well's production was 80,000 barrels a day. Petronas did due diligence, bought it from Woodside, an Australian company — 80,000 barrels a day. Within just a year, it was down to 20,000 barrels. The reason is, everything we understand about oil is just from reading graphs and seismic data; what's actually down there underground, we don't know.
 
@@ -205,7 +205,7 @@ Whoever forms the government, if they're responsible, needs to know there's a li
 
 **Haziq:** Okay, Pa'an wants to ask — because we have half, that was only half about oil.
 
-**Rafizi Ramli:** No, no, no, I don't want to disturb. Maybe to Sanusi next, I think? No, no, no, Sanusi is actually fine compared to Isyam Jalil, let me answer a bit.
+**Rafizi:** No, no, no, I don't want to disturb. Maybe to Sanusi next, I think? No, no, no, Sanusi is actually fine compared to Isyam Jalil, let me answer a bit.
 
 Before answering about Sanusi, we need to first understand how the mechanism for setting oil prices works. Some people ask, "where does this price come from, why did it go up to RM6?" Isyam Jalil then makes an excuse — he says this subsidy is only "on paper." To understand why what Isyam Jalil said is nonsense, and to understand how this RM6 billion a month subsidy actually gets paid out, we need to understand the APM.
 
@@ -215,11 +215,11 @@ Before we get there, it helps us understand why the government uses the APM. Act
 
 **Haziq:** Cost —
 
-**Rafizi Ramli:** — of production. Okay, production cost. Let's say, maybe it's hard for Haziq to understand if asked about oil. Let's say you produce a new product — a liquid that, if you drink it, your hair immediately grows thick. How would you set the price of that liquid per litre for sale, when the product has never existed before and this is the first time you're setting its price?
+**Rafizi:** — of production. Okay, production cost. Let's say, maybe it's hard for Haziq to understand if asked about oil. Let's say you produce a new product — a liquid that, if you drink it, your hair immediately grows thick. How would you set the price of that liquid per litre for sale, when the product has never existed before and this is the first time you're setting its price?
 
 **Haziq:** Raw materials — raw materials, the actual price of production, production cost, chemical production cost, and then maybe look at any additional prices like tax or the price of importing raw materials. This is duty.
 
-**Rafizi Ramli:** Meaning, the normal way we set cost — we actually look at how much the raw materials cost, how much the production cost is, how much the sales and distribution cost is, then we want a margin of 20% or whatever — that's our profit, and that becomes the final price. So, why can't the government do that? Why can't the government use this information from Petronas and set the price that way?
+**Rafizi:** Meaning, the normal way we set cost — we actually look at how much the raw materials cost, how much the production cost is, how much the sales and distribution cost is, then we want a margin of 20% or whatever — that's our profit, and that becomes the final price. So, why can't the government do that? Why can't the government use this information from Petronas and set the price that way?
 
 This comes from Isyam Jalil's nonsense. His argument goes like this — he says because we use the Singapore reference price for the whole of Asia, oil companies actually get a bigger profit than their cost, because they don't want to set the price according to the actual production cost here. That's why he says this subsidy is only "on paper" — his words, even if the government tells them to lower the price, Petronas, Shell, everyone still profits a lot. So the government is doing pointless work, supposedly a subsidy is being paid, but actually it isn't — "because it's an opportunity cost," he says, because we choose to sell abroad at a higher price compared to selling here. If we account for all these decisions and the actual costs are known, the real price is far cheaper than the price charged through the APM that references that Singapore price.
 
@@ -227,7 +227,7 @@ That's the thrust of his argument, and many people are influenced by it. So back
 
 **Haziq:** Shot in the dark, but maybe because oil is a valuable commodity that has a set price?
 
-**Rafizi Ramli:** No, more from an economic standpoint. Why is that actually more dangerous to do? Actually, if we set it based on the costs claimed by the oil companies themselves, that would be more harmful to the public compared to the way it's done now — even though this method comes from the BN government. Back when Isyam Jalil was Najib's officer, he never made noise about this. I myself never questioned the APM because it has quite sound economic logic, made since Tun Mahathir's era, in the 1980s.
+**Rafizi:** No, more from an economic standpoint. Why is that actually more dangerous to do? Actually, if we set it based on the costs claimed by the oil companies themselves, that would be more harmful to the public compared to the way it's done now — even though this method comes from the BN government. Back when Isyam Jalil was Najib's officer, he never made noise about this. I myself never questioned the APM because it has quite sound economic logic, made since Tun Mahathir's era, in the 1980s.
 
 The reason is this — about the market. Not just a "free market" per se, but economically speaking: if in that system the producers, meaning the oil companies, determine the price based only on their own costs plus a margin, do you think the price of oil would get lower over time, or higher? It would get higher, because there'd be no motivation for these oil companies to compete. If they pay salaries four times more expensive than other oil companies worldwide, they can say "this is my cost." If they drill for oil however they like, do a botched project, they can say "this is my cost too." On the other hand, a price benchmarked against other oil companies forces us to compete our production cost with other countries. Otherwise, what other countries can produce at a cost of RM3 per litre to refine petrol would become RM6 in Malaysia — and that's not even counting the element of corruption.
 
@@ -245,7 +245,7 @@ So to answer the earlier question — oil companies can't just decide their own 
 
 **Haziq:** So even petrol station operators? So if you go to a Petronas pump or dealership, they're also already set with a fixed margin?
 
-**Rafizi Ramli:** Yes, yes, yes. They can't — it's like a controlled item. That's why if a petrol pump operator wants to make more money, there are only two ways. One, if they sell more, because it's calculated based on volume — 12 cents per litre for RON95 — so if they sell more, they get more commission. The second way, and the more profitable one for the petrol station company, is the convenience store at that station. That store actually makes a much higher margin. Many of them actually survive on the mesra shop, convenience store, C-store and so on — that's why sometimes we see C-stores expanding in various ways.
+**Rafizi:** Yes, yes, yes. They can't — it's like a controlled item. That's why if a petrol pump operator wants to make more money, there are only two ways. One, if they sell more, because it's calculated based on volume — 12 cents per litre for RON95 — so if they sell more, they get more commission. The second way, and the more profitable one for the petrol station company, is the convenience store at that station. That store actually makes a much higher margin. Many of them actually survive on the mesra shop, convenience store, C-store and so on — that's why sometimes we see C-stores expanding in various ways.
 
 Even at the level of Petronas itself — if we look at the listed oil company, for example Petronas Dagangan, does Petronas Dagangan make a lot of profit? Petronas Dagangan's profit is only around RM100 million, not billions, because its profit is already controlled — they only get 5 cents per litre for margin, and around 12 cents for production cost. If you combine everything, refining might get around 12 cents. Because these oil companies are all integrated, you have to add everything up — production cost, plus the 5 cent margin, totalling 17 cents altogether.
 
@@ -253,7 +253,7 @@ So what shot up sharply isn't their profit — what shot up sharply is the MOPS 
 
 **Haziq:** Six ringgit?
 
-**Rafizi Ramli:** Six ringgit 70 sen. You subtract the oil company's margin of 2.25 sen, subtract the station operator's margin of 7 sen — that totals roughly 10 sen. Then subtract again the oil company's production and distribution cost, I estimate around 12 sen — so around 25 sen. Add the alpha, say 5 sen, so 30 sen altogether. So out of that RM6.70, only 30 sen is made up of those components. The remaining RM6.40 is the price of crude oil — that's the biggest portion. Of course, when RON95 or diesel is set at the price traded in Singapore, that's already the price of a refined product. But the majority of the price of that refined product is actually the price of crude oil.
+**Rafizi:** Six ringgit 70 sen. You subtract the oil company's margin of 2.25 sen, subtract the station operator's margin of 7 sen — that totals roughly 10 sen. Then subtract again the oil company's production and distribution cost, I estimate around 12 sen — so around 25 sen. Add the alpha, say 5 sen, so 30 sen altogether. So out of that RM6.70, only 30 sen is made up of those components. The remaining RM6.40 is the price of crude oil — that's the biggest portion. Of course, when RON95 or diesel is set at the price traded in Singapore, that's already the price of a refined product. But the majority of the price of that refined product is actually the price of crude oil.
 
 This also answers Sanusi. It partly answers Sanusi's claim that the government deliberately holds back before raising the price. That's not the case. But there is a bit of truth in what Sanusi said, and it depends on how frequently we reference the price. For example, what happened this week — when the United States announced a two-week ceasefire with Iran, the crude oil price dropped from $112 to $95 a barrel. But MOF announced the price rising again to a record high. The reason is, the price for this week refers to the average price of last week, and last week it was still $112 a barrel. So there's some truth in what Sanusi said, that this price difference is due to a timing difference, due to inventory and so on.
 
@@ -281,53 +281,53 @@ We'll continue with the rest later, because we're already more than half an hour
 
 **Haziq:** One more thing — Azam Baki and the Corporate Mafia. "I am your father." Episode three.
 
-**Rafizi Ramli:** Oh, this is like Star Wars, an episode. Although I haven't watched Star Wars.
+**Rafizi:** Oh, this is like Star Wars, an episode. Although I haven't watched Star Wars.
 
 **Haziq:** You haven't watched Star Wars?
 
-**Rafizi Ramli:** I'm sure there are still many others who haven't watched it either.
+**Rafizi:** I'm sure there are still many others who haven't watched it either.
 
 **Haziq:** After this, God willing, I'm going to propose that we change moderator — because you haven't watched Star Wars.
 
-**Rafizi Ramli:** But this is an old story, I know — 1980.
+**Rafizi:** But this is an old story, I know — 1980.
 
 **Haziq:** That's actually terrible, not watching Star Wars.
 
-**Rafizi Ramli:** Oh my God. But I watch other films.
+**Rafizi:** Oh my God. But I watch other films.
 
 **Haziq:** But it can't be compared.
 
-**Rafizi Ramli:** Oh, it can't be compared. Okay, I'll start watching Star Wars.
+**Rafizi:** Oh, it can't be compared. Okay, I'll start watching Star Wars.
 
 **Haziq:** You have to watch it, because every reformist has to watch Star Wars.
 
-**Rafizi Ramli:** Alright, alright.
+**Rafizi:** Alright, alright.
 
 **Haziq:** Because Star Wars symbolises how a group of small people who seem hopelessly weak fight against one huge power, and in the end they win. That's why Star Wars matters.
 
-**Rafizi Ramli:** Alright, alright.
+**Rafizi:** Alright, alright.
 
 **Haziq:** So are you saying you haven't watched Star Wars?
 
-**Rafizi Ramli:** Not really, this is from 1980, even older.
+**Rafizi:** Not really, this is from 1980, even older.
 
 **Haziq:** Clever of you to say I'm old. There's plenty of Star Wars on Netflix, right? There's some on Disney too.
 
-**Rafizi Ramli:** No, the "I am your father" one — Skywalker and Darth Vader — that's not episode three, that's episode two, The Empire Strikes Back.
+**Rafizi:** No, the "I am your father" one — Skywalker and Darth Vader — that's not episode three, that's episode two, The Empire Strikes Back.
 
 Okay, back to KB [Kluang Bersama?]. I think there have been a lot of developments, but there are three main things tonight. The lightest one concerns a few young people accused of being my followers, who came to PWTC holding up placards saying "Arrest Azam Baki." The YB might comment first, since they were present —
 
 **Haziq:** Oh, there are photos of that.
 
-**Rafizi Ramli:** Yes — the "Arrest Azam Baki" gathering too, the YB was there, they were there too. I think they don't like me, I reckon.
+**Rafizi:** Yes — the "Arrest Azam Baki" gathering too, the YB was there, they were there too. I think they don't like me, I reckon.
 
 **Haziq:** I think so too.
 
-**Rafizi Ramli:** Because when I got up there — this was during the "Arrest Azam Baki" gathering the other day, right? He did it on the back of a pickup truck, right? Bani —
+**Rafizi:** Because when I got up there — this was during the "Arrest Azam Baki" gathering the other day, right? He did it on the back of a pickup truck, right? Bani —
 
 **Haziq:** — expensive one.
 
-**Rafizi Ramli:** When I climbed up, it was like he pulled me up half-heartedly, like I was about to fall back down. Shouldn't have bothered climbing up. There are two possibilities — either he doesn't like me, or I'm heavy. But actually, these accusations do have a somewhat amusing stamp to them too. It's as if PKR people nowadays don't understand how a demonstration or gathering is organised. Actually, whoever's in charge of the stage is whoever the organiser is. The organiser that day was the Sekretariat Tangkap Azam Baki [Arrest Azam Baki Secretariat]. I don't even know these kids at all — when I got up on stage, I honestly couldn't remember anyone's name. But I could sense that they didn't like me. I think these kids are quite radical for their age, so they see me as part of the establishment — whereas young people like this are usually a bit more anti-establishment. It just so happened the photos were there, so it immediately became fodder for people, you know. But I welcome it even if they want to be my "disciples," although there are differing views on their actions. Some cursed and swore, said they were disrespectful. I've never commented on this before.
+**Rafizi:** When I climbed up, it was like he pulled me up half-heartedly, like I was about to fall back down. Shouldn't have bothered climbing up. There are two possibilities — either he doesn't like me, or I'm heavy. But actually, these accusations do have a somewhat amusing stamp to them too. It's as if PKR people nowadays don't understand how a demonstration or gathering is organised. Actually, whoever's in charge of the stage is whoever the organiser is. The organiser that day was the Sekretariat Tangkap Azam Baki [Arrest Azam Baki Secretariat]. I don't even know these kids at all — when I got up on stage, I honestly couldn't remember anyone's name. But I could sense that they didn't like me. I think these kids are quite radical for their age, so they see me as part of the establishment — whereas young people like this are usually a bit more anti-establishment. It just so happened the photos were there, so it immediately became fodder for people, you know. But I welcome it even if they want to be my "disciples," although there are differing views on their actions. Some cursed and swore, said they were disrespectful. I've never commented on this before.
 
 My view is this: every judgment we make about something that happens must be based on principles and rules. Meaning, when we want to make a decision, we must have rules in our heads — every decision must be rules-based. It can't be based on our whims — today we say this, tomorrow we say that. That's what people call "lalang" [opportunistic], that's what people mean when they say things are no longer consistent.
 
@@ -355,9 +355,9 @@ If we could move to the specific accusation linked to me regarding the invoice s
 
 Oh, but he's said to be close with you. I swear to God, I want to say this tonight — people are watching all this — I swear to God I have never met and don't even know of the existence of the person named. I have never met anyone.
 
-**Host:** Those of us from YB's old team also think, we never even did the work, someone else got the credit.
+**Haziq:** Those of us from YB's old team also think, we never even did the work, someone else got the credit.
 
-**Rafizi Ramli:** Exactly. If there's any effect at all from these slanders, it's that the people working around me are starting to rebel. "You've got RM3 billion, my car's about to get repossessed, I can't pay my car loan." "Repossessed?" "No, no, not yet." "Almost?" "Just be patient, eh." "Patient, patient, patient, the struggle isn't over yet." "Just be patient, la, you figure out how to pay your own car loan." So the people around me are getting more and more resentful — saying it's useless, they struggle to pay for a car through hard work, and he's got RM3 billion, yet won't even help pay for a car.
+**Rafizi:** Exactly. If there's any effect at all from these slanders, it's that the people working around me are starting to rebel. "You've got RM3 billion, my car's about to get repossessed, I can't pay my car loan." "Repossessed?" "No, no, not yet." "Almost?" "Just be patient, eh." "Patient, patient, patient, the struggle isn't over yet." "Just be patient, la, you figure out how to pay your own car loan." So the people around me are getting more and more resentful — saying it's useless, they struggle to pay for a car through hard work, and he's got RM3 billion, yet won't even help pay for a car.
 
 At first, what's this called, his method was supposedly having an invoice. I remember this issue coming back up, because I don't think Saifuddin was involved in any of this, even though he had that invoice. That invoice, supposedly, was from AMLA — the officers who froze the accounts, Victor Chin, Dato' Abu Hanifah. I know because I've seen the letters issued to transfer shares — the same officers. I think I even have photos with all those officers, all the superintendents — I keep the "receipts," you know, because they came to meet me before, came to see me about another case. Might as well mention the "Papa Gomor" case too, you know, because the officers involved are the same. So they came to take photos with me, and for no reason I got dragged into it, and there's a juicy story behind it too.
 
@@ -375,9 +375,9 @@ There's one more thing, if it's to be linked as well — they say NextG lobbied 
 
 But I think they'll still make a case out of it. Because even yesterday there was already an MACC report by the same group — who made the report about AMLA, PPIM, all that. I don't know what it is, but it's roughly the same people who made the report about AMLA and all that. So I think all this has already been arranged — it clearly looks like a new file will be opened after this.
 
-**Host:** But, as someone observing from the outside — who's doing work that's not clean like this? Meaning, like organising the same thing, the same thing, same script — as a man, can you see a pattern?
+**Haziq:** But, as someone observing from the outside — who's doing work that's not clean like this? Meaning, like organising the same thing, the same thing, same script — as a man, can you see a pattern?
 
-**Rafizi Ramli:** Even if this was done by Jeffrey Epstein, or Mossad — if the thing is completely wrong and doesn't have even a shred of truth in it, it will show. So even the most skilled people at fabricating, arranging, making conspiracies, making slander, if they want to do it, there's really nothing there, you know. And that's also, I think, an advantage — if people have always accused me of being arrogant, hard to meet. Because I'm indeed very careful about who I hire. Farhan used to work with me, he knows that if anyone meets my officers, I'd give them a real earful. I really don't let my officers meet anyone, I don't meet anyone either. So in that kind of situation, it's really hard to find an opportunity to do anything. In the end they're forced to make up stories with people we've never even met — they're victimising other people entirely. That's why, as much as possible, these bad things aren't just something we should avoid, we should stay away from, we should hate. If we feel something isn't right and we keep holding on to the truth, God willing, no matter what story people make up, when it comes out it will look unclean like this.
+**Rafizi:** Even if this was done by Jeffrey Epstein, or Mossad — if the thing is completely wrong and doesn't have even a shred of truth in it, it will show. So even the most skilled people at fabricating, arranging, making conspiracies, making slander, if they want to do it, there's really nothing there, you know. And that's also, I think, an advantage — if people have always accused me of being arrogant, hard to meet. Because I'm indeed very careful about who I hire. Farhan used to work with me, he knows that if anyone meets my officers, I'd give them a real earful. I really don't let my officers meet anyone, I don't meet anyone either. So in that kind of situation, it's really hard to find an opportunity to do anything. In the end they're forced to make up stories with people we've never even met — they're victimising other people entirely. That's why, as much as possible, these bad things aren't just something we should avoid, we should stay away from, we should hate. If we feel something isn't right and we keep holding on to the truth, God willing, no matter what story people make up, when it comes out it will look unclean like this.
 
 Just one more thing, if we read this website, another thing alleged is that Datasonic was awarded the IPR project. How true is this? The only tender I remember at the Ministry of Economy is this IPR — meaning Rental of Vending Machine, not purchase, but rental. We launched the IPR in February 2023. Actually, we persuaded them to lend one vending machine as a proof of concept, after that it was done through open tender. The Minister actually was not involved at all in that tender. I know, the previous practice was that the minister would call the Secretary-General to give instructions on this and that. I always told my officers and my office, I don't want to go near this, because when someone like me tries not to want to play that kind of game — meaning, when you don't want to get involved in things like this, we make a lot of enemies. So the matter of tenders, the matter of procurement, is very dangerous. I really followed the rules strictly, I was not involved in that tender. To the point that, I didn't even know what happened with that tender. After five, six months, people asked, "where's the vending machine?" If I'm to answer the many people who ask "I registered a long time ago, YB, why haven't I gotten an offer yet," the reason is that tender — I don't know the ins and outs of it — I handed it over completely, according to the rules, to government officers. So when the tender was opened, I didn't even know, who was called, all the specifications, I didn't know.
 
@@ -385,25 +385,25 @@ The only discussion I had about this vending machine tender in the ministry meet
 
 In the post-Cabinet meetings, every week, we didn't discuss procurement details, only progress. So when I was told the progress was complete, I was fine with that. Then suddenly I read — Datasonic got a contract, one of the 6 companies was Datasonic. That was the first time I heard about it. In fact, until now, if you ask me, I actually still don't know who won the other allocations — I don't know, because I made a decision not to get involved at all. I found out about Datasonic from the media. But at the time I did think, "my God, surely there isn't some other company — they've already done passports, why would they want to do vending machines too?" My officers told me we can't interfere; the tender board had already set criteria one, two, three, four — whichever company meets the criteria and the price is eligible to get it. One of those companies was Datasonic. I hope they do a good job with these vending machines. That's why there was a delay of up to a year — the tender process went back and forth because the Ministry of Economy didn't want to give it to just one company, but wanted six.
 
-**Host:** Okay, it's been 2 hours 5 minutes. Maybe let's move to the last segment for the others — better get some tissues ready first.
+**Haziq:** Okay, it's been 2 hours 5 minutes. Maybe let's move to the last segment for the others — better get some tissues ready first.
 
-**Rafizi Ramli:** Tissues?
+**Rafizi:** Tissues?
 
-**Host:** Yeah, in case you cry.
+**Haziq:** Yeah, in case you cry.
 
-**Rafizi Ramli:** No way, nobody's crying here.
+**Rafizi:** No way, nobody's crying here.
 
-**Host:** Finally, will brother Rafizi be expelled from PKR — will you be sacked? YB just received a letter from the Disciplinary Board Office, a show-cause letter, yes YB, along with all sorts of things YB might go through personally. It's just that YB, I as an ordinary member of the public want to ask.
+**Haziq:** Finally, will brother Rafizi be expelled from PKR — will you be sacked? YB just received a letter from the Disciplinary Board Office, a show-cause letter, yes YB, along with all sorts of things YB might go through personally. It's just that YB, I as an ordinary member of the public want to ask.
 
-**Rafizi Ramli:** You, an ordinary member of the public?
+**Rafizi:** You, an ordinary member of the public?
 
-**Host:** I'm an ordinary beautiful member of the public.
+**Haziq:** I'm an ordinary beautiful member of the public.
 
-**Rafizi Ramli:** Beautiful?
+**Rafizi:** Beautiful?
 
-**Host:** YB has received the show-cause letter. What's YB's thinking process like? In the end, is YB confident they're ready to sack YB? Because even my grandmother knows, if YB gets sacked, our country's political landscape will become even more chaotic.
+**Haziq:** YB has received the show-cause letter. What's YB's thinking process like? In the end, is YB confident they're ready to sack YB? Because even my grandmother knows, if YB gets sacked, our country's political landscape will become even more chaotic.
 
-**Rafizi Ramli:** Your grandmother does support us, right?
+**Rafizi:** Your grandmother does support us, right?
 
 Yes, I received that show-cause letter yesterday, April 9th. But if we look at it, the first show-cause letter came from the Secretary-General — that earlier one. That itself was already odd, because a show-cause letter like this should normally come from the Disciplinary Board. But this time the show-cause letter came directly from the Chairman of the Disciplinary Board. As for the accusations, they specifically allege attacking the Party President's character, implying that the Party President was defending the MACC Chief Commissioner, then accusing the Party President of allowing supporters to spread slander, and accusing the Party President, as Prime Minister, of protecting certain individuals.
 
@@ -415,23 +415,23 @@ My reading is, all of this is moving toward the possibility of declaring — on 
 
 So if I'm interpreted as having declared I'm leaving the party, then under the anti-party-hopping law, I would lose my seat. I think that's one of the reasons Dato' Seri Anwar went to Pandan — as a signal that if there's a by-election, perhaps Tengku Zafrul will contest in Pandan, since he's been very active in Pandan right now. Not just for the past 2-3 months — he's been really active in Pandan right now.
 
-**Host:** YB isn't joining then?
+**Haziq:** YB isn't joining then?
 
-**Rafizi Ramli:** Honestly I don't know, I only found out when someone from the mosque congregation asked. So it wasn't even announced — just that some PKR people suddenly noticed a certain posting like that. Never mind, I welcome whatever action they take. Besides, this has dragged on for so long, people are fed up with this PKR drama — when will it end. So it would be good if there's a proper conclusion for the next episode.
+**Rafizi:** Honestly I don't know, I only found out when someone from the mosque congregation asked. So it wasn't even announced — just that some PKR people suddenly noticed a certain posting like that. Never mind, I welcome whatever action they take. Besides, this has dragged on for so long, people are fed up with this PKR drama — when will it end. So it would be good if there's a proper conclusion for the next episode.
 
-**Host:** Maybe people will ask, after that, if it's true — YB sitting there watching the clock, 2 hours 45 minutes — what will YB do after that?
+**Haziq:** Maybe people will ask, after that, if it's true — YB sitting there watching the clock, 2 hours 45 minutes — what will YB do after that?
 
-**Rafizi Ramli:** I'll go on a beach holiday I guess, already dressed for it. No, that's what I remember, I don't even know the reading of it myself. But yes, I know Dato' Seri Anwar, his thinking, and the people around him. Their goal is to defeat me so I lose my deposit in the upcoming by-election. Because in their view, without a party, without PKR, I'm going nowhere. So if there's a by-election, even though I might lose, I will still contest no matter what. Looking back at the PKR election — even though I already knew everything was arranged, blockchain or not, I still fought. Win or lose is a separate matter. Because if we're being truthful, and we feel we have dignity, and we believe the people can eventually see what's happening — take the PKR election as an example, that day it might have looked like I lost, but the plan to kill off that success, to stop me from speaking out, hasn't worked, in fact it's gotten louder now. So it's the same, I will contest. If I lose, even if I lose my deposit, never mind, I'll go on a beach holiday. Then I'll speak up again — this podcast, who's going to look after this podcast, right? Without this podcast, you all wouldn't exist.
+**Rafizi:** I'll go on a beach holiday I guess, already dressed for it. No, that's what I remember, I don't even know the reading of it myself. But yes, I know Dato' Seri Anwar, his thinking, and the people around him. Their goal is to defeat me so I lose my deposit in the upcoming by-election. Because in their view, without a party, without PKR, I'm going nowhere. So if there's a by-election, even though I might lose, I will still contest no matter what. Looking back at the PKR election — even though I already knew everything was arranged, blockchain or not, I still fought. Win or lose is a separate matter. Because if we're being truthful, and we feel we have dignity, and we believe the people can eventually see what's happening — take the PKR election as an example, that day it might have looked like I lost, but the plan to kill off that success, to stop me from speaking out, hasn't worked, in fact it's gotten louder now. So it's the same, I will contest. If I lose, even if I lose my deposit, never mind, I'll go on a beach holiday. Then I'll speak up again — this podcast, who's going to look after this podcast, right? Without this podcast, you all wouldn't exist.
 
 If I win instead, that's a risk Dato' Seri Anwar has taken — because that's a very dangerous signal to him and to PKR and PH: an entity with nothing, contesting against the entire strength of the government, and eh, he wins. Going up against a former minister, Dato' Seri Anwar's own trusted man, Tengku Zafrul — eh, look, I win — oh, that's dangerous, isn't it. So that's up to their own calculations, but my path is already fairly clear. Besides, from the start we've been fighting, so we keep fighting, right? So let's just fight.
 
-**Host:** YB, maybe when you see it, you keep getting hit repeatedly — yeah, attacked from left and right. Maybe I feel a bit sad.
+**Haziq:** YB, maybe when you see it, you keep getting hit repeatedly — yeah, attacked from left and right. Maybe I feel a bit sad.
 
-**Rafizi Ramli:** Huh? You're sad?
+**Rafizi:** Huh? You're sad?
 
-**Host:** I thought you were sad along with me. And then this new one, the letter from the Disciplinary Board Office — YB being pressured like this, after YB gave everything for this party since YB's youth. How does YB deal with things like this? I feel, sorry, ordinary people like me and others, and the viewers, maybe if it reaches a certain point, would surrender or not be able to cope. But YB can just carry on.
+**Haziq:** I thought you were sad along with me. And then this new one, the letter from the Disciplinary Board Office — YB being pressured like this, after YB gave everything for this party since YB's youth. How does YB deal with things like this? I feel, sorry, ordinary people like me and others, and the viewers, maybe if it reaches a certain point, would surrender or not be able to cope. But YB can just carry on.
 
-**Rafizi Ramli:** First, I think, we're each born and raised according to our own upbringing. Other people might not take things too seriously in life, but me, I don't like being bullied. I hate bullies, anywhere, I hate bullies. And standing up to bullies, for me, is part and parcel of me as a person. If I feel I'm right — that's what other people would say too, that they feel they're right as well — but I don't pick fights, that oil story earlier I just explained, even helped the government actually. But if I feel something is clearly right, and there's someone who feels they can use their power, money, and position to bully and pressure others, that's something I really can't walk away from — it's just my character.
+**Rafizi:** First, I think, we're each born and raised according to our own upbringing. Other people might not take things too seriously in life, but me, I don't like being bullied. I hate bullies, anywhere, I hate bullies. And standing up to bullies, for me, is part and parcel of me as a person. If I feel I'm right — that's what other people would say too, that they feel they're right as well — but I don't pick fights, that oil story earlier I just explained, even helped the government actually. But if I feel something is clearly right, and there's someone who feels they can use their power, money, and position to bully and pressure others, that's something I really can't walk away from — it's just my character.
 
 Because I consider myself fortunate and grateful, because I feel I have blessings and mercy that Allah has given that are better than what others have. So if I were the fearful type, or the type who, even after Allah has given everything, still keeps complaining, I think that's ingratitude toward His blessings. That's why I think — this is also advice to the young people who want to go into politics — we need to learn to be grateful. Learning gratitude isn't like how the government or UMNO does it now, Dato' Seri Anwar, saying things like "Malaysians should be grateful, be grateful Malaysian society is peaceful." I am grateful in this sense: I know where I came from, I'm the child of people who struggled. As I was growing up, I never had big desires, because whatever I got was already far better than what my parents got when they were young. So I feel very grateful — I have a good job, I have a good wife, I have good children, I have good friends. You know, almost everything I have, Allah has given me well. And I think that's enough for me. I've never wanted anything bigger.
 
@@ -439,50 +439,50 @@ And for that reason, many of my political decisions are usually influenced by fe
 
 Actually, if you have that perspective in life, every day you wake up grateful for what you have. Since I left university, from my first job until now, I've never had serious financial problems — not rich, but I always have enough. Compared to others who've had to struggle since young, having to become Grab drivers, taking on 2-3 side jobs every month to pay bills, for me, in terms of livelihood, Alhamdulillah Allah has given me enough. In terms of career, others struggled hard to get promoted, I was blessed, promoted faster than others from early on. In politics too, others took 10 years to become a Member of Parliament, I became an MP at age 36. Others took 10 years to become Deputy President, I became Deputy President in a shorter period. Some have been MPs for decades without becoming ministers, I became a minister in a short time. So, all this, and when you stack it up — if someone like me still isn't grateful for what Allah has given, something is wrong with you. So, life cannot be perfect — it can't be that everything is easy for us, that Allah gives us everything, with not even a little bit of a test. Things like this count as tests — others are tested in other ways, health, livelihood, hardship. If I'm tested with this, I consider that okay.
 
-**Host:** Doesn't YB feel this test is heavier than others?
+**Haziq:** Doesn't YB feel this test is heavier than others?
 
-**Rafizi Ramli:** I don't think so. It's proportionate. And this test too, this is what Faikah calls kifarah — as I mentioned last week, it's actually somewhat different from how our people usually understand this concept of kifarah. We sin every single day, there's always some sin of ours — sometimes our prayers aren't proper, sometimes we pray late, sometimes we gossip about people, make jokes that hurt others' feelings. We sin every day. So tests like this actually have two benefits for me. One, they cleanse those sins. Second, usually if we're tested and we go through it with acceptance, insyaAllah we become better — better people, the older we get the more patient, the less prone to anger. So if we're more accepting of the tests Allah gives, and we pray that Allah eases other, bigger matters after this — that's why it's called a test, because we have to go through it. We can't be angry at people, our hearts can't become unsettled, we can't hold grudges against people. So if you go through it, and it increasingly reminds us of Allah and of loyal friends, then after we get through that test, we're better prepared for something better. That's actually how I see life, which, unfortunately, not many politicians think that way — so I'm disliked by some politicians, precisely because my perspective on life is very different from most people's.
+**Rafizi:** I don't think so. It's proportionate. And this test too, this is what Faikah calls kifarah — as I mentioned last week, it's actually somewhat different from how our people usually understand this concept of kifarah. We sin every single day, there's always some sin of ours — sometimes our prayers aren't proper, sometimes we pray late, sometimes we gossip about people, make jokes that hurt others' feelings. We sin every day. So tests like this actually have two benefits for me. One, they cleanse those sins. Second, usually if we're tested and we go through it with acceptance, insyaAllah we become better — better people, the older we get the more patient, the less prone to anger. So if we're more accepting of the tests Allah gives, and we pray that Allah eases other, bigger matters after this — that's why it's called a test, because we have to go through it. We can't be angry at people, our hearts can't become unsettled, we can't hold grudges against people. So if you go through it, and it increasingly reminds us of Allah and of loyal friends, then after we get through that test, we're better prepared for something better. That's actually how I see life, which, unfortunately, not many politicians think that way — so I'm disliked by some politicians, precisely because my perspective on life is very different from most people's.
 
 So I'm actually okay. In fact, I feel my family, my wife, everyone has been through all this. We never discuss politics at home. My home routine is simple — get home, I try to skip dinner. Actually I get home late, they've already finished dinner. But say I do manage to have dinner with them, we'll chat about the cat, chat about our child's school band, then we'll watch YouTube together, laugh at YouTube videos, then discuss TV shows — that's it, never about politics at all. So I feel my family, especially my wife, is already used to going through all this. We're also older now, in our 50s, my wife is also over 50. So if all this becomes an even bigger test — right now there are up to 2-3 cases that they're very determined about — say it drags on all the way to court, back and forth in court, I've been through it before. If it drags on to the point I go to prison, then so be it. Because you need to have the faith that if we are in the right — and it's true, on this one accusation they're making, there's not even an iota of truth to it, eating money or whatever — you must rest and hand everything over to Allah, because ultimately those busy pressuring me don't realize that they are in the business of winning the hearts and minds of the people in their constituencies. And the power to open and close the hearts of the people isn't a human power, it's Allah's power. So if your faith in that is very strong — and in my case, even though I often joke about Martin Luther King who eventually got shot — but among the speeches we truly believed in before, it inspired me, "the arc of the universe is long, but it curves towards justice" — that's Martin Luther King's words. It's true, life is hard, difficult, winding, but if we haven't done anything wrong, it's just that the powers that be don't like hearing what we say and we become an annoyance to them, well, our lives will indeed be made difficult — but in the end I think you will be proven right. And in politics, for every action there is a consequence. So while their pressuring actions are making my life difficult, actually the consequence applies to both sides — there's a consequence for me, and there's a consequence for them too.
 
-**Host:** But it's strange too, because I just noticed, on April 9th, Wednesday, Fahmi said action against you wasn't discussed.
+**Haziq:** But it's strange too, because I just noticed, on April 9th, Wednesday, Fahmi said action against you wasn't discussed.
 
-**Rafizi Ramli:** This is the Madani era and PKR — say one thing in front, do another behind. If he says it wasn't discussed, that means suddenly tomorrow there's a sacking, out of nowhere. So I think I've gone through it, sometimes we have to read between the lines — sometimes we ourselves don't know the real intent. Someone with power can do whatever they want, so we shouldn't be surprised if they want to do that. Likewise, there shouldn't be a by-election, but this is the Madani era. Since 2018 until now, we've seen all sorts of things — nothing is surprising anymore in Malaysia if all this is heading toward ensuring there's a by-election, even though there shouldn't be one, with the intention and hope of "let's finish this guy once and for all."
+**Rafizi:** This is the Madani era and PKR — say one thing in front, do another behind. If he says it wasn't discussed, that means suddenly tomorrow there's a sacking, out of nowhere. So I think I've gone through it, sometimes we have to read between the lines — sometimes we ourselves don't know the real intent. Someone with power can do whatever they want, so we shouldn't be surprised if they want to do that. Likewise, there shouldn't be a by-election, but this is the Madani era. Since 2018 until now, we've seen all sorts of things — nothing is surprising anymore in Malaysia if all this is heading toward ensuring there's a by-election, even though there shouldn't be one, with the intention and hope of "let's finish this guy once and for all."
 
-**Host:** YB doesn't rule out other possibilities to finish YB off? Maybe reporting to the MACC, or prison?
+**Haziq:** YB doesn't rule out other possibilities to finish YB off? Maybe reporting to the MACC, or prison?
 
-**Rafizi Ramli:** Well, it's like there has to be a starter, there has to be a main course, there has to be a dessert. Maybe this is their starter, their main course might be that. Because you see, there are many parties unhappy with me — meaning, the Farhat and Rahman group is one, Dato' Seri Anwar himself is another, because he feels this year has caused him trouble, made people resent him, then there's the MACC, the authorities, and various others.
+**Rafizi:** Well, it's like there has to be a starter, there has to be a main course, there has to be a dessert. Maybe this is their starter, their main course might be that. Because you see, there are many parties unhappy with me — meaning, the Farhat and Rahman group is one, Dato' Seri Anwar himself is another, because he feels this year has caused him trouble, made people resent him, then there's the MACC, the authorities, and various others.
 
-**Host:** But it's like... isn't this about Zaki Farah — if you look back at '98, you...
+**Haziq:** But it's like... isn't this about Zaki Farah — if you look back at '98, you...
 
-**Rafizi Ramli:** ...also want to talk about Zaki Farah.
+**Rafizi:** ...also want to talk about Zaki Farah.
 
-**Host:** Like the year '98.
+**Haziq:** Like the year '98.
 
-**Rafizi Ramli:** Well, going back to what I said yesterday — I mean last week — I don't think we should decide whether what's happening is kifarah or not.
+**Rafizi:** Well, going back to what I said yesterday — I mean last week — I don't think we should decide whether what's happening is kifarah or not.
 
-**Host:** No, no, I'm not saying it's kifarah, but like people could...
+**Haziq:** No, no, I'm not saying it's kifarah, but like people could...
 
-**Rafizi Ramli:** What? It's the—
+**Rafizi:** What? It's the—
 
-**Host:** —the same. Well—
+**Haziq:** —the same. Well—
 
-**Rafizi Ramli:** That's not kifarah.
+**Rafizi:** That's not kifarah.
 
-**Host:** Oh, sorry.
+**Haziq:** Oh, sorry.
 
-**Rafizi Ramli:** Okay, see, don't go around saying things you don't know about. No, no, I think this whole concept of kifarah is actually for us to reflect on ourselves — it's part of our protection from our own desires. I think, but life is a circle, it will go round and round and round. That's why people always say history repeats itself — because fundamentally humans have their instincts, their desires, and people from different eras, when they have power, they are bound to do the same thing over and over again. Same thing here. In that context, we need to hold on to the belief that "the arc of the universe is long but it bends towards justice." I think once you have that, actually life is fairly happy, you know. But you need, you have to be tough to believe all that.
+**Rafizi:** Okay, see, don't go around saying things you don't know about. No, no, I think this whole concept of kifarah is actually for us to reflect on ourselves — it's part of our protection from our own desires. I think, but life is a circle, it will go round and round and round. That's why people always say history repeats itself — because fundamentally humans have their instincts, their desires, and people from different eras, when they have power, they are bound to do the same thing over and over again. Same thing here. In that context, we need to hold on to the belief that "the arc of the universe is long but it bends towards justice." I think once you have that, actually life is fairly happy, you know. But you need, you have to be tough to believe all that.
 
-**Host:** That's it, it's not that easy — YB has proven it, but for the rest of us, let's go to that demo of 25 thousand, let's all go down together, that will help toughen us up a bit more. Whoever makes a placard or whatever, the nicest sign, YB will take a photo with them.
+**Haziq:** That's it, it's not that easy — YB has proven it, but for the rest of us, let's go to that demo of 25 thousand, let's all go down together, that will help toughen us up a bit more. Whoever makes a placard or whatever, the nicest sign, YB will take a photo with them.
 
-**Rafizi Ramli:** I'm not promising that.
+**Rafizi:** I'm not promising that.
 
-**Host:** This is a promo that keeps on going.
+**Haziq:** This is a promo that keeps on going.
 
-**Rafizi Ramli:** Beauty is in the eyes of the beholder. Okay, alright, 2 hours 40 minutes, not even 3 hours. I'm quite worried, I'll get scolded later. Okay, that's it from me. So let's meet next week — next week, remember, the Papa Gomo story.
+**Rafizi:** Beauty is in the eyes of the beholder. Okay, alright, 2 hours 40 minutes, not even 3 hours. I'm quite worried, I'll get scolded later. Okay, that's it from me. So let's meet next week — next week, remember, the Papa Gomo story.
 
-**Host:** Papa Gomo. Can't wait, I won't be able to sleep waiting for this coming one.
+**Haziq:** Papa Gomo. Can't wait, I won't be able to sleep waiting for this coming one.
 
-**Rafizi Ramli:** Really, there is something. There's something I feel Papa Gomo should know, and Malaysians should know — going round and round, it also relates to the matter of corporate mafia. Not that Papa Gomo is connected to corporate mafia, I mean those stories — that face, this face, that face too.
+**Rafizi:** Really, there is something. There's something I feel Papa Gomo should know, and Malaysians should know — going round and round, it also relates to the matter of corporate mafia. Not that Papa Gomo is connected to corporate mafia, I mean those stories — that face, this face, that face too.
 
-**Host:** Okay, okay, let's turn in. Good night, thank you YB — it's almost Raya again, happy Hari Raya. And we'll be there on the 25th of the month, see you at Dataran Merdeka. Good night, Assalamualaikum.
+**Haziq:** Okay, okay, let's turn in. Good night, thank you YB — it's almost Raya again, happy Hari Raya. And we'll be there on the 25th of the month, see you at Dataran Merdeka. Good night, Assalamualaikum.

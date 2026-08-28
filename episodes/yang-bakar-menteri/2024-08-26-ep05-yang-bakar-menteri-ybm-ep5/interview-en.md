@@ -9,8 +9,8 @@ duration: 1h 31m
 view_count: 32289
 hosts:
 - Rafizi
-- Ibrahim Sani
 guests:
+- Ibrahim Sani
 - Azlan Awang
 topics:
 - Putera35 (Bumiputera Economic Transformation Plan 2035)
@@ -23,14 +23,14 @@ topics:
 - Waqf and community endowments
 - Progressive Wage Policy
 - Living wage vs. minimum wage
-summary: In this episode of "Podcast Yang Bakar Menteri," host Rafizi and MTEM
-  Senior Fellow Azlan Awang discuss the Pelan Transformasi Ekonomi Bumiputera 2035
-  (Putera35). The conversation covers critical economic targets such as wage parity
-  ratios, the Bumiputera contribution to GDP, and structural reforms needed in government
-  procurement and contract management. They also explore the challenges of transitioning
-  professionals into entrepreneurship, the importance of granular data sharing between
-  government agencies like SSM and DOSM, and the cultural necessity of building community
-  endowments and a sustainable economic ecosystem for the middle class.
+summary: In this episode of "Podcast Yang Bakar Menteri," host Rafizi and MTEM Senior
+  Fellow Azlan Awang discuss the Pelan Transformasi Ekonomi Bumiputera 2035 (Putera35).
+  The conversation covers critical economic targets such as wage parity ratios, the
+  Bumiputera contribution to GDP, and structural reforms needed in government procurement
+  and contract management. They also explore the challenges of transitioning professionals
+  into entrepreneurship, the importance of granular data sharing between government
+  agencies like SSM and DOSM, and the cultural necessity of building community endowments
+  and a sustainable economic ecosystem for the middle class.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).

@@ -8,11 +8,10 @@ duration_seconds: 11922
 duration: 3h 18m
 view_count: 89200
 hosts:
-- Rafizi Ramli
+- Rafizi
+- Haziq
 guests:
-- Joe (Samdek Joe)
-- Aziz
-- Host (unnamed presenter)
+- Sum Dek Joe
 topics:
 - Introduction of guest Joe and his career background
 - Reasons for Joe leaving international career to volunteer with Bersama
@@ -415,7 +414,7 @@ So if that culture, two or three years from now, has genuinely become accepted i
 
 **Rafizi:** So —
 
-**Rafizi:** A shadow candidate means they're not confirmed yet and can be changed. They've all signed bonds and everything. But, building on what Aziz said earlier, if suddenly they get called into question — for example, if two weeks from now it comes out in a massive scandal that they're actually Malaysia's biggest scammer — then we'd need to withdraw that nomination. We're doing everything we can to vet all the candidates. So as long as they haven't become the official candidate yet, they remain a shadow candidate — just like a shadow cabinet.
+**Rafizi:** A shadow candidate means they're not confirmed yet and can be changed. They've all signed bonds and everything. But, building on what Haziq said earlier, if suddenly they get called into question — for example, if two weeks from now it comes out in a massive scandal that they're actually Malaysia's biggest scammer — then we'd need to withdraw that nomination. We're doing everything we can to vet all the candidates. So as long as they haven't become the official candidate yet, they remain a shadow candidate — just like a shadow cabinet.
 
 **Haziq:** Alright, alright. Let's vote. Kak Jo, you need to pick —
 
@@ -481,7 +480,7 @@ So this whole process — even to abolish AUKU, it must be brought to cabinet, b
 
 **Rafizi:** Well, in principle, if the Minister of Higher Education doesn't want to agree, there are two options. One, the Minister of Higher Education resigns — because if this is the government's position and he doesn't want to carry it out, then you are no longer aligned with the Prime Minister, so you resign because you no longer have the mandate from the Prime Minister. The second option is the Prime Minister removes him and replaces him with someone new. Actually that is the basic concept — for example, when that situation arises, everyone knows what happened in the PKR election largely stemmed from Dato' Seri Anwar's own views; he was the one who allowed that election process to happen. Meaning, if I've lost the confidence of the Prime Minister, then I have no business being there, because if the Prime Minister no longer has confidence in whatever I want to do, then whatever my ministry wants to do will be difficult anyway — similarly, it works both ways. If the PM has already said we're going to do one, two, three, he's already announced it publicly, and the Ministry of Higher Education and the minister don't want to, then you'd better resign, or be replaced with another minister. But that's one perspective.
 
-The other thing — and I think this answers Aziz's earlier question — is that abolishing AUKU alone doesn't guarantee that young voters will support PH. We can't confirm what Dato' Seri Anwar's actual intention was in suddenly wanting to abolish AUKU. We can speculate, we can comment — there's a good chance this is seen as one piece of evidence that reform is progressing, since the main criticism, especially from PH supporters, is that this government has neglected reform, so — abolish AUKU.
+The other thing — and I think this answers Haziq's earlier question — is that abolishing AUKU alone doesn't guarantee that young voters will support PH. We can't confirm what Dato' Seri Anwar's actual intention was in suddenly wanting to abolish AUKU. We can speculate, we can comment — there's a good chance this is seen as one piece of evidence that reform is progressing, since the main criticism, especially from PH supporters, is that this government has neglected reform, so — abolish AUKU.
 
 I agree — I don't know who this analyst originally was — I agree that actually, for most ordinary voters, let alone young voters, AUKU isn't really an issue. The real issue surrounding AUKU is actually a nation-building issue that is not populist at all. The AUKU issue that we should be discussing is actually: what impact has AUKU had on the country up until now, and what is the ideal that should exist in the country if we want to ensure our society excels, our economy grows, and so on. As for the hope that this will succeed in attracting the youth vote — I don't think many young people even understand what impact AUKU actually has. Because if we're talking about AUKU banning involvement in politics — that's not even true; AUKU was amended in 2019, and university students can indeed join political parties, no problem there. I don't think they see AUKU as a daily factor influencing their decisions.
 
@@ -507,7 +506,7 @@ The other side, equally important, is financial affordability from the students'
 
 Coming back to the topic of universities — many watching this are probably from a university background, and I think there hasn't been enough public discourse that really examines the structure or model that we have. Let's take the example of the model we have — we have two streams, one public universities, one private universities. So everything related to AUKU actually stems from the fact that only the government has the ability to establish universities for the public. There are many private universities too, and now it's getting better, people are actually taking loans or self-funding through PTPTN. But mostly, it's public universities — we have around 20 public universities, plus UIA, which isn't officially counted as a public university. Another is UPNM, another is UiTM. UPNM, UiTM, UIA — they don't use AUKU. So, all in all, roughly 23 public universities.
 
-**Sum Dek Jo:** Well, that's actually quite debatable if you say they don't use AUKU, Aziz. Those three universities — actually four. UIA was established as a company. UiTM has its own act, the ITM Act, I think from 1976 or so. Then UPNM, and one more, Universiti Malaya—
+**Sum Dek Jo:** Well, that's actually quite debatable if you say they don't use AUKU, Haziq. Those three universities — actually four. UIA was established as a company. UiTM has its own act, the ITM Act, I think from 1976 or so. Then UPNM, and one more, Universiti Malaya—
 
 **Haziq:** UM has its own act.
 
@@ -573,7 +572,7 @@ The board right now is chosen — what, the VC is chosen by the minister. Even t
 
 **Haziq:** Back when I was at UM, there was someone who came to lobby me to put forward his name as DVC.
 
-**Rafizi:** So, meaning, people came looking to lobby you? Wow, impressive, quite the influential figure, Aziz — because back then you were president of the student union. Everyone, laugh at Aziz, you know, Aziz used to be president of the student union, you know. I mean, that's what happened, it got to that point.
+**Rafizi:** So, meaning, people came looking to lobby you? Wow, impressive, quite the influential figure, Haziq — because back then you were president of the student union. Everyone, laugh at Haziq, you know, Haziq used to be president of the student union, you know. I mean, that's what happened, it got to that point.
 
 So, there's no one-size-fits-all here. It's just that, if we look at the model — okay, let's cut this — if we look at countries whose universities appear better than ours, there are two or three types of countries. One, Western countries, including Australia, the US, Europe, all of them. Two, China — its model is different, but its universities' outcomes are through the roof. Another, Korea and Japan, which are actually closer to the Western country model.
 
@@ -585,7 +584,7 @@ So if we look at the model in Europe, in the US, in Australia, in Japan, in Sout
 
 It's the board that determines the direction of the university, and the board is concerned about sustainability, quality, all of that. Then, there are several ways — either through a nomination committee or a search committee that looks for the vice-chancellor. It can be opened up publicly. The vice-chancellor, sometimes, in other countries, can be a citizen of another country, an academic from another country — that's common, it's a normal thing. It's not like, "I must be a Universiti Malaya alumnus to become UM's VC" — it's open to the whole world, anyone can apply. It's just that our people's problem is, say there's a Finnish person becoming Vice Chancellor of UM — oh, there'd be an uproar, "Islam is under threat," "aren't there any Malaysians," "Islam is under threat," all of that. But in the academic world, it's not like that — it's actually open. That's their autonomy.
 
-Then, when you get the selection process right, and we get the best people to lead the university, from VC to NC, DVC and all — at least that's on the right track. So to answer Aziz's earlier question — how do we solve this job market mismatch — there's another body at the university, the senate. This senate is actually a management committee. The board is the topmost body, then there's the senate, the management committee. This senate consists of representatives from each faculty — the deans who sit on the senate — handling matters of quality, syllabus, and so on.
+Then, when you get the selection process right, and we get the best people to lead the university, from VC to NC, DVC and all — at least that's on the right track. So to answer Haziq's earlier question — how do we solve this job market mismatch — there's another body at the university, the senate. This senate is actually a management committee. The board is the topmost body, then there's the senate, the management committee. This senate consists of representatives from each faculty — the deans who sit on the senate — handling matters of quality, syllabus, and so on.
 
 So in principle, we should be able to manage this mismatch issue if the flow is seamless from the board to the senate for management. Because the board would know, for example, our funding is only this much, okay, this is our outcome externally. And there are industry representatives, luminaries there — this is where the future is going, we need to start on this. And that's what, from the board's decisions, gets translated by the VC and also the senate. It's just that give and take needs to happen — because in the senate, for example, if there's a faculty where a course is no longer getting interest, or is actually already quite outdated, some courses have to be phased out. And if, from the board and senate, you say, "We actually need to double or triple the intake for this," and we want to translate this into more lecture rooms, more labs, more intakes — instead of 300 per intake, maybe you need to start taking 700, 800 — all of this is within academic capability to do. It's not rocket science.
 

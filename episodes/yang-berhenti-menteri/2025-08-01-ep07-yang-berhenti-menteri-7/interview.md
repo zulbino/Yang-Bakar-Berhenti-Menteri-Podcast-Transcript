@@ -9,6 +9,7 @@ duration: 2h 7m
 view_count: 50324
 hosts:
 - Rafizi
+- Haziq
 guests:
 - Daniel Jani
 topics:
@@ -337,7 +338,7 @@ Inilah saya, ikan bilis ini, yang menjadi ketakutan orang dengan parti kita seka
 
 **Danial:** Masalah parti sekarang — macam tadi tu — adakah ia beyond repair, atau masih ada cara untuk kita kembali ke pangkal jalan?
 
-**Rafizi:** Kalau menurut saya, ya, boleh. Tapi orang yang tolong buka pintu ini, dan orang yang nak masuk melaluinya, terlalu ramai berbanding orang yang nak menutupnya. Contohnya, macam saya, kepimpinan di peringkat negeri, dan YB sendiri di peringkat tertinggi — kalau setakat saya sahaja, patutnya ada lagi dua-tiga orang lain, kalau tidak, tak cukup kekuatan untuk buat begitu. Walaupun sebahagian daripada tim YB sendiri di peringkat atas — contohnya macam Akmal, MB9, atau Roziah — semua ini, tapi tak cukup.
+**Rafizi:** Kalau menurut saya, ya, boleh. Tapi orang yang tolong buka pintu ini, dan orang yang nak masuk melaluinya, terlalu ramai berbanding orang yang nak menutupnya. Contohnya, macam saya, kepimpinan di peringkat negeri, dan YB sendiri di peringkat tertinggi — kalau setakat saya sahaja, patutnya ada lagi dua-tiga orang lain, kalau tidak, tak cukup kekuatan untuk buat begitu. Walaupun sebahagian daripada tim YB sendiri di peringkat atas — contohnya macam Akmal, MB9, atau Rodziah — semua ini, tapi tak cukup.
 
 Sebab benda ini boleh diseimbangkan pada waktu YB sendiri menjadi timbalan presiden. Tapi bila dah tak jadi timbalan — macam mana kita nak baiki? Kita tak boleh baiki. Mereka sekarang masuk — dulu bukan 50-50 atau 40-60 kerana YB Rafizi, sekarang 95 daripada mereka boleh masuk. Dulu 40-60, sekarang 95-5. Itu yang sebenarnya bertanggungjawab. Kalau saya boleh sambung apa yang Danial pernah kata — kumpulan pengundi yang menyokong suara progresif itu masih ada, sekurang-kurangnya 30% pada satu-satu masa. Sebab itu kalau kita lihat balik pada tahun 1960-an, Parti Rakyat, Barisan Sosialis, Barisan Buruh — mereka tetap menang walau apa pun berlaku, sebab kumpulan ini akan sentiasa ada.
 

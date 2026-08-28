@@ -9,9 +9,9 @@ duration_seconds: 9667
 duration: 2h 41m
 view_count: 151282
 hosts:
-- Rafizi Ramli
-guests:
+- Rafizi
 - Haziq
+guests: []
 topics:
 - Politik dalaman PKR dan isu calon (CEPLOS)
 - Penghinaan terhadap Dr. Noor Aisyah oleh ketua cabang PKR
@@ -52,7 +52,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Rafizi Ramli:** Dari segi sumbangan kepada parti, dari segi kedudukan dia dengan rakyat, dan juga latar belakang dia — semua itu jadi faktor pertimbangan. Saya sendiri pernah memainkan peranan ini dulu, sebab saya salah seorang yang ditugaskan untuk menelefon ketua-ketua cabang bagi memohon maaf apabila mereka tidak dijadikan calon. Jadi saya faham benar soal-soal watikah begini. Saya terpaksa dengar rungutan ketua cabang itu, dan ada kes-kes di mana calon yang dipilih tidak rapat dengan cabang tersebut walaupun cabang itu kuat dan aktif macam mana sekalipun.
+**Rafizi:** Dari segi sumbangan kepada parti, dari segi kedudukan dia dengan rakyat, dan juga latar belakang dia — semua itu jadi faktor pertimbangan. Saya sendiri pernah memainkan peranan ini dulu, sebab saya salah seorang yang ditugaskan untuk menelefon ketua-ketua cabang bagi memohon maaf apabila mereka tidak dijadikan calon. Jadi saya faham benar soal-soal watikah begini. Saya terpaksa dengar rungutan ketua cabang itu, dan ada kes-kes di mana calon yang dipilih tidak rapat dengan cabang tersebut walaupun cabang itu kuat dan aktif macam mana sekalipun.
 
 Ini semua berkait dengan isu calon. Sebab bila cerita CEPLOS keluar tentang Dato' Seri Anwar sanggup "pegang lutut" YB [merayu], ramai tidak percaya — kenapa pula Presiden yang mengeluarkan watikah perlu merayu kepada YB? Tapi kempen pilihan raya itu jentera yang bergerak seluruh negara, dan Dato' Seri Anwar sendiri pada masa itu sedar, berdasarkan rekod PRU 2018, bahawa saya ada peranan tertentu. Saya ingat ketika itu dia tahu saya memang lantang kalau saya tidak bersetuju dan akan menyuarakan pandangan secara terbuka. Masalahnya, bila media bertanya, saya tak pandai berselindung — saya memang tak pandai berbohong. Kalau ditanya setuju atau tidak, saya akan jawab tidak setuju. Itu sebabnya dia sangat berharap saya tidak bersuara terbuka ketika itu, kerana dia tahu pandangan saya terhadap beberapa perkara yang saya bangkitkan memang menunjukkan saya tidak bersetuju. Jadi kebimbangan dia ialah, jika saya menyatakan ketidaksetujuan itu secara terbuka semasa PRU, ia akan menjejaskan keseluruhan kempen PKR ketika itu. Itulah ceritanya.
 
@@ -80,13 +80,13 @@ Satu perkara yang sampai sekarang belum kita dengar apa-apa pandangan baik darip
 
 **Haziq:** Singapura ada kan? Tapi saya tak rasa kita ada.
 
-**Rafizi Ramli:** Kita tak ada. Setakat yang saya tahu, kita hanya ada kanun keseksaan, iaitu Kanun Kesiksaan. Dan Kanun Kesiksaan itu hanya akan mengena kepada "ikan bilis" di bawah — contohnya, kalau bunuh orang, mengedar dadah, atau mengamuk mencederakan orang, memang polis boleh dakwa di bawah Kanun Kesiksaan. Tapi di negara-negara lain — contoh yang baik ialah Amerika Syarikat — mereka ada undang-undang antijenayah terancang yang khusus. Undang-undang begitu cukup untuk membuktikan bahawa ketua-ketua mafia di atas mempunyai pengaruh dan memberi arahan. Jadi walaupun yang buat kerja "kotor" itu semua "macai" mereka, mencuci duit macam mana pun, kalau ada bukti mereka bertindak atas arahan ketua mafia di atas — tak kisahlah ketua mafia itu Tan Sri ke, Datuk Seri ke — dia boleh ditangkap dan didakwa di bawah undang-undang antijenayah terancang itu. Kita tak ada undang-undang macam ini. Jadi sudah sampai masanya kita berkempen secara serius untuk ini.
+**Rafizi:** Kita tak ada. Setakat yang saya tahu, kita hanya ada kanun keseksaan, iaitu Kanun Kesiksaan. Dan Kanun Kesiksaan itu hanya akan mengena kepada "ikan bilis" di bawah — contohnya, kalau bunuh orang, mengedar dadah, atau mengamuk mencederakan orang, memang polis boleh dakwa di bawah Kanun Kesiksaan. Tapi di negara-negara lain — contoh yang baik ialah Amerika Syarikat — mereka ada undang-undang antijenayah terancang yang khusus. Undang-undang begitu cukup untuk membuktikan bahawa ketua-ketua mafia di atas mempunyai pengaruh dan memberi arahan. Jadi walaupun yang buat kerja "kotor" itu semua "macai" mereka, mencuci duit macam mana pun, kalau ada bukti mereka bertindak atas arahan ketua mafia di atas — tak kisahlah ketua mafia itu Tan Sri ke, Datuk Seri ke — dia boleh ditangkap dan didakwa di bawah undang-undang antijenayah terancang itu. Kita tak ada undang-undang macam ini. Jadi sudah sampai masanya kita berkempen secara serius untuk ini.
 
 Bagi saya, satu kebimbangan sejak saya jadi menteri ialah saya tak pasti keadaan sebenar kongsi gelap di Malaysia, ditambah pula dengan isu mafia korporat sekarang. Ini bahaya, kerana kalau masyarakat kita, atau mereka yang diberi amanah, boleh dibeli dengan wang — dan wang itu banyak datang daripada kegiatan jenayah dan kongsi gelap — kita sebagai masyarakat perlu menumpukan usaha untuk mengadakan undang-undang antijenayah terancang di Malaysia. Kalau kita nak menyekat permintaan, adakah itu mungkin? Maksudnya, tak ada permintaan, tak adalah penawaran...
 
 **Haziq:** ...permintaan bagi apa? Gangster?
 
-**Rafizi Ramli:** Permintaan bagi apa? Bagi gangster? Permintaan... macam kita pernah bincang sebelum ini, ahli politik yang... maksud permintaan minta duit? Sebenarnya bukan sesenang itu. Saya tak nampak benda ini sebagai permintaan dan penawaran semata-mata — bukan salah ahli politik semata-mata sebab ada yang minta duit. Sebenarnya jenayah ini wujud bila ada peluang untuk buat duit. Kalau kita tengok di negara-negara seperti Jepun, Yakuza contohnya — mereka sangat keras budaya mereka pasal soal mengambil duit rasuah, tapi kongsi gelap tetap ada, kerana jenayah itu, dan sekarang lagi rumit — merentas sempadan, sindiket antarabangsa.
+**Rafizi:** Permintaan bagi apa? Bagi gangster? Permintaan... macam kita pernah bincang sebelum ini, ahli politik yang... maksud permintaan minta duit? Sebenarnya bukan sesenang itu. Saya tak nampak benda ini sebagai permintaan dan penawaran semata-mata — bukan salah ahli politik semata-mata sebab ada yang minta duit. Sebenarnya jenayah ini wujud bila ada peluang untuk buat duit. Kalau kita tengok di negara-negara seperti Jepun, Yakuza contohnya — mereka sangat keras budaya mereka pasal soal mengambil duit rasuah, tapi kongsi gelap tetap ada, kerana jenayah itu, dan sekarang lagi rumit — merentas sempadan, sindiket antarabangsa.
 
 Saya pernah bertanya soalan di Parlimen — rampasan dadah yang diumumkan secara besar-besaran itu, sebenarnya sudah dikenal pasti belum siapa ketua di atas? PDRM dan KDN tak boleh jawab. Membimbangkan. Jadi saya rasa besar kemungkinan ada kelompongan undang-undang di mana yang kena tangkap ialah budak-budak kampung atau budak bandar miskin sahaja — mereka yang senang direkrut kerana keadaan hidup mereka. Tapi yang di atas, yang menjadi dalang, tidak kena apa-apa. Jadi wajarlah kita mula melihat kepada satu bentuk undang-undang yang memudahkan kita mendakwa ketua-ketua di atas ini, supaya kalau mereka ditangkap, susahlah untuk mereka mencuci duit, merasuah, atau membeli ahli politik dan pegawai kanan kerajaan seperti yang berlaku sekarang.
 
@@ -94,7 +94,7 @@ Jadi awak nak perkenalkan sesuatu macam Akta RICO? Saya sebenarnya selalu tengok
 
 **Haziq:** RICO — *Racketeer Influenced and Corrupt Organizations Act*.
 
-**Rafizi Ramli:** Itulah akta antijenayah terancang punya akta. Di Amerika Syarikat dikenali sebagai Akta RICO. Pada tahun 80-an, dunia gelap dan mafia sangat besar. Jadi polis, FBI, buat macam-macam — selalunya mereka akan menyamar atau menyadap perbualan. Dan kadang-kadang bila mereka menyadap perbualan itu, ia mengambil masa bertahun-tahun, sebab mafia ini cerdik — bila bercakap, mereka cerita pasal ikan, tak pernah cerita pasal arahan sebenar. Jadi mereka kena tunggu bertahun-tahun sehingga terkeluar arahan sebenar, baru boleh kena terus. Dan mereka tak perlu lagi buktikan si fulan buat dadah ini-itu — kalau ada bukti arahan itu datang daripada ketua mafia, memang boleh kena.
+**Rafizi:** Itulah akta antijenayah terancang punya akta. Di Amerika Syarikat dikenali sebagai Akta RICO. Pada tahun 80-an, dunia gelap dan mafia sangat besar. Jadi polis, FBI, buat macam-macam — selalunya mereka akan menyamar atau menyadap perbualan. Dan kadang-kadang bila mereka menyadap perbualan itu, ia mengambil masa bertahun-tahun, sebab mafia ini cerdik — bila bercakap, mereka cerita pasal ikan, tak pernah cerita pasal arahan sebenar. Jadi mereka kena tunggu bertahun-tahun sehingga terkeluar arahan sebenar, baru boleh kena terus. Dan mereka tak perlu lagi buktikan si fulan buat dadah ini-itu — kalau ada bukti arahan itu datang daripada ketua mafia, memang boleh kena.
 
 Jadi, sama-samalah kita berkempen. Malam ini saya umumkan pemenang "Beria" ialah saya sendiri. Belum habis lagi — ada satu lagi. KSN dan pegawai kerajaan yang tak faham konsep Madani. Ini laporan berita tentang Jelajah Taat Setia Madani peringkat negeri Selangor — masih ramai pegawai kerajaan dikatakan tak faham konsep Madani. Dahlah kena pergi majlis taat setia, lepas tu kena marah pula sebab dianggap tak setia.
 
@@ -106,7 +106,7 @@ Kita ingat perkara itu sudah berakhir, tiba-tiba sekarang muncul pula Jelajah Ta
 
 **Haziq:** Nampaknya tidak, Cik — Haziq dah letak jawatan, jadi tak apalah.
 
-**Rafizi Ramli:** Oh, dia dah letak jawatan. Patutlah berani. Jadi awak tak sempatlah pergi Jelajah Taat Setia Madani ini — bukan penjawat awam sekarang. Tapi saya sendiri ada pengalaman dengan penjawat awam yang depan cakap lain, belakang cakap lain — cukup, cukup, simpan dulu cerita itu.
+**Rafizi:** Oh, dia dah letak jawatan. Patutlah berani. Jadi awak tak sempatlah pergi Jelajah Taat Setia Madani ini — bukan penjawat awam sekarang. Tapi saya sendiri ada pengalaman dengan penjawat awam yang depan cakap lain, belakang cakap lain — cukup, cukup, simpan dulu cerita itu.
 
 Okey, segmen penarafan "Beria" — hari ini saya nak mencalonkan diri sendiri sebagai pemenang. Saya jarang berbalik pendirian, tapi hari ini istimewa sikit, mungkin sebab episod ke-43, jadi saya kenalah angkat diri sedikit. Pemenang "Beria" minggu ini ialah saya sendiri, sebab cerita mafia tadi — saya betul-betul tak puas hati. Macam mana benda ini boleh berlaku? Katakan saya duduk bersebelahan dengan isteri saya di situ, sambung makan, atau berjalan-jalan dengan isteri — bayangkan traumanya, di depan mata, berpuluh-puluh orang datang membawa kayu besbol.
 
@@ -120,7 +120,7 @@ Kenapa ada gambar budak-budak MCKK di belakang beliau semasa ucapan itu? Sebab u
 
 **Haziq:** Saya tak berapa yakin sangat gambar itu asli atau tidak.
 
-**Rafizi Ramli:** Gambar itu memang sebenar — saya rasa memang latar sebenar di situ, bukan gambar AI. Cuma ada video TikTok yang nakal, di mana netizen ambil video Dato' Seri Anwar memanggil orang bebal dan buta huruf, kemudian dipotong kepada gambar budak-budak sekolah, seolah-olah dengan budak sekolah pun beliau bercakap macam itu.
+**Rafizi:** Gambar itu memang sebenar — saya rasa memang latar sebenar di situ, bukan gambar AI. Cuma ada video TikTok yang nakal, di mana netizen ambil video Dato' Seri Anwar memanggil orang bebal dan buta huruf, kemudian dipotong kepada gambar budak-budak sekolah, seolah-olah dengan budak sekolah pun beliau bercakap macam itu.
 
 Jadi, berbalik kepada isu ini — memang kita boleh bersetuju yang beliau stres. Tapi ini bukan soal nak beri Panadol atau tidak. Perkara sebenarnya ialah isu dasar dan sistem negara dalam menetapkan harga minyak — petrol dan diesel — dan kalau nak dibesarkan lagi, seluruh sistem pengurusan tenaga di Malaysia, termasuk elektrik dan gas. Ini adalah persoalan negara yang akan terus menjadi "asteroid" besar kepada kita, dan kepada mana-mana kerajaan yang datang selepas ini — sama ada Tan Sri Hadi Awang jadi Menteri Ekonomi, atau Hamzah Zainuddin, atau Dr. Samsuri sekalipun — masalah ini tidak akan hilang. Jadi sangat penting rakyat Malaysia memahami keadaan sebenar.
 
@@ -152,7 +152,7 @@ Ambil contoh tahun 1990 — pengeluaran kita ketika itu sekitar 30,629 KTOE. Kal
 
 **Haziq:** 7,333.
 
-**Rafizi Ramli:** Tiga-tiga, okey. Bahagi 365... dapat 764,000 tong sehari. Itulah puncaknya pada tahun 2004, dan ia kekal berhampiran angka itu sehingga 2008. Itu ada konotasinya sendiri — sebab itulah semasa 2005 hingga 2008, orang selalu ulang video perbahasan atau debat antara Dato' Seri Anwar dengan Dato' Seri Ismail Sabri yang mengatakan "menang hari ini, esok turun harga minyak." Perlu diingat, pada tahun 2008 itu, pengeluaran kita sekitar 34,195 KTOE, iaitu sekitar 686,000 tong sehari, dan ketika itu pengeluaran kita melebihi penggunaan petrol dan diesel — penggunaan ketika itu saya ingat tidak sampai 400,000 tong sehari, malah lebih rendah, sekitar 300 ribu sekian sahaja. Jadi ada lebihan besar — pengeluaran kita hampir dua kali ganda penggunaan pada masa itu.
+**Rafizi:** Tiga-tiga, okey. Bahagi 365... dapat 764,000 tong sehari. Itulah puncaknya pada tahun 2004, dan ia kekal berhampiran angka itu sehingga 2008. Itu ada konotasinya sendiri — sebab itulah semasa 2005 hingga 2008, orang selalu ulang video perbahasan atau debat antara Dato' Seri Anwar dengan Dato' Seri Ismail Sabri yang mengatakan "menang hari ini, esok turun harga minyak." Perlu diingat, pada tahun 2008 itu, pengeluaran kita sekitar 34,195 KTOE, iaitu sekitar 686,000 tong sehari, dan ketika itu pengeluaran kita melebihi penggunaan petrol dan diesel — penggunaan ketika itu saya ingat tidak sampai 400,000 tong sehari, malah lebih rendah, sekitar 300 ribu sekian sahaja. Jadi ada lebihan besar — pengeluaran kita hampir dua kali ganda penggunaan pada masa itu.
 
 Tapi mulai 2010, ia mula menurun. Ambil tahun 2011 — 28,325 KTOE, dikalikan 7,333 dan dibahagi 365, dapat sekitar 569,000 tong sehari. Pada 2021, ia tinggal 25,389 KTOE — bersamaan sekitar 510,000 tong sehari. Sekarang, pengeluaran negara untuk minyak mentah yang boleh digunakan loji-loji penapisan — sama ada di Kertih, Pengerang, atau Sungai Udang, Melaka — sekitar 340,000 tong sehari sahaja, iaitu kira-kira separuh, malah lebih daripada separuh berkurangan berbanding tahun 2008. Dalam tempoh 20 tahun, dari sekitar 690,000 tong, ia telah merudum kepada 340,000 tong.
 
@@ -168,11 +168,11 @@ Sebab itu, kerajaan mana sekalipun tidak dapat lari daripada "asteroid" ini. Jad
 
 **Haziq:** Jadi "asteroid" yang datang ini, nombor satu — kita terlalu bergantung kepada petrol dan diesel?
 
-**Rafizi Ramli:** Bukan.
+**Rafizi:** Bukan.
 
 **Haziq:** Terlalu bergantung, kita terlebih guna. Terlebih guna. Tapi ya, terlalu bergantung juga lah, sebab EV tak ada. Nak buat macam janji 20 tahun lepas pun sebenarnya tidak bertanggungjawab — sebab kalau anda turunkan harga, bermakna lebih ramai orang akan menggunakannya, dan penggunaan itu akan terus meningkat lebih jauh, akhirnya memperbesarkan lagi masalahnya.
 
-**Rafizi Ramli:** Begini ceritanya, ada beberapa perkara yang perlu difahami. Contohnya, seperti yang saya sebut tadi, pengeluaran minyak kita pada 2020–2021 lebih kurang 500 ribu tong sehari, dan dalam tempoh lima tahun ia tinggal 350,000 tong sehari. Itu bermakna penurunan hampir 35 hingga 40%. Maksudnya begini — sebahagian sebabnya ialah kerana pada ketika itu kita tidak memahami secara menyeluruh profil telaga-telaga minyak kita. Telaga minyak ini dalam tanah.
+**Rafizi:** Begini ceritanya, ada beberapa perkara yang perlu difahami. Contohnya, seperti yang saya sebut tadi, pengeluaran minyak kita pada 2020–2021 lebih kurang 500 ribu tong sehari, dan dalam tempoh lima tahun ia tinggal 350,000 tong sehari. Itu bermakna penurunan hampir 35 hingga 40%. Maksudnya begini — sebahagian sebabnya ialah kerana pada ketika itu kita tidak memahami secara menyeluruh profil telaga-telaga minyak kita. Telaga minyak ini dalam tanah.
 
 Saya pernah terlibat dalam pasukan yang membeli telaga minyak di Mauritania. Sebab itulah saya sampai duduk dua minggu di Mauritania — ya Allah, ikan setiap hari, hampir mati aku dibuatnya. Masa kita beli pada tahun 2007, pengeluaran telaga minyak itu ialah 80,000 tong sehari. Petronas buat penelitian wajar, beli daripada Woodside, sebuah syarikat Australia — 80,000 tong sehari. Dalam tempoh setahun saja, ia tinggal 20,000 tong. Sebabnya, semua yang kita fahami tentang minyak ini hanyalah membaca graf dan data seismik; apa yang sebenarnya ada di bawah tanah, kita tak tahu.
 
@@ -204,7 +204,7 @@ Sesiapa yang menjadi kerajaan, kalau bertanggungjawab, perlu tahu ada had berapa
 
 **Haziq:** Okey, Pa'an nak tanya — sebab kita ada separuh, itu baru separuh pasal minyak.
 
-**Rafizi Ramli:** Tak, tak, tak, saya tak nak kacau. Mungkin ke Sanusi pula, saya rasa? Tak, tak, tak, Sanusi ni baik lah berbanding Isyam Jalil, saya jawab sedikit.
+**Rafizi:** Tak, tak, tak, saya tak nak kacau. Mungkin ke Sanusi pula, saya rasa? Tak, tak, tak, Sanusi ni baik lah berbanding Isyam Jalil, saya jawab sedikit.
 
 Sebelum menjawab pasal Sanusi, kita kena faham dulu bagaimana mekanisme menetapkan harga minyak. Ada orang tanya, "dari mana datangnya harga ini, kenapa naik sampai RM6?" Isyam Jalil pula buat alasan — dia kata subsidi ini "atas kertas" saja. Untuk faham kenapa yang Isyam Jalil kata itu tahyul, dan untuk faham macam mana subsidi RM6 bilion sebulan ini sebenarnya keluar, kita kena faham APM.
 
@@ -214,11 +214,11 @@ Sebelum sampai ke situ, membantu kita memahami kenapa kerajaan menggunakan APM. 
 
 **Haziq:** Kos —
 
-**Rafizi Ramli:** — pengeluaran dia. Okey, kos pengeluaran. Katakanlah, mungkin susah Haziq nak faham kalau ditanya soal minyak. Katakanlah kau mengeluarkan satu produk baru — satu cecair yang kalau diminum, rambut kau terus lebat. Macam mana kau nak menetapkan harga cecair itu satu liter untuk dijual, sedangkan produk itu tak pernah wujud sebelum ini dan ini kali pertama kau menetapkan harganya?
+**Rafizi:** — pengeluaran dia. Okey, kos pengeluaran. Katakanlah, mungkin susah Haziq nak faham kalau ditanya soal minyak. Katakanlah kau mengeluarkan satu produk baru — satu cecair yang kalau diminum, rambut kau terus lebat. Macam mana kau nak menetapkan harga cecair itu satu liter untuk dijual, sedangkan produk itu tak pernah wujud sebelum ini dan ini kali pertama kau menetapkan harganya?
 
 **Haziq:** Bahan-bahan mentah, harga sebenar yang dihasilkan, harga pengeluaran, harga pengeluaran kimia, dan kemudian mungkin melihat apa-apa harga tambahan seperti cukai atau harga pengimportan bahan-bahan mentah. Ini duti.
 
-**Rafizi Ramli:** Maksudnya, cara biasa kita menetapkan kos — kita tengok sebenarnya bahan mentah berapa, kos pengeluaran berapa, kos jualan dan pengedaran berapa, kemudian kita nak ada margin 20% atau apa — itulah keuntungan kita, dan itulah yang jadi harga akhir. Habis, kenapa kerajaan tak boleh buat macam tu? Kenapa kerajaan tak boleh guna maklumat-maklumat ini daripada Petronas dan tetapkan harga begitu?
+**Rafizi:** Maksudnya, cara biasa kita menetapkan kos — kita tengok sebenarnya bahan mentah berapa, kos pengeluaran berapa, kos jualan dan pengedaran berapa, kemudian kita nak ada margin 20% atau apa — itulah keuntungan kita, dan itulah yang jadi harga akhir. Habis, kenapa kerajaan tak boleh buat macam tu? Kenapa kerajaan tak boleh guna maklumat-maklumat ini daripada Petronas dan tetapkan harga begitu?
 
 Ini datangnya daripada tahyul Isyam Jalil. Hujahnya begini — dia kata sebab kita menggunakan harga rujukan di Singapura untuk seluruh Asia, sebenarnya syarikat minyak mendapat untung lebih besar daripada kos mereka, kerana mereka tidak mahu menetapkan harga mengikut kos pengeluaran sebenar di sini. Sebab itu dia kata subsidi ini "atas kertas" saja — ayat dia, kalau kerajaan suruh turunkan harga pun, Petronas, Shell, semua masih untung banyak. Jadi kerajaan buat kerja sia-sia, kononnya ada subsidi dibayar, sebenarnya tak dibayar pun — kerana ia kos peluang, katanya, sebab kita pilih untuk menjual di luar negara pada harga lebih tinggi berbanding jual di sini. Kalau dikira semua keputusan ini dan kos sebenar diketahui, harga sebenar adalah jauh lebih murah daripada harga yang dikenakan melalui APM yang merujuk kepada harga Singapura itu.
 
@@ -226,7 +226,7 @@ Itu pusingan hujah dia, dan ramai orang terpengaruh dengannya. Jadi berbalik kep
 
 **Haziq:** Cuba-cuba teka sahaja, tapi mungkin sebab minyak ni komoditi berharga yang ada harga yang tetap?
 
-**Rafizi Ramli:** Tidak, lebih dari segi ekonominya. Kenapa perkara itu sebenarnya lebih berbahaya untuk dibuat? Sebenarnya, kalau kita buat berdasarkan kos yang didakwa oleh syarikat-syarikat minyak sendiri, itu akan lebih merugikan rakyat berbanding cara yang dibuat sekarang — walaupun cara ini datangnya daripada kerajaan BN. Zaman Isyam Jalil jadi pegawai Najib dulu, dia tak bising pun pasal ini. Saya sendiri tak pernah persoalkan APM kerana ia mempunyai logik ekonomi yang cukup baik, dibuat sejak zaman Tun Mahathir, tahun 80-an.
+**Rafizi:** Tidak, lebih dari segi ekonominya. Kenapa perkara itu sebenarnya lebih berbahaya untuk dibuat? Sebenarnya, kalau kita buat berdasarkan kos yang didakwa oleh syarikat-syarikat minyak sendiri, itu akan lebih merugikan rakyat berbanding cara yang dibuat sekarang — walaupun cara ini datangnya daripada kerajaan BN. Zaman Isyam Jalil jadi pegawai Najib dulu, dia tak bising pun pasal ini. Saya sendiri tak pernah persoalkan APM kerana ia mempunyai logik ekonomi yang cukup baik, dibuat sejak zaman Tun Mahathir, tahun 80-an.
 
 Sebabnya begini — pasal pasaran ni. Bukan pasaran bebas semata-mata, tapi secara ekonomi begini: kalau dalam sistem itu pengeluar, iaitu syarikat-syarikat minyak, menentukan harga berdasarkan kos mereka sahaja ditambah margin, agaknya harga minyak makin lama makin rendah atau makin tinggi? Ia akan makin tinggi, kerana tak ada motivasi untuk syarikat-syarikat minyak ini bersaing. Kalau dia bayar gaji empat kali ganda lebih mahal daripada syarikat minyak lain di seluruh dunia, dia boleh kata "ini kos saya". Kalau dia menggali minyak sesuka hati, buat projek yang rosak, dia boleh kata "ini kos saya juga". Sebaliknya, harga yang setanding dengan syarikat-syarikat minyak lain memaksa kita untuk bersaing dari segi kos pengeluaran dengan negara-negara lain. Kalau tidak, apa yang negara lain boleh keluarkan dengan kos RM3 seliter untuk menapis petrol, di Malaysia jadi RM6 — itu belum lagi termasuk unsur rasuah.
 
@@ -244,7 +244,7 @@ Jadi untuk menjawab soalan tadi — syarikat minyak tidak boleh pandai-pandai me
 
 **Haziq:** Jadi peniaga stesen minyak pun begitu juga? Jadi kalau kau pergi ke pam atau perniagaan francais Petronas, memang mereka pun sudah ditetapkan margin?
 
-**Rafizi Ramli:** Ya, ya, ya. Dia tak boleh — macam barang terkawal. Sebab itu kalau seorang peniaga pam minyak nak buat lebih banyak duit, hanya ada dua cara. Satu, kalau dia jual lebih banyak, kerana ia dikira mengikut isipadu — 12 sen untuk seliter RON95 — jadi kalau jual lebih banyak, lebih banyak komisen. Cara kedua, dan yang lebih menguntungkan bagi syarikat stesen minyak, ialah kedai runcit di stesen itu. Kedai itu sebenarnya membuat margin yang jauh lebih tinggi. Ramai antara mereka sebenarnya bertahan atas kedai mesra, kedai serbaneka dan sebagainya — sebab itulah kadang-kadang kita nampak kedai serbaneka berkembang macam-macam.
+**Rafizi:** Ya, ya, ya. Dia tak boleh — macam barang terkawal. Sebab itu kalau seorang peniaga pam minyak nak buat lebih banyak duit, hanya ada dua cara. Satu, kalau dia jual lebih banyak, kerana ia dikira mengikut isipadu — 12 sen untuk seliter RON95 — jadi kalau jual lebih banyak, lebih banyak komisen. Cara kedua, dan yang lebih menguntungkan bagi syarikat stesen minyak, ialah kedai runcit di stesen itu. Kedai itu sebenarnya membuat margin yang jauh lebih tinggi. Ramai antara mereka sebenarnya bertahan atas kedai mesra, kedai serbaneka dan sebagainya — sebab itulah kadang-kadang kita nampak kedai serbaneka berkembang macam-macam.
 
 Malah sampai ke peringkat Petronas sendiri — kalau kita lihat syarikat minyak yang tersenarai, contohnya Petronas Dagangan, mana ada Petronas Dagangan buat untung banyak? Untung Petronas Dagangan cuma dalam RM100 juta, bukan bilion-bilion, sebab keuntungannya sudah dikawal — mereka hanya dapat 5 sen seliter untuk margin, dan dalam 12 sen untuk kos pengeluaran. Kalau digabungkan keseluruhan, penapisan mungkin dapat dalam 12 sen. Sebab syarikat minyak ini semuanya bersepadu, kau kena campur semua — kos pengeluaran, campur margin 5 sen, jadi 17 sen kesemuanya.
 
@@ -252,7 +252,7 @@ Jadi yang naik mendadak itu bukan keuntungan mereka — yang naik mendadak itu i
 
 **Haziq:** Enam ringgit?
 
-**Rafizi Ramli:** Enam ringgit 70 sen. Kau tolak margin syarikat minyak 2.25 sen, tolak margin peniaga stesen 7 sen — jumlahnya lebih kurang 10 sen. Kemudian tolak lagi kos pengeluaran dan pengedaran syarikat minyak, saya kira sekitar 12 sen — jadi sekitar 25 sen. Tambah lagi *alpha*, katakan 5 sen, jadi 30 sen kesemuanya. Jadi daripada RM6.70 itu, hanya 30 sen sahaja komponen-komponen tadi. RM6.40 lagi itu ialah harga minyak mentah — itulah bahagian terbesar. Tentulah, apabila RON95 atau diesel ditetapkan pada harga yang didagangkan di Singapura, itu sudah harga produk yang telah ditapis. Tetapi majoriti daripada harga produk yang ditapis itu sebenarnya adalah harga minyak mentah.
+**Rafizi:** Enam ringgit 70 sen. Kau tolak margin syarikat minyak 2.25 sen, tolak margin peniaga stesen 7 sen — jumlahnya lebih kurang 10 sen. Kemudian tolak lagi kos pengeluaran dan pengedaran syarikat minyak, saya kira sekitar 12 sen — jadi sekitar 25 sen. Tambah lagi *alpha*, katakan 5 sen, jadi 30 sen kesemuanya. Jadi daripada RM6.70 itu, hanya 30 sen sahaja komponen-komponen tadi. RM6.40 lagi itu ialah harga minyak mentah — itulah bahagian terbesar. Tentulah, apabila RON95 atau diesel ditetapkan pada harga yang didagangkan di Singapura, itu sudah harga produk yang telah ditapis. Tetapi majoriti daripada harga produk yang ditapis itu sebenarnya adalah harga minyak mentah.
 
 Ini juga untuk menjawab Sanusi. Sebahagiannya untuk menjawab dakwaan Sanusi bahawa kerajaan sengaja menyimpan sebelum menaikkan harga. Tak ada begitu. Tapi ada sedikit kebenaran dalam apa yang Sanusi katakan, dan ia bergantung kepada kekerapan kita merujuk harga. Contohnya, yang berlaku minggu ini — bila Amerika Syarikat mengumumkan gencatan senjata dua minggu dengan Iran, harga minyak mentah jatuh daripada $112 kepada $95 setong. Tapi MOF umumkan harga naik lagi ke paras tertinggi dalam sejarah. Sebabnya, harga untuk minggu ini merujuk kepada purata harga minggu lepas, dan minggu lepas itu masih $112 setong. Jadi ada kebenaran dalam kata Sanusi bahawa perbezaan harga ini disebabkan perbezaan masa (*timing difference*), disebabkan inventori dan sebagainya.
 
@@ -280,53 +280,53 @@ Kita sambung yang lain nanti, sebab kita sudah setengah jam lebih. Kita buat epi
 
 **Haziq:** Satu lagi — Azam Baki dan Mafia Korporat. "Akulah bapamu." Episod ketiga.
 
-**Rafizi Ramli:** Oh, ini macam Star Wars, episod. Walaupun saya tak tengok Star Wars.
+**Rafizi:** Oh, ini macam Star Wars, episod. Walaupun saya tak tengok Star Wars.
 
 **Haziq:** Kau tak tengok Star Wars?
 
-**Rafizi Ramli:** Saya yakin ramai lagi yang tak tengok juga.
+**Rafizi:** Saya yakin ramai lagi yang tak tengok juga.
 
 **Haziq:** Selepas ini, insya-Allah, saya akan mengusulkan untuk kita tukar moderator — sebab tak tengok Star Wars.
 
-**Rafizi Ramli:** Tapi ini cerita lama, saya tahu — 1980.
+**Rafizi:** Tapi ini cerita lama, saya tahu — 1980.
 
 **Haziq:** Itu sebenarnya teruk, tak tengok Star Wars.
 
-**Rafizi Ramli:** Ya Allah. Tapi saya tengok cerita lain lah.
+**Rafizi:** Ya Allah. Tapi saya tengok cerita lain lah.
 
 **Haziq:** Tapi tak boleh dibandingkan.
 
-**Rafizi Ramli:** Oh, tak boleh dibandingkan. Okey, saya akan mula tengok Star Wars.
+**Rafizi:** Oh, tak boleh dibandingkan. Okey, saya akan mula tengok Star Wars.
 
 **Haziq:** Kau kena tengok, sebab semua reformis kena tengok Star Wars.
 
-**Rafizi Ramli:** Baik, baik.
+**Rafizi:** Baik, baik.
 
 **Haziq:** Sebab Star Wars ini melambangkan bagaimana sekumpulan orang-orang kecil yang nampak lemah nak mampus melawan satu kuasa besar, akhirnya menang. Itu pentingnya Star Wars.
 
-**Rafizi Ramli:** Baik, baik.
+**Rafizi:** Baik, baik.
 
 **Haziq:** Jadi kau nak cakap kau tak tengok Star Wars?
 
-**Rafizi Ramli:** Tak ada lah, ini tahun 1980, lebih lama lagi.
+**Rafizi:** Tak ada lah, ini tahun 1980, lebih lama lagi.
 
 **Haziq:** Pandai lah nak cakap aku tua. Dekat Netflix banyak je Star Wars, kan? Dekat Disney pun ada.
 
-**Rafizi Ramli:** Tak, yang "akulah bapamu" tu — Skywalker dengan Darth Vader — itu bukan episod tiga, itu episod dua, *The Empire Strikes Back*.
+**Rafizi:** Tak, yang "akulah bapamu" tu — Skywalker dengan Darth Vader — itu bukan episod tiga, itu episod dua, *The Empire Strikes Back*.
 
 Okey, balik kepada KB [Kluang Bersama?]. Saya rasa banyak perkembangan, tapi ada tiga benda utama malam ni. Yang paling ringan sekali berkaitan beberapa anak muda yang dituduh sebagai pengikut saya, yang datang ke PWTC mengangkat plakat "Tangkap Azam Baki". YB mungkin boleh ulas dulu, sebab mereka yang menghadiri —
 
 **Haziq:** Oh, itu ada gambar-gambar.
 
-**Rafizi Ramli:** Ya — himpunan "Tangkap Azam Baki" juga, YB ada di sana, mereka pun ada. Saya rasa mereka tak suka kat saya kot.
+**Rafizi:** Ya — himpunan "Tangkap Azam Baki" juga, YB ada di sana, mereka pun ada. Saya rasa mereka tak suka kat saya kot.
 
 **Haziq:** Saya pun rasa macam tu lah.
 
-**Rafizi Ramli:** Sebab masa saya naik atas — ini masa himpunan "Tangkap Azam Baki" tempoh hari, kan? Dia buat atas belakang trak pikap kan. Bani —
+**Rafizi:** Sebab masa saya naik atas — ini masa himpunan "Tangkap Azam Baki" tempoh hari, kan? Dia buat atas belakang trak pikap kan. Bani —
 
 **Haziq:** — mahal lah.
 
-**Rafizi Ramli:** Masa aku naik tu, macam dia tarik aku tak bersungguh-sungguh, macam aku nak jatuh balik. Tak payahlah naik. Ada dua kemungkinan — sama ada dia tak suka kat aku, ataupun aku berat. Tapi sebenarnya, tuduhan-tuduhan yang dikatakan ini ada satu cap lucu jugalah. Ia seolah-olah orang PKR sekarang ni tak faham macam mana sesuatu demonstrasi atau himpunan itu dibuat. Sebenarnya yang jaga pentas itu ialah sesiapa yang menganjurkan. Yang menganjurkan hari itu ialah Sekretariat Tangkap Azam Baki. Saya tak kenal pun budak-budak ni semua — bila saya naik pentas, memang aku tak ingat nama siapa pun. Tapi aku boleh rasa macam diorang tak suka kat aku. Saya rasa budak-budak ni memang radikal sikit pada umur mereka, jadi dia rasa aku ni sebahagian daripada golongan pemerintah — sedangkan budak-budak muda begini biasanya lebih anti-establishment sedikit. Kebetulan gambar-gambar tu ada, jadi terus jadi bahan orang kan. Tapi saya mengalu-alukan kalau mereka nak jadi murid saya pun, walaupun ada pandangan yang berbeza mengenai tindakan mereka. Ada yang maki hamun, kata kurang hajar. Saya tak pernah komen pasal ni sebelum ini.
+**Rafizi:** Masa aku naik tu, macam dia tarik aku tak bersungguh-sungguh, macam aku nak jatuh balik. Tak payahlah naik. Ada dua kemungkinan — sama ada dia tak suka kat aku, ataupun aku berat. Tapi sebenarnya, tuduhan-tuduhan yang dikatakan ini ada satu cap lucu jugalah. Ia seolah-olah orang PKR sekarang ni tak faham macam mana sesuatu demonstrasi atau himpunan itu dibuat. Sebenarnya yang jaga pentas itu ialah sesiapa yang menganjurkan. Yang menganjurkan hari itu ialah Sekretariat Tangkap Azam Baki. Saya tak kenal pun budak-budak ni semua — bila saya naik pentas, memang aku tak ingat nama siapa pun. Tapi aku boleh rasa macam diorang tak suka kat aku. Saya rasa budak-budak ni memang radikal sikit pada umur mereka, jadi dia rasa aku ni sebahagian daripada golongan pemerintah — sedangkan budak-budak muda begini biasanya lebih anti-establishment sedikit. Kebetulan gambar-gambar tu ada, jadi terus jadi bahan orang kan. Tapi saya mengalu-alukan kalau mereka nak jadi murid saya pun, walaupun ada pandangan yang berbeza mengenai tindakan mereka. Ada yang maki hamun, kata kurang hajar. Saya tak pernah komen pasal ni sebelum ini.
 
 Pandangan saya begini: setiap penilaian kita terhadap sesuatu yang berlaku itu mestilah berasaskan prinsip dan peraturan. Maksudnya, bila kita nak buat keputusan, kita mesti ada peraturan dalam kepala kita — setiap keputusan itu mestilah berasaskan peraturan. Ia tak boleh ikut suka kita — hari ini kita kata macam ini, esok kita kata macam itu. Itulah yang orang kata "lalang," itulah yang orang kata dah tak sama semua.
 
@@ -356,7 +356,7 @@ Oh, tapi dia dikatakan baik dengan you. Demi Allah, saya nak kata malam ini — 
 
 **Hos:** Kami daripada tim lama YB pun fikir macam kita pun tak pernah buat kerja, orang lain dapat nama.
 
-**Rafizi Ramli:** Itulah. Kalaupun ada kesan daripada fitnah-fitnah ini, ialah mereka yang bekerja di sekeliling aku ini mula memberontak. "Sampai RM3 bilion, saya punya kereta pun kena tarik, tak boleh bayar kereta." "Kena tarik?" "Tak, tak, belum lagi." "Sikit lagi?" "Sabar eh." "Sabar, sabar, sabar, perjuangan belum selesai." "Sabar je lah, pandai-pandai lah kau bayar kereta kau tu." Jadi orang-orang di keliling aku ini makin kecil hati — kata tak guna, kereta susah payah bersengkang mata, dia ada RM3 bilion, nak bayar kereta pun dia tak tolong.
+**Rafizi:** Itulah. Kalaupun ada kesan daripada fitnah-fitnah ini, ialah mereka yang bekerja di sekeliling aku ini mula memberontak. "Sampai RM3 bilion, saya punya kereta pun kena tarik, tak boleh bayar kereta." "Kena tarik?" "Tak, tak, belum lagi." "Sikit lagi?" "Sabar eh." "Sabar, sabar, sabar, perjuangan belum selesai." "Sabar je lah, pandai-pandai lah kau bayar kereta kau tu." Jadi orang-orang di keliling aku ini makin kecil hati — kata tak guna, kereta susah payah bersengkang mata, dia ada RM3 bilion, nak bayar kereta pun dia tak tolong.
 
 Awal-awal, apa nama ni, cara dia ialah kononnya ada invois. Saya ingat benda ini timbul balik, kerana saya tak rasa Saifuddin terlibat apa-apa pun dalam semua ini, walaupun dia ada invois tu. Invois itu, kononnya, daripada AMLA — pegawai-pegawai yang membekukan akaun, Victor Chin, Dato' Abu Hanifah. Saya tahu sebab saya sudah tengok surat-surat yang dikeluarkan untuk memindahkan saham — pegawai yang sama. Saya rasa saya ada gambar dengan pegawai-pegawai itu semua, superintendent-superintendent semua — aku simpan resit, tau, sebab mereka pernah jumpa saya, datang jumpa pasal kes lain. Mungkin boleh sebut jugalah pasal "Papa Gomor" — ada satu lagi cerita pasal Papa Gomor, tau, kerana pegawai-pegawainya sama. Jadi mereka datang ambil gambar dengan aku, tak pasal-pasal aku terheret sekali, dan ada cerita menarik di belakangnya.
 
@@ -376,7 +376,7 @@ Tapi saya rasa mereka akan tetap buat kes. Sebab semalam pun sudah ada laporan S
 
 **Hos:** Tapi, sebagai seorang yang memerhati daripada luar — siapa yang buat kerja tak bersih macam ni? Maksudnya, macam yang menyusun benda yang sama, perkara yang sama, skrip yang sama — sebagai seorang lelaki, anda boleh melihat corak itu.
 
-**Rafizi Ramli:** Dia kalaupun yang buat ini Jeffrey Epstein, ataupun Mossad — kalau benda itu langsung tak betul dan tak ada apa-apa secubit kebenaran pun, memang benda itu akan nampak. Jadi orang yang paling hebat pun mencatu, menyusun, buat konspirasi, buat fitnah ni, kalau nak buat, memang tak ada apa kan. Dan itu jugalah saya rasa satu kelebihan, kalau selama ni orang selalu tuduh aku ni sombong, payah nak jumpa orang. Sebab memang saya sangat berhati-hati bab siapa yang saya ambil kerja. Farhan pernah kerja dengan saya, dia tahu bahawa kalau ada orang jumpa pegawai saya, berabuk aku maki. Saya memang tak bagi pegawai jumpa sesiapa, semua pun saya tak jumpa. Jadi dalam keadaan begitu, memang susah nak cari peluang untuk buat apa-apa. Akhirnya terpaksalah dia mereka-reka cerita dengan orang yang memang kita tak pernah kenal — dia memangsakan orang lain semua. Sebab itulah, sebaik mungkin perkara-perkara yang tidak baik ini bukan saja kita elakkan, kita jauhi, kita kena benci. Kalau kita rasa benda itu tak betul dan kita terus berpegang kepada yang benar, insyaAllah, bila pun orang buat cerita macam mana pun, bila keluar ia akan kelihatan tidak bersih macam ini.
+**Rafizi:** Dia kalaupun yang buat ini Jeffrey Epstein, ataupun Mossad — kalau benda itu langsung tak betul dan tak ada apa-apa secubit kebenaran pun, memang benda itu akan nampak. Jadi orang yang paling hebat pun mencatu, menyusun, buat konspirasi, buat fitnah ni, kalau nak buat, memang tak ada apa kan. Dan itu jugalah saya rasa satu kelebihan, kalau selama ni orang selalu tuduh aku ni sombong, payah nak jumpa orang. Sebab memang saya sangat berhati-hati bab siapa yang saya ambil kerja. Farhan pernah kerja dengan saya, dia tahu bahawa kalau ada orang jumpa pegawai saya, berabuk aku maki. Saya memang tak bagi pegawai jumpa sesiapa, semua pun saya tak jumpa. Jadi dalam keadaan begitu, memang susah nak cari peluang untuk buat apa-apa. Akhirnya terpaksalah dia mereka-reka cerita dengan orang yang memang kita tak pernah kenal — dia memangsakan orang lain semua. Sebab itulah, sebaik mungkin perkara-perkara yang tidak baik ini bukan saja kita elakkan, kita jauhi, kita kena benci. Kalau kita rasa benda itu tak betul dan kita terus berpegang kepada yang benar, insyaAllah, bila pun orang buat cerita macam mana pun, bila keluar ia akan kelihatan tidak bersih macam ini.
 
 Cuma kalau kita baca laman web ni, satu lagi yang dikatakan ialah Datasonic dianugerahkan projek IPR. Sejauh mana betulnya benda ni? Satu-satunya tender yang saya ingat ada di Kementerian Ekonomi ialah IPR ini — maksudnya sewaan mesin layan diri, bukan beli, tapi sewa. Kita lancarkan IPR pada Februari 2023. Sebenarnya, kita pujuk untuk pinjam satu mesin layan diri sebagai bukti konsep, lepas itu ia dibuat secara tender terbuka. Menteri sebenarnya tidak terlibat langsung dengan tender itu. Saya tahu, amalan sebelum-sebelum ini ialah menteri akan panggil KSU untuk beri arahan begini-begitu. Saya memang selalu sebut kepada pegawai dan pejabat saya, saya tak nak pergi dekat perkara ini, kerana bila orang macam saya cuba untuk tidak mahu bermain permainan begitu — maksudnya, bila kau tak nak campur benda-benda macam ni, kita ni banyak musuh. Jadi bab tender, bab perolehan ni sangat berbahaya. Saya memang ikut peraturan betul-betul, saya tak terlibat dengan tender itu. Sampai ke satu peringkat, saya tak tahu-menahu apa jadi dengan tender tu. Lepas lima, enam bulan, orang tanya, "mana mesin layan diri-nya?" Kalau nak jawab orang ramai yang tanya "saya dah daftar lama, YB, kenapa saya belum dapat tawaran," sebabnya ialah tender itu saya tak tahu hujung-pangkalnya — saya serahkan bulat-bulat mengikut peraturan kepada pegawai-pegawai kerajaan. Jadi bila tender dibuka pun aku tak tahu, siapa dipanggil, spesifikasi semua, saya tak tahu.
 
@@ -386,23 +386,23 @@ Dalam mesyuarat pasca-Kabinet, tiap-tiap minggu, kita tak bincang detail peroleh
 
 **Hos:** Okey, dah 2 jam 5 minit. Mungkin kita pergi ke segmen yang terakhir untuk yang lain — sediakan tisu dulu.
 
-**Rafizi Ramli:** Tisu?
+**Rafizi:** Tisu?
 
 **Hos:** Yelah, nak menangis.
 
-**Rafizi Ramli:** Tak adalah, mana ada orang menangis.
+**Rafizi:** Tak adalah, mana ada orang menangis.
 
 **Hos:** Akhirnya, adakah saudara Rafizi akan dibuang daripada PKR — akan dipecat? YB baru dapat surat daripada Pejabat Lembaga Disiplin, surat tunjuk sebab, ya YB, dengan macam-macam yang mungkin YB akan lalui sendiri. Cuma YB, saya selaku rakyat jelata biasa ni nak tanya-tanya.
 
-**Rafizi Ramli:** Kau rakyat jelata biasa?
+**Rafizi:** Kau rakyat jelata biasa?
 
 **Hos:** Saya rakyat jelita biasa lah.
 
-**Rafizi Ramli:** Jelita?
+**Rafizi:** Jelita?
 
 **Hos:** YB dah terima surat tunjuk sebab. Macam mana proses pemikiran YB? Akhirnya, YB yakin mereka ni dah bersedia untuk pecat YB? Sebab nenek saya pun tahu, kalau YB dipecat, makin huru-hara landskap politik negara kita ni.
 
-**Rafizi Ramli:** Nenek kau tu memanglah menyokong kita kan?
+**Rafizi:** Nenek kau tu memanglah menyokong kita kan?
 
 Yelah, surat tunjuk sebab itu saya dapat semalam, 9 April. Tapi kalau kita tengok, surat tunjuk sebab yang pertama datangnya daripada Setiausaha Agung — yang awal itu. Itu pun dah pelik, sebab surat tunjuk sebab macam ini selalunya sepatutnya datang daripada Lembaga Disiplin. Tapi kali ini surat tunjuk sebab betul-betul daripada Pengerusi Lembaga Disiplin. Tuduhan-tuduhannya, dia spesifikkan menyerang keperibadian Presiden Parti, menimbulkan implikasi bahawa Presiden Parti mempertahankan Ketua Pesuruhjaya SPRM, kemudian membuat tuduhan bahawa Presiden Parti membenarkan penyokong-penyokong menyebarkan fitnah, dan membuat tuduhan bahawa Presiden Parti selaku Perdana Menteri melindungi beberapa individu.
 
@@ -416,21 +416,21 @@ Jadi kalau saya ditafsirkan mengisytiharkan keluar parti supaya mengikut undang-
 
 **Hos:** YB tak join lah?
 
-**Rafizi Ramli:** Saya tak tahu sebenarnya, saya hanya tahu bila ada kariah masjid tanya. Jadi ia tak diumumkan pun — cuma ada beberapa orang PKR yang tiba-tiba nampak satu hantaran begitu. Tak apalah, saya alu-alukan apa-apa tindakan. Lagipun benda ni dah berpanjangan sangat, orang pun dah apalah dengan drama PKR ni — bila lah nak habis. Jadi baguslah kalau ada pengakhiran yang sewajarnya untuk episod seterusnya.
+**Rafizi:** Saya tak tahu sebenarnya, saya hanya tahu bila ada kariah masjid tanya. Jadi ia tak diumumkan pun — cuma ada beberapa orang PKR yang tiba-tiba nampak satu hantaran begitu. Tak apalah, saya alu-alukan apa-apa tindakan. Lagipun benda ni dah berpanjangan sangat, orang pun dah apalah dengan drama PKR ni — bila lah nak habis. Jadi baguslah kalau ada pengakhiran yang sewajarnya untuk episod seterusnya.
 
 **Hos:** Mungkin orang akan tanya, selepas itu, kalau betullah — YB duduk tengok jam, 2 jam 45 minit — apa yang YB akan buat lepas tu?
 
-**Rafizi Ramli:** Aku pergi bercuti tepi pantai lah kot, baju dah pakai. Tak adalah, itu yang saya ingat, saya pun tak tahu bacaannya. Tapi, yelah, saya kenal Dato' Seri Anwar, pemikirannya, dan orang-orang di sekelilingnya. Matlamat mereka ialah mengalahkan saya supaya hilang deposit dalam pilihan raya kecil akan datang. Sebab pandangan mereka, saya ni tanpa parti, tanpa PKR, tak ke mana. Jadi kalau ada pilihan raya kecil, walaupun saya akan hilang, saya akan tetap bertanding macam mana pun. Aku lihat balik pemilihan PKR — walaupun dah tahu semuanya disusun, blockchain tak blockchain, aku tetap lawan. Kalah tak kalah, itu belakang kira. Sebab kalau kita benar, dan kita rasa kita ada maruah, dan kita yakin bahawa rakyat akhirnya boleh nampak apa yang berlaku — ambil contoh pemilihan PKR, hari itu mungkin nampak saya kalah, tapi perancangan itu untuk mematikan kejayaan, untuk menghentikan saya bersuara, tak selesai lagi, makin bising pula sekarang. Jadi samalah, saya akan bertanding. Kalau saya kalah, hilang deposit pun tak apa, aku pergilah bercuti di tepi pantai. Lepas tu aku bercakap balik — podcast ni, siapa nak jaga podcast ni kan? Tak ada podcast ni, tak adalah korang.
+**Rafizi:** Aku pergi bercuti tepi pantai lah kot, baju dah pakai. Tak adalah, itu yang saya ingat, saya pun tak tahu bacaannya. Tapi, yelah, saya kenal Dato' Seri Anwar, pemikirannya, dan orang-orang di sekelilingnya. Matlamat mereka ialah mengalahkan saya supaya hilang deposit dalam pilihan raya kecil akan datang. Sebab pandangan mereka, saya ni tanpa parti, tanpa PKR, tak ke mana. Jadi kalau ada pilihan raya kecil, walaupun saya akan hilang, saya akan tetap bertanding macam mana pun. Aku lihat balik pemilihan PKR — walaupun dah tahu semuanya disusun, blockchain tak blockchain, aku tetap lawan. Kalah tak kalah, itu belakang kira. Sebab kalau kita benar, dan kita rasa kita ada maruah, dan kita yakin bahawa rakyat akhirnya boleh nampak apa yang berlaku — ambil contoh pemilihan PKR, hari itu mungkin nampak saya kalah, tapi perancangan itu untuk mematikan kejayaan, untuk menghentikan saya bersuara, tak selesai lagi, makin bising pula sekarang. Jadi samalah, saya akan bertanding. Kalau saya kalah, hilang deposit pun tak apa, aku pergilah bercuti di tepi pantai. Lepas tu aku bercakap balik — podcast ni, siapa nak jaga podcast ni kan? Tak ada podcast ni, tak adalah korang.
 
 Kalau saya menang pula, itu risiko yang diambil oleh Dato' Seri Anwar — kerana itu isyarat yang sangat berbahaya kepadanya dan kepada PKR serta PH: satu tubuh yang tak ada apa-apa, bertanding melawan seluruh kekuatan kerajaan, eh, dia menang. Lawan pula bekas menteri, orang kepercayaan Dato' Seri Anwar sendiri, Tengku Zafrul — eh, tengok, aku menang — oh, bahaya kan. Jadi itu terpulanglah kepada perkiraan masing-masing, tapi jalan saya memang dah agak jelas. Lagipun, asal kami ni lawan, tetap lawan kan? Jadi kita lawan sahajalah.
 
 **Hos:** YB mungkin bila tengok, YB kena bertalu-talu — yelah, dia serang kiri dan kanan. Mungkin saya sedih sikit lah.
 
-**Rafizi Ramli:** Hah? Kau sedih?
+**Rafizi:** Hah? Kau sedih?
 
 **Hos:** Aku ingat kau sedih dengan aku. Dan kemudian yang baru ini, surat daripada Pejabat Lembaga Disiplin — YB ditekan macam ini, lepas YB bagi segala-galanya untuk parti ni sejak zaman muda YB. Macam mana YB hadapi benda-benda macam ini? Saya rasa, minta maaf, orang biasa macam saya dan lain-lain ni, dan penonton, mungkin kalau sampai satu tahap, akan mengalah atau tak boleh nak hadap. Tapi YB boleh teruskan sahaja.
 
-**Rafizi Ramli:** Satu, saya ingat, kita ni dilahirkan dan dibesarkan dengan cara didikan masing-masing. Orang lain mungkin tak ambil pot sangat dalam hidup ni, tapi saya, saya tak suka kena buli. Saya benci pembuli, di mana-mana, saya benci pembuli. Dan berdiri tegas menentang pembuli bagi saya adalah sebahagian daripada siapa saya sebagai seorang manusia. Kalau saya rasa saya betul — itulah yang orang lain pun kata dia rasa dia betul juga kan — tapi aku bukan bergaduh, cerita minyak tadi aku terangkan sahaja, membantu pun kerajaan kan. Tapi kalau saya rasa perkara itu jelas betul, dan ada orang yang merasakan dia boleh menggunakan kekuasaan, wang, dan kedudukannya untuk membuli dan menekan orang lain, itu saya memang tak boleh lari — itu sahaja perwatakan saya.
+**Rafizi:** Satu, saya ingat, kita ni dilahirkan dan dibesarkan dengan cara didikan masing-masing. Orang lain mungkin tak ambil pot sangat dalam hidup ni, tapi saya, saya tak suka kena buli. Saya benci pembuli, di mana-mana, saya benci pembuli. Dan berdiri tegas menentang pembuli bagi saya adalah sebahagian daripada siapa saya sebagai seorang manusia. Kalau saya rasa saya betul — itulah yang orang lain pun kata dia rasa dia betul juga kan — tapi aku bukan bergaduh, cerita minyak tadi aku terangkan sahaja, membantu pun kerajaan kan. Tapi kalau saya rasa perkara itu jelas betul, dan ada orang yang merasakan dia boleh menggunakan kekuasaan, wang, dan kedudukannya untuk membuli dan menekan orang lain, itu saya memang tak boleh lari — itu sahaja perwatakan saya.
 
 Sebab saya kira saya bertuah dan saya bersyukur, sebab saya rasa saya ada rezeki dan rahmat yang Allah bagi yang lebih baik daripada orang lain. Jadi kalau saya penakut atau jenis yang Allah dah bagi semua tapi masih fikir keluh-kesah, aku rasa itu kufur nikmat. Itulah sebabnya saya fikir, ini juga nasihat kepada yang muda-muda yang nak masuk politik — kita kena belajar bersyukur. Belajar bersyukur ni bukan cara macam kerajaan atau UMNO sekarang, Dato' Seri Anwar, cakap-cakap "rakyat Malaysia bersyukurlah, syukur Malaysia masyarakat aman." Saya bersyukur dari segi ini: saya tahu asal-usul saya, saya anak orang susah. Pada masa saya berkembang, saya tidak pernah mempunyai keinginan yang besar, kerana apa sahaja yang saya dapat adalah jauh lebih baik daripada apa yang mak ayah saya dapat dulu semasa umur muda mereka. Jadi saya rasa saya sangat bersyukur — saya ada pekerjaan yang baik, saya ada isteri yang baik, saya ada anak yang baik, saya ada kawan-kawan yang baik. Anda tahu, hampir semua yang saya ada ni, Allah dah bagi dengan baik. Dan saya rasa itu sudah cukup bagi saya. Saya tak pernah mahukan benda yang lebih besar.
 
@@ -440,48 +440,48 @@ Sebenarnya, jika anda mempunyai perspektif itu dalam hidup, setiap hari anda ban
 
 **Hos:** YB tak rasa ujian YB ni lebih berat daripada orang lain?
 
-**Rafizi Ramli:** Saya rasa tidak. Ia berpadanan. Dan ujian ini pun, ini yang Faikah sebut sebagai kifarah — macam yang saya sebut minggu lepas, ia agak lain daripada cara orang kita fahami kifarah ini. Kita tiap-tiap hari buat dosa, ada sahaja dosa kita — kadang-kadang sembahyang tak betul, kadang-kadang sembahyang lambat, kadang-kadang mengata orang, buat lawak yang mengecilkan hati orang lain. Kita tiap-tiap hari ada dosa. Jadi ujian-ujian macam ini sebenarnya ada dua kelebihan bagi saya. Satu, ia membersihkan dosa-dosa itu. Kedua, selalunya kalau kita diuji dan kita melaluinya dengan redha, insyaAllah kita jadi lebih baik — orang yang lebih baik, lagi tua lagi bersabar, lagi kurang rasa marah. Jadi kalau kita lebih redha dengan ujian yang Allah bagi, dan kita berdoa supaya Allah mempermudahkan perkara-perkara lain yang lebih besar selepas ini — sebab itulah namanya ujian, kerana kita terpaksa melaluinya. Kita tak boleh marah kepada orang, tak boleh hati kita jadi tidak tenteram, tak boleh berdendam dengan orang. Jadi kalau kita melaluinya, dan ia makin mengingatkan kita kepada Allah dan kepada kawan-kawan yang setia, maka selepas kita lepas ujian itu, kita lebih bersedia untuk perkara yang lebih baik. Itu sebenarnya cara saya melihat hidup, yang malangnya, tak banyak orang politik berfikir begitu — jadi saya tak disukai oleh sebahagian orang politik, tepatnya kerana perspektif hidup saya sangat berbeza daripada kebanyakan orang.
+**Rafizi:** Saya rasa tidak. Ia berpadanan. Dan ujian ini pun, ini yang Faikah sebut sebagai kifarah — macam yang saya sebut minggu lepas, ia agak lain daripada cara orang kita fahami kifarah ini. Kita tiap-tiap hari buat dosa, ada sahaja dosa kita — kadang-kadang sembahyang tak betul, kadang-kadang sembahyang lambat, kadang-kadang mengata orang, buat lawak yang mengecilkan hati orang lain. Kita tiap-tiap hari ada dosa. Jadi ujian-ujian macam ini sebenarnya ada dua kelebihan bagi saya. Satu, ia membersihkan dosa-dosa itu. Kedua, selalunya kalau kita diuji dan kita melaluinya dengan redha, insyaAllah kita jadi lebih baik — orang yang lebih baik, lagi tua lagi bersabar, lagi kurang rasa marah. Jadi kalau kita lebih redha dengan ujian yang Allah bagi, dan kita berdoa supaya Allah mempermudahkan perkara-perkara lain yang lebih besar selepas ini — sebab itulah namanya ujian, kerana kita terpaksa melaluinya. Kita tak boleh marah kepada orang, tak boleh hati kita jadi tidak tenteram, tak boleh berdendam dengan orang. Jadi kalau kita melaluinya, dan ia makin mengingatkan kita kepada Allah dan kepada kawan-kawan yang setia, maka selepas kita lepas ujian itu, kita lebih bersedia untuk perkara yang lebih baik. Itu sebenarnya cara saya melihat hidup, yang malangnya, tak banyak orang politik berfikir begitu — jadi saya tak disukai oleh sebahagian orang politik, tepatnya kerana perspektif hidup saya sangat berbeza daripada kebanyakan orang.
 
 Jadi saya okey sebenarnya. Malah, saya rasa keluarga saya, isteri saya, semua dah melalui semua ini. Kami tak pernah bincang politik di rumah. Rutin rumah saya mudah — balik rumah, saya cuba elak makan malam. Sebenarnya saya balik lambat, mereka dah habis makan malam. Tapi katakanlah saya sempat makan malam bersama, kita akan sembang pasal kucing, sembang pasal band sekolah anak, kemudian kita tengok YouTube bersama, gelakkan video-video YouTube, lepas itu bincang pasal rancangan TV — itu sahaja, tak pernah langsung pasal politik. Jadi saya rasa keluarga saya, terutamanya isteri saya, dah biasa melalui semua ini. Kami pun dah tua, dah 50-an, isteri saya pun lebih 50. Jadi kalau semua ini menjadi ujian yang lebih besar — sekarang ada sampai 2-3 kes yang mereka sangat berazam — katakanlah ia berlarutan sampai ke mahkamah, turun-naik mahkamah, saya pernah melaluinya sebelum ini. Kalau ia berlarutan sampai aku masuk penjara, maka biarlah begitu. Sebab kita perlu ada keyakinan bahawa kalau kita benar — dan memang betul, satu perkara yang mereka tuduh ini pun tiada sezarah pun kebenarannya, makan duit ke apa semua — kita mesti tenang dan serahkan segala-galanya kepada Allah, kerana akhirnya mereka yang sibuk menekan ini tidak sedar bahawa mereka sedang berusaha memenangi hati dan minda rakyat dalam pilihan mereka. Dan kuasa untuk membuka dan menutup hati rakyat itu bukan kuasa manusia, ia kuasa Allah. Jadi kalau keyakinan kita dalam perkara itu sangat kuat — dan dalam kes saya, walaupun saya selalu buat jenaka pasal Martin Luther King yang akhirnya kena tembak — tetapi antara ucapan yang kita betul-betul yakini dulu, ia memberi inspirasi kepada saya, "the arc of the universe is long, but it curves towards justice" — itu kata-kata Martin Luther King. Memang betul, hidup ni susah, payah, berliku, tapi kalau kita tak buat apa yang salah, cuma pihak yang berkuasa tak suka dengar apa yang kita cakap dan kita jadi gangguan kepada mereka, tak apalah, memanglah hidup kita akan disusahkan — tapi akhirnya saya rasa akhirnya kita akan terbukti benar. Dan dalam politik, setiap tindakan ada akibatnya. Jadi sementara tindakan mereka yang menekan ini menyukarkan hidup aku, sebenarnya akibat itu ada pada dua-dua pihak — kepada saya ada akibatnya, kepada mereka pun ada akibatnya.
 
 **Hos:** Tapi pelik juga sebab saya baru perasan, 9 April, hari Rabu, Fahmi ada mengatakan tindakan ke atas you tak dibincangkan.
 
-**Rafizi Ramli:** Ini zaman Madani dan PKR — depan cakap lain, belakang buat lain. Kalau dia tak bincang, maksudnya tiba-tiba esok pecat, tak ada. Jadi saya rasa saya dah melaluinya, kadang-kadang kita kena baca antara baris — kadang-kadang kita pun tak tahu niat sebenar. Orang yang ada kuasa, dia boleh buat apa sahaja, jadi kita tak boleh terkejut kalau dia nak buat begitu. Samalah, sepatutnya tidak ada pilihan raya kecil, tapi inilah zaman Madani. Sejak 2018 sampai sekarang, kita dah tengok macam-macam — tak ada lagi benda yang mengejutkan di Malaysia ini kalau semua ini menuju ke arah memastikan ada pilihan raya kecil, walaupun sepatutnya tidak ada, dengan niat dan harapan "mari kita habiskan dia sekali untuk selama-lamanya."
+**Rafizi:** Ini zaman Madani dan PKR — depan cakap lain, belakang buat lain. Kalau dia tak bincang, maksudnya tiba-tiba esok pecat, tak ada. Jadi saya rasa saya dah melaluinya, kadang-kadang kita kena baca antara baris — kadang-kadang kita pun tak tahu niat sebenar. Orang yang ada kuasa, dia boleh buat apa sahaja, jadi kita tak boleh terkejut kalau dia nak buat begitu. Samalah, sepatutnya tidak ada pilihan raya kecil, tapi inilah zaman Madani. Sejak 2018 sampai sekarang, kita dah tengok macam-macam — tak ada lagi benda yang mengejutkan di Malaysia ini kalau semua ini menuju ke arah memastikan ada pilihan raya kecil, walaupun sepatutnya tidak ada, dengan niat dan harapan "mari kita habiskan dia sekali untuk selama-lamanya."
 
 **Hos:** YB tak tolak kemungkinan lain untuk menghabiskan YB? Mungkin menghantar ke SPRM, atau penjara?
 
-**Rafizi Ramli:** Well, dia macam kena ada pembuka selera, kena ada hidangan utama, kena ada pencuci mulut. Mungkin ini pembuka selera dia, hidangan utama dia mungkin itulah. Sebab kau lihat, dia ada banyak pihak yang sakit hati dengan aku ni — maksudnya, kumpulan Farhat dan Rahman itu satu, Dato' Seri Anwar sendiri satu, sebab dia rasa tahun ini menyusahkan dia, menyebabkan orang benci kepadanya, kemudian ada SPRM, pihak berkuasa, macam-macam lagi.
+**Rafizi:** Well, dia macam kena ada pembuka selera, kena ada hidangan utama, kena ada pencuci mulut. Mungkin ini pembuka selera dia, hidangan utama dia mungkin itulah. Sebab kau lihat, dia ada banyak pihak yang sakit hati dengan aku ni — maksudnya, kumpulan Farhat dan Rahman itu satu, Dato' Seri Anwar sendiri satu, sebab dia rasa tahun ini menyusahkan dia, menyebabkan orang benci kepadanya, kemudian ada SPRM, pihak berkuasa, macam-macam lagi.
 
 **Hos:** Tapi macam... bukan pasal Zaki Farah tu — kalau tengok balik '98, engkau...
 
-**Rafizi Ramli:** ...pun nak bercakap pasal Zaki Farah.
+**Rafizi:** ...pun nak bercakap pasal Zaki Farah.
 
 **Hos:** Macam tahun '98 lah.
 
-**Rafizi Ramli:** Well, balik kepada apa yang saya sebut semalam — maksudnya minggu lepas — saya rasa kita tak sepatutnya memutuskan apa yang berlaku itu kifarah ke tidak.
+**Rafizi:** Well, balik kepada apa yang saya sebut semalam — maksudnya minggu lepas — saya rasa kita tak sepatutnya memutuskan apa yang berlaku itu kifarah ke tidak.
 
 **Hos:** Tak, tak, saya bukan kata itu kifarah, tapi macam orang boleh...
 
-**Rafizi Ramli:** Apa? Ia—
+**Rafizi:** Apa? Ia—
 
 **Hos:** —sama. Well—
 
-**Rafizi Ramli:** Itu bukan kifarah.
+**Rafizi:** Itu bukan kifarah.
 
 **Hos:** Oh, maaf.
 
-**Rafizi Ramli:** Okey, itulah, kau janganlah cakap-cakap benda yang kau tak tahu. Tak, tak, saya rasa konsep kifarah ini semua sebenarnya untuk kita bermuhasabah — ia sebahagian daripada perlindungan kita daripada nafsu kita. Saya rasa, tapi hidup ini satu bulatan, ia akan berpusing dan berpusing dan berpusing lah. Itulah sebabnya orang selalu kata sejarah berulang — kerana pada dasarnya manusia ada insting kita, ada nafsu kita, dan manusia daripada zaman yang berbeza, bila ada kuasa, mereka pasti akan buat benda yang sama berulang-ulang kali lah. Sama juga. Dalam konteks itu, kita kena ada pegangan yang berkata, "the arc of the universe is long but it bends towards justice." Saya rasa sekali kau ada itu, sebenarnya hidup agak bahagia tau. Tapi kau perlu, kau kena kental untuk percaya semua itu.
+**Rafizi:** Okey, itulah, kau janganlah cakap-cakap benda yang kau tak tahu. Tak, tak, saya rasa konsep kifarah ini semua sebenarnya untuk kita bermuhasabah — ia sebahagian daripada perlindungan kita daripada nafsu kita. Saya rasa, tapi hidup ini satu bulatan, ia akan berpusing dan berpusing dan berpusing lah. Itulah sebabnya orang selalu kata sejarah berulang — kerana pada dasarnya manusia ada insting kita, ada nafsu kita, dan manusia daripada zaman yang berbeza, bila ada kuasa, mereka pasti akan buat benda yang sama berulang-ulang kali lah. Sama juga. Dalam konteks itu, kita kena ada pegangan yang berkata, "the arc of the universe is long but it bends towards justice." Saya rasa sekali kau ada itu, sebenarnya hidup agak bahagia tau. Tapi kau perlu, kau kena kental untuk percaya semua itu.
 
 **Hos:** Itulah, tak semudah itu — YB dah buktikan, tapi orang lain ni pergilah demo 25 ribu ni, kita ramai-ramai turun, itu akan membantu untuk kental sikit lagi. Siapa buat placard atau apa, tanda paling lawa, YB akan ambil gambar dengan dia.
 
-**Rafizi Ramli:** Bukan aku janji.
+**Rafizi:** Bukan aku janji.
 
 **Hos:** Ini promo yang berhenti-menteri.
 
-**Rafizi Ramli:** Kecantikan itu pada mata yang memandang. Okey, baik-baik, 2 jam 40 minit, tak sampai 3 jam pun. Aku takut sangat, nanti kena maki. Okey, itu sahajalah daripada aku. Jadi kita jumpa minggu depan — minggu depan, ingatkan cerita Papa Gomo.
+**Rafizi:** Kecantikan itu pada mata yang memandang. Okey, baik-baik, 2 jam 40 minit, tak sampai 3 jam pun. Aku takut sangat, nanti kena maki. Okey, itu sahajalah daripada aku. Jadi kita jumpa minggu depan — minggu depan, ingatkan cerita Papa Gomo.
 
 **Hos:** Papa Gomo. Tak sabar, saya tak boleh tidur nak tunggu depan ni.
 
-**Rafizi Ramli:** Betul-betul, ada. Ada benda yang saya rasa Papa Gomo patut tahu, dan rakyat Malaysia patut tahu — pusing punya pusing, ia ada juga bersabit dengan soal mafia korporat. Bukan Papa Gomo itu bersabit dengan mafia korporat, maksudnya cerita-cerita itu — muka itu, muka ini, muka itu juga.
+**Rafizi:** Betul-betul, ada. Ada benda yang saya rasa Papa Gomo patut tahu, dan rakyat Malaysia patut tahu — pusing punya pusing, ia ada juga bersabit dengan soal mafia korporat. Bukan Papa Gomo itu bersabit dengan mafia korporat, maksudnya cerita-cerita itu — muka itu, muka ini, muka itu juga.
 
 **Hos:** Okey, okey, kita tidur dulu. Selamat malam, terima kasih YB — Raya lagi kan, selamat menyambut Hari Raya. Dan kita turun minggu 25 bulan, jumpa di Dataran Merdeka. Selamat malam, Assalamualaikum.

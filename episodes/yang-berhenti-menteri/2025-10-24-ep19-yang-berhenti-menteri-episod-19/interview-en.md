@@ -9,9 +9,8 @@ duration: 2h 27m
 view_count: 36756
 hosts:
 - Rafizi
-- Host
-- Co-host
-guests:
+- Haziq
+guests: []
 topics:
 - Rafizi's batik dress habit
 - Minister's aide's 'fell asleep in toilet' social media controversy
@@ -39,33 +38,32 @@ topics:
 - Cheap/counterfeit Chinese e-commerce imports harming local businesses
 - Reporting misconduct/whistleblowing in government integrity units
 - Sustaining education reform across changing governments
-summary: 'Episode 19 of "Podcast Yang Berhenti Menteri" features Rafizi with
-  his regular co-hosts/moderators running through several recurring segments. In the
-  "Beria" (viral/attention-seeking) segment, they discuss a Fadhlina aide''s cringeworthy
-  birthday post claiming the minister "fell asleep in the toilet" from exhaustion
-  (Rafizi shares his own toilet-napping story from his UK audit-firm days), Najib''s
-  "self-returned bribery money" defence, a TikTok "influencer" charging RM40,000 for
-  restaurant reviews, children damaging a Deepavali kolam (blamed on parental negligence),
-  and Selangor''s plan to introduce pickleball in schools (Rafizi questions the cost-benefit
-  versus established sports). The "Standing Order" segment reviews parliamentary questions
-  on the RMK-13 education reform (lowering school-starting age to 6, universal free
-  preschool) and the PADU data system''s role beyond RON95 subsidy targeting. The
-  lengthy "Hidup Keras" segment tackles several PAS controversies: Takiyuddin''s inflammatory
-  Masjid Rusila/Memali allegations against APMM; the Sabah High Court ruling on 40%
-  revenue return and its complex legal, fiscal and federal-state implications ahead
-  of the Sabah state election; Hadi Awang''s Dinar-vs-USD proposal and PAS''s economic
-  management shortcomings; PM Anwar''s public rebuke of developers over school provision
-  in mega housing projects (which Rafizi argues misunderstands planning approval processes);
-  Nik Mohamad Abduh/Marzuk Syahri''s racially charged Palestine-Malaysia comparison;
-  and a PAS MP''s ECRL-vs-Penang-LRT funding complaint (countered with ECRL''s RM84
-  billion cost). World news covers Singapore''s backlash against PAS leaders endorsing
-  Workers'' Party Malay candidates, the Louvre jewellery heist as a symbol of French
-  decline, and Japan''s new right-leaning, anti-immigration female PM. A rapid-fire
-  segment covers "rainbow chip" semiconductor technology and skin-cell-to-egg fertility
-  breakthroughs. Listener questions close the show, covering Liverpool''s poor form,
-  cheap/counterfeit Chinese e-commerce imports hurting local businesses, how to effectively
-  report misconduct to integrity units, and how to sustain education reform across
-  changing governments.'
+summary: 'Episode 19 of "Podcast Yang Berhenti Menteri" features Rafizi with his regular
+  co-hosts/moderators running through several recurring segments. In the "Beria" (viral/attention-seeking)
+  segment, they discuss a Fadhlina aide''s cringeworthy birthday post claiming the
+  minister "fell asleep in the toilet" from exhaustion (Rafizi shares his own toilet-napping
+  story from his UK audit-firm days), Najib''s "self-returned bribery money" defence,
+  a TikTok "influencer" charging RM40,000 for restaurant reviews, children damaging
+  a Deepavali kolam (blamed on parental negligence), and Selangor''s plan to introduce
+  pickleball in schools (Rafizi questions the cost-benefit versus established sports).
+  The "Standing Order" segment reviews parliamentary questions on the RMK-13 education
+  reform (lowering school-starting age to 6, universal free preschool) and the PADU
+  data system''s role beyond RON95 subsidy targeting. The lengthy "Hidup Keras" segment
+  tackles several PAS controversies: Takiyuddin''s inflammatory Masjid Rusila/Memali
+  allegations against APMM; the Sabah High Court ruling on 40% revenue return and
+  its complex legal, fiscal and federal-state implications ahead of the Sabah state
+  election; Hadi Awang''s Dinar-vs-USD proposal and PAS''s economic management shortcomings;
+  PM Anwar''s public rebuke of developers over school provision in mega housing projects
+  (which Rafizi argues misunderstands planning approval processes); Nik Mohamad Abduh/Marzuk
+  Syahri''s racially charged Palestine-Malaysia comparison; and a PAS MP''s ECRL-vs-Penang-LRT
+  funding complaint (countered with ECRL''s RM84 billion cost). World news covers
+  Singapore''s backlash against PAS leaders endorsing Workers'' Party Malay candidates,
+  the Louvre jewellery heist as a symbol of French decline, and Japan''s new right-leaning,
+  anti-immigration female PM. A rapid-fire segment covers "rainbow chip" semiconductor
+  technology and skin-cell-to-egg fertility breakthroughs. Listener questions close
+  the show, covering Liverpool''s poor form, cheap/counterfeit Chinese e-commerce
+  imports hurting local businesses, how to effectively report misconduct to integrity
+  units, and how to sustain education reform across changing governments.'
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
@@ -73,231 +71,231 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Host:** Assalamualaikum and welcome to all who are watching Podcast Yang Berhenti Menteri, episode 19. Before we start with the usual segment, there are people asking in the comments — I saw YB. Yes, so YB, you changed. That's one thing. But one more thing, YB — he asked, why does YB Raf like to wear batik clothes every Friday?
+**Haziq:** Assalamualaikum and welcome to all who are watching Podcast Yang Berhenti Menteri, episode 19. Before we start with the usual segment, there are people asking in the comments — I saw YB. Yes, so YB, you changed. That's one thing. But one more thing, YB — he asked, why does YB Raf like to wear batik clothes every Friday?
 
 **Rafizi:** It's because when I was in government, there were a lot of batik clothes. So if you don't wear batik clothes, it's a loss. If not, I'd be wearing t-shirts all the time.
 
-**Host:** Okay, YB, that's the answer. Let's move on to the regular segment, YB.
+**Haziq:** Okay, YB, that's the answer. Let's move on to the regular segment, YB.
 
-**Host:** Let's move to the segment — so what changed just now?
+**Haziq:** Let's move to the segment — so what changed just now?
 
-**Co-host:** What changed? Change of moderator, YB will decide.
+**Haziq:** What changed? Change of moderator, YB will decide.
 
-**Host:** I'm scared.
+**Haziq:** I'm scared.
 
-**Co-host:** Okay, the first segment, YB, Beria Mat [The Show-Off Segment]. As usual, people who show off. But it's not really about showing off, maybe we also want to highlight some current issues, apart from politics too. Let's look at the first one — Beria. Okay, this one's political. Head of Srikandi [PKR women's wing] tells of the Education Minister's sacrifices. Did YB notice?
+**Haziq:** Okay, the first segment, YB, Beria Mat [The Show-Off Segment]. As usual, people who show off. But it's not really about showing off, maybe we also want to highlight some current issues, apart from politics too. Let's look at the first one — Beria. Okay, this one's political. Head of Srikandi [PKR women's wing] tells of the Education Minister's sacrifices. Did YB notice?
 
 **Rafizi:** Minister of Education?
 
-**Co-host:** Eh, Minister of Education.
+**Haziq:** Eh, Minister of Education.
 
 **Rafizi:** Minister of Education.
 
-**Co-host:** Minister of Education, haa, typo here.
+**Haziq:** Minister of Education, haa, typo here.
 
-**Host:** Haa, she wished YB happy birthday, but she also told a story about being tired and looking tired, falling asleep in the toilet.
+**Haziq:** Haa, she wished YB happy birthday, but she also told a story about being tired and looking tired, falling asleep in the toilet.
 
 **Rafizi:** I haven't read this posting, but it's already been deleted, it's already become a meme among netizens, she got hit for it.
 
-**Host:** Apart from the ministry's programme... what does "selamat meranum usia" mean? Happy birthday — "meranum," "meranum."
+**Haziq:** Apart from the ministry's programme... what does "selamat meranum usia" mean? Happy birthday — "meranum," "meranum."
 
 **Rafizi:** First time hearing that, right?
 
-**Host:** Where did she say that — fell asleep in the toilet?
+**Haziq:** Where did she say that — fell asleep in the toilet?
 
-**Co-host:** "Once fell asleep in the toilet due to being too exhausted but never complained."
+**Haziq:** "Once fell asleep in the toilet due to being too exhausted but never complained."
 
-**Host:** Oh, once fell asleep in the toilet from being too tired. Hmm, that's tough, isn't it? This could already be reported to the Labour Department.
+**Haziq:** Oh, once fell asleep in the toilet from being too tired. Hmm, that's tough, isn't it? This could already be reported to the Labour Department.
 
 **Rafizi:** Yes, because this has become a form of mistreatment. If a worker is so exhausted from work that they fall asleep in the toilet, this really needs to be reported to the Labour Department. It's just... I've fallen asleep in the toilet before too.
 
-**Host:** Okay.
+**Haziq:** Okay.
 
 **Rafizi:** When I first started working in the UK. But — my experience is that I fell asleep in the toilet when I was working, not because I was tired, but because I was bored with the office. So I'd go and sit in the toilet.
 
-**Host:** Oh, you've done that before?
+**Haziq:** Oh, you've done that before?
 
 **Rafizi:** Yes. It's a bit embarrassing, but I'll explain. In my first two months of working — I had an engineering degree — and at an accounting firm, an audit firm in the UK, they take anyone, they don't care about your background. So I didn't understand a lot of things about accounting. It was boring, sometimes I got stuck. It's not like in Malaysia where you can go outside since it's cold, winter you know. So the only place you could escape from people — and it has a heater, the toilet does. So I've sat in a boring toilet until I fell asleep. So maybe if this minister fell asleep in the toilet, it's not because she's tired physically, but because she's bored and tired mentally. I don't know how it really was — maybe she really is exhausted. But it's risky to post something like this, because netizens will say, if you're that tired and stressed that you fall asleep in the toilet, maybe it's time to give up.
 
-**Host:** Okay, good, spicy. Let's see what we have next.
+**Haziq:** Okay, good, spicy. Let's see what we have next.
 
-**Co-host:** What did he return, boss? Here he himself says he's the only money launderer in history who returned the bribe money back to the original account.
+**Haziq:** What did he return, boss? Here he himself says he's the only money launderer in history who returned the bribe money back to the original account.
 
 **Rafizi:** Yeah, that's cynical and also sarcastic in his defence's argument, right. It's just, this is dangerous, we shouldn't normalise taking money and then returning it afterward — because this has happened several times already, right. Take the money, return it, pay the compound, done. I don't even know what to say when he says he returned it after getting Bank Negara's approval. Well, sometimes I'm reminded, in the case of Datuk Seri Najib, the 1MDB case. Actually the public has already divided into certain groups who have decided that this is a major violation, and that has been translated in two actual elections — the 2018 election and the 2022 election. So based on that, in my view, the majority of the public has already made a decision and judged for themselves based on the arguments that Datuk Seri Najib himself has given, including this one. Because in the years before that too, before Barisan Nasional lost in 2018, the argument given was indeed that the money had been returned. So in the court of public opinion, this matter has indeed not been accepted. In the court of law, we'll have to see how that goes. But perhaps Dato' Seri Najib is too embarrassed to use the same argument. If this argument has already been rejected — it's now been almost 7 years, actually almost 10 years this argument has been rejected by the public and the country since 2016 — he's embarrassed to use the same argument when going to court.
 
-**Host:** Okay, okay, YB. Refusing — for boss, let's look at the others. Influencer, RM40,000 for free food. Don't play around, she has 40,000 followers on TikTok. How many does YB have?
+**Haziq:** Okay, okay, YB. Refusing — for boss, let's look at the others. Influencer, RM40,000 for free food. Don't play around, she has 40,000 followers on TikTok. How many does YB have?
 
 **Rafizi:** I already have RM300,000.
 
-**Host:** How many times have you gotten free food?
+**Haziq:** How many times have you gotten free food?
 
 **Rafizi:** I should actually be able to get free food more often. I do get free food often, but not because I'm an influencer. I usually eat alone at my mother's shop. When it's time to pay, someone would pay for me, but I don't know who paid. It's happened before, they paid and then left a small note at the counter, behind the receipt for the bill they paid.
 
-**Host:** So if you want free food, you don't need to be an influencer. But there really are a lot of influencers now, around 40,000. What's the actual definition of an influencer? I don't think there's any body that defines it — as long as people feel they can claim the label.
+**Haziq:** So if you want free food, you don't need to be an influencer. But there really are a lot of influencers now, around 40,000. What's the actual definition of an influencer? I don't think there's any body that defines it — as long as people feel they can claim the label.
 
-**Co-host:** Or is she actually a food reviewer?
+**Haziq:** Or is she actually a food reviewer?
 
 **Rafizi:** Yeah, yeah, yeah, maybe. Maybe a food reviewer who goes to shops, tastes the food to do a review. She's a food reviewer.
 
-**Host:** So many people do food reviews at mamak stalls, there are also a lot of people doing reviews of instant Maggi noodles walking around too. But this is the wrong kind of shop for a mamak stall — mamak stalls usually, if they're thriving, they already have their own customer base, so they don't depend much on influencers.
+**Haziq:** So many people do food reviews at mamak stalls, there are also a lot of people doing reviews of instant Maggi noodles walking around too. But this is the wrong kind of shop for a mamak stall — mamak stalls usually, if they're thriving, they already have their own customer base, so they don't depend much on influencers.
 
 **Rafizi:** And I'm also torn about this kind of promotion from influencers, because the risk is that when they do a review it might spike, but if you're not careful, the people who visit are only there to try it out, they're not repeat customers, they won't come back. So if I were running a business, I'd be quite cautious about relying on food reviews or so-called influencers.
 
-**Host:** Hmm, she doesn't get free food then. Never mind, tell her to come review our podcast, I'll treat her.
+**Haziq:** Hmm, she doesn't get free food then. Never mind, tell her to come review our podcast, I'll treat her.
 
 **Rafizi:** Sure, sure, sure.
 
-**Host:** Okay baby, there's more here. At Pavali... where is this?
+**Haziq:** Okay baby, there's more here. At Pavali... where is this?
 
-**Co-host:** They said it's near Penang?
+**Haziq:** They said it's near Penang?
 
-**Host:** Went viral on social media, some children damaged a pond set up for Deepavali. Didn't anyone go and tell them off?
+**Haziq:** Went viral on social media, some children damaged a pond set up for Deepavali. Didn't anyone go and tell them off?
 
-**Co-host:** Video — someone took a picture, the parents too. They made a video, they didn't tell the children off. But...
+**Haziq:** Video — someone took a picture, the parents too. They made a video, they didn't tell the children off. But...
 
 **Rafizi:** Yeah, this isn't the children's fault. This should be on the parents — if we have children, we need to make sure, one, it's dangerous if our children sit around and do things that are foreign to us. Nowadays, if you look at it, many parents don't know where their children are. One, it's dangerous. Another thing, the children don't understand anything. If parents don't talk, don't watch, they end up like this. It's just that maybe the children don't understand the meaning of Deepavali decorations, the Deepavali pond, all of this. So this fault is 100% the parents' fault.
 
-**Host:** 100%. Good, good, good. But yeah, so does YB mean the children's destructive behaviour wasn't literally like that?
+**Haziq:** 100%. Good, good, good. But yeah, so does YB mean the children's destructive behaviour wasn't literally like that?
 
 **Rafizi:** No, I don't think it's literally like that. Whatever happened, there's a reason for it.
 
-**Host:** But the video meant beria — beria of whom? Beria of the person who took the video or beria of the parents?
+**Haziq:** But the video meant beria — beria of whom? Beria of the person who took the video or beria of the parents?
 
-**Co-host:** Could be beria of the person who took the video, could be beria of the parents who did that. Since we don't know why we chose them for the beria segment, we can't give a star rating. Regards to their parents. Sorry.
+**Haziq:** Could be beria of the person who took the video, could be beria of the parents who did that. Since we don't know why we chose them for the beria segment, we can't give a star rating. Regards to their parents. Sorry.
 
-**Host:** And okay, we have the last one, sir. There it is — Selangor wants to introduce pickleball. Have you played pickleball before?
+**Haziq:** And okay, we have the last one, sir. There it is — Selangor wants to introduce pickleball. Have you played pickleball before?
 
 **Rafizi:** Yes, but I only played once with YB Akmal. After that he got frustrated with me and I stopped playing.
 
-**Host:** Frustrated because you're not good at playing pickleball?
+**Haziq:** Frustrated because you're not good at playing pickleball?
 
 **Rafizi:** Akmal had never played squash with me before that. Okay, that's history.
 
-**Host:** Pickleball is a combination of tennis, ping pong — maybe not squash, but the skills are more or less similar. More like tennis and ping pong. Have you played?
+**Haziq:** Pickleball is a combination of tennis, ping pong — maybe not squash, but the skills are more or less similar. More like tennis and ping pong. Have you played?
 
-**Co-host:** Not yet, because I noticed — I know I'm already old.
+**Haziq:** Not yet, because I noticed — I know I'm already old.
 
-**Host:** Hmm, right, or YB Haters, right, does he have, does he have Haters?
+**Haziq:** Hmm, right, or YB Haters, right, does he have, does he have Haters?
 
-**Co-host:** No, I think I enjoy playing court games. No, it's really good, but I've tried various types, I've played tennis before. If you go to my house, there's all sorts — tennis rackets, squash rackets, badminton rackets. Back when I was in school in Scotland, with the Mat Salleh, they played at school, following the seasons. If it's winter through spring — sorry, autumn to winter, autumn through winter — you had to choose either playing hockey or playing rugby. So all of us Malays played hockey, we couldn't handle playing rugby, we'd get beaten up by the Mat Salleh, right. Then spring through summer, either cricket or tennis, so the Malays played tennis, because the Mat Salleh were really good at cricket. So I want to try pickleball one day.
+**Haziq:** No, I think I enjoy playing court games. No, it's really good, but I've tried various types, I've played tennis before. If you go to my house, there's all sorts — tennis rackets, squash rackets, badminton rackets. Back when I was in school in Scotland, with the Mat Salleh, they played at school, following the seasons. If it's winter through spring — sorry, autumn to winter, autumn through winter — you had to choose either playing hockey or playing rugby. So all of us Malays played hockey, we couldn't handle playing rugby, we'd get beaten up by the Mat Salleh, right. Then spring through summer, either cricket or tennis, so the Malays played tennis, because the Mat Salleh were really good at cricket. So I want to try pickleball one day.
 
 **Rafizi:** But maybe it doesn't need to be introduced to all schools in Selangor, because pickleball right now, let it become popular organically. How much does a pickleball racket cost? Quite expensive too, around RM60.
 
-**Co-host:** RM100, RM130, RM220.
+**Haziq:** RM100, RM130, RM220.
 
 **Rafizi:** So if I were to comment, when the Selangor government wants to introduce this pickleball, one thing we all know is that the government's financial resources are limited. So wouldn't it be better if those resources were channelled to sports that already have a solid standing in Malaysia, that have long been in schools for decades — including primary schools, like football, hockey, rugby, basketball, volleyball. These are competitions at local schools. Then, perhaps what needs to be considered is, if it's introduced and becomes a programme, then funding will be used. But if it's children who want to play, if families are forced to spend hundreds of ringgit, it could become a burden to the family. But this is actually our attitude too — we always have new fads to follow, if we follow the Westerners. I think Einstein once said — Einstein once said, it's not that I'm smarter, I just stay with the problem longer. So sometimes as a society, we don't have the ability to stick with something, fix it, solve the problem, before we move on to a new hype. Even though it's difficult, if we're not careful, something like pickleball, what we bring in doesn't get achieved, what we chase after doesn't get achieved, what we bring in becomes chaotic. So I don't understand why — beria. Never mind, maybe I should go play pickleball. My office kids play pickleball, every two weeks there's a session. They go, it looks fun, right. It's just that I know I'm old, because those office kids are all in their early 20s. If I want to go butt in there, I'd feel awkward, since I'm nearly 50 now. Maybe I'll play once, and maybe after that I'll be super enthusiastic in supporting the Selangor government — Selangor here meaning the Selangor state government — and also gradually.
 
-**Host:** Okay, good. That's the beria segment — let's do the rating.
+**Haziq:** Okay, good. That's the beria segment — let's do the rating.
 
-**Co-host:** Rating, let's look back at what it is — oh rating, this one's clear, rating — reporting to the Labour Department for falling asleep in the toilet, this one gets a rating of five. No, it's actually not Fadlina, this is Nur Hidayah Cik Ros, who was overly enthusiastic, you know, an officer of Fadlina's.
+**Haziq:** Rating, let's look back at what it is — oh rating, this one's clear, rating — reporting to the Labour Department for falling asleep in the toilet, this one gets a rating of five. No, it's actually not Fadlina, this is Nur Hidayah Cik Ros, who was overly enthusiastic, you know, an officer of Fadlina's.
 
 **Rafizi:** But this really shouldn't happen. If I had an officer make a posting like this, I'd really get hit for it, right — I'd get hit for it, I would penalise that officer, because they're not helping. This is Nur Hidayah Cik Ros, Fadlina's officer from before, right, within PKR. But YB really doesn't like officers who kowtow to YB, meaning —
 
-**Host:** We sign up for the job.
+**Haziq:** We sign up for the job.
 
 **Rafizi:** So the officer's job is to make sure that — when I say "the minister" I mean the minister's office, not the minister's physical body — succeeds in carrying out their duties well. And these officers will never say their minister isn't good, of course they'll say their minister is good. So there's no need for officers to say anything. The quality of an officer is whether they succeed in making things easier and helping their minister do a good job, not helping to hype up the minister.
 
-**Host:** Good, good, good.
+**Haziq:** Good, good, good.
 
 **Rafizi:** But I want to continue on this. This is what I always tease about within PKR — when we let go of this culture of being a slave, we let go, this is how it is. Everyone knows Nur Hidayah Cik Ros is devoted to Fadlina, and she's also like Fadlina's own child. So because we allow that culture, a lot of flattery, a lot of hyping up whoever is close to us and good at flattering — that's what we end up seeing in the end. This isn't only spreading within the party, it's spreading within the government too, and in the end it becomes a meme that the public laughs at like this. But I'll give her 5.5 stars.
 
-**Host:** 5.5? Very generous.
+**Haziq:** 5.5? Very generous.
 
 **Rafizi:** Generous this time.
 
-**Host:** Okay, good, good, good. I think the rest is clear. Let's move on to the next segment, Standing Order. It's just that maybe this time — Parliament was only two days, YB, Wednesday and Thursday, and it got heated —
+**Haziq:** Okay, good, good, good. I think the rest is clear. Let's move on to the next segment, Standing Order. It's just that maybe this time — Parliament was only two days, YB, Wednesday and Thursday, and it got heated —
 
-**Co-host:** — over accusations of cheating. Cheating. But we have a segment that's tough, because it really is tough. Okay, so for this Standing Order, we'll review a few questions. The first question from Dato' Seri Dr. Wan Azizah Wan Ismail. Asking the Minister of Education to state the steps being taken and when preschool for age 5 and primary school for age 6 will be implemented, in line with the education reform under the 13th Malaysia Plan (RMK-13).
+**Haziq:** — over accusations of cheating. Cheating. But we have a segment that's tough, because it really is tough. Okay, so for this Standing Order, we'll review a few questions. The first question from Dato' Seri Dr. Wan Azizah Wan Ismail. Asking the Minister of Education to state the steps being taken and when preschool for age 5 and primary school for age 6 will be implemented, in line with the education reform under the 13th Malaysia Plan (RMK-13).
 
 **Rafizi:** Yes, it's good that Kak Wan asked this question because my concern before this — after RMK-13 was tabled, there were statements from the government as if the matter would still be considered, when in fact the decision had already been made in the RMK. So that's why I think this question is one we should share with the public and viewers, that the issue isn't whether it will be done or is being considered. The issue, as Kak Wan asked, is when will it start? So I've read the answer too. Every day when I go into parliament, I read all the questions from everyone. Every day, there are more than 50 questions that will be asked by everyone. The ones that make it through to be answered orally by ministers, at most around 11-12 per day. The rest, those questions will be answered in writing. The way to read the answers to the questions for each day is to go to the parliament website — under Dewan Rakyat, besides Hansard, there are also the answers. So the answer from the Ministry of Education is that there are already two task forces, and we will monitor, I will monitor too, because people always ask, right, especially the opposition — they'll say, "I made noise when I was..." Even when I was Minister of Economy before, they'd say, lazy, didn't do the job. Part of my job as Minister of Economy before was to plan major policies. And among these major policies, one of them is education reform. So my concern is that if something that has been planned, thought through and decided, this being the Ministry of Education, isn't implemented as quickly as possible. So I hope that not just me, not just Kak Wan or other members of parliament, but the public and especially educators continue to focus on this issue, because this is the biggest shift I think in decades. Because from the very beginning we started education at age seven, this is the first time we're shifting to age 6, and we want to make sure that this preschool education is provided free of charge, universally. Apart from the growth of children, the educational progress of children, it also balances out the family's cost-of-living burden — because right now preschool fees are expensive. I'm not married yet so I don't know — preschool fees are usually RM500 per child.
 
-**Host:** You mean kindergarten?
+**Haziq:** You mean kindergarten?
 
 **Rafizi:** Kindergarten. Because people ask, why not go to a government kindergarten — KEMAS. Those are only for B40. Even for B40, if you're in the B40 category, places are limited, not everyone can get in. So that's why PAS is popular with PASTI — because PASTI charges among the cheapest fees. We know why, because they don't pay their workers, the teachers there, well. So this matter too, I hope fellow members of parliament continue to focus on it for the coming years, because this isn't the Ministry of Education's responsibility alone — it's also, for example, the shared responsibility of the Ministry of Economy and the Ministry of Finance. It's also the responsibility of the Ministry of Works, for example, because to ensure this transition to starting school at age 6 can happen, and preschool education is provided universally, free of charge, many new school blocks need to be built. Schools that have unfulfilled capacity need to be converted into preschools, for example. So I'm really pleased that Kak Wan asked this question.
 
-**Host:** Good, YB. And unfortunately, unfortunately, our parliament — what makes it into TikTok, into the news, and into the public's ears is usually the shouting matches that happen in parliament. When it comes to questions related to national planning, policy, they usually stay hidden in the background and people never read them, they're never reported. This kind of change is important for the public, and this is one of them, right, okay good.
+**Haziq:** Good, YB. And unfortunately, unfortunately, our parliament — what makes it into TikTok, into the news, and into the public's ears is usually the shouting matches that happen in parliament. When it comes to questions related to national planning, policy, they usually stay hidden in the background and people never read them, they're never reported. This kind of change is important for the public, and this is one of them, right, okay good.
 
-**Co-host:** One question from Bandar Tun Razak, another from the opposition, from Hulu Terengganu — asking the Minister of Economy to state the latest development of the PADU System and what is the function of PADU in the distribution of targeted subsidies such as RON95 petrol to the public?
+**Haziq:** One question from Bandar Tun Razak, another from the opposition, from Hulu Terengganu — asking the Minister of Economy to state the latest development of the PADU System and what is the function of PADU in the distribution of targeted subsidies such as RON95 petrol to the public?
 
 **Rafizi:** This is as usual, this is an attempt by the opposition to take a shot — they shoot at everyone. One of them is that they take a shot because it caused a stir, because they say this is a failure. So I'm also interested to see what the government's answer is. Part of it I remember from my time at the Ministry of Economy, so now it's been five months, so the answer is as we planned before, because PADU isn't only for RON95 — its use cases are many. Because when we have an integrated database, that will first enable other government departments, other ministries, to make data-driven decisions. Then they can target their programmes based on data. So the answer from the Ministry of Economy is that so far — I read it earlier — there are already 17 ministries and government departments that have used it for their respective programmes. What surprised me was JKR [Public Works Department]. What does JKR do, what does it use PADU for? I don't know — maybe using PADU to look at population distribution, maybe, or to look at traffic distribution in a certain area. Ministry of Youth and Sports, PTPTN, Ministry of Higher Education...
 
-**Host:** The other agencies, YB?
+**Haziq:** The other agencies, YB?
 
 **Rafizi:** Yes, there are a lot, 17, I don't remember them all. And its answer regarding RON95, PADU is one of the databases used by the Ministry of Finance as a reference. So I think those who politicise PADU may be less knowledgeable about data-sharing within government. Even though in the public's eyes we see the government as one, the same, it's actually different — there are thousands of entities within it. So if Ministry A wants to request data from Ministry B, they can't just get it, because that depends on approval. So before this, there was a lot of bureaucracy. That's why every time something needs to be done, the system, from bottom to top — in software terms, from back end to front end. Already spent a lot of money building the back end, then to get the data they need to allocate funds for everyone to register. But if only 10,000 register, they still don't get it, when we already have tens of millions of data records — in this study it just needs to be consolidated. So I hope this continues to happen, that at some point, once there are many use cases as planned, it will enable government services, government programmes to be more integrated and more targeted than what exists now.
 
-**Host:** Good effort, thank you. That wraps up our review of parliamentary questions. Let's move to the Hidup Keras [Hard Life] segment — 19 weeks already.
+**Haziq:** Good effort, thank you. That wraps up our review of parliamentary questions. Let's move to the Hidup Keras [Hard Life] segment — 19 weeks already.
 
-**Co-host:** Honestly, I feel like life is really hard with what's tough this week. The first one is definitely from the YB for Kota Bharu. I was in parliament when he gave this speech. This one should actually be in the beria segment too, because when he spoke it was very over-the-top — from the Director General of MMEA, then from the mosque, so people were left hanging. But I want to ask, let's jump straight to the conclusion — does YB agree if the YB for Kota Bharu should be suspended for 6 months like the YB for Machang before?
+**Haziq:** Honestly, I feel like life is really hard with what's tough this week. The first one is definitely from the YB for Kota Bharu. I was in parliament when he gave this speech. This one should actually be in the beria segment too, because when he spoke it was very over-the-top — from the Director General of MMEA, then from the mosque, so people were left hanging. But I want to ask, let's jump straight to the conclusion — does YB agree if the YB for Kota Bharu should be suspended for 6 months like the YB for Machang before?
 
 **Rafizi:** Yes, that, parliament has its own process, right. To me, the question of whether to suspend or not depends on the parliamentary process, which may have no real effect on the public. But the tendency to politicise all of this, I don't know what's happened to PAS. Because the PAS I know, growing up in Terengganu — then PAS together started in the alternative front, then PAS was together in Pakatan Rakyat — the PAS I knew before wasn't the type to jump around and turn everything into a racial issue just to build hatred against the government. That's not the PAS I know. I grew up with a PAS whose campaign was "Islam for all." So tribalism, or racism or factionalism, is haram in Islam. That's the PAS I know. But lately, every single matter, when it involves PAS, they seem addicted to playing up racial issues to build this kind of anger.
 
-**Host:** Okay, so this issue — but it's not a racial issue, how so?
+**Haziq:** Okay, so this issue — but it's not a racial issue, how so?
 
 **Rafizi:** It's not far off. What I mean is, in English, appealing to the right wing — meaning messages or campaigns that are anti-establishment, anti-government. So this one has gone so far as to claim there's an attempt to create another Memali against PAS. I find it strange too — I would understand if it were the old-timers in PAS, who are genuinely angry about Memali. I was only 2 years old in 1985, I did watch the live coverage of Memali on TV at the time — maybe I didn't understand much back then. Then I remember the story of Guru Yahya, about what was called the deviant teaching. When I grew up, I understood somewhat — actually that was propaganda about Memali. YB wasn't even born yet at that time. So I understand PAS is indeed very sensitive about matters related to Memali. It's just strange, because Memali happened when the Menteri Besar of the state at that time was Tun Mahathir, who is now their advisor. So it was Tun who was once said to be responsible for the deaths of those who died at Memali — they said he caused their deaths. So reviving the story about demolition and connecting it to Masjid Rusila, as if there's some grand conspiracy trying to demolish Masjid Rusila, I think that's crossed the line. And as I said earlier, it's bad when our parliament and country have so many problems and issues that need our focus. And a senior PAS leader who was once Minister in the Prime Minister's Department (Legal Affairs) and once Minister of Energy, should have the experience and broad views on these many issues, especially those related to energy security. In the end he used his speech in parliament because maybe that would get more TikTok traction and get more internal support from PAS. I don't think there will be any government — no matter which party — that would take action involving enforcement authorities at a mosque, let alone Masjid Rusila. Besides, at Masjid Rusila, Datuk Seri Hadi Awang has given sermons and also Friday lectures there, since I was 7-8 years old — I'm 50 now, meaning that's already 40 years. There's never been any action, never — from the era of Tun Mahathir, to Datuk Seri Najib, to PH, and what's called DAP, never. So this, although quite cheap, is a campaign trial that I think is a low blow, what's it called — below the belt, that shouldn't be brought up. But what's more worrying is the tendency to jump to conclusions and turn the table on every matter, as if it has a motive or message that's overly right-wing.
 
-**Host:** Okay, that's fine.
+**Haziq:** Okay, that's fine.
 
-**Co-host:** Okay, that's enough for the — Serbu [raid], do you want to do Serbu?
+**Haziq:** Okay, that's enough for the — Serbu [raid], do you want to do Serbu?
 
-**Host:** Serbu. But when you look at the video —
+**Haziq:** Serbu. But when you look at the video —
 
-**Co-host:** Watch it, CCTV. I watched a short CCTV video — Serbu, I'm always the one who gets raided since I got caught.
+**Haziq:** Watch it, CCTV. I watched a short CCTV video — Serbu, I'm always the one who gets raided since I got caught.
 
-**Host:** Serbu, in this context, means getting caught by the police showing up suddenly, surrounding the house and so on, right.
+**Haziq:** Serbu, in this context, means getting caught by the police showing up suddenly, surrounding the house and so on, right.
 
 **Rafizi:** And if that happened, I think it's more interesting than this. We're waiting for a response from the Ministry of Home Affairs, from MMEA. But as a right-wing member of parliament — YB for Kota Bharu, Datuk Seri Takiyuddin — I don't think he should jump in and immediately throw accusations in the form of a question. He's not stating facts — because I heard that speech, the accusation was made without facts and aimed at playing with emotions. Is this an attempt to repeat what happened at Memali? Yes, so...
 
-**Host:** Good, YB, we'll wait for further response. Moving on, let's look at one more issue — the elephant in the room, also related to the High Court of Kota Kinabalu's decision that 40% of Sabah's revenue must be returned. I think this is a dilemma within a dilemma, because in this new budget, there's a lot to announce. If the government keeps appealing, I think all credibility will be lost. But if the government agrees to pay from account to account, from the federal government to the state, I'm not sure the government has the capacity. I might want to ask for YB's help — how could YB advise PMX to help him with this dilemma?
+**Haziq:** Good, YB, we'll wait for further response. Moving on, let's look at one more issue — the elephant in the room, also related to the High Court of Kota Kinabalu's decision that 40% of Sabah's revenue must be returned. I think this is a dilemma within a dilemma, because in this new budget, there's a lot to announce. If the government keeps appealing, I think all credibility will be lost. But if the government agrees to pay from account to account, from the federal government to the state, I'm not sure the government has the capacity. I might want to ask for YB's help — how could YB advise PMX to help him with this dilemma?
 
 **Rafizi:** What do you mean, you want my help to save PMX?
 
-**Host:** Hypothetical.
+**Haziq:** Hypothetical.
 
 **Rafizi:** Hypothetical, can't use that. How do we balance it, we're not connected to PMX. You're a lawyer — how much time is allowed before the deadline expires to file an appeal?
 
-**Host:** What I've read, for this case, is not very soon. We're not talking about years.
+**Haziq:** What I've read, for this case, is not very soon. We're not talking about years.
 
 **Rafizi:** It's definitely a few months, if I'm not mistaken?
 
-**Host:** Yeah, the law on this must exist, right?
+**Haziq:** Yeah, the law on this must exist, right?
 
 **Rafizi:** It can't — an appeal can't be open-ended, there must be a hard deadline. When? Because that's actually the most significant thing right now. In my view, the government will appeal, because the appeal isn't about fighting with Sabah or not, it must be based on the law. So the law, legal interpretation, the state court may have its own interpretation for the government. For example, in the early 1970s, when the Barisan Nasional government at the time didn't pay the 40% and that's continued until now, the decision in the 1970s must have been based on certain things. Contrary to popular belief, I don't think this government just violates things outright — the interpretation may differ. For example, taking the case of Sarawak, the interpretation revolves around using the Continental Shelf Act which determines the state boundary extends to three nautical miles. That interpretation, the federal government has its own view on it, right. Same goes for this constitutional matter — surely when that decision was made, there were arguments based on certain legal interpretations at that time. So surely the federal government will look at these matters, and if it's felt that there's a different interpretation that could be used as a tool for appeal, the government will appeal. I think the government will appeal. The issue is the Sabah state election, which will take place at the end of November. So that's why I ask, what's the timeframe for appeal?
 
-**Host:** It varies by case.
+**Haziq:** It varies by case.
 
 **Rafizi:** Who is it? Surely not Abdi... eh, now let me ask, Haziq has a law degree from University of Malaya, from University of Malaya lecturers, let's check now. Okay, so when? That's really there. That's under which act?
 
-**Host:** If it's a civil case, the procedure is called civil procedure. Again, we're talking about the issue, right? If the issue relates to, for example, debt, then it's already six years — at that time, right? So if it's another issue — no, that's actually, what's it called?
+**Haziq:** If it's a civil case, the procedure is called civil procedure. Again, we're talking about the issue, right? If the issue relates to, for example, debt, then it's already six years — at that time, right? So if it's another issue — no, that's actually, what's it called?
 
 **Rafizi:** Statute of limitation?
 
-**Host:** Yes.
+**Haziq:** Yes.
 
 **Rafizi:** This isn't a statute of limitation. This means a judgment has been issued, and once that judgment is out, there must be a set time period — if you don't appeal within that period, it's considered expired, you can't appeal anymore.
 
-**Host:** But never mind, okay. So here's my guess.
+**Haziq:** But never mind, okay. So here's my guess.
 
 **Rafizi:** Hypothetically, the period to appeal is after the Sabah state election. So the appeal will be filed after the Sabah state election, and it will go to the Court of Appeal. And these are matters related to constitutional interpretation, and it will — it will take its course. The federal government's difficulty now is that, politically, if it appeals now, it's confirmed to be a disaster — it will become a huge issue in Sabah. One other side of the issue is that the 40% is federal government revenue collected from Sabah. So far, the Prime Minister's statement is that starting from 2022 until now, the total allocation to Sabah has already exceeded the total federal government collection in Sabah. That's why, when I was minister — in my view, it's better for us to be transparent about everything. Meaning we share this data and announce it to the public — data on how much revenue is collected, how many projects are approved, how much expenditure by parliamentary constituency — we announce it all, so it doesn't become a matter of dispute. But there's a view within the government that feels that if that's done, the situation would become even more heated, because actually the revenue collection from states across Malaysia isn't uniform — it would create a situation where the majority of taxpayers are concentrated in only a few states, in the Federal Territory, in Selangor, in Penang, in Johor — states with more advanced economies. So in this situation, our constitution establishes that we have the Federal List, Concurrent List, and also the State List. What I'm less clear on is, when Malaysia was formed, and also the agreements including those under the provisions of the Federal Constitution — when it's said that 40% of revenue from Sabah, does that mean it's a cash transfer that must be paid by the federal government over and above existing allocations — over and above the allocations paid by the federal government to cover services and also infrastructure and also salaries under the Federal List and also the Concurrent List. I think there are also differing views on this. Because if the view, for example, from the Deputy President of UPKO after Dato' Seri Anwar presented in parliament that the revenue from Sabah is actually less than what's been approved by the government, and the government has given the largest allocation to Sabah every year compared to other states — the answer from UPKO's side is, the approval we're asking for is over and above. So I need to look into whether this 40% approval means over and above or not, because there's a big difference. For example, in the current situation, where revenue collection from Sabah is less than what's spent by the federal government for Sabah, then if the federal government takes the position that we will pay according to that 40%, that also means that the allocations previously channelled through various departments and projects based on the lists, especially the Concurrent List, and perhaps also the Federal List, will then have to be borne by Sabah, and Sabah will have a problem. Let me give a good example — one I know Sabahans find less popular when I mention it. The question is about electricity supply in Sabah, for example. As a matter of principle, whoever — whether a state, or a body, or a board — has full regulatory control over something, then that responsibility must be borne by that body. So take this example — electricity control in the Peninsula is done by the Energy Commission. So the Energy Commission sets the tariff, and also the government and parliament are responsible for building infrastructure like power plants, grids and so on, because it's paid for through the tariff set by the Energy Commission. So you control it end to end. In Sarawak, electricity control is under Sarawak. In Sabah, it's under Sabah. But in Sabah's case, for example, electricity control is fully under the Sabah state government, but investment has to be paid for by the central government.
 
-**Host:** Only in Sabah?
+**Haziq:** Only in Sabah?
 
 **Rafizi:** That's what's being questioned now. Especially related to the Southern Link, which requires a grid connecting Sabah's west coast and east coast. So the state government is asking for allocation to build that grid. For example, the Sabah government sets its own electricity tariff — different from the Peninsula — and they also set the gas tariff, gas prices, all of that. So from the public's perspective, for example, people in the Peninsula would say, why do we need to pay more tax for us to bear something that's fully under the jurisdiction and control of the Sabah state government, especially if the tariff set is too low and needs heavy subsidies, whereas electricity tariffs in the Peninsula, subsidies have been targeted because gas prices have risen, tariffs have risen and so on. So it's actually quite complicated. So if the position is that with the 40% of revenue that needs to be paid to the Sabah government, then the Sabah government will use that to implement things under its own control. And there's a possibility that the allocation isn't even enough, because revenue from Sabah might — as we know, revenue from Sabah is indeed less than what's quoted by the government. So if the government quotes RM10 billion in annual revenue, the revenue quoted is RM13 billion, that's only the difference between development expenditure and operating expenditure — there's a shortfall of RM3 billion. So if you give 40% of RM10 billion, RM4 billion paid directly, that means the Sabah government, one, has to find a way with that RM4 billion to cover anything no longer directly allocated by the federal government. Another side, I think many in Sabah also assume that all past arrears need to be paid. So that's what needs to be argued in court later if there's an appeal. But in my view, I think the federal government will find a way to file an appeal. It's just that for the appeal, if I recall correctly, it's 30 days.
 
-**Host:** Haa, right. Very complicated — because the Sabah election is on 30 November.
+**Haziq:** Haa, right. Very complicated — because the Sabah election is on 30 November.
 
 **Rafizi:** When?
 
-**Host:** 20 November, 27, something like that. So the time for the 30-day window will end before the Sabah election, to file the appeal.
+**Haziq:** 20 November, 27, something like that. So the time for the 30-day window will end before the Sabah election, to file the appeal.
 
 **Rafizi:** To file the appeal. So let's wait and eat popcorn. But as I mentioned earlier, this matter is complicated, right, and it's indeed easy for the people of Sabah or Sabah politicians to take a position that might not take the whole picture into account. It's indeed easy, populist, for us to say it's clear cut, black and white. It's actually, in my view, more complicated, because if the relationship between the federal government and state government doesn't have give and take in the spirit of federalism — if we want to follow a hundred percent to each side's own interpretation, it will become extreme like that. It will become, the good things we can give, but the rest we can't afford, so there will be no more direct allocations. As an example, small infrastructure, right — I've mentioned before, I think in previous podcasts, right, almost all Local Authorities, District Councils, all of these across the whole country — not just in Sabah — actually don't even have money to build drains. All of that is financed by the federal government channelled through the Ministry of Economy — that's what we did, IKR, Inisiatif Kemudahan Rakyat [People's Facilities Initiative], we give direct grants, small projects to District Councils, right. And among many states, for small projects, the largest allocation goes to Sabah — a year roughly RM250 million to RM290 million, I think, when I was minister. This is a direct allocation from the federal government. So these are examples of avenues the federal government side may need to consider to balance the need to pay this 40%, and the ones who will end up as victims either way are the people of Sabah state — because you may gain from this but you lose from that.
 
-**Host:** Good, YB. Okay, we've been here an hour. If we could look at the next issue — we have YB's counterattack, reprimanding Tan Sri Abdul Hadi Awang regarding the use of the Dinar to replace the USD. So the advice that was given, while in the time of Tun Mahathir, there was a D8 alliance that wanted to use the Dinar as a trading instrument between Islamic countries. And in 2023, the Prime Minister also stated in parliament that he would consider using the Dinar as a state reserve. So how does YB want to respond to that?
+**Haziq:** Good, YB. Okay, we've been here an hour. If we could look at the next issue — we have YB's counterattack, reprimanding Tan Sri Abdul Hadi Awang regarding the use of the Dinar to replace the USD. So the advice that was given, while in the time of Tun Mahathir, there was a D8 alliance that wanted to use the Dinar as a trading instrument between Islamic countries. And in 2023, the Prime Minister also stated in parliament that he would consider using the Dinar as a state reserve. So how does YB want to respond to that?
 
-**Host:** The one who brought this up, Nurul Islam, owes me something.
+**Haziq:** The one who brought this up, Nurul Islam, owes me something.
 
 **Rafizi:** Yeah. Before, I remember him as a PAS youth activist. This was 2012, I think. At that time... it's very popular with PAS because I was needed to give a lecture. Because if the lecture is PAS, it's the same issue. But when PKR came, we had a lot of issues — the issue of NFC, the issue of scandals, everything. So PAS people liked it. So at that time, he was still young, I remember. He also had a hard time inviting me. He pestered me to attend a forum that he and his friend organised — I remember it was somewhere in KL — anyway I went. I left behind an expensive file folder someone had once given me, a Montblanc folder. It's with him. Give me back my Montblanc folder. Give it back. After 13 years, still remember it. Fine.
 
-**Host:** YB, yes, criticized Tan Sri Tuan Guru Haji Abdul Hadi for changing the use of Dinar instead of USD. But the counter-argument came back — oh, this was raised first, Mahathir discussed it. But this is different, he said, this is looking for a scapegoat. That's the argument from our learned friend, YB.
+**Haziq:** YB, yes, criticized Tan Sri Tuan Guru Haji Abdul Hadi for changing the use of Dinar instead of USD. But the counter-argument came back — oh, this was raised first, Mahathir discussed it. But this is different, he said, this is looking for a scapegoat. That's the argument from our learned friend, YB.
 
 **Rafizi:** Yeah, when he can't answer, he attacks personally. And this argument usually comes a lot from either the loyalists or the obligated ones, from as far back as 2018 — the ones who will say you're no longer relevant, serves you right. Actually I remember back in 2018, when I made the decision to withdraw from politics and so on, it was all the same argument. Looking for a lifeline, no longer relevant now, deserve to be kicked out of the party, serves you right, and so on. But those who hurled abuse like that — when PKR, Pakatan Harapan managed to form the government in 2022, they didn't come and say "oh no, he's still around." After they had done sacks-full of sinning by hurling abuse, 3-4 years later suddenly I'm still around, and Alhamdulillah, in an even better position too. So arguments like this — if they don't have the capital, they will attack personally. Or, I also think it's good, meaning that their political perspective is 100% from their party's understanding. For example, UMNO, or in PAS for example — because of that, they have to kiss the top people's hands 100%, and it's hard for them to speak freely, let alone criticize their own leadership. Because when they are no longer in the structure or the leadership of the party, for example, they don't have a place. And they stay within the party leadership structure hoping that when there's a position in the party, if their party is in power, they will get a share. His position, I recall, was appointed as PAS's chief thinker — a bit lower than Baco who's the economics expert. Sometimes that's why their attacks are like that — lifeline, not relevant, failed loser, all that. Actually the people can see and judge for themselves.
 
@@ -313,13 +311,13 @@ So, finally, I need to play my role to enable the people to make an objective as
 
 The good thing is, I think only the true loyalists really believe in this. The people will still be able to compare because we've — we tried it once, we've experienced it, yes, 33 months. And at that time, I recall, among those who spent the most time in hiding — well, PAS's main supporters, including him perhaps — because he couldn't answer on behalf of PAS's ministers. What I remember are a few things: Tuan Ibrahim Tuan Man, the minister responsible for the environment, when asked in parliament, his answer was that climate change doesn't apply to us, so we don't need to worry. So we've had that experience, and my advice to PAS, to Malaysians — if it's fated that PAS becomes the government one day, if after GE16 they become the government — has PAS been preparing their leaders for two years to be able to handle the complicated issues that I mentioned earlier? The doctrine and culture in PAS states that the right-wing leaders who are educated in religion do not need to know about administration because we can direct people who will kiss our hands. That's what eventually became like Sanusi in Kedah — "I just read it, I can't do it," a minister must make decisions, if a minister just reads, this country is ruined.
 
-**Host:** But the use of Dinar to replace USD, that's his idea.
+**Haziq:** But the use of Dinar to replace USD, that's his idea.
 
 **Rafizi:** Yes, Dinar replacing USD, for example. Nice to hear, but not very practical for now. If not, countries like Russia and BRICS which are more economically capable, they would have already been able to use their own currencies. That's why the steps we need to take must be more pragmatic and realistic. For example, the backbone of the world's monetary system is based on the dollar. When I say backbone, it's not just about the dollar alone — the entire money transfer is based on the dollar, the clearing system is based on the dollar. Because if you want to challenge that, the only country that actually has the economic and financial capabilities that can challenge the dollar is China. But China is still careful in that situation because they know it's not easy to build an international banking system that is inter-related — including all of these, the clearing system, the transfer system — which is different from the existing dollar system.
 
 Because of that, the pragmatic step has to go through the same way. For example, if Malaysia trades with China, then we don't need to use the dollar — our transactions are either in Ringgit or Yuan. If it's Malaysia and Saudi Arabia, if we can be sure, we can use whichever, whether it's Ringgit or Riyal, for example, right? So that step is more pragmatic and realistic than the political rhetoric of "let's use Dinar, let's use this and that." Because Malaysia is a small country — we're not, we're not Saudi Arabia either. So what usually happens is this rhetoric in Marang, in the villages in Marang, in the coffee shops — that's what I mean, it sounds nice, there's a coffee shop, sounds great, all sounds impressive, sounds good. But there's a reason why that thing, even Saudi Arabia, up until now, even China, even Japan, still haven't been able to do.
 
-**Host:** Okay YB, clear, thank you for wrapping up Tan Sri Abdul Hadi Awang's idea. Let's move to the next issue. This is related to the PM's speech — we hit everyone, we hit PAS, now the PM has to be hit too. At the Aman Damai residence. Maybe let me explain, I'm afraid people don't understand — besides, those listening on Spotify don't watch, they're jogging, so I really need to explain what it is. So PMX advised that mega housing projects, 3,500 units and above, must provide schools and kindergartens. So he directly commented on this in his speech, he said in fact if this project isn't done, another block must be delayed until this condition is fulfilled — in fact he singled out the planning director for not completing it. So just, YB, my question — but I have to tell you upfront, in the TikTok video, specific for this video, the response from the public is quite good, there is no PMX approach [criticism]. But what is YB's opinion with the way PM interjects like this? Is there an adverse effect, or is it a good thing that we welcome once?
+**Haziq:** Okay YB, clear, thank you for wrapping up Tan Sri Abdul Hadi Awang's idea. Let's move to the next issue. This is related to the PM's speech — we hit everyone, we hit PAS, now the PM has to be hit too. At the Aman Damai residence. Maybe let me explain, I'm afraid people don't understand — besides, those listening on Spotify don't watch, they're jogging, so I really need to explain what it is. So PMX advised that mega housing projects, 3,500 units and above, must provide schools and kindergartens. So he directly commented on this in his speech, he said in fact if this project isn't done, another block must be delayed until this condition is fulfilled — in fact he singled out the planning director for not completing it. So just, YB, my question — but I have to tell you upfront, in the TikTok video, specific for this video, the response from the public is quite good, there is no PMX approach [criticism]. But what is YB's opinion with the way PM interjects like this? Is there an adverse effect, or is it a good thing that we welcome once?
 
 **Rafizi:** My concern is that... I'm not sure, I watched this video, the PM reprimanded as if it's the developer who doesn't want to do this, and as if the responsibility of providing schools and kindergartens is entirely the developer's responsibility. What I'm not sure is whether it's a gimmick of PM's politics — because as Haziq said earlier, he's popular with the people — or he's not clear about the administration process. Because before a project is approved, whether it's a high-rise housing project like this or terrace houses, what's the process? We have to get the right to plan — kebenaran merancang. If not, we can't build it. What does the right to plan refer to? It can't be that every city council decides on its own what's suitable for what should be built there — it's a decision of suitability, how is it laid out, what's there, what does it refer to. It refers to several things. One, it refers to the local plan. Okay. It can't be, for example, if before it's approved, the land there is for example for recreation, and it has to go through a process if they want to change the land conditions — they have to consider that there will be objections because this land has been zoned for purpose A, purpose B, you can't just change it arbitrarily — and also the standards set by Plan Malaysia. Plan Malaysia is an agency under KPKT, under the federal government, which sets urban planning standards.
 
@@ -329,31 +327,31 @@ So if I were a developer, actually the government cannot arbitrarily instruct "I
 
 If the private sector wants to make it easy when asked to do this, they can do it, but what happens in the end? It will be included in the cost — the price of the house will be higher. And even if a school is built, it cannot have a teacher — the school still needs to be handed over to the government. So because of that, I don't understand why the PM wants to show it so hands-on and firm, as a directive — or is it that he is not sure of his own process? I'm not sure of that. Or I don't know, but maybe in reality, it's usually if a developer wants to ask for the right to plan from the PBT (local authority), sometimes PBT asks for a negotiation — "please add this a little, add that a little, if not, I won't pass."
 
-**Host:** YB, or how?
+**Haziq:** YB, or how?
 
 **Rafizi:** No, it goes through a process. So there's a one-stop centre right. So for the right to plan there are dozens of departments involved — fire department is there, water is there, electricity. They will set their conditions, and if rejected they can resubmit. But there are conditions, for example schools, if a school is mentioned. Kindergartens are a bit different — kindergartens, for example, if the developer builds a kindergarten, wants to run a kindergarten, if it's KEMAS, there will be a budget and KEMAS will step in. And how do you know that every housing project has a quota? Because the development of the house is under the local council, under the PBT, so all the conditions can be set. But in the end, to provide that ease, it is the hands of the government — the one who wants to fulfil the building is still the government. So, and the process, for example, it does happen at the one-stop centre level, that's the OSC that will set it. So I'm not sure which background and context, if the PM asks to come out on this because the private sector — we as citizens also have our rights under the law.
 
-**Host:** Ok fine YB, choose violence or not?
+**Haziq:** Ok fine YB, choose violence or not?
 
 **Rafizi:** No, no violence. I don't understand, maybe there's something the PM understands or knows that I don't know. But if you follow the process it's like that — for example if I were an owner of a developer company, I would scratch my head, "how is this, how is this so difficult, I followed the process, I submitted according to the right to plan, the right to plan if followed for the facilities to be like this, they told me to do it, the resort has been given, that resort right? Don't be angry with me."
 
-**Host:** Okay, okay, okay. This is asking to do something outside the contract, perhaps.
+**Haziq:** Okay, okay, okay. This is asking to do something outside the contract, perhaps.
 
 **Rafizi:** Okay.
 
-**Host:** We have another one — oh, PAS again, YB, YB, aren't you tired of correcting their narrative?
+**Haziq:** We have another one — oh, PAS again, YB, YB, aren't you tired of correcting their narrative?
 
 **Rafizi:** That's what it's called, preaching. Yes, preaching. This one is also the same — this one is about Marzuk. I also have a story, around 2012, similar to Nurul Islam.
 
-**Host:** Okay, tell it.
+**Haziq:** Okay, tell it.
 
 **Rafizi:** Nurul Islam earlier had folder debts, this one doesn't have debts, but there's a story. I recall the Bachok area, is a seat that often changes hands between PAS and UMNO. At that time Bachok was still UMNO, so among the many seats in Kelantan, the seat that could swing a bit was Bachok. That's why Bachok always shows many new faces. So in 2012, Ustaz Marzuk was still a young ustaz, he hadn't become as prominent as now. So his people were always busy pestering and persuading me to come give a big ceramah [talk] there. That was during the NFC era, the scandal era, so I recall I went down there too, and at that time money wasn't much either. And when I went to give PAS ceramahs, I never took money — others took money because PAS would pay if you went, right. That's why whoever was active on the PAS ceramah circuit in those days was really active because of the Milo tin collections.
 
-**Host:** Oh, that's how it was.
+**Haziq:** Oh, that's how it was.
 
 **Rafizi:** Indeed, the Milo tin collections were used to pay the speakers, apart from food and all that — their hotel, their petrol, and pocket money. I don't know if that culture still exists or not. But that's also why I was always chased by PAS branches across Malaysia at that time, because for my talks, people came to listen because there was a new story, and at the same time I didn't take money. It's just that it was tiring driving at that time.
 
-**Host:** Driving yourself, right?
+**Haziq:** Driving yourself, right?
 
 **Rafizi:** Driving with Akmal. To get to Bachok you have to pass through Gua Musang, right. So I once went to help him in Bachok. Because at that time the people around him told him, Zulk here must prove that he succeeded in organizing a big ceramah and also brought in a national-level speaker, and that could help him get nominated. Wallahualam what it was. It's just that I knew him at that time, I never imagined he could become this racist — right, he showed no signs of racism back then.
 
@@ -361,7 +359,7 @@ Okay, so after 13 years, from 2012 to 2025, I was really shocked reading and see
 
 He claims his narrative is that maybe outsiders came, then those outsiders — how was the State of Israel established?
 
-**Host:** By British mandate, ha?
+**Haziq:** By British mandate, ha?
 
 **Rafizi:** That was by British mandate, ha? So in Malaysia is there a British mandate to establish a Chinese state here? There's no such thing at all. There's no comparison at all. The State of Israel wasn't established because the migrants mentioned suddenly deceived the Palestinian people — it was because the power of the world at that time gave the mandate to a country to become Israel, and that matter was passed at the international level. Whether it's right or wrong, we all disagree — indeed we disagree, because who are you, the British, to give the land to others to make another country? But he has no direct parallel and comparison with what's happening in Malaysia. But he took it and he changed it. And this is what I said, it's delicious to hear in a coffee shop — how many people in a coffee shop, or those who are watching this on TikTok, go and read the origins of the establishment of the State of Israel? Except in Malaysia, we are under the mandate of other countries that finally gave Kelantan to the Chinese. That's an impossible thing to happen.
 
@@ -373,7 +371,7 @@ So politicians should, if they really want to help Malays, find a way towards th
 
 So I don't know how much longer Ustaz Marzuk is going to keep doing this. He might be able to win in Pengkalan Chepa forever. But I think, as long as he keeps playing this increasingly racial issue, that doesn't help PAS either. Because not only will non-Malays be hurt by his approach, Malays too will feel this is a dangerous game. Because in Kelantan this might work, but in other parts and areas across Malaysia, we have a plural society and we depend on each other, which is vibrant, which is good, which opens up opportunities. And the Chinese also know the majority in this country is Malay — if the economy improves more, the spillover will reach the Malays too. But if the economy is slow, as happened in Kelantan during their decades of rule, in the end the victims will be the Malays too — who are forced to migrate to states that they supposedly call Zionist and Israel.
 
-**Host:** Okay, fine YB, let's leave Marzuk Syahri, let's move to another one. There's another one from PAS too, but I think this is an economic issue — a fight over allocations. But I think it has some similarity with YB's point. He highlighted transport allocations.
+**Haziq:** Okay, fine YB, let's leave Marzuk Syahri, let's move to another one. There's another one from PAS too, but I think this is an economic issue — a fight over allocations. But I think it has some similarity with YB's point. He highlighted transport allocations.
 
 **Rafizi:** That's just it, but that one is because he wants to stab at Penang. This one I want to comment on two things, since I've commented a lot about PAS tonight. This is another reason why I've never been confident in PAS's capability to govern — because I don't see a growth mindset from PAS. Every time they're given the opportunity and trust to administer a state, the only path they take is victimology — "we are the victims. Why are we the victims? We are neglected. Why aren't we given allocations?" He doesn't even talk about how to increase revenue, how to improve the situation. Compare, for example, Kelantan — Kelantan, as I've mentioned before, is a rich state: natural resources, tourist spots, culture. How can states like Melaka and Negeri Sembilan, which have no resources except beaches, be more advanced, more self-reliant, with better results? Doesn't matter whether under UMNO government, under Pakatan Harapan, under PKR, Datuk Seri Amin — revenue growth compared to 10 years ago is far better. So how did they do it?
 
@@ -381,93 +379,93 @@ So the difference, I think, one thing that stands out is that when they become t
 
 The second thing — and I was actually surprised — why is there no government leader who answers? I want to answer tonight. This is when he said that the government should have prepared the East Coast Rail Link (LPT) to the East Coast instead of the LRT in Pulau Pinang — "poor people of the East Coast, they were left behind, while the people in Penang got it all." Actually, what project has caused the biggest debt to the government now? Across the whole of Malaysia, what is the one project that has caused debt to be borne by the whole of Malaysia, for our grandchildren and great-grandchildren?
 
-**Host:** Hmm?
+**Haziq:** Hmm?
 
 **Rafizi:** One project — if we're talking about the big ones, like local floods, which whenever...
 
-**Host:** ECRL?
+**Haziq:** ECRL?
 
 **Rafizi:** ECRL, East Coast Rail Link. How much?
 
-**Host:** 84 billion.
+**Haziq:** 84 billion.
 
 **Rafizi:** Which state does it go to?
 
-**Host:** Goes to his states, Kelantan, Terengganu, through Pahang.
+**Haziq:** Goes to his states, Kelantan, Terengganu, through Pahang.
 
 **Rafizi:** So if I'm from Penang, I'm really surprised that there's no one from Parliament, from the Ministry of Development, to say, "Eh, actually the most sophisticated infrastructure, the greatest one, to connect Kelantan, Terengganu, East Coast, up to here, is the most expensive, and it's borne by the debt of the Malaysian people, for our grandchildren to come to your states." RM84 billion. And every day, you turn a blind eye, try to play up racial issues, sit busy talking about Penang. Because later Penang will say, "the biggest exports from this country come from our state, electronics exports from our state — what do you export?" 84 billion, going all the way to the end of Tumpat. That's not even including new projects connecting Sungai Golok, then the bridges, Tok Bali Port — if we want to mention them, there are many. But let's not mention the others, let's mention the 84 billion for ECRL. Let's say we split it equally among three states, 84 divided by three, how much?
 
-**Host:** 28. 28 billion.
+**Haziq:** 28. 28 billion.
 
 **Rafizi:** Ha, that he never mentions. So that's why, if this is the style of PAS leadership, I fear for the future. I'm okay — I'm almost 50 years old, it's enough, just a little more, 20 years to go. But if it's like this, it means either he doesn't understand the numbers, or they don't want to act fairly, or their political model is to incite the Malays to dislike the Chinese, because Penang is Chinese, Kelantan is Malay. Where else do we want that? That we're responsible to Kelantan, to Terengganu, all this. At that time, he didn't make a fuss. In fact I was the one who questioned back then, was there a need to spend up to 70 billion — not 84, this was in 2014, 2015, the estimate was 70 billion — I was the one who questioned whether there was a need for us to build this ECRL. So I think we'll wait and see how PAS is going to answer that, ha, ECRL, ECRL.
 
-**Host:** Okay, YB. That's the end of our hard-hitting segment this week. Let's go to the world news.
+**Haziq:** Okay, YB. That's the end of our hard-hitting segment this week. Let's go to the world news.
 
 **Rafizi:** Okay.
 
-**Host:** The world news segment is slow today.
+**Haziq:** The world news segment is slow today.
 
 **Rafizi:** Yes, because there are so many things about PAS, I've lost my energy.
 
-**Host:** YB, are you sure there are no more PAS issues?
+**Haziq:** YB, are you sure there are no more PAS issues?
 
 **Rafizi:** Yes, are there more?
 
-**Host:** Congratulations to PAS for expanding its wings into the world news segment of the YBM podcast — there's PAS, so this week is PAS week. But this is related to the election campaign in Singapore — it's old news, but it came up again in their parliament. There are two PAS leaders who supported Malay candidates from the Workers' Party, for example, this concerns Faisal Manap and so on. And it seems the Singapore government is quite upset with PAS to this day. Let's talk about the notion of interference, YB — I want to ask YB's view on this, because in Malaysia too we have a stance on political parties abroad, for example Hamas and Fatah. So what's your view on the stance of Singapore's Minister for Home Affairs on this?
+**Haziq:** Congratulations to PAS for expanding its wings into the world news segment of the YBM podcast — there's PAS, so this week is PAS week. But this is related to the election campaign in Singapore — it's old news, but it came up again in their parliament. There are two PAS leaders who supported Malay candidates from the Workers' Party, for example, this concerns Faisal Manap and so on. And it seems the Singapore government is quite upset with PAS to this day. Let's talk about the notion of interference, YB — I want to ask YB's view on this, because in Malaysia too we have a stance on political parties abroad, for example Hamas and Fatah. So what's your view on the stance of Singapore's Minister for Home Affairs on this?
 
 **Rafizi:** That's their fate, it's each side's right — PAS wants to support, that's their right; Singapore is unhappy, that's their right. It's just that, if PAS aspires to become the federal government, then they need to understand, there are protocols involved. Because later it will become like this — this is about PAS and Singapore, right. But what went viral 2-3 days ago, President Trump criticized Kevin Rudd, the former Prime Minister of Australia and also Australia's Ambassador to the United States, because Kevin Rudd gave harsh comments about Trump, and suddenly Trump won, and it's complicated things for him. So indeed PAS leadership might — I think they always play to their audience. But when a party has aspirations to become the federal government, then they need to be more measured and understand there are protocols involved. It's indeed their right to make comments, but comments have consequences, because it's also the Singapore government's right to feel that this is interference in their politics. And that's quite common — for example, Trump, if he sees other countries commenting critically, he will hit back hard. Keir Starmer will be hit. Justin Trudeau will be hit. But it's best to have diplomatic and international protocols that we need to observe.
 
 That's why, if we look at it, before I became a minister in 2022, I had free-ranging views, right — well, given my background, of course, for example, I'm closer to the Democrats, for example, right, of course I'm closer to the Labour Party, and I have friends like that all over the world — we have friends, all of us. But when I became a minister, if you notice, I didn't comment on other political parties or other governments. Because I'm no longer just representing myself — I can be regarded as representing the government or my party, and once you're part of the federal government, there are nuances and protocols we have to follow. So we just keep it to ourselves. So PAS needs to learn that becoming the federal government is more complicated than winning over the hearts of loyal supporters.
 
-**Host:** Ok YB, congratulations to PAS for being in world news. Second, let's fly a bit far to the Louvre in Paris. I'm waiting for the latest Hollywood or Netflix film about this story.
+**Haziq:** Ok YB, congratulations to PAS for being in world news. Second, let's fly a bit far to the Louvre in Paris. I'm waiting for the latest Hollywood or Netflix film about this story.
 
 **Rafizi:** Oh, will there be one?
 
-**Host:** Not yet, but there will surely be many stories eventually — how this happened. The ladder, there's a ladder right? Yes, he disguised himself as...
+**Haziq:** Not yet, but there will surely be many stories eventually — how this happened. The ladder, there's a ladder right? Yes, he disguised himself as...
 
 **Rafizi:** I don't know the full story about this Louvre thing. He was a staff member, entered, and stole 8 items of jewellery — most of them belonged to the queens, from Bonaparte.
 
-**Host:** Oh, Josephine.
+**Haziq:** Oh, Josephine.
 
 **Rafizi:** I didn't read it carefully. This Ocean's Eleven story is fine. Let's wait for the documentary about it, to see how he did it, right. The last time something went missing from the Louvre was 1912.
 
-**Host:** 1912?
+**Haziq:** 1912?
 
 **Rafizi:** Yeah, the last time someone stole something, right. I just remember, 1912, right. If we want to take the bigger picture, or a higher-level view of this Louvre incident, right, it's actually very demoralizing to a France that's already in its current state. France now has already had five Prime Ministers resign — yes, in total, it's almost ungovernable. Because there's a very strong political divide — on one side there are mostly far-right parties, racially-oriented parties — back when I was young, Jean Le Pen, right, Marine Le Pen.
 
-**Host:** His father, now his son — Marine Le Pen too.
+**Haziq:** His father, now his son — Marine Le Pen too.
 
 **Rafizi:** So this is definitely a great blow to the French, because they feel proud — because their country, in terms of its economy, is now in a bad state. In terms of its government, its society, political crisis, and suddenly of course it will — what is happening at the Louvre is like a symbol to a community and a country that used to feel great, that they're now a small country.
 
-**Host:** Okay, YB. But there are people asking too, at least in the Louvre we have heard of theft, but we have never heard of theft or attempted theft in our national museums. Don't you think that's one of the problems too?
+**Haziq:** Okay, YB. But there are people asking too, at least in the Louvre we have heard of theft, but we have never heard of theft or attempted theft in our national museums. Don't you think that's one of the problems too?
 
 **Rafizi:** Why would you want to go to the museum? We're talking about attractions — what's expensive in our museum? I don't think there's anything.
 
-**Host:** Yes, there is.
+**Haziq:** Yes, there is.
 
 **Rafizi:** What kind of question is this? It's not a question of attractiveness — because it's being compared to the Louvre. Where can it be compared? It can't be compared. Museums — eh, is the Mona Lisa here?
 
-**Host:** Yes, there.
+**Haziq:** Yes, there.
 
 **Rafizi:** There is a Mona Lisa here? Here, I think what is stored is worth hundreds of millions — for example, the wealth of great politicians, tens of millions, is put in the National Museum. Are there many Ocean's Eleven-types wanting to go to the National Museum? I don't know about the National Museum, I don't think there are many treasures or precious items stored there.
 
-**Host:** Okay, well, YB, clear. If we can move to the last issue — the world issue, PM Japan. She is a staunch traditionalist and is interested in Margaret Thatcher. If I may ask, two things that are a bit ironic — Japan is the most aging nation, for example. But now, when their policy is anti-immigration, how do they reconcile these two needs, when what they want to impose is quite contradictory?
+**Haziq:** Okay, well, YB, clear. If we can move to the last issue — the world issue, PM Japan. She is a staunch traditionalist and is interested in Margaret Thatcher. If I may ask, two things that are a bit ironic — Japan is the most aging nation, for example. But now, when their policy is anti-immigration, how do they reconcile these two needs, when what they want to impose is quite contradictory?
 
 **Rafizi:** No, I mean, I'll say the aging nation issue remains a problem for policymakers; the politics of the day doesn't think about it. Okay, so what's more concerning about Japan's first female PM isn't so much about herself. The concern is the swing, the tendency towards anti-immigrant, policies seen as right-wing, as extreme. Because there are two societies in this world traumatized by World War II and they're traumatized by far-right extremist parties — one is Germany, the other is Japan. So this is the first time, apart from her being Japan's first female Prime Minister, what's more significant is that this is the first time someone seen as right-wing, who's openly anti-immigrant, becomes Japan's Prime Minister. And I think everything else is secondary in politics or what's being observed by the world.
 
-**Host:** Okay, good, good, good. I just said that you can't comment too much about other things, but it's a bit short and sweet.
+**Haziq:** Okay, good, good, good. I just said that you can't comment too much about other things, but it's a bit short and sweet.
 
 **Rafizi:** Yes.
 
-**Host:** Okay, good. Done, YB, we're going to the next segment. We have "Fuyoh" — where are we going to be? We're going to be there in an hour and 50 minutes.
+**Haziq:** Okay, good. Done, YB, we're going to the next segment. We have "Fuyoh" — where are we going to be? We're going to be there in an hour and 50 minutes.
 
 **Rafizi:** Okay, we have 10 minutes more, we're going to be fast.
 
-**Host:** That's a lot because of the PAS segment.
+**Haziq:** That's a lot because of the PAS segment.
 
 **Rafizi:** Yes.
 
-**Host:** But it's a claim, YB — we have the first one, we have a rainbow chip. If I try to search earlier, with this rainbow chip, we can have a faster internet, we have a better sensor for the autopilot of the car. So if maybe YB can illustrate how it works actually.
+**Haziq:** But it's a claim, YB — we have the first one, we have a rainbow chip. If I try to search earlier, with this rainbow chip, we can have a faster internet, we have a better sensor for the autopilot of the car. So if maybe YB can illustrate how it works actually.
 
 **Rafizi:** We admit it.
 

@@ -9,9 +9,9 @@ duration_seconds: 10907
 duration: 3h 1m
 view_count: 272727
 hosts:
-- Rafizi Ramli
-guests:
+- Rafizi
 - Haziq
+guests: []
 topics:
 - Wildlife smuggling (python gallbladders, Johor)
 - Azam Baki/SPRM controversy and public backlash
@@ -33,7 +33,7 @@ topics:
 - Papa Gomo police case and PMO involvement
 - Upcoming PKR/Tangkap Azam Baki rally announcements
 summary: In episode 44 of the Podcast Yang Berhormat Menteri, Rafizi Ramli and co-host
-  Aziz open with the lighthearted "Beria" segment, mocking a range of viral news items
+  Haziq open with the lighthearted "Beria" segment, mocking a range of viral news items
   — python gallbladder smuggling in Johor, Azam Baki's widely-mocked "financial advice"
   and the tactical squad now protecting him, an AI-generated meme linking Rafizi to
   Anwar's election seats and Ong Kian Ming's remarks, Rosmah Mansor's RM443 million
@@ -68,11 +68,11 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Rafizi Ramli:** Assalamualaikum dan salam sejahtera. Macam biasa, Podcast Yang Berhormat Menteri, episod yang ke-44. Sikit lagi kita nak masuk episod ke-52 — kenapa? Sebab satu tahun, 52 minggu, tanpa berhenti kan. Episod 44 ni, lebih kurang dua bulan lagi lah baru sampai 52. YB tak penat, YB? Nak jugalah, tapi nak buat macam mana, tak apalah. Ada orang kata "tak apalah" — nanti sekarang dah mula melalut kan, belum apa-apa lagi ni.
+**Rafizi:** Assalamualaikum dan salam sejahtera. Macam biasa, Podcast Yang Berhormat Menteri, episod yang ke-44. Sikit lagi kita nak masuk episod ke-52 — kenapa? Sebab satu tahun, 52 minggu, tanpa berhenti kan. Episod 44 ni, lebih kurang dua bulan lagi lah baru sampai 52. YB tak penat, YB? Nak jugalah, tapi nak buat macam mana, tak apalah. Ada orang kata "tak apalah" — nanti sekarang dah mula melalut kan, belum apa-apa lagi ni.
 
 **Haziq:** Cakap macam komen dekat KS tu kan? Ha?
 
-**Rafizi Ramli:** Tak apa, tak apa. Okay YB, kita mulakan, YB. Kita terus masuk beria terus? Okay. Tapi sebelum itu, kepada rakan-rakan yang menonton, terutamanya pengundi-pengundi atas pagar dan mangsa-mangsa skamer — maksud skamer kerajaan lebih. Bukan PH je yang skam, PN pun skam sampai sekarang tak ada lagi hudud ni. Masa skam semua benda lah. Follow dan share podcast ni, dan kena ingatkan balik untuk follow juga social media YB Rafizi Ramli. Barulah kita boleh mulakan, YB. Kita mulakan dengan beria. Kita tengok macam mana prestasi mereka minggu ni. Bismillah, kita start dengan yang pertama: 1022 hempedu ular sawa.
+**Rafizi:** Tak apa, tak apa. Okay YB, kita mulakan, YB. Kita terus masuk beria terus? Okay. Tapi sebelum itu, kepada rakan-rakan yang menonton, terutamanya pengundi-pengundi atas pagar dan mangsa-mangsa skamer — maksud skamer kerajaan lebih. Bukan PH je yang skam, PN pun skam sampai sekarang tak ada lagi hudud ni. Masa skam semua benda lah. Follow dan share podcast ni, dan kena ingatkan balik untuk follow juga social media YB Rafizi Ramli. Barulah kita boleh mulakan, YB. Kita mulakan dengan beria. Kita tengok macam mana prestasi mereka minggu ni. Bismillah, kita start dengan yang pertama: 1022 hempedu ular sawa.
 
 Hehe, geli je kan. Tambah 191 lagi hempedu ular sawa. Kau sure tak ada ular kat sini? Aku kat rumah tak boleh sebut pasal ular ni. Sebut pun tak boleh — sebab tu aku tak boleh tengok *Anak Konda* lagi. Kan ada *Anak Konda* kat Netflix tu, rugi kan, tapi sebab my wife memang kalau ular ni tak boleh langsung.
 
@@ -82,11 +82,11 @@ Yang pelik tu kan — assuming lah, satu gallbladder tu daripada satu ular sawa,
 
 **Haziq:** Ada fun fact — Malaysia is home to the world's top wildlife smuggler.
 
-**Rafizi Ramli:** Dalam dunia, itu yang dalam news tu kan?
+**Rafizi:** Dalam dunia, itu yang dalam news tu kan?
 
 **Haziq:** Ada.
 
-**Rafizi Ramli:** Malaysia boleh ok ok ok, ini lagi menarik daripada cerita ular sawa tu yang menakutkan aku. Bahaya nanti dia tangkap aku, dia letak ular sawa — hmm, dah bocor dah. Okay okay.
+**Rafizi:** Malaysia boleh ok ok ok, ini lagi menarik daripada cerita ular sawa tu yang menakutkan aku. Bahaya nanti dia tangkap aku, dia letak ular sawa — hmm, dah bocor dah. Okay okay.
 
 Seterusnya, nasihat Azam Baki kepada orang ramai. Ini viral juga kan? Saya rasa ada dua je yang viral — satu, berita dan nasihat daripada Tan Sri Azam Baki, nasihat kewangan: sanggup rasuah demi kekal gaya hidup mewah. Look who's talking lah. Kemudian keluar pula SPRM turunkan skuad taktikal untuk melindungi Azam Baki. Ini spesies berbahaya ni.
 
@@ -98,13 +98,13 @@ Satu yang Tan Sri Azam Baki ni, beria dia — walaupun dalam suasana yang sekali
 
 **Haziq:** Azam Baki.
 
-**Rafizi Ramli:** Azam Baki lah, YB. Yelah, obviously orang tak berapa gemar dia dan dia tak berjaya dengan segala comms plan yang dibuat. Saya nasihatkan kepada Tan Sri Azam Baki, mungkin kena tukar UKK kot. Tapi UKK pun saya simpati lah — bawa UKK yang paling hebat daripada Hollywood pun saya tak rasa boleh mengubah pandangan rakyat mengenai dia. Okay, good luck kepada UKK. Dan beria — kalau ada UKK yang menonton ni, eh, mereka kena. Sebab saya dimaklumkan, salah satu tindak balas daripada SPRM ialah memastikan bila ada podcast YB ni, orang-orang tertentu daripada SPRM kena jadi cyber trooper hentam kita. Jadi kalau tak nak jadi cyber trooper, mungkin sebaiknya doakan supaya kontrak dia tak disambung. InsyaAllah — yakinnya kau, tapi tak apa.
+**Rafizi:** Azam Baki lah, YB. Yelah, obviously orang tak berapa gemar dia dan dia tak berjaya dengan segala comms plan yang dibuat. Saya nasihatkan kepada Tan Sri Azam Baki, mungkin kena tukar UKK kot. Tapi UKK pun saya simpati lah — bawa UKK yang paling hebat daripada Hollywood pun saya tak rasa boleh mengubah pandangan rakyat mengenai dia. Okay, good luck kepada UKK. Dan beria — kalau ada UKK yang menonton ni, eh, mereka kena. Sebab saya dimaklumkan, salah satu tindak balas daripada SPRM ialah memastikan bila ada podcast YB ni, orang-orang tertentu daripada SPRM kena jadi cyber trooper hentam kita. Jadi kalau tak nak jadi cyber trooper, mungkin sebaiknya doakan supaya kontrak dia tak disambung. InsyaAllah — yakinnya kau, tapi tak apa.
 
 Kita tengok yang sosial media lagi. Ini kata-kata Timbalan Menteri: "Kenapa hidung Anwar Ibrahim tu sampai merah macam tu?" Jahat lah, Pa'an. Lelehlah sikit — eh, bukan kita orang lah.
 
 **Haziq:** Kita.
 
-**Rafizi Ramli:** Oh, ya ke? Oh, dah ada. "Di mana Anwar bertanding, di situ ada Rafizi Ramli." Ni siapa yang buat AI ni? Kenapa aku ada empat tanda titik, empat tahi lalat dekat pipi aku tu? Memang ada, YB, tapi bukan empat lah. Ya ke, memang ada ke? Ha, ini facial cleanser tak berkesan ni kan.
+**Rafizi:** Oh, ya ke? Oh, dah ada. "Di mana Anwar bertanding, di situ ada Rafizi Ramli." Ni siapa yang buat AI ni? Kenapa aku ada empat tanda titik, empat tahi lalat dekat pipi aku tu? Memang ada, YB, tapi bukan empat lah. Ya ke, memang ada ke? Ha, ini facial cleanser tak berkesan ni kan.
 
 Jadi, ini yang dikatakan, YB akan bertanding di mana tempat Dato' Seri Anwar bertanding. Saya rasa ini agak mendapat sambutan, terutamanya di media-media China saya nampak juga. Jadi mungkin kita menagih respon daripada YB lah — sama ada YB nak respon atau YB beriakan je mereka ni.
 
@@ -116,7 +116,7 @@ So saya tak tahu lah sama ada dia nak bertanding balik ke, dia nak balik ke poli
 
 **Haziq:** Oh, ya ya.
 
-**Rafizi Ramli:** Okay okay, tak apalah, kita tunggu je lah Kabinet KJ. Dah masuk UMNO, dia tak apa — dia PN ke, BN ke, asalkan siapa yang lambung, angkat dia. Esok kalau aku pergi peluk dia pun, aku rasa sesuai lagi dia okey kan, kalau ada peluang untuk menang. Jadi dia kena ada dua syarat: satu, ada peluang untuk menang; dua, mendapat kuasa — peluk dan lambung dia. Okay, tapi beria lah, buat spekulasi je. Kita tunggu, YB, kita tengok lagi ada yang beria ke tak.
+**Rafizi:** Okay okay, tak apalah, kita tunggu je lah Kabinet KJ. Dah masuk UMNO, dia tak apa — dia PN ke, BN ke, asalkan siapa yang lambung, angkat dia. Esok kalau aku pergi peluk dia pun, aku rasa sesuai lagi dia okey kan, kalau ada peluang untuk menang. Jadi dia kena ada dua syarat: satu, ada peluang untuk menang; dua, mendapat kuasa — peluk dan lambung dia. Okay, tapi beria lah, buat spekulasi je. Kita tunggu, YB, kita tengok lagi ada yang beria ke tak.
 
 Lama kita tak dengar khabar — apa khabar, Datuk Seri? Ini pasal kes yang sedang berlangsung kan. Latar belakang kepada mereka yang mendengar, atau yang mungkin kurang ingat — banyak sangat kes, so YB pun kadang-kadang dah terlupa yang mana satu. Ini pasal kes barang kemas — cincin, permata, barang kemas semua lah. Kalau tengok, sebanyak RM443 juta barang kemas dirampas daripada kediaman Datin Seri Rosmah Mansor di Pavilion. Ini malam pilihan raya, beberapa hari selepas itu. Daripada RM443 juta barang kemas yang dirampas ini, ada satu yang berjumlah RM67 juta sebenarnya dimiliki oleh sebuah syarikat barang kemas mewah daripada London.
 
@@ -124,7 +124,7 @@ Jadi syarikat itu telah menyaman Datin Seri Rosmah Mansor untuk mendapatkan kemb
 
 **Haziq:** Kalau YB nak jadi influencer, YB nak jual barang apa?
 
-**Rafizi Ramli:** Uh-huh, mungkin produk rambut. Tak, mungkin produk rambut, tapi kena tunggu dia naik sikit lah kan. Contohnya benda tu ada kesan tau — bukan aku lah, ada, for whatever reasons, algorithm ni jahat tau, semua algorithm aku pasal rambut botak tau. Maksudnya bosan gila, kat TikTok pun keluar rambut botak, dekat Google pun keluar. Jadi dia keluar daripada seorang — rakyat Malaysia lah, tak nak sebut nama, tapi I think ramai orang tahu lah. Dia kononnya promote makan biotin, bukan sahaja rambut jadi tebal macam — dia tunjuk rambut dia 5 tahun dulu, rambut dia sekarang. Tapi muka dia jadi sama muda dengan anak dia. Dia dah umur lebih kurang macam aku, memang betul lah, tengok muka sebelah, muka lebih kurang sama dengan anak perempuan dia. Jadi aku terpengaruh, beli lah, tapi sampai sekarang macam tak ada kesan. Kena scan kot. Jadi kalaulah satu hari nanti saya nak jadi influencer juga, tak payah lah hantar barang kemas sampai RM67 juta — cukup untuk hantar hair tonic yang berkesan.
+**Rafizi:** Uh-huh, mungkin produk rambut. Tak, mungkin produk rambut, tapi kena tunggu dia naik sikit lah kan. Contohnya benda tu ada kesan tau — bukan aku lah, ada, for whatever reasons, algorithm ni jahat tau, semua algorithm aku pasal rambut botak tau. Maksudnya bosan gila, kat TikTok pun keluar rambut botak, dekat Google pun keluar. Jadi dia keluar daripada seorang — rakyat Malaysia lah, tak nak sebut nama, tapi I think ramai orang tahu lah. Dia kononnya promote makan biotin, bukan sahaja rambut jadi tebal macam — dia tunjuk rambut dia 5 tahun dulu, rambut dia sekarang. Tapi muka dia jadi sama muda dengan anak dia. Dia dah umur lebih kurang macam aku, memang betul lah, tengok muka sebelah, muka lebih kurang sama dengan anak perempuan dia. Jadi aku terpengaruh, beli lah, tapi sampai sekarang macam tak ada kesan. Kena scan kot. Jadi kalaulah satu hari nanti saya nak jadi influencer juga, tak payah lah hantar barang kemas sampai RM67 juta — cukup untuk hantar hair tonic yang berkesan.
 
 Yang ini ada satu lagi sudut lah kan — sebab banyak daripada penyokong UMNO dan Datuk Seri Najib ni, sampai sekarang dia duk ulang, "Rafizi, kau dosa, masuk neraka sebab fitnah Datin Seri Rosmah, fitnah Najib pasal cincin belian semua." Eh, diorang ni duk gua mana? Bukan sahaja malam itu — tengok, Dato' Amar Singh kata wang tunai, barang kemas melimpah keluar daripada bagasi, dia pakai letak dalam luggage, banyak sangat kan, RM443 juta barang kemas. Dia boleh kata aku fitnah Rosmah Mansor kan, yang hantar sampel sahaja RM67 juta.
 
@@ -134,7 +134,7 @@ Jadi kalau ada di kalangan yang menonton malam ini yang macam itu, tak payah min
 
 **Haziq:** Okay okay YB, beria YB, beria beria. Excuses yang menarik, excuses yang beria ke? Okay, ada lagi?
 
-**Rafizi Ramli:** Ada lagi — "ingat senang kerja di kerajaan." Ini yang di konvensyen PKR Terengganu. Saya ingat semua orang dah tahu lah, Datuk Seri Anwar meluahkan kekecewaan. Ini ucapan yang sama, dia kata "bagilah kredit sikit." Betul, tapi reaksi itu teruk lah, saya ingat, dekat media sosial kan.
+**Rafizi:** Ada lagi — "ingat senang kerja di kerajaan." Ini yang di konvensyen PKR Terengganu. Saya ingat semua orang dah tahu lah, Datuk Seri Anwar meluahkan kekecewaan. Ini ucapan yang sama, dia kata "bagilah kredit sikit." Betul, tapi reaksi itu teruk lah, saya ingat, dekat media sosial kan.
 
 Kerana ini masalah kepada adik-adik yang bercita-cita untuk menjadi ahli politik sehingga ke peringkat menteri ataupun perdana menteri — percayalah bahawa kalau adik-adik buat kerja yang baik dan bagus, tak ada orang akan berterima kasih. Tapi kalau sesuatu tindakan itu mengundang pandangan yang berbeza, ataupun kontroversi, ataupun tidak popular, memang berbakul kena maki. Jadi itu sebab saya ingatkan kenapa dia masuk segmen beria ni. You would have thought that Dato' Seri Anwar, being seorang politik dari tahun 1981, dia faham lah perkara itu — memang kerja sebagai ahli politik ini tak pernah senang. Sebab itu, dalam budaya kita, untuk memastikan ia berbaloi, curilah duit banyak-banyak, baru lah berbaloi kena maki berbakul-bakul; kalau tidak, tak berbaloi, setiap hari kena maki, buat kerja macam mana pun kena maki.
 
@@ -142,7 +142,7 @@ Jadi anda akan fikir, Anwar lah yang paling mahir tentang senario politik di Mal
 
 **Haziq:** YB, mungkin kita akan ulas tentang komunikasi kerajaan dalam segmen nanti. Cuma, mungkin ini nightmare kepada stratcom Perdana Menteri — dia dah plan elok, tetapi setiap hujung minggu, kenyataan-kenyataan yang kontroversial ni nyet-nyet-nyet sehingga benda ni akan keluar daripada dia dan akan meletup, sampai setiap minggu, consistent. And orang akan lebih ingat apa yang dia cakap tu daripada speeches-speeches yang lain. Ya.
 
-**Rafizi Ramli:** Saya tak rasa... okay, coming back to what you said lah, maksudnya nightmare kepada pasukan media ataupun stratkom, if there is such a thing, strategic communication. Pa'an takut sebab masa dia datang first time — okay, aku nak cerita benda dalam kain lah, split tentang Pa'an. Ini orang media lah kan, ataupun orang yang biasa dengan content, social media kan, strategic communication. Jadi aku tak kenal Pa'an ni, aku tak kenal langsung, tak nak jumpa pun kan. Jadi ada lah kawan yang recommend aku, "yalah, ok, datanglah," dia datang lah interview. Hahaha. So korang boleh fokus muka Pa'an dah merah. So Pa'an pun cakap lah pasal strategic communication, semua, how things develop, the strategies — semua aku tengok cakap dia kan.
+**Rafizi:** Saya tak rasa... okay, coming back to what you said lah, maksudnya nightmare kepada pasukan media ataupun stratkom, if there is such a thing, strategic communication. Pa'an takut sebab masa dia datang first time — okay, aku nak cerita benda dalam kain lah, split tentang Pa'an. Ini orang media lah kan, ataupun orang yang biasa dengan content, social media kan, strategic communication. Jadi aku tak kenal Pa'an ni, aku tak kenal langsung, tak nak jumpa pun kan. Jadi ada lah kawan yang recommend aku, "yalah, ok, datanglah," dia datang lah interview. Hahaha. So korang boleh fokus muka Pa'an dah merah. So Pa'an pun cakap lah pasal strategic communication, semua, how things develop, the strategies — semua aku tengok cakap dia kan.
 
 Sebab in my book lah sebenarnya, the moment you need to have strategic communication, maksudnya kita memang dah ada masalah dengan perkara yang kita nak sampaikan. Lebih mudah bercakap benar — nothing beats telling the truth. Cuma, cakap kali pertama, mungkin orang tak dengar, orang marah, ataupun tak rasa, ataupun ada lah hater tu akan tetap jadi hater, kau cakap macam mana ke mana. But kalau secara berterusan kita berkata benar, kalau satu isu itu kita persembahkan dan kita kongsi dalam perspektif yang adil dan benar kepada, in the case of politician, kepada rakyat, eventually naratif itu akan mula diterima oleh masyarakat kerana masyarakat ini waras. Dia bell curve lah — ada je yang hater, ada je yang tak, dia orang cakap macam mana pun dia tak terima, sama ada sebab politik ke atau apa kan. Tapi sebenarnya the bell curve yang kat atas tu, dia waras. Kalau kita terangkan, eventually dia tengok, walaupun aku tak suka orang ni, tapi actually yang dia cakap tu betul kan.
 
@@ -166,37 +166,37 @@ Saya lebih tertarik untuk — Allah, Syahir, kau tak payahlah nak menunggang aku
 
 **Haziq:** Beria, okay weh, kita dah habis, kita nak rate.
 
-**Rafizi Ramli:** Allah, ada pula suara. Bagi Pa'an lah, Rik Pa'an.
+**Rafizi:** Allah, ada pula suara. Bagi Pa'an lah, Rik Pa'an.
 
 **Haziq:** Oh, saya — ya, Alhamdulillah. Takkan pasal ular takut. Saya nak rate Syahir sebagai...
 
-**Rafizi Ramli:** Pariwira? Kenapa kau tak puas hati dengan Syahir ni?
+**Rafizi:** Pariwira? Kenapa kau tak puas hati dengan Syahir ni?
 
 **Haziq:** Sebab orang ingat debat Syahir dengan YB — itu je dia ingat.
 
-**Rafizi Ramli:** Aku masa tu macam...
+**Rafizi:** Aku masa tu macam...
 
 **Haziq:** So, dendam?
 
-**Rafizi Ramli:** Ha, kau tengok, kan ada — kalau kat TikTok, kat content ada that fat orange cat kan. Fat orange cat tu, karakter dia banyak lah content dia, macam-macam dia buat, tapi karakter dia macam blur, dia macam ni — itulah aku masa debat hari tu kan. Baik, okay, maybe menang juga PAS, dania PAS yang menang. Bayangkanlah, kalau masa ada debat zaman-zaman itu, kita dah ada podcast dan kita dah ada beria...
+**Rafizi:** Ha, kau tengok, kan ada — kalau kat TikTok, kat content ada that fat orange cat kan. Fat orange cat tu, karakter dia banyak lah content dia, macam-macam dia buat, tapi karakter dia macam blur, dia macam ni — itulah aku masa debat hari tu kan. Baik, okay, maybe menang juga PAS, dania PAS yang menang. Bayangkanlah, kalau masa ada debat zaman-zaman itu, kita dah ada podcast dan kita dah ada beria...
 
 **Haziq:** Memang kita mula beria sepanjang zaman.
 
-**Rafizi Ramli:** Maksudnya Fuziah tak menang beria sepanjang zaman ialah pantun roh-roh ni-ni-ni lah. Okey, baik, hidup keras, dek. Segmen utama lah. Tapi kita ada empat, YB, kita dah 36 minit, jadi kita akan kejar masa sikit lah.
+**Rafizi:** Maksudnya Fuziah tak menang beria sepanjang zaman ialah pantun roh-roh ni-ni-ni lah. Okey, baik, hidup keras, dek. Segmen utama lah. Tapi kita ada empat, YB, kita dah 36 minit, jadi kita akan kejar masa sikit lah.
 
 Baik, dan pertama sekali dan tak lain dan tak bukan, idola kesayangan Akak Umbi — kasar saya. Tak kasar, betul lah, yelah menyokong kan supaya dia tu menang kan. Ini Panglima Perang 80 Kusi, saudara Ramanan Ramakrishna, selamat datang. RR juga.
 
 Bloomberg ni — aku pun terkejut je, kat Bloomberg ni dia memang betul-betul fokus kan ni. Lepas satu-satu keluar. Jadi ini berita terbaru yang keluar semalam kan, semalam hari Khamis. Walaupun sebenarnya berita ni dah ada lebih awal, awal bulan 4 — dia sendiri yang cakap dulu, dia sendiri cakap dulu, ya betul. Cuma bila sekarang Bloomberg ni dia action sikit lah, sebab bila dia keluarkan, dia meletup semua cerita dia kan — agak-agaknya lah subscription Bloomberg meningkat ke tidak kebelakangan ini. Nanti kita hantar email kat Bloomberg, I just want to find out kan.
 
-Ini Bloomberg sebenarnya dia dah 2-3 bulan — saya ingat Ramanan sendiri pernah mengumumkan kan, kerajaan sedang membangunkan satu sistem baru yang tidak melibatkan ejen macam itu kan. Kemudian reaksi daripada ejen-ejen pekerja asing ini bunyi bising sikit lah. Kemudian bulan lepas, saya ingat Malaysiakini mendedahkan mengenai TVPA ni, sistem two-drop ni yang menyebabkan Malaysiakini kena serbu dan disiasat lah sekarang, ada kes ADAT Malaysiakini kan. Jadi mungkin Aziz boleh terangkan sikit apa dia, sebab aku nak minum air.
+Ini Bloomberg sebenarnya dia dah 2-3 bulan — saya ingat Ramanan sendiri pernah mengumumkan kan, kerajaan sedang membangunkan satu sistem baru yang tidak melibatkan ejen macam itu kan. Kemudian reaksi daripada ejen-ejen pekerja asing ini bunyi bising sikit lah. Kemudian bulan lepas, saya ingat Malaysiakini mendedahkan mengenai TVPA ni, sistem two-drop ni yang menyebabkan Malaysiakini kena serbu dan disiasat lah sekarang, ada kes ADAT Malaysiakini kan. Jadi mungkin Haziq boleh terangkan sikit apa dia, sebab aku nak minum air.
 
 **Haziq:** Saya rasa artikel Bloomberg kali ini agak pendek lah, walaupun subscription saya dah habis.
 
-**Rafizi Ramli:** Bukan nama trial. Miskinnya kau, trial, sebab aku penganggur. Macam perli aku je ni.
+**Rafizi:** Bukan nama trial. Miskinnya kau, trial, sebab aku penganggur. Macam perli aku je ni.
 
 **Haziq:** Secara mudahnya, adalah satu sistem baru — alasan yang diberi adalah untuk kill off agent. Kalau kita dengar Aminul Islam sendiri cakap, ini bagus, ini akan mengurangkan, pertama, orang tengah; kedua, kos — kos itu akan menurun. Tetapi apa yang dibangkitkan, ataupun kegusaran orang ialah, adakah dengan kita buat macam ini, sebenarnya ini satu monopoli — nak monopoli, berikan semuanya kepada Aminul Islam. Jadi saya rasa itulah dia punya ringkasannya. Cuma dia beria sikit, YB, dekat hujung tu lah kan — Aminul Islam nak usahakan Nobel Peace Prize kepada Dato' Seri Anwar Ibrahim.
 
-**Rafizi Ramli:** Baik, oleh kerana majoriti rakyat Malaysia ini miskin macam Haziq yang tidak mampu untuk membayar langganan Bloomberg, jadi kita buat macam yang lepas-lepas — aku tolong bacakan, dan aku nak kena terjemahkan terus dalam Bahasa Melayu, tapi pendek je, tak panjang macam hari itu lah kan. Yang ini yang dilaporkan hari ini, pukul semalam 5.41 petang: "Menggantikan Taikun 1, sistem pekerja asing baru yang dibangunkan oleh Taikun Amin." Orang kita panggil Amin Bangla — tapi untuk rujukan, bila kita sebut "Amin", maksudnya Aminul Islam ataupun Amin Bangla, ini lah kan.
+**Rafizi:** Baik, oleh kerana majoriti rakyat Malaysia ini miskin macam Haziq yang tidak mampu untuk membayar langganan Bloomberg, jadi kita buat macam yang lepas-lepas — aku tolong bacakan, dan aku nak kena terjemahkan terus dalam Bahasa Melayu, tapi pendek je, tak panjang macam hari itu lah kan. Yang ini yang dilaporkan hari ini, pukul semalam 5.41 petang: "Menggantikan Taikun 1, sistem pekerja asing baru yang dibangunkan oleh Taikun Amin." Orang kita panggil Amin Bangla — tapi untuk rujukan, bila kita sebut "Amin", maksudnya Aminul Islam ataupun Amin Bangla, ini lah kan.
 
 **Haziq:** Saya boleh lihat.
 
@@ -394,7 +394,7 @@ Jadi sebab itulah perkara ini kita kena tengok. Dan saya rasa MP-MP PKR yang tua
 
 **Host:** YB, ada yang menghantar mesej — terutamanya daripada orang-orang amanah — menasihati supaya YB bersabar dan tidak bersuara secara terbuka macam ini. Apa respons YB?
 
-**Rafizi Ramli:** Semua boleh dibuat. Cuma, konsekuensinya kepada kerajaan itu besar, konsekuensinya kepada PH juga besar. Sebab kebelakangan ini saya ada dapat mesej, terutamanya daripada orang-orang amanah, yang menasihati bahawa apa yang saya buat ini sebenarnya tidak mendatangkan manfaat — bersabarlah, bersama amanah. Tapi amanah itu pun pikul amanah juga. Ada dua menteri di dalamnya, bersuaralah. DAP ada lima menteri, bersuaralah. Oleh kerana yang PH di dalam kerajaan tidak bersuara, maka kami yang di luar terpaksalah bersuara.
+**Rafizi:** Semua boleh dibuat. Cuma, konsekuensinya kepada kerajaan itu besar, konsekuensinya kepada PH juga besar. Sebab kebelakangan ini saya ada dapat mesej, terutamanya daripada orang-orang amanah, yang menasihati bahawa apa yang saya buat ini sebenarnya tidak mendatangkan manfaat — bersabarlah, bersama amanah. Tapi amanah itu pun pikul amanah juga. Ada dua menteri di dalamnya, bersuaralah. DAP ada lima menteri, bersuaralah. Oleh kerana yang PH di dalam kerajaan tidak bersuara, maka kami yang di luar terpaksalah bersuara.
 
 Dulu masa jadi pembangkang, kami memang secara berterusan mempersoalkan penglibatan AMIN ini — bagaimana sistem ini ada monopoli. Dan bila ada monopoli begitu, ia menimbulkan ruang-ruang yang membolehkan salah guna berlaku. Jadi tak tahulah, kalau dengan turab ini Datuk Seri Anwar akan dapat anugerah Nobel — maksudnya, lagi hebat Anwar Ibrahim daripada Donald Trump lah, kan? Kita tunggulah. Tapi kami akan tetap bersuara.
 
@@ -402,35 +402,35 @@ Kepada orang ramai, terima kasih. Isu-isu macam ini mungkin nampak bosan, tapi i
 
 **Host:** Jadi, setakat ini adakah pihak itu sudah mengambil tindakan saman terhadap YB?
 
-**Rafizi Ramli:** Aku tunggu je dia saman RM9.5 juta.
+**Rafizi:** Aku tunggu je dia saman RM9.5 juta.
 
 **Host:** Tak saman lagi?
 
-**Rafizi Ramli:** Tak, belum saman lagi.
+**Rafizi:** Tak, belum saman lagi.
 
 **Host:** Kalau begitu, berikanlah kami kenyataan eksklusif.
 
-**Rafizi Ramli:** Belum saman. Belum saman.
+**Rafizi:** Belum saman. Belum saman.
 
 **Host:** Okey, kami tunggu juga YB bersama samurai-samurai lain untuk membuat kenyataan.
 
-**Rafizi Ramli:** Kau kira aku pun orang samurai jugalah.
+**Rafizi:** Kau kira aku pun orang samurai jugalah.
 
 **Host:** Okey. Kalau tadi berat, ini lagi berat.
 
 Jangan lari, tengok sampai kesudah.
 
-**Rafizi Ramli:** Korang ni kadang-kadang bila benda-benda berat macam ini, nak tahu pasal Cephlos sahaja — nak tahu gosip. Cephlos itu cili sahaja, kan, nak bagi perasa sahaja. Negara kita ini kalau nak selesai, kita tak boleh lari daripada benda-benda macam ini.
+**Rafizi:** Korang ni kadang-kadang bila benda-benda berat macam ini, nak tahu pasal Cephlos sahaja — nak tahu gosip. Cephlos itu cili sahaja, kan, nak bagi perasa sahaja. Negara kita ini kalau nak selesai, kita tak boleh lari daripada benda-benda macam ini.
 
 **Host:** Dan di hujung nanti akan ada segmen tentang Papa Gomo.
 
 Tapi sebelum itu, dengarkan pasal NETA dahulu. Cuma YB, saya nak sentuh sikit — sikap semua orang bila YB cakap kita nak bincang tentang NETA semua ini. Mungkin ramai penonton dan pendengar malam ini nak dengar benda-benda yang panas. Tapi YB pula nak selitkan benda ilmiah. Ini sebenarnya melawan hukum alam politik — YB nak bercakap benda yang tak "hot" semua ini.
 
-**Rafizi Ramli:** Tak hot kan? Sekarang inilah yang hot, kan?
+**Rafizi:** Tak hot kan? Sekarang inilah yang hot, kan?
 
 **Host:** Hot lah, hot lah. Tapi cerita pasal EV, cerita minggu lepas yang kita dah sebut — walaupun orang marah kat aku pun — tapi pelik, dia sebenarnya ikut platform. Kita boleh nampak, kalau platform yang meletup — maksudnya banyak engagement positif — itu di platform-platform yang penggunanya lebih berpendidikan. Kalau platform lain, keluar komen-komen yang sama, "oh jahat, duit formula," semua itu.
 
-**Rafizi Ramli:** Kita dah sebut minggu lepas bahawa Malaysia kena terima hakikat yang kita tak boleh bergantung dan ketagih dengan bahan api yang murah. Perkara ini sebenarnya sesuatu yang saya dah sebut sebelum PRU 2022 lagi. Kalau ingat, semasa kita menggerakkan Ayuh Malaysia, kita ada lima teras utama. Satu teras utama itu memang tentang peralihan tenaga.
+**Rafizi:** Kita dah sebut minggu lepas bahawa Malaysia kena terima hakikat yang kita tak boleh bergantung dan ketagih dengan bahan api yang murah. Perkara ini sebenarnya sesuatu yang saya dah sebut sebelum PRU 2022 lagi. Kalau ingat, semasa kita menggerakkan Ayuh Malaysia, kita ada lima teras utama. Satu teras utama itu memang tentang peralihan tenaga.
 
 Saya seorang jurutera elektronik, jadi saya faham sedikit sebanyak tentang industri tenaga di Malaysia. Kemudian saya juga pernah kerja di Petronas, jadi dari situ ia memberi dua belah pandangan — tangan kiri dan tangan kanan — mengenai industri tenaga di Malaysia. Soal TNB, elektrisiti, itu soal penjanaan; di sebelah Petronas pula soal arang batu, soal gas, itu soal bahan api. Jadi sebelum saya pun jadi menteri, saya memang ada kebimbangan utama tentang keselamatan tenaga Malaysia — tambahan pula kita dah lihat sendiri apa yang berlaku kepada negara-negara Eropah selepas Perang Ukraine.
 
@@ -452,7 +452,7 @@ Masalahnya, hanya segelintir kecil pemimpin di dunia ini — bukan sahaja di Mal
 
 **Host:** Bagaimana pula dengan pemimpin seperti Zohran Mamdani, contohnya?
 
-**Rafizi Ramli:** I don't know. It's too early to say. Setakat ini, Mamdani lebih kepada *performative*. Sama ada dia boleh melaksanakan atau tidak, kita hanya boleh nampak dalam 5–6 tahun akan datang. Tapi pembawaannya, pendekatannya, lebih kepada performatif.
+**Rafizi:** I don't know. It's too early to say. Setakat ini, Mamdani lebih kepada *performative*. Sama ada dia boleh melaksanakan atau tidak, kita hanya boleh nampak dalam 5–6 tahun akan datang. Tapi pembawaannya, pendekatannya, lebih kepada performatif.
 
 Tapi kalau kita lihat pimpinan dunia yang lain, contoh yang paling saya ingat — mungkin selalu kita terlepas — ialah di China, Deng Xiaoping. Totally different karakternya berbanding Mao Zedong. Dia diam, bukan presiden, pemalu. Tapi China yang ada hari ini, kehebatannya, kekayaannya, semuanya datang daripada kepala otak Deng Xiaoping. Deng Xiaoping yang membuka China. Deng Xiaoping yang berkata, *it doesn't matter whether it's a black cat or a white cat, asalkan ia menangkap tikus*. Sebab itu kita ada keadaan yang unik sekarang — China ialah sebuah negara komunis, tapi paling laju ke hadapan dalam ekonomi kapitalis. Sebab itu Deng Xiaoping ialah pemimpin substantif — bukan performatif.
 
@@ -462,7 +462,7 @@ Tapi kalau kita ambil contoh Churchill — saya rasa kita boleh argue Churchill 
 
 **Host:** Bukankah dia pernah kalah pilihan raya?
 
-**Rafizi Ramli:** No, no, no — jangan masuk yang dia menang balik lepas itu. Kalau kita nak menilai Churchill, lebih adil untuk kita nilai dia dari segi kepimpinannya semasa perang, sebab *as a peacetime leader* dia memang bosan. Dia menang balik tahun 1951 sampai dia bersara, tapi itu tak ada apa sangat.
+**Rafizi:** No, no, no — jangan masuk yang dia menang balik lepas itu. Kalau kita nak menilai Churchill, lebih adil untuk kita nilai dia dari segi kepimpinannya semasa perang, sebab *as a peacetime leader* dia memang bosan. Dia menang balik tahun 1951 sampai dia bersara, tapi itu tak ada apa sangat.
 
 Bayangkan Churchill ini — orang semua tak suka kat dia. Dan kita tak payah *argue* pasal karisma performatifnya — dia disanjung kerana gaya dia sebagai ahli politik, ucapan-ucapannya. Aku ingat dulu aku ni *debater*, aku macam bosan bila *debate*, especially kalau *English debate* di sekolah, sebab orang akan berkali-kali mulakan *debate* dengan quotation dia, speech dia — "*this is not the end, this is not the end, this is the end of the beginning*" — semua itu. Aku pergi cari kat ensiklopedia ucapan orang lain, tiap kali *debate* orang cakap benda yang sama. Tapi tiada siapa boleh bergurau tentang *delivery* dia.
 
@@ -474,7 +474,7 @@ Bila perang tercetus, ahli-ahli parlimen di Britain tengok kiri kanan, dan merek
 
 **Host:** Baik, kita kembali ke dunia sebenar — dah dua jam kita berbual, ini.
 
-**Rafizi Ramli:** Kembali ke Malaysia lah. Masalah kita ialah masyarakat kita, terutamanya di media sosial sekarang, sangat suka yang performatif — buat konten, kalau bagi sumbangan pun kena ambil gambar. Ada orang komplain kat aku, "YB, YB ni kerja berpolitik sahaja, kenapa YB tidak pergi bantu orang semua, bagi sumbangan banyak-banyak macam menteri lain, ahli politik lain?" Kalau aku jenis tak membantu orang, tak adalah aku menang dengan majoriti RM48,000 kat Pandan.
+**Rafizi:** Kembali ke Malaysia lah. Masalah kita ialah masyarakat kita, terutamanya di media sosial sekarang, sangat suka yang performatif — buat konten, kalau bagi sumbangan pun kena ambil gambar. Ada orang komplain kat aku, "YB, YB ni kerja berpolitik sahaja, kenapa YB tidak pergi bantu orang semua, bagi sumbangan banyak-banyak macam menteri lain, ahli politik lain?" Kalau aku jenis tak membantu orang, tak adalah aku menang dengan majoriti RM48,000 kat Pandan.
 
 Pandangan saya, saya tak suka perkara begini dijadikan bahan politik. Kalau saya pergi tolong orang yang susah, kita pergi ambil gambar dia, sebarkan semua — itu tak elok. Kalau nak tolong, tolonglah, itu memang tanggungjawab seorang ahli parlimen. Sama juga bila kita buat kemudahan infrastruktur, tak payah rasmikan bergambar, seolah-olah "akulah yang banyak buat kerja begini-begini," sebab itu memang tanggungjawab kita.
 
@@ -488,7 +488,7 @@ Contoh yang paling baik ialah pergantungan dan ketagihan kita kepada minyak yang
 
 **Host:** Jadi apa sebenarnya YB buat semasa menjadi menteri dahulu? Ramai bertanya, sepanjang tempoh itu, seolah-olah YB tidak berbuat apa-apa.
 
-**Rafizi Ramli:** Ya, orang tanya, apa dia buat jadi menteri, masa jadi menteri dia tak buat apa — sebab mungkin mereka ingat aku jenis yang "oh, saya tak berduit, oh saya umumkan cuti 50 hari tambahan, oh saya bagi bonus itu." Itu performatif — ia tidak akan menyelesaikan masalah.
+**Rafizi:** Ya, orang tanya, apa dia buat jadi menteri, masa jadi menteri dia tak buat apa — sebab mungkin mereka ingat aku jenis yang "oh, saya tak berduit, oh saya umumkan cuti 50 hari tambahan, oh saya bagi bonus itu." Itu performatif — ia tidak akan menyelesaikan masalah.
 
 Jadi perkara pertama yang saya lihat dahulu ialah tenaga ini merupakan *blood veins* ekonomi — macam darah dalam badan. Kalau *blood veins* itu bermasalah, *it will dry and suffocate the economy in the future*. Kita membina ekonomi negara kita dalam tahun 70-an, 80-an, 90-an berasaskan tenaga yang disubsidi gila-gila, murah gila. Sebab itu banyak kilang datang ke sini kerana kos yang murah. Tapi benda itu dah tak boleh diteruskan. Sebab itu kita buat *National Energy Transition Roadmap* — Pelan Hala Tuju Peralihan Tenaga Negara, NETA.
 
@@ -500,7 +500,7 @@ Banyak perkara sebenarnya telah diputuskan di bawah NETA, tapi ada yang rumit un
 
 **Host:** Apa bezanya NETA dengan dasar-dasar tenaga sebelum ini?
 
-**Rafizi Ramli:** Kita sebelum ini pun ada Dasar Tenaga Negara, dilancarkan 2022. Cuma NETA lebih menyeluruh — termasuk benda-benda yang kita tak pernah dengar macam biodiesel, ada 10 tier. Dan ia terus tetapkan siapa yang kena buat apa — Petra kena buat ini, dan ekosistem termasuk EV dimasukkan, MITI kena buat itu — dan ada target-target. Saya rasa itu yang *lacking* dengan kerajaan sebelum ini. Masalah dasar di negara kita ialah — walaupun pembuat dasar daripada dulu sudah cakap kita tak boleh bergantung kepada tenaga fosil yang murah kerana ia akan habis, sudah 20–30 tahun lepas dicakap — tapi tak ada orang berani *deal with the elephant in the room*.
+**Rafizi:** Kita sebelum ini pun ada Dasar Tenaga Negara, dilancarkan 2022. Cuma NETA lebih menyeluruh — termasuk benda-benda yang kita tak pernah dengar macam biodiesel, ada 10 tier. Dan ia terus tetapkan siapa yang kena buat apa — Petra kena buat ini, dan ekosistem termasuk EV dimasukkan, MITI kena buat itu — dan ada target-target. Saya rasa itu yang *lacking* dengan kerajaan sebelum ini. Masalah dasar di negara kita ialah — walaupun pembuat dasar daripada dulu sudah cakap kita tak boleh bergantung kepada tenaga fosil yang murah kerana ia akan habis, sudah 20–30 tahun lepas dicakap — tapi tak ada orang berani *deal with the elephant in the room*.
 
 Kenapa contohnya zaman Najib dulu, walaupun ada cita-cita untuk solar, ia tak ke mana? Setakat 2023, sebelum NETA dibuat, sumbangan solar kepada negara sangat kecil.
 
@@ -510,11 +510,11 @@ Susunan kapasiti terpasang 2025: 29% arang batu, 42% gas, 1% sahaja bioenergi, 1
 
 **Host:** Kita ada dua topik lagi, dan orang masih menunggu segmen Papa Gomo. Boleh kita sentuh sikit pasal EV?
 
-**Rafizi Ramli:** Saya rasa EV itu memang kita kena buat satu siri khas — maaf, EV tak sempat lagi kali ini.
+**Rafizi:** Saya rasa EV itu memang kita kena buat satu siri khas — maaf, EV tak sempat lagi kali ini.
 
 **Host:** Baiklah, kembali kepada soalan tadi — dulu kan dah ada solar, apa sebenarnya Rafizi buat masa jadi menteri?
 
-**Rafizi Ramli:** Masalahnya, bila kita buat dasar tenaga negara, dasar kita semua aspirational — kita mengimpikan negara begini-begitu. Itu yang orang kata, dasarnya bagus, pelaksanaannya tak menjadi. Kenapa pelaksanaan tak menjadi? Sebab kita tak berani sentuh benda-benda yang sensitif. Kalau pasal elektrik, apa yang sensitifnya sangat?
+**Rafizi:** Masalahnya, bila kita buat dasar tenaga negara, dasar kita semua aspirational — kita mengimpikan negara begini-begitu. Itu yang orang kata, dasarnya bagus, pelaksanaannya tak menjadi. Kenapa pelaksanaan tak menjadi? Sebab kita tak berani sentuh benda-benda yang sensitif. Kalau pasal elektrik, apa yang sensitifnya sangat?
 
 Modal sedia ada, monopoli — orang tak berani nak sentuh monopoli. Orang kata, "ini nanti nak membunuh TNB lah." Dan sistem kita ini dibina dengan IPP — *independent power producer* — orang kata kroni dapat. Dapat lesen IPP ini macam dapat cetak duit, kerana sebaik sahaja dapat konsesi itu, kamu boleh bawa ke bank, bank akan *finance* keseluruhan projek. Kemudian kamu tandatangan PPA — *Power Purchase Agreement* — dengan TNB, dan TNB nak tak nak kena bayar.
 
@@ -544,15 +544,15 @@ Sasaran kita 2030, 2040, 2050 — NETA sekarang sudah menjadi *framework*. Kita 
 
 **Host:** Bagaimana pula dengan isu solar atas bumbung (*rooftop solar*)? Kita ada dua lagi topik untuk dibincangkan.
 
-**Rafizi Ramli:** Sikit lagi kot — kita ada dua topik lagi. Kau nak tanya yang mana?
+**Rafizi:** Sikit lagi kot — kita ada dua topik lagi. Kau nak tanya yang mana?
 
 **Host:** Rooftop.
 
-**Rafizi Ramli:** Tak apalah, itu nanti sahajalah. Walaupun kita tak sentuh sekarang, biar saudara-saudari fikirkan sendiri, sebab kita nak cakap pasal Papa Gomo. Tapi sebelum Papa Gomo, kita ada tetamu kita — Zambaki, kan. Kita kena cakap...
+**Rafizi:** Tak apalah, itu nanti sahajalah. Walaupun kita tak sentuh sekarang, biar saudara-saudari fikirkan sendiri, sebab kita nak cakap pasal Papa Gomo. Tapi sebelum Papa Gomo, kita ada tetamu kita — Zambaki, kan. Kita kena cakap...
 
 **Host:** Minggu depan sudah ada.
 
-**Rafizi Ramli:** Selaku spesies terancam yang dipelihara dan dipulihara oleh kerajaan Malaysia — dipulihara, ya, sampai ke sudahnya kita tengok bagaimana Tan Sri Azam Baki... Kita tak tahu apa dapatan sebenar beliau, tetapi kenyataan jurucakap kerajaan baru-baru ini menyatakan bahawa kabinet sudah pun dibentangkan dengan keputusan dapatan itu, dan diserahkan kepada KSN untuk mengambil tindakan. Itu sudah sebulan yang lepas. Tetapi sehingga tiga hari sebelum ini, apabila media bertanya, masih tiada sebarang tindakan diambil. YB boleh komen sikit — bila sudah sampai ke peringkat ketua pesuruhjaya SPRM ini menjadi spesies yang perlu dilindungi, masyaAllah lah kepada kerajaan dan masyarakat kan.
+**Rafizi:** Selaku spesies terancam yang dipelihara dan dipulihara oleh kerajaan Malaysia — dipulihara, ya, sampai ke sudahnya kita tengok bagaimana Tan Sri Azam Baki... Kita tak tahu apa dapatan sebenar beliau, tetapi kenyataan jurucakap kerajaan baru-baru ini menyatakan bahawa kabinet sudah pun dibentangkan dengan keputusan dapatan itu, dan diserahkan kepada KSN untuk mengambil tindakan. Itu sudah sebulan yang lepas. Tetapi sehingga tiga hari sebelum ini, apabila media bertanya, masih tiada sebarang tindakan diambil. YB boleh komen sikit — bila sudah sampai ke peringkat ketua pesuruhjaya SPRM ini menjadi spesies yang perlu dilindungi, masyaAllah lah kepada kerajaan dan masyarakat kan.
 
 Rakyat akan ingat, kerajaan dan kabinet boleh sahaja bagi alasan, "Oh, sebenarnya kami menunggu KSN, KSN belum bawa lagi ni" — tai chi kat KSN lah kan. Sama macam dulu, bila ada pendedahan pemilikan saham, ditai-chikan kepada jawatankuasa kawan-kawan untuk sama-sama disiasat. Semua orang tahu juga bahawa KSN itu bertanggungjawab kepada Perdana Menteri. PM kata "jam dia, jam lah." PM kata cepat, cepatlah dia. Saya pun tak tahu sama ada KSN sedang menyemak perkara ini atau tidak. Mungkin kurangkan sedikit jelajah "Setia Madani" dengan penjawat awam dan sila siapkan yang ini kan. Kalau dia sibuk jelajah Setia Madani sedangkan isu ini akan menjadi beban besar kepada kerajaan kalau terus bagi alasan "pentadbiran kami tengah tunggu laporan, KSN tak bawa lagi."
 
@@ -574,7 +574,7 @@ Jadi, jangan lupa — minggu depan saya akan buat promo tiap-tiap hari. Kita ada
 
 **Amin:** Dia ketua strike—
 
-**Rafizi Ramli:** —com. Ketua strike com orang lain, selain daripada akulah. Amin, yelah. Dan mungkin inilah sebabnya — semasa kempen PH dahulu, waktu PH menjadi mangsa, orang tengok, "oh, kesiannya dia ni kena tangkap, kena intimidasi," orang kesian dan bagi sokongan. Sebaliknya kerajaan yang kononnya nak mengawal trauma awam ini, dia guna kuasanya, tapi backlash itu kepada dia pula — seolah-olah kejam dan zalim. Benda ini playbook yang PH sendiri mendapat labanya dan sendiri sudah mengalaminya. Tapi kenapa sekarang benda itu diulang — bukan 360 darjah, 180 darjah. Ha, 180 darjah, macam tu. Yalah, susah kita nak faham kepala mereka ini kan.
+**Rafizi:** —com. Ketua strike com orang lain, selain daripada akulah. Amin, yelah. Dan mungkin inilah sebabnya — semasa kempen PH dahulu, waktu PH menjadi mangsa, orang tengok, "oh, kesiannya dia ni kena tangkap, kena intimidasi," orang kesian dan bagi sokongan. Sebaliknya kerajaan yang kononnya nak mengawal trauma awam ini, dia guna kuasanya, tapi backlash itu kepada dia pula — seolah-olah kejam dan zalim. Benda ini playbook yang PH sendiri mendapat labanya dan sendiri sudah mengalaminya. Tapi kenapa sekarang benda itu diulang — bukan 360 darjah, 180 darjah. Ha, 180 darjah, macam tu. Yalah, susah kita nak faham kepala mereka ini kan.
 
 Sebenarnya, kalau kita offensive — memang betul, saya memang selalu offensive lah, saya tidak pernah jadi defensive dalam apa-apa yang saya buat. Itu yang orang kata "agresif," itulah sebenarnya. Memang kita kena offensive — main bola, kau duduk depan tiang gol sendiri, bila pula nak menang? Memang you kena attack. Cuma, offensive itu berbeza semasa kita jadi pembangkang berbanding jadi kerajaan. Kalau jadi pembangkang, kita perlu offensive dalam mendedahkan kelemahan kerajaan, terutamanya kalau ada salah laku, rasuah, integriti. Yang itu kita kena offensive kerana kitalah benteng terakhir rakyat. Kalau kita tidak menyebutnya, jabatan-jabatan kerajaan — SPRM, PDRM — sebenarnya menjawab kepada menteri mereka, mereka tidak akan bertindak sendiri. Selagi kita tidak ada institusi yang bebas, maka kita nak harap SPRM pergi tangkap menteri sendiri, saya rasa tidak akan berlaku. Jadi sebagai benteng terakhir rakyat, kalau kita pembangkang, bila ada kes integriti dan rasuah, memang kita kena membangkang, kena agresif. Kita juga kena offensive soal-soal dasar, untuk menunjukkan dan meyakinkan rakyat bagaimana kita akan buat secara berlainan. Kalau kita rasa, seperti tadi soal tenaga, ada perkara yang bermasalah dan cara business as usual itu tidak akan menyelamatkan negara daripada menjadi Titanic melanggar iceberg — then you kena bentangkan, you kena yakinkan. Itu sebagai pembangkang, cara offensive pembangkang.
 

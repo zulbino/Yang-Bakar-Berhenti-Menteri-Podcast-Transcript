@@ -9,11 +9,10 @@ duration_seconds: 11428
 duration: 3h 10m
 view_count: 199839
 hosts:
-- Rafizi Ramli
+- Rafizi
+- Wan Afiq
 guests:
-- Afiq
-- Amin Sahmat (Speaker 4)
-- Speaker 3
+- Amin Sahmat
 topics:
 - Labour Day and social commentary
 - Tan Sri Azam Baki's retirement remarks and SOGO demonstration
@@ -70,11 +69,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Afiq:** Assalamualaikum and greetings. We're back again in...
+**Wan Afiq:** Assalamualaikum and greetings. We're back again in...
 
 **Rafizi:** So excited already, even before we've started I already feel super pumped, better than a radio DJ. Patience, patience, patience. We've got more than two hours left.
 
-**Afiq:** So, should I start over? Okay, sorry, my apologies. This is my first time on YBM. This is already episode 46. With me, Afiq, I'm Amin Sahmat. The reason you're all here, I don't think we're trying to hype up YBM. Please feel free to like, subscribe, and support our channel on Spotify and YouTube.
+**Wan Afiq:** So, should I start over? Okay, sorry, my apologies. This is my first time on YBM. This is already episode 46. With me, Afiq, I'm Amin Sahmat. The reason you're all here, I don't think we're trying to hype up YBM. Please feel free to like, subscribe, and support our channel on Spotify and YouTube.
 
 **Rafizi:** No lying here, because Haziq has disappeared to who knows where. Haziq isn't here, so you all have to cover for him. Haziq needs to learn, we need to learn. Where did Haziq go, nobody knows. I actually don't know. Does nobody know?
 
@@ -90,45 +89,45 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** This is Afiq, from Terengganu, and this is Amir, from Selayang. They've had — not "had," they actually have a podcast, right — Selayang Jawab, Selawat Selayang Jawab. That's it, I'm paying them to help promote their podcast. Like the best kind.
 
-**Afiq:** So, Abie, let's proceed. Okay, our first segment, as usual. Pa'an is laughing at you, but never mind.
+**Wan Afiq:** So, Abie, let's proceed. Okay, our first segment, as usual. Pa'an is laughing at you, but never mind.
 
 **Rafizi:** I try my best.
 
-**Afiq:** We need to cut down on the sugar a bit, since you're so hyped up today.
+**Wan Afiq:** We need to cut down on the sugar a bit, since you're so hyped up today.
 
 **Rafizi:** Beria, Mat! Beria! Beria! Right from the start we already have "Jalan Beria," Mat. Okay, let's move on to — oh wait, before that, we haven't wished everyone Happy Workers' Day. May 1st, Happy Workers' Day. Alright, Happy Workers' Day to everyone.
 
-**Afiq:** Everyone.
+**Wan Afiq:** Everyone.
 
 **Rafizi:** Happy Workers' Day to everyone, except those still working. Only in Malaysia, Workers' Day carries a bit less context, since it's more celebrated as a holiday here compared to other more left-leaning countries. Workers' Day has connotations of socialism, communism. It's the same as Women's Day and Workers' Day — many don't know that both of these originated from left-wing movements, meaning communist and socialist movements. Women's Day actually commemorates women — I recall in St. Petersburg — who marched in large numbers demanding that Tsar Nicholas step down. Workers' Day was indeed meant to celebrate the Soviets, meaning to celebrate labour union groups. But in Malaysia, both connotations have been lost, and it has simply become a holiday celebration. So, happy working. Happy working together.
 
-**Afiq:** Thank you.
+**Wan Afiq:** Thank you.
 
 **Rafizi:** MACC isn't working today, so it's not like I'll suddenly not have a podcast tonight because of that. Touched on it early. So now let's meet our biggest figure — it's a long story. Is this Tan Sri Azam Baki's final appearance as a guest on this podcast, since it's been three months already, almost every week he's been on this podcast. Maybe not. Maybe he'll be appointed senator. Maybe. Thank you.
 
-**Afiq:** Hopefully not, right. This is from — this is from the time of the demo the other day, a reporter asked him if he wasn't going to the demo, and he said he wasn't invited.
+**Wan Afiq:** Hopefully not, right. This is from — this is from the time of the demo the other day, a reporter asked him if he wasn't going to the demo, and he said he wasn't invited.
 
 **Rafizi:** Why does his face look like Jamal Abdillah's?
 
-**Afiq:** That's understandable to ask.
+**Wan Afiq:** That's understandable to ask.
 
 **Speaker 3:** I asked him to share his skincare routine.
 
 **Rafizi:** He does look different, looks a bit younger. You guys always mock his red eyes, then suddenly he wears shades. Sorry, can't see his eyes anymore. But he's stylish there — "I won't be gathering in front of Sogo after my term of service ends." This was because someone asked him whether he'd join the demo or not.
 
-**Speaker 4:** He's about to retire, then a reporter asked, what is Azam Baki going to do after this, after he retires. He said he's a civil servant, his duty is to serve the nation, but "I won't be meeting in front of Sogo" — like he was being sarcastic, saying he wasn't invited, so why would he suddenly show up.
+**Amin Sahmat:** He's about to retire, then a reporter asked, what is Azam Baki going to do after this, after he retires. He said he's a civil servant, his duty is to serve the nation, but "I won't be meeting in front of Sogo" — like he was being sarcastic, saying he wasn't invited, so why would he suddenly show up.
 
 **Rafizi:** That's a deep wound, a deep wound indeed. Usually, senior civil servants like this, after they retire, usually get placements in companies as board members. RM20,000 here, RM30,000 there — if you have 10 boards, that's RM300,000 a month right there. So he really doesn't need to think twice about this demo; after this, aside from maybe becoming a board member, he'll be trading stocks already. So he commented — nobody even asked him — he answered on his own about this Sogo demo. I think that's the effect of the podcast and also the demo, it really left a deep wound on him. So hyped up, but more hyped up in terms of skincare I guess. Shame on you guys — look at your face, compared to Azam Baki's.
 
-**Afiq:** I really am terrible.
+**Wan Afiq:** I really am terrible.
 
 **Rafizi:** Maybe he takes biotin?
 
-**Speaker 4:** If we assume the best, maybe it's from his wudhu.
+**Amin Sahmat:** If we assume the best, maybe it's from his wudhu.
 
 **Rafizi:** There's stuff on TikTok now, those pills. There are lots of reels saying if you want to look young, take biotin. So you all need to think positively. For all you know, he takes biotin. But it really seems like he never knew... how careful he should be.
 
-**Afiq:** So, maybe let's move to the next hype item. Can we?
+**Wan Afiq:** So, maybe let's move to the next hype item. Can we?
 
 **Rafizi:** Sure. You guys are mean — you put up a photo of Zafrul wearing a BN shirt, where's his PKR shirt? Can't find it. You should have put his outfit from when he was with Tan Sri Muhyiddin, then the BN shirt, then the PKR shirt. And if PKR doesn't win the upcoming election, InsyaAllah he'll be wearing a songkok and a PAS shirt after this. So now it's job hunting — well, not job hunting, this isn't even a job yet, he's already doing an internship, so he's already been working around Pandan area, which is quite telling... You guys are mean too, netizens are mean too. The one where he commented about going to Al-Azim Mosque in Pandan — the biggest mosque in Pandan Indah, right — and he said it was hot, because someone replied, "just going to pray already feels hot." This one is actually because Zafrul is at Pandan every single day now. So it's clear he's already been promised to contest in Pandan. And insiders within PKR have also said, indeed he's been directed to contest in Pandan too. So we'll be getting a lot more of these "internship reports" like this.
 
@@ -136,7 +135,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** I laughed at that too, netizens really are mischievous. Because he made content about a DB, a distribution box, that exploded, so he went to check it out. So the netizens' response was — if it exploded, what do you call this, TNB, right? And that place too, Nuri Court, we've been there over and over ourselves. But good luck to him. I recall the voters in Pandan, they'll ask for a lot of money, ask for a lot, ask for everything.
 
-**Afiq:** But it's not comfortable, he's getting older already, InsyaAllah he'll help fully.
+**Wan Afiq:** But it's not comfortable, he's getting older already, InsyaAllah he'll help fully.
 
 **Rafizi:** What was it, Al-Azim Mosque, if you compare to 10 years ago — true, it's not that hot anymore. In my opinion, if you want to help, there are many more small mosques or surau where people pray Friday prayers that might be hotter. There's one near Pandan Jaya, behind Pandan Prima — I think it's Surau Al-Hilal, that one is hotter if you want to compare. It's just that with a big mosque, if you ask the congregation, I don't think the congregation would say it's hot. It already has big fans, it's quite okay, airy, but the next stage they want is — well, air conditioning, of course. So for me as an MP, that's usually how it goes when we decide who to help — we look at the overall picture, which one we think might be more urgent, and we help that one first, in smaller increments. And if you look, I've never made content about giving assistance. Actually, I've never made content, because to me that's simply the duty of an MP. Whatever we help with, we distribute it. And I think it's very feudal if a mosque, or a school, or a group of people, has to go through the trouble of spending half a day sitting in front waiting to receive a cheque just to get assistance from their MP. So for mosques and surau, whatever assistance we give, we either send the cheque directly or collect it all at once. And even that, if you notice, I've never made content about it — that's just a different perspective, and I'm actually very anti-feudal, because I put myself in their shoes — if it were me, I'm the one struggling with the community every day, while the representative only shows up occasionally, and then just to get RM2,000-RM3,000 I have to praise him and grovel. So when I became an elected representative, I tried my best to make sure that the people we deal with don't feel that way. But well, that's me. Other people, later on, maybe their fan at home isn't even working, pop, there's Zafrul — maybe he'll have to make a video to get help. I'm worried that this Saturday — tomorrow — he'll have a mobile counter.
 
@@ -148,59 +147,59 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** So if you're in KL, if someone wants to come see you to complain, they have to pay for a Grab — back then it was taxis — pay up to RM80 for a taxi, RM40 there, RM40 back. They don't have a car, they'd have to walk, cross the huge MRR2. So it doesn't make sense for an MP to just sit at the service centre; you do need to be there sometimes too, but I mean if the arrangement is that people have to come to the office to meet their MP, it doesn't work like that. You actually have to go to every area, as much as possible, moving from one area to another, so that people who are truly struggling there don't have to walk far. So it's not really about making content or gaining support — that's genuinely the duty of an MP, and the way to reduce the burden on the people is for you to go to them yourself. So whether it's Zafrul or not — I don't quite understand either, let's see. Part of it is because they're afraid of getting scolded on the spot — you really do get scolded on the spot, because say you divide the area into maybe 40 neighbourhoods, 40 areas, and it takes you a whole year to complete one round of the entire constituency. So by the time the next round comes to that area, they'll say, "YB hasn't been here in a year." So usually people want to avoid that — then they'll tell stories, sometimes about things that can't be resolved, and they get angry, all that. So I think a large portion of elected representatives don't want that. But I think that's part and parcel of being an elected representative. Whether Zafrul wants to copy this afterwards — if Zafrul copies it, good, Alhamdulillah, because it should become the norm.
 
-**Afiq:** If he copies it, he should copy it exactly, wholesale, no shame at all.
+**Wan Afiq:** If he copies it, he should copy it exactly, wholesale, no shame at all.
 
 **Rafizi:** He really has no shame — that's why it's not surprising. If he were the type to feel shame, he wouldn't have been able to leap from Tan Sri Muhyiddin to UMNO. UMNO elevated him all the way to becoming treasurer.
 
-**Speaker 4:** UMNO Selangor treasurer.
+**Amin Sahmat:** UMNO Selangor treasurer.
 
 **Rafizi:** They elevated him, made him a candidate outright. Then, Anwar cursed him out relentlessly before the election, and by December 2022 they became best friends forever, BFF right up to now. So if he were the shy type, he wouldn't be the Tengku Zafrul he is today. So I don't put it past him to do any of that. But I think we should celebrate this — if he does set up a mobile counter, then it's actually more helpful, because sometimes we don't even have enough manpower and resources to solve all these problems either.
 
-**Speaker 4:** YB, I want to ask something. Earlier YB mentioned about the delivery of assistance from parliament, as an MP — in terms of reachability, being reachable to voters. If we look at YB's approach, YB doesn't want to expose it. If I compare — if YB knows, Duyong assemblyman, Dr Ilmi, he's more inclined to publicize on social media. In terms of being reachable, in YB's view, whether we stay quiet or we expose it, which is more reachable to the people?
+**Amin Sahmat:** YB, I want to ask something. Earlier YB mentioned about the delivery of assistance from parliament, as an MP — in terms of reachability, being reachable to voters. If we look at YB's approach, YB doesn't want to expose it. If I compare — if YB knows, Duyong assemblyman, Dr Ilmi, he's more inclined to publicize on social media. In terms of being reachable, in YB's view, whether we stay quiet or we expose it, which is more reachable to the people?
 
 **Rafizi:** For me, at the end of the day, it depends on our intention. I look at all of this perhaps from a different perspective — I've never looked at it in terms of winning an election. One is, we're Muslims, right, when the right hand gives, ideally the left hand shouldn't know. The second is, helping is genuinely a responsibility, it's genuinely our job. And I'm more afraid of — it's like the old saying, working without putting in enough hours, taking a salary without putting in enough hours — so I'm more afraid of that, that we do all this so that we've truly fulfilled our responsibility and we have earned the rezeki. Whether people know about it or not, whether it's reachable or not, all of that — it comes down to whether or not you believe that ultimately whether people vote for you or not is entirely Allah's decree. That's why — look, since 2013, I've hardly posted content related to helping the poor or anything like that. I really haven't — what matters is that the assistance reaches people as quickly as possible, if not from me then from my service centre, and there's no need to wait for me. What matters is that the person genuinely gets the assistance, unless after 2-3 weeks nothing's happened and they still want to meet their MP, then that's fine. Because in the end, I believe if we do our work properly, with sincere intention, honestly, Allah will help us. Whether or not it's on TikTok, whether or not it's on Facebook. Understand?
 
-**Afiq:** Okay, clear. So YB, this is all just hype and heat. So next, let's move to the next hype item. Let's go back to the Land of PAS.
+**Wan Afiq:** Okay, clear. So YB, this is all just hype and heat. So next, let's move to the next hype item. Let's go back to the Land of PAS.
 
 **Rafizi:** How could you call Kelantan the Land of PAS?
 
-**Afiq:** It's been that way for so long.
+**Wan Afiq:** It's been that way for so long.
 
 **Rafizi:** He's from Besut, has Kelantanese blood. This is the issue between Kelantanese and Besut people. Which one is this? The Melor assemblyman?
 
-**Afiq:** Yes, that's right, YB.
+**Wan Afiq:** Yes, that's right, YB.
 
 **Rafizi:** So what's the Melor assemblyman's name?
 
-**Speaker 4:** Wan Rohimi.
+**Amin Sahmat:** Wan Rohimi.
 
 **Rafizi:** Wan Rohimi.
 
-**Afiq:** So the story is simple, he organized a convoy. Really simple, and honestly I find it amusing, and his speech — he questioned something, he used the word "stupid," but from a Kelantan perspective that word "stupid" is defined more like casual language — like "what's wrong with you" — for Kelantanese people, that's just how it is. But the point here we want to look at is he claimed he managed to bring 3,000 motorcycles, a lot, but in the video there were only fewer than 200.
+**Wan Afiq:** So the story is simple, he organized a convoy. Really simple, and honestly I find it amusing, and his speech — he questioned something, he used the word "stupid," but from a Kelantan perspective that word "stupid" is defined more like casual language — like "what's wrong with you" — for Kelantanese people, that's just how it is. But the point here we want to look at is he claimed he managed to bring 3,000 motorcycles, a lot, but in the video there were only fewer than 200.
 
 **Rafizi:** Oh, that one puzzles me too — right from the start why did you put up the photo from the demo, what's it called, the one capturing Azam Baki up there. Oh, so it's to compare that PAS claims a lot, 9,000 people, but the one above, which is fairly clearly more crowded — 300 people. But this Melor assemblyman too, 3,000.
 
-**Afiq:** There's a lot of communication going on here.
+**Wan Afiq:** There's a lot of communication going on here.
 
 **Rafizi:** Overclaiming, you know, it's not much — nowadays actually there's ChatGPT, it's actually quite accurate. You take photos from different angles, then you upload them to some of these AIs, and ask them to do the count, and it's not far off. Like what we did, our calculation very quickly came to about one and a half thousand, ChatGPT/AI put it between one and a half thousand to two and a half thousand, media estimated roughly a thousand. So it's not worlds apart. But back to Wan Rohimi, about the word "stupid" — he said "stupid police."
 
-**Speaker 4:** Did he mean we got "stupid-ed" by the police, or the police got "stupid-ed" by him?
+**Amin Sahmat:** Did he mean we got "stupid-ed" by the police, or the police got "stupid-ed" by him?
 
 **Rafizi:** It's the other way around, actually. I'm three-quarters Kelantan-Besut blood and one-quarter Terengganu blood — he said the police got "stupid-ed" like that, just like that. So if you want to call it hyped up, sure, it's hyped up. There isn't really a concept — he has two perspectives here, it's not just a matter of meaning. One is, as an elected representative, and if Wan Rohimi is even more sensitive about this, since he's a lawyer — he's PAS's chief lawyer — he of all people shouldn't be setting an example that encourages people to break the law. Traffic rules are traffic rules. When he said "the police just got stupid-ed" like that, because I understand he meant the police set up a roadblock, a roadblock, but he rode around via the road on the other side — that's what he meant. And it's fine that he went through the village road, but I mean, to avoid that roadblock, he rode on the other side against the flow of traffic, and this already breaks the law and endangers people. Then PAS has a lot of influence among young people who ride motorcycles — I went back for Raya in Kemaman, last Raya, until around 2am, I was shocked, along the entire road there were hundreds of motorcycles racing just like that, all of them. This is true, this really happened — in Cukai, right after exiting the highway, within about 5km before the town, there's a long road heading toward Cukai town — at 2am they were racing there, not caring about anyone, and those of us on the side were scared, we had to wait for them to stop before we could drive back. There were no police either, I think the police have already given up. So as an elected representative, a legal practitioner, we can't — even though we need support from these young motorcycle riders — we can't be encouraging them. And that's what I think PAS hasn't been careful about regarding this motorcycle issue. They want the support of these young motorcycle riders so badly that they're showing faces that make other people uncomfortable. This is one thing, meaning encouraging rule-breaking, encouraging disrespect for the law and the police. And then to be proud and say "we can call the police stupid" just like that. Another perspective is about decorum — you saying "stupid-ing," "stupid police," maybe in Kelantanese it means the same as not taking it seriously, but in terms of slang connotation, for an elected representative, especially a lawyer like him, he shouldn't be using the word "stupid" — a word that's why the police went straight ahead and charged him for it. He's challenging the authorities, essentially. You can criticize the police, sure — but there's a way to criticize, we criticize MACC all the time — but don't let it become an example to the young ones that we can bully or disregard the law. This isn't a complicated legal matter, this is about road safety — the police set up a roadblock, so after this if the police set up a roadblock anywhere for young kids, it's all fine, "today we're going to stupid-ing the police," that's a problem.
 
-**Afiq:** He's not setting a good example. So okay, how many do we have? Any more hype items or not? There's more. This is a loyal YBM guest.
+**Wan Afiq:** He's not setting a good example. So okay, how many do we have? Any more hype items or not? There's more. This is a loyal YBM guest.
 
 **Rafizi:** Who is it?
 
-**Afiq:** Another version of RR.
+**Wan Afiq:** Another version of RR.
 
 **Rafizi:** Oh, Red Fire By.
 
-**Afiq:** But what's interesting about this one, this one is a Malaysiakini journalist, Nantakumar, he's long focused on cases and exposés about foreign nationals, foreign workers. So he's the one who's done a lot of research and reporting about Turap, the recent one.
+**Wan Afiq:** But what's interesting about this one, this one is a Malaysiakini journalist, Nantakumar, he's long focused on cases and exposés about foreign nationals, foreign workers. So he's the one who's done a lot of research and reporting about Turap, the recent one.
 
 **Rafizi:** But what's interesting is, when I watched the news, I saw them raid his house — his house in Serdang. Poor guy, the journalist must be genuinely scared, people are smart with him — no, if you look at his house, his house is more like B40. We all assume, especially the M40 crowd, living in KL, at least in a flat or apartment. I think Nantakumar, poor guy, lives in a wooden house in Serdang. So if you put that into perspective, meaning these people really are putting their lives on the line — there are people among our media who put their lives on the line to bring issues to the public, and he gets nothing out of it. Actually, if he became a sycophant, I'm sure he'd be super rich by now. So the context of seeing his house reminds me actually, even though it's pitiful — it really is pitiful — but it means we still have hope in this society, because there are characters who don't prioritize money and status in order to bring the truth. It's just funny, though, when it comes to the raid on Nantakumar — Rembau, can't touch at all, untouchable, ha, don't ask me, ask the Prime Minister. So before this there were plenty of cases where journalists exposed things about the government, about ministers, about the PH era, but the police didn't act as quickly as when — this report is from the Ministry of Human Resources, from KESUMA. The report, I believe, is related to Nantakumar allegedly possessing official government documents, so they went and raided, but didn't find anything. It's just hyped up if you think about it — Rembau is the Minister of Human Resources, he should be the one leading the charge to protect the welfare and rights of workers — I mean, media people are workers too — but Nantakumar has previously been arrested for trying to research, investigate about foreign workers, and then his house got raided. So I was surprised when KESUMA filed a police report — we can't even blame the government officer, because if he's been given instructions, he's forced to file the police report. And the police, so hyped up, immediately went to raid Nantakumar's house.
 
-**Afiq:** So didn't KESUMA think that if they did this it would backfire on the government? You've never been in government.
+**Wan Afiq:** So didn't KESUMA think that if they did this it would backfire on the government? You've never been in government.
 
 **Rafizi:** That's exactly why I'll never join the government. It's actually a bubble in there. In government, especially if you're a minister, you get riled up quickly. I once filed a police report, by the ministry, only once — I remember this, Yemen — not me, I mean the ministry filed a police report only once.
 
@@ -208,35 +207,35 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** About marijuana. Oh yes, yes, yes — someone sent marijuana to me. So we had to file a police report, otherwise the police might think I ordered marijuana. That's the only police report we've ever filed. So back when I was in office, if people criticized me or whatever, I'd respond. That's why early on I got the nickname "the minister who burns." When people criticize you and all, we can't be suing people all the time. Sure, as a minister, as government, it's easy to send in the police, sue, all that — but you chose to be a minister up there, you chose to become part of the highest administration. So people will have all kinds of views, they have things they want to ask. If what they say isn't true, you explain. If what they accuse is a lie, you show the correct documents. That's it. But not all ministers are like that, not all ministries, senior government officials are like that. This is a problem too, because — friends in the police under that ministry, MACC under the Prime Minister — so when that government is in power, whoever touches it, they think "uh oh, this is my boss's friend," "uh oh, this is that minister" — so it becomes difficult. And we still don't have that culture where we respect that if you want to be a minister, why — of course people will attack you every day, if you can't handle that, don't become a minister. If people attack you, you respond. If people criticize you on TikTok, you respond on TikTok. If your TikTok presence isn't strong enough, then you need to work on building up your TikTok. That's actually what we went through. When I was a minister, early on because I was slow to open TikTok, so my TikTok fell behind. So whether I liked it or not, there came a point where we had to make the decision that we needed to make TikTok content. So no matter how tired I was, I did it too, I recorded almost every day, up until now — every day there's a recording. Because that's the reality of information delivery nowadays. So in Putrajaya, I think, that bubble hasn't burst yet. And whichever government comes in, if that bubble isn't burst, it will keep repeating like this. If PAS becomes the minister, they'll send police to arrest people they don't like. If UMNO, it's the same. So I think at some point, we need to raise public awareness, provide enlightenment. And ministers who like sending police and so on to raid people, we need to troll them as much as possible. Only then will they understand, hopefully — or make sure they don't become ministers in the next election.
 
-**Speaker 4:** Understood, understood YB. I want to ask something YB, about what YB mentioned earlier regarding delivery. One, YB's experience as a former minister — we have government delivery agencies, we have JASA, we have Bernama...
+**Amin Sahmat:** Understood, understood YB. I want to ask something YB, about what YB mentioned earlier regarding delivery. One, YB's experience as a former minister — we have government delivery agencies, we have JASA, we have Bernama...
 
 **Rafizi:** That one might be in our...
 
-**Speaker 4:** The...
+**Amin Sahmat:** The...
 
 **Rafizi:** We actually have a slot to discuss the social media war happening now, and that goes right into that question — why, for example, every time there's a new government, this matter of information delivery gets into disputes and looks very defensive, even though we have agencies, we have JKOM, we have everything.
 
-**Afiq:** Ok, clear. So YB, let's wrap up. Amin wants to ask more, not satisfied?
+**Wan Afiq:** Ok, clear. So YB, let's wrap up. Amin wants to ask more, not satisfied?
 
-**Speaker 4:** One more thing. YB mentioned two things earlier that caught my interest — one more is about, if we look at it now, can a minister order — can the Madani Minister order the police to raid?
+**Amin Sahmat:** One more thing. YB mentioned two things earlier that caught my interest — one more is about, if we look at it now, can a minister order — can the Madani Minister order the police to raid?
 
 **Rafizi:** Well, be careful — I don't think you can say a minister orders the police. A minister might instruct that a police report be filed, and it's the police's decision from there. It's just that when the police report comes from either the minister's office or a key ministry, it gets priority for police action.
 
-**Speaker 4:** But in terms of media freedom, if we look at this year, our freedom index has dropped a bit — from 80-something to 95, if I'm not mistaken. And then we have this issue. And if we flash back to 2016, before 1MDB blew up — The Edge got suspended, DAP got suspended, everything, Sarawak Report got blocked — are we now on our way back to an era where media freedom is almost being restricted? Because the response from the ground, from the public, they see our media freedom getting worse and worse — yes, we used to say we wanted to do something to give media freedom, but now, it's becoming worse.
+**Amin Sahmat:** But in terms of media freedom, if we look at this year, our freedom index has dropped a bit — from 80-something to 95, if I'm not mistaken. And then we have this issue. And if we flash back to 2016, before 1MDB blew up — The Edge got suspended, DAP got suspended, everything, Sarawak Report got blocked — are we now on our way back to an era where media freedom is almost being restricted? Because the response from the ground, from the public, they see our media freedom getting worse and worse — yes, we used to say we wanted to do something to give media freedom, but now, it's becoming worse.
 
 **Rafizi:** I don't think I'm in a position to give that answer because my answer is only my opinion, and my opinion doesn't necessarily represent all Malaysians. That's the issue with media freedom, democratic space in society — governments or political parties only realize it once they've been hit by it themselves. So what we know only comes from official reports. So now, the report that's considered most credible in the world, RSF — Reporters Without Borders, RSF, Reporters Sans Frontières — indeed media freedom in Malaysia has dropped in every aspect, except for media safety alone — of course it's safe, we don't have a war. But to say whether the government knows, the government is concerned, or the public knows, I think it's very difficult to gauge unless you conduct a comprehensive survey with the public about media freedom and democratic space. And that's what becomes a burden for PH, because among the three main coalition parties, the one seen as campaigning the most on democratic space is PH, the one seen as progressive is PH — progressive meaning believing more in the voice and decisions of the people. It's not practical that politicians know everything. So with things like this, and looking at the tolerance level of PH leadership, plus a minister like Rembau, who has zero tolerance level at all for questions or issues raised, then eventually people will feel like things are getting narrower — can't even ask a little, can't even criticize a little, comment a little and people say "nyet-nyet-nyet." So that's it, over time it sticks in people's minds — you know, you say you're democratic, but we feel like we have to self-censor. Can't ask this, can't ask that, report on this and the police will come. Eventually it starts to manifest — the RSF media freedom ranking is one thing, but it starts to manifest in people's minds, which ultimately ends up at the ballot box.
 
-**Afiq:** Clear.
+**Wan Afiq:** Clear.
 
 **Rafizi:** Okay baby. So you guys pick which one, since you're special guests.
 
-**Afiq:** Amir picks, whichever one is the most hyped up.
+**Wan Afiq:** Amir picks, whichever one is the most hyped up.
 
-**Speaker 4:** There were four earlier. For me, the most hyped up is actually, in my view, baby.
+**Amin Sahmat:** There were four earlier. For me, the most hyped up is actually, in my view, baby.
 
 **Rafizi:** No worries, that's your right.
 
-**Speaker 4:** I'll go with Zafrul, since firstly he's become an unpaid intern officer, baby.
+**Amin Sahmat:** I'll go with Zafrul, since firstly he's become an unpaid intern officer, baby.
 
 **Rafizi:** I agree, Pa'an agrees too. Ha, okay, okay, okay. So that means twice already, two weeks in a row, that choice has gotten unanimous consensus.
 
@@ -248,27 +247,27 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** We all agree because of that huge billboard of his. So if his viewers outside agree, comment one thing — for BN that's rare, since he's willing to be an intern in Pandan. Okay, clear, moving on. So let's go to Hidup Keras.
 
-**Afiq:** Hidup Keras.
+**Wan Afiq:** Hidup Keras.
 
 **Rafizi:** We have 4, so we probably need to pace ourselves a bit. How much time do we have left? We're at 39 minutes.
 
-**Afiq:** 39 minutes.
+**Wan Afiq:** 39 minutes.
 
 **Rafizi:** So we have roughly 2 hours left, more or less. On purpose, on purpose. Alright, this week's topics aren't too heavy.
 
-**Afiq:** Okay, so let's go to the first one — the Negeri Sembilan crisis. So this issue is hard to understand, it's very complex.
+**Wan Afiq:** Okay, so let's go to the first one — the Negeri Sembilan crisis. So this issue is hard to understand, it's very complex.
 
 **Rafizi:** Is it hard to understand?
 
-**Afiq:** Hard, actually. It's connected to — it's like pulling apart the roof.
+**Wan Afiq:** Hard, actually. It's connected to — it's like pulling apart the roof.
 
 **Rafizi:** Its root cause. Ha, its root cause — well, there are many stories, and then Negeri Sembilan has the adat perpatih custom too.
 
-**Afiq:** That makes it hard. So for me, how can we simplify it, explain the chronology?
+**Wan Afiq:** That makes it hard. So for me, how can we simplify it, explain the chronology?
 
 **Rafizi:** I think we need to understand the origins of what started this. At first, it only appeared to be a conflict between — not "law," but "Undang." There are four Undang in Negeri Sembilan. So there are four Undang in Negeri Sembilan, plus the Tunku Besar Tampin, right? Yes, Tunku Besar Tampin. Not 4, but plus 1 — yes, Tunku Besar Tampin. It began with a dispute between the Undang Yang Empat — actually correct, they don't call it "undang-undang" (law), they call it "Undang Yang Empat" — and also Tunku Besar Tampin, with, what's it called, His Majesty the Yang di-Pertuan Besar of Negeri Sembilan, Tuanku Muhriz. And we only found out now because this issue has blown up. This matter, before this, the proceedings of this dispute took place within the Dewan Keadilan dan Undang Negeri Sembilan, DKU, which is the highest council that coordinates and governs the adat perpatih — for those who aren't from Negeri Sembilan, I don't know how many people understand about adat perpatih, the origins of Negeri Sembilan. Even I — I'm not from Negeri Sembilan, but I have some interest in history. Because its origins, Negeri Sembilan people were traders — the Minangkabau, previously traders from Sumatra. So when they settled in Negeri Sembilan, they had districts — that's what became "Sembilan" (nine). And among themselves, it was like village chiefs. So to have someone like a king who could govern and be accepted by all of them, originally they agreed to invite a Melewar king from Sumatra — Padang, Pagar Ruyung — from Pagar Ruyung. So initially, every time they wanted to choose a Yang di-Pertuan Besar, they needed to agree on who to invite from Pagar Ruyung. And this continued until, I believe, Yang Tuan Radin — after Yang Tuan Radin, the agreement was that the Yang di-Pertuan Besar must be from the lineage and descendants of Yang Tuan Radin. That was in the 1870s or so. So that's why adat perpatih is very democratic, and it follows maternal lineage — from the bottom up, and the luak (districts) — I've forgotten now — the anak buah...
 
-**Speaker 4:** Buah.
+**Amin Sahmat:** Buah.
 
 **Rafizi:** Buah, Pak Lembaga, Undang. Then Lembaga, then Undang Yang Empat, that's who selects the Yang di-Pertuan. So actually when it blew up, that's when we found out that the issue concerning one of the Undang, the Undang of Sungai Ujung, had already begun back in 2025. So there were discussions and complaints, and the matter was handled at the DKU level. Until April, DKU announced that the Undang of Sungai Ujung had been stripped of his title — so that's where it started. At that time, when the Undang of Sungai Ujung was stripped of his title, I recall it didn't become much of a news story, it was all quiet. Then the big thing happened when the Undang Yang Empat made a media statement — dethroning His Majesty Tuanku Muhriz — done live, meaning they did it via livestream. And following on from that, what's it called, they dragged in Tok Mien, Dato' Seri Aminuddin Harun as Menteri Besar, because it started when the Undang Yang Empat said that Tok Mien too had to step down. And the last part was when — not 19 ADUNs, oh, 19 ADUNs combined with PN's 14, BN's 5, BN — until the BN ADUNs made a move — what do you want to call this move, the "pertang" move, or the "Jalaluddin" move? The "walking" move, people call it many things. On social media people call it the "walking move." They made the decision to withdraw support for Tok Mien. So that's actually the simplest background we can explain. What began as a difference of opinion and a dispute at the level — people call it "nobility," actually at the noble level — suddenly it dragged the entire politics of Negeri Sembilan into it. It's just that even this, in the current situation, is genuinely connected because adat perpatih has already been incorporated into the Negeri Sembilan Constitution (Undang-Undang Tubuh). For example, to appoint a new Menteri Besar, or any Menteri Besar, it's not solely with the consent of the Yamtuan, it must be with the Four Undang. Same with wanting to change — the assembly, not that — unlike other states where it can be dissolved by the Sultan alone, it requires the Four Undang. So in the situation with the Four Undang, one doesn't see eye to eye with the Yamtuan; secondly, the Undang of Sungai Ujung, according to the Negeri Sembilan government's position, has been dismissed; then there's another Undang who hasn't yet been installed — the Undang of Rembau, the youngest one. There are four Undang: Sungai Ujung, Rembau, Johol, Jelebu — I think one of the Undang, I believe it's Rembau, hasn't been installed yet, he's the youngest, and he was only appointed a year ago. So even if you wanted to dissolve the assembly, or appoint a new Menteri Besar, given that the legal standing of the Undang Yang Empat itself is in question, that too becomes problematic. Then, for example, regarding the position of Tuanku Muhriz, that too is problematic, because even though the Undang Yang Empat said "we want to dethrone Tuanku Muhriz," that declaration must go through a constitutional process. And that constitutional process — it's in the Undang-Undang Tubuh, as I understand it — must be signed by the Menteri Besar. That declaration isn't valid, because one Undang has been removed, stripped of his title; another Undang isn't yet confirmed valid or not in his position. So it's actually a stalemate — it's become a stalemate right now. That's why I find it strange as a politician — UMNO Negeri Sembilan, when they made the decision to withdraw support, what were they thinking? Surely they have legal advisors? Did they think this was as simple as pulling apart a roof? I don't know. Well, even pulling apart a roof must follow proper procedure — you can't tear apart a roof without following the rules. So that's what's causing the current stalemate, the situation that's occurred. It's just that there are two or three deeper perspectives we can dig into. One, for example, is — erm — in terms of political impact, because right now the action, based on my reading — we're actually political analysts now, so we observe and we analyze, not necessarily correctly, but that is indeed our field, analyzing politics — after this crisis occurred, it has divided Negeri Sembilan politics into two sides. One is on the side of the Yamtuan, the Yang di-Pertuan Besar of Negeri Sembilan, Tuanku Muhriz and family, together with Dato' Seri Aminuddin, on one side. The other side is UMNO, which withdrew support together with the Undang Yang Empat. So, this is ultimately where, once there's a political impasse like this — it's, as they say, jammed — neither party can move nor retreat. Eventually it will return to the people. And that's where I think the advantage lies with Tuanku Muhriz and also Tok Mien.
 
@@ -276,15 +275,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Because for one, Tuanku Muhriz and his family are very popular — extremely popular. Then you can check the outpouring of support on social media. And I understand why they're so popular. One reason — okay, I have to declare this, I need to disclose, otherwise people will say conflict of interest — I do know Tuanku Muhriz's family, and I'm on good terms with Tuanku Muhriz himself. After all, my honorary title, Datuk Seri, is from Negeri Sembilan. And indeed, in terms of royal audiences, Tuanku Muhriz is among the rulers I've had audiences with the most. Then, as fate would have it, actually, I knew Tuanku Muhriz's son before I knew Tuanku Muhriz himself, since I had my audience with Tuanku Muhriz after I became a minister — but the first one I knew was his youngest son, Tunku Zain. That was in the late 90s, early 2000s. At that time I was already working in London, and Tunku Zain was studying at LSE then. Oh — and, well, you know, us "progressive-minded" people, as they say, because in London there weren't that many people, especially among those already working, who took an interest in what was happening back home. So there were several spaces, well we knew each other, there were some programs we did together, Tunku Zain and I. Thank you for watching. Tuanku Muhriz — Tunku Ali, now Tunku Besar...
 
-**Speaker 4:** Serting?
+**Amin Sahmat:** Serting?
 
 **Rafizi:** Yes, that's right. Tunku Ali is my age, but he moved faster because he went to international school, the UK, all that, and he went to Cambridge — he's a Cambridge graduate, he went to Cambridge. So we have a lot of common friends — we were contemporaries during our time in the UK. And during our time in the UK, when he was at Cambridge, many of my seniors from MCKK were friends who were his contemporaries too. And then when he came back to Malaysia, he eventually worked at Khazanah — I think he started with Boston Consulting Group actually, then worked at Khazanah. During his time at Khazanah too, that circle of people were also common friends, some people who were genuinely close to me. So in that sense I need to declare this — I do consider myself to know, in terms of character, family, the Yamtuan Tuanku Muhriz, well.
 
-**Afiq:** You wanna ask something? You've been holding onto this.
+**Wan Afiq:** You wanna ask something? You've been holding onto this.
 
 **Rafizi:** Amir wants to ask.
 
-**Speaker 4:** Okay, maybe...
+**Amin Sahmat:** Okay, maybe...
 
 **Rafizi:** Let me finish on that bit about popularity first. Because this is what I think UMNO didn't anticipate — the outpouring of support for Tuanku Muhriz. Tuanku Muhriz's history is quite long. After his late father passed away in 1968, I believe — Tuanku Muhriz wasn't chosen as Yang di-Pertuan Besar at that time. The throne went to his late uncle, Tuanku Jaafar, instead. So Tuanku Muhriz lived as an ordinary person, and he has a child with autism. And I think many people, Negeri Sembilan people, followed his ordinary life raising a child with autism. And that relates a lot, you know, to Negeri Sembilan people, and not just Negeri Sembilan people — ordinary citizens in general.
 
@@ -296,7 +295,7 @@ Then there's Tok Min. People know he's the type who just smiles, not the panicki
 
 So then you put in one corner of the ring a coalition between a Menteri Besar who is popular with the people of Negeri Sembilan, and a Yang di-Pertuan whose family and relatives are popular with the people of Negeri Sembilan. That's why I think when UMNO makes a decision like this, it's not just a stalemate in terms of Negeri Sembilan's constitution — it will spill over into the question of the people's acceptance, the people's perception of UMNO. That's the situation I think is now unfolding slowly behind the scenes.
 
-**Speaker 4:** Yes, Amir wants to ask a question. Okay baby — earlier YB explained the whole situation. So maybe Afiq and I will start asking more political questions. So, one of you — first of all, if we look at it, he explained earlier there are two sides: the [Yang di-Pertuan] side and the Undang side. If we look at it, during the state election, BN's win could be called a win by luck since it was a narrow win — some seats were won by just a few hundred votes. So in a situation like this, does PH, especially PKR, have a chance to return to seat numbers better than the 2018 result? I think 2018 was already quite — 2018 was the best. Will we go back to the 2018 seat count? For example, UMNO was almost collapsing in Negeri Sembilan at that time too. Wasn't it? 2018 —
+**Amin Sahmat:** Yes, Amir wants to ask a question. Okay baby — earlier YB explained the whole situation. So maybe Afiq and I will start asking more political questions. So, one of you — first of all, if we look at it, he explained earlier there are two sides: the [Yang di-Pertuan] side and the Undang side. If we look at it, during the state election, BN's win could be called a win by luck since it was a narrow win — some seats were won by just a few hundred votes. So in a situation like this, does PH, especially PKR, have a chance to return to seat numbers better than the 2018 result? I think 2018 was already quite — 2018 was the best. Will we go back to the 2018 seat count? For example, UMNO was almost collapsing in Negeri Sembilan at that time too. Wasn't it? 2018 —
 
 **Rafizi:** It's not that UMNO was almost collapsing. Negeri Sembilan has how many seats — 38, right? 36. Sorry, 36. So you need 19 for a majority. Since 2013, I think DAP had already won 12 seats. Now DAP has how many — 11. So those 11 seats represent a non-Malay majority, walk with me on this — that's essentially it, eleven seats. Then there are PKR seats that are mixed but with significant non-Malay populations, there are two — Chua and Sri Tanjung, both around Kapodiksen [Kapitan? — as spoken]. Chua has significant Chinese voters; Sri Tanjung has significant Indian voters. So that leaves 13. Six seats — because 13 was already beyond the reach of any other party before this, it was really PH's.
 
@@ -328,7 +327,7 @@ We managed to swing the tide from UMNO winning big in the Melaka and Johor state
 
 So if UMNO's plan — this I can't quite read yet. Is it — I have my feeling, but you know, let's leave it, we'll keep it to ourselves for now — I think it's part of a bigger UMNO strategy to build momentum toward the coming general election. Yes, I understand — UMNO wants an early general election. If possible, UMNO wants the Johor state election in August, Melaka in October. So they're still sentimental about the wave they built 4-5 years ago in their own way — namely, winning big in Johor, winning big in Melaka. And now there's an opportunity to win big in Negeri Sembilan. Dato' Seri Anwar, whether he wants to or not, will also call an election, and sweep across Malaysia. That's the strategy, I think. But it has now backfired.
 
-**Speaker 4:** So YB is saying now, the Melaka and Johor state elections are basically confirmed?
+**Amin Sahmat:** So YB is saying now, the Melaka and Johor state elections are basically confirmed?
 
 **Rafizi:** I think for the Melaka and Johor state elections, UMNO's view is that they want it as soon as possible. So don't be surprised if the Johor state election falls in August, and Melaka — or Johor and Melaka together — in October. That's why we can't rule out that possibility. And now with the Negeri Sembilan dimension added, with a stalemate like this, this stalemate can only be resolved with the upcoming Dun sitting — meaning a vote of no confidence in the Dun sitting. And that can only happen — meaning the maximum Tok Min can drag out not calling a Dun sitting is October, because October is the budget sitting — whether he likes it or not, he has to call it, otherwise operations can't continue. So there's now a possibility that the Negeri Sembilan, Melaka, and Johor state elections could all be in October, and possibly even the general election falls in October at the same time.
 
@@ -336,21 +335,21 @@ But in terms of UMNO's strategic plan to build momentum — one falls, then anot
 
 So all of this goes against them — and when it also involves the Undang Yang Empat and the Yang di-Pertuan, Tuanku Muhriz — then, any support for UMNO on this issue of changing the MB will be seen as support for, seen as rejecting Tuanku Muhriz. It's very complicated, you know. So I'm very grateful I'm not in PKR's leadership right now — otherwise, I don't know how I'd have to rack my brain to untangle this, because it's genuinely a mess — best left alone, I think. So Dato' Sianok [as spoken] — allow, bro, maybe he too wants to stop somehow, wants to allow it somehow, meaning —
 
-**Afiq:** Meaning, for Negeri Sembilan, like it or not, PKR remains the Menteri Besar?
+**Wan Afiq:** Meaning, for Negeri Sembilan, like it or not, PKR remains the Menteri Besar?
 
 **Rafizi:** Yes, for the next six months, he'll have to defend it.
 
-**Afiq:** He—
+**Wan Afiq:** He—
 
-**Speaker 4:** The Menteri Besar is supposed to — he's supposed to defend it. He's already defended it—
+**Amin Sahmat:** The Menteri Besar is supposed to — he's supposed to defend it. He's already defended it—
 
 **Rafizi:** —probably.
 
-**Speaker 4:** Ok, he met Zahid. There's a photo, Fahmi—
+**Amin Sahmat:** Ok, he met Zahid. There's a photo, Fahmi—
 
 **Rafizi:** No, no, no, no. I think in terms of PKR's stance, I think — this rift, why? What else do you want PKR to do? Surely you're not suggesting we start fighting within the cabinet, throwing chairs. But PKR's official position is that Tok Min remains as [Menteri Besar of] a minority government.
 
-**Speaker 4:** Then I think that's right — is it possible a minority government in Negeri Sembilan, if Tok Min as head of a minority government wins the confidence vote — could it be that a minority government, if true, this would be the first time in Malaysia there's a minority government?
+**Amin Sahmat:** Then I think that's right — is it possible a minority government in Negeri Sembilan, if Tok Min as head of a minority government wins the confidence vote — could it be that a minority government, if true, this would be the first time in Malaysia there's a minority government?
 
 **Rafizi:** No, actually right now it's already in disarray — you can't even call it a minority government anymore, because UMNO's latest statement yesterday said the 14 assemblymen support the government but want the MB changed. So the government is no longer a minority government per se.
 
@@ -358,31 +357,31 @@ I recall the media statement that night, at the press conference together with L
 
 Then, on Thursday, when UMNO said the 14 assemblymen remain in support of the government but want the MB changed — that no longer fits the "minority" framing at all, you know. So I think UMNO's hope now, to save face, is that it will try to negotiate for more concessions, to get more things from PH.
 
-**Speaker 4:** If we look at UMNO's latest statement, they want to discuss with PH — they want to activate a clause, I don't remember which number, in the unity agreement, to discuss if there are any issues — so maybe they're making demands.
+**Amin Sahmat:** If we look at UMNO's latest statement, they want to discuss with PH — they want to activate a clause, I don't remember which number, in the unity agreement, to discuss if there are any issues — so maybe they're making demands.
 
 **Rafizi:** I don't remember either — I'm the one who wrote that agreement — there is indeed a clause that if there's a dispute or something, there's a mediation provision. That mediation is meant to prevent us from fighting openly. But that's not what's happening now — they've already fought, thrown chairs, and only now, when it's urgent, do they want to invoke the mediation clause.
 
-**Afiq:** Okay, okay baby.
+**Wan Afiq:** Okay, okay baby.
 
 **Rafizi:** Okay.
 
-**Afiq:** So let's move to the next topic. This one's interesting too. We still have a bit more than an hour left, baby.
+**Wan Afiq:** So let's move to the next topic. This one's interesting too. We still have a bit more than an hour left, baby.
 
 **Rafizi:** Sure, sure. The last one just needs a moment for me to catch my breath — there's not much more to add anyway.
 
-**Afiq:** Okay. Last. Give the word "saksidi."
+**Wan Afiq:** Okay. Last. Give the word "saksidi."
 
 **Rafizi:** So maybe... trimming fat or accidentally cutting an artery — like in a sacrificial ritual [korban]. This isn't about the sacrificial ritual though — you'd have to ask the mosque officials, the tok siak, about this. So maybe—
 
-**Afiq:** Isn't this too slow—
+**Wan Afiq:** Isn't this too slow—
 
 **Rafizi:** No, you have to — the people listening to this podcast, some listen only to the audio, on what's it called, Spotify and so on. So you actually have to explain what it is.
 
-**Afiq:** Okay, alright. Sorry, my apologies, this is my first time—
+**Wan Afiq:** Okay, alright. Sorry, my apologies, this is my first time—
 
 **Rafizi:** So I've already explained this. Haziq will surely laugh watching this — he'll have to learn from me first.
 
-**Afiq:** So okay, I have a simple one — it'll only take a minute, very simple. The Ministry of Finance issued a directive requiring all ministries to cut part of their budgets, due to this crisis — because subsidies are at 58 [billion], the projected increase in Malaysia's subsidy bill is RM58 billion. So the budget cut expected to be needed is RM10 billion. So that's the simple framework I can explain. So my question to YB — is this action too late? It should have been announced earlier. Or does he bring— huh? No, okay — or money—
+**Wan Afiq:** So okay, I have a simple one — it'll only take a minute, very simple. The Ministry of Finance issued a directive requiring all ministries to cut part of their budgets, due to this crisis — because subsidies are at 58 [billion], the projected increase in Malaysia's subsidy bill is RM58 billion. So the budget cut expected to be needed is RM10 billion. So that's the simple framework I can explain. So my question to YB — is this action too late? It should have been announced earlier. Or does he bring— huh? No, okay — or money—
 
 **Rafizi:** Before that, I think the background — what day is it, Friday? Oh no, wait — today is Friday. I mean this letter came out, I think, on Wednesday. Yes, that's right, Wednesday. This letter, now circulated via email, quickly went viral across Malaysia — people claiming to have received the letter. The letter, in Treasury language, calls it a "spending restriction" — meaning they put a cap on it, and therefore you have to — even if a budget or allocation has already been approved — the term used is "allocation."
 
@@ -402,7 +401,7 @@ How much is the tax collection? Try googling it — because the PM just announce
 
 Almost one-third — actually, if you add electricity subsidies, gas and LPG subsidies, it really is one-third. We burn it on fuel so that we can be told that "our fuel is great, our government has the lowest fuel prices in the world—"
 
-**Speaker 4:** The government—
+**Amin Sahmat:** The government—
 
 **Rafizi:** —understands the people. When in fact the government takes our tax money, and we burn it. So okay, let me ask you this question — say you pay RM2,000 in taxes a year, let's say — after all deductions, RM2,000 a year, and that gets burned as fuel subsidy, petrol subsidy, all this. But a large chunk of that — about 60% plus — goes to rich people, upper M40 and above. How do you feel? If you feel that — before we talk about cutting money — so again, it comes back to the policy question.
 
@@ -422,11 +421,11 @@ So borrowing can only be done for development expenditure. Development expenditu
 
 So coming back to this — with the highest tax collection LHDN has ever achieved, RM203 billion, we still need RM58 billion to pay subsidies. Subtract the RM15 billion already allocated, leaving RM43 billion. Subtract the RM10 billion they're trying to cut, leaving RM33 billion — in a situation where the government cannot borrow. So what is the government supposed to do?
 
-**Speaker 4:** Add new taxes, pull from Petronas dividends.
+**Amin Sahmat:** Add new taxes, pull from Petronas dividends.
 
 **Rafizi:** New taxes won't be ready in time, because that takes a long time, and it could indeed cause an election defeat if new taxes are introduced. In the end, they'll take from Petronas dividends. Petronas dividends — so there's a good chance Petronas might have to pay up to RM50 billion. Meaning what they've already committed, over RM20 billion, plus another RM30 billion, becomes RM50 billion.
 
-**Speaker 4:** So Petronas's profits keep declining over time?
+**Amin Sahmat:** So Petronas's profits keep declining over time?
 
 **Rafizi:** And that will mean Petronas doesn't have sufficient financial resources to invest in new oil projects. So it becomes a spiral, you know. On the one hand, we're forced to pay this because we've become a net oil importer or something — but the money Petronas has comes from the rise in oil prices, even though it's not as high as — people need to remember, even if it rises, for example, from USD60 to USD100, that doesn't mean every single cent of that USD40 translates into profit, because it comes with various other cost increases — freight cost, insurance, capex cost and so on. So I don't know, maybe only 50% translates into actual pure profit.
 
@@ -458,27 +457,27 @@ So he has to figure out, at a RON price of RM3.50 — how to cut back, from usin
 
 So if we're ordinary citizens — now this is the question ordinary citizens need to answer. The quality [of leadership] doesn't dare [make hard choices], you know, never mind — the pity is for the young people, your generation, in 30-40 years, when there's no more oil, when debt is in the trillions, you'll still have to pay expensive fuel prices later anyway. Ten years from now you'll still have to pay this, prices of RM3.50 and all — you're definitely going to end up paying that. The issue is, by that time, how much debt will need to be carried, will there be enough hospitals or not. So that's why I've advocated to the government from the start — instead of giving cheap fuel like this, and then consumption keeps climbing, with the most cars per capita after Japan in Asia, per family — people will adjust and decide what to do with that RM600-RM700 [themselves].
 
-**Speaker 4:** Ah, I want to ask YB. As for now, our subsidy budget is roughly RM58 billion. If we say we live in a different universe, say the government followed YB's earlier proposal, we implemented PADU, we did it with your strategy and everything. If I recall, the 2025 budget, our subsidy was also close to RM50-something, I don't remember exactly. But our subsidy in 2035, say for example — that's total subsidy, say for example, not...
+**Amin Sahmat:** Ah, I want to ask YB. As for now, our subsidy budget is roughly RM58 billion. If we say we live in a different universe, say the government followed YB's earlier proposal, we implemented PADU, we did it with your strategy and everything. If I recall, the 2025 budget, our subsidy was also close to RM50-something, I don't remember exactly. But our subsidy in 2035, say for example — that's total subsidy, say for example, not...
 
 **Rafizi:** Fuel subsidy.
 
-**Speaker 4:** Say our total subsidy, let's put it at the point when YB was still in the cabinet.
+**Amin Sahmat:** Say our total subsidy, let's put it at the point when YB was still in the cabinet.
 
 **Rafizi:** Because at that time, the fuel subsidy was around RM20 billion.
 
-**Speaker 4:** Okay, say we put it at RM20 billion. If we followed YB's plan, roughly how many billion in subsidy savings could we have made?
+**Amin Sahmat:** Okay, say we put it at RM20 billion. If we followed YB's plan, roughly how many billion in subsidy savings could we have made?
 
 **Rafizi:** Again, again, okay, I keep correcting — it's not about saving subsidies, because that money, however much it is, should really go back to the people. Okay, take this example — RM20 billion for RON95 petrol at RM2.05, with no quota, nothing, plus diesel and all that. At that time diesel's price had already been floated, but for RM300 Budi Madani, all of that — the total subsidy was RM20 billion. Now, the discussion at that time was that this RM20 billion could be returned to the people in the form of monthly cash transfers. So some families could get RM500, some maybe RM700, some maybe get RM200, all sorts. But the price would be floated — so if floated, at that time from RM2.05, it would become RM2.50. But that extra RM0.35 that people pay, a lot of that benefit would go back to M40 and B40 families, because M40 and B40 don't use much petrol. Even now we can see it's true — a large portion of our people really don't use more than 100 litres a month, except those around the Klang Valley. That's why we say we need to use PADU, so we know where you live, where you work, so that people who commute more get a higher quota. So for a low-income family, they might pay extra — say they use 100 litres, and they pay an extra 35 sen per litre a month, using 100 litres a month, how much is that? Just RM35. But they'd get a cash transfer of up to RM200, maybe RM400. So the money becomes more targeted and helps those at the bottom more. Someone like me, the money from my petrol would go to giving them extra. So how they choose to use it is up to them. We can't say, "oh, we can't trust poor people, they might go buy drugs, cigarettes." That's not it at all.
 
-**Speaker 4:** Can I make a comment — a slightly cheeky criticism of YB's idea earlier. Back in 2016, Najib already did targeted subsidies, giving money back through BR1M. What's the difference between that and YB's idea?
+**Amin Sahmat:** Can I make a comment — a slightly cheeky criticism of YB's idea earlier. Back in 2016, Najib already did targeted subsidies, giving money back through BR1M. What's the difference between that and YB's idea?
 
 **Rafizi:** That's exactly why — BR1M, and now what's called STR, was designed as a government "gift" of money. BR1M back then was given once a year...
 
-**Speaker 4:** Oh, okay.
+**Amin Sahmat:** Oh, okay.
 
 **Rafizi:** Right, once a year. When you're given it once a year, it becomes "windfall money" — you take it, you go buy KFC for Raya. Whereas what we need to ensure is that it becomes part of their monthly income. That's why it has to be every month, and that's what I mean — this re-targeting of subsidies actually gives us the opportunity to build a social security system that we don't yet have. We don't have a social security system where poor people get something every month. We have JKM, we have zakat, but you have to apply, based on eligibility, based on allocations and so on — the allocation process is a bit murky, all sorts of things. We want to ensure that with PADU, once we have good data and we keep improving that data, people won't need to apply. If you really are poor and your situation is such-and-such, you'll automatically get RM100, RM200, RM400. Two children — if one child gets RM100, they get RM200 — doesn't matter who you are. So we want to create a social security system in preparation for an aging society in the future. So if you're going to do something difficult, something people will curse you for, a major political decision, make sure there are 3-4 goals that, once achieved, make it worthwhile. So the difference with giving it every 4-5 months, every 3 months, is that people will just use it to pay off debts. It has to be like our salary — every month, every month, every month. That's the opportunity we have with that RM20 billion a year — to return it as cash transfers, becoming a national social security system for everyone. Of course the people will feel the pinch, because if before they had to pay an extra 30 sen for 1 extra litre, now they'll have to pay RM1. And at that point the government could have a choice — whether to return that RM1 as extra cash, or to subsidize at the pump — it could do either, or use both methods. It might use 5% so that instead of the price rising from RM2.50 to RM3.20, it becomes RM2.80 — it wouldn't feel as harsh, because you want to maintain the cascading effect of inflation. The other 5% could be added to the people's cash transfer — instead of RM200, they might get RM300. So you can play around with it once you have this setup. But the good thing about doing it this way is that we'd already be able to start influencing people's consumption.
 
-**Afiq:** So, Abie, question — but if you propose an idea in cabinet and the cabinet rejects it, then logically, using my own reasoning, rejecting this idea doesn't make sense. Unless he feels insecure about you.
+**Wan Afiq:** So, Abie, question — but if you propose an idea in cabinet and the cabinet rejects it, then logically, using my own reasoning, rejecting this idea doesn't make sense. Unless he feels insecure about you.
 
 **Rafizi:** No, no. It has nothing to do with feeling insecure or anything like that. There are actually two considerations. The bigger consideration is across the parties — this cuts across UMNO, GPS, all of them are afraid of losing. If you raise the price by 50 sen, 20 sen, even though the people would actually get cash transfers, monthly assistance, they're afraid of losing. That's one factor. The second factor is actually the MOF [Ministry of Finance]. Because MOF had planned to build this system since the days of Tengku Zafrul. So its dry runs, all the testing — that was done in Parliament — I answered questions about it dozens of times in Parliament. When the opposition asked, "has this been tested or not?" — MOF should have been the one answering. MOF didn't want to answer, they told the Ministry of Economy to answer. So I answered — well, since the Ministry of Finance doesn't want to answer, they just dump it on the Ministry of Economy. Fine, I'll answer. But actually MOF had planned this even before the Madani government existed. So no matter what, they were determined to use this system. There's a story I'll release piece by piece later — about MOF's system, this SARA system, lots more stories, not yet released. How much percentage is actually paid to the system providers — that hasn't even been asked yet. You think all this is free? Even PADU doesn't have [an ongoing] system — PADU spent a lump sum, RM30 million total, and that study can be used indefinitely. But this — every time there's a transfer-transfer-transfer — you think there's no payment involved? There are payments, there are commissions.
 
@@ -490,35 +489,35 @@ So if we're ordinary citizens — now this is the question ordinary citizens nee
 
 **Rafizi:** That spans three Prime Ministers, so it's probably not exempt. So MOF's plan from the start was indeed to do it that way. So when the Ministry of Economy says that economically we need to do it this way, this way, this way, MOF and Dato' Seri Anwar — as the Minister of Finance — he listens to the views of his officers, without even asking them. Actually, how long have you been planning this? He doesn't ask. Where and when was this dry run done? He doesn't ask any of that. So in the end, when the PM is also the Minister of Finance, and MOF's officers all hold that view, combined with all the other politicians who are famously not brave enough — "if we raise the price by 20 sen we'll lose the election" — this is what results. And as if to test us, war broke out in Iran, and this happened, and the entire narrative the PM was trying to build for the coming election — "I succeeded in lowering fuel prices, I gave a lot" — has completely fallen apart now. Because what was carried has been dropped, and what was chased has scattered. The narrative about cheap fuel prices has already fallen apart, and now what's being chased can't be caught either, because there have to be further cuts in healthcare, higher education, and so on. I'm truly grateful I made the decision to walk out, because in the end, suppose I were still Minister of Economy...
 
-**Speaker 4:** You'd be the one answering.
+**Amin Sahmat:** You'd be the one answering.
 
 **Rafizi:** I'd have to answer for all of this. Even though the ones who actually decided were Amir Hamzah, Anwar Ibrahim, Johan Mahmood Merican — they decided everything. But the one who has to answer, when it comes down to it — since the Ministry of Finance is headed by the Minister of Finance, the PM's Office doesn't want to answer, saying "the Ministry of Economy should answer this." So now I answer it on this podcast.
 
-**Speaker 4:** Okay, last question about — I think this is a political decision about subsidies. I was quite surprised when WB said that everyone in cabinet is afraid that an unpopular decision like this would cause them to lose the election. Because if we talk about targeted subsidies, one of the parties in PH besides PKR is DAP, which has historically been quite vocal about targeted subsidies, and they even — I'd say Bakri even campaigned on this issue as part of our manifesto. But now, when they're in cabinet, they're being silent and afraid of losing the election.
+**Amin Sahmat:** Okay, last question about — I think this is a political decision about subsidies. I was quite surprised when WB said that everyone in cabinet is afraid that an unpopular decision like this would cause them to lose the election. Because if we talk about targeted subsidies, one of the parties in PH besides PKR is DAP, which has historically been quite vocal about targeted subsidies, and they even — I'd say Bakri even campaigned on this issue as part of our manifesto. But now, when they're in cabinet, they're being silent and afraid of losing the election.
 
 **Rafizi:** No, DAP is actually the most anti — aside from UMNO, the party that was most vocal against targeted subsidies was DAP. Yes, sir. There are two reasons. One is populism — wanting to be the perpetual spokesperson in cabinet, unable to have people angry at them. But there's also a bit of an MOF background to this. Actually, before the Sheraton Move, the current Treasury Secretary-General, Johan Mahmood Merican, was previously Director of the National Budget Office when Lim Guan Eng was Finance Minister. So the actual idea of using this card system and so on largely originated from DAP, from the Guan Eng era. So when the government changed, that's why civil servants need to be managed properly — because governments come and go, but once they've made a decision, when the new government comes in, they'll try to influence it. And when the Prime Minister is also the Minister of Finance, there's a big battle because "this is what the Prime Minister wants, this is what the Prime Minister wants." DAP doesn't talk about targeted subsidies anymore — DAP is afraid of losing the election.
 
-**Speaker 4:** Yes, because now DAP is very silent about subsidies and everything, like they're keeping quiet.
+**Amin Sahmat:** Yes, because now DAP is very silent about subsidies and everything, like they're keeping quiet.
 
 **Rafizi:** No, I'm actually not anti-subsidy. I think every single cent of government money should go back to the people. But we can't be populist about it, because it penalizes many parties. First, it actually penalizes poor families, because the money they should get more of, they get less of, because people who shouldn't get it, do get it. So, like I said — running your air conditioner 24 hours a day when you don't have money, come on. That kind of person doesn't need it — we have to manage this — from having three cars, maybe we need to cut down to two cars. For example, if we run the air conditioner every day 24 hours, then when we go to work, you should turn the air conditioner off — that's wasteful. So poor people don't get what they're supposed to get. But the bigger problem I have — and this might be why people are sick of me — people will say these are "holier than thou" statements, that I think I'm the only one who's right, the only good one. No — because we have a responsibility to the younger generation. I have a responsibility to you guys, who will face this later. Of course, if I didn't do this, my life would be easier. But you know, to think that in 10 years, when our production is down to only 100,000 barrels a year, when we're importing maybe 80%, we won't have the funds to control fuel subsidies and all that, and we won't have money to invest in public transport and things like that. Then we'll become like Sri Lanka, 100% dependent on fuel imports — a slight price spike, no fuel, queues; a slight price spike, no queues. So we have a responsibility not just to win this time, but for the future. And I always believe that winning an election is by the power of Allah — it's actually not up to us — our job is to carry out the mandate as best as we can. That's why people are sick of me, I understand. People say, "look at him talking," they say I'm holier-than-thou, as if I'm the only one who's right. It's not that. Don't blame me if I have views that seem a bit odd compared to others. So maybe people will say all sorts of things, people want to cut me down. So for now we can only watch, and pray that whatever gets cut from healthcare services, higher education, however much money is taken from Petronas, doesn't have too drastic an immediate impact. But for Petronas, the long-term impact that you all will bear — that is there.
 
-**Afiq:** Yes, that's right. So, let's move to the next — we're at 2 hours 6 minutes, okay, how many more do we have? We only have 2 left. So, related to who's winning on social media, PH-BN or PN — this is a simple, straightforward one for us to explain how social media functions as the main platform for all political parties now. For listeners on Spotify who aren't listening to the audio, I'll explain specially. I've learned from my mistakes, so let's go to my question for YB — YB, is PH leading on social media, or PN, or BN? I don't know which party — let's just settle it calmly, we call it as it is. Bro, do you think PH is leading on social media?
+**Wan Afiq:** Yes, that's right. So, let's move to the next — we're at 2 hours 6 minutes, okay, how many more do we have? We only have 2 left. So, related to who's winning on social media, PH-BN or PN — this is a simple, straightforward one for us to explain how social media functions as the main platform for all political parties now. For listeners on Spotify who aren't listening to the audio, I'll explain specially. I've learned from my mistakes, so let's go to my question for YB — YB, is PH leading on social media, or PN, or BN? I don't know which party — let's just settle it calmly, we call it as it is. Bro, do you think PH is leading on social media?
 
 **Rafizi:** Actually, whoever has the answer to that would win the election. Actually, we don't have any conclusive report that can determine who's actually ahead. And on this "who's-got-more-followers" war, the "socials" kids — I want to call it social media, "media sosial" is too long, I'll just call it "socials," okay.
 
-**Afiq:** Sure, sure.
+**Wan Afiq:** Sure, sure.
 
 **Rafizi:** You know, the problem with — not really a problem, but the unique thing about the socials platform is that you'll only know when it's too late. So in a political context, meaning we'll only know who won — PH, BN, or PN — after the election results come out. By that time it's too late already. So what we need to pay attention to is: is the strategy being used correct? Meaning, do the people responsible for delivering the message — these agencies, these groups, the campaigners — do they really understand how socials work? And thirdly, we can look at the current trends and indicators to predict what will go viral on socials leading up to the coming election. So first and foremost — I don't know, this Fahmi guy, if there's a "Minister of Social Media" in the cabinet, it's him. People talk about policies and all, and he talks about social media posts. I've said, my God, how embarrassing for my party. But there's nothing I can do — he's Dato' Seri Anwar's favourite, nothing can be done. Most of the time, I feel that not just politicians know — the ministers, the politicians understand this, they may not understand it deeply. But the people given this responsibility — whether cyber-troopers, strategy experts, party strategic communication advisors — how socials work, what's the concept behind it? And to make matters worse, the leadership, usually — in PH, in BN, especially in PN — they're usually stuck in the bubble of their own supporters. Because social media is indeed a bubble, and for that we have to understand the concept. Social media moves, it's built on the simplest concept — called "network effect". In Malay, network effect means "kesan rangkaian." What does network effect mean?
 
-**Afiq:** This is the first time I've heard this.
+**Wan Afiq:** This is the first time I've heard this.
 
 **Rafizi:** Honestly, I'll be honest, this is the first time it's been so hard for me to do a podcast like this. I mean, anyone who wants to understand how information is delivered in this era, in the digital age, must understand this simplest concept, which is network effect. Okay, what is network effect? "Kesan rangkaian."
 
-**Speaker 4:** You mean, like, whether our content is reachable or not, whether it builds the algorithm or not?
+**Amin Sahmat:** You mean, like, whether our content is reachable or not, whether it builds the algorithm or not?
 
 **Rafizi:** No, that's already the fourth, fifth, or sixth level of explanation. Niche — I'll tell you, it's niche. No, it's not niche, it's network effect. It means when something is liked by people, other people will share it. That's what eventually becomes so-called "viral" — actually, I mean the academic term for virality is network effect. And network effect isn't just for social media, you know — it includes business, apps — everything is all about network effect. So for that you really need to understand about people. So network effect means this — if there's some content that people like, people will share it. Then you can ask the next few questions. One is, what kind of content do people like? Then, regarding the network, network effect, you as a person have to ask the next question — actually, what kind of network do I have? Because if my network is all people with heads like mine, then it becomes a bubble.
 
-**Afiq:** Okay.
+**Wan Afiq:** Okay.
 
 **Rafizi:** Especially for politics. Then the third question is, actually, knowing about content and network — that's how these platforms actually build their algorithms, and different platforms have different algorithms. Okay, now, actually in Malaysia — before we get to this, this is my problem, I have to explain everything one by one, for someone to really understand. Then you truly — okay, this goes back to school. I was lazy at school, I'm really not the type who studies at night, does revision and all that. My rule is quite simple — when the teacher taught, I'd learn, understand it thoroughly, so that afterwards I wouldn't need to read it again. Once you understand, you understand it forever. In my spare time, I'd go play. That's how I went through school. So it's the same with things you need to understand — don't take shortcuts, understand it thoroughly, deeply, because after that you won't need to study it again. Okay now, actually in Malaysia, which platform is the most influential? WhatsApp...
 
@@ -526,11 +525,11 @@ So if we're ordinary citizens — now this is the question ordinary citizens nee
 
 **Rafizi:** Okay, set WhatsApp aside first, because a lot of content on WhatsApp actually comes from these platforms. First, Facebook, by far Facebook. Facebook users number roughly how many? 26-27 million in Malaysia. So by far it's Facebook. Number 2, I think this is the most important part. In terms of age profile, Facebook is more comprehensive, it cuts across races, across all ages. TikTok skews more towards young people, Gen Z, but TikTok also already has more than 20 million users. So is TikTok third? Instagram?
 
-**Afiq:** What about Twitter?
+**Wan Afiq:** What about Twitter?
 
 **Rafizi:** Yes, third is actually YouTube, it's just that people don't really view YouTube as social media. Then far below these top 3, far below actually, are Twitter and Instagram. Threads is very low below that, in fact Threads hasn't even reached the level where it needs to be licensed. To be licensed you need 8 million users, Threads doesn't qualify, Threads has roughly 3 million, 3 to 4 million. Okay, now — so there you have it, we're giving a free class to JKOM here, okay let JKOM take notes, there's a reason I'm mentioning this. To the viewers, so these are the three: Facebook, TikTok and YouTube. Then far below that, Instagram and Twitter. And out of these five, each one actually has a different function. I can see — coming back to network effect — network effect for Facebook is wider, it's actually more for everyone, more across all ages. TikTok is more for Gen Z, and that's why its content is different, its style is all different. YouTube is actually, arguably, as important or more important than TikTok, because...
 
-**Speaker 4:** Because YouTube is reachable to various age groups?
+**Amin Sahmat:** Because YouTube is reachable to various age groups?
 
 **Rafizi:** One reason, but also because YouTube has a higher conversion rate. Conversion here means how well you can convince someone. Okay, TikTok, because it's short, right. So TikTok, for undecided voters, is not as influential as YouTube is for undecided voters, because people who have already made up their minds have made up their minds, no matter what you say. But people who are still deciding like to search for information, they want to understand everything — those people usually gravitate more towards YouTube because they get explanations, they want to learn everything. That's why our YouTube podcasts are very long, up to 3-4 hours, because it's targeted at people like that. Twitter — Twitter doesn't have that many users, you know, X — X isn't as big as those top 3. But why is X still so important?
 
@@ -542,111 +541,111 @@ So if we're ordinary citizens — now this is the question ordinary citizens nee
 
 **Rafizi:** I wouldn't necessarily say that it's intellectual. There's nothing on Twitter, on X, that's sometimes — no, no, not intellectual. It's basically, it's the strongest for advocacy. So usually X becomes the agenda-setting platform, X is agenda setting politically. So usually issues explode on X too. Remember before, the government failed — actually X users are mostly PH voters too, urban voters and all. But it can explode and start spreading elsewhere, because X users are precisely more urban, more educated, and therefore more opinionated, and therefore a lot of advocacy happens on X compared to, for example, Facebook. Facebook has more people sharing stories, cooking and so on. Say there are 28 million there, the truly opinionated ones, or those who use Facebook 100% for political news, maybe only 20%, the other 50% is for family matters, photos, and so on. But on X, a higher percentage of political and social advocacy actually happens there. So X is also important. As for Instagram, Instagram is actually almost like a double of Facebook, and it's more specific to millennials, actually urban millennials.
 
-**Speaker 4:** But is it reachable?
+**Amin Sahmat:** But is it reachable?
 
 **Rafizi:** Its reach isn't that high. But you know, that particular segment of women, female, urban millennials, is indeed quite dominant on Instagram. Then, you know, with all that — then we can — okay, we could talk about this for another 10 minutes. Then we ask about strategy, based on that, we come back to two things — the second layer I asked about earlier. The first question is network effect, then the next layer is that network effect is a function of content and it's a function of network. Then we can go back to that understanding — so based on that, what strategy is the current government using to tackle content and network? And how does that compare to what PH does, what BN does, and what PN does?
 
-**Afiq:** They cut it, they remove content they feel doesn't suit them, that's one. Censorship. And then, easier still, another thing they use...
+**Wan Afiq:** They cut it, they remove content they feel doesn't suit them, that's one. Censorship. And then, easier still, another thing they use...
 
 **Rafizi:** Oh yes, that's the government's biggest communication problem right now — cyber-troopers. Actually if you look, especially on X, you can see how attitudes towards Dato' Seri Anwar and Madani have actually shifted over the past 7-8 months — largely influenced by cyber-troopers. Yes, that's right. If you remember, after the PKR election in May 2025, actually the view of Dato' Seri Anwar was still okay, people were still fine with it. It started becoming more pronounced for two reasons — one, the overkill attacks against me by these cyber-troopers; second, the overkill defence of PKR, PH, and Dato' Seri Anwar, which was seen as "this is excessive sycophancy," so it became a big problem, a really big problem. So actually, when — that's why it's a matter of content and network. When content becomes that excessive, it starts to backfire on the government, because undecided people, or even PH supporters, would feel "I'm so put off by this," feel it's annoying, feel it's too toxic. Then secondly, regarding network, it's the same — okay, JKOM, or, you know, Fahmi, or the cyber-trooper gangs being used — even Malaysiakini has written about these cyber-troopers. I think the core cyber-trooper group might have around 100 people, then other cyber-troopers, the AMK ones and so on, might have another 200 people. So all in all, 300 people. But the way it works, maybe those 300 people each have 20 accounts, 30 accounts, and each of those has only 2, 3, 2, 3, 2, 3 followers. So they just add each other. Now, how does that affect network effect?
 
-**Speaker 4:** You forgot one thing earlier — the Vietnam followers.
+**Amin Sahmat:** You forgot one thing earlier — the Vietnam followers.
 
 **Rafizi:** Vietnam followers — that makes it even worse if there are Vietnam followers. How does that situation actually run completely counter to the foundational principle of social platforms, which is that you must have network effect. It becomes fake, meaning even though it looks impressive on the surface, 100, 200 shares, actually it's just going to those same 200 people, it doesn't go to other people.
 
-**Speaker 4:** Meaning, these people...
+**Amin Sahmat:** Meaning, these people...
 
 **Rafizi:** Short, and...
 
-**Speaker 4:** Just pushing it around within their own circle.
+**Amin Sahmat:** Just pushing it around within their own circle.
 
 **Rafizi:** That network effect — that's why network effect — network is very important. You may have, for example, 40,000 followers, but if those followers are all the same type as you, you don't influence her/his politics, because they're in that bubble. So take Vietnam for example — Vietnam might have 100,000 accounts. Those 100,000 accounts are equivalent to 100 mobile phones all linked together, controlled by 3 people. Actually, the network effect only reaches those 3 people, it doesn't spread to other people, so it's a wasted effort. Yeah, it's a wasted effort.
 
-**Speaker 4:** That's why, if I may add, YB — like JKOM, they've made podcasts, what's it called, Tok Abah Podcast, and even Selangor made the PINS Podcast, and its comments — one, two. Then after getting called out a bit, the comments go up slightly, three people, four people, likes go up a little too because it's just circulating within one bubble.
+**Amin Sahmat:** That's why, if I may add, YB — like JKOM, they've made podcasts, what's it called, Tok Abah Podcast, and even Selangor made the PINS Podcast, and its comments — one, two. Then after getting called out a bit, the comments go up slightly, three people, four people, likes go up a little too because it's just circulating within one bubble.
 
 **Rafizi:** It's circulating within the same bubble. Okay, based on that perspective, so what's being done by JKOM, by Fahmi Fadzil now, using a number of people, key figures, cyber-troopers and all — it's really burning through money. They're wealthy, big cars, big salaries, all of that. And that's why you can see the effect on social media now — why it's very negative towards Dato' Seri Anwar and also towards PH. Now, once that happens, what's their response? Recovery action. Recovery, what does that mean? You can see that clearly on Facebook. On Twitter, on X, they can't do it because they get destroyed — because X is overwhelmingly anti-cyber-trooper and anti-PH, so they have a bit more room on Facebook. So I've studied the last 3 weeks of my Facebook, you know, all the comments. Okay, what have they done on my Facebook?
 
-**Afiq:** They comment.
+**Wan Afiq:** They comment.
 
 **Rafizi:** They use fake accounts to comment quickly, and then like each other's comments together so they rise to the top, hoping to show that Rafizi actually has no support, or that he's no longer popular, has no backing. Now, does that actually have any real effect or not? No — people will feel annoyed, that's one, people do get annoyed, okay. But I usually don't think much about people's opinions, because that's very subjective, I don't know what's in people's heads. So maybe because I was trained as an engineer, I check everything against metrics. So it only has an effect, meaning it's actually working, if the reach and engagement of every posting drops sharply. It's not — it doesn't drop sharply. So the reach — for example, my monthly reach on Facebook is between 8 to 15 million per month. It doesn't drop, it stays roughly the same — if there's no issue, it might be 8, if there's a bit of an issue, it's 15 million per month. So there's no effect there. So that's why you need to look at likes. Even when people say "look, he's getting hammered on his own Facebook" — that's usually PN people sitting in their own bubble, they think that just by going and cursing, showing they don't like it, cursing at everything — that means social media has really worked. Actually what's important is the silent majority.
 
-**Afiq:** Oh, okay.
+**Wan Afiq:** Oh, okay.
 
 **Rafizi:** The silent majority — let me ask you this, does the silent majority comment?
 
-**Speaker 4:** No, they don't comment, they observe.
+**Amin Sahmat:** No, they don't comment, they observe.
 
 **Rafizi:** What's the most they'll do?
 
-**Speaker 4:** They'll observe, watch.
+**Amin Sahmat:** They'll observe, watch.
 
 **Rafizi:** Okay, observing is one thing, but mostly, they like.
 
-**Speaker 4:** They like.
+**Amin Sahmat:** They like.
 
 **Rafizi:** The strong supporters will share. So therefore, it's not necessarily — in fact, comments, when it comes to cyber-troopers, I've tested this 2-3 times, you know, that's why you might have noticed, I've posted out of nowhere at like 4 or 5 o'clock or something, because cyber-troopers follow a schedule, they work.
 
-**Speaker 4:** Oh, okay.
+**Amin Sahmat:** Oh, okay.
 
 **Rafizi:** If you post at a certain time, they jump in, but then I think they go to sleep, or go eat. So I once posted around 3 o'clock or so, just to test it — and indeed the comments had zero cyber-troopers at all, meaning they were resting. Okay now, one thing they don't realize is that when they comment a lot, actually the algorithm will see it as high engagement, then it will show the post to more people, and undecided people will see it more. Even though the network, the effect, is the same — it doesn't have much real impact — but that posting actually gets higher engagement. What's most important for Facebook actually, to me, is likes and shares. That's why you might see cyber-trooper comments cursing profusely, and you know there are cyber-troopers because the comments confirm exactly the narrative they want to push. So in my case, there are really only two or three narratives — "he's sulking," "the minister has failed," "cetong, cetong, cetong" and all that, "nyet-nyet-nyet-nyet," you know all the comments from 4, 5, 6 months ago are the same thing, as if it's going to stick. Then they also don't realize that by doing that, they're automatically flagging all of this as coordinated inauthentic behaviour. Then you know how they operate. But the important thing is, it's not necessarily the comments, what matters is actually likes and shares. That's why you'll notice, likes are usually far higher than comments, because the silent majority will actually just like and share. You can tell — if you look at postings by PN leaders, their share count is very low.
 
-**Speaker 4:** True.
+**Amin Sahmat:** True.
 
 **Rafizi:** Their likes might look high, comments plenty, but their shares are very low. So then you get the feeling that a lot of this is coordinated, a lot of this is basically cyber-troopers. If you look at Datuk Seri Zahid Hamidi's Facebook, it's usually consistent, you know, his likes and all, but his shares are quite low. So all this means, unfortunately, I would have expected people in strategic communication to understand all this, then design accordingly. That's the answer to what you asked earlier — why, for example, JKOM and all, RTM, everything with a name, everything we have, UKK, all seem less effective. It's because of a lack of understanding of how socials actually work. And that applies to PN and BN as well. Take an example, I went through this back in 2022 — coming back, after I retired [from a previous position], everyone was scared of Najib's Facebook, it seemed so viral, everyone was terrified, no one dared touch it, it was on top. So it looked concerning, 30,000 likes and all that. So I worked with my data science team, and we said, okay, let's actually see what these 30,000 likes really mean in terms of public support. Now that comes back to the question of network effect. What's the difference, for example, between 30,000 likes where those 30,000 come from all over the country, every group represented — old people, Malays, Chinese, Kedah, Kelantan, all liking-liking-liking to make 30,000 — versus 30,000 likes also, but all from Kota Bharu alone. There's a difference in impact on votes.
 
-**Speaker 4:** A difference in impact on votes. Right, if it's just from Kota Bharu, it only influences that area, right?
+**Amin Sahmat:** A difference in impact on votes. Right, if it's just from Kota Bharu, it only influences that area, right?
 
 **Rafizi:** Okay.
 
-**Speaker 4:** But then, does the narrative not spread beyond that?
+**Amin Sahmat:** But then, does the narrative not spread beyond that?
 
 **Rafizi:** There are two components there, one is the network effect. So take Najib's postings for example — his postings before, even though the engagement and likes were high, they came from a demographic profile and distribution that was fairly similar, meaning Malay, mostly east coast — those are areas UMNO had already won. Even with 30,000, it wouldn't reach or have an impact beyond that, and it's a network effect because the people liking it are already UMNO supporters, and their circle is already an UMNO circle. So in the end, the intensity of that outrage, even though it's loyal to Najib, to UMNO and all, it couldn't have an effect to swing political opinion. But to onlookers, they'd say, "oh, this is impressive." The same thing happens with many PAS leaders — socially, PAS leaders do have high traction, but it circulates in areas or among voters who are already like that. And that's why, in the end, they couldn't change non-Malay voters, because hardly any non-Malay voters were affected, because there's no network effect there.
 
-**Afiq:** So you want to ask?
+**Wan Afiq:** So you want to ask?
 
 **Rafizi:** Yes, simplification — how do you get away from...
 
-**Afiq:** Okay, that's why it comes back to — that's what I was asking earlier. The difference between 30,000 likes from Kota Bharu alone versus 30,000 but from across the whole country, because when it's from across the country, Chinese people, Malay people, young people, old people are all represented, each one of them has their own network effect. So its spread is much wider across different groups, compared to that 30,000 which is only within the same group. How do you achieve that?
+**Wan Afiq:** Okay, that's why it comes back to — that's what I was asking earlier. The difference between 30,000 likes from Kota Bharu alone versus 30,000 but from across the whole country, because when it's from across the country, Chinese people, Malay people, young people, old people are all represented, each one of them has their own network effect. So its spread is much wider across different groups, compared to that 30,000 which is only within the same group. How do you achieve that?
 
 **Rafizi:** Precisely, it comes back to the question of content.
 
-**Afiq:** Isn't it about buying ads? Setting demographics and everything?
+**Wan Afiq:** Isn't it about buying ads? Setting demographics and everything?
 
 **Rafizi:** No. In fact, if you boost on Facebook, buy Meta ads to serve to more people, if the content itself isn't appealing, isn't attractive, you'll end up paying a huge amount and it won't even reach people. You might end up spending RM200,000, but in the end the people clicking are still the same type, and it keeps serving to the same person, to the same group of people. So the reach might be, say, "oh I paid this, I got 10,000 reach," but that 10,000 reach is actually the same type of people, within your network bubble. So in the end it comes back to content. That's why, for example, if PH leaders' content strategy is to glorify Dato' Seri Anwar when we know he's not exactly popular right now, then you're going to have a really huge challenge on social media. If, for example, the content is in the old-fashioned way governments deliver information — long media statements, "today I had the opportunity to officiate a meeting" — then you're asking for trouble, because with content like that people say, "eh, this is old-fashioned, this is meeting talk," and people skip it. All the same photos, sitting chairing meetings, hundreds of photos chairing meetings. People want to know — and we discussed this in a previous podcast about what kind of content Gen Z wants — they want to know livable experiences, they want to relate. So it's all about content, and content is ultimately what politicians need to choose carefully. That's why it has to be substance over form, because you can't win at everything — we can't be all things to all people. For example, we're not cat lovers, so we can't — we can't pretend to be a religious scholar either. So, in terms of social media, ultimately whatever issue we choose or want to champion must be an issue that has the greatest common denominator with as many people as possible. That's number one. And secondly, actually, over time people will observe you, they'll decide whether you're fake, whether you're just there for show, cringy, or whether you're authentic. I think once you reach that point, then hopefully more and more people will follow you. And most importantly, the people who follow you, who reach you, are the type of people who truly represent a large cross-section of the Malaysian population — Malay, Chinese, Indian, young, old, urban, all of it. And only then does the network effect become large — one piece of content reaches not just more people, but different groups within society.
 
-**Speaker 4:** Okay WB, let me ask you a question, one — let's dig more into the political angle too. Err, back when we were in the opposition... in my view, PH's or even PKR's social media strength, as a party, was quite strong. We could trust people to follow us, especially undecided users. In a way that's different from what we do now — we didn't have any cyber-troopers or anything. But now, having become the government, at the point we succeeded with one strategy, when we became the government, we followed the strategy BN used in 2018 and fell. I don't understand how you can feel so proud of this.
+**Amin Sahmat:** Okay WB, let me ask you a question, one — let's dig more into the political angle too. Err, back when we were in the opposition... in my view, PH's or even PKR's social media strength, as a party, was quite strong. We could trust people to follow us, especially undecided users. In a way that's different from what we do now — we didn't have any cyber-troopers or anything. But now, having become the government, at the point we succeeded with one strategy, when we became the government, we followed the strategy BN used in 2018 and fell. I don't understand how you can feel so proud of this.
 
 **Speaker 3:** For Spotify listeners, YB Rafizi is gesturing...
 
-**Speaker 4:** That's his responsibility, and no one has called this out — within the party, PKR, or the cabinet, I suppose?
+**Amin Sahmat:** That's his responsibility, and no one has called this out — within the party, PKR, or the cabinet, I suppose?
 
 **Rafizi:** It's like this — at the government level, the communications supremo is considered to be Fahmi, so that's his responsibility. And we each have our own portfolios, and even though ministers differ in political seniority, I'm more senior or whatever, we can't just go and criticize each other — each minister, I'm a minister too, who are you [to tell me]? Has he never met with you, YB, to learn from you?
 
-**Speaker 4:** No, that's coming to the second thing in...
+**Amin Sahmat:** No, that's coming to the second thing in...
 
 **Rafizi:** As for the party within the party — within the party, the problem is that many of the young ones actually see everything through a political lens. It's not that I don't support him, so I don't learn from him — that's not the issue. The problem is that once they become government, they take shortcuts. Because for us... And if you look at it, from before 2018 until now, PKR and PH have actually been parties built on issues. It's not a personality party, it's an issues-based party. Why does everyone read our content? Because it provides clarity — whether on anti-corruption or on policy. It actually has substance, not just slogans or rhetoric; there's something there, and we lay out the arguments, then there's evidence, there are facts. That's tiring to produce — you have to read, you have to check. To this day I write my content myself, so there are no "slip-ups" in my content; I do all of it myself. And the reason being, to me, that's part and parcel of what it takes to deliver information. And when I learn something new, I share it with other people — it's out of my curiosity too, I needed to know something new. But how many people who join politics, once they become a minister, actually do that? They don't. Because "I'm a minister now," they get arrogant, they have a team to pay, and everyone just follows along. So they underestimate how important every piece of content is — they see every piece of content as just a social media post. I don't — I look at every single one of my content. You can ask Pa'an, if there's even a small mistake I get marked down, I get worked up about it. I actually check every single thing, because the most important thing with the public is our communication, and it's actually social media. It's what I am in the eyes of the public. What I say, my pictures — my pictures, no big deal — but if the facts are wrong, I really do check every single thing, everything I write — still, every single thing. Once they become ministers, they never do any of that. Back in 2017-18, those who were campaigning, carrying the issues, studying — there were only a few of them — but they reaped the benefit from that wave. And they never built that discipline. So once they're in government, they take the easy way, using the same methods and structures that BN used before. That's what's causing all these "slip-ups" now scattered across social media.
 
-**Speaker 4:** One more thing, baby, I've noticed — I don't want to name names. But a few persons in JKOM are still the same people — under Najib's era, under Muhyiddin's era, and under the Madani era, I...
+**Amin Sahmat:** One more thing, baby, I've noticed — I don't want to name names. But a few persons in JKOM are still the same people — under Najib's era, under Muhyiddin's era, and under the Madani era, I...
 
 **Rafizi:** I don't know, I don't know them.
 
-**Speaker 4:** I don't want to spill their names. Even one of them actually answers — he really does slip up, even within PKR too. But previously, under Muhyiddin's era, he was actually a fairly senior JKOM officer. So that means, like, for me — you already knew that back then, the people in JKOM weren't functioning well, and yet you keep the same person, paying salaries with our tax money for what? For Fahmi's sake. For me, that's why it's such a huge waste — I'd say it's a real shame. Because we could turn all this government machinery around, at the very least...
+**Amin Sahmat:** I don't want to spill their names. Even one of them actually answers — he really does slip up, even within PKR too. But previously, under Muhyiddin's era, he was actually a fairly senior JKOM officer. So that means, like, for me — you already knew that back then, the people in JKOM weren't functioning well, and yet you keep the same person, paying salaries with our tax money for what? For Fahmi's sake. For me, that's why it's such a huge waste — I'd say it's a real shame. Because we could turn all this government machinery around, at the very least...
 
 **Rafizi:** Actually I disagree with that — using the government itself for that. In fact, this is the story about cutting 10 billion. 10 billion, 10 billion, telling us to cut health and everything — the first thing that should be cut is to dissolve JKOM.
 
-**Speaker 4:** Yes.
+**Amin Sahmat:** Yes.
 
 **Rafizi:** Correct. Dissolve all the media buys — all this media buying stuff, because it costs tens of millions, maybe hundreds of millions every year. Because political communication can no longer be subcontracted out — you have to do it yourself. Gone are the old-style ways, whether it's JKOM or those "fixers" who used to busy themselves managing all the media — being nice to the media, then the media throws you a bit of praise, gives you a bit of sponsorship, the media writes a bit more favorably. I don't do that — I'd get in serious trouble if I did. All that no longer works in this digital world — you have to be the face yourself. In the 80s, 90s, ministers could all get along nicely with their press secretaries who managed things, then plan stories like this and that. Now that's no longer possible — you have to tell it yourself, you have to master the issue, you have to be visible in everything. So if before this the time a minister spent on communication was maybe 5%, now that can't be the case, it has to be 20-30%. You have to constantly communicate. So whatever the study — whether it's PH, BN, or PN after this — if the approach remains wasting public money on having JKOM and the like, eventually it becomes like the Zarkashi bunch — a former director-general, a "distinguished" director-general of JKOM back in the day, just look at how he turned out. So if you do that, it will bring back the same problem to whoever becomes the government, because they fail to understand how social media is built. It's built through network effect, and network effect is a function of content and a function of networking. JKOM — the basis of its whole approach is all about the function of fake profiles, it's all about coordinated inauthentic behaviour. That is the very antithesis of network effect, you know.
 
-**Afiq:** Alright, how much time do we have left, bro? Alright, we have 10 minutes left. Thank you.
+**Wan Afiq:** Alright, how much time do we have left, bro? Alright, we have 10 minutes left. Thank you.
 
 **Speaker 3:** Class.
 
-**Afiq:** Communication straight from YB Raf himself. It really is true that MCMC should be paying [him]. Okay, next — sorry, let's move to the last question.
+**Wan Afiq:** Communication straight from YB Raf himself. It really is true that MCMC should be paying [him]. Okay, next — sorry, let's move to the last question.
 
 **Rafizi:** Actually there's a reason — good thing I remembered this. Because we're getting close to the election, we're getting close to the election, many are watching, many read the content every week. I spent half an hour talking about social media, network effect and all that, because after this, that means we need more people, not just watching, you know — we need to strengthen that network effect. People who are watching, if they agree with the content, even if they don't create content themselves, you have to share it; even if you don't share it, you have to forward it. Because the only way to win in a digital campaign nowadays is network effect. And that's why so many people watch every week — a lot watch live, and a lot watch afterward. If you agree with what we say, our views, at the very least share it. If you're more diligent, make a splice — take whatever part you like, make a short video, or post on Facebook or wherever, share it. If that's done well, that means so many things can be achieved in the next 4-5 months.
 
-**Afiq:** Clear? So come on, join us. Okay, next — maybe the last one this time. How many days before being charged? You've been charged by the police before, by MACC...
+**Wan Afiq:** Clear? So come on, join us. Okay, next — maybe the last one this time. How many days before being charged? You've been charged by the police before, by MACC...
 
 **Rafizi:** This is the first time. I already got the notice earlier, 3.5 — I already suspected it, because when you look at the James investigation and all that, then you roughly know that James was the last one. And after James, I really did guess it, and I remember Tan Sri Azam Baki has about 2 more weeks left, and that means the investigation must be wrapped up so charges can be filed quickly. If you look at the cases MACC has handled before, after they call someone in for one or two days, then they charge right away. So there's a big chance that I, within a week or two — if not next week, then the weeks after that — will be charged. Whether they want to make me wear the orange jumpsuit or not is up to them — I have a purple shirt, but that's good too, right, I only have a photo of the purple shirt so far, not yet a photo of the orange one, so that works. So we understand, it's a combination — meaning I will start giving my statement at 10 a.m. this coming Monday at MACC HQ in Putrajaya. How many days that takes is up to them, but I don't think — they've already spent 2-3 months on this since February, then there was that fuss about the gym and everything, and suddenly after taking my statement, they close the file — no, that's clearly not going to happen, we already know that. Meaning, once things reach this stage, I think they no longer care how the case goes in court — winning or losing will only be known 3-4 years later, because a case's trial takes 3-4 years, then after those 3-4 years there's an appeal, then another appeal. So at the very fastest it's probably 5-6 years. By that time, I imagine the officers involved will all be considered as having "just followed orders" — by then I'll have been promoted anyway, so they don't care. So what's needed is simply the order: this needs to be wrapped up, then charge it in court.
 
@@ -654,29 +653,29 @@ I can see why that's needed in the current political climate. First, I think our
 
 I think, at this point — after 2-3 months we'll know this case is straightforward. The charge is that I allegedly influenced the Prime Minister, the Cabinet, all the senior government officials to hastily sign the agreement with ARM. And I think the technicality they'll bring to court is that because in that rush there were supposedly a few things that didn't follow Cabinet directives, that is considered an abuse of power and also corruption. And I will be charged over that. And that's fine, we'll go to court — I don't think there's any problem with the defense. It's just that it'll be fun, because everyone will have to be called in — from Dato' Seri Anwar Ibrahim, the videos of Dato' Seri Anwar Ibrahim taking credit, the Zafrul story, Dato' Seri Anwar himself who said during his speech that day, "you know, I — it only took me 30 minutes, to convince me — just 30 minutes and I was already convinced." So how am I the one who influenced him? If they want to charge someone, charge the CEO of ARM for influencing Anwar Ibrahim — and also, he's been in charge of ARM, and by my calculation it was 8 months late, when it should have been done in 3 months. If we're talking about being pressured to rush things, it should be the Prime Minister who's on the hook. It's the same as with previous agreements — they were all approved by Cabinet, then the final agreement went through a joint committee with the Ministry of Finance, MITI, the Ministry of Economy, and then it was agreed upon by their respective legal advisors. So that's why, when it goes to court, I'm honestly not worried at all — there are plenty of other cases I've been through that are actually legally riskier than this one, from a technical standpoint. This one, for me, is 100% fine — it'll just take time to get to court, that's all.
 
-**Speaker 4:** It's just... people will just assume it's like that, a visit to the court, that's all.
+**Amin Sahmat:** It's just... people will just assume it's like that, a visit to the court, that's all.
 
 **Rafizi:** I've had so many of these "visits" already. I've grown weary of these visits, and now I'll have to continue visiting court for another 6 years, but that's fine, it's part and parcel of it. It's the same as what we discussed earlier about Negeri Sembilan. Sometimes I feel like they forget the concept of unintended consequences. And maybe it's actually a good thing to happen, because if, for example, this ARM issue hadn't been manufactured — someone told them to manufacture it, and they manufactured a case — if it hadn't been manufactured, it might have been hard for fence-sitting voters and former PH supporters to understand. And they might have felt that Rafizi is just sulking, that he lost and he's sulking. Actually now, you know, that "sulking" narrative is really only pushed by cybertroopers and slip-up accounts posting — you don't hear it much anymore, because I think over the last 10 months, people have really come to see that there's a big internal issue. And the difference is that I chose not to stay silent — on the matter of Farha, on Rahmanan, on Tan Sri Azam Baki, on all these interference cases. So people understand that the conflict isn't actually about the PKR election. It's actually about something bigger tied to governance, to trust, to reform. When these things happen, it confirms it.
 
 And what's even more dangerous is — there are two groups. One group that went through the 1998 Reformasi, whether they're my age, in their 50s, or older, in their 60s-70s — they'll feel, "actually, what's happening now is just like back then." It's about the dynamics of power — whoever holds power at the top, if someone dares to question them, "I'll teach you a lesson," and they teach that lesson by charging them, beating them down enough that they learn their place, then they sit quietly. That's one group, and it will bring back memories of the 90s, of '98, and remind them why people demanded that this system and culture of power be changed. But what's even more dangerous is the Gen Z kids, because Gen Z kids actually never had any memory or never "caught on" to the reform movements of the 90s and 80s. You show them how MACC is being used as a "weaponized" instrument. What should be investigated isn't investigated. What should have a report released — regarding Tan Sri Azam Baki — is being suppressed by all means, and to this day it still hasn't come out, no action has been taken. But then add the ARM issue about semiconductors, which people understand is for the future — the young ones are more excited about getting higher salaries, all across Malaysia, there are many of this new generation now.
 
-**Speaker 4:** Many working in TVET too. Yeah, so they understand it better. Then they watch, and for the first time they're experiencing episode after episode themselves.
+**Amin Sahmat:** Many working in TVET too. Yeah, so they understand it better. Then they watch, and for the first time they're experiencing episode after episode themselves.
 
 **Rafizi:** What makes them understand is [seeing] how dissenting views, voices that disagree or hold different opinions, are being silenced. So then you end up with a network effect too — meaning, instead of only one generation understanding, now more people understand why institutional reform is needed, why in our country's political culture and power structure, these things can happen. I'm actually more open about it now — this is part and parcel of what needs to happen. It's just, to the listeners, be careful — next week, if for the first time we slip and can't do the podcast — maybe by then I've already been detained or already been charged.
 
-**Afiq:** Do you expect them to detain you for up to a week?
+**Wan Afiq:** Do you expect them to detain you for up to a week?
 
 **Rafizi:** I don't know, you cannot tell. You can never tell.
 
-**Afiq:** If they do that, it's a political move.
+**Wan Afiq:** If they do that, it's a political move.
 
 **Rafizi:** But I don't think Azam Baki cares at all — I think he's very personal about it now, to the point that he even commented on the SOGO case, something he shouldn't have commented on, and he commented on it. They could remand him too. So, by next week, you cannot tell. Back during 1MDB, the last time I was detained, but that wasn't MACC, that was the police — they remanded me for 5 days back then.
 
-**Afiq:** Eh, if any young people want to go too, to show support for YB?
+**Wan Afiq:** Eh, if any young people want to go too, to show support for YB?
 
 **Rafizi:** Go stand outside the gate, don't go in. This is another thing people don't understand — viewers always say, "during James's case, oh please bring a lawyer, oh please do this." Actually, the MACC Act isn't the same as the Penal Code or other laws, you know. First, you can't bring a lawyer — you go in alone, no lawyer allowed. Second, you don't have the option not to answer. With other laws like the Penal Code, there's a provision — meaning if the police ask, you can say "I'm exercising my right not to answer now and will answer in court." The police can't do anything, they just note it down. The MACC Act doesn't allow that — if they ask, you must answer. If you don't answer, they can charge you for not answering, and that itself is an offense, and you get charged in court right there. So even a lawyer can't help — there are no Miranda Rights. These are things we need to revisit someday — one day, when such enormous power is given to MACC, from having no Miranda Rights, to being able to freeze anyone's account they want without having to go before a judge, they can decide on their own — the compounding [of offenses] that happened before, like within Bersatu, a son-in-law, or not a son-in-law, like a nephew or cousin, took over 6 million, then paid a compound of 4 million — so even the compound amount, the Director-General of MACC, the Chief Commissioner, they decide it all themselves. That's an enormous amount of power. So this is among the things we need to revisit. That's why there's a silver lining to me having to go through this — let me go, let me observe the behavior of the investigating officer, his manner, everything. Let me go through the process, the law, and then when they charge me, all of that gives us more information for the future — we want to rein in these powers that currently exist. When left unchecked, that's what creates problems with mafia-like behavior, corporate abuse, all of this, because people are so afraid of MACC — they just get called in because MACC can freeze their accounts just like that, and once the account is frozen, people get scared, and then, well, they can negotiate, negotiate. So, we hope that next week we'll be back together on the podcast, but if not, if I'm not around next week, then you all just do a regular podcast, carry on — we'll do a live cross in front of MACC headquarters.
 
-**Afiq:** Sure. So, YB, how many hours have we been going? We're at three hours four minutes.
+**Wan Afiq:** Sure. So, YB, how many hours have we been going? We're at three hours four minutes.
 
 **Speaker 3:** Sorry, last question — YB, I want to ask personally, YB, are you mentally prepared? Are you okay? What do you feel having to go through this?
 
@@ -684,16 +683,16 @@ And what's even more dangerous is — there are two groups. One group that went 
 
 So I think, if you haven't done anything wrong — actually there's nothing to worry about. If you haven't done anything wrong, and if your intentions are right — God willing, you know you haven't done wrong and your intentions are right, if not today, then next week, and at some point in the future, the truth will come out. So actually, the best strategy and the best preparation is to tell the truth. If you feel something is right, then as long as you're not lying or anything, then you stick to that. Yes, you know, you might be surrounded by the most powerful people, who can do everything, but time will be on your side one day. So I think that's my attitude, I don't feel anything about it. And we will go through it, and I just hope, if they want to charge me, go ahead and charge me — you've got nothing to lose, I've got nothing to lose, really.
 
-**Afiq:** So — next episode we'll get an update on what MACC asked.
+**Wan Afiq:** So — next episode we'll get an update on what MACC asked.
 
 **Rafizi:** That needs to be checked — under the Act you can't, oh sorry, the Act doesn't allow it, a lawyer can't — no, well, a lawyer would know. That's why you'll notice I've never filed an MACC report myself, that's precisely the point — if I brought all the evidence and went to report it to MACC, I really wouldn't be able to speak about it anymore, they'd close the file, and the case would just die there. That's why, under the MACC Act — once you've been questioned, you can't speak about it. That's why I need to give the warning early, say it early, because after that I can't comment anymore. That's why James, when journalists and the media kept asking him, he couldn't say anything — same as the lack of Miranda Rights, if you're asked and don't answer, you're in trouble; if you make a statement afterward, you're in trouble too — all of it. That's why it's fine, God willing, if we're granted long life, we'll revisit this MACC Act, so that characters like Tan Sri Azam Baki never happen again, and so that MACC doesn't end up the way it currently is, God willing.
 
-**Afiq:** Okay, YB — so YB, that's a wrap. Thank you, that's the key takeaway. Good night everyone. I apologize if I made a lot of mistakes, I'm still learning, need to get the subtitles sorted.
+**Wan Afiq:** Okay, YB — so YB, that's a wrap. Thank you, that's the key takeaway. Good night everyone. I apologize if I made a lot of mistakes, I'm still learning, need to get the subtitles sorted.
 
 **Rafizi:** Understood, they'll add subtitles later. But it's fine — network effect — maybe because tonight the moderator is from Besut, Kelantan, our viewers from Kelantan and Terengganu are a bit more numerous tonight, so it'll be better understood.
 
-**Afiq:** Okay.
+**Wan Afiq:** Okay.
 
 **Rafizi:** Alright.
 
-**Afiq:** So, that's it. Good night everyone. Okay, thank you.
+**Wan Afiq:** So, that's it. Good night everyone. Okay, thank you.

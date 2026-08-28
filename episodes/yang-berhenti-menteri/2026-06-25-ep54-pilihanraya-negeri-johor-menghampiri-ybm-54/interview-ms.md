@@ -8,7 +8,8 @@ duration_seconds: 5491
 duration: 1h 31m
 view_count: 108943
 hosts:
-- Rafizi Ramli
+- Rafizi
+- Haziq
 guests: []
 topics:
 - Viral fake/bot engagement on PKR live stream (Chittagong, Amharic language)
@@ -194,7 +195,7 @@ Oleh sebab itu, maksudnya ini adalah pilihan raya yang paling meriah agaknya. Da
 
 **Speaker 1:** Tapi kalau kita lihat kali ini juga, selain daripada tawaran dan juga apa yang hendak dibuat jika menang, semuanya mungkin adalah medan untuk menguji penjajaran politik. Sebagai contohnya kita lihat bagaimana ada yang mengatakan bahawa sebenarnya kali ini hendak mencuba menguji wawasan kerjasama Muafakat Nasional dahulu, tetapi melalui Barisan Nasional, PAS dan juga Wawasan, sebagai contohnya.
 
-**Speaker 2:** Tapi kalau kita baca mesej-mesej tersirat tentang Wawasan ini, sebab Wawasan menampilkan diri mereka sebagai jambatan, dan jambatan ke arah penjajaran pengundi. Tapi kalau kita baca yang tersurat, jambatan ini, jambatan antara siapa ke siapa, mana ke mana — saya tidak nampak ia jambatan antara Bersatu Tan Sri Muhyiddin dengan PAS Datuk Seri Hadi Awang. Pergaduhan mereka itu memang sudah — aku dengan Anwar pun tak bergaduh macam itu, paling kurang aku cucuk-cucuk dia sikit sahaja. Jadi kalau jambatan yang sering diwar-warkan sebagai fungsi strategik Wawasan ini, yang saya boleh faham ialah jambatannya adalah antara UMNO dengan PAS. Dan di tengah-tengahnya ialah Datuk Seri Hamzah Zainudin dan Wawasan sebagai jambatan kedua. Itulah ke arah penyatuan Ummah. Awak mahu panggil apa, panggillah, Muafakat 2.0 atau apa sahaja, panggillah. Jadi itu yang saya nampak.
+**Speaker 2:** Tapi kalau kita baca mesej-mesej tersirat tentang Wawasan ini, sebab Wawasan menampilkan diri mereka sebagai jambatan, dan jambatan ke arah penjajaran pengundi. Tapi kalau kita baca yang tersurat, jambatan ini, jambatan antara siapa ke siapa, mana ke mana — saya tidak nampak ia jambatan antara Bersatu Tan Sri Muhyiddin dengan PAS Datuk Seri Hadi Awang. Pergaduhan mereka itu memang sudah — aku dengan Anwar pun tak bergaduh macam itu, paling kurang aku cucuk-cucuk dia sikit sahaja. Jadi kalau jambatan yang sering diwar-warkan sebagai fungsi strategik Wawasan ini, yang saya boleh faham ialah jambatannya adalah antara UMNO dengan PAS. Dan di tengah-tengahnya ialah Datuk Seri Hamzah Zainuddin dan Wawasan sebagai jambatan kedua. Itulah ke arah penyatuan Ummah. Awak mahu panggil apa, panggillah, Muafakat 2.0 atau apa sahaja, panggillah. Jadi itu yang saya nampak.
 
 Bagaimana ini akan dimainkan dalam PRN Johor, saya rasa kita hanya boleh nampak selepas pengumuman calon nanti. Kalau contohnya PAS banyak tidak bertanding di kerusi-kerusi UMNO, sudah tentu akan dirasakan bahawa memang betul penjajaran itu sedang berlaku di belakang tabir. Jadi ia akan menjadi satu kitaran semula — daripada PAS menggantikan UMNO, PAS melawan UMNO, lepas itu PAS memeluk UMNO dalam Muafakat Nasional, lepas itu PAS bersama-sama dalam kerajaan selepas Sheraton Move, lepas itu PAS memaki UMNO sebagai "UMDAP", pulut balik. Jadi itu kita hanya boleh nampak selepas penamaan calon.
 

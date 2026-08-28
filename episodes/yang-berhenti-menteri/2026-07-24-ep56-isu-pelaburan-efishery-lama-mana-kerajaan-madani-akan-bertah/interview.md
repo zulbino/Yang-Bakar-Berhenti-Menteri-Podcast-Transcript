@@ -8,9 +8,10 @@ duration_seconds: 9937
 duration: 2h 45m
 view_count: 203668
 hosts:
-- Rafizi Ramli
-- Speaker 2 (Pa'an/Aan)
-guests:
+- Rafizi
+- Haziq
+- Farhan (Pa'an)
+guests: []
 topics:
 - Parti Bersama updates (Johor candidates, Melaka PRN prep, Kancil app launch)
 - 'Beria segment: viral/absurd political and social media content'
@@ -53,11 +54,11 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Speaker 2:** Podcast Yang Berhenti — Menteri, episod ke-56, macam biasa bersama Saudara Fizi dan Chopper yang menyaung-nyaung di belakang sana.
 
-**Rafizi Ramli:** Saya tersenyum sebab tadi panggil nama Chopper, dia menyahut, lepas tu dia tak berhenti menyahut tu.
+**Rafizi:** Saya tersenyum sebab tadi panggil nama Chopper, dia menyahut, lepas tu dia tak berhenti menyahut tu.
 
 **Speaker 2:** YB macam mana seminggu lepas HQ dibuka?
 
-**Rafizi Ramli:** Alhamdulillah sebab kita dah bergerak seselaju yang mungkin. Hari Isnin yang lepas memang saya dah duduk dengan calon-calon bersama dalam PRN Johor yang lepas dan kita telah pun bersetuju langkah-langkah susulan supaya khidmat dan juga peranan bersama di peringkat akar umbi yang ditawarkan kepada penduduk di Johor itu boleh terus dimulakan. InsyaAllah dalam tempoh yang terdekat ini kita akan mula buka satu — saya tak suka panggil pejabat, kita akan panggil tempat itu sebagai ruang bersama. Ruang bersama, kan.
+**Rafizi:** Alhamdulillah sebab kita dah bergerak seselaju yang mungkin. Hari Isnin yang lepas memang saya dah duduk dengan calon-calon bersama dalam PRN Johor yang lepas dan kita telah pun bersetuju langkah-langkah susulan supaya khidmat dan juga peranan bersama di peringkat akar umbi yang ditawarkan kepada penduduk di Johor itu boleh terus dimulakan. InsyaAllah dalam tempoh yang terdekat ini kita akan mula buka satu — saya tak suka panggil pejabat, kita akan panggil tempat itu sebagai ruang bersama. Ruang bersama, kan.
 
 Kemudian hari Rabu yang lepas, satu mesyuarat permulaan persediaan untuk pilihan raya negeri Melaka telah pun dimulakan, dan insyaAllah selepas ini tiap-tiap minggu akan ada perkembangan yang kita akan bagi kemas kini kepada rakyat, dan juga memperkenalkan calon-calon seawal yang mungkin. Jadi kepada sesiapa orang Melaka, kena pastikan bahawa lahir di Melaka ataupun alamat itu di Melaka — pengundi Melaka lah maksudnya — bagi mereka yang belum lagi memohon untuk menjadi calon terbuka. Kerana calon-calon bersama, seperti yang kita dah tunjukkan di Johor, terdiri daripada dua kumpulan. Satu ialah kumpulan penggerak ataupun aktivis yang pernah ada pengalaman politik dan pengalaman khidmat masyarakat. Satu lagi ialah calon terbuka daripada kalangan golongan profesional, daripada golongan muda, mereka yang ke depan untuk menawarkan khidmat, untuk menyumbang kepada masyarakat. Kepada mereka yang belum lagi memohon menjadi calon, boleh pergi ke laman bersama.org, klik sertai kami. Dekat situ boleh memohon untuk menjadi calon, temuduga dengan skrin seperti yang telah dilalui oleh calon-calon lain.
 
@@ -65,19 +66,19 @@ Dan hari ini tadi, apps Kancil telah mula beroperasi untuk pengguna-pengguna And
 
 **Speaker 2:** Memang selalunya macam itu, Android Play Store selalunya lebih cepat daripada Apple Store.
 
-**Rafizi Ramli:** Jadi kepada ahli-ahli bersama yang menggunakan Android boleh mula untuk muat turun.
+**Rafizi:** Jadi kepada ahli-ahli bersama yang menggunakan Android boleh mula untuk muat turun.
 
 **Speaker 2:** Dah live lah ya?
 
-**Rafizi Ramli:** Skanchel dah live dan melalui proses itu, daripada situ boleh lihat bagaimana kita berhasrat untuk menggunakan kekuatan digital itu untuk menguruskan ahli-ahli bersama. Dan harapan kita, daripada satu masa ke satu masa, kita akan perkenalkan feature-feature baru yang bukan sahaja membantu ahli-ahli bersama di bawah untuk tampil ke depan menawarkan diri untuk mengendalikan program, untuk membantu meluaskan bersama di peringkat kawasan masing-masing, tetapi juga untuk membezakan sumbangan ahli-ahli yang sedang berusaha sekarang. Jadi itu proses untuk kita membudayakan satu politik yang baru yang mestilah berasaskan kepada merit. Sebab itu kita tidak mahu mengadakan sebarang lantikan pimpinan buat masa sekarang, untuk kita membenarkan proses ini berlaku terlebih dahulu supaya ahli-ahli bersama boleh kenal sendiri mengikut track record sesama mereka. Dan bila pada masa yang sesuai, ikut kayu ukur kita, satu pemilihan di seluruh negara akan dibuat untuk memilih pimpinan. Daripada situ harapan saya ialah app Kancil akan memberi satu bentuk ketelusan supaya ahli-ahli bersama ini dapat menilai siapa yang layak diberikan amanah sebagai pemimpin. Kita masih menunggu Apple Store untuk meluluskan.
+**Rafizi:** Skanchel dah live dan melalui proses itu, daripada situ boleh lihat bagaimana kita berhasrat untuk menggunakan kekuatan digital itu untuk menguruskan ahli-ahli bersama. Dan harapan kita, daripada satu masa ke satu masa, kita akan perkenalkan feature-feature baru yang bukan sahaja membantu ahli-ahli bersama di bawah untuk tampil ke depan menawarkan diri untuk mengendalikan program, untuk membantu meluaskan bersama di peringkat kawasan masing-masing, tetapi juga untuk membezakan sumbangan ahli-ahli yang sedang berusaha sekarang. Jadi itu proses untuk kita membudayakan satu politik yang baru yang mestilah berasaskan kepada merit. Sebab itu kita tidak mahu mengadakan sebarang lantikan pimpinan buat masa sekarang, untuk kita membenarkan proses ini berlaku terlebih dahulu supaya ahli-ahli bersama boleh kenal sendiri mengikut track record sesama mereka. Dan bila pada masa yang sesuai, ikut kayu ukur kita, satu pemilihan di seluruh negara akan dibuat untuk memilih pimpinan. Daripada situ harapan saya ialah app Kancil akan memberi satu bentuk ketelusan supaya ahli-ahli bersama ini dapat menilai siapa yang layak diberikan amanah sebagai pemimpin. Kita masih menunggu Apple Store untuk meluluskan.
 
 **Speaker 2:** Berapa lama ke?
 
-**Rafizi Ramli:** You tak pernah boleh tahu sebenarnya. Bagi mereka yang biasa dalam bidang digital ini, masalah Android Play Store dengan Apple Store ini — bersama sebagai pembangun aplikasi, selepas itu telah diluluskan, maka kita kena submit aplikasi itu, dan dia sebenarnya bergantung kepada Apple Store ataupun Android kerana mereka akan semak. Jadi dia juga bergantung kepada cepat, laju, ataupun ada perkara-perkara yang mereka minta tukar.
+**Rafizi:** You tak pernah boleh tahu sebenarnya. Bagi mereka yang biasa dalam bidang digital ini, masalah Android Play Store dengan Apple Store ini — bersama sebagai pembangun aplikasi, selepas itu telah diluluskan, maka kita kena submit aplikasi itu, dan dia sebenarnya bergantung kepada Apple Store ataupun Android kerana mereka akan semak. Jadi dia juga bergantung kepada cepat, laju, ataupun ada perkara-perkara yang mereka minta tukar.
 
 **Speaker 2:** Oh betul lah, dia minta tukar kadang-kadang kan.
 
-**Rafizi Ramli:** Jadi kita mulakan dengan Android dahulu, dan kita doa lah dalam tempoh satu dua minggu ini Apple Store pun meluluskan. Itu perancangan-perancangan yang sedang dibuat sekarang.
+**Rafizi:** Jadi kita mulakan dengan Android dahulu, dan kita doa lah dalam tempoh satu dua minggu ini Apple Store pun meluluskan. Itu perancangan-perancangan yang sedang dibuat sekarang.
 
 **Speaker 2:** Baik, baik, baik. Okey, YB, satu soalan, enam minit — YB jawab.
 
@@ -85,103 +86,103 @@ Dan hari ini tadi, apps Kancil telah mula beroperasi untuk pengguna-pengguna And
 
 **Speaker 2:** Betul. Okey, kita macam biasa, YB. Kita start dengan Beria.
 
-**Rafizi Ramli:** Sekarang pun orang aku tengok banyak je yang nak cakap Beria, Beria. Pasal ahli politik lain pun dah mula guna kata Beria. Trending betul, YB.
+**Rafizi:** Sekarang pun orang aku tengok banyak je yang nak cakap Beria, Beria. Pasal ahli politik lain pun dah mula guna kata Beria. Trending betul, YB.
 
 **Speaker 2:** Okey, kita tengok apa yang ada minggu ni, YB. Yang pertama — Ceng Bermat: "Marathon ni sesuai untuk Rafizi."
 
-**Rafizi Ramli:** Perjalanan yang paling pendek di dunia — aku tak ada masalah, boleh je. Ini sebab apa? Sebab ada orang kata aku patut buat larian seperti Saiddul Sadiq untuk race fund untuk bersama.
+**Rafizi:** Perjalanan yang paling pendek di dunia — aku tak ada masalah, boleh je. Ini sebab apa? Sebab ada orang kata aku patut buat larian seperti Saiddul Sadiq untuk race fund untuk bersama.
 
 **Speaker 2:** Oh, you nak lari dari mana ke mana?
 
-**Rafizi Ramli:** Tak, tak. Aku rasa kita buat begini — yang buat begini, mungkin untuk 10 meter sahaja. Tapi pastikan kita race sama banyak macam itu. Work smart, work smart. So dari segi efisiensi, itu lebih cekap, itu lebih efisien, kan. Boleh je actually. Kita pun memang tengah nak buat satu bentuk — apa ni — hmm — bukanlah permainan, tapi satu aktiviti rakyat yang sebenarnya banyak dah jadi trend di negara-negara lain, kan. Jadi dia berbentuk obstacle course. Tapi obstacle course itu ada menguji kemahiran di setiap halangan itu, dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah salah satunya, mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku lari lah sebelum ini.
+**Rafizi:** Tak, tak. Aku rasa kita buat begini — yang buat begini, mungkin untuk 10 meter sahaja. Tapi pastikan kita race sama banyak macam itu. Work smart, work smart. So dari segi efisiensi, itu lebih cekap, itu lebih efisien, kan. Boleh je actually. Kita pun memang tengah nak buat satu bentuk — apa ni — hmm — bukanlah permainan, tapi satu aktiviti rakyat yang sebenarnya banyak dah jadi trend di negara-negara lain, kan. Jadi dia berbentuk obstacle course. Tapi obstacle course itu ada menguji kemahiran di setiap halangan itu, dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah salah satunya, mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku lari lah sebelum ini.
 
 **Speaker 2:** Okay baik-baik. Ni kenapa pula Beria ni? Apa kena-mengena dia dengan Beria?
 
-**Rafizi Ramli:** Beria lah, dia buat pendek.
+**Rafizi:** Beria lah, dia buat pendek.
 
 **Speaker 2:** YB, tapi bagaimana sebenarnya ni?
 
-**Rafizi Ramli:** Bagi idea baru. Idea baru.
+**Rafizi:** Bagi idea baru. Idea baru.
 
 **Speaker 2:** Tapi sekarang ni sebab macam tengah — orang tengah formal untuk lari-lari semua. YB kan tengah nak fit, YB tak ada join yang bayar-bayar ni?
 
-**Rafizi Ramli:** Mana ada formal sekarang nak lari-lari daripada zaman dulu.
+**Rafizi:** Mana ada formal sekarang nak lari-lari daripada zaman dulu.
 
 **Speaker 2:** Oh dari dulu ada?
 
-**Rafizi Ramli:** Memang lah, cuma mungkin ada orang yang continuously pick up running kan. Saya memang dah ke laut semua sebab gara-gara bersama dan juga politik. Saya dulu, lepas resign tahun lepas, bulan 6, bulan 7 tu dia pick up quite ok, saya tak boleh nak stretch macam dulu, so larian agak pace dia tu perlahan lah bandingan dulu-dulu sebab maximum heart rate ni dah jadi lain lah. Tapi lepas itu, lepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa tengah plan untuk lancar bersama, koyak sampai sekarang — aku tak exercise langsung.
+**Rafizi:** Memang lah, cuma mungkin ada orang yang continuously pick up running kan. Saya memang dah ke laut semua sebab gara-gara bersama dan juga politik. Saya dulu, lepas resign tahun lepas, bulan 6, bulan 7 tu dia pick up quite ok, saya tak boleh nak stretch macam dulu, so larian agak pace dia tu perlahan lah bandingan dulu-dulu sebab maximum heart rate ni dah jadi lain lah. Tapi lepas itu, lepas bulan puasa, cuti puasa Ramadan sebulan, lepas bulan puasa tengah plan untuk lancar bersama, koyak sampai sekarang — aku tak exercise langsung.
 
 **Speaker 2:** Bulan puasa bulan berapa dia?
 
-**Rafizi Ramli:** Bulan 4 ni dah nak masuk 3 bulan lah, kan, 3 bulan.
+**Rafizi:** Bulan 4 ni dah nak masuk 3 bulan lah, kan, 3 bulan.
 
 **Speaker 2:** Hmm.
 
-**Rafizi Ramli:** Baik, YB. Kita tengok yang next.
+**Rafizi:** Baik, YB. Kita tengok yang next.
 
 **Speaker 2:** Beria korang pergi ambil-ambil datang ni. Saja, langsung tak terasa korang kata marathon ni sesuai untuk Rafizi. Okey, itu marathon. Yang ini — work up. Tapi ada orang yang terlebih beria — dia buat lafaz talak kalau Argentina kalah. Ini betul ke tidak ni?
 
-**Rafizi Ramli:** Sebab sekarang ni...
+**Rafizi:** Sebab sekarang ni...
 
 **Speaker 2:** Eh, again — tapi YB selalu cakap ini biasa dia screenshot dia buat sendiri-sendiri, kan?
 
-**Rafizi Ramli:** Sebab selalunya zaman sekarang ini ialah zaman content, terutamanya dekat track.
+**Rafizi:** Sebab selalunya zaman sekarang ini ialah zaman content, terutamanya dekat track.
 
 **Speaker 2:** Cuma so far sekarang ni benda ni macam dah ada berita yang quote lah, dan memang orang macam sahkan benda tu.
 
-**Rafizi Ramli:** Ya, berita pun memang content lah. Sekarang apa ni, clickbait semua kan, untuk dapat click sahaja. Jadi kita sebenarnya tak tahu lah ada tidaknya orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah terus jatuh talak tiga. Dulu-dulu benda ni dalam politik je.
+**Rafizi:** Ya, berita pun memang content lah. Sekarang apa ni, clickbait semua kan, untuk dapat click sahaja. Jadi kita sebenarnya tak tahu lah ada tidaknya orang yang macam ini yang bertaruh dengan kawan dia, kalau Argentina kalah terus jatuh talak tiga. Dulu-dulu benda ni dalam politik je.
 
 **Speaker 2:** YB cakap balik baru 3? Kalau lompat parti kosongkan, maka jatuh talak.
 
-**Rafizi Ramli:** Tapi lama sangat, YB, saya macam dah — tak boleh rehat, tak payah sebut lah kan, yang mana kan. Tapi aku masa tu nak juga tanya, kecil-kecil dulu, kalau dia tak kahwin macam mana? Ada kelebihan kan untuk dia, so dia tak ada bayang lah, dia tak ada apa ni, so dia mudah lah untuk lompat. Ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin saja? Sebab kalau tak kahwin, maka tak boleh nak ikat dengan bond seperti itu.
+**Rafizi:** Tapi lama sangat, YB, saya macam dah — tak boleh rehat, tak payah sebut lah kan, yang mana kan. Tapi aku masa tu nak juga tanya, kecil-kecil dulu, kalau dia tak kahwin macam mana? Ada kelebihan kan untuk dia, so dia tak ada bayang lah, dia tak ada apa ni, so dia mudah lah untuk lompat. Ataupun adakah itu bermakna calon PAS hanya mesti untuk orang yang kahwin saja? Sebab kalau tak kahwin, maka tak boleh nak ikat dengan bond seperti itu.
 
 **Speaker 2:** Soalan-soalan kita boleh tanya kepada PAS lah.
 
-**Rafizi Ramli:** Hidup lagi ke orang yang kita nak tanya tu?
+**Rafizi:** Hidup lagi ke orang yang kita nak tanya tu?
 
 **Speaker 2:** Well, tak tahu lah, nanti ada lah orang PAS menjawab kat luar.
 
-**Rafizi Ramli:** So apa yang nak ceritanya, konon beria orang yang — sekiranya betul, beria; sekiranya tak betul, beria lah orang ni buat sekejap saja. Ini bukan beria, namanya bodoh.
+**Rafizi:** So apa yang nak ceritanya, konon beria orang yang — sekiranya betul, beria; sekiranya tak betul, beria lah orang ni buat sekejap saja. Ini bukan beria, namanya bodoh.
 
 **Speaker 2:** Bodoh.
 
-**Rafizi Ramli:** Hai, yelah, sebab tu aku ragu-ragu lah benda ini ada wujud manusia seperti ini sekarang. Aku ragu-ragu lah, tak tahu lah, takkanlah jahil sangat kot. Mungkin tak ada kan? Mungkin tak ada kot. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena pergi reply, kan.
+**Rafizi:** Hai, yelah, sebab tu aku ragu-ragu lah benda ini ada wujud manusia seperti ini sekarang. Aku ragu-ragu lah, tak tahu lah, takkanlah jahil sangat kot. Mungkin tak ada kan? Mungkin tak ada kot. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena pergi reply, kan.
 
 **Speaker 2:** Okey baik, macam-macam. Tapi dia berjaya lah sampai masuk dalam Beria.
 
-**Rafizi Ramli:** Dalam YBM, orang sebodoh ini hopefully tak ada — lebih baik tak ada. Tapi kalau nak buat — kalau nak buat apa aku nak buat, "Lelaki aku bertaruh dengan kawan-kawan dia, kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga." Ya Allah.
+**Rafizi:** Dalam YBM, orang sebodoh ini hopefully tak ada — lebih baik tak ada. Tapi kalau nak buat — kalau nak buat apa aku nak buat, "Lelaki aku bertaruh dengan kawan-kawan dia, kalau Argentina kalah dengan Spain, dia ceraikan aku talak tiga." Ya Allah.
 
 **Speaker 2:** Baik-baik kita.
 
-**Rafizi Ramli:** So nanti je aku cuba fikir yang Beria ni — itu kalau dia betting, kan? Dia betting. Dia betting ni mestilah ada, kalau kalah kena buat apa, kalau menang. Kalau Argentina kalah, kena cerai talak tiga; kalau Argentina menang, dia tak terpakai lah. So betting apa bodohnya macam itu tu, dia tak dapat apa? Kecuali memang dia nak ceraikan isteri dia telah tiga kot.
+**Rafizi:** So nanti je aku cuba fikir yang Beria ni — itu kalau dia betting, kan? Dia betting. Dia betting ni mestilah ada, kalau kalah kena buat apa, kalau menang. Kalau Argentina kalah, kena cerai talak tiga; kalau Argentina menang, dia tak terpakai lah. So betting apa bodohnya macam itu tu, dia tak dapat apa? Kecuali memang dia nak ceraikan isteri dia telah tiga kot.
 
 **Speaker 2:** Macam YB punya analisis. Betul tak?
 
-**Rafizi Ramli:** Dia bagi reason je tu — entah-entah dia bagi reason, tak, dia memang nak cerai talak 3. Sebab kalau betting mestilah — so maksudnya kecualilah kawan dia tu, kalau Argentina menang, maksudnya kawan dia tu kalah, kawan dia pula kena serahkan talak 3. Hmm. Kita tak ada full picture, tak tercapai akal kita untuk benda-benda bodoh macam ini.
+**Rafizi:** Dia bagi reason je tu — entah-entah dia bagi reason, tak, dia memang nak cerai talak 3. Sebab kalau betting mestilah — so maksudnya kecualilah kawan dia tu, kalau Argentina menang, maksudnya kawan dia tu kalah, kawan dia pula kena serahkan talak 3. Hmm. Kita tak ada full picture, tak tercapai akal kita untuk benda-benda bodoh macam ini.
 
 **Speaker 2:** Harap tak berlaku lah. Okay YB, itu orang awam. Ini Barisan Nasional pula. Okay — manifesto pekerjaan mereka dah ditunaikan lah, dengan melantik Timbalan Exco di negeri Johor. Dia tak beritahu pun kalau waktu kempen kita tak dengar, sekarang baru kita tahu.
 
-**Rafizi Ramli:** Well, itu kehendak pengundi-pengundi Johor. Hadap lah korang.
+**Rafizi:** Well, itu kehendak pengundi-pengundi Johor. Hadap lah korang.
 
 **Speaker 2:** Pedas sikit, weh.
 
-**Rafizi Ramli:** Ya kan. Hmm. Tapi ya lah, kita dah kempen dan itu usaha kita lah untuk memberi pencerahan kepada rakyat biasa, kan. Kita dah cakap daripada awal, parti-parti seperti UMNO, BN ni — dia bila dia menang, dia tak fikir pun pasal rakyat semua, sebab dia ada pandangan bangsawan dan perangai bangsawan. Mereka menganggap itu adalah hak mereka untuk mendapat habuan, mendapat jawatan untuk memimpin — itu adalah hak mereka, kan. Jadi masa kempen tu, dia pergi tunjuk kat rakyat. Sebab parti yang dah 70 tahun, yang dah berkuasa 60 tahun lebih, kan. Tapi kalaupun, janganlah beria-ia nak tunjukkan perangai bangsawan tu — tak sampai ni, lebih kurang seminggu, kan. Sebab rakyat biasa mungkin — "biar bagus lah YB saya jadi Timbalan Exco." Bagai lah, dia tak sedar Timbalan Exco ni bila diwujudkan jawatan, maka mesti dapat allowance dan gaji, mesti kena sediakan pejabat untuk dia, mestilah juga ada pegawai-pegawai dia yang perlu dilantik, mesti ada peruntukan istimewa. Jadi mesti ada allowance-allowance dan sebagainya. Kereta rasmi, kereta rasmi semua, kan.
+**Rafizi:** Ya kan. Hmm. Tapi ya lah, kita dah kempen dan itu usaha kita lah untuk memberi pencerahan kepada rakyat biasa, kan. Kita dah cakap daripada awal, parti-parti seperti UMNO, BN ni — dia bila dia menang, dia tak fikir pun pasal rakyat semua, sebab dia ada pandangan bangsawan dan perangai bangsawan. Mereka menganggap itu adalah hak mereka untuk mendapat habuan, mendapat jawatan untuk memimpin — itu adalah hak mereka, kan. Jadi masa kempen tu, dia pergi tunjuk kat rakyat. Sebab parti yang dah 70 tahun, yang dah berkuasa 60 tahun lebih, kan. Tapi kalaupun, janganlah beria-ia nak tunjukkan perangai bangsawan tu — tak sampai ni, lebih kurang seminggu, kan. Sebab rakyat biasa mungkin — "biar bagus lah YB saya jadi Timbalan Exco." Bagai lah, dia tak sedar Timbalan Exco ni bila diwujudkan jawatan, maka mesti dapat allowance dan gaji, mesti kena sediakan pejabat untuk dia, mestilah juga ada pegawai-pegawai dia yang perlu dilantik, mesti ada peruntukan istimewa. Jadi mesti ada allowance-allowance dan sebagainya. Kereta rasmi, kereta rasmi semua, kan.
 
 Jadi ditambah berapa ni? 10?
 
 **Speaker 2:** 10.
 
-**Rafizi Ramli:** Tambah 10 dengan Exco sedia ada pun lebih kurang 10, kan. Jadi hampir separuh daripada wakil rakyat BN itu, selain daripada gaji ADUN mereka, tambah lagi gaji allowance baru ini. Tambah lah, saya ingat berapa — katakanlah setiap seorang, saya tak tahu dapat berapa, mungkin tambahan RM7,000–RM8,000 sebulan. So RM80,000 sebulan, campur dengan allowance semua, campur dengan peruntukan istimewa, busuk-busuk pun RM150,000 sebulan. So eh, lebih kalau seorang RM6,000, RM7,000, RM10,000 — katakanlah gaji campur allowance tujuh, katakanlah campur pegawai, campur dengan peruntukan semua, mungkin 30 ribu sebulan, 300 ribu sebulan. Jadi setahun dah kena lah 4 juta. 4 juta tu kalau diberikan kepada orang kampung, kalau bagi RM200 satu keluarga pun dah dapat banyak lagi, kan. Tapi malangnya orang kita tidak ambil peduli benda-benda macam ni, kan. Jadi tak apalah, tunggu pilihan raya negeri yang akan datang lah, undilah lagi.
+**Rafizi:** Tambah 10 dengan Exco sedia ada pun lebih kurang 10, kan. Jadi hampir separuh daripada wakil rakyat BN itu, selain daripada gaji ADUN mereka, tambah lagi gaji allowance baru ini. Tambah lah, saya ingat berapa — katakanlah setiap seorang, saya tak tahu dapat berapa, mungkin tambahan RM7,000–RM8,000 sebulan. So RM80,000 sebulan, campur dengan allowance semua, campur dengan peruntukan istimewa, busuk-busuk pun RM150,000 sebulan. So eh, lebih kalau seorang RM6,000, RM7,000, RM10,000 — katakanlah gaji campur allowance tujuh, katakanlah campur pegawai, campur dengan peruntukan semua, mungkin 30 ribu sebulan, 300 ribu sebulan. Jadi setahun dah kena lah 4 juta. 4 juta tu kalau diberikan kepada orang kampung, kalau bagi RM200 satu keluarga pun dah dapat banyak lagi, kan. Tapi malangnya orang kita tidak ambil peduli benda-benda macam ni, kan. Jadi tak apalah, tunggu pilihan raya negeri yang akan datang lah, undilah lagi.
 
 Cuma satu lagi juga yang saya rasa orang ramai mungkin kurang arif ialah — saya tak rasa dalam perlembagaan ada jawatan-jawatan ini. Contohnya kan, di peringkat persekutuan kan, perlembagaan yang ada hanyalah untuk jawatan Perdana Menteri dan menteri-menteri. Jadi contohnya Timbalan Menteri, hatta Timbalan Perdana Menteri sendiri, sebenarnya tidak ada sebarang punca kuasa di sisi undang-undang. Timbalan Menteri dia tak ada kuasa, dia tak boleh nak arahkan apa-apa, pada pasu bunga lah — kecuali dia dapat menteri yang bagi ruang kepada dia dan bagi tugasan-tugasan kepada dia untuk dia buat. Tapi itu pun dia tidak ada punca kuasa di atas kertas. Samalah juga yang di peringkat negeri saya ingat — saya tak rasa undang-undang tubuh ni ada secara khusus jawatan Timbalan Exco ke apa semua, kan. Jadi semua ini akhirnya pergi kepada ahli-ahli politik yang dapat jawatan yang tidak ada punca kuasa dan oleh itu tidak ada pertanggungjawaban. Jadi mereka lah yang seronok.
 
 **Speaker 2:** Dan saya rasa Johor ni okey lah, kalau kita tengok Melaka pun ada juga — 10 Exco, 10 Timbalan Exco. Ini maksudnya eksekutif lebih ramai daripada...
 
-**Rafizi Ramli:** Daripada badminton — keseluruhan. Keseluruhan pun. Bagus, lepas tu kutip cukai lagi, kutip cukai lagi. Jadi Beria — yang ini memang Beria sebab tak sabar-sabar. Tapi nak buat macam mana, dia nak kena umumkan konon kabinet negeri kan, jadi tak boleh lama-lama, kena umum terus. Inilah hadiah atas kemenangan besar UMNO Barisan Nasional di Johor. Tapi hadiahnya bukan kepada rakyat, hadiahnya kepada sesama mereka. Tahniah, peluang pekerjaan — peluang pekerjaan memang tiba-tiba dinaikkan satu kali ganda, dan bergaji tinggi, lebih RM4,000. Sebab itu janji dia — manifesto untuk 10 orang dah diselesaikan, manifesto untuk 10 orang telah pun dilaksanakan.
+**Rafizi:** Daripada badminton — keseluruhan. Keseluruhan pun. Bagus, lepas tu kutip cukai lagi, kutip cukai lagi. Jadi Beria — yang ini memang Beria sebab tak sabar-sabar. Tapi nak buat macam mana, dia nak kena umumkan konon kabinet negeri kan, jadi tak boleh lama-lama, kena umum terus. Inilah hadiah atas kemenangan besar UMNO Barisan Nasional di Johor. Tapi hadiahnya bukan kepada rakyat, hadiahnya kepada sesama mereka. Tahniah, peluang pekerjaan — peluang pekerjaan memang tiba-tiba dinaikkan satu kali ganda, dan bergaji tinggi, lebih RM4,000. Sebab itu janji dia — manifesto untuk 10 orang dah diselesaikan, manifesto untuk 10 orang telah pun dilaksanakan.
 
 **Speaker 2:** Okey, baik. Itu pemimpin, ini mungkin pengundi — show off duit minyak. Ini PRN Johor, itulah 2 minggu lepas lah kan. Cuma dekat Pak Ni, Negeri Sembilan ada lagi lah mungkin, dekat Trads. Tapi bila ditegur, agak melenting jugalah — kata ini memang duit minyak kami. Dia tak tanya pun undi apalah sebagainya. Jadi nampak macam dinormalisasikan sedikit sebanyak lah.
 
-**Rafizi Ramli:** Sebab itu politik ni, saya ingat, ialah satu proses yang berpanjangan, sebab politik ini sepatutnya ialah proses pencerahan. Kita nak mencerdikkan orang ramai dan kita nak menghentikan amalan-amalan yang walaupun gaya selesa, tapi sebenarnya itu tidak baik untuk masyarakat. Ini salah satunya lah, sebab mereka yang menerima dia sukalah — dia kata dia tak pernah bertanya. Saya ingat sebenarnya, dari mana dia orang dapat duit ni? Kalau dia bagi saya RM200 untuk saya balik tu daripada Penang ke Kota Tinggi tu, kan — Puan Nur Sofia Izatul Ain, cantik jugak itu kan, dengan bunga-bunga dia semua tu kan — memanglah yang menerima itu, dia mungkin rasa itu hak saya lah, dia dah nak bagi. Saya ingat kat kampung dulu, bila orang duduk tabur duit, kan — adalah, saya membesar dengan jawapan-jawapan orang di kampung macam tu — "dia dah nak bagi, kalau dia tak bagi pun, bagus lah dia bagi."
+**Rafizi:** Sebab itu politik ni, saya ingat, ialah satu proses yang berpanjangan, sebab politik ini sepatutnya ialah proses pencerahan. Kita nak mencerdikkan orang ramai dan kita nak menghentikan amalan-amalan yang walaupun gaya selesa, tapi sebenarnya itu tidak baik untuk masyarakat. Ini salah satunya lah, sebab mereka yang menerima dia sukalah — dia kata dia tak pernah bertanya. Saya ingat sebenarnya, dari mana dia orang dapat duit ni? Kalau dia bagi saya RM200 untuk saya balik tu daripada Penang ke Kota Tinggi tu, kan — Puan Nur Sofia Izatul Ain, cantik jugak itu kan, dengan bunga-bunga dia semua tu kan — memanglah yang menerima itu, dia mungkin rasa itu hak saya lah, dia dah nak bagi. Saya ingat kat kampung dulu, bila orang duduk tabur duit, kan — adalah, saya membesar dengan jawapan-jawapan orang di kampung macam tu — "dia dah nak bagi, kalau dia tak bagi pun, bagus lah dia bagi."
 
 Haa, dia tidak tahu, satu, dia kena tanya tentang sebenarnya dari mana duit itu datang, sebab ahli politik tak ada duit sebanyak itu. Jadi duit itu mesti datang daripada sumber yang dipersoalkan — dia tak boleh pakai duit kerajaan kerana duit kerajaan memang terbongkar, memang masuk penjara. Jadi duit itu duit bawah meja. Duit bawah meja itu, besar kemungkinan, duit rasuah. Jadi kalau kita waraskan — dan ini satu perkembangan, proses yang akan berterusan dalam masyarakat kita lah — akan ada orang yang merasakan "asal saya dapat, saya peduli apa dia ambil mana duit, rasuah bukan kena mengenai aku pun." Tapi dia tak sedar bahawa sebab itulah bila rasuah itu berakar, maka dia juga yang komplain — "oh kenapa tol mahal, kenapa yang itu" — kepada segala-galanya yang kerajaan belanja lah. Yang projek patut jadi RM100 juta, dia jadi RM120 juta, sebab dia nak cover yang itu, kan.
 
@@ -189,27 +190,27 @@ Dan lapisan, kalau kita nak kira, mengupas benda ini secara moral untuk yang leb
 
 **Speaker 2:** Mengambil hak orang?
 
-**Rafizi Ramli:** Yalah, kalau kita menerima rasuah, dia mengambil hak orang, kerana duit itu dicuri, duit itu sepatutnya pergi kepada orang lain yang lebih berhak. Jadi kalau tanya saya, mengundi itu memang tanggungjawab kita. Dan kita perlu faham bahawa kalau kita tak mengundi, dan pemimpin ataupun kerajaan yang dipilih itu melakukan sesuatu yang kita tak suka, memang nasib kita, salah kita. Jadi tanggungjawab setiap rakyat untuk mengundi, dapat memilih kerajaan yang betul-betul berkhidmat atas kepentingan kita, bukannya yang bagi duit kat kita. Kalau macam ini, then tak payah ada parti politik lah — bagi orang terkaya semua lah untuk jadi ahli politik, dia tabur duit, dia menang. Tapi memang betul lah, kalau tengok ni beria-ia — saya tak faham yang dia orang share ni kenapa dia memang tak rasa salah ke apa. "Undi di Batu Pahat, duduk JB, undi di Batu Pahat, dapat RM50, guys." Wah. Yelah, katanya —
+**Rafizi:** Yalah, kalau kita menerima rasuah, dia mengambil hak orang, kerana duit itu dicuri, duit itu sepatutnya pergi kepada orang lain yang lebih berhak. Jadi kalau tanya saya, mengundi itu memang tanggungjawab kita. Dan kita perlu faham bahawa kalau kita tak mengundi, dan pemimpin ataupun kerajaan yang dipilih itu melakukan sesuatu yang kita tak suka, memang nasib kita, salah kita. Jadi tanggungjawab setiap rakyat untuk mengundi, dapat memilih kerajaan yang betul-betul berkhidmat atas kepentingan kita, bukannya yang bagi duit kat kita. Kalau macam ini, then tak payah ada parti politik lah — bagi orang terkaya semua lah untuk jadi ahli politik, dia tabur duit, dia menang. Tapi memang betul lah, kalau tengok ni beria-ia — saya tak faham yang dia orang share ni kenapa dia memang tak rasa salah ke apa. "Undi di Batu Pahat, duduk JB, undi di Batu Pahat, dapat RM50, guys." Wah. Yelah, katanya —
 
 **Speaker 2:** Yang bagi tu tak tanya pun undi siapa, asalkan yelah datang tuntut dekat pusat parti tu sahaja dah cukup. Macam tu lah, dia rasa itu memang hak dia lah.
 
-**Speaker 3:** Tapi selalunya benda ni memang you kena pergi tu specific party lah.
+**Farhan (Pa'an):** Tapi selalunya benda ni memang you kena pergi tu specific party lah.
 
 **Speaker 2:** Ya, ya, betul, betul. Ha ha ha.
 
-**Rafizi Ramli:** Tapi dia agak biasa, saya pernah sebut kan — memang ada orang datang pada hari mengundi, dengan saya sendiri, saya kebetulan ada di pusat kempen tu, ada orang wanita datang, kata, "saya nak mengundi ni, duit minyak ada bagi tak?" Tak ada. Confirm aku tak dapat undi itulah, kan. Tapi memang dia budaya.
+**Rafizi:** Tapi dia agak biasa, saya pernah sebut kan — memang ada orang datang pada hari mengundi, dengan saya sendiri, saya kebetulan ada di pusat kempen tu, ada orang wanita datang, kata, "saya nak mengundi ni, duit minyak ada bagi tak?" Tak ada. Confirm aku tak dapat undi itulah, kan. Tapi memang dia budaya.
 
-**Speaker 3:** How do we get rid of this budaya ni?
+**Farhan (Pa'an):** How do we get rid of this budaya ni?
 
-**Rafizi Ramli:** Sebab itu kalau kekecewaan saya mengenai SPRM, mengenai Datuk Seri Anwar sebelum ini, ialah sebab itu budaya wang di kalangan ahli politik ini mesti diperangi, sekeras-kerasnya, kerana itulah punca dia. Kalau tak ada orang bagi, dan tak adalah benda ni.
+**Rafizi:** Sebab itu kalau kekecewaan saya mengenai SPRM, mengenai Datuk Seri Anwar sebelum ini, ialah sebab itu budaya wang di kalangan ahli politik ini mesti diperangi, sekeras-kerasnya, kerana itulah punca dia. Kalau tak ada orang bagi, dan tak adalah benda ni.
 
 **Speaker 2:** Betul juga.
 
-**Rafizi Ramli:** Dia bermula dengan orang bagi, dan orang bagi tu ialah kerana kita tutup sebelah mata — rasuah tak rasuah ni, ada je alasan kita. Kalau yang itu kita pergi kejar, yang ini kalau kawan kita, tak apa. Alasannya ialah, "oh, parti politik memang perlukan duit." Tapi kalau perlukan duit itu contoh bayar sewa, ataupun bila turun ke bawah sewa dewan ataupun ada makan-makan sikit, saya faham lah. Tapi bentuk yang macam itu tidak memerlukan ratu-ratu juta — dia mahal jadi ratu-ratu juta ni ialah kerana dia tabur duit macam ni lah, kalau seorang kena bagi RM200, bayar setiap kepala, kan. Dan kita semua tahu parti-parti utama di Malaysia semua buat. Bukti dah ada, siap ada tu, kalau dalam pilihan raya umum yang lepas, siap angkat — apa dia panggil, "angkat baik lah, wallahi saya undi tu." Wallahi semua kan, dan dia boleh gelak-gelak, senyum-senyum. "Wallahi saya akan undi tu" semua kan. Dia mungkin kata, "ikut suka saya lah saya nak undi siapa." Tapi itu dua soalan yang dia tak tanya lah, iaitu dari mana datang duit ni. Kalau dia tanya soalan itu, dia tahu ini duit bawah meja, duit rasuah ni. Dan soalan seterusnya, apa hukumnya aku makan duit rasuah, kerana dia mengambil hak orang lain, kan. Tapi kita je lah dalam podcast ni bising-bising, orang lain tak peduli pun lah.
+**Rafizi:** Dia bermula dengan orang bagi, dan orang bagi tu ialah kerana kita tutup sebelah mata — rasuah tak rasuah ni, ada je alasan kita. Kalau yang itu kita pergi kejar, yang ini kalau kawan kita, tak apa. Alasannya ialah, "oh, parti politik memang perlukan duit." Tapi kalau perlukan duit itu contoh bayar sewa, ataupun bila turun ke bawah sewa dewan ataupun ada makan-makan sikit, saya faham lah. Tapi bentuk yang macam itu tidak memerlukan ratu-ratu juta — dia mahal jadi ratu-ratu juta ni ialah kerana dia tabur duit macam ni lah, kalau seorang kena bagi RM200, bayar setiap kepala, kan. Dan kita semua tahu parti-parti utama di Malaysia semua buat. Bukti dah ada, siap ada tu, kalau dalam pilihan raya umum yang lepas, siap angkat — apa dia panggil, "angkat baik lah, wallahi saya undi tu." Wallahi semua kan, dan dia boleh gelak-gelak, senyum-senyum. "Wallahi saya akan undi tu" semua kan. Dia mungkin kata, "ikut suka saya lah saya nak undi siapa." Tapi itu dua soalan yang dia tak tanya lah, iaitu dari mana datang duit ni. Kalau dia tanya soalan itu, dia tahu ini duit bawah meja, duit rasuah ni. Dan soalan seterusnya, apa hukumnya aku makan duit rasuah, kerana dia mengambil hak orang lain, kan. Tapi kita je lah dalam podcast ni bising-bising, orang lain tak peduli pun lah.
 
 **Speaker 2:** Jadi sebab itu, kalau Pa'an tanya, macam mana kita nak menghentikan semua ni, kan? Soalnya sama, boleh menghentikan atau tidak amalan ini —
 
-**Rafizi Ramli:** Itu bukan di tangan kita.
+**Rafizi:** Itu bukan di tangan kita.
 
 **Speaker 2:** Hmm.
 
@@ -259,7 +260,7 @@ Dan lapisan, kalau kita nak kira, mengupas benda ini secara moral untuk yang leb
 
 **Speaker 1:** Haa, dia tak ada kat sini. Kenyataan — oh korang tak jumpa dia punya, kenapa dia tak ada visual dia. Visual tak sempat masuk kan? Haa, tak apalah, kita terus ke yang "hidup ni keras" lah kot.
 
-**Speaker 3:** Workout dah habis, team kita kalah, so tak apalah.
+**Farhan (Pa'an):** Workout dah habis, team kita kalah, so tak apalah.
 
 **Speaker 2:** Yang dikata ni, Malaysia jadi tuan rumah World Cup.
 
@@ -269,11 +270,11 @@ Dan lapisan, kalau kita nak kira, mengupas benda ini secara moral untuk yang leb
 
 **Speaker 1:** Mereka semua masuk gua sekejap selepas PRN Johor kan, kita yang terus berpodcast walaupun hilang deposit.
 
-**Speaker 3:** Dan ada juga beberapa kenyataan daripada AMK yang mengulang, ha, Angkatan Muda Keadilan kan, banyak mengulas pasal Rafizi dan bersama. Tapi...
+**Farhan (Pa'an):** Dan ada juga beberapa kenyataan daripada AMK yang mengulang, ha, Angkatan Muda Keadilan kan, banyak mengulas pasal Rafizi dan bersama. Tapi...
 
 **Speaker 2:** Dia ulang pun ni...
 
-**Speaker 3:** Sama lah, boring, so kami tak nak masukkan.
+**Farhan (Pa'an):** Sama lah, boring, so kami tak nak masukkan.
 
 **Speaker 1:** Kalau kita masukkan, dia jadilah membuat cakap-cakap kita beria. Why? Itu akan meletakkan kita di sama taraf dengan penganalisa-penganalisa politik daripada pensyarah-pensyarah dekat universiti-universiti di utara Malaysia pasal kenyataan AMK semuanya kan. Jadi jangan rendahkan taraf kita, kepentingan itu. Tapi kalau kena pilih satu...
 
@@ -311,7 +312,7 @@ Dan lapisan, kalau kita nak kira, mengupas benda ini secara moral untuk yang leb
 
 **Speaker 2:** Usually lah, syarikat-syarikat yang saya faham lah, ada konsep yang based on tech biasanya. Tak semestinya, cuma observation sekarang banyaknya macam itulah, dari laporan ni kan. Dan macam E-fishery ni, dia buat aquaculture — alamak, aqua...
 
-**Speaker 3:** Aquaculture.
+**Farhan (Pa'an):** Aquaculture.
 
 **Speaker 2:** Dia menarik juga, sebab dia dapati problem statement dia apa ni — pembaziran 70% pembaziran kepada penternak-penternak udang dan ikan, adalah daripada makanan. Jadi kalau lah kita boleh track guna sensor berapa sebenarnya banyak makanan yang diperlukan, kita boleh menjimatkan dengan perniagaan tu dengan banyak lah. Jadi konsep asal E-fishery ni, ini macam modern farming lah kan.
 
@@ -341,7 +342,7 @@ Of course, you wish that kebanyakan startup ni jadi macam Google lah, because Go
 
 **Speaker 1:** Dia kena cari orang yang mana risk appetite — maksudnya risk appetite dalam bahasa Melayu ni apa dia — haa, tahap risiko lah senang kan. Appetite ni selera — daya tahan risiko. Takkanlah selera risiko dia kan, daya tahan risiko dia lah, sangat tinggi. Maksudnya kalau dia bagi RM100,000, dia sedia maklum bahawa 99% RM100,000 dia itu akan hancur, sebab dia bagi kat budak — "I like the idea," budak ni nampak macam dia tak pernah ada apa-apa track record, tapi nampak macam dia betul-betul nak buat. Macam Airbnb dululah — kan, adakah idea nak lawan hotel, kita sewakan bilik kita, semua rumah kita boleh jadi hotel kan? Kau bayangkan bila dua orang founder pergi jumpa dengan beberapa VC pertama, most people takkan yakin kan? So VC ataupun Venture Capital Firm adalah firma-firma yang dia ambil kumpul duit daripada orang-orang ini yang kata, "you letak duit dalam fund saya, saya nak raise dulu 100 juta, so you letak dalam ini, 5 tahun nanti bila kita dah selesai 5 tahun dan kita tutup fund ini, you akan dapat return 20%." Jadi anda melabur untuk kewangan — tidak, anda melabur dalam dana. Sebab itu kena ada firm, nama dia VC firm, kerana orang yang bagi duit ini bukan dia yang pergi cari semua company ini — it's this VC firm.
 
-**Speaker 3:** Oh, this is people yang invest dalam VC?
+**Farhan (Pa'an):** Oh, this is people yang invest dalam VC?
 
 **Speaker 1:** Ya, ya, ya, VC firm bukan duit dia.
 
@@ -371,11 +372,11 @@ So Kuap ni mula melabur dalam e-Fishery ni tahun Julai 2023 — itu pun untuk Se
 
 So, tapi kembali kepada Gibran ni, dan kembali kepada perbincangan awal kita tadi mengenai startup — kenapa dia kena scale up, kenapa dia kena bunuh semua, fundraising lah kan. So apa sebenarnya yang berlaku sehingga e-Fishery ni jadi macam ini? Gibran buat satu confession dalam Bloomberg punya interview — itu dah berlaku lama dah, itu dah after talks events lah.
 
-**Speaker 3:** Oh, ok — mereka memasak buku-buku? They quote the books, maksudnya, inflated their figures untuk nampak attractive kepada pelabur?
+**Farhan (Pa'an):** Oh, ok — mereka memasak buku-buku? They quote the books, maksudnya, inflated their figures untuk nampak attractive kepada pelabur?
 
 **Speaker 2:** Basically that's it.
 
-**Rafizi Ramli:** Betul, tetapi tidak sepenuhnya benar lah kan. Yang berlaku begini — cash flow issue. Satu set ialah yang dia simpan sesama diorang. Yang itu menunjukkan prestasi yang sebenarnya lah. Contohnya kan, I think dia claim ada 400 ribu orang yang dah beli dan menggunakan dia punya e-fishery ni. Angka sebenar, I think 24 ribu lah. 24 ribu. So, yang 24 ribu tu ada dalam buku akaun sebenar dia. Yang itu pasal gaji, pasal berapa rugi, semua-semua tu. Semua itu dia tahu. Sebab itu is a fraud. Itu yang Anwar kata — diperdaya tu kan. So dia ada buku itu kan, tapi by 2018 — and that's on in and about masa global — 500 Global tu mula masuk tau, yang fund Malaysia indirectly terlibat lah kan di dalam officiary. I think by 2018 tu, if I'm not mistaken lah daripada laporan-laporan media semua kan, dan saya mengikuti dengan agak rapat lah — aku startup founder, aku menarik lah kan — I think diorang they were already running out of cash. Sebab ingatkan tadi, startup ni dia kena burn cash untuk dia bunuh orang yang scale up kan. By 2018 tu they were running out of cash already lah, berlaku ada dua set buku akaun ni. So yang set yang betul, yang memang rugi, yang RM24,000 sahaja, dia tak boleh grow, itu dia simpan untuk sama-sama diorang. Tapi yang dilaporkan secara rasmi kepada pelabur semua, dia mula buat satu set buku akaun yang baru lah. Dan macam mana dia menipu? Dia buat Shell Company.
+**Rafizi:** Betul, tetapi tidak sepenuhnya benar lah kan. Yang berlaku begini — cash flow issue. Satu set ialah yang dia simpan sesama diorang. Yang itu menunjukkan prestasi yang sebenarnya lah. Contohnya kan, I think dia claim ada 400 ribu orang yang dah beli dan menggunakan dia punya e-fishery ni. Angka sebenar, I think 24 ribu lah. 24 ribu. So, yang 24 ribu tu ada dalam buku akaun sebenar dia. Yang itu pasal gaji, pasal berapa rugi, semua-semua tu. Semua itu dia tahu. Sebab itu is a fraud. Itu yang Anwar kata — diperdaya tu kan. So dia ada buku itu kan, tapi by 2018 — and that's on in and about masa global — 500 Global tu mula masuk tau, yang fund Malaysia indirectly terlibat lah kan di dalam officiary. I think by 2018 tu, if I'm not mistaken lah daripada laporan-laporan media semua kan, dan saya mengikuti dengan agak rapat lah — aku startup founder, aku menarik lah kan — I think diorang they were already running out of cash. Sebab ingatkan tadi, startup ni dia kena burn cash untuk dia bunuh orang yang scale up kan. By 2018 tu they were running out of cash already lah, berlaku ada dua set buku akaun ni. So yang set yang betul, yang memang rugi, yang RM24,000 sahaja, dia tak boleh grow, itu dia simpan untuk sama-sama diorang. Tapi yang dilaporkan secara rasmi kepada pelabur semua, dia mula buat satu set buku akaun yang baru lah. Dan macam mana dia menipu? Dia buat Shell Company.
 
 Dan ini tak banyak beza dengan apa yang kita pernah lalui di Malaysia sendiri — pasal Serba Dinamik. Itu pun aku tak faham orang kita ni. Orang kita yang 200 juta kuab ni, dia punya bising satu dunia tau sekarang lah semua. Bukan, not that I'm defending Anwar Ibrahim ke ataupun kerajaan ke apa, I'm trying to be as objective. Dan saya kurang selesa kalau perkara ini cuba dijadikan mainan politik semata-mata tanpa kita menyelesaikan masalah ini. Kalau tidak, dia akan berulang di masa akan datang.
 
@@ -393,13 +394,13 @@ Itu satu lah, itu di peringkat yang paling atas kan. Peringkat kedua lah, selalu
 
 **Speaker 2:** Kita dari segi publik kena desak kerajaan untuk dedahkan sejauh mana due diligence diambil.
 
-**Rafizi Ramli:** Macam mana kajian audit dah — public bukan paham pun. It's very detailed financial statement semua, dan mesti akan kata ini semua terikat kepada NDA, non-disclosure agreement. Bila you sign semua, semua ada NDA, you tak boleh nak tu. Well, okay — sebelum kita masuk kepada, ini kita dah dekat satu jam cakap benda ni kan, sebelum kita masuk kepada isu yang lebih besar iaitu isu budaya, isu governance semua ni kan.
+**Rafizi:** Macam mana kajian audit dah — public bukan paham pun. It's very detailed financial statement semua, dan mesti akan kata ini semua terikat kepada NDA, non-disclosure agreement. Bila you sign semua, semua ada NDA, you tak boleh nak tu. Well, okay — sebelum kita masuk kepada, ini kita dah dekat satu jam cakap benda ni kan, sebelum kita masuk kepada isu yang lebih besar iaitu isu budaya, isu governance semua ni kan.
 
 Ini kepada kerajaan lah — it's funny lah because aku rasa Tan Sri Azam Baki pun said more or less the same thing that I said. So nampak macam bersetuju dengan Tan Sri Azam Baki. Tapi sebenarnya, kecuali boleh dibuktikan ada criminal element — dan yang itu memang Gibran dah masuk penjara pun, penjara 9 tahun for fraud kan — tapi liabiliti kerana ditipu oleh fraud tu, dia tak ada recourse kepada kerajaan Malaysia sangat daripada e-Fishery. After all, e-Fishery memang dah bungkus, company tu, duit tu dah hilang. Cuma kalau paling hebat pun lah, Kuat mungkin boleh pertimbangkan beberapa perkara. Satu, untuk menyaman auditor — sama macam dalam kes 1MDB dulu lah, KPMG dan Deloitte kena saman, and finally settle out of court lah. KPMG bayar dekat 300 juta juga kan, I think. Ha, dan kerajaan Malaysia, Kuat lah — Kuat boleh cuba saman. Saya tak tahu siapa auditor e-Fishery lah, boleh saman untuk cuba dapatkan sedikit pampasan lah. Masalahnya ialah auditor itu ialah auditor di Indonesia, bukan auditor di sini. Jadi you kena fight in Indonesian courts. Kemudian saya tak rasa lah — peraturan kewangan, financial reporting standard, memanglah dia kena ikut standard antarabangsa, tapi setiap negara tu berbeza-beza. Jadi commercial law dia lain, akta syarikat dia lain, but I'm sure Kuat kena teliti apa yang boleh dia pursue lah. The other one ialah, kalau dia rely on other people's due diligence...
 
-**Speaker 3:** Hmm.
+**Farhan (Pa'an):** Hmm.
 
-**Rafizi Ramli:** So then dia ada dua recourse lah. There must be an internal recourse — kalau due diligence itu tidak dibuat dengan sebaiknya, atau mereka bergantung kepada confirmation ataupun support daripada pelabur-pelabur lain, baik Temasek ke, baik Softbank ke, baik 500 Global ke, North Star ke, semua ni kan — then they have to see lah. Tapi selalunya lah, perjanjian komersial ni dia mesti ada disclaimer — "we are not liable for whatever decision you make based on our report" kan. Tapi kalau ada third party di mana mereka bergantung untuk membuat keputusan pelaburan ini, jadi mereka boleh mengejar commercially lah secara undang-undang, to try to get either to make sure that they are liable for this kan. But beyond that, it's not easy lah, dia memang tu kan.
+**Rafizi:** So then dia ada dua recourse lah. There must be an internal recourse — kalau due diligence itu tidak dibuat dengan sebaiknya, atau mereka bergantung kepada confirmation ataupun support daripada pelabur-pelabur lain, baik Temasek ke, baik Softbank ke, baik 500 Global ke, North Star ke, semua ni kan — then they have to see lah. Tapi selalunya lah, perjanjian komersial ni dia mesti ada disclaimer — "we are not liable for whatever decision you make based on our report" kan. Tapi kalau ada third party di mana mereka bergantung untuk membuat keputusan pelaburan ini, jadi mereka boleh mengejar commercially lah secara undang-undang, to try to get either to make sure that they are liable for this kan. But beyond that, it's not easy lah, dia memang tu kan.
 
 Jadi sebab itu, kita kena kembali kepada soal governance dan budaya yang lebih menyeluruh supaya perkara ini tak berlaku lagi lah kan. Baik — kenapa dia boleh berlaku? Kalaupun contohnya due diligence itu dibuat semua betul, semua gini, tapi in the future akan jadi juga. Kenapa? Kita tak tahu nak pinpoint siapa yang take charge atau accountable dengan benda itu. Sebab budaya kita ni, kita tak ada budaya accountability ni — budaya orang yang mengambil tanggungjawab kan. Kalau benda ni berlaku di Jepun atau di Korea, ataupun mungkin di China kan, dan juga di negara-negara Eropah lah, mesti dah ada orang letak jawatan dah. Kita dah dengar belum ada orang letak jawatan ke belum, daripada Kuab sendiri? Tak ada. Tak ada. So sebab itulah ada desakan supaya Tan Sri Johan Mahmud Marikan sebagai pengerusi Kuat meletakkan jawatan lah kan.
 
@@ -423,9 +424,9 @@ Well, kalau budaya itu tak ada, sampai bila-bila kita akan kembali kepada soal T
 
 **Speaker 1 (Rafizi Ramli):** Tak, itu yang menjadi masalah negara lah kan. Jadi masalah negara kita, bila sampai kepada soal tax semua ni, kita sangat jauh ke belakang. Funding scene kita lah — there's a word for it, it's not funding scene lah, aku pun dah lupa apa dia ni kan. Funding kita ni sangat nipis. Money raised di Malaysia ni most probably one-twentieth or even lower than what is being raised, ataupun maksudnya dana yang ada di Singapura untuk syarikat-syarikat pemula di Singapura ataupun Indonesia ataupun Vietnam — most probably 20-30 kali ganda lagi besar daripada yang ada di Malaysia. Bisnes-bisnes kaya ni, dia duk pergi kejar projek-projek kerajaan je. Dapat satu tender, konsesi, 3 bilion untuk 10 tahun, dia kejar yang itu. Dia tak nak melabur dalam budak muda dengan fikiran "kalau aku bagi 100 ribu, mungkin syarikat dia ni 10 tahun lagi boleh jadi 1 bilion." So, "okay I give you a check" — dia tak sama macam cerita-cerita kita tengok di US, how Google started, how Mark Zuckerberg started, sebab Mark Zuckerberg tu antara earliest funder dia lah daripada PayPal Mafia ni — write a cheque sahaja.
 
-**Speaker 3:** But... bukan dia terkait juga dengan risk appetite Malaysia? Because Malaysians technically dia — I don't know, budaya wise kita kurang kot.
+**Farhan (Pa'an):** But... bukan dia terkait juga dengan risk appetite Malaysia? Because Malaysians technically dia — I don't know, budaya wise kita kurang kot.
 
-**Rafizi Ramli:** Ya, itu yang kita selalu kata structural problem in our economy. Because contohnya lah dekat Malaysia kan, syarikat-syarikat besar semua JLC, JLC, GLC semua ni — budak-budak yang cerdik, keluar saja sekolah, result bagus, diberikan biasiswa, pergi keluar negara, balik pakai tie, duduk kat menara 118 ke dana tu lah. So di Malaysia budaya kita ialah orang yang kalau nak berjaya you bekerja dengan syarikat yang paling besar dan paling selamat, you tunggulah 20 tahun dapat gaji bagus untuk naik. Itu kan. Sebab itu tak ada innovation, sebab tak ada competition. Because our economy is dominated by the large companies, selalunya MNCs ataupun the JLC, dan orang merebut nak dapat kerja tu. Whereas in economy macam China, in US, in Europe kan, actually yang banyak juga yang cerdik semua ni, dia tak nak kerja macam itu. Dia akan kata, "okay I rather work on a solution and build my company," dan dia boleh buat begitu kerana funding availability — ada cukup VC, ada cukup engineer semua kan. Jadi kita tak ada semua tau.
+**Rafizi:** Ya, itu yang kita selalu kata structural problem in our economy. Because contohnya lah dekat Malaysia kan, syarikat-syarikat besar semua JLC, JLC, GLC semua ni — budak-budak yang cerdik, keluar saja sekolah, result bagus, diberikan biasiswa, pergi keluar negara, balik pakai tie, duduk kat menara 118 ke dana tu lah. So di Malaysia budaya kita ialah orang yang kalau nak berjaya you bekerja dengan syarikat yang paling besar dan paling selamat, you tunggulah 20 tahun dapat gaji bagus untuk naik. Itu kan. Sebab itu tak ada innovation, sebab tak ada competition. Because our economy is dominated by the large companies, selalunya MNCs ataupun the JLC, dan orang merebut nak dapat kerja tu. Whereas in economy macam China, in US, in Europe kan, actually yang banyak juga yang cerdik semua ni, dia tak nak kerja macam itu. Dia akan kata, "okay I rather work on a solution and build my company," dan dia boleh buat begitu kerana funding availability — ada cukup VC, ada cukup engineer semua kan. Jadi kita tak ada semua tau.
 
 On the one hand, structurally, ekonomi kita, kerajaan sampai sekarang, tidak mahu melonggarkan dominasi syarikat-syarikat besar ini kerana kita tak nak ambil risiko dengan syarikat-syarikat kecil. Dan syarikat-syarikat kecil pula, kalau yang ada pun, dia tahu macam mana aku nak compete — sebab kalau masuk tender pun tak bayar lah, memang confirm tak dapatnya, buang masa aku je, dia dah set sama dia orang — and then it comes to rasuah. When you don't have a clean business environment, kalau soal tender competition ini masih lagi dipengaruhi rasuah, connection semua kan, usah payah kerja ni, makan pun tak menentu for the promise of the future — baik aku kerja Maybank, hebat rasa, gaji RM7,000 sebulan kan, boleh bawa kereta semua. So because of that, dia jadi chicken and egg. Kita sangat ketinggalan berbanding dengan rantau kita ini, berbanding dengan tiga negara utama lah — which is Singapore, Thailand dengan Vietnam.
 
@@ -443,7 +444,7 @@ Jadi kecuali kita berjaya mengubah struktur ekonomi kita supaya persaingan ini d
 
 **Speaker 2:** Saya rasa yang kedua tu tak banyak sangat kan. Tak tahu, sikit lagi — YB dengan syarikat-syarikat yang kecil ni ialah dia bisnes as usual for 10-20 years yang kebelakang. Mungkin YB boleh cerita, jadi kerajaan ada memikirkan transition roadmap ataupun...
 
-**Rafizi Ramli:** Dasar semua GLC ni di bawah kementerian kewangan — jangan pergi dekat aku, kalau panggil Khazanah pun dia tak layan sangat, dia tahu the boss is Prime Minister, dan Amir Hamzah susahlah nak buat apa-apa — "jangan sentuh, kena marah, okay baik-baik." Faham lah. So itu masalah dia kan. Jadi akhirnya dia bisnes asyik juga lah kan.
+**Rafizi:** Dasar semua GLC ni di bawah kementerian kewangan — jangan pergi dekat aku, kalau panggil Khazanah pun dia tak layan sangat, dia tahu the boss is Prime Minister, dan Amir Hamzah susahlah nak buat apa-apa — "jangan sentuh, kena marah, okay baik-baik." Faham lah. So itu masalah dia kan. Jadi akhirnya dia bisnes asyik juga lah kan.
 
 Dan sebab itu yang kita nak — budaya. Sebab itu saya selalu tekankan budaya kuasa, budaya kuasa, budaya kuasa. Kerana orang semua akan melihat kepada Perdana Menteri dengan yang kat atas tu. Kalau Perdana Menteri ataupun yang kanan-kanan semua tu dia nampak longgar bab-bab pertanggungjawaban, bab-bab performance semua ni kan — siapa yang baik dengan dia, sengih dengan dia, dia pun sengih balik, lepas — then you are in trouble.
 
@@ -455,25 +456,25 @@ Jadi maksudnya, e-fishery semua ni, Tabung Haji, network school ni — dia akan 
 
 **Speaker 2:** Okay, baik-baik. Kita —
 
-**Rafizi Ramli:** Satu jam setengah.
+**Rafizi:** Satu jam setengah.
 
 **Speaker 2:** Dua jam lah, keseluruhan. Kita ada baki lagi sejam. Kita tengok yang terakhir — maybe politik sikit, tentang lama mana kerajaan perpaduan akan bertahan. Ini satu lagi. Saya rasa...
 
-**Rafizi Ramli:** Ini pun kesianlah kat PH. Kalau orang buat PH ni nampak macam masih berharap — mana ada dia berharap dah, dia tak berharap. Anwar Ibrahim dah umum akan dedahkan laporan RCI Tabung Haji. Mana tiba-tiba dapat idea? Dia tengok ceramah terhadap CYB? Tak tahulah, tapi orang yang — mungkin pemain. Yang aku dah memang plan dah, masa ceramah dekat Johor tu aku nak bawa cerita RCI Tabung Haji ni kan, so cucuk-cucuk Anwar sikit kan. Aku sure ada orang keliling dia dalam PH tapi kata "betul-betul good idea, good idea." So tiba-tiba out of nowhere, kerajaan sebenarnya sudah meluluskan, sudah bersetuju untuk mendedahkan. So yang ini sebenarnya kita nak bincang tentang lama mana lagi agaknya kerajaan...
+**Rafizi:** Ini pun kesianlah kat PH. Kalau orang buat PH ni nampak macam masih berharap — mana ada dia berharap dah, dia tak berharap. Anwar Ibrahim dah umum akan dedahkan laporan RCI Tabung Haji. Mana tiba-tiba dapat idea? Dia tengok ceramah terhadap CYB? Tak tahulah, tapi orang yang — mungkin pemain. Yang aku dah memang plan dah, masa ceramah dekat Johor tu aku nak bawa cerita RCI Tabung Haji ni kan, so cucuk-cucuk Anwar sikit kan. Aku sure ada orang keliling dia dalam PH tapi kata "betul-betul good idea, good idea." So tiba-tiba out of nowhere, kerajaan sebenarnya sudah meluluskan, sudah bersetuju untuk mendedahkan. So yang ini sebenarnya kita nak bincang tentang lama mana lagi agaknya kerajaan...
 
 **Speaker 2:** Bertahan. Dan mungkin kita kena observe by beberapa manipulated variables yang ada, untuk buat hipotesis berapa lama dia bertahan. Maksudnya — eh sorry, bunyi saintifik sangat.
 
-**Rafizi Ramli:** Aku pun tak faham.
+**Rafizi:** Aku pun tak faham.
 
 **Speaker 2:** Sorry, sorry. Yelah, ada beberapa pemboleh ubah yang kita tengok untuk kita agak berapa lama dia boleh tahan. Chopper pergi mana dah?
 
-**Speaker 3:** Dia tengah — miaw. Oh —
+**Farhan (Pa'an):** Dia tengah — miaw. Oh —
 
-**Rafizi Ramli:** Okay, alright.
+**Rafizi:** Okay, alright.
 
-**Speaker 3:** Oh dekat apaan — saya tak tahu kenapa, tapi dia memang suka —
+**Farhan (Pa'an):** Oh dekat apaan — saya tak tahu kenapa, tapi dia memang suka —
 
-**Rafizi Ramli:** Tidur atas keyboard saya. Hmm. Ya, langkat yang bagi dia makan — aku bagi arahan supaya dia bagi, dia beri makan je. So chopper cerdik, dia tahu — ini politisyen, dia cakap je, dia tak bagi aku makan. Hmm... Well, okay.
+**Rafizi:** Tidur atas keyboard saya. Hmm. Ya, langkat yang bagi dia makan — aku bagi arahan supaya dia bagi, dia beri makan je. So chopper cerdik, dia tahu — ini politisyen, dia cakap je, dia tak bagi aku makan. Hmm... Well, okay.
 
 So let's take stock kan, sebenarnya apa yang berlaku sekarang kan. Minggu lepas panaslah, sampai cabar-mencabar letak jawatan. Dia bermula, saya ingat, dengan Kamil Munim, Ketua AMK, yang minta supaya menteri-menteri ataupun parti BN ini keluar daripada kerajaan kan. Kemudian dia disambung pula oleh — oleh Ketua Pemuda PH pun ada juga sebut macam itu, Angkatan Muda PH pun ada sebut kan. Cuma yang banyak dipetik itu ialah teguran Perdana Menteri lah, Datuk Seri Anwar — kalau menyerang kerajaan persekutuan, menteri-menteri patut letak jawatan. Jadi maksudnya, mesej dan cabaran letak jawatan itu memang telah dirancang dan disusun di pihak PH, di pihak PM sendiri. The fact that PM kata, dan dia bermula dengan Kamil dulu, kemudian Angkatan Muda PH, kemudian PM sendiri cakap — maksudnya benda itu ialah benda yang tersusun lah, bukannya hulur kepada PM, PM pun tersalah sebut out of emotion. Benda itu tersusun lah, yang kita nak kena establish lah.
 
@@ -485,19 +486,19 @@ Aku dalam semua ini berlaku kan, aku tak terfikir pun soal nak jawab — it's no
 
 Dia ada beberapa keadaan dan dia ada beberapa khabar angin, dan banyak teori politik ni — walaupun yelah, kadang tidak pernah adalah khabar angin yang boleh disahkan di Malaysia, tapi selalunya bila ada khabar angin itu, maksudnya benda itu datang daripada sumber-sumber yang kredibel. Cuma bila disampaikan berlapis-lapis-lapis, versi asal itu lama-lama jadi versi lain. Kalau tengok Datuk Seri Zahid, dia kata hari ini, selepas bertukar-tukar pantun semua kan, dia kata BN akan terus menyokong kerajaan ini sehingga ke pilihan raya umum depan — maksudnya sehingga habis penggal ini lah kan, habis penggal ini maksudnya sehingga dibubarkan lah, sampai pilihan raya umum yang depan. Cuba kau baca, read between the lines — apa maksud tu? Dia betul kat aku cakap kan senang — copa tidur. Ha, between the line eh. Yang terser— yang terserah. What did he say again? Sorry.
 
-**Speaker 3:** Sorry.
+**Farhan (Pa'an):** Sorry.
 
-**Rafizi Ramli:** Dia kata hari — semalam. Semalam. Dia kata kan, dia kata BN akan menyokong kerajaan Madani ini sehingga habis penggal. Dan dia tidak mahu dikaitkan dengan cubaan tebuk atap ataupun langkah Dubai semua lah. Cuba baca in between —
+**Rafizi:** Dia kata hari — semalam. Semalam. Dia kata kan, dia kata BN akan menyokong kerajaan Madani ini sehingga habis penggal. Dan dia tidak mahu dikaitkan dengan cubaan tebuk atap ataupun langkah Dubai semua lah. Cuba baca in between —
 
-**Speaker 3:** So that means... bulan — pula dia nak suruh buat pilihan raya segera. Pilihan raya depan lepas pilihan raya tu. Oh, during pilihan raya tu memang tak — tak berkawan lah.
+**Farhan (Pa'an):** So that means... bulan — pula dia nak suruh buat pilihan raya segera. Pilihan raya depan lepas pilihan raya tu. Oh, during pilihan raya tu memang tak — tak berkawan lah.
 
 **Speaker 2:** No, ok. Penggal kan penggal ini akan tamat bila?
 
-**Rafizi Ramli:** Hujung tahun depan. Itu kalau tak ada apa-apa berlaku lah.
+**Rafizi:** Hujung tahun depan. Itu kalau tak ada apa-apa berlaku lah.
 
 **Speaker 2:** Penggal parlimen ini ditarifkan macam mana? Satu tahun ada tiga kali?
 
-**Rafizi Ramli:** No, no, no, no. Maksudnya satu penggal Dewan Rakyat, satu penggal parlimen ini ditentukan daripada satu pilihan raya ke satu pilihan raya yang akan datang. Bulan 8, betul lah apa yang Zahid kata tu — dia akan menyokong kerajaan ini sampai ke akhir penggal ini. Penggal ini, kita tak ada fixed term parlimen. Kita bukan macam negara-negara sesetengah negara lain yang dia ada fixed term — kalau 5 tahun itu daripada tarikh A ke tarikh B, kita tak ada. Penggal itu ditarifkan ialah bila berlakunya pilihan raya yang akan datang. Terbuka lah kan untuk ditafsirkan, open ended betul. So maksudnya tak salah lah kalau BN merancang dengan PN semua lepas satu pilihan raya negeri ke satu pilihan raya negeri, sebab ia juga adalah soalan perception di kalangan parti-parti politik. Sebab the kingmaker ni ialah Sabah dan Sarawak, GPS dan GRS kan. So kalau GPS dan GRS mengesahkan — selepas satu pilihan raya ke satu pilihan raya dalam siri yang sedang dirancangkan ni — nampaknya BN makin kuat dan makin menang, dan mungkin BN-PN ini akan jadi kerajaan persekutuan, maka mereka mungkin kata, "then okey lah, kita akan mengikut BN-PN lah," because nampak gayanya dah hampir mustahil PH akan kembali jadi kerajaan.
+**Rafizi:** No, no, no, no. Maksudnya satu penggal Dewan Rakyat, satu penggal parlimen ini ditentukan daripada satu pilihan raya ke satu pilihan raya yang akan datang. Bulan 8, betul lah apa yang Zahid kata tu — dia akan menyokong kerajaan ini sampai ke akhir penggal ini. Penggal ini, kita tak ada fixed term parlimen. Kita bukan macam negara-negara sesetengah negara lain yang dia ada fixed term — kalau 5 tahun itu daripada tarikh A ke tarikh B, kita tak ada. Penggal itu ditarifkan ialah bila berlakunya pilihan raya yang akan datang. Terbuka lah kan untuk ditafsirkan, open ended betul. So maksudnya tak salah lah kalau BN merancang dengan PN semua lepas satu pilihan raya negeri ke satu pilihan raya negeri, sebab ia juga adalah soalan perception di kalangan parti-parti politik. Sebab the kingmaker ni ialah Sabah dan Sarawak, GPS dan GRS kan. So kalau GPS dan GRS mengesahkan — selepas satu pilihan raya ke satu pilihan raya dalam siri yang sedang dirancangkan ni — nampaknya BN makin kuat dan makin menang, dan mungkin BN-PN ini akan jadi kerajaan persekutuan, maka mereka mungkin kata, "then okey lah, kita akan mengikut BN-PN lah," because nampak gayanya dah hampir mustahil PH akan kembali jadi kerajaan.
 
 Kalau dia tarik sokongan — soal BN tarik sokongan sekarang ini, dia tidak ada taring sangat kalau GPS, GRS dan yang bebas-bebas semua tak ikut. Masih lagi 1-2 kosong je, tak? 1-5 kosong nak 30 kan? 1-2 kosong. Dan simple majority sekarang, I think 1-1-10. Dekat ke 1-1-1? 1-1-1, tolak 2 orang saya dengan Nik kan, 1-1-1. Masih lagi ada 9 buffer kan. So kecualilah BN dan PN berjaya menunjukkan dan meyakinkan, dan juga menakut-nakutkan GPS dan GRS bahawa mereka akan menang besar dalam PRU akan datang, and it is in your best interest to take side with us now — dia tidak mudahlah untuk BN menarik sokongan semata-mata. Itu satu penerima ni... kemungkinan.
 
@@ -505,11 +506,11 @@ Satu lagi kemungkinan ialah kalau contohnya keputusan di Negeri Sembilan ataupun
 
 **Speaker 2:** Apa kemungkinan ketiga? Kerjasama PAS — kerjasama PN dengan BN tak berapa lancar?
 
-**Rafizi Ramli:** Ya, ada kemungkinan. Sebab satu dua hari kebelakangan ini pun dah nampak tanda-tanda macam kurang selesa, ataupun ada percanggahan yang besar. Bila Dato' Sri Hamzah pandai-pandai pergi umumkan "Perikatan Barisan Nasional." Jadi ada orang-orang BN kata, "Amboi, dia baru ada parti Wawasan sekejap, senang-senang dia pergi letak nama 'Perikatan' kat depan." Nasional Perikatan ke, BNP — paling kurang nama macam bank sikit, BNP Paribas — Barisan Nasional Perikatan. Tapi pandai-pandai dia berkata "Perikatan Barisan Nasional." Jadi naik Presiden UMNO, Menteri Besar pun kurang setuju, setiausaha agung pun kata memang belum ada perbincangan. Jawapan Dato' Sri Zahid tu pun kata ini hanya setakat untuk Negeri Sembilan saja kan. Kemudian Datuk Seri Hamzah pun pergi umumkan apa nama ni, pasal MB.
+**Rafizi:** Ya, ada kemungkinan. Sebab satu dua hari kebelakangan ini pun dah nampak tanda-tanda macam kurang selesa, ataupun ada percanggahan yang besar. Bila Dato' Sri Hamzah pandai-pandai pergi umumkan "Perikatan Barisan Nasional." Jadi ada orang-orang BN kata, "Amboi, dia baru ada parti Wawasan sekejap, senang-senang dia pergi letak nama 'Perikatan' kat depan." Nasional Perikatan ke, BNP — paling kurang nama macam bank sikit, BNP Paribas — Barisan Nasional Perikatan. Tapi pandai-pandai dia berkata "Perikatan Barisan Nasional." Jadi naik Presiden UMNO, Menteri Besar pun kurang setuju, setiausaha agung pun kata memang belum ada perbincangan. Jawapan Dato' Sri Zahid tu pun kata ini hanya setakat untuk Negeri Sembilan saja kan. Kemudian Datuk Seri Hamzah pun pergi umumkan apa nama ni, pasal MB.
 
 **Speaker 2:** Dia umum siapa jadi MB? Jalal — sebab dia ada dekat ceramah Jalal tu, so dia terus umumkan. Dia kata kemungkinan calon untuk MB.
 
-**Rafizi Ramli:** Yang itu dia tak payah umum lah, memang Jalal dah diumumkan bertahun-tahun dah, orang pun tahu dia kata. Lain lah kalau dia umumkan Dato' Sri Jalaluddin selepas ini akan menjadi Timbalan Perdana Menteri — ada lain lah cerita kan. Tapi tanda-tanda ini — maksudnya bukanlah tanda-tanda perkara itu remeh — kerjasama BN dengan PN ni, walaupun di mata penyokong-penyokong mereka semua ni nampak smooth dan cantik kan, di belakang, sesama pimpinan ni, dia tidak akan lancar sebegitulah. Itu belum masuk cerita PAS lagi.
+**Rafizi:** Yang itu dia tak payah umum lah, memang Jalal dah diumumkan bertahun-tahun dah, orang pun tahu dia kata. Lain lah kalau dia umumkan Dato' Sri Jalaluddin selepas ini akan menjadi Timbalan Perdana Menteri — ada lain lah cerita kan. Tapi tanda-tanda ini — maksudnya bukanlah tanda-tanda perkara itu remeh — kerjasama BN dengan PN ni, walaupun di mata penyokong-penyokong mereka semua ni nampak smooth dan cantik kan, di belakang, sesama pimpinan ni, dia tidak akan lancar sebegitulah. Itu belum masuk cerita PAS lagi.
 
 Sebab dia ada beberapa versi. Satu versi mengenai persetujuan tidak rasmi, dia kan macam cerita "Piram Lee" — satu untuk engkau, satu untuk aku, satu untuk engkau, satu untuk aku. Bayangkan ya, Zahid dengan Hadi duk main "satu untuk engkau, satu untuk aku" kan — jadi Johor untuk aku, kan? Negeri Sembilan untuk aku, Melaka untuk aku — okay, tiga kan, okay, Pak kata okay. Sebab Kelantan untuk aku, Terengganu untuk aku, Kedah untuk aku, Perlis untuk aku — okay, tiga, empat, tiga kan, okay lagi. Kemudian mari kat Pahang — naik Presiden dia ni, Zahid nak kata macam mana, "Pahang untuk kau ke, Pahang untuk aku?" Dah susah kan. Kemudian sampai lagi, Selangor — semua berebut Selangor ni, "Selangor ni untuk engkau ke untuk aku ni?" Perak. Itu satu lapis. Lapis yang lagi dalam, kat bawah ni, kan — contohnya pimpinan UMNO Terengganu. Kalau pun di peringkat pimpinan UMNO dan BN dekat atas ni dah bersetuju "satu untuk engkau, satu untuk aku" — Terengganu untuk engkau, PAS kan — eh, yang pimpinan kat bawah tu, "pandai-pandai kau bagi Terengganu dekat PAS, apa maknanya tu? Adakah PAS akan dapat semua? Adakah UMNO hanya bertanding 3 kursi, 5 kursi, 6 kursi? Berapa banyak yang PAS nak bagi?" PAS kata pula, "eh kau jangan cakap banyak, dekat Terengganu 32 kosong, kau kosong, aku nak — aku bagi kau dua kursi je." So tak mudah. Di Kelantan, di Kedah, di Perak kan — jadi jalan ni panjang lagi ni.
 
@@ -517,7 +518,7 @@ Sebab itu, berdasarkan yang ini, besar kemungkinan lah Dato' Sri Anwar akan cuba
 
 **Speaker 2:** YB, ye lah, berceramuk sikit. Berapa dah ni — sambung tentang GPS, GRS kan. Apa untungnya GPS dan GRS ni stay dalam kerajaan perpaduan ini, set off dia ikut sekali BN, sebab memang itu kawan lama diaorang pun?
 
-**Rafizi Ramli:** Hmm. Ye lah, dia bergantung pada GPS dan GRS kan. Saya tak tahulah — saya tak berhubung langsung dengan GPS, dengan GRS, saya pun tak tahu. Saya pun tak pernah bincang, tau, politik dengan parti-parti lain. Itu juga yang saya ingat semua orang politik dalam kerajaan dulu — baik PH atau BN — dia mungkin rasa susah nak masuk dengan round ni. I mean, to be fair, saya mesra dengan semua orang, I think I get along so well with everyone. Aku tak adalah yang aku bergaduh ke apa semua, semua ok. Cuma, I suppose professional culture kita lain kan. Saya tidak membincangkan mengenai politik sebab dengan parti-parti lain atau menteri-menteri lain, kerana bagi saya kerajaan perpaduan yang ada itu ialah hasil daripada keperluan. Dia bukannya suruh kita bergabung. Saya daripada awal tahu bahawa so long as I do my job seperti mana yang diamanahkan, you do your job, kita letak parti kita di luar. Jadi you jangan pakai topi parti bila dalam kerajaan kan. Because of that, saya memang tak bincang langsung dan tak pernah ada any exchange of idea ataupun gerak politik ke strategi politik kan. So saya tak tahulah apa GPS dengan GRS fikirkan.
+**Rafizi:** Hmm. Ye lah, dia bergantung pada GPS dan GRS kan. Saya tak tahulah — saya tak berhubung langsung dengan GPS, dengan GRS, saya pun tak tahu. Saya pun tak pernah bincang, tau, politik dengan parti-parti lain. Itu juga yang saya ingat semua orang politik dalam kerajaan dulu — baik PH atau BN — dia mungkin rasa susah nak masuk dengan round ni. I mean, to be fair, saya mesra dengan semua orang, I think I get along so well with everyone. Aku tak adalah yang aku bergaduh ke apa semua, semua ok. Cuma, I suppose professional culture kita lain kan. Saya tidak membincangkan mengenai politik sebab dengan parti-parti lain atau menteri-menteri lain, kerana bagi saya kerajaan perpaduan yang ada itu ialah hasil daripada keperluan. Dia bukannya suruh kita bergabung. Saya daripada awal tahu bahawa so long as I do my job seperti mana yang diamanahkan, you do your job, kita letak parti kita di luar. Jadi you jangan pakai topi parti bila dalam kerajaan kan. Because of that, saya memang tak bincang langsung dan tak pernah ada any exchange of idea ataupun gerak politik ke strategi politik kan. So saya tak tahulah apa GPS dengan GRS fikirkan.
 
 But — eh, katakanlah kita berada di dalam kedudukan mereka kan. Mula kita ambil Sarawak lah. Sarawak ni dulu adalah baik PBB, kemudian kita ada PRS, kemudian kita ada SPDP, kemudian kita ada SUPP kan. Semua ini adalah gabungan BN Sarawak yang menjadi sebahagian daripada Barisan Nasional dahulu. Mereka meninggalkan BN 2018, selepas Najib kalah. Jadi mereka masih lagi ingat zaman-zaman yang mana UMNO sangat dominant. Hmm. Dan PBB ni terpaksa tunduk kepada UMNO. Oh — dan Ketua Menteri Sarawak dulu ni, walaupun dia berkuasa, tapi dia perlu tunduk kepada Perdana Menteri. Dan Ketua Menteri Sarawak dilayan sama seperti Ketua-Ketua Menteri yang lain. Kadang-kadang itu berbeza di bawah Anwar — Ketua Menteri Sarawak dah ada tempat yang tinggi. Kemudian dia dapat banyak perkara daripada kerajaan di bawah Dato' Sri Anwar, baik dari segi peruntukan, baik dari segi aset-aset persekutuan yang kini diambil alih oleh Sarawak, oleh GPS semua. Dan mereka juga ada wang dari segi state income, pendapatan negeri yang jauh lagi tinggi sekarang berbanding daripada dulu. Dan juga contohnya ialah soal Petros dan juga Petronas, tentang pengurusan hydrocarbon di Sarawak kan.
 
@@ -535,7 +536,7 @@ Jadi kecualilah Dato' Sri Zahid Hamidi kata, "okeylah, saya berkorban untuk UMNO
 
 **Speaker 2:** Do you think it can happen?
 
-**Rafizi Ramli:** Tak semudah itu, laa. Tak semudah itulah. Jadi yang lawaknya ialah penyokong-penyokong kat bawah ni lah — yang BN-PN ni semua dah bertepuk tangan, "akan jatuh kerajaan, kita akan dapat Perdana Menteri baru." Dia tak fikir lagi siapa Perdana Menteri baru tu kan, dia tak tahu nanti Perdana Menteri yang baru tu, dia kena berperang sama diaorang kat atas tu kan. Kemudian yang sebelah PH ni pula lah, semua duk meraung dan meroyan, "Allah, kesian, kalau inilah minggu terakhir Dato' Sri Anwar jadi Perdana Menteri." Ingatlah kita, aku baca-baca dekat thread semua kan, dia sebenarnya tak sedar realiti. Kemudian ada pula yang "DAP jatuh" kan, kena geram-geram kan. Kemudian ada pula, kalau yang bukan Melayu itu yang penyokong tegar DAP, masih lagi memainkan dendangan, "kita tak boleh maafkan sesiapa yang menyebabkan BN-PH naik, PAS naik." Jadi saya rasa drama ini akan berpanjangan, dan kita tengok sejauh mana rakyat boleh telan.
+**Rafizi:** Tak semudah itu, laa. Tak semudah itulah. Jadi yang lawaknya ialah penyokong-penyokong kat bawah ni lah — yang BN-PN ni semua dah bertepuk tangan, "akan jatuh kerajaan, kita akan dapat Perdana Menteri baru." Dia tak fikir lagi siapa Perdana Menteri baru tu kan, dia tak tahu nanti Perdana Menteri yang baru tu, dia kena berperang sama diaorang kat atas tu kan. Kemudian yang sebelah PH ni pula lah, semua duk meraung dan meroyan, "Allah, kesian, kalau inilah minggu terakhir Dato' Sri Anwar jadi Perdana Menteri." Ingatlah kita, aku baca-baca dekat thread semua kan, dia sebenarnya tak sedar realiti. Kemudian ada pula yang "DAP jatuh" kan, kena geram-geram kan. Kemudian ada pula, kalau yang bukan Melayu itu yang penyokong tegar DAP, masih lagi memainkan dendangan, "kita tak boleh maafkan sesiapa yang menyebabkan BN-PH naik, PAS naik." Jadi saya rasa drama ini akan berpanjangan, dan kita tengok sejauh mana rakyat boleh telan.
 
 Kerana bagi saya — saya muda saja — saya berpegang kepada, ya lah, kita membesar dengan ayat Quran kan, Allah tidak mengubah nasib sesuatu kaum itu kecuali kaum itu mengubahnya. Dan kalau kita tengok kepada tradisi sirah pun kan, orang yang bawa pencerahan ini kan, dan dia menyeru kepada perubahan dalam masyarakat, mana pernah senang, dan selalunya tak menang awal pun. Tapi itu tidak mematahkan semangat, kerana pada satu masa, kalau kita terus berusaha dan berdoa supaya orang ramai nampak, saya rasa dia akan sampai satu masa lah yang rakyat akan nampak. Sebenarnya mereka semua ni tak pernah pun bincang pasal macam mana nak naikkan gaji, pasal struktur ekonomi yang kita bincang panjang lebar pasal Kuap tadi tu — daripada bermula pasal Kuap, dia sampai kepada soal kenapa jadi macam ini, kenapa Kuap sampai nak kena pergi melabur ke Indonesia, kenapa tak boleh melabur di Malaysia, kenapa kita VC firm pun tak ada sampai terpaksa bergantung kepada syarikat-syarikat luar. Mereka tak berminat semua ini.
 
@@ -543,7 +544,7 @@ Dua hari, satu dua minggu, akan dapatlah desas-desus terbaru kan, tapi buat masa
 
 **Speaker 2:** Di politik-politik yang tak...
 
-**Rafizi Ramli:** Ini seperti perbandingan dengan cerita startup tadi — produk yang baru, yang tujuannya untuk menyelesaikan pain points dalam sesuatu perkara. Memang dari segi wall, maksudnya halangan itu tinggi. Satu, produk baru, kita nak kena yakinkan orang. Kedua, kita tak ada sumber dan kita terpaksa bersaing dengan giant yang besar-besar ni kan. Ketiga, consumer akan ambil masa untuk memandang sesuatu. Jadi pilihan kita memang hanya ada satu, iaitu mengukuhkan kekuatan parti daripada bawah, kemudian berterusan membawa pencerahan, membina track record yang baik yang membezakan kita daripada parti-parti politik dinosaur yang ada. Persoalannya hanyalah berapa lama — adakah satu tahun, dua tahun, lima tahun kan — tapi paling kurang kami tidak akan terperangkap dengan permainan begini yang bertukar-tukar setiap seminggu, setiap dua bulan, dan yang tak perlu berbelit-belit lidah, sekejap kata macam ini, sekejap kata macam itu.
+**Rafizi:** Ini seperti perbandingan dengan cerita startup tadi — produk yang baru, yang tujuannya untuk menyelesaikan pain points dalam sesuatu perkara. Memang dari segi wall, maksudnya halangan itu tinggi. Satu, produk baru, kita nak kena yakinkan orang. Kedua, kita tak ada sumber dan kita terpaksa bersaing dengan giant yang besar-besar ni kan. Ketiga, consumer akan ambil masa untuk memandang sesuatu. Jadi pilihan kita memang hanya ada satu, iaitu mengukuhkan kekuatan parti daripada bawah, kemudian berterusan membawa pencerahan, membina track record yang baik yang membezakan kita daripada parti-parti politik dinosaur yang ada. Persoalannya hanyalah berapa lama — adakah satu tahun, dua tahun, lima tahun kan — tapi paling kurang kami tidak akan terperangkap dengan permainan begini yang bertukar-tukar setiap seminggu, setiap dua bulan, dan yang tak perlu berbelit-belit lidah, sekejap kata macam ini, sekejap kata macam itu.
 
 Saya tengok banyak masuk FYP tu ialah konten-konten mengenai Ashraf Wajdi. Saya ingat dua bulan lepas dia muncul dalam podcast Lebih Masa YB — ini kan? Tak, lama lagi kan? Oh, lebih lama daripada itu. Dia lanyak PAS sebagai orang yang tak boleh dipercayai, semua ni separuh mati. Sekarang dia ada kat tepi tu menjilat. Jadi ini masa mereka rasa ada gelombang untuk mereka bermainan-bermainan begini, and you know, I don't blame them if they feel that they can get away with murder. Tapi setiap ombak itu dia akan surut. So, you know, ombak membadai pantai, dia pergi dan balik dan dia akan surut. Jadi pilihan untuk bersama ialah kena yakin bahawa kita ada peranan yang penting untuk masyarakat.
 
@@ -565,24 +566,24 @@ Baik, baby. Lama dah kot.
 
 **Speaker 2:** 2 jam 45 minit.
 
-**Rafizi Ramli:** Boleh lah kot. Chopper pun dah resah sangat, Chopper.
+**Rafizi:** Boleh lah kot. Chopper pun dah resah sangat, Chopper.
 
 **Speaker 2:** Dah resah. Dia nak... dia nak mengawan. Takkan kot.
 
-**Speaker 3:** Tak, I think dia in heat. Ya ke? Ya ke? Ya ke? Ya ke? Kena hantar neuter. Dia tak neuter lagi ke? Street cat. Mana kau tahu? Oh, maksud saya... dia punya jingga bel belakang tu usah lagi. Okay, baik.
+**Farhan (Pa'an):** Tak, I think dia in heat. Ya ke? Ya ke? Ya ke? Ya ke? Kena hantar neuter. Dia tak neuter lagi ke? Street cat. Mana kau tahu? Oh, maksud saya... dia punya jingga bel belakang tu usah lagi. Okay, baik.
 
-**Rafizi Ramli:** Itu saja. We don't want to go into Chopper's jingga bel. Okay, jadi insyaAllah penerima ni kita jumpa lagi. Kita sedang rancang dengan lebih tersusun lah semua pergerakan bersama. Kemudian itu akan diselaraskan dengan IRL, saluran YouTube kami akan ada program-program yang lebih tersusun. Dia bukan ad-hoc macam sekejap-sekejap ada, sekejap-sekejap tak ada lah. Aku sebenarnya bagi arahan secara live kepada Pa'an. Okay.
+**Rafizi:** Itu saja. We don't want to go into Chopper's jingga bel. Okay, jadi insyaAllah penerima ni kita jumpa lagi. Kita sedang rancang dengan lebih tersusun lah semua pergerakan bersama. Kemudian itu akan diselaraskan dengan IRL, saluran YouTube kami akan ada program-program yang lebih tersusun. Dia bukan ad-hoc macam sekejap-sekejap ada, sekejap-sekejap tak ada lah. Aku sebenarnya bagi arahan secara live kepada Pa'an. Okay.
 
 **Speaker 2:** Jadi, itu saja YB. Selamat malam. Kita nantikan pengumuman-pengumuman seterusnya tentang PRN Melaka dan banyak lagi. Terima kasih. Kita jumpa lagi. Assalamualaikum.
 
-**Rafizi Ramli:** Selamat mengundi. Haa, selamat mengundi.
+**Rafizi:** Selamat mengundi. Haa, selamat mengundi.
 
 **Speaker 2:** Tapi baru minggu pertama.
 
-**Rafizi Ramli:** Oh, minggu pertama, ok, lupa.
+**Rafizi:** Oh, minggu pertama, ok, lupa.
 
 **Speaker 2:** Lupa, lupa.
 
-**Rafizi Ramli:** Minggu depan lah kita ucap semangat mengundi. Ok, alright.
+**Rafizi:** Minggu depan lah kita ucap semangat mengundi. Ok, alright.
 
 **Speaker 2:** Bye.

@@ -9,6 +9,7 @@ duration: 1h 51m
 view_count: 61217
 hosts:
 - Rafizi
+- Haziq
 guests:
 - Faiz Ahmad
 topics:
@@ -136,7 +137,7 @@ The more contemporary social enterprise model is better because it's more nimble
 
 **Rafizi:** It was supposed to already be in the 13th Malaysia Plan, unless it's been changed. At our level in the Ministry of Economy, we did state that in the future we need to revive this third sector in order to reduce the size of government. So it was already there. But when we look at it, we know there are many things the government needs to do — new laws on social enterprise need to be made, government support needs to be in place. But at the same time, we have a choice — either wait for the government to take 5-7 years to prepare everything before really starting, or something like this can be brought to life while the government prepares. Because usually with government processes involving consultation and objections — once there's a social enterprise, ministries will fight over whose jurisdiction it falls under. Some ministries will say "I don't want to do it," some will say "this is our area" — just resolving that alone could take three years.
 
-So that's why I feel that through AYO Malaysia — even though the concept might be unfamiliar to our people — actually part of it we've already done among ourselves. Puan Wan Roziah, for example, she raised capital, then bought an anchovy-peeling machine, then rented out the machine at a very low rate to five or six makciks (aunties) in her area. With the anchovy-peeling machine, the work became faster, the anchovies sold quicker, and the returns were enough to pay the required pre-profit return.
+So that's why I feel that through AYO Malaysia — even though the concept might be unfamiliar to our people — actually part of it we've already done among ourselves. Makcik Rodziah, for example, she raised capital, then bought an anchovy-peeling machine, then rented out the machine at a very low rate to five or six makciks (aunties) in her area. With the anchovy-peeling machine, the work became faster, the anchovies sold quicker, and the returns were enough to pay the required pre-profit return.
 
 **Host:** In terms of sustainability — because this seems to be heading towards socialism, right?
 

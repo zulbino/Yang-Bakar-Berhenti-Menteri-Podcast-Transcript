@@ -9,8 +9,8 @@ duration: 2h 6m
 view_count: 28005
 hosts:
 - Rafizi
-guests:
-- Azik
+- Haziq
+guests: []
 topics:
 - PAS political culture and populism
 - Election campaign spending and transparency
@@ -18,8 +18,8 @@ topics:
 - Global political movements and Palestine
 - Political accountability and professional standards
 - Government policy implementation and reform
-summary: Rafizi discusses current political trends and social issues, focusing
-  on the populism of PAS, election campaign financing, disaster mitigation challenges,
+summary: Rafizi discusses current political trends and social issues, focusing on
+  the populism of PAS, election campaign financing, disaster mitigation challenges,
   international human rights concerns, and the state of internal party politics within
   the unity government.
 language: ms

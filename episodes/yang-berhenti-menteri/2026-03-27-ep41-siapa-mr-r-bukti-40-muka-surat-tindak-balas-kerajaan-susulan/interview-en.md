@@ -9,9 +9,9 @@ duration_seconds: 11048
 duration: 3h 4m
 view_count: 177475
 hosts:
-- Rafizi Ramli
-guests:
-- Farhan
+- Rafizi
+- Farhan (Pa'an)
+guests: []
 topics:
 - PKR internal politics and 'Beria' rankings
 - Fuziah Salleh's defamation threat and legal precedent barring parties from suing
@@ -68,189 +68,189 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Farhan:** Assalamualaikum and happy Hari Raya. Podcast Yang Berhormat, episode 41. Are you still wearing your Raya outfit?
+**Farhan (Pa'an):** Assalamualaikum and happy Hari Raya. Podcast Yang Berhormat, episode 41. Are you still wearing your Raya outfit?
 
-**Rafizi Ramli:** I... YB has finished celebrating Raya, I haven't yet. My Raya has been disrupted by... by this Mr. R issue.
+**Rafizi:** I... YB has finished celebrating Raya, I haven't yet. My Raya has been disrupted by... by this Mr. R issue.
 
-**Farhan:** We didn't coordinate at all, but we're both wearing red. Because it was bound to "catch fire"!
+**Farhan (Pa'an):** We didn't coordinate at all, but we're both wearing red. Because it was bound to "catch fire"!
 
-**Rafizi Ramli:** Yes, and I'm already scared, YB. When YB made the exposé, I watched the media, like they wanted to report it but weren't sure. But YB, having made the exposé yesterday, wants to make another one today.
+**Rafizi:** Yes, and I'm already scared, YB. When YB made the exposé, I watched the media, like they wanted to report it but weren't sure. But YB, having made the exposé yesterday, wants to make another one today.
 
-**Farhan:** We want to continue today, even though I'm exhausted. Even though we've explained it with two long videos, netizens are still asking who this "Mr. R" MP is. If this were an SPM exam, a lot of people wouldn't pass.
+**Farhan (Pa'an):** We want to continue today, even though I'm exhausted. Even though we've explained it with two long videos, netizens are still asking who this "Mr. R" MP is. If this were an SPM exam, a lot of people wouldn't pass.
 
-**Farhan:** Maybe because his name starts with R.
+**Farhan (Pa'an):** Maybe because his name starts with R.
 
-**Rafizi Ramli:** So it's stuck in their heads. Never mind, there'll be a QR code later. I understand this confusion happened because not many people have fully read the 40-page document. And that 40-page document gives a clear explanation, and we can understand who "Mr. R" is and the MP accused of taking RM9.5 million. Then, I don't know about others, but I also have supporting documents, including these official directives that have never been disclosed to anyone. I already have that item — it's just that the media reported it first. I'm not sure whether the media got that document or not, but I do have the document, and it hasn't been mentioned at all yet — it's extremely "on fire," hot and explosive. So we'll give out the QR code later so viewers can download and read the 40 pages themselves, and we ask that it be shared with everyone. That 40-page document provides references and supporting documents for every matter that occurred, but I won't share everything — because that would be using up my "reserve bullets."
+**Rafizi:** So it's stuck in their heads. Never mind, there'll be a QR code later. I understand this confusion happened because not many people have fully read the 40-page document. And that 40-page document gives a clear explanation, and we can understand who "Mr. R" is and the MP accused of taking RM9.5 million. Then, I don't know about others, but I also have supporting documents, including these official directives that have never been disclosed to anyone. I already have that item — it's just that the media reported it first. I'm not sure whether the media got that document or not, but I do have the document, and it hasn't been mentioned at all yet — it's extremely "on fire," hot and explosive. So we'll give out the QR code later so viewers can download and read the 40 pages themselves, and we ask that it be shared with everyone. That 40-page document provides references and supporting documents for every matter that occurred, but I won't share everything — because that would be using up my "reserve bullets."
 
-**Farhan:** Reserve bullets — meaning there's more to come, right?
+**Farhan (Pa'an):** Reserve bullets — meaning there's more to come, right?
 
-**Rafizi Ramli:** Learn from Iran — first you send drones. Then once the opposing side is in chaos, that's when you send the missiles.
+**Rafizi:** Learn from Iran — first you send drones. Then once the opposing side is in chaos, that's when you send the missiles.
 
-**Farhan:** Alright, YB. So, was Raya okay?
+**Farhan (Pa'an):** Alright, YB. So, was Raya okay?
 
-**Rafizi Ramli:** My Raya was okay too. The concept of Raya in my family is very simple — meaning Raya is for siblings to come home. So when all the siblings come home, that's it, we just stay together, we... we don't receive guests from outside.
+**Rafizi:** My Raya was okay too. The concept of Raya in my family is very simple — meaning Raya is for siblings to come home. So when all the siblings come home, that's it, we just stay together, we... we don't receive guests from outside.
 
-**Farhan:** You don't receive guests?
+**Farhan (Pa'an):** You don't receive guests?
 
-**Rafizi Ramli:** Over the years, people have come to know — during their Raya, this is the time set aside for siblings and their own families. So even though everyone might be out and about, everyone is busy. The discipline my siblings and my parents have maintained from the start is that we don't disturb one another — that's why we don't have a WhatsApp group or anything like that. So when we go back five or six times a year, that's when everyone's together; those two-three days are truly focused, and people rarely come by, not many at all.
+**Rafizi:** Over the years, people have come to know — during their Raya, this is the time set aside for siblings and their own families. So even though everyone might be out and about, everyone is busy. The discipline my siblings and my parents have maintained from the start is that we don't disturb one another — that's why we don't have a WhatsApp group or anything like that. So when we go back five or six times a year, that's when everyone's together; those two-three days are truly focused, and people rarely come by, not many at all.
 
-**Farhan:** Did anyone ambush you?
+**Farhan (Pa'an):** Did anyone ambush you?
 
-**Rafizi Ramli:** There were some. My house, my parents' house, has a front door and a front gate, a front door and a back door, and the land is quite large — there's a road that goes around the house. I remember on the first day of Raya I was already smart, I sat at the back. But there were some who ambushed us — but it's fine, nothing happened. It's just that when I was heading back for Raya, I got a surprise too because I predicted wrong — I was confident Raya would fall on a Friday, got stuck in Gombak for three hours too, had to go through an Orang Asli village road, all of it empty. It's because I went back early too, on the second day of Raya.
+**Rafizi:** There were some. My house, my parents' house, has a front door and a front gate, a front door and a back door, and the land is quite large — there's a road that goes around the house. I remember on the first day of Raya I was already smart, I sat at the back. But there were some who ambushed us — but it's fine, nothing happened. It's just that when I was heading back for Raya, I got a surprise too because I predicted wrong — I was confident Raya would fall on a Friday, got stuck in Gombak for three hours too, had to go through an Orang Asli village road, all of it empty. It's because I went back early too, on the second day of Raya.
 
-**Farhan:** Oh, early.
+**Farhan (Pa'an):** Oh, early.
 
-**Rafizi Ramli:** We also have a problem — if we don't go back on the second day of Raya, that means we'd have left the cats for three days.
+**Rafizi:** We also have a problem — if we don't go back on the second day of Raya, that means we'd have left the cats for three days.
 
-**Farhan:** Oh right, YB's sibling has to look after the cats.
+**Farhan (Pa'an):** Oh right, YB's sibling has to look after the cats.
 
-**Rafizi Ramli:** But there are just so many of them, you know. My sibling's cat is a "T5" cat — really well-groomed, beautiful, and well-behaved, sits watching people like a princess. If you bring it back to the kampung, that's it — a city cat coming to the kampung. My cat, on the other hand, is a kampung cat that ended up in a city house, so it still doesn't know how to adjust.
+**Rafizi:** But there are just so many of them, you know. My sibling's cat is a "T5" cat — really well-groomed, beautiful, and well-behaved, sits watching people like a princess. If you bring it back to the kampung, that's it — a city cat coming to the kampung. My cat, on the other hand, is a kampung cat that ended up in a city house, so it still doesn't know how to adjust.
 
-**Farhan:** A city cat visiting the kampung, this is it!
+**Farhan (Pa'an):** A city cat visiting the kampung, this is it!
 
-**Rafizi Ramli:** Alright, okay.
+**Rafizi:** Alright, okay.
 
-**Farhan:** Let's take a look at "Beria" first. This might be the first time YB is nominating everything, because he's worried his own Raya greeting might end up included in "Beria." So since YB is nominating everything, well — thank you.
+**Farhan (Pa'an):** Let's take a look at "Beria" first. This might be the first time YB is nominating everything, because he's worried his own Raya greeting might end up included in "Beria." So since YB is nominating everything, well — thank you.
 
-**Farhan:** The first one, this is a "main contender," it made it in early. Don't accuse [us] and end up getting sued — actually this should be placed last, but never mind. This one follows from the exposé and reports about a PKR MP who received RM9.5 million. A few days ago a statement came out: "PKR threatens legal action over slander against party leadership." Nothing's even happened yet and it's already "slander."
+**Farhan (Pa'an):** The first one, this is a "main contender," it made it in early. Don't accuse [us] and end up getting sued — actually this should be placed last, but never mind. This one follows from the exposé and reports about a PKR MP who received RM9.5 million. A few days ago a statement came out: "PKR threatens legal action over slander against party leadership." Nothing's even happened yet and it's already "slander."
 
-**Farhan:** The reason this is "beria" is... as I recall — correct me if I'm wrong — from what we've all seen, isn't there actually a court ruling that a party cannot sue over defamation?
+**Farhan (Pa'an):** The reason this is "beria" is... as I recall — correct me if I'm wrong — from what we've all seen, isn't there actually a court ruling that a party cannot sue over defamation?
 
-**Rafizi Ramli:** Yes, the Lim Guan Eng versus Chua Soi Lek case, the Federal Court judgment. If I may explain a little...
+**Rafizi:** Yes, the Lim Guan Eng versus Chua Soi Lek case, the Federal Court judgment. If I may explain a little...
 
-**Farhan:** He's a law graduate, this is the time to show a bit of action.
+**Farhan (Pa'an):** He's a law graduate, this is the time to show a bit of action.
 
-**Rafizi Ramli:** Go ahead, go ahead.
+**Rafizi:** Go ahead, go ahead.
 
-**Farhan:** A bit of action, since he studied it early on.
+**Farhan (Pa'an):** A bit of action, since he studied it early on.
 
-**Rafizi Ramli:** So this is the court's decision — there are two grounds why a party cannot sue. First, the Federal Court took the view that to establish the "right balance," meaning the individual concerned can already sue, so there's no need to also give political parties access to sue. Second, this is also to "preserve" what we call the "value of democracy," because political parties have machinery, access, media, and can hold press conferences to defend themselves. This is a matter concerning the individual — the individual has the right to sue.
+**Rafizi:** So this is the court's decision — there are two grounds why a party cannot sue. First, the Federal Court took the view that to establish the "right balance," meaning the individual concerned can already sue, so there's no need to also give political parties access to sue. Second, this is also to "preserve" what we call the "value of democracy," because political parties have machinery, access, media, and can hold press conferences to defend themselves. This is a matter concerning the individual — the individual has the right to sue.
 
 So Fuziah Saleh is being so "beria" making a statement about wanting to sue. Didn't she check first, or does PKR not have lawyers anymore? A lot of PKR's lawyers have all fled, right?
 
-**Farhan:** True, right.
+**Farhan (Pa'an):** True, right.
 
-**Rafizi Ramli:** So what can we say to Kak Ji? She needs to do her homework first, I guess.
+**Rafizi:** So what can we say to Kak Ji? She needs to do her homework first, I guess.
 
-**Farhan:** Please go into isolation for a week.
+**Farhan (Pa'an):** Please go into isolation for a week.
 
-**Rafizi Ramli:** Because a mistake like this shouldn't be made by a Secretary-General of the ruling party. If it came from some obscure fringe party, I'd understand — maybe they don't have lawyers or something. But this one, throughout all my exposés, I've always known political parties can't sue. So being "beria" for nothing — how many paragraphs was that? One, two, three, four, five — five paragraphs of being "beria" for absolutely nothing.
+**Rafizi:** Because a mistake like this shouldn't be made by a Secretary-General of the ruling party. If it came from some obscure fringe party, I'd understand — maybe they don't have lawyers or something. But this one, throughout all my exposés, I've always known political parties can't sue. So being "beria" for nothing — how many paragraphs was that? One, two, three, four, five — five paragraphs of being "beria" for absolutely nothing.
 
-**Farhan:** Maybe there's a KPI requiring media appearances a certain number of times each week.
+**Farhan (Pa'an):** Maybe there's a KPI requiring media appearances a certain number of times each week.
 
-**Rafizi Ramli:** I don't know, maybe she's under pressure — let's think well of her, maybe she's under pressure. There are all sorts of assumptions now. In Malaysia it's clear that political parties cannot sue their critics, even for defamation, because when a defamatory statement is made, it usually refers to an individual or a leader within the political party — let that individual sue on their own.
+**Rafizi:** I don't know, maybe she's under pressure — let's think well of her, maybe she's under pressure. There are all sorts of assumptions now. In Malaysia it's clear that political parties cannot sue their critics, even for defamation, because when a defamatory statement is made, it usually refers to an individual or a leader within the political party — let that individual sue on their own.
 
-**Farhan:** Yes, "beria" baby, "beria" contender — don't be surprised, we have more "next"s. Our guest this week... but which one is it? "The underling backing the boss" or "the boss backing the underling"? Usually it's the underling who backs the boss, right — the underling usually backs the boss. But in this Madani era it's even more amazing, because it's the boss who's backing the underling instead.
+**Farhan (Pa'an):** Yes, "beria" baby, "beria" contender — don't be surprised, we have more "next"s. Our guest this week... but which one is it? "The underling backing the boss" or "the boss backing the underling"? Usually it's the underling who backs the boss, right — the underling usually backs the boss. But in this Madani era it's even more amazing, because it's the boss who's backing the underling instead.
 
-**Rafizi Ramli:** Let's see which underling this is.
+**Rafizi:** Let's see which underling this is.
 
-**Farhan:** This is the favourite underling — the golden child, shining bright, you know. Anwar Ibrahim reposted the special press conference of the Minister of Human Resources.
+**Farhan (Pa'an):** This is the favourite underling — the golden child, shining bright, you know. Anwar Ibrahim reposted the special press conference of the Minister of Human Resources.
 
-**Rafizi Ramli:** As it should be, right. You'll notice, I never repost anything from outside parties who've helped me a lot in spreading information, following all the comments — don't take offense, because I really rarely repost, especially if it's a party leader or a politician. Because I believe each of us needs to build our own strength, that's one thing. Second, if you're not careful, a repost becomes an "endorsement." Another thing, "guilt by association." Especially in a case like this — when the Prime Minister reposts Ramanan's special press conference, he actually doesn't even know what Ramanan said at the time, because it was happening live. And given the quality and the things Ramanan said during that press conference, it becomes like an "endorsement" or "guilt by association" for Anwar Ibrahim.
+**Rafizi:** As it should be, right. You'll notice, I never repost anything from outside parties who've helped me a lot in spreading information, following all the comments — don't take offense, because I really rarely repost, especially if it's a party leader or a politician. Because I believe each of us needs to build our own strength, that's one thing. Second, if you're not careful, a repost becomes an "endorsement." Another thing, "guilt by association." Especially in a case like this — when the Prime Minister reposts Ramanan's special press conference, he actually doesn't even know what Ramanan said at the time, because it was happening live. And given the quality and the things Ramanan said during that press conference, it becomes like an "endorsement" or "guilt by association" for Anwar Ibrahim.
 
 Another thing — this is what I don't understand, what hasn't been answered. When I was a minister before, the schedule was packed, you know — from past 8 until 10 at night. If I sometimes looked sour-faced, it was because the schedule was stacked back to back, to the point there wasn't even time to eat lunch. If there was a break, it was just a quick prayer, then a quick meal, one after another. So there was really no time to "chat" on social media either.
 
-**Farhan:** Our PM reposts a lot — meaning, was he in the middle of a meeting or something, and, oh, Ramanan's about to hold a press conference, "support, support, support," right? Is he in a WhatsApp group that gets instructions saying "please repost now"?
+**Farhan (Pa'an):** Our PM reposts a lot — meaning, was he in the middle of a meeting or something, and, oh, Ramanan's about to hold a press conference, "support, support, support," right? Is he in a WhatsApp group that gets instructions saying "please repost now"?
 
-**Rafizi Ramli:** So that's what I don't understand. But joking aside, I mean... I'm not sure — what time is it now?
+**Rafizi:** So that's what I don't understand. But joking aside, I mean... I'm not sure — what time is it now?
 
-**Farhan:** 2:26 pm.
+**Farhan (Pa'an):** 2:26 pm.
 
-**Rafizi Ramli:** That means there's a good chance the PM had another meeting. What might have happened is that Dato' Seri Anwar has lost control of his own social media, and he's surrounded by people who have already taken sides — perhaps with Ramanan in this case — so they took it upon themselves to repost. So maybe it wasn't the PM, maybe it was some "slip-up" [staffer] who reposted. The problem is, how long can Dato' Seri Anwar keep saying "it wasn't me, it was someone else," because we ourselves choose who is around us. If the most important asset — namely social media — for a politician nowadays is the "digital asset," and if we don't even know who controls access to our own "digital assets," to the point that something like this can happen, it will keep becoming fodder for "beria."
+**Rafizi:** That means there's a good chance the PM had another meeting. What might have happened is that Dato' Seri Anwar has lost control of his own social media, and he's surrounded by people who have already taken sides — perhaps with Ramanan in this case — so they took it upon themselves to repost. So maybe it wasn't the PM, maybe it was some "slip-up" [staffer] who reposted. The problem is, how long can Dato' Seri Anwar keep saying "it wasn't me, it was someone else," because we ourselves choose who is around us. If the most important asset — namely social media — for a politician nowadays is the "digital asset," and if we don't even know who controls access to our own "digital assets," to the point that something like this can happen, it will keep becoming fodder for "beria."
 
-**Farhan:** One, one, one.
+**Farhan (Pa'an):** One, one, one.
 
-**Rafizi Ramli:** This one, in my view, should actually be the other way around — let the underling back the boss, not the boss backing the underling. Dato' Seri Anwar is being attacked from all sides, but we don't see Ramanan, or Fahmi Fadzil, or the other vice-presidents, or senior PKR leadership backing up their boss. In fact, if we look at it, in many episodes it's Anwar Ibrahim who ends up having to carry and back up the people he's burdened with — Fadlina before, now Ramanan.
+**Rafizi:** This one, in my view, should actually be the other way around — let the underling back the boss, not the boss backing the underling. Dato' Seri Anwar is being attacked from all sides, but we don't see Ramanan, or Fahmi Fadzil, or the other vice-presidents, or senior PKR leadership backing up their boss. In fact, if we look at it, in many episodes it's Anwar Ibrahim who ends up having to carry and back up the people he's burdened with — Fadlina before, now Ramanan.
 
-**Farhan:** Beria, beria. Alright, we have one more "next" — still the same person. Happy Hari Raya from Ramanan — but the video isn't playing. Where's his video?
+**Farhan (Pa'an):** Beria, beria. Alright, we have one more "next" — still the same person. Happy Hari Raya from Ramanan — but the video isn't playing. Where's his video?
 
-**Rafizi Ramli:** Ugh... can we hear it? We probably need to "label" it — never mind then.
+**Rafizi:** Ugh... can we hear it? We probably need to "label" it — never mind then.
 
 This one is actually within PKR, right — this is exactly what I meant, I think, people like Ramanan taking care of the grassroots. So this is from PKR Johor — standing in front of boxes, expressing thanks to YB Ramanan for contributing Raya boxes. Look at the Raya box — we can't zoom in, but if you zoom in, the Raya box has two pictures, as usual — even his shirt has a picture — there's Anwar Ibrahim and also a picture of Ramanan.
 
-**Farhan:** But that small one, if you look in the middle, there's the National Emblem [Jata Negara].
+**Farhan (Pa'an):** But that small one, if you look in the middle, there's the National Emblem [Jata Negara].
 
-**Rafizi Ramli:** Yes, that's right. Then below that there are agency logos too. It turns out that's from the Ministry of Human Resources and the agencies under it. If people look at this, this is actually a box officially from the Minister of Human Resources — officially from KESUMA, and supported by agencies under KESUMA.
+**Rafizi:** Yes, that's right. Then below that there are agency logos too. It turns out that's from the Ministry of Human Resources and the agencies under it. If people look at this, this is actually a box officially from the Minister of Human Resources — officially from KESUMA, and supported by agencies under KESUMA.
 
-**Farhan:** If you were an ordinary citizen, what would you say? "Why didn't I get one!" Because whoever's distributing it will say this is a contribution from the minister, from Ramanan.
+**Farhan (Pa'an):** If you were an ordinary citizen, what would you say? "Why didn't I get one!" Because whoever's distributing it will say this is a contribution from the minister, from Ramanan.
 
-**Rafizi Ramli:** Oh, how "cushy" it is to be a minister like that.
+**Rafizi:** Oh, how "cushy" it is to be a minister like that.
 
-**Farhan:** There was also a video that went viral recently — BMK giving out contributions "on behalf of" the KESUMA Minister, who was asked, "Is the KESUMA Minister handsome?"
+**Farhan (Pa'an):** There was also a video that went viral recently — BMK giving out contributions "on behalf of" the KESUMA Minister, who was asked, "Is the KESUMA Minister handsome?"
 
-**Rafizi Ramli:** Didn't notice that. Which one? The Melaka one?
+**Rafizi:** Didn't notice that. Which one? The Melaka one?
 
-**Farhan:** Yes, Melaka — the candidate who contested in the Melaka state election before.
+**Farhan (Pa'an):** Yes, Melaka — the candidate who contested in the Melaka state election before.
 
-**Rafizi Ramli:** Okay... this is an MIC and UMNO culture from the Tok Kadu era. Farhan, you worked with me and went into the ministry before, right — did I ever give out contributions using ministry funds or Raya funds? Never. In fact, if there were private companies — early in my time as minister, there were many GLCs, not to mention agencies under the Ministry of Economy, that would come and say, "YB, it's the fasting month, we want to hold a breaking-of-fast event, we'll sponsor it for YB in Pandan." Others said, "we want to give contributions in Pandan too." I really scolded them for that — because that money wasn't the Pandan MP's money. Ministry funds approved under the government budget are for the public at large, not for my own benefit as the Pandan MP. So after that first year, they got the message.
+**Rafizi:** Okay... this is an MIC and UMNO culture from the Tok Kadu era. Farhan, you worked with me and went into the ministry before, right — did I ever give out contributions using ministry funds or Raya funds? Never. In fact, if there were private companies — early in my time as minister, there were many GLCs, not to mention agencies under the Ministry of Economy, that would come and say, "YB, it's the fasting month, we want to hold a breaking-of-fast event, we'll sponsor it for YB in Pandan." Others said, "we want to give contributions in Pandan too." I really scolded them for that — because that money wasn't the Pandan MP's money. Ministry funds approved under the government budget are for the public at large, not for my own benefit as the Pandan MP. So after that first year, they got the message.
 
 There were also some who "pushed harder" — they wanted to give a contribution, saying, "just do it as your own personal contribution, it has nothing to do with me, I won't attend." So it was pointless for them to go ahead, because they reckoned "the minister isn't even coming," so it fell through. That's why, to the voters of Pandan who feel hard done by — Pandan voters really aren't as well-off as other areas, getting help from here and there. But we have to be careful, because this culture must be stopped. If a case were to be opened, this could actually be turned into a case, because it involves using public resources distributed through a political party.
 
 These boxes were given as contributions from a PKR vice-president to PKR branches in Johor to be distributed, when in fact that's not a contribution from the PKR vice-president — it's a contribution from the government, and it's all budgeted from the agencies. Because once it's presented like that, it becomes official. Unless it only had a picture of Ramanan, or Ramanan with Dato' Seri Anwar, with a "disclaimer" below — then that would be fine. But once you have all those pictures — why does the National Emblem need to be there? Why do these agency logos need to be there?
 
-**Farhan:** For the agency's documentation purposes?
+**Farhan (Pa'an):** For the agency's documentation purposes?
 
-**Rafizi Ramli:** The documentation is to prove that this is an official ministry programme. So when it comes time to pay, they can say this isn't a personal payment, but a programme payment. So my reminder to PKR, to the ministers: stop this practice, and you can learn from this.
+**Rafizi:** The documentation is to prove that this is an official ministry programme. So when it comes time to pay, they can say this isn't a personal payment, but a programme payment. So my reminder to PKR, to the ministers: stop this practice, and you can learn from this.
 
 There's another culture I'm not comfortable with, but let's see how it goes. Around Raya, people send a lot of hampers to ministers, and every minister will also send hampers to other ministers. That's nice, right? But the problem is, these hampers are huge and seem expensive. I've always wondered, who's paying for these hampers? So I feel it's too heavy a burden to give hampers — Raya should just be Raya, because it's not like we have that kind of money. If one hamper costs, say, RM300–400, and you multiply that by 100 hampers, that's already RM30,000. But it's not 100 hampers, it's 1,000 hampers — RM300,000 just for giving out hampers during Raya! If I had that kind of money, I'd rather give it to the poor. So we'd wonder too, who's actually paying for these hampers. But my officers at the ministry said, "You can't do that, YB, it'll look bad — everyone's giving you hampers, and all the other ministers too, and you're not reciprocating." In the end I gave in, we took whatever money we had and gave something. But the problem is, the hamper from the Ministry of Economy — the most "economical" hamper of all! Sometimes it's embarrassing, because there's just peanuts, one jar. Sometimes we just gave peanuts. The hampers we gave were also very small — that could easily become a joke, you know.
 
-**Farhan:** The Ministry of Economy was really stingy.
+**Farhan (Pa'an):** The Ministry of Economy was really stingy.
 
-**Rafizi Ramli:** If you lined up all the ministers' hampers, people would say, "that one, don't even bother, you're just giving one jar of peanuts?" True, we gave just peanuts. After we argued about it, saying "no, we don't want to give," but we had to give something anyway — so we just gave peanuts. So that kind of hamper cost about RM10, I think. But this culture is spreading and needs to be stopped. If you want to be so "beria" about looking after the grassroots, give from your own pocket.
+**Rafizi:** If you lined up all the ministers' hampers, people would say, "that one, don't even bother, you're just giving one jar of peanuts?" True, we gave just peanuts. After we argued about it, saying "no, we don't want to give," but we had to give something anyway — so we just gave peanuts. So that kind of hamper cost about RM10, I think. But this culture is spreading and needs to be stopped. If you want to be so "beria" about looking after the grassroots, give from your own pocket.
 
 And to PKR Johor here, I know a few people in this picture. That one is the former Bakri State Assemblyman, that one is the PKR Johor treasurer — we're a reformist party, right, surely we should know that when these boxes arrive labelled from the ministry, surely we know this is actually public money. And we're continuing, perhaps even amplifying, the very practice we used to fight against.
 
-**Farhan:** "Beria," but maybe the grassroots would say, "well, we're desperate to do work for our constituencies."
+**Farhan (Pa'an):** "Beria," but maybe the grassroots would say, "well, we're desperate to do work for our constituencies."
 
-**Rafizi Ramli:** Right, but we're a reformist party. So if it's purely to show that we're also giving contributions, to compete with other parties — we were once an opposition party, in the difficult years before. Why, when we were in opposition, and I'm still firm about this to this day, why did we not support, in fact why did we oppose, this practice? Because it's essentially misusing public allocations for party use. Right, because it doesn't provide a "level playing field" for everyone. We may not like our rival parties — PAS, or we don't like Bersatu, or we don't like other parties — because naturally, as a political party, we want to be on top, we want to win, right. But let's not forget, we were once an opposition party, and we felt it was very unfair when we had to dig into our own pockets — salary, savings, even selling land — to run programmes for the people in our constituencies. Meanwhile, the rival party in government lived lavishly using public funds, and at Raya time gave out massive assistance on a grand scale. That creates an unfair situation, right. So now that we're the government, we should remember where we came from, and correct that situation. For us to remain in government, it's not by handing out money, scattering cash everywhere. People chose us — I don't think people chose PKR because PKR gives out the most hampers. People chose PKR because they feel PKR can bring change, has charismatic leaders, with ideas, with integrity. So focus on that.
+**Rafizi:** Right, but we're a reformist party. So if it's purely to show that we're also giving contributions, to compete with other parties — we were once an opposition party, in the difficult years before. Why, when we were in opposition, and I'm still firm about this to this day, why did we not support, in fact why did we oppose, this practice? Because it's essentially misusing public allocations for party use. Right, because it doesn't provide a "level playing field" for everyone. We may not like our rival parties — PAS, or we don't like Bersatu, or we don't like other parties — because naturally, as a political party, we want to be on top, we want to win, right. But let's not forget, we were once an opposition party, and we felt it was very unfair when we had to dig into our own pockets — salary, savings, even selling land — to run programmes for the people in our constituencies. Meanwhile, the rival party in government lived lavishly using public funds, and at Raya time gave out massive assistance on a grand scale. That creates an unfair situation, right. So now that we're the government, we should remember where we came from, and correct that situation. For us to remain in government, it's not by handing out money, scattering cash everywhere. People chose us — I don't think people chose PKR because PKR gives out the most hampers. People chose PKR because they feel PKR can bring change, has charismatic leaders, with ideas, with integrity. So focus on that.
 
-**Farhan:** Okay, clear. "Beria." We have one more, the last one — "shaking down a massage parlour" for Raya money. Turns out this is PKR's week of "beria." What is this, all of PKR... hey, PKR is really celebrating Raya, even extorting other people's wives' Raya money.
+**Farhan (Pa'an):** Okay, clear. "Beria." We have one more, the last one — "shaking down a massage parlour" for Raya money. Turns out this is PKR's week of "beria." What is this, all of PKR... hey, PKR is really celebrating Raya, even extorting other people's wives' Raya money.
 
-**Rafizi Ramli:** Right, allegedly — I'd already seen this video before it was reported, because I got the message and video from YB Zahir, the Wangsa Maju MP. He complained — he was the one defeated in the branch election, and these are the ones who won, this is the whole "Team Damai," these are all Nurul Izzah's people, if you go "by association," right. So when this happened, everyone came looking for him, and it was hard for him to respond. He said, "I really don't like these people, I've fought against them all-out within the party — that's exactly why you can see now why we oppose them." But this is the burden now for people within PKR — the ones who did wrong are one group, but others who don't even agree with them get lumped in together too.
+**Rafizi:** Right, allegedly — I'd already seen this video before it was reported, because I got the message and video from YB Zahir, the Wangsa Maju MP. He complained — he was the one defeated in the branch election, and these are the ones who won, this is the whole "Team Damai," these are all Nurul Izzah's people, if you go "by association," right. So when this happened, everyone came looking for him, and it was hard for him to respond. He said, "I really don't like these people, I've fought against them all-out within the party — that's exactly why you can see now why we oppose them." But this is the burden now for people within PKR — the ones who did wrong are one group, but others who don't even agree with them get lumped in together too.
 
 So, this person is said to be a member of the Residents' Representative Council.
 
-**Farhan:** Have you watched the full video?
+**Farhan (Pa'an):** Have you watched the full video?
 
-**Rafizi Ramli:** I heard the way he did it — there's a certain "art" to how he introduced himself and all that.
+**Rafizi:** I heard the way he did it — there's a certain "art" to how he introduced himself and all that.
 
-**Farhan:** I watched the video, but the audio was kind of "inaudible."
+**Farhan (Pa'an):** I watched the video, but the audio was kind of "inaudible."
 
-**Rafizi Ramli:** He's standing a bit far away, that's why it's a bit "inaudible." The way he introduced himself as a member of the Residents' Representative Council — then he told them that he's actually the one who would report to DBKL on where DBKL should go "raid."
+**Rafizi:** He's standing a bit far away, that's why it's a bit "inaudible." The way he introduced himself as a member of the Residents' Representative Council — then he told them that he's actually the one who would report to DBKL on where DBKL should go "raid."
 
-**Farhan:** I want to laugh too — I think whoever was at the "reception" there, didn't even need to be told, already knew you were coming to "shake them down"!
+**Farhan (Pa'an):** I want to laugh too — I think whoever was at the "reception" there, didn't even need to be told, already knew you were coming to "shake them down"!
 
-**Rafizi Ramli:** Hahaha. And these are also embarrassing things, and I know this isn't only happening in Wangsa Maju, it's also happening in other places under the Selangor state government administration, for example. So to all the shops out there, please install CCTV, so that when someone comes to "shake you down" like this — call it whatever you want, this is essentially "protection money" too.
+**Rafizi:** Hahaha. And these are also embarrassing things, and I know this isn't only happening in Wangsa Maju, it's also happening in other places under the Selangor state government administration, for example. So to all the shops out there, please install CCTV, so that when someone comes to "shake you down" like this — call it whatever you want, this is essentially "protection money" too.
 
-**Farhan:** It's like a mafia too.
+**Farhan (Pa'an):** It's like a mafia too.
 
-**Rafizi Ramli:** It's like a mafia too — so there are layers of mafia in our society, right. The topmost mafia, we'll talk about that later.
+**Rafizi:** It's like a mafia too — so there are layers of mafia in our society, right. The topmost mafia, we'll talk about that later.
 
-**Farhan:** This is the lowest-level mafia.
+**Farhan (Pa'an):** This is the lowest-level mafia.
 
-**Rafizi Ramli:** This is the lowest-level mafia — they collect protection money from people under their "sphere of influence," send in enforcement officers. So I'm also asking — to the victims, meaning the shopkeepers, and also enforcement officers who become victims — please install CCTV, not just one, four or five, so there's an angle on the stomach, an angle on the face too — install plenty, so that if someone even "pauses" it can immediately go viral. Then to the enforcement officers at the local authorities, government officials — fight back! Don't listen to them, go make a report immediately. Don't entertain and don't be afraid of small-time politicians who've only been in the party two or three years — just because they've become a member of the Residents' Representative Council, their attitude outdoes everyone else's. So if there are any instructions or anything like that, we need to be alert so we know who's collecting money and so on — don't let enforcement officers and local authority personnel become "enablers" to these petty little mafias underneath. PKR is really having a lively Raya this year, huh — celebrating Raya by... celebrating Raya by "shaking down" Raya money. I hope this isn't the money PKR will eventually give out as Raya money — the PKR Wangsa Maju branch giving out Raya money from "shaking down" a massage parlour.
+**Rafizi:** This is the lowest-level mafia — they collect protection money from people under their "sphere of influence," send in enforcement officers. So I'm also asking — to the victims, meaning the shopkeepers, and also enforcement officers who become victims — please install CCTV, not just one, four or five, so there's an angle on the stomach, an angle on the face too — install plenty, so that if someone even "pauses" it can immediately go viral. Then to the enforcement officers at the local authorities, government officials — fight back! Don't listen to them, go make a report immediately. Don't entertain and don't be afraid of small-time politicians who've only been in the party two or three years — just because they've become a member of the Residents' Representative Council, their attitude outdoes everyone else's. So if there are any instructions or anything like that, we need to be alert so we know who's collecting money and so on — don't let enforcement officers and local authority personnel become "enablers" to these petty little mafias underneath. PKR is really having a lively Raya this year, huh — celebrating Raya by... celebrating Raya by "shaking down" Raya money. I hope this isn't the money PKR will eventually give out as Raya money — the PKR Wangsa Maju branch giving out Raya money from "shaking down" a massage parlour.
 
-**Farhan:** PKR Wangsa Maju has had cases before too, right, of...
+**Farhan (Pa'an):** PKR Wangsa Maju has had cases before too, right, of...
 
-**Rafizi Ramli:** This isn't the first time something like this has happened in Wangsa Maju. If we compare the level of boldness, the Wangsa Maju MP who was once defeated by these veterans — YB Zahir, in my view, is one of the people I respect most in PKR. And he's tried, but the problem lies with the people in that branch itself. Its branch chief has already been suspended, because that branch chief was once involved in a video that got exposed, where he threatened, "If I become Prime Minister, I'll fire him, I'll destroy him, I'll lock him straight up in prison." What fun, going around telling people that as if trying to extort money. But in the end PKR only took action to suspend him. So right now PKR Wangsa Maju has no branch chief — only its deputy is acting in that position. But we must distinguish between the Wangsa Maju MP and the lineup within the PKR Wangsa Maju branch.
+**Rafizi:** This isn't the first time something like this has happened in Wangsa Maju. If we compare the level of boldness, the Wangsa Maju MP who was once defeated by these veterans — YB Zahir, in my view, is one of the people I respect most in PKR. And he's tried, but the problem lies with the people in that branch itself. Its branch chief has already been suspended, because that branch chief was once involved in a video that got exposed, where he threatened, "If I become Prime Minister, I'll fire him, I'll destroy him, I'll lock him straight up in prison." What fun, going around telling people that as if trying to extort money. But in the end PKR only took action to suspend him. So right now PKR Wangsa Maju has no branch chief — only its deputy is acting in that position. But we must distinguish between the Wangsa Maju MP and the lineup within the PKR Wangsa Maju branch.
 
-**Host:** Alright, that concludes our "beria" session with PKR. Now let's do the ranking. There are four YBs we need to assess — one, two, three, four. Okay, let's go to the main contender: whenever Fuziah is involved, it's bound to be a fierce contest between Fuziah and Ramanan. Let's look at the third video.
+**Farhan (Pa'an):** Alright, that concludes our "beria" session with PKR. Now let's do the ranking. There are four YBs we need to assess — one, two, three, four. Okay, let's go to the main contender: whenever Fuziah is involved, it's bound to be a fierce contest between Fuziah and Ramanan. Let's look at the third video.
 
-**Host:** Hey, wasn't there a video just now? Oh, it's gone now. Never mind, never mind...
+**Farhan (Pa'an):** Hey, wasn't there a video just now? Oh, it's gone now. Never mind, never mind...
 
-**Host:** ...but after consideration — thank you, Dato' Ramanan. That's what we wanted to show earlier. But sorry, Ramanan, whenever Fuziah is in the running, Fuziah will beat whoever challenges her.
+**Farhan (Pa'an):** ...but after consideration — thank you, Dato' Ramanan. That's what we wanted to show earlier. But sorry, Ramanan, whenever Fuziah is in the running, Fuziah will beat whoever challenges her.
 
-**Rafizi Ramli:** Because she made a statement without solid grounds — the basis being, a Secretary-General of a political party shouldn't just threaten to sue people like that. This undermines the party's own credibility. I think the party's credibility is already very damaged.
+**Rafizi:** Because she made a statement without solid grounds — the basis being, a Secretary-General of a political party shouldn't just threaten to sue people like that. This undermines the party's own credibility. I think the party's credibility is already very damaged.
 
-**Host:** Okay, we can't really say much more then. There's not much impact even if Fuziah keeps being "beria." Maybe that's exactly why she keeps being "beria" — since she's already gone this far.
+**Farhan (Pa'an):** Okay, we can't really say much more then. There's not much impact even if Fuziah keeps being "beria." Maybe that's exactly why she keeps being "beria" — since she's already gone this far.
 
-**Host:** Alright. Bismillahirrahmanirrahim. To our friends, please read carefully and get ready to scan the QR code and download the relevant document. Our special guest today has already helped prepare the document for our friends to scan. So please scan it and share it with everyone.
+**Farhan (Pa'an):** Alright. Bismillahirrahmanirrahim. To our friends, please read carefully and get ready to scan the QR code and download the relevant document. Our special guest today has already helped prepare the document for our friends to scan. So please scan it and share it with everyone.
 
 And YB, I don't want to talk too long. I just think the important thing in this issue — YB has already produced three pieces of content in two days. There are two important things we need to understand properly. First, who is "Mr. R" — we'll discuss that later. The first, of course, is who the PKR MP is who received RM9.5 million. Just say RM10 million straight up, why bother saying RM9.5 million.
 
 Okay, alright YB. Frankly speaking, YB has given two characteristics about who this person is within PKR, right?
 
-**Rafizi Ramli:** But before that — before that, I want to rewind a little. This is my problem, that's why sometimes people get tired of me. Before we get to those details, we need to first understand the bigger picture, the macro picture, the background — why this matter suddenly exploded.
+**Rafizi:** But before that — before that, I want to rewind a little. This is my problem, that's why sometimes people get tired of me. Before we get to those details, we need to first understand the bigger picture, the macro picture, the background — why this matter suddenly exploded.
 
 It started with Victor Chin. Why did Victor Chin suddenly reveal all this, and why did he dare to do so. That's why there are "slip-ups" from PKR — there are a lot of them now — who say I'm defending Victor Chin, as if I'm supporting the "corporate mafia" that they themselves call a devil. So before we get into the specifics of who Mr. R is and who the MP is, we need this background picture first — otherwise it's like a blank canvas. The details are just the painting; if we don't know what the canvas is, we won't get the full picture.
 
@@ -286,9 +286,9 @@ So when we lay out this canvas, that's where the clash occurs between the intere
 
 That's the starting point of this story. Based on this shared interest, Victor Chin and Farhaj did indeed meet, and eventually through discussions, they agreed to cooperate on this project to take over NextG. So they started as partners and as one team. Victor Chin's task, as I understand it, was to carry out the takeover of NextG from the existing shareholders. Once control was secured, his task was also to improve NextG's profile and image...
 
-**Host:** Was this takeover done legally or not?
+**Farhan (Pa'an):** Was this takeover done legally or not?
 
-**Rafizi Ramli:** That's what will answer the question about Mr. R later — otherwise, people will keep wondering what this whole Mr. R story is about. What needs to be understood first is that the story is about taking over NextG through share consolidation — meaning, taking over shares so he controls NextG. His task as a corporate turnaround specialist was then to improve NextG's image and prepare a pipeline of business that could be brought to the government.
+**Rafizi:** That's what will answer the question about Mr. R later — otherwise, people will keep wondering what this whole Mr. R story is about. What needs to be understood first is that the story is about taking over NextG through share consolidation — meaning, taking over shares so he controls NextG. His task as a corporate turnaround specialist was then to improve NextG's image and prepare a pipeline of business that could be brought to the government.
 
 That's why, before October 2025, Victor Chin was the COO of NextG, while the CEO was Dato' Abu Hanifah — the original shareholder and, arguably, a co-founder of NextG. So Victor Chin, as COO, was officially the number two person in the company.
 
@@ -330,9 +330,9 @@ Even if it turns out the politician, minister, or interested party has been misu
 
 So before we get into the story of Mr. R and the RM9.5 million, understanding this background will allow Malaysians to ask their own question — is this something we can tolerate?
 
-**Host:** But when YB says you answer the unreasonable accusations made against you, we heard a few weeks ago the PM's name mentioned in CNA, and now YB is mentioning it again — but there seems to be no response at all. That's very worrying.
+**Farhan (Pa'an):** But when YB says you answer the unreasonable accusations made against you, we heard a few weeks ago the PM's name mentioned in CNA, and now YB is mentioning it again — but there seems to be no response at all. That's very worrying.
 
-**Rafizi Ramli:** Yes. The first person to mention Anwar Ibrahim's name in this matter wasn't me — even though I already knew about it at the time. If I had mentioned it then, during the NextG takeover, when Datuk Abu Hanifah first began making public statements about the struggle within NextG's board, I didn't say anything because I knew that if I did, people would immediately jump in and say I was slandering.
+**Rafizi:** Yes. The first person to mention Anwar Ibrahim's name in this matter wasn't me — even though I already knew about it at the time. If I had mentioned it then, during the NextG takeover, when Datuk Abu Hanifah first began making public statements about the struggle within NextG's board, I didn't say anything because I knew that if I did, people would immediately jump in and say I was slandering.
 
 It was CNA, a media agency, that mentioned the name. Aside from Farhaj sending a Letter of Demand — I don't know whether he's actually suing or not — CNA's report is still up. Not taken down, no apology, nothing. And the Prime Minister still hasn't said a single word, and now this new story comes out too.
 
@@ -344,15 +344,15 @@ I just hope that people who are still in doubt, who say Rafizi is simply "sulkin
 
 That's what I've stressed all along. If you look at my podcasts before I was sued by Farhaj last year — as early as July 2025 I already said this, because at that time I had already heard rumours about this matter — I had already asked Dato' Seri Anwar to deal with the issue related to Farhaj. I said it to him openly, and privately I gave my own veiled warning: "please deal with this Farhaj issue, otherwise it will become a burden." Less than a year later, this is what it's become.
 
-**Rafizi Ramli:** Alright, go ahead and ask your question, I need to drink some water first.
+**Rafizi:** Alright, go ahead and ask your question, I need to drink some water first.
 
-**Host:** Let's leave the Prime Minister with his defining silence. We might move on to Mr. R and this RM9.5 million. Though maybe we first need to understand the dynamics of the relationship between Mr. R and Victor Chin — they were initially partners, but then... Should we start with Mr. R first, or the RM9.5 million MP first?
+**Farhan (Pa'an):** Let's leave the Prime Minister with his defining silence. We might move on to Mr. R and this RM9.5 million. Though maybe we first need to understand the dynamics of the relationship between Mr. R and Victor Chin — they were initially partners, but then... Should we start with Mr. R first, or the RM9.5 million MP first?
 
-**Rafizi Ramli:** The MP works too.
+**Rafizi:** The MP works too.
 
-**Host:** Let's start with the MP first — okay, okay, because the story flows better that way. Alright, good. The MP, YB — YB gave two characteristics, and within PKR people would agree these two characteristics match our guest, Saudara Ramanan. So is it right for YB to go ahead and accuse him just like that, when Dato' Seri Ramanan himself has said, "please name me, I will sue him"?
+**Farhan (Pa'an):** Let's start with the MP first — okay, okay, because the story flows better that way. Alright, good. The MP, YB — YB gave two characteristics, and within PKR people would agree these two characteristics match our guest, Saudara Ramanan. So is it right for YB to go ahead and accuse him just like that, when Dato' Seri Ramanan himself has said, "please name me, I will sue him"?
 
-**Rafizi Ramli:** That's nothing yet — next he'll tell me to go sell ice cream to Eskimos — that's Anwar Ibrahim who can sell ice cream to Eskimos, I'm a very bad salesman.
+**Rafizi:** That's nothing yet — next he'll tell me to go sell ice cream to Eskimos — that's Anwar Ibrahim who can sell ice cream to Eskimos, I'm a very bad salesman.
 
 So the question that comes up from netizens' comments — no matter how hard I try to explain it, they still don't get it. To the netizens — even though we Malays love gossip, that's a separate matter — every time I speak, I have to be fair. I can't say something unfair to someone else. That's one thing. It's fine for netizens — they comment, they bash whatever they like, there's no consequence for them, only sin falls on them. For me, if I'm not fair, the sin falls directly on me. Then, as a public figure, I have a responsibility to be fair. I also carry an extra layer that netizens don't have — every single word I say can be sued over.
 
@@ -384,15 +384,15 @@ But how to actually hand over that RM10 million to settle everything — he had 
 
 So I think that's when Victor Chin thought about approaching a senior PKR leader. He didn't start with an ordinary backbench MP — meaning, he started with senior PKR leadership, in October 2025.
 
-**Host:** October 2025? What were we doing at that time?
+**Farhan (Pa'an):** October 2025? What were we doing at that time?
 
-**Rafizi Ramli:** Podcast.
+**Rafizi:** Podcast.
 
-**Host:** Oh right, we were doing a podcast — it was fairly gloomy back then.
+**Farhan (Pa'an):** Oh right, we were doing a podcast — it was fairly gloomy back then.
 
-**Host:** October 2025, right? We opened the case, um—
+**Farhan (Pa'an):** October 2025, right? We opened the case, um—
 
-**Rafizi Ramli:** We're busy right now opening Flexi Mart — we're opening in the first week of November. So we're really busy with things like this. They were busy with this issue too, so they needed to approach a senior PKR leader. MP status is secondary — I think what matters are certain traits. First, he had to be a senior PKR leader because this is a big deal. Second, the person had to be close to Dato' Seri Anwar as well as to Farhaj, because these pressures involve the government and the most powerful people within the government who could put a stop to it. Farhaj matters because the opposing side to Victor Chin's group is the group associated with Farhaj.
+**Rafizi:** We're busy right now opening Flexi Mart — we're opening in the first week of November. So we're really busy with things like this. They were busy with this issue too, so they needed to approach a senior PKR leader. MP status is secondary — I think what matters are certain traits. First, he had to be a senior PKR leader because this is a big deal. Second, the person had to be close to Dato' Seri Anwar as well as to Farhaj, because these pressures involve the government and the most powerful people within the government who could put a stop to it. Farhaj matters because the opposing side to Victor Chin's group is the group associated with Farhaj.
 
 These two traits are important. So to answer the netizens — if Mr. R is Ruben, why did Ramanan suddenly get angry and hold a press conference, when nobody even mentioned his name? For those who know, Mr. R is not the accused MP — Mr. R is a different individual from the PKR MP in question. So why did he blow up to the point of dragging in all these other issues at once?
 
@@ -436,23 +436,23 @@ From Victor Chin's point of view, this was better because Dato' Ishak had money 
 
 I want to explain to people what a term sheet is. This kind of agreement has several stages — for example, if my company has an international VC (venture capital) wanting to invest, we don't go straight to signing the full agreement; we sign a term sheet first, like a letter of intent that lists the key clauses and terms. So this is what happened: Khairul Adib, Anwar Abdul Hamid and Victor Chin were forced to sign a term sheet for a comprehensive settlement agreement with the corporate mafia gang. As a result of that term sheet, Victor, Tan Sri (his shares held under the company Sky Limit), and Anwar (his shares held under the company Trentroof) agreed to sell all their NextG shares to the corporate mafia at a fixed price. In return, the corporate mafia gang agreed to use best efforts to cooperate with and manage the authorities to cancel the account freezes and all investigative actions under PDRM and AMLA — including ensuring everything ends with no further action.
 
-**Host:** Hmm.
+**Farhan (Pa'an):** Hmm.
 
-**Rafizi Ramli:** Listen to this — this is the killer, the killer, the killer. The investor and the buyer — meaning the corporate mafia gang — would use their best efforts to cooperate with the Prime Minister's Office and other enforcement agencies to cancel the actions and clear the names of the Vendors and Guarantor.
+**Rafizi:** Listen to this — this is the killer, the killer, the killer. The investor and the buyer — meaning the corporate mafia gang — would use their best efforts to cooperate with the Prime Minister's Office and other enforcement agencies to cancel the actions and clear the names of the Vendors and Guarantor.
 
-**Host:** Goodbye.
+**Farhan (Pa'an):** Goodbye.
 
-**Host:** And there's no... Hmm... don't say anything — but do they not specify who exactly at the office, that kind of thing?
+**Farhan (Pa'an):** And there's no... Hmm... don't say anything — but do they not specify who exactly at the office, that kind of thing?
 
-**Rafizi Ramli:** Right, there isn't. If something like this comes out, if I were Anwar Ibrahim, I'd file a police report immediately — all of this needs to be investigated, misuse of my name, misrepresenting me, "I have nothing to do with this, this, this, this." I would genuinely be furious — this creates a national problem that doesn't even exist, scammers using my name like this, I would come out and make a special statement. But let's wait and see. So this Ruben really is just a flunky.
+**Rafizi:** Right, there isn't. If something like this comes out, if I were Anwar Ibrahim, I'd file a police report immediately — all of this needs to be investigated, misuse of my name, misrepresenting me, "I have nothing to do with this, this, this, this." I would genuinely be furious — this creates a national problem that doesn't even exist, scammers using my name like this, I would come out and make a special statement. But let's wait and see. So this Ruben really is just a flunky.
 
 What matters is that this global settlement agreement shows that we are now living in a country where certain groups can, without any shame, draw up an agreement stating "I can fix this." In law — I remember when I was drafting commercial agreements before, we used to have huge arguments over "endeavour" versus "effort." Back when I was younger, my legal counsel would fight tooth and nail with the commercial team. For instance, back at Petronas, we'd build a plant to supply propylene to a buyer as feedstock — the gas supply needed to be continuous throughout the year, but sometimes there'd be an unplanned shutdown. So in the performance delivery clause, the point of contention was: how much effort do you make to ensure consistency of supply? This involved billions of ringgit — under law worldwide, if you sign "best endeavour" or "best effort," the standard is that you must move heaven and earth to make it happen. This corporate mafia gang gave an undertaking of "best effort" for NFA — they'd have to move heaven and earth. At most, legal counsel would agree it's merely "reasonable effort."
 
 Anyhow, coming back to this — the Prime Minister's name, the Prime Minister's Office's name is mentioned. Then, this part concerns prosecution and investigation, where the Home Minister is also mentioned. Throughout this whole issue, there hasn't been a single statement addressing the allegation that AMLA and PDRM were abused to apply pressure. The IGP hasn't given a direct answer either. Neither has the Home Minister. I know Saifuddin feels caught in the middle.
 
-**Host:** Hmm.
+**Farhan (Pa'an):** Hmm.
 
-**Rafizi Ramli:** He feels caught in the middle because this involves Farhaj, and involving Farhaj means involving Anwar Ibrahim. What's the relationship between Dato' Saifuddin and Farhaj like? Not good — Farhaj strongly dislikes Saifuddin. That's why every time there's a reshuffle, there's always speculation that Saifuddin will be dropped, because Saifuddin is clearly uncomfortable with Farhaj.
+**Rafizi:** He feels caught in the middle because this involves Farhaj, and involving Farhaj means involving Anwar Ibrahim. What's the relationship between Dato' Saifuddin and Farhaj like? Not good — Farhaj strongly dislikes Saifuddin. That's why every time there's a reshuffle, there's always speculation that Saifuddin will be dropped, because Saifuddin is clearly uncomfortable with Farhaj.
 
 Here's a story I may not have told before. Remember back during the PKR election? When that whole matter got heated, Izzah asked to meet me. I have respect for Saifuddin — we've known each other a long time, decades. Even though I had actually already closed that chapter, out of respect, I agreed when she pleaded to meet at her house. Izzah offered me the position of appointed Deputy President. This is something I haven't told before — the reason Izzah pleaded for us to join forces, Raf, to save the party, was because we needed to unite to fight Farhaj within the party. Otherwise, Farhaj would control everything, and in the coming election he would contest for Deputy President or rise to President, and with his power and money, he would take over the party and ruin it.
 
@@ -460,15 +460,15 @@ Izzah sat to my left, I was in the middle, Saifuddin to my right. Saifuddin pour
 
 When all these questions come out — and what can the Attorney-General even say? Without any shame, a party can claim it can fix things so there'll be no further action. Malaysia is very sensitive about this NFA issue — there's the case of Dato' Seri Zahid with 47 charges getting an NFA, the AG withdrew all of them. Now there's a written agreement about NFA. What's the Attorney-General's position on this matter? I'm sure Victor Chin has already circulated this document — it's not just me who has it, the media has it, politicians have it, embassies probably have it too, even the CIA probably has it. Go on, answer it. Well, goodbye then.
 
-**Host:** Speechless.
+**Farhan (Pa'an):** Speechless.
 
-**Rafizi Ramli:** Absolutely speechless. So let's do some yoga for a moment — let's breathe in, hold for 3 seconds, breathe out. Maybe in an upcoming episode there'll be more new revelations. The one who has all this evidence is Victor Chin. I've been informed that there's a middleman trying to resolve this matter with Victor Chin right now — no resolution yet. If more comes out, more will come out. But if suddenly Victor Chin goes *poof*, disappears, and we think "oh, it's been settled" — Malaysians shouldn't forget. This whole story has already come out, don't forget it.
+**Rafizi:** Absolutely speechless. So let's do some yoga for a moment — let's breathe in, hold for 3 seconds, breathe out. Maybe in an upcoming episode there'll be more new revelations. The one who has all this evidence is Victor Chin. I've been informed that there's a middleman trying to resolve this matter with Victor Chin right now — no resolution yet. If more comes out, more will come out. But if suddenly Victor Chin goes *poof*, disappears, and we think "oh, it's been settled" — Malaysians shouldn't forget. This whole story has already come out, don't forget it.
 
 Just like last year — people were cursing me over the judiciary issue. We know in Malaysia, when it comes to those in power, if we don't fight back and don't speak up, the matter will just disappear on its own. To make sure that kind of damage doesn't continue, you have to fight, you have to speak up. Same with the judiciary issue — we knew there was an attempt at interference, but when we fought back and made noise, suddenly they couldn't proceed and would claim "there's nothing going on." If suddenly this Victor Chin story disappears, goes quiet, nothing happens — and Tan Sri/Dato' Seri Anwar says "this is all Rafizi lying, Rafizi is just slandering" — even though we already know it's currently being negotiated, that there's a middleman trying to resolve it. If it drags on, that means this global settlement agreement still hasn't been carried out. If it suddenly goes quiet, that means they live happily ever after — and the only ones who suffer are the people. The good people. Okay, let's move on to what's next.
 
-**Host:** One topic that...
+**Farhan (Pa'an):** One topic that...
 
-**Rafizi Ramli:** The people suffer too. The people suffer. A story of suffering — that's what this story means. The war in Iran and the economy taking a hit, just starting to look up. Perhaps I should begin with some of the rebuttal statements given by opposition allies regarding what the Prime Minister has done with the decision to raise fuel prices, particularly diesel — that it will have cost implications for the supply chain and transportation. That's one thing. And in this situation we also need to look at how effective the government's move to reduce Budi95 has been — how far can it go in terms of actual government savings?
+**Rafizi:** The people suffer too. The people suffer. A story of suffering — that's what this story means. The war in Iran and the economy taking a hit, just starting to look up. Perhaps I should begin with some of the rebuttal statements given by opposition allies regarding what the Prime Minister has done with the decision to raise fuel prices, particularly diesel — that it will have cost implications for the supply chain and transportation. That's one thing. And in this situation we also need to look at how effective the government's move to reduce Budi95 has been — how far can it go in terms of actual government savings?
 
 I'm not sure when people comment about diesel, about logistics, the whole logistics chain — this is Syahir Bacok's language, let's say — whether he's actually checked properly on the diesel targeted subsidy system. Because the ones truly bearing the burden of the now-expensive diesel — it's over RM5 now, RM5.52 — are ordinary people who use diesel. I recall there are 14–15 categories of industries and vehicles considered involved in logistics or public transport that actually get subsidised diesel at RM2.15. So we need to look at the inflation reports over the next one or two months. But actually the majority of the logistics network in Malaysia — whether lorries, buses, school buses, vans, all of that — is counted as part of the logistics and transport network, and they get RM2.15. So I think the impact on the rise in logistics costs is much lower than what people think. I understand ordinary people might not know about this diesel targeted subsidy system. But if a Member of Parliament for Bacok named Syahir Nomik doesn't know this, that's embarrassing.
 
@@ -482,27 +482,27 @@ The thinking of officials or the government goes like this: when they want to gi
 
 So on this diesel matter, when the price rose to RM5.52 — if we look at who's making the most noise among netizens, it's those who actually use diesel pickup trucks and ordinary citizens who don't fall into the targeted category mentioned earlier. How big is this group? It's not a majority like RON95 users, which is why this protest fire doesn't look too big yet. So in my view, what the government needs to do now is urgently close that leakage gap. This diesel targeted subsidy design programme is already two years old — we announced it in June 2024, and it's coming up to June 2025... eh, 2026. It's been two years. So actually we now have enough data and public feedback to identify the exclusion errors and inclusion errors. Exclusion error, as I mentioned earlier — people who should be helped but get nothing, so the burden on them is huge. Take a pickup truck now, filling up once costs RM400, around RM450 — so how many times a month does one fill up?
 
-**Host:** If...
+**Farhan (Pa'an):** If...
 
-**Rafizi Ramli:** If...
+**Rafizi:** If...
 
-**Host:** ...calculating the budget, it's not too tight to bring...
+**Farhan (Pa'an):** ...calculating the budget, it's not too tight to bring...
 
-**Rafizi Ramli:** Don't bring the name into it, eh...
+**Rafizi:** Don't bring the name into it, eh...
 
-**Host:** You can...
+**Farhan (Pa'an):** You can...
 
-**Rafizi Ramli:** ...probably get two fill-ups a month. So that means around RM900 a month. So actually using diesel is economical if it's not expensive — if it's not expensive, okay. So RM900 a month. So if you get a subsidy of at least RM300, it becomes RM600 — meaning one fill-up costs RM300, still quite high. But at RM900, at least it's not as painful. RM300 still matters a lot, especially to those who are somewhat young — well, not just the young, even older folks feel it too, if it's RM900 a month on fuel. So that's something I haven't heard anything about from Dato' Seri Amir Hamzah. Because after one year there should already be a review, there should already be improvements to the programme. That's one matter regarding diesel.
+**Rafizi:** ...probably get two fill-ups a month. So that means around RM900 a month. So actually using diesel is economical if it's not expensive — if it's not expensive, okay. So RM900 a month. So if you get a subsidy of at least RM300, it becomes RM600 — meaning one fill-up costs RM300, still quite high. But at RM900, at least it's not as painful. RM300 still matters a lot, especially to those who are somewhat young — well, not just the young, even older folks feel it too, if it's RM900 a month on fuel. So that's something I haven't heard anything about from Dato' Seri Amir Hamzah. Because after one year there should already be a review, there should already be improvements to the programme. That's one matter regarding diesel.
 
 So ultimately it comes back to what we call "only look up after being hit" — it comes back to the fundamental difference in views between me and Dato' Seri Anwar and Dato' Seri Amir Hamzah. That is, if we really want to fix the situation regarding blanket subsidies and the nation's economic position, we can't just do a quick patch job. Previously there were two views. On my side, my view was that the fuel subsidy issue is not merely a matter of... hold on a second, I just got an important message. Bismillahirrahmanirrahim. I just got a message — Ramanan has sent someone, lawyer to lawyer, to settle RM9.5 million. Oh, live update.
 
-**Host:** Live update.
+**Farhan (Pa'an):** Live update.
 
-**Rafizi Ramli:** So that's a relief — but this is information I've received, maybe Victor Chin will go quiet but the YB will be sued. Huh? Maybe Victor Chin will go quiet but he'll be sued by Ramanan. Like I said, Victor Chin will go quiet but Ramanan will sue. That's why he was confident, he flared up earlier because he knew he'd settle. As I said, he'll settle for RM9.5 million.
+**Rafizi:** So that's a relief — but this is information I've received, maybe Victor Chin will go quiet but the YB will be sued. Huh? Maybe Victor Chin will go quiet but he'll be sued by Ramanan. Like I said, Victor Chin will go quiet but Ramanan will sue. That's why he was confident, he flared up earlier because he knew he'd settle. As I said, he'll settle for RM9.5 million.
 
-**Host:** Just having that kind of money and settling like that. Even if I owed RM2, I wouldn't bother.
+**Farhan (Pa'an):** Just having that kind of money and settling like that. Even if I owed RM2, I wouldn't bother.
 
-**Rafizi Ramli:** Touch code, T20, live update. It comes back to the main difference in views — that is, the approach currently being taken with Budi 95, that approach seems popular to Dato' Seri Anwar, to MOF for example, Dato' Seri Amir Hamzah — he looks like Dato' Seri Anwar's top champion because he's boosting Dato' Seri Anwar's popularity, but it doesn't solve the problem. And I've said many times that this only looks okay if oil prices stay low, $60, $65 or thereabouts, or lower. But if oil prices spike upward, surge, everything we've done for fiscal consolidation, to improve the government's financial position, all of it will be wiped out.
+**Rafizi:** Touch code, T20, live update. It comes back to the main difference in views — that is, the approach currently being taken with Budi 95, that approach seems popular to Dato' Seri Anwar, to MOF for example, Dato' Seri Amir Hamzah — he looks like Dato' Seri Anwar's top champion because he's boosting Dato' Seri Anwar's popularity, but it doesn't solve the problem. And I've said many times that this only looks okay if oil prices stay low, $60, $65 or thereabouts, or lower. But if oil prices spike upward, surge, everything we've done for fiscal consolidation, to improve the government's financial position, all of it will be wiped out.
 
 We already know, for example when Budi 95 was implemented, Dato' Seri Amir Hamzah himself said the annual savings would be RM2.5 billion — that's just the annual subsidy savings. Now, with just one price increase, it becomes RM3.2 billion a year. So within just one month it wipes out everything. And when it wipes out everything under current conditions, the public starts to see that there really is a genuine global energy crisis and that market price. On the government's side and among government supporters, they keep tossing around — how good of the government to bear this — eh, that's the government's job with money, the people's money. The government's job is to determine how to manage that money in the best way so it delivers the best value, not just for us now.
 
@@ -514,9 +514,9 @@ We took a different path. I recall in the 80s and 90s, oil prices didn't spike l
 
 So one, we don't know how long this war will drag on. But let's say Dato' Seri Amir Hamzah is right, that the war, with Dato' Seri Anwar's help, might end within one or two months — let's say two weeks from now. I wonder, once the war ends, will oil prices return to normal, to $60 a barrel, or not? Based on what the YB said before, it won't come down. Why?
 
-**Host:** I mean, a lot of the facilities in the Middle East...
+**Farhan (Pa'an):** I mean, a lot of the facilities in the Middle East...
 
-**Rafizi Ramli:** Oh, I've mentioned this before — invested in by western countries, all of it. So we need to remember, oil and gas has a characteristic called a long-term gestation period. A decision to invest takes time, they calculate returns over the next 20–30 years — it's not like me selling nasi lemak in Keramat, you know, 20–30 years ahead. So they look at the macro picture 20–30 years ahead, supply-demand for one, financing too. After a war occurs, there are two things we know will push crude oil prices higher in the future.
+**Rafizi:** Oh, I've mentioned this before — invested in by western countries, all of it. So we need to remember, oil and gas has a characteristic called a long-term gestation period. A decision to invest takes time, they calculate returns over the next 20–30 years — it's not like me selling nasi lemak in Keramat, you know, 20–30 years ahead. So they look at the macro picture 20–30 years ahead, supply-demand for one, financing too. After a war occurs, there are two things we know will push crude oil prices higher in the future.
 
 First, because all the facilities that need replacing require money — everything's damaged, needs money, will take time. So it's not that once the war stops, everything goes back up immediately. There are shutdowns, need to repair everything, that requires money, and when it requires money, it's a combination of extra cost and extra curtailment of supply. So supply is most probably tight for the next five or six months — even if we don't say years, at least five or six months ahead. So you would expect crude oil prices won't drop sharply — maybe down to $90, $80, something like that, I think. I think for it to return to $60 a barrel, which is the level Budi 95's calculations were based on, that's not that easy in my view.
 
@@ -548,9 +548,9 @@ That's why, for me — this is the last thing I want to say about this — I've 
 
 Then I look at the opposition. The only statement that came from Perikatan Nasional was that Dato' Seri Dr. Hamzah — the PN Chairman — said the government must form a non-partisan committee involving them to make decisions. He wants to form a committee too. His issue isn't a committee issue — if you want to form a committee, go ahead. But if decisions can't be made because politicians still want to be populist, if long-term decisions can't be made, then it just becomes like every other committee that's ever existed — one after another.
 
-**Host:** A bit of a devil's advocate question. Perhaps the public's addiction to cheap fuel prices — people get angry saying the public is addicted — was also contributed to by politicians through past speeches. For example, oil prices at a certain level — I think that's fine too, maybe at the time looking at what the "brand" price was. But there are those who say that Malaysia is an oil producer, so it's better for the subsidy to be distributed to the people. This is most famously Dato' Seri Najib, but the YB might have said a bit of that too. So how would the YB respond?
+**Farhan (Pa'an):** A bit of a devil's advocate question. Perhaps the public's addiction to cheap fuel prices — people get angry saying the public is addicted — was also contributed to by politicians through past speeches. For example, oil prices at a certain level — I think that's fine too, maybe at the time looking at what the "brand" price was. But there are those who say that Malaysia is an oil producer, so it's better for the subsidy to be distributed to the people. This is most famously Dato' Seri Najib, but the YB might have said a bit of that too. So how would the YB respond?
 
-**Rafizi Ramli:** No, the actual situation needs to be kept dynamic. The situation must be reviewed from time to time. Earlier I gave the example of diesel — when the programme design was made in 2024, that was the best thinking at the time. After two years, we'll identify exclusion errors and inclusion errors, so we improve it. Same with Budi 95, I think — at the time, the need — even though I myself never fully agreed with that approach — the need was felt to be the best balance for the public so that inflation or the government's popularity wouldn't be affected. Because Dato' Seri Anwar is very traumatised about oil price increases, since he campaigned on the oil price issue before.
+**Rafizi:** No, the actual situation needs to be kept dynamic. The situation must be reviewed from time to time. Earlier I gave the example of diesel — when the programme design was made in 2024, that was the best thinking at the time. After two years, we'll identify exclusion errors and inclusion errors, so we improve it. Same with Budi 95, I think — at the time, the need — even though I myself never fully agreed with that approach — the need was felt to be the best balance for the public so that inflation or the government's popularity wouldn't be affected. Because Dato' Seri Anwar is very traumatised about oil price increases, since he campaigned on the oil price issue before.
 
 I can see, if this situation continues, Budi 95 no longer meets its target and has no impact on efforts to curb national subsidies. Similarly, back in early 2008, for example — at that time oil prices were still around $40, $50, and it spiked to over $80 in 2008. That's one thing. Second, Malaysia's crude oil reserves and production were still high at that time. And global oil demand at that time was not like now, where the biggest oil markets in the world are China and India, with their huge populations. So I think the situation has changed a lot. We have to accept the reality — as I said, our crude oil is basically gone; off the coast of Terengganu it's really depleted, whatever oil remains is mostly off the coast of Sabah and Sarawak, and what remains in Terengganu is mostly gas, plus from the JDA — Joint Development Area — with Thailand.
 
@@ -564,40 +564,40 @@ A warning also to PAS, Bersatu, UMNO — if they continue with such populist nar
 
 I don't think we can get to issue number three, number four — three hours, we've been at this for three hours.
 
-**Host:** It's fine, let's postpone it further.
+**Farhan (Pa'an):** It's fine, let's postpone it further.
 
-**Rafizi Ramli:** So, for those who want to know whether "Rafizi is the Most Failed Minister," and also for me to respond to all sorts of people brought up — Luqman Nur Adam, Luqman Nur Adam can claim that he supposedly put the idea in my head, that he recruited the YB.
+**Rafizi:** So, for those who want to know whether "Rafizi is the Most Failed Minister," and also for me to respond to all sorts of people brought up — Luqman Nur Adam, Luqman Nur Adam can claim that he supposedly put the idea in my head, that he recruited the YB.
 
-**Host:** Yes.
+**Farhan (Pa'an):** Yes.
 
-**Rafizi Ramli:** If that's true I'd be embarrassed. Okay. The first time I met Luqman Nur Adam was when he said he went to London — supposedly to recruit me.
+**Rafizi:** If that's true I'd be embarrassed. Okay. The first time I met Luqman Nur Adam was when he said he went to London — supposedly to recruit me.
 
-**Host:** Yes, yes.
+**Farhan (Pa'an):** Yes, yes.
 
-**Rafizi Ramli:** You want to know what actually happened?
+**Rafizi:** You want to know what actually happened?
 
-**Host:** Ha, what happened?
+**Farhan (Pa'an):** Ha, what happened?
 
-**Rafizi Ramli:** I joined PKR or the reformasi movement actually — well, because I knew Dato' Seri Anwar earlier, when he was sacked, I followed friends. So before PKR even existed, at that time Luqman Nur Adam was still in UMNO, I was already there. Just to tell the story. What year was this — 2000, I think. Izam Mokhno, whatever, he had a meeting in London. So he wanted to meet in London. Okay, fine. But Izam said he wanted to bring Luqman Nur Adam along — at that time Luqman Nur Adam was the PKR Youth Chief. But Izam didn't want to pay for his hotel, only paid for the flight ticket. So he had to find a place to stay, a place to crash — well, he ended up crashing on the floor of my room. That was the first time I...
+**Rafizi:** I joined PKR or the reformasi movement actually — well, because I knew Dato' Seri Anwar earlier, when he was sacked, I followed friends. So before PKR even existed, at that time Luqman Nur Adam was still in UMNO, I was already there. Just to tell the story. What year was this — 2000, I think. Izam Mokhno, whatever, he had a meeting in London. So he wanted to meet in London. Okay, fine. But Izam said he wanted to bring Luqman Nur Adam along — at that time Luqman Nur Adam was the PKR Youth Chief. But Izam didn't want to pay for his hotel, only paid for the flight ticket. So he had to find a place to stay, a place to crash — well, he ended up crashing on the floor of my room. That was the first time I...
 
-**Host:** No wonder there was drama for no reason.
+**Farhan (Pa'an):** No wonder there was drama for no reason.
 
-**Rafizi Ramli:** For no reason at all! Are you crazy or what, Khumar, don't bring up things that could be embarrassing. Right. So he ended up staying in my room, sleeping on the floor. I felt sorry looking at him, this supposed "reformasi fighter" — sleeping on the floor of my room, because he really wanted to go to London but had no money, and no one could pay for his accommodation. So I helped, let him stay on the floor of my room. That was the first time I met Luqman Nur Adam. So I want to correct the record — he didn't bring me into PKR, I brought him into my room.
+**Rafizi:** For no reason at all! Are you crazy or what, Khumar, don't bring up things that could be embarrassing. Right. So he ended up staying in my room, sleeping on the floor. I felt sorry looking at him, this supposed "reformasi fighter" — sleeping on the floor of my room, because he really wanted to go to London but had no money, and no one could pay for his accommodation. So I helped, let him stay on the floor of my room. That was the first time I met Luqman Nur Adam. So I want to correct the record — he didn't bring me into PKR, I brought him into my room.
 
 So the one called "Eng Lom" — who is "Eng Lom" — nobody remembers him, his name, he claims he's a founder of PKR, but nobody remembers who he is. Let's postpone that to next week.
 
-**Host:** Okay, hope it's not stale by then.
+**Farhan (Pa'an):** Okay, hope it's not stale by then.
 
-**Rafizi Ramli:** Eh, it's fine, people like that kind of gossip story. That's about it I think. Same with what KJ said — "oh, the most useless opposition" — that's exactly what those sycophants who've been propping KJ up all this while deserve. So we'll postpone that to next week.
+**Rafizi:** Eh, it's fine, people like that kind of gossip story. That's about it I think. Same with what KJ said — "oh, the most useless opposition" — that's exactly what those sycophants who've been propping KJ up all this while deserve. So we'll postpone that to next week.
 
 Happy Hari Raya.
 
-**Host:** Happy Hari Raya.
+**Farhan (Pa'an):** Happy Hari Raya.
 
-**Rafizi Ramli:** Watch what you eat, don't overdo it. I've already put on a kilo.
+**Rafizi:** Watch what you eat, don't overdo it. I've already put on a kilo.
 
-**Host:** It's fine, you can lose it again.
+**Farhan (Pa'an):** It's fine, you can lose it again.
 
-**Rafizi Ramli:** Okay.
+**Rafizi:** Okay.
 
-**Host:** Okay, bye.
+**Farhan (Pa'an):** Okay, bye.

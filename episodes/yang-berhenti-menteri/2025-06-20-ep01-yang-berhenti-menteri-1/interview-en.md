@@ -9,6 +9,7 @@ duration: 1h 20m
 view_count: 134859
 hosts:
 - Rafizi
+- Haziq
 guests: []
 topics:
 - Resignation as Minister of Economy
@@ -17,12 +18,12 @@ topics:
 - Economic Structural Reforms
 - The Third Sector and Civic Empowerment
 - Future Political Plans and Grassroots Strategy
-summary: In this episode, former Malaysian Minister of Economy Rafizi discusses
-  his decision to resign from the cabinet following internal PKR party elections.
-  He addresses public criticisms regarding his resignation, political dynamics with
-  Prime Minister Anwar Ibrahim, his achievements at the Ministry of Economy, the concept
-  of a 'third sector' to empower ordinary citizens, and his future political plans
-  focused on grassroots initiatives rather than forming a new political party.
+summary: In this episode, former Malaysian Minister of Economy Rafizi discusses his
+  decision to resign from the cabinet following internal PKR party elections. He addresses
+  public criticisms regarding his resignation, political dynamics with Prime Minister
+  Anwar Ibrahim, his achievements at the Ministry of Economy, the concept of a 'third
+  sector' to empower ordinary citizens, and his future political plans focused on
+  grassroots initiatives rather than forming a new political party.
 language: en
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
@@ -30,19 +31,19 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Interviewer:** My intro is not important today because we have a very rare outfit, YB's Springfield Village. Where did you get it? Because no one got it, but suddenly YB got it.
+**Haziq:** My intro is not important today because we have a very rare outfit, YB's Springfield Village. Where did you get it? Because no one got it, but suddenly YB got it.
 
 **Rafizi:** This is for free. I don't know, someone sent it to the office. But if I don't wear it, I'll die. I still call it Twitter now, even though everyone is calling it X.
 
-**Interviewer:** Apparently, these are the people who have changed their profile photos to characters from The Simpsons. Okay, I didn't actually watch The Simpsons, YB, sorry. Springfield Village, that place, is it in the story or not?
+**Haziq:** Apparently, these are the people who have changed their profile photos to characters from The Simpsons. Okay, I didn't actually watch The Simpsons, YB, sorry. Springfield Village, that place, is it in the story or not?
 
 **Rafizi:** Springfield is there, but you never know whether Springfield is in Ohio or Minnesota, because Springfield in the US is a common city name. So if you watch The Simpsons—I grew up with The Simpsons—the one mystery is actually which Springfield this is.
 
-**Interviewer:** But this is not a podcast about Springfield. So I just want to start. We don't want to talk about Springfield, but we want to talk about what people are actually saying. I think that's the whole conversation for today. That's what people say, whether you like it or you don't like it.
+**Haziq:** But this is not a podcast about Springfield. So I just want to start. We don't want to talk about Springfield, but we want to talk about what people are actually saying. I think that's the whole conversation for today. That's what people say, whether you like it or you don't like it.
 
-**Interviewer:** We have to answer it step by step, YB. I think the party election is over and various things have happened. YB has resigned, so people are asking about this.
+**Haziq:** We have to answer it step by step, YB. I think the party election is over and various things have happened. YB has resigned, so people are asking about this.
 
-**Interviewer:** We want to make a change, YB. Whatever the decision, YB has a platform to make a change as a minister. Why don't you just continue? Why do you have to resign? In people's eyes, they understand that a minister has the capacity and can do that—maybe some people think there's even a magic wand. But why did YB choose to resign?
+**Haziq:** We want to make a change, YB. Whatever the decision, YB has a platform to make a change as a minister. Why don't you just continue? Why do you have to resign? In people's eyes, they understand that a minister has the capacity and can do that—maybe some people think there's even a magic wand. But why did YB choose to resign?
 
 **Rafizi:** I don't think many people have been a minister. Before becoming a minister, I too had a different view of the process within government. It's not like if someone becomes a minister, they can just make decisions single-handedly and things immediately happen.
 
@@ -60,11 +61,11 @@ And as a minister who is seen to have lost the confidence of the Prime Minister 
 
 It's quite different between private companies and the government, because the government needs legitimacy to make changes. So if the message is clear, through this election, that the President and the Prime Minister have lost confidence in me, then for the interests of the nation, it is better to step down honorably.
 
-**Interviewer:** YB, I want to try a bit. Earlier YB talked about change, *and it's not* like a *magic stick* where a minister creates PADU and it immediately happens. And YB also mentioned in your post that YB is no longer bound by secrecy, so let me try asking. For example, about PADU...
+**Haziq:** YB, I want to try a bit. Earlier YB talked about change, *and it's not* like a *magic stick* where a minister creates PADU and it immediately happens. And YB also mentioned in your post that YB is no longer bound by secrecy, so let me try asking. For example, about PADU...
 
 **Rafizi:** Answer that later; otherwise we'll end up spending the whole night talking about technical stuff like that. Look at him trying. For me, it's easy—I just bully the moderator.
 
-**Interviewer:** Okay, alright. Let's move on to what people are saying next, YB. This is more from the perspective of pro-government supporters. They say that in every election, there are winners and losers. It's normal for the loser to be embraced, and the PM has already coaxed you, but why haven't you listened to this persuasion?
+**Haziq:** Okay, alright. Let's move on to what people are saying next, YB. This is more from the perspective of pro-government supporters. They say that in every election, there are winners and losers. It's normal for the loser to be embraced, and the PM has already coaxed you, but why haven't you listened to this persuasion?
 
 **Rafizi:** Coaxing, as I mentioned earlier, it's not a matter of being coaxed or not. I don't feel there is any good for the country if you become a *lame duck* minister who will drag down your own ministry, because the message and signal are clear.
 
@@ -96,7 +97,7 @@ So that's why, for me, the question of being upset or going back goes back to th
 
 If that matter is resolved, whether I'm in the party leadership or government or not, it's actually better. Because those who get support from the people are supported not because of our individuals, but because of the ideas, culture, and political values that we bring—which, in the last election, received a lot of criticism from the public.
 
-**Interviewer:** It's quite concerning when YB says you can't speak about this and that. But YB, this "sulking" narrative is actually the main argument of some supporters. To the public who might not get the full context, their logic is simple: YB was elected through an election in P100 Pandan, won, and became a minister. Then YB lost in an *internal election* that didn't involve the entire populace—only a small percentage was involved. So a view arises that resigning betrays the people's mandate. This is the public view from those who don't follow party elections closely.
+**Haziq:** It's quite concerning when YB says you can't speak about this and that. But YB, this "sulking" narrative is actually the main argument of some supporters. To the public who might not get the full context, their logic is simple: YB was elected through an election in P100 Pandan, won, and became a minister. Then YB lost in an *internal election* that didn't involve the entire populace—only a small percentage was involved. So a view arises that resigning betrays the people's mandate. This is the public view from those who don't follow party elections closely.
 
 **Rafizi:** We need to run longer political education classes. In the past, *there was civic education at school.* When there was *civic education*, usually once someone passed Form 5, they understood the system of government. But now I feel your generation didn't go through *civic education*, so they equate working for a company with working for the government. The employers are different.
 
@@ -112,17 +113,17 @@ If I may summarize further, the people want ministers to work, but ministers nee
 
 *Therefore, it is reasonable for the Prime Minister to appoint an Economic Minister who has his mandate and confidence so that he can direct other ministers and signal to civil servants. Only then will the government be able to function and carry out things as planned.*
 
-**Interviewer:** I think that makes sense. The Prime Minister is the party leader who appoints ministers, while the people only elect Members of Parliament. So to say that resigning as a minister betrays the people's mandate, *it's not related at all.*
+**Haziq:** I think that makes sense. The Prime Minister is the party leader who appoints ministers, while the people only elect Members of Parliament. So to say that resigning as a minister betrays the people's mandate, *it's not related at all.*
 
 Okay YB, today we want to talk about what people are saying. I want to return to the argument of those pro-government supporters earlier...
 
 **Rafizi:** Why are you always busy with them?
 
-**Interviewer:** We have to, YB, because people will bring it up anyway...
+**Haziq:** We have to, YB, because people will bring it up anyway...
 
 **Rafizi:** This is the problem, even the moderator has been influenced by these cybertroopers.
 
-**Interviewer:** *We have a lot of big things.* But okay, I think YB has answered that question many times. There's another allegation: "not a team player". In any organization, when something succeeds, it is because of teamwork. If you disagree with this and that, you're considered *not a team player*. How do you govern then? Isn't that right?
+**Haziq:** *We have a lot of big things.* But okay, I think YB has answered that question many times. There's another allegation: "not a team player". In any organization, when something succeeds, it is because of teamwork. If you disagree with this and that, you're considered *not a team player*. How do you govern then? Isn't that right?
 
 **Rafizi:** That's it, here we are spending tens of minutes answering just a group of four or five noisy people on TikTok and Twitter. It's easy to attack personally and commit *character assassination*.
 
@@ -130,7 +131,7 @@ People who have been politicians for a long time like me actually don't care at 
 
 If I weren't a *team player*—because some say the PM doesn't like me because I'm not a *team player*, allegedly only listening to my own opinion—I should have been fired wherever I worked. *But that's not the case. I had a wonderful career.* For example at Petronas, I was the youngest manager appointed at age 25—how old are you now?
 
-**Interviewer:** 27.
+**Haziq:** 27.
 
 **Rafizi:** When I was 25, I was already a unit head, already a manager. I became Head of Business Planning for Petronas' Petrochemical business at age 27. If I weren't a *team player*, I wouldn't have been promoted so quickly.
 
@@ -152,7 +153,7 @@ Every time the "team player" accusation comes out, I get worried. I've been in t
 
 So yeah, we don't need to entertain all these pro-government attacks. My views count is even higher than theirs on social media.
 
-**Interviewer:** YB mentioned earlier a view regarding team players. In politics, if someone dissents from the direction, it can be tough. But with YB's experience, if someone disagrees with YB, is it welcomed for added value to get the work done?
+**Haziq:** YB mentioned earlier a view regarding team players. In politics, if someone dissents from the direction, it can be tough. But with YB's experience, if someone disagrees with YB, is it welcomed for added value to get the work done?
 
 **Rafizi:** It's actually like this. If we are in a small team to do a program in a parliamentary constituency, everyone has a view—this person wants water, that person wants it done in front of his house, another says the neighbor is useless. Allow everyone to give their views.
 
@@ -164,7 +165,7 @@ But when you go higher up—for example when I was Vice President previously—i
 
 But in my case, when I was Deputy President, *the buck stops at me and also the President.* When it reaches a level where, despite my track record and contributions, there is no room for my views to be considered, then the only honorable thing for me to do is to withdraw.
 
-**Interviewer:** YB, *are you serious in getting the job done?* Because YB gave all sorts of formulas, and then YB *resigned*.
+**Haziq:** YB, *are you serious in getting the job done?* Because YB gave all sorts of formulas, and then YB *resigned*.
 
 **Rafizi:** Yes, I get a lot of messages and emails saying, "Oh, you have to stay to get the job done." First, at the risk of sounding repetitive, the dynamics of government are very important to understand. To carry out the work of reforming the economy, that's why the mandate is so important.
 
@@ -190,7 +191,7 @@ Rather than me staying in the cabinet, there are two problems. First, *if I stay
 
 It's better if I become a regular MP who can voice opinions openly. Any government needs good criticism and checks and balances. Given the current opposition, which is uninterested in administrative issues and focuses only on toxic, personal, nationalist issues, and minor details, *we need a backbencher that can keep the government on its toes.*
 
-**Interviewer:** YB, *having said that*, we understand the Ministry of Economy does a lot of macro planning. But there is a segment of society that feels YB's presence there didn't make any difference. How does YB respond to this criticism?
+**Haziq:** YB, *having said that*, we understand the Ministry of Economy does a lot of macro planning. But there is a segment of society that feels YB's presence there didn't make any difference. How does YB respond to this criticism?
 
 **Rafizi:** Do I need to respond? *It's as I say: your track record speaks for itself.* Whether one is in government or not differs from person to person. Some people view politics as 100% power, where the goal is to become a minister. *If his mindset is that only through power as a minister can he contribute to change, I don't really agree with that.*
 
@@ -226,19 +227,19 @@ So, if people ask about politics, about whether jobs are increasing or not, I th
 
 There are many more spaces that I think we can add value to. And I don't think we should pay attention to detractors. Detractors are easy to speak—that's their view. What's more important is: the more you have a good track record, the more you touch people's lives, the more people get benefit from your work. For me, I think that's my ultimate goal as a politician. Actually, I derive satisfaction from having an impact on common people's lives, and I'm a lot more comfortable doing that than being stuck on top where I feel my hands are tied and my mouth is locked.
 
-**Interviewer:** YB, when listeners hear this, there are two things they will look at. First, they observe what YB actually wants to do next. People expect a gung-ho approach to party politics, but end up asking: does YB feel politics no longer needs power, or does YB no longer want power?
+**Haziq:** YB, when listeners hear this, there are two things they will look at. First, they observe what YB actually wants to do next. People expect a gung-ho approach to party politics, but end up asking: does YB feel politics no longer needs power, or does YB no longer want power?
 
 **Rafizi:** I don't say it doesn't need power. But if there is a politician who says, "If we are not in the government, we cannot do anything," then we are politicians who actually cannot do anything. Because of that mindset—whether beating the roof or cutting the pole—as long as I am in the government, only then can I help. That is wrong, because the very definition of politics itself is the authoritative allocation of resources and values. And there are many ways to allocate resources. Resources are not 100% from the government. In fact, the larger resources in society are owned by the private sector or owned by ordinary people.
 
-**Interviewer:** Okay, YB. Regarding the third sector, I think many might be hearing about it for the first time and want to know more. Realistically, how can we do this in Malaysia?
+**Haziq:** Okay, YB. Regarding the third sector, I think many might be hearing about it for the first time and want to know more. Realistically, how can we do this in Malaysia?
 
 **Rafizi:** Never mind, wait until I announce it later. Otherwise, because they've written in big letters over there that time is almost up.
 
-**Interviewer:** Okay, YB. Next question...
+**Haziq:** Okay, YB. Next question...
 
 **Rafizi:** How long are we allowed to speak here? Are you guys trying to gag me here too?
 
-**Interviewer:** YB, a question from many people—I think we can't hold it back anymore. People are asking about YB's next topic of discussion. A new party—will YB be forming a new party?
+**Haziq:** YB, a question from many people—I think we can't hold it back anymore. People are asking about YB's next topic of discussion. A new party—will YB be forming a new party?
 
 **Rafizi:** Yeah, party. There is a way to win over defeat. It's a new thing—usually people form a party to win over victory, so I will make a party to win over defeat in early July. But not a political party; that's a kenduri party, a feast party!
 
@@ -266,7 +267,7 @@ They have a strong desire and the yearning to serve is still there; they want to
 
 So the answer is: there is no new party other than the feast party.
 
-**Interviewer:** But YB, there is a question related to that. If there is no new party, will YB and the team contest in the KEADILAN party election in 2028? That's what people will ask too.
+**Haziq:** But YB, there is a question related to that. If there is no new party, will YB and the team contest in the KEADILAN party election in 2028? That's what people will ask too.
 
 **Rafizi:** Yes, people will ask. But life is not in our hands—I've had a heart attack before, anything can happen. Talking about 2028 now is very premature, too early, because there are many variables. Between 2025 and 2028, many things can change.
 
@@ -280,7 +281,7 @@ This is not the first time I have stepped back from party leadership to work dir
 
 So there's nothing stopping me from focusing on that. What will happen one, two, or three years down the line, only time can tell. It's best not to be too calculative with every decision we make now, calculating political survival or posts. I don't think so. It's enough for me to go back and start numerous projects with the rakyat. I will pour my utmost attention and resources into it and see how it goes from there.
 
-**Interviewer:** YB, people expect a revolution—noise here and noise there. Others might already be bored. Don't you feel bored with what you want to do?
+**Haziq:** YB, people expect a revolution—noise here and noise there. Others might already be bored. Don't you feel bored with what you want to do?
 
 **Rafizi:** I don't know. I mean, it's like you never know until you try. Bored or not bored, that depends on your perspective. I'm always reminded of one thing: I always tell myself that actually you are not competing with others, you are competing with yourself. You set the limit for yourself, you draw your plan, you decide what your objective is, you decide what your job satisfaction is, and then you compete with yourself.
 
@@ -292,7 +293,7 @@ In the last two or three months, I've already thought about what I want to do. T
 
 After all, our understanding of politics is different. My understanding is that it's not necessarily about power or the position of a minister, but about freedom—the ability to have a good shot at solving a problem. That's very important to me in politics. And politics is, again I repeat, the authoritative allocation of resources and values. It never says that politics must strictly be the government, the minister, or the prime minister. So let me see. In the end, whether it's a political party, a party leader, or a politician, we are actually just marketers, right? We have to go back to the market outside. The market is the rakyat, and let the rakyat choose based on their own preference.
 
-**Interviewer:** Alright, YB. That's a lot of work to be done. I feel like time is running short. How long has this discussion been going on?
+**Haziq:** Alright, YB. That's a lot of work to be done. I feel like time is running short. How long has this discussion been going on?
 
 **Rafizi:** I don't know. Is it already 4 hours? I think it's 70 minutes. 70 minutes. I think our listeners are waiting to see what we want to do. We can't reveal everything here at once—it's like Netflix series, right? I don't want to tell you everything immediately; if I do, it becomes boring. It's like exposing a scandal: the rule of thumb is that if you want an issue to stick in the public's mind, it must be delivered progressively so that it stays in the newsroom and is discussed by the people for at least two weeks.
 
@@ -302,10 +303,10 @@ As long as you don't get bored watching my content every week or every day! For 
 
 Humans don't just listen when you talk to them, no matter how much you explain or present Einstein's theories or thick books proving the knowledge is on the dot. If they don't want to listen, they won't believe it. They have to go through it experientially. They have to see it and understand it themselves before making their own decisions. So today's podcast is actually the first trailer. After this, there will be more content. I hope those who agree or feel they can contribute as we go on in future weeks will come on board and see how they can join us to make a difference in our own way.
 
-**Interviewer:** Alright, YB. Thank you, YB. So I promise I won't talk about *pro-bono* anymore... but we will focus.
+**Haziq:** Alright, YB. Thank you, YB. So I promise I won't talk about *pro-bono* anymore... but we will focus.
 
 **Rafizi:** Yeah, you can go ahead and say it. Then I'll switch to another moderator! I already told him, if he doesn't do a good job or if I'm not satisfied, after the third episode I'll replace this guy!
 
-**Interviewer:** So guys, support me! Okay, we will focus on what we want to do, and God willing there will be a lot of content related to our plans and how everyone can join on board with us. That's all from us before we meet next week. Assalamualaikum.
+**Haziq:** So guys, support me! Okay, we will focus on what we want to do, and God willing there will be a lot of content related to our plans and how everyone can join on board with us. That's all from us before we meet next week. Assalamualaikum.
 
 **Rafizi:** I don't understand why there is a salam like this!
