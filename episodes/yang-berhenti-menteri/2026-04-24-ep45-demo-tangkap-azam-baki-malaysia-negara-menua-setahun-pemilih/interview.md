@@ -198,7 +198,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Host:** Jadi maksud saya, beria kau letak yang ini kat sini, Ahli Parlimen Jasin lah YB. So kau nak kata dia beria apa?
 
-**Rafizi Ramli:** Dia bukanlah beria, Wabi — kecualilah dia masuk mahkamah, dia baca kunut nazilah kat situ semua. Dia baca kunut nazilah dalam mahkamah semasa berhujah, itu bolehlah masuk beria.
+**Rafizi Ramli:** Dia bukanlah beria, YB — kecualilah dia masuk mahkamah, dia baca kunut nazilah kat situ semua. Dia baca kunut nazilah dalam mahkamah semasa berhujah, itu bolehlah masuk beria.
 
 **Host:** Yang ini aku tengah fikir, kau angle mana beria ni?
 
@@ -710,7 +710,7 @@ Secara logiknya lah, macam mana kita nak terangkan sebuah parti yang begitu heba
 
 So sebab itu cabaran utama PKR sekarang ni coherence. Dia dah tak ada coherence, message tak ada coherence. Sekejap on the one hand kata macam ini, tapi maksudnya begini, kan, jadi — yang itu saya serahkan kepada kepimpinan PKR yang hebat-hebat lah. Lagipun kita ni dah nak masuk akhir April, dia dah tinggal sebulan saja lagi, Jun. Jun tu — aku Jun, by Jun tu, tak ada, tak timbul lah cerita PKR ni langsung lah, kan. Kita menanti pengumuman YB. Jadi tinggal beberapa podcast je pun lagi, kan. Mereka ada satu bulan untuk fikir selepas Jun ni ikut mana pula dia nak kona ni, sebab dia nak salahkan Rafizi, semua payah dah, kan, sebab Jun akan mengubah banyak benda lah, kan. Jadi dia duduk garu kepala macam mana. Jadi dia ada satu bulan, bolehlah mula fikirkan cerita tok nenek baru yang dia nak karangkan.
 
-Wabi bagus, wabi adil, wabi selalu pre-empt benda tu dekat musuh wabi. Tapi masalahnya kalau musuh duduk — kalau maksudnya lawan tu, orang bagi ChatGPT pun, ChatGPT dah bagi semua jawapan pun tak boleh buat juga, nak macam mana, kan. Baik, kita nak berdemo, kita kena tidur awal sikit. Kita kena tidur awal sikit.
+YB bagus, YB adil, YB selalu pre-empt benda tu dekat musuh YB. Tapi masalahnya kalau musuh duduk — kalau maksudnya lawan tu, orang bagi ChatGPT pun, ChatGPT dah bagi semua jawapan pun tak boleh buat juga, nak macam mana, kan. Baik, kita nak berdemo, kita kena tidur awal sikit. Kita kena tidur awal sikit.
 
 **Host:** Last call for people to come for the demo?
 

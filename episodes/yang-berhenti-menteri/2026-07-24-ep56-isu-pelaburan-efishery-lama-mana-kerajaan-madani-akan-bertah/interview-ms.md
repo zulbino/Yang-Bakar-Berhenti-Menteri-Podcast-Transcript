@@ -11,7 +11,6 @@ hosts:
 - Rafizi Ramli
 - Speaker 2 (Pa'an/Aan)
 guests:
-- Chopper (co-host, cat)
 topics:
 - Parti Bersama updates (Johor candidates, Melaka PRN prep, Kancil app launch)
 - 'Beria segment: viral/absurd political and social media content'
@@ -236,7 +235,7 @@ Dan lapisan, kalau kita nak kira, mengupas benda ini secara moral untuk yang leb
 
 **Speaker 2:** Tapi...
 
-**Speaker 1:** Sepatutnya ada satu lagi, Wabi. Tapi...
+**Speaker 1:** Sepatutnya ada satu lagi, YB. Tapi...
 
 **Speaker 2:** Mungkin tak sepatutnya dimasukkan.
 

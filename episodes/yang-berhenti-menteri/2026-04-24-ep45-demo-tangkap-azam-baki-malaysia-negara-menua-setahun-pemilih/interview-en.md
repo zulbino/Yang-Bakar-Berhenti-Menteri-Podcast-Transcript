@@ -197,7 +197,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Host:** So what I mean is, you're putting this here as "eager," YB. So what do you mean he's eager about?
 
-**Rafizi Ramli:** He's not eager, Wabi — unless he went into court and recited the qunut nazilah prayer there. If he recited the qunut nazilah in court while making his argument, then that could count as eager.
+**Rafizi Ramli:** He's not eager, YB — unless he went into court and recited the qunut nazilah prayer there. If he recited the qunut nazilah in court while making his argument, then that could count as eager.
 
 **Host:** This one I'm still thinking about, what angle makes this "eager"?
 
@@ -711,7 +711,7 @@ Logically speaking, how do we explain that such a great party, with a Prime Mini
 
 So that's why PKR's main challenge right now is coherence. There's no coherence anymore, the message has no coherence. One moment it's this, then it means that — so I'll leave that to PKR's great leadership. Besides, we're heading into late April now, there's only a month left until June. By June — there won't even be a PKR story left to talk about, right. We're waiting for YB's announcement. So there's only a few more podcasts left anyway. They have one month to figure out, after June, which direction they want to spin this, because blaming Rafizi will get harder, since June will change a lot of things. So they're sitting there scratching their heads over what to do. So they have one month to start cooking up a new fairy tale.
 
-Wabi is good, wabi is fair, wabi always pre-empts things against the enemy, wabi. But the problem is, if the opponent sits there — meaning the rival — even if you gave them ChatGPT, and ChatGPT already gave all the answers, they still couldn't manage it, what to do. Alright, if we want to demonstrate, we'd better sleep early. We'd better sleep a bit early.
+YB is good, YB is fair, YB always pre-empts things against the enemy, YB. But the problem is, if the opponent sits there — meaning the rival — even if you gave them ChatGPT, and ChatGPT already gave all the answers, they still couldn't manage it, what to do. Alright, if we want to demonstrate, we'd better sleep early. We'd better sleep a bit early.
 
 **Host:** Last call for people to come for the demo?
 

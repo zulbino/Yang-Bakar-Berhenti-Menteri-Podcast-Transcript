@@ -95,7 +95,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi Ramli:** Let's switch.
 
-**Haziq:** Wabi, if not it's tiring. Okay.
+**Haziq:** YB, if not it's tiring. Okay.
 
 **Rafizi Ramli:** This one is [to] read. Okay. Hmm. Never mind, let's wait until he becomes Foreign Minister. Worried he'll invite Netanyahu. Hmm. Yeah, maybe this is one logic for him as a short answer to the government. The government said that Trump was invited so that we could confront and convey our stance. So from Wan Fayhsal's logic, if that's the case, might as well say it directly to Netanyahu. That personal logic, I think, is in his head, he can accept it and he can rationalize it. But to the public, it comes across as childish. It's like a clip called "your mother's a monkey" — like when I was in school, while fighting, one calls the other's father the devil, the other calls that person the devil. In the end we all get in trouble for calling each other's mothers and fathers the devil, right? So this is like he's throwing stones over something that, to me, is small. I don't mean Palestine is small, but the matter of "if you invite Trump you must invite Netanyahu" — that's something Malaysians generally already know is unreasonable and shouldn't even be considered. But this is Wan Fayhsal, after all he wants to change the name Raflesia to...
 

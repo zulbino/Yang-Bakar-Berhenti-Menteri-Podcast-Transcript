@@ -161,7 +161,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [31:04] Haziq: Biar lah dia... Adalah juga kebaikan aku kepada dia Sebab kalau dia tweet sahaja Tak petik nama aku Tak ada orang layan dia pun Tak ada orang pembaca kan Berapa sangatlah yang membaca tweet dia tu Hanya dengan memetik nama Dia menyindir kononnya Agaknya masa itulah boleh dapat traction dan engagement Sebab adalah yang orang akan pergi Pergi marah dia balik ini akan terus ada dalam politik dan saya tak rasa kita perlu habiskan masa.
 
-[31:42] Haziq: Baik Wabi, kita next. Ada lagi satu. Guna akaun Provenus, instead guna akaun sendiri.
+[31:42] Haziq: Baik YB, kita next. Ada lagi satu. Guna akaun Provenus, instead guna akaun sendiri.
 
 [31:50] Haziq: Apa yang awak perasan? Itu jawapan dalam tak fungsional. Hebat cara saudara berfikir. Hebat luar kotak dan tak ada kotak. Adalah ada orang, dia akan keluar dekat timeline. Timeline.
 
@@ -247,7 +247,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [58:53] Haziq: baik-baik, at least we got some gambaran kalau you are in charge
 
-[58:59] Haziq: Poyok-poyok. Poyok lah. Beria kau. Minggu depan ambil yang ini letak beria supaya kita red. Okey, Wabi. Beria pun nak bodek. Eh, bukan bodek. Orang tanya, Wabi, kau
+[58:59] Haziq: Poyok-poyok. Poyok lah. Beria kau. Minggu depan ambil yang ini letak beria supaya kita red. Okey, YB. Beria pun nak bodek. Eh, bukan bodek. Orang tanya, YB, kau
 
 [59:11] Haziq: kasi komplain je. Lepas tu nak buat macam mana?
 

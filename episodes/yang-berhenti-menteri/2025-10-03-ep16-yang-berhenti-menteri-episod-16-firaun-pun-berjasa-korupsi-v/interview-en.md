@@ -184,7 +184,7 @@ It's a common practice worldwide, because there will always be people who create
 
 On top of that, when there's a troll farm liking everything, we think, oh wow, I'm actually popular. That's what caused — I think it's part of the reason — why someone like Dato' Seri Najib was once so confident he would win the 2018 general election. Because there's a gap between actual reality and the bubble we live in. So my advice — likely to whoever in PKR is doing this — if this is a way to flatter Dato' Seri Anwar Ibrahim, this doesn't help. It actually enlarges that bubble further, creating a mirage. You know, when it's hot, we see that shimmer — in Malay, "fatamorgana," a mirage — but there's actually no water there, it's just an illusion. It's the same here — using such methods creates a comfortable illusion when the actual reality is very different.
 
-**Speaker 2:** Alright. Wabi was talking about power. We have another topic about power too, YB, about the "deep state" in MOE. This is a recent statement from Dr. Mazli. But if we look from PH 1.0 until now, the "deep state" is talked about a lot every time, but we never actually hear how to overcome it. So YB has been in the corridors of power before — how do you see actually curbing the deep state problem in any government?
+**Speaker 2:** Alright. YB was talking about power. We have another topic about power too, YB, about the "deep state" in MOE. This is a recent statement from Dr. Mazli. But if we look from PH 1.0 until now, the "deep state" is talked about a lot every time, but we never actually hear how to overcome it. So YB has been in the corridors of power before — how do you see actually curbing the deep state problem in any government?
 
 **Rafizi Ramli:** I think this is easy escapism. Okay. Especially something often used by Pakatan Harapan supporters. Before 2018, there was concern that the government would never change, because the "deep state" would defend UMNO. This "deep state" meant government officials, civil servants. But it changed in 2018. Similarly, I think, nowadays whenever there's difficulty getting something done, the deep state issue comes up again and again.
 
@@ -238,7 +238,7 @@ So I think, when it comes down to the implementation stage, most of the civil se
 
 **Speaker 2:** Alright, alright, alright.
 
-**Speaker 1:** Wabi, is that clear? You've asked so much about this deep state thing that we went off track.
+**Speaker 1:** YB, is that clear? You've asked so much about this deep state thing that we went off track.
 
 **Speaker 2:** Alright, so let's stop asking Ustaz about that, let's ask about something else. Maybe the last one — life is tough, everyone has contributed something, even Pharaoh. Hey, did you notice that?
 
@@ -314,7 +314,7 @@ So for us, especially for politicians — have you noticed, actually, if you cou
 
 So as a former minister, we can't just make comments as we please because we're bound by government positions, right. As a Member of Parliament, if it's just issuing harsh statements here without daring to go there, I think I need to be honest — if I'm not as brave as they are, then I have no right to boast as if I were the greatest champion of Palestine. And in my current position, I'm no different from other Malaysians, who can only pray and help and contribute if possible. Going forward, more Malaysians want to join — our prayer is for new flotillas — because this needs to continue happening, and we pray it will build humanitarian unity across the world. And that, I believe, is one of the effective ways to pressure Israel and the United States. Okay.
 
-**Speaker 2:** Wabi, very inspiring. Do you want to go? Huh. Can you, YB? Yes. YB go first. Huh. No, I mean — after that we'll get more people to join. Huh, that's the problem.
+**Speaker 2:** YB, very inspiring. Do you want to go? Huh. Can you, YB? Yes. YB go first. Huh. No, I mean — after that we'll get more people to join. Huh, that's the problem.
 
 **Rafizi Ramli:** Don't get me wrong, this is a politician's problem. Huh. Talk, talk, talk, talk, then push someone else aside, we go. I really got hit hard on that one. Talk, talk. Yes, what now? Look behind. Huh, no one there, right. I want to go, YB.
 

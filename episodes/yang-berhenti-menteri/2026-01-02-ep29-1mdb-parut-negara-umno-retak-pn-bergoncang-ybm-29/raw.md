@@ -102,7 +102,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [07:22] Iqbal: So, clearly ada precedence lah.
 
-[07:26] Rafizi: Dia, aku akan komen panjang. Kecualilah benda ni kat Malaysia, kat Pandan ke apa kan. Ini kat Indonesia. So I was, apa nama ni, kita pun ada juga KRT. Rukun Tetangga ni kan. Tapi ini bunyi tak cantik sikit lah. Tapi selalunya kalau kat Malaysia ni geng KRT, dia tak campur dengan geng Surau. So sebab tu mula-mula aku tengok ni, wah. Takkanlah kat sini. Selalunya separate group tu kan Kalau kat Malaysia Okay. Baik, Wabi. Hambar. Tak cukup, Wabi. Tak. No, sebab Indonesia. Indonesia.
+[07:26] Rafizi: Dia, aku akan komen panjang. Kecualilah benda ni kat Malaysia, kat Pandan ke apa kan. Ini kat Indonesia. So I was, apa nama ni, kita pun ada juga KRT. Rukun Tetangga ni kan. Tapi ini bunyi tak cantik sikit lah. Tapi selalunya kalau kat Malaysia ni geng KRT, dia tak campur dengan geng Surau. So sebab tu mula-mula aku tengok ni, wah. Takkanlah kat sini. Selalunya separate group tu kan Kalau kat Malaysia Okay. Baik, YB. Hambar. Tak cukup, YB. Tak. No, sebab Indonesia. Indonesia.
 
 [08:10] Iqbal: Baru mendunia.
 
@@ -110,7 +110,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [08:12] Iqbal: kan.
 
-[08:13] Rafizi: Tak apa, Wabi. Kita ada lagi yang lain.
+[08:13] Rafizi: Tak apa, YB. Kita ada lagi yang lain.
 
 [08:15] Iqbal: Okay.
 
@@ -314,7 +314,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:16:26] Farhan (Pa'an): I think it's a good segue ke the next slide Sebab isu pasal stress test kepada PN
 
-[2:16:33] Rafizi: Dan mungkin kita nak tengok juga Wabi, how far pergolakan di Perlis ini sebenarnya berpunca daripada pepercahan PN di peringkat nasional ataupun sebenarnya, ialah sebab Presiden PAS sendiri pun ada cakap dia sebab-sebab lain, bukannya daripada kemelut yang berjangkit daripada nasional.
+[2:16:33] Rafizi: Dan mungkin kita nak tengok juga YB, how far pergolakan di Perlis ini sebenarnya berpunca daripada pepercahan PN di peringkat nasional ataupun sebenarnya, ialah sebab Presiden PAS sendiri pun ada cakap dia sebab-sebab lain, bukannya daripada kemelut yang berjangkit daripada nasional.
 
 [2:16:54] Farhan (Pa'an): Sebab ada pergaduhan, bukan pergaduhan, ada rift dalam... bersatu ni. Brief tu dalam bahasa Melayu perselisihan. Perselisihan dalam bersatu ni dah agak lama lah kan. Dia bermula daripada sebelum daripada konvensyen ke ataupun masa konvensyen. Dia
 

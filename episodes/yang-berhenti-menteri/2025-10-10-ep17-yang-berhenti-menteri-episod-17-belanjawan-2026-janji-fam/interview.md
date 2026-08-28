@@ -96,7 +96,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi Ramli:** Kita tukar.
 
-**Haziq:** Wabi, kalau tak ada penat. Okey.
+**Haziq:** YB, kalau tak ada penat. Okey.
 
 **Rafizi Ramli:** Yang ini adalah baca. Okey. Hmm. Tak apalah, tunggu dia jadi menteri luar nantilah. Takut dia nak jemput Netanyahu. Hmm. Yalah, mungkin ini satu logik bagi dia sebagai menjawab satu jawapan pendek daripada kerajaan lah. Kerajaan kata bahawa Trump dijemput supaya kita boleh berdepan dan menyampaikan pendirian kita. Jadi dari logik Wan Fayhsal, dah kalau macam itu baik cakap dekat Netanyahu terus kan. Logik persendirian itu memang saya ingat dalam kepala dia, dia boleh terima and dia boleh rationalize lah. Tetapi kepada orang ramai lah, dia dah jadi kebudak-budakan lah. Dia macam satu klip yang panggil "mak kau injau" — macam saya kat sekolah dululah, dia sambil bergaduh, yang ini panggil bapak dia yang orang tu setan, yang ini panggil orang tu setan. Akhirnya kita semua kena lah sebab panggil memanggil mak bapak setan, kan. Jadi yang ini ni macam dia duk berbaling batu untuk perkara yang bagi saya ialah kecil. Maksudnya bukanlah maksudnya Palestine itu kecil, tapi soal kalau jemput Trump kena jemput Netanyahu, itu benda dah yang sebenarnya orang Malaysia secara umumnya tahu itu perkara tak masuk akal yang tak patut difikirkan pun. Tapi ni Wan Fayhsal, after all dia nak tukar nama Raflesia jadi...
 

@@ -182,7 +182,7 @@ Alright, alright, we can move on.
 
 **Haziq:** A bit long, but beria story about this.
 
-**Haziq:** Okay, is that the last one? Oh, long name, Maiden. There's Maiden. Congratulations SPM candidates, from the MP for Bentong and... Maiden — that's a Maiden troll, right. If suddenly there's a Dato' Seri Maiden popping up, that means it's a troll. Thank God I didn't do this — Wabi doesn't have a poster. None at all. Poor kids in Pandan, there's none, no competition.
+**Haziq:** Okay, is that the last one? Oh, long name, Maiden. There's Maiden. Congratulations SPM candidates, from the MP for Bentong and... Maiden — that's a Maiden troll, right. If suddenly there's a Dato' Seri Maiden popping up, that means it's a troll. Thank God I didn't do this — YB doesn't have a poster. None at all. Poor kids in Pandan, there's none, no competition.
 
 **Zikri Kamarulzaman:** Made a video?
 

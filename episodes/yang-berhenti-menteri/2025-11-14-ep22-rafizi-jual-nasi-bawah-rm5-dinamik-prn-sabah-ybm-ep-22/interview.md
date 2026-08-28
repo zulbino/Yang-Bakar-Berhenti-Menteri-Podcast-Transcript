@@ -74,11 +74,11 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** A little bit. A little bit. Maybe not many jogging. The style is not up to a month. That's embarrassing.
 
-**Host:** Okay, let's go back. To all of you, Jasni in Alustar, Ramanan in Shah Alam — yes, I'll look at the comments. Okay, Wabi, so before that, we have our director here. Is he alive?
+**Host:** Okay, let's go back. To all of you, Jasni in Alustar, Ramanan in Shah Alam — yes, I'll look at the comments. Okay, YB, so before that, we have our director here. Is he alive?
 
 **Rafizi:** He's alive.
 
-**Host:** Okay, let's look at the first segment as usual, Wabi.
+**Host:** Okay, let's look at the first segment as usual, YB.
 
 **Rafizi:** Minggu ni kita cepat kot, saya penat, sebab saya dah dua minggu—
 

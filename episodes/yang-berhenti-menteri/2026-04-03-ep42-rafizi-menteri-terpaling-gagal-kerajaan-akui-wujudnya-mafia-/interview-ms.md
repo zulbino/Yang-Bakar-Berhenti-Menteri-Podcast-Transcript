@@ -181,7 +181,7 @@ Baiklah, baiklah, kita boleh teruskan.
 
 **Haziq:** Panjang sikit, beria cerita pasal ni.
 
-Okay, yang terakhir ke? Oh, panjang nama, Maiden. Ada Maiden. Tahniah calon SPM, daripada Ahli Parlimen Bentong dan... Maiden — itu Maiden troll lah. Kalau tiba-tiba ada Dato' Seri Maiden ni keluar, maksudnya dia troll lah. Alhamdulillah saya tak buat macam ni — Wabi tak ada poster. Tak ada. Kesian anak-anak kat Pandan, tak adalah, tak bersaing.
+Okay, yang terakhir ke? Oh, panjang nama, Maiden. Ada Maiden. Tahniah calon SPM, daripada Ahli Parlimen Bentong dan... Maiden — itu Maiden troll lah. Kalau tiba-tiba ada Dato' Seri Maiden ni keluar, maksudnya dia troll lah. Alhamdulillah saya tak buat macam ni — YB tak ada poster. Tak ada. Kesian anak-anak kat Pandan, tak adalah, tak bersaing.
 
 **Zikri Kamarulzaman:** Buat video?
 

@@ -11,7 +11,6 @@ hosts:
 - Rafizi Ramli
 - Speaker 2 (Pa'an/Aan)
 guests:
-- Chopper (co-host, cat)
 topics:
 - Parti Bersama updates (Johor candidates, Melaka PRN prep, Kancil app launch)
 - 'Beria segment: viral/absurd political and social media content'
@@ -238,7 +237,7 @@ Dan lapisan, kalau kita nak kira, mengupas benda ini secara moral untuk yang leb
 
 **Speaker 2:** Tapi...
 
-**Speaker 1:** Sepatutnya ada satu lagi, Wabi. Tapi...
+**Speaker 1:** Sepatutnya ada satu lagi, YB. Tapi...
 
 **Speaker 2:** Mungkin tak sepatutnya masukkan.
 
@@ -440,9 +439,9 @@ Cuma Malaysian startup ni pun — walaupun ada orang yang tepuk tangan lah, "kau
 
 So semua ini menunjukkan betapa rumit dan besarnya masalah yang kita ada dalam ekonomi kita untuk kita bersaing. Jadi sebab itu, baguslah kan, pertumbuhan ekonomi itu bagus, tapi pertumbuhan ekonomi contohnya sekarang ini dipacu oleh syarikat-syarikat besar, oleh eksporter, terutamanya semiconductor exporter. Sebab itu dia tak nampak hasil dia turun ke bawah, sebab dia hanya very specialized kepada industri-industri tertentu. Walaupun kita kata pertumbuhan suku kedua lebih baik, 5.8% mengejutkan satu dunia — up cycle semiconductor, orang duduk beli chip ni. Tapi syarikat yang keluarkan chip ni semua syarikat US, Intel semua. Yang dapat, Intel pun paling banyak bekerja katakanlah 3,000-4,000 orang, campur the whole ecosystem mungkinlah 100,000 orang, kalau apa-apa pun 100,000 orang. Sama juga orang oil and gas yang beraya tiap-tiap tahun setiap kali dapat durian runtuh — orang minyak je, orang Petronas, orang Shell — yang lain tengok klip-klip je.
 
-Jadi kecuali kita berjaya mengubah struktur ekonomi kita supaya persaingan ini dan syarikat-syarikat kecil ini dia boleh berdaya saing — and for that they need access to fund, dia juga perlukan dasar — perkara seperti ini akan berterusan lah wabi untuk... Dah lama kita ni, 1 jam setengah, 1 jam 50 minit.
+Jadi kecuali kita berjaya mengubah struktur ekonomi kita supaya persaingan ini dan syarikat-syarikat kecil ini dia boleh berdaya saing — and for that they need access to fund, dia juga perlukan dasar — perkara seperti ini akan berterusan lah YB untuk... Dah lama kita ni, 1 jam setengah, 1 jam 50 minit.
 
-**Speaker 2:** Saya rasa yang kedua tu tak banyak sangat kan. Tak tahu, sikit lagi — wabi dengan syarikat-syarikat yang kecil ni ialah dia bisnes as usual for 10-20 years yang kebelakang. Mungkin YB boleh cerita, jadi kerajaan ada memikirkan transition roadmap ataupun...
+**Speaker 2:** Saya rasa yang kedua tu tak banyak sangat kan. Tak tahu, sikit lagi — YB dengan syarikat-syarikat yang kecil ni ialah dia bisnes as usual for 10-20 years yang kebelakang. Mungkin YB boleh cerita, jadi kerajaan ada memikirkan transition roadmap ataupun...
 
 **Rafizi Ramli:** Dasar semua GLC ni di bawah kementerian kewangan — jangan pergi dekat aku, kalau panggil Khazanah pun dia tak layan sangat, dia tahu the boss is Prime Minister, dan Amir Hamzah susahlah nak buat apa-apa — "jangan sentuh, kena marah, okay baik-baik." Faham lah. So itu masalah dia kan. Jadi akhirnya dia bisnes asyik juga lah kan.
 

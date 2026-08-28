@@ -535,7 +535,7 @@ Zaman kita dahulu, semasa saya, saya paksa Datuk Seri Anwar duduk atas kerusi pl
 
 **Haziq:** Pimpinan VIP duduk di depan.
 
-**Faizal Rahman:** Wabi terlepas. Itu protokol keselamatan. Yang menyanyi kumpulan tabola itu pun kalah...
+**Faizal Rahman:** YB terlepas. Itu protokol keselamatan. Yang menyanyi kumpulan tabola itu pun kalah...
 
 **Haziq:** Memang teruk, kasihan kepada Dato' Uji. Tetapi lihat bagaimana, kumpulan tabola itu pun bukan boleh mengundi pun. Eh, kumpulan tabola itu memang artis daripada Batam yang sebenar — kalau dilihat betul, lebih Indonesia, maksudnya artis asal, diambil daripada Batam.
 

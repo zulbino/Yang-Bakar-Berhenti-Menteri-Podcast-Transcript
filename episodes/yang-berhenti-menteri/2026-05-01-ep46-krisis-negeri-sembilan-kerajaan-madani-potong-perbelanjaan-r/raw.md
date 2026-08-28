@@ -546,7 +546,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [3:08:21] Rafizi: Itu nak kena check Dalam akta Tak boleh Oh sorry Akta tak boleh Perkuam Akta tak boleh Sebab Perkuam tak boleh Tak tak Perkuam tahulah Sebab tu you notice Aku tak pernah buat Laporan SPRM Sebab itulah tujuannya Kalau aku bawa semua bukti Aku pergi report ke SPRM Memang aku dah tak boleh bercakap Dia tutup file Mampus saja kes tu Haa Sebab itu sebabnya kan Akta SPRM Lepas you di soal siasat You tak boleh bercakap Sebab tu aku nak kena bagi warning awal-awal Cakap awal-awal Lepas tu dah tak boleh komen Sebab tu James Wartawan duk tanya media Dia tak boleh sebut apa Dia sama macam Lack of Miranda right Kalau tanya tak jawab kena Kalau bagi kenyataan Lepas tu kena Semua Sebab itu tak apa InsyaAllah Kalau umur dan nyawa kita panjang Kita akan tengok balik Akta SPRM ini Supaya tak berlaku lagi lah Satu lagi watak Seperti Tan Sri Azam Baki Dan SPRM ni tak jadi Macam yang ada sekarang inilah InsyaAllah
 
-[3:09:30] Afiq: Okay Wabi So Wabi Kita dah penutup So jadi Terima kasih. Itu je laku. Selamat malam semua. So, saya minta maaf kalau saya banyak buat salaf. Saya masih belajar. Kena pasang subtitle.
+[3:09:30] Afiq: Okay YB So YB Kita dah penutup So jadi Terima kasih. Itu je laku. Selamat malam semua. So, saya minta maaf kalau saya banyak buat salaf. Saya masih belajar. Kena pasang subtitle.
 
 [3:09:46] Rafizi: Faham kata nanti dia letak subtitle. Tapi tak apalah network effect. Mungkin sebab malam ni orang besut Kelantan jadi moderator. Penonton kita daripada Kelantan dan Tengganu ramai sikit kot malam ni. Lebih difahami.
 
