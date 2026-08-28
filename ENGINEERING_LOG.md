@@ -2032,6 +2032,46 @@ and ep47; Farhan in ep39 and ep55. ep47 is proven collapsed by video (11 of 17 s
 seconds are Haziq inside its two 24-minute "Rafizi" blocks) and simply has not been re-cut
 yet.
 
+### 1.38: Five more episodes, and a host nobody knew was missing
+
+- **2026-08-28.** QA 6/67 -> 1/67. ep21, ep27, ep31, ep40 and ep41 re-cut at
+  `clustering.threshold=0.55`. Text verified identical in all five (19,927 / 17,746 /
+  18,193 / 15,826 / 20,702 words). Haziq recovered in every one, scoring **0.935-0.971**
+  against his voiceprint.
+
+**In ep40 and ep41 Haziq was not on the roster at all**, so `unlabelled-host` could not
+fire -- that check only compares against the names already listed. The episodes read as
+two-person shows. The re-cut found a third host that no text-based check could have
+looked for, which is the limit of any rule that starts from the roster.
+
+**Where word-overlap and voiceprint DISAGREE, the disagreement is the diagnosis.** For
+ep27's 10-minute cluster the overlap says "Rafizi 100%" and the voiceprint says Haziq
+0.962. Both are correct statements: those words *were* filed under Rafizi, and that is
+precisely the misattribution being repaired. This is why
+`map_clusters_to_old_labels.py` must never name a host. It named ep21's guest at 99% in
+the same run, which is what it is for.
+
+**ep41's remaining 20.3-min block is waived on THREE lines, and is the standard the
+earlier waivers failed to meet.** (1) Zero co-host markers in 1,829 words, the same
+signature as ep51's block and the opposite of ep47's, which returned 15 and 10 hits and
+proved collapsed. (2) The threshold dial split THIS episode's other three oversized blocks
+(49, 39 and 28 min) and declined this one -- a real claim, unlike the withdrawn version
+that relied on a speaker count pyannote ignores. (3) Frames at 38:00, 45:00 and 52:00 show
+Rafizi alone, no cut, mouth open in all 15, under a persistent presentation overlay.
+
+**ep26 needed its own decision.** Its labels came from Gemini, not pyannote, and guard 2
+had already refused a re-cut once because it would have cut Haziq from 11.6 to 4 minutes.
+But frames at three candidate seconds show Haziq mouth-open in a close single shot inside
+blocks labelled Rafizi, so the blocks *are* collapsed. It has only two speakers, both with
+voiceprint references, so a re-cut is recoverable and guard 2 remains the backstop. **The
+rule "never re-cut another engine's labels" is really "never re-cut without a guard and a
+way to re-name".**
+
+**Process: `| tail -40` on a five-episode driver destroyed three episodes' output.** The
+re-cuts had already been written, so the voiceprint pass simply had to be re-run -- but
+only because the tool is idempotent and the scores are recomputable. Do not pipe a
+long-running batch through `tail`.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider
