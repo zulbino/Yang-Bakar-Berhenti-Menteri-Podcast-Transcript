@@ -21,7 +21,7 @@ import re
 import sys
 from pathlib import Path
 
-from common import episode_path, episode_slug, read_frontmatter_body
+from common import body_digest, episode_path, episode_slug, read_frontmatter_body
 from dedupe_raw import fetch_captions, parse_caption_words
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -107,6 +107,10 @@ def check_episode(video_id, episode):
         "caption_end": end,
         "dead_runs": dead,
         "worst_dead_run_seconds": worst,
+        # Every low run, not just the ones long enough to flag. qa_check.py needs the
+        # short ones too: they are what tells it whether a suspected content hole could
+        # be real, and MIN_DEAD_RUN_SECONDS is four times its own hole threshold.
+        "longest_low_run_seconds": max((r[1] - r[0] for r in runs), default=0),
         "flagged": bool(dead),
     }
 
@@ -124,6 +128,7 @@ def main():
         result = check_episode(video_id, episode)
         if result is None:
             continue
+        result["raw_sha"] = body_digest(ROOT / "episodes" / episode_path(episode) / "raw.md")
         existing[slug] = result
         OUT_PATH.write_text(json.dumps(existing, indent=2), encoding="utf-8")
         if result["status"] != "ok":

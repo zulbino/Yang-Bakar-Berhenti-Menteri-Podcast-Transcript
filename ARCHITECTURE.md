@@ -132,6 +132,11 @@ python scripts/block_origin_map.py ep48
 # Replace only the damaged middle, keeping the verified head and tail verbatim
 python scripts/splice_gap.py ep48 --clip-start 8500 --keep-until 8960 --gap-from 8960 --gap-to 11071 --tail-from 8966
 
+# Text is fine, clock is wrong: move the timestamps to where the caption says the text
+# is, touching nothing else. Needs align_blocks.py first. Dry run by default (1.42)
+python scripts/retime_blocks.py ep61
+python scripts/retime_blocks.py ep61 --write
+
 # Speaker labels that appear in interview*.md but never in raw.md
 python scripts/label_drift_audit.py
 
@@ -195,7 +200,8 @@ behind this table is 1.11, 1.14, 1.17, 1.23 and 1.25.
 | Check | Catches | Blind to |
 |---|---|---|
 | `coverage` | A transcript ending well before the episode does | Loss backfilled by duplicate or displaced blocks, which leaves the timeline looking full |
-| `content-loss` | Gaps between timestamps too large for the text at their start | The same backfill, plus loss papered over with `[silence]` markers (1.25) |
+| `content-loss` | Gaps between timestamps too large for the text at their start | The same backfill, plus loss papered over with `[silence]` markers (1.25). Also cannot tell absent content from content filed under the wrong second, so `caption-coverage` overrules it -- see `hole-is-mistimed` below (1.42) |
+| `hole-is-mistimed` | Not a check of its own: what `content-loss` becomes when caption coverage confirms the text is all present and only the timing is wrong (1.42) | Episodes whose coverage verdict is `inconclusive` or stale, where the loss reading stands unchallenged |
 | `caption-coverage` | Audio whose speech has no counterpart anywhere in the transcript | Episodes whose wording diverges from the captions throughout, which report `inconclusive` rather than clean |
 | the video itself | Guest and stand-in-host names, from on-screen lower-third graphics and thumbnails, produced by the people in the room (1.28) | Anyone never captioned on screen |
 | `drift` | Blocks timestamped far from where they were actually spoken | Sparse or wrong-language captions. Isolated false phrase-locks still need adjudicating by hand |
@@ -220,6 +226,25 @@ audio and asks what the transcript is missing.** Every other check reads the tra
 and asks what looks odd there. Duplicated blocks, displaced blocks and `[silence]`
 markers all fill the timeline, and none of them can fake a 4-gram match, which is how
 this check caught ep48 (1.25).
+
+Because `caption-coverage` measures content directly, it is allowed to overrule
+`content-loss`, which only infers it from a timestamp gap. That inference cannot separate
+absent content from content filed under the wrong second, and it reports the alarming
+reading of the two -- ep61 claimed 1393s missing while all 175 of its caption buckets
+matched (1.42).
+
+**Two caches feed the suite from outside, and a stale one is now dangerous.**
+`data/caption_coverage.json` and `data/timestamp_drift.json` hold verdicts computed in an
+earlier run, and one of them can suppress a content-loss report. So each entry carries
+`raw_sha`, the `common.body_digest()` of the `raw.md` body it was computed from, and
+`qa_check.py` drops any verdict whose stamp does not match what is on disk -- unstamped
+counts as mismatched. Re-run the two checkers after any batch that rewrites `raw.md`, or
+their flags silently vanish from the checklist:
+
+```bash
+python scripts/check_timestamp_drift.py     # minutes
+python scripts/check_caption_coverage.py    # slower; 4-gram scan of every caption
+```
 
 Verdicts live in `data/qa_reviewed.json`, keyed by episode and signature name, so a
 reviewed issue stays reviewed instead of being re-investigated every session (1.21).

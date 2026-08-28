@@ -52,14 +52,15 @@
         "actual": 7506,
         "drift": -13
       }
-    ]
+    ],
+    "raw_sha": "3f550eb02653"
   },
   "2025-12-12-ep26-reformasi-bukan-content-azam-baki-uec-felda-ybm-ep-26": {
     "status": "ok",
-    "samples_matched": 8,
-    "samples_not_found_nearby": 4,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 19,
+    "max_drift_seconds": 25,
     "flagged": false,
     "details": [
       {
@@ -68,48 +69,59 @@
         "drift": 0
       },
       {
-        "claimed": 247,
-        "actual": 233,
-        "drift": -14
+        "claimed": 284,
+        "actual": 273,
+        "drift": -11
       },
       {
-        "claimed": 441,
-        "actual": 422,
-        "drift": -19
+        "claimed": 643,
+        "actual": 632,
+        "drift": -11
       },
       {
-        "claimed": 827,
-        "actual": 810,
-        "drift": -17
+        "claimed": 916,
+        "actual": 907,
+        "drift": -9
       },
       {
-        "claimed": 1022,
-        "actual": 1008,
-        "drift": -14
+        "claimed": 1302,
+        "actual": 1291,
+        "drift": -11
       },
       {
-        "claimed": 1699,
+        "claimed": 1700,
         "actual": 1686,
-        "drift": -13
+        "drift": -14
       },
       {
-        "claimed": 2776,
-        "actual": 2769,
-        "drift": -7
+        "claimed": 2754,
+        "actual": 2745,
+        "drift": -9
+      },
+      {
+        "claimed": 3339,
+        "actual": 3327,
+        "drift": -12
+      },
+      {
+        "claimed": 6127,
+        "actual": 6102,
+        "drift": -25
       },
       {
         "claimed": 8518,
         "actual": 8499,
         "drift": -19
       }
-    ]
+    ],
+    "raw_sha": "e066d492a36c"
   },
   "2026-01-09-ep30-2026-tahun-reformasi-akar-umbi-umno-bersuara-atm-di-serang-y": {
     "status": "ok",
-    "samples_matched": 12,
-    "samples_not_found_nearby": 0,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 22,
+    "max_drift_seconds": 21,
     "flagged": false,
     "details": [
       {
@@ -118,43 +130,38 @@
         "drift": -11
       },
       {
-        "claimed": 534,
-        "actual": 522,
-        "drift": -12
+        "claimed": 569,
+        "actual": 548,
+        "drift": -21
       },
       {
-        "claimed": 1138,
-        "actual": 1121,
+        "claimed": 1163,
+        "actual": 1153,
+        "drift": -10
+      },
+      {
+        "claimed": 1845,
+        "actual": 1828,
         "drift": -17
       },
       {
-        "claimed": 1700,
-        "actual": 1682,
+        "claimed": 2544,
+        "actual": 2526,
         "drift": -18
       },
       {
-        "claimed": 2522,
-        "actual": 2500,
-        "drift": -22
+        "claimed": 3211,
+        "actual": 3190,
+        "drift": -21
       },
       {
-        "claimed": 2988,
-        "actual": 2973,
+        "claimed": 4247,
+        "actual": 4232,
         "drift": -15
       },
       {
-        "claimed": 4227,
-        "actual": 4224,
-        "drift": -3
-      },
-      {
-        "claimed": 4481,
-        "actual": 4465,
-        "drift": -16
-      },
-      {
-        "claimed": 4670,
-        "actual": 4657,
+        "claimed": 4699,
+        "actual": 4686,
         "drift": -13
       },
       {
@@ -172,7 +179,8 @@
         "actual": 8030,
         "drift": -1
       }
-    ]
+    ],
+    "raw_sha": "437f18081ac7"
   },
   "2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2": {
     "status": "ok",
@@ -207,7 +215,8 @@
         "actual": 4075,
         "drift": -14
       }
-    ]
+    ],
+    "raw_sha": "cecc0f8df74a"
   },
   "2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard": {
     "status": "ok",
@@ -252,7 +261,8 @@
         "actual": 5463,
         "drift": -17
       }
-    ]
+    ],
+    "raw_sha": "9c899e3e4f7f"
   },
   "2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-": {
     "status": "ok",
@@ -292,10 +302,12 @@
         "actual": 5010,
         "drift": -27
       }
-    ]
+    ],
+    "raw_sha": "9cf97805a55c"
   },
   "2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "f80e273cf676"
   },
   "2024-08-26-ep05-yang-bakar-menteri-ybm-ep5": {
     "status": "ok",
@@ -304,52 +316,68 @@
     "samples_total": 12,
     "max_drift_seconds": 0,
     "flagged": true,
-    "details": []
+    "details": [],
+    "raw_sha": "c4afc2a34267"
   },
   "2024-09-30-ep06-yang-bakar-menteri-ep-6-rafizi-ramli-lim-sian-see": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "9774b0a79e7d"
   },
   "2025-06-20-ep01-yang-berhenti-menteri-1": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "95a1cabafb5b"
   },
   "2025-06-27-ep02-yang-berhenti-menteri-2": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "49a412089622"
   },
   "2025-07-04-ep03-yang-berhenti-menteri-3": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "e6c0e75b0ebf"
   },
   "2025-07-11-ep04-yang-berhenti-menteri-4": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "0092463b5886"
   },
   "2025-07-18-ep05-yang-berhenti-menteri-5": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "f9ec1aca3b20"
   },
   "2025-07-25-ep06-yang-berhenti-menteri-6": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "9e18cd21162a"
   },
   "2025-08-01-ep07-yang-berhenti-menteri-7": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "dd0b8895feae"
   },
   "2025-08-08-ep08-yang-berhenti-menteri-8": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "b364d99d04a1"
   },
   "2025-08-15-ep09-yang-berhenti-menteri-episod-9-yb-rafizi-ramli-yb-rodziah-vi": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "1b90c66c7354"
   },
   "2025-08-22-ep10-yang-berhenti-menteri-x-cilisos-episod-10": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "7eaf47c6cd87"
   },
   "2025-08-29-ep11-yang-berhenti-menteri-episod-11-merdeka-dahulu-merdeka-sekar": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "32ea18c905e8"
   },
   "2025-09-05-ep12-yang-berhenti-menteri-episod-12": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "c6beea00068d"
   },
   "2025-09-12-ep13-yang-berhenti-menteri-episod-13": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "2894adefc22e"
   },
   "2025-09-19-ep14-yang-berhenti-menteri-episod-14": {
-    "status": "no_captions"
+    "status": "no_captions",
+    "raw_sha": "5a0e90f0bfcf"
   },
   "2025-09-26-ep15-yang-berhenti-menteri-episod-15": {
     "status": "ok",
@@ -404,7 +432,8 @@
         "actual": 9487,
         "drift": -25
       }
-    ]
+    ],
+    "raw_sha": "5471e15592f1"
   },
   "2025-10-03-ep16-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v": {
     "status": "ok",
@@ -469,7 +498,8 @@
         "actual": 7092,
         "drift": -14
       }
-    ]
+    ],
+    "raw_sha": "1d96299d6f18"
   },
   "2025-10-10-ep17-yang-berhenti-menteri-episod-17-belanjawan-2026-janji-fam": {
     "status": "ok",
@@ -534,7 +564,8 @@
         "actual": 6365,
         "drift": -958
       }
-    ]
+    ],
+    "raw_sha": "e05de66e8436"
   },
   "2025-10-17-ep18-yang-berhenti-menteri-episod-18": {
     "status": "ok",
@@ -604,7 +635,8 @@
         "actual": 7701,
         "drift": -11
       }
-    ]
+    ],
+    "raw_sha": "148836ca9bd9"
   },
   "2025-10-24-ep19-yang-berhenti-menteri-episod-19": {
     "status": "ok",
@@ -674,7 +706,8 @@
         "actual": 7831,
         "drift": -17
       }
-    ]
+    ],
+    "raw_sha": "858fcd673a27"
   },
   "2025-10-31-ep20-yang-berhenti-menteri-episod-20": {
     "status": "ok",
@@ -739,32 +772,24 @@
         "actual": 8476,
         "drift": -12
       }
-    ]
+    ],
+    "raw_sha": "c1405e275723"
   },
   "2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21": {
     "status": "ok",
-    "samples_matched": 3,
-    "samples_not_found_nearby": 9,
+    "samples_matched": 1,
+    "samples_not_found_nearby": 11,
     "samples_total": 12,
-    "max_drift_seconds": 976,
+    "max_drift_seconds": 9,
     "flagged": true,
     "details": [
       {
-        "claimed": 1394,
-        "actual": 1361,
-        "drift": -33
-      },
-      {
-        "claimed": 3526,
-        "actual": 3490,
-        "drift": -36
-      },
-      {
-        "claimed": 7574,
-        "actual": 8550,
-        "drift": 976
+        "claimed": 7083,
+        "actual": 7074,
+        "drift": -9
       }
-    ]
+    ],
+    "raw_sha": "1df788ac0299"
   },
   "2025-11-14-ep22-rafizi-jual-nasi-bawah-rm5-dinamik-prn-sabah-ybm-ep-22": {
     "status": "ok",
@@ -829,7 +854,8 @@
         "actual": 9739,
         "drift": -18
       }
-    ]
+    ],
+    "raw_sha": "e6384a258380"
   },
   "2025-11-21-ep23-rafizi-jawab-tuduhan-rasuah-rm1-1-bilion-surat-sokongan-supo": {
     "status": "ok",
@@ -899,12 +925,13 @@
         "actual": 7342,
         "drift": 0
       }
-    ]
+    ],
+    "raw_sha": "46387a5a8d9a"
   },
   "2025-11-28-ep24-shamsul-iskandar-vs-albert-tei-bencana-banjir-izzah-mb-selan": {
     "status": "ok",
-    "samples_matched": 12,
-    "samples_not_found_nearby": 0,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
     "max_drift_seconds": 18,
     "flagged": false,
@@ -920,14 +947,14 @@
         "drift": -13
       },
       {
-        "claimed": 881,
-        "actual": 867,
-        "drift": -14
+        "claimed": 970,
+        "actual": 964,
+        "drift": -6
       },
       {
-        "claimed": 1646,
-        "actual": 1629,
-        "drift": -17
+        "claimed": 1800,
+        "actual": 1787,
+        "drift": -13
       },
       {
         "claimed": 2050,
@@ -935,14 +962,9 @@
         "drift": -18
       },
       {
-        "claimed": 2541,
-        "actual": 2530,
+        "claimed": 3041,
+        "actual": 3030,
         "drift": -11
-      },
-      {
-        "claimed": 3553,
-        "actual": 3540,
-        "drift": -13
       },
       {
         "claimed": 4478,
@@ -955,11 +977,6 @@
         "drift": -17
       },
       {
-        "claimed": 5959,
-        "actual": 5950,
-        "drift": -9
-      },
-      {
         "claimed": 7405,
         "actual": 7391,
         "drift": -14
@@ -969,14 +986,15 @@
         "actual": 8036,
         "drift": -10
       }
-    ]
+    ],
+    "raw_sha": "12942ae26952"
   },
   "2025-12-05-ep25-prn-sabah-pkr-terkubur-masa-depan-ph-ybm-ep-25": {
     "status": "ok",
-    "samples_matched": 10,
-    "samples_not_found_nearby": 2,
+    "samples_matched": 12,
+    "samples_not_found_nearby": 0,
     "samples_total": 12,
-    "max_drift_seconds": 17,
+    "max_drift_seconds": 19,
     "flagged": false,
     "details": [
       {
@@ -985,9 +1003,9 @@
         "drift": 0
       },
       {
-        "claimed": 598,
-        "actual": 583,
-        "drift": -15
+        "claimed": 567,
+        "actual": 555,
+        "drift": -12
       },
       {
         "claimed": 1152,
@@ -995,48 +1013,59 @@
         "drift": -13
       },
       {
-        "claimed": 1490,
-        "actual": 1483,
-        "drift": -7
-      },
-      {
-        "claimed": 3418,
-        "actual": 3403,
+        "claimed": 1652,
+        "actual": 1637,
         "drift": -15
       },
       {
-        "claimed": 4435,
-        "actual": 4418,
-        "drift": -17
+        "claimed": 2919,
+        "actual": 2912,
+        "drift": -7
       },
       {
-        "claimed": 5557,
-        "actual": 5548,
-        "drift": -9
+        "claimed": 3600,
+        "actual": 3581,
+        "drift": -19
       },
       {
-        "claimed": 6416,
-        "actual": 6405,
-        "drift": -11
+        "claimed": 4733,
+        "actual": 4723,
+        "drift": -10
       },
       {
-        "claimed": 6986,
-        "actual": 6987,
-        "drift": 1
+        "claimed": 5724,
+        "actual": 5712,
+        "drift": -12
       },
       {
-        "claimed": 8477,
-        "actual": 8468,
-        "drift": -9
+        "claimed": 6621,
+        "actual": 6606,
+        "drift": -15
+      },
+      {
+        "claimed": 7164,
+        "actual": 7148,
+        "drift": -16
+      },
+      {
+        "claimed": 7677,
+        "actual": 7659,
+        "drift": -18
+      },
+      {
+        "claimed": 8681,
+        "actual": 8671,
+        "drift": -10
       }
-    ]
+    ],
+    "raw_sha": "414208da7a24"
   },
   "2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-": {
     "status": "ok",
-    "samples_matched": 10,
-    "samples_not_found_nearby": 2,
+    "samples_matched": 12,
+    "samples_not_found_nearby": 0,
     "samples_total": 12,
-    "max_drift_seconds": 29,
+    "max_drift_seconds": 22,
     "flagged": false,
     "details": [
       {
@@ -1045,39 +1074,49 @@
         "drift": 1
       },
       {
-        "claimed": 681,
-        "actual": 664,
-        "drift": -17
+        "claimed": 550,
+        "actual": 539,
+        "drift": -11
       },
       {
-        "claimed": 1283,
-        "actual": 1268,
+        "claimed": 1055,
+        "actual": 1034,
+        "drift": -21
+      },
+      {
+        "claimed": 1365,
+        "actual": 1351,
+        "drift": -14
+      },
+      {
+        "claimed": 2604,
+        "actual": 2589,
         "drift": -15
       },
       {
-        "claimed": 1692,
-        "actual": 1663,
-        "drift": -29
+        "claimed": 3673,
+        "actual": 3656,
+        "drift": -17
       },
       {
-        "claimed": 2599,
-        "actual": 2587,
-        "drift": -12
+        "claimed": 4409,
+        "actual": 4387,
+        "drift": -22
       },
       {
-        "claimed": 3937,
-        "actual": 3929,
+        "claimed": 5299,
+        "actual": 5291,
         "drift": -8
       },
       {
-        "claimed": 5356,
-        "actual": 5340,
-        "drift": -16
+        "claimed": 6796,
+        "actual": 6783,
+        "drift": -13
       },
       {
-        "claimed": 6815,
-        "actual": 6797,
-        "drift": -18
+        "claimed": 8044,
+        "actual": 8029,
+        "drift": -15
       },
       {
         "claimed": 8450,
@@ -1085,11 +1124,12 @@
         "drift": -14
       },
       {
-        "claimed": 8580,
-        "actual": 8569,
-        "drift": -11
+        "claimed": 8682,
+        "actual": 8675,
+        "drift": -7
       }
-    ]
+    ],
+    "raw_sha": "cd436f169478"
   },
   "2025-12-26-ep28-episod-terakhir-2025-10-perkara-yang-kita-tak-boleh-buat-bua": {
     "status": "ok",
@@ -1139,30 +1179,31 @@
         "actual": 10399,
         "drift": 1
       }
-    ]
+    ],
+    "raw_sha": "3194b29e291a"
   },
   "2026-01-02-ep29-1mdb-parut-negara-umno-retak-pn-bergoncang-ybm-29": {
     "status": "ok",
-    "samples_matched": 9,
-    "samples_not_found_nearby": 3,
+    "samples_matched": 8,
+    "samples_not_found_nearby": 4,
     "samples_total": 12,
-    "max_drift_seconds": 19,
+    "max_drift_seconds": 21,
     "flagged": false,
     "details": [
       {
-        "claimed": 143,
+        "claimed": 152,
         "actual": 145,
-        "drift": 2
-      },
-      {
-        "claimed": 388,
-        "actual": 381,
         "drift": -7
       },
       {
-        "claimed": 797,
-        "actual": 783,
-        "drift": -14
+        "claimed": 411,
+        "actual": 398,
+        "drift": -13
+      },
+      {
+        "claimed": 841,
+        "actual": 820,
+        "drift": -21
       },
       {
         "claimed": 1309,
@@ -1180,86 +1221,78 @@
         "drift": -11
       },
       {
-        "claimed": 5079,
-        "actual": 5060,
-        "drift": -19
+        "claimed": 8214,
+        "actual": 8196,
+        "drift": -18
       },
       {
-        "claimed": 7445,
-        "actual": 7436,
-        "drift": -9
-      },
-      {
-        "claimed": 9200,
-        "actual": 9183,
-        "drift": -17
+        "claimed": 9249,
+        "actual": 9239,
+        "drift": -10
       }
-    ]
+    ],
+    "raw_sha": "6733cce4f4ed"
   },
   "2026-01-16-ep31-dpa-sprm-farhash-rugi-rm97-5-juta-pau-2025-ada-apa-dengan-pk": {
     "status": "ok",
-    "samples_matched": 11,
-    "samples_not_found_nearby": 1,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 24,
+    "max_drift_seconds": 16,
     "flagged": false,
     "details": [
       {
-        "claimed": 153,
+        "claimed": 155,
         "actual": 153,
-        "drift": 0
+        "drift": -2
       },
       {
-        "claimed": 464,
-        "actual": 454,
+        "claimed": 466,
+        "actual": 457,
+        "drift": -9
+      },
+      {
+        "claimed": 1119,
+        "actual": 1108,
+        "drift": -11
+      },
+      {
+        "claimed": 2082,
+        "actual": 2072,
         "drift": -10
       },
       {
-        "claimed": 2742,
-        "actual": 2732,
-        "drift": -10
-      },
-      {
-        "claimed": 3191,
-        "actual": 3175,
-        "drift": -16
-      },
-      {
-        "claimed": 4243,
-        "actual": 4231,
-        "drift": -12
-      },
-      {
-        "claimed": 5035,
-        "actual": 5023,
-        "drift": -12
-      },
-      {
-        "claimed": 6151,
-        "actual": 6136,
-        "drift": -15
-      },
-      {
-        "claimed": 7928,
-        "actual": 7914,
+        "claimed": 2889,
+        "actual": 2875,
         "drift": -14
       },
       {
-        "claimed": 8441,
-        "actual": 8426,
+        "claimed": 3728,
+        "actual": 3728,
+        "drift": 0
+      },
+      {
+        "claimed": 4421,
+        "actual": 4406,
         "drift": -15
       },
       {
-        "claimed": 8911,
-        "actual": 8896,
-        "drift": -15
+        "claimed": 5788,
+        "actual": 5798,
+        "drift": 10
       },
       {
-        "claimed": 9138,
-        "actual": 9114,
-        "drift": -24
+        "claimed": 6685,
+        "actual": 6669,
+        "drift": -16
+      },
+      {
+        "claimed": 8955,
+        "actual": 8941,
+        "drift": -14
       }
-    ]
+    ],
+    "raw_sha": "3616959967fb"
   },
   "2026-01-23-ep32-sekolah-banyak-markah-jatuh-rpm-rptm-2026-2035-realiti-pendi": {
     "status": "ok",
@@ -1329,7 +1362,8 @@
         "actual": 10008,
         "drift": -16
       }
-    ]
+    ],
+    "raw_sha": "33c8def02953"
   },
   "2026-01-30-ep33-pn-dari-bergolak-ke-berkecai-skandal-yang-belum-selesai-ybm-": {
     "status": "ok",
@@ -1384,12 +1418,13 @@
         "actual": 8772,
         "drift": -16
       }
-    ]
+    ],
+    "raw_sha": "97a1ea989d0c"
   },
   "2026-02-06-ep34-pilihanraya-datuk-bandar-kl-kos-bina-1-bilik-darjah-tapisan-": {
     "status": "ok",
-    "samples_matched": 10,
-    "samples_not_found_nearby": 2,
+    "samples_matched": 9,
+    "samples_not_found_nearby": 3,
     "samples_total": 12,
     "max_drift_seconds": 20,
     "flagged": false,
@@ -1400,14 +1435,14 @@
         "drift": -1
       },
       {
-        "claimed": 687,
-        "actual": 674,
-        "drift": -13
+        "claimed": 652,
+        "actual": 634,
+        "drift": -18
       },
       {
-        "claimed": 1095,
-        "actual": 1081,
-        "drift": -14
+        "claimed": 1084,
+        "actual": 1075,
+        "drift": -9
       },
       {
         "claimed": 1941,
@@ -1425,9 +1460,9 @@
         "drift": -16
       },
       {
-        "claimed": 5140,
-        "actual": 5123,
-        "drift": -17
+        "claimed": 5114,
+        "actual": 5103,
+        "drift": -11
       },
       {
         "claimed": 6034,
@@ -1435,16 +1470,12 @@
         "drift": -20
       },
       {
-        "claimed": 6850,
-        "actual": 6846,
-        "drift": -4
-      },
-      {
         "claimed": 7925,
         "actual": 7911,
         "drift": -14
       }
-    ]
+    ],
+    "raw_sha": "d83acc3e9123"
   },
   "2026-02-13-ep35-pendedahan-bloomberg-berkaitan-azam-baki-isu-rumah-ibadat-ra": {
     "status": "ok",
@@ -1514,7 +1545,8 @@
         "actual": 10558,
         "drift": -16
       }
-    ]
+    ],
+    "raw_sha": "af413526a27a"
   },
   "2026-02-20-ep36-2-5b-jv-1-1b-tuduhan-caprice-akan-disaman-kita-jawab-satu-sa": {
     "status": "ok",
@@ -1574,12 +1606,13 @@
         "actual": 8542,
         "drift": -13
       }
-    ]
+    ],
+    "raw_sha": "0fe4acac7521"
   },
   "2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha": {
     "status": "ok",
-    "samples_matched": 10,
-    "samples_not_found_nearby": 2,
+    "samples_matched": 9,
+    "samples_not_found_nearby": 3,
     "samples_total": 12,
     "max_drift_seconds": 19,
     "flagged": false,
@@ -1590,19 +1623,14 @@
         "drift": 1
       },
       {
-        "claimed": 622,
-        "actual": 606,
-        "drift": -16
-      },
-      {
         "claimed": 1794,
         "actual": 1782,
         "drift": -12
       },
       {
-        "claimed": 2409,
-        "actual": 2398,
-        "drift": -11
+        "claimed": 2433,
+        "actual": 2421,
+        "drift": -12
       },
       {
         "claimed": 3314,
@@ -1615,9 +1643,9 @@
         "drift": -19
       },
       {
-        "claimed": 4814,
-        "actual": 4801,
-        "drift": -13
+        "claimed": 4835,
+        "actual": 4821,
+        "drift": -14
       },
       {
         "claimed": 5988,
@@ -1634,7 +1662,8 @@
         "actual": 6852,
         "drift": -13
       }
-    ]
+    ],
+    "raw_sha": "b165bcae5a54"
   },
   "2026-03-06-ep38-sprm-cari-james-chai-tangan-tangan-ghaib-berkaitan-zionis-yb": {
     "status": "ok",
@@ -1694,7 +1723,8 @@
         "actual": 9400,
         "drift": -8
       }
-    ]
+    ],
+    "raw_sha": "b6e7310fb4b1"
   },
   "2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak": {
     "status": "ok",
@@ -1749,104 +1779,96 @@
         "actual": 9011,
         "drift": -11
       }
-    ]
+    ],
+    "raw_sha": "4482315ceefa"
   },
   "2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne": {
     "status": "ok",
-    "samples_matched": 9,
-    "samples_not_found_nearby": 3,
+    "samples_matched": 8,
+    "samples_not_found_nearby": 4,
     "samples_total": 12,
-    "max_drift_seconds": 22,
+    "max_drift_seconds": 158,
     "flagged": false,
     "details": [
       {
-        "claimed": 53,
+        "claimed": 68,
         "actual": 54,
-        "drift": 1
+        "drift": -14
       },
       {
-        "claimed": 429,
-        "actual": 417,
-        "drift": -12
+        "claimed": 275,
+        "actual": 262,
+        "drift": -13
       },
       {
-        "claimed": 695,
-        "actual": 676,
-        "drift": -19
+        "claimed": 682,
+        "actual": 664,
+        "drift": -18
       },
       {
-        "claimed": 1190,
-        "actual": 1174,
-        "drift": -16
+        "claimed": 2576,
+        "actual": 2563,
+        "drift": -13
       },
       {
-        "claimed": 3039,
-        "actual": 3028,
-        "drift": -11
+        "claimed": 3407,
+        "actual": 3249,
+        "drift": -158
       },
       {
-        "claimed": 3711,
-        "actual": 3696,
-        "drift": -15
-      },
-      {
-        "claimed": 4600,
-        "actual": 4581,
-        "drift": -19
-      },
-      {
-        "claimed": 5305,
-        "actual": 5294,
+        "claimed": 4873,
+        "actual": 4862,
         "drift": -11
       },
       {
         "claimed": 7253,
         "actual": 7231,
         "drift": -22
+      },
+      {
+        "claimed": 8069,
+        "actual": 8067,
+        "drift": -2
       }
-    ]
+    ],
+    "raw_sha": "1c144eb659dc"
   },
   "2026-03-27-ep41-siapa-mr-r-bukti-40-muka-surat-tindak-balas-kerajaan-susulan": {
     "status": "ok",
-    "samples_matched": 10,
-    "samples_not_found_nearby": 2,
+    "samples_matched": 8,
+    "samples_not_found_nearby": 4,
     "samples_total": 12,
-    "max_drift_seconds": 23,
+    "max_drift_seconds": 36,
     "flagged": false,
     "details": [
       {
-        "claimed": 126,
-        "actual": 114,
+        "claimed": 374,
+        "actual": 362,
         "drift": -12
       },
       {
-        "claimed": 1378,
-        "actual": 1359,
-        "drift": -19
+        "claimed": 606,
+        "actual": 589,
+        "drift": -17
       },
       {
-        "claimed": 1892,
-        "actual": 1883,
-        "drift": -9
+        "claimed": 2046,
+        "actual": 2030,
+        "drift": -16
       },
       {
-        "claimed": 4806,
-        "actual": 4793,
-        "drift": -13
+        "claimed": 3978,
+        "actual": 3966,
+        "drift": -12
       },
       {
-        "claimed": 7194,
-        "actual": 7171,
-        "drift": -23
+        "claimed": 4820,
+        "actual": 4806,
+        "drift": -14
       },
       {
         "claimed": 7442,
         "actual": 7424,
-        "drift": -18
-      },
-      {
-        "claimed": 7910,
-        "actual": 7892,
         "drift": -18
       },
       {
@@ -1855,54 +1877,50 @@
         "drift": -14
       },
       {
-        "claimed": 8670,
-        "actual": 8660,
-        "drift": -10
-      },
-      {
-        "claimed": 9227,
-        "actual": 9208,
-        "drift": -19
+        "claimed": 10297,
+        "actual": 10333,
+        "drift": 36
       }
-    ]
+    ],
+    "raw_sha": "e26947a186fd"
   },
   "2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-": {
     "status": "ok",
-    "samples_matched": 9,
-    "samples_not_found_nearby": 3,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
     "max_drift_seconds": 19,
     "flagged": false,
     "details": [
       {
-        "claimed": 6,
+        "claimed": 7,
         "actual": 5,
-        "drift": -1
+        "drift": -2
       },
       {
-        "claimed": 260,
-        "actual": 253,
+        "claimed": 292,
+        "actual": 285,
         "drift": -7
       },
       {
-        "claimed": 2060,
-        "actual": 2050,
-        "drift": -10
-      },
-      {
-        "claimed": 2930,
-        "actual": 2918,
-        "drift": -12
-      },
-      {
-        "claimed": 3275,
-        "actual": 3261,
+        "claimed": 1071,
+        "actual": 1057,
         "drift": -14
       },
       {
-        "claimed": 4220,
-        "actual": 4201,
+        "claimed": 1948,
+        "actual": 1929,
         "drift": -19
+      },
+      {
+        "claimed": 3227,
+        "actual": 3223,
+        "drift": -4
+      },
+      {
+        "claimed": 3995,
+        "actual": 3996,
+        "drift": 1
       },
       {
         "claimed": 6812,
@@ -1910,23 +1928,29 @@
         "drift": -11
       },
       {
-        "claimed": 7789,
-        "actual": 7788,
-        "drift": -1
+        "claimed": 7821,
+        "actual": 7825,
+        "drift": 4
       },
       {
-        "claimed": 9934,
-        "actual": 9920,
+        "claimed": 8659,
+        "actual": 8643,
+        "drift": -16
+      },
+      {
+        "claimed": 9904,
+        "actual": 9890,
         "drift": -14
       }
-    ]
+    ],
+    "raw_sha": "6588151d4bed"
   },
   "2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar": {
     "status": "ok",
-    "samples_matched": 10,
-    "samples_not_found_nearby": 2,
+    "samples_matched": 9,
+    "samples_not_found_nearby": 3,
     "samples_total": 12,
-    "max_drift_seconds": 20,
+    "max_drift_seconds": 27,
     "flagged": false,
     "details": [
       {
@@ -1935,24 +1959,24 @@
         "drift": 0
       },
       {
-        "claimed": 997,
-        "actual": 983,
-        "drift": -14
-      },
-      {
-        "claimed": 1548,
-        "actual": 1537,
-        "drift": -11
-      },
-      {
-        "claimed": 1787,
-        "actual": 1778,
+        "claimed": 1156,
+        "actual": 1147,
         "drift": -9
       },
       {
-        "claimed": 4359,
-        "actual": 4346,
-        "drift": -13
+        "claimed": 1649,
+        "actual": 1639,
+        "drift": -10
+      },
+      {
+        "claimed": 2670,
+        "actual": 2643,
+        "drift": -27
+      },
+      {
+        "claimed": 4187,
+        "actual": 4186,
+        "drift": -1
       },
       {
         "claimed": 4407,
@@ -1960,9 +1984,9 @@
         "drift": -15
       },
       {
-        "claimed": 5054,
-        "actual": 5049,
-        "drift": -5
+        "claimed": 5917,
+        "actual": 5908,
+        "drift": -9
       },
       {
         "claimed": 7386,
@@ -1970,39 +1994,40 @@
         "drift": -12
       },
       {
-        "claimed": 9355,
-        "actual": 9335,
-        "drift": -20
-      },
-      {
-        "claimed": 9496,
-        "actual": 9485,
-        "drift": -11
+        "claimed": 7923,
+        "actual": 7916,
+        "drift": -7
       }
-    ]
+    ],
+    "raw_sha": "a396b5fbf4dd"
   },
   "2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa": {
     "status": "ok",
-    "samples_matched": 10,
-    "samples_not_found_nearby": 2,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 18,
+    "max_drift_seconds": 19,
     "flagged": false,
     "details": [
       {
-        "claimed": 44,
+        "claimed": 50,
         "actual": 44,
-        "drift": 0
+        "drift": -6
       },
       {
-        "claimed": 80,
-        "actual": 68,
-        "drift": -12
+        "claimed": 475,
+        "actual": 456,
+        "drift": -19
       },
       {
-        "claimed": 1419,
-        "actual": 1407,
-        "drift": -12
+        "claimed": 890,
+        "actual": 877,
+        "drift": -13
+      },
+      {
+        "claimed": 1389,
+        "actual": 1374,
+        "drift": -15
       },
       {
         "claimed": 2160,
@@ -2010,43 +2035,44 @@
         "drift": -15
       },
       {
-        "claimed": 2455,
-        "actual": 2456,
-        "drift": 1
+        "claimed": 3225,
+        "actual": 3206,
+        "drift": -19
       },
       {
-        "claimed": 4171,
-        "actual": 4155,
-        "drift": -16
+        "claimed": 4299,
+        "actual": 4287,
+        "drift": -12
       },
       {
-        "claimed": 4189,
-        "actual": 4172,
-        "drift": -17
+        "claimed": 4886,
+        "actual": 4878,
+        "drift": -8
       },
       {
-        "claimed": 4353,
-        "actual": 4340,
-        "drift": -13
-      },
-      {
-        "claimed": 6086,
-        "actual": 6068,
-        "drift": -18
+        "claimed": 6314,
+        "actual": 6311,
+        "drift": -3
       },
       {
         "claimed": 8762,
         "actual": 8751,
         "drift": -11
+      },
+      {
+        "claimed": 9708,
+        "actual": 9697,
+        "drift": -11
       }
-    ]
+    ],
+    "raw_sha": "f80fe3783738"
   },
   "2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih": {
     "status": "ok",
-    "samples_matched": 10,
-    "samples_not_found_nearby": 2,
+    "samples_matched": 9,
+    "samples_not_found_nearby": 3,
     "samples_total": 12,
-    "max_drift_seconds": 17,
+    "max_drift_seconds": 20,
     "flagged": false,
     "details": [
       {
@@ -2055,19 +2081,24 @@
         "drift": 0
       },
       {
+        "claimed": 448,
+        "actual": 430,
+        "drift": -18
+      },
+      {
         "claimed": 1070,
         "actual": 1065,
         "drift": -5
       },
       {
-        "claimed": 2002,
-        "actual": 1991,
-        "drift": -11
+        "claimed": 1345,
+        "actual": 1335,
+        "drift": -10
       },
       {
-        "claimed": 2904,
-        "actual": 2888,
-        "drift": -16
+        "claimed": 2882,
+        "actual": 2867,
+        "drift": -15
       },
       {
         "claimed": 4228,
@@ -2075,38 +2106,29 @@
         "drift": -17
       },
       {
-        "claimed": 4494,
-        "actual": 4484,
-        "drift": -10
+        "claimed": 6312,
+        "actual": 6292,
+        "drift": -20
       },
       {
-        "claimed": 6147,
-        "actual": 6134,
-        "drift": -13
+        "claimed": 8010,
+        "actual": 7994,
+        "drift": -16
       },
       {
-        "claimed": 6886,
-        "actual": 6876,
-        "drift": -10
-      },
-      {
-        "claimed": 9381,
-        "actual": 9366,
-        "drift": -15
-      },
-      {
-        "claimed": 10215,
-        "actual": 10202,
-        "drift": -13
+        "claimed": 9208,
+        "actual": 9194,
+        "drift": -14
       }
-    ]
+    ],
+    "raw_sha": "38724a8216a8"
   },
   "2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r": {
     "status": "ok",
-    "samples_matched": 8,
-    "samples_not_found_nearby": 4,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 20,
+    "max_drift_seconds": 19,
     "flagged": false,
     "details": [
       {
@@ -2120,9 +2142,9 @@
         "drift": -12
       },
       {
-        "claimed": 2030,
-        "actual": 2010,
-        "drift": -20
+        "claimed": 2049,
+        "actual": 2034,
+        "drift": -15
       },
       {
         "claimed": 2427,
@@ -2130,64 +2152,90 @@
         "drift": -11
       },
       {
+        "claimed": 4804,
+        "actual": 4791,
+        "drift": -13
+      },
+      {
+        "claimed": 5899,
+        "actual": 5880,
+        "drift": -19
+      },
+      {
         "claimed": 7059,
         "actual": 7047,
         "drift": -12
       },
       {
-        "claimed": 7711,
-        "actual": 7701,
-        "drift": -10
+        "claimed": 7881,
+        "actual": 7867,
+        "drift": -14
       },
       {
-        "claimed": 9356,
-        "actual": 9343,
-        "drift": -13
+        "claimed": 8489,
+        "actual": 8475,
+        "drift": -14
       },
       {
-        "claimed": 10180,
-        "actual": 10163,
-        "drift": -17
+        "claimed": 9562,
+        "actual": 9547,
+        "drift": -15
+      },
+      {
+        "claimed": 10622,
+        "actual": 10607,
+        "drift": -15
       }
-    ]
+    ],
+    "raw_sha": "ddceb33dec6a"
   },
   "2026-05-08-ep47-semua-bocor-exam-sprm-kerusi-pkr-dan-soalan-pru16-ybm-47": {
     "status": "ok",
-    "samples_matched": 10,
-    "samples_not_found_nearby": 2,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 26,
+    "max_drift_seconds": 24,
     "flagged": false,
     "details": [
       {
-        "claimed": 75,
+        "claimed": 77,
         "actual": 76,
-        "drift": 1
+        "drift": -1
       },
       {
-        "claimed": 1611,
-        "actual": 1600,
-        "drift": -11
-      },
-      {
-        "claimed": 3263,
-        "actual": 3244,
-        "drift": -19
-      },
-      {
-        "claimed": 3616,
-        "actual": 3590,
-        "drift": -26
-      },
-      {
-        "claimed": 4239,
-        "actual": 4226,
+        "claimed": 296,
+        "actual": 283,
         "drift": -13
       },
       {
-        "claimed": 4845,
-        "actual": 4828,
-        "drift": -17
+        "claimed": 506,
+        "actual": 491,
+        "drift": -15
+      },
+      {
+        "claimed": 947,
+        "actual": 933,
+        "drift": -14
+      },
+      {
+        "claimed": 1770,
+        "actual": 1760,
+        "drift": -10
+      },
+      {
+        "claimed": 2189,
+        "actual": 2173,
+        "drift": -16
+      },
+      {
+        "claimed": 3491,
+        "actual": 3477,
+        "drift": -14
+      },
+      {
+        "claimed": 4869,
+        "actual": 4863,
+        "drift": -6
       },
       {
         "claimed": 6726,
@@ -2195,21 +2243,17 @@
         "drift": -24
       },
       {
-        "claimed": 8444,
-        "actual": 8429,
+        "claimed": 7570,
+        "actual": 7562,
+        "drift": -8
+      },
+      {
+        "claimed": 8432,
+        "actual": 8417,
         "drift": -15
-      },
-      {
-        "claimed": 9417,
-        "actual": 9400,
-        "drift": -17
-      },
-      {
-        "claimed": 10446,
-        "actual": 10432,
-        "drift": -14
       }
-    ]
+    ],
+    "raw_sha": "afd9c50937f9"
   },
   "2026-05-15-ep48-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi": {
     "status": "ok",
@@ -2279,7 +2323,8 @@
         "actual": 10691,
         "drift": -17
       }
-    ]
+    ],
+    "raw_sha": "a2a114a70934"
   },
   "2026-05-22-ep49-seminggu-selepas-bersama-ph-bn-tidak-lagi-bersama-ybm-49": {
     "status": "ok",
@@ -2339,7 +2384,8 @@
         "actual": 11033,
         "drift": -14
       }
-    ]
+    ],
+    "raw_sha": "c17029b46ee7"
   },
   "2026-05-29-ep50-rafizi-berdepan-firing-squad-ybm-50": {
     "status": "ok",
@@ -2404,14 +2450,15 @@
         "actual": 8007,
         "drift": -20
       }
-    ]
+    ],
+    "raw_sha": "314d73f8759a"
   },
   "2026-06-05-ep51-so-it-begins-prn-johor-n9-tiada-madani-bagimu-ybm-51": {
     "status": "ok",
     "samples_matched": 11,
     "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 23,
+    "max_drift_seconds": 16,
     "flagged": false,
     "details": [
       {
@@ -2445,38 +2492,39 @@
         "drift": -7
       },
       {
-        "claimed": 4672,
-        "actual": 4658,
+        "claimed": 4436,
+        "actual": 4431,
+        "drift": -5
+      },
+      {
+        "claimed": 5042,
+        "actual": 5028,
         "drift": -14
       },
       {
-        "claimed": 5110,
-        "actual": 5095,
-        "drift": -15
+        "claimed": 5676,
+        "actual": 5660,
+        "drift": -16
       },
       {
-        "claimed": 5898,
-        "actual": 5875,
-        "drift": -23
+        "claimed": 7108,
+        "actual": 7096,
+        "drift": -12
       },
       {
-        "claimed": 7155,
-        "actual": 7140,
-        "drift": -15
-      },
-      {
-        "claimed": 8060,
-        "actual": 8043,
-        "drift": -17
+        "claimed": 7576,
+        "actual": 7562,
+        "drift": -14
       }
-    ]
+    ],
+    "raw_sha": "e0145a5015f5"
   },
   "2026-06-12-ep52-parti-parti-politik-melayu-bergaduh-anak-muda-memberontak-yb": {
     "status": "ok",
-    "samples_matched": 9,
-    "samples_not_found_nearby": 3,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 21,
+    "max_drift_seconds": 17,
     "flagged": false,
     "details": [
       {
@@ -2485,46 +2533,57 @@
         "drift": 0
       },
       {
-        "claimed": 584,
-        "actual": 572,
+        "claimed": 523,
+        "actual": 511,
         "drift": -12
       },
       {
-        "claimed": 1180,
-        "actual": 1159,
-        "drift": -21
+        "claimed": 1033,
+        "actual": 1030,
+        "drift": -3
       },
       {
-        "claimed": 1462,
-        "actual": 1453,
-        "drift": -9
+        "claimed": 1449,
+        "actual": 1432,
+        "drift": -17
       },
       {
-        "claimed": 2388,
-        "actual": 2390,
-        "drift": 2
+        "claimed": 3086,
+        "actual": 3073,
+        "drift": -13
       },
       {
-        "claimed": 3278,
-        "actual": 3270,
-        "drift": -8
+        "claimed": 3763,
+        "actual": 3747,
+        "drift": -16
       },
       {
-        "claimed": 3827,
-        "actual": 3815,
-        "drift": -12
-      },
-      {
-        "claimed": 5406,
-        "actual": 5391,
+        "claimed": 5353,
+        "actual": 5338,
         "drift": -15
       },
       {
-        "claimed": 7197,
-        "actual": 7188,
-        "drift": -9
+        "claimed": 6413,
+        "actual": 6397,
+        "drift": -16
+      },
+      {
+        "claimed": 6937,
+        "actual": 6925,
+        "drift": -12
+      },
+      {
+        "claimed": 7806,
+        "actual": 7792,
+        "drift": -14
+      },
+      {
+        "claimed": 8834,
+        "actual": 8828,
+        "drift": -6
       }
-    ]
+    ],
+    "raw_sha": "6af3a78276cc"
   },
   "2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y": {
     "status": "ok",
@@ -2584,7 +2643,8 @@
         "actual": 10110,
         "drift": -11
       }
-    ]
+    ],
+    "raw_sha": "bbcba89f0c45"
   },
   "2026-06-25-ep54-pilihanraya-negeri-johor-menghampiri-ybm-54": {
     "status": "ok",
@@ -2654,14 +2714,15 @@
         "actual": 4672,
         "drift": -5
       }
-    ]
+    ],
+    "raw_sha": "0442aef668ac"
   },
   "2026-07-17-ep55-apa-jadi-prn-johor-kenapa-tak-masuk-prn-negeri-sembilan-ybm-": {
     "status": "ok",
     "samples_matched": 11,
     "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 18,
+    "max_drift_seconds": 19,
     "flagged": false,
     "details": [
       {
@@ -2670,24 +2731,24 @@
         "drift": 0
       },
       {
-        "claimed": 321,
-        "actual": 307,
+        "claimed": 322,
+        "actual": 309,
+        "drift": -13
+      },
+      {
+        "claimed": 692,
+        "actual": 673,
+        "drift": -19
+      },
+      {
+        "claimed": 1046,
+        "actual": 1032,
         "drift": -14
       },
       {
-        "claimed": 742,
-        "actual": 726,
-        "drift": -16
-      },
-      {
-        "claimed": 2607,
-        "actual": 2600,
-        "drift": -7
-      },
-      {
-        "claimed": 3286,
-        "actual": 3276,
-        "drift": -10
+        "claimed": 3206,
+        "actual": 3194,
+        "drift": -12
       },
       {
         "claimed": 4314,
@@ -2719,7 +2780,8 @@
         "actual": 9562,
         "drift": -18
       }
-    ]
+    ],
+    "raw_sha": "cfba0663b4f6"
   },
   "2026-07-24-ep56-isu-pelaburan-efishery-lama-mana-kerajaan-madani-akan-bertah": {
     "status": "ok",
@@ -2779,7 +2841,8 @@
         "actual": 8307,
         "drift": -27
       }
-    ]
+    ],
+    "raw_sha": "d437df0f358a"
   },
   "2026-07-31-ep57-laporan-rci-tabung-haji-ybm-57": {
     "status": "ok",
@@ -2834,14 +2897,15 @@
         "actual": 11135,
         "drift": -15
       }
-    ]
+    ],
+    "raw_sha": "34eba2614dab"
   },
   "2026-08-07-ep58-umno-pas-asal-melayu-berkuasa-masalah-lain-belakang-kira-ybm": {
     "status": "ok",
-    "samples_matched": 12,
-    "samples_not_found_nearby": 0,
+    "samples_matched": 11,
+    "samples_not_found_nearby": 1,
     "samples_total": 12,
-    "max_drift_seconds": 27,
+    "max_drift_seconds": 161,
     "flagged": false,
     "details": [
       {
@@ -2850,44 +2914,34 @@
         "drift": 0
       },
       {
-        "claimed": 499,
-        "actual": 482,
-        "drift": -17
+        "claimed": 313,
+        "actual": 305,
+        "drift": -8
       },
       {
-        "claimed": 908,
-        "actual": 891,
-        "drift": -17
+        "claimed": 1411,
+        "actual": 1399,
+        "drift": -12
       },
       {
-        "claimed": 1084,
-        "actual": 1078,
-        "drift": -6
+        "claimed": 1808,
+        "actual": 1796,
+        "drift": -12
       },
       {
-        "claimed": 3522,
-        "actual": 3523,
-        "drift": 1
+        "claimed": 2210,
+        "actual": 2197,
+        "drift": -13
       },
       {
-        "claimed": 3559,
-        "actual": 3532,
-        "drift": -27
+        "claimed": 3444,
+        "actual": 3433,
+        "drift": -11
       },
       {
-        "claimed": 4740,
-        "actual": 4723,
-        "drift": -17
-      },
-      {
-        "claimed": 5025,
-        "actual": 5003,
-        "drift": -22
-      },
-      {
-        "claimed": 5735,
-        "actual": 5719,
-        "drift": -16
+        "claimed": 4673,
+        "actual": 4659,
+        "drift": -14
       },
       {
         "claimed": 5758,
@@ -2895,16 +2949,22 @@
         "drift": -1
       },
       {
-        "claimed": 10214,
-        "actual": 10198,
-        "drift": -16
+        "claimed": 7638,
+        "actual": 7641,
+        "drift": 3
       },
       {
-        "claimed": 10748,
-        "actual": 10735,
-        "drift": -13
+        "claimed": 9281,
+        "actual": 9442,
+        "drift": 161
+      },
+      {
+        "claimed": 10308,
+        "actual": 10297,
+        "drift": -11
       }
-    ]
+    ],
+    "raw_sha": "326ca94653e7"
   },
   "2026-08-14-ep59-rci-tabung-haji-apa-yang-tidak-dibincangkan-di-parlimen-dap-": {
     "status": "ok",
@@ -2959,12 +3019,13 @@
         "actual": 10431,
         "drift": -11
       }
-    ]
+    ],
+    "raw_sha": "2ce42efcdc48"
   },
   "2026-08-21-ep60-mansuh-auku-ekonomi-tumbuh-pesat-6-tapi-tetap-hilang-undi-yb": {
     "status": "ok",
-    "samples_matched": 12,
-    "samples_not_found_nearby": 0,
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
     "samples_total": 12,
     "max_drift_seconds": 19,
     "flagged": false,
@@ -2975,34 +3036,24 @@
         "drift": 0
       },
       {
-        "claimed": 319,
-        "actual": 315,
-        "drift": -4
+        "claimed": 1273,
+        "actual": 1261,
+        "drift": -12
       },
       {
-        "claimed": 1160,
-        "actual": 1149,
-        "drift": -11
+        "claimed": 1513,
+        "actual": 1497,
+        "drift": -16
       },
       {
-        "claimed": 1449,
-        "actual": 1442,
-        "drift": -7
+        "claimed": 1980,
+        "actual": 1971,
+        "drift": -9
       },
       {
-        "claimed": 1918,
-        "actual": 1904,
-        "drift": -14
-      },
-      {
-        "claimed": 2527,
-        "actual": 2508,
-        "drift": -19
-      },
-      {
-        "claimed": 3252,
-        "actual": 3242,
-        "drift": -10
+        "claimed": 3284,
+        "actual": 3279,
+        "drift": -5
       },
       {
         "claimed": 4695,
@@ -3010,9 +3061,9 @@
         "drift": -19
       },
       {
-        "claimed": 5657,
-        "actual": 5642,
-        "drift": -15
+        "claimed": 6241,
+        "actual": 6230,
+        "drift": -11
       },
       {
         "claimed": 6856,
@@ -3020,15 +3071,87 @@
         "drift": -14
       },
       {
-        "claimed": 8085,
-        "actual": 8069,
-        "drift": -16
+        "claimed": 8115,
+        "actual": 8112,
+        "drift": -3
       },
       {
         "claimed": 10010,
         "actual": 9994,
         "drift": -16
       }
-    ]
+    ],
+    "raw_sha": "8ac848687a57"
+  },
+  "2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-": {
+    "status": "ok",
+    "samples_matched": 12,
+    "samples_not_found_nearby": 0,
+    "samples_total": 12,
+    "max_drift_seconds": 0,
+    "flagged": false,
+    "details": [
+      {
+        "claimed": 45,
+        "actual": 45,
+        "drift": 0
+      },
+      {
+        "claimed": 292,
+        "actual": 292,
+        "drift": 0
+      },
+      {
+        "claimed": 777,
+        "actual": 777,
+        "drift": 0
+      },
+      {
+        "claimed": 1074,
+        "actual": 1074,
+        "drift": 0
+      },
+      {
+        "claimed": 1357,
+        "actual": 1357,
+        "drift": 0
+      },
+      {
+        "claimed": 2105,
+        "actual": 2105,
+        "drift": 0
+      },
+      {
+        "claimed": 2510,
+        "actual": 2510,
+        "drift": 0
+      },
+      {
+        "claimed": 4232,
+        "actual": 4232,
+        "drift": 0
+      },
+      {
+        "claimed": 5677,
+        "actual": 5677,
+        "drift": 0
+      },
+      {
+        "claimed": 6126,
+        "actual": 6126,
+        "drift": 0
+      },
+      {
+        "claimed": 8014,
+        "actual": 8014,
+        "drift": 0
+      },
+      {
+        "claimed": 9031,
+        "actual": 9031,
+        "drift": 0
+      }
+    ],
+    "raw_sha": "6dd2fd6d144d"
   }
 }

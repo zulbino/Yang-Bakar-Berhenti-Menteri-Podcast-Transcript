@@ -11,6 +11,7 @@ view_count: 11868
 hosts:
 - Rafizi
 - Haziq
+- Farhan (Pa'an)
 guests: []
 topics:
 - Hydrogen therapy nebulizer health overclaims
@@ -513,7 +514,7 @@ Sebab itulah paralelnya dengan Tun Mahathir dulu. *For my generation*, kan Tun M
 
 Okey, *bye* WB. 2 jam 50 minit, okeylah kot. Saya pun dah penat sangat. Esok kita di Melaka, kenduri bersama. Itu dekat DUN mana? Eh, bukan Kesidang, ceramah malam itu di DUN Telok Mas. DUN Telok Mas itu dalam Kota Melaka. Alamat dia ialah di Tiny House, satu tempat bernama Tiny House. DUN Telok Mas adalah satu DUN di Kota Melaka. Jadi jumpa kami. Siku saya dah okey dah lepas cedera main *pickleball*. *So* kalau ada *pickleball*, aku main lagi. Main lagi, lepas itu cedera lagi! Kemudian malam itu ialah ceramah di perkarangan persatuan penganut...
 
-**Haziq:** Sebab takkanlah tukar *last minute*. Dalam Maps lain—dia ada dua nama tempat itu. Dalam Maps adalah Zi Ling Gong Temple. Oh, *temple*.
+**Farhan (Pa'an):** Sebab takkanlah tukar *last minute*. Dalam Maps lain—dia ada dua nama tempat itu: perkarangan Persatuan Penganut Dewa Kuan Ti, ataupun di Maps adalah Xi Ling Gong Temple. Oh, *temple*.
 
 **Rafizi:** Lepas ini ada orang buat fitnah baru, cakap aku pergi tokong. Banyak-banyak tempat korang pilih, tempat ini korang buat. Tapi PKR dulu-dulu pun macam itu juga, tak ada tempat. Jadi akhirnya ada satu kongres itu—lupa kongres tahun bila, 2004 rasanya—kongres 2004 itu rasanya memang di tokong di Ipoh. Jadi kalau siapa-siapa, contohnya *certified* Walanon ke apa, nak serang kata kita orang pergi ke tokong, korang pun dulu masa susah nak dapat tempat, berceramah dekat sekitar tokong juga.
 

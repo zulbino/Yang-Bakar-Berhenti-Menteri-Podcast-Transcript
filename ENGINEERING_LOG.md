@@ -2263,6 +2263,96 @@ says. A correct fact the transcript did not contain is still an insertion.
 ep61 ends with two flags, both familiar: 1393s of missing middle from VAD chunking, and
 40% Malay loss in the rewrite, the same class as the 14 older episodes.
 
+**Correction, added in 1.42: the missing middle was not missing.** Every second of it is
+in the file, filed under the wrong timestamp. See below.
+
+### 1.42: ep61 was not missing content, and a cache that could hide the ones that are
+
+`qa_check.py` reported ep61 as missing 1393s from the middle, 13% of the episode, across
+two gaps. Every second of it is in the file. The two gaps are timestamps pointing at the
+wrong place in the audio.
+
+`align_blocks.py` shows it directly. The block claiming `[4715]` truly starts at 4981s and
+the next, claiming `[5480]`, truly starts at 5004s -- 23 seconds apart in real audio, 765
+apart on the claimed clock. The second gap is the same shape: `[9264]` truly starts at
+9844s, its 4575 characters run to roughly 10222s, and the following block sits at 10275s.
+Continuous audio, both times. `check_timestamp_drift.py` puts a number on it: **max drift
+472s, 12 of 12 caption samples matched**, with the whole middle displaced while the first
+and last twenty minutes sit within 20s of truth.
+
+Corroborating from the other direction, `check_caption_coverage.py` finds a worst dead run
+of 0s, and scoring the caption in 300s windows against raw.md gives 11-26% coverage in all
+35 of them, with no dip at either suspect window -- flat, low, and uniform, because local
+ASR wording diverges from YouTube's throughout, not because content is absent.
+
+**The reasoning error is the one from 1.39, in a new place.** `lost_content_holes` reads
+raw.md's own timestamps and infers loss from a gap it never checks against the audio. It
+cannot distinguish "this content is gone" from "this content is filed under the wrong
+second", and it reports the alarming reading of the two. Meanwhile the check that measures
+the thing directly, and whose own message says content is absent "rather than merely
+mistimed", was sitting in the same run saying the episode was fine. Nothing connected them.
+
+**The fix: let the check that measures content overrule the check that infers it.** Caption
+coverage starts from the audio and asks what has no counterpart *anywhere* in raw.md, which
+is position independent and therefore still valid under any amount of drift. When its
+longest low run is shorter than `MIN_CONTENT_HOLE_SECONDS`, no hole of that size can be
+real, and the `content-loss` flag is rewritten as `hole-is-mistimed` pointing at the
+timestamps instead. Both thresholds are the same 240s, so there is no new constant to
+calibrate.
+
+One detail worth keeping: the gate cannot demand *zero* low buckets. ep61 has exactly one,
+a 17-second partial bucket past the caption end holding the sign-off, scoring 0.000. An
+absolute-zero gate would have failed on noise at the last bucket of the episode.
+
+**The prerequisite nobody would have asked for.** Letting a cached verdict suppress a
+content-loss report makes staleness dangerous in a way it was not before. `data/
+caption_coverage.json` and `data/timestamp_drift.json` had no notion of which raw.md they
+described, and both had outlived 52 of the 67 rewrites that followed them -- so before the
+suppression could be trusted, every verdict needed stamping with `common.body_digest()` of
+the body it was computed from, and `qa_check.py` needed to drop any verdict whose stamp
+does not match what is on disk. Unstamped counts as mismatched, which is why both checkers
+had to be re-run corpus-wide in the same change. The digest covers the body only, so
+refreshing a view count in frontmatter does not throw away a verdict about the text.
+
+**Fixing the actual defect: `retime_blocks.py`.** The timestamps were still wrong, and no
+tool moved them -- the repair tools all re-transcribe or re-cut, which would have thrown
+away the hand-edits this file already carries. This one rewrites `[h:mm:ss]` prefixes and
+nothing else: 204 blocks in, 204 out, one text change in the whole file and that was an
+unrelated speaker label.
+
+Anchors come from `align_blocks.py`, and the filter that matters is ordering, not score.
+Speech runs forward, so the true anchors form an increasing sequence and a false phrase-lock
+usually does not fit it; the longest increasing subsequence drops the liars without needing
+to know which they are. **I guessed at a score floor first and the measurement killed it.**
+On ep61's 132 matched blocks, scores run 4-11, the ordering filter alone rejects 6 and
+leaves 80% of the body's characters anchored, while a floor of 6 leaves 57% and a floor of 7
+leaves 42% -- so the floor would have traded away most of the evidence to remove liars the
+ordering filter removes for free. It now defaults to `align_blocks.py`'s own
+MIN_MATCHING_WORDS, which accepts every match it found.
+
+**The 0s result is circular and does not count as verification.** After writing, the drift
+check reported max drift 472s -> 0s on 12/12 samples -- inevitable, because the anchors were
+set from the caption and the drift check then asks the caption whether they match. The
+honest measure is holding anchors out: train on half the 126 anchors, predict the other 62
+and compare. **Median error 4s, p90 11s, worst 15s**, and the same at a two-thirds split.
+That is the number that describes the 78 interpolated blocks, since the anchors are exact by
+construction. Against a before of median 16s, mean 124s, worst 586s, with 37 anchored blocks
+off by a minute or more and 26 off by five minutes or more.
+
+Also on ep61, and not found by any check: **the owner heard Farhan interject at 2:51:42-58,
+where raw.md had `Speaker ?` and all three published files said Haziq.** The video settles
+it -- `frames_at.py` over 2:51:38-2:52:02 holds the desk two-shot with Rafizi and Haziq both
+in frame until 2:51:42, cuts at 2:51:43 to a close single of a third man in a different room
+with his own mic, and cuts back to the two-shot at 2:52:00. Haziq is visibly sitting there
+not speaking. This is the 18-second cluster `verify_speaker_voiceprint.py` called
+unresolvable in 1.41, and 20 blocks shared that one `Speaker ?` label, so the other 19 --
+the separate 1.2-minute cluster of ~5s turns -- are untouched and still unresolved. The
+rewrite had also dropped the temple's Malay name, `Persatuan Penganut Dewa Kuan Ti`,
+restored now in all three files. **Nothing in the suite can catch this class.** A confident
+wrong name reads exactly like a right one, and the only reason it surfaced is that someone
+who knows the show watched the episode.
+
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider

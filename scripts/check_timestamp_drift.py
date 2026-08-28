@@ -22,7 +22,7 @@ import re
 import sys
 from pathlib import Path
 
-from common import episode_path, episode_slug, read_frontmatter_body
+from common import body_digest, episode_path, episode_slug, read_frontmatter_body
 from dedupe_raw import MATCH_WINDOW_WORDS, MIN_MATCHING_WORDS, fetch_captions, parse_caption_words
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -160,6 +160,7 @@ def main():
         result = check_episode(video_id, episode)
         if result is None:
             continue
+        result["raw_sha"] = body_digest(ROOT / "episodes" / episode_path(episode) / "raw.md")
         existing[slug] = result
         OUT_PATH.write_text(json.dumps(existing, indent=2), encoding="utf-8")
         status = result.get("status")

@@ -1,4 +1,5 @@
 """Shared helpers for the transcription pipeline."""
+import hashlib
 import re
 import time
 import yaml
@@ -76,6 +77,19 @@ def read_frontmatter_body(path):
     if body.startswith("#"):
         body = body.split("\n", 1)[1].lstrip()
     return fields, body
+
+
+def body_digest(path):
+    """Short hash of a transcript's BODY, for stamping a cached verdict about that file.
+
+    Hashes the body rather than the whole file so a frontmatter-only edit (a model
+    note, a view count refresh) does not invalidate a verdict about the text. Any
+    consumer of a cached verdict must compare this and refuse a mismatch: the
+    caption-coverage and timestamp-drift caches were both read for weeks after the
+    raw.md they described had changed under them.
+    """
+    _, body = read_frontmatter_body(path)
+    return hashlib.sha1(body.encode("utf-8")).hexdigest()[:12]
 
 
 def retry(fn, max_attempts=5, base_delay=10, what=""):

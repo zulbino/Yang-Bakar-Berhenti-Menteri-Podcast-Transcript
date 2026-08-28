@@ -45,7 +45,7 @@ import json
 import re
 from pathlib import Path
 
-from common import episode_slug
+from common import body_digest, episode_slug
 from lib_gemini import MODEL_FALLBACK_CHAIN
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -477,6 +477,55 @@ def lost_content_holes(body):
     return holes
 
 
+def _verdict_is_current(slug, verdict):
+    """Does a cached verdict still describe the raw.md that is on disk now?
+
+    An unstamped or mismatched verdict is dropped, not trusted: both caches outlived
+    52 of the 67 raw.md rewrites that followed them, and one of them is now allowed to
+    SUPPRESS a content-loss report, which makes silent staleness a way to hide a real
+    defect rather than merely to report an old one.
+    """
+    raw_path = next(iter(EPISODES_DIR.glob(f"*/{slug}/raw.md")), None)
+    if raw_path is None:
+        return False
+    return verdict.get("raw_sha") == body_digest(raw_path)
+
+
+def _reclassify_holes_as_mistiming(results, slug, coverage):
+    """A timestamp gap is only content loss if the content is actually gone.
+
+    `lost_content_holes` reads raw.md's own timestamps, so an episode whose chunk
+    offsets are wrong reports holes where the text is present but filed under the wrong
+    second -- ep61 claimed 1393s missing while every one of its 175 caption buckets
+    matched. Caption coverage answers the question the gap check only infers: it starts
+    from the audio and asks what has no counterpart anywhere in raw.md, position
+    independent, so it stays valid under any amount of drift. A low run shorter than the
+    hole threshold cannot account for a hole, so the loss report becomes a mistiming one.
+    """
+    if coverage.get("status") != "ok":
+        return
+    longest_low = coverage.get("longest_low_run_seconds")
+    if longest_low is None or longest_low >= MIN_CONTENT_HOLE_SECONDS:
+        return
+    issues, models = results[slug]
+    rewritten = []
+    for sig, text in issues:
+        if sig != "content-loss":
+            rewritten.append((sig, text))
+            continue
+        gaps = text.split("(", 1)[1].split(";", 1)[0] if "(" in text else "unknown extent"
+        rewritten.append((
+            "hole-is-mistimed",
+            f"raw.md's timestamps place blocks up to several minutes from where they "
+            f"occur in the audio, leaving gaps that look like lost content ({gaps}) -- "
+            f"but the longest stretch of captioned speech with no counterpart anywhere "
+            f"in raw.md is only {longest_low}s, under the {MIN_CONTENT_HOLE_SECONDS}s a "
+            f"hole would need, so the text is present and only the timing is wrong. Fix "
+            f"the timestamps, not the content; see ENGINEERING_LOG.md 1.42",
+        ))
+    results[slug] = (rewritten, models)
+
+
 def round_timestamp_pct(body):
     blocks = timestamped_blocks(body)
     if len(blocks) < ROUND_TIMESTAMP_MIN_SAMPLES:
@@ -674,6 +723,8 @@ def main():
         for slug, drift in drift_data.items():
             if not drift.get("flagged") or slug not in results:
                 continue
+            if not _verdict_is_current(slug, drift):
+                continue
             if (drift.get("max_drift_seconds") or 0) < MIN_ACTIONABLE_DRIFT_SECONDS:
                 continue
             issues, models = results[slug]
@@ -688,7 +739,10 @@ def main():
     if COVERAGE_PATH.exists():
         coverage_data = json.loads(COVERAGE_PATH.read_text(encoding="utf-8"))
         for slug, coverage in coverage_data.items():
-            if not coverage.get("flagged") or slug not in results:
+            if slug not in results or not _verdict_is_current(slug, coverage):
+                continue
+            _reclassify_holes_as_mistiming(results, slug, coverage)
+            if not coverage.get("flagged"):
                 continue
             issues, models = results[slug]
             spans = ", ".join(f"{a}s->{b}s" for a, b in coverage.get("dead_runs", []))
