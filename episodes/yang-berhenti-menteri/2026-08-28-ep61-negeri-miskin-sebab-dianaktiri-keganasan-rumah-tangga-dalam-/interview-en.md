@@ -653,7 +653,7 @@ Take the Datuk Seri Ismail Sabri case for example — that was already known, wh
 
 **Haziq:** Huh? Yes, yes.
 
-**Rafizi:** He joked openly with me about "that person took money, this person took money, where's their money" and all that. So I mean all this is within knowledge. Hmm, right? Ha, so maybe the only difference is — maybe because when it happened with PKR before, over the allegation about — yes, what people called Farhaj's interference — all that. The reaction
+**Rafizi:** He joked openly with me about "that person took money, this person took money, where's their money" and all that. So I mean all this is within knowledge. Hmm, right? Ha, so maybe the only difference is — maybe because when it happened with PKR before, over the allegation about — yes, what people called Farhash's interference — all that. The reaction
 
 **Haziq:** within
 

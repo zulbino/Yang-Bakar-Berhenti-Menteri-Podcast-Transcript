@@ -18,7 +18,7 @@ topics:
 - Format baharu podcast YBM sempena episod ke-52 dan fokus kepada suara anak muda
 - 'Segmen Beria: nasi ayam RM26 dan branding harga premium'
 - 'Segmen Beria: ikan keli pistachio dan tren makanan viral'
-- 'Segmen Beria: NGO memuji ''Farhaj'' dan spekulasi agenda PR/politik'
+- 'Segmen Beria: NGO memuji ''Farhash'' dan spekulasi agenda PR/politik'
 - Permohonan calon Parti Bersama secara online dan kritikan Puad Zarkashi
 - 'Sistem pemilihan calon politik: primary di US/UK berbanding budaya parti di Malaysia'
 - Salah kira RM90 juta oleh Zaleha Ahmad dan kepentingan kemahiran berceramah dalam PKR
@@ -38,7 +38,7 @@ summary: In episode 52 of the YBM Podcast, Rafizi Ramli hands hosting duties to 
   joined by two young guests, Syuk and Zaim Zulkifli (a UIA political science student),
   plus regular contributor Farhan 'Pa'an', for the weekly 'beria' (outrageous/audacious)
   news commentary segment. They discuss viral stories including an RM26 nasi ayam
-  seller, a pistachio catfish dish, PR efforts around businessman Farhaj's political
+  seller, a pistachio catfish dish, PR efforts around businessman Farhash's political
   image, Bersatu's online candidate nomination call criticized by Puad Zarkashi, and
   PKR's Zaleha mixing up figures during a Johor by-election speech. The conversation
   shifts into a deep discussion on Gen Z identity, social media's role in shaping
@@ -231,15 +231,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Okay, alright. Definitely an extra pick putting this here. Really extra putting this here, hard to comment on. Let's look at the next one, there's another one — hasn't been our guest in a while, but he's dropping by. Just a moment...
 
-**Rafizi:** Oh right, this is for them to comment on. One Farhaj a week. This is the most famous young entrepreneur icon, young people know him. Go ahead, I want to drink some water. Zaim, Zaim, because he...
+**Rafizi:** Oh right, this is for them to comment on. One Farhash a week. This is the most famous young entrepreneur icon, young people know him. Go ahead, I want to drink some water. Zaim, Zaim, because he...
 
-**Zaim Zulkifli:** I think people know Farhaj, but have you ever met him? Never met him. That's strange. But like — I mean, like when we chat with friends and stuff, people know Farhaj, and people are very interested in him, in the sense of how did he become who he is now. So the kids at uni...
+**Zaim Zulkifli:** I think people know Farhash, but have you ever met him? Never met him. That's strange. But like — I mean, like when we chat with friends and stuff, people know Farhash, and people are very interested in him, in the sense of how did he become who he is now. So the kids at uni...
 
-**Rafizi:** if at IIUM, how is it? Do they all know Farhaj?
+**Rafizi:** if at IIUM, how is it? Do they all know Farhash?
 
-**Zaim Zulkifli:** I don't think everyone, but somehow when you mention him, somehow people can recall it — like when we say "Anwar," people go "oh, Anwar Ibrahim?" Like that. Farhaj, like "oh, that Farhaj?" So people can recognize that Farhaj is somehow important, but people also don't know how deep his role actually is.
+**Zaim Zulkifli:** I don't think everyone, but somehow when you mention him, somehow people can recall it — like when we say "Anwar," people go "oh, Anwar Ibrahim?" Like that. Farhash, like "oh, that Farhash?" So people can recognize that Farhash is somehow important, but people also don't know how deep his role actually is.
 
-**Rafizi:** So the view, what's it called, of your circle, your friends who are in their 20s, what's their view of Farhaj?
+**Rafizi:** So the view, what's it called, of your circle, your friends who are in their 20s, what's their view of Farhash?
 
 **Syuk:** Honestly, in my group, I don't even know him.
 
@@ -265,15 +265,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Lawyers based in Bukit Bintang?
 
-**Syuk:** My office is in Bukit Bintang. But people associate me with Farhaj for that — no connection, I declare, no connection, it's just my office location.
+**Syuk:** My office is in Bukit Bintang. But people associate me with Farhash for that — no connection, I declare, no connection, it's just my office location.
 
 **Rafizi:** There's no lawyer office in Bukit Bintang. There is. Yeah. Don't lawyers usually set up near the courts? And you go set up far away in the middle of Bukit Bintang.
 
 **Syuk:** Not necessarily.
 
-**Rafizi:** Hmm. So how about this? "Farhaj remains loyal to the reformasi struggle, stays with Anwar." Which NGO said this? Haa, which NGO, Syuk?
+**Rafizi:** Hmm. So how about this? "Farhash remains loyal to the reformasi struggle, stays with Anwar." Which NGO said this? Haa, which NGO, Syuk?
 
-**Haziq:** It's not a lecturer who said that. Haa, actually that's the name, one Farhaj a week — every week without fail there's suddenly this Farhaj, that Farhaj. It's strange.
+**Haziq:** It's not a lecturer who said that. Haa, actually that's the name, one Farhash a week — every week without fail there's suddenly this Farhash, that Farhash. It's strange.
 
 **Syuk:** What is it, some Madani welfare association or something? This week it's an NGO. Last week there was a lecturer.
 
@@ -287,11 +287,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Zaim Zulkifli:** Huh? Which lecturer? If there is, if there is...
 
-**Rafizi:** So if you're doing Political Science, surely there hasn't been a case earlier about Farhaj, right?
+**Rafizi:** So if you're doing Political Science, surely there hasn't been a case earlier about Farhash, right?
 
 **Zaim Zulkifli:** So far haven't come across one yet, haven't encountered it yet, even at IIUM.
 
-**Rafizi:** Next week, next week there'll be a piece of content out, a press statement about Farhaj. The Farhaj case.
+**Rafizi:** Next week, next week there'll be a piece of content out, a press statement about Farhash. The Farhash case.
 
 **Syuk:** Directed by Zaim.
 
@@ -299,9 +299,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Oh, meaning the PR team, the public relations managing this is really extra — if there's a lot of money, why not be extra, right.
 
-**Farhan (Pa'an):** But I see the style, like the narrative he's trying to build here, it seems like Farhaj wants to run for office or something — he's introducing that to the public.
+**Farhan (Pa'an):** But I see the style, like the narrative he's trying to build here, it seems like Farhash wants to run for office or something — he's introducing that to the public.
 
-**Rafizi:** That too, a bit of whitewashing — the reformasi struggle. Well, he's no longer a politician, right? Dato' Seri Anwar? Maybe he's making a comeback? No, no, that's what's extra, three witnesses, before, what's this, that's what's extra — what's this, the people on this PR team, because on one hand Dato' Seri Anwar says Farhaj isn't involved in politics, he's 100% business, whereas businessmen usually don't want to be associated with politics like this. Alright, let's just take over that PR team — how much do they want to be paid? I think we could probably do a better job. But on principle, don't want to? Huh? Well, everything, there is a price for everything.
+**Rafizi:** That too, a bit of whitewashing — the reformasi struggle. Well, he's no longer a politician, right? Dato' Seri Anwar? Maybe he's making a comeback? No, no, that's what's extra, three witnesses, before, what's this, that's what's extra — what's this, the people on this PR team, because on one hand Dato' Seri Anwar says Farhash isn't involved in politics, he's 100% business, whereas businessmen usually don't want to be associated with politics like this. Alright, let's just take over that PR team — how much do they want to be paid? I think we could probably do a better job. But on principle, don't want to? Huh? Well, everything, there is a price for everything.
 
 **Farhan (Pa'an):** Wow, you're just joking, right?
 
@@ -321,7 +321,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Benefits nicely, if not, why would he set up that NGO to benefit nicely. Haa. It's just the PR mastermind behind it, public relations — surely they must know that young people don't actually read all this, right?
 
-**Zaim Zulkifli:** Agreed. Maybe if he told Farhaj to make TikTok content that would work.
+**Zaim Zulkifli:** Agreed. Maybe if he told Farhash to make TikTok content that would work.
 
 **Rafizi:** Let's see about that.
 
@@ -329,7 +329,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Yeah, but if it's to boost his name, and nobody's reading it, what's the point of boosting a name that goes nowhere?
 
-**Syuk:** Money, right? Now if people google Farhaj's name, it all comes up like... I think it's not exactly genuine, I guess.
+**Syuk:** Money, right? Now if people google Farhash's name, it all comes up like... I think it's not exactly genuine, I guess.
 
 **Rafizi:** That's just for SEO, Search Engine Optimization.
 
@@ -405,7 +405,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** Sorry, back to Rafizi Affairs Minister, Affairs Minister, YB...
 
-**Rafizi:** Ha, is it dramatic or not? But my answer has actually already been given by Fitri Nordin. Ha, oh no. Ha, good, so dinosaurs like Puad Zarkashi don't become candidates anymore. Push it for people. There, that's my answer. Ha, and that's the purpose of why we open up candidacy online. It's because when we use the normal method that exists in parties in Malaysia, yes, you actually restrict the talent pool to something very small. Then the person you choose actually, more often than not, only has one skill, which is political skill. Because in that party, they want to rise from the bottom, become a branch chief, division chief, want to become a state leader — it takes 10-15 years and they have to flatter those above. And because of that, your pool is very small. That's why people don't like politicians. Because when they become an MP or a minister, people say they don't bring anything new or additional to the table. You can't govern, you don't understand things. Because the pool has become so small. And it has an adverse impact on the talent pool. Because if there's someone who actually feels they could be a good representative, and they actually have that skill, they can speak well, they're really passionate about helping people, maybe through an NGO or as an activist, and they also have good qualifications and seem sincere, but they feel it's not worth it because "why should I go through that," struggling for 10-15 years and having to succumb to that political culture. So we have to cast the net wider — that's the purpose, for me, especially for Gen Z and Millennials. If you don't do it this way, how are you going to get young, capable, fresh candidates? Not Farhaj, right? Fresh, fresh, right? So this is the best way to do it.
+**Rafizi:** Ha, is it dramatic or not? But my answer has actually already been given by Fitri Nordin. Ha, oh no. Ha, good, so dinosaurs like Puad Zarkashi don't become candidates anymore. Push it for people. There, that's my answer. Ha, and that's the purpose of why we open up candidacy online. It's because when we use the normal method that exists in parties in Malaysia, yes, you actually restrict the talent pool to something very small. Then the person you choose actually, more often than not, only has one skill, which is political skill. Because in that party, they want to rise from the bottom, become a branch chief, division chief, want to become a state leader — it takes 10-15 years and they have to flatter those above. And because of that, your pool is very small. That's why people don't like politicians. Because when they become an MP or a minister, people say they don't bring anything new or additional to the table. You can't govern, you don't understand things. Because the pool has become so small. And it has an adverse impact on the talent pool. Because if there's someone who actually feels they could be a good representative, and they actually have that skill, they can speak well, they're really passionate about helping people, maybe through an NGO or as an activist, and they also have good qualifications and seem sincere, but they feel it's not worth it because "why should I go through that," struggling for 10-15 years and having to succumb to that political culture. So we have to cast the net wider — that's the purpose, for me, especially for Gen Z and Millennials. If you don't do it this way, how are you going to get young, capable, fresh candidates? Not Farhash, right? Fresh, fresh, right? So this is the best way to do it.
 
 **Syuk:** But YB, his title is Rafizi Affairs Minister, he cares about YB too, because in the last paragraph, Rafizi's actions merely expose Bersama's fondness for Encik Cha... Lun. He's concerned, poor Encik Chalun.
 
@@ -461,11 +461,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Hmm... interesting and difficult. Like really intense. Okay, intense. We're done, we need to choose — let's pick the most intense type among the friends here. We need to look at one or two more.
 
-**Zaim Zulkifli:** The most intense here, it's either this chicken rice one or Farhaish. Not delaying the chicken rice.
+**Zaim Zulkifli:** The most intense here, it's either this chicken rice one or Farhash. Not delaying the chicken rice.
 
-**Haziq:** Or Farhaish. That's just the choice, Zee. Let's be quiet.
+**Haziq:** Or Farhash. That's just the choice, Zee. Let's be quiet.
 
-**Syuk:** No, I feel sorry because she miscalculated. So I think it's probably the Farhaish one that's most intense. Eh, Farhaish? Because if it's RM26, well, that's her market. Then Zaliha probably miscalculated, I feel sorry for her. Miscalculated, poor thing. So together... Puad Zarkashi, because he's old. Feel sorry for him. So I think the most intense is this NGO that came out with a statement trying to push — and this is young people supporting young people instead.
+**Syuk:** No, I feel sorry because she miscalculated. So I think it's probably the Farhash one that's most intense. Eh, Farhash? Because if it's RM26, well, that's her market. Then Zaliha probably miscalculated, I feel sorry for her. Miscalculated, poor thing. So together... Puad Zarkashi, because he's old. Feel sorry for him. So I think the most intense is this NGO that came out with a statement trying to push — and this is young people supporting young people instead.
 
 **Rafizi:** Isn't that your NGO?
 

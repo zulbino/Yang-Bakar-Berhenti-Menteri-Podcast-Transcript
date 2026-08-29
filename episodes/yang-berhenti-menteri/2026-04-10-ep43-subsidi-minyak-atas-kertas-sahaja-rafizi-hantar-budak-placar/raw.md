@@ -280,7 +280,7 @@ note: 'Raw transcript from the local ASR fallback, mesolitica/malaysian-whisper-
 
 [2:36:53] Haziq: and for all lah. YB tak tolak kemungkinan lain untuk menghabiskan YB? Mungkin menghantar ke 3RBC? Penjara?
 
-[2:37:04] Rafizi: Well, dia macam dia kena ada starter, dia kena ada bengkos, dia kena ada dessert. Mungkin ni starter dia lah kan. Dia punya bengkos mungkin itulah. Sebab you see dia ada banyak pihak yang sakit hati dengan aku ni kan. Maksudnya, gang-gang Farhaj dan Rahmanan tu satu. Dato' Seri Anwar sendiri satu lah sebab dia rasa macam tahun ini menyusahkan dia menyebabkan orang benci kat dia kan kemudian ada SPRM, pihak berkuasa macam-macam lah
+[2:37:04] Rafizi: Well, dia macam dia kena ada starter, dia kena ada bengkos, dia kena ada dessert. Mungkin ni starter dia lah kan. Dia punya bengkos mungkin itulah. Sebab you see dia ada banyak pihak yang sakit hati dengan aku ni kan. Maksudnya, gang-gang Farhash dan Rahmanan tu satu. Dato' Seri Anwar sendiri satu lah sebab dia rasa macam tahun ini menyusahkan dia menyebabkan orang benci kat dia kan kemudian ada SPRM, pihak berkuasa macam-macam lah
 
 [2:37:43] Farhan (Pa'an): Tapi macam... Bukan pasal Zaki Farah tu If you tengok balik 98 Engkau
 

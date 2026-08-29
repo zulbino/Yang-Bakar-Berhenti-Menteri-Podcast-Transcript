@@ -75,6 +75,60 @@ CORRECTIONS = [
      "ceplos",
      "ep07 x10 across the three published files, inside the quoted phrase where Rafizi "
      "says he had to look the term up."),
+    # Farhash Wafa Salvador Rizal Mubarak, Anwar's former political secretary, the MMAG /
+    # HeiTech Padu shareholder. Owner-identified 2026-08-29 and verified: Wikipedia, and The
+    # Edge on his RM97.48m MMAG loss -- a figure that is in ep31's own FOLDER NAME
+    # (`ep31-dpa-sprm-farhash-rugi-rm97-5-juta`), so the corpus knew the name while the text
+    # garbled it. The corpus also settles it from inside: raw ep41 writes the full
+    # `Datuk Seri Farhaj Wafa Salvador Rizal Mubarak`.
+    #
+    # `Farhan` is deliberately NOT in this list. It is the CO-HOST's name -- 3,279 speaker
+    # labels read `Farhan (Pa'an)` -- and it is ALSO used for Farhash in body text
+    # (`sama ada Fuziah ke Farhan ke, Setiausaha Politik Datuk Seri Anwar ni`). One line even
+    # distinguishes them mid-sentence. Those need reading one at a time; a pattern would
+    # rename the co-host in thousands of places.
+    (r"Farhad Hashim",
+     "Farhash Wafa Salvador",
+     "ep31's frontmatter summary, x3 files: 'the Farhad Hashim/MMAG share transaction "
+     "controversy'. Two errors in one -- wrong given name and a surname he does not have. "
+     "Listed before the bare `Farhad` entry so the more specific pattern wins."),
+    (r"Farhaj(?![A-Za-z])", "Farhash",
+     "645 occurrences (500 published, 145 raw). Never the co-host: no speaker label "
+     "contains it, and its contexts are the share dealings, the defamation suit and the "
+     "PKR fights."),
+    (r"Farhajnya(?![A-Za-z])", "Farhashnya",
+     "The same name with the Malay enclitic attached: 'Yang siasat Farhajnya kita tak "
+     "tahu'. Needs its own entry because the lookahead above refuses to split a word."),
+    (r"Farhaish(?![A-Za-z])", "Farhash",
+     "17 occurrences: 'Dato Ishak ke Farhaish dapat ni kan', 'paling beria Farhaish punya "
+     "ni kot'."),
+    (r"Farhaq(?![A-Za-z])", "Farhash",
+     "One occurrence, and the same sentence names him twice: 'melawan Farhaj dalam parti. "
+     "Kalau tidak Farhaq ni dah kawal semua'."),
+    (r"Farhaib(?![A-Za-z])", "Farhash",
+     "One occurrence: 'Setiap perkara yang Farhaib buat itu saham yang dia beli'."),
+    (r"Farhad(?![A-Za-z])", "Farhash",
+     "11 occurrences, all him, and one sentence again names him twice: 'Ruben inilah "
+     "peguam Farhad. Dan Farhaj pun tak cerdik'. Ruben is Sandraruben Neelamagham, the "
+     "lawyer whose firm acted for Farhash -- owner-identified and press-verified."),
+    (r"Farha(?![A-Za-z-])", "Farhash",
+     "10 occurrences of the truncated form, every one him: 'Anwar Ibrahim dan Farha', "
+     "'isu Farha ini ialah isu PKR', 'Soal Farha, soal Rahmanan'. The lookahead is what "
+     "keeps this off `Farhan`, `Farhash` and `Farhad`."),
+    # Eric See-To, the pro-Najib commentator who writes as Lim Sian See -- one person under
+    # two names, owner-confirmed. Established spelling 178 times (135 published, 43 raw).
+    (r"Eric Sito(?![A-Za-z])", "Eric See-To",
+     "8 occurrences. ep58 puts both his names in one passage: 'yang mana Najib, yang mana "
+     "Lim Sian Si. Yang bagus Eric Sito tu lah kan'. NOT touched: `Eric Fikri` / `Eric "
+     "Fitri`, 11 occurrences, which is a VIEWER asking a question ('next question from "
+     "Eric Fitri, 7290') and a different man entirely."),
+    # raw-only tidy-ups. The published files already render both correctly, so this only
+    # stops raw and published disagreeing for the name checks.
+    (r"Lim Gotong(?![A-Za-z])", "Lim Goh Tong",
+     "raw ep58 x2. Lim Goh Tong, the Genting founder, whose business partner in that "
+     "passage is Najib's grandfather. Published already says Lim Goh Tong x6."),
+    (r"Tuan Seri Noah(?![A-Za-z])", "Tan Sri Noah",
+     "raw ep58 x1, in the same sentence. Published already says Tan Sri Noah x3."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the

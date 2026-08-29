@@ -18,7 +18,7 @@ topics:
 - Format baharu podcast YBM sempena episod ke-52 dan fokus kepada suara anak muda
 - 'Segmen Beria: nasi ayam RM26 dan branding harga premium'
 - 'Segmen Beria: ikan keli pistachio dan tren makanan viral'
-- 'Segmen Beria: NGO memuji ''Farhaj'' dan spekulasi agenda PR/politik'
+- 'Segmen Beria: NGO memuji ''Farhash'' dan spekulasi agenda PR/politik'
 - Permohonan calon Parti Bersama secara online dan kritikan Puad Zarkashi
 - 'Sistem pemilihan calon politik: primary di US/UK berbanding budaya parti di Malaysia'
 - Salah kira RM90 juta oleh Zaleha Ahmad dan kepentingan kemahiran berceramah dalam PKR
@@ -38,7 +38,7 @@ summary: In episode 52 of the YBM Podcast, Rafizi Ramli hands hosting duties to 
   joined by two young guests, Syuk and Zaim Zulkifli (a UIA political science student),
   plus regular contributor Farhan 'Pa'an', for the weekly 'beria' (outrageous/audacious)
   news commentary segment. They discuss viral stories including an RM26 nasi ayam
-  seller, a pistachio catfish dish, PR efforts around businessman Farhaj's political
+  seller, a pistachio catfish dish, PR efforts around businessman Farhash's political
   image, Bersatu's online candidate nomination call criticized by Puad Zarkashi, and
   PKR's Zaleha mixing up figures during a Johor by-election speech. The conversation
   shifts into a deep discussion on Gen Z identity, social media's role in shaping
@@ -230,15 +230,15 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Okey, baik-baik. Memang menggemparkan letak benda ini. Memang menggemparkan letak benda ini, susah nak komen. Kita tengok selepas ini, ada lagi — dah lama tak jadi tetamu kita, tetapi dia singgah. Sekejap...
 
-**Rafizi:** Oh ya, ini bagi mereka lah komen. Satu minggu, satu Farhaj. Ini ikon usahawan muda yang paling terkenal, anak-anak muda kenal. Silakan, saya nak minum air. Zaim, Zaim, sebab dia lah...
+**Rafizi:** Oh ya, ini bagi mereka lah komen. Satu minggu, satu Farhash. Ini ikon usahawan muda yang paling terkenal, anak-anak muda kenal. Silakan, saya nak minum air. Zaim, Zaim, sebab dia lah...
 
-**Zaim Zulkifli:** Saya rasa Farhaj ini orang kenal lah, tapi pernah jumpa tak? Tak pernah jumpa. Itu pelik juga. Tapi kalau — maksud saya, bila kita berbual dengan kawan-kawan, orang kenal dengan Farhaj, dan orang sangat berminat dengan dia, dalam erti kata macam mana dia boleh jadi dia yang sekarang ini. Jadi budak-budak di universiti...
+**Zaim Zulkifli:** Saya rasa Farhash ini orang kenal lah, tapi pernah jumpa tak? Tak pernah jumpa. Itu pelik juga. Tapi kalau — maksud saya, bila kita berbual dengan kawan-kawan, orang kenal dengan Farhash, dan orang sangat berminat dengan dia, dalam erti kata macam mana dia boleh jadi dia yang sekarang ini. Jadi budak-budak di universiti...
 
-**Rafizi:** kalau di UIA macam mana? Mereka semua kenal Farhaj?
+**Rafizi:** kalau di UIA macam mana? Mereka semua kenal Farhash?
 
-**Zaim Zulkifli:** Saya tak rasa semua lah, tapi entah bagaimana bila disebut, entah bagaimana orang boleh ingat macam — macam kita sebut Anwar, orang macam "oh Anwar Ibrahim ke?" Macam itu lah. Farhaj macam "oh, Farhaj yang ini ke?" Jadi orang boleh mengenali yang Farhaj ini entah bagaimana penting, tapi orang pun tak tahu betapa dalamnya peranannya.
+**Zaim Zulkifli:** Saya tak rasa semua lah, tapi entah bagaimana bila disebut, entah bagaimana orang boleh ingat macam — macam kita sebut Anwar, orang macam "oh Anwar Ibrahim ke?" Macam itu lah. Farhash macam "oh, Farhash yang ini ke?" Jadi orang boleh mengenali yang Farhash ini entah bagaimana penting, tapi orang pun tak tahu betapa dalamnya peranannya.
 
-**Rafizi:** Jadi pandangan, apa nama ini, kalangan kau, kawan-kawan kau yang berumur 20-an ini, pandangan mereka tentang Farhaj ini macam mana?
+**Rafizi:** Jadi pandangan, apa nama ini, kalangan kau, kawan-kawan kau yang berumur 20-an ini, pandangan mereka tentang Farhash ini macam mana?
 
 **Syuk:** Sejujurnya, kalau kumpulan saya, saya tak kenal pun.
 
@@ -264,15 +264,15 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Peguam duduk Bukit Bintang?
 
-**Syuk:** Pejabat saya Bukit Bintang. Tapi itu orang kaitkan saya dengan Farhaj — tak ada kaitan, saya nyatakan, tak ada kaitan, pejabat saya sahaja.
+**Syuk:** Pejabat saya Bukit Bintang. Tapi itu orang kaitkan saya dengan Farhash — tak ada kaitan, saya nyatakan, tak ada kaitan, pejabat saya sahaja.
 
 **Rafizi:** Mana ada pejabat peguam di Bukit Bintang. Ada. Ya. Peguam bukan semua duduk berdekatan dengan mahkamah ke? Kau pula pergi duduk jauh-jauh di tengah Bukit Bintang.
 
 **Syuk:** Tidak semestinya.
 
-**Rafizi:** Hmm. Jadi macam mana ini? "Farhaj kekal setia perjuangan reformasi, terus bersama Anwar." Ini NGO mana pula yang cakap ini? Ha, NGO mana, Syuk?
+**Rafizi:** Hmm. Jadi macam mana ini? "Farhash kekal setia perjuangan reformasi, terus bersama Anwar." Ini NGO mana pula yang cakap ini? Ha, NGO mana, Syuk?
 
-**Haziq:** Dia bukan pensyarah yang cakap itu. Ha, sebenarnya itu namanya, satu minggu satu Farhaj — tetap minggu ada sahaja yang akan tiba-tiba Farhaj ini, Farhaj itu. Dia pelik lah.
+**Haziq:** Dia bukan pensyarah yang cakap itu. Ha, sebenarnya itu namanya, satu minggu satu Farhash — tetap minggu ada sahaja yang akan tiba-tiba Farhash ini, Farhash itu. Dia pelik lah.
 
 **Syuk:** Dia apa, pertubuhan kebajikan Madani ke apa? Minggu ini NGO lah. Minggu lepas ada pensyarah.
 
@@ -286,11 +286,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Zaim Zulkifli:** Hah? Mana pensyarah? Kalau lah, kalau ada...
 
-**Rafizi:** Jadi kalau kau ambil Sains Politik, takkan tak ada kes tadi pasal Farhaj kot?
+**Rafizi:** Jadi kalau kau ambil Sains Politik, takkan tak ada kes tadi pasal Farhash kot?
 
 **Zaim Zulkifli:** Setakat ini tak pernah jumpa lagi lah, tak pernah encounter lagi lah, walaupun di UIA.
 
-**Rafizi:** Minggu depan, minggu depan akan keluar satu kandungan, kenyataan media rasmi mengenai Farhaj. Kes Farhaj.
+**Rafizi:** Minggu depan, minggu depan akan keluar satu kandungan, kenyataan media rasmi mengenai Farhash. Kes Farhash.
 
 **Syuk:** Diarah oleh Zaim.
 
@@ -298,9 +298,9 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Oh, maksudnya, pasukan PR, hubungan awam yang menguruskan ini memang menggemparkan lah — kalau duit banyak, menggemparkan lah kan.
 
-**Farhan (Pa'an):** Tetapi saya nampak gayanya macam naratif yang dia cuba kembangkan ini, ada gaya Farhaj ini nak bertanding ke, atau sesuatu — dia perkenalkan itu kepada publik.
+**Farhan (Pa'an):** Tetapi saya nampak gayanya macam naratif yang dia cuba kembangkan ini, ada gaya Farhash ini nak bertanding ke, atau sesuatu — dia perkenalkan itu kepada publik.
 
-**Rafizi:** Itu juga, mencuci imej sikit — perjuangan reformasi. Sudah pun, dia kan dah bukan jadi ahli politik, kan? Dato' Seri Anwar? Dia buat comeback lah mungkin? Tak lah, tak, itu yang menggemparkan, sabar tiga itu, saya dulu, apa ini, itu yang menggemparkan — apa ini, orang yang pasukan PR ini, sebab pada satu sisi Dato' Seri Anwar kata Farhaj tidak terlibat dengan politik, dia 100% bisnes, sebaliknya usahawan selalunya tak mahu dikaitkan dengan politik macam ini. Baik, kita ambil alih sahaja lah pasukan PR itu — berapa nak bayar? Saya rasa kita boleh buat kerja yang lebih baik kot. Tapi secara prinsip tak mahu? Ha? Well, everything, there is a price for everything.
+**Rafizi:** Itu juga, mencuci imej sikit — perjuangan reformasi. Sudah pun, dia kan dah bukan jadi ahli politik, kan? Dato' Seri Anwar? Dia buat comeback lah mungkin? Tak lah, tak, itu yang menggemparkan, sabar tiga itu, saya dulu, apa ini, itu yang menggemparkan — apa ini, orang yang pasukan PR ini, sebab pada satu sisi Dato' Seri Anwar kata Farhash tidak terlibat dengan politik, dia 100% bisnes, sebaliknya usahawan selalunya tak mahu dikaitkan dengan politik macam ini. Baik, kita ambil alih sahaja lah pasukan PR itu — berapa nak bayar? Saya rasa kita boleh buat kerja yang lebih baik kot. Tapi secara prinsip tak mahu? Ha? Well, everything, there is a price for everything.
 
 **Farhan (Pa'an):** Wah, kau bergurau sahaja kan?
 
@@ -320,7 +320,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Lumayan lah, kalau tak ada, lah dia buat NGO itu lumayan. Ha. Cuma yang mastermind PR di belakang itu lah, hubungan awam — takkan dia tak tahu yang sebenarnya golongan muda ini tak baca semua ini kan?
 
-**Zaim Zulkifli:** Setuju. Mungkin kalau dia suruh Farhaj buat kandungan TikTok boleh lah.
+**Zaim Zulkifli:** Setuju. Mungkin kalau dia suruh Farhash buat kandungan TikTok boleh lah.
 
 **Rafizi:** Kita cuba tengok kan.
 
@@ -328,7 +328,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Ya lah, tapi kalau nak menaikkan nama, tak ada orang yang baca, nak menaikkan nama apa, buang?
 
-**Syuk:** Duit lah kan? Sekarang kalau orang google nama Farhaj, semuanya macam... saya rasa yang tidak tulen lah kot.
+**Syuk:** Duit lah kan? Sekarang kalau orang google nama Farhash, semuanya macam... saya rasa yang tidak tulen lah kot.
 
 **Rafizi:** Itu buat SEO sahaja lah, Search Engine Optimization.
 
@@ -460,11 +460,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Hmm... menarik dan susah. Macam beria-beria. Okey, beria. Kita dah habis, kita kena pilih — bagilah jenis yang paling beria bagaimana rakan-rakan sekalian terdapat. Kena tengok lagi satu, dua.
 
-**Zaim Zulkifli:** Yang paling beria terdapat, dia sama ada yang nasi ayam ni ataupun Farhaish. Tidak tunda nasi ayam.
+**Zaim Zulkifli:** Yang paling beria terdapat, dia sama ada yang nasi ayam ni ataupun Farhash. Tidak tunda nasi ayam.
 
-**Haziq:** Atau Farhaish. Itu pilihan je, Zee. Kita diam.
+**Haziq:** Atau Farhash. Itu pilihan je, Zee. Kita diam.
 
-**Syuk:** Tak, saya kesian sebab dia salah kira. Jadi saya rasa paling beria Farhaish punya ni kot. Eh, Farhaish? Sebab kalau RM26 tu, yelah, itu pasaran dia. Lepas tu Zaliha ni mungkin salah kira, saya kesian. Salah kira, kesian. Jadi bersama... Puad Zarkashi, sebab dia tua. Kesian lah. Jadi saya rasa paling beria NGO yang keluar kenyataan ni nak menekan — dan ni lah anak muda sokong anak muda lah pulak.
+**Syuk:** Tak, saya kesian sebab dia salah kira. Jadi saya rasa paling beria Farhash punya ni kot. Eh, Farhash? Sebab kalau RM26 tu, yelah, itu pasaran dia. Lepas tu Zaliha ni mungkin salah kira, saya kesian. Salah kira, kesian. Jadi bersama... Puad Zarkashi, sebab dia tua. Kesian lah. Jadi saya rasa paling beria NGO yang keluar kenyataan ni nak menekan — dan ni lah anak muda sokong anak muda lah pulak.
 
 **Rafizi:** Bukan NGO kau eh?
 

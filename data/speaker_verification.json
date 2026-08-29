@@ -644,6 +644,91 @@
           }
         ]
       }
+    },
+    {
+      "claimed_ts": 7241,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 2,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "ratus lima"
+          },
+          {
+            "offset_seconds": 3.6,
+            "voice": "V2",
+            "first_words": "Tak ada slide tadi"
+          },
+          {
+            "offset_seconds": 4.8,
+            "voice": "V1",
+            "first_words": "280,000 kan yang tadi"
+          },
+          {
+            "offset_seconds": 19.4,
+            "voice": "V2",
+            "first_words": "Ada dalam jawapan parlimen"
+          },
+          {
+            "offset_seconds": 21.7,
+            "voice": "V1",
+            "first_words": "Ah, ni jawapan par-"
+          }
+        ]
+      }
+    },
+    {
+      "claimed_ts": 9111,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 2,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "I have the numbers"
+          },
+          {
+            "offset_seconds": 17.6,
+            "voice": "V2",
+            "first_words": "Hmm"
+          },
+          {
+            "offset_seconds": 18.5,
+            "voice": "V1",
+            "first_words": "So if you are in their shoes"
+          },
+          {
+            "offset_seconds": 21.1,
+            "voice": "V2",
+            "first_words": "Mm-hmm"
+          },
+          {
+            "offset_seconds": 22.0,
+            "voice": "V1",
+            "first_words": "Kan? Ha jadi, sebab itu"
+          }
+        ]
+      }
+    },
+    {
+      "claimed_ts": 10280,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 1,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "lah I mean I"
+          }
+        ]
+      }
     }
   ]
 }

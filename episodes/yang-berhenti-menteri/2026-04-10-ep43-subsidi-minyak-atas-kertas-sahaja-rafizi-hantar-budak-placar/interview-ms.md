@@ -478,7 +478,7 @@ Jadi kalau contohnya semua ini berlaku, ujian yang lebih besar, ia bermakna — 
 
 **Haziq:** YB tak tolak kemungkinan lain untuk menghabiskan YB? Mungkin menghantar ke 3RBC? Penjara?
 
-**Rafizi:** Well, dia macam dia kena ada pembuka selera, dia kena ada hidangan utama, dia kena ada pencuci mulut. Mungkin ni pembuka selera dia lah kan, hidangan utama dia mungkin itulah. Sebab kau nampak, dia ada banyak pihak yang sakit hati dengan aku ni kan — maksudnya, gang-gang Farhaj dan Rahmanan tu satu, Dato' Seri Anwar sendiri satu lah, sebab dia rasa macam ini menyusahkan dia, menyebabkan orang benci kat dia kan, kemudian ada SPRM, pihak berkuasa macam-macam lah.
+**Rafizi:** Well, dia macam dia kena ada pembuka selera, dia kena ada hidangan utama, dia kena ada pencuci mulut. Mungkin ni pembuka selera dia lah kan, hidangan utama dia mungkin itulah. Sebab kau nampak, dia ada banyak pihak yang sakit hati dengan aku ni kan — maksudnya, gang-gang Farhash dan Rahmanan tu satu, Dato' Seri Anwar sendiri satu lah, sebab dia rasa macam ini menyusahkan dia, menyebabkan orang benci kat dia kan, kemudian ada SPRM, pihak berkuasa macam-macam lah.
 
 **Farhan (Pa'an):** Tapi macam... bukan pasal Zaki Farah tu — kalau kau tengok balik '98, engkau...
 

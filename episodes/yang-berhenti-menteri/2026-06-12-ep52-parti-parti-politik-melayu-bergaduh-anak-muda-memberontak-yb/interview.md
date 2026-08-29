@@ -18,7 +18,7 @@ topics:
 - Format baharu podcast YBM sempena episod ke-52 dan fokus kepada suara anak muda
 - 'Segmen Beria: nasi ayam RM26 dan branding harga premium'
 - 'Segmen Beria: ikan keli pistachio dan tren makanan viral'
-- 'Segmen Beria: NGO memuji ''Farhaj'' dan spekulasi agenda PR/politik'
+- 'Segmen Beria: NGO memuji ''Farhash'' dan spekulasi agenda PR/politik'
 - Permohonan calon Parti Bersama secara online dan kritikan Puad Zarkashi
 - 'Sistem pemilihan calon politik: primary di US/UK berbanding budaya parti di Malaysia'
 - Salah kira RM90 juta oleh Zaleha Ahmad dan kepentingan kemahiran berceramah dalam PKR
@@ -38,7 +38,7 @@ summary: In episode 52 of the YBM Podcast, Rafizi Ramli hands hosting duties to 
   joined by two young guests, Syuk and Zaim Zulkifli (a UIA political science student),
   plus regular contributor Farhan 'Pa'an', for the weekly 'beria' (outrageous/audacious)
   news commentary segment. They discuss viral stories including an RM26 nasi ayam
-  seller, a pistachio catfish dish, PR efforts around businessman Farhaj's political
+  seller, a pistachio catfish dish, PR efforts around businessman Farhash's political
   image, Bersatu's online candidate nomination call criticized by Puad Zarkashi, and
   PKR's Zaleha mixing up figures during a Johor by-election speech. The conversation
   shifts into a deep discussion on Gen Z identity, social media's role in shaping
@@ -232,15 +232,15 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Okey, baik-baik. Memang beria letak benda ni. Memang beria letak benda ni, susah nak komen. Kita tengok lepas ni, ada lagi — dah lama tak jadi tetamu kita, tetapi dia singgah. Sekejap...
 
-**Rafizi:** Oh ya, ini bagi dia orang lah komen. Satu minggu, satu Farhaj. Ini ikon usahawan muda yang paling terkenal, anak-anak muda kenal. Silakan, aku nak minum air. Zaim, Zaim, sebab dia lah...
+**Rafizi:** Oh ya, ini bagi dia orang lah komen. Satu minggu, satu Farhash. Ini ikon usahawan muda yang paling terkenal, anak-anak muda kenal. Silakan, aku nak minum air. Zaim, Zaim, sebab dia lah...
 
-**Zaim Zulkifli:** I think Farhaj ni orang kenal lah, tapi pernah jumpa tak? Tak pernah jumpa. Itu pelik je. Tapi kalau — I mean, like bila kita borak-borak dengan kawan apa semua, orang kenal dengan Farhaj, and orang like very interested dengan dia, in a sense that macam mana dia boleh jadi dia yang sekarang. So budak-budak kat uni...
+**Zaim Zulkifli:** I think Farhash ni orang kenal lah, tapi pernah jumpa tak? Tak pernah jumpa. Itu pelik je. Tapi kalau — I mean, like bila kita borak-borak dengan kawan apa semua, orang kenal dengan Farhash, and orang like very interested dengan dia, in a sense that macam mana dia boleh jadi dia yang sekarang. So budak-budak kat uni...
 
-**Rafizi:** kalau kat UIA tu macam mana? Mereka semua kenal Farhaj?
+**Rafizi:** kalau kat UIA tu macam mana? Mereka semua kenal Farhash?
 
-**Zaim Zulkifli:** I don't think semua lah, tapi somehow bila mention, somehow orang boleh ingat macam — macam kita sebut Anwar, orang macam "oh Anwar Ibrahim ke?" Macam tu lah. Farhaj macam "oh, Farhaj yang ni ke?" So people like boleh recognize yang Farhaj ni somehow important, tapi orang pun tak tahu how deep lah dia punya peranan.
+**Zaim Zulkifli:** I don't think semua lah, tapi somehow bila mention, somehow orang boleh ingat macam — macam kita sebut Anwar, orang macam "oh Anwar Ibrahim ke?" Macam tu lah. Farhash macam "oh, Farhash yang ni ke?" So people like boleh recognize yang Farhash ni somehow important, tapi orang pun tak tahu how deep lah dia punya peranan.
 
-**Rafizi:** So pandangan, apa nama ni, your circle, kawan-kawan kau yang umur 20-an ni, pandangan dia orang pasal Farhaj ni macam mana?
+**Rafizi:** So pandangan, apa nama ni, your circle, kawan-kawan kau yang umur 20-an ni, pandangan dia orang pasal Farhash ni macam mana?
 
 **Syuk:** Sejujurnya, kalau kumpulan saya, saya tak kenal pun.
 
@@ -266,15 +266,15 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Peguam duduk Bukit Bintang?
 
-**Syuk:** Ofis saya Bukit Bintang. Tapi tu orang associate saya dengan Farhaj — tak ada kaitan, saya declare, tak ada kaitan, ofis saya je.
+**Syuk:** Ofis saya Bukit Bintang. Tapi tu orang associate saya dengan Farhash — tak ada kaitan, saya declare, tak ada kaitan, ofis saya je.
 
 **Rafizi:** Mana ada ofis lawyer kat Bukit Bintang. Ada. Ya. Lawyer bukan semua duduk-duduk dekat-dekat dengan mahkamah ke? Yang kau pergi duduk jauh-jauh tengah Bukit Bintang.
 
 **Syuk:** Not necessary.
 
-**Rafizi:** Hmm. So macam mana ni? "Farhaj kekal setia perjuangan reformasi, terus bersama Anwar." Ni NGO mana pula yang cakap ni? Haa, NGO mana, Syuk?
+**Rafizi:** Hmm. So macam mana ni? "Farhash kekal setia perjuangan reformasi, terus bersama Anwar." Ni NGO mana pula yang cakap ni? Haa, NGO mana, Syuk?
 
-**Haziq:** Dia bukan lecturer yang cakap tu. Haa, sebenarnya tu nama dia, satu minggu satu Farhaj — tetap minggu ada sahaja yang akan tiba-tiba Farhaj ini, Farhaj itu. Dia aneh lah.
+**Haziq:** Dia bukan lecturer yang cakap tu. Haa, sebenarnya tu nama dia, satu minggu satu Farhash — tetap minggu ada sahaja yang akan tiba-tiba Farhash ini, Farhash itu. Dia aneh lah.
 
 **Syuk:** Dia apa, pertubuhan kebajikan Madani ke apa? Minggu ni NGO lah. Minggu lepas ada pensyarah.
 
@@ -288,11 +288,11 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Zaim Zulkifli:** Hah? Mana lecturer? Kalau lah, kalau ada...
 
-**Rafizi:** So kalau kau buat Political Science, takkan tak ada kes tadi pasal Farhaj kot?
+**Rafizi:** So kalau kau buat Political Science, takkan tak ada kes tadi pasal Farhash kot?
 
 **Zaim Zulkifli:** So far tak pernah jumpa lagi lah, tak pernah encounter lagi lah, even kat UIA.
 
-**Rafizi:** Minggu depan, minggu depan akan keluar satu konten, kenyataan media bisa mengenai Farhaj. Kes Farhaj.
+**Rafizi:** Minggu depan, minggu depan akan keluar satu konten, kenyataan media bisa mengenai Farhash. Kes Farhash.
 
 **Syuk:** Dikeri oleh Zaim.
 
@@ -300,9 +300,9 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Oh, maksudnya, tim PR, public relation yang diuruskan ini memang beria lah — kalau duit banyak, beria lah kan.
 
-**Farhan (Pa'an):** Tetapi saya nampak gaya macam naratif yang dia cuba mengembangkan ni, ada gaya Farhaj ni nak bertanding ke, atau sesuatu — dia perkenalkan tu kepada publik.
+**Farhan (Pa'an):** Tetapi saya nampak gaya macam naratif yang dia cuba mengembangkan ni, ada gaya Farhash ni nak bertanding ke, atau sesuatu — dia perkenalkan tu kepada publik.
 
-**Rafizi:** Itu juga, whitewashing sikit — perjuangan reformasi. Sudah juga, dia kan dah bukan jadi ahli politik, kan? Dato' Seri Anwar? Dia buat comeback lah maybe? Tak lah, tak, itu yang beria, sabat tiga tu, aku dulu, apa ni, itu yang beria — apa ni, orang yang team PR ni, sebab on the one hand Dato' Seri Anwar kata Farhaj tidak terlibat dengan politik, dia ada 100% bisnes, sebaliknya bisnesmen selalunya tak nak dikaitkan dengan politik macam ini. Baik, kita ambil alih je lah PR team tu — berapa nak bayar? I think we can do a better job kot. Tapi prinsipally tak nak? Ha? Well, everything, there is a price for everything.
+**Rafizi:** Itu juga, whitewashing sikit — perjuangan reformasi. Sudah juga, dia kan dah bukan jadi ahli politik, kan? Dato' Seri Anwar? Dia buat comeback lah maybe? Tak lah, tak, itu yang beria, sabat tiga tu, aku dulu, apa ni, itu yang beria — apa ni, orang yang team PR ni, sebab on the one hand Dato' Seri Anwar kata Farhash tidak terlibat dengan politik, dia ada 100% bisnes, sebaliknya bisnesmen selalunya tak nak dikaitkan dengan politik macam ini. Baik, kita ambil alih je lah PR team tu — berapa nak bayar? I think we can do a better job kot. Tapi prinsipally tak nak? Ha? Well, everything, there is a price for everything.
 
 **Farhan (Pa'an):** Wah, you gurau je kan?
 
@@ -322,7 +322,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Lumayan lah, kalau tak ada, lah dia buat NGO tu lumayan. Haa. Cuma yang mastermind PR di belakang tu lah, public relation — takkan dia tak tahu yang sebenarnya yang muda-muda ni tak baca semua ni kan?
 
-**Zaim Zulkifli:** Setuju. Mungkin kalau dia suruh Farhaj buat content TikTok boleh lah.
+**Zaim Zulkifli:** Setuju. Mungkin kalau dia suruh Farhash buat content TikTok boleh lah.
 
 **Rafizi:** Kita cuba tengok kan.
 
@@ -330,7 +330,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Yalah, tapi kalau boost nama, tak ada orang yang baca, nak boost nama apa, buang?
 
-**Syuk:** Duit lah kan? Sekarang kalau orang google nama Farhaj, dia semua macam... I think yang tak murni lah kot.
+**Syuk:** Duit lah kan? Sekarang kalau orang google nama Farhash, dia semua macam... I think yang tak murni lah kot.
 
 **Rafizi:** Itu buat SEO je lah, Search Engine Optimization.
 
@@ -406,7 +406,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Farhan (Pa'an):** Sorry, balik kepada Menteri Hal Ehwal Rafizi, Menteri Hal Ehwal, YB...
 
-**Rafizi:** Haa, bagaimana beria ke lah? Tapi jawapan aku sebenarnya telah dijawab oleh Fitri Nordin. Haa, alamak. Haa, bagus lah, supaya dinosaur macam Puad Zarkashi dah tak jadi calon. Pencet lah bagi orang-orang. Nah, that's my answer. Haa, dan itu tujuan kenapa kita buka pencalonan online. Sebabnya ialah, bila kita gunakan cara biasa yang ada dalam parti-parti kat Malaysia ni kan, ya, sebenarnya you restrict the talent pool tu kepada sangat kecil. Kemudian maka orang yang you pilih tu sebenarnya, more often than not, hanya ada satu skill iaitu skill berpolitik. Sebab parti itu, dia nak naik daripada bawah, nak jadi ketua cabang, ketua bahagian, nak jadi pemimpin negeri kan — sampai 10-15 tahun makan masa dan dia kena kipas yang kat atas lah. And because of that, your pool itu sangat kecil kan. Jadi sebab itu orang tak suka kepada ahli politik. Sebab bila dia jadi ahli parlimen ke jadi menteri, orang kata dia ni tak ada — you don't bring anything new or additional to the table. You tak boleh nak mentadbir ke, you tak faham ke apa kan. Sebab pool itu dah sangat kecil. Dan dia ada adverse impact kepada talent pool. Sebab kalau ada orang yang sebenarnya dia rasa dia boleh jadi wakil rakyat yang baik, dan sebenarnya dia ada kemahiran itu, dia boleh bercakap dengan baik, dia memang minat buat kerja-kerja membantu orang, mungkin dalam NGO ke atau aktivis, kemudian dia juga ada kelayakan yang baik dan dia nampak ikhlas, tapi dia rasa tak payah sebab "why should I go through that", sepauh mati 10-15 tahun and I have to succumb to that political culture kan. So we have to cast the net wider — tujuan dia kan, um, bagi saya lah, terutamanya kepada yang Gen Z dan Millennials lah. Kalau you tak buat macam ini, macam mana you nak dapatkan calon-calon yang muda, yang berkebolehan, yang fresh. Bukan Farhaj kan? Fresh, yang fresh kan? So cara yang terbaik macam inilah.
+**Rafizi:** Haa, bagaimana beria ke lah? Tapi jawapan aku sebenarnya telah dijawab oleh Fitri Nordin. Haa, alamak. Haa, bagus lah, supaya dinosaur macam Puad Zarkashi dah tak jadi calon. Pencet lah bagi orang-orang. Nah, that's my answer. Haa, dan itu tujuan kenapa kita buka pencalonan online. Sebabnya ialah, bila kita gunakan cara biasa yang ada dalam parti-parti kat Malaysia ni kan, ya, sebenarnya you restrict the talent pool tu kepada sangat kecil. Kemudian maka orang yang you pilih tu sebenarnya, more often than not, hanya ada satu skill iaitu skill berpolitik. Sebab parti itu, dia nak naik daripada bawah, nak jadi ketua cabang, ketua bahagian, nak jadi pemimpin negeri kan — sampai 10-15 tahun makan masa dan dia kena kipas yang kat atas lah. And because of that, your pool itu sangat kecil kan. Jadi sebab itu orang tak suka kepada ahli politik. Sebab bila dia jadi ahli parlimen ke jadi menteri, orang kata dia ni tak ada — you don't bring anything new or additional to the table. You tak boleh nak mentadbir ke, you tak faham ke apa kan. Sebab pool itu dah sangat kecil. Dan dia ada adverse impact kepada talent pool. Sebab kalau ada orang yang sebenarnya dia rasa dia boleh jadi wakil rakyat yang baik, dan sebenarnya dia ada kemahiran itu, dia boleh bercakap dengan baik, dia memang minat buat kerja-kerja membantu orang, mungkin dalam NGO ke atau aktivis, kemudian dia juga ada kelayakan yang baik dan dia nampak ikhlas, tapi dia rasa tak payah sebab "why should I go through that", sepauh mati 10-15 tahun and I have to succumb to that political culture kan. So we have to cast the net wider — tujuan dia kan, um, bagi saya lah, terutamanya kepada yang Gen Z dan Millennials lah. Kalau you tak buat macam ini, macam mana you nak dapatkan calon-calon yang muda, yang berkebolehan, yang fresh. Bukan Farhash kan? Fresh, yang fresh kan? So cara yang terbaik macam inilah.
 
 **Syuk:** Tapi YB, jawatan dia Menteri Hal Ehwal Rafizi, dia care lah juga pasal YB, sebab last paragraph, tindakan Rafizi ni hanya mendedahkan bersama suka Encik Cha... Lun. Dia concern lah, susah nak Encik Chalun.
 
@@ -462,11 +462,11 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Hmm... menarik dan susah. Macam beria-beria. Okey, beria. Kita dah habis, kita kena pilih — bagilah jenis yang paling beria bagaimana rakan-rakan sekalian terdapat. Kena tengok lagi satu, dua.
 
-**Zaim Zulkifli:** Yang paling beria terdapat, dia sama ada yang nasi ayam ni ataupun Farhaish. Tidak tunda nasi ayam.
+**Zaim Zulkifli:** Yang paling beria terdapat, dia sama ada yang nasi ayam ni ataupun Farhash. Tidak tunda nasi ayam.
 
-**Haziq:** Atau Farhaish. Itu pilihan je, Zee. Kita diam.
+**Haziq:** Atau Farhash. Itu pilihan je, Zee. Kita diam.
 
-**Syuk:** Tak, saya kesian sebab dia salah kira. So saya rasa paling beria Farhaish punya ni kot. Eh, Farhaish? Sebab kalau RM26 tu, yelah, itu market dia. Lepas tu Zaliha ni mungkin salah kira, saya kesian. Salah kira, kesian. So bersama... Puad Zarkashi, sebab dia tua. Kesian lah. So saya rasa paling beria NGO yang keluar statement ni nak push — dan ni lah anak muda sokong anak muda lah pulak.
+**Syuk:** Tak, saya kesian sebab dia salah kira. So saya rasa paling beria Farhash punya ni kot. Eh, Farhash? Sebab kalau RM26 tu, yelah, itu market dia. Lepas tu Zaliha ni mungkin salah kira, saya kesian. Salah kira, kesian. So bersama... Puad Zarkashi, sebab dia tua. Kesian lah. So saya rasa paling beria NGO yang keluar statement ni nak push — dan ni lah anak muda sokong anak muda lah pulak.
 
 **Rafizi:** Bukan NGO kau eh?
 
