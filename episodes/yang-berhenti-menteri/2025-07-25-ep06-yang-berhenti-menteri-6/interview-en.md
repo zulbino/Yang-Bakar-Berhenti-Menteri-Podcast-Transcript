@@ -463,9 +463,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Not "kacip," I only know "Kacip Fatimah" [a herb].
 
-**Zaim Zulkifli:** That's different.
-
-**Zaim Zulkifli:** "Kacip" is like, it's cool, it's enjoyable, enjoyable.
+**Zaim Zulkifli:** That's different. "Kacip" is like, it's cool, it's enjoyable, enjoyable.
 
 **Rafizi:** Okay then, I'm old already. You could be my son, you know. "Kacip." Okay, I'll ChatGPT it.
 

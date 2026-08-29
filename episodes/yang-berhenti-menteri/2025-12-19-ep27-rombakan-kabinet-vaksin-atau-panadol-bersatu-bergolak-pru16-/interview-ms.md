@@ -48,9 +48,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 # Interview (Bahasa Melayu)
 
-**Haziq:** Assalamualaikum dan selamat datang sekali lagi podcast Yang Berhenti Menteri Dah, episod ke-27. Macam biasa bersama saudara Rafizi Ramli. Obviously kenapa ada dua kali saudara-saudara, gagap. Episod ke-27 pun masih lagi gagap. Maaf YB. Tapi YB itu tak penting, sebab yang lebih penting adalah minggu ini, saya rasa isu yang terbesar adalah berkaitan dengan rombakan kabinet.
-
-**Haziq:** Saya tukar topik.
+**Haziq:** Assalamualaikum dan selamat datang sekali lagi podcast Yang Berhenti Menteri Dah, episod ke-27. Macam biasa bersama saudara Rafizi Ramli. Obviously kenapa ada dua kali saudara-saudara, gagap. Episod ke-27 pun masih lagi gagap. Maaf YB. Tapi YB itu tak penting, sebab yang lebih penting adalah minggu ini, saya rasa isu yang terbesar adalah berkaitan dengan rombakan kabinet. Saya tukar topik.
 
 **Rafizi:** Pandai kau mengelak kan.
 
@@ -60,9 +58,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Tahniah, beria YB.
 
-**Farhan (Pa'an):** Eh, sekejap. Kau.
-
-**Farhan (Pa'an):** Okey, jadi jadi bualan lah masa dia umumkan dia buka Rembayung pun, ia...
+**Farhan (Pa'an):** Eh, sekejap. Kau. Okey, jadi jadi bualan lah masa dia umumkan dia buka Rembayung pun, ia...
 
 **Rafizi:** adalah tempat...
 
@@ -128,9 +124,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** 10,000 dah.
 
-**Haziq:** Hmm, okey baik. Okey, yang ketiga, influencer dihalang rasmi majlis pendidikan versus populariti.
-
-**Speaker ?:** Hehe.
+**Haziq:** Hmm, okey baik. Okey, yang ketiga, influencer dihalang rasmi majlis pendidikan versus populariti. Hehe.
 
 **Rafizi:** Jadi yang mana kita nak kata dia beria ni? Dia beria terangkan ke? Dia beria pergi merasmikan ke?
 
@@ -168,9 +162,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Itu bukan alasan yang baik untuk tak masukkan dia lah kan, tapi tak apa lah. Gambar tak berapa jelas lah. Jadi dia seorang yang tertinggal. Ada lagi kan? Ahli parlimen Tawau tak ada.
 
-**Haziq:** Tawau, Lo Su Fui.
-
-**Haziq:** Haa. Okay YB, vaksin atau Panadol. Yelah, kita tahu rombakan kabinet ni dibuat selepas — saya gerun tengok muka Sim lah, kenapa dia senyum happy sangat tu? Mungkin dia pernah masuk segmen Beria berkali-kali. Ya ke? Saya rasa itu menjawab soalan. Make Malaysia Great Again — dan kemudian mendapat...
+**Haziq:** Tawau, Lo Su Fui. Haa. Okay YB, vaksin atau Panadol. Yelah, kita tahu rombakan kabinet ni dibuat selepas — saya gerun tengok muka Sim lah, kenapa dia senyum happy sangat tu? Mungkin dia pernah masuk segmen Beria berkali-kali. Ya ke? Saya rasa itu menjawab soalan. Make Malaysia Great Again — dan kemudian mendapat...
 
 **Rafizi:** Oh, Make Malaysia Great Again.
 
@@ -184,9 +176,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Oh, Zahid Hamidi pun tak ada?
 
-**Farhan (Pa'an):** Patut lagi.
-
-**Farhan (Pa'an):** Dah terlalu sesak.
+**Farhan (Pa'an):** Patut lagi. Dah terlalu sesak.
 
 **Rafizi:** CM pun tak ada.
 
@@ -196,9 +186,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Farhan (Pa'an):** Ada menteri-menteri yang dikatakan berprestasi tetapi ditukarkan portfolio. Ada menteri-menteri yang dikatakan tidak begitu berprestasi, dikekalkan. Seperti yang disebut oleh orang ramai, yang paling menarik perhatian lah adalah perletakan Steven Sim di KUSKOP dan Ramanan di KESUMA — itu antara benda yang dipersoalkan. Dan juga, Hannah Yeoh yang dipindahkan ke Kementerian Wilayah, Zaliha dijatuhkan — mungkin YB boleh bagi pandangan tentang langkah-langkah rombakan ini.
 
-**Rafizi:** Shuffle macam menari di lantai? Saya baru terfikir benda tu — shuffle, menari di lantai. Erm... tidak, okey. Saya rasa kita ketepikan dulu komen-komen yang pasal Steven Sim ke, Ramanan ke, Zaleha ke, kan. Sebab saya rasa komen-komen mengenai pertukaran-pertukaran itu lebih bertumpu kepada pandangan orang PH. Saya tak rasa ia mempunyai kesan atau tarikan yang lebih besar dengan pengundi biasa.
-
-**Rafizi:** Rombakan kabinet ini kita... ya Allah, kena terima hakikat lah. Sebenarnya yang orang paling teruja dan menunggu itu hanyalah satu nama — Fadlina. Yang itu yang semua orang tunggu. Dan saya rasa rakyat biasa yang tidak partisan ini kerana Kementerian Pendidikan itu sangat penting. Malah soal siapa jadi Menteri Ekonomi pun tak ada orang peduli sangat. Yang menjadi tumpuan selama beberapa bulan, terutamanya sejak kami letak jawatan dan confirm akan ada rombakan kabinet, kemudian dengan beberapa isu yang berlaku, ialah sama ada Datuk Seri Anwar Ibrahim akan menukar Menteri Pendidikan ataupun tidak. Dan itu adalah pandangan yang menyeluruh merentasi semua kumpulan — sama ada penyokong parti, sama ada... tapi lebih-lebih lagi terutamanya rakyat biasa, kerana semua ibu bapa, yang Melayu, yang bukan Melayu, kan.
+**Rafizi:** Shuffle macam menari di lantai? Saya baru terfikir benda tu — shuffle, menari di lantai. Erm... tidak, okey. Saya rasa kita ketepikan dulu komen-komen yang pasal Steven Sim ke, Ramanan ke, Zaleha ke, kan. Sebab saya rasa komen-komen mengenai pertukaran-pertukaran itu lebih bertumpu kepada pandangan orang PH. Saya tak rasa ia mempunyai kesan atau tarikan yang lebih besar dengan pengundi biasa. Rombakan kabinet ini kita... ya Allah, kena terima hakikat lah. Sebenarnya yang orang paling teruja dan menunggu itu hanyalah satu nama — Fadlina. Yang itu yang semua orang tunggu. Dan saya rasa rakyat biasa yang tidak partisan ini kerana Kementerian Pendidikan itu sangat penting. Malah soal siapa jadi Menteri Ekonomi pun tak ada orang peduli sangat. Yang menjadi tumpuan selama beberapa bulan, terutamanya sejak kami letak jawatan dan confirm akan ada rombakan kabinet, kemudian dengan beberapa isu yang berlaku, ialah sama ada Datuk Seri Anwar Ibrahim akan menukar Menteri Pendidikan ataupun tidak. Dan itu adalah pandangan yang menyeluruh merentasi semua kumpulan — sama ada penyokong parti, sama ada... tapi lebih-lebih lagi terutamanya rakyat biasa, kerana semua ibu bapa, yang Melayu, yang bukan Melayu, kan.
 
 Jadi apabila rombakan ini tidak melibatkan Fadlina langsung dan Kementerian Pendidikan tidak disentuh langsung, bagi saya itu secara automatik akan menjadi petanda bahawa pandangan rakyat biasa ialah rombakan ini tidak akan ada kesan apa-apa. Sebab yang mereka tumpu hanya itu sahajalah kan. Jadi itu sebabnya kita tengok komen tu, kebanyakannya bagi saya ialah komen daripada penyokong PH. Hanya penyokong PH saja yang, "oh Steven Sim lah," "oh itulah," "inilah," kan. Sebab rakyat biasa tak fikir macam itu. Rakyat biasa tidak ada banyak pandangan pun pasal Steven Sim, hatta Ramanan pun. Jadi yang penting bagi mereka ialah Kementerian Pendidikan.
 
@@ -224,11 +212,7 @@ Dan satu lagi yang akan ada kesan yang panjang ialah soal prestasi Kementerian P
 
 **Haziq:** Tidak penting?
 
-**Farhan (Pa'an):** Tidak penting mungkin terlalu banyak perkataan.
-
-**Farhan (Pa'an):** Tapi terlalu kecil pemainnya, ataupun...
-
-**Farhan (Pa'an):** Saya tak rasa...
+**Farhan (Pa'an):** Tidak penting mungkin terlalu banyak perkataan. Tapi terlalu kecil pemainnya, ataupun... Saya tak rasa...
 
 **Rafizi:** MIC adalah yang paling rugi. Tu ada bekas Bendahari MIC, dia ada wakil dalam kabinet naturalisasi oleh PKR, dia ada wakil daripada MIC. Tak, saya rasa dari isu mengenai MCA dengan MIC ni, saya dah ulas minggu lepas bahawa ugutan ataupun bising-bising itu lebih kepada soal positioning dan kuasa runding MCA-MIC di dalam kerajaan melalui BN. Satu ialah, ruang yang ada ini ialah untuk merombak semula menteri, ini samada mereka ada pendapat tempat ataupun tidak. Hmm. Tapi tak mudah jugalah. Pertama, contohnya dari segi perkiraan berapa mewakili parti mana, dia mengikut gabungan. Jadi BN kan, gabungan BN untuk memberi satu jawatan menteri kepada sama ada MCA ataupun MIC, maka BN kena bagi kursi itu kepada mereka kerana perjanjian kerajaan perpaduan — yang itu saya tulis tau, memang dah secara jelas menunjukkan dia mesti berkadar langsung dengan jumlah kerusi. Malah sebenarnya UMNO dapat lebih sekarang. Sebab kalau ikut perkadaran itu, BN sepatutnya dapat 5 sahaja. Tapi sebab Tengku Zafrul dahulu tidak dikatakan mewakili UMNO tetapi mewakili... dalam perbincangan itu kata bukan mewakili UMNO — masa awal-awal kita tubuh lah, dia kira ini bukan kuota UMNO ini, ini kuota Tengku Zafrul, sebab Tengku Zafrul dot-dot-dot lah. Jadi UMNO pula kata, "oh, tapi sebab dia ahli UMNO, maka bila dia tak ada nanti kuota itu mesti jadi kuota UMNO." Tapi sekarang ni, UMNO kalau ikut berkadar langsung, UMNO dapat lebih lah, satu kan. Jadi sama ada UMNO nak bagi satu kursi dia kepada MCA, ataupun satu kursi jemaah menteri itu kepada MIC — takkan bagilah. Jadi kalau UMNO nak tekan pula PH bagi kursi kamu, lagilah tak bagi. Jadi memang dalam keadaan sekarang kan, ruang ini memang dah terlepas lah kepada MCA, MIC.
 
@@ -294,9 +278,7 @@ Jadi, hmm, yalah, saya rasa terlalu awal untuk kita nak menilai prestasi. Yang k
 
 **Rafizi:** Jadi vaksin ke Panadol ni? Masa yang menentukan. Hanya masa yang boleh menentukan.
 
-**Farhan (Pa'an):** Tapi cukup ke masa untuk—
-
-**Farhan (Pa'an):** Vaksin atau Panadol cukup kot, tapi vaksin... Panadol memang definitely—
+**Farhan (Pa'an):** Tapi cukup ke masa untuk— Vaksin atau Panadol cukup kot, tapi vaksin... Panadol memang definitely—
 
 **Rafizi:** Panadol buat masa sekarang kan. Tapi vaksin tu, kalaupun vaksin yang berkesan, oleh kerana dia tidak dicuba dalam ujian klinikal yang lama, dia mungkin ada kesan sampingan yang besar. Baik, baik, baik.
 
@@ -356,15 +338,7 @@ Jadi yang itulah yang nasib baiknya ialah PKR/PH bergolak. Sebab kalau aman, PKR
 
 **Rafizi:** Daripada di luar kan, kerana ini soal krisis kewujudan. Ini soal pertempuran pada tahap kewujudan kepada kumpulan Dato' Seri Hamzah melawan kumpulan Dato' Seri Azmin yang bergantung kepada Tan Sri Muhyiddin.
 
-**Farhan (Pa'an):** Sejak kita bercakap tentang topik pembangkang kan — di mata orang ramai, mungkin parti yang paling stabil pada masa ini masih PAS. Sebab di... tak ada dosa peribadi yang terdedah... kepada umum dikatakan tak ada, tak ada pergaduhan dalam, tak ada kontroversi sangat lah. Adakah ini satu petanda yang teruk yang dibiarkan oleh PH?
-
-**Farhan (Pa'an):** Sebab PH pun bergolak, berbatu-batu. Petanda macam mana? Tanyalah...
-
-**Farhan (Pa'an):** ...dalam bahasa Melayu.
-
-**Farhan (Pa'an):** Setengah fikir macam mana nak tanya soalan — terjemah dalam bahasa Melayu, tanya cik GPT.
-
-**Farhan (Pa'an):** Maksudnya orang ramai akan pandang PAS ni sebagai parti yang paling stabil lah.
+**Farhan (Pa'an):** Sejak kita bercakap tentang topik pembangkang kan — di mata orang ramai, mungkin parti yang paling stabil pada masa ini masih PAS. Sebab di... tak ada dosa peribadi yang terdedah... kepada umum dikatakan tak ada, tak ada pergaduhan dalam, tak ada kontroversi sangat lah. Adakah ini satu petanda yang teruk yang dibiarkan oleh PH? Sebab PH pun bergolak, berbatu-batu. Petanda macam mana? Tanyalah... ...dalam bahasa Melayu. Setengah fikir macam mana nak tanya soalan — terjemah dalam bahasa Melayu, tanya cik GPT. Maksudnya orang ramai akan pandang PAS ni sebagai parti yang paling stabil lah.
 
 **Rafizi:** Ya lah, itu memang dijangka lah. Cuma sama ada — sama ada sesebuah parti itu boleh menang membentuk kerajaan dengan bergantung semata-mata kepada kebencian pengundi kepada parti-parti lain, tanpa menawarkan sesuatu yang menakjubkan. Iaitu, saya tak yakin lah sebenarnya. Jadi itu kedudukan PAS kan. Sebab tu PAS macam diam, dia tak buat apa kan.
 
@@ -388,9 +362,7 @@ Yang totok parti itu, memang dia akan ikut lah, ikut mana-mana kan. Tapi pengund
 
 **Rafizi:** Ya, di China dan di India lah.
 
-**Haziq:** Tapi mungkin kami nak tahu sikit lah — sebenarnya, apa yang akan berlaku seterusnya? Golongan yang tak keluar mengundi semua ni, kesan dia tu apa kepada PRU16, dan mungkin ada kesan yang tidak dijangka?
-
-**Haziq:** Ok, wah, mentang-mentang...
+**Haziq:** Tapi mungkin kami nak tahu sikit lah — sebenarnya, apa yang akan berlaku seterusnya? Golongan yang tak keluar mengundi semua ni, kesan dia tu apa kepada PRU16, dan mungkin ada kesan yang tidak dijangka? Ok, wah, mentang-mentang...
 
 **Rafizi:** Malah di Kementerian Ekonomi sekarang, mereka pun sudah menggunakan istilah "kesan tidak dijangka," ok. Erm... erm... Saya baru dapat data terkini lah. Dia pun lepas. Fine. Ada tanda-tanda beberapa corak utama. Kenapa kita perlukan data dan juga... um... kenapa analisa-analisa ini penting ialah kerana pandangan saya, ahli politik dan parti politik, pemimpin ni kita tak boleh reaktif. Kita tak boleh reactionary tau. Kita mesti boleh membaca lebih awal dan kemudian menyesuaikan strategi dan juga komunikasi kita berdasarkan pandangan dan juga perasaan orang ramai. Itu yang saya sebut sebagai resonans. Berkali-kali resonans kan. Contohnya, kalau kita cakap benda yang sama, berulang-ulang, kita rasa benda itu betul-betul kita yakin yang terbaik dan kita ulang yang sama. Tapi kalau dia tak ada resonans, dia membuang masa. Contohnya lah, kita pernah sebut sebelum ini kan, itu juga cabaran Dato' Seri Anwar sekarang — dia jadi Perdana Menteri, dia masih lagi bercakap seolah-olah dia ketua pembangkang. Dia masih lagi bercakap soal saya kena pukul, kena penjara, ISA sana. Rakyat akan cakap, kami faham, sebab itulah kami buat kamu jadi Perdana Menteri. Sekarang anda masuk ke fasa baharu kan? Dan itu yang berlaku apabila kita tidak boleh membaca resonans rakyat. Soal ISA semua itu, bila dah jadi kerajaan, dah tak ada resonans dengan rakyat tau.
 
@@ -570,9 +542,7 @@ Jadi kalau JKOM nak belajar, bolehlah, tapi bayarlah, tak payah lah pergi beli v
 
 **Rafizi:** Mereka minta supaya minggu depan tak ada. Tak boleh, setiap minggu kena ada. Jadi minggu depan walaupun cuti — cuti satu hari selepas Krismas, eh — ya, kita tetap bersiaran. Boxing day. Boxing day.
 
-**Farhan (Pa'an):** Kamu boxing apa? Boxing day.
-
-**Farhan (Pa'an):** Yelah.
+**Farhan (Pa'an):** Kamu boxing apa? Boxing day. Yelah.
 
 **Rafizi:** Saya tahu. Tapi apa yang kamu tumbuk, kamu tak sambut Krismas pun. Tak, tak, kita bertumbuk dengan bersungguh-sungguh.
 

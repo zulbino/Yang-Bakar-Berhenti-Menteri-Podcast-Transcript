@@ -249,9 +249,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [14:38] Iqbal: 2009 was around the time of Kajang Move?
 
-[14:42] Rafizi: Around, no. Kajang Move 2014. Lama lagi.
-
-[14:48] Rafizi: Kemudian I think lepas itu ada sebablah saya ingat dia 2011, 2012 tu dia hilanglah. Dia hilang nothing sangatlah. Jadi di antara tahun 2009 sampailah 2018 sampai yalah Datuk Seri Anwar masuk penjara balik 2015 kan. So antara 2009 sampai 2009 sampai 2012 tu, I was more or less dia punya Chief of Staff masa saya CEO dekat Selangor dulu. Sebagai penasihat Datuk Seri Anwar, penasihat ekonomi Selangor kan. So until dia masuk penjara balik 2015, Farhash did tak ada pengaruh yang besar yang macam kita tengok sekarang, tak ada. Farhash lepas dia dah habis dia punya Youth wing tu, habis dekat situlah. He only appeared balik bila Datuk Seri Anwar keluar penjara 2018.
+[14:42] Rafizi: Around, no. Kajang Move 2014. Lama lagi. Kemudian I think lepas itu ada sebablah saya ingat dia 2011, 2012 tu dia hilanglah. Dia hilang nothing sangatlah. Jadi di antara tahun 2009 sampailah 2018 sampai yalah Datuk Seri Anwar masuk penjara balik 2015 kan. So antara 2009 sampai 2009 sampai 2012 tu, I was more or less dia punya Chief of Staff masa saya CEO dekat Selangor dulu. Sebagai penasihat Datuk Seri Anwar, penasihat ekonomi Selangor kan. So until dia masuk penjara balik 2015, Farhash did tak ada pengaruh yang besar yang macam kita tengok sekarang, tak ada. Farhash lepas dia dah habis dia punya Youth wing tu, habis dekat situlah. He only appeared balik bila Datuk Seri Anwar keluar penjara 2018.
 
 [15:41] Iqbal: Tapi apakah maksud pengaruh besar? Sebab dia tak memegang apa-apa jawatan...
 
@@ -721,9 +719,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:11:29] Iqbal: Ada ada orang tanya apa status PADU sekarang then?
 
-[1:11:32] Rafizi: Status PADU beroperasi 100% lah.
-
-[1:11:37] Rafizi: PADU masa kita bentangkan dan dapat arahan untuk buat kerana diagnosisnya ada dua tiga keperluan kenapa kita perlukan satu pangkalan data utama yang bersepadu. Satu, actually dari segi kos more than anything else yang mungkin rakyat di luar tak faham.
+[1:11:32] Rafizi: Status PADU beroperasi 100% lah. PADU masa kita bentangkan dan dapat arahan untuk buat kerana diagnosisnya ada dua tiga keperluan kenapa kita perlukan satu pangkalan data utama yang bersepadu. Satu, actually dari segi kos more than anything else yang mungkin rakyat di luar tak faham.
 
 [1:11:57] Iqbal: What does that mean? Apa maksud tu?
 
@@ -847,15 +843,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:28:07] Iqbal: Okey. Then the final question.
 
-[1:28:09] Chak Onn Lau: The final question eh? Okey. One more.
-
-[1:28:15] Chak Onn Lau: Okey, so it was the first question we asked and it's the last question we ask. You wrote in the MCKK profile last time, the debate profile like...
+[1:28:09] Chak Onn Lau: The final question eh? Okey. One more. Okey, so it was the first question we asked and it's the last question we ask. You wrote in the MCKK profile last time, the debate profile like...
 
 [1:28:26] Rafizi: Eh mamat yang letakkan benda tu dah mati tau, pergi tanya dia.
 
-[1:28:30] Chak Onn Lau: Nak jadi PM. If you could, if you would...
-
-[1:28:35] Chak Onn Lau: Okey, sebelum tu, I had a one one follow-up question before that lah. If you were to choose, you had the choice of whichever kementerian that you wanted to take over you know in the future, which one would it be? So I had a bet with one of your guys about which kementerian that you would pick lah.
+[1:28:30] Chak Onn Lau: Nak jadi PM. If you could, if you would... Okey, sebelum tu, I had a one one follow-up question before that lah. If you were to choose, you had the choice of whichever kementerian that you wanted to take over you know in the future, which one would it be? So I had a bet with one of your guys about which kementerian that you would pick lah.
 
 [1:28:51] Rafizi: You see you see...
 

@@ -114,9 +114,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Najib:** Benda-benda seperti itu yang kita di luar ini tidak begitu faham kan?
 
-**Nazri:** Ya, kita tidak begitu faham. Jadi sekurang-kurangnya kita nampaklah gambaran ia macam mana. 50% itu banyaklah bagi kami.
-
-**Nazri:** Pada saya, saya terkejut. Nampak terlalu tidak sangka dia naikkan 90 bilion sebab 50% sahaja disalurkan ke—
+**Nazri:** Ya, kita tidak begitu faham. Jadi sekurang-kurangnya kita nampaklah gambaran ia macam mana. 50% itu banyaklah bagi kami. Pada saya, saya terkejut. Nampak terlalu tidak sangka dia naikkan 90 bilion sebab 50% sahaja disalurkan ke—
 
 **Rafizi:** Well, saya rasa kita capai — untuk 2024 kita telah berjaya, ya, kita terus dorong lah supaya kita tangani masalah tanggungan itu dengan lebih baik, supaya dari setahun ke setahun jumlah DE asas yang dipanggil itu, betul-betul pergi kepada projek, itu naik lebih daripada yang bukan asas lah. Jadi untuk 2024 itu kita sudah naik sedikitlah, 52-48. Jadi lebih 52% itu, itu betul-betul DE asas. Yang lain itu kita kena urus, yang kita warisi daripada yang lepas-lepaslah.
 

@@ -121,15 +121,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Okay, maybe.
 
-**Rafizi:** I think it's the people who keep entertaining this that are the real drama. Okay, because there will always be people coming with all kinds of overclaim/scam products like this, right? Hmm. But nowadays, especially in urban areas, even if it's not their field, even if they don't check it themselves, at the very least their children can refer them. That's true too, because like me, like my parents, right, they
-
-**Rafizi:** went to school back in the day, so they don't know how to check GPT and all that, but they refer everything to us. So, InshaAllah, they never get scammed, they've never been scammed their whole lives, they've never been scammed their whole lives. So maybe the real drama is that we usually, when something like this happens, we tend to point fingers
-
-**Rafizi:** at the seller, the marketer, everyone up the chain. For this, there is a law
-
-**Rafizi:** to take action against them if there's a report, because every medical device needs a license.
-
-**Rafizi:** Yes, there's the MDA, Medical Device Authority, under the Ministry of Health. It's supposed to regulate everything, but again, there will still be cases. So the best way to avoid this is at least to ask people first. So scientifically, if hydrogen
+**Rafizi:** I think it's the people who keep entertaining this that are the real drama. Okay, because there will always be people coming with all kinds of overclaim/scam products like this, right? Hmm. But nowadays, especially in urban areas, even if it's not their field, even if they don't check it themselves, at the very least their children can refer them. That's true too, because like me, like my parents, right, they went to school back in the day, so they don't know how to check GPT and all that, but they refer everything to us. So, InshaAllah, they never get scammed, they've never been scammed their whole lives, they've never been scammed their whole lives. So maybe the real drama is that we usually, when something like this happens, we tend to point fingers at the seller, the marketer, everyone up the chain. For this, there is a law to take action against them if there's a report, because every medical device needs a license. Yes, there's the MDA, Medical Device Authority, under the Ministry of Health. It's supposed to regulate everything, but again, there will still be cases. So the best way to avoid this is at least to ask people first. So scientifically, if hydrogen
 
 **Speaker ?:** is just put on the eyes, what does it do?
 
@@ -161,9 +153,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Okay, alright, we'll touch on that a bit more later. So who's the "beria" one here again? Surely it's not a joke, not to that person, to whoever did that. Okay, like
 
-**Rafizi:** not
-
-**Rafizi:** fun at all, this week's drama.
+**Rafizi:** not fun at all, this week's drama.
 
 **Haziq:** This is only the second one, we have quite a few, YB has some too. Oh okay, alright, that's already two.
 
@@ -269,53 +259,31 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** She used to, I think 10 years ago, enter awards regularly. So I think there was a point where she started saying, it's fine, it's time for her to step back so others can enter. Otherwise she'd win too. No, that's why you
 
-**Rafizi:** can't. Oh, you can't draw that parallel. Because Siti Nurhaliza willingly withdrew herself.
-
-**Rafizi:** I got banned. Exactly. Otherwise, I would have entered.
-
-**Rafizi:** entered again.
-
-**Rafizi:** won again. If I hadn't entered, that would mean being even more envious. Eh, people say don't be envious. So okay, this was the first
+**Rafizi:** can't. Oh, you can't draw that parallel. Because Siti Nurhaliza willingly withdrew herself. I got banned. Exactly. Otherwise, I would have entered. entered again. won again. If I hadn't entered, that would mean being even more envious. Eh, people say don't be envious. So okay, this was the first
 
 **Speaker ?:** time I won a contest.
 
-**Rafizi:** Ask me today, where — actually no, I once won a contest at age 20. Did it together with someone. I was studying for finals, I think first year of uni. Back then people listened to the radio, our era, no streaming, everyone listened to radio, local FM stations. Hmm. So there was a song-guessing contest.
+**Rafizi:** Ask me today, where — actually no, I once won a contest at age 20. Did it together with someone. I was studying for finals, I think first year of uni. Back then people listened to the radio, our era, no streaming, everyone listened to radio, local FM stations. Hmm. So there was a song-guessing contest. Oh, okay. I got fed up because for three weeks nobody could guess the song. So in the middle of the night, 2 a.m., I called, told them the answer. Then they asked me a bit about my background. I said, "I'm an engineering student." Wow, an engineer listening to the radio. So I won something. But it was embarrassing, meaning, everyone couldn't guess that song, clearly the song wasn't mainstream. I was probably the only one who had ever heard that song.
 
-**Rafizi:** Oh, okay.
-
-**Rafizi:** I got fed up because for three weeks nobody could guess the song. So in the middle of the night, 2 a.m., I called,
-
-**Rafizi:** told them the answer. Then they asked me a bit about my background. I said, "I'm an engineering student." Wow, an engineer listening to the radio. So I won something. But it was embarrassing, meaning, everyone couldn't guess that song, clearly the song wasn't mainstream. I was probably the only one who had ever heard that song.
-
-**Haziq:** Okay alright, that's it, sorry, time to choose.
-
-**Haziq:** So it's time to choose, this is tough.
+**Haziq:** Okay alright, that's it, sorry, time to choose. So it's time to choose, this is tough.
 
 **Rafizi:** Oh, it's tough, because nothing really stands out, except maybe the last one.
 
 **Haziq:** What is it? You're not going to pick yourself, are you crazy?
 
-**Rafizi:** Eh, as if I've never done that before.
-
-**Rafizi:** Can't, can't, can't.
-
-**Rafizi:** Can't do that. No, I wasn't that into it.
+**Rafizi:** Eh, as if I've never done that before. Can't, can't, can't. Can't do that. No, I wasn't that into it.
 
 **Haziq:** Right, no. Okay, okay, okay. Right, that does seem very
 
 **Rafizi:** spontaneous. I think I'll give it to Takiuddin. Congratulations. Because of Baitul Maqdis, we consider this struggle as if defending Baitul Maqdis. That's heavy, heavy. Alright, straight to Baitul Maqdis. Hahaha. Okay.
 
-**Haziq:** Okay baby. Alright. Okay, settled. Alright, that's the celebration, baby. So next, let's move on to Hidup Keras. Okay, we've been celebrating for about half an hour.
-
-**Haziq:** 40 minutes.
+**Haziq:** Okay baby. Alright. Okay, settled. Alright, that's the celebration, baby. So next, let's move on to Hidup Keras. Okay, we've been celebrating for about half an hour. 40 minutes.
 
 **Rafizi:** 40 minutes.
 
 **Haziq:** In conjunction with celebrating Independence Day, we have one topic. This is a heavy topic.
 
-**Rafizi:** Heavy. But
-
-**Rafizi:** it's a topic that we feel matters for the country, heading into Independence Day, Malaysia Day. This thing keeps getting repeatedly turned into political material. The political material part I don't really mind. Actually, it's true, we're about to enter our 70th year as a federation. So not many discuss it, and that's why I think many need to benefit from some clarification. If we spend a little time, this is about the model of the Malaysian federation.
+**Rafizi:** Heavy. But it's a topic that we feel matters for the country, heading into Independence Day, Malaysia Day. This thing keeps getting repeatedly turned into political material. The political material part I don't really mind. Actually, it's true, we're about to enter our 70th year as a federation. So not many discuss it, and that's why I think many need to benefit from some clarification. If we spend a little time, this is about the model of the Malaysian federation.
 
 **Haziq:** Oh, very controversial.
 
@@ -535,11 +503,7 @@ Actually why my question — why does the matter of distribution of legislative 
 
 **Haziq:** Yes.
 
-**Rafizi:** And yeah, it gets congested, the city can only hold so much. That's a perspective that's often not seen — when there's this kind of gap, the state government doesn't think about it, you know. States like Kedah, Kelantan, Terengganu put people on buses, send them off to Selangor, fly them off — they actually create a new problem, because, like you said, migration will cause a shortage of labour in those states. When there's a labour shortage, it affects economic activity. At the same time, it also affects consumption. Because the market — I mean, the market is made of people who buy, right. The people who are there are the ones who create demand for something. If there's no one there, and everyone goes off to live somewhere remote, it becomes difficult. So it has an effect on that state, because the failure to energize that economy causes migration to happen. The originating state is affected, and the receiving state is affected too, because of overcrowding — it becomes a stress on the system. So that's another danger when there's a development gap. What else is dangerous? Hmm. The gap. Hmm. Another one is that it's unfair to taxpayers. It's unfair to taxpayers. So if we're not careful, it creates a vicious cycle. A cycle that... what's "vicious cycle" in Malay? A cycle... a cruel cycle, a brutal cycle. What is vicious cycle? Vicious cycle. You... "kitaran kejam" is right, I think. Right, a brutal cycle. Hmm, add to that, right? Add
-
-**Rafizi:** to that.
-
-**Rafizi:** Thanks. Hmm, okay. But "vicious" can actually be useful here. So, it creates a vicious cycle in which, because this gap is caused by lower economic growth in the more backward states, within a federation like Malaysia, those states will keep asking for allocation after allocation and subsidy after subsidy — additional allocations from the federal government. This causes the federal government to collect taxes from the areas or states that generate federal government revenue, but it can't fairly return that money — it gets transferred elsewhere to balance out that gap. That's the second risk. Ethically, it's a question of the equitable share of the national taxpayer's money. What's the third one? So earlier, stress on, what's this — infrastructure — that's the effect. Second is the question of economic justice. The third one...
+**Rafizi:** And yeah, it gets congested, the city can only hold so much. That's a perspective that's often not seen — when there's this kind of gap, the state government doesn't think about it, you know. States like Kedah, Kelantan, Terengganu put people on buses, send them off to Selangor, fly them off — they actually create a new problem, because, like you said, migration will cause a shortage of labour in those states. When there's a labour shortage, it affects economic activity. At the same time, it also affects consumption. Because the market — I mean, the market is made of people who buy, right. The people who are there are the ones who create demand for something. If there's no one there, and everyone goes off to live somewhere remote, it becomes difficult. So it has an effect on that state, because the failure to energize that economy causes migration to happen. The originating state is affected, and the receiving state is affected too, because of overcrowding — it becomes a stress on the system. So that's another danger when there's a development gap. What else is dangerous? Hmm. The gap. Hmm. Another one is that it's unfair to taxpayers. It's unfair to taxpayers. So if we're not careful, it creates a vicious cycle. A cycle that... what's "vicious cycle" in Malay? A cycle... a cruel cycle, a brutal cycle. What is vicious cycle? Vicious cycle. You... "kitaran kejam" is right, I think. Right, a brutal cycle. Hmm, add to that, right? Add to that. Thanks. Hmm, okay. But "vicious" can actually be useful here. So, it creates a vicious cycle in which, because this gap is caused by lower economic growth in the more backward states, within a federation like Malaysia, those states will keep asking for allocation after allocation and subsidy after subsidy — additional allocations from the federal government. This causes the federal government to collect taxes from the areas or states that generate federal government revenue, but it can't fairly return that money — it gets transferred elsewhere to balance out that gap. That's the second risk. Ethically, it's a question of the equitable share of the national taxpayer's money. What's the third one? So earlier, stress on, what's this — infrastructure — that's the effect. Second is the question of economic justice. The third one...
 
 **Haziq:** ...is growth itself in the places being left behind. When everyone doesn't want to live in Kelantan or Terengganu — yeah, okay, we already know that.
 
@@ -611,9 +575,7 @@ Actually why my question — why does the matter of distribution of legislative 
 
 **YB:** Ah, that's quite optimistic — devolving by giving states fiscal room to collect all sorts of taxes. But looking at the practice of what's happening now — for example, this is my observation, I don't know if it's a good comparison or not — the Solid Waste Act, for instance, many states still sign up to hand it over to the federal government to manage...
 
-**Rafizi:** ...the asset.
-
-**Rafizi:** Water too was handed over to the federal government through a deed of assignment so it could all be managed properly. Meaning there's dependency on the federal government even though these are actually areas under local authority or state government jurisdiction. Meaning in current implementation, many things that fall under state or local authority jurisdiction have been handed over, with high dependency on the federal government. So in a situation where we want to give even more jurisdiction going forward, how do we make it a reality? We can't, because right now it's not outcome oriented, it's not benchmarked to outcome. So water management is a different story. The deed of assignment goes back to the issue of economies of scale. Water jurisdiction, for example, used to be under state governments. But state governments on their own were too small to raise water revenue for long-term water investment. So if each does it in silos separately, it becomes even more expensive. This was during the era of, I recall, the late Tun Lim Keng Yaik I think. So the logic was that for utility industries that require large investment like that, scale is important. That's why it was handed over — the water treatment plants under PUB — with federal government support, they could raise bonds and state governments would pay rent for these plants. So that's one model.
+**Rafizi:** ...the asset. Water too was handed over to the federal government through a deed of assignment so it could all be managed properly. Meaning there's dependency on the federal government even though these are actually areas under local authority or state government jurisdiction. Meaning in current implementation, many things that fall under state or local authority jurisdiction have been handed over, with high dependency on the federal government. So in a situation where we want to give even more jurisdiction going forward, how do we make it a reality? We can't, because right now it's not outcome oriented, it's not benchmarked to outcome. So water management is a different story. The deed of assignment goes back to the issue of economies of scale. Water jurisdiction, for example, used to be under state governments. But state governments on their own were too small to raise water revenue for long-term water investment. So if each does it in silos separately, it becomes even more expensive. This was during the era of, I recall, the late Tun Lim Keng Yaik I think. So the logic was that for utility industries that require large investment like that, scale is important. That's why it was handed over — the water treatment plants under PUB — with federal government support, they could raise bonds and state governments would pay rent for these plants. So that's one model.
 
 Solid waste is a bit different. Solid waste was partly because each state government didn't dare raise door taxes, because raising door tax would anger voters, fearing loss of votes. So they didn't raise door tax, while the cost of running garbage collection kept rising and rising. So they handed it back to the federal government, for example. But I think solid waste could have been handled much better, because solid waste management — except if you want to set up a waste-to-energy plant or something — the capital investment for waste management isn't as large as, for example, water.
 
@@ -721,12 +683,4 @@ Take the Datuk Seri Ismail Sabri case for example — that was already known, wh
 
 **Farhan (Pa'an):** Because we can't just change it last minute. No, Maps... a different Maps, it has two names for the place. There's actually the grounds of the Dewa Kuanti devotees association, or on Maps it's called Zilinggong Temple. Oh, temple.
 
-**Rafizi:** After this someone will make a new slander, saying I went to a temple. You choose so many places, you all do this. But PKR was like that before too, we didn't have venues either, right. So eventually, there was a congress, I forget which year, 2004 or... 2004 lah. 2004 or 2004. That congress in 2004, I think, was actually held at a temple in Ipoh. So if anyone, earlier "certified Walanon" or whatever, wants to attack us saying we went to a temple, you all did the same before —
-
-**Rafizi:** it was hard to get venues, everyone held ceramahs around temples too. But that one was indeed
-
-**Rafizi:** targeted at Chinese voters too. At the session, the majority were indeed Chinese too. So
-
-**Rafizi:** see you all tomorrow in Melaka. One more day, this is our routine, as long as this domestic violence, this political domestic violence, doesn't end with someone's death, right? It's the same, isn't it? It'll be hard otherwise — will this election just never be called, right? So we're like this, seven days a week non-stop, right? Alright, WB. That's it. See you all again tomorrow.
-
-**Rafizi:** Assalamualaikum. Good evening. And happy... Eh! Eh, oh my, am I going to get scolded now? What is it? Oh right, that's what just reminded me. This is a long weekend, happy holidays, and more importantly, this long weekend means that just because we've been working seven days a week campaigning, we've forgotten which holiday it even is. YouTube Sudirman. No wonder there's non-stop YouTube Sudirman. Because it's Merdeka. Thank you. Assalamualaikum, good evening. Merdeka!
+**Rafizi:** After this someone will make a new slander, saying I went to a temple. You choose so many places, you all do this. But PKR was like that before too, we didn't have venues either, right. So eventually, there was a congress, I forget which year, 2004 or... 2004 lah. 2004 or 2004. That congress in 2004, I think, was actually held at a temple in Ipoh. So if anyone, earlier "certified Walanon" or whatever, wants to attack us saying we went to a temple, you all did the same before — it was hard to get venues, everyone held ceramahs around temples too. But that one was indeed targeted at Chinese voters too. At the session, the majority were indeed Chinese too. So see you all tomorrow in Melaka. One more day, this is our routine, as long as this domestic violence, this political domestic violence, doesn't end with someone's death, right? It's the same, isn't it? It'll be hard otherwise — will this election just never be called, right? So we're like this, seven days a week non-stop, right? Alright, WB. That's it. See you all again tomorrow. Assalamualaikum. Good evening. And happy... Eh! Eh, oh my, am I going to get scolded now? What is it? Oh right, that's what just reminded me. This is a long weekend, happy holidays, and more importantly, this long weekend means that just because we've been working seven days a week campaigning, we've forgotten which holiday it even is. YouTube Sudirman. No wonder there's non-stop YouTube Sudirman. Because it's Merdeka. Thank you. Assalamualaikum, good evening. Merdeka!

@@ -78,9 +78,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Haa, jadi ia bukan privasi. Cuma agak jelas... kecuali tunjuk hutang aku, haa itu private lah. Itu pun aku dah tunjuk hutang aku semua dulu masa declare asset.
 
-**Haziq:** Ya, boleh tengok kan, so tak ada benda private lah. Yang diorang jaja banyak, RM20 juta pun tau. Okay, jadi YB bukan setakat share slip gaji ahli parlimen, tapi sebagai slip gaji menteri atau ketua pentadbiran. Jadi kita tengok...
-
-**Haziq:** Okay, Zoom, apa ni?
+**Haziq:** Ya, boleh tengok kan, so tak ada benda private lah. Yang diorang jaja banyak, RM20 juta pun tau. Okay, jadi YB bukan setakat share slip gaji ahli parlimen, tapi sebagai slip gaji menteri atau ketua pentadbiran. Jadi kita tengok... Okay, Zoom, apa ni?
 
 **Rafizi:** Tengoklah lama-lama, ini kali pertama korang boleh tengok slip gaji menteri.
 

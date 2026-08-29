@@ -210,9 +210,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [59:57] Nazri: Ada orang cakap makan, ada orang cakap makan.
 
-[59:59] Prof. Barjoyai: Makan pun tak sedap.
-
-[1:00:02] Prof. Barjoyai: So saya saya banding dengan Langkawi, Langkawi jauh lebih banyak banyak macam-macam ada. Tapi mengapa tak mengapa mereka tidak datang ke Langkawi? Kepada saya, ini analisa saya ialah kerana mereka tak suka penjual-penjual di Langkawi tu dan pekerja-pekerja hotel di Langkawi. Mereka tu tidak hormat kepada pelancong.
+[59:59] Prof. Barjoyai: Makan pun tak sedap. So saya saya banding dengan Langkawi, Langkawi jauh lebih banyak banyak macam-macam ada. Tapi mengapa tak mengapa mereka tidak datang ke Langkawi? Kepada saya, ini analisa saya ialah kerana mereka tak suka penjual-penjual di Langkawi tu dan pekerja-pekerja hotel di Langkawi. Mereka tu tidak hormat kepada pelancong.
 
 [1:00:26] Nazri: Agak sombonglah?
 
@@ -372,9 +370,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:36:23] Nazri: Okey guys, terima kasih banyak-banyak. Terima kasih YB dan juga terima kasih Profesor kerana sudi hadir.
 
-[1:36:28] Rafizi: Tapi nanti dia orang kata tak bakar tu. Cukup bakar ke?
-
-[1:36:34] Rafizi: No, I think you know it's like saya harap over the timelah kan, rakyat kita yang mendengarlah, berapa banyak yang mendengar, understands sebenarnya kita kat sini bukan nak bergaduh.
+[1:36:28] Rafizi: Tapi nanti dia orang kata tak bakar tu. Cukup bakar ke? No, I think you know it's like saya harap over the timelah kan, rakyat kita yang mendengarlah, berapa banyak yang mendengar, understands sebenarnya kita kat sini bukan nak bergaduh.
 
 [1:36:48] Nazri: Betul, kita nak berbincang secara ilmiah.
 

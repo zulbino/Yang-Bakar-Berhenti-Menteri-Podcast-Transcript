@@ -76,9 +76,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Haa, jadi ia bukan privasi. Cuma agak jelas... kecuali tunjuk hutang aku, haa itu private lah. Itu pun aku dah tunjuk hutang aku semua dulu masa isytihar aset.
 
-**Haziq:** Ya, boleh tengok kan, so tak ada benda private lah. Yang diorang jaja banyak, RM20 juta pun tahu. Okay, jadi YB bukan setakat kongsi slip gaji ahli parlimen, tapi sebagai slip gaji menteri atau ketua pentadbiran. Jadi kita tengok...
-
-**Haziq:** Okay, zum, apa ni?
+**Haziq:** Ya, boleh tengok kan, so tak ada benda private lah. Yang diorang jaja banyak, RM20 juta pun tahu. Okay, jadi YB bukan setakat kongsi slip gaji ahli parlimen, tapi sebagai slip gaji menteri atau ketua pentadbiran. Jadi kita tengok... Okay, zum, apa ni?
 
 **Rafizi:** Tengoklah lama-lama, ini kali pertama korang boleh tengok slip gaji menteri.
 

@@ -50,9 +50,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Haziq:** Assalamualaikum dan selamat datang sekali lagi podcast Yang Berhenti Menteri Dah, episod ke-27. Macam biasa bersama saudara Rafizi Ramli. Obviously kenapa ada dua kali saudara-saudara, gagap. Episode ke-27 pun masih lagi gagap. Maaf YB. Tapi YB itu tak penting, sebab yang lebih penting adalah minggu ini, saya rasa isu yang terbesar adalah berkaitan dengan rombakan kabinet.
-
-**Haziq:** Saya tukar topik.
+**Haziq:** Assalamualaikum dan selamat datang sekali lagi podcast Yang Berhenti Menteri Dah, episod ke-27. Macam biasa bersama saudara Rafizi Ramli. Obviously kenapa ada dua kali saudara-saudara, gagap. Episode ke-27 pun masih lagi gagap. Maaf YB. Tapi YB itu tak penting, sebab yang lebih penting adalah minggu ini, saya rasa isu yang terbesar adalah berkaitan dengan rombakan kabinet. Saya tukar topik.
 
 **Rafizi:** Pandai kau ngelak kan.
 
@@ -62,9 +60,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Tahniah, beria YB.
 
-**Farhan (Pa'an):** Eh, sekejap. You.
-
-**Farhan (Pa'an):** Okay, jadi bualan lah masa dia announce dia buka Lembayung pun, ia...
+**Farhan (Pa'an):** Eh, sekejap. You. Okay, jadi bualan lah masa dia announce dia buka Lembayung pun, ia...
 
 **Rafizi:** adalah tempat...
 
@@ -130,9 +126,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** 10,000 dah.
 
-**Haziq:** Hmm, okay baik. Okay, yang ketiga, influencer dihalang rasmi majlis pendidikan versus populariti.
-
-**Speaker ?:** Hehe.
+**Haziq:** Hmm, okay baik. Okay, yang ketiga, influencer dihalang rasmi majlis pendidikan versus populariti. Hehe.
 
 **Rafizi:** So yang mana kita nak kata dia beria ni? Dia beria terangkan ke? Dia beria pergi rasmikan ke?
 
@@ -170,9 +164,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** That's not a good excuse untuk tak masukkan dia lah kan, tapi tak apa lah. Gambar tak berapa jelas lah. So dia seorang yang tertinggal. Ada lagi kan? Ahli parlimen Tawau tak ada.
 
-**Haziq:** Tawau, Lo Su Fui.
-
-**Haziq:** Haa. Okay YB, vaksin atau Panadol. Yelah, kita tahu rombakan kabinet ni dibuat selepas — aku gerun tengok muka Sim lah, kenapa dia senyum happy sangat tu? Mungkin dia pernah masuk segmen Beria berkali-kali. Ya ke? Saya rasa itu menjawab soalan. Make Malaysia Great Again — dan kemudian mendapat...
+**Haziq:** Tawau, Lo Su Fui. Haa. Okay YB, vaksin atau Panadol. Yelah, kita tahu rombakan kabinet ni dibuat selepas — aku gerun tengok muka Sim lah, kenapa dia senyum happy sangat tu? Mungkin dia pernah masuk segmen Beria berkali-kali. Ya ke? Saya rasa itu menjawab soalan. Make Malaysia Great Again — dan kemudian mendapat...
 
 **Rafizi:** Oh, Make Malaysia Great Again.
 
@@ -186,9 +178,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Oh, Zahid Hamidi pun tak ada?
 
-**Farhan (Pa'an):** Patut lagi.
-
-**Farhan (Pa'an):** Dah crowded sangat.
+**Farhan (Pa'an):** Patut lagi. Dah crowded sangat.
 
 **Rafizi:** CM pun tak ada.
 
@@ -226,11 +216,7 @@ Dan satu lagi yang akan ada kesan yang panjang ialah soal prestasi Kementerian P
 
 **Haziq:** Insignificant?
 
-**Farhan (Pa'an):** Insignificant mungkin terlalu banyak perkataan.
-
-**Farhan (Pa'an):** Tapi too small of a player, ataupun...
-
-**Farhan (Pa'an):** Saya tak rasa...
+**Farhan (Pa'an):** Insignificant mungkin terlalu banyak perkataan. Tapi too small of a player, ataupun... Saya tak rasa...
 
 **Rafizi:** MIC is the biggest loser. Tu ada bekas Bendahari MIC, dia ada wakil dalam kabinet naturalisasi oleh PKR, dia ada wakil daripada MIC. Tak, saya rasa dari isu mengenai MCA dengan MIC ni, saya dah ulas minggu lepas bahawa ugutan ataupun bising-bising itu lebih kepada soal positioning dan bargaining power MCA-MIC di dalam kerajaan melalui BN. Satu ialah, window yang ada ini ialah untuk merombak semula menteri, ini samada mereka ada pendapat tempat ataupun tidak. Hmm. Tapi tak mudah jugalah. Pertama, contohnya dari segi perkiraan berapa mewakili parti mana, dia mengikut gabungan. Jadi BN kan, gabungan BN untuk memberi satu jawatan menteri kepada sama ada MCA ataupun MIC, maka BN kena bagi kursi itu kepada mereka kerana perjanjian kerajaan perpaduan — yang itu saya tulis tau, memang dah secara jelas menunjukkan dia mesti berkadar langsung dengan jumlah kerusi. Malah sebenarnya UMNO dapat lebih sekarang. Sebab kalau ikut perkadaran itu, BN sepatutnya dapat 5 sahaja. Tapi sebab Tengku Zafrul dahulu tidak dikatakan mewakili UMNO tetapi mewakili... dalam perbincangan itu kata bukan mewakili UMNO — masa awal-awal kita tubuh lah, dia kira ini bukan kuota UMNO ini, ini kuota Tengku Zafrul, sebab Tengku Zafrul dot-dot-dot lah. Jadi UMNO pula kata, "oh, tapi sebab dia ahli UMNO, maka bila dia tak ada nanti kuota itu mesti jadi kuota UMNO." Tapi sekarang ni, UMNO kalau ikut berkadar langsung, UMNO dapat lebih lah, satu kan. Jadi sama ada UMNO nak bagi satu kursi dia kepada MCA, ataupun satu kursi jemaah menteri itu kepada MIC — takkan bagilah. Jadi kalau UMNO nak tekan pula PH bagi kursi kamu, lagilah tak bagi. Jadi memang dalam keadaan sekarang kan, window ini memang dah terlepas lah kepada MCA, MIC.
 
@@ -296,9 +282,7 @@ Jadi, hmm, yalah, saya rasa is premature untuk kita nak judge prestasi. Yang kit
 
 **Rafizi:** So vaksin ke Panadol ni? Masa yang menentukan. Only time can tell.
 
-**Farhan (Pa'an):** Tapi cukup ke masa untuk—
-
-**Farhan (Pa'an):** Vaksin atau Panadol cukup kot, tapi vaksin... Panadol memang definitely—
+**Farhan (Pa'an):** Tapi cukup ke masa untuk— Vaksin atau Panadol cukup kot, tapi vaksin... Panadol memang definitely—
 
 **Rafizi:** Panadol buat masa sekarang kan. Tapi vaksin tu, kalaupun vaksin yang berkesan, oleh kerana dia tidak dicuba dalam medical trial yang lama, dia mungkin ada side effect yang besar. Baik, baik, baik.
 
@@ -358,15 +342,7 @@ Jadi yang itulah yang nasib baiknya ialah PKR/PH bergolak. Sebab kalau aman, PKR
 
 **Rafizi:** Daripada di luar kan, kerana ini soal existential crisis. Ini soal pertempuran at existential level kepada kumpulan Dato' Seri Hamzah melawan kumpulan Dato' Seri Azmin yang bergantung kepada Tan Sri Muhyiddin.
 
-**Farhan (Pa'an):** Since we're on the topic of pembangkang kan — di mata orang ramai, perhaps parti yang paling stable at the moment masih PAS. Sebab di... no dirty laundry ah... dekat public dikatakan tak ada, tak ada pergaduhan dalam, tak ada kontroversi sangat lah. Adakah ini satu signal yang teruk yang di-allow by PH?
-
-**Farhan (Pa'an):** Because PH pun bergolak, batu-batu. Signal macam mana? Tanyalah...
-
-**Farhan (Pa'an):** ...dalam bahasa Melayu.
-
-**Farhan (Pa'an):** Setengah fikir macam mana nak tanya soalan — translate dalam bahasa Melayu, tanya cik GPT.
-
-**Farhan (Pa'an):** Kira orang ramai akan pandang PAS ni sebagai parti yang paling stable lah.
+**Farhan (Pa'an):** Since we're on the topic of pembangkang kan — di mata orang ramai, perhaps parti yang paling stable at the moment masih PAS. Sebab di... no dirty laundry ah... dekat public dikatakan tak ada, tak ada pergaduhan dalam, tak ada kontroversi sangat lah. Adakah ini satu signal yang teruk yang di-allow by PH? Because PH pun bergolak, batu-batu. Signal macam mana? Tanyalah... ...dalam bahasa Melayu. Setengah fikir macam mana nak tanya soalan — translate dalam bahasa Melayu, tanya cik GPT. Kira orang ramai akan pandang PAS ni sebagai parti yang paling stable lah.
 
 **Rafizi:** Ya lah, itu given lah. Cuma sama ada — sama ada sesebuah parti itu boleh menang membentuk kerajaan dengan bergantung semata-mata kepada kebencian pengundi kepada parti-parti lain, tanpa menawarkan sesuatu yang wow. Iaitu, saya tak yakin lah sebenarnya. Jadi itu kedudukan PAS kan. Sebab tu PAS macam diam, dia tak buat apa kan.
 
@@ -390,9 +366,7 @@ Yang totok parti itu, memang dia akan ikut lah, ikut mana-mana kan. Tapi pengund
 
 **Rafizi:** Ya, di China dan di India lah.
 
-**Haziq:** Tapi mungkin kami nak tahu sikit lah — actually, what will happen next? Golongan yang tak keluar mengundi semua ni, kesan dia tu apa kepada PRU16, dan mungkin ada unintended consequences?
-
-**Haziq:** Ok, wah, mentang-mentang...
+**Haziq:** Tapi mungkin kami nak tahu sikit lah — actually, what will happen next? Golongan yang tak keluar mengundi semua ni, kesan dia tu apa kepada PRU16, dan mungkin ada unintended consequences? Ok, wah, mentang-mentang...
 
 **Rafizi:** Even at the Ministry of Economy now, they're already using the term unintended consequences, ok. Erm... erm... I just got the latest data lah. Dia pun lepas. Fine. There are signs of a few main patterns. Kenapa kita perlukan data dan juga... um... kenapa analisa-analisa ini penting ialah kerana pandangan saya, ahli politik dan parti politik, pemimpin ni kita tak boleh reaktif. Kita tak boleh reactionary tau. Kita mesti boleh membaca lebih awal dan kemudian menyesuaikan strategi dan juga komunikasi kita berdasarkan pandangan dan juga perasaan orang ramai. Itu yang saya sebut sebagai resonance. Berkali-kali resonance kan. Contohnya, kalau kita cakap benda yang sama, pumpang, pumpang, pumpang, kita rasa benda itu betul-betul kita yakin yang terbaik dan kita ulang yang sama. Tapi kalau dia tak ada resonance, dia membuang masa. Contohnya lah, kita pernah sebut sebelum ini kan, itu juga cabaran Dato' Seri Anwar sekarang — dia jadi Perdana Menteri, dia masih lagi bercakap seolah-olah dia ketua pembangkang. Dia masih lagi bercakap soal saya kena pukul, kena penjara, ISA sana. Rakyat akan cakap, kami faham, sebab itulah kami buat kamu jadi Perdana Menteri. Now you are into a new phase kan? Dan itu yang berlaku apabila kita tidak boleh membaca resonance rakyat. Soal ISA semua itu, bila dah jadi kerajaan, dah tak ada resonance dengan rakyat tau.
 
@@ -572,9 +546,7 @@ Jadi kalau JKOM nak belajar, bolehlah, tapi bayarlah, tak payah lah pergi beli v
 
 **Rafizi:** Dia orang minta supaya minggu depan tak ada. Tak boleh, tiap minggu kena ada. So minggu depan walaupun cuti — cuti satu hari selepas Christmas, eh — ya, kita tetap bersiaran. Boxing day. Boxing day.
 
-**Farhan (Pa'an):** Kau boxing apa? Boxing day.
-
-**Farhan (Pa'an):** Yelah.
+**Farhan (Pa'an):** Kau boxing apa? Boxing day. Yelah.
 
 **Rafizi:** I know. But what do you box, you don't celebrate Christmas. Tak, tak, kita box yang beria.
 

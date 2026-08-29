@@ -359,9 +359,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [52:32] Nik Nazmi: BA. PKR dengan PAS, I think apa tu Hasan Ali selit benda tu dan kita pun sign off.
 
-[52:42] Rafizi: Oh, itu sebab tu kena ada.
-
-[52:45] Rafizi: So I think 2008 tu banyaknya kerana perpecahan dalaman apa nama ni UMNO. But then again, setiap pilihan raya is not necessarily strength pemenang. Is also is dynamic competition, weakness of your opponent.
+[52:42] Rafizi: Oh, itu sebab tu kena ada. So I think 2008 tu banyaknya kerana perpecahan dalaman apa nama ni UMNO. But then again, setiap pilihan raya is not necessarily strength pemenang. Is also is dynamic competition, weakness of your opponent.
 
 [53:05] Nik Nazmi: Dia punya defense lemah.
 

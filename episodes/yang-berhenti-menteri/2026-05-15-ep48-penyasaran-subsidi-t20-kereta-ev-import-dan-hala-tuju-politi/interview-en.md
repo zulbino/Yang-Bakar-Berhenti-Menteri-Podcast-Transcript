@@ -92,9 +92,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** You do look tired, YB.
 
-**Rafizi:** Looking tired, tired, tired. Last two, three weeks have really been tiring. On top of that I took an exam. You all forgot I took an exam for a week. Then yesterday I had to take an additional paper too. Then I have to arrange all this for Sunday. Okay, never mind. Hope YB can laugh with the entertainers we've invited.
-
-**Rafizi:** First entertainer?
+**Rafizi:** Looking tired, tired, tired. Last two, three weeks have really been tiring. On top of that I took an exam. You all forgot I took an exam for a week. Then yesterday I had to take an additional paper too. Then I have to arrange all this for Sunday. Okay, never mind. Hope YB can laugh with the entertainers we've invited. First entertainer?
 
 **Haziq:** The first entertainer is of course the main character.
 
@@ -210,9 +208,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** Not AI.
 
-**Rafizi:** Ya Allahuakbar. She's holding a saw, and what's that? A knife?
-
-**Rafizi:** A saw and a knife. A chopping knife. Oh, this is about fighting for Batu, the Batu seat. Fighting over it, and in the end everyone's left biting their fingers because Anwar Ibrahim went to Batu. Working hard fighting over the seat, right. But I don't know, I think they're really sitting in their own bubble. Because as I mentioned in previous podcasts, not just PKR, even Datuk Seri Anwar himself is now being squeezed from two sides — from Malay voters and non-Malay voters. So if we take that situation, it means the seats that previously looked strong for PKR, including Batu — because Batu is actually majority non-Malay, about 60-40 I think — that's based squarely on the old premise that non-Malay voters are a voting bloc that will stay loyal to PKR or PH. That premise no longer holds true.
+**Rafizi:** Ya Allahuakbar. She's holding a saw, and what's that? A knife? A saw and a knife. A chopping knife. Oh, this is about fighting for Batu, the Batu seat. Fighting over it, and in the end everyone's left biting their fingers because Anwar Ibrahim went to Batu. Working hard fighting over the seat, right. But I don't know, I think they're really sitting in their own bubble. Because as I mentioned in previous podcasts, not just PKR, even Datuk Seri Anwar himself is now being squeezed from two sides — from Malay voters and non-Malay voters. So if we take that situation, it means the seats that previously looked strong for PKR, including Batu — because Batu is actually majority non-Malay, about 60-40 I think — that's based squarely on the old premise that non-Malay voters are a voting bloc that will stay loyal to PKR or PH. That premise no longer holds true.
 
 So for me, what's even funnier is that when PKR leaders openly fight over seats like this and cause unease at the grassroots level, all of this is being watched by the people. So the people can see that the job of the party's senior leadership — the Vice Presidents and the Secretary-General — should be to increase public support for PKR, not to increase their own chances of becoming elected representatives. That's what I meant when I said PKR increasingly looks different from the PKR I used to know. Because most of us back then, we were all kamikazes.
 
@@ -738,9 +734,7 @@ The issue is the haphazard manner in which this was done. Because it was sudden,
 
 The answer at the time from MITI, I recall, was to give room and time for Perodua and Proton to complete their EVs in that category, so that the public could use those instead. In my heart I said, okay fair enough, but don't take too long, it's a pity for the people. Right? So finally when did Proton launch theirs? 2024?
 
-**Farhan (Pa'an):** e.MAS? e.MAS 7.
-
-**Farhan (Pa'an):** Yes, end of 2024. And then Perodua's?
+**Farhan (Pa'an):** e.MAS? e.MAS 7. Yes, end of 2024. And then Perodua's?
 
 **Haziq:** Last year.
 
@@ -818,13 +812,9 @@ So I think MITI is the best ministry to manage EV car adoption and so on. But it
 
 **Rafizi:** That's only Ong Kian Ming who wants to join KJ. How could he join KJ, he's already joined UMNO. He's now best BFFs with Datuk Seri Zahid.
 
-**Haziq:** Can't be a member of KJ's cabinet.
+**Haziq:** Can't be a member of KJ's cabinet. Okay, but I think what's more important is for us to reflect back, I think, YB. Because if I ask too much in detail, then Sunday won't be exciting anymore, right? I hope the viewers understand.
 
-**Haziq:** Okay, but I think what's more important is for us to reflect back, I think, YB. Because if I ask too much in detail, then Sunday won't be exciting anymore, right? I hope the viewers understand.
-
-**Rafizi:** Keep the suspense for Sunday. Otherwise viewers will curse me out, "can't you dig out the secret from YB."
-
-**Rafizi:** You choose, Haziq — which is easier for you: the viewers cursing you, or me cursing you?
+**Rafizi:** Keep the suspense for Sunday. Otherwise viewers will curse me out, "can't you dig out the secret from YB." You choose, Haziq — which is easier for you: the viewers cursing you, or me cursing you?
 
 **Farhan (Pa'an):** Viewers cursing me. And I think we're near the one-year mark since you were left behind and that whole election, I think we could ask for a bit of reflection from YB — the past year.
 

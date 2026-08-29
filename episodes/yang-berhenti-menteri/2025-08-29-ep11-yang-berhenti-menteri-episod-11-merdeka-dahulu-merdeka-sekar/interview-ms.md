@@ -394,9 +394,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Nik Nazmi:** BA. PKR dengan PAS, saya rasa apa itu Hasan Ali sisipkan benda itu, dan kita pun tandatangan.
 
-**Rafizi:** Oh, itu sebab itu kena ada.
-
-**Rafizi:** Jadi saya rasa 2008 itu banyaknya kerana perpecahan dalaman, apa namanya, UMNO. Tetapi walau bagaimanapun, setiap pilihan raya tidak semestinya kekuatan pemenang. Ia juga dinamik — persaingan, kelemahan lawan anda.
+**Rafizi:** Oh, itu sebab itu kena ada. Jadi saya rasa 2008 itu banyaknya kerana perpecahan dalaman, apa namanya, UMNO. Tetapi walau bagaimanapun, setiap pilihan raya tidak semestinya kekuatan pemenang. Ia juga dinamik — persaingan, kelemahan lawan anda.
 
 **Nik Nazmi:** Pertahanan dia lemah.
 

@@ -577,9 +577,7 @@ Sebab itu, pada peringkat saya lah, yang paling penting ialah to provide that op
 
 **Iqbal:** Jadi kita masih menunggu lah tawaran alternatif.
 
-**Rafizi:** Tunggu, tunggu, tunggu...
-
-**Rafizi:** Tunggu. Cuma untuk PH, sebab Dato' Seri Anwar punya strategi memang dia yakinlah semua yang lain betul sayang kepada dia dan akan masuk pilihan raya bersama-sama. Tapi dalam keadaan ada rumah bangsa macam ini dan BN pun dah pacak bendera dah — kami nak bertanding 115 — macam mana apa yang PH tinggal dalam keadaan sekarang ni? Saya rasa Dato' Seri Anwar sebenarnya memang makin tersepit. Makin dia sepi. And legitimacy politik dia itu makin kurang. Kerana politik is a function of clout, tau. Is a function of influence.
+**Rafizi:** Tunggu, tunggu, tunggu... Tunggu. Cuma untuk PH, sebab Dato' Seri Anwar punya strategi memang dia yakinlah semua yang lain betul sayang kepada dia dan akan masuk pilihan raya bersama-sama. Tapi dalam keadaan ada rumah bangsa macam ini dan BN pun dah pacak bendera dah — kami nak bertanding 115 — macam mana apa yang PH tinggal dalam keadaan sekarang ni? Saya rasa Dato' Seri Anwar sebenarnya memang makin tersepit. Makin dia sepi. And legitimacy politik dia itu makin kurang. Kerana politik is a function of clout, tau. Is a function of influence.
 
 Sebab itulah kawan-kawan dalam UMNO pun, masa pemilihan PKR berlaku tahun lepas kan, comment belakang-belakang dia — dia tak cakap terus, tapi maksudnya, "Date Anwar Ibrahim, you remove your number two who is your best defense against other people. At least you ada Rafizi. Dia ni cantar seorang, tau, kan, dia memang akan lawan balik. Jadi orang fikir dua kali nak langgar Anwar Ibrahim." Bila berlaku pemilihan hari tu kan, jadi dalam parti terburai, pimpinan GPS, UMNO, even DAP, apatah lagi rakyat kan, dia akan kata, "Anwar ni, you nak buat gagasan besar, macam mana you dalam parti pun tak boleh selesai — satu tahun pun sampai sekarang tak selesai-selesai kan, timbalan presidennya tak ke mana, semua pimpinan" — and then PKR ni nampak gaya memang ada sebahagiannya buat haluan baru semua kan. Jadi posisi anda sudah sangat lemah kerana pilihan parti.
 

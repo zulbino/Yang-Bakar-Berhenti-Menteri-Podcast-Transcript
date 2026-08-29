@@ -191,9 +191,7 @@ And even if I were paid to be his strategic advisor — well, who is his strateg
 
 **Farhan (Pa'an):** Because people remember the debate between Syahir and YB—
 
-**Rafizi:** —that's all he remembers.
-
-**Rafizi:** I was like, back then—
+**Rafizi:** —that's all he remembers. I was like, back then—
 
 **Farhan (Pa'an):** So it's a grudge?
 
@@ -505,9 +503,7 @@ That's why I think it can only change through pressure. And that pressure must c
 
 **Haziq:** Amen, right. And maybe this is why during the PH campaign, when PH was the victim before, people saw, "oh, poor them, getting arrested, getting intimidated," people felt sympathy, and people gave support. Conversely, the government, which supposedly wants to control public trauma, uses its power, but the backlash falls on it instead, appearing cruel and oppressive. This is a playbook PH itself profited from, and experienced firsthand. But why is it now being repeated, not at 360 degrees, but 180 degrees?
 
-**Rafizi:** 180 degrees. Ha, like that.
-
-**Rafizi:** Yeah, it's hard for us to understand their thinking. Actually, if we're being offensive that's correct, I'm always offensive myself. I've never been defensive in anything I do. That's what people call aggressive, that's actually it. We really do need to be offensive. Playing football, if you sit in front of your own goalpost, when will you ever win — you have to attack. It's just that being offensive is different when we're the opposition versus when we're the government.
+**Rafizi:** 180 degrees. Ha, like that. Yeah, it's hard for us to understand their thinking. Actually, if we're being offensive that's correct, I'm always offensive myself. I've never been defensive in anything I do. That's what people call aggressive, that's actually it. We really do need to be offensive. Playing football, if you sit in front of your own goalpost, when will you ever win — you have to attack. It's just that being offensive is different when we're the opposition versus when we're the government.
 
 As opposition, we need to be offensive in exposing the government's weaknesses. Especially if there's misconduct, corruption, integrity issues. On that, we need to be offensive because we are the people's last line of defense. If we don't speak up, government departments, the MACC, the police, actually answer to their minister. They won't go after them. As long as we don't have independent institutions, then hoping the MACC will go arrest a minister or whatever, I don't think that'll happen. So as the people's last line of defense, if we're the opposition, when there are integrity and corruption cases, we should indeed oppose. We need to be aggressive, right? We also need to be offensive on policy matters, to show and convince the people how we would do things differently. If we feel, like with the energy issue earlier, that there are problems, and business as usual won't save the country from being a Titanic hitting an iceberg — then you need to lay it out, you need to convince people. That's the opposition's way of being offensive.
 

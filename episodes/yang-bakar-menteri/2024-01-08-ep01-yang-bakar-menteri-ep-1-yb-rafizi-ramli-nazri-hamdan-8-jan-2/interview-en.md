@@ -115,9 +115,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Najib:** These kinds of things, we outside don't really understand, right?
 
-**Nazri:** Yes, we don't really understand. So at least now we see the picture of how it looks. That 50% is a lot to us.
-
-**Nazri:** For me, I'm shocked. It seems too unexpected that they raised it to 90 billion when only 50% is channeled to—
+**Nazri:** Yes, we don't really understand. So at least now we see the picture of how it looks. That 50% is a lot to us. For me, I'm shocked. It seems too unexpected that they raised it to 90 billion when only 50% is channeled to—
 
 **Rafizi:** Well, I think we've reached — for 2024 we've succeeded, yes, we keep pushing so that we handle the liability problem better, so that year over year the amount of what's called base DE, that truly goes to projects, increases more than the non-base one. So for 2024 we've gone up a bit, 52-48. So more than 52% of that is truly base DE. The rest we have to manage, which we inherited from before.
 

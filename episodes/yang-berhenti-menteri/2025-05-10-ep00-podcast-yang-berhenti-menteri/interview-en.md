@@ -56,9 +56,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Should be ok, tested it earlier and it was ok.
 
-**Haziq:** Yes.
-
-**Haziq:** Alright, Assalamualaikum and greetings, ladies and gentlemen. Before we start today's session, I'd like to ask for your cooperation to fill up the front first, so we can leave room for those who will arrive a little late, for the smooth running of tonight's podcast session. Yes, ladies and gentlemen, and...
+**Haziq:** Yes. Alright, Assalamualaikum and greetings, ladies and gentlemen. Before we start today's session, I'd like to ask for your cooperation to fill up the front first, so we can leave room for those who will arrive a little late, for the smooth running of tonight's podcast session. Yes, ladies and gentlemen, and...
 
 **Rafizi:** That fan up there is really noisy.
 
@@ -70,37 +68,25 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Ok, ok.
 
-**Haziq:** Please turn off the fan up there. Ok, alright. Understood.
-
-**Haziq:** Welcome to those who have just arrived. Ok, I ask for your cooperation to keep taking your seats and fill up the empty spaces in front. Fill up the front rows, so we can leave room for those arriving late to fill up the back. So...
+**Haziq:** Please turn off the fan up there. Ok, alright. Understood. Welcome to those who have just arrived. Ok, I ask for your cooperation to keep taking your seats and fill up the empty spaces in front. Fill up the front rows, so we can leave room for those arriving late to fill up the back. So...
 
 **Rafizi:** This hall is about to collapse already. That fan is making noise, I think in a second it's going to die and fall on top of me.
 
-**Haziq:** So let's turn it off, YB. Afraid the fan might fall.
-
-**Haziq:** Ok, welcome to everyone who has just arrived. Please fill up the front. So we'll begin shortly, right at 9:00.
+**Haziq:** So let's turn it off, YB. Afraid the fan might fall. Ok, welcome to everyone who has just arrived. Please fill up the front. So we'll begin shortly, right at 9:00.
 
 **Rafizi:** That elected representative is afraid to sit in front — look at Weiket, he went to sit right at the back.
 
 **Haziq:** Saudara Weiket, please come to the front.
 
-**Rafizi:** Never mind, he's already there, no need.
+**Rafizi:** Never mind, he's already there, no need. Swami doesn't want to sit, Swami? Swami doesn't want to sit? Swami, there are no more chairs, that's why he doesn't want to sit.
 
-**Rafizi:** Swami doesn't want to sit, Swami? Swami doesn't want to sit?
-
-**Rafizi:** Swami, there are no more chairs, that's why he doesn't want to sit.
-
-**Haziq:** For your information, ladies and gentlemen, we will be running a special edition podcast session — "Yang Berhormat Menteri" — "Yang Berhenti Menteri" this time — with a few questions, and we'll open the floor for you, especially those present physically in this beautiful hall, to ask a few questions directly and without filter to YB Rafizi today. So you can start thinking of the burning questions you want to ask, although we can't open it up too much due to time constraints, but there will be room to ask later. We'll choose from whoever is in the hall today. Can we start? Alright.
-
-**Haziq:** Alright, Bismillahirahmanirrahim. Assalamualaikum warahmatullahi wabarakatuh and greetings to everyone. Good evening, especially to YB Rafizi. How are you, YB? Are your cats doing well?
+**Haziq:** For your information, ladies and gentlemen, we will be running a special edition podcast session — "Yang Berhormat Menteri" — "Yang Berhenti Menteri" this time — with a few questions, and we'll open the floor for you, especially those present physically in this beautiful hall, to ask a few questions directly and without filter to YB Rafizi today. So you can start thinking of the burning questions you want to ask, although we can't open it up too much due to time constraints, but there will be room to ask later. We'll choose from whoever is in the hall today. Can we start? Alright. Alright, Bismillahirahmanirrahim. Assalamualaikum warahmatullahi wabarakatuh and greetings to everyone. Good evening, especially to YB Rafizi. How are you, YB? Are your cats doing well?
 
 **Rafizi:** I don't know, haven't seen the cats in a while.
 
 **Haziq:** That's fine YB, your cats are healthy, that counts as ok. So maybe we can continue our session tonight. We don't have much time, YB — it's just that so many things have happened in the past week or two, it feels like things are about to collapse, eh. So maybe others are wondering what's actually going on, YB. If I may start directly — if we look, YB, in the past few weeks, so many things have happened that made our news. We started with several decisions at the Keadilan branches, and then it was reported by newspapers that suddenly YB went on leave. And some also said YB resigned. So does all this correlate? What actually happened? Everyone's really wondering, YB.
 
-**Rafizi:** Assalamualaikum warahmatullahi wabarakatuh. Aren't you all afraid, coming here?
-
-**Rafizi:** Yes, actually I didn't pay too much attention to the election even though it started in early April, because the focus was on government work. We're going through many challenges, so we had to focus on that. And from the start, the picture given was that we wanted to lower the temperature of this round of elections at the grassroots level because we're in government. So we can't show that the competition spills over to the public level; instead, we keep it within the party. But when the results started coming out, I thought perhaps branches with disputes should best be referred to the President, Datuk Seri Anwar. But since the President is the Prime Minister and has a lot of other work, in the end a lot of it came to me from all groups actually — not to say from any particular group only. And when I began to look into it, there were issues that came up, so I made the decision that if I wanted to balance between working until 7, 8pm every day, 9pm, and then trying to meet the branches at night too — that wasn't going to work either. So we needed full, dedicated time for me to sit down and meet them one by one. And that's the decision I made — I informed Datuk Seri Anwar to give me time to take leave from the office first. Actually there was no issue with that at all; it's normal for us when it comes to personal matters. And actually, if we're a reformist party, personal matters, family matters, party matters are actually not government matters. So we can't hold meetings, meet party people within the ministry and so on. That's why I decided to take leave so I could sit down and settle things calmly. Besides, this isn't something that's never been done before. I recall in the era of Tunku Abdul Rahman, when he wanted to campaign for the general election, he took three months' leave from government, because he didn't want to mix government matters with party matters. But maybe I was a bit naive — suddenly I didn't realize, I thought it was quite straightforward. Then the problem was, also a problem from our own side, because whoever gave the information to unofficial or unnamed sources — there was a PKR minister too. I don't know which minister, he was the one who went and told the media, so suddenly the issue became an issue. Whereas actually the matter was just normal — if everyone who took leave went and told the media, we'd be finished, right. So I think by now the public has started to understand, there's not really an issue with it. And my advice to other ministers as well — if you have personal matters, party matters that require more time, don't mix up government duties and working hours with party management duties and time.
+**Rafizi:** Assalamualaikum warahmatullahi wabarakatuh. Aren't you all afraid, coming here? Yes, actually I didn't pay too much attention to the election even though it started in early April, because the focus was on government work. We're going through many challenges, so we had to focus on that. And from the start, the picture given was that we wanted to lower the temperature of this round of elections at the grassroots level because we're in government. So we can't show that the competition spills over to the public level; instead, we keep it within the party. But when the results started coming out, I thought perhaps branches with disputes should best be referred to the President, Datuk Seri Anwar. But since the President is the Prime Minister and has a lot of other work, in the end a lot of it came to me from all groups actually — not to say from any particular group only. And when I began to look into it, there were issues that came up, so I made the decision that if I wanted to balance between working until 7, 8pm every day, 9pm, and then trying to meet the branches at night too — that wasn't going to work either. So we needed full, dedicated time for me to sit down and meet them one by one. And that's the decision I made — I informed Datuk Seri Anwar to give me time to take leave from the office first. Actually there was no issue with that at all; it's normal for us when it comes to personal matters. And actually, if we're a reformist party, personal matters, family matters, party matters are actually not government matters. So we can't hold meetings, meet party people within the ministry and so on. That's why I decided to take leave so I could sit down and settle things calmly. Besides, this isn't something that's never been done before. I recall in the era of Tunku Abdul Rahman, when he wanted to campaign for the general election, he took three months' leave from government, because he didn't want to mix government matters with party matters. But maybe I was a bit naive — suddenly I didn't realize, I thought it was quite straightforward. Then the problem was, also a problem from our own side, because whoever gave the information to unofficial or unnamed sources — there was a PKR minister too. I don't know which minister, he was the one who went and told the media, so suddenly the issue became an issue. Whereas actually the matter was just normal — if everyone who took leave went and told the media, we'd be finished, right. So I think by now the public has started to understand, there's not really an issue with it. And my advice to other ministers as well — if you have personal matters, party matters that require more time, don't mix up government duties and working hours with party management duties and time.
 
 **Haziq:** Yes, it's just that the opposition beat it half to death, YB, not even in parliament and everything.
 

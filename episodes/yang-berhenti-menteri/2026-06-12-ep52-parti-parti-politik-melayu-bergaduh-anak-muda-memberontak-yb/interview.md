@@ -66,9 +66,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Syuk:** Dijemput atas kapasiti anak muda, so jawapannya anak muda lah kot.
 
-**Zaim Zulkifli:** You better be. Betul-betul.
-
-**Zaim Zulkifli:** Maybe untuk shoot sebab dia dah... maybe saya mahasiswa lah. Kau umur berapa?
+**Zaim Zulkifli:** You better be. Betul-betul. Maybe untuk shoot sebab dia dah... maybe saya mahasiswa lah. Kau umur berapa?
 
 **Syuk:** 27. Dah tua rupanya. Gen Z tua lah, bukan anak muda apa.
 
@@ -86,9 +84,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Ni pun banyak juga.
 
-**Zaim Zulkifli:** Dia palazo lah, macam zaman dulu punya. Palazo maksudnya?
-
-**Zaim Zulkifli:** Palazo tu kan macam kembang sikit bawah dia. Itu bell bottom. Baggy, lepas tu baggy. Tapi tu...
+**Zaim Zulkifli:** Dia palazo lah, macam zaman dulu punya. Palazo maksudnya? Palazo tu kan macam kembang sikit bawah dia. Itu bell bottom. Baggy, lepas tu baggy. Tapi tu...
 
 **Syuk:** fashion dulu memang orang dah pakai macam tu kan.
 
@@ -126,15 +122,9 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Tak ada format dengan dia dulu, ok alright, ni bukan exam eh, ok ok baik baik. Kita tengok yang pertama, kita ada penjual nasi ayam RM26. Ini viral baru-baru ini. Ini kat mana dia jual? RM26? Ini dia jual dari rumah dia lah.
 
-**Syuk:** Yelah, rumah dia kat mana? Saya tak sure rumah dia kat mana, tapi saya perasan TikTok dia open order lah — macam siapa nak, open order, and then dia macam...
+**Syuk:** Yelah, rumah dia kat mana? Saya tak sure rumah dia kat mana, tapi saya perasan TikTok dia open order lah — macam siapa nak, open order, and then dia macam... dia deliver. Tapi orang kenal lah siapa dia.
 
-**Syuk:** dia deliver.
-
-**Syuk:** Tapi orang kenal lah siapa dia.
-
-**Rafizi:** Tak kenal siapa ni eh? Salah ke kalau aku tak kenal? Takpe. Hahaha, takut rasa macam ketinggalan sahabat. Farhan kenal lah selaku bangsa bubble, tapi tak kaitan? What? Hahaha. Bangsa Bubble?
-
-**Rafizi:** Haa. Tapi dia tak — dia tak, kau tak pernah ada kena-mengena dengan Bangsa kan?
+**Rafizi:** Tak kenal siapa ni eh? Salah ke kalau aku tak kenal? Takpe. Hahaha, takut rasa macam ketinggalan sahabat. Farhan kenal lah selaku bangsa bubble, tapi tak kaitan? What? Hahaha. Bangsa Bubble? Haa. Tapi dia tak — dia tak, kau tak pernah ada kena-mengena dengan Bangsa kan?
 
 **Farhan (Pa'an):** You were the one who gave me that.
 
@@ -210,9 +200,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Yang pasal orang hilang tu.
 
-**Rafizi:** Haa, itulah, macam — haa, apa dia orang hilang kan, so yang ni biasalah, to say that sebab ada orang jual nasi ayam RM26 dan semua orang lain akan menaikkan harga jual nasi ayam jadi contohnya RM15, RM20 kan — hmm, tak tentu betul ke tidak lah, sebab it's quite obvious lah orang dia jual kepada segment market dia sendiri. Kalau orang biasa jual, kalau contohnya ada orang jual nasi ayam kat Sungai Besi ni jual RM26, tutup kedai lah 2-3 hari lepas tu kan. Cuma memang perang, aku rasa — selalunya yang beria pun orang kita juga yang beratur. Kadang-kadang kalau tengok dekat foodie tu kan, ada yang makanan viral, yang orang sanggup beratur sepanjang-panjangnya kan, yang tu beria lah, tapi that's our culture
-
-**Rafizi:** untuk try benda,
+**Rafizi:** Haa, itulah, macam — haa, apa dia orang hilang kan, so yang ni biasalah, to say that sebab ada orang jual nasi ayam RM26 dan semua orang lain akan menaikkan harga jual nasi ayam jadi contohnya RM15, RM20 kan — hmm, tak tentu betul ke tidak lah, sebab it's quite obvious lah orang dia jual kepada segment market dia sendiri. Kalau orang biasa jual, kalau contohnya ada orang jual nasi ayam kat Sungai Besi ni jual RM26, tutup kedai lah 2-3 hari lepas tu kan. Cuma memang perang, aku rasa — selalunya yang beria pun orang kita juga yang beratur. Kadang-kadang kalau tengok dekat foodie tu kan, ada yang makanan viral, yang orang sanggup beratur sepanjang-panjangnya kan, yang tu beria lah, tapi that's our culture untuk try benda,
 
 **Syuk:** for
 
@@ -238,9 +226,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Oh ya, ini bagi dia orang lah komen. Satu minggu, satu Farhaj. Ini ikon usahawan muda yang paling terkenal, anak-anak muda kenal. Silakan, aku nak minum air. Zaim, Zaim, sebab dia lah...
 
-**Zaim Zulkifli:** I think Farhaj ni orang kenal lah, tapi pernah jumpa tak? Tak pernah jumpa. Itu pelik je. Tapi kalau — I mean, like bila kita borak-borak dengan kawan apa semua, orang kenal dengan Farhaj, and orang like very interested dengan dia, in a sense that macam mana dia boleh jadi dia yang sekarang.
-
-**Zaim Zulkifli:** So budak-budak kat uni...
+**Zaim Zulkifli:** I think Farhaj ni orang kenal lah, tapi pernah jumpa tak? Tak pernah jumpa. Itu pelik je. Tapi kalau — I mean, like bila kita borak-borak dengan kawan apa semua, orang kenal dengan Farhaj, and orang like very interested dengan dia, in a sense that macam mana dia boleh jadi dia yang sekarang. So budak-budak kat uni...
 
 **Rafizi:** kalau kat UIA tu macam mana? Mereka semua kenal Farhaj?
 
@@ -308,11 +294,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Farhan (Pa'an):** Tetapi saya nampak gaya macam naratif yang dia cuba mengembangkan ni, ada gaya Farhaj ni nak bertanding ke, atau sesuatu — dia perkenalkan tu kepada publik.
 
-**Rafizi:** Itu juga, whitewashing sikit — perjuangan reformasi. Sudah juga, dia kan dah bukan jadi ahli politik, kan? Dato' Seri Anwar? Dia buat comeback lah maybe? Tak lah, tak, itu yang beria, sabat tiga tu, aku dulu, apa ni, itu yang beria — apa ni, orang yang team PR ni, sebab on the one hand Dato' Seri Anwar kata Farhaj tidak terlibat dengan politik, dia ada 100% bisnes, sebaliknya bisnesmen selalunya tak nak dikaitkan dengan politik macam ini.
-
-**Rafizi:** Baik, kita ambil alih je lah PR team tu — berapa nak bayar? I think we can do a better job kot. Tapi prinsipally tak nak?
-
-**Rafizi:** Ha? Well, everything, there is a price for everything.
+**Rafizi:** Itu juga, whitewashing sikit — perjuangan reformasi. Sudah juga, dia kan dah bukan jadi ahli politik, kan? Dato' Seri Anwar? Dia buat comeback lah maybe? Tak lah, tak, itu yang beria, sabat tiga tu, aku dulu, apa ni, itu yang beria — apa ni, orang yang team PR ni, sebab on the one hand Dato' Seri Anwar kata Farhaj tidak terlibat dengan politik, dia ada 100% bisnes, sebaliknya bisnesmen selalunya tak nak dikaitkan dengan politik macam ini. Baik, kita ambil alih je lah PR team tu — berapa nak bayar? I think we can do a better job kot. Tapi prinsipally tak nak? Ha? Well, everything, there is a price for everything.
 
 **Farhan (Pa'an):** Wah, you gurau je kan?
 
@@ -328,9 +310,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Farhan (Pa'an):** Saya rasa anda perlu bertanya kepada orang muda kerana all this is pushed on news — orang muda baca ke news?
 
-**Zaim Zulkifli:** That's the point, itu yang sebenarnya lagi beria lah. Tapi yang lagi beria lah bila NGO tu keluarkan benda macam ni, orang takkan tahu. Tapi NGO tu lumayan.
-
-**Zaim Zulkifli:** Lumayan lah.
+**Zaim Zulkifli:** That's the point, itu yang sebenarnya lagi beria lah. Tapi yang lagi beria lah bila NGO tu keluarkan benda macam ni, orang takkan tahu. Tapi NGO tu lumayan. Lumayan lah.
 
 **Rafizi:** Lumayan lah, kalau tak ada, lah dia buat NGO tu lumayan. Haa. Cuma yang mastermind PR di belakang tu lah, public relation — takkan dia tak tahu yang sebenarnya yang muda-muda ni tak baca semua ni kan?
 
@@ -346,9 +326,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Itu buat SEO je lah, Search Engine Optimization.
 
-**Syuk:** Logik juga. Tapi kalau combine balik dengan argument Pa'an, katakan macam, oh mungkin dia nak bertanding apa semua. So by the time dia bertanding, orang Google, oh dia setia dengan reformasi. So at least ada track record.
-
-**Syuk:** Kat Bukit Bintang, Bukit Bintang...
+**Syuk:** Logik juga. Tapi kalau combine balik dengan argument Pa'an, katakan macam, oh mungkin dia nak bertanding apa semua. So by the time dia bertanding, orang Google, oh dia setia dengan reformasi. So at least ada track record. Kat Bukit Bintang, Bukit Bintang...
 
 **Rafizi:** Bubble Bukit Bintang, Bubble ni. Saya menafikan sekerasnya BBB, 3B Bukit Bintang Bubble. Okay, beria tak Syuk dan Zaim? Aku tak ada baju macam tu kan. Kut-kut satu hari aku datang, buangkan baju macam tu. Tak pernah nampak lah. Tak pernah nampak. Okay, beria. So siapa yang beria? Beria tak Zaim? Beria. NGO tu beria. Tapi kaya, tak apa. Kaya tak apa?
 
@@ -360,9 +338,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Haa, tanya anak muda, tanya anak muda.
 
-**Haziq:** Selaku anak-anak muda, terpaling muda ni, bila tengok sekali tu, memang nampak terdesak ke?
-
-**Haziq:** Tak adalah. Sebab anak muda kan suka melalui kata-kata. Zahid melukakan... apa?
+**Haziq:** Selaku anak-anak muda, terpaling muda ni, bila tengok sekali tu, memang nampak terdesak ke? Tak adalah. Sebab anak muda kan suka melalui kata-kata. Zahid melukakan... apa?
 
 **Zaim Zulkifli:** Sejujurnya tak adalah nampak. Kau kenal ke siapa ni? Kenal, kenal. Oh, rasa baik, nama quite familiar lah. Okey, okey.
 
@@ -380,9 +356,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Sekarang dah ok, ok. Kita teruskan. So...
 
-**Syuk:** Entahlah, first statement barangkali bersama parti pertama ni. Muda buka juga kan dulu?
-
-**Syuk:** Oh, dia...
+**Syuk:** Entahlah, first statement barangkali bersama parti pertama ni. Muda buka juga kan dulu? Oh, dia...
 
 **Rafizi:** Ada juga. Tapi sebenarnya yang inilah kan, sebenarnya I think masa saya Pengarah Pilihan Raya untuk PRU 2022, PRU 15, yang itu kali pertama masa BKR buat. Haa, Muda ikut je lah lepas tu kan. Cuma orang tak ingat lah, yang masa tu memang kita buka untuk semua. Jadi cuma mungkin masa itu orang ingat ini lebih kepada dalaman parti lah kan. Jadi memang baru lah. So kali pertama kita buat 2022, kemudian Muda ikut untuk PRN 2023. Haa, baru dua kali lah.
 
@@ -394,9 +368,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Parti pertama? Mana dia kata parti pertama?
 
-**Syuk:** Pada kali ini, sama parti pertama di dunia buat cara begitu.
-
-**Syuk:** Eh, tak.
+**Syuk:** Pada kali ini, sama parti pertama di dunia buat cara begitu. Eh, tak.
 
 **Rafizi:** Pairan ketiga. Oh, yang ini Puan Zarkashi, sia-sia je ada PhD pergi UK. Oh, dia ada PhD? Aku pernah jumpa dia first kali tahun 1997 rasanya dekat London. Masa tu dia dah nak habis-habis buat PhD dia, sebab sekarang dia dah tua lah kan, dia Presiden Kelab UMNO UK. Saya rasa begitu, jadi ada mesyuarat semua. Jadi dia ada PhD, sebab itu Dr. Puad Zarkashi. Mana ada negara lain — it's very common negara... in fact kita yang pelik. Sebab sistem politik kita kena jadi ketua bahagian, ketua cabang baru boleh dipertimbangkan kan. Kalau di US atau banyak negara barat, dia ada sistem primary. Siapa-siapa nak bertanding boleh tawarkan diri je. Kalau tidak, tak adalah Zohran Mamdani boleh jadi calon kan. But sebelum itu dia kena melalui primary. Primary itu maksudnya pemilihan parti lah. Siapa jadi ketua bahagian semua ni, nak ada election sahaja katakanlah pilihan raya senat, katakanlah setahun setengah lagi kan, jadi Zaim pun boleh kata, "saya nak bertanding melawan siapa senator yang popular from US." Nampak sangat semua tak kenal sekarang kan?
 
@@ -768,9 +740,7 @@ So actually sama jugalah. So in my case contohnya memanglah pening kepala sebena
 
 **Rafizi:** Oh, belia?
 
-**Zaim Zulkifli:** Belia kan.
-
-**Zaim Zulkifli:** Belia kan, muda.
+**Zaim Zulkifli:** Belia kan. Belia kan, muda.
 
 **Rafizi:** Relatif to Donald Trump lah.
 
@@ -1024,33 +994,17 @@ Aku rasa orang kat luar dah macam, tukarlah tajuk, aku dah lama — dua jam dua 
 
 **Rafizi:** Selamat datang ke Goa. Kita — kita pun tak boleh lah, 2 jam setengah dah YB, 2 jam setengah dah cukup-cukup. Kesianlah, esok aku nak pergi ke Perak lah, pasuh Amir kahwin dah pula kan. Ha. Oh esok start jelajah kancil ke Negeri Sembilan. Tapi sebab esok salah seorang daripada kru kami kahwin, aku nak marah dia pun tak boleh, dia dah book awal-awal. Masa dia book, dia nak kahwin tu, manalah dia tahu ada pilihan raya, masa tu tak ada pun idea nak buat parti pun. So kita pun tak boleh lama sangat kan. Okey lah, ini contohnya macam mana nak membaca ni, apa jadi kan. Dia banyak kemungkinan lah kan. Jadi satu benda yang orang politik ataupun — you dalam mana-mana organisasi, you kena tengok scenario planning. Ada banyak scenario. Satu scenario ialah macam kita sebut tadi, BN menarik sokongan daripada kerajaan Madani, tinggal 120. Jadi kalau itu berlaku, apa a series of things that will follow? Sebelum kita boleh tentukan Dato' Seri Anwar jatuh ke tidak, ataupun ada pilihan raya ke tidak — apa yang akan berlaku? GPS akan follow. Adakah GPS akan follow? Then you ask that question. Adakah GPS akan follow? And maksudnya kalau Dato' Seri Anwar untuk dia kekal sebagai Perdana Menteri dengan hanya 120 kosong, satu, dia kena make sure GPS stay; satu lagi, dia kena beef up the number lah. So macam mana nak bagi GPS stay?
 
-**Zaim Zulkifli:** Kena lagi banyak
+**Zaim Zulkifli:** Kena lagi banyak bagi dia.
 
-**Zaim Zulkifli:** bagi dia.
-
-**Rafizi:** Maksudnya, banyak tuntutan daripada Sarawak tu dia kena, kerana Sarawak akan memilih siapa yang boleh bagi tawaran yang lebih baik lah. Okay kan. So maksudnya, leverage itu ada kepada BN atau kepada Dato' Seri Anwar?
-
-**Rafizi:** BN lah.
-
-**Rafizi:** Why? Why? Kenapa pula BN — bukan PM-nya ialah Anwar Ibrahim yang
+**Rafizi:** Maksudnya, banyak tuntutan daripada Sarawak tu dia kena, kerana Sarawak akan memilih siapa yang boleh bagi tawaran yang lebih baik lah. Okay kan. So maksudnya, leverage itu ada kepada BN atau kepada Dato' Seri Anwar? BN lah. Why? Why? Kenapa pula BN — bukan PM-nya ialah Anwar Ibrahim yang
 
 **Syuk:** boleh offer isu tu, si Anwar.
 
-**Rafizi:** Ya. So leverage tu ada dengan dia. So yang ini, kalau saya pula jadi BN, saya akan fikir macam itulah. Sebelum kita nak tarik ni, kita kena fikir dulu leverage ni ada kat siapa. So kalau nak tarik, make sure GPS keluar dengan kita. Kalau BN saja tarik, tapi Anwar berjaya bagi a list of things yang untuk mengekalkan GPS dalam kerajaan Madani, tiba-tiba BN jadi pembangkang. Okay. Kalau BN jadi pembangkang, apa risiko BN ada? Dia hilang oksigen dia. Oksigen dia apa dia? Kuasa. Okay, that's one — dia hilang kuasa. Tapi okeylah, diorang pernah hilang kuasa lagi?
-
-**Rafizi:** Berebut undi.
-
-**Rafizi:** Ha?
-
-**Rafizi:** Berebut undi.
-
-**Rafizi:** Berebut undi dengan apa? Siapa?
+**Rafizi:** Ya. So leverage tu ada dengan dia. So yang ini, kalau saya pula jadi BN, saya akan fikir macam itulah. Sebelum kita nak tarik ni, kita kena fikir dulu leverage ni ada kat siapa. So kalau nak tarik, make sure GPS keluar dengan kita. Kalau BN saja tarik, tapi Anwar berjaya bagi a list of things yang untuk mengekalkan GPS dalam kerajaan Madani, tiba-tiba BN jadi pembangkang. Okay. Kalau BN jadi pembangkang, apa risiko BN ada? Dia hilang oksigen dia. Oksigen dia apa dia? Kuasa. Okay, that's one — dia hilang kuasa. Tapi okeylah, diorang pernah hilang kuasa lagi? Berebut undi. Ha? Berebut undi. Berebut undi dengan apa? Siapa?
 
 **Zaim Zulkifli:** BN dengan PN lah.
 
-**Rafizi:** BN dah tak ada pun, BN memang dengan PAS. Tapi risiko PAS tak sangat tau, sebab dia bukan dalam kerajaan sekarang — tarik ke tak tarik, tak ada kesan kat dia. Tapi bila BN tarik 30, tinggal 120 ni kan, leverage ada dengan Anwar Ibrahim sebagai Perdana Menteri, sebab GPS akan memilih transactionally siapa yang boleh offer kan. So leverage tu ada dengan Anwar kan. So biar kena fikir, kalau aku tarik tapi GPS tak keluar sekali dengan aku, maknanya aku jadi pembangkang. Hilang kuasa tu tak apa lagi,
-
-**Rafizi:** dia
+**Rafizi:** BN dah tak ada pun, BN memang dengan PAS. Tapi risiko PAS tak sangat tau, sebab dia bukan dalam kerajaan sekarang — tarik ke tak tarik, tak ada kesan kat dia. Tapi bila BN tarik 30, tinggal 120 ni kan, leverage ada dengan Anwar Ibrahim sebagai Perdana Menteri, sebab GPS akan memilih transactionally siapa yang boleh offer kan. So leverage tu ada dengan Anwar kan. So biar kena fikir, kalau aku tarik tapi GPS tak keluar sekali dengan aku, maknanya aku jadi pembangkang. Hilang kuasa tu tak apa lagi, dia
 
 **Syuk:** kena hadap election sebagai pembangkang.
 
@@ -1080,11 +1034,7 @@ Zahim dah mengantuk kau. Anak-anak muda tidur awal tak roh. Kau gila ke apa? Yan
 
 **Zaim Zulkifli:** Dah macam dengan usroh ni.
 
-**Rafizi:** Betul lah kan. Kalau contohnya aku kahwin umur 27 tahun, dan lepas tu anak aku lahir pada umur 28 tahun, dia jadi Zaim lah — 22 tahun.
-
-**Speaker ?:** Hmm.
-
-**Rafizi:** Okey, kesianlah, budak-budak nak kena tidur. Haa, budak-budak kena tidur awal, tak baik, tak baik tok-tok besaran dia.
+**Rafizi:** Betul lah kan. Kalau contohnya aku kahwin umur 27 tahun, dan lepas tu anak aku lahir pada umur 28 tahun, dia jadi Zaim lah — 22 tahun. Hmm. Okey, kesianlah, budak-budak nak kena tidur. Haa, budak-budak kena tidur awal, tak baik, tak baik tok-tok besaran dia.
 
 **Speaker ?:** Betul, betul, betul.
 

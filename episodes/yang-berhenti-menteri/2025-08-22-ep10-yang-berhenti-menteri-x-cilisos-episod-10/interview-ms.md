@@ -285,9 +285,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Iqbal:** 2009 adalah sekitar masa Gerakan Kajang?
 
-**Rafizi:** Sekitar, tak. Gerakan Kajang 2014. Lama lagi.
-
-**Rafizi:** Kemudian saya rasa selepas itu ada sebablah saya ingat dia 2011, 2012 itu dia hilanglah. Dia hilang, tiada apa-apa sangatlah. Jadi antara tahun 2009 sehinggalah 2018, sehingga yalah Datuk Seri Anwar masuk penjara balik 2015 kan. Jadi antara 2009 sampai 2012 itu, saya lebih kurang Ketua Pegawai Dia punya masa saya CEO di Selangor dulu. Sebagai penasihat Datuk Seri Anwar, penasihat ekonomi Selangor kan. Jadi sehingga dia masuk penjara balik 2015, Farhash tak ada pengaruh yang besar yang macam kita lihat sekarang, tak ada. Farhash selepas dia habis sayap Pemuda itu, habis dekat situlah. Dia hanya muncul balik bila Datuk Seri Anwar keluar penjara 2018.
+**Rafizi:** Sekitar, tak. Gerakan Kajang 2014. Lama lagi. Kemudian saya rasa selepas itu ada sebablah saya ingat dia 2011, 2012 itu dia hilanglah. Dia hilang, tiada apa-apa sangatlah. Jadi antara tahun 2009 sehinggalah 2018, sehingga yalah Datuk Seri Anwar masuk penjara balik 2015 kan. Jadi antara 2009 sampai 2012 itu, saya lebih kurang Ketua Pegawai Dia punya masa saya CEO di Selangor dulu. Sebagai penasihat Datuk Seri Anwar, penasihat ekonomi Selangor kan. Jadi sehingga dia masuk penjara balik 2015, Farhash tak ada pengaruh yang besar yang macam kita lihat sekarang, tak ada. Farhash selepas dia habis sayap Pemuda itu, habis dekat situlah. Dia hanya muncul balik bila Datuk Seri Anwar keluar penjara 2018.
 
 **Iqbal:** Tapi apakah maksud pengaruh besar? Sebab dia tak memegang apa-apa jawatan...
 
@@ -757,9 +755,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Iqbal:** Ada orang tanya apa status PADU sekarang ni?
 
-**Rafizi:** Status PADU beroperasi 100% lah.
-
-**Rafizi:** PADU masa kita bentangkan dan dapat arahan untuk buat kerana diagnosisnya ada dua tiga keperluan kenapa kita perlukan satu pangkalan data utama yang bersepadu. Satu, sebenarnya dari segi kos lebih daripada segala-galanya, yang mungkin rakyat di luar tak faham.
+**Rafizi:** Status PADU beroperasi 100% lah. PADU masa kita bentangkan dan dapat arahan untuk buat kerana diagnosisnya ada dua tiga keperluan kenapa kita perlukan satu pangkalan data utama yang bersepadu. Satu, sebenarnya dari segi kos lebih daripada segala-galanya, yang mungkin rakyat di luar tak faham.
 
 **Iqbal:** Apa maksudnya tu?
 
@@ -883,15 +879,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Iqbal:** Okey. Kemudian soalan terakhir.
 
-**Chak Onn Lau:** Soalan terakhir kan? Okey. Satu lagi.
-
-**Chak Onn Lau:** Okey, ini soalan pertama yang kita tanya dan ini soalan terakhir yang kita tanya. Kamu tulis dalam profil MCKK dulu, profil debat macam...
+**Chak Onn Lau:** Soalan terakhir kan? Okey. Satu lagi. Okey, ini soalan pertama yang kita tanya dan ini soalan terakhir yang kita tanya. Kamu tulis dalam profil MCKK dulu, profil debat macam...
 
 **Rafizi:** Eh mamat yang letak benda itu sudah mati tau, pergi tanya dia.
 
-**Chak Onn Lau:** Nak jadi PM. Kalau kamu boleh, kalau kamu akan...
-
-**Chak Onn Lau:** Okey, sebelum itu, saya ada satu soalan susulan sebelum itu. Kalau kamu diberi pilihan, kamu ada pilihan kementerian mana sekalipun yang kamu nak ambil pada masa depan, mana satu ia akan jadi? Jadi saya ada bertaruh dengan salah seorang orang kamu tentang kementerian mana yang kamu akan pilih.
+**Chak Onn Lau:** Nak jadi PM. Kalau kamu boleh, kalau kamu akan... Okey, sebelum itu, saya ada satu soalan susulan sebelum itu. Kalau kamu diberi pilihan, kamu ada pilihan kementerian mana sekalipun yang kamu nak ambil pada masa depan, mana satu ia akan jadi? Jadi saya ada bertaruh dengan salah seorang orang kamu tentang kementerian mana yang kamu akan pilih.
 
 **Rafizi:** Kamu nampak, kamu nampak...
 

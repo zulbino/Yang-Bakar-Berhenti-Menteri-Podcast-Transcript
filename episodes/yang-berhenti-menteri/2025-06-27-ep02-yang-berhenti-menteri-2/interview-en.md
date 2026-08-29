@@ -537,9 +537,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Iswardy Morni:** And you also need to find the specific stratum.
 
-**Rafizi:** You also need to find the specific stratum for each one, right. So it's much easier to just ask, "Is the country on the right track?" Okay, okay, out of all the surveys — the last survey you did before this new result came out — should we be worried, Pakatan Harapan?
-
-**Rafizi:** I should — I mentioned this during the campaign.
+**Rafizi:** You also need to find the specific stratum for each one, right. So it's much easier to just ask, "Is the country on the right track?" Okay, okay, out of all the surveys — the last survey you did before this new result came out — should we be worried, Pakatan Harapan? I should — I mentioned this during the campaign.
 
 **Iswardy Morni:** Yes, but after that, should we still be worried?
 

@@ -400,9 +400,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Nazri:** Okay guys, thank you very much. Thank you YB and thank you Professor for being willing to join us.
 
-**Rafizi:** But then people will say it didn't catch fire. Was it fiery enough?
-
-**Rafizi:** No, I think, you know, it's like — I hope over time, our people who are listening, however many are listening, understand that we're not here to fight.
+**Rafizi:** But then people will say it didn't catch fire. Was it fiery enough? No, I think, you know, it's like — I hope over time, our people who are listening, however many are listening, understand that we're not here to fight.
 
 **Nazri:** True, we want to discuss this in an intellectual manner.
 

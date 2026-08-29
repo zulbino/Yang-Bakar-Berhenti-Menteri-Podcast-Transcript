@@ -93,9 +93,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Nampaklah penat, YB.
 
-**Rafizi:** Nampak penat, penat, penat. Last two, three weeks memang penat. Dahlah ambil exam. Korang lupa aku ambil exam seminggu. Lepas tu semalam kena ambil paper tambahan lagi. Kemudian nak susun semua ni kan ke hari Ahad. Okey, tak apa. Harap YB gelaklah dengan penghibur-penghibur yang telah kita jemput.
-
-**Rafizi:** Penghibur pertama?
+**Rafizi:** Nampak penat, penat, penat. Last two, three weeks memang penat. Dahlah ambil exam. Korang lupa aku ambil exam seminggu. Lepas tu semalam kena ambil paper tambahan lagi. Kemudian nak susun semua ni kan ke hari Ahad. Okey, tak apa. Harap YB gelaklah dengan penghibur-penghibur yang telah kita jemput. Penghibur pertama?
 
 **Haziq:** Penghibur pertama sudah pasti watak utama.
 
@@ -211,9 +209,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Farhan (Pa'an):** Bukan AI.
 
-**Rafizi:** Ya Allahuakbar. Dia pegang gergaji, dia pegang apa tu? Pisau?
-
-**Rafizi:** Gergaji dan pisau. Chopping knife. Oh, ini berebut Batu, kerusi Batu. Berebut-berebut last-last semua gigit jari sebab Anwar Ibrahim pergi ke Batu. Beria berebut kerusi kan. Tapi saya tak tahulah, saya rasa dia orang betul-betul duduk di dalam gelembung mereka, bubble kan. Kerana macam saya sebut dalam podcast yang lepas-lepas, bukan sahaja PKR, hatta Datuk Seri Anwar sendiri pun sekarang ini diasak daripada dua sisi — daripada pengundi Melayu dan juga pengundi bukan Melayu. Jadi kalau kita ambil keadaan itu, maksudnya kerusi-kerusi yang sebelum ini nampak kuat untuk PKR termasuklah Batu, sebab Batu ni sebenarnya majoriti bukan Melayu, 60-40 rasanya. Itu betul-betul beranggapan kepada premis lama iaitu pengundi bukan Melayu adalah blok undi yang akan kekal dengan PKR atau PH. Dia tidak ada kesahihan yang itu lagi.
+**Rafizi:** Ya Allahuakbar. Dia pegang gergaji, dia pegang apa tu? Pisau? Gergaji dan pisau. Chopping knife. Oh, ini berebut Batu, kerusi Batu. Berebut-berebut last-last semua gigit jari sebab Anwar Ibrahim pergi ke Batu. Beria berebut kerusi kan. Tapi saya tak tahulah, saya rasa dia orang betul-betul duduk di dalam gelembung mereka, bubble kan. Kerana macam saya sebut dalam podcast yang lepas-lepas, bukan sahaja PKR, hatta Datuk Seri Anwar sendiri pun sekarang ini diasak daripada dua sisi — daripada pengundi Melayu dan juga pengundi bukan Melayu. Jadi kalau kita ambil keadaan itu, maksudnya kerusi-kerusi yang sebelum ini nampak kuat untuk PKR termasuklah Batu, sebab Batu ni sebenarnya majoriti bukan Melayu, 60-40 rasanya. Itu betul-betul beranggapan kepada premis lama iaitu pengundi bukan Melayu adalah blok undi yang akan kekal dengan PKR atau PH. Dia tidak ada kesahihan yang itu lagi.
 
 Jadi yang lebih lawak bagi saya, bila pimpinan PKR ni berebut kerusi secara terbuka begini dan menimbulkan keresahan di peringkat akar umbi, semua ini ditonton oleh rakyat. Jadi rakyat boleh nampak sepatutnya tugas pimpinan kanan parti ini — Naib Presiden dan juga Setiausaha Agung — ialah meningkatkan sokongan rakyat kepada PKR, bukannya meningkatkan kebarangkalian mereka boleh menjadi wakil rakyat. Itu yang saya sebut sebenarnya PKR ni nampak makin lama makin berbeza daripada PKR yang saya kenal dulu-dulu. Sebab kebanyakan daripada kami dulu-dulu semua kami kamikaze.
 
@@ -739,9 +735,7 @@ Isu dia ialah the haphazard manner benda ni dibuat. Sebab dia mengejut tau. Tiba
 
 Jawapan masa itu daripada MITI, saya ingat, ialah sebab nak bagi ruang dan masa kepada Perodua dan Proton siapkan EV mereka dalam kategori itu, supaya rakyat boleh pakai yang itu kan. Aku dalam hati cakap, okey fair enough, tapi janganlah lambat sangat, kesian kat orang. Kan? So finally Proton launch dia punya tahun bila? 2024?
 
-**Farhan (Pa'an):** e.MAS? e.MAS 7.
-
-**Farhan (Pa'an):** Ya, end of 2024. And then Perodua punya?
+**Farhan (Pa'an):** e.MAS? e.MAS 7. Ya, end of 2024. And then Perodua punya?
 
 **Haziq:** Tahun lepas.
 
@@ -819,13 +813,9 @@ So I think MITI is the best kementerian untuk menguruskan EV car ni kan, adoptio
 
 **Rafizi:** Itu Ong Kian Ming aje yang nak join KJ. Macam mana nak join KJ, dia dah masuk UMNO. Dia dah sekarang ni best BFF dengan Datuk Seri Zahid.
 
-**Haziq:** Tak boleh jadi member kabinet KJ.
+**Haziq:** Tak boleh jadi member kabinet KJ. Okey, tapi saya rasa yang lebih penting adalah untuk kita reflect baliklah, saya rasa, YB. Sebab kalau saya tanya panjang-panjang, nanti hari Ahad tu dah tak best lah kan? Saya harap penonton faham.
 
-**Haziq:** Okey, tapi saya rasa yang lebih penting adalah untuk kita reflect baliklah, saya rasa, YB. Sebab kalau saya tanya panjang-panjang, nanti hari Ahad tu dah tak best lah kan? Saya harap penonton faham.
-
-**Rafizi:** Dia kekal suspenselah hari Ahad. Nanti penonton maki saya, tak boleh tak korek rahsia daripada YB.
-
-**Rafizi:** Kau pilih, Haziq — yang mana yang lagi mudah untuk engkau: penonton maki engkau, atau aku maki engkau?
+**Rafizi:** Dia kekal suspenselah hari Ahad. Nanti penonton maki saya, tak boleh tak korek rahsia daripada YB. Kau pilih, Haziq — yang mana yang lagi mudah untuk engkau: penonton maki engkau, atau aku maki engkau?
 
 **Farhan (Pa'an):** Penonton maki. Dan I think kita dekat mark satu tahun kau ditinggalkan dan pemilihan tu, I think boleh nak minta reflection sikit daripada YB — setahun yang lepas.
 

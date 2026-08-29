@@ -190,9 +190,7 @@ Dan kalau saya dibayar untuk jadi penasihat strategik dia pun — cuma penasihat
 
 **Farhan (Pa'an):** Sebab orang ingat debat Syahir dengan YB itu—
 
-**Rafizi:** —je dia ingat.
-
-**Rafizi:** Aku masa tu macam haa—
+**Rafizi:** —je dia ingat. Aku masa tu macam haa—
 
 **Farhan (Pa'an):** So dendam?
 

@@ -192,9 +192,7 @@ Dan kalau saya dibayar untuk jadi dia punya strategic advisor pun — cuma strat
 
 **Farhan (Pa'an):** Sebab orang ingat debat Syahir dengan YB itu—
 
-**Rafizi:** —je dia ingat.
-
-**Rafizi:** Aku masa tu macam haa—
+**Rafizi:** —je dia ingat. Aku masa tu macam haa—
 
 **Farhan (Pa'an):** So dendam?
 
@@ -506,9 +504,7 @@ Jadi sebab itu saya rasa ia hanya boleh bertukar dengan tekanan. Dan tekanan itu
 
 **Haziq:** Amin, yelah. Dan mungkin inilah sebab waktu kempen PH, waktu PH jadi mangsa dulu, orang tengok, "oh kesiannya dia ni kena tangkap, kena intimidasi," orang kesian, dan orang bagi sokongan. Sebaliknya kerajaan yang kononnya nak mengawal trauma awam ni, dia guna kuasa dia, tapi backlash tu kepada dia pula, seolah kejam dan zalim. Benda ini playbook yang PH sendiri dapat laba, dan dia sendiri dah experience. Tapi kenapa sekarang ni benda tu diulang, bukan 360 darjah, 180 darjah?
 
-**Rafizi:** 180 darjah. Haa, macam tu.
-
-**Rafizi:** Yalah, susah kita nak faham kepala dia orang ni kan. Dia sebenarnya sepatutnya kalau kita offensive ni memang betul, saya memang selalu ofensif lah. Saya tak pernah jadi defensif dalam apa-apa yang saya buat lah kan. Itu yang orang kata agresif lah, itulah sebenarnya. Memang kita kena ofensif kan. Main bola, kau duduk depan tiang gol kau sendiri, bila masa nak menang, ya memanglah you kena attack kan. Cuma, ofensif itu berbeza semasa kita jadi pembangkang dan juga jadi kerajaan.
+**Rafizi:** 180 darjah. Haa, macam tu. Yalah, susah kita nak faham kepala dia orang ni kan. Dia sebenarnya sepatutnya kalau kita offensive ni memang betul, saya memang selalu ofensif lah. Saya tak pernah jadi defensif dalam apa-apa yang saya buat lah kan. Itu yang orang kata agresif lah, itulah sebenarnya. Memang kita kena ofensif kan. Main bola, kau duduk depan tiang gol kau sendiri, bila masa nak menang, ya memanglah you kena attack kan. Cuma, ofensif itu berbeza semasa kita jadi pembangkang dan juga jadi kerajaan.
 
 Kalau jadi pembangkang, kita perlu ofensif dalam mendedahkan kelemahan kerajaan. Terutamanya kalau ada salah laku, rasuah, integriti. Yang itu kita kena ofensif kerana kitalah benteng terakhir rakyat. Kalau kita tak sebut, jabatan-jabatan kerajaan, SPRM, PDRM, sebenarnya dia jawab kat menteri dia. Dia takkan pergi. Selagi kita tidak ada institusi yang bebas, maka kita nak harap SPRM pergi tangkap menteri ke apa tu, saya rasa tak jadilah. Jadi maka benteng terakhir rakyat, kalau kita pembangkang, bila ada kes integriti rasuah, memang membangkanglah. Kena agresif kan? Kita juga kena ofensif soal-soal dasar, untuk kita menunjukkan dan meyakinkan rakyat bagaimana kita akan buat secara berlainan. Kalau kita rasa macam tadi soal tenaga, ada perkara yang bermasalah, dan cara bisnes as usual itu tidak akan menyelamatkan negara daripada menjadi Titanic melanggar iceberg — then you kena bentangkan, you kena yakinkan. Itu sebagai pembangkang, cara ofensif pembangkang.
 

@@ -272,9 +272,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Farhan (Pa'an):** 10:00.
 
-**Rafizi:** Jam 10:00, kita akan melancarkan satu lagi inisiatif baru oleh Ayuh Malaysia yang jarang ada, iaitu yang kita cuba nak membantu dari segi pemilikan komputer riba atau gajet, terutamanya kepada keluarga yang miskin. Komputer riba sekarang ni satu keperluan, terutamanya bagi yang sudah masuk universiti atau sudah melepasi sekolah — malah kanak-kanak sekolah pun perlu ada komputer riba sekarang ni kan. Dan harga komputer riba, kalau yang spesifikasi paling rendah pun, paling kurang berapa sekarang? RM3,000 kan. Kebelakangan ini sebab harga RAM, storan semua sudah meningkat tinggi, naik sekali ganda kan. Jadi paling kurang RM3,000. Kalau pakai MacBook Air paling murah pun, berapa sekarang? RM5,000 lebih kan. Jadi mahal. Bagi orang biasa mungkin benda tu bukan halangan, tapi masih banyak lagi keluarga di Malaysia yang mempunyai halangan kewangan untuk mendapat akses kepada komputer riba dan peranti elektronik yang diperlukan untuk pembelajaranlah.
-
-**Rafizi:** Jadi kita tak ada duit, sebab itu melalui Ayuh Malaysia kita bangunkan program-program dengan kerjasama kumpulan yang nak membantu. Kita bernasib baik kerana ada dua kumpulan yang nak membantu. Satu, memang bisnes dan kepakaran mereka ialah membaiki laptop-laptop. Tapi kita tak nak semata-mata minta duit daripada orang ramai kemudian bagi untuk dia orang baiki laptop, kerana benda tu nampak macam tak sustainable dan kesannya tidak meluas.
+**Rafizi:** Jam 10:00, kita akan melancarkan satu lagi inisiatif baru oleh Ayuh Malaysia yang jarang ada, iaitu yang kita cuba nak membantu dari segi pemilikan komputer riba atau gajet, terutamanya kepada keluarga yang miskin. Komputer riba sekarang ni satu keperluan, terutamanya bagi yang sudah masuk universiti atau sudah melepasi sekolah — malah kanak-kanak sekolah pun perlu ada komputer riba sekarang ni kan. Dan harga komputer riba, kalau yang spesifikasi paling rendah pun, paling kurang berapa sekarang? RM3,000 kan. Kebelakangan ini sebab harga RAM, storan semua sudah meningkat tinggi, naik sekali ganda kan. Jadi paling kurang RM3,000. Kalau pakai MacBook Air paling murah pun, berapa sekarang? RM5,000 lebih kan. Jadi mahal. Bagi orang biasa mungkin benda tu bukan halangan, tapi masih banyak lagi keluarga di Malaysia yang mempunyai halangan kewangan untuk mendapat akses kepada komputer riba dan peranti elektronik yang diperlukan untuk pembelajaranlah. Jadi kita tak ada duit, sebab itu melalui Ayuh Malaysia kita bangunkan program-program dengan kerjasama kumpulan yang nak membantu. Kita bernasib baik kerana ada dua kumpulan yang nak membantu. Satu, memang bisnes dan kepakaran mereka ialah membaiki laptop-laptop. Tapi kita tak nak semata-mata minta duit daripada orang ramai kemudian bagi untuk dia orang baiki laptop, kerana benda tu nampak macam tak sustainable dan kesannya tidak meluas.
 
 Jadi kita bangunkan Pinjam Gadget, konsepnya begini. Dia ada tiga komponen, dan tiga-tiga komponen ini ada kebaikan sosial masing-masing. Komponen pertama ialah untuk orang ramai yang ada laptop atau telefon, gajet yang dah tak terpakai — daripada dibuang, atau kalau tak hati-hati dijual second hand dan pembeli itu pandai, dia boleh dapatkan balik rekod peribadi dan maklumat bank yang tak dipadam. Jadi tak selamat. Kita tak ada kaedah tahu macam mana untuk membuang gajet secara selamat dan terjamin. Jadi yang pertama, melalui Pinjam Gadget, orang ramai boleh menderma laptop, telefon yang tidak digunakan atau yang telah rosak, tak berbaloi dibaiki, jadi dia tersadai di rumah — atau dia nak menaik taraf tapi tak tahu nak buat apa dengan laptop sedia ada, terutamanya syarikat-syarikat. Jadi dermakan kepada Ayuh Malaysia, itu komponen pertama. Kebaikannya, ia memberi ruang untuk individu dan syarikat membantu masyarakat dengan cara membuang dan mengitar semula gajet secara boleh dipercayai, selamat dan terjamin.
 
@@ -470,9 +468,7 @@ Jadi bacaan saya setakat ini, Takiyuddin akan setuju. Sebab PN pun sampai ke sud
 
 **Haziq:** Ha.
 
-**Rafizi:** Soalan itu terang lagi bersuluhlah YB, tapi itu saya rasa akhirnya kita nak tahu PMX apa yang takut sangat dengan Azam Baki? Tapi bila kita tengok apa yang perkembangan mutakhir ini, macam-macam cerita keluar. Ada dakwaan daripada PM ada konspirasi untuk menjatuhkan kerajaan melibatkan Zionis, kemudian Toh Puan Na'imah. Tapi kalau cakap kan dia orang kata YB back up pula kan?
-
-**Rafizi:** Tak apa, cakap aje lah.
+**Rafizi:** Soalan itu terang lagi bersuluhlah YB, tapi itu saya rasa akhirnya kita nak tahu PMX apa yang takut sangat dengan Azam Baki? Tapi bila kita tengok apa yang perkembangan mutakhir ini, macam-macam cerita keluar. Ada dakwaan daripada PM ada konspirasi untuk menjatuhkan kerajaan melibatkan Zionis, kemudian Toh Puan Na'imah. Tapi kalau cakap kan dia orang kata YB back up pula kan? Tak apa, cakap aje lah.
 
 **Haziq:** Dikatakan nak menjatuhkan kerajaan. Jadi dia jadi semakin lama semakin déjà vu lah, kita pernah dengar benda ni dan dia jadi macam merepek sebab eh semua kena kecuali tetamu kita tu.
 
@@ -612,9 +608,7 @@ Jadi bacaan saya setakat ini, Takiyuddin akan setuju. Sebab PN pun sampai ke sud
 
 **Rafizi:** Ha, sejam 50 minit. Jadi yang dua lagi tu kita simpan sajalah. Ha, James Bond.
 
-**Haziq:** Dia ada banyak persoalan YB. Antara orang agak kecewa sebab biasanya pergaduhan ni antara ahli politik dengan ahli politik, tapi ini mungkin setelah sekian lama tak ada, seorang rakyat biasa diserang dan diintimidasi seperti ini. Cuma saya agak tertarik dengan kenyataan YB — yang mana parodi saya?
-
-**Haziq:** Parodi satu, tapi yang SPRM cari tu, saya rasa sebelum itu kita pergi ke situ dulu. Dan ramai marah juga. Sibuk-sibuk...
+**Haziq:** Dia ada banyak persoalan YB. Antara orang agak kecewa sebab biasanya pergaduhan ni antara ahli politik dengan ahli politik, tapi ini mungkin setelah sekian lama tak ada, seorang rakyat biasa diserang dan diintimidasi seperti ini. Cuma saya agak tertarik dengan kenyataan YB — yang mana parodi saya? Parodi satu, tapi yang SPRM cari tu, saya rasa sebelum itu kita pergi ke situ dulu. Dan ramai marah juga. Sibuk-sibuk...
 
 **Rafizi:** Siapa yang marah, Ceplos?
 
