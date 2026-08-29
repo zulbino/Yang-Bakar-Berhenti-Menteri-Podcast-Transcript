@@ -116,6 +116,14 @@ def verdict(old, new):
     if dm < -MALAY_TOLERANCE:
         return False, (f"REJECT: Malay density {old['malay']:.1%} -> {new['malay']:.1%}, "
                        f"more anglicised than the incumbent")
+    # Symmetric with the Malay veto, and it was missing on the first batch: without it
+    # YBkM-ep02 was promoted on a +9pt Malay gain while its generic labels went 84 -> 234,
+    # because "improved something, worsened nothing I check" is not the same as "better".
+    # Every axis that raises a flag needs a veto, or the gate trades one flag for another.
+    if dg < 0:
+        return False, (f"REJECT: generic labels {old['generic_turns']} -> "
+                       f"{new['generic_turns']}, {-dg} more turns the reader cannot "
+                       f"attribute, whatever else improved")
     if dg <= 0 and dm <= MALAY_TOLERANCE:
         return False, (f"REJECT: nothing measurably better (generic turns "
                        f"{old['generic_turns']} -> {new['generic_turns']}, Malay "

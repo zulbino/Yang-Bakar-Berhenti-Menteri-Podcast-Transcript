@@ -139,6 +139,24 @@ def check(ep_dir):
             break
 
     names = raw_speaker_names(raw_body)
+    # Generic labels raw.md uses itself, i.e. speakers the transcript never named. Role
+    # words like `Moderator` and `Audience` are not caught by PLACEHOLDER_RE above, which
+    # only matches numbered clusters, so before this they were invisible at the raw stage
+    # and surfaced only as a rewrite flag on the published files.
+    raw_generic = Counter()
+    for a, b in RAW_LABEL.findall(raw_body):
+        label = (a or b).strip()
+        if GENERIC.match(label):
+            raw_generic[label] += 1
+    if raw_generic:
+        shown = ", ".join(f"{k} x{v}" for k, v in raw_generic.most_common(3))
+        issues.append((
+            "raw-unnamed-speaker",
+            f"raw.md leaves {sum(raw_generic.values())} turn(s) on a generic label "
+            f"({shown}) -- a real person the transcript never names, so every derived file "
+            f"inherits it. Fix by identifying the speaker (video frames, the episode "
+            f"description, voiceprints), not by regenerating the rewrite"))
+
     label_sets, name_sets = {}, {}
     for name in DERIVED:
         path = ep_dir / name
@@ -160,8 +178,20 @@ def check(ep_dir):
 
         # Exclude the numbered ones: published-placeholder already reports those, and
         # counting them twice made 9 episodes carry two flags for one set of turns.
+        #
+        # Also exclude labels raw.md ITSELF uses. This flag's whole claim is that the
+        # rewrite "discarded names the transcript already had", and where raw carries the
+        # same generic label the transcript never had a name to discard -- the rewrite is
+        # being faithful, and the missing name is a speaker-attribution gap upstream.
+        # Measured before this exclusion: 351 of 1080 flagged turns, 32%, across five
+        # episodes -- YBkM-ep02 is entirely this (raw labels 78 turns `Moderator`), and so
+        # are ep53, ep26 and ep36. Worse than a false positive, it pointed the work at the
+        # wrong stage: regenerating YBkM-ep02 made the count go 84 -> 234 precisely because
+        # the new output stopped inventing attributions for turns raw leaves unnamed.
+        # Reported below as `raw-unnamed-speaker` instead, which is where the fix belongs.
         generic = {l: n for l, n in label_sets[name].items()
-                   if GENERIC.match(l) and not DERIVED_PLACEHOLDER_RE.match(l)}
+                   if GENERIC.match(l) and not DERIVED_PLACEHOLDER_RE.match(l)
+                   and not any(norm(l) == norm(r) for r in raw_generic)}
         if generic and names:
             shown = ", ".join(f"{k} x{v}" for k, v in
                               sorted(generic.items(), key=lambda kv: -kv[1])[:3])

@@ -2565,6 +2565,56 @@ reuse `label_drift_audit.GENERIC`, the regex that raises the flag being tracked:
 corpus-wide, zero on any clean episode. **A gate that does not measure the same thing as the
 flag it is gating will promote a candidate the suite then rejects.**
 
+### 2.4: The batch, and the flag that was blaming the wrong stage
+
+15 episodes through `gate_batch.sh`, six at a time, 71 minutes wall clock. **15 promoted, 0
+restored.** QA 26 -> 12 of 68.
+
+| episode | completeness | Malay (raw in brackets) | generic turns |
+|---|---|---|---|
+| ep14 | +43% | 9.7% -> 23.1% (22.8) | - |
+| ep05b | +40% | 27.9% -> 31.4% (31.7) | -36 |
+| ep02b | +37% | 14.4% -> 26.5% (27.0) | -48 |
+| ep61 | +36% | 16.0% -> 26.3% (26.5) | - |
+| ep04a | +34% | 10.6% -> 24.1% (24.3) | - |
+| ep06b | +32% | 5.4% -> 20.0% (19.7) | -60 |
+| ep02a | +21% | 13.2% -> 22.4% (22.9) | +150 |
+| ep01b | +19% | 11.0% -> 24.9% (25.0) | - |
+| ep10 | +16% | - | **-396** |
+| ep11 | +15% | - | -36 |
+| ep01a | +14% | 15.9% -> 24.0% (24.2) | -15 |
+| ep05a | +13% | 7.5% -> 19.2% (19.6) | -42 |
+| ep07b | +13% | 24.0% -> 29.1% (30.2) | - |
+| ep04b | +10% | 20.9% -> 25.0% (25.5) | -180 |
+| ep06a | +8% | 17.9% -> 23.8% (24.0) | - |
+
+The column to read is Malay, not completeness: **every episode lands within 0.5 points of
+its own raw density.** ep06b went 5.4% -> 20.0% against a raw of 19.7%. That is not an
+improvement in a score, it is the code-switching in the mixed-language file existing again.
+
+**The one that went the wrong way, and why it was right.** YBkM-ep02's generic turns went
+84 -> 234 and the gate promoted it anyway, because `verdict()` vetoed a completeness or
+Malay regression but I never wrote the symmetric check for labels. That veto now exists --
+**every axis that raises a flag needs one, or the gate trades one flag for another.**
+
+But reverting the episode would have been wrong, because the regression was not a
+regression. **`raw.md` labels 78 of its own turns `Moderator:`.** The new rewrite copied
+that verbatim, which is exactly what the new prompt tells it to do; the OLD file scored
+better only because it had invented named attributions for 50 of those 78 turns. The
+honest output looks worse to the checker than the dishonest one did.
+
+**So `generic-label` was blaming the wrong stage.** Its message claims the rewrite
+"discarded names the transcript already had", and across the 12 remaining episodes **351 of
+1080 flagged turns, 32%, carried a label `raw.md` itself uses** -- entirely so on YBkM-ep02,
+ep53, ep26 and ep36. There was no name to discard. `raw-unnamed-speaker` now reports these
+at the raw stage with the fix that actually applies (identify the speaker from video,
+description or voiceprints), and `generic-label` excludes them. `placeholder-label` could
+not have caught them: it only matches numbered clusters, and these are role words.
+
+That is the fourth check in this project to over-fire on its first contact with the corpus,
+and the first to do it in a way that pointed the work at the wrong stage rather than merely
+inflating a count. **A false positive costs a look; a mislabelled cause costs a batch run.**
+
 ## Local-ASR diarization: two follow-up fixes from a code review
 
 Found during a code review of the forced-alignment work above, both fixed

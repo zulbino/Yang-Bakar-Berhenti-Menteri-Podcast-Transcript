@@ -6,560 +6,956 @@ channel: Rafizi Ramli
 publish_date: '2025-08-22'
 duration_seconds: 5801
 duration: 1h 36m
-view_count: 50133
+view_count: 50162
 hosts:
 - Rafizi
 - Iqbal
 guests:
 - Chak Onn Lau
 topics:
-- Rafizi's education and scholarship background
-- Farhaj and his alleged influence over Anwar Ibrahim
-- PKR internal factionalism ('Black Shirt Gang' vs Azmin faction)
+- Rafizi Ramli's education and scholarship background
+- Farhash Wafa Salvador Rizal Mubarak's background and influence in PKR
+- PKR internal factions ('geng baju hitam' vs purist reformists)
 - Kajang Move and 'ends justify the means' debate
-- Formation of the unity government with UMNO
-- MCMC Act Section 233 'offensive and annoying' provision and cyberbullying law
-- Cabinet ministers' performance evaluation
-- Pace of reform and whether UMNO is a scapegoat
-- PADU centralized database initiative and subsidy retargeting
-- Cyber troopers, online misogyny and political trolling
-- Separation of Attorney General and Public Prosecutor roles
+- Unity Government formation with UMNO/BN
+- Attack on Rafizi's family and political violence/deep state discussion
+- Multimedia Act Section 233 'offensive and annoying' provision and Heidy Quah/Zara
+  cases
+- Performance evaluation of cabinet ministers
+- Pace of government reforms and scapegoating of UMNO
+- PADU (Pangkalan Data Utama) centralized government database system
+- Cybertroopers and online political discourse
 - Rafizi's political ambitions and views on power
-summary: A crossover episode between "Berhenti Menteri" and the "Siapa Makan Cili"
-  podcast, where hosts Iqbal and Cili Sos interview Rafizi. The wide-ranging conversation
-  covers his schooling and scholarship history (Exxon, Petronas), his early PKR involvement,
-  the rise and influence of Farhaj within Anwar Ibrahim's inner circle and the so-called
-  "Black Shirt Gang" faction, the Kajang Move and the "ends justify the means" debate,
-  the formation of the unity government with UMNO, the controversial MCMC Act Section
-  233 "offensive and annoying" provision and cyberbullying laws, his candid grading
-  of fellow cabinet ministers' performance, whether UMNO is a scapegoat for slow reforms,
-  the PADU centralized data initiative and subsidy retargeting politics, cyber troopers
-  and online toxicity, and his own ambivalence about ambitions of becoming Prime Minister.
+summary: In this crossover episode of "Yang Berhenti Menteri" and Cilisos' "Siapa
+  Makan Cili," hosts Iqbal and Chak Onn Lau interview former Economy Minister Rafizi
+  Ramli. The conversation opens with lighthearted banter about chili tolerance, Rafizi's
+  schooling background, scholarships (Exxon, Petronas), and his path to becoming an
+  electrical/electronics engineer instead of a historian or lawyer. The discussion
+  then turns serious, delving into the background and rise of Farhash Wafa Salvador
+  Rizal Mubarak, Anwar Ibrahim's aide, and the "geng baju hitam" faction within PKR,
+  contrasted with the "ends justify the means" faction historically linked to Azmin
+  Ali. Rafizi discusses the Kajang Move, the formation of the Unity Government with
+  UMNO/BN as the "lesser of two evils," and recent controversies including an attack
+  on his family, comparisons to past BN-era political persecution, and cases involving
+  whistleblowers on Farhash. He also addresses laws around online offense (Section
+  233, "offensive and annoying" provisions) referencing the Heidy Quah and Zara cases,
+  critiques cabinet colleagues' performance, defends UMNO against being scapegoated
+  for slow reforms, and explains the PADU centralized data system's purpose, resistance,
+  and use cases. The episode closes with Rafizi reflecting on his lack of personal
+  ambition for power, his core policy passions (economy, education, industry), and
+  his outlook on incremental political change.
 language: en
+model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style
   rewrite).
 ---
 
 # Interview (English)
 
-**Host:** Assalamualaikum and welcome to the newest episode of "Berhenti Menteri," together with us, the hosts of Siapa Makan Cili, Iqbal and Cili Sos. Ciao!
+**Iqbal:** Assalamualaikum and welcome to the latest episode of Yang Berhenti Menteri with us, your hosts from Cilisos, Iqbal and...
 
-**Host:** And this is a special episode for Siapa Makan Cili because this is an episode together with another podcast show, "Berhenti Menteri." And we have a special guest, namely...
+**Chak Onn Lau:** Cilisos Chak!
 
-**Rafizi:** Rafizi! I don't eat chilli.
+**Iqbal:** And this is a rather special episode, a special episode of Siapa Makan Cili because this episode is together with Yang Berhenti Menteri, it's another podcast show. And we also have a special guest, namely...
 
-**Host:** Really? Is it because it's allergic, or because it's just not spicy?
+**Chak Onn Lau:** Rafizi!
 
-**Rafizi:** Because it's not spicy. The people of Terengganu don't eat spicy chilli.
+**Rafizi:** I don't eat chili, you know.
 
-**Host:** Is it true that the people of Terengganu don't eat spicy food?
+**Chak Onn Lau:** Oh, really?
 
-**Rafizi:** It's true. There's no spicy nasi dagang — nasi dagang is sweet.
+**Iqbal:** Can't take spicy food? Is it because of an allergy or because you can't handle spice?
 
-**Host:** Oh yeah? I might be confusing it with Kelantan food.
+**Rafizi:** Because I can't handle spice. People from Terengganu don't eat really spicy chili.
 
-**Rafizi:** No — maybe people who go to Terengganu get confused, thinking that's Terengganu food, because naturally the people of Terengganu don't eat spicy food.
+**Chak Onn Lau:** Is it true that people from Terengganu don't eat spicy food?
 
-**Host:** Okay, okay. So, we found this photo that we thought was quite appropriate — but this was taken from somebody else's podcast, Victor Tan's. We heard he came here last week. So thank you, Victor Tan, for this beautiful image.
+**Rafizi:** It's true! People from Terengganu...
 
-**Rafizi:** That's not beautiful at all — maybe I'm half-beautiful.
+**Iqbal:** But doesn't nasi dagang come with sambal?
 
-**Host:** He gave a full picture of both an angel and a devil. He called you a devil.
+**Rafizi:** No way, since when is nasi dagang spicy? Nasi dagang is sweet.
 
-**Rafizi:** Half a devil.
+**Iqbal:** Oh really? I might be confusing it with Kelantan food.
 
-**Host:** Just half.
+**Chak Onn Lau:** No lah, when I went to Terengganu I got conned.
 
-**Rafizi:** Still, there's a half-devil in there. Not yet fully cooked.
+**Rafizi:** I think those are people from other states who go to Terengganu and pretend to be from Terengganu, because naturally people from Terengganu don't eat spicy food, you know.
 
-**Host:** So, we have a fanbase asking about YB — but before that we have a little icebreaker. In a previous episode of Siapa Makan Cili, we interviewed YB Nik Nazmi, and at that time Nik Nazmi shared a story about YB.
+**Chak Onn Lau:** Okay, okay. So, funnily enough, like we found this photo that I thought, you know, was appropriate, right? But this was on somebody else's podcast. His name is Victor Tan. We heard he came here last week, right?
 
-**Host:** Yes, that's what we want to show YB. We've been talking about it for a week — but just a little bit, just one icebreaker.
+**Rafizi:** Yeah.
 
-**Rafizi:** Okay, you guys are so elitist. [clip plays]
+**Chak Onn Lau:** So thank you Victor Tan for this beautiful image that, you know, we have taken...
 
-**Host:** Oh, where do I press play? It's already broken.
+**Rafizi:** That's not beautiful at all!
 
-**Host:** [clip of Nik Nazmi] So, when you first joined — like other students, did everyone want to become a politician?
+**Chak Onn Lau:** One side is beautiful lah.
 
-**Rafizi:** No, that was for debate camp.
+**Iqbal:** It gives a full picture of both angel and devil.
 
-**Host:** [clip continues] Rafizi, I think in Form Three, he wrote a script about becoming Prime Minister...
+**Rafizi:** He's calling me the devil?
 
-**Rafizi:** I can sue him in court for that! No, there is a background to that. We were entering the final debating championship. So the topic for that year was political stability versus economic stability — so we were for economic stability. Oh, later people will be angry if I speak English, I have to speak Malay — economic stability versus political stability, so we argued for economic stability. So my debating coach, I think, wanted to poke fun because we were up against the team that supported political stability — meaning, all politicians, right? So he decided, "you have to be PM." I was just in Form 3, and I had to be PM. So, it turned into a big production, all of it documented.
+**Iqbal:** Half devil. Only half.
 
-**Host:** Okay, I understand — so this was for a competition, not something you personally wanted to become?
+**Rafizi:** Chill, that's a half devil.
 
-**Rafizi:** Actually, all my life, when I was in school, I wanted to be an enlightener — a teacher.
+**Chak Onn Lau:** A half-cooked devil.
 
-**Host:** Teaching what subject?
+**Rafizi:** Not fully cooked yet.
 
-**Rafizi:** Didn't matter, I just wanted to teach. That's why people say I like to lecture.
+**Chak Onn Lau:** Okay, so we asked our fanbase what they wanted to ask you, YB. But before that, we have...
 
-**Host:** Actually that's quite true, right? But at that time, which subject did you feel you were good at, or most interested in teaching?
+**Iqbal:** A little icebreaker.
+
+**Chak Onn Lau:** A little icebreaker lah.
+
+**Iqbal:** So for the Siapa Makan Cili episode, our podcast episode before this, we interviewed YB Nik Nazmi. And during that recording, Nik Nazmi shared a story about YB. Yes, which we want to show YB a bit.
+
+**Rafizi:** It's been two weeks we've been talking about...
+
+**Chak Onn Lau:** This one's just one.
+
+**Iqbal:** Just one icebreaker.
+
+**Chak Onn Lau:** Okay, so you can press play here.
+
+**Rafizi:** Where do I press play? My eyesight's gone already.
+
+**[Video playing of Nik Nazmi]:** "So when you first went in, like did other students all want to be politicians?" "Oh I went — Rafizi, I think in Form 3, he wrote down his ambition as Prime Minister."
+
+**Rafizi:** I can...
+
+**Iqbal:** Can we get a comment from YB?
+
+**Rafizi:** I can sue him in court for that, that's defamation. No, I think...
+
+**Chak Onn Lau:** You wanted to be PM huh?
+
+**Rafizi:** Yeah, no, there is a background to that because we went to the final of a debating championship, right? So the topic for the year was political stability versus economic stability. So we were for economic stability lah. Oh wait, people will get mad if I speak English, I should speak BM.
+
+**Iqbal:** Economic stability versus...
+
+**Rafizi:** Economic stability versus political stability lah. So we were for economic stability. So, my debating coach, I think his way of poking fun was — because you're up against the team that, when they support political stability, essentially means all politicians, right. So that's why he decided, what do you call it, you had to become PM. And I was just in Form 3 at the time, right. You had to become PM, and one other person had to become Secretary-General of the UN. So, everything was documented.
+
+**Iqbal:** Okay, I see.
+
+**Chak Onn Lau:** So this was for a competition lah, not seriously lah.
+
+**Rafizi:** Yeah. Actually all my life, when I was in school, I wanted to be a lecturer.
+
+**Iqbal:** Teaching what subject in particular?
+
+**Rafizi:** Doesn't matter lah, I wanted to teach. That's why people say I like to lecture on and on. Actually, it's quite true, right?
+
+**Iqbal:** But back then what subject did you feel you were good at or most interested in teaching?
 
 **Rafizi:** I was very good in physics.
 
-**Host:** That's because you took a degree in electrical engineering, right?
+**Iqbal:** Okay.
 
-**Rafizi:** Yeah, that's also part of the story. Actually, I wanted to be a lawyer — sorry, I wanted to be a historian. I was very good in physics, but I was also very interested in reading history, so I wanted to be a historian. But no one was going to give a scholarship to a historian, so I decided I wanted to be a lawyer instead. But Malaysia has a system — you have to take pure science, you can't take arts subjects.
+**Chak Onn Lau:** Is that why you took an electrical engineering degree?
 
-**Host:** Oh, that's interesting — pure science was for the smart kids?
+**Rafizi:** Yeah, I mean it's like — there's a story behind that too, because I wanted to be a lawyer. Sorry, I actually wanted to be a historian, you know. I was very good in physics but I was also interested in reading history. So I wanted to be a historian. Couldn't do it lah, who's going to give a scholarship for a historian. So I wanted to be a lawyer, but Malaysia has a system where if you're pure science, you have to take pure science.
 
-**Rafizi:** No, no, it's the rule. In my time, if you did pure science, you could apply for scholarships for this and that. What I mean is, all the teachers at that time — even if you wanted to be an economist or an accountant, you had to take science, you couldn't even take arts subjects. And if you were Chinese, there was really no chance at all. So I felt that the least "engineering" in nature was actually electronics engineering, since it leaned more towards maths. That's how it ended up as electronics engineering.
+**Chak Onn Lau:** Oh...
 
-**Host:** Was it because at that time YB saw that field as having fewer people and was interested in it, or for some other reason?
+**Rafizi:** You have to take, you can't take arts subjects.
 
-**Rafizi:** Not really, not really. It's more — okay, this sounds silly, but I was 17 years old. It's a long story, because I got another scholarship before that. I got two scholarships.
+**Iqbal:** But isn't pure science for the smart kids...
 
-**Host:** How many scholarships did you get?
+**Rafizi:** No, that's really how the rule was. In my time, if you were pure science, you could only apply for scholarships for these specific fields.
 
-**Rafizi:** I got two scholarships. I got a scholarship before I even sat for SPM. At that time Exxon had a scholarship — now Exxon doesn't give scholarships anymore, this is for any Exxon people listening. Back then, in the '90s, Exxon was quite kiasu, you know. They wanted to grab supposedly top students before anyone else, so they offered scholarships based on your results from the first semester, second semester of Form 4, and the first semester of Form 5.
+**Iqbal:** But does that mean all the lawyers back then were arts students?
 
-**Host:** Wow. But how did they monitor all the schools?
+**Rafizi:** Arts, arts. All of them arts. Even if you wanted to do economics or accounting, you had to be arts. You couldn't have any science subjects at all. So...
 
-**Rafizi:** That's the elitist part — they only went to certain schools.
+**Iqbal:** Oh, interesting.
 
-**Host:** Okay, okay.
+**Chak Onn Lau:** And if you're Chinese, your parents would practically disown you as their child.
 
-**Rafizi:** So I got it. Interestingly, we have two alumni — technically Exxon "crony babies." My father, his father too — why is it like that. So that was my first scholarship, to do geology.
+**Rafizi:** So I think the least — of all the engineering fields — actually electronics engineering, because it's more about maths. That's how I ended up as an electronics engineer.
 
-**Host:** Oh, to do geology?
+**Iqbal:** Was it because at the time YB saw that the field had fewer people and you were interested in it, or was it something else?
 
-**Rafizi:** Well, this is ExxonMobil — there were officers who were already old. There were only four of us from the whole country who got the scholarship, so they treated us like kings. I remember sometime in August, they took us to their office to meet the management — I think somewhere in Shangri-La, the "international" place back then. That's it — that's how old I am!
+**Rafizi:** Not really, not really. It was more, well, it was foolish, actually. Because at 17 years old. Okay, it's a long story because I got another scholarship before that. I got a scholar...
 
-**Host:** I don't have that old, we don't have that old.
+**Chak Onn Lau:** How many scholarships did you get?
 
-**Rafizi:** So I met the head of geology, and I asked, "what do you actually learn from geology?" You're a Form 5 kid, a village kid, you don't know anything. He said, first year, you have to memorise 100 rocks.
+**Rafizi:** I got two scholarships. I got a scholarship before I even sat for SPM, you know.
 
-**Host:** Okay.
+**Iqbal:** Okay. How did that happen?
 
-**Rafizi:** Second year, memorise another set of rocks. And he sounded so fascinated with all these rocks, you know. So by the end I decided, I'm not going to be a geologist, I'm going to be PM. That was not in the plan back then.
+**Rafizi:** Back then, Exxon had a scholarship. Now Exxon doesn't give scholarships anymore. So they were, well, a bit kiasu. This is for any Exxon people listening. Back in the 90s, Exxon was kiasu, you know. So they wanted to grab the so-called top students before anyone else. So they offered scholarships based on your...
 
-**Rafizi:** So the second scholarship, besides Exxon, was even more kiasu — they gave it before the SPM results came out. Petronas was slightly less kiasu, at number 2 — they gave the scholarship before the SPM results came out.
+**Chak Onn Lau:** PMR results?
 
-**Rafizi:** So right after I sat for my SPM, I went to Petronas, and it was quite straightforward — I got the scholarship.
+**Rafizi:** No, results from the first semester, second semester of Form 4, and first semester of Form 5.
 
-**Host:** But the second scholarship — was the first one cancelled?
+**Iqbal:** Wow.
 
-**Rafizi:** No, no, I mean you decline it — you decline the Exxon scholarship.
+**Chak Onn Lau:** But how did they monitor all the schools?
 
-**Host:** Okay, interesting. So actually we've discussed a lot of things — the name Rafizi came up a lot in our episode with YB Nik Nazmi.
+**Rafizi:** No, that's the elitist part.
 
-**Rafizi:** Yes, unfortunately. No wonder I caught a fever.
+**Chak Onn Lau:** Oh, MCKK, oh okay okay.
 
-**Host:** Actually in that episode we also asked YB Nik Nazmi a question that he actually didn't want to answer.
+**Rafizi:** They only went to certain schools.
 
-**Rafizi:** What was it — about Farhaj?
+**Iqbal:** Okay, okay. And interestingly the two of us are technically both ExxonMobil alumni. We're both Exxon babies.
 
-**Host:** He did answer, he did answer — yes, a bit "evasive." The question we asked was that we wanted to understand who Farhaj is, because at the time we interviewed Nik Nazmi, you had just made a statement about Farhaj's Sabah mining companies and the connection to what was happening at the time. So at that time I was trying to correct my understanding a bit about who Farhaj is.
+**Chak Onn Lau:** My father, his father was also with Exxon.
 
-**Rafizi:** There isn't much of an issue — even Andy got sued. I didn't make any statement, I just asked a question. So our question was who is Farhaj, and how is he connected to Prime Minister Anwar Ibrahim.
+**Rafizi:** Oh, is it?
 
-**Host:** Either Nik doesn't want to answer, or he finds it awkward.
+**Iqbal:** His father, my wife's.
 
-**Rafizi:** People in PKR, most of us know a little bit. Farhaj was born, I think, in Kuala Kangsar.
+**Rafizi:** Oh, yeah. So it's like my first scholarship was to study geology.
 
-**Host:** Oh, so he went to school there too?
+**Iqbal:** Oh, then you didn't want it?
 
-**Rafizi:** No, no — he's the one from in front of Clifford.
+**Rafizi:** Well, this is — sorry, ExxonMobil — there might be old officers listening to this. So there were only four of us from the whole country who got that scholarship. So they treated us like kings, right? So I think sometime in August, they brought us to their office, ExxonMobil, to meet all these expats. Wow, impressive. I remember it was somewhere near Shangri-La. Was there one there?
 
-**Host:** Is there a rivalry with MCKK?
+**Chak Onn Lau:** Menara Antarabangsa.
 
-**Rafizi:** No, I don't know. He didn't even get a scholarship to China, so I don't know. People always ask me about his name, but I don't know. But I was told that his family — I think the father was a Filipino.
+**Rafizi:** Menara, yeah, over there right?
 
-**Host:** Oh!
+**Iqbal:** Was there no KLCC yet at that time?
 
-**Rafizi:** I was told, I was told, okay — so if you want to ask, I'll tell you later. So, I think his first appearance in the party that we noticed was sometime in 2005–2006, when he had probably just finished studying. I think he graduated from Portsmouth University and came back because he was involved in the Anwar Ibrahim Club — when Anwar Ibrahim was released from prison in 2004, he joined not long after that.
+**Rafizi:** No! I'm that old, you know. Back in my era there was no KLCC. So, anyway, we met their head of geology, right. So I asked, "What do you actually study in geology?" Right, you're a Form 5 kid, a kampung kid, you don't know anything. He told us, in the first year you have to memorize 100 types of rocks. Okay. Second year, memorize another 100 rocks! And he sounded so fascinated by all these rocks.
 
-**Host:** Were you in the same club also?
+**Chak Onn Lau:** So you didn't want it anymore.
 
-**Rafizi:** No, because we come from different generations. I joined PKR since 98–99. So when Anwar was released in 2004, I said bye-bye, because I wanted to move on with my life. Many of us who joined in 98–99 weren't actually that interested in politics [as a career] — most of the people who joined PKR early on were professionals. You lead a double life, you know — juggling between a professional career and activism.
+**Rafizi:** So going back from that, I said, "I'm not going to be a geologist lah."
 
-**Host:** Were you in charge of Amanjaya at that time?
+**Chak Onn Lau:** "I'm going to be PM."
 
-**Rafizi:** No, that was 2009. I was at Petronas — I'd just come back from the UK, that was my first job in Malaysia. So that's why we weren't in the party together at that time — I had basically moved on. I returned to the party around 2009; at that time I remember he was in the youth wing, one of them at university.
+**Rafizi:** That wasn't in the plan then. So the second scholarship, besides Exxon, was even more kiasu — they gave it before you sat for SPM. Petronas was slightly less kiasu than that. They gave the scholarship before the SPM results came out. So right after I sat for my SPM, I went to Petronas and it was quite straightforward, I got the scholarship.
 
-**Host:** 2009 was around the time of the Kajang Move?
+**Chak Onn Lau:** But the first scholarship, the second one, did you cancel the...
 
-**Rafizi:** Around? No, Kajang Move was 2014. Then, I think after that, there was a reason — I remember around 2011–2012 he disappeared, there wasn't much development. So between 2009 and 2018 — Dato' Seri Anwar went back to prison in 2015, right — between 2009 and 2012 I more or less became his chief of staff when I was CEO in Selangor, and Dato' Seri Anwar was the Selangor economic advisor at that time. So until he went back to prison in 2015, Farhaj didn't have the big influence we see now — none at all. Farhaj, after finishing with the youth wing, that was basically it for him. He only reappeared when Dato' Seri Anwar was released from prison in 2018.
+**Rafizi:** No, no. I mean you just turn it down. You turn down the scholarship.
 
-**Host:** But what does "big influence" mean here? Because he doesn't hold any position at all.
+**Iqbal:** Interesting. So actually we discussed a lot of things, and Rafizi's name came up a lot in our episode with YB Nik Nazmi.
 
-**Rafizi:** Because everyone knows a lot of the manoeuvring within the party is actually done by Farhaj. This is common knowledge — previously within the party, now even outside, everyone knows. If you look at 2018, I remember the first time I noticed Farhaj was the third or fourth day after we won in May 2018, when I was at a hospital in Cheras — Dato' Seri Anwar had not yet received his pardon. At that time there were two or three people who wanted to meet Dato' Seri Anwar — among them me, Saifuddin, Dr Rahim Ghouse... no, no, Farhaj wasn't there at all. That was the first time I noticed him, because he was queuing outside to ask to meet Dato' Seri Anwar.
+**Rafizi:** Really?
 
-**Rafizi:** But I left after 2018, you know — I packed up and said, that's it, I'm not interested in politics, and I went on to do my own things. Out of that, I think, when Anwar set up his office again at Bukit Gasing, for whatever reasons, he took Farhaj.
+**Iqbal:** Yes, unfortunately.
 
-**Rafizi:** From there, from what I heard, his influence grew immensely.
+**Rafizi:** No wonder I was sick for two or three weeks!
 
-**Host:** How old was he at that time — like 30?
+**Iqbal:** No wonder indeed. So actually in that episode we also asked YB Nik Nazmi a question that he actually didn't want to answer.
 
-**Rafizi:** Must be. How old is Farhaj now...
+**Rafizi:** What was it? About Farhash?
 
-**Host:** Why did Nik say he became political secretary to Anwar after Farhaj — or before?
+**Chak Onn Lau:** He did answer lah, he did answer but...
 
-**Rafizi:** No, before — much, much earlier. Because Nik was, what's his name, Dato' Seri Anwar's staff between 2006 to 2008. I remember, he came back and said he wanted to join Anwar's work for 6 months — I wasn't very happy about that. I don't think that's right, for two reasons.
+**Iqbal:** He dodged it. So the question we asked was, we wanted to understand who Farhash is, because at the time we interviewed Nik Nazmi, you had just made a statement about Farhash's Sabah mining companies and whatever was going on at the time related to that. So I was digging around trying to find out who Farhash actually is, and there isn't much information out there.
 
-**Rafizi:** One — out of responsibility, I feel that if something happens to him at that young age, nobody is going to look after him. Politicians, you know, when they want you to join them, they say all sorts of things — but later if something happens, you're on your own. Of course, since his family is well-off, I wasn't too worried about that.
+**Rafizi:** You'll get sued later, you'll get sued.
 
-**Rafizi:** But the other reason — I always believe that if you want to join politics as a young person just to fill a seat...
+**Iqbal:** I didn't make any statements. I only asked a question. So our question is: who is Farhash and what is his background before he became political secretary to now-Prime Minister Anwar Ibrahim?
 
-**Host:** Already have enough money?
+**Rafizi:** Either Nik didn't want to answer, or he beat around the bush, right. Those of us in PKR mostly know a bit about it. Farhash was born, I believe, in Kuala Kangsar.
 
-**Rafizi:** No — you don't need to become a politician if you already have a lot of money. What I mean is you need to bring talent, bring knowledge — you need to bring expertise, only then can you add value. If you come at age 22 and suddenly say "I want to be a great leader" — it doesn't work like that. In politics, ideally we have a group of politicians who each bring different skills for the government — like an adventure, an ensemble.
+**Iqbal:** Oh, so near your school? MCKK?
 
-**Host:** So, at this point, when YB says someone like Farhaj holds a big influence within the party, what is that influence actually used for?
+**Rafizi:** No no, he's from Clifford, the one across the road.
 
-**Rafizi:** If we look at the previous elections — in 2018, when I was fighting Azmin, Farhaj was not very involved, because I remember Dato' Seri Anwar had just been released from prison, and when the election was about to happen, he had to go to Germany for an operation, so he wasn't around at that time. But by 2022, he already had his own faction — the "Black Shirt Gang."
+**Iqbal:** Is there a rivalry between MCKK and Clifford?
 
-**Host:** Okay, can you explain what this faction is? Because when you were fighting with Azmin before, Azmin was sending all sorts of messages.
+**Chak Onn Lau:** Between those without scholarships and those with.
 
-**Rafizi:** When I had a disagreement with Dato' Seri Azmin, PKR was indeed known as a party with many factions — maybe that's not unique to PKR, but PKR's faction drama does seem to be the most entertaining to follow. PKR is an amalgamation of different groups.
+**Rafizi:** So, I don't know lah. People often ask about his name. I don't know, but I was told that, well, his family — I think the father was a Filipino.
 
-**Host:** So what is the uniting factor — is it one ideology, one shared principle? Is it Anwar Ibrahim?
+**Chak Onn Lau:** Really?
 
-**Rafizi:** No, no — that's the problem. Because even in terms of the constitution, the promise of reform and all that, at that level everyone agrees. It's the why and how that differ.
+**Rafizi:** I was told, I was told, right. So if you want to ask about his background, I'll tell you everything I know, right. So I think the first appearance that we noticed in the party was sometime in 2005, 2006, when he had probably just finished studying. I think he graduated from Portsmouth University, came back because he was involved in the Anwar Ibrahim Club. When Anwar Ibrahim was released from prison in 2004, he took a hiatus for a while, then, well, there was...
 
-**Host:** Why do they differ? Can you give an example?
+**Chak Onn Lau:** Were you in the same club also?
 
-**Rafizi:** People who joined PKR who are genuinely idealistic, like us, who wanted reform — power was never the objective for us, never. Power is [a means to] change, and I never believed that change happens simply by changing the government. Change must happen in society. So the end does not justify the means. That's why the conflict with Azmin, from the start, was about culture. For example, if we want to bring change so the country is better, but the way and the political culture we bring is the same — then you are no different.
+**Rafizi:** No no no no, I was off politics. No, because we come from different generations. Right, I joined PKR in '99, since '98. So when Anwar was released in 2004, I said bye-bye because I wanted to move on with my life, because a lot of us from that 2000, '98, '99 era, weren't really interested in politics anymore, because a lot of the people who joined PKR early on were professionals. So we led a double life, you know. You had to juggle between your professional career, your life, and activism, right?
 
-**Rafizi:** But there is also a group that sees power as everything — you must get the power first, and only by getting that power can you do good. So in order to get the power, then you must play whatever game that is. So in PKR at any one point, there must be at least two factions — one, the purists, who feel that it's okay even if it takes longer, but you have to do it step by step, methodically, because the end does not justify the means — and the antithesis on the other side.
+**Chak Onn Lau:** Was that around when you were in charge of Amanah Ikhtiar? No wait, that was...
 
-**Host:** And is the Black Shirt Gang the antithesis to YB's faction?
+**Rafizi:** No no, I was in Petronas. I was in Petronas. I had just come back from the UK, right.
 
-**Rafizi:** No, when the Black Shirt Gang started, I was no longer active in the party — I only returned to the party in March 2022.
+**Iqbal:** Your first job at the time?
 
-**Host:** Before G15?
+**Rafizi:** In Malaysia, my first job in Malaysia, right. So because of that we weren't in the party together, you know. I had, basically, moved on. Then I came back to the party around 2009. At that time I remember he was in the Youth wing. One of the exco members of the Youth wing.
 
-**Rafizi:** Before G15, before the 2022 election. At that time, the Black Shirt Gang styled themselves as defenders of Anwar Ibrahim.
+**Iqbal:** Was 2009 around the time of the Kajang Move?
 
-**Host:** Okay.
+**Rafizi:** Around — no. Kajang Move was 2014. That's much later.
 
-**Rafizi:** So, they positioned themselves as though Anwar Ibrahim is everything. It's not that different, if you read history — look at the last stretch of Mao Zedong's life, before he died — you had the Gang of Four.
+**Rafizi:** Then I think after that, there was some reason — I remember around 2011, 2012 he disappeared. He just disappeared, not much happening there. So between 2009 and 2018, well, until Datuk Seri Anwar went back to prison in 2015, right. So between 2009 and 2012, I was more or less his Chief of Staff when I was CEO in Selangor, as an advisor to Datuk Seri Anwar, an economic advisor for Selangor, right. So until he went back to prison in 2015, Farhash didn't have the kind of major influence that we see now — none at all. After Farhash finished his stint in the Youth wing, that was basically it for him there. He only reappeared when Datuk Seri Anwar came out of prison in 2018.
 
-**Host:** [laughs]
+**Iqbal:** But what do you mean by "major influence"? Since he doesn't hold any official position...
 
-**Rafizi:** The Gang of Four, who couldn't touch — I mean, no one could touch them — and everyone had to sing to Mao Zedong's tune.
+**Rafizi:** That's exactly the dangerous part, right. Because everyone knows that a lot of the maneuvering within the party is done by Farhash. So...
 
-**Host:** No, you're a history teacher!
+**Chak Onn Lau:** Is this like common knowledge?
 
-**Rafizi:** I could open a history class! So I see the Black Shirt Gang has that same style, because their political power and influence come from Anwar Ibrahim. But ideologically, there's nothing there — there's no such thing as "the king can do no wrong." But I have reminded Dato' Seri Anwar that the Black Shirt Gang's way is more dangerous than Azmin's "ends justify the means."
+**Rafizi:** Common knowledge. Used to be within the party, now it's outside too. Everyone knows already, right. So if you look at 2018, I remember the first time I noticed Farhash was on the third or fourth day after the May 2018 win, at Hospital Cheras. Datuk Seri Anwar hadn't received the royal pardon yet. At that time, the people coordinating who could meet Datuk Seri Anwar were two or three of us: me, Saifuddin, Dr. Rahim Ghaus. Farhash was nowhere near. That's when I first noticed him because he was queueing outside, asking to meet Datuk Seri Anwar, right. But I left after 2018, you know. I packed up and said, you know, that's it, I'm not interested in politics, and went on to do my own things. Out of that, I think, when Anwar set up his office again in Bukit Gasing, for whatever reason he took Farhash in. From that point on you can see, from what I heard, his influence rose immensely. And yes, Farhash...
 
-**Host:** Can you give an example of why?
+**Chak Onn Lau:** How old was he at that time? Around 30, early 30s?
 
-**Rafizi:** You'd have to ask Anwar Ibrahim why he lets them be that way.
+**Rafizi:** Must be lah. How old is Farhash actually?
 
-**Host:** Let's invite Anwar Ibrahim to come to Sos Cili — he can ask that question, because we want to know too.
+**Chak Onn Lau:** Because YB Nik said he became Anwar's political secretary after Farhash, right?
 
-**Rafizi:** Yes, exactly.
+**Iqbal:** Or before?
 
-**Host:** Okay, actually you're going to be the first minister to attend our podcast who is still working — oh, actually you're no longer a minister now. Actually we've opened up a space for questions from our viewers, and...
+**Rafizi:** No, before. Much, much earlier. Because Nik was, what do you call it, Datuk Seri Anwar's staff between 2006 and 2008. It started because I remember, he'd been working for 6 months and then said he wanted to go join Anwar. I wasn't too happy about it. I said, I don't think that's right.
 
-**Host:** But before that I want to ask more. YB said "ends do not justify the means" — but for me, because I've followed your career for a long time, during the Kajang Move, it seemed like that was exactly the ends justifying the means.
+**Iqbal:** Why?
 
-**Rafizi:** If anything, I think the Kajang Move is proof — you can say whether we are naive or not, it is proof that we are such purists. Because the late Tan Sri Khalid did have a case — no one disputes his case with the Islamic bank. He had RM70 million, and that matter had been known since the first day he became Menteri Besar in 2008, but it wasn't resolved, wasn't resolved, wasn't resolved — then suddenly the case was settled out of court. So in our view at the time, you have already been compromised. You can debate whether that was a good political strategy, but the purists in the party felt you must defend [the integrity of the party] — at that time PKR only had one Menteri Besar, you cannot allow the highest public official [from our party] to be exposed to all these accusations.
+**Rafizi:** Well, two reasons lah. One, I think, out of a sense of responsibility, I felt that if something happened to him at that young age, nobody would look after him. Politicians, when they want you to join them, say all sorts of things. Then if something goes wrong, you're on your own, right? Of course, for Nik it was okay lah, he comes from a wealthy family. Never mind, I don't think he was too worried about it. But the other reason, I always believe that if you want to join politics as a young person, you must bring something to the table.
 
-**Host:** But what is YB's view on Zahid Hamidi, or everyone from UMNO currently [in the government]?
+**Chak Onn Lau:** Money lah.
 
-**Rafizi:** [confusion over the name] Yeah, yeah, please don't sue me — Zahid Hamidi. No, I think... okay, what choice — if you are in our shoes, what choice would you have made on that day?
+**Rafizi:** No! That's not what it is. If you already have lots of money, you don't need to become a politician, right.
 
-**Host:** It's true, yeah. What choice would you have made?
+**Iqbal:** Bring talent, bring knowledge...
 
-**Rafizi:** The Agong said to form a unity government with all parties, and that means you have to include UMNO. So when the Agong called Muhyiddin, Muhyiddin refused. The Agong called Dato' Seri Anwar — you have to form a unity government, otherwise there will be no government. So if you are in that position, what would you have done? Well, if it's "the ends justify the means," then you would just take it. No, no, no, that is not the ends justifying the means.
+**Rafizi:** Yeah yeah, you have to bring expertise. Only then can you add value. If you come in at age 22 and suddenly say you want to be a great leader, it doesn't work like that, you know. Everyone must bring something to politics so that when we have a group of politicians, if they form the government, we have a diverse range of expertise, right?
 
-**Host:** Because the circumstances were very different at that time — do you want to have another general election?
+**Chak Onn Lau:** Like the Avengers lah.
 
-**Rafizi:** No.
+**Rafizi:** Like the Avengers.
 
-**Host:** Then what would you do?
+**Iqbal:** Right. So currently, when YB says someone like Farhash holds major influence in the PKR party, what is it toward — what end? What is that influence used for?
 
-**Rafizi:** I understand — yes, yes, yes. But in that case, the purist would say, theoretically, that we know [the principled position] is not to enter that arena at all. But if you look at it, we tried our best to make sure that the arrangement was sealed by an agreement — there is an agreement, there is a clear charter of what you can and cannot do, common principles and so on. I think it's the lesser of the two evils that we have to live with. The issue, I think, is not so much about forming the government — the issue is that after you form the government, how you act, because that becomes fluid. When it becomes fluid, then the pace of reform becomes subjective. Until when can we say, "oh, we're the government, therefore we can't just do 1, 2, 3, 4"? At some point, I think you must draw the line.
+**Rafizi:** If you look at the past party elections, in 2018 when I contested against Azmin, Farhash wasn't very involved because I remember Datuk Seri Anwar had just come out of prison. Then when the election was about to happen, he had to go to Germany for surgery and all that. So he wasn't around, right. But by 2022, he already had his own faction, the "black shirt gang."
 
-**Host:** Okay, actually we've touched on a few issues already, but there are a few more questions we wanted to ask. Just now...
+**Iqbal:** Okay. So can you explain what this faction is? Because since your disagreements with Azmin way back, PKR has been...
 
-**Host:** Oh, sorry, sorry. So, there's one question — you said you wanted to ask about Farhaj.
+**Rafizi:** It's not really a fight lah.
 
-**Host:** Yes, yes, yes. So — yesterday, YB had a connection to the attack that had just happened...
+**Iqbal:** You had your disagreements.
 
-**Rafizi:** I didn't have a connection — I just clarified...
+**Rafizi:** Azmin still sends me messages, you know. It's not really a fight.
 
-**Host:** Okay, sorry. There was slander being spread, and it was unfair to Ismail Sabri and KJ. So, I understand that YB encouraged Dato' Seri Ismail Sabri to lodge a police report?
+**Iqbal:** When you had your disagreements with Dato' Seri Azmin, PKR was known as a party with many different factions. I mean, maybe that's not unique to PKR, but PKR's drama always seems to look exciting to watch.
 
-**Rafizi:** No — he told me that he would make a police report, so I said good, go ahead, I will do my part, he has to do his part.
+**Rafizi:** Because of PKR's origins — PKR is an amalgamation of different groups.
 
-**Host:** And YB himself has clarified that the whistleblower who met with YB one, two weeks ago was related to Farhaj. Actually, could YB share what this case is about — or is it still ongoing?
+**Iqbal:** But then what's the uniting factor? Is it a shared ideology, a common guiding principle? Is it Anwar Ibrahim?
 
-**Rafizi:** The process is that once you focus on something, people will come forward with information. That information isn't like a complete investigation paper — it's all over the place, so you have to find more information. I myself have had this experience since the NFC days and so on — it's the same process. So, it's a work in progress.
+**Rafizi:** No no, well, okay, that's the problem, right. Because even though, in terms of the constitution, in terms of the commitment to reform, at that level everyone agrees, right. The why and the how differ.
 
-**Host:** I have a question — did the gathering of information about Farhaj happen before or after YB resigned as Minister?
+**Iqbal:** The why differs?
 
-**Rafizi:** I am aware — for example, when you are in the government, you become aware of certain contracts, people talk about this contract, then you read from the media — the media report, the company is this company — then we have friends in the corporate world, in the banks, in the legal fraternity who will tell you this and that. As for the issue concerning Farhaj, people have been talking about it for a long time. It's just that the whistleblower came forward after I said Farhaj needed to be investigated, because I believe that was the first time any politician stated it openly about Farhaj. So when you do this so-called investigative work, the moment you send out that signal, it's up to you where it leads.
+**Rafizi:** The why differs, the why and how differ. For example, for people who joined PKR who were truly idealistic like us, who wanted to bring about reform, power is not an objective, you know. It's never an objective — power never is. It's the change that matters. And that change, I've never believed that change happens just because you change the government. Change must happen in society. So the end does not justify the means, right? So that's why there was friction, for example with Azmin before, it's about culture. If, for example, we say we want to bring change so that with that change the country becomes better, but the political culture and methods we bring are the same, then you are no different, right? But there's also a group that sees power as everything. You supposedly must get power first. With that power, only then can you do good. So in order to get power, you must play whatever game it takes, lah. So within PKR at any given point, there will be at least these two factions. The one, the purists, who feel that even if it takes longer, you have to do it step by step, methodically, because the end does not justify the means. And of course, there's the antithesis, the other side, lah.
 
-**Host:** Okay, so if this has been an open secret all along, everyone already knows, people have been whispering about it, why did it take so long for YB to become the first person to raise this issue?
+**Iqbal:** And is the black shirt gang the antithesis to YB's faction?
 
-**Rafizi:** I don't know what "took so long" means.
+**Rafizi:** No, when the black shirt gang started — by that time I wasn't active in the party anymore, you know. I only returned to the party in March 2022, before GE15, the 2022 election, right. At that time, the black shirt gang styled themselves as defenders of Anwar Ibrahim.
 
-**Host:** How did it become that you were the first person to raise this issue?
+**Iqbal:** Okay.
+
+**Rafizi:** So they positioned themselves as, Anwar Ibrahim is everything. Who — I mean, it's not that much different if you read history, right. If you look at the last stretch of Mao Zedong's era, before he died, right, you had the Gang of Four, you know. The Gang of Four — nobody could touch them at all as long as Mao was around. Everyone had to sing praises about Mao Zedong, right.
+
+**Iqbal:** Good thing I had a history teacher.
+
+**Rafizi:** Ha, a history teacher, right.
+
+**Chak Onn Lau:** We have a job opening at Cilisos.
+
+**Rafizi:** Sure, sure, I could teach a history class, right. So I see the black shirt gang's style as being like that, because their political power and influence come from Anwar Ibrahim.
+
+**Iqbal:** But ideologically, what is it?
+
+**Rafizi:** There isn't one, there isn't one. There's no ideology at all with these people.
+
+**Chak Onn Lau:** It's like "Long live the king" lah.
+
+**Rafizi:** There's nothing. I did once remind Datuk Seri Anwar that actually the black shirt gang's approach is more dangerous than Azmin's "the end justifies the means" approach. Because...
+
+**Chak Onn Lau:** But why, why does the PM let them be?
+
+**Rafizi:** You'd have to ask Anwar Ibrahim that.
+
+**Iqbal:** If Datuk Seri Anwar Ibrahim would be willing to come onto our show...
+
+**Rafizi:** You could invite Anwar Ibrahim to come on Sos Cili, ask him, ask him that question. Because we also want to know!
+
+**Chak Onn Lau:** The first minister to appear on our podcast who is still serving.
+
+**Rafizi:** Go ahead, insult me!
+
+**Chak Onn Lau:** Everyone else has been a former minister.
+
+**Iqbal:** So actually we've opened up a space for questions from our viewers, and so...
+
+**Chak Onn Lau:** But before that, I want to ask more. YB said "ends do not justify the means," right? But for me, because I've also followed your career for a long, long time — during the Kajang Move, it seemed like that was the ends justifying the means.
+
+**Rafizi:** If anything, the Kajang Move, I think, is proof — you can say whether we were naive or not — proof that we are such purists. Because Tan Sri Khalid, the late Tan Sri Khalid, indeed had a case. No one disputes his case with Bank Islam, right? He had 70 million. And that matter had been known since the first day he became Menteri Besar in 2008. But it kept dragging on unresolved. Then suddenly the case was settled out of court. So in our view at the time, you had already been compromised. So you can debate whether that was, what do you call it, a good political strategy or not. But the purists in the party said you must defend, what do you call it, the anti-corruption integrity of the party — at that moment, PKR only had one Menteri Besar. You cannot allow the most senior public official to be exposed to all these accusations.
+
+**Chak Onn Lau:** But what do these purists say about Zahid Hamidi or all the UMNO people currently in government? Zahid Ibrahim?
+
+**Iqbal:** Zahid Hamidi.
+
+**Chak Onn Lau:** Zahid Hamidi, sorry. Zahid Hamidi.
+
+**Rafizi:** Zahid Hamidi.
+
+**Chak Onn Lau:** Please don't sue me! Zahid Hamidi.
+
+**Rafizi:** No, I think, yeah, what do you call it — no, there is — okay, what choice — if you were in our shoes, what choice would you have made on that day?
+
+**Chak Onn Lau:** That's true.
+
+**Rafizi:** Yeah, what choice would you have made? The Agong said to form a unity government with all parties. And that means UMNO had to be included. So when the Agong called Muhyiddin, Muhyiddin flatly refused. The Agong called Datuk Seri Anwar — you have to form a unity government. Otherwise, there's no government. So if you were in that position, if you were in my position at that time, what would you have done?
+
+**Chak Onn Lau:** Well, if the ends do justify the means, then you would take it.
+
+**Rafizi:** No no no, that is not the ends justifying the means because the situation was very different at the time. Do you want to hold another general election?
+
+**Chak Onn Lau:** No.
+
+**Rafizi:** Then what else could be done?
+
+**Chak Onn Lau:** I understand, I really do understand. But in that case, you know, the purists would be angry, right?
+
+**Iqbal:** In theoretical terms, yes.
+
+**Chak Onn Lau:** In theoretical terms, for those who aren't in the political arena.
+
+**Rafizi:** Okay, but if you look at it, we tried our best to make sure that the arrangement was sealed by an agreement — there is an agreement, there is a clear, what do you call it, charter of what you can do, what you cannot do, common principles and so on. So given the circumstances, I think it's the lesser of two evils that we have to live with. I think the issue isn't so much about forming the government. The issue is that after you form the government, how you act, because that's fluid, you know. When it's fluid, reform — the pace of reform — becomes subjective. Until when do we say, "Oh, we're a unity government and therefore we can't do 1, 2, 3, 4"? At some point I think you must draw the line.
+
+**Iqbal:** Okay. Actually we've already touched on several issues, and there are a few more questions our audience has submitted. But earlier...
+
+**Chak Onn Lau:** Oh sorry sorry sorry.
+
+**Iqbal:** So there's a question from...
+
+**Rafizi:** You said earlier you wanted to ask about Farhash?
+
+**Iqbal:** Ah yes, this, this. So yesterday YB linked the recent attack on your child...
+
+**Rafizi:** I didn't link it. I just clarified because there's slander circulating, and it's not fair to Ismail Sabri and to KJ.
+
+**Iqbal:** So these accusations — I understand YB has encouraged Dato' Seri Ismail Sabri to lodge a police report...
+
+**Rafizi:** No no, he told me he would lodge a police report. So I said good, go ahead. I'll do my part, he has to do his part.
+
+**Iqbal:** And so YB has also clarified that the whistleblower who met with YB last week, two weeks ago, however many weeks ago, is related to Farhash. Actually, what — could YB share what this case is about?
+
+**Chak Onn Lau:** Or is it still ongoing?
+
+**Rafizi:** Maybe not — not ongoing — it is ongoing. The process is, you know, when you focus on something, then people will come forward with information. That information isn't like a full investigation paper, a complete investigation dossier. It's all over the place. So you have to...
+
+**Iqbal:** But YB himself has experience doing, what, investigative journalism, back in the NFC era and so on.
+
+**Rafizi:** Yeah yeah yeah. It's the same process. It's the same process. So, it's a work in progress. It's a work in progress.
+
+**Chak Onn Lau:** I have a question for you.
+
+**Rafizi:** Go on.
+
+**Chak Onn Lau:** Okay, my question is — this gathering of information about Farhash, did this happen before or after YB resigned as minister?
+
+**Rafizi:** No, I've been aware — for example, when you're in government, you become aware of a contract, people talk about this contract, then you read from the media, media reports, this company, that company. Then we have friends in the corporate world, in banks, in the legal fraternity who will tell you things. So the issue concerning Farhash, people have been talking about it for a long time. It's just that this informant came forward after I mentioned that Farhash needs to be investigated, because I think that was the first time any politician stated openly, you know, about Farhash, by name. So you know, when you do so-called investigative journalism, the moment you send out that signal, then people come forward. Then you piece things together one by one. It's up to you where it leads you.
+
+**Iqbal:** Okay. So if this has been an open secret all along, everyone already knew, people were whispering about it, why did it take so long until YB became the first person to raise this issue?
+
+**Rafizi:** I don't mean it took a long time, what do you mean?
+
+**Iqbal:** How did it become that you were the first person to raise this issue?
 
 **Rafizi:** I don't know, you'd have to ask other people, I suppose.
 
-**Host:** In all the whispers that have gone on all this time, has no one ever asked Dato' Seri Anwar? People say people are afraid of Farhaj.
+**Iqbal:** Among all the whispers that have gone around all this time, has no one ever asked Datuk Seri Anwar?
 
-**Rafizi:** Is that so? I don't know, you should ask other people, because I don't [know]. It's just that before I resigned, any issue concerning Farhaj — because if you mention Farhaj, he will be linked to Dato' Seri Anwar — so this matter needed to be raised internally with Dato' Seri Anwar.
+**Rafizi:** Are you actually trying to get me to say people are afraid of Farhash?
 
-**Host:** To YB's knowledge, was this raised repeatedly?
+**Iqbal:** Is that so? Is that so?
 
-**Rafizi:** But Dato' Seri Anwar's answer was always the same — he said Farhaj is his former political secretary. It's not an issue of whether Farhaj is a former or current office holder. The point is that when there's talk from many people inside and outside the government indicating that Farhaj has huge influence over government decisions — whether it's true or not, even if it's not true, that perception itself is already dangerous. So it was indeed raised with Dato' Seri Anwar, but the answer was always the same — "he's my former political secretary," nothing else — for me, the Farhaj issue has been whispered about for a long time.
+**Rafizi:** I don't know, you should ask other people. Because I don't, I don't. It's just that before I resigned, any issue concerning Farhash — because if you mention Farhash, he'll be linked to Datuk Seri Anwar, right? So this matter needed to be raised internally with Datuk Seri Anwar. And indeed...
 
-**Host:** But the opposition hasn't taken the opportunity to bring his name out in the media either.
+**Iqbal:** To YB's knowledge, has it ever been raised?
 
-**Rafizi:** This investigative work is difficult, difficult. I just paid attention — there were also opposition party members who were sued by Farhaj. But for several issues he wants to raise, it's enough for him just to say he's done his job. It's not that simple — it takes a lot of work to check things one by one, confirm everything, build the case. And if, for example, we disagree with a certain policy, it's not enough to just disagree, you need to explain why, what the alternative is, calculate it, do the projections, all of that has to be done. So I see that the opposition doesn't reach that level — their game is just to bring it up hoping people will get angry. Recently, between 2024 and early 2025, opposition support has plateaued.
+**Rafizi:** Yes, yes, yes. We ourselves have raised it many times. But Datuk Seri Anwar's answer was — he said, "He's my former political secretary." It's not a matter of whether Farhash is a former or current office holder. The issue is that when there's talk from many people inside and outside government indicating that Farhash has significant influence over government decisions — that certainly needs to be addressed, right? Even if it's not true, the perception itself is dangerous. So it was indeed raised with Datuk Seri Anwar, but his answer was as I said: "There's no connection, he's my former political secretary."
 
-**Host:** Yes, that's right.
+**Chak Onn Lau:** What's strange to me is that the Farhash issue seems to have been whispered about for a long time, right? But the opposition hasn't taken the opportunity to bring his name out into the media at all.
 
-**Rafizi:** It's plateaued because there's only so much you can extract from emotion, you know — you're basically beating the same drum, so eventually people get bored. But actually there are many issues that could be studied now, if I were in the opposition. But I see that they're lazy.
+**Rafizi:** The opposition is lazy! Lazy!
 
-**Host:** Is it fun being in the opposition?
+**Iqbal:** Doing investigative work is hard, it's tough.
 
-**Rafizi:** I don't know, I'm not the opposition.
+**Rafizi:** I've just been observing them. They actually...
 
-**Host:** But looking back at your time as opposition, was that period more fun than now?
+**Iqbal:** There are opposition members who have been sued by Farhash before, there are.
 
-**Rafizi:** You can't compare, but you must understand — during my time as opposition, I had 14 cases. That's something you could go with, that was also fun in a way. Every month I ended up in the lock-up. So I think you guys, when you make fun of the government, you have to put that into perspective — and not ending up in the lock-up is already a big achievement.
+**Rafizi:** Yes, yes. No no, but I mean, whatever issue they want to raise, for them just mentioning it counts as having done the work. It's not, you know. It takes so much work to check each thing one by one, confirm everything, build the case. And if, for example, we disagree with a certain policy, it's not enough to just disagree — you need to explain why, what the alternative is, the calculations, the projections, all of that has to be done. So I see the opposition hasn't reached that level. So their only play is just to mention something, hoping people get angry. Mention it, people get angry. That's why I've noticed that recently — between 2024 and early 2025 — opposition support has plateaued. It's flattened out. Because there's only so much you can extract from emotion, you know. You actually need to build a case.
 
-**Host:** I want to ask about that point, YB, because after the attack that happened, many people shared their opinion that whatever you say about the BN government back then, YB never insulted the BN government to the point where YB's own family got hit. Do you agree with that assessment — that the BN government was better before, because at least in the past your family wasn't attacked?
+**Chak Onn Lau:** The same drum, right?
 
-**Rafizi:** I think that's not an apple-to-apple comparison. Are we saying, do we want to say that putting me in prison for 3 years, in a condition where my children were only 5 years old, that's not cruel? I mean, slapping me with 14 cases, every week, sometimes ending up in the lock-up — isn't that cruel? Whether it's about children or something else, it's all the same. This is about when there's any pressure or threat from a party that feels threatened. In the current case, I don't know who, but the party that feels threatened chose a violent method. It's just that during the BN era, I remember during Najib's time, it involved the entire government apparatus — even non-government apparatus was involved. So I wasn't hit alone.
+**Rafizi:** Same drum, all of it. So eventually people get bored. But actually there are plenty of issues. If I were the opposition, I would be cooking the current government alive! But I see they're lazy, they're...
 
-**Host:** On that note, let's move on to the next question.
+**Chak Onn Lau:** Is it more fun being in the opposition?
 
-**Host:** Oh, okay, this one's no longer about Farhaj.
+**Rafizi:** I don't know, I'm not in the opposition now.
 
-**Host:** It's still Farhaj-light, this one.
+**Iqbal:** But looking back at your time as an opposition member, was that period more enjoyable than now?
 
-**Host:** Ok, ok — at least it's not MCKK like Victor's.
+**Rafizi:** You can't compare, because you have to understand, during my time in the opposition, I had 14 cases.
 
-**Rafizi:** No, no, no. MCKK is already done — for sure.
+**Chak Onn Lau:** You got to wear the purple outfit, that was fun too.
 
-**Host:** Ok, so this is the last question about Farhaj — okay, not directly about Farhaj. I have a friend who asked, because YB himself has been attacked — this one, the injection one.
+**Rafizi:** Yeah, I was in the lockup every month. So I think, you guys, when you make fun of the government, you have to put that into perspective, you know. The fact that you can say all this and not end up in the lockup — that's already a big achievement.
 
-**Host:** We have other cases where people get attacked, and then people blame the government in some way or other — the case of Pastor Raymond Koh, Pamela, Teoh Beng Hock. So now YB has entered the government — what are your feelings about this incident? Is it the same, or not? In incidents like this, people will use the term "deep state."
+**Iqbal:** Actually I wanted to ask about that point, YB. Because after the attack happened, many people shared their opinion that whatever you say about the BN government of the past, but never during your time criticizing the BN government did your own family get attacked. Do you agree with that assessment — that supposedly the BN government back then was better because at least back then your family wasn't attacked?
 
-**Rafizi:** Deep state, yes indeed. I mean, I don't think every case can be put in one box — apple to apple. It's not apple to apple, every single one has its own unique factor, its own circumstances. But when it comes to — when these cases cannot be resolved, of course people ask why, and usually one thing that always becomes — I wouldn't say it's a dilemma, but a big consideration in the government or government departments — is to maintain their reputation. That has to change. What I mean is, if we say "deep state," sometimes it's unfair to many other government officers — because the majority of government officers are just like us, they just want to do their job well. But there are bad apples — bad apples who sometimes go rogue, or take bribes, or take orders from other people. It's just that once it happens, if it involves government officers, then the consideration — this defence mechanism that we must protect [our reputation], otherwise our name gets tarnished — that needs to change. We don't have the facts of the case, and we're not privy to every little detail of each case, people say all sorts of things — some say deep state, some say the authorities involved. I don't think as a whole, for example if it's the police — I don't think the whole of PDRM condones it. But those who make decisions, usually, even if not involved, think, "if we do this, police morale will drop," or if a minister says, "we'll be seen as not protecting law enforcement." Maybe from that angle.
+**Rafizi:** I think that's not an apples-to-apples comparison. Are we saying — are we saying that putting me in prison for three years when my child was only 5 years old wasn't cruel? Huh? I mean, slapping me with 14 cases, sometimes going to the lockup every week — wasn't that cruel too? Right? I mean, the story about the child or whatever, it's all the same thing. This is about when there's any pressure or threat, the party that feels threatened — in the current case I don't know who — but the party that feels threatened chooses a violent method, right? It's just that back in the BN era, I recall in Najib's time, he used the entire government apparatus.
 
-**Host:** What is YB's relationship with the police, because previously you were arrested, and now you're asking them to arrest other people?
+**Chak Onn Lau:** Cement blocks weren't even from the government.
 
-**Rafizi:** I don't — I mean that's another thing. A minister can't interfere at all. As a citizen now, of course, it's like asking the police to investigate.
+**Rafizi:** Cement blocks and everything. So I wasn't hit, others were hit.
 
-**Host:** So, how is the way the police handle this case different?
+**Iqbal:** So on that note, let's move to the next question.
 
-**Rafizi:** There's no difference. I think if people assume that you can order the police around because you're a politician or a minister, that's wrong, you know. We need to correct that perception — the law, and each of us is subject to the same law. So if, for example, I were arrested, accused of breaking certain rules, I would need to be investigated too. That's actually why I think the police like me — when I was arrested, I didn't do anything, I didn't try to bite anyone's ear, I didn't try to run, they told me to walk, I walked.
+**Chak Onn Lau:** Yeah, so...
 
-**Host:** Okay, YB, but the principle is that we are all subject to the same law...
+**Rafizi:** Oh okay, not Farhash anymore, huh?
 
-**Rafizi:** Maybe that's theoretically correct, but we see many examples where the law isn't...
+**Chak Onn Lau:** No, this one is still Farhash-lite. Okay okay.
 
-**Host:** ...isn't applied equally. For example, a mother who steals milk for her child is jailed for several days, while people who steal millions of ringgit...
+**Rafizi:** At least it's not MCKK like Victor's.
 
-**Rafizi:** There is indeed a strong perception of that. That has to be asked of the courts and also the judges. I always defend judges — but I hope, I want to share a story. When I was in the UK, every summer during my holidays, one thing I never missed was spending a week sitting in court.
+**Chak Onn Lau:** Ha, no, no, no, no. MCKK is done already. That was last year already. Okay, so this is the last question about Farhash, okay. And it's not directly about Farhash. I think a friend of his asked, because YB has also been attacked — this recent stabbing, right? We have other cases — people get attacked and then people are blaming the government in some way or other. The case of Pastor Raymond, you know, Pamela, Teoh Beng Hock. So now YB is in government, and then, you know, what is your feeling about these incidents?
 
-**Host:** Where is the court?
+**Iqbal:** So the...
 
-**Rafizi:** The court is in Kemaman, in Kuantan. I would sit there — every day I would go to court, because if you want to learn about society, the best place is in court. That's the drama of humanity.
+**Chak Onn Lau:** Is it the same as the attack on...
 
-**Host:** That's your activity — other people go clubbing, and you sit and listen!
+**Iqbal:** In these cases people will use the term "deep state."
 
-**Rafizi:** Actually, I wish for one thing — I wish more of our judges were brave enough to exercise compassion, because I've seen judges, and I distinctly remember a female judge at the Kemaman Magistrate's Court — this was in 1996 — there was a mother accused of stealing milk. She had no lawyer, so it went straight to sentencing, and she pleaded guilty. The judge said, "don't plead guilty, don't plead guilty, don't plead guilty" — you know, "no, no, don't plead guilty."
+**Chak Onn Lau:** Yes, deep state, that's right.
 
-**Rafizi:** So I wish — because when such unequal sentences are handed down, stealing milk resulting in six months in prison — to be fair to the government, whether during Najib's time, Anwar's time, or whoever's time in the future, that's not the government's doing — it's the judge who hands down the sentence. Of course, the government can be blamed if people want to say it hasn't amended the Penal Code, but the theft provision in the Penal Code is usually broad. If anything, the government is at fault for not reforming the Penal Code to make finer distinctions, but it depends a lot on the prosecutor, the DPP. That's why I always feel that changing the government isn't everything for the change we want in society — we need more empathy, defending the weak. So, where does this injustice come from?
+**Rafizi:** I mean, I don't think every case can be lumped into one basket. It's not apples-to-apples for every single one. Each has its unique facts and circumstances. But when it comes to...
 
-**Host:** So, when YB was a politician, you say you faced various judges, and ended up in the lock-up many times. But we don't see this happening often to people within the government.
+**Chak Onn Lau:** The existence of the deep state.
+
+**Rafizi:** When it comes to situations where these cases cannot be resolved, of course people ask why is that? And usually, one thing that always becomes — I wouldn't say it's a dilemma — it becomes a major consideration within the government or government departments is protecting their reputation. That's what we need to change. What I mean is, when we say "deep state," sometimes it's also unfair to many other government officials. Because the majority of government officials are just like you and me. They just want to do a good job. But there are bad apples. Bad apples who sometimes go rogue, or take bribes, or take orders from someone else — that happens. It's just that once it happens, if it involves a government official, for example, then the consideration — I mean this defense mechanism that we must protect ourselves, otherwise our reputation will suffer — that needs to change. So I don't know, we don't have the facts of the case and we're not privy to every little detail, what do you call it, of each case. People say all sorts of things, some say it's the deep state, some say it's the authorities involved and so on. I don't think as a whole — for example with the police, I don't think PDRM as a whole condones it. But those who make the decisions, usually even if they're not involved themselves, will think, "Oh, if we do this, police morale will drop. If the minister says we'll be seen as not protecting," what do you call it, "law enforcement."
+
+**Chak Onn Lau:** Maybe from another angle — what is YB's relationship with police officers? Because in the past you got arrested, and now you're asking them to arrest others?
+
+**Rafizi:** I don't — I mean, that's another thing. A minister cannot interfere at all, you know.
+
+**Chak Onn Lau:** No, as a citizen, right? Now, like your kid got attacked, so of course you'd be like asking the police to investigate, right? So how is the difference in the way that the police...
+
+**Rafizi:** There's no difference.
+
+**Chak Onn Lau:** No difference?
+
+**Rafizi:** That too, I think — if we assume that you can order the police around just because you're a politician or a minister, that's wrong, you know. I — that's it, okay.
+
+**Iqbal:** Okay, please correct that perception.
+
+**Chak Onn Lau:** Yes, correct that perception because the perception really does exist.
+
+**Rafizi:** Because each one of us has equal rights under the law. And each of us is subject to the same law. So for example, if I'm arrested, I'm accused of violating a certain regulation, I need to be investigated and so on — I'm subject to it, that's it. That's why I think the police all liked me when I was arrested. I didn't cause trouble, I'm not like Tian Chua biting someone's ear. I didn't try to cause chaos. He told me to walk, I walked.
+
+**Iqbal:** Okay YB, but the principle that we're all equal under the eyes of the law might be theoretically correct. But we see many examples where the law can't possibly be...
+
+**Chak Onn Lau:** Applied evenly.
+
+**Iqbal:** Yes, in terms of — for example, a mother who steals milk for her child gets a few days in prison, while someone who steals millions of ringgit, corruption...
+
+**Chak Onn Lau:** There really is a strong perception that...
+
+**Rafizi:** You'd have to ask the Attorney General's Chambers and also the judges about that.
+
+**Iqbal:** Okay.
+
+**Rafizi:** I mean, I always defend judges. But I hope — and I want to share a story. When I went to the UK, every summer during the holidays, one thing I never missed — I would spend a week sitting in court.
+
+**Chak Onn Lau:** Why?
+
+**Iqbal:** Court where?
+
+**Rafizi:** Court in Kemaman, in Kuantan, all of them. I would sit there — I mean, every day I would go to court. I'd sit there because if you want to learn about society, the best place is in a courtroom. That's where you see the joys and sorrows of humanity, you know.
+
+**Iqbal:** That was your summer holiday activity.
+
+**Rafizi:** Other people go camping, I sit in court, listening. Actually, I wish for one thing. I wish more of our judges dared to exercise compassion. Because I've seen judges before, and I distinctly remember a female judge at the Kemaman Magistrate's Court, you know, that was 1996. What do you call it, there was a mother who was charged with stealing milk. She didn't have a lawyer. So at sentencing, she pleaded guilty. The judge said, "Don't plead guilty, don't plead guilty, don't plead guilty!" You know, "No no, don't plead guilty," like that. So I wish — because when unequal sentences are handed down, stealing milk gets 6 months and so on — to be fair to the government too, whether it was Najib's era, or Anwar's era, or in the future whoever's era, that's not the government, you know! That's the judge who hands down the sentence! Of course the government can be blamed if people want to say, "You didn't amend the Penal Code for theft." But the Penal Code is usually broad, covering theft in general terms. If anything, the government is at fault for not reforming the Penal Code to further differentiate between such cases. But it depends a lot on the public prosecutor, on that side of things. So that's why I always feel that changing the government is not the be-all and end-all of everything. You want to change society to be more, you know...
+
+**Iqbal:** Fair, balanced, more empathetic.
+
+**Rafizi:** More empathetic about it, so...
+
+**Chak Onn Lau:** So where does this imbalance come from? So when YB was in the opposition, you said you had multiple charges and went to jail multiple times. But...
+
+**Rafizi:** Just the lockup, not prison yet.
+
+**Chak Onn Lau:** Lockup, lockup, sorry, lockup, lockup. But you don't see that happening very often to people in the government.
 
 **Rafizi:** What do you mean?
 
-**Host:** Like an active minister, or a winning party — activists from the government side who end up in prison, in Malaysian history.
+**Chak Onn Lau:** Like the active ministers or the winning party, right? It's the opposition that's gone to prison more often in the history of Malaysia. So if it's not from...
 
-**Rafizi:** Well, now we have a Prime Minister who was once in prison.
+**Rafizi:** Hey, now we have a Prime Minister who has been to prison before.
 
-**Host:** Ex-ex-ex.
+**Chak Onn Lau:** Ah, ex — former, that's what I meant, former. Everyone's a "former," right? Yeah. So that means if this imbalance isn't from the police, then where is it from? Is it from the AG, you know, is it from the Attorney General?
 
-**Rafizi:** Ex-ex-ex, that's what I said — everyone's "ex" now, right?
+**Rafizi:** Yeah, this is it, unless one day we truly succeed in separating the prosecutorial function from...
 
-**Host:** Yes. So the point is, if not from the police's angle, then from which angle — the DPP? The Attorney General?
+**Iqbal:** That's also a point we wanted to ask about further.
 
-**Rafizi:** Unless one day we truly succeed in separating prosecutorial power from politics — that's also something we want to ask about regarding reform. As long as the power of the public prosecutor falls under the same jurisdiction as the appointment of state judges, and state judges are appointed by the Prime Minister, I believe this will continue to happen — meaning, if you want to investigate a minister, he'll think twice, three times, and so on — unless it's already easy to investigate a lawyer [after leaving office].
+**Chak Onn Lau:** Reform, right.
 
-**Host:** Okay, I want to come back to this question later. But before that, next point — how many questions do you have, YB? This is a lot!
+**Rafizi:** Right, as long as the power of the Public Prosecutor remains under the Attorney General's Chambers, and the Attorney General is appointed by the Prime Minister, I think this will continue to happen. That means if they want to investigate a minister, they think twice. They think three times and so on — unless he's already become an opposition figure. Then it's easy to investigate.
 
-**Host:** When we put out a call for questions, a lot came in. This is the most popular one — related to a case that was just resolved two days ago — regarding Section 233, "offensive and annoying" in the MCMC Act.
+**Iqbal:** Okay, I want to get into this point more later, but before that, next let's move to the questions you all have?
 
-**Host:** If I'm not mistaken, wasn't YB also brought to MCMC?
+**Chak Onn Lau:** Lots, lots, YB. When we put out the call-out for questions, there really were a lot of questions.
 
-**Rafizi:** No, never. I was charged under the Penal Code for insulting UMNO. I was charged and I won.
+**Rafizi:** That many, huh?
 
-**Host:** Charged under the Penal Code for insulting UMNO?
+**Chak Onn Lau:** The most ever.
 
-**Rafizi:** There was a mistake in the Penal Code charge — for insulting UMNO.
+**Iqbal:** So this one relates to a case that was just resolved two days ago, Heidy Quah's case. She, if I'm not mistaken, tried to challenge Act 233, the words "offensive and annoying" in the MCMC Act. If I'm not mistaken, hasn't YB also been charged under an MCMC Section before? No? Never?
 
-**Host:** Okay, but this case relates perhaps to when YB was in the Cabinet — were there discussions about amending these draconian acts, and how far did those discussions go?
+**Rafizi:** Never. Not Section 233. Mine was under the Penal Code, for insulting UMNO. I was charged with that and I won. Under the Penal Code, charged with insulting UMNO. There's also an offense under the Penal Code for insulting...
 
-**Rafizi:** There were. For example, I remember about the words "offensive" and "annoying." I think we need to balance the perspective we see through a political lens with the threat from "offensive and annoying" acts committed by ordinary people who have nothing to do with politics. Usually the cases that get highlighted involve politics or human rights. But what about bullying cases, that word "offensive" earlier — if I'm not mistaken, the amendment was discussed after a case of a woman who committed suicide after being cyberbullied. Actually our laws aren't complete enough to charge those involved, so they were only charged with a minor offence, paid a fine, and were released. So in that sense, the hat I wore as a minister before was — as much as we, as partisan people, always look at things through a political lens, and always say "there must be something going on here" — what I learned from my time as minister is that the world doesn't revolve around us. There are many more cases of ordinary people being bullied, offended, but when it comes to taking action, it can't be done — for example, the Zara case now, you can debate whether this rule is right or not — the prosecutor has set a rule that they must exceed a certain probability before they can charge, meaning the probability of winning, if I'm not mistaken, must be 90% before they can charge. The reason is, if that rule didn't exist, it would waste the DPP's time, and charge, charge, charge, all losing, losing, losing — that's taxpayers' money too, and people get angry as well. So they set that bar. The problem is, when you set that bar, laws like this can rarely be used to prosecute. So there's a tendency to only prosecute minor offences, and the public gets angry.
+**Chak Onn Lau:** Insulting too?
 
-**Rafizi:** So that's the complication — I think the issue with the MCMC Act's Section 233 "offensive" provision is far more complicated than the case that was brought up. It's not black and white.
+**Iqbal:** Okay, but this case is related to — perhaps when YB was in the Cabinet, were there discussions about amending these harsh acts, and how far did those discussions go?
 
-**Host:** I want to ask about Dr Jason's question — he wants to strike out, appeal against the court's decision to strike out "offend and annoy" — but Fahmi Fazli, who we know went to Bersih, spoke against corruption, was all in with the Anwar reformasi movement — so why has all of this changed now?
+**Rafizi:** No, there were. For example, I remember, regarding this "offensive and annoy" wording, I think we need to balance our perspective — the one we see through a political lens — with the threats from offensive and annoying acts committed by ordinary people who have nothing to do with politics. Usually cases like this get highlighted because they involve politics or human rights. But what about, for example, cases of bullying, where people are bullied with offensive words — because this amendment, if I recall correctly, was discussed after a case where a woman committed suicide after being cyberbullied. So actually our laws were not complete enough to prosecute those involved. That's why he was only charged with a minor charge, paid a fine, and was released. So in that sense, I mean, the cap that I wore back when I was a minister was — as much as we, as partisan people, always tend to look at things through a political lens and always say, "There must be some motive behind this. There must be something going on," — what I learned during my time as a minister is that actually the world doesn't revolve around us. There are many more cases of ordinary people being bullied, being subjected to offensive behavior. But when it comes to taking action, they can't. Take the Zara case now, for example. We also have rules. You can debate whether these rules are right or not. The Public Prosecutor sets a rule that the probability of winning must exceed a certain threshold before a charge can be made. Meaning the probability of winning, if I'm not mistaken, must be 90% before a charge can be filed. So when they want to charge a higher offense but feel the probability of winning isn't there, because if they proceed without that rule, it wastes the DPP's time and the court's time too. Charge, charge, charge — all this is taxpayers' money. Charge, charge, charge, and lose, lose, lose, lose. People get angry too, right? So they set that bar. The problem is when you set that bar, laws like this — alamak, can't charge. So there's always a tendency sometimes to charge for a minor offense instead. Then the public gets angry, right? So that's the complication I feel — the issue of the MCMC Act regarding "offensive" under Section 233 is a lot more complicated than the case brought up here.
 
-**Rafizi:** I know, it's not black and white — precisely because of that. In this case, I'm not trying to defend Fahmi Fazli — a whole podcast wouldn't be enough if I just wanted to mock Fahmi Fazli! But actually, the repercussion for ordinary people is much bigger. And the problem is, when laws relating to feelings — this one relates to feelings — are deliberately not made specific, it becomes difficult. But the absence of such legal provisions would mean that bullying, cyberbullying, and many other things couldn't be acted upon legally. So, let the process take its course.
+**Iqbal:** Do you want to ask...
 
-**Host:** Meaning, if the court doesn't agree with the current draft, the government needs to look at it again, redraft it?
+**Chak Onn Lau:** It's not black and white, lah, it's not black and white.
 
-**Rafizi:** But in my view, there needs to be a legal provision for matters relating to malicious acts, especially those hiding behind this digital era — we need a law for that. But we have a law for libel and all that also, you know — you have to pay damages for a false statement. It's not — you know how difficult it is to go through a defamation suit. So let's say for libel, people say "just sue" — to open one file costs at least a few thousand ringgit. Then it goes up and down the courts for five years. For a politician or a businessman like Farhaj, that's fine. But for an ordinary person? That's why they just give up. And the law is supposed to protect people like this.
+**Iqbal:** No, ask Dr. Jason's question.
 
-**Rafizi:** If there's no protection, that's why it has to — for me, it must be coded into law — to protect people who don't have access to things like this. So in terms of libel too, if it's not criminal in nature, for example if the act involves spreading words that lead to a crime happening afterwards—
+**Chak Onn Lau:** So Dr. Jason asked me about YB Fahmi Fadzil, that he wants to appeal against the court decision to strike out "offensive and annoy". But, you know, the Fahmi Fadzil we knew was the one who went to Bersih, who spoke about anti-corruption and all that in the Anwar reformasi movement. So why has all this changed now? I know it's not black and white.
 
-**Host:** So currently for the cyberbullying case, even if someone dies, no one is punished by the law?
+**Rafizi:** Yeah, it's precisely because of that. So in this case, I'm not here to defend Fahmi Fadzil. I could fill an entire podcast just poking fun at Fahmi Fadzil. But actually, the repercussions of this on the public are bigger. And the problem is that when a law is related to feelings — this one is related to feelings. Actually, when you say "offensive," some people are offended, some are not. So it's not easy, you know. But the absence of a legal provision would mean that bullying, cyberbullying, and many other things could not be legally acted upon. So let the process take its course. Meaning, if the court disagrees with the current draft, the government needs to review it and redraft it. But in my view, there needs to be a legal provision for matters related to malicious acts, especially those that hide behind this digital era — all the platforms, comments, everything. So right now we don't have enough law to cover that.
 
-**Rafizi:** The law is inadequate for that matter, as I understand from previous discussions within the government. The law— it's just that the difficulty is, we did discuss it, how do you distinguish between offensive and annoyed? It's too loose.
+**Chak Onn Lau:** But we have our laws for libel and all that also, you know. Like you have to pay damages and that kind of thing for false statement.
 
-**Host:** How so?
+**Rafizi:** You know how difficult it is to go through a defamation suit? So let's say for libel, people say, "Just sue them." To sue, you need to open a case that costs at least 100,000. Then it goes up and down the courts for 5 years. For politicians or businessmen like Farhash, that's fine. But for ordinary people, for ordinary people, that's why they just give up. And the law should protect people like this. If there's no protection — that's why, to me, it must be coded into law so we can protect people who don't have access to things like this. So this libel issue, and another thing — if it's not criminal in nature — if the act, for example, involves spreading words that indeed lead to the commission of a crime afterward, then it's criminal in nature. It must be coded.
 
-**Rafizi:** Offensive. Because some people feel offended, some don't, and there will be parties who say this will be abused. This was raised in cabinet — how do we make sure it isn't abused, for example by politicians, or even if Jason Leong makes a joke that he thinks is funny but it's offensive to other people. How do you protect against that kind of situation?
+**Chak Onn Lau:** So currently for the cyberbullying case, even if someone dies, no one is punished by the law?
 
-**Host:** Possible, possible.
+**Rafizi:** The law is inadequate for that matter, as I understood from discussions within the government before this. The law is just — the difficulty, we really did discuss it, you know. "Offensive" and "annoy" — how do you define them? How is something offensive? Because some people feel offended, some don't. So I understand there will be parties who say this will be abused. It has been raised in the Cabinet. How do we make sure it's not abused, for example by politicians, or even if Jason Leong makes a silly joke that he thinks is funny, but it's offensive to other people. How do you protect, for example, humor? So it was raised and debated. That's why, to me, that process needs to happen. Meaning that if the court has struck it out, you need to redraft it, you need to go through that process again. But at the same time, even if it was Fahmi Fadzil's mistake, go and explain to the people why you need this!
 
-**Rafizi:** So it was raised and debated. That's why, for me, that process needs to happen — meaning if the court has struck it down, you need to redraft it, go through that process again. But at the same time, even if there was a mistake, Fahmi Fadzil should go explain to the public why you need this. Make sure people understand — who reads the whole Multimedia Act? Who reads the Penal Code? Except if you go to court like me, always getting charged. Most people don't know what it is. It should be properly explained so that enough people understand, and at the same time can chip in. How do we manage that balance.
+**Chak Onn Lau:** Yes.
 
-**Host:** So what you're saying is the communications minister has a communications problem.
+**Iqbal:** Yes.
 
-**Rafizi:** I don't need to say that — everyone already knows that. We've already invited YB Fahmi Fadzil. InsyaAllah he'll accept our invitation after this.
+**Rafizi:** Make sure people actually understand. Who reads all this Multimedia Act? Who reads the Penal Code? Except if you go to court like I often do — often getting charged, right? Most people don't know what it is. So it should be explained properly, so there will be enough people who understand and, at the same time, can chip in on how we manage this balance.
 
-**Host:** That would be an understatement if he were the one saying it. Alright, perhaps let's move to the next question, related to the Cabinet. Based on YB's previous experience with them in cabinet, which member do you feel was the most underwhelming, and who impressed you the most after seeing their performance?
+**Chak Onn Lau:** So what you're saying is the Communications Minister has a communications problem?
+
+**Rafizi:** I don't have to say that. Everyone knows that! Everyone knows that.
+
+**Iqbal:** We've already invited YB Fahmi Fadzil before. God willing, after this he'll accept our invitation.
+
+**Rafizi:** That would be an understatement to say...
+
+**Chak Onn Lau:** Everyone is welcome to our podcast. All come.
+
+**Iqbal:** So speaking about that, maybe we go to the next question related to the Cabinet. Again, based on YB's experience before this, perhaps YB could try to share your opinion, from what you know of Cabinet members, before being with them in Cabinet versus after — which member do you feel is the most underwhelming, and which has impressed YB the most after seeing their performance?
 
 **Rafizi:** I'm very hard to please.
 
-**Host:** Okay, the least disappointing one then.
+**Iqbal:** Okay, the least disappointing then.
 
-**Rafizi:** Haa, later you'll say I'm biased. Let me give you, I think, a few baskets of ministers. I think ministers from UMNO — for example Tok Mat, Khalid Nordin, to be fair, Azalina — they know how to do their jobs, whether what they do is business as usual or something new. But you can tell that they are in control, because of experience — they've been ministers for a long time. So that's one category.
+**Rafizi:** Later you'll say I'm biased. Let me give you, I think, baskets of ministers. I think the ministers from UMNO — for example, like Tok Mat, like Khaled Nordin, even Azalina, to be fair, they know how to do their job. Whether what they do is business as usual or something new, you can tell that they are in control. Right? Because of experience — they've been ministers for a long time. So that's one category. Meaning that's a standard — people who are already used to being ministers, they're not nervous. They know how. It's just a question of whether they want to push certain new things or not. Then we have another category of new ministers who have never been ministers at all.
 
-**Host:** Meaning that's one standard?
+**Chak Onn Lau:** Former opposition members.
 
-**Rafizi:** That people who are already used to being ministers, they're not nervous. They know how to get things done. It's just a question of whether they want to push certain new things or not. Then we have another category of new ministers who have never been ministers at all before — previously from the opposition — and this is the first time they're ministers. I would say, for example, Nga has managed well. Armizan has also managed well — that's my view. Loke, from DAP, you can see he's not nervous and he can command. Then there's another basket — those out of their league. They struggle, I think, first in terms of handling the complexity and variety of problems that arise, second in terms of ideas, and third — and this is the most important — in terms of command. You know, government officers, they can smell blood. Meaning if a minister comes in, after two or three months, they know — this minister can't even read a file without someone writing notes for him. Going to Parliament, he panics. What to answer, where's the answer — nothing there. They know straight away that this minister can be "eaten." We know that. There are a few ministers I've mentioned before — mostly from PKR too — Fadlina, Zaleha, Fahmi — because they had never managed any organisation before. I mean, the benefit that I had was because I worked before — I had my own company, I had worked in large organisations, in the corporate world, then I managed my own company and so on. Even managing INVOKE before, with over 40,000 volunteers, that was a big organisation. You know the discipline, the management style and so on. But if, for example, you never managed a team of five people, suddenly you have to manage five hundred thousand people — it's hard. Impossible.
+**Rafizi:** And former opposition members who became ministers. I would say, for example, Nik actually manages it well. Then Armizan manages it well. That's my view. Armizan manages it well. Obviously Loke can basically command. From DAP, you can tell Loke isn't nervous and he can command. Then there's another basket, meaning...
 
-**Host:** Which leads us nicely into the next question. This is related to the perception that most of the reforms the people want to see have not materialised so far, and many times we hear UMNO used as a scapegoat — that these things cannot be implemented because of pushback from them. To what extent is that true?
+**Chak Onn Lau:** Out of their league?
 
-**Rafizi:** I actually disagree, and this is the first time I'm putting it on record.
+**Rafizi:** Yeah, they struggle, I feel. They struggle first in terms of handling the complexity and variety of problems that arise. Second, in terms of ideas. Third, and most importantly, is command. You know, government officers — they can smell blood, you know. Meaning if a minister comes in and after two or three months, they know this minister can't even read a file without officers having to write notes for them. Goes to Parliament and panics, "What should I answer, where are the answers" — they know straight away this minister can be taken advantage of. So we know that, we have ministers I've mentioned before, many of them from PKR too: Fadhlina, Zaliha, Fahmi. So I feel part of the reason is that they've never managed any organization before. I mean, the benefit that I had was because I worked before.
 
-**Host:** Okay.
+**Chak Onn Lau:** Yes, your own company.
 
-**Rafizi:** Unless it's happening behind my back — meaning outside the cabinet — that has not been my experience. UMNO friends, don't be angry with me — but UMNO is in the game for power, from the past until now, and so is every other political party. It's just that UMNO has been around longer, so they understand the dynamics of power better. UMNO also knows, for example, that for their traditional constituency — rural Malays — that's a tough fight, because there's PAS, there's PN. To compete for Malay votes isn't easy either since DAP is now part of the government. So they are looking for new constituencies — constituencies UMNO used to have but lost, for example urban Malays, for example non-Malays, for example the educated group that has shifted to PKR/PH over time. So actually, whatever makes this government popular with the constituencies they want to focus on — UMNO is okay with that. I don't see UMNO having a problem with that, and I don't really recall UMNO objecting — including to fairly radical things I brought forward. Even if there were those who disagreed, they didn't object in front of me — they objected behind my back. Sometimes I heard about it when I asked why, and they came to see me privately to say they disagreed. But officially, on record, I think we need to correct the perception that the slow pace of reform is due to UMNO. Scapegoating UMNO won't save PKR or PH either.
+**Rafizi:** I mean, from large organizations, from the corporate world, then I managed my own company and so on. Even managing INVOKE before, with 40,000-plus volunteers, was a huge organization. So you know discipline, management style, and so on. But if, for example, you've never managed a team of even five people, and suddenly you have to manage 500,000 people, that's difficult.
 
-**Host:** Okay, let me be specific about what I mean by this slow pace of reform. We can look at it from GE15 manifesto promises, for example the separation of the AG and the Public Prosecutor, nomination for the head of MACC — are these promises a stumbling block, or is it just a matter of speed?
+**Chak Onn Lau:** Impossible.
 
-**Rafizi:** That's not the issue. If the separation of the Attorney General's power from the government is brought forward, everyone agrees — people may just be dissatisfied with the speed. Because the process of amending the law is expected to take two to three years, and that, by government standards — past and present — is acceptable. Because from my experience, drafting an act usually takes three to four years. In my case, we completed an act in 11 months, but it really was bloody the nose to do it in 11 months; it's not easy. So for something as big as this separation of the Attorney General's power, which involves institutions and existing laws, taking that time is reasonable.
+**Iqbal:** Which leads us actually to the next question nicely. So this is related to the perception that most of the reforms the public wants to see haven't materialized yet, and many times we hear UMNO being used as a scapegoat for why these things haven't been implemented, because there's pushback. To what extent is that true?
 
-**Host:** Is there a story, YB — for example, one of the campaign promises YB tried to bring in as part of the Ministry of Economy but didn't happen within this unity government?
+**Rafizi:** I actually disagree, you know. And this is the first time I'm putting it on record.
 
-**Rafizi:** None of those promises fall under the Ministry of Economy's purview, and you can't interfere with other ministries. I mean, you'd be a lousy minister if, in cabinet, you don't do anything with your own portfolio but you're busy meddling in someone else's portfolio. So that's a boundary. Was there objection? None — there was already a cabinet decision for that matter to happen. But the question is whether you can do it in one or two years, versus three or four years. That, I feel, could perhaps have been sped up.
+**Iqbal:** Okay.
 
-**Host:** In that case, for example an issue like the amendment requiring all key appointments to go through a special parliamentary select committee — is that also a reason, or was it never brought up at all?
+**Rafizi:** Unless it happens behind my back, meaning the objection happened not in Cabinet. From my experience, actually UMNO doesn't object to everything, you know. Okay, UMNO friends, don't be angry, eh. I will say, my assessment of UMNO — UMNO has been in the game for power from before until now. And for that matter, any political party. But UMNO has been around longer, so they understand the dynamics of power better. UMNO also knows, for example, that for its traditional constituents, the rural Malays, it's a tough battle. Because there's PAS, there's PN. And what they can contest in terms of Malay support isn't easy either, because DAP is in the coalition together. So they're looking for new constituents. These new constituents are ones UMNO used to have but lost. For example, urban Malays, for example, non-Malays, for example, the educated who, over the years, went to PKR, PH. So actually, whatever is popular with the constituents they want to focus on, UMNO is okay with. I don't see UMNO having a problem with that. And I don't really recall UMNO objecting to things, some of which were quite radical, that I brought. It's just that Datuk Seri Anwar, maybe if he were here, would say, "Yeah, they don't object in front of you, they object behind your back," right? Sometimes I heard that, when I questioned why, he'd say, "Yeah, they don't agree, they came to see me." But on record, officially, I think we need to correct it if people say the pace of reform is slow because of UMNO. Scapegoating UMNO will not save PKR and PH on this question of reform.
 
-**Rafizi:** That was never brought up. Because it's like this — a matter must be brought forward by the respective ministry, unless directed by the Prime Minister. Appointments, for example the head of MACC and so on, all of that is the Prime Minister's power. So if the Prime Minister doesn't bring it forward, aside from us mentioning it here and there in party meetings, yes, it dies there. That's why I think part of it, Dato' Seri Anwar needs to answer for — putting the blame on UMNO when it's actually not the case is unfair. Of course if you ask Dato' Seri Anwar, he has his reasons — for each of these, for example if the constitution says such and such... For MACC, I don't think it's even constitutional — it's an act. It doesn't require a constitutional amendment, but for an act, he needs to take the views of other stakeholders. But I still feel, at the very least, that matter could have been discussed. But it truly was never brought forward — unless you want to pick a fight with the PM, asking why this wasn't brought forward, why that wasn't brought forward.
+**Iqbal:** Okay, so let me be specific about what I mean by the pace of reforms being slow. We can look at it from the GE15 manifesto promises. For example, the separation of the AG and the Public Prosecutor, for example the nomination process for the MACC Chief Commissioner. These promises — is it not the case that when people say UMNO is the stumbling block preventing these promises from being implemented?
 
-**Host:** So is what was just described collective responsibility?
+**Rafizi:** That's not right. If it's about separating prosecutorial power from the government, that has been brought forward and everyone agreed.
 
-**Rafizi:** Collective. Collective responsibility.
+**Iqbal:** Okay, so what's the hold-up?
 
-**Host:** Okay, asking as a voter — when I cast my vote into the ballot box, the things I hoped for at that time — can I still hold on to those hopes, or should I just let them go?
+**Rafizi:** It's just that, if people are dissatisfied, it's about the pace, because the process of drafting the law is expected to take two to three years. Which, okay, by government standards before and now, is acceptable. Because my experience is that to make an act, it usually takes 3-4 years. So in my case, for example, we developed the CCUS Act within 11 months. But it really was a nosebleed to do it in 11 months. It's not easy. So for something as big as this, separating prosecutorial power involves a review of the Constitution and all existing laws.
 
-**Rafizi:** I think what's happening now is good — meaning this government needs to balance the demands of all sides, various groups — race, for example, one group; class, another group, and so on. The government can say, "we need to balance this, and we want to prioritise certain matters first before others." But on the people's side, every group has the right to demand what's important to them, and whichever isn't prioritised or expedited gets left behind. So the current situation, I think, will indeed have noise here and there, people dissatisfied — and that is the test and challenge for a government that won on a reform platform. You have to balance it; and if I were a member of the public or one of those groups, I too would feel my issue should be prioritised, because once you've won, you want your issue pushed to the top. So I think the pressure and the discourse must continue.
+**Chak Onn Lau:** Okay. So is there a story, YB, like maybe one of the campaign promises here that YB tried to turn into law, but it didn't happen under the Unity Government?
 
-**Host:** Earlier we asked YB to grade the performance of cabinet members; now perhaps we can move to policy questions. Based on the government's work so far, is the pace satisfactory?
+**Rafizi:** Not a single one of those promises falls under the purview of the Ministry of Economy. And you can't interfere with other ministries! I mean, you'd be such a lousy minister if, in Cabinet, you have a portfolio, you don't do anything with your own portfolio, and instead you're busy meddling in other people's portfolios. Okay? So that's one accusation. I think the issue, if asked whether there was objection, there wasn't. There was already a Cabinet decision for that to happen. But whether or not you can do it in one year or two years instead of three or four years — that, to me, perhaps we could have sped it up a bit.
+
+**Iqbal:** Okay, so for example, if political appointments and so on should go through a special parliamentary committee, is that also the reason?
+
+**Rafizi:** That was never brought forward.
+
+**Iqbal:** Okay, so what's the problem with something like that?
+
+**Rafizi:** Because, you see, any change like that must be brought forward by the respective ministry.
+
+**Iqbal:** Okay.
+
+**Rafizi:** Unless instructed by the Prime Minister. And appointments, for example the Chief Commissioner of the MACC and so on, that's all within the Prime Minister's power. So if the Prime Minister doesn't bring it forward, other than us mentioning it here and there in party meetings, well, it just dies there. That's why I feel Datuk Seri Anwar partly needs to answer for this. To put the blame on UMNO or whatever is actually unfair. Of course, if you ask Datuk Seri Anwar, he has his reasons. For each of these, for example if the Constitution says this — if it's about the MACC actually, I don't think it's the Constitution, it's an act. So it doesn't require a constitutional amendment, but if it's an act, well, he still needs to get the views of other stakeholders: the Conference of Rulers, the Agong, and others. But I still think, at the very least, that matter could be discussed. But it really wasn't brought forward. So unless you want to pick a fight with the PM and ask, "Why wasn't that brought forward? Why wasn't this brought forward?" and so on.
+
+**Chak Onn Lau:** So YB Nik said it's collective what, ah? Collective...
+
+**Iqbal:** Collective responsibility.
+
+**Chak Onn Lau:** Ah, collective responsibility.
+
+**Iqbal:** So, okay, then asking as a voter — when I went to cast my vote at the ballot box, these were things I had hoped for at the time. Can I still hold on to those hopes, or should I just let go of things like that?
+
+**Rafizi:** No, no, I think it's good, what's happening now. Meaning the government needs to balance the demands of all parties. In society there are all kinds of groups. You all are Bangsar, for example. Bangsar is one group, Klang is another group, and so on. Of course the government can say, "Oh, we need to balance things and prioritize other matters. So we'll do this first before that," and so on. But...
+
+**Iqbal:** So what's the government's focus now?
+
+**Rafizi:** On the people's side, every group has the right to demand what's important to them. And which one should be prioritized, expedited — if that's left to politicians alone, then some will be left behind. So the current situation, I think, will inevitably have noise here, noise there, people dissatisfied. And that is the test and challenge for a government that won on the reform ticket. You need to balance it. And if I were the public or a group, I would feel the same way — make them pay. Because once you've won, my issue is at the very bottom. I want my issue to be raised to the top. So I think the pressure and the discourse must continue.
+
+**Iqbal:** Okay. Earlier we asked YB to perhaps give a grade — as befits a lecturer's soul — for each minister's performance. Maybe we can move on to policy questions. Based on...
+
+**Chak Onn Lau:** Which one?
+
+**Iqbal:** Next question.
+
+**Chak Onn Lau:** Oh, next one, ah, sorry.
+
+**Iqbal:** If we go into the policy questions — so far, when we discuss policies that will be, or are being, or have been implemented, has the government's pace of work been okay?
 
 **Rafizi:** No, I think it's slow.
 
-**Host:** Why is it slow?
+**Iqbal:** Okay.
 
-**Rafizi:** It's a combination of issues. This is the momentum I set for myself when I first took over the position — we have five years for one term of government. The fundamental changes and vision that need to be made must be attempted in the first two years, so that after that you focus on implementation. So whether you want to change laws or launch something new, do it in the first two years, so that after that it starts to have a legacy, an impact on the people — economically, legally — so that in the following three years, you focus on implementation. But, because each depends on their respective ministry, respective minister, and also on the Prime Minister, I think in those first two years, there were ministers who were still finding their rhythm — they themselves were still on a learning curve, learning all of this. So matters that should, in my view, have set the pace from the start, were left to individual ministries — that's the first point. Second, major reform matters, for example regarding appointments and so on — those can't wait long, because people will start demanding them after a year. Then we had cases like the prolonged Tan Sri Azam Baki case, so people were indeed angry — and those matters should have been under the Prime Minister's control, needing to be done within that same two-year period. As far as we know, none of that fully happened.
+**Rafizi:** I think it's slow.
 
-**Host:** To understand this dynamic further, for example something like PADU — that initiative came from YB's own ministry, right? So after that how does it work — do you send an email to the PM first, or send it to cabinet, and get consensus or objection? Is that the dynamic, or are you free to do whatever you want to do?
+**Iqbal:** So where — why is it slow?
 
-**Rafizi:** No, no. When a decision involves policy or an act that needs to be changed, or another party's jurisdiction, you have to bring it to cabinet. So in PADU's case, for example, it was presented at the National Economic Action Council and agreed upon. Once agreed there, it was brought to cabinet, and cabinet agreed. So everyone agreed — no one disagreed. But our culture in Malaysia, as I said earlier, is to agree in front of you, sabotage behind your back. Someone asked earlier what the status of PADU is now — PADU is operating 100 percent. When we presented it and received the directive to proceed, the diagnosis identified two or three needs. Why do we need one integrated central database — one, in terms of cost, more than anything else. What does that mean? For example, the government spends about RM13 billion every year on IT systems — about RM7 billion as capex, RM6 billion as opex. Why does it keep rising year after year? Because these systems are not integrated. Every ministry, every department, builds its own system, from scratch. If you know how to develop a system, building from scratch means you have to rebuild the back-end, the front-end too — and the back-end forms a big chunk of the expenditure. Then you go through the same process again — you get people to register, you spend on promotion and so on. All this information actually already exists within the government.
+**Rafizi:** It's a combination of issues. This is about the momentum I set for myself when I first took on the role. We have 5 years for one term of government. Any policy and vision changes to be made must be pursued within the first two years, because after that, you need to implement. No, you need to implement after that. So if you want to change laws, launch new things, you do it in the first two years so that afterward it starts to have an impact, an effect on the people — economically, legally — so that the remaining three years you focus on implementation. But because I think it depends on each ministry, each minister, and also on the Prime Minister — I think in those first two years, there were ministers who were still finding their rhythm. Then they're also on a learning curve, they're also learning all this. So things that should, for me, set the pace from the beginning, were left up to individual ministries. That's the first thing. Second, major reform matters, for example regarding appointments and so on, are the same. Those can't wait long because people will demand it. After one year, blah blah blah, then we have cases like Tan Sri Azam Baki continuing, continuing, continuing, right? So people will indeed get angry. And these things should be matters within the Prime Minister's control that need to be done within the first two years, which by now we know didn't all happen.
 
-**Host:** It's just that the law doesn't allow sharing?
+**Chak Onn Lau:** So to improve understanding of this dynamic, for example, like PADU, okay, that initiative actually came from a department under your ministry, right? So after that, did you send an email to the PM first, or send an email to the Cabinet, and then get consensus or objections — is that the dynamic, or are you free to do whatever you want to do?
 
-**Rafizi:** Correct. The law doesn't allow sharing.
+**Rafizi:** No, no, not really. When a decision involves policy or an act that needs to be changed, or involves other ministries, other people's jurisdiction, you need to bring it to Cabinet. So in the case of PADU, for example, it was presented at the National Action Council on Cost of Living and approved. Once approved at the National Action Council, it was brought to Cabinet, and Cabinet agreed. So everyone agreed, no one disagreed, you know. But our culture in Malaysia, as I said, is — they agree in front of you, sabotage behind your back.
 
-**Host:** Oh, I didn't know that. So isn't that just a matter of fixing data?
+**Iqbal:** Okay, so then let's explain a bit...
 
-**Rafizi:** Oh no, it's more complicated than that. First, why did the consolidation of data in government systems only happen now? It never happened before. Surely previous governments never thought of doing this — they did think of it, but they gave up, because they'd need to change the law first, then consolidate all this data. In the act, it's explicitly stated that data cannot be shared with other parties — due to privacy issues.
+**Chak Onn Lau:** Everyone sabotages it.
 
-**Host:** PDPA?
+**Iqbal:** Someone asked, what's the status of PADU right now?
 
-**Rafizi:** No, PDPA came much later. For example, the registration act — its jurisdiction is the National Registration Department. When we register ICs, birth certificates and so on, that act grants the power to collect that data and information only to the National Registration Department, and the act specifically states that data cannot be shared. That's the situation for every single act. So you have to pass the hurdles — you need one government policy decision to share data, and we want to pool all that data — hence PADU. After that we had the Omnibus Act, the Data Sharing Act is already in place too. Then, once that exists, you actually have to do it. Because if we have one integrated database at the back-end, from then on every new app or system only needs to focus on the front-end — just the skin — because you can draw the same data from there. For users, why should you register once at JPJ, register again at the National Registration Department — we always complain about this. But when we built PADU, it was urban people like you all who complained the loudest. Because it was a timing issue — it coincided with the announcement of the removal of petrol subsidies. That's why people asked what happened to PADU. Actually, once you have all this data from all government departments, and we open the opportunity for the public to update it — because the government already has your data from LHDN, from EPF, the government knows your salary — you can add or correct it, otherwise people will say the data is wrong. So once we open it up, the first use case, once you have all that, is actually the most accurate data on the socio-economic status of any family. So if you want to do proper, precisely targeted subsidy retargeting, that's the data we have. So it's not a question of PADU — it's a question of use cases. The biggest use case that should be used is subsidy retargeting. But MOF disagreed.
+**Rafizi:** PADU is 100% operational.
 
-**Host:** MOF wants to use its own method? Why?
+**Rafizi:** When we tabled PADU and got the directive to build it, it was because the diagnosis showed two or three needs for why we required one main, integrated database. First, actually in terms of cost, more than anything else — which the public outside might not understand.
 
-**Rafizi:** I think part of it is political. You have to remember, this coalition government faces many challenges. Because the budget for aid distributed by various departments — the government has around 217 forms of cash assistance, with a budget of about RM26 billion. The idea of PADU is, once there's a centralised database, five, six, seven departments no longer need to distribute separately. Because when distributed separately, there are exclusion errors, inclusion errors — some people get it four times, some don't get it at all, because the data is separate. Going forward, with just one database, all that would be sorted out — but that means losing influence, losing power, losing budget for the departments concerned. Their rice bowl gets shut. So that's why, when it came to implementing PADU, there was a lot of resistance. There were also those who felt that if we did subsidy retargeting, we would lose the election — DAP, for example, was dead against it.
+**Iqbal:** What does that mean?
 
-**Host:** Say I want to get assistance, and I can put in my income, I can update that information myself — I might have my own business earning RM10,000 a month, but I declare my income as RM1,000 a month, and there's no way to check that because I'm freelance — this follow-up question is also asked by many people, how would T15/T10 be verified?
+**Rafizi:** For example, the government spends roughly 13 billion every year on IT systems. Around 7 billion as capex, around 6 billion as opex. The reason it keeps rising year after year is because these systems are not integrated. Every single ministry or department that wants to build a system builds it from scratch. If you know how to develop systems, doing it from scratch means you have to rebuild the back end, the front end, everything. And the back end forms quite a big chunk of that expenditure. Then you go through the same process — you get people to register, you spend on promotion and so on. All this information already exists within the government. It's just that the law doesn't allow it to be shared.
 
-**Rafizi:** Actually if you're freelance, you still need to pay tax, you still file with LHDN. So even if it's not in EPF, it will be in LHDN. The ones who are truly at risk of having no data from either LHDN or EPF are only informal workers with low incomes — RM1,500, RM2,000 — and people like that are very likely genuinely eligible for assistance. But if someone genuinely has a high income, it will appear somewhere — that's why we need to consolidate everything. So even if someone mis-declares, there's an algorithm that will check — he says his income is a thousand, but his car is a BMW, his house is like this, and at LHDN the tax records for the last three years show otherwise. That algorithm will automatically flag the matter.
+**Chak Onn Lau:** Oh!
 
-**Host:** That's also partly why I think some people dislike PADU — they're afraid of that transparency, afraid the government will find out they misdeclared or under-declared.
+**Rafizi:** Can't do it! The law doesn't allow sharing.
 
-**Rafizi:** Yes, correct. There are also, especially urban people, who see PADU as a way for the government to go after taxpayers. So opposition to PADU has many causes — within the government itself there are other forms, the public also has other forms. But as a country, we cannot move forward without a centralised database. And that job is done. Any government that comes in after this just needs to wash its feet — it's already there. They just need to think about how to use it as a use case. Right now PADU already has several use cases — for example PTPTN is working on a use case to consider how monthly repayments should be categorised according to socio-economic group, and they fall back on PADU. Likewise for others — every time an agency needs to assess someone's financial or socio-economic status more fairly, they will fall back on PADU.
+**Chak Onn Lau:** I didn't know that.
 
-**Host:** Let me understand — so right now the status of PADU is that the basic database is complete and can be used by every ministry, but the use cases aren't fully finalised yet?
+**Iqbal:** So isn't that just a matter of fixing the Act then?
 
-**Rafizi:** The use case that hasn't been agreed upon is only for RON95 — especially since the PM has already announced there will be no subsidy retargeting for that, because the price will drop to RM1.99 for everyone, so no database is needed for that — everyone will get it. But for other use cases that the public doesn't know about — for example the Digital Ministry is developing a centralised app, I think it's called MyGov, because right now there are all sorts of apps, each one costing money, not updated, many vendors too, and for the public it's a hassle — there should just be one app that has everything. That's part of the effort to digitalise government. So the Digital Ministry, while developing that — I don't know when they'll launch it — its back-end is indeed PADU. It's just that the public doesn't see it; PADU seems to only appear in relation to RON95, when it's actually far broader than that. Imagine, you don't have a back-end for your system. PADU is that back-end for the government system, and it's already done.
+**Rafizi:** Oh no no, it's a lot more complicated than that. So firstly, why has combining data across government systems only happened now, and never before? Surely previous governments must have thought of this? They did think of it, but they gave up. Because they'd need to change the law, and then they'd need to combine all this data.
 
-**Host:** So does that mean YB, with YB's ministry, has destroyed all the silos?
+**Chak Onn Lau:** Wait, so the Act actually states you can't share data with...
 
-**Rafizi:** Not entirely like that. After PADU exists, the MOE or other ministries can still maintain their own silos — they can still have their own databases. Because when we built PADU, we didn't abolish all other databases, but it extracts from them. Now, because this has become government policy to share and consolidate data, they must give it up — BPF gives it, LHDN gives it. So their databases still exist, it's just that for a few big ministries — MOF, KDN, National Registration Department — but for smaller ministries, it doesn't make sense for them to spend money developing their own database since it will never be able to rival the large PADU database. So they'll just use PADU. But there's nothing stopping them — it's just that perhaps the public doesn't understand this "big fish." In the 13th Malaysia Plan too we've already put in place an enterprise architecture, and this enterprise architecture must sit at the very top, consolidating all ministries. So if any ministry or department tries to build its own system that doesn't fit into that enterprise architecture, and therefore needs to be built from scratch — when they ask the Ministry of Economy for a budget, we won't give it. Because you don't need to build A, B, C, D, E — you only need to build C and D, because the rest already exists in PADU. That's also how you control it.
+**Rafizi:** Yes, yes, yes, correct.
 
-**Host:** I think we have to move on already from that. Alright, perhaps let's move to the last question — Cyber Troopers. In terms of getting information out, efforts to communicate government initiatives, much of it is done by cyber troopers. We received two questions related to that. The first, greetings from Wahid — to Rafizi as a political activist: why do so many of YB's supporters tend to be racist, sexist, ableist and classist? Another question — is YB aware that many people on Twitter, mostly misogynist and bullies, and is there anything at least PKR leaders will do about this?
+**Iqbal:** What's an example of why, before this?
 
-**Rafizi:** No, I don't think I can mix that up. I maintain that — sometimes when there's someone rude or whatever, because if I just block them, people make noise, so I just block them. Because here's the thing — we are a country with very diverging views. One person says someone is sexist and so on, another says the opposite. I mean, it's a free world — it's Twitter, it's X. Go fight it out there. For example, there are two or three PSM supporters who complain their supporters are terrible — I can't go scold PSM just because I don't like someone's voice there. I can't, and you can't apply one rule to yourself but a different rule for others. So let it be. As far as I'm concerned, if you really don't like it, then don't take it — unless you want to report it because those things are annoying and offensive. Because what's offensive to you might not be offensive to someone else. So there are always two sides of the coin. Some people say this, some people view us differently. So for me, let it be — it's not worth the trouble to block or comment. That's it.
+**Rafizi:** Yes, because of privacy.
 
-**Host:** Okay, last question — this is the first question we asked and also the last question. YB once wrote at MCKK, doing some profiling earlier—
+**Iqbal:** Oh.
 
-**Rafizi:** Eh, the guy who wrote that has passed away, go ask him. *(laughs)* Want to be PM?
+**Chak Onn Lau:** PDPA?
 
-**Host:** If possible — if YB wants to. But before that, I have a follow-up question. If YB could choose any ministry to take over in the future, which one would it be? I made a bet with one of YB's crew about which ministry YB would choose — which one would be most impactful for YB, when YB wants to make change?
+**Rafizi:** No no, PDPA came much later. For example, the Registration Act, whose jurisdiction is under the National Registration Department — when we register an IC...
 
-**Rafizi:** I don't know how other people decide they want to be a minister or why they want to be a minister. I think, if you go into politics and you want to serve in government, that means you want to make a difference. And you can only make a difference if you're passionate about that thing. I'm only passionate about two or three things — first, the economy, anything related to the economy; second, education; third, anything related to industry — technology, industries. Because those are things I know, I've been involved in, and not just IT.
+**Chak Onn Lau:** Census, right?
 
-**Host:** Something like MITI, YB means?
+**Rafizi:** No no no, IC, IC. All ICs, birth certificates, all of that. The Act grants the authority to collect that data and information only to the National Registration Department. And the Act specifically states — cannot share! That's the case for every single one. So then you have to pass that hurdle. That's why we needed a policy decision: the government wants to share data and we want to pool all the data. Hence PADU. Of course, after that we have the Omnibus Act, the Data Sharing Act, which is already in place. Then once that's in place, you actually have to do it. Because if we have a database where everything else — you want to combine everything. If we have one integrated back end, then after this, every new app or system only has to focus on the front end. It only has to focus on the skin, because then you draw the same data from that source. And for users — you shouldn't have to register once at JPJ, once at the Registration Department, and so on separately. I mean, we complain about it. But when PADU was set up, urbanites like you all were also among those making noise about it!
 
-**Rafizi:** No, what I mean is — don't put me in the Ministry of Youth and Sports for example, I can't make a difference there. It's like — because you weren't good at sports back at MCKK, right? If you become PM, when you want to assign someone to a ministry or portfolio, it must be something that suits their expertise and interest, only then can they do a good job. So I think I'm known — I'm only good at a few of these things. If I became Foreign Minister, there would definitely be war — I'm not a diplomat, I say what I want to say. Don't put me as Minister of Religious Affairs for example. So I think it's only in a few of these portfolios that I could make a difference.
+**Chak Onn Lau:** Because there was a timing issue back then. Because the timing coincided with the announcement of the petrol subsidy removal too.
 
-**Host:** And how has the ambition to become PM — how has that timeline changed with developments over the past three months?
+**Rafizi:** Is it? That's the thing, okay. Okay, so people ask what happened with PADU. Actually, once you have all this detail from all government departments and we open it up to give people the chance to update their own information — because the government already has your data, you know. From LHDN, from EPF, we know. The government knows how much salary all of you earn. But for you to add or correct it — otherwise people say the data is wrong. So once we open it up, the first use case, once you have all that — that is actually the most accurate data on the socio-economic standing of any family. So if you want to properly re-target subsidies accurately, that's the data available. So on that point, it's not a question of PADU, it's a question of use cases. The biggest use case that should be used is subsidy re-targeting. MOF disagreed. MOF wanted to use their own.
 
-**Rafizi:** I know you all won't believe it — I have no ambition in politics at all.
+**Iqbal:** Why?
 
-**Host:** You've been quite consistent about that, to be honest.
+**Rafizi:** Well, I think it's partly politics, partly, you know. Okay, you have to remember — why does PADU face so much resistance within the government? Because the budget for all these various forms of assistance disbursed by various departments — the government has around 217 forms of cash assistance, you know. 217. The budget is about 26 billion. The moment — and the whole idea of PADU is that once you have it centralized, you don't need 5, 6, 7 departments each giving out separately, because when you give separately, you get exclusion errors, you get inclusion errors. Some people get four different types, some people get none at all, because the data is separate. You have one full snapshot, then instead of giving little by little by little, you give a lot all at once — but those who don't qualify won't get it, and those who do will. So I think that frightens a lot of people.
 
-**Rafizi:** No, there's no proof for anyone — no politician can just walk out and say goodbye the way I did a few years ago. Name one. I walked out at the peak of PH's 2018 win — I just walked out and said bye-bye, good luck to you guys. I went jogging and I was very happy with my life. Even now I could just walk out. I don't know how many times I've had to repeat this — I actually have no interest in power. And unlike others, I don't think I see politics or power as the only way to make a difference or bring change. But — that's a "but." What I mean is, if it comes, it comes. My responsibility, to me, is far greater — to ensure society doesn't lose confidence in the concept of reform, in societal change. And I think Bernie Sanders didn't need to become US President to make a difference. So it's like — and I think that's what makes me happy, because I have no goal to become a minister or anything. Whether I'm an MP or not an MP, my voice and views still matter now. And once you reach this stage of life, honestly there's not much difference either way.
+**Chak Onn Lau:** Why?
 
-**Host:** But perhaps I could ask that question in another form — that responsibility is a mandate, a burden. If duty called, would you answer?
+**Rafizi:** Well, the budget, that's why! Previously, if I had a unit, I had this, I had a budget of about 200 million to give out for such and such, then after this everything gets decentralized through a single database. That means losing influence, losing power, losing budget, and so on.
 
-**Rafizi:** Yes, if duty calls. But the end does not justify the means. If someone says, "oh, we need to save the country by becoming Prime Minister," then you'd have to be stubborn about becoming PM — that's a job for... I mean, right? And I always feel that maintaining yourself — trying to stay as much like your 20-something self as possible, back when you were a naive young kid — that's important as you get older, because you tend to lose sight.
+**Iqbal:** The rice pot gets shut.
 
-**Host:** How does YB feel YB has done so far in that regard?
+**Rafizi:** Exactly, so that's why when it came to implementing PADU, there was a lot of resistance. There was also resistance from those who felt that if we re-target subsidies, we'll lose the election. So DAP, for example, fought tooth and nail against it.
 
-**Rafizi:** No, no, no — I'm far wiser now. I think I used to be very naive — I really saw the world in black and white.
+**Iqbal:** Okay hold on, this might be a slightly noob question. So for example, this is a very concrete example off the top of my head. Let's say I want assistance and I can enter my own income, I can update that information myself. I might have my own business and every month my salary is 10,000, but then I just say my monthly income is 1,000, and there's no way to check that because maybe I'm freelance. Is there...
 
-**Host:** So not anymore now?
+**Chak Onn Lau:** Ha, additional question too. A lot of people ask, how do you check T15, T10 status?
 
-**Rafizi:** I think everything is great now. Very great.
+**Rafizi:** Actually, if you're freelance, you still have to pay tax, you still file with LHDN. So even if it's not in EPF, it will be in LHDN. The ones truly at risk of having no information from LHDN or EPF are only informal workers with lower incomes, like 1,500, but these people are quite likely to genuinely qualify for assistance anyway. But if someone actually has income, it will appear somewhere. That's why we need to combine everything. So even if someone misdeclares, there's an algorithm that checks — this person says their income is 1,000, but they own a BMW, they have several houses, and at LHDN their last three years of tax returns show such and such. So the algorithm will automatically flag it.
 
-**Host:** But YB doesn't consider yourself jaded?
+**Chak Onn Lau:** So PADU has an algorithm like that?
 
-**Rafizi:** No, I'm not jaded. Actually, I feel we've achieved a lot. Others — that goes back to the question about becoming Prime Minister, becoming powerful — depends on how you quantify your achievements. If you quantify it by becoming a minister, Prime Minister, power and so on — okay, there's a lot of debate about that. I don't. To me, I still remember clearly what I wanted to do when I first went into politics — hearing things that were so stupid, and I thought surely we can do better than this. So as long as progressive voices are still alive, I think that's an achievement we've already attained over these years. Same with things we take for granted now — none of this existed when I was young. Demonstrations, we take that for granted now — it didn't exist before. Backbenchers being able to speak up — that didn't exist before either. All of this is an achievement I feel I contributed to, and I think it's something worth continuing over the next 10, 15 years. It's just that I don't expect change to happen instantly — it's incremental.
+**Rafizi:** Yes, it does, it does. That's also part of why I think some people don't like PADU. Meaning, they fear the transparency. They fear that, "Uh-oh, now the government will know I misdeclared or underdeclared," and so on. So there are also people, especially urban people, who see PADU as a way for the government to chase after tax evaders. Right? So there's that too. So opposition to PADU comes in many different forms. Within the government there's one kind, among the public there's another kind. But as a country, we cannot move forward without one centralized database. And that job is done. Whichever government comes in after this, they just walk right in — it's already there. They just have to think about how to build the use cases. So right now, PADU already has several use cases. For example, PTPTN is working on a use case to determine monthly repayment amounts, because you need to categorize people into socio-economic groups. Then they fall back on PADU. And others too — and I think as we go along, every time they need to assess someone's financial or socio-economic standing more fairly, they will fall back on PADU.
 
-**Host:** Alright, I think that's a good place to end this discussion.
+**Chak Onn Lau:** Okay, so that was also a question from one of our audience, because let me make sure I understand. So right now the status of PADU means the database foundation is all there and can be used by each ministry. But the use cases aren't fully built out yet, right?
 
-**Rafizi:** You all are like my scaredy cats. *(laughs)*
+**Rafizi:** You mean use case?
 
-**Host:** No, because it's late — it's already 10:30, that's actually past my bedtime. Thank you YB for joining our former minister's podcast. If there are other former ministers who want to join our podcast, please — who else? Do we have to wait for a reshuffle, or another three months? Sorry, Najib Razak, if YB wants, YB can contact us — we can do it remotely. Thank you to all our viewers. As always, leave your thoughts in the comment section below about this discussion. We cover everything you want to know. And as always, keep it on Chilli Sauce for more current issues, extra spicy.
+**Chak Onn Lau:** I mean use case. For, let's say, for the petroleum subsidy...
+
+**Rafizi:** No no, the use case that wasn't agreed upon was only for RON95. Especially since the PM has already announced that there won't even be subsidy targeting for it, since the price has simply dropped to RM1.99 for everyone. So there's no need for a database for it — everyone will get it. But for other use cases that the public doesn't know about — for example, the Ministry of Digital is developing a centralized application, an app, I think called MyGov.
+
+**Chak Onn Lau:** For what?
+
+**Rafizi:** Because right now there are all sorts of apps and each one costs money. Then they don't get updated, and there are many vendors and so on. And actually, for the public, it's a hassle. You should just have one app where everything is available. And that's part and parcel of digitizing our government services. So the Ministry of Digital, while they've been developing it — I don't know when they'll launch it — but the back end is definitely PADU. It's just that we don't — I mean, the public doesn't see it, they only see PADU as if it's just about RON95. It's actually much, much wider than that. Imagine you don't have a back end for your system. So PADU is the back end for government systems, and it is done.
+
+**Chak Onn Lau:** Okay, last question about PADU. So now, has your ministry basically destroyed all the silos, or after PADU exists, can MOF still maintain their silo? Can MOE still maintain their silo? Meaning, they have their own data, they don't need to plug into PADU?
+
+**Rafizi:** No, each ministry still has its own database.
+
+**Chak Onn Lau:** Okay.
+
+**Rafizi:** Because when we built PADU, we didn't eliminate all the other databases, but it extracts, it integrates. So for example...
+
+**Chak Onn Lau:** Only if they give it to you, right?
+
+**Rafizi:** No, now, because it's policy, they do give it! Since it's become government policy for us to share and combine data, they have to give it. EPF gives it, LHDN gives it. Okay, now so the database exists there, and they still have their own too. Except for a few big ministries. The big ministries with a lot of data are only, for example, MOF, or, for example, KDN — the National Registration Department. Other ministries have small amounts of data. So it doesn't make sense for them to spend money or build their own database, because they'll never be able to rival PADU's huge database. So they'll just use PADU. But nothing stops them from building their own. It's just that maybe listeners don't understand this...
+
+**Chak Onn Lau:** Causing problems.
+
+**Rafizi:** No, we also — I mean, before, and in fact in the 13th Malaysia Plan, we already stated that government IT systems must be based on enterprise architecture. And this enterprise architecture must sit at the top, combining all the ministries. So for example, if a ministry or department decides to build its own system but it doesn't fit into the right place in the enterprise architecture, and therefore has to build from scratch — when they go ask the Ministry of Economy for budget, the Ministry of Economy will say no, we can't give it, because it doesn't fit. Because you don't have to do A, B, C, D, E. You should only do C and D, because A, B, C already exist in PADU, this already exists, that already exists. That's also how you control it.
+
+**Iqbal:** Understood.
+
+**Chak Onn Lau:** I think we have to move on to the next...
+
+**Iqbal:** How was the time?
+
+**Rafizi:** Oh, that's what you all called "the spicy one"? Turns out you wanted to ask about PADU! PADU is easy!
+
+**Chak Onn Lau:** Should we ask this one or not?
+
+**Iqbal:** Maybe then we'll wrap up with the last question, cybertroopers.
+
+**Chak Onn Lau:** Last question, cybertroopers.
+
+**Rafizi:** Oh.
+
+**Iqbal:** One question about cybertroopers. So maybe the very last wrap-up one.
+
+**Chak Onn Lau:** Next one, next one, next one. Quite far, quite far.
+
+**Iqbal:** Yes.
+
+**Rafizi:** How long did you all take compiling these questions?
+
+**Chak Onn Lau:** Oi, there are just a lot of questions.
+
+**Iqbal:** So, maybe the second-to-last question. In terms of communicating information, we can perhaps see that efforts to convey government initiatives are mostly carried out by cybertroopers. To a certain extent, the most visible effort to communicate the government's work is done by cybertroopers. And we got two questions related to cybertroopers. Greetings YB Rafizi — as a politician, why are many among Anwar's supporters racist, sexist, ableist, and classist? And another one asks, are you aware that many Twitter cybertroopers, mostly men, are misogynist and bullies? And is there anything the PKR leadership will at least do about this?
+
+**Rafizi:** No, I think I can't get involved in that, you know. I maintain that. Sometimes when someone is rude or whatever, because...
+
+**Iqbal:** Because YB Rafizi just blocks them.
+
+**Rafizi:** If they're making noise, I just block them. Because here's the thing: we're a plural country. Opinions vary a lot. One person says this guy is, you know, sexist and so on, another person says this — I mean, it's a free world, it's Twitter, it's X. Go fight it out there. For example, there are two or three PSM supporters who keep complaining and tagging me, "Oh your supporters are terrible," this and that. I'm not going to go scold PSM, "I don't like this person making noise here." I can't. And you cannot apply one rule to yourself and different rules to other people. So let it be. If, to me, you really don't like it, then don't engage with it. Right? I mean, unless you want to report it as those things being annoying and, uh... annoying and offensive, right! Because what's offensive to you might not be offensive to other people. So there are always two sides of a coin. We say someone is like this, but other people see us differently too. So to me, let it be. Just block or mute them. And that's that.
+
+**Iqbal:** Okay. Then the final question.
+
+**Chak Onn Lau:** The final question, huh? Okay. One more.
+
+**Chak Onn Lau:** Okay, so it was the first question we asked and it's the last question we're asking. You wrote in your MCKK profile before, the debate profile like...
+
+**Rafizi:** Eh, the guy who put that up there has already passed away, you know, go ask him.
+
+**Chak Onn Lau:** Wanted to become PM. If you could, if you would...
+
+**Chak Onn Lau:** Okay, before that, I had one follow-up question before that. If you were to choose — if you had the choice of whichever ministry you wanted to take over in the future — which one would it be? I had a bet with one of your guys about which ministry you would pick.
+
+**Rafizi:** You see, you see...
+
+**Chak Onn Lau:** Like, which would be the most impactful for you, where you'd want to make change?
+
+**Rafizi:** I think I don't know how other people decide which ministry they want to become minister of. I think — if you go into politics and you want to serve in government, it means you want to make a difference. And you can only make a difference if you're passionate about it. I'm only passionate about two or three things. One, the economy — anything related to the economy. Second, education. Third is industry-related, tech-related, industry-related things. It's because those are things I know, I've been involved in, and it's not just...
+
+**Iqbal:** So you mean, something like MITI? Something like that?
+
+**Rafizi:** No, I mean, don't put me in the Ministry of Youth and Sports, for example. I can't make a difference there. So it's like, let's say...
+
+**Chak Onn Lau:** Because you wouldn't get sports at MCKK, right?
+
+**Rafizi:** So it's like, if you become PM, when you assign someone to a ministry or portfolio, it has to suit their expertise, their interest — only then can they do a good job. So I think I'm known — I'm only good at those few things. If you make me Foreign Minister, there'll be war! I'm not a diplomat! I mean, I say what I want to say. So that wouldn't work. The Foreign Minister needs to be someone diplomatic and so on. Don't make me Minister of Religion, for example. So I think it's only in those few, and I think it's well known, only in those few portfolios can I make a difference.
+
+**Chak Onn Lau:** Okay, and then after that — the ambition to become PM, and how has this timeline changed with the recent developments over the last three months?
+
+**Rafizi:** I know you all won't believe this, but I have no ambition even in politics.
+
+**Iqbal:** You've been quite consistent about that, to be honest.
+
+**Rafizi:** And doesn't it prove it to anyone — which politician just walks out and says bye-bye in the last few years? Name me one. I walked out at the height of PH's 2018 win, I just walked out and said bye-bye, good luck to you guys. I went jogging and I'm very happy with my life. Now as minister, I just walked out. Actually, I don't know how many times I have to repeat this — I have no interest in power, actually. And unlike other people, I don't see politics or power as the only means to make a difference or bring change. But there's a "but." So I mean, if it comes, it comes. My responsibility, to me, is much bigger — to make sure society doesn't become disillusioned with this concept of reform, with changing society and so on. And I think Bernie Sanders doesn't have to become President of the US to make a difference. So it's like — and I think that's what makes me happy, because I don't have a target of having to become a minister or whatever. And I think whether I'm an MP or not, my voice and my views still matter at this point.
+
+**Iqbal:** Okay.
+
+**Rafizi:** And once you reach my stage in life, actually it doesn't make that much difference anymore either way.
+
+**Iqbal:** Okay, but let me maybe ask that question in a different form. Given that this responsibility is a trust, a burden — if duty called, would you answer?
+
+**Rafizi:** Yes.
+
+**Iqbal:** Okay.
+
+**Rafizi:** If duty calls. But the end does not justify the means. If someone says, "Oh, we need to save the country by becoming Prime Minister," and then you go all reckless trying to become Prime Minister — what for? I mean, right? So I always feel that maintaining yourself, and, you know, trying to be as much as possible what you were in your 20s — when you were a stupid young boy, actually — is important as you grow older. Because you tend to lose sight of that.
+
+**Chak Onn Lau:** And how do you think you're doing on that?
+
+**Rafizi:** Not good, I got...
+
+**Iqbal:** Have you become anything...
+
+**Rafizi:** I'm a lot wiser now. I'm a lot wiser now. I think I was extremely naive. I was extremely naive. I really saw the world in black and white. And...
+
+**Iqbal:** Was — so not anymore now?
+
+**Rafizi:** I think everything is grey by now. It's very grey.
+
+**Iqbal:** But you wouldn't consider yourself jaded?
+
+**Rafizi:** No, I'm not. Actually, okay — I think we have achieved a lot. Other people go back to that question about being prime minister, power, minister — it depends on how you quantify your achievement. If you quantify it by becoming a minister, prime minister, having power and all that, okay, it's okay, there's a lot of debate about that. I didn't. To me, I remember exactly what I wanted to do when I entered politics. First, I don't like to listen to overly stupid things, you know. I feel like surely we can do better than this. So as long as those voices, those progressive voices, are well and alive, I think that is an achievement that we have made over the years. Same with, for example, things that we take for granted now — this we take for granted, it didn't exist when I was young. Demonstrations, we take it for granted now, it didn't exist. Competitive democracy where the opposition can push back, where a backbencher can speak differently — it didn't exist back then. These are all the achievements that I think I contributed to, and I think it's something worth doing over the next 10 years, 15 years. Only, I don't expect change to happen instantly, it's incremental.
+
+**Iqbal:** Alright, I think this is a good place to end the discussion.
+
+**Rafizi:** You all are like my cats who just look scared!
+
+**Iqbal:** No, it's because it's already late, 10:30. It's past my bedtime, to be honest.
+
+**Chak Onn Lau:** Thank you YB for joining our former minister podcast. If there are other former ministers who want to join our podcast, please...
+
+**Rafizi:** Who else? We'll have to wait for a reshuffle, I guess. Wait for a reshuffle or a change of government in another three months.
+
+**Chak Onn Lau:** Many YBs — sorry, Najib Razak, if you want you can call.
+
+**Iqbal:** We'll do it remotely. Alright, thank you to all the viewers of Yang Berhenti Menteri x Siapa Makan Cili. As always, leave your thoughts in the comments about the discussion below — did we cover everything you wanted to know — and as always, keep it on Cilisos for more current issues, extra spicy.
+
+**Chak Onn Lau:** Bye!
