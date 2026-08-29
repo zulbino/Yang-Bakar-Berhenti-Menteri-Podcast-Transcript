@@ -390,7 +390,7 @@ Jadi saya minta penyelidikan semula. Punyalah payah. Kerana kita tidak mempunyai
 
 **Haziq:** Ya, semalam dekat parlimen. Jawab soalan Wan Fayhsal.
 
-**Dr. Rais Hussin:** Ya, kerana jika anda bandingkan... seperti yang saya katakan tadi, 3, 4, 7, 8.2 juta, 4.2%, 85% adalah bantuan kewangan. Dan kemudian anda melihat negara BRICS — mereka berada dalam terma GDP 45-47%, dalam terma global, dalam terma populasi lebih daripada 4.2 juta.
+**Dr. Rais Hussin:** Ya, kerana jika anda bandingkan... seperti yang saya katakan tadi, 3, 4, 7, 8.2 bilion, 4.2%, 85% adalah bantuan kewangan. Dan kemudian anda melihat negara BRICS — mereka berada dalam terma GDP 45-47%, dalam terma global, dalam terma populasi lebih daripada 4.2 juta.
 
 **Rafizi:** Bahagian itu saya nampak. Bahagian itu saya tak — saya tak tahu. Ini jawapan kepada soalan Wan Fayhsal, mengenai kesan kepada BRICS lah. Hmm, okey, okey.
 
