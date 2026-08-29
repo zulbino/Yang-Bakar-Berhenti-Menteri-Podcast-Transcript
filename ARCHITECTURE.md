@@ -144,6 +144,21 @@ python scripts/splice_gap.py ep48 --clip-start 8500 --keep-until 8960 --gap-from
 python scripts/retime_blocks.py ep61
 python scripts/retime_blocks.py ep61 --write
 
+# One person's continuous speech arrives as several turns, because the diarizer cuts at
+# PAUSES not speaker changes: ep41 had "[2:53:13] Rafizi ... / [2:54:43] Rafizi: Aku /
+# [2:54:44] Rafizi: orang cakap pasal Climate change". Merges same-NAMED-speaker runs, and
+# folds an unknown backchannel turn ("Hmm", "Hehe") into the named turn before it. Two
+# consecutive `Speaker ?` turns are NOT merged -- that would assert one unidentified
+# person where nobody claimed one (2.6)
+python scripts/merge_same_speaker.py
+python scripts/merge_same_speaker.py --write
+
+# Free the derived scratch: 8.2 GB of decoded WAVs that ffmpeg rebuilds on demand, plus
+# gate backups and frame caches. Never touches audio/*.m4a or audio/*.vtt (both sources),
+# never touches a git-tracked file, and refuses to run while a gate is mid-flight
+python scripts/cleanup_scratch.py
+python scripts/cleanup_scratch.py --write
+
 # Speaker labels that appear in interview*.md but never in raw.md
 python scripts/label_drift_audit.py
 

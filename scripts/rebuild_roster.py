@@ -100,6 +100,13 @@ PRESENT_UNLABELLED = {
     # Farhan (Pa'an): same bar
     "ep39": ["Farhan (Pa'an)"],   # "apa nama ni Farhan sebut tadi"
     "ep55": ["Farhan (Pa'an)"],   # "Pa'an yang takut dah"
+    # ep19 clears a HIGHER bar than the quoted-line ones above: the owner listened and
+    # named him. raw.md holds only Rafizi and Haziq for the whole episode, so no label
+    # and no text mentions Farhan anywhere -- there is nothing for this script to derive
+    # from, which is exactly the gap PRESENT_UNLABELLED exists to cover. The turn is
+    # `Multiple speakers` because he and Rafizi say the name together
+    # (data/speaker_adjudications.json, ep19_round2).
+    "ep19": ["Farhan (Pa'an)"],   # owner, by ear: [2:24:55] "Mahdzir Khalid." is Rafizi + Farhan
     # ep43 and ep44 removed 2026-08-28: both were re-cut at turn level, so Farhan holds
     # 26 and 16 labelled turns of his own. ep44's identity was confirmed by the repo owner
     # from the video after the voiceprint returned UNRESOLVABLE on 7-second turns.

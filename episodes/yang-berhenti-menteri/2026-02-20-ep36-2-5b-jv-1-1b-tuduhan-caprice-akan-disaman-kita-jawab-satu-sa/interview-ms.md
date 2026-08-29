@@ -67,11 +67,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Ya.
 
-**Lee Chean Chung:** YB Chean Chung walaupun cuti-cuti ni, datang ke podcast ni. Eh, dah mula kerja dah.
-
-**Lee Chean Chung:** Oh dah mula kerja. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerja lah. Siapa kena buka kedai lah. Mood masa raya lah. Mood masa
-
-**Lee Chean Chung:** raya. Badan kena kerja. Okey-okey. Baik YB. Jadi mungkin sebelum kita mulakan, saya pakai baju Melayu warna merah, barulah kena dengan Ramadhan dan juga tahun baru Cina. Tapi sebab Haziq dah pakai, saya dah neutralkan pun, walaupun tak merah sangat pun, kalau tidak nanti jadi macam janggal. Tapi tak apa, sebab aku dah pakai — apa nama ni, dia panggil apa ni — ni bukan Cheongsam...
+**Lee Chean Chung:** YB Chean Chung walaupun cuti-cuti ni, datang ke podcast ni. Eh, dah mula kerja dah. Oh dah mula kerja. Kau ingat Cina macam kita cuti. Dia dua hari cuti dia mula kerja lah. Siapa kena buka kedai lah. Mood masa raya lah. Mood masa raya. Badan kena kerja. Okey-okey. Baik YB. Jadi mungkin sebelum kita mulakan, saya pakai baju Melayu warna merah, barulah kena dengan Ramadhan dan juga tahun baru Cina. Tapi sebab Haziq dah pakai, saya dah neutralkan pun, walaupun tak merah sangat pun, kalau tidak nanti jadi macam janggal. Tapi tak apa, sebab aku dah pakai — apa nama ni, dia panggil apa ni — ni bukan Cheongsam...
 
 **Rafizi:** Ni bukan lah, ini cuma baju raya.
 
@@ -255,9 +251,7 @@ Jadi saya berharap kalau mereka yang masih lagi ada ruang untuk menyumbang, meny
 
 **Lee Chean Chung:** Laman web dah aktif?
 
-**Rafizi:** Laman web memang aktif sebentar tadi, hari Jumaat hari ni lah, hari memang lah hari ni. Jadi sepatutnya kalau pergi semak, harap-harapnya diorang dah selesai semua proses, sepatutnya dah memang boleh berurusan sekarang lah. Sekarang ni malam ni kan, sekarang ni dah sepatutnya dah dekat pukul sebelas lebih ni. Jadi dah, dah boleh menyumbang terus lah.
-
-**Rafizi:** Okay, baik YB. Itu bahagian saya. Ini bahagian kita ada dua projek baru ya, YB.
+**Rafizi:** Laman web memang aktif sebentar tadi, hari Jumaat hari ni lah, hari memang lah hari ni. Jadi sepatutnya kalau pergi semak, harap-harapnya diorang dah selesai semua proses, sepatutnya dah memang boleh berurusan sekarang lah. Sekarang ni malam ni kan, sekarang ni dah sepatutnya dah dekat pukul sebelas lebih ni. Jadi dah, dah boleh menyumbang terus lah. Okay, baik YB. Itu bahagian saya. Ini bahagian kita ada dua projek baru ya, YB.
 
 **Lee Chean Chung:** Ya ya, untuk Ayuh Malaysia. Pinjam gajet dan apa satu lagi? Saya terpanggil lah untuk kongsikan siarkan ucapan tahu bau Cina lah yang berjaya menarik perhatian ramai.
 

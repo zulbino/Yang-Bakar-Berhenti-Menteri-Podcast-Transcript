@@ -275,27 +275,30 @@
   },
   "_fillers_note": "The residue after the owner adjudicated every substantive turn: short acknowledgements and seam fragments ('Hmm', 'Ya', 'Haa', 'apa. Beria macam'). Set to `Speaker ?` WITHOUT a listen, on the owner's standing principle that substance outranks per-fragment attribution. `Speaker ?` not `Multiple speakers`: these are one unidentified person each, not crosstalk -- the two labels make different claims. `Speaker ?` is the repo's marker for an acknowledged unknown, raises no QA flag (check_published.PLACEHOLDER_RE matches only NUMBERED clusters, deliberately), and follows the ep36 precedent where a 0.8-second cluster became `Speaker ?` rather than a name no method could support. Reversible: delete these two blocks and re-run to get the cluster ids back.",
   "ep41_retime": {
-    "2:51:37": {
-      "at_now": "2:52:22",
-      "was": "Haziq",
-      "text_was": "mesti kita semak daripada satu semasa ke semasa. Tadi saya bagi contoh diesel tu kan. Semasa program design tu dibuat tahun 2024. Hmm. Itu"
-    },
-    "2:51:45": {
-      "at_now": "2:52:35",
-      "was": "Rafizi",
-      "text_was": "yang terbaik yang dipikirkan pada masa"
-    },
-    "2:51:46": {
-      "at_now": "2:52:37",
-      "was": "Haziq"
-    },
     "2:52:19": {
       "at_now": "2:53:13",
       "was": "Rafizi",
       "text_was_startswith": "dia yang kempen pasal harga minyak ni dulu kan."
+    },
+    "_2:51:46_superseded": {
+      "at_now": "2:52:37",
+      "was": "Haziq",
+      "_superseded_by": "ep41_round2 2:52:35, which merged this turn into the one before it. The retime DID run first (2:51:46 -> 2:52:37) and its result is inside the merged turn; re-running would look for a turn at 2:52:37 that no longer exists. Kept as a record, not a rule."
+    },
+    "_2:51:37_superseded": {
+      "at_now": "2:52:22",
+      "was": "Haziq",
+      "text_was": "mesti kita semak daripada satu semasa ke semasa. Tadi saya bagi contoh diesel tu kan. Semasa program design tu dibuat tahun 2024. Hmm. Itu",
+      "_superseded_by": "Superseded by ep41_round2's merges, which absorbed this turn. The retime DID run first and its result lives inside the merged turn; re-running would hunt for a turn that no longer exists. Kept as a record of the timing evidence, not as a rule."
+    },
+    "_2:51:45_superseded": {
+      "at_now": "2:52:35",
+      "was": "Rafizi",
+      "text_was": "yang terbaik yang dipikirkan pada masa",
+      "_superseded_by": "Superseded by ep41_round2's merges, which absorbed this turn. The retime DID run first and its result lives inside the merged turn; re-running would hunt for a turn that no longer exists. Kept as a record of the timing evidence, not as a rule."
     }
   },
-  "_ep41_retime_note": "TIMESTAMPS ONLY -- no label or word changes. Splitting Haziq's question out of the [2:33:49] block put Rafizi's answer at its true 2:52:19, which exposed a backward jump: three following blocks were still stamped 2:51:37-2:51:46. The captions place their text at 2:52:22 ('dinamik kan. Keadaan mesti kita semak'), 2:52:35 ('Itu yang terbaik yang difikirkan pada'), 2:52:37 ('masa itu. Selepas dua tahun kita akan') and 2:53:13 ('sebab dia yang kempen pasal harga minyak'), so all four were mistimed by 30-55s before this session touched anything. The jump was revealed, not caused. Their LABELS remain shredded against the captions -- still not adjudicated, see _still_open.",
+  "_ep41_retime_note": "TIMESTAMPS ONLY -- no label or word changes. Splitting Haziq's question out of the [2:33:49] block put Rafizi's answer at its true 2:52:19, which exposed a backward jump: three following blocks were still stamped 2:51:37-2:51:46. The captions place their text at 2:52:22 ('dinamik kan. Keadaan mesti kita semak'), 2:52:35 ('Itu yang terbaik yang difikirkan pada'), 2:52:37 ('masa itu. Selepas dua tahun kita akan') and 2:53:13 ('sebab dia yang kempen pasal harga minyak'), so all four were mistimed by 30-55s before this session touched anything. The jump was revealed, not caused. Their LABELS remain shredded against the captions -- still not adjudicated, see _still_open. THREE of the four retimes are now parked behind `_`: the round-2 merges absorbed their target turns. Only 2:52:19 -> 2:53:13 is still a live rule. The timing evidence is unchanged and preserved.",
   "ep26_round1_preserved": {
     "_note": "ep26 Speaker 1 is a SPLICED cluster: owner-confirmed per turn, 2026-08-29.",
     "05:22": "Rafizi",
@@ -332,5 +335,17 @@
     "07:17": "Rafizi",
     "21:16": "Rafizi",
     "28:41": "Rafizi"
-  }
+  },
+  "ep41_round2": {
+    "2:52:19": {
+      "merge": 4,
+      "who": "Rafizi",
+      "join": " ",
+      "was": "Rafizi",
+      "text_was": "Tak, keadaan sebenarnya kita kena dinamikkan. Keadaan",
+      "_note": "OWNER, verbatim and final: one Rafizi turn from 'Tak, keadaan sebenarnya kita kena dinamikkan.' through '...Dato' Seri Anwar ni cukup trauma kalau pasal harga minyak naik lah sebab...', and 'no haziq there'. raw had it as Rafizi/Haziq/Rafizi/Haziq, alternating mid-clause four times: 'Keadaan' + 'mesti kita semak', and 'pada masa' + 'itu.' are single sentences. Space join, not ' ... ': one person spoke continuously."
+    },
+    "_my_error": "I first merged this as TWO turns and put Haziq on the second (2:52:35) from a caption '>>' marker plus which label owned more text -- after I had already established in 2.6 that those markers fire mid-turn and prove nothing. Two independent things contradicted it before the owner did: the published rewrite had independently read the whole run as one Rafizi turn, and the text says 'Tadi saya bagi contoh diesel tu kan' -- Rafizi citing his own earlier example. I should have treated the disagreement between my raw edit and the existing published file as evidence, not noise."
+  },
+  "_ep41_round2_open": "Adjudicated: the buried question (2:51:37 Haziq) and the answer's start. NOT adjudicated: the 2:52:35 label, see its own note."
 }

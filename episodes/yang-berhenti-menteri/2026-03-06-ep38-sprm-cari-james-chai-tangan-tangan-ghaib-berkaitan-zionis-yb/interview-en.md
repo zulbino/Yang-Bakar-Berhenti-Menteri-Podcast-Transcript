@@ -471,9 +471,7 @@ So my reading so far is that Takiyuddin will agree. Because even PN, to the very
 
 **Haziq:** Ha.
 
-**Rafizi:** That question is crystal clear, YB, but I think in the end we want to know — what is PMX so afraid of with Azam Baki? But when we look at the latest developments, all sorts of stories are coming out. There are claims from the PM of a conspiracy to topple the government involving Zionists, then Toh Puan Na'imah. But if we say this, people say YB is backing him up, right?
-
-**Rafizi:** It's fine, just say it.
+**Rafizi:** That question is crystal clear, YB, but I think in the end we want to know — what is PMX so afraid of with Azam Baki? But when we look at the latest developments, all sorts of stories are coming out. There are claims from the PM of a conspiracy to topple the government involving Zionists, then Toh Puan Na'imah. But if we say this, people say YB is backing him up, right? It's fine, just say it.
 
 **Haziq:** It's claimed there's a plot to topple the government. So over time it starts feeling like déjà vu, we've heard this before, and it starts sounding like nonsense because, well, everyone gets hit except for our guest here.
 
@@ -613,9 +611,7 @@ So my reading so far is that Takiyuddin will agree. Because even PN, to the very
 
 **Rafizi:** Ha, an hour 50 minutes, right. So let's save the other two for later. Ha, James Bond.
 
-**Haziq:** He has a lot of questions, YB. Among the public, some are quite frustrated because usually this kind of fight is between politician and politician, but this time, after quite a while of that not happening, a private citizen is being attacked and intimidated like this. But I found it quite interesting, YB's statement — whose parody was it that was mentioned?
-
-**Haziq:** One parody, but the person the MACC is looking for — I think before we get to that, and a lot of people are also angry. Busy busy...
+**Haziq:** He has a lot of questions, YB. Among the public, some are quite frustrated because usually this kind of fight is between politician and politician, but this time, after quite a while of that not happening, a private citizen is being attacked and intimidated like this. But I found it quite interesting, YB's statement — whose parody was it that was mentioned? One parody, but the person the MACC is looking for — I think before we get to that, and a lot of people are also angry. Busy busy...
 
 **Rafizi:** Who's angry, Ceplos?
 

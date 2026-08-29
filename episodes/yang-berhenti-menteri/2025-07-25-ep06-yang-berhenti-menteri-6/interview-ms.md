@@ -462,9 +462,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Bukan kacip, aku tahu Kacip Fatimah aje.
 
-**Zaim Zulkifli:** Itulah lain.
-
-**Zaim Zulkifli:** Kacip ni ia macam best lah, macam layan lah, layan lah.
+**Zaim Zulkifli:** Itulah lain. Kacip ni ia macam best lah, macam layan lah, layan lah.
 
 **Rafizi:** Okey lah, aku dah tua. Kau boleh jadi anak aku kan. Kacip. Okey, aku akan ChatGPT-kan.
 

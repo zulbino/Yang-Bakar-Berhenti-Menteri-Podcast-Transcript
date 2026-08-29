@@ -464,9 +464,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Bukan kacip, aku tahu Kacip Fatimah aje.
 
-**Zaim Zulkifli:** Itulah lain.
-
-**Zaim Zulkifli:** Kacip ni dia macam best lah, macam layan lah, layan lah.
+**Zaim Zulkifli:** Itulah lain. Kacip ni dia macam best lah, macam layan lah, layan lah.
 
 **Rafizi:** Okey lah, aku dah tua. Kau boleh jadi anak aku kan. Kacip. Okey, I will ChatGPT it.
 

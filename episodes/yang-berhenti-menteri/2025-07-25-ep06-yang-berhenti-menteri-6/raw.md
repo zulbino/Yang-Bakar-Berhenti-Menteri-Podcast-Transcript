@@ -429,9 +429,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [58:49] Rafizi: Bukan kacip, aku tahu Kacip Fatimah aje.
 
-[58:51] Zaim Zulkifli: Itulah lain.
-
-[58:53] Zaim Zulkifli: Kacip ni dia macam macam bestlah, macam layanlah layanlah.
+[58:51] Zaim Zulkifli: Itulah lain. Kacip ni dia macam macam bestlah, macam layanlah layanlah.
 
 [58:56] Rafizi: Okeylah, aku dah tua. Kau boleh jadi anak akukan. Kacip. Okey, I will ChatGPT it.
 
@@ -527,9 +525,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:09:29] Zaim Zulkifli: Agree.
 
-[1:09:30] Rafizi: Habis kenapa dia collapse?
-
-[1:09:34] Rafizi: Sebab itu I'm not, you know, I'm not disagreeing that you need to have blueprint dan sebagainya, you know. Tetapi blueprints to me is is a byproduct of...
+[1:09:30] Rafizi: Habis kenapa dia collapse? Sebab itu I'm not, you know, I'm not disagreeing that you need to have blueprint dan sebagainya, you know. Tetapi blueprints to me is is a byproduct of...
 
 [1:09:49] Zaim Zulkifli: Culture.
 

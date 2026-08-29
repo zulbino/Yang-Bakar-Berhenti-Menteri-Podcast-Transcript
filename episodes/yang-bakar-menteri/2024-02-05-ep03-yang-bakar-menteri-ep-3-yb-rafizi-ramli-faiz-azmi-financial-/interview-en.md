@@ -250,9 +250,7 @@ It's not enough that only X number of companies were successfully developed, and
 
 **Syed Munawar:** Last one, YB — a question from someone, from Facebook, YB's Facebook, Ask Rafizi: "YB, what is YB's plan to raise the value of the ringgit?"
 
-**Rafizi:** 5 hours isn't enough. Short.
-
-**Rafizi:** One, maybe a short one? There's no short answer to that. It's a lot more complicated. What influences the value of the ringgit? The short-term effect or influence, everyone already knows, namely the result of the uncertainty occurring in the two major economies, namely the United States and China, which have a big impact on us. The United States because the interest rate it sets influences the flow of money in this world. And the situation now is that its interest rate is high compared to ours, so money flows there.
+**Rafizi:** 5 hours isn't enough. Short. One, maybe a short one? There's no short answer to that. It's a lot more complicated. What influences the value of the ringgit? The short-term effect or influence, everyone already knows, namely the result of the uncertainty occurring in the two major economies, namely the United States and China, which have a big impact on us. The United States because the interest rate it sets influences the flow of money in this world. And the situation now is that its interest rate is high compared to ours, so money flows there.
 
 Another external factor affecting us is China. Because China is now going through a phase — well, I wouldn't say its economy is sluggish, but its economy is growing slower than expected. 4-5% for China is slow, it's usually 9%, 8%. Because China is a major trading partner of our country, when China has problems, it affects the ringgit because our investors and currency traders get dragged along too. If China grows slowly, we too will grow slowly. That's the short term, and there's really not much we can do about it. And that one I can point fingers and say it's the United States, China and so on.
 

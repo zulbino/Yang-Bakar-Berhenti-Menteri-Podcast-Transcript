@@ -65,9 +65,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Syuk:** I was invited in the capacity of a young person, so I guess the answer is "a young person."
 
-**Zaim Zulkifli:** You better be. Exactly.
-
-**Zaim Zulkifli:** Maybe for the shoot since he's already... maybe I'm a university student. How old are you?
+**Zaim Zulkifli:** You better be. Exactly. Maybe for the shoot since he's already... maybe I'm a university student. How old are you?
 
 **Syuk:** 27. Turns out I'm old already. An old Gen Z, not really a "young person."
 
@@ -85,9 +83,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** This one has a lot too.
 
-**Zaim Zulkifli:** Those are palazzo pants, like the old-school ones. What does palazzo mean?
-
-**Zaim Zulkifli:** Palazzo is like slightly flared at the bottom. That's bell bottom. Baggy, then baggy. But that...
+**Zaim Zulkifli:** Those are palazzo pants, like the old-school ones. What does palazzo mean? Palazzo is like slightly flared at the bottom. That's bell bottom. Baggy, then baggy. But that...
 
 **Syuk:** that's old fashion people used to wear like that.
 
@@ -125,15 +121,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** There wasn't a format with him yet, okay alright, this isn't an exam, okay okay alright. Let's look at the first one, we have a chicken rice seller charging RM26. This went viral recently. Where does he sell it? RM26? He sells it from his home.
 
-**Syuk:** Yeah, where's his house? I'm not sure where his house is, but I noticed on his TikTok he opens orders — like whoever wants some, opens an order, and then he...
+**Syuk:** Yeah, where's his house? I'm not sure where his house is, but I noticed on his TikTok he opens orders — like whoever wants some, opens an order, and then he... he delivers. But people know who he is.
 
-**Syuk:** he delivers.
-
-**Syuk:** But people know who he is.
-
-**Rafizi:** I don't know who this is. Is it wrong that I don't know? Never mind. Hahaha, scared of feeling out of touch, friend. Farhan knows since he's from the Bangsar crowd, but no connection? What? Hahaha. Bangsar crowd?
-
-**Rafizi:** Haa. But you don't — you've never had any connection to Bangsar, right?
+**Rafizi:** I don't know who this is. Is it wrong that I don't know? Never mind. Hahaha, scared of feeling out of touch, friend. Farhan knows since he's from the Bangsar crowd, but no connection? What? Hahaha. Bangsar crowd? Haa. But you don't — you've never had any connection to Bangsar, right?
 
 **Farhan (Pa'an):** You were the one who gave me that.
 
@@ -209,9 +199,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** The one about the missing person.
 
-**Rafizi:** Haa, that's it, like — haa, what was it, someone went missing, right, so this one's usual, to say that because someone sells chicken rice at RM26 everyone else will raise their chicken rice prices to, for example, RM15, RM20 — hmm, not necessarily true, because it's quite obvious he's selling to his own market segment. If an ordinary seller, if for example someone sells chicken rice in Sungai Besi for RM26, they'd close shop within 2-3 days. It's just really a battle, I think — usually it's also our own people who queue up. Sometimes if you look at foodies, there's viral food that people are willing to queue up for the longest lines, that's being extra, but that's our culture
-
-**Rafizi:** to try things,
+**Rafizi:** Haa, that's it, like — haa, what was it, someone went missing, right, so this one's usual, to say that because someone sells chicken rice at RM26 everyone else will raise their chicken rice prices to, for example, RM15, RM20 — hmm, not necessarily true, because it's quite obvious he's selling to his own market segment. If an ordinary seller, if for example someone sells chicken rice in Sungai Besi for RM26, they'd close shop within 2-3 days. It's just really a battle, I think — usually it's also our own people who queue up. Sometimes if you look at foodies, there's viral food that people are willing to queue up for the longest lines, that's being extra, but that's our culture to try things,
 
 **Syuk:** for
 
@@ -237,9 +225,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Oh right, this is for them to comment on. One Farhaj a week. This is the most famous young entrepreneur icon, young people know him. Go ahead, I want to drink some water. Zaim, Zaim, because he...
 
-**Zaim Zulkifli:** I think people know Farhaj, but have you ever met him? Never met him. That's strange. But like — I mean, like when we chat with friends and stuff, people know Farhaj, and people are very interested in him, in the sense of how did he become who he is now.
-
-**Zaim Zulkifli:** So the kids at uni...
+**Zaim Zulkifli:** I think people know Farhaj, but have you ever met him? Never met him. That's strange. But like — I mean, like when we chat with friends and stuff, people know Farhaj, and people are very interested in him, in the sense of how did he become who he is now. So the kids at uni...
 
 **Rafizi:** if at IIUM, how is it? Do they all know Farhaj?
 
@@ -307,11 +293,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** But I see the style, like the narrative he's trying to build here, it seems like Farhaj wants to run for office or something — he's introducing that to the public.
 
-**Rafizi:** That too, a bit of whitewashing — the reformasi struggle. Well, he's no longer a politician, right? Dato' Seri Anwar? Maybe he's making a comeback? No, no, that's what's extra, three witnesses, before, what's this, that's what's extra — what's this, the people on this PR team, because on one hand Dato' Seri Anwar says Farhaj isn't involved in politics, he's 100% business, whereas businessmen usually don't want to be associated with politics like this.
-
-**Rafizi:** Alright, let's just take over that PR team — how much do they want to be paid? I think we could probably do a better job. But on principle, don't want to?
-
-**Rafizi:** Huh? Well, everything, there is a price for everything.
+**Rafizi:** That too, a bit of whitewashing — the reformasi struggle. Well, he's no longer a politician, right? Dato' Seri Anwar? Maybe he's making a comeback? No, no, that's what's extra, three witnesses, before, what's this, that's what's extra — what's this, the people on this PR team, because on one hand Dato' Seri Anwar says Farhaj isn't involved in politics, he's 100% business, whereas businessmen usually don't want to be associated with politics like this. Alright, let's just take over that PR team — how much do they want to be paid? I think we could probably do a better job. But on principle, don't want to? Huh? Well, everything, there is a price for everything.
 
 **Farhan (Pa'an):** Wow, you're just joking, right?
 
@@ -327,9 +309,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** I think you should ask young people because all this is pushed on news — do young people read the news?
 
-**Zaim Zulkifli:** That's the point, that's actually even more extra. But what's even more extra is when the NGO puts out something like this, people won't know. But that NGO benefits nicely.
-
-**Zaim Zulkifli:** Benefits nicely.
+**Zaim Zulkifli:** That's the point, that's actually even more extra. But what's even more extra is when the NGO puts out something like this, people won't know. But that NGO benefits nicely. Benefits nicely.
 
 **Rafizi:** Benefits nicely, if not, why would he set up that NGO to benefit nicely. Haa. It's just the PR mastermind behind it, public relations — surely they must know that young people don't actually read all this, right?
 
@@ -345,9 +325,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** That's just for SEO, Search Engine Optimization.
 
-**Syuk:** That makes sense too. But if you combine it back with Pa'an's argument, say like, oh maybe he wants to run for office or something. So by the time he runs, people Google him, oh he's been loyal to reformasi. So at least there's a track record.
-
-**Syuk:** In Bukit Bintang, Bukit Bintang...
+**Syuk:** That makes sense too. But if you combine it back with Pa'an's argument, say like, oh maybe he wants to run for office or something. So by the time he runs, people Google him, oh he's been loyal to reformasi. So at least there's a track record. In Bukit Bintang, Bukit Bintang...
 
 **Rafizi:** Bukit Bintang Bubble, this Bubble. I strongly deny it, BBB, 3B Bukit Bintang Bubble. Okay, is it dramatic, Syuk and Zaim? I don't have a shirt like that, you know. Maybe one day I'll come and throw away a shirt like that. Never seen it before. Never seen it. Okay, dramatic. So who's being dramatic? Is it dramatic, Zaim? Dramatic. That NGO is dramatic. But rich, never mind. Rich, never mind?
 
@@ -359,9 +337,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Ha, ask the young people, ask the young people.
 
-**Haziq:** As young people, the youngest here, when you look at it all at once, does it really look desperate?
-
-**Haziq:** Not really. Because young people like to go by words. Zahid hurt... what?
+**Haziq:** As young people, the youngest here, when you look at it all at once, does it really look desperate? Not really. Because young people like to go by words. Zahid hurt... what?
 
 **Zaim Zulkifli:** Honestly, it doesn't look that way. Do you know who this is? I know, I know. Oh, feels good, the name is quite familiar. Okay, okay.
 
@@ -379,9 +355,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Now it's okay, okay. Let's continue. So...
 
-**Syuk:** I don't know, maybe this is the first statement about Bersama being the first party. Muda opened it up too before, right?
-
-**Syuk:** Oh, he...
+**Syuk:** I don't know, maybe this is the first statement about Bersama being the first party. Muda opened it up too before, right? Oh, he...
 
 **Rafizi:** There was too. But actually, this is it — I think when I was Election Director for GE 2022, GE15, that was the first time BKR did it. Ha, Muda just followed after that. It's just that people don't remember, at that time we already opened it up for everyone. So maybe at that time people thought this was more of an internal party matter. So it really was new. So the first time we did it was 2022, then Muda followed for the 2023 state elections. Ha, that's only twice.
 
@@ -393,9 +367,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** First party? Where did he say first party?
 
-**Syuk:** This time, same, first party in the world to do it this way.
-
-**Syuk:** Eh, no.
+**Syuk:** This time, same, first party in the world to do it this way. Eh, no.
 
 **Rafizi:** Third paragraph. Oh, this is Puan Zarkashi — what a waste of a PhD from the UK. Oh, he has a PhD? I first met him around 1997 I think in London. At that time he was almost done with his PhD, because now he's old, he's the President of the UMNO UK Club. I think so, so there were meetings and everything. So he has a PhD, that's why he's Dr. Puad Zarkashi. There's no other country — it's very common in other countries... in fact, we're the strange ones. Because our political system requires you to become a division chief, a branch chief before you can even be considered. If it's in the US or many Western countries, they have a primary system. Anyone who wants to run can offer themselves. Otherwise, Zohran Mamdani couldn't have become a candidate. But before that, he had to go through a primary. A primary means a party selection. Whoever becomes the chief of all these divisions — say there's an election, like a Senate election, say in a year and a half — Zaim could say, "I want to run against whichever popular senator from the US." It's obvious nobody knows who that is now, right?
 
@@ -767,9 +739,7 @@ So actually it's the same. In my case, for example, it's really a headache manag
 
 **Rafizi:** Oh, "belia" (youth)?
 
-**Zaim Zulkifli:** Youth, right.
-
-**Zaim Zulkifli:** Youth, right, young.
+**Zaim Zulkifli:** Youth, right. Youth, right, young.
 
 **Rafizi:** Relative to Donald Trump, I suppose.
 
@@ -1023,33 +993,17 @@ I think the audience out there is probably like, "change the topic already," I'v
 
 **Rafizi:** Welcome to Goa. We — we also can't, it's already 2 and a half hours, YB, 2 and a half hours is already enough. Pity, tomorrow I have to go to Perak, since Amir is getting married too. Ha. Oh tomorrow starts the Kancil tour to Negeri Sembilan. But since tomorrow one of our crew members is getting married, I can't even be mad at him, he booked it way in advance. When he booked it, planning to get married, how was he to know there'd be an election, at that time there wasn't even an idea to form a party yet. So we can't stay too long either. Okay, so for example, how do we read this, what will happen. There are many possibilities. So one thing that people in politics or — you, in any organization, need to look at is scenario planning. There are many scenarios. One scenario is as we mentioned earlier, BN withdraws support from the Madani government, leaving 120. So if that happens, what's a series of things that will follow? Before we can determine whether Dato' Seri Anwar falls or not, or whether there will be an election or not — what will happen? GPS will follow. Will GPS follow? Then you ask that question. Will GPS follow? And meaning, for Dato' Seri Anwar to remain Prime Minister with only 120 seats, one, he needs to make sure GPS stays; another thing, he needs to beef up the number. So how do you get GPS to stay?
 
-**Zaim Zulkifli:** Give them more
+**Zaim Zulkifli:** Give them more stuff.
 
-**Zaim Zulkifli:** stuff.
-
-**Rafizi:** Meaning, he'll have to grant a lot of demands from Sarawak, because Sarawak will choose whoever can give the better offer. Okay right. So meaning, does the leverage lie with BN or with Dato' Seri Anwar?
-
-**Rafizi:** BN.
-
-**Rafizi:** Why? Why? Why would it be — isn't the PM Anwar Ibrahim who
+**Rafizi:** Meaning, he'll have to grant a lot of demands from Sarawak, because Sarawak will choose whoever can give the better offer. Okay right. So meaning, does the leverage lie with BN or with Dato' Seri Anwar? BN. Why? Why? Why would it be — isn't the PM Anwar Ibrahim who
 
 **Syuk:** can offer that issue, Anwar.
 
-**Rafizi:** Yes. So the leverage lies with him. So this — if I were BN, I'd think about it like this. Before we pull out, we need to first think about who holds the leverage here. So if you're going to pull out, make sure GPS exits with you. If BN alone pulls out, but Anwar succeeds in offering a list of things to keep GPS in the Madani government, suddenly BN becomes the opposition. Okay. If BN becomes the opposition, what risk does BN face? It loses its oxygen. What's its oxygen? Power. Okay, that's one — it loses power. But okay, have they ever lost power before?
-
-**Rafizi:** Fighting over votes.
-
-**Rafizi:** Huh?
-
-**Rafizi:** Fighting over votes.
-
-**Rafizi:** Fighting over votes with what? Who?
+**Rafizi:** Yes. So the leverage lies with him. So this — if I were BN, I'd think about it like this. Before we pull out, we need to first think about who holds the leverage here. So if you're going to pull out, make sure GPS exits with you. If BN alone pulls out, but Anwar succeeds in offering a list of things to keep GPS in the Madani government, suddenly BN becomes the opposition. Okay. If BN becomes the opposition, what risk does BN face? It loses its oxygen. What's its oxygen? Power. Okay, that's one — it loses power. But okay, have they ever lost power before? Fighting over votes. Huh? Fighting over votes. Fighting over votes with what? Who?
 
 **Zaim Zulkifli:** BN with PN.
 
-**Rafizi:** BN doesn't even exist anymore separately, BN is basically with PAS. But the risk to PAS isn't that significant, since they're not in the government now — whether they pull out or not makes no difference to them. But when BN pulls out its 30, leaving 120, the leverage lies with Anwar Ibrahim as Prime Minister, because GPS will transactionally choose whoever can offer the best deal. So the leverage lies with Anwar. So one has to think, if I pull out but GPS doesn't come out together with me, that means I become the opposition. Losing power is one thing, but
-
-**Rafizi:** they'd
+**Rafizi:** BN doesn't even exist anymore separately, BN is basically with PAS. But the risk to PAS isn't that significant, since they're not in the government now — whether they pull out or not makes no difference to them. But when BN pulls out its 30, leaving 120, the leverage lies with Anwar Ibrahim as Prime Minister, because GPS will transactionally choose whoever can offer the best deal. So the leverage lies with Anwar. So one has to think, if I pull out but GPS doesn't come out together with me, that means I become the opposition. Losing power is one thing, but they'd
 
 **Syuk:** have to face the election as the opposition.
 
@@ -1079,11 +1033,7 @@ Zahim's getting sleepy. Young kids shouldn't sleep late, no way. Are you crazy o
 
 **Zaim Zulkifli:** It's like being in an usroh group already.
 
-**Rafizi:** That's true, right. For example, if I got married at 27, and then my child was born when I was 28, he'd end up being like Zaim — 22 years old.
-
-**Speaker ?:** Hmm.
-
-**Rafizi:** Okay, poor thing, the kids need to sleep. Kids need to sleep early, it's not good otherwise, not good for their growth.
+**Rafizi:** That's true, right. For example, if I got married at 27, and then my child was born when I was 28, he'd end up being like Zaim — 22 years old. Hmm. Okay, poor thing, the kids need to sleep. Kids need to sleep early, it's not good otherwise, not good for their growth.
 
 **Speaker ?:** True, true, true.
 

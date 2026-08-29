@@ -39,9 +39,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [01:08] Rafizi: Depressed aku dua hari Dah lah Kalah Johor Lepas tu England kalah Allah. Okey,
 
-[01:16] Haziq: tak apa YB.
-
-[01:18] Haziq: Kita ada beberapa tetamu istimewa hari ini YB. Mungkin saya boleh berhubung dengan mereka terus. Dia kalau dalam podcast, Haziq
+[01:16] Haziq: tak apa YB. Kita ada beberapa tetamu istimewa hari ini YB. Mungkin saya boleh berhubung dengan mereka terus. Dia kalau dalam podcast, Haziq
 
 [01:26] Rafizi: ni takut-takut kat aku tau. Memang, saya takut. Ceramah, beranilah sikit lah. Asal
 
@@ -59,9 +57,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [02:02] Tang Hong Yau: Bulan lepas
 
-[02:05] Haziq: lah. Hahaha. Kalau face to face. Okay, baik-baik. Ya, ya, ya. Okay. Ini saudara Hong Yao. Influencer daripada Chinese punya group lah. Mandarin content. Mandarin content. Dulu di Beta juga? Betul. Dekat University of Malaya. Yes, power. Okay, UM. Ya, betul. Kemudian kita ada Dr. Sam. Bukan Dr. Sam tu. Tapi Dr. Samsu Adabi Mamat. Dr.
-
-[02:28] Haziq: Sam
+[02:05] Haziq: lah. Hahaha. Kalau face to face. Okay, baik-baik. Ya, ya, ya. Okay. Ini saudara Hong Yao. Influencer daripada Chinese punya group lah. Mandarin content. Mandarin content. Dulu di Beta juga? Betul. Dekat University of Malaya. Yes, power. Okay, UM. Ya, betul. Kemudian kita ada Dr. Sam. Bukan Dr. Sam tu. Tapi Dr. Samsu Adabi Mamat. Dr. Sam
 
 [02:28] Rafizi: tu dah hilang lah. Oh, hilang eh. Bising-bising Perikatan Nasional. Saya tak tahu jadi apa dengan dia. Yang ini Dr. Sam yang ada sentiasa. Ya,
 
@@ -69,9 +65,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [02:45] Dato' Dr. Samsu Adabi Mamat: Doktor.
 
-[02:45] Haziq: Tapi saya suka pakai Doktor. Doktor, okey. Baik, baik. Bila pertama kali jumpa pemirsa? Orang politik juga kan.
-
-[02:56] Haziq: 1.0 dulu
+[02:45] Haziq: Tapi saya suka pakai Doktor. Doktor, okey. Baik, baik. Bila pertama kali jumpa pemirsa? Orang politik juga kan. 1.0 dulu
 
 [02:56] Dato' Dr. Samsu Adabi Mamat: dah.
 
@@ -89,15 +83,11 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [03:35] Rafizi: kan?
 
-[03:35] Dr. Harith Fakhrudin: Haa, kalau kali pertama, memang dekat Perling lah. Dekat Perling lah, dekat rumah yang... Dua hari sebelum penambahan calon. Dua hari sebelum penambahan
-
-[03:42] Dr. Harith Fakhrudin: calon,
+[03:35] Dr. Harith Fakhrudin: Haa, kalau kali pertama, memang dekat Perling lah. Dekat Perling lah, dekat rumah yang... Dua hari sebelum penambahan calon. Dua hari sebelum penambahan calon,
 
 [03:43] Haziq: meeting tamu malam tu. Haa, baik-baik-baik. Dan yang terakhir, Dato' DSA yang buka pertama kali. muncul di sini lah. Second time. Ha second time. Ha saya saya dah pernah tanya soalan ni kot.
 
-[03:56] Dato' Dr. Syed Azuan Al-Idrus (DSA): Dah dah dah pernah tanya dah. Saya secara face to face ni RMK ke tiga belas. Ha oh okey. Dekat Perkeleh. Dah dah di Alora.
-
-[04:03] Dato' Dr. Syed Azuan Al-Idrus (DSA): Di Kedah. Ha
+[03:56] Dato' Dr. Syed Azuan Al-Idrus (DSA): Dah dah dah pernah tanya dah. Saya secara face to face ni RMK ke tiga belas. Ha oh okey. Dekat Perkeleh. Dah dah di Alora. Di Kedah. Ha
 
 [04:03] Rafizi: di Kedah.
 
@@ -107,35 +97,23 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [04:31] Rafizi: post-mortem
 
-[04:31] Haziq: why we tak suka post-mortem kita
-
-[04:33] Haziq: post-mortem tu untuk orang mati
+[04:31] Haziq: why we tak suka post-mortem kita post-mortem tu untuk orang mati
 
 [04:34] Multiple speakers: oh ok oh itu sebenarnya
 
-[04:37] Haziq: kan post-mortem beda orang mati lah kan beda siasat
-
-[04:40] Haziq: mati
-
-[04:41] Haziq: ke beda
+[04:37] Haziq: kan post-mortem beda orang mati lah kan beda siasat mati ke beda
 
 [04:43] Multiple speakers: mati betul mati sebut post-mortem aku bukan post-mortem
 
-[04:47] Haziq: kita akan refleksi Dan kemudian kita akan tengok ke pihak R&D ke-9, Melaka dan way forward lah. Tapi sebelum itu, kita akan ada beriamat sedikit lah. Jadi kita minta panelis-panelis kita bersedia untuk rate lah yang mana satu yang paling beria. Kita cuba eh, kita tengok minggu ni macam mana. Okay, baik. Yang pertama, besar pertama bukan politik lah. Kita ada... Siapa letak gambar semua tu?
+[04:47] Haziq: kita akan refleksi Dan kemudian kita akan tengok ke pihak R&D ke-9, Melaka dan way forward lah. Tapi sebelum itu, kita akan ada beriamat sedikit lah. Jadi kita minta panelis-panelis kita bersedia untuk rate lah yang mana satu yang paling beria. Kita cuba eh, kita tengok minggu ni macam mana. Okay, baik. Yang pertama, besar pertama bukan politik lah. Kita ada... Siapa letak gambar semua tu? So lepas
 
-[05:20] Haziq: So lepas
-
-[05:20] Rafizi: ni aku pun
-
-[05:21] Rafizi: kena
+[05:20] Rafizi: ni aku pun kena
 
 [05:22] Haziq: juga kalau aku pergi ke... Tengok CCTV tak? Tengok perut. Ini kes di Lotus Selayang. Apabila ada orang yang mengandung, di-acuse mencuri barang. Jadi dia disuruh untuk tunjukkan perut. Tunjuk perut!
 
 [05:39] Rafizi: Eh, yang ini ada reaksi rasmi daripada Lotus ke? Belum ada. So far tak nampak lagi? Tak ada. Lepas itu, kita akan... Sorry Jadi Lotus mengesahkan Memang insiden ni betul-betul berlaku lah Ya Allah wa'alaikum warahmatullahi wabarakatuh Aku specialist Dia Ni Prof apa nama ni Err Yang gad-gad tu pun ambil gambar orang ambil gambar dia kan dia Bagul lah dia nak buat kerja dia dengan bersungguh-sungguh Tapi beria buat kerja tanpa fikir panjang ni kan So dia kata dia tuduh ada seorang isteri yang mengandung tu Mencuri barang Sembunyi dalam perut Jadi dia suruh apa nama ni buka tunjuk perut kan Lepas tu bila sebut mengandung Dia minta buku pink Tunjukkan bukti you mengandung Ni doktor ada kan Nak dijadikan cerita Suami dia ni adalah peguam Sudah panjang cerita
 
-[06:42] Haziq: Jadi itu speechless jugalah. Cuma ramai yang buat content AI. Beratur depan lontas tujuh
-
-[06:49] Haziq: perut.
+[06:42] Haziq: Jadi itu speechless jugalah. Cuma ramai yang buat content AI. Beratur depan lontas tujuh perut.
 
 [06:49] Tang Hong Yau: Tujuh perut.
 
@@ -155,9 +133,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [08:35] Haziq: nak? Semak CCTV lah. CCTV. Dia sebab orang tu pun dah kena sidai 20 minit, 30 minit. Tapi, dia lah cara dia nak Sah kan tu buka perut, cek buku pink. Betul.
 
-[08:47] Dr. Harith Fakhrudin: Sampung, ngandung tu kalau 38 minggu tu boleh tak ham sah tu memang nampak lah bulat tu. Kalau barang ni kan ada. Yelah. Dia ada shape.
-
-[08:58] Dr. Harith Fakhrudin: Dia tak
+[08:47] Dr. Harith Fakhrudin: Sampung, ngandung tu kalau 38 minggu tu boleh tak ham sah tu memang nampak lah bulat tu. Kalau barang ni kan ada. Yelah. Dia ada shape. Dia tak
 
 [08:59] Rafizi: bulat lah. Macam perut saya walaupun.
 
@@ -171,11 +147,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [11:22] Rafizi: Tak tahu DSA, DSA kan muda.
 
-[11:26] Dato' Dr. Syed Azuan Al-Idrus (DSA): Saya kalau AMK ni bila dia buat statement ni saya orang yang pertama lah.
-
-[11:31] Dato' Dr. Syed Azuan Al-Idrus (DSA): Haa.
-
-[11:32] Dato' Dr. Syed Azuan Al-Idrus (DSA): Terus ambil buka kamera terus buat content lah. Yang terbaru yang ni lah AMK ni. Yang perempuan tu. Perempuan ya ya ya. Ada dalam YouTube saya. wujud lah tak ada mana saya pun tak tahu lah yang tu saya kenal lah ni hebat
+[11:26] Dato' Dr. Syed Azuan Al-Idrus (DSA): Saya kalau AMK ni bila dia buat statement ni saya orang yang pertama lah. Haa. Terus ambil buka kamera terus buat content lah. Yang terbaru yang ni lah AMK ni. Yang perempuan tu. Perempuan ya ya ya. Ada dalam YouTube saya. wujud lah tak ada mana saya pun tak tahu lah yang tu saya kenal lah ni hebat
 
 [11:52] Multiple speakers: lah
 
@@ -185,9 +157,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [12:15] Multiple speakers: tu dia gelap.
 
-[12:22] Rafizi: Saya sebenarnya suka sebab bermaksud... Orang UMNO sukalah. Ini kebangkitan UMNO kan. Mereka lupa bahawa dalam 2-3 tahun ini, rakyat Malaysia lupa dah sedikit sebanyak tentang perangai UMNO. Jadi belum apa-apa lagi, Ketua Menteri Melaka ini cepat-cepat mula tunjuk bibit-bibit perangai UMNO. Jadi ayat dia itu memang sangat-sangat sombong. Dia sebenarnya tak sedar selepas PRN Melaka Pilihan Raya Umum 2022 UMNO sebenarnya hilang semua kursi di Melaka 6 parlimen tu Satu pun tak ada UMNO Tapi yalah itulah UMNO kan Jadi saya harap lebih banyak Supaya pimpinan UMNO Lebih beria macam inilah Dia memudahkan kerja kita Prof je ada Prof
-
-[13:27] Rafizi: Dr. Sam
+[12:22] Rafizi: Saya sebenarnya suka sebab bermaksud... Orang UMNO sukalah. Ini kebangkitan UMNO kan. Mereka lupa bahawa dalam 2-3 tahun ini, rakyat Malaysia lupa dah sedikit sebanyak tentang perangai UMNO. Jadi belum apa-apa lagi, Ketua Menteri Melaka ini cepat-cepat mula tunjuk bibit-bibit perangai UMNO. Jadi ayat dia itu memang sangat-sangat sombong. Dia sebenarnya tak sedar selepas PRN Melaka Pilihan Raya Umum 2022 UMNO sebenarnya hilang semua kursi di Melaka 6 parlimen tu Satu pun tak ada UMNO Tapi yalah itulah UMNO kan Jadi saya harap lebih banyak Supaya pimpinan UMNO Lebih beria macam inilah Dia memudahkan kerja kita Prof je ada Prof Dr. Sam
 
 [13:29] Dato' Dr. Samsu Adabi Mamat: Kalau kita tengok Hal bernikah ni Macam kita kata Isu di Johor lah Mula-mula kita nampak macam Haa dia sembunyikan hubungan kan tapi bila declare dekat negeri 9 ni Dia dengan PAS boleh macam dah declare kahwin.
 
@@ -201,23 +171,15 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [15:17] Rafizi: dia prepare tu
 
-[15:17] Dato' Dr. Syed Azuan Al-Idrus (DSA): Yang
-
-[15:17] Dato' Dr. Syed Azuan Al-Idrus (DSA): dia
-
-[15:18] Dato' Dr. Syed Azuan Al-Idrus (DSA): tepuk
+[15:17] Dato' Dr. Syed Azuan Al-Idrus (DSA): Yang dia tepuk
 
 [15:19] Haziq: Punchline aku kena Priya dia
 
 [15:23] Rafizi: kan. Priya dia prepare pantun dia lah kan.
 
-[15:27] Haziq: Cantik cantik. Tapi mereka pun kalau kata UMNO dengan PAS pernah pun apa bersanding. Dekat PWTC menangis-nangis tu kan. Tapi kita tahulah perizaknya kan.
+[15:27] Haziq: Cantik cantik. Tapi mereka pun kalau kata UMNO dengan PAS pernah pun apa bersanding. Dekat PWTC menangis-nangis tu kan. Tapi kita tahulah perizaknya kan. 2.0. Ha 2.0. Macam
 
-[15:39] Haziq: 2.0. Ha 2.0. Macam
-
-[15:41] Dato' Dr. Samsu Adabi Mamat: ada banyak poster dah keluar 2.0 lah. Ha okey okey. Okey baik. Sebab dia pun silap juga dia Hal bernikah kadir ni Dia kena atas Atas Apa ni hubungan yang lain Atau hubungan yang lain
-
-[16:01] Dato' Dr. Samsu Adabi Mamat: Satu hari
+[15:41] Dato' Dr. Samsu Adabi Mamat: ada banyak poster dah keluar 2.0 lah. Ha okey okey. Okey baik. Sebab dia pun silap juga dia Hal bernikah kadir ni Dia kena atas Atas Apa ni hubungan yang lain Atau hubungan yang lain Satu hari
 
 [16:01] Multiple speakers: nanti Kita simpan ni tau Satu hari nanti
 
@@ -231,9 +193,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [16:14] Multiple speakers: Kalau
 
-[16:17] Dato' Dr. Samsu Adabi Mamat: Melayu, kawin ramai. Cina kawin satu. Cina kawin satu.
-
-[16:24] Dato' Dr. Samsu Adabi Mamat: Dah muncullah
+[16:17] Dato' Dr. Samsu Adabi Mamat: Melayu, kawin ramai. Cina kawin satu. Cina kawin satu. Dah muncullah
 
 [16:25] Multiple speakers: hero kita. Biar je
 
@@ -253,11 +213,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [18:37] Haziq: chopper Okay, baik Kita ada yang terakhir Ini UMNO lah Kita ada game sikit YB Kita kena tolong Akmal Saleh ni Dia tengah pening ni Kita tolong Akmal Saleh Cari alasan tak boleh resign Sebab alasan tu ada banyak Awal-awal tu sebab TYT tak bagi Kemudian dia kata Perlembagaan negeri Melaka tidak membenarkan Jadi apa lagi alasan
 
-[19:05] Rafizi: dia nak bagi ni
-
-[19:05] Rafizi: YB
-
-[19:07] Rafizi: Bagi saya Yelah cerita Akmal Saleh ni Kita semua dah tahu dah Yang dia ni sembang kencang Uang-uang-uang Apa tu tak letak jawatan? Jadi yang beria ni bagi saya, dia dah tidak lagi berkisar mengenai Ahmad Saleh. Yang beria ni sebenarnya pengundi Melayu ni. Pengundi Melayu maksudnya, kita kalau dah tahu orang itu rekod dia macam itu, dia sembang kencang saja, hantam orang tapi bila sampai ke peringkat dia nak tunaikan janji dia, dia tak buat. Kalau kita, kita dah tarik handbrake. yang ada sekarang ni, dia dah terlalu emosi dan dia alasan tu boleh dipakai-pakai ikut suka dia. Dia gunakan itu untuk hentam Ngakoming. Not that saya sokong Ngakoming lah. Aku hentam Ngakoming suamati jugalah kan. Tapi maksudnya bagi saya yang lagi membimbangkan yang beria tu ialah yang beria duk tepuk tangan duk sokong Akmal Saleh ni dalam keadaan memang dah kiri kanan ni. Lepas ni tak tahu salah siapa. Salah kita pula lepas ni kan dia tak letak jawatan kan. So Itu yang lebih membimbangkan sebenarnya.
+[19:05] Rafizi: dia nak bagi ni YB Bagi saya Yelah cerita Akmal Saleh ni Kita semua dah tahu dah Yang dia ni sembang kencang Uang-uang-uang Apa tu tak letak jawatan? Jadi yang beria ni bagi saya, dia dah tidak lagi berkisar mengenai Ahmad Saleh. Yang beria ni sebenarnya pengundi Melayu ni. Pengundi Melayu maksudnya, kita kalau dah tahu orang itu rekod dia macam itu, dia sembang kencang saja, hantam orang tapi bila sampai ke peringkat dia nak tunaikan janji dia, dia tak buat. Kalau kita, kita dah tarik handbrake. yang ada sekarang ni, dia dah terlalu emosi dan dia alasan tu boleh dipakai-pakai ikut suka dia. Dia gunakan itu untuk hentam Ngakoming. Not that saya sokong Ngakoming lah. Aku hentam Ngakoming suamati jugalah kan. Tapi maksudnya bagi saya yang lagi membimbangkan yang beria tu ialah yang beria duk tepuk tangan duk sokong Akmal Saleh ni dalam keadaan memang dah kiri kanan ni. Lepas ni tak tahu salah siapa. Salah kita pula lepas ni kan dia tak letak jawatan kan. So Itu yang lebih membimbangkan sebenarnya.
 
 [20:29] Haziq: Tapi mungkin ubat reaksi daripada Chinese community dengan spesifik on Akhmasaleh ni tak ada jalan-jalan.
 
@@ -279,17 +235,13 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [22:20] Multiple speakers: keluar Faraid semua. Dr. Haris je lah.
 
-[22:25] Dr. Harith Fakhrudin: Saya berbelah bagi ni MKM ni dengan AMK Dengan AMK Tapi sebab AMK tu dah Memang macam itu kan. Memang macam itu kan. Dapat channel. Semua yang KM Melaka ni macam baru
-
-[22:37] Dr. Harith Fakhrudin: je. Fresh. Fresh.
+[22:25] Dr. Harith Fakhrudin: Saya berbelah bagi ni MKM ni dengan AMK Dengan AMK Tapi sebab AMK tu dah Memang macam itu kan. Memang macam itu kan. Dapat channel. Semua yang KM Melaka ni macam baru je. Fresh. Fresh.
 
 [22:40] Multiple speakers: Beria. Okay.
 
 [22:42] Dato' Dr. Samsu Adabi Mamat: Dr. Saif channel. Macam tadi lah. Macam isu-isu nikah kahwin. Nikah kahwin. Umur kan. Dia macam menarik minat lah. Jangankan dia nak kata dia beria. Kita pun beria. Okay.
 
-[23:00] Tang Hong Yau: Okay. Lastly. Ubat. Sudah sedia Sangat cukup Dah prepare
-
-[23:09] Tang Hong Yau: Dia
+[23:00] Tang Hong Yau: Okay. Lastly. Ubat. Sudah sedia Sangat cukup Dah prepare Dia
 
 [23:09] Multiple speakers: practice lama Practice lama
 
@@ -305,25 +257,13 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [24:50] Haziq: YB kalau boleh saya start dulu Yelah kita tengok bersama ni Baru 30 hari Waktu pengumuman Tak sampai.
 
-[25:02] Rafizi: Masa pengumuman PRN Johor tu, saya ingat PRN Johor tu diumumkan bubah akhir Mei. Betul. Satu Jun kan, satu Jun. Masa satu Jun tu, bersama baru lebih kurang dua minggu. Dua minggu. 17 Mei, lebih kurang dua minggu kan. Parti dua minggu, tapi gatal-gatal nak
+[25:02] Rafizi: Masa pengumuman PRN Johor tu, saya ingat PRN Johor tu diumumkan bubah akhir Mei. Betul. Satu Jun kan, satu Jun. Masa satu Jun tu, bersama baru lebih kurang dua minggu. Dua minggu. 17 Mei, lebih kurang dua minggu kan. Parti dua minggu, tapi gatal-gatal nak masuk PRN Johor. Kenapa
 
-[25:23] Rafizi: masuk PRN Johor.
-
-[25:24] Rafizi: Kenapa
-
-[25:24] Haziq: YB?
-
-[25:25] Haziq: Sedap kau kan,
-
-[25:26] Haziq: entam aku kan.
-
-[25:27] Haziq: Nanti penonton marah.
+[25:24] Haziq: YB? Sedap kau kan, entam aku kan. Nanti penonton marah.
 
 [25:30] Rafizi: Hahaha Yelah Of course Kita Bila buat keputusan tu kan Kita ada matlamat-matlamat tertentu kan Jadi... Masa kami buat keputusan untuk masuk PRN Johor tu, dia bukan semata-mata pakai redah lah. Sebab sebenarnya kita dah memang meneliti sentimen pengundi tu dah dekat setahun. Dan pengundi Johor ni memang swing voters. Selepas 2018, pengundi Johor antara swing voters paling cepat berubah di Semenanjung. Sebab itu kalau tengok kepada 2022 kan, daripada keputusan PRN negeri kepada parlimen, dia boleh swing 180 dajar. Jadi memang profil pengundi Johor ialah swing voters, majority kan. Dan kita pun dah buat pre-polling. Sebelum-sebelum itu dan profiling sebelum itu menunjukkan bahawa pengundi Johor adalah antara yang terbuka untuk mempertimbangkan pilihan lain. Jadi kalau kita dah tahu profiling pengundi itu begitu dan dia banyak upside kalau bersama masuk walaupun risiko dua minggu itu besar kan. Kita ada beberapa cabaran besar. Satu cabaran besar ialah jentera. kemudian untuk memperkenalkan bersama Kemudian juga soal untuk kita membuktikan bahawa cara yang cuba dibawa oleh bersama ini ialah cara yang lebih... bersih dan telus dalam politik berbanding parti-parti lain. Kalau kita sembang saja, tapi kita tak boleh buktikan dan kalau kita tangguhkan perkara itu, makin lama makin dekat dengan PRU 16, benda itu konsep. Konsep ini, kecuali pengundi melalui dan menilai sendiri, konsep itu kekal konsep. Jadi, PRN Johor, membolehkan bersama membuktikan beberapa proof of concept yang kita ada itu boleh dipraktikkan. Contohnya satu cara berkempen yang lebih inovasi. Kita ada inovasi dalam kempen, kemudian kita menggunakan kewangan politik yang telus kan. Perkara ini perlu dibuktikan. Sama juga orang selalu kata kalau parti baru ni dia tak ada jentera. Kalau tengok selepas 70 tahun pun soal bergaduh pasal jentera ni tak selesai. Siapa-siapa berkawan dengan PAS lama-lama PAS kata kau tak ada jentera. Jadi kita nak buktikan daripada awal bahawa dalam tempoh satu bulan seperti yang orang takut. Kemudian proof of concept yang ketiga ialah kita juga nak tunjukkan bahawa pendekatan bersama yang tidak menggunakan pendekatan parti-parti dinosaur ambil calon yang mesti dan kita cuba cari yang terbaik daripada kalangan orang yang memang dah ada pengalaman politik dengan calon-calon terbuka perkara itu perlu kita perkenalkan kepada pengundi dan of course lah semua itu kita nak kena pertimbang dengan risiko yang macam mana prestasi kita dengan pengundi. Jadi sebab itu memang daripada awal kita dah ambil pertimbangan dan Negeri Sembilan pun masa itu pun kita dah tahu dia akan ada pilihan raya. Jadi kita tahu kita akan berdepan dengan tiga pilihan raya dalam tempoh tiga, empat bulan. Johor, kemudian masa itu Negeri Sembilan tak umum lagi. No, besarkan kemungkinan Negeri Sembilan berlaku bersama dengan Melaka Oktober kan So kita memang akan Menghadapi beberapa siri pilihan raya pun Jadi daripada kita tunggu Dan kita bercerita Menyusun konsep ini Lebih baik kita masuk bertempur Kerana kalau masuk bertempur itu Walaupun tidak menang Ataupun walaupun hilang deposit Tetapi kita berjaya secara cepat menyusun jentera, belajar daripada pengalaman itu, kita cepat-cepat put our teams, you know, yang, yang, sebab kita tak sama macam parti lain tau. Kita bertempur dengan semua ni. Dengan semua parti dan juga, dengan semua segmen pengundi, China, India, semua ni kan. Jadi, daripada kita tunggu, lebih baik kita masuk. Dan itulah keputusan yang dibuatlah. Dan, cuma yang, Yang berbeza itu ialah selepas kita umum akan masuk, kita memang ada buat pre-nomination polling. Dan pre-nomination polling itu keputusannya sangat berbeza dengan polling pada minggu yang pertama. Kita ada cat tak untuk menunjukkan pre-nomination polling kan? cuba tengok tolak tepi dulu yang 107 konstituensi poll tu kan cuba tengok yang atas tu yang ini kita tunjuk kat skrin untuk penonton tengok kan ini untuk berbuktikan Dr. Sam kan kita tak masuk buta tau saya memang jenis berkira-kira semua kan kalau memang masuk buta memang buang duit sajalah kan kalau tengok yang itu tu pre-nomination poll itu ialah seminggu sebelum penamaan calon yang ini dekat Dr. Haris pun Start share lah Angka bersama dengan pengundi Melayu, Cina dengan India tu Dan state average itu adalah boleh diterima. Dengan angka begitu sebenarnya mencukupi untuk kita masuk bertanding. Dengan Melayu contohnya 13% yang... Dan yang ini bukan pandai-pandai. Yang ini memang lebih kurang 1,600 responden. Randomly call dan stratify and representative of pengundi di Johor. Dan seminggu sebelum penamaan calon tu Melayu 13%, Cina 11%, India 23% dan state average je 13% tu memang telah melepasi deposit. Jadi berdasarkan yang ini of course kalau you masuk logiknya ialah kalau kita berjaya... Paling kurang bertahan dengan pengundi-pengundi yang memang sebut saya akan undi bersama. Yang kuning itu 13%. Responden yang sebut saya akan undi bersama. Dan maksudnya kita akan kekal deposit dan bergantung kepada kempen kita, kita boleh convertkan yang unsure, yang atas pagar. Kalau kita boleh dapat 3-4% lagi, sebenarnya it would have been a good result. Selepas minggu tu, memang yang ini memang disiplin saya lah saya menguruskan kempen daripada dulu. Selepas penamaan calon, bila kita mula masuk kempen, Cuba tengok, angka itu crash tau. Dan dia bukan saja terkesan, bukan saja bersama. Semua parti lain terkesan, kecuali UMNO dengan DAP saja. Cuba tengok ya. Untuk yang Melayu, undi Melayu daripada 13% sebelum penamaan calon, dia jatuh kepada 6%. Half hilang. undi Cina pun lebih kurang sama, 11% kepada 4%, undi India saja yang kekal kan. Dan kalau tengok pola pengundi Cina dengan Melayu itu, kita dah boleh nampak dah, dia dah jadi racialize, dia dah polarize. Pengundi Melayu yang sebelum penamaan calon itu berfikir-fikir untuk undi orang lain, untuk undi UMNO. So pengundi Melayu dia swing kepada UMNO sebab tu tengok 37% naik 44% dan saya rasa keputusan akhir tu UMNO dapat sampai 70% undi Melayu. Lebih. Saya rasa parti-parti lawan ni tak lebih daripada 20% pun. So maksudnya undi UMNO campur undi PN yang 12% tu campur semua 21% yang atas pagar tu So dapat lebih kurang 70% Actually DAP pun begitu juga. So kalau tengok undi China DAP kan, sebelum penamaan calon, only 35% dah. And bersama masih lagi ada 11%. Bila masuk saja penamaan calon, undi MCA stay sama je, 26%. Tapi undi DAP dah naik 47, diambil semua yang bersama semua tu, kemudian saya rasa dalam keputusan akhir, daripada pengundi atas pagar Cina semua pergi kat DAP. So keputusan akhir DAP mungkin dapat dalam 60% lebih, BN mungkin 30% dan bersama memang dapat 5. Sebab itu keputusan akhir itu is on the dot seperti post nomination. Maksudnya undi Melayu bersama dalam 4 ke 6%, I think 5%, 4%. Ada kawasan selalui tinggi tau. Ada Melayu lebih kurang 6%. Undi Cina yang rendah. Saya rasa tiram pun macam itu juga. Tiram actually yang dapat lebih sikit tu ialah undi Melayu. Tiram permas. So kalau yang tengok yang dapat dekat 3,000 tu, semua kawasan yang concentration Melayu tinggi. Tapi Chinese tu memang drop lah. Around 4% or even lower lah. And kalau tengok DJB antara Lakin dengan Setulang, Setulang is about 70% Chinese. Lakin is 75% Melayu. Beza dia besar tau. Lakin dengan setulang, kalau kita tengok mikroskopik bersama lah. Maksudnya di lakin sebab pengundi Melayunya 75%, sebab tu undi akhir dia dekat 6%. Tapi di setulang sebab 70% itu ialah pengundi Cina, undi akhir bersama di setulang is only 3.5%. So, dia mengesahkan bahawa the final number tu lebih kurang macam itulah. Which is Melayu 6% kepada bersama, Chinese maybe 4% or lower. Sebab dia swing kepada racialized campaign yang ada lah. So, kalau tanya saya. Kenapa? Sebelum kita masuk ke kenapa, tanya mereka dulu lah. Kalau tidak, habislah. Kita balik lah lepas ni kan. Sebelum tanya saya, if we go back lah kepada keputusan asal untuk bertanding lah kan. Kalau ada lima matlamat, saya rasa kita dapat empat. So, kalau tidak kerana kita masuk bertanding di PRN Johor, kita tak kenal lah semua ni. Dan kita tak... Saya rasa kita tak yakin bahawa sebuah parti baru ni boleh mewujudkan jentera dengan sebegitu cepat. Mungkin lepas ni DSA, Dr. Haris, Dr. Sam, ubat boleh bagi pandangan lah. Tapi di peringkat saya kan? Dan saya memang mengikuti rapat maklum balas di sosial media yang orang bagi semua kan. Ada satu benda yang bagi saya satu kejayaan. Iaitu kita tak banyak dengar orang komplain pasal bersama tak ada jentera. We hardly hear it tau. Bersama tak ada jentera. Kalau tidak kan, kalau masuk pilihan raya ni, semua orang bergaduh. Masa saya fikir RPH tu, semua orang bergaduh. Oh yang itu tak ada jentera, yang ini tak ada jentera. This time around, saya tak dengar tau orang complain yang bersama tak ada jentera. So maksudnya, dalam tempoh dua minggu, kita telah membuktikan dalam dua minggu saja, we can put quite, apa nama ni, respected general lah sebab itu saya pun tak dengar banyak sangat orang complain tak ada bendera bendera ke apa hilang ke semua kempen pun samalah kalau ikut ceramah kita lagi jauh ke depan berbanding dengan parti-parti lain kan so soal jentera saya rasa itu satu matlamat yang permulaan yang baik soal perkenalkan bersama contohnya kan hmm Walaupun orang gelak dekat kita Duduk sibuk fokus In digital media ni Dr. Sam kan Statistik lah kan Dalam tempoh dua minggu itu kan Yang menonton Kampen kita Daripada pagi sampai ke petang Ialah lebih kurang sejuta rakyat Malaysia Yang itu di channel saya sahaja tau. Tak campur DSA lagi, tak campur Facebook Dr. Sam lagi, tak campur ubat punya lagi kan. Online, YouTube sahaja. Itu tak campur platform lain. Is 1 juta. Daripada 1 juta itu, 315 ribu ialah orang yang pertama kali menonton. So maksudnya kita berjaya memperkenalkan bersama dalam tempoh dua minggu itu kepada 315,000 orang yang baru. Orang kan tanyalah, ala bisinglah, kenapa dia tak terjemah kepada undi? Baru dua minggu. Kalau orang buat marketing kan, actually untuk you reach out kepada consumer baru, kepada prospect baru, sangat susah tau. Jadi matlamat memperkenalkan bersama itu kepada dalam tempoh dua minggu, kepada satu juta rakyat Malaysia dan I think it's about 20% itu daripada yang menonton itu, anggaran kita ialah rakyat Johor. Dia Dan 20% tu Kalau 1 juta Maksudnya lebih kurang 200 ribu lah Tapi bukan semua mengundi di kawasan kita Dan bukan semua akan mengundi kita Tapi Berbanding dengan contohnya Kita buat ceramah Kelompok semua Yang 10 orang 15 orang datang Maksudnya memperkenalkan bersama itu telah pun berjaya lah tercapai kan. Ketiga soal budaya politik baru. Kalau tidak dia kekal konsep tau yang kita kata kita nak perkenalkan calon-calon daripada orang biasa, profesional semua kan. Walaupun ada yang komen pasal calon lah minggu pertama, calon begitu-begini kan. Tapi by and large Menjelang akhir kempen tu Soal calon tu dah tak timbul sangat dah Sebenarnya Kalaupun ada yang beberapa orang kritik ke apa Benda tu sama ada tenggelam Ataupun dalam kes ideal kan, sebab dia budak kan, dalam kes ideal tu dia dah jadi plus point tau. Kalau tengok social media traction, yang paling banyak traction ideal. Sebab dia ada follower baru kan. Jadi yang itu pun saya rasa matlamat memperkenalkan proof of concept. Sebenarnya kita boleh buat begitu. Bagi peluang kepada orang biasa yang ada latar belakang dan juga berkempen tanpa perlu berbelanja besar. Saya tengah kira untuk siarkan secara keseluruhan berapa belanja kita. More or less, I think lebih kurang RM600,000. RM600,000 untuk 15 kursi Lebih kurang berapa? RM40,000 satu kursi Haa Actually RM40,000 satu kursi. It's doable. Of course ada lah hutang lagi yang aku tak bayar kan. Tapi to prove a point that sebenarnya kempen seperti itu yang saya tak dengar banyak sangat orang complain pasal selekeh ke apa semua kan. Dengan RM40,000 yang ditanggung oleh parti, kita boleh buat kempen yang boleh diterima oleh masyarakat lah. sangat kan. So that's a benchmark tau. RM40,000 untuk satu kerusi dun. Dan matlamat kelima ialah tidak hilang deposit Yang itu kaput lah Dan yang itu mungkin kita nak bincangkan lah Apa yang sangat berbeza daripada pre-nomination pool Yang hilang separuh tu Undi Cina Maksudnya yang kuning tu ialah orang responden Yang memang kata akan undi bersama Melayu ada 13% Cina ada 11% Dia hilang separuh selepas Kampen bermula seminggu.
 
-[43:27] Haziq: Cuma mungkin saya boleh check pengalaman dengan mereka. Mungkin mula dengan Dr. Haris. Yang pernah, yang menjadi calon. Kalau mungkin Dr. boleh share sikit lah expectation Dr. sebelum apply. Dengan selepas jadi calon dan go through semua. Adakah expectation tu berbeza? Dan kenapa Dr. apply juga walaupun tahu bersama ni parti dua minggu tak ada itu. Ini dan sebagainya
-
-[43:58] Haziq: Dan...
+[43:27] Haziq: Cuma mungkin saya boleh check pengalaman dengan mereka. Mungkin mula dengan Dr. Haris. Yang pernah, yang menjadi calon. Kalau mungkin Dr. boleh share sikit lah expectation Dr. sebelum apply. Dengan selepas jadi calon dan go through semua. Adakah expectation tu berbeza? Dan kenapa Dr. apply juga walaupun tahu bersama ni parti dua minggu tak ada itu. Ini dan sebagainya Dan...
 
 [43:58] Dr. Harith Fakhrudin: Masa apply... Saya memang harap... Tak harap dapat terpilih... So... Masa apply tu, lepas tu macam 2-3 hari senyap tu saya macam Sebenarnya kata bersyukur lah Cuma pagi Ahad yang sebelum Sabtu Syukri call tu memang kacau lah hidup saya je Alamak Desam-desam Cuma Syukri pandai dia cakap Tapi tak sure lagi doctor Tunggu besok-besok kita bincang balik Saya kalau tak macam hari Ahad tu dah nak kata Eh macam tak boleh ni Nak cari alasan tu kan Tapi Haa Ye Bila hari Isnin tu Dengan YB lah Dengan YB Nick sekali Masa tu kita memang rasa Kalau kita cakap no ni Tak sampai hati tengok muka tu Kita rasa Kita rasa macam kita tipu dia Kita cerita Oh kita nak ni Kita Memang kita risau Pasal masa depan Anak kita Benda semua tu kan Tapi bila Ha Buatlah Macam Tuhan bagi ni Buatlah Sekali kita Nanti dulu kan Dan Faktor sebenarnya Saya rasa Reflect masa tu Saya mungkin tak faham lagi Kenapa Maksudnya Tak nampak betul-betul jelas lah Memang kita Saya tak sangka Saya tak Memang tak ada jangka menang lah Kalau ada masa Pun kita tahu Macam... Kita tengok... Bukan nak menyamakan perjuangan kita dengan perjuangan Nabi Muhammad. Tapi in terms of kita boleh belajar proses tu. Kalau Nabi ni ada divine intervention pun, dia kena lalui proses untuk bawa mesej tu, untuk bawa perubahan tu. Again disclaimer, kita nak kesamakan bersama ni. Tapi inspirasi. Inspirasi. Sebab kita nak belajar daripada tu. Dia ada divine intervention pun melalui proses. yang biasa ni banyak dosa ni so kalau tiba-tiba masuk menang dia macam pelik tu tu saya
 
@@ -337,9 +277,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [46:48] Multiple speakers: lah kan
 
-[46:50] Haziq: Hmm
-
-[46:51] Haziq: Kalau saya boleh tanya Dr. Sam pula Sebab Dr. Sam ni pernah jadi calon Bukan sekali, bukan dua kali Tiga kali
+[46:50] Haziq: Hmm Kalau saya boleh tanya Dr. Sam pula Sebab Dr. Sam ni pernah jadi calon Bukan sekali, bukan dua kali Tiga kali
 
 [47:02] Dato' Dr. Samsu Adabi Mamat: Kita yang berani gagal
 
@@ -347,73 +285,47 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [47:32] Dato' Dr. Samsu Adabi Mamat: kebetulan saya pun juga adalah dulu penganalisis politik juga. Jadi saya faham bahawa sebenarnya dalam apa-apa pilihan raya ni kita memerlukan orang panggil panglima jadi saya lihat aa Muka bukan kata nak kipas kan Rafizi dia dah jadi panglima Tiga kali PRU 13, 14 Dan 15 Yang ni nak masuk 16 state punya election kan 16 Dan saya yakin bahawa Dipanggil charismatic leader Ni dia boleh lead Saya tengok perbezaan Cara kampen tu Memang A lah Kampen A Cuma nak Dia kata Ni saya anggap sebagai Experimental Kan experimental ni Kita masuk dalam Perang kan Dia ketumbukan juga Ketumbukan tentera Peringkat awal kita Kita tengok macam Empat Kan Iaitu BN, PN Dan kita bersama Bersatu ketumbukan kan Satu lagi itu Pakatan Harapan Tapi tiba-tiba bila Datang result Seolah-olah Perperangan itu dua ketumbukan Iaitu PH lawan BNPN kan Tapi masa itu dia tak Itu macam Yelah tipu daya perang Jadi kita tak heran lah Dalam perperangan ini kita bukan tewas Tapi kita eksperimental lah Eksperimental banyak perkara yang saya lihat dalam Dalam yang undi Dia panggil Peralihan undi ketara tu Kalau bahasa Kelantan Saya kata Berdoa Berdoa Berdoa tu Bukan sahaja pada UMNO-BN Tapi pada UMNO-BN Pakatan Harapan juga Itu polarisasi lah Melayu pergi kepada ni Tapi ada satu istilah yang saya dapat daripada tengok penganalisis buat dia panggil undi taktikal di jauh ada undi taktikal sebenarnya undi taktikal merugikan rakyat mereka ni ada pemimpin PAS yang bagi kata undi PN lah undi PN lah di kawasan yang mereka tak bertanding kan Sebenarnya mereka dah bagi syarat bahawa mereka ni ada hubungan sulit. Sebab itulah tiba-tiba berlaku undi taktikal tu berpindah pada BN. Dan mereka sanggup berkorban. Apa ni, 21 kerusi hilang deposit. Jadi kalau kita 15 kerusi hilang deposit, biasa lah. Sebab kita baru 2 bulan. Parti orang kata... Ketumbukan dia ni ketumbukan yang kita kata kalau tiga penjuru ni PH, BN dan juga PN dia tiga ketumbukan gergasi kan. Tapi-tapi dia gergasi pun inilah deposit. 21 kursi kan. Ini kan pula kita 15 ni kata. Kacang je lah kan. Okay.
 
-[50:47] Haziq: Dan mungkin saya boleh singgah kepada DSA. Mungkin DSA dah ada pengalaman Kempen yang Agak lama dan sebelum ini Dalam parti lama DSA Lebih structured Setiap benda ni Awak parti lama DSA Saja
-
-[51:04] Haziq: parti
-
-[51:05] Haziq: aku Parti lama YB jugalah
+[50:47] Haziq: Dan mungkin saya boleh singgah kepada DSA. Mungkin DSA dah ada pengalaman Kempen yang Agak lama dan sebelum ini Dalam parti lama DSA Lebih structured Setiap benda ni Awak parti lama DSA Saja parti aku Parti lama YB jugalah
 
 [51:08] Multiple speakers: Kaya macam parti lain Parti lama kita Topi masih Topi masih sama
 
 [51:15] Haziq: Mari sekarang ni Memang Sangat Macam back Back to basic lah Simple Tapi masih lagi mencapai apa objektif dia apa perbezaan ketara yang DSA nampak lah experience dulu kalau macam YB Rafizi dia kata ini kempen pengalaman paling manis lah yang pernah dia handle sebab walaupun tim kecil semua kecil tapi yelah semua function well macam kalau DSA macam mana
 
-[51:46] Dato' Dr. Syed Azuan Al-Idrus (DSA): Saya ni sebenarnya ialah saya duduk dalam DNA UMNO ni dah lama. Saya dah pernah mengikuti kempen UMNO ni daripada umur 21. Tapi saya tak pernah masuk UMNO. Saya cakap saya tak pernah masuk UMNO. Tapi saya melihat bagaimana UMNO dia punya jentera, cara mereka bekerja memang jauh beza lah. Lepas tu, suddenly saya... Parti yang pertama saya join PKR
-
-[52:09] Dato' Dr. Syed Azuan Al-Idrus (DSA): lah.
-
-[52:10] Dato' Dr. Syed Azuan Al-Idrus (DSA): PKR. Dan saya melihat PKR pun dia... Ada irah-irah UMNO je. Oh. Dari segi jentera kan. Berobot siapa nak jadi jentera. Siapa yang jadi ketua. Sama. Jadi apabila MyBersama ni. Saya rasa something new lah. Something new. Tapi dulu saya nak ucap taniah lah kepada bersama. Bila saya tengok data ni. Maknanya kita masuk dalam PRN Johor ni. Memang pilihan yang terbaik lah. Kerana apa satu. Satu. Johor dah nak habis tempoh dah babi lah. Tapi depan ni insurans ada lagi. Rotek ada lagi. Kan? Patut mereka tangan kalut sangat. Tapi mereka nak buat awal. Jadi pilihan kita masuk tu terbaik. Kerana kita masuk PRN. Kita bukan sebab masuk ada parti-parti ni yang kianat. Kan? Maknanya kalau di negeri 9. Maknanya bila bersama mengambil keputusan tak masuk. Bagi saya tu keputusan yang terbaik. Kerana masuk pun tak guna. Pok-pok ni depan nak bergaduh. Dan kita pula pergi masuk. Kita pula jadi mangsa. Kalau macam ni, mereka talah kat kita pula dah. Itu yang terbaik. Dan yang terbaiknya bagi saya lah, apabila saya tengok data yang YB tunjuk ni, maknanya bersama... Minta
+[51:46] Dato' Dr. Syed Azuan Al-Idrus (DSA): Saya ni sebenarnya ialah saya duduk dalam DNA UMNO ni dah lama. Saya dah pernah mengikuti kempen UMNO ni daripada umur 21. Tapi saya tak pernah masuk UMNO. Saya cakap saya tak pernah masuk UMNO. Tapi saya melihat bagaimana UMNO dia punya jentera, cara mereka bekerja memang jauh beza lah. Lepas tu, suddenly saya... Parti yang pertama saya join PKR lah. PKR. Dan saya melihat PKR pun dia... Ada irah-irah UMNO je. Oh. Dari segi jentera kan. Berobot siapa nak jadi jentera. Siapa yang jadi ketua. Sama. Jadi apabila MyBersama ni. Saya rasa something new lah. Something new. Tapi dulu saya nak ucap taniah lah kepada bersama. Bila saya tengok data ni. Maknanya kita masuk dalam PRN Johor ni. Memang pilihan yang terbaik lah. Kerana apa satu. Satu. Johor dah nak habis tempoh dah babi lah. Tapi depan ni insurans ada lagi. Rotek ada lagi. Kan? Patut mereka tangan kalut sangat. Tapi mereka nak buat awal. Jadi pilihan kita masuk tu terbaik. Kerana kita masuk PRN. Kita bukan sebab masuk ada parti-parti ni yang kianat. Kan? Maknanya kalau di negeri 9. Maknanya bila bersama mengambil keputusan tak masuk. Bagi saya tu keputusan yang terbaik. Kerana masuk pun tak guna. Pok-pok ni depan nak bergaduh. Dan kita pula pergi masuk. Kita pula jadi mangsa. Kalau macam ni, mereka talah kat kita pula dah. Itu yang terbaik. Dan yang terbaiknya bagi saya lah, apabila saya tengok data yang YB tunjuk ni, maknanya bersama... Minta
 
 [53:18] Rafizi: maaf
 
-[53:18] Dato' Dr. Syed Azuan Al-Idrus (DSA): ya, kami nak
-
-[53:19] Dato' Dr. Syed Azuan Al-Idrus (DSA): kena halau kucing dulu. Oi!
+[53:18] Dato' Dr. Syed Azuan Al-Idrus (DSA): ya, kami nak kena halau kucing dulu. Oi!
 
 [53:20] Rafizi: Chopper!
 
 [53:21] Dato' Dr. Syed Azuan Al-Idrus (DSA): Habis dia cakap
 
-[53:22] Rafizi: lah. Habis kita orang punya, dia panggil apa ni soundproof
-
-[53:26] Rafizi: kita ni. Soundproof tu
+[53:22] Rafizi: lah. Habis kita orang punya, dia panggil apa ni soundproof kita ni. Soundproof tu
 
 [53:26] Dato' Dr. Syed Azuan Al-Idrus (DSA): dia. Soundproof. Okay, sambung balik tau. Sambung balik. Biasalah kucing yang lewat. Jadi apabila bersama masuk di Johor ni, maknanya di Johor ni dia ada kerusi Chinese. Dan dia ada kerusi Melayu. Jadi dia balance. Kalau kita masuk di Kedah, buang masa saja kalau cakap tentang ini. Sebab kita akan tengok pola pengundian Melayu saja. Jadi di Johor ini, maknanya ini memberi kita input yang terbaik. Apabila saya tengok data ini, saya rasa teruja. Kita tak adalah teruk sangat YB. Kalau pre-domination poll tu, kalau ikut dengan PN, kita lagi bagus. Jadi bagi saya, ini satu langkah bagi saya yang di Johor ni memang kita dapat banyak input. Walaupun kalah, bagi saya, saya tak kalah pun. Dan malah saya rasa berbangga. Maknanya saya contribution kita dari segi duit, yuran, kita pun tak ambil duit orang. Kita berjaya masuk dalam perayaan raya yang maknanya Kita berani Yang penting tu berani YB Macam Dr. Sam kata lah kan Parti kita ni parti yang berani lah Jadi kalau orang nak kata kat kita Weh hampa kalah Weh kami berani weh Kami berani Itu yang saya kata tadi tu Bersama bila kita dapat Data-data ni Kita akan pergi ke depan
 
 [54:46] Rafizi: Dia kalau tengok data akhir dia kan Sebab tu saya kalau perasan Daripada minggu pertama kempen tu Saya tak sentuh sangat dah PN Sebab daripada pre-poll kepada post-poll post-nomination, pre-nomination ke post-nomination polling tu kan, memang dah jelas bahawa undi PN tu collapse di Johor. Malah pandangan saya Dr. Sam kan, sebenarnya arahan Ustaz Hadi tu tak ada kesan. Kerana bila masuk tu pun, kalau tengoknya memang PN tu, dia tak jauh beza sangat dah daripada bersama tau. lagi banyak hilang deposit daripada bersama. Sebenarnya, dia memang dah reduce to to apa nama ni, quite insignificant di Johor atas sebab-sebab yang nanti saya ingat kita boleh bincang dengan lebih panjang lah kan. Tapi, macam... ...DSA kata lah......saya... Masa di command center lah Saya ingat Ubat pun ada dengar-dengar lah Tapi saya tak share secara rasmi Calon pun ada dengar-dengar lah Saya tak tahu Calon ada dengar-dengar tak First week punya poll So saya tak share lah kan Tak tahu Jadi... Bila keluar first week punya poll yang menunjukkan kita tak akan lebih daripada 7% dan kita akan hilang deposit. So masa itu pun kita orang dah tahu dah sebenarnya lakin mungkin dapat lebih tiram. Di mana tempat yang ada kursi yang ada Melayu, bandar lebih sikit tu. Sebab yang itu kumpulan pengundi paling besar bersama buat masa sekarang. Melayu, bandar yang berpendidikan. Tapi memang China tidak akan pergi. Far lah kan Chinese kan So walaupun kita cuba push untuk minggu pertama, minggu kedua tu kan Tapi adalah juga kawan-kawan kata Mungkin poll salah ni, ni semua kan Saya of course go back kepada invoke yang dah buat benda ni 10 tahun And they hardly miss lah kan So I go back kata Explain to me kenapa dalam tempoh seminggu boleh drop half of the vote Dan satu benda yang saya rasa disiplin yang kami ada Ini disiplin akademik juga sebenarnya You jangan kacau dengan data Data ni kalau dia dibuat secara saintifik, kena pada ilmu dia, kalau dia tunjuk macam tu, macam itulah. So, explanation info agak mudah sebenarnya daripada minggu pertama lagi. Iaitu nampaknya ada anti-PH, anti-ANWAR sentiment yang cukup besar. Maksudnya pengundi Sebelum penamaan calon tu Dia polite dengan kita Dia terbuka, dia kata tak apa, okey, okey. Yang itu juga yang kita nampak masa kita berkempen. Sebab itu tak ada orang kasar dengan kita. Tapi dia sebenarnya dah buat keputusan dalam hati. Dia tidak memusuhi bersama, dia sebenarnya tak adalah benci ke apa, tak banyak yang hostile yang kata korang ni pengacau ke apa, tak ada. Tapi sebenarnya dia dah buat keputusan untuk hukum PH. Yang itu penerangan yang Invoke berikan lah bila kita orang dalam minggu pertama duduk gaduh. Duduk tanya, how do you explain daripada last week kita punya undi Melayu 13 boleh jatuh ke 6%? Benda, kempen belum bermula sangat lagi pun. So Invoke kata pengalaman mereka 10 tahun buat benda itu. Maksudnya pengundi dah buat keputusan. masa sentimen anti Najib ke arah 2018. Sebab itu bila kita jumpa pengundi Cina, pengundi Melayu, dia okey, okey, okey, okey. But you can tell bila dia tidak begitu bersemangat semua itu, maksudnya dalam hati itu, dia dah buat keputusan. I cannot be with you today because saya sebenarnya dah ada keputusan yang lain. So, kita memang masuk perfect storm. Perfect storm Johor dan sudah tentulah ini soal duit, ada orang kata sebenarnya pelaburan itu telah dibuat setahun lebih awal lagi tak pun. Semua kan. Jadi kita masuk perfect storm dan perfect storm itu ialah pengundi-pengundi Johor swing untuk menghantar isyarat untuk menghukum PH dan Anwar Ibrahim dan parti yang boleh Ialah UMNO dan BN lah Bukannya bersama
 
-[59:50] Haziq: Dia macam Saya Saya nak pukul orang Tapi saya kena Saya suka YB Tapi YB tak boleh pukul orang Jadi saya terpaksa pilih orang lain Yang ada kemahiran
+[59:50] Haziq: Dia macam Saya Saya nak pukul orang Tapi saya kena Saya suka YB Tapi YB tak boleh pukul orang Jadi saya terpaksa pilih orang lain Yang ada kemahiran memukul orang
 
-[1:00:04] Haziq: memukul orang
-
-[1:00:04] Rafizi: Pukul orang tu Macam kita sebut tadi kan Macam sebab Kami melalui proses ini Tahun 2018 di Terengganu Especially di Terengganu kan So di Terengganu masa itu polling number ialah seingat saya UMNO dalam 38%. PAS dalam 3.2% Kemudian PH Masa itu dalam 12% So all in all Lebih kurang 70% lebih Ada 20% lebih pengundi atas pagar Yang dia tak expressly sebut Dia akan undi siapa-siapa So kita modelkan behavior pengundi atas pagar lah jadi pengundi atas pagar di pantai barat kerana masa itu mesejnya ialah anti-najan Memang satu-satu perkara yang drive emotion pengundi masa itu ialah untuk menjatuhkan Najib kan So di pantai barat pengundi atas pagar ni semua swing kepada PH Kecuali yang sangat berbeza behaviour pengundi atas pagar ni ialah di Terengganu Di Kelantan sebab memang past leading bukan BN So di Terengganu ni dia unik 2018. BN di depan, PAS di belakang tapi PH jauh di belakang kan. Jadi pengundi atas pagar di Terengganu dia tak bagi kepada PH macam di pantai barat tau. Dia bagi kepada PAS. Dan alasan yang sama post election of course bila result tu lain. Then you go bank and you conduct another survey lah untuk you tengok kenapa yang pengundi atas pagar ni dia bagi kepada PAS. Alasan yang sama, logik yang sama di kalangan pengundi atas pagar ialah kalau bagi kat PH, PH ni di tengah-tengah lemah sangat. Dia mungkin tak boleh kalahkan BN. Kita nak kalahkan BN je. PAS pun PAS lah walaupun saya tak adalah sokong PAS sangat. Itu ayat yang dan fenomena yang sama itu nampaknya memang telah ada di Johor. Even before kempen bermula pun. Sebab itu akhirnya bersama dengan PN ni tak jauh beza tau. So, dia memang buat keputusan China, India, especially Melayu lah Cuma, YB Ada banyak
-
-[1:02:27] Rafizi: teori yang menyatakan
+[1:00:04] Rafizi: Pukul orang tu Macam kita sebut tadi kan Macam sebab Kami melalui proses ini Tahun 2018 di Terengganu Especially di Terengganu kan So di Terengganu masa itu polling number ialah seingat saya UMNO dalam 38%. PAS dalam 3.2% Kemudian PH Masa itu dalam 12% So all in all Lebih kurang 70% lebih Ada 20% lebih pengundi atas pagar Yang dia tak expressly sebut Dia akan undi siapa-siapa So kita modelkan behavior pengundi atas pagar lah jadi pengundi atas pagar di pantai barat kerana masa itu mesejnya ialah anti-najan Memang satu-satu perkara yang drive emotion pengundi masa itu ialah untuk menjatuhkan Najib kan So di pantai barat pengundi atas pagar ni semua swing kepada PH Kecuali yang sangat berbeza behaviour pengundi atas pagar ni ialah di Terengganu Di Kelantan sebab memang past leading bukan BN So di Terengganu ni dia unik 2018. BN di depan, PAS di belakang tapi PH jauh di belakang kan. Jadi pengundi atas pagar di Terengganu dia tak bagi kepada PH macam di pantai barat tau. Dia bagi kepada PAS. Dan alasan yang sama post election of course bila result tu lain. Then you go bank and you conduct another survey lah untuk you tengok kenapa yang pengundi atas pagar ni dia bagi kepada PAS. Alasan yang sama, logik yang sama di kalangan pengundi atas pagar ialah kalau bagi kat PH, PH ni di tengah-tengah lemah sangat. Dia mungkin tak boleh kalahkan BN. Kita nak kalahkan BN je. PAS pun PAS lah walaupun saya tak adalah sokong PAS sangat. Itu ayat yang dan fenomena yang sama itu nampaknya memang telah ada di Johor. Even before kempen bermula pun. Sebab itu akhirnya bersama dengan PN ni tak jauh beza tau. So, dia memang buat keputusan China, India, especially Melayu lah Cuma, YB Ada banyak teori yang menyatakan
 
 [1:02:28] Multiple speakers: Eh, tapi ... tak tanya ubat lagi pasal ... pemudi China Aku pun nak dengar juga Saya
 
 
 
-[1:02:33] Tang Hong Yau: rasa yang polling swing tu Pasal juga dengan Strategi PH Sebab masuk minggu pertama mereka Bangkikan isu Release Najib pada Najib Dan juga Green Wave kan Jadi saya rasa ini yang Dia hantar isyarat untuk pengundi Melayu jugalah Untuk ada buah fakat ke perpaduan umar ke How about split vote Chinese? Split vote Chinese lah saya rasa dalam minggu pertama kan memang pengundi China ni memang kecewa dan bosan tapi yang minggu kedua Awak ada perasaan tak mereka menjemput balik Superman? Ya, ya, ya. Superman. Dan Kisiam
-
-[1:03:14] Tang Hong Yau: pun terpaksa
-
-[1:03:15] Tang Hong Yau: keluar dari retirement. Yang langkah ni dia berjaya membangkitkan dia punya, memukulkan dia punya basis. Tapi rasa dia macam polarize jugalah. Sebab awak jemput balik Superman, orang akan ingatlah. Okay, PH ni dia memang hanya nak jaga supporter koko dia. Jadi dia serang bersama minggu yang kedua. Yang minggu pertama dia hanya Serang banyak dekat MCA cakap dia BN dengan PAS ada hubungan sulit lah Dia memang cakap Yang kedua dia mula naratif macam jangan speed vote Yang kedua tu Yang saya perasan lah
-
-[1:03:59] Tang Hong Yau: Saya
+[1:02:33] Tang Hong Yau: rasa yang polling swing tu Pasal juga dengan Strategi PH Sebab masuk minggu pertama mereka Bangkikan isu Release Najib pada Najib Dan juga Green Wave kan Jadi saya rasa ini yang Dia hantar isyarat untuk pengundi Melayu jugalah Untuk ada buah fakat ke perpaduan umar ke How about split vote Chinese? Split vote Chinese lah saya rasa dalam minggu pertama kan memang pengundi China ni memang kecewa dan bosan tapi yang minggu kedua Awak ada perasaan tak mereka menjemput balik Superman? Ya, ya, ya. Superman. Dan Kisiam pun terpaksa keluar dari retirement. Yang langkah ni dia berjaya membangkitkan dia punya, memukulkan dia punya basis. Tapi rasa dia macam polarize jugalah. Sebab awak jemput balik Superman, orang akan ingatlah. Okay, PH ni dia memang hanya nak jaga supporter koko dia. Jadi dia serang bersama minggu yang kedua. Yang minggu pertama dia hanya Serang banyak dekat MCA cakap dia BN dengan PAS ada hubungan sulit lah Dia memang cakap Yang kedua dia mula naratif macam jangan speed vote Yang kedua tu Yang saya perasan lah Saya
 
 [1:03:59] Dr. Harith Fakhrudin: nampak dia boleh cantumkan Dia pengundi Melayu dengan pengundi Cina dia Kita ni masih tak ready Untuk kalau nak undi Kita nak undi yang boleh menang
 
 [1:04:10] Tang Hong Yau: Ya
 
-[1:04:11] Dr. Harith Fakhrudin: So kalau untuk Pengundi China Hmm Dia tak nak PN Tapi dia rasa bersama Tak boleh menang So Saya tak suka sangat PH Tapi
-
-[1:04:19] Dr. Harith Fakhrudin: PH
+[1:04:11] Dr. Harith Fakhrudin: So kalau untuk Pengundi China Hmm Dia tak nak PN Tapi dia rasa bersama Tak boleh menang So Saya tak suka sangat PH Tapi PH
 
 [1:04:19] Tang Hong Yau: ada A better chance Untuk menang Tapi saya Saya perasan Turn out rate tu Untuk pengundi Bukan Melayu Atau pengundi Cina Dengan pengundi Melayu Dia tidak sama Tak sama Pengundi Melayu lebih tinggi Nak Ini hukumkan PH Tapi pengundi Cina Saya rasa Dia sudah Cepat Letih Dengan Naratif yang Seolah-olah ni Macam balik lah 2018 Apa pasal Najib ni Lagi ada Banyak pengguna Atas bagas Sebenarnya dia pun Dia pun tidak suka Dengan Cara DAP Untuk Membangkitkan Najib sekali lagi Sebab dia sudah Dipenjarakan Lagi saya ada perasan Satu Insiden dekat Yongping Yang Saya rasa Err Ngakoming Atau dia pergi Perak lah Dia Camp dekat Yongping Jadi dia pun Buat satu banner yang nanti dia lepas dia kantoi kan.
 
-[1:05:18] Haziq: Dia orang yang pasal tapi
-
-[1:05:18] Haziq: kantoi.
+[1:05:18] Haziq: Dia orang yang pasal tapi kantoi.
 
 [1:05:19] Tang Hong Yau: Dia kantoi nanti dia dekat ceramah pula dekat majlis pula dia praise dia. Dia bawa atas pasal jadi dia. Dia kata tak ada salah apa salah tu. Jadi inilah yang buat banyak pengundi atas pagar China dia pun tengoklah keangkuhan TAP. Tapi bukan banyaklah yang saya rasa kebanyakan yang tidak suka dengan TAP ni Pilih untuk tidak balik Untuk undi Sebab kalau balik undi bersama pun Kos sangat tinggi juga kan
 
@@ -421,19 +333,11 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:11:37] Haziq: YB, kalau saya boleh cek sikit saja dari segi lebih spesifik dari segi nombor itu. Kita ada nombor ke berapa ramai yang keluar mundi UMNO? Melayu ini berapa persen?
 
-[1:11:54] Rafizi: Kita tak akan dapat itu selagi tidak keluar dia panggil worksheet lah. Maksudnya begini kan. Setiap kursi itu dia ada dan jadi daripada daftar pengundi sebenarnya kita tahu bahawa setiap saluran itu kita boleh agak peratusan pengundi Melayu, Cina but it's an estimation dan Borang 14 yang dah disahkan dan disahihkan oleh SPR ni hanya keluar beberapa bulan daripada sekarang so kalau ada orang mengaku dia dah buat analisis gitu-gitu gini, bohong lah semua So aku dah buat kerja ni 10 tahun, you have to wait for the worksheet. Worksheet tu keluar, contohnya saluran di Sekolah Kebangsaan Taman Uda contohnya kan. You tahu saluran 8 itu ialah untuk pengundi 20 ke 25 tahun contohnya kan. Then you tengok dekat pusat mengundi itu, dia 100% Melayu. Then you know itu representatif kepada pengundi. untuk seluruh Johor, itu pun sebenarnya estimation. Because there is no way for you to know on the dot berapa Melayu yang mengundi sebenarnya. Tetapi lah, kalau tengok macam ini, sebenarnya tak payah tunggu borang 14 worksheet lah. You dah boleh tahu keputusan itu bermakna modeling itu kita boleh buat untuk estimate UMNO hanya dapat BN hanya dapat keputusan itu dengan hampir 80% pengundi Melayu across the board 80% dan untuk pengundi China that means that UMNO BN paling kurang dapat 25 ke 30% to get that kind of result Dan DAP boleh menang tipis tu. Dia banyak kursus tulang pun dia menang tipis. Maksudnya dia hanya dapat dalam 60% lebih ke? Tak sampai 70% pengundi China. So there's no point bagi saya lah untuk susah-susah nanti untuk match kan setiap saluran dengan daftar pengundi berapa tu because dia akan confirmkan benda itu. Dia yang penting untuk kita buat analisa itu Kalau persaingan itu cukup rapat. You cannot
-
-[1:14:30] Rafizi: tell.
-
-[1:14:32] Rafizi: Now it's already so polarized. You tahulah sebenarnya ini jenis yang kalau dah sampai tsunami ni. Tsunami begitulah kan. Cuma yang selalu susah untuk kita semak ialah pengundi India lah. Sebab pengundi India hardly ada sebarang tempat mengundi yang exclusively pengundi India. Dan pengundi India tu is very small. kemungkinan mungkin ada 30% je pengundi India. So even from that, for you to say conclusively, pengundi India bagi banyak ni, banyak tu pun quite difficult lah kan. But the number of Chinese voters tu are statistically significant enough lah untuk kita buat analisa pengkat atas. And bagi saya memang it's quite obvious lah kalau soalan Haziq tu maksudnya kepada UMNO, BN dan Chinese, BN paling kurang dapat 25%-30%.
+[1:11:54] Rafizi: Kita tak akan dapat itu selagi tidak keluar dia panggil worksheet lah. Maksudnya begini kan. Setiap kursi itu dia ada dan jadi daripada daftar pengundi sebenarnya kita tahu bahawa setiap saluran itu kita boleh agak peratusan pengundi Melayu, Cina but it's an estimation dan Borang 14 yang dah disahkan dan disahihkan oleh SPR ni hanya keluar beberapa bulan daripada sekarang so kalau ada orang mengaku dia dah buat analisis gitu-gitu gini, bohong lah semua So aku dah buat kerja ni 10 tahun, you have to wait for the worksheet. Worksheet tu keluar, contohnya saluran di Sekolah Kebangsaan Taman Uda contohnya kan. You tahu saluran 8 itu ialah untuk pengundi 20 ke 25 tahun contohnya kan. Then you tengok dekat pusat mengundi itu, dia 100% Melayu. Then you know itu representatif kepada pengundi. untuk seluruh Johor, itu pun sebenarnya estimation. Because there is no way for you to know on the dot berapa Melayu yang mengundi sebenarnya. Tetapi lah, kalau tengok macam ini, sebenarnya tak payah tunggu borang 14 worksheet lah. You dah boleh tahu keputusan itu bermakna modeling itu kita boleh buat untuk estimate UMNO hanya dapat BN hanya dapat keputusan itu dengan hampir 80% pengundi Melayu across the board 80% dan untuk pengundi China that means that UMNO BN paling kurang dapat 25 ke 30% to get that kind of result Dan DAP boleh menang tipis tu. Dia banyak kursus tulang pun dia menang tipis. Maksudnya dia hanya dapat dalam 60% lebih ke? Tak sampai 70% pengundi China. So there's no point bagi saya lah untuk susah-susah nanti untuk match kan setiap saluran dengan daftar pengundi berapa tu because dia akan confirmkan benda itu. Dia yang penting untuk kita buat analisa itu Kalau persaingan itu cukup rapat. You cannot tell. Now it's already so polarized. You tahulah sebenarnya ini jenis yang kalau dah sampai tsunami ni. Tsunami begitulah kan. Cuma yang selalu susah untuk kita semak ialah pengundi India lah. Sebab pengundi India hardly ada sebarang tempat mengundi yang exclusively pengundi India. Dan pengundi India tu is very small. kemungkinan mungkin ada 30% je pengundi India. So even from that, for you to say conclusively, pengundi India bagi banyak ni, banyak tu pun quite difficult lah kan. But the number of Chinese voters tu are statistically significant enough lah untuk kita buat analisa pengkat atas. And bagi saya memang it's quite obvious lah kalau soalan Haziq tu maksudnya kepada UMNO, BN dan Chinese, BN paling kurang dapat 25%-30%.
 
 [1:15:37] Haziq: Sedikit soalan susulan kepada UBAT Maksudnya Sampai sekarang ni Chinese yang kita tahu sebelum ni Hardcore PH semua Tapi kali ni mereka sanggup mengundi BN balik Dan MCA Sebab tadi kita dah cakap bahawa Yelah macam-macam sentiment Cuba dimainkan oleh DAP Dan termasuk Adalah Perkahwinan BN dengan PAS ni Adakah itu tak berkesan ke Atau tak clear lagi waktu tu ke
 
-[1:16:05] Tang Hong Yau: Saya rasa dekat Johor ni Dia beza sikit Sebab PAS dekat Johor memang lemah kan nanti juga dia sulit lah dia underground lah jadi masih ada
-
-[1:16:17] Tang Hong Yau: kekasih gelap
-
-[1:16:18] Tang Hong Yau: masih gelap lagi jadi saya rasa MC pada waktu dia dia berjaya ada memberitahulah pengundi dia memang tidak ada Perhubungan seperti ini Sebab dia akan Jadi kerajaan Dengan kekuatan dia sendiri Lagipun saya rasa MCA dia memang Kuat untuk Servis lah Dalam Dundun mereka ni Di Johor Di Johor MC memang Memang kuat lah Dia pun
+[1:16:05] Tang Hong Yau: Saya rasa dekat Johor ni Dia beza sikit Sebab PAS dekat Johor memang lemah kan nanti juga dia sulit lah dia underground lah jadi masih ada kekasih gelap masih gelap lagi jadi saya rasa MC pada waktu dia dia berjaya ada memberitahulah pengundi dia memang tidak ada Perhubungan seperti ini Sebab dia akan Jadi kerajaan Dengan kekuatan dia sendiri Lagipun saya rasa MCA dia memang Kuat untuk Servis lah Dalam Dundun mereka ni Di Johor Di Johor MC memang Memang kuat lah Dia pun
 
 [1:16:44] Rafizi: ahli majlis Bandaraya Kebanyakan calon dia kan Ubat kan Memang ahli majlis One day or another
 
@@ -447,23 +351,11 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:20:54] Rafizi: You know, benda itu bagi saya lah, benda itu grow in pains. Kan, jadi... Yelah, saya ingat dia kena berbeza bila kita masuk sebagai bersama. Sebab itu berbanding dengan kalau sebelum ini sebagai PH. Sebab itu matlamat itu penting. Saya tak tahu orang lain. Matlamat saya memang untuk membina parti dan membina generasi baru. Ya. Jadi kalau kita orang tua ni kan, membina generasi baru ni kan, kalau tak bagi peluang dan dia buat salah, dia tak akan belajar. Jadi memang kita, itu memang part and parcel of menubuhkan sesuatu seperti bersama. Jadi orang lain melenting lah, perempuan-perempuan aku steady lah. Jadi saya, ya lah itu I, that's my responsibility lah. Kerana bila kita dah buat keputusan untuk menawarkan sesuatu yang baru, semua ni kan, maka kita terpaksa berdepan dengan risikolah. Sama juga contohnya bila kita ambil keputusan untuk kita tampilkan calon-calon baru. Sebenarnya kalau kita ada masa yang lebih panjang, sudah tentu kita boleh sediakan calon kita itu dengan lebih baik. Sebab itu saya rasa pengundi pun bagi reaksi yang baik selepas satu minggu, banyak je komen kata eh boleh jadi orang ini lepas seminggu. Dah boleh berucap, Jadi Di peringkat saya Memang kita sedia maklum Bahawa itu orang kata Job hazard lah Sebab itu parti-parti lain tak berani buat Sebab dia kira nak menang saja Dia tak fikir pasal masa depan Lepas tu Pengundi kita pula lah. Dia kalau letak yang baru, yang bersih, yang tak ada baggage ni, dia hantar macam-macam. Tak ada pengalaman lah semua. Kemudian kalau yang mari yang UMNO, yang tujuh penggal tu, dia kata, oh miampahnya lah tengok muka dia ni. Jadi, memanglah di pihak pengundi, mereka tidak ada tanggungjawab dan beban untuk mereka memastikan ada perubahan. Itu memang hak mereka untuk memilih dan mengkritik siapa-siapa. Jadi tak payah bergaduh dengan dia lah Itu memang hak dia Dia suka yang itu Dia tak suka yang ini kan Tapi kalau macam Parti macam bersama Kita ada landasan kita Dan kita ada tujuan kita, matlamat kita ada beberapa perkara yang pada peringkat ini yang memang kita kena terpaksa terima lah hakikatnya dan bezanya ialah Kalau kita fikir pasal nak menang saja, tak adalah jadi bersama. Ini kita dah masuk jadi wawasan ke jadi dalam, saya rasa jadi komponen parti lain lah kan. Tapi sebab kita mengambil tempoh yang panjang. Jadi, dan... analisa saya sama yang macam Dr. Sam sebut bila keluar post-domination poll tu walaupun jatuh hati aku kan tapi saya dah tahu sebenarnya pengundi dah buat keputusan dan bila saya turun bersalam, jumpa saya dah tahu dah memang dia orang dah buat keputusan cuma dia polite sahaja dan Pilihan raya negeri Johor itu ialah satu-satunya tema utamanya ialah anti-PH dan anti-ANUHA. Itu saja. You buat macam mana pun, letak bekas menteri besar Johor jadi calon pun takkan menang. Jadi sebab itu bagi saya, kalau kita ada lima matlamat itu, yang kita terus bersungguh-sungguh sampai ke hari akhir itu, bukanlah sebab... Kita yakin kita boleh menang ke apa semua. Of course saya berdoa lah. Allah bukakan hati kita lepas tak hilang deposit. Ataupun kita dapat 10% ke closer to lebih tinggi daripada 6-7% seperti polling tunjuk kan. Tapi ialah kita pun nak kena terbuka juga yang sebenarnya kita ada 4-5 matlamat yang lebih besar kan. Jadi asalkan kita dapat 4-5 matlamat lain itu kerana yang penting ialah... Fasa pembinaan parti yang ada sekarang ni. Dan kita sedang membina parti kerana kita menjangkakan keadaan akan kucar-kacir dalam 2-3 tahun lagi. So my strategy simple sahaja. It's all about saya selalu sebut. Dia sama macam bisnes, market lah kan. Dia ada kitaran turun dan naik. Dan masa saya dululah dalam petrokimia semua kan. Syarikat besar macam mana pun, hebat macam mana pun. Tapi kalau dia enter the market itu, masa tengah downturn. Memang dia tak boleh hidup. Maksudnya dia lambat masuk. Dia masuk masa semua orang tengah jual petrokimia. Sebab harga tengah tinggi kan. Dia pun masuk kononnya kan. Tak sampai satu tahun dia mula downturn. Bila downturn tu tujuh tahun kerugian. So tapi sebab dia masuk lambat baru satu tahun dia buat untung tujuh tahun tu bungkus saja. You masuk dalam masa timing itu ialah sebelum dia memuncak. Supaya you sempat sebenarnya, walaupun awal tu tak untung sangat, tapi you sempat bertahan dan bina resilience itu untuk survive the downturn. Sebab bila berlaku downturn, tu orang lain banyak mati. And then bila you naik balik, you are there. Jadi sebenarnya, kita sedang melalui kitaran itu, kita kena pastikan kita ada, orang kata apa ni, melalui downturn ini because downturn ini akan mengesani banyak hati kita dah nampak pun bersatu pun bermasalah PAS pun kalau dia rasa dia hebat sangat kalau saya jadi kawan kat PAS saya beritahu lah Dr. Sam pun kawan juga lah kan saya beritahu Dr. Sam you careful lah you dia ada unintended consequences you buat macam ini kepada UMNO nanti UMNO besar sangat dia bunuh semua korang ni kita orang dia tak boleh bunuh sebab kita orang market yang lain. You market yang sama, competitor yang sama, dia bunuh semua. So, dia akan melalui downturn itu yang mana akan ada vacuum. Yang penting ialah bila vacuum itu ada, bersama is ready to reap the benefit lah. So once you know that is our strategy, PRN ni is one of the few battles. You want to make sure you belajar go through the battle supaya you win the war. The war is not this PRN or Negeri Sembilan tau. The war is a few more cycle nanti lah.
 
-[1:28:06] Dato' Dr. Syed Azuan Al-Idrus (DSA): Boleh saya tambah Boleh silakan Dato' Saya teringat pasal yang babi tu lah Sebenarnya babi tu memberi signifikan Especially di kursi perling Yang calon kita tu di perling Babi tu memberi signifikan Kerana apa Disebabkan dia kata babi tu lah Calon DAP kalah
-
-[1:28:25] Dato' Dr. Syed Azuan Al-Idrus (DSA): Orang kenal
-
-[1:28:26] Dato' Dr. Syed Azuan Al-Idrus (DSA): dia tiba-tiba. Bukan, bukan. BN menang. Kerana dia berani. Undi majoriti dia tu ada dekat calon kita tu. Kalau you tengok balik yang Tony Pua tak puas hati tu. Sebab hilang kursi perling tu.
-
-[1:28:42] Dato' Dr. Syed Azuan Al-Idrus (DSA): Kerana
-
-[1:28:43] Dato' Dr. Syed Azuan Al-Idrus (DSA): ni. Sebab ada seorang Cina dia berani race UBabi tu. DAP di Selangor ni.
+[1:28:06] Dato' Dr. Syed Azuan Al-Idrus (DSA): Boleh saya tambah Boleh silakan Dato' Saya teringat pasal yang babi tu lah Sebenarnya babi tu memberi signifikan Especially di kursi perling Yang calon kita tu di perling Babi tu memberi signifikan Kerana apa Disebabkan dia kata babi tu lah Calon DAP kalah Orang kenal dia tiba-tiba. Bukan, bukan. BN menang. Kerana dia berani. Undi majoriti dia tu ada dekat calon kita tu. Kalau you tengok balik yang Tony Pua tak puas hati tu. Sebab hilang kursi perling tu. Kerana ni. Sebab ada seorang Cina dia berani race UBabi tu. DAP di Selangor ni.
 
 [1:28:52] Tang Hong Yau: Tak boleh nak cakap kan? Saya rasa tak jejak sangat sebab dekat Johor tak ada... Ya memang tak nak babi ni kan tapi dia ada isu lah. Dalam media sosial dia banyak viral lah tapi saya rasa yang tengok tu bukanlah
 
-[1:29:07] Dato' Dr. Syed Azuan Al-Idrus (DSA): Johor. Ya dia bukan tengok Johor lah tapi bagi saya ada signifikan sikit. Okay satu lagi yang you kata tadi tu kan yang orang Cina memang dah nak undi PH. Tapi dia nak hukum PH dia undi BN. Menangis dalam tangisan tu sebenarnya
-
-[1:29:23] Dato' Dr. Syed Azuan Al-Idrus (DSA): Mengundi dalam tangisan
-
-[1:29:24] Dato' Dr. Syed Azuan Al-Idrus (DSA): Ya mengundi dalam tangisan tu sebenarnya datang daripada orang Cina sendiri Haa betul Saya bersembang dengan dia Dia kata kami memang nak undi PIS Tapi kami nak menghukum dia Bila kami nak hukum dia, kami kena undi BN. Dengan hukuman ni akan mengajar PH supaya dia senang diri. In
+[1:29:07] Dato' Dr. Syed Azuan Al-Idrus (DSA): Johor. Ya dia bukan tengok Johor lah tapi bagi saya ada signifikan sikit. Okay satu lagi yang you kata tadi tu kan yang orang Cina memang dah nak undi PH. Tapi dia nak hukum PH dia undi BN. Menangis dalam tangisan tu sebenarnya Mengundi dalam tangisan Ya mengundi dalam tangisan tu sebenarnya datang daripada orang Cina sendiri Haa betul Saya bersembang dengan dia Dia kata kami memang nak undi PIS Tapi kami nak menghukum dia Bila kami nak hukum dia, kami kena undi BN. Dengan hukuman ni akan mengajar PH supaya dia senang diri. In
 
 [1:29:41] Rafizi: fact, saya rasa lah daripada... Itu tisu. Jangan
 
@@ -477,9 +369,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:31:12] Rafizi: Dia terbalik sebenarnya
 
-[1:31:14] Tang Hong Yau: Dia menghalang lebih banyak
-
-[1:31:16] Tang Hong Yau: undi DAP
+[1:31:14] Tang Hong Yau: Dia menghalang lebih banyak undi DAP
 
 [1:31:17] Rafizi: Yang itu saya rasa Pandangan saya ialah Kalau tidak ada bersama Sebenarnya undi DAP lagi teruk di kalangan pengundi Cina dan India terutamanya pengundi Cina dan India yang berpendidikan tinggi sebab dia bagi dia daripada undi PH aku lagi rela undi BN dan dia cakap terus terang tapi paling kurang yang ini yang dalam konteks yang DSA kata mengundi dan menangis ni paling kurang bila ada bersama dia tak payah menangislah sebab dia tahu BN akan menang dia tahu BN akan menang dan dia pula dia rasa memang tanggungjawab undi. Dia tak pernah tak keluar mengundi. Dia rasa undi ni tanggungjawab. Ini orang yang berpendidikan. Dia rasa memang tanggungjawab rakyat kan. Tapi dia kalau nak pergi tu PH dia memang tak nak dah sebab dia nak hantar isyarat. Kalau tak ada bersama dia terpaksa undi BN dah. Itu yang dia menangis lah. So bila ada bersama sebenarnya dia mengelakkan lebih banyak undi pergi ke BN. Kalau tidak sebab itu kalau Tony Puah Contohnya, oh kalah sebab bersama ada. Actually, kalau tak ada bersama, majority BN tu lagi tinggi. Ataupun setulang akan kalah. Ataupun setulang akan kalah. Setulang dia akan kalah. Dia tak sebut yang kat setulang tu. Kita ambil daripada BN sebenarnya. Kalau tidak, setulang kalah. Ubat is right. Sebab kalau kita tengok kepada polling and data semuanya, kita tahu bahawa pengundi yang banyak menyokong bersama ni, yang lebih tinggi daripada Melayu. Dan Melayu ini, kalau contohnya tak ada bersama, dia tak akan undi DAP-nya, dia akan undi BN. So kita ambil yang Melayu yang berpendidikan semua ni, daripada dia pergi undi sebab dia sebenarnya BN pun dia tak suka lah kan. Saya rasa kalau kita,
 
@@ -487,23 +377,17 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:33:18] Rafizi: kalah. Faham kan? Cuma Mazli 4%. 4% dia punya margin tu besar
 
-[1:33:25] Tang Hong Yau: sikit lah. dengan
-
-[1:33:28] Tang Hong Yau: yang lain.
+[1:33:25] Tang Hong Yau: sikit lah. dengan yang lain.
 
 [1:33:30] Rafizi: Mungkin lah. Tapi ada banyak kursi macam tu. Contohnya setulang is one big example kan. Apa nama ni? Perling. Bukit batu tu Kalau tak ada kita pun Undi tu akan pergi kepada BN Sebenarnya kita menyebabkan Margin BN tu rendah
 
-[1:33:57] Dato' Dr. Samsu Adabi Mamat: PH ni dia menang kerana undi ekstrim China kepada DAP. Sebab itulah Amanah dapat satu dan PKR dapat
-
-[1:34:07] Dato' Dr. Samsu Adabi Mamat: satu.
+[1:33:57] Dato' Dr. Samsu Adabi Mamat: PH ni dia menang kerana undi ekstrim China kepada DAP. Sebab itulah Amanah dapat satu dan PKR dapat satu.
 
 [1:34:08] Rafizi: PKR dapat satu tu kerana PKR dapat satu di Puteri Wangsa tu, dia membuktikan bahawa sebenarnya undi China kepada PH masih lagi 60% ke atas. Cuma dia bergantung kepada kursi masing-masing, turnout rate macam mana. is overwhelmingly non-Malaysic. Dia sebenarnya 70% lebih. Melayu dalam 20% lebih je saya ingat saya kan. Chinese about 61-62% puteri bangsa. Jadi walaupun turnout rate tu rendah, tapi oleh kerana Chinese 60% plus, kemudian masih lagi dapat dalam 60% plus. Jadi dia masih lagi menang dalam biografi 4% lah.
 
 [1:34:52] Dato' Dr. Syed Azuan Al-Idrus (DSA): Tapi orang kata Menteri Wangsa menang Kerana ada Fuziah Salleh Itu namanya
 
-[1:35:00] Rafizi: Diazir Itu namanya Dongeng untuk content Saya rasa Kali ni Fuziah Salleh Diberi amaran kot Tak ada tak keluar Tak ada tak tahu Dan saya ingat kempen PH kali ini memang... Tak ada lead sebenarnya kan. Dia tak ada seorang panglima ataupun face yang boleh itu kan. Dia sebenarnya ketumbukan-ketumbukan kecil yang buat hal sendiri kan. So dia tak ada cerita yang coherent. Tak ada general. Dato' Seri Anwar lah kot. Yalah Dato' Seri Anwar lah. Tapi dia tidak berada di situ sepanjang masa. Jadi kan. Dan akhirnya... pengalaman saya mengendalikan kempen untuk PH ni kan daripada dulu pun kita orang selalu kata bahawa kempen itu akan jadi berbahaya Kalau Kempen itu identitinya Ialah DAP Naratifnya itu Naratif DAP Kepada pengundi China itu Lebih kuat mengatasi Naratif keseluruhan PH Atau PKR Jadi Hmm Sebab itu kalau tengok dalam Dalam kempen baru-baru ini kan Err Ketiadaan naratif yang melambangkan PH sepenuhnya itu pun ada kesan yang besar Kerana akhirnya terutamanya di minggu terakhir Dia dah jadi naratif DAP itu ialah naratif utama Kalau ingat dalam PRU 2022 kan Masa kami balik dulu kan Kalau tengok saya memang hulur kepala awal-awal. Belum apa-apa lagi aku dah serang semualah. Supaya set the narrative tu. LCS, pasal Datuk Seri Najib, yang pasal PAS semua kan. Supaya narrative itu yang mewarnai dan juga menimbulkan momentum campaign. Supaya DAP and to be fair to DAP pun. Dia bukanlah semata-mata DAP nak kawal narrative. PKR dan PH dan amanah itu lemah in absence of that narrative, whatever yang DAP, sebab DAP campaign Cina dia, yang itu yang tiba-tiba timbul naik. So sebenarnya kelemahan, good luck lah kan. Dia kata dia
-
-[1:37:29] Rafizi: sentimen
+[1:35:00] Rafizi: Diazir Itu namanya Dongeng untuk content Saya rasa Kali ni Fuziah Salleh Diberi amaran kot Tak ada tak keluar Tak ada tak tahu Dan saya ingat kempen PH kali ini memang... Tak ada lead sebenarnya kan. Dia tak ada seorang panglima ataupun face yang boleh itu kan. Dia sebenarnya ketumbukan-ketumbukan kecil yang buat hal sendiri kan. So dia tak ada cerita yang coherent. Tak ada general. Dato' Seri Anwar lah kot. Yalah Dato' Seri Anwar lah. Tapi dia tidak berada di situ sepanjang masa. Jadi kan. Dan akhirnya... pengalaman saya mengendalikan kempen untuk PH ni kan daripada dulu pun kita orang selalu kata bahawa kempen itu akan jadi berbahaya Kalau Kempen itu identitinya Ialah DAP Naratifnya itu Naratif DAP Kepada pengundi China itu Lebih kuat mengatasi Naratif keseluruhan PH Atau PKR Jadi Hmm Sebab itu kalau tengok dalam Dalam kempen baru-baru ini kan Err Ketiadaan naratif yang melambangkan PH sepenuhnya itu pun ada kesan yang besar Kerana akhirnya terutamanya di minggu terakhir Dia dah jadi naratif DAP itu ialah naratif utama Kalau ingat dalam PRU 2022 kan Masa kami balik dulu kan Kalau tengok saya memang hulur kepala awal-awal. Belum apa-apa lagi aku dah serang semualah. Supaya set the narrative tu. LCS, pasal Datuk Seri Najib, yang pasal PAS semua kan. Supaya narrative itu yang mewarnai dan juga menimbulkan momentum campaign. Supaya DAP and to be fair to DAP pun. Dia bukanlah semata-mata DAP nak kawal narrative. PKR dan PH dan amanah itu lemah in absence of that narrative, whatever yang DAP, sebab DAP campaign Cina dia, yang itu yang tiba-tiba timbul naik. So sebenarnya kelemahan, good luck lah kan. Dia kata dia sentimen
 
 [1:37:30] Dato' Dr. Syed Azuan Al-Idrus (DSA): lah. Tapi yang Zik kata tadi kan, faktor Anwar lah. Saja lah tanya YB lah kan. Di Sabah Benda yang sama Dia buat benda yang sama Kalah Yang di Johor Pun sama Kalah Ni nak masuk 3 kali ni Apa komen YB ni Dia nak kena ubah ke apa Cara Dia tak belajar Kau ingat daripada Sabah Bungkui Mai di Johor pun sama.
 
@@ -525,13 +409,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:47:08] Rafizi: Saya ada di Kulai Di Pasar Kulai So adalah Pakcik tu datang Saya tengok baju dia, dia tak sedar. Saya perhati semua kan. Dia baiklah. Dia minta baju sama. Tapi aku tengok baju dia, JKK kampung dia aku rasa. Ini ketua cawangan UMNO ni kan. Tapi tak apa lah kita layan. Itu yang saya kata orang UMNO pun tak hostile. Sebahagiannya mungkin UMNO menghargai bersama. Sebab dia ingat bersama ni curi undi PH. Dia tak sedar sebenarnya bersama curi semua undi. Cuma tak cukup besar je sekarang kan. Resim apa nama ni DSA kan Ayat dia dia kata Yalah Parti Bagailah Semua bersaing Tapi saya kurang selesa Bila PM datang Buat macam tu Dekat MB kita Walaupun macam mana pun Dia MB kita Dia MB Johor So I think itu tu Walaupun Tidak akan mengubah keputusan pilihan raya Johor Bahun ni besar sangat tapi sentimen itu emosi lah, dia emotif tau ada orang buat baju tu, baju
 
-[1:48:18] Dato' Dr. Samsu Adabi Mamat: Baju budak. Oh ya?
-
-[1:48:19] Dato' Dr. Samsu Adabi Mamat: Dia buat
-
-[1:48:20] Dato' Dr. Samsu Adabi Mamat: baju, pakai orang muda-muda
-
-[1:48:22] Dato' Dr. Samsu Adabi Mamat: pakai.
+[1:48:18] Dato' Dr. Samsu Adabi Mamat: Baju budak. Oh ya? Dia buat baju, pakai orang muda-muda pakai.
 
 [1:48:24] Rafizi: Kesihatan jugalah. Kita tengoklah Negeri Sembilan
 
@@ -543,39 +421,23 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:49:13] Rafizi: Yelah dia Kalau cakap nanti orang kata Alah dah hilang deposit Hilang deposit lah kau kan Tapi bersama pun Yelah You know We need to celebrate Every Small success Dan juga kita pun nak kena tengok pattern mana yang boleh kita perkukuhkan untuk jadi kekuatan di masa akan datang. And anyone in my shoes lah kan Kita memang lah kena bersikap positif Kau gila kan Terima kasih Kan So Kalau nak ikut keputusannya Dan pengalaman saya Satu dari segi polling lah We track the numbers kan Dan sekarang kita dah ada satu Baseline baru Di Johor Hmm keputusan itu sepatutnya memberi semangat dia memberangsangkan maksudnya parti yang satu bulan lebih ni boleh polling tak jauh beza daripada gabungan pembangkang negara PN ni ialah pembangkang rasmi Malaysia jadi maksudnya it's within margin of error 2-3% and berbeza dengan gabungan-gabungan lain satu-satunya parti yang boleh draw sama banyak daripada Melayu, Cina, India. Sebab politik kita sangat-sangat polarize kan. Kalau yang BN ni PAS ke Melayu saja PN kan. Kalau PH ni kalau dia jadi bukan Melayu saja kan. Itu yang kita nak pecahkan kan. But kalau tengok kepada keputusan Johor baru ni lah Orang kata ada silver lining sedikit lah Of course kalau boleh kita tak nak hilang deposit Of course kalau boleh kita nak closer to 10% kan Tapi historically lah parti baru yang masuk melawan gabungan besar ni dia tak pernah lepas seribu undi lah. Selalunya lah kan. Kalau tengok parti-parti yang lain selalunya beberapa ratus saja kan. Jadi dalam satu bulan lebih untuk dapat close tu tiga ribu undi, satu don maknanya satu parlimen lebih kurang enam ribu undi actually that's not bad tau. Itu sebenarnya adalah satu penanda aras baru dalam politik Malaysia kan. So... cabaran dia ialah kita sekarang ni kita tak tahu sama ada dengan keputusan yang macam itu kan on the one hand kita boleh kata lah ini adalah foundation yang baik untuk kita bina dan lebih besar lah on the other hand mungkin juga orang kata cheese sebab kau dapat 5-6% je lepas ni aku tak nak bagi langsung kan tapi kalau nak dikira first debut kemasukan pertama. Apatah lagi saya rasa bersama mungkin parti yang paling muda pernah masuk dalam pilihan raya dalam 20-30 tahun yang lepas. Parti lain semua ada 1-2 tahun, ada masa kita 10-20 hari kan masuk pilihan raya kan. So keputusan itu saya tak rasa... kekuatan itu ada pada kita lah. Maksudnya kekuatan itu ialah kalau kena cara dia, dia the right timing. Kerana memang pengundi sekarang ni dia pun rasa, Allahu Akbar, balik-balik cerita yang sama kan. So kalau produk tawaran politik itu, dia boleh bawa penyegaran semula kan, untuk kita renewal, memperbarui semula politik kan. Yalah, kita ambil semua kejayaan kecil-kejayaan ini untuk kita bina untuk masa akan datang. Dan
 
-[1:53:06] Tang Hong Yau: saya rasa IRL itu kejayaan. Itu yang baik sebab ada kawan-kawan saya yang tengok dia tukar persepsi. Dia kata aku sombong sebelum ini kan? Ya betul tapi dalam media memang
-
-[1:53:19] Tang Hong Yau: jahat.
-
-[1:53:20] Tang Hong Yau: Sebab dalam media Cina dia memang tunjukkan pasal padu kan. down to earth sangat humble sangat yang
+[1:53:06] Tang Hong Yau: saya rasa IRL itu kejayaan. Itu yang baik sebab ada kawan-kawan saya yang tengok dia tukar persepsi. Dia kata aku sombong sebelum ini kan? Ya betul tapi dalam media memang jahat. Sebab dalam media Cina dia memang tunjukkan pasal padu kan. down to earth sangat humble sangat yang
 
 [1:53:29] Multiple speakers: aku
 
-[1:53:29] Tang Hong Yau: memang down to earth kan cuma aku garang je kan I
-
-[1:53:33] Tang Hong Yau: think RIL
-
-[1:53:34] Tang Hong Yau: itu
+[1:53:29] Tang Hong Yau: memang down to earth kan cuma aku garang je kan I think RIL itu
 
 [1:53:34] Rafizi: bantu banyak lah ya So itu juga macam inovasi politik lah kan. Kita terpaksa buat IRL, kita sebab memang tak ada duit nak buat kempen besar-besar. Dan actually salah satu sebab kenapa kita perkenalkan IRL tu ialah kerana memang persepsi rakyat pasal ahli politik ni memang ahli politik ni jahat, sombong semualah. semua kan so cuma masalah saya sekarang orang duk kejar bila nak buat RL baru lah bagilah berehat sikit
 
 [1:54:15] Haziq: YB, sebelum kita tanya soalan terakhir tu YB, mungkin kita bagi kata-kata terakhir, refleksi untuk setiap panelist kita lah. Mungkin kita mula dengan DSA sebagai campaigner on the ground itself. Untuk Johor lah. Untuk Johor. Dah
 
-[1:54:30] Rafizi: jadi pencerama hebat lah. Dalam masa seminggu
-
-[1:54:33] Rafizi: semua boleh
-
-[1:54:34] Rafizi: jadi
+[1:54:30] Rafizi: jadi pencerama hebat lah. Dalam masa seminggu semua boleh jadi
 
 [1:54:34] Dato' Dr. Syed Azuan Al-Idrus (DSA): pencerama. Itulah saya terima kasih lah kepada Bersama lah kan. Kenapa bakat saya ni digunakan lah.
 
 [1:54:44] Rafizi: Kurni sedih
 
-[1:54:44] Dato' Dr. Syed Azuan Al-Idrus (DSA): je. Sedih lah. Kalau ikut bakat saya ni. Kalau parti lama saya dia patut tak pandang lah. Tapi Alhamdulillah. Itu saya cakap tadi. Bersama ni uniknya. Kerana memberi peluang kepada... orang yang tak tahu politik diberi peluang untuk menjadi calon dan selama saya dua minggu di sana saya melihat bersama ni memang ada pengaruh khususnya orang yang betul-betul yang nak satu politik yang baru lah maknanya dia tak maulah gabungan ni, dia meluat Maknanya tengok-tengok muka ni Ni lepas ni pula dulu PHBN Sekarang ni dah nak jadi BNPAS pula Jadi dia akan jadi cycle Dan bagi saya bersama ada satu parti yang bagi saya Bila saya duduk on the ground tengok saya observe kan Banyak orang yang datang tu memang terbaik lah Organik Memang organik Yang ni saya rasa tak dapat lah Kalau saya tengok di UMNO, di PKR Tak dapat Hanya di bersama saja InsyaAllah lah Parti kita ni akan You know Setelah PRN PRN Negeri Sembilan ni Tak perlu cerita lah Kita akan pergi ke Melaka InsyaAllah
-
-[1:55:50] Dato' Dr. Syed Azuan Al-Idrus (DSA): Terima
-
-[1:55:51] Dato' Dr. Syed Azuan Al-Idrus (DSA): kasih Dato' Ya baik
+[1:54:44] Dato' Dr. Syed Azuan Al-Idrus (DSA): je. Sedih lah. Kalau ikut bakat saya ni. Kalau parti lama saya dia patut tak pandang lah. Tapi Alhamdulillah. Itu saya cakap tadi. Bersama ni uniknya. Kerana memberi peluang kepada... orang yang tak tahu politik diberi peluang untuk menjadi calon dan selama saya dua minggu di sana saya melihat bersama ni memang ada pengaruh khususnya orang yang betul-betul yang nak satu politik yang baru lah maknanya dia tak maulah gabungan ni, dia meluat Maknanya tengok-tengok muka ni Ni lepas ni pula dulu PHBN Sekarang ni dah nak jadi BNPAS pula Jadi dia akan jadi cycle Dan bagi saya bersama ada satu parti yang bagi saya Bila saya duduk on the ground tengok saya observe kan Banyak orang yang datang tu memang terbaik lah Organik Memang organik Yang ni saya rasa tak dapat lah Kalau saya tengok di UMNO, di PKR Tak dapat Hanya di bersama saja InsyaAllah lah Parti kita ni akan You know Setelah PRN PRN Negeri Sembilan ni Tak perlu cerita lah Kita akan pergi ke Melaka InsyaAllah Terima kasih Dato' Ya baik
 
 [1:55:52] Haziq: Mungkin Dr. Harith Dari segi Sebagai calon lah Calon Mungkin
 
@@ -591,9 +453,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:02:15] Dato' Dr. Samsu Adabi Mamat: Mungkin nak Bercakap dua perkara Sebagai penutup ni Pertama Pertama mengenai gelombang sebab saya sains politik aa Berbincang pasal kalau tak ada gelombang ni Dia payah nak merubah kan Jadi bila YB sebut dalam satu ucapan iaitu gelombang kuning dari selatan. Jadi saya pun highlight lah di situ. Sebab Panglima dah sebut ni gelombang kuning dari selatan ni saya harap gelombang tu berlaku lah. Lepas tu saya tuliskan tiga perkara kalau kita tak hilang deposit. Yang kedua situasi kalau kita dapat tiga atau keempat seat benar. Atau kita dapat sepuluh seat ke atas. Jadi dalam ketiga-tiga keadaan ni gelombang kuning akan berlaku dari selatan kan. sebab gelombang ni dia emosional tambah tabiat mengundi orang Melayu ni wujud behavior ...behaviour kita ni......dia lebih kepada......oh kalau parti tu dah macam......popular je......dia orang akan......berbondu-bondu masuk lah......lepas tu......kelombang tu akan berlaku......di Negeri Sembilan kan......tetapi dia macam......saya tak......tak terfikir salah satu......bahawa... Kalau tak hilang deposit macam mana? Kalau hilang deposit sebenarnya gelombang itu tetap akan berlaku. Cuma delay sikit. Delay sikit. Saya percaya kan dengan kita ada expector pada kepimpinan kita. kelompang itu tetap akan berlaku cuma macam mana kita mencari cara memupuk kembali gelombang tu lah. Sebab tu lah saya... Bila saya ada sedikit asas dalam kajian politik ini. cara dia, saya pun highlightkan partisipasi politik kerana melalui partisipasi politik, kita dapat develop orang muda, orang biasa dan juga orang profesional ini adalah bukti bagaimana parti kita bersama dia berjaya menyediakan satu platform partisipasi itu jadi bila kita invite Kalau kita tengok parti Dinasol ni, dia tak dakwah terhadap partisipasi politik ni. Kalau boleh dia nak halang. Dia nak tutup. Kita nak tutup. Political participation. Jadi ubat pun join kan. Dia pun join kan. Calon kita 15 orang ni. Kalau kita, kita dah biaya mengupuk keberanian mereka jadi calon. Bila mereka, sebenarnya dia ada level participation. Paling, paling, dari back lah. Paling, paling coknya. Kita mengupuk rasa cinta terhadap negara. Kemudian daripada rasa cinta tu, dia ambil tahu pasal politik. Jadi level tu pun dah cukup dah. Level kedua, bila dah umur 18 tahun. level ketiga dia masuk parti nak masuk parti mana? kita mesti tanggung masuk parti bersama kerana parti ni lah yang memupuk parti special tu Dan level ketiga ni dah jadi calon. Level ketiga ni, saya harap yang dah masuk jadi calon ni, kita ada 15 orang. Jadi, pemerkasaan kepimpinan kita tu, kita dapat grow. Kemudian, kita boleh cipta gelombang tu. Yang dah delay sikit tu. Jadi, saya rasa itulah. Berbeza je parti bersama Terima kasih
 
-[2:06:06] Haziq: Dr. Sam Dan last daripada Ubat Dari segi Kampen dengan Chinese punya Grup Ubat lah
-
-[2:06:14] Haziq: yang
+[2:06:06] Haziq: Dr. Sam Dan last daripada Ubat Dari segi Kampen dengan Chinese punya Grup Ubat lah yang
 
 [2:06:14] Rafizi: Yang lagi Seksa
 
@@ -601,11 +461,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:06:20] Tang Hong Yau: Saya ada Dua pendapat Satu refleksi personal Sebenarnya Sebenarnya Tempo ini banyak saya pakai bahasa Malaysia. Jadi sebenarnya dalam masyarakat China dia memang kawan dengan bahasa China sahaja kan. Jadi saya rasa kempen ini membuat saya rasa lebih seperti orang Malaysia. Sebab ada kawan Melayu, kawan India. Awak tengok dekat ceramah, awak boleh tengok. Saya cakap bahasa China pun orang ramai sabar sahaja. Saya rasa bersyukur dalam keadaan politik yang makin polarisasi ini. bersama ini memang penting dalam konten-konten yang saya beritahu untuk pengundi China, saya memang menegaskan inilah Err... Biasanya dia... Memang macam lah ataupun PN, BN dia macam membuatkan orang Melayu dengan orang non-Melayu tu pluralize dan mendam sama sendiri lah. Jadi saya rasa ni sangat penting pun satu eksklusif yang sangat baik untuk saya. Dengan ini saya yakinkan lah parti bersama ni future dan dia penting. untuk berhenti dendam antara dua kaum yang mempunyai majoriti ini. Yang kedua saya refleksi ini sebab saya pun baru dalam politik kan. Jadi BN dengan MCA sebenarnya mereka tidak kacau kita. Yang DAP dia kacau kita lah kata kita split vote ni. Jadi memang dalam media China ni kita lebih serang DAP. MCA Jadi saya rasa Kita kenalah Kita punya stand Kenalah lebih tegas Kita tidak Perkawan dengan PS ke BN ke Haa Kena
 
-[2:08:14] Dato' Dr. Syed Azuan Al-Idrus (DSA): lah Baik-baik-baik A truly Multiracial Party Yang ni Terbaik lah itu Ya
-
-[2:08:23] Dato' Dr. Syed Azuan Al-Idrus (DSA): memang
-
-[2:08:24] Dato' Dr. Syed Azuan Al-Idrus (DSA): Sebab
+[2:08:14] Dato' Dr. Syed Azuan Al-Idrus (DSA): lah Baik-baik-baik A truly Multiracial Party Yang ni Terbaik lah itu Ya memang Sebab
 
 [2:08:26] Rafizi: Sebenarnya itu pinpoint negara kita Kita yang dah tua sikit saya Kita tiga orang yang boleh dua kat sini kan DSA, Dr. Sam semua kan Kita dah berapa puluh tahun go through benda ni kan dalam keadaan sebenarnya kita semua tahu bahawa 10-15 tahun akan datang ni populasi negara memang dia tak timbul lah soal majority tak majority ni Memang Melayu majority 70% kat atas dia pun dah ada isu langsung sebenarnya kan Yang kita nak perlukan ialah how to bring everyone to the table supaya sama-sama buat kerja sama-sama Bantu membantu. Supaya bisnes tu ada yang tokeh Melayu, China pun kerja. Yang tokeh China, Melayu pun kerja. Semua sama-sama partner kan. So, sebab tu model PHBN semua ni, dia sebenarnya sudah agak ketinggalan zaman. So, saya boleh ambil jalan mudah. Which is to kekal dalam PH. Aku tunggu je lah. Anwar tak ada aku jadi presiden PKR. Lepas tu nak tak nak selalunya calon PM tu mesti daripada PKR lah kan. Tunggu je lah kan. Tapi the ticking time bomb itu ialah... ...kebenaran kebenaran yang ditulis... Makin lama, makin PH dan BNPN ni makin depolarize tau. Yang sebelah PHBN ni kalau boleh, dia nak kata orang bukan Melayu, engkau duduk kat situ, aku ketua. Kalau yang PH pula, dia kalau boleh dia nak tunjukkan bahawa sebenarnya orang bukan Melayu ni tak sokong langsung. Kalau apa-apa yang datang daripada BN, PAS tu semua teruk pun tak boleh juga. Because there is a racial identification yang undi PH dilihat sebagai pro bukan Melayu, yang undi PAS. BN, PN itu semua dia layak Melayu kan. So, sebab itu ada keperluan untuk kita ada satu parti yang memang tak ada racial identification. Sebab dalam itu dia dapat undi semua. Dia bukan dapat undi yang maksimum lah. Tapi daripada Melayu dia dapatlah 30%, daripada China dia dapatlah 40%, India dapat 40% and that's enough untuk menang kan. Senang cakap lah Susah nak dibuat kan Kalau macam PKR dulu Itulah idealism PKR awalnya Masalahnya ialah Masa tu kami umur 21-22 tahun I mean bukan tempat kami untuk Untuk membangkang strategi politik Kerana strategi politik masa itu ialah membebaskan Anwar Ibrahim. Dan Anwar Ibrahim tahun 1998-1999 dia kira apa nama ni, dia pun datang daripada UMNO, BN juga kan. Jadi kerangka tu ialah kerangka BN. Jadi ada kononnya PKR yang multiracial, kena ada satu parti Cina, kena ada satu parti Melayu. Supaya PKR ni jadi jambatan dan gam. Dan after 20-30 tahun, kita dah tahu bahawa benda itu dah tak boleh dipakai lagi. Dah expired, dah pemodel itu. Anwar Ibrahim pun dah jadi PM. Dan kita masih lagi, malah menjadi lebih teruk. I don't know sebab masa saya membesar dululah, in the 90s memang kan. Saya tak rasa racial identification seteruk ini dalam politik. Masa kita-kita muda-muda, I don't know. Dr. Sam mungkin kaji benda ini. But I don't recall growing up yang racial identification kepada politik ini sedemikian rupa. Kalau macam saya, saya tak join PAS dulu sebab saya rasa, Allah, PAS ini dia tak menyelesaikan masalah. Itu saja dia cerita pasal kalau tak masuk PAS, kita tak islam. Aku tengok, ya Allahu Akbar. Semua nak jadi bos besar je dia orang ni kan. So, tapi lebih kepada masih lagi ada sedikit sebanyak soal competence dulu tau. Sekarang ni dia nampak seolah-olah soal competence semua ni tak penting dah. Dia racial identification. Kalau kita Melayu, kita kena pastikan tak ada DAP dan PH. Kalau kita kepada yang bukan Melayu pula, yang Melayu dalam PH ni pula, undi besar daripada Bukan Melayu. Jadi akhirnya PH jadi kalau kita Bukan Melayu kita kena pertahankan suara Bukan Melayu ni dengan 100% undi DAP. So benda tu sebenarnya is spiraling downwards. The more you go on this, the more polarization. Dia macam magnet yang menolak tau. Dia menarik kan. saya kena tidur atas bumbung lama lagi lah.
 
@@ -629,9 +485,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:36:49] Dato' Dr. Syed Azuan Al-Idrus (DSA): Tadi YB masuk Wajah kuning Sebenarnya Saya dah siap lah pun Saya kata Kak Y Kata YB Rafizi Tak Tak beritahu apa ni Tapi Saya kata Saya nak siap Dalam highlight orang-orang, YB. Tapi bila saya baca balik, on the way, semalam lah, bila YB keluar statement tu, saya baca habis tu, saya rasa saya setuju lah. Maknanya, Bersama tak perlu masuk lah Kerana Pertandingan sekarang ni adalah Pertandingan heavyweight Heavyweight diantara PH dan BN Dan BN sendiri Dia nak bekerjasama dengan PAS Untuk meranapkan PH Jadi kalau kita masuk Kita kacau down Nanti kalah lepas Lepas Talak kat kita Padahal kita tak ada kesan sangat pun Macam Robby cakap tadi tu Kan Kita nak masuk 5% 6% Lagi-lagi My AMK
 
-[2:37:43] Rafizi: Haa Besar kita Kita dah ada baseline itu Untuk Johor sebab Kita tak ada baseline langsung Kita hanya ada polling Okay So you need to validate polling number to with the baseline. Sekarang kita dah ada baseline tu jadi tak perlu nak the next baseline lah
-
-[2:37:58] Rafizi: kan. Saya
+[2:37:43] Rafizi: Haa Besar kita Kita dah ada baseline itu Untuk Johor sebab Kita tak ada baseline langsung Kita hanya ada polling Okay So you need to validate polling number to with the baseline. Sekarang kita dah ada baseline tu jadi tak perlu nak the next baseline lah kan. Saya
 
 [2:37:59] Dato' Dr. Syed Azuan Al-Idrus (DSA): setuju dan saya rasa ini yang apa nama pilihan terbaik lah. Orang nak kata apa, kata api. Sebab kita ada strategis, kita berdasarkan data. Bila YB keluar data tadi baru saya faham why kita masuk Johor. Data inilah juga yang kita akan masuk ke.
 
@@ -651,21 +505,15 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:47:11] Rafizi: Saya daripada dulu Saya sepanjang saya jadi ahli politik Itu yang orang kadang-kadang tak suka kat saya Sebab dia kata ikut kepala dia Dia bukan soal ikut kepala kita saja Kan Dia bagi saya lah, dalam politik, dalam campaign, even in anything tau, marketing campaign, whatever we do kan, the control must be with you. Saya suka macam main game lah, main bola. You lose the control, you payah. The control must be with you. Jadi... control narrative pilihan raya, control campaign narrative, sebaiknya kita control. Cuma sekarang kita kecil, susah nak control narrative lah kan. So you control narrative. Controlling also means picking your battles. So kalau you pick your right battles, you can control certain elements, that's a lot better than macam Johor Bahru ni kita tak boleh buat apa. Memang itu is a process we have to go through untuk establish baseline, ada muka-muka bagi ceramah ni semua kan. Nak tak nak, we have to go through. And kalau kita delay, that lagi bahaya. Kalau kita delay sampai PRU baru nak mula, you bayangkan. Tanya ubat sendiri, tanya DSA. Kalau satu tahun kemudian baru mula muncul di peta-peta ceramah, kokak-kokak lagi kan. Sekarang ni, kita dah ada baptism on fire. So, Johor tak boleh dielakkan. Tapi the next few one, sebenarnya as much as possible, we want to control apa yang kita boleh tentukan kan then hopefully lah when we have a bit more control itu akan bagi lebih peluang untuk kita push for the votes lah
 
-[2:48:56] Haziq: ok baik YB saya tak tahu nak landing macam mana tapi ok Doktor,
+[2:48:56] Haziq: ok baik YB saya tak tahu nak landing macam mana tapi ok Doktor, sila doktor
 
-[2:49:03] Haziq: sila doktor
-
-[2:49:04] Dr. Harith Fakhrudin: Doktor kena buat klinik percuma Okey untuk landing Membantu Haziq untuk landing Terima kasih bantu saya Haziq selalu ada masalah untuk landing Perkenangan kita tak masuk negeri 9 ni sebenarnya pada saya memang itu saya harapkan kita tak masuk lah Sebab Kita perlukan juga macam tadi, kita bukan nak hilang momentum tapi firepower tu kita perlu selain daripada Melaka, di Johor tu perlu diteruskan. Kita perlu tumpu sebab again momentum tu akan dibina dengan track record. Dan kalau Johor ni kita boleh teruskan dalam satu dua minggu ke depan ni dengan calon kita terus ada beberapa masalah-masalah kecil tapi dapat diselesaikan nanti pun masih. Jadi sehingga dia akan membantu momentum di Melaka juga. Again, orang tak ada masalah nak percaya dengan konsep ataupun cara politik baru kita nak bawa ni orang tak tolak benda tu tapi orang belum percaya lagi boleh ke tak boleh kalau dia ni sembang macam
-
-[2:50:12] Dr. Harith Fakhrudin: Akmal nak
+[2:49:04] Dr. Harith Fakhrudin: Doktor kena buat klinik percuma Okey untuk landing Membantu Haziq untuk landing Terima kasih bantu saya Haziq selalu ada masalah untuk landing Perkenangan kita tak masuk negeri 9 ni sebenarnya pada saya memang itu saya harapkan kita tak masuk lah Sebab Kita perlukan juga macam tadi, kita bukan nak hilang momentum tapi firepower tu kita perlu selain daripada Melaka, di Johor tu perlu diteruskan. Kita perlu tumpu sebab again momentum tu akan dibina dengan track record. Dan kalau Johor ni kita boleh teruskan dalam satu dua minggu ke depan ni dengan calon kita terus ada beberapa masalah-masalah kecil tapi dapat diselesaikan nanti pun masih. Jadi sehingga dia akan membantu momentum di Melaka juga. Again, orang tak ada masalah nak percaya dengan konsep ataupun cara politik baru kita nak bawa ni orang tak tolak benda tu tapi orang belum percaya lagi boleh ke tak boleh kalau dia ni sembang macam Akmal nak
 
 [2:50:12] Multiple speakers: resign
 
 [2:50:17] Rafizi: tak resign True true memang betul Saya tak sempat nak beritahu Dia orang sebab kalau boleh Kalau calon-calon yang hadir Kan hari Ahad tu kan kita ada terima kasih Sekarang lawan kan Korang balik tidur lah aku terpaksa tengok workout lah Kat situ kan Sebab pagi esok Isnin Next Monday tu Memang saya nak jumpa dengan semua Seberapa banyak calon yang ada Sebab kita memang nak kena plan where to go from here lah. Kita ada beberapa isu yang kita dah jumpa. Contohnya isu hak milik tanah, isu hak milik perumahan, semua tu kan. Semua ni tak boleh sembang masa kempen je. Kita dah nak kena mula susun kempennya dengan rakyatnya kan. So sebab itu macam Dr. Haris kata lah. I think firepower kita tu lebih baik dikekalkan sedikit momentum di Johor supaya orang boleh tengok actually they are serious. They mean business budak-budak ni kan. Pada masa yang sama kita yang ketumbukan utama tu Dr. Sam kita nak kena alih ke Melaka lah.
 
-[2:51:29] Haziq: Tapi menarik tadi yang YB sebut tadi, maksudnya pasca PRN Johor, calon-calon kita 15 orang itu akan ada gerak kerja
-
-[2:51:36] Haziq: dia
+[2:51:29] Haziq: Tapi menarik tadi yang YB sebut tadi, maksudnya pasca PRN Johor, calon-calon kita 15 orang itu akan ada gerak kerja dia
 
 [2:51:36] Rafizi: sendiri di Johor. Kita dah janji, dah lah aku janji. Aku janji itu bukan main-main tau. Itu satu benda yang
 
@@ -677,9 +525,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:52:06] Rafizi: Dan Negeri Sembilan Tak apalah Banyak kita Sebab Top 5 keahlian bersama yang tinggi ni, nombor 5-nya di Seremban. Jadi memanglah ahli-ahli di Seremban cakap, Allah, aku dah bersedia. Tak apalah maksudnya, ahli-ahli di Seremban nanti di Negeri Sembilan, dia tolong kita dekat Melaka, yang kat Johor tu, dan yang kat KL semua. Dan hopefully by the time kita masuk PRU 16 di Negeri Sembilan, kita akan lebih bergaya lah. Dan sebab... Yalah keadaan di Negeri Sembilan itu adalah unik sebab dia bukan melibatkan politik semata-mata. Dia dah sampai berkait dengan istana dan ialah pandangan saya ialah bila UMNO dah ambil kedudukan begitu dan juga PH memang mempertahankan status quo. Saya suka ini.
 
-[2:53:15] Dato' Dr. Syed Azuan Al-Idrus (DSA): Ketinggian sahabat yang Johor Dan di 9 ni kita Kita lebih baik kita makan popcorn lah. Kita tak sempat makan popcorn. Kita kena ke
-
-[2:53:22] Dato' Dr. Syed Azuan Al-Idrus (DSA): Melaka. Kita untuk
+[2:53:15] Dato' Dr. Syed Azuan Al-Idrus (DSA): Ketinggian sahabat yang Johor Dan di 9 ni kita Kita lebih baik kita makan popcorn lah. Kita tak sempat makan popcorn. Kita kena ke Melaka. Kita untuk
 
 [2:53:22] Dato' Dr. Samsu Adabi Mamat: kekalkan momentum.
 
@@ -691,17 +537,11 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:54:37] Dato' Dr. Samsu Adabi Mamat: aktifkan balik macam Selangor, kita dah delay
 
-[2:54:42] Rafizi: dan macam Selangor kita nak kena teruskan dan tarikh-tarikh baru, so Maksudnya kalau sebelum ini semua firepower tu di Johor Sekarang ni dari Seri Penelaka, dia kena ada Selangor Kemudian so 3-4 benda yang saya sebut tadi dia dah kena berlaku serentak lah Maksudnya membina balik momentum keahlian parti Soal dasar nak kena dibangunkan balik Kita memang ada satu tim yang dah ready untuk mula perincikan dasar So banyak kerja Jadi tak apalah Kita jumpa hari Ahad Kita InsyaAllah Tolong jangan pecahkan apa-apa Dekat Apa nama ni HQ tu kan So Tapi insyaAllah lah Orang kata Macam mana ni YB YB buat secara terbuka Nanti SB semua masuk Dia akan pasang Device untuk spy semua Kami sedia maklum Kita memang kalau boleh Nak buka Supaya orang boleh tengok Ambil gambar semua aku akan panggil company untuk sweep balik semua kalau ada listening device ke apa nanti kita carilah sweeper Kepada sesiapa yang bimbang Sebab kita ni ramai Ada je orang yang bimbang Dua hantar mesej Habislah Lepas ni SB akan tap lah Orang tu tap semua Tak apa Lepas tu kita sweep balik semua Ya
-
-[2:56:08] Rafizi: Baik, YB.
+[2:54:42] Rafizi: dan macam Selangor kita nak kena teruskan dan tarikh-tarikh baru, so Maksudnya kalau sebelum ini semua firepower tu di Johor Sekarang ni dari Seri Penelaka, dia kena ada Selangor Kemudian so 3-4 benda yang saya sebut tadi dia dah kena berlaku serentak lah Maksudnya membina balik momentum keahlian parti Soal dasar nak kena dibangunkan balik Kita memang ada satu tim yang dah ready untuk mula perincikan dasar So banyak kerja Jadi tak apalah Kita jumpa hari Ahad Kita InsyaAllah Tolong jangan pecahkan apa-apa Dekat Apa nama ni HQ tu kan So Tapi insyaAllah lah Orang kata Macam mana ni YB YB buat secara terbuka Nanti SB semua masuk Dia akan pasang Device untuk spy semua Kami sedia maklum Kita memang kalau boleh Nak buka Supaya orang boleh tengok Ambil gambar semua aku akan panggil company untuk sweep balik semua kalau ada listening device ke apa nanti kita carilah sweeper Kepada sesiapa yang bimbang Sebab kita ni ramai Ada je orang yang bimbang Dua hantar mesej Habislah Lepas ni SB akan tap lah Orang tu tap semua Tak apa Lepas tu kita sweep balik semua Ya Baik, YB.
 
 [2:56:09] Multiple speakers: Clear. Tiga jam. Tiga jam? Dua
 
-[2:56:12] Haziq: jam lima puluh lima minit.
-
-[2:56:14] Multiple speakers: Okey.
-
-[2:56:15] Haziq: Boleh kau berhenti. Terima kasih banyak kepada semua hadir. Terima kasih banyak kepada panelis-panelis yang hadir pada malam ni. Harap boleh join lagi dalam masa akan datang. Okey, baik. Kita berehat dulu sebab esok nak sambung kerja. Selamat malam. Jumpa lagi. Assalamualaikum.
+[2:56:12] Haziq: jam lima puluh lima minit. Okey. Boleh kau berhenti. Terima kasih banyak kepada semua hadir. Terima kasih banyak kepada panelis-panelis yang hadir pada malam ni. Harap boleh join lagi dalam masa akan datang. Okey, baik. Kita berehat dulu sebab esok nak sambung kerja. Selamat malam. Jumpa lagi. Assalamualaikum.
 
 [2:56:33] Multiple speakers: Chopper kata nak beri salam.
 

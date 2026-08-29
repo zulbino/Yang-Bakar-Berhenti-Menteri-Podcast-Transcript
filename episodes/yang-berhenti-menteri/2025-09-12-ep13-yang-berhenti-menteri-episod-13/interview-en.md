@@ -77,9 +77,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Ah, so it's not private. It's actually quite clear... unless you're showing my debts, that would be private. But I already disclosed all my debts before when I declared my assets.
 
-**Haziq:** Yes, you can see it, so there's nothing private. What they're peddling around, even the RM20 million figure, is known. Okay, so YB, not only are you sharing the MP's payslip, but also the payslip as a minister or head of administration. So let's take a look...
-
-**Haziq:** Okay, Zoom, what's this?
+**Haziq:** Yes, you can see it, so there's nothing private. What they're peddling around, even the RM20 million figure, is known. Okay, so YB, not only are you sharing the MP's payslip, but also the payslip as a minister or head of administration. So let's take a look... Okay, Zoom, what's this?
 
 **Rafizi:** Take your time looking at it, this is the first time you all get to see a minister's payslip.
 

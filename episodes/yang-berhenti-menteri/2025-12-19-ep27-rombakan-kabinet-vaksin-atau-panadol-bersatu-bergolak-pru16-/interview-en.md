@@ -49,9 +49,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Haziq:** Assalamualaikum and welcome once again to the podcast "Yang Berhenti Menteri Dah," episode 27. As usual, joined by Rafizi Ramli. Obviously, since there are two "saudara"s, I stuttered. Episode 27 and I'm still stuttering. Sorry, YB. But YB doesn't matter, because what's more important is that this week, I think the biggest issue is related to the cabinet reshuffle.
-
-**Haziq:** I'll change the topic.
+**Haziq:** Assalamualaikum and welcome once again to the podcast "Yang Berhenti Menteri Dah," episode 27. As usual, joined by Rafizi Ramli. Obviously, since there are two "saudara"s, I stuttered. Episode 27 and I'm still stuttering. Sorry, YB. But YB doesn't matter, because what's more important is that this week, I think the biggest issue is related to the cabinet reshuffle. I'll change the topic.
 
 **Rafizi:** You're good at dodging, aren't you.
 
@@ -61,9 +59,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Congratulations, beria, YB.
 
-**Farhan (Pa'an):** Eh, wait. You.
-
-**Farhan (Pa'an):** Okay, so it became a talking point when he announced the opening of Lembayung too, it was...
+**Farhan (Pa'an):** Eh, wait. You. Okay, so it became a talking point when he announced the opening of Lembayung too, it was...
 
 **Rafizi:** a place...
 
@@ -129,9 +125,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** 10,000, sure.
 
-**Haziq:** Hmm, okay, alright. Okay, the third one — influencer officially barred from an educational event versus popularity.
-
-**Speaker ?:** Hehe.
+**Haziq:** Hmm, okay, alright. Okay, the third one — influencer officially barred from an educational event versus popularity. Hehe.
 
 **Rafizi:** So which one do we say is "beria" here? Is it "beria" that he explained himself, or "beria" that he went to officiate the event?
 
@@ -169,9 +163,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** That's not a good excuse for not including him, but never mind. The photo isn't very clear. So he's one who was left out. Anyone else? The Tawau MP isn't there.
 
-**Haziq:** Tawau, Lo Su Fui.
-
-**Haziq:** Right. Okay YB, vaccine or Panadol. Yes, we know the cabinet reshuffle was done after — I get scared looking at Sim's face, why is he smiling so happily? Maybe he's been on the Beria segment many times. Really? I think that answers the question. Make Malaysia Great Again — and then got...
+**Haziq:** Tawau, Lo Su Fui. Right. Okay YB, vaccine or Panadol. Yes, we know the cabinet reshuffle was done after — I get scared looking at Sim's face, why is he smiling so happily? Maybe he's been on the Beria segment many times. Really? I think that answers the question. Make Malaysia Great Again — and then got...
 
 **Rafizi:** Oh, Make Malaysia Great Again.
 
@@ -185,9 +177,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Oh, Zahid Hamidi isn't there either?
 
-**Farhan (Pa'an):** He should be there.
-
-**Farhan (Pa'an):** It's already too crowded.
+**Farhan (Pa'an):** He should be there. It's already too crowded.
 
 **Rafizi:** The CM isn't there either.
 
@@ -197,9 +187,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** There are ministers said to be performing well but whose portfolios were changed. There are ministers said to be not performing so well who were retained. As mentioned by the public, the most talked-about was Steven Sim's placement at KUSKOP and Ramanan at KESUMA — that's among the things being questioned. And also, Hannah Yeoh being moved to the Ministry of Regional Development, Zaliha being dropped — maybe YB could give a view on these reshuffling moves.
 
-**Rafizi:** Shuffle, like a dance on the floor? I just thought of that — shuffle, dance on the floor. Um... no, okay. I think let's set aside the comments about Steven Sim, Ramanan, Zaliha for now. Because I think the comments about those changes are more focused on the views of PH people. I don't think they have much traction with ordinary voters.
-
-**Rafizi:** This cabinet reshuffle... my God, we just have to accept the reality. Actually, the one thing people were most excited about and waiting for was a single name — Fadlina. That's what everyone was waiting for. And I think it's ordinary, non-partisan citizens, because the Ministry of Education is very important. In fact, nobody really cares who becomes the Minister of Economy. What has been the focus for several months, especially since we resigned and confirmed there would be a cabinet reshuffle, and then with several issues that occurred, was whether Datuk Seri Anwar Ibrahim would change the Minister of Education or not. And that is a view that cuts across all groups — whether party supporters or... but especially ordinary people, because all parents, Malay and non-Malay alike, care about this.
+**Rafizi:** Shuffle, like a dance on the floor? I just thought of that — shuffle, dance on the floor. Um... no, okay. I think let's set aside the comments about Steven Sim, Ramanan, Zaliha for now. Because I think the comments about those changes are more focused on the views of PH people. I don't think they have much traction with ordinary voters. This cabinet reshuffle... my God, we just have to accept the reality. Actually, the one thing people were most excited about and waiting for was a single name — Fadlina. That's what everyone was waiting for. And I think it's ordinary, non-partisan citizens, because the Ministry of Education is very important. In fact, nobody really cares who becomes the Minister of Economy. What has been the focus for several months, especially since we resigned and confirmed there would be a cabinet reshuffle, and then with several issues that occurred, was whether Datuk Seri Anwar Ibrahim would change the Minister of Education or not. And that is a view that cuts across all groups — whether party supporters or... but especially ordinary people, because all parents, Malay and non-Malay alike, care about this.
 
 So when this reshuffle didn't touch Fadlina at all and the Ministry of Education wasn't touched at all, to me that automatically becomes a signal that in the eyes of ordinary people, this reshuffle will have no effect at all. Because that's the only thing they focused on. That's why if you look at the comments, most of them, to me, are comments from PH supporters. Only PH supporters are saying, "oh, Steven Sim," "oh this," "oh that." Because ordinary people don't think that way. Ordinary people don't have much opinion about Steven Sim, or even Ramanan for that matter. So what matters to them is the Ministry of Education.
 
@@ -225,11 +213,7 @@ And another thing that will have a long-lasting impact is the performance of the
 
 **Haziq:** Insignificant?
 
-**Farhan (Pa'an):** Insignificant might be too strong a word.
-
-**Farhan (Pa'an):** But too small a player, or...
-
-**Farhan (Pa'an):** I don't think...
+**Farhan (Pa'an):** Insignificant might be too strong a word. But too small a player, or... I don't think...
 
 **Rafizi:** MIC is the biggest loser. There's a former MIC Treasurer, he has a representative in the cabinet naturalized by PKR, he has a representative from MIC. No, I think on the issue of MCA and MIC, I already commented on this last week — the threats or the noise are more about positioning and the bargaining power of MCA-MIC within the government through BN. One thing is, the window that exists now is for reshuffling ministers, whether they have a seat at the table or not. Hmm. But it's not easy either. First, for example, in terms of the calculation of how many represent which party, it follows the coalition. So in BN, the BN coalition, to give a ministerial post to either MCA or MIC, BN would have to give up that seat because of the unity government agreement — I've written about this, it clearly shows it must be directly proportional to the number of seats. In fact, UMNO actually gets more now. Because if you go by that proportion, BN should only get 5. But because Tengku Zafrul was previously said not to represent UMNO but rather... in that discussion it was said he doesn't represent UMNO — back when we first formed this, they considered this not to be UMNO's quota, this was Tengku Zafrul's quota, because Tengku Zafrul dot-dot-dot. So then UMNO said, "oh, but since he's a UMNO member, when he's no longer around that quota must become UMNO's quota." But now, if you go by direct proportion, UMNO actually gets more, that's one thing. So whether UMNO wants to give up one of its seats to MCA, or give one cabinet seat to MIC — they won't give it up. So if UMNO wants to instead pressure PH to give up your seats, they'll be even less willing to give theirs up. So in the current situation, this window has already slipped away from MCA and MIC.
 
@@ -295,9 +279,7 @@ So, hmm, yes, I think it's premature for us to judge performance. What we can co
 
 **Rafizi:** So vaccine or Panadol? Time will tell. Only time can tell.
 
-**Farhan (Pa'an):** But is there enough time for—
-
-**Farhan (Pa'an):** Vaccine or Panadol might be enough, but vaccine... Panadol is definitely—
+**Farhan (Pa'an):** But is there enough time for— Vaccine or Panadol might be enough, but vaccine... Panadol is definitely—
 
 **Rafizi:** Panadol for now. But as for the vaccine, even if the vaccine is effective, because it hasn't been tried in a long medical trial, it might have big side effects. Okay, okay, okay.
 
@@ -357,15 +339,7 @@ So the lucky thing is that PKR/PH is in turmoil. Because if things were peaceful
 
 **Rafizi:** From outside, right, because this is an existential crisis. This is a battle at an existential level between Dato' Seri Hamzah's group versus Dato' Seri Azmin's group, which relies on Tan Sri Muhyiddin.
 
-**Farhan (Pa'an):** Since we're on the topic of the opposition, right — in the eyes of the public, perhaps the most stable party at the moment is still PAS. Because in... no dirty laundry ah... publicly it's said there isn't, there's no internal fighting, not much controversy. Is this a bad signal being allowed by PH?
-
-**Farhan (Pa'an):** Because PH is also in turmoil, stone by stone. What kind of signal? Ask it...
-
-**Farhan (Pa'an):** ...in Malay.
-
-**Farhan (Pa'an):** Some are thinking how to phrase the question — translate it into Malay, ask ChatGPT.
-
-**Farhan (Pa'an):** I mean, the public will view PAS as the most stable party.
+**Farhan (Pa'an):** Since we're on the topic of the opposition, right — in the eyes of the public, perhaps the most stable party at the moment is still PAS. Because in... no dirty laundry ah... publicly it's said there isn't, there's no internal fighting, not much controversy. Is this a bad signal being allowed by PH? Because PH is also in turmoil, stone by stone. What kind of signal? Ask it... ...in Malay. Some are thinking how to phrase the question — translate it into Malay, ask ChatGPT. I mean, the public will view PAS as the most stable party.
 
 **Rafizi:** Yes, that's a given. It's just a question of whether — whether a party can win and form a government relying solely on voters' hatred of other parties, without offering anything that wows. That is, I'm actually not convinced. So that's PAS's position, right. That's why PAS seems quiet, they're not doing anything.
 
@@ -389,9 +363,7 @@ The die-hard party loyalists, they will indeed follow along, follow wherever. Bu
 
 **Rafizi:** Yes, in China and in India.
 
-**Haziq:** But perhaps we'd like to know a bit — actually, what will happen next? This group that doesn't come out to vote, what's its impact on GE16, and perhaps are there unintended consequences?
-
-**Haziq:** Ok, wow, since we're on the topic...
+**Haziq:** But perhaps we'd like to know a bit — actually, what will happen next? This group that doesn't come out to vote, what's its impact on GE16, and perhaps are there unintended consequences? Ok, wow, since we're on the topic...
 
 **Rafizi:** Even at the Ministry of Economy now, they're already using the term unintended consequences, ok. Erm... erm... I just got the latest data. It's just been released. Fine. There are signs of a few main patterns. Why we need data and also... um... why these analyses are important is because in my view, politicians and political parties, leaders — we cannot be reactive. We cannot be reactionary, you know. We must be able to read ahead of time and then adjust our strategy and also our communication based on the public's views and feelings. That's what I call resonance. Resonance, again and again, right. For example, if we keep saying the same thing, pump, pump, pump, we feel that thing is truly right and we're confident it's the best and we repeat the same thing. But if it has no resonance, it's a waste of time. For example, we've mentioned this before, right, that's also Dato' Seri Anwar's challenge now — he's become Prime Minister, but he still speaks as if he's the opposition leader. He still talks about being beaten, jailed, ISA, and all that. The public will say, we understand, that's why we made you Prime Minister. Now you are into a new phase, right? And that's what happens when we can't read the public's resonance. The whole ISA business, once you're in government, it no longer resonates with the public, you know.
 
@@ -571,9 +543,7 @@ So if JKOM wants to learn, sure, but pay for it properly, don't go buying viewer
 
 **Rafizi:** They asked for us not to be here next week. Can't do that, we need to be here every week. So next week even though it's a holiday — a day off after Christmas, eh — yes, we'll still be broadcasting. Boxing day. Boxing day.
 
-**Farhan (Pa'an):** What are you boxing? Boxing day.
-
-**Farhan (Pa'an):** Right.
+**Farhan (Pa'an):** What are you boxing? Boxing day. Right.
 
 **Rafizi:** I know. But what do you box, you don't celebrate Christmas. No, no, we'll box enthusiastically.
 

@@ -251,9 +251,7 @@ Bahawa tidak memadai dengan kemampuan X syarikat sahaja yang berjaya dibangunkan
 
 **Syed Munawar:** Last one, YB — soalan daripada seorang, daripada Facebook lah, Facebook YB lah, Tanya Rafizi: "YB, apa perancangan YB nak naikkan nilai ringgit?"
 
-**Rafizi:** 5 jam tak ada. Short.
-
-**Rafizi:** Satu, maybe short one? There's no short answer to that. It's a lot more complicated. Apa yang mempengaruhi nilai ringgit? Kesan ataupun pengaruh jangka pendek itu semua orang dah tahulah, iaitu akibat ketidaktentuan yang berlaku di dua ekonomi utama, iaitu Amerika Syarikat dan China, yang ada kesan besar kepada kita. Amerika Syarikat kerana kadar faedah yang ditetapkan itu mempengaruhi aliran wang di dunia ini. Dan keadaan dia sekarang ini ialah kadar faedahnya tinggi berbanding dengan kita, maka wang kesanalah.
+**Rafizi:** 5 jam tak ada. Short. Satu, maybe short one? There's no short answer to that. It's a lot more complicated. Apa yang mempengaruhi nilai ringgit? Kesan ataupun pengaruh jangka pendek itu semua orang dah tahulah, iaitu akibat ketidaktentuan yang berlaku di dua ekonomi utama, iaitu Amerika Syarikat dan China, yang ada kesan besar kepada kita. Amerika Syarikat kerana kadar faedah yang ditetapkan itu mempengaruhi aliran wang di dunia ini. Dan keadaan dia sekarang ini ialah kadar faedahnya tinggi berbanding dengan kita, maka wang kesanalah.
 
 Satu lagi faktor luaran yang mempengaruhi kita adalah China. Kerana China sekarang melalui fasa — yalah, nak kata lembab ekonomi itu tak lah, tapi ekonomi dia tumbuh lebih perlahan daripada yang dijangkakan. 4-5% ni untuk China ni perlahan lah, dia biasa 9%, 8% kan. Oleh kerana China ni rakan dagang negara kita yang besar, maka bila China ada masalah, dia ada kesan kepada ringgit kerana pelabur dan juga pedagang matawang kita akan terheret sama. Kalau China tumbuh perlahan, kita pun akan tumbuh perlahan. Itu jangka masa pendek, dan memang tak banyak benda sangat yang kita boleh buat. Dan yang itu saya bolehlah tuding jari kata ini Amerika Syarikat, China semua kan.
 

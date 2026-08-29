@@ -52,113 +52,41 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Haziq:** Bukan "Yang Berhenti Menteri", dah episod ke-26 bersama saudara Rafizi. Sebelum itu, kena follow ramai-ramai social media macam biasa: Facebook, Twitter, IG, dan YouTube. Dengar cerita dah ada yang akaun 1 million, tapi tak biasa, kan?
+**Haziq:** Bukan "Yang Berhenti Menteri", dah episod ke-26 bersama saudara Rafizi. Sebelum itu, kena follow ramai-ramai social media macam biasa: Facebook, Twitter, IG, dan YouTube. Dengar cerita dah ada yang akaun 1 million, tapi tak biasa, kan? Komanlah tu. Komanlah 1 million. Di Facebook, eh? Jadi kena tambah lagi ramai lah, okey? Jadi saya mungkin tak nak prolong benda ni, kita banyak isulah YB minggu ni. Kita boleh terus kepada BERIA lah. "Beria Mat". Kita tengok episod yang ke-26, segmen pertama. Bismillah. Lambaian tangan dapat RM100. Tapi sebelum tu, YB kenal?
 
-**Haziq:** Komanlah tu.
+**Rafizi:** Tak kenallah. Dia ni bukan yang Papa Gomo tak puas hati kan? Orang panggil Sultan Pemurah. Tak pernah tahu. Ini kali pertama *come across him* lah sebab isu ni. Tapi itu pun tak adalah kenal. Cuma dalam sosial media tu tengok cybertrooper... Yalah, Papa Gomo ni panggil cybertrooper apa, eh? Cybertrooper Tun M. Cybertrooper Tun M? Yang marah sangat dekat dialah kan? Tapi yang ini banyaklah kan dalam media semua yang dia bagi lambaian saja dapat RM100, lambaian saja dapat RM100. Lepas tu ada orang kat belakang tu pula yang... Kena kenal? Tak... Tak tahu... Tak tengok sangatlah. Tapi ada orang... Betullah, dia ni macam bagi angpao lah kan? Bagi angpao. Dia risiko... Oh, tu! Itu macam Sanusi Hamzah? Ya, Ulul Albab. So, dia ada ris- Ini kat mana ni? Kat Melaka. Oh, kat Melaka. Klebang. Ah, kat Klebang. Dia ada risiko bila bagi duit macam bagi angpao lah, orang akan ambil duit dua tiga kali kan? So, itu yang kat belakang tu beritahu lambaian sekali saja dapat RM100.
 
-**Haziq:** Komanlah 1 million. Di Facebook, eh? Jadi kena tambah lagi ramai lah, okey? Jadi saya mungkin tak nak prolong benda ni, kita banyak isulah YB minggu ni. Kita boleh terus kepada BERIA lah. "Beria Mat". Kita tengok episod yang ke-26, segmen pertama. Bismillah.
+**Farhan (Pa'an):** Tapi Haziq, apa punca dia nak bagi duit RM100 tu? Apa cara? Kenapa dia bagi duit RM100 tu? Ke memang dia pemurah?
 
-**Haziq:** Lambaian tangan dapat RM100. Tapi sebelum tu, YB kenal?
+**Haziq:** Dia memang pemurah. Tak, *the fact that* orang selalu cakap dia Sultan Pemurah sebab dulu dia bagi dekat live-live orang kan dulu, dia bagi gift. Dia bagi gift Lion. YB tahu satu harga tu berapa? RM2,000 lebih. Oh ya? Itu TikTok lah?
 
-**Rafizi:** Tak kenallah. Dia ni bukan yang Papa Gomo tak puas hati kan?
+**Farhan (Pa'an):** TikTok. Harap malam ni dia bagi gift Lion kepada TikTok live
 
-**Rafizi:** Orang panggil Sultan Pemurah.
-
-**Rafizi:** Tak pernah tahu. Ini kali pertama *come across him* lah sebab isu ni. Tapi itu pun tak adalah kenal. Cuma dalam sosial media tu tengok cybertrooper... Yalah, Papa Gomo ni panggil cybertrooper apa, eh?
-
-**Rafizi:** Cybertrooper Tun M.
-
-**Rafizi:** Cybertrooper Tun M? Yang marah sangat dekat dialah kan? Tapi yang ini banyaklah kan dalam media semua yang dia bagi lambaian saja dapat RM100, lambaian saja dapat RM100. Lepas tu ada orang kat belakang tu pula yang...
-
-**Rafizi:** Kena kenal?
-
-**Rafizi:** Tak... Tak tahu... Tak tengok sangatlah. Tapi ada orang... Betullah, dia ni macam bagi angpao lah kan? Bagi angpao. Dia risiko... Oh, tu! Itu macam Sanusi Hamzah?
-
-**Rafizi:** Ya, Ulul Albab.
-
-**Rafizi:** So, dia ada ris- Ini kat mana ni?
-
-**Rafizi:** Kat Melaka.
-
-**Rafizi:** Oh, kat Melaka. Klebang. Ah, kat Klebang. Dia ada risiko bila bagi duit macam bagi angpao lah, orang akan ambil duit dua tiga kali kan? So, itu yang kat belakang tu beritahu lambaian sekali saja dapat RM100.
-
-**Farhan (Pa'an):** Tapi Haziq, apa punca dia nak bagi duit RM100 tu?
-
-**Farhan (Pa'an):** Apa cara?
-
-**Farhan (Pa'an):** Kenapa dia bagi duit RM100 tu? Ke memang dia pemurah?
-
-**Haziq:** Dia memang pemurah. Tak, *the fact that* orang selalu cakap dia Sultan Pemurah sebab dulu dia bagi dekat live-live orang kan dulu, dia bagi gift. Dia bagi gift Lion. YB tahu satu harga tu berapa? RM2,000 lebih.
-
-**Haziq:** Oh ya? Itu TikTok lah?
-
-**Farhan (Pa'an):** TikTok.
-
-**Farhan (Pa'an):** Harap malam ni dia bagi gift Lion kepada TikTok live
-
-**Haziq:** YB.
-
-**Haziq:** Kita tak boleh.
-
-**Haziq:** Eh, tapi tak boleh sebab ni, politikus kan.
-
-**Haziq:** Benda politik tak dapat.
-
-**Haziq:** Walaupun dia tak boleh bagi gift langsung?
-
-**Haziq:** Tak boleh bagi gift langsung.
+**Haziq:** YB. Kita tak boleh. Eh, tapi tak boleh sebab ni, politikus kan. Benda politik tak dapat. Walaupun dia tak boleh bagi gift langsung? Tak boleh bagi gift langsung.
 
 **Multiple speakers:** Halah. ... Rugi *opportunity*. ... Tak ... payah buat TikTok lah malam ni.
 
 **Rafizi:** Hm... Beria... nak komen ni, saya selalunya kurang... kurang selesalah kalau cara macam ini kan? Mhm. Sebab satu ialah dalam budaya kitalah, dalam Islam kan, tangan yang memberi tu kalau tangan kanan bagi, tangan kiri pun tak tahu. Itu satu. Kemudian bila dia dah jadi sampai content media semua ni kan, kita tak boleh baca niat oranglah. Tapi membudayakan macam lambaian tangan dapat RM100, dia membudayakan yalah, perkara feudal dalam dalam masyarakat kitalah kan. Maksudnya orang yang kaya, orang di atas. Tak kenal pun dia kaya sebab apa, ke apa kan? Tapi membudayakan orang kaya ni bagi, bagi, bagi semua kan. Kalau ikut saya, hmm... macam majlis biasa perayaan kan, Raya ke, bagi angpao... Bagi angpao semua tu saya kurang selesa sangat kan. Tapi dah jadi budaya kita tak apalah. Okey. Paling kurang kalau macam majlis perayaan tu, kita yalah ada ada perspektif lainlah. Ini untuk budak-budak kan, untuk orang gembira semua. Tapi kalau kalau semua orang lebih baik kalau dia tahu orang yang betul-betul susah dan senyap-senyap pergi tolong kot. Ha tapi yalah, ini macam beria buat content lah kot.
 
-**Farhan (Pa'an):** Hm mhm.
-
-**Farhan (Pa'an):** Tapi sorry, sorry. Ini sebab dia ada konotasi politik. Sebab dia involve dengan saya tak silap saya, dia ahli PKR?
-
-**Farhan (Pa'an):** Ya? Lepas akulah kot?
-
-**Farhan (Pa'an):** Lepas aku.
+**Farhan (Pa'an):** Hm mhm. Tapi sorry, sorry. Ini sebab dia ada konotasi politik. Sebab dia involve dengan saya tak silap saya, dia ahli PKR? Ya? Lepas akulah kot? Lepas aku.
 
 **Rafizi:** Lepas zaman akulah. Aku tak kenal. Tak kenal.
 
-**Farhan (Pa'an):** Kalau kalau kita tukar dia dengan contoh selebritilah, yang selalu orang nampak adalah macam Isa Isarb? Isa Isarb kan selalu bagi duit...
+**Farhan (Pa'an):** Kalau kalau kita tukar dia dengan contoh selebritilah, yang selalu orang nampak adalah macam Isa Isarb? Isa Isarb kan selalu bagi duit... Isa Isarb. ...semua tu. Itu pun kira beria juga ke ataupun... Saya pun nak tanya.
 
-**Farhan (Pa'an):** Isa Isarb.
-
-**Farhan (Pa'an):** ...semua tu. Itu pun kira beria juga ke ataupun...
-
-**Farhan (Pa'an):** Saya pun nak tanya.
-
-**Rafizi:** Ya, itu pandangan masing-masinglah kan? Maksudnya rakyat sukalah kot. Dia sama macam tersepak duitlah, rezeki langkah kaki kanan kan?
-
-**Rafizi:** Dia kata
+**Rafizi:** Ya, itu pandangan masing-masinglah kan? Maksudnya rakyat sukalah kot. Dia sama macam tersepak duitlah, rezeki langkah kaki kanan kan? Dia kata
 
 **Haziq:** kan inspirasi untuk orang lain untuk buat kebaikan? In a wrong way lah kot?
 
-**Rafizi:** Well, saya berpegang... Tak adalah. Saya berpegang kepada yalah benda yang paling asaslah. Kalau kau nak bagi tu tangan kanan bagi, tangan kiri jangan tahu kan? Ha yalah, masing-masing ada alasan masing-masinglah. Tapi kalau dia sampai jadi budaya dan dia dah jadi maksudnya orang kaya ni, dia mesti turun bagi, tak kisahlah berjaya macam mana semua kan. Jadi kita mendewa-dewakan wang. Ha sebab orang yang kaya dia ada duit, dia boleh bagi semua kan. Ha tapi yalah, pandangan masing-masinglah. Kalau yang artis ke apa, mungkin baik untuk content. Sebenarnya benda ni lebih kepada zaman sekarang kot, zaman content kan? Dia baik untuk content kan? Beria untuk buat content.
+**Rafizi:** Well, saya berpegang... Tak adalah. Saya berpegang kepada yalah benda yang paling asaslah. Kalau kau nak bagi tu tangan kanan bagi, tangan kiri jangan tahu kan? Ha yalah, masing-masing ada alasan masing-masinglah. Tapi kalau dia sampai jadi budaya dan dia dah jadi maksudnya orang kaya ni, dia mesti turun bagi, tak kisahlah berjaya macam mana semua kan. Jadi kita mendewa-dewakan wang. Ha sebab orang yang kaya dia ada duit, dia boleh bagi semua kan. Ha tapi yalah, pandangan masing-masinglah. Kalau yang artis ke apa, mungkin baik untuk content. Sebenarnya benda ni lebih kepada zaman sekarang kot, zaman content kan? Dia baik untuk content kan? Beria untuk buat content. Baik. Okey YB, kita tengok... Kalau aku, kalau lambai satu tangan dapat RM100, kalau lambai dua tangan? Dapat RM200? Jam member.
 
-**Rafizi:** Baik. Okey YB, kita tengok...
+**Haziq:** Next. Abang Grab Hero. Ha ni ada beria kategori barulah kot YB. Oh, ni antidote kepada yang lain-lainlah.
 
-**Rafizi:** Kalau aku, kalau lambai satu tangan dapat RM100, kalau lambai dua tangan? Dapat RM200? Jam member.
-
-**Haziq:** Next. Abang Grab Hero. Ha ni ada beria kategori barulah kot YB.
-
-**Haziq:** Oh, ni antidote kepada yang lain-lainlah.
-
-**Rafizi:** Ni antidote kepada 'cukup jumlah' minggu lepaslah. Yang ini kan orang... yalah, jarang kita tengoklah kan? Dia sebab tak ada kena-mengena kan? Dia sebenarnya kan? Dia motor dia pun tak tahu kat mana. Tapi bagusnyalah, pergi tolong... Sebab selalunya dia dia longkang tersumbat ni, dia sebenarnya sampah kat atas tu sikit je. Kan? Dia... jadi kalau semua orang beria macam ni tak apa. Bagus. Bagus. Baik, baik, baik. Okey beria jugalah.
-
-**Rafizi:** Hm.
-
-**Rafizi:** Beria macam ni tak
+**Rafizi:** Ni antidote kepada 'cukup jumlah' minggu lepaslah. Yang ini kan orang... yalah, jarang kita tengoklah kan? Dia sebab tak ada kena-mengena kan? Dia sebenarnya kan? Dia motor dia pun tak tahu kat mana. Tapi bagusnyalah, pergi tolong... Sebab selalunya dia dia longkang tersumbat ni, dia sebenarnya sampah kat atas tu sikit je. Kan? Dia... jadi kalau semua orang beria macam ni tak apa. Bagus. Bagus. Baik, baik, baik. Okey beria jugalah. Hm. Beria macam ni tak
 
 **Speaker ?:** apa. Beria macam
 
-**Haziq:** ni tak apa. Tiap-tiap hari dia beria macam ni tak apa.
-
-**Haziq:** Okey YB, kita tengok next. Tapi YB jangan terkejut. Bismillah.
-
-**Haziq:** Siapa gambar tu? Ceplos? Tapi dia puji YB eh?
+**Haziq:** ni tak apa. Tiap-tiap hari dia beria macam ni tak apa. Okey YB, kita tengok next. Tapi YB jangan terkejut. Bismillah. Siapa gambar tu? Ceplos? Tapi dia puji YB eh?
 
 **Speaker ?:** Itu zaman
 
@@ -166,99 +94,29 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Speaker ?:** Well, yalah saya saya
 
-**Rafizi:** sebenarnya... watak macam ini datang dan pergi kan? Jadi ada sebablah. Cuma saya ingat kalau yang dia beria... Saya tak faham. Nak saya nak kata tak faham, tak tahulah. Saya saya faham kenapa dia beria ratib nama aku tiap-tiap hari ni. Cuma saya tak faham yang dalam kepala otak dia tu apa yang dia rasa dia dapat? Tapi part of it I think is because it's personal. Ha sebab cerita dia...
+**Rafizi:** sebenarnya... watak macam ini datang dan pergi kan? Jadi ada sebablah. Cuma saya ingat kalau yang dia beria... Saya tak faham. Nak saya nak kata tak faham, tak tahulah. Saya saya faham kenapa dia beria ratib nama aku tiap-tiap hari ni. Cuma saya tak faham yang dalam kepala otak dia tu apa yang dia rasa dia dapat? Tapi part of it I think is because it's personal. Ha sebab cerita dia... YB kenal? Oh kenal. Dia ni dulu pesara tentera kan? Jadi saya ingat dia dalam tahun bila eh? Dalam dalam tahun 2012, 2013 macam tulah. Atau pun mungkin lebih awal ke apa? Masa tu Datuk Fauzi Rahman... pengerusi PKR Pahang. So dia beritahulah apa nama ni ada seorang pesara tentera ni dia gigih... apa nama ni buat content semua ni. ...zaman-zaman dululah kan. Dia... so mana boleh tolong tu tolonglah. So, sekali-sekala dia pesara, saya ingat pesara tentera ni dapat berapa, RM300, RM400, RM500 macam tu lah kot kan? Jadi, yalah, sama kawan-kawan mana yang boleh tolong kita tolonglah over the years. Jadi, lepas tu dia jadi pengikutlah. Pengikut, kan? Ha. Jadi, ini ini ini watak dia, dia mesti taksub. Ha, dia tak boleh tak taksub tahu. Jadi, dia ikut. Kemudian, tahun 2019, 2019 kan saya memang dah tak berminat dengan politik. Ah, ya. So, maksudnya masa Jun 2019 tu pun, dia pun dah rindu kat aku kot, tu yang dapat gambar tu terus tulis, kan? Ha. So, dia tapi dia masih lagi bersemangat politiklah. Jadi, sekali-sekala, masa tu saya masih lagi ada WhatsApp. Sekali-sekala dia mesej, nah, saya bagilah pandangan itu, pandangan ini kan? Dia orang selalunya suka, ah ni, Ceplos-Ceplos ni. Aha. Dia selalunya memang sukalah kalau ada hubungan ataupun komunikasi dengan pimpinan ke apa, sebab dia boleh dapat maklumat yang dia boleh buat content untuk dia menulis, kan? Jadi masa awal-awal tu saya, saya layanlah sekali-sekala, kawan-kawan lama, semua kan? Kemudian ada satu, pun saya, after a while, saya memang tak campur sangat, saya tak ambil tahu, kan? Cuma satu masa tu, dia macam, saya tengok ada orang beritahu... Ah. Dia tanya, "Betul ke you sokong Izam masuk parti ni?" Izam Nakno? Izam Nakno. Hm, okey. Kan? Jadi macam, "Eh, apa kena-mengena pula dengan aku?" kan? So, dia beritahulah sebab, "Ni budak you, Wan Fayhsal ni, duk bawa Izam, duk kempen suruh Izam masuk parti." So, saya ingatlah dalam tahun 2019, akhir macam tu, saya beritahu dia, "Kalau sebenarnya berkawan-kawan ni dalam pasukan ke apa, kita kena ikut garis ataupun jalur yang sama-sama tentukan. Kita tak boleh buat keputusan sendiri. Ah, jadi benda-benda besar macam oh, aa saya ingat lepas Sheraton kot, lepas Sheraton yang dia duk kempen sangat untuk bawa Izam tu kononnya untuk menguatkan parti." Masalahnya, nama aku terpalitlah, sebab kononnya dia ni kan, sebelum ni lambang aku, sekarang lepas ni nak bawa Izam, kan? Jadi saya tegur dia, saya kata, "Saya tak setuju." WhatsApp? WhatsApp lah. Namanya ada WhatsApp lagilah. Saya tegur dialah, saya kata, aa benda tu benda tak betul. Aa, yalah, parti lemah ke apa semua tu, serahkan kepada pimpinanlah, kan? Saya tak tak tak campur dah. Aa, tapi pandai-pandai buat strategi aa nak bawa Izam, lepas tu terpalit nama aku, yang itu saya tak setujulah, kan? Ah, daripada situlah dia jadi Ceplos. Ah... daripada, sebenarnya cerita tu, oleh kerana dia ni tak boleh ditegur langsung. Hm. Dia, saya rasa, em... kalau dia... ada satu pandangan tu. Itu yang kadang-kadang, orang kitalah, kan? Kita tak memandang di cermin. Ah, sebab contohnya, aa kalau macam Wan Fayhsal ni, dengan Ceplos-Ceplos seangkatannyalah, kan? Ayat yang dia akan selalu mainkan ialah dia ingat dia saja betul. Kalau dia serang akulah, dia ingat dia saja betul, pandangan dia saja betul, kan? Dia tak sedar yang sebenarnya dia kena tegur sekali... Ni pasal tak payahlah nak susah-payah nak bawa Izam masuk dalam parti ni. Ah, terus jadi macam ini sekarang, kan? Dan benda itu terbukti betullah. Izam sekarang ni atas pentas Pas. Apa yang dia tak kata pasal Anwar Ibrahim, kan? Ah, jadi daripada situlah. Ah, daripada situ dia jadi sangat anti, aa kerana aa ditegur sekali dan saya rasa sebab dia rasa dia dah tak ada komunikasi itu untuk dia buat bahan. Kalau tak, dia nampak hebatlah, karena dia dapat maklumat ni daripada Rafizi ni. Ah, dia dah jual nama aku, kan? Sekarang dia jual nama siapa, tak tahulah.
 
-**Rafizi:** YB kenal?
+**Haziq:** Macam tak ada siapa, kan? Hm... Baik, baik, baik, okey YB. Tapi cuma
 
-**Rafizi:** Oh kenal. Dia ni dulu pesara tentera kan? Jadi saya ingat dia dalam tahun bila eh? Dalam dalam tahun 2012, 2013 macam tulah. Atau pun mungkin lebih awal ke apa? Masa tu Datuk Fauzi Rahman... pengerusi PKR Pahang. So dia beritahulah apa nama ni ada seorang pesara tentera ni dia gigih... apa nama ni buat content semua ni.
+**Rafizi:** Ceplos nilah, aa kalau tengok di media sosial, kan? Tapi nama Ceplos ni dah lekat, tahu. Ya, betul. Official branding. Dah jadi official branding dia oranglah dengan nama Ceplos ni kan? Aa, kalau tengok di media sosiallah, cara mereka, ketaksuban mereka, kan? Aa, perkara-perkara itulah yang menyebabkan pengundi atas pagar makin jauh. Jadi, Wan Fayhsal ni memang dia macam ni daripada dulu. Kan? Kita tahu perangai dia memang dia cepat taksub, dia kasar, mulut dia tak cermat, kan? Dia duduk dalam bubble dia sendiri, kan? Sepatutnyalah pimpinan partilah yang kena tegur. Aa, jadi kalau contohnya ada orang yang dalam kawalan kita, tambah macam dia, dia Pengarah Komunikasi PKR Pahang. Ya. Kan? Nampak tak beradablah dengan cara dia semua tu, kan? Kalau kita jadi pimpinan, sepatutnya kita tegur. Aa, karena terutamanya aa orang luar parti yang atas pagar ni, dia tak nak ambil tahu sangat sebenarnya apa hal dalaman, perasaan kau, pasal sesama sendiri di dalam parti. Kalau tapi kalau aa content itu yang dibuat itu nampak terlalu personal, nampak terlalu kasar, nampak terlalu aa berdendam, kan? Aa, nampak terlalu remeh. Aa, itu yang akan menyebabkan orang makin jauh, makin jauh. Tapi saya rasa PKR sekarang ni agak autopilot lah, tak ada... tak ada yang, yang mengawal mereka ni. Kalau tidak, orang macam Salim Papu Kari ni... Mhm. ...tak, tak, tak dibawa dekatlah. Dulu, sebab dia yang duk maki Anwar dengan PKR semua. Mhm. So, kita katalah, "Kalau kamu hebat sangat, datanglah berdepan." Dia pun datang berdepan, tapi menikuslah masa datang tu menikus betul kan?
 
-**Rafizi:** ...zaman-zaman dululah kan. Dia... so mana boleh tolong tu tolonglah. So, sekali-sekala dia pesara, saya ingat pesara tentera ni dapat berapa, RM300, RM400, RM500 macam tu lah kot kan? Jadi, yalah, sama kawan-kawan mana yang boleh tolong kita tolonglah over the years. Jadi, lepas tu dia jadi pengikutlah. Pengikut, kan? Ha. Jadi, ini ini ini watak dia, dia mesti taksub. Ha, dia tak boleh tak taksub tahu. Jadi, dia ikut. Kemudian, tahun 2019, 2019 kan saya memang dah tak berminat dengan politik. Ah, ya. So, maksudnya masa Jun 2019 tu pun, dia pun dah rindu kat aku kot, tu yang dapat gambar tu terus tulis, kan? Ha. So, dia tapi dia masih lagi bersemangat politiklah. Jadi, sekali-sekala, masa tu saya masih lagi ada WhatsApp. Sekali-sekala dia mesej, nah, saya bagilah pandangan itu, pandangan ini kan? Dia orang selalunya suka, ah ni, Ceplos-Ceplos ni.
+**Farhan (Pa'an):** I remember dia datang lambat, betul-betul lambat. Ah, menikus. Kena tunggu
 
-**Rafizi:** Aha.
-
-**Rafizi:** Dia selalunya memang sukalah kalau ada hubungan ataupun komunikasi dengan pimpinan ke apa, sebab dia boleh dapat maklumat yang dia boleh buat content untuk dia menulis, kan? Jadi masa awal-awal tu saya, saya layanlah sekali-sekala, kawan-kawan lama, semua kan? Kemudian ada satu, pun saya, after a while, saya memang tak campur sangat, saya tak ambil tahu, kan? Cuma satu masa tu, dia macam, saya tengok ada orang beritahu...
-
-**Rafizi:** Ah.
-
-**Rafizi:** Dia tanya, "Betul ke you sokong Izam masuk parti ni?" Izam Nakno?
-
-**Rafizi:** Izam Nakno. Hm, okey.
-
-**Rafizi:** Kan? Jadi macam, "Eh, apa kena-mengena pula dengan aku?" kan? So, dia beritahulah sebab, "Ni budak you, Wan Fayhsal ni, duk bawa Izam, duk kempen suruh Izam masuk parti." So, saya ingatlah dalam tahun 2019, akhir macam tu, saya beritahu dia, "Kalau sebenarnya berkawan-kawan ni dalam pasukan ke apa, kita kena ikut garis ataupun jalur yang sama-sama tentukan. Kita tak boleh buat keputusan sendiri. Ah, jadi benda-benda besar macam oh, aa saya ingat lepas Sheraton kot, lepas Sheraton yang dia duk kempen sangat untuk bawa Izam tu kononnya untuk menguatkan parti." Masalahnya, nama aku terpalitlah, sebab kononnya dia ni kan, sebelum ni lambang aku, sekarang lepas ni nak bawa Izam, kan? Jadi saya tegur dia, saya kata, "Saya tak setuju."
-
-**Rafizi:** WhatsApp?
-
-**Rafizi:** WhatsApp lah. Namanya ada WhatsApp lagilah. Saya tegur dialah, saya kata, aa benda tu benda tak betul. Aa, yalah, parti lemah ke apa semua tu, serahkan kepada pimpinanlah, kan? Saya tak tak tak campur dah. Aa, tapi pandai-pandai buat strategi aa nak bawa Izam, lepas tu terpalit nama aku, yang itu saya tak setujulah, kan? Ah, daripada situlah dia jadi Ceplos. Ah... daripada, sebenarnya cerita tu, oleh kerana dia ni tak boleh ditegur langsung.
-
-**Rafizi:** Hm.
-
-**Rafizi:** Dia, saya rasa, em... kalau dia... ada satu pandangan tu. Itu yang kadang-kadang, orang kitalah, kan? Kita tak memandang di cermin. Ah, sebab contohnya, aa kalau macam Wan Fayhsal ni, dengan Ceplos-Ceplos seangkatannyalah, kan? Ayat yang dia akan selalu mainkan ialah dia ingat dia saja betul. Kalau dia serang akulah, dia ingat dia saja betul, pandangan dia saja betul, kan? Dia tak sedar yang sebenarnya dia kena tegur sekali... Ni pasal tak payahlah nak susah-payah nak bawa Izam masuk dalam parti ni. Ah, terus jadi macam ini sekarang, kan? Dan benda itu terbukti betullah. Izam sekarang ni atas pentas Pas. Apa yang dia tak kata pasal Anwar Ibrahim, kan? Ah, jadi daripada situlah. Ah, daripada situ dia jadi sangat anti, aa kerana aa ditegur sekali dan saya rasa sebab dia rasa dia dah tak ada komunikasi itu untuk dia buat bahan. Kalau tak, dia nampak hebatlah, karena dia dapat maklumat ni daripada Rafizi ni. Ah, dia dah jual nama aku, kan? Sekarang dia jual nama siapa, tak tahulah.
-
-**Haziq:** Macam tak ada siapa, kan?
-
-**Haziq:** Hm... Baik, baik, baik, okey YB. Tapi cuma
-
-**Rafizi:** Ceplos nilah, aa kalau tengok di media sosial, kan? Tapi nama Ceplos ni dah lekat, tahu.
-
-**Rafizi:** Ya, betul. Official branding.
-
-**Rafizi:** Dah jadi official branding dia oranglah dengan nama Ceplos ni kan? Aa, kalau tengok di media sosiallah, cara mereka, ketaksuban mereka, kan? Aa, perkara-perkara itulah yang menyebabkan pengundi atas pagar makin jauh. Jadi, Wan Fayhsal ni memang dia macam ni daripada dulu. Kan? Kita tahu perangai dia memang dia cepat taksub, dia kasar, mulut dia tak cermat, kan? Dia duduk dalam bubble dia sendiri, kan? Sepatutnyalah pimpinan partilah yang kena tegur. Aa, jadi kalau contohnya ada orang yang dalam kawalan kita, tambah macam dia, dia Pengarah Komunikasi PKR Pahang.
-
-**Rafizi:** Ya.
-
-**Rafizi:** Kan? Nampak tak beradablah dengan cara dia semua tu, kan? Kalau kita jadi pimpinan, sepatutnya kita tegur. Aa, karena terutamanya aa orang luar parti yang atas pagar ni, dia tak nak ambil tahu sangat sebenarnya apa hal dalaman, perasaan kau, pasal sesama sendiri di dalam parti. Kalau tapi kalau aa content itu yang dibuat itu nampak terlalu personal, nampak terlalu kasar, nampak terlalu aa berdendam, kan? Aa, nampak terlalu remeh. Aa, itu yang akan menyebabkan orang makin jauh, makin jauh. Tapi saya rasa PKR sekarang ni agak autopilot lah, tak ada... tak ada yang, yang mengawal mereka ni. Kalau tidak, orang macam Salim Papu Kari ni...
-
-**Rafizi:** Mhm.
-
-**Rafizi:** ...tak, tak, tak dibawa dekatlah. Dulu, sebab dia yang duk maki Anwar dengan PKR semua.
-
-**Rafizi:** Mhm.
-
-**Rafizi:** So, kita katalah, "Kalau kamu hebat sangat, datanglah berdepan." Dia pun datang berdepan, tapi menikuslah masa datang tu menikus betul kan?
-
-**Farhan (Pa'an):** I remember dia datang lambat, betul-betul lambat.
-
-**Farhan (Pa'an):** Ah, menikus.
-
-**Farhan (Pa'an):** Kena tunggu
-
-**Rafizi:** sejam.
-
-**Rafizi:** Ah, okay. Jadi tapi tiba-tiba bila dibawa dalam kumpulan Ceplos itu, memang menunjukkan memang tak ada arah tuju dan juga tak ada kawalanlah Ceplos-Ceplos ni. Malanglah, imej PKR ni...
-
-**Rafizi:** Diwakili oleh mereka.
-
-**Rafizi:** ...diwakili oleh Ceplos-Ceplos ini tahu di media sosial.
-
-**Rafizi:** Mhm, mhm, baik, YB.
-
-**Rafizi:** Tak tahu YB kenal
+**Rafizi:** sejam. Ah, okay. Jadi tapi tiba-tiba bila dibawa dalam kumpulan Ceplos itu, memang menunjukkan memang tak ada arah tuju dan juga tak ada kawalanlah Ceplos-Ceplos ni. Malanglah, imej PKR ni... Diwakili oleh mereka. ...diwakili oleh Ceplos-Ceplos ini tahu di media sosial. Mhm, mhm, baik, YB. Tak tahu YB kenal
 
 **Haziq:** setiap seorang Ceplos ni?
 
-**Rafizi:** Tak, yang, yang, yang betul-betul aku kenal Wan Fayhsal seorang nilah sebab ada history dia kan? Yang, yang lain tu semua selepas menang tahu.
-
-**Rafizi:** Betul, betul, betul. Okey, baik, YB.
+**Rafizi:** Tak, yang, yang, yang betul-betul aku kenal Wan Fayhsal seorang nilah sebab ada history dia kan? Yang, yang lain tu semua selepas menang tahu. Betul, betul, betul. Okey, baik, YB.
 
 **Haziq:** Berialah.
 
 **Rafizi:** Hmm. Ni beria. Kalaulah dia teruskan begini sampai mati, ya Allahuakhbar, kan?
 
-**Haziq:** Okey, baik, YB. Aa next. Cara baru nak lawan orang cop parking. Chop ke cop?
+**Haziq:** Okey, baik, YB. Aa next. Cara baru nak lawan orang cop parking. Chop ke cop? Cop. Cop, cop. Cop, cop.
 
-**Haziq:** Cop.
+**Rafizi:** Cop tu is chop. Ah, cop, cop. Cop parking. Mhm. Bukan kat Malaysia lah ni? Ha, ni kat
 
-**Haziq:** Cop, cop.
-
-**Haziq:** Cop, cop.
-
-**Rafizi:** Cop tu is chop. Ah, cop, cop. Cop parking. Mhm. Bukan kat Malaysia lah ni?
-
-**Rafizi:** Ha, ni kat
-
-**Haziq:** mana? Kat China?
-
-**Haziq:** China. Kalau tengok, dia keluar, dan dia auto sendiri. Lepas tu
+**Haziq:** mana? Kat China? China. Kalau tengok, dia keluar, dan dia auto sendiri. Lepas tu
 
 **Rafizi:** datang balik orang tu. Tapi memang dah banyak kereta yang boleh parking sendirikan sekarang kan? Cuma tak sampai kat Malaysia je.
 
@@ -282,29 +140,21 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** ada suruh, "Eh, janganlah letak sini. Sana, sana, sana." Oh,
 
-**Rafizi:** oh, mhm. Kiasu betullah makcik ni. Okey. Okey, yang ini macam susah, ni mengelirukan. Mengelirukan. Beria yang mengelirukan. Kat kami yang beria. Korang yang beria sebenarnya. Aku rasa
-
-**Rafizi:** kau orang dah tak ada idea, kau orang nak suruh aku komen apa beria ni, kereta ni pandai parking, ha. Kereta pandai
+**Rafizi:** oh, mhm. Kiasu betullah makcik ni. Okey. Okey, yang ini macam susah, ni mengelirukan. Mengelirukan. Beria yang mengelirukan. Kat kami yang beria. Korang yang beria sebenarnya. Aku rasa kau orang dah tak ada idea, kau orang nak suruh aku komen apa beria ni, kereta ni pandai parking, ha. Kereta pandai
 
 **Haziq:** parking. Okey, YB. Okey, last. Ah, last lah. Eh, ada lagi, satu ni, second last lah. Budi bahasa budaya kita. Hmm, tu yang... Ini dalam...
 
-**Rafizi:** Coach Wanita.
-
-**Rafizi:** Coach Wanita, tapi video-video lelaki ni ada si Hafizudin ni, dia duduk dalam Coach Wanitakah? Dah ambil
+**Rafizi:** Coach Wanita. Coach Wanita, tapi video-video lelaki ni ada si Hafizudin ni, dia duduk dalam Coach Wanitakah? Dah ambil
 
 **Haziq:** dari video-video lain YB. Ah, jadi dia tak berialah. Maksudnya
 
-**Rafizi:** ada orang... Ada orang. Tapi beria dia bagus. Beria dia menunjukkan sesuatu yang sepatutnya tak berlakulah kan? Tapi, ha yang ini memang kena kecamlah. Sila, YB, public service announcement. Aa, salah satu daripada pet hate saya kalau di Malaysia ni, ialah kurangnya manners orang kita dalam bab-bab bersabit aa bila berada di, di, yalah, di...
-
-**Rafizi:** Public utility.
+**Rafizi:** ada orang... Ada orang. Tapi beria dia bagus. Beria dia menunjukkan sesuatu yang sepatutnya tak berlakulah kan? Tapi, ha yang ini memang kena kecamlah. Sila, YB, public service announcement. Aa, salah satu daripada pet hate saya kalau di Malaysia ni, ialah kurangnya manners orang kita dalam bab-bab bersabit aa bila berada di, di, yalah, di... Public utility.
 
 **Farhan (Pa'an):** dia dah tahu. Dia orang tak tahu siapa yang alihkan papan tanda tu.
 
 **Rafizi:** Motif pun
 
-**Farhan (Pa'an):** tak tahu lah.
-
-**Farhan (Pa'an):** Betul
+**Farhan (Pa'an):** tak tahu lah. Betul
 
 **Rafizi:** ke ada papan tanda? Ada. Menteri dah sah kan? Haa.
 
@@ -320,9 +170,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Yelah, aku nak kata dia beria, dia itu bukan poyok, itu jahat. Teruklah. Itu kriminal. Beria yang kriminal? Boleh. Tak, tak, tak juga. Okey. Kalau macam itu, kalau beria yang kriminal, semua rompakan bank semua tiap-tiap minggu kita kena ulas lah. Tak,
 
-**Farhan (Pa'an):** tak, tak. I think kita boleh pakai opportunity ini untuk mengatakan kepada orang ramai, kalau nampak sign, almaran ke apa-apa, kita jangan remove sukati. Another piece.
-
-**Farhan (Pa'an):** beria letak lah.
+**Farhan (Pa'an):** tak, tak. I think kita boleh pakai opportunity ini untuk mengatakan kepada orang ramai, kalau nampak sign, almaran ke apa-apa, kita jangan remove sukati. Another piece. beria letak lah.
 
 **Rafizi:** Maksudnya dia makin. Sebab Fuziah punya last week dah terlampau
 
@@ -334,11 +182,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Tapi YB nak rate ke? Gagal or rate dia tak payah rate lah. Memang Wan Fazudin. Tapi gagal lah beria minggu ni.
 
-**Farhan (Pa'an):** Aduh.
-
-**Farhan (Pa'an):** Susah-susah. Minggu lepas punya set the bar very high.
-
-**Farhan (Pa'an):** So, minggu
+**Farhan (Pa'an):** Aduh. Susah-susah. Minggu lepas punya set the bar very high. So, minggu
 
 **Haziq:** Depan kau pergi cari lah. Baik-baik. Kita akan interview orang all the way lah. Okay, baik. Kita terus ke segmen kedua, YB. Segmen ni, Hidup Keras Dek. Ada banyak jugalah saya rasa minggu ni. Cuma kita tengok yang pertama. Ada orang tak suka YB. Tapi bukan Wan. Rafizi pun tak suka saya.
 
@@ -444,9 +288,7 @@ Kalaulah isu UEC ini dapat dilihat dengan objektif, tolak tepi segala sentimen i
 
 **Haziq:** Dia kata jumlah dah 100 ribu. So kalau kita bahagi... tak ramai lah sebenarnya. Dia tak sempat nak google lah tu kan. UEC ni apa dia? Unified Examination...
 
-**Rafizi:** Certificate. Okay, sebelum kita masuk soal DAP, soal UMNO ni kan, saya nak bentangkan sesuatu yang faktanya begini. Secara objektifnya, pada pandangan saya, fakta-fakta ini perlu diambil kira. Fakta pertama yang saya rasa patut dipertimbangkan ialah soal mutu pendidikan dan juga aliran perkembangan pendidikan di masa akan datang. Kita tak boleh lari daripada hakikat bahawa Mandarin akan mengambil alih bahasa Inggeris sebagai bahasa ilmu. Kita pun dah tahu sebenarnya negara China akan mengatasi US dalam tempoh 10-15 tahun, bukan sahaja sebagai kuasa ekonomi nombor satu dunia tau, tapi sebagai kuasa nombor satu dunia kan. Dan sama ada kita bernasib baik ataupun kita malang, kita adalah generasi yang melalui zaman peralihan ini — daripada bahasa ilmu bahasa Inggeris kepada bahasa Cina, kuasa besar daripada US kepada Cina. Kita akan sempat hidup melihat benda tu lah kan. Ada orang yang meninggal tahun 90-an tak pernah sempat merasa; dia hanya kenal satu kuasa besar lah, atau dua lah masa tu, USSR. Orang yang hidup dalam abad ke-19 hanya kenal satu kuasa besar je, Britain je kan. Baik. Yang bagi saya perlu kita teliti sebenarnya ialah apa nasib anak-anak kita ni — anak-anak Cina, anak-anak Melayu ni. Sekarang anak-anak kita pergi ke sekolah, bahasa Inggeris pun kadang-kadang dia struggle, tapi lebih baiklah berbanding negara-negara lain kan. Kita mengajar anak-anak kita bahawa bahasa Inggeris sangat penting kerana bila mereka keluar universiti dengan penguasaan bahasa Inggeris yang lebih baik, mereka akan dapat kerjaya yang lebih baik. Not anymore tau. In 20 years time, bila dia besar — katakanlah anak yang lahir umur 5 tahun ni, dalam 20 tahun lagi, memang kalau tak tahu Mandarin you are in trouble. Sebab Mandarin masa itu, besar kemungkinan telah mengatasi bahasa Inggeris sebagai bahasa ilmu dan juga sebagai bahasa perdagangan dan bahasa perniagaan. Jadi apapun yang kita nak bincang pasal UEC ni, sebelum masuk UEC, soalnya sama ada masyarakat kita nak terima kenyataan atau tidak bahawa kita dah kena jadi masyarakat trilingual. Bilingual tak cukup dah, trilingual. Maksudnya masyarakat kita perlu menguasai selain bahasa kebangsaan — bahasa Melayu, bahasa Inggeris dan bahasa Mandarin. Saya pun nak belajar balik Mandarin lepas ini. Walaupun anda tua, paling kurang lah ada beberapa perkara bolehlah sikit-sikit cakapkan. Kerana I will live through that era where without Mandarin you are incapacitated kan? Okay, baik. Now you know. Pandangan saya, kita kena bermula daripada itu, bahawa janganlah kita nak berpura-pura bahawa Mandarin ini tidak penting. Leadership yang diperlukan dalam negara kita is telling exactly that — bahawa kita telah kena berubah daripada bilingual to trilingual society kerana kita tak boleh ketinggalan dalam Mandarin ini kan. Saya rasa sebaik sahaja anda mula dari situ, dia akan melunturkan dan melembutkan dan memudahkan sebarang perbincangan mengenai UEC. Sebab UEC ni ada — erm, saya nak kata baggage tau, tapi mungkin orang tak suka lah kan — tapi dia ada himpunan sejarah yang orang kata very divisive. Tapi yang sedihnya, kebanyakan yang duduk melawan-melawan sangat UEC semua ni, saya tak pasti dia faham pun apa konteks sejarah UEC ni. Saya faham kalau contohnya generasi Tun Mahathir, generasi lepas merdeka. Lepas merdeka, kita tidak ada satu sistem pendidikan yang bersepadu. Kita baru jadi negara merdeka, sangat penting untuk jati diri dan untuk kita bina satu imej identiti kebangsaan, dan kita nakkan semua rakyat Malaysia tidak kira latar belakang keturunan mestilah betul-betul faham, taat kepada Malaysia, sebab masa itu masih lagi ada rakyat berketurunan Cina atau India yang mungkin baru 20 tahun sahaja di Malaysia, 30 tahun sahaja di Malaysia, keluarga mereka masih lagi ada di Cina ataupun India kan. Itu konteks sejarah yang hadir lah kan. Sebab itu kerajaan — kita dah melalui proses itu dalam tahun 60-an, yang mana sekolah-sekolah Cina diberi pilihan untuk jadi sekolah kerajaan. Kalau dia bertukar jadi sekolah kerajaan, medium pengantarnya bahasa Melayu, maka mereka akan mendapat bantuan kerajaan. Itu yang jadi sekolah jenis kebangsaan Cina, sekolah menengah jenis kebangsaan Cina. Sebab saya rasa lah kan, kebanyakan orang Melayu yang ada pandangan keras terhadap atau yang menyokong UEC — ada pandangan netizen, semua pakar-pakar ni kan — KC dengan sekolah Cina yang ambil UEC ni, saya tak rasa dia tahu. Tambah, sebahagian besar daripada yang muda-muda lah, umur bawah 30 tahun sekarang ni kan, sebahagian besar daripada mereka pergi ke sekolah kebangsaan yang jumlah pelajar bukan Melayu tu sangat rendah berbanding zaman saya dulu di sekolah rendah. Zaman saya dulu paling kurang — maksudnya ada tau, 10-15% bukan Melayu.
-
-**Rafizi:** Walaupun di Terengganu? Ya.
+**Rafizi:** Certificate. Okay, sebelum kita masuk soal DAP, soal UMNO ni kan, saya nak bentangkan sesuatu yang faktanya begini. Secara objektifnya, pada pandangan saya, fakta-fakta ini perlu diambil kira. Fakta pertama yang saya rasa patut dipertimbangkan ialah soal mutu pendidikan dan juga aliran perkembangan pendidikan di masa akan datang. Kita tak boleh lari daripada hakikat bahawa Mandarin akan mengambil alih bahasa Inggeris sebagai bahasa ilmu. Kita pun dah tahu sebenarnya negara China akan mengatasi US dalam tempoh 10-15 tahun, bukan sahaja sebagai kuasa ekonomi nombor satu dunia tau, tapi sebagai kuasa nombor satu dunia kan. Dan sama ada kita bernasib baik ataupun kita malang, kita adalah generasi yang melalui zaman peralihan ini — daripada bahasa ilmu bahasa Inggeris kepada bahasa Cina, kuasa besar daripada US kepada Cina. Kita akan sempat hidup melihat benda tu lah kan. Ada orang yang meninggal tahun 90-an tak pernah sempat merasa; dia hanya kenal satu kuasa besar lah, atau dua lah masa tu, USSR. Orang yang hidup dalam abad ke-19 hanya kenal satu kuasa besar je, Britain je kan. Baik. Yang bagi saya perlu kita teliti sebenarnya ialah apa nasib anak-anak kita ni — anak-anak Cina, anak-anak Melayu ni. Sekarang anak-anak kita pergi ke sekolah, bahasa Inggeris pun kadang-kadang dia struggle, tapi lebih baiklah berbanding negara-negara lain kan. Kita mengajar anak-anak kita bahawa bahasa Inggeris sangat penting kerana bila mereka keluar universiti dengan penguasaan bahasa Inggeris yang lebih baik, mereka akan dapat kerjaya yang lebih baik. Not anymore tau. In 20 years time, bila dia besar — katakanlah anak yang lahir umur 5 tahun ni, dalam 20 tahun lagi, memang kalau tak tahu Mandarin you are in trouble. Sebab Mandarin masa itu, besar kemungkinan telah mengatasi bahasa Inggeris sebagai bahasa ilmu dan juga sebagai bahasa perdagangan dan bahasa perniagaan. Jadi apapun yang kita nak bincang pasal UEC ni, sebelum masuk UEC, soalnya sama ada masyarakat kita nak terima kenyataan atau tidak bahawa kita dah kena jadi masyarakat trilingual. Bilingual tak cukup dah, trilingual. Maksudnya masyarakat kita perlu menguasai selain bahasa kebangsaan — bahasa Melayu, bahasa Inggeris dan bahasa Mandarin. Saya pun nak belajar balik Mandarin lepas ini. Walaupun anda tua, paling kurang lah ada beberapa perkara bolehlah sikit-sikit cakapkan. Kerana I will live through that era where without Mandarin you are incapacitated kan? Okay, baik. Now you know. Pandangan saya, kita kena bermula daripada itu, bahawa janganlah kita nak berpura-pura bahawa Mandarin ini tidak penting. Leadership yang diperlukan dalam negara kita is telling exactly that — bahawa kita telah kena berubah daripada bilingual to trilingual society kerana kita tak boleh ketinggalan dalam Mandarin ini kan. Saya rasa sebaik sahaja anda mula dari situ, dia akan melunturkan dan melembutkan dan memudahkan sebarang perbincangan mengenai UEC. Sebab UEC ni ada — erm, saya nak kata baggage tau, tapi mungkin orang tak suka lah kan — tapi dia ada himpunan sejarah yang orang kata very divisive. Tapi yang sedihnya, kebanyakan yang duduk melawan-melawan sangat UEC semua ni, saya tak pasti dia faham pun apa konteks sejarah UEC ni. Saya faham kalau contohnya generasi Tun Mahathir, generasi lepas merdeka. Lepas merdeka, kita tidak ada satu sistem pendidikan yang bersepadu. Kita baru jadi negara merdeka, sangat penting untuk jati diri dan untuk kita bina satu imej identiti kebangsaan, dan kita nakkan semua rakyat Malaysia tidak kira latar belakang keturunan mestilah betul-betul faham, taat kepada Malaysia, sebab masa itu masih lagi ada rakyat berketurunan Cina atau India yang mungkin baru 20 tahun sahaja di Malaysia, 30 tahun sahaja di Malaysia, keluarga mereka masih lagi ada di Cina ataupun India kan. Itu konteks sejarah yang hadir lah kan. Sebab itu kerajaan — kita dah melalui proses itu dalam tahun 60-an, yang mana sekolah-sekolah Cina diberi pilihan untuk jadi sekolah kerajaan. Kalau dia bertukar jadi sekolah kerajaan, medium pengantarnya bahasa Melayu, maka mereka akan mendapat bantuan kerajaan. Itu yang jadi sekolah jenis kebangsaan Cina, sekolah menengah jenis kebangsaan Cina. Sebab saya rasa lah kan, kebanyakan orang Melayu yang ada pandangan keras terhadap atau yang menyokong UEC — ada pandangan netizen, semua pakar-pakar ni kan — KC dengan sekolah Cina yang ambil UEC ni, saya tak rasa dia tahu. Tambah, sebahagian besar daripada yang muda-muda lah, umur bawah 30 tahun sekarang ni kan, sebahagian besar daripada mereka pergi ke sekolah kebangsaan yang jumlah pelajar bukan Melayu tu sangat rendah berbanding zaman saya dulu di sekolah rendah. Zaman saya dulu paling kurang — maksudnya ada tau, 10-15% bukan Melayu. Walaupun di Terengganu? Ya.
 
 **Haziq:** Yang 1% Cina.
 
@@ -460,9 +302,7 @@ Kalaulah isu UEC ini dapat dilihat dengan objektif, tolak tepi segala sentimen i
 
 **Rafizi:** Tak, soal UEC ni, dia secara psikologi ialah perlambangan kepada sekolah vernacular. UEC itu dihasilkan kerana kita ada sekolah aliran Cina. Cuma yang dekat luar mungkin kebanyakan, terutamanya orang Melayu lah, mereka tak dapat membezakan di antara sekolah persendirian yang mengajar dalam bahasa Mandarin ni dengan SJKC, dengan SMJKC — sekolah jenis kebangsaan Cina, sekolah menengah jenis kebangsaan Cina lah kan. Yang itu dia tak dapat membezakan. SJKC ni ialah aliran kebangsaan kan. So, soal bahasa Mandarin ini, saya rasa kerajaan tak ada pilihan. Memang bahasa Mandarin sepatutnya lah — kalau ini yang saya pernah, masa kita buat RMK13 lah, kita dah masukkan tau dalam RMK13. Orang mungkin tak baca saya terperinci lah. Dalam RMK13, memang saya berkeras dulu kena masukkan bahasa ketiga. Budak-budak kita memang dah kena mula belajar Mandarin daripada sekarang. Cuma dia perlu ada tambahan guru-guru Mandarin secara mendadak lah. Nak ajar Mandarin macam kita ajar bahasa Inggeris, maka kita perlukan seberapa ramai guru-guru Mandarin. Dan pool mana yang kita nak ambil tu? Besar kemungkinan daripada pool sekolah-sekolah Cina persendirian yang memang mengajar Mandarin dah berpuluh tahun, dan ada kemungkinan besar mereka semua ni adalah lulusan UEC lah. Jadi kalau kita nak menukar masyarakat kita menjadi trilingual society, memang kita tak boleh lari daripada soal sekolah vernacular, soal UEC ni. Why not change a subject daripada yang selama ini memecah belahkan kita — gunakan perkara itu untuk membina kekuatan bersama. Especially when you need trilingual society sekarang. Baik, baik.
 
-**Farhan (Pa'an):** Clear, clear. Sila tuan. Okay, tapi I have a follow up question, I think dia lebih kepada — hmm — persoalan macam mana isu seperti education system, ataupun the polemic of politicizing everything. Dan bagi saya, even something like an education system, that conversation cannot be had sebab semua benda dijadikan benda yang political. So, I think isu ni sampai kesudahnya tak akan resolve kalau every side tidak boleh mengawal emosi mereka dalam hal bercakap tentang...
-
-**Farhan (Pa'an):** perkara...
+**Farhan (Pa'an):** Clear, clear. Sila tuan. Okay, tapi I have a follow up question, I think dia lebih kepada — hmm — persoalan macam mana isu seperti education system, ataupun the polemic of politicizing everything. Dan bagi saya, even something like an education system, that conversation cannot be had sebab semua benda dijadikan benda yang political. So, I think isu ni sampai kesudahnya tak akan resolve kalau every side tidak boleh mengawal emosi mereka dalam hal bercakap tentang... perkara...
 
 **Rafizi:** Ini. Tetapi ia adalah subjek emotif. Kalau contohnya soal UEC, ia adalah subjek yang emotif. Jadi kalau kita nak bersyarah panjang lebar, kultur kerja, kita tidak harus mempolitikkan, itu pun tidak melambangkan realiti sebenar di bawah. Dia memang ada satu sentimentaliti dan emosi panjang kerana ini adalah sebahagian yang — mungkin kita boleh kata beban yang ditanggung oleh masyarakat Cina untuk sekian lama, dia kena tanggung pendidikan mereka sendiri. Dan yang tua-tua lah, yang daripada tahun 60-an, 70-an tu, mereka merasakan mereka dipaksa, contohnya. Yang Melayu pula, dia akan kata, inilah bukti kenapa orang Cina ni tak pernah nak jadi sebahagian daripada negara kita. Orang nak buat satu sekolah, dia tak nak, contohnya kan. Jadi bagi saya, jalan ke depan ialah jangan ahli politik terus menggunakan peluang emosi itu di zaman ini. Kerana zaman ini dah sangat berubah dah. Konteksnya lain dulu, keadaannya lain dahulu. I don't think we want to be in the blaming game. Kalau saya lah, saya tak nak point kepada ini politik yang Melayu lah ni dulu gini-gini ataupun politik yang Cina lah gini-gini — itu adalah proses yang kita lalui untuk membentuk negara yang kita ada sekarang. Tapi keadaannya sangat berbeza sekarang, macam saya sebut. Tak ada dah, tak akan ada seorang rakyat Malaysia berketurunan Cina yang merasa lebih dekat dengan tanah besar China daripada Malaysia. Kan tak ada dah, kan. Jadi perkara itu dah tak relevan dah. Cuma, selagi tidak ada penyelesaian, maka dia akan terus dijadikan mainan politik. Dan penyelesaian itu — harapan saya ialah bila orang semua membuka mata bahawa sesuatu yang dahulu boleh dijadikan bahan untuk memecah belahkan rakyat kita oleh orang politik, sepatutnya sekarang ini rakyat akan ada common sense untuk menerima that we need to become a trilingual society. So perkara ini akan merapatkan kita. And I think it's all about society juga lah — yang Melayu pun lebih ramai nak belajar bahasa Mandarin selepas ini, yang Cina pun tidak lagi melihat yang Melayu ni kerja nak tutup sekolah Cina sahaja, because it becomes an important thrust in our education. Maka ahli politik masa depan, dia nak lambung cerita UEC sekolah Cina ni, dia tak ada market sangat lah bila semua orang memang dah bercakap Mandarin, kan. Dulu-dulu masa saya kecil dululah kan, selalunya kalau ada propaganda tu ialah tengok orang Cina ni, kita cakap dia faham, dia cakap kita tak faham, tak apa-apa dia cakap pasal kita kan. Jadi kalau semua orang boleh menguasai Mandarin dengan baik lepas ini, perkara itu tak timbul lah.
 
@@ -490,9 +330,7 @@ Kalaulah isu UEC ini dapat dilihat dengan objektif, tolak tepi segala sentimen i
 
 **Farhan (Pa'an):** Itu disebabkan merajuk lah. Maybe tanya terus lah — adakah YB masih merajuk? Adakah YB pernah merajuk ataupun adakah YB masih merajuk?
 
-**Rafizi:** Yelah, soal tu, the problem with that question — I don't think I should entertain, because the premise is wrong. Soalan yang kau tanya tu ialah kau pun dah jadi chaplos, kau mengulangi naratif chaplos ini yang bahawa aku ni merajuk. So, I mean, the issue is this. Kalau tengok kepada semua ni, dengan Salim Iskandar, tak Salim Iskandar, semua kan, digerakkan cyber trooper, chaplos, media-media kerajaan yang di bawah JCOM semua ni kan, untuk menyerang peribadi saya sampai diperkenalkan perkataan "Nazis". Sebenarnya saya ingat kalau ini diteruskan oleh PKR, dia akan terus melebarkan jurang di antara pandangan rakyat itu dengan bubble yang PKR duduk. Naratifnya ialah merajuk, naratifnya ialah narcissist — semua dia je betul, semua dia je tak boleh bekerja dengan orang lain, semua kan. I'm trying to put a frame of argument sekarang ni — yang kalau orang-orang PKR tengok kan, you have to kadang-kadang pakai a different cap. Ini yang masalah parti-parti pemerintah daripada zaman UMNO dulu ke, kalaupun PN ke jadi kerajaan kan — kalau kita berada di puncak kuasa tu, kita pakai cap kita je tau, kita melihat semua itu daripada lensa kita, sebenarnya rakyat tak ambil pot, orang tak tengok macam itu. Sebab itu saya kata survei dan data itu penting, sebab mustahil untuk kita tahu apa di dalam kepala 30 juta rakyat Malaysia. Mustahil. Jadi kalau macam saya sebagai ahli politik lah kan, satu perkara yang saya paling teruja sepanjang masa — pada masa yang sama teruja, pada masa yang sama takut — ialah apa sebenarnya dalam kepala rakyat biasa ini. Sebab itu saya gunakan data yang berterusan. Dan data yang berterusan ini maksudnya analisa yang berterusan, sama ada melalui nationwide survey, sama ada big data, analisis kepada sentiment, semua itu kita kena tengok tau, barulah kita tengok — actually, cara rakyat biasa berfikir ni langsung tak sama macam apa yang saya lihat dari perspektif saya. Jadi ambil cerita merajuk ni — orang PKR kena kena berhati-hati jugak tau eh, sebab kalau saya merajuk lah kan, saya sebenarnya ada beberapa tindakan lah. Pertama, orang yang merajuk ni dia mesti bermula daripada dia merajuk kerana nakkan sesuatu. Dan orang politik ni nakkan sesuatu tu ialah kuasa lah. Then dia tak compute tau — dia merajuk tapi dia letak jawatan, dia walk out freely. Kan dia tak compute. Sebab yang ini akan dikecam dan chaplos ni lepas ni akan makin serang. Berhati-hati bila guna serangan peribadi macam narsisis, merajuk, semua ni, kerana chaplos-chaplos ni budak-budak muda tau, dia umur 20-an, 30-an, dia tidak melalui zaman 98, zaman reformasi tu tau, dia tidak ada di situ. Kerana kalau the same frame of arguments digunakan terhadap Dato' Sri Anwar Ibrahim, lagi bahaya — saya akan pergi bersama-sama. Berbalik kepada soal merajuk ni kan — orang merajuk ni dia nak sesuatu, kalau dia nak sesuatu, orang politik dia nak jawatan, dia nak kuasa, dia takkan letak jawatan — "aku letak jawatan dah, and I walk keluar dengan bebas." That was not the case dengan Dato' Sri Anwar dulu. Dato' Sri Anwar dipecat kerana tidak mahu meletakkan jawatan. It's just that it was not pointed out yet tau, kan. So keadaan dia — sebab itu rakyat biasa ni dia membandingkan dua perkara ni. Di sini anda mempunyai seseorang yang sebenarnya, okeylah, kerana anda tidak mahu — saya tidak lagi mempunyai mandat dan saya diharapkan untuk hanya ikut, ya, ya, ya, ya — itu bukan saya. Then okeylah saya meletakkan jawatan, you run the thing lah. That was not the case in 1998. Datuk Seri Anwar diminta meletakkan jawatan, sebab dia tak nak meletakkan jawatan lah, dia dipecat. Bila dia dipecat lah, maka tiba-tiba dia jadi reformasi. Yang membawa kepada the next issue — dia diserang secara berterusan "narsisis" ni, kerana dia tak tahan, sebab dia kata dia ni kerja menyerang kerajaan sepanjang masa, masa dia dua tahun dalam kerajaan, dia tak ada bersuara pun. Apply the same frame of argument kepada Dato' Sri Anwar tahun 1998, lagi teruk. Sebabnya orang kata — masa itu, masa aku muda umur kau kan, itulah yang orang tua-tua semua cakap kat aku — why lah you nak menghabiskan masa you ni untuk dia yang 16 tahun dia dalam kerajaan? He was part of the system, dia tak pernah bangkang. Masa judiciary crisis 1988, he was there, apa dia buat? Engkau yang tak ada kena-mengena ni, you have a good job semua, why would you do it? You don't know him, we know him. Jika anda menggunakan frame argumen yang sama pada Datuk Sri Anwar, ia kelihatan lebih teruk. Jadi sebab itu saya kata, kalau orang PKR dan juga chaplos-chaplos ni tidak ada daya pemikiran dan analisa yang tahapnya tinggi sedikit daripada itu, dia akan terus mendedahkan PKR kepada serangan-serangan dan pemikiran logik orang biasa yang orang PKR tak nampak tau, kerana dia tak sedar — kepada batang tubuh Dato' Sri Anwar Ibrahim. My answer then is the same to my answer now. Masa umur saya 21, kerja macam kerja gila untuk menulis surat, berkempen kepada semua ahli politik di Eropah, semua pergi jumpa, lobby untuk Dato' Sri Anwar, semua untuk bebaskan dia kan? Jawapan saya sama — this is not about Anwar Ibrahim the person. Saya membantah kerana keruntuhan kredibiliti institusi-institusi yang ada, yang disalahgunakan untuk menyelesaikan political rivalry. Jika anda tidak suka Anwar Ibrahim, Tun Mahathir masa itu — I don't want to get involved, just sack him lah, kan? Ataupun if you don't like him because of whatever, reshuffle the cabinet ke, ataupun tak payahlah nak timbulkan soal angkut katil semua, liwat tak liwat ni kan. Then it's pure political maneuvering. The moment — pada pandangan saya ketika itu, dia mula melibatkan campur tangan yang meruntuhkan kebebasan institusi kehakiman, kerajaan, polis, macam mana media massa digunakan untuk character assassination. Kalau it could happen to a deputy prime minister, nobody is safe — it could happen to me as well. Itu sebabnya saya dalam PKR dulu. Dan bagi saya, selagi kerajaan tidak bertukar, tidak ada peaceful democratic change, selama mana BN UMNO berkuasa, maka the power is so entrenched, dan kita akan terus berada duduk di bawah satu kerajaan yang terlalu berkuasa dan rakyat ini terdedah kepada salah guna-salah guna kuasa tersebut. Betul, jawapan yang sama yang saya ada sekarang. Ia bukan tentang mempertahankan kerajaan ini supaya kita tak dapat PAS. It is not about — apa nama ni — "kesianlah Dato' Sri Anwar Ibrahim, dia dah tua." My duty is to society and to the country and to the public. Dan sumbangan saya ialah untuk memastikan bahawa kerajaan kita ini semua berlaku dengan jujur, tidak ada campur tangan, rasuah ditentang dengan baik. Malangnya sekarang ini Perdana Menterinya ialah Datuk Seri Anwar. Daripada tahun 98 itu, kalau kerajaan ini — sama ada satu penggal ke dua penggal ke — di akhir pentadbiran kerajaan ini, negara kita berada dalam keadaan yang lebih baik, lebih bebas, lebih adil daripada yang ada sebelum ini. Jadi kalau mereka terus serang soal merajuk tak merajuk ni kan, I don't lose anything, sebab you can tell that aku tak kisah. It doesn't perturb me at all. Yang akan menjadi masalah ialah kalau kerajaan PH, pimpinan PKR ataupun PH sendiri, dia mengenepikan perkara-perkara yang saya sebut ini, dan dia mengambil pilihan jangan jawab perkara-perkara itu, jangan perbaiki kelemahan-kelemahan itu, serang budak ini — saya tidak rasa itu berfungsi. In fact, Najib pun dulu buat macam itu. Dan Najib dulu, dengan cyber trooper-nya, kemudian dengan tangkapannya, samannya — it didn't work. Because ini satu perkara ingatan kepada saya dan ingatan kepada semua pimpinan politik di luar — kalau saya cakap yang saya timbulkan ini tidak ada makna kepada rakyat, maka dia takkan ada kesan kepada kerajaan, kepada siapa-siapa. "Aku cakap engkau je lah," dia tak ada kesan langsung. Bila sesuatu yang diperkatakan oleh sesiapa pun, hatta oleh seorang ahli politik kanan dalam negara, kalau perkara itu jadi isu yang mula ada risiko kepada kita, maksudnya you tak boleh lari, because perkara itu ada resonance, ada traction. Dan sesuatu isu itu hanya ada traction kalau apa yang dia kata itu turut dipikirkan oleh rakyat. Kalau kenapa yang si polan duk cakap pumpang-pumpang-pumpang kajian nak tukar semua ni, dia tak jadi isu besar kepada negara — sebab geng-geng dia je yang duk "ya ya ya," rakyat tak fikir macam itu. Ha, kenapa kalau saya sebut tentang Azam Baki, dia viral tinggi, media ambil dalam satu dua hari, dia jadi isu negara sampai Tan Sri Azam Baki kena jawab, kan? Sebab bukan sebab saya — sebab yang saya sebut itu, itulah yang dipikir oleh sebahagian besar rakyat kita, saya hanya jadi medium untuk menyampaikan. Jadi soal Rafizi merajuk tak merajuk ni sebenarnya bukan soal Rafizi, dia soal kerajaan, soal PH dan PKR. If you continue to bury your heads in the sand, then you are in trouble. Apa yang saya cuba buat ialah untuk tidak mengulangi kesilapan, terutamanya pada zaman Najib yang dibuat oleh UMNO lah — apapun yang Najib buat, walaupun satu dunia dah cakap ni pasal 1MDB ni, mereka masih lagi — KJ ke siapa-siapa yang ada tu — masih lagi "ya ya ya ya" kan. By the time Najib dah kalah, masa tu nak menyesal ke tak menyesal, tak guna lah. So lebih baik jadi budak jahat macam saya, sebut supaya semua kelemahan itu diperbaiki. Pemenangnya ialah Anwar Ibrahim dan kerajaan lah, kalau mereka perbaiki, dan setiap perkara yang rakyat rasa tak selesa dengan kerajaan ini diselesaikan satu demi satu demi satu, maka akhirnya menanglah kali kedua. It doesn't make any difference to me. Saya tak tetapkan lagi pun aku nak buat apa lepas ni, kan? Sekarang ni sebab ada dua tahun sebelum parlimen berubah. But cara begini menunjukkan bahawa strategi politik yang ada dalam PKR sekarang ini adalah sangat-sangat ke laut.
-
-**Speaker ?:** Hmm.
+**Rafizi:** Yelah, soal tu, the problem with that question — I don't think I should entertain, because the premise is wrong. Soalan yang kau tanya tu ialah kau pun dah jadi chaplos, kau mengulangi naratif chaplos ini yang bahawa aku ni merajuk. So, I mean, the issue is this. Kalau tengok kepada semua ni, dengan Salim Iskandar, tak Salim Iskandar, semua kan, digerakkan cyber trooper, chaplos, media-media kerajaan yang di bawah JCOM semua ni kan, untuk menyerang peribadi saya sampai diperkenalkan perkataan "Nazis". Sebenarnya saya ingat kalau ini diteruskan oleh PKR, dia akan terus melebarkan jurang di antara pandangan rakyat itu dengan bubble yang PKR duduk. Naratifnya ialah merajuk, naratifnya ialah narcissist — semua dia je betul, semua dia je tak boleh bekerja dengan orang lain, semua kan. I'm trying to put a frame of argument sekarang ni — yang kalau orang-orang PKR tengok kan, you have to kadang-kadang pakai a different cap. Ini yang masalah parti-parti pemerintah daripada zaman UMNO dulu ke, kalaupun PN ke jadi kerajaan kan — kalau kita berada di puncak kuasa tu, kita pakai cap kita je tau, kita melihat semua itu daripada lensa kita, sebenarnya rakyat tak ambil pot, orang tak tengok macam itu. Sebab itu saya kata survei dan data itu penting, sebab mustahil untuk kita tahu apa di dalam kepala 30 juta rakyat Malaysia. Mustahil. Jadi kalau macam saya sebagai ahli politik lah kan, satu perkara yang saya paling teruja sepanjang masa — pada masa yang sama teruja, pada masa yang sama takut — ialah apa sebenarnya dalam kepala rakyat biasa ini. Sebab itu saya gunakan data yang berterusan. Dan data yang berterusan ini maksudnya analisa yang berterusan, sama ada melalui nationwide survey, sama ada big data, analisis kepada sentiment, semua itu kita kena tengok tau, barulah kita tengok — actually, cara rakyat biasa berfikir ni langsung tak sama macam apa yang saya lihat dari perspektif saya. Jadi ambil cerita merajuk ni — orang PKR kena kena berhati-hati jugak tau eh, sebab kalau saya merajuk lah kan, saya sebenarnya ada beberapa tindakan lah. Pertama, orang yang merajuk ni dia mesti bermula daripada dia merajuk kerana nakkan sesuatu. Dan orang politik ni nakkan sesuatu tu ialah kuasa lah. Then dia tak compute tau — dia merajuk tapi dia letak jawatan, dia walk out freely. Kan dia tak compute. Sebab yang ini akan dikecam dan chaplos ni lepas ni akan makin serang. Berhati-hati bila guna serangan peribadi macam narsisis, merajuk, semua ni, kerana chaplos-chaplos ni budak-budak muda tau, dia umur 20-an, 30-an, dia tidak melalui zaman 98, zaman reformasi tu tau, dia tidak ada di situ. Kerana kalau the same frame of arguments digunakan terhadap Dato' Sri Anwar Ibrahim, lagi bahaya — saya akan pergi bersama-sama. Berbalik kepada soal merajuk ni kan — orang merajuk ni dia nak sesuatu, kalau dia nak sesuatu, orang politik dia nak jawatan, dia nak kuasa, dia takkan letak jawatan — "aku letak jawatan dah, and I walk keluar dengan bebas." That was not the case dengan Dato' Sri Anwar dulu. Dato' Sri Anwar dipecat kerana tidak mahu meletakkan jawatan. It's just that it was not pointed out yet tau, kan. So keadaan dia — sebab itu rakyat biasa ni dia membandingkan dua perkara ni. Di sini anda mempunyai seseorang yang sebenarnya, okeylah, kerana anda tidak mahu — saya tidak lagi mempunyai mandat dan saya diharapkan untuk hanya ikut, ya, ya, ya, ya — itu bukan saya. Then okeylah saya meletakkan jawatan, you run the thing lah. That was not the case in 1998. Datuk Seri Anwar diminta meletakkan jawatan, sebab dia tak nak meletakkan jawatan lah, dia dipecat. Bila dia dipecat lah, maka tiba-tiba dia jadi reformasi. Yang membawa kepada the next issue — dia diserang secara berterusan "narsisis" ni, kerana dia tak tahan, sebab dia kata dia ni kerja menyerang kerajaan sepanjang masa, masa dia dua tahun dalam kerajaan, dia tak ada bersuara pun. Apply the same frame of argument kepada Dato' Sri Anwar tahun 1998, lagi teruk. Sebabnya orang kata — masa itu, masa aku muda umur kau kan, itulah yang orang tua-tua semua cakap kat aku — why lah you nak menghabiskan masa you ni untuk dia yang 16 tahun dia dalam kerajaan? He was part of the system, dia tak pernah bangkang. Masa judiciary crisis 1988, he was there, apa dia buat? Engkau yang tak ada kena-mengena ni, you have a good job semua, why would you do it? You don't know him, we know him. Jika anda menggunakan frame argumen yang sama pada Datuk Sri Anwar, ia kelihatan lebih teruk. Jadi sebab itu saya kata, kalau orang PKR dan juga chaplos-chaplos ni tidak ada daya pemikiran dan analisa yang tahapnya tinggi sedikit daripada itu, dia akan terus mendedahkan PKR kepada serangan-serangan dan pemikiran logik orang biasa yang orang PKR tak nampak tau, kerana dia tak sedar — kepada batang tubuh Dato' Sri Anwar Ibrahim. My answer then is the same to my answer now. Masa umur saya 21, kerja macam kerja gila untuk menulis surat, berkempen kepada semua ahli politik di Eropah, semua pergi jumpa, lobby untuk Dato' Sri Anwar, semua untuk bebaskan dia kan? Jawapan saya sama — this is not about Anwar Ibrahim the person. Saya membantah kerana keruntuhan kredibiliti institusi-institusi yang ada, yang disalahgunakan untuk menyelesaikan political rivalry. Jika anda tidak suka Anwar Ibrahim, Tun Mahathir masa itu — I don't want to get involved, just sack him lah, kan? Ataupun if you don't like him because of whatever, reshuffle the cabinet ke, ataupun tak payahlah nak timbulkan soal angkut katil semua, liwat tak liwat ni kan. Then it's pure political maneuvering. The moment — pada pandangan saya ketika itu, dia mula melibatkan campur tangan yang meruntuhkan kebebasan institusi kehakiman, kerajaan, polis, macam mana media massa digunakan untuk character assassination. Kalau it could happen to a deputy prime minister, nobody is safe — it could happen to me as well. Itu sebabnya saya dalam PKR dulu. Dan bagi saya, selagi kerajaan tidak bertukar, tidak ada peaceful democratic change, selama mana BN UMNO berkuasa, maka the power is so entrenched, dan kita akan terus berada duduk di bawah satu kerajaan yang terlalu berkuasa dan rakyat ini terdedah kepada salah guna-salah guna kuasa tersebut. Betul, jawapan yang sama yang saya ada sekarang. Ia bukan tentang mempertahankan kerajaan ini supaya kita tak dapat PAS. It is not about — apa nama ni — "kesianlah Dato' Sri Anwar Ibrahim, dia dah tua." My duty is to society and to the country and to the public. Dan sumbangan saya ialah untuk memastikan bahawa kerajaan kita ini semua berlaku dengan jujur, tidak ada campur tangan, rasuah ditentang dengan baik. Malangnya sekarang ini Perdana Menterinya ialah Datuk Seri Anwar. Daripada tahun 98 itu, kalau kerajaan ini — sama ada satu penggal ke dua penggal ke — di akhir pentadbiran kerajaan ini, negara kita berada dalam keadaan yang lebih baik, lebih bebas, lebih adil daripada yang ada sebelum ini. Jadi kalau mereka terus serang soal merajuk tak merajuk ni kan, I don't lose anything, sebab you can tell that aku tak kisah. It doesn't perturb me at all. Yang akan menjadi masalah ialah kalau kerajaan PH, pimpinan PKR ataupun PH sendiri, dia mengenepikan perkara-perkara yang saya sebut ini, dan dia mengambil pilihan jangan jawab perkara-perkara itu, jangan perbaiki kelemahan-kelemahan itu, serang budak ini — saya tidak rasa itu berfungsi. In fact, Najib pun dulu buat macam itu. Dan Najib dulu, dengan cyber trooper-nya, kemudian dengan tangkapannya, samannya — it didn't work. Because ini satu perkara ingatan kepada saya dan ingatan kepada semua pimpinan politik di luar — kalau saya cakap yang saya timbulkan ini tidak ada makna kepada rakyat, maka dia takkan ada kesan kepada kerajaan, kepada siapa-siapa. "Aku cakap engkau je lah," dia tak ada kesan langsung. Bila sesuatu yang diperkatakan oleh sesiapa pun, hatta oleh seorang ahli politik kanan dalam negara, kalau perkara itu jadi isu yang mula ada risiko kepada kita, maksudnya you tak boleh lari, because perkara itu ada resonance, ada traction. Dan sesuatu isu itu hanya ada traction kalau apa yang dia kata itu turut dipikirkan oleh rakyat. Kalau kenapa yang si polan duk cakap pumpang-pumpang-pumpang kajian nak tukar semua ni, dia tak jadi isu besar kepada negara — sebab geng-geng dia je yang duk "ya ya ya," rakyat tak fikir macam itu. Ha, kenapa kalau saya sebut tentang Azam Baki, dia viral tinggi, media ambil dalam satu dua hari, dia jadi isu negara sampai Tan Sri Azam Baki kena jawab, kan? Sebab bukan sebab saya — sebab yang saya sebut itu, itulah yang dipikir oleh sebahagian besar rakyat kita, saya hanya jadi medium untuk menyampaikan. Jadi soal Rafizi merajuk tak merajuk ni sebenarnya bukan soal Rafizi, dia soal kerajaan, soal PH dan PKR. If you continue to bury your heads in the sand, then you are in trouble. Apa yang saya cuba buat ialah untuk tidak mengulangi kesilapan, terutamanya pada zaman Najib yang dibuat oleh UMNO lah — apapun yang Najib buat, walaupun satu dunia dah cakap ni pasal 1MDB ni, mereka masih lagi — KJ ke siapa-siapa yang ada tu — masih lagi "ya ya ya ya" kan. By the time Najib dah kalah, masa tu nak menyesal ke tak menyesal, tak guna lah. So lebih baik jadi budak jahat macam saya, sebut supaya semua kelemahan itu diperbaiki. Pemenangnya ialah Anwar Ibrahim dan kerajaan lah, kalau mereka perbaiki, dan setiap perkara yang rakyat rasa tak selesa dengan kerajaan ini diselesaikan satu demi satu demi satu, maka akhirnya menanglah kali kedua. It doesn't make any difference to me. Saya tak tetapkan lagi pun aku nak buat apa lepas ni, kan? Sekarang ni sebab ada dua tahun sebelum parlimen berubah. But cara begini menunjukkan bahawa strategi politik yang ada dalam PKR sekarang ini adalah sangat-sangat ke laut. Hmm.
 
 **Haziq:** Selamat tinggal, OB. Noted, untuk mereka-mereka yang di luar, untuk ambil tindakan kalau nak menang kali kedua. Okay.
 
@@ -592,11 +430,7 @@ Ya, Daddy.
 
 **Rafizi:** dah ada empat parti. Dan empat parti tu, kita ada parti India ada satu kan, kemudian kita ada Gerakan—itu dalam Perikatan Nasional. Tapi pada masa yang sama Tan Sri Muhyiddin buat IPR. Ya, you lupa. Ya, lupa, kita lupa. Ada IPR. IPR tu ada berapa? 14 parti. 14 parti tu termasuklah Muda, PSM semua ni, Putra semua. Diorang semua ni perlukan parti berunding, 14. Sebenarnya—
 
-**Farhan (Pa'an):** kita lupa satu yang patut masuk beria sekali—yang PAS announce pemenang diorang dekat Sabah, akan sokong Haji Ji.
-
-**Farhan (Pa'an):** Oh.
-
-**Farhan (Pa'an):** Kita lupa. Kita lupa.
+**Farhan (Pa'an):** kita lupa satu yang patut masuk beria sekali—yang PAS announce pemenang diorang dekat Sabah, akan sokong Haji Ji. Oh. Kita lupa. Kita lupa.
 
 **Rafizi:** Memang... teruk aku kan this... week.
 
@@ -608,9 +442,7 @@ Ya, Daddy.
 
 **Haziq:** Okay, baik, YB. Clear, YB, okay. Satu jam—eh, dua jam, 20 minit. Hmm. Aku rasa tak beria. Okay baik, YB.
 
-**Rafizi:** Itu sahaja. Saya minta maaf kepada penonton-penonton kerana production team minggu ini nampaknya memang tak beria. Susah nak talk—Fuziah lah. Tapi sebenarnya ada satu, itu adalah alasan ceplos. Kan aku dah cakap, kalau kita ada persaingan,
-
-**Rafizi:** we should strive better.
+**Rafizi:** Itu sahaja. Saya minta maaf kepada penonton-penonton kerana production team minggu ini nampaknya memang tak beria. Susah nak talk—Fuziah lah. Tapi sebenarnya ada satu, itu adalah alasan ceplos. Kan aku dah cakap, kalau kita ada persaingan, we should strive better.
 
 **Haziq:** Kena cari lagi.
 
@@ -618,8 +450,6 @@ Ya, Daddy.
 
 **Haziq:** Susah yang lain nak cari makan.
 
-**Farhan (Pa'an):** Sebenarnya kita
-
-**Farhan (Pa'an):** kena buat satu trofi, letak
+**Farhan (Pa'an):** Sebenarnya kita kena buat satu trofi, letak
 
 **Haziq:** kat belakang. Jelakot YB untuk episod yang ke-26. Kita jumpa lagi minggu depan. Selamat malam.

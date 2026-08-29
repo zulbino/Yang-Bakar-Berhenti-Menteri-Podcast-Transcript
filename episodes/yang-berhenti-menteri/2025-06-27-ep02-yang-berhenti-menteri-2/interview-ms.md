@@ -536,9 +536,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Iswardy Morni:** Dan kena cari pula yang spesifik stratum.
 
-**Rafizi:** Kena cari pula spesifik stratum masing-masing. Jadi lebih mudah tanya, "Adakah negara berada di landasan yang betul?" Okey, daripada semua survey — survey terakhir yang kamu buat sebelum ada keputusan baru ini — patutkah kita risau tentang Pakatan Harapan?
-
-**Rafizi:** Saya sudah sebut semasa kempen.
+**Rafizi:** Kena cari pula spesifik stratum masing-masing. Jadi lebih mudah tanya, "Adakah negara berada di landasan yang betul?" Okey, daripada semua survey — survey terakhir yang kamu buat sebelum ada keputusan baru ini — patutkah kita risau tentang Pakatan Harapan? Saya sudah sebut semasa kempen.
 
 **Iswardy Morni:** Ya, tapi selepas itu, patutkah kita masih risau?
 

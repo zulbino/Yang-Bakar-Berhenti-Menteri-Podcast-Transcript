@@ -100,7 +100,13 @@ def apply_one(lines, stamp, rule):
     if not hits:
         if "merge" in rule:
             for j in at(stamp, rule["who"]):
-                if JOIN in TURN.match(lines[j]).group(3):
+                got = TURN.match(lines[j]).group(3)
+                # `JOIN` present means a shredded merge already ran. A CONTINUOUS merge
+                # leaves no marker at all, so it is detected by the text having grown
+                # beyond the first fragment it started from.
+                first = rule.get("text_was", "").strip()
+                if JOIN in got or (first and got.strip().startswith(first)
+                                   and len(got.strip()) > len(first)):
                     return 1, "already merged, skipped"
         elif "split" in rule:
             first_who, first_until, _ = rule["split"][0]
@@ -125,7 +131,10 @@ def apply_one(lines, stamp, rule):
     # no-op, a merge eats the FOLLOWING turns, and a `text_now` whose `text_was` already
     # changed aborts the run. Detect the settled state and skip.
     if "merge" in rule:
-        if old_who == rule["who"] and JOIN in said:
+        first = rule.get("text_was", "").strip()
+        if old_who == rule["who"] and (
+                JOIN in said
+                or (first and said.strip().startswith(first) and len(said.strip()) > len(first))):
             return 1, "already merged, skipped"
     elif "split" in rule:
         first_who, first_until, first_at = rule["split"][0]
@@ -144,10 +153,18 @@ def apply_one(lines, stamp, rule):
             if not TURN.match(lines[j]):
                 raise SystemExit(f"  {stamp}: line {j} is not a turn, cannot merge {n}")
         frags = [TURN.match(lines[j]).group(3) for j in idx]
-        merged = build(stamp, rule["who"], JOIN.join(frags))
+        # Two kinds of merge, and the joiner is the claim being made. `" ... "` is
+        # group_shredded_turns.py's marker for a run whose words CANNOT be apportioned --
+        # it says "several people, order preserved, attribution dropped". A plain space
+        # says "one person said all of this continuously", which is the right join when
+        # the fragments form one sentence: ep41's "Keadaan" + "mesti kita semak" and
+        # "pada masa" + "itu." are single sentences the diarizer cut mid-clause, and
+        # printing an ellipsis there would invent a pause nobody made.
+        joiner = rule.get("join", JOIN)
+        merged = build(stamp, rule["who"], joiner.join(frags))
         assert words(" ".join(frags)) == words(TURN.match(merged).group(3)), "merge changed words"
         lines[i:idx[-1] + 1] = [merged]
-        return 1, f"merged {n} -> 1 as {rule['who']}"
+        return 1, f"merged {n} -> 1 as {rule['who']}" + ("" if joiner == JOIN else " (continuous)")
 
     if "split" in rule:
         rest, out = said, []

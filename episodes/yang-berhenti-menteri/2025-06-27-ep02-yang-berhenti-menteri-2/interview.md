@@ -538,9 +538,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Iswardy Morni:** Dan dan kena cari pula yang spesifik stratum.
 
-**Rafizi:** Kena cari pula spesifik stratum masing-masing tu kan. Jadi lebih mudahlah tanya adakah negara berada di landasan yang betul? Okey okey, daripada semua survey the last survey that you did kan sebelum dia ada result baru ni, should we worry Pakatan Harapan?
-
-**Rafizi:** I should — I saya dah sebut masa kempen.
+**Rafizi:** Kena cari pula spesifik stratum masing-masing tu kan. Jadi lebih mudahlah tanya adakah negara berada di landasan yang betul? Okey okey, daripada semua survey the last survey that you did kan sebelum dia ada result baru ni, should we worry Pakatan Harapan? I should — I saya dah sebut masa kempen.
 
 **Iswardy Morni:** Ya but yalah after that, should we still worry?
 

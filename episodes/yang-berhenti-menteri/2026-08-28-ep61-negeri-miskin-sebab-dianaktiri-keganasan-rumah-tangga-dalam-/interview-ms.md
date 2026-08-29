@@ -120,15 +120,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** lah. Okay, mungkin.
 
-**Rafizi:** Aku rasa orang yang duk layan benda ni lah yang menyemangatkan. Okay, sebab memanglah akan terus ada orang yang datang dengan segala jenis produk overclaim/scam semua ni kan. Hmm. Tapi zaman sekarang ni lah kan, terutamanya kalau yang bandar, kalaupun dia bukan dalam bidang itu kan, kalaupun dia sendiri tak semak, paling kurang anak-anak dia, dia boleh rujuk kepada anak-anak dia lah kan. So betul juga kan, sebab macam saya, macam mak ayah saya kan, mereka
-
-**Rafizi:** bersekolah pada zaman dahulu kan, mereka memang tak tahulah cek ChatGPT, tak cek ChatGPT semua ni kan, tapi semua dia rujuk kat kita, jadi memang insyaAllah tak kena scam lah, tak pernah kena scam sepanjang hidup lah, mereka tak pernah kena scam sepanjang hidup. Jadi mungkin yang menyemangatkan ni pun, kita selalunya kalau ada macam ini kita biarlah kita akan tuding jari
-
-**Rafizi:** kepada orang yang jual, pemasar, semua peringkat. Yang ini undang-undang ada
-
-**Rafizi:** untuk ambil tindakan terhadap mereka kalau ada laporan, sebab memanglah setiap peranti perubatan itu kena dapat lesen.
-
-**Rafizi:** Yes, dia ada MDA, Medical Device Authority, pihak berkuasa peranti perubatan di bawah KKM. Sepatutnya memang dia kawal semua, tapi sekali lagi, dia tetap akan ada. Jadi cara terbaik untuk mengelakkan benda ni ialah paling kurang kita tanya orang dulu lah. So secara saintifik ni, hidrogen ni kalau
+**Rafizi:** Aku rasa orang yang duk layan benda ni lah yang menyemangatkan. Okay, sebab memanglah akan terus ada orang yang datang dengan segala jenis produk overclaim/scam semua ni kan. Hmm. Tapi zaman sekarang ni lah kan, terutamanya kalau yang bandar, kalaupun dia bukan dalam bidang itu kan, kalaupun dia sendiri tak semak, paling kurang anak-anak dia, dia boleh rujuk kepada anak-anak dia lah kan. So betul juga kan, sebab macam saya, macam mak ayah saya kan, mereka bersekolah pada zaman dahulu kan, mereka memang tak tahulah cek ChatGPT, tak cek ChatGPT semua ni kan, tapi semua dia rujuk kat kita, jadi memang insyaAllah tak kena scam lah, tak pernah kena scam sepanjang hidup lah, mereka tak pernah kena scam sepanjang hidup. Jadi mungkin yang menyemangatkan ni pun, kita selalunya kalau ada macam ini kita biarlah kita akan tuding jari kepada orang yang jual, pemasar, semua peringkat. Yang ini undang-undang ada untuk ambil tindakan terhadap mereka kalau ada laporan, sebab memanglah setiap peranti perubatan itu kena dapat lesen. Yes, dia ada MDA, Medical Device Authority, pihak berkuasa peranti perubatan di bawah KKM. Sepatutnya memang dia kawal semua, tapi sekali lagi, dia tetap akan ada. Jadi cara terbaik untuk mengelakkan benda ni ialah paling kurang kita tanya orang dulu lah. So secara saintifik ni, hidrogen ni kalau
 
 **Speaker ?:** letak kat mata je dia apa?
 
@@ -160,9 +152,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Okey, baik, kita akan sentuh juga sikit nanti. So siapa yang apa ni, semangat sekali lagi ni? Mestilah bukan bergurau, bukan dia lah, kepada yang buat macam tu lah. Okay, macam
 
-**Rafizi:** tak
-
-**Rafizi:** seronok je bersemangat minggu ni.
+**Rafizi:** tak seronok je bersemangat minggu ni.
 
 **Haziq:** Ni baru yang kedua, kita ada banyak sikit, YB pun ada. Oh, okay, alright, dah dua kali lah.
 
@@ -262,57 +252,33 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Bukanlah ketagih. Saya ni sangat evidence-driven kan. Okay. Jadi, algoritma Threads ni nampaknya lebih tepat daripada algoritma X. Haa, betul, ia lagi tepat. Dan ia nampaknya menjadi tempat terutamanya pengundi-pengundi Melayu milenial. Di X ni lah setakat ini nampak begitu. Dan algoritma dia tu, ia lebih tepat. Jadi saya buka-buka X je every now and then, ada semua posting — kalau thread mereka panggil post, posting macam ini. Jadi keluarlah MBSB Bank. Saya tengah, saya biasalah, saya agak spontan sebagai seorang individu. Berani bila? Saya letak lah berani bila. Buat parti, tak masuk gabungan, lawan semua gabungan besar, menang kau. Dan wang RM100 itu telah didermakan untuk tabung sulung. Tabung gajah. Sebab saya kena marah lagi kat netizen — ada seorang netizen tu dia kata "ini teladan yang tidak baik, memberi makanan kepada haiwan liar."
 
-**Haziq:** Sudah. Tapi ada satu lagi peraduan lain. Dia dah ban aku. Harap please don't join. Mungkin macam Siti Nurhaliza, kena terpaksa tarik ke belakang supaya orang lain boleh. Saya langsung tak boleh relate analogi saya dengan Siti Nurhaliza.
+**Haziq:** Sudah. Tapi ada satu lagi peraduan lain. Dia dah ban aku. Harap please don't join. Mungkin macam Siti Nurhaliza, kena terpaksa tarik ke belakang supaya orang lain boleh. Saya langsung tak boleh relate analogi saya dengan Siti Nurhaliza. Dia kan dulu, saya rasa dah 10 tahun lepas, dia masuk anugerah tetap. Jadi saya rasa ada sekali tu dia mula, dia kata takpelah, masa untuk dia ke belakang bagi orang lain masuk. Kalau tak, dia juga menang. Eh tak, sebab itu kau tak boleh
 
-**Haziq:** Dia kan dulu, saya rasa dah 10 tahun lepas, dia masuk anugerah tetap. Jadi saya rasa ada sekali tu dia mula, dia kata takpelah, masa untuk dia ke belakang bagi orang lain masuk. Kalau tak, dia juga menang. Eh tak, sebab itu kau tak boleh
-
-**Rafizi:** buat paralel macam tu. Sebab Siti Nurhaliza, dia dengan rela hati menarik diri.
-
-**Rafizi:** Saya kena ban. Betul dekat. Kalau tidak, saya masuk.
-
-**Rafizi:** Masuk lagi.
-
-**Rafizi:** Menang lagi. Kalau tidak saya masuk, maksudnya jaki lagi. Eh, orang kata tak jaki lah. So okeylah, ini kali
+**Rafizi:** buat paralel macam tu. Sebab Siti Nurhaliza, dia dengan rela hati menarik diri. Saya kena ban. Betul dekat. Kalau tidak, saya masuk. Masuk lagi. Menang lagi. Kalau tidak saya masuk, maksudnya jaki lagi. Eh, orang kata tak jaki lah. So okeylah, ini kali
 
 **Speaker ?:** pertama saya menang peraduan.
 
-**Rafizi:** Tanya hari ni, aku mana — sebenarnya tidak, saya pernah menang peraduan masa umur 20 tahun. Buat berdua. Jadi saya tengah study untuk final exam, rasanya tahun pertama universiti. Masa itu orang dengar radio, zaman kita kan, mana ada streaming, semua dengar radio, FM tempatan tu kan. Hmm. Jadi ada peraduan teka lagu.
+**Rafizi:** Tanya hari ni, aku mana — sebenarnya tidak, saya pernah menang peraduan masa umur 20 tahun. Buat berdua. Jadi saya tengah study untuk final exam, rasanya tahun pertama universiti. Masa itu orang dengar radio, zaman kita kan, mana ada streaming, semua dengar radio, FM tempatan tu kan. Hmm. Jadi ada peraduan teka lagu. Oh, okay. Menyampah sebab dah tiga minggu tak ada orang boleh teka lagu. Jadi saya tengah-tengah malam, dua pagi, saya telefon, beritahu. Lepas itu saya macam ditanya, background sikit. Kata lah, "I'm an engineering student." Wah, wah, engineer dengar radio. Jadi saya dapat apa eh, saya dapat. Tapi memalukan lah maksudnya, semua orang tak boleh teka lagu tu, nampak sangat lagu tu tak mainstream. Saya seorang je kot yang pernah terdengar lagu tu kan.
 
-**Rafizi:** Oh, okay.
-
-**Rafizi:** Menyampah sebab dah tiga minggu tak ada orang boleh teka lagu. Jadi saya tengah-tengah malam, dua pagi, saya telefon,
-
-**Rafizi:** beritahu. Lepas itu saya macam ditanya, background sikit. Kata lah, "I'm an engineering student." Wah, wah, engineer dengar radio. Jadi saya dapat apa eh, saya dapat. Tapi memalukan lah maksudnya, semua orang tak boleh teka lagu tu, nampak sangat lagu tu tak mainstream. Saya seorang je kot yang pernah terdengar lagu tu kan.
-
-**Haziq:** Okay baik, habis, sorry, masa untuk pilih.
-
-**Haziq:** Jadi masa untuk pilih, susah ni.
+**Haziq:** Okay baik, habis, sorry, masa untuk pilih. Jadi masa untuk pilih, susah ni.
 
 **Rafizi:** Oh susah, sebab macam tak ada yang stand out sangat, kecuali yang terakhir kot.
 
 **Haziq:** Apa dia? Takkan nak pilih diri sendiri, kau gila?
 
-**Rafizi:** Eh, macam tak pernah buat je.
-
-**Rafizi:** Tak boleh, tak boleh, tak boleh.
-
-**Rafizi:** Tak boleh buat lagi lah. Tak, saya tidak beraya sangat untuk masuk.
+**Rafizi:** Eh, macam tak pernah buat je. Tak boleh, tak boleh, tak boleh. Tak boleh buat lagi lah. Tak, saya tidak beraya sangat untuk masuk.
 
 **Haziq:** Yalah, tak adalah. Okey, okey, okey. Yalah, ia nampak sangat
 
 **Rafizi:** spontan. Saya rasa saya nak bagi kepada Takiuddin lah. Tahniah. Sebab Baitul Maqdis ni, kita menganggap perjuangan ini ibarat mempertahankan Baitul Maqdis. Itu berat tu, berat. Baik, pergi Baitul Maqdis terus. Hahaha. Baik.
 
-**Haziq:** Okay baby. Baik. Okay settle. Alright, itu beraya baby. Jadi seterusnya kita terus ke Hidup Keras. Okay lah, kita beraya dalam setengah jam.
-
-**Haziq:** 40 minit.
+**Haziq:** Okay baby. Baik. Okay settle. Alright, itu beraya baby. Jadi seterusnya kita terus ke Hidup Keras. Okay lah, kita beraya dalam setengah jam. 40 minit.
 
 **Rafizi:** 40 minit.
 
 **Haziq:** Sempena menyambut Hari Kemerdekaan, jadi kita ada satu topik. Itu topik berat ni.
 
-**Rafizi:** Berat lah. Tapi
-
-**Rafizi:** topik yang kita rasa demi negara, menjelang Hari Kemerdekaan, Hari Malaysia. Perkara ini memang berulang-ulang dijadikan bahan politik. Yang bahan politik itu saya tak kisah sangat. Sebenarnya memang betul, kita dah nak masuk 70 tahun sebagai sebuah persekutuan kan. Jadi tak ramai yang bincang, dan oleh sebab itu banyak yang saya rasa perlu mendapat manfaat daripada pencerahan. Kalau kita habiskan sedikit masa, ini soal model persekutuan Malaysia.
+**Rafizi:** Berat lah. Tapi topik yang kita rasa demi negara, menjelang Hari Kemerdekaan, Hari Malaysia. Perkara ini memang berulang-ulang dijadikan bahan politik. Yang bahan politik itu saya tak kisah sangat. Sebenarnya memang betul, kita dah nak masuk 70 tahun sebagai sebuah persekutuan kan. Jadi tak ramai yang bincang, dan oleh sebab itu banyak yang saya rasa perlu mendapat manfaat daripada pencerahan. Kalau kita habiskan sedikit masa, ini soal model persekutuan Malaysia.
 
 **Haziq:** Oh, sangat kontroversi.
 
@@ -532,9 +498,7 @@ Sebenarnya kenapa soalan saya tu — kenapa soal agihan kuasa perundangan tu sam
 
 **Haziq:** Ya.
 
-**Rafizi:** Dan begitulah, sesak, tidak dapat ditampung bandar itu. Itu perspektif yang tidak dilihat sebenarnya, bila ada jurang seperti ini, kerajaan negeri tidak fikir. Kerajaan negeri seperti Kedah, Kelantan, Terengganu, mereka letak orang atas bas, hantar ke Selangor, terbangkan pergi — hantar ke Selangor, sebenarnya akan mewujudkan masalah baru, kerana satu, seperti kamu katakan, migrasi akan menyebabkan kekurangan tenaga kerja di negeri-negeri tersebut. Bila kurang tenaga kerja, akan ada kesan kepada aktiviti ekonomi. Pada masa yang sama, ia juga akan memberi kesan kepada penggunaan (consumption). Kerana pasaran itu, maksudnya, pasaran dibentuk oleh orang yang membeli. Orang yang ada itulah yang mewujudkan permintaan kepada sesuatu. Kalau tidak ada orang, mereka semua pergi duduk kawasan lain, susah. Jadi ada kesan kepada negeri itu, kerana kegagalan untuk merancakkan ekonomi itu menyebabkan berlaku migrasi. Negeri itu ada kesan, dan negeri yang menerima itu pun ada kesan, kerana kepadatan — ia akan menjadi tekanan kepada sistem. Jadi itu satu lagi yang berbahaya bila berlaku jurang perbezaan. Apa lagi yang berbahaya? Jurang. Satu lagi ialah ia tidak berlaku adil kepada pembayar cukai. Ia tidak berlaku adil kepada pembayar cukai. Jadi kalau tidak berhati-hati, ia mewujudkan satu kitaran ganas (vicious cycle). Kitaran... kitaran ganas dalam bahasa Melayu apa dia? Kitaran... kitaran zalim, kitaran kejam. Apa itu vicious cycle? Vicious cycle. Kitaran kejam betul lah. Betul, kitaran kejam. Tambah lagi kan? Tambah lagi.
-
-**Rafizi:** Terima kasih. Okey. Tetapi ganas adalah berguna. Jadi, ia mewujudkan kitaran ganas di mana, oleh kerana jurang ini diakibatkan oleh pertumbuhan ekonomi yang lebih rendah di negeri-negeri yang lebih mundur, maka dalam sebuah persekutuan seperti Malaysia, negeri-negeri itu akan terus meminta peruntukan demi peruntukan dan subsidi demi subsidi untuk dibuat — peruntukan tambahan daripada kerajaan persekutuan. Ini akan menyebabkan kerajaan persekutuan mengutip cukai daripada kawasan-kawasan ataupun negeri-negeri yang menjana pendapatan kerajaan persekutuan, tetapi tidak dapat berlaku adil dipulangkan kepada orang-orang itu — dipindahkan kepada tempat-tempat lain untuk mengimbangi jurang itu. Itu risiko kedua. Dari segi etika, ia soal bahagian yang saksama daripada wang pembayar cukai negara. Yang ketiga apa dia? Jadi tadi, tekanan kepada infrastruktur — itu kesannya. Kedua ialah soal keadilan ekonomi. Yang ketiga...
+**Rafizi:** Dan begitulah, sesak, tidak dapat ditampung bandar itu. Itu perspektif yang tidak dilihat sebenarnya, bila ada jurang seperti ini, kerajaan negeri tidak fikir. Kerajaan negeri seperti Kedah, Kelantan, Terengganu, mereka letak orang atas bas, hantar ke Selangor, terbangkan pergi — hantar ke Selangor, sebenarnya akan mewujudkan masalah baru, kerana satu, seperti kamu katakan, migrasi akan menyebabkan kekurangan tenaga kerja di negeri-negeri tersebut. Bila kurang tenaga kerja, akan ada kesan kepada aktiviti ekonomi. Pada masa yang sama, ia juga akan memberi kesan kepada penggunaan (consumption). Kerana pasaran itu, maksudnya, pasaran dibentuk oleh orang yang membeli. Orang yang ada itulah yang mewujudkan permintaan kepada sesuatu. Kalau tidak ada orang, mereka semua pergi duduk kawasan lain, susah. Jadi ada kesan kepada negeri itu, kerana kegagalan untuk merancakkan ekonomi itu menyebabkan berlaku migrasi. Negeri itu ada kesan, dan negeri yang menerima itu pun ada kesan, kerana kepadatan — ia akan menjadi tekanan kepada sistem. Jadi itu satu lagi yang berbahaya bila berlaku jurang perbezaan. Apa lagi yang berbahaya? Jurang. Satu lagi ialah ia tidak berlaku adil kepada pembayar cukai. Ia tidak berlaku adil kepada pembayar cukai. Jadi kalau tidak berhati-hati, ia mewujudkan satu kitaran ganas (vicious cycle). Kitaran... kitaran ganas dalam bahasa Melayu apa dia? Kitaran... kitaran zalim, kitaran kejam. Apa itu vicious cycle? Vicious cycle. Kitaran kejam betul lah. Betul, kitaran kejam. Tambah lagi kan? Tambah lagi. Terima kasih. Okey. Tetapi ganas adalah berguna. Jadi, ia mewujudkan kitaran ganas di mana, oleh kerana jurang ini diakibatkan oleh pertumbuhan ekonomi yang lebih rendah di negeri-negeri yang lebih mundur, maka dalam sebuah persekutuan seperti Malaysia, negeri-negeri itu akan terus meminta peruntukan demi peruntukan dan subsidi demi subsidi untuk dibuat — peruntukan tambahan daripada kerajaan persekutuan. Ini akan menyebabkan kerajaan persekutuan mengutip cukai daripada kawasan-kawasan ataupun negeri-negeri yang menjana pendapatan kerajaan persekutuan, tetapi tidak dapat berlaku adil dipulangkan kepada orang-orang itu — dipindahkan kepada tempat-tempat lain untuk mengimbangi jurang itu. Itu risiko kedua. Dari segi etika, ia soal bahagian yang saksama daripada wang pembayar cukai negara. Yang ketiga apa dia? Jadi tadi, tekanan kepada infrastruktur — itu kesannya. Kedua ialah soal keadilan ekonomi. Yang ketiga...
 
 **Haziq:** Pertumbuhan itu sendiri di tempat yang ditinggalkan. Bila semua orang tidak mahu duduk di Kelantan atau Terengganu — ya, okey, itu kita sudah tahu.
 
@@ -606,9 +570,7 @@ Sebenarnya kenapa soalan saya tu — kenapa soal agihan kuasa perundangan tu sam
 
 **YB:** Aa, itu agak optimis untuk kita devolve dengan memberikan ruang fiskal untuk kutip cukai semua kepada negeri. Tapi melihatkan kepada praktis apa yang berlaku sekarang — sebagai contoh, ini pemerhatian saya, tak tahu perbandingan yang baik atau tidak — Akta Sisa Pepejal contohnya, negeri-negeri ini masih banyak yang mendaftar untuk serahkan kepada persekutuan untuk uruskan...
 
-**Rafizi:** ...aset.
-
-**Rafizi:** Air itu melalui wasiah diserahkan kepada persekutuan juga supaya dapat diurus semua tu kan. Maksudnya pergantungan kepada persekutuan walaupun sebenarnya itu adalah bidang kuasa PBT atau kerajaan negeri. Maksudnya pelaksanaan sekarang ini pun banyak benda-benda yang dalam bidang kuasa kerajaan negeri ataupun PBT ini diserahkan, ada pergantungan yang tinggi dengan kerajaan persekutuan. Jadi dalam keadaan kita nak bagi lebih banyak lagi bidang kuasa selepas ini, macam mana nak jadikan itu realiti? Tak boleh, sebab sekarang ini ia bukan berorientasikan hasil, ia tidak berpandukan kepada hasil. Jadi pengurusan air itu lain ceritanya. Wasiah itu memang dia kembali kepada soal skala ekonomi. Bidang kuasa air contohnya, sebelum ini adalah di bawah kerajaan-kerajaan negeri. Tapi kerajaan negeri sendiri terlalu kecil untuk dia pergi kutip duit hasil air untuk buat pelaburan air jangka panjang. Jadi kalau masing-masing buat sikit-sikit dalam silo semua, ia jadi lagi mahal. Ini zaman saya ingat, mendiang Tun Lim Keng Yaik dulu saya rasa. Jadi logiknya adalah untuk industri utiliti yang memerlukan pelaburan besar macam itu, skala itu penting. Sebab itu diserahkan — apa nama ni — loji memproses air di bawah PUB, dengan sokongan kerajaan persekutuan boleh mengeluarkan bon dan kerajaan negeri membayar sewa loji-loji ini. Jadi itu satu model kan.
+**Rafizi:** ...aset. Air itu melalui wasiah diserahkan kepada persekutuan juga supaya dapat diurus semua tu kan. Maksudnya pergantungan kepada persekutuan walaupun sebenarnya itu adalah bidang kuasa PBT atau kerajaan negeri. Maksudnya pelaksanaan sekarang ini pun banyak benda-benda yang dalam bidang kuasa kerajaan negeri ataupun PBT ini diserahkan, ada pergantungan yang tinggi dengan kerajaan persekutuan. Jadi dalam keadaan kita nak bagi lebih banyak lagi bidang kuasa selepas ini, macam mana nak jadikan itu realiti? Tak boleh, sebab sekarang ini ia bukan berorientasikan hasil, ia tidak berpandukan kepada hasil. Jadi pengurusan air itu lain ceritanya. Wasiah itu memang dia kembali kepada soal skala ekonomi. Bidang kuasa air contohnya, sebelum ini adalah di bawah kerajaan-kerajaan negeri. Tapi kerajaan negeri sendiri terlalu kecil untuk dia pergi kutip duit hasil air untuk buat pelaburan air jangka panjang. Jadi kalau masing-masing buat sikit-sikit dalam silo semua, ia jadi lagi mahal. Ini zaman saya ingat, mendiang Tun Lim Keng Yaik dulu saya rasa. Jadi logiknya adalah untuk industri utiliti yang memerlukan pelaburan besar macam itu, skala itu penting. Sebab itu diserahkan — apa nama ni — loji memproses air di bawah PUB, dengan sokongan kerajaan persekutuan boleh mengeluarkan bon dan kerajaan negeri membayar sewa loji-loji ini. Jadi itu satu model kan.
 
 Sisa pepejal ni lain sikit lah kan. Sisa pepejal ini sebahagiannya kerana kerajaan negeri masing-masing memang tak berani nak menaikkan cukai pintu, kerana naikkan cukai pintu itu akan menyebabkan pengundi marah, takut hilang undi. Jadi dia tak naikkan cukai pintu, sedangkan kos untuk mengendalikan kutipan sampah itu makin naik dan makin naik. Dia pun serah baliklah kepada kerajaan persekutuan, contohnya kan. Cuma saya rasa sisa pepejal itu boleh dilaksanakan dengan lebih baik, kerana pengurusan sisa pepejal — kecuali kalau nak tubuhkan loji sisa-kepada-tenaga ke apa — pelaburan modal untuk pengurusan sisa ni tidaklah sebesar contohnya air.
 
@@ -716,12 +678,4 @@ Ambil contoh kes Datuk Seri Ismail Sabri tadi — benda tu dah, apa nama ni, dik
 
 **Farhan (Pa'an):** Sebab takkanlah tukar last minute. Tak, Maps... Maps lain, dia ada dua nama tempat itu. Ada betul, perkarangan persatuan penganut Dewa Kuanti, ataupun di Maps adalah Zilinggong Temple. Oh, kuil.
 
-**Rafizi:** Lepas ini ada orang buat fitnah baru, cakap saya pergi ke tokong. Banyak-banyak tempat kamu pilih, kamu buat. Tapi PKR dulu-dulu macam itu juga, tidak ada tempat kan. Jadi akhirnya, ada satu kongres itu, lupa kongres tahun bila, tahun 2004 ke... 2004 lah. 2004 ke 2004. Kongres pada 2004 itu rasanya memang di tokong di Ipoh. Jadi kalau siapa-siapalah, tadi yang menuduh atau apa, nak cakap serang kata kita orang pergi ke tokong, kamu pun dulu masa
-
-**Rafizi:** susah nak dapat tempat, semua pun berceramah di sekitar tokong juga. Tapi memang dia buat
-
-**Rafizi:** itu memang disasarkan untuk pengundi Cina juga. Di sesi ceramah pun memang majoriti Cina. Jadi
-
-**Rafizi:** jumpa kami esok di Melaka. Satu hari, sekali lagi, beginilah rutin kita, selagi keganasan rumah tangga politik ini tidak berakhir dengan kematian seseorang. Sama kan? Susah kalau tidak, pilihan raya ini tidak akan dipanggil sampai ke sudah kan? Jadi kita orang macam ini, tujuh hari seminggu tanpa henti kan? Baik, WB. Itu saja. Kita jumpa lagi esok.
-
-**Rafizi:** Assalamualaikum. Selamat malam. Dan selamat... Eh! Eh, alah, kena marah ke orang lah. Apa dia? Ya, itulah baru teringat. Ini cuti hujung minggu panjang, selamat bercuti, dan yang lebih penting, cuti panjang ini bermakna hanya kerana kita bekerja tujuh hari seminggu berkempen dan tidak ingat lagi cuti bila. YouTube Sudirman. Patutlah ada YouTube Sudirman tanpa henti. Sebab Merdeka. Terima kasih. Assalamualaikum, selamat malam. Merdeka!
+**Rafizi:** Lepas ini ada orang buat fitnah baru, cakap saya pergi ke tokong. Banyak-banyak tempat kamu pilih, kamu buat. Tapi PKR dulu-dulu macam itu juga, tidak ada tempat kan. Jadi akhirnya, ada satu kongres itu, lupa kongres tahun bila, tahun 2004 ke... 2004 lah. 2004 ke 2004. Kongres pada 2004 itu rasanya memang di tokong di Ipoh. Jadi kalau siapa-siapalah, tadi yang menuduh atau apa, nak cakap serang kata kita orang pergi ke tokong, kamu pun dulu masa susah nak dapat tempat, semua pun berceramah di sekitar tokong juga. Tapi memang dia buat itu memang disasarkan untuk pengundi Cina juga. Di sesi ceramah pun memang majoriti Cina. Jadi jumpa kami esok di Melaka. Satu hari, sekali lagi, beginilah rutin kita, selagi keganasan rumah tangga politik ini tidak berakhir dengan kematian seseorang. Sama kan? Susah kalau tidak, pilihan raya ini tidak akan dipanggil sampai ke sudah kan? Jadi kita orang macam ini, tujuh hari seminggu tanpa henti kan? Baik, WB. Itu saja. Kita jumpa lagi esok. Assalamualaikum. Selamat malam. Dan selamat... Eh! Eh, alah, kena marah ke orang lah. Apa dia? Ya, itulah baru teringat. Ini cuti hujung minggu panjang, selamat bercuti, dan yang lebih penting, cuti panjang ini bermakna hanya kerana kita bekerja tujuh hari seminggu berkempen dan tidak ingat lagi cuti bila. YouTube Sudirman. Patutlah ada YouTube Sudirman tanpa henti. Sebab Merdeka. Terima kasih. Assalamualaikum, selamat malam. Merdeka!

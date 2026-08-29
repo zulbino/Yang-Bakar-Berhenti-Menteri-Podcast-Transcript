@@ -122,15 +122,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** lah. Okay, maybe.
 
-**Rafizi:** Aku rasa orang yang duk pergi layan ni lah yang beria. Okay, sebab memanglah akan terus ada orang yang datang dengan segala jenis produk overclaim slash scam semua ni kan. Hmm. Tapi zaman sekarang ni lah kan, especially kalau yang bandar, kalaupun dia bukan dalam bidang itu kan, kalaupun dia sendiri tak semak, paling kuat anak-anak dia, dia boleh rujukkan anak-anak dia lah kan. So betul juga kan, sebab macam saya, macam mak ayah saya kan, mereka
-
-**Rafizi:** sekolah pada jam 6 kan, mereka memang tak tahulah cek GPT, tak cek GPT semua ni kan, tapi semua dia rujuk kat kita orang tau. Jadi memang insyaAllah tak kena scam lah, tak pernah kena scam sepanjang hidup lah, mereka tak pernah kena scam sepanjang hidup. Jadi mungkin yang beria ni pun, kita selalunya kalau ada macam ini kita biarlah kita akan tuding jari
-
-**Rafizi:** kepada orang yang jual, marketer, semua tingkat. Yang ini undang-undang ada
-
-**Rafizi:** untuk ambil tindakan terhadap mereka kalau ada laporan, sebab memanglah setiap peranti perubatan itu kena dapat lesen.
-
-**Rafizi:** Yes, dia ada MDA, Medical Device Authority, pihak berkuasa peranti perubatan di bawah KKM. Sepatutnya memang dia kawal semua, tapi again lah, dia tetap akan ada. Jadi cara terbaik untuk mengelakkan benda ni ialah paling kurang kita tanya orang dulu lah. So scientifically ni, hydrogen ni kalau
+**Rafizi:** Aku rasa orang yang duk pergi layan ni lah yang beria. Okay, sebab memanglah akan terus ada orang yang datang dengan segala jenis produk overclaim slash scam semua ni kan. Hmm. Tapi zaman sekarang ni lah kan, especially kalau yang bandar, kalaupun dia bukan dalam bidang itu kan, kalaupun dia sendiri tak semak, paling kuat anak-anak dia, dia boleh rujukkan anak-anak dia lah kan. So betul juga kan, sebab macam saya, macam mak ayah saya kan, mereka sekolah pada jam 6 kan, mereka memang tak tahulah cek GPT, tak cek GPT semua ni kan, tapi semua dia rujuk kat kita orang tau. Jadi memang insyaAllah tak kena scam lah, tak pernah kena scam sepanjang hidup lah, mereka tak pernah kena scam sepanjang hidup. Jadi mungkin yang beria ni pun, kita selalunya kalau ada macam ini kita biarlah kita akan tuding jari kepada orang yang jual, marketer, semua tingkat. Yang ini undang-undang ada untuk ambil tindakan terhadap mereka kalau ada laporan, sebab memanglah setiap peranti perubatan itu kena dapat lesen. Yes, dia ada MDA, Medical Device Authority, pihak berkuasa peranti perubatan di bawah KKM. Sepatutnya memang dia kawal semua, tapi again lah, dia tetap akan ada. Jadi cara terbaik untuk mengelakkan benda ni ialah paling kurang kita tanya orang dulu lah. So scientifically ni, hydrogen ni kalau
 
 **Speaker ?:** letak kat mata je dia apa?
 
@@ -162,9 +154,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Okey, baik, kita akan sentuh juga tertentu sikit nanti. So siapa yang apa ni, beria sekali lagi ni? Mestilah tak ada gurau je, bukan dia lah, kepada yang buat macam tu lah. Okay, macam
 
-**Rafizi:** tak
-
-**Rafizi:** seronok je beria minggu ni.
+**Rafizi:** tak seronok je beria minggu ni.
 
 **Haziq:** Ni baru yang kedua, kita ada banyak sikit, YB pun ada. Oh, okay, alright, dah dua kali lah.
 
@@ -270,53 +260,31 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Dia kan dulu ni, saya rasa dah 10 tahun lepas, dia masuk award tetap. Jadi saya rasa ada sekali tu dia start, dia kata takpelah, masa untuk dia ke belakang bagi orang lain masuk. Kalau tak, dia juga menang. Eh tak, aku sebab tu kau tak
 
-**Rafizi:** boleh. Oh tak boleh buat paralel macam tu. Sebab Siti Nurhaliza, dia dengan rela hati menarik diri.
-
-**Rafizi:** Aku kena ban. Betul dekat. Kalau tidak, aku masuk.
-
-**Rafizi:** Masuk lagi.
-
-**Rafizi:** Menang lagi. Kalau tidak aku masuk, maksudnya jaki lagi. Eh, orang kata tak jaki lah. So okeylah, ini kali
+**Rafizi:** boleh. Oh tak boleh buat paralel macam tu. Sebab Siti Nurhaliza, dia dengan rela hati menarik diri. Aku kena ban. Betul dekat. Kalau tidak, aku masuk. Masuk lagi. Menang lagi. Kalau tidak aku masuk, maksudnya jaki lagi. Eh, orang kata tak jaki lah. So okeylah, ini kali
 
 **Speaker ?:** pertama aku menang kontes.
 
-**Rafizi:** Tanya hari ni, aku mana — in fact no, aku pernah menang kontes masa umur 20 tahun. Buat berdua. So aku tengah study untuk final exam, rasanya first year uni. Semasa itu orang dengar radio lah, zaman kita orang kan, mana ada streaming, semua ni dengar radio, local FM tu kan. Hmm. So dia ada kontes teka lagu.
+**Rafizi:** Tanya hari ni, aku mana — in fact no, aku pernah menang kontes masa umur 20 tahun. Buat berdua. So aku tengah study untuk final exam, rasanya first year uni. Semasa itu orang dengar radio lah, zaman kita orang kan, mana ada streaming, semua ni dengar radio, local FM tu kan. Hmm. So dia ada kontes teka lagu. Oh, okay. menyampah sebab dah tiga minggu tak ada orang boleh teka lagu. So aku pun tengah-tengah malam, dua pagi, aku call, beritahu. Lepas tu dia macam ditanyalah kan, apa nama ni, background sikit. Cakap lah, "I'm an engineering student." Wah, wah, engineer dengar radio. So aku dapat apa eh, aku dapat. Tapi memalukan lah maksudnya, semua orang tak boleh teka lagu tu, nampak sangat lagu tu tak mainstream. Aku seorang je kot yang pernah terdengar lagu tu kan.
 
-**Rafizi:** Oh, okay.
-
-**Rafizi:** menyampah sebab dah tiga minggu tak ada orang boleh teka lagu. So aku pun tengah-tengah malam, dua pagi, aku call,
-
-**Rafizi:** beritahu. Lepas tu dia macam ditanyalah kan, apa nama ni, background sikit. Cakap lah, "I'm an engineering student." Wah, wah, engineer dengar radio. So aku dapat apa eh, aku dapat. Tapi memalukan lah maksudnya, semua orang tak boleh teka lagu tu, nampak sangat lagu tu tak mainstream. Aku seorang je kot yang pernah terdengar lagu tu kan.
-
-**Haziq:** Okay baik, habis, sorry, masa untuk pilih.
-
-**Haziq:** So masa untuk pilih, susah ni.
+**Haziq:** Okay baik, habis, sorry, masa untuk pilih. So masa untuk pilih, susah ni.
 
 **Rafizi:** Oh susah, sebab macam jadi tak ada yang stand out sangat, kecuali yang last lah kot.
 
 **Haziq:** Apa dia? Takkan nak pilih diri sendiri, kau gila?
 
-**Rafizi:** Eh, macam tak pernah buat je.
-
-**Rafizi:** Tak boleh, tak boleh, tak boleh.
-
-**Rafizi:** Tak boleh buat lagi lah. Tak, aku tak adalah beria sangat masuk.
+**Rafizi:** Eh, macam tak pernah buat je. Tak boleh, tak boleh, tak boleh. Tak boleh buat lagi lah. Tak, aku tak adalah beria sangat masuk.
 
 **Haziq:** Yalah, tak adalah. Okey, okey, okey. Yalah, dia nampak very
 
 **Rafizi:** spontaneous lah. Aku rasa aku nak bagi dekat Takiuddin lah. Tahniah. Sebab Baitul Maqdis ni, kita menganggap perjuangan ini ibarat mempertahankan Baitul Maqdis. Itu berat tu, berat. Baik, pergi Baitul Maqdis terus. Hahaha. Baik.
 
-**Haziq:** Okay baby. Baik. Okay settle. Alright, itu beria baby. So next kita terus ke Hidup Keras. Okay lah, kita beria dalam setengah jam.
-
-**Haziq:** 40 minit.
+**Haziq:** Okay baby. Baik. Okay settle. Alright, itu beria baby. So next kita terus ke Hidup Keras. Okay lah, kita beria dalam setengah jam. 40 minit.
 
 **Rafizi:** 40 minit.
 
 **Haziq:** Sempena menyambut Hari Kemerdekaan, jadi kita ada satu topik. Itu topik berat ni.
 
-**Rafizi:** Berat lah. Tapi
-
-**Rafizi:** topik yang kita rasa demi negara, menjelang Hari Kemerdekaan, Hari Malaysia. Benda ni memang berulang-ulang dijadikan bahan politik lah. Yang bahan politik tu saya tak kisah sangat. Sebenarnya memang betul lah, kita dah nak masuk 70 tahun sebagai sebuah persekutuan kan. Jadi tak ramai yang bincang, dan oleh sebab itu banyak yang saya ingat perlukan dapat manfaat daripada pencerahan. Kalau kita habiskan sedikit masa, ini soal model persekutuan Malaysia.
+**Rafizi:** Berat lah. Tapi topik yang kita rasa demi negara, menjelang Hari Kemerdekaan, Hari Malaysia. Benda ni memang berulang-ulang dijadikan bahan politik lah. Yang bahan politik tu saya tak kisah sangat. Sebenarnya memang betul lah, kita dah nak masuk 70 tahun sebagai sebuah persekutuan kan. Jadi tak ramai yang bincang, dan oleh sebab itu banyak yang saya ingat perlukan dapat manfaat daripada pencerahan. Kalau kita habiskan sedikit masa, ini soal model persekutuan Malaysia.
 
 **Haziq:** Oh, very controversial.
 
@@ -536,11 +504,7 @@ Sebenarnya kenapa soalan saya tu — kenapa soal agihan kuasa perundangan tu sam
 
 **Haziq:** Ya.
 
-**Rafizi:** Dan yelah, sesak, boleh bertampung letak bandar tu. Itu perspektif yang tidak dilihat sebenarnya, bila ada jurang yang ini, kerajaan negeri tak fikir, tau. Kerajaan negeri macam Kedah ke, Kelantan Terengganu, dia letak atas bas, dia pergi hantar kat Selangor, dia fly off — dia fly off lagi kan, pergi hantar kat Selangor kan, apa nama ni, dia sebenarnya akan mewujudkan masalah baru, kerana satu, macam kau cakap lah, migration akan menyebabkan kurangnya tenaga kerja di negeri-negeri tersebut. Bila kurangnya tenaga kerja, dia akan ada kesan kepada aktiviti ekonomi. Pada masa yang sama, dia juga akan ada kesan kepada consumption. Kerana pasaran itu, I mean, market is made of people who buy, kan. Orang yang ada itulah yang mewujudkan permintaan kepada sesuatu. Kalau tak ada orang, dia orang semua pergi duduk kajian alam, susah lah. So dia ada kesan kepada negeri itu, kerana kegagalan untuk merancakkan ekonomi itu menyebabkan berlaku migration. Negeri itu ada kesan, dan negeri yang menerima itu pun ada kesan, kerana kepadatan — dia akan jadi stress to the system lah. So itu satu lagi yang berbahaya bila berlaku jurang perbezaan. Apa lagi yang berbahaya? Hmm. Jurang. Hmm. Satu lagi ialah dia tidak berlaku adil kepada pembayar cukai. Dia tidak berlaku adil kepada pembayar cukai. So kalau tak berhati-hati, dia mewujudkan satu vicious cycle. Kitaran yang... vicious cycle dalam bahasa Melayu apa dia? Kitaran... kitaran zalim, kitaran kejam. What is vicious cycle? Vicious cycle. Kau... kitaran kejam betul lah. Betul, kitaran kejam. Hmm, nambah engkau, kan? Nambah
-
-**Rafizi:** engkau.
-
-**Rafizi:** Terima kasih. Hmm, okey. Tetapi ganas adalah berguna. So, dia mewujudkan vicious cycle yang mana, oleh kerana jurang ini diakibatkan oleh pertumbuhan ekonomi yang lebih rendah di negeri-negeri yang lebih mundur, maka di dalam sebuah persekutuan seperti Malaysia, negeri-negeri itu akan terus meminta peruntukan demi peruntukan dan subsidi demi subsidi untuk dibuat — peruntukan tambahan daripada kerajaan persekutuan kan. So itu akan menyebabkan kerajaan persekutuan mengutip cukai daripada kawasan-kawasan ataupun negeri-negeri yang menjana pendapatan kerajaan persekutuan, tetapi tidak dapat berlaku adil dipulangkan kepada orang-orang itu — dipindahkan kepada tempat-tempat lain untuk mengimbangi jurang itu. Itu risiko kedua. Ethically, dia soal equitable share of the national taxpayer's money. Yang ketiga apa dia? So tadi, stress on, apa nama ni, infrastructure — efek dia kan. Kedua ialah soal economic justice. Yang ketiga...
+**Rafizi:** Dan yelah, sesak, boleh bertampung letak bandar tu. Itu perspektif yang tidak dilihat sebenarnya, bila ada jurang yang ini, kerajaan negeri tak fikir, tau. Kerajaan negeri macam Kedah ke, Kelantan Terengganu, dia letak atas bas, dia pergi hantar kat Selangor, dia fly off — dia fly off lagi kan, pergi hantar kat Selangor kan, apa nama ni, dia sebenarnya akan mewujudkan masalah baru, kerana satu, macam kau cakap lah, migration akan menyebabkan kurangnya tenaga kerja di negeri-negeri tersebut. Bila kurangnya tenaga kerja, dia akan ada kesan kepada aktiviti ekonomi. Pada masa yang sama, dia juga akan ada kesan kepada consumption. Kerana pasaran itu, I mean, market is made of people who buy, kan. Orang yang ada itulah yang mewujudkan permintaan kepada sesuatu. Kalau tak ada orang, dia orang semua pergi duduk kajian alam, susah lah. So dia ada kesan kepada negeri itu, kerana kegagalan untuk merancakkan ekonomi itu menyebabkan berlaku migration. Negeri itu ada kesan, dan negeri yang menerima itu pun ada kesan, kerana kepadatan — dia akan jadi stress to the system lah. So itu satu lagi yang berbahaya bila berlaku jurang perbezaan. Apa lagi yang berbahaya? Hmm. Jurang. Hmm. Satu lagi ialah dia tidak berlaku adil kepada pembayar cukai. Dia tidak berlaku adil kepada pembayar cukai. So kalau tak berhati-hati, dia mewujudkan satu vicious cycle. Kitaran yang... vicious cycle dalam bahasa Melayu apa dia? Kitaran... kitaran zalim, kitaran kejam. What is vicious cycle? Vicious cycle. Kau... kitaran kejam betul lah. Betul, kitaran kejam. Hmm, nambah engkau, kan? Nambah engkau. Terima kasih. Hmm, okey. Tetapi ganas adalah berguna. So, dia mewujudkan vicious cycle yang mana, oleh kerana jurang ini diakibatkan oleh pertumbuhan ekonomi yang lebih rendah di negeri-negeri yang lebih mundur, maka di dalam sebuah persekutuan seperti Malaysia, negeri-negeri itu akan terus meminta peruntukan demi peruntukan dan subsidi demi subsidi untuk dibuat — peruntukan tambahan daripada kerajaan persekutuan kan. So itu akan menyebabkan kerajaan persekutuan mengutip cukai daripada kawasan-kawasan ataupun negeri-negeri yang menjana pendapatan kerajaan persekutuan, tetapi tidak dapat berlaku adil dipulangkan kepada orang-orang itu — dipindahkan kepada tempat-tempat lain untuk mengimbangi jurang itu. Itu risiko kedua. Ethically, dia soal equitable share of the national taxpayer's money. Yang ketiga apa dia? So tadi, stress on, apa nama ni, infrastructure — efek dia kan. Kedua ialah soal economic justice. Yang ketiga...
 
 **Haziq:** pertumbuhan itself dekat tempat yang ditinggalkan tu. Bila semua orang tak nak duduk Kelantan atau Terengganu — yelah, okey, itu kita dah tahulah.
 
@@ -612,9 +576,7 @@ Sebenarnya kenapa soalan saya tu — kenapa soal agihan kuasa perundangan tu sam
 
 **YB:** Aa, itu agak optimis untuk kita devolve dengan memberikan ruang fiskal untuk kutip cukai semua kepada negeri. Tapi melihatkan kepada praktis apa yang berlaku sekarang — sebagai contoh, ini observation saya, tak tahu good comparison atau tak — Akta Sisa Pepejal contohnya, negeri-negeri ini masih banyak yang sign up untuk serahkan kepada federal untuk uruskan...
 
-**Rafizi:** ...aset.
-
-**Rafizi:** Air itu melalui wasiah diserahkan kepada federal juga supaya dapat diurus semua tu kan. Maksudnya pergantungan kepada federal walaupun sebenarnya itu adalah bidang-bidang kuasa PBT atau kerajaan negeri. Maksudnya pelaksanaan sekarang ini pun banyak benda-benda yang dalam bidang kuasa kerajaan negeri ataupun PBT ini diserahkan, ada pergantungan yang tinggi dengan kerajaan persekutuan. Jadi dalam keadaan kita nak bagi lebih banyak lagi bidang kuasa selepas ini, macam mana nak make it reality? Tak boleh, sebab sekarang ini it's not outcome oriented, it's not benchmark to outcome. Jadi pengurusan air itu lain ceritanya. Wasiah itu memang dia kembali kepada soal economies of scale. Bidang kuasa air contohnya, sebelum ini adalah di bawah kerajaan-kerajaan negeri. Tapi kerajaan negeri on their own is too small untuk dia pergi raise duit hasil air untuk buat pelaburan air jangka panjang. Jadi kalau masing-masing buat sikit-sikit dalam silo semua, ia jadi lagi mahal. Ini zaman saya ingat, mendiang Tun Lim Keng Yaik dulu I think. So the logic adalah untuk industri utility yang memerlukan pelaburan besar macam itu, scale is important. Sebab itu diserahkan — apa nama ni — loji memproses air di bawah PUB, dengan sokongan kerajaan persekutuan boleh raise bond dan kerajaan negeri membayar sewa loji-loji ini. So itu satu model kan.
+**Rafizi:** ...aset. Air itu melalui wasiah diserahkan kepada federal juga supaya dapat diurus semua tu kan. Maksudnya pergantungan kepada federal walaupun sebenarnya itu adalah bidang-bidang kuasa PBT atau kerajaan negeri. Maksudnya pelaksanaan sekarang ini pun banyak benda-benda yang dalam bidang kuasa kerajaan negeri ataupun PBT ini diserahkan, ada pergantungan yang tinggi dengan kerajaan persekutuan. Jadi dalam keadaan kita nak bagi lebih banyak lagi bidang kuasa selepas ini, macam mana nak make it reality? Tak boleh, sebab sekarang ini it's not outcome oriented, it's not benchmark to outcome. Jadi pengurusan air itu lain ceritanya. Wasiah itu memang dia kembali kepada soal economies of scale. Bidang kuasa air contohnya, sebelum ini adalah di bawah kerajaan-kerajaan negeri. Tapi kerajaan negeri on their own is too small untuk dia pergi raise duit hasil air untuk buat pelaburan air jangka panjang. Jadi kalau masing-masing buat sikit-sikit dalam silo semua, ia jadi lagi mahal. Ini zaman saya ingat, mendiang Tun Lim Keng Yaik dulu I think. So the logic adalah untuk industri utility yang memerlukan pelaburan besar macam itu, scale is important. Sebab itu diserahkan — apa nama ni — loji memproses air di bawah PUB, dengan sokongan kerajaan persekutuan boleh raise bond dan kerajaan negeri membayar sewa loji-loji ini. So itu satu model kan.
 
 Sisa pepejal ni lain sikit lah kan. Sisa pepejal ini sebahagiannya kerana kerajaan negeri masing-masing memang tak berani nak menaikkan cukai pintu, kerana naikkan cukai pintu itu akan menyebabkan pengundi marah, takut hilang undi. Jadi dia tak naikkan cukai pintu, sedangkan kos untuk mengendalikan kutipan sampah itu makin naik dan makin naik. Dia pun serah baliklah kepada kerajaan persekutuan, contohnya kan. Cuma saya rasa sisa pepejal itu could have been done much better, kerana pengurusan sisa pepejal — kecuali kalau nak tubuhkan waste-to-energy plant ke apa — capital investment untuk waste management ni tidaklah sebesar contohnya air.
 
@@ -722,12 +684,4 @@ Ambil contoh kes Datuk Seri Ismail Sabri tadi — benda tu dah, apa nama ni, dik
 
 **Farhan (Pa'an):** Sebab takkanlah tukar last minute. Tak, Maps... Maps lain, dia ada dua nama tempat tu. Pula ada betul, perkarangan persatuan penganut Dewa Kuanti, ataupun di Maps adalah Zilinggong Temple. Oh, temple.
 
-**Rafizi:** Lepas ni ada orang buat fitnah baru, cakap aku pergi tokong. Banyak-banyak tempat korang pilih, korang buat. Tapi PKR dulu-dulu macam tu juga, dia tak ada tempat kan. Jadi akhirnya, ada satu kongres tu, lupa kongres tahun bila, tahun 2004 ke... 2004 lah. 2004 ke 2004. Kongres di 2004 itu rasanya memang di tokong di Ipoh. Jadi kalau siapa-siapalah, tadi certified Walanon ke apa, nak cakap serang kata kita orang pergi ke tokong, korang pun dulu masa
-
-**Rafizi:** susah nak dapat tempat, semua pun berceramah dekat sekitar tokong juga. Tapi memang dia buat
-
-**Rafizi:** itu memang targeted untuk Chinese voters juga. Di kesidang pun memang majoriti China. Jadi
-
-**Rafizi:** jumpa kami esok di Melaka. Satu hari sekali lagi, beginilah rutin kita, selagi domestic violence, keganasan rumah tangga ini tidak berakhir dengan kematian seseorang. Sama kan? Susah kalau tidak, pilihan raya ini dia tak dipanggil sampai ke sudah kan? Jadi kita orang macam ni, tujuh hari seminggu non-stop kan? Baik, WB. Itu saja. Kita jumpa lagi esok.
-
-**Rafizi:** Assalamualaikum. Selamat malam. Dan selamat... Eh! Eh, alah, kena marah ke orang lah. Apa dia? Ya, itulah baru teringat. Ini long weekend, selamat bercuti, dan yang lebih penting, dia long weekend yang bermakna hanya kerana kita bekerja tujuh hari seminggu berkempen dan tak ingat dah cuti mana. YouTube Sudirman. Patutlah ada YouTube Sudirman non-stop. Sebab Merdeka. Terima kasih. Assalamualaikum, selamat malam. Merdeka!
+**Rafizi:** Lepas ni ada orang buat fitnah baru, cakap aku pergi tokong. Banyak-banyak tempat korang pilih, korang buat. Tapi PKR dulu-dulu macam tu juga, dia tak ada tempat kan. Jadi akhirnya, ada satu kongres tu, lupa kongres tahun bila, tahun 2004 ke... 2004 lah. 2004 ke 2004. Kongres di 2004 itu rasanya memang di tokong di Ipoh. Jadi kalau siapa-siapalah, tadi certified Walanon ke apa, nak cakap serang kata kita orang pergi ke tokong, korang pun dulu masa susah nak dapat tempat, semua pun berceramah dekat sekitar tokong juga. Tapi memang dia buat itu memang targeted untuk Chinese voters juga. Di kesidang pun memang majoriti China. Jadi jumpa kami esok di Melaka. Satu hari sekali lagi, beginilah rutin kita, selagi domestic violence, keganasan rumah tangga ini tidak berakhir dengan kematian seseorang. Sama kan? Susah kalau tidak, pilihan raya ini dia tak dipanggil sampai ke sudah kan? Jadi kita orang macam ni, tujuh hari seminggu non-stop kan? Baik, WB. Itu saja. Kita jumpa lagi esok. Assalamualaikum. Selamat malam. Dan selamat... Eh! Eh, alah, kena marah ke orang lah. Apa dia? Ya, itulah baru teringat. Ini long weekend, selamat bercuti, dan yang lebih penting, dia long weekend yang bermakna hanya kerana kita bekerja tujuh hari seminggu berkempen dan tak ingat dah cuti mana. YouTube Sudirman. Patutlah ada YouTube Sudirman non-stop. Sebab Merdeka. Terima kasih. Assalamualaikum, selamat malam. Merdeka!

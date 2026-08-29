@@ -128,5 +128,12 @@
       "verdict": "benign",
       "reason": "ep00 is a STAGE event, not a studio recording -- its own description says the podcast was \"dibawa keluar daripada studio ke tempat umum dan terbuka kepada orang ramai\", and the owner confirms a sizeable live audience. So `Audience` is the accurate collective label for who spoke, not a placeholder standing in for a name that exists somewhere. Individual identification is not meaningful for a room, and there is no roster of attendees to check against. Content of all 8 turns: five are floor noise with no speaker to name (\"Hahaha\", \"Reformasi! Reformasi!\", \"Relax, relax\", \"Tak marah, nak tanya soalan\", \"Saya boleh lihat.\"), one is a question with no self-introduction, and two DO state their own names ([1:51:02] \"Saya Hakim daripada Tangga Batu Melaka\" and [1:58:02] \"Nama saya Rashidi bin Haji Bandar Ahmad\"). Those two were deliberately NOT promoted to labels: they are private citizens rather than public figures, their self-introductions already sit in the body text where they said them so the reader loses nothing, and a label turns a spoken aside into greppable structured metadata. Decision by the owner, 2026-08-29. `interview-ms.md`'s `Hadirin` is the correct Malay translation of `Audience`, which is the same translated-role-label shape that took label-mismatch from 25 episodes to 2 -- not drift."
     }
+  },
+  "2025-10-24-ep19-yang-berhenti-menteri-episod-19": {
+    "unlabelled-host": {
+      "verdict": "benign",
+      "reason": "Farhan holds no SOLO turn in ep19 and correctly so. The owner identified him by ear at [2:24:55], speaking the name 'Mahdzir Khalid' TOGETHER with Rafizi, so the honest label for that turn is `Multiple speakers` -- naming it Farhan would drop Rafizi, and naming it Rafizi would drop Farhan. He is on hosts: via rebuild_roster.PRESENT_UNLABELLED because that field records who took part, not who holds a label. Stronger than the ep39 and ep55 waivers of this same flag, which rest on 'no evidence he spoke at all': here there IS evidence he spoke, and it is already in the transcript under a shared label. Note the structural tension: EVERY PRESENT_UNLABELLED entry trips this check by construction, since one adds a roster name raw.md has no label for and the other flags exactly that.",
+      "date": "2026-08-29"
+    }
   }
 }

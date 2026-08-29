@@ -395,9 +395,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Nik Nazmi:** BA. PKR and PAS — I think Hasan Ali inserted that, and we signed off on it.
 
-**Rafizi:** Oh, that's why it had to be there.
-
-**Rafizi:** So I think 2008 was mostly because of internal splits within UMNO. But then again, every election result is not necessarily about the strength of the winner. It's also dynamic — competition, the weakness of your opponent.
+**Rafizi:** Oh, that's why it had to be there. So I think 2008 was mostly because of internal splits within UMNO. But then again, every election result is not necessarily about the strength of the winner. It's also dynamic — competition, the weakness of your opponent.
 
 **Nik Nazmi:** Their defense was weak.
 

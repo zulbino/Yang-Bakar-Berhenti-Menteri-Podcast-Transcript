@@ -2860,3 +2860,62 @@ roster** (the owner places Farhan at 2:24:55, but raw never labels him and
 `rebuild_roster.py` derives hosts FROM those labels, so it cannot discover him), and
 **ep41's three retimed blocks**, whose labels remain shredded mid-sentence against captions
 that hold 2:52:19-2:52:34 as one voice.
+
+### 2.7: Turns the diarizer split at pauses, and a heuristic that tested at 14%
+
+The diarizer cuts on silence, not on speaker changes, so one person's continuous speech
+arrives as several turns under one name. ep41 shipped this:
+
+    [2:53:13] Rafizi: ... Pasal perubahan iklim 10 15 tahun
+    [2:54:43] Rafizi: Aku
+    [2:54:44] Rafizi: orang cakap pasal Climate change ...
+
+"Aku" is the first word of the sentence below it. Nothing in the pipeline ever merged these
+-- 707 runs in raw.md across 45 of 68 episodes, and **1,175 runs across 185 of the 204
+published files**, so the reader-facing files were worse than raw. 2,924 turns merged.
+
+**Checked before writing, because merging grows a block's measured span.** `wall-of-text`
+is gated on a block holding more than one inline turn marker and a merged block holds
+exactly one, so it cannot fire. `oversized-block` reads wall-clock span, which does grow
+for 15 episodes -- simulated across all 68 and **zero** cross the 20-minute threshold. The
+real cost is seek points: ep26's 14-turn Rafizi run becomes one block with one timestamp.
+
+**The owner asked whether `Speaker ?` could be guessed from context -- "usually its
+rafizi". It is the right intuition about the corpus and the wrong one about these turns,
+and their own adjudications prove it.** Of 44 turns they had just identified, Rafizi was 24
+(55%), so blind guessing is wrong 45% of the time. The structural version does far worse:
+of 7 unknown turns sitting between two turns by the SAME person, predicting that person
+was right **once**, and that one was really three speakers.
+
+    ep53 11:41    Rafizi | ? | Rafizi  ->  Haziq
+    ep53 34:39    Rafizi | ? | Rafizi  ->  Haziq
+    ep53 1:58:48  Rafizi | ? | Rafizi  ->  Farhan
+    ep53 2:59:47  Rafizi | ? | Rafizi  ->  Multiple speakers
+    ep19 1:43:04  Rafizi | ? | Rafizi  ->  Haziq
+
+14%, worse than ignoring the neighbours entirely. The reason is that these are not a random
+sample: **a turn becomes an unknown cluster precisely because the diarizer heard something
+the neighbours are not.** Same mechanism that made `name_published_placeholders.py` score
+ep41's turn Rafizi 3/3 on a turn opening "YB, sedikit soalan" when Rafizi IS the YB.
+
+So the resolution was structural rather than a guess: fold only **backchannel** -- laughter
+and acknowledgement tokens, 93 of them -- into the preceding named turn, where being wrong
+costs nothing a reader relies on, and leave every turn carrying a proposition as
+`Speaker ?`. The filter is deliberately narrow, and single words that look small are
+excluded on purpose: `0.017` is a figure, `Forward` and `Juali` are content, and
+`Saya boleh lihat.` recurs six times across five episodes as somebody's actual sentence.
+
+**Adding Farhan to ep19's roster immediately raised `unlabelled-host`, by construction.**
+`rebuild_roster.PRESENT_UNLABELLED` exists to add a person raw.md never labels;
+`unlabelled-host` flags exactly that. Every entry in the one trips the other. Waived with
+the strongest evidence of the three such waivers: ep39 and ep55 rest on "no evidence he
+spoke at all", whereas ep19's Farhan demonstrably spoke -- jointly with Rafizi at
+[2:24:55], already in the transcript under `Multiple speakers`.
+
+**Disk.** The repo was 14 GB, `audio/` all of it: 8.2 GB of decoded 16 kHz WAVs that
+`verify_speaker_voiceprint.load_audio()` rebuilds with ffmpeg whenever one is missing.
+`cleanup_scratch.py` frees them and keeps both sources -- the .m4a because re-downloading
+needs yt-dlp plus the PO-token server plus YouTube's cooperation, and the .vtt because 63 MB
+of captions are the ground truth behind every timing check. It refuses to run while a gate
+is mid-flight: `data/_*_incumbent` is not a leftover then, it is the only copy of the
+published files a losing candidate would be restored from.

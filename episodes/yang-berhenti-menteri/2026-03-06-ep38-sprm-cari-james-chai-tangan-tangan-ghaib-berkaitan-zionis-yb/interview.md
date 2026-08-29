@@ -472,9 +472,7 @@ Jadi bacaan saya setakat ini, Takiyuddin akan setuju. Sebab PN pun sampai ke sud
 
 **Haziq:** Ha.
 
-**Rafizi:** Soalan itu terang lagi bersuluhlah YB, tapi itu saya rasa akhirnya kita nak tahu PMX apa yang takut sangat dengan Azam Baki? Tapi bila kita tengok apa yang perkembangan mutakhir ini, macam-macam cerita keluar. Ada dakwaan daripada PM ada konspirasi untuk menjatuhkan kerajaan melibatkan Zionis, kemudian Toh Puan Na'imah. Tapi kalau cakap kan dia orang kata YB back up pula kan?
-
-**Rafizi:** Tak apa, cakap aje lah.
+**Rafizi:** Soalan itu terang lagi bersuluhlah YB, tapi itu saya rasa akhirnya kita nak tahu PMX apa yang takut sangat dengan Azam Baki? Tapi bila kita tengok apa yang perkembangan mutakhir ini, macam-macam cerita keluar. Ada dakwaan daripada PM ada konspirasi untuk menjatuhkan kerajaan melibatkan Zionis, kemudian Toh Puan Na'imah. Tapi kalau cakap kan dia orang kata YB back up pula kan? Tak apa, cakap aje lah.
 
 **Haziq:** Dikatakan nak menjatuhkan kerajaan. So dia jadi semakin lama semakin first deja vu lah, kita pernah dengar benda ni dan dia jadi macam merepek sebab eh semua kena kecuali tetamu kita tu.
 
@@ -614,9 +612,7 @@ Jadi bacaan saya setakat ini, Takiyuddin akan setuju. Sebab PN pun sampai ke sud
 
 **Rafizi:** Ha, sejam 50 minit kan. Jadi yang dua lagi tu kita simpanlah. Ha, James Bond.
 
-**Haziq:** Dia ada banyak persoalanlah YB. Antara orang agak frustrated sebab biasanya pergaduhan ni antara ahli politik dengan ahli politik, tapi ini mungkin setelah dah berapa lama tak ada, seorang private citizen diserang dan diintimidasi seperti inilah. Cuma saya agak menarik dengan kenyataan YB — yang mana aku punya parodi?
-
-**Haziq:** Parodi satu, tapi yang SPRM cari tu, saya rasa sebelum tu kita pergi ke situ. Dan ramai marah jugalah. Sibuk-sibuk...
+**Haziq:** Dia ada banyak persoalanlah YB. Antara orang agak frustrated sebab biasanya pergaduhan ni antara ahli politik dengan ahli politik, tapi ini mungkin setelah dah berapa lama tak ada, seorang private citizen diserang dan diintimidasi seperti inilah. Cuma saya agak menarik dengan kenyataan YB — yang mana aku punya parodi? Parodi satu, tapi yang SPRM cari tu, saya rasa sebelum tu kita pergi ke situ. Dan ramai marah jugalah. Sibuk-sibuk...
 
 **Rafizi:** Siapa yang marah, Ceplos?
 

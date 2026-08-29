@@ -399,9 +399,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Nazri:** Okey guys, terima kasih banyak-banyak. Terima kasih YB dan juga terima kasih Profesor kerana sudi hadir.
 
-**Rafizi:** Tapi nanti dia orang kata tak bakar tu. Cukup bakar ke?
-
-**Rafizi:** Tidak, saya rasa kamu tahu ia macam — saya harap dengan masa lah kan, rakyat kita yang mendengarlah, berapa banyak yang mendengar, faham sebenarnya kita kat sini bukan nak bergaduh.
+**Rafizi:** Tapi nanti dia orang kata tak bakar tu. Cukup bakar ke? Tidak, saya rasa kamu tahu ia macam — saya harap dengan masa lah kan, rakyat kita yang mendengarlah, berapa banyak yang mendengar, faham sebenarnya kita kat sini bukan nak bergaduh.
 
 **Nazri:** Betul, kita nak berbincang secara ilmiah.
 

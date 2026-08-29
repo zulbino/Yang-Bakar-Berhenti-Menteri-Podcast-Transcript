@@ -10,6 +10,10 @@ transformers
 soundfile
 silero-vad
 
+# voiceprint scoring, see scripts/verify_speaker_voiceprint.py -- arrives transitively with
+# torch anyway, declared because that script imports it directly
+numpy
+
 # speaker diarization for local-ASR episodes, see scripts/lib_diarization.py
 # -- needs a Hugging Face token with access to the gated pyannote/speaker-diarization-3.1
 # and pyannote/segmentation-3.0 models (accept terms at huggingface.co for both)

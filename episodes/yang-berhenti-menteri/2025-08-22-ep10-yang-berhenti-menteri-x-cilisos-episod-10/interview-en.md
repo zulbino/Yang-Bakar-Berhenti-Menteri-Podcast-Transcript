@@ -286,9 +286,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Iqbal:** Was 2009 around the time of the Kajang Move?
 
-**Rafizi:** Around — no. Kajang Move was 2014. That's much later.
-
-**Rafizi:** Then I think after that, there was some reason — I remember around 2011, 2012 he disappeared. He just disappeared, not much happening there. So between 2009 and 2018, well, until Datuk Seri Anwar went back to prison in 2015, right. So between 2009 and 2012, I was more or less his Chief of Staff when I was CEO in Selangor, as an advisor to Datuk Seri Anwar, an economic advisor for Selangor, right. So until he went back to prison in 2015, Farhash didn't have the kind of major influence that we see now — none at all. After Farhash finished his stint in the Youth wing, that was basically it for him there. He only reappeared when Datuk Seri Anwar came out of prison in 2018.
+**Rafizi:** Around — no. Kajang Move was 2014. That's much later. Then I think after that, there was some reason — I remember around 2011, 2012 he disappeared. He just disappeared, not much happening there. So between 2009 and 2018, well, until Datuk Seri Anwar went back to prison in 2015, right. So between 2009 and 2012, I was more or less his Chief of Staff when I was CEO in Selangor, as an advisor to Datuk Seri Anwar, an economic advisor for Selangor, right. So until he went back to prison in 2015, Farhash didn't have the kind of major influence that we see now — none at all. After Farhash finished his stint in the Youth wing, that was basically it for him there. He only reappeared when Datuk Seri Anwar came out of prison in 2018.
 
 **Iqbal:** But what do you mean by "major influence"? Since he doesn't hold any official position...
 
@@ -758,9 +756,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Iqbal:** Someone asked, what's the status of PADU right now?
 
-**Rafizi:** PADU is 100% operational.
-
-**Rafizi:** When we tabled PADU and got the directive to build it, it was because the diagnosis showed two or three needs for why we required one main, integrated database. First, actually in terms of cost, more than anything else — which the public outside might not understand.
+**Rafizi:** PADU is 100% operational. When we tabled PADU and got the directive to build it, it was because the diagnosis showed two or three needs for why we required one main, integrated database. First, actually in terms of cost, more than anything else — which the public outside might not understand.
 
 **Iqbal:** What does that mean?
 
@@ -884,15 +880,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Iqbal:** Okay. Then the final question.
 
-**Chak Onn Lau:** The final question, huh? Okay. One more.
-
-**Chak Onn Lau:** Okay, so it was the first question we asked and it's the last question we're asking. You wrote in your MCKK profile before, the debate profile like...
+**Chak Onn Lau:** The final question, huh? Okay. One more. Okay, so it was the first question we asked and it's the last question we're asking. You wrote in your MCKK profile before, the debate profile like...
 
 **Rafizi:** Eh, the guy who put that up there has already passed away, you know, go ask him.
 
-**Chak Onn Lau:** Wanted to become PM. If you could, if you would...
-
-**Chak Onn Lau:** Okay, before that, I had one follow-up question before that. If you were to choose — if you had the choice of whichever ministry you wanted to take over in the future — which one would it be? I had a bet with one of your guys about which ministry you would pick.
+**Chak Onn Lau:** Wanted to become PM. If you could, if you would... Okay, before that, I had one follow-up question before that. If you were to choose — if you had the choice of whichever ministry you wanted to take over in the future — which one would it be? I had a bet with one of your guys about which ministry you would pick.
 
 **Rafizi:** You see, you see...
 

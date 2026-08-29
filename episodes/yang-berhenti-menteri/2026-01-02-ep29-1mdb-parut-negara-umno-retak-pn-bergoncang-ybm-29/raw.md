@@ -30,9 +30,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [02:32] Rafizi: Running off script in the first one minute Nasab balik Nasab balik, nasab balik, nasab balik Running off Dia tak payah panjang asal-asal datang semua. Cuba buatnya seberapa berbual.
 
-[02:52] Farhan (Pa'an): Haziq, aku cabar kau cakap ho-ho-ho. Tak boleh ulang
-
-[02:55] Farhan (Pa'an): lah.
+[02:52] Farhan (Pa'an): Haziq, aku cabar kau cakap ho-ho-ho. Tak boleh ulang lah.
 
 [02:59] Rafizi: Okay, kita dah bersedia
 
@@ -56,19 +54,13 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [03:37] Rafizi: sengaja tak tak, I just want to fit I thought that I could fit dalam baju Melayu ni yang ni tahun 2023 it's quite obvious I'm still fat lah kan
 
-[03:49] Iqbal: saya masih terbatuk sebab tu saya pilih baju yang long long sikit
-
-[03:52] Iqbal: Iqbal
+[03:49] Iqbal: saya masih terbatuk sebab tu saya pilih baju yang long long sikit Iqbal
 
 [03:53] Rafizi: berjangkit dari
 
-[03:54] Iqbal: YB minggu
+[03:54] Iqbal: YB minggu lepas tu tapi tak apa, kali ni kita ada deflame banyak-banyak ni batuk yang
 
-[03:55] Iqbal: lepas tu tapi tak apa, kali ni kita ada deflame banyak-banyak ni batuk yang
-
-[03:58] Rafizi: masa bangun, masa tidur terbangunkah? Alhamdulillah
-
-[04:02] Rafizi: tidak
+[03:58] Rafizi: masa bangun, masa tidur terbangunkah? Alhamdulillah tidak
 
 [04:03] Haziq: yang akan mula lepas bangun? Because
 
@@ -80,9 +72,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 
 
-[04:14] Haziq: much better. Okay lepas saya, Haziq pula lepas ni.
-
-[04:18] Haziq: YB sebelum kita mula YB, tahun baru. YB malam tahun baru dekat mana?
+[04:14] Haziq: much better. Okay lepas saya, Haziq pula lepas ni. YB sebelum kita mula YB, tahun baru. YB malam tahun baru dekat mana?
 
 [04:24] Rafizi: Dia tengah tengok Apa nama ni Bukan New Scotland Yang files dekat YouTube Apa kes dia I think KSU murder in the village. Ada one village kat mana kat UK.
 
@@ -96,47 +86,27 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [05:08] Haziq: toilet. Jadi ada... Too much details. Maybe tak payah share. But that is first time lah boleh guna lawak hamba tu kan. Okay. Masuk toilet semua. Sorry, how about you kebal? Saya tengok...
 
-[05:20] Rafizi: It's not a good connotation. Masuk toilet fireworks. Patutnya you masuk 11...
+[05:20] Rafizi: It's not a good connotation. Masuk toilet fireworks. Patutnya you masuk 11... Selama 2 tahun lah. Ya. Next year baru keluar. Oh, I didn't get it. Ini
 
-[05:26] Rafizi: Selama 2 tahun
-
-[05:27] Rafizi: lah. Ya. Next year baru keluar. Oh, I didn't get it. Ini
-
-[05:32] Haziq: daddy joke tu lah. Hambah sangat. Hambah sikit lah. Masuk
-
-[05:36] Haziq: 11.58 keluar Oh ya
+[05:32] Haziq: daddy joke tu lah. Hambah sangat. Hambah sikit lah. Masuk 11.58 keluar Oh ya
 
 [05:41] Iqbal: Saya tengok Avatar punya movie Yang terbarunya Okay Avatar, sekarang dah Avatar 3. Dah ketiga. Selepas.
 
-[05:49] Rafizi: Dia panjang sangat lah. Even Avatar 2 tak tengok.
+[05:49] Rafizi: Dia panjang sangat lah. Even Avatar 2 tak tengok. Haa,
 
-[05:52] Rafizi: Haa,
-
-[05:52] Iqbal: itulah. Dia. Dia panjang. 13 tahun antara yang pertama dan
-
-[05:55] Iqbal: kedua. Lepas
-
-[05:56] Iqbal: tu, 3 tahun antara yang kedua dan ketiga. Tapi, okeylah. Berbaloi.
+[05:52] Iqbal: itulah. Dia. Dia panjang. 13 tahun antara yang pertama dan kedua. Lepas tu, 3 tahun antara yang kedua dan ketiga. Tapi, okeylah. Berbaloi.
 
 [06:01] Rafizi: So it's like age is catching up with everyone Because as you grow older Aku tak rasa it's worth the jam going to KLCC ke apa lah Boleh tengok kat YouTube je fireworks
 
-[06:14] Haziq: kan Hmm Okay, YB jom kita tengok apa yang ada pada minggu ini dalam episod yang 29 segmen pertama. Beriamat Kita ada beberapa lah YB ya
-
-[06:26] Haziq: Hmm
-
-[06:28] Haziq: lama kita ada jangan hamba eh insyaAllah saya jumpa kan kalah pemilihan KRT ambil semula sumbangan ni kat mana ni ni kat Indonesia Sulawesi sejak
+[06:14] Haziq: kan Hmm Okay, YB jom kita tengok apa yang ada pada minggu ini dalam episod yang 29 segmen pertama. Beriamat Kita ada beberapa lah YB ya Hmm lama kita ada jangan hamba eh insyaAllah saya jumpa kan kalah pemilihan KRT ambil semula sumbangan ni kat mana ni ni kat Indonesia Sulawesi sejak
 
 [06:38] Rafizi: apa terjadi ni ini memang hamba lah that means that korang tak jumpa yang kat Malaysia Indonesia apa Indonesia lah
 
-[06:46] Farhan (Pa'an): tapi cerita dia kelakar
-
-[06:47] Farhan (Pa'an): sangat
+[06:46] Farhan (Pa'an): tapi cerita dia kelakar sangat
 
 [06:48] Rafizi: kelakar
 
-[06:49] Farhan (Pa'an): Haziq boleh ceritakan
-
-[06:50] Farhan (Pa'an): yelah
+[06:49] Farhan (Pa'an): Haziq boleh ceritakan yelah
 
 [06:51] Rafizi: hari Sabtu tu dia kalah pemilihan hari Ahad tu dia dengan kawan-kawan dia terus pergi balik surau yang dia bagi sumbangan tu keluarkan mimba tu tapi dia bukannya nak bawa keluar pun dia sorokkan sama-sama dalam masjid juga untuk orang tak guna. Dia letak bawah pokok lah. Dekat Indonesia apa ada KRT juga? Nama dia memang Ketua Rukun Tetangga. Rukun Tetangga lah.
 
@@ -148,15 +118,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [07:26] Rafizi: Dia, aku akan komen panjang. Kecualilah benda ni kat Malaysia, kat Pandan ke apa kan. Ini kat Indonesia. So I was, apa nama ni, kita pun ada juga KRT. Rukun Tetangga ni kan. Tapi ini bunyi tak cantik sikit lah. Tapi selalunya kalau kat Malaysia ni geng KRT, dia tak campur dengan geng Surau. So sebab tu mula-mula aku tengok ni, wah. Takkanlah kat sini. Selalunya separate group tu kan Kalau kat Malaysia Okay. Baik, YB. Hambar.
 
-[08:06] Haziq: Tak cukup, YB. Tak. No, sebab Indonesia. Indonesia.
-
-[08:10] Haziq: Baru mendunia.
-
-[08:11] Haziq: Topik-topik tu macam
-
-[08:12] Haziq: kan.
-
-[08:13] Haziq: Tak apa, YB. Kita ada lagi yang lain.
+[08:06] Haziq: Tak cukup, YB. Tak. No, sebab Indonesia. Indonesia. Baru mendunia. Topik-topik tu macam kan. Tak apa, YB. Kita ada lagi yang lain.
 
 [08:15] Iqbal: Okay.
 
@@ -170,9 +132,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [13:02] Iqbal: ia menarik yang YB bangkitkan negara-negara lain sebab contohnya kajian power distance index yang mana dia mengukur, dia cuba mengkaji betapa saya tidak tahu bagaimana anda menjelaskan power distance index ini
 
-[13:17] Rafizi: dia maksudnya bagaimana kekuatan terkonsentrasi oleh hierarki So yang paling atas tu Haruki paling tinggi kan How much power Dia concentrate In their hands Berbanding dengan Layman biasa lah
-
-[13:30] Rafizi: So Dan
+[13:17] Rafizi: dia maksudnya bagaimana kekuatan terkonsentrasi oleh hierarki So yang paling atas tu Haruki paling tinggi kan How much power Dia concentrate In their hands Berbanding dengan Layman biasa lah So Dan
 
 [13:33] Iqbal: dalam kajian tu ia mendapat bahawa Malaysia negara no.1 yang di mana jarang jurang antara budaya berhierarki itu paling tinggi berbanding dengan negara-negara di mana budaya dia mungkin tidak sebegitu apa mementingkan status macam feudal yes macam mana Malaysia-Malaysia macam itu adakah itu memang inherent kepada budaya kita
 
@@ -190,13 +150,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [18:08] Rafizi: dengan PH di... Ya ini minggu lepas juga kan. Tapi minggu lepas ni banyak sangat benda yang berlaku. Dia dah rasa lama kes ni kan. Tetapi kita tak nampak lah dia letak jawatan ahli majlis ke ketua kampung ke. Yang paling penting itulah perkara nombor empat. keliruan. Keputusan ini tidak bermakna UMNO keluar dari kerajaan perpaduan daripada negara atau negeri ia merupakan politik semua itu maka tak ada yang meletak jawatan kan? Sebab mereka sudah tentu ada ahli majlis Ya
 
-[18:49] Iqbal: Haa
+[18:49] Iqbal: Haa Tapi dalam situasi begini Kita tak ada nak point of comparison ni Mana
 
-[18:50] Iqbal: Tapi dalam situasi begini Kita tak ada nak point of comparison ni Mana
-
-[18:55] Rafizi: Cuma satu lagi lah Yang aku nak cucuk daripada awal Pasal berianya UMNO bahagian pucung ni Ha ha ha Aku tak ingat kali terakhir UMNO menang di Puchong. Tahun bila? 2004 kot. 2003 sebab Puchong ni parlimen memang DAP. Kemudian DUN kat situ ada satu DAP dan satu lagi Amanah kan. Haa. Seri Serdang kan? Seri Serdang Amanah. Dan sebelum Amanah tu pun rasanya pas. Bukan UMNO pun. Jadi bagi satu bahagian UMNO yang... Hmm... Yalah, kali terakhir dipilih oleh rakyat mungkin lebih kurang 20 tahun yang lepas, sangatlah beria untuk mengugut, untuk memboykot dan memutus kerjasama dengan PH di peringkat parlimen dengan DUN sebab besar kemungkinan dia tak ada kesan pun.
-
-[19:56] Speaker ?: Hahaha
+[18:55] Rafizi: Cuma satu lagi lah Yang aku nak cucuk daripada awal Pasal berianya UMNO bahagian pucung ni Ha ha ha Aku tak ingat kali terakhir UMNO menang di Puchong. Tahun bila? 2004 kot. 2003 sebab Puchong ni parlimen memang DAP. Kemudian DUN kat situ ada satu DAP dan satu lagi Amanah kan. Haa. Seri Serdang kan? Seri Serdang Amanah. Dan sebelum Amanah tu pun rasanya pas. Bukan UMNO pun. Jadi bagi satu bahagian UMNO yang... Hmm... Yalah, kali terakhir dipilih oleh rakyat mungkin lebih kurang 20 tahun yang lepas, sangatlah beria untuk mengugut, untuk memboykot dan memutus kerjasama dengan PH di peringkat parlimen dengan DUN sebab besar kemungkinan dia tak ada kesan pun. Hahaha
 
 [19:57] Iqbal: Ada tak apa-apa situasi di mana mungkin Perkara sebegini boleh Menunjukkan sesuatu parti atau sesuatu tempat itu Sebenarnya, okay, this comes from a place of principle Bukannya tengah beria sahaja You mean PH? You mean UMNO? Untuk diorang. Adakah kalau mungkin boleh ambil diorang secara serius kalau diorang keluar daripada parti mereka, apa mereka boleh-boleh buat?
 
@@ -216,9 +172,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [33:17] Haziq: Parti-parti politik yang mungkin akan wujud pada masa akan datang lah. Mungkin dah tak relevant untuk ada sistem ketua bahagian ke.
 
-[33:24] Rafizi: Mungkin Nanya itu fenomena yang berlaku di sebenarnya di seluruh dunia lah dia dah tak relevan sangat dah organisational structure sampai ke bawah ni dan pada pandangan saya dalam konteks Malaysia sebahagiannya ada baik sebab bila ada struktur bahagian cawangan negeri semua ni kita menghasilkan pelobi-pelobi dan untuk menguruskan yang berlapis-lapis ni di dalam struktur politik biasa memerlukan kos yang tinggi dan ketua bahagian tu nak projek, ketua cawangan ni pun nak indent and projek jadi semua sebab kononnya atas dasar saya yang jaga parti ni, saya yang kena bayar ni jadi menjaga akar umbi ramadhan lah jadi sebab itu actually going forward and I think lah kan that is also part of the reason Why di negara-negara lain, banyak yang sudah moving away daripada this very rigid structure, fokus lebih kepada narrative direct kepada individual voter.
-
-[34:38] Rafizi: Hmm.
+[33:24] Rafizi: Mungkin Nanya itu fenomena yang berlaku di sebenarnya di seluruh dunia lah dia dah tak relevan sangat dah organisational structure sampai ke bawah ni dan pada pandangan saya dalam konteks Malaysia sebahagiannya ada baik sebab bila ada struktur bahagian cawangan negeri semua ni kita menghasilkan pelobi-pelobi dan untuk menguruskan yang berlapis-lapis ni di dalam struktur politik biasa memerlukan kos yang tinggi dan ketua bahagian tu nak projek, ketua cawangan ni pun nak indent and projek jadi semua sebab kononnya atas dasar saya yang jaga parti ni, saya yang kena bayar ni jadi menjaga akar umbi ramadhan lah jadi sebab itu actually going forward and I think lah kan that is also part of the reason Why di negara-negara lain, banyak yang sudah moving away daripada this very rigid structure, fokus lebih kepada narrative direct kepada individual voter. Hmm.
 
 [34:38] Farhan (Pa'an): Okay Baik-baik Clear Tak Saya teringat Hari semalam Zoran Mamdani Finally Sworn in as First January Ha So dia pun antara, I think best example moving away from that whole Demokratik. To be fair,
 
@@ -254,9 +208,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [39:43] Haziq: ni body positivity. Okay, okay, okay. Ya, ya. Abang
 
-[39:46] Iqbal: Iqbal wanted to ask.
-
-[39:46] Iqbal: Dalam 24 jam pertama lepas you sworn in, apa does that look like typically? 24 jam kelihatan.
+[39:46] Iqbal: Iqbal wanted to ask. Dalam 24 jam pertama lepas you sworn in, apa does that look like typically? 24 jam kelihatan.
 
 [39:59] Multiple speakers: Dia tak sama kot MB dengan menteri kan ... kedudukan kuasa yang saya bayangkan At least ... untuk buat first impression tu lah
 
@@ -270,9 +222,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 
 
-[42:19] Rafizi: tali
-
-[42:21] Rafizi: I don't think Ustaz Syukri ada kawan Abang Sadu kot. No, sebenarnya itu ditentukan oleh menteri dan menteri besar masing-masing. So, in my case dulu contohnya, memang orang tak sukalah. Sebab saya langsung tidak bagi ruang untuk... diraihkan atau meraihkan jadi menteri. You hit the ground running. So saya paling anti kunjungan hormat tau. Memang I don't think there was any kunjungan hormat as a minister lah. Sebab I think dia buang masa. Kunjungan hormat, oh tahniah awak jadi menteri. I have a lot of work to do and I don't need that. Just send me an email. So tapi kebiasaannya jugalah you have to understand bila seorang ahli politik tu dia menteri besar ke menteri hatta, That's the highest achievement dalam kejayaan dia lah. Jadi ramai orang yang nak buat kunjungan hormat, yang nak mengucapkan tahniah, kami sokong YB semualah. Dan selalunya itu bergantung kepada menteri besar atau pemerintah itulah. Dia akan minta pejabat dia susun jadual. Dan kalau arahan dia ialah untuk beri keutamaan, orang ni nak jumpa saya kunjungan hormat ni, kunjungan hormat ni. Dia jadi macam inilah. Agak... What's the word eh? Agak beria lah. Banyak-banyak orang nak buat kunjungan hormat. Abang Sado dari kelab tarik tadi. Dia... Tak lagi Perlis aku lepas ni
+[42:19] Rafizi: tali I don't think Ustaz Syukri ada kawan Abang Sadu kot. No, sebenarnya itu ditentukan oleh menteri dan menteri besar masing-masing. So, in my case dulu contohnya, memang orang tak sukalah. Sebab saya langsung tidak bagi ruang untuk... diraihkan atau meraihkan jadi menteri. You hit the ground running. So saya paling anti kunjungan hormat tau. Memang I don't think there was any kunjungan hormat as a minister lah. Sebab I think dia buang masa. Kunjungan hormat, oh tahniah awak jadi menteri. I have a lot of work to do and I don't need that. Just send me an email. So tapi kebiasaannya jugalah you have to understand bila seorang ahli politik tu dia menteri besar ke menteri hatta, That's the highest achievement dalam kejayaan dia lah. Jadi ramai orang yang nak buat kunjungan hormat, yang nak mengucapkan tahniah, kami sokong YB semualah. Dan selalunya itu bergantung kepada menteri besar atau pemerintah itulah. Dia akan minta pejabat dia susun jadual. Dan kalau arahan dia ialah untuk beri keutamaan, orang ni nak jumpa saya kunjungan hormat ni, kunjungan hormat ni. Dia jadi macam inilah. Agak... What's the word eh? Agak beria lah. Banyak-banyak orang nak buat kunjungan hormat. Abang Sado dari kelab tarik tadi. Dia... Tak lagi Perlis aku lepas ni
 
 [43:58] Iqbal: Dia Lepas tu klub tarik tali pula Dia cawang ke mana Klub Klub tarik tali Perlis ke Klub
 
@@ -280,9 +230,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [44:10] Rafizi: Sebenarnya ada Liga Tarik Tali. Haa, betul. Maksudnya setiap negeri ada kelab tarik tali. Haa, champion aku pun nak tahu juga sebenarnya pasukan mana yang juara tarik tali seluruh Malaysia, Liga Tarik Tali Malaysia ni.
 
-[44:24] Iqbal: Sebenarnya hari itu ada St Andrew Society iaitu ada persatuan untuk orang-orang Scotland yang duduk kat Malaysia ni. Sebab saya pun belajar kat Scotland masa Universiti dulu, saya join lah. Where were you? Edinburgh.
-
-[44:37] Iqbal: Bukan Edinburgh. Lepas tu. So kau basah
+[44:24] Iqbal: Sebenarnya hari itu ada St Andrew Society iaitu ada persatuan untuk orang-orang Scotland yang duduk kat Malaysia ni. Sebab saya pun belajar kat Scotland masa Universiti dulu, saya join lah. Where were you? Edinburgh. Bukan Edinburgh. Lepas tu. So kau basah
 
 [44:40] Rafizi: sepanjang masa lah.
 
@@ -316,27 +264,13 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:03:59] Rafizi: ke tak juga? no no it's not that orang kampung tak faham Isu dia ialah Bukan isu lah You see the... milestone skandal 1MDB ni kan Orang kampung sebenarnya Pek attention lebih awal daripada 2.6 bilion. Kerana cerita SRC ni lebih awal daripada tahun 2012. And mungkinlah masa itu Najib ingat SRC ni cerita kecil. So it didn't pay much attention to it. They actually jawab tau soalan parlimen. Sebab SRC bukan YMDB. So soalan parlimen pasal SRC ni dia jawab lah. Tapi jawab ke laut lah kan. Baiklah. kepada rakyat berbanding 2.6 bilion yang hanya datang pada tahun 2015. Saya rasa tidak penting. Jadi, saya rasa anda baling batu kepada rakyat sekarang. Semua orang tahu 1MDB. Apakah mereka boleh mengatakan, itu sebenarnya SRC, ini 1MDB, itu IP. Saya rasa tidak penting. Jadi, dalam segi itu, ia ada fungsi dengan segmen rakyat yang berlainan lainan.
 
-[1:05:21] Iqbal: Contohnya bila perkara SRC itu mula-mula bangkit tahun 2012 dan YB Rafizi, saudara Tony Pua antara orang pertama yang mula bercakap pasal isu ini dari awal dulu Adakah... Kamu berdua Boleh bercakap tentang isu ni Sebab pengalaman kedua-dua YB dengan Tony Pua dalam bidang kewangan dan ada tak sesiapa lain selalu itu yang mungkin tak ada tak faham sangat isu ini tapi bersuara juga
+[1:05:21] Iqbal: Contohnya bila perkara SRC itu mula-mula bangkit tahun 2012 dan YB Rafizi, saudara Tony Pua antara orang pertama yang mula bercakap pasal isu ini dari awal dulu Adakah... Kamu berdua Boleh bercakap tentang isu ni Sebab pengalaman kedua-dua YB dengan Tony Pua dalam bidang kewangan dan ada tak sesiapa lain selalu itu yang mungkin tak ada tak faham sangat isu ini tapi bersuara juga Tak
 
-[1:05:50] Iqbal: Tak
+[1:05:50] Rafizi: ada, I think you are right the reason why it was Tony Pua and myself Kerana... Kami saya ingat yang lebih mahir soal kewangan lah. Dan saya ingat kita juga, saya dengan Tony ada lebih banyak network dengan pasaran, the market. So we are closer to the market. Kita dengar dan dapat maklumat lebih banyak daripada orang lain. At the same time, Both of us lebih aktif di ceramah and forum sikit. Tony tak bagi ceramah kat kampung sangat lah tapi if you notice di awal-awal tahun tu selalunya we pair. I focus memang betul, I focus lebih kepada crowd Melayu. Sebab itu depends who you ask. Kalau kita tanya orang Melayu kampung, selalunya dia associate pendedahan 1MDB ni to me. yang bandar sikit then they might say Tony or Rafizi because kita ada specialization kita lah I carry I focus on ceramah because dulu saya ceramah tiap-tiap satu hari dua hari around the country Tony lebih kepada forum cuma every time kalau saya anjur forum I make sure Tony pun ada kat situ kalau Tony anjur forum he make sure that I appear with him we spoke differently lah about different topics but it's all So it's all those factors lah The fact that kami ada latihan kewangan yang lebih baik Kami juga ada rangkaian yang lebih besar Dengan pasaran Dan pada masa sama Kami juga lebih active on the ceramah And forum sikit kan Sebab Erm... Kesilapan lah saya ingat yang pesawat MDB ni yang paling awal dia buat Kerana pelaburan pertama tu Petro Saudi PetroSaudi pelaburannya kononnya untuk membeli blok minyak di Turkmenistan, offshore Turkmenistan. That used to be my portfolio tu. My last position dekat Petronas dulu, ialah saya adalah ketua bahagian kewangan upstream Petronas ni. So Turkmenistan memang under my care, I went in and out. ada berapa lapangan semua kan. Jadi, and I remember my first tweet about that lah. Masa tu aku baru 2-3 bulan pun on Twitter because I resisted being on Twitter lah kan. Aku dulu anti social media ni tau. I mean the whole idea that you share what is in your head with the rest of the world, itu mencapak gila tau. And I think that is only budak-budak je buat. Orang tua tak buat lah. I mean that's not macho lah. But you know, unfortunately I had to lah Jadi saya ingat, salah satu tweet pertama adalah tentang Petro Saudi. Jauh sebelum SRC 1MDB ini kerana saya mendapat kawan dari Turkmenistan yang bertanya, kita tidak mendengar apa-apa. Hmm Selalunya kalau ada orang beli offshore block, all and guess players tu tahu which offshore block is on sale, siapa bidding, siapa dapat. Eh ni macam mana pula syarikat strategik Malaysia ni pergi beli offshore block that nobody knows kan. And from there lah kan we started putting, saya masa tu was speech writer for Datuk Seri Anwar. sampai ke I think 2012 tu, a lot was mostly written by me, quite a lot of part was written, especially benda-benda macam ini. Benda-benda kewangan, benda-benda pasal ekonomi and so on lah kan. And I remember ada satu tu masa tahun 2010, Dato' Seri Najib. melancarkan model ekonomi baru New Economic Model lah, that was in 2010. So ada satu sidang parlimen khas lah. So kita selitkan question semua tu. Masa itu, nobody doubted YMDB. Cuma your curiosity that it just doesn't make sense. Kalau nak melabur, beli offshore oil block ni kan you suruh Petronas lah after all Petronas masa itu was already the largest oil and gas investment di dalam Turkmenistan I mean we've been in Turkmenistan for close to a decade masa tu kan jadi kenapa pula tiba-tiba nak buat company so it started from that curiosity cuma the difference I suppose between myself the difference between Tony and myself I think that curiosity drive us to continuously stay on the problem longer Sebab masalah politician selalunya lah is short attention span You think that you cakap saja, benda tu jadi, then you move on. In the case of 1MDB dengan SRC kan, it's a story that took daripada 2010 sampai 2018. It's nearly 9 years staying on the ball one after another lah. And dia chicken and egg, you know. Kalau you tak start awal and continuously bring the subject to the public, dia tak amplify the curiosity. So without amplifying the curiosity, you won't get information or you won't get answer. So lagi senang untuk bury lah kan. Because I think, Terutamanya UMNO lah. And I'm sure sekarang kerajaan madani yang ada sekarang pun behaviour sama. Hmm. Yang mana... Government in power ni, dia only panic kalau benda tu bising. Hmm. Kalau tak bising, you just sweep under the carpet. Sweep under the carpet kan. Jadi in the case of SRC dengan orang MDB kan, if you, I think because of persistent questions and peeling of the details, every month ada je. Every two months ada je benda. It peels and dia jadi, it drives the ceramah and forum sikit kan. So it created that worry di dalam UMNO. orang mula bertanya soalan. Kemudian kamu mula mempunyai seperti Tun Mahathir, seperti Tan Sri Muhyiddin. Tidak banyak yang mereka risaukan Amno akan kalah lepas ini. Kalau kita tak, tak. Kerana Rafizi dan Tony Puan ini tak berhenti lagi ini. Setiap bulan, ada saja dia tembak. Jadi kita perlu memperbaiki masalah di belakang. Tapi saya rasa semasa mereka bertanya secara internal mereka juga menghadapi roadblock dan yang itu saya ingat Tun Mahathir atau Tan Sri Muhyiddin tidak mengharapkan Najib akan bereaksi dengan cara yang dia lakukan sampai dia menetapkan Peguam Negara kemudian tukar SPRM dan sebagainya dan pada masa itu saya rasa The whole this detail daripada Javier, Javier Justo tu, Javier Justo tu memang dah out there dengan Wall Street Journal and so on lah. It was waiting for it to hit the fan internationally.
 
-[1:05:50] Rafizi: ada, I think you are right the reason why it was Tony Pua and myself Kerana... Kami saya ingat yang lebih mahir soal kewangan lah. Dan saya ingat kita juga, saya dengan Tony ada lebih banyak network dengan pasaran, the market. So we are closer to the market. Kita dengar dan dapat maklumat lebih banyak daripada orang lain. At the same time, Both of us lebih aktif di ceramah and forum sikit. Tony tak bagi ceramah kat kampung sangat lah tapi if you notice di awal-awal tahun tu selalunya we pair. I focus memang betul, I focus lebih kepada crowd Melayu. Sebab itu depends who you ask. Kalau kita tanya orang Melayu kampung, selalunya dia associate pendedahan 1MDB ni to me. yang bandar sikit then they might say Tony or Rafizi because kita ada specialization kita lah I carry I focus on ceramah because dulu saya ceramah tiap-tiap satu hari dua hari around the country Tony lebih kepada forum cuma every time kalau saya anjur forum I make sure Tony pun ada kat situ kalau Tony anjur forum he make sure that I appear with him we spoke differently lah about different topics but it's all So it's all those factors lah The fact that kami ada latihan kewangan yang lebih baik Kami juga ada rangkaian yang lebih besar Dengan pasaran Dan pada masa sama Kami juga lebih active on the ceramah And forum sikit kan Sebab Erm... Kesilapan lah saya ingat yang pesawat MDB ni yang paling awal dia buat Kerana pelaburan pertama tu Petro Saudi PetroSaudi pelaburannya kononnya untuk membeli blok minyak di Turkmenistan, offshore Turkmenistan. That used to be my portfolio tu. My last position dekat Petronas dulu, ialah saya adalah ketua bahagian kewangan upstream Petronas ni. So Turkmenistan memang under my care, I went in and out. ada berapa lapangan semua kan. Jadi, and I remember my first tweet about that lah. Masa tu aku baru 2-3 bulan pun on Twitter because I resisted being on Twitter lah kan. Aku dulu anti social media ni tau. I mean the whole idea that you share what is in your head with the rest of the world, itu mencapak gila tau. And I think that is only budak-budak je buat. Orang tua tak buat lah. I mean that's not macho lah. But you know, unfortunately I had to lah Jadi saya ingat, salah satu tweet pertama adalah tentang Petro Saudi. Jauh sebelum SRC 1MDB ini kerana saya mendapat kawan dari Turkmenistan yang bertanya, kita tidak mendengar apa-apa. Hmm Selalunya kalau ada orang beli offshore block, all and guess players tu tahu which offshore block is on sale, siapa bidding, siapa dapat. Eh ni macam mana pula syarikat strategik Malaysia ni pergi beli offshore block that nobody knows kan. And from there lah kan we started putting, saya masa tu was speech writer for Datuk Seri Anwar. sampai ke I think 2012 tu, a lot was mostly written by me, quite a lot of part was written, especially benda-benda macam ini. Benda-benda kewangan, benda-benda pasal ekonomi and so on lah kan. And I remember ada satu tu masa tahun 2010, Dato' Seri Najib. melancarkan model ekonomi baru New Economic Model lah, that was in 2010. So ada satu sidang parlimen khas lah. So kita selitkan question semua tu. Masa itu, nobody doubted YMDB. Cuma your curiosity that it just doesn't make sense. Kalau nak melabur, beli offshore oil block ni kan you suruh Petronas lah after all Petronas masa itu was already the largest oil and gas investment di dalam Turkmenistan I mean we've been in Turkmenistan for close to a decade masa tu kan jadi kenapa pula tiba-tiba nak buat company so it started from that curiosity cuma the difference I suppose between myself the difference between Tony and myself I think that curiosity drive us to continuously stay on the problem longer Sebab masalah politician selalunya lah is short attention span You think that you cakap saja, benda tu jadi, then you move on. In the case of 1MDB dengan SRC kan, it's a story that took daripada 2010 sampai 2018. It's nearly 9 years staying on the ball one after another lah. And dia chicken and egg, you know. Kalau you tak start awal and continuously bring the subject to the public, dia tak amplify the curiosity. So without amplifying the curiosity, you won't get information or you won't get answer. So lagi senang untuk bury lah kan. Because I think, Terutamanya UMNO lah. And I'm sure sekarang kerajaan madani yang ada sekarang pun behaviour sama.
+[1:13:42] Iqbal: So kalau, okay, kalau bukan sebab pengalaman YB, bukan sahaja dalam bidang you punya accounting punya background, tapi juga pengalaman bekerja dalam industri oil and gas. Adakah anda fikir anda akan dapat mengenali ini? Sebenarnya, jika anda Maksud
 
-[1:12:00] Rafizi: Hmm.
-
-[1:12:02] Rafizi: Yang mana... Government in power ni, dia only panic kalau benda tu bising.
-
-[1:12:08] Rafizi: Hmm.
-
-[1:12:09] Rafizi: Kalau tak bising, you just sweep under the carpet. Sweep under the carpet kan. Jadi in the case of SRC dengan orang MDB kan, if you, I think because of persistent questions and peeling of the details, every month ada je. Every two months ada je benda. It peels and dia jadi, it drives the ceramah and forum sikit kan. So it created that worry di dalam UMNO. orang mula bertanya soalan. Kemudian kamu mula mempunyai seperti Tun Mahathir, seperti Tan Sri Muhyiddin. Tidak banyak yang mereka risaukan Amno akan kalah lepas ini. Kalau kita tak, tak. Kerana Rafizi dan Tony Puan ini tak berhenti lagi ini. Setiap bulan, ada saja dia tembak. Jadi kita perlu memperbaiki masalah di belakang. Tapi saya rasa semasa mereka bertanya secara internal mereka juga menghadapi roadblock dan yang itu saya ingat Tun Mahathir atau Tan Sri Muhyiddin tidak mengharapkan Najib akan bereaksi dengan cara yang dia lakukan sampai dia menetapkan Peguam Negara kemudian tukar SPRM dan sebagainya dan pada masa itu saya rasa The whole this detail daripada Javier, Javier Justo tu, Javier Justo tu memang dah out there dengan Wall Street Journal and so on lah. It was waiting for it to hit the fan internationally.
-
-[1:13:42] Iqbal: So kalau, okay, kalau bukan sebab pengalaman YB, bukan sahaja dalam bidang you punya accounting punya background, tapi juga pengalaman bekerja dalam industri oil and gas. Adakah anda fikir anda akan dapat mengenali ini? Sebenarnya, jika
-
-[1:13:57] Iqbal: anda Maksud
-
-[1:13:57] Farhan (Pa'an): saya, dalam senario di mana anda dan Tony Pua dikeluarkan Adakah MDB akan pernah dikeluarkan? Saya tidak mempunyai
-
-[1:14:08] Farhan (Pa'an): Tuhan untuk menjawabnya.
+[1:13:57] Farhan (Pa'an): saya, dalam senario di mana anda dan Tony Pua dikeluarkan Adakah MDB akan pernah dikeluarkan? Saya tidak mempunyai Tuhan untuk menjawabnya.
 
 [1:14:10] Rafizi: Ini adalah soalan hipotetik.
 
@@ -348,9 +282,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:17:17] Rafizi: You are referring to Dato' Seri Zahid, Dato' Seri Azalina, Dato' Seri Jamaluddin, kemudian Dato' Tan Sri Azam Baki semualah. PAS yang pernah cakap.
 
-[1:17:29] Farhan (Pa'an): Oh, PAS. Ana berpuas hati. And I think also it goes beyond that because there are several people within the, ataupun mereka membiarkan. So, I'm going to turn the blind eye to membiarkan lah. The board of the company.
-
-[1:17:48] Farhan (Pa'an): Hmm.
+[1:17:29] Farhan (Pa'an): Oh, PAS. Ana berpuas hati. And I think also it goes beyond that because there are several people within the, ataupun mereka membiarkan. So, I'm going to turn the blind eye to membiarkan lah. The board of the company. Hmm.
 
 [1:17:50] Rafizi: Well at least Tan Sri Baki resign. Sebab itu saya kata kan. On the one hand lah kita boleh. Boleh. Biarlah sekarang ni dia jadi wish hunting lah kan. Orang tua ni semua kan. On the other hand sebenarnya. 1MDB dia ada banyak. Hmm. orang yang berani di belakang tabi kalau macam buat 1MDB Tan Sri Baki letak jawatan and he risk Najib's fury lah kan kemudian contoh yang paling baik Dato' Bahari lah Dia kena call storage lepas itu Dan dia jadi kawan baik saya lah lepas itu I remember somehow one day saya dapat message Yalah mewakili Dato' Bahari Dia nak jumpa, saya ingat masa itu cuti raya 2015 So kita orang jumpa dekat Kemaman It just so happen that isteri dia ialah orang Kemaman So yalah And then saya ingat zaman bila Apa nama ni dia kena pecat lah sebenarnya. Dia kena pecat kan. You know he struggle. Struggle. And takde orang yang tanya dia macam mana semua kan And dia duduk kat satu kebun dia jauh di pedalaman I remember pergi jenguk dia kan I mean And there were many of these people Saya tanya some of these people dia nak appear ke dekat podcast But I think to them is the past is the past lah They've done apa nama ni dia National Service kan Berbalik kepada orang yang kata enable semua ni kan Sebenarnya, dia berbeza dengan pendawaan dan juga pandangan politik rakyat terhadap mereka. I think pandangan politik rakyat mengenai mereka itu, I think is up to rakyat lah. And it's up to them lah. Itu adalah turun naik ahli politik lah kan. You will be judged. Tambah zaman sekarang ada resit. Orang akan pergi ambil resit tunjuk dulu kau kata macam ni, gini, gini, gini kan. Yang itu after all, untuk anggota, ialah ahli politik ni, the ultimate judge ialah pilihan raya. And they will be judge at pilihan raya lah. Tapi soal sama ada mereka perlu didakwa ataupun kenapa Datuk Seri Najib seorang didakwa I think there's a lot of final lines for that lah kerana itu yang collective responsibility ni adalah sesuatu yang berat Dan saya pernah ada dalam kabinet kan, I would imagine myself, katakanlah saya berada dalam kabinet Dato' Seri Najib kan, dan dia Perdana Menteri yang sangat berkuasa kan. Jadi dia datang, dia cakap, ini gini, gini, gini, gini kan. So cabarannya ialah kalau kau berani untuk bunuh diri secara politik, kau lawan. Because kalau lawan je, kau akan terpelanting, aku kejar kau, kau masuk penjara. Something like that kan. Jadi, akhirnya, I suppose, kalaupun mereka ditanya ataupun didakwa kan, They can always fall back on the collective responsibility. Sebab itu sebenarnya saya bersetuju orang yang perlu kita bawa kepada kemuka pengadilan yang paling utama ialah Dato' Seri Najib. Kerana Dia yang kuasa itu ada dekat dia. Tanggungjawab itu tanggungjawab dia. And he could maneuver tau. Dekat kabinet ke, dengan kementerian kewangan ke, dengan itu semua he could maneuver kan. Dan dia juga sudah tentu menimbulkan dilema lah bila kerajaan mula bertukar. Contohnya, orang-orang kerajaan yang dulu terlibat dengan YMDB ni. What do you do with them? Jadi, ini adalah part and parcel of... maturity yang our society dan kerajaan kena kena apa nama ni tangan ni lah kan I mean I have a slightly I mean Pandangan saya agak kasar sikit lah bagi saya. Kalau ada rekod contohnya penjawat awam yang masih kekal. di dalam kerajaan dan mereka walaupun dia kata saya menurut perintah dulu walaupun dia kata oh saya tak tahu yang ini saya nampak yang itu sahaja kan But clearly are the lapse of judgment and clearly kita boleh persoalkan moral conscience dia masa itulah sebab dia tak boleh bergantung 100% kepada maklumat yang orang hulur kat dia tu. Dia kena tengok juga, baca juga apa yang Wall Street Journal kata, apa bukti yang dah keluar semua kan. paling kurang pun kalaupun mereka ialah tak ada wish hunting mereka sepatutnya tidak diberikan tempat untuk terus naik dan terus jadi ketua sana ketua sini ni That I don't know sama ada berlaku ke tidak lah kan. Jadi itu pun satu lagi proses yang negara kita perlu lalui lah. Maksudnya kita kena setkan standard yang tinggi. Kalau kita, even myself contohnya kan. Kalau saya dah ada lapse of judgment. Walaupun bukan salah saya. Tapi itu di bawah kawalan saya. Dan saya tak semak and saya tak pursue that issue. Maksudnya, dia berlaku kerana I was not thorough. sebenarnya it should be held against me in the future supaya kalau apa-apa then people will always remember actually dulu sebab dia tak tarahlah jadi macam itu. Dan itu budaya di negara-negara lain kalau macam Jepun ke once walaupun sebenarnya tak banyaklah ahli politik yang makan duit kalau negara lain. retire daripada politik ataupun pegawai kanan yang have to relinquish their position tu ialah kerana lapse of judgement. That bit saya setuju bahawa in the case of 1MDB dia seolah-olah Najib seorang je yang bersalah kerana politically our culture does not put a strong emphasis on accountability on even lapse of judgment. And some of these people memang continue makin tinggi dalam bidang-bidang tertentu, kerajaan dan sebagainya lah.
 
@@ -374,9 +306,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:35:07] Speaker ?: Saya boleh lihat.
 
-[1:35:08] Iqbal: Sebab salah satu janji dalam manifesto Katan Harapan adalah pisahkan kenderaan kewangan daripada pejabat, Perdana Menteri. Apa
-
-[1:35:17] Iqbal: format itu?
+[1:35:08] Iqbal: Sebab salah satu janji dalam manifesto Katan Harapan adalah pisahkan kenderaan kewangan daripada pejabat, Perdana Menteri. Apa format itu?
 
 [1:35:17] Farhan (Pa'an): I think this goes beyond it. The pencerkuasa Menteri Kewangan ada ni, I mean it should be just fiscal managing. But this
 
@@ -426,11 +356,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:04:12] Haziq: Kan tak, tak ada lah. Orang tanya, apa, kenapa letak jawatan banyak-banyak ni? Terima kasih. Benda lain ke
 
-[2:04:25] Rafizi: Saya langsung tak ada maklumat sebenarnya berkaitan dengan bersatu semua ni kan. Tapi saya ingat ini juga satu ofensif daripada bersatu. Ini bukan surrender ni. Ini tactical offence. Dari segi macam mana tu? Hmm... Whether betul ke tidak lah kan Hypothesis ataupun Penilaian Tan Sri Muhyiddin Dan pimpinan lain Di dalam bersatu ni kan Mereka ada keyakinan bahawa mereka bawa nilai tambah yang tinggi kepada Perikatan Nasional. Dan PAS sebenarnya tanpa bersatu tidak akan mendapat lonjakan yang sama.
-
-[2:05:16] Rafizi: Hmm.
-
-[2:05:17] Rafizi: Dan ada kebenaran dia. Ada kebenaran dia. Kita ambil contohnya DAP. Kalau DAP bertanding sendiri tanpa PKR dan amanah, tak ada PH, hanya DAP sendiri, DAP tak akan dapat sokongan yang sebegitu besar daripada masyarakat China. Kerana kekuatan DAP selama 20 tahun yang lepas itu ialah atas satu konsep. bahawa gabungan PH yang mana ada PKR dan calon Perdana Menteri itu datang daripada PKR membolehkan ada gabungan politik yang pimpinan Melayunya yang akan menjadi Perdana Menteri adalah lebih multiracial, adalah boleh lebih meritokratik. Jadi gabungan itu adalah lebih baik untuk pengundi China. Dia bukan semata-mata kekuatan DAP tau. Dia sebenarnya it has to be that composite for it to be sellable kan If you remove PKR tinggal DAP sahaja, then DAP is just reduced to a forever parti pembangkang. Then, then, suddenly, value proposition daripada DAP dah berbeza lah. Actually, the same you can say about Perikatan Nasional. Kan? PAS ada kekuatan dia lah, keras root dia ke apa kan. Tapi on its own, PAS adalah satu parti yang dilihat kurang berkemampuan untuk mentadbir. Itu satu. Kemudian, PAS ni sebenarnya pada pandangan pengundi biasa Melayu. I will comment a bit more pasal PAS, Tan Sri Muhyiddin, Dato' Seri Hadi ni later on lah sebab kita lepas ni kita sambung lagi cerita kenduri bersatu PN ni kan. So... PAS on its own tidak bersamaan dengan kekuatan PN on its own, together. Kerana PN ini melambangkan bahawa satu gabungan yang lebih moderate kerana ada pimpinan-pimpinan daripada bersatu yang lebih moderate untuk mengimbangi PAS. So and itu bukan saja kepada orang Cina, orang India atau Sabah Sarawak tau. Even kepada Melayu pun. Maksudnya Melayu atas pagar, urban Melis, pilihan antara PAS mata-mata dengan PAS dan Bersatu yang ada Tan Sri Muhyiddin ke, Saudara Azmin ke dan yang lain-lain daripada Bersatu, actually Bersatu itu mengimbangi image ekstrim PAS. And they are not wrong dah sebenarnya because the reverse is true dengan PH dan juga PN. You remove. persatu. Hipotesis PAS ialah semua kekuatan Perikatan Nasional itu adalah kami. I think in this sense, Bersatu tak salah lah kalau dia merasakan bahawa it's not an apple to apple comparison kerana again it must be composite kan. Dan sejarah pun pernah menunjukkan. Dan yang ini saya bersetuju dengan Datuk Dr. Setiausaha sulit Tan Sri Muhyiddin tulis panjang lebar lah. Sekarang kita makan popcorn. Sambil makan popcorn tu baca lah. Dia orang tembak-menembak sesama sendiri kan. So dia bagi satu perbandingan yang sebenarnya... ada sedikit kesamaan lah iaitu lonjakan yang PAS dapat tahun 1999. Lepas reformasi, masa tu orang nampak kekuatan dan gelombang itu ialah Reformasi Hmm Perubahan politik itu datang sebenarnya daripada wave reformasi itu. Tapi pemenang terbesar ialah PAS. PAS menang 27 kursi saya ingat masa itu. DAP 10 dan juga PKR dapat 5 sajalah kan. Dan PAS mengambil alih kerajaan Terengganu, Datuk Seri Hadi Awang jadi menteri besar kan. Dan they swing to the extreme kerana masa itu pun reaksi daripada PAS Kamilah yang kuat. Kamilah yang diterima. Allah telah memakbulkan doa dan usaha kita. Sekarang rakyat telah menerima Islam yang kita bawa. Haa, macam tu kan. So, they became very ganggu. They swing to the extreme right lah. Dokumen negara Islam. Kemudian, apa nama ni. Hmm. DAP menarik diri Dan PKR ni memang kena pijak dan kena ludah lah Dalam kerjasama dengan PAS masa itu kan True enough, 2004 kalah tengah ni. And PAS tinggal 7 kursi je. And Kelantan hanya tinggal 1 kursi. Dan kursi yang menang majoriti 1 kursi, yang menang dengan undi 1 je lebih. 1 ke 2 saya ingat kan. Dekat 1 kursi dekat Macang tu kan. Jadi, perkara itu pernah berlaku kan. Cuma, We don't have data for it. Semua ni adalah hipotesis masing-masing. Dan saya cenderung mengatakan bahawa hipotesis PN itu, Tan Sri Muhyiddin itu ada asas dia. If I were to rate the balance of probability antara dua hipotesis ni kan, satu hipotesis yang kekuatan PN PN ni 100% adalah PAS dan PAS sebenarnya yang akan membawa PN ke Putrajaya, itu hipotesis PAS. Dengan hipotesis Tan Sri Muhyiddin dan Bersatu bahawa it's a composite of offering. That you remove Bersatu, actually it's not that straightforward lah kerana suddenly it paints PAS sebagai a more extremist party kan. hipotesis kelebihan. Jadi yang siri kenduri letak jawatan ni, bukannya merajuk ke, bukannya berpatah hati ke apa. It's a tactical offence. Supaya di dalam PAS tu pun mereka kena revisit and fikir juga, are we willing to go all out on our own? Can we do it on our own? Dan sejarah PAS ialah bila mereka bertanding sendiri, dia uyum. Dia hanya dapat lonjakan besar setiap kali dia dalam gabungan. Sebab itu PAS ni pernah ada dalam semua gabungan. Dengan BN pun dia pernah ada, dengan 46 pun dia pernah ada, dengan PKRDAP pun dia pernah ada. Dia buat gabungan dia sendiri pun ada, kemudian dengan Bersatu kan. Jadi PAS traditionally is a party that can only gain more kalau ada gabungan. Yang muda-muda dalam PAS ni dia mungkin tak membaca sejarah lah. Jadi dia tak faham perkara itu. Tapi saya ingat yang lebih matang dalam PAS mereka mungkin akan terfikirlah kita beranikah ni nak cross the line on our own? Adakah mungkin...
+[2:04:25] Rafizi: Saya langsung tak ada maklumat sebenarnya berkaitan dengan bersatu semua ni kan. Tapi saya ingat ini juga satu ofensif daripada bersatu. Ini bukan surrender ni. Ini tactical offence. Dari segi macam mana tu? Hmm... Whether betul ke tidak lah kan Hypothesis ataupun Penilaian Tan Sri Muhyiddin Dan pimpinan lain Di dalam bersatu ni kan Mereka ada keyakinan bahawa mereka bawa nilai tambah yang tinggi kepada Perikatan Nasional. Dan PAS sebenarnya tanpa bersatu tidak akan mendapat lonjakan yang sama. Hmm. Dan ada kebenaran dia. Ada kebenaran dia. Kita ambil contohnya DAP. Kalau DAP bertanding sendiri tanpa PKR dan amanah, tak ada PH, hanya DAP sendiri, DAP tak akan dapat sokongan yang sebegitu besar daripada masyarakat China. Kerana kekuatan DAP selama 20 tahun yang lepas itu ialah atas satu konsep. bahawa gabungan PH yang mana ada PKR dan calon Perdana Menteri itu datang daripada PKR membolehkan ada gabungan politik yang pimpinan Melayunya yang akan menjadi Perdana Menteri adalah lebih multiracial, adalah boleh lebih meritokratik. Jadi gabungan itu adalah lebih baik untuk pengundi China. Dia bukan semata-mata kekuatan DAP tau. Dia sebenarnya it has to be that composite for it to be sellable kan If you remove PKR tinggal DAP sahaja, then DAP is just reduced to a forever parti pembangkang. Then, then, suddenly, value proposition daripada DAP dah berbeza lah. Actually, the same you can say about Perikatan Nasional. Kan? PAS ada kekuatan dia lah, keras root dia ke apa kan. Tapi on its own, PAS adalah satu parti yang dilihat kurang berkemampuan untuk mentadbir. Itu satu. Kemudian, PAS ni sebenarnya pada pandangan pengundi biasa Melayu. I will comment a bit more pasal PAS, Tan Sri Muhyiddin, Dato' Seri Hadi ni later on lah sebab kita lepas ni kita sambung lagi cerita kenduri bersatu PN ni kan. So... PAS on its own tidak bersamaan dengan kekuatan PN on its own, together. Kerana PN ini melambangkan bahawa satu gabungan yang lebih moderate kerana ada pimpinan-pimpinan daripada bersatu yang lebih moderate untuk mengimbangi PAS. So and itu bukan saja kepada orang Cina, orang India atau Sabah Sarawak tau. Even kepada Melayu pun. Maksudnya Melayu atas pagar, urban Melis, pilihan antara PAS mata-mata dengan PAS dan Bersatu yang ada Tan Sri Muhyiddin ke, Saudara Azmin ke dan yang lain-lain daripada Bersatu, actually Bersatu itu mengimbangi image ekstrim PAS. And they are not wrong dah sebenarnya because the reverse is true dengan PH dan juga PN. You remove. persatu. Hipotesis PAS ialah semua kekuatan Perikatan Nasional itu adalah kami. I think in this sense, Bersatu tak salah lah kalau dia merasakan bahawa it's not an apple to apple comparison kerana again it must be composite kan. Dan sejarah pun pernah menunjukkan. Dan yang ini saya bersetuju dengan Datuk Dr. Setiausaha sulit Tan Sri Muhyiddin tulis panjang lebar lah. Sekarang kita makan popcorn. Sambil makan popcorn tu baca lah. Dia orang tembak-menembak sesama sendiri kan. So dia bagi satu perbandingan yang sebenarnya... ada sedikit kesamaan lah iaitu lonjakan yang PAS dapat tahun 1999. Lepas reformasi, masa tu orang nampak kekuatan dan gelombang itu ialah Reformasi Hmm Perubahan politik itu datang sebenarnya daripada wave reformasi itu. Tapi pemenang terbesar ialah PAS. PAS menang 27 kursi saya ingat masa itu. DAP 10 dan juga PKR dapat 5 sajalah kan. Dan PAS mengambil alih kerajaan Terengganu, Datuk Seri Hadi Awang jadi menteri besar kan. Dan they swing to the extreme kerana masa itu pun reaksi daripada PAS Kamilah yang kuat. Kamilah yang diterima. Allah telah memakbulkan doa dan usaha kita. Sekarang rakyat telah menerima Islam yang kita bawa. Haa, macam tu kan. So, they became very ganggu. They swing to the extreme right lah. Dokumen negara Islam. Kemudian, apa nama ni. Hmm. DAP menarik diri Dan PKR ni memang kena pijak dan kena ludah lah Dalam kerjasama dengan PAS masa itu kan True enough, 2004 kalah tengah ni. And PAS tinggal 7 kursi je. And Kelantan hanya tinggal 1 kursi. Dan kursi yang menang majoriti 1 kursi, yang menang dengan undi 1 je lebih. 1 ke 2 saya ingat kan. Dekat 1 kursi dekat Macang tu kan. Jadi, perkara itu pernah berlaku kan. Cuma, We don't have data for it. Semua ni adalah hipotesis masing-masing. Dan saya cenderung mengatakan bahawa hipotesis PN itu, Tan Sri Muhyiddin itu ada asas dia. If I were to rate the balance of probability antara dua hipotesis ni kan, satu hipotesis yang kekuatan PN PN ni 100% adalah PAS dan PAS sebenarnya yang akan membawa PN ke Putrajaya, itu hipotesis PAS. Dengan hipotesis Tan Sri Muhyiddin dan Bersatu bahawa it's a composite of offering. That you remove Bersatu, actually it's not that straightforward lah kerana suddenly it paints PAS sebagai a more extremist party kan. hipotesis kelebihan. Jadi yang siri kenduri letak jawatan ni, bukannya merajuk ke, bukannya berpatah hati ke apa. It's a tactical offence. Supaya di dalam PAS tu pun mereka kena revisit and fikir juga, are we willing to go all out on our own? Can we do it on our own? Dan sejarah PAS ialah bila mereka bertanding sendiri, dia uyum. Dia hanya dapat lonjakan besar setiap kali dia dalam gabungan. Sebab itu PAS ni pernah ada dalam semua gabungan. Dengan BN pun dia pernah ada, dengan 46 pun dia pernah ada, dengan PKRDAP pun dia pernah ada. Dia buat gabungan dia sendiri pun ada, kemudian dengan Bersatu kan. Jadi PAS traditionally is a party that can only gain more kalau ada gabungan. Yang muda-muda dalam PAS ni dia mungkin tak membaca sejarah lah. Jadi dia tak faham perkara itu. Tapi saya ingat yang lebih matang dalam PAS mereka mungkin akan terfikirlah kita beranikah ni nak cross the line on our own? Adakah mungkin...
 
 [2:13:02] Iqbal: Pikiran PAS bukan kita akan lebih baik tanpa bersatu tapi kita mungkin akan lebih baik instead of bersatu kita bersama UMNO.
 
@@ -470,15 +396,9 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:33:20] Iqbal: Dari So pada Dari pandangan Orang biasa pula Katakan Saya an average Malaysian Dan saya tengok semua ni Yang mana satu Paling Berkemungkinan Pikiran orang ramai Adakah dia pandang benda ni And then dia rasa benda ni sebenarnya tak ada impact besar pun benda ni tak berubah pandangan saya pasal Perikatan Nasional ataupun adakah mereka pandang benda ni dan nampak Perikatan Nasional Sebagai clearly some things are going on dan mungkin benda ni akan apa yang berlaku lepas ni dengan Perikatan Nasional mungkin ada something I have to pay attention to kerana mungkin lepas ni dia akan jadi suatu gabungan yang berpotensi jadi kerajaan seterusnya ataupun adakah ketiga mereka pandang semua ni dan right off PS tu kan okey dah PS ni clearly dia tak ada harapan
 
-[2:34:09] Rafizi: no sudah tentu ada hardcore voters dan hardcore voters past tu tetap ikut macam mana pun lah kan Bersatu pun saya ingat akan begitulah Tetapi Sokongan PN Yang mana contohnya kalau lawan dalam PRN yang lepas 20-23 di beberapa buah negeri undi Melayu kepada PN itu sampai 80%. Paling kurang pun 70% dia dapatkan. Itu bukan semua undi penyokong tegak atau ahli PAS satu-satu. Majoriti yang besar ialah pengundi atas pagar Melayu. Now, apa sebenarnya psikologi dan motivasi pengundi atas pagar Melayu seperti itu yang mengundi PN? What is the most important to them? What is the most emotive element of PN that appeals to them yang menyebabkan mereka sokong PN.
+[2:34:09] Rafizi: no sudah tentu ada hardcore voters dan hardcore voters past tu tetap ikut macam mana pun lah kan Bersatu pun saya ingat akan begitulah Tetapi Sokongan PN Yang mana contohnya kalau lawan dalam PRN yang lepas 20-23 di beberapa buah negeri undi Melayu kepada PN itu sampai 80%. Paling kurang pun 70% dia dapatkan. Itu bukan semua undi penyokong tegak atau ahli PAS satu-satu. Majoriti yang besar ialah pengundi atas pagar Melayu. Now, apa sebenarnya psikologi dan motivasi pengundi atas pagar Melayu seperti itu yang mengundi PN? What is the most important to them? What is the most emotive element of PN that appeals to them yang menyebabkan mereka sokong PN. Melayu Islam. Okay I mean Itu cukup untuk dapat C Untuk dapat A You have to explain A bit deeper than that lah Apa dia? Ketiadaan skandal besar No No
 
-[2:35:16] Rafizi: Melayu Islam.
-
-[2:35:19] Rafizi: Okay I mean Itu cukup untuk dapat C Untuk dapat A You have to explain A bit deeper than that lah Apa dia? Ketiadaan skandal besar No No
-
-[2:35:31] Haziq: No,
-
-[2:35:32] Haziq: no,
+[2:35:31] Haziq: No, no,
 
 [2:35:32] Rafizi: no. Moderate Malay. No, no, no. Perpaduan umat. Okay. Yang paling emotional, emotif ni yang menyebabkan Melayu atas pagar menyokong PN ialah perpaduan umat. Kita nak melihat Melayu bersatu kerana kita mesti dapatkan balik kuasa Melayu. Jadi yang mereka suka Ialah mereka lihat PN ini aman PAS dan Bersatu Sanggup masing-masing berkorban Demi untuk Perpaduan Umar. Berbeza dengan UMNO. Dia sanggup tinggalkan Perpaduan Umar ini demi kuasa, demi nak lepas kes ke apa-apa je lah. Yang itu yang meletakkan bahawa PN ini nampak lebih appealing kepada pengundi atas pagar Melayu. Now bila jadi macam ini, Not anymore lah. Sebab itu paling kurang dia akan hilang undi Melayu. Cuma what happens to that undi Melayu yang tawa hati Bahawa Perpaduan umah, PAS, Bersatu, semua ni sembang je lah. Lepas tu sama jugalah diorang ni. Kita macam bodoh. Duk sokong 3-4 tahun perpaduan umah, perpaduan umah. Jadi macam ni kan. Now, benda yang sama juga yang berlaku dalam PH. Kenapa pengundi atas pagar PH undi PH? Sebab nak tengok reform, nak tengok ni kan. Jadi bila berlaku yang telah berlaku dalam 2-3 tahun ni, disenfranchise because dia kata aku tunggu 20 tahun jadi macam ni juga sama je lah kan so Apa? Saya rasa... The irony is, walaupun masa kita bincang pasal disenfranchised voters semua tu kan, actually bagi saya lah, maksudnya dia akan mempercepatkan lagi disenfranchised voters menjadi lebih besar. Kalau before this is about 52% disenfranchised voters, we'll see lah 1 or 2 months down the line, how big is that. But who will get that disenfranchised voters? It's not a straight forward lah. kecewa dengan PN, tak bermakna dia akan undi PH. Sama jugalah. Pengundi PH yang kecewa dengan PH tak bermakna dia akan sokong PN. So that phenomenon tu akan terus membengkak lah.
 
@@ -506,33 +426,19 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:46:29] Speaker ?: Saya boleh lihat.
 
-[2:46:31] Rafizi: 1989 kan? 1989. So dia punya long... 1965
-
-[2:46:36] Rafizi: to 1989.
-
-[2:46:37] Rafizi: Dia 1989 kan? So dia punya diktator yang lama tu Casesco lah. 1965 sampai 1989. So he was shot. In public tau kan? Tapi lepas itu masih lagi kerajaan komunis. So bila the Soviet bloc penamani jatuh, so dia mula jadi demokrasi lah. So if you think about it, sebuah generasi telah melalui harapan itu for a better country after the collapse of communists. And dia tengok macam mana Poland is doing so much better, dia tengok Czechs is doing so much better. So, voters dekat Romania ni, dia dah jadi disillusion dengan hope, hope, lebih baik, ekonomi lebih baik, lepas tu corruption, tengok sama saja kan. So sebab itu, they had successive change of governments. dan itu mencipta pintu yang berubah. Sebab itu dia banyak paralel dengan Malaysia. Jadi jika mereka mampu melakukannya dan mereka perlu reform semua, maksudnya bila dia masuk EU dulu kan, dia ada seri keperluan. Bukan sahaja ekonomi, tapi reform yang lain. EU punya set reform ini lagi panjang. Jadi jika mereka boleh menolaknya, maka jelas mereka lebih unik daripada Poland. the kind of revolving door that they had for the last few days lah. Dan mungkin kita patut hantar ahli-ahli parlimen PH pergi ke Romania lah belajar macam mana.
-
-[2:48:16] Speaker ?: Hehehe
+[2:46:31] Rafizi: 1989 kan? 1989. So dia punya long... 1965 to 1989. Dia 1989 kan? So dia punya diktator yang lama tu Casesco lah. 1965 sampai 1989. So he was shot. In public tau kan? Tapi lepas itu masih lagi kerajaan komunis. So bila the Soviet bloc penamani jatuh, so dia mula jadi demokrasi lah. So if you think about it, sebuah generasi telah melalui harapan itu for a better country after the collapse of communists. And dia tengok macam mana Poland is doing so much better, dia tengok Czechs is doing so much better. So, voters dekat Romania ni, dia dah jadi disillusion dengan hope, hope, lebih baik, ekonomi lebih baik, lepas tu corruption, tengok sama saja kan. So sebab itu, they had successive change of governments. dan itu mencipta pintu yang berubah. Sebab itu dia banyak paralel dengan Malaysia. Jadi jika mereka mampu melakukannya dan mereka perlu reform semua, maksudnya bila dia masuk EU dulu kan, dia ada seri keperluan. Bukan sahaja ekonomi, tapi reform yang lain. EU punya set reform ini lagi panjang. Jadi jika mereka boleh menolaknya, maka jelas mereka lebih unik daripada Poland. the kind of revolving door that they had for the last few days lah. Dan mungkin kita patut hantar ahli-ahli parlimen PH pergi ke Romania lah belajar macam mana. Hehehe
 
 [2:48:17] Haziq: Tapi bukan kita mungkin perlu ambil masa yang lebih lama sikit
 
 [2:48:22] Rafizi: untuk menguruskan perbezaan itu. Tapi sebenarnya sebahagiannya tu kalau tengok kepada pengalaman Argentina lah, at least economically kan, Abel Miller kan. Actually within 6 months you dah boleh nampak impact. Okay, so tak
 
-[2:48:37] Iqbal: perlu pun tunggu 1
+[2:48:37] Iqbal: perlu pun tunggu 1 tahun. Dia
 
-[2:48:37] Iqbal: tahun. Dia
-
-[2:48:37] Farhan (Pa'an): tak
-
-[2:48:38] Farhan (Pa'an): sampai 1 tahun. Abel Miller took a very extreme approach dengan chainsaw dia semua kan. Bila dia
+[2:48:37] Farhan (Pa'an): tak sampai 1 tahun. Abel Miller took a very extreme approach dengan chainsaw dia semua kan. Bila dia
 
 [2:48:47] Rafizi: jadi presiden, dia punya stand dia tu tak ada lah. Cuma policy prescription dia memang extreme lah. Tapi sebenarnya economically, by now people have a lot more confidence dengan heavy emil. Aku pun sebenarnya macam gila ke apa dia ni kan. I mean it's like some of the things yang dia cakap tu, Bukanlah sebenarnya Eureka hebat apa Tapi to do it in Argentina good luck kan But he actually manage to do it and in his case Sebenarnya dia menang subsequent election tau Parti dia menang lebih besar dekat local election semua kan So in the case of Argentina lah We didn't hear Argentina kena bail out Lepas habis because people talk like that lah Lepas ni kena bail out habis lah orang protest atas jalan semua terbakar lah semua kan but so I suppose within a few months kalau things work well then you will hear a lot more about Romania
 
-[2:49:51] Farhan (Pa'an): tapi sorry sebab kita draw Romania and then kita dah mention Haviamilin sebab Haviamilin ni very karakter dia something yang verify a brand tak macam status quo lah
-
-[2:50:03] Farhan (Pa'an): hmm
-
-[2:50:04] Farhan (Pa'an): kalau ada karakter macam tu dalam Malaysia rasanya rakyat Malaysia boleh accept Adakah anda berada di sana?
+[2:49:51] Farhan (Pa'an): tapi sorry sebab kita draw Romania and then kita dah mention Haviamilin sebab Haviamilin ni very karakter dia something yang verify a brand tak macam status quo lah hmm kalau ada karakter macam tu dalam Malaysia rasanya rakyat Malaysia boleh accept Adakah anda berada di sana?
 
 [2:50:13] Iqbal: Sebagai calon Perdana Menteri
 
@@ -546,9 +452,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:53:33] Farhan (Pa'an): Sorry, maybe last question. Sorry, sorry. Was the market excited with Dato' Sianua and how are they now? Bila pula masa dia jadi Perdana Menteri awal? Sebab dia pun champion reform semua.
 
-[2:53:49] Rafizi: Apabila anda mengatakan pasar, anda bermaksud apa nama ini, bursa dan ringgit dan
-
-[2:53:54] Rafizi: sebagainya. Itu dan juga skala
+[2:53:49] Rafizi: Apabila anda mengatakan pasar, anda bermaksud apa nama ini, bursa dan ringgit dan sebagainya. Itu dan juga skala
 
 [2:53:56] Farhan (Pa'an): yang lebih besar orang yang berminat dengan
 
@@ -556,9 +460,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [2:55:36] Haziq: Okay YB Itu je kot Itu je lah kot Nah Tada Itu je lah kot Okay Terima kasih Itu je. Dia pun dah takut kena marah. 2 jam 52 minit.
 
-[2:55:50] Farhan (Pa'an): 2 jam
-
-[2:55:51] Farhan (Pa'an): 52 minit juga?
+[2:55:50] Farhan (Pa'an): 2 jam 52 minit juga?
 
 [2:55:52] Haziq: Ya.
 

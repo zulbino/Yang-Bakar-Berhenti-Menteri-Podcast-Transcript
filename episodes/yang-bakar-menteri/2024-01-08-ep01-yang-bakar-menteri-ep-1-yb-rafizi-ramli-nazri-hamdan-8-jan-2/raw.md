@@ -93,9 +93,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [20:26] Najib: Benda-benda macam tu yang kita kat luar ni tak berapa faham kan?
 
-[20:29] Nazri: Ya, kita tak berapa faham. So at least kita nampaklah gambaran dia macam mana. 50% tu banyaklah bagi bagi bagi kami.
-
-[20:36] Nazri: Pada saya, saya shocking. Nampak terlalu tak sangka dia naikkan 90 bilion sebab 50% aje disalurkan ke
+[20:29] Nazri: Ya, kita tak berapa faham. So at least kita nampaklah gambaran dia macam mana. 50% tu banyaklah bagi bagi bagi kami. Pada saya, saya shocking. Nampak terlalu tak sangka dia naikkan 90 bilion sebab 50% aje disalurkan ke
 
 [20:44] Rafizi: Well, I think we reach untuk untuk 2024 kita telah berjaya ya we keep pushing lah supaya kita tangani masalah tanggungan itu dengan lebih baik supaya dari setahun ke setahun jumlah DE asas yang dipanggil tu betul-betul pergi projek tu naik lebih daripada yang bukan asaslah. Jadi untuk 2024 tu kita dah naik sedikitlah, 52-48. Jadi ada lebih lebih 52% itu, itu betul-betul DE asas. Yang lain itu kita kena manage yang kita warisi daripada yang lepas-lepaslah.
 

@@ -501,9 +501,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:33:01] Iswardy Morni: Dan dan kena cari pula yang spesifik stratum.
 
-[1:33:02] Rafizi: Kena cari pula spesifik stratum masing-masing tu kan. Jadi lebih mudahlah tanya adakah negara berada di landasan yang betul? Okey okey, daripada semua survey the last survey that you did kan sebelum dia ada result baru ni, should we worry Pakatan Harapan?
-
-[1:33:17] Rafizi: I should I saya dah sebut masa kempen.
+[1:33:02] Rafizi: Kena cari pula spesifik stratum masing-masing tu kan. Jadi lebih mudahlah tanya adakah negara berada di landasan yang betul? Okey okey, daripada semua survey the last survey that you did kan sebelum dia ada result baru ni, should we worry Pakatan Harapan? I should I saya dah sebut masa kempen.
 
 [1:33:20] Iswardy Morni: Ya but yalah after that, should we still worry?
 

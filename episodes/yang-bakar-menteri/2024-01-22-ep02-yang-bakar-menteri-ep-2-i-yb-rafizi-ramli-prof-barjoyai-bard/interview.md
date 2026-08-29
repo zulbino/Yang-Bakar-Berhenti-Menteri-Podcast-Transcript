@@ -401,9 +401,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Nazri:** Okey guys, terima kasih banyak-banyak. Terima kasih YB dan juga terima kasih Profesor kerana sudi hadir.
 
-**Rafizi:** Tapi nanti dia orang kata tak bakar tu. Cukup bakar ke?
-
-**Rafizi:** No, I think you know it's like — saya harap over the time lah kan, rakyat kita yang mendengarlah, berapa banyak yang mendengar, understands sebenarnya kita kat sini bukan nak bergaduh.
+**Rafizi:** Tapi nanti dia orang kata tak bakar tu. Cukup bakar ke? No, I think you know it's like — saya harap over the time lah kan, rakyat kita yang mendengarlah, berapa banyak yang mendengar, understands sebenarnya kita kat sini bukan nak bergaduh.
 
 **Nazri:** Betul, kita nak berbincang secara ilmiah.
 
