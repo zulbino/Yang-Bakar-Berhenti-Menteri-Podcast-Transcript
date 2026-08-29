@@ -243,5 +243,52 @@
         ]
       }
     }
+  ],
+  "2026-02-06-ep34-pilihanraya-datuk-bandar-kl-kos-bina-1-bilik-darjah-tapisan-": [
+    {
+      "claimed_ts": 150,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 2,
+        "turns": [
+          {
+            "offset_seconds": 3.2,
+            "voice": "V1",
+            "first_words": "Assalamualaikum dan selamat kembali"
+          },
+          {
+            "offset_seconds": 8.5,
+            "voice": "V2",
+            "first_words": "Kenapa kau gelak?"
+          },
+          {
+            "offset_seconds": 9.7,
+            "voice": "V1",
+            "first_words": "Sebab YB macam"
+          },
+          {
+            "offset_seconds": 12.7,
+            "voice": "V2",
+            "first_words": "Macam biasa, here we go again"
+          },
+          {
+            "offset_seconds": 14.6,
+            "voice": "V1",
+            "first_words": "Tengoklah. YB Rafizi Ramli"
+          },
+          {
+            "offset_seconds": 19.4,
+            "voice": "V2",
+            "first_words": "Kita selang-selikanlah"
+          },
+          {
+            "offset_seconds": 20.9,
+            "voice": "V1",
+            "first_words": "Ya, kita dengar Friday sermon"
+          }
+        ]
+      }
+    }
   ]
 }

@@ -43,6 +43,25 @@ AUDIO_DIR = ROOT / "audio"
 HONORIFIC = (r"(?:YB|Datuk|Dato'|Datin|Tan Sri|Tun|Saudara|Saudari|Prof(?:esor)?|Dr\.?|"
              r"Puan|Tuan|Ustaz|Menteri|Ahli Parlimen)")
 NAME = r"((?:[A-Z][A-Za-z'-]{2,}\s?){1,3})"
+# A name the ASR BROKE IN TWO, which NAME cannot see because it requires 3+ characters
+# per token: raw ep34 writes `saudara Rafi Z. Ramli` for Rafizi Ramli. The period also
+# made the sentence splitter cut mid-name. Thirteen such mangles of Rafizi alone survive
+# in raw (`Rafi Z.` x4, `Rafi Zee` x2, `Rafi Z` x2, `Rafi Ziramli`, `Rafi Zidah`,
+# `Rafi Zika`, `Rafi Zini`, `Rafi Zirajnya`) against 6,829 correct spellings.
+#
+# NOT anchored on an honorific, unlike every other check here: ep34's instance follows a
+# lowercase `saudara` and the honorific pattern is case-sensitive, so anchoring missed the
+# one case that prompted this. The shape alone is the signal -- a capitalised word beside
+# a 1-2 character fragment.
+#
+# The fragment must NOT sit after a period. Without that condition the first version
+# reported 29 hits and every one was a correct name followed by the next sentence's first
+# word: `Anwar. I`, `Muhyiddin. So`, `Ekonomi. So`.
+SPLIT_NAME = re.compile(r"\b([A-Z][A-Za-z'-]{2,})\s+([A-Z][A-Za-z'-]?)(?=[.,\s])")
+# Legitimate two-character companions, measured from the false positives this produced:
+# `Bandar KL`, `Kewangan II`, `Khalid RM`, plus the obvious title and unit abbreviations.
+NOT_A_FRAGMENT = {"kl", "ii", "iii", "iv", "rm", "mp", "pm", "yb", "ai", "hq", "tv",
+                  "ku", "bn", "ph", "pn", "un", "us", "uk", "sq", "id", "gst", "sst"}
 BLOCK_PREFIX = re.compile(r"^\[[^\]]+\][^:\n]{0,40}:", re.M)
 VTT_TIME = re.compile(r"\d\d:\d\d:\d\d\.\d\d\d\s*-->")
 # honorifics and titles that get swept into the captured name
@@ -62,20 +81,32 @@ def caption_tokens(video_id):
     return None
 
 
+def squash(s):
+    """A name with its spaces and periods removed, for comparing across a bad break."""
+    return re.sub(r"[^a-z]", "", s.lower())
+
+
 def collect():
-    """{episode: (video_id, [names])} plus a corpus-wide Counter of those names."""
+    """{episode: (video_id, [names], [split candidates])} plus a corpus-wide Counter."""
     corpus, per_episode = Counter(), {}
     for f in sorted(glob.glob(str(ROOT / "episodes" / "*" / "*" / "raw.md"))):
         text = Path(f).read_text(encoding="utf-8")
         video_id = re.search(r"video_id:\s*(\S+)", text.split("---")[1]).group(1)
         body = BLOCK_PREFIX.sub(" ", text.split("---", 2)[2])
-        names = []
+        names, splits = [], []
         for m in re.finditer(HONORIFIC + r"\s+" + NAME, body):
             parts = [p for p in m.group(1).split() if p.lower() not in STOPWORDS]
             if parts:
                 names.append(" ".join(parts))
+        for m in SPLIT_NAME.finditer(body):
+            head, frag = m.group(1), m.group(2)
+            if frag.lower() in NOT_A_FRAGMENT or head.lower() in STOPWORDS:
+                continue
+            if body[:m.start()].rstrip().endswith("."):
+                continue  # the fragment opens a sentence; not a broken name
+            splits.append(f"{head} {frag}")
         corpus.update(n.lower() for n in names)
-        per_episode[re.search(r"-(ep\d+)-", f).group(1)] = (video_id, names)
+        per_episode[re.search(r"-(ep\d+)-", f).group(1)] = (video_id, names, splits)
     return corpus, per_episode
 
 
@@ -91,13 +122,20 @@ def main():
     print(f"{sum(corpus.values())} honorific-anchored name mentions, "
           f"{len(corpus)} distinct, {len(frequent)} established spellings\n")
 
-    near, unheard, no_caption = [], [], []
-    for ep, (video_id, names) in sorted(per_episode.items()):
+    squashed = {squash(n): n for n in frequent}
+    near, unheard, no_caption, broken = [], [], [], []
+    for ep, (video_id, names, splits) in sorted(per_episode.items()):
         if args.episodes and ep not in args.episodes:
             continue
         tokens = caption_tokens(video_id)
         if tokens is None:
             no_caption.append(ep)
+        for cand in sorted(set(splits)):
+            if cand.lower() in corpus and corpus[cand.lower()] > RARE_MAX:
+                continue
+            hit = difflib.get_close_matches(squash(cand), list(squashed), n=1, cutoff=0.90)
+            if hit and squash(cand) != hit[0]:
+                broken.append((ep, cand, squashed[hit[0]], corpus[squashed[hit[0]]]))
         for name in sorted(set(names)):
             count = corpus[name.lower()]
             if count > RARE_MAX:
@@ -119,6 +157,17 @@ def main():
         print(f"{'sim':>5} {'ep':6} {'as transcribed':30} {'probably':28} seen")
         for negative_ratio, ep, name, match, count in sorted(near):
             print(f"{-negative_ratio:5.2f} {ep:6} {name[:30]:30} {match[:28]:28} x{count}")
+    else:
+        print("none")
+
+    print()
+    print("=" * 78)
+    print("SPLIT NAMES -- one name the ASR broke into fragments")
+    print("=" * 78)
+    if broken:
+        print(f"  {'ep':6} {'as transcribed':30} {'probably':24} established")
+        for ep, cand, match, count in sorted(broken):
+            print(f"  {ep:6} {cand[:30]:30} {match[:24]:24} x{count}")
     else:
         print("none")
 

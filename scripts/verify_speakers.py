@@ -65,6 +65,39 @@ VERIFY_SCHEMA = {
     "required": ["speaker_count", "transcript_guess", "named_mentions", "voice_descriptions"],
 }
 
+# --at mode asks a different question. Counting voices tells you an exchange happened; it
+# does not tell you WHERE it turned, which is what a collapsed 12-minute turn needs. This
+# asks for the ORDER of voices with the verbatim first words of each, so the boundaries can
+# be lined up against a read of the text and against video frames.
+ORDER_PROMPT = """Listen to this clip from a Malaysian political podcast. You are NOT told who speaks, and you must NOT guess any name.
+
+Report only what you hear:
+1. How many distinct voices speak.
+2. Every voice change, in order. For each, give the offset in seconds from the start of this clip and the first few words that voice says, verbatim, in the language spoken.
+3. Label the voices V1, V2, V3 in order of first appearance, and reuse those labels when a voice returns.
+
+Output as JSON."""
+
+ORDER_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "speaker_count": {"type": "integer"},
+        "turns": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "offset_seconds": {"type": "number"},
+                    "voice": {"type": "string"},
+                    "first_words": {"type": "string"},
+                },
+                "required": ["offset_seconds", "voice", "first_words"],
+            },
+        },
+    },
+    "required": ["speaker_count", "turns"],
+}
+
 
 def _ffmpeg_exe():
     return shutil.which("ffmpeg") or str(_FFMPEG_FALLBACK)
@@ -116,12 +149,13 @@ def extract_clip(audio_path, start_seconds, out_path):
     )
 
 
-def verify_clip(client, clip_path):
+def verify_clip(client, clip_path, order=False):
     audio_file = lib_gemini.upload_audio(client, clip_path, mime_type="audio/wav")
-    config = types.GenerateContentConfig(response_mime_type="application/json", response_schema=VERIFY_SCHEMA, safety_settings=lib_gemini.SAFETY_SETTINGS)
+    prompt, schema = (ORDER_PROMPT, ORDER_SCHEMA) if order else (VERIFY_PROMPT, VERIFY_SCHEMA)
+    config = types.GenerateContentConfig(response_mime_type="application/json", response_schema=schema, safety_settings=lib_gemini.SAFETY_SETTINGS)
 
     def call():
-        resp = lib_gemini.generate_content(client, [audio_file, VERIFY_PROMPT], config)
+        resp = lib_gemini.generate_content(client, [audio_file, prompt], config)
         return json.loads(lib_gemini._text(resp))
 
     return retry(call, max_attempts=5, base_delay=15, what="speaker verification")
@@ -132,23 +166,38 @@ def main():
     parser.add_argument("video_id")
     parser.add_argument("--label", default=None, help="only sample turns with this exact speaker label")
     parser.add_argument("--samples", type=int, default=8)
+    parser.add_argument("--at", nargs="*", default=[], metavar="MM:SS",
+                        help="probe these times instead of sampling raw.md's turns, and ask "
+                             "for the ORDER of voices rather than a count. Use this when "
+                             "raw's turn boundaries are themselves what is in doubt.")
     args = parser.parse_args()
 
     episode = load_episode(args.video_id)
     slug = episode_slug(episode)
-    raw_path = EPISODES_DIR / episode_path(episode) / "raw.md"
-    _, body = read_frontmatter_body(raw_path)
-    turns = parse_turns(body)
-    samples = pick_samples(turns, args.label, args.samples)
-    if not samples:
-        raise SystemExit(f"no turns found for label={args.label!r} in {raw_path}")
+    if args.at:
+        # No dependence on raw.md at all: its labels and its clock are exactly what an
+        # --at probe is meant to test. ep40 stamps [35:38] for words the audio has at
+        # 38:44, so a probe anchored on raw's turns would look in the wrong place.
+        samples = [{"ts": ts_to_seconds(t), "speaker": "(not claimed)", "text": ""}
+                   for t in args.at]
+    else:
+        raw_path = EPISODES_DIR / episode_path(episode) / "raw.md"
+        _, body = read_frontmatter_body(raw_path)
+        turns = parse_turns(body)
+        samples = pick_samples(turns, args.label, args.samples)
+        if not samples:
+            raise SystemExit(f"no turns found for label={args.label!r} in {raw_path}")
 
     print(f"{slug}: sampling {len(samples)} turn(s)" + (f" labeled {args.label!r}" if args.label else ""))
 
     AUDIO_DIR.mkdir(exist_ok=True)
     audio_path = AUDIO_DIR / f"{args.video_id}.m4a"
-    print("downloading audio ...")
-    yt_download.download_audio(args.video_id, AUDIO_DIR)
+    had_audio = audio_path.exists()
+    if had_audio:
+        print(f"using cached {audio_path.name}")
+    else:
+        print("downloading audio ...")
+        yt_download.download_audio(args.video_id, AUDIO_DIR)
 
     client = lib_gemini.get_client()
     existing = json.loads(OUT_PATH.read_text(encoding="utf-8")) if OUT_PATH.exists() else {}
@@ -159,11 +208,16 @@ def main():
         print(f"  [{turn['ts']}s] claimed={turn['speaker']!r} ...", flush=True)
         extract_clip(audio_path, turn["ts"], clip_path)
         try:
-            verdict = verify_clip(client, clip_path)
+            verdict = verify_clip(client, clip_path, order=bool(args.at))
         except Exception as e:
             print(f"    FAILED: {e}")
             continue
-        print(f"    heard {verdict['speaker_count']} speaker(s); named: {verdict['named_mentions']}")
+        if args.at:
+            print(f"    heard {verdict['speaker_count']} voice(s):")
+            for t in verdict["turns"]:
+                print(f"      +{t['offset_seconds']:5.1f}s {t['voice']:3} {t['first_words'][:64]}")
+        else:
+            print(f"    heard {verdict['speaker_count']} speaker(s); named: {verdict['named_mentions']}")
         episode_results.append({
             "claimed_ts": turn["ts"],
             "claimed_speaker": turn["speaker"],
@@ -173,7 +227,11 @@ def main():
         OUT_PATH.write_text(json.dumps(existing, indent=2, ensure_ascii=False), encoding="utf-8")
 
     clip_path.unlink(missing_ok=True)
-    audio_path.unlink(missing_ok=True)
+    if not had_audio:
+        # Only delete what this run downloaded. Unconditional deletion threw away a
+        # cached m4a that other tools (frames_at.py, the caption matcher) reuse, and a
+        # 2-hour episode is not a cheap re-download.
+        audio_path.unlink(missing_ok=True)
     print(f"wrote {OUT_PATH}")
 
 
