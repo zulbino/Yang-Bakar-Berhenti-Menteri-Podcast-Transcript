@@ -70,13 +70,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [05:12] Haziq: Tak boleh bagi gift langsung.
 
-[05:13] Speaker 1: Halah.
-
-[05:14] Speaker 1: Rugi *opportunity*.
-
-[05:15] Haziq: Tak
-
-[05:15] Speaker 1: payah buat TikTok lah malam ni.
+[05:13] Multiple speakers: Halah. ... Rugi *opportunity*. ... Tak ... payah buat TikTok lah malam ni.
 
 [05:22] Rafizi: Hm... Beria... nak komen ni, saya selalunya kurang... kurang selesalah kalau
 
@@ -124,7 +118,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [09:41] Rafizi: Beria macam ni tak
 
-[09:43] Speaker 1: apa. Beria macam
+[09:43] Speaker ?: apa. Beria macam
 
 [09:44] Haziq: ni tak apa. Tiap-tiap hari dia beria macam ni tak apa.
 
@@ -132,11 +126,11 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [09:53] Haziq: Siapa gambar tu? Ceplos? Tapi dia puji YB eh?
 
-[09:59] Speaker 1: Itu zaman
+[09:59] Speaker ?: Itu zaman
 
 [09:59] Rafizi: dahulu. Ini ada orang tag lah, ada orang tag saya. "Apa masalah jiwa dia ni?" So, orang tak tahu latar belakang kan? Sebab sebab dia kata dia ni wirid tiap-tiap hari, tiap-tiap jam wirid nama aku je kan? Takut nanti dia mati, dia wirid nama aku juga sebelum dia mati kan? Itu masa, itu tahun 2019. Oh, bukan senang nak dapat picture bersama keluarga. Tokoh hebat. "Ni apa salah eja macho ni? Tapi paling mancho."
 
-[10:39] Speaker 1: Well, yalah saya saya
+[10:39] Speaker ?: Well, yalah saya saya
 
 [10:43] Rafizi: sebenarnya... watak macam ini datang dan pergi kan? Jadi ada sebablah. Cuma saya ingat kalau yang dia beria... Saya tak faham. Nak saya nak kata tak faham, tak tahulah. Saya saya faham kenapa dia beria ratib nama aku tiap-tiap hari ni. Cuma saya tak faham yang dalam kepala otak dia tu apa yang dia rasa dia dapat? Tapi part of it I think is because it's personal. Ha sebab cerita dia...
 
@@ -398,7 +392,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:25:38] Rafizi: Entah-entah Wan Fauzuddin. Itu bukan. Tak, saya tarik balik. Tarik balik. Tarik balik. Gurau saja. Oh ini yang... Yelah saya ada orang forward lah kan dan saya tengok makin lebat lah serangannya kepada batang tubuh saya. Ya. Terutamanya daripada penyokong PKR dan juga chaplose PKR lah kan. Itu ada orang forward, saya tak tulis panjang lah, tak baca panjang lah. Memahami psikologi seorang nasisis bernama Rafizi Ramli. Ada orang forward kat saya, YB, nasisis ni penyokong nazi ke? Random betul. Penyokong nazi. Tu, aku kata daripada rakyat Malaysia tak faham apa itu
 
-[1:26:29] Speaker 1: nasisis. Terus.
+[1:26:29] Speaker ?: nasisis. Terus.
 
 [1:26:33] Haziq: Jadi? Dia agak jauh sikit lah YB. Saya rasa soal merajuk tak merajuk ni kalau saya boleh travel balik kepada episod pertama lah. Yang kita pernah tanya secara dalam YB merajuk tak merajuk. Tapi gaya saya tanya waktu tu orang tak suka lah. Mungkin sebab very plain. Tahu tak apa? Saya cuba dramatize sikit tapi saya takut lah nak tanya. Tapi saya tanya je lah. Yalah kalau aku tak suka aku sembuh. Tapi ini sebab ramai juga yang start tanya lah YB. Berkaitan merajuk tak merajuk? What if Dato' Sri Anwar Hmm betul-betul serius cuba reconcile semula dengan YB contohnya kan tapi sebab for the bigger the so-called bigger interest lah mungkin sebab elak kapas jadi kerajaan ke ataupun mungkin diorang memang tak boleh terima selain daripada itu dan kalau page kalah tu maksudnya
 
@@ -408,7 +402,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:27:58] Rafizi: Yelah soal tu tu, the problem with that question yang I don't think I should entertain because the premise is wrong. Soalan yang kau tanya tu ialah kau pun dah jadi chaplos. Kau mengulangi naratif Chaplos ini yang bahawa aku ni mengajuk. So, I mean, the issue is this. Kalau tengok kepada semua ni dengan salim Iskandar, tak salim Iskandar, semua kan, digerakkan cyber trooper, cheplos, media-media kerajaan, yang di bawah JCOM semua ni kan untuk menyerang peribadi saya sampai diperkenalkan perkataan nazis. SIS. Ni kan? SIS. SIS. Eee... Sebenarnya saya ingat kalau ini diteruskan oleh PKR, dia akan terus melebarkan jurang di antara pandangan rakyat itu dengan bubble yang PKR duduk. Naratifnya ialah Meraju Naratifnya ialah narcissist. Semua dia je betul. Semua dia je tak boleh bekerja dengan orang lain semua kan. I'm trying to put a frame of argument sekarang ni Yang kalau adalah orang-orang PKR tengok kan You have to kadang-kadang pakai a different cap. Ini yang masalah parti-parti pemerintah daripada zaman UMNO dulu ke, kalaupun PN ke jadi kerajaan kan. Kalau kita berada di puncak kuasa tu, kita pakai cap kita je tau. Kita melihat semua itu daripada lensa kita sebenarnya rakyat tak ambil pot orang tak tengok macam itu sebab itu saya kata survei dan data itu penting sebab mustahil untuk kita tahu apa di dalam kepala 30 juta rakyat Malaysia. Mustahil. Jadi kalau macam saya sebagai ahli politik lah kan, satu perkara yang saya paling... teruja sepanjang masa, pada masa sama teruja, pada masa yang sama takut ialah apa sebenarnya dalam kepala rakyat biasa ini. Sebab itu saya gunakan data yang berterusan. Dan data yang berterusan ini maksudnya analisa yang berterusan sama ada melalui nationwide survey, sama ada big data, analisis kepada sentiment, commencement, semua itu kita kena tengok tau. Barulah kita tengok Actually Kayak biasa ni Fikir macam ini Langsung tak sama macam apa yang saya lihat dari perspektif saya. Jadi, ambil cerita Merajuk. Orang PKR kena Kena perhati-hati jugak tau eh Sebab Kalau saya merajuk lah kan, saya sebenarnya ada beberapa tindakan lah. Pertama, orang yang merajuk ni dia mesti bermula daripada dia merajuk kerana nakkan sesuatu. Dan orang politik ni nakkan sesuatu tu ialah kuasa lah. Then dia tak compute tau. Dia merajuk tapi dia letak jawatan. Dia walk out freely. Kan dia tak compute. Sebab yang ini akan dikecam dan chaplos ni lepas ni akan makin serang. Berhati-hati bila guna serangan peribadi macam nasisis, merajuk semua ni kerana Cephalos semua ni Budak-budak muda tau Dia umur 20-an, 30-an Dia tidak melalui zaman 98 zaman reformasi tu tau Dia tidak ada di situ. Kerana kalau the same frame of arguments digunakan terhadap Dato' Sri Anwar Ibrahim, lagi bahaya. Saya akan pergi bersama-sama. Berbalik kepada soal mengajuk ni kan Orang mengajuk ni dia nak sesuatu Kalau dia nak sesuatu Orang politik dia nak jawatan Dia nak kuasa Dia takkan letak jawatan Aku letak jawatan dah And I walk keluar dengan bebas That was not the case dengan Dato' Sri Anwar dulu. Dato' Sri Anwar dipecat kerana tidak mahu meletakkan jawatan. It's just that it was not pointed out yet tau Kan So keadaan dia Sebab itu Rakyat biasa ni Dia membandingkan dua perkara ni Di sini anda mempunyai seseorang yang sebenarnya okeylah kerana anda tidak mahu saya tidak lagi mempunyai mandat dan saya diharapkan untuk hanya ikut ya ya ya ya itu bukan saya. Then okeylah saya meletakkan jawatan, you run the thing lah. That was not the case in 1998. Datuk Seri Anwar diminta meletakkan jawatan. Sebab dia tak nak meletakkan jawatan lah, dia dipecat. Bila dia dipecat lah, maka tiba-tiba dia jadi reformasi. Yang membawa kepada the next issue. Dia serang secara berterusan nasisis ni. Kerana dia tak tahan sebab dia kata dia ni kerja menyerang kerajaan sepanjang masa. Masa dia dua tahun dalam kerajaan, dia tak ada bersuara pun. Apply the same frame of argument kepada Dato' Sri Anwar tahun 1998. Lagi teruk. Sebabnya orang kata, masa itu, masa aku muda umur kau kan, itulah yang orang tua-tua semua cakap kat aku. Why lah you nak menghabiskan masa you ni untuk dia yang 16 tahun dia dalam kajian. He was part of the system. Dia tak pernah bangkang. Masa judiciary crisis 1988, he was there. Apa dia buat? Engkau yang tak ada kena-mengena ni, you have a good job semua. Why would you do it? You don't know him. We know him. Jika anda menggunakan frame argumen yang sama pada Datuk Sri Anwar, ia kelihatan lebih teruk. Jadi sebab itu saya kata Kalau orang PKR dan juga ceplos-ceplos ni tidak ada daya pemikiran dan analisa yang tahapnya tinggi sedikit daripada itu, dia akan terus mendedahkan PKR kepada serangan-serangan dan pemikiran logik orang biasa yang orang PKR tak nampak tau kerana dia tak sok. Kepada batang tubuh Dato' Sri Anwar Ibrahim My answer then is the same to my answer now Masa orang saya umur 21 kerja macam kerja gila untuk menulis surat kepada berkempik kepada semua ahli politik di Eropah semua pergi jumpa lobby untuk Dato' Sri Anwar semua untuk bebaskan dia kan? Jawapan saya sama, this is not about Anwar Ibrahim the person. Saya membantah kerana keruntuhan kredibiliti institusi-institusi yang ada, yang disalahgunakan untuk menyelesaikan political rivalry. Jika anda tidak suka Anwar Ibrahim Tun Mahathir Masaitu, I don't want to get involved, just sack him lah. Kan? Ataupun if you don't like him because of whatever, reshuffle the cabinet ke, ataupun tak payahlah nak timbulkan soal angkut katil semua, liwat tak liwat ni kan? Then it's pure political maneuvering. The moment... Pada pandangan saya ketika itu, dia mula melibatkan campur tangan yang meruntuhkan kebebasan institusi kehakiman, kerajaan, polis, macam mana media masa digunakan untuk karakter assassination. Kalau it could happen to a deputy prime minister, nobody is safe. It could happen to me as well. Itu sebabnya saya dalam PKR dulu. Dan bagi saya, selagi kerajaan tidak bertukar, tidak ada peaceful democratic change, selama mana BN UMNO berkuasa, maka the power is so entrenched. Dan kita akan terus berada duduk di bawah satu kerajaan yang terlalu berkuasa dan rakyat ini terdedah kepada salah guna-salah guna kuasa tersebut. Betul. Jawapan yang sama yang saya ada sekarang. Ia bukan tentang mempertahankan kerajaan ini supaya kita tak dapat pas. It is not about... Apa nama ni? Alah kesianlah Dato' Sri Anwar Ibrahim. Dia dah tua. My duty is to society and to the country and to the public. And sumbangan saya ialah untuk memastikan... Bahawa kerajaan kita ini semua berlaku dengan jujur, tidak ada campur tangan, rasuah dibuat dengan baik. Malangnya yang jadi rasuah itu ditentang dengan baik, malangnya sekarang ini Perdana Menterinya ialah Datuk Seri Anwar. daripada tahun 98 itu, kalau kerajaan ini sama ada satu penggal ke dua penggal ke, di akhir pentadbiran kerajaan ini, Negara kita berada dalam keadaan yang lebih baik, lebih bebas, lebih adil daripada yang ada sebelum ini. Jadi kalau mereka terus serang soal merajuk, tak merajuk ni kan, I don't lose anything. Sebab you can tell that aku tak kisah. It doesn't perturb me at all. Yang akan menjadi masalah ialah kalau... Kerajaan PKI, pimpinan PKI ataupun PA sendiri, dia mengenepikan perkara-perkara yang saya sebut ini dan dia mengambil pilihan jangan jawab perkara-perkara itu, jangan perbaiki kelemahan-kelemahan itu, serang budak ini. Saya tidak rasa itu berfungsi. In fact, Najib pun dulu buat macam itu. Dan Najib dulu, apa nama ni, dengan cyber trooper-nya, kemudian dengan apa nama ni, tangkapannya, samannya, it didn't work. Because, ini satu perkara yang ingatan kepada saya dan ingatan kepada semua pimpinan politik di luar. Kalau saya cakap yang saya timbulkan ini... Tidak ada makna kepada rakyat Maka dia takkan ada kesan kepada kerajaan, kepada siapa-siapa Aku cakap engkau je lah Dia tak ada kesan langsung Bila sesuatu yang diperkatakan oleh sesiapa pun, hatta oleh seorang ahli politik kanan dalam negara, kalau perkara itu jadi isu yang mula ada risiko kepada kita, maksudnya you tak boleh lari because perkara itu ada resonance, ada traction. Dan sesuatu isu itu hanya ada traction kalau apa yang dia kata itu turut dipikirkan oleh rakyat. Kalau apa yang, kenapa yang Papa Gomor duk cakap pumpang-pumpang-pumpang kajian nak tukar semua ni, dia tak jadi isu besar kepada negara. Sebab geng-geng walabot dia je yang duk, ya ya ya, rakyat tak fikir macam itu. Haa. Kenapa kalau saya sebut tentang Azam Baki, dia view tinggi, media ambil dalam satu dua hari dia jadi isu negara sampai Tan Sri Azam Baki kena jawab ke apa? Sebab, dia bukan sebab saya. Sebab yang saya sebut itu, itulah yang dipikir oleh sebahagian besar rakyat kita. Saya hanya jadi medium untuk menyampaikan. Jadi soal Rafizi mengajuk tak mengajuk ni sebenarnya bukan soal Rafizi. Dia soal kerajaan. Soal PH dan PKR. If you continue to bury your heads in the sand, then you are in trouble. Apa yang saya cuba buat ialah untuk tidak mengulangi kesilapan terutamanya pada zaman Najib yang dibuat oleh UMNO lah. Apapun yang Najib buat walaupun satu dunia dah cakap ni pasal YMDB ni. Mereka masih lagi KJ ke siapa-siapa yang ada tu masih lagi ya ya ya ya kan. By the time Najib dah kalah. masa tu nak menyesal ke tak menyesal, tak gunalah. So lebih baik jadi budak jahat macam saya, sebut supaya semua kelemahan itu diperbaiki, Pemenangnya ialah Anwar Ibrahim dan kerajaan lah kalau mereka perbaiki dan setiap perkara yang rakyat rasa tak selesa dengan kerajaan ini diselesaikan satu demi satu demi satu, maka akhirnya menanglah kali kedua. It doesn't make any difference to me. Saya tak tetapkan lagi pun aku nak buat apa lepas ni. Kan? Sekarang ni sebab ada dua tahun sebelum parlimen berubah. But... Cara begini... menunjukkan bahawa strategi politik yang ada dalam PKR sekarang ini adalah sangat-sangat ke laut.
 
-[1:41:55] Speaker 1: Hmm
+[1:41:55] Speaker ?: Hmm
 
 [1:41:57] Haziq: Selamat tinggal, O.B. Noted Untuk mereka-mereka yang di luar Untuk ambil tindakan Kalau nak menang kali kedua Okay
 
@@ -416,7 +410,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:49:25] Haziq: Okay baik YB, kita ke next issue, kita ada lagi. Kita ada Felda. Ahli politik bergaduh, Felda makin teruk. Mungkin saya start dengan soalan yang agak general lah. Kita dah dalam mana ni? Kita dah dalam sejam 40 minit. Okay. Jangan lama-lama aku nak balik seperti biasa. Ya, ayuh kita balik. Okay, baik-baik. Dengan segala benda yang telah dibuat oleh kerajaan untuk Felda daripada pelan pemulihan, kemudian dalam 2023, kerajaan jamin 10 bilion untuk suku. Nampaknya macam tak berapa baik apabila FGV sendiri terpaksa diambil alih oleh Felda. Jadi, banyak dah so much things invested tapi hasil tu nampak mungkin tak berapa memberasangkan. Jadi, apa yang tak kena sebenarnya kalau kita nak post-mortem sikit pasal Felda ni? Ni, pasal Felda ke pasal Terengganu ni? Dia pasal Terengganu tu. Isu panas sekarang ni Terengganu halau lah. Tapi, itu isu panas yang berkaitan dengan konflik antara negeri dengan federal lah berkaitan dengan premium tu kan.
 
-[1:50:30] Speaker 1: Hmm.
+[1:50:30] Speaker ?: Hmm.
 
 [1:50:35] Haziq: Hmm Yeladi
 
@@ -432,7 +426,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:09:30] Farhan (Pa'an): Maaf, Wavy Saya hanya mahu Dalam nota yang lebih ringan Anda bertemu Tan Sri Hanafiyah
 
-[2:09:36] Speaker 1: Mungkin
+[2:09:36] Speaker ?: Mungkin
 
 [2:09:37] Farhan (Pa'an): Anda mahu Berkongsi Beberapa
 
@@ -440,7 +434,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:10:18] Haziq: Baik, baik. Okay, O.B. Kita dah melepasi dua jam lebih. Kita ada satu lagi untuk... Boleh weh Satu je lah kot kan Lepas tu kita habis lah Hmm Yang terakhir, politik. Oh ni baru best sikit. Semua... Kenapa kau simpan yang ini kat belakang? Save best for the last. Haa,
 
-[2:10:38] Speaker 1: end with the bank. Hmm,
+[2:10:38] Speaker ?: end with the bank. Hmm,
 
 [2:10:40] Haziq: dan yelah benda ni berlaku disebabkan hegemoni BN terbatal YB sejak Mei 2018. Jadi semua tu terkacau-kacau semua. Tapi pada pandangan YB lah, semua kekucah-kekucah kaciran ini... Sebenarnya, berapa jauh atau berapa jauh? huru-hara ni akan berlaku. To what extent in what sense? I mean, dari segi masa satu, okay, bila saya cakap masa, dia akan datang to another question yang mungkin agak spesifik sikit. Contohnya, prediction on pilihan raya akan datang. Adakah dia akan masih paling bertegantung? Ataupun... Itu soalan-soalan yang
 
