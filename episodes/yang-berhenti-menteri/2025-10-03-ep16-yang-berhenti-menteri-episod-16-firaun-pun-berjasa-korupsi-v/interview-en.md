@@ -13,20 +13,21 @@ hosts:
 - Haziq
 guests: []
 topics:
-- Viral political news reactions (Beria segment)
-- Corruption Perception Index and anti-corruption rhetoric
-- Tyre import duty evasion scam
-- Cybertroopers/troll farms and government social media
-- Deep state debate in the civil service
-- Fir'aun/Pharaoh remark by Anwar Ibrahim and consistency in anti-corruption enforcement
-- Trump's Gaza plan and Tony Blair governorship proposal
-- Malaysia's diplomatic stance on Gaza ceasefire
-- Gaza flotilla and return of 15 Malaysians
-- Unitree robotics and applications in Malaysia's palm oil industry
-- Jet engine industry feasibility for Malaysia
-- Political communication, content creation ethics, and authenticity
-- Diplomats' children's international school subsidies
-- 'Education system: school leaving age and A-Levels/IB timing'
+- 'Segmen Beria: pergaduhan Azmin Ali dan video lama, protes remaja isu minyak RM1.99'
+- 'Segmen Beria: arahan mahkamah India tentang tulisan doktor dan PAS-Trump'
+- Persepsi rasuah dan Corruption Perception Index (CPI) di bawah kerajaan Madani
+- Kes penyeludupan tayar dan rasuah di kastam/pelabuhan (Ops Grip)
+- Dakwaan cyber trooper dan 'like' palsu daripada Vietnam menyokong PM dan pemimpin PKR
+- Kontroversi 'deep state' di Kementerian Pendidikan dan kenyataan Dr. Mazli Malik
+- Kenyataan Anwar Ibrahim 'Fir'aun pun ada jasa' dan isu Tan Sri Azam Baki/SPRM
+- Plan Gaza Trump, pelantikan Tony Blair dan sejarah Balfour Declaration
+- Kenyataan Wisma Putra menyambut baik usaha AS mengakhiri perang Gaza
+- Penghantaran pulang 15 rakyat Malaysia dari flotila kemanusiaan Gaza dan solidariti global
+- Syarikat robotik Unitree, Zon Ekonomi Khas Johor-Singapura (JS-SEZ) dan inisiatif Twin City Hangzhou
+- 'Soalan pendengar: sistem persekolahan menengah dan permulaan A-Levels/IB'
+- 'Soalan pendengar: kemudahan sekolah antarabangsa untuk anak pegawai dan diplomat kerajaan'
+- 'Soalan pendengar: halangan membangunkan industri enjin jet komersial/perang di Malaysia'
+- 'Soalan pendengar: prinsip komunikasi dasar ahli politik berbanding konten pemburu views'
 summary: 'Episode 16 of ''Yang Berhenti Menteri'' podcast hosted by Rafizi Ramli.
   The episode opens with a lighthearted ''Beria, Beriamat'' segment reacting to viral
   news clips (a political spat between Wan Saiful and Azmin, teens protesting cheap

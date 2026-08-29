@@ -13,21 +13,20 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- SPRM/MACC investigation and cabinet accountability
-- PKR internal conflicts (Ramanan vs Nurul Izzah, Batu seat dispute)
-- Statistics and survey sampling literacy
-- Farhash Hashim money laundering allegations
-- PAS Nik Zawawi controversial ceramah
-- KSN Azam Baki social media controversy
-- T20/M40/B40 income classification reform
-- PADU and PAKW (net disposable income methodology)
-- Fuel subsidy targeting
-- Car taxation structure (import duty, excise duty, sales tax)
-- EV import policy and MITI's CBU restrictions
-- Proton/Perodua industry protectionism
-- National Energy Transition Roadmap (NETR) EV targets
-- Rafizi's political philosophy and reasons for leaving PKR
-- Upcoming 17 May announcement/political future
+- Siasatan SPRM terhadap Rafizi Ramli dan proses undang-undang
+- 'Beria: kontroversi survey dan kenyataan Ramanan Ramakrishnan lawan Nurul Izzah dalam PKR'
+- 'Beria: kenyataan pensyarah Dr Jamaie Hamil membela Farhash Iqbal'
+- 'Beria: kontroversi ceramah Ustaz Nik Zawawi mengenai Saidina Abu Bakar dan Saidina Umar'
+- 'Beria: pergaduhan Ramanan dan Fuziah Salleh merebut kerusi Parlimen Batu'
+- 'Beria: kenyataan KSN memuji SPRM dan Jawatankuasa Kawan-Kawan'
+- Isu pengkelasan T20 dan penyasaran semula subsidi minyak
+- Konsep PADU, PAKW dan pendapatan boleh belanja bersih berbanding pendapatan kasar
+- Perbezaan pendirian DAP dan MOF mengenai subsidi bersasar dan pindahan tunai
+- Struktur cukai kereta (import duty, excise duty, sales tax) dan sebab harga kereta tinggi di Malaysia
+- Dasar EV, sekatan AP MITI ke atas CBU dan perlindungan industri automotif tempatan (Proton/Perodua)
+- Refleksi peribadi Rafizi tentang sebab tidak boleh berdamai dengan PKR
+- Falsafah politik Rafizi tentang integriti, mudarat lebih kecil dan matlamat perjuangan
+- Pengumuman hala tuju politik pada 17 Mei dan konvensyen Pakatan Harapan yang bertembung tarikh
 summary: 'Episode 48 of Podcast Yang Berhenti Menteri, hosted by Haziq and Farhan
   (Pa''an) with Rafizi Ramli. The episode opens with Rafizi discussing his SPRM (MACC)
   interrogation and the ongoing investigation involving cabinet-level decisions. In

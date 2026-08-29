@@ -13,27 +13,30 @@ hosts:
 - Wan Afiq
 guests: []
 topics:
-- Anwar Ibrahim's WhatsApp habits
-- Phone hacking/Pegasus spyware allegations
-- Onn Hafiz Johor MB controversy
-- Fahmi Fazil misinformation/fitnah campaign
-- Tengku Zafrul in Pandan
-- PKR mass resignations vs Bersama membership
-- Bersama vs MUDA differentiation
-- 2019 leaked letter to Anwar Ibrahim
-- Foreign workers and refugee (Rohingya/UNHCR) policy
-- PKR constitution and Bersama's flat party structure
-- Koperasi Kira and Fleksimat business initiatives
-- Healthcare reform and doctor-to-patient ratio
-- Decentralization of education and healthcare
-- Tax-to-GDP ratio and taxation reform
-- Housing affordability for Gen Z
-- Party funding, crowdfunding, and Invoke history
-- Bersama leadership and Syukri Razab as president
-- Tan Sri Khalid Ibrahim and the Kajang Move controversy
-- Azam Baki and corporate mafia/royal commission calls
-- MyCast portal restrictions on opposition MPs
-- Bersama's strategy to engage Gen Z voters
+- 'Beria: bocoran nombor telefon dan forward mesej Anwar Ibrahim'
+- 'Beria: dakwaan hacking Pegasus terhadap MB Johor Onn Hafiz dan pengalaman peribadi Rafizi'
+- 'Beria: Fahmi Fadzil dan kempen ''tak pasti, jangan kongsi'' vs fitnah RM8.6 juta'
+- 'Beria: Tengku Zafrul sebagai calon Pandan dan perbandingan dengan pengalaman Rafizi bersama Anwar'
+- 'Beria: kenyataan Fuziah Salleh mengenai ahli PKR keluar parti dan masalah app Adil'
+- Latar belakang penubuhan Bersama, perbezaan dengan MUDA dan pendirian tidak menyertai gabungan/kerajaan
+- Surat peribadi Rafizi kepada Anwar Ibrahim 2019 yang bocor
+- Dasar mengurangkan pekerja asing kepada 5% dan isu pelarian Rohingya/UNHCR
+- Struktur perlembagaan dan flat structure Bersama berbanding parti sedia ada
+- Koperasi Kira dan hubungannya dengan keahlian PKR/Bersama
+- Reformasi SPR dan pengurangan kuasa Perdana Menteri
+- Nisbah doktor-pesakit 1:300 dan pelaburan dalam sistem kesihatan negara
+- Pembangunan ekonomi dan elektrifikasi (SMR) di Sandakan, Sabah
+- Episod 'langkah Kajang' dan saman Tan Sri Khalid Ibrahim
+- Kriteria pemilihan calon Bersama dan sasaran umur muda
+- Reformasi tax-to-GDP ratio dan cadangan GST/percukaian progresif
+- Isu perumahan mampu milik untuk Gen Z dan graduan (demand vs supply side, IBS)
+- Sistem PADU dan pengkelasan pendapatan boleh guna bersih
+- Desentralisasi tadbir urus pendidikan dan kesihatan ke peringkat negeri
+- Suruhanjaya Diraja mengenai Azam Baki dan 'mafia korporat'
+- Pembiayaan telus Bersama melalui crowdfunding berbanding sumbangan taikun
+- Perancangan 100 hari pertama kerajaan Bersama jika berkuasa
+- Strategi Bersama menarik pengundi Gen Z dan golongan atas pagar
+- Sesi Firing Squad Q&A pantas 90 saat dan soalan penutup ringan (F1, akaun sosial media rasmi Bersama)
 summary: Episode 50 (special live "Beria" edition) of Rafizi Ramli's YBM podcast,
   co-hosted by Wan Afiq and Farhan (Pa'an). The first segment runs through several
   "beria" (self-important/attention-seeking) news items, with Rafizi commenting on

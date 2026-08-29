@@ -13,18 +13,21 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- RCI Tabung Haji report analysis
-- Tabung Haji negative reserves history
-- UJSB bailout and toxic asset transfer
-- Creative accounting and hibah dividend practices
-- Zakat and akad structure issues
-- Problematic Tabung Haji investments
-- Haj subsidy sustainability
-- Sukuk UJSB redemption and rollover controversy
-- Political accountability
-- Election campaign Beria segment
-- Nicky Liow DNAA controversy
-- Akmal Saleh commentary on RCI
+- 'Beria: roundup viral kempen pilihan raya dan gelagat calon'
+- Kontroversi Nicky Liow dan tuduhan double-standard netizen terhadap PH
+- Kritikan Akmal Saleh dan UMNO terhadap laporan RCI Tabung Haji
+- Latar belakang pendedahan Rafizi tentang rizab negatif Tabung Haji sejak 2015
+- 'Penemuan RCI: rizab negatif Tabung Haji dan keperluan bailout 2018'
+- 'Skim Pak Man Telo: amalan hibah/dividen Tabung Haji yang tidak mampan dan creative accounting'
+- Isu zakat pendeposit dan pertukaran akad mudharabah kepada wadiah dan wakalah
+- Senarai pelaburan bermasalah dan rugi Tabung Haji (TH Indo Plantations, Emas Kiara, Trurich, Putrajaya Perdana Berhad/kaitan SRC-1MDB, FGV, dll)
+- Penubuhan UJSB dan pemindahan aset toksik RM10.9 bilion serta struktur sukuk bailout
+- Peranan dan kelemahan Ketua Audit Negara serta pengaruh/tekanan politik menteri-menteri berkaitan
+- Subsidi haji (muassasah) dan kemampanan model perniagaan Tabung Haji masa depan
+- Analisis aliran tunai deposit Tabung Haji 2022 berbanding 2025 dan risiko net outflow
+- Isu penebusan/roll-over sukuk UJSB 2026 dan 2029 serta janji kerajaan Madani yang tidak ditunaikan
+- Fitnah bahawa PH menjarah aset Tabung Haji dan penjelasan RCI mengenainya
+- 'Penutup: cadangan siasatan lanjut dan tanggungjawab agensi penguat kuasa'
 summary: 'Episode 57 of the Yang Berkhidmat podcast opens with a short Beria segment
   covering election campaign gossip (PN/PH candidates, an UMNO candidate''s dismissive
   campaigning style in Lenggeng, controversy over Nicky Liow''s DNAA and photos with

@@ -12,21 +12,18 @@ hosts:
 - Haziq
 guests: []
 topics:
-- Viral fake/bot engagement on PKR live stream (Chittagong, Amharic language)
-- Old PH 'Teman Sejati' nasyid video resurfacing
-- Reset/Recycle campaign poster and Parti Wawasan/PCM's ROS registration dispute within
-  Perikatan Nasional
-- Academic (Dr. Nurhuddin Danu) criticising Rafizi - OEB segment
-- Ahmad Zahid Hamidi reading photo and 'form over substance' political culture critique
-- 'Johor state election overview: PH, BN, PN dynamics'
-- Onn Hafiz's DAP remark controversy and its political fallout
-- Perikatan Nasional/Bersatu/PAS/Gerakan seat negotiation chaos
-- PH candidate disputes (Buloh Kasap, Sharon Teo in Amanah, Puan Zakashi leaving UMNO)
-- Traffic jams as top voter issue in southern Johor
-- Parti Bersama's value proposition as an independent voice
-- Candidate asset declaration and undated resignation letters as accountability measures
-- Volunteer-based, money-free campaign machine and KANCIL mobilisation system
-- Preview of Bersama's 15 candidates and nomination day event logistics
+- 'Beria: kesilapan cyber trooper PH dan komen bahasa Amharic dari ''cabang Chittagong'''
+- Kontroversi kemasukan Parti Wawasan (Reset) ke dalam Perikatan Nasional dan isu pematuhan ROS
+- Kritikan terhadap penganalisis politik (Dr. Nurhuddin Danu) dan budaya 'roda politik berputar'
+- Kritikan budaya 'form over substance' dan gambar membaca buku ala pseudo-intellect dalam politik
+- 'Perkembangan PRN Johor: strategi dan dilema PH termasuk calon MB dan isu peruntukan negeri'
+- Kontroversi kenyataan Onn Hafiz tidak mahu duduk semeja DAP dan kesan sentimen pengundi Cina
+- 'Perpecahan dalam Perikatan Nasional: Bersatu, PAS, Wawasan dan Gerakan menarik diri di Johor'
+- Isu traffic jam sebagai kebimbangan utama pengundi di selatan Johor dan naratif kempen parti-parti besar
+- Peranan dan tawaran Parti Bersama dalam PRN Johor sebagai suara bebas rakyat
+- Dasar pengisytiharan harta, hutang dan pendapatan calon Bersama serta sejarah desakan dalam PH/PKR
+- Sistem sukarelawan KANCIL dan usaha Bersama menjalankan kempen tanpa wang bagi mengubah budaya politik
+- Promosi acara pengumuman calon Bersama dan seruan mobilisasi sukarelawan di Johor
 summary: 'In this episode of the Podcast Yang Berhenti Menteri (Episod 54), broadcast
   briefly from a "secret" location in JB, Rafizi Ramli and his co-host run through
   the "Beria" segment of viral political news: a suspicious record-breaking PKR live

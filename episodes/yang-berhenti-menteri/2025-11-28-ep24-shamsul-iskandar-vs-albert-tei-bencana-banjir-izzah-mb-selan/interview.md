@@ -14,24 +14,25 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Kempen PRN Sabah dan ketidakhadiran Rafizi
-- Skandal viral 'Hatyai' dan banjir Thailand
-- Gimmick politik dan budaya feudal wakil rakyat
-- Surat sokongan/lobi ADUN Terengganu (projek Halalan Toyiban)
-- Pembelaan kerajaan 'substance over form' dan SPRM
-- Kontroversi kenyataan gunung berapi Etiopia
-- Tweet-tweet sindiran dalam politik PKR dan pengurusan media sosial ahli politik
-- JKOM, perbelanjaan komunikasi kerajaan dan cadangan GovTech/PADU
-- Spekulasi Nurul Izzah sebagai Menteri Besar Selangor dan sejarah langkah politik
-  (Port Dickson, Kajang)
-- Kes Syamsul Iskandar dan Albert Tay – dakwaan rasuah lesen perlombongan Sabah
-- Ribut siklon Senyar, banjir dan perubahan iklim
-- Cadangan larangan media sosial bawah umur 16 tahun
-- Pengesahan kelayakan profesional bercakap topik pakar di media sosial (model China)
-- Penemuan sains anti-aging Universiti Osaka
-- Perniagaan sosial Kesum dan Fleksimat
-- Isu 40% hasil Sabah dan hubungan pusat-negeri
-- Budaya menjerit dalam Parlimen Malaysia
+- Kempen PRN Sabah dan ketidakhadiran Rafizi turun berkempen
+- 'Beria: skandal ''kantoi dengan isteri'' semasa banjir Hatyai dan 4,000 rakyat Malaysia terkandas'
+- 'Beria: budaya gimmick dan feudalisme dalam kempen politik tempatan'
+- Surat sokongan ADUN Terengganu dan penyalahgunaan kuasa exco
+- Surat sokongan Pejabat Perdana Menteri, garis panduan OVB dan konsep substance over form
+- Kenyataan kontroversi Ahli Parlimen Ulu Terengganu mengenai gunung berapi Etiopia
+- Tweet menyindir Timbalan Presiden PKR dan etika media sosial ahli politik
+- JKOM (Jabatan Komunikasi Korporat) dan pembaziran perbelanjaan pengiklanan kerajaan
+- Cadangan aplikasi bersepadu kerajaan (PADU) dan GovTech untuk penjimatan kos komunikasi
+- Percaturan politik Nurul Izzah sebagai bakal Menteri Besar Selangor, Tengku Zafrul dan kekosongan kerusi
+- Perbandingan Langkah Kajang dan pilihan raya kecil Port Dickson sebagai strategi politik lampau
+- Skandal rasuah Datuk Seri Syamsul Iskandar dan Albert Tay di Sabah
+- Banjir dan ribut siklon Senyar berkaitan kesan perubahan iklim jangka panjang
+- Cadangan larangan media sosial bagi kanak-kanak bawah umur 16 tahun
+- Penguatkuasaan kelayakan profesional bagi nasihat perubatan/kewangan di media sosial
+- Penemuan ubat anti-penuaan IU1 dari Universiti Osaka (segmen Fuyo)
+- Model perusahaan sosial Kedai Kesum dan Fleksimat
+- Cadangan agihan 40% hasil Sabah dan hubungan fiskal pusat-negeri
+- Sesi Parlimen yang bising dan tingkah laku ahli parlimen semasa berdebat
 summary: Episod 24 podcast "Yang Berhenti Menteri" bersama Rafizi Ramli, dihoskan
   oleh Haziq bersama Farhan (Pa'an). Perbincangan bermula dengan sebab Rafizi tidak
   turun berkempen di Sabah, diikuti segmen "beria" mengulas isu-isu viral seperti

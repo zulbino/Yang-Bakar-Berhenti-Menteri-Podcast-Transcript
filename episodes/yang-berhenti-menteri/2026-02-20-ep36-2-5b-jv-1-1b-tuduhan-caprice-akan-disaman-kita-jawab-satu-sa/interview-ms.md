@@ -14,18 +14,19 @@ hosts:
 guests:
 - Lee Chean Chung
 topics:
-- Wan Fayhsal and religion-based attacks on Muhyiddin/Bersatu
-- Anwar Ibrahim as alleged cybertrooper defending Azam Baki
-- PKR Kedah convention and Anwar's UMNO-style rhetoric
-- Faiz Naaman's RM1.1 billion accusation vs Rafizi's Fleximat/Kesum businesses
-- Ayuh Malaysia crowdfunding for needy families via Fleximat/Kesum
-- Mind Your Mandarin language class initiative
-- Pinjam Gadget device lending and repair program
-- ARM semiconductor deal (NETA) and MITI/MOF credit disputes
-- Caprice's conflict-of-interest allegations over Itramas/Invoke/Neta and threatened
-  defamation suit
-- Bersatu split between Hamzah Zainuddin and Muhyiddin, possible new party
-- Anwar's rhetoric blaming 'Daim and Mahathir agents'
+- 'Segmen Beria: Wan Fayhsal tuduh Bersatu menunggang agama'
+- PM Anwar Ibrahim dituduh jadi 'Saitro' sokong Azam Baki
+- Konvensyen PKR dan naratif 'PKR pada tahap terbaik'
+- Tuduhan curi RM1.1 bilion dan pembukaan Fleximat serta Kesum
+- Kempen sumbangan dan sistem tersusun Fleximat/Kesum melalui Ayuh Malaysia
+- 'Projek Ayuh Malaysia: kelas Mind Your Mandarin dan Pinjam Gadget'
+- Perjanjian ARM dan strategi front-end semiconductor Malaysia
+- Pertembungan Kementerian Ekonomi dengan MITI dan MOF soal ARM/NETA
+- Perebutan kredit politik projek NETA/ARM antara Zafrul, Anwar dan Amir Hamzah
+- Tuduhan Caprice terhadap Rafizi berkaitan Neta, Itramas dan Invoke serta ancaman saman fitnah
+- Sejarah penubuhan Invoke dan hubungan komersial dengan Itramas/Lee Chubu
+- Kesan pemecatan pimpinan Bersatu terhadap pengundi Melayu atas pagar dan kemungkinan parti baharu Hamzah Zainuddin
+- Kritikan Rafizi terhadap Anwar Ibrahim kerana menyerang Tun Mahathir dan Tun Daim tanpa tindakan undang-undang
 summary: 'Rafizi Ramli hosts YB Lee Chean Chung on his podcast, recorded around Chinese
   New Year during Ramadan, covering Malaysian political developments: Wan Fayhsal''s
   religion-framed attacks on Muhyiddin; Anwar allegedly forwarding cybertrooper-style

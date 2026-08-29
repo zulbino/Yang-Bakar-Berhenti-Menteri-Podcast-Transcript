@@ -12,21 +12,21 @@ hosts:
 - Haziq
 guests: []
 topics:
-- PKR internal party elections and branch election controversies
-- '"Kepala tanpa badan" (head without body) voting pattern phenomenon'
-- Rafizi's leave of absence vs. resignation speculation
-- 'Deputy President contest: Rafizi Ramli vs Nurul Izzah Anwar'
-- Nepotism allegations against Nurul Izzah's candidacy
-- Ramanan Ramakrishnan's criticism of Rafizi neglecting grassroots (akar umbi)
-- Return of 'kartel' patronage culture in PKR
-- Westminster system and alignment between party leadership and cabinet posts
-- Marginal seat strategy and campaign preparations for PRU-16
-- PKR's weak support among Gen Z voters
-- Vetting of new/rival-party-affiliated members (e.g., alleged UMNO members) in branch
-  elections
-- Campaign slogan "HERO" and reform idealism
-- Difference between social media influencers and genuine grassroots political leaders
-- Rafizi's political philosophy on power, authenticity, and accountability
+- Kontroversi cuti/resign Rafizi Ramli daripada jawatan menteri
+- Fenomena 'kepala tanpa badan' dalam pemilihan cabang PKR
+- Tuduhan pola nasional dirancang untuk menjatuhkan Rafizi
+- Kritikan Ramanan mengenai Rafizi tidak menjaga akar umbi
+- Budaya kartel dan pak turut/pak ampu dalam PKR
+- Peranan MPB dan Biro Politik dalam menangani isu pemilihan parti
+- Pencalonan Nurul Izzah sebagai Timbalan Presiden dan isu nepotisme
+- Tanggungjawab dan tawaran jawatan Timbalan Presiden PKR (kerusi marginal, perunding kerusi, panglima lawan pembangkang)
+- Sistem Westminster dan hubungan antara jawatan parti dengan jawatan kerajaan
+- Kestabilan kerajaan perpaduan dan perhubungan dengan GPS/BN sekiranya Rafizi kalah
+- Jurang sokongan Gen Z terhadap PH/PKR berbanding PN
+- Jenama kempen 'HERO' dan mesej menggilap idealisme reformasi
+- Isu keahlian tidak sah (ahli UMNO/Pejuang) menang dalam pemilihan cabang dan peranan JPP
+- Beza influencer politik dan pemimpin rakyat yang autentik
+- Persediaan menghadapi PRU-16 dan persepsi rakyat terhadap PKR
 summary: In this special "Yang Berhenti Menteri" edition of Rafizi Ramli's podcast,
   held before a live audience, host Haziq questions Rafizi about the turmoil surrounding
   PKR's ongoing party elections. Rafizi explains his decision to take leave from his

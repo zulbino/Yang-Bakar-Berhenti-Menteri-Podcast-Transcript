@@ -14,20 +14,21 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Cabinet reshuffle analysis
-- Khairul Aming/Rembayung entrepreneurship
-- Letter of support controversy - Kamal Munim
-- Influencer at school event controversy
-- Bersatu/PN internal factional crisis
-- PAS political stability perception
-- Voter disillusionment and swing voter trends
-- Idealism vs pragmatism in politics
-- PKR/PH future and succession planning
-- MCA/MIC marginalization in BN
-- Young leaders in cabinet
-- Junior Nobel award segment
-- Social security for freelance gig workers
-- Justice system reform on petty theft vs corruption
+- 'Segmen Beria: viral Khairul Aming dan pembukaan restoran Rembayung'
+- Kontroversi surat sokongan SPRM dan Ketua Pengarah Kamil Munim
+- Isu influencer dijemput rasmi ke majlis sekolah vs nilai pendidikan
+- Rombakan Kabinet Anwar Ibrahim dan kekalnya Fadlina di Kementerian Pendidikan
+- Pertukaran Steven Sim ke KUSKOP dan Ramanan ke KESUMA
+- Kedudukan MCA dan MIC dalam Barisan Nasional selepas rombakan
+- Pelantikan Akmal Nasrullah dan Syed Ibrahim sebagai Menteri/Timbalan Menteri Ekonomi
+- Penggantian Dr Naim (Menteri Agama) dan Dr Zaliha (Menteri Kesihatan)
+- 'Krisis dalaman Bersatu: pertembungan Muhyiddin/Azmin Ali lawan Hamzah Zainuddin'
+- Kestabilan PAS berbanding pergolakan PH dan Bersatu
+- Trend disenfranchised voters menjelang PRU16 dan perbandingan dengan Reform Party UK, Giorgia Meloni Itali, Zelensky Ukraine
+- Idealisme versus pragmatisme dalam politik PKR dan masa depan PH
+- 'Segmen Fuyo: pencapaian pelajar Malaysia pemenang Junior Nobel Prize'
+- Perlindungan sosial PERKESO untuk pekerja seni dan freelancer
+- 'Reformasi sistem keadilan: ketidakseimbangan hukuman kes curi kecil berbanding kes rasuah besar'
 summary: 'Episode 27 of "Yang Berhenti Menteri Dah" with Rafizi Ramli, Haziq and Farhan
   (Pa''an). They open with a "Beria" segment on Khairul Aming''s viral Rembayung restaurant
   and entrepreneurship, a letter-of-support scandal, and an influencer controversy

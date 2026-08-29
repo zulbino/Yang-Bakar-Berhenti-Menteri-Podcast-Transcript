@@ -13,22 +13,23 @@ hosts:
 guests:
 - Prof Madya Dr Muhammad Irwan Ariffin
 topics:
-- 13th Malaysia Plan (RMK13) overview and structure
-- Education reform and teacher training (IPG)
-- Social mobility and youth disillusionment
-- Subsidy rationalisation and long-term sacrifice
-- Retirement age increase and school starting age reform
-- Employment 'matching' KPI vs marketability
-- Wage stagnation and economic structural weaknesses (SME-dominated economy)
-- 'Third sector: philanthropy, wakaf, zakat, and formalising filial financial support'
-- Ageing population and fertility decline (lessons from Japan/Korea)
-- Fiscal deficit glide path and debt servicing
-- US tariffs and semiconductor trade risk under Trump
-- China's resilience strategy under economic pressure
-- GST vs SST tax policy debate
-- Price transparency in supply chains
-- Nuclear energy (SMR) rollout timeline
-- Role of ministers vs technical experts in policymaking
+- Perkenalan Dr. Irwan Arifin dan latar belakang akademik UIA
+- Proses penggubalan dan falsafah RMK13 berbanding RMK-RMK terdahulu
+- Evolusi Rancangan Malaysia daripada fokus pertanian/projek kepada diagnosis struktural
+- Intergenerational equity dan subsidy rationalization dalam RMK13
+- Kenaikan umur persaraan ke 65 dan permulaan persekolahan awal (prasekolah wajib)
+- Perubahan sasaran pendidikan tinggi daripada 'marketability' kepada 'matching employment'
+- Disillusionment generasi muda dan kegagalan social mobility
+- Struktur ekonomi, PMKS, dan asymmetri pertumbuhan KDNK berbanding gaji
+- Third sector, wakaf, zakat dan filantropi dalam RMK13
+- Cadangan pengiktirafan cukai bagi bayaran anak kepada ibu bapa (elderly care)
+- Krisis masyarakat menua dan kadar fertiliti - pengajaran daripada Jepun dan Korea
+- Fiscal glide, defisit kerajaan dan disiplin hutang negara
+- Reformasi latihan guru dan pertukaran fungsi IPG menjadi institusi profesional
+- Perbandingan GST versus SST dari segi equity dan inflasi
+- Kesan tarif Trump ke atas cip/semikonduktor dan kesan kepada ekonomi Malaysia
+- Price transparency dalam rantaian bekalan negara
+- Pelan pengenalan tenaga nuklear (SMR) dalam RMK13 dan cabaran pelaksanaannya
 summary: In this episode of "Podcast Yang Berhenti Menteri," hosts Rafizi, Haziq and
   Zak are joined by Dr. Muhammad Irwan Arifin, an economics academic from Universiti
   Islam Antarabangsa Malaysia (UIA), to dissect Malaysia's 13th Malaysia Plan (RMK13).

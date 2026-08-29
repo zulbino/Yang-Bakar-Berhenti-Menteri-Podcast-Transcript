@@ -13,17 +13,21 @@ hosts:
 guests:
 - Dr. Rais Hussin
 topics:
-- Dr. Rais Hussin's departure from Bersatu and entry into PKR
-- 2017 Pelangi transition agreement negotiations
-- Tan Sri Muhyiddin Yassin's leadership and political future
-- 'Viral news roundup (Beria segment): MMA minors, plane stickers, Minister Nga apology,
-  Hadi Awang''s animal analogies'
-- AI chip neutrality amid US-China tech rivalry
-- Food security, malnutrition, and B40 inflation policy
-- Rafizi's social enterprise food stalls (Fleximat, Kesum)
-- Malaysia-US tariff agreement controversy and Clause 7.3
-- 'Bersatu internal power struggle: Muhyiddin vs Hamzah vs Azmin factions'
-- Zohran Mamdani's NYC mayoral election win
+- Latar belakang Dr. Rais Hussin keluar Bersatu dan menyertai PKR
+- Penubuhan Parti Bersatu dan Perjanjian Pelangi 2017 dengan Tun Mahathir dan Anwar Ibrahim
+- 'Segmen Beria: kontroversi kanak-kanak dalam pertandingan Muay Thai/MMA'
+- 'Segmen Beria: dakwaan Tan Sri Muhyiddin berpeluang kembali jadi calon Perdana Menteri'
+- 'Segmen Beria: insiden Menteri Nga Kor Ming tuang air kepada wartawan dan majlis bermaaf-maafan'
+- 'Segmen Beria: ''Minda Presiden'' Hadi Awang dan perumpamaan haiwan (anaconda, ular lidi)'
+- 'Soalan parlimen: strategi MITI mengenai kebergantungan chip AI Nvidia dan Huawei serta konsep tech stack neutral'
+- 'Soalan parlimen: keterjaminan makanan negara, pergantungan import cili dan beras, serta malnutrisi B40'
+- Projek sosial Fleximat dan pembukaan kedai makanan murah Kesum di Pandan Indah
+- Perjanjian tarif Malaysia-Amerika Syarikat dan kritikan terhadap jawapan Tengku Zafrul di parlimen
+- Cadangan invoke Klausa 7.3 perjanjian tarif untuk renegosiasi dan isu kedaulatan negara
+- Perbandingan Malaysia dengan Cambodia dalam perjanjian tarif dan risiko kepada dasar neutraliti aktif serta BRICS
+- 'Pergaduhan dalaman Bersatu: kem Tan Sri Muhyiddin, Hamzah Zainuddin dan Azmin Ali, isu SD dan surat MP'
+- Pemecatan/tindakan tatatertib terhadap Wan Saiful Wan Jan dan Wan Ahmad Fayhsal
+- Kemenangan Zohran Mamdani dan pengajaran untuk politik Malaysia
 summary: Episode 21 of Rafizi Ramli's podcast features guest Dato' Dr. Rais Hussin,
   a former Bersatu Supreme Council member who joined PKR. Dr. Rais discusses why he
   left Bersatu, his role behind-the-scenes in PKR (including drafting the 2017 "Pelangi"

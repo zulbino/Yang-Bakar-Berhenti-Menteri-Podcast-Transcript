@@ -12,22 +12,23 @@ hosts:
 - Haziq
 guests: []
 topics:
-- PAS Pemuda RXZ motorbike stunt
-- Police reports over differing opinions (UMANY vs GPMS)
-- Kampung Sungai Baru land acquisition dispute
-- Fattah Amin wedding netizen backlash
-- Air Putih ADUN Thai flag billboard mix-up
-- PAS loyalty (wala) controversy
-- PAS history of coalition betrayals
-- RM1 million per parliamentary seat and political funding reform
-- Sabah landslide and disaster mitigation policy
-- Suspected hacking attempts against MPs
-- UN genocide finding on Israel and apartheid parallels
-- Rise of anti-immigrant populism in UK and Malaysia parallels
-- Aging society economic policy
-- Youth disengagement from politics
-- Government policy implementation gaps
-- PKR post-election factionalism
+- 'Beria: RXZ dan simbolisme anak muda dalam muktamar PAS'
+- Laporan polis UMANY-GPMS berkaitan cadangan pemansuhan matrikulasi
+- Isu tanah Kampung Sungai Baru dan tanggungjawab kerajaan berterusan
+- 'Beria: kontroversi perkahwinan Fattah Amin dan Fazura'
+- 'Beria: billboard bendera Thailand di kawasan ADUN Air Putih, Terengganu'
+- Budaya wala' dan taat dalam PAS pasca muktamar
+- Sejarah hubungan PAS dengan rakan gabungan (PKR, DAP, Bersatu) dan corak 'guna lalu tinggal'
+- Kenyataan RM1 juta satu kerusi Parlimen dan kos pilihan raya PAS
+- Cadangan Akta Pendanaan Politik dan ketelusan pembiayaan parti
+- Tragedi tanah runtuh di Sabah dan cabaran disaster mitigation/sponge city negara
+- Ugutan siber dan cubaan hacking terhadap wakil rakyat
+- Pengiktirafan genosid Palestin oleh UN dan parallel dengan pergerakan anti-apartheid
+- Kebangkitan parti populis anti-imigran (UK Reform Party) dan defisit populis doom
+- 'Soalan pendengar: aging society dan kesediaan ekonomi Malaysia'
+- 'Soalan pendengar: budaya politik anak muda, connection dan personal branding'
+- 'Soalan pendengar: keberkesanan pelaksanaan dasar dan roadmap kerajaan'
+- 'Soalan pendengar: kesan pemilihan PKR dan perpecahan Hiruk-Damai'
 summary: 'Episode 14 of Rafizi Ramli''s podcast with co-host Haziq. Segments cover
   viral/political news of the week (Beria-Beria): PAS Pemuda''s RXZ stunt, police-report
   culture over UMANY-GPMS matriculation dispute, PN leaders'' flip-flop on Kampung

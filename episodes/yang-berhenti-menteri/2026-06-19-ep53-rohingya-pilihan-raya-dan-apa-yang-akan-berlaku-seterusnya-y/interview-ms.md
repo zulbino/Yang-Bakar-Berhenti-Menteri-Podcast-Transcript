@@ -13,15 +13,22 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Isu 'Beria' mingguan (JKOM, Jason Yu, AMK, bot Tilaga Gunaratnam, Ramanan menghilang)
-- Krisis pelarian Rohingya di Malaysia
-- Status stateless dan konvensyen pelarian antarabangsa
-- Kesan sosial komuniti Rohingya di kawasan tumpuan
-- Kos sebenar dan pembiayaan kempen pilihan raya
-- Politik wang dan rasuah dalam pilihan raya
-- Political Financing Act dan cadangan state financing
-- Fundraising telus parti Bersama (WeFund, crowdfunding)
-- Jelajah dan aktiviti akan datang Rafizi Ramli
+- Tontonan podcast merudum dan kesan algoritma/kanibalisasi konten
+- 'Beria: barisan panjang temuduga kerja di Melaka dan penyaringan calon menggunakan AI/algoritma'
+- 'Beria: kontroversi Ketua Pengarah JKOM memanggil rakyat ''balaci'' dan fungsi sebenar JKOM/JASA'
+- 'Beria: kandungan Jason Yu dan isu Wong Chan / Ahli Parlimen Subang'
+- 'Beria: kenyataan kontroversi Ketua AMK Selangor tentang Anwar'
+- 'Beria: akaun bot palsu ''Tilaga Gunaratnam'' menyerang Bersama dan sindiket cyber trooper'
+- 'Beria: kehilangan Menteri Sumber Manusia (Ramanan) dari radar media dan isu RM9.5 juta'
+- Asal-usul dan status stateless komuniti Rohingya di Myanmar (Rakhine State)
+- Sebab kemasukan besar-besaran pelarian Rohingya ke Malaysia dan peranan pemerdagangan manusia/sindiket
+- Malaysia bukan penandatangan Refugee Convention 1951 dan implikasi kad UNHCR
+- Kesan sosial dan jenayah akibat kepadatan komuniti Rohingya di kawasan seperti Pandan Mewah dan Selayang
+- Tanggungjawab antarabangsa Malaysia (CRC, perdagangan, reputasi) berkaitan layanan terhadap pelarian
+- Kegagalan dasar dan kepimpinan kerajaan menangani krisis Rohingya secara menyeluruh
+- Kos sebenar dan struktur perbelanjaan kempen pilihan raya berbanding dakwaan RM1 juta sekursi
+- Politik wang, rasuah pilihan raya, dan cadangan Political Financing Act serta pembiayaan negara
+- Usaha pembiayaan telus parti Bersama melalui yuran, crowdfunding, WeFund dan fundraiser
 summary: 'Episod ke-53 Podcast Yang Berhenti Menteri bermula dengan segmen ringan
   "Beria" mengulas isu-isu viral minggu ini — termasuk kelewahan proses temuduga kerja
   di Melaka, kontroversi Ketua Pengarah JKOM yang memanggil netizen "balaci/belaci",

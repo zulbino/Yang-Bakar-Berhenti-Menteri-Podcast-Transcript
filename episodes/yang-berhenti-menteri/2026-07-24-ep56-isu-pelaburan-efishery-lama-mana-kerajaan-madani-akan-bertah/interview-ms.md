@@ -13,20 +13,21 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Bersama movement updates (Johor, Melaka, Kancil app)
-- 'Beria segment: viral political/social content roundup'
-- Barisan Nasional Johor Deputy Exco appointments
-- Vote-buying (duit minyak) culture
-- Plagiarized BN Negeri Sembilan manifesto
-- e-Fishery fraud and startup/VC funding explainer
-- KWAP investment in e-Fishery and due diligence failures
-- Accountability culture and governance in Malaysian GLCs/GLICs
-- Malaysia's weak startup/VC ecosystem vs regional peers
-- Forest City/Network School Johor issue
-- Stability of the Madani unity government
-- BN-PN-PAS coalition tensions and PM candidacy
-- Role of GPS/GRS (Sarawak/Sabah) as political kingmakers
-- Bersama's long-term political strategy vs. PKR's historical rise
+- 'Kemas kini pergerakan parti Bersama: HQ, calon PRN Melaka dan app Kancil'
+- 'Segmen Beria: larian marathon dan aktiviti rakyat'
+- 'Segmen Beria: taruhan lafaz talak jika Argentina kalah'
+- 'Segmen Beria: pelantikan ramai Timbalan Exco BN Johor selepas PRN'
+- 'Segmen Beria: budaya ''duit minyak'' pengundi dalam PRN Johor'
+- 'Segmen Beria: manifesto BN Negeri Sembilan tersalin daripada Sabah'
+- Skandal pelaburan KWAP dalam e-Fishery dan penipuan Gibran
+- Konsep startup, venture capital dan proses raising fund
+- Kegagalan due diligence dan tadbir urus institusi kewangan awam Malaysia
+- Kaitan e-Fishery dengan skandal Network School dan Tabung Haji
+- Budaya akauntabiliti dan ketiadaan tanggungjawab pemimpin GLC/GLIC
+- Struktur ekonomi Malaysia, ekosistem startup dan dominasi GLC/JLC
+- Jangka hayat kerajaan perpaduan Anwar Ibrahim dan dinamik BN-PN-PAS
+- Peranan GPS dan GRS sebagai penentu kestabilan kerajaan persekutuan
+- Sejarah dan pengajaran perjuangan PKR/reformasi untuk parti Bersama
 summary: 'In this episode of Rafizi Ramli''s podcast (Podcast Yang Berhenti), host
   Rafizi and co-host Haziq (with Farhan/Pa''an) open with updates on Bersama''s movement:
   post-PRN Johor plans for "ruang bersama" community centres, preparations for the

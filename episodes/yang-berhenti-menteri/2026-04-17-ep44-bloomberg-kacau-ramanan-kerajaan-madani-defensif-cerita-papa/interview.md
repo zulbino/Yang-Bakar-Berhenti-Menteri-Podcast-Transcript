@@ -14,25 +14,21 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Wildlife smuggling (python gallbladders)
-- Azam Baki/SPRM public backlash and protection squad
-- Rafizi Ramli contesting speculation (Ong Kian Ming)
-- Rosmah Mansor jewellery court case
-- Anwar Ibrahim's 'ingat senang ke jadi kerajaan' controversy and political communications
-- PAS MP shirt-colour political theorizing
-- Bloomberg report on TURAP foreign worker recruitment system and Bestinet/Aminul
-  Islam
-- Foreign worker permit (PLKS) and recruitment agent system explained
-- Ramanan Ramakrishnan as Human Resources Minister and TURAP process concerns
-- Multi-Tier Levy Management (MTLM) and Akademi Dalam Industri (ADI) policies
-- Reducing foreign worker dependency (Rancangan Malaysia Ke-13 targets)
-- Performative vs substantive political leadership (Deng Xiaoping, Churchill, Lincoln,
-  Mamdani)
-- National Energy Transition Roadmap (NETR), solar energy, TNB grid reforms
-- SPRM's handling of Azam Baki investigation and government inaction
-- Government's use of police/legal action against critics (Papa Gomo case)
-- Cyber troopers and coordinated inauthentic behavior defending PM Anwar
-- Upcoming rally/demonstration calling for action against Azam Baki (25 April)
+- 'Beria: rampasan hempedu ular sawah dan penyeludupan hidupan liar'
+- Kontroversi Azam Baki dan SPRM serta unit taktikal melindunginya
+- Spekulasi Ong Kian Ming tentang Rafizi bertanding di Pandan
+- Kes tuntutan barang kemas mewah Datin Seri Rosmah Mansor (kes NFC/1MDB berkaitan)
+- Ucapan kontroversi Anwar Ibrahim di konvensyen PKR Terengganu dan isu komunikasi strategik PMO
+- Sindiran ahli PAS (Syahir) tentang isu NFC dan spekulasi baju Rafizi
+- Sistem baharu pekerja asing TURAP oleh Bestinet dan Aminul Islam (Amin Bangla) - laporan Bloomberg
+- Peranan Menteri Sumber Manusia Ramanan Ramakrishnan dan kritikan Steven Sim
+- 'Dasar-dasar sedia ada: Multi-Tier Levy Management (MTLM) dan Akademi Dalam Industri (ADI)'
+- Sasaran pengurangan kuota pekerja asing dalam Rancangan Malaysia Ke-13
+- Kepimpinan performatif vs substantif dalam politik (contoh Churchill, Deng Xiaoping, Lee Kuan Yew)
+- 'Dasar peralihan tenaga negara: NETR/NETA, solar, TNB, IPP dan wheeling charges'
+- Kelewatan tindakan kabinet terhadap laporan siasatan Azam Baki
+- Kisah kes Papa Gomo, Invoke Solutions dan campur tangan PMO
+- Seruan perhimpunan 'Tangkap Azam Baki' di Dataran Merdeka 25 April
 summary: Episode 44 of Podcast Yang Berhenti Menteri (YBM), hosted by Rafizi Ramli
   with co-hosts Haziq and Farhan (Pa'an). The show opens with the recurring "Beria"
   segment mocking viral news and social media reactions, including a Vietnamese national

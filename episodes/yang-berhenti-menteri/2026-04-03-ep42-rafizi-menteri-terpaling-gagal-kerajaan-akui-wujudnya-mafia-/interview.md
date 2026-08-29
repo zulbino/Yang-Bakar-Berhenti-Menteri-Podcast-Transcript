@@ -15,22 +15,24 @@ hosts:
 guests:
 - Zikri Kamarulzaman
 topics:
-- Media freedom in Malaysia
-- Malaysiakini and press regulation
-- Albert Tay and protest culture
-- Johor crude oil scam news
-- Yayasan Madani Mart (Madani Mat)
-- PADU and targeted subsidy reform
-- Diesel subsidy policy (Budi95)
-- SPRM investigation into James Sy/ARM Holdings
-- Azam Baki controversy
-- Langkah Kajang 2014 and Tan Sri Khalid Ibrahim
-- Corporate mafia allegations (Farhaj, Ramanan, Victor Chin)
-- Anti-SLAPP law proposal
-- SPM 2025 results and GPK grade inflation
-- PISA rankings and education reform
-- UMNO/PAS political strategy and KJ vs Dr. Sam
-- Fiscal space and cost of subsidies
+- 'Segmen Beria: roundup berita viral minggu ini (Albert Tay, protes jalanan)'
+- Skandal skam jualan 44 juta liter minyak mentah Johor kepada wilayah Davao del Norte, Filipina
+- Yayasan Madani Mart dan risiko politicization jualan Rahmah
+- Perbandingan Madani Mart dengan Kedai Rakyat 1Malaysia era Najib
+- Keputusan SPM 2025 dan kenangan peribadi Rafizi
+- Kebebasan media di Malaysia selepas 2018 dan isu media buy kerajaan
+- Kelangsungan kewangan industri media, social media giants dan cadangan anti-SLAPP
+- Peranan dan keberkesanan Majlis Media Malaysia
+- Sistem subsidi diesel bersasar dan kegagalan pelaksanaan PADU
+- Kes ARM Holdings, James Sy dan siasatan SPRM
+- Isu Azam Baki dan kegagalan menggantikannya sebagai Ketua SPRM
+- Kontroversi Langkah Kajang 2014 dan tuduhan 'kifarah' oleh Faikah
+- Tuduhan balas terhadap R. Ramanan dan pencapaian dasar gaji progresif/PADU
+- 'Skandal mafia korporat: Victor Chin, Farhaj, kenyataan Fahmi Fadzil dan NextG'
+- Cadangan meletakkan SPRM di bawah Parlimen
+- Analisis GPK, grade inflation dan perbandingan PISA dalam keputusan SPM
+- Strategi politik UMNO (KJ) menyerang PAS (Dr Sam) dan persaingan mengundi Melayu
+- Krisis harga minyak diesel dan keterbatasan fiskal kerajaan
 summary: In this episode of "Podcast Yang Berita" (Episod 42), hosts Rafizi Ramli
   and Haziq are joined by Zikri Kamarulzaman, news editor at Malaysiakini, as a special
   co-host for the "OAB" news roundup segment. They discuss recent viral news including

@@ -13,16 +13,21 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Viral news/entertainment segment
-- PAS political flip-flopping on Trump
-- Trump's Malaysia/ASEAN visit controversy
-- Fleximat and Kesum social enterprise businesses
-- Parliamentary Q&A review (JS-SEZ, Sabah mining case, PADU/income classification,
-  agriculture census)
-- Malaysia-US Reciprocal Trade Agreement analysis
-- Rare earth elements (REE) dispute with Kelantan/Terengganu/Sarawak
-- Azmin Ali 'Trojan Horse' allegations in Bersatu
-- Alcohol at Chinese school halls controversy
+- 'Segmen Beria: berita viral mingguan (kad Pokemon, Papa Gomo, kucing juara dunia, ''Make Malaysia Great Again'' Sim Tze Tzin, Sayuti Omar)'
+- 'Standing Order: JSSEZ (Johor-Singapore Special Economic Zone) dan pelaburan RM37 bilion'
+- Kes SPRM ditutup berkaitan skandal perlombongan Sabah dan Datuk Seri Farhaj
+- Kajian semula kategori pendapatan rakyat, PADU dan pendapatan boleh guna bersih (NDI)
+- Banci Pertanian 2024 dan penuaan golongan petani di Malaysia
+- Falsafah dan pengalaman menceburi perniagaan sosial Fleximat dan Kesum
+- Perbandingan konsep Fleximat dengan Kedai Rakyat 1Malaysia (Krim)
+- Lawatan Presiden Trump ke Malaysia sempena Sidang ASEAN - aspek kosmetik dan diplomatik
+- 'Reciprocal Trade Agreement Malaysia-Amerika Syarikat: analisis klausa berbanding perjanjian Cambodia'
+- Isu kedaulatan negara dan klausa 'complementary actions' dalam perjanjian AS
+- Sekatan pembelian reaktor nuklear dan kesan kepada kerjasama nuklear dengan Rusia/China
+- 'Analisis kos-manfaat ekonomi perjanjian: eksport semikonduktor, kelapa sawit dan komitmen pelaburan USD70 bilion ke AS'
+- Kontroversi Rare Earth Element (REE) di Kelantan dan Sarawak
+- Dakwaan 'Trojan Horse' dalam Bersatu dan kaitan dengan Azmin Ali
+- Keputusan kabinet mengenai alkohol di dewan sekolah Cina dan sensitiviti kaum
 summary: Episode 20 of "Podcast Yang Berhenti Menteri" opens with lighthearted banter
   about the upcoming launch of Rafizi's business ventures, Fleximat and Kesum, before
   moving into the "Berita" segment reviewing viral news items (a Pokemon card collector

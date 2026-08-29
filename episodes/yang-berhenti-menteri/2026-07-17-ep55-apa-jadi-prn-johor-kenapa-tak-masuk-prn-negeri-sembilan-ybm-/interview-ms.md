@@ -17,25 +17,21 @@ guests:
 - Dr. Harith Fakhrudin
 - Dato' Dr. Syed Azuan Al-Idrus (DSA)
 topics:
-- BERSAMA party's debut in Johor state election (PRN Johor) post-mortem
-- 'Polling data analysis: pre- vs post-nomination Malay/Chinese/Indian voter swings'
-- Anti-PH/anti-Anwar Ibrahim 'punishment vote' phenomenon
-- Vote-splitting narrative and AMK's reaction
-- UMNO Melaka CM's viral 'nikah tanpa kadi' pantun on UMNO-PAS ties
-- Racial polarization in Malaysian politics and BERSAMA's multiracial positioning
-- Akmal Saleh resignation controversy in Melaka
-- 'Candidate experiences: Dr. Harith Fakhrudin and Dato'' Dr. Samsu''s reflections
-  on campaigning'
-- Babi (pork) remark controversy and its limited electoral impact
-- Anwar Ibrahim vs Onn Hafiz public spat and its political fallout
-- Cost-effective, volunteer-driven, digital-first campaign model (~RM40,000/seat,
-  1 million viewers)
-- Decision to skip Negeri Sembilan election and its link to Negeri Sembilan royal
-  succession dispute
-- Strategic pivot to focus resources on the upcoming Melaka state election
-- 'Viral news segment: pregnant shopper accused of theft at Lotus Selayang'
-- 'Party-building roadmap: grassroots service, digital presence, political track record,
-  and policy development ahead of GE16'
+- 'Segmen Beria: insiden ''tunjuk perut'' wanita mengandung di Lotus Selayang'
+- 'Segmen Beria: reaksi AMK, UMNO dan pantun Ketua Menteri Melaka pasca PRN Johor'
+- 'Segmen Beria: drama Akmal Saleh dan isu tidak meletak jawatan'
+- Latar belakang dan rasional keputusan BERSAMA bertanding PRN Johor dalam tempoh dua minggu
+- Analisis data polling pra-penamaan vs pasca-penamaan calon dan 'collapse' undi BERSAMA
+- Fenomena pengundi 'menghukum' PH dan Anwar Ibrahim (anti-PH/anti-Anwar sentiment)
+- Polarisasi undi mengikut kaum (Melayu, Cina, India) di Johor dan konsep 'undi taktikal'/'kahwin gelap' UMNO-PAS
+- Pengalaman peribadi calon-calon BERSAMA (Dr. Harith, Dr. Sam, DSA, Ubat) semasa berkempen
+- 'Isu kontroversi semasa kempen: isu khinzir/babi, kualiti calon, dan pertelingkahan Anwar Ibrahim dengan MB Johor Onn Hafiz'
+- Strategi naratif DAP/PH dan fenomena 'mengundi dalam tangisan' di kalangan pengundi Cina
+- 'Pencapaian dan proof of concept BERSAMA: jentera pantas, capaian digital, kos kempen rendah, sukarelawan'
+- Hala tuju BERSAMA berdasarkan tinjauan 107 kerusi parlimen Semenanjung dan pembinaan track record
+- Keputusan strategik BERSAMA skip PRN Negeri Sembilan dan fokus ke PRN Melaka
+- Isu perebutan takhta/istana Negeri Sembilan sebagai faktor keputusan tidak bertanding
+- Refleksi penutup dan pelan tindakan pasca-Johor menuju Melaka dan PRU16
 summary: 'Episode 55 of Rafizi Ramli''s podcast "Podcast Yang Berhenti Menteri" features
   host Rafizi Ramli with moderator Haziq and panelists Tang Hong Yau (Chinese-community
   content creator), Dato'' Dr. Samsu Adabi Mamat (former political science lecturer

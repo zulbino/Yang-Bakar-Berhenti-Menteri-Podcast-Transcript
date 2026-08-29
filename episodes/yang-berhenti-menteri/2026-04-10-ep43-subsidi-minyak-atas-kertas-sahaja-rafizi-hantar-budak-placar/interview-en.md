@@ -14,22 +14,24 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- PKR internal politics and branch leader conduct
-- Insult of Dr. Nor Aisyah by PKR branch chief
-- KTV gangster attack and organized crime laws (RICO Act)
-- Anti-organized crime legislation proposal
-- Civil servants' loyalty tours (Taat Setia Madani)
-- Anwar Ibrahim's remarks on petrol price backlash
-- Malaysia's declining crude oil production and OPEC quotas
-- Automatic Pricing Mechanism (APM) and MOPS fuel pricing explained
-- Petrol/diesel subsidy mechanics and government cash flow
-- Natural gas import dependency and energy security
-- Azam Baki and Tangkap Azam Baki rally announcement
-- Bribery invoice allegations against Rafizi
-- NextG/Datasonic vending machine tender controversy
-- Rafizi's PKR disciplinary show-cause letter and possible expulsion
-- Potential Pandan by-election
-- Rafizi's personal philosophy on facing political persecution
+- Kontroversi calon PKR dan panggilan 'Profesor Bertina' oleh ketua cabang Ceplos terhadap Dr. Nor Aisyah
+- Wan Fayhsal sebagai 'poster boy' pertahan kerajaan dan persepsi PKR
+- Serangan gangster ramai-ramai di KTV kawasan Cheras/Pandan dan cadangan undang-undang anti-organized crime (RICO)
+- Jelajah 'Taat Setia Madani' dan kritikan terhadap KSN serta budaya BTN lama
+- 'Segmen Beria: rating dan pengumuman pemenang minggu ini'
+- Ucapan Anwar Ibrahim panggil rakyat 'bebal' dan 'buta huruf' tentang harga minyak
+- Mekanisme Automatic Pricing Mechanism (APM) dan penetapan harga petrol/diesel
+- Penurunan pengeluaran minyak mentah Malaysia dan kuota OPEC
+- Tahyul Isyam Jalil tentang subsidi 'atas kertas' dan untung Petronas
+- Dakwaan Sanusi tentang stok minyak dan harga MOPS
+- Krisis gas asli dan import gas untuk penjanaan elektrik serta pengajaran daripada Eropah
+- Peralihan tenaga negara (NETR) dan masa depan subsidi bersasar
+- Demonstrasi 'Tangkap Azam Baki' dan isu integriti SPRM/PDRM
+- Tuduhan rasuah RM9.5 juta oleh Victor Chin terhadap ahli parlimen PKR (Ramanan) dan saman terhadap Amin Bangla
+- Fitnah invois NextG dan tuduhan rasuah RM500,000/RM40 juta terhadap Rafizi
+- Tender vending machine IPR dan penglibatan Datasonic
+- Surat tunjuk sebab lembaga disiplin PKR terhadap Rafizi dan jangkaan pilihan raya kecil Pandan
+- Refleksi peribadi Rafizi tentang kifarah, ujian politik dan konsep bersyukur
 summary: 'In this episode of his podcast, Rafizi Ramli discusses PKR internal politics
   including branch leaders'' rude behavior toward Dr. Nor Aisyah, the KTV gangster
   attack near Cheras/Pandan and the need for anti-organized crime laws akin to the

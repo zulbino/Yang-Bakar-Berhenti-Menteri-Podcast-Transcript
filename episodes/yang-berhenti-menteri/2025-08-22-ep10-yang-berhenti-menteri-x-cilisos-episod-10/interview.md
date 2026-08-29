@@ -13,19 +13,20 @@ hosts:
 guests:
 - Chak Onn Lau
 topics:
-- Rafizi Ramli's education and scholarship background
-- Farhash Wafa Salvador Rizal Mubarak's background and influence in PKR
-- PKR internal factions ('geng baju hitam' vs purist reformists)
-- Kajang Move and 'ends justify the means' debate
-- Unity Government formation with UMNO/BN
-- Attack on Rafizi's family and political violence/deep state discussion
-- Multimedia Act Section 233 'offensive and annoying' provision and Heidy Quah/Zara
-  cases
-- Performance evaluation of cabinet ministers
-- Pace of government reforms and scapegoating of UMNO
-- PADU (Pangkalan Data Utama) centralized government database system
-- Cybertroopers and online political discourse
-- Rafizi's political ambitions and views on power
+- 'Icebreaker: latar belakang persekolahan dan biasiswa Rafizi (Exxon, Petronas)'
+- Siapa Farhash Wafa dan pengaruhnya dalam PKR serta kerajaan Anwar Ibrahim
+- 'Faksi-faksi dalam PKR: ''geng baju hitam'' dan perbandingan dengan era Azmin Ali'
+- Kajang Move dan prinsip 'the end does not justify the means'
+- Pembentukan Kerajaan Perpaduan dengan UMNO selepas GE15
+- Serangan/insiden keselamatan terhadap anak Rafizi dan tohmahan berkaitan Farhash
+- Isu 'deep state' dan kegagalan menyiasat kes-kes seperti Teoh Beng Hock, Pastor Raymond Koh, Pamela
+- Pemisahan kuasa Peguam Negara dan Pendakwa Raya
+- Pindaan Akta 233 Multimedia (offensive and annoy) dan kes Heidy Quah serta tanggungjawab Fahmi Fadzil
+- Penilaian prestasi ahli-ahli Jemaah Menteri PH-UMNO
+- Sebab kelembapan pelaksanaan reformasi dan janji manifesto GE15 (AMLA, MACC, pemisahan pendakwaan)
+- 'PADU: pangkalan data utama bersepadu kerajaan, use case dan tentangan dalaman'
+- Isu cybertrooper, misogini dan tingkah laku penyokong dalam media sosial
+- Refleksi peribadi Rafizi tentang kuasa, ambisi menjadi PM dan legasi reformasi
 summary: In this crossover episode of "Yang Berhenti Menteri" and Cilisos' "Siapa
   Makan Cili," hosts Iqbal and Chak Onn Lau interview former Economy Minister Rafizi
   Ramli. The conversation opens with lighthearted banter about chili tolerance, Rafizi's

@@ -14,18 +14,23 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Podcast moderator resignation storyline
-- Ber-ia segment political statement mockery
-- Parliament press conference approval rules
-- Malaysia economic growth and Ringgit/Bursa performance
-- US Treasury bonds and Trump tariffs impact
-- Rancangan Pendidikan Malaysia 2026-2035
-- PISA/TIMSS education benchmarking
-- School starting age and preschool policy reform
-- Aging nation demographic crisis
-- Ministry of Education bureaucratic resistance
-- UMNO Rumah Bangsa and coalition politics
-- Shamsul Iskandar controversy
+- 'Segmen Ber-ia: dilema Haziq sebagai moderator dan penjawat awam'
+- 'Ber-ia: ucapan UMNO Kedah tentang beras tempatan dan sejarah BERNAS'
+- 'Ber-ia: spekulasi KJ, Kian Ming dan lobi jawatan menteri'
+- 'Ber-ia: kontroversi logo Fleximart dan salib Kristian'
+- 'Standing Order Parlimen: sekatan baharu Speaker terhadap sidang media'
+- 'Prestasi ekonomi Malaysia: KDNK, Ringgit, Bursa dan risiko komplasensi'
+- 'Risiko global: dasar tarif Trump, Greenland, US Treasury bond dan kesan kepada Ringgit'
+- Isu defisit fiskal dan naratif kerajaan mengenai pengurusan hutang
+- Rancangan Pendidikan Malaysia (RPM) 2026-2035 berbanding Education Blueprint 2010-2025
+- 'Penanda aras pendidikan: keputusan PISA, TIMSS dan Primary Learning Metrics (PLM)'
+- 'Sumber pendidikan: nisbah guru-murid, saiz kelas dan bilangan sekolah berbanding negara lain'
+- Kecekapan perbelanjaan (spending efficiency) Kementerian Pendidikan
+- Silibus dan jumlah jam pengajaran matematik/sains yang rendah
+- Pelaksanaan persekolahan bermula umur 6 tahun, pra-sekolah universal dan cabaran kapasiti
+- Isu negara menua (aging nation) dan generasi sandwich
+- 'Politik parti: Rumah Bangsa UMNO, IPR, dan gabungan politik yang tidak stabil'
+- Kritikan Shamsul Iskandar terhadap Rafizi dan kes Albert Tei/Azam Baki
 summary: Episode 32 of "Podcast Yang Berhenti Menteri" hosted by Rafizi Ramli with moderator
   Haziq and co-host Farhan (Pa'an). The episode opens with a lighthearted "dilema"
   about Haziq possibly having to resign as moderator due to complaints that a civil

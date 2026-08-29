@@ -19,8 +19,7 @@ topics:
 - Construction contract structures (JKR 203A) and Bumiputera contractors
 - Government procurement cronyism and grantpreneurs
 - Data and baseline statistics (DOSM, SSM, Employee Wage Statistics)
-- Cultural/institutional differences in business (Chinese clannishness vs Malay salaried
-  culture)
+- Cultural/institutional differences in business (Chinese clannishness vs Malay salaried culture)
 - Wakaf, endowments, and social enterprise (third sector)
 - Living wage, household income, and Progressive Wage Policy
 - Dewan Perniagaan Melayu and Bumiputera institutions

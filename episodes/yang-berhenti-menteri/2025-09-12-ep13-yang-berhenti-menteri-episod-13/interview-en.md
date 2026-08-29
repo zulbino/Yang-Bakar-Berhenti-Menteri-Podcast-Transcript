@@ -12,21 +12,22 @@ hosts:
 - Haziq
 guests: []
 topics:
-- Minister/MP salary slip transparency
-- Bersatu internal crisis and PM candidacy dispute
-- PAS's political cooperation stance
-- UM student admission/meritocracy controversy
-- University funding and course supply-demand mismatch
-- LNG facility security threat
-- Suria KLCC Palestine rally stick-ban controversy
-- Kampung Sungai Baru land dispute and URA
-- Nepal Gen Z protests and global capitalism critique
-- Charlie Kirk assassination and political extremism
-- Malaysia's PISA education ranking decline
-- Single-stream national school debate
-- Empty house tax and housing affordability
-- Brain drain and Malaysian diaspora talent
-- Bangsa Malaysia identity and multiracial integration
+- Pendedahan dan penjelasan slip gaji menteri dan ahli parlimen
+- 'Segmen Beria: roundup video viral minggu ini (Bersatu, PAS, Sid Bersatu Putrajaya, fitnah sepupu Fadlina)'
+- Krisis dalaman Bersatu dan 120 SD ketua bahagian menuntut Muhyiddin turun
+- PAS bersedia bekerjasama dengan semua parti kecuali DAP
+- Ugutan keselamatan terhadap fasiliti kompleks LNG dan kesan kepada ekonomi negara
+- Kontroversi 'Top tapi rejected' - kemasukan pelajar cemerlang ke UM dan isu saluran kemasukan universiti awam
+- Sustainability dan pembiayaan universiti awam di Malaysia
+- Sekatan kayu/bendera dalam perhimpunan pro-Palestin di Suria KLCC
+- Isu pengambilan tanah dan perobohan Kampung Sungai Baru (Akta PSB) serta kritikan PAS terhadap URA
+- Rusuhan Gen Z di Nepal dan keretakan sistem kapitalis global
+- Kematian Charlie Kirk dan muhasabah mengenai ekstremisme politik
+- Prestasi Malaysia dalam PISA dan reformasi pendidikan
+- Cadangan sekolah aliran tunggal berbanding kepelbagaian aliran pendidikan (SRJK, sekolah antarabangsa, tahfiz)
+- Cukai rumah kosong dan isu kemampuan milik rumah di Malaysia
+- Brain drain dan langkah menarik balik tenaga kerja Malaysia dari luar negara
+- Konsep 'Bangsa Malaysia' dan pembentukan identiti bersama berbanding model Indonesia
 summary: In Episode 13 of "Podcast Siang Berhenti Menteri," host Rafizi Ramli, joined
   by co-host Haziq, opens by revealing his actual ministerial and MP salary slips
   to debunk public perceptions of huge minister pay, showing a net take-home of around

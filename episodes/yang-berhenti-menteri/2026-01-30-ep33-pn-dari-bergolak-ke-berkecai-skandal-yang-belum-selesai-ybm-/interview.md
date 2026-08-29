@@ -14,15 +14,20 @@ hosts:
 guests:
 - Wong Chen
 topics:
-- PKR origin story
-- Beriya Mat segment
-- Homosexuality answer controversy
-- School entry age policy
-- PN/PAS/Bersatu power struggle
-- Tax refund fiscal issue
-- Bestinet migrant worker scandal
-- Amanah-UMNO seat talks
-- Selangor land sale dispute
+- 'Ice-breaker: sejarah perkenalan Rafizi dan Wong Chen serta isu GST 2009'
+- 'Segmen Beriya: retreat Wanita Keadilan menjemput Shamsul Iskandar selepas didakwa'
+- 'Segmen Beriya: promosi konsert Siti Nurhaliza dan video nyanyian/tendangan Kamil Ketua AMK PKR'
+- 'Segmen Beriya: jawapan bertulis Menteri Agama pasal kajian faktor gaya hidup gay dan Rantau Panjang'
+- 'Segmen Beriya: pembatalan ujian diagnostic sekolah dan pelaksanaan enrolmen enam tahun 2027'
+- 'Standing order: soalan parlimen Rafizi kepada Menteri Dalam Negeri Saifuddin tentang siasatan serangan ke atas anak Rafizi'
+- 'Pergolakan dalaman Perikatan Nasional: pemansuhan jawatan Pengerusi PN, Muhyiddin dan pertelingkahan dalam PAS'
+- Isu tax refund RM33.3 bilion tidak dibayar dan implikasinya kepada Akta Tanggungjawab Fiskal (FRA) serta defisit negara
+- Perbandingan creative accounting fiskal era Najib (GST refund, penswastaan UiTM) dengan amalan sekarang
+- Laporan Bloomberg mengenai sindiket Bestinet/FWCMS dan pemerdagangan/penghambaan pekerja Bangladesh, kaitan dengan Aminul Islam, Azam Baki dan Anwar Ibrahim
+- Implikasi antarabangsa amalan buruh Malaysia (Tier ranking US State Department) akibat skandal Bestinet
+- Rundingan kerusi dan perpecahan Pakatan Harapan-Barisan Nasional menjelang PRN Johor dan Melaka, ketegangan Amanah-UMNO
+- Skandal jualan tanah kerajaan Selangor kepada Jakel berhampiran Hutan Simpan Ayer Hitam dan ketiadaan mekanisme akauntabiliti pelupusan tanah kerajaan negeri
+- 'Penutup: ucapan Hari Thaipusam dan Hari Wilayah Persekutuan'
 summary: 'Rafizi Ramli and co-host Haziq are joined by guest YB Wong Chen (MP Subang)
   discussing PKR history, political gaffes, education policy flip-flops, the RM33.3
   billion tax refund issue, a Bloomberg report on Bestinet''s alleged human trafficking
