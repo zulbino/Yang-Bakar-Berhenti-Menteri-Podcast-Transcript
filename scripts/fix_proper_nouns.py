@@ -160,6 +160,29 @@ CORRECTIONS = [
      "Regis. Owner-confirmed 2026-08-29. Established 1,135 times (262 raw, 873 published) "
      "against this single garble, and the published file already expanded it correctly, so "
      "this only stops raw and published disagreeing for check_names."),
+    # The two men served letters of demand over the RCI Tabung Haji report, in ep60's UMNO
+    # segment at 9:08. Each name occurs exactly ONCE per file and nowhere else in 168
+    # hours, so nothing inside the corpus could identify them and no established spelling
+    # existed to compare against. The press identified them, and four details in the
+    # episode agree: both names in the same order, the `LOD 5 juta` figure Haziq gives at
+    # 9:44, Asyraf Wajdi himself coming up at 18:25 on Tabung Haji, and raw's garbled
+    # `susa agong UMNO` opening the segment on a party post. Owner-confirmed 2026-08-29
+    # against the Berita Harian report.
+    # https://www.bharian.com.my/berita/nasional/2026/08/1601917/asyraf-wajdi-serah-lod-rm5-juta-kepada-ismail-salleh-abied-abdullah
+    #
+    # This is the pair the rewrite had published as `Ismail Sabri` and `Ahmad Zahid`, so
+    # the correction runs in two stages: the fabrication was reverted to what the ASRs
+    # heard, and only now, with an external source, does the real spelling go in.
+    (r"Ismail Saleh(?![A-Za-z])", "Ismail Salleh",
+     "ep60 x1 in each of the four files: 'Jadi Ismail Saleh dapat LOD'. Datuk Dr Ismail "
+     "Salleh, of Amanah's national leadership council. TWO L's for this man and ONE for "
+     "Akmal Saleh, 185 times, in the same corpus -- which is why this is a two-word "
+     "pattern like the Fuziah surname fix and not a `Saleh` sweep."),
+    (r"Abid Abdullah(?![A-Za-z])", "Abied Abdullah",
+     "ep60 x1 in each of the four files, immediately after Ismail Salleh. A social-media "
+     "account owner, reported as Habin Faisal Mohamed. The lookahead is load-bearing "
+     "beyond the usual reason: the corpus holds 11 `Abidin`, and a pattern on bare `Abid` "
+     "would eat every one of them."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the
