@@ -2993,3 +2993,115 @@ Coverage decides now and line count only breaks a tie.
 **Still open: 29 episodes have no chapter markers**, so nothing external scores them. They
 fall back to line count, which is weak. ep25 is the one to look at first -- one topic, no
 chapters.
+
+### 2.9: A sentence nobody said, in 98 files, and the four ways I nearly broke the corpus removing it
+
+`Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong
+lajur Der Spiegel dan Diandian` appeared **142 times across 98 files**, 29 of them
+`raw.md`. It is a Malay rendering of Chinese YouTube-subtitle boilerplate that
+mesolitica's Whisper absorbed from its training data. Nobody on this podcast says it.
+
+The interesting part is not the hallucination. It is that a text-only deletion of a
+sentence that is provably not speech took four attempts to get right, and **every one of
+the four failures was caught by a check rather than by reading the output.**
+
+**First, the question that had to be answered before deleting anything: did it REPLACE
+real speech, or sit beside it?** Deleting an insertion is safe. Deleting a replacement
+loses words permanently and hides that they were ever lost. The answer came from the
+YouTube caption track: take the words either side of the hallucination in raw, and ask
+whether both sides land inside ONE window of the captions. If they do, the real speech
+runs straight through the spot. **41 of 41 checkable occurrences: yes. Zero
+counter-examples.** ep05's and ep12's six occurrences have no caption file on disk and
+remain unverified.
+
+The first version of that probe scored the two sides INDEPENDENTLY and measured the
+distance between their best windows. It reported 5 replacements. All 5 were artifacts --
+the before-side window landed 33 to 106 words early, and the printed span then showed the
+before-side text sitting at its own tail. **The metric was measuring anchor-localisation
+error and calling it lost speech.** Contiguity inside a single window cannot fail that
+way, because a window containing both sides IS the answer.
+
+**Bug 1: a whole-file punctuation tidy would have destroyed every ellipsis in 98 files.**
+The seam left by a deletion needs repair, so I normalised punctuation with
+`([.,]) ?\1+` -> `\1`. On `...` that produces `.`. It ran over the entire file, not the
+edit site. A dry run would never have shown it, because **a dry run prints what it
+deletes, and this was damage to text it did not touch.** Found by a check that counts
+`...` in, minus `...` inside removed spans, against `...` out. Repair is local to the join
+now.
+
+**Bug 2: `\s` matches newlines, and that welds two speakers together.** With `\s*` in the
+closing pattern, the match for ep12's boilerplate ran past the end of the sentence and ate
+the `\n\n` after it:
+
+    before: ... dalam kerajaan. [BOILERPLATE]\n\n[1:09:24] Haziq: lajur ... Baik, baik
+    after:  ... dalam kerajaan. [1:09:24] Haziq: Baik, baik
+
+One speaker's turn marker ends up buried inside another's block -- the exact defect
+`check_published` exists to find. **Four episodes lost a paragraph break (ep12, ep37,
+ep42, ep46) and qa_check went from 0/68 to 4/68.** I only caught it because I had captured
+a `check_published` baseline on the pristine corpus BEFORE applying, and could compare 2
+against 6. Every whitespace class in the patterns is `[ \t]` now, and a
+newline-conservation check makes the failure mechanical rather than lucky.
+
+**Bug 3: a fixed-length trailing run cuts a word in half.** A `[^.!?\n\]]{0,20}` tail
+landed exactly inside `der` and shipped `r Spiegel and Diandian` into ep21. Two files
+showed a word-count that was one HIGHER than the arithmetic predicted, which is the
+signature: the span reported a word (`de`) that was not actually gone, because its other
+half (`r`) stayed. Fixed by deleting the pattern that needed the tail; a greedy body up to
+the last tail marker covered the same cases.
+
+**Bug 4: a survivor check keyed on the giveaway vocabulary is blind to fragments.** The
+hallucination straddles block boundaries, so ep20 carries `Sila berasa bebas untuk
+menyukai,` with the rest of it in the next turn. That fragment contains no `Der Spiegel`,
+no `Diandian`, and not even the `menyukai, melanggan` pair -- so a survivor check keyed on
+those reported a clean corpus while three fragments sat in it, in three files. The check
+keys on the translationese LEAD-IN now, which is what a fragment always retains.
+
+**The invariant that finally made the thing safe.** Not a better regex -- a guard. A span
+may be deleted only if **every word in it comes from the hallucination's own lexicon**.
+The boilerplate is built entirely from a closed vocabulary (`sila`, `berasa`, `bebas`,
+`untuk`, `menyukai`, `melanggan`, `maju`, `ganjaran`, `menyokong`, `lajur`, `der`,
+`spiegel`, `diandian`, and their English and short-Malay equivalents), so any span that
+has reached into real speech carries a word from outside it and is refused. That single
+rule caught bug 3 by itself: `de` is not a word in the lexicon. Complete spans must ALSO
+carry the giveaway vocabulary, because `dan ini untuk` is all lexicon and all real Malay.
+
+**And the thing the guard cannot do, which is why shape still matters.** `Jangan lupa
+untuk melanggan` is REAL SPEECH on this show -- the hosts plug Rafizi's own channel, and
+ep16 has Haziq joking about having to (`melanggan dan melanggan, celaka teruk`). It is
+also one of the hallucination's lead-ins. Every word of the real plug is in the lexicon,
+so the guard is blind to the difference; only the sentence shape separates them. Lead-ins
+are therefore split in two: `LEAD_SAFE` (`Sila berasa bebas untuk` -- translation register
+with no spoken equivalent) where any boilerplate continuation can go, and `LEAD_RISKY`
+(`Jangan lupa untuk`, `Feel free to`) where a fragment needs the hallucination's own comma
+list first. One instance survived by luck of punctuation before this split existed: ep15's
+`jangan lupa untuk melanggan.` escaped only because the full stop defeated an
+end-of-line lookahead.
+
+**The rewrite had also LAUNDERED it.** Six occurrences carry no channel name at all,
+because the translation dropped them and kept the call to action: `[Silakan follow, like,
+subscribe kepada channel ini.]` in ep28, `Feel free to like, subscribe, and support this
+column.` in ep16, `[Feel free to like, subscribe, and support this show.]` in ep17. Each
+interrupts unrelated speech; ep50's lands in the middle of Rafizi saying he is not
+involved in whatever anger there is at Farhan. A pattern keyed only on `Der Spiegel` would
+have left all six in the published files, and a pattern keyed on a bare `like, subscribe`
+would have deleted the hosts' genuine plugs.
+
+**Method note, for the next bulk edit.** Three things paid for themselves: capturing a
+checker baseline on the pristine corpus before applying anything, so a regression is
+visible as 2 -> 6 rather than as an absolute number that looks plausible; making the
+verifier operate on the tool's real output instead of a single-pass prediction of what it
+would match, because `scrub()` loops and can delete spans that only become matchable after
+an earlier removal; and reading eight sample seams by eye AFTER all the automated checks
+passed, which is how the orphaned `]` in ep28-ms and ep05's three stranded blank lines
+were found. Both then became checks.
+
+One more repeat of an old lesson: **a `.replace()` whose needle never matches reports
+success.** Two of four substitutions in one shell heredoc silently did nothing, because
+the heredoc ate `\]` and `\s`. The symptom was a regex behaving exactly as it had before
+being "fixed". Assert that the needle was found, or edit the file directly.
+
+Result: 142 spans removed, 98 files changed, qa_check 0/68, check_published back to its
+pristine baseline of 2, check_figures 0/68, check_names unchanged at its one waived
+expansion, and every real `menyukai` / `melanggan` / `jangan lupa untuk melanggan` still
+in place.

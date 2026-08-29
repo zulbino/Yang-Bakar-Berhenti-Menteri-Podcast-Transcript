@@ -88,7 +88,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** For Zikri. Just for Zikri. Never had this before.
 
-**Zikri Kamarulzaman:** But let's wait for that. Let's go to the news first, let's see who's who. Since it's after Raya now, they're active again on OAB. Let's hope for good news. Please feel free to like, subscribe, share and give rewards to support the Der Spiegel and Diandian columns.
+**Zikri Kamarulzaman:** But let's wait for that. Let's go to the news first, let's see who's who. Since it's after Raya now, they're active again on OAB. Let's hope for good news. columns.
 
 **Speaker (?):** I can see.
 

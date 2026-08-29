@@ -89,7 +89,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Untuk Zikri. Untuk Zikri je. Tak pernah ada.
 
-**Zikri Kamarulzaman:** Tapi ke tunggu lah nanti. Kita pergi ke berita dulu, kita tengok siapa. Disebabkan dah raya ni, diorang dah aktif balik OAB. Harap kita berita lah. Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian.
+**Zikri Kamarulzaman:** Tapi ke tunggu lah nanti. Kita pergi ke berita dulu, kita tengok siapa. Disebabkan dah raya ni, diorang dah aktif balik OAB. Harap kita berita lah.
 
 **Speaker (?):** Saya boleh lihat.
 

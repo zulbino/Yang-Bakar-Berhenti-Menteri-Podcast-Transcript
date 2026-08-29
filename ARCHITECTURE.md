@@ -188,6 +188,15 @@ python scripts/split_inline_turns.py ep53 --write
 python scripts/fix_proper_nouns.py
 python scripts/fix_proper_nouns.py --write
 
+# Remove the Whisper subscribe-boilerplate hallucination, `Sila berasa bebas untuk
+# menyukai, melanggan, ... lajur Der Spiegel dan Diandian`, a sentence nobody on the show
+# says. Only the SPAN goes, never the enclosing sentence: it lands mid-sentence inside real
+# speech. A span is deleted only if every word in it comes from the hallucination's own
+# lexicon, which is what refuses a pattern that has drifted into real speech or stopped
+# mid-word. `Jangan lupa untuk melanggan` is a REAL host plug and must survive (2.9)
+python scripts/remove_asr_boilerplate.py
+python scripts/remove_asr_boilerplate.py --write
+
 # Name the `Speaker N` labels the rewrite left in the PUBLISHED files, using raw.md as
 # the key. Dry run by default; it prints the agreement it found and refuses anything a
 # literal trace of the turn's opening clause does not confirm (1.40).
@@ -643,13 +652,54 @@ same separator on the way back out as the way in.
   `probably`, `^Note:`), not on brackets. That vocabulary matches exactly the four
   instances above and nothing else in the corpus. `should be` was tried and dropped: it
   hits ep50's legitimate `who [should be appointed]`.
-- **Whisper's subscribe-boilerplate hallucination is in 30 raw files and ~50 published
-  ones, unfixed.** The sentence is `Sila berasa bebas untuk menyukai, melanggan, maju dan
-  memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian`, a Malay rendering of
-  the Chinese YouTube-subtitle boilerplate that mesolitica's Whisper inherited from its
-  training data (Mingjing / 明镜 is Der Spiegel; Diandian / 点点 is the other channel).
-  Nobody on this podcast says it. It was found from the other end: ep28's published text
-  carries `[aside about liking, subscribing and supporting Der Spiegel and Diandian
-  omitted from context]`, the rewrite noticing the hallucination and writing a note about
-  it instead of dropping it. Grep for `Der Spiegel|Diandian|menyukai, melanggan` to list
-  them; removal is a text-only edit but touches 30 episodes, so it is queued, not done.
+- **Whisper's subscribe-boilerplate hallucination: FIXED, 142 spans across 98 files**
+  (`scripts/remove_asr_boilerplate.py`). The sentence is `Sila berasa bebas untuk
+  menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan
+  Diandian`, a Malay rendering of the Chinese YouTube-subtitle boilerplate that
+  mesolitica's Whisper inherited from its training data (Mingjing / 明镜 is Der Spiegel;
+  Diandian / 点点 is the other channel). Nobody on this podcast says it. It was found from
+  the other end: ep28's published text carried `[aside about liking, subscribing and
+  supporting Der Spiegel and Diandian omitted from context]`, the rewrite noticing the
+  hallucination and writing a note about it instead of dropping it.
+
+  Deletion was justified BEFORE it was done, not after. `_boilerplate_probe.py` took the
+  words either side of each occurrence in raw and asked whether both sides land inside one
+  window of the episode's YouTube caption track. 41 of 41 checkable occurrences: yes, zero
+  counter-examples, so the hallucination was inserted beside real speech and never
+  displaced any. ep05's and ep12's 6 occurrences have no caption file on disk and are the
+  unverified remainder. An earlier version of that probe scored the two sides
+  independently and measured the distance between them; it reported 5 replacements, all of
+  which were the scorer landing 33-106 words early. Contiguity inside ONE window has no
+  such failure mode.
+
+  **Four self-inflicted bugs, each caught by a check rather than by luck. This is the
+  entry to read before writing another bulk text edit.**
+  1. *Whole-file punctuation tidy.* `([.,]) ?\1+` -> `\1` collapses every `...` in a
+     transcript into a single full stop. It would have damaged all 98 files, and a dry run
+     would not have shown it, because a dry run only prints what it deletes. Repair is
+     local to the join now.
+  2. *`\s` matches newlines.* A `\s*` in the closing pattern let a span swallow the `\n\n`
+     after it and weld the next speaker's block onto the previous turn. ep12, ep37, ep42
+     and ep46 lost a paragraph break and qa_check went 0/68 -> 4/68 on buried turn
+     markers. Every whitespace class in the patterns is `[ \t]` now.
+  3. *Fixed-length trailing runs cut words in half.* A `{0,20}` tail landed inside `der`
+     and left `r Spiegel and Diandian` in ep21. The pattern that needed it was deleted
+     outright once a greedy body covered the same cases.
+  4. *A survivor check keyed on the giveaway vocabulary is blind to fragments.* ep20's
+     `Sila berasa bebas untuk menyukai,` carries no channel name, so the checker called
+     the corpus clean while three fragments sat in it. `LEFTOVER` keys on the
+     translationese lead-in instead.
+
+  **The guard that makes it safe:** a span may be deleted only if every word in it comes
+  from the hallucination's own lexicon. The boilerplate is built entirely from that list,
+  so any span reaching into real speech is refused automatically -- including a
+  half-eaten word. Complete spans must ALSO carry the giveaway vocabulary, since
+  `dan ini untuk` is all lexicon and all real Malay.
+
+  **What must NOT be deleted, and nearly was:** `Jangan lupa untuk melanggan` is real
+  speech. The hosts plug Rafizi's own channel, and ep16 has Haziq joking about having to
+  (`melanggan dan melanggan, celaka teruk`). It is also one of the hallucination's
+  lead-ins, and every word of it is in the lexicon, so the guard cannot separate the two --
+  only the sentence shape can. Lead-ins are split into `LEAD_SAFE` (translationese with no
+  spoken equivalent) and `LEAD_RISKY` (genuinely spoken), and a fragment under a risky lead
+  needs the hallucination's own comma list before it can go.

@@ -66,7 +66,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Wildly energetic. Not yet. Not yet? Done, done, done. I mean I haven't said anything yet. But so energetic, beating even a radio DJ. Patience, patience, patience. There's still more than two hours left.
 
-**Wan Afiq:** So, should I start over? Continue. No, continue. Okay, sorry. My apologies. First time for me on YBM. So, we're already on episode... 4 or 6. With me, Afiq. I'm Amir Sahmat. Why are you all here? I think we want... Not to roast YBM at all. Please feel free to like, subscribe, and support to reward the Der Spiegel and Diandian columns.
+**Wan Afiq:** So, should I start over? Continue. No, continue. Okay, sorry. My apologies. First time for me on YBM. So, we're already on episode... 4 or 6. With me, Afiq. I'm Amir Sahmat. Why are you all here? I think we want... Not to roast YBM at all. columns.
 
 **Rafizi:** No lying here since Haziq has apparently vanished somewhere. Haziq isn't here so we...
 

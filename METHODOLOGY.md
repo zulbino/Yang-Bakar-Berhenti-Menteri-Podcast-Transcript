@@ -121,12 +121,23 @@ aside was doing a job a check should have done.
 
 ### The speech-to-text has invented sentences nobody said
 
-One hallucination is still in the archive, uncorrected, and you will meet it. The sentence
-`Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong
-lajur Der Spiegel dan Diandian` appears 122 times across 97 files, including 29 `raw.md`
-files. Nobody on this podcast says it. It is a Malay rendering of Chinese YouTube-subtitle
-boilerplate that the local Whisper model absorbed from its training data. Ignore any
-sentence that asks you to like and subscribe. Removal is queued.
+The sentence `Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk
+menyokong lajur Der Spiegel dan Diandian` appeared 142 times across 98 files, including 29
+`raw.md` files. Nobody on this podcast says it. It is a Malay rendering of Chinese
+YouTube-subtitle boilerplate that the local Whisper model absorbed from its training data,
+where Der Spiegel and Diandian are two unrelated channels. All 142 are now removed by
+`scripts/remove_asr_boilerplate.py`.
+
+Deleting it was only safe because the audio said so. For every occurrence, the words either
+side were looked up in the episode's YouTube caption track: if both sides sit inside one
+window of the captions, the real speech runs straight through the spot and nothing was
+displaced. That held for 41 of 41 checkable occurrences, with no counter-example, so the
+hallucination was inserted beside real speech rather than over it.
+
+What survives, deliberately: the hosts really do ask viewers to subscribe. `Jangan lupa
+untuk melanggan` is in four files, and ep16 has Haziq joking about having to say it
+(`melanggan dan melanggan, celaka teruk`). Same words, different speaker, and only the
+sentence shape tells them apart.
 
 ### Speaker turns are attributed to the wrong person
 

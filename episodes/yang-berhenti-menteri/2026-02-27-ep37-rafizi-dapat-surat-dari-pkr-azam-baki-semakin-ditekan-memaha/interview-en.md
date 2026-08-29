@@ -294,13 +294,13 @@ So based on these three groups, it seems the government will find it hard to sec
 
 **Rafizi:** Haa.
 
-**Haziq:** Wait. So as a political analyst, how would people even know — because there's actually very little news on this. There's only news that a new PN chairman has been appointed, but how the consensus was reached, whether both sides "won," if one side lost what was sacrificed — none of that is available, the public has no access to it. So in your view — not that you have access, but feel free to like, subscribe, forward, and reward-support the Der Spiegel and Diandian column.
+**Haziq:** Wait. So as a political analyst, how would people even know — because there's actually very little news on this. There's only news that a new PN chairman has been appointed, but how the consensus was reached, whether both sides "won," if one side lost what was sacrificed — none of that is available, the public has no access to it. So in your view — not that you have access, but column.
 
 **Rafizi:** I'm not in their WhatsApp group. I don't have a WhatsApp group. No, but I think if you look at it, the diagnosis is fairly clear. Meaning, PAS now holds full power within PN. Because of the split within Bersatu, PAS can play divide-and-rule much more easily, because both factions — Tan Sri Muhyiddin's and Datuk Seri Hamzah Zainuddin's — both groups depend on PAS.
 
 **Haziq:** Hmm.
 
-**Rafizi:** So both of them want to stay on good terms with PAS. That allows PAS to get everything. That's why, so far, we know that the PN chairman is from PAS, and the Leader of the Opposition will also be from PAS — it's just not yet determined who exactly. I think they need to decide whether the Leader of the Opposition will be Datuk Tuan Ibrahim as deputy president, or Datuk Takiuddin as Chief Whip. That shows that at Tan Sri Muhyiddin Yassin's level — feel free to like, subscribe, forward, and reward-support the Der Spiegel and Diandian column — that so far the only political option available is to concede 100% to PAS. Is there another one? No.
+**Rafizi:** So both of them want to stay on good terms with PAS. That allows PAS to get everything. That's why, so far, we know that the PN chairman is from PAS, and the Leader of the Opposition will also be from PAS — it's just not yet determined who exactly. I think they need to decide whether the Leader of the Opposition will be Datuk Tuan Ibrahim as deputy president, or Datuk Takiuddin as Chief Whip. That shows that at Tan Sri Muhyiddin Yassin's level column — that so far the only political option available is to concede 100% to PAS. Is there another one? No.
 
 **Farhan (Pa'an):** There's Zulkar.
 

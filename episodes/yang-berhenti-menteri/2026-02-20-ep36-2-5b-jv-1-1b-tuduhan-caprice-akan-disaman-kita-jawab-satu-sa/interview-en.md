@@ -483,6 +483,6 @@ Then I think, once you cross that bridge, those who still have some remaining sh
 
 Okay, alright YB. YB Chean Chung, anything to add? Don't add too much, Chean Chung, or you'll become an agent of Atok and Daim too. We're at two hours, two hours 35 minutes. Okay, that's good enough. That's all, folks, that's all. Happy fasting, happy fasting, happy sahur. Don't eat too much — a reminder to myself, whoever needs to take morning medication like me, now I need to eat like it's sahur, because I forgot, I take heart medication every morning. So if I miss sahur, I'll miss my medication, that's dangerous.
 
-Oh, dangerous. Okay YB, don't do that again, don't do that again, InsyaAllah it'll be fine. Okay, see you next week. Good night. Feel free to like, subscribe, and support the Der Spiegel and Diandian channel. Goodnight—
+Oh, dangerous. Okay YB, don't do that again, don't do that again, InsyaAllah it'll be fine. Okay, see you next week. Good night. channel. Goodnight—
 
 **Lee Chean Chung:** night, goodnight.

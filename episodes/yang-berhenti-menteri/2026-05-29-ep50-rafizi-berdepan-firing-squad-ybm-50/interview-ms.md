@@ -390,7 +390,7 @@ Sebenarnya masalah elektrifikasi di Sabah itu masih lagi masalah yang besar. Jad
 
 **Farhan (Pa'an):** Mengikut turutan masuk. Sebab nak kekalkan rekod...
 
-**Rafizi:** tu agak susah sebab bertubi-tubi kena masuk. Apa-apa marah Farhan, dia orang eh, saya tak terlibat langsung. Sila berasa bebas untuk menyukai, melanggan, dan memberi sokongan kepada saluran ini. Dah ada orang kaut untung dengan dia, apa kan, kan dah kena marah.
+**Rafizi:** tu agak susah sebab bertubi-tubi kena masuk. Apa-apa marah Farhan, dia orang eh, saya tak terlibat langsung. Dah ada orang kaut untung dengan dia, apa kan, kan dah kena marah.
 
 **Wan Afiq:** Okay, soalan seterusnya. Soalan: Selepas menang Selangor tahun 2022, kami difahamkan Datuk Seri Anwar Ibrahim ingin menggantikan MB Selangor yang amat berhormat Amirudin kepada YB Fahmi Ngah. Kami turut difahamkan YB Rafizi lah yang akan mempertahankan YB Amirudin supaya terus kekal — jika ia termasuk, YB Amirudin pun telah tikam YB Rafizi. Aku pun tak faham dia cakap apa.
 

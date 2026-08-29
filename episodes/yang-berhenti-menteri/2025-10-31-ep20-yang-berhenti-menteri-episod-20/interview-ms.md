@@ -154,9 +154,9 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Cik GPT biasanya, ya, betul. Saya setuju. Saya setuju.
 
-**Rafizi:** Itu gerak. Okey. Cik GPT tak, Cik GPT akan beritahu tau. Okey, baik YB. Seterusnya. Sila berasa bebas untuk menyukai,
+**Rafizi:** Itu gerak. Okey. Cik GPT tak, Cik GPT akan beritahu tau. Okey, baik YB. Seterusnya.
 
-**Haziq:** melanggan, memuji dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian. Okay, terakhir. Cuti-cuti Malaysia, seminggu baru cukup, daripada tak lain tak bukan Muhammad Sawitik Omar. Kerana seronok datang ke KL, boleh menari, Donald Trump hajat nak duduk seminggu, tetapi kerana dia takut kepada pencela jalanan, dia pulang awal. Selamat jalan Trump.
+**Haziq:** Okay, terakhir. Cuti-cuti Malaysia, seminggu baru cukup, daripada tak lain tak bukan Muhammad Sawitik Omar. Kerana seronok datang ke KL, boleh menari, Donald Trump hajat nak duduk seminggu, tetapi kerana dia takut kepada pencela jalanan, dia pulang awal. Selamat jalan Trump.
 
 **Rafizi:** Dalam politik kita ni, banyaklah pencacai-pencacai politik di mana-mana pihak lah. Tadi kita ada Papa Gomo yang kawan baik Trump, dia tahu Trump nak datang ke tidak kan. Kalau pula Sawitik ni, dia ni orang Amanah kan, jadi kita ada juga pencacainya. Ini pun sama juga. Ini boleh diletak dalam bakul yang sama dengan Papa Gomo. Dia pula tahu sebenarnya Trump ajak nak duduk seminggu, tapi sebab demo semua ni terpaksa pulang awal, lepas tu boleh mengucapkan selamat jalan Trump. Kalau lepas ini kerajaan AS pergi bom Palestin, apa yang Sawitik nak cakap ni kan. Jadi sebab itu masalah kita masyarakat, kita ada banyak pencacai politik daripada mana-mana pihak lah, mana-mana parti, yang lebih sudu daripada kuah. Jadi macam saya katalah, selayaknya kita hantar Sawitik dengan Papa Gomo pergi bercuti dengan Trump, sebab dua-dua...
 

@@ -87,7 +87,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Untuk Zikri. Untuk Zikri je. Tak pernah ada.
 
-**Zikri Kamarulzaman:** Tapi tunggu lah nanti. Kita pergi ke berita dulu, kita tengok siapa. Disebabkan dah raya ni, diorang dah aktif balik OAB. Harap kita berita lah. Sila berasa bebas untuk menyukai, melanggan, dan memberi sokongan kepada ruangan Der Spiegel dan Diandian.
+**Zikri Kamarulzaman:** Tapi tunggu lah nanti. Kita pergi ke berita dulu, kita tengok siapa. Disebabkan dah raya ni, diorang dah aktif balik OAB. Harap kita berita lah.
 
 **Speaker (?):** Saya boleh lihat.
 

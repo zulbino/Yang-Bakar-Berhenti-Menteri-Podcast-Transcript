@@ -67,7 +67,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Rafizi:** Gila bersemangat. Belum. Belum? Dah, dah, dah. Aku nak cakap belum apa-apa. Tapi gila bersemangat mengalahkan DJ Radio. Sabar, sabar, sabar. Ada dua jam lebih lagi.
 
-**Wan Afiq:** So, saya start balik ke? Continue. Tak, continue. Okay, sorry. Maaf. First time untuk saya dalam YBM. So, dah ada ni episod 4 pun 6. Bersama saya, Afiq. Saya Amir Sahmat. Sebab apa korang ada kat sini? Saya rasa kita nak... Tak adalah membakar YBM. Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian.
+**Wan Afiq:** So, saya start balik ke? Continue. Tak, continue. Okay, sorry. Maaf. First time untuk saya dalam YBM. So, dah ada ni episod 4 pun 6. Bersama saya, Afiq. Saya Amir Sahmat. Sebab apa korang ada kat sini? Saya rasa kita nak... Tak adalah membakar YBM.
 
 **Rafizi:** Mana ada tipu lah sebab Haziq entah hilang kata ke mana. Haziq tak ada so kita...
 

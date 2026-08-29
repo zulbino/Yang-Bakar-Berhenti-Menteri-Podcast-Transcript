@@ -126,7 +126,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [27:22] Haziq: Dia ada dua kemungkinan.
 
-[27:25] Rafizi: Yang ini nakal lah ni. Dia ada dua kemungkinan. Maksudnya memang ada signboard tu dan ada orang gila yang beria. Besar kemungkinan dia buat besi buruk ataupun apa lah kat rumah dia. Satu lagi benda tu tak ada. Memang benda tu tak ada. Tapi takkan nak kata tak ada signboard. Jadi laporan rasmi kata ada signboard lah. Tapi ialah kita husnuzan maksudnya memang ada orang gila yang ambil itulah. Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian. Nak kata beria apa dia jahat? Beria
+[27:25] Rafizi: Yang ini nakal lah ni. Dia ada dua kemungkinan. Maksudnya memang ada signboard tu dan ada orang gila yang beria. Besar kemungkinan dia buat besi buruk ataupun apa lah kat rumah dia. Satu lagi benda tu tak ada. Memang benda tu tak ada. Tapi takkan nak kata tak ada signboard. Jadi laporan rasmi kata ada signboard lah. Tapi ialah kita husnuzan maksudnya memang ada orang gila yang ambil itulah. Nak kata beria apa dia jahat? Beria
 
 [27:56] Haziq: benda tu Beria yang negatif Yang teruk-teruk Tapi kesan dia tu Sangat besar lah
 

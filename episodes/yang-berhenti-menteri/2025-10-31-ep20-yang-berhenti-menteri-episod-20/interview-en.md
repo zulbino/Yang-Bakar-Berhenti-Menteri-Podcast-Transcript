@@ -155,9 +155,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** ChatGPT usually, yes, that's right. I agree. I agree.
 
-**Rafizi:** That's a laugh. Okay. ChatGPT won't — ChatGPT will tell you, you know. Okay, alright YB. Next. Feel free to like,
+**Rafizi:** That's a laugh. Okay. ChatGPT won't — ChatGPT will tell you, you know. Okay, alright YB. Next.
 
-**Haziq:** subscribe, comment and give rewards to support the Der Spiegel and Diandian column. Okay, last one. "Malaysia holidays, a week isn't even enough," from none other than Muhammad Sawitik Omar. Because it was fun coming to KL, could dance, Donald Trump wanted to stay a week, but because he was afraid of street hecklers, he went home early. Safe travels, Trump.
+**Haziq:** Okay, last one. "Malaysia holidays, a week isn't even enough," from none other than Muhammad Sawitik Omar. Because it was fun coming to KL, could dance, Donald Trump wanted to stay a week, but because he was afraid of street hecklers, he went home early. Safe travels, Trump.
 
 **Rafizi:** In our politics, there are a lot of political sycophants on all sides. Earlier we had Papa Gomo, who's supposedly a good friend of Trump's and knows whether Trump is coming or not. Now with Sayuti here, he's an Amanah person, so we have sycophants from that side too. This is the same. This one can go in the same basket as Papa Gomo. He apparently knows that Trump actually wanted to stay a week, but because of all the protests he had to go home early, and then he can say "safe travels, Trump." If afterward the US government goes and bombs Palestine, what will Sayuti have to say then? So that's our society's problem — we have a lot of political sycophants from all sides, all parties, who are more sycophant than substance. So as I said, it would be fitting to send Sayuti and Papa Gomo on holiday with Trump, since the two of them...
 

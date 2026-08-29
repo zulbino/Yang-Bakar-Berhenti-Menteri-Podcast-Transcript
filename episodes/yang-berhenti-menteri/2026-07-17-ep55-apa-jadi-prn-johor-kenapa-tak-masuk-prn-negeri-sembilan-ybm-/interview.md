@@ -682,7 +682,7 @@ Kalau masa saya balik 2022 dulu kan, selepas PRN Johor yang lepas, 2022, saya da
 
 Okay, now having said that, cabaran Bersama ni jauh lagi besar sekarang, sebab kita nak kena langkah dua ni — bukan sahaja kita nak jadi parti, kita sekarang ni parti keempat, parti keempat kan. Yang baiknya, kalau kita dah tengok di Johor, sebenarnya PN is collapsing, BN dan PH akan consolidate around... PH lah undi bukan Melayu kan. Dia ada plus and minus dia. Ada orang kata, "oh macam ni Bersama memang tutup kedai lah," sebab yang bukan Melayu ni dia consolidate around PH, yang Melayu consolidate around BN. Well... you know, one year is a very long time in politics, kerana yang consolidate BN dengan PN dengan wawasan tu tak semestinya semua akan smooth. Politik ni akan dynamic. After all, PN daripada berada atas puncak kekuatan dalam tempoh 2-3 bulan, collapse. PH pun sebenarnya ada banyak lagi fault lines coming forward ni, dengan soal Datuk Seri Anwar, successionnya, soal DAP semua kan. Kalau tengok tiga-tiga, then kita dah boleh tolak ke tepi sedikit sebanyak PN lah sebenarnya kan. So tinggal tiga je lepas ni tau — BN, PAS... WAS PAS... kita cari nama baru apa ni. Ada nama lawi teruk — Barisan Nasional...
 
-**Haziq:** Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian. PAS! Hahaha, kan, dia—
+**Haziq:** PAS! Hahaha, kan, dia—
 
 **Dato' Dr. Samsu Adabi Mamat:** Itu selalu jahat, selalu jahat. Hahaha. Gelombang hijau campur gelombang biru. Haa, jadi haa, hi, ruk. Hahaha. Hijau dengan biru. Hahaha.
 
