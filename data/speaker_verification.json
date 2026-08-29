@@ -289,6 +289,126 @@
           }
         ]
       }
+    },
+    {
+      "claimed_ts": 208,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 2,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "satu perkara yang tidak pernah"
+          },
+          {
+            "offset_seconds": 7.6,
+            "voice": "V2",
+            "first_words": "survei baru dari YB lah"
+          },
+          {
+            "offset_seconds": 9.6,
+            "voice": "V1",
+            "first_words": "maksudnya saya baru dapat data"
+          }
+        ]
+      }
+    },
+    {
+      "claimed_ts": 331,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 2,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "dia ada CCTV kat atas"
+          },
+          {
+            "offset_seconds": 3.1,
+            "voice": "V2",
+            "first_words": "Oh"
+          },
+          {
+            "offset_seconds": 3.8,
+            "voice": "V1",
+            "first_words": "nak mandi macam mananya"
+          },
+          {
+            "offset_seconds": 7.4,
+            "voice": "V2",
+            "first_words": "Mandi dalam sel ke"
+          },
+          {
+            "offset_seconds": 9.3,
+            "voice": "V1",
+            "first_words": "Memanglah mandi dalam sel"
+          },
+          {
+            "offset_seconds": 11.6,
+            "voice": "V2",
+            "first_words": "Tak tak Sebab kita"
+          },
+          {
+            "offset_seconds": 15.6,
+            "voice": "V1",
+            "first_words": "Itu kat luar negara"
+          },
+          {
+            "offset_seconds": 21.4,
+            "voice": "V2",
+            "first_words": "better"
+          },
+          {
+            "offset_seconds": 22.3,
+            "voice": "V1",
+            "first_words": "Kira ha dia"
+          }
+        ]
+      }
+    },
+    {
+      "claimed_ts": 815,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 2,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "Mungkinlah kita buat marker"
+          },
+          {
+            "offset_seconds": 4.8,
+            "voice": "V2",
+            "first_words": "Okey boleh okey"
+          },
+          {
+            "offset_seconds": 6.6,
+            "voice": "V1",
+            "first_words": "Tapi kalaulah setiap satu"
+          },
+          {
+            "offset_seconds": 14.3,
+            "voice": "V2",
+            "first_words": "Ha ha kita cuba lagi"
+          },
+          {
+            "offset_seconds": 16.4,
+            "voice": "V1",
+            "first_words": "Ha dia kena yang macam"
+          },
+          {
+            "offset_seconds": 24.4,
+            "voice": "V2",
+            "first_words": "Dia tak kelakar"
+          }
+        ]
+      }
     }
   ]
 }
