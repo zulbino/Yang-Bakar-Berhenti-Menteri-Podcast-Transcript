@@ -195,7 +195,7 @@ Okay, kita habiskan segmen ini — YB, 36 minit. Tak apalah, kita bergerak ke ha
 
 **Rafizi:** Mindef, ya, ya.
 
-**Haziq:** Ismail Sabri — eh, Wisma Putra itu foreign.
+**Haziq:** Wisma Putra itu foreign.
 
 **Rafizi:** Foreign. Pertanggungjawab, mahu dia gunakan model Anthropic itu, Claude. Dia bukan nak menggunakan — memang, model Anthropic Claude itu memang sudah digunakan. Memang kontrak asal dia memang dengan Anthropic. Dan cuma dia ada isu etika AI sedikit di sini, untuk analisis perisikan, simulasi perang, kesan pertahanan siber. Tapi bila nak pergi sejauh itu, nak menembusi tapisan itu, Anthropic pun beritahu ada dasar penggunaan bertanggungjawab — ada perkara tertentu yang mereka tak boleh nak, untuk menggunakan teknologi untuk keganasan, untuk senjata, dan akses AI itu untuk melatih untuk perkara-perkara seperti ini. Jadi dia ada isu jugalah, sejauh mana kita boleh mengawal sekatan-sekatan itu.
 
