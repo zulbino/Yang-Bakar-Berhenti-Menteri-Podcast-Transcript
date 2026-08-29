@@ -13,21 +13,22 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Viral social media moments (beria segment)
-- Ringgit and rice price misinformation
-- Hadi Awang's 'Malay race' remarks
-- Kulim High Tech Park English speech gaffe
-- George Galloway forum and Palestine comparison controversy
-- Viral Bali mother story
-- PKR internal politics and Nurul Izzah's absence
-- Anwar-Saifuddin handshake controversy
-- Muhyiddin Yassin's resignation from Bersatu/PN leadership
-- PAS internal factionalism (ustaz vs professional faction)
-- Farhad Hashim/MMAG share transaction controversy
-- Unexplained wealth legislation and asset declaration reform
-- UMNO General Assembly 2025 and Zahid Hamidi's remarks
-- Dr. Akmal and UMNO Youth resignation drama
-- MACC's proposed Deferred Prosecution Agreement (DPA)
+- 'Beria: drama food reveal restoran dan tingkah laku konsumer'
+- 'Beria: dakwaan ringgit menjunam dan harga beras oleh Perikatan Nasional'
+- 'Beria: kenyataan Hadi Awang ''bangsa Melayu selamatkan dunia'''
+- 'Beria: ucapan bahasa Inggeris pelik exco Kedah dalam pelaburan Kulim High Tech Park'
+- 'Beria: soalan wartawan menyamakan nasib Cina Malaysia dengan Palestin di forum George Galloway'
+- 'Beria: konten viral tular ''kasih ibu'' dan kredibiliti content creator'
+- 'Krisis dalaman PKR: kehilangan Nurul Izzah dan isu tidak bersalam PM dengan Saifuddin Nasution'
+- Ugutan tindakan disiplin Lembaga Disiplin PKR terhadap Rafizi Ramli
+- Peletakan jawatan Muhyiddin Yassin dan pergolakan kepimpinan Perikatan Nasional/Bersatu
+- Pertembungan kumpulan ustaz vs bukan ustaz dalam PAS dan calon pengganti Hadi Awang
+- Kontroversi jualan saham MMAG oleh Farhaj Hashim dan hubungannya dengan Anwar Ibrahim
+- Isu unexplained wealth, pengisytiharan harta dan penolakan PADU
+- 'Perhimpunan Agung UMNO 2025: ucapan Zahid Hamidi dan sindiran ''hasut fitnah'''
+- Drama Pemuda UMNO, Dr. Akmal dan 'party within a party'
+- Kestabilan kerajaan perpaduan dan sama ada UMNO akan bertanding solo di PRU16
+- Cadangan Deferred Prosecution Agreement (DPA) oleh SPRM dan kebimbangan ketelusan/keadilan
 summary: In episode 31 of Podcast Yang Berhenti Menteri, Rafizi Ramli discusses a
   wide range of current issues in Malaysia with co-hosts Haziq and Farhan (Pa'an).
   Topics include viral "beria" (over-the-top) social media moments such as exaggerated

@@ -14,21 +14,21 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Raya travel services pricing
-- MIC and Perikatan Nasional membership speculation
-- AirAsia flight delay viral livestream controversy
-- Deputy minister's appearance at OKT event and collective responsibility
-- Terengganu GLC Raya bonuses for MB and directors
-- PM Anwar Ibrahim's shifting stance on Bloomberg reports
-- 'Corporate mafia scandal: money laundering ecosystem (cigarette smuggling to stock
-  market)'
-- Azam Baki and MACC alleged complicity
-- Victor Chin whistleblower claims and NextG share transfer allegations
-- Calls for Royal Commission of Inquiry (RCI)
-- Racial and religious tension cases (Zamri Vinod, Tamim, Arun Dorasami)
-- Need for cross-party political consensus on racial issues
-- Malaysia-US tariff agreement legal status post Supreme Court ruling
-- Johari Ghani's premature statement on tariff deal cancellation
+- 'Segmen Beria: perkhidmatan hantar balik kampung berbayar tinggi menjelang raya'
+- 'Segmen Beria: isu MIC dan permohonan menyertai Perikatan Nasional'
+- 'Segmen Beria: insiden meroyan live TikTok di lapangan terbang dan isu delay AirAsia'
+- 'Segmen Beria: timbalan menteri hadir bersama orang kena tuduh (OKT) dan isu collective responsibility kerajaan'
+- 'Segmen Beria: duit raya/bonus besar kepada chairman dan exco JLC Terengganu serta budaya imbuhan ahli lembaga pengarah GLC'
+- 'Segmen Beria: retweet artikel Bloomberg oleh Anwar Ibrahim dan tuduhan Zionis terhadap Bloomberg'
+- 'Mafia korporat: pendedahan Bloomberg, Victor Chin dan 500 akaun CDS dibekukan'
+- Cadangan Suruhanjaya Siasatan Diraja (RCI) mengenai mafia korporat dan Tan Sri Azam Baki
+- 'Ekosistem jenayah: penyeludupan rokok, pengubahan wang haram melalui pasaran saham dan akaun CDS'
+- Tuduhan penyalahgunaan Akta Pencegahan Pengubahan Wang Haram (AMLA) oleh PDRM dalam kes NextG
+- Isu politik wang dan pembiayaan politik menerusi dana haram/kongsi gelap
+- Kes Zamri Vinod, Tamim dan Arun Dorasami serta risiko api perkauman dan agama
+- Cadangan konsensus politik merentas parti (Anwar Ibrahim dan Samsuri) untuk redakan sentimen perkauman
+- Status perjanjian tarif Malaysia-AS selepas keputusan Mahkamah Agung AS membatalkan kuasa tarif Trump
+- Kenyataan Johari Ghani mengenai pembatalan perjanjian tarif dan proses termination perjanjian
 summary: 'Episode 40 of Rafizi Ramli''s podcast "Yang Berhenti Menteri" hosted with
   Haziq, joined by Farhan (Pa''an), recorded ahead of Hari Raya. The episode opens
   with a light "beria" segment covering viral/trending news: overpriced door-to-door

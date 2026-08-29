@@ -13,18 +13,20 @@ guests:
 - Victor Tan
 - Rodziah Ismail (Kak Oji)
 topics:
-- Bullying/harassment aftermath of attack on Rafizi's family
-- Zara Qairina bullying case and school safety
-- Bullying of Rafizi's son Ben and political families
-- Rafizi's relationship with PM Anwar Ibrahim
-- Quitting WhatsApp / political communication habits
-- 'MCKK boarding school culture: discipline vs. bullying'
-- Malaysia's education system reform and teacher training
-- Elitism vs. equitable education quality
-- 'RMK13 policy plans: school leaving age, preschool, retirement age'
-- Performative patriotism vs. genuine civic values (flag badge controversy)
-- Government accountability and implementation of five-year plans
-- Corruption, ombudsman, discrimination, and domestic violence policy
+- Insiden keracunan keluarga Rafizi dan tekanan sebagai ahli politik/aktivis
+- Kes Zara Qairina Emran dan buli di asrama sekolah
+- Pengalaman anak Rafizi (Ben) dibuli kerana anak ahli politik
+- Budaya disiplin vs buli di Malay College Kuala Kangsar (MCKK)
+- Latihan dan kesediaan guru menangani isu buli di sekolah
+- Hubungan profesional Rafizi dengan Anwar Ibrahim dan budaya WhatsApp ahli parlimen
+- Isu buli di UTM dan kes-kes buli lain yang timbul selepas kes Zara
+- 'Reformasi pendidikan dan RMK13: menurunkan umur persekolahan, prasekolah universal'
+- Pentadbiran Fadhlina Sidek sebagai Menteri Pendidikan dan tindak balas defensif kementerian
+- Kontroversi lencana bendera dan isu patriotisme dalam sistem pendidikan
+- Insiden pembulian pakcik di Pulau Pinang oleh Pemuda UMNO/PAS berkaitan bendera
+- Mitos 'sekolah elit' seperti MCKK dan kekurangan bajet sekolah berasrama penuh
+- Akauntabiliti pelaksanaan Rancangan Malaysia (RMK) dan mekanisme pengukuran pencapaian
+- 'Soalan penutup komuniti: diskriminasi, rasuah, ombudsman, dan keadilan generasi (B40, gaji)'
 summary: In episode 9 of "Yang Berhenti Menteri," guest moderator Victor Tan interviews
   Rafizi alongside YB Rodziah Ismail (Ampang MP, "Kak Oji"), recorded a day
   after Rafizi's family was targeted in a poisoning/attack incident. Rafizi opens

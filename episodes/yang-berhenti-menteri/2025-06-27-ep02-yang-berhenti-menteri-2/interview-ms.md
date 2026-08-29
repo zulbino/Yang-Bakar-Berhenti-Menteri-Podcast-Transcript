@@ -18,8 +18,7 @@ topics:
 - Renewable energy transition, rooftop solar, and CRES scheme
 - Nuclear energy as an option for Malaysia
 - Najib Razak's SRC case DNAA and prosecutorial delays
-- MCMC court order against Edisi Siasat Telegram channel and free speech vs. digital
-  regulation
+- MCMC court order against Edisi Siasat Telegram channel and free speech vs. digital regulation
 - Whistleblowing, accountability, and defamation
 - Burning of PM Anwar Ibrahim's caricature by UMS students and youth political dissent
 - Rafizi Ramli's political journey and post-ministerial plans

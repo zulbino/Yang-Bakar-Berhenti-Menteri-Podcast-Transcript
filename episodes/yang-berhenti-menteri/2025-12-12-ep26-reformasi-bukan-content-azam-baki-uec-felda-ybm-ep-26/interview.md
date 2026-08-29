@@ -13,17 +13,20 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Viral 'Beria' social media clips and public generosity culture
-- Wan Fayhsal / 'Ceplos' political fandom and PKR cybertroopers
-- Accusations that Rafizi is 'merajuk' (sulking) and narcissistic
-- Comparison to Anwar Ibrahim's 1998 sacking and reformasi history
-- SPRM independence, Azam Baki's tenure, and anti-corruption credibility of PKR/PH
-- UEC (Unified Examination Certificate) controversy and trilingual education policy
-- FELDA financial crisis, FGV, and history of mismanagement since Najib era
-- FELDA-Terengganu land/premium dispute
-- 'BN internal fragility: MCA, MIC, UMNO-DAP dynamics'
-- PAS's rise among non-Malay voters and Sabah election results
-- Seat negotiation strategy ahead of the next general election
+- 'Beria: lambaian tangan dapat RM100 dan budaya feudal derma viral'
+- 'Beria: Abang Grab Hero membersih longkang'
+- 'Beria: Ceplos, Wan Fayhsal dan sejarah hubungan dengan Rafizi'
+- 'Beria: kereta automatik lawan budaya ''cop parking'''
+- 'Beria: papan tanda hilang dan kekeliruan konsep beria'
+- Isu Azam Baki, SPRM dan kredibiliti anti-rasuah PKR/PH
+- Tuduhan 'Rafizi tak suka Fahmi Fazil' dan naratif politik dalaman PKR
+- Isu UEC dan pendidikan vernakular Cina serta keperluan masyarakat trilingual
+- Tuduhan Rafizi 'merajuk' dan serangan cyber trooper/chaplos PKR terhadap Rafizi
+- Perbandingan sejarah reformasi 1998 Anwar Ibrahim dengan situasi Rafizi sekarang
+- 'Krisis kewangan Felda: hutang, FGV, dan legasi penyelewengan zaman Najib'
+- Konflik tanah Felda-Terengganu dan isu premium tanah antara kerajaan negeri dan persekutuan
+- 'Dinamik dalaman Barisan Nasional: MCA, MIC dan rundingan kursi dengan DAP/PKR'
+- Kesan PRU Sabah dan strategi pilihan raya umum akan datang (PRU16)
 summary: 'Episode 26 of Rafizi Ramli''s podcast with co-hosts Haziq and Farhan (Pa''an).
   The show opens with the "Beria" segment reacting to viral clips: a "Sultan Pemurah"
   figure giving RM100 for hand waves in Melaka, a Grab rider clearing drains, an obsessive

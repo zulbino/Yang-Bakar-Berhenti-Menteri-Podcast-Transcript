@@ -13,16 +13,21 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Reaksi Kamil Munim terhadap Dr. Akmal Saleh dan seruan UMNO keluar kerajaan
-- Naratif perpecahan Melayu dalam UMNO, BERSATU, dan PAS
-- Insiden viral lelaki bertudung minum arak
-- Sokongan pengundi Melayu dan strategi UMNO dalam Kerajaan Madani
-- Pengumuman reformasi institusi oleh PM Anwar Ibrahim (had tempoh PM, FOI, pemisahan
-  AG-DPP, Ombudsman)
-- Persepsi rakyat terhadap rasuah dan pembebasan Zahid Hamidi
-- 'Kontroversi Angkatan Tentera Malaysia: budaya ''ye-ye'' dan isu perolehan pertahanan/kartel'
-- Kritikan terhadap metodologi kaji selidik populariti (Institut Masa, Ipsos)
-- Kemelut dalaman BERSATU/Perikatan Nasional dan status jawatan Muhyiddin
+- 'Segmen Beria: reaksi Kamil Munim terhadap seruan Dr. Akmal Saleh untuk UMNO keluar kerajaan'
+- 'Segmen Beria: naratif ''Melayu berpecah'' antara UMNO, BERSATU dan PAS'
+- 'Segmen Beria: bayangan peletakan jawatan Dr. Akmal Saleh'
+- 'Segmen Beria: kontroversi ''lelaki bertudung minum arak'' viral Christmas'
+- Dinamik dalaman UMNO dan strategi Penyatuan Melayu di konvensyen pemuda
+- Analisis undi Melayu berpecah dan aritmetik pilihan raya sejak 2008
+- Sebab UMNO kekal dalam Kerajaan Madani dan risiko vote transfer PH-UMNO
+- 'Pengumuman reformasi institusi Anwar Ibrahim: had tempoh jawatan PM, FOI, Ombudsman, pemisahan Peguam Negara-Pendakwa Raya'
+- Kes DNAA Dato' Seri Zahid Hamidi dan persepsi rakyat terhadap pembangkusan rasuah
+- Isu lantikan dan kebebasan SPRM (Tan Sri Azam Baki)
+- Skandal budaya 'ye-ye' dan hostess dalam Angkatan Tentera Malaysia
+- Rasuah dan kartel dalam perolehan pertahanan, termasuk kes kapal LCS
+- Cadangan Suruhanjaya Diraja untuk reformasi sistem perolehan pertahanan
+- Kritikan metodologi dan tafsiran tinjauan populariti Institut Masa dan Ipsos
+- 'Huru-hara dalaman BERSATU/Perikatan Nasional: pemecatan Saifuddin Abdullah dan status peletakan jawatan Muhyiddin sebagai Pengerusi PN'
 summary: Episod ke-30 Podcast Yang Berhenti Menteri bersama Rafizi Ramli, dihoskan
   oleh Haziq dengan Farhan turut menyertai perbincangan. Bermula dengan segmen ringan
   "Beria" yang mengulas reaksi Kamil Munim terhadap seruan Dr. Akmal Saleh untuk UMNO

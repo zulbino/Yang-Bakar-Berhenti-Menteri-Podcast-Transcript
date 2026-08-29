@@ -12,15 +12,22 @@ hosts:
 - Haziq
 guests: []
 topics:
-- Isu politik dan sosial mingguan
+- 'Segmen Beria: bendera Israel PAS'
+- Kenyataan RM2.60 minyak PM
+- Skim rendam kaki keluar toksin
+- Alasan PN belum umum calon PM
+- Scam QR obituary
 - Belanjawan alternatif Perikatan Nasional
-- Soalan parlimen
-- Keganasan di sekolah dan pendidikan
-- Ikatan Perhatian Rakyat
+- Gegaran gempa bumi di Segamat
+- Dakwaan wang tidak diaudit PM
+- Keganasan di sekolah dan isu rotan
+- Kritikan terhadap Menteri Pendidikan
+- Penubuhan Ikatan Perhatian Rakyat (IPR)
 - Subsidi RON95 dan Budi95
-- Pergolakan dalaman Bersatu
-- Hadiah Nobel Kimia
-- Soal jawab pendengar
+- Balasan kepada Syahir Sulaiman
+- Pemecatan Wan Saiful dan Wan Fayhsal daripada Bersatu
+- Hadiah Nobel Kimia Omar Yaghi
+- 'Soal jawab: RON92, belanjawan pertahanan, diplomasi ASEAN'
 summary: 'Episod ke-18 podcast Yang Berhenti Menteri bersama Rafizi Ramli dan pengacara
   Haziq. Bermula dengan segmen Beria yang mengulas isu-isu viral minggu itu termasuk
   kontroversi bendera Israel di Kelantan, dakwaan PM bayar minyak sendiri RM2.60,

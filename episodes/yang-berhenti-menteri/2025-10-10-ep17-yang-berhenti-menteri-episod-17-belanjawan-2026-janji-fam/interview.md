@@ -12,21 +12,24 @@ hosts:
 - Haziq
 guests: []
 topics:
-- Belanjawan 2026 Malaysia
-- Isu kerakyatan pemain bola sepak import FAM
-- Wan Fayhsal - Trump/Netanyahu
-- Isu Kampung Sungai Baru
-- Penggunaan AI dan kesalahan laporan Deloitte Australia
-- Analisis makroekonomi kerajaan (hasil, perbelanjaan, hutang)
-- Debt service charge dan debt ceiling
-- Subsidi dan bantuan sosial (STR, SARA, PTPTN)
-- JSSEZ (Johor-Singapore Special Economic Zone)
-- RMK-13
-- Dividen Petronas
-- Potongan gaji menteri
-- Cukai rokok
-- GLC/GLIC governance
-- Social enterprise projek Rafizi (Kesom, Fleximat)
+- 'Segmen Beria: sindiran netizen terhadap ahli politik yang menunggang isu viral'
+- Kontroversi cadangan Wan Fayhsal menjemput Netanyahu selepas jemputan Trump
+- Isu Kampung Sungai Baru dan sentimen perkauman berbangkit
+- Isu kerakyatan pemain bola sepak import FAM dan dakwaan FIFA berhubung dokumen kelahiran
+- Kesilapan penggunaan AI dalam laporan Deloitte Australia dan pengajaran kepada kerajaan Malaysia
+- 'Analisis makro Belanjawan 2026: hasil kerajaan, perbelanjaan mengurus (OE) dan pembangunan (DE)'
+- Isu defisit fiskal, siling hutang 65% KDNK dan bayaran khidmat hutang (debt service charge)
+- Pengurangan peruntukan subsidi dan bantuan sosial (STR, SARA) sebanyak RM8 bilion
+- Agihan belanja pembangunan mengikut sektor termasuk pertanian dan pengangkutan
+- Cadangan pendidikan tinggi percuma melalui PTPTN dan masalah hutang PTPTN RM41 bilion
+- Institusi jaringan keselamatan sosial (social safety net) berbanding bantuan tunai bermusim
+- Kebimbangan GLIC dan GLC diheret menjadi sebahagian perbelanjaan kerajaan dan isu tata kelola
+- 'Johor-Singapore Special Economic Zone (JSSEZ): visi, KPI dan risiko jangka panjang'
+- Kaitan Belanjawan 2026 dengan Rancangan Malaysia ke-13 (RMK13)
+- Penurunan dividen Petronas dan kemampanan kewangan Petronas
+- Potongan gaji menteri 20% dan budaya politik wang dalam parti
+- Kenaikan harga rokok dan arak sebagai langkah kesihatan awam
+- 'Perkembangan projek social enterprise Rafizi: Kesom dan Fleximat'
 summary: Episod ke-17 podcast 'Yang Berhenti Menteri' bersama Rafizi Ramli, dihoskan
   oleh Haziq. Segmen bermula dengan sindiran ringan tentang tokoh-tokoh 'poyo' minggu
   ini termasuk isu FAM/kerakyatan pemain bola sepak import, kenyataan Wan Fayhsal

@@ -13,21 +13,24 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Budaya pengiring/escort polis untuk menteri dan pegawai
-- Strategi media sosial Amiruddin Shari (Amiruddin Stories) dan authenticity dalam
-  politik
-- Kempen politik bekas Ketua Pesuruhjaya SPRM Azam Baki
-- Kritikan terhadap doktrin PAS mengenai syurga dan politik
-- Kontroversi ucapan tahlil dan isu agama dalam politik DAP-UMNO
-- Skandal peruntukan ICU Parlimen ketua cabang PKR Petaling Jaya
-- Doktrin 'Melayu berkuasa' Sanusi Md Nor dan sejarah kuasa Melayu (Perjanjian Pangkor,
-  feudalisme, penghambaan)
-- Statistik pemilikan ekuiti mengikut kaum di Malaysia
-- Dasar Ekonomi Baru dan unintended consequences
-- Perletakan jawatan Nurul Izzah dan krisis dalaman PKR
-- Skandal Nikhil Liow dan mafia korporat
-- Seruan 'perkuatkan PH, kembali kepada PKR' dan hujah menyokong parti Bersama
-- Jelajah Sekawan Kancil dan persediaan PRN Melaka
+- 'Beria: budaya pengiring (escort) menteri dan penyalahgunaan kuasa SUPOL'
+- Strategi media 'Amiruddin Stories' MB Selangor dan isu authenticity/koreografi konten politik
+- Kempen PKR di Negeri Sembilan dan kritikan terhadap Ismail Sabri oleh penyokong Anwar
+- Kontroversi Tan Sri Azam Baki berkempen politik selepas bersara daripada SPRM
+- Serangan cyber trooper PAS/UMNO mengenai doktrin syurga dan agama dalam politik
+- Kontroversi tahlil arwah Anthony Loke oleh Pemuda UMNO
+- Ketua cabang PKR Petaling Jaya mengambil alih permohonan peruntukan ICU Parlimen
+- Pemotongan peruntukan parlimen kepada ahli parlimen PKR (Wong Chen, Sze Lee, Lee Chean Chung, Kak Oji)
+- 'Hidup Keras Dik: Ucapan Sanusi Md Nor dan doktrin ''UMNO-PAS asal Melayu berkuasa, masalah belakang kira'''
+- Sejarah Perjanjian Pangkor, penghambaan dan struktur feudal Melayu sebagai punca sebenar isu kuasa
+- Statistik pemilikan ekuiti Bumiputera, Cina dan asing serta kritikan terhadap naratif 'China kuasai ekonomi'
+- Dasar Ekonomi Baru (DEB), mismatch pendidikan-pasaran kerja dan underemployment Bumiputera
+- Dasar gaji progresif dan pertembungan dengan Anwar Ibrahim/Kementerian Kewangan
+- Peletakan jawatan Nurul Izzah sebagai Timbalan Presiden PKR dan krisis dalaman PKR
+- Skandal Nikhil Liow, mafia korporat dan kaitan dengan Anwar Ibrahim/PKR
+- Sebab Rafizi Ramli enggan kembali ke PKR dan hujah 'perkuatkan PH, kembali kepada PKR'
+- Strategi politik Bersama dan konsep 'five stages of grief' bagi pengundi PH
+- Pengumuman jelajah Kancil, program Sekawan Kancil dan persiapan calon PRN Melaka
 summary: 'Episod ke-58 Podcast Yang Berhenti Menteri bersama Rafizi Ramli, Haziq dan
   Farhan (Pa''an). Bermula dengan segmen "Beria" membincangkan isu semasa: budaya
   pengiring polis kepada menteri dan SUPOL yang tidak layak, media strategi "humble"

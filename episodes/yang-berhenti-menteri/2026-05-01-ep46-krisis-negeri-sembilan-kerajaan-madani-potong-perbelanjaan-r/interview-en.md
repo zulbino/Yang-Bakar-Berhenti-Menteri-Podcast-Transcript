@@ -15,22 +15,19 @@ hosts:
 - Amir Sahmat
 guests: []
 topics:
-- Azam Baki controversy and Sogo demo
-- Tengku Zafrul's political positioning ahead of Pandan election
-- PAS assemblyman's controversial remarks on police
-- Journalist P. Ramanan/Bin Antakuma home raid over foreign worker reporting
-- Negeri Sembilan constitutional crisis and Undang Council dispute
-- UMNO's withdrawal of support for Menteri Besar Aminuddin Harun
-- Political implications for upcoming Melaka, Johor, Negeri Sembilan state elections
-- Fuel subsidy cuts and RM10 billion budget reduction
-- Targeted subsidy policy (PADU) versus blanket subsidies
-- Petronas dividends and government revenue
-- Social media network effect theory and political communication strategy
-- JKOM and cybertrooper ineffectiveness
-- 'Platform comparison: Facebook, TikTok, YouTube, X/Twitter, Instagram in Malaysian
-  politics'
-- Rafizi's upcoming MACC (SPRM) investigation over Arm Holdings semiconductor deal
-- Concerns over MACC's legal powers and lack of Miranda rights
+- 'Segmen Beria: kontroversi Tan Sri Azam Baki selepas demo Sogo'
+- Tengku Zafrul 'internship' bertanding di Pandan dan budaya bantuan feudal ahli parlimen
+- Kontroversi YB Melor PAS Wan Rohimi dan konvoi motor 'bodohkan polis'
+- Serbuan rumah wartawan Malaysiakini Nantakuma berkaitan Menteri Ramanan dan kebebasan media
+- 'Kemelut Negeri Sembilan: Undang Yang Empat, Tuanku Muhriz dan MB Aminuddin Harun (Tok Min)'
+- Kesan politik kemelut Negeri Sembilan kepada UMNO dan jangkaan PRN Melaka, Johor serta PRU akan datang
+- Arahan pemotongan bajet RM10 bilion oleh Kementerian Kewangan dan krisis subsidi minyak RM58 bilion
+- Subsidi bersasar, PADU dan cadangan sistem pindahan tunai bulanan/social security
+- Dividen Petronas sebagai sumber menampung kekurangan subsidi dan kesan jangka panjang
+- Peranan JKOM, cybertrooper dan chaplor dalam komunikasi kerajaan Madani
+- 'Konsep ''network effect'' dan strategi media sosial: Facebook, TikTok, YouTube, X, Instagram'
+- Perbandingan strategi digital PH, BN, PN dan kegagalan JKOM memahami media sosial
+- Jangkaan pendakwaan Rafizi Ramli oleh SPRM berkaitan projek Arm dan kritikan terhadap Akta SPRM
 summary: In this episode of Rafizi Ramli's podcast (YBM), Rafizi is joined by co-hosts
   Wan Afiq, Amir Sahmat, and Farhan (Pa'an) for a segment on trending "beria" (viral/hot)
   news before diving into deeper political discussion. Topics covered in the beria

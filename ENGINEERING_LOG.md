@@ -2919,3 +2919,77 @@ needs yt-dlp plus the PO-token server plus YouTube's cooperation, and the .vtt b
 of captions are the ground truth behind every timing check. It refuses to run while a gate
 is mid-flight: `data/_*_incumbent` is not a leftover then, it is the only copy of the
 published files a losing candidate would be restored from.
+
+### 2.8: The topic lists were thin because the prompt never asked, and two bugs that hid it
+
+The owner read the output and found the main theme of episode after episode missing from
+its own topic list: `Gen Z` in ep52, `e-Fishery` and `KWAP` in ep56, `Rohingya` in ep53,
+`AUKU` in ep60. Three separate defects, and the interesting part is that only one of them
+was where I first looked.
+
+**One. The prompt never asked for topics.** `META_PROMPT_TEMPLATE` carried a full paragraph
+on how to sort hosts from guests and said **nothing at all** about `topics` -- no count, no
+coverage requirement, no instruction to work through the episode. One line for a
+three-hour episode was a valid response, and for five episodes that is what came back:
+ep25, ep29, ep34, ep35 and ep37 each carried a single topic. The prompt now states what a
+topic list must do, including the two rules the owner supplied: name the SUBJECT rather
+than the speaker (a guest is not a topic and is already in `guests`), and the title's theme
+must appear.
+
+**Two. I went looking for the answer in the wrong place first.** Before finding the prompt
+I built a statistical extractor over the transcripts -- acronyms and capitalised phrases,
+ranked by TF-IDF -- and put it in a README column. It missed the same themes, each for its
+own reason, which is the tell that the approach was wrong rather than under-tuned:
+
+  Rohingya    the phrase pattern required TWO capitalised words, so single-word proper
+              nouns were invisible
+  e-Fishery   lowercase-initial and hyphenated, spelled four ways, matching no pattern
+  AUKU        in only two episodes, so an episode-spread threshold of five dropped it
+  KWAP        six mentions, below every threshold
+  Gen Z       offered `Zaim Zulkifli` instead: a guest, and the wrong kind of answer
+
+Every one of those was already written in the frontmatter. "Krisis pelarian Rohingya di
+Malaysia" was sitting in ep53's file the whole time. **The `topics:` list is the only place
+anything in this pipeline read an episode, and I detoured around it to compute a worse
+answer from surface patterns.** The column is gone at the owner's call and the statistical
+tables with it; TOPICS.md now prints the curated lines verbatim and computes nothing.
+
+**Three. Two bugs were hiding the scale of it.** `common.frontmatter_md` called `yaml.dump`
+with no `width`, so it wrapped list items at 80 characters with a two-space continuation.
+Valid YAML -- and every frontmatter reader in this repo parses with a regex of the shape
+`^topics:\n((?:- .*\n)*)`, which stops at the first continuation line. So a wrapped entry
+truncated the list and hid every entry after it. **24 episodes shipped that way before
+today**: ep11's twelve topics read as three, and my coverage report said the mean was 49%
+when it was really 78%. `frontmatter_md` now passes a large width and
+`normalize_frontmatter_lists.py` repaired what was on disk.
+
+The second was mine and worse. `read_frontmatter_body` strips a leading "# Interview" from
+the body and `frontmatter_md` does not write it back -- the pair is asymmetric, because the
+creators in `transcribe_episode.py` prepend the heading themselves. So a read-modify-write
+DELETES it, and my first `write_topics` did exactly that to **147 files**, taking the
+corpus from 68 headings to 19. `rebuild_roster.py` had been dodging this for months by
+re-reading the body's first line and prepending it, which works only while that line is
+the heading. `common.set_frontmatter_list` now replaces one field surgically and asserts
+the body is unchanged; both writers use it. Repaired by taking each body from git and
+substituting only the topics block, then verifying all 272 bodies byte-identical.
+
+**The score is the show's own chapter markers.** 39 of the 68 YouTube descriptions carry
+timestamped segment titles written by the people who made the episode, and they were
+sitting unused in `data/manifest.json` -- ep35 has nine, including "Bloomberg Kasi Kantoi
+Azam Baki" and "Isu Rumah Ibadat", which is exactly what its title promises and its
+one-line topic list omitted. `gate_topics.py` re-extracts and promotes only on better
+coverage of those chapters. An external reference, for the same reason the QA suite checks
+transcripts against YouTube's captions rather than against themselves.
+
+Mean coverage 49% -> 82%, 53 of 68 episodes promoted, 1,020 topic lines against 716.
+ep35 went from 1 topic covering 1 of 9 chapters to 14 covering 8.
+
+**The gate's first rule was wrong too, and threw away its best results.** Requiring
+coverage AND line count to both be non-decreasing rejected ep28's candidate at 15/15
+chapters against the incumbent's 9/15, for having 16 lines instead of 19; ep13's 17/18
+against 11/18 lost on 14 against 15. Line count is a proxy, coverage is the thing itself.
+Coverage decides now and line count only breaks a tie.
+
+**Still open: 29 episodes have no chapter markers**, so nothing external scores them. They
+fall back to line count, which is weak. ep25 is the one to look at first -- one topic, no
+chapters.

@@ -13,21 +13,21 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Ber-ia (segmen satira mingguan)
-- Ahli Parlimen tidak hadir sidang Parlimen
-- Budaya sewa iPhone semasa raya
-- Krisis kepimpinan Perikatan Nasional
-- Isu kejutan sahur mengganggu ketenteraman awam
-- Inisiatif Ayuh Malaysia - Pinjam Gadget
-- RUU had tempoh Perdana Menteri
-- RUU pemisahan peranan Peguam Negara dan Pendakwa Raya
-- Konsep whip dan pemisahan kuasa dalam sistem Westminster
-- Jawatankuasa Pilihan Khas Parlimen (HAPRI)
-- Kontroversi Tan Sri Azam Baki dan SPRM
-- Dakwaan konspirasi Zionis dan Toh Puan Na'imah
-- Projek ARM (semiconductor) RM1.1 bilion dan siasatan SPRM
-- Kes James Chai dan notis SPRM
-- Politik dalaman PKR dan kesetiaan ahli Parlimen
+- 'Segmen Ber-ia: roundup isu viral minggu ini'
+- Kontroversi ahli Parlimen Bukit Gantang tidak hadir undi had tempoh PM
+- Trend sewa iPhone dan budaya bergaya semasa hari raya
+- Isu Tan Sri Muhyiddin tidak mahu duduk sebelah Datuk Seri Hamzah di Parlimen
+- 'Krisis kepimpinan Perikatan Nasional: Dr Sam sebagai pengerusi PN dan isu calon PM'
+- Isu kejut sahur mengganggu ketenteraman awam
+- Pelancaran inisiatif Pinjam Gadget oleh Ayuh Malaysia
+- Kegagalan RUU had tempoh Perdana Menteri mendapat undi 2/3
+- RUU pemisahan peranan Peguam Negara dan Pendakwa Raya dirujuk ke Jawatankuasa Pilihan Khas baru
+- Konsep whip, pemisahan kuasa dan sistem Westminster dalam Parlimen Malaysia
+- 'Kontroversi Tan Sri Azam Baki: saham korporat, MMAG dan tuduhan korporat mafia'
+- Laporan polis dan dakwaan konspirasi Zionis/Toh Puan Na'imah menjatuhkan kerajaan
+- Siasatan SPRM terhadap James Chai berkaitan perjanjian ARM dan Kementerian Ekonomi
+- Susur galur perjanjian ARM untuk membangunkan industri semikonduktor Malaysia dan kos RM1.1 bilion
+- Kesan politik isu James Chai terhadap sokongan pengundi Cina, Gen Z dan Millennial kepada PKR/kerajaan
 summary: Episod ke-38 Podcast Yang Berhenti Menteri bersama Rafizi Ramli, dihoskan
   oleh Haziq bersama Farhan (Pa'an). Segmen 'Ber-ia' mengulas isu-isu ringan seperti
   ahli Parlimen tidak hadir sidang, budaya sewa iPhone semasa raya, kekecohan Perikatan

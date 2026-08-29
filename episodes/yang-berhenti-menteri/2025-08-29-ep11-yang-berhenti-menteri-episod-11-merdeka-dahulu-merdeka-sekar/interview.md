@@ -13,19 +13,21 @@ hosts:
 guests:
 - Nik Nazmi
 topics:
-- Merdeka/patriotism reflections across generations
-- MCKK and debating culture's influence on worldview
-- Information monopoly and technology's role in political change (VCDs, blogs, Facebook,
-  TikTok)
-- 2008, 2018, and 2022 Malaysian election turning points
-- Racial framing vs. class/economic insecurity in Malaysian politics
-- Niat, sikap, and competence as criteria for judging politicians
-- Social mobility as the central long-term challenge for Malaysia
-- Populism and the rise of far-right politics globally as a cautionary parallel
-- Urban Renewal Act and racialized political framing
-- Personal experiences of becoming and resigning as ministers
-- 1MDB scandal and Najib Razak's political redemption possibility
-- Tun Abdullah Badawi's legacy and parallels with Anwar Ibrahim's government
+- Latar belakang persekolahan di MCKK dan La Salle serta budaya berdebat
+- Perbandingan semangat Merdeka era 80-90an dengan sekarang
+- Pengaruh keluarga dan pembacaan terhadap kesedaran politik dan sejarah
+- Sejarah migrasi kaum dan dasar British dalam pembentukan masyarakat majmuk Malaysia
+- Insecurity kelas menengah Melayu berbanding golongan bawahan
+- Peranan teknologi (radio internet, blog, Facebook, TikTok) dalam Reformasi dan kejatuhan BN
+- Pengalaman peribadi menjadi Menteri dan cabaran ekspektasi rakyat
+- Perbandingan era pentadbiran Tun Abdullah Badawi dengan kerajaan Anwar Ibrahim sekarang
+- Kepentingan niat, sikap dan kompetensi dalam menilai ahli politik
+- Krisis identiti dan visi parti-parti politik seperti PKR, PAS, DAP, PSM
+- Skandal 1MDB dan kemungkinan Najib Razak dipulihkan reputasinya
+- Ancaman populisme dan politik perkauman berikutan kekurangan mobiliti sosial
+- Kontroversi Urban Renewal Act (URA) dan penggunaan sentimen perkauman
+- Detik paling 'merdeka' dalam kerjaya politik masing-masing (PRU 2008 dan 2018)
+- Refleksi penutup tentang makna Merdeka bagi generasi muda
 summary: In this Merdeka-themed episode of "Yang Berhenti Menteri," host Iqbal is
   joined by permanent fixture Rafizi Ramli and special guest Nik Nazmi — both former
   ministers ("Yang Berhenti Menteri" to the power of two) — for a wide-ranging, reflective

@@ -14,17 +14,20 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Billboard dan publisiti Ramanan Ramakrishnan
-- Tuduhan rasuah Fuad Zakashi/Puan Art dan kes Bestinet/FWCMS/LCS
-- Tengku Zafrul di kawasan Pandan
-- Saman fitnah MP Jasin/Harakah dan Isham Jalil
-- Demonstrasi Tangkap Azam Baki dan budaya protes Malaysia
-- Titah Yang di-Pertuan Agong dan pelantikan Ketua Pesuruhjaya SPRM
-- Tuntutan RCI dan reformasi institusi SPRM/Parlimen
-- Dasar negara menua (aging population) dan agenda ekonomi Malaysia
-- Persaraan, EPF, pekerja asing dan penyertaan wanita dalam tenaga kerja
-- Kekacauan dalaman PKR di cabang-cabang (Kangar, Pandan, Kuala Selangor, Tuaran)
+- 'Segmen Beria: billboard besar Ramanan Ramakrishnan dan budaya PKR'
+- Kenyataan Fuad Zakashi mengenai rasuah dan kes lama FWCMS/Bestinet serta LCS
+- Tengku Zafrul 'gate crash' majlis raya di Pandan menjelang PRU
+- Permohonan maaf MP Jasin dan Harakah dalam kes saman fitnah kunut nazilah
+- Janji RM40 juta Isham Jalil untuk saman fitnah influencer PH/BN
+- Himpunan Tangkap Azam Baki dan sejarah budaya demonstrasi di Malaysia
+- Titah Yang di-Pertuan Agong mengenai pelantikan Ketua Pesuruhjaya SPRM yang baharu
+- Tuntutan RCI dan reformasi institusi SPRM serta peranan Parlimen dalam pelantikan jawatan utama
+- Agenda negara menua (aging nation) dan unjuran demografi Malaysia RMK-13
+- Kesan negara menua kepada ekonomi, cukai, pencen (EPF) dan sistem kesihatan
+- 'Cadangan dasar: umur persaraan, penyertaan wanita dalam tenaga kerja, dan pengurangan pekerja asing'
+- Pergolakan cabang PKR di Kangar, Pandan, Kuala Selangor dan Tuaran selepas pemilihan parti
 - Penilaian setahun Nurul Izzah sebagai Timbalan Presiden PKR
+- Seruan kehadiran demo Tangkap Azam Baki
 summary: 'Episod ke-45 podcast "Yang Berhenti Menteri" bersama Rafizi Ramli, dihoskan
   oleh Haziq dan Farhan (Pa''an). Segmen "YB Ramai Beria" mengulas tingkah laku pelbagai
   ahli politik: billboard besar Ramanan Ramakrishnan, kenyataan sufi Fuad Zakashi/Puan

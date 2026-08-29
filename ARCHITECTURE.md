@@ -159,6 +159,18 @@ python scripts/merge_same_speaker.py --write
 python scripts/cleanup_scratch.py
 python scripts/cleanup_scratch.py --write
 
+# Re-extract an episode's `topics:` and keep it only if it covers more of the episode's
+# own YouTube chapter markers. The metadata prompt used to say nothing about topics, so
+# five episodes carried ONE line for three hours. Coverage decides, not line count (2.8)
+python scripts/gate_topics.py --report
+python scripts/gate_topics.py ep35 --write
+bash scripts/gate_topics_batch.sh --all
+
+# Put every frontmatter list item back on one line. yaml.dump wrapped at 80 chars and the
+# regex readers stop at the first continuation, so 24 episodes' topic lists were silently
+# truncated -- ep11's twelve read as three (2.8)
+python scripts/normalize_frontmatter_lists.py --write
+
 # Speaker labels that appear in interview*.md but never in raw.md
 python scripts/label_drift_audit.py
 

@@ -14,20 +14,21 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Rafizi's illness/demam and daily work routine
-- Akmal Saleh flag controversy (Beria)
-- Parliament special sitting on Tabung Haji RCI and PN walkout
-- PKR food-box donation scam in Indera Mahkota, Kuantan
-- PKR/UMNO/PAS seat negotiation tensions in Melaka
-- PAS's delayed KB Sentral project in Kelantan
-- 'Tabung Haji RCI: zakat and Shariah Advisory Committee accountability'
-- Financial analysis of Urusharta Jamaah Sdn Bhd (UJSB) 2019-2025
-- Government financial liability and deferred resolution of Tabung Haji debt
-- Need for cross-agency investigation task force and civil suits over Tabung Haji
-  losses
-- Controversy over former Auditor-General Tan Sri Madinah's audit reports
-- Speculation on DAP's decision at its special convention regarding the Madani government
-- Bersama party's Melaka gotong-royong event, futsal activity, and candidate announcement
+- 'Beria: kontroversi bendera Dr. Akmal Saleh dan politik identiti UMNO-PAS'
+- 'Beria: sesi bahas Dewan Rakyat dan soalan bocor 3 jam Rafizi'
+- 'Beria: kes scam kotak makanan dan mangsa pendaftaran ahli PKR di Indera Mahkota'
+- 'Beria: pertikaian agihan kerusi PH-BN-PAS di Melaka menjelang PRN'
+- 'Beria: kelewatan berulang projek KB Sentral di Kelantan'
+- Perbahasan Parlimen mengenai Laporan RCI Tabung Haji dan reaksi PN/UMNO/PH
+- Isu zakat pendeposit dan pertukaran akad Tabung Haji (mudharabah ke wadiah ke wakalah)
+- Akauntabiliti Jawatankuasa Penasihat Syariah Tabung Haji
+- Analisis kewangan terperinci prestasi UJSB (Urusharta Jamaah Sendirian Berhad) dalam memulihkan aset Tabung Haji 2019-2025
+- Tanggungan kerajaan membayar balik sukuk UJSB kepada Tabung Haji dan risiko "kicking the can down the road"
+- Fiduciary duty dan tanggungjawab Pengerusi Tabung Haji Azeez Rahim
+- Cadangan siasatan rentas agensi (SPRM, Bank Negara, SC) dan tindakan sivil terhadap penyelewengan Tabung Haji
+- Kontroversi kredibiliti bekas Ketua Audit Negara Tan Sri Madinah dan laporan audit Tabung Haji
+- Analisis kemungkinan DAP keluar daripada Kerajaan Madani menjelang Konvensyen Khas DAP
+- Pengumuman aktiviti dan calon Bersama di PRN Melaka serta jelajah Kancil
 summary: 'Episode 59 ("edisi demam") of Podcast Yang Berhenti Menteri. Rafizi, joined
   by Haziq and Farhan (Pa''an), opens with banter about being sick before running
   through the weekly "Beria" segment covering: Akmal Saleh''s flag-inspection controversy

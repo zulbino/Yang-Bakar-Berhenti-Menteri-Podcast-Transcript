@@ -13,22 +13,24 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Politik Malaysia
-- Parlimen Malaysia
-- Reformasi pendidikan
-- PADU dan subsidi bersasar
-- PAS dan isu perkauman
-- Kes 1MDB dan Najib Razak
-- Hasil 40% Sabah
-- Perumahan mega dan infrastruktur awam
-- Dinar vs USD dalam perdagangan
-- ECRL dan peruntukan pengangkutan
-- Politik antarabangsa (Singapura, Jepun)
-- Kecurian Muzium Louvre
-- Teknologi (rainbow chip, fertiliti)
-- E-dagang dan produk tiruan/dumping
-- Integriti dan pelaporan salah laku penjawat awam
-- Sukan (pickleball, bola sepak)
+- 'Segmen Beria: posting pegawai Fadhlina dan isu Menteri Pendidikan tertidur dalam tandas'
+- 'Segmen Beria: kenyataan Najib Razak mengenai pemulangan wang 1MDB'
+- 'Segmen Beria: influencer 40,000 followers minta makan free di mamak'
+- 'Segmen Beria: kanak-kanak merosakkan kolam Deepavali di Penang'
+- 'Segmen Beria: cadangan Kerajaan Selangor perkenalkan pickleball di sekolah'
+- 'Standing Order: reformasi pendidikan permulaan prasekolah 5 tahun dan sekolah rendah 6 tahun (RMK-13)'
+- 'Standing Order: perkembangan sistem PADU dan penggunaannya dalam subsidi bersasar RON95'
+- Isu Memali dan tuduhan YB Kota Bharu (Takiyuddin) berkaitan APMM dan Masjid Rusila
+- 'Keputusan Mahkamah Tinggi Kota Kinabalu: pemulangan 40% hasil Sabah kepada Kerajaan Persekutuan'
+- Cadangan Tan Sri Hadi Awang guna dinar gantikan USD dan serangan Nurul Islam
+- Arahan PM di Residensi Aman Madani mengenai sekolah dan tadika dalam projek perumahan mega
+- Kenyataan perkauman Marzuk Shaary (PAS) tentang penguasaan ekonomi bukan Bumiputera
+- Isu peruntukan pembangunan PAS vs ECRL dan pertikaian LRT Pulau Pinang
+- 'Berita Dunia: campur tangan PAS dalam pilihan raya Singapura dan reaksi kerajaan Singapura'
+- 'Berita Dunia: kecurian barang kemas di Muzium Louvre, Paris'
+- 'Berita Dunia: PM baru Jepun yang bersayap kanan dan anti-imigran'
+- 'Segmen Fuyo: teknologi rainbow chip dan sel kulit dijadikan telur untuk fertiliti'
+- 'Sesi soal jawab: prestasi Liverpool, kesan produk palsu/dumping China ke peniaga tempatan, cara membuat aduan salah laku penjawat awam, dan keberlanjutan reformasi pendidikan merentasi tukaran kerajaan'
 summary: Episod ke-19 Podcast Yang Berhenti Menteri bersama Rafizi Ramli dan moderator
   Haziq. Segmen Beria Mat menyorot kenyataan pegawai Menteri Pendidikan Fadhlina yang
   tertidur di tandas, hujah Najib Razak memulangkan wang suapan, isu influencer TikTok

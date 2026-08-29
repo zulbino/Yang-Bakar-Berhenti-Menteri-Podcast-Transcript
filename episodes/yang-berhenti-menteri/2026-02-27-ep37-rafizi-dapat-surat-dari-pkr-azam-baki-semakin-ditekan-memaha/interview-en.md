@@ -14,7 +14,21 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Test topic
+- 'Segmen Beria: kontroversi pengurusi BBC (Backbenchers Club) dan teguran kepada DAP'
+- Kenyataan Fuziah Salleh sebagai SU Agung DAP dan hubungan komponen kerajaan perpaduan
+- Isu Dr. Akmal Saleh dan tekanan letak jawatan exco Selangor
+- Kenyataan indeks kebahagiaan Terengganu dan kritikan terhadap PAS/PN mengenai kemiskinan
+- 'Standing Order: jawapan Kementerian Pendidikan tentang jam pembelajaran STEM dan KP2027'
+- Surat tunjuk sebab PKR terhadap Rafizi Ramli dan tafsiran keluar parti
+- 'Krisis dalaman PKR: pemilihan parti, tuduhan politik wang dan ketelusan pengundian'
+- Tekanan terhadap Tan Sri Azam Baki (Ketua SPRM) dan tuntutan penubuhan RCI
+- Perbandingan situasi Azam Baki dengan skandal 1MDB dan reaksi kerajaan
+- RUU Perlembagaan pemisahan kuasa Peguam Negara dan Pendakwa Raya serta peranan parlimen
+- Proses libat urus dan Blue Bill RUU Peguam Negara-Pendakwa Raya
+- 'Pergolakan Perikatan Nasional: pelantikan pengerusi baru dan perpecahan Bersatu'
+- Kemungkinan Muafakat Nasional dan kedudukan Dato' Seri Zahid Hamidi dalam UMNO
+- Hasil tinjauan mengenai sikap dan pandangan politik Gen Z dan Millennial Malaysia
+- Cabaran PH dan parti politik menarik sokongan pengundi Gen Z
 summary: Test
 language: en
 model: claude-sonnet-5

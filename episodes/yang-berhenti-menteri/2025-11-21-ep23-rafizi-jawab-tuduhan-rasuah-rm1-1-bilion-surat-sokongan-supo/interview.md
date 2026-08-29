@@ -13,19 +13,21 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- 'Beria segment: clickbait news and social media assumptions'
-- SPRM compound settlement scandal (Datuk Adam Radlan)
-- Politician photobombing at PASTI fire in Kemaman
-- Anti-Party Hopping Act criticism
-- PAS/Kedah taking credit for federal NCIA investment project
-- ARM semiconductor IP deal and cybertrooper accusations
-- Malaysia's semiconductor industry and 'Made by Malaysia' vision
-- US-Malaysia ART tariff agreement vs Cambodia deal
-- Judicial Appointments Commission controversy (Ahmad Terrirudin)
-- Misuse of government resources/agencies during election campaigns
-- Syamsul Iskandar support letter scandal
-- Underage workers in factories and TVET/education reform
-- Akademi Dalam Industri apprenticeship program
+- 'Segmen Beria: roundup viral mingguan (jenayah, politik, kebakaran PASTI Kemaman)'
+- Kompaun SPRM kepada Datuk Adam Radlan dan skandal Jana Wibawa
+- Projek Prinx Chengshan di Kedah Rubber City dan politik NCIA/Kerajaan Persekutuan
+- Perjanjian kerjasama ARM, IP semikonduktor dan strategi 'Made by Malaysia'
+- Fitnah cybertrooper PKR (ceplos) terhadap Rafizi berkaitan ARM dan James
+- 'Model insentif FDI: subsidi tunai vs pemindahan IP/teknologi'
+- Perjanjian Perdagangan Timbal Balik (ART) dengan Amerika Syarikat dan Artikel 5.1
+- Perbandingan ART Malaysia dengan perjanjian tarif Cambodia dan isu kedaulatan negara
+- Kesan ART terhadap nilai ringgit dan pasaran saham (Bursa Malaysia)
+- Kontroversi pelantikan Tan Sri Ahmad Terrirudin ke Suruhanjaya Pelantikan Kehakiman (JAC)
+- Salah guna sumber dan agensi kerajaan dalam kempen PRN Sabah
+- Isu surat 'dipanjangkan' Syamsul Iskandar dan tender terpilih kontraktor
+- Indeks Persepsi Rasuah (CPI) dan kredibiliti reformasi kerajaan Madani
+- Remaja bawah umur bekerja di kilang dan sistem pendidikan/TVET
+- Akademi Dalam Industri sebagai model apprenticeship dan mindset ibu bapa terhadap kerjaya
 summary: Episode 23 of the "Podcast Yang Bakar Menteri" featuring Rafizi Ramli with
   hosts Haziq and Farhan (Pa'an). The episode opens with the "Beria" segment mocking
   clickbait/assumption-based news stories, MPs who party-hop, politicians photobombing

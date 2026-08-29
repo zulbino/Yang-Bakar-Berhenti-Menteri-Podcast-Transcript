@@ -15,17 +15,25 @@ guests:
 - Syuk
 - Zaim Zulkifli
 topics:
-- Viral RM26 nasi ayam and pistachio catfish controversy
-- PR strategy around businessman Farhaj and Anwar Ibrahim
-- Bersatu's online candidate nomination call and Puad Zarkashi's criticism
-- PKR's Zaleha's speech gaffe over RM90 million allocation
-- Gen Z identity, social media culture, and generational differences
-- Work-life balance vs productivity and capitalism's growth-tax-transfer model
-- Youth political participation and criticism of tokenistic youth wings (Parlimen
-  Belia, Muda)
-- Bersama's strategy for fielding young candidates
-- 'Realignment of Malay politics: UMNO, PAS, Bersatu, PN'
-- Stability of the Madani government's parliamentary majority
+- Format baharu podcast YBM sempena episod ke-52 dan fokus kepada suara anak muda
+- 'Segmen Beria: nasi ayam RM26 dan branding harga premium'
+- 'Segmen Beria: ikan keli pistachio dan tren makanan viral'
+- 'Segmen Beria: NGO memuji ''Farhaj'' dan spekulasi agenda PR/politik'
+- Permohonan calon Parti Bersama secara online dan kritikan Puad Zarkashi
+- 'Sistem pemilihan calon politik: primary di US/UK berbanding budaya parti di Malaysia'
+- Salah kira RM90 juta oleh Zaleha Ahmad dan kepentingan kemahiran berceramah dalam PKR
+- Definisi dan ciri-ciri generasi Gen Z serta sejarah media sosial (Friendster, MySpace, Facebook)
+- Gen Z, budaya venting di media sosial dan tanggapan 'manja'
+- Perubahan masyarakat akibat digitalisasi berbanding revolusi industri
+- Isu work-life balance, job hopping dan produktiviti Gen Z di tempat kerja
+- Kritikan terhadap model ekonomi growth-tax-transfer dan social mobility Gen Z
+- 'Penyertaan politik anak muda: Parlimen Belia, sayap pemuda parti, dan tokenisme'
+- Kritikan terhadap parti Muda dan Syed Saddiq sebagai representasi anak muda
+- Cabaran parti politik meletak calon muda dan falsafah Bersama dalam pencalonan
+- 'Penjajaran semula politik Melayu: hubungan UMNO, PAS, Bersatu dan kestabilan kerajaan Madani'
+- Analisis scenario planning majoriti Parlimen dan leverage Anwar Ibrahim terhadap BN/GPS
+- Risiko perpecahan undi Melayu dan Cina menjelang PRU akan datang
+- Promosi jelajah Kancil Bersama di Ipoh, Perak dan pengumpulan dana
 summary: In episode 52 of the YBM Podcast, Rafizi Ramli hands hosting duties to Haziq,
   joined by two young guests, Syuk and Zaim Zulkifli (a UIA political science student),
   plus regular contributor Farhan 'Pa'an', for the weekly 'beria' (outrageous/audacious)

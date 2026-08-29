@@ -14,7 +14,23 @@ hosts:
 - Iqbal
 guests: []
 topics:
-- Malaysian politics
+- 'Segmen pembukaan santai: cuti tahun baru dan cerita peribadi hos'
+- 'Beria: KRT kalah pilihan di Sulawesi Indonesia mengambil balik sumbangan surau'
+- 'Beria: Kenyataan Azam Baki dan Apandi Ali mengenai kes derma 1MDB serta budaya ''cium tangan'' dalam politik'
+- 'Beria: UMNO Bahagian Puchong memutuskan kerjasama dengan PH tanpa meletak jawatan'
+- 'Krisis PAS Perlis: tuduhan Presiden PAS terhadap Istana Perlis dan respons Mufti Perlis'
+- Power distance index dan budaya hierarki/feudal dalam politik Malaysia
+- Kesan media sosial dan teknologi terhadap struktur organisasi parti politik tradisional
+- 'Beria: Majlis Besar Perlis dan ''kunjungan hormat'' Kelab Tarik Tali'
+- Sejarah pendedahan skandal SRC International dan 1MDB oleh Rafizi Ramli dan Tony Pua
+- Perbandingan magnitud kes SRC (RM4 bilion dana pencen) dengan kes Tanore/1MDB (RM2.6 bilion)
+- Keputusan mahkamah dan hukuman penjara Najib Razak berbanding jenayah 'white collar' vs 'blue collar'
+- Risiko penggabungan jawatan Menteri Kewangan dan Perdana Menteri serta reformasi sistem perolehan kerajaan
+- Cadangan Muafakat Nasional semula antara UMNO dan PAS
+- Peletakan jawatan Muhyiddin Yassin sebagai pengerusi Perikatan Nasional dan dinamik PAS-Bersatu
+- Sejarah lonjakan dan kejatuhan PAS (1999-2004) sebagai analogi kepada krisis PN semasa
+- Kemungkinan pilihan raya awal dan kerumitan data pengundi atas pagar Melayu
+- Reformasi Romania di bawah Ilie Bolojan dan perbandingan dengan Malaysia serta Argentina (Javier Milei)
 summary: Test summary short.
 language: en
 model: claude-sonnet-5

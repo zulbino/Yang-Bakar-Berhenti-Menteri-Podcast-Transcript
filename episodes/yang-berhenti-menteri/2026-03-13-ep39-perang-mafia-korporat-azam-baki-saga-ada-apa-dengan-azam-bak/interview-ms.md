@@ -15,21 +15,21 @@ hosts:
 - Iqbal
 guests: []
 topics:
-- DAP leaders and Islamic tazkirah controversy
-- Government 'gula-gula' cuti/holiday announcements as political optics
-- MP's false claim linking 1MDB to Klinik/Kedai Rakyat Satu Malaysia
-- 'Voter psychology: Malay, Chinese trust deficit and political sentiment'
-- Road rage/vigilantism against illegal parking
-- PM Anwar's warnings on Zionists, media elites, and teen extremism
-- 'Anthropic vs Pentagon: AI ethics and autonomous military decision-making'
-- Impact of Israel-Iran/Gulf war on Malaysia's economy, ringgit, Bursa, and fuel subsidies
-  (Budi95, ICPT/AFA)
-- 'NextG corporate power struggle: Farhaj, Victor Chin, Dato'' Ishak, Abu Hanifah'
-- Alleged abuse of AMLA/police powers to freeze shares and force resignations
-- Azam Baki undisclosed shareholdings and calls for a Royal Commission of Inquiry
-- UMNO's 'Rumah Bangsa' Malay unity initiative and PAS's Hadi Awang rebuttal
-- Malaysian political fragmentation and Anwar Ibrahim's weakening political position
-  ahead of the next general election
+- Kontroversi Ngah Koming dan penglibatan bukan Islam dalam tazkirah agama
+- Pengumuman cuti sekolah dan budaya gula-gula politik kerajaan
+- Kekeliruan MP mengenai 1MDB dan Klinik/Kedai Rakyat Satu Malaysia
+- Anugerah samseng bulan ini dan isu civic consciousness dalam parking
+- Siri amaran Anwar Ibrahim iaitu Zionis, media elit, dan ancaman anak muda
+- Pertikaian Anthropic vs Pentagon dan etika AI dalam peperangan
+- 'Perang Teluk Ketiga: kesan kepada ringgit, bursa Malaysia dan cash flow kerajaan'
+- Subsidi Budi95 sebagai stress test akibat kenaikan harga minyak dan mekanisme ICPT/AFA tarif elektrik
+- Cadangan work from home dan kesannya terhadap penggunaan RON95
+- 'Perang mafia korporat NextG: Farhaj, Victor Chin, Dato Ishak dan campur tangan Anwar Ibrahim'
+- Dakwaan penyalahgunaan SPRM, PDRM dan AMLA untuk membeku akaun dalam perebutan NextG
+- Isu pemilikan saham Tan Sri Azam Baki dan keperluan Suruhanjaya Diraja RCI
+- Sistem tender terhad dan konsesi kerajaan strategik seperti IC, pasport dan lesen memandu
+- Inisiatif Rumah Bangsa UMNO-PAS dan reaksi Hadi Awang
+- Kedudukan politik Anwar Ibrahim dan PH yang semakin lemah menjelang pilihan raya akan datang
 summary: 'In episode 39 of his podcast, Rafizi Ramli hosts Iqbal and Haziq for a wide-ranging
   discussion. Segments include "Beria Beria" covering DAP''s Ngeh/Ngoh Koming attending
   a Ramadan tazkirah, government "gula-gula" cuti announcements, an MP wrongly linking

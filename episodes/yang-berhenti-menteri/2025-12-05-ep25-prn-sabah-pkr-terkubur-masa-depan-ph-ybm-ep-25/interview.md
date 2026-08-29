@@ -14,22 +14,21 @@ guests:
 - Razeef Rakimin
 - Faizal Rahman
 topics:
-- Viral 'beria' incidents recap (B for Brother, fake bomb threat, Didi the Sabah celebrity,
-  Fuziah Salleh's 'cukup jumlah' gaffe)
-- Syamsul Anuar Nasarah–Albert Tay corruption scandal and prosecution dynamics
-- Criticism of MACC (SPRM) under Tan Sri Azam Baki and selective enforcement
-- Rafizi's personal experiences with arrest/detention and MACC targeting PKR members
-- PH/PKR's centralized decision-making and lack of internal party consultation
-- 2025 Sabah state election (DUN) results analysis and PKR's losses
-- Loss of Chinese voter support over tax policy, e-invoice and SST
-- Candidate selection failures ignoring KDM/ethnic representation and local autonomy
-  in Sabah
-- Sabah for Sabahan sentiment vs anti-corruption/competence narrative
-- Anwar Ibrahim's personal campaigning strategy and political risks
-- Implications for GE16 (PRU16) and PH's broader political crisis
-- Dr Akmal Saleh/UMNO dynamics within unity government
-- EV policy affordability and infrastructure in Malaysia
-- Promotion of Malaysian talent (e.g. Sofian) for tourism marketing
+- 'Segmen Beria: video ''B for Brother'', ugutan bom kononnya di lapangan terbang, dan selebriti viral Sabah ''Didi'''
+- Kenyataan 'cukup jumlah' YB Fuziah Salleh dan kritikan sebagai beria politik paling teruk musim ini
+- 'Skandal video Syamsul Iskandar dan Albert Tay: isu pendakwaan, bukti WhatsApp dan tunai, serta kredibiliti saksi'
+- Kontroversi lantikan berulang Tan Sri Azam Baki sebagai Ketua SPRM dan tuduhan 'weaponizing' SPRM terhadap lawan politik
+- Pengalaman peribadi Rafizi ditahan SPRM dan isu budi bicara pihak berkuasa terhadap ahli politik
+- Dinamik one-way communication dan kekurangan perbincangan kolektif dalam mesyuarat PKR/PH di bawah kepimpinan Anwar Ibrahim
+- 'Post-mortem kekalahan PRU DUN Sabah: sebab DAP ''knockout'' dan peralihan pengundi Cina kepada Warisan'
+- Kesan dasar cukai, SST dan e-invois Kementerian Kewangan terhadap peniaga kecil dan sederhana Cina
+- Naratif 'Sabah for Sabahan' berbanding ketidakpuasan hati pengundi terhadap prestasi Pakatan Harapan
+- 'Kritikan terhadap strategi kempen PKR di Sabah: kesilapan pemilihan calon mengikut etnik (KDM, Bugis, Banjar), isu bahan kempen dan campur tangan pusat'
+- Isu otonomi PKR Sabah dan campur tangan pimpinan pusat dalam rundingan kerusi dan pengurusan pilihan raya
+- Analisis kesan lemah rakaman video rasuah ADUN terhadap keputusan pengundi luar bandar berbanding bandar
+- Peristiwa pembentukan kerajaan Sabah selepas PRN dan pelantikan Ketua Menteri Haji Ji
+- Kesan kekalahan Sabah kepada PRU16 dan cadangan pemulihan (remedy) untuk PH termasuk kes Dr. Akmal Saleh dan UMNO
+- 'Soalan penonton: dasar kenderaan elektrik (EV) mampu milik dan penggunaan bakat tempatan seperti Sofian dalam promosi pelancongan Malaysia'
 summary: Episode 25 of "Siang Bersama Menteri" hosted by Rafizi Ramli, with regular
   co-host/moderator Haziq, and guests Faizal Rahman (a lawyer) and Razeef Rakimin
   (PKR branch chief from Tuaran, Sabah). The episode opens with a lighthearted "beria"

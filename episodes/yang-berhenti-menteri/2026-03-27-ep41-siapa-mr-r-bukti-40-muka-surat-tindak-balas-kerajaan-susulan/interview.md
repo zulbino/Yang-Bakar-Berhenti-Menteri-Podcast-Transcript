@@ -14,23 +14,21 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- PKR internal politics and 'corporate mafia' scandal
-- Fuziah Salleh's defamation lawsuit threat and legal precedent barring party lawsuits
-- PM Anwar Ibrahim's social media reposts of Ramanan
-- PKR Johor raya hamper distribution using government/ministry branding
-- Protection money extortion scandal linked to PKR Wangsa Maju
-- NextG/Datasonic corporate takeover saga involving Victor Chin, Tan Sri Khairul Adib,
-  Farhaj, Dato' Abu Hanifah
-- Alleged RM9.5 million payment to a PKR MP ('Mr. R' mystery, revealed as lawyer Ruben)
-- Leaked Global Settlement Agreement and alleged PMO/enforcement agency involvement
-- Call for a Royal Commission of Inquiry (RCI)
-- Rafizi's private meeting with Nurul Izzah and Saifuddin Nasution regarding Farhaj
-- Diesel subsidy exclusion/inclusion errors
-- Budi95 petrol subsidy sustainability amid Iran conflict and rising oil prices
-- Comparison with Norway's oil wealth fund model
-- Proposal for needs-based cash transfers via PADU and national social security system
-- Energy transition policy (EV, solar) in Malaysia vs China
-- Rebuttal of Lokman Adam's claim about recruiting Rafizi into PKR
+- Beraya dan gaya hidup keluarga Rafizi semasa Hari Raya
+- 'Beria: kenyataan saman Fuziah Salleh terhadap tuduhan mafia korporat PKR'
+- 'Beria: kotak raya rasmi Kementerian Sumber Manusia atas nama Ramanan dan penyalahgunaan sumber kerajaan'
+- 'Beria: budaya hamper menteri dan penyelewengan peruntukan rakyat untuk kepentingan parti'
+- 'Beria: kes ''pau'' duit raya oleh ahli majlis perwakilan PKR Wangsa Maju'
+- 'Latar belakang skandal mafia korporat: laporan Bloomberg dan pengambilalihan NextG (bekas Datasonic)'
+- Peranan Victor Chin sebagai corporate turnaround specialist dan pertelingkahan dengan kumpulan Farhaj
+- Dakwaan RM9.5 juta kepada ahli parlimen PKR dan spekulasi identiti Ramanan
+- Identiti dan peranan 'Mr. R' (Ruben) sebagai peguam dan proksi Farhaj
+- Global Settlement Agreement, Sky Limit, Trenthroof dan condition precedent melibatkan pejabat Perdana Menteri
+- Hubungan Datuk Seri Anwar Ibrahim dengan Victor Chin dan tekanan terhadap PKR/Saifuddin Nasution
+- Kenaikan harga diesel/RON95, subsidi bersasar Budi95 dan kececiran (exclusion error)
+- Krisis harga minyak dunia akibat perang Iran-Israel dan kesan fiskal kerajaan
+- Cadangan sistem bantuan berasaskan PADU dan peralihan tenaga (EV, solar) sebagai penyelesaian jangka panjang
+- Pembetulan dakwaan Lokman Nur Adam mengenai penyertaan Rafizi dalam PKR
 summary: 'Episode 41 of Rafizi Ramli''s "Yang Berhenti Menteri" podcast, recorded
   during Hari Raya. Rafizi and hosts Haziq and Farhan (Pa''an) discuss several "Beraya"
   (viral/controversial) moments in PKR: Fuziah Salleh''s threat to sue over "corporate

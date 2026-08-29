@@ -14,19 +14,20 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Weekly viral 'Beria' segment (Ultras Selangor flare incident, Kelantan concert raid,
-  Seremban restaurant hygiene, Dr Akmal resignation saga)
-- RM33.3 billion unrefunded tax overpayments and hidden fiscal deficit
-- Comparison of Malaysia's cash accounting to Singapore, Norway, Germany, Netherlands
-- Fiscal discipline, government debt, and pre-election populist spending risk
-- Proposed elected KL Mayor and DBKL accountability
-- Demographic shifts in Kuala Lumpur and racialized objections to mayoral elections
-- MACC/Azam Baki's focus on arrests versus corruption prevention
-- Procurement transparency, devolution of power, and political culture reform
-- RM520,000 classroom cost controversy and true cost of school construction
-- IBS prefab construction and developer-built school proposals
-- Anwar Ibrahim's political history and Malay voter distrust
-- PKR internal politics, succession planning, and party culture
+- 'Segmen Beria: Ultras Selangor bakar suar semasa perlawanan bola sepak'
+- 'Segmen Beria: Kelantan Tangkap Kelantan dan kontroversi konsert Makarfest'
+- 'Segmen Beria: isu kebersihan dan lesen typhoid pekerja kedai nasi kandar Seremban'
+- 'Segmen Beria: kekeliruan surat peletakan jawatan Dr Akmal sebagai exco Melaka'
+- Jawapan parlimen Menteri Kewangan Kedua mengenai RM33.3 bilion cukai terlebih bayar yang tidak dipulangkan
+- Defisit fiskal sebenar negara dan amalan cash accounting berbanding Singapura, Norway, Germany
+- Kebimbangan hutang negara, bayaran faedah tahunan dan risiko politik Santa Claus menjelang PRU akan datang
+- Kajian pilihan raya Datuk Bandar Kuala Lumpur (DBKL) dan isu perkauman/no taxation without representation
+- Perbandingan demografi penduduk Melayu-Cina di Kuala Lumpur dan hujah Takiyuddin PAS
+- 'Kritikan terhadap pendekatan SPRM dan Tan Sri Azam Baki: fokus ''cure'' (tangkapan) berbanding ''prevention'' (tata kelola dan perolehan)'
+- Isu kos pembinaan sekolah RM520,000 sebilik darjah berbanding sekolah Cina dan rumah teres, serta cadangan reformasi DE dan IBS
+- Kenyataan Rafizi bahawa Anwar Ramli 'obses' jadi Perdana Menteri dan sokongan pengundi Melayu kepada Anwar Ibrahim
+- Budaya politik dalam PKR, succession planning pasca pemilihan parti 2022 dan analogi Stalin-Trotsky
+- 'Penutup: pratonton data survei Gen Z dan kesan generasi terhadap PRU akan datang'
 summary: Episode 34 of Rafizi Ramli's "Podcast Yang Berhenti Menteri" with co-hosts
   Haziq and Farhan (Pa'an), with no external guest. The show opens with a light "Beria"
   segment covering viral/silly news items (Ultras Selangor "beria" flare-burning incident,

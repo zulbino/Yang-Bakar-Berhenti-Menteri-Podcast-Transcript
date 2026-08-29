@@ -14,16 +14,21 @@ hosts:
 guests:
 - Nik Nazmi
 topics:
-- Bersama party launch
-- PKR internal conflict and resignations
-- Political reactions ('menggelupur' segment)
-- Party membership demographics
-- Kancil logo and branding
-- Coalition politics and PH-BN-UMNO tensions
-- Upcoming state elections (Johor, Melaka, Negeri Sembilan)
-- PAS, UMNO, PN leadership challenges
-- Digital campaigning strategy
-- Reformasi history and personal political journeys
+- 'Segmen Beria: respon AMK, DAP (Anthony Loke vs Tony Pua), PAS, Cepros terhadap Bersama'
+- Kontroversi 'ballless chicken' Tony Pua dan perpecahan dalaman DAP
+- Reaksi Amiruddin Syahari dan PKR Selangor terhadap penubuhan Bersama
+- RUU Had Tempoh Perdana Menteri dan tuduhan sabotaj oleh ahli Bangi
+- Kisah di sebalik tabir penubuhan Parti Bersama (Malaysian United Party) dan pengambilalihan ROS
+- Pemilihan nama 'Bersama' dan reka bentuk logo kancil
+- Statistik keahlian Bersama mengikut kaum, umur dan latar belakang parti asal
+- Strategi jentera digital dan aplikasi Kancil untuk pengurusan ahli
+- Proses pemilihan dan penawaran calon pilihan raya Bersama
+- Sejarah reformasi, Sheraton Move dan hubungan Rafizi-Nik Nazmi dengan Anwar Ibrahim
+- Jangkaan jadual pilihan raya negeri Johor, Melaka dan Negeri Sembilan
+- Strategi 'all eggs in one basket' Anwar dengan UMNO dan retak hubungan PH-BN
+- Analisis kelemahan calon Perdana Menteri PH, BN (Zahid Hamidi) dan PN (Sam Suri)
+- Kempen Himpunan Setia Keadilan Pandan dan strategi Tengku Zafrul
+- Seruan sokongan dan sumbangan kepada Bersama (keahlian, dana, kempen digital)
 summary: 'Episode 49 of Yang Berhenti Menteri podcast, hosted by Rafizi Ramli and
   Nik Nazmi with Haziq moderating and Farhan (Pa''an) contributing. The episode opens
   with a "menggelupur" segment mocking reactions from AMK, DAP''s Anthony Loke and

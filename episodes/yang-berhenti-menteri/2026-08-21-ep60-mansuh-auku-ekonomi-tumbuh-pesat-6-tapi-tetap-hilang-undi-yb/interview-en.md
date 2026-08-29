@@ -14,19 +14,22 @@ hosts:
 guests:
 - Sum Dek Joe
 topics:
-- Saman defamation dan politik UMNO/PKR
-- RCI Tabung Haji
-- Reformasi gaji dan agenda 'second term' Anwar Ibrahim
-- Kontroversi bantuan makanan untuk pendaftaran ahli parti
-- Kepulangan bekas ahli PKR (Xavier Jayakumar)
-- Pencalonan awal PRN Melaka oleh parti Bersama
-- Pemansuhan AUKU dan reformasi pendidikan tinggi
-- Autonomi dan pembiayaan universiti awam
-- PTPTN dan model pinjaman pendidikan
-- Pertumbuhan GDP vs GNI Malaysia
-- Wage compression dan pasaran buruh
-- Pekerja asing dan levi berperingkat (multi-tier levy)
-- Dasar gaji progresif
+- 'Segmen Beria: saman-menyaman ahli politik UMNO dan Dr Ashraf Wajdi berkaitan RCI Tabung Haji'
+- Undang-undang fitnah/defamation dan pengalaman Rafizi menyaman Caprice
+- 'Beria: kenyataan Nurul Izzah mengenai reformasi gaji ditangguh ke ''second term'' Anwar'
+- 'Beria: kontroversi post Adun PAS Haji Kamarul dan isu admin media sosial ahli politik'
+- 'Beria: dakwaan bantuan kotak makanan PKR digunakan untuk mendaftar ahli parti di Kuantan'
+- 'Beria: kepulangan Xavier Jayakumar dan bekas ahli PKR selepas kes SPRM NFA - ''rumah bangsa'''
+- Pengumuman calon bayangan PRN Melaka oleh parti Bersama dan konsep pemilihan calon awal
+- 'Pemansuhan AUKU dan reformasi pendidikan tinggi: tadbir urus dan otonomi universiti'
+- 'Model pembiayaan universiti: geran asas, geran projek dan PTPTN'
+- Perbandingan model universiti Malaysia dengan Australia (ANU) dan Akta 605
+- Isu kualiti pendidikan tinggi, mismatch pasaran kerja dan cadangan regulator bebas
+- Pertumbuhan KDNK 6% suku kedua 2026 vs jurang GDP-GNI akibat repatriasi dividen syarikat asing
+- Compensation of Employee dan wage compression akibat kenaikan gaji minimum
+- Pergantungan pekerja asing dan Multi-Tier Levy Management berbanding dasar Singapura
+- Program Akademi Dalam Industri dan Kesuma/Kesom menggalakkan pekerja tempatan
+- Reformasi pasaran buruh dan dasar gaji progresif yang diperam kerajaan Madani
 summary: Episod ke-60 podcast "Yang Berhenti Menteri" bersama Rafizi Ramli, host Haziq,
   dan tetamu khas Sum Dek Jo (Joe), bekas pensyarah ANU dan penasihat makroekonomi.
   Episod bermula dengan pengenalan latar belakang Joe dan sebab beliau meletak jawatan

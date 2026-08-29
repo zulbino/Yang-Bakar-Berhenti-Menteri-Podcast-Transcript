@@ -13,23 +13,20 @@ hosts:
 - Haziq
 guests: []
 topics:
-- 'Beriya segment: RM1.1 billion ARM deal accusation against Rafizi and SPRM''s rapid
-  clearance'
-- Perkasa NGO's report against Rafizi
-- Nurul Izzah's Instagram story questioning Azam Baki/her father
-- Jamal Yunos's asset auction to repay Teresa Kok debt
-- Azam Baki share ownership scandal and paid-up capital vs preference shares dispute
-- Bloomberg investigative report on MACC (SPRM) integrity and 'corporate mafia'
-- 'Alleged corporate mafia figures: Victor Chin, Andy Lim, Tai Bun Wie, MSG Holdings,
-  Velocity Capital, Next GE/Datasonic'
-- Money laundering allegations linked to LHDN, Farhash Hashim, and MSG Holdings
-- Calls for independent SPRM oversight / placing MACC under Parliament
-- Pamela Ling disappearance case
-- Temple/house of worship demolition and legalization controversy
-- Proposal for Ramanan to resolve temple issue
-- Rafizi's personal history with Anwar Ibrahim and PKR, and reasons for estrangement
-- Anwar's 'Mak Lampir'/sulking remarks and Rafizi's rebuttal
-- Chinese New Year and Ramadan greetings, podcast scheduling changes
+- 'Segmen Beriya: dakwaan siasatan seleweng RM1.1 bilion terhadap Rafizi berkaitan projek Arm dan peranan NGO Perkasa'
+- Story Instagram Nurul Izzah mempersoal SPRM dan cadangan jawatankuasa bebas pantau SPRM
+- Lelongan barang peribadi Jamal Yunos untuk langsai hutang RM66,000 kepada Teresa Kok
+- Kontroversi pegangan saham Tan Sri Azam Baki yang melanggar had penjawat awam (Awan Biru, Velocity Capital)
+- Isu kelulusan pengecualian daripada KSN dan akauntabiliti Ketua Pesuruhjaya SPRM
+- Pendedahan eksklusif Bloomberg 'Who's watching Malaysia's Anti-Corruption watchdog?'
+- Modus operandi 'mafia korporat' (Victor Chin, Andy Lim) merampas syarikat awam dengan bantuan SPRM
+- Kaitan Victor Chin, MSG Holdings, dan Velocity Capital dengan bekas Setiausaha Politik Anwar, Farhash
+- Tuduhan penggubahan wang haram RM500 juta dan siasatan LHDN terhadap Victor Chin
+- Kes penculikan Pamela Ling dan tuduhan penyalahgunaan kuasa SPRM
+- Kontrak Tan Sri Azam Baki dan tuntutan siasatan bebas/Suruhanjaya Diraja
+- Isu rumah ibadat tanpa lesen (kuil Hindu) dan cadangan pemutihan status tanah
+- Perbandingan reaksi Rafizi dengan dakwaan 'merajuk', 'Mak Lampir' oleh Anwar Ibrahim
+- Sejarah hubungan Rafizi-Anwar sejak 2009 hingga peletakan jawatan daripada Kabinet dan PKR
 summary: 'Episode 35 of Rafizi Ramli''s podcast "Yang Berhenti Menteri", hosted with
   Haziq (co-host Farhan absent). The show opens with the "Beriya" segment mocking
   recent political news: an NGO (Perkasa) lodging a report against Rafizi over an

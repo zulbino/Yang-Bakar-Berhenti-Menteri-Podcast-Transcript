@@ -13,16 +13,19 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- SPRM/MACC investigation of Rafizi Ramli
-- ARM semiconductor deal RM1.1 billion
-- PKR internal politics and Nurul Izzah's 'good cop bad cop' strategy
-- UMNO Pemuda vs DAPSY youth wing rivalry
-- 1MDB/Najib legacy and UMNO's political challenges
-- RTM World Cup broadcasting rights and budget cuts
-- Leaked PKR seat-tier list for next general election
-- Anwar Ibrahim's potential parliamentary seat change
-- James Chai and MACC witness experience
-- Public civic consciousness and traffic safety near schools
+- 'Beria: taktik ''good cop bad cop'' Nurul Izzah dan Anwar berkaitan siasatan SPRM terhadap Rafizi'
+- 'Beria: pergaduhan Pemuda UMNO (Akmal) dengan DAPSY di Negeri Sembilan'
+- 'Beria: kesedaran sivik dan langgar lampu merah di kawasan sekolah'
+- 'Beria: sumpah laknat Najib dan reaksi penyokong UMNO terhadap siasatan Rafizi'
+- 'Minister of the Week: pemotongan peruntukan KKM berbanding hak penyiaran Piala Dunia FIFA di RTM oleh Fahmi Fadzil'
+- 'Beria: kenyataan kontroversi ''tebuk atap'' Jaludin dalam krisis politik Negeri Sembilan'
+- Pengalaman Rafizi disoal siasat SPRM selama empat hari dan prosedur Seksyen 23 Akta SPRM
+- Kronologi penuh perjanjian ARM-kerajaan Malaysia bernilai RM1.1 bilion dan pertikaian Kementerian Ekonomi vs MITI/Tengku Zafrul
+- Tuduhan bermotif politik oleh Perkasa dan Sekretariat Kempur berhubung siasatan ARM
+- Kebocoran senarai tier kerusi DUN/Parlimen PKR dan persoalan kerusi Parlimen akan datang Anwar Ibrahim
+- Strategi dan sejarah kejayaan PH memenangi PRU 2018 dan PRU 2022 berbanding cabaran PRU akan datang
+- Isu dalaman DAP dan sokongan pengundi bukan Melayu selepas kekalahan di Sabah
+- Sokongan kepada James Chai yang turut disiasat SPRM dan galakan supaya beliau bertanding pilihan raya
 summary: Episode 47 of Rafizi Ramli's podcast covers the weekly "Beria" segment (Nurul
   Izzah's "good cop/bad cop" statement on SPRM probe, UMNO/DAPSY youth wing rivalry,
   viral traffic-light school incident, Najib supporters' curses toward Rafizi, Minister

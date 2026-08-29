@@ -13,16 +13,22 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- JSSEZ (Johor-Singapore Special Economic Zone) - sejarah dan penubuhan
-- Kritikan terhadap AMK/PKR berkaitan kredit JSSEZ
-- Kontroversi Danish Hairuddin dan Tengku Zafrul
-- Pembubaran DUN Johor dan Negeri Sembilan
-- Analisis pengundi PRN Johor dan Negeri Sembilan (Melayu, Cina, India)
-- Isu adat dan takhta Negeri Sembilan
-- Parti Bersama dan strategi penyertaan PRN
-- Isu kehilangan orang di Kuching (SAR)
-- Ekonomi Johor dan pelaburan asing
-- Politik Malaysia-Singapura dan potensi common market ASEAN
+- Penjagaan suara dan stamina semasa berkempen pilihan raya
+- 'Beria: lelaki hilang tertidur tepi mesin basuh di Kuching dan isu SAR'
+- 'Beria: kenyataan berubah-ubah AMK dan Danish Hairuddin serta budaya ghostwriter dalam PKR'
+- Sejarah dan pembangunan JSSEZ (Johor-Singapore Special Economic Zone) dari zaman Tun Abdullah Badawi
+- Perundingan JSSEZ, penentangan MITI dan MOF, serta penglibatan bank asing dalam pelaburan
+- Perebutan kredit JSSEZ antara PH dan BN dalam PRN Johor
+- Wawasan common market dan custom union Asia Tenggara masa depan
+- 'Beria: Tengku Zafrul menyokong pasukan bola yang salah semasa perlawanan akhir'
+- 'Beria: dakwaan fitnah dana RM8.5 juta dan penggunaan data PADU untuk keahlian parti Bersama'
+- Pembubaran DUN Johor dan DUN Negeri Sembilan serta reaksi Anwar Ibrahim
+- Demografi dan faktor penentu undi di Johor (pengundi bukan Melayu, turnout rate)
+- Isu istana dan adat di Negeri Sembilan berkaitan Tok Min dan tahta Yang Dipertuan
+- Faktor ekonomi (SST, e-invois) yang mempengaruhi undi pengundi Cina dan Melayu
+- Penyertaan parti Bersama dalam PRN Johor dan Negeri Sembilan serta strategi jangka panjang
+- Penjajaran semula undi Melayu, Gen Z dan milenial dalam politik Malaysia
+- Jelajah Kaunter Bersama Rakyat dan pengumuman jadual kempen akan datang
 summary: Episod 51 podcast 'Pulau Pandan Jauh Ke Tengah' bersama Rafizi Ramli. Segmen
   'Beria' membincangkan pelbagai isu semasa termasuk kes hilang seorang lelaki di
   Kuching, kenyataan Angkatan Muda Keadilan (AMK) yang dilabel 'Angkatan Muda Kepeningan'

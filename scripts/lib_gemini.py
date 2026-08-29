@@ -217,6 +217,14 @@ META_PROMPT_TEMPLATE = """Read the following full newspaper-style interview tran
 
 Rafizi Ramli is always the host/owner of this show, even in episodes where other speakers ask him most of the questions. Always include "Rafizi Ramli" in "hosts". Put any other named speakers (co-hosts, interviewers, journalists, analysts) in "guests" -- unless the episode is explicitly framed as Rafizi interviewing an external guest on a specific topic, in which case that person is the "guest" and any other regular co-host stays in "hosts".
 
+TOPICS. These episodes run two to three hours and move through many distinct subjects, so the list must cover the WHOLE episode, not just its opening. Work through the transcript start to finish and give one entry for each subject that gets sustained discussion -- typically 8 to 15 entries. Requirements:
+
+- Name the SUBJECT, not the speaker. A guest's name is not a topic; they are already recorded in "guests". Write "Gen Z identity and generational politics", never "Zaim Zulkifli".
+- Name the specific thing being discussed, using the words the episode itself uses: an organisation, policy, scheme, company, place, law or named controversy. Write "Pemansuhan AUKU dan reformasi pendidikan tinggi", "KWAP investment in e-Fishery and due diligence failures", "Krisis pelarian Rohingya di Malaysia" -- not "education policy", "an investment issue" or "a refugee discussion".
+- The episode's MAIN theme must be present. The title is a strong clue to what it is; if the title names something, a topic entry must cover it.
+- Keep each entry to one line, and keep the language of the discussion (Malay episodes get Malay entries).
+- Cover the recurring segments too when they carry real content, including the weekly "Beria" viral roundup, guest interviews and the closing questions.
+
 Transcript:
 ---
 {clean_text}

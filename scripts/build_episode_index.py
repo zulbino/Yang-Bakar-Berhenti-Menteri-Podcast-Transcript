@@ -22,10 +22,7 @@ within each: the current show before the 2024 one it was renamed from. Owner's c
 """
 import glob
 import re
-import sys
 from pathlib import Path
-
-sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 NL = chr(10)
 ROOT = Path(__file__).resolve().parent.parent
@@ -44,49 +41,22 @@ README_TEXT = {
         "Newest first, with direct links to all four transcript files. `raw` is the "
         "close-to-verbatim transcript, `mixed` keeps the original code-switched English and "
         "Bahasa Melayu, and `EN` / `MS` are the full translations. The Guests column lists "
-        "guests only, never the cast. Topics lists the terms most distinctive to each "
-        "episode &mdash; [TOPICS.md](TOPICS.md) has each episode's full subject list, "
-        "and indexes every subject the other way round, by which episodes discuss it.",
-        "| Ep | Date | Title | Length | Hosts | Guests | Topics | Transcripts |",
+        "guests only, never the cast.",
+        "| Ep | Date | Title | Length | Hosts | Guests | Transcripts |",
     ),
     "README.ms.md": (
         "## Semua episod",
         "Terbaharu dahulu, dengan pautan terus ke kesemua empat fail transkrip. `raw` ialah "
         "transkrip hampir kata-demi-kata, `mixed` mengekalkan campuran Bahasa Inggeris dan "
         "Bahasa Melayu yang asal, dan `EN` / `MS` ialah terjemahan penuh. Kolum Tetamu "
-        "menyenaraikan tetamu sahaja, bukan pengacara. Kolum Topik menyenaraikan istilah "
-        "yang paling khusus kepada setiap episod &mdash; [TOPICS.md](TOPICS.md) ada "
-        "senarai subjek penuh setiap episod, dan mengindeks setiap subjek secara "
-        "terbalik, mengikut episod mana yang membincangkannya.",
-        "| Ep | Tarikh | Tajuk | Tempoh | Pengacara | Tetamu | Topik | Transkrip |",
+        "menyenaraikan tetamu sahaja, bukan pengacara.",
+        "| Ep | Tarikh | Tajuk | Tempoh | Pengacara | Tetamu | Transkrip |",
     ),
 }
 FIELD_RE = {k: re.compile(rf"^{k}:\s*(.*)$", re.M)
             for k in ("title", "youtube_url", "publish_date", "duration")}
 LIST_RE = {key: re.compile(rf"^{key}:\s*(\[\]|\n(?:- .*\n)*)", re.M)
-           for key in ("hosts", "guests", "topics")}
-# How many of an episode's topics go in the table. Episodes carry around ten and some
-# fourteen; all of them make the row unreadable, while the first few are enough to say what
-# the episode is and enough for a search engine to match on. The full list is in TOPICS.md
-# and in each episode's own frontmatter.
-TOPICS_IN_TABLE = 5
-# Distinctive terms per episode, ranked by TF-IDF in build_topic_index.py. NOT the
-# `topics:` sentences: those are accurate but long ("Reformasi gaji dan agenda 'second
-# term' Anwar Ibrahim"), and three of them filled the row while still missing the headline
-# subject, because the list is not ordered by importance -- ep60 has "Pemansuhan AUKU"
-# seventh of thirteen while AUKU is in its title. Short terms also match how anyone
-# actually searches.
-KEYWORDS = {}
-
-
-def load_keywords():
-    global KEYWORDS
-    if KEYWORDS:
-        return
-    from build_topic_index import episodes, collect, episode_keywords
-    eps = episodes()
-    acro, phrase = collect(eps)
-    KEYWORDS = episode_keywords(eps, acro, phrase)
+           for key in ("hosts", "guests")}
 
 
 def cell(text):
@@ -109,7 +79,6 @@ def read_fields(path):
 
 def episode_rows(series_dir):
     rows = []
-    load_keywords()
     for d in glob.glob(str(ROOT / "episodes" / series_dir / "*")):
         d = Path(d)
         interview = d / "interview.md"
@@ -132,8 +101,7 @@ def episode_rows(series_dir):
             f"| {number} | {fields['publish_date']} | "
             f"[{cell(fields['title'])}]({fields['youtube_url']}) | "
             f"{fields['duration']} | {cell(', '.join(fields['hosts']))} | "
-            f"{cell(', '.join(fields['guests']))} | "
-            f"{cell(', '.join(KEYWORDS.get(d.name, [])[:TOPICS_IN_TABLE]))} | {links} |"))
+            f"{cell(', '.join(fields['guests']))} | {links} |"))
     rows.sort(reverse=True)  # newest first
     return [r[2] for r in rows]
 
@@ -151,7 +119,7 @@ def inject_into_readme(filename):
         note = (blurb_ms if malay else blurb_en).format(n=len(rows))
         blocks.append(
             "### " + series_heading + NL * 2 + note + NL * 2
-            + columns + NL + "|---|---|---|---|---|---|---|---|" + NL
+            + columns + NL + "|---|---|---|---|---|---|---|" + NL
             + NL.join(rows))
     section = (BEGIN + NL * 2 + heading + NL * 2 + blurb + NL * 2
                + (NL * 2).join(blocks) + NL * 2 + END)

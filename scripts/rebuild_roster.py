@@ -24,7 +24,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
-from common import episode_slug, episode_path, read_frontmatter_body, frontmatter_md
+from common import episode_slug, episode_path, read_frontmatter_body, set_frontmatter_list
 
 NL = chr(10)
 WRITE = "--write" in sys.argv
@@ -208,11 +208,14 @@ for ep in man:
     if WRITE:
         for name in ["interview.md", "interview-en.md", "interview-ms.md"]:
             p = d / name
-            fm, b = read_frontmatter_body(p)
-            fm["hosts"], fm["guests"] = hosts, guests
-            heading = "# " + ("Interview" if name == "interview.md" else "Interview")
-            first = p.read_text(encoding="utf-8").split("---", 2)[2].lstrip(NL).split(NL, 1)[0]
-            p.write_text(frontmatter_md(fm, first + NL * 2 + b), encoding="utf-8")
+            # Surgical, via set_frontmatter_list. This used to round-trip through
+            # read_frontmatter_body + frontmatter_md, which drops the body's "# Interview"
+            # heading, and re-prepend the body's first line to put it back. That worked
+            # only while the first line WAS the heading; the helper leaves the body alone
+            # instead. gate_topics.py learned the same lesson the expensive way, deleting
+            # the heading from 147 files.
+            set_frontmatter_list(p, "hosts", hosts)
+            set_frontmatter_list(p, "guests", guests)
 
 print(f"episodes changed: {len(changes)}   already correct: {unchanged}" + NL)
 for slug, oh, og, nh, ng in changes:

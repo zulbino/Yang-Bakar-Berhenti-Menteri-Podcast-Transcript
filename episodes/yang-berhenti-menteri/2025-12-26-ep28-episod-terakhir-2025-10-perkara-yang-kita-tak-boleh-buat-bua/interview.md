@@ -15,25 +15,21 @@ hosts:
 - Iqbal
 guests: []
 topics:
-- Perlis MB resignation and Bersatu-PAS conflict
-- Ong Kian Ming's remarks on Najib/Muhyiddin/Guan Eng reconciliation
-- PKR leaders' reactions to Najib 1MDB addendum court decision
-- Fahmi Fadzil's comments on ministerial communication
-- Malaysia's macroeconomic performance vs cost of living and K-curve inequality
-- China's regional governance model vs Malaysia's economic complexity
-- PRN Sabah election results and PH's poor performance
-- Malaysia-US Reciprocal Trade Agreement (ART) fallout
-- School bullying and violence in educational institutions (Zara Qairina case)
-- Education Minister Fadhlina's leadership and reform vision
-- PKR party election controversy and Rafizi Ramli's resignation
-- Anwar Ibrahim's leadership style and control of PKR
-- Unresolved violent incidents and perceptions of a two-tier justice system
-- Institutional independence concerns (MACC chief Azam Baki contract extensions)
-- Albert Tay/Syamsul Iskandar corruption scandal
-- PN/Bersatu internal turmoil and Muhyiddin-Hadi Awang rivalry
-- FAM footballer naturalization controversy
-- 2025 year-in-review top 10 issues
-- Reflections on political struggle, hope, and generational change
+- Peletakan jawatan Menteri Besar Perlis dan pergeseran Bersatu-PAS
+- Kenyataan Ong Kian Ming pasal Najib, Muhyiddin dan reset politik
+- Kontroversi addendum kes 1MDB Najib Razak dan reaksi cyber troopers PKR
+- Nasihat Fahmi Fadzil tentang komunikasi kementerian dan kerangka komunikasi kerajaan lama
+- 'Prestasi ekonomi Malaysia 2025: KDNK, inflasi dan fenomena K-curve'
+- Reformasi subsidi (Budi95, SST) dan isu gaji struktur ekonomi
+- 'PRN Sabah: kekalahan teruk PH/DAP dan strategi GRS-BN-PH'
+- Perjanjian Timbal Balik Perdagangan (ART) Malaysia-AS dan kesan politiknya kepada Anwar Ibrahim
+- Keganasan di institusi pendidikan dan kepimpinan Menteri Pendidikan Fadlina
+- Pemilihan PKR 2025 dan krisis kepercayaan/perpecahan dalaman parti
+- Siri serangan dan penculikan tanpa penyelesaian (Pamela Ling, Harish, anak Rafizi) dan persepsi 'dua darjat'
+- 'Kebebasan institusi: sambungan kontrak Azam Baki dan SPRM'
+- Skandal Albert Tay/Sam Ling dan perbandingan dengan krisis Kajang Move 2014
+- Kekacauan dalaman Bersatu-PAS-PN dan kesannya kepada UMNO
+- Isu naturalisasi pemain bola sepak FAM dan persepsi ketidakadilan dua darjat
 summary: 'This special Christmas/year-end episode (episod 28) of Rafizi Ramli''s podcast
   features hosts Haziq, Farhan (Pa''an) and Iqbal engaging Rafizi in a wide-ranging
   year-in-review discussion. They open with banter about recording early for Christmas

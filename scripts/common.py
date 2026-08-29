@@ -64,12 +64,57 @@ def human_duration(seconds):
 
 
 def frontmatter_md(fields, body):
-    yaml_text = yaml.dump(fields, allow_unicode=True, sort_keys=False, default_flow_style=False)
+    # `width` is not cosmetic. yaml.dump defaults to wrapping at 80 characters with a
+    # two-space continuation, which is valid YAML but breaks every frontmatter reader in
+    # this repo -- they parse with regexes assuming one line per list item, so a wrapped
+    # entry is silently truncated and the ones after it disappear. 24 episodes shipped that
+    # way before this was found: ep11's twelve topics read as three, and a coverage report
+    # built on those regexes said the mean was 49% when it was 78%.
+    yaml_text = yaml.dump(fields, allow_unicode=True, sort_keys=False,
+                          default_flow_style=False, width=10 ** 6)
     return f"---\n{yaml_text}---\n\n{body}\n"
 
 
+def set_frontmatter_list(path, key, values):
+    """Replace one frontmatter LIST in place, leaving the body byte-for-byte untouched.
+
+    USE THIS INSTEAD OF read_frontmatter_body() + frontmatter_md() TO EDIT A FIELD. That
+    pair is asymmetric and loses content: the creators in transcribe_episode.py prepend
+    "# Interview\\n\\n" to the body they pass in, `read_frontmatter_body` strips that
+    heading back off, and `frontmatter_md` does not restore it -- so a read-modify-write
+    silently deletes it. 49 episodes x 3 published files lost their H1 that way in one run
+    before anyone noticed, and the corpus went from 68 files carrying a heading to 19.
+
+    Writing one field surgically also means a malformed or unusual value elsewhere in the
+    frontmatter cannot be reformatted as a side effect of an unrelated edit.
+    """
+    text = path.read_text(encoding="utf-8")
+    head, fm, body = text.split("---", 2)
+    if not values:
+        rendered = f"{key}: []\n"
+    else:
+        rendered = f"{key}:\n" + "".join(
+            yaml.dump([v], allow_unicode=True, default_flow_style=False,
+                      width=10 ** 6).rstrip("\n") + "\n" for v in values)
+    # The key's line plus its items, including any wrapped continuation lines.
+    pattern = re.compile(rf"^{key}:(?:[ ]*\[\][ ]*)?\n?(?:[ ]*-[ ].*\n|[ ]{{2,}}\S.*\n)*",
+                         re.M)
+    if not pattern.search(fm):
+        raise ValueError(f"{path}: no '{key}:' block to replace")
+    new_fm = pattern.sub(rendered, fm, count=1)
+    rebuilt = head + "---" + new_fm + "---" + body
+    assert rebuilt.split("---", 2)[2] == body, f"{path}: body changed"
+    path.write_text(rebuilt, encoding="utf-8")
+
+
 def read_frontmatter_body(path):
-    """Split a frontmatter_md()-written file into (fields, body), dropping the leading '# Heading' line."""
+    """Split a frontmatter_md()-written file into (fields, body), dropping the leading '# Heading' line.
+
+    NOT SYMMETRIC WITH frontmatter_md(). The heading this drops is not written back, so
+    `frontmatter_md(*read_frontmatter_body(p))` loses it. To edit a field, use
+    `set_frontmatter_list` above; this is for READING, or for callers that rebuild the
+    body and re-add their own heading (retime_blocks.py, dedupe_raw.py do).
+    """
     text = path.read_text(encoding="utf-8")
     _, yaml_text, body = text.split("---", 2)
     fields = yaml.safe_load(yaml_text)

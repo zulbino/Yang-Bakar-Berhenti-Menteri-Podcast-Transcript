@@ -13,18 +13,20 @@ hosts:
 guests:
 - Daniel Jani
 topics:
-- YouTube/social media monetization and influencer culture
-- Farhash Wafa Salvahuddin controversy and cronyism allegations in PKR
-- PKR internal politics and post-election party dynamics
-- Politics of power vs. grassroots strength in PKR
-- Anwar Ibrahim's decision to contest in Tambun
-- Risk of PKR losing safe seats and declining Malay support
-- Petros vs Petronas dispute and Sarawak oil/gas revenue sharing
-- MA63 and Sabah/Sarawak-Semenanjung integration gap
-- Ayuh Malaysia social enterprise initiative
-- Rural development and social enterprise potential in Sarawak
-- Rebuttal to accusations of egotism against Rafizi Ramli
-- Preview of upcoming RMK13 special episode
+- Pengalaman monetize YouTube dan TikTok bagi pempengaruh politik
+- Pengumuman sesi khusus RMK13 bersama Dr. Muhammed Abdul Khalid
+- Kontroversi Farhash Wafa dan tuduhan kronisme dalam PKR
+- Budaya 'menunggang' dan berselindung di sebalik Anwar Ibrahim dalam politik PKR
+- Manipulasi pemilihan parti PKR dan kesannya kepada anggota akar umbi
+- Risiko Anwar Ibrahim dan Nurul Izzah kalah tanding pada PRU akan datang
+- Strategi penentuan calon dan kerusi selamat PKR untuk pilihan raya akan datang
+- Perbandingan taktik ofensif-defensif PKR berbanding PAS/Perikatan Nasional
+- Isu Petros vs Petronas dan tuntutan hak Sarawak ke atas hasil minyak dan gas
+- Akta Pelantar Benua 2012 dan pertikaian sempadan maritim Sarawak
+- Jurang pemahaman Semenanjung-Sabah Sarawak dan silibus sejarah MA63
+- Inisiatif perusahaan sosial Ayuh Malaysia dan potensi di kawasan pedalaman Sabah Sarawak
+- Cabaran logistik dan tanah adat dalam membangunkan pertanian di Sarawak
+- Tuduhan Rafizi Ramli bersikap ego dan sombong dalam PKR
 summary: In this episode of Rafizi Ramli's podcast, host Haziq and guest Daniel Jani
   (a Sarawak-based social media influencer and PKR branch chief for Mas Gading) engage
   Rafizi in a wide-ranging discussion. Topics include Daniel's rise as a political

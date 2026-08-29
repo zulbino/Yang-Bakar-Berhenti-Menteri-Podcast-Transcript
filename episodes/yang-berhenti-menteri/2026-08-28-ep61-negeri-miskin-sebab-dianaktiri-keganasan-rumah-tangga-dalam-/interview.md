@@ -14,23 +14,21 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- Overclaimed hydrogen therapy/nebulizer health products
-- Zohran Mamdani viral comparison and Malaysian local government inefficiency
-- Walanon Army merchandise
-- UUM lecturer's biased political commentary on Azmin Ali vs Rafizi
-- Anwar-Azmin dispute over PKR election coordination
-- PAS/Takiuddin rhetoric on Tabung Haji RCI and Baitul Maqdis analogy
-- Cancellation of Bersama's Lembah Pantai open day event
-- Rafizi's MBSB Bank contest win and subsequent ban
-- 'Malaysia''s Federal Constitution: distribution of legislative, executive and financial
-  powers'
-- Federal vs state list (Ninth Schedule) and land/mineral rights under state jurisdiction
-- History of Malayan Federation formation (Reid Commission, economies of scale)
-- Fiscal federalism, revenue sharing proposals, and outcome-based grants
-- Comparison with China's competitive provincial governance model
-- Prosecutions of Ismail Sabri, Saravanan, Irwan Serigar and Tabung Haji's Aziz
-- Political domestic violence framing of Anwar's actions against UMNO/BN
-- Upcoming Melaka state election dynamics between PH, UMNO, PAS and PN
+- 'Beria: produk overclaim hydrogen therapy/nebulizer'
+- 'Beria: fenomena Zohran Mamdani dan perbandingan dengan sistem PBT Malaysia'
+- 'Beria: merchandise ''Walanon'' dan sokongan siber Pakatan Harapan'
+- 'Beria: komen kontroversial pensyarah kanan UUM mengenai Anwar dan Azmin'
+- 'Beria: kenyataan PAS ''Tabung Haji ibarat Baitul Maqdis'' dan RCI Tabung Haji'
+- 'Beria: pembatalan acara ''Bersama'' di Lembah Pantai'
+- 'Beria: penyertaan dan kontroversi Rafizi dalam kontest MBSB Bank'
+- Model Persekutuan Malaysia dan sejarah pembentukan Persekutuan Tanah Melayu/Suruhanjaya Reid
+- 'Agihan kuasa perundangan dan eksekutif: Senarai Persekutuan, Senarai Negeri, Senarai Bersama (Jadual Kesembilan)'
+- Pertikaian Sanusi Kedah vs Anwar Ibrahim mengenai peruntukan dan naratif 'penganaktirian' negeri PAS
+- Jurang pembangunan ekonomi antara negeri dan risiko migrasi serta keadilan fiskal
+- Cadangan fiscal devolution dan perkongsian hasil cukai berasaskan outcome kepada kerajaan negeri
+- Perbandingan model persekutuan China dan pergantungan kerajaan negeri Malaysia kepada kerajaan persekutuan (contoh air, sisa pepejal, JSSEZ)
+- Siri dakwaan rasuah terhadap pemimpin UMNO/BN (Ismail Sabri, Saravanan, Irwan Serigar) sebagai 'keganasan rumah tangga politik'
+- Implikasi politik kepada Anwar Ibrahim, UMNO-BN, dan PRN Melaka akan datang
 summary: 'Episode 61 of Rafizi Ramli''s podcast "Yang Berhenti Menteri" with co-host
   Haziq. The show opens with light banter about Rafizi''s jacket and busy Merdeka-period
   campaign schedule, then moves into the "Beria" (viral/controversial) segment covering:
