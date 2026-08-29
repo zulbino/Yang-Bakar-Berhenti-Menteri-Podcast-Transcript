@@ -1,0 +1,266 @@
+{
+ "_README": [
+  "Attribution regions found by scripts/audit_block_attribution.py and then",
+  "CHECKED ON VIDEO frame by frame. Apply with:",
+  "",
+  "    python scripts/apply_split_map.py data/speaker_video_confirmed.json",
+  "    python scripts/apply_split_map.py data/speaker_video_confirmed.json --write",
+  "",
+  "THIS IS NOT data/speaker_adjudications.json AND MUST NOT BE MERGED INTO IT.",
+  "That file holds what the owner decided by ear. These regions were derived by a",
+  "tool and then confirmed against the camera, which is strong evidence of a",
+  "different kind. Keeping them apart is what lets a later reader tell which",
+  "claims rest on the owner's ear and which rest on a frame.",
+  "",
+  "WHY THE CAMERA IS EVIDENCE HERE. The show cuts to whoever is talking. That is",
+  "unreliable for rapid exchange, because the cut lags speech by about 2 seconds",
+  "and not by a fixed amount, and a two-shot proves nothing. Every region below is",
+  "at least 15 seconds of continuous speech under one label, which is exactly the",
+  "case where the camera has settled and the frame is decisive.",
+  "",
+  "WHAT IS NOT CLAIMED. The sensing score on the owner's 18-turn gold passage moved",
+  "between 72% and 83% under a change that should have been neutral, so per-turn",
+  "accuracy on SHORT turns is not established. These regions are not short turns,",
+  "and their spans and directions were stable across that same change -- which is",
+  "why they were worth checking on video and short turns were not."
+ ],
+ "_frames": "frames_ep61-berhenti.png, frames_ep61_audit.png",
+ "_source_audit": "data/_audit_ep61_postfix.json",
+ "ep61_video_confirmed": {
+  "2:00:54": {
+   "split": [
+    [
+     "Rafizi",
+     "kita perkuatkan model persekutuan yang ada sekarang inilah.",
+     "2:00:54"
+    ],
+    [
+     "Haziq",
+     "bidang kuasa, Macam mana nak make it reality",
+     "2:13:16"
+    ],
+    [
+     "Rafizi",
+     null,
+     "2:14:30"
+    ]
+   ]
+  },
+  "1:16:38": {
+   "split": [
+    [
+     "Rafizi",
+     "kan Aku pun dah lost lah Hmm Kita...",
+     "1:16:38"
+    ],
+    [
+     "Haziq",
+     null,
+     "1:17:47"
+    ]
+   ]
+  },
+  "2:19:05": {
+   "split": [
+    [
+     "Rafizi",
+     "yang sepatutnya berlaku lah. Okay. Okay, bye YB.",
+     "2:19:04"
+    ],
+    [
+     "Haziq",
+     null,
+     "2:20:02"
+    ]
+   ]
+  },
+  "1:54:25": {
+   "split": [
+    [
+     "Rafizi",
+     "future? I don't think it is. Kerana akhirnya",
+     "1:54:27"
+    ],
+    [
+     "Haziq",
+     null,
+     "1:55:23"
+    ]
+   ]
+  },
+  "1:50:45": {
+   "split": [
+    [
+     "Rafizi",
+     "will stun the overall growth of the country.",
+     "1:50:45"
+    ],
+    [
+     "Haziq",
+     "Boleh kita kata macam itu? Tak, tak, tak.",
+     "1:53:44"
+    ],
+    [
+     "Rafizi",
+     null,
+     "1:54:26"
+    ]
+   ]
+  },
+  "2:29:42": {
+   "split": [
+    [
+     "Rafizi",
+     "Sabri contohnya kan kes itu telah melalui mahkamah",
+     "2:29:40"
+    ],
+    [
+     "Haziq",
+     null,
+     "2:30:25"
+    ]
+   ]
+  },
+  "2:27:44": {
+   "split": [
+    [
+     "Rafizi",
+     "hari. Bergaduh, macam-macam, perasaan Melaka ini diam.",
+     "2:27:43"
+    ],
+    [
+     "Haziq",
+     null,
+     "2:28:20"
+    ]
+   ]
+  },
+  "2:42:49": {
+   "split": [
+    [
+     "Rafizi",
+     "tahun. Mana nak rayu semua lagi kan. So",
+     "2:42:48"
+    ],
+    [
+     "Haziq",
+     null,
+     "2:43:21"
+    ]
+   ]
+  },
+  "2:30:31": {
+   "split": [
+    [
+     "Rafizi",
+     "tangga ni akan berterusan lagi selepas inilah. Tuh...",
+     "2:30:31"
+    ],
+    [
+     "Haziq",
+     "ramai-ramai sekarang lah memang tegas lah Wah",
+     "2:33:04"
+    ],
+    [
+     "Rafizi",
+     null,
+     "2:33:36"
+    ]
+   ]
+  },
+  "2:20:28": {
+   "split": [
+    [
+     "Rafizi",
+     "tangga mereka kan. Jadi insyaAllah kot saya selamat.",
+     "2:20:28"
+    ],
+    [
+     "Haziq",
+     "cuba dibuat oleh Datuk Seri Anwar sebenarnya YB?",
+     "2:21:57"
+    ],
+    [
+     "Rafizi",
+     null,
+     "2:22:26"
+    ]
+   ]
+  },
+  "1:17:56": {
+   "split": [
+    [
+     "Haziq",
+     "meneruskan kehidupan kita di negara Malaysia ini. So,",
+     "1:17:54"
+    ],
+    [
+     "Rafizi",
+     null,
+     "1:18:19"
+    ]
+   ]
+  },
+  "1:10:32": {
+   "split": [
+    [
+     "Haziq",
+     "ordinal di Sabah atau Sarawak yang ni lah",
+     "1:10:30"
+    ],
+    [
+     "Rafizi",
+     null,
+     "1:10:54"
+    ]
+   ]
+  },
+  "1:09:50": {
+   "split": [
+    [
+     "Rafizi",
+     "Artikel 80 dan ke artikel 81",
+     "1:09:50"
+    ],
+    [
+     "Haziq",
+     null,
+     "1:10:15"
+    ]
+   ]
+  },
+  "1:23:24": {
+   "split": [
+    [
+     "Rafizi",
+     "balik dengan kau. Apa kena-mengena dengan sanusinya?",
+     "1:23:24"
+    ],
+    [
+     "Haziq",
+     "Adakah saya gunakan secara efficient Something macam tu",
+     "1:25:10"
+    ],
+    [
+     "Rafizi",
+     null,
+     "1:25:36"
+    ]
+   ]
+  },
+  "59:56": {
+   "split": [
+    [
+     "Rafizi",
+     "kan. Dia cerita pasal kerajaan lah,",
+     "59:55"
+    ],
+    [
+     "Haziq",
+     null,
+     "1:00:19"
+    ]
+   ]
+  }
+ }
+}

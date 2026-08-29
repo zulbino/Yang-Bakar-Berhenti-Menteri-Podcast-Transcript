@@ -23,7 +23,13 @@ narrative, not vocative, so it is not safe to touch.
 import re, sys
 from pathlib import Path
 
-GARBLES = ["baby", "WB", "obi", "ovi", "oibi", "ubi", "waibi", "abby", "abie", "bibi", "yobi", "bobby"]
+# "wabi" is back in this list. It was cleared corpus-wide in b2a8fe1 (318 occurrences),
+# but ep61's raw.md was regenerated from local ASR AFTER that pass, so the garble returned
+# there and nowhere else -- a corpus scan finds all 13 remaining "wabi" inside ep61. The
+# lesson generalises past this variant: a text fix applied corpus-wide does not survive a
+# later re-transcription of one episode, so re-run this after any raw.md regeneration.
+GARBLES = ["baby", "WB", "obi", "ovi", "oibi", "ubi", "waibi", "abby", "abie", "bibi",
+           "yobi", "bobby", "wabi"]
 
 # Anchored spans that must survive untouched. Checked before any substitution runs.
 KEEP = [
@@ -58,8 +64,18 @@ def fix(text):
 
 def main():
     write = "--write" in sys.argv
+    # An episode tag scopes the run. The owner works one episode at a time, and a
+    # corpus-wide --write while a single episode is under review would put changes in
+    # files nobody is looking at.
+    tags = [a for a in sys.argv[1:] if not a.startswith("--")]
+    paths = sorted(Path("episodes").glob("*/*/*.md"))
+    if tags:
+        paths = [p for p in paths if any(f"-{t}-" in p.parent.name for t in tags)]
+        if not paths:
+            raise SystemExit(f"no episode files matched {tags}")
+        print(f"scoped to {tags}: {len(paths)} files")
     total, touched = 0, 0
-    for path in sorted(Path("episodes").glob("*/*/*.md")):
+    for path in paths:
         text = path.read_text(encoding="utf-8")
         new, n = fix(text)
         if not n:
@@ -69,8 +85,7 @@ def main():
         print(f"  {n:>4}  {path.parent.name[:52]:<54} {path.name}")
         if write:
             path.write_text(new, encoding="utf-8")
-    kept = sum(len(KEEPER.findall(p.read_text(encoding="utf-8")))
-               for p in Path("episodes").glob("*/*/*.md"))
+    kept = sum(len(KEEPER.findall(p.read_text(encoding="utf-8"))) for p in paths)
     print(f"\n{total} substitutions across {touched} files; {kept} protected spans left intact")
     print("dry run -- pass --write to apply" if not write else "written")
 
