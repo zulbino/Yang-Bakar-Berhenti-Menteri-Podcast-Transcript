@@ -11,6 +11,7 @@ view_count: 102736
 hosts:
 - Rafizi
 guests:
+- Nazri
 - Prof. Emeritus Dr. Barjoyai Bardai
 topics:
 - Libertarian economy vs social protection

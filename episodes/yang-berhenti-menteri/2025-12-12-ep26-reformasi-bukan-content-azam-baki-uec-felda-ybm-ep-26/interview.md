@@ -197,7 +197,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Farhan (Pa'an):** tak, tak. I think kita boleh pakai opportunity ini untuk mengatakan kepada orang ramai, kalau nampak sign, almaran ke apa-apa, kita jangan remove sukati. Another piece. Beria letak lah.
 
-**Rafizi:** Maksudnya dia makin. Sebab Fuzia punya last
+**Rafizi:** Maksudnya dia makin. Sebab Fuziah punya last
 
 **Haziq:** week dah terlampau bagus. Kita tak tahu nak letak apa minggu ni. Ni tak. Bukan salah kita salah. Salah minggu lepas punya pemenang sepanjang hayat. So sekarang
 

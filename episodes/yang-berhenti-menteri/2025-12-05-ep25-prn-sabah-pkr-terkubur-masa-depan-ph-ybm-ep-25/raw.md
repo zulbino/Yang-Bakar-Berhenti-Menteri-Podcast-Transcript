@@ -138,7 +138,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [15:30] Faizal Rahman: tu jadi maknanya isu otonomi ni sebelum PRN
 
-[15:35] Rafizi: keputusan PRN tu membayangkannya itu jugalah kemudian ditambah satu lagi gol besar oleh gol sendiri oleh Fuzia dan cara dia cakap tu memang dia cakap cukup
+[15:35] Rafizi: keputusan PRN tu membayangkannya itu jugalah kemudian ditambah satu lagi gol besar oleh gol sendiri oleh Fuziah dan cara dia cakap tu memang dia cakap cukup
 
 [15:46] Faizal Rahman: jumlah kan maksudnya dia seorang je yakin yang lain kiri kanan tu dah munyung
 
@@ -394,7 +394,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [1:32:33] Rafizi: Tapi pengundi memahatikan kerazif?
 
-[1:32:37] Razeef Rakimin: Mereka tengok. Mereka sentiasa mengikuti apa yang berlaku dalam PKR, perbalahan dan sebagainya. Beberapa bulan sebelum pilihan raya pun sebenarnya Memang nampak sudah masalah Bila kepimpinan ni buat keputusan Ikut suka diorang Ini isu otonomi lah Otonomi sebab Itu yang saya dulu waktu jadi ketua penerangan, saya selalu tekankan... Ini geng-geng mantan sebenarnya. Saya selalu tekankan beratunomi. Sebab kita mahu untuk kerundingan kerusi, kita lebih tahu di mana kita boleh menang. Lepas itu siapa calon yang sesuai. Sebab kita tahu kita belajar dari pengalaman yang cukup panjang. Bila pusat takeover sejak, habis semua ke laut. Jadi waktu itu... Kenapa sebab ada parachute? Campur tangan. Campur tangan. mulanya kita tengok, ok sudah, bila kita sudah berkali-kali bersuara bab autonomi, ialah saya di media pun berperan dengan Fuzia berapa kali, dan Alhamdulillah waktu lawatan ke parlimen itu, dapatlah 6 minit juga saya bercakap panjang tentang autonomi, pentingnya autonomi, kenapa kita perlu buat keputusan sendiri, sebab itu
+[1:32:37] Razeef Rakimin: Mereka tengok. Mereka sentiasa mengikuti apa yang berlaku dalam PKR, perbalahan dan sebagainya. Beberapa bulan sebelum pilihan raya pun sebenarnya Memang nampak sudah masalah Bila kepimpinan ni buat keputusan Ikut suka diorang Ini isu otonomi lah Otonomi sebab Itu yang saya dulu waktu jadi ketua penerangan, saya selalu tekankan... Ini geng-geng mantan sebenarnya. Saya selalu tekankan beratunomi. Sebab kita mahu untuk kerundingan kerusi, kita lebih tahu di mana kita boleh menang. Lepas itu siapa calon yang sesuai. Sebab kita tahu kita belajar dari pengalaman yang cukup panjang. Bila pusat takeover sejak, habis semua ke laut. Jadi waktu itu... Kenapa sebab ada parachute? Campur tangan. Campur tangan. mulanya kita tengok, ok sudah, bila kita sudah berkali-kali bersuara bab autonomi, ialah saya di media pun berperan dengan Fuziah berapa kali, dan Alhamdulillah waktu lawatan ke parlimen itu, dapatlah 6 minit juga saya bercakap panjang tentang autonomi, pentingnya autonomi, kenapa kita perlu buat keputusan sendiri, sebab itu
 
 [1:33:46] Rafizi: jadi
 

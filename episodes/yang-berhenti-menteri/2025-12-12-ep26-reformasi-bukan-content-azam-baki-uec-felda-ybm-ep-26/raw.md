@@ -78,7 +78,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [05:15] Speaker 1: payah buat TikTok lah malam ni.
 
-[05:22] Speaker 1: Hm... Beria... nak komen ni, saya selalunya kurang... kurang selesalah kalau
+[05:22] Rafizi: Hm... Beria... nak komen ni, saya selalunya kurang... kurang selesalah kalau
 
 [05:32] Rafizi: cara macam ini kan? Mhm. Sebab satu ialah dalam budaya kitalah, dalam Islam kan, tangan yang memberi tu kalau tangan kanan bagi, tangan kiri pun tak tahu. Itu satu. Kemudian bila dia dah jadi sampai content media semua ni kan, kita tak boleh baca niat oranglah. Tapi membudayakan macam lambaian tangan dapat RM100, dia membudayakan yalah, perkara feudal dalam dalam masyarakat kitalah kan. Maksudnya orang yang kaya, orang di atas. Tak kenal pun dia kaya sebab apa, ke apa kan? Tapi membudayakan orang kaya ni bagi, bagi, bagi semua kan. Kalau ikut saya, hmm... macam majlis biasa perayaan kan, Raya ke, bagi angpao... Bagi angpao semua tu saya kurang selesa sangat kan. Tapi dah jadi budaya kita tak apalah. Okey. Paling kurang kalau macam majlis perayaan tu, kita yalah ada ada perspektif lainlah. Ini untuk budak-budak kan, untuk orang gembira semua. Tapi kalau kalau semua orang lebih baik kalau dia tahu orang yang betul-betul susah dan senyap-senyap pergi tolong kot. Ha tapi yalah, ini macam beria buat content lah kot.
 
@@ -90,7 +90,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [07:16] Farhan (Pa'an): Lepas aku.
 
-[07:17] Speaker 1: Lepas zaman akulah. Aku tak kenal. Tak kenal.
+[07:17] Rafizi: Lepas zaman akulah. Aku tak kenal. Tak kenal.
 
 [07:21] Farhan (Pa'an): Kalau kalau kita tukar dia dengan contoh selebritilah, yang selalu orang nampak adalah macam Isa Isarb? Isa Isarb kan selalu bagi duit...
 
@@ -116,7 +116,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [08:59] Haziq: Oh, ni antidote kepada yang lain-lainlah.
 
-[09:04] Speaker 1: Ni antidote kepada 'cukup jumlah' minggu lepaslah. Yang ini kan orang... yalah, jarang kita tengoklah kan? Dia
+[09:04] Rafizi: Ni antidote kepada 'cukup jumlah' minggu lepaslah. Yang ini kan orang... yalah, jarang kita tengoklah kan? Dia
 
 [09:16] Rafizi: sebab tak ada kena-mengena kan? Dia sebenarnya kan? Dia motor dia pun tak tahu kat mana. Tapi bagusnyalah, pergi tolong... Sebab selalunya dia dia longkang tersumbat ni, dia sebenarnya sampah kat atas tu sikit je. Kan? Dia... jadi kalau semua orang beria macam ni tak apa. Bagus. Bagus. Baik, baik, baik. Okey beria jugalah.
 
@@ -240,7 +240,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [21:14] Haziq: rasa-rasanya...
 
-[21:16] Speaker 1: Hm. So, insya-Allah orang tu lama-lama jenis macam tu akan pupuslah
+[21:16] Rafizi: Hm. So, insya-Allah orang tu lama-lama jenis macam tu akan pupuslah
 
 [21:23] Rafizi: lepas ni kot.
 
@@ -256,7 +256,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [21:54] Haziq: ada suruh, "Eh, janganlah letak sini. Sana, sana, sana." Oh,
 
-[21:57] Speaker 1: oh, mhm. Kiasu betullah makcik ni. Okey. Okey, yang ini macam susah, ni mengelirukan. Mengelirukan. Beria yang mengelirukan. Kat kami yang beria. Korang yang beria sebenarnya. Aku rasa
+[21:57] Rafizi: oh, mhm. Kiasu betullah makcik ni. Okey. Okey, yang ini macam susah, ni mengelirukan. Mengelirukan. Beria yang mengelirukan. Kat kami yang beria. Korang yang beria sebenarnya. Aku rasa
 
 [22:13] Rafizi: kau orang dah tak ada idea, kau orang nak suruh aku komen apa beria ni, kereta ni pandai parking, ha. Kereta pandai
 
@@ -298,7 +298,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [28:30] Farhan (Pa'an): beria letak lah.
 
-[28:30] Rafizi: Maksudnya dia makin. Sebab Fuzia
+[28:30] Rafizi: Maksudnya dia makin. Sebab Fuziah
 
 [28:34] Rafizi: punya last
 
@@ -306,7 +306,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [28:35] Haziq: bagus. Kita tak tahu nak letak apa minggu ni. Ni tak. Bukan salah kita salah. Salah minggu lepas punya pemenang sepanjang hayat. So sekarang
 
-[28:41] Speaker 1: dia dia yang content content masuk ke beria ni macam. Susah nak. Susah dah nak susah nak menepati konsep beria kan.
+[28:41] Rafizi: dia dia yang content content masuk ke beria ni macam. Susah nak. Susah dah nak susah nak menepati konsep beria kan.
 
 [28:53] Haziq: Okey baik YB jom kita cepat-cepat ke segmen lain. Okey.
 
@@ -466,7 +466,9 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:24:02] Farhan (Pa'an): Oh.
 
-[2:24:04] Speaker 1: Kita lupa. Kita lupa. Memang ... teruk aku kan this ... week.
+[2:24:04] Farhan (Pa'an): Kita lupa. Kita lupa.
+
+[2:24:04] Rafizi: Memang ... teruk aku kan this ... week.
 
 [2:24:09] Farhan (Pa'an): Saya baru teringat tadi sebab teringat pas.
 
@@ -476,9 +478,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:26:10] Haziq: Okay, baik. YB. Clear YB, okay. Satu jam. Eh, dua jam, 20 minit. Hmm. Aku rasa tak beria Okay baik YB
 
-[2:26:21] Rafizi: Itu sahaja Saya minta maaf Kepada penonton-penonton Kerana production team Minggu ini Nampaknya memang tak beria Susah nak talk Fuzia lah. Tapi sebenarnya ada satu. Itu adalah alasan Ceplos. Kan aku dah cakap, kalau kita ada persaingan,
+[2:26:21] Rafizi: Itu sahaja Saya minta maaf Kepada penonton-penonton Kerana production team Minggu ini Nampaknya memang tak beria Susah nak talk Fuziah lah. Tapi sebenarnya ada satu. Itu adalah alasan Ceplos. Kan aku dah cakap, kalau kita ada persaingan,
 
-[2:26:43] Speaker 1: we should strive better. Kena cari lagi. Point finger kepada Fuzia. Sebab ada Fuzia sebagai beria terulung ni.
+[2:26:43] Rafizi: we should strive better.
+
+[2:26:43] Haziq: Kena cari lagi.
+
+[2:26:43] Rafizi: Point finger kepada Fuziah. Sebab ada Fuziah sebagai beria terulung ni.
 
 [2:26:54] Haziq: Susah yang lain nak cari makan.
 

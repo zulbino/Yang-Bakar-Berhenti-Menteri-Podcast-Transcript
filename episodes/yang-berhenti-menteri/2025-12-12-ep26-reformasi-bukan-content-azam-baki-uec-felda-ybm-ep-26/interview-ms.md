@@ -195,7 +195,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Farhan (Pa'an):** tak, tak. I think kita boleh pakai peluang ini untuk mengatakan kepada orang ramai, kalau nampak papan tanda, almari ke apa-apa, kita jangan alihkan sesuka hati. Satu lagi. Beria letak lah.
 
-**Rafizi:** Maksudnya dia makin. Sebab Fuzia punya minggu
+**Rafizi:** Maksudnya dia makin. Sebab Fuziah punya minggu
 
 **Haziq:** lepas dah terlampau bagus. Kita tak tahu nak letak apa minggu ni. Ni tak. Bukan salah kita, salah minggu lepas punya pemenang sepanjang hayat. So sekarang
 
