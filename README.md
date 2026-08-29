@@ -10,7 +10,7 @@ The transcripts are checked against two other sources. The first is each episode
 
 This archive covers full episodes of an hour or more. It leaves out short teasers, clip highlights, quote-card snippets, and the shorter-format episodes in the same playlist.
 
-> An AI model produced these transcripts and rewrites. I spot-checked them against the source recordings, but I have not checked any episode line by line. Please read the [accuracy note](#accuracy-note) before you cite anything here.
+> An AI model produced these transcripts and rewrites. I spot-checked them against the source recordings, but I have not checked any episode line by line. Please read the [accuracy note](#accuracy-note) before you cite anything here. [METHODOLOGY.md](METHODOLOGY.md) sets out what produced each file, the errors I have found and measured, and how to report one.
 
 For the pipeline itself, see [ARCHITECTURE.md](ARCHITECTURE.md). For every failure I hit while building it, see [ENGINEERING_LOG.md](ENGINEERING_LOG.md).
 
