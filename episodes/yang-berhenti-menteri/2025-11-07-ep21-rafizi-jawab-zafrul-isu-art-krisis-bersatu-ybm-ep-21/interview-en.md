@@ -391,7 +391,7 @@ So I asked for it to be reviewed. It was so difficult. Because we didn't have a 
 
 **Haziq:** Yes, yesterday in parliament. Answering Wan Fayhsal's question.
 
-**Dr. Rais Hussin:** Yes, because if you compare... as I said earlier, 3, 4, 7, 8.2 million, 4.2%, 85% is financial assistance. And then you look at the BRICS countries — they are at 45-47% in terms of GDP, in global terms, in terms of population more than 4.2 million.
+**Dr. Rais Hussin:** Yes, because if you compare... as I said earlier, 3, 4, 7, 8.2 billion, 4.2%, 85% is financial assistance. And then you look at the BRICS countries — they are at 45-47% in terms of GDP, in global terms, in terms of population more than 4.2 million.
 
 **Rafizi:** That part I saw. That part I didn't — I didn't know. This is the answer to Wan Fayhsal's question, about the effect on BRICS. Hmm, okay, okay.
 
