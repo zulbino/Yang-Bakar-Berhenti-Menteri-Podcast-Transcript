@@ -2499,6 +2499,34 @@ chunk invites omission -- did not survive its own control.** It is content-speci
 2.2's 0.13-0.51 spread was measured on ep45's opening, and ep03's hardest chunk is simply
 not that content.
 
+**The bake-off, on the other cluster, with a control.** ep03's chunk was a weak test of the
+label rule: it had three real names and no generic labels to begin with. So the same
+harness was pointed at ep10, whose published file prints `Host` **396** times against a raw
+that names Iqbal, Chak Onn Lau and Rafizi. Densest 20,000-char window: 154 turns, 19.2%
+Malay. Four runs, `claude-sonnet-5` at `--effort low`, 1.5 minutes each:
+
+| prompt | chars | turns | malay | labels |
+|---|---|---|---|---|
+| OLD r1 | 98% | **154/154** | 96% | expands `Rafizi` -> `Rafizi Ramli` |
+| OLD r2 | 98% | **154/154** | 97% | expands `Rafizi` -> `Rafizi Ramli` |
+| NEW r1 | 96% | **154/154** | 99% | exact |
+| NEW r2 | 96% | **154/154** | 100% | exact |
+
+**Neither prompt produces a single `Host`.** So ep10's 396 of them are stale too, and the
+same conclusion now holds on both clusters: the 26 remaining flags are old output, not
+current behaviour, and the backlog is a batch job rather than a research problem. The new
+prompt is worth keeping on a smaller claim than the one I made for it -- 3-4 points more
+Malay retained, and it stops the `Rafizi Ramli` expansion that
+`normalize_speaker_labels.py` exists to undo -- but it fixes nothing that is currently
+broken.
+
+Method note, since `scripts/_rewrite_bakeoff.py` is a probe and stays untracked under the
+`scripts/_*.py` convention: score TURN COUNT, not length. Length is the number that reads
+like completeness and is the easiest to satisfy while dropping content -- a model can reach
+100% of the character count by padding one turn and dropping ten. Turn count is the only
+score that sees omission directly, and it is what separated "the pipeline condenses" from
+"this file is old".
+
 A second hypothesis died the same way. Since ep03's bad `interview.md` carried no `model:`
 line, legacy-era output looked like it might be identifiable by that absence -- but only 1
 of 68 episodes has the field at all, so it separates nothing.
