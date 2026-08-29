@@ -275,7 +275,7 @@ Dan itu juga yang kembali kepada persoalan Tan Sri Azam Baki. Sebab kalau kita k
 
 Bolehlah kita marah dia — kita, PKR, atau pakatan — boleh saja mengambil sikap sedemikian, tak ada masalah pun. Tapi kalahlah pilihan raya, sebab rakyat kata, "kami dulu pilih kamu sebab kami ingat kamu lain, tapi kalau kamu sama sahaja, tak apalah, kami pun pilih je lah mana-mana yang ada ini." Haa.
 
-**Haziq:** Bagi bagi, jelas sangat. Kita ke segmen yang seterusnya, hal dunia — tapi hal dunia kali ni banyaklah berkaitan dengan konflik Gaza dan juga Israel. Mungkin kita mula yang pertama, pelan Gaza Trump — mungkin saya tanya terus terang lah, adakah boleh diterima untuk membawa perkara ini kepada kebaikan?
+**Haziq:** Bagi bagi, jelas sangat. Kita ke segmen yang seterusnya, hal dunia — tapi hal dunia kali ni banyaklah berkaitan dengan konflik Gaza dan juga Israel. Mungkin kita mula yang pertama, pelan Gaza Trump — mungkin saya tanya terus terang lah, adakah boleh diterima demi kebaikan yang lebih besar?
 
 **Rafizi:** Itu soalan yang saya rasa, tanya kepada sesiapa pun kecuali Donald Trump dan Benjamin Netanyahu dan juga beberapa orang, majoriti penduduk dunia tidak boleh menerimanya lah.
 

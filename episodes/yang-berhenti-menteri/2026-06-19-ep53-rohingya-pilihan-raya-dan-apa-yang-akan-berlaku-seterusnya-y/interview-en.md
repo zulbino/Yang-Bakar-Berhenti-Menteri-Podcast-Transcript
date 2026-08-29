@@ -213,7 +213,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Okay, and to complicate things further, they have 200,000. If you compare that with the population of Perlis state, roughly 200,000.
 
-**Rafizi:** No, sir. Oh, I understand — Myanmar refugees. Oh, Myanmar refugees are around RM212,000 [sic — should be a population figure, not currency]. But Rohingya, because Myanmar refugees aren't all Rohingya — there's Rohingya, there are those who are actually ethnic Myanmar, ethnic Chinese. Rohingya refugees number around 130,000 — more than 120,000, 130,000. 130,000.
+**Rafizi:** No, sir. Oh, I understand — Myanmar refugees. Oh, Myanmar refugees are around 212,000. But Rohingya, because Myanmar refugees aren't all Rohingya — there's Rohingya, there are those who are actually ethnic Myanmar, ethnic Chinese. Rohingya refugees number around 130,000 — more than 120,000, 130,000. 130,000.
 
 **Haziq:** Okay, and if we look at the origins — um, uh — we want to know maybe why they came here. Of course, for a better living. But I think people wonder why it's so pronounced in Malaysia but not elsewhere. There could be many reasons, people have touched on this before. Among them is human trafficking, but there are also syndicates that bring them here, or they can simply enter here. Some people have made this a political issue to gain support, and now we can see the effects. So it's quite difficult, YB, because there are many unintended consequences.
 
