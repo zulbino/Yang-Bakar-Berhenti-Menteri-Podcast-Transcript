@@ -178,6 +178,42 @@ CORRECTIONS = [
      "Salleh, of Amanah's national leadership council. TWO L's for this man and ONE for "
      "Akmal Saleh, 185 times, in the same corpus -- which is why this is a two-word "
      "pattern like the Fuziah surname fix and not a `Saleh` sweep."),
+    # Puchong, the Selangor town, in the ep29 UMNO-division story and once in ep45.
+    # Owner-confirmed 2026-08-30. The established spelling is already dominant here, 36
+    # correct against these 20, and ep29's raw spells it BOTH ways inside one passage:
+    # `Aku tak ingat kali terakhir UMNO menang di Puchong. Tahun bila? 2004 kot. 2003
+    # sebab Puchon...` -- so this is one ASR being inconsistent, not two referents.
+    # Capital P in every replacement, including for the lowercase garble: it is a place
+    # name wherever it sits in the sentence.
+    (r"Pucung(?![A-Za-z])", "Puchong",
+     "ep29 raw + published x14, ep45 raw x1: 'memutuskan hubungan dengan PH di Pucung', "
+     "'UMNO bahagian Pucung'."),
+    (r"Pucong(?![A-Za-z])", "Puchong",
+     "ep29's three published files x1 each plus raw: 'UMNO Pucong punya Azam...'. A "
+     "second garble of the same name in the same episode."),
+    (r"pucung(?![A-Za-z])", "Puchong",
+     "ep29 raw x1, mid-sentence: 'Pasal berianya UMNO bahagian pucung ni'. Listed "
+     "separately because a capitalised pattern has twice reported a clean run while the "
+     "lowercase instance survived (`cephlos`, `ultracel`)."),
+    # ep61's jacket exchange. Rafizi is reaching for the garment's name and the ASR wrote
+    # the sound: `Is it bomber ke bomber? Boma. Boma. Boma jaket.` Owner-confirmed
+    # 2026-08-30 -- the word is `bomber jacket`.
+    #
+    # THE REPETITION STAYS. raw carries three `Boma` and the published files two; a
+    # speaker hunting for a word is what the passage is ABOUT, so only the spelling moves
+    # (see the standing rule against collapsing repeated real words).
+    #
+    # Both cases are listed separately and each carries a lookahead, because `bomber`
+    # appears 14 times in the corpus as ordinary English -- `suicide bomber`, `Unabomber`,
+    # and ep51's unrelated `Bomber terus buat sar` -- and none of those may move. A
+    # case-insensitive sweep is also wrong here: sentence-initial `Boma.` and mid-sentence
+    # `pakai boma jaket` need different capitals.
+    (r"Boma(?![A-Za-z])", "Bomber",
+     "ep61 x3 in raw, x2 in each published file: 'Is it bomber ke bomber? Boma. Boma "
+     "jaket.'"),
+    (r"boma(?![A-Za-z])", "bomber",
+     "ep61 x1 in each published file, mid-sentence: 'sebab aku pakai boma jaket ni'. "
+     "Zero occurrences of either case anywhere outside ep61."),
     (r"Abid Abdullah(?![A-Za-z])", "Abied Abdullah",
      "ep60 x1 in each of the four files, immediately after Ismail Salleh. A social-media "
      "account owner, reported as Habin Faisal Mohamed. The lookahead is load-bearing "

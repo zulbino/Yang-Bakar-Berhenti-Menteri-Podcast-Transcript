@@ -70,15 +70,15 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Haziq:** Assalamualaikum dan salam sejahtera, Podcast Yang Berhenti Menteri, episod ke-61. Macam biasa bersama saudara Rafizi Ramli. Demam ke weh dia pakai kod ni? Tak ada sebab kod ni? Dia panggil apa ni, windbreaker?
 
-**Rafizi:** This is not windbreaker, this is fail lah saya. Is it bomber ke bomber? Boma. Boma jaket. Taklah, aku selalu dapat baju-baju dan merchandise percuma. Oh, percuma. Cuma yang ini aku tak faham, dia punya product market fit dengan cuaca Malaysia. Nampak style lah tapi, yelah, tapi panas nak mampus. Jadi bila dia bagi aku nak pakai, masa mana? Masa ceramah atas tu, panas berpeluh-peluh. Masa day one pun tetap panas. So pakai waktu podcast lah, selalunya aircon sejuk lah. Malam ni tak sejuk sangat, nanti diorang sejuk kan, nanti kena sejukkan sikit lah sebab aku pakai boma jacket ni. Okay.
+**Rafizi:** This is not windbreaker, this is fail lah saya. Is it bomber ke bomber? Bomber. Bomber jaket. Taklah, aku selalu dapat baju-baju dan merchandise percuma. Oh, percuma. Cuma yang ini aku tak faham, dia punya product market fit dengan cuaca Malaysia. Nampak style lah tapi, yelah, tapi panas nak mampus. Jadi bila dia bagi aku nak pakai, masa mana? Masa ceramah atas tu, panas berpeluh-peluh. Masa day one pun tetap panas. So pakai waktu podcast lah, selalunya aircon sejuk lah. Malam ni tak sejuk sangat, nanti diorang sejuk kan, nanti kena sejukkan sikit lah sebab aku pakai bomber jacket ni. Okay.
 
 **Haziq:** Okay baik baby. Cuti panjang, OBI buat apa cuti? Haa, yelah, saja je nak bagitahu orang. Hari... hari...
 
 **Rafizi:** Jum... haa apa ni? Hari Sabtu esok ni hari Sabtu di Melaka, keduri, kemudian ceramah.
 
-**Speaker ?:** Kemudian hari Ahad di mana? Di Pucung.
+**Speaker ?:** Kemudian hari Ahad di mana? Di Puchong.
 
-**Haziq:** Ahad di Pucung, betul-betul Pucung lah, HQ kita punya. Itu untuk Sepang lah semua. Yes lah.
+**Haziq:** Ahad di Puchong, betul-betul Puchong lah, HQ kita punya. Itu untuk Sepang lah semua. Yes lah.
 
 **Speaker ?:** Lepas tu bukan hari... cuti 31st Ogos itu pun ada dalam jadual.
 

@@ -68,15 +68,15 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Assalamualaikum dan salam sejahtera, Podcast Yang Berhenti Menteri, episod ke-61. Macam biasa bersama saudara Rafizi Ramli. Demam ke weh dia pakai jaket ni? Tak ada sebab jaket ni? Dia panggil apa ni, windbreaker?
 
-**Rafizi:** Ini bukan windbreaker, ini fail saya. Ini bomber ke bomber? Boma. Boma jaket. Taklah, aku selalu dapat baju-baju dan barangan percuma. Oh, percuma. Cuma yang ini aku tak faham, dia punya kesesuaian produk dengan cuaca Malaysia. Nampak bergaya lah tapi, yelah, tapi panas nak mampus. Jadi bila dia bagi aku nak pakai, waktu bila? Waktu ceramah tadi, panas berpeluh-peluh. Hari pertama pun tetap panas. So pakai waktu podcast lah, selalunya aircon sejuk. Malam ni tak sejuk sangat, nanti diorang sejuk pula, nanti kena sejukkan sikit lah sebab aku pakai boma jaket ni. Okay.
+**Rafizi:** Ini bukan windbreaker, ini fail saya. Ini bomber ke bomber? Bomber. Bomber jaket. Taklah, aku selalu dapat baju-baju dan barangan percuma. Oh, percuma. Cuma yang ini aku tak faham, dia punya kesesuaian produk dengan cuaca Malaysia. Nampak bergaya lah tapi, yelah, tapi panas nak mampus. Jadi bila dia bagi aku nak pakai, waktu bila? Waktu ceramah tadi, panas berpeluh-peluh. Hari pertama pun tetap panas. So pakai waktu podcast lah, selalunya aircon sejuk. Malam ni tak sejuk sangat, nanti diorang sejuk pula, nanti kena sejukkan sikit lah sebab aku pakai bomber jaket ni. Okay.
 
 **Haziq:** Okay baik. Cuti panjang, apa program cuti? Haa, yelah, saja je nak bagitahu orang. Hari... hari...
 
 **Rafizi:** Jum... haa apa ni? Esok hari Sabtu di Melaka, kenduri, kemudian ceramah.
 
-**Speaker ?:** Kemudian hari Ahad di mana? Di Pucung.
+**Speaker ?:** Kemudian hari Ahad di mana? Di Puchong.
 
-**Haziq:** Ahad di Pucung, betul-betul Pucung lah, HQ kita punya. Itu untuk Sepang lah semua. Yes lah.
+**Haziq:** Ahad di Puchong, betul-betul Puchong lah, HQ kita punya. Itu untuk Sepang lah semua. Yes lah.
 
 **Speaker ?:** Lepas tu bukan hari... cuti 31 Ogos itu pun ada dalam jadual.
 
