@@ -46,10 +46,6 @@
       "verdict": "benign",
       "reason": "Isolated false phrase-lock, same as ep17. Only 3 of 12 samples match at all because ep21's YouTube captions run at about half normal word density (8,182 caption words over 9,574s), which is also why check_caption_coverage.py reports it inconclusive. Two of the three matched samples are tight (-33s, -36s); the +976s outlier is contradicted by 4-gram origin mapping, which puts block [7574] at audio 7596-7669s (correctly positioned) and its neighbour [7832] at 7841s. See ENGINEERING_LOG.md 1.23.",
       "date": "2026-08-27"
-    },
-    "unsourced-figure": {
-      "verdict": "benign",
-      "reason": "Both figures are the rewrite CORRECTING the transcript, and the arithmetic in the same sentence proves it. Raw says \"347 juta, sebaliknya pasar global 8.2 juta ... Ia 4.2%\" -- 347/8.2 is 42x, not 4.2%, whereas 347e6/8.2e9 = 4.23%, so the global market is billions and the ASR mis-heard the unit. Likewise raw's \"India ... 1.4 juta orang\": India's population is 1.4 billion. Leaving the transcript's `juta` would publish a 1000x error under a named speaker."
     }
   },
   "2026-02-20-ep36-2-5b-jv-1-1b-tuduhan-caprice-akan-disaman-kita-jawab-satu-sa": {
@@ -82,29 +78,6 @@
     "oversized-block": {
       "verdict": "benign",
       "reason": "Genuine Rafizi monologue: a sustained presentation segment. THREE independent lines of evidence, none of them the block's own label. (1) Content: the 20.3-min block at [35:40] contains ZERO co-host markers across 1,829 words -- no YB vocative, no run-sheet hand-off (scripts/cohost_candidates.py). That is the same signature as ep51's waived block, and the opposite of ep47's two 24-min blocks, which returned 15 and 10 hits and which the video then confirmed collapsed. (2) Acoustic, using the dial that actually works: clustering.threshold=0.55 with no speaker count split THIS EPISODE's other three oversized blocks (49, 39 and 28 min) down to 140 turns and recovered Haziq, who was not even on the roster -- and declined to split this one. The method demonstrably works on this exact audio and still left this block whole. Note this is a stronger claim than the acoustic line withdrawn from ep27/ep36/ep51 on 2026-08-28, which relied on num_speakers; a speaker count makes pyannote IGNORE the threshold, so declining under a count hint meant nothing (ENGINEERING_LOG 1.36). (3) Video: frames at 38:00, 45:00 and 52:00, spread across the block and padded either side, show Rafizi ALONE in a close single shot with his mouth open in all 15 frames, with no cut and a persistent 'KRONOLOGI 40 MUKA SURAT' QR overlay (ENGINEERING_LOG 1.35). Re-flag by deleting this entry if the episode is ever re-transcribed."
-    },
-    "unsourced-figure": {
-      "verdict": "benign",
-      "reason": "The rewrite rendering a SPELLED-OUT Malay numeral as digits, the same limitation already waived on ep34: this check reads digits only. Raw says \"Ya Allah kalau 3 bilion sebulan Satu hospital, satu bilion, kita boleh bina tiga hospital sebulan\"; interview-en.md says \"if it's RM3 billion a month, and one hospital costs RM1 billion, we could build three hospitals a month\". Same number, same scale -- `satu bilion` IS 1 billion, and the arithmetic in the sentence confirms it (3 billion / 1 billion = three hospitals, which is what both texts say). Only interview-en.md trips it, because the Malay files keep the words. Teaching SCALE the numerals satu..sepuluh would close this class, but `satu` is one of the commonest words in the corpus and would only be safe immediately before a scale word; not attempted for one occurrence.",
-      "date": "2026-08-29"
-    }
-  },
-  "2024-08-26-ep05-yang-bakar-menteri-ybm-ep5": {
-    "unsourced-figure": {
-      "verdict": "benign",
-      "reason": "Raw.md states the unit and the value separately, one sentence apart: \"about 400 billion a year ... 280 billion in 2015, 2018. If you can project on a BAU basis ... then it will go up to 800.\" The published `800 bilion` carries the unit forward, which is what the speaker did. The scale word sits ~130 characters from the number, just outside SCALE_REACH."
-    }
-  },
-  "2025-07-25-ep06-yang-berhenti-menteri-6": {
-    "unsourced-figure": {
-      "verdict": "benign",
-      "reason": "Raw.md reads \"kalau kamu kaya, kereta 7-8, gaji 50-60 ribu\" -- a bare range with the unit left implicit, in parallel with the salary range the same sentence spells out as thousands. The published RM700,000-RM800,000 expands it on that parallel. The `8` was dropped in an earlier version and has been restored; no digit in the published text now lacks a counterpart, only the unit is inferred."
-    }
-  },
-  "2026-02-06-ep34-pilihanraya-datuk-bandar-kl-kos-bina-1-bilik-darjah-tapisan-": {
-    "unsourced-figure": {
-      "verdict": "benign",
-      "reason": "Raw.md gives the figure in garbled Malay number words rather than digits (\"Dua ratus menampil lima ribu\"), which this check reads only as digits. The value is corroborated by arithmetic the same passage states aloud: RM6.5 juta over 22 classrooms is RM295,455 per classroom, and the published text says RM295,000-an."
     }
   },
   "2026-03-06-ep38-sprm-cari-james-chai-tangan-tangan-ghaib-berkaitan-zionis-yb": {

@@ -276,7 +276,7 @@ And that also brings us back to the question of Tan Sri Azam Baki. Because if we
 
 We could get angry — PKR, or the coalition, could take that kind of stance, no problem at all. But then we'd lose the election, because the public would say, "we chose you before because we thought you were different, but if you're just the same, never mind, we'll just choose whichever one is available." There you go.
 
-**Haziq:** Biobie, crystal clear. Let's move to the next segment, world affairs — this time it's largely related to the conflict in Gaza and Israel. Maybe let's start with the first one, Trump's Gaza plan — maybe let me ask directly, is it acceptable to bring good cars? [translator's note: sentence unclear in source]
+**Haziq:** Biobie, crystal clear. Let's move to the next segment, world affairs — this time it's largely related to the conflict in Gaza and Israel. Maybe let's start with the first one, Trump's Gaza plan — maybe let me ask directly, is it acceptable, for the greater good?
 
 **Rafizi:** That's a question that I think, if you ask anyone except Donald Trump and Benjamin Netanyahu and a few others, the majority of the world's population cannot accept it. Okay, YB.
 

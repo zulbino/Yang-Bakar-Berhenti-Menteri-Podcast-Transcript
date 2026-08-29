@@ -88,6 +88,17 @@ SCALE_WORD = re.compile(
 # The ASR writes suffixed scales as often as spelled ones: `9.6B`, `227k`, `22.7k`.
 SUFFIX = {"k": 1e3, "rb": 1e3, "j": 1e6, "m": 1e6, "b": 1e9, "t": 1e12}
 
+# Small quantities are spoken as words: ep41's raw says `satu bilion` and the published
+# text prints `1 billion`, which read as unsourced. Counted ONLY when the numeral sits
+# IMMEDIATELY before a scale word -- `satu` on its own is everywhere in this corpus (`satu
+# had`, `satu paket`, `satu bilik darjah`) and tokenising it loose would accept almost any
+# published figure. `dua ratus juta` stays unmatched for the same reason: `ratus` breaks
+# the adjacency, so nothing is guessed about the hundreds.
+WORD_NUM = {"satu": 1, "dua": 2, "tiga": 3, "empat": 4, "lima": 5,
+            "enam": 6, "tujuh": 7, "lapan": 8, "sembilan": 9, "sepuluh": 10}
+WORD_SCALE = re.compile(
+    r"\b(" + "|".join(WORD_NUM) + r")\s+(" + "|".join(SCALE) + r")\b", re.I)
+
 # The lookbehind rejects only a separator that is itself preceded by a digit, so it still
 # refuses to start mid-figure (`38,041` must not also yield `041`) without being blocked by
 # ordinary punctuation. A plain `(?<![\d.,])` treated the ellipsis in raw's `...91 juta.` as
@@ -174,6 +185,8 @@ def _scan(raw_body):
         toks.append((m.group(1), digits(m.group(1)), parse_value(m.group(1), w)))
         at.append((m.start(), SCALE.get(w, SUFFIX.get(w))))
     values = {v for _, _, v in toks if v is not None}
+    values |= {WORD_NUM[m.group(1).lower()] * SCALE[m.group(2).lower()]
+               for m in WORD_SCALE.finditer(raw_body)}
     # Every scale word in the text, INCLUDING ones attached to no number at all. ep05's raw
     # reads "consumption is is in the trillion, 1.2, thereabout" -- the unit is a bare word
     # and the value follows it, so a scale list built only from number-attached words cannot

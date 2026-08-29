@@ -172,7 +172,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [46:14] Haziq: Okay Dan untuk mengeruhkan keadaan Mereka ada 200 ribu Kalau compare dengan Populasi negeri Perlis 200 ribu Secara Anggaran
 
-[46:24] Rafizi: Tidak, tuan. Oh, saya faham. Pelarian Myanmar. Oh, pelarian Myanmar. Lebih kurang RM212,000. Tapi Rohingya, sebab pelarian Myanmar itu bukan semuanya. Rohingya. Rohingya, ada yang memang etnik Myanmar, ada etnik Cina. Pelarian Rohingya ada sekitar RM130,000. RM120,000 lebih lah. RM130,000. RM130,000.
+[46:24] Rafizi: Tidak, tuan. Oh, saya faham. Pelarian Myanmar. Oh, pelarian Myanmar. Lebih kurang 212,000. Tapi Rohingya, sebab pelarian Myanmar itu bukan semuanya. Rohingya. Rohingya, ada yang memang etnik Myanmar, ada etnik Cina. Pelarian Rohingya ada sekitar 130,000. 120,000 lebih lah. 130,000. 130,000.
 
 [46:57] Haziq: Okey, dan kalau kita tengok asal-usul, um Uh... Kita nak tahu mungkin sebab apa mereka ni datang ke sini. Of course lah for a better living. Tapi saya rasa orang tertanya-tanya kenapa meriah dekat Malaysia tapi tak meriah dekat tempat lain. Mungkin ada banyak sebab lah. Orang dah pernah sentuh. Antaranya sebab pemberdangan manusia. Tapi ada juga yang, memang ada sindiket yang bawa mereka ke sini. Ataupun mereka memang boleh masuk ke sini. ada orang jadikan ini isu politik lah untuk menyokong semua dan sekarang ini kesan itu dah nampak Jadi dia agak susah juga YB sebab dia ada banyak unintended consequences.
 

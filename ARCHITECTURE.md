@@ -627,3 +627,29 @@ same separator on the way back out as the way in.
   local or cloud.
 - Gemini's free-tier quota is unreliable for raw transcription on episodes longer
   than roughly an hour in a single call: use `--engine local` for those.
+- **The published files can carry the rewrite's own commentary, and no check reads for
+  it.** Four instances found by hand on 2026-08-29, all in `interview-en.md`: ep34's
+  `RM172,000 [per classroom actually higher -- wait]`, ep53's `[sic -- should be a
+  population figure, not currency]`, ep16's `[translator's note: sentence unclear in
+  source]`, and ep28's `[Note: he was asked for his view, and he turned the question back
+  around.]`. Each was the model reasoning out loud inside text attributed to a named
+  speaker. Two of them were even RIGHT about the underlying defect, which is the point:
+  the aside was doing the job a check should do.
+
+  A signature is calibrated but not yet wired in. Bracketed spans are a legitimate house
+  convention -- 518 of them across the published files are translation glosses
+  (`[party]`, `[million]`, `Teguran [a reprimand/note]`) -- so the pattern must key on
+  meta-commentary vocabulary (`sic`, `translator`, `wait`, `unclear`, `actually`,
+  `probably`, `^Note:`), not on brackets. That vocabulary matches exactly the four
+  instances above and nothing else in the corpus. `should be` was tried and dropped: it
+  hits ep50's legitimate `who [should be appointed]`.
+- **Whisper's subscribe-boilerplate hallucination is in 30 raw files and ~50 published
+  ones, unfixed.** The sentence is `Sila berasa bebas untuk menyukai, melanggan, maju dan
+  memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian`, a Malay rendering of
+  the Chinese YouTube-subtitle boilerplate that mesolitica's Whisper inherited from its
+  training data (Mingjing / 明镜 is Der Spiegel; Diandian / 点点 is the other channel).
+  Nobody on this podcast says it. It was found from the other end: ep28's published text
+  carries `[aside about liking, subscribing and supporting Der Spiegel and Diandian
+  omitted from context]`, the rewrite noticing the hallucination and writing a note about
+  it instead of dropping it. Grep for `Der Spiegel|Diandian|menyukai, melanggan` to list
+  them; removal is a text-only edit but touches 30 episodes, so it is queued, not done.
