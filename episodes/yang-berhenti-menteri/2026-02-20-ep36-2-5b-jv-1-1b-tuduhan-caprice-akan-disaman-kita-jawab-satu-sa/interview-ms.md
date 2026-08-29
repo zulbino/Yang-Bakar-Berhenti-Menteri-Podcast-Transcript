@@ -484,6 +484,6 @@ Then aku rasa, sebaik sahaja kamu melepasi batas itu kan, mereka yang kalaupun m
 
 Okay, baik YB. YB Chean Chung ada apa nak tambah? Jangan tambah banyak-banyak, Chean Chung, nanti kau pun jadi agen Atok dan Daim. Kita dua jam, dua jam 35 minit. Okey lah, okey bagus lah tu. Itu je lakon ya, itu je lakon. Selamat berpuasa, selamat berpuasa, selamat bersahur. Jangan makan banyak-banyak — siapa yang kena makan ubat pagi macam saya, ingatan kepada diri sendiri, sekarang kena makan macam sahur, sebab aku terlupa, aku makan ubat jantung semua pagi kan. So bila tak makan kat sahur tu, terlepas ubat, bahaya lah.
 
-Oh, bahaya. Okay YB, jangan buat lagi, jangan buat lagi, InsyaAllah tak apa. Okay, kita jumpa minggu depan. Selamat malam. Sila berasa bebas untuk menyukai, melanggan, dan memberi ganjaran untuk menyokong lajur der Spiegel dan Diandian. Selamat—
+Oh, bahaya. Okay YB, jangan buat lagi, jangan buat lagi, InsyaAllah tak apa. Okay, kita jumpa minggu depan. Selamat malam. Selamat—
 
 **Lee Chean Chung:** malam, selamat malam.

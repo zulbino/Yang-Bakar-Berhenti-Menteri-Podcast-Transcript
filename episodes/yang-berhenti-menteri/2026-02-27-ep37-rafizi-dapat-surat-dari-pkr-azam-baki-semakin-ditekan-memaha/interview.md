@@ -295,13 +295,13 @@ Jadi berdasarkan kepada tiga kumpulan ini, nampaknya sukalah kerajaan nak dapatk
 
 **Rafizi:** Haa.
 
-**Haziq:** Tunggu. Jadi selaku penganalisis politik, macam mana orang nak tahulah — dia sebenarnya agak tak ada berita. Dia cuma berita pengerusi PN baru telah dilantik, tapi macam mana konsensus tu didapat, adakah dua-dua side menang, kalau ada side yang kalah apa yang dikorbankan — jadi itu semua tak ada, public tak ada akses lah. Jadi kalau pada YB — bukanlah YB ada akses kan, sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian.
+**Haziq:** Tunggu. Jadi selaku penganalisis politik, macam mana orang nak tahulah — dia sebenarnya agak tak ada berita. Dia cuma berita pengerusi PN baru telah dilantik, tapi macam mana konsensus tu didapat, adakah dua-dua side menang, kalau ada side yang kalah apa yang dikorbankan — jadi itu semua tak ada, public tak ada akses lah. Jadi kalau pada YB — bukanlah YB ada akses kan,
 
 **Rafizi:** Aku tak termasuk WhatsApp group dia. Aku tak ada WhatsApp group. Tak, tapi saya ingat kalau tengok diagnosisnya agak jelas lah. Maksudnya, PAS sekarang ini berkuasa penuh di dalam PN. Oleh kerana perpecahan yang berlaku di dalam Bersatu, maka PAS boleh memainkan peranan divide and rule dengan lebih mudah, kerana dua-dua faksyen itu, Tan Sri Muhyiddin dan juga Datuk Seri Hamzah Zainuddin, kedua-dua kumpulannya bergantung harap kepada PAS.
 
 **Haziq:** Hmm.
 
-**Rafizi:** Jadi mereka dua-dua nak baik dengan PAS. Jadi itu membolehkan PAS mendapat segala-galanya. Sebab itu setakat ini yang kita dah tahu bahawa pengerusi PN adalah daripada PAS, dan ketua pembangkang pun akan daripada PAS — cuma masih belum ditentukan siapa ketua pembangkangnya. Saya ingat mereka perlu tentukan sama ada ketua pembangkang itu adalah Datuk Tuan Ibrahim sebagai timbalan presiden, ataupun Datuk Takiuddin sebagai Chief Whip kan. Itu menunjukkan bahawa di peringkat Tan Sri Muhyiddin Yassin — sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian — bahawa setakat ini option politik yang ada ialah mengalah 100% kepada PAS. Tak ada ya? Tak.
+**Rafizi:** Jadi mereka dua-dua nak baik dengan PAS. Jadi itu membolehkan PAS mendapat segala-galanya. Sebab itu setakat ini yang kita dah tahu bahawa pengerusi PN adalah daripada PAS, dan ketua pembangkang pun akan daripada PAS — cuma masih belum ditentukan siapa ketua pembangkangnya. Saya ingat mereka perlu tentukan sama ada ketua pembangkang itu adalah Datuk Tuan Ibrahim sebagai timbalan presiden, ataupun Datuk Takiuddin sebagai Chief Whip kan. Itu menunjukkan bahawa di peringkat Tan Sri Muhyiddin Yassin bahawa setakat ini option politik yang ada ialah mengalah 100% kepada PAS. Tak ada ya? Tak.
 
 **Farhan (Pa'an):** Ada Zulkar.
 

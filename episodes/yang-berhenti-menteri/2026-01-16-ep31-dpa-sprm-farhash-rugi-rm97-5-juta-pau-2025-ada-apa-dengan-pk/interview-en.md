@@ -428,7 +428,7 @@ But we all know, the internal objections to PADU are comprehensive, they give al
 
 So, I mean, I hope — not just me, I'm sure Tan Sri Azam Baki's corporate comms officers know this too — so he'll eventually have to report on all this. Actually when I talk about MACC, it's because I love MACC — I wouldn't have been able to do my job before, as an MP, exposing 1MDB, SRC and all that if not for some of the good people in MACC. So my criticism is so that in this frenzy — regardless of which government or leadership is in charge — we don't end up sacrificing the public's long-term confidence in MACC. Because we need these institutions to work. And for politicians, once the institutions work and they operate independently, leave them alone. Our job as politicians is, one, to have check and balance — so that if MACC itself misuses its power, then you catch them. But more importantly, if we know MACC, the police, and all that are already independent, the judiciary is already independent, then don't break the rules or take bribes because it'll catch up with you. If I think everyone understands that, then it's easier to govern the country. So, last question?
 
-**Farhan (Pa'an):** Before we... feel free to like, subscribe, and support the Der Spiegel and Diandian column. Because, if you look at the trend, over the past 2-3 weeks Tan Sri Azam Baki has really been more prominent. Yes. He's already—
+**Farhan (Pa'an):** Before we... column. Because, if you look at the trend, over the past 2-3 weeks Tan Sri Azam Baki has really been more prominent. Yes. He's already—
 
 **Rafizi:** Appearing on podcasts.
 

@@ -281,7 +281,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:36:57] Haziq: tempatan. Ialah dia banyak tapi Silver Bullet tu saya tak sure. Maybe boleh di storyboard dia, cinematic dia. Tapi how to?
 
-[2:37:07] Rafizi: Saya tak rasa lah orang tengok sangat yang orang pentingkan sangat cinematic lah. Cinematography tu penting tetapi benda tu is in the background. Selalunya yang membezakan macam Korea dulu kan, mula-mula Korea naik dulu kan. Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian. Storyline ni sebenarnya ialah soal idea Dia soal penceritaan Belum sampai lagi ni Soal kamera, soal apa hebat, soal lakonan semua Dia bermula dengan idea yang paling hebat Itukil mahan utama kita. Maksudnya, skrip kita mungkin tak sampai ke peringkat itu. Sebab itu akhirnya kita akan buat cerita hantu, cerita gangster, cerita hantu, cerita gangster, cerita hantu. Prioriti mereka
+[2:37:07] Rafizi: Saya tak rasa lah orang tengok sangat yang orang pentingkan sangat cinematic lah. Cinematography tu penting tetapi benda tu is in the background. Selalunya yang membezakan macam Korea dulu kan, mula-mula Korea naik dulu kan. Storyline ni sebenarnya ialah soal idea Dia soal penceritaan Belum sampai lagi ni Soal kamera, soal apa hebat, soal lakonan semua Dia bermula dengan idea yang paling hebat Itukil mahan utama kita. Maksudnya, skrip kita mungkin tak sampai ke peringkat itu. Sebab itu akhirnya kita akan buat cerita hantu, cerita gangster, cerita hantu, cerita gangster, cerita hantu. Prioriti mereka
 
 [2:38:04] Haziq: kepada skrip writer itu lebih tinggi daripada kita?
 

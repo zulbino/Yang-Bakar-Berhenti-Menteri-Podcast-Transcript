@@ -43,7 +43,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [01:52] Rafizi: Untuk zikri. Untuk zikri je. Tak pernah ada.
 
-[01:55] Zikri Kamarulzaman: Tapi ketunggulan nanti. Kita pergi ke beria dulu. Kita tengok siapa Disebabkan dah raya ni, diorang dah aktif balik OAB. Harap kita beria lah. Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian.
+[01:55] Zikri Kamarulzaman: Tapi ketunggulan nanti. Kita pergi ke beria dulu. Kita tengok siapa Disebabkan dah raya ni, diorang dah aktif balik OAB. Harap kita beria lah.
 
 [02:05] Speaker ?: Saya boleh lihat.
 

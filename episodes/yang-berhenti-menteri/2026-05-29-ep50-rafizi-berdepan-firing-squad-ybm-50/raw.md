@@ -312,7 +312,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [1:23:16] Farhan (Pa'an): As they came in. Sebab nak keep track
 
-[1:23:17] Rafizi: tu agak susah sebab bertubi-tubi kena masuk. Apa-apa marah Farhan. Dia orang eh, saya tak terlibat langsung. Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian. Kalau dia Saya tak tahulah Dah ada orang kauti Dengan dia apa kan Kan dah kena marah
+[1:23:17] Rafizi: tu agak susah sebab bertubi-tubi kena masuk. Apa-apa marah Farhan. Dia orang eh, saya tak terlibat langsung. Kalau dia Saya tak tahulah Dah ada orang kauti Dengan dia apa kan Kan dah kena marah
 
 [1:23:30] Wan Afiq: Okay soalan seterusnya Soalan Selepas menang Selangor Tahun 2022 Kami difahamkan Datuk Seri Anwar Ibrahim Ingin menggantikan MB Selangor Yang amat berhormat Amir kepada YB Farmingah Kami turut difahamkan YB Rahlah yang akan mempertahankan YB Amir Yang Amir lah Supaya terus kekal jika ia termasuk yang amir pun telah tikam YB Raf aku pun tak faham dia cakap apa
 

@@ -681,7 +681,7 @@ When I came back in 2022, after the last Johor state election in 2022, I already
 
 Okay, now having said that, Bersama's challenge is far bigger now, because we need to take a second step—not only do we want to become a party, we're now the fourth party. The good thing is, if you look at Johor, PN is actually collapsing, and BN and PH will consolidate around... PH gets the non-Malay votes. There are pluses and minuses to this. Some people say, "oh this means Bersama is basically closing shop," because non-Malays consolidate around PH, and Malays consolidate around BN. Well... you know, one year is a very long time in politics, because the consolidation of BN with PN's ambitions isn't necessarily going to be smooth. Politics will be dynamic. After all, PN went from being at the peak of its strength to collapsing within 2-3 months. PH actually has many more fault lines emerging too, regarding Datuk Seri Anwar, his succession, the DAP issue, and so on. If you look at all three, then we can already set PN aside somewhat. So there are really only three left—BN, PAS... what was PAS... let's find a new name for this. There's a really bad name—Barisan Nasional...
 
-**Haziq:** Please feel free to like, subscribe, and support Der Spiegel and Diandian's column. PAS! Hahaha, right, that's—
+**Haziq:** column. PAS! Hahaha, right, that's—
 
 **Dato' Dr. Samsu Adabi Mamat:** That's always mischievous, always mischievous. Hahaha. Green wave mixed with blue wave. Haa, so haa, hi, ruk. Hahaha. Green and blue. Hahaha.
 

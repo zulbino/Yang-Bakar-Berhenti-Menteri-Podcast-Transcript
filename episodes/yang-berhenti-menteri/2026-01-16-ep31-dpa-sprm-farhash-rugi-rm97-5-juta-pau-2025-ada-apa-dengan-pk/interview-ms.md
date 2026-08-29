@@ -427,7 +427,7 @@ Tapi kita semua tahulah, bangkangan dalaman kepada PADU itu menyeluruh, dia bagi
 
 Jadi, maksud saya saya harap — bukan sahaja saya, tahulah pegawai-pegawai Tan Sri Azam Baki yang komunikasi korporat tu — jadi mereka terpaksalah nanti nak laporkan semua kan. Sebenarnya bila saya bercakap pasal SPRM, itu kerana saya sayang SPRM — saya tidak akan dapat lakukan kerja saya dulu, sebagai ahli parlimen, mendedahkan 1MDB, SRC semua ni kalau tidak kerana sesetengah orang baik dalam SPRM. Jadi kritikan saya ialah supaya jangan lah dalam kegilaan ini — dengan kerajaan yang ada, tak kisahlah siapa-siapa dengan pimpinan yang ada — sampai kita mengorbankan keyakinan rakyat untuk jangka masa panjang terhadap SPRM. Kerana kita perlukan institusi-institusi ini berfungsi. Dan bagi ahli-ahli politik, sebaik institusi-institusi itu berfungsi dan berjalan secara bebas, tinggalkan mereka bersendirian. Tugas kita sebagai ahli politik ialah supaya, pertama, ada semak dan imbang — supaya kalau SPRM itu menyalahgunakan kuasa juga, maka kau tangkap dia. Tetapi lebih penting lagi, kalau kita tahu SPRM, polis semua tu dah bebas, badan kehakiman dah bebas, kau janganlah langgar peraturan atau makan duit sebab nanti akan terkena dengan kau. Jika saya fikir semua orang faham perkara itu, maka lebih mudah untuk mentadbir negara. Jadi, soalan terakhir?
 
-**Farhan (Pa'an):** Sebelum kita... sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian. Sebab, kalau tengok trend, sejak 2-3 minggu ni memang Tan Sri Azam Baki lebih menonjol. Ya. Dia dah—
+**Farhan (Pa'an):** Sebelum kita... Sebab, kalau tengok trend, sejak 2-3 minggu ni memang Tan Sri Azam Baki lebih menonjol. Ya. Dia dah—
 
 **Rafizi:** Muncul ke podcast.
 

@@ -391,7 +391,7 @@ Actually, the electrification problem in Sabah is still a major issue. So we rea
 
 **Farhan (Pa'an):** As they came in. Because to keep track...
 
-**Rafizi:** that's quite hard because they come flooding in one after another. Whatever anger there is at Farhan, guys, I'm not involved at all. Please feel free to like, subscribe, and support this channel. Someone's already profiting off him, and now he's getting scolded for it.
+**Rafizi:** that's quite hard because they come flooding in one after another. Whatever anger there is at Farhan, guys, I'm not involved at all. Someone's already profiting off him, and now he's getting scolded for it.
 
 **Wan Afiq:** Okay, next question. Question: After winning Selangor in 2022, we understand that Datuk Seri Anwar Ibrahim wanted to replace the Selangor Chief Minister, the Honourable Amirudin, with YB Fahmi Ngah. We also understand that it was YB Rafizi who defended YB Amirudin so that he could stay on — if that's included, did YB Amirudin then stab YB Rafizi in the back? I don't even understand what he's saying.
 
