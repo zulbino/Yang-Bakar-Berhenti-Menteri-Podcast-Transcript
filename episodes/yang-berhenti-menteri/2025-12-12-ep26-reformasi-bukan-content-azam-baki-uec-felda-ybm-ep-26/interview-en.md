@@ -198,7 +198,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** no, no. I think we can use this opportunity to tell the public, if you see a sign, a cabinet or whatever, don't just remove it as you please. Another piece. Beria, just leave it.
 
-**Rafizi:** Meaning it's getting worse. Because Fuzia's last
+**Rafizi:** Meaning it's getting worse. Because Fuziah's last
 
 **Haziq:** week entry was already too good. We don't know what to put this week. This isn't it. It's not our fault, it's last week's winner's fault for setting the bar for life.
 

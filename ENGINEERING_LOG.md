@@ -2615,6 +2615,54 @@ That is the fourth check in this project to over-fire on its first contact with 
 and the first to do it in a way that pointed the work at the wrong stage rather than merely
 inflating a count. **A false positive costs a look; a mislabelled cause costs a batch run.**
 
+### 2.5: The name that the majority spelling got wrong, and the one it got right
+
+The corpus garbles Malaysian names, and the planned fix was a corrections pass. Doing it
+turned up the reason it could never have been automated.
+
+**First, a counting error worth naming.** `grep -oh "Fuzia"` reports 60 hits in raw.md and
+209 in the published files, so the garble looked like it outnumbered the correct spelling
+almost as badly as the Farhash case. It does not: **`Fuzia` is a prefix of `Fuziah`**, so
+that grep was counting every correct spelling as a defect. With a negative lookahead the
+real garble count is 24 against 244 correct. I had already quoted the inflated figure
+before checking it. Any count of a name that is a prefix of another name needs an explicit
+boundary, and `` is not safe to write here either -- through a nested heredoc it becomes
+a literal backspace and then silently matches nothing, which is the same class of failure.
+
+**Then the actual trap.** Fuziah Salleh's surname is garbled to `Saleh` 13 times, and the
+obvious sweep is `Saleh` -> `Salleh` across the corpus: 266 against 89 looks like a garble
+that has taken over. Splitting by the preceding word kills that idea immediately:
+
+| preceded by | `Salleh` | `Saleh` | correct |
+|---|---|---|---|
+| Akmal | 0 | **35** | **`Saleh`** -- one L |
+| Fuziah | 3 | 13 | `Salleh` |
+| Mat | 7 | 11 | either |
+| Tun | 1 | 0 | `Salleh` |
+
+Verified against sources rather than guessed: **Muhamad Akmal bin Saleh**, UMNO Youth chief,
+really does spell it with one L, so the sweep would have corrupted 185 correct occurrences
+across raw and published. **Mat Salleh / Mat Saleh are both attested** for the
+colloquialism -- the OED's etymology entry lists "Malay mat saleh" -- so neither is a
+garble and both stay as spoken. The corrections are therefore two-word patterns
+(`Fuziah Saleh` -> `Fuziah Salleh`) where the first name disambiguates the surname.
+
+**The rule: a name is not a spelling to normalise by majority vote.** The majority form was
+wrong for Fuziah and right for Akmal, in the same corpus, four words apart. This is also
+why `check_proper_nouns.py` cannot be turned into a fixer -- its `RARE_MAX = 4` promotes a
+frequently-repeated garble to an "established spelling", which is the same majority
+argument, and it would have been confidently wrong here.
+
+`fix_proper_nouns.py` holds the reviewed map, one entry per owner decision, plus an
+explicit not-corrected list carrying the sources, so the analysis is not redone. 51
+corrections applied across raw.md and the published files.
+
+**One ordering gotcha, for any future pass.** Correcting files while `gate_rewrite.py` is
+mid-run is wasted work: the gate copies its final decision back over the episode directory
+at the end, reinstating whatever the rewrite produced. ep37 needed the pass run twice for
+exactly that reason. The tool is idempotent, so the fix is to re-run it after any batch
+rather than to sequence around it.
+
 ## Local-ASR diarization: two follow-up fixes from a code review
 
 Found during a code review of the forced-alignment work above, both fixed

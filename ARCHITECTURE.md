@@ -147,6 +147,13 @@ python scripts/retime_blocks.py ep61 --write
 # Speaker labels that appear in interview*.md but never in raw.md
 python scripts/label_drift_audit.py
 
+# Correct ASR-garbled proper nouns from a reviewed map, one entry per owner decision.
+# NOT a majority-vote normaliser: the majority spelling is wrong for Fuziah Salleh and
+# right for Akmal Saleh, in the same corpus (2.5). Re-run after any gate batch, which
+# copies its own output back over the episode directory
+python scripts/fix_proper_nouns.py
+python scripts/fix_proper_nouns.py --write
+
 # Name the `Speaker N` labels the rewrite left in the PUBLISHED files, using raw.md as
 # the key. Dry run by default; it prints the agreement it found and refuses anything a
 # literal trace of the turn's opening clause does not confirm (1.40).
