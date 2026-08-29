@@ -216,11 +216,11 @@ note: 'Raw transcript from the local ASR fallback, mesolitica/malaysian-whisper-
 
 [1:44:48] Haziq: berat. Jadi soalan... Jangan
 
-[1:44:50] Rafizi: lari, tengok sampai kesudah. Korang ni kadang-kadang bila benda-benda berat ni, Tahu pasal Cephlos sahaja.
+[1:44:50] Rafizi: lari, tengok sampai kesudah. Korang ni kadang-kadang bila benda-benda berat ni, Tahu pasal Ceplos sahaja.
 
 [1:44:59] Haziq: Dia nak tahu
 
-[1:44:59] Rafizi: gosip. Cephlos itu cili sahaja. Kan. Nak bagi perasa sahaja. Negara kita ni kalau nak selesai. Lebih baik kita tak boleh lari lah. Daripada benda-benda macam ni kan. Dan di
+[1:44:59] Rafizi: gosip. Ceplos itu cili sahaja. Kan. Nak bagi perasa sahaja. Negara kita ni kalau nak selesai. Lebih baik kita tak boleh lari lah. Daripada benda-benda macam ni kan. Dan di
 
 [1:45:14] Haziq: hujung nanti akan ada tentang Papa Gumo. Oh. Sebelum itu dengarkan netel dulu. Cuma YB mungkin saya nak sentuh sikit lah sikap semua orang lah bila YB cakap kita nak cakap tentang neta semua ni. Mungkin ramai penonton dan masa-masa skamer yang mendengar ni pada malam ni nak dengar ialah benda-benda yang panas lah. Tapi YB pula nak selit benda ilmiah. Ini sebenarnya dah melawan hukum alam politikian YB nak bercakap benda yang tak hot semua ni.
 
