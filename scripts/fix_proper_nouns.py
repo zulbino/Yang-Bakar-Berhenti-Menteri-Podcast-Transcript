@@ -129,6 +129,37 @@ CORRECTIONS = [
      "passage is Najib's grandfather. Published already says Lim Goh Tong x6."),
     (r"Tuan Seri Noah(?![A-Za-z])", "Tan Sri Noah",
      "raw ep58 x1, in the same sentence. Published already says Tan Sri Noah x3."),
+    # Ultras Selangor, the Selangor FC supporters' group, and its contraction Ultrasel.
+    # Read off the VIDEO: the segment card in ep34 reads `ULTRASEL / LEPAK SEL` over a news
+    # clip about 33 Selangor fans remanded. Owner-confirmed both forms 2026-08-29. Neither
+    # `Altras` nor `Atasel` nor `Ultracel` is a word, and the speaker says the name four
+    # times in one breath, which is why the ASR produced four different spellings of it.
+    (r"Altras Selangor(?![A-Za-z])", "Ultras Selangor",
+     "raw ep34. The group's full name; the published files already had it right 8 times."),
+    (r"Altrasel(?![A-Za-z])", "Ultrasel", "raw ep34 x2, published x2."),
+    (r"Atasel(?![A-Za-z])", "Ultrasel", "raw ep34 x1, published x2."),
+    (r"Ultracel(?![A-Za-z])", "Ultrasel", "published ep34 x4, raw x1 lowercase."),
+    (r"Ultra Cell(?![A-Za-z])", "Ultrasel", "raw ep34 x1. Captions heard `ultraell`."),
+    (r"ultracel(?![A-Za-z])", "Ultrasel",
+     "The lowercase one, raw ep34: `Di Terengganu, ultracel lepak sel` -- the clip's own "
+     "title card, which reads ULTRASEL / LEPAK SEL on screen. Second time a capitalised "
+     "pattern reported a clean run while a lowercase instance survived; grep after every "
+     "substitution."),
+    # Aircraft makers in the ep21 procurement discussion with Dr Rais Hussin. Both garbles
+    # are in raw only -- the published files already read Boeing and Airbus -- so this just
+    # stops raw and published disagreeing.
+    (r"Boying(?![A-Za-z])", "Boeing",
+     "raw ep21 x1: 'Jadi jika ini adalah kes, Boying, Petronas'. Owner-confirmed. The same "
+     "episode spells Boeing correctly 5 times, and so do the YouTube captions."),
+    (r"(?<![A-Za-z])Ebas(?![A-Za-z])", "Airbus",
+     "raw ep21 x1: 'Kita mempunyai Ebas. Kita mempunyai Boeing' -- a tender-comparison "
+     "list, so the pairing identifies it. Captions heard the tail as `bas, kita ada "
+     "Boeing`. Uses a lookBEHIND as well, since `Ebas` could otherwise sit inside a word."),
+    (r"Mujan Yassin(?![A-Za-z])", "Muhyiddin Yassin",
+     "raw ep05 x1: 'Tan Sri Mujan Yassin tak offer apa-apa' about the BN-PN meeting at St "
+     "Regis. Owner-confirmed 2026-08-29. Established 1,135 times (262 raw, 873 published) "
+     "against this single garble, and the published file already expanded it correctly, so "
+     "this only stops raw and published disagreeing for check_names."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the

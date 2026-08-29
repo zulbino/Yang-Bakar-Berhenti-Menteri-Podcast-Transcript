@@ -196,7 +196,7 @@ Okay, let's wrap up this segment — YB, 36 minutes. Never mind, let's move on a
 
 **Rafizi:** Mindef, yes, yes.
 
-**Haziq:** Ismail Sabri — eh, Wisma Putra is foreign.
+**Haziq:** Wisma Putra is foreign.
 
 **Rafizi:** Foreign. Responsibility — they wanted to use Anthropic's model, Claude. It's not that they want to start using it — actually, Anthropic's Claude model has already been in use. The original contract was indeed with Anthropic. It's just that there's some AI ethics issue here regarding intelligence analysis, war simulation, cyber defense effects. But when it comes to going that far, to cross that filter, Anthropic said they have a responsible-use policy — there are certain things they won't allow, such as using the technology for violence, for weapons, and using AI access to train for things like that. So there's an issue here too, about how far these guardrails can be controlled.
 

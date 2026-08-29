@@ -108,5 +108,12 @@
       "reason": "Farhan holds no SOLO turn in ep19 and correctly so. The owner identified him by ear at [2:24:55], speaking the name 'Mahdzir Khalid' TOGETHER with Rafizi, so the honest label for that turn is `Multiple speakers` -- naming it Farhan would drop Rafizi, and naming it Rafizi would drop Farhan. He is on hosts: via rebuild_roster.PRESENT_UNLABELLED because that field records who took part, not who holds a label. Stronger than the ep39 and ep55 waivers of this same flag, which rest on 'no evidence he spoke at all': here there IS evidence he spoke, and it is already in the transcript under a shared label. Note the structural tension: EVERY PRESENT_UNLABELLED entry trips this check by construction, since one adds a roster name raw.md has no label for and the other flags exactly that.",
       "date": "2026-08-29"
     }
+  },
+  "2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-": {
+    "unsourced-name": {
+      "verdict": "benign",
+      "reason": "Legitimate full-name expansion, not an invention. raw says `Izzah` three times and never `Nurul`; published writes `Nurul Izzah` once and `Izzah` thereafter, which is the same person and the correct name. Verified by reading the passage: 'position himself sebagai the natural successor kepada Datuk Seri Anwar lah, selain daripada Nurul Izzah. Sebab itu dia jadi sangat rapat dengan Izzah'. Contrast the four real fabrications, where raw contains no form of the published name at all.",
+      "date": "2026-08-29"
+    }
   }
 }

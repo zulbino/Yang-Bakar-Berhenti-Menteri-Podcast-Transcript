@@ -51,6 +51,7 @@ from lib_gemini import MODEL_FALLBACK_CHAIN
 ROOT = Path(__file__).resolve().parent.parent
 import check_published  # published-file signatures; see its docstring
 import check_figures  # published figures vs raw.md; see its docstring
+import check_names  # published person names vs raw.md; see its docstring
 
 EPISODES_DIR = ROOT / "episodes"
 MANIFEST_PATH = ROOT / "data" / "manifest.json"
@@ -703,6 +704,10 @@ def check_episode(ep_dir):
     # thousands of placeholder labels and a scatter of altered figures.
     issues.extend(check_published.check(ep_dir))
     issues.extend(check_figures.check(ep_dir))
+    # And this one reads the NAMES in those files. Four passages named a different real
+    # person than the transcript did -- ep48's `Fahmi Fadzil`, ep58's `Lim Guan Eng`,
+    # ep13's and ep39's invented `... eh,` self-corrections -- and no check saw any of them.
+    issues.extend(check_names.check(ep_dir))
 
     return issues, models
 
