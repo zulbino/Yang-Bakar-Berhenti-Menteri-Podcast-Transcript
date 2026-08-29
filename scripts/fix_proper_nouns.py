@@ -46,6 +46,35 @@ CORRECTIONS = [
      "Same person, first name only. 24 occurrences against 244 already correct, and all "
      "24 are unambiguously her: 'setiausaha agung, Fuzia', 'Fuzia Saleh boleh "
      "dipertimbangkan untuk kur[angkan]'. Owner-confirmed 2026-08-29."),
+    # Ceplos, the online political persona. Verified to exist before any substitution:
+    # the label began as netizen shorthand for a social-media figure known for political
+    # video content. ep07 makes the referent certain from inside the corpus -- "kemunculan
+    # yang kalau di media sosial orang panggil 'cheplos' kan? Aku pun kena pergi Google
+    # cheplos ni apa". Established spelling is overwhelming and not a bare majority
+    # argument: 478 correct in the published files against these 16, and every one of the
+    # 16 was read in context first.
+    (r"Cepulau(?![A-Za-z])",
+     "Ceplos",
+     "ep34 x6 across all three published files: 'Cepulau masih lagi macam biasa ... dia "
+     "dalam bubble dia'. Gemini's audio read of the same seconds heard 'Che Pblos', so "
+     "two independent ASRs mangled one name two ways."),
+    (r"Cephlos(?![A-Za-z])",
+     "Ceplos",
+     "raw x7, ep26/ep27/ep41: 'Walaupun Cephlos tak puas hati', 'ada ayat-ayat Cephlos "
+     "ni', 'mungkin Cephlos yang repost'."),
+    (r"cephlos(?![A-Za-z])",
+     "ceplos",
+     "One lowercase instance, ep41 interview.md: 'ini mungkin cephlos yang repost'. "
+     "Missed by the capitalised entry above -- which is the argument for verifying a "
+     "substitution by re-grepping rather than by reading the tool's own count."),
+    (r"Cheplos(?![A-Za-z])",
+     "Ceplos",
+     "Capitalised form of the ep07 garble; kept separate from the lowercase entry so "
+     "running-text case is preserved -- the corpus uses `ceplos` lowercase 222 times."),
+    (r"cheplos(?![A-Za-z])",
+     "ceplos",
+     "ep07 x10 across the three published files, inside the quoted phrase where Rafizi "
+     "says he had to look the term up."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the

@@ -285,6 +285,10 @@ def main():
     root = Path(__file__).resolve().parent.parent / "episodes"
     counts, flagged, total = Counter(), 0, 0
     for ep_dir in sorted(root.glob("*/*")):
+        # Same guard as qa_check.py. Without it, files inside a scratch folder under
+        # episodes/ counted as episodes: "78 episodes" against a real 68.
+        if not ep_dir.is_dir() or ep_dir.name.startswith("_"):
+            continue
         found = check(ep_dir)
         total += 1
         if not found:

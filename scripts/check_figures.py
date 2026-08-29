@@ -304,6 +304,11 @@ def main():
     root = Path(__file__).resolve().parent.parent / "episodes"
     flagged = total = 0
     for ep_dir in sorted(root.glob("*/*")):
+        # qa_check.py already had this guard; these two did not, so a scratch folder under
+        # episodes/ had its FILES counted as episodes and the denominator read "78 episodes"
+        # against a real 68. A count that inflates itself is worse than no count.
+        if not ep_dir.is_dir() or ep_dir.name.startswith("_"):
+            continue
         found = check(ep_dir)
         total += 1
         if not found:

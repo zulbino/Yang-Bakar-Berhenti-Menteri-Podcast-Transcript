@@ -409,6 +409,241 @@
           }
         ]
       }
+    },
+    {
+      "claimed_ts": 256,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 3,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "Boleh letak senonoh sikit tak"
+          },
+          {
+            "offset_seconds": 1.3,
+            "voice": "V2",
+            "first_words": "Pandailah engkau"
+          },
+          {
+            "offset_seconds": 3.4,
+            "voice": "V1",
+            "first_words": "Yelah kut kan"
+          },
+          {
+            "offset_seconds": 4.3,
+            "voice": "V3",
+            "first_words": "Che Pblos masih lagi"
+          },
+          {
+            "offset_seconds": 5.8,
+            "voice": "V1",
+            "first_words": "Ha Che Pblos macam biasa"
+          },
+          {
+            "offset_seconds": 15.7,
+            "voice": "V2",
+            "first_words": "Negeri kelahiran"
+          },
+          {
+            "offset_seconds": 17.2,
+            "voice": "V1",
+            "first_words": "Negeri kelahiran Di Terengganu"
+          },
+          {
+            "offset_seconds": 22.3,
+            "voice": "V3",
+            "first_words": "Lepak Cell Memang dia orang"
+          }
+        ]
+      }
+    },
+    {
+      "claimed_ts": 905,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 2,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "pekerja-pekerja baru tu kan"
+          },
+          {
+            "offset_seconds": 8.8,
+            "voice": "V2",
+            "first_words": "Dan saya rasa F&B ni pun"
+          },
+          {
+            "offset_seconds": 13.7,
+            "voice": "V1",
+            "first_words": "mm betul"
+          },
+          {
+            "offset_seconds": 14.3,
+            "voice": "V2",
+            "first_words": "Kita tanya boss F&B lah"
+          },
+          {
+            "offset_seconds": 16.4,
+            "voice": "V1",
+            "first_words": "datang datang lah. Jangan, sebab"
+          }
+        ]
+      }
+    },
+    {
+      "claimed_ts": 1260,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 2,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "Mudah sahaja, tulis letak jawatan"
+          },
+          {
+            "offset_seconds": 15.9,
+            "voice": "V2",
+            "first_words": "XOXO"
+          },
+          {
+            "offset_seconds": 17.1,
+            "voice": "V1",
+            "first_words": "XOXO? Tak ada"
+          }
+        ]
+      }
+    },
+    {
+      "claimed_ts": 1529,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 2,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "Sebab kereta yang dulu dah"
+          },
+          {
+            "offset_seconds": 19.87,
+            "voice": "V2",
+            "first_words": "Dr Akmal, maksudnya dia dah"
+          }
+        ]
+      }
+    },
+    {
+      "claimed_ts": 3468,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 1,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "Dulu-dulu ini kerajaan Madani"
+          }
+        ]
+      }
+    },
+    {
+      "claimed_ts": 3723,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 1,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "Tahanlah kerajaan tu"
+          }
+        ]
+      }
+    },
+    {
+      "claimed_ts": 4193,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 1,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "Jadi reformasi ini"
+          }
+        ]
+      }
+    },
+    {
+      "claimed_ts": 5350,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 1,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "Haa orang kita pun satu"
+          }
+        ]
+      }
+    },
+    {
+      "claimed_ts": 6147,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 2,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "boleh kena game"
+          },
+          {
+            "offset_seconds": 14.3,
+            "voice": "V2",
+            "first_words": "Hm"
+          },
+          {
+            "offset_seconds": 15.0,
+            "voice": "V1",
+            "first_words": "Sebab itu kalau tanya"
+          }
+        ]
+      }
+    },
+    {
+      "claimed_ts": 6525,
+      "claimed_speaker": "(not claimed)",
+      "claimed_text": "",
+      "verdict": {
+        "speaker_count": 2,
+        "turns": [
+          {
+            "offset_seconds": 0.0,
+            "voice": "V1",
+            "first_words": "dia mesti start daripada atas"
+          },
+          {
+            "offset_seconds": 22.1,
+            "voice": "V2",
+            "first_words": "Sebab tu saya ingat dulu"
+          }
+        ]
+      }
     }
   ]
 }
