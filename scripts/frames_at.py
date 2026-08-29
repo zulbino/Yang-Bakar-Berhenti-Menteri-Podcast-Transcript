@@ -60,11 +60,24 @@ def secs(stamp):
 
 
 def video_id(tag):
-    for d in sorted(glob.glob(str(ROOT / "episodes/*/*"))):
-        if re.search(r"-" + tag + r"-", os.path.basename(d)) and "bakar" not in d:
-            text = (Path(d) / "interview.md").read_text(encoding="utf-8")
-            return re.search(r"video_id:\s*(\S+)", text).group(1)
-    sys.exit(f"no episode matched {tag}")
+    """Resolve an `epNN` tag, or `epNN:bakar` / `epNN:berhenti` where both shows have it.
+
+    This used to hardcode `"bakar" not in d`, which made all six yang-bakar-menteri
+    episodes unreachable rather than merely ambiguous -- and YBkM-ep02 is exactly where
+    the video is needed, since its raw.md leaves 78 turns on `Moderator` and the YBkM
+    moderator rotates between people rather than being one fixed MC.
+    """
+    tag, _, show = tag.partition(":")
+    hits = [d for d in sorted(glob.glob(str(ROOT / "episodes/*/*")))
+            if re.search(r"-" + tag + r"-", os.path.basename(d))
+            and (not show or show in d)]
+    if not hits:
+        sys.exit(f"no episode matched {tag}")
+    if len(hits) > 1:
+        opts = ", ".join(f"{tag}:{'bakar' if 'bakar' in h else 'berhenti'}" for h in hits)
+        sys.exit(f"{tag} matches {len(hits)} episodes; disambiguate: {opts}")
+    text = (Path(hits[0]) / "interview.md").read_text(encoding="utf-8")
+    return re.search(r"video_id:\s*(\S+)", text).group(1)
 
 
 def fetch(vid, t0, t1):
@@ -120,7 +133,9 @@ def main():
         sys.exit("pass --at STAMP [STAMP ...] or --range START END")
 
     vid = video_id(args.episode)
-    work = CACHE / f"_frames_{args.episode}"
+    # A disambiguated tag carries a colon ("ep02:bakar"), which Windows rejects in a path.
+    safe = args.episode.replace(":", "-")
+    work = CACHE / f"_frames_{safe}"
     if work.exists():
         for f in work.glob("seq_*.png"):
             f.unlink()
@@ -145,7 +160,7 @@ def main():
 
     frames = sorted(work.glob("seq_*.png"))
     rows = -(-len(frames) // cols)
-    out = args.out or str(ROOT / f"frames_{args.episode}.png")
+    out = args.out or str(ROOT / f"frames_{safe}.png")
     proc = subprocess.run(
         ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
          "-i", str(work / "seq_%03d.png"),
