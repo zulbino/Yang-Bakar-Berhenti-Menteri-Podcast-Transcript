@@ -79,6 +79,27 @@ def read_frontmatter_body(path):
     return fields, body
 
 
+def resolve_tag(manifest, tag):
+    """The one episode matching an `epNN` tag, or a SystemExit naming the candidates.
+
+    Six tags are ambiguous: both shows have an ep01 through ep06, and the two are
+    different episodes. The `[0]` that several tools use to pick a match silently returns
+    whichever the manifest lists first, and all six of those tags are in the rewrite
+    backlog, so the wrong episode would have been rewritten on the first run. Pass
+    `bakar` or `berhenti` alongside the tag ("ep03:bakar") to choose.
+    """
+    tag, _, show = tag.partition(":")
+    hits = [e for e in manifest if "-" + tag + "-" in episode_slug(e)]
+    if show:
+        hits = [e for e in hits if show in show_era_dir(e)]
+    if not hits:
+        raise SystemExit(f"no episode matches {tag!r}")
+    if len(hits) > 1:
+        opts = ", ".join(f"{tag}:{show_era_dir(e).split('-')[1]}" for e in hits)
+        raise SystemExit(f"{tag!r} matches {len(hits)} episodes; disambiguate: {opts}")
+    return hits[0]
+
+
 def body_digest(path):
     """Short hash of a transcript's BODY, for stamping a cached verdict about that file.
 

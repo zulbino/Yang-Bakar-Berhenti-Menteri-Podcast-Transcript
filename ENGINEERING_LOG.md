@@ -2451,6 +2451,92 @@ who knows the show watched the episode.
   checklist correctly flagging a real, only partially-mitigated compression issue for
   a human to look at, not a bug to silence by loosening the file-level threshold.
 
+
+### 2.3: Why the label backlog is a prompt bug, and what a deterministic pass cannot reach
+
+27 of 68 episodes are flagged, and 32 of those flags are the same two signatures:
+`generic-label` on 17 episodes, where a published file prints `Interviewer` or `Host` while
+raw.md names the person, and `malay-loss` on 15, where the rewrite anglicised a
+code-switched original. Both nominally want the rewrite re-run. Before doing that at scale I
+tried to reach them deterministically, and the measurements are worth keeping because they
+close the option off.
+
+**Per-label naming cannot work, because the ambiguity is real.** `name_published_placeholders.py`
+already handles role labels and refuses all 17. Its refusal branch was discarding the reason,
+so it printed a vote and no explanation; with the reason restored, 13 of the labels refuse on
+vote agreement of 41-76% and that is the correct answer. ep22's `Host` covers Haziq 88 turns,
+Rafizi 54 and Farhan 28 -- one role word standing in for three people, with no single right
+name. ep05's `Host` votes Rafizi 35/35 only because raw.md names exactly one speaker in that
+episode, which is an artifact rather than evidence.
+
+**Per-turn naming reaches 11% and clears nothing.** The obvious next move is to stop
+aggregating: the tool computes a match per turn and then throws it away, so ep22's `Host`
+could in principle become 88 Haziq turns and 54 Rafizi ones. Measured against the only
+evidence strong enough to act on, a literal trace of the turn's opening clause: of 1824
+placeholder turns across every published file, **193 trace to exactly one raw speaker, 1042
+have no trace at all, and 589 have openings too short to mean anything.** Zero traces are
+ambiguous, so the method is sound where it fires -- it just fires on 11%, and no episode is
+cleared by it. Also a correction: the tool's docstring says the rewrite "usually leaves the
+opening clause intact", and that is true of 11% of turns, not most.
+
+**I blamed the prompt, and the control run says otherwise.** `CLEAN_PROMPT_TEMPLATE` did
+have real gaps -- it said "with the actual speaker names from the transcript" and then never
+forbade substituting a role word, never said what to do with a speaker the transcript leaves
+unnamed, and never forbade merging two labels; its language rule was an instruction with
+nothing measurable attached, unlike point 5's concrete "at least 70% of character length"
+that is why ep61's one passing run passed. Those gaps are now closed, with an explicit
+prohibition and a countable Malay floor, and one edit covers both engines because
+`lib_claude_rewrite.py` imports the template.
+
+**But the fix is not what repaired ep03.** Run on the densest 59-turn chunk of YBhM-ep03,
+the new prompt returned 94% of the input length, 59 of 59 turns, 95% of the Malay and no
+role labels. Then the control: **the OLD prompt on the identical chunk returned 95%, 59 of
+59 turns and 98% of the Malay.** Both are fine. The 47% incumbent was not the current
+pipeline condensing; it was a stale artifact of an earlier one, and a plain regeneration
+took the episode to 97% completeness, 27.1% Malay against raw's 27.4%, and 0 generic turns
+from 81. **The claim I was about to act on -- that every model drops turns because a 20k
+chunk invites omission -- did not survive its own control.** It is content-specific: log
+2.2's 0.13-0.51 spread was measured on ep45's opening, and ep03's hardest chunk is simply
+not that content.
+
+A second hypothesis died the same way. Since ep03's bad `interview.md` carried no `model:`
+line, legacy-era output looked like it might be identifiable by that absence -- but only 1
+of 68 episodes has the field at all, so it separates nothing.
+
+**Two clusters, not one backlog.** Scoring all 68 episodes on completeness, Malay loss and
+generic-turn count splits the 27 flags cleanly, and the two halves want opposite handling:
+
+  - **Content lost, labels fine.** ep14 at 55% completeness and 57% Malay loss, ep02b 59/47,
+    ep04a 62/56, ep61 64/40, ep06b 66/73, ep02a 76/42, ep01b 79/56, ep05a 82/62, ep01a 82/34.
+    Early-era output. Regeneration is a clear win here -- ep03b went 47% -> 97%.
+  - **Labels bad, content fine.** ep10 at 80% completeness with **396** generic turns, ep56
+    100% with **267**, ep22 91/192, ep04b 87/180, ep33 98/96, ep37 93/75, ep19 92/69,
+    ep53 99/57. Regenerating these risks content that is already good in order to fix a
+    label, which is exactly the trade the gate's completeness veto refuses.
+
+**`gate_rewrite.py`, because a re-run is a coin flip.** ep61's four runs on identical input
+returned 24%, 32%, 63% and 39% of raw's length, and `regenerate_rewrites.sh` overwrites the
+incumbent before anyone has seen what came back. The gate regenerates into a sandbox, scores
+the candidate against the incumbent on the three axes the suite actually flags, and restores
+the incumbent unless the candidate wins. Completeness is a veto rather than one term in a
+sum: losing content to gain a label is not a trade worth making.
+
+**Two bugs found on the way, both of the silently-wrong kind.**
+
+Six tags are ambiguous -- both shows have an ep01 through ep06, and they are different
+episodes. Every tool resolved a tag with `[...][0]`, taking whichever the manifest listed
+first. All six are in the rewrite backlog, so the first batch run would have regenerated the
+wrong episodes and reported success. `common.resolve_tag` now raises with the candidates
+listed (`ep03:bakar`, `ep03:berhenti`). `splice_gap.py` still carries the old pattern.
+
+The gate's own first scorer counted the honest-unknown markers as defects -- `Speaker ?`,
+`Speaker (unidentified)`, `Penutur (tidak dikenali)`, `Penceramah ?` -- and scored 3-6
+against four episodes `qa_check.py` calls clean. That is the third time a new check in this
+project has over-fired on exactly this marker. The fix was to stop inventing a measure and
+reuse `label_drift_audit.GENERIC`, the regex that raises the flag being tracked: 1824 turns
+corpus-wide, zero on any clean episode. **A gate that does not measure the same thing as the
+flag it is gating will promote a candidate the suite then rejects.**
+
 ## Local-ASR diarization: two follow-up fixes from a code review
 
 Found during a code review of the forced-alignment work above, both fixed

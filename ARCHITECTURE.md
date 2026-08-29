@@ -62,6 +62,13 @@ reasons (see below).
 Hardware: one RTX 2070 (8GB). A second GTX 970 in the same machine is too old for the
 CUDA builds used here, so always set `CUDA_VISIBLE_DEVICES=0` (1.3).
 
+**Episode tags are ambiguous and the tools used to resolve them wrongly.** Both shows have
+an ep01 through ep06, and they are different episodes; every tool picked its match with
+`[0]`, silently taking whichever the manifest listed first, and all six of those tags are in
+the rewrite backlog. Use `common.resolve_tag`, which raises with the candidates listed, and
+disambiguate with `ep03:bakar` / `ep03:berhenti`. `splice_gap.py` still carries the old
+pattern (2.3).
+
 ## One-time setup
 
 Requires Python 3, Node.js, ffmpeg, and a `GEMINI_API_KEY`. The local ASR fallback
@@ -145,6 +152,13 @@ python scripts/label_drift_audit.py
 # literal trace of the turn's opening clause does not confirm (1.40).
 python scripts/name_published_placeholders.py
 python scripts/name_published_placeholders.py ep54 --apply
+
+# Regenerate a rewrite into a sandbox and keep it ONLY if it measures better than what
+# is already there, on completeness, Malay density and generic-label count. A re-run is
+# a coin flip -- ep61 gave 24/32/63/39% on identical input -- so regenerate_rewrites.sh
+# overwriting in place is not safe on an episode whose rewrite is merely imperfect (2.3)
+python scripts/gate_rewrite.py ep02:berhenti --score-only
+python scripts/gate_rewrite.py ep02:berhenti --tries 2
 ```
 
 For an episode whose speakers may be named wrongly. **Confirm against the audio before

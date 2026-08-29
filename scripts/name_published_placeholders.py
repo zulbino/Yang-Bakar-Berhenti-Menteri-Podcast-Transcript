@@ -196,11 +196,11 @@ def _confirm(label, who, traces):
 
 
 def propose(ep_dir):
-    """{placeholder: (name, agreement, matched)} plus the per-file evidence."""
+    """{placeholder: (name, agreement, matched, note)}, the votes, and the traces."""
     raw_body = strip_frontmatter((ep_dir / "raw.md").read_text(encoding="utf-8"))
     blocks = raw_blocks(raw_body)
     if not blocks:
-        return {}, {}
+        return {}, {}, {}
     w = weights(blocks)
     traces = verbatim_votes(ep_dir, raw_body)
 
@@ -257,7 +257,7 @@ def propose(ep_dir):
         if matched >= MIN_MATCHED and who not in claimed and agree >= MIN_PLURALITY and ok:
             proposal[label] = (who, agree, matched, note)
             claimed.add(who)
-    return proposal, votes
+    return proposal, votes, traces
 
 
 def apply(ep_dir, proposal):
@@ -289,7 +289,7 @@ def main():
             continue
         if not (ep_dir / "raw.md").exists():
             continue
-        proposal, votes = propose(ep_dir)
+        proposal, votes, traces = propose(ep_dir)
         if not votes:
             continue
         print(f"\n{tag} ({'2024' if 'bakar' in str(ep_dir) else '2025-26'})")
@@ -301,7 +301,14 @@ def main():
                 print(f"   {label:24} -> {who:18} {agree:.0%} of {matched} matched"
                       f"   {note}")
             else:
-                print(f"   {label:24}    REFUSED  ({matched} matched) [{detail}]")
+                who, n = tally.most_common(1)[0]
+                _, note = _confirm(label, who, traces)
+                agree = n / matched if matched else 0.0
+                why = (note if matched >= MIN_MATCHED and agree >= MIN_AGREEMENT
+                       else f"[vote {agree:.0%}, needs {MIN_AGREEMENT:.0%}]"
+                       if matched >= MIN_MATCHED
+                       else f"[only {matched} matched turn(s); needs {MIN_MATCHED}]")
+                print(f"   {label:24}    REFUSED  ({matched} matched) [{detail}] {why}")
         if args.apply and proposal:
             print(f"   wrote {apply(ep_dir, proposal)} file(s)")
 

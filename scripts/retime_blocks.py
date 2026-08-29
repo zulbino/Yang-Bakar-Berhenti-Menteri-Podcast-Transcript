@@ -42,7 +42,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import episode_path, episode_slug, frontmatter_md, read_frontmatter_body
+from common import episode_path, episode_slug, frontmatter_md, read_frontmatter_body, resolve_tag
 from dedupe_raw import MIN_MATCHING_WORDS
 from qa_check import SPEECH_CHARS_PER_SECOND, timestamped_blocks
 
@@ -123,7 +123,7 @@ def fmt(sec):
 def main():
     a = parse_args()
     manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
-    ep = [e for e in manifest if "-" + a.tag + "-" in episode_slug(e)][0]
+    ep = resolve_tag(manifest, a.tag)
     raw_path = ROOT / "episodes" / episode_path(ep) / "raw.md"
     align_path = ROOT / "data" / f"_{a.tag}_align.json"
     if not align_path.exists():
