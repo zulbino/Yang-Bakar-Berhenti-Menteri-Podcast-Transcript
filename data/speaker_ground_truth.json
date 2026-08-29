@@ -1,0 +1,46 @@
+{
+  "_README": [
+    "HUMAN GROUND TRUTH for speaker attribution. The owner watched and listened to the",
+    "passage and wrote the turns out by hand. This is the only turn-level gold data in",
+    "the project, and it is the yardstick any diarization or 'sensing' approach must be",
+    "measured against. Nothing in here is machine-derived.",
+    "",
+    "`turns` is the owner's text, verbatim and in order, with the owner's speaker labels.",
+    "`anchor` is NOT owner-provided: it records which textual cue identifies that speaker,",
+    "added during analysis so the cues can be tested as features. Treat `speaker` as fact",
+    "and `anchor` as hypothesis.",
+    "",
+    "WHY THIS EXISTS. qa_check and check_figures are both 0/68 and neither reads whether a",
+    "turn holds two voices. 341 published turns of 400+ words across 63 episodes sit under",
+    "one label. The standing rule is never to infer a speaker from text, because register,",
+    "sentence-continuation, word-overlap and caption '>>' markers have each been measurably",
+    "wrong on this corpus. Gold data changes the task from blind inference to measurable",
+    "validation: a cue is allowed only if it scores well HERE first."
+  ],
+  "2026-08-28-ep61": {
+    "video_id": "2AytMmKIU7w",
+    "region": "roughly 01:30 to 03:00, the post-jacket schedule exchange into the first Beria item",
+    "source": "owner, watched and heard, 2026-08-30",
+    "owner_note": "OK, this is the most accurate based on what I hear and watch.",
+    "turns": [
+      {"n": 1,  "speaker": "Haziq",  "text": "Okay baik YB. Cuti panjang, YB buat apa?", "anchor": "YB vocative x2, and a run-sheet question"},
+      {"n": 2,  "speaker": "Rafizi", "text": "Mana ada cuti?", "anchor": "answers the question put to him"},
+      {"n": 3,  "speaker": "Haziq",  "text": "Haa, yelah, saja je nak bagitahu orang.", "anchor": "explains why he asked; addresses the audience as the host"},
+      {"n": 4,  "speaker": "Rafizi", "text": "Hari... hari... Jum... haa apa ni? Hari Sabtu esok ni hari Sabtu di Melaka, kenduri, kemudian ceramah. Kemudian hari Ahad di mana? Di Puchong.", "anchor": "recites HIS OWN diary. Contains a SELF-ANSWERED QUESTION -- `Kemudian hari Ahad di mana? Di Puchong.` is one speaker thinking aloud, not a Q and an A"},
+      {"n": 5,  "speaker": "Haziq",  "text": "Ahad di Puchong, betul-betul Puchong lah, HQ kita punya.", "anchor": "ECHOES the previous speaker's last words to confirm them"},
+      {"n": 6,  "speaker": "Rafizi", "text": "Itu untuk Sepang lah semua. Yes lah.", "anchor": "continues his own schedule after the interjection"},
+      {"n": 7,  "speaker": "Rafizi", "text": "Lepas tu bukan hari... cuti 31st Ogos itu pun ada dalam jadual.", "anchor": "still his diary. TWO CONSECUTIVE Rafizi turns -- the owner separated 6 and 7, so a turn boundary is not always a speaker change"},
+      {"n": 8,  "speaker": "Haziq",  "text": "Ya.", "anchor": "backchannel. Two characters long, and unassignable from text alone"},
+      {"n": 9,  "speaker": "Rafizi", "text": "Kemudian hari Selasa ceramah.", "anchor": "diary continues"},
+      {"n": 10, "speaker": "Haziq",  "text": "Macam nak pilihan raya dah YB, macam nak pilihan raya.", "anchor": "YB vocative"},
+      {"n": 11, "speaker": "Rafizi", "text": "Kita memang beria.", "anchor": "replies to the tease"},
+      {"n": 12, "speaker": "Haziq",  "text": "Okay, okay baik YB, kita teruskan untuk episode 61 ni, sebab beria agak banyak sikit", "anchor": "YB vocative plus a run-sheet move (`kita teruskan`, naming the episode)"},
+      {"n": 13, "speaker": "Rafizi", "text": "Minggu lepas, banyak beria minggu ini, minggu ini banyak beria.", "anchor": "no cue in the text at all; assignable only by voice"},
+      {"n": 14, "speaker": "Haziq",  "text": "Yang first sekali, terapi overclaim datang lagi.", "anchor": "run-sheet move, introducing the first item"},
+      {"n": 15, "speaker": "Rafizi", "text": "Betullah, dia panas so korang kena biarlah si Haziq ni sejuk.", "anchor": "THIRD-PERSON reference to Haziq (`si Haziq ni`), so it cannot be Haziq. `korang` addresses the crew"},
+      {"n": 16, "speaker": "Haziq",  "text": "Biarkan saya mengigil. Haa, betul, saya boleh pergi toilet nanti.", "anchor": "`saya` twice, and answers the remark made about him"},
+      {"n": 17, "speaker": "Rafizi", "text": "Okay, ni mana ni? Terapi overclaim datang lagi.", "anchor": "NONE, and it is a trap: it repeats turn 14's words almost exactly while being the other speaker"},
+      {"n": 18, "speaker": "Haziq",  "text": "Hydrogen therapy atau nebulizer.", "anchor": "answers the question, supplying the item detail"}
+    ]
+  }
+}
