@@ -48,6 +48,12 @@ from check_published import DERIVED, TURN_RE
 # `1.3 triliun` in raw and the rewrite renders them `trillion`.
 SCALE = {
     "ribu": 1e3, "juta": 1e6, "jt": 1e6, "bilion": 1e9, "biliun": 1e9, "billion": 1e9,
+    # The Indonesian form of the same 1e9, one occurrence: ep56 raw says "40 40 miliar
+    # lah 1.6B" where the rewrite prints the house spelling "40 bilion". Without the
+    # word here raw's figure did not tokenise at all, so the published one had nothing
+    # to match and read as invented. Safe to add: `\bmiliar\b` cannot fire inside
+    # "familiar", and a bare `miliar` grep counting 6 was counting that word.
+    "miliar": 1e9, "milyar": 1e9,
     "trilion": 1e12, "triliun": 1e12, "trillion": 1e12,
     "million": 1e6, "thousand": 1e3,
 }
@@ -76,7 +82,8 @@ VALUE_TOL = 0.005
 # Tuned against the ground-truth set below; see the module docstring for the counts.
 SCALE_REACH = 120
 SCALE_WORD = re.compile(
-    r"\b(ribu|juta|bilion|biliun|billion|trilion|triliun|trillion|thousand|million)\b",
+    r"\b(ribu|juta|bilion|biliun|billion|miliar|milyar|trilion|triliun|trillion|"
+    r"thousand|million)\b",
     re.I)
 # The ASR writes suffixed scales as often as spelled ones: `9.6B`, `227k`, `22.7k`.
 SUFFIX = {"k": 1e3, "rb": 1e3, "j": 1e6, "m": 1e6, "b": 1e9, "t": 1e12}
@@ -90,7 +97,7 @@ SUFFIX = {"k": 1e3, "rb": 1e3, "j": 1e6, "m": 1e6, "b": 1e9, "t": 1e12}
 # `jutanya`. Ten instances in the corpus, and requiring a bare word boundary after the
 # scale meant ep04 was flagged for `320 bilion` that its own raw.md states outright.
 NUM = re.compile(r"(?<!\d)(?<![\d][.,])(\d[\d.,]*\d|\d)"
-                 r"(?:\s*(ribu|juta|jt|bilion|biliun|billion|trilion|triliun|"
+                 r"(?:\s*(ribu|juta|jt|bilion|biliun|billion|miliar|milyar|trilion|triliun|"
                  r"trillion|thousand|million)(?:lah|kan|nya|tu|pun|ke)?\b"
                  r"|\s?([kKbBmMtT]|[rR][bB])(?![A-Za-z0-9]))?", re.I)
 
@@ -116,7 +123,7 @@ SPOKEN_POINT = re.compile(r"(\d)\s*(?:point|titik)\s*(\d)", re.I)
 # says `Rakyat Malaysia 32. 2 juta` for the published `32.2 juta`. Deliberately narrow --
 # it only fires when a scale word follows, so it can never fuse `4.5 bilion` into `45`.
 SPLIT_DECIMAL = re.compile(
-    r"(\d)[.,]\s+(\d{1,2})(?=\s*(?:ribu|juta|bilion|biliun|billion|trilion|triliun|"
+    r"(\d)[.,]\s+(\d{1,2})(?=\s*(?:ribu|juta|bilion|biliun|billion|miliar|milyar|trilion|triliun|"
     r"trillion|thousand|million)\b)", re.I)
 
 

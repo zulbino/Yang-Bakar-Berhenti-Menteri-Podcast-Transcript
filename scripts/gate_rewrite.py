@@ -25,7 +25,9 @@ Scoring, all three from the checks that raise the flags in the first place:
   malay         `check_language_drift.malay_ratio` on interview.md against raw.md, the
                 same measure behind the `malay-loss` flag.
   labels        Generic role words and cluster ids in the three published files, the same
-                measure behind `generic-label` and `published-placeholder`.
+                measure behind `generic-label` and `published-placeholder`, floored by
+                what raw.md itself leaves unnamed -- a candidate cannot name a turn raw
+                does not name, so rising to that floor scores as a gain, not a loss.
 
 MANDATORY afterwards, exactly as for regenerate_rewrites.sh -- the metadata stage rewrites
 hosts/guests and reverts labels to "Rafizi Ramli" on every run:
@@ -45,7 +47,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from check_language_drift import malay_ratio, strip_frontmatter
-from check_published import DERIVED, TURN_RE
+from check_published import DERIVED, RAW_LABEL, TURN_RE
 from label_drift_audit import GENERIC
 from common import episode_path, episode_slug, resolve_tag
 
@@ -83,6 +85,28 @@ def generic_turns(ep_dir):
     return n
 
 
+def generic_floor(ep_dir):
+    """Generic published turns raw.md itself justifies -- the best any candidate can do.
+
+    The label axis above is raw-blind, which is right when raw.md is fully named: ep56's
+    raw names every one of its 138 turns while the published files print `Speaker 2` 89
+    times, and that gap is the rewrite's alone. It is wrong the other way. Where raw
+    leaves a turn on `Speaker 3`, no faithful rewrite can name it, so a candidate's count
+    cannot fall below what raw carries, and a candidate that RISES to this floor is being
+    more honest, not worse.
+
+    ep53 is the case that needs it. Its incumbent scores 57 against a floor of 66 -- it
+    sits BELOW what raw supports, which is only possible by inventing attributions for
+    nine turns raw leaves unnamed. Without the floor the generic-turn veto rejects every
+    honest candidate on the grounds that it stopped guessing, the same inversion that made
+    `generic-label` blame the rewrite for 351 turns before check_published excluded the
+    labels raw shares.
+    """
+    raw = read_body(ep_dir / "raw.md")
+    n = sum(1 for a, b in RAW_LABEL.findall(raw) if GENERIC.match((a or b).strip()))
+    return n * len(DERIVED)
+
+
 def score(ep_dir):
     raw = read_body(ep_dir / "raw.md")
     mixed = read_body(ep_dir / "interview.md")
@@ -95,6 +119,7 @@ def score(ep_dir):
         "malay": malay_ratio(mixed),
         "raw_malay": malay_ratio(raw),
         "generic_turns": generic_turns(ep_dir),
+        "generic_floor": generic_floor(ep_dir),
     }
 
 
@@ -120,17 +145,29 @@ def verdict(old, new):
     # YBkM-ep02 was promoted on a +9pt Malay gain while its generic labels went 84 -> 234,
     # because "improved something, worsened nothing I check" is not the same as "better".
     # Every axis that raises a flag needs a veto, or the gate trades one flag for another.
-    if dg < 0:
+    floor = new["generic_floor"]
+    # A candidate at or below the floor cannot attribute better, so a rise up to it is not
+    # a regression -- see generic_floor(). Only a rise ABOVE the floor is the rewrite
+    # dropping names raw.md actually had.
+    at_floor = new["generic_turns"] <= floor
+    if dg < 0 and not at_floor:
         return False, (f"REJECT: generic labels {old['generic_turns']} -> "
                        f"{new['generic_turns']}, {-dg} more turns the reader cannot "
-                       f"attribute, whatever else improved")
-    if dg <= 0 and dm <= MALAY_TOLERANCE:
+                       f"attribute against a floor of {floor}, whatever else improved")
+    # The incumbent sitting below the floor is not a better score, it is a guess: it named
+    # turns raw.md leaves generic. Coming up to the floor is the gain.
+    unclaimed = at_floor and old["generic_turns"] < floor
+    if dg <= 0 and not unclaimed and dm <= MALAY_TOLERANCE:
         return False, (f"REJECT: nothing measurably better (generic turns "
-                       f"{old['generic_turns']} -> {new['generic_turns']}, Malay "
-                       f"{old['malay']:.1%} -> {new['malay']:.1%})")
+                       f"{old['generic_turns']} -> {new['generic_turns']}, floor {floor}, "
+                       f"Malay {old['malay']:.1%} -> {new['malay']:.1%})")
     gains = []
     if dg > 0:
         gains.append(f"{dg} fewer generic turn(s)")
+    if unclaimed:
+        gains.append(f"labels now at the floor raw.md permits ({floor}); the incumbent sat "
+                     f"{floor - old['generic_turns']} below it, attributing turns raw "
+                     f"leaves unnamed")
     if dm > MALAY_TOLERANCE:
         gains.append(f"Malay {old['malay']:.1%} -> {new['malay']:.1%}")
     return True, f"PROMOTE: {', '.join(gains)}, completeness {dc:+.0%}"
@@ -139,7 +176,7 @@ def verdict(old, new):
 def show(tag, s):
     print(f"  {tag:10s} completeness {s['completeness']:.0%}  malay {s['malay']:.1%} "
           f"(raw {s['raw_malay']:.1%})  en {s['en_ratio']:.2f}  ms {s['ms_ratio']:.2f}  "
-          f"generic turns {s['generic_turns']}")
+          f"generic turns {s['generic_turns']} (floor {s['generic_floor']})")
 
 
 def main():

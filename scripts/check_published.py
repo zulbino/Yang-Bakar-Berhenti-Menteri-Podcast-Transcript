@@ -50,6 +50,16 @@ GROUP_LABEL = re.compile(
 # phrase opening a continuation paragraph. With the colon optional that one line parsed
 # as a speaker named "Beza Krim dengan Fleximat" and drove a label-mismatch flag.
 TURN_RE = re.compile(r"^\*\*([^*]{2,40}?):\*\*\s*(.*)$")
+# A turn whose LABEL IS MISSING ENTIRELY, which TURN_RE cannot see because it requires the
+# colon. When the rewrite detects a voice change it has no name for, it usually writes
+# `Speaker`; ep53 instead bolded the turn's first sentence and emitted no label at all:
+#
+#   **Baik, kita dah lama ni tau pasal ni kan.** Ya, 1 jam 45 minit ... killer question.
+#
+# Invisible to every label check, so it scored BETTER than a generic label and the gate
+# promoted it. Requires a sentence-like lead (a space, so `**RM40**` in running prose does
+# not match) and no colon, which is what separates it from a real turn.
+UNLABELLED_TURN_RE = re.compile(r"^\*\*([^*:]{12,120}?)\*\*\s+\S")
 # A raw.md block holding two or more of these has lost a paragraph break. qa_check's
 # wall-of-text signature also demanded >20,000 chars, which is why ep53's seven such
 # blocks all passed.
@@ -97,7 +107,7 @@ NAME_TOKEN = re.compile(r"[A-Za-zÀ-ÿ][\w'’-]*")
 
 def names_in_label(label):
     s = re.sub(r"[\[\]()]", " ", label)
-    s = re.sub(r"(speaker|penutur|penceramah)\s*[\d?]+", " ", s, flags=re.I)
+    s = re.sub(r"\b(speaker|penutur|penceramah)\s*[\d?]+\b", " ", s, flags=re.I)
     s = s.replace("/", " ")
     return {t for t in NAME_TOKEN.findall(s)
             if t[0].isupper() and t.lower() not in ROLE_WORDS}
@@ -128,15 +138,24 @@ def check(ep_dir):
             f"({shown}) -- a published transcript should name the speaker or say nothing, "
             f"and these propagate into the derived files as several ungreppable variants"))
 
+    # Counts every affected block, not just the first. The `break` this replaces reported
+    # 1 of ep53's 7 buried markers, so the flag read as a single lost paragraph break when
+    # it was six of them plus four labels holding no words at all -- and the flag is the
+    # only notice this defect gets, since the merged text publishes under one name.
+    buried, first = 0, None
     for line in raw_body.splitlines():
         markers = INLINE_TURN_RE.findall(line)
         if len(markers) >= 2:
-            issues.append((
-                "inline-turn-marker",
-                f"a raw.md block holds {len(markers)} inline turn markers "
-                f"(first {markers[0]!r}) -- a paragraph break was lost, so one speaker's "
-                f"block contains another's words"))
-            break
+            buried += len(markers) - 1
+            if first is None:
+                first = markers[1]
+    if buried:
+        issues.append((
+            "inline-turn-marker",
+            f"raw.md buries {buried} turn marker(s) inside another speaker's block "
+            f"(first {first!r}) -- a paragraph break was lost, so one speaker's block "
+            f"contains another's words. Fix with scripts/split_inline_turns.py, then "
+            f"regenerate: the published files still hold the merged text"))
 
     names = raw_speaker_names(raw_body)
     # Generic labels raw.md uses itself, i.e. speakers the transcript never named. Role
@@ -165,6 +184,19 @@ def check(ep_dir):
         turns = derived_turns(path.read_text(encoding="utf-8"))
         label_sets[name] = Counter(label for label, _ in turns)
         name_sets[name] = {label: names_in_label(label) for label, _ in turns}
+
+        unlabelled = [m.group(1) for m in
+                      (UNLABELLED_TURN_RE.match(l.strip())
+                       for l in strip_frontmatter(path.read_text(encoding="utf-8"))
+                       .splitlines()) if m]
+        if unlabelled:
+            issues.append((
+                "unlabelled-turn",
+                f"{name} has {len(unlabelled)} turn(s) with NO speaker label, the first "
+                f"sentence bolded in its place ({unlabelled[0][:52]!r}) -- the reader "
+                f"attributes it to the previous speaker. ep53 got this where raw.md buries "
+                f"a co-host inside a Rafizi block, so the rewrite heard the voice change "
+                f"and had no name for it"))
 
         numbered = Counter(l for l, _ in turns if DERIVED_PLACEHOLDER_RE.match(l))
         if numbered:

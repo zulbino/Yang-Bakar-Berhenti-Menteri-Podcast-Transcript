@@ -162,7 +162,7 @@ for ep in man:
     fm_prev, _ = read_frontmatter_body(d / "interview.md")
     known = [canon(x) for x in (fm_prev.get("hosts") or []) + (fm_prev.get("guests") or []) if x]
 
-    PLACEHOLDER = re.compile(r"\((?:speaker|penutur)\s*[\d?]+\)|speaker\s*[\d?]+", re.I)
+    PLACEHOLDER = re.compile(r"\((?:speaker|penutur)\s*[\d?]+\)|\bspeaker\s*[\d?]+\b", re.I)
 
     def fullest(name):
         toks = set(name.lower().replace(".", "").split())

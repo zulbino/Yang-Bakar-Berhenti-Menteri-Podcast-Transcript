@@ -333,7 +333,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:42:52] Rafizi: Di seluruh Malaysia, di seluruh Malaysia. Apa satu-satunya projek yang menyebabkan hutang ditanggung oleh seluruh Malaysia untuk anak cucu cicit kita?
 
-[1:43:04] Speaker 3: MRT.
+[1:43:04] Haziq: Hmm
 
 [1:43:05] Rafizi: No. Satu projek, projek satu.
 
@@ -497,7 +497,7 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [2:23:54] Rafizi: You need to command. You need to command kan. Jadi sebab itu one credit kepada UMNO lah semasa UMNO menjadi kerajaan 50 tahun lebih, Menteri Pendidikan ni sebenarnya menteri paling kanan. Sebab itu kalau tengok semua Perdana Menteri kita semua pernah jadi Menteri Pendidikan. Daripada Tun Mahathir sebelum dia jadi Timbalan Perdana Menteri, dia Menteri Pendidikan. Kemudian Pak Lah saya ingat pernah jadi Menteri Pendidikan. Kemudian Najib Menteri Pendidikan, Muhyiddin Menteri Pendidikan. Ismail Sabri aje tak pernah. Datuk Seri Anwar Menteri Pendidikan. Jadi semua adalah Menteri Pendidikan ni kena menteri kanan. Dan saya ingat dia di akhir-akhir pentadbiran Datuk Seri Najib aje yang Menteri Pendidikan ini bukan Naib Presiden. Datuk Seri Mahdzir Khalid, masa tu dia bukan Mahdzir Khalid. Mahdzir Khalid ke Mahdzir Khalid?
 
-[2:24:55] Speaker 3: Mahdzir Khalid.
+[2:24:55] Multiple speakers: Mahdzir Khalid.
 
 [2:24:59] Haziq: Mahdzir Khalid. Padang Terap.
 

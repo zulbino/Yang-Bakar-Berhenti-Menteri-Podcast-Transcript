@@ -1,0 +1,336 @@
+{
+  "_what": "Owner-adjudicated speaker decisions, applied by scripts/apply_split_map.py. The only record of WHY a name was chosen: every entry came from the owner listening, not from a tool. Kept under a TRACKED path on purpose -- the earlier ep26 map lived at data/_ep26_speaker1_map.json, which `data/_*` gitignores, so those identifications were absent from the repo's history while the names they produced were published.",
+  "_note": "Blocks the owner split BY EAR, 2026-08-29. Same shape as _ep26_speaker1_map.json. Each entry is one raw.md block that held more than one speaker with no marker of any kind -- the defect class documented in ENGINEERING_LOG 2.6 and listed by buried_turn_candidates.py. Timestamps for the new sub-turns are read from the episode's YouTube caption track (audio/<video_id>.ms.vtt), NOT interpolated: reusing the parent block's stamp would have put ep41's question 17 minutes early.",
+  "_method": "Owner listened at the estimated moment and dictated the turn sequence. Text boundaries below are literal substrings of the parent block, asserted unique before the cut.",
+  "ep53": {
+    "block": "1:45:35",
+    "was": "Rafizi",
+    "turns": [
+      {
+        "at": "1:45:35",
+        "who": "Rafizi",
+        "until": "Baik, kita dah lama ni tau pasal ni kan."
+      },
+      {
+        "at": "1:46:03",
+        "who": "Haziq",
+        "until": "Ya, 1 jam 45 minit."
+      },
+      {
+        "at": "1:46:05",
+        "who": "Rafizi",
+        "until": "So apa yang perlu dibuat dan kenapa jadi macam ni?"
+      },
+      {
+        "at": "1:46:18",
+        "who": "Haziq",
+        "until": "Soalan yang menarik"
+      },
+      {
+        "at": "1:46:19",
+        "who": "Rafizi",
+        "until": null
+      }
+    ],
+    "_corrects": "My own reading called 'Baik, kita dah lama ni tau pasal ni kan.' a co-host run-sheet line on register grounds (timekeeping plus a segment transition). It is Rafizi. The rewrite made the same mistake in the other direction, grouping Rafizi+Haziq+Rafizi into one unlabelled turn -- the identical seam error as ep26, where a boundary between two Rafizi turns straddling an interjection read as one speaker."
+  },
+  "ep41": {
+    "block": "2:33:49",
+    "was": "Rafizi",
+    "turns": [
+      {
+        "at": "2:33:49",
+        "who": "Rafizi",
+        "until": "Lepas satu, satu, lepas satu, satu lah."
+      },
+      {
+        "at": "2:51:37",
+        "who": "Haziq",
+        "until": "Jadi macam mana YB jawab?"
+      },
+      {
+        "at": "2:52:19",
+        "who": "Rafizi",
+        "until": null
+      }
+    ],
+    "_note": "The parent block ran 13,756 characters, 2:33:49 to 2:51:37, with Haziq's question at character 13,134 -- 95% in. This is why the published files printed a bare `Speaker` for it and why name_published_placeholders.py scored Rafizi 3/3 and refused: the turn opens 'YB, sedikit soalan' and Rafizi is the YB."
+  },
+  "_still_open": "ep41's NEXT three raw blocks ([2:51:37] Haziq, [2:51:45] Rafizi, [2:51:46] Haziq) are shredded mid-sentence against the captions, which carry 2:52:19-2:52:34 as one continuous voice ('tak? Keadaan sebenarnya kita kena dinamik kan. Keadaan mesti kita semak daripada satu semasa ke semasa. Tadi saya bagi contoh diesel tu kan semasa program design tu dibuat tahun 2024') with a change only at 2:52:35. NOT adjudicated, NOT touched.",
+  "_round2": "Owner adjudicated the full unresolved-cluster list by ear, 2026-08-29. Split timestamps again read from audio/61L_JC1oCR4.ms.vtt, not interpolated. Where a turn is renamed only, the raw TEXT is left exactly as transcribed -- the owner's quotes tidy the wording (e.g. 'Kita.... Ah itu Jason' for raw's 'Kita Itu Jason') and applying those would be a transcription edit, not an attribution one.",
+  "ep19_round2": {
+    "1:43:04": {
+      "who": "Haziq",
+      "was": "Speaker 3",
+      "text_was": "MRT.",
+      "text_now": "Hmm",
+      "_note": "An ASR error, not just a label. The caption at 1:43:04 reads '>> Hmm.' My own reading had taken 'MRT.' at face value and reasoned about who would guess it -- reasoning about a word that was never said."
+    },
+    "2:24:55": {
+      "who": "Multiple speakers",
+      "was": "Speaker 3",
+      "_note": "Rafizi and Farhan together. Captions show voices overlapping the name across 2:24:52-2:24:55 ('Mahathir Khalid.' / 'Mahathir Khalid ke Mahathir Khir?' / 'Mahathir Khir.'). Mahdzir Khalid is a real person (ms.wikipedia.org/wiki/Mahdzir_Khalid); raw already spells it right, 46/46 correct corpus-wide.",
+      "_roster_gap": "FARHAN IS IN ep19 AND raw.md NEVER LABELS HIM. Its frontmatter lists two hosts, raw has only Rafizi + Haziq, and rebuild_roster.py derives hosts FROM those labels, so it cannot know. Not fixed -- needs the owner's call on whether ep19's roster gains Farhan."
+    }
+  },
+  "ep26_round2": {
+    "05:13": {
+      "who": "Multiple speakers",
+      "_note": "Collapsed 4 turns into 1 per the established convention (group_shredded_turns.py: fragments joined by ' ... ', every word kept in order). 'Tak' + 'payah buat TikTok lah malam ni' is ONE sentence split across Haziq and Speaker 1, so the run cannot be apportioned. The tool itself detects 0 runs here, so this was applied by hand to its convention.",
+      "merge": 4,
+      "_was_described": "Speaker 1 x3 + Haziq"
+    }
+  },
+  "ep53_round2": {
+    "11:41": {
+      "who": "Haziq"
+    },
+    "29:59": {
+      "split": [
+        [
+          "Haziq",
+          "Okey, baik, YB.",
+          "29:59"
+        ],
+        [
+          "Rafizi",
+          "Beria,",
+          "30:00"
+        ]
+      ]
+    },
+    "34:39": {
+      "who": "Haziq"
+    },
+    "1:58:48": {
+      "who": "Farhan (Pa'an)"
+    },
+    "2:05:29": {
+      "split": [
+        [
+          "Haziq",
+          "Baik Dah meletup pun Dah meletup pun Okay YB",
+          "2:05:29"
+        ],
+        [
+          "Rafizi",
+          "So kita ada berapa minit lagi",
+          "2:05:33"
+        ],
+        [
+          "Multiple speakers",
+          null,
+          "2:05:35"
+        ]
+      ],
+      "_open": "RESOLVED by the owner: the tail is Multiple speakers. Captions put >> changes at 2:05:35, 2:05:40 and 2:05:41 inside it, so it is a genuine multi-voice exchange rather than one unknown person."
+    },
+    "2:15:26": {
+      "who": "Rafizi"
+    },
+    "2:15:28": {
+      "who": "Rafizi",
+      "_note": "Owner reads both as one Rafizi turn: 'RM35,000. Okeylah itu bahan kempen.' Labels applied; turn structure left alone."
+    },
+    "2:19:13": {
+      "split": [
+        [
+          "Rafizi",
+          [
+            "Human resource",
+            1
+          ],
+          "2:19:13"
+        ],
+        [
+          "Haziq",
+          "Itu je lah kot",
+          "2:19:15"
+        ],
+        [
+          "Farhan (Pa'an)",
+          "Okay Okay Human resource lah",
+          "2:19:17"
+        ],
+        [
+          "Multiple speakers",
+          null,
+          "2:19:18"
+        ]
+      ],
+      "_open": "RESOLVED by the owner: 'Takde' is Multiple speakers. The caption '>> tak ada haah' at 2:19:18 is its own speaker change, so it is not Farhan's tail."
+    },
+    "2:24:00": {
+      "who": "Rafizi"
+    },
+    "2:59:47": {
+      "who": "Multiple speakers",
+      "_note": "Rafizi and Haziq together."
+    }
+  },
+  "_owner_principle": "Owner's ruling on both tails, and the standing tie-breaker: where a shredded run cannot be apportioned, use `Multiple speakers` rather than spend another listen -- 'at the end of the day, substance of the talk is more important'. So a multi-voice crosstalk run gets the honest group label; do NOT come back and ask per fragment.",
+  "ep26_fillers": {
+    "09:43": {
+      "who": "Speaker ?",
+      "was": "Speaker 1",
+      "text_was": "apa. Beria macam"
+    },
+    "09:59": {
+      "who": "Speaker ?",
+      "was": "Speaker 1",
+      "text_was": "Itu zaman"
+    },
+    "10:39": {
+      "who": "Speaker ?",
+      "was": "Speaker 1",
+      "text_was": "Well, yalah saya saya"
+    },
+    "1:26:29": {
+      "who": "Speaker ?",
+      "was": "Speaker 1",
+      "text_was": "nasisis. Terus."
+    },
+    "1:41:55": {
+      "who": "Speaker ?",
+      "was": "Speaker 1",
+      "text_was": "Hmm"
+    },
+    "1:50:30": {
+      "who": "Speaker ?",
+      "was": "Speaker 1",
+      "text_was": "Hmm."
+    },
+    "2:09:36": {
+      "who": "Speaker ?",
+      "was": "Speaker 1",
+      "text_was": "Mungkin"
+    },
+    "2:10:38": {
+      "who": "Speaker ?",
+      "was": "Speaker 1",
+      "text_was": "end with the bank. Hmm,"
+    }
+  },
+  "ep53_fillers": {
+    "14:11": {
+      "who": "Speaker ?",
+      "was": "Speaker 3",
+      "text_was": "Hmm"
+    },
+    "18:43": {
+      "who": "Speaker ?",
+      "was": "Speaker 3",
+      "text_was": "Ya."
+    },
+    "51:16": {
+      "who": "Speaker ?",
+      "was": "Speaker 3",
+      "text_was": "Ya"
+    },
+    "1:14:05": {
+      "who": "Speaker ?",
+      "was": "Speaker 3",
+      "text_was": "Yes."
+    },
+    "1:34:45": {
+      "who": "Speaker ?",
+      "was": "Speaker 3",
+      "text_was": "Haa"
+    },
+    "1:43:25": {
+      "who": "Speaker ?",
+      "was": "Speaker 3",
+      "text_was": "Han,"
+    },
+    "1:45:31": {
+      "who": "Speaker ?",
+      "was": "Speaker 3",
+      "text_was": "pun kencing."
+    },
+    "1:45:34": {
+      "who": "Speaker ?",
+      "was": "Speaker 3",
+      "text_was": "tu"
+    },
+    "1:56:37": {
+      "who": "Speaker ?",
+      "was": "Speaker 3",
+      "text_was": "hmm"
+    },
+    "2:14:42": {
+      "who": "Speaker ?",
+      "was": "Speaker 3",
+      "text_was": "Teruskan."
+    },
+    "2:17:33": {
+      "who": "Speaker ?",
+      "was": "Speaker 3",
+      "text_was": "ya?"
+    },
+    "2:38:40": {
+      "who": "Speaker ?",
+      "was": "Speaker 3",
+      "text_was": "kan. Wah"
+    }
+  },
+  "_fillers_note": "The residue after the owner adjudicated every substantive turn: short acknowledgements and seam fragments ('Hmm', 'Ya', 'Haa', 'apa. Beria macam'). Set to `Speaker ?` WITHOUT a listen, on the owner's standing principle that substance outranks per-fragment attribution. `Speaker ?` not `Multiple speakers`: these are one unidentified person each, not crosstalk -- the two labels make different claims. `Speaker ?` is the repo's marker for an acknowledged unknown, raises no QA flag (check_published.PLACEHOLDER_RE matches only NUMBERED clusters, deliberately), and follows the ep36 precedent where a 0.8-second cluster became `Speaker ?` rather than a name no method could support. Reversible: delete these two blocks and re-run to get the cluster ids back.",
+  "ep41_retime": {
+    "2:51:37": {
+      "at_now": "2:52:22",
+      "was": "Haziq",
+      "text_was": "mesti kita semak daripada satu semasa ke semasa. Tadi saya bagi contoh diesel tu kan. Semasa program design tu dibuat tahun 2024. Hmm. Itu"
+    },
+    "2:51:45": {
+      "at_now": "2:52:35",
+      "was": "Rafizi",
+      "text_was": "yang terbaik yang dipikirkan pada masa"
+    },
+    "2:51:46": {
+      "at_now": "2:52:37",
+      "was": "Haziq"
+    },
+    "2:52:19": {
+      "at_now": "2:53:13",
+      "was": "Rafizi",
+      "text_was_startswith": "dia yang kempen pasal harga minyak ni dulu kan."
+    }
+  },
+  "_ep41_retime_note": "TIMESTAMPS ONLY -- no label or word changes. Splitting Haziq's question out of the [2:33:49] block put Rafizi's answer at its true 2:52:19, which exposed a backward jump: three following blocks were still stamped 2:51:37-2:51:46. The captions place their text at 2:52:22 ('dinamik kan. Keadaan mesti kita semak'), 2:52:35 ('Itu yang terbaik yang difikirkan pada'), 2:52:37 ('masa itu. Selepas dua tahun kita akan') and 2:53:13 ('sebab dia yang kempen pasal harga minyak'), so all four were mistimed by 30-55s before this session touched anything. The jump was revealed, not caused. Their LABELS remain shredded against the captions -- still not adjudicated, see _still_open.",
+  "ep26_round1_preserved": {
+    "_note": "ep26 Speaker 1 is a SPLICED cluster: owner-confirmed per turn, 2026-08-29.",
+    "05:22": "Rafizi",
+    "21:57": "Rafizi",
+    "09:04": "Rafizi",
+    "2:24:04": {
+      "split": [
+        [
+          "Farhan (Pa'an)",
+          "Kita lupa. Kita lupa."
+        ],
+        [
+          "Rafizi",
+          "Memang ... teruk aku kan this ... week."
+        ]
+      ]
+    },
+    "2:26:43": {
+      "split": [
+        [
+          "Rafizi",
+          "we should strive better."
+        ],
+        [
+          "Haziq",
+          "Kena cari lagi."
+        ],
+        [
+          "Rafizi",
+          "Point finger kepada Fuzia. Sebab ada Fuzia sebagai beria terulung ni."
+        ]
+      ]
+    },
+    "07:17": "Rafizi",
+    "21:16": "Rafizi",
+    "28:41": "Rafizi"
+  }
+}

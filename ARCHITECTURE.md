@@ -147,6 +147,13 @@ python scripts/retime_blocks.py ep61 --write
 # Speaker labels that appear in interview*.md but never in raw.md
 python scripts/label_drift_audit.py
 
+# A turn marker buried mid-paragraph inside another speaker's block, so the words after
+# it publish under the wrong name. Also drops a leading label holding NO words, which is
+# a diarizer segment the ASR returned nothing for. ep53 hid six of these plus four
+# wordless labels, one of them a whole run-sheet segment publishing as Rafizi (2.6)
+python scripts/split_inline_turns.py
+python scripts/split_inline_turns.py ep53 --write
+
 # Correct ASR-garbled proper nouns from a reviewed map, one entry per owner decision.
 # NOT a majority-vote normaliser: the majority spelling is wrong for Fuziah Salleh and
 # right for Akmal Saleh, in the same corpus (2.5). Re-run after any gate batch, which
@@ -186,7 +193,25 @@ python scripts/verify_speaker_voiceprint.py --episodes ep45 --per-block Rafizi
 
 # Apply the rename. A swap needs a single pass, which is the whole point of this tool
 python scripts/relabel_speakers.py ep36 "Cincong=Rafizi" "Rafizi=Cincong" --dry-run
+
+# When both methods above have run out: one HTML page of every unresolved numbered
+# cluster, each linked into the video 6s early with the turn either side for context.
+# Prints no guess, because text adjacency does not carry direction (2.6)
+python scripts/adjudicate_speakers.py
+
+# A co-host buried inside a long block labelled Rafizi. Two text signals, both independent
+# of the label under suspicion: a vocative "YB" (never Rafizi, he IS the YB) and run-sheet
+# phrasing. Locates the SECOND to look at, via word-level caption timings.
+# CAVEAT (2.6): it windows each block as [start, next_block_start), so it under-scans when
+# a block's words run past the next block's timestamp. That false negative is why ep41's
+# buried question survived a pass with this tool -- fix the timing first
+python scripts/cohost_candidates.py ep41 ep53 --min-block=120
 ```
+
+Timestamps for a turn split out of a long block come from the episode's caption track
+(`audio/<video_id>.ms.vtt`), not from reusing the parent block's stamp. ep41's split sits at
+95% of a 13,756-character block, where reuse would have been 17 minutes early. The caption
+`>>` markers are NOT a speaker-change signal, however much they look like one (2.6).
 
 After relabelling `raw.md`, regenerate the rewrites rather than renaming inside them:
 `interview*.md` label sets drift from `raw.md` in ways no mapping can express (1.27).
@@ -235,6 +260,7 @@ behind this table is 1.11, 1.14, 1.17, 1.23 and 1.25.
 | `speaker-attribution` | Most of an episode credited to someone other than Rafizi (1.27) | Wrong names on the *smaller* labels, and legitimately guest-led episodes, which it reports for judgement rather than assuming |
 | `generic-label`, `published-placeholder`, `label-mismatch`, `duplicate-turn`, `malay-loss`, `inline-turn-marker` (`check_published.py`) | Defects in the three `interview*.md` files a reader actually sees (1.39) | Anything the rewrite got wrong that still reads as well-formed |
 | `raw-unnamed-speaker` | A real person `raw.md` never names, on a role word like `Moderator` or `Audience` that `placeholder-label` misses because it only matches numbered clusters. Split out of `generic-label`, which was blaming the rewrite for 351 turns it had faithfully copied (2.4) | Nothing yet -- but the fix is speaker attribution, not regeneration, so it will not clear from a rewrite batch |
+| `unlabelled-turn` | A published turn with NO speaker label at all, its first sentence bolded where the label belongs. `TURN_RE` requires the colon, so this was invisible to every label check -- and therefore scored BETTER than a generic label, which is how `gate_rewrite.py` came to promote one (2.6) | Nothing yet. Note the CAUSE is upstream: raw.md burying a second speaker inside a named block, which no check finds -- see `cohost_candidates.py`, and note its windowing caveat in 2.6 |
 | `unsourced-figure` (`check_figures.py`) | A figure in the published text with no counterpart in `raw.md` -- a changed digit or a changed scale word, e.g. `8.2 bilion` for raw's `8.2 juta` (1.39) | Figures whose digits are all present but REGROUPED, e.g. raw's `10, RM300` printed as `RM10,300`. Bare years, excluded on purpose |
 
 Every check above the last two rows reads `raw.md`. **`raw.md` is not what anybody

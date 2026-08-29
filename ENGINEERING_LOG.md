@@ -2626,7 +2626,7 @@ almost as badly as the Farhash case. It does not: **`Fuzia` is a prefix of `Fuzi
 that grep was counting every correct spelling as a defect. With a negative lookahead the
 real garble count is 24 against 244 correct. I had already quoted the inflated figure
 before checking it. Any count of a name that is a prefix of another name needs an explicit
-boundary, and `` is not safe to write here either -- through a nested heredoc it becomes
+boundary, and `\b` is not safe to write here either -- through a nested heredoc it becomes
 a literal backspace and then silently matches nothing, which is the same class of failure.
 
 **Then the actual trap.** Fuziah Salleh's surname is garbled to `Saleh` 13 times, and the
@@ -2688,3 +2688,175 @@ Found during a code review of the forced-alignment work above, both fixed
   downgrade that chunk to whole-chunk labeling with zero log output. Now
   checks the exception message for the specific `"targets length is too long
   for CTC"` string before applying the fallback, and re-raises anything else.
+
+### 2.6: Three of the last five flags were stale output, and a defect no check can see
+
+The handoff said the five remaining flags were "one defect class, all needing the owner's
+ear." Three were not, and measuring the gap between `raw.md` and the published files was
+enough to tell which:
+
+| ep | raw generic | published generic | floor | what it actually was |
+|---|---|---|---|---|
+| ep56 | 0 | 267 | 0 | stale published output |
+| ep41 | 0 | 3 | 0 | a co-host buried inside a Rafizi block |
+| ep26 | 11 | 39 | 33 | raw fixed earlier, published never regenerated |
+| ep53 | 22 | 57 | **66** | published sat BELOW the floor |
+| ep19 | 2 | 6 | 6 | genuinely unresolved |
+
+ep56's `raw.md` names every turn while its published files printed `Speaker 2` **89 times
+in each of three files**. That is the 2.4 lesson again -- assume nothing about a flag until
+raw and published are compared -- and it was sitting behind a diagnosis that said the audio
+was the problem.
+
+**The gate could not have promoted ep53, because its label axis had no floor.** `generic_turns`
+counted every generic published turn raw-blind. Correct for ep56, where raw names everything
+and the gap is the rewrite's alone. Wrong in the other direction: where raw leaves a turn on
+`Speaker 3`, no faithful rewrite can name it, so an honest candidate RISES toward raw's own
+count and the veto reads that as a regression. ep53's incumbent scored 57 against a floor of
+66 -- **nine turns below what raw supports, which is only reachable by inventing
+attributions** -- so every honest candidate would have been rejected for stopping guessing.
+This is exactly the inversion `check_published` already corrected when it stopped blaming
+the rewrite for 351 turns raw itself leaves unnamed; the gate had kept the old definition.
+`generic_floor()` fixes it, and nine cases pin the behaviour, including the historic
+YBkM-ep02 regression (33 -> 234), which still rejects even with a Malay gain.
+
+Verdicts: ep26, ep53 and ep56 promoted, **ep41 rejected at 3 -> 24 generic turns**, which is
+the gate doing its job against rewrite variance. QA 5 -> 4.
+
+**ep53 was burying turn markers, and the check under-reported it by six.** Its
+`inline-turn-marker` flag said one lost paragraph break. There were seven markers across six
+blocks, because the check `break`s after the first. Four of those blocks opened with a label
+holding **no words at all** -- `[2:05:27] Speaker 3: [2:05:29] Speaker 1: Baik Dah meletup
+pun` -- a diarizer segment the ASR returned nothing for, where the empty label reads as the
+owner of the text that follows. Worst single case: `[34:39] Speaker 2` held an entire
+run-sheet segment ("Sekarang kita kena Tengok pula AMK buat hal apa minggu ini") that
+published under Rafizi, and this repo already records that the run-sheet voice is never
+Rafizi. `split_inline_turns.py` splits them and drops the wordless ones; the check now counts
+every block. Contained to ep53 corpus-wide.
+
+**ep41 is a defect class nothing detects.** Its `[2:33:49] Rafizi` block runs 13,774
+characters and holds a co-host's devil's-advocate question verbatim at character 13,179,
+answer following. No inline marker, so the splitter cannot see it. A real name, so no
+placeholder check fires. All the text present, so no completeness check fires. **The rewrite
+was the only stage that noticed** -- it split the question out and, having no name, wrote
+`Speaker`, which is the flag. `name_published_placeholders.py` refused to name it, scoring
+Rafizi 3/3 on word overlap, and the refusal saved a wrong rename: the turn opens "YB, sedikit
+soalan devil's advocate" and Rafizi IS the YB. Its own comment predicted this -- role labels
+scored by overlap measure shared topic, and Rafizi wins any overlap by volume.
+
+Corpus-wide the shape is visible: median block 81 characters, p95 2,450, **53 blocks over
+8,000 and every one of the largest fourteen labelled Rafizi**. A vocative `YB` inside a
+Rafizi block fires on 95 blocks -- he does not address himself as YB.
+
+**And I wrote a tool that already existed.** `cohost_candidates.py` has used the YB-vocative
+signal since 1.32, with run-sheet phrasing as a second signal and word-level caption timings
+instead of the interpolation I built. I only found it in ep41's own `oversized-block` waiver,
+which cites it. Mine was deleted; searching the repair tools before writing would have cost
+a minute. The signal is also not flag material either way -- Rafizi RELAYING speech aimed at
+him looks identical ("Orang tanya saya, YB, you bising lah"), and so does reading a letter
+aloud (ep43's "Untuk makluman YB, saya telah dihubungi"). A speech-verb filter catches 8 of
+8 real buried turns but only 2 of 5 quotations, because the introducer sits a whole sentence
+back, and ~40% false positives over 82 blocks is the over-firing that took `generic-label`
+to 351 turns.
+
+**The reason the existing tool missed ep41 is worth more than the tool I wrote.** It windows
+each block as `[start, next_block_start)` and reports `0 candidates from 1846 words` for the
+very block holding three YB vocatives. The block was stamped 2:33:49-2:51:37 while its text
+ran to 2:52:19, because the FOLLOWING blocks were mistimed by 30-55s -- so the vocatives sat
+at or past `end` and fell outside the window. **A pass with this tool is only as good as the
+timestamps bounding it**, and the waiver that trusted its zero for ep41's other block was
+resting on that. Retimed from the captions (2:52:22 / 2:52:35 / 2:52:37 / 2:53:13), the
+ordering is monotonic and the tool's zero for that block is now true rather than an artefact.
+
+**One trap re-hit, already written down in 2.5.** Patching `check_figures.py` through a
+heredoc turned `\b` into a literal backspace (0x08) and left `SCALE_WORD` matching nothing
+at all -- not just the word being added, every scale word. 2.5 records this exact failure.
+Writing regex backslashes through a nested heredoc does not work; use an editor.
+
+ep56's promotion surfaced a figure flag that was a check gap, not a fabrication. Raw says
+`Hmm 40 40 miliar lah 1.6B`; the rewrite printed the house spelling `40 bilion`. `miliar` was
+missing from `SCALE`, so raw's figure never tokenised and the published one had nothing to
+match. Same number, same 1e9. Added -- and note a bare `miliar` grep counts 6 because it is
+a substring of **familiar**, the same prefix trap as 2.5's `Fuzia`/`Fuziah`; with a boundary
+there is exactly one in the corpus.
+
+Remaining: ep19 (2 turns), ep26 (11), ep41 (1), ep53 (22). All need the audio.
+`adjudicate_speakers.py` puts the 35 raw-side ones on one page, each linked into the video
+six seconds early with the turn either side, and prints no guess -- the ep26 reading that
+inferred a speaker from mid-sentence continuation was wrong, and the owner's per-turn answer
+split two of those blocks across three speakers.
+
+**Owner adjudicated both buried turns by ear, and corrected me on one.** ep41's
+devil's-advocate question is Haziq, as expected. ep53's block is a five-way split, and the
+part I read wrongly is the one I would have written in:
+
+    [1:45:35] Rafizi  ... Spine punya apa nama ni masalah kan. Baik, kita dah lama ni
+                          tau pasal ni kan.
+    [1:46:03] Haziq       Ya, 1 jam 45 minit.
+    [1:46:05] Rafizi      1 jam 45 minit pasal benda ni? Eh tak lah. Okay, so kita nak
+                          kena pergi kepada killer question. ... kenapa jadi macam ni?
+    [1:46:18] Haziq       Soalan yang menarik
+    [1:46:19] Rafizi      Kan aku dah tanya kau. Aku dah bagi tip dulu tadi. ...
+
+I had argued "Baik, kita dah lama ni tau pasal ni kan" was a co-host on REGISTER grounds --
+timekeeping plus a segment transition, and this repo records that the run-sheet voice is
+never Rafizi. **It is Rafizi.** The register heuristic is sound as a signal and useless as
+a verdict: Rafizi runs the clock and calls the next segment himself. The rewrite failed the
+same way in the opposite direction, grouping Rafizi + Haziq + Rafizi into one unlabelled
+turn -- the identical seam error as ep26, where a boundary between two Rafizi turns
+straddling an interjection read as a single speaker. **Two independent attempts to infer
+this from text, two wrong answers, one right answer from four seconds of listening.**
+
+Timestamps for the new sub-turns come from the episode's YouTube caption track, not from
+interpolation. Reusing the parent block's stamp -- the ep26 precedent -- would have put
+ep41's question at 2:33:49 when the captions place it at 2:51:37, seventeen minutes out,
+because the split sits at 95% of a 13,756-character block. `audio/<video_id>.ms.vtt` is
+already on disk for both.
+
+**And the caption `>>` markers are not a speaker-change signal, though they look like one.**
+They land exactly on ep53's four boundaries, which is what made them tempting. In ep41 they
+also fire three times inside what the owner reads as one continuous Haziq question ("marah
+orang semua kata rakyat ketagih", "Jadi yalah", "er juga disumbangkan oleh ahli politik").
+Useful for finding a moment; not evidence of who is speaking.
+
+Adjudications recorded in `data/speaker_adjudications.json`, which also carries the one thing
+deliberately NOT touched: ep41's next three blocks ([2:51:37] Haziq, [2:51:45] Rafizi,
+[2:51:46] Haziq) are shredded mid-sentence against captions that hold 2:52:19-2:52:34 as
+one voice with a change only at 2:52:35.
+
+**Closed at QA 0/68.** The owner adjudicated all 35 remaining cluster turns across ep19,
+ep26 and ep53 in two messages, given a link per turn seeked six seconds early with the turn
+either side. 13 were substantive rulings, one of them a text correction; the 20 residual
+one-word acknowledgements went to `Speaker ?` without a listen, on the owner's standing
+principle that substance outranks per-fragment attribution. Crosstalk that cannot be
+apportioned gets `Multiple speakers` -- a different claim from `Speaker ?`, which is one
+unidentified person. Corpus-wide: 0 numbered clusters in raw, 0 in the published files, 0
+buried turn markers, 0 unlabelled turns, 0 backward jumps.
+
+`apply_split_map.py` applies the map and refuses to change words -- every operation is a
+relabel, a boundary move or a retime, and the word sequence of a touched block is asserted
+identical before and after. Building it surfaced three things the naive version got wrong:
+
+- **A timestamp is not unique.** ep26 repeats 14 of them and ep53 17, partly because a split
+  re-uses the parent stamp. Keying rules on the stamp alone matched two turns at ep26
+  `[09:59]` -- `Speaker 1: "Itu zaman"` and `Rafizi: "dahulu. Ini ada orang tag lah..."`.
+  Rules now pin the label and the text, and a long block can pin by prefix.
+- **An anchor can repeat inside its own block.** ep53 `[2:19:13]` is "Human resource Itu je
+  lah kot Okay Okay Human resource lah Takde", so "cut after Human resource" had two valid
+  answers and the owner's Rafizi turn is the first. Ambiguity is refused, not resolved by
+  taking the first match.
+- **It has to be idempotent**, because the map is re-run whole as it grows. Without that a
+  rename is a silent no-op, a merge eats the following turns, and a `text_now` whose
+  `text_was` already changed aborts the run.
+
+One narrow exception to the no-words rule: `text_now`, used once. ep19 `[1:43:04]` was
+transcribed "MRT." and the caption reads ">> Hmm." I had reasoned at length about who would
+guess MRT in a quiz about debt-causing projects -- confident analysis of a word nobody said.
+The owner's other quotes normalise punctuation ("Kita.... Ah itu Jason" for raw's "Kita Itu
+Jason") and were deliberately NOT applied: that is rewriting the transcript, not attributing it.
+
+Still open, both recorded in `data/speaker_adjudications.json` rather than guessed: **ep19's
+roster** (the owner places Farhan at 2:24:55, but raw never labels him and
+`rebuild_roster.py` derives hosts FROM those labels, so it cannot discover him), and
+**ep41's three retimed blocks**, whose labels remain shredded mid-sentence against captions
+that hold 2:52:19-2:52:34 as one voice.
