@@ -10,7 +10,7 @@ The transcripts are checked against two other sources. The first is each episode
 
 This archive covers full episodes of an hour or more. It leaves out short teasers, clip highlights, quote-card snippets, and the shorter-format episodes in the same playlist.
 
-> An AI model produced these transcripts and rewrites. I spot-checked them against the source recordings, but I have not checked any episode line by line. Please read the [accuracy note](#accuracy-note) before you cite anything here. [METHODOLOGY.md](METHODOLOGY.md) sets out what produced each file, the errors I have found and measured, and how to report one.
+> AI tools transcribed these episodes from the audio and rewrote the result into readable interviews. I spot-checked them against the source recordings, but I have not checked any episode line by line. Please read the [accuracy note](#accuracy-note) before you cite anything here. [METHODOLOGY.md](METHODOLOGY.md) sets out what produced each file, the errors I have found and measured, and how to report one.
 
 For the pipeline itself, see [ARCHITECTURE.md](ARCHITECTURE.md). For every failure I hit while building it, see [ENGINEERING_LOG.md](ENGINEERING_LOG.md).
 
@@ -152,7 +152,7 @@ All four files share the same YAML frontmatter (title, video ID, YouTube URL, pu
 
 ## Accuracy note
 
-An AI model produced these transcripts and rewrites by listening to the source audio. Every episode is audited automatically (see below), and I listened to the original recording wherever a passage needed a human decision: a disputed speaker label, content that looked like it was missing, an unusual name. **I have not verified any episode line by line**, so errors, mishearings and misattributed speaker turns are still possible, especially during cross-talk. Code-switching between Bahasa Melayu and English is preserved rather than translated. Treat `raw.md` as the closer-to-source reference, and `interview.md` as an editorial rewrite built on top of it.
+AI tools transcribed these episodes by listening to the source audio, then rewrote the result into readable interviews. Every episode is audited automatically (see below), and I listened to the original recording wherever a passage needed a human decision: a disputed speaker label, content that looked like it was missing, an unusual name. **I have not verified any episode line by line**, so errors, mishearings and misattributed speaker turns are still possible, especially during cross-talk. Code-switching between Bahasa Melayu and English is preserved rather than translated. Treat `raw.md` as the closer-to-source reference, and `interview.md` as an editorial rewrite built on top of it.
 
 For episodes transcribed with the local ASR fallback (see [ARCHITECTURE.md](ARCHITECTURE.md#known-limitations)), the `raw.md` speaker labels come from a separate acoustic diarization pass with pyannote.audio rather than from Gemini's own diarization. They start as anonymous "Speaker N" labels, and I map them to real names by hand during review, the same as I do with Gemini's generic labels. Treat the labels on any episode I haven't reviewed yet as unverified, particularly during fast multi-speaker exchanges.
 
