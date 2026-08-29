@@ -152,11 +152,11 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [18:49] Iqbal: Haa Tapi dalam situasi begini Kita tak ada nak point of comparison ni Mana
 
-[18:55] Rafizi: Cuma satu lagi lah Yang aku nak cucuk daripada awal Pasal berianya UMNO bahagian pucung ni Ha ha ha Aku tak ingat kali terakhir UMNO menang di Puchong. Tahun bila? 2004 kot. 2003 sebab Puchong ni parlimen memang DAP. Kemudian DUN kat situ ada satu DAP dan satu lagi Amanah kan. Haa. Seri Serdang kan? Seri Serdang Amanah. Dan sebelum Amanah tu pun rasanya pas. Bukan UMNO pun. Jadi bagi satu bahagian UMNO yang... Hmm... Yalah, kali terakhir dipilih oleh rakyat mungkin lebih kurang 20 tahun yang lepas, sangatlah beria untuk mengugut, untuk memboykot dan memutus kerjasama dengan PH di peringkat parlimen dengan DUN sebab besar kemungkinan dia tak ada kesan pun. Hahaha
+[18:55] Rafizi: Cuma satu lagi lah Yang aku nak cucuk daripada awal Pasal berianya UMNO bahagian Puchong ni Ha ha ha Aku tak ingat kali terakhir UMNO menang di Puchong. Tahun bila? 2004 kot. 2003 sebab Puchong ni parlimen memang DAP. Kemudian DUN kat situ ada satu DAP dan satu lagi Amanah kan. Haa. Seri Serdang kan? Seri Serdang Amanah. Dan sebelum Amanah tu pun rasanya pas. Bukan UMNO pun. Jadi bagi satu bahagian UMNO yang... Hmm... Yalah, kali terakhir dipilih oleh rakyat mungkin lebih kurang 20 tahun yang lepas, sangatlah beria untuk mengugut, untuk memboykot dan memutus kerjasama dengan PH di peringkat parlimen dengan DUN sebab besar kemungkinan dia tak ada kesan pun. Hahaha
 
 [19:57] Iqbal: Ada tak apa-apa situasi di mana mungkin Perkara sebegini boleh Menunjukkan sesuatu parti atau sesuatu tempat itu Sebenarnya, okay, this comes from a place of principle Bukannya tengah beria sahaja You mean PH? You mean UMNO? Untuk diorang. Adakah kalau mungkin boleh ambil diorang secara serius kalau diorang keluar daripada parti mereka, apa mereka boleh-boleh buat?
 
-[20:23] Rafizi: Well, kalau contohnya, ialah maksudnya dia tak boleh semata-mata kalau... ialah ini perkara prinsip kan. Dia tak boleh semata-mata gimmick pergi buat demo dan memutuskan hubungan dengan PH di Pucung sajalah. Dia kena bawa the due process di dalam UMNO itu. Ataupun paling kurang, dan besar kemungkinan ada lantikan daripada UMNO di peringkat majlis, di peringkat JKP, jatankuasa penduduk kan. Paling kurang maksudnya lantikan-lantikan UMNO daripada UMNO bahagian Pucung, dalam mana-mana struktur yang melibatkan kerajaan negeri di bawah kerajaan PH, mereka kena letak jawatan lah. Barulah ada nampak prinsip. Barulah tak beria. Kalau tidak memang nampak beria. Tengok tu, you being senyum-senyum.
+[20:23] Rafizi: Well, kalau contohnya, ialah maksudnya dia tak boleh semata-mata kalau... ialah ini perkara prinsip kan. Dia tak boleh semata-mata gimmick pergi buat demo dan memutuskan hubungan dengan PH di Puchong sajalah. Dia kena bawa the due process di dalam UMNO itu. Ataupun paling kurang, dan besar kemungkinan ada lantikan daripada UMNO di peringkat majlis, di peringkat JKP, jatankuasa penduduk kan. Paling kurang maksudnya lantikan-lantikan UMNO daripada UMNO bahagian Puchong, dalam mana-mana struktur yang melibatkan kerajaan negeri di bawah kerajaan PH, mereka kena letak jawatan lah. Barulah ada nampak prinsip. Barulah tak beria. Kalau tidak memang nampak beria. Tengok tu, you being senyum-senyum.
 
 [21:22] Farhan (Pa'an): But, maybe nak tanya satu lagi angle lah, which is... Amno Puchong marah sebab tweet you'll be in kan or posting you'll be in I mean kalau setakat demo semua tu bukan tu dah macam keterlaluankah kalau kita nak compare reaksi orang kepada someone punya tweet ataupun someone punya posting would you say that that's an overstep? Tak
 
@@ -244,7 +244,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [46:26] Haziq: pilih satu lah yang ada yang
 
-[46:28] Iqbal: ada banyak-banyak yang paling yang paling beria personally saya rasa yang UMNO punya lah UMNO Pucong punya Azam
+[46:28] Iqbal: ada banyak-banyak yang paling yang paling beria personally saya rasa yang UMNO punya lah UMNO Puchong punya Azam
 
 [46:37] Haziq: Baki kalah
 

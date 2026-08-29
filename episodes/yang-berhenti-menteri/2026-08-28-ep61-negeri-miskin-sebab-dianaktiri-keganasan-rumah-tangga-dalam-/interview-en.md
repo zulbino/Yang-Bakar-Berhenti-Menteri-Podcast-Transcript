@@ -69,15 +69,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Assalamualaikum and greetings, Podcast Yang Berhenti Menteri, episode 61. As usual with brother Rafizi Ramli. Are you feverish or something with this jacket? Is there a reason for this jacket? What's this called, windbreaker?
 
-**Rafizi:** This is not windbreaker, this is a fail, actually. Is it bomber or bomber? Boma. Boma jacket. No, I always get free clothes and merchandise. Oh, free. It's just that I don't understand its product-market fit with Malaysian weather. It looks stylish, but man, it's so hot. So when they gave it to me, when to wear it? During the ceramah up there, sweating profusely. Day one was still hot too. So I'll wear it for the podcast, since it's usually cold with the air-con. Tonight it's not that cold, so they'll feel cold, and we'll need to lower the air-con a bit since I'm wearing this boma jacket. Okay.
+**Rafizi:** This is not windbreaker, this is a fail, actually. Is it bomber or bomber? Bomber. Bomber jacket. No, I always get free clothes and merchandise. Oh, free. It's just that I don't understand its product-market fit with Malaysian weather. It looks stylish, but man, it's so hot. So when they gave it to me, when to wear it? During the ceramah up there, sweating profusely. Day one was still hot too. So I'll wear it for the podcast, since it's usually cold with the air-con. Tonight it's not that cold, so they'll feel cold, and we'll need to lower the air-con a bit since I'm wearing this bomber jacket. Okay.
 
 **Haziq:** Okay baby. Long holiday, what will OBI do during the break? Just wanted to let people know. Day... day...
 
 **Rafizi:** Come on... what's this? Tomorrow, Saturday, in Melaka, there's a kenduri, then a ceramah.
 
-**Speaker ?:** Then Sunday, where? In Pucung.
+**Speaker ?:** Then Sunday, where? In Puchong.
 
-**Haziq:** Sunday in Pucung, right in Pucung, our HQ. That's all for Sepang. Yes.
+**Haziq:** Sunday in Puchong, right in Puchong, our HQ. That's all for Sepang. Yes.
 
 **Speaker ?:** Then it's not... the 31st August holiday is also in the schedule.
 

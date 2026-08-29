@@ -20,15 +20,15 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [00:45] Haziq: Assalamualaikum dan salam sejahtera Podcast Yang Berhenti Menteri episod ke-61 Macam biasa bersama saudara Rafizi Ramli Demam ke weh dia pakai kod? Tak ada sebab Kod ni? Dia panggil apa ni? Windbreaker
 
-[00:57] Rafizi: This is not windbreaker This is fail lah saya Is it bomber ke bomber? Boma. Boma. Boma jaket. Taklah aku selalu dapat baju-baju dan merchandise percuma. Oh percuma. Cuma yang ini aku tak faham. Dia punya Product market fit Dengan cuaca Malaysia Nampak style lah tapi Yelah tapi panas Nak mampus Jadi bila dia bagi Aku nak pakai Masa mana Masa ceramah atas tu Panas berpeluh-peluh Masa day one pun Tetap panas So Pakai waktu podcast lah Pakai waktu podcast lah Selalunya aircon sejuk lah Malam ni tak sejuk sangat Nanti dia orang sejuk kan Nanti kena sejukkan sikit lah Sebab aku pakai Bommo jacket ni Okay
+[00:57] Rafizi: This is not windbreaker This is fail lah saya Is it bomber ke bomber? Bomber. Bomber. Bomber jaket. Taklah aku selalu dapat baju-baju dan merchandise percuma. Oh percuma. Cuma yang ini aku tak faham. Dia punya Product market fit Dengan cuaca Malaysia Nampak style lah tapi Yelah tapi panas Nak mampus Jadi bila dia bagi Aku nak pakai Masa mana Masa ceramah atas tu Panas berpeluh-peluh Masa day one pun Tetap panas So Pakai waktu podcast lah Pakai waktu podcast lah Selalunya aircon sejuk lah Malam ni tak sejuk sangat Nanti dia orang sejuk kan Nanti kena sejukkan sikit lah Sebab aku pakai Bommo jacket ni Okay
 
 [01:35] Haziq: okay Baik baby Cuti panjang OBI buat apa? Cuti? Haa, yelah. Saja je. Nak bagitahu orang. Hari... Hari...
 
 [01:41] Rafizi: Jum... Haa, apa ni? Hari... Sabtu esok ni Hari Sabtu di Melaka Keduri Kemudian Ceramah
 
-[01:47] Speaker ?: Kemudian hari Ahad di mana? Di Pucung
+[01:47] Speaker ?: Kemudian hari Ahad di mana? Di Puchong
 
-[01:50] Haziq: Ahad di Pucung Betul betul Pucung lah HQ Kita punya Itu untuk Sepang lah semua Yes lah
+[01:50] Haziq: Ahad di Puchong Betul betul Puchong lah HQ Kita punya Itu untuk Sepang lah semua Yes lah
 
 [01:55] Speaker ?: Lepas tu bukan hari... Cuti 31st Ogos itu pun ada dalam jadual.
 
