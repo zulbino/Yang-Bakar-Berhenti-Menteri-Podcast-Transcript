@@ -2353,6 +2353,102 @@ wrong name reads exactly like a right one, and the only reason it surfaced is th
 who knows the show watched the episode.
 
 
+### 1.43: Sensing the speaker instead of trusting the label, measured against gold data
+
+The owner's framing, and the reason this came before any more episode fixes: *"if we can't
+get this right and finetune to sense this, we will be stuck in a loop of neverending issue
+forever."* So this is a proof of concept scored against the first turn-level gold data in
+the project -- 18 turns of ep61 the owner wrote out by hand after watching and listening,
+now in `data/speaker_ground_truth.json`. No episode file was touched.
+
+**The starting numbers.** `raw.md` gets 11 of 18 = 61%, and the error is entirely
+one-sided: Haziq 9/9, Rafizi 2/9, with every failure a short Rafizi turn absorbed into a
+neighbouring Haziq block. `interview.md` matches `raw.md` in all 18 rows, which settles
+that the rewrite propagates attribution rather than setting it, so nothing downstream of
+`raw.md` can repair this.
+
+**Splitting the metric was the first thing that paid.** `_gt_score.py` reported one label
+per gold turn, so a diarizer that merged two turns and one that segmented perfectly but
+misnamed both scored identically -- and they need opposite fixes. Scored apart, pyannote at
+`clustering.threshold=0.55` puts a boundary within 0.75s of only **8 of the 16** gold
+speaker changes, and its **oracle ceiling is 67%**: even naming every cluster by its own
+majority cannot beat that, because one cluster swallows five short Rafizi turns and then
+votes Haziq. Its `pure@80` of 89% looks healthy and means the opposite of what it appears
+to -- a turn reads as 100% inside one cluster precisely because that cluster ate the whole
+exchange.
+
+**Stage A turned out to be free.** A turn change is a pause, and the YouTube caption track
+timestamps every word. Cutting at every gap of >=0.4s finds **16 of 16** gold speaker
+changes against pyannote's 8, at about 3x more boundaries than there are turns. That trade
+is the right way round here: `merge_same_speaker.py` repairs over-segmentation, and nothing
+recovers words from a merge.
+
+**Two failed attempts, both worth recording, because each was the obvious thing.**
+
+`v1` built voiceprints from `raw.md`'s long Haziq and Rafizi blocks and scored **44%, worse
+than the baseline**. The references agreed with each other at 0.936 while each agreed with
+itself at 0.923 and 0.905 -- no discriminative direction was left. Root cause: **6 of the 8
+blocks ep61's `raw.md` labels Haziq at >=40s measure as Rafizi**, while all 39 long Rafizi
+blocks agree with their label. The co-host label cannot seed a co-host reference on this
+corpus. (That finding is a machine measurement against a 90-second passage, so it is logged
+as a lead to check on video, not acted on.)
+
+`v2` tried to discover the co-host acoustically: mean-centre segment embeddings, 2-means,
+name the cluster nearer the Rafizi anchor. It scored **61%, tying the baseline and
+reproducing its exact one-sided bias**. Rafizi holds 148 of the episode's 175 minutes, so
+the pool mean *is* Rafizi; mean-centring removed the signal rather than the channel, and
+2-means returned near-antipodal centroids at cosine -0.995 along essentially noise. The
+degenerate split reported itself as "distinct", which is now a guard in the tracked script.
+
+**Why one voiceprint and a threshold can never work here, measured rather than assumed.**
+Scored by plain cosine against a Rafizi reference, 80 Rafizi blocks span 0.473-0.927 and 66
+co-host blocks span 0.448-0.919. The distributions sit on top of each other: on 3-second
+clips of a single recording the cosine is dominated by room and channel, not identity. Only
+the **difference of two class means** cancels the common component, so the axis needs both
+ends -- which is exactly why a co-host seed is unavoidable.
+
+**What broke the deadlock.** `YB` addresses Rafizi, so no `YB` is ever Rafizi speaking. It
+is the one cue on this corpus that is structural rather than stylistic, and the gold passage
+backs it -- turns 1, 10 and 12 all carry `YB` and are all Haziq. Seeding the co-host end
+from ep61's YB occurrences (`v3`) reached **67% and, more importantly, lifted Rafizi recall
+from 2/9 to 7/9**, breaking the one-sided bias for the first time.
+
+`v4` then fixed the three things `v3` was visibly wasting: 34 of 56 segments fell under the
+embedding floor and *inherited* a neighbour's name, which is the absorption bug at smaller
+scale; one seed clip sat on the wrong side of the axis it helped define; and 9 clips is a
+thin class mean. Merging to a floor so every unit is scored on its own audio, dropping
+wrong-side seeds, and one round of self-training from the most confidently scored segments
+gives **15 of 18 = 83%, with 16/16 boundary recall and Haziq 8/9, Rafizi 7/9**.
+Self-training sharpened ep61's reference cosine from 0.693 to 0.363, and converges in one
+round -- rounds 2 and 3 change nothing.
+
+**This does not reopen text inference.** `feedback_never_infer_speaker_from_text` still
+holds. Text is consulted once, to aim a microphone at about ten clips, then averaged and
+discarded. Every turn is decided by voice, and no turn's label is an inference from its own
+words.
+
+**The sweep says the merge floor is the only knob that matters.** At 0.7 boundary recall is
+16/16 and the score 83%; at 1.0 it is 13/16 and 78%; at 1.4 it is 12/16. Merging to get
+longer, better-scored segments destroys exactly the short-turn boundaries the whole exercise
+exists to recover. `keep=80` is worse than `keep=20`, because widening the kept set dilutes
+each class mean with segments that were never confidently scored. All 54 rows are in
+`data/diarization_bakeoff.json`, together with every rejected approach.
+
+**Where it stops is a hard floor, not a tuning problem.** The same three turns fail in every
+configuration that reaches 83%: `Mana ada cuti?` (0.36s), `Ya.` (no matched words) and `Kita
+memang beria.` (0.24s). They are the three shortest in the passage, and the embedder needs
+0.6s. Sub-second backchannels are out of reach, and `Ya.` is also the turn the gold data
+flags as carrying no textual cue at all -- neither signal reaches it. The direct attack is
+an embedding model with a shorter minimum window, not more parameters.
+
+**How thin this evidence is, stated plainly.** One passage, 18 turns, so a single turn is
+5.6%, and the parameters were tuned on it -- untuned defaults scored 78%, tuned 83%. Both
+beat 61%, but only a second hand-checked passage separates the method from the tuning. The
+one piece of independent support is the seed supply: `YB` appears a median of 50 times per
+episode and at least 4 times in all 68, and **ep61's 13 is the second-thinnest in the
+corpus**, so 83% was reached close to the worst case. That is evidence about the seed, not
+about the score. Nothing gets rewritten from this until a second passage agrees.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider

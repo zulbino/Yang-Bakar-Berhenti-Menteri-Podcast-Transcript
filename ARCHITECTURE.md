@@ -451,6 +451,31 @@ same separator on the way back out as the way in.
 
 ## Known limitations
 
+- **Turn-level attribution is not solved, and it is the largest open defect.** 341
+  published turns of 400+ words across 63 episodes sit under one label, and every checker
+  in the suite is green while that is true, because no check reads whether a turn holds two
+  voices. The diarizer fails in both directions -- long monologues collapse into one label,
+  short interjections get absorbed by whoever is next to them -- so no blanket correction
+  works and the labels cannot be used as evidence about themselves.
+
+  `scripts/sense_speakers.py` is the proof of concept, measured against the owner's
+  hand-written gold passage in `data/speaker_ground_truth.json`: **83% against `raw.md`'s
+  61%, with Rafizi recall lifted from 2/9 to 7/9 and boundary recall from 50% to 100%**.
+  It takes boundaries from caption word gaps rather than the diarizer, and names each
+  segment on a two-ended voice axis seeded by the `YB` vocative. Every attempt, including
+  the two that scored at or below the baseline, is recorded in
+  `data/diarization_bakeoff.json`, and
+  [ENGINEERING_LOG.md 1.43](ENGINEERING_LOG.md#143-sensing-the-speaker-instead-of-trusting-the-label-measured-against-gold-data)
+  has the reasoning.
+
+  **It is not ready to rewrite anything.** The evidence is one passage of 18 turns, so a
+  single turn is 5.6%, and the parameters were tuned on it (untuned: 78%). A second
+  hand-checked passage is the blocking input. Two limits are already known and measured:
+  sub-second backchannels are unreachable, because the embedder needs 0.6s and the three
+  turns it misses are the three shortest; and the co-host label cannot seed a reference,
+  because 6 of the 8 blocks ep61's `raw.md` calls Haziq measure as Rafizi.
+
+
 - **5 episodes have a cast member present with no speaker label**: three guests
   (ep02, ep05, ep08) and `Farhan (Pa'an)` in ep39 and ep55. This read 20 until the
   speaker-attribution work of 1.35-1.38, and then read 35 too high for a different reason
