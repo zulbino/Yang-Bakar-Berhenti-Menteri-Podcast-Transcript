@@ -6,36 +6,46 @@ channel: Rafizi Ramli
 publish_date: '2025-08-22'
 duration_seconds: 5801
 duration: 1h 36m
-view_count: 50133
+view_count: 50162
 hosts:
 - Rafizi
 - Iqbal
 guests:
 - Chak Onn Lau
 topics:
-- Rafizi's education and scholarship background
-- Farhaj and his alleged influence over Anwar Ibrahim
-- PKR internal factionalism ('Black Shirt Gang' vs Azmin faction)
+- Rafizi Ramli's education and scholarship background
+- Farhash Wafa Salvador Rizal Mubarak's background and influence in PKR
+- PKR internal factions ('geng baju hitam' vs purist reformists)
 - Kajang Move and 'ends justify the means' debate
-- Formation of the unity government with UMNO
-- MCMC Act Section 233 'offensive and annoying' provision and cyberbullying law
-- Cabinet ministers' performance evaluation
-- Pace of reform and whether UMNO is a scapegoat
-- PADU centralized database initiative and subsidy retargeting
-- Cyber troopers, online misogyny and political trolling
-- Separation of Attorney General and Public Prosecutor roles
+- Unity Government formation with UMNO/BN
+- Attack on Rafizi's family and political violence/deep state discussion
+- Multimedia Act Section 233 'offensive and annoying' provision and Heidy Quah/Zara
+  cases
+- Performance evaluation of cabinet ministers
+- Pace of government reforms and scapegoating of UMNO
+- PADU (Pangkalan Data Utama) centralized government database system
+- Cybertroopers and online political discourse
 - Rafizi's political ambitions and views on power
-summary: A crossover episode between "Berhenti Menteri" and the "Siapa Makan Cili"
-  podcast, where hosts Iqbal and Cili Sos interview Rafizi. The wide-ranging conversation
-  covers his schooling and scholarship history (Exxon, Petronas), his early PKR involvement,
-  the rise and influence of Farhaj within Anwar Ibrahim's inner circle and the so-called
-  "Black Shirt Gang" faction, the Kajang Move and the "ends justify the means" debate,
-  the formation of the unity government with UMNO, the controversial MCMC Act Section
-  233 "offensive and annoying" provision and cyberbullying laws, his candid grading
-  of fellow cabinet ministers' performance, whether UMNO is a scapegoat for slow reforms,
-  the PADU centralized data initiative and subsidy retargeting politics, cyber troopers
-  and online toxicity, and his own ambivalence about ambitions of becoming Prime Minister.
+summary: In this crossover episode of "Yang Berhenti Menteri" and Cilisos' "Siapa
+  Makan Cili," hosts Iqbal and Chak Onn Lau interview former Economy Minister Rafizi
+  Ramli. The conversation opens with lighthearted banter about chili tolerance, Rafizi's
+  schooling background, scholarships (Exxon, Petronas), and his path to becoming an
+  electrical/electronics engineer instead of a historian or lawyer. The discussion
+  then turns serious, delving into the background and rise of Farhash Wafa Salvador
+  Rizal Mubarak, Anwar Ibrahim's aide, and the "geng baju hitam" faction within PKR,
+  contrasted with the "ends justify the means" faction historically linked to Azmin
+  Ali. Rafizi discusses the Kajang Move, the formation of the Unity Government with
+  UMNO/BN as the "lesser of two evils," and recent controversies including an attack
+  on his family, comparisons to past BN-era political persecution, and cases involving
+  whistleblowers on Farhash. He also addresses laws around online offense (Section
+  233, "offensive and annoying" provisions) referencing the Heidy Quah and Zara cases,
+  critiques cabinet colleagues' performance, defends UMNO against being scapegoated
+  for slow reforms, and explains the PADU centralized data system's purpose, resistance,
+  and use cases. The episode closes with Rafizi reflecting on his lack of personal
+  ambition for power, his core policy passions (economy, education, industry), and
+  his outlook on incremental political change.
 language: mixed
+model: claude-sonnet-5
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa
   Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript,
   or interview-en.md / interview-ms.md for single-language versions.
@@ -43,524 +53,910 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 # Interview
 
-**Host:** Assalamualaikum dan selamat datang ke episod terbaru "Berhenti Menteri", bersama kami host-host Siapa Makan Cili, Iqbal dan Cili Sos. Ciao!
+**Iqbal:** Assalamualaikum dan selamat datang ke episod terbaru Yang Berhenti Menteri bersama kami hos-hos Sos Cili, Iqbal dan...
 
-**Host:** Dan ini episod khas untuk Siapa Makan Cili kerana ini episod bersama satu lagi podcast show, "Berhenti Menteri." Dan kita ada tetamu khas iaitu...
+**Chak Onn Lau:** Cilisos Chak!
 
-**Rafizi:** Rafizi! I don't eat chilli.
+**Iqbal:** Dan ini episod agak khas, episod khas untuk Siapa Makan Cili kerana ini episod bersama dengan Yang Berhenti Menteri, it's another podcast show. Dan juga kita ada tetamu khas iaitu...
 
-**Host:** Really? Is it because it's allergic, or because it's just not spicy?
+**Chak Onn Lau:** Rafizi!
 
-**Rafizi:** Because it's not spicy. The people of Terengganu don't eat spicy chilli.
+**Rafizi:** Saya tak makan cili tau.
 
-**Host:** Is it true that the people of Terengganu don't eat spicy food?
+**Chak Onn Lau:** Ah, ya ke?
 
-**Rafizi:** It's true. Nasi dagang tak ada yang pedas — nasi dagang tu manis.
+**Iqbal:** Tak makan pedas? Sebab allergic ke sebab tak tahan pedas?
 
-**Host:** Oh yeah? I might be confusing it with Kelantan food.
+**Rafizi:** Sebab tak tahan pedas. Orang Terengganu tak makan cili pedas-pedas.
 
-**Rafizi:** No — mungkin orang yang pergi Terengganu tu keliru, ingatkan itu makanan Terengganu, sebab naturally orang Terengganu tak makan pedas.
+**Chak Onn Lau:** Betul ke orang Terengganu tak makan pedas?
 
-**Host:** Okay, okay. So, we found this photo that we thought was quite appropriate — but this was taken from somebody else's podcast, Victor Tan's. We heard he came here last week. So thank you, Victor Tan, for this beautiful image.
+**Rafizi:** It's true! Orang Terengganu...
 
-**Rafizi:** That's not beautiful at all — maybe I'm half-beautiful.
+**Iqbal:** Nasi dagang ada je sambal tak ke?
 
-**Host:** He gave a full picture of both an angel and a devil. He called you a devil.
+**Rafizi:** Mana ada, mana ada nasi dagang pedas? Nasi dagang manislah.
 
-**Rafizi:** Half a devil.
+**Iqbal:** Oh ya? Saya mungkin kelirukan dengan makanan Kelantan.
 
-**Host:** Just half.
+**Chak Onn Lau:** Taklah, bila saya pergi Terengganu saya kena con lah.
 
-**Rafizi:** Still, there's a half-devil in there. Not yet fully cooked.
+**Rafizi:** I think those are orang negeri lain yang pergi ke Terengganu and menyamar jadi orang Terengganu because naturally orang Terengganu tak makan pedas tau.
 
-**Host:** So, we have a fanbase asking about YB — tapi sebelum tu kita ada icebreaker sikit. Dalam episod Siapa Makan Cili sebelum ni, kita ada interview YB Nik Nazmi, dan ketika itu Nik Nazmi ada share satu cerita tentang YB.
+**Chak Onn Lau:** Okay, okay. So, kelakarnya like we found this photo that I thought, you know, appropriate lah kan? Tapi, this was on somebody else's podcast. Namanya Victor Tan. Kita dengar minggu lepas dia datang sini kan?
 
-**Host:** Yes, that's what we want to show YB. We've been talking about it for a week — but just a little bit, just one icebreaker.
+**Rafizi:** Ha.
 
-**Rafizi:** Okay, you guys are so elitist. [clip plays]
+**Chak Onn Lau:** So thank you Victor Tan for this beautiful image that, you know, we have taken...
 
-**Host:** Oh, where do I press play? It's already broken.
+**Rafizi:** That's not beautiful at all!
 
-**Host:** [clip of Nik Nazmi] So, when you first joined — like other students, semua nak jadi politician ke?
+**Chak Onn Lau:** One side beautiful lah.
 
-**Rafizi:** Tak, itu untuk debate camp lah.
+**Iqbal:** Dia memberi gambaran yang penuh apa kedua-dua malaikat dan syaitan.
 
-**Host:** [clip continues] Rafizi, I think in Form Three, he wrote a script about becoming Prime Minister...
+**Rafizi:** Dia panggil aku syaitan?
 
-**Rafizi:** I can sue him in court for that! No, there is a background to that. Sebab kami masuk final debating championship. Jadi topik untuk tahun itu adalah political stability versus economic stability — so we were for economic stability. Eh, later people will be angry if I speak English, I have to speak BM — stability ekonomi lawan stability politik, jadi kami untuk stability ekonomi. So my debating coach, I think, wanted to poke fun kerana we were up against the team that supported political stability — maksudnya, semua politicians, kan? So dia decide, "you have to be PM." I was just Form 3, and I had to be PM. So, jadilah satu production besar, semuanya documented.
+**Iqbal:** Setengah syaitan. Separuh je.
 
-**Host:** Okay faham lah — so ini untuk competition lah, bukan sendiri you nak jadi camtu?
+**Rafizi:** Chill, that's a half syaitan.
 
-**Rafizi:** Sebenarnya, all my life, masa kat sekolah, saya nak jadi pencerah — pengajar.
+**Chak Onn Lau:** Syaitan separuh masak.
 
-**Host:** Mengajar subjek apa?
+**Rafizi:** Belum masak penuh lagi.
 
-**Rafizi:** Tak kisah lah, aku nak mengajar je. Sebab tu orang cakap saya suka membebel.
+**Chak Onn Lau:** Okay, so kita ada tanya kita punya fanbase tentang apa yang nak tanya, you know, YB. Tapi sebelum tu, kita ada...
 
-**Host:** Actually itu quite true, kan? Tapi masa tu apa subjek yang you rasa you boleh, atau paling minat nak mengajar?
+**Iqbal:** Ada icebreaker sikit.
+
+**Chak Onn Lau:** Icebreaker sikitlah.
+
+**Iqbal:** So episod Siapa Makan Cili, episod podcast kita sebelum ni, kita ada interview YB Nik Nazmi. Dan ketika rakaman tu, Nik Nazmi ada kongsi satu cerita pasal YB. Yes, yang kita nak tunjuk YB sikit.
+
+**Rafizi:** Dah dua minggu kita cakap pasal...
+
+**Chak Onn Lau:** Yang ni satu je.
+
+**Iqbal:** Satu icebreaker je.
+
+**Chak Onn Lau:** Okay, so you can press play dekat sini.
+
+**Rafizi:** Mana aku nak press play ni? Dah rabun dah.
+
+**[Video playing of Nik Nazmi]:** "So when you first went in, like murid-murid lain semua nak jadi politician ke?" "Oh I went, Rafizi I think Form 3, dia tulis cita-cita Perdana Menteri."
+
+**Rafizi:** I can...
+
+**Iqbal:** Boleh kami dapat komen daripada YB?
+
+**Rafizi:** I can sue him in court for that, that's defamation. No, I think...
+
+**Chak Onn Lau:** Nak jadi PM ah?
+
+**Rafizi:** Yeah, no, there is a background to that because we went to the final of a debating championship kan? So the topic for the year was political stability versus economic stability. So we were for the economic stability lah. Eh nanti orang marah cakap English, kena cakap BM.
+
+**Iqbal:** Kestabilan ekonomi versus...
+
+**Rafizi:** Kestabilan ekonomi versus kestabilan politiklah. So kita orang for kestabilan ekonomilah. So, my debating coach lah, I think dia punya cara untuk poking fun because you're up against the team yang bila menyokong kestabilan politik, maksudnya semua ahli politiklah kan. So that's why he decided apa nama ni, you kena jadi PM. And I was just Form 3 masa tu kan. You kena jadi PM, seorang tu jadi Setiausaha Agung PBB. So, ah, so everything was documented.
+
+**Iqbal:** Okay, faham.
+
+**Chak Onn Lau:** So yang ni untuk competition lah, bukan seriously lah.
+
+**Rafizi:** Yeah. Actually all my life, masa kat sekolah, saya nak jadi pensyarah.
+
+**Iqbal:** Mengajar subjek apa in particular?
+
+**Rafizi:** Tak kisahlah, aku nak mengajar. Sebab tu orang cakap saya suka membebel. Actually, it's quite true, right?
+
+**Iqbal:** Tapi masa tu apa subjek yang you rasa you boleh ataupun you paling minat nak mengajar?
 
 **Rafizi:** I was very good in physics.
 
-**Host:** That's because you took a degree in electrical engineering, right?
+**Iqbal:** Okay.
 
-**Rafizi:** Yeah, that's also part of the story. Actually, I wanted to be a lawyer — sorry, I wanted to be a historian. I was very good in physics, but I was also very interested in reading history, so I wanted to be a historian. Tapi tak ada orang nak bagi scholarship kepada seorang historian, so I decided I wanted to be a lawyer instead. Tapi Malaysia ada satu sistem — you have to take pure science, you can't take arts subjects.
+**Chak Onn Lau:** Itu pasal ambil degree electrical engineering kan?
 
-**Host:** Oh, that's interesting — pure science tu untuk budak-budak pandai?
+**Rafizi:** Yeah, I mean it's like itu pun ada cerita dia because saya nak jadi lawyer. Sorry, saya nak jadi historian tau actually kan. Yang I was very good in physics tapi also minat membaca dalam sejarah. So I wanted to be a historian. Tak dapatlah kan, mana ada orang nak bagi scholarship historian. So saya nak jadi lawyer, tapi Malaysia kan ada sistem, kalau your pure science, you kena ambil pure science.
 
-**Rafizi:** No, no, it's the rule. Kalau zaman saya, kalau you pure science, you boleh apply scholarship untuk ini dan itu. Maksud saya, semua cikgu masa tu — even if you want to be an economist or an accountant, you have to take science, you can't even take arts subjects. Dan kalau you orang Cina, memang tak ada peluang langsung. Jadi saya rasa yang paling kurang "engineering" sifatnya, actually electronics engineering, sebab lebih kepada maths. That's how it ended up as electronics engineer.
+**Chak Onn Lau:** Oh...
 
-**Host:** Sebab masa tu YB nampak bidang tu kurang orang dan minat pasal tu ke sebab apa?
+**Rafizi:** You kena ambil, you tak boleh ambil arts punya subjek.
 
-**Rafizi:** Tak juga, tak juga. Lebih kepada — okay lah, ni bunyi bodoh, tapi masa umur 17 tahun. Cerita dia panjang lah, sebab I got another scholarship before that. Saya dapat dua scholarship.
+**Iqbal:** Tapi kan pure science is the budak pandai punya...
 
-**Host:** Berapa scholarship you dapat ni?
+**Rafizi:** Tak boleh, memang rule dia. Kalau my time, kalau you pure science, you boleh memohon biasiswa untuk jurusan-jurusan ini sahaja.
 
-**Rafizi:** Saya dapat dua scholarship. Saya dapat scholarship sebelum saya set for SPM. Masa tu Exxon ada scholarship — sekarang Exxon tak bagi scholarship lagi, ni kepada Exxon yang dengar kan. Masa tu, zaman 90-an, Exxon kiasu tau. Dia rasa dia nak ambil kononnya top student sebelum orang lain dulu, so dia offer scholarship based on your keputusan semester pertama, semester kedua Form 4, dan semester pertama Form 5.
+**Iqbal:** Tapi maksudnya semua peguam-peguam pada masa tu memang arts?
 
-**Host:** Wow. Tapi macam mana mereka monitor semua sekolah?
+**Rafizi:** Arts, arts. Semuanya arts. Even kalau you nak jadi economics ataupun accounting, memang you kena arts. You tak boleh ada subjek sains pun. Jadi...
 
-**Rafizi:** Itu yang elitist lah — dia pergi sekolah-sekolah tertentu sahaja.
+**Iqbal:** Oh, menariknya.
 
-**Host:** Okay, okay.
+**Chak Onn Lau:** Dan kalau you orang Cina, you punya ibu bapa takkan, you know, sahkan you sebagai anak lagi.
 
-**Rafizi:** So saya dapat. Menariknya, kita ada dua alumni — technically Exxon "crony babies." My father, his father too — kenapa lah macam tu. So itu scholarship pertama saya, to do geology.
+**Rafizi:** So I think yang paling kurang engineering of all the engineering, actually electronics engineering sebab dia lebih kepada maths. That's how I ended up as electronics engineer lah.
 
-**Host:** Oh, to do geology?
+**Iqbal:** Sebab masa tu YB nampak bahawa bidang tu kurang orang and minat pasal sebab tu ataupun?
 
-**Rafizi:** Well, this is ExxonMobil — ada officers yang dah tua. So there was only four of us from the whole country who got the scholarship, so they treated us like kings. I remember sometime in August, they took us to their office to meet the management — I think somewhere in Shangri-La, tempat "international" masa tu. That's it — that's how old I am!
+**Rafizi:** Tak juga, tak juga. Lebih kepada, okeylah, dia punya bodoh kan. Sebab masa umur 17. Okey, dia cerita panjanglah because I got another scholarship before that. I got a scholar...
 
-**Host:** I don't have that old, we don't have that old.
+**Chak Onn Lau:** Berapa scholarship you dapat ni?
 
-**Rafizi:** So I met the head of geology, saya tanya, "what do you actually learn from geology?" You're a Form 5 kid, a village kid, you don't know anything. Dia cakap, first year, you have to memorise 100 rocks.
+**Rafizi:** I got two scholarships. Saya dapat scholarship sebelum I sat for SPM tau.
 
-**Host:** Okay.
+**Iqbal:** Okey. Macam mana tu?
 
-**Rafizi:** Second year, hafal lagi satu set batu. And he sounds so fascinated with all this batu-batu kan. So by the end I decided, I'm not going to be a geologist, I'm going to be PM. That was not in the plan back then.
+**Rafizi:** Masa tu, Exxon ada scholarship. Sekarang Exxon tak bagi scholarship dah. So dia bagi, dia kiasu sikitlah. Ha, ni kepada Exxon yang dengar kan. Masa tu zaman 90-an, Exxon kiasu tau. So dia rasa dia nak ambil kononnya top student sebelum orang lain dululah. So dia offer scholarship based on your...
 
-**Rafizi:** So the second scholarship, selain Exxon, lagi kiasu — dia bagi sebelum keluar result SPM. Petronas kiasu no. 2 sikit — dia bagi scholarship sebelum keluar result SPM.
+**Chak Onn Lau:** PMR?
 
-**Rafizi:** So right after I sat for my SPM, I went to Petronas, and it was quite straightforward — saya dah dapat scholarship.
+**Rafizi:** No, keputusan semester pertama, semester kedua Form 4, dan semester pertama Form 5.
 
-**Host:** Tapi scholarship yang kedua, yang pertama tu cancel?
+**Iqbal:** Oi, wow.
 
-**Rafizi:** No, no, I mean you tolak lah — you tolak scholarship Exxon tu.
+**Chak Onn Lau:** Tapi macam mana mereka monitor semua sekolah?
 
-**Host:** Okay, menarik. So sebenarnya kita ada banyak bincang perkara — nama Rafizi banyak muncul dalam episod kita dengan YB Nik Nazmi tu.
+**Rafizi:** Tak, itu yang elitis tu. Dia pergi sekolah...
 
-**Rafizi:** Yes, unfortunately. Patutlah aku demam.
+**Chak Onn Lau:** Oh MCKK, oh okey okey.
 
-**Host:** Sebenarnya dalam episod tu juga kita ada tanya soalan kepada YB Nik Nazmi yang dia actually tak nak jawab.
+**Rafizi:** Dia pergi sekolah-sekolah tertentu sahajalah kan.
 
-**Rafizi:** Apa dia — pasal Farhaj ke?
+**Iqbal:** Okey, okey. Dan menariknya kita ada dua alumni ExxonMobil secara technically. Kita dua kroni baby Exxon.
 
-**Host:** Dia ada jawab lah, dia ada jawab — ya, sikit "menghapuskan." Soalan yang kita tanya adalah kita nak faham siapa itu Farhaj, sebab pada masa kita temubual dengan Nik Nazmi, you baru keluar kenyataan pasal Farhaj punya Sabah mining companies dan kaitan apa yang tengah berlaku masa tu. So saya pun masa tu tengah correct sikit pasal nak kenal siapa Farhaj ni.
+**Chak Onn Lau:** My father, his father also Exxon.
 
-**Rafizi:** Tak ada banyak masalah — kena saman pun, Andy kena saman. Saya tak buat apa-apa kenyataan, saya cuma menanya soalan. So soalan kami adalah siapakah Farhaj, dan macam mana kaitannya dengan Perdana Menteri Anwar Ibrahim.
+**Rafizi:** Oh, is it?
 
-**Host:** Either Nik doesn't want to answer, or he finds it awkward.
+**Iqbal:** His father, my wife.
 
-**Rafizi:** People in PKR, most of us know a little bit. Farhaj was born, I think, in Kuala Kangsar.
+**Rafizi:** Oh, yeah. So it's like my first scholarship untuk buat geology.
 
-**Host:** Oh, so he went to school there too?
+**Iqbal:** Oh, lepas tu tak nak?
 
-**Rafizi:** No, no — he's the one from in front of Clifford.
+**Rafizi:** Well, itu salah ini ExxonMobil eh, adalah pegawai-pegawai yang dah tua dengar ni kan. Jadi there was only four of us from the whole country yang dapat scholarship tu. So they treat us like a king lah. Kan? So I think sometime in August, dia bawa kita ke ofis dia, ExxonMobil, jumpa mat salih ni semua. Wah hebat. I remember masa tu dekat somewhere dekat Shangri-La. Ada kat situ kan?
 
-**Host:** Ada rivalry dengan MCKK?
+**Chak Onn Lau:** Menara Antarabangsa.
 
-**Rafizi:** Tak, I don't know. Dia tak dapat biasiswa ke China pun, jadi saya tak tahu. Orang selalu tanya nama dia lah, saya tak tahu. But I was told that his family — I think the father was a Filipino.
+**Rafizi:** Menara ah, kat situ kan?
 
-**Host:** Oh!
+**Iqbal:** Masa ni KLCC tak ada lagi ke?
 
-**Rafizi:** I was told, I was told, okay — so kalau you nak tanya, saya cerita nanti. So, I think his first appearance in the party that we noticed was sometime in 2005–2006, masa tu dia mungkin baru habis belajar. I think dia graduated daripada Portsmouth University dan balik sebab dia terlibat dalam Anwar Ibrahim Club — bila Anwar Ibrahim dibebaskan dari penjara 2004, dia join tak lama selepas itu.
+**Rafizi:** Tak ada! I am that old, you know. Zaman aku tak ada. Zaman kita orang tak ada KLCC tau. So, apa nama ni, so jumpalah dia punya head of geology ni kan. So saya tanyalah, sebenarnya geology ni belajar apa? Kan? You budak Form 5, budak kampung, bukan tahu apa-apa pun kan. Dia beritahulah, first year kena hafal 100 batu. Okey. Second year, hafal lagi 100 batu! And he sounds so fascinated with all these batu-batu semua kan.
 
-**Host:** Were you in the same club also?
+**Chak Onn Lau:** So tak nak dah.
 
-**Rafizi:** No, because we come from different generations. Saya masuk PKR sejak 98–99. So bila Anwar dibebaskan 2004, saya kata bye-bye, sebab saya nak move on dengan hidup saya. Ramai juga daripada kami yang masuk masa 98–99 tu memang tak berminat sangat dengan politik [sebagai kerjaya] — kebanyakan orang yang masuk PKR awal-awal dulu adalah profesional. You lead a double life, tau — juggle antara professional career dengan activism.
+**Rafizi:** So balik tu, I said, "I'm not going to be geologist lah kan."
 
-**Host:** Masa tu you were in charge of Amanjaya?
+**Chak Onn Lau:** "I'm going to be PM."
 
-**Rafizi:** Eh no, that was 2009. I was in Petronas — I'd just come back from the UK, that was my first job in Malaysia. Jadi sebab tu kita tak berada dalam parti bersama masa tu — saya dah basically move on. Saya kembali ke parti sekitar 2009; masa tu saya ingat dia dalam youth wing, salah seorang daripada mereka di universiti.
+**Rafizi:** That was not in the planning then. So the second scholarship yang selain Exxon lagi kiasulah, dia bagi sebelum you sit for SPM. Petronas kiasu nombor dua sikit. Dia bagi scholarship sebelum keluar result SPM. So right after I sat for my SPM, go to Petronas and then quite straightforward lah, saya dah dapat scholarship.
 
-**Host:** 2009 was around the time of the Kajang Move?
+**Chak Onn Lau:** Tapi scholarship yang pertama, yang kedua cancel yang...
 
-**Rafizi:** Around? No, Kajang Move was 2014. Kemudian, I think lepas itu, ada sebab — saya ingat sekitar 2011–2012 dia hilang lah, tak ada apa-apa perkembangan sangat. Jadi antara tahun 2009 sampai 2018 — Dato' Seri Anwar masuk balik penjara 2015 kan — antara 2009 sampai 2012 tu saya more or less jadi chief of staff dia masa saya CEO di Selangor, dan Dato' Seri Anwar penasihat ekonomi Selangor masa tu. So sampai dia masuk penjara balik 2015, Farhaj tak ada pengaruh besar macam yang kita tengok sekarang — tak ada. Farhaj, lepas habis youth wing tu, habis dekat situ lah. Dia hanya muncul balik bila Dato' Seri Anwar keluar penjara 2018.
+**Rafizi:** No, no. I mean you tolaklah. You tolaklah scholarship tu kan.
 
-**Host:** Tapi apakah maksud "pengaruh besar" ni? Sebab dia tak memegang apa-apa jawatan pun.
+**Iqbal:** Menarik. So sebenarnya kita ada banyak bincang perkara, nama Rafizi banyak muncul dalam episod kita dengan YB Nik Nazmi tu.
 
-**Rafizi:** Kerana semua orang tahu banyak percaturan di dalam parti memang dibuat oleh Farhaj. Ini common knowledge — dulu di dalam parti, sekarang di luar pun semua orang dah tahu. Kalau tengok 2018, I remember the first time I noticed Farhaj was the third or fourth day after we won in May 2018, masa saya berada di hospital di Cheras — Dato' Seri Anwar masih belum menerima pengampunan lagi. Masa tu ada dua tiga orang yang nak jumpa Dato' Seri Anwar — antaranya saya, Saifuddin, Dr Rahim Ghouse... no, no, Farhaj tak ada langsung dekat situ. Itu kali pertama saya perasan dia, sebab dia beratur di luar untuk minta jumpa Dato' Seri Anwar.
+**Rafizi:** Ya?
 
-**Rafizi:** Tapi saya left after 2018, you know — I pack up and say, that's it, I'm not interested in politics, I went on to do my things. Out of that, I think, bila Anwar set up balik pejabat dia di Bukit Gasing, for whatever reasons, he took Farhaj.
+**Iqbal:** Yes, unfortunately.
 
-**Rafizi:** From there, from what I heard, his influence grew immensely.
+**Rafizi:** Patutlah aku demam dua tiga minggu lepas!
 
-**Host:** How old was he at that time — like 30?
+**Iqbal:** Patutlah pasal. So sebenarnya dalam episod tu juga kita ada tanya soalan kepada YB Nik Nazmi yang dia actually tak nak jawab.
 
-**Rafizi:** Must be lah. Farhaj ni how old sekarang...
+**Rafizi:** Apa dia? Pasal Farhash ke?
 
-**Host:** Why did Nik say he became political secretary to Anwar after Farhaj — or before?
+**Chak Onn Lau:** Dia ada jawablah, dia ada jawab tapi...
 
-**Rafizi:** No, before — much, much earlier. Because Nik was, what's his name, Dato' Seri Anwar's staff between 2006 to 2008. I remember, dia balik dan cakap dia nak join kerja Anwar untuk 6 bulan — saya tak berapa happy dengan tu. I don't think that's right, for two reasons.
+**Iqbal:** Dia pusing. So soalan yang kita tanya adalah kita nak faham siapa itu Farhash sebab pada masa kita temu bual dengan Nik Nazmi, you baru keluar kenyataan pasal Farhash punya Sabah mining companies dan kaitan apa tengah berlaku masa tu. So saya pun masa tengah korek sikit nak kenal Farhash ni siapa, tak ada banyak maklumat sebenarnya.
 
-**Rafizi:** Satu — out of responsibility, saya rasa kalau dia jadi apa-apa at that young age, nobody is going to look after him. Politician ni, masa dia nak suruh you join dia, dia cakap macam-macam — lepas tu kalau jadi apa-apa, you're on your own. Of course, since his family is well-off, saya tak worried sangat pasal tu.
+**Rafizi:** Kena saman nanti, kena saman nanti.
 
-**Rafizi:** Tapi the other reason — I always believe that kalau you nak join politik sebagai orang muda cuma untuk isi kerusi...
+**Iqbal:** Saya tak buat apa-apa kenyataan. Saya cuma menanya soalan. So soalan kami adalah siapakah Farhash dan macam mana latar belakang dia sebelum jadi setiausaha politik kepada sekarang Perdana Menteri Anwar Ibrahim?
 
-**Host:** Duit dah cukup?
+**Rafizi:** Either Nik tak nak jawab ataupun dia berbelit-belitlah kan. Orang dalam PKR ni most of us tahulah serba sedikit. Farhash dilahirkan rasanya di Kuala Kangsar.
 
-**Rafizi:** Bukan — itu tak payah jadi politician kalau dah banyak duit. Apa yang saya maksudkan ialah you kena membawa bakat, membawa pengetahuan — you kena bawa expertise, baru you can add value. Kalau you datang umur 22 tahun, tiba-tiba kata "saya nak jadi pemimpin besar" — it doesn't work like that. Dalam politik, sebaiknya kita ada satu kumpulan ahli politik yang masing-masing membawa kemahiran berbeza untuk kerajaan — like an adventure, satu ensemble.
+**Iqbal:** Oh, so sebelah sekolah you ah? MCKK?
 
-**Host:** So, at this point, when YB says someone like Farhaj holds a big influence within the party, what is that influence actually used for?
+**Rafizi:** Tak tak, dia Clifford yang kat depan tu.
 
-**Rafizi:** If we look at the previous elections — in 2018, when I was fighting Azmin, Farhaj was not very involved, sebab saya ingat Dato' Seri Anwar baru sahaja dibebaskan dari penjara, dan bila election nak berlaku, dia kena pergi Germany untuk operation, so dia tak ada masa tu. Tapi by 2022, dia sudah ada faction sendiri — the "Black Shirt Gang."
+**Iqbal:** Ada rivalry ke MCKK dengan Clifford?
 
-**Host:** Okay, boleh terangkan apakah faction ini? Sebab masa you bergaduh dengan Azmin dulu, Azmin duk hantar mesej macam-macam.
+**Chak Onn Lau:** Yang tak ada biasiswa dengan ada biasiswa.
 
-**Rafizi:** Masa saya ada disagreement dengan Dato' Seri Azmin, PKR memang dikenali sebagai parti yang ada banyak faction — mungkin itu bukan khusus kepada PKR, tapi drama faction PKR memang nampak paling seronok diikuti. PKR ni amalgamation daripada kumpulan-kumpulan yang berbeza.
+**Rafizi:** So, I don't know lah. Orang selalu tanya nama dialah. Saya tak tahu, but I was told that yalah family, I think lah the father was a Filipino.
 
-**Host:** Jadi apakah uniting factor-nya — adakah satu ideologi, satu prinsip yang sama? Adakah ia Anwar Ibrahim?
+**Chak Onn Lau:** Betul?
 
-**Rafizi:** Tak, tak — itulah masalahnya. Kerana walaupun dari segi perlembagaan, tawaran reform semua tu, at that level semua orang setuju. The why and how tu yang berbeza.
+**Rafizi:** I was told, I was told lah kan. So kalau you nak tanya latar belakang kan, aku cerita semualah kan. So I think first appearance lah dalam parti yang kami notice sometime in 2005, 2006 masa tu dia mungkinlah baru habis belajar. I think dia graduated daripada Portsmouth University, balik sebab dia terlibat dalam Anwar Ibrahim Club ni. Bila Anwar Ibrahim dibebaskan penjara, 2004, he took hiatus sekejap, kemudian yalah ada...
 
-**Host:** Why berbeza? Boleh bagi contoh?
+**Chak Onn Lau:** Were you in the same club also?
 
-**Rafizi:** People who joined PKR who are genuinely idealistic, like us, who wanted reform — power was never the objective for us, never. Power is [a means to] change, and I never believed that change happens simply by changing the government. Change must happen in society. So the end does not justify the means. That's why the conflict with Azmin, from the start, was about culture. Contohnya, kalau kita nak bawa perubahan supaya negara lebih baik, tapi cara dan budaya politik yang kita bawa sama sahaja — then you are no different.
+**Rafizi:** No no no no, I was off politics. No, because we come from different generation. Kan, saya masuk PKR 99, since 98 kan. So bila Anwar dibebaskan 2004, I said bye-bye because I wanted to move on with my life sebab kebanyakan juga kami yang masa 2000, masa 98, 99 tu, memang tak berminat dengan politik because a lot of people yang masuk PKR awal-awal dulu adalah profesional. So kita lead a double life ni tau. You nak juggle between your professional career, your life dengan activism kan?
 
-**Rafizi:** Tapi ada juga kumpulan yang melihat bahawa kuasa itu segala-galanya — you must get the power first, dan dengan mendapatkan kuasa itu barulah you boleh buat kebaikan. So in order to get the power, then you must play whatever game that is. Jadi dalam PKR at any one point, paling kurang mesti ada dua faction — yang satu, the purist, yang rasa okay walaupun ambil masa lebih lama, tapi you kena buat step by step, methodically, kerana the end does not justify the means — dan antitesis di sebelah lagi.
+**Chak Onn Lau:** Masa tu you were in charge of Amanah Ikhtiar? Eh no, that was...
 
-**Host:** Dan adakah geng baju hitam ni antitesis kepada faction YB?
+**Rafizi:** No no, I was in Petronas. I was in Petronas. I just came back from UK kan.
 
-**Rafizi:** No, geng baju hitam masa dia mula, saya dah tak aktif dalam parti — saya hanya kembali ke parti March 2022.
+**Iqbal:** Your first job lah masa tu?
 
-**Host:** Sebelum G15?
+**Rafizi:** In Malaysia, my first job in Malaysia kan. Jadi kami sebab tu kita orang tak berada di dalam parti bersama tau kan. Saya dah apa nama basically move on. Then I came back to the party 2009 macam itu. Masa tu saya ingat dia dalam Youth wing lah. One of the exco of the Youth wing.
 
-**Rafizi:** Sebelum G15, sebelum pemilihan 2022. Masa itu, geng baju hitam ni style themselves as defenders of Anwar Ibrahim.
+**Iqbal:** 2009 was around the time of Kajang Move?
 
-**Host:** Okay.
+**Rafizi:** Around, no. Kajang Move 2014. Lama lagi.
 
-**Rafizi:** So, they positioned themselves as though Anwar Ibrahim is everything. It's not that different, if you read history — look at the last stretch of Mao Zedong's life, before he died — you had the Gang of Four.
+**Rafizi:** Kemudian I think lepas itu ada sebablah saya ingat dia 2011, 2012 tu dia hilanglah. Dia hilang, nothing sangatlah. Jadi di antara tahun 2009 sampailah 2018, sampai yalah Datuk Seri Anwar masuk penjara balik 2015 kan. So antara 2009 sampai 2012 tu, I was more or less dia punya Chief of Staff masa saya CEO dekat Selangor dulu. Sebagai penasihat Datuk Seri Anwar, penasihat ekonomi Selangor kan. So until dia masuk penjara balik 2015, Farhash did tak ada pengaruh yang besar yang macam kita tengok sekarang, tak ada. Farhash lepas dia dah habis dia punya Youth wing tu, habis dekat situlah. He only appeared balik bila Datuk Seri Anwar keluar penjara 2018.
 
-**Host:** [laughs]
+**Iqbal:** Tapi apakah maksud pengaruh besar? Sebab dia tak memegang apa-apa jawatan...
 
-**Rafizi:** The Gang of Four, who couldn't touch — I mean, no one could touch them — and everyone had to sing to Mao Zedong's tune.
+**Rafizi:** Ha, itu yang bahaya tu kan. Kerana semua orang tahu banyak percaturan di dalam parti memang dibuat oleh Farhash. Jadi...
 
-**Host:** No, you're a history teacher!
+**Chak Onn Lau:** Yang ni like macam common knowledge lah?
 
-**Rafizi:** I could open a history class! So I see the Black Shirt Gang has that same style, because their political power and influence come from Anwar Ibrahim. But ideologically, there's nothing there — there's no such thing as "the king can do no wrong." But I have reminded Dato' Seri Anwar that the Black Shirt Gang's way is more dangerous than Azmin's "ends justify the means."
+**Rafizi:** Common knowledge. Dulu di dalam parti, sekarang di luar. Semua orang dah tahulah kan. Jadi kalau tengok 2018 tu, I remember the first time saya perasan ada Farhash ni ialah the third or fourth day lepas menang Mei 2018, masa dekat Hospital Cheras. Datuk Seri Anwar masih lagi belum dapat pengampunan diraja. Masa itu yang menyelaras siapa nak jumpa Datuk Seri Anwar tu ada dua tiga orang di antara kamilah: saya, Saifuddin, Dr. Rahim Ghaus. Farhash was nowhere near. That's when I first noticed him because he was queueing kat luar, nak minta jumpa dengan Datuk Seri Anwar lah kan. But I left after 2018, you know. I packed up and said, you know, that's it. I'm not interested in politics, I went on to do my things. Out of that lah I think, bila Anwar set up balik pejabat dia dekat Bukit Gasing, for whatever reasons he took Farhash lah. Daripada situ then you can see, from what I heard, immensely lah dia punya influence tu naik pengaruhlah. Dan yalah Farhash...
 
-**Host:** Boleh bagi contoh kenapa?
+**Chak Onn Lau:** Semasa tu dia berumur berapa? Macam 30 ke 30-an?
 
-**Rafizi:** Itu kena tanya Anwar Ibrahim kenapa dia biarkan mereka begitu.
+**Rafizi:** Must be lah. Farhash ni how old ah?
 
-**Host:** Biar kita jemput Anwar Ibrahim datang ke Sos Cili — dia tanya soalan itu, sebab kami pun nak tahu juga.
+**Chak Onn Lau:** Kerana YB Nik kata dia jadi political secretary to Anwar selepas Farhash kan?
 
-**Rafizi:** Ya, itulah.
+**Iqbal:** Ke sebelum?
 
-**Host:** Okey, sebenarnya you akan jadi menteri pertama yang menghadiri podcast kita yang masih bekerja — oh, sebenarnya dah bukan menteri sekarang. Sebenarnya kita ada buka ruang soalan kepada penonton-penonton kita, dan...
+**Rafizi:** No, sebelum. Mas, mas, mas, much earlier. Because Nik was apa nama ni staff Datuk Seri Anwar ni in between 2006 to 2008. Dia bermula because I remember, because dia balik kerja 6 bulan, dia kata dia nak pergi join Anwar. I was not too happy about it lah. I cakap, I don't think that's right.
 
-**Host:** Tapi sebelum itu saya nak tanya lagi. YB kata "ends do not justify the means" kan — tapi bagi saya, kerana saya pun follow career you lama, semasa Kajang Move, it seemed like that was exactly the ends justifying the means.
+**Iqbal:** Kenapa?
 
-**Rafizi:** If anything, I think the Kajang Move is proof — you can say whether we are naive or not, it is proof that we are such purists. Because the late Tan Sri Khalid did have a case — no one disputes his case with the Islamic bank. Dia ada RM70 juta, dan perkara itu telah diketahui sejak hari pertama dia jadi Menteri Besar in 2008, tapi tak selesai, tak selesai, tak selesai — jadi tiba-tiba kes tu settle out of court. Jadi pada pandangan kami masa tu, you have already been compromised. You can debate whether that was a good political strategy, tapi the purists in the party felt you must defend [the integrity of the party] — masa tu PKR hanya ada seorang Menteri Besar, you cannot allow the highest public official [dari parti kita] to be exposed to all these accusations.
+**Rafizi:** Well, two reasons lah. Satu, I think yalah out of responsibility, I feel like dia kalau jadi apa-apa at that young age, nobody is going to look after him. Politician ni, masa dia nak suruh you join dia, dia cakap macam-macam. Lepas tu kalau jadi apa-apa, you're on your own kan? Of course lah Nik okeylah, dia keluarga kaya. Tak apalah, I think he wasn't worried too much about it. Tapi the other reason lah, I always believe that kalau you nak join politik sebagai orang muda, you must bring something to the table.
 
-**Host:** Tapi apa pandangan YB tentang Zahid Hamidi, atau semua orang UMNO yang currently [dalam kerajaan]?
+**Chak Onn Lau:** Duitlah.
 
-**Rafizi:** [confusion over the name] Yeah, yeah, please don't sue me — Zahid Hamidi. No, I think... okay, what choice — if you are in our shoes, what choice would you have made on that day?
+**Rafizi:** Bukan! Itu tak payah jadi. Kalau dah banyak duit, tak payahlah jadi politician lah kan.
 
-**Host:** It's true, yeah. What choice would you have made?
+**Iqbal:** Membawa bakat, membawa pengetahuan...
 
-**Rafizi:** Agong said form a unity government with all parties, and that means you have to include UMNO. So when Agong called Muhyiddin, Muhyiddin refused. Agong called Dato' Seri Anwar — you have to form a unity government, if not there will be no government. So if you are in that position, what would you have done? Well, if it's "the ends justify the means," then you would just take it. No, no, no, that is not the ends justifying the means.
+**Rafizi:** Yeah yeah, you kena bawa expertise. Baru you can add value. Kalau you datang umur 22 tahun, you tiba-tiba kata saya nak jadi pemimpin besar, it doesn't work like that tau. Setiap orang mesti bawa sesuatu ke you know dalam politik tu supaya bila kita ada satu kumpulan ahli politik yang kalau dia jadi kerajaan, kita ada kepakaran yang berbeza-beza kan?
 
-**Host:** Kerana keadaannya sangat berbeza masa itu — do you want to have another general election?
+**Chak Onn Lau:** Macam Avengers lah.
 
-**Rafizi:** Tak lah.
+**Rafizi:** Macam Avengers.
 
-**Host:** Then macam mana?
+**Iqbal:** Baik. Jadi semasa pada masa sekarang, bila YB cakap seseorang macam Farhash ni memegang pengaruh yang besar dalam parti politik PKR, apa toward what end? Apakah pengaruh tu digunakan untuk?
 
-**Rafizi:** Saya faham — ya, ya, ya. But in that case, the purist would say, theoretically, that we know [the principled position] is not to enter that arena at all. But if you look at it, we tried our best to make sure that the arrangement was sealed by an agreement — there is an agreement, there is a clear charter of what you can and cannot do, common principles and so on. I think it's the lesser of the two evils that we have to live with. The issue, I think, is not so much about forming the government — the issue is that after you form the government, macam mana you act, because that becomes fluid. Bila fluid tu, jadi the pace of reform, benda tu subjektif. Sampai bila kita nak kata, "oh, we're the government, therefore we can't just do 1, 2, 3, 4"? At some point, I think you must draw the line.
+**Rafizi:** Kalau tengok kepada pemilihan-pemilihan yang lepas kan, 2018 yang masa saya lawan Azmin, Farhash tak terlibat sangat sebab saya ingat baru lagi Datuk Seri Anwar baru keluar penjara. Kemudian masa pemilihan nak berlaku tu, dia kena pergi ke Germany untuk operation semua. So dia tak ada kan. Tapi by 2022 tu, dia dah ada faction dia sendiri, geng baju hitam.
 
-**Host:** Okay, actually we've touched on a few issues already, but there are a few more questions we wanted to ask. Just now...
+**Iqbal:** Okey. So boleh terangkan apakah faction? Sebab masa you bergaduh dengan Azmin dari dulu lagi, PKR kan...
 
-**Host:** Oh, sorry, sorry. So, there's one question — you said you wanted to ask about Farhaj.
+**Rafizi:** Tak adalah gaduh.
 
-**Host:** Yes, yes, yes. So — yesterday, YB had a connection to the attack that had just happened...
+**Iqbal:** You had your disagreements.
 
-**Rafizi:** I didn't have a connection — I just clarified...
+**Rafizi:** Azmin duk hantar mesej lagi kat aku kan. Tak adalah gaduh.
 
-**Host:** Okay, sorry. There was slander being spread, and it was unfair to Ismail Sabri and KJ. So, I understand that YB encouraged Dato' Seri Ismail Sabri to lodge a police report?
+**Iqbal:** When you had your disagreements with Dato' Seri Azmin, PKR memang dikenali sebagai parti yang ada banyak faction-faction. I mean, mungkin itu bukan khusus kepada PKR tapi PKR drama dia nampak seronoklah ikut.
 
-**Rafizi:** No — he told me that he would make a police report, so I said good, go ahead, I will do my part, he has to do his part.
+**Rafizi:** Sebab dia asal-usul PKR because PKR ni amalgamation of kumpulan yang berbeza-beza.
 
-**Host:** And YB himself has clarified that the whistleblower who met with YB one, two weeks ago was related to Farhaj. Sebenarnya, bolehkah YB kongsi apakah kes ini pasal — atau masih ongoing?
+**Iqbal:** Tapi jadi apakah uniting factor-nya? Adakah ia satu ideologi yang memandukan satu prinsip yang sama? Adakah ia Anwar Ibrahim?
 
-**Rafizi:** Prosesnya ialah bila you dah tumpu kepada sesuatu, then akan ada orang bagi maklumat. Maklumat itu bukannya macam kertas siasatan penuh — they are all over the place, jadi you kena find more information. Saya sendiri pun ada pengalaman buat ini dari zaman NFC dan sebagainya — it's the same process. So, it's a work in progress.
+**Rafizi:** Tak tak, dia, I okay, there's the problem kan. Kerana walaupun dari segi perlembagaan, dari segi tawaran to reform semua tu at that level semua orang setuju kan. The why and how tu berbeza.
 
-**Host:** Aku ada soalan — kutipan maklumat tentang Farhaj ini, ia berlaku sebelum atau selepas YB letak jawatan sebagai Menteri?
+**Iqbal:** The why berbeza?
 
-**Rafizi:** I am aware — for example, when you are in the government, you become aware of certain contracts, people talk about this contract, then you read from the media — the media report, the company is this company — then we have friends in the corporate, in the banks, in the legal fraternity who will tell you this and that. Isu yang mengenai Farhaj ni, orang dah bercakap lama. Cuma pemberi maklumat ni datang lepas saya sebut bahawa Farhaj perlu disiasat, kerana saya ingat itu kali pertama mana-mana ahli politik menyatakan secara terbuka pasal Farhaj. So when you do this so-called investigative work, the moment you send out that signal, it's up to you where it leads.
+**Rafizi:** The why berbeza, the why and how berbeza. Contohnya kan, orang yang masuk PKR ni yang betul-betul idealistik macam kami yang nak reform semua ni, power is not an objective tau. It's never an objective, power is never. It's the change. And the change itu, saya tak pernah percaya yang change itu berlaku hanya kerana tukar kerajaan. Change must happen in society. So the end does not justify the means kan? Jadi maksudnya sebab itu pertembungan kalau contohnya dengan Azmin dahulu kan is about budaya. Kalau contohnya kita kata kita nak bawa perubahan supaya dengan perubahan itu negara lebih baik, tapi cara dan budaya politik yang kita bawa tu sama, then you are no different kan? So tapi ada juga kumpulan yang melihat bahawa kuasa itu segala-galanya. You must get the power first kononnya. Dengan mendapatkan kuasa itu, barulah you boleh buat kebaikan. So in order to get the power, then you must play whatever game that is lah. Jadi dalam PKR at any one point, paling kurang mesti ada paling kuranglah those two factions. Yang satu yang feel that the purist who feel that okey, even if it takes longer, but you have to do it step by step, methodically supaya because the end does not justify the means. Of course, there's the antithesis, the other side lah.
 
-**Host:** Okay, so kalau selama ni benda ni dah jadi open secret, semua orang dah tahu, dah membisik-bisik pasal benda ni, kenapa you mengambil masa yang lama sampai YB jadi orang pertama yang membangkitkan isu ni?
+**Iqbal:** Dan adakah geng baju hitam ni adalah antithesis kepada faction YB?
 
-**Rafizi:** Saya tak tahu maksudnya "mengambil masa yang lama."
+**Rafizi:** No, geng baju hitam masa dia mula sebab by that time saya dah tak aktif dalam parti tau. Saya hanya kembali ke parti Mac 2022 kan, sebelum GE15 kan, pemilihan 2022. Masa itu geng baju hitam ni they style themselves as defender of Anwar Ibrahim.
 
-**Host:** How did it become that you were the first person to raise this issue?
+**Iqbal:** Okey.
 
-**Rafizi:** Saya tak tahu, kena tanya orang lain lah kot.
+**Rafizi:** So dia orang ni meletakkan diri dia sebagai Anwar Ibrahim segala-galanya. Siapa, I mean, it's not that much different kalau you read history lah kan. Kalau tengok the end part of masa Mao Zedong, Mao Zedong punya last stretch sebelum dia mati kan, you ada Gang of Four tau. Gang of Four ni yang tak boleh sentuh Mao Zedong langsung. Semua orang kena apa ni nyanyi pasal Mao Zedong semua kan.
 
-**Host:** Dalam semua bisikan-bisikan yang berlaku selama ni, tak ada siapa pernah tanya Dato' Seri Anwar? Orang cakap orang takut kat Farhaj.
+**Iqbal:** Nasib baik cikgu sejarah.
 
-**Rafizi:** Adakah? I don't know, you should ask other people, because I don't [know]. Cuma sebelum saya meletakkan jawatan, sebarang isu mengenai Farhaj — kerana kalau sebut Farhaj, dia akan dikaitkan dengan Dato' Seri Anwar — jadi perkara ini perlu kita bawa secara dalaman kepada Dato' Seri Anwar.
+**Rafizi:** Ha, cikgu sejarah kan.
 
-**Host:** Pada pengetahuan YB, adakah perkara ini disebut berkali-kali?
+**Chak Onn Lau:** Kita ada jawatan kosong dekat Cilisos.
 
-**Rafizi:** Tapi jawapan Dato' Seri Anwar itu sama sahaja — dia kata dia bekas setiausaha politik saya. Bukan isu sama ada Farhaj ni bekas ataupun masih memegang jawatan atau tidak. Soalnya ialah apabila ada cakap-cakap daripada ramai orang dalam dan luar kerajaan yang menunjukkan Farhaj ada pengaruh yang besar dalam keputusan kerajaan — sama ada betul atau tidak pun, kalaulah tak betul, persepsi itu sudah berbahaya. Jadi memang dibawa kepada Dato' Seri Anwar, tapi jawapannya begitu sahaja — "dia bekas setiausaha politik saya," tak ada apa-apa yang lain — bagi saya, isu Farhaj ini dah dibisik-bisikkan lama.
+**Rafizi:** Boleh boleh, saya boleh buka kelas sejarah kan. Jadi saya lihat geng baju hitam ni dia punya style macam itu kerana kuasa politik dan pengaruh politik mereka datang daripada Anwar Ibrahim.
 
-**Host:** Tapi opposition tak ambil kesempatan untuk membawa nama dia keluar dekat media pun.
+**Iqbal:** Tapi dari segi ideologi apa?
 
-**Rafizi:** Investigative work ini susah, susah. Saya cuma memberi perhatian — ada juga ahli parti pembangunan yang telah disaman oleh Farhaj. Tapi beberapa isu yang dia nak bawa, untuk dia, cukup sekadar mengatakan dia telah buat kerjanya. Ia tak semudah itu — ambil banyak kerja untuk check satu-satu, confirm semua, build the case. Dan kalau contohnya kita tak bersetuju dengan sesuatu dasar, bukan saja tak setuju, kena beritahu kenapa, apa alternatifnya, kira, projection, semua itu kena buat. Jadi saya nampak pembangkang tak sampai ke peringkat itu — permainan mereka hanyalah menyebut sahaja dengan harapan orang marah. Kebelakangan ini, antara tahun 2024 sampai awal 2025, sokongan pembangkang dah "plateau."
+**Rafizi:** Dia tak ada, dia tak ada. Ideologi apa semua ni tak ada.
 
-**Host:** Ya, betul.
+**Chak Onn Lau:** Macam 'Long live the king' lah.
 
-**Rafizi:** Ia dah mendatar sebabnya ialah there's so much you can extract from emotion, you know — you actually need to be the same drum lah, jadi lama-lama orang bosan. Tapi sebenarnya banyak isu yang boleh dikaji sekarang, kalau saya pembangkang. Tapi saya tengok dia malas.
+**Rafizi:** Tak ada. Cuma saya pernah mengingatkan Datuk Seri Anwar kan that sebenarnya cara geng baju hitam ni lagi berbahaya daripada cara Azmin 'the end justify the means' ni. Sebab...
 
-**Host:** Boleh seronok jadi pembangkang?
+**Chak Onn Lau:** Tapi kenapa, kenapa PM yang biarkan mereka?
 
-**Rafizi:** I don't know, I'm not pembangkang.
+**Rafizi:** Itu kena tanya Anwar Ibrahim.
 
-**Host:** Tapi kalau mengingat balik zaman YB jadi pembangkang, adakah zaman itu lagi seronok daripada sekarang?
+**Iqbal:** Kalau Datuk Seri Anwar Ibrahim kalau sudi masuk ke dalam show kami...
 
-**Rafizi:** Tak boleh banding, but you must understand — zaman saya jadi pembangkang, saya ada 14 kes. Boleh pakai yang tu, seronok juga. Every one month saya masuk lokap. Jadi I think you guys, bila you make fun of government, you have to put that into perspective — dan tak masuk lokap, that is already a big achievement.
+**Rafizi:** Bolehlah jemput Anwar Ibrahim hadir ke Sos Cili, tanya dia, tanya soalan tu kan. Sebab kami pun nak tahu juga!
 
-**Host:** Saya nak tanya pasal point tu, YB, sebab lepas serangan yang berlaku tu, ramai yang kongsi pendapat mereka bahawa cakap apa pun pasal kerajaan zaman BN dulu, tapi tak pernah masa YB kutuk kerajaan BN dulu, family YB itself got hit. Do you agree with that assessment — that the BN government was better before, because at least in the past family YB was not attacked?
+**Chak Onn Lau:** Menteri pertama yang menghadiri podcast kita yang masih bekerja.
 
-**Rafizi:** I think that's not an apple-to-apple comparison. Are we saying, do we want to say putting me in prison for 3 years, in the condition that my children were only 5 years old, that's not cruel? I mean, slapping me with 14 cases, tiap-tiap minggu, kadang-kadang masuk lokap — itu tak zalim ke? Cerita anak ke apa, ini semua sama je. Ini soal bila ada sebarang tekanan ataupun ancaman daripada pihak yang rasa terancam. Dalam kes sekarang ni, saya tak tahu siapa, tapi pihak yang rasa terancam memilih cara yang ganas. Cuma zaman BN dulu, saya ingat zaman Najib, ia melibatkan segala apparatus kerajaan — apparatus bukan kerajaan pun ada. Jadi saya tak kena seorang diri.
+**Rafizi:** Selamba hina aku!
 
-**Host:** On that note, kita nak pergi ke soalan seterusnya.
+**Chak Onn Lau:** Semuanya bekas je.
 
-**Host:** Oh, okay, dah bukan Farhaj ni.
+**Iqbal:** So sebenarnya kita orang ada buka ruang soalan kepada penonton-penonton kita dan jadi...
 
-**Host:** Masih Farhaj-light lah, yang ni.
+**Chak Onn Lau:** Tapi sebelum tu, saya nak tanya lagi. YB kata 'ends do not justify the means' kan? Tapi untuk saya, because I've also followed your career for a long, long time — semasa Kajang Move, it seemed like that was the ends justifying the means.
 
-**Host:** Ok, ok — at least it's not MCKK macam Victor.
+**Rafizi:** If anything, Kajang Move saya rasa adalah bukti — you can say lah whether kami naif ke tidak — adalah bukti that we are such a purist. Sebab Tan Sri Khalid, arwah Tan Sri Khalid memang ada kes. No one dispute about kes dia dengan Bank Islam tu, kan? Dia ada 70 juta. Dan perkara itu telah diketahui daripada hari pertama dia jadi Menteri Besar in 2008. Tapi tak selesai, tak selesai, tak selesai kan. Jadi tiba-tiba kes tu settle out of court kan. Jadi pada pandangan kami pada ketika itu, you have already been compromised. Jadi you can debate lah soal whether benda tu, apa nama ni, a good political strategy ke apa. Tapi yang purist dalam parti ni kata, you must defend, apa nama ni, the anti-corruption integrity of the party — that moment, masa tu PKR ada seorang Menteri Besar saja. You cannot allow Menteri Besar yang paling tinggi public official terdedah kepada all this accusation.
 
-**Rafizi:** Bukan, bukan, bukan. MCKK dah siap — pasti dah.
+**Chak Onn Lau:** Tapi apa kata purist-purist ni tentang Zahid Hamidi atau all the UMNO people that are currently in the government? Zahid Ibrahim?
 
-**Host:** Ok, so yang ni soalan terakhir tentang Farhaj lah — okay, tak direct tentang Farhaj. Saya ada seorang kawan, dia tanya, kerana YB pun dah kena attack — yang ini, yang suntikan tu kan.
+**Iqbal:** Zahid Hamidi.
 
-**Host:** We have other cases where people get attacked, and then people are blaming the government in some way or other — the case of Pastor Raymond Koh, Pamela, Teoh Beng Hock. So now YB has entered the government — what are your feelings about this incident? Adakah sama, atau tak? Dalam kejadian macam ini, orang akan sebut perkataan "deep state."
+**Chak Onn Lau:** Zahid Hamidi, sorry. Zahid Hamidi.
 
-**Rafizi:** Deep state, ya betul. I mean, I don't think every case can be put in one box — apple to apple. It's not apple to apple, every single one has its own unique factor, its own circumstances. Tapi bila sampai kepada — bila kes-kes ini tidak dapat diselesaikan, of course orang tanya kenapa begitu, dan selalunya satu perkara yang sentiasa menjadi — I wouldn't say it's a dilemma, but a big consideration in the government or government departments — is to maintain their reputation. That has to change. Maksudnya, kalau kita kata "deep state," kadang-kadang tak adil kepada ramai pegawai kerajaan lain — kerana majoriti pegawai kerajaan sama macam kita, dia cuma nak buat kerja dengan baik. Tapi ada bad apples — bad apples yang kadang-kadang buat rogue, ataupun ambil rasuah, ataupun ambil arahan daripada orang lain. Cuma bila dah berlaku, kalau ia melibatkan pegawai kerajaan, then pertimbangan — this defence mechanism bahawa kita kena lindungi, kalau tidak nama kita buruk — itu perlu berubah. Kita tak ada fakta kes, and we are not privy to every little detail bagi setiap kes tu, orang kata macam-macam — ada kata deep state, ada kata pihak berkuasa yang terlibat. I don't think keseluruhan, contohnya kalau polis — I don't think PDRM semua condone it. Tapi mereka yang buat keputusan tu, selalunya, walaupun tak terlibat, fikir, "kalau kita buat ni, nanti moral polis jatuh," atau kalau menteri kata, "nanti kita dilihat tidak melindungi penguatkuasa." Mungkin dari angle itu.
+**Rafizi:** Zahid Hamidi.
 
-**Host:** Apakah hubungan YB dengan ahli-ahli polis, kerana dulu kena tangkap, sekarang you suruh mereka tangkap orang lain?
+**Chak Onn Lau:** Please don't sue me! Zahid Hamidi.
 
-**Rafizi:** Saya tak — I mean that's another thing. Menteri tak boleh nak kacau langsung. Sebagai citizen sekarang, of course, it's like asking the police to investigate.
+**Rafizi:** No, I think ya lah, apa nama ni — no, there is — okay, what choice — if you are in our shoes, what choice would you have made on that day?
 
-**Host:** So, how is the difference in the way the police handle this case?
+**Chak Onn Lau:** That's true.
 
-**Rafizi:** Tak ada beza. Saya rasa kalau orang beranggapan that you boleh suruh polis sebab you ahli politik atau menteri, that's wrong, you know. Kita betulkan persepsi itu — undang-undang, dan setiap daripada kita tertakluk kepada undang-undang yang sama. Jadi kalau contohnya saya ditangkap, dituduh melanggar peraturan tertentu, saya perlu disiasat juga. Itu pun sebab tu saya rasa polis suka saya — bila saya ditangkap, saya tak buat apa-apa, saya tak cuba gigit telinga orang, saya tak cuba lari, dia suruh saya jalan, saya jalan.
+**Rafizi:** Yeah, what choice would you have made? Agong kata form unity government dengan semua parti. And that means that kena include-kan UMNO. Jadi bila Agong panggil Muhyiddin, Muhyiddin tolak mentah-mentah. Agong panggil Datuk Seri Anwar, you kena form unity government. Kalau tidak, tak ada kerajaan. So if you are in that position, if you are in my position masa tu, what would you have done?
 
-**Host:** Okay, YB, tapi principle-nya ialah kita semua tertakluk kepada undang-undang yang sama...
+**Chak Onn Lau:** Well, if you are the ends do justify the means, then you would take it.
 
-**Rafizi:** Mungkin theoretically betul, tapi kita nampak banyak contoh di mana undang-undang tak...
+**Rafizi:** No no no, that is not the end justifies the means because keadaannya sangat berbeza masa tu. Do you want to do another general election?
 
-**Host:** ...tak diaplikasi secara sama rata. Contohnya, ibu yang curi susu untuk anak dia dipenjara beberapa hari, sementara orang curi berjuta-juta ringgit...
+**Chak Onn Lau:** Taklah.
 
-**Rafizi:** There is indeed a strong perception of that. That has to be asked of the courts and also the judges. Saya selalu mempertahankan hakim — tapi saya harap, I want to share a story. Masa saya di UK, setiap kali musim panas semasa saya bercuti, satu perkara yang saya tak pernah lepaskan ialah saya akan luangkan seminggu duduk dalam mahkamah.
+**Rafizi:** Then macam mana?
 
-**Host:** Where is the court?
+**Chak Onn Lau:** Aku faham, aku betul faham. But in that case, you know, the purist would be angry lah kan?
 
-**Rafizi:** The court is in Kemaman, in Kuantan. I would sit there — setiap hari saya pergi mahkamah, sebab kalau you nak belajar tentang masyarakat, tempat yang paling baik ialah di mahkamah. Itu the human's drama.
+**Iqbal:** Dari segi teoritikalnya ya.
 
-**Host:** Itu aktiviti awak — orang lain pergi clubbing semua, awak duduk dengar!
+**Chak Onn Lau:** Dari segi teoritikal yang yang tak masuk the ruang arena politik ni lah.
 
-**Rafizi:** Actually, I wish for one thing — I wish more of our judges were brave enough to exercise compassion, sebab saya pernah tengok hakim-hakim, dan saya ingat distinctively seorang hakim perempuan di Mahkamah Majistret Kemaman — itu tahun 1996 — ada seorang mak yang dituduh mencuri susu. Dia tak ada lawyer, so terus ke sentencing, dan dia mengaku. Hakim tu kata, "jangan mengaku, jangan mengaku lagi, jangan mengaku" — you know, "no, no, jangan mengaku."
+**Rafizi:** Okay, but kalau tengok, we have tried our best to make sure that the arrangement itu is sealed by an agreement — there is an agreement, there is a clear, apa nama ni, charter of what you can do, what you cannot do, these are common principles and so on. Jadi given the circumstances lah, I think it is the lesser of the two evils that we have to live with. The issue I think is not so much about forming the government. The issue is that after you form the government, macam mana you act, because benda tu fluid tau. Bila dia fluid tu, jadi orang jadi reform — the pace of reform, benda tu subjektif. Sampai bila kita nak kata, "Oh kita kerajaan perpaduan and therefore tak boleh buat 1, 2, 3, 4," kan? At some point I think you must draw the line.
 
-**Rafizi:** Jadi I wish — sebab bila hukuman yang tak setara ni dijatuhkan, curi susu sampai enam bulan penjara — to be fair to the government, sama ada zaman Najib dulu, zaman Anwar, atau zaman siapa-siapa pada masa depan, itu bukan kerajaan — itu hakim yang menjatuhkan hukuman. Of course, kerajaan boleh disalahkan kalau orang nak kata tak pindah Kanun Keseksaan, tapi peruntukan mencuri dalam Kanun Keseksaan itu selalunya luas. If anything, kerajaan bersalah kerana tak reform Kanun Keseksaan itu untuk membezakan lagi segala-galanya, tapi ia banyak bergantung kepada pendakwa raya, DPP. Sebab itu saya selalu rasa bahawa menukar kerajaan itu bukan segala-galanya kepada perubahan yang kita mahukan dalam masyarakat — kita perlukan lebih empati, mempertahankan yang lemah. Jadi, di manakah datangnya ketidakadilan ini?
+**Iqbal:** Okey. Sebenarnya kita dah menyentuh beberapa isu, dan ada beberapa lagi penanya kita telah masukkan soalan. Tapi tadi tadi...
 
-**Host:** So, semasa YB sebagai ahli politik, you cakap you hadapi pelbagai hakim, dan masuk lokap berkali-kali. Tapi kita tak nampak benda ini berlaku selalu kepada orang dalam kerajaan.
+**Chak Onn Lau:** Oh sorry sorry sorry.
 
-**Rafizi:** What do you mean?
+**Iqbal:** So ada satu soalan daripada...
 
-**Host:** Macam menteri yang aktif, atau parti yang menang — aktivis daripada pihak kerajaan yang masuk penjara, dalam sejarah Malaysia.
+**Rafizi:** Tadi kata nak tanya pasal Farhash?
 
-**Rafizi:** Eh, sekarang kita ada Perdana Menteri yang pernah masuk penjara.
+**Iqbal:** Ah ya lah, ini ini. So ni semalam YB ada kaitkan serangan yang baru berlaku kat anak...
 
-**Host:** Ex-ex-ex.
+**Rafizi:** Saya tak kaitkan. I just clarify because ada fitnah yang sedang berlegar and it's not fair kepada Ismail Sabri dan juga KJ.
 
-**Rafizi:** Ex-ex-ex, itulah yang saya kata — semua "ex" sekarang, kan?
+**Iqbal:** Maka tohmahan-tohmahan ni — saya faham YB dah encourage Dato' Seri Ismail Sabri untuk buat laporan...
 
-**Host:** Yes. So the point is, kalau bukan dari sudut polis, dari sudut mana pula — DPP? Peguam Negara?
+**Rafizi:** Tak tak, dia beritahu saya dia akan buat laporan polis. So saya kata good, go ahead. I will do my part, dia kena buat his part lah.
 
-**Rafizi:** Unless one day kita betul-betul berjaya memisahkan kuasa pendakwaan daripada politik — itu juga satu perkara yang kita nak tanya pasal reform. Selagi kuasa pendakwaan raya berada di bawah bidang kuasa yang sama dengan pelantikan hakim negeri, dan hakim negeri itu dilantik oleh Perdana Menteri, saya ingat perkara ini akan terus berlaku — maksudnya, kalau you nak siasat menteri, dia fikir dua kali, tiga kali, dan sebagainya — melainkan sudah senang untuk siasat peguam [selepas keluar jawatan].
+**Iqbal:** Dan so YB pun sendiri dah clarify bahawa the whistleblower yang berjumpa dengan YB minggu lepas, dua minggu lepas, berapa minggu lepas, berkaitan dengan Farhash. Sebenarnya apa, boleh ke YB kongsi apakah kes ni pasal?
 
-**Host:** Okay, saya nak masuk soalan ini semula lepas ni. Tapi sebelum itu, next point — berapa banyak soalan you ada ni, YB? Ini banyak!
+**Chak Onn Lau:** Atau masih lagi ongoing lah?
 
-**Host:** Bila kita buat call-out untuk soalan, banyak yang masuk. Ini yang paling ramai — berkaitan dengan satu kes yang baru selesai dua hari lepas — mengenai Seksyen 233, "offensive and annoying" dalam Akta MCMC.
+**Rafizi:** Maybe not, not ongoing lah — ongoing. Prosesnya ialah, you know, bila you dah tumpu kepada sesuatu, then akan ada orang bagi maklumat lah. Maklumat itu bukannya macam investigation paper, kertas siasatan penuh semua. They are all over the place. Jadi you kena...
 
-**Host:** Kalau saya tak silap, YB pun pernah dibawa ke MCMC?
+**Iqbal:** Tapi YB sendiri pun ada pengalaman membuat, apa, investigative journalism dengan zaman NFC dan sebagainya.
 
-**Rafizi:** Tidak, tidak pernah. Saya didakwa di bawah Kanun Keseksaan kerana menghina UMNO. Saya didakwa dan saya menang.
+**Rafizi:** Yeah yeah yeah. It's the same process. It's the same process. Jadi, it's a work in progress. It's a work in progress.
 
-**Host:** Didakwa di bawah Kanun Keseksaan kerana menghina UMNO?
+**Chak Onn Lau:** Aku ada soalan hang.
 
-**Rafizi:** Ada satu kesilapan dalam pertuduhan Kanun Keseksaan itu — kerana menghina UMNO.
+**Rafizi:** Ha.
 
-**Host:** Okay, tapi kes ini berkaitan mungkin masa YB berada dalam Jemaah Menteri — ada tak perbincangan-perbincangan tentang pindaan akta-akta zalim ini, dan setakat mana perbincangan itu sampai?
+**Chak Onn Lau:** Okey, soalan saya — kutipan maklumat yang ni tentang Farhash, yang ni berlaku sebelum atau selepas YB letakkan jawatan sebagai menteri?
 
-**Rafizi:** Ada. Contohnya, saya ingat pasal perkataan "offensive" dan "annoying" ini. Saya rasa kita kena imbangkan di antara perspektif yang kita lihat melalui lensa politik dengan ancaman daripada perkara "offensive and annoying" yang dibuat oleh orang biasa yang tak ada kena-mengena dengan politik. Selalunya kes yang di-highlight melibatkan politik ataupun human rights. Tapi macam mana pula dengan kes-kes bully, perkataan "offensive" tadi — kalau saya tak silap, pindaan itu dibincangkan selepas satu kes seorang wanita yang membunuh diri selepas cyberbully. Sebenarnya undang-undang kita tidak cukup lengkap untuk mendakwa yang terlibat, jadi dia hanya didakwa dengan satu tuduhan yang kecil, dibayar denda, dan dibebaskan sahaja. Jadi on that sense, the hat that I wear masa menteri dahulu ialah — as much as kita, sebagai orang yang partisan, selalu melihat daripada lensa politik, dan kita selalu kata "ni mesti ada benda nak buat ni" — what I learn from my time as minister is that the world doesn't revolve around us. Ada banyak lagi kes orang biasa yang kena bully, offensive, tapi bila nak ambil tindakan tak boleh — contoh kes Zara sekarang, you can debate whether this rule is right or not — pendakwa raya meletakkan peraturan bahawa dia mesti melebihi kebarangkalian tertentu sebelum boleh charge, maksudnya kebarangkalian menang, kalau saya tak silap, 90%, baru boleh charge. Sebabnya ialah, kalau tak ada rule itu, ia membuang masa DPP, dan charge, charge, charge semua kalah, kalah, kalah — itu pun duit pembayar cukai, orang marah juga. Jadi dia letakkan bar itu. Masalahnya, bila you letak bar itu, undang-undang macam ini jarang boleh digunakan untuk mendakwa. Jadi ada kecenderungan untuk mendakwa kesalahan kecil sahaja, dan rakyat pula marah.
+**Rafizi:** No, saya memang aware — contohnya bila you dalam kerajaan, you aware kontrak tu, orang bercakap kontrak ni, kemudian you baca daripada media kan, laporan media, company tu company ni. Kemudian kita ada kawan-kawan dalam korporat, dalam bank, in legal fraternity yang akan beritahu gini gini. Jadi isu yang mengenai Farhash ni orang dah bercakap lama. Cuma pemberi maklumat ni datang lepas saya sebut bahawa Farhash perlu disiasat, kerana saya ingat itu kali pertama mana-mana ahli politik menyatakan secara terbuka, tau, pasal Farhash, nama dia. Jadi you know, when you do so-called investigative journalism lah kan, the moment you hantar isyarat, then orang akan datang. Then you akan letak satu satu satu. It's up to you macam mana where it leads you lah.
 
-**Rafizi:** Jadi that's the complication — I think the issue with the MCMC Act's Section 233, "offensive" provision ini jauh lebih rumit daripada kes yang dibawa ini. It's not black and white.
+**Iqbal:** Okey. So kalau selama ni benda ni dah jadi open secret, semua orang dah tahu, dah berbisik-bisik pasal benda ni, kenapa ia mengambil masa yang lama sampai YB jadi orang pertama yang membangkitkan isu ni?
 
-**Host:** Nak tanya soalan Dr Jason — dia nak strike out, appeal terhadap keputusan mahkamah untuk strike out "offend and annoy" — tapi Fahmi Fazli, yang kita kenal dia pergi Bersih, cakap anti-korupsi, semua dalam movement anti-reformasi Anwar — jadi kenapa yang ini semua dah tukar?
+**Rafizi:** Saya tak maksudnya mengambil masa yang lama, maksudnya?
 
-**Rafizi:** Saya tahu, it's not black and white — precisely because of that. Dalam kes ini, saya bukan nak defend Fahmi Fazli — satu podcast pun tak akan habis kalau saya nak perli Fahmi Fazli sahaja! Tapi actually, repercussion dia kepada orang ramai itu lebih besar. Dan masalahnya, bila undang-undang yang berkaitan dengan perasaan — ini yang berkaitan perasaan ni — sengaja tidak dikhususkan, jadi tak senang. Tapi the absence of peruntukan undang-undang akan membolehkan bully, cyberbully, dan banyak perkara lain itu tidak boleh diambil tindakan undang-undang. Jadi, let the process take its course.
+**Iqbal:** Kenapa — how did it become that you were the first person to raise this issue?
 
-**Host:** Maksudnya, kalau draf yang ada sekarang ini mahkamah tidak bersetuju, kerajaan kena tengok balik, redraft balik?
+**Rafizi:** Saya tak tahu, kena tanya orang lain lah kut.
 
-**Rafizi:** Tapi pandangan saya, kena ada peruntukan undang-undang bagi perkara-perkara yang berkaitan dengan tindakan jahat, terutamanya yang berselindung di sebalik era digital ini — kita perlukan undang-undang untuk itu. But we have a law for libel and all that also, you know — you have to pay damages for a false statement. It's not — you know how difficult it is to go through a defamation suit. So katakanlah kalau libel, orang kata "saman lah" — you nak buka satu fail, paling kurang beberapa ribu ringgit. Lepas itu turun naik mahkamah lima tahun. Untuk ahli politik atau businessman macam Farhaj, bolehlah. Tapi kalau orang biasa? Sebab itu they just give up. Dan sepatutnya undang-undang protect orang macam ini.
+**Iqbal:** Dalam semua bisikan-bisikan yang berlaku selama ni, tak ada siapa pernah tanya Datuk Seri Anwar?
 
-**Rafizi:** Kalau tak ada protection, sebab itulah ia mesti — to me, it must be coded into law — untuk kita protect orang-orang yang tak ada access kepada benda-benda macam ini. Jadi dari segi libel pun, kalau it's not criminal in nature, contohnya kalau perbuatan itu menghamburkan kata-kata yang menyebabkan berlakunya jenayah selepas itu—
+**Rafizi:** You sebenarnya nak suruh saya sebut orang takut kat Farhash?
 
-**Host:** So currently for the cyberbullying case, even if someone dies, no one is punished by the law?
+**Iqbal:** Adakah? Adakah?
 
-**Rafizi:** The law is inadequate untuk perkara itu, seperti yang saya fahami daripada perbincangan-perbincangan dalam kerajaan sebelum ini. The law— cuma the difficulty is, memang kita bincang, offensive dengan annoyed ni macam mana nak bezakan? It's too loose.
+**Rafizi:** I don't know, you should ask other people. Because I don't, I don't. Cuma sebelum saya meletakkan jawatan kan, sebarang isu mengenai Farhash semua ni — kerana kalau sebut Farhash, dia akan dikaitkan dengan Datuk Seri Anwar kan? Jadi perkara ini perlu kita bawa secara dalaman kepada Datuk Seri Anwar. Dan memang...
 
-**Host:** Macam mana?
+**Iqbal:** Pada pengetahuan YB, pernahkah?
 
-**Rafizi:** Offensive lah. Sebab ada orang rasa offended, ada orang tidak, dan akan ada pihak yang kata ini akan disalahgunakan. Ini telah dibangkitkan di dalam kabinet — macam mana kita nak pastikan ia tidak disalahgunakan, contohnya oleh ahli politik, atau even Jason Leong buat lawak yang dia rasa funny tapi it's offensive to other people. Macam mana you nak protect dalam situasi macam itu?
+**Rafizi:** Dah dah dah. Kami sendiri pun ada sebut berkali-kali. Tapi jawapan Datuk Seri Anwar itulah — dia kata, "Dia bekas setiausaha politik saya." Dia bukan isu sama ada Farhash ni bekas ke masih lagi memegang jawatan ke tidak. Soalnya ialah apabila ada cakap-cakap daripada ramai orang dalam dan luar kerajaan yang menunjukkan Farhash ada pengaruh yang besar dalam keputusan kerajaan — yang itu sudah tentu perlu ditangani, betul ke tidak. Kalaupun dia tak betul, persepsi itu berbahaya. Jadi memang dibawa kepada Datuk Seri Anwar, tapi jawapan Datuk Seri Anwar seperti itulah: "Tak ada kena-mengena, dia bekas setiausaha politik saya."
 
-**Host:** Possible, possible.
+**Chak Onn Lau:** Yang aneh bagi saya kerana isu Farhash ni macam tengah dibisik-bisik untuk lama dah kan? Tetapi opposition tak ambil kesempatan untuk mengambil nama dia keluar dekat media pun.
 
-**Rafizi:** So it was raised and debated. Sebab itu, bagi saya, proses itu kena berlaku — maksudnya kalau mahkamah dah strike it down, you kena draft balik, kena go through that process semula. Tapi pada masa yang sama, kalaupun ada kesilapan, Fahmi Fadzil patut pergi terangkan kepada rakyat, why you need this. Make sure orang faham — siapa yang baca semua Multimedia Act ni? Siapa baca Penal Code? Kecuali you pergi mahkamah macam saya ni, selalu kena dakwa. Most people don't know what it is. Sepatutnya diterangkan betul-betul supaya cukup ramai orang faham, dan pada masa yang sama boleh chip in. Macam mana kita nak manage the balance itu.
+**Rafizi:** Opposition malas! Malas!
 
-**Host:** So what you're saying is the communications minister has a communications problem.
+**Iqbal:** Nak buat investigative work ni susah, payah.
 
-**Rafizi:** Saya tidak perlu mengatakan itu — semua orang sudah tahu itu. Kami sudah jemput YB Fahmi Fadzil. InsyaAllah lepas ini dia akan terima jemputan kita.
+**Rafizi:** Saya perhati aje dia orang ni kan. Dia orang ni sebenarnya...
 
-**Host:** That would be an understatement kalau dia yang cakap. Baiklah, mungkin kita pergi ke soalan seterusnya, berkaitan dengan Jemaah Menteri. Berdasarkan pengalaman YB sebelum ini bersama mereka dalam kabinet, ahli mana yang YB rasa paling underwhelming, dan yang paling mengagumkan YB selepas melihat prestasi mereka?
+**Iqbal:** Adalah ahli-ahli pembangkang yang pernah kena saman dengan Farhash, ada.
+
+**Rafizi:** Ya ya. Tak tak, tapi maksudnya sebarang isu yang dia nak bawa tu, bagi dia hanya menyebut itu telah buat kerja. It's not, tau. It takes so much work untuk check satu-satu, confirm semua, build the case. Dan kalau contohnya kita tak bersetuju dengan sesuatu dasar, bukan saja tak setuju, kena beritahu kenapa, apa alternatifnya, kira, projection, semua tu kena buat. Jadi saya nampak pembangkang tak sampai ke peringkat itu. Jadi mainan dia hanyalah satu, iaitu menyebut sahaja dengan harapan orang marah. Sebut, marah. Sebab itu saya tengok sebelum kebelakangan ini lah, antara tahun 2024 sampai awal 2025 kan, sokongan pembangkang tu dah plateau. Dah mendatar. Sebabnya ialah there's so much you can extract daripada emosi tau. You actually need to build a case.
+
+**Chak Onn Lau:** The same drum lah kan?
+
+**Rafizi:** Same drum semua kan. Jadi lama-lama orang bosan lah. Tapi sebenarnya banyak aje isu. Kalau saya pembangkang, masaklah kerajaan sekarang! Tapi saya tengok dia malas, dia...
+
+**Chak Onn Lau:** Lagi seronok kan jadi pembangkang?
+
+**Rafizi:** I don't know, I'm not pembangkang now.
+
+**Iqbal:** Tapi kalau mengingat balik zaman YB menjadi pembangkang, adakah zaman tu lagi seronok daripada sekarang?
+
+**Rafizi:** Tak boleh banding sebab you must understand kan, zaman saya jadi pembangkang, saya ada 14 kes.
+
+**Chak Onn Lau:** Boleh pakai pakaian ungu, seronok juga.
+
+**Rafizi:** Ha, saya setiap bulan masuk lokap. Jadi I think ah, you guys pun bila you make fun of government, you have to put that into perspective tau. The fact that you can say all this and tak masuk lokap, that is already a big achievement lah kan.
+
+**Iqbal:** Saya sebenarnya nak tanya pasal point tu, YB. Sebab lepas serangan yang berlaku tu berlaku, ramai yang berkongsi pendapat mereka bahawa cakap apa pun pasal kerajaan zaman BN dulu, tapi tak pernah masa YB kutuk kerajaan BN dulu, famili YB sendiri kena. Do you agree with that assessment yang kononnya kerajaan BN dulu lagi baik sebab at least zaman dulu famili YB tak diserang?
+
+**Rafizi:** I think benda tu is not apple to apple comparison. Are we saying — adakah kita nak kata nak letak aku dalam penjara tiga tahun dalam keadaan anak aku baru 5 tahun itu tak zalim? Ha? I mean, slapping me with 14 cases, tiap-tiap minggu kadang-kadang masuk lokap, itu tak zalim ke? Kan? I mean, cerita anak ke apa, ini semua sama aje. Ini soal bila ada sebarang tekanan ataupun ancaman, pihak yang rasa terancam — dalam kes sekarang ni saya tak tahu siapa — tapi pihak yang rasa terancam dia memilih cara yang ganas kan? Cuma zaman BN dulu, saya ingat zaman Najib, dia gunakan segala aparatus kerajaan lah.
+
+**Chak Onn Lau:** Tong simen bukan kerajaan pun ada.
+
+**Rafizi:** Tong simen semua kan. So saya tak kena, orang lain kena.
+
+**Iqbal:** So on that note, kita nak pergi ke soalan seterusnya.
+
+**Chak Onn Lau:** Yeah, so...
+
+**Rafizi:** Oh okey, dah bukan Farhash eh?
+
+**Chak Onn Lau:** No, masih Farhash-lite lah yang ni. Okey okey.
+
+**Rafizi:** At least it's not MCKK macam Victor lah.
+
+**Chak Onn Lau:** Ha bukan bukan bukan bukan. MCKK dah siap dah. Dah past year dah. Okey, so yang ni soalan terakhir tentang Farhash lah, okey. Dan dia bukan tentang Farhash directly. Saya rasa seorang kawan dia tanya, kerana YB pun dah kena attack, yang ni suntikan tu kan. Kita ada kes yang lain — orang kena serang and then people are blaming the government in some way or other lah. Kes Pastor Raymond, you know, Pamela, Teoh Beng Hock. So sekarang YB dah masuk government and then you know, apa yang — what is your feeling about this incidents?
+
+**Iqbal:** So yang dalam...
+
+**Chak Onn Lau:** Macam sama ke tak yang serang kepada...
+
+**Iqbal:** Dalam kes-kes ni orang akan sebut perkataan 'deep state'.
+
+**Chak Onn Lau:** Ha, deep state, ya betul.
+
+**Rafizi:** I mean, I don't think setiap kes tu boleh letak dalam satu bakul lah. It's not apple to apple every single one kan. Dia ada unik fakta kesnya, circumstances dia kan. Tapi when it comes to...
+
+**Chak Onn Lau:** The existence of the deep state.
+
+**Rafizi:** When it comes to keadaan yang mana kes-kes ini tidak dapat diselesaikan kan, of course then orang tanya kenapa begitu? Dan selalunya, kalau satu perkara yang selalu menjadi — I wouldn't say it's a dilemma lah — dia jadi pertimbangan besar dalam kerajaan ataupun jabatan kerajaan ialah menjaga reputasi mereka. Itu kita kena ubah. Maksudnya kalau kita kata deep state ni kan, kadang-kadang pun tak adil kepada banyak pegawai kerajaan yang lain. Sebab majoriti pegawai kerajaan tu is just like you and me. They just want to do a good job kan. Tapi ada bad apples. Bad apples yang kadang-kadang buat rogue ke, ataupun dia ambil rasuah ke, ataupun dia ambil arahan daripada orang lain ke yang berlaku kan. Cuma bila dah berlaku, kalau dia melibatkan pegawai kerajaan contohnya kan, then pertimbangan — I mean this defense mechanism bahawa kita kena lindungi, kalau tidak nama kita buruk — itu perlu berubah kan. Jadi saya tak tahu, kita tak ada fakta kes and we are not privy to every little detail kan, apa nama ni, bagi setiap kes tu kan. Orang kata macam-macam, ada kata deep state lah, ada kata pihak berkuasa yang terlibat dan sebagainya kan. I don't think keseluruhan — contohnya kalau polis, I don't think PDRM semua condone it. Tapi mereka yang buat keputusan tu, selalunya kalaupun dia tak terlibat, dia akan berfikir, "Oh kalau kita buat ni nanti moral polis jatuh. Nanti kalau menteri kata nanti kita dilihat tidak melindungi, apa nama ni, penguat kuasa."
+
+**Chak Onn Lau:** Mungkin dari angle yang lain — apakah hubungan YB dengan ahli-ahli polis? Kerana dulu kena tangkap, sekarang you suruh mereka tangkap orang lain?
+
+**Rafizi:** Saya tak — I mean, that's another thing. Menteri tak boleh nak kacau langsung tau.
+
+**Chak Onn Lau:** No, sebagai like a citizen lah kan. Sekarang like your kid got attacked, so tentulah like asking the polis untuk siasat kan? So how is the difference in the way that the police...
+
+**Rafizi:** Dia tak ada beza.
+
+**Chak Onn Lau:** Tak ada beza?
+
+**Rafizi:** Itu pun I think kan, kalaulah orang kita beranggapan that you boleh suruh polis sebab you ahli politik ke menteri, that's wrong you know. Saya — that, okey.
+
+**Iqbal:** Okey, tolong betulkan persepsi tu.
+
+**Chak Onn Lau:** Ya, betulkan persepsi tu kerana persepsi memang ada.
+
+**Rafizi:** Because each one of us has the equal right dalam undang-undang. Dan setiap daripada kita tertakluk kepada undang-undang yang sama kan. Jadi kalau contohnya saya ditangkap, saya dituduh melanggar peraturan tertentu, saya perlu disiasat dan sebagainya, saya tertakluk kepadanya itulah. Sebab tu saya rasa polis semua suka saya masa saya kena tangkap. Saya tak buat hal, saya tak macam Tian Chua gigit telinga orang lah. Saya tak cuba buat apa nama ni huru-hara. Dia suruh aku jalan kaki, aku jalan kaki.
+
+**Iqbal:** Okey YB, tapi prinsip kita semua sama rata bawah mata undang-undang itu mungkin theoretically betul. Tapi kita nampak banyak contoh di mana undang-undang tak mungkin...
+
+**Chak Onn Lau:** Serata.
+
+**Iqbal:** Ya, dari segi contohnya ibu curi susu untuk kanak-kanak, dia dapat penjara beberapa hari, curi berjuta-juta ringgit, rasuah...
+
+**Chak Onn Lau:** Memang ada persepsi yang kuat yang...
+
+**Rafizi:** Itu kena tanya Kamar Peguam Negara dan juga hakim.
+
+**Iqbal:** Okey.
+
+**Rafizi:** I mean, I always defended judges. Tapi saya berharap — dan I want to share a story kan. Masa saya pergi UK kan, every summer bila cuti, antara benda yang saya tak miss, saya akan ambil satu minggu duduk dalam mahkamah.
+
+**Chak Onn Lau:** Kenapa?
+
+**Iqbal:** Mahkamah kat mana?
+
+**Rafizi:** Mahkamah kat Kemaman lah, kat Kuantan semua. Saya duduk — I mean everyday saya akan pergi court lah. Saya duduk kat situ because kalau you nak belajar pasal masyarakat, tempat yang paling baik ialah di dalam mahkamah. Itulah suka duka manusia, tau.
+
+**Iqbal:** Itu aktiviti summer holiday.
+
+**Rafizi:** Orang lain pergi camping semua, aku duduk kat mahkamah, duduk dengar. Actually, I wish satu benda lah kan. I wish more judges kita yang berani exercise compassion. Sebab saya pernah tengok hakim-hakim, and I remember distinctively seorang hakim perempuan dekat Mahkamah Majistret Kemaman tau, that was 1996. Apa nama ni, ada seorang mak lah, dia kena dakwa mencuri susu. So dia tak ada lawyer. So nak sentencing, dia mengaku ah. Hakim tu kata, "Jangan mengaku, jangan mengaku lagi, jangan mengaku lagi!" You know, "No no, jangan mengaku," kan. Jadi I wish — sebab bila yang menjatuhkan hukuman yang tak setara ni kan, curi susu sampai 6 bulan semua — to be fair to government pun, sama ada zaman Najib dulu ke, zaman Anwar ke, or in the future zaman siapa-siapa, itu bukan kerajaan tau! Itu hakim yang menjatuhkan hukuman! Of course kerajaan boleh disalahkan kalau orang nak kata, "You tak pinda Penal Code mencuri." Tapi Penal Code tu selalunya dia luas kan, mencuri gini gini gini. If anything, kerajaan bersalah kerana tak reform the Penal Code tu untuk membezakan lagi segala-galanya kan. Tapi dia banyak bergantung kepada pendakwa raya, kepada yang itu kan. Jadi sebab itu I always feel that sebenarnya tukar kerajaan tu is not the be and end of everything. You want to change society supaya lebih, you know...
+
+**Iqbal:** Adil saksama, lebih empati.
+
+**Rafizi:** Lebih empati pasal kan, jadi...
+
+**Chak Onn Lau:** So dari mana ketidakseimbangan ni berlaku? So semasa YB sebagai pembangkang, you said you had multiple charges and you went to jail multiple times. Tapi...
+
+**Rafizi:** Lokap sahaja, belum pergi penjara.
+
+**Chak Onn Lau:** Lokap lah lokap, sorry lokap lokap. Tapi you don't see that happening very often to people in the government.
+
+**Rafizi:** Maksudnya?
+
+**Chak Onn Lau:** Like the active ministers or the winning party kan. Kan pembangkang yang lebih pergi penjara kan in the history of Malaysia. So dari kalau bukan...
+
+**Rafizi:** Eh, sekarang kita ada Perdana Menteri yang dah pernah pergi penjara.
+
+**Chak Onn Lau:** Ah, ex-bekaslah. Bekaslah, yang tu yang saya katalah, bekas. Semua bekas kan? Yeah. So maknanya ketidakseimbangan tu kalau bukan dari segi polis, then dari segi mana? Is it from the AG, you know, is it from the Attorney General ke?
+
+**Rafizi:** Yalah, dia yang ini unless satu masa nanti kita betul-betul berjaya pisahkan pendakwaan daripada...
+
+**Iqbal:** Itu juga satu poin yang kita nak tanya lagi pasal benda ni.
+
+**Chak Onn Lau:** Reform lah.
+
+**Rafizi:** Ha, itu selagi kuasa Pendakwa Raya berada di bawah Kamar Peguam Negara dan Peguam Negara itu dilantik oleh Perdana Menteri, saya rasa perkara ini akan terus berlakulah. Maksudnya kalau nak siasat menteri, dia fikir dua kali. Dia fikir tiga kali dan sebagainya, kecuali kalau dia dah jadi pembangkang. Baru mudah nak siasat.
+
+**Iqbal:** Okey, saya nak masuk soalan ni lagi lepas ni, tapi sebelum tu, next point kita nak tanya pasal soalan-soalan kau orang ada?
+
+**Chak Onn Lau:** Banyak, banyak, YB. Masa kita put out the call out for questions, memang banyak soalan.
+
+**Rafizi:** Banyak eh?
+
+**Chak Onn Lau:** Paling banyak.
+
+**Iqbal:** So ni berkaitan dengan kes yang baru selesai dua hari lepas, Heidy Quah hari tu. Dia, kalau tak silap saya, cuba ambil isu dengan Akta 233, perkataan "offensive and annoy" dalam MCMC Act. Tak silap saya, YB pun pernah kena bawah Seksyen MCMC? Tak ke? Tak pernah?
+
+**Rafizi:** Tak pernah. Bukan 233 eh. Saya dalam Penal Code kerana menghina UMNO. Itu saya dicharge dan saya menanglah kan. Penal Code kerana didakwa menghina UMNO. Dalam Penal Code pun ada satu kesalahan kalau menghina...
+
+**Chak Onn Lau:** Menghina juga?
+
+**Iqbal:** Okey, so tapi kes ni berkaitan dengan — mungkin masa YB berada dalam Jemaah Menteri, ada tak perbincangan-perbincangan tentang pindaan akta-akta zalim ni, dan setakat mana perbincangan tu sampai?
+
+**Rafizi:** No, ada. Contohnya saya ingat, saya ingatlah, pasal perkataan offensive and annoy ni kan, I think kita kena imbangkan di antara perspektif kita yang kita tengok daripada lensa politik dengan ancaman daripada perkara-perkara yang offensive and annoying ni yang dibuat oleh orang biasa yang tak ada kena-mengena dengan politik. Selalunya yang dapat highlight kes macam ini kerana ia melibatkan politiklah ataupun human rights kan. Tapi macam mana kalau contohnya kes buli, orang buli dengan perkataan offensive — sebab pindaan ini, kalau seingat sayalah, dibincangkan selepas satu kes seorang wanita membunuh diri selepas kena cyberbully. Jadi sebenarnya undang-undang kita tidak cukup lengkap untuk mendakwa yang terlibat tu. Sebab tu dia hanya didakwa dengan satu caj yang kecil dan dia bayar denda dan dibebaskan saja kan. Jadi on that sense, I mean, the cap that I wear semasa menteri dahulu ialah — as much as kita selalunya orang yang partisan ni, kita akan selalu melihat daripada lensa politik and we always kata, "Ni mesti ada benda nak buat ni. Ni mesti ada benda nak buat," kan. What I learned daripada my time sebagai menteri ialah sebenarnya the world doesn't revolve around us. Ada banyak lagi kes-kes orang biasa ini yang kena buli, yang offensive semua. Tapi bila nak ambil tindakan, tak boleh. Ambil contoh kes Zara sekarang kan. Kita juga ada peraturanlah. You can debate this peraturan betul ke tidak. Pendakwa Raya meletakkan peraturan dia mesti melebihi probability tertentu sebelum boleh caj. Maksudnya probability menang tu, if I'm not mistaken, 90% baru boleh caj kan. Jadi bila nak caj yang lebih tinggi tapi rasa probability tu tak boleh menang, sebab kalau buat tanpa rule itu, dia membuang masa DPP dan juga mahkamah. Caj caj caj, semua ni taxpayers' money. Caj caj caj, semua kalah kalah kalah kalah. Orang marah juga kan? Jadi dia letakkan that bar. Masalahnya bila you letak that bar, undang-undang macam ini alamak tak boleh caj. Jadi there's always a tendency kadang-kadang untuk charge for minor offense. Rakyat pula marah kan? Jadi that's the complication yang saya rasa soal Akta MCMC pasal offensive 233 ni is a lot more complicated daripada kes yang dibawa inilah.
+
+**Iqbal:** Do you want to ask...
+
+**Chak Onn Lau:** It's not black and white lah, it's not black and white.
+
+**Iqbal:** Tak, tanya Dr. Jason punya soalan.
+
+**Chak Onn Lau:** So Dr. Jason tanya dari saya tentang YB Fahmi Fadzil lah kan, that he wants to strike out — appeal against the court decision to strike out "offensive and annoy". Tapi, you know, yang Fahmi Fadzil yang kita kenali, dia yang pergi Bersih, dia kata anti-corruption semua dalam movement reformasi Anwar. So kenapa yang ni semua dah tukar? Aku tahu it's not black and white.
+
+**Rafizi:** Yeah, it's precisely because of that lah kan. Jadi in this case, saya bukanlah nak defend Fahmi Fadzil. Aku kalau satu podcast tak habis kalau aku nak perli Fahmi Fadzil ni kan. Tapi actually repercussion dia kepada orang ramai itu lebih besar. Dan masalah dia bila undang-undang yang berkaitan dengan perasaan — ini yang berkaitan perasaan ni. Actually bila you kata offensive, ada setengah orang offended, ada setengah orang tak. So not easy tau. Tapi the absence of peruntukan undang-undang akan membolehkan buli, cyberbully dan banyak perkara lain itu tidak boleh diambil tindakan undang-undang. Jadi let the process takes its course. Maksudnya kalau draf yang ada sekarang ini mahkamah tidak bersetuju, kerajaan kena tengok balik, redraft balik. Tapi pandangan saya kena ada peruntukan undang-undang bagi perkara-perkara yang berkaitan dengan tindakan jahat, terutamanya yang berselindung di sebalik digital era ni — platform semua, komen segala-galanya kan. Jadi sekarang kita tak cukup undang-undang untuk itu.
+
+**Chak Onn Lau:** But we have our laws for libel and all that also, you know. Like you have to pay damages and that kind of thing for false statement.
+
+**Rafizi:** You know how difficult it is to go through defamation suit? So katakanlah kalau libel kan, orang kata, "Samanlah." Saman, you nak buka satu fail paling kurang 100,000. Lepas tu turun naik mahkamah 5 tahun. Untuk ahli politik ke businessman macam Farhash bolehlah. Tapi kalau orang biasa, kalau orang biasa, sebab itu they just give up. Dan sepatutnya undang-undang protect orang macam ini. Kalau tak ada protection — sebab itu, to me, it must be coded into law untuk kita protect orang-orang yang tak ada access to benda-benda macam ini kan. Jadi libel ni, dan satu lagi, kalau it's not criminal in nature — kalau perbuatan itu, contohnya menghamburkan kata-kata yang memang menyebabkan berlakunya jenayah selepas itu, then it's criminal in nature. It must be coded.
+
+**Chak Onn Lau:** So currently for the cyberbullying case, even if someone dies, no one is punished by the law?
+
+**Rafizi:** The law is inadequate untuk perkara itu seperti yang saya difahamkan daripada perbincangan-perbincangan dalam kerajaan sebelum ini. The law cuma — the difficulty, memang kita bincang tau. Offensive dengan annoy ni macam mana? Macam mana offensive? Sebab ada orang rasa offended, ada orang tidak. Jadi I understand akan ada pihak yang berkata ini akan disalahgunakan. It has been raised di dalam kabinet. Macam mana kita nak make sure supaya ia tidak disalahgunakan, contohnya oleh ahli politik ke, or even Jason Leong buat lawak bodoh kan, that dia rasa it's funny, but it's offensive to other people. Macam mana you nak protect contohnya humor kan. So it was raised and debated. Sebab itu bagi saya proses itu kena berlaku. And meaning that kalau mahkamah dah strike it out, you kena draft balik, you kena go through that process balik. Tapi pada masa yang sama, kalaupun itu kesilapan Fahmi Fadzil, pergilah cakap dan terangkan kepada rakyat why you need this!
+
+**Chak Onn Lau:** Yes.
+
+**Iqbal:** Ya.
+
+**Rafizi:** Make sure orang faham sebenarnya. Siapa baca all these Multimedia Act ni? Siapa baca Penal Code? Kecuali you pergi mahkamah macam aku selalulah — selalu kena dakwa kan. Most people don't know what is it. So sepatutnya terang betul-betul, there will be enough people yang faham dan pada masa yang sama can chip in macam mana kita nak manage the balance ni.
+
+**Chak Onn Lau:** So what you're saying is the Communications Minister has a communications problem?
+
+**Rafizi:** I don't have to say that. Everyone knows that! Everyone knows that.
+
+**Iqbal:** Kami dah jemput dah YB Fahmi Fadzil sebelum ni. Insya-Allah lepas ni dia akan terima jemputan kita.
+
+**Rafizi:** Understatement kalau kata...
+
+**Chak Onn Lau:** Everyone is welcome to our podcast. All come.
+
+**Iqbal:** So speaking about that, maybe we go to the next question berkaitan dengan Jemaah Menteri. Again, berdasarkan pengalaman YB sebelum ni, mungkin YB boleh cuba kongsi pendapat YB daripada apa yang you kenal daripada ahli-ahli Jemaah Menteri, sebelum bersama dengan mereka dalam kabinet dengan selepas — ahli mana yang you rasa paling underwhelming dan yang paling telah mengagumkan YB selepas melihat prestasi mereka?
 
 **Rafizi:** I'm very hard to please.
 
-**Host:** Okay, yang paling kurang mengecewakan kalau begitu.
+**Iqbal:** Okey, yang paling kurang mengecewakan.
 
-**Rafizi:** Haa, nanti you kata saya bias. Let me give you, I think, beberapa baskets menteri. Saya rasa menteri-menteri daripada UMNO — contohnya Tok Mat, Khalid Nordin, kalau nak adil, Azalina — mereka tahu macam mana nak buat kerja mereka, sama ada apa yang mereka buat itu business as usual atau ada benda baru pun. Tapi you can tell that they are in control, sebab pengalaman — dia dah lama jadi menteri. So itu satu kategori.
+**Rafizi:** Nanti you kata bias pula. Let me give you, I think, baskets of ministers lah kan. Saya rasa menteri-menteri daripada UMNO lah kan — contohnya macam Tok Mat, contoh macam Khaled Nordin kan, even Azalina, to be fair, they know how to do their job. Sama ada apa yang mereka buat itu business as usual ataupun ada benda baru ke tidak, tapi you can tell that they are in control. Kan? Sebab pengalamanlah, dia dah jadi menteri lama semua kan. So itu satu kategori. Maksudnya itu satu standard bahawa orang yang dah biasa jadi minister ni, dia tak gayat tau. Dia tahu macam mana. It's just a question whether they want to push certain new things ke tidaklah kan. Kemudian kita ada satu kategori menteri-menteri baru, yang tak pernah jadi menteri langsunglah kan.
 
-**Host:** Maksudnya itu satu standard?
+**Chak Onn Lau:** Bekas pembangkang.
 
-**Rafizi:** Bahawa orang yang sudah biasa jadi minister ni, dia tak gayat. Dia tahu macam mana nak buat. It's just a question of whether they want to push certain new things atau tidak. Kemudian kita ada satu kategori menteri-menteri baru yang tak pernah jadi menteri langsung, dulunya daripada pembangkang — dan ini kali pertama mereka jadi menteri. Saya akan kata, contohnya, Nga menguruskan dengan baik. Armizan pun menguruskan dengan baik — itu pandangan saya. Loke pula, dari DAP, you boleh nampak dia tak gayat dan dia boleh command. Kemudian ada satu lagi basket — yang out of the league. Mereka struggle, saya rasa, pertama dari segi handling complexity dan variety masalah yang timbul, kedua dari segi ideas, dan ketiga — dan ini yang paling penting — dari segi command. You know, pegawai-pegawai kerajaan ni, they can smell blood. Maksudnya kalau menteri itu masuk, lepas dua tiga bulan, dia tahu — menteri ni nak baca file pun orang kena buat nota untuk dia. Pergi ke Parlimen pun panik. Apa nak jawab, mana jawapan — semua tak ada. They know straight away menteri tu boleh "dimakan." Itu kita tahulah. Ada beberapa menteri yang pernah saya sebut — kebanyakannya daripada PKR juga — Fadlina, Zaleha, Fahmi — kerana mereka tidak pernah menguruskan sebarang organisasi sebelum ini. I mean, the benefit that I had was because I worked before — I had my own company, saya pernah bekerja dalam large organisations, dalam corporate world, kemudian saya urus syarikat saya sendiri dan sebagainya. Even managing INVOKE dulu, dengan lebih 40,000 sukarelawan, itu adalah organisasi yang besar. You know the discipline, the management style and so on. But if, for example, you never managed a team of five people, suddenly you have to manage five hundred thousand people — it's hard. Impossible.
+**Rafizi:** Dan bekas pembangkang yang jadi menteri kan. I would say, contohnya, Nik actually manage it well kan. Kemudian Armizan manage it well. That's my view lah. Armizan manage it well. Obviously Loke actually basically can command. Daripada DAP you can tell Loke tak gayat dan dia boleh command kan. Kemudian you ada basket satu lagilah yang maksudnya...
 
-**Host:** Which leads us nicely into the next question. This is related to the perception that most of the reforms the people want to see have not materialised so far, and many times we hear UMNO used as a scapegoat — that these things cannot be implemented because of pushback from them. To what extent is that true?
+**Chak Onn Lau:** Out of their league?
 
-**Rafizi:** I actually disagree, and this is the first time I'm putting it on record.
+**Rafizi:** Yalah, they struggle lah saya rasa. Dia they struggle pertama dari segi untuk menangani complexity and variety of problems yang timbul kan. So kedua, dari segi idea. Ketiga, dan most importantly, is to command. You know, pegawai-pegawai kerajaan ni, they can smell blood tau. Maksudnya kalau menteri tu masuk lepas dua tiga bulan, dia tahu menteri ni nak baca fail pun orang kena buat nota untuk dia. Pergi parlimen pun panik, apa nak jawab, mana jawapan semua — they know straight away menteri tu boleh makan. So yang itu kita tahulah, kita ada menteri-menteri yang saya pernah sebutlah, banyaknya daripada PKR juga lah kan: Fadhlina, Zaliha, Fahmi kan. Jadi, dan saya rasa sebahagian sebabnya ialah kerana mereka tidak pernah menguruskan apa-apa organisasi. I mean, the benefit that I had was because I worked before.
 
-**Host:** Okay.
+**Chak Onn Lau:** Ya, your own company.
 
-**Rafizi:** Unless it's happening behind my back — meaning outside the cabinet — that has not been my experience. UMNO friends, don't be angry with me — but UMNO berada dalam permainan untuk kuasa, dari dulu sampai sekarang, dan begitu juga mana-mana parti politik lain. Cuma UMNO ini lebih lama, jadi mereka lebih faham dinamik kuasa. UMNO juga tahu, contohnya, untuk konstituen tradisi mereka — Melayu kampung — itu satu pertarungan yang sukar, sebab ada PAS, ada PN. Untuk bertanding dari segi undi Melayu, tak semudah itu sebab ada DAP bersama kerajaan sekarang. Jadi mereka sedang mencari konstituen baru — konstituen yang UMNO pernah ada tetapi hilang, contohnya Melayu bandar, contohnya bukan Melayu, contohnya golongan berpendidikan yang selama ini beralih kepada PKR/PH. Jadi sebenarnya, apa-apa yang membuat kerajaan ini popular kepada konstituen yang mereka nak fokus — UMNO okay dengan itu. Saya tak nampak UMNO ada masalah dengan itu, dan saya tak ingat sangat pun UMNO membantah — termasuk perkara-perkara yang agak radikal yang saya bawa. Kalaupun ada yang tak setuju, mereka tak bantah depan saya — mereka bantah di belakang. Kadang-kadang saya dengar itu bila saya tanya kenapa, dan mereka datang jumpa saya secara peribadi untuk beritahu tak setuju. Tapi secara rasmi, on record, saya rasa kita perlu betulkan tanggapan bahawa kelajuan reform ini perlahan disebabkan UMNO. Scapegoating UMNO tidak akan menyelamatkan PKR atau PH pun.
+**Rafizi:** I mean, daripada large organizations, daripada corporate world, kemudian I manage my own company dan sebagainya kan. Even managing INVOKE dulu dengan 40,000 plus volunteers was a huge organization kan. Jadi you tahu discipline, management style dan sebagainya. Tapi kalau contohnya you tak pernah manage a team of five people pun, tiba-tiba you nak kena manage 500,000 orang, susahlah.
 
-**Host:** Okay, jadi biar saya spesifik tentang apa yang saya maksudkan dengan kelajuan reform yang perlahan ini. Kita boleh lihat daripada janji-janji manifesto GE15, contohnya pemisahan AG dan Pendakwa Raya, nomination untuk Ketua MACC/SPRM — adakah janji-janji ini menjadi stumbling block, atau adakah ia hanya soal kelajuan?
+**Chak Onn Lau:** Mustahil.
 
-**Rafizi:** Bukan itu masalahnya. Kalau pemisahan kuasa Peguam Negara daripada kerajaan itu dibawa, semua orang bersetuju — hanya orang mungkin tidak berpuas hati dengan kelajuannya. Sebab proses untuk meminda undang-undang itu semuanya dijangka mengambil masa dua hingga tiga tahun, dan itu, mengikut standard kerajaan — dulu dan sekarang — boleh diterima. Sebab pengalaman saya, untuk buat satu akta biasanya mengambil masa tiga hingga empat tahun. Dalam kes saya, kami siapkan satu akta dalam 11 bulan, tapi it's really bloody the nose untuk buat dalam 11 bulan; tak senang. Jadi untuk sesuatu yang sebesar pemisahan kuasa Peguam Negara ini, yang melibatkan institusi dan undang-undang sedia ada, ambil masa itu adalah wajar.
+**Iqbal:** Which leads us actually to the next question nicely. So ni berkaitan dengan persepsi bahawa kebanyakan reformasi-reformasi yang ingin dilihat oleh rakyat ramai setakat ni belum dinampak, dan kebanyakan kali kita dengar UMNO digunakan sebagai scapegoat bahawa benda-benda ni tak berjaya dilaksanakan sebab ada pushback. To what extent is that true?
 
-**Host:** Ada cerita tak, YB — contohnya salah satu janji kempen yang YB cuba bawa masuk sebagai bahagian daripada Kementerian Ekonomi tetapi tak menjadi dalam kerajaan perpaduan ini?
+**Rafizi:** I actually disagree tau. Dan ini kali pertama saya put it on record.
 
-**Rafizi:** Tak ada satu pun janji itu di bawah bidang tugas Kementerian Ekonomi, dan you tak boleh kacau kementerian lain. I mean, you jadi menteri yang lousy kalau dalam kabinet, portfolio kau sendiri kau tak buat apa, tapi kau sibuk kacau portfolio orang lain. Jadi itu satu perbatasan. Adakah bangkangan? Tak ada — memang dah ada keputusan kabinet untuk perkara itu berlaku. Tapi soalnya sama ada you boleh buat dalam setahun dua tahun, berbanding tiga empat tahun. Itu yang saya rasa, perhaps, could have been sped up.
+**Iqbal:** Okey.
 
-**Host:** Kalau macam itu, contohnya isu seperti pindaan supaya segala perlantikan penting perlu melalui parlimen khas — adakah itu juga sebab, atau itu tak pernah dibawa langsung?
+**Rafizi:** Kecualilah dia berlaku di belakang saya, maksudnya bantahan itu berlaku bukan di kabinet kan. Pengalaman sayalah kan, sebenarnya UMNO ni dia bukan bantah semua tau. Okey, ini kawan-kawan UMNO jangan marah eh. I will say, my assessment of UMNO kan — UMNO is in the game for power daripada dulu sampai sekaranglah kan. And for that matter, any political party. Tapi UMNO lebih lama, jadi dia tahu dynamics of power tu lebih baik kan. UMNO juga tahu, contohnya, constituents dia untuk constituents tradisi dia iaitu Melayu kampung semua ni is a tough battle. Sebab ada PAS, ada PN kan. Dan apa dia nak contest dari segi Melayu tu not that easy sebab ada DAP dalam bersama kan. Jadi they are looking for constituent baru. Constituent baru ini adalah constituent yang UMNO dulu pernah ada tapi hilang. Contohnya Melayu bandar, contohnya non-Malay, contohnya the educated yang over the years pergi kepada PKR, PH ni kan. Jadi sebenarnya apa-apa yang popular kepada constituents yang dia nak fokus ni, UMNO okey. Saya tak nampak UMNO ada masalah. Dan saya tak ingat sangat pun UMNO bantah benda-benda yang, some of it tu, radikal yang saya bawa. Cuma Datuk Seri Anwar, mungkin kalau dia ada kat sini, dia kata, "Yalah, dia tak bantah depan you, dia bantah belakang you," kan? Kadang-kadang saya dengar itulah, when I question kenapa, dia kata, "Yalah dia orang tak setuju, dia datang jumpa saya." But on record, officially, saya rasa kita kena betulkan kalau orang kata pace of reform ini perlahan disebabkan oleh UMNO. Scapegoating UMNO will not save PKR and PH tau of this question of reform.
 
-**Rafizi:** Itu tak pernah dibawa. Sebab macam ini — sesuatu perkara itu mesti dibawa oleh kementerian masing-masing, kecuali diarahkan oleh Perdana Menteri. Perlantikan, contohnya Ketua MACC dan sebagainya, semua itu kuasa Perdana Menteri. Jadi kalau Perdana Menteri tidak membawanya, selain kita boleh sebut sana-sini dalam mesyuarat parti, ya, mati di situ. Sebab itu saya rasa sebahagian daripadanya, Dato' Seri Anwar perlu jawab — untuk meletakkan kesalahan atas UMNO bila sebenarnya tidak begitu adalah tidak adil. Tentulah kalau tanya Dato' Seri Anwar, dia ada alasan dia — setiap satu ini, contohnya kalau perlembagaan kata begini... Kalau MACC, saya tak rasa ia perlembagaan pun — ia akta. Ia tidak memerlukan pindaan perlembagaan, tapi kalau akta, dia perlu ambil pandangan pemegang taruh yang lain. Tapi saya masih rasa, at the very least, perkara itu boleh dibincangkan. Tapi memang tidak dibawa — kecuali you nak bergaduh dengan PM, tanya kenapa tak bawa yang ini, kenapa tak bawa yang itu.
+**Iqbal:** Okey, so let me be specific about what I mean by the pace of reforms ni slow. Kita boleh lihat dari janji-janji manifesto GE15. Contohnya pemisahan AG dan Pendakwa Raya, contohnya nomination untuk ketua MACC, SPRM. Janji-janji ni — adakah bila orang cakap UMNO yang jadi stumbling block daripada semua janji-janji ni dilaksanakan, that's not the case?
 
-**Host:** Jadi apa yang tadi dikatakan itu collective responsibility?
+**Rafizi:** Dia tak okey. Kalau pemisahan di antara kuasa pendakwaan daripada kerajaan itu, itu telah dibawa dan semua bersetuju.
 
-**Rafizi:** Collective. Collective responsibility.
+**Iqbal:** Okey, so what's the hold up?
 
-**Host:** Okay, bertanya sebagai seorang pengundi — masa saya letakkan undi saya dalam kotak mengundi, benda-benda yang saya harapkan waktu itu — adakah saya boleh terus berpegang kepada harapan-harapan itu, atau patutkah saya lepaskan sahaja?
+**Rafizi:** Cuma, kalau orang tak berpuas hati, adalah the pace lah, kerana proses untuk menggubal undang-undang semua tu dijangka ambil masa dua tiga tahun. Which, okey ah, which by government standard sebelum ini dan sekarang is acceptable. Kerana pengalaman saya ialah untuk buat satu akta tu, selalunya 3-4 tahun. So in my case, untuk saya, you know, Akta CCUS tu kami bangunkan dalam tempoh 11 bulan. Tapi memang berdarah hidunglah nak buat 11 bulan tu. Kan, it's not easy kan. Jadi untuk sesuatu yang sebesar itu, pemisahan kuasa pendakwaan ini melibatkan semakan daripada perlembagaan dan semua undang-undang yang ada.
 
-**Rafizi:** Saya rasa apa yang berlaku sekarang ini bagus — maksudnya kerajaan ini perlu mengimbangi tuntutan semua pihak, macam-macam kumpulan — kaum, contohnya, satu kumpulan; kelas, satu kumpulan lagi, dan sebagainya. Kerajaan boleh kata, "kita perlu imbangkan, dan kita nak beri keutamaan kepada perkara-perkara tertentu dulu sebelum yang lain." Tapi di pihak rakyat, setiap kumpulan berhak menuntut apa yang penting untuk dia, dan mana-mana yang tidak diutamakan atau dipercepatkan itu, tercicirlah. Jadi keadaan sekarang ini, saya rasa memang akan ada bising sana-sini, orang tak berpuas hati — dan itu adalah ujian dan cabaran kepada kerajaan yang menang atas platform reform. You kena imbangkan; dan kalau saya jadi rakyat atau salah satu kumpulan itu, saya pun akan rasa isu saya sepatutnya diutamakan, sebab bila dah menang, saya nak isu saya dinaikkan ke atas. Jadi saya rasa the pressure dan the discourse itu mesti diteruskan.
+**Chak Onn Lau:** Okey. So ada cerita tak YB, like mungkin one of the campaign promises dekat sini yang YB cuba menjadikan akta, tapi dalam Kerajaan Perpaduan ni tak jadi?
 
-**Host:** Tadi kita minta YB memberi grade untuk prestasi ahli-ahli menteri; sekarang mungkin kita boleh masuk kepada soalan-soalan polisi. Berdasarkan kerja kerajaan selama ini, adakah kelajuannya memuaskan?
+**Rafizi:** Tak ada satu pun janji tu di bawah bidang tugas Kementerian Ekonomi. Dan you tak boleh kacau kementerian lain! I mean, you are such a lousy minister kalau dalam kabinet, you ada portfolio, portfolio kau kau tak buat apa-apa, kau sibuk kacau portfolio orang lain. Okey kan. So itu satu pendakwaan kan. I think isu dia kalau ditanya adakah bantangan, tak ada. Memang dah ada keputusan kabinet pun untuk itu berlaku. But whether or not you can do it in one year or two years instead of three or four years, yang itu, bagi saya, perhaps we could have speeded it up a bit lah.
 
-**Rafizi:** Tak, saya rasa perlahan.
+**Iqbal:** Okey, so contohnya kalau lantikan politik dan semua patutnya melalui satu jawatankuasa khas parlimen, adakah itu juga alasannya?
 
-**Host:** Kenapa perlahan?
+**Rafizi:** Itu tak pernah dibawa.
 
-**Rafizi:** It's a combination of issues. Ini adalah momentum yang saya tetapkan untuk diri saya sendiri bila saya mula-mula ambil alih jawatan — kita ada lima tahun untuk satu penggal kerajaan. Perubahan-perubahan asas dan visi yang perlu dibuat, mesti dicuba dalam dua tahun pertama, supaya selepas itu you fokus kepada implementation. Jadi sama ada you nak tukar undang-undang atau you nak lancarkan benda baru, buat dalam dua tahun pertama, supaya selepas itu ia mula ada legasi, ada kesan kepada rakyat — dari segi ekonomi, undang-undang — supaya tiga tahun berikutnya, you fokus kepada pelaksanaan. Tapi, sebab masing-masing bergantung kepada kementerian masing-masing, menteri masing-masing, dan juga kepada Perdana Menteri, saya rasa dalam dua tahun pertama itu, ada menteri yang masih mencari ritma — dia sendiri masih dalam learning curve, nak belajar semua ini. Jadi perkara-perkara yang sepatutnya, pada saya, menetapkan rentak dari awal, terserah kepada kementerian masing-masing — itu yang pertama. Kedua, perkara-perkara reform besar, contohnya dari segi perlantikan dan sebagainya — itu tak boleh tunggu lama, sebab orang akan menuntut selepas setahun. Kemudian kita ada pula kes seperti Tan Sri Azam Baki yang berlanjutan, jadi orang memang marah — dan perkara-perkara itu sepatutnya di bawah kawalan Perdana Menteri, perlu dibuat dalam tempoh dua tahun yang sama. Setakat ini kita tahu, itu semua tak berlaku sepenuhnya.
+**Iqbal:** Okey, so apa masalah benda macam tu?
 
-**Host:** Untuk faham dinamik ini lebih lanjut, contohnya seperti PADU — inisiatif itu datang daripada kementerian YB sendiri kan? Jadi lepas itu macam mana — you hantar emel kepada PM dulu, atau hantar kepada kabinet, dan dapat konsensus atau bantahan? Itu dinamiknya, atau you free untuk buat apa sahaja yang you nak buat?
+**Rafizi:** Sebabnya begini kan, sesuatu perubahan itu mesti dibawa oleh kementerian masing-masing.
 
-**Rafizi:** Tak, tak. Apabila sesuatu keputusan itu melibatkan dasar atau akta yang perlu ditukar, atau bidang kuasa orang lain, you kena bawa ke kabinet. Jadi dalam kes PADU, contohnya, ia dibentangkan di Majlis Tindakan Ekonomi Negara dan dipersetujui. Bila dipersetujui di situ, dibawa ke kabinet, dan kabinet setuju. Jadi semua setuju — tak ada yang tak setuju. Tapi budaya kita di Malaysia ini, seperti saya katakan tadi, dia setuju depan, sabotaj di belakang. Tadi ada orang tanya apa status PADU sekarang — PADU beroperasi 100 peratus. Masa kita bentangkan dan dapat arahan untuk buat, diagnosisnya ada dua tiga keperluan. Kenapa kita perlukan satu pangkalan data utama yang bersepadu — satu, dari segi kos, lebih daripada apa-apa lain. Apa maksudnya? Contohnya, kerajaan belanja setiap tahun lebih kurang RM13 bilion untuk sistem IT — lebih kurang RM7 bilion sebagai capex, RM6 bilion sebagai opex. Kenapa ia terus naik dari tahun ke tahun? Sebab sistem-sistem ini tidak integrated. Setiap kementerian, setiap jabatan, buat sistem dia sendiri, from scratch. Kalau you tahu macam mana nak develop sistem, buat from scratch bermakna back-end you kena buat balik, front-end pun sama — dan back-end forms big chunk of the expenditure. Kemudian you lalui proses yang sama lagi — you suruh orang mendaftar, you belanja untuk promosi dan sebagainya. Semua maklumat ini sebenarnya sudah ada dalam kerajaan.
+**Iqbal:** Okey.
 
-**Host:** Cuma undang-undang tidak membenarkan perkongsian?
+**Rafizi:** Kecuali disuruh oleh Perdana Menteri. Dan pelantikan, contohnya Ketua Pesuruhjaya MACC ke semua ni kan, itu semua kuasa Perdana Menteri. Jadi kalau Perdana Menteri tak bawa, selain daripada kita boleh sebut sana sini di dalam mesyuarat parti ke apa, yalah, dia mati di situlah. Sebab itu saya rasa sebahagiannya Datuk Seri Anwar kena jawab. To put the blame on UMNO ke apa, sebenarnya tidak adillah. Of course kalau tanya Datuk Seri Anwar, dia ada alasan dialah kan. Setiap satu ini, contohnya kalau perlembagaannya kata begini — kalau MACC tu sebenarnya, I don't think it's perlembagaan, dia akta pun. So dia tidak memerlukan pindaan perlembagaan kan, tapi kalau akta kan, tapi yalah, dia kena ambil pandangan pemegang taruh yang lain: Majlis Raja-Raja, Agong, yang lain semua tu kan. But I still think lah, at the very least perkara itu boleh dibincangkan. Tapi memang tak dibawalah. Jadi kecuali you nak bergaduh dengan PM, tanya, "Kenapa tak bawa yang tu? Kenapa tak bawa yang ini?" dan sebagainyalah.
 
-**Rafizi:** Betul. Undang-undang tak membenarkan perkongsian.
+**Chak Onn Lau:** So YB Nik kata it's collective what ah? Collective...
 
-**Host:** Oh, saya tak tahu itu. So bukankah itu hanya soal fixing data?
+**Iqbal:** Collective responsibility.
 
-**Rafizi:** Oh tidak, ia lebih rumit daripada itu. Pertama, kenapa penggabungan data dalam sistem kerajaan ini baru berlaku sekarang? Tak pernah berlaku sebelum ini. Takkanlah kerajaan-kerajaan sebelum ini tak pernah terfikir untuk buat ini — mereka memang terfikir, tapi mereka berputus asa, sebab mereka perlu tukar undang-undang dahulu, kemudian gabungkan semua data ini. Dalam akta, memang disebut tak boleh kongsi data dengan pihak lain — sebab isu privacy.
+**Chak Onn Lau:** Ha, collective responsibility.
 
-**Host:** PDPA?
+**Iqbal:** Jadi, okey, then bertanya sebagai seorang pengundi — masa saya pergi letak vote kat kotak mengundi tu, ini benda-benda yang saya telah mengharapkan masa tu. Adakah saya boleh berpegang kepada harapan-harapan tu, ataupun adakah saya patut lepaskan aje benda-benda macam tu?
 
-**Rafizi:** Bukan, PDPA datang jauh kemudian. Contohnya, akta pendaftaran — bidang kuasanya ialah Jabatan Pendaftaran Negara. Bila kita daftar IC, sijil lahir dan sebagainya, akta itu memberi kuasa untuk mengumpul data dan maklumat itu hanya kepada Jabatan Pendaftaran Negara, dan akta itu secara spesifik menyatakan data itu tidak boleh dikongsi. Begitulah keadaannya bagi setiap satu akta. Jadi you have to pass the hurdles — perlukan satu keputusan dasar kerajaan untuk kongsi data, dan kita nak pool semua data itu — hence PADU. Selepas itu kita ada Akta Omnibus, Akta Perkongsian Data pun sudah ada. Kemudian, once itu ada, you actually have to do it pula. Sebabnya, kalau kita ada satu pangkalan data yang integrated di back-end, selepas ini setiap app atau sistem baru hanya perlu fokus kepada front-end — the skin sahaja — sebab you boleh draw data yang sama daripada situ. Kepada pengguna pula, takkan kat JPJ daftar sekali, Jabatan Pendaftaran Negara daftar sekali lagi — kita selalu complain pasal ini. Tapi bila kita buat PADU, orang bandar seperti korang pun yang paling bising. Sebab ia isu timing — bertembung dengan pengumuman penyingkiran subsidi petrol. Itulah sebabnya orang tanya apa jadi dengan PADU. Sebenarnya, once you have all this data daripada semua jabatan kerajaan, dan kita buka peluang kepada rakyat untuk mengemas kini — sebab kerajaan sudah pun ada data you daripada LHDN, daripada EPF, kerajaan tahu berapa gaji you — you boleh tambah atau betulkan, kalau tidak orang akan kata data itu salah. Jadi bila kita buka, first use case, once you have all that, sebenarnya itu adalah data paling tepat tentang kedudukan sosio-ekonomi mana-mana keluarga. Jadi kalau you nak buat penyasaran semula subsidi yang betul-betul tepat, that's the data we have. So it's not a question of PADU — it's a question of use cases. Use case paling besar yang patut digunakan ialah untuk penyasaran semula subsidi. Tapi MOF tak bersetuju.
+**Rafizi:** No no, I think it's good what is happening sekarang. Maksudnya kerajaan ni dia nak kena imbangkan tuntutan semua pihak. Dalam masyarakat ada macam-macam kumpulan kan. Kamu ni Bangsar, contohnya kan. Bangsar satu grup, Klang satu grup semua kan. Of course kerajaan boleh kata, "Oh kita nak kena imbangkan dan kita nak beri keutamaan kepada perkara-perkara lain. Jadi kita buat yang ini dulu sebelum yang itu," semua kan. Tapi...
 
-**Host:** MOF nak guna cara dia sendiri? Kenapa?
+**Iqbal:** Jadi apa fokus kerajaan sekarang?
 
-**Rafizi:** Saya rasa sebahagiannya politik. You kena ingat, kerajaan gabungan ini menghadapi banyak cabaran. Sebab bajet untuk bantuan-bantuan yang diagihkan oleh pelbagai jabatan — kerajaan ada sekitar 217 bentuk bantuan tunai, dengan bajet lebih kurang RM26 bilion. Idea PADU ialah, sekali dah ada centralised database, tak payah lagi lima, enam, tujuh jabatan bagi secara berasingan. Sebab bila diagihkan secara berasingan, ada exclusion error, ada inclusion error — ada orang dapat empat kali, ada yang tak dapat langsung, sebab data itu berasingan. Selepas ini, dengan satu pangkalan data sahaja, semua itu tersusun — tapi itu bermakna hilang pengaruh, hilang kuasa, hilang bajet untuk jabatan-jabatan berkenaan. Periuk nasi tertutup. Jadi sebab itulah, bila nak melaksanakan PADU, banyak tentangan. Ada juga yang rasa kalau kita buat penyasaran semula subsidi, kita akan kalah pilihan raya — DAP contohnya mati-matian tak bersetuju.
+**Rafizi:** Di pihak rakyat, setiap kumpulan itu berhak untuk menuntut apa yang penting untuk dia. Dan yang mana yang hendak diutamakan, dicepatkan itu — kalau tinggalkan kepada orang politik semata-mata, maka akan ada yang tercecirlah. Jadi keadaan yang sekarang ini, saya rasa memanglah akan ada bising sana, bising sini, orang tak puas hati semua kan. Dan itu adalah ujian dan cabaran kepada kerajaan yang menang atas tiket reform. You kena imbangkan. Dan kalau saya jadi rakyat atau kumpulan pun, saya akan rasa macam ini — suruh bayar. Because bila dah menang, saya punya isu ni paling bawah sekali. I want isu I ini dinaikkan ke atas kan. So I think the pressure dan juga the discourse must continue.
 
-**Host:** Kalau katakan saya nak dapat bantuan, dan saya boleh letak pendapatan saya, saya boleh update maklumat itu sendiri — saya mungkin ada bisnes sendiri yang bergaji RM10,000 sebulan, tapi saya declare pendapatan saya RM1,000 sebulan, dan tak ada cara nak check benda itu sebab saya freelance — soalan tambahan ini pun ramai orang tanya, T15/T10 macam mana nak disemak?
+**Iqbal:** Okey. Tadi kita ada minta YB mungkin bagi gred — gred sebagai jiwa pensyarah tu — untuk setiap prestasi ahli-ahli menteri. Mungkin kita boleh masuk kepada soalan-soalan polisi. Berdasarkan...
 
-**Rafizi:** Actually kalau you freelance, you masih perlu bayar cukai, you masih file LHDN. Jadi kalaupun tak ada dalam EPF, ia akan ada dalam LHDN. Yang betul-betul berisiko tak ada maklumat daripada LHDN mahupun EPF hanyalah informal workers yang gaji rendah — RM1,500, RM2,000 — dan orang macam ini besar kemungkinan memang layak untuk dapat bantuan. Tapi kalau orang yang memang berpendapatan tinggi, it will appear somewhere — sebab itu kita perlu gabungkan semuanya. Jadi kalau dia mis-declare pun, memang ada algoritma yang akan check — dia kata pendapatan seribu, tapi kereta dia BMW, rumah dia macam ini, dekat LHDN rekod cukai tiga tahun terakhir menunjukkan lain. Algoritma itu akan automatically flag perkara itu.
+**Chak Onn Lau:** Yang mana?
 
-**Host:** Itu juga sebahagian sebab saya rasa ada orang tak suka PADU — mereka takut dengan ketelusan itu, takut kerajaan akan tahu mereka misdeclare atau under-declare.
+**Iqbal:** Next question.
 
-**Rafizi:** Ya, betul. Ada juga, terutamanya orang bandar, yang melihat PADU sebagai satu cara kerajaan untuk kejar orang bayar cukai. Jadi opposition kepada PADU ini banyak sebabnya — dalam kerajaan sendiri ada bentuk lain, orang ramai pun ada bentuk lain. Tapi sebagai sebuah negara, kita tak boleh bergerak ke depan tanpa satu centralised database. And that job is done. Mana-mana kerajaan yang masuk selepas ini tinggal cuci kaki sahaja — sudah ada. Mereka cuma perlu fikirkan use case macam mana nak digunakan. Sekarang PADU sudah ada beberapa use case — contohnya PTPTN sedang mengusahakan use case untuk pertimbangkan bagaimana bayaran bulanan patut dikategorikan mengikut kumpulan sosio-ekonomi, dan mereka fall back kepada PADU. Begitu juga yang lain — setiap kali sesebuah agensi perlu assess kedudukan kewangan atau sosio-ekonomi seseorang dengan lebih adil, mereka akan fall back kepada PADU.
+**Chak Onn Lau:** Oh next ah, sorry.
 
-**Host:** Cuba saya faham — jadi sekarang status PADU ialah pangkalan data asas sudah siap dan boleh digunakan oleh setiap kementerian, tapi use case-nya belum siap sepenuhnya?
+**Iqbal:** If we go into the policy questions, setakat ni bila kita bincang pasal polisi-polisi yang akan, ataupun sedang, ataupun telah dilaksanakan, adakah pace kerja kerajaan selama ni okey?
 
-**Rafizi:** Use case yang belum dipersetujui hanyalah untuk RON95 — terutamanya bila PM sudah umumkan tak akan ada penyasaran semula subsidi untuk itu, sebab harga akan turun kepada RM1.99 untuk semua, jadi tak perlu database untuk itu — semua orang akan dapat. Tapi untuk use case lain yang orang ramai tak tahu — contohnya Kementerian Digital sedang membangunkan satu aplikasi tersentral, saya rasa MyGov namanya, sebab sekarang ada macam-macam app, setiap satu kos duit, tak update, vendor pun banyak, dan kepada rakyat ia menyusahkan — sepatutnya cuma satu app sahaja yang ada semuanya. Itu sebahagian daripada usaha mendigitalkan kerajaan. Jadi Kementerian Digital, semasa membangunkan itu — saya tak tahu bila mereka akan launch — back-end-nya memanglah PADU. Cuma rakyat tak nampak; PADU seolah-olah nampak macam RON95 sahaja, sedangkan ia jauh lebih luas daripada itu. Bayangkan, you tak ada back-end untuk sistem you. PADU itulah back-end untuk sistem kerajaan, dan ia sudah siap.
+**Rafizi:** No, saya rasa perlahan.
 
-**Host:** Maksudnya sekarang YB, dengan kementerian YB, telah destroy semua silo?
+**Iqbal:** Okey.
 
-**Rafizi:** Bukan sepenuhnya begitu. Selepas PADU wujud, boleh sahaja MOE atau kementerian lain masih menjaga silo mereka sendiri — masih ada database sendiri. Sebab bila kita buat PADU, kita bukan hapuskan semua database lain, tapi ia mengekstrak daripadanya. Sekarang, sebab ini sudah jadi dasar kerajaan untuk kongsi dan gabungkan data, mereka mesti bagi — BPF bagi, LHDN bagi. Jadi database mereka masih ada, cuma untuk beberapa kementerian yang besar — MOF, KDN, Jabatan Pendaftaran Negara — tapi kementerian yang kecil, tak masuk akal untuk mereka spend duit membangunkan database sendiri sebab tak akan boleh rival database PADU yang besar. Jadi mereka akan gunakan PADU sahaja. Tapi tak ada apa yang menghalang mereka — cuma mungkin rakyat tak faham "ikan besar" ini. Dalam RMK-13 pun kita sudah letakkan enterprise architecture, dan enterprise architecture ini mesti berada di atas sekali, menggabungkan semua kementerian. Jadi kalau ada kementerian atau jabatan yang cuba buat sistem sendiri tapi tak fit ke dalam enterprise architecture itu, dan oleh itu perlu dibuat dari awal — bila mereka minta bajet daripada Kementerian Ekonomi, kami tak akan bagi. Sebab you tak perlu buat A, B, C, D, E — you hanya perlu buat C dan D, sebab yang lain sudah ada dalam PADU. That's how you control it juga.
+**Rafizi:** Saya rasa perlahan.
 
-**Host:** I think we have to move on already from that. Baiklah, mungkin kita masuk soalan terakhir — Cyber Troopers. Dari segi penyampaian maklumat, usaha untuk menyampaikan inisiatif kerajaan, kebanyakannya dilakukan oleh cyber troopers. Kami dapat dua soalan berkaitan itu. Yang pertama, salam daripada Wahid — kepada Rafizi sebagai aktivis politik: kenapa ramai penyokong YB yang bersifat rasis, seksis, ableist dan klasis? Satu lagi soalan — adakah YB sedar ramai orang di Twitter, kebanyakannya misogynist dan bullies, dan adakah ada apa-apa yang sekurang-kurangnya pemimpin PKR akan buat tentang perkara ini?
+**Iqbal:** Jadi di mana kenapa perlahan?
 
-**Rafizi:** Tak, saya rasa saya tak boleh campur adukkan itu. Itu saya kekalkan — kadang-kadang bila ada yang kasar atau apa-apa, sebab kalau saya block je, orang bising-bising, block je lah. Sebabnya begini — kita ini negara yang pandangannya sangat berbeza-beza. Orang ini kata seseorang seksis dan sebagainya, orang lain pula kata sebaliknya. I mean, it's a free world — it's Twitter, it's X. You gaduh lah kat situ. Contohnya ada dua tiga orang penyokong PSM yang complain sokongan mereka teruk — saya tak boleh pergi marah PSM sebab saya tak suka suara seseorang di situ. Saya tak boleh, dan you tak boleh apply satu rule kepada diri sendiri tapi rule lain untuk orang lain. So let it be. Kalau pada saya, you tak suka sangat, then don't take it — kecuali you nak report sebab benda-benda itu annoying dan offensive. Sebab apa yang offensive kepada you mungkin tak offensive kepada orang lain. So there's always two sides of the coin. Ada orang kata macam ini, ada orang pandang kita secara berbeza. Jadi bagi saya, let it be — payah-payah nak block atau comment. That's it.
+**Rafizi:** It's a combination of issues lah. Ini yang kira momentum yang saya set untuk diri saya sendiri masa saya mula-mula ambil alih tugas kan. Kita ada 5 tahun untuk satu penggal kerajaan kan. Apa-apa perubahan dasar dan visi yang nak dibuat itu mestilah diusahakan dalam dua tahun pertama supaya sebab lepas dulu-dulu, you kena laksana. Tak, you kena laksana lepas tu kan. So you nak ubah undang-undang ke, you nak lancar benda baru semua, you ubah buat dua tahun pertama supaya lepas itu dia mula ada bekas, ada kesan dia kepada rakyatlah kan yang ekonominya, yang undang-undangnya supaya baki tiga tahun itu you fokus kepada pelaksanaan kan. Tapi sebab masing-masing saya ingat bergantung kepada kementerian masing-masing, menteri masing-masing, juga kepada Perdana Menteri kan. Saya rasa dalam dua tahun pertama tu, ada menteri yang masih lagi mencari rhythm. Kemudian dia pun on a learning curve kan, dia pun nak belajar semua ni. Jadi perkara-perkara yang sepatutnya bagi sayalah menetapkan rentak tu daripada awal, dia terpulang kepada kementerian masing-masing. Tu yang pertama kan. Kedua, perkara-perkara reform yang besar contohnya dari segi lantikan dan sebagainya ini pun sama. Yang itu tak boleh tunggu lama sebab orang akan tuntut. Lepas satu tahun bla bla bla, kemudian kita ada pula kes macam Tan Sri Azam Baki sambung, sambung, sambung kan. Jadi dia memang orang akan marahlah. Dan benda-benda itu sepatutnya perkara yang berada di dalam kawalan Perdana Menteri yang perlu dibuat dalam tempoh dua tahun pertama yang by now we know lah tak semuanya berlakulah.
 
-**Host:** Okay, soalan terakhir — ini soalan pertama yang kami tanya dan juga soalan terakhir. YB pernah menulis di MCKK, buat profiling dulu—
+**Chak Onn Lau:** So untuk meningkatkan pemahaman dynamic ni kan, so contohnya macam PADU, okey, that initiative memang datang dari department from your ministry kan? So lepas tu ada like hantar email kepada PM dulu ke atau hantar email kepada kabinet and then dapat konsensus or bantahan, is that the dynamic atau you are free to do whatever you want to do?
 
-**Rafizi:** Eh, mamat yang letak benda itu dah meninggal, pergi tanya dia. *(ketawa)* Nak jadi PM?
+**Rafizi:** No no, tak. Apabila sesuatu keputusan itu melibatkan dasar atau akta yang perlu ditukar ataupun melibatkan kementerian-kementerian lain, bidang kuasa orang lain, you kena bawa kat kabinet. Jadi dalam kes PADU contohnya, ia dibentangkan di Majlis Tindakan Ekonomi Negara dan dipersetujui. Bila dipersetujui di Majlis Tindakan Ekonomi Negara, bawa ke kabinet, kabinet setuju. Jadi semua setuju, tak ada yang tak setuju tau. Tapi budaya kita negara Malaysia ni macam saya katalah, dia setuju depan, sabotaj belakang.
 
-**Host:** Kalau boleh — kalau YB nak. Tapi sebelum itu, saya ada satu soalan susulan. Kalau YB boleh pilih mana-mana kementerian sekalipun untuk diambil alih pada masa depan, yang mana satu? Saya ada bertaruh dengan salah seorang kru YB tentang kementerian mana yang YB akan pilih — yang mana paling impactful untuk YB, bila YB nak buat perubahan?
+**Iqbal:** Okey, so then cuba terangkan sikit ada...
 
-**Rafizi:** Saya tak tahulah macam mana orang lain nak jadi menteri atau kenapa mereka nak jadi menteri. Saya rasa, kalau you masuk politik dan you nak berkhidmat dalam kerajaan, itu bermakna you nak buat perbezaan. Dan you hanya boleh buat perbezaan kalau you passionate tentang benda itu. Saya hanya passionate dalam dua tiga perkara — pertama, ekonomi, apa-apa yang berkaitan ekonomi; kedua, pendidikan; ketiga, yang berkaitan industri — teknologi, industri-industri. Sebab benda-benda itu adalah sesuatu yang saya tahu, saya pernah terlibat, dan bukan sekadar IT sahaja.
+**Chak Onn Lau:** Semua orang sabotajlah.
 
-**Host:** Something like MITI, maksud YB?
+**Iqbal:** Ada orang tanya apa status PADU sekarang then?
 
-**Rafizi:** Tak, maksud saya — janganlah letak saya di Kementerian Belia dan Sukan contohnya, saya tak boleh buat perbezaan di situ. Ia seperti — sebab you tak bagus dalam sukan masa di MCKK dulu kan? Kalau you jadi PM, bila you nak assign seseorang kepada satu kementerian atau portfolio, ia mesti sesuatu yang bersesuaian dengan kepakaran dan minat dia, barulah dia boleh buat kerja dengan baik. Jadi saya rasa saya dikenali — saya hanya bagus dalam beberapa perkara ini sahaja. Kalau saya jadi Menteri Luar, mesti berperang — saya bukan diplomat, saya cakap apa yang saya nak cakap. Janganlah letak saya jadi Menteri Agama contohnya. Jadi saya rasa hanya dalam beberapa portfolio ini sahajalah saya boleh buat perbezaan.
+**Rafizi:** Status PADU beroperasi 100% lah.
 
-**Host:** Dan bagaimana pula cita-cita untuk jadi PM — macam mana timeline itu berubah dengan perkembangan-perkembangan tiga bulan kebelakangan ini?
+**Rafizi:** PADU masa kita bentangkan dan dapat arahan untuk buat kerana diagnosisnya ada dua tiga keperluan kenapa kita perlukan satu pangkalan data utama yang bersepadu. Satu, actually dari segi kos more than anything else yang mungkin rakyat di luar tak faham.
 
-**Rafizi:** Saya tahu korang tak akan percaya — saya tak ada ambisi langsung dalam politik pun.
+**Iqbal:** What does that mean? Apa maksud tu?
 
-**Host:** You've been quite consistent about that, to be honest.
+**Rafizi:** Contohnya kan, kerajaan belanja setiap tahun lebih kurang 13 bilion tau untuk IT system. Lebih kurang 7 bilion sebagai capex, lebih kurang 6 bilion sebagai opex kan. Kenapa dia terus naik dari satu tahun ke satu tahun ini ialah kerana sistem-sistem ini tidak integrated. Setiap satu kementerian ke jabatan, dia nak buat sistem, dia buat from scratch. If you know how to develop system lah, doing it from scratch tu maksudnya back end you kena buat balik, front end semua. And back end forms quite a big chunk of that expenditure. And then you go through the same process. You nak suruh orang mendaftarlah, kemudian you belanja untuk promosi dan sebagainya. Semua maklumat ni ada dalam kerajaan. Cuma undang-undang tidak membenarkan perkongsian.
 
-**Rafizi:** Tak, tak ada bukti kepada sesiapa — mana ada ahli politik yang boleh berjalan keluar dan berkata selamat tinggal macam yang saya buat beberapa tahun lalu. Namakan seorang. Saya walk out di kemuncak PH menang 2018 — saya just walk out dan cakap bye-bye, good luck to you guys. Saya pergi jogging dan saya sangat happy dengan hidup saya. Sekarang pun saya boleh just walk out. Saya tak tahu dah berapa kali saya kena ulang — sebenarnya saya tak ada minat dalam kuasa. Dan tak seperti orang lain, saya rasa saya tak melihat politik atau kuasa sebagai satu-satunya cara untuk membuat perbezaan atau perubahan. Tapi — itu satu "tapi." Maksud saya, if it comes, it comes. Tanggungjawab saya, pada saya, jauh lebih besar — untuk pastikan masyarakat tidak hilang keyakinan terhadap konsep reform ini, terhadap perubahan masyarakat. Dan saya rasa Bernie Sanders tak perlu jadi Presiden AS untuk buat perbezaan. Jadi ia macam — dan saya rasa itu yang buat saya happy, sebab saya tak ada goal untuk jadi menteri atau apa-apa. Sama ada saya MP atau bukan MP, suara dan pandangan saya sekarang ini masih matter. Dan sekali you sampai ke peringkat hidup saya ni, sebenarnya tak banyak beza pun sama ada satu cara atau yang lain.
+**Chak Onn Lau:** Oh!
 
-**Host:** Tapi mungkin boleh tanya soalan itu dalam bentuk lain — tanggungjawab itu satu amanah, satu burden. If duty called, would you answer?
+**Rafizi:** Tak boleh! Undang-undang tak membenarkan perkongsian.
 
-**Rafizi:** Yes, if duty calls. But the end does not justify the means. Kalau seseorang kata, "oh, kita kena selamatkan negara dengan jadi Perdana Menteri," maka you kena keras kepala nak jadi PM — that's a work for... I mean, right? Dan saya selalu rasa, maintaining yourself — cuba jadi sebanyak mungkin macam diri you semasa berumur 20-an, semasa you seorang budak muda yang naif — itu penting semasa you semakin tua, sebab you cenderung untuk lose sight.
+**Chak Onn Lau:** I didn't know that.
 
-**Host:** Macam mana YB rasa YB buat setakat ini dari segi itu?
+**Iqbal:** So bukankah itu cuma then a matter of fixing the akta?
 
-**Rafizi:** Tak, tak, tak — saya jauh lebih wise sekarang. Saya rasa dulu saya sangat naif — saya betul-betul nampak dunia dalam hitam putih.
+**Rafizi:** Oh no no, it's a lot more complicated than that. So pertama, kenapa menggabungkan data dalam sistem kerajaan ni hanya berlaku sekarang, tak pernah berlaku sebelum ini? Takkanlah kerajaan sebelum ni tak terfikir nak buat ni? Memang dia orang terfikir, tapi dia give up. Sebab dia perlu tukar undang-undang, kemudian dia kena apa nama ni combine semua data ni kan.
 
-**Host:** Jadi sekarang dah tak lagi?
+**Chak Onn Lau:** Wait, so dalam akta ada sebut tak boleh kongsi data dengan...
 
-**Rafizi:** Saya rasa semuanya great sekarang. Sangat great.
+**Rafizi:** Yap, yap, yap, betul.
 
-**Host:** Tapi YB tak anggap diri YB jaded?
+**Iqbal:** Apa contoh sebabnya sebelum ni?
 
-**Rafizi:** Tak, saya tak jaded. Sebenarnya, saya rasa kita sudah mencapai banyak. Orang lain — itu kembali kepada soalan tentang jadi Perdana Menteri, jadi berkuasa — bergantung macam mana you quantify pencapaian you. Kalau you quantify dengan jadi menteri, Perdana Menteri, kuasa dan sebagainya — okaylah, ada banyak debat tentang itu. Saya tidak. Bagi saya, saya masih ingat betul-betul apa yang saya nak buat bila saya masuk politik dulu — dengar benda-benda yang bodoh sangat, dan saya rasa surely kita boleh buat lebih baik daripada ini. Jadi so long as suara-suara progresif itu masih hidup, saya rasa itu satu pencapaian yang kita sudah capai sepanjang tahun-tahun ini. Sama juga dengan benda-benda yang kita ambil for granted sekarang — ini semua tak wujud semasa saya muda dulu. Demonstrasi, kita ambil for granted sekarang — dulu tak wujud. Backbencher boleh cakap — dulu pun tak wujud. Semua ini adalah pencapaian yang saya rasa saya sumbangkan kepadanya, dan saya rasa ia sesuatu yang berbaloi untuk diteruskan dalam 10, 15 tahun akan datang. Cuma, saya tak jangka perubahan berlaku serta-merta — ia incremental.
+**Rafizi:** Ya, sebab privacy.
 
-**Host:** Baik, saya rasa itu tempat yang sesuai untuk kita akhiri perbincangan ini.
+**Iqbal:** Oh.
 
-**Rafizi:** Korang ni macam kucing-kucing saya yang penakut je. *(ketawa)*
+**Chak Onn Lau:** PDPA?
 
-**Host:** Tak, sebab dah lewat — sudah pukul 10.30, sudah masuk waktu tidur saya sebenarnya. Terima kasih YB kerana sudi join podcast bekas menteri kami. Kalau ada bekas menteri lain yang nak sertai podcast kita, sila — siapa lagi? Kena tunggu reshuffle, atau tiga bulan lagi? Sorry, Najib Razak, kalau YB nak, YB boleh hubungi kami — kita boleh buat secara remote. Terima kasih kepada semua penonton. Seperti biasa, tinggalkan pandangan anda di ruangan komen di bawah tentang perbincangan ini. Kami cover semua yang anda nak tahu. Dan seperti biasa, keep it on Chilli Sauce untuk lebih isu semasa, tambah pedas.
+**Rafizi:** No no, PDPA came much later. Contohnya bila Akta Pendaftaran yang bidang kuasanya ialah Jabatan Pendaftaran Negara kan, bila kita daftar IC...
+
+**Chak Onn Lau:** Census lah eh?
+
+**Rafizi:** No no no, IC IC. IC semua kan, surat lahir semua ni kan, surat beranak semua kan. Akta itu memberi kuasa untuk mengumpul data dan maklumat itu hanya kepada Jabatan Pendaftaran Negara. Dan akta secara spesifik, tak boleh kongsi! Begitulah bagi setiap satu kan. Jadi then you have to pass the hurdle. Sebab itu dia perlukan satu keputusan dasar: kerajaan nak kongsi data and we want to pool all the data. Hence PADU lah kan. Of course lepas itu kita ada apa nama ni Akta Omnibus, Akta Perkongsian Data tu dah ada. Kemudian once itu dah ada, then you actually have to do it pula. Sebabnya kalaulah kita database semua lain you nak combine semua. Kalaulah kita ada satu pangkalan data integrated back end satu kan, setiap lepas ini setiap satu app atau sistem yang baru, dia hanya fokus kepada front end. Dia hanya fokus kepada the skin sahaja because then you draw the same data daripada situ. Kemudian kepada pengguna, takkan kat JPJ daftar sekali, Jabatan Pendaftaran sekali semua kan. I mean, we complain about it. Tapi bila buat PADU, urbanites macam kau orang juga yang duk bisingnya!
+
+**Chak Onn Lau:** Kerana dia ada isu timing waktu tu. Kerana dia timing sama dengan apa ni the announcement for the petrol subsidy removal juga.
+
+**Rafizi:** Is it? That's the thing, okey. Okey, so orang tanya apa jadi macam PADU kan dengan PADU. Actually once you have all this detail daripada semua jabatan kerajaan dan kita buka untuk bagi peluang kepada rakyat kemas kini because government already has your data tau. Daripada LHDN lah, daripada EPF, we know. Government tahu berapa gaji you semua ni kan. Tapi untuk you tambah atau perbetulkan, kalau tidak orang kata data salah kan. Jadi bila kita buka, so the first use case once you have all that, sebenarnya that is the most accurate data of socio-economic standing of any family. So kalau you nak buat penyasaran semula subsidi yang betul-betul tepat, itulah yang ada, data itulah yang ada kan. Jadi bab itu, so it's not a question of PADU, it's a question of use cases. Jadi use case yang paling besar yang sepatutnya digunakan ialah untuk penyasaran semula subsidilah. MOF tak bersetuju. MOF nak pakai dia punya.
+
+**Iqbal:** Kenapa?
+
+**Rafizi:** Well, I think it's partly politics, partly you know. Okey, you kena ingat eh, kalau kenapa PADU ni dalam kerajaan ni dia ada banyak tentangan? Sebabnya bajet untuk bantuan-bantuan semua ni yang diagihkan oleh pelbagai jabatan yang ada ni, kerajaan ada sekitar 217 bentuk bantuan tunai tau. 217 kan. Bajet dia I think is about 26 billion. The moment and then the idea of PADU ialah bila dah ada centralized, tak payahlah 5, 6, 7 jabatan bagi asing-asing ni because bila you bagi asing-asing ni, you ada exclusion error, you ada inclusion error. Ada orang dapat empat, ada orang tak dapat langsung sebab data asing-asing ni kan. You have one full snapshot, then instead of bagi sikit sikit sikit, you bagi banyak sekali go, tapi orang yang tak dapat tak dapatlah, orang yang dapat kan. Jadi I think that frightens a lot of people lah.
+
+**Chak Onn Lau:** Kenapa?
+
+**Rafizi:** Yalah bajet dia lepas tu! Kalau sebelum ini saya ada satu unit, saya ada ini, saya ada bajet saya dalam 200 juta untuk bagi sekian sekian sekian, lepas ini semua ni dah didasentralize-kan melalui satu database sahaja. Itu bermakna hilang pengaruh, hilang kuasa, hilang bajet dan sebagainyalah.
+
+**Iqbal:** Periuk nasi ditutup.
+
+**Rafizi:** Ha, jadi sebab itu bila nak laksana saja apa nama ni PADU tu, dia banyak tentangan. Ada juga tentangan yang rasa kalau buat penyasaran semula subsidi ni, kita akan kalah pilihan raya. Jadi DAP contohnya mati-matian tak bersetuju.
+
+**Iqbal:** Okey jap, so ni mungkin soalan noob sikit. So contohnya this is a very concrete example off the top of my head. Kalau katakan saya nak bantuan dan saya boleh letak saya punya pendapatan, saya boleh kemas kini maklumat tu sendiri. Saya mungkin ada bisnes sendiri and setiap bulan gaji saya 10,000 tapi then saya just cakap gaji sebulan saya pendapatan sebulan saya 1,000 dan tak ada cara nak check benda tu sebab mungkin saya freelance. Ada bagaimanakah...
+
+**Chak Onn Lau:** Ha soalan tambahan juga. Banyak orang kata tanya kan, T15, T10 ni macam mana nak semak?
+
+**Rafizi:** Dia actually kalau you're freelance, you still have to pay tax, you still file your LHDN. Jadi kalaupun tak ada dalam EPF, dia akan ada dalam LHDN. Dia yang betul-betul berisiko tidak ada maklumat daripada LHDN ataupun EPF hanyalah informal workers yang gaji bawah-bawah ni, 1,500, tapi orang ni besar kemungkinan memang layak untuk dapat bantuanlah. Tapi kalau orang yang memang ada pendapatan, it will appear somewhere. Sebab itu kita kena gabungkan semuanya. Jadi kalau dia misdeclare pun kan, memang ada algorithm yang tengok dia ni sekian sekian sekian, income dia dia kata 1,000, tapi kereta dia dia ada BMW, rumah dia dia banyak ni, dekat LHDN ada macam ini, dia punya last three years punya tax return. So the algorithm will automatically flag up sebenarnya.
+
+**Chak Onn Lau:** So PADU ada algorithm macam tu?
+
+**Rafizi:** Ya, memang ada, ada. That's also part yang saya ingat ada setengah orang tak suka PADU lah. Maksudnya dia dia they fear the transparency. They fear that, "Alamak, lepas ni kerajaan tahu aku misdeclare ke, underdeclare ke apa semua ni," kan. Jadi ada juga orang terutamanya orang bandarlah yang melihat PADU ni sebagai satu cara untuk kerajaan kejar orang bayar tax. Kan? So ada yang macam tu kan. Jadi opposition kepada PADU ni dia banyak pelbagai-bagai. Dalam kerajaan ada jenis bentuk lain, orang ramai ada yang bentuk lain. Tapi as a country, kita tak boleh bergerak ke depan tanpa ada satu centralized database. And that job is done. Mana-mana kerajaan masuk lepas ni, cuci kaki aje. Dah ada dah. Cuma they just have to think the use cases nak buat macam mana. So sekarang ini PADU contohnya, memang dah ada beberapa use cases. Contohnya PTPTN, they are working on a use case untuk dia nak pertimbangkan yang mana apa nama ni bayaran bulanan macam mana because you need to categorize into socio-economic groups kan. Then they fall back to PADU lah. Dan juga yang lain, and I think as we go along, setiap kali dia nak assess kedudukan kewangan ataupun sosioekonomi seseorang itu more fairly, they will fall back to PADU.
+
+**Chak Onn Lau:** So okey, that was the question also from one of the people because cuba saya faham eh. So sekarang status PADU maknanya basis database semua dah ada yang boleh digunakan by each ministry lah. Tapi kegunaan tu belum siap lagi kan?
+
+**Rafizi:** You mean use case?
+
+**Chak Onn Lau:** Maknanya use case lah. Untuk let's say for the petroleum subsidy...
+
+**Rafizi:** No no, use case yang tidak dipersetujui hanyalah untuk apa nama ni RON95. Especially bila PM dah pergi umum lepas ini tak ada penyasaran subsidi pun sebab harga memang turun kepada RM1.99 kepada semua. So there's no need database for it, semua orang akan dapat. Tapi untuk use cases yang lain yang orang ramai tak tahu, contohnya Kementerian Digital sedang membangunkan satu centralized aplikasi, app kan, apa ni I think MyGov.
+
+**Chak Onn Lau:** For what?
+
+**Rafizi:** Because sekarang ni ada macam-macam and each one costs money. Kemudian tak update and then vendornya banyak and so on. And actually kepada rakyat, dia menyusahkan. You should just have one app yang semua ada kat situlah. And that's part and parcel of digitizing our government service kan. So apa nama ni Kementerian Digital when they have been developing it, I don't know bila dia nak launch, memanglah back end dia adalah PADU. Cuma we don't — I mean, rakyat tak pergi dia nampak PADU ni seolah-olah RON95 saja. It's actually much much wider than that. Imagine you tak ada back end untuk your system. So PADU is the back end untuk government system, and it is done.
+
+**Chak Onn Lau:** Okey, soalan terakhir tentang PADU kan. Maknanya sekarang YB telah basically your ministry has destroyed all the silos or after PADU exists, can MOF still maintain their silo? Can MOE still maintain their silo? Maknanya they ada data sendiri, tak payah plug into PADU.
+
+**Rafizi:** No, di apa nama ni kementerian masing-masing masih ada apa nama ni database masing-masing.
+
+**Chak Onn Lau:** Okey.
+
+**Rafizi:** Sebabnya ialah bila kita buat PADU, bukannya kita hapuskan semua database yang lain, but it extracts, it integrates. So contohnya...
+
+**Chak Onn Lau:** Only if they give it to you lah kan?
+
+**Rafizi:** No, now because it's dasar, dia memang bagilah! Kan dah jadi dasar kerajaan untuk kita kongsi data dan gabungkan, dia kena bagilah. EPF bagi, LHDN bagi. Okey, now so database tu ada, dia orang punya pun ada. Kecuali untuk beberapa kementerian yang besarlah. Kementerian yang besar ni hanyalah yang banyak data ni contohnya hanyalah MOF, hanyalah contohnya KDN kan, Jabatan Pendaftaran Negara. Kementerian-kementerian lain, data dia kecil. Jadi memang it doesn't make sense for them to spend money ataupun nak bangunkan database dia because dia takkan dapat rival database PADU yang besar. So dia akan gunakan PADU lah. But nothing stops them. Cuma sekarang yang mungkin pendengar tak faham...
+
+**Chak Onn Lau:** Bikin masalah.
+
+**Rafizi:** Tak, kita juga — I mean before and in fact dalam RMK-13 tu memang kita dah letakkan, sistem IT kerajaan mesti berdasarkan kepada enterprise architecture. And enterprise architecture ni mesti di atas sekali yang menggabungkan semua kementerian-kementerian. Jadi contohnya, kalaulah ada kementerian atau jabatan A dia pandai-pandai nak buat dia punya sendiri tapi dia tak fall into the right spot ataupun dia tak fit into enterprise architecture dan therefore dia kena buat daripada scratch, bila dia pergi minta bajet dekat Kementerian Ekonomi, Kementerian Ekonomi kata tak nak bagi, tak bolehlah sebab dia tak fit. Because you don't have to do A, B, C, D, E. You should only do C and D sebab A, B, C ni PADU dah ada, yang ni dah ada, yang ni dah ada. That's how you control it jugalah.
+
+**Iqbal:** Paham.
+
+**Chak Onn Lau:** I think we have to move on to the next...
+
+**Iqbal:** How was the time?
+
+**Rafizi:** Oh itulah yang kau orang kata apa nama ni pedasnya? Kau orang nak tanya pasal PADU lah rupanya. PADU senang aje!
+
+**Chak Onn Lau:** Yang ni nak tanya ke tak?
+
+**Iqbal:** Maybe then we wrap up to the last question, cybertroopers.
+
+**Chak Onn Lau:** Last question, cybertroopers.
+
+**Rafizi:** Oh.
+
+**Iqbal:** Satu soalan pasal cybertroopers. So maybe the last last wrapping up.
+
+**Chak Onn Lau:** Next one, next one, next one. Quite far, quite far.
+
+**Iqbal:** Yes.
+
+**Rafizi:** Lama mana kau orang buat kompaun soalan ni?
+
+**Chak Onn Lau:** Oi, banyak soalanlah.
+
+**Iqbal:** So, mungkin penultimate question. Dari segi penyampaian maklumat, mungkin kita boleh nampak usaha-usaha menyampaikan inisiatif-inisiatif kerajaan kebanyakannya dibuat oleh cybertrooper. To a certain extent, to a certain extent the most visible usaha untuk menyampaikan kerja-kerja kerajaan adalah cybertrooper. Dan kita dapat dua soalan berkaitan dengan cybertrooper. Salam YB Rafizi, sebagai seorang ahli politik, kenapa ramai dalam kalangan penyokong-penyokong Anwar yang rasis, seksis, ableist, dan classist? Dan seorang lagi tanya, are you aware yang banyak cybertrooper Twitter mostly men are misogynist dan bullies? Dan adakah ada apa-apa yang at least pimpinan PKR akan buat pasal benda ni?
+
+**Rafizi:** No, I think saya tak boleh campur tau. That I maintain kan. Kadang-kadang bila ada yang kasar ke apa because...
+
+**Iqbal:** Sebab Rafizi YB block aje.
+
+**Rafizi:** Aku bising-bising aku block aje kan. Sebabnya begini kan: kita ni negara yang majmuk. Pandangannya sangat berbeza-beza. Orang itu kata mamat ni you know apa nama ni sexist dan sebagainya, orang ini pula kata orang ni — I mean, it's a free world, it's Twitter, it's X. You gaduhlah kat situ. Kalau contohnya ada dua tiga orang yang PSM, saya tahu penyokong PSM yang duk mengadu tak habis-habis tag aku, "Oh your supporter ni teruklah," itu. Takkan aku nak pergi marah dekat PSM, "Aku tak sukalah minah ni bising kat sini." I can't. And you cannot apply one rule to yourself and different rules to other people. So let it be lah kan. Kalau to me, you tak suka sangat, then jangan layanlah. Kan? I mean, unless you nak pergi report as those things are annoying and apa nama... Annoying and offensive, ha kan! Because what is offensive to you might not be offensive to other people. So there's always two sides of the coin. Kita kata orang macam ini, orang tengok kita lain tau. So to me, let it be. Payah-payah kau block or kau mute. Ha, habis cerita.
+
+**Iqbal:** Okey. Then the final question.
+
+**Chak Onn Lau:** The final question eh? Okey. One more.
+
+**Chak Onn Lau:** Okey, so it was the first question we asked and it's the last question we ask. You wrote in the MCKK profile last time, the debate profile like...
+
+**Rafizi:** Eh mamat yang letakkan benda tu dah mati tau, pergi tanya dia.
+
+**Chak Onn Lau:** Nak jadi PM. If you could, if you would...
+
+**Chak Onn Lau:** Okey, sebelum tu, I had one follow-up question before that lah. If you were to choose, you had the choice of whichever kementerian that you wanted to take over you know in the future, which one would it be? So I had a bet with one of your guys about which kementerian that you would pick lah.
+
+**Rafizi:** You see, you see...
+
+**Chak Onn Lau:** Like which would be the most impactful for you and you want to make your change?
+
+**Rafizi:** I think tak tahulah orang lain jadi menteri macam mana dia nak jadi kementerian ke apa kan. I think lah. Kalau you masuk politik and then you want to serve government, maksudnya because you want to make a difference. And therefore you can only make a difference kalau you are passionate about it. I'm only passionate in two or three things aje. Satu, the economy, anything related to economy lah. Secondly, apa nama ni education. Third is apa nama ni industry-related lah, tech-related, industry-related. It's because those things are something that I know, I have been involved and it's not just apa nama ni...
+
+**Iqbal:** So maksudnya macam MITI? Something like MITI, do you mean?
+
+**Rafizi:** No, I mean janganlah letak aku Kementerian Belia dan Sukan contohnya. I cannot make a difference kan. Jadi kalau it's like katakanlah...
+
+**Chak Onn Lau:** Because you won't get sports at MCKK, right?
+
+**Rafizi:** So it's like apa nama ni kalau you jadi PM, bila you nak assign seseorang kepada kementerian atau portfolio tu, dia mestilah sesuatu yang bersesuaian dengan kepakaran dia, minat dia, barulah dia boleh buat kerja dengan baik kan. Jadi I think I'm known, I'm only good in those few things. Kau suruh aku jadi Menteri Luar, perang tau! I'm not a diplomat! I mean, I say what I wanted to say kan. Jadi tak bolehlah. Menteri Luar ni kena orang yang diplomasi dan sebagainya kan. Jangan letak aku jadi Menteri Agama kan contohnya. So I think only on those few and I think it's known, only in those few portfolios I can make a difference.
+
+**Chak Onn Lau:** Okey, and then so lepas tu cita-cita nak jadi PM dan how has this timeline been changed by the recent developments in the last three months?
+
+**Rafizi:** I know that kau orang takkan percayalah, I have no ambition even in politics.
+
+**Iqbal:** You've been quite consistent about that, to be honest.
+
+**Rafizi:** And didn't it prove to anyone, mana ada politician who just walk out and say bye-bye in the last few years? Name me one. I walk out at the height of PH menang 2018, I just walk out and say bye-bye, good luck to you guys. I went jogging and I'm very happy with my life. Now menteri, I just walk out. Actually, I don't know how many times I have to repeat — I have no interest in power actually. And unlike other people, I think I don't see politics or power as the only means to make a difference or change kan. But there's a but kan. So I mean if it comes, it comes. My responsibility to me is much bigger — to make sure that society is not disillusioned with this concept of reform, with changing society semua ni kan. And I think Bernie Sanders doesn't have to become president of the US to make a difference. So it's like, and I think that makes me happy, sebab aku tak ada sasaran kena jadi menterilah apa semua. And I think whether I'm an MP ke, I'm not an MP ke, my voice and my view by now still matters.
+
+**Iqbal:** Okey.
+
+**Rafizi:** And once you reach my stage in life, actually it doesn't make that much difference anymore either way.
+
+**Iqbal:** Okey, tapi just untuk mungkin tanya soalan tu dalam bentuk yang lain. Sesuatu that responsibility adalah satu amanah, satu burden. If duty called, would you answer?
+
+**Rafizi:** Yes.
+
+**Iqbal:** Okey.
+
+**Rafizi:** If duty calls. But the end does not justify the means. Kalaulah ada orang kata, "Oh kita kena selamatkan negara dengan jadi Perdana Menteri," lepas tu kau tunggang-langgang nak jadi Perdana Menteri, it's what for? I mean kan. So and I always feel that maintaining yourself, and you know, try to be as much as possible as what you were when you were in your 20s, when you were a stupid young boy actually, is important as you grow older. Because you tend to lose sight kan.
+
+**Chak Onn Lau:** And how do you think you're doing on that?
+
+**Rafizi:** Not good, I got...
+
+**Iqbal:** Have you become anything...
+
+**Rafizi:** I'm a lot wiser now lah. I'm a lot wiser now. I think I was extremely naive. I was extremely naive. I really see the world in black and white kan. And...
+
+**Iqbal:** Was, so sekarang dah tak lagilah?
+
+**Rafizi:** I think everything is grey by now. It's very grey.
+
+**Iqbal:** Tapi you wouldn't consider yourself jaded?
+
+**Rafizi:** No, I'm not. Actually, okey ah — I think we have achieved a lot, kan. Orang lain that goes back to that question about being prime minister, power, minister kan — it depends on how you quantify your achievement. Kalau you quantify dengan yalah jadi menteri, perdana menteri, power semua, okeylah, you know, it's okeylah, there's a lot of debate about that kan. I didn't. To me, I remember exactly what I wanted to do when I entered politics kan. Satu, aku tak nak — I don't like to listen to benda-benda bodoh sangat, tau. I feel like surely we can do better than this. Jadi so long as those voices, those progressive voices, are well and alive, I think that is an achievement that we have made over the years. Sama juga contoh benda-benda that we take for granted now — this we take for granted, it didn't exist when I was young. Demo, we take it for granted sekarang, it didn't exist. Competitive democracy where pembangkang boleh pumpang-pumpang, backbencher boleh cakap lain — it didn't exist back then. These are all the achievements that I think I contributed to, and I think it's something worth doing over the next 10 years, 15 years. Cuma, I don't expect change to happen instantly lah, it's incremental.
+
+**Iqbal:** Baik, saya rasa itu tempat yang elok untuk akhirkan perbincangan.
+
+**Rafizi:** Kau orang macam kucing-kucing aku yang takut aje tengok!
+
+**Iqbal:** Tak, sebab dah lewat dah, pukul 10:30. Masa saya punya bedtime, to be honest.
+
+**Chak Onn Lau:** Terima kasih YB for joining our bekas minister podcast. Kalau ada bekas menteri yang lain yang nak join podcast kita, please...
+
+**Rafizi:** Siapa lagi? Kena tunggu reshuffle lah kut. Kena tunggu reshuffle atau bertukar kerajaan lagi tiga bulan.
+
+**Chak Onn Lau:** Banyak YB — sorry, Najib Razak, if you want you can call.
+
+**Iqbal:** Kita buat remote. Baik, terima kasih kepada semua penonton-penonton Yang Berhenti Menteri x Siapa Makan Cili. As always, leave your thoughts in the comments about the perbincangan below — did we cover everything you wanted to know — and as always, keep it on Cilisos for more current issues, tambah pedas.
+
+**Chak Onn Lau:** Bye!
