@@ -182,19 +182,19 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [16:38] Rafizi: ya ini bagi dia orang lah komen. Satu minggu, satu parhas. Ini ikon usahawan muda yang paling terkenal. Anak-anak muda kenal. Silakan aku nak minum air. Zaim. Zaim. Sebab dia lah...
 
-[16:51] Zaim Zulkifli: I think... Farhaj ni orang kenal lah. Tapi pernah jumpa tak? Tak pernah jumpa. Itu pelik je. Tapi kalau... Kalau tadi... I mean like bila kita borak-borak dengan kawan apa semua, orang kenal dengan Farhaj. And orang like very interested dengan dia. In a sense that macam mana dia boleh jadi dia yang sekarang. So budak-budak kat uni,
+[16:51] Zaim Zulkifli: I think... Farhash ni orang kenal lah. Tapi pernah jumpa tak? Tak pernah jumpa. Itu pelik je. Tapi kalau... Kalau tadi... I mean like bila kita borak-borak dengan kawan apa semua, orang kenal dengan Farhash. And orang like very interested dengan dia. In a sense that macam mana dia boleh jadi dia yang sekarang. So budak-budak kat uni,
 
 [17:11] Rafizi: kalau kat UIA tu macam mana? Mereka semua kenal
 
-[17:13] Zaim Zulkifli: Farhaj lah. I don't think semua lah. Tapi somehow bila mention, somehow orang boleh ingat macam, macam kita sebut Anwar, orang macam, Oh Anwar Ibrahim ke? Macam tu lah. Farhaj macam, oh Farhaj yang ni ke? So people like boleh like recognize yang Farhaj ni somehow important tapi orang pun tak tahu how deep lah dia punya
+[17:13] Zaim Zulkifli: Farhash lah. I don't think semua lah. Tapi somehow bila mention, somehow orang boleh ingat macam, macam kita sebut Anwar, orang macam, Oh Anwar Ibrahim ke? Macam tu lah. Farhash macam, oh Farhash yang ni ke? So people like boleh like recognize yang Farhash ni somehow important tapi orang pun tak tahu how deep lah dia punya
 
-[17:33] Rafizi: peranan. So pandangan apa nama ni, your circle, kawan-kawan kau yang umur 20-an ni pandangan dia orang macam pasal Farhaj ni macam mana?
+[17:33] Rafizi: peranan. So pandangan apa nama ni, your circle, kawan-kawan kau yang umur 20-an ni pandangan dia orang macam pasal Farhash ni macam mana?
 
 [17:43] Syuk: Sejujurnya, kalau kumpulan saya, saya tak kenal pun. Oh. Mungkin yang kenal... Tapi kau memang bias....yang layan politik aku. Tak, sebenarnya... Ya? Orang tak kenal? Macam kalau orang yang tak layan politik, memang tak kenal. Dia orang yang layan politik. Layan politik? Yang baca politik macam kenal lah. Dan peguam kan? Hah? Dan peguam kan? Mungkin. Peguam yang duduk Bukit Bintang. Bukan aku lah.
 
 [18:07] Rafizi: Peguam duduk Bukit Bintang?
 
-[18:09] Syuk: Ofis saya Bukit Bintang Tapi tu orang associate saya dengan Farhaj Tak ada kaitan Saya declare Tak ada kaitan Ofis saya je
+[18:09] Syuk: Ofis saya Bukit Bintang Tapi tu orang associate saya dengan Farhash Tak ada kaitan Saya declare Tak ada kaitan Ofis saya je
 
 [18:17] Rafizi: Mana ada ofis lawyer kat Bukit Bintang Ada Ya Lawyer bukan semua duduk-duduk Dekat-dekat dengan mahkamah ke Yang kau pergi duduk jauh-jauh Tengah Bukit Bintang Not
 
@@ -212,7 +212,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [19:12] Zaim Zulkifli: lecturer? Kalau lah. Kalau
 
-[19:13] Rafizi: ada. So kalau kau buat Political Science, takkan tak ada kes tadi pasal Farhaj kot? So far tak pernah jumpa lagi lah. Tak pernah encounter lagi lah. Even kat UIA. Minggu depan, minggu depan akan keluar satu konten kenyataan media. Bisa mengenai Farhaj. Kos Farhaj.
+[19:13] Rafizi: ada. So kalau kau buat Political Science, takkan tak ada kes tadi pasal Farhash kot? So far tak pernah jumpa lagi lah. Tak pernah encounter lagi lah. Even kat UIA. Minggu depan, minggu depan akan keluar satu konten kenyataan media. Bisa mengenai Farhash. Kos Farhash.
 
 [19:37] Syuk: Dikeri oleh Zaim.
 
@@ -222,7 +222,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [20:01] Farhan (Pa'an): Tetapi saya nampak gaya macam... Naratif yang dia cuba mengembangkan ni ada gaya Fahaz ni nak bertanding ke atau sesuatu. Dia perkenalkan tu publik. Itu juga. Whitewashing sikit.
 
-[20:15] Rafizi: Perjuangan reformasi. Sudah juga. Dia kan dah bukan jadi ahli politik. Kan Dato' Seri Anwar Dia buat comeback lah maybe Tak lah Tak itu yang Beria Sabat tiga tu aku dulu Apa ni itu yang beria Apa ni orang yang Team PR ni Sebab on the one hand Dato' Seri Anwar kata Farhaj tidak terlibat dengan politik. Dia ada 100% bisnes. Sebaliknya, bisnesmen selalunya tak nak dikaitkan dengan politik macam ini. Baik kita ambil alih je lah PR team tu berapa nak bayar I think we can do a better job kot Tapi prinsipally tak nak Ha? Well, everything, there is a price for everything. Wah, you gurau je kan? Gurau. Gurau sahaja. Sekarang
+[20:15] Rafizi: Perjuangan reformasi. Sudah juga. Dia kan dah bukan jadi ahli politik. Kan Dato' Seri Anwar Dia buat comeback lah maybe Tak lah Tak itu yang Beria Sabat tiga tu aku dulu Apa ni itu yang beria Apa ni orang yang Team PR ni Sebab on the one hand Dato' Seri Anwar kata Farhash tidak terlibat dengan politik. Dia ada 100% bisnes. Sebaliknya, bisnesmen selalunya tak nak dikaitkan dengan politik macam ini. Baik kita ambil alih je lah PR team tu berapa nak bayar I think we can do a better job kot Tapi prinsipally tak nak Ha? Well, everything, there is a price for everything. Wah, you gurau je kan? Gurau. Gurau sahaja. Sekarang
 
 [21:08] Farhan (Pa'an): tiba-tiba kita dapat minta quotation.
 
@@ -238,7 +238,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [21:50] Rafizi: Lumayan lah Kalau tak ada lah dia buat NGO tu lumayan Haa Cuma yang mastermind PR di belakang tu lah public relation. Takkan dia tak tahu yang sebenarnya yang muda-muda ni tak baca semua ni kan? Setuju. Mungkin kalau
 
-[22:06] Zaim Zulkifli: dia suruh Farhaj buat content TikTok boleh lah. Kita
+[22:06] Zaim Zulkifli: dia suruh Farhash buat content TikTok boleh lah. Kita
 
 [22:09] Rafizi: cuba tengok
 
@@ -246,7 +246,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [22:16] Rafizi: tak ada orang yang baca nak boost nama. Apa buang
 
-[22:18] Syuk: duit lah? Sekarang kalau orang google nama Farhaj, dia semua macam... I think yang tak murni lah kot. Yang
+[22:18] Syuk: duit lah? Sekarang kalau orang google nama Farhash, dia semua macam... I think yang tak murni lah kot. Yang
 
 [22:25] Rafizi: itu buat SEO je lah, Search Engine Optimization. So,
 
@@ -318,7 +318,7 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [31:13] Farhan (Pa'an): Keluar headline YBM Podcast kata Gen Z suka York Hopping
 
-[31:18] Rafizi: Tapi memang betul That's the reality now In fact I think Gen Z Kalau 2 tahun tu dah lama sangat Lagi dalam consultant So aku dulu you know My startup dulu I used to be frustrated Sebab you ambil Gen Z, lepas tu you train dia. Oh dah train semua, dah invest? Dah train, dah bagus. Ya, ciao! Then we have kena train balik, kena train balik. Sebab selalunya kita memang suka ambil yang fresh grad. Haa. Haa, sebab Pak Ali kesian lah. Because sebenarnya Gen Z punya biggest challenge, not just Gen Z, this was like 7-8 years ago, even millennials kan. Their biggest challenge is untuk mendapatkan the first job. Sebab selalunya orang susah sangat nak tanya pengalaman. Ada pengalaman tak? Ada pengalaman tak? Ataupun bila you pergi interview, orang nak tengok you pernah buat kerja something, can you do certain things kan? Fresh graduate memang payah lah kan? So we usually give chances lah and then we train. Tapi memang after a while I realise memang it's a generational thing. So what you do is that you make sure that bila you train tu, You train them as fast as possible. Dia boleh buat kerja as fast as possible. So that by the time satu tahun setengah dia nak cabut tu. Nak sampai dua tahun tu. You tak adalah kecil hati because it's a fair deal. They have contributed to the company. And dia nak cabut pun okay. You just have to make sure that your recruitment and onboarding and training is good lah. So memang Gen Z by now it's nothing negative. Untuk sebut Gen Z suka job hopping. Society has changed. Hmm Tapi kita berbincang pasal Puad Zarkashi hari ini Sorry Balik kepada Menteri HAEWA Rafizi Menteri HAEWA YB Haa Hmm Bagaimana berberi ke lah? Tapi jawapan aku sebenarnya telah dijawab oleh Fitri Nordin. Haa, alamak. Haa. Bagus lah. Supaya dinosaur macam Puad Zarkashi dah tak jadi calon. Pencet lah bagi orang-orang. Nah, that's my answer. Haa. And itu tujuan kenapa kita buka pencalonan online. Sebabnya ialah bila... Kita gunakan cara biasa yang ada dalam parti-parti kat Malaysia ni kan? Ya. Sebenarnya you restrict the talent pool tu kepada sangat kecil. Kemudian... Maka orang yang you pilih tu Sebenarnya more often than not Hanya ada satu skill Iaitu skill berpolitik Sebab parti itu, dia nak naik daripada bawah, nak jadi ketua cabang, ketua bahagian, nak jadi pemimpinan negeri kan. Sampai 10-15 tahun makan masa dan dia kena kipas yang kat atas lah. And because of that, your pool itu sangat kecil kan. Jadi sebab itu orang tak suka kepada ahli politik. Sebab bila dia jadi ahli parlimen ke jadi menteri orang kata dia ni tak ada. You don't bring anything new or additional to the table. You tak boleh nak mentadbir ke, you tak faham ke apa kan. Sebab pool itu dah sangat kecil. Dan dia ada adverse impact kepada talent pool Sebab kalau ada orang yang sebenarnya dia rasa dia boleh jadi wakil rakyat yang baik And sebenarnya dia ada kemahiran itu Dia boleh bercakap dengan baik, dia memang minat buat kerja-kerja membantu orang, mungkin dalam NGO ke atau aktivis. Kemudian dia juga ada kelayakan yang baik dan dia nampak ikhlas. Tapi dia rasa tak payah sebab why should I go through that yang sepauh mati 10-15 tahun and I have to succumb to that political culture kan. So we have to pass the net wider tujuan dia kan. um Bagi saya lah terutamanya kepada yang Gen Z dan Millennials lah. Kalau you tak buat macam ini, macam mana you nak dapatkan calon-calon yang muda, yang berkebolehan, yang fresh. Bukan Farhaj kan? Fresh. Yang fresh kan? So cara yang terbaik macam inilah. Hmm
+[31:18] Rafizi: Tapi memang betul That's the reality now In fact I think Gen Z Kalau 2 tahun tu dah lama sangat Lagi dalam consultant So aku dulu you know My startup dulu I used to be frustrated Sebab you ambil Gen Z, lepas tu you train dia. Oh dah train semua, dah invest? Dah train, dah bagus. Ya, ciao! Then we have kena train balik, kena train balik. Sebab selalunya kita memang suka ambil yang fresh grad. Haa. Haa, sebab Pak Ali kesian lah. Because sebenarnya Gen Z punya biggest challenge, not just Gen Z, this was like 7-8 years ago, even millennials kan. Their biggest challenge is untuk mendapatkan the first job. Sebab selalunya orang susah sangat nak tanya pengalaman. Ada pengalaman tak? Ada pengalaman tak? Ataupun bila you pergi interview, orang nak tengok you pernah buat kerja something, can you do certain things kan? Fresh graduate memang payah lah kan? So we usually give chances lah and then we train. Tapi memang after a while I realise memang it's a generational thing. So what you do is that you make sure that bila you train tu, You train them as fast as possible. Dia boleh buat kerja as fast as possible. So that by the time satu tahun setengah dia nak cabut tu. Nak sampai dua tahun tu. You tak adalah kecil hati because it's a fair deal. They have contributed to the company. And dia nak cabut pun okay. You just have to make sure that your recruitment and onboarding and training is good lah. So memang Gen Z by now it's nothing negative. Untuk sebut Gen Z suka job hopping. Society has changed. Hmm Tapi kita berbincang pasal Puad Zarkashi hari ini Sorry Balik kepada Menteri HAEWA Rafizi Menteri HAEWA YB Haa Hmm Bagaimana berberi ke lah? Tapi jawapan aku sebenarnya telah dijawab oleh Fitri Nordin. Haa, alamak. Haa. Bagus lah. Supaya dinosaur macam Puad Zarkashi dah tak jadi calon. Pencet lah bagi orang-orang. Nah, that's my answer. Haa. And itu tujuan kenapa kita buka pencalonan online. Sebabnya ialah bila... Kita gunakan cara biasa yang ada dalam parti-parti kat Malaysia ni kan? Ya. Sebenarnya you restrict the talent pool tu kepada sangat kecil. Kemudian... Maka orang yang you pilih tu Sebenarnya more often than not Hanya ada satu skill Iaitu skill berpolitik Sebab parti itu, dia nak naik daripada bawah, nak jadi ketua cabang, ketua bahagian, nak jadi pemimpinan negeri kan. Sampai 10-15 tahun makan masa dan dia kena kipas yang kat atas lah. And because of that, your pool itu sangat kecil kan. Jadi sebab itu orang tak suka kepada ahli politik. Sebab bila dia jadi ahli parlimen ke jadi menteri orang kata dia ni tak ada. You don't bring anything new or additional to the table. You tak boleh nak mentadbir ke, you tak faham ke apa kan. Sebab pool itu dah sangat kecil. Dan dia ada adverse impact kepada talent pool Sebab kalau ada orang yang sebenarnya dia rasa dia boleh jadi wakil rakyat yang baik And sebenarnya dia ada kemahiran itu Dia boleh bercakap dengan baik, dia memang minat buat kerja-kerja membantu orang, mungkin dalam NGO ke atau aktivis. Kemudian dia juga ada kelayakan yang baik dan dia nampak ikhlas. Tapi dia rasa tak payah sebab why should I go through that yang sepauh mati 10-15 tahun and I have to succumb to that political culture kan. So we have to pass the net wider tujuan dia kan. um Bagi saya lah terutamanya kepada yang Gen Z dan Millennials lah. Kalau you tak buat macam ini, macam mana you nak dapatkan calon-calon yang muda, yang berkebolehan, yang fresh. Bukan Farhash kan? Fresh. Yang fresh kan? So cara yang terbaik macam inilah. Hmm
 
 [35:48] Syuk: Tapi YB, jawatan dia Menteri Halewal Rafizi, dia care lah juga pasal YB sebab last paragraph tindakan Rafizi ni hanya mendedahkan bersama suka Encik Chalun. Dia concern lah. Susah nak Encik Chalun.
 
@@ -376,11 +376,11 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
 
 [48:51] Haziq: Hmm... Menarik dan susah Macam beria Beria Okey beria Kita dah habis Kita kena pilih Bagilah jenis yang paling beria Bagaimana rakan-rakan sekalian Terdempat Kena tengok lagi Satu Dua Yang
 
-[49:09] Zaim Zulkifli: paling beria Terdempat Dia sama ada yang nasi ayam ni ataupun Farhaish. Tidak tunda nasi ayam.
+[49:09] Zaim Zulkifli: paling beria Terdempat Dia sama ada yang nasi ayam ni ataupun Farhash. Tidak tunda nasi ayam.
 
-[49:15] Haziq: Atau Farhaish. Itu pilihan je, Zee. Kita diam.
+[49:15] Haziq: Atau Farhash. Itu pilihan je, Zee. Kita diam.
 
-[49:18] Syuk: Tak, saya kesian sebab dia salah kira. So, saya rasa paling beria Farhaish punya ni kot. Eh, Farhaish? Sebab kalau RM26 tu, yelah itu market dia. Lepas tu, Zaliha ni mungkin salah kira, saya kesian. Salah kira kesian. So, bersama... Puad Zarkashi sebab dia tua. Kesian. Kesian lah. So, saya rasa paling beria NGO yang keluar statement ni. nak push and ni lah anak
+[49:18] Syuk: Tak, saya kesian sebab dia salah kira. So, saya rasa paling beria Farhash punya ni kot. Eh, Farhash? Sebab kalau RM26 tu, yelah itu market dia. Lepas tu, Zaliha ni mungkin salah kira, saya kesian. Salah kira kesian. So, bersama... Puad Zarkashi sebab dia tua. Kesian. Kesian lah. So, saya rasa paling beria NGO yang keluar statement ni. nak push and ni lah anak
 
 [49:43] Haziq: muda sokong anak muda lah pulak
 

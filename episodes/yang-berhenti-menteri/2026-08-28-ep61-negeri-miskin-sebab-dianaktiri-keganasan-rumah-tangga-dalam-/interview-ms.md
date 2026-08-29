@@ -648,7 +648,7 @@ Ambil contoh kes Datuk Seri Ismail Sabri tadi — benda tu dah, apa nama ni, dik
 
 **Haziq:** Ha? Ya, ya.
 
-**Rafizi:** Dia berjenaka secara terbuka dengan aku pasal "orang tu ambil duit, orang ni ambil duit, duit dia kat mana" semua kan. Jadi maksudnya semua ini dalam pengetahuan umum. Hmm, kan? Ha, jadi cuma bezanya mungkin lah — mungkin sebab bila dia berlaku dengan PKR dulu, pasal tuduhan pasal — ya lah, yang orang kata campur tangan Farhaj lah — itu semua kan. Reaksi
+**Rafizi:** Dia berjenaka secara terbuka dengan aku pasal "orang tu ambil duit, orang ni ambil duit, duit dia kat mana" semua kan. Jadi maksudnya semua ini dalam pengetahuan umum. Hmm, kan? Ha, jadi cuma bezanya mungkin lah — mungkin sebab bila dia berlaku dengan PKR dulu, pasal tuduhan pasal — ya lah, yang orang kata campur tangan Farhash lah — itu semua kan. Reaksi
 
 **Haziq:** dalam
 

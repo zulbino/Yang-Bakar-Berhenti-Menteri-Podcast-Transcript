@@ -480,7 +480,7 @@ Jadi kalau contohnya semua ini berlaku, ujian yang lebih besar, it means that �
 
 **Haziq:** YB tak tolak kemungkinan lain untuk menghabiskan YB? Mungkin menghantar ke 3RBC? Penjara?
 
-**Rafizi:** Well, dia macam dia kena ada starter, dia kena ada main course, dia kena ada dessert. Mungkin ni starter dia lah kan, dia punya main course mungkin itulah. Sebab you see, dia ada banyak pihak yang sakit hati dengan aku ni kan — maksudnya, gang-gang Farhaj dan Rahmanan tu satu, Dato' Seri Anwar sendiri satu lah, sebab dia rasa macam ini menyusahkan dia, menyebabkan orang benci kat dia kan, kemudian ada SPRM, pihak berkuasa macam-macam lah.
+**Rafizi:** Well, dia macam dia kena ada starter, dia kena ada main course, dia kena ada dessert. Mungkin ni starter dia lah kan, dia punya main course mungkin itulah. Sebab you see, dia ada banyak pihak yang sakit hati dengan aku ni kan — maksudnya, gang-gang Farhash dan Rahmanan tu satu, Dato' Seri Anwar sendiri satu lah, sebab dia rasa macam ini menyusahkan dia, menyebabkan orang benci kat dia kan, kemudian ada SPRM, pihak berkuasa macam-macam lah.
 
 **Farhan (Pa'an):** Tapi macam... bukan pasal Zaki Farah tu — if you tengok balik '98, engkau...
 

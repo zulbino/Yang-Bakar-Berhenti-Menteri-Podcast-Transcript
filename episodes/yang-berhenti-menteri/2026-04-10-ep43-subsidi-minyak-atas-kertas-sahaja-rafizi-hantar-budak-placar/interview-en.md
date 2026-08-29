@@ -479,7 +479,7 @@ So if, for example, all this happens, a bigger test — it means that — you kn
 
 **Haziq:** YB doesn't rule out other possibilities to finish YB off? Maybe sending you to the MACC? Prison?
 
-**Rafizi:** Well, it's like there has to be a starter, there has to be a main course, there has to be a dessert. Maybe this is the starter, and the main course might be that. Because you see, there are many parties unhappy with me — meaning, the Farhaj and Rahmanan gangs are one, Dato' Seri Anwar himself is another, because he feels this is troubling him, causing people to hate him, then there's the MACC, various authorities as well.
+**Rafizi:** Well, it's like there has to be a starter, there has to be a main course, there has to be a dessert. Maybe this is the starter, and the main course might be that. Because you see, there are many parties unhappy with me — meaning, the Farhash and Rahmanan gangs are one, Dato' Seri Anwar himself is another, because he feels this is troubling him, causing people to hate him, then there's the MACC, various authorities as well.
 
 **Farhan (Pa'an):** But it's like... not about Zaki Farah — if you look back at '98, you...
 
