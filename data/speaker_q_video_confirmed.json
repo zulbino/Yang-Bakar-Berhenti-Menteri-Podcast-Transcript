@@ -1,0 +1,77 @@
+{
+ "_README": [
+  "ep61's 19 `Speaker ?` blocks: the short interjections no diarizer run could cluster.",
+  "The owner asked for these to be attempted. They were NOT named from the sensing score,",
+  "because the score is measurably unreliable on exactly this class -- of the 5 the gold",
+  "passage covers it got 2 right and 3 wrong, and on the two solid text matches (100% and",
+  "88% overlap) it got both wrong, one of them a block whose own text says `si Haziq ni`.",
+  "",
+  "So each was resolved from better evidence, or left alone:",
+  "",
+  "  3 from the OWNER'S GOLD -- see data/speaker_from_gold.json. [01:47], [01:55], [02:36],",
+  "    all Rafizi. The gold outranks everything else here.",
+  "  11 from VIDEO, listed under ep61_speaker_q_video_confirmed. Every one shows the same",
+  "    man in the orange bomber jacket with his mouth moving, held across the whole padded",
+  "    window: 04:46, 06:37, 06:52, 11:26, 17:01, 19:32, 24:23, 34:03, 37:45, 2:23:07,",
+  "    2:25:03. All Rafizi.",
+  "  5 LEFT AS `Speaker ?`, because the camera cannot answer them:",
+  "    [02:53] and [21:35] -- a full-screen graphic fills the shot (a TikTok/ChatGPT slide,",
+  "      and the Tabung Haji / Baitul Maqdis card). No speaker is on screen at all.",
+  "    [07:44] -- a two-shot, which frames_at.py's docstring is explicit proves nothing.",
+  "    [14:52] and [15:19] -- the camera CUTS WITHIN the block, bomber jacket to olive tee",
+  "      and back, so these two blocks each hold both voices. They need splitting, not",
+  "      naming, and the split point cannot be placed from a 9-second block with one",
+  "      timestamp. Left for the owner's ear.",
+  "",
+  "PATTERN WORTH KEEPING. On this class the sensing's Rafizi calls held up (12 of 12 where",
+  "anything could check them) and its Haziq calls did not (0 of 2). The co-host direction is",
+  "where the false positives land on short blocks, which is the opposite of raw.md's",
+  "original bias and worth re-testing on the next episode rather than assumed."
+ ],
+ "ep61_speaker_q": {
+  "04:46": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  },
+  "06:37": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  },
+  "06:52": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  },
+  "11:26": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  },
+  "17:01": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  },
+  "19:32": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  },
+  "24:23": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  },
+  "34:03": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  },
+  "37:45": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  },
+  "2:23:07": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  },
+  "2:25:03": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  }
+ }
+}

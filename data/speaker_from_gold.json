@@ -1,0 +1,37 @@
+{
+ "_README": [
+  "Speaker labels taken DIRECTLY from data/speaker_ground_truth.json -- the owner's",
+  "own hand-written passage, watched and heard. This is owner evidence applied",
+  "mechanically, not a tool's conclusion, which is why it is separate from",
+  "data/speaker_video_confirmed.json (frames) and why it outranks both.",
+  "",
+  "Each block below is a `Speaker ?` in ep61's raw.md whose text the gold passage",
+  "covers, so the owner has already answered it:",
+  "",
+  "  [01:47] 'Kemudian hari Ahad di mana? Di Puchong'   = tail of gold turn 4",
+  "  [01:55] 'Lepas tu bukan hari... Cuti 31st Ogos...'  = gold turn 7, verbatim",
+  "  [02:36] 'lah, dia panas so. Korang kena biarlah...'  = gold turn 15",
+  "",
+  "WHY THIS MATTERS BEYOND THREE BLOCKS. The acoustic sensing called [01:55] and",
+  "[02:36] Haziq, and the owner's gold says both are Rafizi. [02:36] even contains",
+  "'si Haziq ni' -- a third-person reference that makes Haziq impossible. Of the five",
+  "`Speaker ?` blocks the gold can check, the sensing got 2 right and 3 wrong. That is",
+  "why the other 16 are being checked on video rather than named from the score: on",
+  "this class of block -- the short interjections no diarizer could cluster -- the",
+  "method is not reliable enough to write blind."
+ ],
+ "ep61_from_owner_gold": {
+  "01:47": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  },
+  "01:55": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  },
+  "02:36": {
+   "who": "Rafizi",
+   "was": "Speaker ?"
+  }
+ }
+}

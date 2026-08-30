@@ -135,7 +135,14 @@ def main():
     vid = video_id(args.episode)
     # A disambiguated tag carries a colon ("ep02:bakar"), which Windows rejects in a path.
     safe = args.episode.replace(":", "-")
-    work = CACHE / f"_frames_{safe}"
+    # The staging directory is keyed on the OUTPUT name, not just the episode. Keyed on the
+    # episode alone, two runs over the same episode share one directory and overwrite each
+    # other's seq_NNN.png -- which does not error, it produces a contact sheet showing the
+    # other run's timestamps and blank rows where frames went missing. That is a silent
+    # wrong answer in a tool whose whole job is to be the evidence of last resort, so the
+    # sheet has to be unmistakably its own.
+    stem = Path(args.out).stem if args.out else f"frames_{safe}"
+    work = CACHE / f"_frames_{stem}"
     if work.exists():
         for f in work.glob("seq_*.png"):
             f.unlink()

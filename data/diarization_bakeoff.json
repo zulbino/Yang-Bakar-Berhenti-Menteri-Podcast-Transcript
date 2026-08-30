@@ -138,6 +138,31 @@
    "ep61": 13,
    "reading": "ep61 has the second-thinnest seed supply in the corpus -- only ep05, at 6, is lower -- so 83% was reached close to the worst case, and the median episode has about 4x more seed material. This is the strongest available evidence that the method is not ep61-specific, but it is evidence about the SEED, not about the score."
   },
+  "score_is_unstable_on_18_turns": {
+   "measurement": "the same pipeline scored before and after ep61's YB garble fix, which raised raw.md's usable co-host seeds from 13 to 34 and should have been neutral-to-positive",
+   "before": "15/18 = 83% (Haziq 8/9, Rafizi 7/9)",
+   "after": "13/18 = 72% (Haziq 8/9, Rafizi 5/9)",
+   "what_moved": "turns 9 and 17 flipped on signed scores of -0.006 and -0.010, essentially coin flips either side of the decision boundary",
+   "reading": "one turn is 5.6% of this passage, so an 11-point move is two borderline turns. Neither 83% nor 72% is a stable estimate of per-turn accuracy, and NO tuning decision should be made on a difference of a few turns. This is the strongest argument for a second gold passage, and it was found by accident rather than by design -- the fix was applied for its own sake.",
+   "what_did_NOT_move": "the 16 whole-episode disagreement regions kept their spans, directions and mean scores across the same change. Regions carry 20-56s of speech; the unstable turns carry under a second. Long evidence is stable, short is not."
+  },
+  "abstain_band_is_NOT_supported": {
+   "claim_withdrawn": "an earlier note here proposed abstaining below |score| ~0.05, on the strength of 6 block-level checks where the single miss scored +0.0008",
+   "measurement": "binned over the 39 segments of the gold passage, accuracy by |score| band runs 89% (>=0.30), 80% (0.20-0.30), 67% (0.10-0.20), 100% (0.05-0.10), 50% (0.02-0.05), 50% (<0.02)",
+   "reading": "non-monotonic, so there is no threshold to abstain at. Six block-level points did not generalise. Several apparent segment errors are also artefacts of deriving segment-level truth from turn-level gold, since a segment straddling two gold turns takes the label of whichever it overlaps more. Do not re-derive a confidence band from this passage."
+  },
+  "short_interjections_are_the_floor": {
+   "measurement": "ep61's 19 `Speaker ?` blocks -- the short interjections no diarizer run could cluster -- scored against the gold passage, which covers 5 of them",
+   "result": "2 right, 3 wrong. On the two solid text matches (100% and 88% word overlap) it got both wrong, including one whose text contains `si Haziq ni`, a third-person reference that makes Haziq impossible.",
+   "reading": "this is the method's floor, and it is well below its average. These blocks were named from the owner's gold where it reaches them and from video otherwise -- never from the score. A wrong name is worse than a placeholder: a placeholder tells the reader nobody knows."
+  },
+  "a_corpus_wide_text_fix_does_not_survive_regeneration": {
+   "measurement": "YB-garble variants per episode across all 68",
+   "ep61": "70 (baby 26, wb 20, wabi 13, bobby 8, obi 3)",
+   "every_other_episode": "0 to 19",
+   "cause": "fix_yb_honorific.py cleared these corpus-wide, then ep61's raw.md was regenerated from local ASR and the garbles came back only there",
+   "reading": "re-run text fixes after ANY raw.md regeneration. This one also mattered acoustically, because YB is what seeds the co-host reference: ep61 went from the corpus's second-thinnest seed supply to a normal one."
+  },
   "the_residual_is_physical": {
    "failing_turns": [
     {

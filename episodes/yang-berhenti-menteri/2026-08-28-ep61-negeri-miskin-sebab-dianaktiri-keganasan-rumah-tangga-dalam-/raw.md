@@ -26,17 +26,17 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [01:41] Rafizi: Jum... Haa, apa ni? Hari... Sabtu esok ni Hari Sabtu di Melaka Keduri Kemudian Ceramah
 
-[01:47] Speaker ?: Kemudian hari Ahad di mana? Di Puchong
+[01:47] Rafizi: Kemudian hari Ahad di mana? Di Puchong
 
 [01:50] Haziq: Ahad di Puchong Betul betul Puchong lah HQ Kita punya Itu untuk Sepang lah semua Yes lah
 
-[01:55] Speaker ?: Lepas tu bukan hari... Cuti 31st Ogos itu pun ada dalam jadual.
+[01:55] Rafizi: Lepas tu bukan hari... Cuti 31st Ogos itu pun ada dalam jadual.
 
 [02:00] Rafizi: Ya. Kemudian hari Selasa ceramah. Macam
 
 [02:17] Haziq: nak pilihan raya dah Macam nak pilihan raya Kita memang beria Okay Okay baik YB Kita teruskan Untuk yang Episode 61 Sebab beria agak banyak sikit Minggu lepas banyak beria Minggu ini Minggu ini banyak beria Yang first sekali Terapi overclaim datang lagi. Betul
 
-[02:36] Speaker ?: lah, dia panas so. Korang kena biarlah si Haziq ni sejuk.
+[02:36] Rafizi: lah, dia panas so. Korang kena biarlah si Haziq ni sejuk.
 
 [02:42] Haziq: Misalkan tak panas ke pelut. Haa, betul. Saya boleh pergi toilet nanti. Okay. Ni mana ni? Terapi overclaim datang lagi. Hydrogen therapy atau nebulizer.
 
@@ -64,17 +64,17 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [04:28] Haziq: duk jual over claim ni? Saya rasa yang jual sampai over claim. Macik-macik ni maybe genuinely disguided kot. Hmm Yelah, I mean mungkin tak tahu ataupun di-deceive kepada benda yang salah. Aku
 
-[04:46] Speaker ?: pandangan lain sikit
+[04:46] Rafizi: pandangan lain sikit
 
 [04:49] Haziq: lah. Okay, maybe.
 
 [04:52] Rafizi: Aku rasa orang yang duk pergi layan ni lah yang beria. Okay. Sebab memanglah akan terus ada orang yang datang dengan segala jenis produk, overclaim, slash scam, semua ni kan. Hmm. Tapi zaman sekarang ni lah kan, especially kalau yang bandar. Kalaupun dia... Bukan dalam bidang itu kan... Kalaupun dia sendiri tak semak... Paling kuat anak-anak dia... Dia boleh rujukkan anak-anak dia lah kan... So... Betul juga kan... Sebab... Macam saya, macam mak ayah saya kan. Mereka sekolah pada jam 6 kan. Mereka memang tak tahulah cek GPT, tak cek GPT semua ni kan. Tapi semua dia rujuk kat kita orang tau. Jadi memang insyaAllah tak kena skam lah. Tak pernah kena skam semua hidup lah. Mereka tak pernah kena skam semua hidup. Jadi mungkin yang beria ni pun kita selalunya kalau ada macam ini kita... Biarlah kita akan tuding jari kepada orang yang jual, marketer, semua tingkat. Yang ini undang-undang adalah untuk ambil tindakan terhadap mereka kalau ada laporan. Sebab memanglah setiap... Peranti perubatan itu kena dapat lesin. Yes. Dia ada MDA, Medical Device Authority, pihak berkuasa peranti perubatan di bawah KKM. Sepatutnya memang dia kawal semua. Tapi again lah, dia tetap akan ada. Jadi cara terbaik untuk mengelakkan benda ni ialah paling kurang kita tanya orang dulu lah. So scientifically ni, hydrogen ni kalau
 
-[06:37] Speaker ?: letak kat mata je dia apa?
+[06:37] Rafizi: letak kat mata je dia apa?
 
 [06:40] Haziq: Dia anti-oxidant sebab hydrogen kan. Fatigue Sama macam kita Minum air Sebab kadang-kadang Bila kita minum air Kita akan rasa macam Tak ngantuk Aku kalau
 
-[06:52] Speaker ?: minum air Lagi mengantuk
+[06:52] Rafizi: minum air Lagi mengantuk
 
 [06:55] Rafizi: Air kosong lah Yelah air kosong Aku minum lagi mengantuk Sebab aku tak minum air kosong Aku minum air manis
 
@@ -94,7 +94,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [10:17] Rafizi: Not that straightforward jugalah to be fair kerana I'm not defending tau cuma dia tak straightforward jugalah kerana dia banyak birokrasi itu yang saya sebut dia tak apple to apple lah kalau macam apa nama ni Mia Mamdani ni memang dia ada kuasa yang jauh lebih besar lah kerana ruang litup. undang-undang pentadbiran yang seorang Datuk Bandar New York City ada itu tak sama di sini kan. Jadi kalau contohnya di Malaysia dia ada proses dia ambil-ambil contoh PBT pun kan contohnya kan dia akan tertakluk kepada pelbagai pekeliling Kementerian Kewangan dia kalau dia nak lakukan sesuatu contohnya kan dia nak suruh cepat-cepat Inden pun dia ambil masa sikit lah. Dia kena melalui proses perolehan dia tu. Dia bukan... Kalau zaman dulu mungkin lain. Masa zaman 60-an, 70-an yang sebelum kerja-kerja disuastakan ni. Sebab JKR dan juga
 
-[11:26] Speaker ?: pekerja di Pelaksana. Dulu memang
+[11:26] Rafizi: pekerja di Pelaksana. Dulu memang
 
 [11:30] Rafizi: pekerja JKR yang buat jalan. Jadi JKR yang pergi bantu jalan. Ni tahun 60-an, 70-an lah. Jadi pekerja JKR. Jadi JKR ada banyak aset. dia punya machinery semua kan tu yang dia panggil public work so yang itu lebih sedikit mudah sikit lah kalau mayor kata ah pergi baiki sekarang pergi buat yang itu sekarang kan Kalkar Malaysia pegawai tu kan kata ya kita nak kena buka tender sekejap lah itu semua kan then of course satu lagi soal Soal bajet lah. So, itu adalah birokrasi. Jadi kalau kita, bagi saya lah. kalau kita nak mempercepatkan respon khidmat daripada Jabatan Kerajaan itu, kita nak kena tengok birokrasi itulah. Sistem dia macam mana, pekeliling dia, proses dia macam mana kan. Jadi kalau tidak memang, saya tak kata penjawat awam ataupun orang yang bekerja ini semua rajin tapi tangan mereka digari, tak boleh buat kerja. proses-proses yang melambatkan, itu jadi cover yang paling baik untuk tidak respon.
 
@@ -134,7 +134,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [16:35] Rafizi: Aku duk gelak yang ayat pertama tu. bunyinya tak akademik langsung. Because sesuatu yang akademik ni dia kena berasaskan kepada evidence kan. Dan evidence tu selalunya measurable kan. Tapi ayat dia tengok tu, malah tidak keterlaluan untuk mengatakan dah kalau kau kena letak tidak keterlaluan, tu maksudnya kau keterlaluan lah. Kau tidak tak perlulah letak kat
 
-[17:01] Speaker ?: depan, tidak keterlaluan. So dia cerita, tapi yang ni sepatutnya dia, pensyarah kanan ini untuk masuk
+[17:01] Rafizi: depan, tidak keterlaluan. So dia cerita, tapi yang ni sepatutnya dia, pensyarah kanan ini untuk masuk
 
 [17:07] Rafizi: gua sekarang. Sebab semalam kan Dato' Sri Anwar retort balik marah, tanya siapa yang jemput Azmin ni? Kan? Kita tak jemput dia pun. So aku rasa dia, ayah, siapalah ni kan? Minta supaya PMO telefon Astro Awani kan? Ya, betul. Dia yang ada panel penasihat dari kalangan pensyarah-pensyarah kanan di utara ni Asrawani lah kan memang dah jadi panel kat Asrawani tu kan kat Asrawani tu kan jadi Asrawani mesti ayah kenapa ni kita skrip dah dah tergelincir sikit ni kan tapi masa gua
 
@@ -142,7 +142,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [18:16] Rafizi: Tak, bukan. Dia mesti dalam kepakaran dan juga untuk membesarkan dan mengembangkan ilmu yang kita jadi pakar. Bidang kajian kita. Aku tak rasa kajiannya ialah kelemahan Rafizi. Aku tak rasa dia dekat universiti itu dia mengajar mata pelajaran itu. Kita pun tak tahu dia mengajar mata pelajaran apa. Research dia apa. Jadi... Kalau setakat nak bagi komen, betul akan ada ahli-ahli akademik yang selalu ditanya mengenai pandangan politik. Kita selalu tengok lah semua kan. Tapi itu juga ingatan kepada masing-masing lah termasuklah ahli-ahli akademik yang selalu bagi komentar, siapa-siapa je lah kan. lebih-lebih lagi ahli akademik lah sebab komen kita itu mestilah hasil daripada kepakaran kita. Bukan semata-mata sebab kita jadi pensyarah kanan lepas itu kita komen
 
-[19:32] Speaker ?: macam-macam nanti jadi macam Dr. Solehah lah.
+[19:32] Rafizi: macam-macam nanti jadi macam Dr. Solehah lah.
 
 [19:38] Rafizi: Benda itu dah berlaku kan. Jadi tambah pula kalau dia tak pernah komen langsung pasal bidang akademik dia ke pun benda yang bersabit dengan kajian dia, kita pun tak tahu dia kaji apa kan. Tapi tiba-tiba kalau pasal politik yang berat sebelah ni, untuk jadi kaki pukul, amat jaya kerja tu tak payahlah. Bagi kepada Walanon Ami tadi. Walanon Ami tadi tu. Hantar dia satu batch.
 
@@ -160,7 +160,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [22:37] Rafizi: Penyokong-penyokong PAS kan yang duk marah kerana kenapa sabitkan soal tabung haji RCI ni dengan PAS. Satu sebabnya ialah kerana PAS adalah suara yang jika mereka tegas dan tidak menjadi enabler, mungkin mereka lah yang paling ada kredibiliti dalam melindungi kepentingan tabung haji ni kan. Selepas saya dah habis dua tahun tunjuk segala bukti semua jawapan daripada Datuk Seri Hadi Awang ialah Uh... Soal tabung haji ini ialah soal cubaan untuk memalukan institusi orang Melayu, orang Islam. Itu jadi enabler lah. Kemudian, 2026 baru-baru ini dia ulang benda yang sama lah. Itu cubaan serangan kan. Jadi sebab itu bila ada budak pas lah tanya apa kena-mengena, saya sebut tiga perkara lah. Kita tak payah nak baca dengan lebih dalam ke apa lah. Cuma tindakan-tindakan yang telah berlaku. Satu ialah... pendirian Presiden PAS itu tak berganjak langsung tau daripada 2018 sebelum ada RCI bahawa bila dia kata macam itu maksudnya dia tidak menerima lah kelemahan, wang yang berbilion ringgit hilang tu dia tak terima lah, dia menolak fakta itulah yang keduanya RCI ni mereka yang tuntut
 
-[24:23] Speaker ?: PH masa tu tak nak buat
+[24:23] Rafizi: PH masa tu tak nak buat
 
 [24:27] Rafizi: kan. Jadi bila dia jadi kerajaan Perikatan Nasional tahun 2022 macam tu dia yang buat. Ya Allah akbar kan. Dan siap masa zaman dia. Menteri agamanya dia masa tu timbalan menteri agamanya pun pas masa itu. Siap Ogos 2022. Ada lebih kurang 2 bulan lah sebelum dibubarkan parlimen kan. Tapi dia tak bawa ke kabinet dan tak juga buat keputusan untuk dedahkan. Dia peram. Kemudian masuk PH sambung peram lagi kan. Kalau betul lah tabung haji ni sebagai Baitul Maqdis. Kesian lah. Memang tak ada Baitul Maqdis lah kita kalau macam ni kan. One after
 
@@ -184,7 +184,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [29:40] Rafizi: Tak sebab itu Biar lah orang Orang tak Tak suka kat aku lah And Sebab tu saya kata kuasa ni is very dangerous tau. Sebab it consumes you kan. Dan kita boleh nampak karakter itu. Sebab tu orang kata lah nak nampak karakter seseorang, give him power. So bila dia boleh dapat kan, dia rasa dia boleh buat apa sahaja sebab dia ada kuasa. Jadi sebab dia ada kuasa, dia bukan kira pun sama ada viral ke apa. Membatalkan program parti bersama ni Lawak It's only 3 months It's not as if bersama Is a big threat Kapa kan Biar je lah Dia orang pergi lompat-lompat Sini lagi 20-30 orang I mean kan Let them be And then Dan Tapi oleh kerana dia rasa dia ada kuasa. Haa kan jadi dan dia perasaan itu ada saya ingat kerana ramai yang yang ialah jerit perubahan ke mengaku reformis kalau dalam PKR jerit pasal reformasi ke apa kan. Saya rasa dia tidak ada satu perkara yang paling asas. And this is not unique to PKR. It's also unique to any party. Dan saya doa lah kalau satu hari bersama ada rezeki kan. Perkara ini kita perlu... tanamkan apa nama ni sebaik yang mungkin kan. Dia sebenarnya kesedaran about fair mindedness. It's a sense of justice yang kita kena ada kan. Ambil contoh dalam pilihan raya, pilihan raya kan. Setiap kali ada pilihan raya kecil ke apa, nama dengan komen mesti naik. Dia akan bagi alasan lah, ini belum masuk apa nama ni, kempen lagi lah, dia akan umum sana itu, Saya tak buat Contohnya Bukan sebab saya takut Political backlash ke Ataupun saya takut undang-undang ke apa Aku mana pernah takut ke apa Untuk saya, ia berbalik kepada perasaan keadilan saya. Benda itu tidak adil kepada lawan. Kalau saya masuk sukan, saya masuk 100 meter sprint, saya nak menang kerana saya yang terbaik. Dan saya nak menang dengan adil dan berat. Saya tak nak masuk 100 meter. Lepas itu, aku ikat kaki orang di sebelah aku. Berlari, gede-gede-gede, oh menang. Bila... ahli politik ataupun parti politik. Dia... Tidak ada asas yang kukuh about sense of justice kan. Sama contohnya, kalaupun orang tu kita tak suka sangat kan. And kita rasa, ya Allah dia ni kan. Kita still kena dengar dia dulu. To hear his side of the story. Because of the sense of justice. He must have an avenue to say. Kita mungkin tak bersetujulah dengan apa yang dia kata kan. Tapi it's only right and it's only fair that dia ada avenue itu kan. Jadi diorang semua ni because saya tak rasa dia pernah ada that sense of justice daripada awal. Jadi kalau macam ambillah kan, geng-geng lembah pantai ni kan, mereka ni masuk lepas 2008. Haa. Masa-masa tu PKR dah menang Selangor, dah jadi National Opposition kan. Jadi mereka tak pernah jadi pembangkang. Fahmi contohnya kan, ahli Parlimen Lembah Pantai kan. Dia jadi wakil rakyat, penggah pertama 2018, terus jadi kerajaan. Ada peruntukan, ada macam-macam semua. Dia tak pernah merasa macam aku dulu, apa nama ni. Habiskan kerja sendiri. Semua itu lah kan Jadi Mungkin sebab Dia
 
-[34:03] Speaker ?: tak pernah melalui perkara
+[34:03] Rafizi: tak pernah melalui perkara
 
 [34:07] Rafizi: itu. Dan kalau dia melalui, sebab ada je yang melaluinya. Contohnya Anwar Ibrahim, dia pun melalui benda itu kan. Tapi, you know, apa yang dibuat dulu, dibuat juga sekarang kan. So, I think because dia tak ada that deep sense of justice. Jadi, benda ni akan berterusan. Yang bagusnya, dia sebenarnya akan menguatkan lagi ahli-ahli bersama ni. ni lagi lah otot dia berketul-ketul lah lepas ni kan so When they make it personal macam ini, maksudnya they make it very emotional kepada orang biasa kan. After all, dia bukanlah, ini bukan cakap amat pun. Ini apa nama ni, kreator. So kan, benda-benda biasa sebenarnya it's just an open day. Kalau kerajaan takut dengan open day ni bahaya
 
@@ -200,7 +200,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [37:32] Rafizi: boleh. Oh tak boleh buat paralel macam tu. Sebab Siti Nurhaliza dia dengan rela hati menarik diri. Aku kena ban. Betul dekat. Kalau tidak aku masuk. Masuk lagi. Menang lagi. Kalau tidak aku masuk. Maksudnya jaki lagi. Eh orang kata tak jaki lah. So okeylah ini kali
 
-[37:45] Speaker ?: pertama aku menang kontes.
+[37:45] Rafizi: pertama aku menang kontes.
 
 [37:48] Rafizi: Tanya hari ni Aku mana In fact no Aku pernah menang kontes Masa umur 20 tahun Buat berdua So aku tengah study Untuk final exam Rasanya first year uni Semasa itu orang dengar radio lah zaman kita orang kan Mana ada streaming Semua ni dengar radio local FM tu kan Hmm So dia ada kontes teka lagu. Oh, okay. Aku menyampah sebab dah tiga minggu tak ada orang boleh teka lagi. So aku pun tengah-tengah malam dua pagi aku call, beritahu. Lepas tu dia macam ditanyalah kan apa nama ni background sikit. Cakap lah I'm an engineering student. Wah, wah engineer dengar radio. So aku dapat apa eh aku dapat. Tapi memalukan lah maksudnya Semua orang tak boleh teka lagu tu Nampak sangat lagu tu tak mainstream Aku seorang je kot yang pernah terdengar lagu tu kan Okay baik habis sorry Masa untuk pilih So masa untuk pilih Susah ni Oh susah Sebab macam Jadi tak ada yang stand out sangat. Kecuali yang last lah kot. Apa dia? Takkan nak pilih diri sendiri kau gila? Eh, macam tak pernah buat je. Tak boleh, tak boleh, tak boleh. Tak boleh buat lagi lah. Tak, aku tak adalah beria sangat masuk.
 
@@ -374,11 +374,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:22:26] Rafizi: Hmm, baiklah... Janganlah tanya aku. Mana aku tahu apa dalam kepala otak dia. Scientific punya ni lah. Apa ni? Hypothesis. Yelah ini orang kata. Kemungkinan. Cakap podcast lah. Cakap podcast kan. Hmm. Yalah selepas yang berlaku tu maksudnya kita ada berturut-turut kan Tabung Haji, Datuk Seri Aziz, bekas ahli parlimen paling, ahli majlis tertinggi semualah Pusat Tabung Haji. Kemudian Tahan Seri Irwan Serega ni orang kuat Datuk Seri Najib lah kan. Kemudian Dato' Sri Ismail Sabri Yaakob, mantan Perdana Menteri. Kemudian Dato' Sri Saravanan, timbalan Presiden MIC. Dan ialah saya duduk dengar-dengar akan ada lagi.
 
-[2:23:07] Speaker ?: Akan ada. Jadi... Kumpulan mereka
+[2:23:07] Rafizi: Akan ada. Jadi... Kumpulan mereka
 
 [2:23:12] Rafizi: jugalah Wallahualam So Yalah tapi aku rasa Aku tidur malam ok Orang lain aku tak tahu Cuma Maksudnya selepas kekalahan PH di Johor, di Negeri Sembilan dan komen-komen politik tentang Dato' Sri Anwar nampaknya sukar untuk menjadi, kembali menjadi Perdana Menteri, kemudian kegairahan... UMNO yang nampaknya mencabar dia kan dan semua orang tahu bahawa UMNO barisan nasional ada 30. Jadi... apa ni you know kemungkinan-kemungkinan yang akan berlaku sama ada UMNO tarik diri dia tak jadi PM jadi banyak teka-teki apa yang yang apa nama ni apakah pilihan-pilihan yang ada pada Dato' Sri Anwar dia dia Ialah dia sebenarnya ada beberapa pilihan sahajalah sebenarnya kan. Saya tengok kan. Satu pilihan dia ialah kalau pilihan... yang bermaruah lah bagi saya kalau pilihan yang bermaruah ialah dia bubah parlimen dan serahkan balik kepada rakyat maksudnya dia dia pasal rumah tangga politik lah kalau contohnya Dah nampak jelas. Aku ingat dulu apa nama ni masa Pakatan Rakyat awal-awal dulu menang 2008. PAS, PKR, DAP, serangan UMNO yang tak habis-habis ialah tidur sebantal mimpi lain-lain. Dia orang ni PH dengan BN ni Sekarang ni Bukan soal tidur sebantal lah ni. Ini soal... Haa... Tidur
 
-[2:25:03] Speaker ?: lain-lain tu satu hal. Ini
+[2:25:03] Rafizi: lain-lain tu satu hal. Ini
 
 [2:25:07] Rafizi: bertumbuk sebelum tidur. Lebah mata tiap-tiap malam. Tiap-tiap malam. Haa... Tiap-tiap malam. Lebah mata kan. Dulu Pakatan Rakyat kata tidur sebantal lain-lain. Mimpi lain-lain. Ini dah memang tiap-tiap hari keranasan rumah tangga ni kan. Nak masuk bilik pun tak boleh kan. Jadi kalau rumah tangga yang macam itu... Sepatutnya penyelesaiannya dah memang jelas lah, dah tak boleh nak duduk serumah. Dan orang biasa selalunya kata, ya lah, maksudnya berlaku perpisahan lah kan, nak bercerai ke, nak fasa ke apa semua kan. Jadi secara politiknya lah keadaan PHBN sekarang. Kalau secara yang bermaruah, sepatutnya kerajaan dibubarkan, parlimen dibubarkan dan keputusan itu dikembalikan kepada rakyat untuk mendapat mandat. But you and I know, Datuk Seri Anwar, it's not like that. So pilihan satu. Pilihan kedua ialah... Dia cuba pujuk rakyu, pujuk rakyu, pujuk rakyu lah. Hmm. Nampaknya perkara itu dah water under the bridge Masa Johor dan Negeri Sembilan Pujuk rayu-pujuk rayu tak jadilah Dan saya ingat kalau kita letak dalam konteks bila dalam PRN Johor tu dia kata, you know, janganlah kasar sangat, you know, apa pun keputusan, saya tetap jadi Perdana Menteri. Sebenarnya itu pun dah bagi clue-clue yang... Dia akan ambil keputusan pilihan ketiga lah. Pilihan ketiga ialah keganasan rumah tangga politik lah. Cekik. Haa cekik. Cekik, lepas tu apa nama ni kunci pintu tak boleh keluar. Haa kan. So mata lebam tiap-tiap hari lah kan. Dan keganasan, siri keganasan yang awal-awal ni dah kita nampak lah sekarang kan. Jadi kau ambil contoh
 

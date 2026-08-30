@@ -262,5 +262,6 @@
     ]
    ]
   }
- }
+ },
+ "_applied": "The ep61_video_confirmed entries were APPLIED in commit cd02292. Re-running this file will fail, because the blocks it describes no longer exist in that shape -- which is the correct behaviour, not a bug. It is kept as the record of what was changed and on what evidence."
 }
