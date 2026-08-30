@@ -228,6 +228,15 @@ generic turns are 0 before and 0 after, the gate reports "nothing measurably bet
 restores the wrong-label incumbent. That cost a full three-try run on ep61 before the metric
 was added.
 
+**And a percentage cannot express losing a cast member,** so the gate also scores
+`missing_speakers`: the named speakers `raw.md` has that NO published file mentions. ep61's
+`Farhan (Pa'an)` speaks once, for 16 seconds, in 2h54m. A try that carried him scored
+attribution 90.0% against the incumbent's 88.5% — a real gain, but inside the 2-point
+`AGREEMENT_TOLERANCE` — and was rejected, discarding the only candidate a reader could have
+seen him in. A candidate that drops a name is now vetoed outright, and recovering one counts
+as a gain on its own. `--score-only` prints `MISSING <name>` when the incumbent has this
+defect.
+
 Mandatory afterwards, because the metadata stage rewrites the roster and reverts labels:
 
 ```

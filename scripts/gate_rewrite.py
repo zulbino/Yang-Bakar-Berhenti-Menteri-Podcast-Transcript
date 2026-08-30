@@ -162,6 +162,35 @@ def attribution_agreement(ep_dir):
     return (agree / total) if total else None
 
 
+def missing_speakers(ep_dir):
+    """Named speakers raw.md has that NO published file mentions at all.
+
+    A percentage cannot express this. ep61's Farhan (Pa'an) speaks once, for 16 seconds, in a
+    2h54m episode: dropping him moves attribution agreement by a fraction of a point and
+    loses a cast member entirely. Try 1 of a regeneration scored 90.0% against an incumbent's
+    88.5% -- a real gain, under the 2-point tolerance -- and was rejected, discarding the only
+    candidate that carried him.
+
+    So this counts whole names, not turns. It is the same defect class as check_published's
+    `unlabelled-host` flag, applied as a promotion criterion: a candidate that recovers a
+    speaker the reader would otherwise never see is better, and one that drops a speaker
+    raw.md names is worse, whatever else either did.
+
+    Generic labels are excluded -- `Speaker ?` is not a cast member, and raw.md leaving
+    someone unnamed is not the rewrite's fault.
+    """
+    from label_drift_audit import GENERIC, RAW_LABEL
+
+    raw = read_body(ep_dir / "raw.md")
+    names = set()
+    for a, b in RAW_LABEL.findall(raw):
+        n = (a or b).strip()
+        if n and not GENERIC.match(n):
+            names.add(n)
+    published = " ".join(read_body(ep_dir / f) for f in DERIVED)
+    return sorted(n for n in names if n not in published)
+
+
 def score(ep_dir):
     raw = read_body(ep_dir / "raw.md")
     mixed = read_body(ep_dir / "interview.md")
@@ -176,6 +205,7 @@ def score(ep_dir):
         "generic_turns": generic_turns(ep_dir),
         "generic_floor": generic_floor(ep_dir),
         "attribution": attribution_agreement(ep_dir),
+        "missing_speakers": missing_speakers(ep_dir),
     }
 
 
@@ -205,6 +235,13 @@ def verdict(old, new):
     # generic veto's own comment gives: every axis that raises a flag needs a veto, or the
     # gate trades one flag for another. A candidate that names turns after the wrong person
     # is worse than one that leaves them generic, whatever else it improved.
+    # Losing a whole cast member is categorical, so it is vetoed before the percentages.
+    old_missing, new_missing = set(old.get("missing_speakers") or ()), set(
+        new.get("missing_speakers") or ())
+    if new_missing - old_missing:
+        return False, (f"REJECT: drops speaker(s) raw.md names and no published file "
+                       f"mentions: {', '.join(sorted(new_missing - old_missing))}")
+    recovered = old_missing - new_missing
     da = None
     if new.get("attribution") is not None and old.get("attribution") is not None:
         da = new["attribution"] - old["attribution"]
@@ -225,7 +262,8 @@ def verdict(old, new):
     # turns raw.md leaves generic. Coming up to the floor is the gain.
     unclaimed = at_floor and old["generic_turns"] < floor
     gained_attribution = da is not None and da > AGREEMENT_TOLERANCE
-    if dg <= 0 and not unclaimed and dm <= MALAY_TOLERANCE and not gained_attribution:
+    if (dg <= 0 and not unclaimed and dm <= MALAY_TOLERANCE and not gained_attribution
+            and not recovered):
         att = ("" if da is None
                else f", attribution {old['attribution']:.1%} -> {new['attribution']:.1%}")
         return False, (f"REJECT: nothing measurably better (generic turns "
@@ -243,6 +281,9 @@ def verdict(old, new):
     if gained_attribution:
         gains.append(f"attribution agreement with raw.md {old['attribution']:.1%} -> "
                      f"{new['attribution']:.1%}")
+    if recovered:
+        gains.append(f"recovers speaker(s) the reader could not see: "
+                     f"{', '.join(sorted(recovered))}")
     return True, f"PROMOTE: {', '.join(gains)}, completeness {dc:+.0%}"
 
 
@@ -251,7 +292,9 @@ def show(tag, s):
           f"(raw {s['raw_malay']:.1%})  en {s['en_ratio']:.2f}  ms {s['ms_ratio']:.2f}  "
           f"generic turns {s['generic_turns']} (floor {s['generic_floor']})"
           + ("" if s.get("attribution") is None
-             else f"  attribution {s['attribution']:.1%}"))
+             else f"  attribution {s['attribution']:.1%}")
+          + ("" if not s.get("missing_speakers")
+             else f"  MISSING {','.join(s['missing_speakers'])}"))
 
 
 def main():

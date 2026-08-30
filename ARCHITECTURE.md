@@ -204,9 +204,14 @@ python scripts/name_published_placeholders.py
 python scripts/name_published_placeholders.py ep54 --apply
 
 # Regenerate a rewrite into a sandbox and keep it ONLY if it measures better than what
-# is already there, on completeness, Malay density and generic-label count. A re-run is
-# a coin flip -- ep61 gave 24/32/63/39% on identical input -- so regenerate_rewrites.sh
-# overwriting in place is not safe on an episode whose rewrite is merely imperfect (2.3)
+# is already there, on completeness, Malay density, generic-label count, attribution
+# agreement with raw.md, and whether any speaker raw.md names reaches no published file at
+# all. A re-run is a coin flip -- ep61 gave 24/32/63/39% on identical input -- so
+# regenerate_rewrites.sh overwriting in place is not safe on an episode whose rewrite is
+# merely imperfect (2.3). The last two axes were each added after the gate restored a worse
+# incumbent: percentages could not see a fixed label, then could not see a lost cast member
+# -- ep61's Farhan (Pa'an) speaks once, for 16s, in 2h54m, so dropping him moved the score
+# by less than the tolerance. Every axis that raises a flag needs a veto (ATTRIBUTION_PASS.md)
 python scripts/gate_rewrite.py ep02:berhenti --score-only
 python scripts/gate_rewrite.py ep02:berhenti --tries 2
 ```
