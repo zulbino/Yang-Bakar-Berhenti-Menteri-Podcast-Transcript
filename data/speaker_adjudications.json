@@ -380,9 +380,21 @@
       "was": "Farhan (Pa'an)",
       "_note": "OWNER: '[2:51:13] is Rafizi'. This is the block that region covers. It removes the only Farhan (Pa'an) label in ep61, so he is not in this episode at all and the label was a diarizer artefact. rebuild_roster.py will drop him from the frontmatter."
     },
-    "_what_this_settled_about_the_method": "The owner adjudicated 5 items and every one is Rafizi. Scored against that plus the gold passage, the sensing on ep61's SHORT blocks splits cleanly by direction: it said Rafizi 15 times and was right 15 times; it said Haziq 4 times and was wrong 4 times (01:55, 02:36, 02:53, 21:35). 78% overall, but every error is a false CO-HOST call. Carry that into the next episode: a Rafizi call on a short block is trustworthy, a co-host call is not and needs video or the owner before it is written. Also corrected: [14:52] and [15:19] each have the camera cutting mid-block, which I read as proof the block held two voices. The owner says both are wholly Rafizi, so A CAMERA CUT IS A REACTION SHOT AS OFTEN AS A SPEAKER CHANGE. That weakens video evidence for short blocks specifically -- it stays strong for the long regions, where the shot holds one person for 20-56 seconds."
+    "_what_this_settled_about_the_method": "The owner adjudicated 5 items and every one is Rafizi. Scored against that plus the gold passage, the sensing on ep61's SHORT blocks splits cleanly by direction: it said Rafizi 15 times and was right 15 times; it said Haziq 4 times and was wrong 4 times (01:55, 02:36, 02:53, 21:35). 78% overall, but every error is a false CO-HOST call. Carry that into the next episode: a Rafizi call on a short block is trustworthy, a co-host call is not and needs video or the owner before it is written. Also corrected: [14:52] and [15:19] each have the camera cutting mid-block, which I read as proof the block held two voices. The owner says both are wholly Rafizi, so A CAMERA CUT IS A REACTION SHOT AS OFTEN AS A SPEAKER CHANGE. That weakens video evidence for short blocks specifically -- it stays strong for the long regions, where the shot holds one person for 20-56 seconds.",
+    "07:44": {
+      "who": "Rafizi",
+      "was": "Speaker ?",
+      "text": "Sila lapuk kepada pihak berkuasa.",
+      "_note": "OWNER, 2026-08-30: 'the first is Rafizi'. 3 seconds. This was the item my own open-items file dropped, so it went a day without being asked. THE SENSING SAID HAZIQ and was wrong again: on ep61's short blocks the sensing is now 15 for 15 when it says Rafizi and 0 for 5 when it says the co-host. The asymmetry has survived every check made on it, so a co-host call on a short block still needs the owner or video before it is written. Video could never settle this one -- the frame is a two-shot with both hosts in it."
+    },
+    "15:01": {
+      "who": "Rafizi",
+      "was": "Rafizi",
+      "text_was": "Kan kitchen ada pakai? Yang itu kitchen. Yang itu button badge.",
+      "text_now": "Kan keychain ada pakai? Yang itu keychain. Yang itu button badge.",
+      "_note": "OWNER, 2026-08-30: 'second is kitchen -> keychain'. The label was never in doubt; only the word. Deliberately left alone when the adjacent [14:52] was corrected, because the owner's correction named that block and a word change must not be extended by inference to a block they did not name. Held one day, then asked. Both patterns are in fix_proper_nouns.py anchored on the full phrase, because `kitchen` is a real kitchen elsewhere in the corpus -- ep22 thanks the kitchen crew. The three published files already read `keychain` here: the rewrite inferred it from the surrounding merch talk, so this fix was raw.md only and needed no regeneration."
+    }
   },
-  "_ep61_07_44_still_open": "NOT ADJUDICATED, and that is my error rather than an open question the owner declined. data/ep61_open_items.md listed five items but silently dropped this one, so the owner never saw it. Text is 'Sila lapuk kepada pihak berkuasa.', the frame is a two-shot, and the sensing says Haziq -- a call the record now puts at 0 for 4 on this class. Left as Speaker ? rather than inferred.",
   "ep61_farhan_restore": {
     "2:51:15": {
       "who": "Farhan (Pa'an)",

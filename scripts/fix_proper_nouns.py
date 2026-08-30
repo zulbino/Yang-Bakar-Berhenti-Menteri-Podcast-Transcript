@@ -257,6 +257,15 @@ CORRECTIONS = [
      "Energy, Water and Communications when water services were restructured, which is "
      "exactly the era Rafizi is describing. The three published files already say Yaik, "
      "so this is raw.md catching up to them. https://ms.wikipedia.org/wiki/Lim_Keng_Yaik"),
+    (r"Kan kitchen ada pakai", "Kan keychain ada pakai",
+     "OWNER-CONFIRMED, ep61 raw.md [15:01]. Merch on the desk, and the owner had already "
+     "corrected the same mishearing to `keychain` in the adjacent block [14:52]. Left "
+     "untouched at the time on purpose -- a word change must not be extended by inference to "
+     "a block the owner did not name -- and adjudicated separately on 2026-08-30. Anchored "
+     "on the whole phrase because `kitchen` is a REAL kitchen elsewhere: ep22 thanks the "
+     "`kitchen crew`, and the corpus holds 12 `the kitchen`."),
+    (r"Yang itu kitchen", "Yang itu keychain",
+     "Second occurrence in the same sentence, same adjudication."),
     (r"Water assets through vesting(?![A-Za-z])", "Water assets through WASIA",
      "ep61 interview-en.md x1. The English translation rendered the act's shortform as the "
      "concept it performs -- vesting water assets to PAAB is a real WSIA mechanism, so this "

@@ -1,16 +1,38 @@
-# ep61: what is left
+# ep61: nothing left open
 
-**All five items below were adjudicated by the owner on 2026-08-30 and are CLOSED. All five
-were Rafizi.** What remains is listed first, then the closed items are kept as the record.
+**Every item in this file is adjudicated and closed as of 2026-08-30.** Ten questions went
+to the owner over the pass -- five speaker labels, three names, one label plus one word at
+the end -- and all ten came back. The closed items are kept below as the record, newest
+first, because several of them are the only evidence for a rule the pass now runs on.
 
-## Still open
+## Nothing is open. All items adjudicated by the owner, 2026-08-30
 
-### [07:44] `Speaker ?` -- "Sila lapuk kepada pihak berkuasa."
+The two that were still outstanding closed on the same day:
 
-MY OMISSION, not a question the owner declined: this file originally listed five items and
-silently dropped this sixth one, so it was never seen. The frame is a two-shot, which proves
-nothing, and the sensing says Haziq -- a call the ep61 record now puts at 0 for 4 on short
-blocks. 3 seconds. Left as `Speaker ?`.
+- **`[07:44]`** `Sila lapuk kepada pihak berkuasa.` -> **Rafizi**. It had been `Speaker ?`.
+  The sensing had said Haziq. That keeps the asymmetry intact and worth trusting: on ep61's
+  short blocks the sensing is 15 for 15 when it says Rafizi and **0 for 5** when it says the
+  co-host, so a co-host call on a short block still needs the owner or the video. The video
+  could not have settled this one either -- the frame is a two-shot with both hosts in it.
+- **`[15:01]`** `kitchen` -> **`keychain`**, twice in one sentence. The label was never in
+  doubt, only the word. It was held back a day on purpose when the adjacent `[14:52]` was
+  corrected, because a word fix must not be extended by inference to a block the owner did
+  not name. The three published files already read `keychain` here -- the rewrite inferred it
+  from the surrounding merch talk -- so this was a raw.md fix needing no regeneration.
+
+Both are in `data/speaker_adjudications.json` under `ep61_owner`, and the `keychain` patterns
+are in `fix_proper_nouns.py` anchored on their full phrases, because `kitchen` is a real
+kitchen elsewhere in the corpus (ep22 thanks the `kitchen crew`).
+
+## One thing NOT adjudicated, noticed while closing and left alone
+
+`[14:52]` in `raw.md` reads `Walau tak, Mummy button badge keychain`; the published files
+render the same turn as `Walanon — button badge, keychain`. `Walanon` is a real word in this
+episode -- Rafizi says `certified Walanon` later -- so the rewrite most likely resolved an
+ASR garble correctly. But it is a word change in the published files that no owner decision
+covers, and it is recorded here rather than acted on. Raised only if ep61 is reopened.
+
+## Accepted, not fixed
 
 ### Three regions still reading the wrong host in the PUBLISHED files only
 
@@ -31,13 +53,6 @@ their length rather than of one unlucky roll. Fixing the last three means either
 non-deterministic rewrite roll, or splitting a published turn that has no timestamps to
 split on. Neither is obviously worth 62 seconds of a 2h54m episode, and `raw.md` remains the
 reviewed authority.
-
-### [15:01] one word, one yes needed
-
-`Kan kitchen ada pakai? Yang itu kitchen. Yang itu button badge.` The owner corrected the
-same mishearing in the adjacent block [14:52] to `keychain`. This block was left untouched
-because changing words must never be extended by inference, but it is plainly the same
-merch exchange.
 
 ## CLOSED 2026-08-30, owner-adjudicated: three names in one exchange
 
