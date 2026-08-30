@@ -1,4 +1,44 @@
-# ep61: what is left, and why each one needs a person
+# ep61: what is left
+
+**All five items below were adjudicated by the owner on 2026-08-30 and are CLOSED. All five
+were Rafizi.** What remains is listed first, then the closed items are kept as the record.
+
+## Still open
+
+### [07:44] `Speaker ?` -- "Sila lapuk kepada pihak berkuasa."
+
+MY OMISSION, not a question the owner declined: this file originally listed five items and
+silently dropped this sixth one, so it was never seen. The frame is a two-shot, which proves
+nothing, and the sensing says Haziq -- a call the ep61 record now puts at 0 for 4 on short
+blocks. 3 seconds. Left as `Speaker ?`.
+
+### Three regions still reading the wrong host in the PUBLISHED files only
+
+`raw.md` is correct for all three; the rewrite merged each back into a neighbouring Rafizi
+turn when it re-segmented. They are the three shortest of the fifteen, and they show as
+Rafizi where raw.md says Haziq:
+
+| region | span | length |
+|---|---|---|
+| 13 | 1:10:30-1:10:54 | 18.9s |
+| 12 | 1:17:54-1:18:19 | 19.6s |
+| 10 | 2:21:57-2:22:26 | 23.7s |
+
+Published attribution agreement with `raw.md` went 81.4% -> 89.8% and the Malay files went
+from 5 of 15 regions correct to 12 of 15. Fixing the last three means either another
+non-deterministic rewrite roll, or splitting a published turn that has no timestamps to
+split on. Neither is obviously worth 62 seconds of a 2h54m episode, and `raw.md` remains the
+reviewed authority.
+
+### [15:01] one word, one yes needed
+
+`Kan kitchen ada pakai? Yang itu kitchen. Yang itu button badge.` The owner corrected the
+same mishearing in the adjacent block [14:52] to `keychain`. This block was left untouched
+because changing words must never be extended by inference, but it is plainly the same
+merch exchange.
+
+## Closed: the five the owner adjudicated
+
 
 Everything else in ep61 is closed. 15 attribution regions were re-cut and 14 of 19
 `Speaker ?` blocks named, every change confirmed either against your own gold passage or
@@ -47,6 +87,10 @@ A full-screen TikTok/ChatGPT graphic fills the shot for the whole window.
 > Macam mana pula ni? Kalau di dunia ini Baitul Maqdis, di Malaysia ini ibaratnya adalah tabung haji itu sendiri. Ha? Dia logik dia tak bercantum.
 
 A full-screen Tabung Haji / Baitul Maqdis card fills the shot for the whole window.
+
+## The original notes on each, kept for the record
+
+Every one came back Rafizi, including both blocks where the camera cut mid-block -- which is how we learned a camera cut is a reaction shot as often as a speaker change.
 
 ## If you would rather not go one by one
 
