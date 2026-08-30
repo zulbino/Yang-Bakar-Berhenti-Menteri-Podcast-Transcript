@@ -84,7 +84,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [07:31] Haziq: Habis semua. Dan orang percaya sedih. Beria kita komen. Okay jom YB. Okay two and first. Harap-harap ada tindakan lah.
 
-[07:44] Speaker ?: Sila lapuk kepada pihak berkuasa.
+[07:44] Rafizi: Sila lapuk kepada pihak berkuasa.
 
 [07:49] Haziq: Ya sila lapuk kepada pihak berkuasa. Yang kedua Malaysia Mamdani Zohran Mahdani. Tapi yang ini sebab kita tak tunjuk video
 
@@ -116,7 +116,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [14:52] Rafizi: Walau tak, Mummy button badge keychain. Oh keychain. Eh tapi yang ni bukan keychain, yang ni pakai. Pakai.
 
-[15:01] Rafizi: Kan kitchen ada pakai? Yang itu kitchen. Yang itu button badge. Ada dua lah. So siapa yang beria ni? Kalau you pun jangan Bersemangat I hope dia dapat PJK lah kot Dapat pingat lah Kau tidak kesian
+[15:01] Rafizi: Kan keychain ada pakai? Yang itu keychain. Yang itu button badge. Ada dua lah. So siapa yang beria ni? Kalau you pun jangan Bersemangat I hope dia dapat PJK lah kot Dapat pingat lah Kau tidak kesian
 
 [15:19] Rafizi: masuk beria kan Oh paling kurang Harapnya dia punya button badge ni Out of stock Betul-betul jadi hot selling item lah kot
 
