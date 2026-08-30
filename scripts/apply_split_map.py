@@ -225,6 +225,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("mapfile")
     ap.add_argument("--write", action="store_true")
+    ap.add_argument("--only", help="apply just this section key, or every "
+                                   "section of this episode tag")
     args = ap.parse_args()
 
     manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
@@ -233,6 +235,14 @@ def main():
     total, text_edits = 0, 0
     for key, rules in spec.items():
         if key.startswith("_") or not isinstance(rules, dict):
+            continue
+        # --only scopes the replay to one section. This file accumulates a section per
+        # adjudication round, and a section whose edits are already applied no longer
+        # matches raw.md -- correctly, since it describes the file as it was. Replaying the
+        # whole file therefore stops at the first such section (ep53's 2:24:00 today) and
+        # never reaches the ones that matter. Scoping is how a new round gets applied
+        # without rewriting history.
+        if args.only and not (key == args.only or key.split("_")[0] == args.only):
             continue
         # Entries are keyed "<tag>" or "<tag>_roundN"; the block-shaped ones from round 1
         # carry "block"/"turns" and are handled by their own historic pass, not here.

@@ -347,5 +347,40 @@
     },
     "_my_error": "I first merged this as TWO turns and put Haziq on the second (2:52:35) from a caption '>>' marker plus which label owned more text -- after I had already established in 2.6 that those markers fire mid-turn and prove nothing. Two independent things contradicted it before the owner did: the published rewrite had independently read the whole run as one Rafizi turn, and the text says 'Tadi saya bagi contoh diesel tu kan' -- Rafizi citing his own earlier example. I should have treated the disagreement between my raw edit and the existing published file as evidence, not noise."
   },
-  "_ep41_round2_open": "Adjudicated: the buried question (2:51:37 Haziq) and the answer's start. NOT adjudicated: the 2:52:35 label, see its own note."
+  "_ep41_round2_open": "Adjudicated: the buried question (2:51:37 Haziq) and the answer's start. NOT adjudicated: the 2:52:35 label, see its own note.",
+  "ep61_owner": {
+    "02:53": {
+      "who": "Rafizi",
+      "was": "Speaker ?",
+      "text_was": "Nebulizer tu memang hydrogen",
+      "text_now": "Nebulizer tu memang hydrogen ke?",
+      "_note": "OWNER: 'Rafizi, Nebulizer tu memang hydrogen ke? actual word'. The frame here is a full-screen TikTok/ChatGPT graphic, so video could never answer it."
+    },
+    "14:52": {
+      "who": "Rafizi",
+      "was": "Speaker ?",
+      "text_was": "Walau tak, Mummy button badge kitchen. Oh kitchen. Eh tapi yang ni bukan kitchen, yang ni pakai. Pakai.",
+      "text_now": "Walau tak, Mummy button badge keychain. Oh keychain. Eh tapi yang ni bukan keychain, yang ni pakai. Pakai.",
+      "_note": "OWNER: 'Rafizi. Not kitchen, keychain.' NOTE THE ADJACENT BLOCK: [15:01] carries the same mishearing twice -- 'Kan kitchen ada pakai? Yang itu kitchen. Yang itu button badge.' -- in the same merch exchange. It is NOT changed here, because the owner's correction named this block and changing words is the one operation that must never be extended by inference. Flagged for one yes."
+    },
+    "15:19": {
+      "who": "Rafizi",
+      "was": "Speaker ?",
+      "text_was": "Maksud beria kan Oh paling kurang Harapnya dia punya button badge ni Out of stock Betul-betul jadi hot selling item lah kot",
+      "text_now": "masuk beria kan Oh paling kurang Harapnya dia punya button badge ni Out of stock Betul-betul jadi hot selling item lah kot",
+      "_note": "OWNER: 'Rafizi, not maksud, masuk beria kan'."
+    },
+    "21:35": {
+      "who": "Rafizi",
+      "was": "Speaker ?",
+      "_note": "OWNER: 'Rafizi'. The frame is a full-screen Tabung Haji / Baitul Maqdis card, so video could never answer it. The sensing said Haziq at -0.208."
+    },
+    "2:51:15": {
+      "who": "Rafizi",
+      "was": "Farhan (Pa'an)",
+      "_note": "OWNER: '[2:51:13] is Rafizi'. This is the block that region covers. It removes the only Farhan (Pa'an) label in ep61, so he is not in this episode at all and the label was a diarizer artefact. rebuild_roster.py will drop him from the frontmatter."
+    },
+    "_what_this_settled_about_the_method": "The owner adjudicated 5 items and every one is Rafizi. Scored against that plus the gold passage, the sensing on ep61's SHORT blocks splits cleanly by direction: it said Rafizi 15 times and was right 15 times; it said Haziq 4 times and was wrong 4 times (01:55, 02:36, 02:53, 21:35). 78% overall, but every error is a false CO-HOST call. Carry that into the next episode: a Rafizi call on a short block is trustworthy, a co-host call is not and needs video or the owner before it is written. Also corrected: [14:52] and [15:19] each have the camera cutting mid-block, which I read as proof the block held two voices. The owner says both are wholly Rafizi, so A CAMERA CUT IS A REACTION SHOT AS OFTEN AS A SPEAKER CHANGE. That weakens video evidence for short blocks specifically -- it stays strong for the long regions, where the shot holds one person for 20-56 seconds."
+  },
+  "_ep61_07_44_still_open": "NOT ADJUDICATED, and that is my error rather than an open question the owner declined. data/ep61_open_items.md listed five items but silently dropped this one, so the owner never saw it. Text is 'Sila lapuk kepada pihak berkuasa.', the frame is a two-shot, and the sensing says Haziq -- a call the record now puts at 0 for 4 on this class. Left as Speaker ? rather than inferred."
 }

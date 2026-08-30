@@ -107,6 +107,61 @@ def generic_floor(ep_dir):
     return n * len(DERIVED)
 
 
+AGREEMENT_MIN_WORDS = 8        # below this a published turn carries no matchable signal
+AGREEMENT_TOLERANCE = 0.02     # a move smaller than this is noise, not a gain
+
+
+def attribution_agreement(ep_dir):
+    """Share of published turns whose label matches the raw.md block they came from.
+
+    WHY THIS EXISTS. The generic-turn count answers "can the reader attribute this turn at
+    all", and it is blind to whether the name is the RIGHT one. That gap cost a full
+    three-try run on ep61: raw.md had just had 15 attribution regions re-cut and 14
+    `Speaker ?` blocks named, all confirmed on video or against the owner's own gold, and
+    every candidate was rejected for "nothing measurably better" because generic turns were
+    0 before and 0 after. The candidates carried the corrected names; the gate could not see
+    it, and restored the wrong-label incumbent.
+
+    So this measures the thing an attribution pass actually improves. The rewrite edits
+    wording but does not invent content, so a published turn and its source block share
+    their rare words. Scoring is name_published_placeholders.best_match, reused rather than
+    reimplemented: it weights each word by inverse block frequency and divides by
+    sqrt(block length), and that division is load-bearing. Without it the score measures
+    shared TOPIC and the longest-block speaker wins every comparison -- on this corpus
+    always Rafizi. A hand-rolled version of this metric during the ep61 pass omitted the
+    normalisation and reported 62 of 190 turns mislabelled, several of which contained a
+    `YB` vocative and so were plainly the co-host.
+
+    Only meaningful while raw.md is the trusted artefact, which is the premise of the whole
+    pipeline: raw.md is reviewed, the published files are derived from it.
+    """
+    import name_published_placeholders as npp
+
+    raw = read_body(ep_dir / "raw.md")
+    blocks = npp.raw_blocks(raw)
+    if not blocks:
+        return None
+    w = npp.weights(blocks)
+    agree = total = 0
+    for f in DERIVED:
+        # TURN_RE is anchored but carries no re.M -- check_published applies it per line,
+        # so finditer over the whole body silently matches nothing and the metric reads None.
+        for line in read_body(ep_dir / f).splitlines():
+            m = npp.TURN_RE.match(line)
+            if not m:
+                continue
+            label = m.group(1).strip()
+            tw = npp.words(m.group(2))
+            if len(tw) < AGREEMENT_MIN_WORDS:
+                continue
+            best, sc = npp.best_match(tw, blocks, w)
+            if best is None:
+                continue
+            total += 1
+            agree += (best == label)
+    return (agree / total) if total else None
+
+
 def score(ep_dir):
     raw = read_body(ep_dir / "raw.md")
     mixed = read_body(ep_dir / "interview.md")
@@ -120,6 +175,7 @@ def score(ep_dir):
         "raw_malay": malay_ratio(raw),
         "generic_turns": generic_turns(ep_dir),
         "generic_floor": generic_floor(ep_dir),
+        "attribution": attribution_agreement(ep_dir),
     }
 
 
@@ -145,6 +201,17 @@ def verdict(old, new):
     # YBkM-ep02 was promoted on a +9pt Malay gain while its generic labels went 84 -> 234,
     # because "improved something, worsened nothing I check" is not the same as "better".
     # Every axis that raises a flag needs a veto, or the gate trades one flag for another.
+    # Attribution is vetoed symmetrically with Malay and generic labels, for the reason the
+    # generic veto's own comment gives: every axis that raises a flag needs a veto, or the
+    # gate trades one flag for another. A candidate that names turns after the wrong person
+    # is worse than one that leaves them generic, whatever else it improved.
+    da = None
+    if new.get("attribution") is not None and old.get("attribution") is not None:
+        da = new["attribution"] - old["attribution"]
+        if da < -AGREEMENT_TOLERANCE:
+            return False, (f"REJECT: attribution agreement with raw.md "
+                           f"{old['attribution']:.1%} -> {new['attribution']:.1%}, so more "
+                           f"published turns carry a name raw.md does not support")
     floor = new["generic_floor"]
     # A candidate at or below the floor cannot attribute better, so a rise up to it is not
     # a regression -- see generic_floor(). Only a rise ABOVE the floor is the rewrite
@@ -157,10 +224,13 @@ def verdict(old, new):
     # The incumbent sitting below the floor is not a better score, it is a guess: it named
     # turns raw.md leaves generic. Coming up to the floor is the gain.
     unclaimed = at_floor and old["generic_turns"] < floor
-    if dg <= 0 and not unclaimed and dm <= MALAY_TOLERANCE:
+    gained_attribution = da is not None and da > AGREEMENT_TOLERANCE
+    if dg <= 0 and not unclaimed and dm <= MALAY_TOLERANCE and not gained_attribution:
+        att = ("" if da is None
+               else f", attribution {old['attribution']:.1%} -> {new['attribution']:.1%}")
         return False, (f"REJECT: nothing measurably better (generic turns "
                        f"{old['generic_turns']} -> {new['generic_turns']}, floor {floor}, "
-                       f"Malay {old['malay']:.1%} -> {new['malay']:.1%})")
+                       f"Malay {old['malay']:.1%} -> {new['malay']:.1%}{att})")
     gains = []
     if dg > 0:
         gains.append(f"{dg} fewer generic turn(s)")
@@ -170,13 +240,18 @@ def verdict(old, new):
                      f"leaves unnamed")
     if dm > MALAY_TOLERANCE:
         gains.append(f"Malay {old['malay']:.1%} -> {new['malay']:.1%}")
+    if gained_attribution:
+        gains.append(f"attribution agreement with raw.md {old['attribution']:.1%} -> "
+                     f"{new['attribution']:.1%}")
     return True, f"PROMOTE: {', '.join(gains)}, completeness {dc:+.0%}"
 
 
 def show(tag, s):
     print(f"  {tag:10s} completeness {s['completeness']:.0%}  malay {s['malay']:.1%} "
           f"(raw {s['raw_malay']:.1%})  en {s['en_ratio']:.2f}  ms {s['ms_ratio']:.2f}  "
-          f"generic turns {s['generic_turns']} (floor {s['generic_floor']})")
+          f"generic turns {s['generic_turns']} (floor {s['generic_floor']})"
+          + ("" if s.get("attribution") is None
+             else f"  attribution {s['attribution']:.1%}"))
 
 
 def main():
