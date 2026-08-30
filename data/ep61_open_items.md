@@ -5,6 +5,30 @@ were Rafizi.** What remains is listed first, then the closed items are kept as t
 
 ## Still open
 
+### `Akta Sisi Perbeja` at [2:13:16] -- almost certainly resolved, wants one yes
+
+Haziq names an act the ASR garbled. **The answer is in Rafizi's reply, not in a search:**
+[2:14:30] says `Sisa pepejal ni lain sikit lah kan` and returns to `sisa pepejal` five more
+times. So `Akta Sisi Perbeja` = **Akta Sisa Pepejal** (Solid Waste and Public Cleansing
+Management Act 2007, Akta 672), and the published files already render it that way.
+
+An earlier note in this pass guessed the Water Services Industry Act 2006 from the water
+assets in the same sentence. That was wrong: Haziq names TWO handovers, solid waste and
+water, and the act attaches to the first. Recorded because the near-miss is the point --
+the sentence's own topic pointed one way and the other speaker's reply pointed the other.
+
+`raw.md` still reads `Akta Sisi Perbeja`. Say the word and it goes into `raw.md` and
+`fix_proper_nouns.py` together.
+
+### `atas wasiah` in the same sentence -- NOT resolved
+
+`aset air melalui atas wasiah diserahkan kepada federal`. Rafizi then uses the word himself:
+`Wasiah itu memang dia kembali kepada soal economies of scale`. Both hosts saying it makes
+ASR noise unlikely, so it is probably a real term rendered by ear. The candidate is WSIA
+(Water Services Industry Act), which at least one Malaysian source spells "WASIA" -- which
+would fit the water assets exactly. Not written in. Two speakers using a word is not the
+same as knowing what the word is.
+
 ### [07:44] `Speaker ?` -- "Sila lapuk kepada pihak berkuasa."
 
 MY OMISSION, not a question the owner declined: this file originally listed five items and
