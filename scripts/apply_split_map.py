@@ -217,7 +217,14 @@ def apply_one(lines, stamp, rule):
             raise SystemExit(f"  {stamp}: text_was {rule.get('text_was')!r} != {said!r}")
         new_text = rule["text_now"]
         kind += f"   TEXT {said!r} -> {new_text!r}"
-    lines[i] = build(stamp, rule["who"], new_text)
+    # `at_now` alongside `who` retimes and relabels in one rule. These arrive together
+    # more often than not: a block whose stamp drifted is exactly the block whose label a
+    # stamp-driven tool got wrong, because the tool read the wrong stretch of audio for it.
+    # ep61's Farhan turn was destroyed that way -- stamped 2:51:15, spoken at 2:51:41.
+    at = rule.get("at_now", stamp)
+    if at != stamp:
+        kind += f"   RETIMED {stamp} -> {at}"
+    lines[i] = build(at, rule["who"], new_text)
     return 1, kind
 
 

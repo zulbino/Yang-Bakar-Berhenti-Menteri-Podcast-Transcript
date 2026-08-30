@@ -38,18 +38,53 @@ from sense_speakers import (AUDIO, BLOCK, DEFAULTS, ROOT, build_axis, caption_wo
                             video_id_of)
 
 
-def block_spans(folder):
-    blocks = BLOCK.findall((folder / "raw.md").read_text(encoding="utf-8"))
-    out = []
-    for i, (ts, lab, txt) in enumerate(blocks):
-        p = [int(x) for x in ts.split(":")]
-        a = p[0] * 3600 + p[1] * 60 + p[2] if len(p) == 3 else p[0] * 60 + p[1]
-        if i + 1 < len(blocks):
-            q = [int(x) for x in blocks[i + 1][0].split(":")]
-            b = q[0] * 3600 + q[1] * 60 + q[2] if len(q) == 3 else q[0] * 60 + q[1]
+def stamp_seconds(ts):
+    p = [int(x) for x in ts.split(":")]
+    return p[0] * 3600 + p[1] * 60 + p[2] if len(p) == 3 else p[0] * 60 + p[1]
+
+
+def block_spans(folder, caps):
+    """A block's audio window, taken from WHERE ITS WORDS ARE, not from its timestamp.
+
+    THIS USED TO USE STAMP-TO-NEXT-STAMP AND IT DESTROYED A VERIFIED TURN. ep61's Farhan
+    interjection was stamped [2:51:15] while its words sit at 2:51:41-2:51:59 in the caption
+    timings -- the episode has known stamp drift. The stamp-derived window therefore covered
+    26 seconds of the PREVIOUS speaker, this tool reported "Farhan -> Rafizi" correctly for
+    that window, and the label the owner had established by ear and on video was deleted.
+
+    The words carry real times, so use them. Stamps are only a fallback for a block whose
+    text does not align at all, and every such block is reported rather than silently
+    trusted.
+    """
+    from build_region_split_map import block_tokens
+
+    toks = block_tokens(folder, caps)
+    out, drifted, unaligned = [], [], []
+    for i, b in enumerate(toks):
+        stamp_t0 = stamp_seconds(b["stamp"])
+        if b["timed"]:
+            t0 = min(t[3] for t in b["timed"])
+            t1 = max(t[3] for t in b["timed"])
+            drift = t0 - stamp_t0
+            if abs(drift) > 10:
+                drifted.append((b["stamp"], b["label"], drift))
         else:
-            b = a + 30
-        out.append({"i": i, "ts": ts, "t0": a, "t1": b, "label": lab.strip(), "text": txt})
+            nxt = stamp_seconds(toks[i + 1]["stamp"]) if i + 1 < len(toks) else stamp_t0 + 30
+            t0, t1, drift = stamp_t0, nxt, 0.0
+            unaligned.append((b["stamp"], b["label"]))
+        out.append({"i": i, "ts": b["stamp"], "t0": t0, "t1": max(t1, t0 + 0.5),
+                    "label": b["label"], "text": b["text"], "drift": drift})
+
+    if drifted:
+        print(f"  STAMP DRIFT: {len(drifted)} of {len(out)} blocks sit more than 10s from "
+              f"their own timestamp. Windows come from the words, so this is reported, not "
+              f"corrected.")
+        for stamp, lab, d in sorted(drifted, key=lambda x: -abs(x[2]))[:6]:
+            print(f"    [{stamp}] {lab:16} words are {d:+.0f}s from the stamp")
+    if unaligned:
+        print(f"  {len(unaligned)} block(s) had no word align to the captions; their windows "
+              f"fall back to stamps and CANNOT be trusted: "
+              f"{', '.join(f'[{t}]' for t, _ in unaligned[:6])}")
     return out
 
 
@@ -93,7 +128,7 @@ def main():
     print(f"sensed     : {len(segs)} segments, "
           f"{sum(s['t1'] - s['t0'] for s in segs) / 60:.1f} min of speech")
 
-    blocks = block_spans(folder)
+    blocks = block_spans(folder, caps)
     # per block, how many seconds the audio assigns to each name
     for b in blocks:
         b["sensed"] = defaultdict(float)

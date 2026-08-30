@@ -158,7 +158,12 @@ def main():
             parts.append([b["label"], None, stamp_of(r["t1"])])
 
         if len(parts) == 1:
-            entries.setdefault(b["stamp"], {})["who"] = r["name"]
+            # `was` and `text_was` are not optional here. A split re-uses its parent's
+            # stamp, so a stamp is NOT unique in this corpus and a bare {"who": ...} can
+            # match two turns. apply_split_map refuses rather than guessing, correctly.
+            entries.setdefault(b["stamp"], {}).update(
+                {"who": r["name"], "was": b["label"],
+                 "text_was_startswith": b["text"].strip()[:60]})
             note = "whole block relabelled"
         else:
             bad = [p[1] for p in parts if p[1] and b["text"].count(p[1]) != 1]

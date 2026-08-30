@@ -19,6 +19,76 @@ seconds of speech; the unstable turns carry under a second.
 So the pass below acts on **regions of 15 seconds or more** and leaves short turns alone.
 That is not caution for its own sake — it is where the evidence is.
 
+## Read the episode's history first. This is not optional
+
+**Before touching an episode, search git log for prior owner findings on it.**
+
+```
+git log --all --oneline -S "<epNN>" -- "episodes/*/*<epNN>*/raw.md"
+git log --all --grep="<epNN>" --format="%h %s%n%b" | grep -i -B4 -A8 "found by ear\|owner\|confirmed on video"
+```
+
+On ep61 this step was skipped and it cost a verified turn. Commit `3c255ee` recorded, from a
+previous session: *"found by ear and confirmed on video, not by any check: Farhan interjects
+at 2:51:42-58"*. That decision existed **only in a commit message**, so nothing in
+`data/` carried it, and a later pass overwrote it.
+
+Two rules follow:
+
+- **An owner decision goes in `data/speaker_adjudications.json`, always.** A commit message
+  is a record, not a data source. If you learn something from the owner, write it there in
+  the same commit.
+- **Never ask the owner about a SECOND and then apply the answer to a BLOCK.** ep61's Farhan
+  block was stamped `[2:51:15]` while its words sat at 2:51:41-2:51:59. The owner was asked
+  about "2:51:13", answered "Rafizi" — correct for that second, which really is Rafizi — and
+  the answer was applied to a block holding a different speaker 26 seconds later. Quote the
+  turn's TEXT when you ask, not just its timestamp.
+
+## An owner correction applied only to the published files WILL be reverted
+
+ep61's temple name is the worked example. The owner gave `Persatuan Penganut Dewa Kuan Ti`
+and `Xi Ling Gong Temple`; the fix that session edited the three `interview*.md` files and
+left `raw.md` reading `Dewa Kuanti` / `Zilinggong`. A later rewrite regeneration read raw.md
+and silently put the garble back, before anyone touched attribution.
+
+**An owner text correction has to land in two places:**
+
+1. **`raw.md`**, because every regeneration reads it and nothing else.
+2. **`scripts/fix_proper_nouns.py`'s `CORRECTIONS` map**, because the rewrite engine re-garbles
+   proper nouns on every run, so the correction needs re-applying after each one. Run
+   `fix_proper_nouns.py --write` after `gate_rewrite.py`.
+
+**Anchor the pattern, do not normalise a substring.** A bare `Kuanti -> Kuan Ti` would have
+corrupted ep36's `minimum order kuantiti` and `Dia ada kuantitatif`, both ordinary Malay
+words. The entry is anchored on the two-word `Dewa Kuanti` for that reason. Check every
+occurrence corpus-wide before writing:
+
+```
+grep -rlo "<garble>" episodes/
+```
+
+This is the same shape as the YB-garble lesson below: **a text fix does not survive a
+regeneration of its source.** The two differ only in which direction the loss runs.
+
+## Timestamps drift, so never derive a block's window from its stamp
+
+**159 of ep61's 203 blocks sit more than 10 seconds from their own timestamp**, the worst by
+31 seconds. `audit_block_attribution.py` originally took a block's audio window as
+stamp-to-next-stamp, which for a drifted block reads the *previous* speaker's audio and
+reports a disagreement that is real for the window and wrong for the block.
+
+It now derives every window from the caption times of the block's own words, and prints a
+drift report. Two consequences worth knowing:
+
+- Correcting this on ep61 dropped measured disputed speech from 14% to **7%** and cut the
+  contiguous-region list from 16 to 2. Most of what the stamp-based audit "found" was drift.
+- The fifteen regions applied before the fix were re-verified afterwards and all fifteen were
+  correct, because `build_region_split_map.py` cuts by word-time alignment rather than by
+  stamp. The damage was confined to the one change made by hand outside that path.
+
+So: any change made outside `build_region_split_map.py` has no word-time check on it. Give it
+one, or do not make it.
+
 ## Before you start
 
 Capture the baseline. A regression has to read as `2 → 6`, not as a plausible absolute:
@@ -98,6 +168,10 @@ substitution.
 
 One map file is applied once. Re-running a file whose blocks have already been split fails,
 and that is correct behaviour rather than a bug.
+
+A stamp is NOT unique in this corpus — a split re-uses its parent's stamp — so a whole-block
+relabel needs `was` and `text_was_startswith` to pin which turn it means. `apply_split_map.py`
+refuses rather than guessing, which is how this surfaced.
 
 Cut points take the whole whitespace-delimited token. Taking them at a `[\w']+` boundary
 splits `Tuh...` into `Tuh` and a free-standing `...`, which `apply_split_map.py`'s word

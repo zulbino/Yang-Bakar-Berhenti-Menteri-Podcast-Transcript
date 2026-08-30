@@ -27,6 +27,30 @@ ROOT = Path(__file__).resolve().parent.parent
 # (regex, replacement, why). Longest/most-specific first, so a broader pattern cannot
 # eat a more specific one's match.
 CORRECTIONS = [
+    (r"Baitul Magdis(?![A-Za-z])",
+     "Baitul Maqdis",
+     "ep61, once. Jerusalem / the Al-Aqsa precinct, used throughout the episode as the "
+     "analogy PAS drew for Tabung Haji. The episode itself writes Baitul Maqdis 7 times "
+     "against this one Magdis, and Baitulmaqdis is a standard Malay form (ms.wikipedia.org "
+     "has 'Sejarah Baitulmaqdis'), so this normalises a garble to the established in-corpus "
+     "spelling rather than choosing between two real spellings."),
+    (r"Batu Makdis(?![A-Za-z])",
+     "Baitul Maqdis",
+     "ep61, once, same place and same passage -- 'ibarat pertahanan Batu Makdis'. Third "
+     "spelling of the one name."),
+    (r"Dewa Kuanti(?![A-Za-z])",
+     "Dewa Kuan Ti",
+     "OWNER-supplied, ep61: the temple whose grounds hosted a ceramah is the Persatuan "
+     "Penganut Dewa Kuan Ti. Anchored on the two-word form ON PURPOSE -- a bare Kuanti -> "
+     "Kuan Ti would corrupt ep36's 'minimum order kuantiti' and 'Dia ada kuantitatif', "
+     "which are ordinary Malay words containing the same letters. The owner gave this name "
+     "in a session whose fix reached only the published files, so a later rewrite "
+     "regeneration silently reverted it; correcting raw.md and listing it here is what "
+     "makes it survive the next regeneration."),
+    (r"Zilinggong(?![A-Za-z])",
+     "Xi Ling Gong",
+     "OWNER-supplied, ep61, same turn: the temple's name as it appears on Maps. The ASR "
+     "heard 'z linggong'. Same reversion story as Dewa Kuan Ti above."),
     (r"Fuzi Asaleh",
      "Fuziah Salleh",
      "Fuziah Salleh, PKR secretary-general. Garbled once, in ep37, inside a list of "

@@ -1,0 +1,41 @@
+{
+ "_README": [
+  "Attribution regions found by scripts/audit_block_attribution.py and then",
+  "CHECKED ON VIDEO frame by frame. Apply with:",
+  "",
+  "    python scripts/apply_split_map.py data/speaker_video_confirmed_ep61_round2.json",
+  "    python scripts/apply_split_map.py data/speaker_video_confirmed_ep61_round2.json --write",
+  "",
+  "THIS IS NOT data/speaker_adjudications.json AND MUST NOT BE MERGED INTO IT.",
+  "That file holds what the owner decided by ear. These regions were derived by a",
+  "tool and then confirmed against the camera, which is strong evidence of a",
+  "different kind. Keeping them apart is what lets a later reader tell which",
+  "claims rest on the owner's ear and which rest on a frame.",
+  "",
+  "WHY THE CAMERA IS EVIDENCE HERE. The show cuts to whoever is talking. That is",
+  "unreliable for rapid exchange, because the cut lags speech by about 2 seconds",
+  "and not by a fixed amount, and a two-shot proves nothing. Every region below is",
+  "at least 15 seconds of continuous speech under one label, which is exactly the",
+  "case where the camera has settled and the frame is decisive.",
+  "",
+  "WHAT IS NOT CLAIMED. The sensing score on the owner's 18-turn gold passage moved",
+  "between 72% and 83% under a change that should have been neutral, so per-turn",
+  "accuracy on SHORT turns is not established. These regions are not short turns,",
+  "and their spans and directions were stable across that same change -- which is",
+  "why they were worth checking on video and short turns were not."
+ ],
+ "_frames": "frames_ep61_new.png",
+ "_source_audit": "data/_audit_ep61_fixed.json",
+ "ep61_video_confirmed": {
+  "1:22:10": {
+   "who": "Rafizi",
+   "was": "Haziq",
+   "text_was_startswith": "perniagaan lah. Cukai perniagaan, cukai... Tapi... Yang ini "
+  },
+  "1:55:23": {
+   "who": "Rafizi",
+   "was": "Haziq",
+   "text_was_startswith": "kita seolah-olah tak payah ada kerajaan negeri lah. Semua it"
+  }
+ }
+}
