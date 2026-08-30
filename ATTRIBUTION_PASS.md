@@ -88,11 +88,11 @@ python scripts/build_region_split_map.py --audit data/_audit_<epNN>.json \
     --frames "frames_<epNN>.png"
 python scripts/apply_split_map.py data/speaker_video_confirmed_<epNN>.json          # dry run
 python scripts/apply_split_map.py data/speaker_video_confirmed_<epNN>.json --write
-python scripts/_verify_words.py <epNN> HEAD
+python scripts/verify_words_unchanged.py <epNN> HEAD
 ```
 
 `apply_split_map.py` asserts the word sequence of every touched block is unchanged.
-`_verify_words.py` then asserts it file-wide against git, which catches anything a second
+`verify_words_unchanged.py` then asserts it file-wide against git, which catches anything a second
 tool did in between. Expect word counts to be identical and every diff to be an intended
 substitution.
 
@@ -136,6 +136,23 @@ budget an hour for a 3-hour episode at `--tries 3`.
 
 Finish `raw.md` completely before running it. It reads `raw.md` at generation time, so an
 edit part-way through leaves the tries inconsistent.
+
+Verify it landed where it matters, region by region:
+
+```
+REGIONS=1,2,3,... python scripts/check_region_labels.py <epNN> data/_audit_<epNN>.json
+```
+
+`gate_rewrite`'s own metric scores the whole episode and is the right promotion gate; this
+answers the narrower question and is what tells you the pass actually landed. On ep61 it
+showed the Malay renderings going from 5 of 15 regions correct to 12 of 15, and named the
+three that did not take. It cannot read `interview-en.md` — matching is by Malay word
+overlap, so every English row returns "no match" by construction.
+
+**gate_rewrite needs the attribution metric to see an attribution fix at all.** Without it,
+generic turns are 0 before and 0 after, the gate reports "nothing measurably better", and it
+restores the wrong-label incumbent. That cost a full three-try run on ep61 before the metric
+was added.
 
 Mandatory afterwards, because the metadata stage rewrites the roster and reverts labels:
 
