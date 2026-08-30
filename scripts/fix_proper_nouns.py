@@ -243,6 +243,33 @@ CORRECTIONS = [
      "account owner, reported as Habin Faisal Mohamed. The lookahead is load-bearing "
      "beyond the usual reason: the corpus holds 11 `Abidin`, and a pattern on bare `Abid` "
      "would eat every one of them."),
+    (r"Akta Sisi Perbeja(?![A-Za-z])", "Akta Sisa Pepejal",
+     "OWNER-CONFIRMED, ep61 raw.md x1. The Solid Waste and Public Cleansing Management "
+     "Act 2007 (Akta 672). Worth recording HOW it was identified, because the sentence "
+     "itself points the wrong way: Haziq names two handovers to the federal government, "
+     "solid waste and water, so the water assets alongside it made the Water Services "
+     "Industry Act look like the answer. The reply settles it -- Rafizi at [2:14:30] says "
+     "`sisa pepejal` six times. The corpus already holds 11 correct `sisa pepejal` and "
+     "2 `Akta Sisa Pepejal` against this one garble."),
+    (r"Lim Keng Yek(?![A-Za-z])", "Lim Keng Yaik",
+     "OWNER-SUPPLIED with the source, ep61 raw.md x2 in one sentence -- `Tun Lim Keng Yek "
+     "dulu lah, mendiang Tun Lim Keng Yek`. The late Tun Dr Lim Keng Yaik, Minister of "
+     "Energy, Water and Communications when water services were restructured, which is "
+     "exactly the era Rafizi is describing. The three published files already say Yaik, "
+     "so this is raw.md catching up to them. https://ms.wikipedia.org/wiki/Lim_Keng_Yaik"),
+    (r"[Ww]asiah(?![A-Za-z])", "WASIA",
+     "OWNER-CONFIRMED, ep61 x8 -- 5 lowercase, 3 capitalised, spread over the two turns of "
+     "one exchange and NOWHERE else in the corpus, which is what makes a bare pattern safe "
+     "here. The shortform for the Water Services Industry Act 2006 (Akta 655), the "
+     "instrument the states transferred water assets to the federal government under. "
+     "WSIA is the commoner written abbreviation and WASIA is the attested alternative "
+     "(scribd.com/document/561622547 titles a deck `WASIA 2006 overview`); WASIA is kept "
+     "because this is a transcript and it is what both hosts said out loud -- Rafizi uses "
+     "the word himself at [2:14:30], which is also why it was never ASR noise. `wasiat` is "
+     "a DIFFERENT and correct word, Lenin's will in ep34, and the lookahead is what keeps "
+     "this off it. Note interview-en.md glosses it `[deed of assignment]`, which the "
+     "rewrite invented and which is wrong for an act -- fix that gloss by hand, this map "
+     "cannot reach it."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the
