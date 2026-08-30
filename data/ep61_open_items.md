@@ -5,30 +5,6 @@ were Rafizi.** What remains is listed first, then the closed items are kept as t
 
 ## Still open
 
-### `Akta Sisi Perbeja` at [2:13:16] -- almost certainly resolved, wants one yes
-
-Haziq names an act the ASR garbled. **The answer is in Rafizi's reply, not in a search:**
-[2:14:30] says `Sisa pepejal ni lain sikit lah kan` and returns to `sisa pepejal` five more
-times. So `Akta Sisi Perbeja` = **Akta Sisa Pepejal** (Solid Waste and Public Cleansing
-Management Act 2007, Akta 672), and the published files already render it that way.
-
-An earlier note in this pass guessed the Water Services Industry Act 2006 from the water
-assets in the same sentence. That was wrong: Haziq names TWO handovers, solid waste and
-water, and the act attaches to the first. Recorded because the near-miss is the point --
-the sentence's own topic pointed one way and the other speaker's reply pointed the other.
-
-`raw.md` still reads `Akta Sisi Perbeja`. Say the word and it goes into `raw.md` and
-`fix_proper_nouns.py` together.
-
-### `atas wasiah` in the same sentence -- NOT resolved
-
-`aset air melalui atas wasiah diserahkan kepada federal`. Rafizi then uses the word himself:
-`Wasiah itu memang dia kembali kepada soal economies of scale`. Both hosts saying it makes
-ASR noise unlikely, so it is probably a real term rendered by ear. The candidate is WSIA
-(Water Services Industry Act), which at least one Malaysian source spells "WASIA" -- which
-would fit the water assets exactly. Not written in. Two speakers using a word is not the
-same as knowing what the word is.
-
 ### [07:44] `Speaker ?` -- "Sila lapuk kepada pihak berkuasa."
 
 MY OMISSION, not a question the owner declined: this file originally listed five items and
@@ -48,8 +24,10 @@ Rafizi where raw.md says Haziq:
 | 12 | 1:17:54-1:18:19 | 19.6s |
 | 10 | 2:21:57-2:22:26 | 23.7s |
 
-Published attribution agreement with `raw.md` went 81.4% -> 89.8% and the Malay files went
-from 5 of 15 regions correct to 12 of 15. Fixing the last three means either another
+Published attribution agreement with `raw.md` went 81.4% -> 89.8% -> **90.7%** over two
+regenerations, and the Malay files went from 5 of 15 regions correct to 12 of 15. The second
+regeneration held 12 of 15 and left the same three, which is what makes them a property of
+their length rather than of one unlucky roll. Fixing the last three means either another
 non-deterministic rewrite roll, or splitting a published turn that has no timestamps to
 split on. Neither is obviously worth 62 seconds of a 2h54m episode, and `raw.md` remains the
 reviewed authority.
@@ -60,6 +38,35 @@ reviewed authority.
 same mishearing in the adjacent block [14:52] to `keychain`. This block was left untouched
 because changing words must never be extended by inference, but it is plainly the same
 merch exchange.
+
+## CLOSED 2026-08-30, owner-adjudicated: three names in one exchange
+
+All three are applied to `raw.md` and to the regenerated published files, and all three are
+in `scripts/fix_proper_nouns.py` so the next regeneration cannot revert them.
+
+| garble | correction | owner's evidence |
+|---|---|---|
+| `Akta Sisi Perbeja` | `Akta Sisa Pepejal` | confirmed; also settled from inside the transcript by Rafizi's reply |
+| `atas wasiah` / `Wasiah` | `WASIA` | shortform for the Water Services Industry Act 2006 (Akta 655) |
+| `Tun Lim Keng Yek` | `Tun Lim Keng Yaik` | https://ms.wikipedia.org/wiki/Lim_Keng_Yaik |
+
+**On WASIA rather than WSIA.** WSIA is the commoner written abbreviation for Akta 655; WASIA
+is the attested alternative. WASIA is kept because this is a transcript of speech and it is
+what both hosts said -- Rafizi uses the word himself in his reply, which is also why it was
+never ASR noise to be normalised away.
+
+**`interview-en.md` needed a hand fix the map alone could not make.** The English
+translation rendered `WASIA` as `Water assets through vesting` -- vesting water assets to
+PAAB is a real WSIA mechanism, so it is not nonsense, it just deletes the instrument the
+speaker named. Corrected to `through WASIA`, and anchored in the map on the whole phrase,
+because `vesting` occurs throughout the corpus and even matches inside `investing`.
+
+**Kept for the method, because the sentence pointed the wrong way.** A mid-pass note had
+proposed the Water Services Industry Act for `Akta Sisi Perbeja`, reasoning from the water
+assets in the same sentence. Wrong: Haziq names TWO handovers, solid waste and water, and
+the act attaches to the first, while WASIA attaches to the second. Rafizi's reply saying
+`sisa pepejal` six times is what settles it. Both answers were in the exchange; neither was
+in the sentence.
 
 ## Closed: the five the owner adjudicated
 
