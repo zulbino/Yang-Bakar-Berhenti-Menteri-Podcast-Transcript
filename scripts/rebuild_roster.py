@@ -166,7 +166,13 @@ for ep in man:
     # raw.md uses short names, so regenerating from it alone downgraded
     # "Najib Bakar" to "Najib" and "Prof. Emeritus Dr. Barjoyai Bardai" to
     # "Prof. Barjoyai". Prefer the fullest form seen for the same person.
-    fm_prev, _ = read_frontmatter_body(d / "interview.md")
+    # A raw-only episode has no published files to prefer a name form from, and reading
+    # interview.md unconditionally made this crash on one -- which aborted the whole
+    # corpus-wide rebuild at ep62 and wrote nothing for any of the other 68. Same shape as
+    # the reattribute_blocks crash: a mandatory post-step assuming a stage that has not run.
+    fm_prev = {}
+    if (d / "interview.md").exists():
+        fm_prev, _ = read_frontmatter_body(d / "interview.md")
     known = [canon(x) for x in (fm_prev.get("hosts") or []) + (fm_prev.get("guests") or []) if x]
 
     PLACEHOLDER = re.compile(r"\((?:speaker|penutur)\s*[\d?]+\)|\bspeaker\s*[\d?]+\b", re.I)
@@ -208,6 +214,8 @@ for ep in man:
     if WRITE:
         for name in ["interview.md", "interview-en.md", "interview-ms.md"]:
             p = d / name
+            if not p.exists():
+                continue    # raw-only episode: no published frontmatter to update yet
             # Surgical, via set_frontmatter_list. This used to round-trip through
             # read_frontmatter_body + frontmatter_md, which drops the body's "# Interview"
             # heading, and re-prepend the body's first line to put it back. That worked
