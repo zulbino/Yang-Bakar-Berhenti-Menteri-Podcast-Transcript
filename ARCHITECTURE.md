@@ -203,6 +203,17 @@ python scripts/remove_asr_boilerplate.py --write
 python scripts/name_published_placeholders.py
 python scripts/name_published_placeholders.py ep54 --apply
 
+# Does a transcript cover the whole episode, measured per 5-minute window against the
+# YouTube caption track? A WHOLE-FILE word count cannot answer this: gemini-3.8-flash's
+# ep62 transcript stopped 30 minutes early and still scored 1.10x the captions, because it
+# was 26% more verbose than they are over the part it did cover, which paid for the hole.
+# ep61's reviewed raw.md scores 1.11, so the two are indistinguishable by that number. The
+# engine's own timestamps are no use either -- this one wrote "[3:55:22] [end of audio]"
+# and read as 100% covered (2.10)
+python scripts/check_content_coverage.py ep62
+python scripts/check_content_coverage.py --raw data/_gem38_<id>/raw.md ep62
+python scripts/check_content_coverage.py --all
+
 # Regenerate a rewrite into a sandbox and keep it ONLY if it measures better than what
 # is already there, on completeness, Malay density, generic-label count, attribution
 # agreement with raw.md, and whether any speaker raw.md names reaches no published file at

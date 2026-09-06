@@ -3201,3 +3201,62 @@ Result: 142 spans removed, 98 files changed, qa_check 0/68, check_published back
 pristine baseline of 2, check_figures 0/68, check_names unchanged at its one waived
 expansion, and every real `menyukai` / `melanggan` / `jangan lupa untuk melanggan` still
 in place.
+
+### 2.10: A transcript that ended 30 minutes early and passed every check
+
+`gemini-3.8-flash` transcribed ep62 (3h55m21s, the longest episode in the corpus) with no
+loop at all -- a real improvement on ep61, where the same family of models produced 430
+blocks holding 35 distinct texts. 267 blocks, 267 distinct, 0% duplicated.
+
+It also stopped at 3:25:08 and wrote an ending nobody said.
+
+```
+[3:24:58] Haziq: ... a closing thank-you and sign-off
+[3:25:04] Rafizi Ramli: ...
+[3:25:06] Farhan: ...
+[3:25:08] [music/outro]
+[3:55:22] [end of audio]
+```
+
+The captions show the hosts at that moment mid-analysis of a named UK company filing in
+FELDA's corporate records, and carry **1,334 more cues and 3,003 more words** afterwards,
+running to 14099s. The real ending at 3:54 is different wording entirely, including
+`then I'm exhausted sebab 4 jam dah`. So 12.7% of the episode is missing and the seam is
+covered by an invented farewell.
+
+**Three checks passed it, and the third is the interesting one.**
+
+| check | reading | why it missed |
+|---|---|---|
+| duplicate share | 0.0% | correct, and irrelevant. There was no loop |
+| stamp coverage | 100.0% | the model wrote `[3:55:22]` itself. Its clock is not evidence |
+| word ratio vs captions | 1.10x | see below |
+
+Over the 87% it did cover, the model emitted **26%** more words than YouTube's caption ASR.
+That is normal and not a defect -- caption ASR drops words, and every clean episode in this
+corpus sits near 1.1x. But that surplus numerically paid for the missing 13%, landing the
+whole-file ratio at a healthy 1.10. **A whole-file word count cannot see a truncation,
+because verbosity in the covered part funds it.** The two numbers are indistinguishable:
+ep61's reviewed raw.md scores 1.11 and ep62's truncated one scores 1.10.
+
+`check_content_coverage.py` bins both sources into 5-minute windows and flags a window
+holding under 15% of its caption words. ep62's hole shows up as six consecutive empty
+windows starting at 3h25m; ep61 comes back clean across all 35.
+
+**The first version of that checker was wrong, and the control is what caught it.** It
+charged every block's words to the block's start stamp, so ep61's reviewed raw.md reported
+six empty windows over 17.2% of its runtime. Nothing was missing. This corpus has blocks
+spanning minutes -- one ep62 block covers 896 seconds of continuous speech -- so a checker
+built that way has a false-positive rate that scales with block length, which is precisely
+this corpus's known defect. Fixed by giving each block the interval from its own stamp to
+the next one and spreading its words across it. Still an approximation, now unbiased with
+respect to block length.
+
+Two things generalise:
+
+- **Run a known-good control before believing a new checker.** Had ep61 not been run
+  through it, the ep62 result would have looked like confirmation instead of coincidence,
+  and the threshold would have been tuned to a broken measure.
+- **A model's own timestamps are not evidence about a model's own coverage.** Anything the
+  engine under test produced is inadmissible as the yardstick for it. The captions work
+  because nothing in this pipeline generates them.
