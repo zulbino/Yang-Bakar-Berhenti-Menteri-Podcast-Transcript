@@ -115,5 +115,11 @@
       "reason": "Legitimate full-name expansion, not an invention. raw says `Izzah` three times and never `Nurul`; published writes `Nurul Izzah` once and `Izzah` thereafter, which is the same person and the correct name. Verified by reading the passage: 'position himself sebagai the natural successor kepada Datuk Seri Anwar lah, selain daripada Nurul Izzah. Sebab itu dia jadi sangat rapat dengan Izzah'. Contrast the four real fabrications, where raw contains no form of the published name at all.",
       "date": "2026-08-29"
     }
+  },
+  "2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62": {
+    "oversized-block": {
+      "verdict": "benign",
+      "reason": "MEASURED, not read. The flag asks for the block to be read before waiving and warns that one label is not proof of one person, so this was answered with the per-block voiceprint test rather than by eye: 26 blocks of the cluster holding this one score mean +0.837 against the Rafizi reference with sd 0.038, and low spread is the tool's own criterion for a single voice. The runner-up is Haziq at +0.619, a gap of 0.218. ep62 is a 3h55m FELDA expose in which Rafizi reads through a white paper page by page, so one speaker legitimately holds 219.1 of 234.5 minutes. Blocks were already re-cut once with reattribute_blocks --threshold=0.55 (53 -> 184 turns, surfacing Haziq and Farhan), so this 20-minute block is what survives a re-cut, not an un-attempted collapse. Pushing the threshold to 0.45 is the wrong trade: on ep58 it took the top cluster to 77% but shattered the co-host across three clusters and made him unnameable."
+    }
   }
 }
