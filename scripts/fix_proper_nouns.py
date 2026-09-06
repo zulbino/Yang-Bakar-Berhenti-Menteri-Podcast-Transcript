@@ -270,7 +270,7 @@ CORRECTIONS = [
      "ep61 interview-en.md x1. The English translation rendered the act's shortform as the "
      "concept it performs -- vesting water assets to PAAB is a real WSIA mechanism, so this "
      "is not nonsense, it just deletes the instrument the speaker named. Anchored on the "
-     "whole phrase: `vesting` alone appears throughout the corpus, and `\w* vesting` even "
+     "whole phrase: `vesting` alone appears throughout the corpus, and a `w* vesting` "
      "matches inside `investing`. `through vesting` occurs exactly once."),
     (r"[Ww]asiah(?![A-Za-z])", "WASIA",
      "OWNER-CONFIRMED, ep61 x8 -- 5 lowercase, 3 capitalised, spread over the two turns of "
