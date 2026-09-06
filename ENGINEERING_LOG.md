@@ -2243,6 +2243,17 @@ cleanly: 149.6 min at 0.961 against Rafizi, 20.9 min at 0.943 Haziq against 0.66
 Two short clusters -- 1.2 min averaging 5s turns, and 18 seconds -- the tool itself calls
 unresolvable, and they stay `Speaker ?`.
 
+**And on ep62 that recovery step crashed outright.** `reattribute_blocks.py` read
+`roster_size(ep_dir)` unconditionally, which opens `interview.md` -- a file a raw-only
+episode does not have. So the command this entry prescribes could not run in exactly the
+situation it is prescribed for: a fresh episode whose blocks collapsed, before any
+published file exists. It worked on ep61 only because ep61 had already been through the
+full pipeline. `n_spk` is used only by the `num_speakers` mode, so it is now read only when
+no `--threshold` is given, with a message naming `--threshold=0.55` when the roster is
+missing. Checked while fixing it: the pyannote call already did
+`kwargs = {} if threshold else {"num_speakers": n_speakers}`, so nothing was silently
+passing both modes -- the count was computed needlessly and then crashed.
+
 Worth noting for the next episode: at threshold 0.55 the re-cut had ALREADY been tried
 against the looped raw and its guard refused to write, because non-dominant speech would
 have fallen from 30.8 to 20.7 minutes. The same threshold on the same audio then worked

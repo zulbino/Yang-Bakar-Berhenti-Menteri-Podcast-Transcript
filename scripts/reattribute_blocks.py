@@ -296,7 +296,18 @@ def main():
     fm = raw_text.split("---")[1]
     video_id = re.search(r"video_id:\s*(\S+)", fm).group(1)
     duration = int(re.search(r"duration_seconds:\s*(\d+)", fm).group(1))
-    n_spk = roster_size(ep_dir)
+    # Only the num_speakers mode needs the roster, and the roster lives in interview.md.
+    # Reading it unconditionally made this crash on a raw-only episode -- exactly the case
+    # the runbook sends here, since a fresh episode's collapsed blocks are the reason to
+    # re-cut and its published files do not exist yet. ep62 hit this: 53 blocks over 3h55m,
+    # and the prescribed --threshold=0.55 could not run.
+    n_spk = None
+    if threshold is None:
+        if not (ep_dir / "interview.md").exists():
+            raise SystemExit(
+                f"{ep_dir.name} has no interview.md, so there is no roster to size "
+                f"num_speakers from. Pass --threshold=0.55 instead, which does not need one.")
+        n_spk = roster_size(ep_dir)
 
     audio_file = ROOT / "audio" / f"{video_id}.m4a"
     if not audio_file.exists():
@@ -306,7 +317,8 @@ def main():
 
     import lib_local_asr, soundfile as sf
     mode = f"clustering.threshold={threshold}" if threshold else f"num_speakers={n_spk}"
-    print(f"{ep_tag}: {duration/60:.0f} min, roster says {n_spk} speakers, {mode}", flush=True)
+    roster_note = f"roster says {n_spk} speakers" if n_spk else "no roster needed"
+    print(f"{ep_tag}: {duration/60:.0f} min, {roster_note}, {mode}", flush=True)
     wav = lib_local_asr._decode_to_wav(audio_file)
     try:
         audio, sr = sf.read(str(wav), dtype="float32")
