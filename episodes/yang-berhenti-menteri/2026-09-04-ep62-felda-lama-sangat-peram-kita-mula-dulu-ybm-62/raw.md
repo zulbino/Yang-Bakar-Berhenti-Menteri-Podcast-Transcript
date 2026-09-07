@@ -353,9 +353,9 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [3:53:24] Rafizi: Baiklah, I think okay, ada lagi lah, there's a series of, tapi kita dah lambat sangat kan, there's a series of, apa nama ni, There's a series of issues yang berkaitan KL Vertical City. Tapi yang itu tak apalah. I think kalau kita habis ni 5 jam lah kan. So kita nak berhenti kat situ lah.
 
-[3:53:46] Haziq: Kita ada berapa jam? Kita 3 jam 50 minit. 4 jam kau
+[3:53:46] Haziq: Kita ada berapa jam? Kita 3 jam 50 minit.
 
-[3:53:50] Farhan (Pa'an): gila kau. So kalau kita start, kita kena start.
+[3:53:48] Rafizi: 4 jam kau gila kau. So kalau kita start, kita kena start.
 
 [3:53:51] Farhan (Pa'an): Longest episode.
 
