@@ -465,6 +465,81 @@ into one undifferentiated block, caught immediately by `qa_check.py`'s wall-of-t
 check, not silently shipped, but a reminder that block-splitting logic needs the exact
 same separator on the way back out as the way in.
 
+## MAI-Transcribe-2 via Azure: an evaluation path, and its two undocumented limits
+
+Not part of the pipeline. `scripts/transcribe_mai.py` and `scripts/reconcile_mai_speakers.py`
+transcribe an episode with Microsoft's MAI-Transcribe-2 into `data/_mai_<video_id>/`, for
+comparison against the local ASR. Nothing writes to `episodes/`.
+
+    python scripts/transcribe_mai.py <video_id> --dry-run        # request, chunk plan, cost
+    python scripts/transcribe_mai.py <video_id> --extra-phrase FELDA
+    python scripts/reconcile_mai_speakers.py <video_id> --matrix
+
+Credentials are `AZURE_SPEECH_KEY` and `AZURE_SPEECH_ENDPOINT`, both User-scope environment
+variables that the script also reads from the registry, because a fresh shell does not
+inherit them. **The endpoint is not the host the portal shows on its Foundry tab.** That tab
+gives `https://<resource>.services.ai.azure.com`, which serves Agents and model inference;
+the Speech REST API needs `https://<resource>.cognitiveservices.azure.com`. Only six regions
+carry the model (`centralindia eastus northeurope southeastasia westus westus2`) and a
+resource elsewhere fails rather than falling back.
+
+**Limit 1: diarization dies above roughly 30 minutes.** Laddered on ep62 audio:
+
+| audio | size | result |
+| --- | --- | --- |
+| 10 min | 4.8 MB | HTTP 200, 149 phrases, 2 speakers |
+| 30 min | 14.4 MB | HTTP 200, 406 phrases, 2 speakers |
+| 60 min | 28.8 MB | HTTP 503 `diarization_unavailable` |
+
+The error names its own cause, and it is the diarization sub-service rather than the
+transcription. Published ceilings are under 5 hours and 300-500 MB, so the 3h55m 113 MB file
+was inside every documented limit. Chunks are therefore 30 minutes.
+
+**Limit 2: leading silence makes a long request return HTTP 500.** ep62 opens with 43
+seconds of digital silence, exact zeros, and every request starting there failed
+deterministically -- 0-1200s, 0-1790s, 0-1800s, 0-1810s, stream-copied and re-encoded alike
+-- while 15-1800s and 30-1800s returned 200 and 0-600s returned 200. Prepending 45 seconds
+of silence to a clip that returns 200 makes that same clip return 500, which is the proof
+rather than the correlation. So `cut_chunks()` starts each chunk at its first sound less one
+second of run-up, measured with `silencedetect`, and adds the trim back onto the offsets. The
+opaque 500 on the full file was this, not the 503 above: two different limits, two different
+errors, neither documented.
+
+**Chunking costs speaker continuity, and that is what the second script is for.** MAI numbers
+speakers per REQUEST, so chunk 3's `speaker 0` is not chunk 0's, and a chunked run refuses to
+write `raw.md`. `reconcile_mai_speakers.py` embeds each chunk's clusters from their own speech
+spans, groups them across chunks by cosine similarity (single-link, and two clusters of one
+chunk never merge), then names each group against the same cast voiceprints
+`verify_speaker_voiceprint.py` uses. Groups that come back with the same name are joined
+afterwards, which is needed: MAI split Rafizi into two clusters inside ep62's chunk 6, so his
+207 minutes arrived as two groups scoring 0.962 and 0.939 against his reference.
+
+Two guards were recalibrated for this granularity, both against measurements rather than
+taste. The distinct-speaker floor is now applied PER CHUNK, since a union across eight chunks
+hides a single chunk's collapse. The duplicate-text share now counts only turns of 20
+characters or more, and a separate check refuses more than 4 identical turns in a row: ep62's
+MAI output repeats short backchannels constantly -- 322 turns of "Hmm.", 93 of "Mm." -- which
+is 34% of all turns, 0.0% of turns over 20 characters, and no repeated text over 80
+characters at all. The loop this guard exists for, ep61's Gemini raw, was long text.
+
+What ep62 measured, MAI against the same audio's local-ASR `raw.md`:
+
+| | local ASR | MAI chunked |
+| --- | --- | --- |
+| blocks | 184 | 1,613 |
+| mean gap between stamps | 76.8s | 8.7s |
+| longest gap | 1,259s | 271s |
+| words | 26,206 | 29,810 |
+| coverage per 5-min window | no holes | no holes |
+| Rafizi share of words | 93.4% | 90.7% |
+
+The 93% one-label share is therefore not a diarizer collapse: two independent engines
+measure it. `Grand Plaza Kensington`, `FIC London Hotel` and `Koperasi Permodalan FELDA`
+survive as bias phrases, the last of which the local ASR never produced at all. One
+disagreement is open: `Farhan (Pa'an)` holds 279 words in the local raw and 94 in MAI's,
+where his group is 18 seconds of audio scoring 0.804. That needs the video, not another
+score. Nothing has been adopted into `episodes/`.
+
 ## Known limitations
 
 - **Turn-level attribution is not solved, and it is the largest open defect.** 341

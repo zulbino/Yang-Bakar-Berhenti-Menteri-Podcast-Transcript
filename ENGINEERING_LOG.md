@@ -2460,6 +2460,83 @@ episode and at least 4 times in all 68, and **ep61's 13 is the second-thinnest i
 corpus**, so 83% was reached close to the worst case. That is evidence about the seed, not
 about the score. Nothing gets rewritten from this until a second passage agrees.
 
+### 1.44: Chunking MAI-Transcribe-2, and the 500 that turned out to be silence
+
+Chunking was the known task: diarization 503s above roughly 30 minutes (1.43's successor
+entry in ARCHITECTURE.md has the ladder), so a 3h55m episode needs eight requests, and
+`transcribe_mai.py` now cuts them, stitches the phrases with each chunk's start added back
+onto every phrase and word offset, and refuses to write `raw.md` because MAI numbers speakers
+per request.
+
+**The unplanned part.** Chunk 0 came back `HTTP 500 InternalServerError` with a GUID for a
+detail, and kept coming back that way. What separated signal from noise was that a
+neighbouring chunk succeeded on its first try:
+
+| request | result |
+| --- | --- |
+| 0-1800s, stream copy | 500, three times |
+| 0-1800s, re-encoded | 500 |
+| 1800-3600s | 200, 311 phrases |
+| 600-2400s (the previous session's clip) | 200, 379 phrases |
+
+The re-encode failing killed the container theory: different bytes, same audio, same error.
+So the previous session's known-good 30-minute clip was located inside the source by
+correlating energy envelopes, and it starts at 600s, not 0 -- the 0-1800s range had never
+been tested. Laddering from zero then gave the shape:
+
+| request | result |
+| --- | --- |
+| 0-60s, 0-300s, 0-600s | 200 |
+| 0-1200s | 500 |
+| 5-1800s | 500 |
+| 15-1800s, 30-1800s | 200 |
+
+The first 43 seconds of ep62 are digital silence, exact zeros, with the first word at 00:44.
+The proof, rather than the pattern: prepend 45 seconds of silence to the clip that returns
+200 and that same clip returns 500. So a long request whose audio opens with silence fails,
+and both of this service's real limits are undocumented and have unrelated error codes -- 503
+`diarization_unavailable` for length, an opaque 500 for leading silence. The fix is one
+`silencedetect` call per chunk: start at the first sound less a second of run-up, add the trim
+back onto the offsets. Also added: each chunk's response is saved and reused, so a run that
+dies on chunk 6 does not re-buy chunks 0 to 5.
+
+**Then the repo's own guard fired on healthy output.** The stitched result was 1,669 turns
+with a 34% duplicate share, which the transcriber refused to write as an ep61-shaped
+degeneration loop. It was not. Measured: 322 turns of "Hmm.", 93 of "Mm.", 29 of "Ha.", and
+duplicate share by length floor 34.4% over all turns, **0.0% over turns of 20 characters or
+more**, with not one repeated text over 80 characters. The guard was written for coarse
+blocks, where a repeat means a loop; at one phrase per 4.6 seconds a repeat mostly means
+someone said "Hmm." So it now counts only turns of 20 characters or more, and a second check
+refuses more than 4 identical turns in a row -- measured at 2 in MAI's ep62 and 1 in every
+current `raw.md`, so a filler loop like ep56's still trips it.
+
+**Speaker reconciliation, and what MAI's own diarizer got wrong.** 20 clusters over 8 chunks,
+embedded from real speech spans (MAI gives every phrase a duration, so a span does not run to the
+next block and does not bleed into the neighbour) and grouped by cosine similarity with one
+constraint: two clusters of the same chunk never merge, because MAI already ruled they are
+different people. That constraint is what exposed the flaw. Rafizi arrived as two groups
+scoring 0.962 and 0.939 against his reference, and they could not be joined by similarity
+because chunk 6 contains a cluster from each -- MAI split him in two inside one request. So
+groups are named first and joined by name afterwards.
+
+Final: Rafizi 207.2 min at 0.962, Haziq 11.4 min at 0.965, Farhan 0.3 min at 0.804, and 49
+turns of "Hmm."/"Yeah." (305 chars of 172,201) left as `Speaker ?` because every turn in
+their cluster is under the 2 seconds the embedder needs. A cluster id in `raw.md` would be
+worse than an admitted unknown; nine episodes already shipped diarizer ids that way.
+
+**What the comparison says, and what it does not.** Against the same audio's local-ASR
+`raw.md`: 1,613 blocks against 184, mean stamp gap 8.7s against 76.8s, longest gap 271s
+against 1,259s, 29,810 words against 26,206, and no empty 5-minute window either way.
+Rafizi's share of words is 90.7% against 93.4%, so **ep62's 93% single label is a real
+property of the episode and not a collapse** -- two independent engines measure it. The
+FELDA bias terms survive, including `Koperasi Permodalan FELDA`, which the local ASR never
+produced. The open disagreement is `Farhan (Pa'an)`: 279 words locally, 94 in MAI, on 18
+seconds of scored audio. That is a question for the video.
+
+Nothing was adopted. ep62's `raw.md` carries this week's filler fixes and voiceprint naming,
+and replacing it wholesale would discard them for a granularity win the owner has not asked
+for.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider
