@@ -294,8 +294,10 @@ def main():
     body = ["# Raw Transcript", ""]
     for t in turns:
         label = t["speaker"] if t["speaker"] is not None else "Speaker ?"
+        # MAI numbers speakers from 0; this corpus numbers from 1, and every checker and
+        # relabel command in the repo is written against "Speaker 1" upward.
         if str(label).isdigit():
-            label = f"Speaker {label}"
+            label = f"Speaker {int(label) + 1}"
         body.append(f"{stamp(t['offset_ms'])} {label}: {t['text']}")
         body.append("")
 
