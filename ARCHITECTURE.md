@@ -535,10 +535,28 @@ What ep62 measured, MAI against the same audio's local-ASR `raw.md`:
 
 The 93% one-label share is therefore not a diarizer collapse: two independent engines
 measure it. `Grand Plaza Kensington`, `FIC London Hotel` and `Koperasi Permodalan FELDA`
-survive as bias phrases, the last of which the local ASR never produced at all. One
-disagreement is open: `Farhan (Pa'an)` holds 279 words in the local raw and 94 in MAI's,
-where his group is 18 seconds of audio scoring 0.804. That needs the video, not another
-score. Nothing has been adopted into `episodes/`.
+survive as bias phrases, the last of which the local ASR never produced at all.
+
+**MAI loses the third host, and the video says so.** `Farhan (Pa'an)` holds 279 words in the
+local raw and 94 in MAI's. `frames_at.py` was run on ten regions where the two disagree, with
+the three faces first fixed from turns both engines agree on -- Rafizi in black with a
+tablet, Haziq in a light blue shirt with a laptop, Farhan in a black "97" hoodie. Eight of
+the ten show Farhan on camera mid-speech in a single close shot, so the local raw is right
+and MAI folded those words into Rafizi or Haziq: 0:11:48, 1:00:12, 2:27:17, 2:50:13, 3:12:26,
+3:37:39, 3:53:51 and 3:54:15. One goes the other way: 3:53:48 "4 jam kau gila kau" is
+Rafizi, which MAI got and the local raw split mid-sentence between Haziq and Farhan. The
+last, the one-line 3:27:09 interjection, is unresolved -- the camera holds Rafizi through his
+own surrounding turn and never cuts, so no frame in the window carries evidence.
+
+The mechanism is visible in MAI's own output. Its chunk-6 cluster `c6s2` holds 22.5 minutes
+and contains both Rafizi's reading and Farhan's question at 3:12:26, which is why chunk 6
+produced two clusters that both scored as Rafizi (0.962 and 0.939) -- one of them is
+contaminated, and a high voiceprint score on a 22-minute cluster cannot see a 15-second
+passenger. So MAI's finer granularity is not uniform: `[3:11:35]` is a single 1,000-word turn
+with three people's speech in it. What MAI does add is Farhan's backchannels, which the local
+raw mostly drops.
+
+Nothing has been adopted into `episodes/`.
 
 ## Known limitations
 

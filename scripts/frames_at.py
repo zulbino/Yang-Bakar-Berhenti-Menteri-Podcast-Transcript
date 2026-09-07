@@ -76,8 +76,12 @@ def video_id(tag):
     if len(hits) > 1:
         opts = ", ".join(f"{tag}:{'bakar' if 'bakar' in h else 'berhenti'}" for h in hits)
         sys.exit(f"{tag} matches {len(hits)} episodes; disambiguate: {opts}")
-    text = (Path(hits[0]) / "interview.md").read_text(encoding="utf-8")
-    return re.search(r"video_id:\s*(\S+)", text).group(1)
+    # raw.md as the fallback: a freshly transcribed episode has no published file yet, and
+    # ep62 is exactly the case where the video is needed -- its Farhan attribution is
+    # disputed between two engines and it has nothing but raw.md.
+    source = next(p for p in (Path(hits[0]) / "interview.md", Path(hits[0]) / "raw.md")
+                  if p.exists())
+    return re.search(r"video_id:\s*(\S+)", source.read_text(encoding="utf-8")).group(1)
 
 
 def fetch(vid, t0, t1):

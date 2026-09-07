@@ -2537,6 +2537,47 @@ Nothing was adopted. ep62's `raw.md` carries this week's filler fixes and voicep
 and replacing it wholesale would discard them for a granularity win the owner has not asked
 for.
 
+### 1.45: Reading the camera on ep62's Farhan disagreement, and what it says about MAI
+
+1.44 left one thing open: `Farhan (Pa'an)` holds 279 words in ep62's local-ASR raw and 94 in
+MAI's, and no similarity score settles which is right. The camera does, because this show
+cuts to whoever is talking (1.35).
+
+**Fix the faces before reading any frame.** Three people, and two of them are men in dark
+clothes at similar desks, so the identification came from turns where BOTH engines already
+agree: 0:06:16 is Haziq by both, 0:02:11 is Rafizi by both, 3:44:52 and 1:27:26 are Farhan by
+both. That gives Rafizi in black with a tablet and a white mug, Haziq in a light blue shirt
+with a laptop, and Farhan in a black "97" hoodie against a plain wall. `frames_at.py` needed
+one change to run at all: it read `video_id` out of `interview.md`, and ep62 has nothing but
+`raw.md`, which is precisely the state an episode is in when the video is most needed.
+
+**Ten disputed regions, and the split is not even.** Eight show Farhan on camera mid-speech
+in a single close shot, so the local raw is right and MAI folded his words into Rafizi or
+Haziq: 0:11:48 (23 words), 1:00:12 (8), 2:27:17 (40), 2:50:13 (41), 3:12:26 (30), 3:37:39
+(19), 3:53:51 ("Longest episode.") and 3:54:15 (12). One goes the other way: at 3:53:48 the
+shot is Rafizi, so "4 jam kau gila kau. So kalau kita start, kita kena start." is his, and
+the local raw had split that sentence mid-phrase between Haziq ("...4 jam kau") and Farhan
+("gila kau..."), which is a block boundary cutting a sentence rather than a speaker judgment.
+The tenth, 3:27:09's one-line interjection, stays unresolved: the camera holds Rafizi through
+his own surrounding turn and never cuts, so nothing in that window is evidence either way.
+Row 1 of
+`frames_ep62_farhan_b.png` is the clearest single frame in the set: Haziq at 0:11:50, then
+the cut to Farhan at 0:11:51 who is still speaking at 0:11:54.
+
+**The mechanism is in MAI's own clusters, not in the reconciler.** At phrase level, Farhan's
+3:12:26 question carries MAI's `speaker 2` for chunk 6 -- the same cluster that holds 22.5
+minutes of Rafizi. That is why chunk 6 produced two clusters both scoring as Rafizi, 0.962
+and 0.939: one of them is contaminated, and a voiceprint mean over 22 minutes cannot see a
+15-second passenger. `[3:11:35]` in MAI's raw is therefore a single 1,000-word turn holding
+three people. So MAI's granularity win is real on average and not uniform, and the thing it
+genuinely adds for Farhan is his backchannels, which the local pipeline drops.
+
+**What this changes.** ep62's local `raw.md` keeps its Farhan attribution, which was correct
+in 8 of the 10 places the two engines fought over. One turn of it is now known to be wrong
+(3:53:48-50, Rafizi's sentence split across two labels) and one stays open. A corpus-wide MAI swap would
+have moved 175 words of Farhan onto the wrong host in this episode alone. Any adoption has to
+be per episode and has to keep the local labels where the local labels win.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider
