@@ -14,6 +14,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
+  - check_timestamp_drift.py flagged timestamp mistiming (max drift 398s, 10/12 caption samples matched)
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2
 
 ## Clean episodes

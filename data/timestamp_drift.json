@@ -3153,5 +3153,66 @@
       }
     ],
     "raw_sha": "6dd2fd6d144d"
+  },
+  "2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62": {
+    "status": "ok",
+    "samples_matched": 10,
+    "samples_not_found_nearby": 2,
+    "samples_total": 12,
+    "max_drift_seconds": 398,
+    "flagged": true,
+    "details": [
+      {
+        "claimed": 44,
+        "actual": 45,
+        "drift": 1
+      },
+      {
+        "claimed": 327,
+        "actual": 315,
+        "drift": -12
+      },
+      {
+        "claimed": 708,
+        "actual": 696,
+        "drift": -12
+      },
+      {
+        "claimed": 1308,
+        "actual": 1289,
+        "drift": -19
+      },
+      {
+        "claimed": 3615,
+        "actual": 3604,
+        "drift": -11
+      },
+      {
+        "claimed": 5262,
+        "actual": 5247,
+        "drift": -15
+      },
+      {
+        "claimed": 7189,
+        "actual": 7587,
+        "drift": 398
+      },
+      {
+        "claimed": 11289,
+        "actual": 11273,
+        "drift": -16
+      },
+      {
+        "claimed": 12430,
+        "actual": 12408,
+        "drift": -22
+      },
+      {
+        "claimed": 12873,
+        "actual": 12895,
+        "drift": 22
+      }
+    ],
+    "raw_sha": "afe85c0ea228"
   }
 }
