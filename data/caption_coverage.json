@@ -614,5 +614,16 @@
     "longest_low_run_seconds": 60,
     "flagged": false,
     "raw_sha": "6dd2fd6d144d"
+  },
+  "2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62": {
+    "status": "ok",
+    "baseline": 0.224,
+    "mean_coverage": 0.227,
+    "caption_end": 14098,
+    "dead_runs": [],
+    "worst_dead_run_seconds": 0,
+    "longest_low_run_seconds": 0,
+    "flagged": false,
+    "raw_sha": "7f0811756676"
   }
 }

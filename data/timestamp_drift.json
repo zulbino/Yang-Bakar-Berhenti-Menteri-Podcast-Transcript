@@ -3159,8 +3159,8 @@
     "samples_matched": 10,
     "samples_not_found_nearby": 2,
     "samples_total": 12,
-    "max_drift_seconds": 398,
-    "flagged": true,
+    "max_drift_seconds": 20,
+    "flagged": false,
     "details": [
       {
         "claimed": 44,
@@ -3168,24 +3168,24 @@
         "drift": 1
       },
       {
-        "claimed": 327,
+        "claimed": 328,
         "actual": 315,
-        "drift": -12
+        "drift": -13
       },
       {
-        "claimed": 708,
+        "claimed": 710,
         "actual": 696,
-        "drift": -12
+        "drift": -14
       },
       {
-        "claimed": 1308,
+        "claimed": 1297,
         "actual": 1289,
-        "drift": -19
+        "drift": -8
       },
       {
-        "claimed": 3615,
+        "claimed": 3614,
         "actual": 3604,
-        "drift": -11
+        "drift": -10
       },
       {
         "claimed": 5262,
@@ -3193,26 +3193,26 @@
         "drift": -15
       },
       {
-        "claimed": 7189,
+        "claimed": 7598,
         "actual": 7587,
-        "drift": 398
+        "drift": -11
       },
       {
-        "claimed": 11289,
+        "claimed": 11288,
         "actual": 11273,
-        "drift": -16
+        "drift": -15
       },
       {
-        "claimed": 12430,
+        "claimed": 12426,
         "actual": 12408,
-        "drift": -22
+        "drift": -18
       },
       {
-        "claimed": 12873,
+        "claimed": 12915,
         "actual": 12895,
-        "drift": 22
+        "drift": -20
       }
     ],
-    "raw_sha": "afe85c0ea228"
+    "raw_sha": "7f0811756676"
   }
 }

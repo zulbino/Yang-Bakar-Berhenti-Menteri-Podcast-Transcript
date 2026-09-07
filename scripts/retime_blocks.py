@@ -63,6 +63,9 @@ def parse_args():
     ap.add_argument("tag")
     ap.add_argument("--write", action="store_true", help="apply; otherwise dry run")
     ap.add_argument("--min-score", type=int, default=MIN_ANCHOR_SCORE)
+    ap.add_argument("--align", help="alignment json; defaults to data/_<tag>_align.json. Use "
+                                    "data/_<tag>_align_mai.json for MAI word anchors, which "
+                                    "carry none of the caption track's 15s window bias")
     return ap.parse_args()
 
 
@@ -125,7 +128,7 @@ def main():
     manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
     ep = resolve_tag(manifest, a.tag)
     raw_path = ROOT / "episodes" / episode_path(ep) / "raw.md"
-    align_path = ROOT / "data" / f"_{a.tag}_align.json"
+    align_path = Path(a.align) if a.align else ROOT / "data" / f"_{a.tag}_align.json"
     if not align_path.exists():
         raise SystemExit(f"no alignment for {a.tag}: run "
                          f"`python scripts/align_blocks.py {a.tag}` first")
@@ -159,8 +162,18 @@ def main():
                          f"carrying the result. Improve the captions or the match first.")
 
     new = retime(blocks, anchors)
-    if any(b <= x for x, b in zip(new, new[1:])):
-        raise SystemExit("refusing: output timestamps are not strictly increasing")
+    # Time may never run backwards. It MAY stand still: two turns inside one second is
+    # ordinary at this granularity, and ep62's raw.md carries 7 such ties before any
+    # retiming, so demanding a strict increase refused an episode on a property of its own
+    # input. What must not happen is interpolation collapsing a stretch of blocks onto one
+    # second, so the output is also refused if it has more ties than it started with.
+    if any(b < x for x, b in zip(new, new[1:])):
+        raise SystemExit("refusing: output timestamps run backwards")
+    ties = sum(1 for x, b in zip(new, new[1:]) if b == x)
+    was_tied = sum(1 for x, b in zip([s for s, _ in blocks], [s for s, _ in blocks][1:]) if b == x)
+    if ties > was_tied:
+        raise SystemExit(f"refusing: {ties} blocks share a second with their neighbour, up "
+                         f"from {was_tied} before -- interpolation is collapsing blocks")
     duration = ep.get("duration_seconds")
     if duration and new[-1] > duration + 60:
         raise SystemExit(f"refusing: last timestamp {new[-1]}s overruns the "
@@ -185,7 +198,9 @@ def main():
         print("\n-- dry run, not written; pass --write to apply --")
         return
     note = fm.get("note", "")
-    stamp = (f"Timestamps retimed against YouTube caption timing by retime_blocks.py "
+    source = ("MAI-Transcribe-2 word offsets" if "align_mai" in align_path.name
+              else "YouTube caption timing")
+    stamp = (f"Timestamps retimed against {source} by retime_blocks.py "
              f"({len(anchors)} anchors, worst move {moves[0][0]}s); transcript text "
              f"unchanged.")
     fm["note"] = f"{note} {stamp}".strip() if note else stamp
