@@ -2572,6 +2572,15 @@ and 0.939: one of them is contaminated, and a voiceprint mean over 22 minutes ca
 three people. So MAI's granularity win is real on average and not uniform, and the thing it
 genuinely adds for Farhan is his backchannels, which the local pipeline drops.
 
+**Two more of MAI's labels checked, both wrong (added after the retime of 1.46).** The
+mid-sentence-continuation detector nominated 20 blocks where MAI's label differs from the
+local raw's. The two largest were read from the video: `[0:16:10]` (185 words) and
+`[0:18:02]` (374 words), both Rafizi locally and Haziq in MAI. Twenty frames across four
+sampled moments -- 0:16:18-22, 0:16:48-52, 0:18:18-22, 0:19:28-32 -- show Rafizi alone in
+close shot, mouth open, and never show Haziq. Both stay as they are. MAI's label record on
+this episode is now wrong 10 times out of 12 wherever it was checked against the camera, so
+the remaining 11 nominations are treated as suspects against MAI, not against raw.md.
+
 **What this changes.** ep62's local `raw.md` keeps its Farhan attribution, which was correct
 in 8 of the 10 places the two engines fought over. One turn of it is now known to be wrong
 (3:53:48-50, Rafizi's sentence split across two labels) and one stays open. A corpus-wide MAI swap would
