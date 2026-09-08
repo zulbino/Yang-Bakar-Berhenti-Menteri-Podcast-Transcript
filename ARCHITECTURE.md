@@ -558,6 +558,41 @@ raw mostly drops.
 
 Nothing has been adopted into `episodes/`.
 
+## Writing the interview files from segments
+
+Not yet the shipping path. The rewrite stage still rewrites a whole episode in one pass, and
+this is the replacement being measured.
+
+    python scripts/merge_mai_local_labels.py ep62 --write
+    python scripts/segment_episode.py ep62 --raw data/_mai_<id>/raw_merged.md --out data/_ep62_segments.json
+    python scripts/rewrite_bakeoff.py data/_ep62_segments.json 10 26 27
+
+**Why segments.** Every cheap model rejected for the rewrite stage failed on length, not on
+comprehension: Haiku dropped about half a translation, a local Sailor2 truncated 32% and
+invented a claim, Gemini finished 73-82%. At about 1,200 words none of that appears, and a
+segment that fails its gate can be retried alone instead of re-running three hours of text.
+Boundaries come from the show's own chapter marks in the YouTube description, with long
+chapters re-cut at turn boundaries; ep62 gives 29 segments.
+
+**Why a merged transcript.** MAI-Transcribe-2 beats the local ASR on text, turn granularity
+and timing, and loses the third host: `Farhan (Pa'an)` gets 94 words from MAI against 279
+from the local ASR, and the camera backs the local ASR 8 times out of 10.
+`merge_mai_local_labels.py` keeps MAI's words and transplants Farhan's label where the local
+raw's words match, matching on words rather than time spans and anchoring the video-verified
+regions on a phrase rather than a timestamp.
+
+**What the bake-off found.** `gemini-flash-lite-latest` kept every figure and all the Malay
+on all three segments in 6 seconds each; Sonnet kept 17 of 24 figures on one of them, because
+it polishes hardest and polishing is what drops a repeated number; `gemini-3.5-flash` lost
+figures on two of three; OpenRouter's free `nemotron-3.5-lightning` translated the Malay into
+English wholesale (density 0.05), kept 2 figures of 24 and dropped a speaker. Read
+ENGINEERING_LOG 1.48 before choosing, because the trade-off is not "flash-lite wins" -- it is
+nearly a verbatim copy, so it passes a completeness gate by editing very little.
+
+**Azure Foundry cannot serve text models on the Speech key alone.** It returns
+`DeploymentNotFound` until a model is deployed in the portal, so the credit that expires
+around 2026-10-07 is unavailable to this stage until then.
+
 ## Known limitations
 
 - **Turn-level attribution is not solved, and it is the largest open defect.** 341

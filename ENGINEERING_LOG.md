@@ -2572,7 +2572,7 @@ and 0.939: one of them is contaminated, and a voiceprint mean over 22 minutes ca
 three people. So MAI's granularity win is real on average and not uniform, and the thing it
 genuinely adds for Farhan is his backchannels, which the local pipeline drops.
 
-**Two more of MAI's labels checked, both wrong (added after the retime of 1.46).** The
+**Two more of MAI's labels checked, both wrong (added after the retime of 1.47).** The
 mid-sentence-continuation detector nominated 20 blocks where MAI's label differs from the
 local raw's. The two largest were read from the video: `[0:16:10]` (185 words) and
 `[0:18:02]` (374 words), both Rafizi locally and Haziq in MAI. Twenty frames across four
@@ -2630,6 +2630,120 @@ patterns silently matched nothing — the dry run still offered the real babies.
 by re-running the dry run and noticing the count had not moved, not by reading the file,
 where the byte is invisible. Anything containing a regex now goes through a file written by
 an editor tool, never through a heredoc.
+
+### 1.47: Retiming ep62, and the caption anchors that were fifteen seconds early
+
+`check_timestamp_drift.py` had never run on ep62. When it did, it flagged 398s of drift, and
+the flag was real: measured against MAI's per-word offsets, 51 of 74 matchable blocks sat
+within 30s of their stamp and the median was +0.8s, but the stamps ran minutes early in
+stretches -- +271s and +286s around 0:51-0:52, +250s and +265s around 1:45-1:46, and +399s to
++502s from 1:59 to 2:06. No content was missing. The words were all there under stamps up to
+eight minutes early, which is the failure mode 1.42 describes: a gap in the claimed timeline
+is indistinguishable from absent speech unless you measure the audio.
+
+**The obvious fix made things worse, and only a crosscheck showed it.** `retime_blocks.py`
+anchors on caption matches. Applied straight, it fixed all 11 badly-drifted blocks and moved
+35 correctly-stamped ones from about 1s of error to about 16s. The cause is in
+`align_blocks.py`: a match returns the start of the best-matching WINDOW, and a window is
+`MATCH_WINDOW_WORDS=40`, so the answer lands up to 40 words before the words being searched
+for. Measured against MAI's word offsets, the caption anchors carried a median bias of
+**-16.0s with sd 6.6s**. That is nothing beside a 500s displacement and it is worse than
+doing nothing to a block that was already right.
+
+Two changes, then the retime:
+
+  - `align_blocks.py` now times a match at the FIRST MATCHED WORD inside the winning window
+    rather than at the window's start. This fixes the bias for the caption path too.
+  - `align_blocks.py --from-mai` anchors on MAI-Transcribe-2's word offsets and writes
+    `_<tag>_align_mai.json`, so the two alignments can be compared instead of overwriting
+    each other. The captions then stay what they have always been: the independent check.
+
+The two alignments agree within 15s on 83 of the 94 blocks both matched, median +0.0s. The 11
+that disagree wildly are false phrase-locks on short generic blocks, which is what the
+longest-increasing-subsequence filter already existed to drop.
+
+**A guard refused the episode on a property of its own input.** `retime_blocks.py` demanded
+strictly increasing timestamps, and ep62's raw.md carries 7 places where two short turns
+share a second. It now refuses on time running BACKWARDS, and separately refuses if the
+output has more ties than the input, which is what would catch interpolation collapsing a
+stretch of blocks onto one second.
+
+Retimed on 105 MAI anchors holding 94% of the body's characters, against captions' 86 and
+82%. Worst move 501s. Validated against the caption anchors, which were not used to build it:
+median error 4.0s -> 0.0s, mean 59.2s -> 2.5s, max 504s -> 19s, 13 blocks over 60s -> 0.
+`check_timestamp_drift.py` went from FLAGGED 398s to ok 20s, `verify_words_unchanged.py`
+reported 26,692 words identical, and the oversized-block waiver went dormant because the
+21-minute block was partly its neighbour's mis-stamp and the longest span is now 1031s.
+
+**One more label defect surfaced while crosschecking.** Frames at 2:09:03-07 show Rafizi
+talking, and MAI has one Rafizi turn there, while raw.md had split his sentence across two
+speakers again -- Haziq holding "tu bukan percuma. Bila you dah commit a mistake yang sebesar
+itu, kalau you nak reverse" and Rafizi continuing "pun, you nak backtrack". Haziq's actual
+contribution is one "Hmm." Fixed. A detector for blocks that open mid-sentence after a label
+change then nominated 51 candidates, MAI disagreeing with 20; the two largest were read off
+the video and both went to raw.md, so MAI's labels are wrong 10 times out of 12 wherever the
+camera has been consulted on this episode. The remaining 11 are listed and unapplied.
+
+### 1.48: Segments, a merged transcript, and the model that beat Sonnet on the thing that matters
+
+The owner read ep62's MAI transcript and judged it better than the local ASR and Gemini on
+both text and diarization, then asked two questions: write the interview files from it, and
+can a cheaper model do the writing.
+
+**The merged transcript.** MAI wins on everything except the third host, so
+`merge_mai_local_labels.py` takes MAI's words and timings and transplants `Farhan (Pa'an)`
+from the local raw where the local raw's words match. Three rules, each added because the
+version without it was wrong: match on WORDS rather than time spans (a span match handed
+Farhan a 59-word Rafizi answer that merely started a second before a Farhan block ended);
+anchor the video-verified regions on a PHRASE rather than a timestamp (1.47's retime had
+moved every block by up to eight minutes, so the stamps from the video pass landed in
+whatever block had slid under them, and one verified Farhan region became a 600-word Rafizi
+block whose vocabulary dragged a dozen turns across); and require a turn to contain a word
+that is not a vocalisation ("Hmm." scores 1.00 against any block containing a "hmm"). 14
+turns move, Farhan goes from 94 to 253 words. What it cannot reach is 7 MAI turns of 200+
+words where MAI's own diarization collapsed -- `[3:11:35]` is 604 words holding Rafizi,
+Farhan's question and Haziq's backchannels -- and those need the turn cut, not relabelled.
+
+**Segments come from the show's own chapter marks.** `segment_episode.py` reads the YouTube
+description, so the topic boundaries are the publisher's. That is not sufficient on its own:
+ep62's FELDA chapter is 26,730 of the episode's 30,000 words, because the show marks one
+chapter and then talks for three hours. Long chapters are re-cut at turn boundaries,
+preferring a speaker change so a segment never opens mid-answer. ep62 becomes 29 segments
+averaging about 1,028 words.
+
+**The bake-off, and why three segments rather than one.** Same prompt, same confirmed-name
+list, four models. Measured on length, Malay function-word density, figures preserved, and
+speaker labels -- the four things that have actually gone wrong here.
+
+| segment | claude-sonnet-5 | gemini-3.5-flash | gemini-flash-lite | nemotron:free |
+| --- | --- | --- | --- | --- |
+| 26 figures | 24/24 | 20/24 | 24/24 | - |
+| 10 figures | 17/24 | 13/24 | 24/24 | 2/24 |
+| 27 figures | 17/20 | 18/20 | 20/20 | - |
+| Malay, worst | 0.81 | 0.56 | 1.00 | 0.05 |
+| seconds | 43-115 | 26-36 | 5.5-6.2 | 101 |
+
+**A single segment would have chosen the wrong model.** On segment 26 Sonnet kept every
+figure and looked like the obvious answer; on segment 10 it kept 17 of 24 while a model an
+eighth of its size kept all 24 on all three. Sonnet polishes hardest, and polishing is
+exactly what drops a number out of a passage where the same figure is read three times.
+`gemini-flash-lite-latest` is nearly a verbatim copy -- it left "jolo sendirilah" where
+Sonnet tidied to "jolok sendiri lah" -- so it passes a completeness gate by editing very
+little, which is a real trade-off rather than a free win.
+
+**The free arm failed in the way this corpus cannot tolerate.** OpenRouter's
+`nemotron-3.5-lightning:free` returned 1.40x the length with a Malay ratio of **0.05**: it
+translated code-switched speech into English wholesale, kept 2 figures of 24, and dropped
+`Farhan (Pa'an)` as a speaker entirely. A length check alone would have called it complete.
+That is why the Malay-density measure exists.
+
+**Provider notes, all of which cost a failed call to learn.** The `claude` CLI takes its
+prompt on stdin, not argv. `gemini-2.0-flash` and `gemini-2.5-flash` now 404 for this key
+while `gemini-3.5-flash` and `gemini-flash-lite-latest` work. OpenRouter's free slugs move;
+deepseek's free variant is gone. NVIDIA's `llama-3.3-70b` is retired. **Azure Foundry text
+models need a deployment created in the portal** -- the Speech key alone returns
+`DeploymentNotFound` -- so the $200 credit cannot be spent on rewrites until someone deploys
+a model there, and it expires around 2026-10-07.
 
 ## Rewrite, translate and metadata stage
 
