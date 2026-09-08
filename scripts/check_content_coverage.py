@@ -50,14 +50,65 @@ def to_seconds(stamp):
     return sum(v * 60 ** i for i, v in enumerate(reversed(parts)))
 
 
+CUE_START_RE = re.compile(r"^(\d{2}):(\d{2}):(\d{2})\.\d{3}\s+-->", re.M)
+SPEAKER_MARK_RE = re.compile(r"&gt;&gt;|>>")
+
+
+def parse_caption_words(text):
+    """(seconds, word) for every caption word in a YouTube auto-caption track.
+
+    THE BUG THIS REPLACES. The old version matched only words wrapped in
+    `<HH:MM:SS.mmm><c>word</c>`, which is every word in a cue EXCEPT the first -- YouTube
+    puts no inline timestamp before a cue's opening word. On ep62 that silently dropped
+    5,142 of 28,509 caption words, 18% of the track. Because it dropped them uniformly, the
+    whole-file word ratio came out at a consistent 1.11-1.12 for every episode in the
+    corpus, and that consistency read as evidence the measure was sound. It was measuring
+    the parser. ep62's real ratio is 0.92: the local ASR produces FEWER words than the
+    caption track, not 12% more.
+
+    Two further details the old regex missed. `&gt;&gt;` is YouTube's speaker-change
+    marker, not speech, and counting it as a word adds about 5%. And a cue carrying no
+    inline timings is usually the settled repeat of the cue before it, so its words are
+    deduplicated against what has already been emitted rather than counted twice -- but
+    only the repeated prefix, because short interjections arrive as plain cues that carry
+    real content and nothing else records them.
+    """
+    out, tail = [], []
+    for cue in text.split("\n\n"):
+        start_match = CUE_START_RE.search(cue)
+        if not start_match:
+            continue
+        start = to_seconds(":".join(start_match.group(1, 2, 3)))
+        body = [line for line in cue.split("\n") if "-->" not in line and line.strip()]
+        if not body:
+            continue
+        line = body[-1]
+        stamped = []
+        for h, m, s, chunk in CAPTION_WORD_RE.findall(line):
+            stamped += [(to_seconds(f"{h}:{m}:{s}"), w) for w in chunk.split()]
+        if stamped:
+            head = SPEAKER_MARK_RE.sub(" ", line.split("<", 1)[0]).split()
+            cue_words = [(start, w) for w in head] + stamped
+        else:
+            plain = SPEAKER_MARK_RE.sub(" ", re.sub(r"<[^>]+>", "", line)).split()
+            cue_words = [(start, w) for w in plain]
+        words_only = [w for _, w in cue_words]
+        overlap = 0
+        for size in range(min(len(words_only), len(tail)), 0, -1):
+            if tail[-size:] == words_only[:size]:
+                overlap = size
+                break
+        out.extend(cue_words[overlap:])
+        tail = [w for _, w in out[-40:]]
+    return out
+
+
 def caption_words(video_id):
     """Per-word timings from the ms-orig track, falling back to ms then en."""
     for lang in ("ms-orig", "ms", "en"):
         path = AUDIO_DIR / f"{video_id}.{lang}.vtt"
         if path.exists():
-            text = path.read_text(encoding="utf-8")
-            words = [(to_seconds(f"{h}:{m}:{s}"), w.strip())
-                     for h, m, s, w in CAPTION_WORD_RE.findall(text)]
+            words = parse_caption_words(path.read_text(encoding="utf-8"))
             if words:
                 return words, lang
     return [], None

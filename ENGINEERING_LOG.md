@@ -2925,6 +2925,70 @@ timestamps, and code-switching degrades every multilingual model. Everything els
 produced was product comparison.
 
 
+### 1.52: The caption yardstick was short by 18%, and it read as a clean result
+
+Measuring MAI-Transcribe-2 against the local ASR on ep62 needed an independent reference, and
+the only one available is YouTube's caption track. Building that comparison found a defect in
+the checker that has been using the same track since 1.24.
+
+`caption_words` matched a single pattern, `<HH:MM:SS.mmm><c>word</c>`. YouTube puts an inline
+timestamp before every word in a cue **except the first**, so the opening word of each cue was
+never counted. On ep62 that dropped **5,142 of 28,510 words, 18% of the track**. Two smaller
+errors sat underneath it: `&gt;&gt;`, YouTube's speaker-change marker, was being read as a
+word by a second parser written for this comparison, worth about 5% the other way; and cues
+carrying no inline timings are usually the settled repeat of the cue before them, so their
+words need deduplicating against what has already been emitted -- but only the repeated
+prefix, because short interjections arrive as plain cues and nothing else records them.
+
+**The bug hid behind its own consistency.** Because the undercount is uniform, every episode's
+whole-file word ratio landed between 1.11 and 1.15, and the floor sat at exactly 1.11. That
+looked like a corpus property. 1.24 read it as one, and recorded that the model "emitted 26%
+more words than YouTube's caption ASR" and that "every clean episode in this corpus sits near
+1.1x". Both statements were measuring the parser.
+
+Corpus-wide, before and after: median ratio 1.15 to 0.94, minimum 1.11 to 0.89, and **47 of 53
+episodes now sit below 1.00**. The local ASR does not produce more words than the caption
+track. It produces about 8% fewer. ep62 goes from 1.12 to 0.92.
+
+**Window-level coverage flagging is unaffected, and that was worth confirming rather than
+assuming.** A uniform undercount cancels in a relative check, so the empty-window test reads
+zero flags before and zero after across all 53 episodes. Only the ratio metric was wrong.
+
+The two parsers now agree at 28,510 and 28,509 words on ep62, written independently against
+different requirements. That agreement is the check; a single parser rewritten by the same
+person on the same day would only have reproduced its own assumptions.
+
+### 1.53: What MAI and the local ASR actually cost in lost words
+
+With a trustworthy reference, `asr_disagreement.py` scores both engines against the same
+caption track through the same Malay normalizer, so spelling convention is not counted as
+error. This is a disagreement rate and not a word error rate -- the captions carry their own
+mistakes -- but both engines are judged on identical terms.
+
+| Engine | tokens | disagree | sub | ins | del |
+|---|---|---|---|---|---|
+| Whisper large-v3, local | 27,074 | 20.2% | 8.2% | 2.3% | **9.8%** |
+| MAI-Transcribe-2 | 30,574 | **14.4%** | 7.4% | 5.8% | **1.3%** |
+
+**Substitutions are nearly equal; deletions differ by a factor of eight.** The two engines hear
+individual words about as well as each other. They differ on whether the words reach the file.
+The local engine is missing 2,856 words of content against an independent transcription of the
+same audio, and MAI 369. That is 1.51's published finding -- Whisper large-v3 at 20.52% WER on
+Malaysian podcast audio, driven by deletion -- reproduced on this corpus with local data.
+
+MAI's higher insertion rate is partly a virtue rather than a defect: it transcribes
+backchannels that both the captions and the local engine drop, and 527 of its ep62 turns are a
+single vocalisation. That accounts for some of the 5.8%, not all of it.
+
+Neither file is pristine engine output -- both carry proper-noun corrections, and the local one
+has had six degenerated filler runs collapsed, which removed spurious words and so flatters its
+insertion column. The deletion gap is far too large to be explained by either.
+
+Still missing: a number for MAI on the same yardstick as the published leaderboard. That needs
+the Revolab public split, which is gated to an authorized list. Adding MAI to their harness is
+a `BaseASRModel` subclass, roughly 40 lines. Tracked in `MODEL_LANDSCAPE.md`.
+
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider
