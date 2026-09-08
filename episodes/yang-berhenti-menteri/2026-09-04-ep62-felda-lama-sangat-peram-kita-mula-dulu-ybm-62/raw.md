@@ -123,7 +123,11 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [36:21] Haziq: susu galuh semualah So apa
 
-[36:24] Rafizi: lagi kita nak tahu Sebelum kita mula menelak Ha Saya rasa dah clear lah bahawa PM lah yang... Ya, engkau ni nakal. Kerja engkau nak hit politically je. Tapi sebelum kita mulakan ni, saya ingat penting jugalah... Mungkin keluarga Felda dia maklumlah kan tentang apa itu Felda, apa bisnes modelnya, kenapa Felda itu wujud kan. Tapi saya ingat kalau yang bukan Melayu ataupun generasi muda ni banyaknya tak tahu pun Felda ni apa. Jadi... Ferdani ialah... antara rancangan
+[36:24] Rafizi: lagi kita nak tahu Sebelum kita mula menelak Ha
+
+[36:27] Haziq: Saya rasa dah clear lah bahawa PM lah yang...
+
+[36:31] Rafizi: Ya, engkau ni nakal. Kerja engkau nak hit politically je. Tapi sebelum kita mulakan ni, saya ingat penting jugalah... Mungkin keluarga Felda dia maklumlah kan tentang apa itu Felda, apa bisnes modelnya, kenapa Felda itu wujud kan. Tapi saya ingat kalau yang bukan Melayu ataupun generasi muda ni banyaknya tak tahu pun Felda ni apa. Jadi... Ferdani ialah... antara rancangan
 
 [37:07] Haziq: tanah terbesar di dunia lah tau. Dan
 
@@ -201,7 +205,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [2:05:58] Rafizi: tak sampai ke part-part juisi lagi. Ya, betul. Kita masih pasal perumahan Kita masih
 
-[2:06:07] Haziq: pasal perumahan Kemudian seterusnya... Tak apalah. Jadi pada bila aku bising sangat semua makin teruk ni, akhirnya Tan Sri Issa Samad pun dipecatlah dan digantikan dengan... Tan Sri Syarif Samad. Cuma yang dia tak beritahu masa ni ialah walaupun pengusir Felda tu dah ditukar Tan Sri Syarif Samad masih lagi ada dalam banyak anak-anak syarikat. Betul-betul.
+[2:06:07] Rafizi: pasal perumahan Kemudian seterusnya... Tak apalah. Jadi pada bila aku bising sangat semua makin teruk ni, akhirnya Tan Sri Issa Samad pun dipecatlah dan digantikan dengan... Tan Sri Syarif Samad. Cuma yang dia tak beritahu masa ni ialah walaupun pengusir Felda tu dah ditukar Tan Sri Syarif Samad masih lagi ada dalam banyak anak-anak syarikat. Betul-betul.
 
 [2:06:38] Rafizi: So menjelang Januari 2017 berlaku pertukaran kepimpinan Felda saya pun alu-alukan lah Tan Sri Syarif Samad kan dan I was hoping that sebenarnya sebab dia pun ada reputasi Yang straight Dia tidak Reputasi dia sebelum itu Tidak tergolong Di kalangan Mambu jambu Hocus-pocus Amno Tapi Seperti biasa Aku dikecewakan Sebab Dia beza banyak Issa Samad ni Tan Sri Issa Samad ni Masa aku duduk bising Semua ni Style dia Dia tak jawab satu apa pun So Mungkin sebab itu Dia kena tukar So ganti dengan Syarif Ahmad. Tansi Syarif Ahmad menjawab lah. Hentam aku lah. So, lagi banyak lah. Tapi aku kesian kat Syarif Ahmad lah. Yang kau pergi jadi Pak Sanggup tu kenapa? Dan pasal kau nak apa nama ni kan? Kemudian, 10 Januari 2017. So, ini antara reaksi awal Tan Sri Syahri Samad lah. Rancangan dia untuk menyelamatkan Felda. So, ni front page berita harian ni. Misi Syahri akan beri nafas baru kepada organisasi. Kembalikan peranan asal Felda. Atasi masalah beban hutang peneroka. Projek perumahan jasa kedua. Tumpu aspek sosial semua. jika keluarkan FGV daripada Bursa Saham. Tapi masa ni, tak ada seorang pun daripada UMNO cakap, Dato' Sri Najib, you telah menghancurkan Felda. Haa Because by then Indirectly Memang itulah yang Syarif Samad pun mengaku lah Sebenarnya it was a big mistake Dan dia telah menghancurkan Felda Penyerayan 2013 kan Tapi yelah dia tak macam Kita dalam parti lama dulu lah Kalau tak setuju cakap atas batang hidung Tak setuju lagi keluar buat parti baru kan Dia tak ada Dia masih lagi bosku Bosku kan Jadi Saya pun jawab lah Eh! Okey lah kalau itu nak dibuat tapi benda
 
