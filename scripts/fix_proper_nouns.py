@@ -27,6 +27,74 @@ ROOT = Path(__file__).resolve().parent.parent
 # (regex, replacement, why). Longest/most-specific first, so a broader pattern cannot
 # eat a more specific one's match.
 CORRECTIONS = [
+    (r"YMDB(?![A-Za-z])",
+     "1MDB",
+     "OWNER-supplied. 34 occurrences across 14 episodes (ep05 ep18 ep26 ep29 ep31 ep39 "
+     "ep42 ep44 ep47 ep48 ep50 ep52 ep58 ep62) against 889 correct 1MDB in the same "
+     "corpus. The ASR hears the spoken 'one-em-dee-bee' as one word. Every one of the 34 "
+     "was read before this entry was written and every one is the scandal -- Najib, SRC, "
+     "The Edge, the vote of no confidence, 'zaman Najib dengan YMDB dulu'. ep44's rewrite "
+     "even tried to expand the garble into a gloss, '[Yang Maha Di Bicara?]', which is "
+     "what an unfixed garble costs downstream. Not a majority-vote normalisation: YMDB is "
+     "not an entity, and the contexts name the one that is."),
+    (r"IMDB(?![A-Za-z])",
+     "1MDB",
+     "ep35, once: 'masa saya melalui perkara seperti IMDB dahulu'. Same acronym, a "
+     "different mishearing, and not the film database."),
+    (r"Peter Sonda(?:k|h|r|l|ng|)(?![A-Za-z])",
+     "Peter Sondakh",
+     "OWNER-directed acronym/name pass on ep62. Tan Sri Peter Sondakh, the Indonesian "
+     "owner of Rajawali who sold FGV and then FELDA the Eagle High Plantations stake and "
+     "who owns the St. Regis Langkawi. The corpus spells him SIX ways -- Sondakh 3, "
+     "Sondah 7, Sonda 6, Sondar 4, Sondak 2, Sondal 1 -- and only ep26's three published "
+     "files have it right. Confirmed against Rafizi's own blog, which scores 1.00 on two "
+     "2017-03 posts naming 'Tan Sri Peter Sondakh, pemilik PT Rajawali'. "
+     "ANCHORED ON THE FULL NAME on purpose: a bare Sondal -> Sondakh would rewrite a Malay "
+     "vulgarity, and the one occurrence here is 'Peter Sondal lah', the name plus a "
+     "particle. The alternation deliberately cannot match the already-correct Sondakh."),
+    (r"Raja Wali(?![A-Za-z])",
+     "Rajawali",
+     "ep62, 3 times, all the Indonesian conglomerate: 'PT Raja Wali milik Tan Sri Peter "
+     "Sondakh' and 'kumpulan Raja Wali'. One word, per the blog slug pt-rajawali and "
+     "FGV's own filings."),
+    (r"Raisin Sky(?![A-Za-z])",
+     "Brazen Sky",
+     "ep62, once. Brazen Sky Ltd is 1MDB's BVI vehicle that held US$1.1bn in fund units at "
+     "BSI Singapore; Rafizi names it as the example of 1MDB at least using invented names "
+     "rather than copying a real subsidiary's. MAI-Transcribe-2 heard it correctly on the "
+     "same audio, which is the second source."),
+    (r"SCBRE(?![A-Za-z])",
+     "CBRE",
+     "ep62, once, the property valuer whose report sits in the Grand Plaza prospectus. "
+     "MAI writes CBRE 4 times on the same audio."),
+    (r"(?:GAFCO|Gafco|Gavco)(?![A-Za-z])",
+     "GovCo",
+     "ep62, twice: 'satu SPV syarikat khas kerajaan yang dipanggil Gavco' and 'pinjaman "
+     "2.3 bilion daripada Gavco Holdings Berhad, syarikat di bawah Menteri Kewangan'. "
+     "THREE spellings between two engines on the same audio -- the local ASR writes Gavco "
+     "and Gafco, MAI-Transcribe-2 writes GAFCO -- which is itself the evidence that none of "
+     "them is the real name. "
+     "GovCo Holdings Bhd is the Ministry of Finance subsidiary that lent FELDA's FIC "
+     "Properties RM2.5bn for the Eagle High purchase, still owed RM2.77bn on a 20-year "
+     "Tawarruq running to 2043. The transcript states the lender's own description, so "
+     "this is the same entity spelled by ear."),
+    (r"Eagle Hypertension(?![A-Za-z])",
+     "Eagle High Plantations",
+     "PT Eagle High Plantations Tbk, the Rajawali company FGV agreed to buy 37% of in 2015 "
+     "and FELDA bought in 2017. Rafizi wrote two 2016-12 posts on it. No occurrence in "
+     "episodes/ today -- this is here for the MAI transcripts, where it appears, and so "
+     "that bias_phrases() feeds the right name to the next MAI run. NOTE: plain 'Eagle "
+     "Plantations' is NOT corrected, because Rafizi's own blog uses that short form."),
+    (r"pembinaan sinergi Selangkawi(?![A-Za-z])",
+     "pembinaan St. Regis Langkawi",
+     "ep62, once, in Haziq reading the audit finding on bad debts. The project is the St. "
+     "Regis Langkawi hotel, which MAI writes 14 times on the same audio and which Rafizi's "
+     "2017-03 post ties to Peter Sondakh and the RM305m of public money behind it."),
+    (r"antarabangsa Selangkawi(?![A-Za-z])",
+     "antarabangsa Langkawi",
+     "ep62, once, the second half of the same sentence: the Langkawi International "
+     "Convention Centre, LICC, named in the same blog post. Anchored to the two words "
+     "rather than to Selangkawi alone so the two halves get their own right answers."),
     (r"Baitul Magdis(?![A-Za-z])",
      "Baitul Maqdis",
      "ep61, once. Jerusalem / the Al-Aqsa precinct, used throughout the episode as the "

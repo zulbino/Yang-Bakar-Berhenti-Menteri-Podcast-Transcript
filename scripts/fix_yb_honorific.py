@@ -31,6 +31,11 @@ from pathlib import Path
 GARBLES = ["baby", "WB", "obi", "ovi", "oibi", "ubi", "waibi", "abby", "abie", "bibi",
            "yobi", "bobby", "wabi"]
 
+# UNRESOLVED, deliberately neither fixed nor added to KEEP: ep24 interview.md reads
+# "Adik-adik ada cuba proksi obi sendiri ke?" where interview-ms.md has "proksi sendiri"
+# and raw.md has neither, so the word entered at the rewrite and nothing in the repo
+# settles it. A corpus-wide run will offer it; check the audio before accepting.
+
 # Anchored spans that must survive untouched. Checked before any substitution runs.
 KEEP = [
     r"\bubi\s+keledek\b",            # sweet potato, ep07
@@ -41,6 +46,11 @@ KEEP = [
     r"\bbaby\s+umur\b",              # ep24, real baby in a longevity argument
     r"\b20-year-old\s+baby\b",       # ep24 interview-en, same passage
     r"\bbaby\s+kawan\b",             # ep40, genuinely ambiguous -- left for a human
+    r"\bfriend's\s+baby\b",         # ep40 interview-en, the SAME sentence in English.
+                                     # The Malay above is deliberately left alone, so its
+                                     # translation has to be as well.
+    r"\bdeliver\s+our\s+baby\b",    # ep21 interview-en, a real birth: "my wife was
+                                     # still in hospital about to deliver our baby"
 ]
 
 TOKEN = re.compile(r"\b(" + "|".join(GARBLES) + r")\b", re.I)
