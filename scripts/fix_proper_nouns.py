@@ -27,6 +27,17 @@ ROOT = Path(__file__).resolve().parent.parent
 # (regex, replacement, why). Longest/most-specific first, so a broader pattern cannot
 # eat a more specific one's match.
 CORRECTIONS = [
+    (r"Sesemah(?![A-Za-z])",
+     "Selsema",
+     "OWNER-supplied, ep62 MAI transcript. The common cold. The passage is Haziq two weeks "
+     "ill -- 'Dua minggu demam tau' / 'Lamanya demam?' / 'Selsema. Tak tahu kenapa.' / "
+     "'Sebab air con lama?' / 'Jerebu.' -- so the word is the illness, not a name. NOTE: "
+     "Dewan Bahasa's standard spelling is 'selesema' and 'selsema' is the colloquial form; "
+     "the owner asked for selsema, which is also what is spoken. Change both entries "
+     "together if the house ever prefers the DBP form."),
+    (r"sesemah(?![A-Za-z])",
+     "selsema",
+     "Lower-case half of the entry above, for mid-sentence occurrences."),
     (r"YMDB(?![A-Za-z])",
      "1MDB",
      "OWNER-supplied. 34 occurrences across 14 episodes (ep05 ep18 ep26 ep29 ep31 ep39 "
