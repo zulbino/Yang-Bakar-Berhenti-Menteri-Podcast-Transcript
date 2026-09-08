@@ -2836,6 +2836,95 @@ than shorter: `split_turns` prefers to cut where the speaker changes, and 527 fe
 means 527 fewer chances to find one.
 
 
+### 1.51: What the research says this pipeline has been getting wrong
+
+A five-thread research pass on 2026-09-08 -- diarization, Malay models, LLM cleanup, video
+speaker detection, and a corpus of 20 recent YouTube talks -- against the question of what a
+citable transcript needs. Full consolidation lives in the `transcript-pipeline` skill. What
+follows is only the part that contradicts something this repo currently does.
+
+**The local ASR is at about 20% word error on this exact material, and we never knew.**
+Revolab publishes the only Malaysian ASR benchmark with a podcast category -- casual register,
+code-switching, multiple speakers. Whisper large-v3 scores **20.52** there, fifth from bottom
+of fourteen systems. ElevenLabs Scribe v2 is 4.77, ILMU v4.2 is 4.03. The gap between that and
+Whisper's 7.9% on FLEURS is the whole problem with FLEURS: it is read news prose with no
+code-switching, and it overstates real Malay by roughly 2.5x. **MAI-Transcribe-2 is absent from
+every Malay benchmark that exists**, so the engine ep62 was transcribed with has no published
+Malay number at all. The harness is MIT and adding a backend is about forty lines.
+
+**Two habits here are backed better than they looked, and one is backed worse.** Cutting turns
+at caption word gaps has no academic name, but it is how the DIHARD and VoxConverse *ground
+truth* annotations were built, at a 200-250 ms threshold. The two-ended voice axis is
+nearest-class-mean classification, and the reason a single voiceprint plus a threshold provably
+could not work is now stateable in one line: argmax needs relative ordering, a threshold needs
+absolute separation. Against that, **the 0.4s pause threshold is not defensible from the
+turn-taking literature** -- in ordinary conversation 70-82% of between-speaker intervals are
+under 500 ms and about 40% are overlaps with no silence at all, so that threshold fires more
+often inside a turn than at a boundary. It works here because a formal interview is a different
+regime, which means it has to be justified by measurement on this corpus and nothing else.
+
+**Better boundaries alone do not buy better attribution.** In the closest published system,
+turn-derived segmentation scored 10.08 against a uniform-segmentation baseline of 7.76, and
+only won at 5.33 once must-link/cannot-link constraints were propagated through the affinity
+graph. Our 16/16 boundary recall is the front half of a method whose back half we have not
+built.
+
+**The rewrite stage is built on the wrong primitive.** Silent translation, dropped figures and
+invented labels are consequences of free-form regeneration, not of weak prompting, and the
+literature has bounded them since 2019 by making the model emit *edits* over the source rather
+than new text. Over an API the equivalent guarantee is a JSON edit list where every `find`
+string must be a literal substring of the source. Constraining speaker labels to a closed enum
+makes an invented label impossible rather than detectable. Two independent YouTube channels
+observe the same thing from the outside: general LLMs rewrite transcripts when asked to clean
+them.
+
+Three measured rates make this concrete for Malay specifically. On human-annotated
+Malay-English dialogues, models drop the Malay content 48-95% of the time, shift meaning
+through translation 11-90%, and misattribute a speaker 3-76%. Those are our three defects, with
+frequencies. The same work found similarity metrics stay high while the content is wrong, which
+is why `check_figures.py` counting digits was the right instinct and an NLI faithfulness score
+would not have been. It also found translate-then-process gives **no** benefit for
+Malay-English, unlike Mandarin-English -- so that idea is closed.
+
+**The video check was running near-blind.** Multimodal video input samples at 1 frame per
+second by default, and the vendor docs warn that motion detail is lost at that rate. Judging
+lip-sync from fourteen stills is the worst case for that default, and it explains the five
+"unclear" verdicts and the wrong read at 2:06:07 that two acoustic sources overturned. The fix
+is setting the sampling rate and resolution tier explicitly, and passing precomputed shot
+boundaries and word timings instead of asking the model to derive them.
+
+**Sailor2's 32% truncation was never a quality problem.** Its config sets
+`max_position_embeddings: 4096`. Check the context length before diagnosing a truncation as a
+capability limit.
+
+**The Malay wordlist question has a right answer and a harmful wrong one.** MALINDO_Morph
+(CC BY 4.0, one 16 MB file, no install) rejects `sesemah` and accepts `selsema`. The common
+hunspell ms_MY dictionary is derived from an Indonesian affix file and lacks the correct
+Malaysian `selesema` entirely, so it would flag the right word as the error. DBP's PRPM forbids
+reuse and also rejects `selsema`, `korang` and `camtu`. Measured over eight of this repo's own
+`raw.md` files -- 92,725 tokens -- MALINDO plus a colloquial allow-list plus clitic stripping
+brings out-of-vocabulary down to 3.2% of types and 1.39% of tokens, which is a reviewable
+queue. Clitic stripping alone removed 61 of 251 flags, because `subsidilah` and `malaysialah`
+are productive forms. Edit-distance clustering of what survives collapsed six spellings --
+`equinas`, `equinaz`, `equina`, `ikuinas`, `ikuinat`, `ikuina` -- into one garbled proper noun,
+Ekuinas. That is the `Grand Consington` class of defect, found automatically.
+
+**Two name authorities beat everything we use now.** SPR's open data publishes 9,918
+candidacies carrying the ballot-paper spelling, which is the legally gazetted form of a
+politician's name. Digital Hansard exposes undocumented but fully open JSON over 4,086 sittings
+back to 1959, and searching it for `Grand Plaza Kensington` returns three hits -- independent
+confirmation of the ep62 correction that Rafizi's blog produced, from a source whose archive
+does not stop in 2022.
+
+One methodological note about the YouTube half. Ranking the search results by view count
+surfaced "Best AI Note Takers" and a workflow-automation video; the audience for a diarization
+talk is small, so views measure reach, not relevance. Re-ranked on topic, twenty videos yielded
+95 claims, and the strongest were the three that independently agreed with the papers: VAD
+prevents hallucination and looping, multimodal transcription lacks reliable sentence-level
+timestamps, and code-switching degrades every multilingual model. Everything else the corpus
+produced was product comparison.
+
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider
