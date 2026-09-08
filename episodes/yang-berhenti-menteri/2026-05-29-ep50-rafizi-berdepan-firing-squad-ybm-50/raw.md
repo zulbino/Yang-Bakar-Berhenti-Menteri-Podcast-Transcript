@@ -148,7 +148,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [35:45] Wan Afiq: tweet Dekat Twitter dia Bersama Rafizi Ramli Lama
 
-[35:49] Rafizi: punya Yang itu biasa orang fikir Apa nama ni Asal boleh tonggang Untuk dapat engagement Perasaan dalam hati tu Belakang kira Asalkan apa yang kita boleh post Dekat Twitter Dekat X Dekat Facebook tu Kalau yang itu Kalau mood masa itu Gelombang masa itu Sebab saya ingat diorang ni Masa saya-saya duk kena tangkap dulu lah Kan Tangkap YMDB So masa itu ada gelombang Jadi siapa yang tweet Siapa yang itu Memang kira senang dapat engagement lah Dalam hati tu belakang kira
+[35:49] Rafizi: punya Yang itu biasa orang fikir Apa nama ni Asal boleh tonggang Untuk dapat engagement Perasaan dalam hati tu Belakang kira Asalkan apa yang kita boleh post Dekat Twitter Dekat X Dekat Facebook tu Kalau yang itu Kalau mood masa itu Gelombang masa itu Sebab saya ingat diorang ni Masa saya-saya duk kena tangkap dulu lah Kan Tangkap 1MDB So masa itu ada gelombang Jadi siapa yang tweet Siapa yang itu Memang kira senang dapat engagement lah Dalam hati tu belakang kira
 
 [36:27] Wan Afiq: Faham Ok kepada penonton di luar sana Tolong share live ni dalam group Makcik ke dalam group... kerja ke nak duk sekolah tolong share sebab kita dah nak pergi kepada sesi Q&A yang sangat dinanti-nanti
 
