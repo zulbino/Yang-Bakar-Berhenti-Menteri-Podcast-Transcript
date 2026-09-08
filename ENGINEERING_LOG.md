@@ -2587,6 +2587,50 @@ in 8 of the 10 places the two engines fought over. One turn of it is now known t
 have moved 175 words of Farhan onto the wrong host in this episode alone. Any adoption has to
 be per episode and has to keep the local labels where the local labels win.
 
+### 1.46: An acronym pass, and the two fixes that would have broken real text
+
+Owner-directed after reading ep62's MAI transcript: "YMDB is actually 1MDB, and baby is YB".
+Both were true, and the scan around them found more. 74 corrections across 19 files, each
+one checked against a source outside this repo before it entered `fix_proper_nouns.py`.
+
+| garble | correct | count | what settled it |
+| --- | --- | --- | --- |
+| YMDB | 1MDB | 34 in 14 episodes | corpus already writes 1MDB 889 times; all 34 contexts read |
+| IMDB | 1MDB | 1 | ep35, "perkara seperti IMDB dahulu" |
+| Peter Sonda{h,r,k,l} | Peter Sondakh | 21 | Rafizi's blog, 1.00 on two 2017-03 posts |
+| Raja Wali | Rajawali | 3 | same blog posts, "pemilik PT Rajawali" |
+| Gavco / Gafco / GAFCO | GovCo | 3 | GovCo Holdings Bhd, the MoF lender |
+| Raisin Sky | Brazen Sky | 1 | 1MDB's BVI vehicle at BSI Singapore |
+| SCBRE | CBRE | 1 | the valuer in the Grand Plaza prospectus |
+| sinergi Selangkawi | St. Regis Langkawi | 2 | blog post on the hotel and the LICC |
+| baby | YB | 8 | `fix_yb_honorific.py`, which already knew this garble |
+
+**The `baby` one had already been fixed, and came back.** `fix_yb_honorific.py` has carried
+"baby" in its garble list since the YB pass, and its own header says a corpus-wide text fix
+does not survive a later re-transcription of one episode. ep62 was transcribed after that
+pass, so the garble is there and nowhere else. Run it after any raw.md regeneration.
+
+**One candidate failed its check and was not applied.** ep26's "Eagle Plantations" looked
+like a garble of Eagle High Plantations. Rafizi's own blog slug uses that short form, so it
+stays, and the map records why so nobody re-raises it. That is the case for checking the
+blog rather than reasoning from the corpus: the corpus cannot tell a short form from a
+mishearing.
+
+**Two guards added, because a corpus-wide run would have damaged real text.** The dry run
+offered three non-ep62 substitutions. Two were real: ep21's "my wife was still in hospital
+about to deliver our baby", and ep40's "a friend's baby", which is the English side of a
+sentence whose Malay the KEEP list already protects as ambiguous — the guard existed on one
+side of a translation pair and not the other. Both are now in KEEP. The third, ep24's
+"proksi obi sendiri", is left alone and documented: `interview-ms.md` has "proksi sendiri",
+`raw.md` has neither, so the word entered at the rewrite and nothing in the repo settles it.
+
+**The backspace trap caught this session too.** Writing `\b` into a script through a shell
+heredoc produced a literal backspace byte, exactly as 1.42 records, and the two new KEEP
+patterns silently matched nothing — the dry run still offered the real babies. It was caught
+by re-running the dry run and noticing the count had not moved, not by reading the file,
+where the byte is invisible. Anything containing a regex now goes through a file written by
+an editor tool, never through a heredoc.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider
