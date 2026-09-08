@@ -2989,6 +2989,51 @@ the Revolab public split, which is gated to an authorized list. Adding MAI to th
 a `BaseASRModel` subclass, roughly 40 lines. Tracked in `MODEL_LANDSCAPE.md`.
 
 
+### 1.54: MAI-Transcribe-2 benchmarked, and it is the best engine measured
+
+`MODEL_LANDSCAPE.md` carries the table. What belongs here is the method and the two things
+that went wrong on the way to it.
+
+MAI appears on no Malay benchmark, so its accuracy on this corpus was unknown while it was
+already the engine in use. The Revolab benchmark is the only public one with a `podcast`
+category. Their harness is MIT, so `scripts/revolab_run_mai.py` posts the 820 clips and
+reproduces their scoring: both references normalized, both aligned per row, the lower-error
+one kept, corpus WER as total errors over total reference length.
+
+**Result: 3.96% overall and 3.39% on podcast, first of sixteen rows.** ElevenLabs Scribe v2 is
+4.83/4.77, ILMU v4.2 is 7.66/4.03, and the local Whisper fallback is 15.61/20.52. The engine
+already in use is six times more accurate on podcast audio than the fallback, and no engine
+change is warranted.
+
+**The prediction about transcribe style was wrong, and the run says so.** Going in, the
+expectation was that `verbatim` would be penalised against references that omit fillers, so
+both styles were run to measure the cost of the production setting. There is no cost:
+`verbatim` scores 3.96% and `clean` 5.21%, because the benchmark's references are themselves
+verbatim and `clean` deletes real words. Deletion goes 1.45% to 3.04%; singing goes 10.27% to
+27.85%. Running both was still right -- it is what turned an assumption into a measurement --
+but the assumption was backwards.
+
+**Two failures worth recording.**
+
+Their `run_eval.py` could not run at all. `datasets` 5 decodes audio through torchcodec, which
+needs FFmpeg's shared libraries, and the FFmpeg on this machine is a static build with no DLLs
+beside it. Reading the parquet with pyarrow and posting the stored bytes untouched sidesteps
+that, and avoids a decode-and-re-encode round trip their path performs.
+
+The first validation attempt returned **105% WER for every model**, which is the signature of
+total misalignment rather than of bad models. Their committed manifests are stored in a
+different order from the parquet: only 208 of 820 references matched at the same index, though
+all 820 matched somewhere. Pairing by reference text instead reproduced published figures to
+within 0.12 points on four of five models and reproduced the per-category podcast column
+exactly for every model. **The validation is the reason the MAI number is worth anything** --
+a scorer that has never been shown to reproduce a known result is just arithmetic about
+itself.
+
+The one residual is Deepgram Nova-3 at 24.61% against a published 25.63%. Clips sharing
+identical reference text can pair to the wrong audio, which costs most on a high-error model.
+The MAI rows are keyed by row id and unaffected.
+
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider

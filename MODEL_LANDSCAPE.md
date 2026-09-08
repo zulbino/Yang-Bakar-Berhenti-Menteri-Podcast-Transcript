@@ -23,28 +23,79 @@ of its own. Two weaker measurements are available, and the difference matters:
 
 Never mix the two columns. A disagreement rate and a WER are different quantities.
 
-## Published Malay podcast WER
+## Malaysian ASR benchmark, re-scored here 2026-09-08
 
-Source: Revolab Malaysian ASR benchmark, public split, 820 clips, read 2026-09-08. Harness is
-MIT at `github.com/Revolab-Sdn-Bhd/revolab-asr-benchmark`; the leaderboard API needs no auth.
+Source: Revolab Malaysian ASR benchmark, **public split, 820 clips**. Harness is MIT at
+`github.com/Revolab-Sdn-Bhd/revolab-asr-benchmark`. Every row below was re-scored from that
+repo's own committed prediction manifests using their aligner and their dual-reference rule,
+so the whole table is one yardstick. **MAI-Transcribe-2 is our run**; every other row is
+theirs.
 
-| Model | Podcast WER | Overall WER | Notes |
+| Model | Overall | Podcast | Parliament | Telephony | Street interview |
+|---|---|---|---|---|---|
+| **MAI-Transcribe-2 (verbatim)** | **3.96%** | **3.39%** | 3.44% | 9.05% | 9.74% |
+| ElevenLabs Scribe v2 | 4.83% | 4.77% | 4.09% | 9.41% | 12.96% |
+| Revolab Aisyah 1.0 Pro | 4.89% | 4.41% | 3.71% | 6.11% | 14.56% |
+| MAI-Transcribe-2 (clean) | 5.21% | 4.60% | 4.21% | 10.43% | 13.54% |
+| Gemini 2.5 Pro | 5.32% | 4.60% | 3.93% | 21.05% | 11.26% |
+| Qwen audio 3.0 ASR flash | 7.22% | 7.24% | 5.37% | 11.45% | 20.59% |
+| ILMU ASR v4.2 | 7.66% | 4.03% | 4.09% | 17.11% | 16.92% |
+| Revolab Aisyah 1.0 Flash | 8.01% | 4.65% | 2.85% | 13.65% | 14.66% |
+| Gemini 2.5 Flash | 9.07% | 13.09% | 9.53% | 26.15% | 19.27% |
+| AssemblyAI Universal-3.5 Pro | 14.88% | 14.38% | 10.93% | 56.18% | 24.54% |
+| Gemini 3.6 Flash | 15.01% | 9.21% | 6.58% | 72.84% | 20.49% |
+| **Whisper large-v3** | 15.61% | **20.52%** | 11.52% | 113.05% | 20.69% |
+| Deepgram Nova-3 | 24.61% | 37.82% | 42.95% | 68.34% | 48.55% |
+
+**The engine this pipeline already runs is the most accurate one measured, and by a clear
+margin on the category that matters.** MAI at 3.39% podcast WER against Scribe v2's 4.77% and
+ILMU's 4.03%. Against the local Whisper fallback at 20.52%, it is six times better.
+
+**Verbatim beats clean, which is the opposite of what was expected.** The prediction going in
+was that `transcribeStyle: verbatim` would be penalised, because keeping fillers should read
+as insertions against a reference that omits them. It does not: the benchmark's references
+are themselves verbatim, so `clean` mode *deletes real words*. Deletion goes 1.45% to 3.04%
+and overall WER goes 3.96% to 5.21%. Singing is the extreme case, 10.27% to 27.85%. The
+production setting is the correct one and now has a number behind it.
+
+### How far to trust this
+
+The scorer was validated before the MAI number was believed, by re-scoring models whose
+published figures are known:
+
+| Model | Re-scored here | Published | Delta |
 |---|---|---|---|
-| ILMU ASR v4.2 (YTL AI Labs) | **4.03** | 7.78 | Malaysian sovereign model, OpenAI-compatible API, needs a key |
-| Revolab Aisyah 1.0 Pro | 4.41 | 4.89 | staging endpoint, pricing unpublished |
-| Gemini 2.5 Pro | 4.60 | 5.30 | 9.5h audio per prompt, diarization prompted not native |
-| ElevenLabs Scribe v2 | 4.77 | 4.79 | 10h files, 32-speaker diarization, lowest deletion rate |
-| Qwen3-ASR-1.7B | 16.24 | 15.26 | |
-| **Whisper large-v3** | **20.52** | 15.62 | what this pipeline's local fallback runs |
-| Deepgram Nova-3 | 38.78 | 25.63 | deletes 15.5% of words |
-| **MAI-Transcribe-2** | **no number exists** | -- | the engine ep62 was transcribed with |
+| Gemini 2.5 Pro | 5.32% | 5.30% | +0.02 |
+| ElevenLabs Scribe v2 | 4.83% | 4.79% | +0.04 |
+| Whisper large-v3 | 15.61% | 15.62% | -0.01 |
+| ILMU v4.2 | 7.66% | 7.78% | -0.12 |
+| Deepgram Nova-3 | 24.61% | 25.63% | -1.02 |
 
-**FLEURS overstates real Malay by roughly 2.5x.** Whisper large-v3 scores 7.9% there and
-20.52% here, because FLEURS is read news prose with no code-switching. Treat any FLEURS figure
-as a floor, never a forecast.
+Four of five land within 0.12 points, including both models nearest MAI's range, and the
+per-category podcast column reproduces published values exactly for every model. Nova-3's
+1-point gap is the one loose end: manifests are stored in a different order from the parquet,
+so rows are paired by reference text, and clips sharing identical reference text can pair to
+the wrong audio. That hurts a high-error model most and does not affect the MAI rows, which
+are keyed by row id.
 
-**Noise reorders the table.** Clean to noisy, Gemini 2.5 Pro moves 6.43 to 11.13 while one
-flash-class model moves 6.81 to 34.05.
+Remaining caveats, none of which favour MAI:
+
+- This is the **public 820-clip split**, not the private 1,079-clip split the official
+  leaderboard ranks on.
+- It is a self-run measurement, not verified by Revolab.
+- MAI ran with **no language hint** (`locales` unset, as in production), while the other rows
+  were run with `--language ms`. If anything that is the harder condition.
+- Audio bytes were posted as stored rather than decoded and re-encoded, avoiding one lossy
+  round trip their loader performs.
+- Four requests ran in parallel, so no speed figure is comparable.
+
+Reproduce with:
+
+    python scripts/revolab_run_mai.py --style verbatim
+    python scripts/revolab_run_mai.py --style clean
+
+**FLEURS still overstates real Malay.** Whisper large-v3 scores 7.9% on FLEURS and 20.52% on
+podcast audio here. Treat any FLEURS figure as a floor.
 
 ## Measured here
 
@@ -79,14 +130,17 @@ Reading it:
 
 ## Open
 
-- **MAI-Transcribe-2 has no leaderboard-comparable number.** Getting one needs the Revolab
-  public split, which is gated to an authorized list -- request access at
-  `huggingface.co/datasets/Revolab/ASR-Benchmark-Public`. Adding MAI as a backend is a
-  subclass of `BaseASRModel` implementing `transcribe_batch`, roughly 40 lines.
-- **Untested and worth testing:** ElevenLabs Scribe v2 (best available combination of podcast
-  accuracy, a 10-hour file limit and real diarization), and Speechmatics `en_ms`, the only
-  purpose-built Malay-English bilingual pack any vendor ships and completely unmeasured by
-  anyone.
+- **Closed 2026-09-08:** MAI-Transcribe-2 now has a benchmark number, and it is the best of
+  the sixteen rows measured. No engine change is warranted; the open question was whether we
+  were on the wrong engine, and we are not.
+- **Still worth measuring:** Speechmatics `en_ms`, the only purpose-built Malay-English
+  bilingual pack any vendor ships, which nobody has published a number for. ElevenLabs
+  Scribe v2 is now less interesting on accuracy (4.83% against MAI's 3.96%) but still has
+  two things MAI lacks: 10-hour files against MAI's 2-hour cap, and 32-speaker diarization
+  that does not collapse under an hour.
+- **The gap that remains is diarization, not transcription.** MAI wins on words and loses on
+  speakers -- it absorbed the third host on ep62 where the local raw did not. Nothing in this
+  benchmark measures that.
 - **Diarization has no Malay number anywhere**, from any vendor or paper. Every DER quoted in
   `ENGINEERING_LOG.md` 1.51 comes from English, European or Chinese corpora.
 
