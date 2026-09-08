@@ -2789,6 +2789,53 @@ wins are all the same shape -- a sentence the local diarizer cut in half -- so t
 soften 1.45's finding, which was about MAI absorbing a third speaker into Rafizi.
 
 
+### 1.50: The owner's ear on three labels, and the backchannels that were not in raw.md
+
+The three blocks 1.49 relabelled were checked by ear: Rafizi throughout all three, no cut-in
+from the co-host at any of them. The camera read was right and nothing was reverted.
+
+**What the owner heard that the transcript does not contain.** At two of the three, the only
+thing the co-host contributes is "hmm" -- and raw.md carries no such token at either spot.
+The local ASR drops backchannels; MAI transcribes them. So a report of "Haziq says hmm here"
+is a fact about the audio that only MAI's output records, and reconciling it means editing
+MAI's side, not the local raw. Worth stating because the instinct is to go looking in the
+file the owner was shown, and the words are not there to find.
+
+**527 of MAI's 1,613 turns are one grunt each, and 426 of them are the same person's.** That
+is not a defect in a raw transcript. It is a defect in the source a rewrite reads, where a
+speaker's argument arrives as a dozen fragments separated by someone else's "Hmm." The
+earlier session had already produced a filler-stripped reading copy, `raw_clean.md`, from a
+throwaway script that no longer exists -- so the cleaning was not reproducible and the actual
+rewrite source, `raw_merged.md`, still had every one of them. `strip_filler_turns.py` makes
+it a tracked step.
+
+Three decisions in that tool, each aimed at a way this repo has been burned:
+
+- **The unit of deletion is a whole turn, never a word inside a sentence.** A turn goes only
+  when every token in it is in the lexicon. An inline `Uh,` in a real sentence stays. 1.36's
+  filler-collapse regex was correct for the instance it was written for and stripped genuine
+  interjections elsewhere in the same file; a turn with no words in it cannot have that
+  problem.
+- **The lexicon is closed and excludes every word that means something.** `Ya` x16, `Okey`
+  x11, `Yes` x4, `Betul` x3, `Yap` x3 are all one-word turns and all stay. Agreement is
+  content. The tool prints the one-word turns it KEPT so the lexicon is judged rather than
+  trusted.
+- **It counts every non-lexicon word before and after and refuses to write unless they
+  match.** 27,903 words, identical.
+
+**A guard against short segments made the longest one.** Re-segmenting the stripped file
+produced a 2,205-word piece where the cap is 1,800. Two causes, both from the same mistake of
+testing a limit after the fact rather than before it: `split_turns` folded a runt tail back
+into the previous piece without asking whether that piece had room, and it tested the hard
+cap only after appending a turn, so MAI's 618-word collapsed turn at 3:11:35 landed on a
+piece already holding 1,587. Both fixed. 27 segments, mean 1,083, max 1,601, and the 29,253
+words and 1,086 turns are conserved exactly.
+
+Removing the backchannels also removes cut points, which is why segments got longer rather
+than shorter: `split_turns` prefers to cut where the speaker changes, and 527 fewer turns
+means 527 fewer chances to find one.
+
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider

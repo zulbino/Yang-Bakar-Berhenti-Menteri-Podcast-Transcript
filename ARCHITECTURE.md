@@ -583,8 +583,18 @@ Not yet the shipping path. The rewrite stage still rewrites a whole episode in o
 this is the replacement being measured.
 
     python scripts/merge_mai_local_labels.py ep62 --write
+    python scripts/strip_filler_turns.py data/_mai_<id>/raw_merged.md --write
     python scripts/segment_episode.py ep62 --raw data/_mai_<id>/raw_merged.md --out data/_ep62_segments.json
     python scripts/rewrite_bakeoff.py data/_ep62_segments.json 10 26 27
+
+**Why the filler strip is a step and not a regex.** MAI transcribes the backchannels the
+local ASR drops, so 527 of ep62's 1,613 merged turns are one grunt each and 426 of those are
+Haziq's. They belong in a raw transcript and they are noise in a rewrite source, where they
+cut a speaker's argument into a dozen pieces. `strip_filler_turns.py` drops a turn only when
+EVERY token in it is in a closed lexicon of vocalisations, so an inline `Uh,` inside a real
+sentence is untouched and `Ya`, `Okey`, `Betul` and `Yes` survive as the answers they are. It
+counts every non-lexicon word before and after and refuses to write unless the two multisets
+match.
 
 **Why segments.** Every cheap model rejected for the rewrite stage failed on length, not on
 comprehension: Haiku dropped about half a translation, a local Sailor2 truncated 32% and

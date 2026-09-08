@@ -58,6 +58,13 @@ def split_turns(turns, title, max_words):
     for i, turn in enumerate(turns):
         words = len(turn[2].split())
         speaker_changes = i + 1 < len(turns) and turns[i + 1][1] != turn[1]
+        # Cut BEFORE a turn that would blow the cap, not after. The cap was tested only
+        # after appending, so MAI's 618-word collapsed turn at 3:11:35 landed on a piece
+        # already holding 1,587 and made one of 2,205. A piece can still exceed the cap
+        # when a single turn does, which no turn-boundary cut can help.
+        if current and count + words > max_words * 1.5:
+            pieces.append(current)
+            current, count = [], 0
         current.append(turn)
         count += words
         # cut once the piece is full AND the next turn starts a new speaker, so a segment
@@ -66,7 +73,12 @@ def split_turns(turns, title, max_words):
             pieces.append(current)
             current, count = [], 0
     if current:
-        if pieces and count < MIN_WORDS:
+        # Fold a runt tail back, but never past the hard cap. Stripping ep62's 527
+        # backchannel turns took away cut points, and an unconditional fold turned a piece
+        # already sitting at the 1.5x cap into one of 2,205 words -- the longest thing the
+        # rewrite would have been asked to handle, built by the guard against short ones.
+        folded = sum(len(t[2].split()) for t in pieces[-1]) + count if pieces else 0
+        if pieces and count < MIN_WORDS and folded <= max_words * 1.5:
             pieces[-1].extend(current)
         else:
             pieces.append(current)
