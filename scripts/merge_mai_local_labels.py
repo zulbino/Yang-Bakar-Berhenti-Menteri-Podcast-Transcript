@@ -74,6 +74,12 @@ VIDEO_CONFIRMED = {
         ("What was public's reaction", "Farhan (Pa'an)"),
         ("Longest episode", "Farhan (Pa'an)"),
         ("after your comments ni", "Farhan (Pa'an)"),
+        # Read off the video by gemini-3.8-flash, 2026-09-08. Only this one of eleven
+        # candidates is anchored. The rest are long local blocks whose head is all the clip
+        # covers, so forcing the whole block would move the other speaker's words with it;
+        # and one, 05:58, was not a disagreement at all -- the local block's stamp is 14s
+        # out, and MAI already calls that question Haziq at its own 06:12.
+        ("Minta maaf lah. Saya terpaksa sebut nama", "Rafizi"),
     ],
 }
 VERIFIED_OVERLAP = 0.35

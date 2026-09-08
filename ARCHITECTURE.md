@@ -556,7 +556,26 @@ passenger. So MAI's finer granularity is not uniform: `[3:11:35]` is a single 1,
 with three people's speech in it. What MAI does add is Farhan's backchannels, which the local
 raw mostly drops.
 
-Nothing has been adopted into `episodes/`.
+**The eleven remaining disagreements, read off the video by a model.**
+
+    python scripts/verify_speakers_video.py 0M5hweswMpE --candidates data/_ep62_todo11.json         --out data/_ep62_video_verdicts.json
+
+`verify_speakers_video.py` muxes the downloaded video with the local audio and sends a
+14-second clip per candidate to `gemini-3.8-flash`, with the same three clothing descriptions
+used above. 0:11:50 was included as a control because the frames had already been read by
+hand; it came back Farhan. Read the `seen` field and not just the verdict -- three of the
+five "unclear" answers describe a mouth that is not moving, which eliminates one of the two
+candidate speakers and settles the case.
+
+Three labels in ep62's `raw.md` changed as a result, all Haziq to Rafizi: 0:55:54, 1:50:25
+and 3:35:00. Each is a block sandwiched between two Rafizi blocks with the boundary falling
+mid-sentence, so the local diarizer had invented a boundary rather than heard a speaker
+change. The other eight were not applied. Two carry no evidence (a two-shot, and a stamp
+still out after the retime), one was not a real disagreement, and five are long blocks where
+the clip only covers the head -- 0:36:24 holds Rafizi speaking and then Haziq replying inside
+one block, which needs the turn cut and not the label changed.
+
+Beyond those three labels, nothing has been adopted into `episodes/`.
 
 ## Writing the interview files from segments
 

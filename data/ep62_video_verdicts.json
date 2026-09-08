@@ -1,0 +1,178 @@
+[
+ {
+  "at": "0:05:58",
+  "seconds": 358,
+  "span": 29,
+  "words": 28,
+  "local": "Haziq",
+  "mai": "Rafizi",
+  "head": "nak ikut apa ni? Tapi Wabi tak rasakah mungkin untuk improve",
+  "gemini": {
+   "speaker": "unclear",
+   "confidence": "medium",
+   "seen": "Rafizi is visible listening with his mouth closed while an off-camera host speaks",
+   "why": "The camera remains on Rafizi throughout the entire clip without switching to the actual speaker."
+  },
+  "agrees_with": "neither"
+ },
+ {
+  "at": "0:11:50",
+  "seconds": 710,
+  "span": 8,
+  "words": 23,
+  "local": "Farhan (Pa'an)",
+  "mai": "Rafizi",
+  "head": "lebih... Ramai-ramai orang buat komen. Dia kata kan sebelum ",
+  "gemini": {
+   "speaker": "Farhan (Pa'an)",
+   "confidence": "medium",
+   "seen": "Farhan (Pa'an) is on screen with his mouth moving in sync with the dialogue.",
+   "why": "The camera cuts to Farhan as he speaks these words into the microphone."
+  },
+  "agrees_with": "local"
+ },
+ {
+  "at": "0:27:07",
+  "seconds": 1627,
+  "span": 54,
+  "words": 115,
+  "local": "Haziq",
+  "mai": "Rafizi",
+  "head": "pun terkena. Mungkin saya ceritakan background sikit lah ken",
+  "gemini": {
+   "speaker": "unclear",
+   "confidence": "high",
+   "seen": "Rafizi is shown at first, then the camera cuts to a wide shot showing both Rafizi and Haziq as Haziq speaks",
+   "why": "The camera cuts to a shot containing two people while the main part of the line is spoken, which defaults to unclear under the instructions."
+  },
+  "agrees_with": "neither"
+ },
+ {
+  "at": "0:36:24",
+  "seconds": 2184,
+  "span": 43,
+  "words": 78,
+  "local": "Rafizi",
+  "mai": "Haziq",
+  "head": "lagi kita nak tahu Sebelum kita mula menelak Ha Saya rasa da",
+  "gemini": {
+   "speaker": "Rafizi",
+   "confidence": "medium",
+   "seen": "Rafizi is on camera with his mouth moving as he speaks the first part of the phrase, before the camera cuts to Haziq.",
+   "why": "Rafizi asks 'apa lagi kita nak tahu sebelum kita mula menelaah' while on screen before Haziq replies 'Saya rasa dah'."
+  },
+  "agrees_with": "local"
+ },
+ {
+  "at": "0:55:54",
+  "seconds": 3354,
+  "span": 40,
+  "words": 88,
+  "local": "Haziq",
+  "mai": "Rafizi",
+  "head": "perbincangan tentang macam mana nak memperkukuhkan model Fel",
+  "gemini": {
+   "speaker": "Rafizi",
+   "confidence": "high",
+   "seen": "Rafizi is on screen throughout the clip with his mouth moving in sync with the speech.",
+   "why": "Rafizi is shown speaking the phrase directly into the microphone on camera."
+  },
+  "agrees_with": "MAI"
+ },
+ {
+  "at": "1:05:18",
+  "seconds": 3918,
+  "span": 20,
+  "words": 16,
+  "local": "Haziq",
+  "mai": "Rafizi",
+  "head": "self-sustaining. Betul. Kalau tengok cat tu kan daripada RMK",
+  "gemini": {
+   "speaker": "unclear",
+   "confidence": "medium",
+   "seen": "Rafizi is on camera throughout, but does not speak the quoted phrase.",
+   "why": "The phrase is not spoken in the clip, so the speaker cannot be confirmed on camera."
+  },
+  "agrees_with": "neither"
+ },
+ {
+  "at": "1:50:25",
+  "seconds": 6625,
+  "span": 39,
+  "words": 89,
+  "local": "Haziq",
+  "mai": "Rafizi",
+  "head": "soalan lah. Macam mana Felda nak beli 2 point. Maksudnya kit",
+  "gemini": {
+   "speaker": "Rafizi",
+   "confidence": "medium",
+   "seen": "Rafizi is on camera and speaking with synchronized mouth movements.",
+   "why": "Rafizi is shown continuously delivering the line on camera."
+  },
+  "agrees_with": "MAI"
+ },
+ {
+  "at": "2:06:07",
+  "seconds": 7567,
+  "span": 31,
+  "words": 56,
+  "local": "Haziq",
+  "mai": "Rafizi",
+  "head": "pasal perumahan Kemudian seterusnya... Tak apalah. Jadi pada",
+  "gemini": {
+   "speaker": "unclear",
+   "confidence": "high",
+   "seen": "Rafizi is on camera, looking down with his hand on his face and his mouth not moving while someone else speaks off-camera.",
+   "why": "The camera remains on Rafizi throughout the clip without cutting to the person who is speaking."
+  },
+  "agrees_with": "neither"
+ },
+ {
+  "at": "2:30:18",
+  "seconds": 9018,
+  "span": 10,
+  "words": 15,
+  "local": "Rafizi",
+  "mai": "Haziq",
+  "head": "eh. Eh tak. Australia. Minta maaf lah. Saya terpaksa sebut n",
+  "gemini": {
+   "speaker": "Rafizi",
+   "confidence": "high",
+   "seen": "Rafizi is on camera and his mouth movements clearly match the dialogue starting from 'Minta maaf lah...'",
+   "why": "Rafizi corrects Haziq off-screen before the camera cuts to him speaking the rest of the sentence directly."
+  },
+  "agrees_with": "local"
+ },
+ {
+  "at": "3:35:00",
+  "seconds": 12900,
+  "span": 8,
+  "words": 14,
+  "local": "Haziq",
+  "mai": "Rafizi",
+  "head": "juta kan? Semakan Forensik mendapati bahawa tiada perjanjian",
+  "gemini": {
+   "speaker": "Rafizi",
+   "confidence": "high",
+   "seen": "Rafizi is on camera and speaking with matching lip movement throughout the clip",
+   "why": "Rafizi is visibly speaking the entire sentence on camera with clear audio synchronization."
+  },
+  "agrees_with": "MAI"
+ },
+ {
+  "at": "3:54:36",
+  "seconds": 14076,
+  "span": 15,
+  "words": 30,
+  "local": "Haziq",
+  "mai": "Rafizi",
+  "head": "lah. Okay, itu saja. Terima kasih banyak YB. Kita akan sambu",
+  "gemini": {
+   "speaker": "unclear",
+   "confidence": "high",
+   "seen": "Both Rafizi and Haziq are visible in a two-shot across the entire clip",
+   "why": "The shot holds two people throughout the clip instead of cutting to an individual speaker."
+  },
+  "agrees_with": "neither"
+ }
+]

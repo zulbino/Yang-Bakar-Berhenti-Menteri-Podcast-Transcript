@@ -22,7 +22,7 @@ Start here if something looks wrong. Find the symptom, read the section.
 | Timestamps drift, jump backward, or exceed the episode length | [1.10](#110-non-canonical-timestamps-past-the-first-hour), [1.11](#111-verifying-timestamps-against-youtubes-own-captions), [1.16](#116-timestamp-corruption-bug-catalog-and-a-free-corpus-wide-detector), [1.23](#123-the-drift-checker-measured-block-length-not-mistiming) |
 | A word or phrase repeats hundreds of times | [1.7](#17-token-repetition-degeneration-after-repeated-retries) |
 | Transcript reads like a summary, not speech | [1.8](#18-fabricated-fake-episodes-when-the-continuation-loop-runs-out-of-real-audio), [1.18](#118-a-rawmd-that-is-a-fabricated-summary-outline-not-a-transcript) |
-| Wrong speaker name, or a name nobody said | [1.30](#130-why-the-obvious-generic-label-rule-is-wrong), [1.29](#129-three-speaker-label-gotchas-that-keep-recurring), [1.12](#112-verifying-speaker-labels-against-real-audio), [1.13](#113-verifying-speaker-labels-via-native-youtube-clip-processing), [1.20](#120-the-rewrite-stage-invents-speakers-out-of-mangled-honorifics), [1.26](#126-restoring-four-episodes-and-when-a-speaker-label-is-worse-than-none), [1.27](#127-seven-episodes-filed-rafizis-words-under-a-co-hosts-name) |
+| Wrong speaker name, or a name nobody said | [1.30](#130-why-the-obvious-generic-label-rule-is-wrong), [1.29](#129-three-speaker-label-gotchas-that-keep-recurring), [1.12](#112-verifying-speaker-labels-against-real-audio), [1.13](#113-verifying-speaker-labels-via-native-youtube-clip-processing), [1.20](#120-the-rewrite-stage-invents-speakers-out-of-mangled-honorifics), [1.26](#126-restoring-four-episodes-and-when-a-speaker-label-is-worse-than-none), [1.27](#127-seven-episodes-filed-rafizis-words-under-a-co-hosts-name), [1.45](#145-reading-the-camera-on-ep62s-farhan-disagreement-and-what-it-says-about-mai), [1.49](#149-asking-a-model-to-watch-the-video-and-reading-its-unclear-answers) |
 | Gemini refuses the audio, or the API goes dark | [1.5](#15-prohibited_content-safety-block-on-politically-sensitive-audio), [1.15](#115-gemini-audio-verification-going-fully-dark-speechmatics-as-a-working-alternative) |
 | Rewrite is much shorter than the transcript | [2.1](#21-choosing-a-fallback-provider), [2.2](#22-claude-silently-condensing-heavily-disfluent-chunks-instead-of-fully-rewriting-them) |
 | A check keeps flagging something already judged fine | [1.21](#121-the-checklist-could-not-shrink-because-it-had-no-memory) |
@@ -2744,6 +2744,50 @@ deepseek's free variant is gone. NVIDIA's `llama-3.3-70b` is retired. **Azure Fo
 models need a deployment created in the portal** -- the Speech key alone returns
 `DeploymentNotFound` -- so the $200 credit cannot be spent on rewrites until someone deploys
 a model there, and it expires around 2026-10-07.
+
+### 1.49: Asking a model to watch the video, and reading its "unclear" answers
+
+1.45 read ep62's Farhan disagreement off video frames by hand: MAI's labels lost 8 of 10
+against the camera. That left eleven more MAI-versus-local disagreements and no appetite for
+eleven more contact sheets, so `verify_speakers_video.py` muxes the downloaded video with the
+local audio and sends a 14-second clip to `gemini-3.8-flash` with the cast described by
+clothing. One of the eleven, 0:11:50, was a region already read by hand; it came back Farhan,
+which is the control that makes the other ten worth reading.
+
+The headline tally was 3 for the local raw, 3 for MAI, 5 unclear. That tally is the wrong
+thing to read.
+
+**An "unclear" verdict still carries evidence, in the `seen` field.** At 2:06:07 the model
+answered unclear and described Rafizi on camera with his hand on his face and his mouth not
+moving while someone else speaks. That does not name the speaker but it eliminates one, and
+the disagreement was Rafizi-or-Haziq. Three of the five unclears settle that way. The two
+that carry nothing are 3:54:36, a two-shot for the whole clip, and 1:05:18, where the model
+says the quoted phrase is never spoken -- a stamp that is still out after 1.47's retime.
+
+**The prompt sends the head of a turn, so the answer covers the head of a turn.** ep62's
+local blocks run to forty seconds and longer, and the clip covers fourteen. At 0:36:24 the
+model saw Rafizi speaking, then the camera cut to Haziq replying `Saya rasa dah` -- inside a
+single block labelled Rafizi. At 2:06:07 the eliminated head sits in a block whose later
+sentences are plainly Rafizi recounting his own campaigning. Neither is a label to change;
+both need the turn cut. Only three of the eleven were relabelled, and each is a block
+sandwiched between two Rafizi blocks with the split falling mid-sentence -- 0:55:54 breaks
+`Jadi sudah tentulah / perbincangan tentang`, 1:50:25 breaks `Jadi saya tanya / soalan lah`,
+3:35:00 breaks `Sedangkan dalam geran RM45 / juta kan?`. Those are the local diarizer
+inventing a boundary, not a speaker change, and the camera confirms Rafizi at each head.
+
+**A disagreement can be an artefact of the comparison rather than of either transcript.** The
+candidate list paired each local block with whichever MAI turn sat under its stamp. At 05:58
+that pairing said local-Haziq against MAI-Rafizi. MAI actually labels that question Haziq, at
+its own 06:12; the local block's stamp is fourteen seconds early and the pairing had grabbed
+the turn before. An anchor added for it forced a real MAI Rafizi turn to Haziq at word
+overlap 0.43, which is what a shared-function-word score looks like when two Malay sentences
+have nothing to do with each other. Removed. Check that a disagreement exists before
+adjudicating it.
+
+**MAI's record against the camera on this episode is now 8 losses and 3 wins.** The three
+wins are all the same shape -- a sentence the local diarizer cut in half -- so they do not
+soften 1.45's finding, which was about MAI absorbing a third speaker into Rafizi.
+
 
 ## Rewrite, translate and metadata stage
 
