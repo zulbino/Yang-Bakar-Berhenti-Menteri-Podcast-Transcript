@@ -38,8 +38,15 @@ and block boundaries, so every prior text correction survives by construction.
 5. **Write and verify.** `--write`, then `verify_words_unchanged.py epNN HEAD` (a bad ref is
    now a failure, not a skip), then the three checker baselines. Commit with the before and
    after per-speaker numbers in the message.
-6. **Published files** are regenerated separately and in a batch, once the segment rewrite
-   pipeline exists; until then `interview*.md` carries the old labels in the re-cut regions.
+6. **Published files** are regenerated separately and in a batch with
+   `rewrite_segments.py`; until then `interview*.md` carries the old labels in the re-cut regions.
+7. **Read the result for mid-sentence cuts.** The borrowed word clock is about 2 s out, so a
+   cut can land five words early or late: ep62 had 44 of 180 blocks ending mid-sentence under
+   one speaker and continuing in lowercase under the next. Count them (block text without
+   terminal punctuation, next block another speaker starting lowercase). Where the episode
+   has MAI words, `mai_camera_raw.py epNN` rebuilds raw.md from MAI's words with the camera's
+   names on MAI's own clock instead -- ep62 went from 44 such cuts to 7 (ENGINEERING_LOG
+   2.11). It changes the words, so the owner reads it before it is adopted.
 
 Numbers so far, word-level against the camera: ep61 Haziq 75% -> 87%, Rafizi and Farhan
 unchanged, 17 of 203 blocks split. ep60 unchanged (refused, 97.5% as shipped; Farhan at 19%

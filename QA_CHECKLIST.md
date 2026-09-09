@@ -14,7 +14,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - missing interview.md
   - missing interview-en.md
   - missing interview-ms.md
-  - models: raw.md=mesolitica/malaysian-whisper-medium-v2
+  - models: raw.md=microsoft/MAI-Transcribe-2
 
 ## Clean episodes
 

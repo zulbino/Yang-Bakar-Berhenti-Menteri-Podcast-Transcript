@@ -4106,3 +4106,64 @@ Two things generalise:
 - **A model's own timestamps are not evidence about a model's own coverage.** Anything the
   engine under test produced is inadmissible as the yardstick for it. The captions work
   because nothing in this pipeline generates them.
+
+
+### 2.11: ep62's raw.md is now MAI's words under the camera's names, and why the scorer says that is worse
+
+The owner read ep62's raw.md on 2026-09-10 and sent back 13 text corrections and three
+regions that "feel weird": a sentence ends under one speaker and its second half continues,
+in lowercase, under another. `[18:00] Haziq: ... Yelah, Yi Leong` / `[18:02] Rafizi: dia
+lawyer kan.` Counting that shape across the file -- block ends without terminal punctuation,
+next block is another speaker and starts lowercase -- gave **44 of 180 blocks**. It is the
+camera re-cut (2.5 above) placing cuts with a word clock borrowed from MAI by text alignment,
+which carries about 2 s of error, five words at this speech rate. The cuts were right about
+the speaker and wrong about the word.
+
+MAI's own transcript of the same audio has a clock per word and better text (1.3% deletions
+against the local ASR's 9.8%, ENGINEERING_LOG 1.45), but its diarization loses Farhan. So
+`scripts/mai_camera_raw.py` builds raw.md from MAI's words and turns and labels each word
+from the camera reference at that word's own time. Three rules, in order: a turn of three
+words or fewer keeps MAI's label (the show never cuts to a grunt, so the camera is wrong
+about backchannels by construction); otherwise the camera's speaker where it sees one;
+otherwise MAI's label from the merged sandbox file, which carries the video-confirmed Farhan
+regions. Long turns the camera splits are cut with `split_mixed_blocks.py`'s own smoothing
+and sentence snap. The word sequence is asserted equal to MAI's and stamps non-decreasing.
+
+| | current raw.md (local text, camera cut) | MAI words + camera |
+|---|---|---|
+| blocks | 180 | 1,694 |
+| words | 26,203 | 29,812 |
+| mid-sentence speaker cuts | 44 | 7 |
+| owner's 13 garbles present | 13 | 3 (JCOM, Pepecat, expose) |
+| video-confirmed Farhan regions kept | 14/14 | 14/14 |
+| seconds under the wrong name, blocks of 4+ words | 142 | 82 |
+| block-scorer confusion vs camera | 1.6% | 3.8% |
+
+**The last row is the trap.** The new file scores worse on the block scorer while being
+better on every row above it. `score_attribution.py` lets a block own every second until the
+next block starts, and the new file has 778 one-word grunt blocks -- `[49:13] Haziq: Hmm.`
+-- each of which owns the pause after it while the camera stays on Rafizi. 363 of the 470
+confused seconds are those. Splitting the confusion by block class before reading the total
+is what showed it; the total alone would have rejected the better file, which is the same
+lesson as [[feedback_metrics_pass_broken_output]] with the sign reversed.
+
+Adopted as raw.md at the owner's decision, with J-KOM x2, Pecat x1 and exposé x4 (the noun
+uses; `yang saya expose paling awal` is the verb and stays) applied by hand. The other ten
+corrections MAI already had right unaided. `check_figures` and the interview now share a
+source, which they did not while the plan was to rewrite from a sandbox file.
+
+**Left for the owner:** the corpus writes the Community Communications Department as
+`JKOM` 366 times, `J-KOM` 31 times and `JCOM` 4 times outside ep62. The official form is
+J-KOM. That is a corpus-wide name correction and goes through `fix_proper_nouns.py` with the
+owner's say-so, not by majority.
+
+**The per-segment gate exists now**, `scripts/rewrite_segments.py`, and its first bake-off
+on three ep62 segments settled two things. Haiku translated two of three segments wholesale
+into English (Malay density 0.00 and 0.12 against a floor of 0.80) -- the same failure it
+showed on whole episodes, now caught per segment instead of per file. And the figure gate was
+too strict for a polishing model: Sonnet's "missing" figures were `2/3` written as `dua
+pertiga` and `2 3 orang` as `dua tiga orang`. A missing integer 0-12 is now accepted when its
+Malay or English number word appears more often in the output than in the input. With that,
+Sonnet passes 2 of 3 (it still dropped a `99` and a false-start `20` on segment 10) and
+gemini-flash-lite 3 of 3 at 2-6 s a segment, editing very little. Which polish level to ship
+is the owner's call, still open.

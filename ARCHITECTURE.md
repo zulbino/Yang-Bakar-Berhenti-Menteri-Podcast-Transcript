@@ -587,6 +587,13 @@ reference from the camera), so the mode for the re-cut is:
 
     python scripts/transcribe_mai.py <video_id> --no-diarization
 
+**Building raw.md from MAI's words** (`mai_camera_raw.py epNN`, ENGINEERING_LOG 2.11): where an
+episode has MAI words and a camera reference, this replaces the local-ASR text with MAI's and
+labels every word from the camera at its own time; turns of three words or fewer keep MAI's
+label, uncovered words fall back to it. It changes the words, so `verify_words_unchanged.py`
+does not apply -- the guard is that the output's word sequence equals MAI's, and the file is
+read before it is adopted. ep62 is the first episode written this way.
+
 Two guards came with it. A chunk file is reused only if its duration matches the plan --
 chunk files are named by index and start, and a 30-minute plan once picked up a 15-minute
 `chunk00` left by an earlier run, dropping 900-1800 s of ep61 without any check noticing. And
@@ -596,12 +603,24 @@ more than 300 s between two turns, which is the hole the last-stamp check cannot
 ## Writing the interview files from segments
 
 Not yet the shipping path. The rewrite stage still rewrites a whole episode in one pass, and
-this is the replacement being measured.
+this is the replacement being measured. Since 2026-09-10 the source is raw.md itself: ep62's
+raw.md is MAI's words under the camera's names (`mai_camera_raw.py`, ENGINEERING_LOG 2.11),
+so the interview and `check_figures.py` read the same file.
 
-    python scripts/merge_mai_local_labels.py ep62 --write
-    python scripts/strip_filler_turns.py data/_mai_<id>/raw_merged.md --write
-    python scripts/segment_episode.py ep62 --raw data/_mai_<id>/raw_merged.md --out data/_ep62_segments.json
-    python scripts/rewrite_bakeoff.py data/_ep62_segments.json 10 26 27
+    cp episodes/.../ep62/raw.md data/_ep62_rewrite_source.md
+    python scripts/strip_filler_turns.py data/_ep62_rewrite_source.md --write
+    python scripts/segment_episode.py ep62 --raw data/_ep62_rewrite_source.md --out data/_ep62_segments.json
+    python scripts/rewrite_segments.py ep62 --only 10 21 26 --stage mixed --tries 1   # bake-off
+    python scripts/rewrite_segments.py ep62 --instructions data/_ep62_rewrite/instructions.txt
+    python scripts/rewrite_segments.py ep62 --write
+
+`rewrite_segments.py` runs one segment at a time, measures each result (length 0.70-1.50 of
+the input, Malay function-word density at least 0.80 of the input, every figure present with
+small integers allowed as number words, the speaker set identical to the input's, no stamps,
+headings or preamble), keeps a passing segment on disk and retries only the failures. The
+English stage must LOSE Malay density (ceiling 0.30) or it did not translate; the Malay stage
+must keep it. `--write` refuses while any segment of any stage has no accepted file.
+`--instructions` appends owner facts to the prompt, such as ep62's two title corrections.
 
 **Why the filler strip is a step and not a regex.** MAI transcribes the backchannels the
 local ASR drops, so 527 of ep62's 1,613 merged turns are one grunt each and 426 of those are
