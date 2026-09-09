@@ -117,6 +117,7 @@ MAX_DUPLICATE_SHARE = 0.25
 MAX_IDENTICAL_RUN = 4
 # Below this share of the runtime reached by the last stamp, the tail is missing.
 MIN_STAMP_COVERAGE = 0.95
+MAX_GAP_S = 300
 
 
 def bias_phrases(extra=()):
@@ -259,6 +260,14 @@ def cut_chunks(audio_path, out_dir, chunk_seconds):
                   f"the opaque HTTP 500 is")
         chunk_dir.mkdir(parents=True, exist_ok=True)
         path = chunk_dir / f"chunk{index:02d}_{int(round(start + trim))}.mp3"
+        # A chunk file is named by index and start, not by length. On 2026-09-10 a 30-minute
+        # plan reused a 15-minute chunk00 left by the night before, so 900-1800s of ep61 was
+        # never transcribed, the coverage gate passed on the last stamp, and the word clock
+        # borrowed from it was 827s off. Reuse only a file whose duration matches the plan.
+        if path.exists() and abs(duration_of(path) - (length - trim)) > 2.0:
+            print(f"  chunk {index}: {path.name} is {duration_of(path):.0f}s, plan is "
+                  f"{length - trim:.0f}s -- re-cutting")
+            path.unlink()
         if not path.exists():
             subprocess.run([str(_ffmpeg_location()), "-v", "error", "-y",
                             "-ss", f"{start + trim:.3f}", "-t", f"{length - trim:.3f}",
@@ -410,6 +419,14 @@ def health(turns, runtime_s):
     # turn, and its start is the chunk boundary -- 85.9% of ep61's runtime for a transcript
     # that in fact ran to the end.
     last_s = max((t["end_ms"] or t["offset_ms"] or 0) for t in turns) / 1000 if turns else 0
+    # The largest silence between one turn's end and the next turn's start. A chunk that
+    # went missing in the middle leaves a hole the last stamp cannot see (ep61, 2026-09-10:
+    # 900-1800s absent, last stamp at 100%). Podcast speech has no 5-minute pauses.
+    ordered = sorted((t for t in turns if t["offset_ms"] is not None), key=lambda t: t["offset_ms"])
+    gap_s = 0.0
+    for a, b in zip(ordered, ordered[1:]):
+        if a["end_ms"] is not None:
+            gap_s = max(gap_s, (b["offset_ms"] - a["end_ms"]) / 1000)
     return {
         "turns": len(turns),
         "chunks": len(per_chunk),
@@ -422,6 +439,7 @@ def health(turns, runtime_s):
         "last_stamp_s": last_s,
         "runtime_s": runtime_s,
         "stamp_coverage": (last_s / runtime_s) if runtime_s else None,
+        "largest_gap_s": gap_s,
         "chars": sum(len(t) for t in texts),
     }
 
@@ -435,6 +453,10 @@ def verdict(h, diarize=True):
         problems.append(
             f"last stamp reaches only {h['stamp_coverage']:.1%} of the runtime -- the tail "
             f"of the episode is missing, same shape as 2.10.")
+    if h.get("largest_gap_s", 0) > MAX_GAP_S:
+        problems.append(
+            f"{h['largest_gap_s']:.0f}s with no transcribed speech between two turns -- a chunk "
+            f"is missing from the middle; the last stamp cannot see this.")
     for chunk, speakers in h["speakers_per_chunk"].items():
         if diarize and len(speakers) < MIN_SPEAKERS:
             problems.append(
