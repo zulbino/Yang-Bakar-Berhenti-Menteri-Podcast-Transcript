@@ -661,11 +661,14 @@ The measured results are in `MODEL_LANDSCAPE.md`; the method and its validation 
 
 ## Known limitations
 
-- **The gap is in the naming stage, not the diarizer.** Measured on ep62 against the camera
-  reference: pyannote recovers 85% of Haziq's speaking time and the shipped `raw.md`
-  recovers 67%. Eighteen points are lost after diarization. Corpus-level DER hides this
-  completely -- the shipped file has the *best* DER in the table at 3.0%, because Rafizi
-  holds 95.5% of the audio. Read JER.
+- **The gap is in block cutting, and on ep62 it is now closed.** Measured against the camera
+  reference, the pipeline's unaided output recovered 67% of Haziq's speaking time while
+  pyannote's own clusters recovered 85% -- eighteen points lost after diarization, in the
+  step that turns clusters into transcript blocks, not in the diarizer and not in naming.
+  `scripts/split_mixed_blocks.py` re-cuts those blocks and ep62 now sits at 92%.
+  **The other 67 episodes have not been done, and the method has been validated on one
+  episode only.** Corpus-level DER hides all of this: Rafizi holds 95.5% of ep62's audio,
+  and a continuously tiled transcript scores 0% missed by construction. Read confusion.
 
 - **Turn-level attribution is not solved, and it is the largest open defect.** 341
   published turns of 400+ words across 63 episodes sit under one label, and every checker

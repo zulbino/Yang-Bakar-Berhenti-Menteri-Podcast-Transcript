@@ -135,40 +135,53 @@ LR-ASD scores whether the visible mouth matches the audio; YuNet plus SFace say 
 is. A second is labelled only where exactly one identified person is speaking, which covers
 **12,473 of 14,101 seconds, 88%**. Scored at **collar 0 with overlap counted**, inside the UEM.
 
-| system | DER | JER | Rafizi | Haziq | Farhan |
-|---|---|---|---|---|---|
-| raw.md as shipped | **3.0%** | 33.7% | 99% | 67% | 74% |
-| pyannote 3.x thr=0.55 | 4.6% | **21.6%** | 99% | **85%** | 73% |
-| MAI + voiceprint stitching | 5.3% | 51.4% | 96% | 86% | 12% |
-| pyannoteAI Precision-2 + 3 voiceprints | 10.8% | 37.3% | 95% | 81% | 67% |
-| pyannoteAI Precision-2, no enrolment | 10.8% | 37.3% | -- | -- | -- |
-| MAI, chunk ids unstitched | 87.3% | 93.2% | -- | -- | -- |
+**Updated 2026-09-09 after the block split.** The `raw.md` row is no longer what the
+pipeline produces unaided -- ep62 has since been re-cut against this reference and hand
+corrected by the owner, so it is the best row rather than the worst. The unaided figure is
+kept beside it, because that is the one that says what the pipeline does on a new episode.
+
+| system | DER | JER | confusion | Rafizi | Haziq | Farhan |
+|---|---|---|---|---|---|---|
+| **ep62 raw.md, after the split + owner** | **1.6%** | **21.1%** | **1.6%** | 99% | **92%** | **88%** |
+| pyannote 3.x thr=0.55 | 5.2% | 25.7% | 2.1% | 99% | 85% | 73% |
+| MAI + voiceprint stitching | 5.3% | 51.4% | 5.3% | 96% | 86% | 12% |
+| pyannoteAI Precision-2 + voiceprints | 11.0% | 43.4% | 5.7% | 95% | 81% | 67% |
+| ep62 raw.md as the pipeline produced it | 3.0% | 33.7% | 2.8% | 99% | 67% | 74% |
+
+Scored over the full 12,473s reference, so a system that declines to label a second is
+charged for it. **Confusion is the column that measures attribution**; DER also contains
+missed speech and false alarm, and a continuously tiled transcript scores 0% missed by
+construction.
+
+**Read the top row with its caveat.** The split was sourced from this same camera
+reference, so scoring it against the camera is a consistency check, not an independent
+validation. What is independent is the owner's ear: five confirmed timestamps, plus eleven
+corrections found by reading, four of which the metrics scored as improvements while the
+output was wrong.
+
+The three rows below it are unaffected and remain a fair comparison.
+
+One more row, kept because it is what the API returns before repair: **MAI with its
+per-chunk speaker ids unstitched, DER 87.3% and JER 93.2%.** Eight requests, 22 clusters
+for 3 people. The voiceprint join takes it to 5.3%.
 
 Per-speaker recall uses a maximum-weight one-to-one mapping over the 11,755 seconds every
-system labels, so no column rests on a different denominator (`data/_common_basis.py`).
-Greedy per-label mapping is wrong here and fabricates a result -- see `ENGINEERING_LOG.md`
-1.55.
+system labels, so no column rests on a different denominator. Greedy per-label mapping is
+wrong here and fabricates a result -- see `ENGINEERING_LOG.md` 1.55. Reproduce the whole
+table with:
 
-**DER hides three different errors, so split it** (`data/_der_components.py`). Only the
-confusion column measures attribution:
-
-| system | DER | missed | false alarm | confusion |
-|---|---|---|---|---|
-| pyannote 3.x thr=0.55 | 4.6% | 2.9% | 0.0% | **1.8%** |
-| pyannoteAI Precision-2 | 10.8% | 5.1% | 3.5% | **2.2%** |
-| raw.md as shipped | 3.0% | 0.0% | 0.0% | **3.0%** |
-
-raw.md scores 0% missed **by construction** -- its blocks tile continuously, so it can never
-be charged for missing speech, and its flattering DER is an artifact of that. On confusion,
-the one column that measures who is talking, it is last.
+    python scripts/score_attribution.py data/camera_ref_ep62.rttm --episode ep62 \
+        --triples "pyannote 3.x thr=0.55=data/diar_0M5hweswMpE_t055.json" \
+        --rttm "pyannoteAI=data/_pyannoteai/0M5hweswMpE_identify_exclusive.rttm" \
+        --blocks "MAI + voiceprint=data/_mai_0M5hweswMpE/raw.md"
 
 ### pyannoteAI Precision-2, trialled 2026-09-09: do not pay for it on this corpus
 
 Free trial, 150 hours. Two full passes over ep62 cost about 8 of them and ran in 188s and
 284s. Findings:
 
-- **It is beaten by the free local model it is sold against.** Confusion 2.2% against
-  pyannote 3.x's 1.8%, and per-speaker 95/81/67 against 99/85/73.
+- **It is beaten by the free local model it is sold against.** Confusion 5.7% against
+  pyannote 3.x's 2.1%, and per-speaker 95/81/67 against 99/85/73.
 - **Voiceprint enrolment works perfectly and is the part worth keeping.** Three voiceprints
   cut from camera-confirmed single-speaker runs matched all three hosts correctly:
   Farhan 90 with a 64-point margin, Rafizi 95 over Haziq's 80, Haziq 90 over Rafizi's 81.
@@ -228,7 +241,7 @@ Reproduce with:
   enrolment idea, not the service.
 - **Not measured:** NVIDIA Sortformer. NeMo will not install cleanly here -- on Python 3.14
   the resolver backtracks to NeMo 2.5.0 and would downgrade numpy to 1.26.4, pyannote.core
-  to 5.0.0 and pyannote.metrics to 3.2.1, which breaks `data/_score_diar.py` and
+  to 5.0.0 and pyannote.metrics to 3.2.1, which breaks `scripts/score_attribution.py` and
   pyannote.audio 4.0.7. It needs an isolated Python 3.12 venv and its own torch.
 - **Still worth measuring:** Speechmatics `en_ms`, the only purpose-built Malay-English
   bilingual pack any vendor ships, which nobody has published a number for. ElevenLabs

@@ -139,6 +139,53 @@ def main():
         print(f"{label:34}" + "".join(f"{c:>10}" for c in cells)
               + f"{wrong/max(len(common),1):>10.1%}")
 
+    # DER SPLIT INTO ITS THREE PARTS. One DER cannot tell a system that puts the wrong
+    # name on speech from one that did not think there was speech there, and on this corpus
+    # those rank differently: raw.md's blocks tile continuously so it scores 0% missed BY
+    # CONSTRUCTION, which gives it the best DER in the table and the worst confusion.
+    try:
+        from pyannote.core import Annotation, Segment, Timeline
+        from pyannote.metrics.diarization import DiarizationErrorRate, JaccardErrorRate
+    except ImportError:
+        print("\n(install pyannote.metrics for the DER split)")
+        pass
+    else:
+        def to_ann(m):
+            ann = Annotation(uri="x")
+            run = None
+            for t in sorted(m):
+                if run and m[t] == run[2] and t == run[1] + 1:
+                    run[1] = t
+                else:
+                    if run:
+                        ann[Segment(run[0], run[1] + 1)] = run[2]
+                    run = [t, t, m[t]]
+            if run:
+                ann[Segment(run[0], run[1] + 1)] = run[2]
+            return ann
+
+        # SCORED OVER THE WHOLE REFERENCE, not the intersection. Restricting to seconds
+        # every system labels forces missed and false-alarm to zero by construction and
+        # makes the split say nothing -- which is the exact failure the split exists to
+        # expose. Each system is measured against everything the camera is sure about,
+        # so a system that declines to label a second is charged for it.
+        uem = Timeline(uri="x")
+        for t in sorted(ref):
+            uem.add(Segment(t, t + 1))
+        uem = uem.support()
+        ref_ann = to_ann(ref)
+        print(f"\nover the full reference ({len(ref)}s), so silence counts against a system")
+        print(f"{'system':34}{'DER':>8}{'JER':>8}{'missed':>9}{'falarm':>9}{'confus':>9}")
+        for label, m in systems.items():
+            hyp = to_ann(m)
+            metric = DiarizationErrorRate(collar=0.0, skip_overlap=False)
+            der = metric(ref_ann, hyp, uem=uem)
+            c = metric[:]
+            tot = c["total"] or 1
+            jer = JaccardErrorRate(collar=0.0, skip_overlap=False)(ref_ann, hyp, uem=uem)
+            print(f"{label:34}{der:>7.1%}{jer:>8.1%}{c['missed detection']/tot:>9.1%}"
+                  f"{c['false alarm']/tot:>9.1%}{c['confusion']/tot:>9.1%}")
+
     for label, blocks in blocks_of.items():
         mixed = [b for b in blocks
                  if len({ref[t] for t in range(b[0], b[1]) if t in ref}) > 1]

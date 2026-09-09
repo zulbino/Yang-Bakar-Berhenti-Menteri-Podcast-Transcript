@@ -3143,7 +3143,7 @@ polls twice.
 
 **DER had to be split before any of this could be read.** A single DER cannot separate a
 system that puts the wrong name on speech from one that did not think there was speech
-there. `data/_der_components.py` splits it, and the split changes the ranking: `raw.md`
+there. `scripts/score_attribution.py` splits it, and the split changes the ranking: `raw.md`
 scores 0% missed **by construction**, because its blocks tile continuously and it can never
 be charged for missing speech. That is why it posts the best DER in the table while being
 last on confusion.

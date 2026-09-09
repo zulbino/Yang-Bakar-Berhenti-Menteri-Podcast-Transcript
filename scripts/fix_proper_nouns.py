@@ -27,6 +27,18 @@ ROOT = Path(__file__).resolve().parent.parent
 # (regex, replacement, why). Longest/most-specific first, so a broader pattern cannot
 # eat a more specific one's match.
 CORRECTIONS = [
+    (r"\bMara\b",
+     "MARA",
+     "Majlis Amanah Rakyat, an acronym. 13 mixed-case against 89 already-correct MARA. "
+     "All 13 checked individually and every one is the agency: `termasuklah Mara dan what "
+     "not, Peneraju`, `agensi-agensi tertentu Mara contohnya`, `Teraju ke, Mara ke`, "
+     "`1MDB dulu, NFC, Mara, Tabung Haji`, and ep62's `Pasal Mara. Dudley House` -- the "
+     "London property scandal. CAPITAL M ONLY. `mara` is also an ordinary Malay verb, so "
+     "the lower-case form is deliberately not matched. "
+     "NOT DONE, and worth recording as a near miss: `Mas` looked like the same case at 99 "
+     "mixed against 44 MAS, and is not. Every one of the 99 is a place -- `Mas Gading`, a "
+     "Sarawak constituency, and `Teluk Mas` in Melaka. Replacing them would have turned "
+     "real place names into an airline."),
     (r"\b[Ff]elda\b",
      "FELDA",
      "OWNER-supplied, from felda.gov.my, which writes the acronym in full caps throughout "
@@ -102,7 +114,8 @@ CORRECTIONS = [
      "same man again but is left for the owner rather than assumed: `Ahmad` is a plausible "
      "mishearing of his `Abdul`, and guessing a surname is exactly the error this file "
      "exists to prevent."),
-    (r"Syarifulcik(?![A-Za-z])|Syabricik(?![A-Za-z])|Syabri Cik(?![A-Za-z])",
+    (r"Syarifulcik(?![A-Za-z])|Syabricik(?![A-Za-z])|Syabri Cik(?![A-Za-z])"
+      r"|Shabri Chik(?![A-Za-z])|Shabricik(?![A-Za-z])",
      "Shabery Cheek",
      "OWNER-supplied and owner-verified by ear against the video. Datuk Seri Ahmad Shabery "
      "Cheek, FELDA chairman from July 2023, reappointed July 2025 "

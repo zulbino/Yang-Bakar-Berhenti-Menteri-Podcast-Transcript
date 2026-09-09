@@ -259,7 +259,7 @@ Jadi sebab itu, kepada Nurul Izzah, kepada yang lain kan, sebenarnya dia perlu m
 
 **Rafizi:** Buat apa aku nak bagi solution kepada PAS, itu masalah dia lah.
 
-**Haziq:** Dia menunjukkan sesuatu kat masyarakat kita jugalah, dikatakan masyarakat Melayu ni masih lagi suka makan gaji dengan kerajaan, kerja kerajaan. Kita kena bagi Teraju ke, Mara ke, kena bagi kursus dekat adik-adik PAS ni yang kerja kerajaan je.
+**Haziq:** Dia menunjukkan sesuatu kat masyarakat kita jugalah, dikatakan masyarakat Melayu ni masih lagi suka makan gaji dengan kerajaan, kerja kerajaan. Kita kena bagi Teraju ke, MARA ke, kena bagi kursus dekat adik-adik PAS ni yang kerja kerajaan je.
 
 **Rafizi:** Dia memang, kenapa tak nak kerja kerajaan? Kerja jadi menteri, pegawai menteri ni kan, goyang kaki dapat RM7,000, RM10,000.
 
@@ -293,7 +293,7 @@ Jadi sebab itu, kepada Nurul Izzah, kepada yang lain kan, sebenarnya dia perlu m
 
 **Haziq:** Tapi YB, despite of that, satu lagi lah kenapa kita tanya YB juga — sebab tak ada pembangkang pun yang bangkit kan, walaupun isu ni agak besar lah.
 
-**Rafizi:** Ya, yang ini yang... Yalah, orang selalunya pembangkang ni dia panah telinga dengan aku kan. Tapi cuba duduk dalam keadaan saya lah kan. 1MDB dulu, NFC, Mara, Tabung Haji, Zomor, skandal-skandal besar dulu, LTAT — masa itu saya pembangkang. Kitalah yang tak tidur malam, kitalah yang pusing keliling, ceramah semua kan, masuk lock up, kena saman semua kan. Sebab sebagai pembangkang, kita kena buat itu apabila sesuatu perkara yang kita rasa penyelewengan itu berada di pihak kerajaan. Sudah tentu kita tak boleh percaya bulat-bulat yang kerajaan akan menyiasat sepenuhnya. Dan badan-badan siasatan, baik SPRM ke PDRM ke Jabatan Peguam Negara, mereka semua terikat dengan pimpinan kerajaan masa itu. Maka sebab itulah pembangkang yang kena lari lebih laju untuk membongkarkan perkara-perkara ini. Dan saya dah buat tanggungjawab itu.
+**Rafizi:** Ya, yang ini yang... Yalah, orang selalunya pembangkang ni dia panah telinga dengan aku kan. Tapi cuba duduk dalam keadaan saya lah kan. 1MDB dulu, NFC, MARA, Tabung Haji, Zomor, skandal-skandal besar dulu, LTAT — masa itu saya pembangkang. Kitalah yang tak tidur malam, kitalah yang pusing keliling, ceramah semua kan, masuk lock up, kena saman semua kan. Sebab sebagai pembangkang, kita kena buat itu apabila sesuatu perkara yang kita rasa penyelewengan itu berada di pihak kerajaan. Sudah tentu kita tak boleh percaya bulat-bulat yang kerajaan akan menyiasat sepenuhnya. Dan badan-badan siasatan, baik SPRM ke PDRM ke Jabatan Peguam Negara, mereka semua terikat dengan pimpinan kerajaan masa itu. Maka sebab itulah pembangkang yang kena lari lebih laju untuk membongkarkan perkara-perkara ini. Dan saya dah buat tanggungjawab itu.
 
 Sekarang ini masa kerajaan. Kerajaannya ialah kerajaan Madani di bawah Datuk Seri Anwar Ibrahim kan? Dan saya adalah sebahagian daripada kerajaan itu. Maka ada keterbatasan lah dari perkara-perkara yang kita perlu buat. Satunya ialah kerana kamu dah jadi kerajaan. Maka yang saya patut buat ialah saya bagi teguran kepada Datuk Seri Anwar supaya dia menggunakan kuasa dia sebagai kerajaan — kalau belum ada siasatan, siasat; kalau ada kes kena dakwa, dakwa. Kerana ia di bawah bidang kuasa beliau.
 
