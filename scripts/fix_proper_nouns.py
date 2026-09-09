@@ -27,6 +27,19 @@ ROOT = Path(__file__).resolve().parent.parent
 # (regex, replacement, why). Longest/most-specific first, so a broader pattern cannot
 # eat a more specific one's match.
 CORRECTIONS = [
+    (r"Syarifulcik(?![A-Za-z])|Syabricik(?![A-Za-z])|Syabri Cik(?![A-Za-z])",
+     "Shabery Cheek",
+     "OWNER-supplied and owner-verified by ear against the video. Datuk Seri Ahmad Shabery "
+     "Cheek, FELDA chairman from July 2023, reappointed July 2025 "
+     "(en.wikipedia.org/wiki/Ahmad_Shabery_Cheek). Three spellings of one name: `Syabricik` "
+     "twice and `Syarifulcik` twice in ep62, `Syabri Cik` once in ep43 inside a "
+     "self-correction, 'eh Ismail Sabri pula, Shabery Cheek'. "
+     "TITLE NOTE FOR THE REWRITE STAGE, and this is the reason this entry is verbose: "
+     "ep62 has Rafizi calling him 'Tan Sri' twice. That is WRONG -- he is a Datuk Seri. "
+     "raw.md keeps 'Tan Sri' because raw.md records what was said, and the owner decided "
+     "that explicitly. The interview files should use Datuk Seri. Do not add a "
+     "Tan Sri -> Datuk Seri rule here; it would rewrite the raw transcript, and the same "
+     "two words are correct for other people in this corpus."),
     (r"Sesemah(?![A-Za-z])",
      "Selsema",
      "OWNER-supplied, ep62 MAI transcript. The common cold. The passage is Haziq two weeks "

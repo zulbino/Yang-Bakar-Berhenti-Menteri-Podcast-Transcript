@@ -142,8 +142,13 @@ def main():
     write = "--write" in sys.argv
     raw_only = "--raw-only" in sys.argv
     no_fold = "--no-fold-fillers" in sys.argv
+    # --episode limits the run to one episode. Without it this touches every episode that
+    # has a same-speaker run, which is a corpus-wide edit and needs its own decision.
+    only = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--episode=")), None)
     tot, tot_fold, touched = 0, 0, 0
     for d in sorted((ROOT / "episodes").glob("*/*")):
+        if only and only not in d.name:
+            continue
         names = ["raw.md"] if raw_only else ["raw.md"] + DERIVED
         for name in names:
             p = d / name

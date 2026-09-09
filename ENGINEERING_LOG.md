@@ -3148,6 +3148,63 @@ scores 0% missed **by construction**, because its blocks tile continuously and i
 be charged for missing speech. That is why it posts the best DER in the table while being
 last on confusion.
 
+### 1.57: Splitting mixed blocks recovers Haziq, and four bugs found by looking at the diff
+
+`scripts/split_mixed_blocks.py`, applied to ep62. Word-level attribution against the camera
+reference, which is what a reader of the transcript actually experiences:
+
+| | Rafizi | Haziq | Farhan | overall |
+|---|---|---|---|---|
+| before | 99% (23262/23426) | **68%** (659/967) | 78% (181/233) | 97.9% |
+| after | 99% (23249/23426) | **87%** (840/967) | 78% (181/233) | **98.6%** |
+
+186 blocks became 214, twelve of them split. 181 more of Haziq's words are now under his
+own name, Rafizi loses 13 of 23,426, Farhan is untouched. `verify_words_unchanged.py`
+reports 26,690 words identical, so only labels and boundaries moved.
+
+**The cheap version was tried first and does not work.** Renaming each block by the
+pyannote cluster that dominates it moves no text and is therefore safe, but it takes Haziq
+from 65% to 63%, and on the MAI transcript it takes Farhan from 12% to 0%. The gain exists
+only if the text is cut. There is no risk-free version of this change.
+
+**Word times are borrowed from MAI.** raw.md has none. MAI transcribed the same audio and
+returns per-word offsets, so each raw.md word is aligned to MAI's word sequence and takes
+its clock. 89.6% match exactly, the largest interpolated gap is 33 words, and no word's
+time runs backwards. Residual error against the existing block stamps is 1.9s median,
+about five words at this speech rate, which is why the cut point is approximate and the
+guards matter.
+
+**Four bugs, and three of them scored as success before the diff was read.**
+
+*The anti-shredding guard ate the minority speaker.* Requiring a run to reach four words
+before becoming its own block is right for a run that would introduce a NEW name, and
+catastrophic applied to the block's existing label: Farhan speaks 233 words across 103
+seconds in short bursts, almost all under four words, and folding them took him from 78%
+to 14%. A run carrying the block's own label is never folded, however short.
+
+*One person had two names.* Cluster names were built from `Farhan` while the guard compared
+against `Farhan (Pa'an)`, so every Farhan word compared unequal to itself. That reported
+his recall collapsing to 14% when nothing had moved. One canonical short form is now used
+for naming, guarding and scoring alike.
+
+*Same-speaker splits fragmented phrases.* `Sesama. Tak tahu` came out as `Sesama. Tak` plus
+`tahu`, both labelled Rafizi. Merging adjacent runs that share a name before emitting cut
+the splits from 33 to 12 with no loss of accuracy -- 21 of them were pointless.
+
+*A discovered speaker lost their alias.* A split that finds Farhan inside a Rafizi block
+wrote a bare `Farhan:` beside 27 existing `Farhan (Pa'an):` labels. New names now map back
+to whichever full form the file already uses.
+
+**The scoring alone would have shipped all four.** Overall word accuracy read 98.5% with
+the same-speaker fragmentation and the stripped alias both present. Only reading the diff
+line by line found them. A metric that improves is not evidence that the change is right.
+
+Also fixed, all caught by the owner reading the file and all verified in context first:
+`Jerobo` to `Jerebu`, `threats` to `Threads` (the Meta platform, from "trending dekat"),
+`bertibaran` to `bertebaran`, and `baca Faisal Felda` to `baca fasal FELDA`. None was
+applied corpus-wide: of the corpus's 22 instances of "threats", ep13's reads "threats,
+ancaman" -- the English word followed by its Malay gloss -- and is correct.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider
