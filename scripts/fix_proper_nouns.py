@@ -27,6 +27,20 @@ ROOT = Path(__file__).resolve().parent.parent
 # (regex, replacement, why). Longest/most-specific first, so a broader pattern cannot
 # eat a more specific one's match.
 CORRECTIONS = [
+    (r"Syarif Samad(?![A-Za-z])",
+     "Shahrir Samad",
+     "OWNER-supplied. Tan Sri Shahrir Abdul Samad, FELDA chairman from 6 January 2017 "
+     "replacing Tan Sri Mohd Isa Abdul Samad, resigned May 2018 "
+     "(thestar.com.my/business/business-news/2017/01/06/shahrir-replaces-isa-as-felda-chairman). "
+     "16 occurrences: 12 in ep62 and 4 in ep21, against 12 already-correct `Shahrir Samad` "
+     "elsewhere in the corpus. ep62's own text dates him -- 'dilantik jadi pengurusi Felda "
+     "Januari 2017' -- and ep21's identifies him -- 'seorang sahaja yang pernah menang "
+     "gitu', his 1988 Johor Bahru win as an independent. "
+     "ANCHORED ON THE FULL TWO-WORD NAME on purpose. A bare `Syarif` would corrupt "
+     "`Syarifah`, and this episode also carries `Syarif Ahmad` seven times, which is the "
+     "same man again but is left for the owner rather than assumed: `Ahmad` is a plausible "
+     "mishearing of his `Abdul`, and guessing a surname is exactly the error this file "
+     "exists to prevent."),
     (r"Syarifulcik(?![A-Za-z])|Syabricik(?![A-Za-z])|Syabri Cik(?![A-Za-z])",
      "Shabery Cheek",
      "OWNER-supplied and owner-verified by ear against the video. Datuk Seri Ahmad Shabery "
