@@ -27,6 +27,13 @@ ROOT = Path(__file__).resolve().parent.parent
 # (regex, replacement, why). Longest/most-specific first, so a broader pattern cannot
 # eat a more specific one's match.
 CORRECTIONS = [
+    (r"Asri muda(?![A-Za-z])",
+     "Asri Muda",
+     "OWNER-prompted. Mohd Asri bin Muda, PAS president 1969-1982 and the Land minister "
+     "responsible for FELDA in the BN government 1973-1978 (en.wikipedia.org/wiki/Asri_Muda), "
+     "which is the role ep62 gives him. `Muda` is his father's name and takes a capital. "
+     "1 lower-case occurrence against 5 already correct. ANCHORED ON `Asri` because `muda` "
+     "is the ordinary Malay word for young and appears 720 times in the corpus."),
     # --- ep62's FELDA chairman succession. The episode walks all five in order, and the
     # ASR garbled every one of them. Owner-confirmed, and each verified externally.
     (r"\bTansi\b",
