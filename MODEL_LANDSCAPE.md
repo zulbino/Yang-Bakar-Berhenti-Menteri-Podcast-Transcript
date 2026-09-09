@@ -224,6 +224,11 @@ Caveats that cut against these numbers, not for them:
 
 Reproduce with:
 
+The 480p video is not kept -- it is 618 MB and re-fetches in about ten minutes. Get it
+first, at format 135 so the LR-ASD scores stay comparable with the validated run:
+
+    python -m yt_dlp -f 135 --extractor-args youtube:player_client=web_embedded \n        -o data/_video/0M5hweswMpE_480p.mp4 \n        https://www.youtube.com/watch?v=0M5hweswMpE
+
     python scripts/camera_speakers.py census   data/_video/0M5hweswMpE_480p.mp4
     python scripts/camera_speakers.py cluster  data/_video/0M5hweswMpE_480p.mp4
     python scripts/camera_speakers.py gallery  --name 5=Rafizi --name 50=Haziq --name 6=Farhan
