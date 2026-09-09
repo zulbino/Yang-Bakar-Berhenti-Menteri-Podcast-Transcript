@@ -220,7 +220,9 @@ def main():
         mai_done[t].wait()
         ok, out, secs = mai_result[t]
         report["steps"]["mai"] = {"ok": ok, "seconds": secs, "out": out[-2500:]}
-        if ok and report["steps"].get("camera_reference", {}).get("ok"):
+        # The split tool falls back to the caption track as its word clock, so it runs
+        # whenever there is a camera reference, MAI or not.
+        if report["steps"].get("camera_reference", {}).get("ok"):
             step(report, "split_dry_run", lambda: split_dry_run(t))
         failures += sum(1 for v in report["steps"].values() if not v["ok"])
         (NIGHTLY / f"{t}.json").write_text(json.dumps(report, ensure_ascii=False, indent=1), encoding="utf-8")

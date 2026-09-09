@@ -228,6 +228,8 @@ def main():
     ap.add_argument("--reference", help="camera RTTM, to score the result")
     ap.add_argument("--diarization", help="pyannote triples json")
     ap.add_argument("--write", action="store_true")
+    ap.add_argument("--preview", metavar="PATH",
+                    help="write the rebuilt raw.md to PATH instead, and print the changed block lines")
     a = ap.parse_args()
 
     hits = glob.glob(str(ROOT / f"episodes/*/*-{a.episode}-*/raw.md"))
@@ -426,12 +428,31 @@ def main():
             print(f"  REFUSING to write: overall {b_hit}->{a_hit}, worse for {worse}")
             sys.exit(2)
 
+    if a.preview:
+        # For reading the proposal before anyone writes it: the split blocks, in full, so a
+        # reader can judge each cut against the words rather than against a score.
+        new_body = rebuild(body, len(blocks), out)
+        Path(a.preview).write_text(head + "# Raw Transcript" + new_body, encoding="utf-8")
+        split_ids = {i for i in by_block_index(out) if len(by_block_index(out)[i]) > 1}
+        print(f"\npreview written to {a.preview}; {len(split_ids)} split block(s):")
+        for i in sorted(split_ids):
+            print(f"\n  was [{blocks[i][0]}] {blocks[i][1].strip()}:")
+            for t, nm, txt, _ in (o for o in out if o[3] == i):
+                print(f"    [{fmt(t)}] {nm}: {txt}")
+        return
     if not a.write:
         print("\ndry run. add --write to apply")
         return
     path.write_text(head + "# Raw Transcript" + rebuild(body, len(blocks), out),
                     encoding="utf-8", newline="")
     print(f"\nwritten: {path}")
+
+
+def by_block_index(out):
+    d = defaultdict(list)
+    for entry in out:
+        d[entry[3]].append(entry)
+    return d
 
 
 def rebuild(body, nblocks, out):
