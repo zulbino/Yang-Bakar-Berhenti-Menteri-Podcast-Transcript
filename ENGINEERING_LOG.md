@@ -4114,10 +4114,17 @@ The owner read ep62's raw.md on 2026-09-10 and sent back 13 text corrections and
 regions that "feel weird": a sentence ends under one speaker and its second half continues,
 in lowercase, under another. `[18:00] Haziq: ... Yelah, Yi Leong` / `[18:02] Rafizi: dia
 lawyer kan.` Counting that shape across the file -- block ends without terminal punctuation,
-next block is another speaker and starts lowercase -- gave **44 of 180 blocks**. It is the
-camera re-cut (2.5 above) placing cuts with a word clock borrowed from MAI by text alignment,
-which carries about 2 s of error, five words at this speech rate. The cuts were right about
-the speaker and wrong about the word.
+next block is another speaker and starts lowercase -- gave **44 of 180 blocks**. The first
+explanation, that the camera re-cut's borrowed word clock (about 2 s out) placed the cuts,
+was checked against the file's history and is wrong. The count was 11 of 53 blocks when
+raw.md came off the local ASR, 63 of 184 after `reattribute_blocks.py` re-cut the blocks on
+pyannote's turn boundaries, 43 of 186 just before the camera split, 69 of 182 just after it,
+and 44 once the owner's corrections landed. So the defect is the local pipeline's block
+re-cut: a diarizer boundary falls where the voice changes, and the local ASR's text at that
+second is mid-sentence because the word clock it is cut on is a segment clock, not a word
+clock. The camera split added to it and later passes took that back. It is corpus-wide --
+2,349 of 15,939 blocks by the same heuristic, ep60 (never re-cut) at 81 of 240 -- with the
+caveat that the heuristic over-counts on local-ASR text with poor punctuation.
 
 MAI's own transcript of the same audio has a clock per word and better text (1.3% deletions
 against the local ASR's 9.8%, ENGINEERING_LOG 1.45), but its diarization loses Farhan. So

@@ -40,9 +40,10 @@ and block boundaries, so every prior text correction survives by construction.
    after per-speaker numbers in the message.
 6. **Published files** are regenerated separately and in a batch with
    `rewrite_segments.py`; until then `interview*.md` carries the old labels in the re-cut regions.
-7. **Read the result for mid-sentence cuts.** The borrowed word clock is about 2 s out, so a
-   cut can land five words early or late: ep62 had 44 of 180 blocks ending mid-sentence under
-   one speaker and continuing in lowercase under the next. Count them (block text without
+7. **Read the result for mid-sentence cuts.** ep62 had 44 of 180 blocks ending mid-sentence
+   under one speaker and continuing in lowercase under the next; the corpus has 2,349 of
+   15,939. Most predate the camera split (they come from the diarizer-boundary re-cut), and
+   the split's borrowed clock, about 2 s out, adds a few more. Count them (block text without
    terminal punctuation, next block another speaker starting lowercase). Where the episode
    has MAI words, `mai_camera_raw.py epNN` rebuilds raw.md from MAI's words with the camera's
    names on MAI's own clock instead -- ep62 went from 44 such cuts to 7 (ENGINEERING_LOG
