@@ -27,6 +27,52 @@ ROOT = Path(__file__).resolve().parent.parent
 # (regex, replacement, why). Longest/most-specific first, so a broader pattern cannot
 # eat a more specific one's match.
 CORRECTIONS = [
+    # --- ep62's FELDA chairman succession. The episode walks all five in order, and the
+    # ASR garbled every one of them. Owner-confirmed, and each verified externally.
+    (r"\bTansi\b",
+     "Tan Sri",
+     "OWNER-supplied. 11 occurrences across 6 episodes against 54 correct `Tan Sri` in "
+     "ep62 alone, every one of them followed by a name: Azan Baki, Khairul Adib x2, "
+     "Khalid Ibrahim, Shabery Cheek x2, Ahmad Bahadri x2, Raja Alias, Syarif Ahmad, "
+     "Issa Samad. WORD BOUNDARIES ARE LOAD-BEARING. `konsultansi` contains `tansi`, and a "
+     "bare substring replace turns it into `konsulTan Sri`. It survives only because the "
+     "corpus writes it lower-case; `\\b` and the capital T are both doing work."),
+    (r"Ahmad Bahadri(?![A-Za-z])",
+     "Ahmad Badri",
+     "OWNER-supplied. Tan Sri Ahmad Badri Mohd Zahir, FELDA chairman from July 2026 "
+     "succeeding Ahmad Shabery Cheek, Treasury secretary-general 2018-2020 "
+     "(thestar.com.my/news/nation/2026/07/15/ahmad-badri-appointed-as-new-felda-chairman). "
+     "ep62 describes him as `bekas civil servant, bekas KSP dulu`, which is exactly that "
+     "post. 2 occurrences, both ep62."),
+    (r"Idris Jusuh(?![A-Za-z])|Ida Yusof(?![A-Za-z])",
+     "Idris Jusoh",
+     "OWNER-supplied. Datuk Seri Idris Jusoh, FELDA chairman before Shabery Cheek, who "
+     "succeeded him in July 2023. 3 occurrences, all ep62, all in one passage listing the "
+     "chairmen in order: `bukan Idris Jusuh ke? ... Pengerusi Felda sebelum ... Ida Yusof "
+     "kan Datuk Seri Ida Yusof`. Zero correct spellings existed in the corpus before this."),
+    (r"Syarici(?![A-Za-z])|(?<=sebelum )Syafiq(?![A-Za-z])",
+     "Shabery Cheek",
+     "OWNER-supplied. Two more garbles of the same man, in the same chairman-succession "
+     "passage. `Syafiq` IS ANCHORED ON THE PRECEDING WORD and must stay that way: it "
+     "appears 11 times in the corpus and 10 of those are other people -- Syafiq Iskandar, "
+     "Dato' Seri Syafiq Abdal, Syafiq Din. A bare replace would rename three real men."),
+    (r"(?<=Tan Sri )Syarif(?= tak payah)",
+     "Shahrir",
+     "OWNER-supplied. The bare surname, once, in `Tan Sri Syarif tak payah ambil satu sen "
+     "pun lah gaji` -- the same man, no salary. ANCHORED ON BOTH SIDES because a bare "
+     "`Syarif` is a real Malay name and a real name-part (`Syarifah`), and one unanchored "
+     "surname rule is how a corpus-wide name pass corrupts everything it touches."),
+    (r"Syarif Ahmad(?![A-Za-z])|Syarif Hamad(?![A-Za-z])",
+     "Shahrir Samad",
+     "OWNER-supplied. The same Tan Sri Shahrir Abdul Samad as the entry below, garbled two "
+     "further ways in a different stretch of ep62. The episode dates him itself: `Tan Sri "
+     "Syarif Ahmad, dia kan dilantik jadi pengurusi Felda Januari 2017`. 8 occurrences, "
+     "all ep62. `Ahmad` and `Hamad` are both mishearings of his `Abdul`."),
+    (r"Issa Samad(?![A-Za-z])",
+     "Isa Samad",
+     "OWNER-supplied. Tan Sri Mohd Isa Abdul Samad, FELDA chairman until January 2017 and "
+     "Shahrir's predecessor. 5 occurrences against 16 already-correct `Isa Samad` in the "
+     "same episode."),
     (r"Syarif Samad(?![A-Za-z])",
      "Shahrir Samad",
      "OWNER-supplied. Tan Sri Shahrir Abdul Samad, FELDA chairman from 6 January 2017 "
