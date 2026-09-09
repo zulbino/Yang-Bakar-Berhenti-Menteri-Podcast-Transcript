@@ -115,6 +115,8 @@ MAX_DUPLICATE_SHARE = 0.25
 # miss for a filler like ep56's "mmm...". Healthy output does not do this: the longest run
 # of identical adjacent turns is 2 in MAI's ep62 and 1 in every current raw.md.
 MAX_IDENTICAL_RUN = 4
+# Below this share of the runtime reached by the last stamp, the tail is missing.
+MIN_STAMP_COVERAGE = 0.95
 
 
 def bias_phrases(extra=()):
@@ -145,8 +147,18 @@ def bias_phrases(extra=()):
     return out
 
 
-def definition(phrases):
-    return {
+def definition(phrases, diarize=True):
+    """The request body. Diarization is optional because it is the slow part.
+
+    Measured 2026-09-10 against the southeastasia endpoint: 15 minutes of audio transcribes
+    in 5 seconds without diarization and times out at the gateway's fixed 120 seconds with
+    it (5 minutes took 98 seconds). The day before, 30-minute chunks diarized fine, so this
+    is service load, not our payload. Nothing downstream uses MAI's speaker ids: they are
+    numbered per request, the voiceprint join loses Farhan (1.45), and the split tool takes
+    its clusters from pyannote and its reference from the camera. What is used is the
+    words and their times, which is the fast part.
+    """
+    d = {
         "enhancedMode": {
             "enabled": True,
             "model": MODEL,
@@ -157,12 +169,14 @@ def definition(phrases):
                 "timestamps": "word",
             },
         },
-        "diarization": {"enabled": True},
         "phraseList": {"phrases": phrases},
         # `locales` is deliberately UNSET. The docs call it a very strong hint and warn
         # against it unless you are certain of a single language; these episodes
         # code-switch Malay and English mid-sentence, so auto-detection is the point.
     }
+    if diarize:
+        d["diarization"] = {"enabled": True}
+    return d
 
 
 def _ffprobe():
@@ -392,7 +406,10 @@ def health(turns, runtime_s):
         run = run + 1 if text == previous else 1
         previous = text
         longest_run = max(longest_run, run)
-    last_s = max((t["offset_ms"] or 0) for t in turns) / 1000 if turns else 0
+    # The END of the last turn, not its start: without diarization a whole chunk is one
+    # turn, and its start is the chunk boundary -- 85.9% of ep61's runtime for a transcript
+    # that in fact ran to the end.
+    last_s = max((t["end_ms"] or t["offset_ms"] or 0) for t in turns) / 1000 if turns else 0
     return {
         "turns": len(turns),
         "chunks": len(per_chunk),
@@ -409,10 +426,17 @@ def health(turns, runtime_s):
     }
 
 
-def verdict(h):
+def verdict(h, diarize=True):
     problems = []
+    # A transcript that stops early passes every other check here: the per-chunk speaker
+    # counts are healthy and nothing repeats. The last stamp against the runtime is the
+    # only thing that sees it (2.10 is the incident), so it is a gate, not just a print.
+    if h["stamp_coverage"] is not None and h["stamp_coverage"] < MIN_STAMP_COVERAGE:
+        problems.append(
+            f"last stamp reaches only {h['stamp_coverage']:.1%} of the runtime -- the tail "
+            f"of the episode is missing, same shape as 2.10.")
     for chunk, speakers in h["speakers_per_chunk"].items():
-        if len(speakers) < MIN_SPEAKERS:
+        if diarize and len(speakers) < MIN_SPEAKERS:
             problems.append(
                 f"chunk {chunk} has only {len(speakers)} distinct speaker(s) ({speakers}) -- "
                 f"this is the Speechmatics silent-diarization failure. The transcript may "
@@ -439,6 +463,8 @@ def main():
     ap.add_argument("--chunk-minutes", type=float, default=CHUNK_SECONDS / 60,
                     help="length of each request's audio; above ~30 diarization 503s")
     ap.add_argument("--dry-run", action="store_true", help="print the request, send nothing")
+    ap.add_argument("--no-diarization", action="store_true",
+                    help="words and times only; skips the slow step that times out under load")
     args = ap.parse_args()
 
     out_dir = Path(args.out) if args.out else SANDBOX / f"_mai_{args.video_id}"
@@ -446,7 +472,7 @@ def main():
     audio = Path(args.audio) if args.audio else out_dir / f"{args.video_id}.64k.mono.mp3"
 
     phrases = bias_phrases(args.extra_phrase)
-    defn = definition(phrases)
+    defn = definition(phrases, diarize=not args.no_diarization)
 
     chunk_seconds = int(args.chunk_minutes * 60)
 
@@ -477,7 +503,14 @@ def main():
         if raw_json.exists():
             # Already paid for. A run that dies on chunk 6 must not re-buy chunks 0 to 5.
             payload = json.loads(raw_json.read_text(encoding="utf-8"))
-            start = payload.get("_chunk_start_s", start)
+            # The cache is keyed by chunk INDEX. A run with a different --chunk-minutes
+            # plans different starts under the same indices, and reusing by index alone
+            # silently drops or duplicates the tail of the episode. The start has to match.
+            cached_start = payload.get("_chunk_start_s", start)
+            if abs(cached_start - start) > 2:
+                sys.exit(f"{raw_json.name} was recorded for a chunk starting at {cached_start}s, "
+                         f"this run plans {start}s -- different chunking; use another --out")
+            start = cached_start
             print(f"  chunk {index}: reusing {raw_json.name}")
         else:
             payload = submit(path, defn)
@@ -527,7 +560,7 @@ def main():
         print(f"  last stamp {h['last_stamp_s']:.0f}s of {h['runtime_s']}s "
               f"({h['stamp_coverage']:.1%})")
 
-    problems = verdict(h)
+    problems = verdict(h, diarize=not args.no_diarization)
     if problems:
         print("\nREFUSING to write raw.md:")
         for p in problems:
