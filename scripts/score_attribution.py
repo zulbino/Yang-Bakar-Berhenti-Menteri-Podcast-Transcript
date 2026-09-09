@@ -49,7 +49,7 @@ def per_second_rttm(path):
         p = line.split()
         a, d = float(p[3]), float(p[4])
         for s in range(int(a), int(a + d)):
-            out[s] = p[7]
+            out[s] = p[7].replace("_", " ")
     return out
 
 

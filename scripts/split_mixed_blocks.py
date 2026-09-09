@@ -255,7 +255,7 @@ def main():
         trip = []
         for line in open(diar):
             q = line.split()
-            trip.append((float(q[3]), float(q[3]) + float(q[4]), q[7]))
+            trip.append((float(q[3]), float(q[3]) + float(q[4]), q[7].replace("_", " ")))
     else:
         trip = json.loads(Path(diar).read_text(encoding="utf-8"))
     pya = per_second(trip)
@@ -394,7 +394,7 @@ def main():
             p = line.split()
             s0, d = float(p[3]), float(p[4])
             for s in range(int(s0), int(s0 + d)):
-                ref[s] = p[7]
+                ref[s] = p[7].replace("_", " ")
         def word_score(assign):
             hit = Counter(); tot = Counter()
             for k, t in enumerate(times):
@@ -423,7 +423,8 @@ def main():
             gain[tag.strip()] = (allhit, alltot, dict(hit), dict(tot))
         b_hit, b_tot, bh, bt = gain["before"]
         a_hit, a_tot, ah, at = gain["after"]
-        worse = [n for n in bt if ah.get(n, 0)/max(at.get(n, 1), 1) < bh[n]/max(bt[n], 1) - 0.02]
+        worse = [n for n in bt
+                 if ah.get(n, 0)/max(at.get(n, 1), 1) < bh.get(n, 0)/max(bt[n], 1) - 0.02]
         if a_hit < b_hit or worse:
             print(f"  REFUSING to write: overall {b_hit}->{a_hit}, worse for {worse}")
             sys.exit(2)

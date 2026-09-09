@@ -373,7 +373,9 @@ def cmd_reference(a):
 
     with open(a.out + ".rttm", "w") as f:
         for x, y, n in turns:
-            f.write(f"SPEAKER {a.uri} 1 {x:.2f} {y - x + 1:.2f} <NA> <NA> {n} <NA> <NA>\n")
+            # RTTM is whitespace-delimited: a name with a space would split into fields.
+            f.write(f"SPEAKER {a.uri} 1 {x:.2f} {y - x + 1:.2f} <NA> <NA> "
+                    f"{n.replace(' ', '_')} <NA> <NA>\n")
     with open(a.out + ".uem", "w") as f:
         for x, y, _ in turns:
             f.write(f"{a.uri} 1 {x:.2f} {y + 1:.2f}\n")
