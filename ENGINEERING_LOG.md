@@ -3034,6 +3034,83 @@ identical reference text can pair to the wrong audio, which costs most on a high
 The MAI rows are keyed by row id and unaffected.
 
 
+### 1.55: The first diarization measurement, and the shipped labels lose a fifth of Haziq
+
+Every DER in this file up to here came from someone else's corpus. There has never been a
+speaker reference for this podcast, so the attribution work has been steered by argument.
+`scripts/camera_speakers.py` builds one from the video: LR-ASD scores whether the visible
+mouth matches the audio, YuNet plus SFace say whose face it is, and the two together give a
+per-second label wherever exactly one identified person is speaking. On ep62 that covers
+**12,473 of 14,101 seconds, 88%**, written as `data/camera_ref_ep62.rttm` with a matching
+UEM.
+
+**DER and JER at collar 0 with overlap counted, inside the UEM. Per-speaker recall on the
+12,079 seconds every system labels, so no column rests on a different denominator:**
+
+| system | DER | JER | Rafizi | Haziq | Farhan |
+|---|---|---|---|---|---|
+| raw.md as shipped | **3.0%** | 33.7% | 99% | **67%** | 76% |
+| pyannote 3.x thr=0.55 | 4.6% | **21.6%** | 99% | **85%** | 75% |
+| MAI + voiceprint stitching | 5.3% | 51.4% | 96% | 86% | **11%** |
+| MAI, chunk ids unstitched | 87.3% | 93.2% | -- | -- | -- |
+
+**DER is the wrong headline for this corpus and JER is the right one.** Rafizi holds 95.5%
+of the speaking time, so getting him right and losing both co-hosts still scores well. That
+is exactly what the shipped file does: best DER of any row at 3.0%, worst per-speaker recall
+on Haziq.
+
+**The published transcript is worse than the diarizer it was built from.** pyannote's raw
+clustering recovers 85% of Haziq's speaking time; ep62 as shipped recovers 67%. Eighteen
+points were lost in the naming stage after diarization, and 153 of Haziq's 457 seconds are
+attributed to Rafizi. The three longest disagreements were checked frame by frame: at
+1:59:31, 0:51:28 and 1:46:04 the camera holds a sustained single close shot of Haziq at his
+laptop, mouth open, while raw.md credits those seconds to Rafizi.
+
+**MAI's Farhan problem now has a number.** It matches pyannote on Haziq at 86% and recovers
+11% of Farhan, sending 53 of his 103 seconds to Rafizi and 38 to Haziq. Unstitched, MAI's
+per-chunk ids give 22 clusters for 3 people and 87.3% DER -- that is what the API returns
+before the voiceprint join repairs it, and it is why the join exists.
+
+**What the reference cannot be used for.** Rafizi's identity is anchored independently, by
+the owner's ear at three timestamps and by LR-ASD agreeing at all three. Haziq's and
+Farhan's names came from which face the camera holds during turns already labelled that way
+-- a 52% and 62% plurality, not a proof -- so those two names are **not independent of
+raw.md** and agreement figures involving them are partly circular. The headline finding
+survives that, because "Haziq's seconds went to Rafizi" only needs the Rafizi anchor.
+
+**Four defects hit while building it, each of which produces a plausible-looking wrong
+answer rather than an error.**
+
+`-ss` before `-i` with `-c:v copy` desyncs every chunk. Stream-copied video starts at the
+nearest keyframe before the requested time and then resets its timestamps to zero, while
+re-encoded audio starts exactly on time. Chunks came out 600.24s and 600.16s against
+600.000s of audio: six frames of lip-sync offset, fed to a model whose only job is judging
+lip-sync, plus the same error in every timestamp the reference emits. Coarse-seek 20s early,
+then seek accurately on the output and re-encode -- 15,000 frames, 600.000s, frames matching
+the source at +0.
+
+Eyewear splits one person into several face clusters. Rafizi puts his glasses on partway
+through and owns five of the episode's eight clusters. One-cluster-one-speaker would have
+built a six-speaker reference for a three-person episode.
+
+No global similarity threshold separates these three. Rafizi's within-person minimum is 0.35
+and his maximum against Haziq is 0.40 -- they overlap, so every cut-off misclassifies
+somebody. Nearest-neighbour argmax over a multi-vector gallery works because a real match
+lands at 0.86-0.98 and the one stranger in the episode scored 0.22.
+
+Greedy per-label argmax fabricated a per-speaker result. Mapping each system label to the
+reference speaker it covers most let MAI's `Haziq` label claim Rafizi (445s against 389s),
+which reported MAI recalling **0%** of Haziq when it had in fact labelled 389 of his 457
+seconds correctly. DER uses a maximum-weight matching; so must any per-speaker breakdown
+sitting beside it.
+
+**Validation, before any of the above was believed.** The chunked run reproduces the 11
+clips the method was validated on at 100% sign agreement and r=0.88. It gets 5 of 5
+owner-confirmed timestamps right, including 0:05:58, where a general-purpose video model
+read "mouth closed, off-camera host speaks" and three independent sources now say Rafizi.
+The speaking-score threshold was swept rather than chosen: coverage is flat from -1.0 to 0.0
+and falls away above it, so the default sits at the knee.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider

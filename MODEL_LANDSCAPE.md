@@ -128,11 +128,69 @@ Reading it:
   has also had six degenerated filler runs collapsed, which removed spurious words and
   therefore flatters its insertion rate.
 
+## Diarization, measured against the camera 2026-09-09
+
+Source: `data/camera_ref_ep62.rttm`, built by `scripts/camera_speakers.py` from ep62's video.
+LR-ASD scores whether the visible mouth matches the audio; YuNet plus SFace say whose face it
+is. A second is labelled only where exactly one identified person is speaking, which covers
+**12,473 of 14,101 seconds, 88%**. Scored at **collar 0 with overlap counted**, inside the UEM.
+
+| system | DER | JER | Rafizi | Haziq | Farhan |
+|---|---|---|---|---|---|
+| raw.md as shipped | **3.0%** | 33.7% | 99% | 67% | 76% |
+| pyannote 3.x thr=0.55 | 4.6% | **21.6%** | 99% | **85%** | 75% |
+| MAI + voiceprint stitching | 5.3% | 51.4% | 96% | 86% | 11% |
+| MAI, chunk ids unstitched | 87.3% | 93.2% | -- | -- | -- |
+
+The last three columns are per-speaker recall under a maximum-weight one-to-one mapping,
+computed on the 12,079 seconds every system labels so that no column rests on a different
+denominator (`data/_common_basis.py`). Greedy per-label mapping is wrong here and produces
+a fabricated result -- see `ENGINEERING_LOG.md` 1.55.
+
+**Read JER, not DER.** Rafizi holds 95.5% of ep62's speaking time, so a system that gets him
+right and loses both co-hosts still posts an excellent DER. The shipped file does exactly
+that -- best DER in the table, worst recall on Haziq.
+
+**pyannote beats what ships, on the co-host.** 85% against 67%: eighteen points of Haziq are
+lost in the naming stage that runs after diarization, not by the diarizer. That is where the
+attribution work should go next.
+
+**MAI's chunking is the whole of its 87.3%.** The API caps out near 30 minutes, so ep62 went
+through as eight requests whose speaker ids have no relation to each other -- 22 clusters for
+3 people. The voiceprint join repairs it to 5.3%. What the join does not repair is Farhan, at
+11% recall.
+
+Caveats that cut against these numbers, not for them:
+
+- **One episode.** Nothing here generalises until a second reference exists.
+- **Haziq's and Farhan's names are not independent of raw.md.** They were assigned from
+  which face the camera holds during turns already labelled that way (52% and 62%
+  pluralities). Only Rafizi is independently anchored, by the owner's ear. Findings that
+  need only "Rafizi or not" are safe; findings that turn on telling Haziq from Farhan are not.
+- **12% of the episode is unmeasured**, where the camera is on a graphic, a face is turned
+  away, or two mouths move at once.
+- The reference agrees with raw.md on 97% of covered seconds, so it is auditing the labels,
+  not replacing them.
+
+Reproduce with:
+
+    python scripts/camera_speakers.py census   data/_video/0M5hweswMpE_480p.mp4
+    python scripts/camera_speakers.py cluster  data/_video/0M5hweswMpE_480p.mp4
+    python scripts/camera_speakers.py gallery  --name 5=Rafizi --name 50=Haziq --name 6=Farhan
+    python scripts/camera_speakers.py run      data/_video/0M5hweswMpE_480p.mp4 audio/0M5hweswMpE.m4a
+    python scripts/camera_speakers.py reference 0M5hweswMpE --out data/camera_ref_ep62
+
 ## Open
 
+- **Closed 2026-09-09:** diarization now has a real number on this corpus. The gap is in the
+  naming stage after the diarizer, not in the diarizer.
 - **Closed 2026-09-08:** MAI-Transcribe-2 now has a benchmark number, and it is the best of
   the sixteen rows measured. No engine change is warranted; the open question was whether we
   were on the wrong engine, and we are not.
+- **Not measured, and both need a decision first:** NVIDIA Sortformer needs a NeMo install,
+  which pulls a large dependency tree -- installing torchvision already upgraded torch
+  2.13 to 2.14 unasked once. pyannoteAI Precision-2 needs an account the owner would have to
+  create.
 - **Still worth measuring:** Speechmatics `en_ms`, the only purpose-built Malay-English
   bilingual pack any vendor ships, which nobody has published a number for. ElevenLabs
   Scribe v2 is now less interesting on accuracy (4.83% against MAI's 3.96%) but still has

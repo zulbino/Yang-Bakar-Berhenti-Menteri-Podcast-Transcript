@@ -622,7 +622,50 @@ nearly a verbatim copy, so it passes a completeness gate by editing very little.
 `DeploymentNotFound` until a model is deployed in the portal, so the credit that expires
 around 2026-10-07 is unavailable to this stage until then.
 
+## Reading the speaker off the camera
+
+`scripts/camera_speakers.py` builds a speaker reference from the video instead of from
+audio. The show cuts to whoever is talking, so the camera is an observer of the answer that
+no audio model can be confounded with. Three MIT models do the work: LR-ASD asks whether the
+visible mouth matches the audio, YuNet plus SFace ask whose face it is, and PySceneDetect
+finds the shot boundaries. Five stages, each resumable: `census`, `cluster`, `gallery`,
+`run`, `reference`.
+
+The output is an RTTM plus a **UEM**, and the UEM carries as much information as the RTTM. A
+camera-derived reference is certain in some places and blind in others, so scoring a
+diarizer where the reference has no opinion measures noise. Report UEM coverage next to any
+DER computed against it -- 88% on ep62.
+
+`cluster` stops and writes a contact sheet for a human to look at. Naming a face is the one
+step with no independent check, and the standing rule here is that a speaker is never
+inferred from text.
+
+Four defects found while building it, each of which yields a plausible wrong answer rather
+than an error:
+
+1. **`-ss` before `-i` with `-c:v copy` desyncs every chunk.** Stream-copied video starts at
+   the nearest keyframe before the requested time, then resets timestamps to zero, while
+   re-encoded audio starts on time. Six frames of offset, fed to a lip-sync model. Fix:
+   coarse-seek early, seek accurately on the output, re-encode.
+2. **Eyewear splits one person into several face clusters.** Rafizi owns five of ep62's
+   eight. Use a multi-vector gallery per person, matched on maximum similarity, not a
+   centroid.
+3. **No global similarity threshold separates these three.** Within-person minimum 0.35,
+   cross-person maximum 0.40. Only nearest-neighbour argmax works.
+4. **Greedy label mapping fabricates per-speaker results.** It reported MAI recalling 0% of
+   Haziq when MAI had labelled 389 of his 457 seconds correctly. Use maximum-weight
+   matching, as DER does.
+
+The measured results are in `MODEL_LANDSCAPE.md`; the method and its validation are in
+`ENGINEERING_LOG.md` 1.55.
+
 ## Known limitations
+
+- **The gap is in the naming stage, not the diarizer.** Measured on ep62 against the camera
+  reference: pyannote recovers 85% of Haziq's speaking time and the shipped `raw.md`
+  recovers 67%. Eighteen points are lost after diarization. Corpus-level DER hides this
+  completely -- the shipped file has the *best* DER in the table at 3.0%, because Rafizi
+  holds 95.5% of the audio. Read JER.
 
 - **Turn-level attribution is not solved, and it is the largest open defect.** 341
   published turns of 400+ words across 63 episodes sit under one label, and every checker
