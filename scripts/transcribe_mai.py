@@ -63,6 +63,7 @@ import argparse
 import json
 import os
 import sys
+import time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -274,17 +275,30 @@ def submit(audio_path, defn):
         sys.exit(f"{audio_path.name} is {size/1e6:.0f} MB, over the {MAX_UPLOAD_BYTES/1e6:.0f} MB "
                  f"cap -- transcode to 64kbps mono mp3 first")
 
-    with audio_path.open("rb") as fh:
-        response = requests.post(
-            endpoint(),
-            headers={"Ocp-Apim-Subscription-Key": key},
-            files={"audio": (audio_path.name, fh, "audio/mpeg")},
-            data={"definition": json.dumps(defn)},
-            timeout=60 * 60,
-        )
-    if response.status_code >= 300:
+    # 408 (service-side "The operation was timeout"), 429 and 5xx are transient: ep61's first
+    # chunk drew a 408 after two minutes on 2026-09-09 and the same request had returned 200
+    # on ep62 the day before. A transient status is retried with backoff; anything else
+    # still stops the run, because a 4xx on the definition will not fix itself.
+    for attempt in range(4):
+        with audio_path.open("rb") as fh:
+            response = requests.post(
+                endpoint(),
+                headers={"Ocp-Apim-Subscription-Key": key},
+                files={"audio": (audio_path.name, fh, "audio/mpeg")},
+                data={"definition": json.dumps(defn)},
+                timeout=60 * 60,
+            )
+        if response.status_code < 300:
+            return response.json()
+        if response.status_code in (408, 429) or response.status_code >= 500:
+            wait = 60 * 2 ** attempt
+            print(f"  HTTP {response.status_code} on {audio_path.name}, attempt {attempt + 1}/4, "
+                  f"retrying in {wait}s: {response.text[:200]}", flush=True)
+            time.sleep(wait)
+            continue
         sys.exit(f"HTTP {response.status_code}: {response.text[:2000]}")
-    return response.json()
+    sys.exit(f"HTTP {response.status_code} after 4 attempts on {audio_path.name}: "
+             f"{response.text[:2000]}")
 
 
 def phrases_of(payload):
