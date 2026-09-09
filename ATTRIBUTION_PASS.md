@@ -7,6 +7,45 @@ the next pass costs a fraction of what the first one did.
 Read [ENGINEERING_LOG.md 1.43](ENGINEERING_LOG.md#143-sensing-the-speaker-instead-of-trusting-the-label-measured-against-gold-data)
 once for why the method is shaped this way. You do not need to re-derive any of it.
 
+## The re-cut against the camera, as run from 2026-09-10
+
+This supersedes the sensing-based pass below for episodes that have a video. It is what
+`scripts/nightly_recut.py` runs unattended; the steps are listed so a person can run or
+repair any one of them. Nothing here regenerates `raw.md`: words never change, only labels
+and block boundaries, so every prior text correction survives by construction.
+
+1. **Evidence, overnight, per episode** (`nightly_recut.py epNN ...`): audio if missing;
+   MAI words and times with `transcribe_mai.py --no-diarization` (its diarization step is
+   the part that times out, and nothing downstream uses its speaker ids); pyannote at
+   `clustering.threshold=0.55`; the 480p video; `camera_speakers.py run` into
+   `data/_camera_tracks_<vid>/` (its own directory: the tool refuses to mix episodes) and
+   `reference` with `--runtime`. The video is deleted afterwards.
+2. **Guests.** `guest_gallery.py epNN` names a guest's face only when exactly one real
+   label in `raw.md` is not in the gallery AND one face cluster holds at least 90% of the
+   unidentified talking seconds. ep60: 1,659 of 1,660 seconds, one label, named. Anything
+   else stops for a person. Rebuild the reference with `--gallery data/_face_gallery_<vid>.json`.
+   Without this the guest's speech leaves the UEM and the gate cannot see them at all.
+3. **Dry run and preview.** `split_mixed_blocks.py epNN --reference data/camera_ref_epNN.rttm
+   --preview data/_nightly/epNN_preview_raw.md`. Read the split blocks it prints. The MAI
+   clock and the caption clock gave the same result on ep61 (17 vs 18 splits), so an
+   episode without MAI still runs. Exit 2 means the gate refused; ep60 was refused because
+   the file as shipped already scored 97.5% and the proposal did not beat it.
+4. **Owner decisions.** `check_owner_decisions.py epNN data/_nightly/epNN_preview_raw.md`
+   locates every recorded decision on the episode by its own text and requires the
+   candidate to keep the owner's label; the gold passage region must be byte-identical.
+   Exit 1 blocks the write. Also `git log` the episode for findings that never reached
+   `data/` -- they exist.
+5. **Write and verify.** `--write`, then `verify_words_unchanged.py epNN HEAD` (a bad ref is
+   now a failure, not a skip), then the three checker baselines. Commit with the before and
+   after per-speaker numbers in the message.
+6. **Published files** are regenerated separately and in a batch, once the segment rewrite
+   pipeline exists; until then `interview*.md` carries the old labels in the re-cut regions.
+
+Numbers so far, word-level against the camera: ep61 Haziq 75% -> 87%, Rafizi and Farhan
+unchanged, 17 of 203 blocks split. ep60 unchanged (refused, 97.5% as shipped; Farhan at 19%
+of 100 camera seconds is the open defect, and no pyannote cluster is his, so a split cannot
+reach it).
+
 ## The rule that matters most
 
 **Long evidence is stable. Short evidence is not.**
