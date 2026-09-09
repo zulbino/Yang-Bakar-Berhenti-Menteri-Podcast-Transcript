@@ -215,9 +215,10 @@ def main():
     ap.add_argument("--write", action="store_true")
     a = ap.parse_args()
 
-    hits = glob.glob(str(ROOT / f"episodes/*/*{a.episode}*/raw.md"))
-    if not hits:
-        sys.exit(f"no raw.md for {a.episode}")
+    hits = glob.glob(str(ROOT / f"episodes/*/*-{a.episode}-*/raw.md"))
+    if len(hits) != 1:
+        sys.exit(f"{len(hits)} raw.md match {a.episode}; both shows have ep01-ep06, "
+                 f"so name the episode by its slug: {hits}")
     path = Path(hits[0])
     text = path.read_text(encoding="utf-8")
     head, body = text.split("# Raw Transcript", 1)
@@ -270,13 +271,27 @@ def main():
     for c, n in sorted(cname.items()):
         print(f"  {c} -> {n} ({vote[c][n]}/{sum(vote[c].values())})")
 
-    out, nsplit = [], 0
+    # A SPEAKER WHO OWNS NO CLUSTER CANNOT SURVIVE A SPLIT. Cluster names come from a
+    # word-count vote, so a minority speaker who shares every cluster with a louder one is
+    # never a cluster's name. Inside such a speaker's block every word maps to somebody
+    # else's run, `keep_name` never matches, and a split silently deletes the label from
+    # the file -- ep61's owner-confirmed Farhan turn has exactly this shape. Those blocks
+    # are left whole. This script may cut blocks; it may not erase a speaker.
+    named = set(cname.values())
+    protected = Counter()
+
+    out, nsplit = [], 0          # entries are (stamp_seconds, label, text, block_index)
     wi = 0
     for i, (stamp, who, txt) in enumerate(blocks):
         bw = txt.split()
         label = short(who)
         if not bw:
-            out.append((secs(stamp), label, txt))
+            out.append((secs(stamp), who.strip(), txt, i))
+            continue
+        if label not in named:
+            protected[who.strip()] += 1
+            out.append((secs(stamp), who.strip(), txt, i))
+            wi += len(bw)
             continue
         runs, cur = [], None
         for k, w in enumerate(bw):
@@ -307,30 +322,47 @@ def main():
         runs = snap_to_sentences(runs)
         if len(runs) > 1:
             nsplit += 1
-            for r in runs:
+            for k, r in enumerate(runs):
                 # keep the file's own label text, alias and all, for the run that kept the
                 # block's speaker -- `Farhan (Pa'an)` must not silently become `Farhan`
                 nm = who.strip() if r["n"] == label else canon.get(r["n"], r["n"])
-                out.append((r["t0"], nm, " ".join(r["w"])))
+                # The first piece keeps the block's own stamp, like an unsplit block does.
+                # Only the later pieces take the clock from the word times, so a file whose
+                # stamps drift does not get its existing stamps rewritten by a split.
+                out.append((secs(stamp) if k == 0 else r["t0"], nm, " ".join(r["w"]), i))
         else:
             # A BLOCK THAT DOES NOT SPLIT KEEPS ITS ORIGINAL LABEL AND STAMP. Overwriting
             # it with pyannote's name is the rename-only change that was already measured
             # and rejected: it takes Haziq from 65% to 63%, and it cost Farhan 12 words at
             # block edges here. This script may cut blocks; it may not re-name them.
-            out.append((secs(stamp), who.strip(), txt))
+            out.append((secs(stamp), who.strip(), txt, i))
         wi += len(bw)
+    if protected:
+        print("  left whole, speaker owns no cluster: "
+              + ", ".join(f"{n} x{c}" for n, c in protected.most_common()))
 
     # guard 1: the word sequence must be identical, in order
-    before = [w for _, _, t in [(0, 0, b[2]) for b in blocks] for w in t.split()]
-    after = [w for _, _, t in out for w in t.split()]
+    before = [w for b in blocks for w in b[2].split()]
+    after = [w for _, _, t, _ in out for w in t.split()]
     if before != after:
         sys.exit(f"REFUSING: word sequence changed, {len(before)} -> {len(after)}")
-    # guard 3: stamps strictly increasing
-    bad = [i for i in range(1, len(out)) if out[i][0] <= out[i - 1][0]]
-    if bad:
-        print(f"  {len(bad)} non-increasing stamps, nudging by 1s")
-        for i in bad:
-            out[i] = (out[i - 1][0] + 1, out[i][1], out[i][2])
+    # guard 3: stamps strictly increasing. A backward stamp here is the FILE's stamp being
+    # off against the word clock (ep61: 159 of 203 stamps more than 10s out), not a wrong
+    # cut, because the first piece of every split keeps its block's own stamp. A small
+    # collision is nudged and reported; a large one means the episode needs retiming
+    # before it is re-cut, and that is refused rather than papered over.
+    MAX_NUDGE_S = 30
+    nudged, worst = 0, 0
+    for i in range(1, len(out)):
+        if out[i][0] <= out[i - 1][0]:
+            worst = max(worst, out[i - 1][0] - out[i][0])
+            nudged += 1
+            out[i] = (out[i - 1][0] + 1,) + out[i][1:]
+    if nudged:
+        print(f"  {nudged} non-increasing stamps nudged by 1s, worst collision {worst:.0f}s")
+    if worst > MAX_NUDGE_S:
+        sys.exit(f"REFUSING: a split lands {worst:.0f}s before the previous block's stamp; "
+                 f"retime the episode first (retime_blocks.py)")
     print(f"{len(blocks)} blocks -> {len(out)} ({nsplit} split), word sequence identical")
 
     if a.reference:
@@ -352,7 +384,7 @@ def main():
             return hit, tot
         old_assign = [short(blocks[owner[k]][1]) for k in range(len(words))]
         new_assign = []
-        for _, nm, txt in out:
+        for _, nm, txt, _ in out:
             for _ in txt.split():
                 new_assign.append(short(nm))
         print(f"\nWORD-level attribution against {Path(a.reference).name}:"
@@ -371,15 +403,41 @@ def main():
         worse = [n for n in bt if ah.get(n, 0)/max(at.get(n, 1), 1) < bh[n]/max(bt[n], 1) - 0.02]
         if a_hit < b_hit or worse:
             print(f"  REFUSING to write: overall {b_hit}->{a_hit}, worse for {worse}")
-            return
+            sys.exit(2)
 
     if not a.write:
         print("\ndry run. add --write to apply")
         return
-    lines = [f"[{fmt(t)}] {nm}: {txt}" for t, nm, txt in out]
-    path.write_text(head + "# Raw Transcript\n\n" + "\n\n".join(lines) + "\n",
+    path.write_text(head + "# Raw Transcript" + rebuild(body, len(blocks), out),
                     encoding="utf-8", newline="")
     print(f"\nwritten: {path}")
+
+
+def rebuild(body, nblocks, out):
+    """Rebuild the body line by line, replacing only the block lines.
+
+    Rebuilding from `out` alone deleted every line that is not a `[stamp] Label:` block --
+    37 stage directions such as `[00:00] [Music / Intro]` across 21 episodes -- and guard 1
+    could not see it, because both sides of its comparison were built from the matched
+    blocks only. `out` entries are (stamp_seconds, label, text, block_index).
+    """
+    by_block = defaultdict(list)
+    for t, nm, txt, i in out:
+        by_block[i].append(f"[{fmt(t)}] {nm}: {txt}")
+    new_lines, j = [], 0
+    for line in body.split("\n"):
+        if BLOCK_RE.fullmatch(line):
+            new_lines.append("\n\n".join(by_block[j]))
+            j += 1
+        else:
+            new_lines.append(line)
+    if j != nblocks:
+        sys.exit(f"REFUSING: matched {j} block lines while parsing found {nblocks}")
+    new_body = "\n".join(new_lines)
+    kept = [l for l in body.split("\n") if l.strip() and not BLOCK_RE.fullmatch(l)]
+    if any(l not in new_body for l in kept):
+        sys.exit("REFUSING: a non-block line would be lost")
+    return new_body
 
 
 if __name__ == "__main__":

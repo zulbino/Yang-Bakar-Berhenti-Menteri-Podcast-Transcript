@@ -59,6 +59,7 @@ a speaker is never inferred from text.
 import argparse
 import glob
 import json
+import os
 import pickle
 import shutil
 import subprocess
@@ -69,6 +70,10 @@ from pathlib import Path
 
 import cv2
 import numpy as np
+
+# Hard rule on this machine: only GPU 0 (RTX 2070) is usable. Columbia_test.py calls .cuda()
+# in a subprocess, which inherits this environment, so setting it here covers both.
+os.environ.setdefault("CUDA_VISIBLE_DEVICES", "0")
 
 ROOT = Path(__file__).resolve().parent.parent
 MODELS = ROOT / "data" / "_facemodels"
@@ -233,6 +238,17 @@ def cmd_run(a):
     det, rec = _models()
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
+    # Chunk files are named by offset only, and an existing chunk is skipped. Before this
+    # guard, running a second episode into the same --out silently reused the first
+    # episode's chunks and reported full progress having processed nothing.
+    meta = out / "meta.json"
+    stem = Path(a.video).name
+    if meta.exists():
+        prior = json.loads(meta.read_text())["video"]
+        if prior != stem:
+            sys.exit(f"{out} already holds tracks for {prior}, not {stem}; use another --out")
+    else:
+        meta.write_text(json.dumps({"video": stem}))
     cap = cv2.VideoCapture(a.video)
     fps = cap.get(cv2.CAP_PROP_FPS) or 25
     total = cap.get(cv2.CAP_PROP_FRAME_COUNT) / fps
@@ -308,25 +324,39 @@ def cmd_reference(a):
         second = ranked[1][0] if len(ranked) > 1 else 0.0
         return name if best >= a.floor and best - second >= a.margin else None
 
+    meta = Path(a.tracks) / "meta.json"
+    if meta.exists() and a.uri not in json.loads(meta.read_text())["video"]:
+        sys.exit(f"{a.tracks} holds tracks for {json.loads(meta.read_text())['video']}, "
+                 f"not {a.uri}")
+
+    # A face the gallery cannot name is still a face whose mouth LR-ASD scored. It cannot
+    # be labelled, but it must still count toward the overlap test: dropping it credited a
+    # guest's crosstalk to whichever host was identified, and dropped the guest's own solo
+    # speech from the UEM as if nobody had spoken. On ep62, where all three people are in
+    # the gallery, this changes 2 seconds; on a guest episode it is the whole guest.
+    UNKNOWN = "?"
     per_sec, ntr, nid = defaultdict(dict), 0, 0
     for p in sorted(glob.glob(str(Path(a.tracks) / "chunk_*.json"))):
         for tr in json.loads(Path(p).read_text()).get("tracks", []):
             ntr += 1
             name = identify(tr.get("vec"))
-            if not name:
-                continue
-            nid += 1
+            if name:
+                nid += 1
+            else:
+                name = UNKNOWN
             for s, v in tr["per_sec"].items():
                 s = int(s)
                 per_sec[s][name] = max(per_sec[s].get(name, -9.0), v)
 
-    ref, overlap, quiet = {}, 0, 0
+    ref, overlap, quiet, unknown = {}, 0, 0, 0
     for s, who in per_sec.items():
         talking = [n for n, v in who.items() if v > a.speak]
-        if len(talking) == 1:
+        if len(talking) == 1 and talking[0] != UNKNOWN:
             ref[s] = talking[0]
         elif len(talking) > 1:
             overlap += 1
+        elif talking:
+            unknown += 1
         else:
             quiet += 1
 
@@ -348,11 +378,13 @@ def cmd_reference(a):
         for x, y, _ in turns:
             f.write(f"{a.uri} 1 {x:.2f} {y + 1:.2f}\n")
 
-    span = int(max(per_sec) if per_sec else 0) + 1
+    # Coverage over the episode's runtime, not over the last second a face was seen: a tail
+    # with no gallery face (a guest's sign-off, credits) otherwise inflates the figure.
+    span = a.runtime or int(max(per_sec) if per_sec else 0) + 1
     print(f"tracks {ntr}, identified {nid} ({nid / max(ntr, 1):.0%})")
-    print(f"{span}s spanned   CONFIDENT {len(ref)}s = {len(ref) / max(span, 1):.0%} UEM coverage")
-    print(f"  excluded: overlap {overlap}s, on-screen-but-silent {quiet}s, "
-          f"no identified face {span - len(per_sec)}s")
+    print(f"{span}s runtime   CONFIDENT {len(ref)}s = {len(ref) / max(span, 1):.0%} UEM coverage")
+    print(f"  excluded: overlap {overlap}s, unknown face talking {unknown}s, "
+          f"on-screen-but-silent {quiet}s, no face {span - len(per_sec)}s")
     print(f"  {len(turns)} turns -> {a.out}.rttm / {a.out}.uem")
     for n, v in Counter(ref.values()).most_common():
         print(f"    {n:10} {v:>6}s  {v / max(len(ref), 1):>5.1%}")
@@ -401,6 +433,7 @@ def main():
     c.add_argument("--margin", type=float, default=MARGIN)
     c.add_argument("--speak", type=float, default=SPEAK)
     c.add_argument("--out", default="data/camera_reference")
+    c.add_argument("--runtime", type=int, help="episode length in seconds, for the coverage denominator")
     c.set_defaults(fn=cmd_reference)
 
     a = ap.parse_args()

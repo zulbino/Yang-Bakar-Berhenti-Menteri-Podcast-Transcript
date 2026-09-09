@@ -3205,6 +3205,62 @@ Also fixed, all caught by the owner reading the file and all verified in context
 applied corpus-wide: of the corpus's 22 instances of "threats", ep13's reads "threats,
 ancaman" -- the English word followed by its Malay gloss -- and is correct.
 
+### 1.58: A four-way code audit before the corpus re-cut, and the first fixes
+
+Four read-only reviews over `scripts/` on 2026-09-09, one per pipeline stage, found 40
+confirmed defects. None had produced a visible error; each reported success or an improving
+number. The list lives in the reviewers' output and in the fixes below; the recurring
+shapes are worth naming because a 68-episode batch would repeat each one 68 times.
+
+**Rebuild-from-parsed-blocks deletes what the parser did not match.** `split_mixed_blocks.py`
+and `reattribute_blocks.py` both wrote raw.md from their block list alone, so every line
+that is not a `[stamp] Label:` block vanished: 37 stage directions across 21 episodes. The
+word-count guard could not see it, because both sides of its comparison were built from the
+matched blocks. ep62 has no such line, which is why it never showed. `split_mixed_blocks.py`
+now rebuilds line by line and replaces only the block lines; tested on ep08 (145 blocks, 3
+stage lines) as an identity and with a synthetic split. `reattribute_blocks.py` still has
+the bug and is not to be used with `--write` until it gets the same treatment.
+
+**A speaker who owns no cluster is erased by a split.** Cluster names come from a word-count
+vote, so a minority speaker who shares every cluster never names one. Inside their block
+every word maps to someone else's run and the label disappears. ep61's Farhan turn at
+2:51:41, confirmed by the owner by ear and by video, has exactly this shape. Blocks whose
+label names no cluster are now left whole and reported.
+
+**Default output paths were single-episode.** `camera_speakers.py run` skips any chunk file
+that already exists in `--out`, and chunk names carry only the offset. Running a second
+episode into the default directory would have reported full progress having processed
+nothing, and `reference` would have labelled ep62's tracks with the new episode's uri. The
+tracks directory now records its video and both stages refuse a mismatch.
+
+**An unidentified face that is talking never vetoed.** Tracks the gallery could not name
+were dropped before the "exactly one person talking" test, so on a guest episode the
+guest's crosstalk becomes a confident host label and the guest's solo speech leaves the UEM
+as if nobody spoke. Unknown faces now count toward overlap. On ep62, where all three people
+are in the gallery, the rebuilt reference differs from the tracked one by 2 seconds.
+
+**Exit codes said nothing.** The split tool exited 0 whether it wrote, refused, or dry-ran;
+`verify_words_unchanged.py` exited 0 on a bad git ref after printing "skipped". A batch
+loop reads exit codes. Refusal is now exit 2 and a bad ref is a failure.
+
+**Still open from the audit, in the order they block work:** `gate_rewrite.py` promotes a
+candidate that falls below the generic-label floor, which its own docstring says is only
+possible by inventing attributions, and its cast check counts `Muzik/Intro` and `Multiple
+speakers` as speakers on 32 episodes; `transcribe_mai.py` keys its chunk cache by index
+only, so a different `--chunk-minutes` silently drops or duplicates the tail; the
+`_drop_reemitted_prefix` stitcher in `lib_gemini.py` can glue a cut turn mid-word and append
+it again in full on the live rewrite path; `dedupe_raw.parse_caption_words` drops the first
+word of every caption cue and three checkers still use it (1.52 fixed one of four); QA
+waivers are not bound to the raw.md they judged; `score_attribution.py` scores stamp windows
+and never scores the last block.
+
+**The unattended run.** `scripts/nightly_recut.py` does the evidence gathering for a list of
+episodes newest first, writes nothing to `episodes/`, and leaves one JSON per episode plus a
+summary table under `data/_nightly/`: audio, MAI word times on a network thread, pyannote at
+threshold 0.55, the camera reference in a per-episode tracks directory, and the split tool
+as a dry run against that reference. Whether to write is a morning decision taken after
+reading the diff.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider

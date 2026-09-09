@@ -37,10 +37,14 @@ def main():
         if not f.exists():
             continue
         rel = f.relative_to(Path.cwd()).as_posix()
-        old = subprocess.run(["git", "show", f"{ref}:{rel}"], capture_output=True,
-                             text=True, encoding="utf-8").stdout
-        if not old:
-            print(f"  {name:18} not at {ref}, skipped")
+        shown = subprocess.run(["git", "show", f"{ref}:{rel}"], capture_output=True,
+                               text=True, encoding="utf-8")
+        old = shown.stdout
+        if shown.returncode != 0 or not old:
+            # A bad ref or an untracked file used to print "skipped" and exit 0, which the
+            # runbook's step 3 read as "verified". Nothing was compared, so it is a failure.
+            print(f"  {name:18} not at {ref}: {shown.stderr.strip()[:120] or 'empty'}  FAIL")
+            bad += 1
             continue
         new = f.read_text(encoding="utf-8")
         a, b = spoken(old), spoken(new)
