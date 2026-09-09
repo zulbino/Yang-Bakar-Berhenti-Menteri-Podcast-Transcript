@@ -3261,6 +3261,40 @@ threshold 0.55, the camera reference in a per-episode tracks directory, and the 
 as a dry run against that reference. Whether to write is a morning decision taken after
 reading the diff.
 
+**What the first night measured (2026-09-10 morning).**
+
+- *MAI was down for four hours, and the reason was not load on the service as a whole.*
+  Every chunk of 15 or 30 minutes returned HTTP 408 "The operation was timeout" after a fixed
+  122 seconds, from 23:24 to past 07:00. Probed in the morning: a one-minute clip returned in
+  2 s, 5 minutes with diarization took 98 s, 15 minutes without diarization took 5 s. The
+  gateway cuts at 120 s and the diarization sub-service was the part too slow to fit. Nothing
+  downstream uses MAI's per-request speaker ids, so `transcribe_mai.py --no-diarization` is
+  now the mode for the re-cut; all six queued episodes transcribed in about a minute each.
+- *A chunk file reused by name cost 15 minutes of ep61 silently.* Chunk files are named by
+  index and start, so a 30-minute plan picked up the 15-minute `chunk00_43.mp3` left by the
+  night's retry loop. 900-1800 s was never sent, the last-stamp gate passed at 100%, and the
+  word clock borrowed from it was 827 s off in that stretch. Reuse now requires the duration to
+  match, and the verdict refuses a transcript with more than 300 s between two turns. Same
+  class as the cache-by-index defect the audit listed, one line away from it.
+- *Captions are as good a word clock as MAI for cutting blocks.* On ep61 the two clocks gave
+  the same result: Haziq 74-75% -> 87%, Rafizi and Farhan unchanged, 18 splits against 17,
+  the one difference a block at 28:51. So an episode without MAI still runs; 60 have captions.
+- *ep61 written* (29be56c): 17 of 203 blocks split, words identical, 43 of 44 recorded owner
+  decisions located by text and preserved, gold passage byte-identical; the 44th is a
+  superseded rule with no text. `check_owner_decisions.py` now runs before every write, and
+  it matches by a rule's own text rather than by stamp, because a split re-uses its parent's
+  stamp and ep61's 1:22:10 names two blocks.
+- *ep60 refused, correctly.* The file as shipped scores 97.5% at word level against the camera
+  and the proposal scored 97.3%. Its guest was invisible to the reference until
+  `guest_gallery.py` named the one unidentified face cluster (1,659 of 1,660 unidentified
+  talking seconds) against the one un-galleried real label in raw.md; coverage 80% -> 93%.
+  Its open defect is Farhan at 19 of 100 camera seconds, and pyannote gave him no cluster, so
+  no split can reach it.
+- *RTTM names with spaces.* "Sum Dek Jo" split into three whitespace fields and every reader
+  scored a speaker called "Sum" at 0%. Written with underscores now, read back as spaces.
+- *The ep62 gallery transfers.* 97% of ep61's face tracks and 94% of ep60's (with the guest)
+  identified without anyone looking at a contact sheet.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider

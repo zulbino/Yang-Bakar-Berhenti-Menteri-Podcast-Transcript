@@ -465,7 +465,7 @@ into one undifferentiated block, caught immediately by `qa_check.py`'s wall-of-t
 check, not silently shipped, but a reminder that block-splitting logic needs the exact
 same separator on the way back out as the way in.
 
-## MAI-Transcribe-2 via Azure: an evaluation path, and its two undocumented limits
+## MAI-Transcribe-2 via Azure: an evaluation path, and its three undocumented limits
 
 Not part of the pipeline. `scripts/transcribe_mai.py` and `scripts/reconcile_mai_speakers.py`
 transcribe an episode with Microsoft's MAI-Transcribe-2 into `data/_mai_<video_id>/`, for
@@ -577,6 +577,22 @@ one block, which needs the turn cut and not the label changed.
 
 Beyond those three labels, nothing has been adopted into `episodes/`.
 
+**The third limit: diarization does not fit the gateway's timeout under load.** On 2026-09-10
+every request of 15 or 30 minutes returned HTTP 408 after a fixed 122 seconds for four
+hours, while a one-minute clip returned in 2 s. Probed apart: 5 minutes WITH diarization took
+98 s; 15 minutes WITHOUT took 5 s. The gateway cuts at 120 s and the diarization sub-service
+is the part too slow to fit. Nothing downstream uses MAI's per-request speaker ids (the
+voiceprint join loses Farhan, and the split tool takes clusters from pyannote and its
+reference from the camera), so the mode for the re-cut is:
+
+    python scripts/transcribe_mai.py <video_id> --no-diarization
+
+Two guards came with it. A chunk file is reused only if its duration matches the plan --
+chunk files are named by index and start, and a 30-minute plan once picked up a 15-minute
+`chunk00` left by an earlier run, dropping 900-1800 s of ep61 without any check noticing. And
+the verdict refuses a transcript whose last turn ends before 95% of the runtime or that has
+more than 300 s between two turns, which is the hole the last-stamp check cannot see.
+
 ## Writing the interview files from segments
 
 Not yet the shipping path. The rewrite stage still rewrites a whole episode in one pass, and
@@ -658,6 +674,18 @@ than an error:
 
 The measured results are in `MODEL_LANDSCAPE.md`; the method and its validation are in
 `ENGINEERING_LOG.md` 1.55.
+
+**Guests, and running more than one episode.** Each episode's tracks go to their own
+`data/_camera_tracks_<vid>/` (the `run` stage records the video it belongs to and refuses a
+mismatch, because chunk files are named by offset only and a second episode into the same
+directory used to reuse the first one's chunks). A face the gallery cannot name still counts
+toward the overlap test, so a guest's crosstalk is no longer credited to a host. And
+`scripts/guest_gallery.py <epNN>` names a guest's face without a person, only when exactly one
+real label in `raw.md` is not in the gallery and one cluster of unidentified faces holds at
+least 90% of the unidentified talking seconds; it writes `data/_face_gallery_<vid>.json`
+(gitignored, biometric) for `reference --gallery`. ep60: 1,659 of 1,660 seconds, coverage 80%
+-> 93%. Anything less clean stops and prints the clusters for a person. The full per-episode
+procedure is at the top of `ATTRIBUTION_PASS.md`.
 
 ## Known limitations
 
