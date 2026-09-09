@@ -449,13 +449,13 @@ So I told Dato' Seri Anwar, I remember it like this — I can give an example, D
 
 **Rafizi:** That, honestly, I don't know whether it will succeed or not. This is on paper, Daniel, like that. What I mean is — if we remove the profit element, and that profit, kept moderate, is then returned to the participants, logically it can be sold at a better price. Because otherwise, every kilo has a profit share that must go back to the owner. Now, because the owner is a partner, there's no owner acting as a boss. So the partner-owner who puts in the capital is well aware this is a community service, and as long as they get something comparable to — if I put it in the bank. If you put it in the bank, it has no impact on society, and you only get 3-4%.
 
-**Daniel:** Sorry, let me cut in here, YB. Imagine in Sarawak, in my area — my parents, there's Felda, there's SALCRA, what else? FELCRA too, right? So my place has SALCRA. SALCRA uses my kampung folks' land, and per year they pay RM1,000, RM2,000.
+**Daniel:** Sorry, let me cut in here, YB. Imagine in Sarawak, in my area — my parents, there's FELDA, there's SALCRA, what else? FELCRA too, right? So my place has SALCRA. SALCRA uses my kampung folks' land, and per year they pay RM1,000, RM2,000.
 
 **Rafizi:** I think we can do better.
 
 **Daniel:** That's what I was saying...
 
-**Rafizi:** There are already two or three submissions from Felda/FELCRA participants. That's why they say, "My land is in the FELCRA scheme, I only get two or three thousand a year. If Ayuh Malaysia can really do this, can I leave FELCRA and join?"
+**Rafizi:** There are already two or three submissions from FELDA/FELCRA participants. That's why they say, "My land is in the FELCRA scheme, I only get two or three thousand a year. If Ayuh Malaysia can really do this, can I leave FELCRA and join?"
 
 **Daniel:** That's why in my place, many of my kampung folks, including my own family, because of the incitement from people like us saying — it's just a waste of time, better to let it become forest, I said. So if possible, if YB really wants to, I think, wow, it would get an overwhelming response. Here in my kampung, my area, YB could build a huge, as large as possible, chili farm. In this kampung, maybe YB could tap into a market — Sarawak has a good market, black pepper. Between the pepper plants, plant chili too.
 

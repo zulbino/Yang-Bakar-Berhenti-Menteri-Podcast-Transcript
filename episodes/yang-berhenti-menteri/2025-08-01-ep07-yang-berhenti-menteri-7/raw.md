@@ -395,13 +395,13 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 
 [1:51:34] Rafizi: Itu itu sebenarnya saya tak tahulah sama ada dia berjaya ke tidak. Ini atas kertasnya Daniel begitulah. Maksudnya begini kan, kalau kita remove, kita keluarkan elemen keuntungan dan maksudnya keuntungan itu berpada-pada yang kemudiannya dipulangkan balik kepada peserta, logiknya lah dia boleh jual pada harga yang lebih baiklah. Sebab sebab kalau tidak, setiap satu kilo tu dia ada bahagian untung yang mesti balik kepada tuan punya. Sekarang ni sebab tuan punya tu dia dia rakan kongsi, dia tak ada tuan punya yang jadi bos kan. Jadi tuan punya rakan kongsi yang yang letakkan modal tu, dia pun sedia maklum ini adalah khidmat masyarakat dan asalkan aku dapat sesuatu yang apa nama ni berpadanan dengan kalau aku letak kat bank. Kalau letak kat bank, yalah dia tak ada kesan kepada masyarakat, dapat pun 3-4% aje.
 
-[1:52:38] Daniel: Sori saya mencelah di sini YB. Bayangkan di Sarawak ni, di kawasan saya ya, orang tua saya dia dia kan sana ada Felda ada, SALCRA ada, apa lagi? FELCRA ada kan? So tempat saya tu ada SALCRA kan. SALCRA pakai tanah orang-orang kampung saya, setahun bayar RM1,000, RM2,000.
+[1:52:38] Daniel: Sori saya mencelah di sini YB. Bayangkan di Sarawak ni, di kawasan saya ya, orang tua saya dia dia kan sana ada FELDA ada, SALCRA ada, apa lagi? FELCRA ada kan? So tempat saya tu ada SALCRA kan. SALCRA pakai tanah orang-orang kampung saya, setahun bayar RM1,000, RM2,000.
 
 [1:53:00] Rafizi: Aku rasa kita boleh buat lebih baik.
 
 [1:53:02] Daniel: Itu yang saya saya kata...
 
-[1:53:05] Rafizi: Ada ada dua tiga yang yang dah submit peserta-peserta Felda FELCRA. Sebab itulah dia kata, "Saya tanah saya dalam rancangan FELCRA, saya dapat dua tiga ribu setahun aje. Kalau betul Ayuh Malaysia boleh buat ni, boleh tak saya nak keluar daripada FELCRA nak join?"
+[1:53:05] Rafizi: Ada ada dua tiga yang yang dah submit peserta-peserta FELDA FELCRA. Sebab itulah dia kata, "Saya tanah saya dalam rancangan FELCRA, saya dapat dua tiga ribu setahun aje. Kalau betul Ayuh Malaysia boleh buat ni, boleh tak saya nak keluar daripada FELCRA nak join?"
 
 [1:53:27] Daniel: Sebab tu di tempat saya, saya saya banyak orang kampung sayalah, termasuk keluarga sayalah sebab hasutan daripada macam yang cakap kamilah. Buang masa jelah, jadi hutan jelah lebih baik saya kata. So kalau boleh, kalau memang YB nak, saya rasa alamak dapat sambutan luar. Dekat sini kampung saya, kawasan saya tu YB buat ladang cili yang luas-luas seluas-luasnya. Di kampung sini mungkin YB boleh satu market yang Sarawak punya market yang bagus kan, lada hitam. Di celah lada hitam tanam cili lagi kan.
 
