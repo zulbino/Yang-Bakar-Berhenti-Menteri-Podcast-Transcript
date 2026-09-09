@@ -25,7 +25,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [01:19] Rafizi: kenapa. Sebab apa? Sebab aircon lama. Aircon.
 
-[01:26] Rafizi: Jerobo.
+[01:26] Rafizi: Jerebu.
 
 [01:29] Rafizi: Dia bukan keluar pun Aku takut dia Perubahan alam daripada Perlis datang ke sini, dia terlalu terlalu terlalu terlalu. Malam ni pasal Felda. Pasal Felda. Sebab tu kita kena cakap pasal chopper dulu sebab akan ramai orang yang berbulu. Malam ni.
 
@@ -39,7 +39,7 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
 
 [05:28] Haziq: Okay. Yang ni yang first YB. Yang second. Yang ini berlaku pada malam perakan kemerdekaan. Tapi lelaki yang mencetuskan kotoversi itu dah kena kutip. Dia basically ajak yang lain sekali itu untuk ini sekali lah. Tak boleh bersabar untuk masuk. Jadi yang lain pun panjat sekali.
 
-[05:44] Rafizi: Yelah saya tengok tiba-tiba satu hari itu dia trending dekat threats. Orang kata kepala perusuh menghasut untuk merusuh. orang kata apa nama ni ikut hati-mati, ikut rasa binasa ni,
+[05:44] Rafizi: Yelah saya tengok tiba-tiba satu hari itu dia trending dekat Threads. Orang kata kepala perusuh menghasut untuk merusuh. orang kata apa nama ni ikut hati-mati, ikut rasa binasa ni,
 
 [05:58] Haziq: nak ikut apa ni? Tapi YB tak rasakah mungkin untuk improvement akan datang ni daripada ramai-ramai beratur ni, mungkin kena buat pre-registration ke supaya menjimatkan masa semua orang?
 
