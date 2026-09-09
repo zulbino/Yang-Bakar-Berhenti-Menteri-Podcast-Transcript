@@ -3111,6 +3111,43 @@ read "mouth closed, off-camera host speaks" and three independent sources now sa
 The speaking-score threshold was swept rather than chosen: coverage is flat from -1.0 to 0.0
 and falls away above it, so the default sits at the knee.
 
+### 1.56: pyannoteAI Precision-2 trialled, and it loses to the free model
+
+`MODEL_LANDSCAPE.md` carries the table. `scripts/pyannoteai_diarize.py` runs it. Two full
+passes over ep62 took 188s and 284s and about 8 of the trial's 150 hours.
+
+**It is worse than pyannote 3.x, which is free and already in the pipeline.** Confusion 2.2%
+against 1.8%; per-speaker recall 95/81/67 against 99/85/73. Its headline DER of 10.8% against
+4.6% overstates the gap, because most of that is VAD disagreement -- it claims less speech
+than a reference that labels whole seconds -- but it does not win on any column.
+
+**Voiceprint enrolment works, and is the part worth copying.** Three voiceprints cut from
+camera-confirmed single-speaker runs matched all three hosts: Farhan 90 with a 64-point
+margin, Rafizi 95 over Haziq's 80, Haziq 90 over Rafizi's 81. Enrol from the camera
+reference, never from `raw.md`'s labels -- those labels are the thing under test, and
+enrolling on a wrong one teaches the wrong voice.
+
+**Enrolment cannot fix this pipeline's defect.** `diarize` and `identify` returned identical
+3,882-segment outputs; enrolment only renames clusters. The repo does not lose Haziq by
+misnaming a cluster -- pyannote already names its clusters and still reaches 85% where the
+shipped file reaches 67%. The loss is in cutting clusters into transcript blocks, which no
+diarizer or enrolment service touches.
+
+**Three API details, each of which wastes a run if got wrong.** `identify` has two separate
+flags: `exclusive_matching` (default True) forces segments onto enrolled speakers, while
+`exclusive` asks for non-overlapping output -- they are not the same switch. The response
+carries **both** a `diarization` list of anonymous `SPEAKER_NN` and an `identification` list
+with the enrolled names; reading the first one throws away the entire point of enrolling.
+And `retrieve` already blocks and polls internally, so wrapping it in a polling loop just
+polls twice.
+
+**DER had to be split before any of this could be read.** A single DER cannot separate a
+system that puts the wrong name on speech from one that did not think there was speech
+there. `data/_der_components.py` splits it, and the split changes the ranking: `raw.md`
+scores 0% missed **by construction**, because its blocks tile continuously and it can never
+be charged for missing speech. That is why it posts the best DER in the table while being
+last on confusion.
+
 ## Rewrite, translate and metadata stage
 
 ### 2.1: Choosing a fallback provider

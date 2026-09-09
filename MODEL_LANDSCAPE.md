@@ -137,15 +137,52 @@ is. A second is labelled only where exactly one identified person is speaking, w
 
 | system | DER | JER | Rafizi | Haziq | Farhan |
 |---|---|---|---|---|---|
-| raw.md as shipped | **3.0%** | 33.7% | 99% | 67% | 76% |
-| pyannote 3.x thr=0.55 | 4.6% | **21.6%** | 99% | **85%** | 75% |
-| MAI + voiceprint stitching | 5.3% | 51.4% | 96% | 86% | 11% |
+| raw.md as shipped | **3.0%** | 33.7% | 99% | 67% | 74% |
+| pyannote 3.x thr=0.55 | 4.6% | **21.6%** | 99% | **85%** | 73% |
+| MAI + voiceprint stitching | 5.3% | 51.4% | 96% | 86% | 12% |
+| pyannoteAI Precision-2 + 3 voiceprints | 10.8% | 37.3% | 95% | 81% | 67% |
+| pyannoteAI Precision-2, no enrolment | 10.8% | 37.3% | -- | -- | -- |
 | MAI, chunk ids unstitched | 87.3% | 93.2% | -- | -- | -- |
 
-The last three columns are per-speaker recall under a maximum-weight one-to-one mapping,
-computed on the 12,079 seconds every system labels so that no column rests on a different
-denominator (`data/_common_basis.py`). Greedy per-label mapping is wrong here and produces
-a fabricated result -- see `ENGINEERING_LOG.md` 1.55.
+Per-speaker recall uses a maximum-weight one-to-one mapping over the 11,755 seconds every
+system labels, so no column rests on a different denominator (`data/_common_basis.py`).
+Greedy per-label mapping is wrong here and fabricates a result -- see `ENGINEERING_LOG.md`
+1.55.
+
+**DER hides three different errors, so split it** (`data/_der_components.py`). Only the
+confusion column measures attribution:
+
+| system | DER | missed | false alarm | confusion |
+|---|---|---|---|---|
+| pyannote 3.x thr=0.55 | 4.6% | 2.9% | 0.0% | **1.8%** |
+| pyannoteAI Precision-2 | 10.8% | 5.1% | 3.5% | **2.2%** |
+| raw.md as shipped | 3.0% | 0.0% | 0.0% | **3.0%** |
+
+raw.md scores 0% missed **by construction** -- its blocks tile continuously, so it can never
+be charged for missing speech, and its flattering DER is an artifact of that. On confusion,
+the one column that measures who is talking, it is last.
+
+### pyannoteAI Precision-2, trialled 2026-09-09: do not pay for it on this corpus
+
+Free trial, 150 hours. Two full passes over ep62 cost about 8 of them and ran in 188s and
+284s. Findings:
+
+- **It is beaten by the free local model it is sold against.** Confusion 2.2% against
+  pyannote 3.x's 1.8%, and per-speaker 95/81/67 against 99/85/73.
+- **Voiceprint enrolment works perfectly and is the part worth keeping.** Three voiceprints
+  cut from camera-confirmed single-speaker runs matched all three hosts correctly:
+  Farhan 90 with a 64-point margin, Rafizi 95 over Haziq's 80, Haziq 90 over Rafizi's 81.
+  Rafizi and Haziq sit close, the same overlap the face embeddings show.
+- **Enrolment does not change segmentation.** `diarize` and `identify` returned byte-identical
+  3,882 segments; enrolment only renames clusters. So it cannot fix this pipeline's actual
+  defect, which is in cutting blocks, not in naming clusters.
+- Its higher DER is mostly VAD disagreement, not misattribution -- it claims less speech than
+  a reference that labels whole seconds.
+
+The mechanism worth copying locally: **enrol from camera-confirmed audio.** The camera
+reference supplies clean single-speaker runs (Rafizi 136s, Haziq 36s, Farhan 17s) with
+evidence behind them, which is a better enrolment source than raw.md's labels, since those
+labels are what is under test.
 
 **Read JER, not DER.** Rafizi holds 95.5% of ep62's speaking time, so a system that gets him
 right and loses both co-hosts still posts an excellent DER. The shipped file does exactly
@@ -187,10 +224,12 @@ Reproduce with:
 - **Closed 2026-09-08:** MAI-Transcribe-2 now has a benchmark number, and it is the best of
   the sixteen rows measured. No engine change is warranted; the open question was whether we
   were on the wrong engine, and we are not.
-- **Not measured, and both need a decision first:** NVIDIA Sortformer needs a NeMo install,
-  which pulls a large dependency tree -- installing torchvision already upgraded torch
-  2.13 to 2.14 unasked once. pyannoteAI Precision-2 needs an account the owner would have to
-  create.
+- **Closed 2026-09-09:** pyannoteAI Precision-2 trialled and rejected on accuracy. Keep the
+  enrolment idea, not the service.
+- **Not measured:** NVIDIA Sortformer. NeMo will not install cleanly here -- on Python 3.14
+  the resolver backtracks to NeMo 2.5.0 and would downgrade numpy to 1.26.4, pyannote.core
+  to 5.0.0 and pyannote.metrics to 3.2.1, which breaks `data/_score_diar.py` and
+  pyannote.audio 4.0.7. It needs an isolated Python 3.12 venv and its own torch.
 - **Still worth measuring:** Speechmatics `en_ms`, the only purpose-built Malay-English
   bilingual pack any vendor ships, which nobody has published a number for. ElevenLabs
   Scribe v2 is now less interesting on accuracy (4.83% against MAI's 3.96%) but still has
