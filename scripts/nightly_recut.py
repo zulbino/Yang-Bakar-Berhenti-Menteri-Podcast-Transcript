@@ -106,7 +106,8 @@ def diarize(vid):
     code = (
         "import sys,os; os.environ.setdefault('CUDA_VISIBLE_DEVICES','0'); sys.path.insert(0,'scripts')\n"
         "import reattribute_blocks as rb, lib_local_asr, soundfile as sf\n"
-        f"wav = lib_local_asr._decode_to_wav(r'{ROOT / 'audio' / (vid + '.m4a')}')\n"
+        "from pathlib import Path\n"
+        f"wav = lib_local_asr._decode_to_wav(Path(r'{ROOT / 'audio' / (vid + '.m4a')}'))\n"
         "audio, sr = sf.read(str(wav), dtype='float32')\n"
         f"segs = rb.cached_diarization('{vid}', audio, sr, None, 0.55)\n"
         "import collections; c=collections.Counter(s[2] for s in segs)\n"

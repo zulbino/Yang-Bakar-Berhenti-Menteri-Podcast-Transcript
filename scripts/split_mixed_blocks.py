@@ -88,6 +88,21 @@ def mai_word_times(video_id):
     return out
 
 
+def caption_word_times(video_id):
+    """YouTube's caption track as the word clock, when there is no MAI transcript.
+
+    MAI word times exist for one episode; captions exist for 60. A caption cue carries an
+    inline time for every word but its first, so precision is a cue's few seconds rather
+    than MAI's tens of milliseconds -- about the residual the block stamps already had
+    against MAI on ep62 (1.9s median). The --reference guard decides whether that is good
+    enough on a given episode: a cut placed by a coarse clock that makes any speaker worse
+    is refused, same as any other cut.
+    """
+    import check_content_coverage as C
+    words, lang = C.caption_words(video_id)
+    return [(w, t) for t, w in words], lang
+
+
 def borrow_times(raw_words, mai):
     """Align the local ASR's words to MAI's and borrow the clock."""
     from rapidfuzz.distance import Levenshtein
@@ -249,8 +264,14 @@ def main():
         for w in t.split():
             words.append(w)
             owner.append(i)
-    times, nmatch = borrow_times(words, mai_word_times(vid))
-    print(f"{len(words)} words, {nmatch} matched to MAI ({nmatch/len(words):.1%})")
+    clock, source = mai_word_times(vid), "MAI"
+    if not clock:
+        clock, lang = caption_word_times(vid)
+        source = f"captions ({lang})"
+    if not clock:
+        sys.exit(f"no word clock for {vid}: neither data/_mai_{vid}/ nor a caption track")
+    times, nmatch = borrow_times(words, clock)
+    print(f"{len(words)} words, {nmatch} matched to {source} ({nmatch/len(words):.1%})")
 
     # Name each pyannote cluster by the block label it most overlaps. No camera is used,
     # so the names are exactly what the pipeline already produces and only cuts change.
