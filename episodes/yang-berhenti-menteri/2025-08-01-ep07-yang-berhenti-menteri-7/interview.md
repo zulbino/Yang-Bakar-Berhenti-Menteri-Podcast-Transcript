@@ -450,13 +450,13 @@ Jadi saya beritahu Dato' Seri Anwar, saya ingat begini — saya boleh bagi satu 
 
 **Rafizi:** Itu sebenarnya saya tak tahulah sama ada ia berjaya ke tidak. Ini atas kertasnya Daniel begitulah. Maksudnya begini — kalau kita remove, kita keluarkan elemen keuntungan, dan keuntungan itu berpada-pada yang kemudiannya dipulangkan balik kepada peserta, logiknya ia boleh jual pada harga yang lebih baiklah. Sebab kalau tidak, setiap satu kilo tu ada bahagian untung yang mesti balik kepada tuan punya. Sekarang ni sebab tuan punya tu dia rakan kongsi, tak ada tuan punya yang jadi bos. Jadi tuan punya rakan kongsi yang letakkan modal tu, dia pun sedia maklum ini adalah khidmat masyarakat, dan asalkan aku dapat sesuatu yang berpadanan dengan — kalau aku letak kat bank. Kalau letak kat bank, ia tak ada kesan kepada masyarakat, dapat pun 3-4% aje.
 
-**Daniel:** Sori saya mencelah di sini YB. Bayangkan di Sarawak ni, di kawasan saya ya, orang tua saya, dia kan sana ada Felda ada, SALCRA ada, apa lagi? FELCRA ada kan? So tempat saya tu ada SALCRA kan. SALCRA pakai tanah orang-orang kampung saya, setahun bayar RM1,000, RM2,000.
+**Daniel:** Sori saya mencelah di sini YB. Bayangkan di Sarawak ni, di kawasan saya ya, orang tua saya, dia kan sana ada FELDA ada, SALCRA ada, apa lagi? FELCRA ada kan? So tempat saya tu ada SALCRA kan. SALCRA pakai tanah orang-orang kampung saya, setahun bayar RM1,000, RM2,000.
 
 **Rafizi:** Aku rasa kita boleh buat lebih baik.
 
 **Daniel:** Itu yang saya kata...
 
-**Rafizi:** Ada dua tiga yang dah submit, peserta-peserta Felda FELCRA. Sebab itulah dia kata, "Saya, tanah saya dalam rancangan FELCRA, saya dapat dua tiga ribu setahun aje. Kalau betul Ayuh Malaysia boleh buat ni, boleh tak saya nak keluar daripada FELCRA nak join?"
+**Rafizi:** Ada dua tiga yang dah submit, peserta-peserta FELDA FELCRA. Sebab itulah dia kata, "Saya, tanah saya dalam rancangan FELCRA, saya dapat dua tiga ribu setahun aje. Kalau betul Ayuh Malaysia boleh buat ni, boleh tak saya nak keluar daripada FELCRA nak join?"
 
 **Daniel:** Sebab tu di tempat saya, banyak orang kampung sayalah, termasuk keluarga saya sebab hasutan daripada macam yang cakap kamilah — buang masa jelah, jadi hutan jelah lebih baik saya kata. So kalau boleh, kalau memang YB nak, saya rasa alamak, dapat sambutan luar. Dekat sini kampung saya, kawasan saya tu, YB buat ladang cili yang luas-luas seluas-luasnya. Di kampung sini mungkin YB boleh satu market — Sarawak punya market yang bagus kan, lada hitam. Di celah lada hitam tanam cili lagi kan.
 

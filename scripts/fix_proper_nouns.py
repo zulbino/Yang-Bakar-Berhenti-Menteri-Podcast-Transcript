@@ -27,6 +27,14 @@ ROOT = Path(__file__).resolve().parent.parent
 # (regex, replacement, why). Longest/most-specific first, so a broader pattern cannot
 # eat a more specific one's match.
 CORRECTIONS = [
+    (r"\b[Ff]elda\b",
+     "FELDA",
+     "OWNER-supplied, from felda.gov.my, which writes the acronym in full caps throughout "
+     "and expands it as Lembaga Kemajuan Tanah Persekutuan. 777 instances were corrected "
+     "across 38 files; the corpus had 774 `Felda` against 39 already-correct `FELDA`. "
+     "It is an acronym, not a name, so the caps are the correct form rather than a style "
+     "preference. The `title:` line is protected by protect_title() -- ep26's YouTube "
+     "title genuinely reads `Azam Baki, UEC & Felda | YBM EP 26` and must keep it."),
     (r"Asri muda(?![A-Za-z])",
      "Asri Muda",
      "OWNER-prompted. Mohd Asri bin Muda, PAS president 1969-1982 and the Land minister "
@@ -486,14 +494,31 @@ def main():
 
     totals = {rep: 0 for _, rep, _ in compiled}
     touched = 0
+
+    def protect_title(src):
+        """Split off any `title:` line so no rule can rewrite it.
+
+        `title:` is YouTube's own video title, copied verbatim. It is a quotation of the
+        source, not our prose, and restyling it would make the file disagree with the video
+        it cites. This was found when a Felda -> FELDA rule was about to rewrite ep26's
+        title from `Azam Baki, UEC & Felda | YBM EP 26`, which is what YouTube actually
+        shows. Every rule in this file gets the protection, not just that one.
+        """
+        m = re.search(r"^title:.*$", src, re.M)
+        if not m:
+            return "", src
+        return src[:m.end()], src[m.end():]
+
     for path in targets():
-        text = original = path.read_text(encoding="utf-8")
+        original = path.read_text(encoding="utf-8")
+        head, text = protect_title(original)
         hits = {}
         for rx, rep, _ in compiled:
             text, n = rx.subn(rep, text)
             if n:
                 hits[rep] = hits.get(rep, 0) + n
                 totals[rep] += n
+        text = head + text
         if text != original:
             touched += 1
             rel = path.relative_to(ROOT / "episodes")
