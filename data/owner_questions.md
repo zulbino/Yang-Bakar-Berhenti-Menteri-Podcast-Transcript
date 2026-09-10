@@ -33,6 +33,20 @@ keeps against the camera.
   said; a false alarm should stop reaching a person. Only two such spellings exist in the
   whole corpus (this one and ep49's `3 point 3 juta`), so no bulk edit was warranted.
 
+## One real question for the owner
+
+- **`Ashraf Wajdi` or `Asyraf Wajdi`? The corpus says both, exactly 35 times each.** Datuk
+  Dr Mohd Asyraf Wajdi Dusuki. The press spells it **Asyraf** -- the Berita Harian report
+  already cited in `fix_proper_nouns.py` is `asyraf-wajdi-serah-lod-rm5-juta`. So the
+  70 occurrences should probably all become `Asyraf`, but that is a corpus-wide normalisation
+  over 70 spots and the machines cannot settle it: this is the exact shape of the trap in
+  [[project-name-corrections-rule]], where the majority spelling was right for Akmal Saleh
+  and wrong for Fuziah Salleh in the same corpus. A 35/35 split has no majority at all.
+  Nothing is blocked on this and no checker flags it, because raw and published agree
+  wherever they sit. Asked 2026-09-11 while adopting ep56, where MAI's `Asravu HD` was
+  mapped to `Ashraf Wajdi` -- the spelling ep56's own published files already use -- purely
+  so that one episode stayed self-consistent. That choice is not a vote on the question.
+
 ## Waiting on a machine, not on the owner
 
 - **The "YB" handoff turns: 13 short ones, 5 of them in ep57.** Only the co-host and Pa'an

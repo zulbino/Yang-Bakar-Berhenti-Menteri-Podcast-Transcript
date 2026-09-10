@@ -377,6 +377,20 @@ CORRECTIONS = [
      "Regis. Owner-confirmed 2026-08-29. Established 1,135 times (262 raw, 873 published) "
      "against this single garble, and the published file already expanded it correctly, so "
      "this only stops raw and published disagreeing for check_names."),
+    # MAI heard `Asravu HD` for this man's name in ep56 at 6:40 -- the local ASR had it
+    # right and MAI did not, which is the other way round from most of this map. It occurs
+    # ONCE in 168 hours, and the sentence identifies him without doubt: Haziq is talking
+    # about the content filling his FYP and says the man appeared on the podcast Lebih Masa
+    # two months earlier. The target spelling is the one ep56's own published files already
+    # use, so raw and published agree and check_names goes quiet.
+    #
+    # A SEPARATE QUESTION FOR THE OWNER, deliberately not settled here: the corpus spells
+    # him `Ashraf Wajdi` 35 times and `Asyraf Wajdi` 35 times, an exact split, and the
+    # press spells it Asyraf (the Berita Harian link below). Normalising 70 occurrences is a
+    # corpus-wide decision and not part of adopting one episode.
+    (r"Asravu HD(?![A-Za-z])", "Ashraf Wajdi",
+     "raw ep56 x1: 'content-content mengenai Asravu HD'. Datuk Dr Mohd Asyraf Wajdi "
+     "Dusuki. Anchored on the full garble, not on `Asravu`, and it appears nowhere else."),
     # The two men served letters of demand over the RCI Tabung Haji report, in ep60's UMNO
     # segment at 9:08. Each name occurs exactly ONCE per file and nowhere else in 168
     # hours, so nothing inside the corpus could identify them and no established spelling
