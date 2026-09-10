@@ -266,7 +266,7 @@ Dan orang kata pilihan-pilihan pahit yang perlu dibuat ini sudah tentu termasukl
 
 **Farhan (Pa'an):** Sebab kalau ikutkan, sejak Oktober 2024 lagi kan, YB pernah cakap pasal income classification.
 
-**Rafizi:** Mana ada, daripada hari pertamalah, Paan.
+**Rafizi:** Mana ada, daripada hari pertamalah, Pa'an.
 
 **Farhan (Pa'an):** Hari pertama? No, but the first time you mention pasal T15 classification tu patut kena redefine balik.
 

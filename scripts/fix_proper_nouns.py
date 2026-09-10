@@ -496,6 +496,17 @@ CORRECTIONS = [
      "yang di bawah JCOM` and its two translations -- the ASR heard a C. No other JCOM "
      "exists in the corpus, and JCOM is a real Japanese cable company, which is why this is "
      "word-anchored and recorded rather than folded into a fuzzy acronym sweep."),
+    (r"Pak An(?![A-Za-z])", "Pa'an",
+     "OWNER-CAUGHT 2026-09-10 on ep61: the co-host's nickname, settled as `Pa'an` on ep62 and "
+     "written that way 4,528 times in this corpus. 9 occurrences, all of them one of the hosts "
+     "quoting him -- ep45's `nak menjawab yang Pak An kata kita tak ada budaya itu` in raw and "
+     "all three published files, and ep61 once. The lookahead is the whole safety of it: "
+     "`Pak Anwar` must never be touched, and the corpus writes the Prime Minister as "
+     "`Datuk Seri Anwar` everywhere, so there is nothing else this can reach."),
+    (r"\bPaan\b", "Pa'an",
+     "Same person, same 2026-09-10 decision, 15 occurrences: ep48 x5 (`menjawab yang Paan kan`, "
+     "`yang macam Paan kata tadi`), ep44, and a few more. Word-anchored so it cannot reach "
+     "inside another word."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the

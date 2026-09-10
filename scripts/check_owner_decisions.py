@@ -15,9 +15,10 @@ it landed and how well it scored. A stamp only breaks a tie between two equally 
 never locates on its own -- ep61 has a block whose stamp is 26 s from its own words.
 
 The gold passage is checked differently: the owner dictated it from ear, so its text is not
-the candidate's text. Every current block inside the region has to appear verbatim in the
-candidate. That is containment, not list equality, so a re-cut on either side is free to
-differ.
+the candidate's text. It is compared WORD BY WORD WITH ITS LABELS rather than block by block,
+because the decision the owner made is about who says which words. Merging same-speaker
+blocks or dropping a grunt turn re-blocks the region without touching that mapping, and a
+block-level comparison reads both as damage -- it did, on ep61, the day after the swap.
 
   python scripts/check_owner_decisions.py ep61 data/_nightly/ep61_preview_raw.md
 
@@ -39,7 +40,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from lib_locate import Doc  # noqa: E402
+from lib_locate import Doc, tokens  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 BLOCK = re.compile(r"^\[([\d:]+)\]\s*([^:\n]{0,40}?):\s*(.*)$", re.M)
@@ -144,7 +145,14 @@ def main():
             print(f"  MISMATCH ({src}) at {where}: owner says {who}, "
                   f"candidate has {labels} | {snip}")
 
-    # The gold passage: every current block inside it has to survive verbatim.
+    def word_labels(blocks, lo, hi):
+        out = []
+        for st, who, text in blocks:
+            if lo <= secs(st) <= hi:
+                out += [(w, short(who)) for w in tokens(text)]
+        return out
+
+    # The gold passage: the owner's words keep the owner's speakers, word by word.
     truth = json.load(io.open(ROOT / "data" / "speaker_ground_truth.json", encoding="utf-8"))
     gold_ok = None
     for key, g in truth.items():
@@ -153,14 +161,23 @@ def main():
         m = re.findall(r"(\d{1,2}:\d{2}(?::\d{2})?)", g.get("region", ""))
         if len(m) >= 2:
             lo, hi = secs(m[0]), secs(m[1])
-            have = set(cand)
-            need = [b for b in cur if lo - GOLD_PAD <= secs(b[0]) <= hi]
-            lost = [b for b in need if b not in have]
-            gold_ok = not lost
-            print(f"  gold passage {g['region']!r}: {len(need)} current blocks, "
-                  f"{len(lost)} of them not verbatim in the candidate")
-            for st, w, t in lost[:5]:
-                print(f"    lost [{st}] {w}: {t[:70]}")
+            want = word_labels(cur, lo - GOLD_PAD, hi)
+            got = word_labels(cand, lo - 2 * GOLD_PAD, hi + 2 * GOLD_PAD)
+            hit = None
+            for i in range(len(got) - len(want) + 1):
+                if [w for w, _ in got[i:i + len(want)]] == [w for w, _ in want]:
+                    hit = got[i:i + len(want)]
+                    break
+            wrong = [] if hit is None else [(a, b) for a, b in zip(want, hit) if a[1] != b[1]]
+            gold_ok = hit is not None and not wrong
+            if hit is None:
+                print(f"  gold passage {g['region']!r}: its {len(want)} words are NOT in the "
+                      "candidate in that order")
+            else:
+                print(f"  gold passage {g['region']!r}: {len(want)} words found in order, "
+                      f"{len(wrong)} under a different speaker")
+                for (w, a), (_, b) in wrong[:5]:
+                    print(f"    {w!r}: owner says {a}, candidate says {b}")
 
     print(f"\n{tag}: {len(checks)} owner decisions -- {ok} preserved, {partial} partly kept, {bad} mismatched, "
           f"{missing} not locatable" + ("" if gold_ok is None else f"; gold passage {'kept' if gold_ok else 'CHANGED'}"))

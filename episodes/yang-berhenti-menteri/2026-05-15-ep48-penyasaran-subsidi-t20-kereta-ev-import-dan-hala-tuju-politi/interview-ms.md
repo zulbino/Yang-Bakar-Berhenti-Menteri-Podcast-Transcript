@@ -262,7 +262,7 @@ Dan orang kata pilihan-pilihan pahit yang perlu dibuat ini sudah tentu termasukl
 
 **Farhan (Pa'an):** Sebab kalau ikutkan, sejak Oktober 2024 lagi kan, YB pernah cakap pasal pengkelasan pendapatan.
 
-**Rafizi:** Mana ada, daripada hari pertamalah, Paan.
+**Rafizi:** Mana ada, daripada hari pertamalah, Pa'an.
 
 **Farhan (Pa'an):** Hari pertama? Tak, tapi kali pertama awak sebut pasal pengkelasan T15 tu patut kena definisi semula.
 

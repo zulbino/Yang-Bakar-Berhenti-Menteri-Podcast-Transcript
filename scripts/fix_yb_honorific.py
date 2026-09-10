@@ -16,9 +16,15 @@ all four writing the same spoken token two ways inside one turn or as a name tit
 KEEP is not optional. Several of these spellings are also real words, and a blind
 substitution corrupts them: "ubi keledek" is sweet potato, "baby sharks" / "baby
 formula" / "baby boomer" are genuine English in the rewrites, and ep24's "rasa macam
-baby umur 20 tahun" is a real baby in a longevity argument. "abi" is excluded
-entirely -- its single occurrence (ep51 "Abi datang memang hambat sikit") is
-narrative, not vocative, so it is not safe to touch.
+baby umur 20 tahun" is a real baby in a longevity argument.
+
+"abi" was excluded entirely until 2026-09-10, when the owner found it in the two MAI
+transcripts and named it. MAI hears the honorific this way where the local ASR heard
+"wabi" or "baby", and both new occurrences sit in the vocative slot: ep62 raw [27:11]
+"Okey, okey. Baik, Abi." -- the "Baik, YB" construction that opens a segment -- and ep61
+raw [1:42:44] "Kalau Abi tanya apa yang kita nak perlu buat in the future". It is in
+GARBLES now, with ep51's occurrence anchored in KEEP instead: "ada sekali tu, Abi datang,
+memang hambat sikit" is a person arriving at a night market, not a vocative.
 """
 import re, sys
 from pathlib import Path
@@ -29,7 +35,7 @@ from pathlib import Path
 # lesson generalises past this variant: a text fix applied corpus-wide does not survive a
 # later re-transcription of one episode, so re-run this after any raw.md regeneration.
 GARBLES = ["baby", "WB", "obi", "ovi", "oibi", "ubi", "waibi", "abby", "abie", "bibi",
-           "yobi", "bobby", "wabi"]
+           "yobi", "bobby", "wabi", "abi"]
 
 # UNRESOLVED, deliberately neither fixed nor added to KEEP: ep24 interview.md reads
 # "Adik-adik ada cuba proksi obi sendiri ke?" where interview-ms.md has "proksi sendiri"
@@ -49,6 +55,11 @@ KEEP = [
     r"\bfriend's\s+baby\b",         # ep40 interview-en, the SAME sentence in English.
                                      # The Malay above is deliberately left alone, so its
                                      # translation has to be as well.
+    r"\bAbi\s+datang\b",             # ep51 x3, a person arriving, not the honorific
+    r"\bAbi\s+came\b",               # ep51 interview-en, the SAME sentence in English:
+                                     # "there was one time, Abi came, it was really
+                                     # rushed". The Malay above is held back, so its
+                                     # translation has to be too.
     r"\bdeliver\s+our\s+baby\b",    # ep21 interview-en, a real birth: "my wife was
                                      # still in hospital about to deliver our baby"
 ]

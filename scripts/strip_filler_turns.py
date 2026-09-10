@@ -44,7 +44,13 @@ FILLERS = {
     "oh", "ooh", "ohh",
     "uh", "uhh", "uhm", "um", "umm", "erm", "err", "er",
     "eh", "ehh", "huh", "hu",
+    "heem",
 }
+# `heem` added 2026-09-10 after the owner pointed at ep61's `[53:09] Heem.` and
+# `[53:11] Heem heem.` -- MAI's spelling of the same throat noise the rest of the corpus
+# writes `Hmm`. Counted before adding: exactly 2 turns in the whole corpus are heem-only,
+# both of them those two, and no real word in any file contains it. That is the bar for
+# this list -- count the corpus first, add nothing that could be a word.
 
 
 def tokens(text):
@@ -118,7 +124,12 @@ def main():
     if not args.write:
         print("\n-- dry run, pass --write to apply")
         return
-    Path(args.out or path).write_text("\n".join(kept), encoding="utf-8")
+    # Dropping a turn leaves its blank line behind, and that debris is not cosmetic:
+    # three newlines read as an empty block, so merge_same_speaker.py sees the turns
+    # either side of it as non-adjacent and will not join them. It left 18 unmerged
+    # same-speaker runs in ep61 and 2 in ep62 before this was fixed.
+    text = re.sub(r"\n{3,}", "\n\n", "\n".join(kept))
+    Path(args.out or path).write_text(text, encoding="utf-8")
     print(f"wrote {args.out or path}")
 
 

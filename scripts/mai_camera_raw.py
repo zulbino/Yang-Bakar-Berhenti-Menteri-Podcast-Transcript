@@ -31,6 +31,12 @@ Rafizi's answer to Haziq -- because the shot there is a graphic, not a face. The
 found by WORDS, not by the clock, since the two files' stamps differ by up to 26 s. The
 reviewed name corrections are applied before the splice, so the owner's bytes are untouched.
 
+A HANGING FRAGMENT THE CAMERA CANNOT SEE is fixed by scripts/fold_hanging_fragments.py,
+which runs AFTER strip_filler_turns.py -- not here. Inside this tool the fragment's
+neighbours are usually a one-word grunt turn rather than the speaker's own speech, so the
+"same speaker either side" test fails and the fragment survives; ep61's 27:24 escaped that
+way. Run the sequence at the top of ATTRIBUTION_PASS.md, in order.
+
 THE OWNER OUTRANKS THE CAMERA. `data/forced_labels.json` holds the turns where a recorded
 owner decision and the camera disagree and the owner has ruled for their own label. They
 are applied last, located by words, and a text that cannot be found or that matches more
@@ -198,6 +204,10 @@ def main():
     ap.add_argument("tag")
     ap.add_argument("--reference", help="camera RTTM (default data/camera_ref_<tag>.rttm)")
     ap.add_argument("--out", help="default data/_<tag>_mai_camera_raw.md")
+    ap.add_argument("--current", help="the raw.md the owner decisions and the gold passage "
+                    "were recorded against. AFTER A SWAP THIS IS REQUIRED: the episode's "
+                    "raw.md is then this tool's own previous output, and reading it back "
+                    "feeds the fallback labels and the gold splice their own answer.")
     ap.add_argument("--no-gold-splice", action="store_true",
                     help="do not carve the owner-dictated passage in from the current raw.md")
     a = ap.parse_args()
@@ -208,7 +218,8 @@ def main():
     tag = a.tag.partition(":")[0]
     sandbox = ROOT / "data" / f"_mai_{vid}"
     camera = camera_per_second(a.reference or ROOT / "data" / f"camera_ref_{tag}.rttm")
-    episode_raw = ROOT / "episodes" / common.episode_path(episode) / "raw.md"
+    episode_raw = Path(a.current) if a.current else (
+        ROOT / "episodes" / common.episode_path(episode) / "raw.md")
     # Fallback labels: MAI's own (merged file first, it carries the video-confirmed Farhan
     # regions) when MAI ran with diarization; otherwise the episode's current raw.md, which
     # is the best labelling that exists for an episode transcribed with --no-diarization.
