@@ -100,7 +100,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** That's PDRM — they always pick up kids like this if the video goes viral. Ah, ah, Meta says, Meta says PDRM always picks them up. So please help make it viral.
 
-**Haziq:** Okay. That was the first one, Fabi. Ah, let's look at the second one. This one happened on the night of the independence parade. But the man who sparked the controversy has already been called out. He basically invited everyone else to join in as well. Couldn't wait his turn to get in. So the others climbed in too.
+**Haziq:** Okay. That was the first one, YB. Ah, let's look at the second one. This one happened on the night of the independence parade. But the man who sparked the controversy has already been called out. He basically invited everyone else to join in as well. Couldn't wait his turn to get in. So the others climbed in too.
 
 **Rafizi:** Yeah, I saw that one day he was suddenly trending on Threads. People said the ringleader was inciting others to riot. And they said, what's it called, "follow your heart, you die; follow your emotions, you're ruined." So what should we follow now?
 

@@ -88,7 +88,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Itu PDRM memang selalu kutip budak macam ini kalau video viral. Ah, ah, Meta kata, Meta kata PDRM memang selalu kutip. Jadi tolonglah viralkan.
 
-**Haziq:** Okey. Yang ini yang pertama, Fabi. Ah, mari tengok yang kedua. Yang ini berlaku pada malam perarakan kemerdekaan. Tapi lelaki yang menyetuskan kontroversi tu dah kena kutip lah. Dia basically ajak yang lain sekali tu untuk masuk sekalilah. Tak boleh bersabar untuk masuk. Jadi yang lain pun panjat sekali.
+**Haziq:** Okey. Yang ini yang pertama, YB. Ah, mari tengok yang kedua. Yang ini berlaku pada malam perarakan kemerdekaan. Tapi lelaki yang menyetuskan kontroversi tu dah kena kutip lah. Dia basically ajak yang lain sekali tu untuk masuk sekalilah. Tak boleh bersabar untuk masuk. Jadi yang lain pun panjat sekali.
 
 **Rafizi:** Yalah, saya tengok tiba-tiba satu hari tu dia trending dekat Threads kan. Orang kata kepala perusuh menghasut untuk merusuh. Dan tu orang kata apa nama ni, ikut hati mati, ikut rasa binasa. Ha ni nak ikut apa ni?
 

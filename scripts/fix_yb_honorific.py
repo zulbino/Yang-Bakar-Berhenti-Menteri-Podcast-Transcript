@@ -35,7 +35,12 @@ from pathlib import Path
 # lesson generalises past this variant: a text fix applied corpus-wide does not survive a
 # later re-transcription of one episode, so re-run this after any raw.md regeneration.
 GARBLES = ["baby", "WB", "obi", "ovi", "oibi", "ubi", "waibi", "abby", "abie", "bibi",
-           "yobi", "bobby", "wabi", "abi"]
+           "yobi", "bobby", "wabi", "abi", "fabi"]
+# "fabi" added 2026-09-10, owner-caught in ep61's "Okey, baik. Habis Fabi, masa untuk pilih."
+# All 5 occurrences in the corpus sit in the vocative slot addressed to Rafizi -- ep61 raw x1
+# and ep62 x4, where the raw and all three published files read "Yang ni yang first, Fabi."
+# No person in this corpus is called Fabi, so no KEEP entry is needed. MAI hears the two
+# spoken letters this way; the local ASR heard "wabi" and "baby" for the same sound.
 
 # UNRESOLVED, deliberately neither fixed nor added to KEEP: ep24 interview.md reads
 # "Adik-adik ada cuba proksi obi sendiri ke?" where interview-ms.md has "proksi sendiri"

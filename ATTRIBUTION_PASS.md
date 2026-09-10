@@ -22,6 +22,7 @@ python scripts/check_owner_decisions.py epNN data/_epNN_new.md   # gate: exit 1 
 cp data/_epNN_new.md episodes/.../raw.md
 # 2. the standard, in this order -- the fold needs the grunts gone first
 python scripts/strip_filler_turns.py episodes/.../raw.md --write
+python scripts/strip_inline_fillers.py epNN --write
 python scripts/fold_hanging_fragments.py epNN --write
 python scripts/move_hanging_words.py epNN --write
 python scripts/merge_same_speaker.py --episode=epNN --raw-only --write

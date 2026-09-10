@@ -11,7 +11,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
 ## Flagged episodes
 
 - [ ] **2026-08-14-ep59-rci-tabung-haji-apa-yang-tidak-dibincangkan-di-parlimen-dap-**
-  - 4 figure(s) in the published text have no counterpart in raw.md ('120 juta', '120 million', '9.8 bilion', '9.8 billion') -- in YBkM-ep06 this caught `45 bilion` printed in the same sentence as raw's `4.5 bilion`, and `240 juta USD` for raw's `340 juta`
+  - 2 figure(s) in the published text have no counterpart in raw.md ('120 juta', '120 million') -- in YBkM-ep06 this caught `45 bilion` printed in the same sentence as raw's `4.5 bilion`, and `240 juta USD` for raw's `340 juta`
   - models: raw.md=microsoft/MAI-Transcribe-2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 
 ## Clean episodes

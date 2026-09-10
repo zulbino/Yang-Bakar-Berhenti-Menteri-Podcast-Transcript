@@ -13,7 +13,10 @@ ORDER MATTERS, and each step is here for a measured reason:
      labels and the gold splice their own answer.
   2. `check_owner_decisions.py` on the CANDIDATE, before anything is written. Exit 1 stops
      the run. This is the gate that keeps an owner decision from being overwritten.
-  3. `strip_filler_turns.py` -- grunt-only turns go. Must precede the fold: before it, a
+  3. `strip_filler_turns.py` then `strip_inline_fillers.py` -- a turn that is only a noise
+     goes, then the noises inside real sentences go too ("Yalah. Uh, I mean" -> "Yalah. I
+     mean"). The owner asked for the second one twice. `ha`, `eh`, `aa` and `oh` are kept:
+     they carry meaning in Malay. Must precede the fold: before it, a
      fragment's neighbour is a grunt, and the fold's "same speaker either side" test cannot
      fire.
   4. `fold_hanging_fragments.py` -- a mid-sentence fragment the camera cannot see at all
@@ -136,7 +139,9 @@ def main():
     raw.write_text(candidate.read_text(encoding="utf-8"), encoding="utf-8")
     print("[3/8] drop turns that are only a vocalisation")
     run([PY, "scripts/strip_filler_turns.py", str(raw), "--write"])
-    print("[4/8] fold hanging fragments the camera cannot see")
+    print("[4/8] remove the meaningless filler sounds from inside sentences")
+    run([PY, "scripts/strip_inline_fillers.py", a.tag, "--write", "--samples", "0"])
+    print("[4b/8] fold hanging fragments the camera cannot see")
     run([PY, "scripts/fold_hanging_fragments.py", a.tag, "--write"])
     print("[5/8] move hanging half-sentences to the speaker who finishes them")
     run([PY, "scripts/move_hanging_words.py", a.tag, "--write"])

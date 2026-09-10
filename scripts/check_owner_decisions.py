@@ -41,6 +41,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from lib_locate import Doc, tokens  # noqa: E402
+from strip_inline_fillers import INLINE  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 BLOCK = re.compile(r"^\[([\d:]+)\]\s*([^:\n]{0,40}?):\s*(.*)$", re.M)
@@ -116,7 +117,9 @@ def main():
         if candidate_labels(snip) == [want]:
             ok += 1
             continue
-        found = doc.locate(snip, near=at)
+        # A decision recorded before strip_inline_fillers.py ran can carry a filler the
+        # file no longer has -- ep62's 35:43 was recorded as "Um. Tan Sri". Match without it.
+        found = doc.locate(INLINE.sub(" ", snip), near=at)
         if not found:
             exact = candidate_labels(snip)
             if exact:
