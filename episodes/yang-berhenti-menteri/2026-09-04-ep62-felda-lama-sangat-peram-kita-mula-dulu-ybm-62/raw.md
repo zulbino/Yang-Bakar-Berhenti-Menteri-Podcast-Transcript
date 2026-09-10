@@ -1752,9 +1752,9 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 [2:12:56] Rafizi: Ha kan? Sebab dia bukan ada duit. Duit dia tinggal beberapa ratus juta je kan. Jadi, uh, jadi saya tunjukkan bahawa inilah semua um kerugian-kerugian akibat daripada kebijaksanaan Datuk Seri Najib Tun Razak yang menstrukturkan balik uh FELDA melalui FGV tu. Jadi, you know, on the back of the envelope, tengok macam ni saja, kerugian keseluruhan tu kalau dia teruskan ni ialah 7.8 billion.
 
 
-[2:13:30] Rafizi: Hmm. Jadi saya pun cabar dialah. Saya kata, sepatutnyalah dah jadi macam ini ni, sepatutnya Tan Sri Shahry tak payah ambil 1 sen pun lah gaji untuk mengurangkan kerugian kan. Dah teruk sangat tu, janganlah ambil gaji kan. Okey. Um. Seterusnya, uh, 11 Januari. Balik kepada cerita.
+[2:13:30] Rafizi: Hmm. Jadi saya pun cabar dialah. Saya kata, sepatutnyalah dah jadi macam ini ni, sepatutnya Tan Sri Shahry tak payah ambil 1 sen pun lah gaji untuk mengurangkan kerugian kan. Dah teruk sangat tu, janganlah ambil gaji kan.
 
-[2:13:54] Haziq: Perumahan.
+[2:13:45] Haziq: Okey. Um. Seterusnya, uh, 11 Januari. Balik kepada cerita perumahan.
 
 [2:13:55] Rafizi: Cerita perumahan lah. Yang ini menarik. Dan yang ini tidak berani disentuh di dalam kertas
 

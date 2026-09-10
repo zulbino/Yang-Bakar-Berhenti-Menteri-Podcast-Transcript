@@ -79,6 +79,43 @@ def strip_inline(text):
     return s
 
 
+SLIP_WORDS = 3
+
+
+def drop_slips(paras):
+    """Remove a short interjection that splits another speaker's sentence.
+
+    "Rafizi: ... Balik kepada cerita." / "Haziq: Perumahan." / "Rafizi: Cerita perumahan lah."
+    The owner's rule: a slip-in of a few words from another speaker that adds nothing to the
+    story goes, and the sentence around it is rejoined. A turn of SLIP_WORDS words or fewer,
+    sandwiched between two turns of one other speaker, is dropped when either the speaker it
+    interrupts was mid-sentence (no terminal punctuation) or its words all occur in the
+    surrounding turns (an echo). A short QUESTION after a finished sentence stays -- it is
+    answered by what follows. Repeats until nothing changes, since a drop can create a new
+    sandwich. Returns the kept paragraphs and the dropped interjection texts.
+    """
+    dropped = []
+    changed = True
+    while changed:
+        changed = False
+        parsed = [TURN.match(p) for p in paras]
+        for i in range(1, len(paras) - 1):
+            a, b, c = parsed[i - 1], parsed[i], parsed[i + 1]
+            if not (a and b and c) or a.group(1) != c.group(1) or b.group(1) == a.group(1):
+                continue
+            words = tokens(b.group(2))
+            if not words or len(words) > SLIP_WORDS:
+                continue
+            around = set(tokens(a.group(2)) + tokens(c.group(2)))
+            mid_sentence = not re.search(r"[.?!]\s*$", a.group(2).strip())
+            if mid_sentence or all(w in around for w in words):
+                dropped.append(b.group(2).strip())
+                del paras[i]
+                changed = True
+                break
+    return paras, dropped
+
+
 def clean_body(body):
     paras = body.strip().split("\n\n")
     kept, dropped = [], 0
@@ -94,14 +131,16 @@ def clean_body(body):
                 continue
             p = f"**{m.group(1)}:** {text}"
         kept.append(p)
+    kept, slips = drop_slips(kept)
     merged, joined = merge_body("\n\n".join(kept))
-    return merged, dropped, joined
+    return merged, dropped, joined, slips
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("tag")
     ap.add_argument("--write", action="store_true")
+    ap.add_argument("--show-slips", action="store_true", help="print every dropped interjection")
     a = ap.parse_args()
     tag, _, show = a.tag.partition(":")
     hits = [p for p in glob.glob(str(ROOT / f"episodes/*/*-{tag}-*/interview*.md"))
@@ -113,17 +152,20 @@ def main():
         fm_end = text.index("\n---\n", 4) + 5
         head, rest = text[:fm_end], text[fm_end:]
         h1, body = rest.lstrip("\n").split("\n\n", 1)
-        new_body, dropped, joined = clean_body(body)
+        new_body, dropped, joined, slips = clean_body(body)
         strip_labels = lambda t: re.sub(r"\*\*[^*\n]{1,40}:\*\*", "", t)
         before, after = Counter(tokens(strip_labels(body))), Counter(tokens(strip_labels(new_body)))
         removed = before - after
         added = after - before
-        illegal = {w for w in removed if w not in ACKS | INLINE}
+        slip_tokens = {w for s in slips for w in tokens(s)}
+        illegal = {w for w in removed if w not in ACKS | INLINE | slip_tokens}
         assert not illegal, f"{Path(path).name}: removed non-filler words {sorted(illegal)[:10]}"
         assert not added, f"{Path(path).name}: words appeared {sorted(added)[:10]}"
         n_before, n_after = len(body.strip().split("\n\n")), len(new_body.strip().split("\n\n"))
         print(f"  {Path(path).name:17} {n_before} -> {n_after} turns; {dropped} retort turns dropped, "
-              f"{sum(removed.values())} filler words removed, {joined} joins")
+              f"{sum(removed.values())} words removed, {len(slips)} slip-ins dropped, {joined} joins")
+        if a.show_slips and slips:
+            print("     slip-ins: " + " | ".join(slips))
         if a.write:
             Path(path).write_text(head + "\n" + h1 + "\n\n" + new_body, encoding="utf-8")
     print("written" if a.write else "dry run, pass --write to apply")

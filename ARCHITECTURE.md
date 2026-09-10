@@ -628,8 +628,15 @@ edits: a turn that is only an acknowledgement, grunt or laugh is dropped ("Ya.",
 "Hmm."; "2.3 billion." and "Koperasi?" carry information and stay); filler tokens are removed
 inside a turn ("Uh,", "Um.", "Aaa", "Eh,") with the next word capitalised when the filler opened
 the sentence; a speaker's consecutive turns become one paragraph (`merge_adjacent_turns.py`).
-Every removed word must be in the lexicons and the rest is asserted identical. On ep62's
-first output: 1,100 turns -> 382, 49 retort turns, 678 filler words. The prompt asks for the
+A fourth edit removes a SLIP-IN: a turn of three words or fewer from another speaker
+sandwiched inside one speaker's turns, dropped when that speaker was mid-sentence or the words
+are all echoed around it ("Balik kepada cerita." / "Haziq: Perumahan." / "Cerita perumahan
+lah."); a short question after a finished sentence stays. Every removed word must be in the
+lexicons or be a dropped slip-in, and the rest is asserted identical. On ep62's first output:
+1,100 turns -> 252, 49 retort turns, 65 slip-ins, 678 filler words. The owner's read then
+showed one "slip-in" was a LABEL error -- "Perumahan." ended Haziq's own sentence, which the
+camera had given to Rafizi -- so the rule cleans the prose but cannot fix attribution; the
+owner's ear does that (`--show-slips` prints every one for that read). The prompt asks for the
 same, so the post-process should have little to do; it is the guarantee, not the method.
 
 **raw.md is the verbatim layer, minus grunts.** `strip_filler_turns.py` runs on raw.md too
