@@ -53,6 +53,18 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import episode_path, frontmatter_md, resolve_tag  # noqa: E402
 from lib_gemini import CLEAN_PROMPT_TEMPLATE, TRANSLATE_PROMPT_TEMPLATE  # noqa: E402
 from rewrite_bakeoff import CALLERS, MALAY, names_for  # noqa: E402
+import lib_claude_rewrite  # noqa: E402
+
+
+def call_claude_cheap(model, prompt):
+    """Same flags lib_claude_rewrite uses. Measured on one ep62 segment: the bake-off's
+    caller cost $0.31 (38k cache-creation tokens: every tool schema and the full default
+    system prompt), this one $0.10 for the same prompt."""
+    lib_claude_rewrite.MODEL = model
+    return lib_claude_rewrite._run_claude(prompt)["result"]
+
+
+CALLERS = {**CALLERS, "claude": call_claude_cheap}
 
 ROOT = Path(__file__).resolve().parent.parent
 EPISODES_DIR = ROOT / "episodes"
@@ -97,7 +109,7 @@ def strip_stamps(text):
 
 
 def figures(text):
-    return {f.rstrip(".,") for f in FIGURE_RE.findall(text)}
+    return {f.rstrip(".,").replace(",", "") for f in FIGURE_RE.findall(text)}
 
 
 def malay_count(text):
@@ -141,6 +153,10 @@ def measure(stage, source, text, names):
         "malay_ratio": round(malay_count(text) / max(1, malay_count(body)), 3),
         "figures_total": len(fig_in),
         "figures_missing": sorted(fig_in - fig_out - worded),
+        "figures_missing_context": [
+            re.sub(r"\s+", " ", body[max(0, m.start() - 45):m.end() + 25])
+            for f in sorted(fig_in - fig_out - worded)
+            for m in [re.search(r"(?<![\d.,])" + re.escape(f) + r"(?![\d.,])", body)] if m],
         "figures_worded": sorted(worded),
         "invented_labels": sorted(out_labels - in_labels),
         "missing_labels": sorted(in_labels - out_labels),
@@ -243,6 +259,8 @@ def describe(result):
         line += "\n" + "".join(f"        - {f}\n" for f in last["failures"]).rstrip("\n")
     if last.get("names_dropped"):
         line += f"\n        names dropped: {last['names_dropped']}"
+    for ctx in last.get("figures_missing_context", []):
+        line += f"\n        figure context: ...{ctx}..."
     return line
 
 
@@ -306,7 +324,26 @@ def main():
     ap.add_argument("--workers", type=int, default=3)
     ap.add_argument("--instructions", help="text file appended to the mixed-stage prompt")
     ap.add_argument("--write", action="store_true", help="stitch into episodes/ (needs every segment)")
+    ap.add_argument("--accept-figures", nargs="*", type=int, default=[], metavar="N",
+                    help="accept the last try of segment N although figures are missing -- for a "
+                         "self-correction ('137, eh, 193 juta') or a false start the model rightly "
+                         "dropped. A person reads the figure contexts in the log first. No other "
+                         "gate failure is waived.")
     a = ap.parse_args()
+    for stage in [s for s in STAGES if s in a.stage]:
+        for i in a.accept_figures:
+            wd = Path(a.workdir or ROOT / "data" / f"_{a.tag.partition(':')[0]}_rewrite") / stage
+            rep_path = wd / f"seg{i:02d}.json"
+            if not rep_path.exists():
+                continue
+            last = json.loads(rep_path.read_text(encoding="utf-8"))["attempts"][-1]
+            others = [f for f in last.get("failures", []) if not f.startswith("figures missing")]
+            if others:
+                print(f"  seg {i:02d} {stage}: NOT accepted, other failures {others}")
+                continue
+            (wd / f"seg{i:02d}.md").write_text(
+                (wd / f"seg{i:02d}.try{last['try']}.md").read_text(encoding="utf-8"), encoding="utf-8")
+            print(f"  seg {i:02d} {stage}: accepted try {last['try']} by hand, figures {last['figures_missing']}")
 
     manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
     episode = resolve_tag(manifest, a.tag)
