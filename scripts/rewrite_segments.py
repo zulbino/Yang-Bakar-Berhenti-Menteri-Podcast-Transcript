@@ -79,8 +79,13 @@ TARGET_LANGUAGE = {"en": "English", "ms": "Bahasa Melayu"}
 GATES = {
     "mixed": {"len_min": 0.70, "len_max": 1.50, "malay_min": 0.80, "malay_max": None},
     "en": {"len_min": 0.85, "len_max": 1.70, "malay_min": None, "malay_max": 0.30},
-    "ms": {"len_min": 0.75, "len_max": 1.70, "malay_min": 0.90, "malay_max": None},
+    # ms: a Malay translation of colloquial Malay FORMALISES it -- "tu"/"ni"/"kan"/"lah" become
+    # "itu"/"ini" or vanish -- so its Malay function-word count falls even when nothing was lost.
+    # The check that it translated is the English side: English function words must nearly vanish.
+    "ms": {"len_min": 0.75, "len_max": 1.70, "malay_min": 0.60, "malay_max": None, "english_max": 0.30},
 }
+ENGLISH = ["the", "and", "is", "of", "to", "that", "you", "we", "this", "it", "was", "for", "are",
+           "not", "have"]
 LABEL_RE = re.compile(r"\*\*([^*:]{1,40}):\*\*")
 SOURCE_LABEL_RE = re.compile(r"^\[[\d:]+\]\s*([^:\n]{1,40}):", re.M)
 FIGURE_RE = re.compile(r"\d[\d.,]*")
@@ -116,6 +121,10 @@ def malay_count(text):
     return sum(1 for w in re.findall(r"[a-z']+", text.lower()) if w in MALAY)
 
 
+def english_count(text):
+    return sum(1 for w in re.findall(r"[a-z']+", text.lower()) if w in ENGLISH)
+
+
 def labels_of(text, source):
     if source:
         return set(SOURCE_LABEL_RE.findall(text))
@@ -147,10 +156,15 @@ def measure(stage, source, text, names):
     worded = {f for f in fig_in - fig_out if f in NUMBER_WORDS and any(
         len(re.findall(rf"\b{w}\b", text, re.I)) > len(re.findall(rf"\b{w}\b", body, re.I))
         for w in NUMBER_WORDS[f])}
+    # "tahun 60-an" -> "the 1960s", "74 hingga 78" -> "1974 to 1978": a two-digit year written out.
+    worded |= {f for f in fig_in - fig_out if re.fullmatch(r"\d\d", f) and any(
+        len(re.findall(rf"\b{c}{f}(?!\d)", text)) > len(re.findall(rf"\b{c}{f}(?!\d)", body))
+        for c in ("19", "20"))}
     first = next((ln for ln in text.split("\n") if ln.strip()), "")
     report = {
         "char_ratio": round(len(text) / max(1, len(body)), 3),
         "malay_ratio": round(malay_count(text) / max(1, malay_count(body)), 3),
+        "english_ratio": round(english_count(text) / max(1, english_count(body)), 3),
         "figures_total": len(fig_in),
         "figures_missing": sorted(fig_in - fig_out - worded),
         "figures_missing_context": [
@@ -181,6 +195,8 @@ def gate_failures(stage, r):
         fails.append(f"malay {r['malay_ratio']:.2f} < {g['malay_min']}")
     if g["malay_max"] is not None and r["malay_ratio"] > g["malay_max"]:
         fails.append(f"malay {r['malay_ratio']:.2f} > {g['malay_max']} (not translated)")
+    if g.get("english_max") is not None and r["english_ratio"] > g["english_max"]:
+        fails.append(f"english {r['english_ratio']:.2f} > {g['english_max']} (not translated)")
     if r["figures_missing"]:
         fails.append(f"figures missing {r['figures_missing'][:8]}")
     if r["invented_labels"]:
@@ -244,6 +260,33 @@ def run_segment(stage, index, source, names, extra, caller, model, tries, workdi
             "tries": len(attempts), "last": last}
 
 
+def regate(a):
+    """Re-measure saved tries with the current gate; accept the first that passes. No calls."""
+    manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
+    episode = resolve_tag(manifest, a.tag)
+    tag = a.tag.partition(":")[0]
+    workdir = Path(a.workdir or ROOT / "data" / f"_{tag}_rewrite")
+    segments = json.loads(Path(a.segments or ROOT / "data" / f"_{tag}_segments.json")
+                          .read_text(encoding="utf-8"))
+    names = names_for(episode["video_id"])
+    for stage in [s for s in STAGES if s in a.stage]:
+        wd = workdir / stage
+        for i in range(len(segments)):
+            if (wd / f"seg{i:02d}.md").exists() or not (wd / f"seg{i:02d}.json").exists():
+                continue
+            source = (segments[i]["text"] if stage == "mixed"
+                      else (workdir / "mixed" / f"seg{i:02d}.md").read_text(encoding="utf-8"))
+            r = None
+            for p in sorted(wd.glob(f"seg{i:02d}.try*.md")):
+                r = measure(stage, source, p.read_text(encoding="utf-8"), names)
+                if not r["failures"]:
+                    (wd / f"seg{i:02d}.md").write_text(p.read_text(encoding="utf-8"), encoding="utf-8")
+                    print(f"  seg {i:02d} {stage:5} accepted on re-gate ({p.name}); worded {r['figures_worded']}")
+                    break
+            else:
+                print(f"  seg {i:02d} {stage:5} still failing: {r['failures'] if r else 'no tries saved'}")
+
+
 def describe(result):
     last = result.get("last", {})
     if result["status"] == "cached":
@@ -279,6 +322,12 @@ def write_episode(episode, workdir, count, clean_model):
     import lib_claude_rewrite
 
     bodies = {stage: stitch(workdir, stage, count) for stage in STAGES}
+    # The model recorded in the frontmatter is the one that WROTE the segments, read from
+    # their reports -- not whatever --model happened to be on the --write invocation. ep62's
+    # first write stamped Haiku on Sonnet's text that way.
+    used = {stage: sorted({json.loads((workdir / stage / f"seg{i:02d}.json").read_text(encoding="utf-8"))["model"]
+                           for i in range(count)}) for stage in STAGES}
+    clean_model = ", ".join(used["mixed"])
     out_dir = EPISODES_DIR / episode_path(episode)
     print("extracting metadata (hosts/guests/summary/topics) ...")
     meta = lib_claude_rewrite.extract_metadata(None, bodies["mixed"])
@@ -329,7 +378,13 @@ def main():
                          "self-correction ('137, eh, 193 juta') or a false start the model rightly "
                          "dropped. A person reads the figure contexts in the log first. No other "
                          "gate failure is waived.")
+    ap.add_argument("--regate", action="store_true",
+                    help="re-measure the saved tries of unaccepted segments with the current gate and "
+                         "accept the first that passes; no model is called")
     a = ap.parse_args()
+    if a.regate:
+        regate(a)
+        return
     for stage in [s for s in STAGES if s in a.stage]:
         for i in a.accept_figures:
             wd = Path(a.workdir or ROOT / "data" / f"_{a.tag.partition(':')[0]}_rewrite") / stage

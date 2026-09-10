@@ -602,8 +602,8 @@ more than 300 s between two turns, which is the hole the last-stamp check cannot
 
 ## Writing the interview files from segments
 
-Not yet the shipping path. The rewrite stage still rewrites a whole episode in one pass, and
-this is the replacement being measured. Since 2026-09-10 the source is raw.md itself: ep62's
+The shipping path for ep62 (2026-09-10) and for every episode after it; the whole-episode
+rewrite in transcribe_episode.py remains for the older files. The source is raw.md itself: ep62's
 raw.md is MAI's words under the camera's names (`mai_camera_raw.py`, ENGINEERING_LOG 2.11),
 so the interview and `check_figures.py` read the same file.
 
@@ -621,6 +621,15 @@ headings or preamble), keeps a passing segment on disk and retries only the fail
 English stage must LOSE Malay density (ceiling 0.30) or it did not translate; the Malay stage
 must keep it. `--write` refuses while any segment of any stage has no accepted file.
 `--instructions` appends owner facts to the prompt, such as ep62's two title corrections.
+
+**What ep62 measured (ENGINEERING_LOG 2.12).** Model: Sonnet, at about $0.10 a segment with
+lib_claude_rewrite's flags; gemini-flash-lite passed every gate by copying the input 99%
+word-for-word and was dropped, Haiku translated the Malay away. 78 segment outputs, all
+accepted: 60 on the first try, 9 on a retry, 9 by hand after a person read the printed
+figure context (a self-correction, a false start, "tahun 60-an" written as "the 1960s").
+Four segments were refused twice because the raw carried a garbled figure and the model
+resolved it by guessing a digit; each went back to the owner's ear and raw.md was fixed first.
+A guessed figure never passes.
 
 **Why the filler strip is a step and not a regex.** MAI transcribes the backchannels the
 local ASR drops, so 527 of ep62's 1,613 merged turns are one grunt each and 426 of those are

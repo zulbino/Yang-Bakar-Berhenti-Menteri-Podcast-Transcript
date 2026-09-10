@@ -100,6 +100,12 @@ CORRECTIONS = [
      "OWNER-supplied. Tan Sri Mohd Isa Abdul Samad, FELDA chairman until January 2017 and "
      "Shahrir's predecessor. 5 occurrences against 16 already-correct `Isa Samad` in the "
      "same episode."),
+    (r"Yang Menteri Menteri(?![A-Za-z])",
+     "Yang Berhenti Menteri",
+     "The show's own name. MAI-Transcribe-2 hears the opening 'Podcast Yang Berhenti Menteri' "
+     "as 'Yang Menteri Menteri' -- 7 occurrences, all ep62 (raw + the three interview files "
+     "+ the summary), against 424 correct in the corpus. Anchored on the full three-word "
+     "garble; 'Yang Bakar Menteri' is the other show and is untouched."),
     (r"Shahril Samad(?![A-Za-z])",
      "Shahrir Samad",
      "OWNER-caught 2026-09-10 on the MAI transcript of ep62, which hears the FELDA chairman "

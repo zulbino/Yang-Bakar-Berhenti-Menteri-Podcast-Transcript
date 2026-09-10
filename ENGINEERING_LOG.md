@@ -4174,3 +4174,39 @@ Malay or English number word appears more often in the output than in the input.
 Sonnet passes 2 of 3 (it still dropped a `99` and a false-start `20` on segment 10) and
 gemini-flash-lite 3 of 3 at 2-6 s a segment, editing very little. Which polish level to ship
 is the owner's call, still open.
+
+
+### 2.12: ep62's interview files, segment by segment, and the four figures the gate sent back to the owner
+
+The first episode written by `rewrite_segments.py` (ARCHITECTURE, "Writing the interview files
+from segments"). 26 segments, three stages, 78 outputs, every one measured before it was kept.
+
+**The gate earned its keep on figures, and in both directions.** Four segments it refused were
+right to refuse in a way no length or language check could see: Sonnet had read `2.2.26
+billion` as `2.263 billion`, `1.5.19 eh, September 2014` as `15.9`, `20, uh, 20 tu` as `2020`
+and `2016- 13` as `2013`. Each was a garble in the raw that the model resolved by guessing.
+The owner listened: `benda ni dah 15 tahun`, `daripada 2020 kan, dia di bawah Datuk Seri
+Azmin`, `2.2-2.6 billion`, `dua ribu en--eh tiga belas`, and 1.5.19 turned out to be a
+paragraph number Rafizi was reading from page 62 of the 2019 FELDA White Paper ("Kes 7:
+Pembelian Park City Grand Plaza Kensington 1.5.19 Pada 8 September 2014"). raw.md was fixed,
+the segments re-run, all four passed first time with every figure kept.
+
+The other refusals were the gate being too literal, and each became a rule: `137, eh, 193
+juta` losing its 137 is a self-correction (accepted by hand, `--accept-figures`, after the
+printed context is read); `tahun 60-an` becoming `the 1960s` is a year written out; `2/3`
+becoming `dua pertiga` is a number word; `4,800` and `4800` are one figure. And the Malay
+stage's floor was wrong: a Malay translation of colloquial Malay formalises it, so `tu`, `ni`,
+`kan`, `lah` fall away and the function-word count drops to 0.60 of the input with nothing
+lost. The test that it translated is that the English function words vanish, which they did
+(49 to 1 on the worst segment).
+
+**Two things --write got wrong on the first pass**, both found by reading the output rather
+than the checkers: it stamped `model: claude-haiku-4-5-20251001` on Sonnet's text because it
+took the model from the command line instead of from the segments' reports, and MAI's `Podcast
+Yang Menteri Menteri` had flowed from raw into all three files and the summary. The first is
+fixed in the tool; the second is a fix_proper_nouns rule (7 occurrences, all ep62, against 424
+correct).
+
+Cost of the episode: about $8 on the Claude seat -- 31 mixed calls, 55 translation calls, one
+metadata call. Baselines after: qa 0/69, check_figures 0/69, check_published 0 on ep62,
+check_rewrite_complete ok (en 1.08, ms 0.99 of interview.md).
