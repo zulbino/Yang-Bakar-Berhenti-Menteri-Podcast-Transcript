@@ -637,7 +637,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [29:18] Haziq: Ya.
 
-[29:18] Rafizi: Jadi ah yalah baguslah Tan Sri Halim Aman, Ketua Pesuruhjaya yang baru ni buka balik kan. Ah tapi yalah the bigger question is benda ni dah ada 5. Bukti itu dah ada daripada yang saya expose paling awal tahun 2012, kemudian 2016, 2017, semua all documented. Uh, kemudian apabila Pakatan Harapan ambil alih kan di bawah Datuk Seri Azmin Ali masa tu. Nanti kita nak kena sembang juga ni. Kenapa FELDA dulu di bawah Menteri Ekonomi tau?
+[29:18] Rafizi: Jadi ah yalah baguslah Tan Sri Halim Aman, Ketua Pesuruhjaya yang baru ni buka balik kan. Ah tapi yalah the bigger question is benda ni dah 15 tahun. Bukti itu dah ada daripada yang saya expose paling awal tahun 2012, kemudian 2016, 2017, semua all documented. Uh, kemudian apabila Pakatan Harapan ambil alih kan di bawah Datuk Seri Azmin Ali masa tu. Nanti kita nak kena sembang juga ni. Kenapa FELDA dulu di bawah Menteri Ekonomi tau?
 
 [30:00] Rafizi: Ha kan. Nak ke arah itulah ni kan.
 
@@ -667,7 +667,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [31:45] Rafizi: Hmm.
 
-[31:45] Rafizi: Bermula semasa beliau sebagai Timbalan Perdana Menteri dan disambung menjadi Perdana Menteri lah. Uh, kemudian uh 2018 sehingga 2020 kan, um dia di bawah Datuk Seri Azmin, Menteri Hal Ehwal Ekonomi masa itu. Dan saya ingat daripada 20, uh, 20 tu ke atas dia di bawah Perdana Menteri lah kot, kan? Di bawah Perdana, uh, Menteri, ha kan. So maksudnya bermula, uh, 2022, akhir 2022 tu dia di bawah Datuk Seri Anwar Ibrahim. Jadi semasa pembentukan kerajaan tu ialah adalah semua ni. Sebab masa selepas Sheraton Move, Kementerian Ekonomi tu tak ada dah.
+[31:45] Rafizi: Bermula semasa beliau sebagai Timbalan Perdana Menteri dan disambung menjadi Perdana Menteri lah. Uh, kemudian uh 2018 sehingga 2020 kan, um dia di bawah Datuk Seri Azmin, Menteri Hal Ehwal Ekonomi masa itu. Dan saya ingat daripada 2020 kan, dia di bawah Datuk Seri Azmin lah kot, kan? Di bawah Perdana, uh, Menteri, ha kan. So maksudnya bermula, uh, 2022, akhir 2022 tu dia di bawah Datuk Seri Anwar Ibrahim. Jadi semasa pembentukan kerajaan tu ialah adalah semua ni. Sebab masa selepas Sheraton Move, Kementerian Ekonomi tu tak ada dah.
 
 [32:35] Haziq: Betul.
 
@@ -1739,7 +1739,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [1:47:26] Haziq: Hmm.
 
-[1:47:27] Rafizi: Atau 2.2.26 billion lah kan? Jangan cross lagi. Jangan cross lagi.
+[1:47:27] Rafizi: Atau 2.2-2.6 billion lah kan? Jangan cross lagi. Jangan cross lagi.
 
 [1:47:32] Haziq: Ah, okey.
 
@@ -2051,7 +2051,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [2:09:58] Haziq: Mm.
 
-[2:09:59] Rafizi: Uh, FELDA dah ada hutang 6 billion lebih. Uh, kemudian nak kena tambah lagi 2016- 13 jumlah hutang FGV 2.7 bilion.
+[2:09:59] Rafizi: Uh, FELDA dah ada hutang 6 billion lebih. Uh, kemudian nak kena tambah lagi dua ribu en--eh tiga belas jumlah hutang FGV 2.7 bilion.
 
 [2:10:10] Rafizi: Hmm.
 
