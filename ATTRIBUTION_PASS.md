@@ -23,6 +23,7 @@ cp data/_epNN_new.md episodes/.../raw.md
 # 2. the standard, in this order -- the fold needs the grunts gone first
 python scripts/strip_filler_turns.py episodes/.../raw.md --write
 python scripts/fold_hanging_fragments.py epNN --write
+python scripts/move_hanging_words.py epNN --write
 python scripts/merge_same_speaker.py --episode=epNN --raw-only --write
 python scripts/fix_proper_nouns.py --write
 python scripts/fix_yb_honorific.py --write
@@ -34,7 +35,8 @@ python scripts/qa_check.py && python scripts/check_published.py && python script
 
 What each number has to read: zero adjacent same-speaker blocks except `Multiple speakers`
 and `Speaker ?`; zero turns that are only a vocalisation; zero YB garbles and zero `Pak An`
-or `Paan`; no run of three newlines; every hanging fragment either camera-attested or folded;
+or `Paan`; no run of three newlines; every hanging fragment either camera-attested or folded, and no sentence
+split between two speakers -- the owner has raised that one three times;
 owner decisions preserved with the gold passage kept; the four checker baselines unmoved.
 ep61 and ep62 both meet it as of 2026-09-10.
 

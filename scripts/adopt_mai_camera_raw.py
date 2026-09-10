@@ -18,12 +18,17 @@ ORDER MATTERS, and each step is here for a measured reason:
      fire.
   4. `fold_hanging_fragments.py` -- a mid-sentence fragment the camera cannot see at all
      falls to the speaker around it. Camera-attested fragments are never touched.
-  5. `merge_same_speaker.py` -- adjacent same-name blocks join. The fold creates new
+  5. `move_hanging_words.py` -- a sentence is never split between two speakers. The tail
+     after a block's last full stop moves into the next block when that block continues the
+     sentence in lower case. The camera does NOT get a veto here: it attests the wrong
+     speaker on exactly these boundaries, because the show cuts to the person about to
+     answer. The owner has raised this defect three times.
+  6. `merge_same_speaker.py` -- adjacent same-name blocks join. The fold creates new
      adjacency, so it runs after.
-  6. `fix_proper_nouns.py` and `fix_yb_honorific.py` -- corpus-wide reviewed maps. MAI
+  7. `fix_proper_nouns.py` and `fix_yb_honorific.py` -- corpus-wide reviewed maps. MAI
      spells the honorific `Abi` where the local ASR wrote `wabi`, so a fresh MAI raw always
      needs the second one.
-  7. Verification, printed: decisions, gold, adjacency, grunts, garbles, hanging fragments,
+  8. Verification, printed: decisions, gold, adjacency, grunts, garbles, hanging fragments,
      and the camera score.
 
   python scripts/adopt_mai_camera_raw.py ep60             # dry run: build, gate, report
@@ -108,13 +113,13 @@ def main():
         io.open(current, "w", encoding="utf-8", newline="\n").write(out)
 
     candidate = ROOT / "data" / f"_{a.tag}_candidate_raw.md"
-    print(f"[1/7] build from MAI words + the camera, fallback and gold from {current.name}")
+    print(f"[1/8] build from MAI words + the camera, fallback and gold from {current.name}")
     code, _ = run([PY, "scripts/mai_camera_raw.py", a.tag, "--current", str(current),
                    "--out", str(candidate)])
     if code:
         sys.exit("build failed")
 
-    print("[2/7] gate: every recorded owner decision survives the candidate")
+    print("[2/8] gate: every recorded owner decision survives the candidate")
     code, _ = run([PY, "scripts/check_owner_decisions.py", a.tag, str(candidate),
                    "--current", str(current)])
     if code:
@@ -129,16 +134,18 @@ def main():
         return
 
     raw.write_text(candidate.read_text(encoding="utf-8"), encoding="utf-8")
-    print("[3/7] drop turns that are only a vocalisation")
+    print("[3/8] drop turns that are only a vocalisation")
     run([PY, "scripts/strip_filler_turns.py", str(raw), "--write"])
-    print("[4/7] fold hanging fragments the camera cannot see")
+    print("[4/8] fold hanging fragments the camera cannot see")
     run([PY, "scripts/fold_hanging_fragments.py", a.tag, "--write"])
-    print("[5/7] join adjacent same-speaker blocks")
+    print("[5/8] move hanging half-sentences to the speaker who finishes them")
+    run([PY, "scripts/move_hanging_words.py", a.tag, "--write"])
+    print("[6/8] join adjacent same-speaker blocks")
     run([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"])
-    print("[6/7] reviewed name maps, corpus-wide")
+    print("[7/8] reviewed name maps, corpus-wide")
     run([PY, "scripts/fix_proper_nouns.py", "--write"], quiet=True)
     run([PY, "scripts/fix_yb_honorific.py", "--write"], quiet=True)
-    print("[7/7] verify")
+    print("[8/8] verify")
     run([PY, "scripts/check_owner_decisions.py", a.tag, str(raw), "--current", str(current)])
     report(a.tag, raw, reference)
     print(f"\nadopted {rel}. Read the diff before committing, then the four checkers.")
