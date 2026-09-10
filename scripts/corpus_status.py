@@ -66,9 +66,15 @@ def main():
         coverage, words = mai_coverage(vid, seconds)
         published = [n for n in ("interview.md", "interview-ms.md", "interview-en.md")
                      if os.path.exists(os.path.join(folder, n))]
-        # A published file older than the raw it came from is stale by definition.
-        stale = adopted and any(os.path.getmtime(os.path.join(folder, n))
-                                < os.path.getmtime(raw_path) for n in published)
+        # Staleness cannot be read from mtime: writing the navigation header touched every
+        # published file and made all five look fresh while their text still came from the
+        # local-ASR raw. So it is content-based -- a published file is stale until its
+        # frontmatter records the sha of the raw.md it was generated from, which
+        # rewrite_segments.py stamps. Nothing carries that yet, so every MAI raw counts as
+        # having stale published files, which is exactly true today.
+        stale = adopted and any(
+            "raw_sha:" not in io.open(os.path.join(folder, n), encoding="utf-8").read(1500)
+            for n in published)
         rows.append((tag, vid, coverage, words, reference, adopted, len(published), stale))
 
     rows.sort(key=lambda r: int(r[0][2:]), reverse=True)
