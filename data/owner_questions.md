@@ -35,17 +35,25 @@ keeps against the camera.
 
 ## One real question for the owner
 
-- **`Ashraf Wajdi` or `Asyraf Wajdi`? The corpus says both, exactly 35 times each.** Datuk
-  Dr Mohd Asyraf Wajdi Dusuki. The press spells it **Asyraf** -- the Berita Harian report
-  already cited in `fix_proper_nouns.py` is `asyraf-wajdi-serah-lod-rm5-juta`. So the
-  70 occurrences should probably all become `Asyraf`, but that is a corpus-wide normalisation
-  over 70 spots and the machines cannot settle it: this is the exact shape of the trap in
-  [[project-name-corrections-rule]], where the majority spelling was right for Akmal Saleh
-  and wrong for Fuziah Salleh in the same corpus. A 35/35 split has no majority at all.
-  Nothing is blocked on this and no checker flags it, because raw and published agree
-  wherever they sit. Asked 2026-09-11 while adopting ep56, where MAI's `Asravu HD` was
-  mapped to `Ashraf Wajdi` -- the spelling ep56's own published files already use -- purely
-  so that one episode stayed self-consistent. That choice is not a vote on the question.
+- **`Asyraf Wajdi` looks settled -- 35 published occurrences still say `Ashraf`.** Datuk Dr
+  Mohd Asyraf Wajdi Dusuki. Counting every file equally gives a dead heat, Ashraf 35 to
+  Asyraf 35, which is why this first looked unanswerable. **Split by file type it is not
+  close.** In raw.md, which is what an engine actually heard, it is **Asyraf 15 to Ashraf 2**,
+  and ep60's MAI raw spells it Asyraf six times unaided. The Ashraf majority sits entirely in
+  the rewritten interview files, and those are generated FROM raw, so they are not a witness
+  to anything -- counting them equally would let the rewrite outvote the audio. The press
+  agrees with raw: the Berita Harian report cited in `fix_proper_nouns.py` is
+  `asyraf-wajdi-serah-lod-rm5-juta`.
+  **So the machines have answered the spelling. What needs the owner is the write.** 33
+  occurrences in published files and 2 in raw would change, and the precedent in this map is
+  that a name goes in only after an external source AND the owner's word -- that is how
+  `Ismail Salleh` went in, in two stages. Nothing is blocked and no checker flags it, because
+  check_names treats Ashraf and Asyraf as the same person. Say the word and it is one entry
+  in the reviewed map.
+  Raised 2026-09-11 while adopting ep56, where MAI's `Asravu HD` was mapped to `Asyraf
+  Wajdi`. That mapping first went in as `Ashraf` to match ep56's own published files and was
+  corrected the same night, once the by-file-type count showed the published spelling was the
+  weaker witness.
 
 ## Waiting on a machine, not on the owner
 

@@ -381,14 +381,23 @@ CORRECTIONS = [
     # right and MAI did not, which is the other way round from most of this map. It occurs
     # ONCE in 168 hours, and the sentence identifies him without doubt: Haziq is talking
     # about the content filling his FYP and says the man appeared on the podcast Lebih Masa
-    # two months earlier. The target spelling is the one ep56's own published files already
-    # use, so raw and published agree and check_names goes quiet.
+    # two months earlier.
     #
-    # A SEPARATE QUESTION FOR THE OWNER, deliberately not settled here: the corpus spells
-    # him `Ashraf Wajdi` 35 times and `Asyraf Wajdi` 35 times, an exact split, and the
-    # press spells it Asyraf (the Berita Harian link below). Normalising 70 occurrences is a
-    # corpus-wide decision and not part of adopting one episode.
-    (r"Asravu HD(?![A-Za-z])", "Ashraf Wajdi",
+    # WHY `Asyraf` AND NOT `Ashraf`, because a whole-corpus count says the opposite. All
+    # files together read Ashraf 35 and Asyraf 35, a dead heat. Split by file type it is not
+    # close: the raw transcripts, which are what an engine actually heard, read **Asyraf 14
+    # and Ashraf 2**, and ep60's MAI raw spells it Asyraf six times. The Ashraf majority
+    # lives entirely in the rewritten interview files, which are generated FROM raw and are
+    # not a witness to anything. The press agrees with raw -- the Berita Harian report below
+    # is `asyraf-wajdi-serah-lod-rm5-juta`. Counting every file equally would have picked the
+    # spelling produced by the rewrite over the one heard from the audio.
+    # https://www.bharian.com.my/berita/nasional/2026/08/1601917/asyraf-wajdi-serah-lod-rm5-juta-kepada-ismail-salleh-abied-abdullah
+    #
+    # NOT NORMALISED HERE, and it is an owner question in data/owner_questions.md: 33
+    # `Ashraf Wajdi` in published files and 2 in raw. Precedent in this map is that a name
+    # goes in after an external source AND the owner confirms it -- that is how Ismail
+    # Salleh went in -- so 35 more occurrences wait for them.
+    (r"Asravu HD(?![A-Za-z])", "Asyraf Wajdi",
      "raw ep56 x1: 'content-content mengenai Asravu HD'. Datuk Dr Mohd Asyraf Wajdi "
      "Dusuki. Anchored on the full garble, not on `Asravu`, and it appears nowhere else."),
     # The two men served letters of demand over the RCI Tabung Haji report, in ep60's UMNO
