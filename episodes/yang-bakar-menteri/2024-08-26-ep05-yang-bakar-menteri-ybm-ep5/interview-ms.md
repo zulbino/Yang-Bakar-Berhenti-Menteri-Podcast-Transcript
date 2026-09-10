@@ -46,6 +46,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Bakar Menteri episode 5 — Yang Bakar Menteri(YBM) Ep5**  
+26 August 2024 · 1h 31m · [watch on YouTube](https://www.youtube.com/watch?v=AHAa0a58w64)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Ibrahim Sani:** Assalamualaikum warahmatullah, salam sejahtera. Inilah dia AudioSiap ataupun podcast Yang Bakar Menteri. Nama saya Ibrahim Sani, saya akan mempengerusikan perbincangan ataupun mungkin boleh jadi perbalahan insya-Allah kalau kita dapat di antara kedua.

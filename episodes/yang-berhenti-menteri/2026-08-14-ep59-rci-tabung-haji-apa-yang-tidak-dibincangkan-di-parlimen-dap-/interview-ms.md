@@ -53,6 +53,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 59 — RCI Tabung Haji: Apa Yang Tidak Dibincangkan Di Parlimen? DAP Pula Nak Ke Mana?**  
+14 August 2026 · 3h 3m · [watch on YouTube](https://www.youtube.com/watch?v=EUvzOPbs7CE)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri episod ke-59. Edisi demam.

@@ -51,6 +51,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 10 — Yang Berhenti Menteri X CiliSos Episod 10**  
+22 August 2025 · 1h 36m · [watch on YouTube](https://www.youtube.com/watch?v=gArEFuCJph8)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Iqbal:** Assalamualaikum and welcome to the latest episode of Yang Berhenti Menteri with us, your hosts from Cilisos, Iqbal and.

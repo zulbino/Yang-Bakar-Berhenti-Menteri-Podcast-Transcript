@@ -46,6 +46,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Bakar Menteri episode 6 — Yang Bakar Menteri EP 6 - Rafizi Ramli & Lim Sian See**  
+30 September 2024 · 1h 0m · [watch on YouTube](https://www.youtube.com/watch?v=-tpyLr5kwxI)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Syed Munawar:** Yes, assalamualaikum, greetings of goodwill. Many have probably been looking forward to the Minister-to-be, YBM, meeting me tonight — what episode number is this, YB? Six? Seven?

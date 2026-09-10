@@ -48,6 +48,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 17 — Yang Berhenti Menteri Episod 17 — Belanjawan 2026, Janji & FAM**  
+10 October 2025 · 2h 11m · [watch on YouTube](https://www.youtube.com/watch?v=FV1DGv-EDYM)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Podcast Yang Berhenti Menteri, Episode 17, a special episode tonight. I won't. Okay, let me go down. Even though we started early, YB, we haven't even done anything and I've already been fired. I'm sorry.

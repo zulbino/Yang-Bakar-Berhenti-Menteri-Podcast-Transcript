@@ -36,6 +36,14 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
   or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Bakar Menteri episode 1 — Yang Bakar Menteri Ep 1 - YB Rafizi Ramli & Nazri Hamdan - 8 Jan 2024 #YangBakarMenteri**  
+8 January 2024 · 1h 17m · [watch on YouTube](https://www.youtube.com/watch?v=c9JQ9BoGJms)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Najib:** Assalamualaikum, salam sejahtera. Saya Najib Bakar, kita ke episod pertama Yang Bakar Menteri. Yes, kelakar tak? Kelakar. Jadi macam-macam YB letak di poster sosial media kan? Nama Rafizi dan Nazri Hamdan. Tiba-tiba siapa mamat seorang ni kan? Tak, saya bertugas malam ni sebagai moderator lah. Lebih kurang macam tulah. Apa khabar YB?

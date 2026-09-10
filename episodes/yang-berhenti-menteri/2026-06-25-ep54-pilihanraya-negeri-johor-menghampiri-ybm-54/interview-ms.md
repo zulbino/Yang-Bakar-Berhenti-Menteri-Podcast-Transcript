@@ -52,6 +52,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 54 — Pilihanraya Negeri Johor Menghampiri**  
+25 June 2026 · 1h 31m · [watch on YouTube](https://www.youtube.com/watch?v=5IjX6nVTcDs)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan salam sejahtera, Podcast Yang Berhenti Menteri, Episod ke-54. Saya rasa agak kekok sikit, YB. Agaknya kenapa YB?

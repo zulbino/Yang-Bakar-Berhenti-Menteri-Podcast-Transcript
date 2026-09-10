@@ -15,6 +15,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
   the polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 39 — Perang Mafia Korporat, Azam Baki Saga: Ada Apa Dengan Azam Baki & Anwar**  
+13 March 2026 · 2h 50m · [watch on YouTube](https://www.youtube.com/watch?v=XH1dBHPPRbs)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:54] Rafizi: Assalamualaikum dan salam sejahtera Selamat malam walaupun kita rekod pada pagi Tak payahlah cakap ke orang, kita rekod pagi Pur-pura sikit Kena lah pandai berlakon sedikit Masyam tak ada Episode ke-39 macam biasa bersama saudara Rafizi Ramli Dan kita ada saudara Iqbal Kenapa kita jemput Iqbal? Dia selalu balik, orang lain kecik hati tau tapi diorang perasan Iqbal ni dah 3-4 kali dijemput kenapa mereka tak dijemput balik? Ke sebab orang lain duduk di luar KL?

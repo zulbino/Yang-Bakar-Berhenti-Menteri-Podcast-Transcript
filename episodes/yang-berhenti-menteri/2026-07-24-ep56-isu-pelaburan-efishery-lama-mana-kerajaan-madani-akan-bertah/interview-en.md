@@ -60,6 +60,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 56 — Isu Pelaburan eFishery, Lama Mana Kerajaan MADANI Akan Bertahan?**  
+24 July 2026 · 2h 45m · [watch on YouTube](https://www.youtube.com/watch?v=nXMJ_FxwfjM)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Rafizi:** The Podcast That Stopped.

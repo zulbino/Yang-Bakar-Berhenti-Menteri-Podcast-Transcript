@@ -36,6 +36,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa), diterjemah segmen demi segmen.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 62 — FELDA Lama Sangat Peram, Kita Mula Dulu**  
+4 September 2026 · 3h 55m · [watch on YouTube](https://www.youtube.com/watch?v=0M5hweswMpE)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri episod ke-62. Macam biasa bersama saudara Rafizi Ramli.

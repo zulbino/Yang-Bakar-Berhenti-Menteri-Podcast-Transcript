@@ -11,6 +11,14 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
   polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 11 — Yang Berhenti Menteri Episod 11 - Merdeka Dahulu, Merdeka Sekarang**  
+29 August 2025 · 1h 51m · [watch on YouTube](https://www.youtube.com/watch?v=gMY5R36x-mo)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:00] [music/intro]

@@ -50,6 +50,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 14 — Yang Berhenti Menteri Episod 14**  
+19 September 2025 · 2h 6m · [watch on YouTube](https://www.youtube.com/watch?v=uboskXAZBfs)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan selamat datang Podcast Yang Berhenti Menteri dah episod ke-14. Jadi kita mungkin banyak sikit nak sentuh pada hari ini, tapi sebelum itu, macam biasa, soalan klise saya. Apa khabar YB?

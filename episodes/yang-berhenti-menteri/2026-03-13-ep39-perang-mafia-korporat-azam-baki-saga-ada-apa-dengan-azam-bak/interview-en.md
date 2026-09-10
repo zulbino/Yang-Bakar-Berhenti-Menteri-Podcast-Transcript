@@ -54,6 +54,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 39 — Perang Mafia Korporat, Azam Baki Saga: Ada Apa Dengan Azam Baki & Anwar**  
+13 March 2026 · 2h 50m · [watch on YouTube](https://www.youtube.com/watch?v=XH1dBHPPRbs)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Rafizi:** Assalamualaikum and peace be upon you. Good evening — although we're recording in the morning. No need to tell people we're recording in the morning. We'll pretend a little, we have to act a bit. It's as if there's no difference. Episode 39 as usual with Rafizi Ramli. And we have brother Iqbal with us. Why did we invite Iqbal? He always comes back — others might feel hurt, you know, but they notice Iqbal has been invited 3-4 times, why aren't they invited back? Or is it because others live outside KL?

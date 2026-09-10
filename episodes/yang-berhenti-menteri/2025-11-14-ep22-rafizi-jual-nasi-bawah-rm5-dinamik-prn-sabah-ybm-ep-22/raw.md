@@ -12,6 +12,14 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
   polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 22 — Rafizi Jual Nasi Bawah RM5 & Dinamik PRN Sabah**  
+14 November 2025 · 2h 52m · [watch on YouTube](https://www.youtube.com/watch?v=K_3PkyGlPG8)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:00] [Music / intro]

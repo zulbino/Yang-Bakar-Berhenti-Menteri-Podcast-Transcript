@@ -14,6 +14,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
   the polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 53 — Rohingya, Pilihan Raya dan Apa Yang Akan Berlaku Seterusnya**  
+19 June 2026 · 3h 0m · [watch on YouTube](https://www.youtube.com/watch?v=61L_JC1oCR4)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:44] Haziq: Baik, Assalamualaikum dan salam sejahtera Podcast Yang Berhenti Menteri Episod ke-53 Macam biasa bersama saya, Haziq Dan bersama saudara Rafizi Ramli Apa khabar, YB? Gila

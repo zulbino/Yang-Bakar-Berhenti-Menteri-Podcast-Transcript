@@ -43,6 +43,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 3 — Yang Berhenti Menteri #3**  
+4 July 2025 · 1h 57m · [watch on YouTube](https://www.youtube.com/watch?v=jutpDO2CZDU)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Bismillahirahmanirrahim, assalamualaikum dan selamat datang ke podcast Yang Berhenti Menteri episod ketiga pada kali ini bersama YB Rafizi, speaker tetap kita dan juga guest speaker kita pada hari ini Tuan Faizal Rahman. Apa khabar, tuan?

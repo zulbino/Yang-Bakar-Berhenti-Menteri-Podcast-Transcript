@@ -12,6 +12,14 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
   polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 26 — Reformasi Bukan Content: Azam Baki, UEC & Felda**  
+12 December 2025 · 2h 27m · [watch on YouTube](https://www.youtube.com/watch?v=UDyqU87cWXU)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [02:29] Haziq: Bukan "Yang Berhenti Menteri", dah episod ke-26 bersama saudara Rafizi. Sebelum itu, kena follow ramai-ramai social media macam biasa: Facebook, Twitter, IG, dan YouTube. Dengar cerita dah ada yang akaun 1 million, tapi tak biasa, kan? Komanlah tu. Komanlah 1 million. Di Facebook, eh? Jadi kena tambah lagi ramai lah, okey? Jadi saya mungkin tak nak prolong benda ni, kita banyak isulah YB minggu ni. Kita boleh terus kepada BERIA lah. "Beria Mat". Kita tengok episod yang ke-26, segmen pertama. Bismillah. Lambaian tangan dapat RM100. Tapi sebelum tu, YB kenal?

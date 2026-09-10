@@ -14,6 +14,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
   the polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 18 — Yang Berhenti Menteri Episod 18**  
+17 October 2025 · 2h 18m · [watch on YouTube](https://www.youtube.com/watch?v=KbbtwFgvTmw)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [02:26] Haziq: Podcast yang berhenti menteri Episod ke-18 Jadi yang baru masuk ni Saya nak minta kali ni pula Selain daripada terus follow dan subscribe page dan juga channel Rafizi Ramli di YouTube dan juga media sosial lain kita juga ada podcast dan ramai juga yang podcast kita memang ada podcast tapi kita ada di Spotify yang mendengar secara audosia jadi ada juga yang dengar tak dengar muka lah dia tak tengok muka saya dengan muka YB

@@ -50,6 +50,14 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
   or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 38 — SPRM Cari James Chai? Tangan-tangan Ghaib Berkaitan Zionis?**  
+6 March 2026 · 2h 51m · [watch on YouTube](https://www.youtube.com/watch?v=vvIaOJy3vMM)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Podcast Yang Berhenti Menteri, episod ke-38. Assalamualaikum YB, macam biasa.

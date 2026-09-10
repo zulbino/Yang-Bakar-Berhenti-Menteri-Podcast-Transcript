@@ -1,4 +1,6 @@
-# YBM Podcast Transcripts
+# Yang Berhenti Menteri / Yang Bakar Menteri — podcast transcripts
+
+Full text of Rafizi Ramli's podcast *Yang Berhenti Menteri* (YBM), and of *Yang Bakar Menteri* before the rename. 69 episodes, 168 hours.
 
 Baca dalam [Bahasa Melayu](README.ms.md).
 
@@ -13,6 +15,21 @@ This archive covers full episodes of an hour or more. It leaves out short teaser
 > AI tools transcribed these episodes from the audio and rewrote the result into readable interviews. I spot-checked them against the source recordings, but I have not checked any episode line by line. Please read the [accuracy note](#accuracy-note) before you cite anything here. [METHODOLOGY.md](METHODOLOGY.md) sets out what produced each file, the errors I have found and measured, and how to report one.
 
 For the pipeline itself, see [ARCHITECTURE.md](ARCHITECTURE.md). For every failure I hit while building it, see [ENGINEERING_LOG.md](ENGINEERING_LOG.md). For which speech models are worth using and what they score on Malaysian audio, see [MODEL_LANDSCAPE.md](MODEL_LANDSCAPE.md).
+
+## Start here
+
+**One episode, to see what you get:** episode 61 — [verbatim raw transcript](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/raw.md) · [interview edit](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview.md).
+
+**Browse by run:** [Yang Berhenti Menteri, 63 episodes](episodes/yang-berhenti-menteri/) · [Yang Bakar Menteri, 6 episodes](episodes/yang-bakar-menteri/). **Browse by subject:** [TOPICS.md](TOPICS.md).
+
+**Four files per episode.** Each episode folder holds the same four:
+
+| File | What it is |
+|---|---|
+| `raw.md` | Close to word for word, with a timestamp on every turn. The evidence file. |
+| `interview.md` | The same conversation edited into readable newspaper-style copy, keeping the original mix of Malay and English. |
+| `interview-en.md` | The interview edit, fully in English. |
+| `interview-ms.md` | The interview edit, fully in Bahasa Melayu. |
 
 ## Why this exists
 

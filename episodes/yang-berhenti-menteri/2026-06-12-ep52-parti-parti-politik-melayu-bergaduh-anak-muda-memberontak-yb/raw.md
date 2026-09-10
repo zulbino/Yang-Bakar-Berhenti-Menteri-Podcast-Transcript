@@ -22,6 +22,14 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
   interview*.md still carries the older attribution.'
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 52 — Parti-parti Politik Melayu Bergaduh & Anak Muda Memberontak**  
+12 June 2026 · 2h 50m · [watch on YouTube](https://www.youtube.com/watch?v=UVCt0u6ub_c)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:45] Haziq: Assalamualaikum dan salam sejahtera Macam biasa bersama saya Yang suara tak baik lagi Saudara Haziq Dan macam biasa juga Saudara Haziq? Saudara Haziq macam pelik kan Haziq

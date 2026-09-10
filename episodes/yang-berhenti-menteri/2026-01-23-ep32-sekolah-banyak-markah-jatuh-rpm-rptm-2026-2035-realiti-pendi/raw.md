@@ -13,6 +13,14 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
   polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 32 — Sekolah Banyak, Markah Jatuh: RPM, RPTM 2026–2035 & Realiti Pendidikan Malaysia**  
+23 January 2026 · 2h 54m · [watch on YouTube](https://www.youtube.com/watch?v=UF8RxxOiWDA)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:00] [Muzik / countdown bermula]

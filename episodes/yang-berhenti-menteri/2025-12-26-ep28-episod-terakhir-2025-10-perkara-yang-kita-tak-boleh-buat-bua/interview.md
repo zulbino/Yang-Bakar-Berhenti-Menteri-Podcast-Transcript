@@ -79,6 +79,14 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
   or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 28 — Episod Terakhir 2025: 10 Perkara Yang Kita Tak Boleh Buat-buat Lupa - YBM**  
+26 December 2025 · 3h 31m · [watch on YouTube](https://www.youtube.com/watch?v=CcEryIGLnlg)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Assalamualaikum dan selamat datang ke Yang Berhenti Menteri Podcast, episod khas, episod ke-28. Sebelum saya membuat pengakuan, mungkin lebih baik untuk saya cakap — Merry Christmas! Ho ho ho. Awkward.

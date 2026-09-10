@@ -53,6 +53,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 4 — Yang Berhenti Menteri #4**  
+11 July 2025 · 1h 51m · [watch on YouTube](https://www.youtube.com/watch?v=VR4qReRZSR8)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan selamat datang. Podcast Yang Berhenti Menteri episod keempat. Seperti biasa bersama saudara Rafizi. YB Rafizi, apa khabar? Okey?

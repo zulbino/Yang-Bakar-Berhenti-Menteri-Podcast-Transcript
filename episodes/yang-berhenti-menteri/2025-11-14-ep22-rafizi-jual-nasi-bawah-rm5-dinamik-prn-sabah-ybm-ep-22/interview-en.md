@@ -59,6 +59,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 22 — Rafizi Jual Nasi Bawah RM5 & Dinamik PRN Sabah**  
+14 November 2025 · 2h 52m · [watch on YouTube](https://www.youtube.com/watch?v=K_3PkyGlPG8)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** This is Podcast Yang Berhenti Menteri episode 22. Assalamualaikum and peace be upon you, welcome to everyone who's just tuned in. Don't forget to follow Mohd Rafizi's social media and also our new Spotify, which in less than a month we already have almost 600 followers, YB.

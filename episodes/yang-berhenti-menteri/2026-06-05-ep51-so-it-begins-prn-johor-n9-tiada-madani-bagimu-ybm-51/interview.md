@@ -52,6 +52,14 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
   or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 51 — So It Begins: PRN Johor & N9 & Tiada MADANI Bagimu**  
+5 June 2026 · 2h 39m · [watch on YouTube](https://www.youtube.com/watch?v=rnw1urH_Kd0)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Pulau Pandan Jauh Ke Tengah Podcast YBM, Episod 51. Kita teruskan juga — Assalamualaikum dan selamat datang bersama, macam biasa, Saudara Rafizi. Apa khabar?

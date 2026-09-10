@@ -55,6 +55,14 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
   or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 4 — Yang Berhenti Menteri #4**  
+11 July 2025 · 1h 51m · [watch on YouTube](https://www.youtube.com/watch?v=VR4qReRZSR8)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Assalamualaikum dan selamat datang. Podcast Yang Berhenti Menteri episod keempat. Seperti biasa bersama saudara Rafizi. YB Rafizi, apa khabar? Okey?

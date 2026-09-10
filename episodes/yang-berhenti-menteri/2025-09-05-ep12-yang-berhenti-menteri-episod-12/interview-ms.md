@@ -47,6 +47,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 12 — Yang Berhenti Menteri Episod 12**  
+5 September 2025 · 2h 2m · [watch on YouTube](https://www.youtube.com/watch?v=VfxfuCEv5XE)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan selamat datang. Yang Berhenti Menteri Podcast, episod ke-12. Apa khabar semua? Yang masih bersiaran dengan kita, tap tap skrin dan penuhkan komen di ruangan komen kita. Saya pun dah lama tak jumpa YB Rafizi, tapi masih baik, tak kena pecat je. Alhamdulillah. Tapi YB, disebabkan saya dah lama tak jumpa YB, saya nak tanya satu soalan — apa khabar tu sangat mainstream, apa orang kata, mainstream lah. Jadi saya nak tanya, perjalanan YB untuk diet dan kurus ni berapa banyak dah turun sebenarnya sejak saya tinggalkan YB? Itu soalan peribadi.

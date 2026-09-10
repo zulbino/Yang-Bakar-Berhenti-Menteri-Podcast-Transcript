@@ -44,6 +44,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 6 — Yang Berhenti Menteri #6**  
+25 July 2025 · 1h 57m · [watch on YouTube](https://www.youtube.com/watch?v=aUasTCpoZCU)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan selamat datang. Podcast Yang Berhenti Menteri sudah episod keenam. Saudara Rafizi ada bersama kita baru habis jogging dan sudah pasti dengan tetamu kita pada malam ini, Saudara Zaim yang merupakan jurucakap atau wakil Sekretariat Rakyat Benci Rasuah yang juga mahasiswa yang sebenarnya mengajak pelbagai ketua pemuda untuk berdebat — Ketua Pemuda AMK dan juga Ketua Pemuda UMNO.

@@ -33,6 +33,14 @@ model: claude-sonnet-5
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript, or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 61 — NEGERI MISKIN SEBAB DIANAKTIRI, KEGANASAN RUMAH TANGGA DALAM KERAJAAN MADANI**  
+28 August 2026 · 2h 54m · [watch on YouTube](https://www.youtube.com/watch?v=2AytMmKIU7w)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Assalamualaikum dan salam sejahtera, Podcast Yang Berhenti Menteri, episod ke-61. Macam biasa bersama saudara Rafizi Ramli. Demam ke weh, dia pakai kod ni? Tak ada sebab. Kod ni dia panggil apa ni? Windbreaker?

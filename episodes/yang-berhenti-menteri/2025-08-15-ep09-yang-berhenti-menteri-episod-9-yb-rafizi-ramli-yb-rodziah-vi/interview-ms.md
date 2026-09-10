@@ -49,6 +49,14 @@ language: ms
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 9 — Yang Berhenti Menteri Episod 9 - YB Rafizi Ramli, YB Rodziah & Victor Tan**  
+15 August 2025 · 2h 14m · [watch on YouTube](https://www.youtube.com/watch?v=hDQLr8WvTjA)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Victor Tan:** Selamat sejahtera dan selamat sepupu! Selamat datang ke episod 9 *Yang Berhenti Menteri*. Saya berada di sini bersama YB Pandan, Rafizi, dan juga—

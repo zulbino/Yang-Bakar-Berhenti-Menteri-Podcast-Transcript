@@ -45,6 +45,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 6 — Yang Berhenti Menteri #6**  
+25 July 2025 · 1h 57m · [watch on YouTube](https://www.youtube.com/watch?v=aUasTCpoZCU)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Assalamualaikum and welcome. This is already the sixth episode of the Yang Berhenti Menteri podcast. Brother Rafizi is with us, just finished jogging, and of course we have our guest speaker tonight, Brother Zaim, who is the spokesperson or representative of the Sekretariat Rakyat Benci Rasuah, and who is also a university student who has actually invited various youth wing leaders to debate — the Youth Chief of AMK and also the Youth Chief of UMNO.

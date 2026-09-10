@@ -51,6 +51,14 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
   or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 23 — Rafizi Jawab Tuduhan Rasuah RM1.1 bilion, Surat Sokongan SUPOL PMX**  
+21 November 2025 · 2h 15m · [watch on YouTube](https://www.youtube.com/watch?v=hVf8FbNa9v0)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Assalamualaikum dan selamat datang Podcast Yang Bakar Menteri episod ke-23 bersama saudara Rafizi. Jadi alang-alang kita bersama saudara Rafizi, kena follow sosial media saudara Rafizi, YouTube dan juga Facebook, IG dan TikTok. YB, saya ada motherly instinct ataupun apa kita panggil, naluri keibuan.

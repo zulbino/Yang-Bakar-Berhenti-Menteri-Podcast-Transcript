@@ -53,6 +53,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 53 — Rohingya, Pilihan Raya dan Apa Yang Akan Berlaku Seterusnya**  
+19 June 2026 · 3h 0m · [watch on YouTube](https://www.youtube.com/watch?v=61L_JC1oCR4)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Alright, Assalamualaikum and greetings, Podcast Yang Berhenti Menteri Episode 53. As usual with me, Haziq, and with brother Rafizi Ramli. How are you, YB? Crazy,

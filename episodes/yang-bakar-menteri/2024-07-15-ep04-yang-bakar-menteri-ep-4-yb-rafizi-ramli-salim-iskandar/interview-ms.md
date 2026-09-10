@@ -49,6 +49,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Bakar Menteri episode 4 — Yang Bakar Menteri EP 4 - YB Rafizi Ramli & Salim Iskandar**  
+15 July 2024 · 1h 22m · [watch on YouTube](https://www.youtube.com/watch?v=lNmIx3ssUIM)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum warahmatullahi wabarakatuh, salam sejahtera dan kembali lagi ke podcast Yang Bakar Menteri episod keempat. Saya Haziq dan kali ini kita ada seorang tetamu yang kontroversi. Tak lain tak bukan kita ada saudara Salim. Khabar saudara?

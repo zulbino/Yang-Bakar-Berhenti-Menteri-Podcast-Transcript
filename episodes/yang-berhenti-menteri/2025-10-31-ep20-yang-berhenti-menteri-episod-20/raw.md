@@ -14,6 +14,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
  the polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 20 — Yang Berhenti Menteri Episod 20**  
+31 October 2025 · 2h 32m · [watch on YouTube](https://www.youtube.com/watch?v=z0omQndC0tE)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [02:29] Haziq: Assalamualaikum, salam fleksimat dan salam kesum kepada semua Podcast Yang Berhenti Menteri episod ke-20 Dah episod 20 Jadi YB saya nampak sehat lah Jadi saya tak perlu tanya Nampak

@@ -14,6 +14,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
   the polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 31 — DPA SPRM, Farhash Rugi RM97.5 juta, PAU 2025 & Ada Apa Dengan PKR?**  
+16 January 2026 · 2h 35m · [watch on YouTube](https://www.youtube.com/watch?v=NiTsEvlvM34)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [02:33] Haziq: Macam biasa bersama saudara Rafi Z. Ramli dalam podcast... Eh, mana? Assalamualaikum. Saya nak tukar episod 31 baru. Oh, okey, okey, okey. Selama tak bagi salam. Haa, kena bagi juga kan, kalau ujung lah. Kena bagi salam. Ayat, ni, pasif eh. Ayat, aktif, aktif, pasif.

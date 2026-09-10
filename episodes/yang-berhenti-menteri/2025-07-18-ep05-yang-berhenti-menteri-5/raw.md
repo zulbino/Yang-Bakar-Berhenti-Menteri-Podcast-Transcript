@@ -14,6 +14,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
   the polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 5 — Yang Berhenti Menteri #5**  
+18 July 2025 · 1h 54m · [watch on YouTube](https://www.youtube.com/watch?v=QiU62zTJn4A)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:01] Rafizi: Assalamualaikum dan selamat datang Podcast Yang Berhenti Menteri Episod kan kelima sudah Bersama Saudara Rafizi Ramli Guest speaker kita pada malam ini Dato' Dr. Syed Azuan Al-Idrus atau DSA Apa khabar Dato'? Baik, baik, baik, sehat, sehat Dato' saya nak tanya sikit Dato' bila pertama kali jumpa Saudara Fizy sebenarnya?

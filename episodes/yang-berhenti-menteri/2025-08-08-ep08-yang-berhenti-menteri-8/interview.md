@@ -63,6 +63,14 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
   or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 8 — Yang Berhenti Menteri #8**  
+8 August 2025 · 1h 45m · [watch on YouTube](https://www.youtube.com/watch?v=3lAbG01Zq84)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Assalamualaikum dan selamat datang ke Podcast Yang Berhenti Menteri. Sekarang sudah episod ke-8. Jadi kita ucapkan terima kasih kepada panelis jemputan kita pada hari ini. Di samping Saudara Fizi seperti biasa, kita ada Dr. Irwan daripada Universiti Islam Antarabangsa Malaysia. Apa khabar, Dr.?

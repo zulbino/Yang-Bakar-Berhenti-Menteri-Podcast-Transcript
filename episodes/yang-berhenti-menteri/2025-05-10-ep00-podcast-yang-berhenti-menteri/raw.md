@@ -12,6 +12,14 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
 model: mesolitica/malaysian-whisper-medium-v2
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode  — Podcast Yang Berhenti Menteri?**  
+10 May 2025 · 2h 12m · [watch on YouTube](https://www.youtube.com/watch?v=2k8hW9hDvGE)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:00] Haziq: Yup, semua ok. YB?

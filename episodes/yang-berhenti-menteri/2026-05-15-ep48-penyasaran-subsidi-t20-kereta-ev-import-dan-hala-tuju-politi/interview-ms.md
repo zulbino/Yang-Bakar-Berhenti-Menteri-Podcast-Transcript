@@ -52,6 +52,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 48 — Penyasaran Subsidi T20, Kereta EV Import dan Hala Tuju Politik**  
+15 May 2026 · 3h 20m · [watch on YouTube](https://www.youtube.com/watch?v=0fkxxzr9w1Y)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri episod ke-48. Macam biasa bersama saya dan saudara Rafizi yang nampak letih sikit.

@@ -15,6 +15,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
   the polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Bakar Menteri episode 3 — Yang Bakar Menteri EP 3 - YB Rafizi Ramli & Faiz Azmi (Financial Faiz) - 5**  
+5 February 2024 · 2h 3m · [watch on YouTube](https://www.youtube.com/watch?v=Y2o4gIQAlwc)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [04:41] Syed Munawar: Assalamualaikum warahmatullahi wabarakatuh Kita ke rancangan Yang Bakar Menteri Podcast Yang kira panas Kita bersiaran 2 minggu sekali Malam ini macam biasa kita ada YB Rafizi Ramli Apa khabar YB?

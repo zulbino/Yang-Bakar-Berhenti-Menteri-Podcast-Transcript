@@ -47,6 +47,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 1 — Yang Berhenti Menteri #1**  
+20 June 2025 · 1h 20m · [watch on YouTube](https://www.youtube.com/watch?v=-NjVESCWO8w)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Actually, my intro doesn't matter much today because we have a very rare shirt, Springfield Village, YB. Where did YB get it? Because nobody could get one, but suddenly YB has it.

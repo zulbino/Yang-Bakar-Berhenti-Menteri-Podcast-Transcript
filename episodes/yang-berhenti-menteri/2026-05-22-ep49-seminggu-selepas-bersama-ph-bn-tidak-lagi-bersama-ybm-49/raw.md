@@ -14,6 +14,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
  the polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 49 — Seminggu Selepas BERSAMA & PH-BN Tidak Lagi Bersama**  
+22 May 2026 · 3h 13m · [watch on YouTube](https://www.youtube.com/watch?v=BY82Rp0ShH4)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:44] Haziq: Podcast Yang Berhenti Menteri, episod ke 49 Macam biasa dan macam tak biasa Bersama YB Rafi Z. Ramli dan YB Nik Nazmi Tapi bukan

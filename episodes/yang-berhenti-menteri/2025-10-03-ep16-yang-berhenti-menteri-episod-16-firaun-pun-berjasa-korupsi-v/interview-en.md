@@ -54,6 +54,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 16 — Yang Berhenti Menteri Episod 16 - “Firaun Pun Berjasa”, Korupsi vs Reform,**  
+3 October 2025 · 2h 8m · [watch on YouTube](https://www.youtube.com/watch?v=scF2WEBBn0w)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Assalamualaikum and welcome, Yang Berhenti Menteri, episode 16. That means. how many weeks is it? 4 weeks huh, 4 months. Just testing my maths or what? YB, before we continue, I want to check — the experiment with me and "I" YB last week, are we going to continue or not?

@@ -14,6 +14,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
   the polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 54 — Pilihanraya Negeri Johor Menghampiri**  
+25 June 2026 · 1h 31m · [watch on YouTube](https://www.youtube.com/watch?v=5IjX6nVTcDs)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:07] Haziq: Assalamualaikum dan salam sejahtera Podcast yang berhenti menteri Episod ke-54 Saya rasa agak kekuk sikit YB Agaknya kenapa YB?

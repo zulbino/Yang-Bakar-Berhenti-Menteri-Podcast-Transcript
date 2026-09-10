@@ -46,6 +46,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 7 — Yang Berhenti Menteri #7**  
+1 August 2025 · 2h 7m · [watch on YouTube](https://www.youtube.com/watch?v=rJmyh9gxWnk)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri episod yang ke-6. ke-7? Ke-7. Tapi sebelum saya ni, saya tanya teruslah saudara Daniel Datang ke podcast ni, tak takut kena gam ke?

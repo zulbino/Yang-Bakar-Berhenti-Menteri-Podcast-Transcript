@@ -35,6 +35,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Bakar Menteri episode 1 — Yang Bakar Menteri Ep 1 - YB Rafizi Ramli & Nazri Hamdan - 8 Jan 2024 #YangBakarMenteri**  
+8 January 2024 · 1h 17m · [watch on YouTube](https://www.youtube.com/watch?v=c9JQ9BoGJms)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Najib:** Assalamualaikum, peace be upon us. I'm Najib Bakar, and we're on the first episode of Yang Bakar Menteri. Yes, funny, isn't it? Funny.

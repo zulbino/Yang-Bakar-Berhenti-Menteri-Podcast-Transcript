@@ -50,6 +50,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Bakar Menteri episode 4 — Yang Bakar Menteri EP 4 - YB Rafizi Ramli & Salim Iskandar**  
+15 July 2024 · 1h 22m · [watch on YouTube](https://www.youtube.com/watch?v=lNmIx3ssUIM)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Assalamualaikum warahmatullahi wabarakatuh, greetings, and welcome back to the fourth episode of the Yang Bakar Menteri podcast. I'm Haziq, and this time we have a controversial guest. None other than brother Salim. How are you, brother?

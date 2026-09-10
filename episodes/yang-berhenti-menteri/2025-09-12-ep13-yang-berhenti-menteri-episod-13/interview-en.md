@@ -56,6 +56,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 13 — Yang Berhenti Menteri Episod 13**  
+12 September 2025 · 2h 7m · [watch on YouTube](https://www.youtube.com/watch?v=t56lvTvdshk)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Assalamualaikum and welcome to the Siang Berhenti Menteri Podcast, Episode 13. YB, what do you notice about this episode?
