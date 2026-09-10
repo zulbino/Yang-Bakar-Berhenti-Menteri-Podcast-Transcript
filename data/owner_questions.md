@@ -60,6 +60,63 @@ published files regenerated from the adopted raw, which is the owner's third pri
 - **ep59 prints `120 juta` where raw and the caption track both say `102 juta`.** Already
   answered below; only the published files are still wrong.
 
+## ep53: the owner asked to review its 12 `Speaker ?` rulings before anything is written
+
+ep53 holds 26 recorded decisions -- every other episode this pass has reached had ZERO -- and
+`check_owner_decisions.py` reports 8 preserved, 4 mismatched, 14 not locatable. Nothing is
+written; `raw.md` is untouched. Rebuild the candidate with `mai_camera_raw.py ep53` to re-read
+any line below.
+
+**FIRST, a bug that made this look worse than it is.** The gate was CRASHING on ep53, not
+judging it. ep53's 2:19:13 records its text as `["Human resource", 1]`, a list, and `snip[:45]`
+on a list silently returns a list, so the length test died with AttributeError. adopt reads
+that non-zero exit as "a decision was not kept". One entry in the whole corpus is in that
+form and ep53 is the only episode with decisions this pass has reached, so the gate had never
+once run clean here. Fixed.
+
+**The 12 `Speaker ?` rulings, and what the rebuild does to each. No word is lost anywhere.**
+
+| # | at | your words | what the rebuild does |
+|---|---|---|---|
+| 1 | 14:11 | `Hmm` | **stays `Speaker ?`** |
+| 2 | 18:43 | `Ya.` | grunt-only, step 3 deletes the turn |
+| 3 | 51:16 | `Ya` | grunt-only, step 3 deletes the turn |
+| 4 | 1:14:05 | `Yes.` | grunt-only, step 3 deletes the turn |
+| 5 | 1:34:45 | `Haa` | heard as `Ha.`, grunt-only, deleted |
+| 6 | 1:43:25 | `Han,` | absorbed into Rafizi's `Tahan eh. Tunggu, tunggu...` |
+| 7 | 1:45:31 | `pun kencing.` | now `Haziq: I think viewers pun kencing.` |
+| 8 | 1:45:34 | `tu` | now `Rafizi: Haa tu lah.` |
+| 9 | 1:56:37 | `hmm` | grunt-only, step 3 deletes the turn |
+| 10 | 2:14:42 | `Teruskan.` | **stays `Speaker ?`**, but MAI hears `10 sen?` |
+| 11 | 2:17:33 | `ya?` | now `Rafizi: Oh ya?` |
+| 12 | 2:38:40 | `kan. Wah` | now `Rafizi: Wah, manusia.`; the `kan.` ends his previous sentence |
+
+**Read #10 before deciding.** The old raw had `Teruskan.` there. MAI hears `10 sen?`, and the
+context settles it: Rafizi has just asked `1 flyer berapa sen?`, and the next turns are
+`Mahal lagilah.` and `40, 50 sen.` "Teruskan" (*continue*) is not an answer to that question.
+**So several of these rulings were made on words the old ASR got wrong.** Honouring them
+literally would pin a label onto speech that was never spoken. #7 is the same shape: the
+fragment could not be attributed because the old raw cut the sentence in half.
+
+Five become whole sentences with a clear speaker, five are grunts the settled standard deletes
+anyway, and two stay `Speaker ?`. Nothing here needs a ruling reversed -- it needs a decision
+about whether a ruling made on a shredded fragment still binds a file where the fragment no
+longer exists.
+
+**SEPARATELY, three real disagreements remain, and these are NOT fragment artefacts.** At
+2:19:13-18 the owner recorded a four-way split -- `Human resource` Rafizi, `Itu je lah kot`
+Haziq, `Okay Okay Human resource lah` Farhan, `Takde` Multiple speakers. MAI cuts the same
+speech into `[2:19:13] Rafizi: Human resource.` (right), `[2:19:14] Rafizi: Itu jelah kot.
+Okey eh, okey.` (one block holding BOTH Haziq's ruled words and the start of Farhan's), and
+`[2:19:18] Multiple speakers: Human resource lah.` (should be Farhan). A forced label can move
+a whole block but cannot split one, so the best available result puts `Itu jelah kot. Okey eh,
+okey.` under Haziq and leaves Farhan's three opening words with it. That is a real, if small,
+loss against what the owner heard, and it is the one part of ep53 that adoption makes worse.
+
+**Already prepared, waiting only on the above:** `data/forced_labels.json` now carries ep53's
+two YB-handoff rulings, which the camera had reversed -- `Okey. Baik, YB.` and `Okey YB?`,
+both back to Haziq. Those three blocks are confirmed applied.
+
 ## Waiting on a machine, not on the owner
 
 - **The "YB" handoff turns -- and YOUR EAR HAS ALREADY RULED ON TWO OF THEM.** Only the

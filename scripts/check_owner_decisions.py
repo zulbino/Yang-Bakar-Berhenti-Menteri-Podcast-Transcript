@@ -94,6 +94,19 @@ def main():
                     continue
                 src = f"{name}:{section}@{stamp}"
                 for who, snip, at in r.get("split", []):
+                    # A split's text is USUALLY a string, but ep53's 2:19:13 records it as
+                    # ["Human resource", 1] -- the text plus which occurrence the owner
+                    # meant. Slicing a list with [:45] silently returns a LIST, and the
+                    # length test below then died with AttributeError, so the gate CRASHED
+                    # instead of reaching a verdict. adopt_mai_camera_raw.py reads that
+                    # non-zero exit as "the candidate does not keep a decision", which is
+                    # how ep53 looked like a disagreement when it was a bug. One entry in
+                    # the corpus is in this form, and it is the only episode with recorded
+                    # decisions that this pass has reached, so it had never run clean.
+                    # The index is dropped deliberately: lib_locate takes `near=stamp` and
+                    # breaks a tie between equally good matches with it.
+                    if isinstance(snip, (list, tuple)):
+                        snip = snip[0] if snip else ""
                     if snip:
                         checks.append((src, who, snip[:45], secs(stamp)))
                 if "who" in r:

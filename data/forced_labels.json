@@ -14,5 +14,19 @@
       "at": "07:08",
       "why": "OWNER RULING 2026-09-10: keep Rafizi. Recorded at stamp 06:52, frame Rafizi; the words are at 07:08, where the camera shows Haziq. Same drift, same ruling. The following block, 'Air kosong lah.', is left as the camera has it -- no owner decision covers it, and a ruling is not extended by inference."
     }
+  ],
+  "ep53": [
+    {
+      "text": "Okey. Baik, YB.",
+      "who": "Haziq",
+      "at": "30:00",
+      "why": "OWNER RULING, recorded in data/speaker_adjudications.json as ep53_round2@29:59: the owner split the moment by ear into 'Okey, baik, YB.' = Haziq and 'Beria,' = Rafizi. MAI cuts it differently -- 'Hmm. Okey.' at 29:58 and 'Baik, YB.' at 30:00 -- and the camera gives both to Rafizi, because the mixer is already on him for the answer. THE ANCHOR HAS TO BE THREE TOKENS (lib_locate's MIN_TOKENS), and 'Baik, YB.' is two, so it spans both blocks and carries 'Hmm.' along with it. That is accepted rather than worked around: the owner's own text starts at 'Okey', so 'Okey.' is theirs by the ruling, and the whole thing then reads as one acknowledgement -- 'Hmm. Okey. Baik, YB.' -- which is exactly the utterance they transcribed. 'Beria, beria...' stays Rafizi, as ruled."
+    },
+    {
+      "text": "Dah meletup pun. Haah. Okey YB?",
+      "who": "Haziq",
+      "at": "2:05:33",
+      "why": "OWNER RULING, recorded as ep53_round2@2:05:29, where the owner read 'Baik Dah meletup pun Dah meletup pun Okay YB' as one Haziq turn. The candidate already has Haziq's 'Baik.', 'Dah meletup oh YB.' and 'Hmm hmm. Dah meletup pun. Haah.' right, plus Rafizi's 'So kita ada berapa minit lagi?' and the 'Multiple speakers' tail. Only 'Okey YB?' is wrong, and at two tokens it cannot be anchored alone, so the anchor reaches back into the preceding block -- which is ALREADY Haziq, so force_labels skips it and this changes exactly one block."
+    }
   ]
 }
