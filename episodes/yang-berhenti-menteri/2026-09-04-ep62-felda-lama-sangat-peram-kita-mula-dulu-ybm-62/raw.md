@@ -33,7 +33,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [01:08] Rafizi: Kucing lain pun demam juga, tapi tak adalah merengek macam tu.
 
-[01:13] Haziq: Tak cukup kasih sayang dari pak kan?
+[01:13] Haziq: Tak cukup kasih sayang dari Pa'an?
 
 [01:15] Rafizi: Ha, tu lah. Tapi dia nampak kurus kan?
 
@@ -67,7 +67,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [01:47] Haziq: Pasal FELDA, ha.
 
-[01:49] Rafizi: Sebab tu kita kena cakap pasal choper dulu sebab akan ramai orang yang berbulu. Malam ini.
+[01:49] Rafizi: Sebab tu kita kena cakap pasal Chopper dulu sebab akan ramai orang yang berbulu. Malam ini.
 
 [01:58] Haziq: Okey, jadi kita akan mula dengan beria.
 
@@ -193,7 +193,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [07:44] Rafizi: Ha, sebab aa atas keselamatan lah takut ada sniper ke apa semua.
 
-[07:49] Rafizi: Jadi pada hari kejadian, siapa-siapa yang kerja kat sekeliling tu sebenarnya tak boleh masuk pun.
+[07:49] Haziq: Jadi pada hari kejadian, siapa-siapa yang kerja kat sekeliling tu sebenarnya tak boleh masuk pun.
 
 [07:52] Rafizi: Tak boleh masuk. Ha, tak boleh masuk. Kita, kami pun tak boleh masuk. So, saya yang menteri pun sebenarnya kalau nak bawa kawan ke apa, kami kena beratur datang ramai macam ni lah. Sebab jemputan itu hanya kepada saya.
 
@@ -375,7 +375,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [16:00] Rafizi: Oh, tu yang mana? Yang ini masa dia puji.
 
-[16:02] Haziq: Ini masa dia puji Zahid Hamidi.
+[16:02] Rafizi: Ini masa dia puji Zahid Hamidi.
 
 [16:04] Rafizi: Wah, layak.
 
@@ -411,9 +411,9 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [17:55] Rafizi: Ini yang yang mana ni? Yang apa kenyataan baru ni ke?
 
-[17:59] Haziq: Haah. Ini yang dibangkitkan oleh Lee Leong lah, bekas calon kita dekat PRN Johor itu. Bukan ini memang dah obvious ke?
+[17:59] Haziq: Haah. Ini yang dibangkitkan oleh Yi Leong lah, bekas calon kita dekat PRN Johor itu. Bukan ini memang dah obvious ke?
 
-[18:07] Rafizi: Hmm. Yalah, Lee Leong dia lawyer kan. Dan Lee Leong tanyalah apa nama ni, uh, um, uh, memang benda tu tak payah dicakap.
+[18:07] Rafizi: Hmm. Yalah, Yi Leong dia lawyer kan. Dan Yi Leong tanyalah apa nama ni, uh, um, uh, memang benda tu tak payah dicakap.
 
 [18:19] Haziq: Haah.
 
@@ -527,7 +527,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [22:56] Rafizi: Ini kena kan sebab, sebab dia tak pernah berlaku dalam sejarah kan.
 
-[23:02] Haziq: Eh, tahniah. Semoga mereka betul-betul grade apa?
+[23:02] Haziq: Eh, tahniah. Semoga mereka betul betul get a, apa?
 
 [23:05] Rafizi: Get a room.
 
@@ -701,9 +701,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [34:23] Rafizi: Pengerusi FELDA eh. Yang paling lama ialah Yang Mulia Tan Sri Raja Alias lah. Uh, 1979 sampai 2001 macam itu kan.
 
-[34:35] Haziq: Dan itulah tempoh yang paling bagus
-
-[34:39] Rafizi: untuk FELDA yang membangun dengan mendadak. Jadi daripada 2001 tu, ha dan bermasalah dah. Dia mula bertukar-tukar kepada ahli politik. Sampailah saya ingat Tan Sri Isa Samad ambil alih. Kemudian Tan Sri Shahrir. Jadi kebanyakan pergaduhan aku ni masa itu selain daripada dengan Najib, dengan Tan Sri Isa Samad dan juga Tan Sri Sha- Sha- Shahrir Samad lah. Ha kan. Sehinggalah tahun 2018, pengerusi FELDA itu diberikan kepada Tan Sri Megat Zaharuddin. Tan Sri Megat Zaharuddin ni dulu bekas um CEO Shell.
+[34:35] Rafizi: Dan itulah tempoh yang paling bagus untuk FELDA yang membangun dengan mendadak. Jadi daripada 2001 tu, ha dan bermasalah dah. Dia mula bertukar-tukar kepada ahli politik. Sampailah saya ingat Tan Sri Isa Samad ambil alih. Kemudian Tan Sri Shahrir. Jadi kebanyakan pergaduhan aku ni masa itu selain daripada dengan Najib, dengan Tan Sri Isa Samad dan juga Tan Sri Sha- Sha- Shahrir Samad lah. Ha kan. Sehinggalah tahun 2018, pengerusi FELDA itu diberikan kepada Tan Sri Megat Zaharuddin. Tan Sri Megat Zaharuddin ni dulu bekas um CEO Shell.
 
 [35:16] Rafizi: Uh, saya rasalah bekas CEO Shell. Kemudian sekarang pengerusi FELDA uh di bawah Madani ni dikembalikan kepada uh ahli politik lah.
 
@@ -729,7 +727,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [35:41] Rafizi: So masih kosong lah sekarang.
 
-[35:43] Haziq: Um. Tan Sri Ahmad Badri.
+[35:43] Farhan (Pa'an): Um. Tan Sri Ahmad Badri.
 
 [35:45] Rafizi: Oh, okey. Tan Sri Ahmad Badri adalah bekas um apa nama ni civil servant. Dia bekas KSP dulu rasa. So dia dah kena pecat lah. Okey. So begitulah dari segi, kau nak tanya.
 
@@ -1159,7 +1157,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [1:08:41] Rafizi: Ya, tapi 2012 tu benda tu dah berlaku.
 
-[1:08:44] Rafizi: Ha ha ha ha ha.
+[1:08:44] Haziq: Ha ha ha ha ha.
 
 [1:08:45] Rafizi: Semua ni mesti the background work ni berlaku 2010, 2011 lah. So, um, kita dah nak sampai ke situlah. Maksudnya kita dah nak sampai kepada detail apa yang telah merosakkan FELDA dan bagaimana is as clear as daylight lah rompakan. Ini kalau, kalau ada orang tanya, tapi saya nasihatkan Datuk Seri Anwar cukuplah guna perkataan sakau.
 
@@ -1191,9 +1189,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [1:11:31] Rafizi: Sebab laporan tu dah ada, semua kertas putih dah ada semua kan. So as I went through this semalam lah semua kan, uh, ya ini cerita personal sikitlah. Because kau tahulah aku kan jenis kunci bilik, biasa I do my reading semua kan. Aku rasa kenapalah aku bodoh buat semuanya?
 
-[1:11:54] Haziq: Because, you know, um, uh,
-
-[1:12:00] Rafizi: sekarang dah lebih kurang 10 tahun kan daripada, in fact daripada perkara pertama yang saya bawa ni, dia dah 14 tahun dah. Dah masuk 15 tahun kan. Tak ada, dia tak ada tindakan ke, tak ada apa kan. And then you went through hell up and down for it kan. Uh, tapi yalah yang, yang, yang menyeronokkan is to know that sebenarnya you've done your job. I've done my job.
+[1:11:54] Rafizi: Because, you know, um, uh, sekarang dah lebih kurang 10 tahun kan daripada, in fact daripada perkara pertama yang saya bawa ni, dia dah 14 tahun dah. Dah masuk 15 tahun kan. Tak ada, dia tak ada tindakan ke, tak ada apa kan. And then you went through hell up and down for it kan. Uh, tapi yalah yang, yang, yang menyeronokkan is to know that sebenarnya you've done your job. I've done my job.
 
 [1:12:27] Rafizi: Mm.
 
@@ -1449,7 +1445,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [1:27:38] Farhan (Pa'an): Oh, wait, I forgot. Yeah. So memang Najib had.
 
-[1:27:41] Farhan (Pa'an): Yalah, dia menteri yang bertanggungjawab.
+[1:27:41] Rafizi: Yalah, dia menteri yang bertanggungjawab.
 
 [1:27:43] Rafizi: Akta, Akta FELDA ni ada, ada beberapa lah, tapi akta yang paling besar Akta FELDA sendirilah. I think what, 1950 something, 59 ni. Satu lagi akta yang berkaitan dengan FELDA ni, GSA, Group Settlement Act kan. Um, kuasa tu kuasa menteri, Najib lah. Ha. Of course dia ada board dia, Lembaga Pengarah FELDA kan.
 
@@ -1509,7 +1505,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [1:33:24] Rafizi: Kerajaan pun pergi umumkan kan. So, yalah aku bersifat walaun sikit masa ni lah kan. Tapi nak tunjukkan the hypocrisy lah. On the one hand, perjuangkan Melayu, tanah rizab Melayu semua, segala jenis Melayu. You ambil tanah rizab Melayu 105,000 hektar, you pergi bubuh syarikat, you lease kan.
 
-[1:33:44] Haziq: Sebaik Akshar 4G tak wujud lagi waktu ni.
+[1:33:44] Haziq: Sebaik Asyraf Wajdi tak wujud lagi waktu ni.
 
 [1:33:46] Rafizi: Ha, dia belum wujud lagi. So, yang itu saya nyatakan 28 Mei, tapi seperti biasa, hmm, tidak ada apa nama, tak ada reaksi. Aku pun 6 Jum lebih kurang seminggu kemudian, aku pun letakkan agreement.
 
@@ -1655,7 +1651,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [1:44:52] Haziq: Mm.
 
-[1:44:53] Rafizi: Tapi Najib, bank Najib, dia proceed juga.
+[1:44:53] Rafizi: Tapi Najib being Najib, dia proceed juga.
 
 [1:44:56] Rafizi: Hmm.
 
@@ -2199,7 +2195,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [2:22:34] Rafizi: Hmm. Kemudian saya pergi check dengan Panama Papers. Ha.
 
-[2:22:40] Haziq: Baru keluar tahun tu.
+[2:22:40] Rafizi: Baru keluar tahun tu.
 
 [2:22:41] Rafizi: Ha, baru keluar. So orang yang duk sibuk, yang yang duk duk duk sibuk kata oh Anwar pendedahan Panama Pa- Panama, banana pula. Panama Papers semua ni tahun bila tu? 2022. Tak tak, yang masa Anwar duk buat bising tu. 2020, 2021 lebih kurang masa Sheraton kan?
 
@@ -2263,7 +2259,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [2:27:13] Rafizi: Hmm.
 
-[2:27:14] Haziq: Macam mana Pak An lepas dengar?
+[2:27:14] Haziq: Macam mana Pa'an lepas dengar?
 
 [2:27:17] Farhan (Pa'an): Quite complicated. Uh, in the sense yang banyak sangat benda berlaku dan to track multiple uh things at one go tu, I think ramai orang termasuk saya find it quite difficult lah.
 
@@ -2327,7 +2323,9 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [2:30:26] Haziq: Hmm.
 
-[2:30:26] Haziq: Tapi yalah, I mean. Tak masuk akal.
+[2:30:26] Rafizi: Tapi yalah, I mean.
+
+[2:30:30] Haziq: Tak masuk akal.
 
 [2:30:31] Rafizi: Tak adalah, kita speechless lah. The audacity to do it kan. Itu yang saya kata, the rot begins from the head.
 
@@ -2639,7 +2637,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [2:55:02] Haziq: Dia dah kena start siasat seawal 2017 lagi.
 
-[2:55:04] Haziq: I don't think so tak.
+[2:55:04] Rafizi: I don't think so tak.
 
 [2:55:05] Haziq: Eh tak.
 
@@ -2657,9 +2655,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [2:56:28] Rafizi: Ha, dekat nama apa?
 
-[2:56:30] Haziq: Dudley House.
-
-[2:56:30] Haziq: Dudley House. Ha ha.
+[2:56:30] Multiple speakers: Dudley House. Dudley House. Ha ha.
 
 [2:56:32] Rafizi: So jawapan daripada MARA ialah benda tu telah diluluskan oleh Perdana Menteri mengikut peraturan. Then I realize bolehlah. So aku pun tanyalah, eh, eh,
 
@@ -2855,9 +2851,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [3:12:25] Rafizi: Patutnya.
 
-[3:12:26] Rafizi: But I'm I'm curious eh, sebab if you use certain
-
-[3:12:31] Farhan (Pa'an): parameters untuk inflate either price ataupun to justify buying at a higher price kan.
+[3:12:26] Farhan (Pa'an): But I'm I'm curious eh, sebab if you use certain parameters untuk inflate either price ataupun to justify buying at a higher price kan.
 
 [3:12:36] Rafizi: Hmm.
 
@@ -2877,7 +2871,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [3:13:43] Rafizi: So FELDA mana dia dapat duit? Dia pinjam EPF. So dia pinjam dahlah duit yang daripada penyenaraian FGV tu tak ke mana. Duit makin tak ada. Dia pinjam EPF. Daripada duit EPF 6 billion tu sebahagiannya ni dia bagi advance untuk pergi beli hotel ni at inflated price. Dan tak cukup at inflated price. Ha, yang yang sekarang ni masa ni lah Syahril Samad cakap, "Alah ni macam Ferrari je. Bukan rugi pun, jatuh hai muka. Even kalau everything was apa nama ni by the book kan, oleh kerana operasi dia semua tu, dia rugi 38 juta.
 
-[3:14:21] Rafizi: Hmm. So, um, and and I think apa nama ni semua ni dalam is pointed out juga dalam apa nama ni white paper. White paper basically mengesahkan semua ni lah. Okey ya. Now kita dah nak ke arah kepada soalan, soalan misteri yang yang Pak An tanya tadilah. Um, ha eh. 11 Oktober 2017, lebih kurang 2 bulan lah lepas apa nama ni aku mula-mula tanya pasal Grand Plaza ni kan.
+[3:14:21] Rafizi: Hmm. So, um, and and I think apa nama ni semua ni dalam is pointed out juga dalam apa nama ni white paper. White paper basically mengesahkan semua ni lah. Okey ya. Now kita dah nak ke arah kepada soalan, soalan misteri yang yang Pa'an tanya tadilah. Um, ha eh. 11 Oktober 2017, lebih kurang 2 bulan lah lepas apa nama ni aku mula-mula tanya pasal Grand Plaza ni kan.
 
 [3:14:50] Rafizi: Mm.
 
@@ -3043,7 +3037,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [3:27:49] Haziq: Hmm.
 
-[3:27:52] Rafizi: Hmm. Hak nak tanya?
+[3:27:52] Rafizi: Hmm. Pa'an nak tanya?
 
 [3:27:54] Farhan (Pa'an): Tak tak. Uh, Dump Truck.
 
@@ -3241,11 +3235,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [3:45:00] Farhan (Pa'an): Service apartment.
 
-[3:45:00] Rafizi: Ha kan. So yang ini dia jual uh dia beli pada harga
-
-[3:45:07] Farhan (Pa'an): uh, apa nama ni, uh,
-
-[3:45:10] Rafizi: 9- 180 juta melebihi harga pasaran. Uh, dan pada 21 Julai 2017, Tan Sri Shahril Samad mengesahkan Grand Plaza Service Apartment yang kita duk cakap tadi pun tidak disiasat pun oleh SPRM.
+[3:45:00] Rafizi: Ha kan. So yang ini dia jual uh dia beli pada harga uh, apa nama ni, uh, 9- 180 juta melebihi harga pasaran. Uh, dan pada 21 Julai 2017, Tan Sri Shahril Samad mengesahkan Grand Plaza Service Apartment yang kita duk cakap tadi pun tidak disiasat pun oleh SPRM.
 
 [3:45:26] Farhan (Pa'an): Hmm.
 
@@ -3345,7 +3335,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [3:53:52] Rafizi: Ha. Okeylah, jadi akhirnya beginilah. So saya rasa kita stop kat situ lah.
 
-[3:53:59] Haziq: The way forward will be.
+[3:53:59] Haziq: The way forward YB.
 
 [3:54:00] Rafizi: The way forward, you know what? Mungkin kita bincang dengan Putihan.
 
@@ -3363,7 +3353,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [3:54:15] Farhan (Pa'an): Because I'm pretty sure after your comments ni mesti ada orang-orang komen.
 
-[3:54:19] Farhan (Pa'an): Dan start minggu depan akan ada tangkapan.
+[3:54:19] Haziq: Dan start minggu depan akan ada tangkapan.
 
 [3:54:21] Rafizi: Ha. Kita tengok macam mana.
 
