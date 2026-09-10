@@ -71,23 +71,19 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Alright, alright, alright. Okay YB, let's move to the first segment, as usual YB comments: outrageous or not outrageous?
 
-**Rafizi:** Oh, this one... what is YB looking at? This is at IKBN Miri. There's a group of students who supposedly did a prank. Prank. Hmm, what's this now, luckily when I was in school there weren't pranks like this. But there were other pranks. Pranks back in my school days, for example during April Fool's, waking up in the morning, people would take the water dipper to go bathe in the hostel, so someone would put toothpaste in the dipper, or tie up the sports shoes. Because it was drilled, there were only about 4-5 minutes to get ready before moving to the next activity, so people would get angry, but it usually involved toothpaste and that could be counted as a prank. Or people would wait by the door, open the exit door. This isn't a prank, this is causing injury — this is bullying. Well, you could call it bullying, if both parties enjoyed it they wouldn't admit it's bullying. But if the joking goes this far, it's crossed the line. If it causes injury, and worse if the kid suffers long-term injury, and later can't have children. So I don't know who's more outrageous here — the one who got hurt or the ones who did it together. But they've all been suspended already, all of them got punished.
+**Rafizi:** Oh, this one. what is YB looking at? This is at IKBN Miri. There's a group of students who supposedly did a prank. Prank. What's this now, luckily when I was in school there weren't pranks like this. But there were other pranks. Pranks back in my school days, for example during April Fool's, waking up in the morning, people would take the water dipper to go bathe in the hostel, so someone would put toothpaste in the dipper, or tie up the sports shoes. Because it was drilled, there were only about 4-5 minutes to get ready before moving to the next activity, so people would get angry, but it usually involved toothpaste and that could be counted as a prank. Or people would wait by the door, open the exit door. This isn't a prank, this is causing injury — this is bullying. Well, you could call it bullying, if both parties enjoyed it they wouldn't admit it's bullying. But if the joking goes this far, it's crossed the line. If it causes injury, and worse if the kid suffers long-term injury, and later can't have children. So I don't know who's more outrageous here — the one who got hurt or the ones who did it together. But they've all been suspended already, all of them got punished.
 
 **Haziq:** 7 people were suspended for a week and had their allowance cut. Okay good, let's look at the next one, outrageous or not. Where is this, YB?
 
 **Rafizi:** Is this the one in Shah Alam?
 
-**Haziq:** Yes, the one that went viral in Shah Alam. Hahaha, the one where... what's this, after being told off he started throwing punches.
+**Haziq:** Yes, the one that went viral in Shah Alam. Hahaha, the one where. what's this, after being told off he started throwing punches.
 
 **Rafizi:** There's video of it.
 
-**Haziq:** Right after that, it was just that when they told him off for smoking, he didn't accept it, and he... well, temper.
+**Haziq:** Right after that, it was just that when they told him off for smoking, he didn't accept it, and he. well, temper.
 
-**Rafizi:** Oh this is the... yes yes, this one. Actually the one who was smoking, the one who stood up...
-
-**Haziq:** The one...
-
-**Rafizi:** Yes yes, oh no wait, I also... he's in the middle, that's it, don't know who's... he really deserves to be remanded. And I hope this becomes a lesson to everyone. Hmm, but it still happens a lot, especially at mamak stalls, people smoking in eating places. First, I don't even understand — you can't say he doesn't know the law, the law is clear. Then you can't say he doesn't know manners, Malaysians should understand courtesy. But if this kind of situation happens, this means... well, I don't even know what culture this is, this "gedebe" [thug-like arrogance] culture. He said he's "gedebe", so very gedebe. Already did wrong, then, no shame or embarrassment, when someone tells him off he fights back, then it turns into a brawl. So people like this really deserve to be remanded. But more importantly, to the smoker — well, that's his choice to smoke, but don't let it go so far as smoking in public places, or smoking in eating places, especially in this case where there was a pregnant woman present. So the choice to smoke shouldn't lead to this kind of gedebe attitude. So I hope, wherever this happens, from now on if someone smokes in an eating place, at the very least their friends should take responsibility to tell them off. Friends need to speak up, because if friends don't say anything, it'll be more embarrassing when strangers do. And if it comes to this, no one will support this kind of action, and if he gets remanded, if he gets locked up, if action is taken against him, everyone will applaud.
+**Rafizi:** Oh this is the. yes yes, this one. Actually the one who was smoking, the one who stood up. Yes yes, oh no wait, I also. he's in the middle, that's it, don't know who's. he really deserves to be remanded. And I hope this becomes a lesson to everyone. But it still happens a lot, especially at mamak stalls, people smoking in eating places. First, I don't even understand — you can't say he doesn't know the law, the law is clear. Then you can't say he doesn't know manners, Malaysians should understand courtesy. But if this kind of situation happens, this means. well, I don't even know what culture this is, this "gedebe" [thug-like arrogance] culture. He said he's "gedebe", so very gedebe. Already did wrong, then, no shame or embarrassment, when someone tells him off he fights back, then it turns into a brawl. So people like this really deserve to be remanded. But more importantly, to the smoker — well, that's his choice to smoke, but don't let it go so far as smoking in public places, or smoking in eating places, especially in this case where there was a pregnant woman present. So the choice to smoke shouldn't lead to this kind of gedebe attitude. So I hope, wherever this happens, from now on if someone smokes in an eating place, at the very least their friends should take responsibility to tell them off. Friends need to speak up, because if friends don't say anything, it'll be more embarrassing when strangers do. And if it comes to this, no one will support this kind of action, and if he gets remanded, if he gets locked up, if action is taken against him, everyone will applaud.
 
 **Haziq:** Alright, alright. But it's outrageous that he fought back. Okay, alright, that's the second one. Let's look at what else we have. Some politics. PAS Youth invites UMNO to a rally to reject URA. Well, this age thing is really outrageous. Outrageous. PAS Youth invites UMNO to a rally to reject URA, but did YB notice UMNO's response?
 
@@ -101,7 +97,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Okay. I blocked him, so it's not showing, because back during the 1MDB days, during Najib's era, he was a total troll who cursed every day, so he really had to be blocked. If you all hadn't put this up, I wouldn't even know this exists, YB's only seeing it now. But there's someone who asked — yes, this is an answer given in Parliament some time ago. So the answer in Parliament, for the past 2-3 years there have been questions in Parliament regarding the re-targeting of RON95 subsidies. At that time, the Cabinet had decided not to use the cash transfer method using PADU data for the re-targeting of RON95 subsidies. And the decision was indeed that it would be handled by MOF at that time. When the parliamentary question came, MOF passed the buck to the Ministry of Economy. Okay, that's what happened. So my position when we discussed it at the time was that since we were answering on behalf of the government, we had to give the decision that had been made by the government. The decision made by the government was indeed to use the identity card method as is currently being implemented. So there's no question of me presenting my own idea, or me being the one who objected. I think MPs and the public following this are well aware that my view was that it would be better done through cash transfers, and I've explained this in many pieces of content in past podcasts and so on. But if it's like this, they'll try to twist things around. So that's why I don't see any content or media report attributing the decision or idea to use the identity card method to me, because everyone knows that was a proposal I brought forward but which was not agreed upon by the Cabinet. This was the Ministry of Finance's proposal, it's just that at the time the Ministry of Finance didn't want to answer. He says the public needs to know, when those questions come from MPs, the questions are directed to the respective ministries, and then there will be a coordination meeting to determine whether or not the question falls under that ministry's jurisdiction. So I think this question was originally meant for the Ministry of Finance, but the Ministry of Finance said this isn't our question. So at the time I told the officers, the question about the method of re-targeting RON95 subsidies should have already been handled and answered by MOF because the decision was that MOF would proceed with it. But there's no point fighting over it, it's the officers who suffer, because if not, it's the ministers who are like elephants fighting each other, doing this tai chi thing, and it's the officers below who bear the brunt of the difficulty. So that's why I said never mind, and we just gave the government's position.
 
-**Haziq:** So this was the Cabinet's position, and YB is speaking...
+**Haziq:** So this was the Cabinet's position, and YB is speaking.
 
 **Rafizi:** Collective responsibility, and my minority view on this is publicly known. So it's really outrageous of this six-figure scoundrel to try to twist things around.
 
@@ -111,41 +107,29 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** When we say rogue taxi, does that mean he actually doesn't have a license?
 
-**Rafizi:** He's not... rogue drivers are usually unlicensed.
-
-**Haziq:** Yes, correct.
-
-**Rafizi:** If they've caught him, that's good. I hope he's given the appropriate punishment so he learns his lesson, because I feel for the tourist, the trauma involved. He came to Malaysia to travel, the trauma isn't just having to pay RM800, but the trauma of being taken to a dark area. If, for example, this rogue driver is only charged under the Transport Act, then being just a "rogue driver" is fine, because elsewhere he'd have been charged under the Penal Code, and in the worst case accused of something like assault, which is even worse. So the trauma to the tourist is one thing. But given that the tourism sector is so important for the country — besides exports, especially electronics exports, actually a real foreign exchange earner, meaning a way for us to earn foreign currency, similar to major exports, is tourism. So when a tourist comes in and this happens to them, it leaves a very bad name. If it goes viral in their home country, it will really damage the tourism sector, which involves millions of people. So I hope JPJ and the authorities take serious action, so that we can reduce these rogue drivers and focus enforcement so that these rogue operators cannot operate in areas like KLIA, which is so important because it's the country's main tourism entry point.
+**Rafizi:** He's not. rogue drivers are usually unlicensed. If they've caught him, that's good. I hope he's given the appropriate punishment so he learns his lesson, because I feel for the tourist, the trauma involved. He came to Malaysia to travel, the trauma isn't just having to pay RM800, but the trauma of being taken to a dark area. If, for example, this rogue driver is only charged under the Transport Act, then being just a "rogue driver" is fine, because elsewhere he'd have been charged under the Penal Code, and in the worst case accused of something like assault, which is even worse. So the trauma to the tourist is one thing. But given that the tourism sector is so important for the country — besides exports, especially electronics exports, actually a real foreign exchange earner, meaning a way for us to earn foreign currency, similar to major exports, is tourism. So when a tourist comes in and this happens to them, it leaves a very bad name. If it goes viral in their home country, it will really damage the tourism sector, which involves millions of people. So I hope JPJ and the authorities take serious action, so that we can reduce these rogue drivers and focus enforcement so that these rogue operators cannot operate in areas like KLIA, which is so important because it's the country's main tourism entry point.
 
 **Haziq:** Alright, let's see if there's anything else.
 
-**Rafizi:** A manifesto, this is someone from my hometown. I once campaigned with him, know him very well. He used to persuade me to, what's this, err, be a campaign speaker to help him win as ADUN for Chukai.
+**Rafizi:** A manifesto, this is someone from my hometown. I once campaigned with him, know him very well. He used to persuade me to, what's this, be a campaign speaker to help him win as ADUN for Chukai.
 
 **Haziq:** Chukai, yes, yes.
 
-**Rafizi:** Because he won as ADUN for Chukai I think in 2013. So in 2010, 2011 I was already a national-level campaign speaker, so I know him very well. This one who's stammering, what's this, hmm, this is really outrageous. Furthermore, it's not just about him advising people to save water because water tariffs went up in Terengganu. If that advice came from my father from Kemaman, people wouldn't make a fuss. The problem here is Dato' Hanafiah Mat, who was supposedly PAS's Troll King before this. I remember he first went viral, everyone — well, a lot of people were unhappy, but PAS supporters were affectionately amused — when he ate rice with orange cordial.
+**Rafizi:** Because he won as ADUN for Chukai I think in 2013. So in 2010, 2011 I was already a national-level campaign speaker, so I know him very well. This one who's stammering, what's this, this is really outrageous. Furthermore, it's not just about him advising people to save water because water tariffs went up in Terengganu. If that advice came from my father from Kemaman, people wouldn't make a fuss. The problem here is Dato' Hanafiah Mat, who was supposedly PAS's Troll King before this. I remember he first went viral, everyone — well, a lot of people were unhappy, but PAS supporters were affectionately amused — when he ate rice with orange cordial.
 
 **Haziq:** That was the one about Rahmah, right?
 
-**Rafizi:** Yes, about Rahmah. About the Rahmah menu, supposedly not flavorful enough. So now he's feeling it himself, getting trolled and becoming material for netizens. But here's another perspective — a manifesto isn't a holy book, because I remember PAS once promised free water too. So from free water, it became a doubling of the water tariff. Of course among PAS supporters all this is justified, with the justification being the manifesto from GE14. But if you look at the comments on my social media, no one brings up the GE13 justification, even though what's often mentioned, for example, lowering car prices, that was GE — which GE was it? GE13, when PAS was the happiest to campaign about it across the country. So that's why, well, I hope viewers, voters — this is why we can't be blindly loyal to a party. Because what's happened in Terengganu proves one thing: whichever party governs, they're forced to balance between their populist promises and the responsibility of ensuring government services can be provided at a price that doesn't burden the people, against the financial constraints they face. So in Terengganu's case, we know that Terengganu is actually among the states with the lowest tax collection — Terengganu's tax collection, if I'm not mistaken, as a source of state revenue, is actually lower than Kelantan's tax collection.
+**Rafizi:** Yes, about Rahmah. About the Rahmah menu, supposedly not flavorful enough. So now he's feeling it himself, getting trolled and becoming material for netizens. But here's another perspective — a manifesto isn't a holy book, because I remember PAS once promised free water too. So from free water, it became a doubling of the water tariff. Of course among PAS supporters all this is justified, with the justification being the manifesto from GE14. But if you look at the comments on my social media, no one brings up the GE13 justification, even though what's often mentioned, for example, lowering car prices, that was GE — which GE was it? GE13, when PAS was the happiest to campaign about it across the country. So that's why, well, I hope viewers, voters — this is why we can't be blindly loyal to a party. Because what's happened in Terengganu proves one thing: whichever party governs, they're forced to balance between their populist promises and the responsibility of ensuring government services can be provided at a price that doesn't burden the people, against the financial constraints they face. So in Terengganu's case, we know that Terengganu is actually among the states with the lowest tax collection — Terengganu's tax collection, if I'm not mistaken, as a source of state revenue, is actually lower than Kelantan's tax collection. Lower. So with tax collection — and tax collection is an indicator of that state's economic growth — with low tax collection, of course they can't afford to give free water and so on because of financial constraints. That's also what happens at the federal level, in several other states, and so on. So the public needs to look at and evaluate that going forward, this isn't about who can give things away for free anymore. Actually, a party's ability to be studied should be evaluated based on their ideas and planning to ensure that existing constraints can be handled creatively, so that where the public should pay, they pay, and where the public deserves assistance because they can't afford it, they get assistance. Even if there is money, it's better spent ensuring infrastructure and services like water and utilities can be provided to the public in good condition for future generations. What's this now, Dato' Hanafiah Mat has gone viral and become a celebrity once again — besides all of us laughing at him together, I hope he also prompts people, especially fence-sitters, to evaluate that when we choose, we shouldn't choose based on sentiment alone. Going forward we need to choose people with skill, knowledge, and capability, because any party will be forced to solve burdens as big as this.
 
-**Haziq:** Lower?
-
-**Rafizi:** Lower. So with tax collection — and tax collection is an indicator of that state's economic growth — with low tax collection, of course they can't afford to give free water and so on because of financial constraints. That's also what happens at the federal level, in several other states, and so on. So the public needs to look at and evaluate that going forward, this isn't about who can give things away for free anymore. Actually, a party's ability to be studied should be evaluated based on their ideas and planning to ensure that existing constraints can be handled creatively, so that where the public should pay, they pay, and where the public deserves assistance because they can't afford it, they get assistance. Even if there is money, it's better spent ensuring infrastructure and services like water and utilities can be provided to the public in good condition for future generations. What's this now, Dato' Hanafiah Mat has gone viral and become a celebrity once again — besides all of us laughing at him together, I hope he also prompts people, especially fence-sitters, to evaluate that when we choose, we shouldn't choose based on sentiment alone. Going forward we need to choose people with skill, knowledge, and capability, because any party will be forced to solve burdens as big as this.
-
-**Haziq:** Yes, alright, alright. Okay YB, we need to rate these — okay need to rate. Okay let's start with outrageous, right?
-
-**Rafizi:** Yes, outrageous.
-
-**Haziq:** We have — okay let's rate from the start, okay. Hmm, how's the quality this time?
+**Haziq:** Yes, alright, alright. Okay YB, we need to rate these — okay need to rate. Okay let's start with outrageous, right? We have — okay let's rate from the start, okay. How's the quality this time?
 
 **Rafizi:** But that's the thing, none of them are as truly outrageous as episode one, the one with the influencer who parked the car on top. I'll give this one three stars.
 
 **Haziq:** Alright, thank you.
 
-**Rafizi:** This one is two stars. After that... yes, this one is two stars. Two stars, I feel embarrassed for them, since it's happened before. Yes, this one too is two stars. Two stars only, they tried hard to spin it, but nobody bought it. Hahaha. Yes, this one isn't outrageous, this is malicious, wrong category — wrong category, this is malicious, two stars. Okay, I think for outrageous, we should give it to my hometown guy, four stars. This kind of danger, four stars.
+**Rafizi:** This one is two stars. After that. yes, this one is two stars. Two stars, I feel embarrassed for them, since it's happened before. Yes, this one too is two stars. Two stars only, they tried hard to spin it, but nobody bought it. Hahaha. Yes, this one isn't outrageous, this is malicious, wrong category — wrong category, this is malicious, two stars. Okay, I think for outrageous, we should give it to my hometown guy, four stars. This kind of danger, four stars.
 
-**Haziq:** Congratulations, YB, look at his glasses, impressive. Okay, alright YB, having said that, let's move to...
+**Haziq:** Congratulations, YB, look at his glasses, impressive. Okay, alright YB, having said that, let's move to.
 
 **Rafizi:** Not episode, but the next segment, this is the tough segment.
 
@@ -165,7 +149,7 @@ The main goal of retargeting the RON95 subsidy has two parts. One, to strengthen
 
 **Haziq:** Volatility.
 
-**Rafizi:** Oh, that's the Malay term — kemeruapan. So the goal to reduce the government's exposure...
+**Rafizi:** Oh, that's the Malay term — kemeruapan. So the goal to reduce the government's exposure.
 
 **Haziq:** It's exposure, right?
 
@@ -201,11 +185,7 @@ As mentioned earlier in the first question — if crude oil prices rise past $80
 
 **Haziq:** Next question YB, still touching on — oh, so many questions — but more on practicality and usage, YB. I think the rice has already turned to porridge and the government has already announced it, YB. And it's anticipated that there will be a proliferation of smuggling activity, growing like mushrooms. So if YB looks at it, how will enforcement now be able to enforce this? Now it's become something every Malaysian is affected by — I mentioned this in a message earlier, right.
 
-**Rafizi:** It's hard to say right now until it actually happens, because it's never been implemented before. There are two things. One is the smoothness of purchasing — inserting the card and it works. I read a netizen comment, "why make such a fuss, inserting a card is easy." Actually the experience varies. I think most of the testing for this system was probably done in the Klang Valley.
-
-**Haziq:** Oh, okay.
-
-**Rafizi:** In the Klang Valley, more people use apps, more people use cards and so on. So that's probably why it doesn't cause much of a problem. And in the Klang Valley there will also be coverage — what's the Malay word for that?
+**Rafizi:** It's hard to say right now until it actually happens, because it's never been implemented before. There are two things. One is the smoothness of purchasing — inserting the card and it works. I read a netizen comment, "why make such a fuss, inserting a card is easy." Actually the experience varies. I think most of the testing for this system was probably done in the Klang Valley. In the Klang Valley, more people use apps, more people use cards and so on. So that's probably why it doesn't cause much of a problem. And in the Klang Valley there will also be coverage — what's the Malay word for that?
 
 **Haziq:** Liputan.
 
@@ -213,9 +193,9 @@ As mentioned earlier in the first question — if crude oil prices rise past $80
 
 Then, okay — there are members of the public who haven't had the chance, have never used their identity card's chip for a purpose like this. The chip on the card, they don't even know if it works or not. Suddenly they go to buy fuel, the chip doesn't work, they're stuck, and they have to pay full price. It's a painful experience for them, you know. And because of that, before I get to the smuggling issue — in terms of implementation, I'm not sure how extensively testing was done nationwide. The time available was, I think, short, and from the feedback I received, most of the testing was in urban areas. So there's a risk there. And imagine for the government, during testing they might say everything is running smoothly, but that testing is in sample areas. But for the next six, seven months, every day — thank you — and they can't buy fuel, or there might be 10-15 petrol stations in Malaysia where internet coverage is poor, so it gets disrupted. That means we've just guaranteed that every day we'll be cursed at.
 
-**Haziq:** Etched into...
+**Haziq:** Etched into.
 
-**Rafizi:** ...their memory. That's why I say the implementation risk is real. But to what extent? Is it 100 people a day, 500 people a day, 1000 people a day? Petrol stations with system problems — is it 10, 15, 100? That, as I mentioned earlier, we'll only know within 6 to 12 months, and we'll have to see the uproar on social media later.
+**Rafizi:** their memory. That's why I say the implementation risk is real. But to what extent? Is it 100 people a day, 500 people a day, 1000 people a day? Petrol stations with system problems — is it 10, 15, 100? That, as I mentioned earlier, we'll only know within 6 to 12 months, and we'll have to see the uproar on social media later.
 
 The same actually applies to the black market issue. I wouldn't call it smuggling exactly — it might be more accurate to call it leakage risk. Especially for traders who are not eligible for subsidized RON95 under the government's subsidized transport and vehicle scheme. There are cases, depending on categories, especially small traders. Same as when the diesel subsidy retargeting was done before. For example, night market traders — many of them use pickup trucks. So the 200 liters given wasn't enough. Then there were also cases where the pickup truck was registered under the mother's name, and the mother might have a high income, but the trader himself has a low income. So because it's registered under the mother's name, he doesn't get the diesel — there's a risk that small traders will bear the brunt of this.
 
@@ -229,41 +209,33 @@ So actually it's not necessarily correct, and I always say — both when I was a
 
 As I mentioned earlier — how many people can't buy fuel every day? We might say those people are just going to keep grumbling and complaining. As for coverage, system downtime and so on — we might say it's fine, tests show it's okay. But if it happens in several districts, those districts will all be furious. Third, the leakage issue — we might say it's fine, we can monitor here, check there, and so on. Yes, but how many people do we need to hire, how big will this job become to have someone watching at every petrol station — let's hope afterward the Ministry of Domestic Trade and Cost of Living doesn't end up having to chase down people selling fuel illegally instead. So these are all unintended consequences that led me to caution the government from the start — my view that if this pump-based system is implemented, it will lead to these very risks.
 
-**Haziq:** Alright, alright, YB. Just one more, YB. Oh, so many questions. But this one — yes, people are asking, including "your good friend" — not sure whose good friend — Lim Sian Si...
+**Haziq:** Alright, alright, YB. Just one more, YB. Oh, so many questions. But this one — yes, people are asking, including "your good friend" — not sure whose good friend — Lim Sian Si.
 
-**Rafizi:** He's not anyone's good friend. He's actually more like...
+**Rafizi:** He's not anyone's good friend. He's actually more like.
 
 **Haziq:** Najib. The question might only be three words — what happened to PADU M4?
 
-**Rafizi:** No — I mean, when the government first decided to use the identity card and, second, decided not to use an income threshold, that means PADU isn't being used. Because PADU was built for cash transfers, as per the original decision back in 2023. As usual, whether it's Lim Sian See or the opposition or "wa lanun" or whoever it is that's now trying to hit at me, they're trying to frame PADU as being "Rafizi's thing." No — it was Anwar Ibrahim who launched it. It was the government and Cabinet as a whole that agreed to all of it. It became one of the government's core pillars. So indeed, when the decision was made — I recall it was May 2023 — the Ministry of Economy was tasked with building a central database that consolidated all this data as early as January 2024. We had only about seven months to do it using the government's internal manpower. That's what happened. Eventually the government did a U-turn.
-
-**Haziq:** The government...
-
-**Rafizi:** ...made the not-so-bold decision to avoid using cash transfers, because the government was afraid that if it simply raised prices, people would be furious. That's all. In my view, it depends on how we return the money in the form of monthly cash transfers. So for now, that means PADU isn't being used. Because if it's just a matter of using the IC, with everyone eligible regardless of income threshold, then in all likelihood the Ministry of Finance, through the Budi95 system — what do they call it, Budi95 — is simply using data from JPJ alone. Because they don't need other data — they don't need household size data, location, place, they don't need income, expenditure data and so on.
+**Rafizi:** No — I mean, when the government first decided to use the identity card and, second, decided not to use an income threshold, that means PADU isn't being used. Because PADU was built for cash transfers, as per the original decision back in 2023. As usual, whether it's Lim Sian See or the opposition or "wa lanun" or whoever it is that's now trying to hit at me, they're trying to frame PADU as being "Rafizi's thing." No — it was Anwar Ibrahim who launched it. It was the government and Cabinet as a whole that agreed to all of it. It became one of the government's core pillars. So indeed, when the decision was made — I recall it was May 2023 — the Ministry of Economy was tasked with building a central database that consolidated all this data as early as January 2024. We had only about seven months to do it using the government's internal manpower. That's what happened. Eventually the government did a U-turn. made the not-so-bold decision to avoid using cash transfers, because the government was afraid that if it simply raised prices, people would be furious. That's all. In my view, it depends on how we return the money in the form of monthly cash transfers. So for now, that means PADU isn't being used. Because if it's just a matter of using the IC, with everyone eligible regardless of income threshold, then in all likelihood the Ministry of Finance, through the Budi95 system — what do they call it, Budi95 — is simply using data from JPJ alone. Because they don't need other data — they don't need household size data, location, place, they don't need income, expenditure data and so on.
 
 But PADU still exists, and it's used for other purposes within government, because the most complete database on household information, as far as I recall, is still PADU. So if, for example, there's a need to check a household's financial standing for subsidy purposes or other targeted assistance, PADU is still being used. It's just that public understanding — and this was also one of the government's main reasons for deciding to build PADU as early as May 2023 — the first use case was supposed to be subsidy retargeting. But because the government took a different decision, PADU data, I believe, isn't being used for that.
 
-**Haziq:** Alright, YB, that's clear. Let's move to something else — I think there's nothing more on Budi. Oh, that's done...
+**Haziq:** Alright, YB, that's clear. Let's move to something else — I think there's nothing more on Budi. Oh, that's done.
 
-**Rafizi:** ...that's done and dusted. Or is there more?
+**Rafizi:** that's done and dusted. Or is there more?
 
 **Haziq:** There is, there is. This is a bit of a social issue, YB.
 
-**Rafizi:** Ha, this calls for a drink of water. Drink some water first, YB. Eh, this is all divisive. There are some who agree — I haven't heard many say they agree, though. But those who disagree have gotten quite harsh. Poor Kelantan Police Chief.
+**Rafizi:** Ha, this calls for a drink of water. Drink some water first, YB. This is all divisive. There are some who agree — I haven't heard many say they agree, though. But those who disagree have gotten quite harsh. Poor Kelantan Police Chief.
 
-**Haziq:** Yes. In a situation where we have "leakage in crime" — meaning there are people who commit crimes but... well, crime leakage. This is your clever thinking here — because we're looking at...
+**Haziq:** Yes. In a situation where we have "leakage in crime" — meaning there are people who commit crimes but. well, crime leakage. This is your clever thinking here — because we're looking at.
 
 **Rafizi:** Crime doesn't leak. If it's a crime, it's a crime.
 
-**Haziq:** For example — oh, okay, we have this thing, appointment-based reasoning. You were a lawyer before, right?
+**Haziq:** For example — oh, okay, we have this thing, appointment-based reasoning. You were a lawyer before, right? Is that so?
 
-**Rafizi:** Yes.
+**Rafizi:** No, that concept isn't. this is our own analogy.
 
-**Haziq:** Is that so?
-
-**Rafizi:** No, that concept isn't... this is our own analogy.
-
-**Haziq:** This statutory rape thing — be careful what you want to say, YB. It's just quite controversial because, well — when a man and a woman are both willing, meaning...
+**Haziq:** This statutory rape thing — be careful what you want to say, YB. It's just quite controversial because, well — when a man and a woman are both willing, meaning.
 
 **Rafizi:** What you were trying to say earlier is that this "crime leakage" means if the man is punished, the woman should be punished too. Something like that.
 
@@ -299,17 +271,13 @@ So here in Malaysia, we're often said to be taboo — we're a bit restrained, em
 
 **Rafizi:** Don't forget to like, share and subscribe.
 
-**Haziq:** Have you ever watched SVU? I know of it but I've never watched it.
+**Haziq:** Have you ever watched SVU? I know of it but I've never watched it. Never watched it. I was checking earlier "statutory rape" — meaning "rogol statutory"? Not "rogol berkanun." "Rogol statutory." Before it turns into a deviant teaching.
 
-**Rafizi:** Never watched it?
-
-**Haziq:** Never watched it. I was checking earlier "statutory rape" — meaning "rogol statutory"? Not "rogol berkanun." "Rogol statutory." Before it turns into a deviant teaching...
-
-**Rafizi:** Shame on UM [University of Malaya]. He graduated with a law degree from UM — in English. Oh, English. So he really doesn't have the Malay term for it. He does, but mostly it's that. Clever of you to give excuses.
+**Rafizi:** Shame on [University of Malaya]. He graduated with a law degree from — in English. Oh, English. So he really doesn't have the Malay term for it. He does, but mostly it's that. Clever of you to give excuses.
 
 **Haziq:** Collecting SD [statutory declarations] — this is simple, YB. What's wrong with Wan Saiful collecting SDs? He's following the example set by his own president. That's the only question.
 
-**Rafizi:** It's fine, you've already answered it. Hmm, well, what's this called, I myself was surprised because I thought Wan Saiful was a strong supporter of Tan Sri Muhyiddin, since he originally came from Bersatu. Wan Saiful, back when we were studying in the UK, was — if I'm not mistaken — the president of HISB, the PAS Students' Association. Now he's in Bersatu. I don't really want to comment further. So the fun part is, in the end we now know who's behind collecting these SDs, because I didn't ask around, I just said, who's collecting these SDs? And in the end, we found out. And this should really make it into the news segment.
+**Rafizi:** It's fine, you've already answered it. Well, what's this called, I myself was surprised because I thought Wan Saiful was a strong supporter of Tan Sri Muhyiddin, since he originally came from Bersatu. Wan Saiful, back when we were studying in the UK, was — if I'm not mistaken — the president of HISB, the PAS Students' Association. Now he's in Bersatu. I don't really want to comment further. So the fun part is, in the end we now know who's behind collecting these SDs, because I didn't ask around, I just said, who's collecting these SDs? And in the end, we found out. And this should really make it into the news segment.
 
 Okay, okay, so what's this called, the turmoil within Bersatu is unending. Because once someone is called before the disciplinary board, it becomes a disciplinary board case. In any party, there will be those who are angry and those who defend. So whatever the eventual decision is — whether to suspend or expel with just a warning. If, for example, the action taken is considered too light, only issuing a warning, then Tan Sri Muhyiddin's die-hard supporters will get angry too, right? So it goes from one thing to another — starting with the SDs, then afterward the focus within Bersatu shifts to the disciplinary board case, then to the disciplinary board's decision. And usually, that decision won't be a win-win. If he gets off easily, one group gets angry. If action is taken to suspend him or whatever, another group gets angry, and so on. So in the end, Bersatu really isn't united at all.
 
@@ -333,7 +301,7 @@ Speaking of Farhash, and this whole matter, because Pakatan Harapan really only 
 
 So with things like this happening, I think the impact isn't just on Sabah, but also on the federal government under Dato' Seri Anwar Ibrahim. But I'm just going to wait and continue to, you know, follow this, and I don't think it ends with Jeffrey Kitingan. It will continue. My worry is if it also starts involving figures from the federal level, from Putrajaya. That's what I meant. But...
 
-**Haziq:** ...are you worried, or is there...
+**Haziq:** are you worried, or is there.
 
 **Rafizi:** Yes, that's fine, let's wait and see how this unfolds. Okay, let's wait. Okay, good. So it'll get bigger and bigger and bigger.
 
@@ -357,7 +325,7 @@ I... I recall only one elected representative ever raised his hand and issued a 
 
 So, I hope that going forward, society and politicians together — let's shift, recalibrate our society, focus on things that are more substantive and productive. For example, this typhoon issue.
 
-**Haziq:** Alright, YB. Let's move to... British Rosania —
+**Haziq:** Alright, YB. Let's move to. British Rosania —
 
 **Rafizi:** I was watching the speech —
 
@@ -369,19 +337,13 @@ So those are really the two things. Trump — Trump is a dealmaker. "I'm giving 
 
 But American hegemony over the past 80, 90 years — 80 years, 45 [WWII end], plus now 25, that's about 70 years — has actually been exercised through the UN and its agencies. To say the US gets nothing from the financial contributions it bears to sustain the UN and its agencies isn't accurate either. Because through that US financial contribution, the US holds the greatest influence over world order, and the legitimacy of US leadership globally is exercised through the UN. So I think all previous US presidents understood this, which is why it wasn't an issue before. It's only with Trump that this stance is being used, partly because it's a populist position with his supporters in the US. But he — but he —
 
-**Haziq:** Hmm.
-
 **Rafizi:** The UN, despite various views on its effectiveness, is the only global body accepted by all nations. It's true that world order is still tied to the UN. Any form of diplomatic mechanism operates under the UN. There's a fairly high level of respect for the UN. Many global standards are set through UN agencies.
 
 So if the US under Trump takes the position that "we no longer need the UN," and if, say, China takes the position "we will uphold the UN" — if the US isn't careful, leadership of the UN will shift to other countries, including China. And China does have the financial capacity to fund the UN. So these are things we, as a small nation, can only observe.
 
 But I don't think any US administration that's hostile to the UN is actually good for America's long-term planning. If I were in their position, I'd see the UN as an asset, because US hegemony has partly derived its legitimacy through the UN all this while. So, it is in the best interest of the US to make sure of the relevance and appropriate respect for the UN — because much of the world order and standards and how the world functions are aligned with the UN. But well, I'm not — so I can only offer my view.
 
-**Haziq:** That's interesting, though. Okay, let's move to the next one. There's one more, I think. Okay. Haa. They're playing this — pew pew pew, what's this? Haa, water cannons. But it's pretty bad too, people got injured and everything. It seems endless. How do we, at least, put an end to it — some conflicts in the world —
-
-**Rafizi:** — end?
-
-**Haziq:** Or maybe mitigate is a better word. Right?
+**Haziq:** That's interesting, though. Okay, let's move to the next one. There's one more, I think. Okay. Haa. They're playing this — pew pew pew, what's this? Haa, water cannons. But it's pretty bad too, people got injured and everything. It seems endless. How do we, at least, put an end to it — some conflicts in the world — Or maybe mitigate is a better word. Right?
 
 **Rafizi:** A bit. Mitigate. That's why it's called geopolitics. So if we look at the history of the past 125 years, starting with World War One, it actually began simply from friction and ego between empires in Europe. It was basically, "I don't like you, we're friends, right? If I fight you, you have to join me against them." That's essentially what happened in World War One. It wasn't about big issues. Now I'm going back to talk about earlier conflicts — you might wonder what this has to do with World War One. So, to understand geopolitics — because we in Southeast Asia are in the middle of a geopolitical conflict that could be prolonged.
 
@@ -399,15 +361,15 @@ And what I think we need is to move toward gaining agreement and recognition fro
 
 Thank you. That's why diplomatic efforts matter, and that's also why Malaysia should fully utilize the opportunities available, especially through ASEAN, to ensure ASEAN can be accepted — or reaffirmed — as everyone's partner, but with an independent, safe identity that doesn't want to be dragged into all these matters.
 
-**Haziq:** Clear, bro? So that's the end of our world news segment. Alright, we have — we have a new segment, Fuyo. Fuyo is my daughter's — she really likes watching "fuyo" stuff. Kids these days are into "fuyo." Alright, so let's start with just one. Do I need to explain what "fuyo" is? Okay, forgot to explain. Fuyo, fuyo, fuyo — in this segment we'll be featuring... You—
+**Haziq:** Clear, bro? So that's the end of our world news segment. Alright, we have — we have a new segment, Fuyo. Fuyo is my daughter's — she really likes watching "fuyo" stuff. Kids these days are into "fuyo." Alright, so let's start with just one. Do I need to explain what "fuyo" is? Okay, forgot to explain. Fuyo, fuyo, fuyo — in this segment we'll be featuring. You—
 
 **Rafizi:** You sound like you're not even trying, saying "fuyo" like that. Fuyo.
 
-**Haziq:** Okay, we'll be featuring new inventions, innovations, or creations that might help...
+**Haziq:** Okay, we'll be featuring new inventions, innovations, or creations that might help.
 
 **Rafizi:** No, one thing that might be less popular with the audience — sometimes, when it comes to content in Malaysia, whether it's podcasts, talks, or forums, we tend to be quite narrow-minded, only talking about small local matters. Meanwhile, the world is changing rapidly. And the fastest-changing area that will have a major impact on us, beyond our borders, is developments in science and technology. So ideally, if we can use this modest podcast platform, at the very least, those watching can also learn together about matters related to science and technology, which will have a major impact in the future. So, what's the first one this week?
 
-**Haziq:** The first one this week — yes, we have the first sodium-ion battery. So I think everyone now...
+**Haziq:** The first one this week — yes, we have the first sodium-ion battery. So I think everyone now.
 
 **Rafizi:** It's not the first sodium-ion battery, though. Sodium-ion batteries have existed for a while.
 
@@ -417,13 +379,11 @@ Thank you. That's why diplomatic efforts matter, and that's also why Malaysia sh
 
 **Haziq:** Yes, yes. And with current batteries, we usually use lithium-ion. So actually both have their pros and cons. But how significant is it that the first commercialized sodium-ion battery has arrived, YB? Will it be a bit of a game changer, especially for renewable energy?
 
-**Rafizi:** Um... yeah, well, I am a bit of a geek about this. I mean, actually, back in school and university — me. The common battery, especially in EVs or our gadgets, is lithium-based. The problem with lithium is that it's not abundant in the world. It's scarce. Because of that, battery prices go up across the board. And many things — either there isn't enough for global use, or only certain countries can access what's available. Because of that, prices are high. And when prices are high, many things that should have already shifted toward renewable or greener alternatives simply can't happen.
+**Rafizi:** yeah, well, I am a bit of a geek about this. I mean, actually, back in school and university — me. The common battery, especially in EVs or our gadgets, is lithium-based. The problem with lithium is that it's not abundant in the world. It's scarce. Because of that, battery prices go up across the board. And many things — either there isn't enough for global use, or only certain countries can access what's available. Because of that, prices are high. And when prices are high, many things that should have already shifted toward renewable or greener alternatives simply can't happen.
 
 The problem is that — and that's why, in the field of science, in the field of battery development, there's a race, a competition to see who can develop an alternative to lithium-ion. That's why sodium-ion is an alternative. The problem with sodium-ion is that the energy density per unit of sodium-ion is lower than lithium-ion. I think lithium-ion is about 150 watt-hours per kilogram — meaning that's how much energy it can hold right now. For sodium-ion, maybe half that, 70. So that means if you use sodium-ion for a car, the battery would have to be huge at the back, like a truck. So it's not economical.
 
 Whereas sodium-ion is better because sodium is salt. So if we can make batteries from salt — and there's a lot of salt around the world — then we don't run into the lithium supply problem. Commercially and at large scale, it means cheaper production, and when it's cheaper, it can be used more widely. This is interesting because there's a company in China, EVE Energy, that has successfully developed a system — meaning a complete system with batteries and so on, a battery storage grid. So this is the first large-scale commercial one, you know. Well, it depends, because there's also one in the US. So there are now two — one in China, one in the US. So this is quite important for Malaysia.
-
-**Haziq:** Okay.
 
 **Rafizi:** For example, before we launched the energy transition plan, why weren't the government or industry in Malaysia very interested in solar?
 
@@ -431,13 +391,9 @@ Whereas sodium-ion is better because sodium is salt. So if we can make batteries
 
 **Rafizi:** What do you mean by capacity?
 
-**Haziq:** The energy generated, compared to...
+**Haziq:** The energy generated, compared to.
 
-**Rafizi:** Not really, we actually have huge potential.
-
-**Haziq:** Okay.
-
-**Rafizi:** Our rooftop potential and renewable potential are large.
+**Rafizi:** Not really, we actually have huge potential. Our rooftop potential and renewable potential are large.
 
 **Haziq:** Maybe it's just expensive.
 
@@ -451,15 +407,15 @@ So if this can happen, and within 5 to 10 years sodium-ion batteries reach a sta
 
 **Haziq:** Good, good, good. So in conclusion, the price will become cheaper, and for those using solar at home, they'll be able to depend on it fully.
 
-**Rafizi:** Wow, 90% of the way to fully. Right now it's expensive — one battery unit costs, what, RM40,000-RM50,000 to install at home. Hmm.
+**Rafizi:** Wow, 90% of the way to fully. Right now it's expensive — one battery unit costs, what, RM40,000-RM50,000 to install at home.
 
 **Haziq:** Okay, alright, YB. Let's move to the final segment — lots of questions here.
 
 **Rafizi:** We've been at this for over two hours now.
 
-**Haziq:** True. But there are basically only four. Former Minister, Chair and Time with the... First one, from Ahmad Ilyas: "Is the 39% decline in local tourists to Langkawi due to consumer protest against unreasonable prices for services, accommodation, and food? And if so, what is the best step to restore public interest in traveling to Langkawi again?"
+**Haziq:** True. But there are basically only four. Former Minister, Chair and Time with the. First one, from Ahmad Ilyas: "Is the 39% decline in local tourists to Langkawi due to consumer protest against unreasonable prices for services, accommodation, and food? And if so, what is the best step to restore public interest in traveling to Langkawi again?"
 
-**Rafizi:** I don't have the data, so I can't really answer whether this is the case — unless I conduct a survey. Let me wait a bit... But even if I wait there, that's only people who actually go. But let me give a qualitative view. Meaning, a view based on reading, on observation, even without data from a survey.
+**Rafizi:** I don't have the data, so I can't really answer whether this is the case — unless I conduct a survey. Let me wait a bit. But even if I wait there, that's only people who actually go. But let me give a qualitative view. Meaning, a view based on reading, on observation, even without data from a survey.
 
 I think there is a connection, and the most important factor, I believe, is cost. I recall an intern of mine mentioning that with a thousand ringgit, you could go on holiday to, say, Krabi, and stay two days at what could be considered a luxury hotel. And because I usually — 2-3 years ago I used to nag at this — "why are you all in Thailand, why don't you go to Langkawi?" That was my question to my younger sibling. Their answer — with RM1000, "you cannot stretch your ringgit much in Langkawi." Because of the prices.
 
@@ -489,7 +445,7 @@ Beyond that, there are many more gaps — whether in teaching methods, pedagogy,
 
 **Haziq:** Okay, alright. Next question: Is our inflation structural because the majority of bank credit flows into real estate and consumption, rather than productive capacity? If so, who actually creates most of M3 — BNM or commercial banks through lending — and should controlling credit creation be a core part of anti-inflation strategy? This question is from Kiruban.
 
-**Rafizi:** Hmm... Um... For those watching, this is a very technical question. M3 is a category of money — monetary. The flow of money in our country has three categories. The most basic is M1, issued by Bank Negara. Then a layer above that, if you have fixed deposits or repos or others, that becomes M2. If it's more derivative in nature, higher up, like other debt instruments, that becomes M3.
+**Rafizi:** For those watching, this is a very technical question. M3 is a category of money — monetary. The flow of money in our country has three categories. The most basic is M1, issued by Bank Negara. Then a layer above that, if you have fixed deposits or repos or others, that becomes M2. If it's more derivative in nature, higher up, like other debt instruments, that becomes M3.
 
 For my answer, the first question — the majority of bank credit flows into real estate and consumption. Before we get to the question of inflation, although I haven't closely followed or studied the money supply statistics in detail, in terms of the banks' detailed debt portfolio — for that you'd need to read Bank Negara's reports continuously — my hunch is, actually, if the view is that the majority of bank credit flows to things that aren't productive capacity, I don't think that's too far off. I do think that a lot of it — if we could redirect the majority of this credit toward more productive things — meaning manufacturing capacity or investment in nature — rather than real estate which can be speculative but not productive in nature, let alone consumption, credit lines and so on. So, I think that view has some truth to it. If we could mobilize capital better toward more productive sectors, that would improve and strengthen our economic structure.
 
@@ -517,15 +473,13 @@ If you ask any regulatory institution, all of them have KPI merits. To make it s
 
 I have four streaming services, plus Disney. And one thing that has been a big change for me as a Malaysian — I used to really dislike Bollywood. Forget Bollywood, I didn't even like Korean content. Let alone Thai or Indonesian content.
 
-**Haziq:** Okay.
-
-**Rafizi:** But with these streaming services, it allows us to compare the quality of creative arts and content from around the world. And there really is a world of difference between us and Bollywood, between us and Kuala Lumpur, for those who don't watch it. I don't really watch Nollywood, but... do you know what Nollywood is?
+**Rafizi:** But with these streaming services, it allows us to compare the quality of creative arts and content from around the world. And there really is a world of difference between us and Bollywood, between us and Kuala Lumpur, for those who don't watch it. I don't really watch Nollywood, but. do you know what Nollywood is?
 
 **Haziq:** No idea, never heard of it.
 
 **Rafizi:** That's Nigeria — they call it Nollywood. Kollywood? Bollywood is usually Tamil. If you take Bollywood as an example, for those who don't watch much of it — it's not like before, with the dancing, no quality — in terms of storytelling, in terms of the quality of films being produced, it beats Hollywood, you know. They can take a story that seems ordinary to us, and you can watch that story for 2 hours, 3 hours. I always recommend to everyone who hasn't watched it — for example, the best output from Bollywood in my view over the past 2-3 years is Mandela. You're nodding — have you watched Mandela?
 
-**Haziq:** Nelson Mandela? Uh oh, you're going to fire me.
+**Haziq:** Nelson Mandela? Oh, you're going to fire me.
 
 **Rafizi:** There's a Tamil film, a comedy film that portrays politics, called Mandela. The actor is a comedian whose face really doesn't look suited to be an actor — he's a comedian, his name is Yogi Babu. Everyone should watch it. And I'm sure if Malaysians watch it, everyone will say, wow, Bollywood is really amazing now, compared to what we're used to.
 
@@ -537,33 +491,19 @@ Alright, before we ask this — KPI merit is not transparent and disorganized, r
 
 **Haziq:** Their priority for scriptwriters is higher than ours?
 
-**Rafizi:** That's why, if we look at my view on KPIs, on agencies — maybe too much emphasis is given to second, third, fourth-layer matters. The matter of actors. I'm not saying this isn't important, you know.
+**Rafizi:** That's why, if we look at my view on KPIs, on agencies — maybe too much emphasis is given to second, third, fourth-layer matters. The matter of actors. I'm not saying this isn't important, you know. Acting is important, cinematography is important, everything is important. Credits are important, technology is important. But if the story starts with boring storytelling, no matter what you do, it'll be boring. Why can't we have thriller ideas? Are there any thrillers in Malaysia?
 
-**Haziq:** Okay.
+**Haziq:** There are, it's just. No, no, no there aren't.
 
-**Rafizi:** Acting is important, cinematography is important, everything is important.
-
-**Haziq:** Okay.
-
-**Rafizi:** Credits are important, technology is important. But if the story starts with boring storytelling, no matter what you do, it'll be boring. Why can't we have thriller ideas? Are there any thrillers in Malaysia?
-
-**Haziq:** There are, it's just... eh, no, no, no there aren't.
-
-**Rafizi:** There was a thriller before, what was it... Gerhana, what was it called? Police something? Not the Yusof Haslam one. Gerhana. But that's not really a thriller. But if you look, as I mentioned, starting with Korea — Korea has a lot of content, they started with the ambition of thrillers first. Because it really is human instinct to like intense stories — who committed the murder, why did this happen, mystery. We don't have mystery. Difficult, right?
+**Rafizi:** There was a thriller before, what was it. Gerhana, what was it called? Police something? Not the Yusof Haslam one. Gerhana. But that's not really a thriller. But if you look, as I mentioned, starting with Korea — Korea has a lot of content, they started with the ambition of thrillers first. Because it really is human instinct to like intense stories — who committed the murder, why did this happen, mystery. We don't have mystery. Difficult, right?
 
 So if we look at the existing agencies and how things are arranged in terms of policy and so on, most of it has already reached the second, third layer — actors and so on, right? And even what we have there is far behind compared to, for example, becoming an actor in Korea — yes, they have to go to university, trained from a young age. Same goes for Bollywood, Kollywood, Poland too, and Westerners as well — look at those Western actors, do you think they were born knowing how to act like that? It's actually difficult, you know. They have to go to drama school, and most of them are actors who came up through school — every school has its own play. I did my A-Levels in the UK before, and the biggest event at the school every year was really the play. And Mahmud, the rugby captain, he was also the one who played rugby, he was also the one who could sing opera, he was also the one who could act — because from the very beginning he was already like that. We haven't reached that level, our schools haven't.
 
 So let's not even talk about actors, we're already behind there. But the gap I think is huge is related to script writing, screenwriting. The idea isn't enough yet. Creative ideas in Malaysia haven't reached that level yet. So there really is no KPI system for this, no merit system for this, and even the arrangement of agencies, I think, hasn't reached the level where we are capable of producing great scripts that become great storytelling — which can then get good producers, good directors, good directors, good actors, good production design, good cinematography. What are you going to shoot? There's no story. To wrap up the story like this — okay. This is one of the sectors that was discussed at length when I was Economy Minister but never had a landing.
 
-**Haziq:** Okay.
-
 **Rafizi:** No landing. That's why I don't think we can rely entirely on the government. Our challenge is how do we bring forward the hidden creative talent among our people, and it doesn't need to depend entirely on the government. That's one of the hobbies I've had in my free time these past one or two years, trying to figure out how we can get the best storytelling, the best story ideas. And if we think it's great, we need to help these talented young people go to the next level, which is producing and turning that story idea into a final creative output.
 
-**Haziq:** Okay, alright. This is the longest podcast record.
-
-**Rafizi:** Longest podcast.
-
-**Haziq:** Yes, 2 hours 40 minutes. So that's it. So thank you to...
+**Haziq:** Okay, alright. This is the longest podcast record. Yes, 2 hours 40 minutes. So that's it. So thank you to.
 
 **Rafizi:** No wonder, people must have run off long ago. Crazy, 2 hours 40 minutes. Too many questions, I guess. Maybe we need to set a benchmark next time. Right, Weby.
 

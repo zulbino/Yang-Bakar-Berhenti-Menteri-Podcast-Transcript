@@ -66,13 +66,9 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Maksudnya besar apa?
 
-**Haziq:** Benda yang YB nak...
+**Haziq:** Benda yang YB nak.
 
-**Rafizi:** Tak, pengumuman tu besarlah. Macam saya ditanya wartawan tadilah, dia cuba, biasalah, semalam kan, semua nak nak tahu clue-cluelah.
-
-**Haziq:** Cuba korek.
-
-**Rafizi:** Cuba korek kan. Cuma saya kata dia memang pengumuman besar, bukan yang biasa-biasalah. Sebab kalau pengumuman biasa tu buat dekat TikTok pun cukuplah, buat dekat podcast pun boleh kan.
+**Rafizi:** Tak, pengumuman tu besarlah. Macam saya ditanya wartawan tadilah, dia cuba, biasalah, semalam kan, semua nak nak tahu clue-cluelah. Cuba korek kan. Cuma saya kata dia memang pengumuman besar, bukan yang biasa-biasalah. Sebab kalau pengumuman biasa tu buat dekat TikTok pun cukuplah, buat dekat podcast pun boleh kan.
 
 **Haziq:** Ada kaitan dengan yang bulan enam tu ke, YB?
 
@@ -86,7 +82,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Okey, baik YB. Kita tengok segmen apa yang ada dulu, YB. Beria macam biasa.
 
-**Rafizi:** Minggu ni kita yang tak beria eh, sebab penat.
+**Rafizi:** Minggu ni kita yang tak beria sebab penat.
 
 **Haziq:** Nampaklah penat, YB.
 
@@ -96,33 +92,17 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Ya Allahuakbar. Korang tak ada penghibur lain ke? Setiap minggu penghibur yang sama.
 
-**Haziq:** Analisis sendiri, sendiri tak percaya. Ini berkaitan dengan kenyataan Naib Presiden kita, saudara Ramanan Ramakrishnan.
-
-**Rafizi:** Kita?
-
-**Haziq:** Kita.
-
-**Rafizi:** Tidak mengaku.
-
-**Haziq:** Tidak mengaku, okey okey okey. Betullah, saya pun tidak mengundi dialah. Yang mengatakan sebenarnya lebih kelakarlah sebab dia berkata kaji selidik ini hanya melibatkan beberapa ratus orang, sedangkan yang akan menentukan undi saya nanti ialah ratusan ribu pengundi dalam PRU nanti.
+**Haziq:** Analisis sendiri, sendiri tak percaya. Ini berkaitan dengan kenyataan Naib Presiden kita, saudara Ramanan Ramakrishnan. Kita. Tidak mengaku, okey okey okey. Betullah, saya pun tidak mengundi dialah. Yang mengatakan sebenarnya lebih kelakarlah sebab dia berkata kaji selidik ini hanya melibatkan beberapa ratus orang, sedangkan yang akan menentukan undi saya nanti ialah ratusan ribu pengundi dalam PRU nanti.
 
 **Rafizi:** Mereka ni tidak ada kumpulan WhatsApp ke?
 
 **Haziq:** Korang ada ke?
 
-**Rafizi:** Ini kan Timbalan Presiden dengan Naib Presiden. Entahlah. Saya memang tidak ada, semua orang tahu saya tidak ada kumpulan WhatsApp, jadi orang fahamlah kalau tertinggal sesuatu maklumat atau apa kan. Mereka ini hari itu semasa pembentangan itu, ia adalah pembentangan rasmi parti kepada semua pimpinan parti daripada seluruh negara. Sudah tentulah Ramanan sedia maklum. Dan yang lebih sensitif ialah cadangan awal jeneral perang, Nurul Izzah. Dia nak mengemudi pilihan raya. Belum apa-apa lagi dibentangkan sudah kena kerat oleh Ramanan kan. Jadi tidak ada kumpulan WhatsApp ke? Paling kurang Izzah bagilah isyarat kepada Ramanan, jangan kerat kan. Cuma baguslah Ramanan menjawab sebegitu, sebab nampak sangat dia ini tidak faham sains, kan. Kepada orang ramailah, ahli politik suka membuat kenyataan-kenyataan yang menunjukkan besar kemungkinan semasa dia mengambil subjek Matematik atau Matematik Tambahan ketika SPM, dia gagal statistik. Sebab nama pun statistik kan. Kajian selidik ini memanglah berasaskan sampel. Cuma cara terbaik untuk memahami persampelan itu, sama ada 200 ke, 200,000 ke, sebab orang seperti Ramanan, ahli politik lain, semua suka berkata begitu. "Ah itu hanya melibatkan 50 orang, tidak melambangkan" kan. Ini adalah sains, Matematik kan. Cara paling mudah untuk orang ramai faham ialah katakanlah kita ada satu balang air. Satu balang air. Bukan air yang di pasar Ramadan yang banyak ais itu, awak tahulah, satu balang yang baik, sederhana kan. Air penuh, kita buat sirap kan. Kalau sirap itu dibancuh dengan baik, maksudnya betul-betul dibancuh dengan baik, sekata semuanya kan, sebenarnya kita ambil di tepi balang ke, kita ambil di kanan balang ke, atas balang ke, bawah balang ke, sebab ia dibancuh dengan baik, rasanya sama.
-
-**Haziq:** Ya betul, betul.
-
-**Rafizi:** Kecuali kalau di dalam balang itu air tidak dikacau elok, kemudian tidak dibancuh elok semua, mungkinlah yang di atas itu tidak begitu manis, yang di bawah itu manis kan. Sebab itu soal kaji selidik, ia mempunyai Matematik ataupun sains yang cukup jelas. Kita perlu jumlah persampelan itu untuk menentukan boleh diterima atau tidak, ia mempunyai beberapa perkara. Satu, contohnya tahap keyakinan, kan. Hanya persampelan yang menepati ambang boleh mempunyai tahap keyakinan 95% ke ataupun lebih rendah ke apa kan. Satu lagi yang paling penting ialah margin ralat. Margin ralat itu ialah jumlah kaji selidik itu, jumlah persampelan yang dibuat daripada populasi itu dibandingkan dengan jumlah keseluruhan saiz populasi kan. Sebab itu ada margin ralat 5%, 2%, 3%. Margin ralat ini maksudnya begini kan. Kalau contohnya angka menunjukkan sokongan kepada Ramanan ialah 25% dengan margin ralat 2%, maksudnya ia boleh menjadi 27%, boleh menjadi 23%. Jadi ia berada dalam julat itu kan. Jadi sebab itu, yang ini saya tidak tahulah latar belakang kajian selidik yang Izzah buat ni. Kita dah sebut dulu pun, kita pun tidak tahu ini betul-betul kaji selidik ke, ataupun ini dikira mengikut tambah tolak macam mengikut keputusan pilihan raya yang lepas, kita tidak tahu kan. Kemudian kita tidak tahu sama ada ini hanya data kuantitatif ataupun kualitatif. Kita pun tidak tahu sama ada persampelan itu dibuat bagaimana. Kerana kalau pengundi di Sungai Buloh itu ada katakanlah 180,000, mereka semua ini tidak sama. Mereka berbeza mengikut umur, mengikut kaum, mengikut pendapatan isi rumah, mengikut pendapatan. Jadi strata mereka banyak kan. Jadi kita andaikanlah, sebab Izzah bijak, kan, dan Izzah sudah tentulah kajian selidik yang hendak dibentangkan dan juga menjadi strategi parti untuk memasuki pilihan raya ini sudah tentu menepati semua kriteria ini. Jadi kalau ia telah menepati, andaikan 200 orang daripada 180,000 dengan andaian ia representatif kan, jadi sepatutnya Ramanan mengambil muhasabahlah. Kan, jadi jika apa-apa punlah macam yang kita katakanlah, beria Izzah membuat, beria Ramanan pergi cantas. Jadi tidak damailah nampaknya mereka sekarang ini kan. Jadi apa akhirnya ini memporak-perandakan imej PKR di mata rakyatlah. Kerana Timbalan Presiden ini tidak ada kumpulan WhatsApp dengan Naib Presiden. Naib Presiden memperlekehkan kerja Timbalan Presiden secara terbuka begitu kan.
+**Rafizi:** Ini kan Timbalan Presiden dengan Naib Presiden. Entahlah. Saya memang tidak ada, semua orang tahu saya tidak ada kumpulan WhatsApp, jadi orang fahamlah kalau tertinggal sesuatu maklumat atau apa kan. Mereka ini hari itu semasa pembentangan itu, ia adalah pembentangan rasmi parti kepada semua pimpinan parti daripada seluruh negara. Sudah tentulah Ramanan sedia maklum. Dan yang lebih sensitif ialah cadangan awal jeneral perang, Nurul Izzah. Dia nak mengemudi pilihan raya. Belum apa-apa lagi dibentangkan sudah kena kerat oleh Ramanan kan. Jadi tidak ada kumpulan WhatsApp ke? Paling kurang Izzah bagilah isyarat kepada Ramanan, jangan kerat kan. Cuma baguslah Ramanan menjawab sebegitu, sebab nampak sangat dia ini tidak faham sains, kan. Kepada orang ramailah, ahli politik suka membuat kenyataan-kenyataan yang menunjukkan besar kemungkinan semasa dia mengambil subjek Matematik atau Matematik Tambahan ketika SPM, dia gagal statistik. Sebab nama pun statistik kan. Kajian selidik ini memanglah berasaskan sampel. Cuma cara terbaik untuk memahami persampelan itu, sama ada 200 ke, 200,000 ke, sebab orang seperti Ramanan, ahli politik lain, semua suka berkata begitu. "Ah itu hanya melibatkan 50 orang, tidak melambangkan" kan. Ini adalah sains, Matematik kan. Cara paling mudah untuk orang ramai faham ialah katakanlah kita ada satu balang air. Satu balang air. Bukan air yang di pasar Ramadan yang banyak ais itu, awak tahulah, satu balang yang baik, sederhana kan. Air penuh, kita buat sirap kan. Kalau sirap itu dibancuh dengan baik, maksudnya betul-betul dibancuh dengan baik, sekata semuanya kan, sebenarnya kita ambil di tepi balang ke, kita ambil di kanan balang ke, atas balang ke, bawah balang ke, sebab ia dibancuh dengan baik, rasanya sama. Kecuali kalau di dalam balang itu air tidak dikacau elok, kemudian tidak dibancuh elok semua, mungkinlah yang di atas itu tidak begitu manis, yang di bawah itu manis kan. Sebab itu soal kaji selidik, ia mempunyai Matematik ataupun sains yang cukup jelas. Kita perlu jumlah persampelan itu untuk menentukan boleh diterima atau tidak, ia mempunyai beberapa perkara. Satu, contohnya tahap keyakinan, kan. Hanya persampelan yang menepati ambang boleh mempunyai tahap keyakinan 95% ke ataupun lebih rendah ke apa kan. Satu lagi yang paling penting ialah margin ralat. Margin ralat itu ialah jumlah kaji selidik itu, jumlah persampelan yang dibuat daripada populasi itu dibandingkan dengan jumlah keseluruhan saiz populasi kan. Sebab itu ada margin ralat 5%, 2%, 3%. Margin ralat ini maksudnya begini kan. Kalau contohnya angka menunjukkan sokongan kepada Ramanan ialah 25% dengan margin ralat 2%, maksudnya ia boleh menjadi 27%, boleh menjadi 23%. Jadi ia berada dalam julat itu kan. Jadi sebab itu, yang ini saya tidak tahulah latar belakang kajian selidik yang Izzah buat ni. Kita dah sebut dulu pun, kita pun tidak tahu ini betul-betul kaji selidik ke, ataupun ini dikira mengikut tambah tolak macam mengikut keputusan pilihan raya yang lepas, kita tidak tahu kan. Kemudian kita tidak tahu sama ada ini hanya data kuantitatif ataupun kualitatif. Kita pun tidak tahu sama ada persampelan itu dibuat bagaimana. Kerana kalau pengundi di Sungai Buloh itu ada katakanlah 180,000, mereka semua ini tidak sama. Mereka berbeza mengikut umur, mengikut kaum, mengikut pendapatan isi rumah, mengikut pendapatan. Jadi strata mereka banyak kan. Jadi kita andaikanlah, sebab Izzah bijak, kan, dan Izzah sudah tentulah kajian selidik yang hendak dibentangkan dan juga menjadi strategi parti untuk memasuki pilihan raya ini sudah tentu menepati semua kriteria ini. Jadi kalau ia telah menepati, andaikan 200 orang daripada 180,000 dengan andaian ia representatif kan, jadi sepatutnya Ramanan mengambil muhasabahlah. Kan, jadi jika apa-apa punlah macam yang kita katakanlah, beria Izzah membuat, beria Ramanan pergi cantas. Jadi tidak damailah nampaknya mereka sekarang ini kan. Jadi apa akhirnya ini memporak-perandakan imej PKR di mata rakyatlah. Kerana Timbalan Presiden ini tidak ada kumpulan WhatsApp dengan Naib Presiden. Naib Presiden memperlekehkan kerja Timbalan Presiden secara terbuka begitu kan.
 
 **Haziq:** YB, dalam mesyuarat-mesyuarat parti sebelum ini, berapa seriuskah pimpinan-pimpinan daripada PKR atau Keadilan ini berhubung dengan kaji selidik atau data? Ataupun bergantung kepada YB sahaja setiap kali pilihan raya?
 
-**Rafizi:** Mereka sebenarnya tidak berminat.
-
-**Haziq:** Okey.
-
-**Rafizi:** Sebab itu orang kata saya ini Mat Nerd. Sebab itu akhirnya orang kata ingat dia seorang sahaja yang betul. Aku malaslah nak cakap, kau yang malas nak belajar tu kenapa, kan. Dia tidak berminat. Memang betul, kalau membentangkan seperti aku bercakap dengan dinding.
+**Rafizi:** Mereka sebenarnya tidak berminat. Sebab itu orang kata saya ini Mat Nerd. Sebab itu akhirnya orang kata ingat dia seorang sahaja yang betul. Aku malaslah nak cakap, kau yang malas nak belajar tu kenapa, kan. Dia tidak berminat. Memang betul, kalau membentangkan seperti aku bercakap dengan dinding.
 
 **Haziq:** Macam mana dia membuat unjuran untuk pilihan raya semua? Macam masuk membuta tuli?
 
@@ -132,7 +112,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Apa itu?
 
-**Farhan (Pa'an):** Apabila laporan ini didedahkan, yang dipersalahkan adalah geng...
+**Farhan (Pa'an):** Apabila laporan ini didedahkan, yang dipersalahkan adalah geng.
 
 **Haziq:** Ah ya! Disalahkan kepada YB. Mereka YB tidak ambil bahagian.
 
@@ -146,9 +126,9 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Penganalisis politik ini siapa pula?
 
-**Haziq:** Ini saya baca eh, pensyarah kanan Program Sains Politik, Fakulti Sains Sosial dan Kemanusiaan UKM, Dr. Jamaie Hamil berkata, "Dakwaan mengaitkan Farhash dengan kegiatan pengubahan wang haram melibatkan bilion ringgit ke luar negara dilihat lebih bersifat serangan persepsi dan propaganda politik." Kalau saya boleh sambung, "Rakyat perlu matang kerana tugas ahli politik sememangnya mencari kelemahan lawan mereka. Perdana Menteri Anwar Ibrahim merupakan antara pemimpin terbaik yang Malaysia ada ketika ini, malah di peringkat Asia," katanya dalam satu kenyataan pada Isnin. Eh, apa kaitannya pula?
+**Haziq:** Ini saya baca pensyarah kanan Program Sains Politik, Fakulti Sains Sosial dan Kemanusiaan UKM, Dr. Jamaie Hamil berkata, "Dakwaan mengaitkan Farhash dengan kegiatan pengubahan wang haram melibatkan bilion ringgit ke luar negara dilihat lebih bersifat serangan persepsi dan propaganda politik." Kalau saya boleh sambung, "Rakyat perlu matang kerana tugas ahli politik sememangnya mencari kelemahan lawan mereka. Perdana Menteri Anwar Ibrahim merupakan antara pemimpin terbaik yang Malaysia ada ketika ini, malah di peringkat Asia," katanya dalam satu kenyataan pada Isnin. Apa kaitannya pula?
 
-**Rafizi:** Bayangkan begini kan. Bayangkan sekarang ini Anwar Ibrahim dan juga PKR adalah pembangkang. Dan Farhash itu wataknya daripada BN adalah Jho Low. Katakanlah kan, sebab yalah, kaya tiba-tiba, hebat, semua kan. Ada tuduhan-tuduhan tertentu. Katakanlah yang dipersoalkan oleh rakyat itu adalah Jho Low, dan parti pemerintah itu adalah BN. Tiba-tiba pensyarah kanan ini mengeluarkan kenyataan begitu. "Jangan terpengaruh propaganda politik pihak tertentu sengaja serang Jho Low", contohnya penganalisis eh. Agak-agaknyalah, apa ceramah Anwar Ibrahim?
+**Rafizi:** Bayangkan begini kan. Bayangkan sekarang ini Anwar Ibrahim dan juga PKR adalah pembangkang. Dan Farhash itu wataknya daripada BN adalah Jho Low. Katakanlah kan, sebab yalah, kaya tiba-tiba, hebat, semua kan. Ada tuduhan-tuduhan tertentu. Katakanlah yang dipersoalkan oleh rakyat itu adalah Jho Low, dan parti pemerintah itu adalah BN. Tiba-tiba pensyarah kanan ini mengeluarkan kenyataan begitu. "Jangan terpengaruh propaganda politik pihak tertentu sengaja serang Jho Low", contohnya penganalisis Agak-agaknyalah, apa ceramah Anwar Ibrahim?
 
 **Haziq:** Ceramah yang saya dengar semasa di sekolah dulu, Profesor Kangkung.
 
@@ -156,15 +136,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Yalah, kalau tiba-tiba keluar kenyataan begitu, maksud saya merit itu ketepikanlah, tapi hakikat bahawa dia mengesahkan satu fakta itu tidak boleh terpengaruh.
 
-**Rafizi:** Terus Abang Janggut marah, "Propaganda tut tut tut." Itu komen-komen daripada mana itu?
-
-**Haziq:** Ini Facebook.
-
-**Rafizi:** Facebook berita Berita Awani ini. Awanilah. Awani ini pun satu. Ini Awani ya perlu disebutlah kan. Sebenarnya kalau kita plotkanlah saluran-saluran media yang paling banyak menyiarkan berita-berita yang menyokong Farhash daripada orang-orang yang kita tidak kenali adalah Awani. Jadi Awani lama-lama orang "Eh eh."
-
-**Haziq:** Kenapa ini.
-
-**Rafizi:** Kenapa ini kan. Sudah dia bukan jadi Awani lagi, dia jadi Awat Ni. Jadi kalau ada editor Awani tengok, faham-fahamlah kan. Janganlah terlalu jelas. Okey, baik.
+**Rafizi:** Terus Abang Janggut marah, "Propaganda tut tut tut." Itu komen-komen daripada mana itu? Facebook berita Berita Awani ini. Awanilah. Awani ini pun satu. Ini Awani ya perlu disebutlah kan. Sebenarnya kalau kita plotkanlah saluran-saluran media yang paling banyak menyiarkan berita-berita yang menyokong Farhash daripada orang-orang yang kita tidak kenali adalah Awani. Jadi Awani lama-lama orang "" Kenapa ini kan. Sudah dia bukan jadi Awani lagi, dia jadi Awat Ni. Jadi kalau ada editor Awani tengok, faham-fahamlah kan. Janganlah terlalu jelas. Okey, baik.
 
 **Haziq:** Beria. Kita tinggalkan usahawan muda kita. Kita beralih ke segmen Pantai Timur.
 
@@ -174,17 +146,9 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Dan PAS pun telah memaafkan dia. Tuan Ibrahim membuat kenyataan kan, PAS telah menerima dan memaafkan dia. Saling maaf-memaafkan. Aku ingat hanya musim raya sahaja. Oh ini nak masuk raya haji.
 
-**Haziq:** Ya, raya haji meriah di Pantai Timur lagi eh?
+**Haziq:** Ya, raya haji meriah di Pantai Timur lagi?
 
-**Rafizi:** Tidak semeriah dulu, tapi masih lagi. Mungkin saya sudah tualah kut, tapi rasanya tidak begitu meriah. Raya haji ataupun raya puasa, semua orang sibuk berInstagram sahaja. Tapi kalau nak tengok meriah atau tidak, tengok semasa raya haji ini adakah banyak orang memuat naik gambar raya, gambar keluarga, tidak banyak kan. Baik, kembali kepada yang ini. Saya tengok semua, daripada A hingga Z ceramahnya, bukan tengok separuh-separuhlah, cuba untuk memahami kan. Bagi orang ramai yang mungkin belum mengikuti kontroversi ini, ini Ahli Parlimen Pasir Puteh, Ustaz Nik Zawawi. Ceramahnya di Kuala Terengganu rasanya kan. Ceramahnya bersemangatlah. Tapi kandungannya mengejutkanlah. Contohnya dia nak memberi konteks sebenarnya, dia nak menunjukkan bahawa Islam ini cukup sempurna. Siapa yang memeluk Islam ini memang berjaya, yalah, dia menjadi orang baik-baiklah. Jadi dia berikan dua contoh. Satu, Saidina Abu Bakar radiallahuanhu, kan. Tapi dia menyebut Saidina Abu Bakar ini dulu bapa ceti. Macam-macam, tidak payah disebut di sinilah, panjang. Itu kali pertama seumur hidup saya, saya dengar daripada mana-mana mulut yang mengatakan Saidina Abu Bakar bapa ceti. Kemudian Saidina Umar al-Khattab. Ceramahnya ialah Saidina Umar ini yalah, kira ayat yang dia pakai itu ada perkataan syaitan tahu ceramahnya itu. Dan kalau Saidina Abu Bakar bapa ceti, Saidina Umar pula bapa zina kan. Dia nak sesiapa sahaja perempuan diambilnya saja. Dia nak memberitahu bagaimana dua orang ini yang kononnya dulu jahat, jahiliah pada zaman jahiliah, apabila memeluk Islam, awak tahulah, dengan hidayah semua, menjadilah sebaik-baik manusia yang ada, itulah yang dijanjikan syurga semua kan. Yalah, saya tidak nak mengulas panjang tentang agama, nanti dikatakan aku bukan tahu, dia ustaz begini begini begini kan. Tapi walaupun kita tidak berceramah, bersyarah agama, kita pun tahu daripada pengetahuan sedikit sebanyak bahawa perkara itu memang tidak tepat dan berbahayalah kan. Dan kalau ikut pemahaman biasa pun, contohnya seperti Saidina Abu Bakar As-Siddiq, orang memanggilnya gelaran itu, sebab dia benar-benar jujur. Maksudnya kalau di Makkah dulu itu kalau ada bani-bani yang berlainan yang hendak berdamai atau apa, kalau ada pampasan ataupun hutang, saya cuba fahamlah apa konteks yang Ustaz Nik Zawawi mahu sampaikan itu kan. Kalau mengikut kitab-kitab tertentu, contohnya kalau ada pertelingkahan di antara bani-bani, kira bani ini maksudnya kaumlah kan, kalau di Makkah kan, Saidina Umar ini, Saidina Abu Bakar ini menjadi orang, kalau dalam bahasa undang-undang kita menjadi hakim timbang tarahlah, sebab mereka baik, mereka jujur kan. Jadi kalau contohnya nak mendapatkan pengesahan bahawa ini akan dibayar, semua orang pergi berjumpa dengan merekalah. Bukannya bapa ceti tahu. Yang itu orang jahil seperti aku pun tahu kan. Jadi saya rasa setakat ini bila dia pun sudah minta maaf, bila PAS pun memaafkannya, sebabnya ialah kerana kecaman daripada rakyat itu memang mendadaklah kan, memang sudah tidak boleh nak dipertahankan kan. Jadi kenapa rakyat mengecam itu kerana majoriti rakyat memang tidak bersetujulah dengan apa yang dia kata itu kan. Cuma yang beria ini, bagi saya bukan sangat soal minta maaf, memaafkan semua, itu perangai PASlah. Nak harap dia minta maaf selepas apa yang dia cakap, dia tidak akan minta maaf punya. Dialah yang boleh memaafkan semua oranglah kan. Tengoklah ucapannya itu, dia memaafkan semua orang kan. Yang berianya begini, dia beria berceramah dan untuk naik ke tahap syeikh ceramah ini kan, hingga ke tahap itu. Jadi kepada generasi muda-muda yang mungkin terkejut, sampai begitu ceramah politiknya kan, sebenarnya kerana yang muda-muda ini, Gen Z semua ini, tidak hidup pada zaman 80-an, 90-an. Orang seperti saya hidup pada zaman itu. Sebab itu yang tua-tua, tualah saya sekarang kan, yang tua-tua kami masih ingat ceramah-ceramah yang kami pernah hadiri semasa kami budak-budak, muda-muda dulu. Ceramahnya memang kafirlah. Sebab apa ini, sistem yang kita ada sekarang ini memakai perlembagaan kafir, selagi kita tidak menukar perlembagaan kafir sekular. Jadi orang yang biasa mungkin terkejut sekarang, saya tidak terkejutlah kerana memang itu sebabnya bila kempen politik itu menunggang agama 100% lah kan, jadi dia tidak boleh berbicara tentang perkara lain, tentang isu rakyat. Orang bercerita tentang Azam Baki, mafia korporat, dia tidak bercerita kan. Dia bercerita tentang ini, lama-lama cerita itu terkena panas, digoreng-goreng-goreng. Salah goreng, jadi begini kan. Beria menggoreng.
-
-**Haziq:** Salah goreng.
-
-**Rafizi:** Ini salah goreng, hangus terus kan.
-
-**Haziq:** Beria?
-
-**Rafizi:** Beria.
+**Rafizi:** Tidak semeriah dulu, tapi masih lagi. Mungkin saya sudah tualah kut, tapi rasanya tidak begitu meriah. Raya haji ataupun raya puasa, semua orang sibuk berInstagram sahaja. Tapi kalau nak tengok meriah atau tidak, tengok semasa raya haji ini adakah banyak orang memuat naik gambar raya, gambar keluarga, tidak banyak kan. Baik, kembali kepada yang ini. Saya tengok semua, daripada A hingga Z ceramahnya, bukan tengok separuh-separuhlah, cuba untuk memahami kan. Bagi orang ramai yang mungkin belum mengikuti kontroversi ini, ini Ahli Parlimen Pasir Puteh, Ustaz Nik Zawawi. Ceramahnya di Kuala Terengganu rasanya kan. Ceramahnya bersemangatlah. Tapi kandungannya mengejutkanlah. Contohnya dia nak memberi konteks sebenarnya, dia nak menunjukkan bahawa Islam ini cukup sempurna. Siapa yang memeluk Islam ini memang berjaya, yalah, dia menjadi orang baik-baiklah. Jadi dia berikan dua contoh. Satu, Saidina Abu Bakar radiallahuanhu, kan. Tapi dia menyebut Saidina Abu Bakar ini dulu bapa ceti. Macam-macam, tidak payah disebut di sinilah, panjang. Itu kali pertama seumur hidup saya, saya dengar daripada mana-mana mulut yang mengatakan Saidina Abu Bakar bapa ceti. Kemudian Saidina Umar al-Khattab. Ceramahnya ialah Saidina Umar ini yalah, kira ayat yang dia pakai itu ada perkataan syaitan tahu ceramahnya itu. Dan kalau Saidina Abu Bakar bapa ceti, Saidina Umar pula bapa zina kan. Dia nak sesiapa sahaja perempuan diambilnya saja. Dia nak memberitahu bagaimana dua orang ini yang kononnya dulu jahat, jahiliah pada zaman jahiliah, apabila memeluk Islam, awak tahulah, dengan hidayah semua, menjadilah sebaik-baik manusia yang ada, itulah yang dijanjikan syurga semua kan. Yalah, saya tidak nak mengulas panjang tentang agama, nanti dikatakan aku bukan tahu, dia ustaz begini begini begini kan. Tapi walaupun kita tidak berceramah, bersyarah agama, kita pun tahu daripada pengetahuan sedikit sebanyak bahawa perkara itu memang tidak tepat dan berbahayalah kan. Dan kalau ikut pemahaman biasa pun, contohnya seperti Saidina Abu Bakar As-Siddiq, orang memanggilnya gelaran itu, sebab dia benar-benar jujur. Maksudnya kalau di Makkah dulu itu kalau ada bani-bani yang berlainan yang hendak berdamai atau apa, kalau ada pampasan ataupun hutang, saya cuba fahamlah apa konteks yang Ustaz Nik Zawawi mahu sampaikan itu kan. Kalau mengikut kitab-kitab tertentu, contohnya kalau ada pertelingkahan di antara bani-bani, kira bani ini maksudnya kaumlah kan, kalau di Makkah kan, Saidina Umar ini, Saidina Abu Bakar ini menjadi orang, kalau dalam bahasa undang-undang kita menjadi hakim timbang tarahlah, sebab mereka baik, mereka jujur kan. Jadi kalau contohnya nak mendapatkan pengesahan bahawa ini akan dibayar, semua orang pergi berjumpa dengan merekalah. Bukannya bapa ceti tahu. Yang itu orang jahil seperti aku pun tahu kan. Jadi saya rasa setakat ini bila dia pun sudah minta maaf, bila PAS pun memaafkannya, sebabnya ialah kerana kecaman daripada rakyat itu memang mendadaklah kan, memang sudah tidak boleh nak dipertahankan kan. Jadi kenapa rakyat mengecam itu kerana majoriti rakyat memang tidak bersetujulah dengan apa yang dia kata itu kan. Cuma yang beria ini, bagi saya bukan sangat soal minta maaf, memaafkan semua, itu perangai PASlah. Nak harap dia minta maaf selepas apa yang dia cakap, dia tidak akan minta maaf punya. Dialah yang boleh memaafkan semua oranglah kan. Tengoklah ucapannya itu, dia memaafkan semua orang kan. Yang berianya begini, dia beria berceramah dan untuk naik ke tahap syeikh ceramah ini kan, hingga ke tahap itu. Jadi kepada generasi muda-muda yang mungkin terkejut, sampai begitu ceramah politiknya kan, sebenarnya kerana yang muda-muda ini, Gen Z semua ini, tidak hidup pada zaman 80-an, 90-an. Orang seperti saya hidup pada zaman itu. Sebab itu yang tua-tua, tualah saya sekarang kan, yang tua-tua kami masih ingat ceramah-ceramah yang kami pernah hadiri semasa kami budak-budak, muda-muda dulu. Ceramahnya memang kafirlah. Sebab apa ini, sistem yang kita ada sekarang ini memakai perlembagaan kafir, selagi kita tidak menukar perlembagaan kafir sekular. Jadi orang yang biasa mungkin terkejut sekarang, saya tidak terkejutlah kerana memang itu sebabnya bila kempen politik itu menunggang agama 100% lah kan, jadi dia tidak boleh berbicara tentang perkara lain, tentang isu rakyat. Orang bercerita tentang Azam Baki, mafia korporat, dia tidak bercerita kan. Dia bercerita tentang ini, lama-lama cerita itu terkena panas, digoreng-goreng-goreng. Salah goreng, jadi begini kan. Beria menggoreng. Ini salah goreng, hangus terus kan. Beria.
 
 **Haziq:** Okey, baik baik baik. Jadi kita berpindah. Naib Presiden kita tadi berehat, sekarang kembali semula, digandingkan dengan Setiausaha Agung PKR.
 
@@ -194,13 +158,13 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Itu Fuziah pegang apa? Gergaji ke apa itu?
 
-**Haziq:** Gergaji dan...
+**Haziq:** Gergaji dan.
 
 **Rafizi:** Mana kau ambil gambar dia, bila pula dia memegang gergaji?
 
 **Haziq:** Ini gambar semasa kempen-kempen lama membantah Lynas rasanya.
 
-**Rafizi:** Oh ya ya ke? Ada? Itu memang gambar betul eh?
+**Rafizi:** Oh ya ya ke? Ada? Itu memang gambar betul?
 
 **Haziq:** Ya, gambar betul.
 
@@ -224,13 +188,13 @@ Jadi sekarang ini dah terbalik, dah jadi macam ala-ala MIC lah kut. Berebut keru
 
 **Haziq:** Yakinnya kamu.
 
-**Rafizi:** Ha, mungkin juga kan. Dia mungkin kembali sebagai Penasihat Integriti Perdana Menteri. Rasa macam betul-betul. Itu ada ura-ura kan, ura-ura dia akan menjadi penasihat. Dia nak menasihat...
+**Rafizi:** Ha, mungkin juga kan. Dia mungkin kembali sebagai Penasihat Integriti Perdana Menteri. Rasa macam betul-betul. Itu ada ura-ura kan, ura-ura dia akan menjadi penasihat. Dia nak menasihat.
 
 **Haziq:** Hari tu dia kata dia nak masuk politik pula.
 
-**Rafizi:** Eh tak, dia kata dia tak nak masuk politik.
+**Rafizi:** Tak, dia kata dia tak nak masuk politik.
 
-**Farhan (Pa'an):** Eh, bukan ada...
+**Farhan (Pa'an):** Bukan ada.
 
 **Rafizi:** Tak, tersalah tu. Dia kata dia tak nak masuk politik. Mungkin dia nak jadi artis kut, dia pandai menyanyi.
 
@@ -248,41 +212,21 @@ Jadi sekarang ini dah terbalik, dah jadi macam ala-ala MIC lah kut. Berebut keru
 
 **Rafizi:** Ya Allahuakbar. Jasa bakti Yang Berbahagia Tan Sri. Dia bila buat macam ini, nanti orang tuntut hutang daripada Jawatankuasa Kawan-Kawan lah. KSN ni ialah pengerusi Jawatankuasa Kawan-Kawan. Janganlah posting yang ini, postinglah laporan itu dulu kan. Malu sahaja Perdana Menteri, Anwar Ibrahim, sebab masa mula-mula buat Jawatankuasa Kawan-Kawan ni kan, PM janji dua tiga hari kan? Dua tiga hari aje. Berapa bulan dah? Dah tiga bulan dah kut? Dah tiga bulan. Gayanya memang takkan kita nampak laporan itu. Saya tak faham buta rasanya yang ada dekat Putrajaya ni. Takkan dia tak faham? Takkan dia tak rasa? Kan, ha.
 
-**Farhan (Pa'an):** Kalau ya pun WhatsApp sajalah, tak payah...
+**Farhan (Pa'an):** Kalau ya pun WhatsApp sajalah, tak payah.
 
-**Rafizi:** Kalau ya pun pergilah karaoke bersama-sama sekejap kan, enjoy-enjoy sikit kan. Boleh dengar menghargai suara Tan Sri Azam Baki, cukuplah tu. Ini pergi apa nama ni, sentiasa akan dikenang. Terkejut aku, memang beria betullah.
+**Rafizi:** Kalau ya pun pergilah karaoke bersama-sama sekejap kan, enjoy-enjoy sikit kan. Boleh dengar menghargai suara Tan Sri Azam Baki, cukuplah tu. Ini pergi apa nama ni, sentiasa akan dikenang. Terkejut aku, memang beria betullah. Terkedu, jadi terkedu. Lepas tu ada pula kat bawah tu, "Reformasi satu kemestian." Wah pula dah! Aku yang separuh mati daripada Reformasi 98, dia masa dekat Selangor — KSN ni awal-awal masuk tu memang totok UMNO lagi pun. Ya betul. Pernah jumpa, aku kan dulu CEO Pejabat Penasihat Ekonomi Selangor. Masa tu rasanya dia masih lagi di Selangor.
 
-**Haziq:** Terkedu.
+**Haziq:** Nasib apa yang dia tak kata dekat.
 
-**Rafizi:** Terkedu, jadi terkedu. Lepas tu ada pula kat bawah tu, "Reformasi satu kemestian." Wah pula dah! Aku yang separuh mati daripada Reformasi 98, dia masa dekat Selangor — KSN ni awal-awal masuk tu memang totok UMNO lagi pun. Ya betul. Pernah jumpa, aku kan dulu CEO Pejabat Penasihat Ekonomi Selangor. Masa tu rasanya dia masih lagi di Selangor.
-
-**Haziq:** Nasib apa yang dia tak kata dekat...
-
-**Rafizi:** Banyaklah yang dia kata, tapi kita simpan di sinilah. Sebab tu kan, kemudian lepas Selangor tu baru dia tukarkan ke Putrajaya, ke Persekutuan. Jadi lawaklah bila dia beria-ria "Reformasi satu kemestian," sedangkan masa awal-awal dulu Pakatan PKR mengambil alih Selangor, reformasi ni memang aku tak rasa dia suka kat reformasi masa tu kan. Sekarang itulah, manusia berubah-ubah bila makin dekat dengan puncak kuasa. Kita pun tak jerit "Reformasi satu kemestian."
-
-**Haziq:** Okey baik, beria.
-
-**Rafizi:** Sangat beria. Ada lima, YB.
+**Rafizi:** Banyaklah yang dia kata, tapi kita simpan di sinilah. Sebab tu kan, kemudian lepas Selangor tu baru dia tukarkan ke Putrajaya, ke Persekutuan. Jadi lawaklah bila dia beria-ria "Reformasi satu kemestian," sedangkan masa awal-awal dulu Pakatan PKR mengambil alih Selangor, reformasi ni memang aku tak rasa dia suka kat reformasi masa tu kan. Sekarang itulah, manusia berubah-ubah bila makin dekat dengan puncak kuasa. Kita pun tak jerit "Reformasi satu kemestian." Sangat beria. Ada lima, YB.
 
 **Haziq:** Kena pilih satu.
 
-**Rafizi:** Oh, susahlah. Susahlah. Bolehlah bagi banyak-banyak kut? Kita boleh bagi seri tak? Maksudnya sama rata.
-
-**Haziq:** Ha boleh, boleh.
-
-**Rafizi:** Ha, kita bagi seri.
-
-**Haziq:** Dekat?
-
-**Rafizi:** Dekat di antara yang ini satu, yang ini satu. Satu lagi ceramah yang pasal ustaz — Ustaz Nik Zawawi ini, ini luar biasa. Luar biasa beria dia berceramah. Aku pun penceramah juga, tapi aku tengok penuh ceramah dia tu aku macam, "Astagfirullahalazim" kan. Jadi terpaksa bagi.
+**Rafizi:** Oh, susahlah. Susahlah. Bolehlah bagi banyak-banyak kut? Kita boleh bagi seri tak? Maksudnya sama rata. Ha, kita bagi seri. Dekat di antara yang ini satu, yang ini satu. Satu lagi ceramah yang pasal ustaz — Ustaz Nik Zawawi ini, ini luar biasa. Luar biasa beria dia berceramah. Aku pun penceramah juga, tapi aku tengok penuh ceramah dia tu aku macam, "Astagfirullahalazim" kan. Jadi terpaksa bagi.
 
 **Haziq:** Tapi yalah, dia orang mungkin berceramah banyak-banyak sampai satu tahap dah hilang idea.
 
-**Rafizi:** Yalah, tapi hilang idea, buatlah lawak pasal Anwar Ibrahim ke, pasal Rafizi ke. Janganlah sentuh Saidina Abu Bakar, Saidina Umar. Kalau ya, dia sebenarnya nasi tambah perencah ni. Kalau cerita pasal Saidina Umar saja, Saidina Abu Bakar saja mungkin bosanlah, dia dengar macam kuliah agama. Oh, dia nak tambah nasi apa ni perencah ni, tengah goreng ni kan, sampai hangus macam ni kan.
-
-**Haziq:** Okey okey.
-
-**Rafizi:** Dia jadi pengajaran kepada kita semua yang menceramah-ceramah ni, lain kali fikir. Kalau ya pun nak tambah nasi, perencah janganlah sampai terbakar hangus macam ni. Beria, beria berceramah dan beria "reformasi satu kemestian."
+**Rafizi:** Yalah, tapi hilang idea, buatlah lawak pasal Anwar Ibrahim ke, pasal Rafizi ke. Janganlah sentuh Saidina Abu Bakar, Saidina Umar. Kalau ya, dia sebenarnya nasi tambah perencah ni. Kalau cerita pasal Saidina Umar saja, Saidina Abu Bakar saja mungkin bosanlah, dia dengar macam kuliah agama. Oh, dia nak tambah nasi apa ni perencah ni, tengah goreng ni kan, sampai hangus macam ni kan. Dia jadi pengajaran kepada kita semua yang menceramah-ceramah ni, lain kali fikir. Kalau ya pun nak tambah nasi, perencah janganlah sampai terbakar hangus macam ni. Beria, beria berceramah dan beria "reformasi satu kemestian."
 
 **Haziq:** Tahniah kepada Ustaz Zawawi dan KSN. Untuk KSN nanti kita akan buat poster.
 
@@ -320,11 +264,7 @@ Dan orang kata pilihan-pilihan pahit yang perlu dibuat ini sudah tentu termasukl
 
 **Rafizi:** Mana ada, daripada hari pertamalah, Paan.
 
-**Farhan (Pa'an):** Hari pertama?
-
-**Rafizi:** Ha.
-
-**Farhan (Pa'an):** Tak, tapi kali pertama awak sebut pasal pengkelasan T15 tu patut kena definisi semula.
+**Farhan (Pa'an):** Hari pertama? Tak, tapi kali pertama awak sebut pasal pengkelasan T15 tu patut kena definisi semula.
 
 **Rafizi:** Itu sebenarnya lebih awal. Bila kita awal-awal daripada masuk kerajaan dulu, kita dah nampak semua ni. Sebab itu, sebelum pun ada Ekonomi MADANI semua ni, memang Kementerian Ekonomi telah menetapkan bahawa salah satu daripada sasaran utama, matlamat reformasi ekonomi negara ialah menyasarkan semula subsidi. Dan bila kita sebut menyasarkan semula subsidi itu, perbincangan awal semua itu ialah untuk menggunakan pindahan tunai. Jadi bila untuk menggunakan pindahan tunai, maka kita nak kena tentukan kelayakan. Jadi bila kelayakan tu, memang kita tidak boleh lari daripada dua perkara.
 
@@ -336,7 +276,7 @@ Jadi diambil setiap isi rumah itu — isi rumah ni pendapatan kasar dia ialah RM
 
 **Haziq:** Sebenarnya 8 juta, 8.2 kut.
 
-**Rafizi:** 8 juta, 8 juta. Tapi bila kita tengok kepada PADU, sebenarnya saya rasa ia meningkat sehingga 12 juta. Sebab dia mengikut definisi yang lebih adil kepada rakyat — orang bujang kita kira sebagai satu isi rumah tau. Isi rumah ni ialah...
+**Rafizi:** 8 juta, 8 juta. Tapi bila kita tengok kepada PADU, sebenarnya saya rasa ia meningkat sehingga 12 juta. Sebab dia mengikut definisi yang lebih adil kepada rakyat — orang bujang kita kira sebagai satu isi rumah tau. Isi rumah ni ialah.
 
 **Haziq:** Oh, sebelum ni tak dikira?
 
@@ -372,23 +312,15 @@ Komplikasinya, kononnya susah, ialah gaya hidup orang itu berlainan masing-masin
 
 **Haziq:** Ambil dari LHDN?
 
-**Rafizi:** Mana ada! Mana ada!
-
-**Farhan (Pa'an):** Sensus gaji.
-
-**Rafizi:** Bukan sensus gaji. Okey, setiap tahun kita ada apa yang dipanggil Household Income and Expenditure Survey. Kajian selidik pendapatan dan perbelanjaan negara. Dia bukan pergi membanci satu-satu setiap keluarga. Sama seperti Ramanan tak faham tadi, dia guna asas persampelan. Dan persampelan itu rasanya melibatkan 80,000 keluarga di seluruh Malaysia. Jumlah saiz populasi buat masa ini mungkin sudah berubah, tetapi saya rasa beberapa tahun lepas ia 80,000 isi rumah di seluruh Malaysia. Dan mereka yang terpilih ataupun yang terpaksa masuk dalam kaji selidik itu, kerana undang-undang negara, kita ada Akta Statistik, tahu. Kalau kau terpilih menjadi sebahagian daripada sampel populasi itu, kau tak boleh kata tak tahu, kau kena. Ia menyalahi undang-undang untuk berkata "Saya tak nak." Kena! Jadi yang 80,000 isi rumah itu, mereka diberikan buku, satu buku yang perlu diisi setiap bulan berapa belanja dan berapa pendapatan.
+**Rafizi:** Mana ada! Mana ada! Bukan sensus gaji. Okey, setiap tahun kita ada apa yang dipanggil Household Income and Expenditure Survey. Kajian selidik pendapatan dan perbelanjaan negara. Dia bukan pergi membanci satu-satu setiap keluarga. Sama seperti Ramanan tak faham tadi, dia guna asas persampelan. Dan persampelan itu rasanya melibatkan 80,000 keluarga di seluruh Malaysia. Jumlah saiz populasi buat masa ini mungkin sudah berubah, tetapi saya rasa beberapa tahun lepas ia 80,000 isi rumah di seluruh Malaysia. Dan mereka yang terpilih ataupun yang terpaksa masuk dalam kaji selidik itu, kerana undang-undang negara, kita ada Akta Statistik, tahu. Kalau kau terpilih menjadi sebahagian daripada sampel populasi itu, kau tak boleh kata tak tahu, kau kena. Ia menyalahi undang-undang untuk berkata "Saya tak nak." Kena! Jadi yang 80,000 isi rumah itu, mereka diberikan buku, satu buku yang perlu diisi setiap bulan berapa belanja dan berapa pendapatan.
 
 Itu yang lawaknya bila Kementerian Kewangan kata susah nak buat, sedangkan semua pengiraan mengenai berapa minyak subsidi, subsidi ini, berapa orang guna minyak, daripada bahan itulah! Jadi di satu pihak kita sudah guna Household Income and Expenditure Survey ini selama-lamanya. Sumber itulah yang digunakan oleh semua jabatan. Eh, tiba-tiba bila hendak buat PADU dan juga semua ini hendak beralih kepada pendapatan boleh belanja bersih, dia kata susah nak buat. Data susah sebab orang terkini. Sebab kaedahnya sama. Kaedahnya ialah mereka yang terpilih yang mewakili strata keluarga masing-masing, maka perbelanjaan mereka akan dilaporkan dan angka itu akan dikira secara statistik untuk mengira sebenarnya satu isi rumah yang biasa. Kerana bila katakanlah satu strata, strata itu ialah keluarga muda, isteri, suami, dua orang anak duduk di bandar. Ada yang berbelanja tinggi, ada yang berbelanja rendah. Selalunya dia akan ambil median. Jadi perbelanjaan semua itu memang datanya ada melalui data mentah daripada Household Income and Expenditure Survey ini. Berdasarkan itulah kita mengira sebenarnya net disposable income sesebuah isi rumah. Pendapatan boleh belanja bersih setiap keluarga, itulah kita buat PAKW. Perbelanjaan Asas Kehidupan Wajar. Maksudnya, apa beza bila kita perkenalkan konsep kehidupan wajar ini berbanding dengan yang ada sekarang? Yang lawaknya, benda itu telah diluluskan oleh kabinet.
 
 **Farhan (Pa'an):** Sudah ada pelancaran saya rasa.
 
-**Rafizi:** Sudah ada pelancaran semua. Bukan PM yang lancarkan? Dialah yang melancarkan. Ya Allah! Dia lancarkan. Dia yang melancarkan di Penang. Perbelanjaan Asas Kehidupan Wajar sudah lulus kabinet, PM sudah lancarkan, kemudian dia tak nak buat, tak nak pakai. Apa beza antara konsep kehidupan wajar yang Kementerian Ekonomi dan DOSM perkenalkan tahun 2024, berbeza dengan konsep T20, M40, B40 yang mungkin sekarang ini Kementerian Kewangan sedang tengok? Apa beza dia?
+**Rafizi:** Sudah ada pelancaran semua. Bukan PM yang lancarkan? Dialah yang melancarkan. Ya Allah! Dia lancarkan. Dia yang melancarkan di Penang. Perbelanjaan Asas Kehidupan Wajar sudah lulus kabinet, PM sudah lancarkan, kemudian dia tak nak buat, tak nak pakai. Apa beza antara konsep kehidupan wajar yang Kementerian Ekonomi dan DOSM perkenalkan tahun 2024, berbeza dengan konsep T20, M40, B40 yang mungkin sekarang ini Kementerian Kewangan sedang tengok? Apa beza dia? Lebih "decent" kehidupan wajar. Apa "decent" itu, ayat sasteralah! Ia mesti berdasarkan sesuatu yang berasaskan sains. Jadi apa beza dia antara konsep kehidupan wajar dengan yang ada sekarang?
 
-**Haziq:** Lebih decent?
-
-**Rafizi:** Lebih "decent" kehidupan wajar. Apa "decent" itu, ayat sasteralah! Ia mesti berdasarkan sesuatu yang berasaskan sains. Jadi apa beza dia antara konsep kehidupan wajar dengan yang ada sekarang?
-
-**Haziq:** Pengiraan, okey, pertama pengiraan itu ada dua. Satu, berdasarkan geografi dan...
+**Haziq:** Pengiraan, okey, pertama pengiraan itu ada dua. Satu, berdasarkan geografi dan.
 
 **Rafizi:** Tak okeylah, okeylah.
 
@@ -396,15 +328,13 @@ Itu yang lawaknya bila Kementerian Kewangan kata susah nak buat, sedangkan semua
 
 **Rafizi:** Tak tak tak tak tak tak.
 
-**Farhan (Pa'an):** Dia ada keperluan...
+**Farhan (Pa'an):** Dia ada keperluan.
 
 **Haziq:** Ah, ada tiga itu.
 
 **Rafizi:** Sains dia.
 
-**Farhan (Pa'an):** Keperluan, penyertaan sosial, dan satu lagi...
-
-**Rafizi:** Okey.
+**Farhan (Pa'an):** Keperluan, penyertaan sosial, dan satu lagi.
 
 **Haziq:** Kehendak, keperluan, penyertaan sosial?
 
@@ -416,7 +346,7 @@ Jadi berdasarkan laporan perbelanjaan rakyat, itulah kita ada PAKW. Kalau satu i
 
 Jadi akhirnya, ini yang kita semua tunggu-tunggu bila wartawan tanya semua. Ia bukan soal T20, B40, M40, sebab kalau T15 pun dahulu PM. Bila kita semua garu kepala, tak apalah, dia pergi umum T15! Aku pula benda ini belum habis dibincangkan semua, dia sudah umumkan T15. Ia bukan soal T15, T10, T5. Ia soal definisi apa yang anda guna, konsep apa yang anda guna untuk mengkategorikan kedudukan ekonomi isi rumah seadil dan seekuitabel mungkin.
 
-**Haziq:** YB, bercakap tentang B40, M40, T20 ini, saya perasan laporan-laporan media semua memaklumkan kenyataan YB bahawa pengkelasan B40, M40, T20 ini akan dihapuskan mulai 2024. Tapi sekarang kerajaan masih lagi menggunakan perkataan-perkataan itu. Jadi apa halangan untuk menjayakan benda itu? Sebab...
+**Haziq:** YB, bercakap tentang B40, M40, T20 ini, saya perasan laporan-laporan media semua memaklumkan kenyataan YB bahawa pengkelasan B40, M40, T20 ini akan dihapuskan mulai 2024. Tapi sekarang kerajaan masih lagi menggunakan perkataan-perkataan itu. Jadi apa halangan untuk menjayakan benda itu? Sebab.
 
 **Rafizi:** Semua data itu sudah ada. Jadi orang ramai sebenarnya, bila kita perkenalkan ini, tahniah kepada DOSM, kesian DOSM susah payah buat semua ini. Kalau pergi ke laman DOSM, memang ada kalkulator PAKW. Malah URL-nya saya boleh ingat, pakw.dosm.gov.my. Jadi kalau pergi ke situ, dengan hanya mengisi beberapa maklumat asas, contohnya negeri mana, daerah mana, bandar atau luar bandar di daerah itu, kemudian isi rumah ada berapa orang, ayah umur berapa jantina apa, mak, anak semua itu, ia boleh beritahu terus sebenarnya perbelanjaan asas kehidupan wajar untuk isi rumah anda adalah contohnya RM7,000. Apa maksud RM7,000 itu?
 
@@ -424,7 +354,7 @@ Jadi akhirnya, ini yang kita semua tunggu-tunggu bila wartawan tanya semua. Ia b
 
 **Rafizi:** Jadi maksudnya, secara hipotesis, keluarga saya, saya pun pergi letak, kira, beri maklumat, perbelanjaan asas kehidupan wajar saya ialah RM7,000. Tapi saya sebenarnya pendapatan hanya RM6,000 sahaja. Kalau ikut klasifikasi M40, B40 sedia ada ini, saya sudah masuk M40, tahu. Tapi kalau ikut PAKW, kalau mengikut PADU, perbelanjaan asas kehidupan wajar untuk keluarga itu RM7,000 tapi pendapatan kasar hanya RM6,000, apa maknanya?
 
-**Haziq:** Dia nak kata miskin gila...
+**Haziq:** Dia nak kata miskin gila.
 
 **Rafizi:** Dia miskin! Dia miskin. Dia layak dapat bantuan. Sebab sebenarnya dia tak boleh pun memenuhi perbelanjaan asas kehidupan wajarnya. Kan? Jadi bila kita ada dua angka ini, kita ada pendapatan kasar, kita ada perbelanjaan asas keluarga yang unik kepada setiap keluarga mengikut lokasi, mengikut semua ini, maka anda ada satu set data populasi baharu. Bukannya menabulasi dan menentukan kelayakan orang berdasarkan pendapatan kasar, kita sebenarnya tengok net disposable income. Akan ada keluarga yang pendapatan kasarnya RM9,000 tapi setelah ditolak dengan PAKW mengikut saiz keluarga di tempat dia, mungkin negatif RM2,000. Itu layak dapat bantuan. Berbanding dengan seorang yang pendapatan kasarnya katakanlah RM5,000 tapi PAKW-nya RM2,000 atau RM2,500 atau RM3,000. Itu bila anda letak dalam populasi, sebenarnya mungkin masuk M40 atasan.
 
@@ -432,7 +362,7 @@ Jadi semua ini sudah ada dalam PADU. Cuma saya ingat kalau Haziq tanya apa seben
 
 Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menjawab T20, B40, M40 ini nak buat macam mana? Sebab kalau tak buat cara seperti perbelanjaan pendapatan bersih isi rumah yang kita sudah bangunkan melalui PADU itu, memang ramai orang marah. Kerana yang T20 dia kata, "Aku T20 apa, setiap bulan aku tolak tolak tolak aku berhutang." Sebab sebenarnya kalau ikut kaedah PADU dan PAKW, memang dia akan dapat bantuan kerana sebenarnya dia keluarga besar, atau ada faktor-faktor lain.
 
-**Farhan (Pa'an):** Jadi nampak macam satu momen yang kita boleh katakan dalam erti kata lain, "I told you so." Kedua juga dengan GE16 semakin hampir...
+**Farhan (Pa'an):** Jadi nampak macam satu momen yang kita boleh katakan dalam erti kata lain, "I told you so." Kedua juga dengan GE16 semakin hampir.
 
 **Rafizi:** Aku tak nak kata "I told you so". Lagi cakap macam itu, lagilah dia tak buat.
 
@@ -440,7 +370,7 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Rafizi:** Aku tak tahulah, aku tak tahu. Maksud aku, itu terpulang kepada mereka nak buat apa. Tapi kemungkinan besar saya rasa Datuk Seri Anwar akan buat dengan Amir Hamzah, MOF ini semua, sebab sekarang sudah jadi pertembungan ego. Kalau dia nak menggunakan PADU itu, maksudnya dia mengaku salah. Jadi apa yang akan dibuat, besar kemungkinan macam ini: elemen disposable income ini, dia akan tolak-tolak juga, bukan perbelanjaan kasar semata-mata, dia akan kata, "Oh sebenarnya kami pun ada data itu." Jadi berbanding menggunakan PADU yang sudah sedia ada itu, dia buat pangkalan data baharu dia sendiri. Sama seperti dia buat pangkalan data baharu BUDI95, jadi dia akan datang dengan definisi baharu, gaya baharu semua yang akhirnya, "Oh ini bukan PADU, ini yang kami buat semua ikut keputusan kami." Tapi membazir masa, membazir wang, dan PADU sudah ada dan 21 juta rakyat Malaysia sudah isi semua, data lengkap.
 
-**Haziq:** Atau dia mungkin suruh semua rakyat isi PADU semula, kemudian dia tolak dia...
+**Haziq:** Atau dia mungkin suruh semua rakyat isi PADU semula, kemudian dia tolak dia.
 
 **Rafizi:** Saya tak rasa dia akan pergi dekat dengan apa-apa yang ada di Kementerian Ekonomi itu.
 
@@ -450,11 +380,7 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Haziq:** YB, sebelum kita bergerak seterusnya, mungkin satu soalan politik. Kita fahamlah Anwar Ibrahim, Datuk Seri Amir Hamzah, Johan Mahmood Merican, mereka ini dalam gelembung mereka sendiri.
 
-**Rafizi:** Kenapa kau panggil dia Johan Mahmood Merican? Kau ingat dia American ke? Johan Marican.
-
-**Farhan (Pa'an):** Merican ke Marican?
-
-**Rafizi:** Marican.
+**Rafizi:** Kenapa kau panggil dia Johan Mahmood Merican? Kau ingat dia American ke? Johan Marican. Marican.
 
 **Haziq:** Dia Marican, tapi ada e, Merican, tapi dia Marican.
 
@@ -466,7 +392,7 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Rafizi:** Dan sekarang boleh nampaklah apa yang saya sebut tu memang sekarang terbuktilah. Dasar DAP sebenarnya mudah saja, populis. Jangan bagi naik harga apa-apa minyak, apa-apa, sebab nanti orang marah.
 
-**Haziq:** Tapi sekarang bila Datuk Seri Anwar bercakap tentang T20, mereka meloncat. Saya ingat Lim Lip Eng sebagai contoh cakap, "Bukan semua T20 kaya." Maksud saya, eh, bukankah itu perkara yang PADU cuba tangani? Kalau begitu, mungkinkah ada kebarangkalian mereka akan buat u-turn dan menyokong PADU semula?
+**Haziq:** Tapi sekarang bila Datuk Seri Anwar bercakap tentang T20, mereka meloncat. Saya ingat Lim Lip Eng sebagai contoh cakap, "Bukan semua T20 kaya." Maksud saya, bukankah itu perkara yang PADU cuba tangani? Kalau begitu, mungkinkah ada kebarangkalian mereka akan buat u-turn dan menyokong PADU semula?
 
 **Rafizi:** Tak adalah, saya rasa. Ini cabarannya bila keputusan dasar mengenai semua dasar ini kita buat dengan mengambil kira pendekatan populis. Sebab pendekatan populis ini akan ada satu masa di mana kita sudah tidak boleh mengimbangkannya. Kita imbang, ia macam berjalan di atas tali tegang, you berjalan di atas tightrope. Itulah pendekatan populis. Tapi kita semua tahu sebenarnya setiap pihak akan ada tuntutan yang bertentangan. Akan ada tuntutan yang berlawanan bagi setiap keputusan yang kita buat. Jadi you berjalan di atas tali tegang. Kalau you nak populis, sebelah sana pun you nak imbang, sebelah sini pun nak imbang, sana tarik, sini tarik, lama-lama memang jatuhlah you. Jadi contoh yang baik ialah soal DAP dan pandangan mereka. Semasa buat PADU, mereka menentang habis-habisan atas alasan kalau gunakan pindahan tunai, maka harga minyak perlu diapungkan. Kalau masa itu RM2.05, mungkin ia jadi RM2.50. Cuma keluarga yang betul-betul tidak memerlukan itu yang perlu bayar penuh. Yang lain akan dapat RM400, RM500, RM200, akan dapat lebih. Tapi kita pindahkan dalam bentuk pindahan tunai kerana secara ekonominya — dan saya rasa itulah sebabnya majoriti ahli ekonomi di dunia ini akan kata pindahan tunai lebih baik daripada memberi subsidi pukal seperti ini — ialah kerana bila orang ada wang dalam poket dan dia bayar kos sebenar untuk minyak itu, itu akan mempengaruhi penggunaan. Sekarang ini pula penasihat kanan ekonomi Perdana Menteri, dia pergi ke BFM meluahkan perasaannya kerana nampaknya rakyat Malaysia ini seperti tidak sedar, tidak mengubah penggunaan. Memanglah tidak berubah penggunaan, ya, kalau harga minyak macam itu. Itulah sebabnya kami kata perlu buat pindahan tunai — kerana bila buat pindahan tunai, walaupun sebenarnya jumlah yang diterima daripada kerajaan itu sama, atau sebenarnya lebih bagi majoriti keluarga B40, mereka akan dapat lebih sebab mereka tidak guna banyak. Dalam 100 liter sebulan sahaja. Kalau 100 liter sebulan sebagai contoh, mereka dapat 50 sen bagi setiap liter, mereka hanya dapat RM50 sebulan daripada kerajaan. Tapi kalau melalui pindahan tunai, sebab mereka B40, mereka mungkin dapat elaun sekolah, mungkin dapat elaun anak. Campur-campur, mereka dapat RM300, dapat ekstra RM250 tahu. Cuma orang macam saya tidak dapat apa-apa, tidak apalah. Tapi sebab DAP sangat gementar masa itu — kalau kita buat pindahan tunai ini, maka harga minyak akan naik, nanti kita akan dimaki. Jadi mereka menentang PADU, jangan buat. Sekarang ini mereka pun terpaksa menggigit jari, macam mana pun duit tidak ada. Jadi either way, kerajaan perlu buat sesuatu. Nak potong kuota pun tidak boleh. Jadi kerajaan akan kata, "Jadi yang mana satu yang kau nak ini? Atau kita potong gaji semua menteri, jangan bayar, sebab duit tidak ada" kan. Jadi potong kuota pun tidak boleh. Sebab itu kalau tengok kenyataan Datuk Seri Anwar, maksudnya dia sudah buat keputusan. Gayanya, kalau yang akan dipotong ini T20lah. Jadi T20, ha, sekarang bergaduh. Jadi sekarang ini bila DAP mengatakan bukan semua T20 itu kaya, maksudnya memang betullah apa yang kami katakan sebelum ini. Sebab itu kita memerlukan kaedah baru — pendapatan boleh belanja bersih yang mengambil kira perbelanjaan asas kehidupan wajar mengikut saiz keluarga dan lokalitinya. Kalau buat begitu, maka memang betullah ada golongan T20 yang sekarang ini sebenarnya B40. Dan kemudian mereka akan dapat kan. Jadi saya harap DAP fikir semula tentang perkara itu.
 
@@ -478,15 +404,13 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Rafizi:** Malam ini mengungkit semua janji, ya.
 
-**Haziq:** Bukan, saya ini mewakili...
+**Haziq:** Bukan, saya ini mewakili.
 
 **Rafizi:** Yalah, sebab bila cerita harga kereta, turun harga kereta ini semua orang ungkit.
 
-**Haziq:** Waktu sekolah dulu saya ni...
+**Haziq:** Waktu sekolah dulu saya ni.
 
 **Rafizi:** Kau sudah ambil tahu ke masa itu? Tahun itu tahun 2012.
-
-**Haziq:** Ha, betul.
 
 **Farhan (Pa'an):** Sekolah tu.
 
@@ -494,7 +418,7 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Rafizi:** Tipulah, kau sudah ambil tahu!
 
-**Haziq:** Saya nampaklah poster, poster...
+**Haziq:** Saya nampaklah poster, poster.
 
 **Rafizi:** Kau tahu poster itu apa dia? Poster Farhash?
 
@@ -504,7 +428,7 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Rafizi:** Yalah, saya masa itu Pengarah Strategi, saya sediakan untuk buat kempen, saya sediakan material ini kan.
 
-**Haziq:** Sekali nampak Farhash, "Eh, macam mana ada?"
+**Haziq:** Sekali nampak Farhash, "macam mana ada?"
 
 **Rafizi:** Tak, tak, saya tidak kenal pun dia masa itu. Marah dia cakap saya tidak kenal dia. Saya serahkan tugas itu kepada Sim Ze Zin untuk mencari orang-orang yang mahu ambil gambar. Jadi Sim Ze Zin bawa dia. Saya pun tidak kenal, tidak tahulah. Dia bawa dengan isterinya, then I don't think I was even there. Saya tidak ada pun di situ.
 
@@ -516,31 +440,15 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Haziq:** Tapi bukan berpeluk bersama-sama.
 
-**Rafizi:** Tidak, gambar itu memang asing-asing. Ia memang Photoshop, Photoshop.
+**Rafizi:** Tidak, gambar itu memang asing-asing. Ia memang Photoshop, Photoshop. Jadi soalan hutang yang nak dituntut ini? Saya cuba ketepikan tadi itu, ingat juga.
 
-**Haziq:** Okey.
-
-**Rafizi:** Jadi soalan hutang yang nak dituntut ini? Saya cuba ketepikan tadi itu, ingat juga.
-
-**Haziq:** Janji itu, YB, ramai yang ungkitlah. Jadi sekarang alang-alang kita nak cakap EV, sebelum kita cakap pasal nak turunkan harga EV, mesti kita akan pergi kepada struktur apa semua. Jadi macam mana proses pemikiran YB sebenarnya semasa menjanjikan turun harga kereta 10 tahun lepas? Eh, tak, 15 tahun lepas?
+**Haziq:** Janji itu, YB, ramai yang ungkitlah. Jadi sekarang alang-alang kita nak cakap EV, sebelum kita cakap pasal nak turunkan harga EV, mesti kita akan pergi kepada struktur apa semua. Jadi macam mana proses pemikiran YB sebenarnya semasa menjanjikan turun harga kereta 10 tahun lepas? Tak, 15 tahun lepas?
 
 **Rafizi:** Sudah lama, lebih kurang 15 tahun lepas kan. Sebab itu saya sudah terangkan dulu, tapi yalah, orang dalam podcast tidak pernah tahu dulu-dulu. Sebab saya ingat disiplin kita — bila kita mencadangkan sesuatu, kita bukan main cakap kosong saja. Kita sudah tunjukkan struktur harga dia macam mana, kemudian bagaimana cara nak buat kan. Baiklah. Jadi sebab itu, sebelum kita cakap pasal harga EV semua ini kan — sebab kau sudah tanya pasal kenapa harga kereta tidak turun — jawapan itu sebenarnya kita perlu tahu bila kita bayar kereta, beli kereta contohnya kita beli RM100,000 kan. Sebenarnya RM100,000 itu berapa harga keretanya? RM100,000lah kan. Tapi berapa komponen harga kereta? Sebenarnya apa komponen harga kereta yang kita bayar di Malaysia ini? Kereta itu sendiri satulah. Lagi?
 
 **Haziq:** Kereta itu sendiri, eksais?
 
-**Rafizi:** Eksais itu apa dia? Sebelum sampai kepada eksaislah. Ini masalahnya dengan Haziq — bila kita sudah go through cepat-cepat tadi kan, dia cepat melompat untuk memberi jawapan bocor. Dia tidak membantu orang ramai memahami. Okey, komponen. Bila you beli sebuah kereta, ini harga kereta. Harga kereta ini maksudnya kos untuk kereta itu dan juga margin untung semualah. Okey, yang ini pergi kepada basically pengeluar kereta semualah. Selain daripada itu, apa lagi kita bayar? Komponen apa lagi yang kita ada? Kita bayar cukai. Cukai itu pergi kepada kerajaan. Jadi contohnya kalau harga kereta RM100,000, berapa agak-agaklah komponen cukai yang kita bayar? Okeylah, sebelum itu — sebenarnya berapa jenis cukai yang kita kena bayar untuk kereta?
-
-**Farhan (Pa'an):** Duti import.
-
-**Rafizi:** Duti import kalau apa nama ini?
-
-**Haziq:** Kereta import.
-
-**Rafizi:** Kalau kereta import. Okey, sebelum sampai kepada duti import itu, panjang ceritanya. Kita ada dua jenis kereta. Sebenarnya kita ada tiga.
-
-**Haziq:** Okey.
-
-**Rafizi:** Sebenarnya kalau nak kira, satu yang memang purely kita buat di sini — itu kereta tempatanlah, Proton, Perodua semua kan. Maksudnya semua komponen kita buat di sini, kita pasang di sini, jadilah kereta Proton. Itu satu kategori. Satu lagi kategori?
+**Rafizi:** Eksais itu apa dia? Sebelum sampai kepada eksaislah. Ini masalahnya dengan Haziq — bila kita sudah go through cepat-cepat tadi kan, dia cepat melompat untuk memberi jawapan bocor. Dia tidak membantu orang ramai memahami. Okey, komponen. Bila you beli sebuah kereta, ini harga kereta. Harga kereta ini maksudnya kos untuk kereta itu dan juga margin untung semualah. Okey, yang ini pergi kepada basically pengeluar kereta semualah. Selain daripada itu, apa lagi kita bayar? Komponen apa lagi yang kita ada? Kita bayar cukai. Cukai itu pergi kepada kerajaan. Jadi contohnya kalau harga kereta RM100,000, berapa agak-agaklah komponen cukai yang kita bayar? Okeylah, sebelum itu — sebenarnya berapa jenis cukai yang kita kena bayar untuk kereta? Duti import kalau apa nama ini? Kalau kereta import. Okey, sebelum sampai kepada duti import itu, panjang ceritanya. Kita ada dua jenis kereta. Sebenarnya kita ada tiga. Sebenarnya kalau nak kira, satu yang memang purely kita buat di sini — itu kereta tempatanlah, Proton, Perodua semua kan. Maksudnya semua komponen kita buat di sini, kita pasang di sini, jadilah kereta Proton. Itu satu kategori. Satu lagi kategori?
 
 **Haziq:** CBU, CKD.
 
@@ -550,31 +458,19 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Rafizi:** Built up, maksudnya?
 
-**Haziq:** Asal kereta daripada luar negara yang sudah siap semua, cantik-cantik, datang sini...
+**Haziq:** Asal kereta daripada luar negara yang sudah siap semua, cantik-cantik, datang sini.
 
 **Rafizi:** Dijual. Satu lagi?
 
-**Haziq:** CKD, locally assembled. Maksudnya...
+**Haziq:** CKD, locally assembled. Maksudnya.
 
-**Rafizi:** CKD ini stand for what?
-
-**Farhan (Pa'an):** Completely knocked down.
-
-**Rafizi:** Completely knocked down, CKD kan. CKD maksudnya locally assembled. Maksudnya?
+**Rafizi:** CKD ini stand for what? Completely knocked down, CKD kan. CKD maksudnya locally assembled. Maksudnya?
 
 **Haziq:** Ia tidak siap sepenuhnya. Ia dipasang di Malaysia, tapi barang-barang semua dari luar.
 
-**Rafizi:** Komponen itu diimport. Jadi contohnya kereta-kereta luar negara yang CKD di Malaysia, contohnya apa dia?
+**Rafizi:** Komponen itu diimport. Jadi contohnya kereta-kereta luar negara yang CKD di Malaysia, contohnya apa dia? Toyota, lagi? Honda, lagi?
 
-**Farhan (Pa'an):** Toyota.
-
-**Rafizi:** Toyota, lagi?
-
-**Farhan (Pa'an):** Honda.
-
-**Rafizi:** Honda, lagi?
-
-**Haziq:** Naza dulu eh?
+**Haziq:** Naza dulu?
 
 **Farhan (Pa'an):** Bukan Naza.
 
@@ -582,11 +478,7 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Farhan (Pa'an):** Volvo ada kilang, saya rasa.
 
-**Rafizi:** Ada kilang. Kemudian Mercedes ada kilang, di Pekan itu.
-
-**Haziq:** Ya, ya.
-
-**Rafizi:** Mercedes ada model yang CKD. Jadi banyak kereta-kereta luar negara yang kita tengok itu, dia bukan import CBU, dia import CKD kan. Okey. Jadi itu kos yang kita bayar kepada pengeluar, jenama semualah tuan punyanya kan.
+**Rafizi:** Ada kilang. Kemudian Mercedes ada kilang, di Pekan itu. Mercedes ada model yang CKD. Jadi banyak kereta-kereta luar negara yang kita tengok itu, dia bukan import CBU, dia import CKD kan. Okey. Jadi itu kos yang kita bayar kepada pengeluar, jenama semualah tuan punyanya kan.
 
 **Haziq:** Bergantung kepada jenis kereta.
 
@@ -600,11 +492,7 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Rafizi:** Ha, sudah Google. Okey.
 
-**Haziq:** Ha, sebelah saya Google.
-
-**Rafizi:** Diimport?
-
-**Haziq:** Dikilangkan di dalam atau diimport.
+**Haziq:** Ha, sebelah saya Google. Dikilangkan di dalam atau diimport.
 
 **Rafizi:** Okey, okey kan. Apa beza duti eksais dengan duti import? Saya dulu memang manual indirect tax Petronas dulu, saya yang tulis, saya yang train dulu bertahun-tahun lampau. Jadi apa beza duti eksais dengan duti import? Duti import ialah spesifik kepada asal usul. Maksudnya kalau barang yang sama — ambil contohnya mug yang sama kan, sebiji sama semua — kerana ia soal origin untuk melindungi pasaran. Tujuannya ialah untuk melindungi pasaran. Maksudnya kalau dibuat di Malaysia mug ini, tidak ada duti import. Tapi exactly the same mug, kualiti yang sama, tapi kalau diimport contohnya daripada Kanada, duti import sekian-sekian. Jadi itu untuk melindungi — tujuannya ialah untuk melindungi industri tempatan. Duti eksais? Duti eksais ialah cukai ke atas barang tertentu, tujuannya ialah untuk mengawal penggunaan. Jadi ia tidak kisah asal usul. Jadi contoh duti eksais yang ada di Malaysia yang orang kenal banyaklah, rokok. Of course orang panggil sin tax, but it's actually excise duty. Jadi caranya, kalau you nak buat orang kurang hisap rokok, you naikkan duti eksais. Jadi duti eksais, ia tidak kisah datang daripada mana pun, barang yang sama cukainya sama. Jadi kalau duti eksais atas rokok ialah katakanlah 100%, rokok dari mana pun ialah 100%. Cuma kalau rokok itu diimport pula daripada negara lain dan ada pula duti import 50%, jadi rokok yang daripada luar negara itu 150% cukai, rokok yang dikilang di Malaysia 100% cukai. Jadi bukan semua barang ada duti eksais, tahu. Kereta ada duti eksais, rokok ada duti eksais, alkohol, kenderaan bermotor semualah. Jadi duti eksais dikenakan mengikut tujuan; matlamatnya ialah mengawal penggunaan kan. Okey. Jadi sekarang kita tahu kereta ada duti import untuk CBU ataupun komponen CKD kan, kemudian ada duti eksais. Apa lagi cukai yang ada?
 
@@ -612,27 +500,11 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Farhan (Pa'an):** SST.
 
-**Rafizi:** Ya, cukai jualan. Dulu ada GST, semasa hanya ada GST. Sekarang ini SST, maka ada cukai jualan kan. Okey. Macam mana cukai ini dikira? Jadi ambil contohlah, ambil contoh satu kereta eh. Kereta itu kalau kita ambil contoh ia diimport, katakan. Okey, tak payah, okey import. Kita mula dengan kereta import dulu eh. Katalah kereta itu diimport, harga masuk ke Malaysia harga untuk pengeluar, campur semualah CIF. CIF ini maksudnya cost plus insurance plus freight. Okey, CIF. Jadi campur lagi margin semua kepada pengeluar, katakanlah RM100,000 eh. Kereta itu saiz enjinnya katakanlah 1,500 cc, di bawah 1,800 cc. Saya akan datang kepada soal cc kemudian ini kan. Okey. Jadi ia datang daripada China. Jadi akan ada duti import, jadi duti importnya berapa? Kalau ikut MFN, Most Favoured Nation, China itu MFN saya rasa kan. Jadi kos untuk membawa masuk semua CIF itu RM100,000 kan. Kemudian kita kena bayar duti import kepada kerajaan 30%, jadi RM130,000. Okey eh. Kemudian kena duti eksais eh. Duti eksais dikenakan mengikut saiz enjin. Contohnya, dengar rakyat Malaysia — ini nak menjawab kenapa tidak boleh turunkan harga kan. Sebenarnya boleh, tapi biar saya jelaskan kan. Duti eksais paling rendah untuk kereta ialah 75%. Jadi ia ikut saiz enjin. Bawah 1,800 cc, 75%; 1,800 ke 1,999 cc, 80%; 2,000 ke 2,499 cc, 90%; atas 2,500 cc, 105% eh. Jadi you kira, duti eksais ini dikenakan ke atas kos gabungan terakhir. Jadi kos gabungan terakhir adalah CIF campur semua nilai — pada asasnya kos kereta RM100,000, campur dengan duti import RM30,000, jadi RM130,000. 75% daripada RM130,000 berapa? Senang kira, 1.75 kali 130 berapa?
-
-**Farhan (Pa'an):** RM97,000.
-
-**Rafizi:** RM97,000. Jadi campur RM97,000 dengan RM130,000 berapa?
-
-**Haziq:** RM227,000.
-
-**Rafizi:** RM227,000 eh. Cukai terakhir adalah cukai jualan. Cukai jualan adalah 10% ke atas kos gabungan tadi kan. Jadi 10% daripada RM227,000 ialah RM22.7 ribu. Campur RM227,000, jadi berapa?
+**Rafizi:** Ya, cukai jualan. Dulu ada GST, semasa hanya ada GST. Sekarang ini SST, maka ada cukai jualan kan. Okey. Macam mana cukai ini dikira? Jadi ambil contohlah, ambil contoh satu kereta Kereta itu kalau kita ambil contoh ia diimport, katakan. Okey, tak payah, okey import. Kita mula dengan kereta import dulu Katalah kereta itu diimport, harga masuk ke Malaysia harga untuk pengeluar, campur semualah CIF. CIF ini maksudnya cost plus insurance plus freight. Okey, CIF. Jadi campur lagi margin semua kepada pengeluar, katakanlah RM100,000 Kereta itu saiz enjinnya katakanlah 1,500 cc, di bawah 1,800 cc. Saya akan datang kepada soal cc kemudian ini kan. Okey. Jadi ia datang daripada China. Jadi akan ada duti import, jadi duti importnya berapa? Kalau ikut MFN, Most Favoured Nation, China itu MFN saya rasa kan. Jadi kos untuk membawa masuk semua CIF itu RM100,000 kan. Kemudian kita kena bayar duti import kepada kerajaan 30%, jadi RM130,000. Okey Kemudian kena duti eksais Duti eksais dikenakan mengikut saiz enjin. Contohnya, dengar rakyat Malaysia — ini nak menjawab kenapa tidak boleh turunkan harga kan. Sebenarnya boleh, tapi biar saya jelaskan kan. Duti eksais paling rendah untuk kereta ialah 75%. Jadi ia ikut saiz enjin. Bawah 1,800 cc, 75%; 1,800 ke 1,999 cc, 80%; 2,000 ke 2,499 cc, 90%; atas 2,500 cc, 105% Jadi you kira, duti eksais ini dikenakan ke atas kos gabungan terakhir. Jadi kos gabungan terakhir adalah CIF campur semua nilai — pada asasnya kos kereta RM100,000, campur dengan duti import RM30,000, jadi RM130,000. 75% daripada RM130,000 berapa? Senang kira, 1.75 kali 130 berapa? RM97,000. Jadi campur RM97,000 dengan RM130,000 berapa? RM227,000 Cukai terakhir adalah cukai jualan. Cukai jualan adalah 10% ke atas kos gabungan tadi kan. Jadi 10% daripada RM227,000 ialah RM22.7 ribu. Campur RM227,000, jadi berapa?
 
 **Haziq:** RM227,000 campur RM22.7k, jadi RM249.7 ribu.
 
-**Rafizi:** Lebih kurang RM250,000lah. Okey, kepada rakyat Malaysia maksudnya kalau you beli kereta import daripada China, harganya RM250,000 on the road you bayar, sebenarnya RM150,000 itu you bayar cukai kepada kerajaan. Harga kereta itu hanyalah RM100,000. Kerana struktur cukai kita ke atas kereta ini memang tinggi. Kan, jadi easily cukainya campur-tolak semua memang sekitar 100%. In fact kalau tengok contoh tadi yang RM100,000 tadi itu kan, ia sebenarnya 150%. Jadi baiklah, kembali kepada soal kenapa kita tidak boleh turunkan harga kereta. Jadi pada 2011, 2012, saya sudah sebut perkara ini. Negara terpaksa membuat pilihan. Adakah kerajaan mengutip pendapatan melalui terutamanya duti eksaislah. Sebab cukai jualan itu memang dikenakan kepada semua 10% kan. Duti import itu fahamlah kerana ambil kereta luar negara kita kena bayarlah duti import. Kita import benda lain pun kita kena bayar duti import kan. Tapi duti eksais ini, keperluan mengenakan cukai ke atas kereta sampai 100%, maksud saya minimum 75% ini kan, kerajaan kena buat keputusan apa cara terbaik untuk mengutip cukai untuk pendapatan negara kan. Sistem yang ada sekarang ini diwarisi daripada zaman Tun Mahathir kepada Najib semualah kan. Cara itu maksudnya kerajaan akan kata, "Well, kita boleh kutip cukai sekian-sekian bilion tiap-tiap tahun. Kalau ikut idea Rafizi, kalau kita tidak kutip cukai eksais itu, memanglah harga minyak, harga kereta boleh turun sampai separuh. Tetapi kerajaan akan hilang pendapatan." Ha, itu ajelah kan. Hujah — hujah saya pula ialah, contohnya, sebenarnya oleh kerana pengangkutan awam kita ini tidak bagus, kebanyakan orang terpaksa ada kenderaan persendirian, terutamanya keluarga-keluargalah kan. Nak tak nak mereka ada kenderaan, kereta kan. Apabila kita mengutip cukai sampai 100% ini ke atas harga kereta yang sebenar, rakyat mengambil pinjaman daripada bank yang dibayar bulan-bulan untuk bayar cukai kepada kita, kepada kerajaan. Dan bayaran bulanan kereta itu membentuk perbelanjaan wajib isi rumah yang besar. Kalau gajinya RM2,500 contohnya kan, dia beli kereta paling murah pun katakanlah Saga ke apa, dia kena bayar sekarang berapa? RM300 lebihlah sebulan eh? RM400 kan. RM400 sebulan, RM400 daripada RM2,500 katakanlah itu pendapatan bersihnya lah, mungkin pendapatan kasarnya sebelum cukai mungkin RM2,900, RM2,800 kan. RM400 berbanding RM2,500 ini berapa? Lebih kurang 20%-ish lah kan? 20, kira?
-
-**Haziq:** 16%?
-
-**Rafizi:** 16%, sorry, 16% kan. Maksudnya 16% daripada pendapatannya dibayar untuk kereta saja. Campur minyak semua, itu yang jadi 20%-ishkan. Jadi maksudnya belum apa-apa lagi, 20% daripada pendapatannya sudah keluar, kan. Jadi bukankah lebih baik untuk membantu keluarga — kita boleh keluarkan itu sebenarnya, supaya mereka ada ekstra RM400, RM200lah. Kalau mereka bayar RM400 sekarang, sebenarnya separuh daripada apa yang mereka bayar adalah bayar cukai. Maksudnya mereka bayar cukai RM200 sebulan. Kan? Okey. Jadi itu pemikiran ketika itulah.
-
-**Haziq:** Hmm, tapi?
-
-**Rafizi:** Tidak ada "tetapi." Saya masih rasa itu boleh dilaksanakan. Tapi perkara yang orang katakan — memang ada kesan besar ini, tidak mudah untuk dibuatlah. Okey, ada beberapa perkara — sebahagiannya soal kutipan cukai. Satu lagi soal bagaimana exactly you laksanakan ini eh. Tapi mari kita ambil yang mudah dulu. Yang lebih mudah adalah kutipan cukai kan. Yang bermati-matianlah, saya faham dalam kerajaan — MOF ke, Kastam ke semua kan, LHDN ke — memanglah mereka akan pertahankan cukai ini habis-habisan. Sebab ini kutipan hasil mereka kan. Nanti akan kata, "Oh, kalau tiada duit ini, kerajaan kalau tidak kutip ini, kerajaan tidak ada duit." Okey kan. Tapi kemudian tanya soalan, sebenarnya duti eksais ini tiap-tiap tahun berapa kutipan kerajaan? Cari, cari, cari. It's actually about 7 to 8 billion setahun. Ha.
+**Rafizi:** Lebih kurang RM250,000lah. Okey, kepada rakyat Malaysia maksudnya kalau you beli kereta import daripada China, harganya RM250,000 on the road you bayar, sebenarnya RM150,000 itu you bayar cukai kepada kerajaan. Harga kereta itu hanyalah RM100,000. Kerana struktur cukai kita ke atas kereta ini memang tinggi. Kan, jadi easily cukainya campur-tolak semua memang sekitar 100%. In fact kalau tengok contoh tadi yang RM100,000 tadi itu kan, ia sebenarnya 150%. Jadi baiklah, kembali kepada soal kenapa kita tidak boleh turunkan harga kereta. Jadi pada 2011, 2012, saya sudah sebut perkara ini. Negara terpaksa membuat pilihan. Adakah kerajaan mengutip pendapatan melalui terutamanya duti eksaislah. Sebab cukai jualan itu memang dikenakan kepada semua 10% kan. Duti import itu fahamlah kerana ambil kereta luar negara kita kena bayarlah duti import. Kita import benda lain pun kita kena bayar duti import kan. Tapi duti eksais ini, keperluan mengenakan cukai ke atas kereta sampai 100%, maksud saya minimum 75% ini kan, kerajaan kena buat keputusan apa cara terbaik untuk mengutip cukai untuk pendapatan negara kan. Sistem yang ada sekarang ini diwarisi daripada zaman Tun Mahathir kepada Najib semualah kan. Cara itu maksudnya kerajaan akan kata, "Well, kita boleh kutip cukai sekian-sekian bilion tiap-tiap tahun. Kalau ikut idea Rafizi, kalau kita tidak kutip cukai eksais itu, memanglah harga minyak, harga kereta boleh turun sampai separuh. Tetapi kerajaan akan hilang pendapatan." Ha, itu ajelah kan. Hujah — hujah saya pula ialah, contohnya, sebenarnya oleh kerana pengangkutan awam kita ini tidak bagus, kebanyakan orang terpaksa ada kenderaan persendirian, terutamanya keluarga-keluargalah kan. Nak tak nak mereka ada kenderaan, kereta kan. Apabila kita mengutip cukai sampai 100% ini ke atas harga kereta yang sebenar, rakyat mengambil pinjaman daripada bank yang dibayar bulan-bulan untuk bayar cukai kepada kita, kepada kerajaan. Dan bayaran bulanan kereta itu membentuk perbelanjaan wajib isi rumah yang besar. Kalau gajinya RM2,500 contohnya kan, dia beli kereta paling murah pun katakanlah Saga ke apa, dia kena bayar sekarang berapa? RM300 lebihlah sebulan? RM400 kan. RM400 sebulan, RM400 daripada RM2,500 katakanlah itu pendapatan bersihnya lah, mungkin pendapatan kasarnya sebelum cukai mungkin RM2,900, RM2,800 kan. RM400 berbanding RM2,500 ini berapa? Lebih kurang 20%-ish lah kan? 20, kira? 16%, sorry, 16% kan. Maksudnya 16% daripada pendapatannya dibayar untuk kereta saja. Campur minyak semua, itu yang jadi 20%-ishkan. Jadi maksudnya belum apa-apa lagi, 20% daripada pendapatannya sudah keluar, kan. Jadi bukankah lebih baik untuk membantu keluarga — kita boleh keluarkan itu sebenarnya, supaya mereka ada ekstra RM400, RM200lah. Kalau mereka bayar RM400 sekarang, sebenarnya separuh daripada apa yang mereka bayar adalah bayar cukai. Maksudnya mereka bayar cukai RM200 sebulan. Kan? Okey. Jadi itu pemikiran ketika itulah. Tidak ada "tetapi." Saya masih rasa itu boleh dilaksanakan. Tapi perkara yang orang katakan — memang ada kesan besar ini, tidak mudah untuk dibuatlah. Okey, ada beberapa perkara — sebahagiannya soal kutipan cukai. Satu lagi soal bagaimana exactly you laksanakan ini Tapi mari kita ambil yang mudah dulu. Yang lebih mudah adalah kutipan cukai kan. Yang bermati-matianlah, saya faham dalam kerajaan — MOF ke, Kastam ke semua kan, LHDN ke — memanglah mereka akan pertahankan cukai ini habis-habisan. Sebab ini kutipan hasil mereka kan. Nanti akan kata, "Oh, kalau tiada duit ini, kerajaan kalau tidak kutip ini, kerajaan tidak ada duit." Okey kan. Tapi kemudian tanya soalan, sebenarnya duti eksais ini tiap-tiap tahun berapa kutipan kerajaan? Cari, cari, cari. It's actually about 7 to 8 billion setahun. Ha.
 
 **Farhan (Pa'an):** Jumlah duti eksais kira-kira RM7.4 bilion anggaran untuk 2024.
 
@@ -640,11 +512,7 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Haziq:** Sekarang subsidi minyak sudah 7 bilion.
 
-**Rafizi:** Sebulan! Itu meletakkan perkara dalam perspektif. Jadi kalau saya ditanya, boleh ke tidak menurunkan harga minyak, harga kereta, dari segi kewangan boleh. Sebab kita kutip dalam 8 bilion setahun lah, kita bayar subsidi minyak 7 bilion sebulan. Ha, itu menjadikan itu, banyak. Penganjuran ASEAN, saya rasa kita belanja untuk penganjuran ASEAN tu lebih kurang 2 bilion. Kan? Jadi sebenarnya 8 bilion sekarang ini, kutipan cukai kita dalam berapa eh? Saya rasa dalam 100 — tunggu eh. Biar saya lihat, saya rasa dalam sorry, dalam 230 lah. Sorry, dah 300 lebih. Tak, tak, tak. Sebenarnya itu hasil persekutuan 300 lebih. Kutipan cukai dalam 280 lah, sebab hasil persekutuan kalau 330 tolak yang dikutip Petronas semua 50 lebih, dalam 280, 280 lah. Jadi 8% daripada 280, berapa? Eh sorry, 8 bilion daripada 280, kira? 2.8? Bukan! 8 bilion! 8 atas 280.
-
-**Farhan (Pa'an):** 2.8%.
-
-**Rafizi:** 2.8%. 2.8% sebenarnya kan. Jadi bolehkah kita gantikan 2.8% itu daripada sumber-sumber yang lain lah? Sebenarnya kalau anda tanya saya, boleh. Malah dari segi kewangan saya rasa tak ada masalah untuk buat, cuma jawapannya susah. Susah nak buat kan. Okey sekarang, tetapi isu yang lebih besar sebenarnya kalau kita nak turunkan harga minyak, harga kereta, ialah — pada saya — bukan setakat soal menukar duti eksais ni. Ia sebenarnya soal nilai jualan semula, pasaran kereta terpakai. Titik potong dia, macam mana anda nak susun urutan ini? Sebab contohnya kan, katakanlah kerajaan buat keputusan bermula 1 Januari 2027 duti eksais dihapuskan terus. Ambil contoh Myvi lah kut eh? Myvi sekarang dalam okeylah, Myvi yang paling asas lah katakan RM50,000 kan, RM50,000 itu termasuk dengan duti eksais tau. Jadi kalau RM50,000, tiba-tiba tahun depan duti eksais tak ada, Myvi yang baru harga RM30,000. Anda baru beli Myvi anda tahun ini 2026 RM50,000. Jadi kenapa ada orang nak beli kereta anda secara terpakai? Sebab kereta baru RM30,000 kan. Jadi macam mana anda nak susun urutannya supaya pasaran terpakai tu tak collapse sepenuhnya. Kemudian soal orang protes lah. Sebab akan ada orang yang dah beli kereta cakap, "Oh tak adillah, saya baru aje beli harga mahal, bayar balik saya punya cukai." Akan ada yang macam itu, orang kita pun satu. Dia nak suruh turun, turun, turun, dia kalau tiba-tiba tidak menguntungkan dia walaupun ia menguntungkan orang lain, dia marah. Yang ketiga ialah bila harga kereta terpakai ni jatuh mendadak macam itu, semua orang akan jual kereta tau sebab harga kereta dia murah kan. Buat apa anda nak simpan kereta 4 tahun dah buruk, elok jugalah anda beli kereta baru aje kan, sebab kereta baru tu mungkin separuh harga kan. Jadi kita akan berakhir kemungkinan besar dengan lambakan kereta terpakai. Okey, jadi kalau kita nak buat ini, kita perlu fikirkan urutan tu. Contohnya kita mungkin perlu ada satu aturan — macam Jepun semua kan, kereta dia dia recon, dia jual overseas. Kita mungkin boleh jual kat tempat-tempat lain lah, Afrika ke, Asia Tengah ke. Tapi kena ada aturan dan kena ada sistemnya itulah. Jadi ini adalah perkara-perkara yang mungkin kita dah boleh laksanakan, contohnya apa ni, had umur kenderaan. Tak boleh bawa kereta melebihi 10 tahun, jadi semua kereta 10 tahun tu...
+**Rafizi:** Sebulan! Itu meletakkan perkara dalam perspektif. Jadi kalau saya ditanya, boleh ke tidak menurunkan harga minyak, harga kereta, dari segi kewangan boleh. Sebab kita kutip dalam 8 bilion setahun lah, kita bayar subsidi minyak 7 bilion sebulan. Ha, itu menjadikan itu, banyak. Penganjuran ASEAN, saya rasa kita belanja untuk penganjuran ASEAN tu lebih kurang 2 bilion. Kan? Jadi sebenarnya 8 bilion sekarang ini, kutipan cukai kita dalam berapa? Saya rasa dalam 100 — tunggu Biar saya lihat, saya rasa dalam sorry, dalam 230 lah. Sorry, dah 300 lebih. Tak, tak, tak. Sebenarnya itu hasil persekutuan 300 lebih. Kutipan cukai dalam 280 lah, sebab hasil persekutuan kalau 330 tolak yang dikutip Petronas semua 50 lebih, dalam 280, 280 lah. Jadi 8% daripada 280, berapa? Sorry, 8 bilion daripada 280, kira? 2.8? Bukan! 8 bilion! 8 atas 280. 2.8%. 2.8% sebenarnya kan. Jadi bolehkah kita gantikan 2.8% itu daripada sumber-sumber yang lain lah? Sebenarnya kalau anda tanya saya, boleh. Malah dari segi kewangan saya rasa tak ada masalah untuk buat, cuma jawapannya susah. Susah nak buat kan. Okey sekarang, tetapi isu yang lebih besar sebenarnya kalau kita nak turunkan harga minyak, harga kereta, ialah — pada saya — bukan setakat soal menukar duti eksais ni. Ia sebenarnya soal nilai jualan semula, pasaran kereta terpakai. Titik potong dia, macam mana anda nak susun urutan ini? Sebab contohnya kan, katakanlah kerajaan buat keputusan bermula 1 Januari 2027 duti eksais dihapuskan terus. Ambil contoh Myvi lah kut? Myvi sekarang dalam okeylah, Myvi yang paling asas lah katakan RM50,000 kan, RM50,000 itu termasuk dengan duti eksais tau. Jadi kalau RM50,000, tiba-tiba tahun depan duti eksais tak ada, Myvi yang baru harga RM30,000. Anda baru beli Myvi anda tahun ini 2026 RM50,000. Jadi kenapa ada orang nak beli kereta anda secara terpakai? Sebab kereta baru RM30,000 kan. Jadi macam mana anda nak susun urutannya supaya pasaran terpakai tu tak collapse sepenuhnya. Kemudian soal orang protes lah. Sebab akan ada orang yang dah beli kereta cakap, "Oh tak adillah, saya baru aje beli harga mahal, bayar balik saya punya cukai." Akan ada yang macam itu, orang kita pun satu. Dia nak suruh turun, turun, turun, dia kalau tiba-tiba tidak menguntungkan dia walaupun ia menguntungkan orang lain, dia marah. Yang ketiga ialah bila harga kereta terpakai ni jatuh mendadak macam itu, semua orang akan jual kereta tau sebab harga kereta dia murah kan. Buat apa anda nak simpan kereta 4 tahun dah buruk, elok jugalah anda beli kereta baru aje kan, sebab kereta baru tu mungkin separuh harga kan. Jadi kita akan berakhir kemungkinan besar dengan lambakan kereta terpakai. Okey, jadi kalau kita nak buat ini, kita perlu fikirkan urutan tu. Contohnya kita mungkin perlu ada satu aturan — macam Jepun semua kan, kereta dia dia recon, dia jual overseas. Kita mungkin boleh jual kat tempat-tempat lain lah, Afrika ke, Asia Tengah ke. Tapi kena ada aturan dan kena ada sistemnya itulah. Jadi ini adalah perkara-perkara yang mungkin kita dah boleh laksanakan, contohnya apa ni, had umur kenderaan. Tak boleh bawa kereta melebihi 10 tahun, jadi semua kereta 10 tahun tu.
 
 **Farhan (Pa'an):** Macam Singapura.
 
@@ -670,11 +538,7 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Rafizi:** Ha, itu latar belakang sebelum kita masuk ke EV lah.
 
-**Haziq:** Dan saya rasa satu lagi yang saya rasa dilema lah yang banyak dibincangkan juga, adalah bagaimana nak mengimbangi industri tempatan dengan keperluan kita nak memberi lebih banyak pilihan kepada orang ramai untuk mendapatkan EV yang lebih mampu milik. Apabila baru-baru ini MITI telah mengeluarkan satu dasar baru yang dikatakan menandakan berakhirnya EV import murah, apabila MITI tidak boleh membenarkan kereta-kereta CBU, iaitu kereta yang dah siap diimport ini, bawah 200,000 sebelum cukai untuk masuk ke dalam negara, dan juga kedua adalah berkaitan dengan output dia, 180,000 tu kan. Jadi bila berlaku macam...
-
-**Rafizi:** 180,000?
-
-**Haziq:** 180, 185 kilowatt. 180 kilowatt. 180,000 watt.
+**Haziq:** Dan saya rasa satu lagi yang saya rasa dilema lah yang banyak dibincangkan juga, adalah bagaimana nak mengimbangi industri tempatan dengan keperluan kita nak memberi lebih banyak pilihan kepada orang ramai untuk mendapatkan EV yang lebih mampu milik. Apabila baru-baru ini MITI telah mengeluarkan satu dasar baru yang dikatakan menandakan berakhirnya EV import murah, apabila MITI tidak boleh membenarkan kereta-kereta CBU, iaitu kereta yang dah siap diimport ini, bawah 200,000 sebelum cukai untuk masuk ke dalam negara, dan juga kedua adalah berkaitan dengan output dia, 180,000 tu kan. Jadi bila berlaku macam. 180, 185 kilowatt. 180 kilowatt. 180,000 watt.
 
 **Rafizi:** Ha, pandai lah engkau. 180 kilowatt, output kuasa dia.
 
@@ -684,15 +548,11 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Farhan (Pa'an):** Mungkin nak tambah kepada apa Haziq cakap lah. Saya rasa perbualan yang paling kuat adalah pengguna merasakan — atau rakyat Malaysia merasakan — adakah ia adil kepada pengguna, sebab akhirnya dia orang rasa macam pasaran mula dibanjiri dengan kononnya lebih mampu milik. Sebelum ni kita tengok BMW dan lain-lain, BMW, Porsche, Mercedes punya kenderaan elektrik, dan sekarang perlahan-lahan semakin banyak EV buatan China masuk, tapi dengan dasar baru ini, mereka rasa atau mereka takut yang, "Okey, itu sahajalah untuk EV murah."
 
-**Rafizi:** Untuk pengetahuan yang menonton lah kan, bukan semua — saya ingat kita perlu terangkan juga apa sebenarnya dasar ini kan, kenapa kereta tak boleh masuk eh. Malaysia tak ada lagi, selain daripada Proton dan juga Perodua dua tu, saya tak rasa kita ada pemasangan tempatan EV kan? Ada syarikat-syarikat lain antarabangsa yang ada pemasangan tempatan kat sini? Tak ada kan?
+**Rafizi:** Untuk pengetahuan yang menonton lah kan, bukan semua — saya ingat kita perlu terangkan juga apa sebenarnya dasar ini kan, kenapa kereta tak boleh masuk Malaysia tak ada lagi, selain daripada Proton dan juga Perodua dua tu, saya tak rasa kita ada pemasangan tempatan EV kan? Ada syarikat-syarikat lain antarabangsa yang ada pemasangan tempatan kat sini? Tak ada kan?
 
 **Haziq:** Semua baru nak buat. BYD macam kita dengar tu lah, XPENG nak buat kat Melaka, Wuling nak buat kat Segambut, Leapmotor nak buat kat Gurun, Chery nak buat kat Shah Alam, Honda tak ada lagi.
 
-**Rafizi:** Kan, jadi maksudnya kita tidak ada CKD. Kita tak ada CKD kan. Jadi semua EV yang kita duk tengok selama ni, BYD ke, semua, itu semua CBU kan. Dia dibuat di China lah, kemudian diimport terus sebiji kat sini kan. Industri kereta kita ni untuk mengimport, kita perlukan AP, Permit Diluluskan, untuk boleh bawa masuk. Jadi dasar MITI sekarang ialah MITI tidak akan lagi memberikan AP kepada kereta-kereta yang kosnya — kos sebelum cukai ni tau, kos kepada pengeluar — ialah bawah 200,000. Itu bermakna kereta-kereta yang kita duk tengok sekarang ni semua, BYD ke, Great Wall ada juga kan, GWM ke apa semua, semua tu takkan ada lah, tak boleh bawa masuk kat Malaysia lah. Sebab harga dia orang ni dalam 150,000 semua kan. Dan yang ada hanyalah inventori sedia ada yang dah dibawa masuk. Nanti bila dijual habis yang tu, tak ada lah. Nak tak nak orang kena beli Proton ataupun Perodua lah yang macam Pa'an kata tadi kan. Dia ada macam-macam perspektif yang kita kena tengok secara menyeluruh kan. Okey, satu yang Haziq sebut tadi, keperluan negara supaya orang menukar kepada EV secepat mungkin kan. Kalau ikut sasaran jangka panjang kita melalui NETR lah, Pelan Peralihan Tenaga Negara, kita perlukan kereta di Malaysia ini pada tahun 2050, 80% itu adalah EV. Kalau kita tak mencapai yang itu, maksudnya pergantungan kita kepada import gas daripada luar negara tu lebih tinggi kan. Jadi satu ialah peralihan kepada EV lah, yang itu diperlukan bukan semata-mata soal keterjaminan tenaga, sekarang yang lebih mendesak ialah untuk mengurangkan subsidi minyak secepat mungkin lah kan. Itu satu ya. Satu lagi perspektif ialah perspektif rakyat lah pula. Rakyat memang lebih baik menggunakan EV. Kenapa lebih baik rakyat menggunakan EV?
-
-**Haziq:** Lebih murah.
-
-**Rafizi:** Maksudnya guna kereta murah.
+**Rafizi:** Kan, jadi maksudnya kita tidak ada CKD. Kita tak ada CKD kan. Jadi semua EV yang kita duk tengok selama ni, BYD ke, semua, itu semua CBU kan. Dia dibuat di China lah, kemudian diimport terus sebiji kat sini kan. Industri kereta kita ni untuk mengimport, kita perlukan AP, Permit Diluluskan, untuk boleh bawa masuk. Jadi dasar MITI sekarang ialah MITI tidak akan lagi memberikan AP kepada kereta-kereta yang kosnya — kos sebelum cukai ni tau, kos kepada pengeluar — ialah bawah 200,000. Itu bermakna kereta-kereta yang kita duk tengok sekarang ni semua, BYD ke, Great Wall ada juga kan, GWM ke apa semua, semua tu takkan ada lah, tak boleh bawa masuk kat Malaysia lah. Sebab harga dia orang ni dalam 150,000 semua kan. Dan yang ada hanyalah inventori sedia ada yang dah dibawa masuk. Nanti bila dijual habis yang tu, tak ada lah. Nak tak nak orang kena beli Proton ataupun Perodua lah yang macam Pa'an kata tadi kan. Dia ada macam-macam perspektif yang kita kena tengok secara menyeluruh kan. Okey, satu yang Haziq sebut tadi, keperluan negara supaya orang menukar kepada EV secepat mungkin kan. Kalau ikut sasaran jangka panjang kita melalui NETR lah, Pelan Peralihan Tenaga Negara, kita perlukan kereta di Malaysia ini pada tahun 2050, 80% itu adalah EV. Kalau kita tak mencapai yang itu, maksudnya pergantungan kita kepada import gas daripada luar negara tu lebih tinggi kan. Jadi satu ialah peralihan kepada EV lah, yang itu diperlukan bukan semata-mata soal keterjaminan tenaga, sekarang yang lebih mendesak ialah untuk mengurangkan subsidi minyak secepat mungkin lah kan. Itu satu ya. Satu lagi perspektif ialah perspektif rakyat lah pula. Rakyat memang lebih baik menggunakan EV. Kenapa lebih baik rakyat menggunakan EV? Maksudnya guna kereta murah.
 
 **Haziq:** Dari segi tenaga tu, kos.
 
@@ -704,13 +564,7 @@ Sekarang jadi lawak, aku senyum dari jauh sahaja. Maksudnya sekarang perlu menja
 
 **Farhan (Pa'an):** Ada sesetengah kawan yang, saya rasa, pergi kerja lebih kurang 10 km, dia orang belanja sekitar RM30 sebulan untuk menjalankan kereta EV.
 
-**Rafizi:** Ya, ya, ya.
-
-**Haziq:** Dia kata yalah, kalau macam bersamaan dengan mengisi penuh satu tangki?
-
-**Farhan (Pa'an):** Tangki.
-
-**Haziq:** Penuh satu tangki RM25 macam tu.
+**Haziq:** Dia kata yalah, kalau macam bersamaan dengan mengisi penuh satu tangki? Penuh satu tangki RM25 macam tu.
 
 **Rafizi:** Maksud anda 25 macam — oh, pada bersamaan.
 
@@ -730,11 +584,7 @@ Isu dia ialah cara yang bercelaru bagaimana benda ni dibuat. Sebab dia mengejut 
 
 Jawapan masa itu daripada MITI, saya ingat, ialah sebab nak bagi ruang dan masa kepada Perodua dan Proton siapkan EV mereka dalam kategori itu, supaya rakyat boleh pakai yang itu kan. Aku dalam hati cakap, okey fair enough, tapi janganlah lambat sangat, kesian kat orang. Kan? Jadi akhirnya Proton lancarkan dia punya tahun bila? 2024?
 
-**Farhan (Pa'an):** e.MAS? e.MAS 7. Ya, hujung 2024. Dan kemudian Perodua punya?
-
-**Haziq:** Tahun lepas.
-
-**Farhan (Pa'an):** Tahun lepas, 2025 kan?
+**Farhan (Pa'an):** e.MAS? e.MAS 7. Ya, hujung 2024. Dan kemudian Perodua punya? Tahun lepas, 2025 kan?
 
 **Rafizi:** Okey. Dan soalannya perlindungan yang Pa'an tanya tadi kan — adakah kita berlaku adil kepada rakyat bila kita tak benarkan EV yang lebih murah itu daripada luar negara masuk kan?
 
@@ -744,7 +594,7 @@ Jawapan masa itu daripada MITI, saya ingat, ialah sebab nak bagi ruang dan masa 
 
 **Farhan (Pa'an):** Perodua awal tahun ini saya rasa.
 
-**Rafizi:** Baik eh. Sekarang, isunya kalau kita dah buat perancangan awal, kita nak tengok Proton dengan Perodua melancarkan produk pada 2025 semua ini kan, dan untuk kita memastikan ada persaingan EV pada harga yang lebih murah kepada rakyat, sepatutnya pada 2026 ini kilang CKD sudah ada, sudah mengeluarkan pengeluaran. Jadi sepatutnya keputusan untuk tidak membenarkan ataupun mula mengawal kemasukan CBU ini sepatutnya dibuat dengan mengambil kira bila sebenarnya pemasangan tempatan CKD akan berlaku. Saya rasa itu bukan keadaan sekarang. Ia sangat mendadak. Bila ia mendadak dalam tempoh tiga bulan tidak boleh dibawa masuk dan hanya membenarkan inventori yang sedia ada — memanglah bagus untuk Proton kerana tak kira nak tak nak orang terpaksa beli Proton ataupun Perodua kan. Tapi kepada rakyat, rakyat akan rasa seolah-olah kami terpaksa menyokong Proton ataupun Perodua tanpa kami ada pilihan sendiri.
+**Rafizi:** Baik Sekarang, isunya kalau kita dah buat perancangan awal, kita nak tengok Proton dengan Perodua melancarkan produk pada 2025 semua ini kan, dan untuk kita memastikan ada persaingan EV pada harga yang lebih murah kepada rakyat, sepatutnya pada 2026 ini kilang CKD sudah ada, sudah mengeluarkan pengeluaran. Jadi sepatutnya keputusan untuk tidak membenarkan ataupun mula mengawal kemasukan CBU ini sepatutnya dibuat dengan mengambil kira bila sebenarnya pemasangan tempatan CKD akan berlaku. Saya rasa itu bukan keadaan sekarang. Ia sangat mendadak. Bila ia mendadak dalam tempoh tiga bulan tidak boleh dibawa masuk dan hanya membenarkan inventori yang sedia ada — memanglah bagus untuk Proton kerana tak kira nak tak nak orang terpaksa beli Proton ataupun Perodua kan. Tapi kepada rakyat, rakyat akan rasa seolah-olah kami terpaksa menyokong Proton ataupun Perodua tanpa kami ada pilihan sendiri.
 
 Jadi pandangan saya, dalam jangka panjang memanglah kita mahu supaya kita ada persaingan yang sihat dan pembuatan berlaku secara tempatan melalui CKD. Tetapi kalaulah MITI sudah ada perancangan awal sejak 2022, 2023 kan — pelaburan-pelaburan untuk memasang kereta ini sudah dibuat, kerana mereka sudah tahu dalam masa dua, tiga tahun begitu semua kan. Jadi keputusan untuk menghentikan AP kepada CBU daripada China ini sepatutnya mengambil kira kemudahan-kemudahan itu akan beroperasi. Yang itu saya tidak pasti. Sebenarnya CKD BYD semua ini bila akan — tapi ada berita besar, ada berita yang mengatakan BYD mungkin tidak akan buka kilang di sini.
 
@@ -757,8 +607,6 @@ Jadi sekarang saya tidak pasti apa-apa perancangan atau pengumuman daripada MITI
 **Haziq:** Dan kita tidak pasti apabila ada apa yang dipanggil monopoli ini, adakah harga itu akan turun atau lebih berpatutan kepada rakyat, sebab tiada persaingan?
 
 **Rafizi:** Memang itu sudah semestinya. Kalau kamu semua tidak hidup pada zaman 90-an.
-
-**Haziq:** Okey.
 
 **Farhan (Pa'an):** Saya hidup zaman itu.
 
@@ -784,11 +632,7 @@ Jadi saya tidak katakan kita patut lepas tangan daripada Proton begitu sahaja, t
 
 **Haziq:** Mungkin yang terakhir — tidakkah YB rasa mungkin kita ada masalah dengan cara mereka menjalankan kementerian? MITI fokus kepada ekosistem, perdagangan dan sebagainya. Tapi EV ini kita ada matlamat lain yang lebih besar, iaitu untuk memenuhi aspirasi NETR semua yang mungkin bagi MITI ia seperti "Ah, bukan KPI saya." Mungkin sudah tiba masanya EV ini kita pindahkan ke kementerian lain, ataupun pendekatan whole of government?
 
-**Rafizi:** Ini macam soalan mesyuarat jabatan kerajaan sahaja.
-
-**Haziq:** Ha.
-
-**Rafizi:** Ya, itulah kerja jabatan kerajaan. Berebut siapa nak jaga apa. Sebenarnya, pandangan saya, EV, kereta, industri memang patut berada di bawah MITI. Cuma janganlah bersilo. Janganlah bersilo, dan setiap kementerian tak kira apa yang dijaganya, ia tidak boleh fikir tentang dirinya sahaja, ia perlu fikir tentang keseluruhan negara. Panggillah apa sahaja yang kamu nak panggil, whole of government atau apa — semua ini perkataan perunding yang dimasukkan dalam dokumen tetapi tidak dipraktikkan. Ambil contoh yang baik seperti cerita PADU tadi — hanya kerana perkara itu dilakukan oleh Kementerian Ekonomi. Kalau perkara itu dilakukan oleh MOF, tidak ada isunya, semua sudah lama selesai.
+**Rafizi:** Ini macam soalan mesyuarat jabatan kerajaan sahaja. Ya, itulah kerja jabatan kerajaan. Berebut siapa nak jaga apa. Sebenarnya, pandangan saya, EV, kereta, industri memang patut berada di bawah MITI. Cuma janganlah bersilo. Janganlah bersilo, dan setiap kementerian tak kira apa yang dijaganya, ia tidak boleh fikir tentang dirinya sahaja, ia perlu fikir tentang keseluruhan negara. Panggillah apa sahaja yang kamu nak panggil, whole of government atau apa — semua ini perkataan perunding yang dimasukkan dalam dokumen tetapi tidak dipraktikkan. Ambil contoh yang baik seperti cerita PADU tadi — hanya kerana perkara itu dilakukan oleh Kementerian Ekonomi. Kalau perkara itu dilakukan oleh MOF, tidak ada isunya, semua sudah lama selesai.
 
 Jadi saya rasa MITI adalah kementerian terbaik untuk menguruskan kereta EV ini kan, penerimaan semua. Tapi ia tidak boleh bersilo, dan ia perlu melihat matlamat yang berada dalam tanggungjawab orang lain — itu juga tanggungjawabnya. Dan kemudian mencapai keseimbangan. Ia tidak boleh mengambil pendekatan "tugas saya ialah untuk menunjukkan industri berkembang, pelaburan lebih tinggi, boleh buat TikTok tentang hebatnya saya membawa pelabur," tak kira kos kepada masyarakat. Itu tidak boleh kan.
 
@@ -800,7 +644,7 @@ Jadi saya rasa MITI adalah kementerian terbaik untuk menguruskan kereta EV ini k
 
 **Rafizi:** Saya akan terus nyet nyet nyet nyet nyet nyet nyet nyet. Malah hari Ahad ini saya dengan Datuk Seri Anwar akan bernyet-nyet secara serentak di dua tempat berbeza. Beliau di Johor Bahru, saya di Bandar Utama, di Dewan Utama.
 
-**Haziq:** Dan ya, orang kata ada 17 hari bulan ini, selain daripada cuti umum di Perlis — berkaitan dengan pengumuman hala tuju politik, dan saya rasa YB pernah beri hint sebelum ini. Hint demi hint demi hint. Kalau kita boleh lihat, YB pernah beri senarai — mungkin saya sahaja segarkan semula. YB sudah beri empat. Satu, tidak menyertai mana-mana parti politik sedia ada, maksudnya mungkin bukan PAS, bukan UMNO. Kedua, tidak akan...
+**Haziq:** Dan ya, orang kata ada 17 hari bulan ini, selain daripada cuti umum di Perlis — berkaitan dengan pengumuman hala tuju politik, dan saya rasa YB pernah beri hint sebelum ini. Hint demi hint demi hint. Kalau kita boleh lihat, YB pernah beri senarai — mungkin saya sahaja segarkan semula. YB sudah beri empat. Satu, tidak menyertai mana-mana parti politik sedia ada, maksudnya mungkin bukan PAS, bukan UMNO. Kedua, tidak akan.
 
 **Rafizi:** Bukan DAP. Bukan Amanah.
 
@@ -814,17 +658,13 @@ Jadi saya rasa MITI adalah kementerian terbaik untuk menguruskan kereta EV ini k
 
 **Farhan (Pa'an):** Penonton maki. Dan saya rasa kita hampir dengan tanda satu tahun kau ditinggalkan dan pemilihan itu, saya rasa boleh minta renungan sedikit daripada YB — setahun yang lepas.
 
-**Haziq:** Apa —
+**Haziq:** Apa — — renungannya maksudnya? Saya tanyalah satu soalan yang. ramai tanya. Tapi semakin lama semakin difahami lah. Tak boleh lah kot — iaitu, bila soal merajuk semua ini, mungkin kenapa YB tidak boleh berdamai semula?
 
-**Rafizi:** yang nak —
-
-**Haziq:** — renungannya maksudnya? Saya tanyalah satu soalan yang... ramai tanya. Tapi semakin lama semakin difahami lah. Tak boleh lah kot — iaitu, bila soal merajuk semua ini, mungkin kenapa YB tidak boleh berdamai semula?
-
-**Rafizi:** Tak boleh. Bukan sebab... saya fahamlah ramai yang...
+**Rafizi:** Tak boleh. Bukan sebab. saya fahamlah ramai yang.
 
 **Haziq:** Tapi yang betul-betul ikhlas nak lihat lah.
 
-**Rafizi:** Ya, boleh lihat. Ia memang semula jadi, contohnya penyokong PH kan, ataupun PKR, mereka memang secara semula jadi berharap supaya semua ini selesai. Kemudian saya seperti orang gila kembali berkempen suruh Malaysia beri PH menang semula kan. Tapi saya ingat itu berbeza kalau Pa'an tanya tadi kan, renungan semua kan. Saya memang renung agak banyak lah kan. Tidaklah saya renung sebenarnya — kalau kamu kenal saya, tidaklah saya duduk termenung apa-apa. Setiap hari ada sahaja perkara saya duduk buat kan, tak ada masa pun. Tapi daripada awal, saya ingat kita perlu tanya — ini juga kepada mereka yang menyokong, yang mengikuti reformasi, PKR, PH lah kan — sebenarnya kita perlu tanya titik mula kita. Kita berada dalam politik, orang seperti saya lah kan, kita berada dalam politik ini untuk apa sebenarnya? Hmm, apa tujuan kita?
+**Rafizi:** Ya, boleh lihat. Ia memang semula jadi, contohnya penyokong PH kan, ataupun PKR, mereka memang secara semula jadi berharap supaya semua ini selesai. Kemudian saya seperti orang gila kembali berkempen suruh Malaysia beri PH menang semula kan. Tapi saya ingat itu berbeza kalau Pa'an tanya tadi kan, renungan semua kan. Saya memang renung agak banyak lah kan. Tidaklah saya renung sebenarnya — kalau kamu kenal saya, tidaklah saya duduk termenung apa-apa. Setiap hari ada sahaja perkara saya duduk buat kan, tak ada masa pun. Tapi daripada awal, saya ingat kita perlu tanya — ini juga kepada mereka yang menyokong, yang mengikuti reformasi, PKR, PH lah kan — sebenarnya kita perlu tanya titik mula kita. Kita berada dalam politik, orang seperti saya lah kan, kita berada dalam politik ini untuk apa sebenarnya? Apa tujuan kita?
 
 Sebab kalau lihat kepada — ya — emosi mereka, ada banyak kategori lah kan. Ada yang pertama itu memang tenang daripada awal lah kan. Jadi emosi mereka yang mengeluarkan kata-kata kesat kepada saya ini, banyak berkisar kepada percaturan yang salah. Hmm. Mereka mula membuat percaturan, mengingat — mereka ingat begini maksudnya, lepas mereka mencatur, menipu pemilihan, blockchain tak blockchain semua itu kan, kepala tanpa badan semua — mereka ingat okeylah dah kalah, kemudian mereka akan duduk diam-diam dan menjadi kubu pertahanan kita dalam parti. Biarkan mereka buat kerja semua, kita pegang parti, kita kawal parti, kita dapat semua. Nikmati harta rampasan. Jadi bila mereka lihat saya bernyet-nyet, jadi tidak puas hati kerana tersalah percaturan. Itu satu kumpulan.
 
@@ -836,7 +676,7 @@ Kepada golongan yang tenang lah — tenang itu kita faham, memang tujuan mereka 
 
 **Farhan (Pa'an):** kemenangan —
 
-**Rafizi:** Saya boleh baca apa yang berlaku. Sabar bulan 3. Bila Datuk Seri mengumumkan, Datuk Seri Anwar kan, mengumumkan memberi laluan mudah kepada Rafizi. Saya sudah tahu sebenarnya. Saya sudah tahu apa yang ada dalam fikirannya. Sebab itu pergi tengok semula video bila dia mengumumkan itu kan. Saya tidak memberi sebarang reaksi. Saya tidak tersenyum atau kelihatan gembira. Kerana saya sudah tahu ketika itu ke mana, ke mana arah tujunya. Berapa banyak wang ditabur di bawah ini sehingga keahlian RM200 untuk menjadi ahli baharu dan ada laporan polis mengenai rasuah seperti itu. Kemudian yang paling kuat menggerakkan ini ialah setiausaha-setiausaha politik PM sendiri daripada Camsulnya, kepada Azman Bidinnya, kepada Cang Mingkainya. Saya sudah tahu ke mana ia menuju kan. Saya boleh lihat. Sebenarnya, saya panggil pegawai-pegawai saya dan beritahu, bersedialah, saya mungkin akan meletak jawatan ini jauh lebih awal. Jauh lebih awal sebelum pengundian, belum lagi pun. Kan? Jauh lebih awal. Jadi dalam tempoh 2 minggu selepas pengumuman Dato' Sri Anwar, sebenarnya saya sudah tahu ke mana ia menuju. Bulan April saya rasa. Bulan April. Sebenarnya pengundian itu — kalau ingat bulan April itu baru nak mula mengundi pun kan, saya sudah buat keputusan itu, Haziq. Orang sahaja tak tahu. Sebab itu saya tidak ada masalah untuk meletak jawatan semua itu. Semuanya sudah... Bagi saya cukup jelas, saya sudah nampak.
+**Rafizi:** Saya boleh baca apa yang berlaku. Sabar bulan 3. Bila Datuk Seri mengumumkan, Datuk Seri Anwar kan, mengumumkan memberi laluan mudah kepada Rafizi. Saya sudah tahu sebenarnya. Saya sudah tahu apa yang ada dalam fikirannya. Sebab itu pergi tengok semula video bila dia mengumumkan itu kan. Saya tidak memberi sebarang reaksi. Saya tidak tersenyum atau kelihatan gembira. Kerana saya sudah tahu ketika itu ke mana, ke mana arah tujunya. Berapa banyak wang ditabur di bawah ini sehingga keahlian RM200 untuk menjadi ahli baharu dan ada laporan polis mengenai rasuah seperti itu. Kemudian yang paling kuat menggerakkan ini ialah setiausaha-setiausaha politik PM sendiri daripada Camsulnya, kepada Azman Bidinnya, kepada Cang Mingkainya. Saya sudah tahu ke mana ia menuju kan. Saya boleh lihat. Sebenarnya, saya panggil pegawai-pegawai saya dan beritahu, bersedialah, saya mungkin akan meletak jawatan ini jauh lebih awal. Jauh lebih awal sebelum pengundian, belum lagi pun. Kan? Jauh lebih awal. Jadi dalam tempoh 2 minggu selepas pengumuman Dato' Sri Anwar, sebenarnya saya sudah tahu ke mana ia menuju. Bulan April saya rasa. Bulan April. Sebenarnya pengundian itu — kalau ingat bulan April itu baru nak mula mengundi pun kan, saya sudah buat keputusan itu, Haziq. Orang sahaja tak tahu. Sebab itu saya tidak ada masalah untuk meletak jawatan semua itu. Semuanya sudah. Bagi saya cukup jelas, saya sudah nampak.
 
 Kerana yang berlaku begini kan. Mesej daripada Dato' Sri Anwar ialah, itu yang saya sebut, depan cakap lain, belakang cakap lain, buat lain, umum lain. Sebab mesejnya cukup mudah. Saya tidak mahu anda mempunyai pengaruh dalam parti. Jadi yang saya mahu ialah anda menjadi teknokrat. Anda tidak ada pengaruh langsung, tidak ada peluang untuk mempengaruhi keputusan parti. Jadi, tawaran saya mudah. Ini dia tidak beritahu, sebab orang politik ini, kalau kita sudah senior, yang lebih penting itu ialah apa yang tidak disebut, bukannya apa yang disebut. Jadi, anda sudah tahu bahawa percaturannya sudah ditetapkan semua. Rancangan semua. Sebab itu saya tengok selepas satu-satu keputusan itu sudah mula ke arah itu. Daripada tiada pemilihan, kepada ada pemilihan. Daripada satu ahli satu undi, kepada menggunakan perwakilan pula kan. Semua ini "Saya mahu anda menjadi teknokrat kerana saya mahu anda kekal sebagai menteri, okelah saya boleh beri token anda menjadi timbalan presiden tanpa bertanding," tapi semua orang lain daripada peringkat cabang kepada MPP semua ini dia mahukan orangnya. Dia tidak mahu seorang pun orang saya ada, supaya keadaannya saya duduk seorang-seorang di dalam MPP itu, kena dengar, kena maki, dia buat keputusan semua, saya jadi rubber stamp sahaja.
 
@@ -854,7 +694,7 @@ Jadi sebab itu kalau ada orang bertanya, "eh kenapa tak kembali ke PKR" — Anwa
 
 **Farhan (Pa'an):** Ini adalah perkara yang penting. Itulah sebabnya anda tidak boleh berunding.
 
-**Rafizi:** Saya rasa kita ni pandai sangat bercakap pasal prinsip ni. Dengan mudah kita kata, "oh itu prinsip, ini prinsip." Saya sendiri pun tak tahu sama ada ia prinsip atau tidak, tetapi saya hidup dengan peraturan-peraturan tertentu. Peraturan yang sangat mudah. Dan ini bukan peraturan politik. Ini peraturan yang kita gunakan dalam kehidupan seharian — main bola pun, kita duduk tepi padang, kita berjalan. Satu, mesti ada rasa keadilan. Sebab kalau diri kita sendiri tidak mempunyai rasa keadilan, maksudnya mencuri pun boleh, salah guna kuasa pun boleh, menipu pun boleh. Kerana semuanya menjadi okey apabila kita tidak perlu fikir sama ada ia adil atau tidak. Itu satu. Jadi saya hidup dengan peraturan mudah ini, kerana apa yang berlaku dalam PKR sejak setahun lalu menunjukkan bahawa sebarang rasa dan kewarasan tentang keadilan, tentang benar dan salah, tentang jangan memangsakan orang — semua itu telah hilang dalam PKR. Dan kerana itu, panggillah apa sahaja anda mahu — prinsip ke, merajuk ke, apa sekalipun — tetapi bagi saya, garis itu telah dilanggar dengan teruk sekali. Jadi...
+**Rafizi:** Saya rasa kita ni pandai sangat bercakap pasal prinsip ni. Dengan mudah kita kata, "oh itu prinsip, ini prinsip." Saya sendiri pun tak tahu sama ada ia prinsip atau tidak, tetapi saya hidup dengan peraturan-peraturan tertentu. Peraturan yang sangat mudah. Dan ini bukan peraturan politik. Ini peraturan yang kita gunakan dalam kehidupan seharian — main bola pun, kita duduk tepi padang, kita berjalan. Satu, mesti ada rasa keadilan. Sebab kalau diri kita sendiri tidak mempunyai rasa keadilan, maksudnya mencuri pun boleh, salah guna kuasa pun boleh, menipu pun boleh. Kerana semuanya menjadi okey apabila kita tidak perlu fikir sama ada ia adil atau tidak. Itu satu. Jadi saya hidup dengan peraturan mudah ini, kerana apa yang berlaku dalam PKR sejak setahun lalu menunjukkan bahawa sebarang rasa dan kewarasan tentang keadilan, tentang benar dan salah, tentang jangan memangsakan orang — semua itu telah hilang dalam PKR. Dan kerana itu, panggillah apa sahaja anda mahu — prinsip ke, merajuk ke, apa sekalipun — tetapi bagi saya, garis itu telah dilanggar dengan teruk sekali. Jadi.
 
 **Haziq:** Mungkin itu sudah cukup jelas jawapan YB. Cuma memakai topik pihak ketiga yang mungkin dikategorikan tadi — orang yang mungkin secara bona fide atau suci hati, dia sebenarnya juga mahukan perubahan, dia rasa ada kekurangan. Tetapi dia melihat kepada apa yang kita panggil mudarat yang paling kecil, dan dia bimbang sekiranya tindakan YB ini memecah-belahkan sayap ataupun blok progresif, yang akhirnya akan memberikan kemenangan kepada pihak yang lebih teruk pada pandangannya. Bagaimana YB menjawab?
 
@@ -876,7 +716,7 @@ Sama juga seperti 2022. Sekarang dengan manfaat hikmah kebelakangan, boleh dikat
 
 Jadi nilai yang ada dalam PH sangat berbeza daripada itu. Ia bukan lagi begitu. Nilainya ialah, apa jua kosnya, mesti kekal berkuasa. Kepada orang di bawah, pemimpin-pemimpin akan kata, "oh sebab kalau tidak, nanti PAS akan berkuasa, atau PN akan berkuasa — mudaratnya lebih besar."
 
-**Haziq:** Mungkin sebelum ke soalan terakhir, saya nak bercakap juga — ini sudah dekat...
+**Haziq:** Mungkin sebelum ke soalan terakhir, saya nak bercakap juga — ini sudah dekat.
 
 **Rafizi:** 3 jam sudah ini.
 
@@ -884,19 +724,13 @@ Jadi nilai yang ada dalam PH sangat berbeza daripada itu. Ia bukan lagi begitu. 
 
 **Rafizi:** Sebab itulah orang Melayu ada — bukankah ada pepatah Melayu, maksudnya apa ya — kancil atau pelanduk tidak pernah lupakan jerat? Atau jerat yang tidak pernah lupakan pelanduk atau kancil? Cuba fikirkan.
 
-**Haziq:** Jerat tak pernah melupakan pelanduk pula. Eh, jerat...
+**Haziq:** Jerat tak pernah melupakan pelanduk pula. Jerat. Ha, ya. Jerat tak pernah melupakan pelanduk. Dua-dua pun boleh. Ha, dua-dua pun boleh.
 
-**Rafizi:** Tak pernah melupakan...
-
-**Haziq:** Ha, ya. Jerat tak pernah melupakan pelanduk. Dua-dua pun boleh. Ha, dua-dua pun boleh.
-
-**Rafizi:** Tetapi sebenarnya ia "jerat tak pernah melupakan pelanduk." Erm, ya, mungkin orang yang mempunyai pandangan sedemikian, itu bezanya. Kita tidak boleh menyalahkan orang ramai yang mempunyai pandangan seperti ini, sebab mereka bukan ahli politik, dan mereka tidak berada di medan perang sepanjang hidup mereka. Jadi pandangan mereka ialah apa yang mereka tahu, maklumat setakat yang mereka ada pada masa itu.
+**Rafizi:** Tetapi sebenarnya ia "jerat tak pernah melupakan pelanduk." ya, mungkin orang yang mempunyai pandangan sedemikian, itu bezanya. Kita tidak boleh menyalahkan orang ramai yang mempunyai pandangan seperti ini, sebab mereka bukan ahli politik, dan mereka tidak berada di medan perang sepanjang hidup mereka. Jadi pandangan mereka ialah apa yang mereka tahu, maklumat setakat yang mereka ada pada masa itu.
 
 Saya telah melalui semua komen seperti itu sejak dari awal saya dalam politik. Semasa PKR ditubuhkan pada 1999, itulah jawapan orang kepada saya. Malah, orang yang memberikan pandangan seperti itu pun, bukannya pandangan negatif, mereka sayangkan saya. "Kenapa kamu nak sia-siakan hidup kamu. Parti pelbagai kaum ini tidak ada tempat di Malaysia. Malaysia ini parti Melayu untuk Melayu, Cina untuk Cina, India untuk India. Kenapa kamu tidak masuk UMNO sahaja? Tidak ada orang pun yang mahu menyokong PKR ini. PKR ini hanyalah parti Anwar sahaja. Kamu semua kena tipu dengan Anwar sahaja." Saya telah mendengarnya sejak hari pertama. Kita berterusan bertahan, dan saya rasa pada tahap yang besar kita membuktikan orang salah.
 
 Sama juga contohnya semasa kita mula-mula membuat Invoke.
-
-**Farhan (Pa'an):** Hmm.
 
 **Rafizi:** Saya ingat semasa kita mula-mula membuat Invoke itu, hanya ada dua orang sahaja pemimpin PKR yang berani hadir. Saya rasa hanya Nik dan Wong Chen. Dua orang sahaja. Izzah, Kak Wan — tidak hadir. Walaupun pada masa itu, saya letak wang saya — saya keluarkan daripada tabung haji, kira-kira 2 juta, apa sahaja yang saya ada, dan letakkan semuanya ke dalam Invoke. Kemudian, bila turun berkempen ke bawah, yang UMNO dan PAS ketawakan saya itu satu hal. Orang PH pun ketawakan saya sebab mereka rasa mustahil tiga penjuru ini boleh menang. Kemudian kalau dalam PH, sama ada Melayu, Cina, India, komennya sama — "kamu siapa? Kamu bukan pemain berpasukan. Azmin, Menteri Besar, Timbalan Presiden, kamu ikut sajalah dia." Saya telah lalui semua ini. Orang kata tidak ada sokongan langsung. Sudah tentu. Sekarang, dengan manfaat hikmah kebelakangan, orang boleh cakap begitu. Tetapi maksud saya, dengan maklumat yang betul, kalau keputusan kita dibuat berasaskan pertimbangan berfakta, bukan emosi, kita ambil risiko yang sepatutnya, dan niat kita betul, maka terhasillah Invoke dan 2018 itu.
 
@@ -904,7 +738,7 @@ Sama juga 2022. Tiada siapa yang yakin, semua orang ketawakan sahaja. Malah, Izz
 
 **Haziq:** Ya, ya, ya, kenyataan beliau.
 
-**Rafizi:** Jadi, ia perkara biasa. Sebab itu, saya tidak tahu tentang ahli politik lain. Saya tidak boleh menjadi orang lain. Saya tidak boleh menjadi apa yang saya bukan, bukan? Hmm. Erm... Saya tidak pernah membuat keputusan berdasarkan sama ada popular atau tidak, mendapat sokongan atau tidak, semua itu. Sebab saya rasa mungkin orang faham bahawa saya melihat perkara-perkara agak berbeza daripada kebanyakan orang dalam politik di Malaysia. Seperti yang saya sebutkan tadi. Saya... saya tidak melihat kemenangan pilihan raya, menjadi PM, sebagai penamat segala-galanya. Saya melihatnya secara asasnya, saya diberikan satu set tugas. Ini sempadan hidup yang saya perlu navigasi. Ada perkara yang betul-betul, perkara yang salah-salah. Kemudian ia menjadi ujian terhadap diri saya sendiri. Maksud saya, ada peraturan-peraturan tertentu yang saya tidak boleh langgar. Ia seperti bermain permainan video. Jadi, sebenarnya anda bersaing dengan diri sendiri. Dan hasilnya, bagi saya, adalah hasil sampingan. Dan jika anda berfikir sebegitu, sebenarnya, maka anda menjadi jauh lebih fokus. Sebab itu saya rasa berbeza dengan orang lain. Saya sedikit lebih fokus daripada orang lain. Jika saya fikir sesuatu itu perkara yang betul untuk dilakukan, saya akan lakukan habis-habisan. Saya tidak peduli apa orang cakap. Jika saya perlu ke mahkamah, saya pergi ke mahkamah. Jika itu bermakna kerana ini perkara yang betul untuk dilakukan, saya perlu masuk penjara, saya masuk penjara. Kerana saya menyerahkan diri kepada apa jua yang Allah telah tetapkan. Dan jika anda mempunyai itu, ya, saya rasa jika anda dibawa sedemikian, maka saya rasa anda tidak begitu memberi perhatian kepada perkara-perkara seperti ini. Sebab itu saya mungkin salah seorang ahli politik yang paling disalah faham di Malaysia. Sebab orang kata saya merajuk, tidak berpasukan, emosional. Sebenarnya anda boleh tanya, anda yang bekerja di sekeliling saya. Saya sebenarnya tidak mempunyai emosi langsung. Betul. Boleh tanya, boleh tanya Farhan. Saya sebenarnya sangat tidak berperasaan dan tanpa emosi. Kadang-kadang terlalu brutal. Brutal. Sebab saya brutal ialah kerana saya tidak mempunyai emosi. Jadi... sama ada orang ada atau tidak, jika saya rasa itulah perkara yang sama, itu sesuatu yang perlu kita lakukan. Ambil contoh podcast ini. Ada satu peringkat pada bulan 8, siap bulan 9, semakin sunyi, tiada orang mendengar dan sebagainya. Saya tidak datang ke sini dan, anda tahu, kita semua merungut. Ia seperti okey, bagaimana untuk buat lebih baik, bagaimana untuk mengubah keadaan. Saya tidak tahu, akhirnya ia akan menjadi lebih baik. Saya tidak tahu. Tetapi akhirnya — ya, seperti yang saya katakan sebelum ini dalam 2-3 podcast yang lepas, lengkung dunia moral adalah panjang, tetapi ia bergantung kepada keadilan. Jadi maksudnya, kalau kamu tahu kamu tidak melakukan kesalahan, kamu sedang mencuba yang terbaik untuk kekal dalam prinsip tertentu, dan apa yang kamu lakukan sebenarnya adalah fardu kifayah — seseorang perlu mengatakannya. Dan kemudian kamu terus melakukannya dan kamu terus melakukannya dan kamu meluangkan seberapa banyak usaha yang mungkin. Sudah tentu kamu perlu yakin bahawa alam semesta ini adil. Kemudian akhirnya, hasil yang lebih baik akan diperoleh. Jadi saya rasa sebab itu soal hala tuju, soal selepas ini tiada orang menyokong, kamu selepas ini akan hilang, menjadi ahli politik nyamuk atau apa sahaja — sebenarnya, ia tidak langsung terlihat dalam pertimbangan saya. Sebab itu saya tidur malam nyenyak. Malah, saya lebih risau daripada — saya tidur malam begitu nyenyak, saya semakin gemuk.
+**Rafizi:** Jadi, ia perkara biasa. Sebab itu, saya tidak tahu tentang ahli politik lain. Saya tidak boleh menjadi orang lain. Saya tidak boleh menjadi apa yang saya bukan, bukan?. Saya tidak pernah membuat keputusan berdasarkan sama ada popular atau tidak, mendapat sokongan atau tidak, semua itu. Sebab saya rasa mungkin orang faham bahawa saya melihat perkara-perkara agak berbeza daripada kebanyakan orang dalam politik di Malaysia. Seperti yang saya sebutkan tadi. Saya. saya tidak melihat kemenangan pilihan raya, menjadi PM, sebagai penamat segala-galanya. Saya melihatnya secara asasnya, saya diberikan satu set tugas. Ini sempadan hidup yang saya perlu navigasi. Ada perkara yang betul-betul, perkara yang salah-salah. Kemudian ia menjadi ujian terhadap diri saya sendiri. Maksud saya, ada peraturan-peraturan tertentu yang saya tidak boleh langgar. Ia seperti bermain permainan video. Jadi, sebenarnya anda bersaing dengan diri sendiri. Dan hasilnya, bagi saya, adalah hasil sampingan. Dan jika anda berfikir sebegitu, sebenarnya, maka anda menjadi jauh lebih fokus. Sebab itu saya rasa berbeza dengan orang lain. Saya sedikit lebih fokus daripada orang lain. Jika saya fikir sesuatu itu perkara yang betul untuk dilakukan, saya akan lakukan habis-habisan. Saya tidak peduli apa orang cakap. Jika saya perlu ke mahkamah, saya pergi ke mahkamah. Jika itu bermakna kerana ini perkara yang betul untuk dilakukan, saya perlu masuk penjara, saya masuk penjara. Kerana saya menyerahkan diri kepada apa jua yang Allah telah tetapkan. Dan jika anda mempunyai itu, ya, saya rasa jika anda dibawa sedemikian, maka saya rasa anda tidak begitu memberi perhatian kepada perkara-perkara seperti ini. Sebab itu saya mungkin salah seorang ahli politik yang paling disalah faham di Malaysia. Sebab orang kata saya merajuk, tidak berpasukan, emosional. Sebenarnya anda boleh tanya, anda yang bekerja di sekeliling saya. Saya sebenarnya tidak mempunyai emosi langsung. Betul. Boleh tanya, boleh tanya Farhan. Saya sebenarnya sangat tidak berperasaan dan tanpa emosi. Kadang-kadang terlalu brutal. Brutal. Sebab saya brutal ialah kerana saya tidak mempunyai emosi. Jadi. sama ada orang ada atau tidak, jika saya rasa itulah perkara yang sama, itu sesuatu yang perlu kita lakukan. Ambil contoh podcast ini. Ada satu peringkat pada bulan 8, siap bulan 9, semakin sunyi, tiada orang mendengar dan sebagainya. Saya tidak datang ke sini dan, anda tahu, kita semua merungut. Ia seperti okey, bagaimana untuk buat lebih baik, bagaimana untuk mengubah keadaan. Saya tidak tahu, akhirnya ia akan menjadi lebih baik. Saya tidak tahu. Tetapi akhirnya — ya, seperti yang saya katakan sebelum ini dalam 2-3 podcast yang lepas, lengkung dunia moral adalah panjang, tetapi ia bergantung kepada keadilan. Jadi maksudnya, kalau kamu tahu kamu tidak melakukan kesalahan, kamu sedang mencuba yang terbaik untuk kekal dalam prinsip tertentu, dan apa yang kamu lakukan sebenarnya adalah fardu kifayah — seseorang perlu mengatakannya. Dan kemudian kamu terus melakukannya dan kamu terus melakukannya dan kamu meluangkan seberapa banyak usaha yang mungkin. Sudah tentu kamu perlu yakin bahawa alam semesta ini adil. Kemudian akhirnya, hasil yang lebih baik akan diperoleh. Jadi saya rasa sebab itu soal hala tuju, soal selepas ini tiada orang menyokong, kamu selepas ini akan hilang, menjadi ahli politik nyamuk atau apa sahaja — sebenarnya, ia tidak langsung terlihat dalam pertimbangan saya. Sebab itu saya tidur malam nyenyak. Malah, saya lebih risau daripada — saya tidur malam begitu nyenyak, saya semakin gemuk.
 
 **Farhan (Pa'an):** Bercakap tentang tidur malam nyenyak, sudah tiga jam. Okay.
 
@@ -914,31 +748,27 @@ Sama juga 2022. Tiada siapa yang yakin, semua orang ketawakan sahaja. Malah, Izz
 
 **Haziq:** Okey. Baiklah, YB sudah jelaskan refleksi dan pandangan YB tentang politik semuanya, tetapi dari segi satu lagi kerangka yang lebih besar — selain daripada bagaimana kita membawa diri sendiri, apakah politik sepatutnya — dalam mungkin kerangka yang lebih besar, tadbir urus atau apakah?
 
-**Rafizi:** Ya lah, ini pun sama juga seperti orang selalu cakap, "Dia ingat dia seorang saja yang bijak, dia ingat seorang saja." Sebenarnya ia mudah. Anda masuk satu bilik, katakanlah di tempat kerja, anda masuk satu bilik, anda ada satu masalah kan. Eh, kalau lelaki itu seorang saja yang ada pandangan, yang cuba menganalisis, dia berminat dan ada rasa ingin tahu untuk menyelesaikan masalah, takkan anda nak maki dia? Yang orang lain yang masuk tu duduk diam berkelip-kelip tak buat apa-apa tu? Maksud saya, itu sebenarnya keadaan saya selalunya. Saya ada pandangan tentang apa-apa sahaja masalah. Kalau tidak, tak payah berada dalam politik. Kalau dalam politik ni duduk untuk membontoti Perdana Menteri atau untuk naik pangkat, tapi tidak berminat dan tidak ada pandangan tentang perkara-perkara masyarakat ni, maka masalahnya di situ lah. Jadi saya berada dalam politik kerana sejak dulu saya rasa kita perlukan satu lonjakan sebenarnya kan. Kita perlukan lonjakan, kalau tidak kesian kepada rakyat, terutamanya generasi baharu. Dan saya sentiasa anggap diri saya sangat bertuah. Anda tahu, apa pun yang berlaku selepas ini, saya sudah pun menjalani kehidupan saya, saya sebenarnya hidup dengan selesa, saya ada beberapa kejayaan dalam hidup kan. Hidup pun dah cukup lah sampai saya bersara dan mati kan. Tetapi anda tidak boleh katakan perkara yang sama tentang ramai orang lain kan. Jadi kita perlukan lonjakan. Lonjakan dalam masyarakat dan negara supaya generasi akan datang akan jauh lebih baik daripada kita kan. Masalah kita dalam masyarakat ini ialah selalunya orang tidak suka memikirkan perkara-perkara yang bercita-cita besar, lonjakan iman ini atau perkara-perkara yang rumit. Ceritanya macam buat PADU, "Susah", itu jawapan dia kan. Tetapi saya rasa kalau kita tengok, eh, kenegaraan kita sebagai satu masyarakat kan. Saya selalu — malah saya berbual dengan isteri saya, sebab ini hujung minggu lepas, sebab kita sekarang ni jadi peminat sejarah, kita suka bercakap tentang sejarah, atas apa sebab sekalipun kan. Sebenarnya secara rasmi British campur tangan di Malaysia, di Tanah Melayu ini pada tahun 1874, semasa Perjanjian Pangkor kan, Sultan Abdullah pada masa itu, 1874. Bila Malaysia merdeka? Tahun 1957. Daripada 74 ke 57 itu bermakna 83 tahun. Jadi Malaysia merdeka selepas 83 tahun British secara rasmi campur tangan kan. Jadi bayangkan pada 1874 itu, Tanah Melayu ni kan, sekolah pun tak ada. Kan? Pada masa itu British dengan 100 orang askar sahaja boleh masuk boleh kawal semuanya. Maksudnya feudalnya kita pada tahun 1874 ini, tak ada konsep-konsep untuk mentadbir sendiri semua ini, pendidikan pun tak ada konsep itu, kecuali mungkin pendidikan agama secara tidak formal, mungkin pondok sana pondok sini, 1874. Menjelang 1950 — malah 1940-an, selepas Perang Dunia Kedua kan, maksudnya dalam tempoh saya ingat, dalam tempoh 70 tahun eh? Katakanlah 74, 70 tahun bermakna 44 lah eh? Ya lah, 1944 lah. 1944 kan. Dalam tempoh 70 tahun, masyarakat kita punya lonjakan iman ini daripada tidak pergi sekolah, kebanyakan orang tidak tahu membaca, rumah pun tak ada, kegiatan ekonomi sangat primitif kan. Menjelang 1944 kita sudah bercita-cita untuk mentadbir negara kita sendiri, merdeka, sudah ada sistem pentadbiran, sudah ada peguam, sudah ada semuanya. 70 tahun sahaja. Daripada apa ni, 74 hingga 57, apa ni, 83, cuba kira balik. 83 lah. 83 tahun. 74 ke 57 ialah 83 tahun. Kan? Susah betul dengan awak ni. Betul lah. 83 tahun kan, salah kira tadi. Dalam tempoh 83 tahun kita merdeka. Kan? Okey, untuk meletakkan perkara ini dalam konteks kan. Daripada 1957 sampai sekarang 2026, berapa tahun? 69. Tahun depan 70. Lonjakan iman yang masyarakat kita ada ini kan, daripada Perjanjian Pangkor pada 1874, dalam 70 tahun adalah sesuatu yang sama sekali tidak dapat dikenali sebagai satu masyarakat dari segi cita-cita besar, dari segi kerumitan masyarakat, dari segi anda tahu, pandangan dunia masyarakat kita, dalam tempoh 70 tahun tahu. Sekarang kita sudah 70 tahun daripada merdeka, 1957. Pemikiran kita lebih kurang sama sahaja tahu. Daripada zaman 70-an, 80-an, kita masih bergaduh tentang perkara yang sama. Kalau yang berkaitan perkauman itu masih bergaduh tentang perkara yang sama. Kita masih lagi mengejar perkara yang sama, kita masih lagi apa nama ni, bercakap tentang perkara yang sama. Dalam keadaan negara jiran kita seperti Vietnam melakukan jenis lonjakan iman yang kita lakukan dalam tempoh 70 tahun itu daripada Perjanjian Pangkor. Itulah masalah saya. Itulah sebabnya saya jadi begini dan itulah sebabnya saya berada dalam politik, kerana saya rasa kalau inilah trajektori negara kita, oi kesian kepada anak-anak nanti. Maksudnya, anda tahu, dalam 70 tahun yang lepas itu kita tidak melonjak ke hadapan, lonjakan iman kita tidak boleh dibandingkan pun dengan 70 tahun sebelum itu. Daripada zaman British hingga merdeka 1957. Jadi saya tinggalkan setiap orang dengan persoalan itu lah. Kalau rakyat kita berpuas hati dengan keadaan sekarang, maka baiklah. Maka anda mungkin betul lah. Hak anda lah untuk tidak suka pada saya. Tetapi jika saya kebetulan mempunyai cita-cita dan senarai hasrat yang lebih besar untuk masyarakat kita, untuk rakyat pada, anda tahu, generasi akan datang, saya rasa itu bukan salah saya. Sebab katakanlah, anda tahu, dalam 70 tahun itu daripada Perjanjian Pangkor 1874 kan, kalau bukan kerana orang-orang dahulu seperti Za'ba, Pak Sako, semua lah, Tunku Abdul Rahman, Tun Abdul Razak, termasuk Tun Mahathir — untuk berlaku adil pada zaman Jepun kan — kalau mereka tidak mempunyai cita-cita yang besar dan gila itu, kita tidak akan berada di tempat kita hari ini.
+**Rafizi:** Ya lah, ini pun sama juga seperti orang selalu cakap, "Dia ingat dia seorang saja yang bijak, dia ingat seorang saja." Sebenarnya ia mudah. Anda masuk satu bilik, katakanlah di tempat kerja, anda masuk satu bilik, anda ada satu masalah kan. Kalau lelaki itu seorang saja yang ada pandangan, yang cuba menganalisis, dia berminat dan ada rasa ingin tahu untuk menyelesaikan masalah, takkan anda nak maki dia? Yang orang lain yang masuk tu duduk diam berkelip-kelip tak buat apa-apa tu? Maksud saya, itu sebenarnya keadaan saya selalunya. Saya ada pandangan tentang apa-apa sahaja masalah. Kalau tidak, tak payah berada dalam politik. Kalau dalam politik ni duduk untuk membontoti Perdana Menteri atau untuk naik pangkat, tapi tidak berminat dan tidak ada pandangan tentang perkara-perkara masyarakat ni, maka masalahnya di situ lah. Jadi saya berada dalam politik kerana sejak dulu saya rasa kita perlukan satu lonjakan sebenarnya kan. Kita perlukan lonjakan, kalau tidak kesian kepada rakyat, terutamanya generasi baharu. Dan saya sentiasa anggap diri saya sangat bertuah. Anda tahu, apa pun yang berlaku selepas ini, saya sudah pun menjalani kehidupan saya, saya sebenarnya hidup dengan selesa, saya ada beberapa kejayaan dalam hidup kan. Hidup pun dah cukup lah sampai saya bersara dan mati kan. Tetapi anda tidak boleh katakan perkara yang sama tentang ramai orang lain kan. Jadi kita perlukan lonjakan. Lonjakan dalam masyarakat dan negara supaya generasi akan datang akan jauh lebih baik daripada kita kan. Masalah kita dalam masyarakat ini ialah selalunya orang tidak suka memikirkan perkara-perkara yang bercita-cita besar, lonjakan iman ini atau perkara-perkara yang rumit. Ceritanya macam buat PADU, "Susah", itu jawapan dia kan. Tetapi saya rasa kalau kita tengok, kenegaraan kita sebagai satu masyarakat kan. Saya selalu — malah saya berbual dengan isteri saya, sebab ini hujung minggu lepas, sebab kita sekarang ni jadi peminat sejarah, kita suka bercakap tentang sejarah, atas apa sebab sekalipun kan. Sebenarnya secara rasmi British campur tangan di Malaysia, di Tanah Melayu ini pada tahun 1874, semasa Perjanjian Pangkor kan, Sultan Abdullah pada masa itu, 1874. Bila Malaysia merdeka? Tahun 1957. Daripada 74 ke 57 itu bermakna 83 tahun. Jadi Malaysia merdeka selepas 83 tahun British secara rasmi campur tangan kan. Jadi bayangkan pada 1874 itu, Tanah Melayu ni kan, sekolah pun tak ada. Kan? Pada masa itu British dengan 100 orang askar sahaja boleh masuk boleh kawal semuanya. Maksudnya feudalnya kita pada tahun 1874 ini, tak ada konsep-konsep untuk mentadbir sendiri semua ini, pendidikan pun tak ada konsep itu, kecuali mungkin pendidikan agama secara tidak formal, mungkin pondok sana pondok sini, 1874. Menjelang 1950 — malah 1940-an, selepas Perang Dunia Kedua kan, maksudnya dalam tempoh saya ingat, dalam tempoh 70 tahun? Katakanlah 74, 70 tahun bermakna 44 lah? Ya lah, 1944 lah. 1944 kan. Dalam tempoh 70 tahun, masyarakat kita punya lonjakan iman ini daripada tidak pergi sekolah, kebanyakan orang tidak tahu membaca, rumah pun tak ada, kegiatan ekonomi sangat primitif kan. Menjelang 1944 kita sudah bercita-cita untuk mentadbir negara kita sendiri, merdeka, sudah ada sistem pentadbiran, sudah ada peguam, sudah ada semuanya. 70 tahun sahaja. Daripada apa ni, 74 hingga 57, apa ni, 83, cuba kira balik. 83 lah. 83 tahun. 74 ke 57 ialah 83 tahun. Kan? Susah betul dengan awak ni. Betul lah. 83 tahun kan, salah kira tadi. Dalam tempoh 83 tahun kita merdeka. Kan? Okey, untuk meletakkan perkara ini dalam konteks kan. Daripada 1957 sampai sekarang 2026, berapa tahun? 69. Tahun depan 70. Lonjakan iman yang masyarakat kita ada ini kan, daripada Perjanjian Pangkor pada 1874, dalam 70 tahun adalah sesuatu yang sama sekali tidak dapat dikenali sebagai satu masyarakat dari segi cita-cita besar, dari segi kerumitan masyarakat, dari segi anda tahu, pandangan dunia masyarakat kita, dalam tempoh 70 tahun tahu. Sekarang kita sudah 70 tahun daripada merdeka, 1957. Pemikiran kita lebih kurang sama sahaja tahu. Daripada zaman 70-an, 80-an, kita masih bergaduh tentang perkara yang sama. Kalau yang berkaitan perkauman itu masih bergaduh tentang perkara yang sama. Kita masih lagi mengejar perkara yang sama, kita masih lagi apa nama ni, bercakap tentang perkara yang sama. Dalam keadaan negara jiran kita seperti Vietnam melakukan jenis lonjakan iman yang kita lakukan dalam tempoh 70 tahun itu daripada Perjanjian Pangkor. Itulah masalah saya. Itulah sebabnya saya jadi begini dan itulah sebabnya saya berada dalam politik, kerana saya rasa kalau inilah trajektori negara kita, oi kesian kepada anak-anak nanti. Maksudnya, anda tahu, dalam 70 tahun yang lepas itu kita tidak melonjak ke hadapan, lonjakan iman kita tidak boleh dibandingkan pun dengan 70 tahun sebelum itu. Daripada zaman British hingga merdeka 1957. Jadi saya tinggalkan setiap orang dengan persoalan itu lah. Kalau rakyat kita berpuas hati dengan keadaan sekarang, maka baiklah. Maka anda mungkin betul lah. Hak anda lah untuk tidak suka pada saya. Tetapi jika saya kebetulan mempunyai cita-cita dan senarai hasrat yang lebih besar untuk masyarakat kita, untuk rakyat pada, anda tahu, generasi akan datang, saya rasa itu bukan salah saya. Sebab katakanlah, anda tahu, dalam 70 tahun itu daripada Perjanjian Pangkor 1874 kan, kalau bukan kerana orang-orang dahulu seperti Za'ba, Pak Sako, semua lah, Tunku Abdul Rahman, Tun Abdul Razak, termasuk Tun Mahathir — untuk berlaku adil pada zaman Jepun kan — kalau mereka tidak mempunyai cita-cita yang besar dan gila itu, kita tidak akan berada di tempat kita hari ini.
 
 **Haziq:** Betul, masalah juga kan?
 
-**Rafizi:** Ha. Jadi anda tahu, saya maksudkan kebarangkalian besar pada zaman 1920-an, zaman Munshi Abdullah menulis cerita yang membuka minda semua ini kan, zaman Za'ba semua, saya rasa ramai sahaja orang kita yang kata apa, Za'ba ini menjadi begini kan. Saya rasa ya, saya pasti. Kan, saya pasti ada sahaja orang, "Apalah dia ni, ni, ni kan, sebab dia rasa dia sahaja yang betul." Ha, ada ayat begitu. Tetapi biasanya jenis pemikiran itu selalu — saya rasa tidak salah untuk berharap dan bermimpi untuk sesuatu yang jauh lebih baik untuk orang selepas anda. Dan saya rasa itu — jika orang menyertai politik, itu saya rasa salah satu daripada beberapa keistimewaan mulia yang politik boleh tawarkan. Keistimewaan mulia itu bukanlah harta, pangkat, dan sebagainya kan. Ia adalah kebolehan untuk membayangkan sesuatu yang jauh lebih besar daripada diri sendiri. Kan, jadi itu kekal menjadi kerja dalam kemajuan sehingga sekarang kan. Selagi kita rasa, anda tahu, saya rasa kita ketinggalan, kita boleh buat jauh lebih baik untuk rakyat ini, maka saya rasa kita patut buat. Dan kita perlu berhenti di sini sebab saya sudah penat. Jadi kita jumpa hari Jumaat — eh, hari Jumaat pula, hari ini hari Jumaat. Kita jumpa hari Ahad, 17 Mei. Dewan itu akan penuh tahu, saya rasa dewan itu akan penuh lah. Jadi kalau mereka yang hadir tetapi tidak dapat tempat, saya minta maaf dan kita sama-sama duduk atas lantai lah kan.
+**Rafizi:** Ha. Jadi anda tahu, saya maksudkan kebarangkalian besar pada zaman 1920-an, zaman Munshi Abdullah menulis cerita yang membuka minda semua ini kan, zaman Za'ba semua, saya rasa ramai sahaja orang kita yang kata apa, Za'ba ini menjadi begini kan. Saya rasa ya, saya pasti. Kan, saya pasti ada sahaja orang, "Apalah dia ni, ni, ni kan, sebab dia rasa dia sahaja yang betul." Ha, ada ayat begitu. Tetapi biasanya jenis pemikiran itu selalu — saya rasa tidak salah untuk berharap dan bermimpi untuk sesuatu yang jauh lebih baik untuk orang selepas anda. Dan saya rasa itu — jika orang menyertai politik, itu saya rasa salah satu daripada beberapa keistimewaan mulia yang politik boleh tawarkan. Keistimewaan mulia itu bukanlah harta, pangkat, dan sebagainya kan. Ia adalah kebolehan untuk membayangkan sesuatu yang jauh lebih besar daripada diri sendiri. Kan, jadi itu kekal menjadi kerja dalam kemajuan sehingga sekarang kan. Selagi kita rasa, anda tahu, saya rasa kita ketinggalan, kita boleh buat jauh lebih baik untuk rakyat ini, maka saya rasa kita patut buat. Dan kita perlu berhenti di sini sebab saya sudah penat. Jadi kita jumpa hari Jumaat — hari Jumaat pula, hari ini hari Jumaat. Kita jumpa hari Ahad, 17 Mei. Dewan itu akan penuh tahu, saya rasa dewan itu akan penuh lah. Jadi kalau mereka yang hadir tetapi tidak dapat tempat, saya minta maaf dan kita sama-sama duduk atas lantai lah kan.
 
 **Haziq:** Biar ada lantai boleh duduk.
 
-**Rafizi:** Boleh, boleh, boleh, boleh kan. Tetapi jangkaan kita nampaknya macam dewan itu akan penuh. Tetapi bagi mereka yang tidak dapat hadir sendiri, jangan lupa untuk mengikuti secara langsung di YouTube saya. Sebab kita tahu lah ramai orang sekarang menonton secara langsung. Siaran langsung kita akan bermula mungkin seawal 1.30 kut eh?
-
-**Farhan (Pa'an):** 1.45.
-
-**Rafizi:** 1.45 kan, 1.45. Pukul 2.00 kita bermula secara rasmi. Pukul 1.00 orang sudah datang, 1.45 siaran langsung kita bermula. Dan saya juga menjemput sebanyak mungkin penyiar langsung untuk datang kan, supaya bukan sahaja di saluran saya tetapi di saluran-saluran YouTube seramai mungkin datang lah.
+**Rafizi:** Boleh, boleh, boleh, boleh kan. Tetapi jangkaan kita nampaknya macam dewan itu akan penuh. Tetapi bagi mereka yang tidak dapat hadir sendiri, jangan lupa untuk mengikuti secara langsung di YouTube saya. Sebab kita tahu lah ramai orang sekarang menonton secara langsung. Siaran langsung kita akan bermula mungkin seawal 1.30 kut? 1.45 kan, 1.45. Pukul 2.00 kita bermula secara rasmi. Pukul 1.00 orang sudah datang, 1.45 siaran langsung kita bermula. Dan saya juga menjemput sebanyak mungkin penyiar langsung untuk datang kan, supaya bukan sahaja di saluran saya tetapi di saluran-saluran YouTube seramai mungkin datang lah.
 
 **Farhan (Pa'an):** Nak siarkan semula siaran itu?
 
 **Rafizi:** Dan bagi mereka yang mahu menyiarkan semula daripada YouTube saya, boleh siarkan semula kan. Dan kalau boleh monetize, monetize lah. Ambil lah duit daripada YouTube itu kan.
 
-**Haziq:** YB, ada yang tanya kenapa...
+**Haziq:** YB, ada yang tanya kenapa.
 
-**Rafizi:** Eh, panjangnya! Ada lagi?
+**Rafizi:** Panjangnya! Ada lagi?
 
 **Haziq:** Kenapa tarikh itu sama sahaja sebenarnya?
 
-**Rafizi:** Oh, kenapa tarikh itu sama. Oh, ini Chegubard lah yang tuduh. Cakap ini nak sabotaj sebab...
+**Rafizi:** Oh, kenapa tarikh itu sama. Oh, ini Chegubard lah yang tuduh. Cakap ini nak sabotaj sebab.
 
 **Haziq:** Risau betul lah.
 
@@ -950,19 +780,11 @@ Sama juga 2022. Tiada siapa yang yakin, semua orang ketawakan sahaja. Malah, Izz
 
 **Rafizi:** Ha, tetapi tahun lepas itu terbalik. Tahun lepas itu terbalik, kita memang semua orang tahu lah tahun lepas ada kempen saya di Sabah kan, 17 Mei. Tetapi Izzah dengan Amirudin Shari kemudian pergi umumkan pelancaran jentera PRN Sabah pada hari yang sama. Ya lah, tujuan dia supaya orang tidak pergi jumpa saya dan pergi ke sana lah. Masalahnya saya Pengarah Pilihan Raya pada masa itu kan. Jadi yang tahun lepas itu secara kategorinya saya boleh katakan bahawa itu mereka yang pilih tarikh. Tahun ini pertembungannya adalah sangat tidak berniat. Dia tidak tahu rancangan saya, jadi saya rasa itu sahaja tarikh yang mungkin Datuk Seri Anwar ada kelapangan pada bulan Mei ini untuk dijadikan cerita. Sebab itu saya kata, banyak perkara ini Allah yang tentukan dan ditakdirkan, bukan rancangan kita semua lah.
 
-**Haziq:** Dan masa pun lebih kurang eh?
+**Haziq:** Dan masa pun lebih kurang?
 
 **Rafizi:** Masa itu pun sebenarnya mereka tukar. Asalnya malam. Kita memang sudah tetapkan macam ini tarikh, tempat dan masa ini sejak pertengahan bulan dua, kita cuma tidak umumkan kepada orang kan. Yang itu notis awal Konvensyen Pakatan Harapan malam, pukul 8.00. Entah macam mana tukar saat akhir, itu lah kuasa Allah lagi. Sampai ke petang, sehinggakan kebarangkalian besar saya dengan Presiden PKR akan berucap lebih kurang pada masa yang sama kan. Okey, baiklah, itu sahaja lah kut. Jadi apa-apa pun yang penting datang pada hari Ahad ini.
 
-**Farhan (Pa'an):** Sekejap, tetapi kita mungkin perlu highlight. Minggu ini kita dengar pandangan dan luahan YB Raf.
-
-**Haziq:** Okey.
-
-**Farhan (Pa'an):** Minggu depan insya-Allah, kalau diizinkan, kita ada YB Nik sekali lah untuk mungkin...
-
-**Rafizi:** Boleh, boleh.
-
-**Farhan (Pa'an):** Boleh serang dia pula.
+**Farhan (Pa'an):** Sekejap, tetapi kita mungkin perlu highlight. Minggu ini kita dengar pandangan dan luahan YB Raf. Minggu depan insya-Allah, kalau diizinkan, kita ada YB Nik sekali lah untuk mungkin. Boleh serang dia pula.
 
 **Haziq:** Okey YB Nik, bersedia.
 
@@ -970,4 +792,4 @@ Sama juga 2022. Tiada siapa yang yakin, semua orang ketawakan sahaja. Malah, Izz
 
 **Haziq:** Ayuh, ayuh tidur. Selamat malam.
 
-**Rafizi:** Itu sahaja lah kut eh. Selamat malam, jumpa hari Ahad. Assalamualaikum warahmatullahi wabarakatuh wa maghfiratuh.
+**Rafizi:** Itu sahaja lah kut Selamat malam, jumpa hari Ahad. Assalamualaikum warahmatullahi wabarakatuh wa maghfiratuh.

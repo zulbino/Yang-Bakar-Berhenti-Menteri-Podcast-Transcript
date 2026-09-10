@@ -126,7 +126,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Actually, no need. The difference is, if the aid uses government funding — because the government has its own process, it will need to be audited later. For example, if it uses government funding or is part of a government programme, then that's also an issue. But you don't need to ask for a phone number or anything. Usually, as long as there's proof of receipt. Like for MPs or elected representatives giving contributions to NGOs or for activities, what the government requires is proof that it was done. Usually the report just needs a photo. But that's also risky — the photo could be of anyone, taken from anywhere. So in a case like this, I don't know whether this food box was from a government allocation or not. But for members of the public receiving it, it's good to ask, "Whose allocation is this really? Who's giving it?" So that when they ask for a phone number or IC, they can question it.
 
-**Haziq:** Okay, alright YB. That's PKR. Now PKR again. You guys are like — "nose not sharp, cheek pushed forward" [a Malay idiom for being overeager and undignified]. Related to seat distribution in Melaka. This is a statement from the AMK Chief — if you're sincere in negotiations, don't announce beforehand that you want to defend your seats. It's just that for Melaka, he's trying to be open, because PAS also says it won a lot of parliamentary seats, BN didn't win a single one. BN, meanwhile, says based on previous results, they've already won 21, a two-thirds majority. So there's a clash of strength there. It seems even the Chief Minister is open to PH too. It's just that the statement...
+**Haziq:** Okay, alright YB. That's PKR. Now PKR again. You guys are like — "nose not sharp, cheek pushed forward" [a Malay idiom for being overeager and undignified]. Related to seat distribution in Melaka. This is a statement from the AMK Chief — if you're sincere in negotiations, don't announce beforehand that you want to defend your seats. It's just that for Melaka, he's trying to be open, because PAS also says it won a lot of parliamentary seats, BN didn't win a single one. BN, meanwhile, says based on previous results, they've already won 21, a two-thirds majority. So there's a clash of strength there. It seems even the Chief Minister is open to PH too. It's just that the statement.
 
 **Rafizi:** Really, the Chief Minister said he's open to PH?
 
@@ -140,7 +140,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Because his line was, "This time let's marry properly with a kadi [officiate it properly]," something like that.
 
-**Rafizi:** He still hasn't moved on from his punchline that he was so happy about that day, "marry with a wedding reception." But yeah, when I look at all this, honestly I don't know what to say. It's not just about the party, but as politicians, we must have dignity, right? If it's gotten to the point where people feel the other side doesn't even want us, why are you still so eager? That's the image I feel has stuck to PKR, especially during the Johor state election. When UMNO decided to contest solo, PH's initial reaction was to quarrel over all sorts of things. I'm reluctant to use the word "sulking," but it's like a jilted lover — "We waited but you didn't want us, all our courting was for nothing." I think after Johor, after Melaka, surely we can see UMNO's strategy by now, right? It's clear, UMNO wants to build up its own strength. And if we were UMNO too, as I've always said, it's not logical for UMNO to sacrifice its own seats, no matter what argument we give — because they need to manage their internal situation. They have 21 elected reps, they're not going to sacrifice their own reps. Later when they contest in all the divisions, they'd lose. The reps who get dropped won't support them, they'll just hold a grudge. So I think that should be common sense for PKR and PH — we have to accept the fact that the existence of the so-called Madani Unity Government was actually due to the circumstances at the time. And that's not something foreign in other countries. When an election result doesn't produce a decisive winner and cooperation is needed, you cooperate, but then you need a detailed agreement, and afterward you go back to competing. But I think Datuk Seri Anwar, especially PKR, and people like Kamil and so on, gave too much weight to power. They felt that because Datuk Seri Anwar is Prime Minister, and supposedly PKR is "the Prime Minister's party," everyone would be willing to negotiate. And in the end it turned out like this. When the signal is clearly rejection, but one moment you say you want to negotiate, then the next moment you get angry saying it's not sincere. If we were UMNO, we'd say, "We never negotiated, don't want to..."
+**Rafizi:** He still hasn't moved on from his punchline that he was so happy about that day, "marry with a wedding reception." But yeah, when I look at all this, honestly I don't know what to say. It's not just about the party, but as politicians, we must have dignity, right? If it's gotten to the point where people feel the other side doesn't even want us, why are you still so eager? That's the image I feel has stuck to PKR, especially during the Johor state election. When UMNO decided to contest solo, PH's initial reaction was to quarrel over all sorts of things. I'm reluctant to use the word "sulking," but it's like a jilted lover — "We waited but you didn't want us, all our courting was for nothing." I think after Johor, after Melaka, surely we can see UMNO's strategy by now, right? It's clear, UMNO wants to build up its own strength. And if we were UMNO too, as I've always said, it's not logical for UMNO to sacrifice its own seats, no matter what argument we give — because they need to manage their internal situation. They have 21 elected reps, they're not going to sacrifice their own reps. Later when they contest in all the divisions, they'd lose. The reps who get dropped won't support them, they'll just hold a grudge. So I think that should be common sense for PKR and PH — we have to accept the fact that the existence of the so-called Madani Unity Government was actually due to the circumstances at the time. And that's not something foreign in other countries. When an election result doesn't produce a decisive winner and cooperation is needed, you cooperate, but then you need a detailed agreement, and afterward you go back to competing. But I think Datuk Seri Anwar, especially PKR, and people like Kamil and so on, gave too much weight to power. They felt that because Datuk Seri Anwar is Prime Minister, and supposedly PKR is "the Prime Minister's party," everyone would be willing to negotiate. And in the end it turned out like this. When the signal is clearly rejection, but one moment you say you want to negotiate, then the next moment you get angry saying it's not sincere. If we were UMNO, we'd say, "We never negotiated, don't want to."
 
 **Haziq:** Don't understand the language.
 
@@ -164,33 +164,21 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Which agency is this project under? Under the Kota Bharu Municipal Council?
 
-**Haziq:** This is directly under the state government. It's just that they're still looking for...
+**Haziq:** This is directly under the state government. It's just that they're still looking for.
 
 **Rafizi:** What's causing the delay in appointing the contractor?
 
 **Haziq:** They didn't explain. There are just two phases of work. The first phase is land improvement. So here I think there's also an issue. Apparently it's due to rain, they call it an act of God. So nothing can be done, why blame us.
 
-**Rafizi:** But they're the ones who chose the land. Because land matters really are — I remember before, when we had to approve a project, when all sorts of states asked for various things, including Kelantan — what we would really scrutinise was the land given. Because sometimes they'd ask for a school but give paddy field land. We wouldn't approve it, go find proper land, what government officers like to call "shovel-ready." Don't give us land then give us land in a hillside gap, then ask us to level the hill to finish it. Costs will be high, it'll be slow, all sorts of problems. So this land was chosen by the state government, they're the ones who provided it. So who's the contractor now?
+**Rafizi:** But they're the ones who chose the land. Because land matters really are — I remember before, when we had to approve a project, when all sorts of states asked for various things, including Kelantan — what we would really scrutinise was the land given. Because sometimes they'd ask for a school but give paddy field land. We wouldn't approve it, go find proper land, what government officers like to call "shovel-ready." Don't give us land then give us land in a hillside gap, then ask us to level the hill to finish it. Costs will be high, it'll be slow, all sorts of problems. So this land was chosen by the state government, they're the ones who provided it. So who's the contractor now? Not chosen yet? So how do they know it can be finished by 2028 then? That's their project planning. A projection, an estimate of how long.
 
-**Haziq:** Not yet chosen.
+**Haziq:** For the construction. For the land improvement, that's already been done, being worked on. The construction part.
 
-**Rafizi:** Eh, not chosen yet?
-
-**Haziq:** Not yet.
-
-**Rafizi:** So how do they know it can be finished by 2028 then? That's their project planning. A projection, an estimate of how long.
-
-**Haziq:** For the construction. For the land improvement, that's already been done, being worked on. The construction part...
-
-**Rafizi:** KB Sentral means the bus terminal, right?
-
-**Haziq:** Yes.
-
-**Rafizi:** Never mind, being late is fine, as long as it's done properly. So I suggest PAS use this as a tagline going into the election. PAS's GE16 campaign slogan should be, "Being late is fine, as long as it's done properly." But the problem is, it's been 40 years and it's still not done properly. The water supply still isn't fixed. I suppose it's clever too, "being late is fine as long as it's done properly," because if you bring up the water story, it really has been slow. Never mind, not properly done yet is also fine, because we want to make it proper, so a bit more delay is also fine.
+**Rafizi:** KB Sentral means the bus terminal, right? Never mind, being late is fine, as long as it's done properly. So I suggest PAS use this as a tagline going into the election. PAS's GE16 campaign slogan should be, "Being late is fine, as long as it's done properly." But the problem is, it's been 40 years and it's still not done properly. The water supply still isn't fixed. I suppose it's clever too, "being late is fine as long as it's done properly," because if you bring up the water story, it really has been slow. Never mind, not properly done yet is also fine, because we want to make it proper, so a bit more delay is also fine.
 
 **Haziq:** The water promise also keeps getting pushed back like that, right. Was supposed to be done by 2025, problem until 2028, now 2030.
 
-**Rafizi:** But none of this matters. Why are you making a fuss about this? None of it matters. Doesn't matter, doesn't matter. As long as...
+**Rafizi:** But none of this matters. Why are you making a fuss about this? None of it matters. Doesn't matter, doesn't matter. As long as.
 
 **Haziq:** Malay Islam.
 
@@ -204,7 +192,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** I'll have to go with the scam victims one. Beria for giving out food boxes. No, actually, giving something then registering people, that's always done. But getting caught out like this is embarrassing. Getting caught. Didn't they know beforehand that the recipient actually didn't want to join PKR? Even if they did, they should have thought about that first, right. Already caught out. If it's caught out like this, it'll definitely win Beria. Not clean. Not clean, not clean work.
 
-**Haziq:** Alright YB, settled. Let's look at two big issues this week, YB. One, YB will evaluate, YB will mark their exam paper, what's missing and what's not, regarding Tabung Haji. And second, we'll touch on the DAP convention issue this Sunday. Let's go to the first issue first, regarding...
+**Haziq:** Alright YB, settled. Let's look at two big issues this week, YB. One, YB will evaluate, YB will mark their exam paper, what's missing and what's not, regarding Tabung Haji. And second, we'll touch on the DAP convention issue this Sunday. Let's go to the first issue first, regarding.
 
 **Rafizi:** This is such a mess. All sorts of things going on there.
 
@@ -214,7 +202,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Not that they didn't score, they didn't even play, YB.
 
-**Rafizi:** They forfeited. Forfeited outright. Okay then. But even the one who "won" probably feels they won just because of the forfeit. When actually there are so many things we want to dissect tonight. So I think tonight we shouldn't just repeat what we covered in the last two...
+**Rafizi:** They forfeited. Forfeited outright. Okay then. But even the one who "won" probably feels they won just because of the forfeit. When actually there are so many things we want to dissect tonight. So I think tonight we shouldn't just repeat what we covered in the last two.
 
 **Haziq:** Two podcasts ago.
 
@@ -230,11 +218,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** It's just that the reason given was that a mere ministerial explanation wasn't enough, since there was no vote or anything. So what's YB's view on that?
 
-**Rafizi:** This is the part everyone gets angry at me for. I think the privilege I have now is that I can speak freely and try to analyse things from a perspective without bias — whether towards PH, BN, or PN. Let's look at the arguments given by the Leader of the Opposition and the PAS/PN MPs. Their reason was they asked for a postponement because they wanted the Prime Minister to be present. Second, their reason was, why debate this at all when there's no motion — just tabling and debating without any actual effect, since the RCI report had already been tabled publicly to the people. It's been two weeks, people have already read all of it. If I take that point first, there is some truth to it. Even if I were the opposition, say if the ones doing this at the time were PH as opposition and the government was BN or PN, that's exactly what the opposition would say. Meaning, when something gets escalated to the point of a special parliamentary sitting, it's not just about coming to give a speech, not just about the minister reading out the findings. The report has already been released. There must be action, there must be some follow-up from Parliament. That's why I'd agree there should have been a motion. I recall when we tabled the white paper too, among parliamentary instruments there's one called a white paper — it's not an act of any kind, it's merely a presentation on some issue or government plan. Even the white paper on the progressive wage policy had a motion and was voted on. So something as big as this, involving Tabung Haji, involving a huge financial liability, should have had a motion. So I understand if the opposition — they should indeed be angry. But then we ask the next question — should the parliamentary sitting be postponed just because the Prime Minister isn't present? That shouldn't be allowed either. For something this big, if it's already been scheduled, it should proceed as scheduled. So actually that's a tough call for the opposition too. If, for example, that day the situation were reversed — meaning Datuk Seri Anwar wasn't present and the opposition still took part, they'd have hammered it hard. Throughout the time I fought over Tabung Haji, MARA, 1MDB, Datuk Seri Najib wasn't there in front of me either, he never showed up. I hammered it hard anyway. And the good thing is, if what we're debating has solid facts and grounds as the opposition, the government won't even stand to counter us. That's why, back in the 1MDB days, mischievously, the Speaker and Deputy Speaker would sometimes give me 40 minutes — same as they gave the Leader of the Opposition, I recall. They gave a lot of time. It should have been 10, 15 minutes. Back in those days when all these scandals were surfacing, I have fond memories especially of two people — both from BN back then. The Speaker, Pandikar Amin, from Sabah. He was BN then. Then Datuk Seri Ismail...
-
-**Haziq:** Ismail Said, right?
-
-**Rafizi:** Right, Ismail Said, MP for Batu Kurau. Whenever it was my turn to speak, they knew I'd hammer Najib hard. But what should have been 15 minutes would become 40 minutes. With my usual trick, "10 more minutes, Mr. Speaker," "10 more minutes," and it'd turn into 40 minutes. So from my experience, even if the Prime Minister or anyone isn't there in front of you, hammer away — because it'll be recorded in the Hansard, the parliamentary record, and it becomes a record forever. So to me, Perikatan Nasional's reason for walking out because the Prime Minister wasn't present is really unacceptable. But what puzzles me too, which the government including BN and PH also needs to answer, is why wasn't there a motion? So the mystery here is, why no motion? And maybe it's because the Prime Minister was afraid there'd be a vote?
+**Rafizi:** This is the part everyone gets angry at me for. I think the privilege I have now is that I can speak freely and try to analyse things from a perspective without bias — whether towards PH, BN, or PN. Let's look at the arguments given by the Leader of the Opposition and the PAS/PN MPs. Their reason was they asked for a postponement because they wanted the Prime Minister to be present. Second, their reason was, why debate this at all when there's no motion — just tabling and debating without any actual effect, since the RCI report had already been tabled publicly to the people. It's been two weeks, people have already read all of it. If I take that point first, there is some truth to it. Even if I were the opposition, say if the ones doing this at the time were PH as opposition and the government was BN or PN, that's exactly what the opposition would say. Meaning, when something gets escalated to the point of a special parliamentary sitting, it's not just about coming to give a speech, not just about the minister reading out the findings. The report has already been released. There must be action, there must be some follow-up from Parliament. That's why I'd agree there should have been a motion. I recall when we tabled the white paper too, among parliamentary instruments there's one called a white paper — it's not an act of any kind, it's merely a presentation on some issue or government plan. Even the white paper on the progressive wage policy had a motion and was voted on. So something as big as this, involving Tabung Haji, involving a huge financial liability, should have had a motion. So I understand if the opposition — they should indeed be angry. But then we ask the next question — should the parliamentary sitting be postponed just because the Prime Minister isn't present? That shouldn't be allowed either. For something this big, if it's already been scheduled, it should proceed as scheduled. So actually that's a tough call for the opposition too. If, for example, that day the situation were reversed — meaning Datuk Seri Anwar wasn't present and the opposition still took part, they'd have hammered it hard. Throughout the time I fought over Tabung Haji, MARA, 1MDB, Datuk Seri Najib wasn't there in front of me either, he never showed up. I hammered it hard anyway. And the good thing is, if what we're debating has solid facts and grounds as the opposition, the government won't even stand to counter us. That's why, back in the 1MDB days, mischievously, the Speaker and Deputy Speaker would sometimes give me 40 minutes — same as they gave the Leader of the Opposition, I recall. They gave a lot of time. It should have been 10, 15 minutes. Back in those days when all these scandals were surfacing, I have fond memories especially of two people — both from BN back then. The Speaker, Pandikar Amin, from Sabah. He was BN then. Then Datuk Seri Ismail. Right, Ismail Said, MP for Batu Kurau. Whenever it was my turn to speak, they knew I'd hammer Najib hard. But what should have been 15 minutes would become 40 minutes. With my usual trick, "10 more minutes, Mr. Speaker," "10 more minutes," and it'd turn into 40 minutes. So from my experience, even if the Prime Minister or anyone isn't there in front of you, hammer away — because it'll be recorded in the Hansard, the parliamentary record, and it becomes a record forever. So to me, Perikatan Nasional's reason for walking out because the Prime Minister wasn't present is really unacceptable. But what puzzles me too, which the government including BN and PH also needs to answer, is why wasn't there a motion? So the mystery here is, why no motion? And maybe it's because the Prime Minister was afraid there'd be a vote?
 
 **Haziq:** Could be.
 
@@ -242,11 +226,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** YB, do you have a list of things that weren't debated? What was left out?
 
-**Rafizi:** Yes, yes, yes. I don't know, the kids, the wives watching this, complaining to me, "YB is talking too slowly." Have pity, this week let me speak slowly. Sick. Fever edition. Yes, if you want to talk about all the misconduct and damage that's already happened, that's already been done. It's all in the RCI. No point in having a 200-plus page report for nothing, it's all there. What we want to know is the two or three things that were raised and emphasised, and that have major sensitivity to the public. One, the thing that caused a stir for a while, is the zakat issue. Wasn't answered at all, right? Nobody touched on zakat?
-
-**Haziq:** Yes.
-
-**Rafizi:** Not even the MPs touched on zakat, right? I don't know, maybe they were warned not to bring up zakat or something, all these backbenchers. That's the loss when PAS MPs aren't present, because the ones with the most credibility to speak about zakat are PAS MPs. Actually, it's true — I read Tabung Haji's response. And Tabung Haji's response, even though it sounds defensive, I understand the implied meaning. My understanding of the implied meaning is this — they admit that yes, the zakat issue between 2014 and 2017 was problematic because of the change in contract, from mudharabah to wadiah yad dhamanah, before it was changed to wakalah at the end of 2019. So there is indeed a zakat issue that can be questioned, because when it was changed to wadiah yad dhamanah — around 2016, I think — the zakat paid by Tabung Haji was business zakat. Business zakat has a lower rate than savings/depositor zakat. So that means Tabung Haji doesn't dispute that point. It's just that their answer, we can understand it this way — they said this matter had been discussed and brought to the MKI. What's it called, the council meeting... what's the full name of MKI?
+**Rafizi:** Yes, yes, yes. I don't know, the kids, the wives watching this, complaining to me, "YB is talking too slowly." Have pity, this week let me speak slowly. Sick. Fever edition. Yes, if you want to talk about all the misconduct and damage that's already happened, that's already been done. It's all in the RCI. No point in having a 200-plus page report for nothing, it's all there. What we want to know is the two or three things that were raised and emphasised, and that have major sensitivity to the public. One, the thing that caused a stir for a while, is the zakat issue. Wasn't answered at all, right? Nobody touched on zakat? Not even the MPs touched on zakat, right? I don't know, maybe they were warned not to bring up zakat or something, all these backbenchers. That's the loss when PAS MPs aren't present, because the ones with the most credibility to speak about zakat are PAS MPs. Actually, it's true — I read Tabung Haji's response. And Tabung Haji's response, even though it sounds defensive, I understand the implied meaning. My understanding of the implied meaning is this — they admit that yes, the zakat issue between 2014 and 2017 was problematic because of the change in contract, from mudharabah to wadiah yad dhamanah, before it was changed to wakalah at the end of 2019. So there is indeed a zakat issue that can be questioned, because when it was changed to wadiah yad dhamanah — around 2016, I think — the zakat paid by Tabung Haji was business zakat. Business zakat has a lower rate than savings/depositor zakat. So that means Tabung Haji doesn't dispute that point. It's just that their answer, we can understand it this way — they said this matter had been discussed and brought to the MKI. What's it called, the council meeting. what's the full name of MKI?
 
 **Haziq:** The National Council for Islamic Religious Affairs.
 
@@ -258,7 +238,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Because YB might be among the first parties to raise the question of what work or duties are actually carried out by this Shariah Advisory Committee. So how can we help hold them accountable, YB?
 
-**Rafizi:** That's exactly why it should be — people aren't comfortable with this either. I've always held the view that there must be accountability, responsibility. Sometimes there's a dogma, a mindset or a current in our society — if something involves Islam and is embarrassing, we hide it. It'll create a bad image of Islam later. I disagree. It's as if we're giving the impression that if the ones managing it are religious figures, then they're exempt from accountability. Even if they do wrong, even if they're sleeping on the job, it's fine. So how do we ensure going forward that the people entrusted with Islamic finance matters, shariah compliance, Islamic financing, are truly careful and genuinely fearful about the trust placed in them — because if this kind of thing happens repeatedly, then you don't need non-Muslims to belittle Islam. Muslims themselves will feel, "Hmm, so that's how it is, they just sign, sign, sign, let it through, sign, sign, sign." So it should be — that's why we can't just stay silent about this. People are unhappy that I bring it up. Because I noticed nobody mentioned the Shariah Advisory Committee. Shariah, not "syariat."
+**Rafizi:** That's exactly why it should be — people aren't comfortable with this either. I've always held the view that there must be accountability, responsibility. Sometimes there's a dogma, a mindset or a current in our society — if something involves Islam and is embarrassing, we hide it. It'll create a bad image of Islam later. I disagree. It's as if we're giving the impression that if the ones managing it are religious figures, then they're exempt from accountability. Even if they do wrong, even if they're sleeping on the job, it's fine. So how do we ensure going forward that the people entrusted with Islamic finance matters, shariah compliance, Islamic financing, are truly careful and genuinely fearful about the trust placed in them — because if this kind of thing happens repeatedly, then you don't need non-Muslims to belittle Islam. Muslims themselves will feel, "so that's how it is, they just sign, sign, sign, let it through, sign, sign, sign." So it should be — that's why we can't just stay silent about this. People are unhappy that I bring it up. Because I noticed nobody mentioned the Shariah Advisory Committee. Shariah, not "syariat."
 
 **Haziq:** If PAS had said something, maybe he would have mentioned it, but he didn't.
 
@@ -270,45 +250,25 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** It's there, just wait for it to go back up.
 
-**Rafizi:** Wait, wait. If the company...
+**Rafizi:** Wait, wait. If the company.
 
 **Farhan (Pa'an):** Unrealised loss. If you don't sell.
 
-**Rafizi:** Right, that's why accounting over the years — I mentioned this before, especially after Enron. As a result of what happened during Enron, where assets on paper actually had no value anymore — that's why financial reporting standards and regulations require us to book unrealised or realised losses directly in the income statement. That income statement, when there's a loss, will show up directly on the balance sheet. But in the financial statements, it will show which is realised and which is unrealised — for example, if there's a RM100 million loss due to a drop in share price. But that is indeed the standard. We also know, if we have RM100 million in shares and the price drops to RM2 million, that RM100 million is gone. That's why we want to sell shares — if we see it start to drop, we sell, we're not going to wait forever hoping it will go back up. So what I saw was only YB Hassan Karim asking questions, because this is central to the question of Tabung Haji's financial restructuring. Because what happened is this — Tabung Haji suffered losses, the figures vary depending on how you look at it. According to the statement in parliament by the Second Finance Minister, he said RM13 billion. My view is different — actually it's far larger than that. Because that RM13 billion figure takes into account that the government could return the assets that were taken over to Tabung Haji, so the gap is around RM13 billion. Actually, what needs to be looked at is what the government owes on its balance sheet to Tabung Haji — now it's more than RM20 billion. Those two sukuk papers, I recall, already exceed RM30 billion. So that's actually the loss borne by the government and the people — RM30 billion. But let's not go into the details of that. Let's go back to the concept of the restructuring that was done. The concept is that Tabung Haji used depositors' money to buy assets that have no value anymore — their value is far lower than what was paid for them before. Far lower due to several factors — we mentioned this two weeks ago, maybe there was corruption, maybe there were losses, or maybe the business was simply no longer competitive, especially those involving FGV. They bought at a high price, then FGV's performance wasn't good, so the price wouldn't go up. Or maybe due to oil and gas counters, prolonged losses meant the money invested was simply gone. So because of that, the assets were transferred to the government at a value of around RM10 plus how much — RM29 billion? What's 10 plus?
-
-**Farhan (Pa'an):** RM19 billion.
-
-**Rafizi:** 10 plus 11 — I've forgotten too, I'm running a fever. 10 plus 9 or however much? They were transferred at RM19 billion. About 20 billion. That's how the extra RM10 billion came about. So it was transferred to the government. The agreement was structured like this — the government needed to restore the value of those assets so that by the maturity date — as agreed back in 2018, there were two maturity dates: one in May 2026, another in May 2029 — the assets would have recovered, and only then would the government return them to Tabung Haji. So it was at no cost to the government, no bailout to the government. And if the government failed to restore the value, the government would have to take taxpayers' money to pay. Okay, now we know the government hasn't paid and the government has rolled it over. I just want to point out...
-
-**Haziq:** Okay.
-
-**Rafizi:** ...that this is something the Finance Minister has not answered at all. So far, I want to show it on screen for a while — I feel sorry for people, but I need to give an accounting and financial reporting class tonight, on how to read financial statements. All this while, the focus has only been on Tabung Haji — how much depositor money, reserves, and so on. So far I haven't seen anyone examine or dissect the government's performance in restoring the toxic assets it took over since 2019. Because PH claimed, "We're the ones who saved Tabung Haji." That's not saving Tabung Haji — you actually transferred that burden to the people. If PH wants to claim credit for saving Tabung Haji, and now the Madani Government is also backboned by PH, we need to look at the financial performance of UJSB, Urusharta Jamaah Sendirian Berhad, from 2019 to 2025. So in between bouts of fever, I went and downloaded, I bought all the audited financial statements from the first one in 2019 to the latest in 2025, and I've helped organise them because reading them is really confusing unless you're actually in that field — so we can assess the performance of the governments, from PH to PN, BN, now Madani, in restoring these toxic Tabung Haji assets. This really doesn't show our faces, it only shows this.
+**Rafizi:** Right, that's why accounting over the years — I mentioned this before, especially after Enron. As a result of what happened during Enron, where assets on paper actually had no value anymore — that's why financial reporting standards and regulations require us to book unrealised or realised losses directly in the income statement. That income statement, when there's a loss, will show up directly on the balance sheet. But in the financial statements, it will show which is realised and which is unrealised — for example, if there's a RM100 million loss due to a drop in share price. But that is indeed the standard. We also know, if we have RM100 million in shares and the price drops to RM2 million, that RM100 million is gone. That's why we want to sell shares — if we see it start to drop, we sell, we're not going to wait forever hoping it will go back up. So what I saw was only YB Hassan Karim asking questions, because this is central to the question of Tabung Haji's financial restructuring. Because what happened is this — Tabung Haji suffered losses, the figures vary depending on how you look at it. According to the statement in parliament by the Second Finance Minister, he said RM13 billion. My view is different — actually it's far larger than that. Because that RM13 billion figure takes into account that the government could return the assets that were taken over to Tabung Haji, so the gap is around RM13 billion. Actually, what needs to be looked at is what the government owes on its balance sheet to Tabung Haji — now it's more than RM20 billion. Those two sukuk papers, I recall, already exceed RM30 billion. So that's actually the loss borne by the government and the people — RM30 billion. But let's not go into the details of that. Let's go back to the concept of the restructuring that was done. The concept is that Tabung Haji used depositors' money to buy assets that have no value anymore — their value is far lower than what was paid for them before. Far lower due to several factors — we mentioned this two weeks ago, maybe there was corruption, maybe there were losses, or maybe the business was simply no longer competitive, especially those involving FGV. They bought at a high price, then FGV's performance wasn't good, so the price wouldn't go up. Or maybe due to oil and gas counters, prolonged losses meant the money invested was simply gone. So because of that, the assets were transferred to the government at a value of around RM10 plus how much — RM29 billion? What's 10 plus? 10 plus 11 — I've forgotten too, I'm running a fever. 10 plus 9 or however much? They were transferred at RM19 billion. About 20 billion. That's how the extra RM10 billion came about. So it was transferred to the government. The agreement was structured like this — the government needed to restore the value of those assets so that by the maturity date — as agreed back in 2018, there were two maturity dates: one in May 2026, another in May 2029 — the assets would have recovered, and only then would the government return them to Tabung Haji. So it was at no cost to the government, no bailout to the government. And if the government failed to restore the value, the government would have to take taxpayers' money to pay. Okay, now we know the government hasn't paid and the government has rolled it over. I just want to point out. that this is something the Finance Minister has not answered at all. So far, I want to show it on screen for a while — I feel sorry for people, but I need to give an accounting and financial reporting class tonight, on how to read financial statements. All this while, the focus has only been on Tabung Haji — how much depositor money, reserves, and so on. So far I haven't seen anyone examine or dissect the government's performance in restoring the toxic assets it took over since 2019. Because PH claimed, "We're the ones who saved Tabung Haji." That's not saving Tabung Haji — you actually transferred that burden to the people. If PH wants to claim credit for saving Tabung Haji, and now the Madani Government is also backboned by PH, we need to look at the financial performance of UJSB, Urusharta Jamaah Sendirian Berhad, from 2019 to 2025. So in between bouts of fever, I went and downloaded, I bought all the audited financial statements from the first one in 2019 to the latest in 2025, and I've helped organise them because reading them is really confusing unless you're actually in that field — so we can assess the performance of the governments, from PH to PN, BN, now Madani, in restoring these toxic Tabung Haji assets. This really doesn't show our faces, it only shows this.
 
 **Farhan (Pa'an):** I'll put it aside for later.
 
 **Rafizi:** Right, people, don't miss seeing me and Haziq, because these figures are more important. It's fine if you don't see our faces. Because I need to take some time to explain this — it's confusing for people. All of this has been audited, signed off by the government. So these figures can't be said to be something I made up or slandered. Let me show you there are two main sections. The upper section is revenue, meaning income — how much revenue comes from these assets. Then the government grant — that's what's paid by the government — what the government promised, RM1 billion, RM1 billion, RM1 billion. Then the finance cost is the result of the assets taken over that the government promised to pay to Tabung Haji — that's the 4.05% yield he mentioned. That's why even though the nominal value of the sukuk might be RM10 billion, once it needs to be settled it becomes RM14 billion, because every year there's accrued income. The basic concept is this — Tabung Haji said, "I'm giving the government certain assets. You'll get revenue from those assets — even plantations will generate income. Pay that revenue back to me." That's what becomes the UJSB sukuk finance cost. In UJSB's accounts — this is UJSB's account, not Tabung Haji's — it's shown as finance cost from the UJSB sukuk.
 
-**Haziq:** Meaning it's separate from the asset — is it the business profit that they...
+**Haziq:** Meaning it's separate from the asset — is it the business profit that they.
 
 **Rafizi:** No, that's not it.
 
-**Farhan (Pa'an):** So basically Tabung Haji's assets or business are given to UJSB for them to run.
+**Farhan (Pa'an):** So basically Tabung Haji's assets or business are given to UJSB for them to run. So whatever revenue those assets generate, they give it back.
 
-**Rafizi:** Right, okay, correct.
+**Haziq:** So the revenue is an addition to.
 
-**Farhan (Pa'an):** So whatever revenue those assets generate, they give it back.
-
-**Haziq:** So the revenue is an addition to...
-
-**Rafizi:** It's paid back. It's hard talking to a lawyer. No, it's like this. Tabung Haji said, "You take my assets."
-
-**Haziq:** Yes.
-
-**Rafizi:** "You take my RM20 billion in assets." Even though the asset value had dropped — the real value was RM10 billion, but on paper Tabung Haji said, "You take my RM20 billion in assets. So if I held that asset, I should get this much income."
-
-**Haziq:** Right, right.
-
-**Rafizi:** "I don't care how you restore it, that's your problem. But please pay me this amount of income every year." All this is in millions. So the first line is income and other revenue — for example, dividends, interest, all go into revenue. Okay. The government grant is what the government pays as it should — according to the RCI, RM17 billion in allocations was approved to be paid to Tabung Haji.
+**Rafizi:** It's paid back. It's hard talking to a lawyer. No, it's like this. Tabung Haji said, "You take my assets." "You take my RM20 billion in assets." Even though the asset value had dropped — the real value was RM10 billion, but on paper Tabung Haji said, "You take my RM20 billion in assets. So if I held that asset, I should get this much income." "I don't care how you restore it, that's your problem. But please pay me this amount of income every year." All this is in millions. So the first line is income and other revenue — for example, dividends, interest, all go into revenue. Okay. The government grant is what the government pays as it should — according to the RCI, RM17 billion in allocations was approved to be paid to Tabung Haji.
 
 **Farhan (Pa'an):** Sorry, technical question. Does the government grant count as income to UJSB?
 
@@ -328,7 +288,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** 13.
 
-**Rafizi:** RM13 billion. At the very least, total assets should have reached RM18-19 billion by now. It needs to be settled twice — RM13 billion, then next RM14 billion, in 2029 another RM14 billion. So supposedly half of your assets need to be given back to Tabung Haji. By 2025 it should have become RM20 billion or more, because half needs to be given back. It only rose to RM11.6 billion. From RM10 billion...
+**Rafizi:** RM13 billion. At the very least, total assets should have reached RM18-19 billion by now. It needs to be settled twice — RM13 billion, then next RM14 billion, in 2029 another RM14 billion. So supposedly half of your assets need to be given back to Tabung Haji. By 2025 it should have become RM20 billion or more, because half needs to be given back. It only rose to RM11.6 billion. From RM10 billion.
 
 **Haziq:** Only rose to 11.
 
@@ -342,15 +302,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Right, why is that so?
 
-**Farhan (Pa'an):** Because your income isn't enough to cover...
+**Farhan (Pa'an):** Because your income isn't enough to cover.
 
 **Rafizi:** No, no, no, no, no. At the very beginning, at the start of 2019 — why did the assets total RM10 billion, but equity was negative RM10 billion? You were right that if you sold everything you'd still owe RM10 billion — why?
 
-**Farhan (Pa'an):** Because of the fair value...
+**Farhan (Pa'an):** Because of the fair value.
 
 **Rafizi:** Because it owed Tabung Haji RM20 billion. It took over, promised to pay Tabung Haji RM20 billion, but the assets it took were only worth RM10 billion. So that RM9.9, RM10 billion — that's the difference between the actual value of the assets taken over and what it owed Tabung Haji. That's what becomes that RM10 billion. So once you understand equity, it's quite simple. Because if every year the asset has been restored and generated good income and its value has risen, then that profit will reduce that negative equity.
 
-**Farhan (Pa'an):** So it should get smaller, smaller...
+**Farhan (Pa'an):** So it should get smaller, smaller.
 
 **Rafizi:** It gets smaller, smaller — ideally it becomes zero, or better still, becomes positive. Even if it's zero, that's fine, meaning when it's time to settle the debt, not a single cent from taxpayers' money is needed — you can just give the asset back. So look at what happened? It's growing bigger. Bigger. Right, so now we can show our faces. This is what disappoints me. First, not a single MP went to check this. This one can't be blamed on the RCI, because the RCI only covered up to 2022 when it was conducted.
 
@@ -360,11 +320,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** Sorry, just want to highlight — you mentioned 23 and 24 were considerably good years, right. But that's basically on paper, because it's just fair value gain.
 
-**Rafizi:** No, okay. Fair value gain is okay, we're going into detail here, right. Okay. Fair value gain has two types, Farhan — one realised, one unrealised. In the financial statement, that RM381 million or RM1.4 billion, in the disclosure notes it shows how much is realised, meaning how much has been sold and turned into cash, how much is still held. But you know another way of looking at it is looking at total assets. Because if it's been realised, sold, total assets will rise. But you know it's not really — if you look from 2022 to 2023, it only rose by about RM600 million. The big bump was 2024. So going back to this, why does total equity keep getting bigger and bigger?
-
-**Haziq:** Because...
-
-**Rafizi:** From RM9.96 billion in 2019 — meaning this gap, the hole that needs to be closed — RM9.96 billion in 2019 when UJSB first took over. By 2025, at the end of 2025, it's become RM13.2 billion. That's an extra RM3 billion. Yet 2023 and 2024 had — well, no, 2024 had a profit of RM950 million — but why does that hole keep getting bigger, bigger, bigger?
+**Rafizi:** No, okay. Fair value gain is okay, we're going into detail here, right. Okay. Fair value gain has two types, Farhan — one realised, one unrealised. In the financial statement, that RM381 million or RM1.4 billion, in the disclosure notes it shows how much is realised, meaning how much has been sold and turned into cash, how much is still held. But you know another way of looking at it is looking at total assets. Because if it's been realised, sold, total assets will rise. But you know it's not really — if you look from 2022 to 2023, it only rose by about RM600 million. The big bump was 2024. So going back to this, why does total equity keep getting bigger and bigger? From RM9.96 billion in 2019 — meaning this gap, the hole that needs to be closed — RM9.96 billion in 2019 when UJSB first took over. By 2025, at the end of 2025, it's become RM13.2 billion. That's an extra RM3 billion. Yet 2023 and 2024 had — well, no, 2024 had a profit of RM950 million — but why does that hole keep getting bigger, bigger, bigger?
 
 **Haziq:** They want to pay the sukuk that's being rolled over for longer?
 
@@ -374,11 +330,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Well, that's one. What else?
 
-**Farhan (Pa'an):** The finance cost keeps increasing without...
+**Farhan (Pa'an):** The finance cost keeps increasing without.
 
 **Rafizi:** Right, that finance cost. Meaning when UJSB took over, the government's commitment was that those assets would be restored to pay annual income to Tabung Haji. That amount needs to be accrued. Let's look at 2019 — no need to look at the gains and losses below, because those can be argued as being on paper, depending on share price fluctuations. Revenue and other income are actually from real assets — from property, dividends, subsidiaries, fixed income. Look, not a single year did revenue and other income manage to cover UJSB's commitment to Tabung Haji just for finance cost alone. 2019, revenue RM230 million, but needed to pay Tabung Haji RM473 million. 2020 was even worse, revenue only RM205 million, but at least in 2020 the government gave RM500 million. And then look, exactly as Farhan said, from 2024 to 2025, the commitment to pay Tabung Haji keeps getting higher and higher. This counts the profit that needs to be paid to Tabung Haji — that RM10 billion principal needs to be paid, this too needs to be paid. But income keeps getting lower, lower, and the government isn't injecting money.
 
-**Haziq:** And because it's accrued, it will accumulate. So it keeps getting bigger and bigger over time...
+**Haziq:** And because it's accrued, it will accumulate. So it keeps getting bigger and bigger over time.
 
 **Rafizi:** Bigger and bigger. That's what happens when it's rolled over to 2036, that's what will exceed RM30 billion plus. So now we can show our faces, right? Okay. That's why the question is — people don't like hearing me say this. This is what I hope the Finance Minister, Datuk Seri Anwar or Second Finance Minister, Datuk Seri Amir Hamzah, will answer. This is what's called kicking the can down the road. We announce to people, oh everyone's beating their chest, saying we've successfully saved Tabung Haji. How is that so? You transferred the problem to the government.
 
@@ -386,15 +342,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Well, not necessarily. Because remember what we said before, and the Royal Commission actually pointed that out. Actually, Tabung Haji's balance sheet and income statement are paper. Tabung Haji's assets, even though they appear to be RM101 billion, 23%, about RM24 billion plus, are paper. That paper depends on the government's ability to pay it back. The government's ability to pay back depends on only two things. One, whether it has successfully restored Tabung Haji's assets — which we know it hasn't — or if it can't, the government has to set aside money and allocations and pay. Again, we know it can't. So if this rolls out 10 years, 20 years from now, Tabung Haji's assets are still paper value. It will end up becoming like PTPTN one day. Eventually it will become a major risk to our financial system. And no one is asking, no one is answering, no one wants to make noise about this. What we want to know from the government — supposedly the great thing now, we should know one, how do we close this total equity that keeps getting bigger, digging a deeper and deeper hole. And if the government doesn't fulfil its commitment — on paper it says it will allocate RM1 billion, RM1 billion, but you give only RM500 million, RM230 million — then eventually, someone has to deal with this.
 
-**Farhan (Pa'an):** Sorry, I have a question that's been on my mind, but I don't know how to convey the question. Because let's say I run a business and my assets are all non-performing and I owe a lot — isn't it better for me to just cut my losses and then just wind up and close shop? We're not talking about Tabung Haji...
+**Farhan (Pa'an):** Sorry, I have a question that's been on my mind, but I don't know how to convey the question. Because let's say I run a business and my assets are all non-performing and I owe a lot — isn't it better for me to just cut my losses and then just wind up and close shop? We're not talking about Tabung Haji.
 
 **Rafizi:** Who's supposed to cut losses here? UJSB?
 
-**Farhan (Pa'an):** UJSB. Because this is basically...
+**Farhan (Pa'an):** UJSB. Because this is basically.
 
 **Rafizi:** That's your business, okay you bear it — the people. Cut losses meaning it's true, I mean I understand what you're saying. Cutting losses means you have to accept reality, the government has to inject extra — if the current assets are only RM11 billion, and the commitment has become maybe RM27-28 billion, meaning the government has to take RM16-17 billion and pay it. That's what's called cutting the losses.
 
-**Haziq:** What they're not doing is based on the commitment...
+**Haziq:** What they're not doing is based on the commitment.
 
 **Rafizi:** Not doing it, rolling over instead. Rolling over. So to PAS and UMNO — happy to become the government after this? You will inherit this problem. And it will end up like when I first showed the PTPTN cash flow in 2011. At that time PTPTN's debt liability was only RM20 billion, now it's more than RM40 billion. And if PTPTN can't pay, the government has to bail it out. Right? So this is another one that's on the government's balance sheet, because especially this sukuk, even though it doesn't have an explicit government guarantee, is still counted as a government commitment. The newly issued series, maturing in 2036, comes with, I think, an explicit government guarantee. So this really has around RM27 billion in government liability. The decision is whether the government continues to roll it over, or whether there's a government that can restore Tabung Haji's assets, or a decision has to be made that we start paying it off little by little. So this also answers people like Dr. Akmal Saleh who keep asking, "Where's the missing money? Where's the money that's gone?" Right, here it is. That liability — just because no one has been arrested and charged yet, doesn't mean the money or assets still exist. The assets and debt — sorry, the debt has been transferred to the people. It's just that the choice governments have, and it seems that's the current style, is to play politics. No one wants to tell the truth like this. People don't like it when we're the type who like to raise our hand and say, "Actually teacher, that's wrong, you know." They don't like it. The teacher, or the government, or people in power, if they say something is okay even when it's not, they want everyone to accept it. But somehow, sometime in the future, this will still need to be resolved.
 
@@ -440,7 +396,7 @@ But at the same time, actually Tabung Haji can take civil action. It can sue if 
 
 **Rafizi:** What do you mean by "this" — Tabung Haji or what?
 
-**Haziq:** Whatever fund — Tabung Haji, LTAT, all these involving public funds. Surely these boards can't just do whatever they want. Can't we have a regulatory body overseeing this, instead of having to set up an RCI for each one or wait for a whistleblower before this...
+**Haziq:** Whatever fund — Tabung Haji, LTAT, all these involving public funds. Surely these boards can't just do whatever they want. Can't we have a regulatory body overseeing this, instead of having to set up an RCI for each one or wait for a whistleblower before this.
 
 **Rafizi:** That's already there, every now and then. And actually, it's just that Tabung Haji is unique because Tabung Haji was not established as a fund manager. It was established to manage hajj affairs and the welfare of hajj pilgrims. So its source of authority, how its governance works, is set out in the Tabung Haji Act — I think the 1995 one, the latest version. That's why the RCI made several recommendations. So when Tabung Haji has become like this, and part of Tabung Haji's operations has a major impact on the country because of this issue, the RCI's recommendation is that it should also be supervised by the Minister of Finance, or Bank Negara, or the Securities Commission — because the regulators in Malaysia relevant to finance are the Securities Commission and Bank Negara. If there are matters of crime, corruption or misconduct, that falls under the MACC or the police, commercial crimes. So for me, the supervisor already exists — the regulator already exists, it's just that there's a loophole. In the current Act there's a loophole, and that loophole is what needs to be tightened up.
 
@@ -458,7 +414,7 @@ I don't think, even though the government says 70% has been implemented, I don't
 
 **Rafizi:** Right? Two episodes ago you said the same thing. If you don't know, I'm just making it up.
 
-**Haziq:** A statement without— eh, a qualified audit report statement.
+**Haziq:** A statement without— a qualified audit report statement.
 
 **Farhan (Pa'an):** A conditional audit report.
 
@@ -475,8 +431,6 @@ Because as I said earlier, like gold — when gold falls into a debt hole, even 
 But if I could guess, one consideration for an Auditor-General at that time might be that she would argue — if she gave a reprimanded report, a qualified audit report, that would mean the government's financial position would be thrown into chaos because it would suddenly be exposed to the liability of having to pay all depositors. So for the sake of the country and to ensure she didn't cause panic, she gave an unqualified report. Meaning everything is okay, but there's an "emphasis of matter," a few things that need attention. You know, I don't know whether anyone will bring this up or not. So it sounds direct. But Tan Sri Madinah was appointed by Datuk Seri Najib. And when she was appointed, if I'm not mistaken, there was controversy, because she was appointed after the 1MDB uproar. Try to check, she replaced Tan Sri Ambrin Buang, right? Try to check, and look at the controversy, because the controversy was reported.
 
 Before I say this — I recall this from memory, because at the time I was still a Member of Parliament. Take a look — wasn't Tan Sri Madinah the one appointed by Datuk Seri Najib, who was questioned because her husband was the UMNO Kepong Division Chief?
-
-**Farhan (Pa'an):** Oh yes.
 
 **Rafizi:** Right? Isn't that so?
 
@@ -522,7 +476,7 @@ But before that, I don't know — but since this is political analysis, we can a
 
 **Rafizi:** They support what?
 
-**Haziq:** The one...
+**Haziq:** The one.
 
 **Farhan (Pa'an):** Unanimously supporting staying in the government. DAP Perak.
 
@@ -594,15 +548,13 @@ So in the end, if you think about it that way, DAP's consideration about leaving
 
 So based on these things, I don't think they'll withdraw from government until Datuk Seri Anwar loses his majority and the government falls. The most they will do is withdraw from cabinet. Because MCA did that before too.
 
-**Haziq:** Oh.
-
 **Rafizi:** MCA did it before, after 2008. There was a time MCA rejected positions. But it didn't change the situation at all. So I think that too, if DAP leadership thinks it through carefully, they'll feel it serves no purpose. You either leave entirely and burn bridges with Anwar Ibrahim and PH, and protect your turf, and accept a future as the opposition — but at least you won't get wiped out like MCA. Or you stay. I don't think being in between — that is, supporting Datuk Seri Anwar as Prime Minister and being in PH, but "we won't accept positions" — I mean, what purpose would that serve? So in the end I think, that's why Datuk Seri Saifuddin seems confident. So there you go, I've said it.
 
 **Haziq:** But there will be unintended consequences.
 
 **Rafizi:** Oh, of course, that and its unintended consequences. From now on I forbid you from saying the words "unintended consequences."
 
-**Farhan (Pa'an):** Sorry. Because, consider the scenario — if DAP withdraws support, the PH government falls. If, let's say, hypothetically, the second biggest bloc is PAS — right? PN, eh PN. So let's say suddenly they decide — PH decides, "Okay, DAP's out," PKR decides, "Okay, let's work together with PN instead and offer them cabinet positions."
+**Farhan (Pa'an):** Sorry. Because, consider the scenario — if DAP withdraws support, the PH government falls. If, let's say, hypothetically, the second biggest bloc is PAS — right? PN, PN. So let's say suddenly they decide — PH decides, "Okay, DAP's out," PKR decides, "Okay, let's work together with PN instead and offer them cabinet positions."
 
 **Rafizi:** I think that's the aspiration and also the so-called black-ops or strategies, perhaps from some people within PKR. But I think they're dreaming. Because I don't think PAS would accept Datuk Seri Anwar. Otherwise, I don't think Datuk Seri Hadi Awang would agree to accept Datuk Seri Anwar as Prime Minister. Because let's say PKR now has how many? Take away our three people, 31 minus 3, leaves 28. Add Amanah, how many? 8? 36. If PAS merely wanted to be part of the government, in a situation where they're confident there's a wave of Ummah Unity between PAS and UMNO now, and also Muafakat now — why would they give Datuk Seri Anwar and PKR another lease of life, in a situation where PKR and PH have already lost in Sabah, Johor and Negeri Sembilan? Better to just dissolve parliament entirely. Because the upside of dissolving and directly forming a government together with PAS, UMNO and Muafakat is far better than sitting as minister for a few months only.
 
@@ -616,11 +568,11 @@ So I think that's a fantasy some people in PKR are calculating. Better we — un
 
 **Rafizi:** You're paying attention to Ramanan. Going by Ramanan, PKR should win 80 seats. I think Ramanan let it slip, because I think really — most probably the instruction to Ramanan is, "please don't open your mouth, please don't open your mouth." I think there really is a fantasy among PKR people — "it's fine, we don't need DAP, because after this there's really no one else who can be Prime Minister except Anwar. So after this, no DAP, PAS and UMNO will join us." I don't think that's the case.
 
-**Haziq:** YB, sorry, if we try to revive from where...
+**Haziq:** YB, sorry, if we try to revive from where.
 
 **Rafizi:** Now there are mosquitoes too.
 
-**Haziq:** Where did DAP's special convention actually come from? It emerged early in the year, at the time when they lost badly in Sabah, and at that time UMNO was still supporting the Unity Government, not looking like it would contest separately. And DAP at that time was quite gung-ho. Except perhaps the manipulative variable was when UMNO suddenly no longer wanted to support Datuk Seri Anwar, meaning they contested against PN. That might have actually calmed DAP down a bit. So my question is, if UMNO hadn't made the decision it made today...
+**Haziq:** Where did DAP's special convention actually come from? It emerged early in the year, at the time when they lost badly in Sabah, and at that time UMNO was still supporting the Unity Government, not looking like it would contest separately. And DAP at that time was quite gung-ho. Except perhaps the manipulative variable was when UMNO suddenly no longer wanted to support Datuk Seri Anwar, meaning they contested against PN. That might have actually calmed DAP down a bit. So my question is, if UMNO hadn't made the decision it made today.
 
 **Rafizi:** That's such a roundabout way of putting it. I've had to listen to that for so long. What's your question?
 
@@ -628,13 +580,13 @@ So I think that's a fantasy some people in PKR are calculating. Better we — un
 
 **Rafizi:** I don't understand.
 
-**Haziq:** I mean...
+**Haziq:** I mean.
 
 **Rafizi:** Say it again, but please don't try to simplify it so I can understand it more easily.
 
 **Haziq:** Would DAP's decision, as YB said earlier, likely be status quo — but would that analysis be different if UMNO hadn't taken the stance it has today?
 
-**Rafizi:** Oh, no. If, for example, UMNO remained chummy or remained at peace within the Unity Government...
+**Rafizi:** Oh, no. If, for example, UMNO remained chummy or remained at peace within the Unity Government.
 
 **Haziq:** At peace, going into the election together with the Unity Government. And that trend is already visible, YB. For example in Johor, DAP didn't lose that badly, but the cost afterwards fell mostly on PKR and Amanah. Same with Negeri Sembilan. Malay [seats] all lost for PKR, but DAP didn't lose as badly compared to PKR and Amanah.
 
@@ -646,11 +598,7 @@ So I think that's a fantasy some people in PKR are calculating. Better we — un
 
 **Haziq:** Poor YB. Let's wrap up.
 
-**Rafizi:** That's right. Tomorrow I have to go to Melaka for a feast. To those watching, don't forget — tomorrow, I thought I was just joking, but it turns out it's really being taken seriously. Tomorrow I really have been assigned to wash dishes.
-
-**Farhan (Pa'an):** Yes.
-
-**Rafizi:** Why can't I cut onions?
+**Rafizi:** That's right. Tomorrow I have to go to Melaka for a feast. To those watching, don't forget — tomorrow, I thought I was just joking, but it turns out it's really being taken seriously. Tomorrow I really have been assigned to wash dishes. Why can't I cut onions?
 
 **Farhan (Pa'an):** Because the onions have already been cut.
 
@@ -658,7 +606,7 @@ So I think that's a fantasy some people in PKR are calculating. Better we — un
 
 **Haziq:** Early preparation because there was early preparation this morning.
 
-**Rafizi:** So...
+**Rafizi:** So.
 
 **Farhan (Pa'an):** It's fine, we'll give you three or four onions later.
 
@@ -676,41 +624,29 @@ So I think that's a fantasy some people in PKR are calculating. Better we — un
 
 **Haziq:** Yeah, let's fight it out. I want to fry too.
 
-**Rafizi:** I want to fry too, I want to experience frying too. So, to the people of Melaka, tomorrow we'll be at — what's that place called, Tanjung Piaduk or something?
-
-**Farhan (Pa'an):** Bukit Piatu.
-
-**Rafizi:** Bukit Piatu. Bukit Piatu, come on down. We'll start, I think from 9:00 am you can already come. I'll be bullied by these kids, they really enjoy it. All sorts of things they'll make me do — wash dishes, all of that. We'll have a feast together from 9:00 am to 4:00 pm. And it really is a proper feast. Some people got angry, mocking me, saying, "Why are you doing this like BN giving people free food?" Oh my goodness. We're cooking this ourselves. The purpose isn't to bribe voters. It's not like voters will vote for Bersama because they ate fried fish, right? We're the ones who have to cook it ourselves. Yes, we have to cook it ourselves. The purpose is to cultivate a culture of goodwill, so that people come, old and young, Malay, Chinese, Indian, all working together, people coming together. That's, I think, a good example from Bersama that we've seen over the past two, three months. Everything we do is through mutual cooperation, no one keeps score. And actually — even if voters don't turn out, for example, I think people feel good about it among Bersama members. But we hope people around — what's it called, Bukit Piatu, is that in Hang Tuah Jaya?
+**Rafizi:** I want to fry too, I want to experience frying too. So, to the people of Melaka, tomorrow we'll be at — what's that place called, Tanjung Piaduk or something? Bukit Piatu. Bukit Piatu, come on down. We'll start, I think from 9:00 am you can already come. I'll be bullied by these kids, they really enjoy it. All sorts of things they'll make me do — wash dishes, all of that. We'll have a feast together from 9:00 am to 4:00 pm. And it really is a proper feast. Some people got angry, mocking me, saying, "Why are you doing this like BN giving people free food?" Oh my goodness. We're cooking this ourselves. The purpose isn't to bribe voters. It's not like voters will vote for Bersama because they ate fried fish, right? We're the ones who have to cook it ourselves. Yes, we have to cook it ourselves. The purpose is to cultivate a culture of goodwill, so that people come, old and young, Malay, Chinese, Indian, all working together, people coming together. That's, I think, a good example from Bersama that we've seen over the past two, three months. Everything we do is through mutual cooperation, no one keeps score. And actually — even if voters don't turn out, for example, I think people feel good about it among Bersama members. But we hope people around — what's it called, Bukit Piatu, is that in Hang Tuah Jaya?
 
 **Haziq:** Hang Tuah Jaya, yes.
 
-**Rafizi:** Come in large numbers. From other places too, from Kota Melaka, from Alor Gajah — Melaka isn't that big. So come in large numbers. If you want to help wash dishes with me too, that's fine. How cruel, I'm running a fever and still have to wash dishes. Later don't let my wife complain, "Oh really, you don't even wash dishes at home." Hey, I wash dishes for myself, just for myself. But for everyone else's cooking, I won't wash those. Then tomorrow night...
+**Rafizi:** Come in large numbers. From other places too, from Kota Melaka, from Alor Gajah — Melaka isn't that big. So come in large numbers. If you want to help wash dishes with me too, that's fine. How cruel, I'm running a fever and still have to wash dishes. Later don't let my wife complain, "Oh really, you don't even wash dishes at home." Hey, I wash dishes for myself, just for myself. But for everyone else's cooking, I won't wash those. Then tomorrow night.
 
 **Farhan (Pa'an):** Oh, we also have futsal.
 
 **Rafizi:** We have futsal at the Bukit Berendam Sports Complex, Bukit Berendam. The prize is big, RM5,000, right? And what's important tomorrow night is, we'll be announcing Bersama's candidates for the Melaka state election. We're really starting earlier than everyone else. And you can watch all this live, you can watch it live, you know. And tomorrow there'll be IRL as usual. But then people will say, "How can you wash dishes while sneezing, the dishes will be full of germs?"
 
-**Farhan (Pa'an):** We'll provide hairnets and gloves and...
+**Farhan (Pa'an):** We'll provide hairnets and gloves and.
 
 **Haziq:** Masks, masks.
 
 **Rafizi:** So cruel. So cruel, you people are really merciless. So tomorrow, don't forget, from 9:00 am we'll already be there, whoever can make it to Bukit Piatu, come. If you can't make it, join us on IRL. Then the young ones at futsal together. And after this we'll really be doing this nationwide. It's also about goodwill — I think it's better for us to reach out to young people through sports events and so on. And the important thing tonight, the announcement, where's the address?
 
-**Farhan (Pa'an):** The parking area in front...
+**Farhan (Pa'an):** The parking area in front.
 
-**Rafizi:** At the parking area, we'll park our lorry in front of Hotel 906. Hotel 906 in Melaka Baru.
-
-**Farhan (Pa'an):** Melaka Baru.
-
-**Rafizi:** In Melaka Baru, because I've been informed there are many Hotel 906s, but in Melaka, this one is the hotel in Melaka Baru, Hotel 906. So God willing, my life will finally be complete. Oh, and to those in Penang — because from Melaka I have to shoot on Sunday morning, we have a Kancil convoy in Shah Alam.
+**Rafizi:** At the parking area, we'll park our lorry in front of Hotel 906. Hotel 906 in Melaka Baru. In Melaka Baru, because I've been informed there are many Hotel 906s, but in Melaka, this one is the hotel in Melaka Baru, Hotel 906. So God willing, my life will finally be complete. Oh, and to those in Penang — because from Melaka I have to shoot on Sunday morning, we have a Kancil convoy in Shah Alam.
 
 **Farhan (Pa'an):** Shah Alam in the morning.
 
-**Rafizi:** Shah Alam, then afternoon in Kota Raja, right?
-
-**Haziq:** Yes.
-
-**Rafizi:** Then the Kancil Tour in Penang at night. So to Bersama members in Kota Raja and also in Shah Alam, for those who haven't registered or confirmed attendance, you can do so on the Kancil app or on the Kancil community for those using the web version. And to those in Penang, it's open to the general public, you can register at bersama.org/kehadiran.
+**Rafizi:** Shah Alam, then afternoon in Kota Raja, right? Then the Kancil Tour in Penang at night. So to Bersama members in Kota Raja and also in Shah Alam, for those who haven't registered or confirmed attendance, you can do so on the Kancil app or on the Kancil community for those using the web version. And to those in Penang, it's open to the general public, you can register at bersama.org/kehadiran.
 
 **Haziq:** Okay, YB, get some rest. Good night.
 
@@ -720,6 +656,6 @@ So I think that's a fantasy some people in PKR are calculating. Better we — un
 
 **Rafizi:** Ha, the chopper's noisy outside. It sounds like it's talking.
 
-**Farhan (Pa'an):** It's going... What?
+**Farhan (Pa'an):** It's going. What?
 
 **Rafizi:** It sounds like "awak, awak" [you, you]. Ha, that's actually true, isn't it.

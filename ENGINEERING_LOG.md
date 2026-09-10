@@ -4227,3 +4227,15 @@ speaker's -- Haziq: "Ringgit." after Rafizi's "15,000 ringgit". The caption trac
 independent transcription, has the phrase twice for 40 of them: the co-host echoing the last
 word is a habit of the show, not a duplication. 16 have no caption witness either way and are
 left as MAI heard them (two voice clusters, distinct word times).
+
+**Corpus-wide, the same day.** The owner asked for the newspaper-copy rules on every episode.
+Deterministic, no model calls: 69 episodes, 495 retort turns dropped, 3,742 filler words
+removed, 648 slip-ins dropped, 1,034 same-speaker joins across the interview files. Two guards
+came out of reading the diff before committing. A slip-in carrying a figure -- `Iqbal: -35.`,
+`Rafizi: 46, awak 46.` -- was being dropped for interrupting a sentence although nobody around it
+repeats the number; five such lines. A figure now only goes when the surrounding speaker says
+it, and a diff check confirms every removed digit survives in the kept text (0 lost). And the
+pass was not idempotent: a join exposes a new sandwich, a drop makes two turns adjacent, so a
+second run changed ep62 again. It now runs to a fixpoint; a second pass over all 69 changes
+nothing. Baselines identical before and after: qa 0/69, check_figures 0/69, check_published's
+three pre-existing flags.

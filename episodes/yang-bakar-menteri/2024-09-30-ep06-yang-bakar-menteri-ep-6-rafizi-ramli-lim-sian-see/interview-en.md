@@ -70,17 +70,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Eric See-To:** My real name is Eric See-To.
 
-**Syed Munawar:** Okay, Dato', as it was said earlier.
+**Syed Munawar:** Okay, Dato', as it was said earlier. Okay, Dato' Eric See-To. Now, by revealing yourself, does that become a burden or a good opportunity for Lim Sian See?
 
-**Eric See-To:** Yes.
-
-**Syed Munawar:** Okay, Dato' Eric See-To. Now, by revealing yourself, does that become a burden or a good opportunity for Lim Sian See?
-
-**Eric See-To:** Actually, many media friends already know about my reveal. Before this, they wanted to quote from my postings but didn't dare because they knew the account was an anonymous one.
-
-**Syed Munawar:** Okay.
-
-**Eric See-To:** So, they've really been waiting for me to reveal myself.
+**Eric See-To:** Actually, many media friends already know about my reveal. Before this, they wanted to quote from my postings but didn't dare because they knew the account was an anonymous one. So, they've really been waiting for me to reveal myself.
 
 **Syed Munawar:** So when brought together with the Honourable Rafizi, it's officially revealed that Dato' Eric See-To is indeed Lim Sian See, which many may not have known. Dato' has already waved.
 
@@ -106,19 +98,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Syed Munawar:** Yes, you can look there. Okay, so YB, we can give it to Dato' Eric. Please, Dato'.
 
-**Eric See-To:** I want to tell YB, I'm not anti-YB. I'm not anti-government. Actually we're on the same journey. It's not because people like us — today the Madani government itself doesn't really have a distinct shape. The one that has real shape is PN. After GE15, we were the ones who worked hardest to be together with PH, not with PN. So, we're not enemies. What I don't like is that there are many points that have been distorted, that the public doesn't know, that have been factually wrong up until today, and I want to use this opportunity to correct them.
-
-**Syed Munawar:** Okay.
-
-**Eric See-To:** That's it.
+**Eric See-To:** I want to tell YB, I'm not anti-YB. I'm not anti-government. Actually we're on the same journey. It's not because people like us — today the Madani government itself doesn't really have a distinct shape. The one that has real shape is PN. After GE15, we were the ones who worked hardest to be together with PH, not with PN. So, we're not enemies. What I don't like is that there are many points that have been distorted, that the public doesn't know, that have been factually wrong up until today, and I want to use this opportunity to correct them. That's it.
 
 **Syed Munawar:** That was the preamble. Alright, initial response from YB?
 
-**Rafizi:** Just a moment, thank you. Syed Munawar who's put on 3 kilograms.
-
-**Syed Munawar:** Okay.
-
-**Rafizi:** Dato' Eric, I think this is actually a good opportunity for us to bring this process to the public, because for example there are matters that, when presented one-sidedly, only give one perspective. So if we're talking about facts that need correcting, it's best that they're corrected here. That's why we're indeed giving the opportunity through the Minister-to-be programme — if there's anything, come here, because context is actually important in whatever is being discussed.
+**Rafizi:** Just a moment, thank you. Syed Munawar who's put on 3 kilograms. Dato' Eric, I think this is actually a good opportunity for us to bring this process to the public, because for example there are matters that, when presented one-sidedly, only give one perspective. So if we're talking about facts that need correcting, it's best that they're corrected here. That's why we're indeed giving the opportunity through the Minister-to-be programme — if there's anything, come here, because context is actually important in whatever is being discussed.
 
 **Syed Munawar:** Okay. So thank you for that preamble. Just my response, perhaps representing the "Marhaen," the ordinary folks out there.
 
@@ -164,11 +148,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** I think brother Lim forgets that even though diesel has been floated, there are still many sectors whose prices remain subsidized quite heavily. Fishermen are still kept at RM1.60, I believe. Public transport is still kept at RM1.88. Logistics sectors are all maintained. Your argument earlier that the government is taxing is only valid if everything were floated 100% like it was done before. Now it's not floated 100% — only for private consumers. So if there's a difference in weekly prices, sometimes there's a surplus, sometimes there's a shortfall. So the net effect, whether it's an increase or decrease, still becomes the government's main expenditure in the form of diesel subsidy. Because diesel subsidy is still given, it's just targeted so that those who don't qualify don't get it — for example, sectors that shouldn't get subsidies, like construction. So if there's a surplus this week, whether it's carried forward to next week or that money is actually used to pay the still-billions-worth of subsidies to public transport and all the designated sectors, including also the Budi Madani payments. So this concept that's supposedly — this is what I mean by context not being given in full. He's only taking half of it, then using this whole MOPS story, without giving the real picture that the total cost to the government is still an expenditure because we haven't abolished the subsidy. We've only targeted it. If we want to be truly precise, of course once the report comes out, we then have to fix an exchange rate somehow. But usually, wherever pricing is set, it typically looks at the most recent report, then the price is fixed for the period ahead, and that lag exists. But the fluctuations still ultimately become government expenditure. So it's not a form of tax — it's still a government subsidy that year, whether it's 5 billion or 4 billion, because it's within the government's main expenditure calculation for the diesel subsidy that still exists.
 
-**Syed Munawar:** Yes, okay. We've been going for 20 minutes now, still on the topic of...
+**Syed Munawar:** Yes, okay. We've been going for 20 minutes now, still on the topic of.
 
 **Eric See-To:** When can I ask?
 
-**Syed Munawar:** You can, in my round...
+**Syed Munawar:** You can, in my round.
 
 **Rafizi:** This isn't just a session for the future Lim Sian See, this is also for the future Minister.
 
@@ -176,15 +160,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** We don't have another guest coming yet, but this is one-way. If there's a viewpoint, then I should be able to ask a question too.
 
-**Syed Munawar:** Earlier, Lim Sian See, hold on. Let's consider this the first round, these 20 minutes. So for the second round, I want to give space starting here, 3 minutes, then...
+**Syed Munawar:** Earlier, Lim Sian See, hold on. Let's consider this the first round, these 20 minutes. So for the second round, I want to give space starting here, 3 minutes, then.
 
-**Eric See-To:** Wait, I want to correct something YB said earlier...
+**Eric See-To:** Wait, I want to correct something YB said earlier.
 
 **Syed Munawar:** Is this a proposal or a question?
 
-**Eric See-To:** This is because YB...
+**Eric See-To:** This is because YB.
 
-**Rafizi:** No need to go to a second round. He's actually...
+**Rafizi:** No need to go to a second round. He's actually.
 
 **Syed Munawar:** Alright, I'll start with a fixed 3 minutes.
 
@@ -208,7 +192,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Syed Munawar:** Do you want to use the 3 minutes for this? Use up the 3 minutes, ask several questions. Okay.
 
-**Eric See-To:** Okay. That money was sent back to the sender 4 months after it was received. Okay. Pakatan Harapan never explained this to the public — that's number one. Number two, on 1MDB being a burden to the people — I want to ask, the amount of money valued as lost was actually 4.5 billion US dollars. Rafizi is the expert on this, right? How much have we recovered? According to the MACC, MACC's statement in February, 29.03 billion had been returned by that point. Then add another 700 million in June. Add another 100 million US, also in June, and just recently with the PetroSaudi case, 340 million USD. An estimated 31 billion has been returned out of the 4.5 billion said to be lost. Am I wrong? I'm not wrong because all this is from statements made during the Madani Government's time. Number two — after 1MDB, we also have assets, many assets like Bandar Malaysia, like 140 billion GDV, like TRX which has now become a Financial Centre. These are assets. YB previously accused 1MDB of buying the Bandar Malaysia land very cheaply, but that's not true, because YB didn't mention that among the conditions was that the developer had to build and upgrade 8 military bases, including building the very large Subang air base. All that is also included in 1MDB's costs. Number three — in Dato' Najib's current case, the one he's imprisoned for is the SRC case. He was said to be wrong for giving this RM42 million as a donation. This money was from SRC company, which had already been approved to be paid as CSR costs, which Najib also used for CSR. So, that means Dato' Najib is the first person to be imprisoned for giving money as a donation from money that had already been approved and paid for...
+**Eric See-To:** Okay. That money was sent back to the sender 4 months after it was received. Okay. Pakatan Harapan never explained this to the public — that's number one. Number two, on 1MDB being a burden to the people — I want to ask, the amount of money valued as lost was actually 4.5 billion US dollars. Rafizi is the expert on this, right? How much have we recovered? According to the MACC, MACC's statement in February, 29.03 billion had been returned by that point. Then add another 700 million in June. Add another 100 million US, also in June, and just recently with the PetroSaudi case, 340 million USD. An estimated 31 billion has been returned out of the 4.5 billion said to be lost. Am I wrong? I'm not wrong because all this is from statements made during the Madani Government's time. Number two — after 1MDB, we also have assets, many assets like Bandar Malaysia, like 140 billion GDV, like TRX which has now become a Financial Centre. These are assets. YB previously accused 1MDB of buying the Bandar Malaysia land very cheaply, but that's not true, because YB didn't mention that among the conditions was that the developer had to build and upgrade 8 military bases, including building the very large Subang air base. All that is also included in 1MDB's costs. Number three — in Dato' Najib's current case, the one he's imprisoned for is the SRC case. He was said to be wrong for giving this RM42 million as a donation. This money was from SRC company, which had already been approved to be paid as CSR costs, which Najib also used for CSR. So, that means Dato' Najib is the first person to be imprisoned for giving money as a donation from money that had already been approved and paid for.
 
 **Syed Munawar:** Dato's time for the question is up.
 
@@ -218,15 +202,13 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** I'm glad with Lim's answer. First, when he elaborated at length about how much money has been returned, he doesn't deny the fact that the money was only recovered after criminal cases and the government taking all sorts of legal action around the world. That means the money was misappropriated. That means, following Lim's logic, we can steal money, but as long as the money is returned, we're not wrong. That's not the concept. The concept is, a company that used the people's money supposedly to develop strategic national assets — that money was ultimately misappropriated, and some of it still cannot be traced to this day, and some of that money was used for personal interests, the same as, for example, SRC. I'm glad Lim brought up SRC, because SRC used the people's pension money, 4 billion. The reason given at the start — and I was in Parliament at that time — was to establish a strategic national asset company so that the country could have a company controlling world minerals. Eventually it was presented and announced that the companies invested in by SRC would control mines in Mongolia. To this day we haven't seen that mine in Mongolia. The money is gone. And in the end, some of that money went instead to companies like Ihsan Perdana, whose expenditures were traced to include paying millions of ringgit in credit card bills for personal expenses. So this is what I don't understand about Lim. That is to say, up to now, I can accept other things, but defending something that clearly happened and that we've already moved on from — whoever should be punished has been punished, the government needs to take action to recover the money, we're not repeating it — but when Lim insists on repeating something, that's what I still haven't gotten an answer from Lim Sian See on: what is actually his motive?
 
-**Syed Munawar:** Okay, 15 seconds. Okay, that's it there. So interestingly too, because YB didn't deny that the 2.6 billion has been returned, he doesn't deny that we got back even more than what was claimed to have been lost — 4.5 billion US versus 31 billion recovered, meaning this isn't a burden to the country. Then YB said that it was only after the PH 1.0 government took over that this money was recovered. No — that's wrong, because during the BN government in 2017, a settlement agreement between 1MDB and IPIC had already been signed, and in this agreement, 1MDB asked IPIC to return 7.5 billion US to Malaysia. But after PH 1.0 took over, they cancelled this agreement instead. IPIC did indeed owe Malaysia money. When the Madani Government started, we got back 8 billion from IPIC, meaning they paid. All the money that was lost or claimed to have been misappropriated was after being sent to IPIC and Aabar, or guaranteed by IPIC and Aabar, and all this is in the agreement. So my question is, why cancel that agreement, and why not want to disclose this settlement agreement to the public, that Dato' Najib had indeed already gotten that money back before the date of 30 December 2020? All this is in the agreement. Okay, we've finished 2 segments here, but for a round of almost 40 minutes, we have 20 minutes left. For this round, I intend to divide it into two — one question from Dato' answered in 3 minutes, and one question from YB answered in 3 minutes. Would you like to pose the next question? So I'll give...
+**Syed Munawar:** Okay, 15 seconds. Okay, that's it there. So interestingly too, because YB didn't deny that the 2.6 billion has been returned, he doesn't deny that we got back even more than what was claimed to have been lost — 4.5 billion US versus 31 billion recovered, meaning this isn't a burden to the country. Then YB said that it was only after the PH 1.0 government took over that this money was recovered. No — that's wrong, because during the BN government in 2017, a settlement agreement between 1MDB and IPIC had already been signed, and in this agreement, 1MDB asked IPIC to return 7.5 billion US to Malaysia. But after PH 1.0 took over, they cancelled this agreement instead. IPIC did indeed owe Malaysia money. When the Madani Government started, we got back 8 billion from IPIC, meaning they paid. All the money that was lost or claimed to have been misappropriated was after being sent to IPIC and Aabar, or guaranteed by IPIC and Aabar, and all this is in the agreement. So my question is, why cancel that agreement, and why not want to disclose this settlement agreement to the public, that Dato' Najib had indeed already gotten that money back before the date of 30 December 2020? All this is in the agreement. Okay, we've finished 2 segments here, but for a round of almost 40 minutes, we have 20 minutes left. For this round, I intend to divide it into two — one question from Dato' answered in 3 minutes, and one question from YB answered in 3 minutes. Would you like to pose the next question? So I'll give.
 
 **Eric See-To:** Number one. YB from PKR, PKR's Deputy President, meaning to uphold justice. If that 2.6 billion was sent back, why then was Dato' Najib's income tax — this 2.6 billion that came in from a foreign country assessed as income, but when sent back, it's said to be personal expenditure, and why was he charged 1.7 billion in income tax? If this is true, isn't this a very great injustice? And if YB is truly a fighter for justice and this matter is indeed true, will YB do anything to correct this situation? Question one.
 
 **Syed Munawar:** Do you want to continue with the question, is there time remaining? Or is that question enough? Okay. I'll give YB 3 minutes.
 
 **Rafizi:** I'm smiling because I'm reminded of how officers at the Inland Revenue Board would burst out laughing hearing that argument. The concept of tax is on income. If we recall, when we file our income tax, we declare our income. We can't then deduct saying, "I paid my girlfriend, my house, I transferred money to everyone." What's allowed to be deducted is only what's permitted under the Tax Act, like personal allowance, or allowance for buying books and so on. I don't know the ins and outs of the LHDN investigation — only LHDN knows that, which made the decision that went all the way to court. But the argument Lim gave just now really doesn't make sense. This is what I feel is actually irresponsible for someone as intelligent as him, using social media to fool the public with arguments like that. If his argument is that 2.6 billion came in, then went back out of the account, so that income should be deducted from the assessed income — if that's the case then none of us would need to pay tax at all. Every year just show how much salary came in and show how much went out. We who understand all this indeed call this propaganda. But to ordinary people below, they will take this as the truth. This is what Lim Sian See, or if it comes out on Dato' Seri Najib's Facebook page which he manages, will be considered right, when it's not fair. But that matter, I know Lim himself knows it's not right. But he uses social media to spread things that ultimately, since many readers are Malay — that it's fooling Malay people.
-
-**Syed Munawar:** Okay.
 
 **Eric See-To:** I want to answer, because he twisted the facts and lied.
 
@@ -252,13 +234,13 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Syed Munawar:** 3 minutes, Dato'.
 
-**Eric See-To:** Now I know why people say YB likes to twist things. Number one, I didn't say the 2.6 billion was a loan. I used the example that if someone lends to me...
+**Eric See-To:** Now I know why people say YB likes to twist things. Number one, I didn't say the 2.6 billion was a loan. I used the example that if someone lends to me.
 
 **Rafizi:** Ah, there it is again.
 
 **Eric See-To:** There was indeed a contribution from Saudi Arabia, including a cash payment from the Saudi Arabian Ministry of Finance's bank account into Dato' Najib's bank account amounting to RM642 million. Meaning at first everything paid was from Saudi Arabia. Then there were other amounts put in by other people, but Dato' Najib was told that this too was from the original source. That's why the money went into his account. What I said earlier, no one who wants to steal money would put it in their own bank account, especially since he was the Finance Minister at the time. Dozens of people already knew. About what Rafizi said regarding my motive — my motive is to uphold justice. A situation where those who should uphold justice don't do so. Let me give another example. When PH 1.0 came in, what was the first thing they did? They asked the most senior and second most senior judges to step down. Number two, they put a politician from PKR's Central Committee, MKT, as the MACC Commissioner. Then they put their friends as Attorney General — a lawyer from private practice who himself admitted it was a political appointment to become Attorney General. In the same context, if today Tan Sri Muhyiddin becomes PM again, would YB protest if Tan Sri Muhyiddin appointed Rosli Dahlan as Attorney General, then appointed Cikgu Badrul, or Papa Gomo, as MACC Commissioner? Where was YB's voice at that time? Isn't this a manipulation of the justice system?
 
-**Syed Munawar:** How did we get into this kind of round? We've already finished the rounds...
+**Syed Munawar:** How did we get into this kind of round? We've already finished the rounds.
 
 **Rafizi:** Because he's not really answering, he's just asking questions. I've already answered.
 

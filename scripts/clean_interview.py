@@ -108,7 +108,9 @@ def drop_slips(paras):
                 continue
             around = set(tokens(a.group(2)) + tokens(c.group(2)))
             mid_sentence = not re.search(r"[.?!]\s*$", a.group(2).strip())
-            if mid_sentence or all(w in around for w in words):
+            # A slip-in carrying a figure ("Iqbal: -35.", "46, awak 46.") is content unless the
+            # surrounding speaker repeats it; mid-sentence alone does not justify dropping it.
+            if (mid_sentence and not re.search(r"\d", b.group(2))) or all(w in around for w in words):
                 dropped.append(b.group(2).strip())
                 del paras[i]
                 changed = True
@@ -131,9 +133,18 @@ def clean_body(body):
                 continue
             p = f"**{m.group(1)}:** {text}"
         kept.append(p)
-    kept, slips = drop_slips(kept)
-    merged, joined = merge_body("\n\n".join(kept))
-    return merged, dropped, joined, slips
+    # To a fixpoint: joining two turns can expose a new sandwich, and dropping a slip-in
+    # can make two more turns adjacent. One run must be the final state, so a second run
+    # on the output changes nothing.
+    slips, joined = [], 0
+    while True:
+        kept, new_slips = drop_slips(kept)
+        merged, new_joins = merge_body("\n\n".join(kept))
+        slips += new_slips
+        joined += new_joins
+        if not new_slips and not new_joins:
+            return merged, dropped, joined, slips
+        kept = merged.strip().split("\n\n")
 
 
 def main():
