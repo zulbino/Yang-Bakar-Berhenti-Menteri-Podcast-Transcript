@@ -50,23 +50,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 # Interview (English)
 
-**Haziq:** Podcast Yang Berhenti Menteri, Episode 17, a special episode tonight. I won't... Okay, let me go down. Even though we started early, YB, we haven't even done anything and I've already been fired. I'm sorry.
+**Haziq:** Podcast Yang Berhenti Menteri, Episode 17, a special episode tonight. I won't. Okay, let me go down. Even though we started early, YB, we haven't even done anything and I've already been fired. I'm sorry.
 
 **Rafizi:** As soon as he doesn't pay my salary, otherwise I'd have deducted it already.
 
 **Haziq:** Alhamdulillah. So I'm actually an intern. Even interns get paid — you're worse off than an intern. YB, YB just got back from parliament?
 
-**Rafizi:** Yes, just got back from parliament.
+**Rafizi:** Yes, just got back from parliament. No jogging today.
 
-**Haziq:** No jogging today?
-
-**Rafizi:** No jogging today.
-
-**Haziq:** Okay, take care YB. For those who just joined, please like, share, and subscribe to the page, the channel, and our other social media, and this time we also have a QR code. YB, usually we collect questions beforehand, but now you can also ask live. So we have a QR code next to me here, you can scan and ask questions, and that QR code will always be displayed. Alright YB, let's go to the usual segments, but we'll try to keep them short so we can make room for the budget, YB.
-
-**Rafizi:** Alright.
-
-**Haziq:** Let's go to — here it is, this is the link. But I'm told the QR will always be there later, below, on the side, on the side. Okay, alright YB, as usual let's look at the people who were "poyo" (show-offs) this week in the news. The first one... Boy B, you see that, Boy B?
+**Haziq:** Okay, take care YB. For those who just joined, please like, share, and subscribe to the page, the channel, and our other social media, and this time we also have a QR code. YB, usually we collect questions beforehand, but now you can also ask live. So we have a QR code next to me here, you can scan and ask questions, and that QR code will always be displayed. Alright YB, let's go to the usual segments, but we'll try to keep them short so we can make room for the budget, YB. Let's go to — here it is, this is the link. But I'm told the QR will always be there later, below, on the side, on the side. Okay, alright YB, as usual let's look at the people who were "poyo" (show-offs) this week in the news. The first one. Boy B, you see that, Boy B?
 
 **Rafizi:** Okay. I don't follow this, this is the first time I'm seeing this.
 
@@ -74,9 +66,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** That's fashion valley?
 
-**Haziq:** Prima Valley, I'll just say. Hmm.
+**Haziq:** Prima Valley, I'll just say.
 
-**Rafizi:** There's a lawsuit, friend, he mispronounced it. Never mind, that's his right. That's his right to pursue, whatever it's called... each to their own rights, and if we want to see, it really depends on the court's discretion. I think netizens also shouldn't be too harsh, because... hmm... if we compare with politicians who have CBT charges, who have whatever it's called, who have accusations, I think, yeah, I think give them a chance, as long as he follows whatever it's called, the rules and requirements of the court. I don't think I want to get involved in this.
+**Rafizi:** There's a lawsuit, friend, he mispronounced it. Never mind, that's his right. That's his right to pursue, whatever it's called. each to their own rights, and if we want to see, it really depends on the court's discretion. I think netizens also shouldn't be too harsh, because. if we compare with politicians who have CBT charges, who have whatever it's called, who have accusations, I think, yeah, I think give them a chance, as long as he follows whatever it's called, the rules and requirements of the court. I don't think I want to get involved in this.
 
 **Haziq:** Alright, interesting. Are you not satisfied with them or what?
 
@@ -88,7 +80,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** But it's not wrong, right? I'd back it up too.
 
-**Rafizi:** As long as it's not... more spoon than soup [overdoing it], that's it. I usually try not to ride on matters I don't fully remember the background of, so it doesn't turn out like this. Otherwise, be careful. Politicians sometimes like to show their face when an issue is hot. We like to show face, right? Catch the wave, ride that wave. That's a reminder to politicians, because people are watching. If we don't look ahead, don't actually see the issue that is truly close to our hearts, that we've carried and fought for over a long period, but suddenly when there's a wave we're grinning, sitting there — that's something... I think other politicians also dislike me for this. Some say I'm hard to be friends with. Some say I'm judgmental toward others. That's really the job of a politician. So it's up to each individual. In the end, netizens — I think most politicians don't even read netizens' comments. That's why they don't care what people say.
+**Rafizi:** As long as it's not. more spoon than soup [overdoing it], that's it. I usually try not to ride on matters I don't fully remember the background of, so it doesn't turn out like this. Otherwise, be careful. Politicians sometimes like to show their face when an issue is hot. We like to show face, right? Catch the wave, ride that wave. That's a reminder to politicians, because people are watching. If we don't look ahead, don't actually see the issue that is truly close to our hearts, that we've carried and fought for over a long period, but suddenly when there's a wave we're grinning, sitting there — that's something. I think other politicians also dislike me for this. Some say I'm hard to be friends with. Some say I'm judgmental toward others. That's really the job of a politician. So it's up to each individual. In the end, netizens — I think most politicians don't even read netizens' comments. That's why they don't care what people say.
 
 **Haziq:** But maybe they'll scroll through comments.
 
@@ -100,9 +92,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** YB, if not it's tiring. Okay.
 
-**Rafizi:** This one is [to] read. Okay. Hmm. Never mind, let's wait until he becomes Foreign Minister. Worried he'll invite Netanyahu. Hmm. Yeah, maybe this is one logic for him as a short answer to the government. The government said that Trump was invited so that we could confront and convey our stance. So from Wan Fayhsal's logic, if that's the case, might as well say it directly to Netanyahu. That personal logic, I think, is in his head, he can accept it and he can rationalize it. But to the public, it comes across as childish. It's like a clip called "your mother's a monkey" — like when I was in school, while fighting, one calls the other's father the devil, the other calls that person the devil. In the end we all get in trouble for calling each other's mothers and fathers the devil, right? So this is like he's throwing stones over something that, to me, is small. I don't mean Palestine is small, but the matter of "if you invite Trump you must invite Netanyahu" — that's something Malaysians generally already know is unreasonable and shouldn't even be considered. But this is Wan Fayhsal, after all he wants to change the name Raflesia to...
+**Rafizi:** This one is [to] read. Okay. Never mind, let's wait until he becomes Foreign Minister. Worried he'll invite Netanyahu. Yeah, maybe this is one logic for him as a short answer to the government. The government said that Trump was invited so that we could confront and convey our stance. So from Wan Fayhsal's logic, if that's the case, might as well say it directly to Netanyahu. That personal logic, I think, is in his head, he can accept it and he can rationalize it. But to the public, it comes across as childish. It's like a clip called "your mother's a monkey" — like when I was in school, while fighting, one calls the other's father the devil, the other calls that person the devil. In the end we all get in trouble for calling each other's mothers and fathers the devil, right? So this is like he's throwing stones over something that, to me, is small. I don't mean Palestine is small, but the matter of "if you invite Trump you must invite Netanyahu" — that's something Malaysians generally already know is unreasonable and shouldn't even be considered. But this is Wan Fayhsal, after all he wants to change the name Raflesia to.
 
-**Haziq:** Maybe the last one. Oh there's more. Ha, okay, last one. Hmm. The Kampung Sungai Baru issue still isn't over. Ha.
+**Haziq:** Maybe the last one. Oh there's more. Ha, okay, last one. The Kampung Sungai Baru issue still isn't over. Ha.
 
 **Rafizi:** Oh, from Harakah — "if I were still the Federal Territories Minister, this wouldn't have happened." Meaning what? What's happening in the world — of course it wouldn't happen because they didn't go and incite it. Right? Because looking at part of those who are strongly riding this issue, it's become a partisan issue because it's been translated as — indirectly, if under a PH government or one with DAP, then Malays would be evicted from urban areas. This sentiment is also being stirred up by PAS, the opposition too. So maybe that's what Syahidan threw in.
 
@@ -114,9 +106,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** No rating this week. Let's take a break.
 
-**Haziq:** I think we should focus on the budget. Okay YB, so let's move to the next segment. This is fine, just nice. Okay YB. We might pick just one this time, and I think I need to ask permission from YB first, because I'll ask directly. This one, if... why do I need permission? Because on Twitter, YB, it's said this is an issue that no politician wants to comment on — government, opposition.
+**Haziq:** I think we should focus on the budget. Okay YB, so let's move to the next segment. This is fine, just nice. Okay YB. We might pick just one this time, and I think I need to ask permission from YB first, because I'll ask directly. This one, if. why do I need permission? Because on Twitter, YB, it's said this is an issue that no politician wants to comment on — government, opposition.
 
-**Rafizi:** Eh what, friend, not everyone...
+**Rafizi:** What, friend, not everyone.
 
 **Haziq:** comments on it?
 
@@ -136,7 +128,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Alright YB, ok, that's the only issue for the "hard" segment, I think it was quite hard. You all just want to hear that one, right?
 
-**Rafizi:** Well, that's normal. Conclusively, not everyone says that. It's obvious [some] haven't watched or read. I've been following, I think people have been saying they are peace...
+**Rafizi:** Well, that's normal. Conclusively, not everyone says that. It's obvious [some] haven't watched or read. I've been following, I think people have been saying they are peace.
 
 **Haziq:** Ok so it's just avoiding this issue. I mean, who needs to answer for it?
 
@@ -146,29 +138,17 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** This isn't only a government issue, it's also about ourselves. I use ChatGPT, DeepSeek every day. But we can't use it blindly. Meaning ChatGPT or DeepSeek usually makes our tasks easier when we know what we want. It's just that we don't have time to read dozens of pages and then do it ourselves, we can ask them to summarize. That's why with AI, what's actually needed is that our prompt must be precise. So this isn't just a government problem, this is a human problem. So if we're not careful, not just tasks in government but also tasks in private companies, in schools or universities — and maybe there's some good in it too because it will differentiate between them: those who have duties and responsibilities, who really know their work and can point out something is wrong with it. If it's like in Australia, meaning ordinary people got caught out, right.
 
-**Haziq:** Other researchers when they refer to it...
+**Haziq:** Other researchers when they refer to it.
 
-**Rafizi:** Eh this is wrong, this is fabricated, made up, right. So for me, don't get angry at the AI, meaning the Australian government officer or the Deloitte team, they equally closed their eyes and were lazy because they didn't check it early, right. Because that's really the practice that should happen at this stage, when we use ChatGPT or any AI, what's given to us, we actually need to check it. Last month, I was bored not being a minister anymore, right, so I started doing math questions again, you know — Form Five math or university math that I hadn't done in a long time, I did it again, lazy, right, just bored, right. And then I asked the same questions to ChatGPT or DeepSeek. There were questions where the answers given by ChatGPT and also DeepSeek were wrong — the answer was wrong. There was one math question that a Form 5 student or maybe a first-year university algebra student should be able to solve, but I remember for one of them DeepSeek said there was no solution to this question. I wanted to see how accurate ChatGPT and DeepSeek really are. So in my view, in my daily tasks, I really do check things myself, right. And if AI is to have a good effect on government, for example, make sure to check each item one by one, and also make sure it doesn't create a culture of laziness among people, workers, among society. Otherwise, what happened in Australia might also happen in Malaysia, but maybe in Malaysia even if it happens, there's no one who wants to check, who wants to say that something is wrong, so it might slip through.
+**Rafizi:** This is wrong, this is fabricated, made up, right. So for me, don't get angry at the AI, meaning the Australian government officer or the Deloitte team, they equally closed their eyes and were lazy because they didn't check it early, right. Because that's really the practice that should happen at this stage, when we use ChatGPT or any AI, what's given to us, we actually need to check it. Last month, I was bored not being a minister anymore, right, so I started doing math questions again, you know — Form Five math or university math that I hadn't done in a long time, I did it again, lazy, right, just bored, right. And then I asked the same questions to ChatGPT or DeepSeek. There were questions where the answers given by ChatGPT and also DeepSeek were wrong — the answer was wrong. There was one math question that a Form 5 student or maybe a first-year university algebra student should be able to solve, but I remember for one of them DeepSeek said there was no solution to this question. I wanted to see how accurate ChatGPT and DeepSeek really are. So in my view, in my daily tasks, I really do check things myself, right. And if AI is to have a good effect on government, for example, make sure to check each item one by one, and also make sure it doesn't create a culture of laziness among people, workers, among society. Otherwise, what happened in Australia might also happen in Malaysia, but maybe in Malaysia even if it happens, there's no one who wants to check, who wants to say that something is wrong, so it might slip through.
 
-**Haziq:** Slip through, ok alright YB, ok, I think that's enough on that. So before we get to the real segment, please like and share, and there's a QR code next to me here, you can scan and ask questions. We want to head back early right, it's been a long...
+**Haziq:** Slip through, ok alright YB, ok, I think that's enough on that. So before we get to the real segment, please like and share, and there's a QR code next to me here, you can scan and ask questions. We want to head back early right, it's been a long.
 
 **Rafizi:** From parliament earlier, might want to continue.
 
-**Haziq:** Poor YB, you can ask a lot but we'll pick a few. Ok alright, let's move on YB to the budget.
+**Haziq:** Poor YB, you can ask a lot but we'll pick a few. Ok alright, let's move on YB to the budget. Spending oi, ok YB. Before I start YB, I think it would be good if I could ask about the parameters or indicators — how YB evaluates it, as a member of parliament and former economy minister. Before I ask, is this budget okay, how, how do you feel, how does YB evaluate a budget? I think this is episode zero. Wait a moment,
 
-**Rafizi:** Spending, oi, spending.
-
-**Haziq:** Spending oi, ok YB. Before I start YB, I think it would be good if I could ask about the parameters or indicators — how YB evaluates it, as a member of parliament and former economy minister. Before I ask, is this budget okay, how, how do you feel, how does YB evaluate a budget? I think this is episode zero. Wait a moment, eh.
-
-**Rafizi:** Okay YB — the budget document is long, you know, hundreds of pages. So it's rare that anyone can read it all at once, right. So I only had about two-three hours earlier to read as much as possible. Yeah. So, hmm, it depends on each person, right. When I was in industry before — I'm an accountant, and part of my background is actually in the field of taxation.
-
-**Haziq:** Okay.
-
-**Rafizi:** So every time there was a budget announcement — this was back then, 20 years ago, right — the unfortunate accountants, as soon as the Prime Minister or Finance Minister began reading and presenting the budget speech, the embargo would be lifted, right, so it could be accessed. So quickly all these accountants would look at it, and we'd have to make a summary and so on. So it depends on each profession. Those in finance usually look at the effects on certain taxes — what changes in income tax, what changes in indirect tax. What's also usually looked at is investment incentives — accelerated capital allowance, promotion of investment act, pioneer status, tax exemptions and so on — that's what accountants look at.
-
-**Haziq:** Ok.
-
-**Rafizi:** For ordinary people, they usually wait for what, the goodies, right, the announcement and... a budget is evaluated based on how many goodies we'll get. And media is usually the same — media only focuses on the budget speech. As a politician, from before, I actually never really looked much at the budget speech. Because once you're at the level of MP, let alone minister, for me the most important thing is to look at the government's financial soundness. So when we look at the government's financial soundness, it actually starts with macro matters. If we want to look at a company, right, it can claim all sorts of things, can do A, can do B, will do C and so on. But we need to look at its balance sheet, look at its income statement, look at its cash flow. Because if the balance sheet is fragile, it will indeed be exposed to all kinds of risks. If its income statement, which records its revenue, is not solid, then this company will continuously be unable to cover its expenses. As a result, it starts having to rely on debt, and if it goes into debt, eventually its cash flow will run into problems, right. So the same discipline — every time there's a budget, I usually focus on the macro matters first.
+**Rafizi:** Okay YB — the budget document is long, you know, hundreds of pages. So it's rare that anyone can read it all at once, right. So I only had about two-three hours earlier to read as much as possible. Yeah. So, it depends on each person, right. When I was in industry before — I'm an accountant, and part of my background is actually in the field of taxation. So every time there was a budget announcement — this was back then, 20 years ago, right — the unfortunate accountants, as soon as the Prime Minister or Finance Minister began reading and presenting the budget speech, the embargo would be lifted, right, so it could be accessed. So quickly all these accountants would look at it, and we'd have to make a summary and so on. So it depends on each profession. Those in finance usually look at the effects on certain taxes — what changes in income tax, what changes in indirect tax. What's also usually looked at is investment incentives — accelerated capital allowance, promotion of investment act, pioneer status, tax exemptions and so on — that's what accountants look at. For ordinary people, they usually wait for what, the goodies, right, the announcement and. a budget is evaluated based on how many goodies we'll get. And media is usually the same — media only focuses on the budget speech. As a politician, from before, I actually never really looked much at the budget speech. Because once you're at the level of MP, let alone minister, for me the most important thing is to look at the government's financial soundness. So when we look at the government's financial soundness, it actually starts with macro matters. If we want to look at a company, right, it can claim all sorts of things, can do A, can do B, will do C and so on. But we need to look at its balance sheet, look at its income statement, look at its cash flow. Because if the balance sheet is fragile, it will indeed be exposed to all kinds of risks. If its income statement, which records its revenue, is not solid, then this company will continuously be unable to cover its expenses. As a result, it starts having to rely on debt, and if it goes into debt, eventually its cash flow will run into problems, right. So the same discipline — every time there's a budget, I usually focus on the macro matters first.
 
 And this is for the audience watching: budget documents, I recall, usually come in five types. The sixth is just the Finance Minister's speech — that's the one people usually read, but they don't read the other five because they're too thick. And these can be downloaded from the budget website. Every year I do download them, put them on my iPad, and then we go through them, right. The first document is, of course, the expenditure estimates. Then the second is the fiscal outlook — meaning how much revenue, expenditure estimates, what the trend looks like, how the debt looks. Then there's the economic outlook, meaning economic projections for the coming year, and the next 2–3 years. The fourth document — this is the one I recall most people don't scrutinize because it's so voluminous, there are up to 4 volumes. Actually, every time the budget is tabled, there's a document running thousands of pages listing, for every public agency, from the lowest to the highest level, how many positions there are. So if we really scrutinize it, we can see the size, how many teachers, salaries — it doesn't show it in full detail, but salaries by grade and so on, we can see all that. And then there's a fourth — I have five, there's one more I forget what it is. So usually, budget reporting and budget analysis skip these main documents. What gets the focus is the speech. The speech is a summary, and of course whoever writes the speech, whoever reads the speech, will portray the budget as the best possible thing. That's why we announce this, we do that, and so on.
 
@@ -186,11 +166,7 @@ From there, when we look at this — I managed to go through it quickly earlier 
 
 **Haziq:** There have been many policy changes that we said were about targeting, but in the end we implemented rationing and subsidies.
 
-**Rafizi:** No, no, no. That's just one factor.
-
-**Haziq:** Just one factor.
-
-**Rafizi:** One of it. At face value, when we look at it this way — okay, it's the same as when we make a budget for, or business plan for, a company. We have a plan, every month we should get so much, if sales are so much then our profit should be so much. When tax collection for 2025 is revised downward by roughly 2%, 1.7%, it gives the impression that tax collection, even after adding SST and other measures, was actually not as good as projected a year ago. That means our economic growth is now genuinely moderating.
+**Rafizi:** No, no, no. That's just one factor. One of it. At face value, when we look at it this way — okay, it's the same as when we make a budget for, or business plan for, a company. We have a plan, every month we should get so much, if sales are so much then our profit should be so much. When tax collection for 2025 is revised downward by roughly 2%, 1.7%, it gives the impression that tax collection, even after adding SST and other measures, was actually not as good as projected a year ago. That means our economic growth is now genuinely moderating.
 
 So this moderating economic growth trajectory, when we look at the tabled Budget 2026, shows revenue of RM343.1 billion — an increase of RM9 billion from what was projected for 2025. But that too means — if we don't check carefully, remember last year's tabled budget also said RM339.7 billion, and by year end it was down RM5.6 billion — so even though revenue is projected to rise by RM9 billion, it's not certain it will actually rise by RM9 billion, especially since, as I think we're well aware, the economy will moderate. When the economy moderates, companies that pay taxes will pay less tax; many that make losses won't pay at all. So in that situation — that's why we need to look at how we spend too, for example. Expenditure also keeps rising. On the plus side, for 2025, expenditure appears to be projected lower than what was originally tabled, down by 2.8%, roughly — sorry, RM2.8 billion, which is about 0.85% — but if you look at it, the revenue shortfall is actually more drastic than the expenditure reduction. So that is also an issue. But for next year there will be an additional RM6 billion. And we're also well aware that the risk of revenue shortfall is actually greater than the potential to reduce operating expenditure. Because we can already see this from one year to the next.
 
@@ -210,27 +186,15 @@ So back to the matter of the deficit, DE, all of this — because before we comm
 
 **Haziq:** [responds with the calculation]
 
-**Rafizi:** A bit over that in billions. Yes. So the amount that can be spent on development projects is very closely tied to the amount of debt. And that debt amount will in turn disturb OE, because when we take on new debt, we have to pay interest — that interest is operating expenditure. So every year the spending gets higher. They call it debt service charge, which I'll comment on next — the higher that is, the more it will actually affect the years to come.
-
-**Haziq:** So—
-
-**Rafizi:** —if we're not careful, DE will end up being roughly, roughly the same. And if we look at this, for 2026, DE is RM79.5 billion — there's a slight increase if you look at it, compared to the RM78.7 billion that will be spent and revised by the end of this year. But if we compare it to the original plan for development spending for 2025, there's a 6% reduction. To me, a 6% reduction in DE within one year is a significant amount. And DE is important for driving the economy, because when we build infrastructure, we invest in areas, in strategic sectors, this becomes the catalyst. Catalyst in Malay is what... err...
-
-**Haziq:** Pemangkin (catalyst)?
-
-**Rafizi:** Pemangkin — this becomes the catalyst for that industry.
+**Rafizi:** A bit over that in billions. Yes. So the amount that can be spent on development projects is very closely tied to the amount of debt. And that debt amount will in turn disturb OE, because when we take on new debt, we have to pay interest — that interest is operating expenditure. So every year the spending gets higher. They call it debt service charge, which I'll comment on next — the higher that is, the more it will actually affect the years to come. —if we're not careful, DE will end up being roughly, roughly the same. And if we look at this, for 2026, DE is RM79.5 billion — there's a slight increase if you look at it, compared to the RM78.7 billion that will be spent and revised by the end of this year. But if we compare it to the original plan for development spending for 2025, there's a 6% reduction. To me, a 6% reduction in DE within one year is a significant amount. And DE is important for driving the economy, because when we build infrastructure, we invest in areas, in strategic sectors, this becomes the catalyst. Catalyst in Malay is what. Pemangkin — this becomes the catalyst for that industry.
 
 Then there are two more things that need to be looked at, which I mentioned briefly earlier. What worries me most is the debt service charge. For 2025, the amount is RM54.3 billion. Is that a lot or a little? How do you tell whether that's a lot or a little?
 
 **Haziq:** Usually compare with other countries, I mean—
 
-**Rafizi:** That's one way, that's one way—
+**Rafizi:** That's one way, that's one way— The way to do it — if we look at our own country—
 
-**Haziq:** —anything else?
-
-**Rafizi:** The way to do it — if we look at our own country—
-
-**Haziq:** We compare with... what else? I usually just compare with other countries.
+**Haziq:** We compare with. what else? I usually just compare with other countries.
 
 **Rafizi:** One way is to look at how we're managing our own expenditure. Okay, so if RM54.3 billion for 2025 — let's finish this, debt service charge, paying interest on debt, all of it is RM54.3 billion, out of total operating expenditure of RM332 billion. What's that? Roughly 17%, I think roughly 17%. Imagine we earn a salary of RM2,000 a month — 17% of our salary is how much? RM340 — meaning RM340 goes to paying credit card interest. If we also have to pay the principal on the credit card, say RM200 — meaning RM500, okay let's round it, meaning out of a salary of RM2,600 we pay the credit card, because RM340 is the interest that must be paid, otherwise it gets worse. Then the remainder, RM260, pays the principal, RM600. So RM2,000 salary minus RM600, leaves RM1,400 — that's bad, that's serious.
 
@@ -244,7 +208,7 @@ And one last thing I always look at is what's called subsidies and social assist
 
 **Rafizi:** The impact on the people, or ideally, what should the situation be — the ideal situation.
 
-**Haziq:** The ideal situation. Hmm. I think that situation has become the best—
+**Haziq:** The ideal situation. I think that situation has become the best—
 
 **Rafizi:** I'm not your lecturer—
 
@@ -254,17 +218,13 @@ And one last thing I always look at is what's called subsidies and social assist
 
 **Haziq:** Our reason is so it doesn't leak. So when we don't leak the spending, as YB usually says — even before, we could build more hospitals, it goes into DE. Not necessarily, but the idea is, what would have leaked, we can spend on places that have less, that the people might have less — yes.
 
-**Rafizi:** So... Ideally it's like this. Actually we don't — I myself have never been against subsidies. If a subsidy reaches the person who truly deserves it, then it helps that person. It's the same question as how we distribute the nation's revenue fairly and accurately. So we re-target subsidies so there's no leakage, no smuggling — that's one reason — and so we can redirect that assistance to those who need it more. So the question is, if subsidies and social assistance — social assistance like STR and so on — are reduced by up to RM8 billion, people can ask why those savings weren't retained to give more assistance to the people beyond what's already been announced. So is it fair, for example, that we use the savings from subsidy retargeting to cover interest payments that will be higher, rising by RM4 billion? These are the questions that arise when we look at that framework — you have to focus on that big picture before we get busy over RM10 million here, RM20 million there.
+**Rafizi:** So. Ideally it's like this. Actually we don't — I myself have never been against subsidies. If a subsidy reaches the person who truly deserves it, then it helps that person. It's the same question as how we distribute the nation's revenue fairly and accurately. So we re-target subsidies so there's no leakage, no smuggling — that's one reason — and so we can redirect that assistance to those who need it more. So the question is, if subsidies and social assistance — social assistance like STR and so on — are reduced by up to RM8 billion, people can ask why those savings weren't retained to give more assistance to the people beyond what's already been announced. So is it fair, for example, that we use the savings from subsidy retargeting to cover interest payments that will be higher, rising by RM4 billion? These are the questions that arise when we look at that framework — you have to focus on that big picture before we get busy over RM10 million here, RM20 million there.
 
 Looking at this matter — actually the reality is this — for me, the number one problem in national finances is debt. High debt. If every year we add RM4 billion, RM5 billion in interest payments, then that is a problem. That's why, if we succeed in curbing the rise in debt, the rise in interest payments, that RM4 billion, that RM5 billion, can be used for other things. Of course if there were a Finance Minister here, if there were a Treasury Secretary-General here, they would say, oh it's chicken and egg, we have to reduce this first, then that will come down. But the question is, after 3 years going into the 4th year now, I can't answer that either. Because back when we discussed this in early 2023, we needed to do subsidy retargeting, we needed to do this so that we'd have a fiscal glide path. With a fiscal glide path, the deficit going from 5% down to just over 4%, down to just over 3%, would start to show the effect of reduced debt. When our debt is reduced, then interest payments are reduced, and those savings are also what allow us to spend more — partly to help more people through OE, partly to add spending to DE so that infrastructure, schools, hospitals can be built more quickly. So now... I've earned my time for a drink of water.
 
-**Haziq:** Perhaps if I may put it from a layman's perspective — it's like our behaviour in spending on credit cards. We avoid getting into debt so that we save things that might otherwise leak from our daily expenses. Because if we use credit cards, eventually the burden, in terms of interest and so on, becomes something we can no longer bear in the future.
+**Haziq:** Perhaps if I may put it from a layman's perspective — it's like our behaviour in spending on credit cards. We avoid getting into debt so that we save things that might otherwise leak from our daily expenses. Because if we use credit cards, eventually the burden, in terms of interest and so on, becomes something we can no longer bear in the future. Don't forget —
 
-**Rafizi:** Hmm.
-
-**Haziq:** Don't forget —
-
-**Rafizi:** — to keep subscribing and subscribing. I don't know, maybe we need to call in someone who is... an expert. It's a common practice now, especially among the young, that they go bankrupt because of credit cards. Because with credit cards, over time the balance grows bigger and bigger. The interest is even 17% if their credit rating is low. So eventually their life becomes debt. Erm... yes, for the government it's not so simple to equate this with someone spending on a credit card. But one thing — perhaps people in government, or Dato' Seri Anwar himself, are less comfortable with me. Because I always ask, like, how are we doing things differently? So what we see a lot of focus on is increasing revenue. There's the new SST, then stamp duty for example is now collected on all instruments. So for smaller companies, sometimes it swells a bit because stamp duty on employment contracts also has to be paid upfront now. Before, it didn't need to be paid — never before. So the focus has been on collecting taxes. But perhaps we haven't focused, or we haven't heard much, about how we are going to manage our expenditure very differently from past practice. We don't spend enough talking about how we are going to do it differently.
+**Rafizi:** — to keep subscribing and subscribing. I don't know, maybe we need to call in someone who is. an expert. It's a common practice now, especially among the young, that they go bankrupt because of credit cards. Because with credit cards, over time the balance grows bigger and bigger. The interest is even 17% if their credit rating is low. So eventually their life becomes debt. yes, for the government it's not so simple to equate this with someone spending on a credit card. But one thing — perhaps people in government, or Dato' Seri Anwar himself, are less comfortable with me. Because I always ask, like, how are we doing things differently? So what we see a lot of focus on is increasing revenue. There's the new SST, then stamp duty for example is now collected on all instruments. So for smaller companies, sometimes it swells a bit because stamp duty on employment contracts also has to be paid upfront now. Before, it didn't need to be paid — never before. So the focus has been on collecting taxes. But perhaps we haven't focused, or we haven't heard much, about how we are going to manage our expenditure very differently from past practice. We don't spend enough talking about how we are going to do it differently.
 
 If Dato' Seri Anwar were here — earlier too, in parliament earlier too, his speech began with a high note about governance. Yes, I think nobody is disputing that. That's what people have been asking for all along — we want to see how the government will manage its spending better so that there's no leakage, no corruption, and government tenders get the best price. That is what I think we haven't heard much of from this budget beyond a big slogan of Governance. The people, especially taxpayers, certainly feel that now they have to pay higher taxes than before. So I want to see more that is done for me to get the confidence that you are going to manage this better lah.
 
@@ -286,15 +246,7 @@ So, of course you have to drill down further, into how we reduce the deficit —
 
 **Haziq:** Okay, alright, more on the macro level. Just if I may check a little — in terms of the breakdown and allocation of development spending — if we look at sectors, we have agriculture, transportation — what's YB's comment? Is there a problem in terms of how the government allocates it?
 
-**Rafizi:** I think, looking at it quickly earlier, let me see. Where is this? Hmm.
-
-**Haziq:** Okay.
-
-**Rafizi:** If we look at the economic sector, it's okay, it's allocated according to ministries. And the ministries are allocated according to sectors. So for example, we have the economic sector, we have the social sector, we have the security sector, we have administration, and there's RM2 billion every year that's kept as a contingency reserve. And under the economic sector there are various things, under the social sector there are various things. Development spending is indeed supposed to lean toward the economic sector, amounting to RM37 billion. Then we have 34.5% for social, 14% for security. The problem is...
-
-**Haziq:** Okay,
-
-**Rafizi:** the problem is — for me, perhaps the problem is, looking at this, looking at the economic sector out of the RM37 billion — erm, transportation is the largest. We understand, because there's the MRT, there's the LRT in Penang and so on. So transportation is by far the largest, almost half, you know — nearly half of the RM37 billion is for transportation, roughly RM17.5 billion. The rest, we have mineral resource development, we have agriculture, we have communications, we have energy and public utilities, we have trade and industry, we have research and development, we have finance.
+**Rafizi:** I think, looking at it quickly earlier, let me see. Where is this? If we look at the economic sector, it's okay, it's allocated according to ministries. And the ministries are allocated according to sectors. So for example, we have the economic sector, we have the social sector, we have the security sector, we have administration, and there's RM2 billion every year that's kept as a contingency reserve. And under the economic sector there are various things, under the social sector there are various things. Development spending is indeed supposed to lean toward the economic sector, amounting to RM37 billion. Then we have 34.5% for social, 14% for security. The problem is. the problem is — for me, perhaps the problem is, looking at this, looking at the economic sector out of the RM37 billion — transportation is the largest. We understand, because there's the MRT, there's the LRT in Penang and so on. So transportation is by far the largest, almost half, you know — nearly half of the RM37 billion is for transportation, roughly RM17.5 billion. The rest, we have mineral resource development, we have agriculture, we have communications, we have energy and public utilities, we have trade and industry, we have research and development, we have finance.
 
 But what stands out to me a lot — agriculture is only RM550 million. Agriculture is barely under 2% of development spending, in a situation where our main thrust is actually supposed to be about food security. So is it a priority, or not? Low — RM500 million. And I recall earlier flipping through the allocation for the Ministry of Agriculture, the RM2 billion is operating expenditure. So, does the government not aspire to develop agriculture on a large scale and turn it into an industry? And with only RM550 million a year, it's really difficult. And I recall if the operating expenditure reaches RM2 billion, that's allocated for fertiliser subsidies and other assistance. But we're not modernising our agricultural industry, and we will have problems.
 
@@ -304,7 +256,7 @@ As for the social sector, we understand — it looks — I don't have much comme
 
 **Haziq:** I'm tired now. Maybe just a little more, YB. YB talked about macro matters, but YB also said earlier that ordinary people all like to hear about goodies, about good announcements. So perhaps let me get some comments on the more granular items. Earlier the PM mentioned smoothing out things for free through PTPTN, SARA before CNY — this is a good thing, YB. What does YB want to see done?
 
-**Rafizi:** Well... yes, we have to wait for the details, especially regarding free education. Erm... I wish we could hear about both things, I mean. Both in this sense: while we have good intentions to start offering free education through PTPTN to low-income families, we also need to hear how we're going to solve PTPTN's problems. Because PTPTN's government-guaranteed debt has already reached RM41 billion. So if we implement this through PTPTN without changing the method and also fixing or resolving that problem, we risk letting that problem fester further. I would rather also know, for example, what other methods could be used, because I feel when it's said PTPTN is offering this, it means the government will take taxpayers' money and give it to PTPTN. Well, the government hasn't even resolved the money issue itself, because actually we're just moving money from the left pocket to the right pocket, for example. At the same time, the higher education financing model is also something we haven't resolved. Because the reality is this — the government already subsidises up to RM90,000, at minimum percentage, for courses at existing public universities. Meaning the fees paid, 90% has already been subsidised by the government; what's borrowed from PTPTN is usually for daily expenses, accommodation, and a small portion of fees — that 10%, which students need to pay. But there's also the matter of that portion needing to be repaid that also needs to be resolved. We haven't heard about that, for example.
+**Rafizi:** Well. yes, we have to wait for the details, especially regarding free education. I wish we could hear about both things, I mean. Both in this sense: while we have good intentions to start offering free education through PTPTN to low-income families, we also need to hear how we're going to solve PTPTN's problems. Because PTPTN's government-guaranteed debt has already reached RM41 billion. So if we implement this through PTPTN without changing the method and also fixing or resolving that problem, we risk letting that problem fester further. I would rather also know, for example, what other methods could be used, because I feel when it's said PTPTN is offering this, it means the government will take taxpayers' money and give it to PTPTN. Well, the government hasn't even resolved the money issue itself, because actually we're just moving money from the left pocket to the right pocket, for example. At the same time, the higher education financing model is also something we haven't resolved. Because the reality is this — the government already subsidises up to RM90,000, at minimum percentage, for courses at existing public universities. Meaning the fees paid, 90% has already been subsidised by the government; what's borrowed from PTPTN is usually for daily expenses, accommodation, and a small portion of fees — that 10%, which students need to pay. But there's also the matter of that portion needing to be repaid that also needs to be resolved. We haven't heard about that, for example.
 
 So I know the Ministry of Higher Education and others are starting to look into it. There are dissenting voices, and universities sometimes feel uncomfortable when we talk about this, because they'll say, "don't bother us, as academics we want to focus on teaching only." But yes, at the government level and especially university leadership level there are also issues, because if the government's financial position is such that we still don't see a way out, then the allocation isn't large each year. But we haven't heard yet what will be done at the higher education level. For example, we haven't heard whether we will review the courses offered, or how we will ensure that the 90% subsidy is retargeted. We haven't heard that.
 
@@ -322,9 +274,9 @@ So for now, our cash assistance system — that system called the social securit
 
 So that's what I mean by institutionalizing — that's what it means. If the government hopes that by giving all this aid it can win the general election by a landslide — during Najib's time, "cash is king" — maybe that was his view. But I think we should do better. I think the Dato' Seri Anwar government should be far more advanced than that. We should have already moved on from the old style where people have to queue up to get money from their elected representative; now they have to get money from teachers instead. If it's institutionalized and one qualifies, then they'll get an allowance every month, just like we get our salary every month. That too — the discussion on the social safety net — I don't see it being discussed and made a major thrust in this budget.
 
-**Haziq:** Okay YB. Perhaps before we wrap up our budget discussion a bit — maybe there are still things YB left out, or YB isn't satisfied with...
+**Haziq:** Okay YB. Perhaps before we wrap up our budget discussion a bit — maybe there are still things YB left out, or YB isn't satisfied with.
 
-**Rafizi:** Not satisfied... oh, this is what people are saying, I'm saying what people are saying. Maybe there are criticisms I've left out.
+**Rafizi:** Not satisfied. oh, this is what people are saying, I'm saying what people are saying. Maybe there are criticisms I've left out.
 
 **Haziq:** [continuing that question]
 
@@ -336,13 +288,7 @@ So that's what I mean by institutionalizing — that's what it means. If the gov
 
 If, for example, GLCs become part of government directives and start getting too involved with projects or expenditures that may not meet investment needs or criteria, but are the government's social aspirations — and then 4-5 years down the road, if those projects don't yield returns, or the projects fail, then problems will start to arise for these GLICs and GLCs. And of course there will be governance problems. Because if the company's focus is on this — the government's orbit in implementing the budget, this will be funded by that, that will be funded by... — of course, GLC bosses will submit, "you don't want to" — because they're on a salary that depends on it. But that's where the governance issue is. It's actually a governance issue.
 
-**Haziq:** Yes, yes.
-
-**Rafizi:** It's a governance issue, right. That's one thing. But what I'm also worried about is, what's the quid pro quo? If I were the GLIC, I'd say, "Okay, you are asking me to do some things that actually don't really fit our strategy, or actually don't give the IRR, the rate of return I need to meet with my investors. Okay, but give me that — that concession or that contract — that's what I need to deliver this." And it becomes difficult. So these are the things — that's why in the past 1-2 years I've been quite worried, if we're interchangeable between the government and GLICs, GLICs and the government. So we should really separate them properly, let them run. And I'd prefer if we push our GLICs and GLCs to become regional champions or global MNCs. That's how Singapore does it, with Temasek.
-
-**Haziq:** Hmm.
-
-**Rafizi:** Singapore will ensure that the company really grows, is profitable, and becomes an international company. Its relationship with government is through dividends — you're more profitable, you give more dividends to the government; these dividends are what the government then has governance over and a mandate to spend through the budget. But you don't mix the two.
+**Rafizi:** It's a governance issue, right. That's one thing. But what I'm also worried about is, what's the quid pro quo? If I were the GLIC, I'd say, "Okay, you are asking me to do some things that actually don't really fit our strategy, or actually don't give the IRR, the rate of return I need to meet with my investors. Okay, but give me that — that concession or that contract — that's what I need to deliver this." And it becomes difficult. So these are the things — that's why in the past 1-2 years I've been quite worried, if we're interchangeable between the government and GLICs, GLICs and the government. So we should really separate them properly, let them run. And I'd prefer if we push our GLICs and GLCs to become regional champions or global MNCs. That's how Singapore does it, with Temasek. Singapore will ensure that the company really grows, is profitable, and becomes an international company. Its relationship with government is through dividends — you're more profitable, you give more dividends to the government; these dividends are what the government then has governance over and a mandate to spend through the budget. But you don't mix the two.
 
 So currently, I'm not sure when we continuously say this is a government allocation, this is a GLIC, and the picture we give is that we're moving together, implementing side by side — so does that mean that GLICs are going to spend their money to cover for what is government? And if that's the case, what's actually the return? What's the quid pro quo, right? So this is among the things I think need to be refined going forward. It sounds nice — "step up," what's it called, RM20 billion here, RM30 billion there — but that money is circulating money, it's our money.
 
@@ -370,9 +316,9 @@ KPIs already exist. For example, in the agreement — I don't remember exactly n
 
 Hmm, if we're not careful, then it won't materialize — then people won't come, so it'll just be lukewarm. Then what will happen is a factory here, one there — it won't become one ecosystem that becomes a nucleus of attraction. JSSEZ really shouldn't be judged within 1-2 years. This is a 10-20 year timeframe going forward.
 
-**Haziq:** Okay YB, clear. The second question about the Malaysia Plan: "How does the newly announced 2026 National Budget align with the 13th Malaysia Plan?" Question mark. I've...
+**Haziq:** Okay YB, clear. The second question about the Malaysia Plan: "How does the newly announced 2026 National Budget align with the 13th Malaysia Plan?" Question mark. I've.
 
-**Rafizi:** I already discussed this at length earlier. Although I didn't link it to the 13th Malaysia Plan, there are many things that form the pillars of the 13th Malaysia Plan. But what I think may not have been mentioned at all, which has a big impact on economic structure, is about foreign workers. The 13th Malaysia Plan sets out that we will reduce our foreign worker numbers from 15% to 10%, then 5 years later to 5%. Not mentioned at all. Same with, perhaps... there are core things I mentioned earlier.
+**Rafizi:** I already discussed this at length earlier. Although I didn't link it to the 13th Malaysia Plan, there are many things that form the pillars of the 13th Malaysia Plan. But what I think may not have been mentioned at all, which has a big impact on economic structure, is about foreign workers. The 13th Malaysia Plan sets out that we will reduce our foreign worker numbers from 15% to 10%, then 5 years later to 5%. Not mentioned at all. Same with, perhaps. there are core things I mentioned earlier.
 
 So for example, when we did the 12th Malaysia Plan mid-term review — that was the first document I handled, 2023 — everyone disliked me for it, but I did explain clearly that the core issue is we need to overhaul our subsidy system, in 2023. That's why in the last Budget speech, and while I was still there, until I left, the subsidy issue was a whole fight, it had to be done. And the way to do it was indeed a fight. That's why now diesel, petrol subsidy rationalization is already underway.
 
@@ -380,11 +326,7 @@ So for the 13th Malaysia Plan, the main issues about indebtedness, about nationa
 
 Because the budget speech and budget document, aside from a few things Datuk Seri Anwar mentioned earlier, I see as an annual continuation of previous Budgets, rather than taking the 13th Malaysia Plan and prioritizing a few big things. For example, education reform — apart from the number of schools that will be built, repaired, which we were doing even before the 13th Malaysia Plan. So we don't hear details, for example, about education quality. When we say teachers will be trained at some IPGs, some of those IPGs will be dedicated to continuous training, continuous professional development for teachers — we didn't hear that earlier. So still, it's too difficult for us to determine now. Maybe during the debate we can ask.
 
-**Haziq:** Okay YB, on time? No it's not on time,
-
-**Rafizi:** it's already
-
-**Haziq:** stopped. Okay, let's move to the live questions. So on the screen in front of me there are several questions YB. Maybe there are a lot, but if you feel maybe there's only 10 minutes left, right? Ah, only 10 minutes left. Okay, in these 10 minutes, let me look at the first question that appeared: what's YB's view on the reduction of Petronas dividends? Is the government reducing dependence, or is Petronas unable to give more? Question mark. Petronas can't give much. Simple.
+**Haziq:** Okay YB, on time? No it's not on time, stopped. Okay, let's move to the live questions. So on the screen in front of me there are several questions YB. Maybe there are a lot, but if you feel maybe there's only 10 minutes left, right? Ah, only 10 minutes left. Okay, in these 10 minutes, let me look at the first question that appeared: what's YB's view on the reduction of Petronas dividends? Is the government reducing dependence, or is Petronas unable to give more? Question mark. Petronas can't give much. Simple.
 
 **Rafizi:** This government, if it can take as much as possible from Petronas, it will. So it can show that we're taking less, we get this money, government. That's sometimes what I — throughout my time as Economy Minister, sometimes when discussing with certain officials from the Ministry of Finance, I was sometimes worried too because their attitude was, "it's fine, we have Petronas."
 
@@ -398,13 +340,13 @@ So it starts becoming a vicious cycle. The money on hand keeps shrinking. Becaus
 
 **Rafizi:** This is like I have to go be interviewed by you instead. You ask the question, I sit here. From this person, usually reading here. Suddenly having to wait for questions like this. No, the 20% salary cut, this has been the case from before, right? So is there anything new?
 
-**Haziq:** There isn't. He's just repeating it, but within...
+**Haziq:** There isn't. He's just repeating it, but within.
 
-**Rafizi:** It's really been a salary cut from before, right. So...
+**Rafizi:** It's really been a salary cut from before, right. So.
 
 **Haziq:** So the salary is already small, and it's cut further.
 
-**Rafizi:** No, no. It's been from the start, I don't recall this being a new problem, because... maybe before it was 10%, now it's become 20% or so. Because PKR ministers have it worse — because of the 20% salary cut for the party, then a 10% salary cut for the government. So they get 70% of the salary.
+**Rafizi:** No, no. It's been from the start, I don't recall this being a new problem, because. maybe before it was 10%, now it's become 20% or so. Because PKR ministers have it worse — because of the 20% salary cut for the party, then a 10% salary cut for the government. So they get 70% of the salary.
 
 But as for the question of whether they should be paid more — I don't think that if we paid ministers RM10,000 more, for example, if I recall how much I used to get, net around RM37,000 a month. I think it was around that, RM37,000. I don't think that if the salary — after the salary cut, right — say if it wasn't cut, net would be RM42,000, say it rose by RM5,000, for other ministers, because of that RM5,000 increase, then if there's someone greedy for money, if they're inclined to be corrupt, whether their salary is RM45,000 or RM60,000 or RM80,000, they'll still take bribes anyway.
 
@@ -472,11 +414,7 @@ At the same time, for the other social enterprise — lending gadgets, how many 
 
 So actually, I don't want to start the others yet, because I really want to focus on these two first, so people start buying and see that it's successful, and then insyaAllah in November we'll also start with the others.
 
-**Haziq:** Alright, alright YB. Thank you for the update.
-
-**Rafizi:** Alright.
-
-**Haziq:** Is that all then, YB? Alhamdulillah, 2 hours 10 minutes of productive discussion. Thank you very much, YB Rafizi.
+**Haziq:** Alright, alright YB. Thank you for the update. Is that all then, YB? Alhamdulillah, 2 hours 10 minutes of productive discussion. Thank you very much, YB Rafizi.
 
 **Rafizi:** Thank you. Alright, tomorrow's the weekend.
 

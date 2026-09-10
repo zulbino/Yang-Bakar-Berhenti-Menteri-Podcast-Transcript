@@ -70,23 +70,19 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Baik, baik, baik. Okey YB, kita ke segmen yang pertama, seperti biasa YB komen: beria atau tak beria?
 
-**Rafizi:** Oh, ini yang... apa yang YB tengok? Ini yang di IKBN Miri. Ini ada sekumpulan pelajar konon buat prank. Prank. Hmm, apa nama ni, nasib baiklah macam saya di sekolah tu tak ada orang buat prank macam ni kan. Tapi prank lain ada lah. Prank masa di sekolah, saya sekolah dulu, contohnya masa April Fool, bangun pagi, orang ambil gayung untuk pergi mandi di asrama, jadi dia letak ubat gigi kat gayung, ataupun kasut sukan tu dia ikat. Sebab dia drill kan, cuma ada masa dalam 4-5 minit je untuk bersiap sebelum beralih ke aktiviti seterusnya, jadi orang marahlah, tapi selalunya melibatkan ubat gigi dan itu bolehlah dikira prank. Ataupun orang tunggu depan pintu, buka pintu keluar tu. Ini bukan prank ni, ini mencederakan ni kalau... buli. Yalah, nak kata bully, kalau suka sama suka dia tak mengaku bully lah. Tapi kalau bergurau macam ini dah melampaui batas. Kalau dia mencederakan, tambah kalau budak tu kecederaan jangka panjang, lepas ni tak dapat anak kan. Jadi tak tahu siapa yang beria ni — yang kena tu beria ataupun yang sama-sama buat tu beria. Tapi kena gantung dah, semua kena.
+**Rafizi:** Oh, ini yang. apa yang YB tengok? Ini yang di IKBN Miri. Ini ada sekumpulan pelajar konon buat prank. Prank. Apa nama ni, nasib baiklah macam saya di sekolah tu tak ada orang buat prank macam ni kan. Tapi prank lain ada lah. Prank masa di sekolah, saya sekolah dulu, contohnya masa April Fool, bangun pagi, orang ambil gayung untuk pergi mandi di asrama, jadi dia letak ubat gigi kat gayung, ataupun kasut sukan tu dia ikat. Sebab dia drill kan, cuma ada masa dalam 4-5 minit je untuk bersiap sebelum beralih ke aktiviti seterusnya, jadi orang marahlah, tapi selalunya melibatkan ubat gigi dan itu bolehlah dikira prank. Ataupun orang tunggu depan pintu, buka pintu keluar tu. Ini bukan prank ni, ini mencederakan ni kalau. buli. Yalah, nak kata bully, kalau suka sama suka dia tak mengaku bully lah. Tapi kalau bergurau macam ini dah melampaui batas. Kalau dia mencederakan, tambah kalau budak tu kecederaan jangka panjang, lepas ni tak dapat anak kan. Jadi tak tahu siapa yang beria ni — yang kena tu beria ataupun yang sama-sama buat tu beria. Tapi kena gantung dah, semua kena.
 
 **Haziq:** 7 orang kena gantung seminggu dan dipotong elaun. Okey baik, kita tengok yang seterusnya, beria atau tidak. Haa, di mana YB?
 
 **Rafizi:** Ni yang di Shah Alam tu ke?
 
-**Haziq:** Ya, yang viral di Shah Alam tu. Hahaha, yang dia... apa ni, lepas ditegur dia mulalah menumbuk tu kan.
+**Haziq:** Ya, yang viral di Shah Alam tu. Hahaha, yang dia. apa ni, lepas ditegur dia mulalah menumbuk tu kan.
 
 **Rafizi:** Video dia ada.
 
-**Haziq:** Haa lepas ni, cuma sampai dia orang tegur dia merokok, dia tak terima lah, dan dia... yelah temper lah.
+**Haziq:** Haa lepas ni, cuma sampai dia orang tegur dia merokok, dia tak terima lah, dan dia. yelah temper lah.
 
-**Rafizi:** Oh ni yang... ya ya, ini. Sebenarnya siapa yang merokok tu, yang bangun...
-
-**Haziq:** Yang...
-
-**Rafizi:** Ya ya, eh bukan, saya pun... dia di tengah, itulah, tak tahu siapa yang... memang patutlah direman. Dan saya harap jadi pengajaran kepada semua. Hmm, tapi masih lagi banyak berlaku, terutamanya di kedai-kedai mamak lah, orang merokok di tempat makan. Satu, saya pun tak faham — nak kata dia tak tahu undang-undang, undang-undang tu jelas. Kemudian nak kata dia tak bersopan, ni orang Malaysia sepatutnya faham bersopan. Tapi kalau keadaan ni berlaku, ni maksudnya... yelah, saya pun tak tahu budaya apa, budaya gedebe ni. Dia kata dia gedebe, gedebe sangat kan. Dahlah buat salah, ha, kemudian tak ada malu dan aib, bila orang tegur dia lawan balik, kemudian bergaduh. Jadi orang macam ini memang layak kena reman. Tapi yang lagi penting, kepada yang merokok — yalah itu pilihan dia nak merokok, tapi haa, janganlah sampai merokok di tempat awam, ataupun merokok di tempat makan, tambah kalau dalam kes ni ada orang mengandung. Jadi pilihan merokok tu janganlah jadi sebab sikap gedebe macam ini kan. Jadi saya harap, di mana-mana lah, lepas ni kalau ada yang merokok di tempat makan, yang lain tu kawan-kawan dia paling kurang jadi tanggungjawab untuk tegur dia. Jadi kawan kena tegur, sebab kalau kawan tak tegur, nanti orang lain tegur lagi malu. Dan kalau jadi macam ini, memang tak ada orang yang akan sokong tindakan macam ini, dan kalau dia kena reman, dia kena masuk, dia kena kenakan tindakan, memang semua orang akan bertepuk tangan.
+**Rafizi:** Oh ni yang. ya ya, ini. Sebenarnya siapa yang merokok tu, yang bangun. Ya ya, bukan, saya pun. dia di tengah, itulah, tak tahu siapa yang. memang patutlah direman. Dan saya harap jadi pengajaran kepada semua. Tapi masih lagi banyak berlaku, terutamanya di kedai-kedai mamak lah, orang merokok di tempat makan. Satu, saya pun tak faham — nak kata dia tak tahu undang-undang, undang-undang tu jelas. Kemudian nak kata dia tak bersopan, ni orang Malaysia sepatutnya faham bersopan. Tapi kalau keadaan ni berlaku, ni maksudnya. yelah, saya pun tak tahu budaya apa, budaya gedebe ni. Dia kata dia gedebe, gedebe sangat kan. Dahlah buat salah, ha, kemudian tak ada malu dan aib, bila orang tegur dia lawan balik, kemudian bergaduh. Jadi orang macam ini memang layak kena reman. Tapi yang lagi penting, kepada yang merokok — yalah itu pilihan dia nak merokok, tapi haa, janganlah sampai merokok di tempat awam, ataupun merokok di tempat makan, tambah kalau dalam kes ni ada orang mengandung. Jadi pilihan merokok tu janganlah jadi sebab sikap gedebe macam ini kan. Jadi saya harap, di mana-mana lah, lepas ni kalau ada yang merokok di tempat makan, yang lain tu kawan-kawan dia paling kurang jadi tanggungjawab untuk tegur dia. Jadi kawan kena tegur, sebab kalau kawan tak tegur, nanti orang lain tegur lagi malu. Dan kalau jadi macam ini, memang tak ada orang yang akan sokong tindakan macam ini, dan kalau dia kena reman, dia kena masuk, dia kena kenakan tindakan, memang semua orang akan bertepuk tangan.
 
 **Haziq:** Baik-baik. Tapi beria dia melawan balik tu kan. Okey, baik, itu yang kedua. Kita tengok lagi yang seterusnya, kita ada apa lagi. Haa, politik sikit. Haa, Pemuda PAS ajak UMNO himpun tolak URA. Tapi umur ni memang beria lah. Beria. Pemuda PAS ajak UMNO himpun tolak URA, tapi YB perasan respons daripada UMNO?
 
@@ -100,7 +96,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Haa okey. Saya block, jadi tak nampak lah, sebab dia ni dulu masa 1MDB, masa zaman Najib, dia ni totok troll tiap-tiap hari memaki kan, jadi memang kena block lah dia ni kan. Ini kalau kamu tak letak ni, saya tak tahu pun benda ni ada kan, haa YB baru tengok ni. Tapi ada yang orang tanya — ya, ini jawapan di parlimen satu ketika dahulu lah kan. Jadi jawapan di parlimen, di parlimen ni dah 2-3 tahun akan ada soalan-soalan berkenaan penyasaran semula subsidi RON95. Pada ketika ini, Kabinet telah membuat keputusan untuk tidak menggunakan kaedah pindahan tunai yang menggunakan data daripada PADU untuk penyasaran semula subsidi RON95. Dan memang keputusannya ialah ia akan dikendalikan oleh MOF pada ketika itu. Bila sampai soalan parlimen, MOF taiji kepada Kementerian Ekonomi. Okey, itu yang berlaku. Jadi kedudukan saya bila kita bincangkan pada ketika itu ialah oleh kerana kita menjawab bagi pihak kerajaan, maka kita kena bagi keputusan yang telah dibuat oleh kerajaan. Keputusan yang telah dibuat oleh kerajaan memang daripada itu pun ialah untuk menggunakan kad pengenalan seperti yang sekarang ini berlaku. Jadi tak timbulah soal saya bentang idea, saya yang bangkang. Saya ingat ahli parlimen, rakyat yang mengikuti memang sedia maklum bahawa pandangan saya ialah lebih baik dibuat menggunakan pindahan tunai, dan saya pun telah jelaskan dalam banyak kandungan dalam podcast yang lepas dan sebagainya. Tapi kalau macam ini, dia akan cuba putar belitkan. Jadi sebab itu saya tak nampak pun kandungan ataupun laporan media yang meletakkan keputusan atau idea untuk menggunakan kad pengenalan ini kepada saya, kerana semua orang tahu bahawa itu adalah cadangan yang dibawa oleh saya tetapi tidak dipersetujui oleh kabinet. Ini adalah cadangan Kementerian Kewangan, cuma masa ini Kementerian Kewangan tak nak jawab. Katanya rakyat kena tahu, bila soalan-soalan itu sampai daripada ahli-ahli parlimen, maka soalan itu memang ditujukan kepada kementerian masing-masing, dan kemudian akan ada mesyuarat penyelarasan yang akan menentukan betul ke tidak soalan ini adalah di bawah bidang kuasa kementerian ini. Jadi saya ingat soalan ini asalnya kepada Kementerian Kewangan, tetapi Kementerian Kewangan kata ini bukan soalan kami. Jadi saya masa itu beritahu pegawai, sepatutnya soalan pasal kaedah penyasaran semula subsidi RON95 ini sepatutnya telah pun sempat ditangani dan dijawab oleh MOF lah kerana keputusannya ialah MOF akan meneruskan. Tapi tak gunalah bergaduh, kesian pada pegawai, kerana kalau tidak, gajah menteri sama menteri, apa nama ni, tai chi, pegawai di bawah tu yang akan susah payah lah. Jadi sebab itu saya kata tak apalah, dan kita bagi pendirian kerajaan sajalah.
 
-**Haziq:** Jadi ini pendirian kabinet dan YB bercakap...
+**Haziq:** Jadi ini pendirian kabinet dan YB bercakap.
 
 **Rafizi:** Collective responsibility lah, dan pandangan minoriti saya itu memang diketahui umum. Jadi memang beria budak bangsat enam angka ni, cuba untuk memutar belit.
 
@@ -110,41 +106,29 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Ini bila sebut ulat taksi ni, adakah bermakna dia sebenarnya tidak ada lesen?
 
-**Rafizi:** Dia bukan... ulat ni selalunya yang tidak berlesen.
-
-**Haziq:** Ya, betul.
-
-**Rafizi:** Ini kalau dah ditangkap, baguslah. Saya harap dia dikenakan tindakan yang sewajarnya supaya dia serik, kerana kesian pada pelancong tu tau, trauma dia tu. Dia datang Malaysia melancong, trauma bukan sahaja dia kena bayar RM800 tu, trauma dia dibawa ke tempat gelap. Kalau contohnya ulat taksi ini hanya didakwa atas tuduhan di bawah akta pengangkutan, jadi ulat sahaja tak apa, sebab kalau di tempat lain, dia dah didakwa di bawah Kanun Keseksaan, silap-silap hari dituduh menculik, lagi teruk. Jadi trauma kepada pelancong itu satu. Tapi dalam keadaan sektor pelancongan ini cukup penting untuk negara — selain daripada eksport, terutamanya eksport elektronik, sebenarnya penjana pertukaran asing, maksudnya cara untuk kita mendapatkan mata wang asing, ataupun sama seperti eksport yang besar, ialah pelancong. Jadi bila pelancong masuk dan dia buat begini, dia akan tinggalkan nama yang cukup buruk. Kalau viral di negara masing-masing, memang ia akan menjejaskan sektor pelancongan yang melibatkan jutaan orang. Jadi saya harap JPJ dan pihak berkuasa mengambil tindakan yang berat, supaya kita kurangkan ulat-ulat ini dan tumpu dari segi penguatkuasaan supaya ulat-ulat ini tidak boleh beroperasi di kawasan seperti KLIA yang cukup penting kerana itu pintu masuk utama pelancongan negara.
+**Rafizi:** Dia bukan. ulat ni selalunya yang tidak berlesen. Ini kalau dah ditangkap, baguslah. Saya harap dia dikenakan tindakan yang sewajarnya supaya dia serik, kerana kesian pada pelancong tu tau, trauma dia tu. Dia datang Malaysia melancong, trauma bukan sahaja dia kena bayar RM800 tu, trauma dia dibawa ke tempat gelap. Kalau contohnya ulat taksi ini hanya didakwa atas tuduhan di bawah akta pengangkutan, jadi ulat sahaja tak apa, sebab kalau di tempat lain, dia dah didakwa di bawah Kanun Keseksaan, silap-silap hari dituduh menculik, lagi teruk. Jadi trauma kepada pelancong itu satu. Tapi dalam keadaan sektor pelancongan ini cukup penting untuk negara — selain daripada eksport, terutamanya eksport elektronik, sebenarnya penjana pertukaran asing, maksudnya cara untuk kita mendapatkan mata wang asing, ataupun sama seperti eksport yang besar, ialah pelancong. Jadi bila pelancong masuk dan dia buat begini, dia akan tinggalkan nama yang cukup buruk. Kalau viral di negara masing-masing, memang ia akan menjejaskan sektor pelancongan yang melibatkan jutaan orang. Jadi saya harap JPJ dan pihak berkuasa mengambil tindakan yang berat, supaya kita kurangkan ulat-ulat ini dan tumpu dari segi penguatkuasaan supaya ulat-ulat ini tidak boleh beroperasi di kawasan seperti KLIA yang cukup penting kerana itu pintu masuk utama pelancongan negara.
 
 **Haziq:** Baik, kita tengok ada lagi ke tidak?
 
-**Rafizi:** Manifesto, ini dia orang kampung saya. Dulu pernah berkempen sekali, kenal sangat lah. Dia selalulah pujuk saya dulu untuk apa nama ni, err, jadi penceramah untuk dia menang jadi Adun Chukai.
+**Rafizi:** Manifesto, ini dia orang kampung saya. Dulu pernah berkempen sekali, kenal sangat lah. Dia selalulah pujuk saya dulu untuk apa nama ni, jadi penceramah untuk dia menang jadi Adun Chukai.
 
 **Haziq:** Chukai, ya, ya.
 
-**Rafizi:** Sebab dia menang Adun Chukai rasanya 2013. Jadi masa 2010, 2011 tu saya dah jadi penceramah nasional lah, jadi kenal sangat lah dia. Yang ini tergagap-gagap, apa nama ni, hmm, memang beria-ialah. Tambahnya, bukan saja soal dia bagi nasihat suruh orang jimat air sebab tarif air di Terengganu naik. Kalau yang bagi nasihat itu ayah saya daripada Kemaman, orang tak buat hal. Ini masalahnya Dato' Hanafiah Mat ni, dia ni kononnya ialah Raja Troll PAS sebelum ni. Yang saya ingat dia mula-mula jadi viral, yang semua orang — yelah, ramai yang tak puas hati, tapi penyokong PAS tepuk sayang lah — yelah bila dia makan nasi dengan air oren tu.
+**Rafizi:** Sebab dia menang Adun Chukai rasanya 2013. Jadi masa 2010, 2011 tu saya dah jadi penceramah nasional lah, jadi kenal sangat lah dia. Yang ini tergagap-gagap, apa nama ni, memang beria-ialah. Tambahnya, bukan saja soal dia bagi nasihat suruh orang jimat air sebab tarif air di Terengganu naik. Kalau yang bagi nasihat itu ayah saya daripada Kemaman, orang tak buat hal. Ini masalahnya Dato' Hanafiah Mat ni, dia ni kononnya ialah Raja Troll PAS sebelum ni. Yang saya ingat dia mula-mula jadi viral, yang semua orang — yelah, ramai yang tak puas hati, tapi penyokong PAS tepuk sayang lah — yelah bila dia makan nasi dengan air oren tu.
 
 **Haziq:** Yang itu yang pasal Rahmah kan?
 
-**Rafizi:** Ya, pasal Rahmah. Pasal menu Rahmah, tak cukup rasa, tak cukup rasa kononnya kan. Jadi apa nama ni, sekarang dia merasa lah, dia kena troll dan juga apa nama ni jadi bahan oleh netizen. Cuma satu lagi perspektif — manifesto bukan kitab suci ni, sebab saya ingatnya PAS juga dulu pernah berjanji air percuma kan. Jadi daripada air percuma, dia jadi tarif air naik satu kali ganda. Pastilah kalau di kalangan penyokong PAS semua ini halal, dalilnya itu manifesto PRU14. Tapi kalau tengok komen-komen di media sosial saya, tak timbulah cerita dalil PRU13, padahal yang selalu disebut, contohnya turun harga kereta, dan ini PRU 2013 — PRU ke berapa? PRU ke-13 lah, yang mana pada ketika itu PAS lah yang paling seronok berkempen ke seluruh negara. Jadi sebab itu, yelah, saya harap orang yang menonton, pengundi-pengundi — sebab itu kita tak boleh totok parti tau. Sebab apa yang berlaku di Terengganu ini membuktikan satu perkara: mana-mana parti pun bila dia memerintah, dia terpaksa mengimbangi antara janji populis dia dengan tanggungjawab untuk memastikan perkhidmatan kerajaan itu dapat disediakan pada harga yang tidak membebankan rakyat, berbanding dengan kekangan kewangan yang ada. Jadi dalam kes Terengganu, kita sedia maklum negeri Terengganu adalah antara negeri yang paling rendah sebenarnya kutipan cukai tau — kutipan cukai di Terengganu, kalau tak silap saya, sebagai hasil kerajaan adalah lebih rendah daripada kutipan cukai di Kelantan.
+**Rafizi:** Ya, pasal Rahmah. Pasal menu Rahmah, tak cukup rasa, tak cukup rasa kononnya kan. Jadi apa nama ni, sekarang dia merasa lah, dia kena troll dan juga apa nama ni jadi bahan oleh netizen. Cuma satu lagi perspektif — manifesto bukan kitab suci ni, sebab saya ingatnya PAS juga dulu pernah berjanji air percuma kan. Jadi daripada air percuma, dia jadi tarif air naik satu kali ganda. Pastilah kalau di kalangan penyokong PAS semua ini halal, dalilnya itu manifesto PRU14. Tapi kalau tengok komen-komen di media sosial saya, tak timbulah cerita dalil PRU13, padahal yang selalu disebut, contohnya turun harga kereta, dan ini PRU 2013 — PRU ke berapa? PRU ke-13 lah, yang mana pada ketika itu PAS lah yang paling seronok berkempen ke seluruh negara. Jadi sebab itu, yelah, saya harap orang yang menonton, pengundi-pengundi — sebab itu kita tak boleh totok parti tau. Sebab apa yang berlaku di Terengganu ini membuktikan satu perkara: mana-mana parti pun bila dia memerintah, dia terpaksa mengimbangi antara janji populis dia dengan tanggungjawab untuk memastikan perkhidmatan kerajaan itu dapat disediakan pada harga yang tidak membebankan rakyat, berbanding dengan kekangan kewangan yang ada. Jadi dalam kes Terengganu, kita sedia maklum negeri Terengganu adalah antara negeri yang paling rendah sebenarnya kutipan cukai tau — kutipan cukai di Terengganu, kalau tak silap saya, sebagai hasil kerajaan adalah lebih rendah daripada kutipan cukai di Kelantan. Lagi rendah kan. Jadi dengan kutipan cukai — dan kutipan cukai itu ialah petunjuk kepada pertumbuhan ekonomi di negeri itu — jadi dengan kutipan cukai yang rendah, memanglah mereka tak boleh nak bagi air percuma dan sebagainya kerana kekangan kewangan itu. Itulah juga yang berlaku di peringkat persekutuan, di beberapa negeri yang lain, dan macam-macam lagi kan. Jadi rakyat kena tengok dan nilai bahawa lepas ini, ini bukan lagi soal siapa yang boleh bagi percuma. Sebenarnya kebolehan sesebuah parti untuk memerintah itu patut dinilai daripada idea dan juga perancangan mereka untuk memastikan bahawa kekangan-kekangan yang ada ini dapat ditangani secara kreatif, supaya mana yang rakyat patut bayar, rakyat bayar, mana yang rakyat layak dapat bantuan kerana mereka tidak mampu, mereka layak dapat bantuan. Kalau ada wang sekalipun, lebih baik wang itu dibelanjakan untuk memastikan infrastruktur, khidmat seperti perkhidmatan air dan utiliti ini dapat disediakan kepada rakyat dalam keadaan yang baik untuk generasi akan datang. Apa nama ni, Dato' Hanafiah Mat ni jadi viral dan juga jadi selebriti sekali lagi — selain daripada kita gelakkan dia ramai-ramai, saya harap dia juga mencetuskan, terutamanya mereka yang atas pagar, untuk menilai bahawa kita nak pilih ini, kita tak boleh pilih berdasarkan sentimen semata-mata. Lepas ini kita kena pilih orang yang berkemahiran dan ada pengetahuan dan kemampuan, kerana mana-mana parti pun terpaksa menyelesaikan beban-beban yang besar macam ini.
 
-**Haziq:** Lagi rendah?
-
-**Rafizi:** Lagi rendah kan. Jadi dengan kutipan cukai — dan kutipan cukai itu ialah petunjuk kepada pertumbuhan ekonomi di negeri itu — jadi dengan kutipan cukai yang rendah, memanglah mereka tak boleh nak bagi air percuma dan sebagainya kerana kekangan kewangan itu. Itulah juga yang berlaku di peringkat persekutuan, di beberapa negeri yang lain, dan macam-macam lagi kan. Jadi rakyat kena tengok dan nilai bahawa lepas ini, ini bukan lagi soal siapa yang boleh bagi percuma. Sebenarnya kebolehan sesebuah parti untuk memerintah itu patut dinilai daripada idea dan juga perancangan mereka untuk memastikan bahawa kekangan-kekangan yang ada ini dapat ditangani secara kreatif, supaya mana yang rakyat patut bayar, rakyat bayar, mana yang rakyat layak dapat bantuan kerana mereka tidak mampu, mereka layak dapat bantuan. Kalau ada wang sekalipun, lebih baik wang itu dibelanjakan untuk memastikan infrastruktur, khidmat seperti perkhidmatan air dan utiliti ini dapat disediakan kepada rakyat dalam keadaan yang baik untuk generasi akan datang. Apa nama ni, Dato' Hanafiah Mat ni jadi viral dan juga jadi selebriti sekali lagi — selain daripada kita gelakkan dia ramai-ramai, saya harap dia juga mencetuskan, terutamanya mereka yang atas pagar, untuk menilai bahawa kita nak pilih ini, kita tak boleh pilih berdasarkan sentimen semata-mata. Lepas ini kita kena pilih orang yang berkemahiran dan ada pengetahuan dan kemampuan, kerana mana-mana parti pun terpaksa menyelesaikan beban-beban yang besar macam ini.
-
-**Haziq:** Ya, baik-baik. Okey, YB kita nak kena kadarkan — okey nak kena kadarkan. Okey kita mula dengan beria kan?
-
-**Rafizi:** Ya, beria.
-
-**Haziq:** Kita ada — okey kadar dulu dari awal eh, okey. Hmm, macam mana kualiti kali ini?
+**Haziq:** Ya, baik-baik. Okey, YB kita nak kena kadarkan — okey nak kena kadarkan. Okey kita mula dengan beria kan? Kita ada — okey kadar dulu dari awal okey. Macam mana kualiti kali ini?
 
 **Rafizi:** Tapi itulah, dia tak ada yang betul-betul beria macam episod yang pertama, yang apa nama ni ada pempengaruh letak kereta atas. Yang ini saya bagi tiga bintang.
 
 **Haziq:** Baik, terima kasih.
 
-**Rafizi:** Dia ini dua bintang. Selepasnya... haa, ya, ini dua bintang. Dua bintang, saya buat malu, sebab dah pernah muncul. Haa, ya, ini pun dua bintang. Dua bintang sahaja, beria nak bertindak, tapi tak ada orang pun layan. Hahaha. Ya, ini bukan beria, ini jahat, salah kategori — salah kategori ni jahat, dua bintang. Okeylah, rasanya kalau beria ni, kita kena bagi kepada orang kampung saya, empat bintang. Bahaya sebegini, empat bintang.
+**Rafizi:** Dia ini dua bintang. Selepasnya. haa, ya, ini dua bintang. Dua bintang, saya buat malu, sebab dah pernah muncul. Haa, ya, ini pun dua bintang. Dua bintang sahaja, beria nak bertindak, tapi tak ada orang pun layan. Hahaha. Ya, ini bukan beria, ini jahat, salah kategori — salah kategori ni jahat, dua bintang. Okeylah, rasanya kalau beria ni, kita kena bagi kepada orang kampung saya, empat bintang. Bahaya sebegini, empat bintang.
 
-**Haziq:** Tahniah, YB, tengok spek dia tu, hebat. Okey, baik YB, having said that, kita ke...
+**Haziq:** Tahniah, YB, tengok spek dia tu, hebat. Okey, baik YB, having said that, kita ke.
 
 **Rafizi:** Bukan episod, tapi segmen seterusnya, ini segmen yang keras.
 
@@ -164,7 +148,7 @@ Matlamat utama penyasaran semula subsidi RON95 ni ada dua. Satu, untuk pengukuha
 
 **Haziq:** Volatiliti.
 
-**Rafizi:** Oh, itulah bahasa Melayu punya — kemeruapan. Jadi matlamat untuk mengurangkan keterdedahan kerajaan...
+**Rafizi:** Oh, itulah bahasa Melayu punya — kemeruapan. Jadi matlamat untuk mengurangkan keterdedahan kerajaan.
 
 **Haziq:** Ia keterdedahan lah kan?
 
@@ -200,21 +184,13 @@ Seperti disebut tadi dalam soalan pertama — kalau harga minyak mentah naik mel
 
 **Haziq:** Yang seterusnya YB, masih lagi menyentuh — oh banyaknya — tapi lebih kepada kepraktisan dan penggunaan lah YB. Saya rasa nasi dah jadi bubur dan kerajaan pun dah umum, YB. Dan dianggarkan akan berlaku percambahan industri penyeludupan, tumbuh bagai cendawan. Jadi kalau YB tengok, macam mana penguatkuasa sekarang ni nak kuatkuasakan? Sekarang ni dah jadi kepada setiap rakyat Malaysia sebab — saya mesej tu ada kata tu kan.
 
-**Rafizi:** Susah nak sebut sekarang lah sehingga dia berlaku, kerana dia tidak pernah dilaksanakan. Ada dua perkara. Satu, ialah kelancaran untuk membeli — masukkan kad dan keluar. Saya baca komen netizen, "apalah bising-bising, masuk kad pun nak bising, senang saja." Sebenarnya pengalaman itu berbeza-beza. Saya ingat kebanyakan ujian sistem ini mungkin dibuat di Lembah Klang.
-
-**Haziq:** Oh, okey.
-
-**Rafizi:** Di Lembah Klang ini lebih banyak orang pakai aplikasi, lebih banyak orang pakai kad dan sebagainya. Jadi sebab itu mungkin tidak menyebabkan masalah sangat. Dan di Lembah Klang juga akan ada liputan — liputan dalam bahasa Melayu apa dia?
-
-**Haziq:** Liputan.
-
-**Rafizi:** Liputan. Di Lembah Klang juga ada liputan internet yang baik, sistem yang baik, fiber yang baik. Jadi gangguan kepada sistem itu, sistem PAM, mungkin lebih minimal berbanding dengan contohnya di tempat-tempat pedalaman. Kalau di tempat-tempat pedalaman, internet mungkin ada gangguan, ataupun penggunaan kad, ataupun settle dan yang lain-lain ini mungkin jauh lebih rendah berbanding dengan Lembah Klang.
+**Rafizi:** Susah nak sebut sekarang lah sehingga dia berlaku, kerana dia tidak pernah dilaksanakan. Ada dua perkara. Satu, ialah kelancaran untuk membeli — masukkan kad dan keluar. Saya baca komen netizen, "apalah bising-bising, masuk kad pun nak bising, senang saja." Sebenarnya pengalaman itu berbeza-beza. Saya ingat kebanyakan ujian sistem ini mungkin dibuat di Lembah Klang. Di Lembah Klang ini lebih banyak orang pakai aplikasi, lebih banyak orang pakai kad dan sebagainya. Jadi sebab itu mungkin tidak menyebabkan masalah sangat. Dan di Lembah Klang juga akan ada liputan — liputan dalam bahasa Melayu apa dia? Liputan. Di Lembah Klang juga ada liputan internet yang baik, sistem yang baik, fiber yang baik. Jadi gangguan kepada sistem itu, sistem PAM, mungkin lebih minimal berbanding dengan contohnya di tempat-tempat pedalaman. Kalau di tempat-tempat pedalaman, internet mungkin ada gangguan, ataupun penggunaan kad, ataupun settle dan yang lain-lain ini mungkin jauh lebih rendah berbanding dengan Lembah Klang.
 
 Kemudian, ya, okey — ada rakyat yang tak sempat, tak pernah pun menggunakan kad pengenalan dia untuk tujuan seperti ini. Baik, cip pada kad tu, dia tak tahu pun boleh berfungsi atau tidak. Tiba-tiba dia pergi beli minyak, kemudian cip dia tak berfungsi, dia susah, dan dia kena bayar harga penuh. Pedih untuk dia, tau, pengalaman dia kan. Dan sebab itu, sebelum saya masuk soal penyeludupan — dari segi pelaksanaan, saya tak pasti sejauh mana ujian di seluruh negara dibuat. Masa yang ada tu saya ingat singkat, daripada maklum balas yang saya dapat, kebanyakan ujian itu ialah di kawasan bandar. Jadi ada risiko itu. Dan bayangkan untuk kerajaan, mungkin semasa ujian itu mengatakan bahawa semua lancar, tapi ujian itu adalah di kawasan-kawasan sampel. Tapi untuk enam bulan, tujuh bulan akan datang, tiap-tiap hari — terima kasih — dan dia tak dapat beli minyak, ataupun ada je 10-15 stesen minyak di Malaysia ini yang liputan internetnya kurang baik, jadi tergendala. Maksudnya kita baru saja menjamin, tiap-tiap hari kita akan dimaki.
 
-**Haziq:** Terpahat di...
+**Haziq:** Terpahat di.
 
-**Rafizi:** ...memori mereka. Sebab itu saya kata risiko pelaksanaan itu sebenarnya ada. Tapi setakat mana? Adakah 100 orang sehari, 500 orang sehari, 1000 orang sehari? Stesen minyak yang ada masalah sistem — adakah 10, 15, 100? Yang itu, seperti saya sebut tadi, kita hanya akan tahu dalam tempoh 6 ke 12 bulan dan kita kena tengoklah kecoh di media sosial nanti.
+**Rafizi:** memori mereka. Sebab itu saya kata risiko pelaksanaan itu sebenarnya ada. Tapi setakat mana? Adakah 100 orang sehari, 500 orang sehari, 1000 orang sehari? Stesen minyak yang ada masalah sistem — adakah 10, 15, 100? Yang itu, seperti saya sebut tadi, kita hanya akan tahu dalam tempoh 6 ke 12 bulan dan kita kena tengoklah kecoh di media sosial nanti.
 
 Sama juga sebenarnya dengan soal pasaran gelap. Bukanlah saya nak kata penyeludupan itu — mungkin lebih tepat, risiko ketirisan. Terutamanya bagi peniaga yang tidak layak untuk mendapat RON95 bersubsidi di bawah skim pengangkutan dan kenderaan kerajaan yang bersubsidi ini. Ada sebenarnya tapi ikut kategori-kategori, terutamanya peniaga-peniaga kecil. Sama macam semasa penyasaran semula subsidi diesel dibuat dahulu. Contohnya peniaga pasar malam — ramai daripada mereka pakai treler pikap. Jadi yang diberi 200 liter itu tak cukuplah. Kemudian ada juga kes yang treler pikap itu didaftarkan atas nama mak dia, dan mak dia itu mungkin berpendapatan tinggi, tapi si peniaga sendiri berpendapatan rendah. Jadi sebab pendaftaran atas nama mak dia, dia tak dapat diesel — ada risiko peniaga-peniaga kecil yang akan menanggung ini.
 
@@ -228,41 +204,33 @@ Jadi sebenarnya tidak semestinya betul, dan saya selalu sebut — baik semasa sa
 
 Macam saya sebut tadi — berapa orang yang tiap-tiap hari tak boleh beli minyak? Kita mungkin kata orang itu makin "hamun" [meleret-leret merungut] saja. Soal liputan, soal sistem down dan sebagainya — kita mungkin kata tak apa, ujian menunjukkan okey. Tapi kalau berlaku di beberapa daerah, daerah itu semua melenting. Yang ketiga, soal ketirisan — kita mungkin kata tak apa, kita boleh hat sana, monitor sini dan sebagainya. Ya, tapi berapa ramai yang kita nak gaji, besar mana kerja ini nanti untuk orang jaga di setiap stesen minyak — jangan pula lepas ini KBDN kena kejar orang yang jual minyak pula. Jadi ini semua kesan-kesan sampingan yang tidak dijangka yang mendorong saya beri amaran kepada kerajaan daripada awal — pandangan saya bahawa kalau melaksanakan menggunakan pam ini, ia akan membawa kepada risiko-risiko inilah.
 
-**Haziq:** Baik-baik, YB. Cuma ada satu lagi, YB. Oh, banyaknya. Tapi ini — ya, orang bertanya, termasuk "kawan baik" — tak tahu kawan baik siapalah — Lim Sian Si...
+**Haziq:** Baik-baik, YB. Cuma ada satu lagi, YB. Oh, banyaknya. Tapi ini — ya, orang bertanya, termasuk "kawan baik" — tak tahu kawan baik siapalah — Lim Sian Si.
 
-**Rafizi:** Dia bukan kawan baik siapa-siapa. Dia sebenarnya macam...
+**Rafizi:** Dia bukan kawan baik siapa-siapa. Dia sebenarnya macam.
 
 **Haziq:** Najib. Soalannya mungkin ada tiga perkataan saja — apa jadi dengan PADU M4?
 
-**Rafizi:** Tak — maksudnya, apabila kerajaan membuat keputusan pertama untuk menggunakan kad pengenalan dan kedua untuk tidak menggunakan had pendapatan, maksudnya Padu tidak digunakanlah. Kerana Padu dibangunkan untuk pindahan tunai seperti keputusan awal dalam tahun 2023. Biasalah, Lim Sian Si ke, pembangkang ke, wa lanun pun ke, sekarang yang cuba hentam saya, dia cuba meletakkan bahawa Padu ini ialah Rafizi. Eh, yang melancarkannya itu Anwar Ibrahim. Yang bersetuju semua itu ialah kerajaan dan kabinet. Ia menjadi satu teras utama kerajaan. Jadi memang, semasa keputusan dibuat — saya ingat itu Mei 2023 — Kementerian Ekonomi dipertanggungjawabkan untuk membangunkan satu pangkalan data utama yang menggabungkan semua ini seawal Januari 2024. Kami ada lebih kurang tujuh bulan saja untuk buat dengan tenaga kerja dalaman kerajaan. Itu yang berlaku. Akhirnya kerajaan buat U-turn.
-
-**Haziq:** Kerajaan...
-
-**Rafizi:** ...membuat keputusan tak berani untuk menggunakan pindahan tunai, kerana kerajaan takut kalau naik sahaja harga nanti orang mengamuk. Itu sahaja. Pandangan saya, ia bergantung macam mana kita memulangkan balik dalam bentuk pindahan tunai secara bulanan. Jadi buat masa sekarang, maksudnya Padu tidak digunakanlah. Kerana kalau setakat menggunakan IC, semua layak tanpa had pendapatan, besar kemungkinan Kementerian Kewangan melalui sistem Budi95 ini — dia panggil apa, Budi95 — menggunakan data daripada JPJ sahaja. Kerana dia tak perlukan data lain — tak perlukan data saiz keluarga, lokasi, tempat, tak perlukan data pendapatan, perbelanjaan dan sebagainya.
+**Rafizi:** Tak — maksudnya, apabila kerajaan membuat keputusan pertama untuk menggunakan kad pengenalan dan kedua untuk tidak menggunakan had pendapatan, maksudnya Padu tidak digunakanlah. Kerana Padu dibangunkan untuk pindahan tunai seperti keputusan awal dalam tahun 2023. Biasalah, Lim Sian Si ke, pembangkang ke, wa lanun pun ke, sekarang yang cuba hentam saya, dia cuba meletakkan bahawa Padu ini ialah Rafizi. Yang melancarkannya itu Anwar Ibrahim. Yang bersetuju semua itu ialah kerajaan dan kabinet. Ia menjadi satu teras utama kerajaan. Jadi memang, semasa keputusan dibuat — saya ingat itu Mei 2023 — Kementerian Ekonomi dipertanggungjawabkan untuk membangunkan satu pangkalan data utama yang menggabungkan semua ini seawal Januari 2024. Kami ada lebih kurang tujuh bulan saja untuk buat dengan tenaga kerja dalaman kerajaan. Itu yang berlaku. Akhirnya kerajaan buat U-turn. membuat keputusan tak berani untuk menggunakan pindahan tunai, kerana kerajaan takut kalau naik sahaja harga nanti orang mengamuk. Itu sahaja. Pandangan saya, ia bergantung macam mana kita memulangkan balik dalam bentuk pindahan tunai secara bulanan. Jadi buat masa sekarang, maksudnya Padu tidak digunakanlah. Kerana kalau setakat menggunakan IC, semua layak tanpa had pendapatan, besar kemungkinan Kementerian Kewangan melalui sistem Budi95 ini — dia panggil apa, Budi95 — menggunakan data daripada JPJ sahaja. Kerana dia tak perlukan data lain — tak perlukan data saiz keluarga, lokasi, tempat, tak perlukan data pendapatan, perbelanjaan dan sebagainya.
 
 Tapi Padu tetap ada di situ, dan ia digunakan untuk tujuan-tujuan lain dalam kerajaan, kerana pangkalan data yang paling lengkap mengenai maklumat sesuatu isi rumah, saya ingat, masih Padu. Jadi kalau contohnya ada keperluan untuk menyemak kedudukan kewangan isi rumah bagi tujuan subsidi ataupun bantuan bersasar yang lain, masih lagi menggunakan Padu. Cuma kefahaman rakyat — dan itulah juga salah satu daripada tujuan utama kerajaan memutuskan untuk membangunkan Padu seawal Mei 2023 — kes penggunaan pertamanya, sepatutnya ialah penyasaran semula subsidi. Tapi oleh kerana kerajaan mengambil keputusan yang lain, maka data Padu, saya ingat, tidak digunakan.
 
-**Haziq:** Baik, YB, jelas. Kita ke yang lain — saya rasa dah tak ada tentang Budi. Oh, dah tak...
+**Haziq:** Baik, YB, jelas. Kita ke yang lain — saya rasa dah tak ada tentang Budi. Oh, dah tak.
 
-**Rafizi:** ...keras dah. Ke ada lagi?
+**Rafizi:** keras dah. Ke ada lagi?
 
 **Haziq:** Ada, ada. Ini isu sosial sikit, YB.
 
-**Rafizi:** Ha, ini kena minum air. Minum air dulu, sayang. Eh, ini semua memecahbelahkan. Ada yang setuju — tak banyaklah yang saya dengar cakap setuju. Tapi yang tak setuju itu dia dah jadi kasar. Kesian Ketua Polis Kelantan.
+**Rafizi:** Ha, ini kena minum air. Minum air dulu, sayang. Ini semua memecahbelahkan. Ada yang setuju — tak banyaklah yang saya dengar cakap setuju. Tapi yang tak setuju itu dia dah jadi kasar. Kesian Ketua Polis Kelantan.
 
-**Haziq:** Ya. Dalam keadaan kita ada "ketirisan jenayah" — maksudnya ada orang yang buat jenayah tapi... yelah, tirisan jenayah. Ni pandai-pandai fikiran engkau punya lah — sebab kita tengok...
+**Haziq:** Ya. Dalam keadaan kita ada "ketirisan jenayah" — maksudnya ada orang yang buat jenayah tapi. yelah, tirisan jenayah. Ni pandai-pandai fikiran engkau punya lah — sebab kita tengok.
 
 **Rafizi:** Jenayah mana ada tiris. Kalau jenayah, jenayah lah.
 
-**Haziq:** Sebagai contoh — oh, okey, kita ada apa ni, perwakilan. Kau peguam kan dulu?
+**Haziq:** Sebagai contoh — oh, okey, kita ada apa ni, perwakilan. Kau peguam kan dulu? Adakah?
 
-**Rafizi:** Ya.
+**Rafizi:** Tak adalah, konsep itu. ini kita punya analogi sendiri.
 
-**Haziq:** Adakah?
-
-**Rafizi:** Tak adalah, konsep itu... ini kita punya analogi sendiri.
-
-**Haziq:** Rogol berkanun ni — berhati-hati apa nak cakap ni, baik YB. Cuma dia agak kontroversial lah, sebab apa ni — lelaki dan perempuan suka sama-suka, maksudnya...
+**Haziq:** Rogol berkanun ni — berhati-hati apa nak cakap ni, baik YB. Cuma dia agak kontroversial lah, sebab apa ni — lelaki dan perempuan suka sama-suka, maksudnya.
 
 **Rafizi:** Kau cuba nak kata tadi, ketirisan jenayah ini ialah maksudnya kalau lelaki dihukum, perempuan patut dihukum. Sesuatu macam itulah.
 
@@ -298,17 +266,13 @@ Jadi kita di Malaysia ini, kita selalunya orang kata tabu — kita pantang, lara
 
 **Rafizi:** Jangan lupa like, share dan subscribe.
 
-**Haziq:** Pernah tengok ke SVU? Saya tahu benda itu tapi saya tak pernah tengok.
+**Haziq:** Pernah tengok ke SVU? Saya tahu benda itu tapi saya tak pernah tengok. Tak pernah tengok. Saya semak tadi "rogol statutory" — maksudnya rogol statutory? Bukan rogol berkanun. Rogol statutory. Sebelum sampai ke ajaran sesat.
 
-**Rafizi:** Tak pernah tengok?
-
-**Haziq:** Tak pernah tengok. Saya semak tadi "rogol statutory" — maksudnya rogol statutory? Bukan rogol berkanun. Rogol statutory. Sebelum sampai ke ajaran sesat...
-
-**Rafizi:** Malu UM. Dia ni dulu graduate ijazah undang-undang daripada UM — bahasa Inggeris. Oh, bahasa Inggeris. Jadi dia memang tak ada bahasa Melayu lah. Ada, tapi mostly itulah. Pandai kau bagi alasan.
+**Rafizi:** Malu Dia ni dulu graduate ijazah undang-undang daripada — bahasa Inggeris. Oh, bahasa Inggeris. Jadi dia memang tak ada bahasa Melayu lah. Ada, tapi mostly itulah. Pandai kau bagi alasan.
 
 **Haziq:** Kumpul SD — ini simple je, YB. Apalah salah Wan Saiful kumpulkan SD? Dia ikut teladan daripada presiden dia. Itu je soalan.
 
-**Rafizi:** Tak apa lah, kau dah jawab. Hmm, yalah, apa nama ni, saya pun terkejut lah sebab saya ingat Wan Saiful ni memang penyokong kuat Tan Sri Muhyiddin, sebab dia memang daripada asal dengan Bersatu. Wan Saiful ni dulu, masa kami belajar di UK, dia ni dulu presiden HISB kalau tak silap saya — presiden Persatuan Pelajar PAS. Sekarang Bersatu, kan. Saya pun tak nak komen panjang lah. Jadi yang seronoknya, akhirnya kita tahulah watak yang SD ni, sebab saya tak tanya orang lah, saya kata siapa ni yang mengumpul SD ni kan. Akhirnya kita tahulah. Dan ini sepatutnya masuk dalam segmen berita.
+**Rafizi:** Tak apa lah, kau dah jawab. Yalah, apa nama ni, saya pun terkejut lah sebab saya ingat Wan Saiful ni memang penyokong kuat Tan Sri Muhyiddin, sebab dia memang daripada asal dengan Bersatu. Wan Saiful ni dulu, masa kami belajar di UK, dia ni dulu presiden HISB kalau tak silap saya — presiden Persatuan Pelajar PAS. Sekarang Bersatu, kan. Saya pun tak nak komen panjang lah. Jadi yang seronoknya, akhirnya kita tahulah watak yang SD ni, sebab saya tak tanya orang lah, saya kata siapa ni yang mengumpul SD ni kan. Akhirnya kita tahulah. Dan ini sepatutnya masuk dalam segmen berita.
 
 Okey, okey, jadi apa nama ni, maksudnya masalah pergolakan di dalam Bersatu itu tidak berkesudahan lah. Kerana bila dah dipanggil ke lembaga disiplin kan, dia dah jadi kes di lembaga disiplin. Dalam mana-mana parti lah dia akan ada yang marah dan yang mempertahan. Jadi keputusannya nanti macam mana, nak gantung ke, nak keluarkan dengan amaran sahaja. Kalau contohnya tindakan yang diambil itu dikira terlalu ringan, hanya dikeluarkan amaran, penyokong-penyokong Tan Sri Muhyiddin yang taasub ni pun akan marah lah, tak tu kan. Jadi daripada satu perkara ke satu perkara lah, bermula kepada SD, kemudian lepas ini tumpuan di dalam Bersatu itu ialah kepada kes lembaga disiplin pula, lepas itu kepada keputusan lembaga disiplin. Dan kalau keputusan itu, selalunya tidak akan ada win-win lah. Kalau dia lepas dengan mudah, satu kumpulan marah. Kalau dia ambil tindakan gantung ke apa, satu kumpulan lagi marah, dan sebagainya kan. Jadi akhirnya, satu Bersatu memang tidak bersatu lah.
 
@@ -332,7 +296,7 @@ Sebut pasal Farhash, pasal ini, kerana aset utama Pakatan Harapan ini sebenarnya
 
 Jadi dengan adanya perkara sebegini, saya rasa kesannya bukan sahaja di Sabah, tetapi juga kepada kerajaan persekutuan di bawah Dato' Seri Anwar Ibrahim. Tetapi saya hanya menunggu dan akan terus mengikuti perkembangannya, dan saya tidak rasa ia berakhir dengan Jeffrey Kitingan. Ia akan berterusan. Kebimbangan saya ialah kalau ia juga mula melibatkan tokoh-tokoh daripada persekutuan, daripada Putrajaya. Saya sebut begitu. Tetapi...
 
-**Haziq:** ...bimbang atau ada...
+**Haziq:** bimbang atau ada.
 
 **Rafizi:** Ya, itu tidak mengapa, kita tunggu saja ceritanya. Okey, tunggu. Okey baik. Jadi lebih besar dan lebih besar dan lebih besar.
 
@@ -356,11 +320,7 @@ Saya ingat hanya ada seorang saja wakil rakyat yang pernah angkat tangan dan men
 
 Jadi, saya berharap pada masa akan datang, lepas ini, masyarakat dan ahli politik sama-sama — kita alihkan, recalibrate masyarakat kita, tumpu kepada benda-benda yang lebih substantif dan produktif. Contohnya pasal taufan ini.
 
-**Haziq:** Baik, YB. Kita ke... British Rosania —
-
-**Rafizi:** Saya tengok ucapan —
-
-**Haziq:** Penuh lah, teleprompter dia rosak. Teleprompter dia rosak, kemudian eskalator dia pun rosak. Baru sampai, terus tak boleh. Jadi sempena ulang tahun PBB ke-80, dia kutuk PBB. Jadi orang nak tahu, adakah ini usaha untuk dia cuba memotong globalisasi, ataupun bagaimana, untuk kekalkan hegemoni atau dominasi AS?
+**Haziq:** Baik, YB. Kita ke. British Rosania — Penuh lah, teleprompter dia rosak. Teleprompter dia rosak, kemudian eskalator dia pun rosak. Baru sampai, terus tak boleh. Jadi sempena ulang tahun PBB ke-80, dia kutuk PBB. Jadi orang nak tahu, adakah ini usaha untuk dia cuba memotong globalisasi, ataupun bagaimana, untuk kekalkan hegemoni atau dominasi AS?
 
 **Rafizi:** Kau tanya aku macam aku ni Trump. Mana aku tahu. Tetapi kalau isu berkaitan Trump dengan PBB ini, ia berkait kepada dua perkara besar. Satu ialah pandangan pentadbiran Trump daripada dahulu ialah — AS paling banyak menanggung beban kewangan PBB. Memang betul, setiap negara perlu beri sumbangan, dan sudah tentu sumbangan yang paling besar adalah daripada AS. Dan didakwa, AS tidak mendapat sumbangan timbal balik yang sewajarnya dengan pergantungan kewangan PBB dan juga agensi-agensi PBB terhadap AS.
 
@@ -368,19 +328,13 @@ Jadi dua perkara itulah sebenarnya. Trump seorang pembuat perjanjian (dealmaker)
 
 Tetapi, hegemoni Amerika Syarikat ini dalam tempoh 80, 90 tahun yang lepas — 80, 45, 55, tambah sekarang 25, 70 tahun — sebenarnya adalah melalui PBB dan juga agensi-agensinya. Kalau nak kata bahawa AS tidak mendapat apa-apa daripada sumbangan kewangan yang ditanggung untuk menampung PBB dan agensi-agensinya, itu pun tidak betul. Kerana melalui sumbangan kewangan daripada AS itu, AS mempunyai pengaruh yang paling besar kepada tatanan dunia (world order), dan legitimasi keabsahan kepimpinan AS kepada dunia itu dilaksanakan melalui PBB. Jadi saya rasa semua presiden AS sebelum ini memahami perkara itu, sebab itu ia tidak jadi isu. Cuma bila Trump, dia menggunakan pendirian itu, sebahagiannya kerana itu perkara populis dengan penyokong-penyokong dia di AS. Tetapi dia —
 
-**Haziq:** Hmm.
-
 **Rafizi:** PBB ini, walaupun ada macam-macam pandangan mengenai keberkesanan PBB, PBB adalah satu-satunya badan dunia yang diterima oleh semua negara. Memang betul, tatanan dunia masih lagi terikat kepada PBB. Sebarang bentuk atau mekanisme diplomatik semua itu di bawah PBB. Ada rasa hormat yang cukup tinggi kepada PBB. Piawaian dunia banyak melalui agensi-agensi PBB.
 
 Jadi kalau AS di bawah Trump mengambil pendirian "mereka tidak lagi memerlukan PBB", dan kalau China contohnya mengambil pendirian "kami akan mempertahankan PBB" — kalau AS tidak berhati-hati, maka kepimpinan PBB itu akan beralih kepada negara-negara lain termasuklah seperti China. Dan China ada kemampuan kewangan untuk menampung PBB. Jadi itu perkara-perkara yang kita, negara kecil, hanya boleh melihat.
 
 Tetapi saya tidak rasa mana-mana pentadbiran AS yang memusuhi PBB itu sebenarnya baik untuk perancangan jangka panjang AS. Kalau saya berada di kedudukan mereka, saya akan melihat PBB sebagai aset, kerana hegemoni AS itu sebahagiannya mendapat keabsahan melalui PBB selama ini. Jadi, adalah demi kepentingan terbaik AS untuk memastikan kerelevanan dan juga rasa hormat yang sesuai dengan PBB — kerana banyak susunan dunia dan piawaian dan cara dunia berfungsi diselaraskan dengan PBB. Tetapi ya, saya bukanlah — jadi boleh beri pandangan saja.
 
-**Haziq:** Tetapi menarik, YB. Okey, kita ke seterusnya. Ada satu lagi, saya rasa. Okey. Haa. Mereka main ini — pew pew pew, apa ini? Haa, meriam air. Tetapi teruk juga, ada orang cedera semua. Jadi macam tidak berkesudahan. Bagaimana kita nak, at least, to put it to an end — konflik dalam dunia ini ada yang —
-
-**Rafizi:** — berakhir?
-
-**Haziq:** Atau mitigate lah kot, saya rasa. Betul kan?
+**Haziq:** Tetapi menarik, YB. Okey, kita ke seterusnya. Ada satu lagi, saya rasa. Okey. Haa. Mereka main ini — pew pew pew, apa ini? Haa, meriam air. Tetapi teruk juga, ada orang cedera semua. Jadi macam tidak berkesudahan. Bagaimana kita nak, at least, to put it to an end — konflik dalam dunia ini ada yang — Atau mitigate lah kot, saya rasa. Betul kan?
 
 **Rafizi:** Sedikit. Mitigate. Sebab itu ia dipanggil geopolitik. Jadi kalau kita tengok sejarah 125 tahun yang lepas, bermula dengan Perang Dunia Pertama, sebenarnya ia hanya bermula dengan pergeseran dan ego empayar-empayar yang ada di Eropah. Anggapannya, "saya tidak suka kamu, kita berkawan? Kalau saya berlawan dengan kamu, kamu pun kena sertai saya melawan dia." Itu saja yang berlaku dalam Perang Dunia Pertama. Ia bukan sebab isu-isu besar. Ini nak balik cerita pasal konflik sebelum ini — nanti kamu fikir apa kaitannya dengan Perang Dunia Pertama ini. Jadi untuk memahami geopolitik, kerana kita di Asia Tenggara ini berada di tengah-tengah satu konflik geopolitik yang mungkin berpanjangan.
 
@@ -398,15 +352,15 @@ Dan yang saya rasa kita perlu kembali ke arah mencapai persetujuan dan pengiktir
 
 Terima kasih. Sebab itu usaha diplomasi penting, dan sebab itu juga sebenarnya Malaysia sepatutnya menggunakan sepenuhnya peluang-peluang yang ada, terutamanya melalui ASEAN, untuk kita memastikan ASEAN boleh diterima — atau dipertegaskan kembali bahawa ASEAN ini adalah rakan semua orang, tetapi ASEAN ada identiti yang bebas, yang selamat dan tidak mahu terlibat dalam semua perkara ini.
 
-**Haziq:** Jelas ya B? Jadi itu pengakhiran berita dunia kita. Baiklah. Eh kita ada — kita ada segmen baru, Fuyo. Fuyo ini anak saya, dia memang suka tengok yang fuyo. Budak-budak sekarang kan fuyo. Baiklah, jadi kita mula dengan satu saja. Fuyo ini kena diterangkan? Okey, lupa pula. Fuyo, fuyo, fuyo ini kita akan menampilkan...
+**Haziq:** Jelas ya B? Jadi itu pengakhiran berita dunia kita. Baiklah. Kita ada — kita ada segmen baru, Fuyo. Fuyo ini anak saya, dia memang suka tengok yang fuyo. Budak-budak sekarang kan fuyo. Baiklah, jadi kita mula dengan satu saja. Fuyo ini kena diterangkan? Okey, lupa pula. Fuyo, fuyo, fuyo ini kita akan menampilkan.
 
 **Rafizi:** Macam tidak bersungguh-sungguh saja sebab fuyo. Fuyo.
 
-**Haziq:** Okey, kita akan menampilkan ciptaan, inovasi ataupun kreasi yang baru, yang mungkin boleh membantu...
+**Haziq:** Okey, kita akan menampilkan ciptaan, inovasi ataupun kreasi yang baru, yang mungkin boleh membantu.
 
 **Rafizi:** Tidak, salah satu perkara yang mungkin kurang popular dengan penonton — kadang-kadang kita ini, kalau kandungan di Malaysia, kita ini macam tidak buat, tempurung, podcast ke apa, ke ceramah, ke forum, kita cerita benda kecil besar kita saja. Sedangkan dunia ini sedang berubah dengan pantas. Dan perubahan yang paling pantas yang akan memberi kesan besar kepada kita di luar sempadan kita ialah perubahan sains dan teknologi. Jadi sepatutnya kalau kita boleh gunakan peluang yang ada dalam podcast yang tidak seberapa ini, paling kurang mereka yang menonton itu kita boleh juga sama-sama menelaah bersama mengenai perkara-perkara bersabit sains dan teknologi, dan akan memberi kesan besar pada masa akan datang. Jadi yang pertama minggu ini?
 
-**Haziq:** Yang pertama minggu ini — ya, kita ada bateri sodium ion yang pertama. Jadi saya rasa semua orang sekarang ini...
+**Haziq:** Yang pertama minggu ini — ya, kita ada bateri sodium ion yang pertama. Jadi saya rasa semua orang sekarang ini.
 
 **Rafizi:** Bukanlah bateri sodium ion yang pertama. Bateri sodium ion ini sudah ada.
 
@@ -416,13 +370,11 @@ Terima kasih. Sebab itu usaha diplomasi penting, dan sebab itu juga sebenarnya M
 
 **Haziq:** Ya, ya. Dan kalau bateri sekarang ini, biasanya kita lithium ion. Jadi sebenarnya dua-dua ini pun ada pro dan kontra. Tetapi bagaimana dengan adanya sodium ion yang pertama yang sudah dikomersialkan ini, YB? Ia akan jadi game changer sedikit, terutamanya untuk tenaga boleh diperbaharu?
 
-**Rafizi:** Um... ya lah, saya kan memang geek sedikit ini. Maksudnya sebenarnya dahulu-dahulu di sekolah, universiti semua — saya. Bateri yang biasa, terutamanya dalam EV ataupun gajet kita semua, lithium. Masalah lithium ini ialah ia tidak banyak di dunia. Terhad, kekurangannya. Jadi oleh sebab itu harga bateri semua jadi mahal. Dan banyak perkara, sama ada tidak cukup untuk kegunaan dunia, ataupun hanya negara tertentu saja yang boleh menggunakan yang ada. Oleh kerana itu, harganya mahal. Dan bila harganya mahal, banyak perkara-perkara yang sepatutnya kita sudah beralih kepada tenaga boleh diperbaharu ataupun perkara yang lebih hijau, ia tidak boleh berlaku.
+**Rafizi:** ya lah, saya kan memang geek sedikit ini. Maksudnya sebenarnya dahulu-dahulu di sekolah, universiti semua — saya. Bateri yang biasa, terutamanya dalam EV ataupun gajet kita semua, lithium. Masalah lithium ini ialah ia tidak banyak di dunia. Terhad, kekurangannya. Jadi oleh sebab itu harga bateri semua jadi mahal. Dan banyak perkara, sama ada tidak cukup untuk kegunaan dunia, ataupun hanya negara tertentu saja yang boleh menggunakan yang ada. Oleh kerana itu, harganya mahal. Dan bila harganya mahal, banyak perkara-perkara yang sepatutnya kita sudah beralih kepada tenaga boleh diperbaharu ataupun perkara yang lebih hijau, ia tidak boleh berlaku.
 
 Cuma masalah — dan oleh sebab itu, memang dalam bidang sains, dalam bidang pembangunan bateri ini, satu perlumbaan, perlumbaannya ialah siapa yang boleh membangunkan alternatif kepada lithium ion. Jadi sebab itu sodium ion ini adalah alternatif. Masalah sodium ion ialah kerana ketumpatan tenaga per unit sodium ion ini adalah lebih rendah daripada lithium ion. Jadi saya ingat kalau lithium ion itu lebih kurang 150 watt jam setiap satu kilogram, maksudnya yang dia boleh memegang tenaga buat masa sekarang. Kalau sodium ion, mungkin separuh, 70. Jadi maksudnya kalau pakai sodium ion tu, kalau nak bawa kereta kan, dia kena jadi lori — bateri tu belakang besar. Jadi tak ekonomikal kan.
 
 Sedangkan sodium ion ni lebih baik kerana sodium ni garam. Jadi kalau kita boleh buat bateri daripada garam — garam ni ada banyak di seluruh dunia — jadi dia tak ada timbul masalah lithium. Secara komersial dan skala besar, dia maksudnya lebih murah, dan bila lebih murah itu, lebih banyak penggunaan yang boleh dibuat. Jadi yang ini menarik kerana ada satu syarikat di China, EVE Energy, ini telah berjaya membangunkan satu sistem — maksudnya satu sistem dengan bateri dan sebagainya, sistem storan bateri grid. Jadi ini komersial, komersial skala besar yang pertama, tau. Well, bergantunglah, sebab di AS pun ada satu lagi. Jadi maksudnya dah ada dua ni, yang satu di China, satu di AS kan. Jadi ini cukup penting untuk Malaysia.
-
-**Haziq:** Okay.
 
 **Rafizi:** Kenapa contohnya sebelum ini, sebelum kita lancarkan pelan peralihan tenaga itu, kenapa macam di Malaysia ini kerajaan ataupun industri tidak begitu berminat untuk buat solar?
 
@@ -430,17 +382,13 @@ Sedangkan sodium ion ni lebih baik kerana sodium ni garam. Jadi kalau kita boleh
 
 **Rafizi:** Kapasiti tu maksudnya apa?
 
-**Haziq:** Apa ni, tenaga yang dijana tu, berbanding...
+**Haziq:** Apa ni, tenaga yang dijana tu, berbanding.
 
-**Rafizi:** Tak juga, kita ada potensi yang besar.
-
-**Haziq:** Okay.
-
-**Rafizi:** Potensi bumbung dan potensi tenaga boleh diperbaharui kita besar.
+**Rafizi:** Tak juga, kita ada potensi yang besar. Potensi bumbung dan potensi tenaga boleh diperbaharui kita besar.
 
 **Haziq:** Mahal lah kot.
 
-**Rafizi:** Bukan juga. Maksud saya, apa nama ni, EV — bukan EV ni, panel fotovoltaik telah jatuh harga dengan begitu rendah. Masalah kita ialah masalah bateri, masalah grid. Jadi kalaupun kita pasang solar banyak-banyak, suruh Malaysia ni kan, dan kita realisasikan potensi solar, potensi solar bumbung kita kan — solar ni bukannya boleh disimpan. Masa panas tu, panas berapa? Yang 5 jam sehari je. Siapa nak pakai elektrik ni? Dan elektrik ni kalau dia masuk sekaligus kepada grid, meletup grid tu, sekaligus masuk kan, eh hilang. Mana boleh ada 4 jam elektrik, lepas tu elektrik tu dah hilang. Macam mana? Dan oleh sebab itu, kita memerlukan — kita perlu bangunkan dan juga naik taraf grid kita. Menaikkan taraf grid kita ni bermakna memasang bateri-bateri, dan juga meletakkan sistem yang boleh menukar antara menggunakan bateri dengan loji jana kuasa. Masalahnya, bateri mahal. Jadi untuk menaik taraf sistem grid kita ni, untuk meletakkan bateri — jadi BESS lah, Battery Energy Storage System, kan?
+**Rafizi:** Bukan juga. Maksud saya, apa nama ni, EV — bukan EV ni, panel fotovoltaik telah jatuh harga dengan begitu rendah. Masalah kita ialah masalah bateri, masalah grid. Jadi kalaupun kita pasang solar banyak-banyak, suruh Malaysia ni kan, dan kita realisasikan potensi solar, potensi solar bumbung kita kan — solar ni bukannya boleh disimpan. Masa panas tu, panas berapa? Yang 5 jam sehari je. Siapa nak pakai elektrik ni? Dan elektrik ni kalau dia masuk sekaligus kepada grid, meletup grid tu, sekaligus masuk kan, hilang. Mana boleh ada 4 jam elektrik, lepas tu elektrik tu dah hilang. Macam mana? Dan oleh sebab itu, kita memerlukan — kita perlu bangunkan dan juga naik taraf grid kita. Menaikkan taraf grid kita ni bermakna memasang bateri-bateri, dan juga meletakkan sistem yang boleh menukar antara menggunakan bateri dengan loji jana kuasa. Masalahnya, bateri mahal. Jadi untuk menaik taraf sistem grid kita ni, untuk meletakkan bateri — jadi BESS lah, Battery Energy Storage System, kan?
 
 Jadi kalau perkara ini boleh berlaku, dan dalam tempoh 5 ke 10 tahun bateri sodium ion dah sampai ke peringkat yang mampu secara komersial, harganya murah, fungsinya dari segi ketumpatan tenaga setiap kilogram itu sama dengan lithium ion tetapi harganya jauh lebih murah — maka itu membolehkan Malaysia membangunkan dan menaik taraf grid kita dengan memasang sebanyak mana bateri. Sama juga dengan rumah. Maksudnya harga bateri akan jadi lebih murah. Jadi kalau saya jadi pengguna, saya akan tanya kerajaan — jadi sepatutnya lepas ini saya sebenarnya boleh pasang bateri saya, saya tak perlu bergantung sangat kepada grid.
 
@@ -450,15 +398,15 @@ Jadi kalau perkara ini boleh berlaku, dan dalam tempoh 5 ke 10 tahun bateri sodi
 
 **Haziq:** Baik, baik, baik. Kesimpulannya, harga dia akan lebih murah, dan untuk yang pakai solar kat rumah, dia boleh bergantung kepada itu sepenuhnya.
 
-**Rafizi:** Wah, 90% penuh daripada sepenuh. Sekarang ni mahal — bateri satu unit, apa ni, berapa, RM40,000-RM50,000 nak pasang kat rumah kan. Hmm.
+**Rafizi:** Wah, 90% penuh daripada sepenuh. Sekarang ni mahal — bateri satu unit, apa ni, berapa, RM40,000-RM50,000 nak pasang kat rumah kan.
 
 **Haziq:** Okay, baiklah, YB. Kita ke segmen terakhir — banyak tanya, banyak soalan kan.
 
 **Rafizi:** Kita dah dua jam lebih ni.
 
-**Haziq:** Betul. Tapi asasnya ada empat je. Bekas Menteri, Kerusi dan Time with the... Dari pertama, Ahmad Ilyas: "Adakah kemerosotan 39% pelancong tempatan ke Langkawi berpunca daripada protes pengguna terhadap harga tidak munasabah, perkhidmatan, penginapan, makanan? Dan jika ya, apakah langkah terbaik untuk memulihkan minat rakyat melancong semula ke Langkawi?"
+**Haziq:** Betul. Tapi asasnya ada empat je. Bekas Menteri, Kerusi dan Time with the. Dari pertama, Ahmad Ilyas: "Adakah kemerosotan 39% pelancong tempatan ke Langkawi berpunca daripada protes pengguna terhadap harga tidak munasabah, perkhidmatan, penginapan, makanan? Dan jika ya, apakah langkah terbaik untuk memulihkan minat rakyat melancong semula ke Langkawi?"
 
-**Rafizi:** Saya tak ada data, jadi saya tak bolehlah jawab adakah ini — kecuali saya buat kaji selidik. Saya tunggu dekat, apa nama ni... Tapi kalau tunggu kat situ pun, itu orang yang pergi. Tapi saya bagi pandangan kualitatif. Okey, maksudnya pandangan berdasarkan pembacaan, pemerhatian kita, kalaupun tidak mengambil data melalui kaji selidik kan.
+**Rafizi:** Saya tak ada data, jadi saya tak bolehlah jawab adakah ini — kecuali saya buat kaji selidik. Saya tunggu dekat, apa nama ni. Tapi kalau tunggu kat situ pun, itu orang yang pergi. Tapi saya bagi pandangan kualitatif. Okey, maksudnya pandangan berdasarkan pembacaan, pemerhatian kita, kalaupun tidak mengambil data melalui kaji selidik kan.
 
 Saya rasa ada kaitannya, dan perkara yang paling utama ialah kos, saya ingatkan. Dan saya ingat seorang intern saya sebut, dia dengan seribu ringgit dah boleh pergi bercuti di mana, Krabi, dengan dua hari duduk di hotel yang boleh dikira mewah. Dan sebab saya biasalah ini, 2-3 tahun lepas saya membebel — apalah kau ni berada di Thailand semua ni kan, kenapa tak pergi Langkawi? Itu soalan saya kepada adik saya kan. Jawapan dia — dengan RM1000, "kau tak boleh regangkan ringgit kau banyak di Langkawi." Kerana harga.
 
@@ -480,7 +428,7 @@ Dan bila saya bandingkan, contohnya, cara pengajaran, silibus luar negara — ne
 
 **Haziq:** Tak diceritakan lah waktu kita belajar.
 
-**Rafizi:** Kita terus masuk untuk menyelesaikan algebra, sedangkan kalau silibus-silibus antarabangsa di negara-negara lain, konteks dan kegunaan itu, dan aplikasi itu yang ditekankan terlebih dahulu. Dan soal yang rumit mengenai algebra ke pengamiran semua itu, itu adalah kaedah — ia adalah cara ke arah matlamat, matlamat itu lebih penting. Jadi... sama juga kalau saya ingat kalau kita belajar sejarah lah. Sejarah kalau di Malaysia dia jadi tempat untuk menghafal. Penghafalan itu bagus lah, tapi itu bukan cara saya baca sejarah. Saya minat sejarah, dan saya memang pelajar terbaik sejarah lah daripada kecil, dalam semua peperiksaan kan. Saya meminati sejarah bukan sebab peperiksaan ataupun fakta. Saya minat cerita. Membaca cerita itu, ia satu penceritaan kan. Ia penceritaan yang menarik dan saya belajar tentang manusia, saya belajar apa yang berlaku. Ada konteks dia, ada perbandingannya. Kalau kita ambil contoh geopolitik, kerana konteks sejarah itu berulang-ulang. Jadi perkara yang mungkin tak ada kena-mengena dengan kita dalam Perang Dunia Pertama, tetapi bagaimana geopolitik itu diuruskan, sebenarnya ada kena-mengena dalam pengajaran. Ia sama terpakai kepada X kan.
+**Rafizi:** Kita terus masuk untuk menyelesaikan algebra, sedangkan kalau silibus-silibus antarabangsa di negara-negara lain, konteks dan kegunaan itu, dan aplikasi itu yang ditekankan terlebih dahulu. Dan soal yang rumit mengenai algebra ke pengamiran semua itu, itu adalah kaedah — ia adalah cara ke arah matlamat, matlamat itu lebih penting. Jadi. sama juga kalau saya ingat kalau kita belajar sejarah lah. Sejarah kalau di Malaysia dia jadi tempat untuk menghafal. Penghafalan itu bagus lah, tapi itu bukan cara saya baca sejarah. Saya minat sejarah, dan saya memang pelajar terbaik sejarah lah daripada kecil, dalam semua peperiksaan kan. Saya meminati sejarah bukan sebab peperiksaan ataupun fakta. Saya minat cerita. Membaca cerita itu, ia satu penceritaan kan. Ia penceritaan yang menarik dan saya belajar tentang manusia, saya belajar apa yang berlaku. Ada konteks dia, ada perbandingannya. Kalau kita ambil contoh geopolitik, kerana konteks sejarah itu berulang-ulang. Jadi perkara yang mungkin tak ada kena-mengena dengan kita dalam Perang Dunia Pertama, tetapi bagaimana geopolitik itu diuruskan, sebenarnya ada kena-mengena dalam pengajaran. Ia sama terpakai kepada X kan.
 
 Jadi sebelum kita buat keputusan nak kembalikan peperiksaan ini semua, sebab kita sebagai kerajaan dan masyarakat tak boleh nak flip flop, sekejap sana sekejap sini kan. Sebab itu saya orang yang menyampah — sebahagiannya kerana latihan saya sebagai jurutera, latihan sains yang mungkin saya ada lah kan. Sebelum kita buat keputusan itu, adakah kita telah menyelidiki punca sebenar? Apa sebenarnya punca akarnya? Kalau kita kata sekarang ini ada masalah motivasi pelajar, adakah punca akarnya semata-mata kerana tidak ada peperiksaan, ataupun peperiksaan itu hanyalah satu kaedah? Adakah punca akarnya ialah tentang silibus kita, tentang kualiti dan sebagainya? Jadi, sebaik sahaja kita dah tentukan benda itu, barulah kita boleh buat keputusan sama ada wajar atau tidak untuk dikembalikan peperiksaan itu.
 
@@ -488,7 +436,7 @@ Lebih kepada itu, ada banyak lagi kelompongan yang ada — baik dari segi kaedah
 
 **Haziq:** Okay, baik. Soalan seterusnya: Adakah inflasi kita bersifat struktural kerana majoriti kredit bank mengalir ke hartanah dan penggunaan, bukan kapasiti produktif? Jika ya, siapa sebenarnya mencipta sebahagian besar M3 — BNM atau bank komersial melalui pinjaman — dan patutkah kawalan penciptaan kredit menjadi teras strategi anti-inflasi? Ini soalan daripada Kiruban.
 
-**Rafizi:** Hmm... Um... Ini kepada yang menonton lah kan, ini soalan yang sangat teknikal ni. M3 ni ialah kategori wang lah kan — kewangan. Aliran wang dalam negara kita ni ada tiga kategori. Yang paling asas ialah M1, yang dikeluarkan oleh Bank Negara. Kemudian lapisan atas sikit, kalau ada deposit tetap ke repo ke yang lain, itu jadi M2. Kalau yang lebih terbitan sifatnya, atas lagi, contohnya instrumen hutang yang lain, itu jadi M3 lah.
+**Rafizi:** Ini kepada yang menonton lah kan, ini soalan yang sangat teknikal ni. M3 ni ialah kategori wang lah kan — kewangan. Aliran wang dalam negara kita ni ada tiga kategori. Yang paling asas ialah M1, yang dikeluarkan oleh Bank Negara. Kemudian lapisan atas sikit, kalau ada deposit tetap ke repo ke yang lain, itu jadi M2. Kalau yang lebih terbitan sifatnya, atas lagi, contohnya instrumen hutang yang lain, itu jadi M3 lah.
 
 Untuk jawapan saya, soalan pertama — majoriti kredit bank mengalir ke hartanah dan penggunaan. Sebelum kita sampai kepada soal inflasi, walaupun saya tidak mengikuti dan tidak menelaah statistik bekalan wang secara terperinci, dari segi portfolio hutang bank secara terperinci — kalau nak itu kena baca laporan Bank Negara sepanjang masa — tekaan saya, sebenarnya kalau pandangan bahawa majoriti kredit bank itu mengalir kepada perkara yang bukan kapasiti produktif, saya rasa tidaklah tersasar mana. Memang saya rasa banyaknya, kalau kita boleh alihkan majoriti kredit ini kepada perkara-perkara yang lebih produktif — maksudnya kapasiti pembuatan ataupun pelaburan sifatnya — bukan kepada hartanah yang boleh menjadi spekulatif tetapi bukan pengeluaran sifatnya, apatah lagi penggunaan, konsumsi, talian kredit dan sebagainya. Jadi, saya rasa pandangan itu ada kebenarannya. Kalau kita boleh menggerakkan modal dengan lebih baik ke arah sektor-sektor yang lebih produktif, itu akan membaiki dan memperkukuhkan struktur ekonomi kita.
 
@@ -516,15 +464,13 @@ Kalau tanyalah institusi kawal selia ini, semua ada merit KPI. Kalau nak mudah �
 
 Saya ada empat streaming service lah, dan juga Disney. Dan satu perkara yang perubahan besar bagi saya sebagai seorang rakyat Malaysia — saya dulu cukup tak suka Bollywood. Jangan kata Bollywood, Korea pun aku tak suka. Apatah lagi Thailand ke Indonesia kan.
 
-**Haziq:** Okay.
-
-**Rafizi:** Tapi dengan streaming service ini, ia membolehkan kita membandingkan mutu seni kreatif dan kandungan daripada seluruh dunia. Dan memang jauh langit dengan bumi antara kita dengan Bollywood dengan Kuala Lumpur, bagi mereka yang tak menonton. Nollywood saya tak tengok sangat lah, tapi... kau tahu tak Nollywood tu apa?
+**Rafizi:** Tapi dengan streaming service ini, ia membolehkan kita membandingkan mutu seni kreatif dan kandungan daripada seluruh dunia. Dan memang jauh langit dengan bumi antara kita dengan Bollywood dengan Kuala Lumpur, bagi mereka yang tak menonton. Nollywood saya tak tengok sangat lah, tapi. kau tahu tak Nollywood tu apa?
 
 **Haziq:** Tak tahu, tak pernah dengar.
 
 **Rafizi:** Itu Nigeria — dia panggil Nollywood. Kollywood? Bollywood tamil lah selalunya. Kalau ambil contoh Bollywood, bagi mereka yang tak menonton banyak — bukan macam dulu, yang menari-nari, tak ada mutu — dari segi penceritaan, dari segi mutu filem yang dikeluarkan, mengalahkan Hollywood tau. Dia boleh ambil satu cerita yang bagi kita benda biasa, dan you boleh tengok cerita itu sampai 2 jam, 3 jam. Saya selalu recommend kepada semua orang yang belum menonton — contohnya, hasil yang paling baik daripada Bollywood bagi saya dalam tempoh 2-3 tahun yang lepas ini ialah Mandela. Kau angguk-angguk ni, pernah tengok ke Mandela?
 
-**Haziq:** Nelson Mandela? Eh, alamak, pecat saya.
+**Haziq:** Nelson Mandela? Alamak, pecat saya.
 
 **Rafizi:** Dia ada satu filem Tamil, filem komedi yang memperlihatkan politik, nama dia Mandela. Pelakonnya seorang pelawak yang muka memang tak layak jadi pelakon — dia pelawak, nama dia Yogi Babu. Boleh tengok semua. Dan saya pasti kalau rakyat Malaysia tengok, memang semua akan kata, hebat betul Bollywood sekarang ni, berbanding dengan yang kita kenal kan.
 
@@ -536,33 +482,19 @@ Baik eh, sebelum kita tanya ini — merit KPI telus tak berurus, kan? Ya. Sebena
 
 **Haziq:** Prioriti mereka kepada script writer itu lebih tinggi daripada kita?
 
-**Rafizi:** Sebab itu, kalau kita tengok pandangan saya pasal KPI, pasal agensi, ini kan — mungkin terlalu banyak penekanan diberikan kepada soal-soal lapisan kedua, ketiga, keempat. Soal pelakon. Saya bukan kata benda ini tak penting tau.
+**Rafizi:** Sebab itu, kalau kita tengok pandangan saya pasal KPI, pasal agensi, ini kan — mungkin terlalu banyak penekanan diberikan kepada soal-soal lapisan kedua, ketiga, keempat. Soal pelakon. Saya bukan kata benda ini tak penting tau. Lakonan penting, sinematografi penting, semua penting. Kredit penting, teknologi penting. Tapi kalau cerita itu bermula dengan penceritaan yang bosan, buat macam mana pun ia bosan. Kenapa kita tak boleh ada idea-idea thriller? Ada tak thriller di Malaysia ini?
 
-**Haziq:** Okay.
+**Haziq:** Ada je, cuma. Tak ada, tak ada, tak ada.
 
-**Rafizi:** Lakonan penting, sinematografi penting, semua penting.
-
-**Haziq:** Okay.
-
-**Rafizi:** Kredit penting, teknologi penting. Tapi kalau cerita itu bermula dengan penceritaan yang bosan, buat macam mana pun ia bosan. Kenapa kita tak boleh ada idea-idea thriller? Ada tak thriller di Malaysia ini?
-
-**Haziq:** Ada je, cuma... eh, tak ada, tak ada, tak ada.
-
-**Rafizi:** Thriller dulu apa ini... yang Gerhana apa nama tu? Police apa? Bukan yang Yusof Haslam tu. Gerhana. Tapi itu bukan thriller lah. Tapi kalau tengok, macam saya sebut, bermula dengan Korea — Korea banyak kandungan, dia bermula dengan cita-cita thriller dulu. Sebab memang naluri manusia suka cerita yang hudanik — siapa yang bunuh ini, kenapa jadi macam ini, misteri. Kita tak ada misteri. Susah kan?
+**Rafizi:** Thriller dulu apa ini. yang Gerhana apa nama tu? Police apa? Bukan yang Yusof Haslam tu. Gerhana. Tapi itu bukan thriller lah. Tapi kalau tengok, macam saya sebut, bermula dengan Korea — Korea banyak kandungan, dia bermula dengan cita-cita thriller dulu. Sebab memang naluri manusia suka cerita yang hudanik — siapa yang bunuh ini, kenapa jadi macam ini, misteri. Kita tak ada misteri. Susah kan?
 
 Jadi kalau kita tengok agensi-agensi yang ada dan susun atur dari segi dasar dan sebagainya, kebanyakannya dah sampai ke lapisan kedua, ketiga — pelakon dan sebagainya kan? Itupun yang kita ada jauh ke belakang berbanding, contohnya, untuk menjadi pelakon di Korea — ya, dia orang kena pergi universiti, daripada kecil lagi dia dilatih. Sama lah macam di Bollywood, di Kollywood, kalau Poland semua, kalau orang putih ni kan — eh, tengok yang berlakon-lakon orang putih tu, ingat lahir-lahir pandai berlakon macam itu ke? Eh, dia payah tau. Dia kena pergi sekolah lakonan, dan kebanyakan mereka ini memang pelakon daripada sekolah — setiap sekolah ada persembahan pentas dia. Saya buat A-Level di UK dulu, memang acara paling besar sekolah itu setiap tahun ialah persembahan pentas. Dan Mahmud yang kapten ragbi ini, dia jugalah yang main ragbi, dia jugalah yang boleh menyanyi opera, dia jugalah yang boleh berlakon — kerana daripada awal lagi dia memang begitu kan. Kita tak sampai ke peringkat itu, sekolah kita semua.
 
 Jadi jangan cerita pasal pelakon semua ini, yang itu memang kita dah ke belakang. Tapi kelompongan yang saya rasa besar ialah yang berkaitan dengan penulisan skrip, penulisan skrin. Idea itu belum cukup. Idea kreatif di Malaysia ini belum sampai ke peringkat itu lah. Jadi soal KPI semua ini memang tak ada lah, merit semua ini memang tak ada, dan malah susunan agensi itu pun saya rasa belum sampai ke peringkat yang kita berkemampuan menghasilkan skrip-skrip yang hebat yang menjadi penceritaan — yang kemudian barulah boleh dapatkan penerbit yang baik, pengarah yang baik, sutradara yang baik, pelakon yang baik, penataan yang baik, sinematografi yang baik. You nak shoot apa, ceritanya tak ada. Nak tutup ceritanya begini — okey. Ini antara salah satu sektor yang semasa saya jadi Menteri Ekonomi dibincangkan panjang lebar tetapi tidak ada landing.
 
-**Haziq:** Okey.
-
 **Rafizi:** Tidak ada landing. Jadi sebab itu saya tak rasa kita boleh bergantung sepenuhnya kepada kerajaan. Cabaran kita ialah macam mana kita nak mengetengahkan bakat kreatif yang terpendam di kalangan rakyat kita, dan ia tak perlu bergantung sepenuhnya pada kerajaan. Itu antara hobi-hobi yang saya ada dalam masa lebih ini, dalam satu dua tahun ini, yang saya cuba tengok macam mana kita nak dapatkan penceritaan, idea penceritaan yang terbaik. Dan kalau kita rasa hebat, kita kena bantulah anak-anak muda yang berbakat ini untuk pergi ke peringkat seterusnya, iaitu menerbitkan dan menghasilkan idea penceritaan itu kepada hasil kreatif yang akhir.
 
-**Haziq:** Okey, baik. Ini rekod podcast paling panjang.
-
-**Rafizi:** Podcast paling panjang.
-
-**Haziq:** Ya, 2 jam 40 minit. Jadi itu sahaja. Jadi terima kasih kepada...
+**Haziq:** Okey, baik. Ini rekod podcast paling panjang. Ya, 2 jam 40 minit. Jadi itu sahaja. Jadi terima kasih kepada.
 
 **Rafizi:** Memang patutlah itu je lah kot, orang dah lama cabut lari dah. Gila kau, 2 jam 40 minit. Soalan banyak sangat kot. Mungkin kita kena benchmark lah kot lain kali. Betul, Weby.
 

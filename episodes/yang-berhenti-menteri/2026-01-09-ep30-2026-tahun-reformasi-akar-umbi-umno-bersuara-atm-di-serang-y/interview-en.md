@@ -57,23 +57,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Yeah, I have to jog in the evenings, seriously. I overestimated my shirt a bit, it's still tight.
 
-**Haziq:** But you've just started back?
+**Haziq:** But you've just started back? Or is that a secret?
 
-**Rafizi:** Yeah.
-
-**Haziq:** Or is that a secret?
-
-**Rafizi:** No, it's not a secret. I mean people can access my Strava anyway.
-
-**Haziq:** Ah, right.
-
-**Rafizi:** Yeah, at the end of the year it wasn't so much because I wanted to rest or anything, it was because of the rain. So now the weather is so much better.
+**Rafizi:** No, it's not a secret. I mean people can access my Strava anyway. Yeah, at the end of the year it wasn't so much because I wanted to rest or anything, it was because of the rain. So now the weather is so much better.
 
 **Haziq:** Alright, alright, alright. That's a good reason, not an excuse.
 
 **Rafizi:** A good excuse, a good excuse.
 
-**Haziq:** Okay. Alright YB, as usual YB, let's move on to...
+**Haziq:** Okay. Alright YB, as usual YB, let's move on to.
 
 **Rafizi:** Okay, we need to have discipline about the "beria" segment, right? Because some people say beria isn't necessary. But actually there are different segments — some people like it, some don't. We'll just try to keep it short, short and sweet. Yes, short and sweet.
 
@@ -87,8 +79,6 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** Akmal, Akmal is quite tall too.
 
-**Rafizi:** Yeah?
-
 **Haziq:** I've met him before.
 
 **Farhan (Pa'an):** He's taller than me.
@@ -101,13 +91,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** He has to defend the government first.
 
-**Rafizi:** For those listening to the podcast on Spotify, this is about the response or reaction from Kamil Munim, AMK Keadilan Chief and also the Prime Minister's Political Secretary, to Dr. Akmal's call for UMNO to leave the government, right?
+**Rafizi:** For those listening to the podcast on Spotify, this is about the response or reaction from Kamil Munim, AMK Keadilan Chief and also the Prime Minister's Political Secretary, to Dr. Akmal's call for UMNO to leave the government, right? So we expected him to be fierce. But instead he was gentle and wished him well for the future.
 
-**Haziq:** Yes.
-
-**Rafizi:** So we expected him to be fierce. But instead he was gentle and wished him well for the future.
-
-**Haziq:** But maybe if he were fierce, people would feel it's out of character. If he were fierce he might say, "Okay, leave, just leave." Like...
+**Haziq:** But maybe if he were fierce, people would feel it's out of character. If he were fierce he might say, "Okay, leave, just leave." Like.
 
 **Farhan (Pa'an):** Or maybe this shows a new image of political maturity. Maybe some people see it that way.
 
@@ -123,11 +109,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Referring to the infighting happening within the Malay parties.
 
-**Rafizi:** Right, within the Malay party — who's being disrespectful here? Is he saying it's PAS, or BERSATU?
-
-**Haziq:** DAP.
-
-**Rafizi:** DAP, right? DAP is also at fault. Then this Rosman, BERSATU Bukit Bintang Division Chief — this stems from who exactly being punished?
+**Rafizi:** Right, within the Malay party — who's being disrespectful here? Is he saying it's PAS, or BERSATU? DAP, right? DAP is also at fault. Then this Rosman, BERSATU Bukit Bintang Division Chief — this stems from who exactly being punished?
 
 **Haziq:** This stems from various dismissals that have happened within BERSATU.
 
@@ -135,31 +117,23 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** And suspensions and so on.
 
-**Rafizi:** What does this have to do with Sanusi then, "the coloniser residing"...
+**Rafizi:** What does this have to do with Sanusi then, "the coloniser residing".
 
 **Haziq:** That's probably a typo, right?
 
 **Farhan (Pa'an):** Not a typo, because Penang is said to be a DAP state.
 
-**Rafizi:** I see. So that's also one of the...
+**Rafizi:** I see. So that's also one of the.
 
-**Farhan (Pa'an):** We could say it's the same thing, because I mean he's seen as — well, BERSATU has a lot of problems, PAS and Perikatan Nasional also have problems, but suddenly he attacks by claiming Penang belongs to him.
+**Farhan (Pa'an):** We could say it's the same thing, because I mean he's seen as — well, BERSATU has a lot of problems, PAS and Perikatan Nasional also have problems, but suddenly he attacks by claiming Penang belongs to him. And he referred to it illegally as the "Kedah Sultanate Territory."
 
-**Rafizi:** Oh.
-
-**Farhan (Pa'an):** And he referred to it illegally as the "Kedah Sultanate Territory."
-
-**Rafizi:** Oh. Never mind, let them fight.
-
-**Haziq:** Let them fight.
-
-**Rafizi:** Good, the more beria they fight, the better. And honestly, the more beria it gets, the better it actually is for the Malaysian people.
+**Rafizi:** Oh. Never mind, let them fight. Good, the more beria they fight, the better. And honestly, the more beria it gets, the better it actually is for the Malaysian people.
 
 **Haziq:** And do they represent the Malays as a whole, YB?
 
 **Rafizi:** No, you'd have to ask the voters that. If you look at the 2018 general election, even 2013, actually the Malay vote has never remained loyal to just one party. The last time the Malay vote was solidly behind UMNO Barisan Nasional or a single coalition was 2004. For example in 2008, even though UMNO Barisan Nasional still won and it was almost one-to-one, the Malay popular vote for Pakatan Rakyat at that time was around 43 to 45%. There was only a 5% deficit. Coming into GE13, it dropped slightly to 43%. Then coming into 2018, it had already split, right? The Malay vote split into three coalitions: Barisan Nasional UMNO, PAS, and at that time Pakatan Harapan. And that has continued until now. So if anyone claims to represent the Malays in a plural sense now, based on the most recent major election results, namely the state elections, that would actually be PN. But we also know from data, the latest survey, that 52% of Malay voters feel that all these parties are the same. So if some of them want to fight because each claims to represent the Malays, that's really foolish of the politicians. But the fact that this issue is about "the Malays being divided," this narrative of Malay division being played out repeatedly — the good thing is, whether from PAS or BERSATU or UMNO, they seem to indirectly realise that none of them can truly claim to represent the Malays. Okay, alright. And perhaps this will be discussed in more depth later. People will get annoyed if beria goes on too long. They'll say beria is talking about beria.
 
-**Haziq:** The time has come to step down. This is like a hint — eh no, not yet. We don't know the result yet, do we?
+**Haziq:** The time has come to step down. This is like a hint — no, not yet. We don't know the result yet, do we?
 
 **Rafizi:** Poor Mr. Bean. Why is that?
 
@@ -169,17 +143,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** The cartoon or the real one?
 
-**Rafizi:** When he was little, both. But now that he's older he's not into Mr. Bean anymore. His parents are the ones watching Mr. Bean now. Ah, this one is definitely beria. If the time has really come — eh, don't give hints. If you want to step down, you should really step down, right? A resignation hint card can only be used once or twice. Because if the first time it doesn't happen, and the second time it's mentioned again but still doesn't happen, people will never take it seriously again. But well, to Dr. Akmal, right?
-
-**Haziq:** Yes.
-
-**Rafizi:** As for his approach and all that, we each have our own views on that. That's up to the public. I have my own way too, some people like it, some don't, right? But if at his age — how old is he now? 38, right? If he truly believes that the agenda he's carrying, namely Malay Unity, is his political lifeblood and that's the contribution he wants to give to the country, then he should stick to that principle. And if he sticks to that principle — his belief, his political lifeblood, that the Malays must be united under one group so that when the Malay vote isn't split, the Malays can return to the old UMNO era that controlled 80-90% of the seats — if that's what he truly believes, right, and if he doesn't resign, then he'll have to be a hypocrite. Because it's already clear from the statements after he made this hint that Dato' Seri Zahid too, the UMNO President, has hinted that UMNO's leadership will not waver from its position of remaining in the Madani Government. So for the next two years, unless he's just putting on a political show. But if he's not putting on a political show, if that's really what he feels, then it could drive him crazy, you know — staying in a party where, for example, he feels the direction should go right, but the party takes the middle path. So if Dr. Akmal really resigns, good, I'd respect that. That would give a new impression of Dr. Akmal, people's perception, right? Because respect will be earned if you stick to your principle. Whether people agree or disagree with our principle or view is one thing. Another thing is our consistency in defending our view — that's what's called principle. So let's wait and see.
+**Rafizi:** When he was little, both. But now that he's older he's not into Mr. Bean anymore. His parents are the ones watching Mr. Bean now. Ah, this one is definitely beria. If the time has really come — don't give hints. If you want to step down, you should really step down, right? A resignation hint card can only be used once or twice. Because if the first time it doesn't happen, and the second time it's mentioned again but still doesn't happen, people will never take it seriously again. But well, to Dr. Akmal, right? As for his approach and all that, we each have our own views on that. That's up to the public. I have my own way too, some people like it, some don't, right? But if at his age — how old is he now? 38, right? If he truly believes that the agenda he's carrying, namely Malay Unity, is his political lifeblood and that's the contribution he wants to give to the country, then he should stick to that principle. And if he sticks to that principle — his belief, his political lifeblood, that the Malays must be united under one group so that when the Malay vote isn't split, the Malays can return to the old UMNO era that controlled 80-90% of the seats — if that's what he truly believes, right, and if he doesn't resign, then he'll have to be a hypocrite. Because it's already clear from the statements after he made this hint that Dato' Seri Zahid too, the UMNO President, has hinted that UMNO's leadership will not waver from its position of remaining in the Madani Government. So for the next two years, unless he's just putting on a political show. But if he's not putting on a political show, if that's really what he feels, then it could drive him crazy, you know — staying in a party where, for example, he feels the direction should go right, but the party takes the middle path. So if Dr. Akmal really resigns, good, I'd respect that. That would give a new impression of Dr. Akmal, people's perception, right? Because respect will be earned if you stick to your principle. Whether people agree or disagree with our principle or view is one thing. Another thing is our consistency in defending our view — that's what's called principle. So let's wait and see.
 
 **Haziq:** So he has the potential to be beria, he isn't beria yet.
 
 **Rafizi:** Yeah, he's still a beria candidate. If, say, two or three months from now he's just quiet and nothing happens, that would be beria. But if next week or next month he really does step down because he's no longer aligned with the stance taken by UMNO, then we should go back and give him a special gift.
-
-**Haziq:** Okay, okay.
 
 **Farhan (Pa'an):** I'll make a note of that.
 
@@ -187,11 +155,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** How did people know that was a man? Was that a man?
 
-**Farhan (Pa'an):** He...
+**Farhan (Pa'an):** He.
 
 **Haziq:** Ha, Pa'an will check.
 
-**Farhan (Pa'an):** Yes, that's right, he actually went viral recently during Christmas. He...
+**Farhan (Pa'an):** Yes, that's right, he actually went viral recently during Christmas. He.
 
 **Rafizi:** It's really dangerous if men wear hijabs, I can't even tell anymore whether it's a man or a woman. Look at him. So that's definitely a man, huh?
 
@@ -201,7 +169,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** I don't know if it was truth or dare or what, since I've never been in a situation like that.
 
-**Rafizi:** Don't you dare wear a hijab, eh! I'll fire you if you wear a hijab!
+**Rafizi:** Don't you dare wear a hijab,! I'll fire you if you wear a hijab!
 
 **Farhan (Pa'an):** Never happened before, of course. So there's a possibility he was just joking, but there it is — someone recorded it — his boss actually recorded it.
 
@@ -217,7 +185,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** Because he wore a hijab, I can't help it.
 
-**Rafizi:** So this one is definitely beria. Let's give the winner of this week's beria segment to... the man in the hijab.
+**Rafizi:** So this one is definitely beria. Let's give the winner of this week's beria segment to. the man in the hijab.
 
 **Haziq:** The man in the hijab.
 
@@ -239,13 +207,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** And you wore a green hijab too, kid. If PAS people saw this, they'd really be angry.
 
-**Haziq:** Alright, alright. Okay YB, we...
+**Haziq:** Alright, alright. Okay YB, we.
 
-**Rafizi:** So how many minutes was that?
-
-**Haziq:** 15 minutes.
-
-**Rafizi:** 15 minutes, okay. 15 minutes for four berias.
+**Rafizi:** So how many minutes was that? 15 minutes, okay. 15 minutes for four berias.
 
 **Haziq:** Hidup Keras, Dik! Let's look at the first one. We have "Grassroots speak up, what does UMNO actually want?" This relates to the recent youth convention and various voices within UMNO, YB. So I think it's not the biggest elephant, but the biggest issue in the room.
 
@@ -253,27 +217,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** New year, new resolutions. Ah, never mind. The issue is whether this UMNO theatrical performance has had any impact on them at all. Maybe we want to talk in terms of a boost in support — is there any slight improvement they've gained from all this, YB?
 
-**Rafizi:** Right, we can't give an opinion without doing a study. Because there are various types of voters, and if you look at the voter segment that's familiar with UMNO, as I mentioned last week, their priority is indeed Malay Unity. And Malay Unity, from that perspective, isn't so much about wanting to see the Malays live in peace and harmony — it's actually more of a strategy that if the Malays are united under one umbrella, then since Malay voters are the majority in this country, they'll win many seats and can easily hold power. So UMNO's die-hard voters usually hold that view. They have a romanticism about the era before there was an opposition, when just by joining UMNO, if you played your cards right, you'd become a minister, right? The reality might be quite different because the Malay voter segment has become more diverse — there are many categories now. Since 2008, for example, educated urban Malay voters, people like us, have rejected UMNO. That means there's already a generation of urban Malay voters who reject UMNO, who want to see administration, transparency, rule of law, and integrity as more important than the question of whether Malays dominate the government or not. So that's already one segment I think won't be very attracted to this narrative being played out. Then we have another large group among Malay voters who want Islam. This group will never waver from PAS. Since the 1950s, in fact PAS was established because of a clash over UMNO's direction — how Islamic UMNO should be. So in 1951 a group left UMNO to form PAS. And now it's been 70 years that this has existed. So that's another group, right? So what's left is perhaps the fence-sitters or former UMNO voters who still have romanticism but aren't die-hard PH supporters, or urban voters who aren't die-hard supporters of establishing an Islamic state as envisioned by PAS. So I think that only leaves about 40% of Malay voters — this already combines everyone, die-hard, fence-sitters, everyone. And even if they manage to push this narrative as well as possible, the maximum UMNO can get is 40%. And with 40%, if there's a clash with PAS for example, or worse, a three-way contest — PAS, PN, then PH, then UMNO, right — that won't be enough to deliver the number of winning seats like in the old days. So in terms of Malay voter response, of course we can't speculate until there are election results. But looking at the voter trend over the past several elections since 2008 — what people call the sea change in Malay voters in 2008 — if we calculate the electoral arithmetic, then UMNO right now, trying its utmost with the Malay Unity narrative, if it's UMNO alone, the highest is 40%. Even if they succeed in re-establishing Muafakat Nasional with PAS, they still won't get as many seats as before, up to 90, 100 seats.
-
-**Haziq:** Eh, why is that?
-
-**Rafizi:** Because PAS won't give up its seats. PAS has already won more than 40 seats. So it won't give up its seats. So at best, UMNO might get maybe 50, 60 seats at most. Still not able to restore the pre-2008 era as desired by some UMNO leadership who have romantic notions about UMNO's strong era before. But even if they succeed in establishing Muafakat Nasional, cooperating with PAS, and then succeed in winning seats totalling say 100 shared between them — maybe UMNO 50, PAS 50 for example — that still wouldn't strengthen UMNO in the period afterward, within 5, 10 years, because they'd have to fight with PAS after that. So from that perspective, I understand why, for example, Dato' Seri Zahid, if he's calculated all this — the romanticism about the old days when UMNO could return to its solid pre-2008 era is actually quite difficult now, you know. So from that angle, perhaps one of the main considerations that led the more senior UMNO leadership to calculate that, for now, the better path is to remain in the Madani Government.
+**Rafizi:** Right, we can't give an opinion without doing a study. Because there are various types of voters, and if you look at the voter segment that's familiar with UMNO, as I mentioned last week, their priority is indeed Malay Unity. And Malay Unity, from that perspective, isn't so much about wanting to see the Malays live in peace and harmony — it's actually more of a strategy that if the Malays are united under one umbrella, then since Malay voters are the majority in this country, they'll win many seats and can easily hold power. So UMNO's die-hard voters usually hold that view. They have a romanticism about the era before there was an opposition, when just by joining UMNO, if you played your cards right, you'd become a minister, right? The reality might be quite different because the Malay voter segment has become more diverse — there are many categories now. Since 2008, for example, educated urban Malay voters, people like us, have rejected UMNO. That means there's already a generation of urban Malay voters who reject UMNO, who want to see administration, transparency, rule of law, and integrity as more important than the question of whether Malays dominate the government or not. So that's already one segment I think won't be very attracted to this narrative being played out. Then we have another large group among Malay voters who want Islam. This group will never waver from PAS. Since the 1950s, in fact PAS was established because of a clash over UMNO's direction — how Islamic UMNO should be. So in 1951 a group left UMNO to form PAS. And now it's been 70 years that this has existed. So that's another group, right? So what's left is perhaps the fence-sitters or former UMNO voters who still have romanticism but aren't die-hard PH supporters, or urban voters who aren't die-hard supporters of establishing an Islamic state as envisioned by PAS. So I think that only leaves about 40% of Malay voters — this already combines everyone, die-hard, fence-sitters, everyone. And even if they manage to push this narrative as well as possible, the maximum UMNO can get is 40%. And with 40%, if there's a clash with PAS for example, or worse, a three-way contest — PAS, PN, then PH, then UMNO, right — that won't be enough to deliver the number of winning seats like in the old days. So in terms of Malay voter response, of course we can't speculate until there are election results. But looking at the voter trend over the past several elections since 2008 — what people call the sea change in Malay voters in 2008 — if we calculate the electoral arithmetic, then UMNO right now, trying its utmost with the Malay Unity narrative, if it's UMNO alone, the highest is 40%. Even if they succeed in re-establishing Muafakat Nasional with PAS, they still won't get as many seats as before, up to 90, 100 seats. Because PAS won't give up its seats. PAS has already won more than 40 seats. So it won't give up its seats. So at best, UMNO might get maybe 50, 60 seats at most. Still not able to restore the pre-2008 era as desired by some UMNO leadership who have romantic notions about UMNO's strong era before. But even if they succeed in establishing Muafakat Nasional, cooperating with PAS, and then succeed in winning seats totalling say 100 shared between them — maybe UMNO 50, PAS 50 for example — that still wouldn't strengthen UMNO in the period afterward, within 5, 10 years, because they'd have to fight with PAS after that. So from that perspective, I understand why, for example, Dato' Seri Zahid, if he's calculated all this — the romanticism about the old days when UMNO could return to its solid pre-2008 era is actually quite difficult now, you know. So from that angle, perhaps one of the main considerations that led the more senior UMNO leadership to calculate that, for now, the better path is to remain in the Madani Government.
 
 **Haziq:** But remaining in the Madani Government won't increase their niche voters either. Do they really have no choice, forced to pick the lesser evil?
 
-**Rafizi:** For now, actually the only strategy I see from UMNO at present is rebuilding their severely damaged image from 1MDB, from 2022, from the series of scandals and controversies that followed.
-
-**Haziq:** Okay.
-
-**Rafizi:** If you calculate it, that's actually a sensible strategy. And to build that image, they feel it's better to be in government because being in government means having power. And UMNO is a party that was built based on the need for resources. So if they're not in government, there are no resources, and it's difficult. So that's their strategy, right? That strategy, in the current climate, isn't an out-of-the-box strategy in my view that could drastically boost Malay support for UMNO. But that doesn't mean UMNO has no chance of improving its position in the upcoming election. The problem is that opportunity will be heavily influenced by factors outside UMNO's control.
-
-**Haziq:** Okay.
-
-**Rafizi:** For example, if it's a one-on-one contest — meaning BN-PH versus PN — if that situation continues, right, they'll depend on urban and non-Malay votes, and also educated Malays who were previously PH supporters. But that depends on vote transfer. And that also depends on whether it's a one-on-one contest or not. If there's a new party — if suddenly Syed Saddiq manages to convince MUDA to rise dramatically for example — then those votes will shift to another party. So there's a possibility that they'll benefit from being in the Madani Government because they can use PH votes — that possibility exists. But it's not entirely within their control, that's the first thing. Second, the opportunity they have is to show that UMNO ministers and UMNO's expertise as part of the government leadership is better than PKR's or PH's performance for example, so that it softens the alienation felt by supporters or fence-sitters who previously voted PH. And that would allow them to hide behind Dato' Seri Anwar Ibrahim with emotional blackmail toward voters — meaning, to keep Anwar Ibrahim in power, since this is a BN-PH government, give your vote to us, because if we win, there's a higher chance for Dato' Seri Anwar Ibrahim to return for a second term. But voters aren't stupid, you know. Voters know that the second factor I mentioned earlier, which depends on UMNO's performance compared to PKR in government, actually also depends on factors outside their control.
-
-**Haziq:** Okay.
-
-**Rafizi:** Namely, how bad the PH and PKR leadership turns out to be. And what's more dangerous for UMNO, because this is based on a hypothesis that PH voters can be led by the nose. But PH voters are usually very volatile, very fluid. If they can calculate — if it turns out UMNO fails to transfer Malay votes to PH, and only PH votes are strengthening UMNO — then if they're not careful, the result will be that UMNO gets more seats than PKR. UMNO might get more than 40, PKR might be left with only 15, for example. And in that situation, even though during campaigning they can hide behind the emotional blackmail of bringing back Dato' Seri Anwar Ibrahim for a second term, so vote solidly for us, right — PH voters might think, "Actually if that situation happens, UMNO will demand to be Prime Minister. So why should we give our vote?" So it's actually more complex, because the strategy UMNO has now, in my view, is still not an out-of-the-box strategy that could boost UMNO's votes on its own strength.
+**Rafizi:** For now, actually the only strategy I see from UMNO at present is rebuilding their severely damaged image from 1MDB, from 2022, from the series of scandals and controversies that followed. If you calculate it, that's actually a sensible strategy. And to build that image, they feel it's better to be in government because being in government means having power. And UMNO is a party that was built based on the need for resources. So if they're not in government, there are no resources, and it's difficult. So that's their strategy, right? That strategy, in the current climate, isn't an out-of-the-box strategy in my view that could drastically boost Malay support for UMNO. But that doesn't mean UMNO has no chance of improving its position in the upcoming election. The problem is that opportunity will be heavily influenced by factors outside UMNO's control. For example, if it's a one-on-one contest — meaning BN-PH versus PN — if that situation continues, right, they'll depend on urban and non-Malay votes, and also educated Malays who were previously PH supporters. But that depends on vote transfer. And that also depends on whether it's a one-on-one contest or not. If there's a new party — if suddenly Syed Saddiq manages to convince MUDA to rise dramatically for example — then those votes will shift to another party. So there's a possibility that they'll benefit from being in the Madani Government because they can use PH votes — that possibility exists. But it's not entirely within their control, that's the first thing. Second, the opportunity they have is to show that UMNO ministers and UMNO's expertise as part of the government leadership is better than PKR's or PH's performance for example, so that it softens the alienation felt by supporters or fence-sitters who previously voted PH. And that would allow them to hide behind Dato' Seri Anwar Ibrahim with emotional blackmail toward voters — meaning, to keep Anwar Ibrahim in power, since this is a BN-PH government, give your vote to us, because if we win, there's a higher chance for Dato' Seri Anwar Ibrahim to return for a second term. But voters aren't stupid, you know. Voters know that the second factor I mentioned earlier, which depends on UMNO's performance compared to PKR in government, actually also depends on factors outside their control. Namely, how bad the PH and PKR leadership turns out to be. And what's more dangerous for UMNO, because this is based on a hypothesis that PH voters can be led by the nose. But PH voters are usually very volatile, very fluid. If they can calculate — if it turns out UMNO fails to transfer Malay votes to PH, and only PH votes are strengthening UMNO — then if they're not careful, the result will be that UMNO gets more seats than PKR. UMNO might get more than 40, PKR might be left with only 15, for example. And in that situation, even though during campaigning they can hide behind the emotional blackmail of bringing back Dato' Seri Anwar Ibrahim for a second term, so vote solidly for us, right — PH voters might think, "Actually if that situation happens, UMNO will demand to be Prime Minister. So why should we give our vote?" So it's actually more complex, because the strategy UMNO has now, in my view, is still not an out-of-the-box strategy that could boost UMNO's votes on its own strength.
 
 **Farhan (Pa'an):** But YB, we've mentioned several times, right, the current political climate where the majority of voters feel disenfranchised. The tactics UMNO is using now — doesn't it disenfranchise voters even more? Because it's still using the same old tactics, identity politics, racial politics.
 
@@ -331,15 +279,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Farhan (Pa'an):** I know, in Malay. Oh, astaghfirullahalazim.
 
-**Rafizi:** Freed but not released. Something like that, right? From a DNAA — because a DNAA means the reason given by the Attorney General's Chambers when applying for the DNAA was that they would continue investigating. But one week after Dato' Seri Anwar's announcement last week, right, today there isn't even a DNAA anymore, it's a full discharge. So we can try to understand the public's view: "This is purely a political game." He mentioned this was due to pressure from DAP. At the same time he also has to maneuver pressure from UMNO. So DAP gets a few of these announcements, and UMNO gets a discharge afterward. So that, to me, resonates more deeply with the public compared to some of the things that were announced. That's one, right? Second, there are low-hanging fruits, you know, and the most important low-hanging fruit is related to institutional independence. The institutional independence that's often brought up, especially on social media, is the matter of the MACC appointment. Because the MACC appointment — Tan Sri Azam Baki should have retired by now. And in the past two weeks, right, when there was noise about — yes, noise about UMNO possibly leaving the government and all that — suddenly the MACC announced that a former Federal Territories Minister is currently under investigation. We know that former Federal Territories Minister is from UMNO. So the public's view is that the MACC's timing there is very much synchronized. So we can't blame the public's perception that there's something going on here, there's a game here, right? This perception that there's a game causes confidence in the MACC, as long as Tan Sri Azam Baki is there, to remain problematic. And without announcing all these reform measures, ordinary people ask, "Eh, you're the one who appointed him. Wouldn't it be easy for you to just replace him?" Right? That's one thing. But if, for example, the PM announced in a series of reform announcements that the appointment of the MACC Chief Commissioner and MACC oversight would no longer be under the Prime Minister and would be handed over to Parliament, then people would go, "hmm, that's good." But take FOI for example — FOI already exists, did you know that? Do you know? FOI already exists, where?
+**Rafizi:** Freed but not released. Something like that, right? From a DNAA — because a DNAA means the reason given by the Attorney General's Chambers when applying for the DNAA was that they would continue investigating. But one week after Dato' Seri Anwar's announcement last week, right, today there isn't even a DNAA anymore, it's a full discharge. So we can try to understand the public's view: "This is purely a political game." He mentioned this was due to pressure from DAP. At the same time he also has to maneuver pressure from UMNO. So DAP gets a few of these announcements, and UMNO gets a discharge afterward. So that, to me, resonates more deeply with the public compared to some of the things that were announced. That's one, right? Second, there are low-hanging fruits, you know, and the most important low-hanging fruit is related to institutional independence. The institutional independence that's often brought up, especially on social media, is the matter of the MACC appointment. Because the MACC appointment — Tan Sri Azam Baki should have retired by now. And in the past two weeks, right, when there was noise about — yes, noise about UMNO possibly leaving the government and all that — suddenly the MACC announced that a former Federal Territories Minister is currently under investigation. We know that former Federal Territories Minister is from UMNO. So the public's view is that the MACC's timing there is very much synchronized. So we can't blame the public's perception that there's something going on here, there's a game here, right? This perception that there's a game causes confidence in the MACC, as long as Tan Sri Azam Baki is there, to remain problematic. And without announcing all these reform measures, ordinary people ask, "you're the one who appointed him. Wouldn't it be easy for you to just replace him?" Right? That's one thing. But if, for example, the PM announced in a series of reform announcements that the appointment of the MACC Chief Commissioner and MACC oversight would no longer be under the Prime Minister and would be handed over to Parliament, then people would go, "that's good." But take FOI for example — FOI already exists, did you know that? Do you know? FOI already exists, where?
 
 **Farhan (Pa'an):** PADU.
 
-**Rafizi:** No, not that. FOI has existed for almost 15 years. Where? In Selangor and also in Penang.
-
-**Farhan (Pa'an):** Oh, okay okay okay.
-
-**Rafizi:** But why hasn't it had much impact on public perception of reform?
+**Rafizi:** No, not that. FOI has existed for almost 15 years. Where? In Selangor and also in Penang. But why hasn't it had much impact on public perception of reform?
 
 **Haziq:** The public doesn't expect that to count as reform?
 
@@ -365,7 +309,7 @@ Let me give a good example — the Government Procurement Act. If announced with
 
 Right now, okay, people will wait — we can play devil's advocate. But when it's tabled, if we're not careful — for example with FOI, with the separation of the Public Prosecutor — if people look at it and it's actually the same as before, not worth doing, or they see that whoever is appointed will still be beholden to the Prime Minister anyway, then you go through that. In terms of political optics value, okay, it can be done. But my view is that the public doesn't want announcements, the public doesn't want optics. What they actually measure is how much real substance there is. So that's the main difficulty of the reform the government needs to carry out. What's more, if we see that even though Dato' Seri Anwar has limited his term of service to 10 years, but if within that 10-year period the power of the Prime Minister remains very high, everything still in his hands, not letting go of anything, then it waters down everything. That's my view. But I hope I'm wrong. I hope I will be wrong.
 
-**Farhan (Pa'an):** Since YB mentioned the PM term limit — one of the biggest opponents of that announcement is PAS. Sanusi said, "No matter how good the PM's performance is, even 10 terms would be fine." Then, I think it was Fadhli Shaari who said the announcement isn't as miraculous as it's made out to be. Is this also a signal suggesting that PAS — in layman's terms — is more power-hungry, or...?
+**Farhan (Pa'an):** Since YB mentioned the PM term limit — one of the biggest opponents of that announcement is PAS. Sanusi said, "No matter how good the PM's performance is, even 10 terms would be fine." Then, I think it was Fadhli Shaari who said the announcement isn't as miraculous as it's made out to be. Is this also a signal suggesting that PAS — in layman's terms — is more power-hungry, or.?
 
 **Rafizi:** No, no, I don't think so. I don't think anyone can dispute that the underlying philosophy is good. The philosophy of limiting to two terms is good. Power corrupts. The longer you stay as Prime Minister, everything can be arranged, everything becomes entrenched. That's why it's not just about the term limit itself, you know — it's actually about how power is devolved away from one person. Appointments to institutions and so on, let them serve as a check and balance. So we can't really question the philosophy. The philosophy of a two-term limit for PM — good. Separating the power of the Public Prosecutor from the Attorney General so that prosecution can be conducted independently without political direction — good. FOI that allows the public to obtain detailed government information — good. Ombudsman — good. But, looking at PAS's reaction, I think it's because they're stumped — they don't know how to respond. That's all.
 
@@ -383,7 +327,7 @@ So I think PAS's position isn't because they want to hold power for a long time.
 
 **Rafizi:** Yes. So in the public's view, my guess is that a lot of it feels cosmetic. "He's okay, cosmetic. Then, never mind, we'll wait for the details. Then later the details create a fuss, never mind." So it doesn't move the needle. And then the numbers in subsequent months — even before the details of these acts come out — we can already see it. I predict it won't drastically improve public perception of the government's reform and anti-corruption performance.
 
-**Haziq:** Okay, alright. 1 hour 10 minutes, maybe we can look at...
+**Haziq:** Okay, alright. 1 hour 10 minutes, maybe we can look at.
 
 **Farhan (Pa'an):** But that's actually quite fast.
 
@@ -397,15 +341,11 @@ So I think PAS's position isn't because they want to hold power for a long time.
 
 **Haziq:** Tell the story, Pa'an.
 
-**Farhan (Pa'an):** I have to do it. Taichi eh? Power taichi tonight. Recently, in the last one month or so, there have been said to be many issues involving the Malaysian Armed Forces. One of them is our former Army Chief being exposed as having received transactions...
+**Farhan (Pa'an):** I have to do it. Taichi? Power taichi tonight. Recently, in the last one month or so, there have been said to be many issues involving the Malaysian Armed Forces. One of them is our former Army Chief being exposed as having received transactions.
 
-**Rafizi:** Not the former Chief of Defence Forces, right?
+**Rafizi:** Not the former Chief of Defence Forces, right? Former Chief of Army, PTD [Panglima Tentera Darat]. The PTD who was supposed to be appointed the next Chief of Defence Forces, but has now been.
 
-**Farhan (Pa'an):** Former...
-
-**Rafizi:** Former Chief of Army, PTD [Panglima Tentera Darat]. The PTD who was supposed to be appointed the next Chief of Defence Forces, but has now been...
-
-**Farhan (Pa'an):** So Chegubard made an exposé claiming that he received monthly payments, which could be linked back to kickbacks from Armed Forces procurement tenders. So that's one thing. Then recently I also found out about this issue from Caprice. Because, ha, Caprice, because Caprice...
+**Farhan (Pa'an):** So Chegubard made an exposé claiming that he received monthly payments, which could be linked back to kickbacks from Armed Forces procurement tenders. So that's one thing. Then recently I also found out about this issue from Caprice. Because, ha, Caprice, because Caprice.
 
 **Haziq:** Friend, neighbor.
 
@@ -417,9 +357,9 @@ So I think PAS's position isn't because they want to hold power for a long time.
 
 **Rafizi:** Ye-ye, not ya-ya. Ya-ya means enthusiastic. Ya-ya means enthusiastic, okay?
 
-**Farhan (Pa'an):** Sorry, so I saw — I don't know, ye-ye. Ah, so I saw this term, ye-ye. There was also a tweet about this, ye-ye. It's said there's a culture in the military where they'd go out with companions...
+**Farhan (Pa'an):** Sorry, so I saw — I don't know, ye-ye. Ah, so I saw this term, ye-ye. There was also a tweet about this, ye-ye. It's said there's a culture in the military where they'd go out with companions.
 
-**Rafizi:** Not go out — they'd bring them into the mess. This person has clearly never been to the Armed Forces or anything, doesn't know at all. For officers...
+**Rafizi:** Not go out — they'd bring them into the mess. This person has clearly never been to the Armed Forces or anything, doesn't know at all. For officers.
 
 **Farhan (Pa'an):** My grandfather is actually a retired Lieutenant Colonel. He's told stories about his time in the military, but he's never told stories about this.
 
@@ -433,17 +373,13 @@ So I think PAS's position isn't because they want to hold power for a long time.
 
 **Haziq:** Women lah, confirmed.
 
-**Rafizi:** Hostesses lah.
-
-**Farhan (Pa'an):** Hostesses, hostesses.
-
-**Rafizi:** The furthest you can stretch it is hostesses lah.
+**Rafizi:** Hostesses lah. The furthest you can stretch it is hostesses lah.
 
 **Farhan (Pa'an):** To the mess hall, and they'd have one night where they socialize.
 
 **Haziq:** Socialize, have fun. And they'd fleece the junior soldiers, the officers.
 
-**Rafizi:** That's an accusation that hasn't been...
+**Rafizi:** That's an accusation that hasn't been.
 
 **Haziq:** Allegedly.
 
@@ -455,15 +391,15 @@ So I think PAS's position isn't because they want to hold power for a long time.
 
 **Rafizi:** So what do you want me to comment on?
 
-**Haziq:** Like the question earlier. Right, all this while...
+**Haziq:** Like the question earlier. Right, all this while.
 
-**Farhan (Pa'an):** Okay, so...
+**Farhan (Pa'an):** Okay, so.
 
 **Rafizi:** I don't think we want to go there yet with the military stuff. Go ahead, Pa'an.
 
 **Farhan (Pa'an):** So for me, the military is one element in the whole of Malaysia that's number one hardest to touch because it's the military. Secondly, indeed like Haziq mentioned just now, when it comes to tenders, procurement and so on, we really have no oversight over it, because as Malaysian citizens we just don't question it.
 
-**Rafizi:** Eh, we have no oversight over government tenders in general, not just the military.
+**Rafizi:** We have no oversight over government tenders in general, not just the military.
 
 **Haziq:** It's just that this one is more so — it's a matter of national security.
 
@@ -481,7 +417,7 @@ Alright, regarding this ye-ye culture, let's wait for the investigation from the
 
 But at the very least, I hope the investigation into this ye-ye culture can be conducted transparently and as openly as possible, and I hope the current military leadership, the current MINDEF leadership, use this opportunity to fix the situation. I don't know the full extent, I don't have information on how widespread this is. Because this is indeed a culture inherited from the British military era — there really are officers who have their own mess. So of course they need to socialize. When socializing, in the old days it was common to have women around and such. But we've been independent for 70 years, and when socializing — if it's karaoke — it's probably best to karaoke among men only. No need to karaoke with women.
 
-**Haziq:** The Menteri Besar of Kedah is choking on that one. Oh really? Oh he karaokes with... yeah.
+**Haziq:** The Menteri Besar of Kedah is choking on that one. Oh really? Oh he karaokes with. yeah.
 
 **Rafizi:** I suggest karaoke with men only. If you really want to sing that badly, go ahead and sing, howl away. So that culture — while some will say it's an inherited culture with its own necessity. Right, you want to let your hair down. Soldiers, if not, might be too uptight, right? They also need to socialize. But I think it must be within proper bounds. And we don't know — when we're told outside women are being brought in, that's really not acceptable, because that's a military camp. From a moral standpoint, especially if they're not mahram and all that — even if it's just a hostess, it's still not acceptable. But from a more dangerous, more serious angle, it's national security. This should not be allowed in. Even a minister, I don't think, should be able to enter a military camp as they please — it's a matter of national security. So there are many things exposed here from this ye-ye culture that require attention.
 
@@ -491,7 +427,7 @@ Actually, this isn't very different from ragging at universities. For example, a
 
 **Haziq:** Including at MCKK?
 
-**Rafizi:** That's university, hold on, I haven't gotten to schools yet. Right? You went to UM, surely there was ragging?
+**Rafizi:** That's university, hold on, I haven't gotten to schools yet. Right? You went to surely there was ragging?
 
 **Haziq:** No, MCKK, including MCKK?
 
@@ -509,7 +445,7 @@ Alright, that's about the ye-ye issue. That's probably it for ye-ye, right? How 
 
 **Rafizi:** What do you mean by unquestionable procurement?
 
-**Farhan (Pa'an):** Defence procurement is usually said to be important for defence. Basically it's important for them. So we...
+**Farhan (Pa'an):** Defence procurement is usually said to be important for defence. Basically it's important for them. So we.
 
 **Rafizi:** So if that's the case, then it's my fault — I was the Economy Minister who had to approve it before. Meaning I can't ask questions? I just ask. I ask by the sackful.
 
@@ -527,29 +463,29 @@ Alright. So that's one problem. The second problem — not really a problem, but
 
 **Haziq:** Only one supplier?
 
-**Rafizi:** Only one supplier. So that's ultimately what creates the cartel. Because for example senior officers — my apologies to all the generals, I'm not painting everyone with the same brush — but we're all well aware, some generals, after they retire, admirals, air force generals, some of them go and join businesses. So they become agents or become principals for the arms supplier. Then, because defence procurement can't really be questioned much and it's not an open tender — defence procurement doesn't go through open tender, it's shortlisted, out of however many, there's usually only two or three shortlisted — so it creates many lobbyists and brings in a lot of vested interests. You know, one vested interest partners with a former general or a former government official, so they form a consortium. They become the principal or they become the agent. The agent's principal might be in France, in China, in Turkey or wherever. We want to supply cannons, we want to supply tanks, we want to supply ships, the spec is such and such. So round and round, in the end it goes to them. And because tenders can't be opened up like normal construction tenders, the pricing becomes high. That's what happened with LCS. From the very start, the spec — therefore determining the spec becomes very important. Because when you change the spec, that means you've already decided who's going to get it. So I can tell you — for example if I were the agent, I could tell the principal who's going to do it, I'd say, "You see, what's your cost? Like this, like this. I want 200 million, you build it into the cost." So because it's almost single sourcing, very limited tender, it becomes direct negotiation. Once it reaches the government, according to such-and-such specs, then training is added in, post-commissioning, blah blah blah. That's how one ship becomes 2 billion. And then once you're committed to that, once you start buying, you can't stop. Like LCS, it kept getting delayed, 5 ships not completed, already spent 9 billion, you can't just throw it away either. Because one ship is already 90% complete, another maybe 60% complete. And we need these ships. It's not as if you can say, "Okay let's stop everything, let's buy new ships." It doesn't work like that. You've already spent the money, and if you want to build new ships, start everything over, that takes 10 years. Our military would be sunk. So because of this, cartels like these can easily proliferate. And they'll have their people. At the Ministry of Economy too, they'll have their contacts. So what I fear most every year during the budget exercise is racking my brain over defence procurement. One, because I can never be an expert in it. Unless I were actually the Chief of Defence Forces, spent 20 years fighting wars and then okay, you cannot cheat me. But that can never happen — there will never be an Economy Minister who's a former Chief of Defence Forces. So the risk starts right there. So I have to rely quite a lot on the due diligence done by my officers. And even though they know the minister will scrutinize things one by one, they also know that the minister's knowledge is maybe only 20% compared to their knowledge in other matters. So there's already a huge risk right there. Then the next risk is restricted tender, and it's restricted tender because the spec was so specific. And then you argue with them, "Eh why is it like this?" "Oh because of this and that, YB." After a while it's like, I wish we could just buy planes or tanks from a mamak stall, but you can't, right? So the challenge, meaning this — the issue of armed forces procurement and weaponry is far more complicated than ordinary corruption. We need to balance it properly. If it were up to me, this is just my feeling — I wish we'd set up a Royal Commission. Don't put politicians in it, nothing like that. Find people who are genuinely patriotic, some of them former military personnel, former armed forces leaders, because I know there are many of them. How do I know about LCS in such detail, every single thing about the ships? Of course I had to read tons of documents to understand that beast. Of course that information came from within the armed forces itself, because many of our generals, our admirals, truly love the armed forces. There are many honest people there. But maybe their voices — and usually good people, when it comes to corruption matters, they really can't survive. Because if you're not part of the cartel, you'll definitely be ostracized. So it's difficult. If you're not at the top yet, while you're still on your way up, even at one-star level, you could get thrown out for no reason. Because you're not a player, you don't want to be involved. But there are a lot of them, either already retired or truly patriotic. You know, get these people, get the experts, learn from other countries. You know, if we have to put it through a Royal Commission to propose the best balance for defense procurement, we should do it. Because we don't have an answer — within the government it's really not discussed, it's status quo. So when it stays status quo like this — maybe because it's already become too rampant and too visible, there's already a money trail and everything. But if, for example, prosecutions are made, more arrests are made, you remove one group but don't change the system itself. And in an audit — when you audit a company, the company has issues, the auditor's job isn't just to point out what's wrong. The auditor's job is to tell and propose to management, this is how you fix the controls. Controls are important — how do you put in controls? In our language, checks and balances. But basically controls, you make it so difficult that it really can't be done that way because there are checkpoints at every stage. So we need a revamp of the entire procurement system, its approach, its philosophy, so that we can balance between the need for national security, the need for the best value, and also ensure that the speed, the competency, the availability of sourcing are all there. Right now I don't see this being discussed comprehensively yet. So I hope there's some wisdom in all these issues coming up. And we want to invite society, and I also hope the government's leadership listens, because otherwise this will repeat and repeat and repeat. And because defence procurement runs into the billions per project, you know, it's not 100 million — one project is 2 billion, 3 billion. It's become super sophisticated. Take LCS as an example. That money, as I understand it, a lot of it has gone into offshore accounts all over the place. It's been siphoned out from there, into offshore accounts everywhere. If you ask the MACC, the MACC will most likely say, "We can't trace the money trail because it's outside our jurisdiction." Which they may be right about. Maybe they're right, because once it involves 2-3 billion, if it's like LCS, 9 billion, it's not sitting in your Maybank account. It's like 1MDB, layer after layer after layer, already in offshore accounts and everything. So the result becomes exactly that: ships not delivered, ships rusting, then 9 years and still not completed, and then we have to add more money because there isn't enough to finish even one ship. And if the entire philosophy isn't changed, if there's no new process, and don't let politicians know about it! Give it to people who are truly patriotic, who are experts in this field, and give them power through a Royal Commission not just to identify the whole picture, but so they can give recommendations to the government and parliament on how we can tighten up the process. Then we'd have a starting point. Otherwise, we'll keep going — another four or five years, it'll happen again, another four or five years, it'll happen again.
+**Rafizi:** Only one supplier. So that's ultimately what creates the cartel. Because for example senior officers — my apologies to all the generals, I'm not painting everyone with the same brush — but we're all well aware, some generals, after they retire, admirals, air force generals, some of them go and join businesses. So they become agents or become principals for the arms supplier. Then, because defence procurement can't really be questioned much and it's not an open tender — defence procurement doesn't go through open tender, it's shortlisted, out of however many, there's usually only two or three shortlisted — so it creates many lobbyists and brings in a lot of vested interests. You know, one vested interest partners with a former general or a former government official, so they form a consortium. They become the principal or they become the agent. The agent's principal might be in France, in China, in Turkey or wherever. We want to supply cannons, we want to supply tanks, we want to supply ships, the spec is such and such. So round and round, in the end it goes to them. And because tenders can't be opened up like normal construction tenders, the pricing becomes high. That's what happened with LCS. From the very start, the spec — therefore determining the spec becomes very important. Because when you change the spec, that means you've already decided who's going to get it. So I can tell you — for example if I were the agent, I could tell the principal who's going to do it, I'd say, "You see, what's your cost? Like this, like this. I want 200 million, you build it into the cost." So because it's almost single sourcing, very limited tender, it becomes direct negotiation. Once it reaches the government, according to such-and-such specs, then training is added in, post-commissioning, blah blah blah. That's how one ship becomes 2 billion. And then once you're committed to that, once you start buying, you can't stop. Like LCS, it kept getting delayed, 5 ships not completed, already spent 9 billion, you can't just throw it away either. Because one ship is already 90% complete, another maybe 60% complete. And we need these ships. It's not as if you can say, "Okay let's stop everything, let's buy new ships." It doesn't work like that. You've already spent the money, and if you want to build new ships, start everything over, that takes 10 years. Our military would be sunk. So because of this, cartels like these can easily proliferate. And they'll have their people. At the Ministry of Economy too, they'll have their contacts. So what I fear most every year during the budget exercise is racking my brain over defence procurement. One, because I can never be an expert in it. Unless I were actually the Chief of Defence Forces, spent 20 years fighting wars and then okay, you cannot cheat me. But that can never happen — there will never be an Economy Minister who's a former Chief of Defence Forces. So the risk starts right there. So I have to rely quite a lot on the due diligence done by my officers. And even though they know the minister will scrutinize things one by one, they also know that the minister's knowledge is maybe only 20% compared to their knowledge in other matters. So there's already a huge risk right there. Then the next risk is restricted tender, and it's restricted tender because the spec was so specific. And then you argue with them, "why is it like this?" "Oh because of this and that, YB." After a while it's like, I wish we could just buy planes or tanks from a mamak stall, but you can't, right? So the challenge, meaning this — the issue of armed forces procurement and weaponry is far more complicated than ordinary corruption. We need to balance it properly. If it were up to me, this is just my feeling — I wish we'd set up a Royal Commission. Don't put politicians in it, nothing like that. Find people who are genuinely patriotic, some of them former military personnel, former armed forces leaders, because I know there are many of them. How do I know about LCS in such detail, every single thing about the ships? Of course I had to read tons of documents to understand that beast. Of course that information came from within the armed forces itself, because many of our generals, our admirals, truly love the armed forces. There are many honest people there. But maybe their voices — and usually good people, when it comes to corruption matters, they really can't survive. Because if you're not part of the cartel, you'll definitely be ostracized. So it's difficult. If you're not at the top yet, while you're still on your way up, even at one-star level, you could get thrown out for no reason. Because you're not a player, you don't want to be involved. But there are a lot of them, either already retired or truly patriotic. You know, get these people, get the experts, learn from other countries. You know, if we have to put it through a Royal Commission to propose the best balance for defense procurement, we should do it. Because we don't have an answer — within the government it's really not discussed, it's status quo. So when it stays status quo like this — maybe because it's already become too rampant and too visible, there's already a money trail and everything. But if, for example, prosecutions are made, more arrests are made, you remove one group but don't change the system itself. And in an audit — when you audit a company, the company has issues, the auditor's job isn't just to point out what's wrong. The auditor's job is to tell and propose to management, this is how you fix the controls. Controls are important — how do you put in controls? In our language, checks and balances. But basically controls, you make it so difficult that it really can't be done that way because there are checkpoints at every stage. So we need a revamp of the entire procurement system, its approach, its philosophy, so that we can balance between the need for national security, the need for the best value, and also ensure that the speed, the competency, the availability of sourcing are all there. Right now I don't see this being discussed comprehensively yet. So I hope there's some wisdom in all these issues coming up. And we want to invite society, and I also hope the government's leadership listens, because otherwise this will repeat and repeat and repeat. And because defence procurement runs into the billions per project, you know, it's not 100 million — one project is 2 billion, 3 billion. It's become super sophisticated. Take LCS as an example. That money, as I understand it, a lot of it has gone into offshore accounts all over the place. It's been siphoned out from there, into offshore accounts everywhere. If you ask the MACC, the MACC will most likely say, "We can't trace the money trail because it's outside our jurisdiction." Which they may be right about. Maybe they're right, because once it involves 2-3 billion, if it's like LCS, 9 billion, it's not sitting in your Maybank account. It's like 1MDB, layer after layer after layer, already in offshore accounts and everything. So the result becomes exactly that: ships not delivered, ships rusting, then 9 years and still not completed, and then we have to add more money because there isn't enough to finish even one ship. And if the entire philosophy isn't changed, if there's no new process, and don't let politicians know about it! Give it to people who are truly patriotic, who are experts in this field, and give them power through a Royal Commission not just to identify the whole picture, but so they can give recommendations to the government and parliament on how we can tighten up the process. Then we'd have a starting point. Otherwise, we'll keep going — another four or five years, it'll happen again, another four or five years, it'll happen again.
 
-**Farhan (Pa'an):** Actually I was thinking too, because like the US's — okay, their defense budget is among the largest, actually the largest in the world, their spending is very big. But their procurement process goes through many layers, you know. One is Congress, then I think it's the Government Accountability Office, and then within the Department of Defense they also have — if I'm not mistaken, I think it's the Inspector General that oversees the Department of Defense's spending, procurement and all that. Why can't Malaysia replicate that sort of...
+**Farhan (Pa'an):** Actually I was thinking too, because like the US's — okay, their defense budget is among the largest, actually the largest in the world, their spending is very big. But their procurement process goes through many layers, you know. One is Congress, then I think it's the Government Accountability Office, and then within the Department of Defense they also have — if I'm not mistaken, I think it's the Inspector General that oversees the Department of Defense's spending, procurement and all that. Why can't Malaysia replicate that sort of.
 
 **Rafizi:** That's exactly what I said earlier. It comes back to Dato' Seri Anwar Ibrahim, that's what I mean. Actually, if people say Chegubard keeps being angry at me and such, is it wrong of us if we aspire and dream for something much better? Because that's something other countries do better. It's not like we have to reinvent the wheel. We've seen that we're not the only ones with defense contracts, other countries have defense contracts too. But as Pa'an says, the power needs to be devolved. Like in the US, the Senate and House Armed Services Committees are extremely powerful because they're the ones who approve the budget, it's not the President, you know. It's Parliament that approves the budget. Now, budgets and everything, well, it's the government. If people aren't happy with me, I don't approve the budget or the lobbied project doesn't get through the Ministry of Economy, they go lobby someone else. Then someone calls me, someone asks questions about it. But as far as I know, throughout my two and a half years as Economy Minister, three budgets I went through, no one dared. After me, wallahuaklam, Akmal lah I guess, good luck. So other countries have their own way of balancing national security, accountability, and getting the best value for defense procurement. And the rule of thumb is simple — devolve the power. Right now power is very centralized, and for example once it's finalized at MINDEF, at the military level, the final hurdle is at MOF. It's settled at MOF instead, right? So Parliament just blinks and watches. I'm not saying — because some will say, "You think MPs are any good? You devolve power to Parliament, they'll get greedy too, they'll eat the money too." Well, that's the whole idea — you share the power and accountability and you check on each other, because the more people who know, the more people there'll be to scrutinize, the harder it becomes for one or two people to monopolize or make decisions unilaterally. So this comes back to the question of reform mentioned earlier. The core issue of reform is the devolution of power from the executive, especially from the Prime Minister, right? So now the Prime Minister is the Finance Minister. So if I were in the armed forces I'd say, "Well, you go and ask the Prime Minister lah because final approval is from MOF," right?
 
-**Haziq:** Alright YB, clear. 1 hour 50 minutes. Let's move to...
+**Haziq:** Alright YB, clear. 1 hour 50 minutes. Let's move to.
 
 **Rafizi:** Is there a lot more?
 
-**Haziq:** Two more heavy ones. Next, everyone's popular. You're popular, you're popular, everyone's popular. Okay, maybe I should explain a bit — what exactly is this survey, right? At least for our discussion here there are two. One conducted by Institut Masa. Institut Masa says satisfaction with the government rose from 41% to 49% from June 2025 to December 2025. And satisfaction with the PM also rose during that period from 33% to 46%. And by ethnic support, 58% support Dato' Seri Anwar Ibrahim, Indians 42%, and Malays 40%. But the government's overall performance is still at 50% and is labeled below satisfactory. Meanwhile the most popular Prime Ministerial candidate is Muhyiddin at 46%, followed by Anwar Ibrahim at 39% and Zahid Hamidi at 16%. This is according to...
+**Haziq:** Two more heavy ones. Next, everyone's popular. You're popular, you're popular, everyone's popular. Okay, maybe I should explain a bit — what exactly is this survey, right? At least for our discussion here there are two. One conducted by Institut Masa. Institut Masa says satisfaction with the government rose from 41% to 49% from June 2025 to December 2025. And satisfaction with the PM also rose during that period from 33% to 46%. And by ethnic support, 58% support Dato' Seri Anwar Ibrahim, Indians 42%, and Malays 40%. But the government's overall performance is still at 50% and is labeled below satisfactory. Meanwhile the most popular Prime Ministerial candidate is Muhyiddin at 46%, followed by Anwar Ibrahim at 39% and Zahid Hamidi at 16%. This is according to.
 
 **Rafizi:** Is that so? Is that for Malays?
 
 **Haziq:** No, this is overall. PM candidate, that's what it says.
 
-**Rafizi:** So that means the PM candidate... No, no, I read it differently in the news. In the news it said, as for candidates, Dato' Seri Anwar as the sitting Prime Minister gets the highest PM support rating. But the highest-rated potential successor in the next general election is Tan Sri Muhyiddin. Is that what you mean?
+**Rafizi:** So that means the PM candidate. No, no, I read it differently in the news. In the news it said, as for candidates, Dato' Seri Anwar as the sitting Prime Minister gets the highest PM support rating. But the highest-rated potential successor in the next general election is Tan Sri Muhyiddin. Is that what you mean?
 
-**Haziq:** Yes, correct, based on that news too. And one more, Ipsos, YB. Ipsos has a few questions. "The country is heading in the right direction," which rose from 66% to 69%. And "how do you rate the economic situation" also improved from 65% up to 73%. And they gave five issues, but the top three most concerning issues were first corruption, second social inequality/poverty...
+**Haziq:** Yes, correct, based on that news too. And one more, Ipsos, YB. Ipsos has a few questions. "The country is heading in the right direction," which rose from 66% to 69%. And "how do you rate the economic situation" also improved from 65% up to 73%. And they gave five issues, but the top three most concerning issues were first corruption, second social inequality/poverty.
 
 **Rafizi:** Meaning what? Respondents were asked to state the most concerning issue?
 
-**Haziq:** Out of five issues, 23,000 respondents, these are their top three. I don't know the other two. But the three are: one, corruption. Second...
+**Haziq:** Out of five issues, 23,000 respondents, these are their top three. I don't know the other two. But the three are: one, corruption. Second.
 
 **Rafizi:** So that's exactly what I was saying. Corruption is actually a key point among respondents.
 
@@ -575,11 +511,7 @@ Alright. So that's one problem. The second problem — not really a problem, but
 
 **Haziq:** But that doesn't necessarily mean you'd vote for Shah Rukh Khan.
 
-**Rafizi:** Right, because it all depends on the question asked, like Ipsos's question. If Ipsos says the situation is good for the government — same with Ipsos and Merdeka Center, their main questions are along those lines. Do you feel the country is on the right track? So what's your answer?
-
-**Haziq:** Right. Right, but...
-
-**Rafizi:** Ha, there's a "but." So he wants to say right, right, okay, right. So if, for example, the question is a general question about the direction of the country, or even goes as far as whether you're satisfied with the Prime Minister's performance, while those numbers are indicators, they're not really accurate for predicting how people will actually vote. So he could say, "I feel the country is on the right track, but before my father died he told me if I don't vote for PAS, I won't get into heaven. So I have to vote PAS." Right? So ultimately, of all these findings, the most important thing is whether we succeed in asking who they intend to vote for — that's it. They can give their views on the economy and so on, sure. But ultimately, to see whether a survey is truly bold enough, or able to model, or able to give insight into voting patterns, you need to ask them, "In the last election, who did you vote for?" Then you need to ask them, "If there were an election tomorrow, who would you vote for?" And most surveys — I've been doing this for 10 years, I do surveys for a living, not for politics. In fact, the people paying for these surveys aren't political people — the ones paying for all these surveys are international companies, they pay for the data. Most of the time, they don't want to ask that question. Why?
+**Rafizi:** Right, because it all depends on the question asked, like Ipsos's question. If Ipsos says the situation is good for the government — same with Ipsos and Merdeka Center, their main questions are along those lines. Do you feel the country is on the right track? So what's your answer? Ha, there's a "but." So he wants to say right, right, okay, right. So if, for example, the question is a general question about the direction of the country, or even goes as far as whether you're satisfied with the Prime Minister's performance, while those numbers are indicators, they're not really accurate for predicting how people will actually vote. So he could say, "I feel the country is on the right track, but before my father died he told me if I don't vote for PAS, I won't get into heaven. So I have to vote PAS." Right? So ultimately, of all these findings, the most important thing is whether we succeed in asking who they intend to vote for — that's it. They can give their views on the economy and so on, sure. But ultimately, to see whether a survey is truly bold enough, or able to model, or able to give insight into voting patterns, you need to ask them, "In the last election, who did you vote for?" Then you need to ask them, "If there were an election tomorrow, who would you vote for?" And most surveys — I've been doing this for 10 years, I do surveys for a living, not for politics. In fact, the people paying for these surveys aren't political people — the ones paying for all these surveys are international companies, they pay for the data. Most of the time, they don't want to ask that question. Why?
 
 **Haziq:** People are reluctant to answer?
 
@@ -597,11 +529,7 @@ Alright. So that's one problem. The second problem — not really a problem, but
 
 **Rafizi:** You want to join BERSATU or something?
 
-**Haziq:** No way, God forbid.
-
-**Rafizi:** God forbid.
-
-**Haziq:** So far, yes, we can see the news about these dismissals, as usual, YB. There's just one more thing — it's been said that Muhyiddin's resignation as PN Chairman is not yet valid. Is this also a strategy on their part, or is this really a U-turn because they got nervous from YB's analysis?
+**Haziq:** No way, God forbid. So far, yes, we can see the news about these dismissals, as usual, YB. There's just one more thing — it's been said that Muhyiddin's resignation as PN Chairman is not yet valid. Is this also a strategy on their part, or is this really a U-turn because they got nervous from YB's analysis?
 
 **Farhan (Pa'an):** Maybe they heard our podcast last week, where YB himself said this might be Muhyiddin's strategy to tell PAS that without me, you're dead.
 
@@ -637,7 +565,7 @@ Alright. So that's one problem. The second problem — not really a problem, but
 
 **Rafizi:** Ha, I think that's about it. Well, to our listeners, we're already on episode 30, right. Honestly it's tiring, you know, every week, 30 episodes. I can't even imagine reaching episode 300. Two and a half hours every week. But insya-Allah, since 2026 is going to be an interesting year, we'll see more people claiming to be popular, we'll see all sorts of challenges being thrown around, we'll see continuous threats being made. I'm very grateful I just do a podcast.
 
-**Haziq:** Alright, alright. Okay, we...
+**Haziq:** Alright, alright. Okay, we.
 
 **Farhan (Pa'an):** Maybe I can add — if there's a topic you'd like us to cover for the next episode, please leave a comment below.
 
@@ -645,7 +573,7 @@ Alright. So that's one problem. The second problem — not really a problem, but
 
 **Haziq:** Yes, on Twitter.
 
-**Farhan (Pa'an):** Tag Rafizi, Haziq... what's your handle again?
+**Farhan (Pa'an):** Tag Rafizi, Haziq. what's your handle again?
 
 **Haziq:** Just Haziq, Haziq.
 

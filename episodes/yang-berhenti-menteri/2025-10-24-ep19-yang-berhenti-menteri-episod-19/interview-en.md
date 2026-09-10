@@ -63,43 +63,27 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Okay YB, that's the answer. Let's continue with the usual segment YB. Let's go to the first segment.
 
-**Rafizi:** So who's switching earlier?
+**Rafizi:** So who's switching earlier? Switching moderators.
 
-**Haziq:** Switching?
-
-**Rafizi:** Switching moderators.
-
-**Haziq:** YB decides, I'm scared. Okay. Okay, the first segment YB, Beria Mat. Like usual, people who are showing off. But it's not really showing off, maybe we also want to highlight current issues besides politics a bit. Let's look at the first one.
-
-**Rafizi:** Beria.
-
-**Haziq:** Okay, this one's political. "Head of Srikandi tells of the Education Minister's sacrifices." Did you notice YB?
+**Haziq:** YB decides, I'm scared. Okay. Okay, the first segment YB, Beria Mat. Like usual, people who are showing off. But it's not really showing off, maybe we also want to highlight current issues besides politics a bit. Let's look at the first one. Okay, this one's political. "Head of Srikandi tells of the Education Minister's sacrifices." Did you notice YB?
 
 **Rafizi:** Education Minister, or Minister of Learning?
 
 **Haziq:** Education Minister. This is a typo. She wished YB a happy birthday. But she talked about how tired she looked, falling asleep in the toilet from exhaustion.
 
-**Rafizi:** I haven't read this posting, but yes, it's already...
+**Rafizi:** I haven't read this posting, but yes, it's already.
 
 **Haziq:** Already deleted, YB?
 
-**Rafizi:** It's already become a meme among netizens, right. "Besides the ministry's programs..." "Selamat meranum usia" — what does this mean?
+**Rafizi:** It's already become a meme among netizens, right. "Besides the ministry's programs." "Selamat meranum usia" — what does this mean?
 
-**Haziq:** Happy birthday.
-
-**Rafizi:** Meranum?
-
-**Haziq:** Meranum. First time I've heard it.
+**Haziq:** Happy birthday. Meranum. First time I've heard it.
 
 **Rafizi:** Where does it say she fell asleep in the toilet?
 
 **Haziq:** "Once fell asleep in the toilet from being too exhausted but never complained."
 
-**Rafizi:** Oh. "Once fell asleep in the toilet from being too exhausted." That's tough, right. This could already be reported to the Labour Department. Because this has become a form of mistreatment — if an employee is so exhausted from work that she falls asleep in the toilet. I really didn't expect a response like this that should be reported to the Labour Department. Though I myself once slept in the toilet before.
-
-**Haziq:** Okay.
-
-**Rafizi:** When I first started working in the UK. But in my experience, sleeping in the toilet during work hours wasn't because I was tired, but because I wanted to skip work. Because I was bored at the office.
+**Rafizi:** Oh. "Once fell asleep in the toilet from being too exhausted." That's tough, right. This could already be reported to the Labour Department. Because this has become a form of mistreatment — if an employee is so exhausted from work that she falls asleep in the toilet. I really didn't expect a response like this that should be reported to the Labour Department. Though I myself once slept in the toilet before. When I first started working in the UK. But in my experience, sleeping in the toilet during work hours wasn't because I was tired, but because I wanted to skip work. Because I was bored at the office.
 
 **Haziq:** YB did that before? That's so cool.
 
@@ -119,19 +103,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** I don't think there's any ranking body that sets it. As long as people feel they can relate.
 
-**Rafizi:** Or is she actually a food reviewer?
-
-**Haziq:** Ah yes yes yes.
-
-**Rafizi:** Maybe she's a food reviewer who goes to shops to do reviews. Is she a food reviewer?
+**Rafizi:** Or is she actually a food reviewer? Maybe she's a food reviewer who goes to shops to do reviews. Is she a food reviewer?
 
 **Haziq:** (no response recorded)
 
-**Rafizi:** So many people do food reviews at mamak shops, even reviewers doing reviews of instant Maggi noodles by the roadside, there are plenty. But well, this is bad luck for the mamak shop. Mamak shops, when they're thriving, usually already have their own regular customers, so they don't depend much on influencers. And yes, I'm also torn about promotion from influencers. Because the risk is that during the review the numbers might go up, but if you're not careful, the people who visit are only there to try it once, they're not repeat customers, they don't come back. So if I ran a business, I'd be quite careful about depending on...
-
-**Haziq:** Food reviewers.
-
-**Rafizi:** ...food reviews or so-called influencers. But she's not getting free food, no way. Never mind, tell her to come review our podcast, I'll treat her.
+**Rafizi:** So many people do food reviews at mamak shops, even reviewers doing reviews of instant Maggi noodles by the roadside, there are plenty. But well, this is bad luck for the mamak shop. Mamak shops, when they're thriving, usually already have their own regular customers, so they don't depend much on influencers. And yes, I'm also torn about promotion from influencers. Because the risk is that during the review the numbers might go up, but if you're not careful, the people who visit are only there to try it once, they're not repeat customers, they don't come back. So if I ran a business, I'd be quite careful about depending on. food reviews or so-called influencers. But she's not getting free food, no way. Never mind, tell her to come review our podcast, I'll treat her.
 
 **Haziq:** Okay YB, there's more. Deepavali call.
 
@@ -143,11 +119,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Then someone took a video, the parents were there too. They made a video, but didn't reprimand them.
 
-**Rafizi:** But yeah, this isn't the children's fault. This should be on the parents — if we have children, we need to make sure our children, one, it's dangerous if our children are sitting separately and doing things separately from us. Nowadays, when this happens, the parents don't even know where their child is. One, it's dangerous. Second, the kids don't know anything. If the parents don't supervise, don't watch, this is what happens. It's just that maybe these kids don't actually understand what a Deepavali decoration, a Deepavali kolam, means. So the fault, 100% the parents' fault. 100%.
-
-**Haziq:** Okay, okay, okay.
-
-**Rafizi:** But yeah, so are you saying this is "beria" the kids destroying something?
+**Rafizi:** But yeah, this isn't the children's fault. This should be on the parents — if we have children, we need to make sure our children, one, it's dangerous if our children are sitting separately and doing things separately from us. Nowadays, when this happens, the parents don't even know where their child is. One, it's dangerous. Second, the kids don't know anything. If the parents don't supervise, don't watch, this is what happens. It's just that maybe these kids don't actually understand what a Deepavali decoration, a Deepavali kolam, means. So the fault, 100% the parents' fault. 100%. But yeah, so are you saying this is "beria" the kids destroying something?
 
 **Haziq:** I don't think it's literally like that. The parents also have their role.
 
@@ -171,7 +143,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Has YB played before?
 
-**Rafizi:** Not yet because I realize, I know I'm old. Right, the...
+**Rafizi:** Not yet because I realize, I know I'm old. Right, the.
 
 **Haziq:** Or does YB actually have haters? Does pickleball have haters?
 
@@ -179,15 +151,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Quite expensive too. 60 there is? 100. 100, 130, 220.
 
-**Rafizi:** So my comment would be, when the Selangor state government is so eager to introduce pickleball, one thing we all know is that any government's...
-
-**Haziq:** State.
-
-**Rafizi:** ...financial resources are limited. So wouldn't it be better if those resources were channeled to sports that are already firmly established in Malaysia, that already have decades of programs from the school level? That includes major sports like football, hockey, rugby, basketball, volleyball — these already have competitions at the District Schools Sports Council level. Then what should probably be considered is that if it's introduced and becomes a program, well the allocation will be used. But if children who want to play, if their family has to spend hundreds of ringgit, it might become a burden to the family. But this is actually our people's habit too — we're always chasing new trends, following the West. I remember Einstein once said, "It's not that I am smarter, I stay on the problem longer." So sometimes as a society, we don't have the endurance to stick with one thing, improve it, solve its problems, before we move on to the new hype. Sports too, if we're not careful, will end up like pickleball — trying to carry too many things at once and dropping them all. So I don't really understand why. So it's "beria." Never mind, maybe I need to go play pickleball. The kids at my office play pickleball, every two weeks they go, looks fun. It's just that I know I'm old, because the office kids are all in their early 20s. If I try to join in there, I'd feel awkward, being nearly 50. Maybe I'll play once and then maybe I'll become an enthusiastic supporter of the Selangor state government. Selangor here means the Selangor state government right? "Ah the state also plans..." Okay.
+**Rafizi:** So my comment would be, when the Selangor state government is so eager to introduce pickleball, one thing we all know is that any government's. financial resources are limited. So wouldn't it be better if those resources were channeled to sports that are already firmly established in Malaysia, that already have decades of programs from the school level? That includes major sports like football, hockey, rugby, basketball, volleyball — these already have competitions at the District Schools Sports Council level. Then what should probably be considered is that if it's introduced and becomes a program, well the allocation will be used. But if children who want to play, if their family has to spend hundreds of ringgit, it might become a burden to the family. But this is actually our people's habit too — we're always chasing new trends, following the West. I remember Einstein once said, "It's not that I am smarter, I stay on the problem longer." So sometimes as a society, we don't have the endurance to stick with one thing, improve it, solve its problems, before we move on to the new hype. Sports too, if we're not careful, will end up like pickleball — trying to carry too many things at once and dropping them all. So I don't really understand why. So it's "beria." Never mind, maybe I need to go play pickleball. The kids at my office play pickleball, every two weeks they go, looks fun. It's just that I know I'm old, because the office kids are all in their early 20s. If I try to join in there, I'd feel awkward, being nearly 50. Maybe I'll play once and then maybe I'll become an enthusiastic supporter of the Selangor state government. Selangor here means the Selangor state government right? "Ah the state also plans." Okay.
 
 **Haziq:** Okay, alright. That's Beria. YB want to give a rating?
 
-**Rafizi:** Rating? Let me look again at what it was. Oh, this rating is clear. Reporting to the Labour Department for falling asleep in the toilet. This one, rating 5. No, it's actually not Fadhlina — this is Nurhidayah Che Rose who's being so eager. I know she's an officer under Fadhlina, but there's no need for this. If I had an officer of mine make a posting like this, I would really scold them. I'd punish that officer, tell them to go sleep in the toilet. Right? Because it doesn't help. This Nurhidayah Che Rose is Fadhlina's officer from before, in PKR. But...
+**Rafizi:** Rating? Let me look again at what it was. Oh, this rating is clear. Reporting to the Labour Department for falling asleep in the toilet. This one, rating 5. No, it's actually not Fadhlina — this is Nurhidayah Che Rose who's being so eager. I know she's an officer under Fadhlina, but there's no need for this. If I had an officer of mine make a posting like this, I would really scold them. I'd punish that officer, tell them to go sleep in the toilet. Right? Because it doesn't help. This Nurhidayah Che Rose is Fadhlina's officer from before, in PKR. But.
 
 **Haziq:** So YB really dislikes it when your own officers praise you to excess?
 
@@ -227,19 +195,19 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** YB, I think everyone already understands. There's already been a statement from the Director-General of APMM, then from the mosque, so people are confused. But I want to ask, let's jump to the conclusion straight away. YB, do you agree if the YB for Kota Bharu should be suspended for 6 months like the YB for Machang was before?
 
-**Rafizi:** No, that has its own process in Parliament. And for me, the question of suspension or not in Parliament is a parliamentary process that may have no real effect on the people. It's just the tendency to politicise everything — I don't even know what's happened to PAS. Because the PAS I knew growing up in Terengganu, then PAS together at the start in Barisan Alternatif, then PAS together in Pakatan Rakyat, the PAS I knew before wasn't the type that liked to jump around and turn everything into a racial issue just to build hatred towards the government. That's not the PAS I knew. I grew up with a PAS whose campaign was "Islam for All." So tribalism or racism or factionalism is haram in Islam. That's the PAS I knew. But lately, every single issue that reaches PAS, they seem addicted to playing the racial card to build this anger. So this issue is...
+**Rafizi:** No, that has its own process in Parliament. And for me, the question of suspension or not in Parliament is a parliamentary process that may have no real effect on the people. It's just the tendency to politicise everything — I don't even know what's happened to PAS. Because the PAS I knew growing up in Terengganu, then PAS together at the start in Barisan Alternatif, then PAS together in Pakatan Rakyat, the PAS I knew before wasn't the type that liked to jump around and turn everything into a racial issue just to build hatred towards the government. That's not the PAS I knew. I grew up with a PAS whose campaign was "Islam for All." So tribalism or racism or factionalism is haram in Islam. That's the PAS I knew. But lately, every single issue that reaches PAS, they seem addicted to playing the racial card to build this anger. So this issue is.
 
 **Haziq:** But it's not a racial issue, YB, how so?
 
 **Rafizi:** It's not far off. I mean, in English, appealing to the right wing. Meaning messages or campaigns that are anti-establishment, anti-government. So this one has gone so far as to claim there's an attempt to create another Memali against PAS. I find that strange too. I would understand if it were the older generation of PAS who are angry about Memali. I was in Standard 2 in 1985. I actually got to watch live coverage of Memali on TV. I might not have understood it fully. Then I remember the story made about Guru Yahya regarding deviant teachings. When I grew a bit older, I understood that it was actually propaganda about Memali. You weren't even born yet then. Long before. So I'd understand if PAS is very sensitive about matters related to Memali. It's just strange because the Home Minister at the time Memali happened was Tun Mahathir, who is now their advisor. So Tun, who was once said regarding Memali — right to their faces — that those who died in Memali died like frogs. So reviving the Memali story now and linking it to Masjid Rusila, as if there's some grand conspiracy to "Memali-ise" Masjid Rusila, I think that's gone too far. And as I said earlier, it's unfortunate that when Parliament and our country have so many problems and issues we need to focus on, a senior PAS leader who was once Minister of Law and once Minister of Energy, who should have great experience and insight on many issues, especially those related to energy security, ended up using his speech to stir up emotions in Parliament, perhaps because it would get more TikTok traction and more internal support from PAS. I don't think any government, regardless of which party, would take action involving enforcement authorities at a mosque, let alone Masjid Rusila. Besides, at Masjid Rusila, Datuk Seri Hadi Awang has been giving talks and Friday sermons there since I was 7-8 years old. I'm nearly 50 now. That means 40 years, and there has never been any action, not from the era of Tun Mahathir, through Datuk Seri Najib, through PH, and supposedly when DAP was "in power" — never. So although this is a somewhat cheap, low-blow campaign attempt, what I find more concerning is the tendency to jump to conclusions and turn every matter into something with an overly right-wing motive or message.
 
-**Haziq:** Okay, good YB. Okay, that's enough for...
+**Haziq:** Okay, good YB. Okay, that's enough for.
 
 **Rafizi:** Raid, commando raid. Raid.
 
 **Haziq:** Have you watched the CCTV video, YB?
 
-**Rafizi:** I've watched it. I've watched the short CCTV videos. As for "raid," I'm the one who's often been "raided" because I was arrested before. In this context, "raid" means being arrested with police suddenly surrounding a house and so on. If that had happened, I think it would have caused a bigger uproar than this. Let's wait, let's wait for the response from the Ministry of Home Affairs, from APMM. But as a senior Member of Parliament, I think the Kota Bharu MP, Datuk Seri Takiyuddin, shouldn't have jumped to conclusions and thrown accusations in the form of questions. He wasn't stating facts. Because I heard the speech — the accusation was made without facts and aimed at playing on emotions, saying, "Is this an attempt against our president? Is this an attempt to repeat what happened in Memali?" So...
+**Rafizi:** I've watched it. I've watched the short CCTV videos. As for "raid," I'm the one who's often been "raided" because I was arrested before. In this context, "raid" means being arrested with police suddenly surrounding a house and so on. If that had happened, I think it would have caused a bigger uproar than this. Let's wait, let's wait for the response from the Ministry of Home Affairs, from APMM. But as a senior Member of Parliament, I think the Kota Bharu MP, Datuk Seri Takiyuddin, shouldn't have jumped to conclusions and thrown accusations in the form of questions. He wasn't stating facts. Because I heard the speech — the accusation was made without facts and aimed at playing on emotions, saying, "Is this an attempt against our president? Is this an attempt to repeat what happened in Memali?" So.
 
 **Haziq:** Okay, good YB, let's wait for the next response. Moving on, there's another elephant in the room related to the Kota Kinabalu High Court's decision that 40% of Sabah's revenue must be returned. I think this is a dilemma within a dilemma because in the recent Budget, so many things were announced. If the government proceeds to appeal, I think all the goodwill will be lost. But if the government agrees to pay too, from account to account, federal account to state account, I'm not sure the Federal Government has the capacity. I might need to ask you, YB, how would you suggest to PMX to help him with this dilemma?
 
@@ -253,19 +221,15 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** You're a lawyer. How much time is allowed before the deadline expires to file an appeal?
 
-**Haziq:** From what I've read, not very... specifically for this case, not very soon. We're not talking about years, if I'm not mistaken it's a matter of a few months.
+**Haziq:** From what I've read, not very. specifically for this case, not very soon. We're not talking about years, if I'm not mistaken it's a matter of a few months.
 
-**Rafizi:** Right, there must be a law governing that. There...
-
-**Haziq:** There is, if...
-
-**Rafizi:** It can't be that the appeal is open-ended. There must be a time limit, because that's actually the most significant thing right now. In my view, the government will appeal because appealing isn't about quarrelling with Sabah or not, it has to follow the law. So the legal interpretation — the Attorney General's Chambers on behalf of the government may have their own interpretation. And for example, back in the early 1970s, when the then Barisan Nasional government did not pay the 40% and that continued until now, the decision made in the 1970s must have been based on certain matters. Contrary to popular belief, I don't think this government simply violates things at will. The interpretation may differ. For example, take the Sarawak issue — the interpretation revolves around the use of the Continental Shelf Act, which determines that the state boundary extends to 3 nautical miles. The Sarawak State Government has its view on the application and interpretation, and the Federal Government has its own view. It's the same with this constitutional matter. Certainly, when that decision was made, there were arguments based on certain legal interpretations at the time. So of course the Federal Government will look into these matters, and if it's felt that there's a different interpretation that could serve as grounds for appeal, the Federal Government will appeal. I think the Federal Government will appeal. The issue is the Sabah State Election. The Sabah State Election is at the end of November. That's why I asked when the appeal period ends.
+**Rafizi:** Right, there must be a law governing that. There. It can't be that the appeal is open-ended. There must be a time limit, because that's actually the most significant thing right now. In my view, the government will appeal because appealing isn't about quarrelling with Sabah or not, it has to follow the law. So the legal interpretation — the Attorney General's Chambers on behalf of the government may have their own interpretation. And for example, back in the early 1970s, when the then Barisan Nasional government did not pay the 40% and that continued until now, the decision made in the 1970s must have been based on certain matters. Contrary to popular belief, I don't think this government simply violates things at will. The interpretation may differ. For example, take the Sarawak issue — the interpretation revolves around the use of the Continental Shelf Act, which determines that the state boundary extends to 3 nautical miles. The Sarawak State Government has its view on the application and interpretation, and the Federal Government has its own view. It's the same with this constitutional matter. Certainly, when that decision was made, there were arguments based on certain legal interpretations at the time. So of course the Federal Government will look into these matters, and if it's felt that there's a different interpretation that could serve as grounds for appeal, the Federal Government will appeal. I think the Federal Government will appeal. The issue is the Sabah State Election. The Sabah State Election is at the end of November. That's why I asked when the appeal period ends.
 
 **Haziq:** It differs by case.
 
 **Rafizi:** Who says it's arbitrary like that? Now let me ask — Haziq holds a law degree from Universiti Malaya. So the lecturers at Universiti Malaya can check now. Surely there is appeal. Under which act?
 
-**Haziq:** For civil cases, the Civil Procedure Code. Again, it depends on the issue. If it's related to, for example, debt, then there's a 6-year time limit. If it's another issue...
+**Haziq:** For civil cases, the Civil Procedure Code. Again, it depends on the issue. If it's related to, for example, debt, then there's a 6-year time limit. If it's another issue.
 
 **Rafizi:** No, that's basically the statute of limitation, 6 years. This isn't a statute of limitation issue. This means a judgment has already been issued. And once a judgment is issued, there must be a time period within which, if you don't appeal, then it's considered lapsed and you can no longer appeal. But never mind, okay. So my guess is this. My guess is this. Hypothetically, the period for appeal ends after the Sabah State Election. So the appeal will be filed after the Sabah State Election and it will go to the Court of Appeal. And these are matters related to constitutional interpretation, and it will take its course. So that's one matter. In terms of politics and law, the Federal Government's difficulty now is that politically, if they appeal now, it's confirmed disaster. It will become a huge issue in Sabah. Another side of this is the matter of the 40%. The 40% is Federal Government revenue collected from Sabah. So far, the Prime Minister has stated that starting from 2022 until now, the total allocation to Sabah has already exceeded the total revenue collected by the Federal Government in Sabah. That's why, when I was a minister, in my view, it would be better for us to be transparent about everything. Meaning we share and announce this data to the people, all the data. Data on how much revenue is collected, how many projects are approved, how much spending by parliamentary constituency, we announce it all. So that it doesn't become a matter of dispute. But there's a view within the government that feels if that's done, the situation would become more chaotic. Because actually the revenue collection from states across Malaysia isn't uniform. It would create a situation where the majority of taxpayers are concentrated in just a few states — in the Federal Territory, in Selangor, in Penang, in Johor — states with more advanced economies. So in this situation, our constitution establishes a Federal List, a Concurrent List, and a State List. What I'm not entirely clear about is, during the formation of Malaysia and the agreements, including those enshrined in the Federal Constitution, when it's said that 40% of Sabah's revenue must be paid, does that mean it's a cash transfer that the Federal Government must pay over and above existing allocations? Over and above the allocations already paid by the Federal Government to cover services, infrastructure, and salaries under the Federal List and the Concurrent List? I'm not sure about that. I think there are also differing views on that. Because, for example, according to the Deputy President of UPKO, after Datuk Seri Anwar presented in Parliament that Sabah's actual revenue is less than what's allocated by the Federal Government, and that the Federal Government has given the largest allocation to Sabah every year compared to other states, the Deputy President of UPKO's answer was that those allocations are separate — what we're asking for is over and above that. So that's something I need to check and look into — whether the 40% allocation means over and above or not. Because there's a big difference. For example, in the current situation where the revenue collected from Sabah is less than what's spent by the Federal Government for Sabah, then if the Federal Government takes the position that it will pay according to the 40%, that would also mean that allocations previously channelled through various departments and projects based on lists — especially the Concurrent List, possibly also the Federal List — would then be borne by Sabah, and then Sabah would have a problem. Let me give a good example. This one I know isn't very popular among Sabahans if turned into a political issue. It's about electricity supply in Sabah, for example. In principle, whoever — whether a state, a body, or a board — has full regulatory control over a matter, that body should bear the responsibility. Take the example of electricity regulation in the Peninsula, done by the Energy Commission. So the Energy Commission sets the tariff. The Energy Commission and the Federal Government are responsible for building infrastructure like substations, grids, and so on, because that's paid for through the tariff set by the Energy Commission. So you control end to end. In Sarawak, electricity regulation is under Sarawak. In Sabah, it's under Sabah. But in Sabah's case, for example, electricity regulation is entirely under Sabah's jurisdiction, the state government's — but the investment needs to be paid for by the federal government.
 
@@ -277,7 +241,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** 30 days? Ah, that's a wrap then.
 
-**Haziq:** It will be very tricky because...
+**Haziq:** It will be very tricky because.
 
 **Rafizi:** Because the Sabah State Election is on 30 November?
 
@@ -291,9 +255,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Alright, YB. Okay, we've been here an hour. If we could move to the next issue. We have a counter-attack — YB the other day criticised Tan Sri Abdul Hadi Awang regarding the use of the dinar to replace the USD. So the argument put forward was, even during Tun Mahathir's time there was the D-8 alliance that wanted to use the dinar as a trade instrument between Islamic countries, and in 2023 the Prime Minister himself stated in Parliament that there was consideration to use the dinar as a national reserve. So how would YB respond to that?
 
-**Rafizi:** The one who said this, Nurul Islam — he owes me something. Back then I remember he was a PAS Youth activist, this was around 2012 I think. At that time I was very popular with PAS because they needed me to give talks, because if it was a PAS ceramah, it would be the same issues. But when someone from PKR came, we had lots of issues — the NFC issue, scandal issues, all of that. So PAS people liked it. So there was a time, I remember he was still young, he went through a lot of trouble to invite me, pestering me to attend a forum that he and his friends organised. I think it was somewhere in KL. So I went. I left behind an expensive folder of mine that someone had given me — a Montblanc folder. It's with him. Give me back my Montblanc folder. Give it back. Give it back. After 13 years, I still remember, eh. Alright, so what was his comment?
+**Rafizi:** The one who said this, Nurul Islam — he owes me something. Back then I remember he was a PAS Youth activist, this was around 2012 I think. At that time I was very popular with PAS because they needed me to give talks, because if it was a PAS ceramah, it would be the same issues. But when someone from PKR came, we had lots of issues — the NFC issue, scandal issues, all of that. So PAS people liked it. So there was a time, I remember he was still young, he went through a lot of trouble to invite me, pestering me to attend a forum that he and his friends organised. I think it was somewhere in KL. So I went. I left behind an expensive folder of mine that someone had given me — a Montblanc folder. It's with him. Give me back my Montblanc folder. Give it back. Give it back. After 13 years, I still remember, Alright, so what was his comment?
 
-**Haziq:** YB, right, he disputed Tan Sri Tuan Guru Haji Abdul Hadi's call to replace the USD with the dinar. But the counter-argument came back, "Oh, this was raised before, Mahathir discussed it, Anwar also said..."
+**Haziq:** YB, right, he disputed Tan Sri Tuan Guru Haji Abdul Hadi's call to replace the USD with the dinar. But the counter-argument came back, "Oh, this was raised before, Mahathir discussed it, Anwar also said."
 
 **Rafizi:** But this one's different — he said this is "looking for a life raft."
 
@@ -311,7 +275,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** PMX pointed out that mega housing projects of 3,500 units and above must provide a school and kindergarten. So he directly criticised this in his speech. He said, in fact, if this isn't done for this project, another block will have to be delayed until this condition is met. In fact he singled out the planning director, if I'm not mistaken. So my question, YB — but I should mention upfront, on the TikTok video, specifically for this video, public response was quite positive towards PMX's approach. But what does YB think about the PM stepping in like this? Is there an adverse effect, or is it something good that we should welcome?
 
-**Rafizi:** My concern is — I'm not sure, eh, I watched this video — the PM criticised it as if the one refusing to do this is the developer. And as if the responsibility of providing schools, kindergartens, all this, is the developer's responsibility? What I'm not sure about is whether this is the PM's political gimmick, because as Haziq mentioned earlier, he's indeed popular with the public, or whether he's less familiar with the administrative process. Because before a project like this is approved, whether it's a high-rise housing project like this or terrace houses, what's the process?
+**Rafizi:** My concern is — I'm not sure, I watched this video — the PM criticised it as if the one refusing to do this is the developer. And as if the responsibility of providing schools, kindergartens, all this, is the developer's responsibility? What I'm not sure about is whether this is the PM's political gimmick, because as Haziq mentioned earlier, he's indeed popular with the public, or whether he's less familiar with the administrative process. Because before a project like this is approved, whether it's a high-rise housing project like this or terrace houses, what's the process?
 
 **Haziq:** We need to get planning permission?
 
@@ -319,11 +283,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** To what's going to be built there, the suitability.
 
-**Rafizi:** Right, meaning the decision — how the drains should be, what's there — refers to several things. First, it refers to the local plan. It can't just, for example, if the land there, before it's approved, is designated for recreation. And it has to go through a process — if they want to change the land conditions, they have to check for objections too, because this land has been zoned for purpose A, purpose B, they can't just change it. Then, to set conditions in terms of infrastructure and so on, that also needs to refer to procedures and standards that have been set by PLANMalaysia. PLANMalaysia is an agency under KPKT, under the Federal Government, that sets urban planning standards. So the developer just follows. In fact, the problem is that usually the developer has already set aside reserves — for example a reserve for a school. Kindergarten reserves are rare, but school reserves, even mosque reserves. If they've met the requirements set out in PLANMalaysia, in other standards, the developer indeed has to comply. Roads and everything, they indeed have to build. Even, for example, if the land is reserved for a school, and in the end the school isn't there, why is that?
-
-**Haziq:** No allocation?
-
-**Rafizi:** Because the Federal Government is slow to build it. So we have many areas where the developer has already set aside the land, but either there's no allocation to build the school, or it's not yet in the Federal Government's planning, or if there is an allocation to build the school, the Ministry of Education says there aren't enough teachers. Not enough teachers either because there's no operating expenditure allocation or there genuinely aren't enough teachers. So if I were a developer, actually the government can't just order me to build this and that as it pleases, because I've followed the law and I've gone through that process. If there's a fault — for example, if there was a violation during the application for planning permission — where they've actually met certain requirements but the approved planning permission didn't stipulate that condition — that needs to be questioned, call in MACC and all that, why is it that there should have been a school but the planning permission didn't require a school. But as I said earlier, I would be cautious if we, especially the Prime Minister, give the impression that the fault lies solely with the private sector. Because the responsibility of providing schools, providing other public facilities, clinics, follows a process that's actually set by the Federal Government, and ultimately the responsibility to build and provide is the government's responsibility. If the private sector wants to make things easy when told to do this, they can do it. But in the end what do they do? They'll include it in the cost, and house prices will become even higher. And even if they build the school, they can't provide teachers. The school still needs to be handed over to the Federal Government too. So that's why I don't understand whether this is really the PM wanting to show he's very hands-on and gives direct orders, or whether he's not quite sure of the process. That, I'm not sure.
+**Rafizi:** Right, meaning the decision — how the drains should be, what's there — refers to several things. First, it refers to the local plan. It can't just, for example, if the land there, before it's approved, is designated for recreation. And it has to go through a process — if they want to change the land conditions, they have to check for objections too, because this land has been zoned for purpose A, purpose B, they can't just change it. Then, to set conditions in terms of infrastructure and so on, that also needs to refer to procedures and standards that have been set by PLANMalaysia. PLANMalaysia is an agency under KPKT, under the Federal Government, that sets urban planning standards. So the developer just follows. In fact, the problem is that usually the developer has already set aside reserves — for example a reserve for a school. Kindergarten reserves are rare, but school reserves, even mosque reserves. If they've met the requirements set out in PLANMalaysia, in other standards, the developer indeed has to comply. Roads and everything, they indeed have to build. Even, for example, if the land is reserved for a school, and in the end the school isn't there, why is that? Because the Federal Government is slow to build it. So we have many areas where the developer has already set aside the land, but either there's no allocation to build the school, or it's not yet in the Federal Government's planning, or if there is an allocation to build the school, the Ministry of Education says there aren't enough teachers. Not enough teachers either because there's no operating expenditure allocation or there genuinely aren't enough teachers. So if I were a developer, actually the government can't just order me to build this and that as it pleases, because I've followed the law and I've gone through that process. If there's a fault — for example, if there was a violation during the application for planning permission — where they've actually met certain requirements but the approved planning permission didn't stipulate that condition — that needs to be questioned, call in MACC and all that, why is it that there should have been a school but the planning permission didn't require a school. But as I said earlier, I would be cautious if we, especially the Prime Minister, give the impression that the fault lies solely with the private sector. Because the responsibility of providing schools, providing other public facilities, clinics, follows a process that's actually set by the Federal Government, and ultimately the responsibility to build and provide is the government's responsibility. If the private sector wants to make things easy when told to do this, they can do it. But in the end what do they do? They'll include it in the cost, and house prices will become even higher. And even if they build the school, they can't provide teachers. The school still needs to be handed over to the Federal Government too. So that's why I don't understand whether this is really the PM wanting to show he's very hands-on and gives direct orders, or whether he's not quite sure of the process. That, I'm not sure.
 
 **Haziq:** Or, I don't know, but maybe in reality, this is usually the case — when a developer wants to request planning permission from the local authority, sometimes the local authority asks to negotiate, "please add this a bit, add that a bit, otherwise I won't approve it." What does YB think?
 
@@ -357,7 +317,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** How was the state of Israel established?
 
-**Haziq:** Through the British...
+**Haziq:** Through the British.
 
 **Rafizi:** That was under the British mandate. Ha. So in Malaysia, was there a British mandate to establish a Chinese state?
 
@@ -371,29 +331,17 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Roads?
 
-**Rafizi:** Throughout Malaysia, throughout Malaysia. What is the one project that has caused debt to be borne by all of Malaysia, for our children, grandchildren, and great-grandchildren?
-
-**Haziq:** Hmm.
-
-**Rafizi:** No. One project, project number one.
+**Rafizi:** Throughout Malaysia, throughout Malaysia. What is the one project that has caused debt to be borne by all of Malaysia, for our children, grandchildren, and great-grandchildren? No. One project, project number one.
 
 **Haziq:** If we're talking about big ones, like flood mitigation, over RM6 billion.
 
-**Rafizi:** No no no. ECRL.
-
-**Haziq:** ECRL.
-
-**Rafizi:** ECRL, East Coast Rail Link. How much? RM84 billion. Going to which state? Going to his state. Kelantan, Terengganu, through to Pahang. So if I were from Penang, I'd be shocked too that not a single MP or minister has stood up to say, "Actually, the most sophisticated, most impressive infrastructure facility — connecting Kelantan, Terengganu, the East Coast all the way here — is the most expensive one, and it's borne through debt by the people of Malaysia, for our grandchildren, going to your state." RM84 billion. And every single day you turn a blind eye, try to play up racial issues, keep going on about Penang. Because soon Penang will say, "Well, our state produces this country's biggest exports. Electronics exports come from our state. What do you export?"
-
-**Haziq:** Well said, YB.
-
-**Rafizi:** RM84 billion, going all the way to the end of Tumpat. That doesn't even include the new projects connecting to Sungai Golok, the bridges, Tok Bali Port. There's a lot we could mention, but let's not go into the rest. Let's just talk about the RM84 billion ECRL. Let's say we split it evenly across three states — 84 divided by 3 is how much?
+**Rafizi:** No no no. ECRL. ECRL, East Coast Rail Link. How much? RM84 billion. Going to which state? Going to his state. Kelantan, Terengganu, through to Pahang. So if I were from Penang, I'd be shocked too that not a single MP or minister has stood up to say, "Actually, the most sophisticated, most impressive infrastructure facility — connecting Kelantan, Terengganu, the East Coast all the way here — is the most expensive one, and it's borne through debt by the people of Malaysia, for our grandchildren, going to your state." RM84 billion. And every single day you turn a blind eye, try to play up racial issues, keep going on about Penang. Because soon Penang will say, "Well, our state produces this country's biggest exports. Electronics exports come from our state. What do you export?" RM84 billion, going all the way to the end of Tumpat. That doesn't even include the new projects connecting to Sungai Golok, the bridges, Tok Bali Port. There's a lot we could mention, but let's not go into the rest. Let's just talk about the RM84 billion ECRL. Let's say we split it evenly across three states — 84 divided by 3 is how much?
 
 **Haziq:** 28.
 
 **Rafizi:** RM28 billion. That, he never mentions. So that's why, if this is the style coming from PAS leadership, I fear for the future. I'm fine myself — I'm almost 50 years old, I have enough to eat. One child, a bit more cats — 20 of them. But if this is how it is — meaning either he doesn't understand the numbers, or he doesn't want to be fair, or his political capital depends on stirring up Malay resentment against the Chinese because Penang is Chinese and Kelantan is Malay — how much more does he want? That RM84 billion we're all shouldering — does he even know it's going to Kelantan, to Terengganu, and so on? And back then he wasn't making noise about it at all. In fact, I was the one who questioned back then whether there was a need to spend up to RM70 billion — sorry, not RM70 million, RM84 billion. I was the one who questioned whether we needed to build this ECRL, because at the time the estimate was RM70 billion, back in 2014-2015, when that money could have been used for so many other things. So I think we should wait and see how PAS will answer regarding the ECRL.
 
-**Haziq:** Okay, alright YB. That wraps up our hard-hitting segment for this week. Let's move on a bit to World News. World News with brother...
+**Haziq:** Okay, alright YB. That wraps up our hard-hitting segment for this week. Let's move on a bit to World News. World News with brother.
 
 **Rafizi:** World News is going to be slow today. I've used up so much energy on PAS tonight, I'm drained.
 
@@ -417,17 +365,13 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Not yet. But there's bound to be quite a story eventually about how this could happen. The ladder — there was a ladder involved, right?
 
-**Haziq:** Yes, yes, yes, he disguised himself as...
+**Haziq:** Yes, yes, yes, he disguised himself as.
 
 **Rafizi:** I don't actually know the full story about this Louvre incident.
 
-**Haziq:** He disguised himself as construction staff. He went in and stole 8 items of jewelry. A lot of it belonged to queens, to Bonaparte's...
+**Haziq:** He disguised himself as construction staff. He went in and stole 8 items of jewelry. A lot of it belonged to queens, to Bonaparte's.
 
-**Rafizi:** Oh, Josephine. I haven't really read up on it, just glanced at it a bit. But yeah, it's an Ocean's Eleven kind of story, isn't it. We'll wait for the documentary to see how it was actually done. The last time something went missing from the Louvre was in 1912.
-
-**Haziq:** 1912?
-
-**Rafizi:** The last time someone stole something — if I recall correctly, 1912. But if we want to take a bigger picture or a higher-level view of this Louvre incident, it's actually very demoralizing for France, which is already in its current state. France now has had five Prime Ministers resign, because it's almost ungovernable. There's a very strong political divide. On one side, there's the far-right party, a race-based party. Back when I was young it was Jean-Marie Le Pen, the father; now it's his daughter Marine Le Pen too. So this is certainly a heavy blow to France, to the French people. Because on top of it, their national pride is already hurting — their economy is currently in bad shape, their government, their society, political crisis — and suddenly, what happened at the Louvre feels like a symbol of a society and a nation in disarray.
+**Rafizi:** Oh, Josephine. I haven't really read up on it, just glanced at it a bit. But yeah, it's an Ocean's Eleven kind of story, isn't it. We'll wait for the documentary to see how it was actually done. The last time something went missing from the Louvre was in 1912. The last time someone stole something — if I recall correctly, 1912. But if we want to take a bigger picture or a higher-level view of this Louvre incident, it's actually very demoralizing for France, which is already in its current state. France now has had five Prime Ministers resign, because it's almost ungovernable. There's a very strong political divide. On one side, there's the far-right party, a race-based party. Back when I was young it was Jean-Marie Le Pen, the father; now it's his daughter Marine Le Pen too. So this is certainly a heavy blow to France, to the French people. Because on top of it, their national pride is already hurting — their economy is currently in bad shape, their government, their society, political crisis — and suddenly, what happened at the Louvre feels like a symbol of a society and a nation in disarray.
 
 **Haziq:** Alright, alright YB. Someone also asked — at least at the Louvre, we've heard of theft before, but we've never heard of theft or attempted theft at the National Museum. Doesn't YB think that's also a problem?
 
@@ -443,7 +387,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** No, the question is about its attractiveness — compared to the Louvre.
 
-**Rafizi:** You can't compare. Museum — eh, is the Mona Lisa here?
+**Rafizi:** You can't compare. Museum — is the Mona Lisa here?
 
 **Haziq:** Yes, over there.
 
@@ -475,17 +419,13 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** As moderator, I'm asking.
 
-**Rafizi:** Well, the concept is — the concept is that anything that is smaller and faster will make it better, right? Back when I did my degree in electronic and electrical engineering, it was always about trying to get to shorter and shorter wavelengths, because shorter wavelength means more power and also — what's it called — you can pack more data into it. So as the world becomes more digital... I'm not entirely sure about this discovery, but logically, as we move towards AI, robots and so on, the amount of bits — you know, digital zeroes and ones — is a function of two things. One, how much data, zeroes and ones, you can pack in. Then, how fast it can move. So of course, if you pack zeroes and ones into a wavelength — if you have a high-power wavelength, meaning a much shorter frequency — that will allow a new generation of chips that can process far higher data capacity and also far higher speed, frequency, wavelength. That's it.
+**Rafizi:** Well, the concept is — the concept is that anything that is smaller and faster will make it better, right? Back when I did my degree in electronic and electrical engineering, it was always about trying to get to shorter and shorter wavelengths, because shorter wavelength means more power and also — what's it called — you can pack more data into it. So as the world becomes more digital. I'm not entirely sure about this discovery, but logically, as we move towards AI, robots and so on, the amount of bits — you know, digital zeroes and ones — is a function of two things. One, how much data, zeroes and ones, you can pack in. Then, how fast it can move. So of course, if you pack zeroes and ones into a wavelength — if you have a high-power wavelength, meaning a much shorter frequency — that will allow a new generation of chips that can process far higher data capacity and also far higher speed, frequency, wavelength. That's it.
 
 **Haziq:** Good, YB.
 
-**Rafizi:** It's written right there: "The rainbow chip generates interwoven bands of light..."
+**Rafizi:** It's written right there: "The rainbow chip generates interwoven bands of light."
 
-**Haziq:** "...for precise sensing and fast communication."
-
-**Rafizi:** Yes, exactly.
-
-**Haziq:** There you go, for listeners who can't see our faces, okay.
+**Haziq:** ".for precise sensing and fast communication." There you go, for listeners who can't see our faces, okay.
 
 **Rafizi:** So with this, it means there's a good chance we'll get closer to, what do you call it, robots one day. It's the same as when people first discovered semiconductors — the race is always to make it smaller and faster, and it's a function of frequency because you transmit via frequency.
 
@@ -503,7 +443,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** YB wore that shirt and supported them when they lost.
 
-**Rafizi:** I only show up when they lose, to lift their spirits. I don't really follow it. Actually I don't follow — I have 24 hours a day, my head space is... back in my university days I had a lot of time, I followed everything. I even followed snooker. I skipped class for two, three days watching people play snooker, 24 hours a day.
+**Rafizi:** I only show up when they lose, to lift their spirits. I don't really follow it. Actually I don't follow — I have 24 hours a day, my head space is. back in my university days I had a lot of time, I followed everything. I even followed snooker. I skipped class for two, three days watching people play snooker, 24 hours a day.
 
 **Haziq:** Bit of a bad boy back then, huh YB?
 
@@ -527,13 +467,9 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Good, good, very practical. Okay YB, last question. Alif Salami: "How can Parliament, or whoever, ensure education reform remains ongoing regardless of a change in government? Is it because the quality of reform is always poor, to the point that ministers always want to change the approach to education?"
 
-**Rafizi:** First, I think Malaysia isn't exempt from the phenomenon happening around the world, which is called the phenomenon of populism. This phenomenon of populism means, one, governments keep changing. And when a new government comes in, they want to show that they have short-term gains or low-hanging fruit. So in the end, a lot of the things they want to change are cosmetic things. That's not something that only happens in Malaysia. I just read a long piece about the cost of populism in the world right now. When a government shifts toward left-wing populism — and left-wing populism usually blames the rich, so they want to tax everyone, collect taxes. In Malaysia, that would be PSM, right? All of this could be resolved...
+**Rafizi:** First, I think Malaysia isn't exempt from the phenomenon happening around the world, which is called the phenomenon of populism. This phenomenon of populism means, one, governments keep changing. And when a new government comes in, they want to show that they have short-term gains or low-hanging fruit. So in the end, a lot of the things they want to change are cosmetic things. That's not something that only happens in Malaysia. I just read a long piece about the cost of populism in the world right now. When a government shifts toward left-wing populism — and left-wing populism usually blames the rich, so they want to tax everyone, collect taxes. In Malaysia, that would be PSM, right? All of this could be resolved. Extreme left-wing populism, that is. Meaning tax and spend, right. The whole problem, they claim, can be solved by chasing after all the rich people among us, taxing them, taking from them, and redistributing and spending it. The effect of that, over time — I think it's not 10 years, I think it's more like several decades, based on the study — is well, it was written about in The Economist, but the study itself I think was done either by Harvard or MIT, I don't quite remember. The effect is a 15% loss of economic output, you know. Now if it's right-wing populism — meaning right-wing populism like what's happening with Trump, or in the UK now with Nigel Farage, and in Malaysia we also have PAS and so on — they will blame everyone else except themselves. And the main victims are minorities, immigrants, and so on. Right-wing populism tends to divert wealth or economic activity to those controlled by their own cronies. Right-wing populism usually causes a 10% drop in economic output over the long term. So before I answer this further, the concern or phenomenon is that people easily fall into the trap of populism. And that populism has a big effect because governments keep changing, and a government that keeps changing will take shortcuts. In Malaysia we have a bit of protection, a bit of a buffer from this problem because we have documents passed in Parliament that are supposed to be binding. That's why, for example, the 5-Year Malaysia Plan document is important — because it binds whichever government comes in, unless they want to go in and amend it or cancel it, but they'd have to go back to Parliament to do so. And now, supposedly, starting from 2025, there's an additional layer of protection because we now have the National Education Council, which involves leadership from various sectors, and its decisions are brought up to the Cabinet and are binding. For me, the main problem is the quality of ministers. We have to admit that over the past 10 years, the ministers who became Education Minister were not senior leaders of the government. They weren't even senior leaders of their own party. Most of them were newcomers — from Maszlee Malik, then Radzi Jidin, then Fadhlina now — who actually never had political or administrative experience before that. So we're now nearing 10 years in that situation, starting from Maszlee Malik in 2018. As a result, their ability to actually implement policies that already exist is limited. That's why, if you look back at Tan Sri Muhyiddin's time, the Education Blueprint drawn up in 2010 — I remember, was it 2010? Yes, 2010. Education Blueprint 2010. It was good. It really was good, it was done by BCG, by some of the best consultants in the world. But when it came to implementation, it didn't happen. So if you ask how to ensure education reform continues, within one 5-year term, if you have a quality Education Minister who can bring everyone together, who is convincing, who is hands-on, who dares to make changes, who commands respect, I think 5 years is enough to keep that initial momentum going, and once you reach a certain momentum, things will run on their own. But we're still searching, especially over the past 7-8 years — the ministers who were put in that position, in terms of their political influence with the public and with stakeholders, have been rather junior. That, to me, is the problem.
 
-**Haziq:** Left-wing populism.
-
-**Rafizi:** Extreme left-wing populism, that is. Meaning tax and spend, right. The whole problem, they claim, can be solved by chasing after all the rich people among us, taxing them, taking from them, and redistributing and spending it. The effect of that, over time — I think it's not 10 years, I think it's more like several decades, based on the study — is well, it was written about in The Economist, but the study itself I think was done either by Harvard or MIT, I don't quite remember. The effect is a 15% loss of economic output, you know. Now if it's right-wing populism — meaning right-wing populism like what's happening with Trump, or in the UK now with Nigel Farage, and in Malaysia we also have PAS and so on — they will blame everyone else except themselves. And the main victims are minorities, immigrants, and so on. Right-wing populism tends to divert wealth or economic activity to those controlled by their own cronies. Right-wing populism usually causes a 10% drop in economic output over the long term. So before I answer this further, the concern or phenomenon is that people easily fall into the trap of populism. And that populism has a big effect because governments keep changing, and a government that keeps changing will take shortcuts. In Malaysia we have a bit of protection, a bit of a buffer from this problem because we have documents passed in Parliament that are supposed to be binding. That's why, for example, the 5-Year Malaysia Plan document is important — because it binds whichever government comes in, unless they want to go in and amend it or cancel it, but they'd have to go back to Parliament to do so. And now, supposedly, starting from 2025, there's an additional layer of protection because we now have the National Education Council, which involves leadership from various sectors, and its decisions are brought up to the Cabinet and are binding. For me, the main problem is the quality of ministers. We have to admit that over the past 10 years, the ministers who became Education Minister were not senior leaders of the government. They weren't even senior leaders of their own party. Most of them were newcomers — from Maszlee Malik, then Radzi Jidin, then Fadhlina now — who actually never had political or administrative experience before that. So we're now nearing 10 years in that situation, starting from Maszlee Malik in 2018. As a result, their ability to actually implement policies that already exist is limited. That's why, if you look back at Tan Sri Muhyiddin's time, the Education Blueprint drawn up in 2010 — I remember, was it 2010? Yes, 2010. Education Blueprint 2010. It was good. It really was good, it was done by BCG, by some of the best consultants in the world. But when it came to implementation, it didn't happen. So if you ask how to ensure education reform continues, within one 5-year term, if you have a quality Education Minister who can bring everyone together, who is convincing, who is hands-on, who dares to make changes, who commands respect, I think 5 years is enough to keep that initial momentum going, and once you reach a certain momentum, things will run on their own. But we're still searching, especially over the past 7-8 years — the ministers who were put in that position, in terms of their political influence with the public and with stakeholders, have been rather junior. That, to me, is the problem.
-
-**Haziq:** So political influence itself plays a big role apart from...
+**Haziq:** So political influence itself plays a big role apart from.
 
 **Rafizi:** You need to command. You need to command, right. So that's why — one credit to UMNO — during UMNO's more than 50 years as the government, the Education Minister was actually one of the most senior ministers. That's why if you look at all our Prime Ministers, all of them were once Education Minister. From Tun Mahathir, before he became Deputy Prime Minister, he was Education Minister. Then Pak Lah, I recall, was also once Education Minister. Then Najib was Education Minister, Muhyiddin was Education Minister. Only Ismail Sabri never was. Datuk Seri Anwar was also Education Minister. So everyone who became Education Minister had to be a senior minister. And I recall, it was only towards the end of Datuk Seri Najib's administration that the Education Minister was no longer a Vice President of the party. Datuk Seri Mahdzir Khalid, at that time — wasn't it Mahdzir Khalid? Mahdzir Khalid or Mahdzir Khalid?
 
@@ -549,7 +485,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** There's a question from YouTube asking whether Fadhlina could become PM since she's the Education Minister? Okay, let's withdraw that question.
 
-**Rafizi:** Who's being cheeky? You think it's funny, eh? You think it's funny? I don't think we want that to happen. Next thing you know we'll have a PM who's always falling asleep in the toilet. So I don't think we want to go there.
+**Rafizi:** Who's being cheeky? You think it's funny,? You think it's funny? I don't think we want that to happen. Next thing you know we'll have a PM who's always falling asleep in the toilet. So I don't think we want to go there.
 
 **Haziq:** Before YB goes on further, let's close it there. That's all for this week. Thank you very much to everyone watching. Follow the channel and subscribe to Encik Rafizi on YouTube and other social media as well. We'll see you again in episode 20 next week.
 
