@@ -100,6 +100,13 @@ CORRECTIONS = [
      "OWNER-supplied. Tan Sri Mohd Isa Abdul Samad, FELDA chairman until January 2017 and "
      "Shahrir's predecessor. 5 occurrences against 16 already-correct `Isa Samad` in the "
      "same episode."),
+    (r"Shahril Samad(?![A-Za-z])",
+     "Shahrir Samad",
+     "OWNER-caught 2026-09-10 on the MAI transcript of ep62, which hears the FELDA chairman "
+     "as `Shahril` 8 times against 2 correct `Shahrir Samad` in the same file. Web-checked: "
+     "Tan Sri Shahrir Abdul Samad, FELDA chairman 6 January 2017 to 14 May 2018 "
+     "(en.wikipedia.org/wiki/Shahrir_Abdul_Samad; thestar.com.my 2017-01-06). ANCHORED ON "
+     "`Samad`: Shahril is a common real given name and must not be touched on its own."),
     (r"Syarif Samad(?![A-Za-z])",
      "Shahrir Samad",
      "OWNER-supplied. Tan Sri Shahrir Abdul Samad, FELDA chairman from 6 January 2017 "

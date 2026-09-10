@@ -2015,7 +2015,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [2:06:00] Rafizi: Ha. Uh, kita masih pasal perumahan eh. Ha, kita masih pasal perumahan. Kemudian seterusnya.
 
-[2:06:17] Rafizi: Ha, tak apalah. Jadi pada bila aku bising sangat, semua makin teruk ni, akhirnya uh Tan Sri Isa Samad pun dipecatlah dan digantikan dengan Tan Sri Shahril Samad. Cuma yang dia tak beritahu masa ni ialah walaupun pengerusi FELDA tu dah ditukar, Tan Sri Isa Samad masih lagi ada dalam banyak anak-anak syarikat tau.
+[2:06:17] Rafizi: Ha, tak apalah. Jadi pada bila aku bising sangat, semua makin teruk ni, akhirnya uh Tan Sri Isa Samad pun dipecatlah dan digantikan dengan Tan Sri Shahrir Samad. Cuma yang dia tak beritahu masa ni ialah walaupun pengerusi FELDA tu dah ditukar, Tan Sri Isa Samad masih lagi ada dalam banyak anak-anak syarikat tau.
 
 [2:06:43] Haziq: Aha, betul, betul.
 
@@ -2023,7 +2023,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [2:07:27] Rafizi: Haah.
 
-[2:07:27] Rafizi: Ha, so mungkin sebab itu dia kena tukar kot kan. So ganti dengan Tan Sri Shahril Samad. Tan Sri Shahril Samad menjawab lah. Hentam aku lah. Ha ni. So lagi banyaklah. Tapi aku kesian kat Shahril Samad lah. Yang kau pergi jadi Pak Sanggup tu kenapa? Ha dan lepas tu kau nak apa nama ni kan. Kemudian, uh, 10 Januari 2017. So ini antara reaksi awal Tan Sri Shahril Samad lah, rancangan dia untuk menyelamatkan FELDA. So, ni front page berita harian ni. Misi Shahrir kan beri nafas baru kepada organisasi, kembalikan peranan asal FELDA kan. Atasi masalah beban hutang peneroka, projek perumahan jasa kedua, tumpu aspek sosial semua, kaji implikasi jika keluarkan FGV daripada bursa saham.
+[2:07:27] Rafizi: Ha, so mungkin sebab itu dia kena tukar kot kan. So ganti dengan Tan Sri Shahrir Samad. Tan Sri Shahrir Samad menjawab lah. Hentam aku lah. Ha ni. So lagi banyaklah. Tapi aku kesian kat Shahrir Samad lah. Yang kau pergi jadi Pak Sanggup tu kenapa? Ha dan lepas tu kau nak apa nama ni kan. Kemudian, uh, 10 Januari 2017. So ini antara reaksi awal Tan Sri Shahrir Samad lah, rancangan dia untuk menyelamatkan FELDA. So, ni front page berita harian ni. Misi Shahrir kan beri nafas baru kepada organisasi, kembalikan peranan asal FELDA kan. Atasi masalah beban hutang peneroka, projek perumahan jasa kedua, tumpu aspek sosial semua, kaji implikasi jika keluarkan FGV daripada bursa saham.
 
 [2:08:21] Haziq: Hmm.
 
@@ -2217,7 +2217,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [2:25:30] Haziq: Mm.
 
-[2:25:31] Rafizi: dengan Terra Nova Builders Sdn. Berhad di satu pihak dan juga Putra Star Investments Holding. Uh, ekoran beberapa soalan yang ditimbulkan, Pengerusi FELDA, Yang Berhormat Tan Sri Shahir Samad telah mengeluarkan satu kenyataan rasmi bertarikh 12 Januari. Beliau mengesahkan bahawa uh perjanjian pendanaan swasta atau PFI yang saya rujuk itu telah ditandatangani pada 6 September 2016. Basically, Tan Sri Shahril Samad nak beritahu, ini Isa Samad bukan zaman aku. Aku tak jadi chairman lagi masa ni juga kan. Jadi, uh, because of this, um, apa nama ni, aku minta supaya Bank Negara membuat siasatanlah sebab ada risiko uh money laundering di situlah. Tapi seperti biasa, tidak juga ada sebarang reaksi lah.
+[2:25:31] Rafizi: dengan Terra Nova Builders Sdn. Berhad di satu pihak dan juga Putra Star Investments Holding. Uh, ekoran beberapa soalan yang ditimbulkan, Pengerusi FELDA, Yang Berhormat Tan Sri Shahir Samad telah mengeluarkan satu kenyataan rasmi bertarikh 12 Januari. Beliau mengesahkan bahawa uh perjanjian pendanaan swasta atau PFI yang saya rujuk itu telah ditandatangani pada 6 September 2016. Basically, Tan Sri Shahrir Samad nak beritahu, ini Isa Samad bukan zaman aku. Aku tak jadi chairman lagi masa ni juga kan. Jadi, uh, because of this, um, apa nama ni, aku minta supaya Bank Negara membuat siasatanlah sebab ada risiko uh money laundering di situlah. Tapi seperti biasa, tidak juga ada sebarang reaksi lah.
 
 [2:26:23] Haziq: Hmm.
 
@@ -3235,7 +3235,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [3:45:00] Farhan (Pa'an): Service apartment.
 
-[3:45:00] Rafizi: Ha kan. So yang ini dia jual uh dia beli pada harga uh, apa nama ni, uh, 9- 180 juta melebihi harga pasaran. Uh, dan pada 21 Julai 2017, Tan Sri Shahril Samad mengesahkan Grand Plaza Service Apartment yang kita duk cakap tadi pun tidak disiasat pun oleh SPRM.
+[3:45:00] Rafizi: Ha kan. So yang ini dia jual uh dia beli pada harga uh, apa nama ni, uh, 9- 180 juta melebihi harga pasaran. Uh, dan pada 21 Julai 2017, Tan Sri Shahrir Samad mengesahkan Grand Plaza Service Apartment yang kita duk cakap tadi pun tidak disiasat pun oleh SPRM.
 
 [3:45:26] Farhan (Pa'an): Hmm.
 
@@ -3261,7 +3261,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 [3:47:11] Haziq: Mm.
 
-[3:47:12] Rafizi: SPRM sepatutnya masa tahun 2017 ni, masa ni aku bengkak dengan SPRM lah. Sebab SPRM mengikut Tan Sri Shahril Samad dah rule out tak ada corruption dalam Grand Plaza Service Apartment ni, tidak disiasat. So aku pun pergi check lah, uh, you know, macam mana transaction ni jadi kan. Ada berita memang dah ada kes mahkamah pun pasal Grand Plaza Service Apartment di UK ni.
+[3:47:12] Rafizi: SPRM sepatutnya masa tahun 2017 ni, masa ni aku bengkak dengan SPRM lah. Sebab SPRM mengikut Tan Sri Shahrir Samad dah rule out tak ada corruption dalam Grand Plaza Service Apartment ni, tidak disiasat. So aku pun pergi check lah, uh, you know, macam mana transaction ni jadi kan. Ada berita memang dah ada kes mahkamah pun pasal Grand Plaza Service Apartment di UK ni.
 
 [3:47:36] Rafizi: Hmm.
 
