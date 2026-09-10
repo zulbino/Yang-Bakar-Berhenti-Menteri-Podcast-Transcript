@@ -63,6 +63,53 @@ CAST = {
         "Farhan (Pa'an)": "a younger man with short spiky hair in a black hoodie with a "
                           "white '97' logo on the chest, against a plain dark wall, no laptop",
     },
+    # ep58. Written by pulling one frame per person from the longest stretch the camera
+    # reference gives them and looking at it -- these descriptions are the model's only
+    # basis for an answer, so a guessed one poisons every label.
+    "I5BQU_awyQU": {
+        "Rafizi": "an older man with no glasses in a black t-shirt under an open grey-brown "
+                  "blazer, in a high-backed black chair with a leafy plant behind him, a "
+                  "white mug and a dark tumbler on the desk",
+        "Haziq": "a younger man with glasses in a navy t-shirt with a small round white "
+                 "logo on the chest, an open laptop in front of him, tall grass and a warm "
+                 "bulb lamp behind",
+        "Farhan (Pa'an)": "a man with a moustache and goatee wearing an olive flat cap and "
+                          "a black shirt, alone against a plain dark curtain, no desk",
+    },
+    # ep59
+    "EUvzOPbs7CE": {
+        "Rafizi": "an older man with no glasses in a white t-shirt printed with a blue "
+                  "'ayuh' logo, in a high-backed black chair with a leafy plant behind him "
+                  "and a white mug on the desk",
+        "Haziq": "a younger man with glasses in a dark maroon polo shirt, an open laptop in "
+                 "front of him, tall grass and a warm bulb lamp behind",
+        "Farhan (Pa'an)": "a man with a moustache in a black sweatshirt with 'P.M.C' in "
+                          "gothic lettering on the chest, alone against a plain dark wall",
+    },
+    # ep60. The guest sits in the studio seat Haziq normally uses, so the shirt and the
+    # glasses are what separate them: Haziq wears glasses, the guest does not.
+    "stsjJHwNoTM": {
+        "Rafizi": "an older man with no glasses in a black shirt with a pale batik print, "
+                  "in a high-backed black chair with a leafy plant behind him",
+        "Haziq": "a younger man with glasses in a plain olive-khaki shirt, sitting beside a "
+                 "large screen showing news slides",
+        "Sum Dek Jo": "a young man with NO glasses in a cream shirt with a dense small "
+                      "floral print, a wristwatch, an open laptop in front of him and tall "
+                      "grass behind",
+        "Farhan (Pa'an)": "a man in a plain slate-grey shirt, alone against a plain dark "
+                          "wall, a sticker-covered laptop lid in front of him",
+    },
+    # ep61
+    "2AytMmKIU7w": {
+        "Rafizi": "an older man with no glasses in a bright orange bomber jacket over a "
+                  "dark shirt, in a high-backed black chair with a leafy plant behind him "
+                  "and a white mug on the desk",
+        "Haziq": "a younger man with glasses in an olive-mustard polo shirt, an open laptop "
+                 "in front of him, the show's handwritten 'Yang Berhenti Menteri' wall art "
+                 "behind him and a TV screen to his side",
+        "Farhan (Pa'an)": "a man in a plain olive-green shirt, alone against a plain dark "
+                          "wall, no desk",
+    },
 }
 
 

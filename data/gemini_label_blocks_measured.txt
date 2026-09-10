@@ -1,0 +1,37 @@
+Measured 2026-09-11, gemini-3.5-flash, five episodes with a camera reference.
+Method: scripts/gemini_label_blocks.py, three 10-minute windows per episode at 1200s,
+4800s and 8400s, each window sent inline with the blocks raw.md already holds. Two of the
+fifteen windows were lost to HTTP 500 and are not counted. gemini-3.8-flash could not be
+used: it hangs, timing out even on a one-word text prompt, while 3.5-flash answered in 22s.
+
+THE ANSWER: this does NOT replace the camera pass. The model is good where nothing needed
+help (96% on turns of 20+ words) and a coin flip where the work actually is (54% on turns
+of three words or fewer). When it disagrees with raw.md the camera backs raw.md twice as
+often as it backs the model. Keep it for what verify_speakers_video.py already does -- one
+named window, one disputed label -- not as a corpus-wide labeller.
+
+ep    blocks  vs raw.md   vs camera   
+ep58  36      35/36 (97%) 32/35 (91%)
+ep59  47      36/47 (77%) 33/40 (82%)
+ep60  45      37/45 (82%) 28/39 (72%)
+ep61  32      28/32 (88%) 23/30 (77%)
+ep62  22      20/22 (91%) 13/18 (72%)
+
+ALL   182 blocks   vs raw.md 156 (86%)   vs camera 129/162 (80%)
+
+Does the model fail, or is the BLOCK impure? Split by how much of the block one
+camera speaker holds:
+  pure      >=0.90         66 blocks   gemini=raw  88%   gemini=camera  83%
+  mostly one 0.70-0.90     35 blocks   gemini=raw  97%   gemini=camera  97%
+  mixed      <0.70         61 blocks   gemini=raw  84%   gemini=camera  66%
+
+By block length:
+  <=3 words      24 blocks   gemini=raw  54%
+  4-6 words      25 blocks   gemini=raw  68%
+  7-19 words     44 blocks   gemini=raw  93%
+  20+ words      89 blocks   gemini=raw  96%
+
+When the model disagrees with raw.md, who does the CAMERA back?
+  camera backs raw.md        12
+  camera backs gemini        6
+  camera says a third name   1

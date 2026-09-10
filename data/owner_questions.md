@@ -33,6 +33,30 @@ keeps against the camera.
   said; a false alarm should stop reaching a person. Only two such spellings exist in the
   whole corpus (this one and ep49's `3 point 3 juta`), so no bulk edit was warranted.
 
+## Waiting on a machine, not on the owner
+
+- **The "YB" handoff turns: 13 short ones, 5 of them in ep57.** Only the co-host and Pa'an
+  call Rafizi "YB", so a turn labelled Rafizi that addresses him is wrong. The first count
+  said 198 turns across 54 episodes, which overstated it badly: in a long Rafizi block the
+  "YB" is nearly always a third-person mention or a swallowed interjection. Filtered to
+  turns of twelve words or fewer, the whole corpus holds **14**, and one of those --
+  ep53 `Pernah kan, YB Chean Chung` -- is Rafizi correctly naming another member, title
+  first. That leaves 13, and ep57 has 5 of them:
+  `[02:43] Tapi jadi kita start terus, YB.`, `[10:26] Okey, baik. Selesai YB.`,
+  `[10:40] Haji, RCI Tabung Haji yang barbarunilah YB.`, `[10:46] Ini lama ni YB.`,
+  `[3:29:27] Gotong-royong pun aku kena pergi juga eh. IRL YB, demi demi IRL.` -- and the
+  last of those says `aku`, which is Rafizi's own register, so it may be right.
+  The other eight sit in ep00, ep05, ep12, ep13, ep16, ep31, ep35, ep48.
+  **The cause is a cutting problem, not a naming one:** the vision mixer cuts to the person
+  about to answer, so at a question-to-answer boundary the camera is already on Rafizi while
+  the co-host is still speaking. `mai_camera_raw.py` keeps the previous label only for turns
+  of three words or fewer, and these run four to twelve.
+  DO NOT fix this from the text -- `YB Chean Chung` is the proof of why, and text has been
+  measurably wrong on this corpus before. Ask a machine: `gemini_label_blocks.py` labels a
+  block from the picture and the voice, and `verify_speakers_video.py` settled 11 of ep62's
+  labels that way. Only what the model and the camera BOTH move should move.
+  Reproduce the list with a twelve-word cap on the `YB` vocative; there is no checker yet.
+
 ## Waiting on the camera pass, not on the owner
 
 - **ep45 `[34:14] Farhan (Pa'an): Tak tahu, Pa'an punya pandangan?`** The block is labelled

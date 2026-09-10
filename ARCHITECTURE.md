@@ -1071,3 +1071,48 @@ under the wrong name 552 -> 74, blocks holding more than one speaker 101 of 252 
   only the sentence shape can. Lead-ins are split into `LEAD_SAFE` (translationese with no
   spoken equivalent) and `LEAD_RISKY` (genuinely spoken), and a fragment under a risky lead
   needs the hallucination's own comma list before it can go.
+
+## Gemini cannot replace the camera pass, and the reason is block length (2026-09-11)
+
+**The question, and why it mattered:** the camera reference costs about 3.5 hours of GPU per
+episode, measured on ep57. Sixty-three episodes still need one, which is roughly nine days
+of the machine running. One 10-minute window of ep62 came back 21 of 22 against the camera,
+so a video model looked like it might replace all of it for hours instead of days.
+
+**It does not.** `scripts/gemini_label_blocks.py` labelled 182 blocks across five episodes
+that have a camera reference -- ep58, ep59, ep60, ep61, ep62, three 10-minute windows each.
+Agreement with raw.md is 86%, with the camera 80%. Per episode it runs from 97% on ep58 down
+to 77% on ep59, so the single ep62 window was the top of a wide spread, not a typical result.
+
+**The split that settles it is block length:**
+
+| words in the block | blocks | agrees with raw.md |
+|---|---|---|
+| 20 or more | 89 | 96% |
+| 7 to 19 | 44 | 93% |
+| 4 to 6 | 25 | 68% |
+| 3 or fewer | 24 | 54% |
+
+Long turns never needed help: MAI and the camera already agree on them. Short turns are
+exactly where the camera is weakest -- pyannote's embedder has a 0.6 s floor, and the
+sensing work scored 0 of 5 on short co-host calls -- and every open speaker question in this
+repo lives there. On those the model is a coin flip. When it disagrees with raw.md the camera
+backs raw.md 12 times and the model 6, so a dissent from it is twice as likely to be wrong as
+right.
+
+**A guess that did not survive the data, recorded because it was convincing:** the first
+disagreements all had a low camera share, so it looked like the model was really finding
+badly cut blocks that hold two speakers. Splitting by purity killed that -- blocks the camera
+says hold one speaker throughout score 88%, mixed blocks 84%. Length explains the failures;
+impurity does not.
+
+**Two operational facts.** `gemini-3.8-flash` became unusable during the run: it hangs rather
+than answering, timing out at 90 s on a one-word text prompt, while `gemini-3.5-flash`
+replied in 22 s. A 503-only fallback therefore waits out the full timeout on every window,
+which is why `ask()` now treats a hang as a fallback condition too. And the Files API still
+answers "the file failed to be processed" for these clips, so a window goes inline and must
+stay under 20 MB -- 10 minutes at 640 wide and 10 fps is about 9.5 MB.
+
+**What the tool is still good for:** one named window and one disputed label, the way
+`verify_speakers_video.py` settled 11 of ep62's, with the camera or a person holding the
+other end. Numbers and method in `data/gemini_label_blocks_measured.txt`.
