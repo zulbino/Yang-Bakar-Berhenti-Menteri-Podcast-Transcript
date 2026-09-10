@@ -317,9 +317,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [52:37] Haziq: Baik. Malu apa bosku? Baik. Kita terus ke hidup keras. Tak puas hati ya.
 
-[52:44] Rafizi: Tak puas hati. Bersama tak menang. Maaf Abib, cuba lagi. Sebab tu kalau aku pilih dia, aku pilih diri sendiri.
-
-[52:54] Overlapping Speaker: Masuk bakul.
+[52:44] Rafizi: Tak puas hati. Bersama tak menang. Maaf Abib, cuba lagi. Sebab tu kalau aku pilih dia, aku pilih diri sendiri. Masuk bakul.
 
 [52:55] Haziq: Masuk bakul, angkat sendiri. Okey, kita terus ke yang pertama. Mansur Auku, kebebasan akademik dan mutu pendidikan aa negara. Aa ini yalah, saya rasa mereka ni pakai jeruk lah. Satu RCI.
 
