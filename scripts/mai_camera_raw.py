@@ -70,10 +70,16 @@ def mai_turns(video_id):
             words = [W(w["text"], base + w["offsetMilliseconds"] / 1000) for w in ph.get("words", [])]
             if not words:
                 continue
-            if turns and turns[-1]["chunk"] == p and turns[-1]["cluster"] == ph.get("speaker"):
+            # Without diarization every phrase has speaker None; then a phrase is the turn,
+            # otherwise one chunk would collapse into a single turn and rule 1 would vanish.
+            if (turns and ph.get("speaker") is not None and turns[-1]["chunk"] == p
+                    and turns[-1]["cluster"] == ph.get("speaker")):
                 turns[-1]["w"].extend(words)
             else:
                 turns.append({"chunk": p, "cluster": ph.get("speaker"), "w": words})
+    # MAI does not always list phrases in time order: ep60 has "Ha." at 29:58 listed before
+    # "Ada kan, pan check lah" at 29:53. The transcript is read in time order, so sort.
+    turns.sort(key=lambda t: t["w"][0].t)
     return turns
 
 
@@ -91,7 +97,8 @@ def camera_per_second(rttm):
         f = line.split()
         if f[0] != "SPEAKER":
             continue
-        a, dur, who = float(f[3]), float(f[4]), CAMERA_NAME.get(f[7], f[7])
+        name = f[7].replace("_", " ")          # RTTM writes a space as an underscore
+        a, dur, who = float(f[3]), float(f[4]), CAMERA_NAME.get(name, name)
         for t in range(int(a), int(a + dur)):
             out[t] = who
     return out
@@ -110,14 +117,22 @@ def main():
     tag = a.tag.partition(":")[0]
     sandbox = ROOT / "data" / f"_mai_{vid}"
     camera = camera_per_second(a.reference or ROOT / "data" / f"camera_ref_{tag}.rttm")
-    merged, mai_raw = block_labels(sandbox / "raw_merged.md"), block_labels(sandbox / "raw.md")
+    episode_raw = ROOT / "episodes" / common.episode_path(episode) / "raw.md"
+    # Fallback labels: MAI's own (merged file first, it carries the video-confirmed Farhan
+    # regions) when MAI ran with diarization; otherwise the episode's current raw.md, which
+    # is the best labelling that exists for an episode transcribed with --no-diarization.
+    tables = [block_labels(sandbox / n) for n in ("raw_merged.md", "raw.md") if (sandbox / n).exists()]
+    fallback_name = "MAI's voice-cluster label" if tables else "the current raw.md's label"
+    if not tables:
+        tables = [block_labels(episode_raw)]
+    starts = sorted(tables[-1])
 
     def mai_label(t0):
-        for table in (merged, mai_raw):
+        for table in tables:
             if int(t0) in table:
                 return table[int(t0)]
-        prior = [s for s in mai_raw if s <= t0]
-        return mai_raw[max(prior)] if prior else "Speaker ?"
+        prior = [s for s in starts if s <= t0]
+        return tables[-1][max(prior)] if prior else "Speaker ?"
 
     turns = mai_turns(vid)
     rule_words = Counter()
@@ -157,6 +172,10 @@ def main():
     stamps = [int(r["t0"]) for r in runs_out]
     backwards = sum(1 for x, y in zip(stamps, stamps[1:]) if y < x)
     if backwards:
+        for r1, r2 in zip(runs_out, runs_out[1:]):
+            if int(r2["t0"]) < int(r1["t0"]):
+                print(f"  {fmt(r1['t0'])} {r1['n']}: {' '.join(r1['w'][:8])} ... -> "
+                      f"{fmt(r2['t0'])} {r2['n']}: {' '.join(r2['w'][:8])}", file=sys.stderr)
         sys.exit(f"REFUSING: {backwards} block stamps run backwards")
 
     body = "\n\n".join(f"[{fmt(r['t0'])}] {r['n']}: {' '.join(r['w'])}" for r in runs_out)
@@ -166,13 +185,13 @@ def main():
         if n:
             corrections[rep] += n
 
-    fields, _ = common.read_frontmatter_body(ROOT / "episodes" / common.episode_path(episode) / "raw.md")
+    fields, _ = common.read_frontmatter_body(episode_raw)
     fields["model"] = "microsoft/MAI-Transcribe-2"
     fields["note"] = (
         "Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with "
         "word-level timestamps from the model itself. Speaker labels come from the show's own "
         "camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the "
-        "time of each word; turns of three words or fewer keep MAI's voice-cluster label, and "
+        f"time of each word; turns of three words or fewer keep {fallback_name}, and "
         "words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; "
         "the word sequence is MAI's, unchanged, apart from the reviewed name corrections in "
         "fix_proper_nouns.py. See interview.md for the polished newspaper-style rewrite.")

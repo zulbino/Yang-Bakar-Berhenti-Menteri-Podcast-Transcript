@@ -402,5 +402,83 @@
       "at_now": "2:51:41",
       "_note": "RESTORING an OWNER decision I destroyed. Recorded in commit 3c255ee, from the session before: 'Also on ep61, found by ear and confirmed on video, not by any check: Farhan interjects at 2:51:42-58 where raw.md had Speaker ? and all three published files said Haziq. frames_at.py holds the desk two-shot with Rafizi and Haziq both in frame until 2:51:42, cuts to a close single of a third man at 2:51:43, and returns at 2:52:00.' The owner raised it again on 2026-08-30 when the label went missing.\n\nHOW I DESTROYED IT, because the mechanism matters more than the block. This block's STAMP said 2:51:15 but its TEXT sits at 2:51:41-2:51:59 in the caption word timings ('takkanlah tukar last minute' 10300.9, 'dewa kuanti' 10312.4, 'oh temple' 10319.0) -- ep61 has known stamp drift. audit_block_attribution.py defines a block's audio window as stamp-to-next-stamp, so it read this block's window as 2:51:15-2:51:43, which in real audio is Rafizi on pickleball and his elbow. It reported 'Farhan -> Rafizi' correctly FOR THAT WINDOW. I then asked the owner about the TIMESTAMP 2:51:13 and applied their correct answer ('Rafizi') to the BLOCK, deleting a different speaker's turn 26 seconds later. My frame sample at the block midpoint landed inside the two-shot the owner's own note predicts.\n\nTHREE FIXES, all of them mine to make: this restore; the stamp corrected to 2:51:41 so the block's window and its words agree; and a drift guard in audit_block_attribution.py so no block whose stamp disagrees with its text can be acted on again.\n\nTHE PROCESS LESSON: an owner decision lived only in a commit message. It belongs HERE. Read git log for prior owner findings before touching an episode, and never ask about a second when the change will be applied to a block."
     }
+  },
+  "ep62_owner_read_2026-09-10": {
+    "_note": "The owner read the MAI+camera raw.md (46a82a8) end to end on 2026-09-10 and gave these by ear, plus word fixes applied in the same commit. text_now is the block's opening text after the edit, for check_owner_decisions.py.",
+    "07:49": {
+      "who": "Haziq",
+      "text_now": "Jadi pada hari kejadian, siapa-siapa yang kerja",
+      "note": "owner by ear; camera had Rafizi"
+    },
+    "16:02": {
+      "who": "Rafizi",
+      "text_now": "Ini masa dia puji Zahid Hamidi.",
+      "note": "owner by ear"
+    },
+    "34:35": {
+      "who": "Rafizi",
+      "text_now": "Dan itulah tempoh yang paling bagus untuk FELDA",
+      "note": "owner by ear; was cut mid-sentence and half given to Haziq"
+    },
+    "35:43": {
+      "who": "Farhan (Pa'an)",
+      "text_now": "Um. Tan Sri Ahmad Badri.",
+      "note": "owner by ear; Rafizi answers at 35:45"
+    },
+    "1:08:44": {
+      "who": "Haziq",
+      "text_now": "Ha ha ha ha ha.",
+      "note": "owner by ear: Haziq laughs, Rafizi slips in at 1:08:45"
+    },
+    "1:11:54": {
+      "who": "Rafizi",
+      "text_now": "Because, you know, um, uh, sekarang dah lebih kurang",
+      "note": "owner by ear; was cut mid-sentence"
+    },
+    "1:27:41": {
+      "who": "Rafizi",
+      "text_now": "Yalah, dia menteri yang bertanggungjawab.",
+      "note": "owner by ear"
+    },
+    "2:22:40": {
+      "who": "Rafizi",
+      "text_now": "Baru keluar tahun tu.",
+      "note": "owner by ear"
+    },
+    "2:30:26": {
+      "who": "Rafizi",
+      "text_now": "Tapi yalah, I mean.",
+      "note": "owner by ear; MAI word time for the split 2:30:30"
+    },
+    "2:30:30": {
+      "who": "Haziq",
+      "text_now": "Tak masuk akal.",
+      "note": "owner by ear"
+    },
+    "2:55:04": {
+      "who": "Rafizi",
+      "text_now": "I don't think so tak.",
+      "note": "owner by ear"
+    },
+    "2:56:30": {
+      "who": "Multiple speakers",
+      "text_now": "Dudley House. Dudley House. Ha ha.",
+      "note": "owner by ear: Rafizi and Haziq together"
+    },
+    "3:12:26": {
+      "who": "Farhan (Pa'an)",
+      "text_now": "But I'm I'm curious eh, sebab if you use certain parameters",
+      "note": "owner: camera shows him talking at 3:12:29"
+    },
+    "3:45:00": {
+      "who": "Rafizi",
+      "text_now": "Ha kan. So yang ini dia jual uh dia beli pada harga uh, apa nama ni",
+      "note": "owner by ear; one sentence, was cut in three"
+    },
+    "3:54:19": {
+      "who": "Haziq",
+      "text_now": "Dan start minggu depan akan ada tangkapan.",
+      "note": "owner by ear: Farhan tried to slip in, Haziq kept the floor"
+    }
   }
 }
