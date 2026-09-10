@@ -46,6 +46,10 @@ import sys
 from collections import Counter
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+import common  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 PY = sys.executable
 BLOCK = re.compile(r"^\[([\d:]+)\]\s*([^:\n]{0,40}?):\s*(.*)$", re.M)
@@ -98,10 +102,8 @@ def main():
                                       "defaults to the episode's committed raw.md")
     a = ap.parse_args()
 
-    hits = glob.glob(str(ROOT / f"episodes/*/*-{a.tag}-*/raw.md"))
-    if len(hits) != 1:
-        sys.exit(f"{len(hits)} episodes match {a.tag}")
-    raw = Path(hits[0])
+    raw_path = common.raw_for_tag(a.tag)
+    raw = Path(raw_path)
     rel = raw.relative_to(ROOT).as_posix()
     reference = ROOT / "data" / f"camera_ref_{a.tag}.rttm"
     if not reference.exists():

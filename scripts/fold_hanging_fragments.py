@@ -44,6 +44,10 @@ import sys
 from collections import Counter
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+import common  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 BLOCK = re.compile(r"^\[([\d:]+)\]\s*([^:\n]{0,40}?):\s*(.*)$", re.M)
 MAX_WORDS = 10
@@ -100,10 +104,8 @@ def main():
     ap.add_argument("--write", action="store_true")
     a = ap.parse_args()
 
-    hits = glob.glob(str(ROOT / f"episodes/*/*-{a.tag}-*/raw.md"))
-    if len(hits) != 1:
-        sys.exit(f"{len(hits)} episodes match {a.tag}")
-    path = Path(hits[0])
+    raw_path = common.raw_for_tag(a.tag)
+    path = Path(raw_path)
     text = path.read_text(encoding="utf-8")
     camera = camera_seconds(a.reference or ROOT / "data" / f"camera_ref_{a.tag}.rttm")
     blocks = BLOCK.findall(text)

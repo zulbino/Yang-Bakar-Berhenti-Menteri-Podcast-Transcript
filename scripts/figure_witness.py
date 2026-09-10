@@ -30,6 +30,10 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+import common  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
@@ -76,10 +80,8 @@ def main():
                     help="only these; default is every figure the two files disagree about")
     a = ap.parse_args()
 
-    hits = glob.glob(str(ROOT / f"episodes/*/*-{a.tag}-*/raw.md"))
-    if len(hits) != 1:
-        sys.exit(f"{len(hits)} episodes match {a.tag}")
-    folder = Path(hits[0]).parent
+    raw_path = common.raw_for_tag(a.tag)
+    folder = Path(raw_path).parent
     raw = io.open(folder / "raw.md", encoding="utf-8").read()
     vid = re.search(r"video_id:\s*(\S+)", raw).group(1)
     published = {}

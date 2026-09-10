@@ -169,3 +169,24 @@ def retry(fn, max_attempts=5, base_delay=10, what=""):
             print(f"  [retry] {what} attempt {attempt}/{max_attempts} failed: {e}. Waiting {delay}s", flush=True)
             time.sleep(delay)
     raise last_err
+
+def raw_for_tag(tag):
+    """The one raw.md matching `epNN`, or `epNN:bakar` / `epNN:berhenti` when ambiguous.
+
+    Both shows have an ep01 through ep06 and they are different episodes, which is why
+    resolve_tag() above takes the same suffix. Tools that work from paths rather than the
+    manifest need it too: a bare glob returns two hits for those six tags, and the `[0]`
+    several tools once used would have processed whichever came first.
+    """
+    import glob as _glob
+    from pathlib import Path as _Path
+    root = _Path(__file__).resolve().parent.parent
+    tag, _, show = tag.partition(":")
+    hits = [p for p in _glob.glob(str(root / f"episodes/*/*-{tag}-*/raw.md"))
+            if not show or show in _Path(p).parent.parent.name]
+    if not hits:
+        raise SystemExit(f"no episode matches {tag!r}")
+    if len(hits) > 1:
+        opts = ", ".join(f"{tag}:{_Path(p).parent.parent.name.split('-')[1]}" for p in hits)
+        raise SystemExit(f"{tag!r} matches {len(hits)} episodes; disambiguate: {opts}")
+    return _Path(hits[0])
