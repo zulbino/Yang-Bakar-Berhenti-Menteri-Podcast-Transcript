@@ -478,6 +478,24 @@ CORRECTIONS = [
      "this off it. Note interview-en.md glosses it `[deed of assignment]`, which the "
      "rewrite invented and which is wrong for an act -- fix that gloss by hand, this map "
      "cannot reach it."),
+    (r"\bJKOM\b", "J-KOM",
+     "OWNER-CONFIRMED 2026-09-10, corpus-wide. Jabatan Komunikasi Komuniti, the agency that "
+     "replaced JASA in November 2020 and now sits under the Ministry of Communications; its "
+     "own portal titles itself `Portal Rasmi J-KOM` and Bernama, Berita Harian and both "
+     "Wikipedias write the hyphen. 366 unhyphenated against 39 already correct, so the "
+     "majority spelling is the wrong one -- the count is not the evidence here, the agency's "
+     "own name is. Anchored on word boundaries for two reasons found by counting the odd "
+     "forms first: `KPJKOM` x2 keeps its own spelling, because `KP` is the Ketua Pengarah "
+     "and `KPJ-KOM` is not a thing anyone writes, and `JKOM-nya` x2 is matched on purpose, "
+     "the Malay possessive riding on the acronym. Speakers also call it Jabatan Penerangan "
+     "in the same breath, which is a different agency (JaPen) -- their words, left alone. "
+     "https://www.jkom.gov.my/ , "
+     "https://www.komunikasi.gov.my/awam/berita/18140-bernama-25-nov-2020-jasa-rebranded-as-j-kom-with-different-roles-functions-saifuddin"),
+    (r"\bJCOM\b", "J-KOM",
+     "Same agency, same owner decision. 4 occurrences, all in ep26's `media-media kerajaan "
+     "yang di bawah JCOM` and its two translations -- the ASR heard a C. No other JCOM "
+     "exists in the corpus, and JCOM is a real Japanese cable company, which is why this is "
+     "word-anchored and recorded rather than folded into a fuzzy acronym sweep."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the
