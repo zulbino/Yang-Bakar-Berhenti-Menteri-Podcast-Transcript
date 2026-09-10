@@ -25,6 +25,14 @@ note: 'Raw transcript from mesolitica/malaysian-whisper-medium-v2.
   interview*.md still carries the older attribution.'
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 42 — Rafizi Menteri Terpaling Gagal & Kerajaan Akui Wujudnya Mafia Korporat - YBM**  
+3 April 2026 · 2h 59m · [watch on YouTube](https://www.youtube.com/watch?v=ABPgNUXVrew)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:02] Haziq: Episod 42 Podcast Yang Merti Menteri Assalamualaikum dan salam sejahtera Macam biasa bersama saudara

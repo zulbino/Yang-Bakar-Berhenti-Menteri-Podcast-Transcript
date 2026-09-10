@@ -56,6 +56,14 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
   or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 58 — UMNO-PAS, Asal Melayu Berkuasa, Masalah Lain Belakang Kira**  
+7 August 2026 · 3h 2m · [watch on YouTube](https://www.youtube.com/watch?v=I5BQU_awyQU)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Assalamualaikum dan salam sejahtera, macam biasa, Podcast Yang Berhenti Menteri episod ke-58 bersama saudara Rafizi Ramli dan Chopper.

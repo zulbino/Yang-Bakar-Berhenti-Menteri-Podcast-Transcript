@@ -51,6 +51,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 14 — Yang Berhenti Menteri Episod 14**  
+19 September 2025 · 2h 6m · [watch on YouTube](https://www.youtube.com/watch?v=uboskXAZBfs)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Assalamualaikum and welcome to Podcast Yang Berhenti Menteri, episode 14. We might touch on quite a few things today, but before that, as usual, my cliché question. How are you, YB?

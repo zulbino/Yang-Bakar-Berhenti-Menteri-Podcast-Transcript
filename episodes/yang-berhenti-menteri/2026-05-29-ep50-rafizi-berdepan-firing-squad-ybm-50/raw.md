@@ -14,6 +14,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
   the polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 50 — Rafizi Berdepan Firing Squad**  
+29 May 2026 · 2h 49m · [watch on YouTube](https://www.youtube.com/watch?v=C9xGMQMP6o8)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [03:02] Wan Afiq: Assalamualaikum dan salam sejahtera Kembali lagi kita dalam YBM Episod 50 Episod special Kenapa dia tak keluar lagi tu? Oh... Oh dia delete Ni memang live betul-betul ni YB

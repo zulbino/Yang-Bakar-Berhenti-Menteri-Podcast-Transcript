@@ -54,6 +54,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 31 — DPA SPRM, Farhash Rugi RM97.5 juta, PAU 2025 & Ada Apa Dengan PKR?**  
+16 January 2026 · 2h 35m · [watch on YouTube](https://www.youtube.com/watch?v=NiTsEvlvM34)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** As usual, joining us with brother Rafizi Ramli on the podcast. Where? Assalamualaikum. I want to switch to the new episode 31. Oh, okay, okay, okay. It's been a while since we did a greeting. Haa, we do have to give one, right, if it's the last one. Have to give salam. This sentence, is this passive? Sentence, active, active, passive.

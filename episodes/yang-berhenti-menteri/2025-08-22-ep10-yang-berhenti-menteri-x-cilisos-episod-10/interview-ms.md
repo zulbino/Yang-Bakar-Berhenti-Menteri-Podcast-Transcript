@@ -50,6 +50,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 10 — Yang Berhenti Menteri X CiliSos Episod 10**  
+22 August 2025 · 1h 36m · [watch on YouTube](https://www.youtube.com/watch?v=gArEFuCJph8)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Iqbal:** Assalamualaikum dan selamat datang ke episod terbaru Yang Berhenti Menteri bersama kami hos-hos Sos Cili, Iqbal dan.

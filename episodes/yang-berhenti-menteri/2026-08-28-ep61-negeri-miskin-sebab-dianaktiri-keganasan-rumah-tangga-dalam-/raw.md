@@ -11,6 +11,14 @@ model: microsoft/MAI-Transcribe-2
 note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (14 blocks from roughly 01:30 to 03:00, the post-jacket schedule exchange into the first Beria item; owner rulings over the camera: 2 blocks set from data/forced_labels.json). See interview.md for the polished newspaper-style rewrite.'
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 61 — NEGERI MISKIN SEBAB DIANAKTIRI, KEGANASAN RUMAH TANGGA DALAM KERAJAAN MADANI**  
+28 August 2026 · 2h 54m · [watch on YouTube](https://www.youtube.com/watch?v=2AytMmKIU7w)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:45] Haziq: Assalamualaikum dan salam sejahtera Podcast Yang Berhenti Menteri episod ke-61 Macam biasa bersama saudara Rafizi Ramli Demam ke weh dia pakai kod? Tak ada sebab Kod ni? Dia panggil apa ni? Windbreaker

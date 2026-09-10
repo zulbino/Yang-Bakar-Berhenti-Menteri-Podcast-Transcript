@@ -57,6 +57,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 24 — Shamsul Iskandar vs Albert Tei, Bencana Banjir & Izzah MB Selangor? - YBM EP**  
+28 November 2025 · 2h 29m · [watch on YouTube](https://www.youtube.com/watch?v=pGdNql7Ovz4)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** And welcome to the "Yang Berhenti Menteri" Podcast, Episode 24. As usual, together with brother Rafizi Ramli. So before we start the episode or the usual segment, maybe I can ask a bit — there are people asking, this week is the final week of the PN Sabah campaign. Some are asking, YB Rafizi, first, has YB Rafizi himself gone down to campaign at all? Second, if not, has anyone from the party texted YB saying "YB please come down too" or invited YB to join the campaign?

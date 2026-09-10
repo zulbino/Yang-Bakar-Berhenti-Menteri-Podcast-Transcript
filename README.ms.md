@@ -1,4 +1,6 @@
-# Transkrip Podcast YBM
+# Yang Berhenti Menteri / Yang Bakar Menteri — transkrip podcast
+
+Teks penuh podcast Rafizi Ramli *Yang Berhenti Menteri* (YBM), dan *Yang Bakar Menteri* sebelum penamaan semula. 69 episod, 168 jam.
 
 Read in [English](README.md).
 
@@ -13,6 +15,21 @@ Arkib ini merangkumi episod penuh sepanjang satu jam atau lebih. Ia meninggalkan
 > Alat AI mentranskripsi episod ini daripada audio, kemudian menulis semula hasilnya menjadi wawancara yang mudah dibaca. Saya menyemaknya pada bahagian-bahagian terpilih berbanding rakaman asal, tetapi saya tidak menyemak mana-mana episod baris demi baris. Sila baca [nota ketepatan](#nota-ketepatan) sebelum anda memetik apa-apa daripada arkib ini. [METHODOLOGY.md](METHODOLOGY.md) (dalam Bahasa Inggeris) menerangkan apa yang menghasilkan setiap fail, kesilapan yang saya temui dan ukur, serta cara melaporkannya.
 
 Untuk aliran kerja itu sendiri, lihat [ARCHITECTURE.md](ARCHITECTURE.md) (dalam Bahasa Inggeris). Untuk setiap kegagalan yang saya hadapi semasa membinanya, lihat [ENGINEERING_LOG.md](ENGINEERING_LOG.md) (dalam Bahasa Inggeris).
+
+## Mula di sini
+
+**Satu episod, untuk lihat isinya:** episod 61 — [transkrip mentah](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/raw.md) · [suntingan wawancara](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview.md).
+
+**Ikut siri:** [Yang Berhenti Menteri, 63 episod](episodes/yang-berhenti-menteri/) · [Yang Bakar Menteri, 6 episod](episodes/yang-bakar-menteri/). **Ikut topik:** [TOPICS.md](TOPICS.md).
+
+**Empat fail bagi setiap episod.** Setiap folder episod mengandungi empat fail yang sama:
+
+| Fail | Kandungan |
+|---|---|
+| `raw.md` | Hampir kata demi kata, dengan cap masa pada setiap pertuturan. Fail bukti. |
+| `interview.md` | Perbualan yang sama, disunting jadi teks gaya surat khabar, mengekalkan campuran Melayu dan Inggeris asal. |
+| `interview-en.md` | Suntingan wawancara, sepenuhnya dalam bahasa Inggeris. |
+| `interview-ms.md` | Suntingan wawancara, sepenuhnya dalam bahasa Melayu. |
 
 ## Kenapa arkib ini wujud
 

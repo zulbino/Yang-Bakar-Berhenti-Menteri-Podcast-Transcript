@@ -44,6 +44,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 3 — Yang Berhenti Menteri #3**  
+4 July 2025 · 1h 57m · [watch on YouTube](https://www.youtube.com/watch?v=jutpDO2CZDU)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Bismillahirahmanirrahim, assalamualaikum and welcome to the third episode of the Yang Berhenti Menteri podcast, this time with YB Rafizi, our regular speaker, and also our guest speaker today, Mr. Faizal Rahman. How are you, sir?

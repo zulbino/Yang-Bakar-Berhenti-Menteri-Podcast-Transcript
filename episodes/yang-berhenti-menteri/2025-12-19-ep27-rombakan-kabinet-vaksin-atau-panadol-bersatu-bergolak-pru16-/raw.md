@@ -15,6 +15,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
   the polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 27 — Rombakan Kabinet: Vaksin atau Panadol? - Bersatu Bergolak, PRU16 Makin Kabur**  
+19 December 2025 · 2h 38m · [watch on YouTube](https://www.youtube.com/watch?v=W5gI93CKvl0)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [02:20] Haziq: Assalamualaikum dan selamat datang Sekali lagi podcast Yang Berhenti Menteri Dah episod ke-27 Macam biasa bersama saudara Rafizi Ramli Obviously Kenapa ada dua kali saudara-saudara Gagap Episode ke-27 pun masih lagi gagap Maaf YB Tapi YB itu tak penting Sebab yang lebih penting adalah Minggu ini saya rasa isu yang terbesar adalah Berkaitan dengan rombakan kabinet Saya tukar topik Tapi sebelum itu Pandai kau ngelak kan Sebelum itu macam biasa YB, kita ke segmen yang pertama lah. Kita cuba ringkaskan sikit, dah kat segmen beria. Kita tengok apa yang ada pada minggu ini. Yang pertama, belum buka dah kena review. Tak sedap YB Belum buka lagi Not tasty Mana yang dia kata not tasty Kat bawah sekali tau

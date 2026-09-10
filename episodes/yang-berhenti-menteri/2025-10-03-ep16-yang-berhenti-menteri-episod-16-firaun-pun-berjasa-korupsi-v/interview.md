@@ -55,6 +55,14 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
   or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 16 — Yang Berhenti Menteri Episod 16 - “Firaun Pun Berjasa”, Korupsi vs Reform,**  
+3 October 2025 · 2h 8m · [watch on YouTube](https://www.youtube.com/watch?v=scF2WEBBn0w)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Assalamualaikum dan selamat datang, Yang Berhenti Menteri, episod ke-16. Maksudnya dah. berapa minggu ya? 4 minggu ah, 4 bulan. Saja nak test maths ke apa? YB, sebelum kita teruskan, saya nak check — adakah eksperimen saya dan "aku" YB minggu lepas tu, kita akan teruskan atau tak?

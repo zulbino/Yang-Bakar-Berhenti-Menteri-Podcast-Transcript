@@ -54,6 +54,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 15 — Yang Berhenti Menteri Episod 15**  
+26 September 2025 · 2h 44m · [watch on YouTube](https://www.youtube.com/watch?v=Zuq3LPk4oL8)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan salam sejahtera. Selamat datang ke Yang Berhenti Menteri episod ke-15. Sebelum kita ke segmen pertama, seperti biasa, saya lihat rambut YB lain sedikit kali ini. Jadi YB baru gunting rambut?

@@ -11,6 +11,14 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
   polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 9 — Yang Berhenti Menteri Episod 9 - YB Rafizi Ramli, YB Rodziah & Victor Tan**  
+15 August 2025 · 2h 14m · [watch on YouTube](https://www.youtube.com/watch?v=hDQLr8WvTjA)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:00] [Muzik / Skrin Menunggu]

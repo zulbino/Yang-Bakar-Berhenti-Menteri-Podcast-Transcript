@@ -45,6 +45,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Bakar Menteri episode 3 — Yang Bakar Menteri EP 3 - YB Rafizi Ramli & Faiz Azmi (Financial Faiz) - 5**  
+5 February 2024 · 2h 3m · [watch on YouTube](https://www.youtube.com/watch?v=Y2o4gIQAlwc)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Syed Munawar:** Assalamualaikum warahmatullahi wabarakatuh. Kita ke rancangan Yang Bakar Menteri Podcast yang agak panas. Kita bersiaran 2 minggu sekali. Malam ini seperti biasa kita ada YB Rafizi Ramli. Apa khabar YB?

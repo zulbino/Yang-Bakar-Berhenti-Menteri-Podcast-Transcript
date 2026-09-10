@@ -56,6 +56,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 49 — Seminggu Selepas BERSAMA & PH-BN Tidak Lagi Bersama**  
+22 May 2026 · 3h 13m · [watch on YouTube](https://www.youtube.com/watch?v=BY82Rp0ShH4)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** This is the "Yang Berhenti Menteri" (The Ex-Minister) podcast, episode 49. As usual, and yet not quite as usual, with YB Rafizi Ramli and YB Nik Nazmi. But not.

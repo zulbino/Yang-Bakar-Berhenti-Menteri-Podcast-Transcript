@@ -52,6 +52,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 26 — Reformasi Bukan Content: Azam Baki, UEC & Felda**  
+12 December 2025 · 2h 27m · [watch on YouTube](https://www.youtube.com/watch?v=UDyqU87cWXU)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** This isn't "Yang Berhenti Menteri," it's already episode 26 with Rafizi. Before that, everyone should follow us on social media as usual: Facebook, Twitter, IG, and YouTube. I heard some accounts already have 1 million followers, but ours isn't there yet, right? Come on now. Come on, 1 million. On Facebook, right? So we need to add more followers, okay? So maybe I shouldn't prolong this, there are a lot of issues this week, YB. Let's go straight to BERIA. "Beria Mat." Let's look at episode 26, first segment. Bismillah. A wave of the hand gets you RM100. But before that, does YB know him?

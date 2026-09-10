@@ -48,6 +48,14 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
   or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 30 — 2026 Tahun Reformasi? Akar Umbi UMNO Bersuara, ATM Di Serang**  
+9 January 2026 · 2h 29m · [watch on YouTube](https://www.youtube.com/watch?v=XcnH8kK6hCY)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Assalamualaikum. Selamat datang, Podcast Yang Berhenti Menteri episod ke-30. Macam biasa, dengan saya dan saudara Rafizi.

@@ -52,6 +52,14 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
   or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 45 — Demo Tangkap Azam Baki, Malaysia Negara Menua & Setahun Pemilihan PKR: Semua**  
+24 April 2026 · 2h 58m · [watch on YouTube](https://www.youtube.com/watch?v=1HNNYEwpZjU)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri, episod ke-45. Macam biasa, bersama saya dan saudara Rafizi Ramli.

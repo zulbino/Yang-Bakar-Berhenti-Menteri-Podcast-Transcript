@@ -51,6 +51,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 11 — Yang Berhenti Menteri Episod 11 - Merdeka Dahulu, Merdeka Sekarang**  
+29 August 2025 · 1h 51m · [watch on YouTube](https://www.youtube.com/watch?v=gMY5R36x-mo)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Iqbal:** Assalamualaikum and welcome back to the latest episode of Yang Berhenti Menteri with me, your host for tonight, Iqbal, and our permanent fixture, YB Rafizi.

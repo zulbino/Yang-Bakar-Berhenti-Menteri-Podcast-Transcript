@@ -21,6 +21,14 @@ note: 'Raw transcript.
   interview*.md still carries the older attribution.'
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 23 — Rafizi Jawab Tuduhan Rasuah RM1.1 bilion, Surat Sokongan SUPOL PMX**  
+21 November 2025 · 2h 15m · [watch on YouTube](https://www.youtube.com/watch?v=hVf8FbNa9v0)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:00] [Music / Intro]

@@ -49,6 +49,14 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
   or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 5 — Yang Berhenti Menteri #5**  
+18 July 2025 · 1h 54m · [watch on YouTube](https://www.youtube.com/watch?v=QiU62zTJn4A)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Rafizi:** Assalamualaikum dan selamat datang ke Podcast Yang Berhenti Menteri, episod yang kelima, bersama saya, Rafizi Ramli. Guest speaker kita pada malam ini, Dato' Dr. Syed Azuan Al-Idrus atau DSA. Apa khabar, Dato'?

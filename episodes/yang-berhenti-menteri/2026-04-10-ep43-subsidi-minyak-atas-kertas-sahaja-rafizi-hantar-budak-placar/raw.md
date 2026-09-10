@@ -20,6 +20,14 @@ note: 'Raw transcript from the local ASR fallback, mesolitica/malaysian-whisper-
   Farhan (Pa''an) 0.890. interview*.md still carries the older attribution.'
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 43 — Subsidi Minyak Atas Kertas Sahaja, Rafizi Hantar Budak Placard & Surat Dari**  
+10 April 2026 · 2h 41m · [watch on YouTube](https://www.youtube.com/watch?v=e3y7rCTySJU)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:00] Rafizi: ...dari segi sumbangan daripada parti, dari segi standing dia dengan rakyat, daripada latar belakang dia lah. Tapi saya selalulah juga yang... memainkan peranan ini dulu-dulu lah kan sebab saya dijadikan salah seorang yang perlu menelpon ketua cabang itu untuk meminta maaf lah kau tak jadi calon. Jadi saya faham lah soal-soal watikah tuan ni kan. Dan terpaksalah mendengar ketua cabang itu dan ialah ada kes-kes yang mana dia tak rapat lah walaupun cabang itu kuat, aktif macam mana pun

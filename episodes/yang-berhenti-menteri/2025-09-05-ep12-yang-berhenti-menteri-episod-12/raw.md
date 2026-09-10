@@ -14,6 +14,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
   the polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 12 — Yang Berhenti Menteri Episod 12**  
+5 September 2025 · 2h 2m · [watch on YouTube](https://www.youtube.com/watch?v=VfxfuCEv5XE)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [02:30] Haziq: Assalamualaikum dan selamat datang Yang berhenti menteri podcast episod ke-12 Apa khabar semua? Jadi yang masih bersiaran dengan kita Tap tap skrin dan penuhkan komen di ruangan komen kita saya pun dah lama tak jumpa YB Rafizi tapi masih baik tak kena pecat je Alhamdulillah tapi YB disebabkan saya dah lama tak jumpa YB saya nak tanya satu soalan apa khabar tu very mainstream apa orang kata? mainstream lah jadi saya nak tanya perjalanan YB untuk diet dan kurus ni berapa banyak dah turun sebenarnya sejak saya tinggalkan YB itu soalan peribadi

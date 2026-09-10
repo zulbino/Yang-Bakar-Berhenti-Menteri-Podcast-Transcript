@@ -43,6 +43,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Bakar Menteri episode 2 — Yang Bakar Menteri EP 2 I YB Rafizi Ramli & Prof. Barjoyai Bardai l 22 Jan**  
+22 January 2024 · 1h 38m · [watch on YouTube](https://www.youtube.com/watch?v=WT1m_Yl5E_M)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Nazri:** Baik, assalamualaikum warahmatullahi wabarakatuh dan kembali semula kita ke dalam satu podcast yang paling hangat sekali dan terbakar di Malaysia ini, nombor satu iaitu Yang Bakar Menteri, okey. Dalam episod kedua ini saya sudah pindah tempatlah. Sebelum ini saya duduk di sini, sekarang saya duduk di tengah pula. Episod ketiga saya tak tahu saya duduk di mana, okey. Jadi sebelum kita mulakan YB kita ada seorang tetamu yang saya rasa istimewa pada episod kali ini iaitu Profesor Emeritus Dr. Barjoyai Bardai yang merupakan memang seorang pakar ekonomi yang terkenal dan juga terkenal dengan kritikan-kritikan beliau terhadap model Ekonomi MADANI, okey. Jadi tapi YB dan juga Prof, sebelum saya mula membuka medan dan gelanggang kita ini, saya nak menekankan sedikit tentang episod pertama tadi, sebab ramai orang memberi komen dan juga kritikan. Yang pertama, mereka kata podcast kita ini berskrip. Saya nak tanya sendiri kepada Prof. Prof sendiri datang ke sini berskrip ataupun tidak?

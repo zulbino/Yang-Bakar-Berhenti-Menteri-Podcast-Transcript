@@ -42,6 +42,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 33 — PN Dari Bergolak Ke Berkecai & Skandal Yang Belum Selesai**  
+30 January 2026 · 2h 48m · [watch on YouTube](https://www.youtube.com/watch?v=hI_cgYwwtqg)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Akhirnya, akhirnya episod 33 kita ada tetamu yang agak. sebab dah lama tak ada. Selama ni kita ada tetamu di skrin.

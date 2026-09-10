@@ -52,6 +52,14 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
   or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 21 — Rafizi Jawab Zafrul Isu ART & Krisis Bersatu**  
+7 November 2025 · 2h 39m · [watch on YouTube](https://www.youtube.com/watch?v=53DWb7jq0q4)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Assalamualaikum dan selamat datang Podcast Yang Berhenti Menteri Episod ke-21 bersama YB Rafizi. Minggu ni tak ada salam-salam dengan Arul — dah tak ada, YB. Saya dah bertobat. Tapi kita ada seorang lagi tetamu istimewa kita pada malam ini, yang misteri tapi dah diteka dengan tepat oleh — yalah, korang pakai gambar dia.

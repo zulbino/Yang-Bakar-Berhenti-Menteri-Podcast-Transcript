@@ -11,6 +11,14 @@ model: microsoft/MAI-Transcribe-2
 note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: none recorded for this episode). See interview.md for the polished newspaper-style rewrite.'
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 59 — RCI Tabung Haji: Apa Yang Tidak Dibincangkan Di Parlimen? DAP Pula Nak Ke Mana?**  
+14 August 2026 · 3h 3m · [watch on YouTube](https://www.youtube.com/watch?v=EUvzOPbs7CE)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [01:49] Haziq: Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri episod ke-59. 9. Edisi demam.

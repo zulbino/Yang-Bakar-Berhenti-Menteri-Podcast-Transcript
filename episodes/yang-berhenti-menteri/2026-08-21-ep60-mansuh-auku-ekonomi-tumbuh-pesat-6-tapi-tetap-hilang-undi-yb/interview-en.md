@@ -54,6 +54,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 60 — Mansuh AUKU, Ekonomi Tumbuh Pesat 6% Tapi Tetap Hilang Undi**  
+21 August 2026 · 3h 18m · [watch on YouTube](https://www.youtube.com/watch?v=stsjJHwNoTM)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Podcast Yang Berhenti Menteri, episode 60. As usual with brother Rafizi Ramli. And not so usual, with our special guest, brother Sumdek Joe.

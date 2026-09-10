@@ -59,6 +59,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 56 — Isu Pelaburan eFishery, Lama Mana Kerajaan MADANI Akan Bertahan?**  
+24 July 2026 · 2h 45m · [watch on YouTube](https://www.youtube.com/watch?v=nXMJ_FxwfjM)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 The interview provided is already in Bahasa Melayu with minimal English phrases and no significant untranslated English-language sections requiring conversion — it appears to already be the target output rather than a mixed English/Malay source needing translation.

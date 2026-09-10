@@ -48,6 +48,14 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
   rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 12 — Yang Berhenti Menteri Episod 12**  
+5 September 2025 · 2h 2m · [watch on YouTube](https://www.youtube.com/watch?v=VfxfuCEv5XE)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Assalamualaikum and welcome. Yang Berhenti Menteri Podcast, episode 12. How's everyone doing? Those still watching, tap the screen and fill up the comments section. I haven't seen YB Rafizi in a while too, but he's still doing well, just didn't get fired. Alhamdulillah. But YB, since I haven't seen you in a while, I want to ask a question — asking "how are you" is very mainstream, as people say. So I want to ask, how much weight has YB actually lost since I last saw you, on this diet and weight-loss journey? That's a personal question.

@@ -11,6 +11,14 @@ note: Raw, lightly-cleaned transcript straight from audio. See interview.md for 
   polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 2 — Yang Berhenti Menteri #2**  
+27 June 2025 · 1h 37m · [watch on YouTube](https://www.youtube.com/watch?v=y6e6F3w4U60)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:00] Haziq: Untuk penonton semua, kita berada di podcast atau audiosiar Yang Berhenti Menteri bagi episod yang kedua. Jadi atas permintaan ramai, bersama-sama dengan YB Raf selaku guest speaker tetap pada hari ini, kita ada juga saudara Iswardy Morni sebagai guest speaker kita pada hari ini. Bang Is, apa khabar? Dari Sarawak ke?

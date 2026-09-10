@@ -14,6 +14,14 @@ note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/
   the polished newspaper-style rewrite.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 56 — Isu Pelaburan eFishery, Lama Mana Kerajaan MADANI Akan Bertahan?**  
+24 July 2026 · 2h 45m · [watch on YouTube](https://www.youtube.com/watch?v=nXMJ_FxwfjM)
+
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Raw Transcript
 
 [00:44] Rafizi: Podcast Yang Berhenti
