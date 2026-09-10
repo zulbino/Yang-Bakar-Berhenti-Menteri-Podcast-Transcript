@@ -1,0 +1,18 @@
+{
+  "_what": "Labels the owner has ruled on that the camera reference disagrees with. scripts/mai_camera_raw.py applies these AFTER the camera pass and the gold-passage splice, locating each turn by its words (scripts/lib_locate.py), and refuses to write if a text cannot be found or matches more than three blocks.",
+  "_why_it_exists": "The camera is the best speaker evidence in this repo, but it is not the owner. When a recorded owner decision and the camera disagree, the owner decides, and their ruling has to survive every future rebuild -- an owner decision that lives only in a commit message gets destroyed later. See data/speaker_adjudications.json, ep61_farhan_restore.",
+  "ep61": [
+    {
+      "text": "Aku berpandangan lain sikitlah",
+      "who": "Rafizi",
+      "at": "05:05",
+      "why": "OWNER RULING 2026-09-10: keep Rafizi. Recorded in data/speaker_q_video_confirmed.json at stamp 04:46, where the frame is Rafizi; these words sit 19 s later at 05:05, where the camera shows Haziq. The owner was shown both and chose the recorded label."
+    },
+    {
+      "text": "Aku kalau minum air lagi mengantuk",
+      "who": "Rafizi",
+      "at": "07:08",
+      "why": "OWNER RULING 2026-09-10: keep Rafizi. Recorded at stamp 06:52, frame Rafizi; the words are at 07:08, where the camera shows Haziq. Same drift, same ruling. The following block, 'Air kosong lah.', is left as the camera has it -- no owner decision covers it, and a ruling is not extended by inference."
+    }
+  ]
+}

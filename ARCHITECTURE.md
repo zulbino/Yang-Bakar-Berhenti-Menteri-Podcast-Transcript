@@ -771,9 +771,17 @@ reviewed name corrections run BEFORE the splice, so the owner's bytes are never 
 and the checker tests containment rather than list equality, which leaves a re-cut on either
 side of the region free to differ.
 
+**The owner outranks the camera, and the ruling has to outlive the rebuild.**
+`data/forced_labels.json` holds the turns where a recorded decision and the camera disagree
+and the owner has ruled for their own label. `mai_camera_raw.py` applies them last, locates
+each by its words, and stops the run if one cannot be found or spans more than three blocks,
+so a ruling can never be silently skipped. ep61 has two, both from the drift above; the owner
+was shown the frame at the stamp and the camera at the words and kept Rafizi. The cost is
+visible and small: DER 2.3% -> 2.4%.
+
 ep61's candidate against the camera: JER 55.5% -> 13.8%, Haziq recall 66% -> 90%, seconds
 under the wrong name 552 -> 74, blocks holding more than one speaker 101 of 252 -> 59 of
-2,359.
+2,425. Adopted on 2026-09-10.
 
 ## Known limitations
 

@@ -4239,3 +4239,54 @@ pass was not idempotent: a join exposes a new sandwich, a drop makes two turns a
 second run changed ep62 again. It now runs to a fixpoint; a second pass over all 69 changes
 nothing. Baselines identical before and after: qa 0/69, check_figures 0/69, check_published's
 three pre-existing flags.
+
+**ep61 adopts the MAI+camera raw, 2026-09-10.** Two gates had to be built first, and both
+were built because the same defect had already destroyed one owner decision on this episode.
+
+*Locating a decision when the words are not the same.* Every earlier pass moved labels over
+fixed words, so a decision could be found by its text. MAI's transcript is a different
+engine: the same speech spelled differently, split over more blocks, with the fillers the
+local model dropped. Substring lookup found 6 of ep61's 44 recorded decisions.
+`scripts/lib_locate.py` scores candidate windows on CHARACTERS, over a window wide enough for
+inserted fillers, which is what makes Malay affixation harmless -- the decision reads
+"pandangan lain sikit" and MAI heard "Aku berpandangan lain sikitlah", sharing no whole word
+with it. Result on the same file: 38 preserved, 4 partly kept, 1 mismatched, 1 with no text
+to search for. The 4 partial ones are all one benign shape, worth knowing because it looks
+like damage: the local block glued two speakers together, the candidate splits them, so the
+located span straddles the cut. The 1 mismatch is the same shape around the Farhan
+interjection at 2:51:42, where the candidate agrees with the owner's own window and the
+decision's snippet reaches back into Rafizi's words.
+
+*A stamp cannot locate anything here.* All 11 of ep61's `Speaker ?` confirmations were
+recorded against a stamp 3 to 21 s away from its own words. The frame at the stamp showed
+Rafizi in all 11. At the words' real time the camera shows Rafizi in 9 and Haziq in 2 --
+04:46 belongs to words at 05:05, 06:52 to words at 07:08. Nine were right for the wrong
+reason: the episode is 86% Rafizi, so a frame sampled 20 s away usually still lands on him.
+The owner was shown both readings and kept Rafizi for both; `data/forced_labels.json` now
+holds those rulings and `mai_camera_raw.py` applies them after the camera pass, refusing to
+run if a ruling cannot be located. DER 2.3% -> 2.4% is what the two cost.
+
+*The gold passage is carved out, not overwritten.* ep61's owner-dictated passage is exactly
+where the camera fails: the shot is a full-screen graphic, so the reference gives Haziq's
+"Baik YB, cuti panjang YB buat apa?" to Rafizi and Rafizi's answer to Haziq. The current
+raw.md's 14 blocks for it are spliced in verbatim, replacing 79 candidate blocks (356 MAI
+words), with the seam found by words because the two files' clocks differ by up to 26 s. Name
+corrections run before the splice, so the owner's bytes are never rewritten, and the checker
+tests containment rather than list equality, which leaves a re-cut on either side free to
+differ.
+
+Adopted result: JER 55.5% -> 13.8%, Haziq recall 66% -> 90%, 552 -> 74 seconds under the
+wrong name, 101 of 252 -> 59 of 2,425 blocks holding more than one speaker, longest block 742s
+-> 52s. The file gains about 3,000 words the local ASR dropped and now runs to the sign-off at
+2:54:18, where the old one stopped at 2:51:43 with 2.5 minutes missing. No gap over 60 s
+anywhere in it. Baselines held: qa 0/69 with 10 waived, check_published 2/69, check_figures
+0/69, check_names 1 episode. `interview*.md` is stale until `rewrite_segments.py` runs, and no
+checker sees that -- it is the same blind spot the published-file checks were written for.
+
+**J-KOM, corpus-wide, the same day.** Jabatan Komunikasi Komuniti hyphenates its own name and
+the corpus had 366 unhyphenated against 39 correct, so the majority spelling was the wrong
+one. 370 replacements over 28 episodes, both patterns word-anchored, which counting the odd
+forms first decided: `KPJKOM` x2 keeps its spelling (KP is the Ketua Pengarah; nobody writes
+KPJ-KOM) and `JKOM-nya` x2 is matched on purpose. All 153 changed lines were read and each
+differs from its old line only by the acronym. Baselines captured on the pristine corpus
+first and all four held.

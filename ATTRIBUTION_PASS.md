@@ -31,10 +31,22 @@ and block boundaries, so every prior text correction survives by construction.
    episode without MAI still runs. Exit 2 means the gate refused; ep60 was refused because
    the file as shipped already scored 97.5% and the proposal did not beat it.
 4. **Owner decisions.** `check_owner_decisions.py epNN data/_nightly/epNN_preview_raw.md`
-   locates every recorded decision on the episode by its own text and requires the
-   candidate to keep the owner's label; the gold passage region must be byte-identical.
-   Exit 1 blocks the write. Also `git log` the episode for findings that never reached
-   `data/` -- they exist.
+   locates every recorded decision on the episode and requires the candidate to keep the
+   owner's label; the gold passage must survive verbatim. Exit 1 blocks the write. Also
+   `git log` the episode for findings that never reached `data/` -- they exist.
+   A candidate from ANOTHER ENGINE needs the word-level locator: substring lookup found 6
+   of ep61's 44 decisions against MAI, `lib_locate.py` finds 38 (4 more partly, all four
+   the same benign shape -- the old block glued two speakers and the candidate splits
+   them). It is a PRE-SWAP gate. After the swap, the file the decisions were recorded
+   against is gone, so pass the committed one:
+   `git show HEAD~1:episodes/.../raw.md > data/_old_raw.md` and add
+   `--current data/_old_raw.md`.
+   **Never let a stamp locate a decision.** All 11 of ep61's `Speaker ?` confirmations were
+   recorded against a stamp 3 to 21 s from their own words; the frame at the stamp showed
+   Rafizi in all 11, the camera at the words shows Haziq in 2 of them. Where the owner
+   rules for their own label against the camera, record it in `data/forced_labels.json`
+   with the evidence; `mai_camera_raw.py` applies those last and refuses to run if one
+   cannot be located.
 5. **Write and verify.** `--write`, then `verify_words_unchanged.py epNN HEAD` (a bad ref is
    now a failure, not a skip), then the three checker baselines. Commit with the before and
    after per-speaker numbers in the message.
@@ -47,10 +59,18 @@ and block boundaries, so every prior text correction survives by construction.
    terminal punctuation, next block another speaker starting lowercase). Where the episode
    has MAI words, `mai_camera_raw.py epNN` rebuilds raw.md from MAI's words with the camera's
    names on MAI's own clock instead -- ep62 went from 44 such cuts to 7 (ENGINEERING_LOG
-   2.11). It changes the words, so the owner reads it before it is adopted.
+   2.11). It changes the words, so the owner reads it before it is adopted. The
+   owner-dictated gold passage is spliced back in verbatim, seam found by words rather than
+   by the clock, because the camera can be wrong there for a reason no reference fixes: on
+   ep61 the shot through that passage is a full-screen graphic, and the camera hands
+   Haziq's question to Rafizi.
 
 Numbers so far, word-level against the camera: ep61 Haziq 75% -> 87%, Rafizi and Farhan
-unchanged, 17 of 203 blocks split. ep60 unchanged (refused, 97.5% as shipped; Farhan at 19%
+unchanged, 17 of 203 blocks split. ep61 then adopted the MAI+camera rebuild in full
+(2026-09-10): Haziq 66% -> 90%, JER 55.5% -> 13.8%, seconds under the wrong name 552 -> 74,
+blocks holding two speakers 101 of 252 -> 59 of 2,425, and the file now runs to the sign-off
+at 2:54:18 where the local ASR stopped at 2:51:43. Its `interview*.md` is stale until
+`rewrite_segments.py` runs. ep60 unchanged (refused, 97.5% as shipped; Farhan at 19%
 of 100 camera seconds is the open defect, and no pyannote cluster is his, so a split cannot
 reach it).
 

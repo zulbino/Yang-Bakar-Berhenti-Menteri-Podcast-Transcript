@@ -20,6 +20,15 @@ candidate. That is containment, not list equality, so a re-cut on either side is
 differ.
 
   python scripts/check_owner_decisions.py ep61 data/_nightly/ep61_preview_raw.md
+
+This is a PRE-SWAP gate: the decisions are located through the raw.md they were recorded
+against. Once the candidate has been written into episodes/, that file is gone, and the run
+reports the decisions it can no longer find a snippet for -- ep61 went from 38 preserved to
+26 preserved and 13 without text for that reason alone. To check after a swap, hand it the
+committed file the decisions belong to:
+
+  git show HEAD~1:episodes/.../raw.md > data/_old_raw.md
+  python scripts/check_owner_decisions.py ep61 episodes/.../raw.md --current data/_old_raw.md
 """
 import glob
 import io
@@ -51,10 +60,11 @@ def short(w):
 
 def main():
     tag, candidate = sys.argv[1], sys.argv[2]
+    current = sys.argv[4] if len(sys.argv) > 4 and sys.argv[3] == "--current" else None
     hits = glob.glob(str(ROOT / f"episodes/*/*-{tag}-*/raw.md"))
     if len(hits) != 1:
         sys.exit(f"{len(hits)} episodes match {tag}")
-    cur_text = io.open(hits[0], encoding="utf-8").read()
+    cur_text = io.open(current or hits[0], encoding="utf-8").read()
     cand_text = io.open(candidate, encoding="utf-8").read()
     vid = re.search(r"video_id:\s*(\S+)", cur_text).group(1)
     cur, cand = BLOCK.findall(cur_text), BLOCK.findall(cand_text)

@@ -31,6 +31,12 @@ Rafizi's answer to Haziq -- because the shot there is a graphic, not a face. The
 found by WORDS, not by the clock, since the two files' stamps differ by up to 26 s. The
 reviewed name corrections are applied before the splice, so the owner's bytes are untouched.
 
+THE OWNER OUTRANKS THE CAMERA. `data/forced_labels.json` holds the turns where a recorded
+owner decision and the camera disagree and the owner has ruled for their own label. They
+are applied last, located by words, and a text that cannot be found or that matches more
+than three blocks stops the run rather than being skipped quietly. On ep61 there are two,
+both from a stamp that sits 16-19 s before its own words.
+
 WORDS NEVER CHANGE. The output's word sequence is asserted equal to MAI's, so every name,
 figure and place survives by construction; the only text edits are the reviewed
 fix_proper_nouns.py corrections, applied to the body and counted. Stamps are asserted
@@ -58,7 +64,8 @@ from split_mixed_blocks import BLOCK_RE, fmt, secs, smooth, snap_to_sentences  #
 
 ROOT = Path(__file__).resolve().parent.parent
 SHORT_TURN_WORDS = 3
-GOLD_PAD = 60          # a block starting just before the region can carry its first words
+GOLD_PAD = 60
+MAX_FORCED_BLOCKS = 3          # a block starting just before the region can carry its first words
 SEAM_WORDS = 8
 CAMERA_NAME = {"Farhan": "Farhan (Pa'an)"}
 
@@ -158,6 +165,34 @@ def carve_in_gold(lines, episode_raw, vid):
             f"{len(keep)} blocks from {text}")
 
 
+def force_labels(lines, tag):
+    """Apply the owner's rulings from data/forced_labels.json over the camera's answer."""
+    path = ROOT / "data" / "forced_labels.json"
+    rules = json.loads(path.read_text(encoding="utf-8")).get(tag, []) if path.exists() else []
+    if not rules:
+        return lines, "none recorded for this episode"
+    doc = Doc("\n\n".join(lines))
+    forced = 0
+    for r in rules:
+        found = doc.locate(r["text"], near=secs(r["at"]) if r.get("at") else None)
+        if not found:
+            sys.exit(f"REFUSING: owner ruling not locatable in the candidate: {r['text']!r}")
+        if len(found["blocks"]) > MAX_FORCED_BLOCKS:
+            sys.exit(f"REFUSING: {r['text']!r} spans {len(found['blocks'])} blocks, "
+                     "too broad to force a label onto")
+        if found["ambiguous"]:
+            print(f"  WARNING: {r['text']!r} has a second equally good match; "
+                  "the stamp picked this one")
+        for i in found["blocks"]:
+            stamp, label, body = doc.blocks[i]
+            if label == r["who"]:
+                continue
+            print(f"  owner ruling: {label} -> {r['who']} at [{stamp}] {body[:60]}")
+            lines[i] = f"[{stamp}] {r['who']}: {body}"
+            forced += 1
+    return lines, f"{forced} blocks set from data/forced_labels.json"
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("tag")
@@ -245,6 +280,7 @@ def main():
     gold_note = "not carved out (--no-gold-splice)"
     if not a.no_gold_splice:
         lines, gold_note = carve_in_gold(lines, episode_raw, vid)
+    lines, forced_note = force_labels(lines, tag)
     body = "\n\n".join(lines)
     spliced = [secs(m) for m in re.findall(r"^\[([\d:]+)\]", body, re.M)]
     back = [i for i, (x, y) in enumerate(zip(spliced, spliced[1:])) if y < x]
@@ -263,7 +299,7 @@ def main():
         "words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; "
         "the word sequence is MAI's, unchanged, apart from the reviewed name corrections in "
         f"fix_proper_nouns.py and the owner-verified passage kept from the previous transcript "
-        f"({gold_note}). See interview.md for the polished newspaper-style rewrite.")
+        f"({gold_note}; owner rulings over the camera: {forced_note}). See interview.md for the polished newspaper-style rewrite.")
     out = Path(a.out or ROOT / "data" / f"_{tag}_mai_camera_raw.md")
     out.write_text(common.frontmatter_md(fields, "# Raw Transcript\n\n" + body), encoding="utf-8")
 
