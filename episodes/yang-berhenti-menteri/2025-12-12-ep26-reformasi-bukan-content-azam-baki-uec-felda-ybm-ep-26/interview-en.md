@@ -53,7 +53,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 ---
 
 <!-- nav -->
-**Yang Berhenti Menteri episode 26 — Reformasi Bukan Content: Azam Baki, UEC & FELDA**  
+**Yang Berhenti Menteri episode 26 — Reformasi Bukan Content: Azam Baki, UEC & Felda**  
 12 December 2025 · 2h 27m · [watch on YouTube](https://www.youtube.com/watch?v=UDyqU87cWXU)
 
 This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
