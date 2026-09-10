@@ -435,7 +435,7 @@ Dua hari, satu dua minggu akan dapatlah desas-desus terbaru kan, tapi buat masa 
 
 **Rafizi:** Ini macam kita ambil perbandingan dengan cerita startup tadi — produk baru yang tujuannya untuk menyelesaikan pain points dalam sesuatu perkara. Dari segi halangan tu, maksudnya halangan itu memang tinggi. Satu, dia produk baru, kita kena yakinkan orang. Kedua, kita tak ada sumber dan kita terpaksa bersaing dengan gergasi-gergasi yang besar ni kan. Ketiga, pengguna akan ambil masa untuk memandang sesuatu. Jadi pilihan kita hanya ada satu, iaitu mengukuhkan kekuatan parti daripada bawah, kemudian berterusan membawa pencerahan, membina track record yang baik yang membezakan kita daripada parti-parti politik dinosaur yang ada. Persoalan dia hanyalah tempoh — maksudnya adakah satu tahun, dua tahun, lima tahun kan — tapi paling kurang kami tidak akan terperangkap dengan permainan begini yang bertukar-tukar setiap seminggu, setiap dua bulan ni, dan yang tak perlu berbelit-belit lidah, sekejap kata macam ini, sekejap kata macam itu.
 
-Saya tengok banyak masuk FYP tu ialah konten-konten mengenai Ashraf Wajdi. Saya ingat dua bulan lepas dia muncul dalam podcast Lebih Masa YB ini kan?
+Saya tengok banyak masuk FYP tu ialah konten-konten mengenai Asyraf Wajdi. Saya ingat dua bulan lepas dia muncul dalam podcast Lebih Masa YB ini kan?
 
 **Haziq:** Tak. Lama lagi kan?
 

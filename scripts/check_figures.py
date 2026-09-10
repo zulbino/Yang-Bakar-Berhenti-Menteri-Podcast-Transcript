@@ -138,13 +138,20 @@ SPOKEN_POINT = re.compile(r"(\d)\s*(?:point|titik)[.,]?\s*(\d)", re.I)
 SPLIT_DECIMAL = re.compile(
     r"(\d)[.,]\s+(\d{1,2})(?=\s*(?:ribu|juta|bilion|biliun|billion|miliar|milyar|trilion|triliun|"
     r"trillion|thousand|million)\b)", re.I)
-# A spoken clock time. ep54's MAI raw says `daripada jam 10 setengah malam` where the
-# published files say `jam 10.30 malam`, and `jam N setengah` is half past N. Same class as
-# SPOKEN_POINT: the raw is verbatim and the published file is right, so the fix belongs in
-# the checker rather than in either file. `jam` is REQUIRED -- without it, `10 setengah juta`
-# is 10.5 million and rewriting that to 10.30 would invent a figure. One occurrence in the
-# whole corpus, which is why this stays a clock-time rule and not a general `setengah` rule.
-SPOKEN_HALF = re.compile(r"\bjam\s+(\d{1,2})\s+setengah\b", re.I)
+# `N setengah` is spoken Malay for half past N, or for N and a half. Both appear:
+# ep54's raw says `daripada jam 10 setengah malam` for the published `jam 10.30 malam`, and
+# ep52's says `I leave house 6 setengah, pukul 7 aku dah ada kat office` for `at 6.30`.
+# Same class as SPOKEN_POINT -- the raw is verbatim and the published file is right, so the
+# fix belongs in the checker rather than in either file.
+#
+# ANCHORING ON `jam` WAS WRONG and was corrected the same day: ep54's phrase has it and
+# ep52's does not, so a `jam`-anchored rule cleared one episode and left the other flagged.
+# What makes this safe is not `jam` but the requirement that the digits sit IMMEDIATELY
+# before `setengah`. A duration puts a word in between -- ep52's `2 jam setengah` is two and
+# a half hours, not 2.30 -- and that no longer matches. `setahun setengah` has no digits at
+# all. Both readings are registered because both are correct renderings and this only ADDS
+# candidate readings: 6.30 for the clock, 6.5 for the quantity.
+SPOKEN_HALF = re.compile(r"(\d{1,2})\s+setengah\b", re.I)
 
 
 def digits(s):
@@ -222,7 +229,7 @@ def raw_evidence(raw_body):
     """
     toks, values = _scan(raw_body)
     for fix, rep in ((SPOKEN_POINT, r"\1.\2"), (SPLIT_DECIMAL, r"\1.\2"),
-                     (SPOKEN_HALF, r"\1.30")):
+                     (SPOKEN_HALF, r"\1.30"), (SPOKEN_HALF, r"\1.5")):
         alt = fix.sub(rep, raw_body)
         if alt != raw_body:
             more_toks, more_values = _scan(alt)

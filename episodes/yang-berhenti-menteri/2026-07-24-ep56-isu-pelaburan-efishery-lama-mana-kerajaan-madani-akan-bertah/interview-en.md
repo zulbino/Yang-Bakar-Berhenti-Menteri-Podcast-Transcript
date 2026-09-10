@@ -440,7 +440,7 @@ In a day or two, one or two weeks, there'll be fresh rumors, but for now I think
 
 **Rafizi:** This is like comparing it to the startup story from earlier — a new product meant to solve pain points in something. In terms of the wall, meaning the barrier is indeed high. One, it's a new product, we need to convince people. Second, we don't have resources and we have to compete with the giants that already exist. Third, consumers take time to notice something. So we only have one choice, which is to strengthen the party's foundation from the ground up, then continue to bring enlightenment, build a good track record that distinguishes us from the existing dinosaur political parties. The only question is how long — meaning is it one year, two years, five years — but at the very least we won't get trapped in this kind of game that flip-flops every week, every two months, and doesn't need to keep changing its tune, saying one thing one moment and another thing the next.
 
-I notice a lot of content about Ashraf Wajdi showing up on my FYP. I remember two months ago he appeared on this Lebih Masa YB podcast, right?
+I notice a lot of content about Asyraf Wajdi showing up on my FYP. I remember two months ago he appeared on this Lebih Masa YB podcast, right?
 
 **Haziq:** No. Longer ago than that, right?
 

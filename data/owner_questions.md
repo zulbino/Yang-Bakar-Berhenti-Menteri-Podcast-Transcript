@@ -33,27 +33,32 @@ keeps against the camera.
   said; a false alarm should stop reaching a person. Only two such spellings exist in the
   whole corpus (this one and ep49's `3 point 3 juta`), so no bulk edit was warranted.
 
-## One real question for the owner
+## Closed 2026-09-11 by web search, at the owner's instruction
 
-- **`Asyraf Wajdi` looks settled -- 35 published occurrences still say `Ashraf`.** Datuk Dr
-  Mohd Asyraf Wajdi Dusuki. Counting every file equally gives a dead heat, Ashraf 35 to
-  Asyraf 35, which is why this first looked unanswerable. **Split by file type it is not
-  close.** In raw.md, which is what an engine actually heard, it is **Asyraf 15 to Ashraf 2**,
-  and ep60's MAI raw spells it Asyraf six times unaided. The Ashraf majority sits entirely in
-  the rewritten interview files, and those are generated FROM raw, so they are not a witness
-  to anything -- counting them equally would let the rewrite outvote the audio. The press
-  agrees with raw: the Berita Harian report cited in `fix_proper_nouns.py` is
-  `asyraf-wajdi-serah-lod-rm5-juta`.
-  **So the machines have answered the spelling. What needs the owner is the write.** 33
-  occurrences in published files and 2 in raw would change, and the precedent in this map is
-  that a name goes in only after an external source AND the owner's word -- that is how
-  `Ismail Salleh` went in, in two stages. Nothing is blocked and no checker flags it, because
-  check_names treats Ashraf and Asyraf as the same person. Say the word and it is one entry
-  in the reviewed map.
-  Raised 2026-09-11 while adopting ep56, where MAI's `Asravu HD` was mapped to `Asyraf
-  Wajdi`. That mapping first went in as `Ashraf` to match ep56's own published files and was
-  corrected the same night, once the by-file-type count showed the published spelling was the
-  weaker witness.
+- **`Asyraf Wajdi`, settled and applied to all 71 occurrences.** The owner's answer to being
+  asked: *"why wait for me for asyraf wajdi, you can do web search to check what his actual
+  name"*. Searched, and it is not close -- **Datuk Dr Asyraf Wajdi bin Dusuki**, MARA chairman
+  since March 2023 and UMNO Youth chief 2018-2023. His own Instagram handle is
+  `@drasyrafwajdi`, and Wikipedia, Free Malaysia Today, Malaysiakini, Malay Mail and Berita
+  Harian all spell it Asyraf. Nothing spells it Ashraf. 35 occurrences changed across 14
+  files in ep31, ep39, ep56 and ep60; the corpus now reads Asyraf 71 times and Ashraf never.
+  https://en.wikipedia.org/wiki/Asyraf_Wajdi_Dusuki
+  **The lesson kept in [[project-name-corrections-rule]]:** counting every file gave a 35/35
+  dead heat, and only raw.md pointed the right way (Asyraf 15 to Ashraf 2). The Ashraf
+  majority sat in interview files, which are generated FROM raw and cannot corroborate it.
+  Ask the web before asking a person, and never count a generated file as a witness.
+
+## Real published errors, waiting on the rewrite rather than on the owner
+
+Both are `check_figures` flags that are CORRECT. Neither needs a decision -- they need the
+published files regenerated from the adopted raw, which is the owner's third priority.
+
+- **ep52 prints `47K` where raw says `DNAA 47 kes`.** Forty-seven CASES -- Zahid Hamidi's 47
+  charges -- compressed by the rewrite into something that reads as 47,000. All three
+  published files carry it. This is the class check_figures exists for, the same shape as
+  ep21's `8.2 bilion` for raw's `8.2 juta`.
+- **ep59 prints `120 juta` where raw and the caption track both say `102 juta`.** Already
+  answered below; only the published files are still wrong.
 
 ## Waiting on a machine, not on the owner
 

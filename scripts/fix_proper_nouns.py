@@ -54,6 +54,24 @@ CORRECTIONS = [
      "which is the role ep62 gives him. `Muda` is his father's name and takes a capital. "
      "1 lower-case occurrence against 5 already correct. ANCHORED ON `Asri` because `muda` "
      "is the ordinary Malay word for young and appears 720 times in the corpus."),
+    # OWNER-INSTRUCTED 2026-09-11: "why wait for me for asyraf wajdi, you can do web search
+    # to check what his actual name". Searched, and every source spells it Asyraf -- his own
+    # Instagram handle is @drasyrafwajdi, and Wikipedia, Free Malaysia Today, Malaysiakini,
+    # Malay Mail and Berita Harian agree. Nothing spells it Ashraf.
+    #   https://en.wikipedia.org/wiki/Asyraf_Wajdi_Dusuki
+    #   https://www.instagram.com/drasyrafwajdi/
+    #
+    # WHY A WHOLE-CORPUS COUNT WOULD HAVE PICKED THE WRONG ONE. All files together read
+    # Ashraf 35 and Asyraf 35, a dead heat. But raw.md -- the only file that records what an
+    # engine heard -- reads Asyraf 15 to Ashraf 2, and ep60's MAI raw spells it Asyraf six
+    # times unaided. The whole Ashraf majority sat in interview files, which are GENERATED
+    # from raw and cannot corroborate it. Counting every file equally lets the rewrite
+    # outvote the audio. No YouTube title contains the name, so nothing is a quotation here.
+    (r"Ashraf Wajdi(?![A-Za-z])",
+     "Asyraf Wajdi",
+     "Datuk Dr Asyraf Wajdi bin Dusuki, MARA chairman since March 2023 and UMNO Youth chief "
+     "2018-2023. 33 occurrences in published files and 2 in raw. Two words, so it cannot "
+     "touch anyone else named Ashraf."),
     # --- ep62's FELDA chairman succession. The episode walks all five in order, and the
     # ASR garbled every one of them. Owner-confirmed, and each verified externally.
     (r"\bTansi\b",
