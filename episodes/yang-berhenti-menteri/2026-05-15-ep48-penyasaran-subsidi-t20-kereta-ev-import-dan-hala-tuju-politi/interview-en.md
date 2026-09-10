@@ -285,7 +285,7 @@ And people say the difficult choices that need to be made surely include the mat
 
 **Farhan (Pa'an):** Because if we go by it, since October 2024 already, YB, you'd spoken about income classification.
 
-**Rafizi:** No, from day one, Paan.
+**Rafizi:** No, from day one, Pa'an.
 
 **Farhan (Pa'an):** Day one? No, but the first time you mentioned that the T15 classification should be redefined.
 
