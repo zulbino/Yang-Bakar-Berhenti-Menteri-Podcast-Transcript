@@ -1,32 +1,42 @@
 # Open questions for the owner, newest first
 
-Anything that needs the owner's ear or their ruling, recorded the moment it is found. A
-question that lives only in a chat message or a commit message gets lost -- ep61 lost a
-confirmed Farhan turn that way (`data/speaker_adjudications.json`, `ep61_farhan_restore`).
+The owner's standing goal: **need fewer human checks.** So a question goes here only after
+the machines have been asked. Three witnesses exist and none of them is a person:
 
-Answered items move to the episode's own record: `data/speaker_adjudications.json` for
-speaker rulings, `scripts/fix_proper_nouns.py` for names, `data/forced_labels.json` for a
-label the owner keeps against the camera.
+1. **The camera** -- `scripts/camera_speakers.py` reads whose face is on screen when a word
+   is spoken. It answers speaker questions.
+2. **The caption track** -- YouTube's own transcription, in `audio/<vid>.*.vtt`, made by
+   neither of our two engines. `scripts/figure_witness.py epNN` uses it to answer figure
+   questions.
+3. **The web** -- a published report settles a company's number better than anyone's memory.
 
-## ep59, found 2026-09-10 while adopting the MAI+camera raw
+A question that lives only in a chat message gets lost: ep61 lost a confirmed Farhan turn
+that way (`data/speaker_adjudications.json`, `ep61_farhan_restore`). Answered items move to
+the episode's own record -- `data/speaker_adjudications.json` for speaker rulings,
+`scripts/fix_proper_nouns.py` for names, `data/forced_labels.json` for a label the owner
+keeps against the camera.
 
-1. **`rugi 120 juta` or `rugi 102 juta`?** At `[1:17:19]`, Tabung Haji's loss from
-   discontinued operations. The local ASR heard `120 juta` and all three published files
-   print it; MAI heard `102 juta`. Two engines, transposed digits, and no way to choose
-   between them from the text -- this needs your ear, or the figure from THHE's own
-   financial statement. `check_figures.py` flags ep59 until it is settled.
-   Nothing has been changed: raw.md carries MAI's `102`, the published files still say `120`.
+## Nothing needs the owner right now
 
-2. **`9 point.8 billion`, MAI's spelling of `9.8 bilion`.** Same block region,
-   `[1:26:35]`. This one is not a disagreement about the number, only about how MAI writes a
-   spoken decimal, and it is the second half of what `check_figures.py` reports on ep59. Say
-   the word and I will normalise `N point.M billion` to `N.M bilion` across the MAI raws --
-   it is an artefact of the engine, not something anyone said differently. Left alone for now
-   because it changes words in raw.md.
+## Closed 2026-09-10, by machine, no owner time spent
 
-## ep45, found 2026-09-10 while fixing the Pa'an spelling
+- **ep59 `rugi 120 juta` or `rugi 102 juta`?** ANSWERED: **102**. The caption track, which
+  neither engine produced, reads `pasaran saham jatuh balik ah rugi 102 juta okey, loss from
+  discontinued operation`. MAI heard 102, the captions heard 102, only the local ASR heard
+  120. raw.md carries 102 and is correct. The three published files still print 120 and are
+  wrong; they are regenerated from raw.md, so the number corrects itself then.
+  `check_figures.py` flags ep59 until that happens, which is a flag pointing at real work.
+- **ep59 `9 point.8 billion`.** ANSWERED, and the transcript was left alone. This was never a
+  disagreement about a number, only MAI's spelling of a spoken decimal, so the fix belongs in
+  the checker: `check_figures.py`'s SPOKEN_POINT pattern now accepts a full stop after
+  `point`. The captions agree the number is 9.8 bilion. A verbatim raw should keep what was
+  said; a false alarm should stop reaching a person. Only two such spellings exist in the
+  whole corpus (this one and ep49's `3 point 3 juta`), so no bulk edit was warranted.
 
-3. **`[34:14] Farhan (Pa'an): Tak tahu, Pa'an punya pandangan?`** The block is labelled
-   Farhan and the words address Pa'an, which is Farhan himself. One of the two is wrong, and
-   by the standing rule I do not infer a speaker from text, so nothing was changed. The same
-   turn reads that way in all three published files. Worth a listen when ep45 comes up.
+## Waiting on the camera pass, not on the owner
+
+- **ep45 `[34:14] Farhan (Pa'an): Tak tahu, Pa'an punya pandangan?`** The block is labelled
+  Farhan and the words address Pa'an, who IS Farhan, so one of the two is wrong. Do not spend
+  the owner's time on it: ep45 has no camera reference yet, and when the corpus pass builds
+  one the camera will say who was on screen at that moment. Re-check this line then. The same
+  turn reads that way in all three published files, which are regenerated anyway.

@@ -129,7 +129,9 @@ def _matches(text):
 
 # The ASR writes a dictated decimal as a word: raw's `Facebook 3 point 3 juta` is the
 # published `Facebook 3.3 juta`. Without this, ep49 was flagged for a figure spoken aloud.
-SPOKEN_POINT = re.compile(r"(\d)\s*(?:point|titik)\s*(\d)", re.I)
+SPOKEN_POINT = re.compile(r"(\d)\s*(?:point|titik)[.,]?\s*(\d)", re.I)
+# The optional [.,] is MAI's spelling: ep59 raw reads "9 point.8 billion" for a spoken
+# "nine point eight billion", and without it the published "9.8 bilion" read as unsourced.
 # The ASR also breaks a decimal across a space, reading the point as a full stop: ep45's raw
 # says `Rakyat Malaysia 32. 2 juta` for the published `32.2 juta`. Deliberately narrow --
 # it only fires when a scale word follows, so it can never fuse `4.5 bilion` into `45`.
