@@ -100,9 +100,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Wan Afiq:** Hopefully not. This is from when — during the demo the other day — a reporter asked him, aren't you going to the demo? He said he wasn't invited.
 
-**Multiple speakers:** Why does his face look like Jamal Abdillah? Haa... understood... want to... ask.
-
-**Multiple speakers:** I want to ask him to share his skincare routine.
+**Multiple speakers:** Why does his face look like Jamal Abdillah? Haa... understood... want to... ask. I want to ask him to share his skincare routine.
 
 **Rafizi:** He looks different, looks a bit younger. You all always mock his red eyes, then he wears shades — sorry, can't see his eyes anymore. But he's stylish there. There's nothing — what's this — "I will not gather in front of Sogo after my service ends." This is because people asked him, is he joining the demo...
 

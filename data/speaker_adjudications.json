@@ -425,11 +425,6 @@
       "text_now": "Um. Tan Sri Ahmad Badri.",
       "note": "owner by ear; Rafizi answers at 35:45"
     },
-    "1:08:44": {
-      "who": "Haziq",
-      "text_now": "Ha ha ha ha ha.",
-      "note": "owner by ear: Haziq laughs, Rafizi slips in at 1:08:45"
-    },
     "1:11:54": {
       "who": "Rafizi",
       "text_now": "Because, you know, um, uh, sekarang dah lebih kurang",
@@ -479,6 +474,11 @@
       "who": "Haziq",
       "text_now": "Dan start minggu depan akan ada tangkapan.",
       "note": "owner by ear: Farhan tried to slip in, Haziq kept the floor"
+    },
+    "_removed_1:08:44": {
+      "who": "Haziq",
+      "text_now": "Ha ha ha ha ha.",
+      "note": "owner by ear: Haziq laughs, Rafizi slips in at 1:08:45 | REMOVED 2026-09-10 by the owner's rule that grunts and laughs leave the raw (strip_filler_turns.py); the decision stands on record, the block no longer exists."
     }
   }
 }

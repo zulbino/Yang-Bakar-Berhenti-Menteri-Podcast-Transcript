@@ -4210,3 +4210,20 @@ correct).
 Cost of the episode: about $8 on the Claude seat -- 31 mixed calls, 55 translation calls, one
 metadata call. Baselines after: qa 0/69, check_figures 0/69, check_published 0 on ep62,
 check_rewrite_complete ok (en 1.08, ms 0.99 of interview.md).
+
+**Addendum, the same evening.** The owner read the result and asked two things the gate does
+not measure. Why does a speaker's turn break into a dozen paragraphs -- because MAI's raw is
+one block per phrase and the rewrite kept the structure one to one; every earlier episode
+came from long local-ASR blocks and never showed it. And why does the interview still carry
+"Ya.", "Hmm." and "Uh," -- because the prompt asked for smoothing and the model did a little.
+Both are now rules with tools behind them (`clean_interview.py`, `merge_adjacent_turns.py`),
+run inside `--write`: ep62's interview went 1,100 -> 382 turns, 49 retort turns and 678 filler
+words gone, every other word asserted in place. raw.md lost its 544 grunt blocks the same way
+(`strip_filler_turns.py`), which also removed the block one owner decision named (1:08:44, a
+laugh); the record notes it.
+
+One more class surfaced while reading: 56 short turns whose words repeat the neighbouring
+speaker's -- Haziq: "Ringgit." after Rafizi's "15,000 ringgit". The caption track, an
+independent transcription, has the phrase twice for 40 of them: the co-host echoing the last
+word is a habit of the show, not a duplication. 16 have no caption witness either way and are
+left as MAI heard them (two voice clusters, distinct word times).

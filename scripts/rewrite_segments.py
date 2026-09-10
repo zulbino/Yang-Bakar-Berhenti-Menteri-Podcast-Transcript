@@ -321,7 +321,11 @@ def write_episode(episode, workdir, count, clean_model):
     from transcribe_episode import episode_common_fields
     import lib_claude_rewrite
 
-    bodies = {stage: stitch(workdir, stage, count) for stage in STAGES}
+    from clean_interview import clean_body
+    # Owner's rule (2026-09-10): the published interview reads like newspaper copy -- no
+    # retort turns ("Ya.", "Hmm."), no filler words, a speaker's consecutive turns joined.
+    # raw.md is the verbatim layer and keeps its phrase-level blocks.
+    bodies = {stage: clean_body(stitch(workdir, stage, count))[0] for stage in STAGES}
     # The model recorded in the frontmatter is the one that WROTE the segments, read from
     # their reports -- not whatever --model happened to be on the --write invocation. ep62's
     # first write stamped Haiku on Sonnet's text that way.

@@ -40,51 +40,31 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri episod ke-62. Macam biasa bersama saudara Rafizi Ramli.
 
-**Rafizi:** Dan juga Chopper yang sebelum ini dia yang duduk kat kerusi ni, tau.
-
-**Haziq:** Ya.
-
-**Rafizi:** Lama kita nak kena pujuk dia pergi kan. Dia tak nak pergi. Ha, saya duduk-duduk kerusi ni dah panas dah. Lama mana dah duduk kat sini.
+**Rafizi:** Dan juga Chopper yang sebelum ini dia yang duduk kat kerusi ni, tau. Lama kita nak kena pujuk dia pergi kan. Dia tak nak pergi. Ha, saya duduk-duduk kerusi ni dah panas dah. Lama mana dah duduk kat sini.
 
 **Haziq:** Dia tak sihat kan?
 
-**Rafizi:** Apparently dia demam kan?
-
-**Rafizi:** Tapi—
-
-**Rafizi:** Tak baik lagi.
-
-**Rafizi:** Kucing lain pun demam juga, tapi tak adalah merengek macam tu.
+**Rafizi:** Apparently dia demam kan? Tapi— Tak baik lagi. Kucing lain pun demam juga, tapi tak adalah merengek macam tu.
 
 **Haziq:** Tak cukup kasih sayang dari Pa'an?
 
 **Rafizi:** Ha, tu lah. Tapi dia nampak kurus kan?
 
-**Haziq:** Dia dah.
-
-**Haziq:** Aku bimbang juga.
+**Haziq:** Dia dah. Aku bimbang juga.
 
 **Farhan (Pa'an):** Dua minggu demam, tau.
 
-**Rafizi:** Lamanya demam?
-
-**Rafizi:** Lamanya.
+**Rafizi:** Lamanya demam? Lamanya.
 
 **Farhan (Pa'an):** Selsema. Tak tahu kenapa.
 
-**Rafizi:** Sebab apa? Sebab air con lama?
-
-**Rafizi:** Jerebu.
-
-**Rafizi:** Air con. Hah?
-
-**Rafizi:** Jerebu.
+**Rafizi:** Sebab apa? Sebab air con lama? Jerebu. Air con. Hah? Jerebu.
 
 **Haziq:** Dia bukan keluar pun.
 
 **Rafizi:** Dia bukan keluar pun, ha. Allah. Okey, aku takut dia mengalami perubahan persekitaran daripada Perlis.
 
-**Haziq:** Haah, Perlis.
+**Haziq:** Perlis.
 
 **Rafizi:** Datang kat sini, dia apa nama ni, tertekan. Tak tahulah. Apa pun, okey. Malam ini pasal FELDA.
 
@@ -92,213 +72,87 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Sebab tu kita kena cakap pasal Chopper dulu, sebab akan ramai orang yang berbulu malam ini.
 
-**Haziq:** Okey, jadi kita akan mula dengan beria.
-
-**Haziq:** Cuma mungkin kita cuba cepatkanlah.
-
-**Haziq:** Supaya YB boleh cakap panjang-panjang pasal FELDA.
+**Haziq:** Okey, jadi kita akan mula dengan beria. Cuma mungkin kita cuba cepatkanlah. Supaya YB boleh cakap panjang-panjang pasal FELDA.
 
 **Rafizi:** Kita panjang pasal FELDA ni. FELDA ini cerita dia sepanjang dan sepanas Tabung Haji.
 
 **Haziq:** Ah, okey. Baik, baik, baik.
 
-**Rafizi:** Dan seperti biasa, aa saya ambil masa untuk semak semua aa unjuran-unjuran tu. Aa sebab aku ni seorang pelajar perakaunan yang kiasu. Nak tengok unjuran tu betul-betul ke tidak kan.
+**Rafizi:** Dan seperti biasa, saya ambil masa untuk semak semua unjuran-unjuran tu. Sebab aku ni seorang pelajar perakaunan yang kiasu. Nak tengok unjuran tu betul-betul ke tidak kan.
 
-**Haziq:** Ha, okey, okey, okey. Baik, baik, baik. Kita start dulu.
-
-**Haziq:** Beria. Kita tengok beria pertama minggu ni. Keselamatan tak apa, yang penting gaya. Walaupun tak tahu jalan dekat mana, tak boleh tahu.
-
-**Haziq:** Tapi dah disahkan ini betul.
-
-**Haziq:** Bukan AI.
+**Haziq:** Ha, okey, okey, okey. Baik, baik, baik. Kita start dulu. Beria. Kita tengok beria pertama minggu ni. Keselamatan tak apa, yang penting gaya. Walaupun tak tahu jalan dekat mana, tak boleh tahu. Tapi dah disahkan ini betul. Bukan AI.
 
 **Rafizi:** Polis dah buat kenyataan ke? Tak pergi tangkap ke apa?
 
-**Haziq:** Tak dengar apa-apa respons daripada yang ini.
+**Haziq:** Tak dengar apa-apa respons daripada yang ini. Mungkin sebab kurang viral berbanding yang selepas ini.
 
-**Haziq:** Mungkin sebab kurang viral berbanding yang selepas ini.
-
-**Rafizi:** Saya harap selepas ini, selepas dia keluar apa ni, uh, podcast ni, uh, kalau boleh adik-adik ini pergi serah diri lah.
-
-**Rafizi:** Sebelum kena tangkap ke apa kan.
+**Rafizi:** Saya harap selepas ini, selepas dia keluar apa ni, podcast ni, kalau boleh adik-adik ini pergi serah diri lah. Sebelum kena tangkap ke apa kan.
 
 **Haziq:** Dia kata sekejap sahaja.
 
-**Rafizi:** Taklah. Dia bercerita pasal sekejap dan kemalangan jalan raya ini kan. Semasa saya muda dahulu, pandangan saya tentang perkara ini sangat berlainan. Semasa saya muda dahulu, saya adalah kawan kepada anak orang kaya. Jadi, kereta pertama dia adalah kereta mahal kan. Aku balik UK, kereta pertama aku, aku pakai kereta bapa aku yang dah 7 8 tahun. Jadi aku cakaplah, alah, kereta ni kereta je, asalkan dia boleh jalan. Kenapa nak habiskan duit atas kereta yang lagi mahal, kereta mahal, di usia muda-muda begini. Jadi kau tahulah macam mana aku ni.
-
-**Rafizi:** Uh, aku ingat itu adalah antara satu hujah yang walaupun aku tak mengaku dengan dia, kalau dia tengok sekarang kawan aku tu dia tahulah walaupun aku tak mengaku dengan dia yang dia betul, tapi kerana aku rasa dia betul, ia melekat sampai aku tua tau.
-
-**Haziq:** Faham.
-
-**Rafizi:** Jawapan dia mudah sahaja. Dia kata orang beli kereta mahal kalau mampu, bukanlah sebab dia nak menunjuk-nunjuk, tetapi nyawa di atas jalan dengan kereta itu adalah soal saat, 2 3 saat sahaja. Jadi kalau kereta itu mempunyai brek yang lebih baik, kawalan stereng yang lebih baik, semuanya lebih baik.
-
-**Rafizi:** Sebenarnya itu adalah nyawa dia. Jadi dia beri sebab itu — soal saat sahaja. Ah, samalah macam ini. Kalau dia kata sekejap sahaja, sebenarnya kalau nak jadi apa-apa, ia adalah soal saat sahaja. Tetapi ia tidak bertimbang rasa dan um saya, saya rasa dia flaunting the rule sangat-sangat. Dan kadang-kadang ini juga perangai orang kita yang mempunyai rasa entitlement dan mementingkan diri, dia tak kisah tentang orang lain tau. Kehendak dia, dia nak buat kandungan. Apa nak jadi pun ta-
+**Rafizi:** Taklah. Dia bercerita pasal sekejap dan kemalangan jalan raya ini kan. Semasa saya muda dahulu, pandangan saya tentang perkara ini sangat berlainan. Semasa saya muda dahulu, saya adalah kawan kepada anak orang kaya. Jadi, kereta pertama dia adalah kereta mahal kan. Aku balik UK, kereta pertama aku, aku pakai kereta bapa aku yang dah 7 8 tahun. Jadi aku cakaplah, alah, kereta ni kereta je, asalkan dia boleh jalan. Kenapa nak habiskan duit atas kereta yang lagi mahal, kereta mahal, di usia muda-muda begini. Jadi kau tahulah macam mana aku ni. Aku ingat itu adalah antara satu hujah yang walaupun aku tak mengaku dengan dia, kalau dia tengok sekarang kawan aku tu dia tahulah walaupun aku tak mengaku dengan dia yang dia betul, tapi kerana aku rasa dia betul, ia melekat sampai aku tua tau. Jawapan dia mudah sahaja. Dia kata orang beli kereta mahal kalau mampu, bukanlah sebab dia nak menunjuk-nunjuk, tetapi nyawa di atas jalan dengan kereta itu adalah soal saat, 2 3 saat sahaja. Jadi kalau kereta itu mempunyai brek yang lebih baik, kawalan stereng yang lebih baik, semuanya lebih baik. Sebenarnya itu adalah nyawa dia. Jadi dia beri sebab itu — soal saat sahaja. Ah, samalah macam ini. Kalau dia kata sekejap sahaja, sebenarnya kalau nak jadi apa-apa, ia adalah soal saat sahaja. Tetapi ia tidak bertimbang rasa dan saya, saya rasa dia flaunting the rule sangat-sangat. Dan kadang-kadang ini juga perangai orang kita yang mempunyai rasa entitlement dan mementingkan diri, dia tak kisah tentang orang lain tau. Kehendak dia, dia nak buat kandungan. Apa nak jadi pun ta-
 
 **Haziq:** Tak apa. Jadi serahlah diri kepada polis. Okey, baik. Itu yang pertama.
 
 **Rafizi:** Itu PDRM memang selalu kutip budak macam ini kalau video viral. Ah, ah, Meta kata, Meta kata PDRM memang selalu kutip. Jadi tolonglah viralkan.
 
-**Haziq:** Okey. Yang ini yang pertama, Fabi. Ah, mari tengok yang kedua. Yang ini berlaku pada malam perarakan kemerdekaan.
+**Haziq:** Okey. Yang ini yang pertama, Fabi. Ah, mari tengok yang kedua. Yang ini berlaku pada malam perarakan kemerdekaan. Tapi lelaki yang menyetuskan kontroversi tu dah kena kutip lah. Dia basically ajak yang lain sekali tu untuk masuk sekalilah. Tak boleh bersabar untuk masuk. Jadi yang lain pun panjat sekali.
 
-**Haziq:** Tapi lelaki yang menyetuskan kontroversi tu dah kena kutip lah. Dia basically ajak yang lain sekali tu untuk masuk sekalilah. Tak boleh bersabar untuk masuk. Jadi yang lain pun panjat sekali.
-
-**Rafizi:** Yalah, saya tengok tiba-tiba satu hari tu dia trending dekat Threads kan.
-
-**Haziq:** Ya.
-
-**Rafizi:** Orang kata kepala perusuh menghasut untuk merusuh. Dan tu orang kata apa nama ni, uh, ikut hati mati, ikut rasa binasa. Ha ni nak ikut apa ni?
+**Rafizi:** Yalah, saya tengok tiba-tiba satu hari tu dia trending dekat Threads kan. Orang kata kepala perusuh menghasut untuk merusuh. Dan tu orang kata apa nama ni, ikut hati mati, ikut rasa binasa. Ha ni nak ikut apa ni?
 
 **Haziq:** Tapi YB tak rasa ke mungkin untuk improvement akan datang ni daripada ramai-ramai beratur ni mungkin kena buat pre-registration ke supaya menjimatkan masa semua orang.
 
 **Rafizi:** Saya ingat tak mudah lah kot. Sebab the crowd yang hadir ni saya ingat berapa? 100,000, 200,000.
 
-**Haziq:** Hmm. 1,000.
+**Haziq:** 1,000.
 
 **Rafizi:** 100,000, 100,000.
 
 **Haziq:** Secara bertebaran lah.
 
-**Rafizi:** Ha, tempat duduk yang kalau pre-registration tu maksudnya untuk dapat seat lah kan.
-
-**Rafizi:** Tapi dapat seat tu berapa je?
+**Rafizi:** Ha, tempat duduk yang kalau pre-registration tu maksudnya untuk dapat seat lah kan. Tapi dapat seat tu berapa je?
 
 **Haziq:** Tak banyak.
 
-**Rafizi:** Tak banyaklah kan. Jadi dia akan menimbulkan masalah baru kerana nanti ada orang jual tiket.
-
-**Rafizi:** Orang pakai ulat lah semua segalanya ni kan. Tapi yalah tu dia kan. Orang datang awal duduk kan. Yalah kita hormatilah. Ada sebablah kalau polis kata hanya boleh masuk pukul 7.
-
-**Rafizi:** Kan. So dia banyak pertimbangan keselamatan untuk perarakan di Putrajaya ni.
-
-**Rafizi:** Contohnya pejabat saya dulu tu betul-betul dekat sangat dengan pentas utama ni lah.
-
-**Rafizi:** Pentas utama dia depan Palace of Justice kan?
-
-**Haziq:** Betul.
-
-**Rafizi:** Ha, so pejabat saya tu lebih kurang aa, apa, 5 o'clock.
-
-**Rafizi:** Lebih kurang 100 meter je daripada tu kan. So, tapi kami tak dibenarkan untuk masuk ke pejabat pun.
-
-**Rafizi:** Ha, sebab atas keselamatan lah, takut ada sniper ke apa semua.
+**Rafizi:** Tak banyaklah kan. Jadi dia akan menimbulkan masalah baru kerana nanti ada orang jual tiket. Orang pakai ulat lah semua segalanya ni kan. Tapi yalah tu dia kan. Orang datang awal duduk kan. Yalah kita hormatilah. Ada sebablah kalau polis kata hanya boleh masuk pukul 7. Kan. So dia banyak pertimbangan keselamatan untuk perarakan di Putrajaya ni. Contohnya pejabat saya dulu tu betul-betul dekat sangat dengan pentas utama ni lah. Pentas utama dia depan Palace of Justice kan? Ha, so pejabat saya tu lebih kurang apa, 5 o'clock. Lebih kurang 100 meter je daripada tu kan. So, tapi kami tak dibenarkan untuk masuk ke pejabat pun. Ha, sebab atas keselamatan lah, takut ada sniper ke apa semua.
 
 **Haziq:** Jadi pada hari kejadian, siapa-siapa yang kerja kat sekeliling tu sebenarnya tak boleh masuk pun.
 
 **Rafizi:** Tak boleh masuk. Ha, tak boleh masuk. Kami pun tak boleh masuk. So, saya yang menteri pun sebenarnya kalau nak bawa kawan ke apa, kami kena beratur datang ramai macam ni lah. Sebab jemputan itu hanya kepada saya.
 
-**Haziq:** Ya. Itu pun Tun M pun duduk kat tepi jalan.
+**Haziq:** Ya. Itu pun Tun M pun duduk kat tepi jalan. Itu cerita lain lah.
 
-**Haziq:** Itu cerita lain lah.
-
-**Rafizi:** Jadi, yalah, tak tahu macam mana polis nak, aku pun tak tahu polis kat IPD Putrajaya tu masa panggil dia untuk ambil keterangan. Dia orang nak gelak pun ada, dia nak sekeh pun ada. Tapi sebenarnya benda-benda macam ni, mungkin kita gelak atau ambil mudah lah kan kalau tengok. Ada orang yang tag aku, masukkan dalam beria.
-
-**Rafizi:** Jadi kita dah masukkan dalam beria.
+**Rafizi:** Jadi, yalah, tak tahu macam mana polis nak, aku pun tak tahu polis kat IPD Putrajaya tu masa panggil dia untuk ambil keterangan. Dia orang nak gelak pun ada, dia nak sekeh pun ada. Tapi sebenarnya benda-benda macam ni, mungkin kita gelak atau ambil mudah lah kan kalau tengok. Ada orang yang tag aku, masukkan dalam beria. Jadi kita dah masukkan dalam beria.
 
 **Haziq:** Beria.
 
-**Rafizi:** Beria tu kan. Cuma crowd control ni ialah sesuatu yang kita mungkin ambil mudah sebagai orang perseorangan lah. Ini daripada pengalaman saya yang pernah menjadi pengelola dan penganjur demonstrasi. Ha kan. Crowd control tu mungkinlah bagi kita benda yang kita tengok daripada sudut pandang kita saja kan. Tapi untuk mereka yang bertanggungjawab kepada keselamatan kan, rempuhan ni kalau jadi kan, dan bila dah ada dalam puluh ribu orang tu, memang crowd control menjadi sangat penting kerana untuk mengelakkan rempuhan.
+**Rafizi:** Beria tu kan. Cuma crowd control ni ialah sesuatu yang kita mungkin ambil mudah sebagai orang perseorangan lah. Ini daripada pengalaman saya yang pernah menjadi pengelola dan penganjur demonstrasi. Ha kan. Crowd control tu mungkinlah bagi kita benda yang kita tengok daripada sudut pandang kita saja kan. Tapi untuk mereka yang bertanggungjawab kepada keselamatan kan, rempuhan ni kalau jadi kan, dan bila dah ada dalam puluh ribu orang tu, memang crowd control menjadi sangat penting kerana untuk mengelakkan rempuhan. Ah, jadi sebab itu sepatutnya yalah bila pergi tu, tak perlulah sampai jadi macam ni. Ni kali pertama kot berlaku. Ha, tak pernah dengar. Tak pernah dengar kan. Dia bukanlah sangat siapa yang nak berebut. Kita kena fikir orang lain lah, sebab malang tidak berbau. So kalau ada rempuhan ke apa, wad, yalah, yang cerita Hari Merdeka ni satu hal lah, tapi nyawa orang lain. Kalau yang kena pijak tu budak. Kan.
 
-**Rafizi:** Ah, jadi sebab itu sepatutnya yalah bila pergi tu, tak perlulah sampai jadi macam ni. Ni kali pertama kot berlaku.
+**Haziq:** Okey, baik Wiwi. Kita tengok next. Rare, susut akhbar menteri serang kementerian lain.
 
-**Rafizi:** Ha, tak pernah dengar.
-
-**Rafizi:** Tak pernah dengar kan. Dia bukanlah sangat siapa yang nak berebut. Kita kena fikir orang lain lah, sebab malang tidak berbau.
-
-**Rafizi:** So kalau ada rempuhan ke apa, wad, yalah, yang cerita Hari Merdeka ni satu hal lah, tapi nyawa orang lain. Kalau yang kena pijak tu budak.
-
-**Rafizi:** Kan.
-
-**Haziq:** Okey, baik Wiwi. Uh, kita tengok next. Rare, susut akhbar menteri serang kementerian lain.
-
-**Rafizi:** Uh, yang ini saya sebenarnya nak buat content semalam, tapi tak sempatlah, saya sibuk baca falsafah, study semua kan. Saya nak buat content mudah je reaksi saya: get a room. Please get a room. Ni, inilah fungsi satu perkara ataupun satu badan yang dipanggil jemaah menteri. Kalaupun sepatutnya yang berlaku ialah Timbalan Perdana Menteri yang tidak berpuas hati tu pergi berjumpa dengan Perdana Menteri.
-
-**Rafizi:** Anda selesaikanlah, anda berbincanglah kenapa kan?
-
-**Rafizi:** Kalaupun benda tu tak boleh berlaku, paling kurang Ketua Setiausaha Kementerian KKDW
-
-**Rafizi:** pergi duduk dan mesyuarat secara rasmi diminitkan
-
-**Rafizi:** dengan Ketua Setiausaha Perbendaraan, KSP kan?
-
-**Rafizi:** Dan selepas benda itu berlaku, kalau nampak tak selesai juga, dibawa ke jemaah menteri kan. Tapi ini dah memang bertukar-tukar serang. Ini proxy lah, serang-menyerang.
+**Rafizi:** Yang ini saya sebenarnya nak buat content semalam, tapi tak sempatlah, saya sibuk baca falsafah, study semua kan. Saya nak buat content mudah je reaksi saya: get a room. Please get a room. Ni, inilah fungsi satu perkara ataupun satu badan yang dipanggil jemaah menteri. Kalaupun sepatutnya yang berlaku ialah Timbalan Perdana Menteri yang tidak berpuas hati tu pergi berjumpa dengan Perdana Menteri. Anda selesaikanlah, anda berbincanglah kenapa kan? Kalaupun benda tu tak boleh berlaku, paling kurang Ketua Setiausaha Kementerian KKDW pergi duduk dan mesyuarat secara rasmi diminitkan dengan Ketua Setiausaha Perbendaraan, KSP kan? Dan selepas benda itu berlaku, kalau nampak tak selesai juga, dibawa ke jemaah menteri kan. Tapi ini dah memang bertukar-tukar serang. Ini proxy lah, serang-menyerang.
 
 **Haziq:** Serang-menyerang.
 
 **Rafizi:** Di antara dua. Tapi mungkin belum pernah lagi berlaku dalam sejarah kerajaan ini, yang mana setiausaha akhbar dan setiausaha politik dalam satu kerajaan saling keluar mengeluarkan kenyataan media.
 
-**Haziq:** Iya.
+**Haziq:** Iya. Dan menyerang, yalah, penjawat awam dan juga kementerian lain.
 
-**Haziq:** Dan menyerang, yalah, penjawat awam dan juga kementerian lain.
-
-**Rafizi:** Besar pasak daripada tiang. Jahanam negara macam ini.
-
-**Rafizi:** Wah.
+**Rafizi:** Besar pasak daripada tiang. Jahanam negara macam ini. Wah.
 
 **Haziq:** Tapi Babi.
 
 **Farhan (Pa'an):** Ramai-ramai orang buat komen. Dia kata kan sebelum ni bukan main lagi berpeluk-peluk semua tu kan. Sekarang dah mula bertikam lidah pula.
 
-**Rafizi:** Ya, ya. Tapi boleh peluk balik lepas ni.
-
-**Rafizi:** Dengan syarat sokong aku.
+**Rafizi:** Ya, ya. Tapi boleh peluk balik lepas ni. Dengan syarat sokong aku.
 
 **Haziq:** Ramai yang tanya, memang macam ni ke cara menguruskan kewangan negara? Maksudnya, dah ada peruntukan, tapi berbelanja tu boleh lebih daripada apa yang dah diperuntukkan sebelum.
 
-**Rafizi:** Sebenarnya itulah bagus cakap soalan ni kan.
+**Rafizi:** Sebenarnya itulah bagus cakap soalan ni kan. Aku pun tak sempat nak tanya sebab sebenarnya tak boleh. Jadi saya tak tahu. Ya na. Sebab tu aku kata get a room. Ha, sebabnya kalau ikut proses dia, kalau satu projek tu kos dia katakanlah 100 juta kan. Yang diluluskan oleh Kementerian Ekonomi 100 juta. Dan kos itu yang membayar itu, tender semua tu — sebaik sahaja anda dah luluskan 100 juta oleh Kementerian Ekonomi, maka tender perolehan itu berdasarkan kos itulah. Dan Kementerian Kewangan membayar berdasarkan kepada tender, apa nama, progress payment semua tu lah kan. Dia ada standard procedure dia. Kalau dah kos overrun, dia kena pergi notice of change. Ha, dia kena menulis kepada Kementerian Ekonomi dan mendapat kelulusan Kementerian Ekonomi. Ha, cuma dia jadi tricky lah kerana benda tu katakanlah 80% dah siap. Tiba-tiba ada cost overrun semua kan dan dia jadi tinggi. Selalunya kementerian akan cuba menguruskan supaya dia tak perlu datang mengadap Kementerian Ekonomi. Kena menteri macam aku. Zaman aku dulu memang itu yang kadang-kadang orang tak suka aku. Itu yang notice of change yang dulu jadi isu dengan kerajaan negeri Kedah tu. Kan? Dia nak buat, nak beli tanah, untuk besarkan Kulim High Tech Park kan. Jadi perkara itu telah, memang peruntukan diluluskan. Ha. So, cuma masa dia buat permohonan tu kan — ni nak bagi gambaran macam mana yang Haziq tanya tadi tentang kawalan kos dalam kerajaan kan — masa dia buat permohonan itu, dia nak beli tanah lain pada harga lain. Ha, jadi tiba-tiba dah diluluskan semua tu. Yang itu tak jadi, nak beli yang ini pula. Kemudian ada bertukar-tukar semualah. Dan, apa nama ni, Kulim High Tech Park itu sebahagian daripada Perbadanan Kemajuan Ekonomi Negeri Kedah. Yang dia kuasai bertanggungjawab melapor kepada Kementerian Ekonomi kan. So, aku tak bagi notice of change. Ha, yang itu yang kata menteri tak luluskan, menteri tak luluskan. Memang aku tak lulus. Dulu — bukan sebelum zaman aku pun — dulu kau cakap nak buat benda lain. Lepas tu dah luluskan benda tu, nak buat benda lain. So konsep dia sama. Kalau kata dia mesti spesifik untuk projek ini, spec dia banyak ini, jumlah dia banyak ini, tempoh dia banyak ini — kau lari, kau kena datang balik ke Kementerian Ekonomi. Jadi yang ini ni saya tak tahu, bila dia kata, oh, ni dah cost overrun semua, sebab tu kita tak nak bayar ke apa. Well, malas nak cakap, tapi Kementerian Ekonomi bagus, dia duk diam. Malas nak tanya Akmal kan. Akmal kata tak apalah, get a room. I don't belong in that room. Betul, betul.
 
-**Rafizi:** Aku pun tak sempat nak tanya sebab sebenarnya tak boleh. Jadi saya tak tahu. Ya na. Sebab tu aku kata get a room.
+**Haziq:** Okey, baik baby. Kita tengok next. Ah, bercakap tentang mereka, Baby. Ah, bila dah bergaduh ni, disuruhlah buka balik kes 47 kes ni. Sama ada dari Ceplos ataupun dari ahli parlimen backbencher.
 
-**Rafizi:** Ha, sebabnya kalau ikut proses dia, kalau satu projek tu kos dia katakanlah 100 juta kan.
-
-**Rafizi:** Yang diluluskan oleh Kementerian Ekonomi 100 juta.
-
-**Rafizi:** Dan kos itu yang membayar itu, tender semua tu — sebaik sahaja anda dah luluskan 100 juta oleh Kementerian Ekonomi, maka tender perolehan itu berdasarkan kos itulah.
-
-**Rafizi:** Dan Kementerian Kewangan membayar berdasarkan kepada tender, apa nama, progress payment semua tu lah kan.
-
-**Rafizi:** Dia ada standard procedure dia. Kalau dah kos overrun, dia kena pergi notice of change.
-
-**Haziq:** Ha ha ha ha ha, betul.
-
-**Rafizi:** Ha, dia kena menulis kepada Kementerian Ekonomi dan mendapat kelulusan Kementerian Ekonomi.
-
-**Rafizi:** Ha, cuma dia jadi tricky lah kerana benda tu katakanlah 80% dah siap.
-
-**Rafizi:** Tiba-tiba ada cost overrun semua kan dan dia jadi tinggi.
-
-**Rafizi:** Selalunya kementerian akan cuba menguruskan supaya dia tak perlu datang mengadap Kementerian Ekonomi.
-
-**Rafizi:** Kena menteri macam aku.
-
-**Rafizi:** Zaman aku dulu memang itu yang kadang-kadang orang tak suka aku.
-
-**Rafizi:** Itu yang notice of change yang dulu jadi isu dengan kerajaan negeri Kedah tu.
-
-**Rafizi:** Kan? Dia nak buat, nak beli tanah, uh, untuk besarkan Kulim High Tech Park kan. Jadi perkara itu telah, uh, memang peruntukan diluluskan. Ha. So, cuma masa dia buat permohonan tu kan — ni nak bagi gambaran macam mana yang Haziq tanya tadi tentang kawalan kos dalam kerajaan kan — masa dia buat permohonan itu, dia nak beli tanah lain pada harga lain.
-
-**Rafizi:** Ha, jadi tiba-tiba dah diluluskan semua tu. Eh, yang itu tak jadi, nak beli yang ini pula. Kemudian ada bertukar-tukar semualah.
-
-**Rafizi:** Dan, apa nama ni, Kulim High Tech Park itu sebahagian daripada Perbadanan Kemajuan Ekonomi Negeri Kedah.
-
-**Rafizi:** Yang dia kuasai bertanggungjawab melapor kepada Kementerian Ekonomi kan. So, aku tak bagi notice of change. Ha, yang itu yang kata menteri tak luluskan, menteri tak luluskan. Memang aku tak lulus. Dulu — bukan sebelum zaman aku pun — dulu kau cakap nak buat benda lain.
-
-**Rafizi:** Lepas tu dah luluskan benda tu, nak buat benda lain. So konsep dia sama. Kalau kata dia mesti spesifik untuk projek ini, spec dia banyak ini, jumlah dia banyak ini, tempoh dia banyak ini — kau lari, kau kena datang balik ke Kementerian Ekonomi.
-
-**Rafizi:** Jadi yang ini ni saya tak tahu, bila dia kata, oh, ni dah cost overrun semua, sebab tu kita tak nak bayar ke apa. Well, malas nak cakap, tapi Kementerian Ekonomi bagus, dia duk diam. Malas nak tanya Akmal kan. Akmal kata tak apalah, get a room. I don't belong in that room. Betul, betul.
-
-**Haziq:** Okey, baik baby.
-
-**Haziq:** Kita tengok next. Ah, bercakap tentang mereka, Baby.
-
-**Haziq:** Ah, bila dah bergaduh ni, disuruhlah buka balik kes 47 kes ni.
-
-**Haziq:** Sama ada dari Ceplos ataupun dari ahli parlimen backbencher.
-
-**Rafizi:** Oh, yang mana? Yang ini masa dia puji.
-
-**Rafizi:** Ini masa dia puji Zahid Hamidi.
-
-**Rafizi:** Wah, layak.
+**Rafizi:** Oh, yang mana? Yang ini masa dia puji. Ini masa dia puji Zahid Hamidi. Wah, layak.
 
 **Haziq:** Bapa Tahfiz Negara.
 
@@ -306,111 +160,49 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Jangan main-main.
 
-**Rafizi:** Sekarang ni dia suruh.
+**Rafizi:** Sekarang ni dia suruh. Sekarang ni tolonglah jangan bagi nama apa-apa bapa, bapa. Kita dah, dah ke zaman millennium baru kan. Tak ada dah bapa-bapa ni kan. So yang ini suruh buka balik. Ya. Parti 7 baru. Alang-alang dah main api perlahan-lahan ni, bakar terus je kelambu. Ah, kalau saya jadi Zahid, saya kata boleh. Ah, tapi engkau tak ada dalam allowance J-KOM, J-KOM kau tu. Yang ini yang Anwar pun, ayah macam mana nak budak-budak ni? Saya sebenarnya main api perlahan-lahan ni sebab saya tak nak lah terbakar terus. Saya masih nak jadi Perdana Menteri. Tapi yalah, saya pun yang ini yang masalah Ceplos. Yalah ni Ceplos lah kan. Ni yang masalah yang Ceplos yang datang selepas menang kan. Dia tak terfikir ke, dalam pada masa yang sama dia duk lambung Datuk Seri Anwar, PKR sebagai yalah walk the talk. Oh, kita perangi semua penyakau semua ni kan. Bila dia kata macam itu, dia juga okey kalau sebenarnya kes-kes ini dibuka ditutup bergantung kepada strategi politik. Ha kan. So, orang yang betul-betul reformist ni, yang ada minda reform ni, benda tu tak boleh diterima langsung tau. Tapi yalah, itulah ketidakadilan yang ada sekarang ni.
 
-**Rafizi:** Sekarang ni tolonglah jangan bagi nama apa-apa bapa, bapa. Kita dah, dah ke zaman millennium baru kan. Tak ada dah bapa-bapa ni kan. So yang ini suruh buka balik.
-
-**Rafizi:** Ya.
-
-**Rafizi:** Parti 7 baru.
-
-**Rafizi:** Alang-alang dah main api perlahan-lahan ni, bakar terus je kelambu. Ah, kalau saya jadi Zahid, saya kata boleh. Ah, tapi engkau tak ada dalam allowance J-KOM, J-KOM kau tu. Yang ini yang Anwar pun, ayah macam mana nak budak-budak ni? Saya sebenarnya main api perlahan-lahan ni sebab saya tak nak lah terbakar terus. Saya masih nak jadi Perdana Menteri. Tapi yalah, saya pun yang ini yang masalah Ceplos. Yalah ni Ceplos lah kan. Ni yang masalah yang Ceplos yang datang selepas menang kan. Dia tak terfikir ke, dalam pada masa yang sama dia duk lambung Datuk Seri Anwar, PKR sebagai yalah walk the talk. Oh, kita perangi semua penyakau semua ni kan. Bila dia kata macam itu, dia juga okey kalau sebenarnya kes-kes ini dibuka ditutup bergantung kepada strategi politik.
-
-**Rafizi:** Ha kan. So, orang yang betul-betul reformist ni, yang ada minda reform ni, benda tu tak boleh diterima langsung tau. Tapi yalah, itulah ketidakadilan yang ada sekarang ni.
-
-**Haziq:** Yalah.
-
-**Haziq:** Okey, dan seorang lagi lah.
-
-**Haziq:** Okey, baik. Kita pergi ke topik seterusnya. Dana berbilion ringgit dirampas dikembalikan kepada rakyat, kata Anwar.
+**Haziq:** Yalah. Okey, dan seorang lagi lah. Okey, baik. Kita pergi ke topik seterusnya. Dana berbilion ringgit dirampas dikembalikan kepada rakyat, kata Anwar.
 
 **Rafizi:** Ini yang mana ni? Yang apa kenyataan baru ni ke?
 
-**Haziq:** Haah. Ini yang dibangkitkan oleh Yi Leong lah, bekas calon kita dekat PRN Johor itu. Bukan ini memang dah obvious ke?
+**Haziq:** Ini yang dibangkitkan oleh Yi Leong lah, bekas calon kita dekat PRN Johor itu. Bukan ini memang dah obvious ke?
 
-**Rafizi:** Hmm. Yalah, Yi Leong dia peguam kan. Dan Yi Leong tanyalah apa nama ni, uh, um, uh, memang benda tu tak payah dicakap.
-
-**Rafizi:** Sebab tu nama dia for future kan. Cuma ada yang lebih menarik tau.
-
-**Haziq:** Okey.
-
-**Rafizi:** Kalau tengok kepada um soalan parlimen saya,
-
-**Rafizi:** tapi tak dijawab lah rasanya dan juga ucapan, saya ingat ini antara ucapan-ucapan terakhir saya di parlimen lah. Mungkin yang mengenai belanjawan tahun lepas kan. Saya sebenarnya tanya.
-
-**Rafizi:** Sebab Datuk Seri Anwar, dia duk ulang berkali-kali yang Tan Sri Azam Baki ni bagus buat kerja dan kita sangat bagus lawan rasuah. 16 bilion telah dirampas semua kan. Jadi soalan saya mudah. Tunjukkan dekat mana 16 bilion tu masuk di dalam, di dalam apa nama ni, uh, penyata kewangan ataupun bajet. Tak ada tau. Ha, jadi kan. So saya pun dan yang saya dengar-dengarlah.
-
-**Haziq:** Ya.
-
-**Rafizi:** Setiap kali ada rampasan yang besar 16 billion ni kepada orang ramai yang, yang, yang mendengar. Daripada maklumat yang saya dapatlah, rampasan ini banyaknya scam.
-
-**Rafizi:** Satu ialah scam yang MBI tu, yang yang tu itu yang paling besar lah kan. Jadi, uh, itu pun dia ada isu moral juga. Kalau rampasan yang besar itu adalah daripada scam.
-
-**Rafizi:** Kan. Sebab saya rasa 16 billion tu yang besar dalam 16 billion yang Datuk Seri Anwar sebut tu ialah sebenarnya jumlah wang yang dibekukan di bawah AMLA bersabit dengan scam.
-
-**Rafizi:** Tapi ada soalan moral juga.
-
-**Haziq:** Ya, ya.
-
-**Rafizi:** Kalau duit scam, bukankah duit itu patut dipulangkan?
+**Rafizi:** Yalah, Yi Leong dia peguam kan. Dan Yi Leong tanyalah apa nama ni, memang benda tu tak payah dicakap. Sebab tu nama dia for future kan. Cuma ada yang lebih menarik tau. Kalau tengok kepada soalan parlimen saya, tapi tak dijawab lah rasanya dan juga ucapan, saya ingat ini antara ucapan-ucapan terakhir saya di parlimen lah. Mungkin yang mengenai belanjawan tahun lepas kan. Saya sebenarnya tanya. Sebab Datuk Seri Anwar, dia duk ulang berkali-kali yang Tan Sri Azam Baki ni bagus buat kerja dan kita sangat bagus lawan rasuah. 16 bilion telah dirampas semua kan. Jadi soalan saya mudah. Tunjukkan dekat mana 16 bilion tu masuk di dalam, di dalam apa nama ni, penyata kewangan ataupun bajet. Tak ada tau. Ha, jadi kan. So saya pun dan yang saya dengar-dengarlah. Setiap kali ada rampasan yang besar 16 billion ni kepada orang ramai yang, yang, yang mendengar. Daripada maklumat yang saya dapatlah, rampasan ini banyaknya scam. Satu ialah scam yang MBI tu, yang yang tu itu yang paling besar lah kan. Jadi, itu pun dia ada isu moral juga. Kalau rampasan yang besar itu adalah daripada scam. Kan. Sebab saya rasa 16 billion tu yang besar dalam 16 billion yang Datuk Seri Anwar sebut tu ialah sebenarnya jumlah wang yang dibekukan di bawah AMLA bersabit dengan scam. Tapi ada soalan moral juga. Kalau duit scam, bukankah duit itu patut dipulangkan?
 
 **Haziq:** Kepada.
 
-**Rafizi:** Kepada orang yang kena scam tu.
+**Rafizi:** Kepada orang yang kena scam tu. Kan? Ha, jadi tu satulah. Yang kedua ialah sampai sekarang saya tak dapat jawapan mana 16 billion itu muncul dalam dana negara? Dia tidak diperincikan di dalam bajet. Bajet kan kita tengok baris demi baris semua, tak ada. Dia tak ada. Sepatutnya dia sebaiknya kalau, kalau dia ada diletakkan dalam other income, hasil yang lain. Maksudnya hasil bukan cukai. Hasil bukan cukai ni ada 2 3 lah. Satu contohnya dividen daripada JLC ke Petronas semua suka situlah. Kalau ada lagi di bawah tu rampasan contohnya kan. Tunjukkan dan bagi nota. Sampai sekarang tak ada tau. Kalau, kalau tidak, 16 billion tu banyaklah, bukan sikit.
 
-**Rafizi:** Kan? Ha, jadi uh tu satulah. Yang kedua ialah sampai sekarang saya tak dapat jawapan mana 16 billion itu muncul dalam uh dana negara?
+**Haziq:** Nanti dia tengok podcast ni dia buatlah.
 
-**Rafizi:** Dia tidak diperincikan di dalam bajet. Aa bajet kan kita tengok baris demi baris semua, tak ada. Aa dia tak ada. Sepatutnya dia sebaiknya kalau, kalau dia ada diletakkan dalam other income, hasil yang lain. Maksudnya hasil bukan cukai. Hasil bukan cukai ni ada 2 3 lah. Satu contohnya dividen daripada JLC ke Petronas semua suka situlah. Kalau ada lagi di bawah tu rampasan contohnya kan. Tunjukkan dan bagi nota. Sampai sekarang tak ada tau. Kalau, kalau tidak, aa 16 billion tu banyaklah, bukan sikit.
+**Rafizi:** Saya haraplah. Tak adalah dia orang tu kan berebut. Siapa nak control duit dia tu? Adalah cerita-cerita di sebaliknya.
 
-**Haziq:** Hmm. Nanti dia tengok podcast ni dia buatlah.
+**Haziq:** Oh, ada cerita?
 
-**Rafizi:** Saya haraplah. Eh, tak adalah dia orang tu kan berebut. Siapa nak control duit dia tu? Adalah cerita-cerita di sebaliknya.
+**Rafizi:** Ada. Kau tahu aku tak sebut. Selalunya yang saya sebut tu kerana ada cerita kan. Tapi kadang-kadang dia tak ada hitam putih. Tapi Putrajaya ni ialah tempat yang paling teruk untuk menyimpan rahsia. Semua dekat Putrajaya tu bocor kan.
 
-**Haziq:** Oh, ada cerita eh?
-
-**Rafizi:** Ada. Kau tahu aku tak sebut. Selalunya yang saya sebut tu kerana ada cerita kan. Tapi kadang-kadang dia tak ada hitam putih.
-
-**Haziq:** Ah, okey.
-
-**Rafizi:** Tapi Putrajaya ni ialah tempat yang paling teruk untuk menyimpan rahsia. Semua dekat Putrajaya tu bocor kan.
-
-**Haziq:** Jadi kita tunggulah.
-
-**Haziq:** Okey. Dan last sekali. Pasukan khas pantau bendera terbalik pemuda PAS dah bubar ke?
+**Haziq:** Jadi kita tunggulah. Okey. Dan last sekali. Pasukan khas pantau bendera terbalik pemuda PAS dah bubar ke?
 
 **Rafizi:** Pasukan khas ini diwujudkan pada Ogos 2025.
 
 **Haziq:** Kemudian sekarang di negeri yang sama berlaku bendera yang terbalik, tapi kita tak dengar apa-apa.
 
-**Rafizi:** Saya harap, baguslah kalau pasukan khas pantau bendera oleh Pemuda PAS ini dibubarkan. Saya rasa baguslah. Saya alu-alukan.
+**Rafizi:** Saya harap, baguslah kalau pasukan khas pantau bendera oleh Pemuda PAS ini dibubarkan. Saya rasa baguslah. Saya alu-alukan. Sebab banyak benda lain yang lebih bermanfaat dia boleh buat. Baik dia pergi jejak, apa nama ni, fakir miskin ke. Baik dia pergi tolong, apa nama ni, baiki rumah orang ke, kan? Jadi kalaulah dia, harap-harap akal fikiran waras dapat menguasai keadaan. Benda ni tak masuk akal dan hanya nak membakar sentimen perkauman, kan. So, yalah, kita boleh kita lawak kat diorang lah. Dulu beria-ia ada, apa nama ni, pengumuman besar daripada sayap pemuda satu parti yang dikatakan akan bakal mengambil alih kerajaan, ialah pasukan khas pantau bendera terbalik. Ha.
 
-**Rafizi:** Sebab banyak benda lain yang lebih bermanfaat dia boleh buat. Baik dia pergi jejak, apa nama ni, fakir miskin ke.
-
-**Rafizi:** Baik dia pergi tolong, apa nama ni, baiki rumah orang ke, kan?
-
-**Rafizi:** Jadi kalaulah dia, harap-harap akal fikiran waras dapat menguasai keadaan.
-
-**Rafizi:** Benda ni tak masuk akal dan hanya nak membakar sentimen perkauman, kan. So, um, yalah, kita boleh kita lawak kat diorang lah. Dulu beria-ia ada, uh, apa nama ni, pengumuman besar daripada sayap pemuda satu parti yang dikatakan akan bakal mengambil alih kerajaan, ialah pasukan khas pantau bendera terbalik. Ha.
-
-**Haziq:** Okey, baik. Selesai, YB?
-
-**Haziq:** Masa untuk grade.
+**Haziq:** Okey, baik. Selesai, YB? Masa untuk grade.
 
 **Rafizi:** Oh, masa untuk grade.
 
-**Haziq:** Haah. Grade. Haah.
+**Haziq:** Grade.
 
-**Rafizi:** Aku nak suruh mereka pergi jumpa berdua-duaan ah.
+**Rafizi:** Aku nak suruh mereka pergi jumpa berdua-duaan ah. Ah, pergi jumpa berdua-duaan.
 
-**Rafizi:** Ah, pergi jumpa berdua-duaan.
-
-**Haziq:** Pergi jumpa berdua-duaan.
-
-**Haziq:** Okey.
+**Haziq:** Pergi jumpa berdua-duaan. Okey.
 
 **Rafizi:** Ini kena kan, sebab, sebab dia tak pernah berlaku dalam sejarah, kan.
 
-**Haziq:** Eh, tahniah. Semoga mereka betul-betul, apa?
+**Haziq:** Tahniah. Semoga mereka betul-betul, apa?
 
 **Rafizi:** Pergi jumpa berdua-duaan.
 
@@ -418,9 +210,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Saya minta, kalaulah ada ustaz-ustaz ke apa yang boleh menjadi orang tengah, panggil diorang pergi untuk duduk dalam satu usrah bersama.
 
-**Haziq:** Okey, baik, baik, baik. Baiklah, selesai. Kita ke Hidup Keras terus, YB.
-
-**Haziq:** Ha, ini mungkin episod yang agak panjanglah.
+**Haziq:** Okey, baik, baik, baik. Baiklah, selesai. Kita ke Hidup Keras terus, YB. Ha, ini mungkin episod yang agak panjanglah.
 
 **Rafizi:** Tahun yang pendek. Tahun kita ni berapa? 20 minit?
 
@@ -428,137 +218,49 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Okeylah, 20 minit. Aku dah tak nampak tau.
 
-**Haziq:** Okey, jadi selain kepada YB yang akan lalui perbincangan ini, kepada yang lain-lain untuk membantu pemahaman anda, bolehlah sediakan laptop ataupun telefon. Dan sebab kita akan scroll ni lah, dua dokumen penting lah.
+**Haziq:** Okey, jadi selain kepada YB yang akan lalui perbincangan ini, kepada yang lain-lain untuk membantu pemahaman anda, bolehlah sediakan laptop ataupun telefon. Dan sebab kita akan scroll ni lah, dua dokumen penting lah. Pertama, apa, exposé-exposé YB daripada rafiziramli.com, dan yang kedua kertas putih berkaitan dengan FELDA lah.
 
-**Haziq:** Pertama, apa, exposé-exposé YB daripada rafiziramli.com, dan yang kedua kertas putih berkaitan dengan FELDA lah.
+**Rafizi:** Yalah, malam ni dia jadi serabut sikitlah sebab kita nak cross reference dan dia akan berat sikitlah kerana dia banyak angka dan banyak, banyak, apa nama ni, jenayah kolar putih yang banyak kan. Jadi kita rujuk kepada beberapa dokumen kan. Dan cuma untuk memudahkan orang ramai lah kan. Kalau saya ada masa sikit dalam 1 2 hari ni — aku pun tak tahu kut mana aku nak cari masa mana lagi kan — kita akan masukkan semua exposé-exposé itu. Kemudian kita boleh letak side by side pengesahan yang dibuat oleh kerajaan, walaupun dia tak kredit akulah. Dia tak bagi kredit kat aku. Tapi maknanya exposé-exposé itu memang telah disahkan oleh kerajaan. Dia sama macam Tabung Haji. Ha, sebenarnya kan, pendedahan yang saya buat mengenai Tabung Haji tu satu persatu disahkan dalam laporan Suruhanjaya Diraja tahun 2022. Cuma yang FELDA ni lagi menariklah sebab dia disahkan di dalam kertas putih FELDA yang dibentangkan di Parlimen tahun 2019. Cuma masa tu saya dah tak berminat dengan politik. Saya habis dengan kemenangan PH 2018 tu. Saya pun dapat isyarat yang cukup jelaslah, maksudnya Tun Mahathir tak suka kat saya. Pada masa yang sama, Datuk Seri Anwar bila dia keluar penjara tu, keutamaan dia ialah menjaga hubungan baik dengan Tun Mahathir. Kemudian DAP Amanah sangat pro Tun Mahathir masa itu. Jadi saya fahamlah kedudukan saya. Yang terbaik ialah tak apalah, terima kasih, saya kembali jadi orang biasalah. Jadi semasa kertas putih ini dibentangkan di parlimen, aku tak ambil port — walaupun banyak perkara tu nanti kita boleh cross verify kan. Jadi kepada orang ramai, kerana lepas ini ada macam-macam hujah cacamerba ni, kiri kanan semua kan, dan saya pun tak pasti sebab nanti bila kita go through timeline dia, garis masa dia — benda ni benda yang telah pun didedahkan dan dibincangkan daripada 2012. Maksudnya dah 14, nak masuk 15 tahun. Laporan rasmi pun dah ada. Kemudian yalah, nanti bila kita bincang tentang struktur FELDA, siapa yang bertanggungjawab sekarang ni kan — sebenarnya benda ni dah memang terbentang pun, tapi diperam lah. Ha, jadi sebab itu malam ini saya ingat — sebelum dia jadi satu lagi pertaruhan politik — bola FELDA ni ditendang kiri kanan ke arah pilihan raya ni, senang kita cerita semua. Orang UMNO pun terkena, orang PAS pun terkena, orang PKR pun terkena.
 
-**Rafizi:** Um, yalah, malam ni dia jadi serabut sikitlah sebab kita nak cross reference dan dia akan berat sikitlah kerana dia banyak angka dan banyak, banyak, apa nama ni, jenayah kolar putih yang banyak kan.
-
-**Haziq:** Ya, ya.
-
-**Rafizi:** Jadi kita rujuk kepada beberapa dokumen kan.
-
-**Rafizi:** Dan cuma untuk memudahkan orang ramai lah kan. Kalau saya ada masa sikit dalam 1 2 hari ni — aku pun tak tahu kut mana aku nak cari masa mana lagi kan — kita akan masukkan semua exposé-exposé itu. Kemudian kita boleh letak side by side pengesahan yang dibuat oleh kerajaan, walaupun dia tak kredit akulah. Dia tak bagi kredit kat aku. Tapi maknanya exposé-exposé itu memang telah disahkan oleh kerajaan. Dia sama macam Tabung Haji.
-
-**Rafizi:** Ha, sebenarnya kan, pendedahan yang saya buat mengenai Tabung Haji tu satu persatu disahkan dalam laporan Suruhanjaya Diraja tahun 2022. Cuma yang FELDA ni lagi menariklah sebab dia disahkan di dalam kertas putih FELDA yang dibentangkan di Parlimen tahun 2019.
-
-**Rafizi:** Cuma masa tu saya dah tak berminat dengan politik. Saya habis dengan kemenangan PH 2018 tu.
-
-**Rafizi:** Saya pun dapat isyarat yang cukup jelaslah, maksudnya Tun Mahathir tak suka kat saya.
-
-**Rafizi:** Pada masa yang sama, Datuk Seri Anwar bila dia keluar penjara tu, keutamaan dia ialah menjaga hubungan baik dengan Tun Mahathir. Kemudian DAP Amanah sangat pro Tun Mahathir masa itu. Jadi saya fahamlah kedudukan saya. Yang terbaik ialah tak apalah, terima kasih, saya kembali jadi orang biasalah. Jadi semasa kertas putih ini dibentangkan di parlimen, aku tak ambil port — walaupun banyak perkara tu nanti kita boleh cross verify kan. Jadi kepada orang ramai, kerana lepas ini ada macam-macam hujah cacamerba ni, kiri kanan semua kan, dan saya pun tak pasti sebab nanti bila kita go through timeline dia, garis masa dia — benda ni benda yang telah pun didedahkan dan dibincangkan daripada 2012. Maksudnya dah 14, nak masuk 15 tahun. Laporan rasmi pun dah ada. Kemudian yalah, nanti bila kita bincang tentang struktur FELDA, siapa yang bertanggungjawab sekarang ni kan — sebenarnya benda ni dah memang terbentang pun, tapi diperam lah.
-
-**Rafizi:** Ha, jadi sebab itu malam ini saya ingat — sebelum dia jadi satu lagi pertaruhan politik —
-
-**Rafizi:** bola FELDA ni ditendang kiri kanan ke arah pilihan raya ni, senang kita cerita semua.
-
-**Rafizi:** Orang UMNO pun terkena, orang PAS pun terkena, orang PKR pun terkena.
-
-**Haziq:** Okey, okey. Baik, Abi. Mungkin saya ceritakan latar belakang sikitlah kenapa tiba-tiba kita nak cakap tentang isu FELDA ni pula. Saya rasa ini bersangkutan dengan kenyataan terbaru daripada Ketua Pesuruhjaya SPRM, Tan Sri Abdul Halim Aman.
-
-**Haziq:** Bahawa 7 kertas siasatan dah dibuka dan minggu depan akan ada beberapa tangkapan bermula minggu depan.
-
-**Haziq:** Dan beberapa, apa ni, projek-projek yang difokuskan seperti hotel di Limbang, pengambilalihan Grand Borneo Hotel di Sabah, Grand Plaza Service Apartment.
+**Haziq:** Okey, okey. Baik, Abi. Mungkin saya ceritakan latar belakang sikitlah kenapa tiba-tiba kita nak cakap tentang isu FELDA ni pula. Saya rasa ini bersangkutan dengan kenyataan terbaru daripada Ketua Pesuruhjaya SPRM, Tan Sri Abdul Halim Aman. Bahawa 7 kertas siasatan dah dibuka dan minggu depan akan ada beberapa tangkapan bermula minggu depan. Dan beberapa, apa ni, projek-projek yang difokuskan seperti hotel di Limbang, pengambilalihan Grand Borneo Hotel di Sabah, Grand Plaza Service Apartment.
 
 **Rafizi:** Hotel di Limbang?
 
-**Haziq:** Ya, ini yang dikatakan oleh Ketua Pesuruhjaya.
-
-**Rafizi:** Okey.
-
-**Haziq:** Grand Plaza Service Apartment di London, penubuhan FELDA Wellness Corporation Sdn. Berhad, pengambilalihan FELDA House, Grand FELDA House, dan penyelewengan dalam KLVC lah. Semua yang YB pernah sebut.
+**Haziq:** Ya, ini yang dikatakan oleh Ketua Pesuruhjaya. Grand Plaza Service Apartment di London, penubuhan FELDA Wellness Corporation Sdn. Berhad, pengambilalihan FELDA House, Grand FELDA House, dan penyelewengan dalam KLVC lah. Semua yang YB pernah sebut.
 
 **Rafizi:** Bukan semualah. Aku tumpu yang besar-besar dan yang panas-panas dalam masa tu kan.
 
 **Haziq:** Okey, okey. Mungkin saya tanya teruslah sebelum kita go through sesuatu ni. Sebenarnya the buck stop at siapa? Siapa yang bertanggungjawab sekarang ni untuk initiate benda ni supaya ada tindakan yang lebih tegas? Kalau saya tanya YB, YB yalah mungkin orang kata, "Oh YB dulu menteri," tapi yalah kita faham lah bidang kuasa dia tu terhad. Jadi siapa sebenarnya yang—
 
-**Rafizi:** Aaa, taklah, yang ini orang yang pertama yang patut jawab ialah Tan Sri Azam Baki sebenarnya.
+**Rafizi:** Taklah, yang ini orang yang pertama yang patut jawab ialah Tan Sri Azam Baki sebenarnya. Ha. Sebab laporan kertas putih ini dibuat tahun 2019. Kemudian beberapa laporan polis— dan SPRM, sorry, beberapa laporan SPRM telah dibuat masa itu, 2019 pun. Masa itu saya ingat Ketua Pesuruhjaya SPRM ialah Latifah Koya kan, masa tu kan? Untuk tempoh yang pendek tu kan. Kemudian seawal 2020, selepas Sheraton Move, memang Tan Sri Azam Baki. Jadi yalah, baguslah Tan Sri Halim Aman, Ketua Pesuruhjaya yang baru ni, buka balik kan. Tapi yalah, soalan yang lebih besar ialah benda ni dah 15 tahun. Bukti itu dah ada daripada yang saya expose paling awal tahun 2012, kemudian 2016, 2017 — semua telah didokumentasikan. Kemudian apabila Pakatan Harapan ambil alih, di bawah Datuk Seri Azmin Ali masa tu — nanti kita nak kena sembang juga ni, kenapa FELDA dulu di bawah Menteri Ekonomi, tau? Ha kan, nak ke arah itulah ni kan.
 
-**Haziq:** Okey.
+**Haziq:** So —
 
-**Rafizi:** Ha. Sebab laporan kertas putih ini dibuat tahun 2019.
+**Rafizi:** dalam proses menyediakan kertas putih FELDA yang dibentangkan ke parlimen itu, Kementerian Ekonomi masa itu melantik EY. Dan audit forensik perakaunan tu semua dah telah dibuat. Dah ada semua dah. Jadi maksudnya semua ini adalah diketahui sepenuhnya. Jadi persoalan paling besar ialah — sebelum kita sampai kat politiklah kan — siapa yang bertanggungjawab, menteri ke apa. Benda ini sudah tentu sudah ada kertas siasatan. Tapi kenapa tidak ada tindakan? Itu yang saya kata diperam. Dan itu yang nak kena tanya Tan Sri Azam Baki, kenapa dia peram dulu kan? Dan ini dalam parlimen tau — bukannya sesuatu yang tidak diketahui. Maksud saya, penjejakan aliran wang semua tu sebahagiannya telah dibuat kan. Cuma, FELDA ni kalau ikut menteri daripada awal, dia bertukar-tukar lah kan. Selalunya dia di bawah kementerian dulu-dulu dipanggil Kementerian Pembangunan Luar Bandar. Dan menterinya tu pendek, pendek, pendek, pendek semualah — dalam 2 3 tahun, 2 3 tahun banyaklah menteri tu kan — sehinggalah tahun 2004. Mengikut laporan kertas putih lah kan, daripada 2004 sehinggalah 2018, 14 tahun, FELDA ini di bawah Datuk Seri Najib. Bermula semasa beliau sebagai Timbalan Perdana Menteri dan disambung menjadi Perdana Menteri lah. Kemudian 2018 sehingga 2020 kan, dia di bawah Datuk Seri Azmin, Menteri Hal Ehwal Ekonomi masa itu. Dan saya ingat daripada 2020 kan, dia di bawah Datuk Seri Azmin lah kot, kan — di bawah Perdana Menteri, ha kan. So maksudnya bermula, akhir 2022 tu, dia di bawah Datuk Seri Anwar Ibrahim. Jadi semasa pembentukan kerajaan tu, adalah semua ni — sebab masa selepas Sheraton Move, Kementerian Ekonomi tu tak ada dah.
 
-**Rafizi:** Kemudian beberapa laporan polis—
+**Haziq:** Betul. Dihapuskan.
 
-**Rafizi:** dan SPRM, sorry, beberapa laporan SPRM telah dibuat masa itu, 2019 pun.
-
-**Rafizi:** Masa itu saya ingat Ketua Pesuruhjaya SPRM ialah Latifah Koya kan, masa tu kan?
-
-**Haziq:** Ya.
-
-**Rafizi:** Untuk tempoh yang pendek tu kan. Kemudian seawal 2020, selepas Sheraton Move, memang Tan Sri Azam Baki.
-
-**Haziq:** Ya.
-
-**Rafizi:** Jadi yalah, baguslah Tan Sri Halim Aman, Ketua Pesuruhjaya yang baru ni, buka balik kan. Tapi yalah, soalan yang lebih besar ialah benda ni dah 15 tahun. Bukti itu dah ada daripada yang saya expose paling awal tahun 2012, kemudian 2016, 2017 — semua telah didokumentasikan. Kemudian apabila Pakatan Harapan ambil alih, di bawah Datuk Seri Azmin Ali masa tu — nanti kita nak kena sembang juga ni, kenapa FELDA dulu di bawah Menteri Ekonomi, tau?
-
-**Rafizi:** Ha kan, nak ke arah itulah ni kan.
-
-**Haziq:** So uh—
-
-**Rafizi:** dalam proses menyediakan kertas putih FELDA yang dibentangkan ke parlimen itu, Kementerian Ekonomi masa itu melantik EY.
-
-**Rafizi:** Dan audit forensik perakaunan tu semua dah telah dibuat. Dah ada semua dah.
-
-**Rafizi:** Jadi maksudnya semua ini adalah diketahui sepenuhnya. Jadi persoalan paling besar ialah — sebelum kita sampai kat politiklah kan —
-
-**Haziq:** Ya.
-
-**Rafizi:** siapa yang bertanggungjawab, menteri ke apa. Benda ini sudah tentu sudah ada kertas siasatan. Tapi kenapa tidak ada tindakan? Itu yang saya kata diperam. Dan itu yang nak kena tanya Tan Sri Azam Baki, kenapa dia peram dulu kan? Dan ini dalam parlimen tau — bukannya sesuatu yang tidak diketahui. Maksud saya, penjejakan aliran wang semua tu sebahagiannya telah dibuat kan.
-
-**Rafizi:** Cuma, eh, FELDA ni kalau ikut menteri daripada awal, dia bertukar-tukar lah kan. Selalunya dia di bawah kementerian dulu-dulu dipanggil Kementerian Pembangunan Luar Bandar. Dan menterinya tu pendek, pendek, pendek, pendek semualah — dalam 2 3 tahun, 2 3 tahun banyaklah menteri tu kan — sehinggalah tahun 2004.
-
-**Rafizi:** Mengikut laporan kertas putih lah kan, daripada 2004 sehinggalah 2018, 14 tahun, FELDA ini di bawah Datuk Seri Najib.
-
-**Rafizi:** Bermula semasa beliau sebagai Timbalan Perdana Menteri dan disambung menjadi Perdana Menteri lah. Kemudian 2018 sehingga 2020 kan, dia di bawah Datuk Seri Azmin, Menteri Hal Ehwal Ekonomi masa itu. Dan saya ingat daripada 2020 kan, dia di bawah Datuk Seri Azmin lah kot, kan — di bawah Perdana Menteri, ha kan. So maksudnya bermula, akhir 2022 tu, dia di bawah Datuk Seri Anwar Ibrahim. Jadi semasa pembentukan kerajaan tu, adalah semua ni — sebab masa selepas Sheraton Move, Kementerian Ekonomi tu tak ada dah.
-
-**Haziq:** Betul.
-
-**Haziq:** Dihapuskan.
-
-**Rafizi:** Jadi, yalah, dia masuk akal lah dia di bawah Perdana Menteri lah kan. So apabila Kementerian Ekonomi ditubuhkan balik
-
-**Rafizi:** tahun 2022 tu, memang salah satu yalah model yang dirujuk balik ialah model Menteri Ekonomi semasa Datuk Seri Azmin dahululah kan. Tapi itu keputusan yang dibuat oleh Datuk Seri Anwar lah.
-
-**Rafizi:** Iaitu semua agensi-agensi penting yang sebelum ini di bawah Kementerian Ekonomi, termasuklah FELDA, eh, termasuklah saya ingat Petronas, Khazanah, semua tu, semua dipindahkan ke bawah Perdana Menteri.
+**Rafizi:** Jadi, yalah, dia masuk akal lah dia di bawah Perdana Menteri lah kan. So apabila Kementerian Ekonomi ditubuhkan balik tahun 2022 tu, memang salah satu yalah model yang dirujuk balik ialah model Menteri Ekonomi semasa Datuk Seri Azmin dahululah kan. Tapi itu keputusan yang dibuat oleh Datuk Seri Anwar lah. Iaitu semua agensi-agensi penting yang sebelum ini di bawah Kementerian Ekonomi, termasuklah FELDA, termasuklah saya ingat Petronas, Khazanah, semua tu, semua dipindahkan ke bawah Perdana Menteri.
 
 **Haziq:** Kalau tak, sebelum ni Azmin bawa semua.
 
-**Rafizi:** Yeah yeah yeah.
-
-**Rafizi:** Berkuasa besar.
-
-**Rafizi:** Ha, berkuasa besar lah. Jadi, uh, saya — aku kan magnet kan — jadi saya hanya diberikan 2 jabatan magnet lah, iaitu 1 jabatan statistik, 1 lagi unit perancangan ekonomi, hanya untuk membuat dasar lah, kan. So itu dari segi menteri yang bertanggungjawab kan. Kalau tengok kepada ketua pengarah lah pun, adalah benda dia bermula dengan ketua pengarah yang awal tu, Mat Salleh sebenarnya. Sebab cadangan FELDA ni, kalau tak silap saya, adalah hasil daripada cadangan seorang, satu kumpulan yang diketuai oleh seorang ahli ekonomi daripada Scandinavia.
-
-**Rafizi:** Cuma saya tak pasti dia Finland ke apa. Jadi ketua pengarah yang pertama tu Mat Salleh tau. Kemudian ada yang seterusnya. Tapi ketua pengarah yang paling lama, atau pengerusilah dia panggil — bukan ketua pengarah, sorry, pengerusi FELDA.
+**Rafizi:** Yeah yeah yeah. Berkuasa besar. Ha, berkuasa besar lah. Jadi, saya — aku kan magnet kan — jadi saya hanya diberikan 2 jabatan magnet lah, iaitu 1 jabatan statistik, 1 lagi unit perancangan ekonomi, hanya untuk membuat dasar lah, kan. So itu dari segi menteri yang bertanggungjawab kan. Kalau tengok kepada ketua pengarah lah pun, adalah benda dia bermula dengan ketua pengarah yang awal tu, Mat Salleh sebenarnya. Sebab cadangan FELDA ni, kalau tak silap saya, adalah hasil daripada cadangan seorang, satu kumpulan yang diketuai oleh seorang ahli ekonomi daripada Scandinavia. Cuma saya tak pasti dia Finland ke apa. Jadi ketua pengarah yang pertama tu Mat Salleh tau. Kemudian ada yang seterusnya. Tapi ketua pengarah yang paling lama, atau pengerusilah dia panggil — bukan ketua pengarah, sorry, pengerusi FELDA.
 
 **Haziq:** Pengerusi FELDA.
 
-**Rafizi:** Pengerusi FELDA eh. Yang paling lama ialah Yang Mulia Tan Sri Raja Alias lah. 1979 sampai 2001 macam itu kan.
+**Rafizi:** Pengerusi FELDA Yang paling lama ialah Yang Mulia Tan Sri Raja Alias lah. 1979 sampai 2001 macam itu kan. Dan itulah tempoh yang paling bagus untuk FELDA yang membangun dengan mendadak. Jadi daripada 2001 tu, ha dan bermasalah dah. Dia mula bertukar-tukar kepada ahli politik. Sampailah saya ingat Tan Sri Isa Samad ambil alih. Kemudian Tan Sri Shahrir. Jadi kebanyakan pergaduhan aku ni masa itu selain daripada dengan Najib, dengan Tan Sri Isa Samad dan juga Tan Sri Shahrir Samad lah. Ha kan. Sehinggalah tahun 2018, pengerusi FELDA itu diberikan kepada Tan Sri Megat Zaharuddin. Tan Sri Megat Zaharuddin ni dulu bekas CEO Shell. Saya rasalah bekas CEO Shell. Kemudian sekarang pengerusi FELDA di bawah Madani ni dikembalikan kepada ahli politik lah. Datuk Seri Shabery Cheek kan.
 
-**Rafizi:** Dan itulah tempoh yang paling bagus untuk FELDA yang membangun dengan mendadak. Jadi daripada 2001 tu, ha dan bermasalah dah. Dia mula bertukar-tukar kepada ahli politik. Sampailah saya ingat Tan Sri Isa Samad ambil alih. Kemudian Tan Sri Shahrir. Jadi kebanyakan pergaduhan aku ni masa itu selain daripada dengan Najib, dengan Tan Sri Isa Samad dan juga Tan Sri Shahrir Samad lah. Ha kan. Sehinggalah tahun 2018, pengerusi FELDA itu diberikan kepada Tan Sri Megat Zaharuddin. Tan Sri Megat Zaharuddin ni dulu bekas CEO Shell.
-
-**Rafizi:** Saya rasalah bekas CEO Shell. Kemudian sekarang pengerusi FELDA di bawah Madani ni dikembalikan kepada ahli politik lah.
-
-**Rafizi:** Datuk Seri Shabery Cheek kan.
-
-**Haziq:** Shabery Cheek sebelum yang Zaharuddin eh?
+**Haziq:** Shabery Cheek sebelum yang Zaharuddin?
 
 **Rafizi:** Tidak, tidak. Masa Madani mengambil alih.
 
-**Haziq:** Ah ya, betul, betul.
-
-**Haziq:** Datuk Seri Shabery Cheek kan.
-
-**Haziq:** Shabery Cheek.
+**Haziq:** Ah ya, betul, betul. Datuk Seri Shabery Cheek kan. Shabery Cheek.
 
 **Rafizi:** Lepas sekarang ni masih lagi Datuk Seri Shabery Cheek.
 
 **Haziq:** Dah kena pecat kan?
 
-**Rafizi:** Dah kena pecat?
-
-**Rafizi:** Jadi masih kosong lah sekarang.
+**Rafizi:** Dah kena pecat? Jadi masih kosong lah sekarang.
 
 **Farhan (Pa'an):** Tan Sri Ahmad Badri.
 
@@ -570,11 +272,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Ah, tak disambung.
 
-**Rafizi:** Tak disambung. Ha.
-
-**Haziq:** Okey.
-
-**Rafizi:** Shabery Cheek kata, Alhamdulillah aku tak satu hal pula aku sekarang. Pengerusi FELDA. Oh, at some point bukan Idris Jusoh ke? Kan pengerusi FELDA sebelum Shabery Cheek ialah Idris Jusoh kan? Dato' Sri Idris Jusoh.
+**Rafizi:** Tak disambung. Ha. Shabery Cheek kata, Alhamdulillah aku tak satu hal pula aku sekarang. Pengerusi FELDA. Oh, at some point bukan Idris Jusoh ke? Kan pengerusi FELDA sebelum Shabery Cheek ialah Idris Jusoh kan? Dato' Sri Idris Jusoh.
 
 **Haziq:** Ha, rasa bertukar dua orang.
 
@@ -582,111 +280,31 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Saya rasa dah jelas lah bahawa PM lah yang.
 
-**Rafizi:** Ya, engkau ni nakal. Kerja engkau nak hit a politically je. Tapi sebelum kita mulakan ni, saya ingat penting jugalah.
-
-**Haziq:** Okey.
-
-**Rafizi:** Mungkin keluarga FELDA
-
-**Rafizi:** dia maklumlah kan tentang apa itu FELDA, apa business modelnya,
-
-**Rafizi:** kenapa FELDA itu wujud kan. Tapi saya ingat kalau yang bukan Melayu ataupun generasi muda ni banyaknya tak tahu pun FELDA ni apa.
-
-**Rafizi:** Kan? Jadi FELDA ni ialah antara rancangan tanah terbesar di dunia tau. Dan pada di bawah Yang Mulia Raja Alias dulu,
-
-**Rafizi:** ha, memang diiktiraf sebagai antara yang paling berjaya dalam dunia kan?
-
-**Rafizi:** Ha, jadi konsep dan saudara saya ada seoranglah yang FELDA.
+**Rafizi:** Ya, engkau ni nakal. Kerja engkau nak hit a politically je. Tapi sebelum kita mulakan ni, saya ingat penting jugalah. Mungkin keluarga FELDA dia maklumlah kan tentang apa itu FELDA, apa business modelnya, kenapa FELDA itu wujud kan. Tapi saya ingat kalau yang bukan Melayu ataupun generasi muda ni banyaknya tak tahu pun FELDA ni apa. Kan? Jadi FELDA ni ialah antara rancangan tanah terbesar di dunia tau. Dan pada di bawah Yang Mulia Raja Alias dulu, ha, memang diiktiraf sebagai antara yang paling berjaya dalam dunia kan? Ha, jadi konsep dan saudara saya ada seoranglah yang FELDA.
 
 **Haziq:** Peneroka FELDA.
 
-**Rafizi:** Peneroka FELDA. Konsep dia macam ni tau. Dulu-dulu-dulu kan, untuk membasmi kemiskinan. Kalau pertanian ini, kalau kita nak serahkan semata-mata kepada orang ramai, orang biasa, dia tak ada tanah. Kan?
-
-**Rafizi:** Kemudian kalaupun dia ada tanah sikit-sikit, dia hanya boleh mengusahakan tanaman kontan sebab modal dan juga kepakaran dan juga sistem daripada huluan, hulu tu all the way daripada nak tanam, benihnya nak ambil kat mana kan? Kemudian baja nak jaga semua kan dan modal kerja, modal kerja daripada nak tanam sebab pokok kelapa sawit ni berapa? 3 4 tahun kan. Dia nak membesar. So siapa nak bayar tu kan? Syarikat perladangan macam United Plantations semua tu bolehlah buat kan, dia ada modal. Kemudian bila dah petik tu, nak hantar kat mana? Kilang minyak sawit yang mana kan? So yalah ini kebijaksanaan model FELDA lah. Maksudnya, untuk membasmi kemiskinan, yang kerajaan buat ialah kerajaan bagi tanah 10 ekar setiap peneroka dan lebih kurang suku ekar untuk buat rumah.
-
-**Rafizi:** Tapi dia ada syarat dialah. Maka sebab tu dia dipanggil peneroka, sebab tanah yang diberikan ni hutan.
-
-**Rafizi:** So dia kena pergi tebas, dia kena pergi buka tanah tu. Dan rumah yang asal-asal tu rumah kecil, rumah kayu je kan. Dan FELDA yang pertama sekali FELDA Bilut lah kot. Kan, Bilut dekat Bentong. Adalah FELDA-FELDA yang awal macam Taib Andak semualah kan. So over the years kan, FELDA ini diberi mandat sebagai projek pembangunan tanah persekutuan. Dulu dipanggil LKTP, Lembaga Kemajuan Tanah Persekutuan. FELDA tu ialah Federal Land Development Authority kan. So masa aku kecil-kecil dulu, orang bertukar-tukar jugalah signboard dia ada yang kata LKTP, ada yang FELDA lah kan. So dan maka kerajaan bagi tanah kepada FELDA.
-
-**Rafizi:** Dan tanah ni ialah hak milik negeri kan. Jadi kerajaan persekutuan akan mohon tanah daripada kerajaan-kerajaan negeri. Dulu mudah sebab semua kerajaan negeri ini adalah di bawah BN.
+**Rafizi:** Peneroka FELDA. Konsep dia macam ni tau. Dulu-dulu-dulu kan, untuk membasmi kemiskinan. Kalau pertanian ini, kalau kita nak serahkan semata-mata kepada orang ramai, orang biasa, dia tak ada tanah. Kan? Kemudian kalaupun dia ada tanah sikit-sikit, dia hanya boleh mengusahakan tanaman kontan sebab modal dan juga kepakaran dan juga sistem daripada huluan, hulu tu all the way daripada nak tanam, benihnya nak ambil kat mana kan? Kemudian baja nak jaga semua kan dan modal kerja, modal kerja daripada nak tanam sebab pokok kelapa sawit ni berapa? 3 4 tahun kan. Dia nak membesar. So siapa nak bayar tu kan? Syarikat perladangan macam United Plantations semua tu bolehlah buat kan, dia ada modal. Kemudian bila dah petik tu, nak hantar kat mana? Kilang minyak sawit yang mana kan? So yalah ini kebijaksanaan model FELDA lah. Maksudnya, untuk membasmi kemiskinan, yang kerajaan buat ialah kerajaan bagi tanah 10 ekar setiap peneroka dan lebih kurang suku ekar untuk buat rumah. Tapi dia ada syarat dialah. Maka sebab tu dia dipanggil peneroka, sebab tanah yang diberikan ni hutan. So dia kena pergi tebas, dia kena pergi buka tanah tu. Dan rumah yang asal-asal tu rumah kecil, rumah kayu je kan. Dan FELDA yang pertama sekali FELDA Bilut lah kot. Kan, Bilut dekat Bentong. Adalah FELDA-FELDA yang awal macam Taib Andak semualah kan. So over the years kan, FELDA ini diberi mandat sebagai projek pembangunan tanah persekutuan. Dulu dipanggil LKTP, Lembaga Kemajuan Tanah Persekutuan. FELDA tu ialah Federal Land Development Authority kan. So masa aku kecil-kecil dulu, orang bertukar-tukar jugalah signboard dia ada yang kata LKTP, ada yang FELDA lah kan. So dan maka kerajaan bagi tanah kepada FELDA. Dan tanah ni ialah hak milik negeri kan. Jadi kerajaan persekutuan akan mohon tanah daripada kerajaan-kerajaan negeri. Dulu mudah sebab semua kerajaan negeri ini adalah di bawah BN.
 
 **Haziq:** BN.
 
-**Rafizi:** Ha kan. Kecuali Kelantan. Tapi masa FELDA ni naik, menteri yang bertanggungjawab mengenai FELDA ni adalah daripada PAS. Dato' Asri Muda dulu. Dia jadi menteri FELDA, Menteri Kemajuan Tanah Persekutuan ni I think tahun 1974 hingga 78. So, sebab itu FELDA pun banyak di Kelantan dan sebab tu you notice eh, kalau di Pahang contohnya, banyak peneroka FELDA tu ialah orang Kelantan. Ha, sebab menteri yang agak lama bertanggungjawab ialah daripada Kelantan lah, Dato' Asri Muda, Presiden PAS masa tu kan. Jadi kerajaan negeri bagi tanah kepada kerajaan persekutuan. Kerajaan persekutuan bagi tanah kepada FELDA lah. Dan tanah dalam FELDA ni ada dua kategori. Satu ialah tanah yang diberikan kepada peneroka-peneroka yang 10 ekar tadi. Dan saya ingatlah in total jumlah peneroka, keluarga peneroka ni ialah lebih kurang 112, 115 ribu orang. Maksudnya hanya 115 ribu keluarga tau. Hanya. Hanya yang penerima tu saja. Of course keluarga itu jadi besarlah eventually lah kan. Tapi sebenarnya rakyat Malaysia yang menyertai FELDA ni ialah 115 ribu oranglah dan kemudian menjadi keluargakan. Itu satu kategori tanah. Satu lagi kategori tanah ialah yang kerajaan-kerajaan negeri bagi kepada FELDA, tapi FELDA usahakan sebagai perladangan dia sendiri.
-
-**Rafizi:** So dia jalankan sebagai syarikat. Ha kan. So dia ada two stream ni lah. Dan seluruh idea yang baiknya ialah bila ada dua-dua kategori ni, satu almost macam pekebun kecil lah kan. FELDA yang 10 ekar ni dia pekebun kecil.
-
-**Rafizi:** Masalah kalau pekebun kecil ni dia tak ada economies of scale.
-
-**Haziq:** Betul.
-
-**Rafizi:** Jadi satu lagi ialah tanah-tanah yang that's why in total eh, nanti saya tengok. In total rasanya tanah, kejap eh. Aku kalau laporan panjang-panjang ni kan. Saya rasa in total tak, I'm still figuring out. Ha ni ha. In total tanah FELDA yang untuk peneroka ada berapa? 400 ribu hektar ni eh. Jumlah keseluruhan tanah yang diberikan kepada FELDA setakat 2019 ialah 870 ribu hektar.
-
-**Rafizi:** Apa nama ni? 490 ribu, bukan 440, sorry. 490 ribu hektar diperuntukkan kepada peneroka.
-
-**Rafizi:** 330,000 hektar tu ialah kepada perladangan.
-
-**Rafizi:** Ha kan. So daripada hasil itulah maka FELDA mula mewujudkan seluruh rangkaian nilai daripada hulu ke hilir kan. So dia ada pengangkutan dia sendiri, kemudian dia ada kilang minyak sawit dia sendiri. Jadi syaratnya ialah peneroka-peneroka ni dia hantar kelapa sawit tu kepada kilang minyak sawit ni untuk jadi minyak sawit mentah lah, CPO kan. So dia dapat daripada perladangan dan dia juga dapat daripada peneroka-peneroka. Now, panjang juga cerita ni lah sebelum kita nak sampai. Kalau tidak kita cerita tak dapat konteks kan?
-
-**Rafizi:** So ekosistemnya begini kan? Okey, kalau you fikir lah peneroka-peneroka kan, ambil pakcik aku lah.
-
-**Rafizi:** Dia daripada Besut. So dia dapat tanah, dia pergi ke FELDA Neram kan. Dia dapat 10 ekar tanah kan. Macam mana dia nak tanam? Nak tanam tu, lepas tanam tu dah dia buka kan semua tanah tu kan, 10 ekar tu. Dia nak tanam tu pula, siapa nak bagi benih?
-
-**Rafizi:** Kemudian daripada benih tu pula tunggu 3 4 tahun, dia nak kena baja semua tu kan. Itu satu modal lagi.
-
-**Rafizi:** Kemudian dia nak makan apa?
-
-**Rafizi:** 3 4 tahun sementara tunggu tu kan? Lepas itu okeylah bila ini kalau tak ada FELDA lah kan. Kalau tak ada FELDA, kita kena buat sendiri kan. Maksudnya okeylah kita nak buka, kita nak kena tanam, tunggu 3 4 tahun baru dapat hasil kan. Lepas tu dah dapat hasil tu, bila pokok tu dah umur 15 16 tahun, sebab pokok ni ada profile dia kan. Mula you tanam masa dia kecil tu, dia tak adalah mengeluarkan hasil yang baik. Tu pokok muda. Kemudian dia akan jadi pokok yang dewasa kan, dan pokok dewasa tu pun yang paling optimum bila dia dah jadi dewasa matang lah, prime kan, kematangan dia, dan dia berbuah paling banyaklah. Maka hasil per hektar, maksudnya berapa tan per ekar tu paling tinggi lah. Tapi bila dia dah tua, saya ingat kalau umur dia dah lebih 18 tahun pokok tu, dan dia yalah pokok tua, dia tak berbuah sangatlah. So bila dia dah tak berbuah, at some point tu you nak kena tebang. And then you nak kena tanam balik dan memulakan proses-proses itulah keseluruhan kitaran tu kan. So kalau kita buat sendiri, kita kena ada aliran tunai untuk bayar semua itu. Kita nak kena cari kontraktor semualah nak buat. Jadi FELDA, and that's the beauty of FELDA in the 60s masa I can't remember. I think mamat tu Finnish, orang Finland. I can't remember. Itu the beauty yang dicadangkanlah. Iaitu ini jadi skim kerajaan. Jadi macam pak saudara aku dia pergi dia dapat tanah 10 ekar dekat FELDA Neram dekat Kemaman kan. So masa dia tanam 3 4 tahun tu, sementara nak menunggu hasil tu, dia boleh ambil pinjaman sara hidup.
-
-**Rafizi:** Daripada apa nama ni, FELDA.
+**Rafizi:** Ha kan. Kecuali Kelantan. Tapi masa FELDA ni naik, menteri yang bertanggungjawab mengenai FELDA ni adalah daripada PAS. Dato' Asri Muda dulu. Dia jadi menteri FELDA, Menteri Kemajuan Tanah Persekutuan ni I think tahun 1974 hingga 78. So, sebab itu FELDA pun banyak di Kelantan dan sebab tu you notice kalau di Pahang contohnya, banyak peneroka FELDA tu ialah orang Kelantan. Ha, sebab menteri yang agak lama bertanggungjawab ialah daripada Kelantan lah, Dato' Asri Muda, Presiden PAS masa tu kan. Jadi kerajaan negeri bagi tanah kepada kerajaan persekutuan. Kerajaan persekutuan bagi tanah kepada FELDA lah. Dan tanah dalam FELDA ni ada dua kategori. Satu ialah tanah yang diberikan kepada peneroka-peneroka yang 10 ekar tadi. Dan saya ingatlah in total jumlah peneroka, keluarga peneroka ni ialah lebih kurang 112, 115 ribu orang. Maksudnya hanya 115 ribu keluarga tau. Hanya. Hanya yang penerima tu saja. Of course keluarga itu jadi besarlah eventually lah kan. Tapi sebenarnya rakyat Malaysia yang menyertai FELDA ni ialah 115 ribu oranglah dan kemudian menjadi keluargakan. Itu satu kategori tanah. Satu lagi kategori tanah ialah yang kerajaan-kerajaan negeri bagi kepada FELDA, tapi FELDA usahakan sebagai perladangan dia sendiri. So dia jalankan sebagai syarikat. Ha kan. So dia ada two stream ni lah. Dan seluruh idea yang baiknya ialah bila ada dua-dua kategori ni, satu almost macam pekebun kecil lah kan. FELDA yang 10 ekar ni dia pekebun kecil. Masalah kalau pekebun kecil ni dia tak ada economies of scale. Jadi satu lagi ialah tanah-tanah yang that's why in total nanti saya tengok. In total rasanya tanah, kejap Aku kalau laporan panjang-panjang ni kan. Saya rasa in total tak, I'm still figuring out. Ha ni ha. In total tanah FELDA yang untuk peneroka ada berapa? 400 ribu hektar ni Jumlah keseluruhan tanah yang diberikan kepada FELDA setakat 2019 ialah 870 ribu hektar. Apa nama ni? 490 ribu, bukan 440, sorry. 490 ribu hektar diperuntukkan kepada peneroka. 330,000 hektar tu ialah kepada perladangan. Ha kan. So daripada hasil itulah maka FELDA mula mewujudkan seluruh rangkaian nilai daripada hulu ke hilir kan. So dia ada pengangkutan dia sendiri, kemudian dia ada kilang minyak sawit dia sendiri. Jadi syaratnya ialah peneroka-peneroka ni dia hantar kelapa sawit tu kepada kilang minyak sawit ni untuk jadi minyak sawit mentah lah, CPO kan. So dia dapat daripada perladangan dan dia juga dapat daripada peneroka-peneroka. Now, panjang juga cerita ni lah sebelum kita nak sampai. Kalau tidak kita cerita tak dapat konteks kan? So ekosistemnya begini kan? Okey, kalau you fikir lah peneroka-peneroka kan, ambil pakcik aku lah. Dia daripada Besut. So dia dapat tanah, dia pergi ke FELDA Neram kan. Dia dapat 10 ekar tanah kan. Macam mana dia nak tanam? Nak tanam tu, lepas tanam tu dah dia buka kan semua tanah tu kan, 10 ekar tu. Dia nak tanam tu pula, siapa nak bagi benih? Kemudian daripada benih tu pula tunggu 3 4 tahun, dia nak kena baja semua tu kan. Itu satu modal lagi. Kemudian dia nak makan apa? 3 4 tahun sementara tunggu tu kan? Lepas itu okeylah bila ini kalau tak ada FELDA lah kan. Kalau tak ada FELDA, kita kena buat sendiri kan. Maksudnya okeylah kita nak buka, kita nak kena tanam, tunggu 3 4 tahun baru dapat hasil kan. Lepas tu dah dapat hasil tu, bila pokok tu dah umur 15 16 tahun, sebab pokok ni ada profile dia kan. Mula you tanam masa dia kecil tu, dia tak adalah mengeluarkan hasil yang baik. Tu pokok muda. Kemudian dia akan jadi pokok yang dewasa kan, dan pokok dewasa tu pun yang paling optimum bila dia dah jadi dewasa matang lah, prime kan, kematangan dia, dan dia berbuah paling banyaklah. Maka hasil per hektar, maksudnya berapa tan per ekar tu paling tinggi lah. Tapi bila dia dah tua, saya ingat kalau umur dia dah lebih 18 tahun pokok tu, dan dia yalah pokok tua, dia tak berbuah sangatlah. So bila dia dah tak berbuah, at some point tu you nak kena tebang. And then you nak kena tanam balik dan memulakan proses-proses itulah keseluruhan kitaran tu kan. So kalau kita buat sendiri, kita kena ada aliran tunai untuk bayar semua itu. Kita nak kena cari kontraktor semualah nak buat. Jadi FELDA, and that's the beauty of FELDA in the 60s masa I can't remember. I think mamat tu Finnish, orang Finland. I can't remember. Itu the beauty yang dicadangkanlah. Iaitu ini jadi skim kerajaan. Jadi macam pak saudara aku dia pergi dia dapat tanah 10 ekar dekat FELDA Neram dekat Kemaman kan. So masa dia tanam 3 4 tahun tu, sementara nak menunggu hasil tu, dia boleh ambil pinjaman sara hidup. Daripada apa nama ni, FELDA.
 
 **Haziq:** FELDA.
 
-**Rafizi:** Kemudian uh, kos dia untuk menanam semua tu, FELDA dahulukan duit dulu.
-
-**Rafizi:** Uh, kemudian dia ada skim di mana bila buah tu dah berbuah, semua dah dapat hasil, dia tolak bayar. Bayaran sara hidup tu berjalan. Uh, kemudian yang uh hutang dia tu sepatutnya ditolak dan dibayar, dan pada masa yang sama ada caruman untuk simpan duit untuk tanam balik. Jadi itulah modelnya, ringkasnya. Jadi dia tak jauh beza dengan apa yang kita cuba buat dengan IPR contohnya, Intan.
+**Rafizi:** Kemudian kos dia untuk menanam semua tu, FELDA dahulukan duit dulu. Kemudian dia ada skim di mana bila buah tu dah berbuah, semua dah dapat hasil, dia tolak bayar. Bayaran sara hidup tu berjalan. Kemudian yang hutang dia tu sepatutnya ditolak dan dibayar, dan pada masa yang sama ada caruman untuk simpan duit untuk tanam balik. Jadi itulah modelnya, ringkasnya. Jadi dia tak jauh beza dengan apa yang kita cuba buat dengan IPR contohnya, Intan.
 
 **Haziq:** Ada off taker apa semua.
 
-**Rafizi:** Ha, ada off taker. Kita dah sediakan off taker. Tanah tu tanah kerajaan. Cuma kita tak bagi tanah kat orang sebab dia kecil, kecil, kecil kan. Tapi mereka ada plot. Jadi plot tu diberikan supaya dapat hasil dalam 2,000-3,000 ringgit sebulan kan. Setiap uh, tuaian tanaman kontan yang dipilih itu uh selalunya kitaran dia paling lama 3 bulan. Jadi bila dia menuai sekali tu, dia boleh cover secara purata untung dia, dia dapat 2,000-3,000 ringgit sebulan. Konsepnya dia hampir seperti makan gaji. FELDA pun begitu jugalah. Kalau tidak, pendapatan pertanian ini sangat bermusim. Ia ikut musim tuai, musim tanam semua kan. Ini FELDA membolehkan you melicinkan pendapatan dia, dan sistem itu membolehkan uh pengurusan modal kerja bagi pihak peneroka-peneroka ini untuk perkara itu berterusan. Pada masa yang sama, oleh kerana FELDA ada 330,000 hektar daripada perladangan ni, uh, mereka mencapai sejenis ekonomi bidangan.
+**Rafizi:** Ha, ada off taker. Kita dah sediakan off taker. Tanah tu tanah kerajaan. Cuma kita tak bagi tanah kat orang sebab dia kecil, kecil, kecil kan. Tapi mereka ada plot. Jadi plot tu diberikan supaya dapat hasil dalam 2,000-3,000 ringgit sebulan kan. Setiap tuaian tanaman kontan yang dipilih itu selalunya kitaran dia paling lama 3 bulan. Jadi bila dia menuai sekali tu, dia boleh cover secara purata untung dia, dia dapat 2,000-3,000 ringgit sebulan. Konsepnya dia hampir seperti makan gaji. FELDA pun begitu jugalah. Kalau tidak, pendapatan pertanian ini sangat bermusim. Ia ikut musim tuai, musim tanam semua kan. Ini FELDA membolehkan you melicinkan pendapatan dia, dan sistem itu membolehkan pengurusan modal kerja bagi pihak peneroka-peneroka ini untuk perkara itu berterusan. Pada masa yang sama, oleh kerana FELDA ada 330,000 hektar daripada perladangan ni, mereka mencapai sejenis ekonomi bidangan. Sebab itu FELDA boleh melabur, ada aset dia sendiri semualah. Jadi itulah konsepnya, dan konsep itulah yang membolehkan FELDA membesar dan menjadi kaya raya. Sehinggakan, saya rasa, di bawah Yang Mulia Tan Sri Raja Alias lah. Sehinggakan pada akhir tempoh pengerusiannya lah, mengemudi FELDA tahun 2000 macam itu kan, dia bayar awal semua pinjaman dia tau. Dia bayar semua pinjaman dia. Dah habis semua dah. Selepas itu FELDA mula jadi cash cow lah. Sebab pendapatan, pendapatan FELDA masa tu paling kurang dekat 800 juta ke 1 bilion. Pendapatan tu, pendapatan lah, bukan untung bersih. Pendapatan FELDA dekat 800 juta ke 1 bilion setahun kan. Sehinggakan selepas tempoh Tan Sri Raja Alias itu, FELDA ni jadi besarlah. Tanah ada dekat sampai 800,000 hektar. Lepas tu perniagaan berpuluh-puluh, bilion ringgit nilai aset kan. Dan tunai mula terkumpul lah. Sebab dia dah bayar hutang dia semua kan. Dan itulah akhirnya manusia manusia. Ini yang orang tak suka saya sebab orang kata saya ni kan magnet yang suka duit syiling. Kan. Kalau sesuatu yang baik itu mula berlaku tanpa disiplin, kita jadi selesa diri. Lebih teruk lagi, kalau ada orang jahat, maka kita jadi tamak dan juga kita mula berlaku penyelewengan. Dan itulah yang mula berlaku sebenarnya, pada permulaan, pada awal alaf baharu. Ya, tahun 2000 dan ke atas, sehinggalah kita sekarang ni berada dalam keadaan sekaranglah.
 
-**Rafizi:** Sebab itu FELDA boleh melabur, ada aset dia sendiri semualah. Jadi itulah konsepnya, dan konsep itulah yang membolehkan uh FELDA membesar dan uh menjadi kaya raya. Sehinggakan, saya rasa, di bawah uh Yang Mulia Tan Sri Raja Alias lah. Sehinggakan pada akhir tempoh pengerusiannya lah, uh mengemudi FELDA tahun 2000 macam itu kan, dia bayar awal semua pinjaman dia tau. Dia bayar semua pinjaman dia. Dah habis semua dah. Selepas itu FELDA mula jadi cash cow lah.
-
-**Rafizi:** Sebab pendapatan, pendapatan FELDA masa tu paling kurang dekat 800 juta ke 1 bilion. Pendapatan tu, uh, pendapatan lah, bukan untung bersih. Pendapatan FELDA dekat 800 juta ke 1 bilion setahun kan. Uh, sehinggakan selepas uh tempoh Tan Sri Raja Alias itu, FELDA ni jadi besarlah. Tanah ada dekat sampai uh 800,000 hektar.
-
-**Rafizi:** Lepas tu perniagaan berpuluh-puluh, uh, bilion ringgit nilai aset kan. Dan tunai mula terkumpul lah.
-
-**Rafizi:** Sebab dia dah bayar hutang dia semua kan. Dan uh, itulah akhirnya uh manusia eh, manusia. Uh, ini yang orang tak suka saya sebab orang kata saya ni kan uh magnet yang suka duit syiling.
-
-**Rafizi:** Kan. Uh, kalau sesuatu yang baik itu mula berlaku tanpa disiplin, kita jadi selesa diri. Lebih teruk lagi, kalau ada orang jahat, maka kita jadi tamak dan juga kita mula uh berlaku penyelewengan. Dan itulah yang mula berlaku sebenarnya, pada permulaan, pada awal alaf baharu.
-
-**Rafizi:** Uh, ya, tahun 2000 dan ke atas, sehinggalah kita sekarang ni berada dalam keadaan sekaranglah.
-
-**Haziq:** Jadi itu adalah waktu FELDA tu ditadbir urus dengan baik dan model tu menunjukkan keberkesanannya.
-
-**Haziq:** Jadi kalau YB tengoklah, uh, ya orang kata sekarang ni FELDA ni ada masalah. Uh, kalau saya baca pun dia ada macam banyak sangat skandal. Uh, kalau pada YB lah, mana titik awal sebenarnya yang mulakan FELDA ni jadi macam cash cow atau yang menyebabkan kemerosotan itu?
+**Haziq:** Jadi itu adalah waktu FELDA tu ditadbir urus dengan baik dan model tu menunjukkan keberkesanannya. Jadi kalau YB tengoklah, ya orang kata sekarang ni FELDA ni ada masalah. Kalau saya baca pun dia ada macam banyak sangat skandal. Kalau pada YB lah, mana titik awal sebenarnya yang mulakan FELDA ni jadi macam cash cow atau yang menyebabkan kemerosotan itu?
 
 **Rafizi:** Hah? Jadi cash cow?
 
 **Haziq:** Sorry, sorry. Maksudnya FELDA tu jadi bermasalah lah.
 
-**Rafizi:** Oh. Ya, titik awal dia tu bila FELDA jadi kaya lah.
-
-**Rafizi:** Jadi dia ada 2, 2 garis patah (fault line).
-
-**Haziq:** Okey.
-
-**Rafizi:** Bukan salah FELDA.
-
-**Rafizi:** Tapi nafsu manusia kan. Jadi, um, garis patah pertama ialah FELDA ni nampak seperti cash cow.
-
-**Rafizi:** Dan pada masa yang sama saya ingat pada ketika itu, untuk berlaku adil jugalah, saya muda lagilah. Saya tak tahu apa yang dibincangkan. Tapi saya ingat pengurusan FELDA di bawah yang dulu-dulu, masa full time penjawat awam profesional. Sebab itu kadang-kadang, you know, orang yang menonton semua, rakyat kita, uh, hanya kerana ada bad apples dalam penjawat awam. You know, tambah kebelakangan ini kita dengar macam-macam kan, rasuah, penjawat awam semua ni kan. Tapi kita juga tak boleh menafikan bahawa apa yang kita warisi sekarang ini ialah hasil daripada dedikasi senyap dan profesionalisme penjawat awam itu berdekad-dekad lamanya. Satu contoh kejayaan besar penjawat awam itu adalah melalui FELDA lah. Malah Petronas pun masa mula-mula dibuka, tenaga awal yang memimpin Petronas adalah penjawat awam. Sudah tentu you boleh berhujah lah itulah dulu penjawat awam zaman itu.
-
-**Rafizi:** Mereka super jujur, super pandai, super profesional. Jadi saya ingatlah, you know, uh, kalau di bawah pengurusan Tan Sri Raja Alias yang awal-awal sebelum campur tangan politik gila-gila ni kan.
-
-**Rafizi:** Mereka pun dah nampak bahawa model FELDA yang asal itu ada limitnya.
-
-**Rafizi:** Terutamanya bila dia sampai kepada perubahan generasi.
+**Rafizi:** Oh. Ya, titik awal dia tu bila FELDA jadi kaya lah. Jadi dia ada 2, 2 garis patah (fault line). Bukan salah FELDA. Tapi nafsu manusia kan. Jadi, garis patah pertama ialah FELDA ni nampak seperti cash cow. Dan pada masa yang sama saya ingat pada ketika itu, untuk berlaku adil jugalah, saya muda lagilah. Saya tak tahu apa yang dibincangkan. Tapi saya ingat pengurusan FELDA di bawah yang dulu-dulu, masa full time penjawat awam profesional. Sebab itu kadang-kadang, you know, orang yang menonton semua, rakyat kita, hanya kerana ada bad apples dalam penjawat awam. You know, tambah kebelakangan ini kita dengar macam-macam kan, rasuah, penjawat awam semua ni kan. Tapi kita juga tak boleh menafikan bahawa apa yang kita warisi sekarang ini ialah hasil daripada dedikasi senyap dan profesionalisme penjawat awam itu berdekad-dekad lamanya. Satu contoh kejayaan besar penjawat awam itu adalah melalui FELDA lah. Malah Petronas pun masa mula-mula dibuka, tenaga awal yang memimpin Petronas adalah penjawat awam. Sudah tentu you boleh berhujah lah itulah dulu penjawat awam zaman itu. Mereka super jujur, super pandai, super profesional. Jadi saya ingatlah, you know, kalau di bawah pengurusan Tan Sri Raja Alias yang awal-awal sebelum campur tangan politik gila-gila ni kan. Mereka pun dah nampak bahawa model FELDA yang asal itu ada limitnya. Terutamanya bila dia sampai kepada perubahan generasi.
 
 **Haziq:** Mereka ni siapa?
 
@@ -694,167 +312,57 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Yang nampak ada limit.
 
-**Rafizi:** Yang nampak ada limit. Maksudnya pimpinan FELDA masa itulah.
-
-**Rafizi:** Penjawat awam ni, pengurusan profesional FELDA, yang kebaikannya sebelum Datuk Seri Najib ambil alih ni tahun 2004 ni, kebaikannya dia tak campur tangan sangat dalam FELDA tau.
-
-**Rafizi:** Pengurusan itu diserahkan kepada penjawat awam kan. Jadi model tadbir urus itu lebih kurang berkesan setakat tertentu lah. Tapi saya bayangkan masa itu pun dia dah mula nampak garis patah.
-
-**Haziq:** Okey.
-
-**Rafizi:** Sebab masa FELDA ini dibangunkan bermula tahun 60-an, fokusnya ialah kepada generasi pertama FELDA.
-
-**Rafizi:** Uh, peneroka-peneroka yang terima ni kan. Tapi seiring dengan masa, dia menjadi makin tua. Bila dia menjadi makin tua, dia tak boleh kerjakan ladang dia tu lah.
-
-**Rafizi:** Tu satu kan. Kemudian uh pewarisan.
-
-**Rafizi:** Uh, tanah 10 ekar tu diberikan kepada penerima. Kemudian bila dia nak wariskan, ah, dan urusan pewarisan itu rumit.
-
-**Rafizi:** Adik-beradik bergaduh, kemudian ada yang tak boleh diwariskan, macam-macam masalah lah. Jadi kalau nak ikut pewarisan faraid, cara kita, cara Islam semua kan, kalau you nak bahagi-bahagi tanah, keseluruhan idea tentang FELDA ialah untuk menguruskan ekonomi bidangan.
-
-**Rafizi:** Supaya paling kurang, paling kecil you kena ada 10 ekar. Dah you dapat 10 ekar, lepas tu anak you 5, lepas tu you bagi 2 ekar seorang. Habis. Keseluruhan model tak jalan dah. Jadi saya bayangkan sebenarnya masa itu pun lah, saya harap satu hari kalau saya tua, saya ada masa, saya nak pergi check-check dokumen kat Arkib Negara, cuba cari kan. Saya bayangkan masa itu pun mereka sudah nampak beberapa garis patah. Jadi, um, sudah tentulah perbincangan tentang bagaimana untuk memperkukuhkan model FELDA ini untuk merentasi generasi baru.
-
-**Rafizi:** Jadi itu, itu satu garis patah tau. Itu yang membuka ruang kepada idea-idea yang berlaku pada zaman Najib ni.
-
-**Rafizi:** Kan? Itu satu. Satu lagi garis patah, dan garis patah ni tak ada kena mengena dengan uh model ekonomi ke, soal ekonomi bidangan ke, soal model FELDA ke. Masalah garis patah dia ialah FELDA telah menjadi bank undi UMNO.
-
-**Rafizi:** Jadi secara politiknya untuk menang pilihan raya, uh, FELDA peneroka-peneroka dan keluarga-keluarga mereka mesti digula-gulakan. Dan itulah yang akhirnya nanti kita akan lalui kan, yang akhirnya menyebabkan gula-gula paling manis diberikan supaya UMNO di bawah Datuk Seri Najib menang tahun 2013, tetapi menang sorak kampung tergadai sampai sekarang, FELDA bermasalah kerana uh durian runtuh yang diberikan tahun 2013 dan 2012, sorry eh. Dan itulah kali pertama saya mula ambil tahu dan mengkaji tentang FELDA. Uh, kemudian semua amaran itu lah kan. Jadi um uh daripada dua garis patah ni kan, dan garis patah ni macam bertemu (converge) tau di bawah Datuk Seri Najib.
-
-**Haziq:** Okey.
-
-**Rafizi:** Maksudnya dia merasakan bahawa wang tunai adalah raja.
-
-**Rafizi:** Jadi kalau, sebab kita kena ingat konteks dia tau. 2008, UMNO mengalami kekalahan paling besarlah dalam sejarahnya, sebelum 2018 dan 2022 lah. Setakat itu BN hilang 5 negeri dan juga hilang majoriti 2/3. So Datuk Seri Najib ambil alih 2009 kan. Dan strategi UMNO ialah kita kena menang dan kepung peneroka-peneroka FELDA ni. Jadi penstrukturan semula model FELDA itu bertemu dengan keperluan UMNO untuk menang undi FELDA.
-
-**Rafizi:** Dan cara yang paling baik ialah mengumumkan durian runtuhlah.
-
-**Rafizi:** Iaitu nanti kita bincanglah kan, iaitu penyenaraian FELDA lah.
-
-**Rafizi:** Penyenaraian okey.
-
-**Rafizi:** Ah, maaf. Penyenaraian... Ah, okey. Dah alang-alang tu kita pergi terus lah kat situ kan. Okey. Minum kejap eh. Hmm. Okey. Kita dah lama mana ni?
-
-**Rafizi:** Kita dah sejam.
+**Rafizi:** Yang nampak ada limit. Maksudnya pimpinan FELDA masa itulah. Penjawat awam ni, pengurusan profesional FELDA, yang kebaikannya sebelum Datuk Seri Najib ambil alih ni tahun 2004 ni, kebaikannya dia tak campur tangan sangat dalam FELDA tau. Pengurusan itu diserahkan kepada penjawat awam kan. Jadi model tadbir urus itu lebih kurang berkesan setakat tertentu lah. Tapi saya bayangkan masa itu pun dia dah mula nampak garis patah. Sebab masa FELDA ini dibangunkan bermula tahun 60-an, fokusnya ialah kepada generasi pertama FELDA. Peneroka-peneroka yang terima ni kan. Tapi seiring dengan masa, dia menjadi makin tua. Bila dia menjadi makin tua, dia tak boleh kerjakan ladang dia tu lah. Tu satu kan. Kemudian pewarisan. Tanah 10 ekar tu diberikan kepada penerima. Kemudian bila dia nak wariskan, ah, dan urusan pewarisan itu rumit. Adik-beradik bergaduh, kemudian ada yang tak boleh diwariskan, macam-macam masalah lah. Jadi kalau nak ikut pewarisan faraid, cara kita, cara Islam semua kan, kalau you nak bahagi-bahagi tanah, keseluruhan idea tentang FELDA ialah untuk menguruskan ekonomi bidangan. Supaya paling kurang, paling kecil you kena ada 10 ekar. Dah you dapat 10 ekar, lepas tu anak you 5, lepas tu you bagi 2 ekar seorang. Habis. Keseluruhan model tak jalan dah. Jadi saya bayangkan sebenarnya masa itu pun lah, saya harap satu hari kalau saya tua, saya ada masa, saya nak pergi check-check dokumen kat Arkib Negara, cuba cari kan. Saya bayangkan masa itu pun mereka sudah nampak beberapa garis patah. Jadi, sudah tentulah perbincangan tentang bagaimana untuk memperkukuhkan model FELDA ini untuk merentasi generasi baru. Jadi itu, itu satu garis patah tau. Itu yang membuka ruang kepada idea-idea yang berlaku pada zaman Najib ni. Kan? Itu satu. Satu lagi garis patah, dan garis patah ni tak ada kena mengena dengan model ekonomi ke, soal ekonomi bidangan ke, soal model FELDA ke. Masalah garis patah dia ialah FELDA telah menjadi bank undi UMNO. Jadi secara politiknya untuk menang pilihan raya, FELDA peneroka-peneroka dan keluarga-keluarga mereka mesti digula-gulakan. Dan itulah yang akhirnya nanti kita akan lalui kan, yang akhirnya menyebabkan gula-gula paling manis diberikan supaya UMNO di bawah Datuk Seri Najib menang tahun 2013, tetapi menang sorak kampung tergadai sampai sekarang, FELDA bermasalah kerana durian runtuh yang diberikan tahun 2013 dan 2012, sorry Dan itulah kali pertama saya mula ambil tahu dan mengkaji tentang FELDA. Kemudian semua amaran itu lah kan. Jadi daripada dua garis patah ni kan, dan garis patah ni macam bertemu (converge) tau di bawah Datuk Seri Najib. Maksudnya dia merasakan bahawa wang tunai adalah raja. Jadi kalau, sebab kita kena ingat konteks dia tau. 2008, UMNO mengalami kekalahan paling besarlah dalam sejarahnya, sebelum 2018 dan 2022 lah. Setakat itu BN hilang 5 negeri dan juga hilang majoriti 2/3. So Datuk Seri Najib ambil alih 2009 kan. Dan strategi UMNO ialah kita kena menang dan kepung peneroka-peneroka FELDA ni. Jadi penstrukturan semula model FELDA itu bertemu dengan keperluan UMNO untuk menang undi FELDA. Dan cara yang paling baik ialah mengumumkan durian runtuhlah. Iaitu nanti kita bincanglah kan, iaitu penyenaraian FELDA lah. Penyenaraian okey. Ah, maaf. Penyenaraian. Ah, okey. Dah alang-alang tu kita pergi terus lah kat situ kan. Okey. Minum kejap Okey. Kita dah lama mana ni? Kita dah sejam.
 
 **Haziq:** Sejam.
 
-**Rafizi:** Ah, okey. Masa masih okey kan. Sejam, okay. So kita berbalik kepada model asal FELDA tadi kan. Model asal FELDA ialah peneroka ada dia punya plot-plot, 490,000 hektar ni kan. Kemudian di so-called ladang komersial itu diusahakan secara perladangan. Ada syarikat FELDA Plantation semualah yang menguruskan lebih kurang 330,000 hektar. Kemudian ada semua aset-aset yang menjadi di antara huluan sehingga ke hiliran kan.
-
-**Rafizi:** Sekarang, siapa sebenarnya yang memiliki aset-aset ni semua dan juga ladang ni?
+**Rafizi:** Ah, okey. Masa masih okey kan. Sejam, okay. So kita berbalik kepada model asal FELDA tadi kan. Model asal FELDA ialah peneroka ada dia punya plot-plot, 490,000 hektar ni kan. Kemudian di so-called ladang komersial itu diusahakan secara perladangan. Ada syarikat FELDA Plantation semualah yang menguruskan lebih kurang 330,000 hektar. Kemudian ada semua aset-aset yang menjadi di antara huluan sehingga ke hiliran kan. Sekarang, siapa sebenarnya yang memiliki aset-aset ni semua dan juga ladang ni?
 
 **Haziq:** FELDA sendiri?
 
-**Rafizi:** Yalah, dalam bentuk macam mana? FELDA tu adalah satu authority. Struktur authority tu tak sesuai lah. Dia kalau lembaga ni dia di bawah akta lain. Jadi dia nak menguruskan perniagaan ni dia payah kerana dia akan tertakluk-
-
-**Rafizi:** Takluk kepada pekeliling kerajaan lah, penggajian lah semua. Jadi apa yang kerajaan dulu-dulu buat? Saya ingat masa zaman di bawah Tan Sri Raja Alias jugalah. Apa yang dia buat?
+**Rafizi:** Yalah, dalam bentuk macam mana? FELDA tu adalah satu authority. Struktur authority tu tak sesuai lah. Dia kalau lembaga ni dia di bawah akta lain. Jadi dia nak menguruskan perniagaan ni dia payah kerana dia akan tertakluk- Takluk kepada pekeliling kerajaan lah, penggajian lah semua. Jadi apa yang kerajaan dulu-dulu buat? Saya ingat masa zaman di bawah Tan Sri Raja Alias jugalah. Apa yang dia buat?
 
 **Farhan (Pa'an):** Dia buat satu syarikat untuk menampung semua aset-aset tu.
 
-**Rafizi:** Hmm. So FELDA ada FELDA Holdings Berhad. So FELDA Holdings Berhad ni beroperasi sebagai sebuah syarikat pegangan dan beroperasi secara komersial.
-
-**Rafizi:** Di bawah FELDA Holdings Berhad ni,
-
-**Rafizi:** dia suntik semua aset-aset yang bukan peneroka.
-
-**Rafizi:** So ladang tu pun di bawah FELDA Holdings Berhad. Kemudian aset hiliran, aset pertengahan, semua tu di bawah itu. So ia mencipta satu ekosistem lah. Oleh kerana FELDA memiliki 100% FELDA Holdings Berhad,
-
-**Rafizi:** jadi FELDA dapat hasil daripada FELDA Holdings Berhad ni yang lebih kurang sekitar 1 bilion setahun ni.
-
-**Rafizi:** Okey. So siapa sebenarnya pemilik FELDA Holdings Berhad?
+**Rafizi:** So FELDA ada FELDA Holdings Berhad. So FELDA Holdings Berhad ni beroperasi sebagai sebuah syarikat pegangan dan beroperasi secara komersial. Di bawah FELDA Holdings Berhad ni, dia suntik semua aset-aset yang bukan peneroka. So ladang tu pun di bawah FELDA Holdings Berhad. Kemudian aset hiliran, aset pertengahan, semua tu di bawah itu. So ia mencipta satu ekosistem lah. Oleh kerana FELDA memiliki 100% FELDA Holdings Berhad, jadi FELDA dapat hasil daripada FELDA Holdings Berhad ni yang lebih kurang sekitar 1 bilion setahun ni. Okey. So siapa sebenarnya pemilik FELDA Holdings Berhad?
 
 **Haziq:** Koperasi?
 
-**Rafizi:** Ha, 49%. Sebab tu, kau tahu, benda yang betul kita kena kata betul. Apa pun kita katalah pasal UMNO sekarang kan, ada sumbangan yang besar oleh pimpinan-pimpinan daripada UMNO dululah yang diberi tanggungjawab, dan mungkin benda tu bukan mereka sendiri yang mengusahakan, tapi wawasan ataupun pengiktirafan bahawa perkara-perkara penting ni leave it to the professional dan ahli politik jangan campur tangan. Benda itu berjalan baik tahun 70-an, 80-an, 90-an. Maksudnya di zaman Tun Abdul Razak, kemudian di zaman Tun Hussein Onn, di zaman Tun Dr. Mahathir.
-
-**Rafizi:** Dan Tun Gafar Baba dulu dua kali jadi menteri
-
-**Rafizi:** yang bertanggungjawab ke atas FELDA semua kan. Benda tu berjalan baik. So, kerajaan masa itu tak tamak tau.
-
-**Rafizi:** Ha, kerajaan tak tamak. Jadi FELDA Holdings Berhad ni yang menjana pendapatan rata-rata berjuta-juta ni, kerajaan tak ambil 100% tau.
-
-**Rafizi:** Ha, jadi FELDA kekal dalam model bahawa ia adalah satu program penstrukturan semula sosial dan ekonomi untuk orang miskin. Jadi kerajaan hanya pegang 49% tau, kalau saya tak silap. 51% lagi ialah koperasi.
-
-**Rafizi:** Itu yang ada KPF, Koperasi Permodalan FELDA. So KPF ini, anggota-anggota koperasi ni terdiri daripada peneroka-peneroka yang layak dan juga kakitangan FELDA. So keseluruhan ekosistem ni saling menyokong antara satu sama lain. Dan saya fahamlah kecantikan model itu kerana, kalau saya jadi peneroka FELDA kan, adalah demi kepentingan saya sendiri untuk jaga ladang aku sebaik mungkin untuk dapat hasil yang baik, dan adalah demi kepentingan saya sendiri untuk hantar kepada kilang minyak sawit, POM lah, POM ni kan, kilang minyak sawit FELDA ni. Sebab untung tu datang balik kat aku.
-
-**Rafizi:** Okey. Dia ada beberapa kelemahan yang kita nak kena bincang sikit lepas ni lah kan. Kenapa model itu akhirnya makin lama makin goyah kan? Baik. Setakat sebelum Datuk Seri Najib memulakan semua tu, itu model dia. Jadi 49% milik FELDA dalam FELDA Holdings Berhad, 51% Koperasi Permodalan FELDA. So, sumber pendapatan peneroka ni tiap-tiap tahun ada dua.
-
-**Rafizi:** Satu daripada yang dia dapat daripada hasil ladang dialah.
+**Rafizi:** Ha, 49%. Sebab tu, kau tahu, benda yang betul kita kena kata betul. Apa pun kita katalah pasal UMNO sekarang kan, ada sumbangan yang besar oleh pimpinan-pimpinan daripada UMNO dululah yang diberi tanggungjawab, dan mungkin benda tu bukan mereka sendiri yang mengusahakan, tapi wawasan ataupun pengiktirafan bahawa perkara-perkara penting ni leave it to the professional dan ahli politik jangan campur tangan. Benda itu berjalan baik tahun 70-an, 80-an, 90-an. Maksudnya di zaman Tun Abdul Razak, kemudian di zaman Tun Hussein Onn, di zaman Tun Dr. Mahathir. Dan Tun Gafar Baba dulu dua kali jadi menteri yang bertanggungjawab ke atas FELDA semua kan. Benda tu berjalan baik. So, kerajaan masa itu tak tamak tau. Ha, kerajaan tak tamak. Jadi FELDA Holdings Berhad ni yang menjana pendapatan rata-rata berjuta-juta ni, kerajaan tak ambil 100% tau. Ha, jadi FELDA kekal dalam model bahawa ia adalah satu program penstrukturan semula sosial dan ekonomi untuk orang miskin. Jadi kerajaan hanya pegang 49% tau, kalau saya tak silap. 51% lagi ialah koperasi. Itu yang ada KPF, Koperasi Permodalan FELDA. So KPF ini, anggota-anggota koperasi ni terdiri daripada peneroka-peneroka yang layak dan juga kakitangan FELDA. So keseluruhan ekosistem ni saling menyokong antara satu sama lain. Dan saya fahamlah kecantikan model itu kerana, kalau saya jadi peneroka FELDA kan, adalah demi kepentingan saya sendiri untuk jaga ladang aku sebaik mungkin untuk dapat hasil yang baik, dan adalah demi kepentingan saya sendiri untuk hantar kepada kilang minyak sawit, POM lah, POM ni kan, kilang minyak sawit FELDA ni. Sebab untung tu datang balik kat aku. Okey. Dia ada beberapa kelemahan yang kita nak kena bincang sikit lepas ni lah kan. Kenapa model itu akhirnya makin lama makin goyah kan? Baik. Setakat sebelum Datuk Seri Najib memulakan semua tu, itu model dia. Jadi 49% milik FELDA dalam FELDA Holdings Berhad, 51% Koperasi Permodalan FELDA. So, sumber pendapatan peneroka ni tiap-tiap tahun ada dua. Satu daripada yang dia dapat daripada hasil ladang dialah.
 
 **Haziq:** Ladang.
 
-**Rafizi:** Yang itu selepas tolak hutang dia, selepas tolak pinjaman sara hidup dia, semua-semua-semua. Sekali lagi, akan ada kelemahan yang kita nak kena lalui sikit sebelum kita masuk dalam terperinci. Supaya pendengar-pendengar ni,
+**Rafizi:** Yang itu selepas tolak hutang dia, selepas tolak pinjaman sara hidup dia, semua-semua-semua. Sekali lagi, akan ada kelemahan yang kita nak kena lalui sikit sebelum kita masuk dalam terperinci. Supaya pendengar-pendengar ni, ah, bila isu ni dah meletup nanti, korang jangan termakan dengan terutamanya penulis-penulis, ada 2 3 orang yang cyber trooper UMNO ni, dia suka ambil sekerat-sekerat tau. Dia tak ambil secara keseluruhan lah kan. So, peneroka-peneroka tadi ada 2 pendapatan lah. Satu daripada dividen dan satu lagi daripada hasil. Dan kerajaan juga ada dividen lah. FELDA ada dividen. Jadi dia tak bergantung kepada suntikan dana kerajaan. Sebab itu suntikan dana kerajaan berkuranglah secara mendadak daripada tahun 70-an sehinggalah kepada awal tahun 2000-an tu. Sebabnya ialah FELDA nampak macam hampir berdikari sepenuhnya.
 
-**Rafizi:** ah, bila isu ni dah meletup nanti, korang jangan termakan dengan terutamanya penulis-penulis, ada 2 3 orang yang cyber trooper UMNO ni, dia suka ambil sekerat-sekerat tau. Dia tak ambil secara keseluruhan lah kan.
-
-**Rafizi:** So, peneroka-peneroka tadi ada 2 pendapatan lah. Satu daripada dividen dan satu lagi daripada hasil. Dan kerajaan juga ada dividen lah. FELDA ada dividen. Jadi dia tak bergantung kepada suntikan dana kerajaan. Sebab itu suntikan dana kerajaan berkuranglah secara mendadak daripada tahun 70-an sehinggalah kepada awal tahun 2000-an tu.
-
-**Rafizi:** Sebabnya ialah FELDA nampak macam hampir berdikari sepenuhnya.
-
-**Haziq:** Hmm, hmm, hmm. Betul. Kalau tengok carta tu kan daripada RMK ketiga sampai RMK kelapan tu makin turun.
+**Haziq:** Betul. Kalau tengok carta tu kan daripada RMK ketiga sampai RMK kelapan tu makin turun.
 
 **Rafizi:** Ha kan. So RMK ketiga berapa? 2 bilion?
 
-**Haziq:** Uh, jumlah 4.1. Cuba baca.
-
-**Haziq:** RMK setiap 5 tahun lah RMK. RMK ketiga 4 bilion.
+**Haziq:** Jumlah 4.1. Cuba baca. RMK setiap 5 tahun lah RMK. RMK ketiga 4 bilion.
 
 **Rafizi:** 4.1.
 
-**Haziq:** Lepas tu RMK keempat 2.1.
+**Haziq:** Lepas tu RMK keempat 2.1. Lepas tu 2.1 juga. Lepas tu 1.3. RMK ketujuh sampai tahun 2000 adalah 461 juta.
 
-**Haziq:** Lepas tu 2.1 juga. Lepas tu 1.3.
-
-**Haziq:** RMK ketujuh sampai tahun 2000 adalah 461 juta.
-
-**Rafizi:** Hmm hmm. Bayangkan masa itu eh, maksudnya daripada tahun 96 sampai 2000 eh.
-
-**Haziq:** Haah, betul.
-
-**Rafizi:** Bayangkan eh kalau 400 juta suntikan, maksudnya peruntukan kerajaan lah kepada FELDA untuk keseluruhan FELDA ni kan.
-
-**Rafizi:** Bayangkan kalau 1 RMK 400 juta, maksudnya 100 juta setahun je tau.
-
-**Rafizi:** 100 juta setahun ni, kalau zaman sekarang ni, 10 program kot.
-
-**Rafizi:** 10 program. Saya ingat yang apa nama, Madani punya tu ke apa ni?
+**Rafizi:** Bayangkan masa itu maksudnya daripada tahun 96 sampai 2000 Bayangkan kalau 400 juta suntikan, maksudnya peruntukan kerajaan lah kepada FELDA untuk keseluruhan FELDA ni kan. Bayangkan kalau 1 RMK 400 juta, maksudnya 100 juta setahun je tau. 100 juta setahun ni, kalau zaman sekarang ni, 10 program kot. 10 program. Saya ingat yang apa nama, Madani punya tu ke apa ni?
 
 **Farhan (Pa'an):** Program Madani Rakyat, PMR.
 
-**Rafizi:** Ha, PMR tu kan? Saya ingat paling kurang berapa? 5 6 juta masa tu.
+**Rafizi:** Ha, PMR tu kan? Saya ingat paling kurang berapa? 5 6 juta masa tu. Lebih.
 
-**Rafizi:** Lebih.
+**Farhan (Pa'an):** 6? 8? 8. 8 juta. Ha.
 
-**Farhan (Pa'an):** 6 eh? 8 eh? 8.
+**Rafizi:** Maksudnya dulu untuk, untuk apa nama, 1 tahun punya peruntukan kepada keseluruhan FELDA ni, 100 juta tu tak cukup pun untuk buat program Madani Rakyat di seluruh Malaysia. Sebab 1 program Madani Rakyat 8 juta. Kalau 10, 80 juta. Ada 14 negeri kan. Tak cukup kan. Menunjukkan masa itu, yalah itulah yang sedihnya. Maksudnya FELDA hampir berdikari sepenuhnya kan. Tapi dua garis lemah itulah yang mendorong dan membuka ruang. Dan bila ada buka ruang ni, ada je orang ambil kesempatan lah. Dan itu berlaku secara besar-besaran bermula tahun 2004. 2004 tu tak sangatlah. Dia bermula besar-besaran ni daripada 2010 lepas Datuk Seri Najib jadi Perdana Menteri lah. Cita-cita dia besar. Dan masa itu dia ada misi besar untuk memenangi pilihan raya umum 2013. Sebab masa itu bila dia ambil alih daripada Tun Abdullah Badawi, dia mestilah jadi panglima dan dia mesti menang lagi besar. Tapi dia tak bergerak tu nampak sampai orang takut. Anwar pula duk pi cakap kat semua orang. Saya ada nombor-nombornya. Saya ada. Akan menang 2013 ni. Akan menang 2013 kan. So kalau tengok, banyak beban yang kita ada sekarang ni kan, sebenarnya bermula daripada zaman itu. 1MDB pun zaman itu. 2009 ke 2013. FELDA pun daripada zaman itulah. Dan dia kerana kegilaan dan ketakutan hilang kuasa tahun 2013 itu.
 
-**Farhan (Pa'an):** 8 juta. Ha.
+**Haziq:** Tapi model FELDA ni pun berubah kan tahun 2012? Belum start dengan penyenaraian tu.
 
-**Rafizi:** Maksudnya dulu untuk, untuk apa nama, 1 tahun punya peruntukan kepada keseluruhan FELDA ni, 100 juta tu tak cukup pun untuk buat program Madani Rakyat di seluruh Malaysia. Sebab 1 program Madani Rakyat 8 juta. Kalau 10, 80 juta. Ada 14 negeri kan. Tak cukup kan. Menunjukkan masa itu, yalah itulah yang sedihnya. Maksudnya FELDA hampir berdikari sepenuhnya kan. Tapi dua garis lemah itulah yang mendorong dan membuka ruang. Dan bila ada buka ruang ni, ada je orang ambil kesempatan lah. Dan itu berlaku secara besar-besaran bermula tahun 2004. 2004 tu tak sangatlah. Dia bermula besar-besaran ni daripada 2010 lepas Datuk Seri Najib jadi Perdana Menteri lah. Cita-cita dia besar. Dan masa itu dia ada misi besar untuk memenangi pilihan raya umum 2013. Sebab masa itu bila dia ambil alih daripada Tun Abdullah Badawi, dia mestilah jadi panglima dan dia mesti menang lagi besar.
-
-**Rafizi:** Tapi dia tak bergerak tu nampak sampai orang takut. Anwar pula duk pi cakap kat semua orang.
-
-**Rafizi:** Hmm. Saya ada nombor-nombornya.
-
-**Rafizi:** Saya ada. Akan menang 2013 ni. Akan menang 2013 kan. So kalau tengok, banyak beban yang kita ada sekarang ni kan, sebenarnya bermula daripada zaman itu. 1MDB pun zaman itu.
-
-**Rafizi:** 2009 ke 2013. FELDA pun daripada zaman itulah. Dan dia kerana kegilaan dan ketakutan hilang kuasa tahun 2013 itu.
-
-**Haziq:** Mm-hmm. Tapi model FELDA ni pun berubah kan tahun 2012?
-
-**Haziq:** Belum start dengan penyenaraian tu.
-
-**Rafizi:** Ya, tapi 2012 tu benda tu dah berlaku.
-
-**Rafizi:** Semua ni mesti kerja-kerja latar belakang ni berlaku 2010, 2011 lah. So, kita dah nak sampai ke situlah. Maksudnya kita dah nak sampai kepada detail apa yang telah merosakkan FELDA dan bagaimana ia jelas seperti siang hari lah rompakan itu. Kalau ada orang tanya, tapi saya nasihatkan Datuk Seri Anwar cukuplah guna perkataan sakau.
+**Rafizi:** Ya, tapi 2012 tu benda tu dah berlaku. Semua ni mesti kerja-kerja latar belakang ni berlaku 2010, 2011 lah. So, kita dah nak sampai ke situlah. Maksudnya kita dah nak sampai kepada detail apa yang telah merosakkan FELDA dan bagaimana ia jelas seperti siang hari lah rompakan itu. Kalau ada orang tanya, tapi saya nasihatkan Datuk Seri Anwar cukuplah guna perkataan sakau.
 
 **Haziq:** Sakau.
 
-**Rafizi:** Mana sakaunya?
+**Rafizi:** Mana sakaunya? Ha. Nanti orang tanya pula mana sakaunya semualah. Kalau tengok kepada FELDA ni, memang ada sakau tu jelas. Tu yang saya kata. Kenapa laporan-laporan SPRM yang dibuat selepas kertas putih 2019 tu, kenapa yang kena hanya seorang lah kan, 2, 3 orang je lah. Tan Sri Isa Samad lah semua kan. Tapi dia ada juga banyak jenis-jenis yang lain kan. Saya tak nampak seorang pun didakwa pasal Eagle High Plantations kan. Saya tak nampak seorang pun didakwa pasal pembelian sampai hampir 1 bilion di London kan. So, kembali kepada. Sebelum kita — tapi tak apalah, saya ingat soal kenapa model FELDA sekarang ini perlu dilihat kembali tu nanti kita di hujung nanti. Way forward lah. So okey. Kau nak berehat sekejap boleh tak? Aku semakin tua ni. Aku kena bernafas.
 
-**Rafizi:** Ha. Nanti orang tanya pula mana sakaunya semualah. Kalau tengok kepada FELDA ni, memang ada sakau tu jelas. Tu yang saya kata. Kenapa laporan-laporan SPRM yang dibuat selepas kertas putih 2019 tu, kenapa yang kena hanya seorang lah kan, 2, 3 orang je lah. Tan Sri Isa Samad lah semua kan. Tapi dia ada juga banyak jenis-jenis yang lain kan. Saya tak nampak seorang pun didakwa pasal Eagle High Plantations kan. Saya tak nampak seorang pun didakwa pasal pembelian sampai hampir 1 bilion di London kan. So, kembali kepada. Sebelum kita — tapi tak apalah, saya ingat soal kenapa model FELDA sekarang ini perlu dilihat kembali tu nanti kita di hujung nanti. Way forward lah.
-
-**Rafizi:** So okey. Kau nak berehat sekejap boleh tak? Aku semakin tua ni. Aku kena bernafas.
-
-**Haziq:** Ha, sila, sila. Jadi lepas ni kita akan pergi terus kepada apa yang YB punya pendedahan lah dari tahun 2012. Mungkin saya terangkan kepada yang ni untuk membantulah saudara-saudari, bahan bantuan mengajar eh. Sila buka laman web rafiziramli.com dan tatal ke bawah sekali tu, akan ada nampak banyak macam-macam — 1MDB, alam sekitar, isu-isu kan. Pergi tekan FELDA, ada 48 artikel ataupun penulisan lah yang pernah dibuat oleh Saudara Rafizi tentang isu FELDA. Tekan dekat situ, kita akan telusuri satu-satu lah.
+**Haziq:** Ha, sila, sila. Jadi lepas ni kita akan pergi terus kepada apa yang YB punya pendedahan lah dari tahun 2012. Mungkin saya terangkan kepada yang ni untuk membantulah saudara-saudari, bahan bantuan mengajar Sila buka laman web rafiziramli.com dan tatal ke bawah sekali tu, akan ada nampak banyak macam-macam — 1MDB, alam sekitar, isu-isu kan. Pergi tekan FELDA, ada 48 artikel ataupun penulisan lah yang pernah dibuat oleh Saudara Rafizi tentang isu FELDA. Tekan dekat situ, kita akan telusuri satu-satu lah.
 
 **Rafizi:** Secara cepat.
 
@@ -864,251 +372,43 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Tapi bagus baca.
 
-**Rafizi:** Yalah, masa kita bincang macam mana kita nak bawa isu yang rumit ini kepada orang ramai, dia begini — dia senang tau, dengan manfaat hindsight.
-
-**Rafizi:** Ha, maksudnya mudah untuk sesiapa pun cerita pasal FELDA ni sekarang lah.
-
-**Haziq:** Ya, ya.
-
-**Rafizi:** Sebab laporan tu dah ada, semua kertas putih dah ada semua kan. So, semasa saya menelusuri ini semalam lah semua kan — ya, ini cerita peribadi sikitlah. Sebab kau tahulah aku ni jenis kunci bilik, biasa aku buat pembacaan aku semua kan. Aku rasa kenapalah aku bodoh buat semuanya?
-
-**Rafizi:** Sebab, kau tahu, sekarang dah lebih kurang 10 tahun kan daripada — malah daripada perkara pertama yang saya bawa ni, dah 14 tahun dah. Dah masuk 15 tahun kan. Tak ada tindakan pun, tak ada apa kan. Dan kau lalui susah payah naik turun untuk perkara ini kan. Tapi yalah, yang menyeronokkan adalah untuk tahu bahawa sebenarnya kau telah lakukan tugas kau. Saya telah buat tugas saya.
-
-**Rafizi:** Dan kenapa kita perlu telusuri satu ni? Sebab kita nak cross verify lah. Maksudnya perkara yang seorang ahli parlimen biasa yang tak ada pegawai, tak ada kuasa, yang ada hanyalah internet.
-
-**Rafizi:** Ha kan? Dan kena rajin sikit dan kena faham sikit. Masa ni tak ada ChatGPT pun. Kau kena faham sendiri kan?
-
-**Rafizi:** Seorang ahli parlimen biasa, dan saya hanya, apa, 30 masa — masa 2012 ni aku baru 35 umur kan. Umur 2016 aku dalam 39 lah, nak masuk 40 kan masa tu kan.
-
-**Rafizi:** Sebenarnya banyak boleh kau dedahkan kalau kau betul-betul minat lah. So, kemudian maksudnya bila kita cross verify dengan penemuan kerajaan, dengan audit forensik tu, maksudnya tak payah tunggu audit forensik pun, benda tu pun dah jelas dah.
-
-**Rafizi:** Kan? So saya berharaplah — maksud saya sebab saya sebut ni, nanti orang kata, "ah dia ni masuk bakul angkat sendiri." Tak ada lah, kau tahu. Isu dia begini, kita semua semakin tua. Saya semakin tua. Saya tak rasa saya ada tenaga untuk semak semua macam aku zaman muda-muda 15 tahun dulu kan. Maksudnya yang muda-muda sekarang, tambah yang nak jadi ahli politik, nak jadi ahli parlimen — sebenarnya ada begitu banyak yang kau boleh buat. Tapi kau tahu, kau perlu ada passion untuk itu lah kan. Dan kepuasan — kau tak dapat apa. Aku tak pernah dapat apa pun. Tu lah aku duk kata, Ya Allah, kalau ya pun Azmin, apa nama ni, lepas buat kertas putih, banyak penemuan tu sama, ataupun entah-entah dia pergi check punya aku kan. Sebab dokumen semua ada kat sini kan. Paling kurang hantarlah nota sikit kan, walaupun aku tak berminat dalam politik masa tu kan. So, kau tak dapat apa-apa kecuali kepuasan mengetahui kita dah buat kerja kita lah. Baik eh. Okey, sekarang.
-
-**Rafizi:** So let kita jejaki semula eh.
-
-**Rafizi:** So kalau ia bermula oleh kerana garis patahan yang kita sebut tadi tu, maka banyaklah idea-idea yang datang.
-
-**Rafizi:** So idea yang paling besar zaman Najib
-
-**Rafizi:** yalah ambil aset daripada FELDA Holdings tu
-
-**Rafizi:** yang kaya raya, jana 100 apa nama ni, 1 bilion 800 hingga 1 bilion setahun ni. Asset strip keseluruhannya, pindahkan kepada 1 syarikat baru, nama dia FELDA Global Ventures.
-
-**Rafizi:** Dan kemudian kau jual saham.
-
-**Rafizi:** Dan kemudian kau senaraikan. Dan masa dia disenaraikan, dia diwarwarkan sebagai antara IPO — initial public offering lah, penyenaraian awam yang terbesar di dunia lah. Masa tu dia nak raise lebih kurang 10 bilion. Dia raise lebih kurang 10 bilion ringgit lah kan. Okey. Dan itu alasan dia lah.
-
-**Rafizi:** Itu akan bagi — dia kata ini win-win kepada semua.
-
-**Rafizi:** Kepada FELDA, maksudnya FELDA sekarang ni ada akses kepada modal yang lebih besar.
-
-**Rafizi:** Hasil daripada penyenaraian awam itu memberi modal baru kepada FGV, dan itu boleh digunakan untuk membesarkan lagi perniagaan. Itu yang jadi spin off satu siri — apa ni — pembelian lah, kau tahu, penyelewengan dan semualah kepada FELDA, itu alasan dia lah.
-
-**Rafizi:** Kau akan lihat nanti dalam — apa nama ni — sementara kita pergi satu-satu ni.
-
-**Rafizi:** Sebenarnya pengurusan FELDA tak setuju.
-
-**Rafizi:** Ha, ada. Aku seperti biasa mendapat laporan rahsia kan. Ada dekat blog saya tau, ni semua ni kan. Kemudian kepada peneroka. Ah, yang ini yang penting, yang dua garis patahan tadi kan. So penyenaraian, asset stripping daripada FELDA dibubuhkan kepada FGV ini, hujah dia ialah dia menyelesaikan kedua-dua garis patahan tadi.
-
-**Rafizi:** Mengukuhkan kedudukan ekonomi, kewangan FELDA melalui FGV, dan apa nama ni, daripada keuntungan itu semua tu nanti FELDA makin kaya lah.
-
-**Haziq:** Ya.
-
-**Rafizi:** Dan kepada peneroka-peneroka pula,
-
-**Rafizi:** pitching dia Datuk Seri Najib masa tu, dan UMNO masa tu, ialah bila kita ada FGV ni, kau akan — apa nama ni — dapat dua bentuk duit lah kan. Satu ialah bila peneroka dalam KPF ni dia kena jual saham dia dalam FGV lah.
-
-**Rafizi:** Ha, so dia private placement aku rasa kan. So saham-saham FGV yang 51% tu, peneroka dah tak punyai tau.
-
-**Rafizi:** Dia kena jual.
+**Rafizi:** Yalah, masa kita bincang macam mana kita nak bawa isu yang rumit ini kepada orang ramai, dia begini — dia senang tau, dengan manfaat hindsight. Ha, maksudnya mudah untuk sesiapa pun cerita pasal FELDA ni sekarang lah. Sebab laporan tu dah ada, semua kertas putih dah ada semua kan. So, semasa saya menelusuri ini semalam lah semua kan — ya, ini cerita peribadi sikitlah. Sebab kau tahulah aku ni jenis kunci bilik, biasa aku buat pembacaan aku semua kan. Aku rasa kenapalah aku bodoh buat semuanya? Sebab, kau tahu, sekarang dah lebih kurang 10 tahun kan daripada — malah daripada perkara pertama yang saya bawa ni, dah 14 tahun dah. Dah masuk 15 tahun kan. Tak ada tindakan pun, tak ada apa kan. Dan kau lalui susah payah naik turun untuk perkara ini kan. Tapi yalah, yang menyeronokkan adalah untuk tahu bahawa sebenarnya kau telah lakukan tugas kau. Saya telah buat tugas saya. Dan kenapa kita perlu telusuri satu ni? Sebab kita nak cross verify lah. Maksudnya perkara yang seorang ahli parlimen biasa yang tak ada pegawai, tak ada kuasa, yang ada hanyalah internet. Ha kan? Dan kena rajin sikit dan kena faham sikit. Masa ni tak ada ChatGPT pun. Kau kena faham sendiri kan? Seorang ahli parlimen biasa, dan saya hanya, apa, 30 masa — masa 2012 ni aku baru 35 umur kan. Umur 2016 aku dalam 39 lah, nak masuk 40 kan masa tu kan. Sebenarnya banyak boleh kau dedahkan kalau kau betul-betul minat lah. So, kemudian maksudnya bila kita cross verify dengan penemuan kerajaan, dengan audit forensik tu, maksudnya tak payah tunggu audit forensik pun, benda tu pun dah jelas dah. Kan? So saya berharaplah — maksud saya sebab saya sebut ni, nanti orang kata, "ah dia ni masuk bakul angkat sendiri." Tak ada lah, kau tahu. Isu dia begini, kita semua semakin tua. Saya semakin tua. Saya tak rasa saya ada tenaga untuk semak semua macam aku zaman muda-muda 15 tahun dulu kan. Maksudnya yang muda-muda sekarang, tambah yang nak jadi ahli politik, nak jadi ahli parlimen — sebenarnya ada begitu banyak yang kau boleh buat. Tapi kau tahu, kau perlu ada passion untuk itu lah kan. Dan kepuasan — kau tak dapat apa. Aku tak pernah dapat apa pun. Tu lah aku duk kata, Ya Allah, kalau ya pun Azmin, apa nama ni, lepas buat kertas putih, banyak penemuan tu sama, ataupun entah-entah dia pergi check punya aku kan. Sebab dokumen semua ada kat sini kan. Paling kurang hantarlah nota sikit kan, walaupun aku tak berminat dalam politik masa tu kan. So, kau tak dapat apa-apa kecuali kepuasan mengetahui kita dah buat kerja kita lah. Baik Okey, sekarang. So let kita jejaki semula So kalau ia bermula oleh kerana garis patahan yang kita sebut tadi tu, maka banyaklah idea-idea yang datang. So idea yang paling besar zaman Najib yalah ambil aset daripada FELDA Holdings tu yang kaya raya, jana 100 apa nama ni, 1 bilion 800 hingga 1 bilion setahun ni. Asset strip keseluruhannya, pindahkan kepada 1 syarikat baru, nama dia FELDA Global Ventures. Dan kemudian kau jual saham. Dan kemudian kau senaraikan. Dan masa dia disenaraikan, dia diwarwarkan sebagai antara IPO — initial public offering lah, penyenaraian awam yang terbesar di dunia lah. Masa tu dia nak raise lebih kurang 10 bilion. Dia raise lebih kurang 10 bilion ringgit lah kan. Okey. Dan itu alasan dia lah. Itu akan bagi — dia kata ini win-win kepada semua. Kepada FELDA, maksudnya FELDA sekarang ni ada akses kepada modal yang lebih besar. Hasil daripada penyenaraian awam itu memberi modal baru kepada FGV, dan itu boleh digunakan untuk membesarkan lagi perniagaan. Itu yang jadi spin off satu siri — apa ni — pembelian lah, kau tahu, penyelewengan dan semualah kepada FELDA, itu alasan dia lah. Kau akan lihat nanti dalam — apa nama ni — sementara kita pergi satu-satu ni. Sebenarnya pengurusan FELDA tak setuju. Ha, ada. Aku seperti biasa mendapat laporan rahsia kan. Ada dekat blog saya tau, ni semua ni kan. Kemudian kepada peneroka. Ah, yang ini yang penting, yang dua garis patahan tadi kan. So penyenaraian, asset stripping daripada FELDA dibubuhkan kepada FGV ini, hujah dia ialah dia menyelesaikan kedua-dua garis patahan tadi. Mengukuhkan kedudukan ekonomi, kewangan FELDA melalui FGV, dan apa nama ni, daripada keuntungan itu semua tu nanti FELDA makin kaya lah. Dan kepada peneroka-peneroka pula, pitching dia Datuk Seri Najib masa tu, dan UMNO masa tu, ialah bila kita ada FGV ni, kau akan — apa nama ni — dapat dua bentuk duit lah kan. Satu ialah bila peneroka dalam KPF ni dia kena jual saham dia dalam FGV lah. Ha, so dia private placement aku rasa kan. So saham-saham FGV yang 51% tu, peneroka dah tak punyai tau. Dia kena jual.
 
 **Haziq:** Jual.
 
-**Rafizi:** Ha, so dia kena buka kan. Kalau tidak, kau tak boleh jadi syarikat awam tersenarai lah sebab dikontrol oleh satu badan kan. Sebagai balasan untuk itu, so kau dapat duit tu. Sebagai balasan untuk itu, ada skim untuk beli saham-saham FGV ni lah. Skim pinjaman lah, macam-macam macam manalah. Dan yang
-
-**Rafizi:** lagi yang paling penting yang saya ingat, Datuk Seri Najib masa tu rasa penting untuk menang undi, undi FELDA, ialah ada bonus durian runtuh.
-
-**Rafizi:** Aku rasa dia dapat dalam berapa? Nanti kita telusuri lah. Aku rasa dalam berapa — 3, 4000 satu keluarga semua lah kan. So bagi duit percuma mah.
-
-**Rafizi:** Ha, peneroka-peneroka masa tu, wah, duit percuma mah kan. So.
-
-**Rafizi:** Mungkin tak pernah berlaku sebelumnya.
-
-**Rafizi:** Tak, tak pernah berlaku sebelum dan selepas.
-
-**Rafizi:** Ha. Seperti biasa, only in Malaysia kan. Jadi yang itulah. Ha, dan bila penyenaraian itu berlaku, FELDA tiba-tiba dapat duit banyak semua — duit yang patut buat mengukuhkan sistem perladangan semua ni — dia pergi guna untuk benda lain lah, termasuklah kondo. Ha, nanti kita telusuri kondo eh. Dan kondo tu memang dah ada yang kena dakwa pun. Ha eh, baik. So, ia bermula daripada situ, dan reaksi saya yang pertama — masa tu saya bukan ahli parlimen pun lagi.
-
-**Rafizi:** 23 Februari 2012.
-
-**Haziq:** Yap.
-
-**Rafizi:** Tindakan mengenepikan KPF bermakna membelakangkan peneroka, merendahkan nilai penaraian FGV. Jadi saya, saya persoalkanlah kan.
-
-**Rafizi:** Um, sebenarnya saya tunjukkan uh, keuntungan sebelum cukai FELDA Holdings Berhad masa itu 760 juta.
-
-**Rafizi:** Setakat 31 Disember 2010. Dan FELDA Global Ventures Berhad masa tu yang menguruskan ladang-ladang FELDA ni 366 juta kan.
-
-**Rafizi:** Jadi sebenarnya memang masa 2010 pun perolehan daripada kumpulan FELDA ni dah 1 billion.
-
-**Rafizi:** So, um, apa nama ni, Koperasi Permodalan FELDA, KPF ni ialah Koperasi Permodalan FELDA, tak silap saya, bukan koperasi peneroka. KPF is Koperasi Permodalan FELDA kan. Um, so dia ada isu lah. Sebab bila disenaraikan, macam saya sebut, dia akan turunkanlah daripada jadi pemegang saham majoriti, dia jadi minoriti lah. Uh, jadi ada peneroka-peneroka masa. Itulah bagaimana saya terlibat.
-
-**Rafizi:** Kerana ada peneroka-peneroka yang datang cari aku.
-
-**Rafizi:** Ah. So dia minta uh bersuara sebab mereka secara dalaman, mereka menggunakan hak mereka sebagai ahli koperasi. Dan koperasi ini menarik tau.
-
-**Rafizi:** Dia tak kira berapa banyak saham you ada.
-
-**Rafizi:** Setiap seorang ahli tu, walaupun you ada satu saham berbanding dengan seorang lagi ada 1000 saham, undi dia tetap 1 saja.
-
-**Rafizi:** So dia nak menggunakan hak mereka untuk mengundi di KPF untuk menyekat penyerahan saham KPF uh kepada SPV yang nak disenaraikan ni lah.
-
-**Rafizi:** Um. Jadi yang saya persoalkan masa itu kan, saya minta kerajaan uh menyatakan kan, kalau perkara ini diteruskan, keuntungan daripada penyenaraian dan dividen yang bakal diperolehi oleh peneroka pada masa akan datang adalah jauh lebih rendah daripada yang kerajaan wawa kan
-
-**Rafizi:** masa buat kempen untuk ke arah uh PRU 2013 kan.
-
-**Rafizi:** Dan yalah, tentulah kita memang dah tahulah perkara itu telah terbukti berlaku lah kan. So itu kenyataan pertama. Seperti biasa, awal-awal
-
-**Rafizi:** tak ada orang layan aku dah. Tabung Haji ke apa, aku cakap macam aku sorang lah. Dulu tak ada podcast.
-
-**Rafizi:** Paling hebat kau boleh berceramah je lah, tapi ceramah masa tu tak ada live telecast. Jadi orang yalah orang kiralah budak gila kan. So tapi yalah kita teruskan lagi. Um, kemudian 8 Mei 2012, saya dan Wong Chen keluarkan satu lagi kenyataan.
-
-**Rafizi:** Kerana ada satu laporan bebas yang mengatakan bahawa samalah kita mempersoalkan uh pitching yang Datuk Seri Najib dan UMNO buat kepada peneroka-peneroka tentang durian runtuh semua ni. Sebab bila kita tengok, sebenarnya profil pokok FELDA masa itu adalah um lebih inferior berbanding dengan apa yang dia sebut tu.
-
-**Rafizi:** Uh, dan daripada itu kami menjangkakan bahawa jumlah yang akan didapati daripada penyenaraian itu adalah jauh lebih rendah tau, eh. Sebabnya, yang diumumkan begini, eh. Datuk Seri Najib umum bahawa penyenaraian itu akan mendapat 21 bilion. Nilaian dia 21 bilion.
+**Rafizi:** Ha, so dia kena buka kan. Kalau tidak, kau tak boleh jadi syarikat awam tersenarai lah sebab dikontrol oleh satu badan kan. Sebagai balasan untuk itu, so kau dapat duit tu. Sebagai balasan untuk itu, ada skim untuk beli saham-saham FGV ni lah. Skim pinjaman lah, macam-macam macam manalah. Dan yang lagi yang paling penting yang saya ingat, Datuk Seri Najib masa tu rasa penting untuk menang undi, undi FELDA, ialah ada bonus durian runtuh. Aku rasa dia dapat dalam berapa? Nanti kita telusuri lah. Aku rasa dalam berapa — 3, 4000 satu keluarga semua lah kan. So bagi duit percuma mah. Ha, peneroka-peneroka masa tu, wah, duit percuma mah kan. So. Mungkin tak pernah berlaku sebelumnya. Tak, tak pernah berlaku sebelum dan selepas. Ha. Seperti biasa, only in Malaysia kan. Jadi yang itulah. Ha, dan bila penyenaraian itu berlaku, FELDA tiba-tiba dapat duit banyak semua — duit yang patut buat mengukuhkan sistem perladangan semua ni — dia pergi guna untuk benda lain lah, termasuklah kondo. Ha, nanti kita telusuri kondo Dan kondo tu memang dah ada yang kena dakwa pun. Ha baik. So, ia bermula daripada situ, dan reaksi saya yang pertama — masa tu saya bukan ahli parlimen pun lagi. 23 Februari 2012. Tindakan mengenepikan KPF bermakna membelakangkan peneroka, merendahkan nilai penaraian FGV. Jadi saya, saya persoalkanlah kan. Sebenarnya saya tunjukkan keuntungan sebelum cukai FELDA Holdings Berhad masa itu 760 juta. Setakat 31 Disember 2010. Dan FELDA Global Ventures Berhad masa tu yang menguruskan ladang-ladang FELDA ni 366 juta kan. Jadi sebenarnya memang masa 2010 pun perolehan daripada kumpulan FELDA ni dah 1 billion. So, apa nama ni, Koperasi Permodalan FELDA, KPF ni ialah Koperasi Permodalan FELDA, tak silap saya, bukan koperasi peneroka. KPF is Koperasi Permodalan FELDA kan. So dia ada isu lah. Sebab bila disenaraikan, macam saya sebut, dia akan turunkanlah daripada jadi pemegang saham majoriti, dia jadi minoriti lah. Jadi ada peneroka-peneroka masa. Itulah bagaimana saya terlibat. Kerana ada peneroka-peneroka yang datang cari aku. Ah. So dia minta bersuara sebab mereka secara dalaman, mereka menggunakan hak mereka sebagai ahli koperasi. Dan koperasi ini menarik tau. Dia tak kira berapa banyak saham you ada. Setiap seorang ahli tu, walaupun you ada satu saham berbanding dengan seorang lagi ada 1000 saham, undi dia tetap 1 saja. So dia nak menggunakan hak mereka untuk mengundi di KPF untuk menyekat penyerahan saham KPF kepada SPV yang nak disenaraikan ni lah. Jadi yang saya persoalkan masa itu kan, saya minta kerajaan menyatakan kan, kalau perkara ini diteruskan, keuntungan daripada penyenaraian dan dividen yang bakal diperolehi oleh peneroka pada masa akan datang adalah jauh lebih rendah daripada yang kerajaan wawa kan masa buat kempen untuk ke arah PRU 2013 kan. Dan yalah, tentulah kita memang dah tahulah perkara itu telah terbukti berlaku lah kan. So itu kenyataan pertama. Seperti biasa, awal-awal tak ada orang layan aku dah. Tabung Haji ke apa, aku cakap macam aku sorang lah. Dulu tak ada podcast. Paling hebat kau boleh berceramah je lah, tapi ceramah masa tu tak ada live telecast. Jadi orang yalah orang kiralah budak gila kan. So tapi yalah kita teruskan lagi. Kemudian 8 Mei 2012, saya dan Wong Chen keluarkan satu lagi kenyataan. Kerana ada satu laporan bebas yang mengatakan bahawa samalah kita mempersoalkan pitching yang Datuk Seri Najib dan UMNO buat kepada peneroka-peneroka tentang durian runtuh semua ni. Sebab bila kita tengok, sebenarnya profil pokok FELDA masa itu adalah lebih inferior berbanding dengan apa yang dia sebut tu. Dan daripada itu kami menjangkakan bahawa jumlah yang akan didapati daripada penyenaraian itu adalah jauh lebih rendah tau, Sebabnya, yang diumumkan begini, Datuk Seri Najib umum bahawa penyenaraian itu akan mendapat 21 bilion. Nilaian dia 21 bilion.
 
 **Haziq:** 21 bilion.
 
-**Rafizi:** Masa dijual. Tentulah, uh, saya tak ingat sangat. Dia 10 billion lah. Dia bukan 21 billion lah. Dia 10 billion kan. Kemudian Datuk Seri Najib pula umumkan janji dia untuk masuk ke PRU 13 ialah setiap keluarga akan dapat 15,000 uh ringgit.
+**Rafizi:** Masa dijual. Tentulah, saya tak ingat sangat. Dia 10 billion lah. Dia bukan 21 billion lah. Dia 10 billion kan. Kemudian Datuk Seri Najib pula umumkan janji dia untuk masuk ke PRU 13 ialah setiap keluarga akan dapat 15,000 ringgit.
 
 **Haziq:** Ringgit.
 
-**Rafizi:** Ha. Dan kita memang tanya terus macam mana jumlah baki selepas diagihkan ini, jumlah baki 4 billion itu akan dibelanjakan.
-
-**Rafizi:** Ha kan. Yang itu juga menjadi sebahagian daripada penemuan-penemuan di dalam kertas putih. Itu 8 Mei eh.
-
-**Rafizi:** Okey, then kita pergi seterusnya. Sabar je orang ramai eh. Dia menarik. Dia akan ada benda-benda yang dalam laporan kertas putih tu pun tak ada.
-
-**Rafizi:** Ha. Sebab aku nak menunjukkan betapa kreatifnya orang-orang yang buat ni. Kalau Tabung Haji ada kreatif
+**Rafizi:** Ha. Dan kita memang tanya terus macam mana jumlah baki selepas diagihkan ini, jumlah baki 4 billion itu akan dibelanjakan. Ha kan. Yang itu juga menjadi sebahagian daripada penemuan-penemuan di dalam kertas putih. Itu 8 Mei Okey, then kita pergi seterusnya. Sabar je orang ramai Dia menarik. Dia akan ada benda-benda yang dalam laporan kertas putih tu pun tak ada. Ha. Sebab aku nak menunjukkan betapa kreatifnya orang-orang yang buat ni. Kalau Tabung Haji ada kreatif
 
 **Haziq:** Perakaunan.
 
-**Rafizi:** Perakaunan, yang ini pun ada kreatif dari segi macam mana nak mencuri duit, pakai geran palsu, macam-macam. Macam-macam dia cerita eh. Okey. Seterusnya, pada 16 Mei 2012, saya uh, yang ini yang saya sebut tadi. Saya mendedahkan satu laporan rahsia yang dibuat oleh Boston Consulting Group, iaitu salah satu daripada perundinglah yang menyediakan dan menilai rancangan penyenaraian ini.
+**Rafizi:** Perakaunan, yang ini pun ada kreatif dari segi macam mana nak mencuri duit, pakai geran palsu, macam-macam. Macam-macam dia cerita Okey. Seterusnya, pada 16 Mei 2012, saya yang ini yang saya sebut tadi. Saya mendedahkan satu laporan rahsia yang dibuat oleh Boston Consulting Group, iaitu salah satu daripada perundinglah yang menyediakan dan menilai rancangan penyenaraian ini. Dan salah satu daripada laporan itu menyatakan bahawa satu halangan besar kepada penyenaraian ini ialah kerana pengurusan FELDA tak bersetuju. Jadi kalau saudari-saudari pergi ke blog saya. Aku harap blog aku lepas ni tak kena block ah. Ada saya tunjukkan ini laporan daripada satu slide BCG. Daripada satu slide, BCG bertarikh 18 Oktober 2011, Dia tulis kat situ, cabaran terbesar, cabaran terbesar untuk mendapatkan sokongan organisasi. Cabaran terbesar untuk Najib menyenaraikan buat apa yang dia nak ni ialah kerana FELDA tak setuju. So daripada sini menunjukkan lebih separuh dari pengurusan FELDA, iaitu 55% pada tahun itulah 2011, 2012 itu, tidak bersedia untuk melalui proses penyenaraian ini. Hanya 20% dari pengurusan tertinggi FELDA yang benar-benar menyokong proses penyenaraian ini, dan 65% dari pengurusan tertinggi FELDA percaya proses penyenaraian ini akan gagal. Sebab itu, sekali lagi, saya ulang balik tau. Kita nak kena berlaku adil kepada semua. Sebab sebenarnya, kita ada banyak orang yang baik dalam organisasi kerajaan ni. Yang kita jangan pukul rata, kan? So, untuk berlaku adil, takut lepas ni ada orang dikambing hitamkan Ha, nanti akan ada menteri akan kata ataupun pengerusi, ahli-ahli politik yang dalam FELDA daripada UMNO ni kata, "Oh, kita tak terlibat di dalam apa nama ni pengurusan FELDA ke apa kan? You tahu, jelas sebenarnya pegawai-pegawai kerajaan yang menguruskan FELDA masa tu memang dah cakap ini akan gagal. Tapi tentulah, Najib bin Najib dan UMNO dia teruskan kan?
 
-**Rafizi:** Dan salah satu daripada laporan itu menyatakan bahawa satu halangan besar kepada penyenaraian ini ialah kerana pengurusan FELDA tak bersetuju.
-
-**Rafizi:** Jadi kalau saudari-saudari pergi ke blog saya.
-
-**Rafizi:** Aku harap blog aku lepas ni tak kena block ah. Um, ada saya tunjukkan ini laporan daripada satu slide BCG. Daripada satu slide, uh, BCG bertarikh 18 Oktober 2011, eh. Dia tulis kat situ, eh, cabaran terbesar,
-
-**Rafizi:** cabaran terbesar untuk mendapatkan sokongan organisasi. Cabaran terbesar untuk Najib menyenaraikan
-
-**Rafizi:** buat apa yang dia nak ni ialah kerana uh, FELDA tak setuju.
-
-**Rafizi:** So daripada sini menunjukkan lebih separuh dari pengurusan FELDA, iaitu 55% pada tahun itulah 2011, 2012 itu, tidak bersedia untuk melalui proses penyenaraian ini. Hanya 20% dari pengurusan tertinggi FELDA yang benar-benar menyokong proses penyenaraian ini, dan 65% dari pengurusan tertinggi FELDA percaya proses penyenaraian ini akan gagal.
-
-**Rafizi:** Sebab itu, sekali lagi, saya ulang balik tau. Kita nak kena berlaku adil kepada semua. Sebab sebenarnya, kita ada banyak orang yang baik dalam organisasi kerajaan ni.
-
-**Rafizi:** Yang kita jangan pukul rata, kan? So, untuk berlaku adil, takut lepas ni ada orang dikambing hitamkan eh.
-
-**Rafizi:** Ha, nanti akan ada menteri akan kata ataupun pengerusi, ahli-ahli politik yang dalam FELDA daripada UMNO ni kata, "Oh, kita tak terlibat di dalam apa nama ni pengurusan FELDA ke apa kan?
-
-**Rafizi:** You tahu, jelas sebenarnya pegawai-pegawai kerajaan yang menguruskan FELDA masa tu memang dah cakap ini akan gagal. Tapi tentulah, Najib bin Najib dan UMNO dia teruskan kan?
-
-**Farhan (Pa'an):** Mm. So- maaf, soalan pantas. Sebab sebarang keputusan sama ada komersial ataupun apa-apa sepatutnya ada proses pengundian kan?
+**Farhan (Pa'an):** So- maaf, soalan pantas. Sebab sebarang keputusan sama ada komersial ataupun apa-apa sepatutnya ada proses pengundian kan?
 
 **Rafizi:** Mana ada proses pengundian? Ini kerajaan punya.
 
 **Farhan (Pa'an):** Oh, tunggu, saya terlupa. Yeah. So memang Najib yang ada kuasa.
 
-**Rafizi:** Yalah, dia menteri yang bertanggungjawab.
-
-**Rafizi:** Akta FELDA ni ada beberapa lah, tapi akta yang paling besar Akta FELDA sendirilah. Saya rasa apa, 1950-an sesuatu, 59 ni. Satu lagi akta yang berkaitan dengan FELDA ni, GSA, Group Settlement Act kan. Um, kuasa tu kuasa menteri, Najib lah. Ha. Tentulah dia ada lembaga dia, Lembaga Pengarah FELDA kan.
-
-**Rafizi:** Tapi Lembaga Pengarah FELDA tu ialah lantikan dia.
-
-**Rafizi:** Dan lantikan dia adalah ahli politik semua. Dia sama macam cerita Tabung Haji lah.
-
-**Rafizi:** Tapi pengurusan FELDA masa itu memang tak bersetuju. Kan? So ini laporan yang jelas. Dan aku dah tanya seperti biasa, tak ada orang jawab dan aku rasa orang-orang PKR, PH pada masa tu tak minat pun.
-
-**Rafizi:** Ha, dia... tak apalah, kita tak payah cerita yang tu lah. Nanti sedih aku kan. Sebab ia perjalanan yang sangat sunyi kan. Kemudian, 4 hari kemudian, 16 Mei 2012 kan, um, saya ceritakan lagi pasal profil pokok ni.
-
-**Rafizi:** Kan? Profil pokok ni dengan Wong Chen juga.
-
-**Rafizi:** Um kita menyatakan kebimbangan kita pasal profil pokok kerana satu laporan daripada Wall Street Journal mengenai IPO FGV ni. Memang Wall Street Journal dah buat analisa dan kata bahawa profil pokok kelapa sawit yang dalam FGV, dalam FELDA ni sebenarnya tidak baik dan tidak ada prospek yang setanding dengan ladang-ladang yang lain. So you tak akan dapat kecekapan dan keuntungan serta sinergi operasi seperti mana ladang-ladang lain yang disenaraikan. So, ia kembali kepada dua perkaralah. Satu yang kita dah cakap daripada awal, pengurusan FELDA pun dah cakap daripada awal, jangan buat sebab FELDA ini dia ada aspek sos-
-
-**Rafizi:** Aspek sosial padanya. Dia untuk, ia adalah sebahagian daripada program negara untuk membasmi kemiskinan. Ia tidak boleh didorong 100% sebagai satu entiti komersial untuk memberikan kecekapan dan hasil seperti yang ada daripada syarikat-syarikat perladangan lain yang disenaraikan. KL Kepong ke, IOI ke, United Plantation ke apa kan. So kalau you dah tahu macam itu, you buat juga. Buat apa nak bazirkan duit? Hmm.
-
-**Rafizi:** Okey. 16 Mei 2012 kan?
+**Rafizi:** Yalah, dia menteri yang bertanggungjawab. Akta FELDA ni ada beberapa lah, tapi akta yang paling besar Akta FELDA sendirilah. Saya rasa apa, 1950-an sesuatu, 59 ni. Satu lagi akta yang berkaitan dengan FELDA ni, GSA, Group Settlement Act kan. Kuasa tu kuasa menteri, Najib lah. Ha. Tentulah dia ada lembaga dia, Lembaga Pengarah FELDA kan. Tapi Lembaga Pengarah FELDA tu ialah lantikan dia. Dan lantikan dia adalah ahli politik semua. Dia sama macam cerita Tabung Haji lah. Tapi pengurusan FELDA masa itu memang tak bersetuju. Kan? So ini laporan yang jelas. Dan aku dah tanya seperti biasa, tak ada orang jawab dan aku rasa orang-orang PKR, PH pada masa tu tak minat pun. Ha, dia. tak apalah, kita tak payah cerita yang tu lah. Nanti sedih aku kan. Sebab ia perjalanan yang sangat sunyi kan. Kemudian, 4 hari kemudian, 16 Mei 2012 kan, saya ceritakan lagi pasal profil pokok ni. Kan? Profil pokok ni dengan Wong Chen juga. Kita menyatakan kebimbangan kita pasal profil pokok kerana satu laporan daripada Wall Street Journal mengenai IPO FGV ni. Memang Wall Street Journal dah buat analisa dan kata bahawa profil pokok kelapa sawit yang dalam FGV, dalam FELDA ni sebenarnya tidak baik dan tidak ada prospek yang setanding dengan ladang-ladang yang lain. So you tak akan dapat kecekapan dan keuntungan serta sinergi operasi seperti mana ladang-ladang lain yang disenaraikan. So, ia kembali kepada dua perkaralah. Satu yang kita dah cakap daripada awal, pengurusan FELDA pun dah cakap daripada awal, jangan buat sebab FELDA ini dia ada aspek sos- Aspek sosial padanya. Dia untuk, ia adalah sebahagian daripada program negara untuk membasmi kemiskinan. Ia tidak boleh didorong 100% sebagai satu entiti komersial untuk memberikan kecekapan dan hasil seperti yang ada daripada syarikat-syarikat perladangan lain yang disenaraikan. KL Kepong ke, IOI ke, United Plantation ke apa kan. So kalau you dah tahu macam itu, you buat juga. Buat apa nak bazirkan duit? Okey. 16 Mei 2012 kan?
 
 **Haziq:** 16 Mei.
 
-**Rafizi:** Hmm. 28 Mei.
-
-**Rafizi:** Uh, 2012. Ini untuk orang Melayu lah kan. Kepada kawan-kawan daripada UMNO, kepada kawan-kawan daripada PAS semua kan. Pada 28 Mei 2012, saya point out macam ni. Eh, tanah-tanah FELDA ni, ini tanah rizab Melayu tau.
-
-**Rafizi:** Ha. So bila anda suntik tanah rizab Melayu ini ke dalam FGV, of course dia akan dispute. Dia kata, ah itu bukan suntik. Ini sebagai perjanjian pajakan. Dua kali lima, lima kali dua jugalah kan. So anda bagi 330,000 hektar tanah yang banyaknya itu juga adalah tanah rizab Melayu. Uh, anda bagi kepada satu syarikat yang disenaraikan. Syarikat tu bila dia disenaraikan, dia bukan bumiputera dah.
-
-**Rafizi:** In fact, aku masa ni bunyi walaupun sikitlah kan eh. Aku tulis kan. So aku tulis ni kan, um. Uh, sebab saya beritahu kan, sejumlah 847,362 ekar tanah yang kini diuruskan oleh FELDA Plantation Sdn. Bhd. akan terlibat dalam urusan pajakan ini, eh. Tanpa tanah-tanah ini disuntik ke dalam FGV, maka FGV tak boleh lease lah sebab dia tak ada asas tanah dia kan. Jadi kita, saya seperti biasa, saya akan dapat apa nama ni, um, dokumen lah.
-
-**Rafizi:** Jadi saya sebut pada 28 Mei untuk dapat reaksi daripada kerajaan lah. Daripada 847,632 ekar tanah yang dipajakkan itu, sebenarnya sejumlah 105,382 ekar adalah tanah-tanah rizab Melayu.
-
-**Rafizi:** Dan jadi saya tanya, macam mana anda nak handle ni? Tanah rizab Melayu, anda suntik dalam FGV, dia telah melanggar perwartaan Tanah Rizab Melayu. Tambah lagi sebab FGV takkan dikira sebagai sebuah syarikat bumiputera dan um ada badan-badan lain yang masa itu kerajaan jemput untuk beli saham FGV ni, termasuklah Louis Dreyfus, sebuah syarikat antarabangsa yang dikuasai keluarga Yahudi terkenal daripada Perancis.
-
-**Rafizi:** Kerajaan pun pergi umumkan kan. So, yalah aku bersifat walaupun sikit masa ni lah kan. Tapi nak tunjukkan the hypocrisy lah. On the one hand, perjuangkan Melayu, tanah rizab Melayu semua, segala jenis Melayu. Anda ambil tanah rizab Melayu 105,000 hektar, anda pergi bubuh syarikat, anda lease kan.
+**Rafizi:** 28 Mei. 2012. Ini untuk orang Melayu lah kan. Kepada kawan-kawan daripada UMNO, kepada kawan-kawan daripada PAS semua kan. Pada 28 Mei 2012, saya point out macam ni. Tanah-tanah FELDA ni, ini tanah rizab Melayu tau. Ha. So bila anda suntik tanah rizab Melayu ini ke dalam FGV, of course dia akan dispute. Dia kata, ah itu bukan suntik. Ini sebagai perjanjian pajakan. Dua kali lima, lima kali dua jugalah kan. So anda bagi 330,000 hektar tanah yang banyaknya itu juga adalah tanah rizab Melayu. Anda bagi kepada satu syarikat yang disenaraikan. Syarikat tu bila dia disenaraikan, dia bukan bumiputera dah. In fact, aku masa ni bunyi walaupun sikitlah kan Aku tulis kan. So aku tulis ni kan, sebab saya beritahu kan, sejumlah 847,362 ekar tanah yang kini diuruskan oleh FELDA Plantation Sdn. Bhd. akan terlibat dalam urusan pajakan ini, Tanpa tanah-tanah ini disuntik ke dalam FGV, maka FGV tak boleh lease lah sebab dia tak ada asas tanah dia kan. Jadi kita, saya seperti biasa, saya akan dapat apa nama ni, dokumen lah. Jadi saya sebut pada 28 Mei untuk dapat reaksi daripada kerajaan lah. Daripada 847,632 ekar tanah yang dipajakkan itu, sebenarnya sejumlah 105,382 ekar adalah tanah-tanah rizab Melayu. Dan jadi saya tanya, macam mana anda nak handle ni? Tanah rizab Melayu, anda suntik dalam FGV, dia telah melanggar perwartaan Tanah Rizab Melayu. Tambah lagi sebab FGV takkan dikira sebagai sebuah syarikat bumiputera dan ada badan-badan lain yang masa itu kerajaan jemput untuk beli saham FGV ni, termasuklah Louis Dreyfus, sebuah syarikat antarabangsa yang dikuasai keluarga Yahudi terkenal daripada Perancis. Kerajaan pun pergi umumkan kan. So, yalah aku bersifat walaupun sikit masa ni lah kan. Tapi nak tunjukkan the hypocrisy lah. On the one hand, perjuangkan Melayu, tanah rizab Melayu semua, segala jenis Melayu. Anda ambil tanah rizab Melayu 105,000 hektar, anda pergi bubuh syarikat, anda lease kan.
 
 **Haziq:** Sebaik Asyraf Wajdi tak wujud lagi waktu ni.
 
-**Rafizi:** Ha, dia belum wujud lagi. So, yang itu saya nyatakan 28 Mei, tapi seperti biasa, hmm, tidak ada apa nama, tak ada reaksi. Aku pun 6 Jun lebih kurang seminggu kemudian, aku pun letakkan agreement.
-
-**Rafizi:** Aku letakkan perjanjian. Terima kasihlah kepada semua yang selalu membocorkan dokumen kepada saya dulu-dulu kan. Yang dah bersara semua ni kan. Jadi saya pun tunjukkan um apa nama ni dokumen, uh, dan dokumen itu uh datangnya daripada uh muka surat 8 perjanjian
-
-**Rafizi:** di antara FELDA dan FGV bertarikh 1 November 2011 eh. Muka surat 8 tu dia ada mengenai pajakan tanah
-
-**Rafizi:** dan ada 2 bentuk tanah. Satu ialah tanah sedia ada, iaitu 343,484 hektar tanah FELDA Plantation Sdn. Bhd yang dipajakkan, termasuklah tanah-tanah rizab Melayu.
-
-**Rafizi:** Yang saya dah terangkan tadi.
-
-**Rafizi:** Uh, kedua, kategori kedua ialah tanah sedia ada tambahan ataupun additional existing land, iaitu semua tanah-tanah tidak bergeran yang dimiliki oleh FELDA. Semua tu kena bagi kepada FGV. Dan ketiga, tanah akan datang ataupun future lands, iaitu semua tanah yang FELDA bakal perolehi di masa depan. So kalau kerajaan bagi tanah pun semua pergi kepada FGV lah, bukan lagi di dalam ekosistem FELDA kan. Dan saya senaraikan apa nama ni, um, kalau pergi kepada blog saya pada 6 Jun 2012 tu, saya senaraikan uh muka surat perjanjian itu dan daripada situ ada lampiran dia tau.
-
-**Rafizi:** Lampiran dia tu segala jenis senarai. Boleh baca satu-satu kalau aku nak baca ni sikit eh. Ha, dia besar. Allah, kecil sangat ni. Dia senaraikan semua tanah mana, lot berapa, semua kan. So kalau rajin, bila pergi tengok eh. Baik. Kemudian pada uh, kemudian seperti biasalah. Aku bercakap tak ada orang dengar. So benda tu jalan seperti biasalah kan. So uh oleh kerana tidak dapat apa ni um sebarang reaksi daripada uh kerajaan, maka dia mati kat situlah. Uh, dan kerajaan teruskan. Dia teruskan dengan listing, tak ada orang jawab, tak ada orang ambil tahu. Peneroka FELDA pun benci kat aku. Masa aku nak pergi ke FELDA masa invoke dulu, kita masuk ke FELDA-FELDA, ada FELDA dekat Johor halau, sekat kan.
-
-**Rafizi:** Uh, so yalah macam biasalah orang kata ini penghasut, pemfitnah semua. Jadi, uh, tumpuan saya mengenai penstrukturan semula FELDA.
-
-**Rafizi:** Uh, terhenti dekat situ tau untuk 2012. So dia disenaraikan, FGV disenaraikan, dan sejak hari pertama, saham dia dah bermasalah. Dia jatuh, jatuh, jatuh, jatuh. Ia mengambil masa 4 tahun untuk aku kembali kepada isu ini.
-
-**Rafizi:** Ha, jadi seterusnya selepas 4 tahun, semua yang kita sebutlah tentang bangkangan, tentang risiko, kerugian, semua tu dah berlaku. Dah ada keputusan FGV selama 4 tahun berturut-turut. Jadi sebab itu, uh, majoriti tumpuan saya ialah daripada tahun 2016 ke 2018 lah.
-
-**Rafizi:** Kerana masa itu segala penyelewengan ini telah pun berlaku sebab FGV disenaraikan 2012. Durian runtuh diberikan kepada
+**Rafizi:** Ha, dia belum wujud lagi. So, yang itu saya nyatakan 28 Mei, tapi seperti biasa, tidak ada apa nama, tak ada reaksi. Aku pun 6 Jun lebih kurang seminggu kemudian, aku pun letakkan agreement. Aku letakkan perjanjian. Terima kasihlah kepada semua yang selalu membocorkan dokumen kepada saya dulu-dulu kan. Yang dah bersara semua ni kan. Jadi saya pun tunjukkan apa nama ni dokumen, dan dokumen itu datangnya daripada muka surat 8 perjanjian di antara FELDA dan FGV bertarikh 1 November 2011 Muka surat 8 tu dia ada mengenai pajakan tanah dan ada 2 bentuk tanah. Satu ialah tanah sedia ada, iaitu 343,484 hektar tanah FELDA Plantation Sdn. Bhd yang dipajakkan, termasuklah tanah-tanah rizab Melayu. Yang saya dah terangkan tadi. Kedua, kategori kedua ialah tanah sedia ada tambahan ataupun additional existing land, iaitu semua tanah-tanah tidak bergeran yang dimiliki oleh FELDA. Semua tu kena bagi kepada FGV. Dan ketiga, tanah akan datang ataupun future lands, iaitu semua tanah yang FELDA bakal perolehi di masa depan. So kalau kerajaan bagi tanah pun semua pergi kepada FGV lah, bukan lagi di dalam ekosistem FELDA kan. Dan saya senaraikan apa nama ni, kalau pergi kepada blog saya pada 6 Jun 2012 tu, saya senaraikan muka surat perjanjian itu dan daripada situ ada lampiran dia tau. Lampiran dia tu segala jenis senarai. Boleh baca satu-satu kalau aku nak baca ni sikit Ha, dia besar. Allah, kecil sangat ni. Dia senaraikan semua tanah mana, lot berapa, semua kan. So kalau rajin, bila pergi tengok Baik. Kemudian pada kemudian seperti biasalah. Aku bercakap tak ada orang dengar. So benda tu jalan seperti biasalah kan. So oleh kerana tidak dapat apa ni sebarang reaksi daripada kerajaan, maka dia mati kat situlah. Dan kerajaan teruskan. Dia teruskan dengan listing, tak ada orang jawab, tak ada orang ambil tahu. Peneroka FELDA pun benci kat aku. Masa aku nak pergi ke FELDA masa invoke dulu, kita masuk ke FELDA-FELDA, ada FELDA dekat Johor halau, sekat kan. So yalah macam biasalah orang kata ini penghasut, pemfitnah semua. Jadi, tumpuan saya mengenai penstrukturan semula FELDA. Terhenti dekat situ tau untuk 2012. So dia disenaraikan, FGV disenaraikan, dan sejak hari pertama, saham dia dah bermasalah. Dia jatuh, jatuh, jatuh, jatuh. Ia mengambil masa 4 tahun untuk aku kembali kepada isu ini. Ha, jadi seterusnya selepas 4 tahun, semua yang kita sebutlah tentang bangkangan, tentang risiko, kerugian, semua tu dah berlaku. Dah ada keputusan FGV selama 4 tahun berturut-turut. Jadi sebab itu, majoriti tumpuan saya ialah daripada tahun 2016 ke 2018 lah. Kerana masa itu segala penyelewengan ini telah pun berlaku sebab FGV disenaraikan 2012. Durian runtuh diberikan kepada
 
 **Haziq:** Peneroka.
 
-**Rafizi:** peneroka. Duit yang dapat tu nanti kita go through berapa banyak pergi kepada siapa kan. Duit yang dapat tu, dia orang yang inilah digunakan untuk pergi shopping satu dunia beli segala benda.
-
-**Rafizi:** Ha. So menjelang 2016, duit tu memang dah tak ada dah. Dan ha eh bila dia pergi shopping ha dan dia buat semua ni, dia kena laporkan dalam laporan kewangan FGV. Sebab FGV disenaraikan. So kita ada 2 sumber. Satu FGV, laporan kewangan. Satu lagi ialah laporan FELDA sendiri eh.
-
-**Rafizi:** So daripada situlah aku mula perasan hampir tahun 2016 aku sedar tak guna betul diorang pergi beli kondo mewah dekat Troika.
-
-**Rafizi:** Dekat KLCC tu kan. Jadi pada 18 Mei 2016, saya mulakan dengan menyatakan bahawa umum mengetahui bahawa FELDA Global Ventures FGV tidak mencapai prestasi yang baik sejak mula-mula disenaraikan dan harga sahamnya terus merosot sejak disenaraikan dalam 2012 hingga sekarang. Ya, aku tunjuk. Kau tengok ni, ha. Ni tengok ni eh. Ha. Jatuh, jatuh, jatuh, jatuh, jatuh. Ha kan. Dan dia bukan saja masalah kepada FELDA. Yang ini jugalah yang menghapuskan duit daripada Tabung Haji.
-
-**Rafizi:** Sebab Tabung Haji antara badan yang paling banyak beli saham FGV lah kan. Um. Kemudian, um. Saya dapat maklumat dan saya dapat dokumen. Pada 29 September 2014, FGV telah memuktamadkan pembelian 2 buah kondominium mewah di Troika eh pada harga berikut. Unit A tingkat 20 unit 2 berharga 5,143,902. Ah, ini siap ada plan eh, floor plan dia sekali. Ah, floor plan cantik semua kan. Kan. Unit B tingkat 10 unit 3 berharga 3,283,770. Boleh tengoklah cantik sangat ni kan.
-
-**Rafizi:** Um. Kemudian bukan saja dia beli habis 8.4 juta, dia belanja lagi untuk merenovasi.
-
-**Rafizi:** Ha kan. Uh, dan saya tanyalah, bila dalam laporan kewangan tu, bila anda beli dah lah tak ada kena mengena dengan plantation ke FELDA. Apa anda pergi beli kondo mewah dekat KLCC ni kenapa kan? So saya semak, dia dapat income, rental income ke dia tak? Quote, quote lah dia beli ni untuk diversifikasikan pendapatan dia kan?
-
-**Rafizi:** Dalam tak ada income tau. Jadi, uh, yalah aku bila tanya semua tu sebab aku dah dapat, aku dah dapat S&P lah kan. Jadi uh saya dah semak S&P. Jadi saya tanya, eh, FGV yang kau orang pergi beli uh kondo mewah ni kenapa?
-
-**Rafizi:** Kita tahulah setakat ini kenapa dia beli kondo mewah dan dia dah jadi kes mahkamah.
-
-**Haziq:** Ya.
-
-**Rafizi:** Dan memang dah kena dakwa semualah kan.
-
-**Rafizi:** Dia beli kondom mewah ni untuk kegunaan uh Tan Sri Isa Samad dengan seorang lagi.
-
-**Rafizi:** Ya. Dia kira benefit in kind sebagai pengerusi, dapat satu kondo mewah untuk digunakan. Sama macam dapat kereta,
-
-**Rafizi:** dapat pemandu. Ni lagi hebat, dapat kondo. Ha.
+**Rafizi:** peneroka. Duit yang dapat tu nanti kita go through berapa banyak pergi kepada siapa kan. Duit yang dapat tu, dia orang yang inilah digunakan untuk pergi shopping satu dunia beli segala benda. Ha. So menjelang 2016, duit tu memang dah tak ada dah. Dan ha bila dia pergi shopping ha dan dia buat semua ni, dia kena laporkan dalam laporan kewangan FGV. Sebab FGV disenaraikan. So kita ada 2 sumber. Satu FGV, laporan kewangan. Satu lagi ialah laporan FELDA sendiri So daripada situlah aku mula perasan hampir tahun 2016 aku sedar tak guna betul diorang pergi beli kondo mewah dekat Troika. Dekat KLCC tu kan. Jadi pada 18 Mei 2016, saya mulakan dengan menyatakan bahawa umum mengetahui bahawa FELDA Global Ventures FGV tidak mencapai prestasi yang baik sejak mula-mula disenaraikan dan harga sahamnya terus merosot sejak disenaraikan dalam 2012 hingga sekarang. Ya, aku tunjuk. Kau tengok ni, ha. Ni tengok ni Ha. Jatuh, jatuh, jatuh, jatuh, jatuh. Ha kan. Dan dia bukan saja masalah kepada FELDA. Yang ini jugalah yang menghapuskan duit daripada Tabung Haji. Sebab Tabung Haji antara badan yang paling banyak beli saham FGV lah kan. Kemudian, Saya dapat maklumat dan saya dapat dokumen. Pada 29 September 2014, FGV telah memuktamadkan pembelian 2 buah kondominium mewah di Troika pada harga berikut. Unit A tingkat 20 unit 2 berharga 5,143,902. Ah, ini siap ada plan floor plan dia sekali. Ah, floor plan cantik semua kan. Kan. Unit B tingkat 10 unit 3 berharga 3,283,770. Boleh tengoklah cantik sangat ni kan. Kemudian bukan saja dia beli habis 8.4 juta, dia belanja lagi untuk merenovasi. Ha kan. Dan saya tanyalah, bila dalam laporan kewangan tu, bila anda beli dah lah tak ada kena mengena dengan plantation ke FELDA. Apa anda pergi beli kondo mewah dekat KLCC ni kenapa kan? So saya semak, dia dapat income, rental income ke dia tak? Quote, quote lah dia beli ni untuk diversifikasikan pendapatan dia kan? Dalam tak ada income tau. Jadi, yalah aku bila tanya semua tu sebab aku dah dapat, aku dah dapat S&P lah kan. Jadi saya dah semak S&P. Jadi saya tanya, FGV yang kau orang pergi beli kondo mewah ni kenapa? Kita tahulah setakat ini kenapa dia beli kondo mewah dan dia dah jadi kes mahkamah. Dan memang dah kena dakwa semualah kan. Dia beli kondom mewah ni untuk kegunaan Tan Sri Isa Samad dengan seorang lagi. Ya. Dia kira benefit in kind sebagai pengerusi, dapat satu kondo mewah untuk digunakan. Sama macam dapat kereta, dapat pemandu. Ni lagi hebat, dapat kondo. Ha.
 
 **Haziq:** Tapi guna sebagai perbelanjaan pelaburan? Dia beli tau.
 
@@ -1116,45 +416,15 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Oh, tak dijadikan pelaburanlah, memang untuk dia.
 
-**Rafizi:** Sebab tu saya pergi semak ada rental income ke tidak.
-
-**Rafizi:** Kalau dia kata, quote quote lah dia kata, tak, ini sebenarnya ialah strategi kita dalam bidang hartanah dan kita nak dapatkan income ke apa — tak ada rental income. Jadi akhirnya memang ada kes yang sebenarnya itu dibeli dan memang dijatuhkan hukuman kan?
-
-**Haziq:** Ya, ya.
-
-**Rafizi:** Nantilah kita dijatuhkan hukuman kan? Kerana itu untuk kegunaan pengarah saja.
-
-**Rafizi:** Okey ya. Kemudian 6 bulan kemudian saya jumpa lagilah, sebab pada 26 Disember 2016, media-media mula melaporkan pembelian 37% pegangan di dalam Eagle High Plantations, eh.
-
-**Rafizi:** Okey. Eagle High Plantations ni dimiliki oleh, surprise surprise, kawan baik Datuk Seri Najib daripada Indonesia.
-
-**Rafizi:** Nama dia Peter Sondakh. Ha kan. Jadi dia ada ladang dekat, saya tak tahu, Kalimantan, Sumatera semualah, Eagle High Plantations ni. Jadi duit yang FELDA dapat dulu daripada FGV semua tu, dia pergi beli 37% pegangan dalam syarikat Peter Sondakh inilah, syarikat perladangan kan.
-
-**Rafizi:** Dan benda tu dah diumumkan dah. FELDA pun dah umum, kemudian dah jadi laporan berita semua kan. Jadi yang saya mula persoalkan ini ialah, apa asas nak belilah.
-
-**Rafizi:** Dan ia mula menjadi persoalan itu kerana awalnya, pembelian dalam Eagle High Plantations ni diumumkan akan dibeli oleh FGV.
-
-**Rafizi:** Ha, kan. Tapi FGV lepas 4 tahun tak ke mana. Harga saham makin teruk, untung pun prestasi kewangan makin teruk. Tapi saya, anda mungkin sangka kan, sebab laporan ni dah ada beberapa bulan sebelum itulah. Anda mungkin sangka bila FGV dah tak ada duit, kerana itulah alasan kenapa ada FGV.
+**Rafizi:** Sebab tu saya pergi semak ada rental income ke tidak. Kalau dia kata, quote quote lah dia kata, tak, ini sebenarnya ialah strategi kita dalam bidang hartanah dan kita nak dapatkan income ke apa — tak ada rental income. Jadi akhirnya memang ada kes yang sebenarnya itu dibeli dan memang dijatuhkan hukuman kan? Nantilah kita dijatuhkan hukuman kan? Kerana itu untuk kegunaan pengarah saja. Okey ya. Kemudian 6 bulan kemudian saya jumpa lagilah, sebab pada 26 Disember 2016, media-media mula melaporkan pembelian 37% pegangan di dalam Eagle High Plantations, Okey. Eagle High Plantations ni dimiliki oleh, surprise surprise, kawan baik Datuk Seri Najib daripada Indonesia. Nama dia Peter Sondakh. Ha kan. Jadi dia ada ladang dekat, saya tak tahu, Kalimantan, Sumatera semualah, Eagle High Plantations ni. Jadi duit yang FELDA dapat dulu daripada FGV semua tu, dia pergi beli 37% pegangan dalam syarikat Peter Sondakh inilah, syarikat perladangan kan. Dan benda tu dah diumumkan dah. FELDA pun dah umum, kemudian dah jadi laporan berita semua kan. Jadi yang saya mula persoalkan ini ialah, apa asas nak belilah. Dan ia mula menjadi persoalan itu kerana awalnya, pembelian dalam Eagle High Plantations ni diumumkan akan dibeli oleh FGV. Ha, kan. Tapi FGV lepas 4 tahun tak ke mana. Harga saham makin teruk, untung pun prestasi kewangan makin teruk. Tapi saya, anda mungkin sangka kan, sebab laporan ni dah ada beberapa bulan sebelum itulah. Anda mungkin sangka bila FGV dah tak ada duit, kerana itulah alasan kenapa ada FGV.
 
 **Haziq:** FGV.
 
-**Rafizi:** Supaya dengan modal, akses kepada pasaran modal, pembiayaan yang lebih baik semua ni, dan mereka boleh jalankan perladangan komersial. Dia boleh beli aset-aset bukan saja di Malaysia, luar negara semualah. Jadi kalau FGV beli tu masuk akal lah. Tapi saya dan anda tahu, sepanjang perjalanan, kenapa FGV tak belilah. Satu sebab, FGV tak ada duit. Kedua, sebab harganya berlipat kali ganda.
-
-**Rafizi:** Ia mustahil untuk lepas di lembaga pengarah, di AGM semua, dan kalau FGV proceed, harga makin merudum.
-
-**Rafizi:** Tapi Najib being Najib, dia teruskan juga.
-
-**Rafizi:** Tapi dia gunakan FELDA.
+**Rafizi:** Supaya dengan modal, akses kepada pasaran modal, pembiayaan yang lebih baik semua ni, dan mereka boleh jalankan perladangan komersial. Dia boleh beli aset-aset bukan saja di Malaysia, luar negara semualah. Jadi kalau FGV beli tu masuk akal lah. Tapi saya dan anda tahu, sepanjang perjalanan, kenapa FGV tak belilah. Satu sebab, FGV tak ada duit. Kedua, sebab harganya berlipat kali ganda. Ia mustahil untuk lepas di lembaga pengarah, di AGM semua, dan kalau FGV proceed, harga makin merudum. Tapi Najib being Najib, dia teruskan juga. Tapi dia gunakan FELDA.
 
 **Haziq:** FEL- terus FELDA.
 
-**Rafizi:** Terus FELDA.
-
-**Rafizi:** Dan FELDA pun dah tak ada duit masa itu. Jadi FELDA buat apa? FELDA kena pergi ambil pinjaman.
-
-**Rafizi:** Dan pinjaman itu dibiayai oleh satu SPV syarikat khas kerajaan yang dipanggil GovCo.
-
-**Rafizi:** Dan saya rasa benda tu ada. Yalah, saya tak semak rujukan cepat sangat. Yang itu saya serahkan kepada orang ramai untuk pergi semak rujukan kepada kertas putih lah. Jadi pembelian Eagle High Plantations itu dibuat oleh FELDA. FELDA tak ada duit. Jadi FELDA kena ambil pinjaman. Saya rasa 2 bilion. Boleh je?
+**Rafizi:** Terus FELDA. Dan FELDA pun dah tak ada duit masa itu. Jadi FELDA buat apa? FELDA kena pergi ambil pinjaman. Dan pinjaman itu dibiayai oleh satu SPV syarikat khas kerajaan yang dipanggil GovCo. Dan saya rasa benda tu ada. Yalah, saya tak semak rujukan cepat sangat. Yang itu saya serahkan kepada orang ramai untuk pergi semak rujukan kepada kertas putih lah. Jadi pembelian Eagle High Plantations itu dibuat oleh FELDA. FELDA tak ada duit. Jadi FELDA kena ambil pinjaman. Saya rasa 2 bilion. Boleh je?
 
 **Haziq:** 2.3 bilion.
 
@@ -1164,153 +434,39 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Awak lah. Awak tolong semak kan ke sini.
 
-**Haziq:** Muka surat 7.
+**Haziq:** Muka surat 7. Kepada semua, muka surat 7.
 
-**Haziq:** Kepada semua, muka surat 7.
-
-**Rafizi:** Jadi saya rasa apa kita buat macam tu. Saya nak semak-semak kat sini payah. Maksud saya ingat dari kepala. Jadi kepada orang ramai, nak dapat pengesahan yang saya sebut ni, tengok kepada kertas putih.
-
-**Rafizi:** Ah, maaf, muka surat 49.
-
-**Rafizi:** Ha, bacakan.
+**Rafizi:** Jadi saya rasa apa kita buat macam tu. Saya nak semak-semak kat sini payah. Maksud saya ingat dari kepala. Jadi kepada orang ramai, nak dapat pengesahan yang saya sebut ni, tengok kepada kertas putih. Ah, maaf, muka surat 49. Ha, bacakan.
 
 **Haziq:** Ah, pembelian pegangan ekuiti PT Eagle High Plantations. Yep. Pembelian ini dibiayai melalui pinjaman sebanyak 2.3 bilion daripada GovCo Holdings Berhad, iaitu syarikat di bawah Menteri Kewangan Diperbadankan dengan jaminan korporat FELDA. Pada kadar faedah plus minus 0.15%. Pinjaman ini perlu dibayar kembali dalam tempoh 7 tahun. Semakan yang dibuat mendapati syarikat A1 telah memperoleh sejumlah saham. Ha, nantilah. Ha.
 
-**Rafizi:** Sabar, sabar, sabar.
-
-**Rafizi:** Dot dot dot dot dot.
-
-**Rafizi:** Dia ni dia nak baca semua. Sabar tu. Dia perlu Google sikit-sikit.
+**Rafizi:** Sabar, sabar, sabar. Dot dot dot dot dot. Dia ni dia nak baca semua. Sabar tu. Dia perlu Google sikit-sikit.
 
 **Haziq:** Ha, sikit-sikit.
 
-**Rafizi:** Hmm. Kemudian, seperti biasa.
+**Rafizi:** Kemudian, seperti biasa.
 
-**Haziq:** Ya.
+**Haziq:** Ya. Tak berjawab.
 
-**Haziq:** Tak berjawab.
-
-**Rafizi:** Jadi saya sambung the next day kan saya?
-
-**Rafizi:** Bukan the next day lah, minggu selepas itu kot. Sebab, eh tak, the next day. Kenyataan media yang pasal Eagle High tadi tu.
-
-**Haziq:** Ya.
-
-**Rafizi:** Yang pertama saya tanya tu 26 Disember.
-
-**Rafizi:** Maksudnya satu hari selepas Krismas.
-
-**Rafizi:** Ya. 27 Disember tu.
-
-**Rafizi:** 27 Disember, saya sambung lagi.
-
-**Rafizi:** Yang ini, jadi saya sebab tak berjawab.
-
-**Rafizi:** Jadi saya mula buat analisa tentang harga, tentang kedudukan kewangan lah. Masa itu, FELDA melalui satu kenyataan ringkas telah pun mengumumkan bahawa pembelian 37% itu pada harga 500.5 juta.
-
-**Rafizi:** Atau 2.2-2.6 bilion lah kan? Jangan semak lagi. Jangan semak lagi.
-
-**Haziq:** Ah, okey.
-
-**Rafizi:** Okey ya. Pembelian ini akan menggunakan sebuah syarikat khas ataupun special purpose vehicle milik penuh FELDA, iaitu FIC Properties Sdn. Berhad.
-
-**Rafizi:** Jadi saya tunjukkan carian eh. Kemudian, pembelian 37% pegangan dalam Eagle High Plantations pada harga itu adalah 3 kali ganda lebih mahal dari harga saham purata EHP sejak setahun lepas.
-
-**Rafizi:** Atau 2 kali ganda lebih mahal berdasarkan harga terkini. Jadi julatnya adalah antara 100% hingga 200 hingga 300% lebih mahal tau. Dan tak susah nak semak ni. Anda tengok berapa harga kalau 500.5 juta dolar ataupun 2.23 bilion tu kan. Jadi anda tengok 37%, kemudian anda tengok berapa saham dia kena beli lah, berapa bilion saham dia kena beli. Anda pergi tengoklah harga saham, sebab Eagle High Plantations ni disenaraikan kan?
-
-**Haziq:** Ya.
-
-**Rafizi:** Itu pun anda dah kata, tanpa perlu panggil SPRM, tanpa perlu panggil EY ke apa, masa itu pun sebenarnya dah nampak dah, eh, kau nak beli ni 2 3 kali ganda harga ni, kan?
-
-**Rafizi:** Kemudian, saya tunjukkan pula prestasi EHP untuk 5 tahun. Jadi kalau orang pergi semak blog saya kan, boleh tengok graf dia, ha, merudum. Ni ni ni ni ni. Dah lah dia merudum. Orang sepatutnya tak pergi dekat nak beli pun. Kamu pula nak bayar sampai 2 3 kali harga kan? Eh. Lepas ni kita nak balik kepada itu eh. Hmm. Dan kita tahu masa itu bahawa kedudukan FELDA pada ketika itu pun dah jadi parah.
-
-**Rafizi:** Kerana dah jadi kerugian bersih sebanyak 2.3 bilion pada tahun 2013.
-
-**Rafizi:** 2014, FELDA rugi lagi 1 bilion.
-
-**Rafizi:** Jadi jumlah wang tunai di tangan, di bank, deposit tetap yang disimpan oleh FELDA telah berkurang secara mendadak daripada 684 juta tahun 2013, menjelang 2014 dia tinggal 291 juta. Dan mereka tak siapkan tau. Saya tanya ni ialah Disember 2016 kan?
-
-**Rafizi:** Dia tak siapkan penyata kewangan 2015. So yang terkini yang saya ada masa ini ialah 291 juta untuk 2014. Jadi saya tanya soalan lah. Macam mana FELDA nak beli 2 point? Masa ni kita tak tahu lagi dia akan ambil pinjaman.
-
-**Rafizi:** So, maksud saya, soalan akal biasa yang mudah. Duit ada dua, 291 juta. Anda nak pergi beli 2.263 bilion.
+**Rafizi:** Jadi saya sambung the next day kan saya? Bukan the next day lah, minggu selepas itu kot. Sebab, tak, the next day. Kenyataan media yang pasal Eagle High tadi tu. Yang pertama saya tanya tu 26 Disember. Maksudnya satu hari selepas Krismas. Ya. 27 Disember tu. 27 Disember, saya sambung lagi. Yang ini, jadi saya sebab tak berjawab. Jadi saya mula buat analisa tentang harga, tentang kedudukan kewangan lah. Masa itu, FELDA melalui satu kenyataan ringkas telah pun mengumumkan bahawa pembelian 37% itu pada harga 500.5 juta. Atau 2.2-2.6 bilion lah kan? Jangan semak lagi. Jangan semak lagi. Okey ya. Pembelian ini akan menggunakan sebuah syarikat khas ataupun special purpose vehicle milik penuh FELDA, iaitu FIC Properties Sdn. Berhad. Jadi saya tunjukkan carian Kemudian, pembelian 37% pegangan dalam Eagle High Plantations pada harga itu adalah 3 kali ganda lebih mahal dari harga saham purata EHP sejak setahun lepas. Atau 2 kali ganda lebih mahal berdasarkan harga terkini. Jadi julatnya adalah antara 100% hingga 200 hingga 300% lebih mahal tau. Dan tak susah nak semak ni. Anda tengok berapa harga kalau 500.5 juta dolar ataupun 2.23 bilion tu kan. Jadi anda tengok 37%, kemudian anda tengok berapa saham dia kena beli lah, berapa bilion saham dia kena beli. Anda pergi tengoklah harga saham, sebab Eagle High Plantations ni disenaraikan kan? Itu pun anda dah kata, tanpa perlu panggil SPRM, tanpa perlu panggil EY ke apa, masa itu pun sebenarnya dah nampak dah, kau nak beli ni 2 3 kali ganda harga ni, kan? Kemudian, saya tunjukkan pula prestasi EHP untuk 5 tahun. Jadi kalau orang pergi semak blog saya kan, boleh tengok graf dia, ha, merudum. Ni ni ni ni ni. Dah lah dia merudum. Orang sepatutnya tak pergi dekat nak beli pun. Kamu pula nak bayar sampai 2 3 kali harga kan? Lepas ni kita nak balik kepada itu Dan kita tahu masa itu bahawa kedudukan FELDA pada ketika itu pun dah jadi parah. Kerana dah jadi kerugian bersih sebanyak 2.3 bilion pada tahun 2013. 2014, FELDA rugi lagi 1 bilion. Jadi jumlah wang tunai di tangan, di bank, deposit tetap yang disimpan oleh FELDA telah berkurang secara mendadak daripada 684 juta tahun 2013, menjelang 2014 dia tinggal 291 juta. Dan mereka tak siapkan tau. Saya tanya ni ialah Disember 2016 kan? Dia tak siapkan penyata kewangan 2015. So yang terkini yang saya ada masa ini ialah 291 juta untuk 2014. Jadi saya tanya soalan lah. Macam mana FELDA nak beli 2 point? Masa ni kita tak tahu lagi dia akan ambil pinjaman. So, maksud saya, soalan akal biasa yang mudah. Duit ada dua, 291 juta. Anda nak pergi beli 2.263 bilion.
 
 **Haziq:** Bilion.
 
-**Rafizi:** Lepas tu anda bayar 3 kali ganda daripada harga pasaran. Jadi, Najib, saya duk tanya masa tu, Najib, engkau ke yang bagi arahan beli ni? Sebab benda ni tak masuk akal. Dan adakah benda ini kamu paksa FELDA teruskan juga sebab Peter Sondakh tu kawan baik kamu?
+**Rafizi:** Lepas tu anda bayar 3 kali ganda daripada harga pasaran. Jadi, Najib, saya duk tanya masa tu, Najib, engkau ke yang bagi arahan beli ni? Sebab benda ni tak masuk akal. Dan adakah benda ini kamu paksa FELDA teruskan juga sebab Peter Sondakh tu kawan baik kamu? Saya nak beritahu kalau orang kata, ah fitnah semuanya kan. FELDA tak pernah saman saya satu pun tu. Saya tak pernah disiasat. Laporan polis yang dibuat ke, saya tak pernah disiasat mengenai FELDA. Semua yang saya cakap tak pernah dicabar dan semua yang saya sentuh ni disahkan di dalam kertas putih yang Haziq dengan Farhan akan semak rujukan lah kan. Jadi, betullah. Sebab itu bila aku tanya ni tak ada orang yang nak jawab lah. Ini disebabkan Peter Sondakh ni dah terkenal. Gambar semua ada dia baik dengan Najib kan? Okey, baik. Seterusnya, ya Allah, aku tak beraya tahun ni, tak cuti tahun ni. 26, 27, 28 Disember 2016, 3 hari berturut-turut. Saya nyatakan kalau tak beli Eagle High Plantations pun, masalah kewangan FELDA tu dah cukup dah. Sebab dia tak ada duit untuk melaksanakan semula program tanam semula. Dia macam mana nak beli yang barunya? Duit FELDA untuk buat program tanam semula pun tak ada. Jadi saya pun tunjukkan penyata kewangan 2014 lah. Muka surat 168. Pendapatan di peringkat FELDA hanyalah 87 juta setahun. Dan bila kita ambil di peringkat kumpulan FELDA lah, dan kumpulan FELDA ni termasuklah yang sepatutnya dia dapat duit daripada FGV tau. Sebab FGV berjanji dengannya, ini pitch Najib dulu lah. Kalau senaraikan FGV ni, FELDA akan dapat di antara 800 juta ke 1 bilion setahun kan? Di peringkat pendapatan kumpulan FELDA menjelang akhir 2014 tu hanya 420 juta. Daripada yang sepatutnya 1 bilion setahun tu, tinggal 420 juta Rugi bersih FELDA 2014 1 bilion, 2013 2.3 bilion. Perbelanjaan kasar untuk melaksanakan rancangan tanam semula untuk peneroka ialah untuk 2014 2.5 bilion, untuk 2013 2.4 bilion. Baki tunai yang ada di FELDA hanyalah 291 juta pada 2014. Jumlah hutang 2014 dah naik jadi 6.1 bilion. Jadi aku tanya, macam mana kau nak buat semua ni? Duit tak ada semua. Itu pun nak pergi beli Eagle High Plantations dengan harga 3 kali ganda lagi. Pun tak dijawab. Lepas tu aku berehat kot 3 hari. 28 Disember 2016. Kenyataan seterusnya ialah Januari, 3 Januari 2017.
 
-**Rafizi:** Eh, saya nak beritahu eh, kalau orang kata, ah fitnah semuanya kan. FELDA tak pernah saman saya satu pun tu.
+**Haziq:** Perumahan. Kita pivot pula.
 
-**Rafizi:** Saya tak pernah disiasat. Laporan polis yang dibuat ke, saya tak pernah disiasat mengenai FELDA.
-
-**Rafizi:** Semua yang saya cakap tak pernah dicabar dan semua yang saya sentuh ni disahkan di dalam kertas putih yang Haziq dengan Farhan akan semak rujukan lah kan.
-
-**Haziq:** Ya.
-
-**Rafizi:** Jadi, betullah.
-
-**Rafizi:** Sebab itu bila aku tanya ni tak ada orang yang nak jawab lah. Ini disebabkan Peter Sondakh ni dah terkenal. Gambar semua ada dia baik dengan Najib kan? Okey, baik. Seterusnya, ya Allah, aku tak beraya tahun ni, tak cuti tahun ni. 26, 27, 28 Disember 2016, 3 hari berturut-turut. Saya nyatakan kalau tak beli Eagle High Plantations pun, masalah kewangan FELDA tu dah cukup dah. Sebab dia tak ada duit untuk melaksanakan semula program tanam semula.
-
-**Rafizi:** Dia macam mana nak beli yang barunya? Duit FELDA untuk buat program tanam semula pun tak ada. Jadi saya pun tunjukkan penyata kewangan 2014 lah.
-
-**Rafizi:** Muka surat 168. Pendapatan di peringkat FELDA hanyalah 87 juta setahun.
-
-**Rafizi:** Dan bila kita ambil di peringkat kumpulan FELDA lah, dan kumpulan FELDA ni termasuklah yang sepatutnya dia dapat duit daripada FGV tau.
-
-**Rafizi:** Sebab FGV berjanji dengannya, uh, ini pitch Najib dulu lah. Kalau senaraikan FGV ni, FELDA akan dapat di antara 800 juta ke 1 bilion setahun kan?
-
-**Rafizi:** Di peringkat pendapatan kumpulan FELDA menjelang akhir 2014 tu hanya 420 juta. Daripada yang sepatutnya 1 bilion setahun tu, tinggal 420 juta eh. Rugi bersih FELDA 2014 1 bilion, 2013 2.3 bilion. Perbelanjaan kasar untuk melaksanakan rancangan tanam semula untuk peneroka ialah untuk 2014 2.5 bilion, untuk 2013 2.4 bilion. Baki tunai yang ada di FELDA hanyalah 291 juta pada 2014. Jumlah hutang 2014 dah naik jadi 6.1 bilion. Jadi aku tanya, macam mana kau nak buat semua ni?
-
-**Rafizi:** Duit tak ada semua. Itu pun nak pergi beli uh Eagle High Plantations dengan harga 3 kali ganda lagi. Pun tak dijawab.
-
-**Rafizi:** Lepas tu aku berehat kot 3 hari. 28 Disember uh 2016.
-
-**Haziq:** Yalah.
-
-**Rafizi:** Kenyataan seterusnya ialah Januari, uh, 3 Januari 2017.
-
-**Haziq:** Perumahan.
-
-**Haziq:** Kita pivot pula.
-
-**Rafizi:** Daripada Eagle. Tengok ni kan dalam tempoh berturut-turut ni daripada cerita kondo.
-
-**Rafizi:** Uh, cukup lengkap tau. FELDA ni. Cerita kondo. Uh, yang itu terbukti ada pendakwaan semua. I think FELDA FGV akhirnya jual lah. Kemudian cerita Eagle High. Yang itu dia proceed dan dah masuk dalam apa nama ni, um, kertas putih.
+**Rafizi:** Daripada Eagle. Tengok ni kan dalam tempoh berturut-turut ni daripada cerita kondo. Cukup lengkap tau. FELDA ni. Cerita kondo. Yang itu terbukti ada pendakwaan semua. I think FELDA FGV akhirnya jual lah. Kemudian cerita Eagle High. Yang itu dia proceed dan dah masuk dalam apa nama ni, kertas putih.
 
 **Haziq:** Kertas putih dia.
 
-**Rafizi:** Kemudian aku pivot 3 hari, uh, 3 Januari 2017, aku pivot kepada perumahan warga FELDA pula.
-
-**Rafizi:** Yang ini pun masuk dalam kertas putih juga lah. Tapi kertas putih dia tak sedetail yang aku dedahkan ni.
-
-**Rafizi:** Dan it stands sebab dia tak pernah disaman. Tak pernah ada laporan polis semua kan. Saya rujuk kepada muka surat 204 dari penyata kewangan FELDA bagi tahun 2014 dan jawapan-jawapan yang diberikan oleh menteri berkenaan soalan saya mengenai perumahan FELDA pada 2 Disember 2015. Jadi saya tanya soalan lah. Ha. Uh, jadi ini soalan yang saya tanya contohnya eh. Uh, Tuan Muhammad Rafizi bin Ramli, Pandan, minta Perdana Menteri menyatakan semua skim perumahan yang telah dan akan diusahakan oleh FELDA Global Ventures atau FELDA setakat Oktober 2015 dengan memperincikan jumlah unit, lokasi perumahan, harga jualan, dan kontraktor yang telah dilantik. Najib pun jawab merepek, merepek, merepek. Bagi merealisasikan perkara ini, beberapa skim projek perumahan telah pun dilaksanakan seperti projek perumahan warga FELDA, PWF, perumahan generasi baru FELDA, PGBF, dan program sentuhan kasih FELDA. Sehingga Oktober 2015, ini senarai dia kan. Jadi dia keluarkanlah perumahan ni, orang ramai boleh pergi tengok satu-satu detail ni kan. Dan kalau-kalau ada ahli parlimen PAS ke pembangkang tengok, macam ni lah kau nak tanya soalan kan. Janganlah tanya soalan-soalan pasal bendera ke apa kan kan. Jadi dia bagi um berapa unit, dekat mana — Taman Mempaga Utama Bentong lah, ada semua Desa Semarak. Jadi dia bagilah senarai kontraktor.
-
-**Rafizi:** Jentayu Padu, MNN, semua ada ni sekali gus kan. Uh kemudian dia sambung, sambung, sambung. Kemudian ada kontraktor. Aku nak tahu kontraktor sebenarnya sebab aku tanya tu kan harga kan. Dan harga rumahnya uh kos rendah uh 42,000, kos sederhana 92,000. Yang ini juga disentuh dalam apa nama, kertas putih eh. Eh, tadi kita tertinggal pasal Eagle High Plantations, tapi tak apa. Nanti kita detail balik. Ada satu benda. Jadi dia senaraikan kontraktor Iris Koto semua lah. Okey. Ah, kadar rumah. Okey, sekarang. Uh, jadi saya pun uh beritahu kepada orang ramai lah.
-
-**Rafizi:** Lo and behold, kepada peneroka-peneroka FELDA kan, bagus lah korang uh undi Najib tahun 2013 tu. Najib janji macam-macam. Durian runtuh dah tak jadi, kan. FGV dah rugi. Pendapatan KPF, Koperasi Permodalan FELDA pun dah tak ada. Tapi dia janji rumah. Dan aku cakap, belum apa-apa lagi, rumah tu tak siap, tapi dalam penyata kewangan FELDA dah mencatatkan kerugian, eh, 193 juta. Jadi perbelanjaan yang telah dibuat, bila kita banding dengan yang dia kata harga kos semua tu, tak sepadan dengan uh pembinaan, progress uh pembinaan.
-
-**Haziq:** Ya, betul.
-
-**Rafizi:** Ha. Perbelanjaan itu telah diperuntukkan sebagai kerugian dan uh sebenarnya 193 juta ni sepatutnya dah boleh bina 4800 rumah kos rendah, tapi hangus macam itu saja lah eh. Jadi yang ini saya mula daripada 3 Januari, saya mula masuk mengenai perumahan. Saya macam tu lah. Saya akan melompat daripada satu isu ke satu isu lah kan. Baik eh. Sekarang, mari kita balik kepada Eagle High Plantations.
-
-**Haziq:** Hmm, okey.
-
-**Rafizi:** Yang ini boleh cross reference kepada uh um.
-
-**Rafizi:** Muka surat 50 kertas putih.
-
-**Rafizi:** Ha eh. Kan dia beli saham daripada kawan baik dia.
-
-**Rafizi:** Bukan dia lah, FELDA kena paksa beli daripada kawan baik Dato' Sri Najib ni, Tan Sri Peter Sondakh kan. Uh, dan dia dapat Tan Sri tau. Dia Indonesian tapi dapat Tan Sri. Ha kan, Tan Sri Peter Sondakh ni kan. Dia beli 3 kali ganda harga.
-
-**Rafizi:** Kan. Yang hebatnya apa dia tau? And then uh, uh Eagle apa ni, FELDA tak ada duit. Kena ambil uh pinjaman 2 point billion something tu yang kerajaan pula kena jamin. Dan kerajaan ambil uh pinjaman melalui GovCo, lepas tu kena bagi kat FELDA kan?
-
-**Rafizi:** Surprise surprise, apa dia tau? Saham tu sebenarnya dah dicagarkan untuk pinjaman dia yang lain dengan Bank Credit Suisse. Cuba kau baca.
+**Rafizi:** Kemudian aku pivot 3 hari, 3 Januari 2017, aku pivot kepada perumahan warga FELDA pula. Yang ini pun masuk dalam kertas putih juga lah. Tapi kertas putih dia tak sedetail yang aku dedahkan ni. Dan it stands sebab dia tak pernah disaman. Tak pernah ada laporan polis semua kan. Saya rujuk kepada muka surat 204 dari penyata kewangan FELDA bagi tahun 2014 dan jawapan-jawapan yang diberikan oleh menteri berkenaan soalan saya mengenai perumahan FELDA pada 2 Disember 2015. Jadi saya tanya soalan lah. Ha. Jadi ini soalan yang saya tanya contohnya Tuan Muhammad Rafizi bin Ramli, Pandan, minta Perdana Menteri menyatakan semua skim perumahan yang telah dan akan diusahakan oleh FELDA Global Ventures atau FELDA setakat Oktober 2015 dengan memperincikan jumlah unit, lokasi perumahan, harga jualan, dan kontraktor yang telah dilantik. Najib pun jawab merepek, merepek, merepek. Bagi merealisasikan perkara ini, beberapa skim projek perumahan telah pun dilaksanakan seperti projek perumahan warga FELDA, PWF, perumahan generasi baru FELDA, PGBF, dan program sentuhan kasih FELDA. Sehingga Oktober 2015, ini senarai dia kan. Jadi dia keluarkanlah perumahan ni, orang ramai boleh pergi tengok satu-satu detail ni kan. Dan kalau-kalau ada ahli parlimen PAS ke pembangkang tengok, macam ni lah kau nak tanya soalan kan. Janganlah tanya soalan-soalan pasal bendera ke apa kan kan. Jadi dia bagi berapa unit, dekat mana — Taman Mempaga Utama Bentong lah, ada semua Desa Semarak. Jadi dia bagilah senarai kontraktor. Jentayu Padu, MNN, semua ada ni sekali gus kan. Kemudian dia sambung, sambung, sambung. Kemudian ada kontraktor. Aku nak tahu kontraktor sebenarnya sebab aku tanya tu kan harga kan. Dan harga rumahnya kos rendah 42,000, kos sederhana 92,000. Yang ini juga disentuh dalam apa nama, kertas putih tadi kita tertinggal pasal Eagle High Plantations, tapi tak apa. Nanti kita detail balik. Ada satu benda. Jadi dia senaraikan kontraktor Iris Koto semua lah. Okey. Ah, kadar rumah. Okey, sekarang. Jadi saya pun beritahu kepada orang ramai lah. Lo and behold, kepada peneroka-peneroka FELDA kan, bagus lah korang undi Najib tahun 2013 tu. Najib janji macam-macam. Durian runtuh dah tak jadi, kan. FGV dah rugi. Pendapatan KPF, Koperasi Permodalan FELDA pun dah tak ada. Tapi dia janji rumah. Dan aku cakap, belum apa-apa lagi, rumah tu tak siap, tapi dalam penyata kewangan FELDA dah mencatatkan kerugian, 193 juta. Jadi perbelanjaan yang telah dibuat, bila kita banding dengan yang dia kata harga kos semua tu, tak sepadan dengan pembinaan, progress pembinaan. Ha. Perbelanjaan itu telah diperuntukkan sebagai kerugian dan sebenarnya 193 juta ni sepatutnya dah boleh bina 4800 rumah kos rendah, tapi hangus macam itu saja lah Jadi yang ini saya mula daripada 3 Januari, saya mula masuk mengenai perumahan. Saya macam tu lah. Saya akan melompat daripada satu isu ke satu isu lah kan. Baik Sekarang, mari kita balik kepada Eagle High Plantations. Yang ini boleh cross reference kepada Muka surat 50 kertas putih. Ha Kan dia beli saham daripada kawan baik dia. Bukan dia lah, FELDA kena paksa beli daripada kawan baik Dato' Sri Najib ni, Tan Sri Peter Sondakh kan. Dan dia dapat Tan Sri tau. Dia Indonesian tapi dapat Tan Sri. Ha kan, Tan Sri Peter Sondakh ni kan. Dia beli 3 kali ganda harga. Kan. Yang hebatnya apa dia tau? And then Eagle apa ni, FELDA tak ada duit. Kena ambil pinjaman 2 point billion something tu yang kerajaan pula kena jamin. Dan kerajaan ambil pinjaman melalui GovCo, lepas tu kena bagi kat FELDA kan? Surprise surprise, apa dia tau? Saham tu sebenarnya dah dicagarkan untuk pinjaman dia yang lain dengan Bank Credit Suisse. Cuba kau baca.
 
 **Haziq:** Ya Allah.
 
 **Rafizi:** Cuba baca. Ada kan?
 
-**Haziq:** Uh, harga pembelian.
+**Haziq:** Harga pembelian.
 
 **Rafizi:** Ah, cuba dia disebut lah.
 
@@ -1328,53 +484,27 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Ini muka surat 51. Lembaga Pengarah FGV dan FIC tidak dapat melaksanakan pembelian atau menyokong pembelian ekuiti Eagle High atas sebab risiko, antaranya semua saham Eagle High yang dimiliki oleh syarikat Air One telah dicagarkan kepada Credit Suisse untuk pinjaman kewangan.
 
-**Rafizi:** Jadi, kena scam macam itu je. Dan ini bukan yang pertama lah. Nanti bila sampai kat pasal hartanah di London.
-
-**Rafizi:** Ada lagi macam itu. Jadi, ya lah syarikat tu saya fikir yang dikuasai oleh Peter Sondakh lah.
-
-**Rafizi:** Jadi dia pergi cagar dah saham tu kepada Credit Suisse.
-
-**Rafizi:** Tapi ya lah, ini yang apa nama ni, uh, due diligence, usaha wajar ni kan, tak buat ke apa.
-
-**Rafizi:** FELDA pergi beli saham yang dah dicagarkan untuk pinjaman. Kan? So, jadi tarik nafas kepada orang ramai yang aa apa nama ni, dengar ni kan, supaya aa ya lah kita reflect lah. Saya sebenarnya saya tak ada, tak ada perasaan peribadi kepada sesiapa. Baik Datuk Seri Najib ke, baik Datuk Seri Anwar ke apa kan. Tapi ya lah, saya ingat ya lah, orang kata time heals kononnya. Tapi generasi baru ni mungkin tak sedar ini yang berlaku.
-
-**Rafizi:** Kan orang kata aa Datuk Seri Najib adalah Perdana Menteri paling hebat kan. Cerita 1MDB tu satu hal. Cerita Tabung Haji pun satu hal. Ni cerita FELDA kan. Cerita duit tu satu hal tau. Tapi cerita mewariskan hutang-hutang ini kepada, sebab nanti kita nak kena go through sebenarnya berapa hutang dan berapa tanggungan yang kerajaan kena tanggung. Dan bila kerajaan kena tanggung tu, kita lah kena tanggung. Ah, cukai akan dikutip lebih tinggi.
-
-**Rafizi:** Dan cukai yang dikutip lebih tinggi tu tak pernah cukup untuk ah kerajaan menawarkan ah khidmat ah yang lebih baik kepada rakyat kan. So, we are paying the price lah daripada benda-benda yang, yang hmm, yang memang teruk betul macam ni kan. Baik, kita kembali ya. Sebab kita dah tinggal sejam lagi kan.
+**Rafizi:** Jadi, kena scam macam itu je. Dan ini bukan yang pertama lah. Nanti bila sampai kat pasal hartanah di London. Ada lagi macam itu. Jadi, ya lah syarikat tu saya fikir yang dikuasai oleh Peter Sondakh lah. Jadi dia pergi cagar dah saham tu kepada Credit Suisse. Tapi ya lah, ini yang apa nama ni, due diligence, usaha wajar ni kan, tak buat ke apa. FELDA pergi beli saham yang dah dicagarkan untuk pinjaman. Kan? So, jadi tarik nafas kepada orang ramai yang apa nama ni, dengar ni kan, supaya ya lah kita reflect lah. Saya sebenarnya saya tak ada, tak ada perasaan peribadi kepada sesiapa. Baik Datuk Seri Najib ke, baik Datuk Seri Anwar ke apa kan. Tapi ya lah, saya ingat ya lah, orang kata time heals kononnya. Tapi generasi baru ni mungkin tak sedar ini yang berlaku. Kan orang kata Datuk Seri Najib adalah Perdana Menteri paling hebat kan. Cerita 1MDB tu satu hal. Cerita Tabung Haji pun satu hal. Ni cerita FELDA kan. Cerita duit tu satu hal tau. Tapi cerita mewariskan hutang-hutang ini kepada, sebab nanti kita nak kena go through sebenarnya berapa hutang dan berapa tanggungan yang kerajaan kena tanggung. Dan bila kerajaan kena tanggung tu, kita lah kena tanggung. Ah, cukai akan dikutip lebih tinggi. Dan cukai yang dikutip lebih tinggi tu tak pernah cukup untuk ah kerajaan menawarkan ah khidmat ah yang lebih baik kepada rakyat kan. So, we are paying the price lah daripada benda-benda yang, yang yang memang teruk betul macam ni kan. Baik, kita kembali ya. Sebab kita dah tinggal sejam lagi kan.
 
 **Haziq:** Kita tinggal sejam.
 
-**Rafizi:** 2 jam. Tinggal sejam. Maksudnya habis sampai ni kot. Apa dia? Maksudnya kita habiskan FELDA sampai 3 jam. Um, kalau, kalau saya ingat kalau 3 jam habis FELDA, kita tak sambung dah yang seterusnya. Aku pun penat dah. Terbakar dah otak aku ni kan nak ingat balik ni kan. Okey eh. 5 Januari. Saya mula menyatakan sebenarnya, uh, peneroka FELDA ni kena scam lagi. Sebab pada 30 Disember 2016, pengerusi FELDA masa tu, Tan Sri Isa Samad, seperti biasalah ni nak dah nak masuk pilihan raya 2018 ni.
+**Rafizi:** 2 jam. Tinggal sejam. Maksudnya habis sampai ni kot. Apa dia? Maksudnya kita habiskan FELDA sampai 3 jam. Kalau, kalau saya ingat kalau 3 jam habis FELDA, kita tak sambung dah yang seterusnya. Aku pun penat dah. Terbakar dah otak aku ni kan nak ingat balik ni kan. Okey 5 Januari. Saya mula menyatakan sebenarnya, peneroka FELDA ni kena scam lagi. Sebab pada 30 Disember 2016, pengerusi FELDA masa tu, Tan Sri Isa Samad, seperti biasalah ni nak dah nak masuk pilihan raya 2018 ni.
 
 **Haziq:** 18.
 
-**Rafizi:** Ha kan. So 30 Disember 2016, masa ni aku dah duduk atas trak lah, duk kempen semua kan. So mana nak kempen lagi, mana nak baca lagi, mana nak track lagi kan. So, seperti biasalah, cash is king. Jadi 30 Disember 2016, Tan Sri Isa mengumumkan pemberian bonus insentif produktiviti peneroka. Hasil uh yang berjumlah 66.7 juta yang akan diagihkan kepada 95,683 orang peneroka. Kan? Jadi daripada 95,000 lebih peneroka ni, mereka akan menerima insentif yang berbeza-bezalah ikut dia punya produktiviti, so to speak. Iaitu di antara 300 ringgit hingga 800 ringgit. Jadi secara purata, kalau diambil purata, seorang peneroka akan dapat sekitar 697 ringgit. Jadi semua tepuk. Tepuk ah. Doyan runtuh. Dapat lagi nak masuk pilihan raya ni kan, dapat durian runtuh kan. So, aku pun kata, "Oi, selama cerita pasal bonus 697 ni, kau tak cerita pasal interest yang FELDA kena tanggung. Kerana interest yang FELDA kena tanggung itu sebenarnya ditanggung oleh peneroka dan rakyat jugalah. So aku pun pi kiralah berapa interest dia kan. Kira, kira, kira, kira. Jadi apa nama ni, uh, campur lagi yang uh kerugian dia 1.4 bilion tu kita dah tahu kan. Kemudian uh uh FELDA pergi ambil pula hutang uh uh 2.26 billion tu kan. Dan pada masa ini ah, menjelang 5 Januari 2017, memang kita dah tahu dan telah dilaporkan hutang itu diambil daripada 2 sumber. 1 ialah sukuk. Uh, 1.13 billion. 1 lagi ialah dibiayai oleh 1 hutang dari bank Eropah tau. Ha kan. Uh, jadi saya pun semaklah dia punya kupon gini sekian, sekian, sekian. Jadi saya pun kiralah. Siapa yang rajin pergi tengoklah macam mana aku kira interest masa tu. Tengok semua kedudukan. Jadi saya pun buat kesimpulan beginilah. Untuk peneroka-peneroka. Jumlah kos membayar hutang FELDA dan anak syarikatnya ialah 485 juta ringgit setahun tau. Ha, pada masa itu financing cost dia daripada semua ni kan. Jadi kalau kita ambil pendekatan yang sama, financing cost 485 juta tu kita bagi secara purata. Sebenarnya purata bayaran interest faedah hutang eh. Untuk setiap peneroka ialah 5065 ringgit. So aku kata tepuklah, tepuk.
+**Rafizi:** Ha kan. So 30 Disember 2016, masa ni aku dah duduk atas trak lah, duk kempen semua kan. So mana nak kempen lagi, mana nak baca lagi, mana nak track lagi kan. So, seperti biasalah, cash is king. Jadi 30 Disember 2016, Tan Sri Isa mengumumkan pemberian bonus insentif produktiviti peneroka. Hasil yang berjumlah 66.7 juta yang akan diagihkan kepada 95,683 orang peneroka. Kan? Jadi daripada 95,000 lebih peneroka ni, mereka akan menerima insentif yang berbeza-bezalah ikut dia punya produktiviti, so to speak. Iaitu di antara 300 ringgit hingga 800 ringgit. Jadi secara purata, kalau diambil purata, seorang peneroka akan dapat sekitar 697 ringgit. Jadi semua tepuk. Tepuk ah. Doyan runtuh. Dapat lagi nak masuk pilihan raya ni kan, dapat durian runtuh kan. So, aku pun kata, "Oi, selama cerita pasal bonus 697 ni, kau tak cerita pasal interest yang FELDA kena tanggung. Kerana interest yang FELDA kena tanggung itu sebenarnya ditanggung oleh peneroka dan rakyat jugalah. So aku pun pi kiralah berapa interest dia kan. Kira, kira, kira, kira. Jadi apa nama ni, campur lagi yang kerugian dia 1.4 bilion tu kita dah tahu kan. Kemudian FELDA pergi ambil pula hutang 2.26 billion tu kan. Dan pada masa ini ah, menjelang 5 Januari 2017, memang kita dah tahu dan telah dilaporkan hutang itu diambil daripada 2 sumber. 1 ialah sukuk. 1.13 billion. 1 lagi ialah dibiayai oleh 1 hutang dari bank Eropah tau. Ha kan. Jadi saya pun semaklah dia punya kupon gini sekian, sekian, sekian. Jadi saya pun kiralah. Siapa yang rajin pergi tengoklah macam mana aku kira interest masa tu. Tengok semua kedudukan. Jadi saya pun buat kesimpulan beginilah. Untuk peneroka-peneroka. Jumlah kos membayar hutang FELDA dan anak syarikatnya ialah 485 juta ringgit setahun tau. Ha, pada masa itu financing cost dia daripada semua ni kan. Jadi kalau kita ambil pendekatan yang sama, financing cost 485 juta tu kita bagi secara purata. Sebenarnya purata bayaran interest faedah hutang Untuk setiap peneroka ialah 5065 ringgit. So aku kata tepuklah, tepuk.
 
 **Haziq:** Hebat.
 
-**Rafizi:** Dia pergi umum hebat. 697 ringgit bonus yang dia tak beritahu, ha, kau orang kena tanggung 5065. Tapi yang malangnya apa dia tau? Peneroka pun tepuk balik. Dia kata, sebenarnya kita orang tak tanggung sangat. Yang tanggung kau orang semua rakyat Malaysia yang bayar cukai. Sebab akhirnya kerajaan kena bail out kan. So, okey ya. Teruskan lagi. Kita tak sampai ke bahagian-bahagian juicy lagi ni.
-
-**Haziq:** Ya, betul.
-
-**Rafizi:** Ha. Uh, kita masih pasal perumahan eh. Ha, kita masih pasal perumahan. Kemudian seterusnya. Ha, tak apalah. Jadi apabila aku bising sangat, semua makin teruk ni, akhirnya uh Tan Sri Isa Samad pun dipecatlah dan digantikan dengan Tan Sri Shahrir Samad. Cuma yang dia tak beritahu masa ni ialah walaupun pengerusi FELDA tu dah ditukar, Tan Sri Isa Samad masih lagi ada dalam banyak anak-anak syarikat tau.
-
-**Haziq:** Aha, betul, betul.
-
-**Rafizi:** Kan? Okey eh. So menjelang Januari 2017 berlaku um pertukaran kepimpinan FELDA. Saya pun alu-alukanlah Tan Sri Shahrir Samad kan, dan saya harap sebenarnya sebab dia pun ada reputasi yang yang you know yang straight kan. Reputasi dia sebelum itu tidak tergolonglah di kalangan yalah mambu jambu, hokus-pokus UMNO ni kan. Tapi seperti biasa, aku dikecewakan. Sebab dia beza banyak tau. Isa Samad ni, Tan Sri Isa Samad ni, masa aku duk bising semua ni, stail dia dia tak jawab satu apa pun.
-
-**Rafizi:** Ha, so mungkin sebab itu dia kena tukar kot kan. So ganti dengan Tan Sri Shahrir Samad. Tan Sri Shahrir Samad menjawab lah. Hentam aku lah. Ha ni. So lagi banyaklah. Tapi aku kesian kat Shahrir Samad lah. Yang kau pergi jadi Pak Sanggup tu kenapa? Ha dan lepas tu kau nak apa nama ni kan. Kemudian, uh, 10 Januari 2017. So ini antara reaksi awal Tan Sri Shahrir Samad lah, rancangan dia untuk menyelamatkan FELDA. So, ni muka depan Berita Harian ni. Misi Shahrir kan beri nafas baru kepada organisasi, kembalikan peranan asal FELDA kan. Atasi masalah beban hutang peneroka, projek perumahan jasa kedua, tumpu aspek sosial semua, kaji implikasi jika keluarkan FGV daripada bursa saham. Ha, itulah. Tapi masa ni tak ada seorang pun daripada UMNO cakap, Datuk Seri Najib, awak telah menghancurkan FELDA. Ha. Sebab pada masa itu, secara tidak langsung, memang itulah yang Shahrir Samad pun mengaku lah. Sebenarnya ia satu kesilapan besar dan dia telah menghancurkan FELDA melalui penyenaraian 2013 kan. Tapi yalah dia tak macam kita dalam parti lama dululah. Kalau tak setuju cakap atas batang hidung, tak setuju lagi keluar buat parti baru kan? Ha, dia tak ada. Ha, dia masih lagi bosku, bosku kan. Jadi saya pun jawablah. Eh, uh, okeylah kalau itu yang nak dibuat, tapi benda tu bukan percuma. Bila awak dah commit satu kesilapan yang sebesar itu, kalau awak nak reverse pun, awak nak backtrack, awak nak nyahsenaraikan apa nama ni, uh, FGV ni, awak kena tengok pula apa kosnya.
-
-**Rafizi:** So kosnya, aku tunjukkanlah kosnya contohnya kan. Uh, penyenaraian ni kan. Belanja akibat penyenaraian FGV ni untuk 3 tahun 2012, 2013, 2014, uh, ialah sebanyak uh, 2012 2.4 billion eh. Kemudian 2013 200 juta, 2014 281 juta. Kemudian kena ambil lagi jumlah hutang FGV yang FELDA kena tanggung kalau FELDA take over balik tau. Uh, FELDA dah ada hutang 6 billion lebih. Uh, kemudian nak kena tambah lagi 2013 jumlah hutang FGV 2.7 bilion. 2014 2.1 bilion kan? Dan belanja yang 2.4 bilion tu, belanja penyenaraian tu kan, termasuklah contohnya pemberian durian runtuh kepada peneroka-peneroka 1.7 bilion. Ya, ini yang tepuk 15,000 ringgit dapat untuk masuk pilihan raya 2013 tu. Kemudian sumbangan one off kepada negeri-negeri tepuk.
+**Rafizi:** Dia pergi umum hebat. 697 ringgit bonus yang dia tak beritahu, ha, kau orang kena tanggung 5065. Tapi yang malangnya apa dia tau? Peneroka pun tepuk balik. Dia kata, sebenarnya kita orang tak tanggung sangat. Yang tanggung kau orang semua rakyat Malaysia yang bayar cukai. Sebab akhirnya kerajaan kena bail out kan. So, okey ya. Teruskan lagi. Kita tak sampai ke bahagian-bahagian juicy lagi ni. Ha. Kita masih pasal perumahan Ha, kita masih pasal perumahan. Kemudian seterusnya. Ha, tak apalah. Jadi apabila aku bising sangat, semua makin teruk ni, akhirnya Tan Sri Isa Samad pun dipecatlah dan digantikan dengan Tan Sri Shahrir Samad. Cuma yang dia tak beritahu masa ni ialah walaupun pengerusi FELDA tu dah ditukar, Tan Sri Isa Samad masih lagi ada dalam banyak anak-anak syarikat tau. Kan? Okey So menjelang Januari 2017 berlaku pertukaran kepimpinan FELDA. Saya pun alu-alukanlah Tan Sri Shahrir Samad kan, dan saya harap sebenarnya sebab dia pun ada reputasi yang yang you know yang straight kan. Reputasi dia sebelum itu tidak tergolonglah di kalangan yalah mambu jambu, hokus-pokus UMNO ni kan. Tapi seperti biasa, aku dikecewakan. Sebab dia beza banyak tau. Isa Samad ni, Tan Sri Isa Samad ni, masa aku duk bising semua ni, stail dia dia tak jawab satu apa pun. Ha, so mungkin sebab itu dia kena tukar kot kan. So ganti dengan Tan Sri Shahrir Samad. Tan Sri Shahrir Samad menjawab lah. Hentam aku lah. Ha ni. So lagi banyaklah. Tapi aku kesian kat Shahrir Samad lah. Yang kau pergi jadi Pak Sanggup tu kenapa? Ha dan lepas tu kau nak apa nama ni kan. Kemudian, 10 Januari 2017. So ini antara reaksi awal Tan Sri Shahrir Samad lah, rancangan dia untuk menyelamatkan FELDA. So, ni muka depan Berita Harian ni. Misi Shahrir kan beri nafas baru kepada organisasi, kembalikan peranan asal FELDA kan. Atasi masalah beban hutang peneroka, projek perumahan jasa kedua, tumpu aspek sosial semua, kaji implikasi jika keluarkan FGV daripada bursa saham. Ha, itulah. Tapi masa ni tak ada seorang pun daripada UMNO cakap, Datuk Seri Najib, awak telah menghancurkan FELDA. Ha. Sebab pada masa itu, secara tidak langsung, memang itulah yang Shahrir Samad pun mengaku lah. Sebenarnya ia satu kesilapan besar dan dia telah menghancurkan FELDA melalui penyenaraian 2013 kan. Tapi yalah dia tak macam kita dalam parti lama dululah. Kalau tak setuju cakap atas batang hidung, tak setuju lagi keluar buat parti baru kan? Ha, dia tak ada. Ha, dia masih lagi bosku, bosku kan. Jadi saya pun jawablah. Okeylah kalau itu yang nak dibuat, tapi benda tu bukan percuma. Bila awak dah commit satu kesilapan yang sebesar itu, kalau awak nak reverse pun, awak nak backtrack, awak nak nyahsenaraikan apa nama ni, FGV ni, awak kena tengok pula apa kosnya. So kosnya, aku tunjukkanlah kosnya contohnya kan. Penyenaraian ni kan. Belanja akibat penyenaraian FGV ni untuk 3 tahun 2012, 2013, 2014, ialah sebanyak 2012 2.4 billion Kemudian 2013 200 juta, 2014 281 juta. Kemudian kena ambil lagi jumlah hutang FGV yang FELDA kena tanggung kalau FELDA take over balik tau. FELDA dah ada hutang 6 billion lebih. Kemudian nak kena tambah lagi 2013 jumlah hutang FGV 2.7 bilion. 2014 2.1 bilion kan? Dan belanja yang 2.4 bilion tu, belanja penyenaraian tu kan, termasuklah contohnya pemberian durian runtuh kepada peneroka-peneroka 1.7 bilion. Ya, ini yang tepuk 15,000 ringgit dapat untuk masuk pilihan raya 2013 tu. Kemudian sumbangan one off kepada negeri-negeri tepuk.
 
 **Haziq:** Tepuk.
 
-**Rafizi:** 500 juta. So... Jadi saya tunjukkan bahawa bila dia senaraikan tu, dia ada jumlah yang dia belanjakan. Dia kira Santa Claus kan? Dapat duit kan Santa Claus. Jadi jumlah keseluruhan yang telah dibelanjakan oleh FELDA akibat penyenaraian FGV adalah 2.9 bilion tau. Selama 3 tahun.
+**Rafizi:** 500 juta. So. Jadi saya tunjukkan bahawa bila dia senaraikan tu, dia ada jumlah yang dia belanjakan. Dia kira Santa Claus kan? Dapat duit kan Santa Claus. Jadi jumlah keseluruhan yang telah dibelanjakan oleh FELDA akibat penyenaraian FGV adalah 2.9 bilion tau. Selama 3 tahun.
 
 **Haziq:** 3 tahun.
 
-**Rafizi:** Kan. Jadi kalau dia nak senarai — ini kalau dia nak nyahsenaraikan lah. Umm, dan 2.9 bilion itu, itu tak termasuk contohnya kerugian atas kertas yang ditanggung oleh uh GLIC, uh agensi-agensi kerajaan lain yang beli saham uh FGV tu. So FGV sendiri, FELDA dah belanja 2.9 rugi. Uh kemudian bila saham tu jatuh, anggaran saya masa ini, Tabung Haji dah rugi 2 billion. Ha kan. Kemudian YPF, YPF lagi cerdiklah daripada Tabung Haji kan. Bila dia tengok FGV macam ni, dia mula jual sikit, sikit, sikit. Tapi saham FGV tak pernah exceed daripada harga listing dia tu. Dia turun, turun, turun. So, walaupun dia jual sikit-sikit, setiap kali dia jual dia rugi, rugi, rugilah kan. Jadi sebab itu saya kata, dah lah 2.9 awak dah rugi penyenaraian. Lepas tu yang orang lain rugi tu 2 billion. Kalau awak nak, yang tu dah hangus. Kalau awak nak delist, maka dia akan ada kos baru. Kos barunya satu, FELDA nak kena runding balik harga pembelian dari tabung-tabung rakyat lah, macam Tabung Haji, KWAP, daripada kerajaan Pahang yang lainlah. Sebab dia, of course dia kata, you know, saya rugi besar ni, so saya nak awak bayar lebih tinggi daripada harga pasaran, satu harga tertentu lah, supaya saya tak rugi sangatlah. FELDA kena bayar lagi, kan? Kemudian, FELDA juga kena buat general offer kepada minority shareholders lah. Uh, dan walaupun yang ini bukan FELDA yang tanggung, tapi minority shareholders tu ialah rakyat biasa. Rakyat pula rugilah. Dan uh, FELDA pula kena cari wang untuk beli saham-saham ni semua. Ha kan? Sebab dia bukan ada duit. Duit dia tinggal beberapa ratus juta je kan. Jadi, jadi saya tunjukkan bahawa inilah semua um kerugian-kerugian akibat daripada kebijaksanaan Datuk Seri Najib Tun Razak yang menstrukturkan balik uh FELDA melalui FGV tu. Jadi, you know, secara kasar, tengok macam ni saja, kerugian keseluruhan tu kalau dia teruskan ni ialah 7.8 billion.
-
-**Rafizi:** Hmm. Jadi saya pun cabar dialah. Saya kata, sepatutnyalah dah jadi macam ini ni, sepatutnya Tan Sri Shahrir tak payah ambil 1 sen pun lah gaji untuk mengurangkan kerugian kan. Dah teruk sangat tu, janganlah ambil gaji kan. Okey. Um. Seterusnya, uh, 11 Januari. Balik kepada cerita.
+**Rafizi:** Kan. Jadi kalau dia nak senarai — ini kalau dia nak nyahsenaraikan lah. Dan 2.9 bilion itu, itu tak termasuk contohnya kerugian atas kertas yang ditanggung oleh GLIC, agensi-agensi kerajaan lain yang beli saham FGV tu. So FGV sendiri, FELDA dah belanja 2.9 rugi. Kemudian bila saham tu jatuh, anggaran saya masa ini, Tabung Haji dah rugi 2 billion. Ha kan. Kemudian YPF, YPF lagi cerdiklah daripada Tabung Haji kan. Bila dia tengok FGV macam ni, dia mula jual sikit, sikit, sikit. Tapi saham FGV tak pernah exceed daripada harga listing dia tu. Dia turun, turun, turun. So, walaupun dia jual sikit-sikit, setiap kali dia jual dia rugi, rugi, rugilah kan. Jadi sebab itu saya kata, dah lah 2.9 awak dah rugi penyenaraian. Lepas tu yang orang lain rugi tu 2 billion. Kalau awak nak, yang tu dah hangus. Kalau awak nak delist, maka dia akan ada kos baru. Kos barunya satu, FELDA nak kena runding balik harga pembelian dari tabung-tabung rakyat lah, macam Tabung Haji, KWAP, daripada kerajaan Pahang yang lainlah. Sebab dia, of course dia kata, you know, saya rugi besar ni, so saya nak awak bayar lebih tinggi daripada harga pasaran, satu harga tertentu lah, supaya saya tak rugi sangatlah. FELDA kena bayar lagi, kan? Kemudian, FELDA juga kena buat general offer kepada minority shareholders lah. Dan walaupun yang ini bukan FELDA yang tanggung, tapi minority shareholders tu ialah rakyat biasa. Rakyat pula rugilah. Dan FELDA pula kena cari wang untuk beli saham-saham ni semua. Ha kan? Sebab dia bukan ada duit. Duit dia tinggal beberapa ratus juta je kan. Jadi, jadi saya tunjukkan bahawa inilah semua kerugian-kerugian akibat daripada kebijaksanaan Datuk Seri Najib Tun Razak yang menstrukturkan balik FELDA melalui FGV tu. Jadi, you know, secara kasar, tengok macam ni saja, kerugian keseluruhan tu kalau dia teruskan ni ialah 7.8 billion. Jadi saya pun cabar dialah. Saya kata, sepatutnyalah dah jadi macam ini ni, sepatutnya Tan Sri Shahrir tak payah ambil 1 sen pun lah gaji untuk mengurangkan kerugian kan. Dah teruk sangat tu, janganlah ambil gaji kan. Okey. Seterusnya, 11 Januari. Balik kepada cerita.
 
 **Haziq:** Perumahan.
 
@@ -1382,29 +512,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Kertas.
 
-**Rafizi:** putih lah. Jadi saya faham maksudnya, uh, menjelang Januari 2017 ni, FELDA dah betul-betul terdesak.
-
-**Rafizi:** Kerajaan Najib pun dah terdesak lah. Dia pun dah tak boleh nak berdolak-dalih dah macam mana kan. Dia dah pergi umum pasal rumah semua. Dia dah janji macam-macam. Rumah tu pun terbengkalai. Rugi dah sampai 200 juta. Rumah tak siap. Jadi entah macam mana, agaknya ada orang ada idea, dia nak swastakan projek perumahan ini kepada pemaju.
-
-**Rafizi:** Bukan kontraktor dah tahu, swastakan. Ha, jadi yang asal yang saya tanya dalam parlimen tadi ialah, uh, dia masih lagi projek FELDA, tapi dia lantik kontraktor.
-
-**Rafizi:** Tapi bila dia bayar, rugi, terbengkalai semua. Ni dia nak swastakan. Maksudnya ada developer baru masuklah. Ha kan. Okey. Cuma bila saya check, sebab yang ini pun bermula daripada pengumuman Tan Sri Isa juga. Sebab pada 16 Ogos 2016, dia dengan bangganya membuat kenyataan sebanyak 8,400 unit rumah generasi kedua FELDA siap tahun depan.
-
-**Rafizi:** Tan Sri Isa mengaku bahawa FELDA ketika itu sedang berusaha mendapatkan pinjaman bank sebanyak 2 bilion bagi membiayai projek ini, tetapi menghadapi kesukaran. Oleh itu, pada 4 Oktober 2016, pengumuman itu lagi hebat. Sebanyak 11,400 unit perumahan generasi baru FELDA mula dibina awal tahun depan.
-
-**Rafizi:** Dan Tan Sri Isa mengesahkan FELDA telah menggunakan sehingga 400 juta, tapi memerlukan 1 bilion lagi kan. Jadi dia duk umum ni rumah, rumah, rumah nak siap kan. Jadi pada 6 September 2016 pula, diumumkan lagi. Perumahan FELDA dijangka bermula dalam tempoh sehingga 2 bulan lagilah. Okey, cuma yang ini menarik. Berita ini melaporkan bagaimana FELDA telah menandatangani satu perjanjian pendanaan swasta bagi projek yang jumlah pembangunan kasarnya adalah 1 bilion dengan sebuah syarikat dari Singapura bernama Putra Star Investments Holdings. Bagi nama saja besar dengan saya. Saya pergi cari lah. Siapa pula Putra Star ni? Syarikat ini dari Singapura. Dan kemudian ada dua perspektif. Ini projek perumahan FELDA yang konon Bumiputera semua. Awak pergi bagi kepada syarikat Singapura, kan. Lepas tu, kalau syarikat Singapura tu termasuk holding ke apa, saya faham lah juga. Ini Putra Star Investment Holdings Limited. Tak pernah dengar? Jadi saya pun pergi tanyalah.
-
-**Rafizi:** Saya pun pergi check lah siapa syarikat Putra Star Investment Holdings ni kan.
-
-**Rafizi:** Dia sebenarnya satu syarikat yang ditubuhkan sebagai syarikat perdagangan biasa dan bukan syarikat kewangan pun.
-
-**Rafizi:** Dan besar kemungkinan dia tak ada lesen kewangan pun untuk memberi pinjaman kepada FELDA lah. Modal dia hanya 1 juta. Jadi macam mana dia nak bagi 1 bilion ringgit tu kan? Dan saya kenal pasti bahawa terdapat 3 orang, dimiliki oleh 3 orang. 1 orang warga Singapura bernama Eng Peter Titan dan 2 orang warga Malaysia bernama Teresa Eng. Bukan Teresa Kok eh, Teresa Eng dan juga Karisa Eng kan. Jadi saya tanya, eh, macam mana kau pilih syarikat ni? Dia kata dia ada 1 bilion ke? Kena scam FELDA ni? Betul ke dia ada 1 bilion? Ni tak ada rekod syarikat ni ada duit sebanyak itu kan?
-
-**Rafizi:** Okey. Sambung lagi. Kemudian seterusnya, seperti biasa tak ada jawapan lah.
-
-**Rafizi:** Tak ada jawapan. Jadi.
-
-**Rafizi:** Tapi rumah, rumah FELDA ni sama dengan
+**Rafizi:** putih lah. Jadi saya faham maksudnya, menjelang Januari 2017 ni, FELDA dah betul-betul terdesak. Kerajaan Najib pun dah terdesak lah. Dia pun dah tak boleh nak berdolak-dalih dah macam mana kan. Dia dah pergi umum pasal rumah semua. Dia dah janji macam-macam. Rumah tu pun terbengkalai. Rugi dah sampai 200 juta. Rumah tak siap. Jadi entah macam mana, agaknya ada orang ada idea, dia nak swastakan projek perumahan ini kepada pemaju. Bukan kontraktor dah tahu, swastakan. Ha, jadi yang asal yang saya tanya dalam parlimen tadi ialah, dia masih lagi projek FELDA, tapi dia lantik kontraktor. Tapi bila dia bayar, rugi, terbengkalai semua. Ni dia nak swastakan. Maksudnya ada developer baru masuklah. Ha kan. Okey. Cuma bila saya check, sebab yang ini pun bermula daripada pengumuman Tan Sri Isa juga. Sebab pada 16 Ogos 2016, dia dengan bangganya membuat kenyataan sebanyak 8,400 unit rumah generasi kedua FELDA siap tahun depan. Tan Sri Isa mengaku bahawa FELDA ketika itu sedang berusaha mendapatkan pinjaman bank sebanyak 2 bilion bagi membiayai projek ini, tetapi menghadapi kesukaran. Oleh itu, pada 4 Oktober 2016, pengumuman itu lagi hebat. Sebanyak 11,400 unit perumahan generasi baru FELDA mula dibina awal tahun depan. Dan Tan Sri Isa mengesahkan FELDA telah menggunakan sehingga 400 juta, tapi memerlukan 1 bilion lagi kan. Jadi dia duk umum ni rumah, rumah, rumah nak siap kan. Jadi pada 6 September 2016 pula, diumumkan lagi. Perumahan FELDA dijangka bermula dalam tempoh sehingga 2 bulan lagilah. Okey, cuma yang ini menarik. Berita ini melaporkan bagaimana FELDA telah menandatangani satu perjanjian pendanaan swasta bagi projek yang jumlah pembangunan kasarnya adalah 1 bilion dengan sebuah syarikat dari Singapura bernama Putra Star Investments Holdings. Bagi nama saja besar dengan saya. Saya pergi cari lah. Siapa pula Putra Star ni? Syarikat ini dari Singapura. Dan kemudian ada dua perspektif. Ini projek perumahan FELDA yang konon Bumiputera semua. Awak pergi bagi kepada syarikat Singapura, kan. Lepas tu, kalau syarikat Singapura tu termasuk holding ke apa, saya faham lah juga. Ini Putra Star Investment Holdings Limited. Tak pernah dengar? Jadi saya pun pergi tanyalah. Saya pun pergi check lah siapa syarikat Putra Star Investment Holdings ni kan. Dia sebenarnya satu syarikat yang ditubuhkan sebagai syarikat perdagangan biasa dan bukan syarikat kewangan pun. Dan besar kemungkinan dia tak ada lesen kewangan pun untuk memberi pinjaman kepada FELDA lah. Modal dia hanya 1 juta. Jadi macam mana dia nak bagi 1 bilion ringgit tu kan? Dan saya kenal pasti bahawa terdapat 3 orang, dimiliki oleh 3 orang. 1 orang warga Singapura bernama Eng Peter Titan dan 2 orang warga Malaysia bernama Teresa Eng. Bukan Teresa Kok Teresa Eng dan juga Karisa Eng kan. Jadi saya tanya, macam mana kau pilih syarikat ni? Dia kata dia ada 1 bilion ke? Kena scam FELDA ni? Betul ke dia ada 1 bilion? Ni tak ada rekod syarikat ni ada duit sebanyak itu kan? Okey. Sambung lagi. Kemudian seterusnya, seperti biasa tak ada jawapan lah. Tak ada jawapan. Jadi. Tapi rumah, rumah FELDA ni sama dengan
 
 **Haziq:** perumahan generasi baru FELDA yang dalam kertas putih ni? Okey, okey.
 
@@ -1412,79 +520,23 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Dia tak ada. Cuma dia beritahu percentage berapa siap, berapa tak siap lah.
 
-**Rafizi:** Ha, dia tak sampai, dia tak pergi siasat
-
-**Rafizi:** perjanjian ini.
-
-**Haziq:** Yes.
-
-**Rafizi:** Ha kan. Sebab saya rasa perjanjian ini kena scam lah. Jadi mereka pun malas nak siasat kan. Jadi seterusnya pada 12 Januari 2017, saya tanyalah dari mana datangnya 1 bilion untuk perumahan FELDA ni?
-
-**Rafizi:** Dan saya tanya, adakah FELDA menggunakan Putra Star Investments ni sebagai orang tengah untuk mendapatkan dana dari China? Kan. Sebab masa tu kita dah tahu dah ECRL, tak, ECRL, yang Sabah Pipeline-nya, yang 1MDB-nya, semua ini banyak melibatkan duit daripada China juga kan. Dan Najib masa tu memang sangat rapat kan dengan kerajaan China kan. Jadi saya pun pergi semak. FELDA tak beri maklum balas. Cuma MalaysiaKini berjaya mendapat reaksi daripada wakil Putra Star dan mengesahkan perkara itu dan memaklumkan bahawa sebarang reaksi berkenaan hal ini diserahkan kepada FELDA lah. Jadi FELDA tak jawab. FELDA tak jawab, tak apa. Saya pun pergi check lah siapa Peter Titan ni?
-
-**Rafizi:** Jadi saya check, check, check dia. Dia sebenarnya memang wujudlah Peter Titan ni. Dan kalau ditinjau, dia ni memang ada hubungan yang rapat dengan syarikat-syarikat di China.
-
-**Rafizi:** Bukan Singapura sangat, di China.
+**Rafizi:** Ha, dia tak sampai, dia tak pergi siasat perjanjian ini. Ha kan. Sebab saya rasa perjanjian ini kena scam lah. Jadi mereka pun malas nak siasat kan. Jadi seterusnya pada 12 Januari 2017, saya tanyalah dari mana datangnya 1 bilion untuk perumahan FELDA ni? Dan saya tanya, adakah FELDA menggunakan Putra Star Investments ni sebagai orang tengah untuk mendapatkan dana dari China? Kan. Sebab masa tu kita dah tahu dah ECRL, tak, ECRL, yang Sabah Pipeline-nya, yang 1MDB-nya, semua ini banyak melibatkan duit daripada China juga kan. Dan Najib masa tu memang sangat rapat kan dengan kerajaan China kan. Jadi saya pun pergi semak. FELDA tak beri maklum balas. Cuma MalaysiaKini berjaya mendapat reaksi daripada wakil Putra Star dan mengesahkan perkara itu dan memaklumkan bahawa sebarang reaksi berkenaan hal ini diserahkan kepada FELDA lah. Jadi FELDA tak jawab. FELDA tak jawab, tak apa. Saya pun pergi check lah siapa Peter Titan ni? Jadi saya check, check, check dia. Dia sebenarnya memang wujudlah Peter Titan ni. Dan kalau ditinjau, dia ni memang ada hubungan yang rapat dengan syarikat-syarikat di China. Bukan Singapura sangat, di China.
 
 **Haziq:** China.
 
-**Rafizi:** Um. Syarikat pertamanya ditubuhkan pada tahun 1978. Banyak terlibat di dalam pelaburan bermodal besar dan mengenali beberapa syarikat pembuat besi dan peralatan China yang terkenal. Jadi berita ini membayangkan Eng Peter Titan adalah seorang ahli perniagaan yang mempunyai jaringan perniagaan ataupun business networking yang luas dengan industri berat dan perbankan China.
-
-**Rafizi:** Kemudian daripada itu juga kita dapat tahu bahawa Eng Peter Titan ni didakwa mengenali seorang wanita bernama Michelle Liu. Digambarkan sebagai teman tapi mesra, dan Michelle Liu ini adalah pengurus perhubungan pelanggan ataupun relationship manager di China Construction Bank. Jadi rangkaiannya berpusing-pusing ke arah itu jugalah. Kemudian saya pergi semak lagi di Singapura lah, Accounting and Regulatory Authority ataupun ACRA di Singapura.
-
-**Rafizi:** Untuk mengetahui perniagaan-perniagaan lain Peter Titan ni.
-
-**Rafizi:** Jadi dia ada Titan Petrotrade, memang benar-benar wujud dan saya semak apa yang Titan Petrotrade ni buat. Dia sebenarnya syarikat yang menjual beli bahan mineral, minyak dan produk-produk lain. Dan dia tulis secara jelas, "Our company act as agent and commission agent for supply of minerals, clean petrol and product." Pertama, dia tak ada kena mengena dengan perumahan ke apa pun. Yang kedua, dia memang tak ada duit sebanyak itu lah. Jadi ini mengesahkan bahawa besar kemungkinanlah Eng Peter Titan ni adalah pedagang orang tengah kan. Kemudian saya semak lagi semua syarikat-syarikat lain, dan pengarah-pengarahnya. Di situ boleh dilihat carian daripada Singapura tu kan.
-
-**Rafizi:** Berkenaan Eng Peter Titan, nama syarikat dia yang lain. Laporan menunjukkan Eng Peter Titan mempunyai atau terlibat dengan 11 syarikat sejak tahun 1977. Kebanyakan syarikat-syarikat ini telah ditutup dan tidak aktif. Ha. Satu lagi syarikat menganjurkan konsert dan mengendalikan acara bernama Love Entertainment Group, tapi memang tak ada yang berkaitan hartanah besar ataupun developer besarlah.
-
-**Rafizi:** Hmm. Kemudian saya pergi semak dengan Panama Papers. Ha.
-
-**Rafizi:** Baru keluar tahun itu.
-
-**Rafizi:** Ha, baru keluar. Jadi orang yang duk sibuk kata oh Anwar pendedahan Panama, banana pula. Panama Papers semua ni tahun bila tu? 2022. Tak, tak, yang masa Anwar duk buat bising tu, 2020, 2021 lebih kurang masa Sheraton kan?
-
-**Rafizi:** Orang dah tengok Panama Papers sejak 2016 lagi. Jadi pergi check kat Panama Papers. Dalam tu ada satu syarikat bernama Titan Petrotrade International yang sahamnya dimiliki oleh Sino Swiss Energy. Jadi Sino ni memang very clearly adalah syarikat China lah kan. Dan salah seorang pemegang saham Sino Swiss bernama Celine Tanardi, seorang warga Indonesia kan.
-
-**Rafizi:** Jadi daripada sini kita boleh rumuskanlah bahawa dia tak ada duit. Dia orang tengah dan semua sangat tidak jelas dalam Panama Papers ni. Jadi saya tanyalah kepada Datuk Seri Najib, kepada Tan Sri Syahrir Samad dan Tan Sri Isa Samad. Adakah FELDA merancang untuk mengambil pinjaman daripada bank-bank China ni, tapi menggunakan Putra Star Investment sebagai orang tengah supaya perkara itu tidak terbongkar dan menjadi kontroversi. Sebab kalau tidak, orang seperti saya duk buat bising lagi, kau ambil lagi pinjaman daripada China. Kemudian saya tanya apa kaitan Eng Peter Titan dengan Panama Papers ni, dengan Titan Petrotrade International. Dan adakah FELDA telah melakukan semakan menyeluruh melalui due diligence untuk memastikan FELDA dan peneroka tidak terpalit dengan basically skim pengubahan wang haram di seluruh dunialah, sebab Panama Papers, tak, Panama Papers. Yang ini tidak dijawab terus, tahu.
-
-**Rafizi:** Ha, yang ini Shahrir Samad biasanya kalau saya tanya, dia jawab tahu.
-
-**Rafizi:** Yang ini dia tak jawab kan. Baik. Jadi sebab dia tak jawab dan saya bercakap seorang diri sahaja dan ini ada risiko lah sebab ia bersabit dengan Panama Papers, syarikat-syarikat yang dinamakan semua ni kan. Saya pun pada 13 Januari 2017, saya menulis surat kepada Datuk Mohamad, maksudnya Datuk Mohamad Ibrahim, Gabenor Bank Negara. Saya minta supaya siasatan dijalankan ke atas perjanjian pendanaan swasta membina perumahan FELDA ni antara Perumahan FELDA Sendirian Berhad, Terra Nova Builders Sendirian Berhad dan Putra Star Investments Holdings ya. Jadi saya sebutkan bahawa memang telah ada satu perjanjian di antara Perumahan FELDA di satu pihak
-
-**Rafizi:** dengan Terra Nova Builders Sdn. Berhad di satu pihak dan juga Putra Star Investments Holdings. Ekoran beberapa soalan yang ditimbulkan, Pengerusi FELDA, Yang Berhormat Tan Sri Shahrir Samad telah mengeluarkan satu kenyataan rasmi bertarikh 12 Januari. Beliau mengesahkan bahawa perjanjian pendanaan swasta atau PFI yang saya rujuk itu telah ditandatangani pada 6 September 2016. Basically, Tan Sri Shahrir Samad nak beritahu, ini Isa Samad, bukan zaman saya. Saya tak jadi chairman lagi masa ini juga kan. Jadi, kerana ini, saya minta supaya Bank Negara membuat siasatanlah sebab ada risiko pengubahan wang haram di situlah. Tapi seperti biasa, tidak juga ada sebarang reaksi lah.
-
-**Rafizi:** Okey, korang sembang 2 minit, saya nak tarik nafas sekejap.
-
-**Rafizi:** Okey. Kita, saudari-saudari, kita ada lebih kurang setengah jam lagi kot.
-
-**Haziq:** Ya, betul.
-
-**Rafizi:** Dan kita dah nak sampai ke bahagian yang menarik, iaitu pembelian di uh —
+**Rafizi:** Syarikat pertamanya ditubuhkan pada tahun 1978. Banyak terlibat di dalam pelaburan bermodal besar dan mengenali beberapa syarikat pembuat besi dan peralatan China yang terkenal. Jadi berita ini membayangkan Eng Peter Titan adalah seorang ahli perniagaan yang mempunyai jaringan perniagaan ataupun business networking yang luas dengan industri berat dan perbankan China. Kemudian daripada itu juga kita dapat tahu bahawa Eng Peter Titan ni didakwa mengenali seorang wanita bernama Michelle Liu. Digambarkan sebagai teman tapi mesra, dan Michelle Liu ini adalah pengurus perhubungan pelanggan ataupun relationship manager di China Construction Bank. Jadi rangkaiannya berpusing-pusing ke arah itu jugalah. Kemudian saya pergi semak lagi di Singapura lah, Accounting and Regulatory Authority ataupun ACRA di Singapura. Untuk mengetahui perniagaan-perniagaan lain Peter Titan ni. Jadi dia ada Titan Petrotrade, memang benar-benar wujud dan saya semak apa yang Titan Petrotrade ni buat. Dia sebenarnya syarikat yang menjual beli bahan mineral, minyak dan produk-produk lain. Dan dia tulis secara jelas, "Our company act as agent and commission agent for supply of minerals, clean petrol and product." Pertama, dia tak ada kena mengena dengan perumahan ke apa pun. Yang kedua, dia memang tak ada duit sebanyak itu lah. Jadi ini mengesahkan bahawa besar kemungkinanlah Eng Peter Titan ni adalah pedagang orang tengah kan. Kemudian saya semak lagi semua syarikat-syarikat lain, dan pengarah-pengarahnya. Di situ boleh dilihat carian daripada Singapura tu kan. Berkenaan Eng Peter Titan, nama syarikat dia yang lain. Laporan menunjukkan Eng Peter Titan mempunyai atau terlibat dengan 11 syarikat sejak tahun 1977. Kebanyakan syarikat-syarikat ini telah ditutup dan tidak aktif. Ha. Satu lagi syarikat menganjurkan konsert dan mengendalikan acara bernama Love Entertainment Group, tapi memang tak ada yang berkaitan hartanah besar ataupun developer besarlah. Kemudian saya pergi semak dengan Panama Papers. Ha. Baru keluar tahun itu. Ha, baru keluar. Jadi orang yang duk sibuk kata oh Anwar pendedahan Panama, banana pula. Panama Papers semua ni tahun bila tu? 2022. Tak, tak, yang masa Anwar duk buat bising tu, 2020, 2021 lebih kurang masa Sheraton kan? Orang dah tengok Panama Papers sejak 2016 lagi. Jadi pergi check kat Panama Papers. Dalam tu ada satu syarikat bernama Titan Petrotrade International yang sahamnya dimiliki oleh Sino Swiss Energy. Jadi Sino ni memang very clearly adalah syarikat China lah kan. Dan salah seorang pemegang saham Sino Swiss bernama Celine Tanardi, seorang warga Indonesia kan. Jadi daripada sini kita boleh rumuskanlah bahawa dia tak ada duit. Dia orang tengah dan semua sangat tidak jelas dalam Panama Papers ni. Jadi saya tanyalah kepada Datuk Seri Najib, kepada Tan Sri Syahrir Samad dan Tan Sri Isa Samad. Adakah FELDA merancang untuk mengambil pinjaman daripada bank-bank China ni, tapi menggunakan Putra Star Investment sebagai orang tengah supaya perkara itu tidak terbongkar dan menjadi kontroversi. Sebab kalau tidak, orang seperti saya duk buat bising lagi, kau ambil lagi pinjaman daripada China. Kemudian saya tanya apa kaitan Eng Peter Titan dengan Panama Papers ni, dengan Titan Petrotrade International. Dan adakah FELDA telah melakukan semakan menyeluruh melalui due diligence untuk memastikan FELDA dan peneroka tidak terpalit dengan basically skim pengubahan wang haram di seluruh dunialah, sebab Panama Papers, tak, Panama Papers. Yang ini tidak dijawab terus, tahu. Ha, yang ini Shahrir Samad biasanya kalau saya tanya, dia jawab tahu. Yang ini dia tak jawab kan. Baik. Jadi sebab dia tak jawab dan saya bercakap seorang diri sahaja dan ini ada risiko lah sebab ia bersabit dengan Panama Papers, syarikat-syarikat yang dinamakan semua ni kan. Saya pun pada 13 Januari 2017, saya menulis surat kepada Datuk Mohamad, maksudnya Datuk Mohamad Ibrahim, Gabenor Bank Negara. Saya minta supaya siasatan dijalankan ke atas perjanjian pendanaan swasta membina perumahan FELDA ni antara Perumahan FELDA Sendirian Berhad, Terra Nova Builders Sendirian Berhad dan Putra Star Investments Holdings ya. Jadi saya sebutkan bahawa memang telah ada satu perjanjian di antara Perumahan FELDA di satu pihak dengan Terra Nova Builders Sdn. Berhad di satu pihak dan juga Putra Star Investments Holdings. Ekoran beberapa soalan yang ditimbulkan, Pengerusi FELDA, Yang Berhormat Tan Sri Shahrir Samad telah mengeluarkan satu kenyataan rasmi bertarikh 12 Januari. Beliau mengesahkan bahawa perjanjian pendanaan swasta atau PFI yang saya rujuk itu telah ditandatangani pada 6 September 2016. Basically, Tan Sri Shahrir Samad nak beritahu, ini Isa Samad, bukan zaman saya. Saya tak jadi chairman lagi masa ini juga kan. Jadi, kerana ini, saya minta supaya Bank Negara membuat siasatanlah sebab ada risiko pengubahan wang haram di situlah. Tapi seperti biasa, tidak juga ada sebarang reaksi lah. Okey, korang sembang 2 minit, saya nak tarik nafas sekejap. Okey. Kita, saudari-saudari, kita ada lebih kurang setengah jam lagi kot. Dan kita dah nak sampai ke bahagian yang menarik, iaitu pembelian di —
 
 **Haziq:** London.
 
-**Rafizi:** London. Ha, okey. Jadi kita akan langkau dengan cepat yang lain yang saya dah sebut tadi.
-
-**Haziq:** Ya.
-
-**Rafizi:** Eagle High semua ni. Uh, yang lain saudari-saudari boleh baca. Uh, tapi yang menarik ialah pembelian uh hartanah-hartanah di London sebab yang itu uh memang ada cubaan uh guna namalah, yalah orang biasa guna nama, uh, tapi cubaan yang sangat licik, kan?
-
-**Rafizi:** Jadi korang 2 minit. Beri saya 2 minit ringkas.
+**Rafizi:** London. Ha, okey. Jadi kita akan langkau dengan cepat yang lain yang saya dah sebut tadi. Eagle High semua ni. Yang lain saudari-saudari boleh baca. Tapi yang menarik ialah pembelian hartanah-hartanah di London sebab yang itu memang ada cubaan guna namalah, yalah orang biasa guna nama, tapi cubaan yang sangat licik, kan? Jadi korang 2 minit. Beri saya 2 minit ringkas.
 
 **Haziq:** Jadi YB nak terus langkau ke situ?
 
-**Rafizi:** Tak, tak sabarlah, korang berbual saja 2 minit.
-
-**Rafizi:** Okey, okey, okey, okey.
+**Rafizi:** Tak, tak sabarlah, korang berbual saja 2 minit. Okey, okey, okey, okey.
 
 **Haziq:** Macam mana Pa'an lepas dengar?
 
-**Farhan (Pa'an):** Agak rumit. Uh, dalam erti kata banyak sangat perkara yang berlaku, dan untuk mengesan banyak perkara serentak, saya rasa ramai orang termasuk saya rasa ia agak sukar.
-
-**Farhan (Pa'an):** Uh, tahun 2016 ni saya baru balik dan baru mula bekerja.
-
-**Farhan (Pa'an):** Eh, deja vu.
+**Farhan (Pa'an):** Agak rumit. Dalam erti kata banyak sangat perkara yang berlaku, dan untuk mengesan banyak perkara serentak, saya rasa ramai orang termasuk saya rasa ia agak sukar. Tahun 2016 ni saya baru balik dan baru mula bekerja. Deja vu.
 
 **Rafizi:** Yalah, deja vu. Saya ada moment ni sebelum —
 
@@ -1492,209 +544,61 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Ha, moment sebelum ini. Saya baru habis PM. Ya Allah.
 
-**Speaker ?:** Ya.
-
 **Haziq:** Awal 2016 kan? Betullah.
 
-**Rafizi:** Okey, ini macam maraton. Kita masuk ke lap kelima ni eh. Okey. Um, 21 Januari uh pasal kondom mewah tadi tu, saya minta supaya uh Tan Sri Shahrir Samad ambil tindakanlah. Benda tu dah jelas dah, beli kondom mewah dekat, dekat Troika semua kan. Uh, tapi tak ada, tak ada reaksi. Uh, kemudian um uh uh 24 Januari saya sebut pasal um, saya pergi semak apa nama ni, satu syarikat nama FELDA Wellness Corporation kan. Itu pun masuk dalam kertas putih kan.
+**Rafizi:** Okey, ini macam maraton. Kita masuk ke lap kelima ni Okey. 21 Januari pasal kondom mewah tadi tu, saya minta supaya Tan Sri Shahrir Samad ambil tindakanlah. Benda tu dah jelas dah, beli kondom mewah dekat, dekat Troika semua kan. Tapi tak ada, tak ada reaksi. Kemudian 24 Januari saya sebut pasal saya pergi semak apa nama ni, satu syarikat nama FELDA Wellness Corporation kan. Itu pun masuk dalam kertas putih kan.
 
 **Haziq:** Dan ini disebut oleh Ketua Pesuruhjaya SPRM juga.
 
-**Rafizi:** Ha, yang memang ada terlibat dalam —
+**Rafizi:** Ha, yang memang ada terlibat dalam — — dalam rasuah kan? Jadi jadi saya pergi tengok FELDA Wellness ni kan. Sejak ditubuhkan hanya beroperasi sekitar 2 tahun. Kemudian diisytiharkan muflis pada Mac 2016 setelah Mahkamah Tinggi membenarkan saman tuntutan hutang oleh sebuah syarikat farmaseutikal daripada Australia bernama Codagen Pharmaceuticals Privately Limited kan. Dia tuntut hutang dia 2.1 juta. Dan oleh sebab itu, dah 14 bulan Codagen ni minta hutang, tapi FELDA Wellness tu teruknya, FELDA masa ni duit nak bayar 2.1 juta pun tak ada, tau. Jadi oleh sebab itu, apa nama ni, dia bungkuslah kan. Ada nama-nama yang disebut Hutang FELDA Wellness Corporation kepada Codagen adalah bagi perkhidmatan yang termaktub di dalam perjanjian-perjanjian yang dimeterai atas persetujuan dan arahan bekas Ketua Eksekutif FELDA Wellness Corporation, Muhammad Nasir bin Shafieun, dan bekas Ahli Lembaga Pengarah FELDA Wellness Corporation, Muhammad Sufi Mahbub. Yang juga bekas Timbalan Ketua Pengarah FELDA. Ha. Salah satu daripada perjanjian itu menetapkan bahawa dana daripada FELDA Wellness Corporation digunakan untuk membayar gaji dan kos sara hidup anak kepada Muhammad Sufi Mahbub, iaitu Atirah Sufi, di Australia.
 
-**Haziq:** Ya.
+**Haziq:** Guna untuk sara anak dia di London
 
-**Rafizi:** — dalam rasuah kan?
-
-**Haziq:** Ya.
-
-**Rafizi:** Jadi um um jadi saya pergi tengok FELDA Wellness ni kan. Sejak ditubuhkan hanya beroperasi sekitar 2 tahun. Kemudian diisytiharkan muflis pada Mac 2016 setelah Mahkamah Tinggi membenarkan saman tuntutan hutang oleh sebuah syarikat farmaseutikal daripada Australia bernama Codagen Pharmaceuticals Privately Limited kan. Dia tuntut hutang dia 2.1 juta. Uh, dan oleh sebab itu, dah 14 bulan Codagen ni minta hutang, tapi FELDA Wellness tu teruknya, FELDA masa ni duit nak bayar 2.1 juta pun tak ada, tau.
-
-**Rafizi:** Jadi oleh sebab itu, um, apa nama ni, um, uh, dia bungkuslah kan. Uh, ada nama-nama yang disebut eh. Hutang FELDA Wellness Corporation kepada Codagen adalah bagi perkhidmatan yang termaktub di dalam perjanjian-perjanjian yang dimeterai atas persetujuan dan arahan bekas Ketua Eksekutif FELDA Wellness Corporation, Muhammad Nasir bin Shafieun, dan bekas Ahli Lembaga Pengarah FELDA Wellness Corporation, Muhammad Sufi Mahbub.
-
-**Rafizi:** Yang juga bekas Timbalan Ketua Pengarah FELDA.
-
-**Rafizi:** Ha. Salah satu daripada perjanjian itu menetapkan bahawa dana daripada FELDA Wellness Corporation digunakan untuk membayar gaji dan kos sara hidup anak kepada Muhammad Sufi Mahbub, iaitu Atirah Sufi, di Australia.
-
-**Haziq:** Guna untuk sara anak dia di London eh.
-
-**Rafizi:** Eh tak, Australia.
+**Rafizi:** Tak, Australia.
 
 **Haziq:** Australia, maaf.
 
-**Rafizi:** Minta maaflah, saya terpaksa sebut nama.
-
-**Rafizi:** Tapi yalah, maksud saya.
+**Rafizi:** Minta maaflah, saya terpaksa sebut nama. Tapi yalah, maksud saya.
 
 **Haziq:** Tak masuk akal.
 
-**Rafizi:** Tak adalah, kita jadi tak terkata. The audacity to do it, kan. Itu yang saya kata, kebusukan bermula dari kepala.
+**Rafizi:** Tak adalah, kita jadi tak terkata. The audacity to do it, kan. Itu yang saya kata, kebusukan bermula dari kepala. Jadi kalau yang di atas tu bermewah-mewah semua, yang keliling-keliling ni, yang pengarah ke apa ni pun dia rasa, alah, dia boleh buat, aku pun boleh buat. Jadi ada satu perjanjian yang FELDA kena, FELDA Wellness ni kena bayar kepada syarikat itu. Tapi tahu tak, bayaran yang syarikat itu tuntut ialah yang dia kena bayar kepada anak. Macam-macam Okey. Jadi jumlah hutang pada ketika syarikat ini diisytiharkan, pada ketika FELDA Wellness ni diisytiharkan muflis — — adalah sebanyak 154 juta. Dan satu laporan polis telah dibuat, tapi sehingga sekarang tak ada keputusan ataupun tindakan kan. Jadi FELDA Wellness pun ada. Rujukan silang dalam tu?
 
-**Rafizi:** Jadi kalau yang di atas tu bermewah-mewah semua, yang keliling-keliling ni, yang pengarah ke apa ni pun dia rasa, alah, dia boleh buat, aku pun boleh buat. Jadi ada satu perjanjian yang FELDA kena, FELDA Wellness ni kena bayar kepada syarikat itu. Tapi tahu tak, bayaran yang syarikat itu tuntut ialah yang dia kena bayar kepada anak.
+**Haziq:** Muka surat 60, penemuan ketara ialah kelemahan tadbir urus. Tak ada apa, due diligence. Kemudian penubuhan FWC ni sebenarnya tanpa kelulusan menteri. Dan pelaburan tak mematuhi dasar FELDA. Dan ketidakpatuhan dasar perolehan. Iaitu yalah, dia kata ada 19 kontrak dianugerahkan secara lantikan terus tanpa kelulusan lembaga. Kemudian pembayaran, ketidakakuran pembayaran. FWC dah bayar 13.11 juta tanpa sebarang dokumen untuk membuktikan, basically yalah, resit palsu lah. Kemudian konflik kepentingan — pelantikan anak bekas pengarah FWC sebagai pengurus kewangan di syarikat Australia. Dan semakan sampel menunjukkan FWC telah membayar sekurang-kurangnya 244 ribu untuk perbelanjaan dan gaji anak bekas pengarah FWC di Australia sebagai pengurus kewangan. Dan risiko tambahan kemerosotan nilailah.
 
-**Rafizi:** Macam-macam eh. Okey. Um, jadi um jumlah hutang pada ketika syarikat ini diisytiharkan, pada ketika FELDA Wellness ni diisytiharkan muflis —
-
-**Rafizi:** — adalah sebanyak 154 juta.
-
-**Rafizi:** Uh, dan satu uh, laporan polis telah dibuat, tapi sehingga sekarang tak ada keputusan ataupun tindakan kan.
-
-**Rafizi:** Jadi FELDA Wellness pun ada.
-
-**Haziq:** Ya.
-
-**Rafizi:** Rujukan silang dalam tu?
-
-**Haziq:** Uh, muka surat 60, uh, penemuan ketara ialah kelemahan tadbir urus. Uh, tak ada apa, uh, due diligence. Uh, kemudian uh, penubuhan FWC ni sebenarnya tanpa kelulusan menteri. Uh, dan pelaburan tak mematuhi dasar FELDA. Um, dan ketidakpatuhan dasar perolehan. Uh, iaitu yalah, dia kata ada 19 kontrak uh dianugerahkan secara lantikan terus tanpa kelulusan lembaga.
-
-**Haziq:** Kemudian uh pembayaran, ketidakakuran pembayaran. Uh, FWC dah bayar 13.11 juta tanpa sebarang dokumen uh untuk membuktikan, basically yalah, uh, resit palsu lah.
-
-**Haziq:** Kemudian uh, konflik kepentingan — pelantikan anak bekas pengarah FWC sebagai pengurus kewangan di syarikat Australia. Uh, dan semakan sampel menunjukkan FWC telah membayar sekurang-kurangnya 244 ribu untuk perbelanjaan dan gaji anak bekas pengarah FWC di Australia sebagai pengurus kewangan. Dan risiko tambahan kemerosotan nilailah.
-
-**Rafizi:** Hmm. Okey. Kemudian uh, enam itulah. Patutnya, hmm, semua ni kalau contohnya lah, kalaulah orang ambil serius daripada awal, benda ni dah didedahkan. Tak payah tunggu 2019, kertas putih.
-
-**Haziq:** Ya.
-
-**Rafizi:** Dan sudah tentu FELDA di bawah Datuk Seri Anwar, bermula November 2022 tu, tak payah tunggu sampai bergaduh dengan Datuk Seri Zahid baru nak keluarlah kan. Dah 10 tahun kan. Baik. Um, 16 Februari 2017. Uh, yang ini pun ada rujukan silang di dalam um apa nama ni, uh, kertas putih eh. Jadi uh, laporan Ketua Audit Negara 2010.
-
-**Rafizi:** Kan? Uh, saya pergi semak baliklah. Uh, jadi saya semak-semak tu, sebenarnya dalam laporan Ketua Audit Negara tu memang dia ada tadbir urus yang dia point out kepada FELDA, dan tadbir urus itu ialah dari segi yang dipanggil manual dasar dan strategi pelaburan kumpulan FELDA eh. Dan uh, dia menetapkan peratus agihan sumber dana untuk pelaburan portfolio oleh FELDA.
-
-**Rafizi:** Ha eh. Jadi ikut laporan tu, pelaburan daripada dana FELDA di dalam syarikat eh, di dalam sesebuah syarikatlah, melalui pembelian saham sama ada pada harga saham tersiar harga (quoted shares) ataupun tidak tersiar harga (unquoted shares), tidak boleh melebihi 24% daripada keseluruhan dana daripada akaun FELDA.
-
-**Rafizi:** Iaitu akaun yang tidak melibatkan aa peneroka. Jadi kan, awak letak semua dalam dana konsolidasi FELDA ni. Jadi awak kena ketepikan aa dana-dana yang dah memang berkaitan peneroka, nak bayar komitmen dia semua kan. Jadi awak ada baki.
-
-**Rafizi:** Yang FELDA daripada 2010 lagi sebenarnya manual tu dah ada. Yang FELDA boleh, boleh um apa nama ni, melabur, dia tak boleh lebih 24% daripada baki ni kan.
-
-**Rafizi:** Jadi saya bila saya jumpa balik, yalah, saya macam saya dah kahwin masa ni kan. Sebab macam saya tak ada life sangat masa ni. Pergi semak benda-benda macam laporan Ketua Audit Negara 2010. Ni dah 2017 masa ni, tau. Macam mana saya boleh pergi semak balik ni kan? Jadi saya pergi semak balik, saya tengok, eh, macam mana ni, patutnya 24%? Kalau awak beli um Eagle High Plantations ni kan —
-
-**Rafizi:** — ini sudah tentu dah jauh melebihi 24%.
-
-**Rafizi:** Sebab dia 2.2 bilion lebih. Lepas tu apa nama ni, duit dana keseluruhan pun ada berapa, 200 juta lebih je kan. Jadi saya tunjukkan baliklah. Dan itu pun, saya rasa, dalam kertas putih tu berulang kali ditunjukkan bagaimana dia dah melanggar had pelaburan kan. Kemudian uh, 28 Februari 2017, um, kita kembali kepada soal Eagle High Plantations, uh, sebab um, uh, FGV telah, yalah, apa nama ni, uh, um, saya entah bagaimana uh berjaya mendapat satu perjanjian yang ditandatangani untuk beli uh saham Eagle High Plantations lah. Sebelum tu, masa saya dedahkan sebulan, dua bulan sebelum tu, saya tak dapat lagi kan. Dalam tu ada klausa yang, yang, yang jelas dalam perjanjian tu, dan orang ramai boleh pergi ke blog untuk tengok perjanjian tu, kan.
-
-**Rafizi:** Muka surat 2 perjanjian awal, di bawah perkara 2.2 yang bertajuk deposit, tau. Perjanjian awal mensyaratkan FGV membayar deposit sebanyak 654 juta kepada PT Rajawali milik Tan Sri Peter Sondakh sebagai deposit sementara rundingan-rundingan lain untuk memuktamadkan perjanjian ini berjalan. Kau, gila, belum sign lagi, tau. Belum sign, kena bayar deposit kepada dia 654 juta. Dan akhirnya awak dapati, dah lah beli 2, 3 kali ganda harga lebih mahal.
-
-**Rafizi:** Dah lah kalau tengok, lepas dia beli tu, dia rosak nilai dia. Ha, rosak nilai, lagi impairment sebab harga saham dia terus jatuh kan. Dia rosak nilai dia 75%. Tinggal 500 juta je daripada 2.2 bilion lebih yang dibayarkan. Dah lah semua tu, masa awal-awal dah kena bayar kepada dia 654 juta. Ha, sebagai deposit kan. Jadi um, perkara ini uh jadi isu lah. Jadi FGV terpaksa menjawab tau, query-query ni kan. Uh, jadi saya uh tanyalah, yang tandatangan perjanjian dengan Peter Sondakh ni untuk beli Eagle High Plantations ni asalnya FGV, tau.
-
-**Rafizi:** Kan? Dia umumkan dia sign kan. Tapi ingat tak? Dan kemudian syarat dia baru mula bincang tu, bayaran 654 juta dah dibayar kepada Peter Sondakh kan?
-
-**Rafizi:** Tapi ingat tak, sebenarnya akhirnya FGV tak mampu beli. Ingat tak siapa yang akhirnya membelinya?
+**Rafizi:** Okey. Kemudian enam itulah. Patutnya, semua ni kalau contohnya lah, kalaulah orang ambil serius daripada awal, benda ni dah didedahkan. Tak payah tunggu 2019, kertas putih. Dan sudah tentu FELDA di bawah Datuk Seri Anwar, bermula November 2022 tu, tak payah tunggu sampai bergaduh dengan Datuk Seri Zahid baru nak keluarlah kan. Dah 10 tahun kan. Baik. 16 Februari 2017. Yang ini pun ada rujukan silang di dalam apa nama ni, kertas putih Jadi laporan Ketua Audit Negara 2010. Kan? Saya pergi semak baliklah. Jadi saya semak-semak tu, sebenarnya dalam laporan Ketua Audit Negara tu memang dia ada tadbir urus yang dia point out kepada FELDA, dan tadbir urus itu ialah dari segi yang dipanggil manual dasar dan strategi pelaburan kumpulan FELDA Dan dia menetapkan peratus agihan sumber dana untuk pelaburan portfolio oleh FELDA. Ha Jadi ikut laporan tu, pelaburan daripada dana FELDA di dalam syarikat di dalam sesebuah syarikatlah, melalui pembelian saham sama ada pada harga saham tersiar harga (quoted shares) ataupun tidak tersiar harga (unquoted shares), tidak boleh melebihi 24% daripada keseluruhan dana daripada akaun FELDA. Iaitu akaun yang tidak melibatkan peneroka. Jadi kan, awak letak semua dalam dana konsolidasi FELDA ni. Jadi awak kena ketepikan dana-dana yang dah memang berkaitan peneroka, nak bayar komitmen dia semua kan. Jadi awak ada baki. Yang FELDA daripada 2010 lagi sebenarnya manual tu dah ada. Yang FELDA boleh, boleh apa nama ni, melabur, dia tak boleh lebih 24% daripada baki ni kan. Jadi saya bila saya jumpa balik, yalah, saya macam saya dah kahwin masa ni kan. Sebab macam saya tak ada life sangat masa ni. Pergi semak benda-benda macam laporan Ketua Audit Negara 2010. Ni dah 2017 masa ni, tau. Macam mana saya boleh pergi semak balik ni kan? Jadi saya pergi semak balik, saya tengok, macam mana ni, patutnya 24%? Kalau awak beli Eagle High Plantations ni kan — — ini sudah tentu dah jauh melebihi 24%. Sebab dia 2.2 bilion lebih. Lepas tu apa nama ni, duit dana keseluruhan pun ada berapa, 200 juta lebih je kan. Jadi saya tunjukkan baliklah. Dan itu pun, saya rasa, dalam kertas putih tu berulang kali ditunjukkan bagaimana dia dah melanggar had pelaburan kan. Kemudian 28 Februari 2017, kita kembali kepada soal Eagle High Plantations, sebab FGV telah, yalah, apa nama ni, saya entah bagaimana berjaya mendapat satu perjanjian yang ditandatangani untuk beli saham Eagle High Plantations lah. Sebelum tu, masa saya dedahkan sebulan, dua bulan sebelum tu, saya tak dapat lagi kan. Dalam tu ada klausa yang, yang, yang jelas dalam perjanjian tu, dan orang ramai boleh pergi ke blog untuk tengok perjanjian tu, kan. Muka surat 2 perjanjian awal, di bawah perkara 2.2 yang bertajuk deposit, tau. Perjanjian awal mensyaratkan FGV membayar deposit sebanyak 654 juta kepada PT Rajawali milik Tan Sri Peter Sondakh sebagai deposit sementara rundingan-rundingan lain untuk memuktamadkan perjanjian ini berjalan. Kau, gila, belum sign lagi, tau. Belum sign, kena bayar deposit kepada dia 654 juta. Dan akhirnya awak dapati, dah lah beli 2, 3 kali ganda harga lebih mahal. Dah lah kalau tengok, lepas dia beli tu, dia rosak nilai dia. Ha, rosak nilai, lagi impairment sebab harga saham dia terus jatuh kan. Dia rosak nilai dia 75%. Tinggal 500 juta je daripada 2.2 bilion lebih yang dibayarkan. Dah lah semua tu, masa awal-awal dah kena bayar kepada dia 654 juta. Ha, sebagai deposit kan. Jadi perkara ini jadi isu lah. Jadi FGV terpaksa menjawab tau, query-query ni kan. Jadi saya tanyalah, yang tandatangan perjanjian dengan Peter Sondakh ni untuk beli Eagle High Plantations ni asalnya FGV, tau. Kan? Dia umumkan dia sign kan. Tapi ingat tak? Dan kemudian syarat dia baru mula bincang tu, bayaran 654 juta dah dibayar kepada Peter Sondakh kan? Tapi ingat tak, sebenarnya akhirnya FGV tak mampu beli. Ingat tak siapa yang akhirnya membelinya?
 
 **Speaker ?:** FELDA. FELDA.
 
-**Rafizi:** Jadi aku tanya dia, duit 654 juta yang kau dah bayar kat Peter Sondakh tu macam mana? You ambil balik ke tidak?
-
-**Rafizi:** Uh, jadi saya timbulkanlah, adakah FGV membayar deposit 654 juta itu dalam bulan Jun 2015? Jika ya, sudahkah PT Rajawali Peter Sondakh kembalikan deposit 650 juta? Kalau dah, sila beritahu bila dia dipulangkan. Kalau belum ada tarikh dipulangkan, adakah itu akan digunakan sebagai sebahagian daripada urusniaga pembelian saham-saham PT Eagle High Plantations.
-
-**Rafizi:** Yang ini dia tak sentuh pun dalam uh...
+**Rafizi:** Jadi aku tanya dia, duit 654 juta yang kau dah bayar kat Peter Sondakh tu macam mana? You ambil balik ke tidak? Jadi saya timbulkanlah, adakah FGV membayar deposit 654 juta itu dalam bulan Jun 2015? Jika ya, sudahkah PT Rajawali Peter Sondakh kembalikan deposit 650 juta? Kalau dah, sila beritahu bila dia dipulangkan. Kalau belum ada tarikh dipulangkan, adakah itu akan digunakan sebagai sebahagian daripada urusniaga pembelian saham-saham PT Eagle High Plantations. Yang ini dia tak sentuh pun dalam.
 
 **Speaker ?:** Kertas.
 
-**Rafizi:** Ha, dalam kertas putih.
-
-**Speaker ?:** Ya, ya.
-
-**Rafizi:** Ha, tak sentuh langsung.
+**Rafizi:** Ha, dalam kertas putih. Ha, tak sentuh langsung.
 
 **Speaker ?:** Tak jumpa.
 
-**Rafizi:** Tak jumpa. Baik. Okey, kita kena cepat sebab kita dah nak sampai dekat perkara paling juicy.
+**Rafizi:** Tak jumpa. Baik. Okey, kita kena cepat sebab kita dah nak sampai dekat perkara paling juicy. Pembelian hotel dan apartmen mewah di London. Ha, yang itu memang aku betul-betul jadi Detective Conan. Oh, mungkin dia menyamar-menyamar. Tak ada. Dia menyamar di belakang sebuah skrin sahaja. Okey. Kemudian saya ingat 1 Mac 2017 kan. Ni tak tahulah apa cerita dalam UMNO masa ni. Sebab Tan Sri Shahrir Samad, dia kan dilantik jadi pengerusi FELDA Januari 2017 kan. Mac 2017 tu dia buat — Februari 2017 dia buat gempak, ada satu temu ramah eksklusif dengan Sinar dan dia buat terkejut. Mana duit 4.3 bilion hilang dalam FELDA ni? Ha, so dia tanya hilang 4.3 bilion ni. Kalau kita sebut macam tu, kena tangkap lah engkau kan? Tangkap semua. SPRM masa tu sepatutnya dah panggil semua kan? Ha, tak. Tapi yalah, ni zaman Najib kan. Kepada Gen Z lah kan, milenial dan Gen Z yang tak hidup zaman itu kan. Yang rindu zaman Najib. Nantilah kita orang akan letakkan dalam satu PDF yang ringkas. Rentetan ni satu-satu ni kan. Ha, kau orang tengoklah sendiri macam mana zaman itu lah kan. Ha, baik. So, ni simple lah. Aku pun beritahu Tan Sri, sebenarnya bukan 4.3 bilion hilang. 4.3 bilion itu ialah duit yang you raise daripada penyenaraian, you tak tahu pergi mana. Sebenarnya yang hilang daripada FELDA ni jauh lagi lebih banyak. Aku pun pergi kira, kira, kira. Aku rasa — aku tengok bukan saja aku kira rugi, aku kira pinjaman yang dia ambil. Lepas tu campur yang duit daripada penyenaraian entah ke mana pergi, tak tahu ke mana ni kan. Kemudian aku bandingkan baki tunai daripada 2010 sampai 2014 kan. So aku beritahu, sebenarnya jumlah wang rakyat yang telah dikendalikan dan dibelanjakan oleh kumpulan FELDA antara 2010 ke 2014 adalah 11 bilion. Lebih kurang 11.354 bilion. Ha, bukan 4.3 bilion tau. 4.3 bilion tu hanya daripada FGV. Yang lain-lain pinjaman masuk entah ke mana, bayar sana, bayar sini. So 11 bilion lebih kurang Ha. Kepada siapa yang kata saya fitnah, lepas ni pandai-pandai je cakap bilion bilion bilion. Ha, pergi check. Memang ada kan. Dan kemudian 6 Mac 2017. Ingat tak Peter Sondakh tu kan?
 
-**Rafizi:** Pembelian hotel dan apartmen mewah di London. Ha, yang itu memang aku betul-betul jadi Detective Conan.
+**Speaker ?:** Ya. Peter Sondakh. Eagle.
 
-**Rafizi:** Oh, mungkin dia menyamar-menyamar.
-
-**Rafizi:** Tak ada. Dia menyamar di belakang sebuah skrin sahaja. Okey. Kemudian saya ingat 1 Mac 2017 kan. Ni tak tahulah apa cerita dalam UMNO masa ni.
-
-**Rafizi:** Sebab Tan Sri Shahrir Samad, dia kan dilantik jadi pengerusi FELDA Januari 2017 kan.
-
-**Rafizi:** Mac 2017 tu dia buat — Februari 2017 dia buat gempak, ada satu temu ramah eksklusif dengan Sinar dan dia buat terkejut. Mana duit 4.3 bilion hilang dalam FELDA ni? Ha, so dia tanya hilang 4.3 bilion ni. Kalau kita sebut macam tu, kena tangkap lah engkau kan? Tangkap semua. SPRM masa tu sepatutnya dah panggil semua kan? Ha, tak. Tapi yalah, ni zaman Najib kan. Kepada Gen Z lah kan, milenial dan Gen Z yang tak hidup zaman itu kan.
-
-**Rafizi:** Yang rindu zaman Najib.
-
-**Rafizi:** Nantilah kita orang akan letakkan dalam satu PDF yang ringkas.
-
-**Rafizi:** Rentetan ni satu-satu ni kan. Ha, kau orang tengoklah sendiri macam mana zaman itu lah kan. Ha, baik. So, ni simple lah. Aku pun beritahu Tan Sri, sebenarnya bukan 4.3 bilion hilang. 4.3 bilion itu ialah duit yang you raise daripada penyenaraian, you tak tahu pergi mana.
-
-**Rafizi:** Sebenarnya yang hilang daripada FELDA ni jauh lagi lebih banyak. Aku pun pergi kira, kira, kira. Aku rasa — aku tengok bukan saja aku kira rugi, aku kira pinjaman yang dia ambil. Lepas tu campur yang duit daripada penyenaraian entah ke mana pergi, tak tahu ke mana ni kan. Kemudian aku bandingkan baki tunai daripada 2010 sampai 2014 kan. So aku beritahu, sebenarnya jumlah wang rakyat yang telah dikendalikan dan dibelanjakan oleh kumpulan FELDA antara 2010 ke 2014 adalah 11 bilion. Lebih kurang 11.354 bilion. Ha, bukan 4.3 bilion tau. 4.3 bilion tu hanya daripada FGV. Yang lain-lain pinjaman masuk entah ke mana, bayar sana, bayar sini. So 11 bilion lebih kurang eh. Ha. Kepada siapa yang kata saya fitnah, lepas ni pandai-pandai je cakap bilion bilion bilion. Ha, pergi check. Memang ada kan. Dan kemudian 6 Mac 2017. Ingat tak Peter Sondakh tu kan?
-
-**Speaker ?:** Ya.
-
-**Speaker ?:** Peter Sondakh.
-
-**Speaker ?:** Eagle.
-
-**Rafizi:** Uh, Eagle High tu kan. Uh, ini pun ada satu — yalah, perspektif peribadi jugalah kan. Peter Sondakh, dah lah dia Eagle High tu harga 2 bilion, naik 2, 3 kali ganda. Dia juga adalah pemilik St. Regis Langkawi.
-
-**Rafizi:** Kan, kemudian dia pemilik St. Regis Langkawi. Jadi Najib umumkanlah, masa tu 2015 kan, Malaysia jadi pengerusi ASEAN. So sidang kemuncak tu dibuat di St. Regis Langkawi lah kan. Uh, Peter Sondakh lah. Kalau dia buat pakai duit dia takpalah. Kau tahu dia pakai duit apa? Dia pakai duit bank pembangunan.
+**Rafizi:** Eagle High tu kan. Ini pun ada satu — yalah, perspektif peribadi jugalah kan. Peter Sondakh, dah lah dia Eagle High tu harga 2 bilion, naik 2, 3 kali ganda. Dia juga adalah pemilik St. Regis Langkawi. Kan, kemudian dia pemilik St. Regis Langkawi. Jadi Najib umumkanlah, masa tu 2015 kan, Malaysia jadi pengerusi ASEAN. So sidang kemuncak tu dibuat di St. Regis Langkawi lah kan. Peter Sondakh lah. Kalau dia buat pakai duit dia takpalah. Kau tahu dia pakai duit apa? Dia pakai duit bank pembangunan.
 
 **Speaker ?:** Bank pembangunan.
 
-**Rafizi:** Ha. Jadi aku pun pergi check balik kan. Aku check balik, 2013, Najib yang menyempurnakan upacara pecah tanah hotel mewah St. Regis kan. Ni 5 tahun sebelum tu ni lah dah berlaku ni kan. Kemudian pembinaan Hotel St. Regis Langkawi dan Langkawi International Conference Centre ataupun LICC bagi tujuan — itulah zaman tu kan, untuk sidang kemuncak ASEAN, belanja duit pergi buat benda yang baru semua kan. Dikendalikan oleh kumpulan Rajawali milik Tan Sri Peter Sondakh. Dan Tan Sri Peter Sondakh menyatakan bahawa pihaknya memerlukan bantuan daripada kerajaan negeri, kerajaan pusat semualah. Dan projek untuk membina Hotel St. Regis dan LICC itu, masa diumumkan oleh Najib sendiri lah masa tu kan, menelan belanja 400 juta. Jadi saya pun nak tahulah. Aku dah tahu masa ni sebenarnya. So aku pun tanyalah. Saya nak mulakan isu ni. Daripada 400 juta yang diumumkan ni kan, sebenarnya berapa yang dibiayai oleh rakyat?
-
-**Rafizi:** Ha kan. So sebab aku kata, seronoklah kita duk bayar cukai GST. Ha, tapi duit ni diberikan kepada sahabat baik Datuk Seri Najib, untuk buat Hotel St. Regis Langkawi. Seperti biasa, tak jawab. You know why aku kata ada dimensi peribadi kepadanya? Because duit ni daripada Bank Pembangunan.
-
-**Rafizi:** Hmm. Bank Pembangunan di bawah Najib lah. Dia Menteri Kewangan kan. Isteri saya sedang bekerja di Bank Pembangunan.
-
-**Rafizi:** So, masa ni Mac kan. So bila aku sebut ni kan, ada yang tidak bertanggungjawab tu, dia macam yalah tu, yalah — maksud saya, kesimpulannya seolah-olah isteri saya yang hantar maklumat ni kat saya. Bukan macam tu.
-
-**Rafizi:** It's yalah, ia mudah didapati daripada laporan semua. Cuma orang tak beri perhatian je. Dan aku tanya soalan di parlimen dan dia jawab di parlimen kan. So sebab itulah, dalam masa ni lah, I told my wife, I think lah, elok kalau kau berhenti kerja.
-
-**Rafizi:** Ha, so dia ada kos peribadi kepada semua ini yang orang tak tahu kan. Maksud saya, yalah isteri saya mendapat pendidikan yang baik, balik dari luar negara, kena habiskan bertahun-tahun dalam perbankan tempatan dan antarabangsa kan. Uh, ini antara kesan sampingan yang tidak dijangka lah. So daripada itulah, saya rasa, isteri saya berhenti kerja lebih kurang 3 bulan selepas ini lah kan. Sebab saya pun tak nak isteri saya jadi punching bag kan kat tempat kerja. Sebab dalam bidang kerja saya, benda macam ini saya terpaksa sebutlah kan. So, 9 Mac 2017 eh. Ha, aku tanya sehari sebelum tu, biasalah aku lambung dulu.
-
-**Rafizi:** Aku dah tahu dah. Sebenarnya, 305 juta pembinaan St. Regis itu dibiayai oleh wang rakyat. Ha eh. Okey eh. So aku pun tunjukkanlah, saya sertakan beberapa maklumat mengenai projek ini lah. Sebab bila Najib beritahu, dia umum ni macam ini pelaburan FDI lah. Tan Sri Peter Sondakh, hartawan Indonesia, datang buka St. Regis di Langkawi semua kan. Padahal itu semuanya duit rakyat, duit Malaysia kan. So, Hotel St. Regis Langkawi dimiliki oleh sebuah syarikat bernama Integrated Nautical Resort Sendirian Berhad.
-
-**Rafizi:** Yang ditubuhkan khusus untuk membina, memiliki dan menjalankan perniagaan Hotel St. Regis, seperti saya sertakan maklumat korporat SSM kan. Pusat Persidangan Antarabangsa Langkawi pula dimiliki oleh Syarikat Garuda Suci Sdn. Berhad, yang ditubuhkan khusus untuk membina, memiliki dan menjalankan perniagaan pusat antarabangsa tu lah. Dari kedua-dua penyata SSM ini, kita boleh menentukan berapa pinjaman yang telah diambil ataupun dana yang telah disuntik untuk membiayai, sebab you boleh tengok caj-caj syarikat.
-
-**Rafizi:** Ataupun cagaran kan. So kita kira. Aku tengok, tengok, tengok semua ni. Uh, Saint Regis, Saint, Saint, Saint Regis. Jumlah modal disuntik — daripada caj-caj tu saya boleh nampak kan?
-
-**Rafizi:** 62 campur-campur semua. Maka anggaran peratusan kos pembinaan yang dibiayai oleh wang rakyat melalui pinjaman Bank Pembangunan dan geran kerajaan tau — ia sebuah geran.
+**Rafizi:** Ha. Jadi aku pun pergi check balik kan. Aku check balik, 2013, Najib yang menyempurnakan upacara pecah tanah hotel mewah St. Regis kan. Ni 5 tahun sebelum tu ni lah dah berlaku ni kan. Kemudian pembinaan Hotel St. Regis Langkawi dan Langkawi International Conference Centre ataupun LICC bagi tujuan — itulah zaman tu kan, untuk sidang kemuncak ASEAN, belanja duit pergi buat benda yang baru semua kan. Dikendalikan oleh kumpulan Rajawali milik Tan Sri Peter Sondakh. Dan Tan Sri Peter Sondakh menyatakan bahawa pihaknya memerlukan bantuan daripada kerajaan negeri, kerajaan pusat semualah. Dan projek untuk membina Hotel St. Regis dan LICC itu, masa diumumkan oleh Najib sendiri lah masa tu kan, menelan belanja 400 juta. Jadi saya pun nak tahulah. Aku dah tahu masa ni sebenarnya. So aku pun tanyalah. Saya nak mulakan isu ni. Daripada 400 juta yang diumumkan ni kan, sebenarnya berapa yang dibiayai oleh rakyat? Ha kan. So sebab aku kata, seronoklah kita duk bayar cukai GST. Ha, tapi duit ni diberikan kepada sahabat baik Datuk Seri Najib, untuk buat Hotel St. Regis Langkawi. Seperti biasa, tak jawab. You know why aku kata ada dimensi peribadi kepadanya? Because duit ni daripada Bank Pembangunan. Bank Pembangunan di bawah Najib lah. Dia Menteri Kewangan kan. Isteri saya sedang bekerja di Bank Pembangunan. So, masa ni Mac kan. So bila aku sebut ni kan, ada yang tidak bertanggungjawab tu, dia macam yalah tu, yalah — maksud saya, kesimpulannya seolah-olah isteri saya yang hantar maklumat ni kat saya. Bukan macam tu. It's yalah, ia mudah didapati daripada laporan semua. Cuma orang tak beri perhatian je. Dan aku tanya soalan di parlimen dan dia jawab di parlimen kan. So sebab itulah, dalam masa ni lah, I told my wife, I think lah, elok kalau kau berhenti kerja. Ha, so dia ada kos peribadi kepada semua ini yang orang tak tahu kan. Maksud saya, yalah isteri saya mendapat pendidikan yang baik, balik dari luar negara, kena habiskan bertahun-tahun dalam perbankan tempatan dan antarabangsa kan. Ini antara kesan sampingan yang tidak dijangka lah. So daripada itulah, saya rasa, isteri saya berhenti kerja lebih kurang 3 bulan selepas ini lah kan. Sebab saya pun tak nak isteri saya jadi punching bag kan kat tempat kerja. Sebab dalam bidang kerja saya, benda macam ini saya terpaksa sebutlah kan. So, 9 Mac 2017 Ha, aku tanya sehari sebelum tu, biasalah aku lambung dulu. Aku dah tahu dah. Sebenarnya, 305 juta pembinaan St. Regis itu dibiayai oleh wang rakyat. Ha Okey So aku pun tunjukkanlah, saya sertakan beberapa maklumat mengenai projek ini lah. Sebab bila Najib beritahu, dia umum ni macam ini pelaburan FDI lah. Tan Sri Peter Sondakh, hartawan Indonesia, datang buka St. Regis di Langkawi semua kan. Padahal itu semuanya duit rakyat, duit Malaysia kan. So, Hotel St. Regis Langkawi dimiliki oleh sebuah syarikat bernama Integrated Nautical Resort Sendirian Berhad. Yang ditubuhkan khusus untuk membina, memiliki dan menjalankan perniagaan Hotel St. Regis, seperti saya sertakan maklumat korporat SSM kan. Pusat Persidangan Antarabangsa Langkawi pula dimiliki oleh Syarikat Garuda Suci Sdn. Berhad, yang ditubuhkan khusus untuk membina, memiliki dan menjalankan perniagaan pusat antarabangsa tu lah. Dari kedua-dua penyata SSM ini, kita boleh menentukan berapa pinjaman yang telah diambil ataupun dana yang telah disuntik untuk membiayai, sebab you boleh tengok caj-caj syarikat. Ataupun cagaran kan. So kita kira. Aku tengok, tengok, tengok semua ni. Saint Regis, Saint, Saint, Saint Regis. Jumlah modal disuntik — daripada caj-caj tu saya boleh nampak kan? 62 campur-campur semua. Maka anggaran peratusan kos pembinaan yang dibiayai oleh wang rakyat melalui pinjaman Bank Pembangunan dan geran kerajaan tau — ia sebuah geran.
 
 **Speaker ?:** Geran.
 
-**Rafizi:** Ha. Untuk Hotel St. Regis, 92%. Dan dan dan pecahan dia macam ni tau. Uh, jumlah modal yang disuntik hanya uh 62 juta. Yang lain-lain tu.
+**Rafizi:** Ha. Untuk Hotel St. Regis, 92%. Dan dan dan pecahan dia macam ni tau. Jumlah modal yang disuntik hanya 62 juta. Yang lain-lain tu. Apa nama ni? Jumlah jumlah kos pembinaan keseluruhan 290. Jadi pecahan tu ialah jumlah pinjaman daripada Bank Pembangunan 240 juta. 47 juta, jumlah geran kerajaan Malaysia 20. So jika you total untuk kedua-dua tu kan, apa nama ni, Peter Sondakh hanya suntik 62.5 juta. Kerajaan bayar pinjaman daripada Bank Pembangunan 305 juta, geran 35 juta. Jadi ia 80% dibiayai oleh kerajaan. Ha, tapi yalah dia apa nama ni, pada masa ini dia disebut sebagai orang maki akulah, BN semua maki, ah ini pinjaman lah, pinjaman daripada Bank Pembangunan saja nak buat isu, nak nak fitnah Datuk Seri Najib kan. Ada dalam kertas putih. Oh, tapi tak ada. Yang ini bukan di bawah FELDA, cuma dia berkaitan kan. You go and Google, itu hutang lapuk. Dia tak bayar. So, kalau Google atau tanya ChatGPT pasal pinjaman hutang tu daripada Bank Pembangunan, hutang tu tak dibayar dan saya rasa kena restructure. Cuba tengok. Okey. Jeng jeng jeng. Ha, okey kita ha? Kan dia kata apa?
 
-**Rafizi:** Uh, apa nama ni? Uh, jumlah uh jumlah kos pembinaan keseluruhan uh 290. Jadi uh pecahan tu ialah jumlah pinjaman uh daripada Bank Pembangunan 240 juta.
+**Farhan (Pa'an):** Isu pinjaman lapuk bernilai tinggi melibatkan projek pembinaan St. Regis Langkawi. Dan Pusat Konvensyen Antarabangsa Langkawi. Jumlah. jumlah tertunggak 57 juta. Oh, sorry, sorry, sorry. Integrated Nautical Resort Sdn. Berhad mempunyai kemudahan pembiayaan tertunggak yang tidak diselesaikan 265 juta. Lepas tu Garuda Suci Sdn. Berhad 57 juta.
 
-**Rafizi:** Uh 47 juta, jumlah geran kerajaan Malaysia 20. So jika you total untuk kedua-dua tu kan, um um um apa nama ni, Peter Sondakh hanya suntik 62.5 juta. Kerajaan bayar pinjaman daripada Bank Pembangunan 305 juta, geran 35 juta. Jadi ia 80% dibiayai oleh kerajaan. Ha, tapi yalah dia apa nama ni, um, uh, pada masa ini dia disebut sebagai uh, orang maki akulah, BN semua maki, ah ini pinjaman lah, pinjaman daripada Bank Pembangunan saja nak buat isu, nak nak fitnah Datuk Seri Najib kan.
+**Rafizi:** So 300 juta lebih lah. Ha. Tak payah. Betullah itu yang kan 305 juta kan bagi kan. So maksudnya dia tak bayar langsung tau. Ha, hutang lapuk kan. Anyhow, okey kita tarik nafas panjang kerana kita masuk kepada bahagian 3. Ha, ni yang pasal hartanah-hartanah di London. Okey, bersedia Jadi kita mungkin lajak ke 3 jam 15 minit sikit lah kot kan. 3 jam setengah lah. 3 jam setengah. Aku yang penat kot 3 jam setengah kan. Okey Jadi bermula 17 Ogos 2017. Aku pun tak tahu macam mana aku terjumpa pasal, pasal.
 
-**Rafizi:** Ada dalam kertas putih. Oh, tapi tak ada. Yang ini bukan di bawah FELDA, cuma dia berkaitan kan. You go and Google, uh, itu hutang lapuk. Dia tak bayar. So, uh, kalau Google atau tanya ChatGPT pasal pinjaman hutang tu eh, uh, uh, daripada Bank Pembangunan,
+**Haziq:** Hartanah ni? Hartanah.
 
-**Rafizi:** hutang tu tak dibayar dan saya rasa kena restructure. Cuba tengok. Hmm.
-
-**Rafizi:** Okey. Jeng jeng jeng. Ha, okey kita ha? Kan dia kata apa?
-
-**Farhan (Pa'an):** Uh. Isu pinjaman lapuk bernilai tinggi melibatkan projek pembinaan St. Regis Langkawi.
-
-**Farhan (Pa'an):** Dan Pusat Konvensyen Antarabangsa Langkawi.
-
-**Farhan (Pa'an):** Uh. Jumlah. Uh... jumlah tertunggak 57 juta. Oh, sorry, sorry, sorry. Integrated Nautical Resort Sdn. Berhad mempunyai kemudahan pembiayaan tertunggak yang tidak diselesaikan 265 juta.
-
-**Farhan (Pa'an):** Lepas tu Garuda Suci Sdn. Berhad 57 juta.
-
-**Rafizi:** So 300 juta lebih lah. Ha. Tak payah. Betullah itu yang kan 305 juta kan bagi kan. So maksudnya dia tak bayar langsung tau. Ha, hutang lapuk kan. Anyhow, okey kita tarik nafas panjang kerana kita masuk kepada bahagian 3. Ha, ni yang pasal hartanah-hartanah di London. Okey, bersedia eh. Jadi kita mungkin lajak ke 3 jam 15 minit sikit lah kot kan.
-
-**Rafizi:** 3 jam setengah lah.
-
-**Rafizi:** 3 jam setengah. Aku yang penat kot 3 jam setengah kan. Okey eh. Jadi bermula 17 Ogos 2017. Umm, aku pun tak tahu macam mana aku terjumpa pasal, pasal.
-
-**Haziq:** Hartanah ni?
-
-**Haziq:** Hartanah.
-
-**Rafizi:** Ada orang bagi dulu?
-
-**Rafizi:** Tak, tak, tak, tak. FELDA tak ada orang bagi.
-
-**Rafizi:** Hmm. FELDA tak ada orang bagi. Sebab tu kau tengok, kalau you go through my documents semua tu, uh, hanya yang awal-awal tahun 2012 yang masa nak penyenaraian tu je ada orang dalam bagi.
-
-**Rafizi:** Yang lain semua ni semua daripada carian umum. Uh, kalau you look at my document tu semua publicly available lah. You just, you just need to know how to.
-
-**Rafizi:** Saya rasa semua ni daripada uh bacaan laporan kewangan.
-
-**Rafizi:** Hmm. Kan. Okey eh. So saya mula menumpukan kepada pembelian-pembelian uh apartment mewah dan hotel dan juga uh projek bangunan di London. Sebab yang ini yang memang ada cubaan nakal betullah kan. Dan ada anekdot cerita dia.
-
-**Rafizi:** Sebab aku pernah... Bila ni eh? Uh, I think 2019 kot saya pergi ke London. Oh, sorry, sorry. It was, it was earlier, 2016 lah macam tu. Dan saya rasa itu sebahagian sebab kenapa saya tertarik dengan benda ni lah. 2016 ke 2017? 2016 kot. Uh, saya ada, saya ada persidangan Langkawi.
-
-**Rafizi:** Saya dijemput sebagai ahli parlimen. Ada satu persidangan antarabangsa ahli-ahli parlimen um mengenai Langkawi. Eh, Langkawi pula. Palestin. Jauhnya Langkawi dengan Palestin. Apa kena mengena London dengan Langkawi kan? Palestin.
+**Rafizi:** Ada orang bagi dulu? Tak, tak, tak, tak. FELDA tak ada orang bagi. FELDA tak ada orang bagi. Sebab tu kau tengok, kalau you go through my documents semua tu, hanya yang awal-awal tahun 2012 yang masa nak penyenaraian tu je ada orang dalam bagi. Yang lain semua ni semua daripada carian umum. Kalau you look at my document tu semua publicly available lah. You just, you just need to know how to. Saya rasa semua ni daripada bacaan laporan kewangan. Kan. Okey So saya mula menumpukan kepada pembelian-pembelian apartment mewah dan hotel dan juga projek bangunan di London. Sebab yang ini yang memang ada cubaan nakal betullah kan. Dan ada anekdot cerita dia. Sebab aku pernah. Bila ni? I think 2019 kot saya pergi ke London. Oh, sorry, sorry. It was, it was earlier, 2016 lah macam tu. Dan saya rasa itu sebahagian sebab kenapa saya tertarik dengan benda ni lah. 2016 ke 2017? 2016 kot. Saya ada, saya ada persidangan Langkawi. Saya dijemput sebagai ahli parlimen. Ada satu persidangan antarabangsa ahli-ahli parlimen mengenai Langkawi. Langkawi pula. Palestin. Jauhnya Langkawi dengan Palestin. Apa kena mengena London dengan Langkawi kan? Palestin.
 
 **Haziq:** Palestin.
 
@@ -1706,77 +610,31 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Dekat London.
 
-**Rafizi:** Itulah sebabnya saya di London kan. So saya pergi ke London. Saya jadi penceramah di satu persidangan uh Palestin.
-
-**Rafizi:** Saya rasa saya, saya ada terjumpa rakyat Malaysia lah kat situ. So sembang-sembanglah, dia kenal saya, sembang-sembanglah. So dia orang yang cerita ni. YB tahu tak pasal hotel FELDA kat London semua? Hah? Tak tahu mana ada hotel FELDA kat sini. Ha, ada hotel FELDA kat sini. Ha, bilik-bilik tu kadang-kadang, ha, dia orang beritahulah dia orang ni, bilik-bilik tu reserve untuk geng-geng ni datang for free, datang cuti je. Bukan bayar. That's how I started.
-
-**Rafizi:** Hah? Ya. Ha.
-
-**Rafizi:** Ada orang report lah.
-
-**Rafizi:** Ada basically dia selalunya maklumat ni dia bermula daripada cakap orang biasa tau. Dan uh you tengoklah orang yang bercakap tu kalau dia jenis educated, bukan jenis yalah bukan jenis Ceplos ke apa kan. Dan selalunya apa yang dia cakap tu betul. So dia beritahu ni bilik ni banyak mana yang diorang reserve untuk politician lah, untuk pegawai-pegawai tinggi datang. Cuti London diorang tak bayar. Semua ditanggung oleh hotel dan FELDA. Ha. So itulah sebab aku start eh. And then yalah you tak tahu apa dia. So titik permulaan ialah uh um laporan kewangan lah. So 17 Ogos eh, siasatan ke atas pembelian hotel di London.
-
-**Rafizi:** Bukankah pelaburan di luar negara mesti diluluskan Majlis Ekonomi yang dipengerusikan Perdana Menteri? Kan? So, sebab masa ini bila aku dah buat bising semua ni, dia mula point fingers lah.
-
-**Rafizi:** Dan seperti biasa, kambing hitam utama ialah Isa Samad lah.
-
-**Rafizi:** Ha kan.
+**Rafizi:** Itulah sebabnya saya di London kan. So saya pergi ke London. Saya jadi penceramah di satu persidangan Palestin. Saya rasa saya, saya ada terjumpa rakyat Malaysia lah kat situ. So sembang-sembanglah, dia kenal saya, sembang-sembanglah. So dia orang yang cerita ni. YB tahu tak pasal hotel FELDA kat London semua? Hah? Tak tahu mana ada hotel FELDA kat sini. Ha, ada hotel FELDA kat sini. Ha, bilik-bilik tu kadang-kadang, ha, dia orang beritahulah dia orang ni, bilik-bilik tu reserve untuk geng-geng ni datang for free, datang cuti je. Bukan bayar. That's how I started. Hah? Ya. Ha. Ada orang report lah. Ada basically dia selalunya maklumat ni dia bermula daripada cakap orang biasa tau. Dan you tengoklah orang yang bercakap tu kalau dia jenis educated, bukan jenis yalah bukan jenis Ceplos ke apa kan. Dan selalunya apa yang dia cakap tu betul. So dia beritahu ni bilik ni banyak mana yang diorang reserve untuk politician lah, untuk pegawai-pegawai tinggi datang. Cuti London diorang tak bayar. Semua ditanggung oleh hotel dan FELDA. Ha. So itulah sebab aku start And then yalah you tak tahu apa dia. So titik permulaan ialah laporan kewangan lah. So 17 Ogos siasatan ke atas pembelian hotel di London. Bukankah pelaburan di luar negara mesti diluluskan Majlis Ekonomi yang dipengerusikan Perdana Menteri? Kan? So, sebab masa ini bila aku dah buat bising semua ni, dia mula point fingers lah. Dan seperti biasa, kambing hitam utama ialah Isa Samad lah. Ha kan.
 
 **Haziq:** Dia dah kena start siasat seawal 2017 lagi.
 
 **Rafizi:** Saya tak rasa tak.
 
-**Haziq:** Eh tak.
+**Haziq:** Tak.
 
-**Rafizi:** Masa ni tak. Masa ni dia tak kena siasat. Cuma dia dah direhatkan lah.
+**Rafizi:** Masa ni tak. Masa ni dia tak kena siasat. Cuma dia dah direhatkan lah. So, so saya rasa strategi Najib masa itu ialah buang Isa Samad, letak Shahrir Samad. Blame semua dekat Isa Samad. So aku, maksud saya to be fair lah kan, ia macam benda ni I always feel that the buck stops at number one kan. So seronok ah engkau benda ni jadi. So bila aku mula study apa nama ni pasal pembelian condo, maksud saya apartment, property kat mana, then aku sedar sebenarnya peraturan kerajaan masa zaman Najib, kan, sebarang pembelian dan pelaburan luar negara mesti mendapat kelulusan menteri. Mesti diluluskan oleh Majlis Ekonomi yang dipengerusikan oleh menteri. Dan sebab saya tahu itu, sebab pada masa yang sama, aku juga tengah kejar siasat yang, yang hostel student dekat Australia tu, yang tipu tu. Daripada situ aku sedar, sebenarnya ada proses ni. You tak boleh nak apa nama ni, pandai-pandai buat je. You kena dapat keputusan menteri kan. So bila dia orang duk blame Mr. Samad semua, aku cakap, apa nama ni, sebab benda ni dilaporkan tau. Bila aku duk apa nama ni, hentam pasal Anwar tu kan. Pasal Anwar pula, pasal MARA.
 
-**Rafizi:** So, so saya rasa uh uh strategi Najib masa itu ialah buang Isa Samad, letak Shahrir Samad.
-
-**Rafizi:** Blame semua dekat Isa Samad. So aku, maksud saya to be fair lah kan, ia macam benda ni I always feel that the buck stops at number one kan. So seronok ah engkau benda ni jadi. So bila aku mula study apa nama ni pasal pembelian condo, maksud saya apartment, property kat mana, then aku sedar sebenarnya peraturan kerajaan masa zaman Najib, kan, sebarang pembelian dan pelaburan luar negara mesti mendapat kelulusan menteri. Mesti diluluskan oleh Majlis Ekonomi yang dipengerusikan oleh menteri. Dan sebab saya tahu itu, sebab pada masa yang sama, aku juga tengah kejar siasat yang, yang hostel student dekat Australia tu, yang tipu tu. Daripada situ aku sedar, eh, sebenarnya ada proses ni. Uh, you tak boleh nak apa nama ni, uh, pandai-pandai buat je. You kena dapat keputusan menteri kan. So bila dia orang duk blame Mr. Samad semua, aku cakap, eh, apa nama ni, sebab benda ni dilaporkan tau. Bila aku duk aa apa nama ni, aa hentam pasal Anwar tu kan. Eh, pasal Anwar pula, pasal MARA.
-
-**Haziq:** Hmm, pasal MARA. Dudley House tu dekat.
+**Haziq:** Pasal MARA. Dudley House tu dekat.
 
 **Rafizi:** Ha, dekat nama apa?
 
 **Multiple speakers:** Dudley House. Dudley House. Ha ha.
 
-**Rafizi:** So jawapan daripada MARA ialah benda tu telah diluluskan oleh Perdana Menteri mengikut peraturan. Then aku sedar bolehlah. So aku pun tanyalah, eh, eh,
-
-**Rafizi:** uh, bila kita check balik, um, Majlis Ekonomi kita sebenarnya Datuk Seri Najib yang telah mengubah bahawa um Majlis Ekonomi yang beliau pengerusikan telah mengambil alih jawatankuasa kabinet mengenai pelaburan yang bertanggungjawab mengenai hal ehwal pelaburan negara. Ha, jadi ini semua ada dalam laporan aa semua kan. Jadi maknanya pembelian hotel aa di London oleh FELDA tu sudah tentu perlu melalui proses kelulusan yang sama, iaitu perlu dibawa dan diluluskan di Majlis Ekonomi yang dipengerusikan oleh Datuk Seri Najib pada ketika itu.
-
-**Rafizi:** Aa jika Tan Sri Isa Samad, masa ni dia dah kena reman ke?
+**Rafizi:** So jawapan daripada MARA ialah benda tu telah diluluskan oleh Perdana Menteri mengikut peraturan. Then aku sedar bolehlah. So aku pun tanyalah, bila kita check balik, Majlis Ekonomi kita sebenarnya Datuk Seri Najib yang telah mengubah bahawa Majlis Ekonomi yang beliau pengerusikan telah mengambil alih jawatankuasa kabinet mengenai pelaburan yang bertanggungjawab mengenai hal ehwal pelaburan negara. Ha, jadi ini semua ada dalam laporan semua kan. Jadi maknanya pembelian hotel di London oleh FELDA tu sudah tentu perlu melalui proses kelulusan yang sama, iaitu perlu dibawa dan diluluskan di Majlis Ekonomi yang dipengerusikan oleh Datuk Seri Najib pada ketika itu. Jika Tan Sri Isa Samad, masa ni dia dah kena reman ke?
 
 **Speaker ?:** Belum kan?
 
-**Rafizi:** Belum.
+**Rafizi:** Belum. Belum. Belum. So aku pandai-pandai cakap kena reman. So aku dah cakap awal-awal dan ini pun tak berlaku jugalah. Sebab aku dah kata jika Tan Sri Isa Samad direman dan disiasat atas dakwaan menerima suapan dari pembelian hotel tersebut yang menyeleweng duit FELDA, maka Datuk Seri Najib dan anggota Majlis Ekonomi yang lain juga perlu disiasat. Untuk menentukan sama ada mereka juga menerima habuan atau suapan kerana merekalah yang telah meluluskan pembelian itu, kan. So, tumpuannya ialah, oi, janganlah kambing hitamkan Tan Sri Isa Samad saja. Benda ni pergi sehingga ke atas, kan. So yang ini memulakan siri pendedahan mengenai pembelian hartanah di London yang juicy lah. Dan dia agak complicated tau. Jadi yang ini saya tunjukkan kepada yang menonton. Kalau tak puas ataupun rasa macam berbelit, payah nak faham, you kena pergi baca blog tu sebab dekat situ ada semua geran tau. Perjanjian, geran hotel semua. Then you nampak pandai diorang flip. Ha, dia ada orang tengah, dia ada broker semua, beli banyak tu, charge banyak ni, FELDA kena bayar banyak ni. Title orang lain punya, bukan FELDA punya kan. Baik. So kita bermula dengan so kita skip lah yang pada masa yang sama saya terus duk tumpu juga ni pasal hutang FELDA semua, tapi kita skip lah pasal hutang semua tu. Kita tumpu kepada semata-mata pasal apa nama ni, hartanah je Oh, tapi kena sebut jugalah pasal hutang. Oh, sebab benda ni yalah aku. benda ni hanya berlaku zaman-zaman ini kan. Pada 4 Oktober 2017 kan.
 
-**Rafizi:** Belum.
+**Speaker ?:** Gula-gula
 
-**Rafizi:** Belum. So aku pandai-pandai cakap kena reman. So aku dah cakap awal-awal dan ini pun tak berlaku jugalah.
-
-**Rafizi:** Sebab aku dah kata jika Tan Sri Isa Samad direman dan disiasat atas dakwaan menerima suapan dari pembelian hotel tersebut yang menyeleweng duit FELDA, maka Datuk Seri Najib dan anggota Majlis Ekonomi yang lain juga perlu disiasat.
-
-**Rafizi:** Untuk menentukan sama ada mereka juga menerima habuan atau suapan kerana merekalah yang telah meluluskan pembelian itu, kan. So, um, tumpuannya ialah, oi, janganlah kambing hitamkan Tan Sri Isa Samad saja. Benda ni pergi sehingga ke atas, kan.
-
-**Rafizi:** So yang ini memulakan siri pendedahan mengenai pembelian hartanah di London yang juicy lah. Dan dia agak complicated tau. Jadi yang ini saya tunjukkan kepada yang menonton. Kalau tak puas ataupun rasa macam berbelit, payah nak faham, you kena pergi baca blog tu sebab dekat situ ada semua geran tau. Perjanjian, geran hotel semua. Then you nampak pandai diorang flip.
-
-**Rafizi:** Ha, dia ada orang tengah, dia ada broker semua, beli banyak tu, charge banyak ni, FELDA kena bayar banyak ni. Title orang lain punya, bukan FELDA punya kan. Baik. Um, so kita bermula dengan um, uh, so kita skip lah yang pada masa yang sama saya terus duk tumpu juga ni pasal hutang FELDA semua, tapi kita skip lah pasal hutang semua tu. Kita tumpu kepada semata-mata pasal apa nama ni, hartanah je eh. Oh, tapi kena sebut jugalah pasal hutang.
-
-**Speaker ?:** Okey.
-
-**Rafizi:** Oh, sebab uh benda ni yalah aku... benda ni hanya berlaku zaman-zaman ini kan. Pada 4 Oktober 2017 kan.
-
-**Speaker ?:** Gula-gula eh.
-
-**Rafizi:** Ha. Uh ini saya keluarkan kenyataan eh. Gula-gula kepada peneroka mulanya manis tapi kemudiannya jadi masam. Sebab FELDA terpaksa ambil pembiayaan jangka pendek 1.1 bilion pada kadar faedah tinggi dalam tahun 2015. Kita tak perlu masuk dalam butiran. Anda boleh baca sendiri. Dan perkara ini ada disentuh sedikit-sedikit.
-
-**Rafizi:** Rasanya ada dalam white paper. Di bahagian belakang sikit-sikit kan. Tapi begini lah. Anda bayangkan macam mana satu agensi yang prepay hutang, tau. Dia bayar lebih awal hutang dia tahun 2000, sebelum Najib ambil alih, semua hutang habis tu kan. Dalam tempoh 15 tahun, hutang dia dah cecah sampai 12 bilion dan itu pun tak cukup. Dia terpaksa ambil pembiayaan jangka pendek. Kalau kita ni pembiayaan jangka pendek maksudnya kita pakai kad kredit lah. Bayar sewa rumah pakai kad kredit semua. FELDA ambil pembiayaan jangka pendek 1.1 bilion pada kadar faedah yang tinggi dalam tahun 2015. Itulah teruknya keadaan pada masa itu. Dan Najib masa tu dia nak bailout pun tak boleh sebab ada masalah 1MDB. Kalau dia pergi ambil hutang, kantoi lagi. Kantoi lagi sana sini kan. Jadi akhirnya FELDA terpaksa selesaikan masalah sendiri, dan caranya mereka pergi ambil pembiayaan jangka pendek lah.
-
-**Rafizi:** Jadi ini seolah-olah kalau nak kata, FELDA terpaksa pergi ambil duit hutang dengan Along. Yalah, cuma Along untuk 1.1 bilion bukan macam Along kita lah.
-
-**Rafizi:** Ni uh institusi kewangan akan bagi tetapi pada kadar faedah yang sangat tinggi lah. Ha, jadi ia bermula um pada uh eh, kenapa? Itu dah keluar lah. Oh, ha ia bermula, salahnya pun Dato' Asri Muda... eh, maksud saya Datuk Seri Shabery Cheek juga.
-
-**Rafizi:** Dia pun suka buat kenyataan-kenyataan apa nama ni yang yalah.
+**Rafizi:** Ha. Ini saya keluarkan kenyataan Gula-gula kepada peneroka mulanya manis tapi kemudiannya jadi masam. Sebab FELDA terpaksa ambil pembiayaan jangka pendek 1.1 bilion pada kadar faedah tinggi dalam tahun 2015. Kita tak perlu masuk dalam butiran. Anda boleh baca sendiri. Dan perkara ini ada disentuh sedikit-sedikit. Rasanya ada dalam white paper. Di bahagian belakang sikit-sikit kan. Tapi begini lah. Anda bayangkan macam mana satu agensi yang prepay hutang, tau. Dia bayar lebih awal hutang dia tahun 2000, sebelum Najib ambil alih, semua hutang habis tu kan. Dalam tempoh 15 tahun, hutang dia dah cecah sampai 12 bilion dan itu pun tak cukup. Dia terpaksa ambil pembiayaan jangka pendek. Kalau kita ni pembiayaan jangka pendek maksudnya kita pakai kad kredit lah. Bayar sewa rumah pakai kad kredit semua. FELDA ambil pembiayaan jangka pendek 1.1 bilion pada kadar faedah yang tinggi dalam tahun 2015. Itulah teruknya keadaan pada masa itu. Dan Najib masa tu dia nak bailout pun tak boleh sebab ada masalah 1MDB. Kalau dia pergi ambil hutang, kantoi lagi. Kantoi lagi sana sini kan. Jadi akhirnya FELDA terpaksa selesaikan masalah sendiri, dan caranya mereka pergi ambil pembiayaan jangka pendek lah. Jadi ini seolah-olah kalau nak kata, FELDA terpaksa pergi ambil duit hutang dengan Along. Yalah, cuma Along untuk 1.1 bilion bukan macam Along kita lah. Ni institusi kewangan akan bagi tetapi pada kadar faedah yang sangat tinggi lah. Ha, jadi ia bermula pada kenapa? Itu dah keluar lah. Oh, ha ia bermula, salahnya pun Dato' Asri Muda. Maksud saya Datuk Seri Shabery Cheek juga. Dia pun suka buat kenyataan-kenyataan apa nama ni yang yalah.
 
 **Haziq:** Tak sesuai.
 
@@ -1784,49 +642,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Merendahkan.
 
-**Rafizi:** Lah bila kita tanya pasal FELDA. Itu, yang itu aku puji Isa Samad tau.
-
-**Rafizi:** Sekurang-kurangnya Isa Samad dia tak cari gaduh dengan orang, tau.
-
-**Rafizi:** Jadi masa orang, masa kita cakap semua ni, dia buat diam. Dia tak menafikan pun, dia buat diam je kan. Jadi dalam buku aku lah, Tan Sri Isa Samad ni tak ada menegakkan benang basah, tau.
-
-**Rafizi:** Sudah tentulah dia bayar untuk kesalahannya lah. Dia dalam penjara sekarang lah. Tapi aku tak dapat ingat dia cuba menegakkan benang basah. Tapi Shahrir Samad ni eh, bila aku um apa nama ni baca, dia ada buat aa dia suka buat kenyataan-kenyataan yang buat aku trigger, tau. So dia ni Oktober, 10 Oktober 2017.
-
-**Rafizi:** Jadi um dia entah macam mana, dia sebagai pengerusi FELDA, dia pergi buat temu ramah yang disiarkan dalam China Press.
-
-**Rafizi:** Apa kena mengena Cina dengan FELDA ni kan? Tapi dalam China Press, temu ramah dia tu dipetik oleh MalaysiaKini.
-
-**Rafizi:** Ha. Dan dipetik oleh MalaysiaKini tu, dia ada satu yang apa nama dia beritahu, um, komen dia eh, beberapa kenyataan dia kan. Dia kata bahawa tindakan FELDA menjual saham-saham pelaburannya di dalam Maybank dan hotel di London adalah cara biasa untuk mengumpul dana, bukannya disebabkan kedudukan kewangan FELDA yang lemah. Okey, nanti kita terpaksa juga sentuh, kerana perkara ni kita hanya buat sekali seumur hidup kan. Podcast fokus untuk FELDA kan. Orang ramai tak tahu, kan. FELDA adalah antara pemegang saham yang besar dalam Maybank.
-
-**Rafizi:** Dan saham Maybank tu saham yang untung banyak. Jadi dia terpaksa jual, aku rasa 2017. Kalau dia hold, nilai dia tu dah double daripada sekarang. Dia terpaksa jual sebab dia kena raise cash. Sebab duit tak ada kan, ambil pembiayaan jangka pendek, raise cash. Jadi dia jual satu hotel di London masa tu lah. Kemudian aa apa nama ni, dan dia jual saham dia dalam Maybank.
-
-**Rafizi:** Jawapan dia tu tak kena, tau. Ha, yang ni dia sebut. Dia kata aset yang dijual dibeli ketika FELDA ada banyak wang dan sekarang ni FELDA memerlukan wang, jadi jual lah.
-
-**Rafizi:** Jadi dia kata, uh, penjualan hotel di London itu boleh diumpamakan seperti sebuah kereta Ferrari lah.
-
-**Rafizi:** Ha, dia kata hotel seperti kereta Ferrari yang kita jarang pandu. Bila dijual, bukannya rugi, jatuh air muka saja. Ha. Macam boleh, dia boleh kata bukan rugi, jatuh air muka saja. Jadi aku macam tu trigger lah. Dan itu mendorong aku lebih lanjut untuk pergi semak lagi lah, sebenarnya berapa dia pergi beli? Betul ke tak rugi kan? Ha. Jadi um, jadi aku mula tengok apa nama ni kepada um pembelian-pembelian apa nama ni um uh Grand Plaza yang dijual tu kan?
-
-**Rafizi:** Jadi aku tunjukkan eh. Masa ni boleh tengok uh pengiraan dia lah. Ini semua sebelum auditor masuk tau, dan dia tak lari jauh lah daripada auditor semua kan. Jadi aku tunjukkan um harga nilaian semasa, harga yang dibayar oleh FELDA. Um jadi harga yang dibayar kemudian tengok kepada uh kerugian terkumpul. Kemudian kena tengok juga kepada kos pembiayaan ke atas hutang EPF semua kan. Jadi, uh, berapa rugi bersih dia? Anggaran dia kalau ikut ni aku tengok rugi bersih dia dalam 37 juta kan.
-
-**Rafizi:** Dan itu pun uh sebenarnya rugi lagi banyak kerana um kita ambil at face value harga yang dibayar oleh FELDA masa beli. Sebenarnya harga itu pun ada penipuan uh dan itu direkodkan dalam kertas putih. Uh, sebab, uh, tapi takpalah orang boleh tengok. Sebab ni nakal tak nakal, tau. Konsultan tak konsultan yang buat ni kan. Kertas yang dibentangkan kepada Lembaga Pengarah nak dapat tu. Oh, tapi itu hartanah yang berbeza, bukan yang ini lah, okey. Satu contoh yang kita akan pergi, FELDA ni beli bangunan. Uh, dan kemudian dia nak robohkan, nak buat asrama pelajar.
-
-**Rafizi:** Jadi kena tengok economic value lah, nak tengok return semua kan. Jadi kena tengok kadar sewa dia kan.
-
-**Rafizi:** Jadi dia nakal dan lembaga pengarah tu pun takkan seorang pun tak tanya kan. Dia gunakan kadar sewa dalam zon 1 dan zon 2 untuk properti dan asrama dekat Wembley zon 5.
-
-**Rafizi:** Ha. Jadi sebab itu, kadar sewa, maksud aku, anda tahu London mengikut zon kan?
+**Rafizi:** Lah bila kita tanya pasal FELDA. Itu, yang itu aku puji Isa Samad tau. Sekurang-kurangnya Isa Samad dia tak cari gaduh dengan orang, tau. Jadi masa orang, masa kita cakap semua ni, dia buat diam. Dia tak menafikan pun, dia buat diam je kan. Jadi dalam buku aku lah, Tan Sri Isa Samad ni tak ada menegakkan benang basah, tau. Sudah tentulah dia bayar untuk kesalahannya lah. Dia dalam penjara sekarang lah. Tapi aku tak dapat ingat dia cuba menegakkan benang basah. Tapi Shahrir Samad ni bila aku apa nama ni baca, dia ada buat dia suka buat kenyataan-kenyataan yang buat aku trigger, tau. So dia ni Oktober, 10 Oktober 2017. Jadi dia entah macam mana, dia sebagai pengerusi FELDA, dia pergi buat temu ramah yang disiarkan dalam China Press. Apa kena mengena Cina dengan FELDA ni kan? Tapi dalam China Press, temu ramah dia tu dipetik oleh MalaysiaKini. Ha. Dan dipetik oleh MalaysiaKini tu, dia ada satu yang apa nama dia beritahu, komen dia beberapa kenyataan dia kan. Dia kata bahawa tindakan FELDA menjual saham-saham pelaburannya di dalam Maybank dan hotel di London adalah cara biasa untuk mengumpul dana, bukannya disebabkan kedudukan kewangan FELDA yang lemah. Okey, nanti kita terpaksa juga sentuh, kerana perkara ni kita hanya buat sekali seumur hidup kan. Podcast fokus untuk FELDA kan. Orang ramai tak tahu, kan. FELDA adalah antara pemegang saham yang besar dalam Maybank. Dan saham Maybank tu saham yang untung banyak. Jadi dia terpaksa jual, aku rasa 2017. Kalau dia hold, nilai dia tu dah double daripada sekarang. Dia terpaksa jual sebab dia kena raise cash. Sebab duit tak ada kan, ambil pembiayaan jangka pendek, raise cash. Jadi dia jual satu hotel di London masa tu lah. Kemudian apa nama ni, dan dia jual saham dia dalam Maybank. Jawapan dia tu tak kena, tau. Ha, yang ni dia sebut. Dia kata aset yang dijual dibeli ketika FELDA ada banyak wang dan sekarang ni FELDA memerlukan wang, jadi jual lah. Jadi dia kata, penjualan hotel di London itu boleh diumpamakan seperti sebuah kereta Ferrari lah. Ha, dia kata hotel seperti kereta Ferrari yang kita jarang pandu. Bila dijual, bukannya rugi, jatuh air muka saja. Ha. Macam boleh, dia boleh kata bukan rugi, jatuh air muka saja. Jadi aku macam tu trigger lah. Dan itu mendorong aku lebih lanjut untuk pergi semak lagi lah, sebenarnya berapa dia pergi beli? Betul ke tak rugi kan? Ha. Jadi jadi aku mula tengok apa nama ni kepada pembelian-pembelian apa nama ni Grand Plaza yang dijual tu kan? Jadi aku tunjukkan Masa ni boleh tengok pengiraan dia lah. Ini semua sebelum auditor masuk tau, dan dia tak lari jauh lah daripada auditor semua kan. Jadi aku tunjukkan harga nilaian semasa, harga yang dibayar oleh FELDA. Jadi harga yang dibayar kemudian tengok kepada kerugian terkumpul. Kemudian kena tengok juga kepada kos pembiayaan ke atas hutang EPF semua kan. Jadi, berapa rugi bersih dia? Anggaran dia kalau ikut ni aku tengok rugi bersih dia dalam 37 juta kan. Dan itu pun sebenarnya rugi lagi banyak kerana kita ambil at face value harga yang dibayar oleh FELDA masa beli. Sebenarnya harga itu pun ada penipuan dan itu direkodkan dalam kertas putih. Sebab, tapi takpalah orang boleh tengok. Sebab ni nakal tak nakal, tau. Konsultan tak konsultan yang buat ni kan. Kertas yang dibentangkan kepada Lembaga Pengarah nak dapat tu. Oh, tapi itu hartanah yang berbeza, bukan yang ini lah, okey. Satu contoh yang kita akan pergi, FELDA ni beli bangunan. Dan kemudian dia nak robohkan, nak buat asrama pelajar. Jadi kena tengok economic value lah, nak tengok return semua kan. Jadi kena tengok kadar sewa dia kan. Jadi dia nakal dan lembaga pengarah tu pun takkan seorang pun tak tanya kan. Dia gunakan kadar sewa dalam zon 1 dan zon 2 untuk properti dan asrama dekat Wembley zon 5. Ha. Jadi sebab itu, kadar sewa, maksud aku, anda tahu London mengikut zon kan?
 
 **Haziq:** London kalau Zon 1, Zon 2 tu lagi mahal lah, ada betul.
 
-**Rafizi:** Bukan saja lagi mahal, langit dengan bumi lah beza.
-
-**Rafizi:** Central London lah.
-
-**Rafizi:** Penilaian.
-
-**Rafizi:** Dia macam ni, macam ni eh. Contohnya anda membandingkan sewa uh di apartment KLCC tu dengan uh Gombak.
-
-**Rafizi:** Sudah tentu, apartment di Gombak sewa sebulan mungkinlah 2000. Tapi kat KLCC tu 8000. Tapi untuk justify economic value, dia pakai sewa KLCC. Dia pakai sewa zon 1, zon 2. Dia tak pakai sewa zon 5. Dan tak ada orang perasan benda tu. Ataupun buat-buat tak tahu lah kan. Jadi sebenarnya sudah tentulah bila dah buat begitu, benda tu memang tak ada economic value lah kan. Jadi ini juga um apa nama ni um jadi ini yang berkaitan dengan uh nanti jam eh. Eh, aku dah tertekan ke? Maaf. Uh minta maaf ya saudari-saudari. Uh ini benda 78 tahun ni. Mana tadi? Aku dah tertekan. Uh, kita kembali kepada yang pertama tadi rugi tu kan? Uh.
+**Rafizi:** Bukan saja lagi mahal, langit dengan bumi lah beza. Central London lah. Penilaian. Dia macam ni, macam ni Contohnya anda membandingkan sewa di apartment KLCC tu dengan Gombak. Sudah tentu, apartment di Gombak sewa sebulan mungkinlah 2000. Tapi kat KLCC tu 8000. Tapi untuk justify economic value, dia pakai sewa KLCC. Dia pakai sewa zon 1, zon 2. Dia tak pakai sewa zon 5. Dan tak ada orang perasan benda tu. Ataupun buat-buat tak tahu lah kan. Jadi sebenarnya sudah tentulah bila dah buat begitu, benda tu memang tak ada economic value lah kan. Jadi ini juga apa nama ni jadi ini yang berkaitan dengan nanti jam aku dah tertekan ke? Maaf. Minta maaf ya saudari-saudari. Ini benda 78 tahun ni. Mana tadi? Aku dah tertekan. Kita kembali kepada yang pertama tadi rugi tu kan?
 
 **Farhan (Pa'an):** Anda cakap pasal FELDA House dengan Grand FELDA House ke?
 
@@ -1834,69 +654,15 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Farhan (Pa'an):** Kensington.
 
-**Rafizi:** Uh uh. Jadi daripada butir-butir tu, kita dapat tahu perkara-perkara berikut eh.
+**Rafizi:** Jadi daripada butir-butir tu, kita dapat tahu perkara-perkara berikut Hartanah yang dirujuk akan dijual oleh FELDA itu adalah Grand Plaza Service Apartments di alamat 42 Princess Square Bayswater yang dibeli dalam tahun 2013 pada harga 538 juta. Boleh tengok harga dia lah kan. Dan dilaporkan di mana-mana. Agensi Hartanah Antarabangsa CBRE dan juga Knight Frank. Ni dua yang terbaik di dunia, yang terbesar di dunia, CBRE dengan Knight Frank kan. Dilantik untuk menjadi ejen menjual Grand Plaza. Rujukan pada laman-laman hartanah antarabangsa menunjukkan Grand Plaza diiklankan dalam bulan Julai 2017, iaitu 3 bulan sebelum saya buat kenyataan ini. Saya juga telah berjaya mendapat buku iklan yang disediakan oleh CBRE untuk memasarkan Grand Plaza. Ini semua available. Aku pergi, aku menyamar, aku minta je. Hantar email je, minta kat dia sebagai bakal pembeli ke apa kan. Jadi anda dapat lah prospektus tu kan. Daripada buku iklan ini ada pelbagai maklumat kewangan yang boleh digunakan bagi tujuan menentukan sama ada penjualan hartanah ini pada harga semasa akan memberi keuntungan kepada FELDA ataupun tidak. Jadi maklumat dia macam ni kan. Kadar kenaikan nilai hartanah tersebut di muka surat 24 dianggarkan sekitar 6% setahun. Dua penunjuk prestasi kewangan dan keuntungan operasi yang sangat penting ada dua Satu ADR, average day rate ataupun kadar sewa harian purata. Satu lagi RevPAR Revenue per available room jadi ADR dan RevPAR ini berdasarkan yang CBRE buat, tau. ADR dan RevPAR membolehkan kita mengira berapa peratus setiap apartment berjaya disewakan lah kan. Jadi bila kita kira yang ini, peratusan apartment yang disewakan adalah sekitar 83.5%. Maka secara purata, setiap apartment hanya berjaya disewakan 83.5% lah. Jadi dari situ kita boleh kira perolehan kan. Jadi maklumat-maklumat kewangan lain yang perlu untuk lengkapkan analisa ni, sebab aku tak ada kuasa. Aku bukan auditor ataupun akauntan forensik. Aku terpaksa cantumkan semua ini sendiri lah. Jadi anda kena ambil dari sana sini untuk buat analisa kan. Jadi kita boleh tengok maklumat kewangan FIC UK Properties Sendirian Berhad, iaitu anak syarikat FELDA lah yang memiliki ini setakat 31 Disember 2015. Dan pakai maklumat-maklumat itu, kita boleh tentukan untung rugi lah bila Grand Plaza ni berjaya dijual pada harga pasaran kelak, Satu kesimpulan dia, Operasi Grand Plaza ni sebenarnya tidak pernah menunjukkan keuntungan kecuali di tahun pertama beli je. Penyata kewangan FIC mengesahkan FELDA rugi 9 juta pada 2014 dan rugi semakin besar 16.7 juta pada 2015. FELDA tidak berjaya mengutip sewa yang sepatutnya dari Grand Plaza. Mengambil kira laporan dari CBRE yang disertakan di dalam buku iklan, sewa yang dikenakan ke atas setiap apartment Grand Plaza adalah lebih rendah daripada kadar pasaran Ha, jadi okey. Ada satu benda yang aku tak tahu yang dalam white paper tambah. Ingat tak tadi occupancy rate 83.5% kan? Dalam white paper kata occupancy rate itu pun inflated. Sebab dia masukkan juga apa nama ni, bilik-bilik, unit-unit yang staff duduk. Patutnya.
 
-**Rafizi:** Hartanah yang dirujuk akan dijual oleh FELDA itu adalah Grand Plaza Service Apartments di alamat 42 Princess Square Bayswater eh, yang dibeli dalam tahun 2013 pada harga 538 juta. Boleh tengok harga dia lah kan. Hmm. Dan dilaporkan di mana-mana. Agensi Hartanah Antarabangsa CBRE dan juga Knight Frank.
+**Farhan (Pa'an):** Tapi saya tertanya-tanya sebab kalau you guna parameter tertentu untuk melambungkan harga ataupun untuk mewajarkan pembelian pada harga yang lebih tinggi kan. Siapa yang untung daripada harga yang dilambungkan itu kerana— Sabarlah dulu. Kita akan sampai ke situ.
 
-**Rafizi:** Ni dua yang terbaik di dunia, yang terbesar di dunia, CBRE dengan Knight Frank kan. Dilantik untuk menjadi ejen menjual Grand Plaza.
+**Rafizi:** Maaf, maaf, maaf. Ha, ini skemanya. Sebab itulah kalau nak dibuat filem, ini menarik. Inilah Panama Papers. Ha kan? BVI. Jadi lain kali kepada orang-orang di sekeliling Datuk Seri Anwar, kalau anda nak dedahkan Panama Papers ataupun yang berkaitan offshore, ia perlu diperincikan dan diteliti secara terperinci. Bukan sekadar menyebut nama orang itu ada dalam Panama Papers, nama orang ini, tetapi tiada dokumen, tiada penjejakan langsung. Jadi yang berlaku berkenaan FELDA ini adalah persis Panama Papers lah. Ha, jadi anda tidak tahu siapa yang mendapat manfaat, tetapi kami berjaya menjejaki siapa kan? Ha, okey. Sekarang, jadi bila kita tengok semua ini, FELDA mendahulukan wang ini kepada anak syarikatnya, FIC Properties, untuk membayar semua ini. FELDA, ingat tak? Mana ada duit? Mana duitnya? Jadi dari mana FELDA dapat duit? Dia pinjam daripada EPF. Jadi dia pinjam sedangkan duit daripada penyenaraian FGV pun sudah tak ke mana. Duit makin tak ada. Dia pinjam daripada EPF. Daripada duit EPF 6 bilion itu, sebahagiannya dia beri sebagai pendahuluan untuk pergi membeli hotel ini pada harga yang dilambungkan. Dan tidak cukup dengan harga yang dilambungkan itu. Ha, sekarang inilah masanya Shahrir Samad berkata, "Alah, ini macam Ferrari saja. Bukan rugi pun, cuma jatuh muka." Walaupun kalau semuanya dibuat mengikut prosedur sekalipun kan, oleh kerana operasinya semua itu, dia rugi 38 juta. Jadi, saya rasa semua ini turut ditegaskan dalam kertas putih. Kertas putih pada asasnya mengesahkan semua ini lah. Okey ya. Sekarang kita dah nak menuju kepada soalan misteri yang Pa'an tanya tadi lah. Ha 11 Oktober 2017, lebih kurang 2 bulan lah selepas saya mula-mula bertanya tentang Grand Plaza ini kan. Bukan begitulah. Bukan 11 Okt- 2 bulan. Sehari kemudian. Sehari. Cepatnya. 10 Oktober, 11 Oktober. Tiada. Dan saya tunjukkan ada 80 juta perbelanjaan misteri. Sebab itulah operasi Grand Plaza Service Apartments ini rugi. Jadi bacaannya panjang lah. Maksud saya, analisisnya semua ini. Tapi memang ada 80 juta dalam tempoh 2, 3 tahun itu yang kita tidak tahu apa perinciannya. Sebab kalau anda tengok penyata kewangan di UK, sebab operasinya panjang lah. Ia begini Gila tak gila FELDA ini kan. Dia tubuhkan BVI. Kemudian BVI ini, dia beri wang kepada BVI itu yang bukan miliknya pun pada awalnya kan. Kemudian pergi bayar beli hotel, beli service apartment ini kan. Kemudian dia tubuhkan satu lagi syarikat di UK. Ha kan. Jadi syarikat di UK ini, inilah yang mempunyai hak untuk mengendalikan hotel itu lah. Jadi hasilnya dia rekod. Kan, hasilnya dia rekod. Jadi bila tengok hasil — daripada saya menelitinya baris demi baris, penat, kita tak balik hari ini — hasilnya yang dia rekod semua nampak okey. Dan kos, kos jualannya nampak okey. Jadi dia ada keuntungan operasi tahu. Tapi ada satu jumlah besar iaitu perbelanjaan pentadbiran yang pada asasnya anda tidak boleh terangkan. Itulah yang menyebabkan dia rugi.
 
-**Rafizi:** Rujukan pada laman-laman hartanah antarabangsa menunjukkan Grand Plaza diiklankan dalam bulan Julai 2017, iaitu 3 bulan sebelum saya buat kenyataan ini. Um, saya juga telah berjaya mendapat buku iklan yang disediakan oleh CBRE untuk memasarkan Grand Plaza. Ini semua available. Aku pergi, aku menyamar, aku minta je. Hantar email je, minta kat dia sebagai bakal pembeli ke apa kan. Jadi anda dapat lah prospektus tu kan. Daripada buku iklan ini ada pelbagai maklumat kewangan yang boleh digunakan bagi tujuan menentukan sama ada penjualan hartanah ini pada harga semasa akan memberi keuntungan kepada FELDA ataupun tidak. Jadi maklumat dia macam ni kan. Kadar kenaikan nilai hartanah tersebut di muka surat 24 dianggarkan sekitar 6% setahun. Dua penunjuk prestasi kewangan dan keuntungan operasi yang sangat penting ada dua eh. Satu ADR, average day rate ataupun kadar sewa harian purata. Satu lagi RevPAR eh.
+**Haziq:** Pelbagai?
 
-**Rafizi:** Revenue per available room eh. Um, jadi ADR dan RevPAR ini berdasarkan uh yang CBRE buat, tau.
-
-**Rafizi:** Hmm. ADR dan RevPAR membolehkan kita mengira berapa peratus setiap apartment berjaya disewakan lah kan. Uh, jadi bila kita kira yang ini, uh peratusan apartment yang disewakan adalah sekitar 83.5%. Maka secara purata, setiap apartment hanya berjaya disewakan 83.5% lah. Jadi dari situ kita boleh kira perolehan kan. Jadi maklumat-maklumat kewangan lain yang perlu untuk lengkapkan analisa ni, sebab aku tak ada kuasa. Aku bukan auditor ataupun akauntan forensik. Aku terpaksa cantumkan semua ini sendiri lah. Jadi anda kena ambil dari sana sini untuk buat analisa kan.
-
-**Rafizi:** Jadi kita boleh tengok uh maklumat kewangan FIC UK Properties Sendirian Berhad, iaitu anak syarikat FELDA lah yang memiliki ini setakat 31 Disember 2015.
-
-**Rafizi:** Dan uh pakai maklumat-maklumat itu, uh kita boleh tentukan untung rugi lah bila Grand Plaza ni berjaya dijual pada harga pasaran kelak, eh.
-
-**Rafizi:** Satu kesimpulan dia, eh. Operasi Grand Plaza ni sebenarnya tidak pernah menunjukkan keuntungan kecuali di tahun pertama beli je.
-
-**Rafizi:** Uh, penyata kewangan FIC mengesahkan FELDA rugi 9 juta pada 2014 dan rugi semakin besar 16.7 juta pada 2015. FELDA tidak berjaya mengutip sewa yang sepatutnya dari Grand Plaza. Mengambil kira laporan dari CBRE yang disertakan di dalam buku iklan, sewa yang dikenakan ke atas setiap apartment Grand Plaza adalah lebih rendah daripada kadar pasaran eh.
-
-**Rafizi:** Ha, jadi okey. Ada satu benda yang aku tak tahu yang dalam white paper tambah. Ingat tak tadi occupancy rate 83.5% kan?
-
-**Rafizi:** Dalam white paper kata occupancy rate itu pun inflated.
-
-**Rafizi:** Sebab dia masukkan juga uh apa nama ni, bilik-bilik, unit-unit yang staff duduk.
-
-**Rafizi:** Patutnya.
-
-**Farhan (Pa'an):** Tapi saya tertanya-tanya eh, sebab kalau you guna parameter tertentu untuk melambungkan harga ataupun untuk mewajarkan pembelian pada harga yang lebih tinggi kan. Siapa yang untung daripada harga yang dilambungkan itu kerana—
-
-**Farhan (Pa'an):** Sabarlah dulu. Kita akan sampai ke situ.
-
-**Rafizi:** Maaf, maaf, maaf. Ha, ini skemanya. Sebab itulah kalau nak dibuat filem, ini menarik. Inilah Panama Papers. Ha kan? BVI. Jadi lain kali kepada orang-orang di sekeliling Datuk Seri Anwar, kalau anda nak dedahkan Panama Papers ataupun yang berkaitan offshore, ia perlu diperincikan dan diteliti secara terperinci. Bukan sekadar menyebut nama orang itu ada dalam Panama Papers, nama orang ini, tetapi tiada dokumen, tiada penjejakan langsung. Jadi yang berlaku berkenaan FELDA ini adalah persis Panama Papers lah. Ha, jadi anda tidak tahu siapa yang mendapat manfaat, tetapi kami berjaya menjejaki siapa kan? Ha, okey. Sekarang, jadi bila kita tengok semua ini, FELDA mendahulukan wang ini kepada anak syarikatnya, FIC Properties, untuk membayar semua ini.
-
-**Rafizi:** FELDA, ingat tak? Mana ada duit? Mana duitnya? Jadi dari mana FELDA dapat duit? Dia pinjam daripada EPF. Jadi dia pinjam sedangkan duit daripada penyenaraian FGV pun sudah tak ke mana. Duit makin tak ada. Dia pinjam daripada EPF. Daripada duit EPF 6 bilion itu, sebahagiannya dia beri sebagai pendahuluan untuk pergi membeli hotel ini pada harga yang dilambungkan. Dan tidak cukup dengan harga yang dilambungkan itu. Ha, sekarang inilah masanya Shahrir Samad berkata, "Alah, ini macam Ferrari saja. Bukan rugi pun, cuma jatuh muka." Walaupun kalau semuanya dibuat mengikut prosedur sekalipun kan, oleh kerana operasinya semua itu, dia rugi 38 juta.
-
-**Rafizi:** Hmm. Jadi, saya rasa semua ini turut ditegaskan dalam kertas putih. Kertas putih pada asasnya mengesahkan semua ini lah. Okey ya. Sekarang kita dah nak menuju kepada soalan misteri yang Pa'an tanya tadi lah. Ha eh, 11 Oktober 2017, lebih kurang 2 bulan lah selepas saya mula-mula bertanya tentang Grand Plaza ini kan.
-
-**Rafizi:** Eh, bukan begitulah. Bukan 11 Okt- 2 bulan. Sehari kemudian.
-
-**Rafizi:** Sehari. Cepatnya.
-
-**Rafizi:** 10 Oktober, 11 Oktober. Tiada. Dan saya tunjukkan ada 80 juta perbelanjaan misteri.
-
-**Rafizi:** Sebab itulah operasi Grand Plaza Service Apartments ini rugi.
-
-**Rafizi:** Jadi bacaannya panjang lah. Maksud saya, analisisnya semua ini. Tapi memang ada 80 juta dalam tempoh 2, 3 tahun itu yang kita tidak tahu apa perinciannya. Sebab kalau anda tengok penyata kewangan di UK, sebab operasinya panjang lah. Ia begini eh. Gila tak gila FELDA ini kan. Dia tubuhkan BVI. Kemudian BVI ini, dia beri wang kepada BVI itu yang bukan miliknya pun pada awalnya kan. Kemudian pergi bayar beli hotel, beli service apartment ini kan. Kemudian dia tubuhkan satu lagi syarikat di UK.
-
-**Rafizi:** Ha kan. Jadi syarikat di UK ini, inilah yang mempunyai hak untuk mengendalikan hotel itu lah.
-
-**Rafizi:** Jadi hasilnya dia rekod.
-
-**Rafizi:** Kan, hasilnya dia rekod. Jadi bila tengok hasil — daripada saya menelitinya baris demi baris, penat, kita tak balik hari ini eh — hasilnya yang dia rekod semua nampak okey. Dan kos, kos jualannya nampak okey. Jadi dia ada keuntungan operasi tahu.
-
-**Rafizi:** Tapi ada satu jumlah besar iaitu perbelanjaan pentadbiran yang pada asasnya anda tidak boleh terangkan.
-
-**Rafizi:** Itulah yang menyebabkan dia rugi.
-
-**Haziq:** Pelbagai eh?
-
-**Rafizi:** Tak ada, dia tunjukkan perbelanjaan pentadbiran, dan oleh kerana ia bukan syarikat tersenarai awam atau apa, ia adalah akaun yang ringkas. Dia tidak ada perincian perbelanjaan pentadbiran itu. Dan kepada orang ramai yang mahu melihat, semua akaun-akaun itu diaudit dari UK dan semuanya ada di sini kan. Jadi, bila anda jumlahkan yang 2013, 14, 15 itu, itulah yang menjadi 80 juta. Siapa yang dapat ini?
-
-**Rafizi:** Yang ini bayar sewa kepada apa yang didakwa sebagai pemilik hartanah.
+**Rafizi:** Tak ada, dia tunjukkan perbelanjaan pentadbiran, dan oleh kerana ia bukan syarikat tersenarai awam atau apa, ia adalah akaun yang ringkas. Dia tidak ada perincian perbelanjaan pentadbiran itu. Dan kepada orang ramai yang mahu melihat, semua akaun-akaun itu diaudit dari UK dan semuanya ada di sini kan. Jadi, bila anda jumlahkan yang 2013, 14, 15 itu, itulah yang menjadi 80 juta. Siapa yang dapat ini? Yang ini bayar sewa kepada apa yang didakwa sebagai pemilik hartanah.
 
 **Haziq:** Hartanah.
 
@@ -1904,193 +670,63 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Ia atas nama yang hampir sama, tapi.
 
-**Rafizi:** Ha, nanti kita sampai ke situ. Sebab itu adalah penipuan. Ha kan? Okey eh. Jadi, 80 juta punca misterinya. Dan pada masa ini, bila saya duk sebut semua ini kan, dia tidak ada jawapan tahu daripada FELDA. Mengambil masa yang lama bagi mereka untuk menjawab soalan saya yang bertalu-talu setiap hari. 10 Oktober 2017, 11 Oktober, kemudian 13 Oktober saya bertanya, FELDA perlu jelaskan status pemilikan Hotel Grand Plaza Kensington. Ini milik FELDA ke atau milik orang kuat FELDA?
-
-**Rafizi:** Ha. Ha ini ada sebabnya lah. Um, jadi kita boleh sahkan eh. Jadi kita jejak balik eh. FELDA menubuhkan FELDA Investment Corporation, FIC, sebagai unit pelaburan strategik eh.
-
-**Rafizi:** Daripada situ, oleh kerana ia sudah menjadi anak syarikat milik penuh FELDA, jadi ia perlu disenaraikan semua anak-anak syarikat FIC itu, kan. Daripada semua anak-anak syarikat FIC itu, ada satu anak syarikat milik penuh, namanya ada dua di sini lah. Satu namanya Grand Plaza Kensington Private Limited, 100% dimiliki. Aktivitinya ialah pengendali hotel. Syarikat belum beroperasi. Ha, pelik ke? Satu lagi yang di London ialah FIC London Hotel Limited, diperbadankan di UK, 100% pegangan pelaburan hartanah. Jadi saya katakan perhatikan bahawa penyata kewangan FELDA dengan jelas menamakan FIC London Hotel Limited sebagai sebuah syarikat yang ditubuhkan di UK dan dimiliki 100% oleh FIC lah kan.
-
-**Haziq:** Hmm. Betul.
-
-**Rafizi:** Dan kalau tengok dalam laporan FELDA tahun 2015, memang FIC memberitahu bahawa ia telah membeli Park City Hotel, kini dinamakan Park City Grand Plaza Kensington. Jadi semua sudah masuk kan. Kemudian penyata kewangan diaudit FELDA 2015 turut mengambil kira pinjaman yang diambil di UK. Gila. Daripada EPF pun diambil, di UK pun diambil tahu. Berjumlah 111.4 juta ataupun 17.5 juta. Menurut penyata kewangan diaudit, pinjaman itu diambil dari bank dengan mencagarkan sepenuhnya saham-saham FELDA di dalam FIC London Hotel (Private Limited) yang memiliki hotel itu dan juga Grand Plaza Kensington Hotel lah eh. Okey. Nota 49 dalam penyata kewangan FELDA yang diaudit bagi tahun 2015, memasukkan satu nota khusus mengenai FIC London Hotel Private Limited yang dimiliki sepenuhnya oleh FIC. Okey, beri perhatian bila saya sebut nama satu-satu itu. FIC London Hotel dalam kurungan "Private" — PRIVATE — tutup kurungan Limited. Sebab, di sinilah mereka bermain. Mereka memperbadankan sebuah syarikat di BVI dengan nama yang sama, tetapi ia adalah syarikat yang berbeza.
-
-**Rafizi:** Dan syarikat yang sebenarnya memiliki hotel itu bukanlah syarikat ini.
+**Rafizi:** Ha, nanti kita sampai ke situ. Sebab itu adalah penipuan. Ha kan? Okey Jadi, 80 juta punca misterinya. Dan pada masa ini, bila saya duk sebut semua ini kan, dia tidak ada jawapan tahu daripada FELDA. Mengambil masa yang lama bagi mereka untuk menjawab soalan saya yang bertalu-talu setiap hari. 10 Oktober 2017, 11 Oktober, kemudian 13 Oktober saya bertanya, FELDA perlu jelaskan status pemilikan Hotel Grand Plaza Kensington. Ini milik FELDA ke atau milik orang kuat FELDA? Ha. Ha ini ada sebabnya lah. Jadi kita boleh sahkan Jadi kita jejak balik FELDA menubuhkan FELDA Investment Corporation, FIC, sebagai unit pelaburan strategik Daripada situ, oleh kerana ia sudah menjadi anak syarikat milik penuh FELDA, jadi ia perlu disenaraikan semua anak-anak syarikat FIC itu, kan. Daripada semua anak-anak syarikat FIC itu, ada satu anak syarikat milik penuh, namanya ada dua di sini lah. Satu namanya Grand Plaza Kensington Private Limited, 100% dimiliki. Aktivitinya ialah pengendali hotel. Syarikat belum beroperasi. Ha, pelik ke? Satu lagi yang di London ialah FIC London Hotel Limited, diperbadankan di UK, 100% pegangan pelaburan hartanah. Jadi saya katakan perhatikan bahawa penyata kewangan FELDA dengan jelas menamakan FIC London Hotel Limited sebagai sebuah syarikat yang ditubuhkan di UK dan dimiliki 100% oleh FIC lah kan. Dan kalau tengok dalam laporan FELDA tahun 2015, memang FIC memberitahu bahawa ia telah membeli Park City Hotel, kini dinamakan Park City Grand Plaza Kensington. Jadi semua sudah masuk kan. Kemudian penyata kewangan diaudit FELDA 2015 turut mengambil kira pinjaman yang diambil di UK. Gila. Daripada EPF pun diambil, di UK pun diambil tahu. Berjumlah 111.4 juta ataupun 17.5 juta. Menurut penyata kewangan diaudit, pinjaman itu diambil dari bank dengan mencagarkan sepenuhnya saham-saham FELDA di dalam FIC London Hotel (Private Limited) yang memiliki hotel itu dan juga Grand Plaza Kensington Hotel lah Okey. Nota 49 dalam penyata kewangan FELDA yang diaudit bagi tahun 2015, memasukkan satu nota khusus mengenai FIC London Hotel Private Limited yang dimiliki sepenuhnya oleh FIC. Okey, beri perhatian bila saya sebut nama satu-satu itu. FIC London Hotel dalam kurungan "Private" — PRIVATE — tutup kurungan Limited. Sebab, di sinilah mereka bermain. Mereka memperbadankan sebuah syarikat di BVI dengan nama yang sama, tetapi ia adalah syarikat yang berbeza. Dan syarikat yang sebenarnya memiliki hotel itu bukanlah syarikat ini.
 
 **Haziq:** Oh. Syarikat.
 
-**Rafizi:** Ha. Juruaudit pun satu. Minta maaflah kepada juruaudit yang pergi ini. Takkan anda tidak pergi semak? Geran hotel itu tidak sama dengan nama syarikat yang diperbadankan di UK ini.
+**Rafizi:** Ha. Juruaudit pun satu. Minta maaflah kepada juruaudit yang pergi ini. Takkan anda tidak pergi semak? Geran hotel itu tidak sama dengan nama syarikat yang diperbadankan di UK ini. Pemilik hotel itu adalah syarikat BVI. Namanya. Kan begitu.
 
-**Rafizi:** Pemilik hotel itu adalah syarikat BVI. Namanya. Kan begitu.
-
-**Haziq:** Kepada penonton, British Virgin Island.
-
-**Haziq:** Ha, British Virgin Island, BVI.
+**Haziq:** Kepada penonton, British Virgin Island. Ha, British Virgin Island, BVI.
 
 **Rafizi:** Ha, ini Cayman Island lah.
 
 **Haziq:** Luar pesisir.
 
-**Rafizi:** Luar pesisir, pusat kewangan luar pesisir, tempat orang membasuh wang haram. Maaf untuk katakan. Okey eh.
-
-**Rafizi:** Jadi, saya ambil nota 49 itu, peristiwa penting itu.
-
-**Rafizi:** Pada 6 Mei 2015, Somelia Limited telah menukar nama kepada FIC London Hotel (Private) Limited. Dan FIC LH dimiliki sepenuhnya oleh FIC Sendirian Berhad. Maka, berdasarkan penyata-penyata kewangan yang diaudit ini, kita termasuklah saya pada masa itu menerima bulat-bulat bahawa Hotel Grand Plaza Kensington yang menelan belanja 330 juta wang peneroka FELDA itu adalah milik peneroka juga, milik FELDA juga kan. Ramai yang tidak tahu bahawa anak-anak syarikat FELDA di seluruh dunia sebenarnya tidak diaudit oleh Ketua Audit Negara.
-
-**Rafizi:** Ha, jadi memang Ketua Audit Negara tidak, kerana ia komersial, dia tidak audit kan?
-
-**Rafizi:** Kemudian inilah bomnya kan. FIC London Hotel (Private) Limited, syarikat UK milik penuh FIC itu, setakat saya membuat kenyataan media ini sebenarnya tidak wujud.
-
-**Rafizi:** Ia dimasukkan ke dalam penyata kewangan diaudit semua. Saya menghabiskan masa 48 jam lalu membina kembali aliran wang dari setiap syarikat untuk memastikan ia benar-benar kembali kepada FELDA. Walaupun FELDA dan pihak berkuasa di Malaysia langsung tidak memberi sebarang maklumat. Ada maklumat-maklumat yang kita boleh kumpulkan daripada penyata-penyata kewangan anak-anak syarikat FELDA di UK kan. Jadi anak syarikat milik penuh FELDA di UK yang mengendalikan hotel Grand Plaza Kensington adalah sebuah syarikat yang bernama Grand Plaza Kensington Limited. Jadi saya sertakan penyata kewangan mereka setakat 31 Disember 2016 lah. Pengarah-pengarahnya adalah Tan Sri Isa Samad, Datuk Hanafi Suhada, bekas pengarah besar FELDA pada masa itu, dan seorang yang bernama Muhammad Jeffrey yang menjadi CEO kepada hotel itu eh.
-
-**Rafizi:** Jadi dia tunjukkan semua. Daripada sini kita boleh kira lah, dia tunjukkan tempahan hotel. Yang ini yang saya kata dia, dia memperbadankan satu syarikat di UK untuk menguruskan tetapi perlu membayar sewa kepada pemilik. Pemiliknya pada awalnya adalah sebuah syarikat BVI. Kan. Itu yang ada misteri kan. Jadi, analisis ringkas ke atas penyata pendapatan anak syarikat FELDA ini dengan mudah mengesahkan beberapa perkara eh. Satunya, perniagaannya untung daripada aktiviti perhotelan yang dijalankan. Dia ada keuntungan kasar. Keuntungan operasinya ada. Keseluruhan pendapatannya datang daripada aktiviti perhotelan eh. Tapi ada satu jumlah yang menyebabkan ia rugi disebabkan oleh bayaran sewa atau pajakan kepada pemilik hotel. Dan pemilik hotel itu dinamakan sebagai FIC London Hotel Private Limited lah kan. Saya pun mencari lah rekod korporat.
-
-**Rafizi:** Anak syarikat — kerana anda hendak memadankan. Yang FIC London Hotel (Private) Limited ini dalam laporan FELDA pun ada. Dalam laporan Grand Kensington yang merupakan anak syarikat FELDA ini pun ada membayar kepada satu syarikat bernama FIC London Hotel Private Limited. Jadi saya pergi carilah, dan diperbadankan di UK kalau ikut London kan, kalau ikut FELDA kan. Jadi pergi cari di UK, anda boleh cari mana-mana syarikat, semuanya awam.
-
-**Rafizi:** Jadi saya pergi cari kan. Tak jumpa.
+**Rafizi:** Luar pesisir, pusat kewangan luar pesisir, tempat orang membasuh wang haram. Maaf untuk katakan. Okey Jadi, saya ambil nota 49 itu, peristiwa penting itu. Pada 6 Mei 2015, Somelia Limited telah menukar nama kepada FIC London Hotel (Private) Limited. Dan FIC LH dimiliki sepenuhnya oleh FIC Sendirian Berhad. Maka, berdasarkan penyata-penyata kewangan yang diaudit ini, kita termasuklah saya pada masa itu menerima bulat-bulat bahawa Hotel Grand Plaza Kensington yang menelan belanja 330 juta wang peneroka FELDA itu adalah milik peneroka juga, milik FELDA juga kan. Ramai yang tidak tahu bahawa anak-anak syarikat FELDA di seluruh dunia sebenarnya tidak diaudit oleh Ketua Audit Negara. Ha, jadi memang Ketua Audit Negara tidak, kerana ia komersial, dia tidak audit kan? Kemudian inilah bomnya kan. FIC London Hotel (Private) Limited, syarikat UK milik penuh FIC itu, setakat saya membuat kenyataan media ini sebenarnya tidak wujud. Ia dimasukkan ke dalam penyata kewangan diaudit semua. Saya menghabiskan masa 48 jam lalu membina kembali aliran wang dari setiap syarikat untuk memastikan ia benar-benar kembali kepada FELDA. Walaupun FELDA dan pihak berkuasa di Malaysia langsung tidak memberi sebarang maklumat. Ada maklumat-maklumat yang kita boleh kumpulkan daripada penyata-penyata kewangan anak-anak syarikat FELDA di UK kan. Jadi anak syarikat milik penuh FELDA di UK yang mengendalikan hotel Grand Plaza Kensington adalah sebuah syarikat yang bernama Grand Plaza Kensington Limited. Jadi saya sertakan penyata kewangan mereka setakat 31 Disember 2016 lah. Pengarah-pengarahnya adalah Tan Sri Isa Samad, Datuk Hanafi Suhada, bekas pengarah besar FELDA pada masa itu, dan seorang yang bernama Muhammad Jeffrey yang menjadi CEO kepada hotel itu Jadi dia tunjukkan semua. Daripada sini kita boleh kira lah, dia tunjukkan tempahan hotel. Yang ini yang saya kata dia, dia memperbadankan satu syarikat di UK untuk menguruskan tetapi perlu membayar sewa kepada pemilik. Pemiliknya pada awalnya adalah sebuah syarikat BVI. Kan. Itu yang ada misteri kan. Jadi, analisis ringkas ke atas penyata pendapatan anak syarikat FELDA ini dengan mudah mengesahkan beberapa perkara Satunya, perniagaannya untung daripada aktiviti perhotelan yang dijalankan. Dia ada keuntungan kasar. Keuntungan operasinya ada. Keseluruhan pendapatannya datang daripada aktiviti perhotelan Tapi ada satu jumlah yang menyebabkan ia rugi disebabkan oleh bayaran sewa atau pajakan kepada pemilik hotel. Dan pemilik hotel itu dinamakan sebagai FIC London Hotel Private Limited lah kan. Saya pun mencari lah rekod korporat. Anak syarikat — kerana anda hendak memadankan. Yang FIC London Hotel (Private) Limited ini dalam laporan FELDA pun ada. Dalam laporan Grand Kensington yang merupakan anak syarikat FELDA ini pun ada membayar kepada satu syarikat bernama FIC London Hotel Private Limited. Jadi saya pergi carilah, dan diperbadankan di UK kalau ikut London kan, kalau ikut FELDA kan. Jadi pergi cari di UK, anda boleh cari mana-mana syarikat, semuanya awam. Jadi saya pergi cari kan. Tak jumpa.
 
 **Haziq:** Tak jumpa.
 
-**Rafizi:** Tak ada. Company tu tak ada. So aku ingat aku salah. Aku cari-cari tak jumpa.
+**Rafizi:** Tak ada. Company tu tak ada. So aku ingat aku salah. Aku cari-cari tak jumpa. Dalam report FELDA dia kata. Dalam report FELDA ada. Company tu ada. Ha. So tak ada. Aku macam okey. Masa tu aku tarik nafas panjanglah. Siapalah auditor ni? Minta maaflah kan auditor-auditor. Nasihat saya pada Big Four yang duk audit besar-besar ni kan. Dia memang seronok jadi partner, jadi best semua ni, orang hormat kan. Tapi bila jadi macam ini, macam mana kau nak jawab? Benda simple. Kalau aku auditor, aku check tau. Ni UK, aku pergi check. Company tu tak wujud. Then the moment dia red flag company tu tak wujud, then kau. Itu yang orang kata forensic auditing lah kan. Tapi ia jelas lulus kan. Dalam kertas putih kemudian barulah EY beritahulah ha yang ini ada, ada company yang di luar, ada third party semua ni kan. Okey ya. So daripada sini sebenarnya bukanlah aku tahu. Kau trace, trace, trace, trace. Memang tak ada. Dan then from there aku cari tak. Pergi ke Google pun memang tak ada. Cuma cari, cari, cari kan, ada satu company tau. Nama dia sama. FIC London Hotel dalam kurungan Private Limited. Tapi guess what? Ia adalah syarikat BVI. Yalah, itu yang kau cakap tu. So maksudnya benda ni premeditated dan dirancang. Kita kalau kita ada company yang berlainan, kita make sure kan nama dia lain-lain so as not to confuse. Ini memang premeditated. Dia tubuh satu company di London dan di BVI yang nama sana sama, nama sama tapi is a different company.
 
-**Rafizi:** Dalam report FELDA dia kata.
+**Haziq:** Macam 1MDB sikit
 
-**Rafizi:** Dalam report FELDA ada.
+**Rafizi:** 1MDB pun tak buat macam ni. Sebab 1MDB paling kurang dia pakai nama, nama yang jolo sendirilah. Brazen Sky ke apa semua. Ini memang oh hebatlah. Maksudnya dia boleh terfikir dan dia rasa mereka boleh terlepas dengan itu. Pa'an nak tanya?
 
-**Rafizi:** Company tu ada. Ha. So tak ada. Aku macam okey.
+**Farhan (Pa'an):** Tak tak. Dump Truck.
 
-**Rafizi:** Masa tu aku tarik nafas panjanglah. Siapalah auditor ni? Minta maaflah kan auditor-auditor. Nasihat saya pada Big Four yang duk audit besar-besar ni kan. Dia memang seronok jadi partner, jadi best semua ni, orang hormat kan. Tapi bila jadi macam ini, macam mana kau nak jawab?
-
-**Rafizi:** Benda simple. Kalau aku auditor, aku check tau. Ni UK, aku pergi check. Eh, company tu tak wujud. Then the moment dia red flag company tu tak wujud, then kau. Itu yang orang kata forensic uh auditing lah kan. Tapi ia jelas lulus kan. Dalam kertas putih kemudian barulah EY um beritahulah ha yang ini ada, ada company yang di luar, ada third party semua ni kan. Okey ya. So daripada sini sebenarnya bukanlah aku tahu. Kau trace, trace, trace, trace. Memang tak ada. Dan then from there aku cari tak. Pergi ke Google pun memang tak ada.
-
-**Rafizi:** Um, cuma cari, cari, cari kan, ada satu company tau.
-
-**Rafizi:** Nama dia sama. FIC London Hotel dalam kurungan Private Limited. Tapi guess what? Ia adalah syarikat BVI.
-
-**Rafizi:** Yalah, itu yang kau cakap tu.
-
-**Rafizi:** So maksudnya benda ni premeditated dan dirancang.
-
-**Rafizi:** Kita kalau kita ada company yang berlainan, kita make sure kan nama dia lain-lain so as not to confuse. Ini memang premeditated. Dia tubuh satu company di London dan di BVI yang nama sana sama, nama sama tapi is a different company.
-
-**Haziq:** Macam 1MDB sikit eh.
-
-**Rafizi:** 1MDB pun tak buat macam ni.
-
-**Rafizi:** Sebab 1MDB paling kurang dia pakai nama, nama yang jolo sendirilah. Brazen Sky ke apa semua. Ini memang oh hebatlah. Maksudnya dia boleh terfikir dan dia rasa mereka boleh terlepas dengan itu.
-
-**Rafizi:** Hmm. Pa'an nak tanya?
-
-**Farhan (Pa'an):** Tak tak. Uh, Dump Truck.
-
-**Rafizi:** Hmm. Ha. Okey ah? Okey.
-
-**Rafizi:** So daripada situ aku cakap, beraninya dia orang ni.
-
-**Rafizi:** So aku macam, uh, takkan kot. Takkan sebegitu berani. Kau cipta dua syarikat dan then kau mislead FELDA, auditor semua ni kata company ni UK semua. Tapi sebenarnya company tu tak wujud. Company yang sebenar tu BVI yang bukan milik FELDA. So from there aku pun cakap, eh dah habis siapa pemilik hotel tu kan? Sebab duk bayar ni sampai berapa puluh juta ni kan. Aku pun pergi check. Seb- yang bagusnya UK ni kan. Do you know dekat UK, kau bayar saja 3 pound, kau boleh dapat geran apa-apa property.
-
-**Rafizi:** Ha. So aku pun bayar 3 pound. Masa tu lebih kurang 20 ringgit lah aku bayar kan. Aku pun pergi ambil geran untuk, ha tapi okey, it's not that easy. Aku cakap senang lah because kau kena dapatkan title number tu. Aku pun dah lupa macam mana aku pergi ambil title number ni kan. Tapi ada banyak research work connecting the dot. Aku finally dapat title number. So title number untuk, untuk property tu LN78344. Then kau lagi kantoi lah. Dapat maklumat baru sebab atas title tu dia kena uh register harga transaction. So harga transaction dia 45.9 million pounds. Registered to tada eh, registered to tada FIC London Hotel dalam kurungan Private Limited Incorporated in British Virgin Island. Then kau faham lah.
-
-**Rafizi:** Sebenarnya company yang kat London tu tak wujud. Company yang sebenar, yang FELDA pun tak tahu dan disahkan oleh white paper adalah syarikat BVI. Dan BVI company itulah yang um apa nama ni um uh mem-
-
-**Rafizi:** Miliki aset yang kononnya aset FELDA ini dan dia dicagarkan pula kepada Bangkok Bank, uh, dan pada masa yang sama harga dia 45.9 million, yang lebih rendah daripada apa yang FELDA bayar. So FELDA, so maksudnya lelaki ni, sesiapa pun mereka lah, yang inilah yang saya harap tolonglah, you know, uh, siasat kalau boleh bawa muka pengenalan, uh, pengadilan ke apa. Maksudnya, uh, in all likelihood dia berlaku macam ni no. Dia pergi beli atas nama dia ke apalah sebab dia owner company ni kan. Uh, so um uh dia beli daripada owner asal tu. Dia ambil bank, dia cagarkan uh kepada Bangkok Bank ni kan. Harga dia murahlah, 45.9 lah. Bukan murahlah, maksudnya itu harganya lah. So dia dah dapat ni, dia flip kepada FELDA. So nanti kita tengok berapa yang FELDA bayar kan. Perbezaan tu, ha yang itu yang untung atas angin lah.
-
-**Rafizi:** So dia bolehlah bagi alasan, oh tak, ini transition lah, saya guna nama saya dulu apa. Tapi bila ada price differential, you know kau flip. Kau tahu dah dia flip. Dia beli pakai financing dulu, bayar kat orang tu dah dapat jadi dia punya. Lepas tu dia flip, harga tinggi tu FELDA bayar, dia bayar bank. Dia keep yang beza. Eh, okey, kita terus. So kita dah letakkan geran semua. Orang ramai boleh tengok geran tu satu-satu nilai dia berapa, berapa dia beli, semua semua ada geran tu tau.
-
-**Rafizi:** Um, then yang saya nak, saya tanya kepada kerajaan masa ini, syarikat tu tak wujud. So kau masukkan syarikat yang tak wujud. FELDA telah masukkan syarikat yang tak wujud di dalam penyata kewangan FELDA yang diaudit. Tiada siapa yang dapat sahkan siapa pemilik sebenar FIC London Hotel Private Limited BVI ini. Uh, kan? Jadi um, um dan bila kita tengok,
-
-**Rafizi:** uh, ini yang dia flip tu kan. Harga yang dibayar untuk membeli dan mendapat hak milik hotel ini kalau ikut geran ialah 45.9 juta pound pada 3- 13 Oktober 2014. Tapi yang diumumkan dan yang masuk dalam penyata semua ialah 60 juta pound. Jadi ada 90 juta yang sebenarnya ada orang dah sakau. Dalam white paper cakap apa?
-
-**Haziq:** Yap.
-
-**Rafizi:** Sabar je orang ramai. Sabar, sabar, sabar, sabar. Okey, kita, saya rasa the juicy bit tu yang yang itu dah dah dah cukup mengejutkan. Ada satu dua je lagi. Lepas tu kita bersuaralah. White paper cakap apa pasal ni tu?
+**Rafizi:** Ha. Okey ah? Okey. So daripada situ aku cakap, beraninya dia orang ni. So aku macam, takkan kot. Takkan sebegitu berani. Kau cipta dua syarikat dan then kau mislead FELDA, auditor semua ni kata company ni UK semua. Tapi sebenarnya company tu tak wujud. Company yang sebenar tu BVI yang bukan milik FELDA. So from there aku pun cakap, dah habis siapa pemilik hotel tu kan? Sebab duk bayar ni sampai berapa puluh juta ni kan. Aku pun pergi check. Seb- yang bagusnya UK ni kan. Do you know dekat UK, kau bayar saja 3 pound, kau boleh dapat geran apa-apa property. Ha. So aku pun bayar 3 pound. Masa tu lebih kurang 20 ringgit lah aku bayar kan. Aku pun pergi ambil geran untuk, ha tapi okey, it's not that easy. Aku cakap senang lah because kau kena dapatkan title number tu. Aku pun dah lupa macam mana aku pergi ambil title number ni kan. Tapi ada banyak research work connecting the dot. Aku finally dapat title number. So title number untuk, untuk property tu LN78344. Then kau lagi kantoi lah. Dapat maklumat baru sebab atas title tu dia kena register harga transaction. So harga transaction dia 45.9 million pounds. Registered to tada registered to tada FIC London Hotel dalam kurungan Private Limited Incorporated in British Virgin Island. Then kau faham lah. Sebenarnya company yang kat London tu tak wujud. Company yang sebenar, yang FELDA pun tak tahu dan disahkan oleh white paper adalah syarikat BVI. Dan BVI company itulah yang apa nama ni mem- Miliki aset yang kononnya aset FELDA ini dan dia dicagarkan pula kepada Bangkok Bank, dan pada masa yang sama harga dia 45.9 million, yang lebih rendah daripada apa yang FELDA bayar. So FELDA, so maksudnya lelaki ni, sesiapa pun mereka lah, yang inilah yang saya harap tolonglah, you know, siasat kalau boleh bawa muka pengenalan, pengadilan ke apa. Maksudnya, in all likelihood dia berlaku macam ni no. Dia pergi beli atas nama dia ke apalah sebab dia owner company ni kan. So dia beli daripada owner asal tu. Dia ambil bank, dia cagarkan kepada Bangkok Bank ni kan. Harga dia murahlah, 45.9 lah. Bukan murahlah, maksudnya itu harganya lah. So dia dah dapat ni, dia flip kepada FELDA. So nanti kita tengok berapa yang FELDA bayar kan. Perbezaan tu, ha yang itu yang untung atas angin lah. So dia bolehlah bagi alasan, oh tak, ini transition lah, saya guna nama saya dulu apa. Tapi bila ada price differential, you know kau flip. Kau tahu dah dia flip. Dia beli pakai financing dulu, bayar kat orang tu dah dapat jadi dia punya. Lepas tu dia flip, harga tinggi tu FELDA bayar, dia bayar bank. Dia keep yang beza. Okey, kita terus. So kita dah letakkan geran semua. Orang ramai boleh tengok geran tu satu-satu nilai dia berapa, berapa dia beli, semua semua ada geran tu tau. Then yang saya nak, saya tanya kepada kerajaan masa ini, syarikat tu tak wujud. So kau masukkan syarikat yang tak wujud. FELDA telah masukkan syarikat yang tak wujud di dalam penyata kewangan FELDA yang diaudit. Tiada siapa yang dapat sahkan siapa pemilik sebenar FIC London Hotel Private Limited BVI ini. Kan? Jadi dan bila kita tengok, ini yang dia flip tu kan. Harga yang dibayar untuk membeli dan mendapat hak milik hotel ini kalau ikut geran ialah 45.9 juta pound pada 3- 13 Oktober 2014. Tapi yang diumumkan dan yang masuk dalam penyata semua ialah 60 juta pound. Jadi ada 90 juta yang sebenarnya ada orang dah sakau. Dalam white paper cakap apa? Sabar je orang ramai. Sabar, sabar, sabar, sabar. Okey, kita, saya rasa the juicy bit tu yang yang itu dah dah dah cukup mengejutkan. Ada satu dua je lagi. Lepas tu kita bersuaralah. White paper cakap apa pasal ni tu?
 
 **Haziq:** Kelemahan tadbir urus.
 
-**Rafizi:** Dia ada cerita yang pasal pasal flipping semua ni.
+**Rafizi:** Dia ada cerita yang pasal pasal flipping semua ni. Aku tanya tu sebab aku nak bernafas kan.
 
-**Rafizi:** Hmm. Aku tanya tu sebab aku nak bernafas kan.
-
-**Haziq:** Jumpa pak kan?
-
-**Haziq:** Tak.
-
-**Haziq:** Dalam page 63 macam tu lah. Dia macam banyak kerugian lah, tapi.
+**Haziq:** Jumpa pak kan? Tak. Dalam page 63 macam tu lah. Dia macam banyak kerugian lah, tapi.
 
 **Rafizi:** Ha. Ke kau nak suruh aku cari ni?
 
 **Haziq:** Tak rasa dia bagi apa, cakap sebab flipping ke apa?
 
-**Rafizi:** Ke dia, dia hands in glove, dia tak nak cerita pasal flipping nanti jap eh.
+**Rafizi:** Ke dia, dia hands in glove, dia tak nak cerita pasal flipping nanti jap
 
 **Haziq:** Tapi memang dia kata ada price difference.
 
-**Rafizi:** Hmm. Ini Farah House yang Kensington mana? Kensington. Ha. Adalah ni korang. Kan ada lah okey. Page 10, page 19. Kes 7 pembelian Park City Grand Plaza Kensington 1.5.19 eh, September 2014. Uh, Lembaga Pengarah FIC meluluskan pembelian Park City, GPK lah dia panggil, pada Grand Plaza Kensington, GPK pada harga 60 juta. So confirm is 60 juta. Sedangkan dalam geran 45 juta kan. Semakan forensik mendapati bahawa tiada perjanjian jual beli yang ditandatangani oleh FIC atau anak syarikat FIC dengan pemilik asal untuk pembelian GPK, walaupun FIC telah membuat bayaran keseluruhan sebanyak 60 juta. Pembayaran tersebut dibuat dalam dua peringkat, iaitu bayaran pertama bla bla bla eh. Okey. Itu cara dia confirm yang kita cakap tadilah. Dia tak, ini bahasa kasar kita, dia flip. Itu ya. Tak ada perjanjian tu. Maksudnya perjanjian tu dengan entah siapa-siapa. Ha kan. Tapi yang bayarnya ialah FELDA kan.
-
-**Rafizi:** Mengikut rekod FIC, perjanjian yang digunakan untuk pembelian GPK adalah perjanjian jual beli aset, asset purchase agreement bertarikh 12 uh September di antara syarikat H dan syarikat I dengan harga 46 juta saja. Nampak? Yang confirm 45.9 juta yang dalam geran tu. So, itu mengesahkan juga yang aku cakap tu lah. Ada 90 juta yang hilang kan. Semakan forensik mendapati syarikat I, iaitu FIC Hotel London kurungan Private Limited BVI, adalah sebuah syarikat BVI yang dimiliki oleh seorang warganegara Malaysia. Pada 7 Oktober 2014, pemilik syarikat itu telah memindahkan saham syarikat I kepada 2 bekas pengarah FIC dengan harga 14 juta pound berdasarkan S&P bertarikh. Okay, apa itu 14 juta pound tu? Adakah itu perbezaannya?
+**Rafizi:** Ini Farah House yang Kensington mana? Kensington. Ha. Adalah ni korang. Kan ada lah okey. Page 10, page 19. Kes 7 pembelian Park City Grand Plaza Kensington 1.5.19 September 2014. Lembaga Pengarah FIC meluluskan pembelian Park City, GPK lah dia panggil, pada Grand Plaza Kensington, GPK pada harga 60 juta. So confirm is 60 juta. Sedangkan dalam geran 45 juta kan. Semakan forensik mendapati bahawa tiada perjanjian jual beli yang ditandatangani oleh FIC atau anak syarikat FIC dengan pemilik asal untuk pembelian GPK, walaupun FIC telah membuat bayaran keseluruhan sebanyak 60 juta. Pembayaran tersebut dibuat dalam dua peringkat, iaitu bayaran pertama bla bla bla Okey. Itu cara dia confirm yang kita cakap tadilah. Dia tak, ini bahasa kasar kita, dia flip. Itu ya. Tak ada perjanjian tu. Maksudnya perjanjian tu dengan entah siapa-siapa. Ha kan. Tapi yang bayarnya ialah FELDA kan. Mengikut rekod FIC, perjanjian yang digunakan untuk pembelian GPK adalah perjanjian jual beli aset, asset purchase agreement bertarikh 12 September di antara syarikat H dan syarikat I dengan harga 46 juta saja. Nampak? Yang confirm 45.9 juta yang dalam geran tu. So, itu mengesahkan juga yang aku cakap tu lah. Ada 90 juta yang hilang kan. Semakan forensik mendapati syarikat I, iaitu FIC Hotel London kurungan Private Limited BVI, adalah sebuah syarikat BVI yang dimiliki oleh seorang warganegara Malaysia. Pada 7 Oktober 2014, pemilik syarikat itu telah memindahkan saham syarikat I kepada 2 bekas pengarah FIC dengan harga 14 juta pound berdasarkan S&P bertarikh. Okay, apa itu 14 juta pound tu? Adakah itu perbezaannya?
 
 **Haziq:** Perbezaan.
 
-**Rafizi:** Ha, itulah cara dia cakap.
+**Rafizi:** Ha, itulah cara dia cakap. Ha. Berdasarkan S&P bertarikh 13 Oktober, walaupun saham syarikat hanya bernilai 5000 dolar sahaja, bekas pengarah FIC tersebut hanya memindah saham syarikat itu kepada FIC 8 bulan kemudian, iaitu pada 5 Jun 2015, selepas nama syarikat ditukar kepada FIC London Private Limited. Okey, yang itu dia akan datang sebab aku duk bergaduh pasal nama, tukar nama semua ni. Dia ambil masa — FELDA masa tu Syahrir Samad, Datuk Razali Ibrahim, Timbalan Menteri in charge FELDA kan. Mereka mengambil masa seminggu untuk membalas aku. Aku tiap-tiap hari tanya pasal nama semua ni. Bila akhirnya dia jawab, dia kata, "tak, tengok ni, nama dia memang dah ditukar kepada FELDA." Ya. Dia ambil masa untuk— Dia ambil masa untuk tukar nama tu. Aku duk tanya-tanya-tanya ni. Ha, dia tak jawab terus. Ha. So kan.
 
-**Rafizi:** Ha. Berdasarkan S&P bertarikh 13 Oktober, walaupun saham syarikat hanya bernilai 5000 dolar sahaja, bekas pengarah FIC tersebut hanya memindah saham syarikat itu kepada FIC 8 bulan kemudian, iaitu pada 5 Jun 2015, selepas nama syarikat ditukar kepada FIC London Private Limited. Okey, yang itu dia akan datang sebab aku duk bergaduh pasal nama, tukar nama semua ni. Dia ambil masa — FELDA masa tu Syahrir Samad, Datuk Razali Ibrahim, Timbalan Menteri in charge FELDA kan. Mereka mengambil masa seminggu untuk membalas aku. Aku tiap-tiap hari tanya pasal nama semua ni. Bila akhirnya dia jawab, dia kata, "Eh tak, tengok ni, nama dia memang dah ditukar kepada FELDA."
+**Farhan (Pa'an):** Apa reaksi orang ramai? Tak ada, public tak kisah pun. Jadi setakat ini hanya awak seorang yang membuat bising? Aku rasa mereka keliru sikit kot.
 
-**Rafizi:** Ya.
-
-**Rafizi:** Dia ambil masa untuk—
-
-**Rafizi:** Dia ambil masa untuk tukar nama tu. Aku duk tanya-tanya-tanya ni. Ha, dia tak jawab terus. Ha.
-
-**Rafizi:** So kan.
-
-**Farhan (Pa'an):** Apa reaksi orang ramai?
-
-**Farhan (Pa'an):** Tak ada, public tak kisah pun.
-
-**Farhan (Pa'an):** Jadi setakat ini hanya awak seorang yang membuat bising?
-
-**Farhan (Pa'an):** Aku rasa mereka keliru sikit kot.
-
-**Rafizi:** Tak, aku tak rasa orang kisah.
-
-**Rafizi:** Untuk berterus terang, aku tak rasa orang kisah. Sebab itu, kepada nasihat kepada orang ramai lah — perkhidmatan awam ni bukan sesuatu yang memberi ganjaran.
-
-**Rafizi:** Ha, kalau you tak corrupt, sebab duit you tak dapat. You terima potongan gaji yang besar, you tak boleh buat business. And then kalau you ikut semua ni pun, you dah cakap semua ni kan, orang tak peduli pun. Aku tak rasa orang betul-betul kisah sebenarnya, kan? Cuma macam-macam cerita Tabung Haji lah — aku ni lebih kepada buat exam accounting, macam ya. Jadi hakikatnya bagi aku secara peribadi, hakikat bahawa semua yang aku cakap itu dibuktikan betul — maksud aku, orang selalu cakap lah, "oh dia ni raja fitnah lah, dia ni semua kan." Well, aku sangat berhati-hati dengan apa yang aku nak cakap, sebab yalah aku tak nak dosa fitnah ke apa kan. So aku nak pastikan kalau aku cakap apa-apa tu betul-betul kan. Dan hakikat bahawa kalau benda ini dibuktikan macam ini, itu adalah satu tahap keselesaan yang aku ada — bahawa jika aku lihat sesuatu, dan kita betul-betul tumpu kepada disiplin untuk menyelusurinya, besar kemungkinan ia betul. Dan bila besar kemungkinan ia betul, ia adalah wajar untuk bertanya soalan, kerana itu tanggungjawab kau sebagai ahli parlimen, kan. Dan bagi aku lah, secara peribadi, ini tiada kaitan dengan apa rakyat nak fikir ke, orang nak kata apa, dia peduli ke tidak. Aku sudah lakukan tugasku.
-
-**Rafizi:** Dan aku akan bertanggungjawab atas itu lah. Jadi ini tepat pada sasaran, tau. Dan aku tulis panjang-panjang ni dalam apa ni, white paper ni, dia bagi dua perenggan saja. Okey, okey ya. Okey, jadi mari kita kembali dengan cepat. Okey ya. Terkejut, terkejut, kau akan sangka benda tu berlaku kat situ je.
-
-**Rafizi:** Pada 16 Oktober 2017 kan, aku dapati benda tu juga berlaku untuk ada dua lagi property.
-
-**Rafizi:** Kan? Hak milik pelaburan terbesar FELDA di London didaftarkan kepada syarikat offshore BVI, bukan anak syarikat FELDA eh. Jadi saya dah tunjuk — maksud saya saya dah tunjukkan kepada kau, minggu lepas saya dah tunjukkan pasal Grand Plaza Kensington, macam mana skim ni. Rupa-rupanya bila kita check, ada lagi berlaku.
-
-**Rafizi:** Kan? Jadi pelaburan hartanah terbesar FELDA ialah di Wembley, London.
-
-**Rafizi:** Dan kalau tengok ni, FELDA beli hartanah-hartanah yang sudah siap dibina melalui sebuah syarikat, iaitu FIC Global Limited.
-
-**Rafizi:** FELDA mula terbabit, bukan sahaja dia beli bangunan yang dah siap, dia nak buat bangunan pula kan. Jadi penyata kewangan FELDA, dia ada satu, 2015, ada satu subsidiary dia nama FIC Global Limited eh, 100% eh. Jadi kemudian kau boleh pergi dan check, sebenarnya dia dilaporkan secara besar-besaran. FELDA Hostel di Wembley, satu kejayaan besar. Ha, dalam laporan dalam The Star rasanya kan. Um.
-
-**Rafizi:** Kemudian, daripada laman-laman web yang mengiklankan hostel students. Dan kau boleh tengok, salah satu yang ditawarkan itu ialah FELDA House Wembley. Ada contact dia semua kat sini, ada bilik dia. Warna dia oren. Nasib baik bukan uh.
+**Rafizi:** Tak, aku tak rasa orang kisah. Untuk berterus terang, aku tak rasa orang kisah. Sebab itu, kepada nasihat kepada orang ramai lah — perkhidmatan awam ni bukan sesuatu yang memberi ganjaran. Ha, kalau you tak corrupt, sebab duit you tak dapat. You terima potongan gaji yang besar, you tak boleh buat business. And then kalau you ikut semua ni pun, you dah cakap semua ni kan, orang tak peduli pun. Aku tak rasa orang betul-betul kisah sebenarnya, kan? Cuma macam-macam cerita Tabung Haji lah — aku ni lebih kepada buat exam accounting, macam ya. Jadi hakikatnya bagi aku secara peribadi, hakikat bahawa semua yang aku cakap itu dibuktikan betul — maksud aku, orang selalu cakap lah, "oh dia ni raja fitnah lah, dia ni semua kan." Well, aku sangat berhati-hati dengan apa yang aku nak cakap, sebab yalah aku tak nak dosa fitnah ke apa kan. So aku nak pastikan kalau aku cakap apa-apa tu betul-betul kan. Dan hakikat bahawa kalau benda ini dibuktikan macam ini, itu adalah satu tahap keselesaan yang aku ada — bahawa jika aku lihat sesuatu, dan kita betul-betul tumpu kepada disiplin untuk menyelusurinya, besar kemungkinan ia betul. Dan bila besar kemungkinan ia betul, ia adalah wajar untuk bertanya soalan, kerana itu tanggungjawab kau sebagai ahli parlimen, kan. Dan bagi aku lah, secara peribadi, ini tiada kaitan dengan apa rakyat nak fikir ke, orang nak kata apa, dia peduli ke tidak. Aku sudah lakukan tugasku. Dan aku akan bertanggungjawab atas itu lah. Jadi ini tepat pada sasaran, tau. Dan aku tulis panjang-panjang ni dalam apa ni, white paper ni, dia bagi dua perenggan saja. Okey, okey ya. Okey, jadi mari kita kembali dengan cepat. Okey ya. Terkejut, terkejut, kau akan sangka benda tu berlaku kat situ je. Pada 16 Oktober 2017 kan, aku dapati benda tu juga berlaku untuk ada dua lagi property. Kan? Hak milik pelaburan terbesar FELDA di London didaftarkan kepada syarikat offshore BVI, bukan anak syarikat FELDA Jadi saya dah tunjuk — maksud saya saya dah tunjukkan kepada kau, minggu lepas saya dah tunjukkan pasal Grand Plaza Kensington, macam mana skim ni. Rupa-rupanya bila kita check, ada lagi berlaku. Kan? Jadi pelaburan hartanah terbesar FELDA ialah di Wembley, London. Dan kalau tengok ni, FELDA beli hartanah-hartanah yang sudah siap dibina melalui sebuah syarikat, iaitu FIC Global Limited. FELDA mula terbabit, bukan sahaja dia beli bangunan yang dah siap, dia nak buat bangunan pula kan. Jadi penyata kewangan FELDA, dia ada satu, 2015, ada satu subsidiary dia nama FIC Global Limited 100% Jadi kemudian kau boleh pergi dan check, sebenarnya dia dilaporkan secara besar-besaran. FELDA Hostel di Wembley, satu kejayaan besar. Ha, dalam laporan dalam The Star rasanya kan. Kemudian, daripada laman-laman web yang mengiklankan hostel students. Dan kau boleh tengok, salah satu yang ditawarkan itu ialah FELDA House Wembley. Ada contact dia semua kat sini, ada bilik dia. Warna dia oren. Nasib baik bukan
 
 **Haziq:** Kuning.
 
-**Rafizi:** Kuning. Okey. Jadi projek kedua yang disiapkan ialah projek kediaman pelajar yang dinamakan Grand FELDA House, di tapak yang sama, berharga 109 juta pound ataupun 656 juta eh. Jadi jumlah pelaburan FELDA di FELDA House dengan Grand FELDA House di Wembley ni adalah yang terbesar, iaitu 1 billion ringgit.
-
-**Rafizi:** Okey ya. Kemudian kau pergi kepada proses menyiasat kan. Jadi kau pergi check lah, siapa sebenarnya pemegang geran. Sekarang bahawa aku tahu aku boleh pergi dapat geran dah dengan bayar 3 pound ni, aku pergi cari geran untuk setiap property. Aku pergi check. Okey, FELDA House ni siapa dia? FELDA House ni tada — sama sebiji. Dia bukan geran ni, dia bukan apa nama ni, FIC Global Limited UK.
-
-**Rafizi:** Seperti yang dalam subsidiary yang FELDA tu.
+**Rafizi:** Kuning. Okey. Jadi projek kedua yang disiapkan ialah projek kediaman pelajar yang dinamakan Grand FELDA House, di tapak yang sama, berharga 109 juta pound ataupun 656 juta Jadi jumlah pelaburan FELDA di FELDA House dengan Grand FELDA House di Wembley ni adalah yang terbesar, iaitu 1 billion ringgit. Okey ya. Kemudian kau pergi kepada proses menyiasat kan. Jadi kau pergi check lah, siapa sebenarnya pemegang geran. Sekarang bahawa aku tahu aku boleh pergi dapat geran dah dengan bayar 3 pound ni, aku pergi cari geran untuk setiap property. Aku pergi check. Okey, FELDA House ni siapa dia? FELDA House ni tada — sama sebiji. Dia bukan geran ni, dia bukan apa nama ni, FIC Global Limited UK. Seperti yang dalam subsidiary yang FELDA tu.
 
 **Farhan (Pa'an):** FELDA.
 
-**Rafizi:** Dia sebenarnya FIC Global Limited BVI.
-
-**Rafizi:** Dan sama juga harga beli tu, 10 juta pound. Ha, 10 juta pound je.
-
-**Rafizi:** Ini semua flip, flip, flip, flip semua kan? Dan modus operandi sama — apa nama ni, pinjam duit daripada Bangkok Bank, bayar tuan punya asal tu 10 juta pound, flip kepada FELDA lah.
-
-**Rafizi:** Hmm. Kemudian aku rasa yalah, kita boleh sambung dan sambung. Semua bukti-bukti ada kat sini. Kesimpulannya, FELDA umumkan 380 juta belanja untuk siapkan FELDA House.
-
-**Rafizi:** FELDA melalui FIC menubuhkan anak syarikat milik penuh, FIC Management Houses Private Limited, untuk kutip sewa. Tapi hak milik FELDA House ni didaftarkan di sebuah syarikat BVI yang tidak diketahui pemiliknya.
-
-**Rafizi:** Dan modus operandi sama — ambil nama yang sebiji, sama macam nama syarikat di UK, tapi di BVI pemilik dia orang lain kan. Um, jadi benda ni pun sama juga kalau tengok dalam apa ni, dalam—
+**Rafizi:** Dia sebenarnya FIC Global Limited BVI. Dan sama juga harga beli tu, 10 juta pound. Ha, 10 juta pound je. Ini semua flip, flip, flip, flip semua kan? Dan modus operandi sama — apa nama ni, pinjam duit daripada Bangkok Bank, bayar tuan punya asal tu 10 juta pound, flip kepada FELDA lah. Kemudian aku rasa yalah, kita boleh sambung dan sambung. Semua bukti-bukti ada kat sini. Kesimpulannya, FELDA umumkan 380 juta belanja untuk siapkan FELDA House. FELDA melalui FIC menubuhkan anak syarikat milik penuh, FIC Management Houses Private Limited, untuk kutip sewa. Tapi hak milik FELDA House ni didaftarkan di sebuah syarikat BVI yang tidak diketahui pemiliknya. Dan modus operandi sama — ambil nama yang sebiji, sama macam nama syarikat di UK, tapi di BVI pemilik dia orang lain kan. Jadi benda ni pun sama juga kalau tengok dalam apa ni, dalam—
 
 **Farhan (Pa'an):** White pap—
 
@@ -2098,15 +734,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Farhan (Pa'an):** Halaman 63.
 
-**Rafizi:** Halaman 63 kan? Ha. Jadi kita pun nak kena cepat lah, dapat masa lebih kan. Okey. Yang ini saya nak kena sebut eh, sebab menarik eh. Ingat tak eh, uh, FELDA bayar hartanah Grand Plaza ni 180 juta, melebihi daripada nilai pasaran lah.
-
-**Rafizi:** So, kita dah go through semua ni kan. Kita dah sebut dia bayar lebih daripada harga pasaran. Kemudian geran tu sebenarnya syarikat lain, BVI, yang bukan syarikat dia kan. Kemudian ada satu lagi property yang tak sebut. Yang hari tu, tu Grand Kensington kan?
-
-**Rafizi:** Yang ni Grand Plaza. Dia yang lain lah ni.
+**Rafizi:** Halaman 63 kan? Ha. Jadi kita pun nak kena cepat lah, dapat masa lebih kan. Okey. Yang ini saya nak kena sebut sebab menarik Ingat tak FELDA bayar hartanah Grand Plaza ni 180 juta, melebihi daripada nilai pasaran lah. So, kita dah go through semua ni kan. Kita dah sebut dia bayar lebih daripada harga pasaran. Kemudian geran tu sebenarnya syarikat lain, BVI, yang bukan syarikat dia kan. Kemudian ada satu lagi property yang tak sebut. Yang hari tu, tu Grand Kensington kan? Yang ni Grand Plaza. Dia yang lain lah ni.
 
 **Farhan (Pa'an):** Kensington juga?
 
-**Rafizi:** Tak, tak, yang lain. Grand Plaza. Grand uh.
+**Rafizi:** Tak, tak, yang lain. Grand Plaza. Grand
 
 **Farhan (Pa'an):** Dia ada Grand Plaza Kensington dengan Grand Plaza Service Apartment.
 
@@ -2114,59 +746,27 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Farhan (Pa'an):** Service apartment.
 
-**Rafizi:** Ha kan. So yang ini dia jual, dia beli pada harga, apa nama ni, uh, 180 juta, melebihi harga pasaran. Dan pada 21 Julai 2017, Tan Sri Shahrir Samad mengesahkan Grand Plaza Service Apartment yang kita duk cakap tadi pun tidak disiasat pun oleh SPRM.
+**Rafizi:** Ha kan. So yang ini dia jual, dia beli pada harga, apa nama ni, 180 juta, melebihi harga pasaran. Dan pada 21 Julai 2017, Tan Sri Shahrir Samad mengesahkan Grand Plaza Service Apartment yang kita duk cakap tadi pun tidak disiasat pun oleh SPRM. So yang ini sama, bila dia beli Grand Plaza Hotel semua ni — sekarang senang je, kau dapatkan nombor geran, kemudian kau tengok berapa dia beli, kemudian tengok berapa FELDA bayar. So ambil contoh hak milik Grand Plaza Service Apartment ni, FELDA bayar 95.65 juta pound, bersamaan 538 juta, kepada sebuah syarikat bernama Lamway Properties Tapi, bila kita check Lamway Properties punya penyata kewangan — sebab dia jual kepada, yalah, FELDA kononnya kan. So yang dia jual tu mesti direkod dalam penyata kewangan dia kan? Bila kita tengok — tengok jap — dia tunjukkan keuntungan daripada jualan aset ketara. Keuntungan yang dijual tu sampai 30 juta pound. Ha. So maksudnya, nilai buku bersih ataupun nilai saksama Grand Plaza Service Apartment tu sebenarnya 56.8 juta je. Ya. Itu yang jadi 180 juta tambahan, jadi sebab bayar 30 juta lebih.
 
-**Rafizi:** So yang ini sama, bila dia beli Grand Plaza Hotel semua ni — sekarang senang je, kau dapatkan nombor geran, kemudian kau tengok berapa dia beli, kemudian tengok berapa FELDA bayar. So ambil contoh hak milik Grand Plaza Service Apartment ni, FELDA bayar 95.65 juta pound, bersamaan 538 juta, kepada sebuah syarikat bernama Lamway Properties eh. Tapi, bila kita check Lamway Properties punya penyata kewangan — sebab dia jual kepada, yalah, FELDA kononnya kan.
+**Haziq:** Sakau. Sakau lagi.
 
-**Rafizi:** So yang dia jual tu mesti direkod dalam penyata kewangan dia kan?
-
-**Rafizi:** Bila kita tengok — tengok jap eh — dia tunjukkan keuntungan daripada jualan aset ketara. Keuntungan yang dijual tu sampai 30 juta pound. Ha. So maksudnya, nilai buku bersih ataupun nilai saksama Grand Plaza Service Apartment tu sebenarnya 56.8 juta je.
-
-**Haziq:** Ya.
-
-**Rafizi:** Ya. Itu yang jadi 180 juta tambahan, jadi sebab bayar 30 juta lebih.
-
-**Haziq:** Sakau.
-
-**Haziq:** Hmm. Sakau lagi.
-
-**Rafizi:** Okey, yang paling menarik ialah ini. Sebab itu saya pelik lah kenapa lah benda ni sampai jadi macam ni kat kita rakyat Malaysia. Sebab semua ni boleh Google kan. Jadi, semasa saya menyelidik lebih lanjut, saya terjumpa satu laporan.
-
-**Rafizi:** SPRM sepatutnya, masa tahun 2017 ni, masa ni saya bengkak dengan SPRM lah. Sebab SPRM mengikut Tan Sri Shahrir Samad dah rule out tiada rasuah dalam Grand Plaza Service Apartment ni, tidak disiasat. Jadi saya pun pergi semak lah, macam mana transaksi ni berlaku. Ada berita, memang dah ada kes mahkamah pun pasal Grand Plaza Service Apartment di UK ni.
-
-**Rafizi:** Sebab pemilik yang beli, yang FELDA beli tu, Lamway Properties, dituduh melanggar perjanjian apabila menjual hartanah itu kepada FELDA pada harga 98 juta, sedangkan ia telah dijual kepada syarikat lain pada harga 80 juta. Sama macam Peter Sondakh juga — kalau Peter Sondakh, saham tu dah dicagar.
-
-**Rafizi:** Yang ini, dia dah jual kepada orang lain. Dan kemudian dia jual — jadi dia tidak menunaikan, bila kemungkinan besar bila FELDA ataupun orang
+**Rafizi:** Okey, yang paling menarik ialah ini. Sebab itu saya pelik lah kenapa lah benda ni sampai jadi macam ni kat kita rakyat Malaysia. Sebab semua ni boleh Google kan. Jadi, semasa saya menyelidik lebih lanjut, saya terjumpa satu laporan. SPRM sepatutnya, masa tahun 2017 ni, masa ni saya bengkak dengan SPRM lah. Sebab SPRM mengikut Tan Sri Shahrir Samad dah rule out tiada rasuah dalam Grand Plaza Service Apartment ni, tidak disiasat. Jadi saya pun pergi semak lah, macam mana transaksi ni berlaku. Ada berita, memang dah ada kes mahkamah pun pasal Grand Plaza Service Apartment di UK ni. Sebab pemilik yang beli, yang FELDA beli tu, Lamway Properties, dituduh melanggar perjanjian apabila menjual hartanah itu kepada FELDA pada harga 98 juta, sedangkan ia telah dijual kepada syarikat lain pada harga 80 juta. Sama macam Peter Sondakh juga — kalau Peter Sondakh, saham tu dah dicagar. Yang ini, dia dah jual kepada orang lain. Dan kemudian dia jual — jadi dia tidak menunaikan, bila kemungkinan besar bila FELDA ataupun orang
 
 **Haziq:** Lagi ni.
 
-**Rafizi:** — scammer, orang di belakang ni tawarkan lebih tinggi. Jadi dia tidak menunaikan apa yang dia dah tandatangan dalam perjanjian tu.
-
-**Rafizi:** Dan kemudian, untuk dijadikan cerita, yang nak beli tu pula adalah seorang chef selebriti, Marco Pierre White. Jadi ada berita ni: "Rakan kongsi perniagaan terdahulu Chef Marco Pierre White menghadapi pertikaian undang-undang bernilai £6.5 juta selepas dituduh membuat dakwaan palsu berkenaan sebuah blok flat." Nama lelaki tu Bruce Ritchie. Ritchie, yang mendakwa dirinya pemilik hartanah persendirian terbesar di London, dituduh menarik diri daripada perjanjian menjual hartanah tersebut dengan harga 80 juta, sebaliknya menjualnya dengan harga 98 juta
-
-**Rafizi:** kepada orang lain. Huh. Jutawan hartanah dari Florida, Dr. Anthony Ivankovic, anaknya Anthony, dan syarikat mereka Alliance Holdings menghabiskan berbulan-bulan berunding untuk membeli service flats di Grand Plaza tersebut. Pada bulan Julai, Ritchie berkata dia menarik diri daripada jualan itu, dan sebaliknya menjual blok service apartment tersebut kepada syarikat Malaysia, FIC UK Properties Sendirian Berhad, dengan harga 98 juta pound. Okey eh. Jadi saya rasa dah sampai kat situ lah kot. Kemudian yang lain-lain, saya rasa kita berhenti kat situ. Sebabnya begini — sebenarnya ada banyak lagi siri tu. Bila saya mula tunjukkan sebenarnya aset-aset ni semua, jadi mereka kelam-kabut. Seminggu, dua minggu mereka tak menjawab lah. Jadi lepas seminggu, dua minggu tu, barulah Tan Sri Shahrir Samad dan juga Datuk Razali Ibrahim tunjukkan, "eh tak, ini sijil pendaftaran." Memang didaftarkan atas nama FELDA. Cuma saya nyatakan, sebenarnya tarikh pendaftaran dia tu lambat. Jadi tarikh pendaftaran tu selepas daripada tu lah. Tengok eh. Okey, sijil saham dan pendaftaran FIC London Hotel yang dipegang Datuk Razali tu sebenarnya bertarikh 13 Oktober 2017.
-
-**Rafizi:** Ha eh. Pada sidang media itu — ini laporan dalam Sinar tau.
-
-**Rafizi:** Ha. Uh, sebab bila saya tanya berterusan tu dalam awal-awal Oktober tu, hanya pada 23 Oktober 2017 barulah FELDA buat kenyataan. FLH, FGL milik FELDA Investment — FELDA Investment Corporation, FIC — mengesahkan kedua-dua syarikat FIC London Hotel Private Limited (FLH) dan FIC Global Limited (FGL), yang didaftarkan di British Virgin Islands, merupakan hak milik FIC sepenuhnya. Okey ya. Tapi pada masa yang sama, dia tak keluarkan secara terbuka tau. Dia tak ada isukan kepada media pun. Dia tunjuk sijil saja.
-
-**Rafizi:** Jadi tiada siapa yang ada salinan itu secara terbuka pada masa itu. Jadi saya ingat jam saya — shit, mungkin saya salah. Terima kasih Sinar, terima kasih Sinar sebab wartawan Sinar ni bagus tau, mungkin dia faham. Dia kata: pada sidang media itu, Razali turut menunjukkan sijil pendaftaran syarikat tersebut bertarikh 13 Oktober 2017.
-
-**Rafizi:** Sebagai bukti tuduhan.
+**Rafizi:** — scammer, orang di belakang ni tawarkan lebih tinggi. Jadi dia tidak menunaikan apa yang dia dah tandatangan dalam perjanjian tu. Dan kemudian, untuk dijadikan cerita, yang nak beli tu pula adalah seorang chef selebriti, Marco Pierre White. Jadi ada berita ni: "Rakan kongsi perniagaan terdahulu Chef Marco Pierre White menghadapi pertikaian undang-undang bernilai £6.5 juta selepas dituduh membuat dakwaan palsu berkenaan sebuah blok flat." Nama lelaki tu Bruce Ritchie. Ritchie, yang mendakwa dirinya pemilik hartanah persendirian terbesar di London, dituduh menarik diri daripada perjanjian menjual hartanah tersebut dengan harga 80 juta, sebaliknya menjualnya dengan harga 98 juta kepada orang lain. Huh. Jutawan hartanah dari Florida, Dr. Anthony Ivankovic, anaknya Anthony, dan syarikat mereka Alliance Holdings menghabiskan berbulan-bulan berunding untuk membeli service flats di Grand Plaza tersebut. Pada bulan Julai, Ritchie berkata dia menarik diri daripada jualan itu, dan sebaliknya menjual blok service apartment tersebut kepada syarikat Malaysia, FIC UK Properties Sendirian Berhad, dengan harga 98 juta pound. Okey Jadi saya rasa dah sampai kat situ lah kot. Kemudian yang lain-lain, saya rasa kita berhenti kat situ. Sebabnya begini — sebenarnya ada banyak lagi siri tu. Bila saya mula tunjukkan sebenarnya aset-aset ni semua, jadi mereka kelam-kabut. Seminggu, dua minggu mereka tak menjawab lah. Jadi lepas seminggu, dua minggu tu, barulah Tan Sri Shahrir Samad dan juga Datuk Razali Ibrahim tunjukkan, "tak, ini sijil pendaftaran." Memang didaftarkan atas nama FELDA. Cuma saya nyatakan, sebenarnya tarikh pendaftaran dia tu lambat. Jadi tarikh pendaftaran tu selepas daripada tu lah. Tengok Okey, sijil saham dan pendaftaran FIC London Hotel yang dipegang Datuk Razali tu sebenarnya bertarikh 13 Oktober 2017. Ha Pada sidang media itu — ini laporan dalam Sinar tau. Ha. Sebab bila saya tanya berterusan tu dalam awal-awal Oktober tu, hanya pada 23 Oktober 2017 barulah FELDA buat kenyataan. FLH, FGL milik FELDA Investment — FELDA Investment Corporation, FIC — mengesahkan kedua-dua syarikat FIC London Hotel Private Limited (FLH) dan FIC Global Limited (FGL), yang didaftarkan di British Virgin Islands, merupakan hak milik FIC sepenuhnya. Okey ya. Tapi pada masa yang sama, dia tak keluarkan secara terbuka tau. Dia tak ada isukan kepada media pun. Dia tunjuk sijil saja. Jadi tiada siapa yang ada salinan itu secara terbuka pada masa itu. Jadi saya ingat jam saya — shit, mungkin saya salah. Terima kasih Sinar, terima kasih Sinar sebab wartawan Sinar ni bagus tau, mungkin dia faham. Dia kata: pada sidang media itu, Razali turut menunjukkan sijil pendaftaran syarikat tersebut bertarikh 13 Oktober 2017. Sebagai bukti tuduhan.
 
 **Haziq:** Sinar melaporkan.
 
-**Rafizi:** Ha. Semua transaksi ni berlaku 2015, 2014.
-
-**Rafizi:** Jadi bila dinyatakan, dinyatakan, dalam tempoh seminggu lebih tu, mereka terpaksa pergi tubuhkan syarikat ni, buat apa saja, dan tunjukkan ia milik mereka. Tapi anda tidak boleh berbohong lah kerana ini berlaku selepas peristiwa kan.
+**Rafizi:** Ha. Semua transaksi ni berlaku 2015, 2014. Jadi bila dinyatakan, dinyatakan, dalam tempoh seminggu lebih tu, mereka terpaksa pergi tubuhkan syarikat ni, buat apa saja, dan tunjukkan ia milik mereka. Tapi anda tidak boleh berbohong lah kerana ini berlaku selepas peristiwa kan.
 
 **Haziq:** Kata busuk.
 
-**Rafizi:** Ha kan. Ha okey. Kemudian saya rasa nak yang terakhir sekali, muka surat terakhir lah kita eh. Muka surat terakhir ni tak ada yang.
+**Rafizi:** Ha kan. Ha okey. Kemudian saya rasa nak yang terakhir sekali, muka surat terakhir lah kita Muka surat terakhir ni tak ada yang.
 
 **Haziq:** YB ada dedahkan yang bayaran eksklusiviti ke untuk apartmen hartanah ni?
 
-**Rafizi:** Tak ada eksklusi- uh, ya ya, ada kot.
+**Rafizi:** Tak ada eksklusi- ya ya, ada kot.
 
 **Haziq:** Sebab dia dalam apa ni, kertas putih pun ada juga.
 
@@ -2174,15 +774,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Maksudnya, pengurusan FELDA membuat pembayaran 980,000 pound British untuk penempahan atau jaminan tempoh eksklusif yang ditetapkan berikutan perjanjian eksklusiviti bagi pembelian service apartment tersebut tanpa kelulusan Lembaga Pengarah FELDA. Pembayaran tersebut tidak boleh diperoleh semula jika FELDA tidak meneruskan pembelian tersebut. Macam yang awal-awal tu.
 
-**Rafizi:** Ha. Baiklah, saya rasa okey, ada lagi lah. Ada satu siri isu — tapi kita dah lambat sangat kan — satu siri isu yang berkaitan KL Vertical City.
-
-**Haziq:** Ah, ya, ya.
-
-**Rafizi:** Tapi yang itu tak apa lah. Saya rasa kalau kita habiskan ni, 5 jam lah kan. Jadi kita nak berhenti kat situ lah. Kita dah berapa jam?
-
-**Rafizi:** Kita 3 jam 50 minit.
-
-**Rafizi:** 4 jam kau, gila kau. Jadi kalau kita mula, kita kena mula.
+**Rafizi:** Ha. Baiklah, saya rasa okey, ada lagi lah. Ada satu siri isu — tapi kita dah lambat sangat kan — satu siri isu yang berkaitan KL Vertical City. Tapi yang itu tak apa lah. Saya rasa kalau kita habiskan ni, 5 jam lah kan. Jadi kita nak berhenti kat situ lah. Kita dah berapa jam? Kita 3 jam 50 minit. 4 jam kau, gila kau. Jadi kalau kita mula, kita kena mula.
 
 **Farhan (Pa'an):** Episod paling panjang.
 
@@ -2190,51 +782,18 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Langkah ke hadapan, YB.
 
-**Rafizi:** Langkah ke hadapan, awak tahu apa? Mungkin kita bincang dengan Putihan.
-
-**Rafizi:** Ha, ada lagi episod.
-
-**Rafizi:** Ada lagi episod.
-
-**Rafizi:** Ha ya.
-
-**Rafizi:** Kita tengok, kita tengok dulu apa yang orang lain cakap kan? Kemudian kita bincang.
-
-**Rafizi:** Kita sambung semula ni minggu depan.
-
-**Rafizi:** Sambung semula minggu depan lah.
+**Rafizi:** Langkah ke hadapan, awak tahu apa? Mungkin kita bincang dengan Putihan. Ha, ada lagi episod. Ada lagi episod. Ha ya. Kita tengok, kita tengok dulu apa yang orang lain cakap kan? Kemudian kita bincang. Kita sambung semula ni minggu depan. Sambung semula minggu depan lah.
 
 **Farhan (Pa'an):** Sebab saya pasti selepas komen awak ni mesti ada orang-orang komen.
 
 **Haziq:** Dan mulai minggu depan akan ada tangkapan.
 
-**Rafizi:** Ha. Kita tengok macam mana.
+**Rafizi:** Ha. Kita tengok macam mana. Kita tengok macam mana. Ya, ya, ya. Jadi buat masa sekarang, boleh baca dekat blog saya, kertas putih semua. Kemudian saya penat sebab dah 4 jam kan. Jadi kita tutup di sini lah.
 
-**Rafizi:** Kita tengok macam mana.
-
-**Rafizi:** Ya, ya, ya.
-
-**Rafizi:** Jadi buat masa sekarang, boleh baca dekat blog saya, kertas putih semua. Kemudian saya penat sebab dah 4 jam kan. Jadi kita tutup di sini lah.
-
-**Haziq:** Okey, itu saja.
-
-**Haziq:** Terima kasih banyak YB.
-
-**Haziq:** Kita akan sambung lagi.
-
-**Haziq:** Sebab YB pun asalnya ada rancangan untuk beritahu macam mana model yang lebih sustainable. Tapi kita akan cakap. Jumpa minggu depan lah.
+**Haziq:** Okey, itu saja. Terima kasih banyak YB. Kita akan sambung lagi. Sebab YB pun asalnya ada rancangan untuk beritahu macam mana model yang lebih sustainable. Tapi kita akan cakap. Jumpa minggu depan lah.
 
 **Rafizi:** Jumpa minggu depan. Jumpa minggu depan. Saya rasa macam ni lah. Jumpa minggu depan.
 
-**Haziq:** Okey.
+**Haziq:** Okey. Jumpa minggu depan. Selamat malam.
 
-**Haziq:** Jumpa minggu depan.
-
-**Haziq:** Selamat malam.
-
-**Rafizi:** Okey, terima kasih.
-
-**Rafizi:** Pukul satu pagi.
-
-**Rafizi:** Assalamualaikum.
-
+**Rafizi:** Okey, terima kasih. Pukul satu pagi. Assalamualaikum.

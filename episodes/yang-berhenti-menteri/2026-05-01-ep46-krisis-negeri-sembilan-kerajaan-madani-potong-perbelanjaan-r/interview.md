@@ -101,9 +101,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 
 **Wan Afiq:** Harapnya tidak lah kan. Ni yang mana ni, ni waktu demo hari tu — dia, wartawan tanya dia, tak pergi demo ke? Dia kata dia tak dijemput.
 
-**Multiple speakers:** Kenapa muka dia macam Jamal Abdillah? Haa... itu faham... nak... tanya.
-
-**Multiple speakers:** Saya minta dia share skincare... rutin... dia.
+**Multiple speakers:** Kenapa muka dia macam Jamal Abdillah? Haa... itu faham... nak... tanya. Saya minta dia share skincare... rutin... dia.
 
 **Rafizi:** Nampak berbeza lah, nampak muda sikit. Korang dah selalu kutuk mata dia merah, terus dia pakai shade — sorry, tak nampak mata dah. Tapi dia bergaya tu. Tak ada, ni apa dia — "Saya tak akan berhimpun di hadapan Sogo selepas tamat perkhidmatan." Ni sebab apa orang tanya dia, dia join demo...
 

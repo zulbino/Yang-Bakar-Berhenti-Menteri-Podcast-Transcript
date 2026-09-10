@@ -622,6 +622,21 @@ English stage must LOSE Malay density (ceiling 0.30) or it did not translate; th
 must keep it. `--write` refuses while any segment of any stage has no accepted file.
 `--instructions` appends owner facts to the prompt, such as ep62's two title corrections.
 
+**The published interview reads like newspaper copy** (owner's rule, 2026-09-10;
+`clean_interview.py`, applied inside `--write` and runnable on any episode). Three closed-lexicon
+edits: a turn that is only an acknowledgement, grunt or laugh is dropped ("Ya.", "Okey.",
+"Hmm."; "2.3 billion." and "Koperasi?" carry information and stay); filler tokens are removed
+inside a turn ("Uh,", "Um.", "Aaa", "Eh,") with the next word capitalised when the filler opened
+the sentence; a speaker's consecutive turns become one paragraph (`merge_adjacent_turns.py`).
+Every removed word must be in the lexicons and the rest is asserted identical. On ep62's
+first output: 1,100 turns -> 382, 49 retort turns, 678 filler words. The prompt asks for the
+same, so the post-process should have little to do; it is the guarantee, not the method.
+
+**raw.md is the verbatim layer, minus grunts.** `strip_filler_turns.py` runs on raw.md too
+(ep62: 1,689 -> 1,145 blocks, all 27,903 content words unchanged): the owner's standing rule
+is that grunts, laughs and retorts that add nothing leave even the verbatim file. Answers stay
+-- its lexicon has no "Ya", "Okey" or "Betul".
+
 **What ep62 measured (ENGINEERING_LOG 2.12).** Model: Sonnet, at about $0.10 a segment with
 lib_claude_rewrite's flags; gemini-flash-lite passed every gate by copying the input 99%
 word-for-word and was dropped, Haiku translated the Malay away. 78 segment outputs, all

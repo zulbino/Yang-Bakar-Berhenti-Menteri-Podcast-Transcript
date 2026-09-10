@@ -41,15 +41,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Okay, baik YB. Cuti panjang, YB buat apa? Cuti?
 
-**Rafizi:** Haa, yelah. Saja je, nak bagitahu orang. Hari... jom, apa ni? Hari Sabtu esok ni, hari Sabtu di Melaka, kenduri, kemudian ceramah.
-
-**Rafizi:** Kemudian hari Ahad di mana? Di Puchong.
+**Rafizi:** Haa, yelah. Saja je, nak bagitahu orang. Hari... jom, apa ni? Hari Sabtu esok ni, hari Sabtu di Melaka, kenduri, kemudian ceramah. Kemudian hari Ahad di mana? Di Puchong.
 
 **Haziq:** Ahad di Puchong. Betul-betul Puchong lah, HQ kita punya. Itu untuk Sepang lah semua. Yes lah.
 
-**Rafizi:** Lepas tu bukan hari... Cuti 31 Ogos itu pun ada dalam jadual.
-
-**Rafizi:** Ya. Kemudian hari Selasa ceramah. Macam nak pilihan raya dah.
+**Rafizi:** Lepas tu bukan hari... Cuti 31 Ogos itu pun ada dalam jadual. Ya. Kemudian hari Selasa ceramah. Macam nak pilihan raya dah.
 
 **Haziq:** Macam nak pilihan raya. Kita memang beria. Okay, okay baik YB, kita teruskan. Untuk episod 61 ni sebab beria agak banyak sikit — minggu lepas banyak beria, minggu ini pun banyak beria. Yang pertama sekali, terapi overclaim datang lagi. Betul ke?
 
@@ -75,25 +71,17 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Tak ada lah.
 
-**Haziq:** Maksudnya, saya kan ada masalah-masalah kesihatan biasa rakyat Malaysia tu kan.
-
-**Haziq:** Oh, okay. Tapi ramai pakar-pakar perubatan yang membangkang lah.
+**Haziq:** Maksudnya, saya kan ada masalah-masalah kesihatan biasa rakyat Malaysia tu kan. Oh, okay. Tapi ramai pakar-pakar perubatan yang membangkang lah.
 
 **Rafizi:** Google Hydrogen tu ke ataupun yang duk jual overclaim ni?
 
-**Haziq:** Saya rasa yang jual sampai overclaim. Makcik-makcik ni mungkin genuinely tertipu kot.
-
-**Haziq:** Hmm, yelah, maksud saya mungkin tak tahu ataupun ditipu kepada benda yang salah. Saya ada pandangan lain sikit lah.
-
-**Haziq:** Okay, mungkin.
+**Haziq:** Saya rasa yang jual sampai overclaim. Makcik-makcik ni mungkin genuinely tertipu kot. Hmm, yelah, maksud saya mungkin tak tahu ataupun ditipu kepada benda yang salah. Saya ada pandangan lain sikit lah. Okay, mungkin.
 
 **Rafizi:** Saya rasa orang yang duk pergi layan ni lah yang beria. Okay. Sebab memanglah akan terus ada orang yang datang dengan segala jenis produk, overclaim, malah skam, semua ni kan. Hmm. Tapi zaman sekarang ni lah kan, especially kalau yang bandar — kalaupun dia bukan dalam bidang itu kan, kalaupun dia sendiri tak semak, paling kuat anak-anak dia, dia boleh rujuk anak-anak dia lah kan. Jadi betul juga kan. Sebab macam saya, macam mak ayah saya kan, mereka bersekolah zaman dulu kan. Mereka memang tak tahulah cek ChatGPT, tak cek ChatGPT semua ni kan. Tapi semua dia rujuk kat kita orang tau. Jadi memang insyaAllah tak kena skam lah, tak pernah kena skam sepanjang hidup mereka. Jadi mungkin yang beria ni, kita selalunya kalau ada macam ini, kita biarlah kita akan tuding jari kepada orang yang jual, pemasar, semua peringkat. Undang-undang ini adalah untuk ambil tindakan terhadap mereka kalau ada laporan. Sebab memanglah setiap peranti perubatan itu kena dapat lesen. Yes. Ada MDA, Medical Device Authority, pihak berkuasa peranti perubatan di bawah KKM. Sepatutnya memang dia kawal semua. Tapi again lah, dia tetap akan ada. Jadi cara terbaik untuk mengelakkan benda ni ialah paling kurang kita tanya orang dulu lah. Jadi secara saintifiknya, hidrogen ni kalau letak kat mata je dia apa?
 
 **Haziq:** Dia anti-oksidan sebab hidrogen kan. Fatigue — sama macam kita minum air. Sebab kadang-kadang bila kita minum air kita akan rasa macam tak mengantuk.
 
-**Rafizi:** Saya kalau minum air lagi mengantuk.
-
-**Rafizi:** Air kosong lah. Yelah, air kosong. Saya minum lagi mengantuk sebab saya tak minum air kosong, saya minum air manis.
+**Rafizi:** Saya kalau minum air lagi mengantuk. Air kosong lah. Yelah, air kosong. Saya minum lagi mengantuk sebab saya tak minum air kosong, saya minum air manis.
 
 **Haziq:** Dia kata dia hilangkan, yelah, benda-benda yang apa — fungsi dia sebagai anti-oksidan. Jadi fungsi dia sama macam minum air.
 
@@ -125,19 +113,11 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Saya tertanya-tanya, orang pakai ke ni? Taklah kot. Tapi kalau beli, buat apa beli kalau tak pakai? Eh, tapi saya rasa memang ada kempen yang, tak apa, diorang panggil kita Walanon pun, macam tu lah, jadi it's a pride lah — dia pakai ni, dia pergi mana, dia pergi. Komisen ke, Walanon — maksud saya dia terbalik dengan "Walaun" lah. Kalau sebut Walaun, orang yang disebut tu akan melenting lah kan.
 
-**Rafizi:** Tapi reka bentuk dia tu memang telah formalisasi Walanon dengan Pakatan Harapan, sebab dekat tengah-tengah tu ada logo Pakatan. Dengan diorang ni dapat sanction daripada Pakatan Harapan kan? Betul ni kan? So tak apalah, saya boleh tolong belikan. Boleh belikan. Dia tak mahal sangat pun — RM2.50, RM2.90 je.
-
-**Rafizi:** Walanon — lencana kekancing, gantungan kunci.
+**Rafizi:** Tapi reka bentuk dia tu memang telah formalisasi Walanon dengan Pakatan Harapan, sebab dekat tengah-tengah tu ada logo Pakatan. Dengan diorang ni dapat sanction daripada Pakatan Harapan kan? Betul ni kan? So tak apalah, saya boleh tolong belikan. Boleh belikan. Dia tak mahal sangat pun — RM2.50, RM2.90 je. Walanon — lencana kekancing, gantungan kunci.
 
 **Haziq:** Oh, gantungan kunci.
 
-**Rafizi:** Eh tapi yang ni bukan gantungan kunci, yang ni dipakai. Dipakai.
-
-**Rafizi:** Kan, gantungan kunci ada pakai? Yang itu gantungan kunci, yang itu lencana kekancing. Ada dua lah. Jadi siapa yang beria ni? Kalau you pun jangan bersemangat — saya harap dia dapat PJK lah kot, dapat pingat lah. Kau tidak kesian masuk beria kan?
-
-**Rafizi:** Oh, paling kurang harapnya lencana kekancing dia ni habis stok. Betul-betul jadi item terlaris lah kot.
-
-**Rafizi:** Jadi dek, kalau tak ada orang beli, dek patut berterima kasih kepada kita orang yang tolong mempromosikan lencana kekancing Walanon Army. Kerja keras lagi.
+**Rafizi:** Eh tapi yang ni bukan gantungan kunci, yang ni dipakai. Dipakai. Kan, gantungan kunci ada pakai? Yang itu gantungan kunci, yang itu lencana kekancing. Ada dua lah. Jadi siapa yang beria ni? Kalau you pun jangan bersemangat — saya harap dia dapat PJK lah kot, dapat pingat lah. Kau tidak kesian masuk beria kan? Oh, paling kurang harapnya lencana kekancing dia ni habis stok. Betul-betul jadi item terlaris lah kot. Jadi dek, kalau tak ada orang beli, dek patut berterima kasih kepada kita orang yang tolong mempromosikan lencana kekancing Walanon Army. Kerja keras lagi.
 
 **Haziq:** Kerja keras lagi. Okay, okay YB, kita dah masuk kepada watak-watak ahli politik.
 
@@ -153,9 +133,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Contohlah, devil's advocate — kalau saya jadi pensyarah ni ataupun orang-orang yang sokong, mempertahankan kebebasan akademik ini, pandangan yang apa, pandangan dia lah dalam kebebasan akademik. Kenapa YB, bila tak sehaluan dengan YB je, YB nak potong, nak cut?
 
-**Rafizi:** Tak, bukan. Dia mesti dalam kepakaran dan juga untuk membesarkan dan mengembangkan ilmu yang kita jadi pakar, bidang kajian kita. Saya tak rasa kajiannya ialah kelemahan Rafizi. Saya tak rasa dia di universiti itu dia mengajar mata pelajaran itu. Kita pun tak tahu dia mengajar mata pelajaran apa, penyelidikan dia apa. Jadi — kalau setakat nak bagi komen, betul akan ada ahli-ahli akademik yang selalu ditanya mengenai pandangan politik, kita selalu tengok lah semua kan. Tapi itu juga peringatan kepada masing-masing lah, termasuklah ahli-ahli akademik yang selalu bagi komentar, siapa-siapa je lah kan, lebih-lebih lagi ahli akademik lah, sebab komen kita itu mestilah hasil daripada kepakaran kita. Bukan semata-mata sebab kita jadi pensyarah kanan lepas itu kita komen macam-macam, nanti jadi macam Dr. Solehah lah.
-
-**Rafizi:** Benda itu dah berlaku kan. Jadi tambah pula kalau dia tak pernah komen langsung pasal bidang akademik dia ke pun, benda yang bersabit dengan kajian dia — kita pun tak tahu dia kaji apa kan — tapi tiba-tiba kalau pasal politik yang berat sebelah ni, untuk jadi kaki pukul, amat berjaya kerja tu, tak payahlah. Bagi kepada Walanon Army tadi, hantar dia satu batch.
+**Rafizi:** Tak, bukan. Dia mesti dalam kepakaran dan juga untuk membesarkan dan mengembangkan ilmu yang kita jadi pakar, bidang kajian kita. Saya tak rasa kajiannya ialah kelemahan Rafizi. Saya tak rasa dia di universiti itu dia mengajar mata pelajaran itu. Kita pun tak tahu dia mengajar mata pelajaran apa, penyelidikan dia apa. Jadi — kalau setakat nak bagi komen, betul akan ada ahli-ahli akademik yang selalu ditanya mengenai pandangan politik, kita selalu tengok lah semua kan. Tapi itu juga peringatan kepada masing-masing lah, termasuklah ahli-ahli akademik yang selalu bagi komentar, siapa-siapa je lah kan, lebih-lebih lagi ahli akademik lah, sebab komen kita itu mestilah hasil daripada kepakaran kita. Bukan semata-mata sebab kita jadi pensyarah kanan lepas itu kita komen macam-macam, nanti jadi macam Dr. Solehah lah. Benda itu dah berlaku kan. Jadi tambah pula kalau dia tak pernah komen langsung pasal bidang akademik dia ke pun, benda yang bersabit dengan kajian dia — kita pun tak tahu dia kaji apa kan — tapi tiba-tiba kalau pasal politik yang berat sebelah ni, untuk jadi kaki pukul, amat berjaya kerja tu, tak payahlah. Bagi kepada Walanon Army tadi, hantar dia satu batch.
 
 **Haziq:** Hantar dia satu batch. Okey, okey itu YB. Okey, beria. Tapi tak apalah, apa dia, tak puas hati lagi respons — respons Dato' Sri Anwar yang, apa, menafikan respons Azmin itu memang betul ke?
 
@@ -163,9 +141,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Jadi itulah kelebihan mereka ni, bagi slogan atau jenama ni memang nombor satu. Tapi pelaksanaan ni kita tak tahulah macam mana, YB. Dan ini dikaitkan selepas muktamar nasional.
 
-**Rafizi:** Macam mana pula ni? Kalau di dunia ini Baitulmaqdis, di Malaysia ini ibaratnya adalah Tabung Haji itu sendiri. Ha? Logik dia tak bercantum.
-
-**Rafizi:** Jadi maksudnya kan, jadi paralel dia macam mana? Maksudnya Baitulmaqdis diserang ataupun cuba diruntuhkan oleh tentera Israel. Jadi Tabung Haji cuba diruntuhkan kan, macam mana? Tapi kawan dia yang cuba runtuhkan Tabung Haji tu — eh, tak ada. Naratif dia DAP. Mungkin begitulah kot.
+**Rafizi:** Macam mana pula ni? Kalau di dunia ini Baitulmaqdis, di Malaysia ini ibaratnya adalah Tabung Haji itu sendiri. Ha? Logik dia tak bercantum. Jadi maksudnya kan, jadi paralel dia macam mana? Maksudnya Baitulmaqdis diserang ataupun cuba diruntuhkan oleh tentera Israel. Jadi Tabung Haji cuba diruntuhkan kan, macam mana? Tapi kawan dia yang cuba runtuhkan Tabung Haji tu — eh, tak ada. Naratif dia DAP. Mungkin begitulah kot.
 
 **Haziq:** Oh, itu maksud dia.
 
@@ -173,9 +149,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Haziq:** Jadi apa yang beria-nya? Beria-nya lah, YB, sampai nak mempertahankan ibarat Baitulmaqdis. Tapi, yelah, RCI tu waktu zaman mereka, dan mereka pun pernah ada dalam kerajaan. Dan sekarang — itulah ada...
 
-**Rafizi:** Penyokong-penyokong PAS kan yang duk marah kerana kenapa dikaitkan soal Tabung Haji, RCI ni, dengan PAS. Satu sebabnya ialah kerana PAS adalah suara yang, jika mereka tegas dan tidak menjadi enabler, mungkin mereka lah yang paling ada kredibiliti dalam melindungi kepentingan Tabung Haji ni kan. Selepas saya dah habis dua tahun tunjuk segala bukti semua, jawapan daripada Datuk Seri Hadi Awang ialah — uh — soal Tabung Haji ini ialah soal cubaan untuk memalukan institusi orang Melayu, orang Islam. Itu jadi enabler lah. Kemudian, 2026 baru-baru ini dia ulang benda yang sama lah. Itu cubaan serangan kan. Jadi sebab itu bila ada budak PAS lah tanya apa kena-mengena, saya sebut tiga perkara lah. Kita tak payah nak baca dengan lebih dalam ke apa lah, cuma tindakan-tindakan yang telah berlaku. Satu ialah pendirian Presiden PAS itu tak berganjak langsung tau, daripada 2018 sebelum ada RCI, bahawa bila dia kata macam itu, maksudnya dia tidak menerima lah kelemahan — wang yang berbilion ringgit hilang tu dia tak terima lah, dia menolak fakta itu. Yang keduanya, RCI ni mereka yang tuntut...
-
-**Rafizi:** PH masa tu tak nak buat kan. Jadi bila dia jadi kerajaan Perikatan Nasional tahun 2022, macam tu, dia yang buat. Ya Allah, agak besar kan. Dan siap masa zaman dia — menteri agamanya, dia masa tu timbalan menteri agamanya pun PAS masa itu, siap Ogos 2022, ada lebih kurang dua bulan lah sebelum parlimen dibubarkan kan. Tapi dia tak bawa ke kabinet dan tak juga buat keputusan untuk dedahkan. Dia peram. Kemudian masuk PH sambung peram lagi kan. Kalau betul lah Tabung Haji ni sebagai Baitulmaqdis, kesian lah, memang tak ada Baitulmaqdis lah kita kalau macam ni kan, one after another kan.
+**Rafizi:** Penyokong-penyokong PAS kan yang duk marah kerana kenapa dikaitkan soal Tabung Haji, RCI ni, dengan PAS. Satu sebabnya ialah kerana PAS adalah suara yang, jika mereka tegas dan tidak menjadi enabler, mungkin mereka lah yang paling ada kredibiliti dalam melindungi kepentingan Tabung Haji ni kan. Selepas saya dah habis dua tahun tunjuk segala bukti semua, jawapan daripada Datuk Seri Hadi Awang ialah — uh — soal Tabung Haji ini ialah soal cubaan untuk memalukan institusi orang Melayu, orang Islam. Itu jadi enabler lah. Kemudian, 2026 baru-baru ini dia ulang benda yang sama lah. Itu cubaan serangan kan. Jadi sebab itu bila ada budak PAS lah tanya apa kena-mengena, saya sebut tiga perkara lah. Kita tak payah nak baca dengan lebih dalam ke apa lah, cuma tindakan-tindakan yang telah berlaku. Satu ialah pendirian Presiden PAS itu tak berganjak langsung tau, daripada 2018 sebelum ada RCI, bahawa bila dia kata macam itu, maksudnya dia tidak menerima lah kelemahan — wang yang berbilion ringgit hilang tu dia tak terima lah, dia menolak fakta itu. Yang keduanya, RCI ni mereka yang tuntut... PH masa tu tak nak buat kan. Jadi bila dia jadi kerajaan Perikatan Nasional tahun 2022, macam tu, dia yang buat. Ya Allah, agak besar kan. Dan siap masa zaman dia — menteri agamanya, dia masa tu timbalan menteri agamanya pun PAS masa itu, siap Ogos 2022, ada lebih kurang dua bulan lah sebelum parlimen dibubarkan kan. Tapi dia tak bawa ke kabinet dan tak juga buat keputusan untuk dedahkan. Dia peram. Kemudian masuk PH sambung peram lagi kan. Kalau betul lah Tabung Haji ni sebagai Baitulmaqdis, kesian lah, memang tak ada Baitulmaqdis lah kita kalau macam ni kan, one after another kan.
 
 **Haziq:** Dan kalau disambung lagi sebab itulah mereka menuntut supaya RCI 2.0 untuk Tabung Haji dibuat.
 
@@ -305,9 +279,7 @@ Artikel 80 dan hingga Artikel 81
 
 **Rafizi:** undang-undang persekutuan yang kita panggil akta. Pada masa yang sama, parlimen
 
-**Haziq:** hanya boleh buat undang-undang berkaitan dengan bidang kuasa dia sahaja — negeri ada bidang
-
-**Haziq:** kuasa dia yang boleh digubal melalui enakmen ataupun ordinan di Sabah atau Sarawak — inilah
+**Haziq:** hanya boleh buat undang-undang berkaitan dengan bidang kuasa dia sahaja — negeri ada bidang kuasa dia yang boleh digubal melalui enakmen ataupun ordinan di Sabah atau Sarawak — inilah
 
 **Rafizi:** menggubal bidang kuasa dia sahaja. Itu perundangan. Eksekutif pula adalah
 
@@ -321,13 +293,9 @@ Jadi apabila orang bercakap tentang kuasa, kuasa, kuasa itu — ya, pemahaman sa
 
 **Haziq:** untuk senarai panjang — persekutuan apa, negeri apa, bersama apa. Kalau
 
-**Rafizi:** dalam membaca, kebanyakan orang ramai tidak... ya, mereka bukan setiap hari kena baca perlembagaan. Orang menyebut senarai, senarai, senarai ini kepada orang ramai. Senarai ini bukan jadual. Jadual panjang. Ia sebenarnya masih dalam bentuk perenggan-perenggan di dalam perlembagaan. Jadi kalau nak cari senarai Jadual 9 itu, pergi kepada bahagian 50... di belakang. Pergi ke bahagian 15... eh bukan. Dalam senarai. Dalam Senarai Ke-9. Pergi ke belakang semua, ada di belakang. Ia ada perenggannya juga, Senarai 9, 9 schedule. Ia merujuk kepada artikel, saya tak ingat artikel apa. Tapi maksudnya, selepas habis artikel 183, baru bermula jadual. Ya, artikel terakhir ialah artikel 183. Kemudian dimasukkan jadual pertama, jadual kedua. Tapi saya rasa 9 schedule ini pun ada... ada susunannya di dalam jejak ini. Puncanya dari perkara 74 dengan 77. Ia mula pergi ke Fifth Schedule, Majlis Raja-Raja. Eighth Schedule... okay, Eighth Schedule... Jadual Sembilan ialah mengenai Raja-raja. Kemudian jadual sembilan... sabarlah, orang ramai. Belum lagi. Ha. Jadual 9 yang merujuk kepada artikel 74 dan 77. Ditunjukkan Senarai 1, Senarai Persekutuan. Banyak di situ. Hal ehwal luar negara, perenggan 1. Perenggan kedua, pertahanan persekutuan. Perenggan ketiga, dan di bawah itu ada macam-macam.
+**Rafizi:** dalam membaca, kebanyakan orang ramai tidak... ya, mereka bukan setiap hari kena baca perlembagaan. Orang menyebut senarai, senarai, senarai ini kepada orang ramai. Senarai ini bukan jadual. Jadual panjang. Ia sebenarnya masih dalam bentuk perenggan-perenggan di dalam perlembagaan. Jadi kalau nak cari senarai Jadual 9 itu, pergi kepada bahagian 50... di belakang. Pergi ke bahagian 15... eh bukan. Dalam senarai. Dalam Senarai Ke-9. Pergi ke belakang semua, ada di belakang. Ia ada perenggannya juga, Senarai 9, 9 schedule. Ia merujuk kepada artikel, saya tak ingat artikel apa. Tapi maksudnya, selepas habis artikel 183, baru bermula jadual. Ya, artikel terakhir ialah artikel 183. Kemudian dimasukkan jadual pertama, jadual kedua. Tapi saya rasa 9 schedule ini pun ada... ada susunannya di dalam jejak ini. Puncanya dari perkara 74 dengan 77. Ia mula pergi ke Fifth Schedule, Majlis Raja-Raja. Eighth Schedule... okay, Eighth Schedule... Jadual Sembilan ialah mengenai Raja-raja. Kemudian jadual sembilan... sabarlah, orang ramai. Belum lagi. Ha. Jadual 9 yang merujuk kepada artikel 74 dan 77. Ditunjukkan Senarai 1, Senarai Persekutuan. Banyak di situ. Hal ehwal luar negara, perenggan 1. Perenggan kedua, pertahanan persekutuan. Perenggan ketiga, dan di bawah itu ada macam-macam. Kalau pertahanan persekutuan itu A, tentera laut, tentera darat, tentera udara dan juga tentera-tentera lain, tentera-tentera bersenjata lain, masuk semua. Kemudian kita pergi ke... dan dalam itu contohnya, erm, termasuklah kewangan — kewangan ini di bawah bidang kuasa persekutuan. Soal mata wang, soal simpanan persekutuan dan bank-bank, soal pinjaman semua, kemudian dan seterusnya. Jadi kenapa kita sampai ke sini? Kita duduk berbincang ini, orang pun sudah keliru. Sebenarnya tidak mengapa, dua orang ini duduk bercakap begini, saya pun sudah keliru. Hmm. Kita...
 
-**Rafizi:** Kalau pertahanan persekutuan itu A, tentera laut, tentera darat, tentera udara dan juga tentera-tentera lain, tentera-tentera bersenjata lain, masuk semua. Kemudian kita pergi ke... dan dalam itu contohnya, erm, termasuklah kewangan — kewangan ini di bawah bidang kuasa persekutuan. Soal mata wang, soal simpanan persekutuan dan bank-bank, soal pinjaman semua, kemudian dan seterusnya. Jadi kenapa kita sampai ke sini? Kita duduk berbincang ini, orang pun sudah keliru. Sebenarnya tidak mengapa, dua orang ini duduk bercakap begini, saya pun sudah keliru. Hmm. Kita...
-
-**Haziq:** Nak beri perspektif kepada orang untuk faham. Persekutuan ada bidang kuasa dia, negeri ada bidang kuasa dia. Kalau nak selesaikan apa yang, ya apa yang Sanusi cakap pun kembali kepada perkara ini. Jadi
-
-**Haziq:** kita nak menilai balik adakah model ini masih mampan untuk kita meneruskan kehidupan kita di negara Malaysia ini. Jadi,
+**Haziq:** Nak beri perspektif kepada orang untuk faham. Persekutuan ada bidang kuasa dia, negeri ada bidang kuasa dia. Kalau nak selesaikan apa yang, ya apa yang Sanusi cakap pun kembali kepada perkara ini. Jadi kita nak menilai balik adakah model ini masih mampan untuk kita meneruskan kehidupan kita di negara Malaysia ini. Jadi,
 
 **Rafizi:** kita nak sambung dengan itu. Selalunya soal federal ini, orang ramai tidak tahu pun mana federalist, contohnya jalan-jalan. Saya rasa orang ramai tidak tahu pun mana jalan persekutuan,
 
@@ -337,11 +305,7 @@ Jadi apabila orang bercakap tentang kuasa, kuasa, kuasa itu — ya, pemahaman sa
 
 **Haziq:** kerajaan negeri. Betul tak? Cuma... kerajaan Persekutuan
 
-**Rafizi:** mengutip cukai
-
-**Rafizi:** perniagaan. Cukai perniagaan, cukai... tapi, ini yang tidak diceritakan sepenuhnya. Dia bercerita tentang hasil cukai, tidak bercerita tentang tanggungan dan beban. Sebab kalau tengok kepada bidang kuasa kerajaan negeri, semua yang berkaitan
-
-**Rafizi:** dengan rakyat ini, kecuali tanah, termasuklah perumahan, semua itu adalah kerajaan persekutuan. Cuma ada senarai bersama — senarai bersama ini, yang kedua-duanya boleh. Senarai bersama ini ialah kebajikan sosial, perlindungan wanita, kanak-kanak, biasiswa, perlindungan binatang, taman-taman negara. Animal husbandry ini apa dia? Err... perlindungan binatang liar dan burung liar.
+**Rafizi:** mengutip cukai perniagaan. Cukai perniagaan, cukai... tapi, ini yang tidak diceritakan sepenuhnya. Dia bercerita tentang hasil cukai, tidak bercerita tentang tanggungan dan beban. Sebab kalau tengok kepada bidang kuasa kerajaan negeri, semua yang berkaitan dengan rakyat ini, kecuali tanah, termasuklah perumahan, semua itu adalah kerajaan persekutuan. Cuma ada senarai bersama — senarai bersama ini, yang kedua-duanya boleh. Senarai bersama ini ialah kebajikan sosial, perlindungan wanita, kanak-kanak, biasiswa, perlindungan binatang, taman-taman negara. Animal husbandry ini apa dia? Err... perlindungan binatang liar dan burung liar.
 
 **Haziq:** Itu
 
@@ -467,27 +431,15 @@ Jadi kita sudah sampai ke peringkat itu, yang mana kerajaan-kerajaan negeri ini 
 
 **Haziq:** Keganasan yang dibuat oleh kerajaan pimpinan Datuk Seri Anwar Ibrahim ini semakin mengagumkan — perkara yang kita tak pernah lihat sebelum ini, berderet-deret, tak cukup hari mereka-mereka ini nak kena dakwa. Apa yang cuba dibuat oleh Datuk Seri Anwar sebenarnya, YB?
 
-**Rafizi:** Hmm, baiklah... janganlah tanya saya, mana saya tahu apa dalam kepala otaknya. Secara "saintifik" — hipotesis. Ya, orang kata kemungkinan. Cakap podcast, cakap podcast. Hmm. Ya, selepas apa yang berlaku itu, maksudnya kita ada berturut-turut — Tabung Haji, Datuk Seri Aziz, bekas ahli parlimen, ahli majlis tertinggi Lembaga Tabung Haji. Kemudian Tan Sri Irwan Serigar, orang kuat Datuk Seri Najib. Kemudian Dato' Sri Ismail Sabri Yaakob, bekas Perdana Menteri. Kemudian Dato' Sri Saravanan, Timbalan Presiden MIC. Dan, saya dengar-dengar akan ada lagi.
-
-**Rafizi:** Akan ada. Jadi... kumpulan mereka
-
-**Rafizi:** Wallahualam jugalah. Jadi begitulah, tapi aku rasa aku tidur malam okey, orang lain aku tak tahu. Cuma, maksudnya, selepas kekalahan PH di Johor, di Negeri Sembilan, dan komen-komen politik tentang Dato' Sri Anwar yang nampaknya sukar untuk kembali menjadi Perdana Menteri, kemudian kegairahan UMNO yang nampaknya mencabar dia kan, dan semua orang tahu bahawa UMNO Barisan Nasional ada 30. Jadi apa ni, kau tahu, kemungkinan-kemungkinan yang akan berlaku sama ada UMNO tarik diri, dia tak jadi PM — jadi banyak teka-teki apakah pilihan-pilihan yang ada pada Dato' Sri Anwar. Sebenarnya dia ada beberapa pilihan sahajalah, saya tengok kan. Satu pilihan dia ialah — kalau pilihan yang bermaruah, bagi saya, kalau pilihan yang bermaruah, ialah dia bubarkan parlimen dan serahkan balik kepada rakyat. Maksudnya, ini pasal rumah tangga politik lah, kalau contohnya — dah nampak jelas. Aku ingat dulu, apa nama ni, masa Pakatan Rakyat awal-awal dulu menang 2008 — PAS, PKR, DAP — serangan UMNO yang tak habis-habis ialah "tidur sebantal, mimpi lain-lain." Mereka ni, PH dengan BN ni, sekarang ni bukan soal tidur sebantal lah ni. Ini soal... haa... tidur
-
-**Rafizi:** lain-lain tu satu hal. Ini
-
-**Rafizi:** bertumbuk sebelum tidur. Lebam mata setiap malam. Setiap malam. Haa... setiap malam. Lebam mata kan. Dulu Pakatan Rakyat kata tidur sebantal, mimpi lain-lain. Ini dah memang setiap hari keganasan rumah tangga ni kan — nak masuk bilik pun tak boleh kan. Jadi kalau rumah tangga yang macam itu, sepatutnya penyelesaiannya dah memang jelas lah — dah tak boleh nak duduk serumah. Dan orang biasa selalunya kata, yalah, maksudnya berlaku perpisahan lah kan, nak bercerai ke, nak fasa ke apa semua kan. Jadi secara politiknya lah keadaan PH-BN sekarang. Kalau secara yang bermaruah, sepatutnya kerajaan dibubarkan, parlimen dibubarkan, dan keputusan itu dikembalikan kepada rakyat untuk mendapat mandat. Tapi kau dan aku sama-sama tahu, Datuk Seri Anwar, bukan begitu caranya. Jadi itu pilihan satu. Pilihan kedua ialah dia cuba pujuk rayu, pujuk rayu, pujuk rayu lah. Hmm, nampaknya perkara itu dah jadi air yang telah berlalu — masa Johor dan Negeri Sembilan, pujuk rayu-pujuk rayu tak jadilah. Dan saya ingat, kalau kita letak dalam konteks bila dalam PRN Johor tu dia kata, kau tahu, "janganlah kasar sangat, apa pun keputusan, saya tetap jadi Perdana Menteri" — sebenarnya itu pun dah bagi clue-clue yang dia akan ambil keputusan pilihan ketiga lah. Pilihan ketiga ialah keganasan rumah tangga politik lah. Cekik. Haa, cekik. Cekik, lepas tu apa nama ni, kunci pintu, tak boleh keluar. Haa kan. Jadi lebam mata setiap hari lah kan. Dan siri keganasan yang awal-awal ni dah kita nampak lah sekarang kan. Jadi kau ambil contoh
+**Rafizi:** Hmm, baiklah... janganlah tanya saya, mana saya tahu apa dalam kepala otaknya. Secara "saintifik" — hipotesis. Ya, orang kata kemungkinan. Cakap podcast, cakap podcast. Hmm. Ya, selepas apa yang berlaku itu, maksudnya kita ada berturut-turut — Tabung Haji, Datuk Seri Aziz, bekas ahli parlimen, ahli majlis tertinggi Lembaga Tabung Haji. Kemudian Tan Sri Irwan Serigar, orang kuat Datuk Seri Najib. Kemudian Dato' Sri Ismail Sabri Yaakob, bekas Perdana Menteri. Kemudian Dato' Sri Saravanan, Timbalan Presiden MIC. Dan, saya dengar-dengar akan ada lagi. Akan ada. Jadi... kumpulan mereka Wallahualam jugalah. Jadi begitulah, tapi aku rasa aku tidur malam okey, orang lain aku tak tahu. Cuma, maksudnya, selepas kekalahan PH di Johor, di Negeri Sembilan, dan komen-komen politik tentang Dato' Sri Anwar yang nampaknya sukar untuk kembali menjadi Perdana Menteri, kemudian kegairahan UMNO yang nampaknya mencabar dia kan, dan semua orang tahu bahawa UMNO Barisan Nasional ada 30. Jadi apa ni, kau tahu, kemungkinan-kemungkinan yang akan berlaku sama ada UMNO tarik diri, dia tak jadi PM — jadi banyak teka-teki apakah pilihan-pilihan yang ada pada Dato' Sri Anwar. Sebenarnya dia ada beberapa pilihan sahajalah, saya tengok kan. Satu pilihan dia ialah — kalau pilihan yang bermaruah, bagi saya, kalau pilihan yang bermaruah, ialah dia bubarkan parlimen dan serahkan balik kepada rakyat. Maksudnya, ini pasal rumah tangga politik lah, kalau contohnya — dah nampak jelas. Aku ingat dulu, apa nama ni, masa Pakatan Rakyat awal-awal dulu menang 2008 — PAS, PKR, DAP — serangan UMNO yang tak habis-habis ialah "tidur sebantal, mimpi lain-lain." Mereka ni, PH dengan BN ni, sekarang ni bukan soal tidur sebantal lah ni. Ini soal... haa... tidur lain-lain tu satu hal. Ini bertumbuk sebelum tidur. Lebam mata setiap malam. Setiap malam. Haa... setiap malam. Lebam mata kan. Dulu Pakatan Rakyat kata tidur sebantal, mimpi lain-lain. Ini dah memang setiap hari keganasan rumah tangga ni kan — nak masuk bilik pun tak boleh kan. Jadi kalau rumah tangga yang macam itu, sepatutnya penyelesaiannya dah memang jelas lah — dah tak boleh nak duduk serumah. Dan orang biasa selalunya kata, yalah, maksudnya berlaku perpisahan lah kan, nak bercerai ke, nak fasa ke apa semua kan. Jadi secara politiknya lah keadaan PH-BN sekarang. Kalau secara yang bermaruah, sepatutnya kerajaan dibubarkan, parlimen dibubarkan, dan keputusan itu dikembalikan kepada rakyat untuk mendapat mandat. Tapi kau dan aku sama-sama tahu, Datuk Seri Anwar, bukan begitu caranya. Jadi itu pilihan satu. Pilihan kedua ialah dia cuba pujuk rayu, pujuk rayu, pujuk rayu lah. Hmm, nampaknya perkara itu dah jadi air yang telah berlalu — masa Johor dan Negeri Sembilan, pujuk rayu-pujuk rayu tak jadilah. Dan saya ingat, kalau kita letak dalam konteks bila dalam PRN Johor tu dia kata, kau tahu, "janganlah kasar sangat, apa pun keputusan, saya tetap jadi Perdana Menteri" — sebenarnya itu pun dah bagi clue-clue yang dia akan ambil keputusan pilihan ketiga lah. Pilihan ketiga ialah keganasan rumah tangga politik lah. Cekik. Haa, cekik. Cekik, lepas tu apa nama ni, kunci pintu, tak boleh keluar. Haa kan. Jadi lebam mata setiap hari lah kan. Dan siri keganasan yang awal-awal ni dah kita nampak lah sekarang kan. Jadi kau ambil contoh
 
 **Haziq:** kan.
 
-**Rafizi:** Yalah, saya ingat Dato' Sri Anwar ni dia rasa bahawa UMNO akan takut kan. Mungkin dia betul. Mungkin dia betul kan, kalau tengok kepada Melaka contohnya kan. Ya ya ya
-
-**Rafizi:** Melaka. Haa. Kalau kita banding nak masuk PRN Johor, nak masuk PRN Negeri Sembilan, keadaan itu sangat memusuhi — antara penyokong dan pemimpin BN dengan PH ini bermaki hamun setiap hari, bergaduh, macam-macam. Perasaan Melaka ini diam.
+**Rafizi:** Yalah, saya ingat Dato' Sri Anwar ni dia rasa bahawa UMNO akan takut kan. Mungkin dia betul. Mungkin dia betul kan, kalau tengok kepada Melaka contohnya kan. Ya ya ya Melaka. Haa. Kalau kita banding nak masuk PRN Johor, nak masuk PRN Negeri Sembilan, keadaan itu sangat memusuhi — antara penyokong dan pemimpin BN dengan PH ini bermaki hamun setiap hari, bergaduh, macam-macam. Perasaan Melaka ini diam.
 
 **Haziq:** ada segala leverage yang dia — 21 kursi, dia kuat semua kan. Dan kita pun perasan juga, kalau di Johor dengan Negeri
 
-**Rafizi:** Sembilan tu, dah memang jelas BN akan bersama dengan PN. Sekarang ni kita menunggu lagi Rauf buat pengumuman nak bersanding kat mana, tok kadi kat mana, nak nikah kat mana kan — dia dah cerita daripada beberapa bulan dah kan. Kali ni kalau kena betul-betul bersanding semua kan — jadi nampak macam belum ada, semua orang meneka-neka sebenarnya kan. Jadi, dan dalam ketiadaan pergaduhan besar-besaran secara terbuka tu, kau tahu, kita tak boleh tolak kemungkinan bahawa memang ada BN akan bersama PH. Sebab kalau tidak, Dr. Akmal Saleh tak akan menjerit awal-awal lah — "kalau dengan PH, saya tak bertanding." Kalau bacaan saya sebagai orang politik lah, itu secara tidak langsung mengesahkan bahawa perbincangan BN dengan PH untuk Melaka itu serius. Jadi kalau kita letakkan berlatar-belakangkan semua ini, maksudnya, strategi pilihan ketiga, keganasan rumah tangga ni, mungkin berkesan buat masa sekarang
-
-**Rafizi:** untuk Dato' Sri Anwar lah, untuk kunci pintu dan hentam UMNO kan. Mungkin UMNO akan perlahankan sedikit daripada itu kan. Kalau kita tengok pada kes-kes ni lah kan... kes Datuk Seri Ismail Sabri contohnya kan, kes itu telah melalui mahkamah
+**Rafizi:** Sembilan tu, dah memang jelas BN akan bersama dengan PN. Sekarang ni kita menunggu lagi Rauf buat pengumuman nak bersanding kat mana, tok kadi kat mana, nak nikah kat mana kan — dia dah cerita daripada beberapa bulan dah kan. Kali ni kalau kena betul-betul bersanding semua kan — jadi nampak macam belum ada, semua orang meneka-neka sebenarnya kan. Jadi, dan dalam ketiadaan pergaduhan besar-besaran secara terbuka tu, kau tahu, kita tak boleh tolak kemungkinan bahawa memang ada BN akan bersama PH. Sebab kalau tidak, Dr. Akmal Saleh tak akan menjerit awal-awal lah — "kalau dengan PH, saya tak bertanding." Kalau bacaan saya sebagai orang politik lah, itu secara tidak langsung mengesahkan bahawa perbincangan BN dengan PH untuk Melaka itu serius. Jadi kalau kita letakkan berlatar-belakangkan semua ini, maksudnya, strategi pilihan ketiga, keganasan rumah tangga ni, mungkin berkesan buat masa sekarang untuk Dato' Sri Anwar lah, untuk kunci pintu dan hentam UMNO kan. Mungkin UMNO akan perlahankan sedikit daripada itu kan. Kalau kita tengok pada kes-kes ni lah kan... kes Datuk Seri Ismail Sabri contohnya kan, kes itu telah melalui mahkamah
 
 **Haziq:** ya ya ya kan, jadi masa bising-bising, masa dia tangkap dulu, tunjuk wang semua, kita semua duduk bising, dakwa-dakwa-dakwa kan. Hmm.
 
