@@ -13,7 +13,7 @@ note: Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim st
 
 # Raw Transcript
 
-[00:44] Haziq: Assalamualaikum dan salam sejahtera. Podcast Yang Menteri Menteri episod ke-62. Macam biasa bersama saudara Rafizi Ramli.
+[00:44] Haziq: Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri episod ke-62. Macam biasa bersama saudara Rafizi Ramli.
 
 [00:52] Rafizi: Dan juga Chopper yang sebelum ini dia yang duduk kat kerusi ni tau.
 
