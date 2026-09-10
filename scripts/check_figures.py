@@ -138,6 +138,13 @@ SPOKEN_POINT = re.compile(r"(\d)\s*(?:point|titik)[.,]?\s*(\d)", re.I)
 SPLIT_DECIMAL = re.compile(
     r"(\d)[.,]\s+(\d{1,2})(?=\s*(?:ribu|juta|bilion|biliun|billion|miliar|milyar|trilion|triliun|"
     r"trillion|thousand|million)\b)", re.I)
+# A spoken clock time. ep54's MAI raw says `daripada jam 10 setengah malam` where the
+# published files say `jam 10.30 malam`, and `jam N setengah` is half past N. Same class as
+# SPOKEN_POINT: the raw is verbatim and the published file is right, so the fix belongs in
+# the checker rather than in either file. `jam` is REQUIRED -- without it, `10 setengah juta`
+# is 10.5 million and rewriting that to 10.30 would invent a figure. One occurrence in the
+# whole corpus, which is why this stays a clock-time rule and not a general `setengah` rule.
+SPOKEN_HALF = re.compile(r"\bjam\s+(\d{1,2})\s+setengah\b", re.I)
 
 
 def digits(s):
@@ -206,7 +213,7 @@ def _scan(raw_body):
 
 
 def raw_evidence(raw_body):
-    """Scan raw.md as written, then again with the ASR's two decimal manglings undone.
+    """Scan raw.md as written, then again with the ASR's decimal and clock manglings undone.
 
     The rewrites ADD readings, they do not replace them. Substituting in place destroyed
     evidence: raw's `Ada 6. 6 bilion` became `6.6 bilion`, and a published `6 bilion` that
@@ -214,8 +221,9 @@ def raw_evidence(raw_body):
     the flag list that way before this was split in two.
     """
     toks, values = _scan(raw_body)
-    for fix in (SPOKEN_POINT, SPLIT_DECIMAL):
-        alt = fix.sub(r"\1.\2", raw_body)
+    for fix, rep in ((SPOKEN_POINT, r"\1.\2"), (SPLIT_DECIMAL, r"\1.\2"),
+                     (SPOKEN_HALF, r"\1.30")):
+        alt = fix.sub(rep, raw_body)
         if alt != raw_body:
             more_toks, more_values = _scan(alt)
             toks = toks + more_toks

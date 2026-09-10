@@ -573,30 +573,47 @@ def main():
     totals = {rep: 0 for _, rep, _ in compiled}
     touched = 0
 
-    def protect_title(src):
-        """Split off any `title:` line so no rule can rewrite it.
+    # Both places the YouTube title appears. The frontmatter `title:` field, and the bold
+    # line `write_navigation.py` builds FROM that field at the top of every transcript.
+    QUOTED_TITLE = re.compile(r"^(?:title:.*|\*\*.+ episode \d+ — .*\*\*\s*)$", re.M)
 
-        `title:` is YouTube's own video title, copied verbatim. It is a quotation of the
-        source, not our prose, and restyling it would make the file disagree with the video
-        it cites. This was found when a Felda -> FELDA rule was about to rewrite ep26's
-        title from `Azam Baki, UEC & Felda | YBM EP 26`, which is what YouTube actually
-        shows. Every rule in this file gets the protection, not just that one.
+    def mask_quoted_titles(src):
+        """Hide every line that quotes YouTube's own title, so no rule can rewrite it.
+
+        `title:` is YouTube's video title, copied verbatim. It is a quotation of the source,
+        not our prose, and restyling it would make the file disagree with the video it
+        cites. This was found when a Felda -> FELDA rule was about to rewrite ep26's title
+        from `Azam Baki, UEC & Felda | YBM EP 26`, which is what YouTube actually shows.
+
+        PROTECTING ONLY THE FRONTMATTER LINE WAS NOT ENOUGH, found 2026-09-11.
+        `write_navigation.py` writes that same title into a bold header line in the body,
+        where the rules could still reach it -- so the two scripts fought over ep26's header
+        and whichever ran last won. A manual `fix_proper_nouns --write` left it reading
+        FELDA; the next adoption's `write_navigation --write` put it back to Felda. Masking
+        both lines ends the oscillation, and it settles on the YouTube spelling, which is
+        the one the docstring above says is correct.
         """
-        m = re.search(r"^title:.*$", src, re.M)
-        if not m:
-            return "", src
-        return src[:m.end()], src[m.end():]
+        spans = [m.span() for m in QUOTED_TITLE.finditer(src)]
+        out, marks, last = [], [], 0
+        for i, (a, b) in enumerate(spans):
+            out.append(src[last:a])
+            out.append(f"\x00TITLE{i}\x00")
+            marks.append(src[a:b])
+            last = b
+        out.append(src[last:])
+        return "".join(out), marks
 
     for path in targets():
         original = path.read_text(encoding="utf-8")
-        head, text = protect_title(original)
+        text, marks = mask_quoted_titles(original)
         hits = {}
         for rx, rep, _ in compiled:
             text, n = rx.subn(rep, text)
             if n:
                 hits[rep] = hits.get(rep, 0) + n
                 totals[rep] += n
-        text = head + text
+        for i, mark in enumerate(marks):
+            text = text.replace(f"\x00TITLE{i}\x00", mark)
         if text != original:
             touched += 1
             rel = path.relative_to(ROOT / "episodes")
