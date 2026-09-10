@@ -737,6 +737,44 @@ least 90% of the unidentified talking seconds; it writes `data/_face_gallery_<vi
 -> 93%. Anything less clean stops and prints the clusters for a person. The full per-episode
 procedure is at the top of `ATTRIBUTION_PASS.md`.
 
+**Swapping in another engine's transcript: finding the owner's decisions in it.** A re-cut
+keeps the words and moves only the labels, so every recorded decision could be found by its
+text. A transcript from a DIFFERENT ENGINE cannot be: MAI spells the same speech
+differently, splits it over more blocks, and keeps the fillers the local engine dropped.
+Substring lookup located 6 of ep61's 44 recorded decisions. `scripts/lib_locate.py` matches
+a passage on CHARACTERS instead, over a window wide enough for inserted fillers, so a Malay
+affix is not a miss -- the decision reads "pandangan lain sikit" and MAI heard "Aku
+berpandangan lain sikitlah", which shares no whole word with it.
+`check_owner_decisions.py` now reports 36 preserved, 4 partly kept, 3 mismatched and 1 with
+no text to search for, and prints where each match landed with its score, so a weak match is
+visible instead of silent. The 4 partly kept are all the same benign shape: the local block
+glued two speakers together and the candidate splits them, so the located span straddles the
+cut.
+
+**A stamp never locates a decision; it only breaks a tie between two equally good matches.**
+Every one of ep61's 11 `Speaker ?` confirmations was recorded against a stamp 3 to 21 s away
+from its own words. The frame at the stamp showed Rafizi in all 11 of them. At the words'
+real time the camera shows Rafizi in 9 and Haziq in 2 (04:46 belongs to words at 05:05;
+06:52 to words at 07:08). Nine were right for the wrong reason: ep61 is 86% Rafizi, so a
+frame sampled 20 s away usually still lands on him. This is the defect that destroyed a
+confirmed Farhan turn once, recorded in `data/speaker_adjudications.json` under
+`ep61_farhan_restore`.
+
+**The gold passage is carved out, not overwritten.** Where `speaker_ground_truth.json` holds
+a passage the owner dictated from ear, `mai_camera_raw.py` splices the current raw.md's
+blocks for it into the candidate verbatim and drops the candidate's own blocks for the same
+speech; the seam is found by words, not by the clock, because the two files' stamps differ by
+up to 26 s. ep61 needs it: the shot through that passage is a full-screen graphic, so the
+camera inverts it and gives Haziq's "Baik YB, cuti panjang YB buat apa?" to Rafizi and
+Rafizi's answer to Haziq. 14 current blocks replace 79 candidate blocks, 356 MAI words. The
+reviewed name corrections run BEFORE the splice, so the owner's bytes are never rewritten,
+and the checker tests containment rather than list equality, which leaves a re-cut on either
+side of the region free to differ.
+
+ep61's candidate against the camera: JER 55.5% -> 13.8%, Haziq recall 66% -> 90%, seconds
+under the wrong name 552 -> 74, blocks holding more than one speaker 101 of 252 -> 59 of
+2,359.
+
 ## Known limitations
 
 - **The gap is in block cutting, and on ep62 it is now closed.** Measured against the camera

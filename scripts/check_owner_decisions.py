@@ -8,8 +8,16 @@ its stamp, takes that turn's opening words, finds those words in the CANDIDATE f
 requires the candidate's label to be the owner's. A decision it cannot locate is reported,
 never silently passed.
 
+A candidate built by a DIFFERENT ENGINE spells the same speech differently, so the substring
+lookup alone is not enough: it left 37 of ep61's 44 decisions "not locatable" against the MAI
+transcript. When it misses, lib_locate.Doc matches the passage on characters and prints where
+it landed and how well it scored. A stamp only breaks a tie between two equally good matches,
+never locates on its own -- ep61 has a block whose stamp is 26 s from its own words.
+
 The gold passage is checked differently: the owner dictated it from ear, so its text is not
-raw.md's text. Its region is required to be byte-identical between current and candidate.
+the candidate's text. Every current block inside the region has to appear verbatim in the
+candidate. That is containment, not list equality, so a re-cut on either side is free to
+differ.
 
   python scripts/check_owner_decisions.py ep61 data/_nightly/ep61_preview_raw.md
 """
@@ -20,8 +28,13 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from lib_locate import Doc  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 BLOCK = re.compile(r"^\[([\d:]+)\]\s*([^:\n]{0,40}?):\s*(.*)$", re.M)
+GOLD_PAD = 60
 DECISION_FILES = ["speaker_adjudications.json", "speaker_video_confirmed.json",
                   "speaker_video_confirmed_ep61_round2.json", "speaker_q_video_confirmed.json",
                   "speaker_from_gold.json"]
@@ -70,7 +83,7 @@ def main():
                 src = f"{name}:{section}@{stamp}"
                 for who, snip, at in r.get("split", []):
                     if snip:
-                        checks.append((src, who, snip[:45]))
+                        checks.append((src, who, snip[:45], secs(stamp)))
                 if "who" in r:
                     # Locate by the rule's own text when it has one. A stamp is NOT unique
                     # in this corpus (a split re-uses its parent's stamp), so ep61's
@@ -79,25 +92,49 @@ def main():
                     if not snip:
                         blk = current_block(r.get("at_now", stamp))
                         snip = blk[0][1] if blk else ""
-                    checks.append((src, r["who"], snip[:45]))
+                    checks.append((src, r["who"], snip[:45], secs(stamp)))
 
-    ok = bad = missing = 0
-    for src, who, snip in checks:
+    doc = Doc(cand_text)
+    ok = bad = missing = partial = 0
+    for src, who, snip, at in checks:
+        want = short(who)
         if len(snip.split()) < 2:
             missing += 1
             print(f"  cannot locate ({src}): no usable text for the turn the owner named {who}")
             continue
-        labels = candidate_labels(snip)
-        if not labels:
-            missing += 1
-            print(f"  NOT FOUND in candidate ({src}): {who} | {snip}")
-        elif labels == [short(who)]:
+        if candidate_labels(snip) == [want]:
             ok += 1
+            continue
+        found = doc.locate(snip, near=at)
+        if not found:
+            exact = candidate_labels(snip)
+            if exact:
+                bad += 1
+                print(f"  MISMATCH ({src}): owner says {who}, candidate has {exact} | {snip}")
+            else:
+                missing += 1
+                print(f"  NOT FOUND in candidate ({src}): {who} | {snip}")
+            continue
+        labels = {}
+        for label, n in found["labels"].items():
+            labels[short(label)] = labels.get(short(label), 0) + n
+        total = sum(labels.values())
+        where = f"{found['stamp']} score {found['score']:.2f}"
+        if found["ambiguous"]:
+            where += ", two equally good matches, stamp picked this one"
+        if list(labels) == [want]:
+            ok += 1
+        elif labels.get(want, 0) * 2 > total:
+            partial += 1
+            print(f"  PARTLY KEPT ({src}) at {where}: {who} holds {labels[want]} of {total} "
+                  f"words, the rest is {dict((k, v) for k, v in labels.items() if k != want)}"
+                  f" | {snip}")
         else:
             bad += 1
-            print(f"  MISMATCH ({src}): owner says {who}, candidate has {labels} | {snip}")
+            print(f"  MISMATCH ({src}) at {where}: owner says {who}, "
+                  f"candidate has {labels} | {snip}")
 
-    # The gold passage: region byte-identical.
+    # The gold passage: every current block inside it has to survive verbatim.
     truth = json.load(io.open(ROOT / "data" / "speaker_ground_truth.json", encoding="utf-8"))
     gold_ok = None
     for key, g in truth.items():
@@ -106,13 +143,16 @@ def main():
         m = re.findall(r"(\d{1,2}:\d{2}(?::\d{2})?)", g.get("region", ""))
         if len(m) >= 2:
             lo, hi = secs(m[0]), secs(m[1])
-            a = [b for b in cur if lo - 60 <= secs(b[0]) <= hi + 60]
-            b = [b for b in cand if lo - 60 <= secs(b[0]) <= hi + 60]
-            gold_ok = a == b
-            print(f"  gold passage {g['region']!r}: {len(a)} current vs {len(b)} candidate blocks, "
-                  f"{'IDENTICAL' if gold_ok else 'CHANGED'}")
+            have = set(cand)
+            need = [b for b in cur if lo - GOLD_PAD <= secs(b[0]) <= hi]
+            lost = [b for b in need if b not in have]
+            gold_ok = not lost
+            print(f"  gold passage {g['region']!r}: {len(need)} current blocks, "
+                  f"{len(lost)} of them not verbatim in the candidate")
+            for st, w, t in lost[:5]:
+                print(f"    lost [{st}] {w}: {t[:70]}")
 
-    print(f"\n{tag}: {len(checks)} owner decisions -- {ok} preserved, {bad} mismatched, "
+    print(f"\n{tag}: {len(checks)} owner decisions -- {ok} preserved, {partial} partly kept, {bad} mismatched, "
           f"{missing} not locatable" + ("" if gold_ok is None else f"; gold passage {'kept' if gold_ok else 'CHANGED'}"))
     sys.exit(1 if bad or gold_ok is False else 0)
 

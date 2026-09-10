@@ -23,6 +23,14 @@ A long MAI turn that the camera says has two speakers is cut at the change, usin
 smoothing and sentence-snap guards as split_mixed_blocks.py, so a one-second flicker cannot
 invent a turn and a cut lands on a full stop when one is within three words.
 
+THE GOLD PASSAGE IS CARVED OUT. Where data/speaker_ground_truth.json holds a passage the
+owner dictated from ear, the current raw.md's blocks for that passage are spliced in
+verbatim and the candidate's own blocks for the same speech are dropped. On ep61 the camera
+inverts that passage -- it gives Haziq's "Baik YB, cuti panjang YB buat apa?" to Rafizi and
+Rafizi's answer to Haziq -- because the shot there is a graphic, not a face. The seam is
+found by WORDS, not by the clock, since the two files' stamps differ by up to 26 s. The
+reviewed name corrections are applied before the splice, so the owner's bytes are untouched.
+
 WORDS NEVER CHANGE. The output's word sequence is asserted equal to MAI's, so every name,
 figure and place survives by construction; the only text edits are the reviewed
 fix_proper_nouns.py corrections, applied to the body and counted. Stamps are asserted
@@ -45,10 +53,13 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import common  # noqa: E402
 from fix_proper_nouns import CORRECTIONS  # noqa: E402
+from lib_locate import Doc, tokens  # noqa: E402
 from split_mixed_blocks import BLOCK_RE, fmt, secs, smooth, snap_to_sentences  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 SHORT_TURN_WORDS = 3
+GOLD_PAD = 60          # a block starting just before the region can carry its first words
+SEAM_WORDS = 8
 CAMERA_NAME = {"Farhan": "Farhan (Pa'an)"}
 
 
@@ -104,11 +115,56 @@ def camera_per_second(rttm):
     return out
 
 
+def gold_region(vid):
+    """The owner-dictated passage for this video: (start, end, its region text)."""
+    truth = json.loads((ROOT / "data" / "speaker_ground_truth.json").read_text(encoding="utf-8"))
+    for g in truth.values():
+        if not isinstance(g, dict) or g.get("video_id") != vid:
+            continue
+        m = re.findall(r"(\d{1,2}:\d{2}(?::\d{2})?)", g.get("region", ""))
+        if len(m) >= 2:
+            return secs(m[0]), secs(m[1]), g["region"]
+    return None
+
+
+def carve_in_gold(lines, episode_raw, vid):
+    """Splice the current raw.md's gold-passage blocks into the candidate's lines."""
+    region = gold_region(vid)
+    if not region:
+        return lines, "no gold passage recorded for this video"
+    lo, hi, text = region
+    cur = Doc(episode_raw.read_text(encoding="utf-8"))
+    keep = [i for i, b in enumerate(cur.blocks) if lo - GOLD_PAD <= secs(b[0]) <= hi]
+    if not keep:
+        sys.exit(f"REFUSING: gold passage {text!r} matches no block in {episode_raw}")
+    cand = Doc("\n\n".join(lines))
+    head = cand.locate(" ".join(tokens(cur.blocks[keep[0]][2])[:SEAM_WORDS]),
+                       near=secs(cur.blocks[keep[0]][0]))
+    tail = cand.locate(" ".join(tokens(cur.blocks[keep[-1]][2])[-SEAM_WORDS:]),
+                       near=secs(cur.blocks[keep[-1]][0]))
+    if not head or not tail:
+        sys.exit(f"REFUSING: cannot find the gold passage {text!r} in the candidate by its words")
+    b0, b1 = cand.owner[head["tok0"]], cand.owner[tail["tok1"]]
+    if b1 < b0:
+        sys.exit(f"REFUSING: the gold passage seams cross in the candidate ({b0} > {b1})")
+    dropped = sum(len(tokens(cand.blocks[i][2])) for i in range(b0, b1 + 1))
+    print(f"gold carve-out {text!r}: {len(keep)} current blocks spliced in verbatim, "
+          f"replacing candidate blocks {b0}-{b1} ({dropped} MAI words)")
+    print(f"  seam before: {lines[b0 - 1] if b0 else '(file start)'}")
+    print(f"  first kept:  {cur.line(keep[0])[:100]}")
+    print(f"  last kept:   {cur.line(keep[-1])[:100]}")
+    print(f"  seam after:  {lines[b1 + 1] if b1 + 1 < len(lines) else '(file end)'}")
+    return (lines[:b0] + [cur.line(i) for i in keep] + lines[b1 + 1:],
+            f"{len(keep)} blocks from {text}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("tag")
     ap.add_argument("--reference", help="camera RTTM (default data/camera_ref_<tag>.rttm)")
     ap.add_argument("--out", help="default data/_<tag>_mai_camera_raw.md")
+    ap.add_argument("--no-gold-splice", action="store_true",
+                    help="do not carve the owner-dictated passage in from the current raw.md")
     a = ap.parse_args()
 
     manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
@@ -178,12 +234,24 @@ def main():
                       f"{fmt(r2['t0'])} {r2['n']}: {' '.join(r2['w'][:8])}", file=sys.stderr)
         sys.exit(f"REFUSING: {backwards} block stamps run backwards")
 
+    # Corrections first, then the splice: the owner's own bytes are never rewritten.
     body = "\n\n".join(f"[{fmt(r['t0'])}] {r['n']}: {' '.join(r['w'])}" for r in runs_out)
     corrections = Counter()
     for rx, rep, _ in CORRECTIONS:
         body, n = re.subn(rx, rep, body)
         if n:
             corrections[rep] += n
+    lines = body.split("\n\n")
+    gold_note = "not carved out (--no-gold-splice)"
+    if not a.no_gold_splice:
+        lines, gold_note = carve_in_gold(lines, episode_raw, vid)
+    body = "\n\n".join(lines)
+    spliced = [secs(m) for m in re.findall(r"^\[([\d:]+)\]", body, re.M)]
+    back = [i for i, (x, y) in enumerate(zip(spliced, spliced[1:])) if y < x]
+    if back:
+        for i in back[:5]:
+            print(f"  {lines[i][:80]} -> {lines[i + 1][:80]}", file=sys.stderr)
+        sys.exit(f"REFUSING: {len(back)} stamps run backwards after the gold carve-out")
 
     fields, _ = common.read_frontmatter_body(episode_raw)
     fields["model"] = "microsoft/MAI-Transcribe-2"
@@ -194,7 +262,8 @@ def main():
         f"time of each word; turns of three words or fewer keep {fallback_name}, and "
         "words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; "
         "the word sequence is MAI's, unchanged, apart from the reviewed name corrections in "
-        "fix_proper_nouns.py. See interview.md for the polished newspaper-style rewrite.")
+        f"fix_proper_nouns.py and the owner-verified passage kept from the previous transcript "
+        f"({gold_note}). See interview.md for the polished newspaper-style rewrite.")
     out = Path(a.out or ROOT / "data" / f"_{tag}_mai_camera_raw.md")
     out.write_text(common.frontmatter_md(fields, "# Raw Transcript\n\n" + body), encoding="utf-8")
 
