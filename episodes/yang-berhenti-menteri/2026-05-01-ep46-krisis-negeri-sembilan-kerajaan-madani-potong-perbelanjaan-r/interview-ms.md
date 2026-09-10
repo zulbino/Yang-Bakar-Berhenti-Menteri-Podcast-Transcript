@@ -99,9 +99,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Wan Afiq:** Harapnya tidak lah kan. Ni yang mana ni, ni waktu demo hari tu — dia, wartawan tanya dia, tak pergi demo ke? Dia kata dia tak dijemput.
 
-**Multiple speakers:** Kenapa muka dia macam Jamal Abdillah? Haa... itu faham... nak... tanya.
-
-**Multiple speakers:** Saya minta dia kongsi rutin skincare dia.
+**Multiple speakers:** Kenapa muka dia macam Jamal Abdillah? Haa... itu faham... nak... tanya. Saya minta dia kongsi rutin skincare dia.
 
 **Rafizi:** Nampak berbeza lah, nampak muda sikit. Korang dah selalu kutuk mata dia merah, terus dia pakai shade — sorry, tak nampak mata dah. Tapi dia bergaya tu. Tak ada, ni apa dia — "Saya tak akan berhimpun di hadapan Sogo selepas tamat perkhidmatan." Ni sebab apa orang tanya dia, dia sertai demo...
 

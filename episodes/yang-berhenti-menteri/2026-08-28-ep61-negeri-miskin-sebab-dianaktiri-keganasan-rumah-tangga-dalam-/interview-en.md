@@ -41,15 +41,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** Okay, alright YB. Long holiday, what is YB doing? Holiday?
 
-**Rafizi:** Yeah, that's right. Just letting people know. Tomorrow, let's see, what's this? Tomorrow is Saturday, in Melaka, a wedding feast, then a ceramah.
-
-**Rafizi:** Then on Sunday, where? In Puchong.
+**Rafizi:** Yeah, that's right. Just letting people know. Tomorrow, let's see, what's this? Tomorrow is Saturday, in Melaka, a wedding feast, then a ceramah. Then on Sunday, where? In Puchong.
 
 **Haziq:** Sunday in Puchong. Right in Puchong, our HQ. That's for Sepang, all of it. Yes.
 
-**Rafizi:** Then not on the day... The 31 August holiday is also in the schedule.
-
-**Rafizi:** Yes. Then on Tuesday, a ceramah. It's like there's an election coming.
+**Rafizi:** Then not on the day... The 31 August holiday is also in the schedule. Yes. Then on Tuesday, a ceramah. It's like there's an election coming.
 
 **Haziq:** Like there's an election coming. We're really going all out. Okay, okay alright YB, let's continue. For episode 61, because there's quite a lot of "beria" (over-the-top) stuff — last week there was a lot, this week too. First up, the overclaim therapy is back. Right?
 
@@ -75,25 +71,17 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** There's no such thing.
 
-**Haziq:** That means, I do have the common health problems of Malaysians, right.
-
-**Haziq:** Oh, okay. But there are many medical experts who object.
+**Haziq:** That means, I do have the common health problems of Malaysians, right. Oh, okay. But there are many medical experts who object.
 
 **Rafizi:** Are you Googling "Hydrogen" or the ones selling the overclaimed stuff?
 
-**Haziq:** I think the ones selling it are overclaiming. The aunties might be genuinely misguided.
-
-**Haziq:** Hmm, right, I mean maybe they don't know or they're being deceived into the wrong thing. I have a slightly different view.
-
-**Haziq:** Okay, maybe.
+**Haziq:** I think the ones selling it are overclaiming. The aunties might be genuinely misguided. Hmm, right, I mean maybe they don't know or they're being deceived into the wrong thing. I have a slightly different view. Okay, maybe.
 
 **Rafizi:** I think it's the people who go along with this who are the "beria" ones. Okay. Because there will always be people coming with all kinds of products, overclaims, slash scams, all this. Hmm. But nowadays, especially in urban areas — even if someone isn't in that field themselves, even if they don't check it themselves, at the very least their children can, they can refer to their children. So that's also true. Because like me, like my parents, they went to school back in their time. They really don't know how to check ChatGPT, don't check ChatGPT and all that. But they refer everything to us, you know. So God willing they don't get scammed, they've never been scammed their whole lives. They've never been scammed throughout their lives. So maybe the "beria" ones — usually when there's something like this, we should point fingers at the seller, the marketer, at every level. There are laws to take action against them if there's a report. Because every medical device needs a license. Yes. There's the MDA, Medical Device Authority, the medical device authority under the Ministry of Health. They're supposed to control all this. But again, it will always happen. So the best way to avoid this is at the very least, ask people first. So scientifically, if you just put hydrogen near the eyes, what does it do?
 
 **Haziq:** It's an antioxidant because of the hydrogen. Fatigue — same as drinking water. Because sometimes when we drink water we feel less drowsy.
 
-**Rafizi:** If I drink water I get more drowsy.
-
-**Rafizi:** Plain water. Right, plain water. I get more drowsy because I don't drink plain water, I drink sweet drinks.
+**Rafizi:** If I drink water I get more drowsy. Plain water. Right, plain water. I get more drowsy because I don't drink plain water, I drink sweet drinks.
 
 **Haziq:** They say it removes, well, things — its function as an antioxidant. So its function is the same as drinking water.
 
@@ -125,19 +113,11 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** I wonder if people actually wear this? Probably not. But if you buy it, why buy it if you don't wear it? Eh, but I think there really is a campaign — it's fine, they even call us Walanon, like that, so it's a pride thing — they wear it, wherever they go, they go. Commission, KR maybe — Walanon, I mean it's the reverse of "Walaun." If you say "Walaun," the person referred to would get upset.
 
-**Rafizi:** But the design there has really formalized Walanon with Pakatan Harapan, because in the middle there's the Pakatan logo. And they've got sanction from Pakatan Harapan, right? Is that right? So it's fine, I can help buy some. Can buy some. It's not too expensive — RM2.50, RM2.90 only.
-
-**Rafizi:** Walanon — button badge, keychain.
+**Rafizi:** But the design there has really formalized Walanon with Pakatan Harapan, because in the middle there's the Pakatan logo. And they've got sanction from Pakatan Harapan, right? Is that right? So it's fine, I can help buy some. Can buy some. It's not too expensive — RM2.50, RM2.90 only. Walanon — button badge, keychain.
 
 **Haziq:** Oh, keychain.
 
-**Rafizi:** Eh but this one isn't a keychain, this one you wear. Wear it.
-
-**Rafizi:** Right, keychains you wear too? That one's a keychain, that one's a button badge. There are two. So who's "beria" here? Even if you're excited, don't get too into it — I hope he gets a PJK medal or something. Aren't you sorry to be included in "beria"?
-
-**Rafizi:** Oh, at the very least I hope his button badges are out of stock. Really becomes a hot selling item.
-
-**Rafizi:** So kid, if nobody buys it, the kid should thank us for helping promote the Walanon Army button badge. Keep up the hard work.
+**Rafizi:** Eh but this one isn't a keychain, this one you wear. Wear it. Right, keychains you wear too? That one's a keychain, that one's a button badge. There are two. So who's "beria" here? Even if you're excited, don't get too into it — I hope he gets a PJK medal or something. Aren't you sorry to be included in "beria"? Oh, at the very least I hope his button badges are out of stock. Really becomes a hot selling item. So kid, if nobody buys it, the kid should thank us for helping promote the Walanon Army button badge. Keep up the hard work.
 
 **Haziq:** Keep up the hard work. Okay, okay YB, now let's move on to political figures.
 
@@ -153,9 +133,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** For example, playing devil's advocate — if I were this lecturer or the people supporting him, defending academic freedom, this view, his view on academic freedom. Why is it, YB, that whenever it's not aligned with YB, YB wants to cut it, wants to cancel it?
 
-**Rafizi:** No, it's not that. It must be within his expertise and also for expanding and developing the knowledge in the field we're an expert in, our field of study. I don't think his research is on Rafizi's weaknesses. I don't think at the university he teaches that subject. We don't even know what subject he teaches, what his research is. So — if it's just about giving comments, sure there will be academics who are often asked about political views, we see that all the time. But that's also a reminder to each of us, including academics who often give commentary, whoever it is, especially academics, because our comments must be the result of our expertise. Not just because we became a senior lecturer and then we comment on all sorts of things, ending up like Dr. Solehah.
-
-**Rafizi:** That thing has already happened, right. So it's made worse if he's never commented at all about his academic field, on things related to his research — we don't even know what he studies — but suddenly on one-sided political matters, to become a hired gun, that's a great achievement, no need for that. Give him to the Walanon Army earlier, send him a batch.
+**Rafizi:** No, it's not that. It must be within his expertise and also for expanding and developing the knowledge in the field we're an expert in, our field of study. I don't think his research is on Rafizi's weaknesses. I don't think at the university he teaches that subject. We don't even know what subject he teaches, what his research is. So — if it's just about giving comments, sure there will be academics who are often asked about political views, we see that all the time. But that's also a reminder to each of us, including academics who often give commentary, whoever it is, especially academics, because our comments must be the result of our expertise. Not just because we became a senior lecturer and then we comment on all sorts of things, ending up like Dr. Solehah. That thing has already happened, right. So it's made worse if he's never commented at all about his academic field, on things related to his research — we don't even know what he studies — but suddenly on one-sided political matters, to become a hired gun, that's a great achievement, no need for that. Give him to the Walanon Army earlier, send him a batch.
 
 **Haziq:** Send him a batch. Okay, okay that's YB. Okay, beria. But it's fine, what, not satisfied yet with the response — is Dato' Sri Anwar's response, what, denying Azmin's response, is that really true?
 
@@ -163,9 +141,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** So that's their advantage, giving slogans or branding is really top-notch. But implementation, we don't know how that goes, YB. And this is linked to right after the national muktamar.
 
-**Rafizi:** How does this work? If in this world it's Baitul Maqdis, in Malaysia the equivalent is Tabung Haji itself. Huh? The logic doesn't connect.
-
-**Rafizi:** So what does that mean, what's the parallel? It means Baitul Maqdis is attacked or attempted to be destroyed by Israeli forces. So Tabung Haji is being attempted to be destroyed, how? But the friend who's trying to destroy Tabung Haji — eh, there isn't one. Their narrative is DAP. Maybe that's it.
+**Rafizi:** How does this work? If in this world it's Baitul Maqdis, in Malaysia the equivalent is Tabung Haji itself. Huh? The logic doesn't connect. So what does that mean, what's the parallel? It means Baitul Maqdis is attacked or attempted to be destroyed by Israeli forces. So Tabung Haji is being attempted to be destroyed, how? But the friend who's trying to destroy Tabung Haji — eh, there isn't one. Their narrative is DAP. Maybe that's it.
 
 **Haziq:** Oh, that's what he means.
 
@@ -173,9 +149,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Haziq:** So what's the "beria" part? The "beria" part, YB, is defending it as if it were Baitul Maqdis. But, well, the RCI was during their era too, and they were also once in government. And now — that's...
 
-**Rafizi:** PAS supporters are the ones getting angry about why the Tabung Haji issue, the RCI, is linked to PAS. One reason is that PAS is a voice that, if they were firm and not an enabler, might be the one with the most credibility in protecting Tabung Haji's interests. After I spent two years showing all the evidence, the answer from Datuk Seri Hadi Awang was — uh — the Tabung Haji issue is an attempt to embarrass the Malay institution, the Muslim institution. That makes him an enabler. Then, recently in 2026 he repeated the same thing. That's treating it as an attack. So that's why when a PAS youth asked what the connection is, I mentioned three things. We don't need to go too deep into it, just the actions that have taken place. One is that the PAS President's stance hasn't budged at all, since 2018 before the RCI, that when he says things like that, it means he doesn't accept the weakness — he doesn't accept that billions of ringgit were lost, he rejects that fact. Second, the RCI, they were the ones who demanded...
-
-**Rafizi:** PH at that time didn't want to do it. So when it became a Perikatan Nasional government in 2022, like that, they did it. My God, incredible, right. And even during their time — their religious minister, at that time their deputy religious minister was also PAS, even in August 2022, about two months before parliament was dissolved. But he didn't bring it to the cabinet and didn't make the decision to disclose it either. He sat on it. Then PH came in and continued to sit on it. If Tabung Haji really is like Baitul Maqdis, that's sad, we really have no Baitul Maqdis at this rate, one after another.
+**Rafizi:** PAS supporters are the ones getting angry about why the Tabung Haji issue, the RCI, is linked to PAS. One reason is that PAS is a voice that, if they were firm and not an enabler, might be the one with the most credibility in protecting Tabung Haji's interests. After I spent two years showing all the evidence, the answer from Datuk Seri Hadi Awang was — uh — the Tabung Haji issue is an attempt to embarrass the Malay institution, the Muslim institution. That makes him an enabler. Then, recently in 2026 he repeated the same thing. That's treating it as an attack. So that's why when a PAS youth asked what the connection is, I mentioned three things. We don't need to go too deep into it, just the actions that have taken place. One is that the PAS President's stance hasn't budged at all, since 2018 before the RCI, that when he says things like that, it means he doesn't accept the weakness — he doesn't accept that billions of ringgit were lost, he rejects that fact. Second, the RCI, they were the ones who demanded... PH at that time didn't want to do it. So when it became a Perikatan Nasional government in 2022, like that, they did it. My God, incredible, right. And even during their time — their religious minister, at that time their deputy religious minister was also PAS, even in August 2022, about two months before parliament was dissolved. But he didn't bring it to the cabinet and didn't make the decision to disclose it either. He sat on it. Then PH came in and continued to sit on it. If Tabung Haji really is like Baitul Maqdis, that's sad, we really have no Baitul Maqdis at this rate, one after another.
 
 **Haziq:** And if we continue, that's why they're demanding an RCI 2.0 be done for Tabung Haji.
 
@@ -299,9 +273,7 @@ Article 80 and Article 81
 
 **Rafizi:** federal law, which we call an Act. At the same time, Parliament
 
-**Haziq:** can only make laws related to its own jurisdiction — the states have their own
-
-**Haziq:** jurisdiction which can be legislated through enactments or ordinances in Sabah or Sarawak — this
+**Haziq:** can only make laws related to its own jurisdiction — the states have their own jurisdiction which can be legislated through enactments or ordinances in Sabah or Sarawak — this
 
 **Rafizi:** legislate only within its own jurisdiction. That's legislative power. Executive power, on the other hand, is
 
@@ -315,13 +287,9 @@ So when people talk about power, power, power — well, my understanding of the 
 
 **Haziq:** for the long list — what's federal, what's state, what's shared. If
 
-**Rafizi:** In terms of reading, most people don't... yeah, they don't read the Constitution every day. People say "list, list, list" to the public. This "list" isn't a table. It's a long schedule. It's actually still in paragraph form within the Constitution. So if you want to find the Ninth Schedule list, go to Part 50... at the back. Go to Part 15... eh, no. It's in the list. In the Ninth Schedule. Go to the back, it's there, right. It has its own paragraphs too, the Ninth Schedule. It refers to an article, I don't remember which. But it means, after Article 183 ends, that's when the schedules start. Yes, the last article is Article 183. Then it includes the First Schedule, Second Schedule, and so on. But I think even in the Ninth Schedule, there are sub-references within it. It stems from Articles 74 and 77. It goes to the Fifth Schedule, Conference of Rulers. Eighth Schedule... okay, Eighth Schedule... the Ninth Schedule is about the Rulers. Then Ninth Schedule... hold on, everyone. Not yet. Ha. The Ninth Schedule, which refers to Articles 74 and 77. It shows List 1, the Federal List. There's a lot there. Foreign affairs, paragraph 1. Second paragraph, federal defence. Third paragraph, and under that there are various things.
+**Rafizi:** In terms of reading, most people don't... yeah, they don't read the Constitution every day. People say "list, list, list" to the public. This "list" isn't a table. It's a long schedule. It's actually still in paragraph form within the Constitution. So if you want to find the Ninth Schedule list, go to Part 50... at the back. Go to Part 15... eh, no. It's in the list. In the Ninth Schedule. Go to the back, it's there, right. It has its own paragraphs too, the Ninth Schedule. It refers to an article, I don't remember which. But it means, after Article 183 ends, that's when the schedules start. Yes, the last article is Article 183. Then it includes the First Schedule, Second Schedule, and so on. But I think even in the Ninth Schedule, there are sub-references within it. It stems from Articles 74 and 77. It goes to the Fifth Schedule, Conference of Rulers. Eighth Schedule... okay, Eighth Schedule... the Ninth Schedule is about the Rulers. Then Ninth Schedule... hold on, everyone. Not yet. Ha. The Ninth Schedule, which refers to Articles 74 and 77. It shows List 1, the Federal List. There's a lot there. Foreign affairs, paragraph 1. Second paragraph, federal defence. Third paragraph, and under that there are various things. If federal defence is A, that covers the navy, army, air force, and other armed forces too. Then we go to... and in there, for example, um, including finance — finance is under federal jurisdiction. Currency matters, federal reserves and banks, all loan matters, and so on. So why did we end up here? We're sitting here discussing this, people are already lost. Actually it's fine, the two of us sitting here talking, even I'm lost. Hmm. We...
 
-**Rafizi:** If federal defence is A, that covers the navy, army, air force, and other armed forces too. Then we go to... and in there, for example, um, including finance — finance is under federal jurisdiction. Currency matters, federal reserves and banks, all loan matters, and so on. So why did we end up here? We're sitting here discussing this, people are already lost. Actually it's fine, the two of us sitting here talking, even I'm lost. Hmm. We...
-
-**Haziq:** Let's give perspective to help people understand. The Federation has its jurisdiction, the states have theirs. If we want to solve what, well, what Sanusi said all comes back to this. So
-
-**Haziq:** we want to re-evaluate whether this model is still sustainable for us to continue our lives in this country of Malaysia. So,
+**Haziq:** Let's give perspective to help people understand. The Federation has its jurisdiction, the states have theirs. If we want to solve what, well, what Sanusi said all comes back to this. So we want to re-evaluate whether this model is still sustainable for us to continue our lives in this country of Malaysia. So,
 
 **Rafizi:** let's continue with that. Usually with this federal matter, people don't even know which is federalist — for example, roads. I think most people don't even know which roads are federal roads,
 
@@ -331,11 +299,7 @@ So when people talk about power, power, power — well, my understanding of the 
 
 **Haziq:** the state government. Is that right? Except... the Federal Government
 
-**Rafizi:** collects taxes
-
-**Rafizi:** from business. Business tax, tax... but this is the part that isn't fully explained. They talk about tax revenue, but they don't talk about the liabilities and burdens. Because if you look at the state government's jurisdiction, everything
-
-**Rafizi:** related to the people, except land, including housing, all falls under the federal government. It's just that there's a concurrent list — a shared list where both can act. This concurrent list includes social welfare, protection of women, children, scholarships, protection of animals, national parks. What's animal husbandry? Err... protection of wild animals and birds.
+**Rafizi:** collects taxes from business. Business tax, tax... but this is the part that isn't fully explained. They talk about tax revenue, but they don't talk about the liabilities and burdens. Because if you look at the state government's jurisdiction, everything related to the people, except land, including housing, all falls under the federal government. It's just that there's a concurrent list — a shared list where both can act. This concurrent list includes social welfare, protection of women, children, scholarships, protection of animals, national parks. What's animal husbandry? Err... protection of wild animals and birds.
 
 **Haziq:** That's
 
@@ -461,27 +425,15 @@ So we've reached the stage where state governments seem to depend so much on the
 
 **Haziq:** The violence carried out by the government led by Datuk Seri Anwar Ibrahim is getting more and more impressive — something we've never seen before, one after another, not enough days for all these people to get charged. What is Datuk Seri Anwar actually trying to do, YB?
 
-**Rafizi:** Hmm, well... don't ask me, how would I know what's in his head. Scientifically speaking — what's this, a hypothesis. Yeah, people say it's a possibility. Talking podcast talk, talking podcast, right. Hmm. Yeah, after what happened, meaning we've had a series, right — Tabung Haji, Datuk Seri Aziz, former MP, former member of the Supreme Council of Lembaga Tabung Haji. Then Tan Sri Irwan Serigar, he's a strongman of Datuk Seri Najib's, right. Then Dato' Sri Ismail Sabri Yaakob, former Prime Minister. Then Dato' Sri Saravanan, Deputy President of MIC. And yes, I've been hearing there will be more.
-
-**Rafizi:** There will be more. So... their group
-
-**Rafizi:** ...also, God knows best. So yes, but I think I sleep fine at night, I don't know about others. But, I mean, after PH's defeat in Johor and Negeri Sembilan, and political comments suggesting Dato' Sri Anwar seems to have difficulty returning to become Prime Minister, followed by UMNO's enthusiasm which seems to be challenging him, and everyone knows UMNO/Barisan Nasional has 30 seats. So what, you know, what possibilities could happen — whether UMNO withdraws, he doesn't become PM — so there's a lot of speculation about what options Dato' Sri Anwar has. Actually, he only has a few options, as I see it. One option — if it's the dignified option, for me, if it's the dignified option, is that he dissolves parliament and returns it to the people. Meaning, it's a political household matter if, for example — it's already clearly visible. I remember before, what was it, during the early Pakatan Rakyat days when they won in 2008 — PAS, PKR, DAP — the endless UMNO attack was "sleeping on the same pillow, dreaming different dreams." These parties, PH and BN now, it's no longer about sleeping on the same pillow. This is about... ha... sleeping
-
-**Rafizi:** different dreams is one thing. This is
-
-**Rafizi:** fighting before sleep. Black eyes every night. Every night. Ha... every night. Black eyes, you know. Before, Pakatan Rakyat said sleeping on the same pillow, dreaming different dreams. Now it's literally domestic violence every day — can't even enter the room. So if it's a household like that, the solution should already be clear — can't live in the same house anymore. And ordinary people would usually say, right, meaning there's a separation, whether divorce or whatever phase. So that's politically the state of PH-BN now. If it's the dignified way, the government should be dissolved, parliament dissolved, and the decision returned to the people to get a mandate. But you and I know, Datuk Seri Anwar, it's not like that. So that's option one. Option two is he tries persuasion, persuasion, persuasion. Hmm, it seems that has become water under the bridge — during Johor and Negeri Sembilan, the persuasion attempts didn't work. And I remember, if we put it in context, during the Johor state election he said, you know, "don't be too harsh, you know, whatever the outcome, I remain Prime Minister" — actually that already gave clues that he would take the third option. The third option is political domestic violence. Choking. Ha, choking. Choking, then, what's it called, locking the door, can't get out. Ha, right. So black eyes every day. And we're already seeing the early series of violence now, right. So take the example
+**Rafizi:** Hmm, well... don't ask me, how would I know what's in his head. Scientifically speaking — what's this, a hypothesis. Yeah, people say it's a possibility. Talking podcast talk, talking podcast, right. Hmm. Yeah, after what happened, meaning we've had a series, right — Tabung Haji, Datuk Seri Aziz, former MP, former member of the Supreme Council of Lembaga Tabung Haji. Then Tan Sri Irwan Serigar, he's a strongman of Datuk Seri Najib's, right. Then Dato' Sri Ismail Sabri Yaakob, former Prime Minister. Then Dato' Sri Saravanan, Deputy President of MIC. And yes, I've been hearing there will be more. There will be more. So... their group ...also, God knows best. So yes, but I think I sleep fine at night, I don't know about others. But, I mean, after PH's defeat in Johor and Negeri Sembilan, and political comments suggesting Dato' Sri Anwar seems to have difficulty returning to become Prime Minister, followed by UMNO's enthusiasm which seems to be challenging him, and everyone knows UMNO/Barisan Nasional has 30 seats. So what, you know, what possibilities could happen — whether UMNO withdraws, he doesn't become PM — so there's a lot of speculation about what options Dato' Sri Anwar has. Actually, he only has a few options, as I see it. One option — if it's the dignified option, for me, if it's the dignified option, is that he dissolves parliament and returns it to the people. Meaning, it's a political household matter if, for example — it's already clearly visible. I remember before, what was it, during the early Pakatan Rakyat days when they won in 2008 — PAS, PKR, DAP — the endless UMNO attack was "sleeping on the same pillow, dreaming different dreams." These parties, PH and BN now, it's no longer about sleeping on the same pillow. This is about... ha... sleeping different dreams is one thing. This is fighting before sleep. Black eyes every night. Every night. Ha... every night. Black eyes, you know. Before, Pakatan Rakyat said sleeping on the same pillow, dreaming different dreams. Now it's literally domestic violence every day — can't even enter the room. So if it's a household like that, the solution should already be clear — can't live in the same house anymore. And ordinary people would usually say, right, meaning there's a separation, whether divorce or whatever phase. So that's politically the state of PH-BN now. If it's the dignified way, the government should be dissolved, parliament dissolved, and the decision returned to the people to get a mandate. But you and I know, Datuk Seri Anwar, it's not like that. So that's option one. Option two is he tries persuasion, persuasion, persuasion. Hmm, it seems that has become water under the bridge — during Johor and Negeri Sembilan, the persuasion attempts didn't work. And I remember, if we put it in context, during the Johor state election he said, you know, "don't be too harsh, you know, whatever the outcome, I remain Prime Minister" — actually that already gave clues that he would take the third option. The third option is political domestic violence. Choking. Ha, choking. Choking, then, what's it called, locking the door, can't get out. Ha, right. So black eyes every day. And we're already seeing the early series of violence now, right. So take the example
 
 **Haziq:** right.
 
-**Rafizi:** Yes, I think Dato' Sri Anwar feels that UMNO will be afraid. Maybe he's right. Maybe he's right, if you look at Melaka for example. Yes yes yes
-
-**Rafizi:** Melaka. Ha. If we compare going into the Johor state election, going into the Negeri Sembilan state election, the situation was very hostile — between BN and PH supporters and leaders, cursing each other every day, fighting, all sorts. The feeling in Melaka is quiet.
+**Rafizi:** Yes, I think Dato' Sri Anwar feels that UMNO will be afraid. Maybe he's right. Maybe he's right, if you look at Melaka for example. Yes yes yes Melaka. Ha. If we compare going into the Johor state election, going into the Negeri Sembilan state election, the situation was very hostile — between BN and PH supporters and leaders, cursing each other every day, fighting, all sorts. The feeling in Melaka is quiet.
 
 **Haziq:** he has all the leverage — 21 seats, he's strong on everything. And we've also noticed, if in Johor and Negeri
 
-**Rafizi:** Sembilan, it was already clear BN would be with PN. Now we're still waiting for Rauf to make the announcement of where they'll sit together, which kadi, where they'll marry — he's been talking about it for several months now. This time if they really formalize things — so it seems like it hasn't happened yet, everyone is actually just guessing. So, in the absence of a large-scale open fight, you know, we can't rule out the possibility that BN might actually go with PH. Because if not, Dr. Akmal Saleh wouldn't have shouted early on — "if it's with PH, I won't contest." If my reading as a politician is right, that indirectly confirms that discussions between BN and PH for Melaka are serious. So if we put this against that backdrop, meaning, the third-option strategy, this domestic violence, might be effective for now
-
-**Rafizi:** for Dato' Sri Anwar, to lock the door and hit UMNO hard. UMNO might slow down a bit because of that. If we look at these cases... the case of Datuk Seri Ismail Sabri for example, that case went through the courts
+**Rafizi:** Sembilan, it was already clear BN would be with PN. Now we're still waiting for Rauf to make the announcement of where they'll sit together, which kadi, where they'll marry — he's been talking about it for several months now. This time if they really formalize things — so it seems like it hasn't happened yet, everyone is actually just guessing. So, in the absence of a large-scale open fight, you know, we can't rule out the possibility that BN might actually go with PH. Because if not, Dr. Akmal Saleh wouldn't have shouted early on — "if it's with PH, I won't contest." If my reading as a politician is right, that indirectly confirms that discussions between BN and PH for Melaka are serious. So if we put this against that backdrop, meaning, the third-option strategy, this domestic violence, might be effective for now for Dato' Sri Anwar, to lock the door and hit UMNO hard. UMNO might slow down a bit because of that. If we look at these cases... the case of Datuk Seri Ismail Sabri for example, that case went through the courts
 
 **Haziq:** yes yes yes, right, so during the commotion, when he was first arrested, showing the money and everything, we were all in an uproar, charges, charges, charges, right. Hmm.
 
