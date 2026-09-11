@@ -96,7 +96,11 @@ def mai(vid):
                      "-i", str(ROOT / "audio" / f"{vid}.m4a"), "-ac", "1", "-b:a", "64k", str(mp3)])
         if not ok:
             return False, "transcode failed: " + o
-    return run([PY, "scripts/transcribe_mai.py", vid], cwd=ROOT)
+    # --no-diarization: the gateway's 120s timeout cuts off diarization under load (see
+    # ARCHITECTURE.md, "the third limit"), and nothing downstream uses MAI's own speaker
+    # ids anyway -- the split tool takes clusters from pyannote and its reference from the
+    # camera.
+    return run([PY, "scripts/transcribe_mai.py", vid, "--no-diarization"], cwd=ROOT)
 
 
 def diarize(vid):
