@@ -1190,3 +1190,64 @@ So ep33's published `Speaker ?` labels are the pipeline being honest, and
 regenerating its interview files would not fix them. **The defect to fix is the
 13,857-character raw block**, which is the `project_published_turn_collapse` class
 and needs the owner's ear or a camera reference ep33 does not have.
+
+## A camera reference can be confidently wrong: unenrolled guests (2026-09-11)
+
+The face gallery holds the three regulars. A guest's face matches nobody, so the
+pass hands his segments to the nearest gallery member, which is always Rafizi
+because he is on screen most. The output looks completely normal.
+
+ep33's full 152-minute pass produced 71% coverage, 400 segments and a well-formed
+RTTM:
+
+| | Rafizi | Wong Chen | Haziq | Farhan |
+|---|---|---|---|---|
+| raw.md | 70.9% of time | **18.3%** | 10.0% | 0.8% |
+| reference | 93.8% | **0.0%** | 4.7% | 1.5% |
+
+Wong Chen has 172 blocks and 20.1% of raw's words. Adopting that reference would
+have put a named politician's words under Rafizi's name.
+
+**DER was 11.9%, which passes. JER was 48.1%, against ep52's 16.3%.** This is the
+DER trap documented under "Reading the camera off the video", hit from the other
+direction: DER is dominated by whoever speaks most, so losing a speaker who holds a
+fifth of the episode barely moves it.
+
+Three references already on disk fail the same way, found by the new check and listed
+with their blind speakers in `data/camera_reference_limits.json`:
+
+    ep50   Wan Afiq                   11.5% of raw's words -> 0.0%
+    ep52   Zaim Zulkifli 9.4%, Syuk 8.6%          -> 0.0% both
+    ep55   four guests, 5.4-7.6% each             -> 0.0% all
+
+ep52 is adopted and was checked: its raw.md still names both guests, 65 blocks each,
+so the adoption kept raw's labels where the camera was blind and no damage was done.
+
+**Enrollment works** -- this is not a flaw in the approach. ep60's guest Sum Dek Jo
+is 15.3% of raw's words and 14.4% of the reference's time, and it passes.
+
+### The gate
+
+`scripts/check_camera_reference.py` compares the CAST, not the timing: a speaker
+holding at least 5% of raw's words must retain at least a fifth of that share in the
+reference. Keyed on characters rather than seconds, because block durations come from
+stamps and stamps drift. It says nothing about whether the boundaries are right, so
+it is a gate before scoring and never a substitute for it.
+
+Wired into the two places that would otherwise consume a bad reference silently:
+
+  - `nightly_recut.py` gates the reference and skips the split dry run on failure.
+  - `fold_hanging_fragments.py` refuses by default. Its condition 1 is "the camera
+    covers NONE of the fragment's seconds", which a reference blind to a speaker
+    makes trivially true for every fragment that person speaks -- so it would fold
+    their words into whoever is on either side.
+
+### Consequence for the queue
+
+**Check the cast before spending 2.5 hours of GPU on an episode with a guest.** ep36
+was pulled from the queue on this basis before it started (guest Lee Chean Chung, 45
+of 99 blocks). ep33 and ep36 both need the gallery rebuilt with their guest enrolled.
+
+A bad run does not waste the GPU time: `data/_camera_tracks_<vid>/` keeps every face
+track and mouth-sync score, so a corrected gallery can be re-matched against the
+existing tracks without re-running the video stage.
