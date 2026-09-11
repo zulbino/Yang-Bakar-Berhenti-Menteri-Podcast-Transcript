@@ -60,13 +60,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [05:03] Rafizi: ada mesej. Apa yang berlaku sebenarnya?
 
-[05:09] Haziq: Ada event pernikahan malam itu. Okey. Dan selepas daripada, dikatakan lelaki lah kan, keluar daripada majlis kahwin dia untuk pergi buang air. Tau-tau terus hilang. Jadi ada SAR lah, search and rescue punya. Lama mana dia hilang sebelum SAR? Sampai pukul 5 pagi baru jumpa. So daripada pukul 2 start. 2 petang? 2 pagi lah
+[05:09] Haziq: Ada event pernikahan malam itu. Okey. Dan selepas daripada, dikatakan lelaki lah kan, keluar daripada majlis kahwin dia untuk pergi buang air. Tau-tau terus hilang. Jadi ada SAR lah, search and rescue punya. Lama mana dia hilang sebelum SAR? Sampai pukul 5 pagi baru jumpa. So daripada pukul 2 start. 2 petang? 2 pagi lah 2, 3, 4, 5
 
-[05:37] Speaker ?: 2, 3, 4, 5
-
-[05:40] Rafizi: Macam mana hilang dia terus, dia trigger SDR? Dia bukan missing person. Dia perlukan sekurang-kurangnya 24 jam. Kalau ikut dari bomba lah. Baiknya bomba kat Malaysia ni. Dia I think secara global lah. Dia ada peraturan dia sebelum pihak berkuasa mengambil tindakan. Kecuali... Sebab itu kalau di US Dia ada undang-undang Amber Alert tu Kecuali kalau budak Kalau budak tu dia lebih pendek lah Tapi kalau orang dewasa Selalunya peraturan Ialah memang kena tunggu Satu hari 24 jam Sebab dia mungkin Macam ni lah dia tertidur Dia tertidur lah Dia duduk rumah kawan dia lah Cuma tak tahulah sekarang ni sebab ada handphone Jadi kalau cuba-cuba Jadi maksudnya dalam hilang 1-2 jam tu Bomber terus buat sar
-
-[06:42] Speaker ?: Sebab dia
+[05:40] Rafizi: Macam mana hilang dia terus, dia trigger SDR? Dia bukan missing person. Dia perlukan sekurang-kurangnya 24 jam. Kalau ikut dari bomba lah. Baiknya bomba kat Malaysia ni. Dia I think secara global lah. Dia ada peraturan dia sebelum pihak berkuasa mengambil tindakan. Kecuali... Sebab itu kalau di US Dia ada undang-undang Amber Alert tu Kecuali kalau budak Kalau budak tu dia lebih pendek lah Tapi kalau orang dewasa Selalunya peraturan Ialah memang kena tunggu Satu hari 24 jam Sebab dia mungkin Macam ni lah dia tertidur Dia tertidur lah Dia duduk rumah kawan dia lah Cuma tak tahulah sekarang ni sebab ada handphone Jadi kalau cuba-cuba Jadi maksudnya dalam hilang 1-2 jam tu Bomber terus buat sar Sebab dia
 
 [06:43] Farhan (Pa'an): berlaku dekat kampung Sirah Dekat Dekat Outskirts Kuching So penalaman sikit Dia dekat penalaman lah Walaupun Kuching Padawan eh Apa nama dia Padawan
 

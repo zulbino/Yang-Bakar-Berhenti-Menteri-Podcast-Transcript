@@ -312,8 +312,6 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:34:36] Farhan (Pa'an): So dia menjadi satu... telur emas yang terletak di dalam kisar jadi Ia akan jadi sesuatu yang orang akan berebutlah setiap kali ada pilihan raya, parti mana pun naik sebagai kerajaan, memang akan berebut untuk mendapatkan kerusi Menteri Keuangan. Dari segi reformasi atau reformasi di institusi, bagaimana kita membatalkan ini daripada berlaku?
 
-[1:35:07] Speaker ?: Saya boleh lihat.
-
 [1:35:08] Iqbal: Sebab salah satu janji dalam manifesto Katan Harapan adalah pisahkan kenderaan kewangan daripada pejabat, Perdana Menteri. Apa format itu?
 
 [1:35:17] Farhan (Pa'an): I think this goes beyond it. The pencerkuasa Menteri Kewangan ada ni, I mean it should be just fiscal managing. But this
@@ -431,8 +429,6 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 [2:45:41] Rafizi: Semua Sebab Di Apa nama ni the instability tu, part of it juga because of anti-corruption protest. Sebab dia almost ada parallel tau dengan bukan sahaja Malaysia, negara-negara lain, basically voters yang sebenarnya dah fed up dengan semua kerajaan. Dan diorang ini dah capai lebih kurang berapa, lebih kurang almost 35, 36 tahun. Nicola Ciacasco was brought down tahun bila? 1989. Is it? Google? Google? Semoga berjaya. 1989 kan?
 
 [2:46:27] Farhan (Pa'an): Hmm...
-
-[2:46:29] Speaker ?: Saya boleh lihat.
 
 [2:46:31] Rafizi: 1989 kan? 1989. So dia punya long... 1965 to 1989. Dia 1989 kan? So dia punya diktator yang lama tu Casesco lah. 1965 sampai 1989. So he was shot. In public tau kan? Tapi lepas itu masih lagi kerajaan komunis. So bila the Soviet bloc penamani jatuh, so dia mula jadi demokrasi lah. So if you think about it, sebuah generasi telah melalui harapan itu for a better country after the collapse of communists. And dia tengok macam mana Poland is doing so much better, dia tengok Czechs is doing so much better. So, voters dekat Romania ni, dia dah jadi disillusion dengan hope, hope, lebih baik, ekonomi lebih baik, lepas tu corruption, tengok sama saja kan. So sebab itu, they had successive change of governments. dan itu mencipta pintu yang berubah. Sebab itu dia banyak paralel dengan Malaysia. Jadi jika mereka mampu melakukannya dan mereka perlu reform semua, maksudnya bila dia masuk EU dulu kan, dia ada seri keperluan. Bukan sahaja ekonomi, tapi reform yang lain. EU punya set reform ini lagi panjang. Jadi jika mereka boleh menolaknya, maka jelas mereka lebih unik daripada Poland. the kind of revolving door that they had for the last few days lah. Dan mungkin kita patut hantar ahli-ahli parlimen PH pergi ke Romania lah belajar macam mana. Hehehe
 

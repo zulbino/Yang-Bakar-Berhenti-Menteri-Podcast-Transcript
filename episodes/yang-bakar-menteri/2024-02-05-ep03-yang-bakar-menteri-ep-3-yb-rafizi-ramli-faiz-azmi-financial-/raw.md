@@ -234,5 +234,3 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 [2:01:54] Rafizi: ia menjadi
 
 [2:01:54] Syed Munawar: pendidikan. Ya, itu salah satu tujuan podcast ini juga. Kita nak mencerdikkan orang-orang di bawah sana. Okey, terima kasih Surah Faiz sekali lagi. Terima kasih YB yang meluangkan masa. Ya, kita ingat sejam setengah tapi kita dah pergi dua jam lebih kan? Okey. Jumpa lagi 2 minggu dari sekarang. InsyaAllah. Assalamualaikum warahmatullahi wabarakatuh. Bye-bye. Assalamualaikum warahmatullahi wabarakatuh.
-
-[2:02:21] Speaker ?: Terima kasih.

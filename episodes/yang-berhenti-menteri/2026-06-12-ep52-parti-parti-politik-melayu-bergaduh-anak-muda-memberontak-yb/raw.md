@@ -21,9 +21,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 # Raw Transcript
 
-[00:44] Speaker ?: Assalamualaikum dan salam sejahtera. Macam biasa bersama saya yang
-
-[00:49] Haziq: Suara tak baik lagi, saudara Haziq. Dan macam biasa juga. Saudara Haziq? Saudara Haziq macam pelik kan, Haziq.
+[00:44] Haziq: Assalamualaikum dan salam sejahtera. Macam biasa bersama saya yang suara tak baik lagi, saudara Haziq. Dan macam biasa juga. Saudara Haziq? Saudara Haziq macam pelik kan, Haziq.
 
 [00:56] Rafizi: Mana ada orang memperkenalkan diri nama saya saudara Haziq. Okey, saya salah, saya salah. Waalaikumussalam. Saya over. Ha, over sikit di situ macam Kamil Munim.
 

@@ -123,9 +123,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [25:17] Haziq: jadi menteri besar Gaji Menteri Besar Terengganu pun
 
-[25:23] Speaker ?: memang antara yang paling
-
-[25:23] Haziq: tinggi dah sekarang pun
+[25:23] Haziq: memang antara yang paling tinggi dah sekarang pun
 
 [25:24] Rafizi: kalau dibandingkan dengan negeri-negeri lain kan. Kemudian campur lagi allowance-allowance
 
@@ -305,4 +303,4 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:17:03] Haziq: balik lah Ini buatan usiapan Raya YB tahun ni lah Yang akan keluar nanti Okay Itu sahaja Selamat Raya Selamat Raya Oh kereta
 
-[2:17:09] Speaker ?: elok-elok Okay bye Assalamualaikum Assalamualaikum
+[2:17:09] Multiple speakers: elok-elok Okay bye Assalamualaikum Assalamualaikum
