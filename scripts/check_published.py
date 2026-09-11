@@ -206,12 +206,26 @@ def check(ep_dir):
         numbered = Counter(l for l, _ in turns if DERIVED_PLACEHOLDER_RE.match(l))
         if numbered:
             shown = ", ".join(f"{k} x{v}" for k, v in numbered.most_common(3))
-            issues.append((
-                "published-placeholder",
-                f"{name} labels {sum(numbered.values())} turn(s) with a diarizer cluster "
-                f"id ({shown}) -- ep54 prints all 97 turns this way while its frontmatter "
-                f"names both hosts, and ep56 does it beside a 'Speaker 1 (Rafizi Ramli)' "
-                f"that gives the name away"))
+            # Two different defects share this flag and they need different fixes, so say
+            # which one. A cluster id is one voice the rewrite failed to name, and
+            # name_published_placeholders.py resolves it. `Speaker ?` is a PER-TURN unknown;
+            # name_published_unknowns.py resolves 0 of 114 of them, because on ep33 they all
+            # trace into one 13,857-character block that holds two people.
+            unknown = sum(v for k, v in numbered.items() if "?" in k)
+            if unknown == sum(numbered.values()):
+                issues.append((
+                    "published-placeholder",
+                    f"{name} labels {unknown} turn(s) `Speaker ?` ({shown}) -- a PER-TURN "
+                    f"unknown, not a cluster id. Do not name these from raw.md by text "
+                    f"overlap: on ep33 all of them trace into one 13,857-char block that "
+                    f"holds two speakers. Check raw.md for a collapsed block first"))
+            else:
+                issues.append((
+                    "published-placeholder",
+                    f"{name} labels {sum(numbered.values())} turn(s) with a diarizer cluster "
+                    f"id ({shown}) -- ep54 prints all 97 turns this way while its frontmatter "
+                    f"names both hosts, and ep56 does it beside a 'Speaker 1 (Rafizi Ramli)' "
+                    f"that gives the name away"))
 
         # Exclude the numbered ones: published-placeholder already reports those, and
         # counting them twice made 9 episodes carry two flags for one set of turns.
