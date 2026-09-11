@@ -1293,3 +1293,15 @@ other than the first process's own log content.** `while ! grep -q "^[0-9:]+
 finished:" <log>; do sleep 300; done` is bash-only and was already the pattern the
 prior session used; a `Get-Process -Id` check added a second, needlessly fragile
 path to the same answer.
+
+### A hyphen-prefixed video id breaks the reference call, not just this once
+
+ep41's resumed run above still failed after the GPU contention was fixed --
+`camera_reference: FAILED in 0.0 min`, `error: the following arguments are
+required: uri`. The cause was unrelated to the contention: ep41's video id is
+`-HujDcVKHzU`, and `nightly_recut.py`'s `camera_reference()` passed it as the
+first positional argument, before `--tracks`/`--out`/`--runtime`. argparse reads
+a token starting with `-` as an unknown option unless `--` marks the end of
+options, so it never bound to `uri` at all. Fixed by moving `vid` after a
+trailing `--`, last in the argument list. Two other episodes share the same
+risk (`-NjVESCWO8w`, `-tpyLr5kwxI`) and are now covered by the same fix.
