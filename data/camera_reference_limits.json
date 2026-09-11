@@ -1,0 +1,51 @@
+{
+ "_what": "Camera references that are BLIND to a speaker raw.md says holds real word volume. Produced by scripts/check_camera_reference.py, which nightly_recut.py and fold_hanging_fragments.py now run before believing a reference.",
+ "_cause": "The face gallery holds the three regulars. A guest's face matches nobody, so the pass hands his segments to the nearest gallery member -- always Rafizi, who is on screen most. ep60 shows enrollment WORKS: its guest Sum Dek Jo is 15.3% of raw's words and 14.4% of the reference's time, and it passes.",
+ "_why_it_slipped_through": "The output looks normal. ep33's rejected reference had 71% coverage and 400 segments. DER against raw was 11.9%, which passes; JER was 48.1% against ep52's 16.3%. DER is dominated by Rafizi, so losing a speaker who holds a fifth of the episode barely moves it. Read JER.",
+ "_ep33": "REJECTED and moved to data/_quarantine/ after a full 152-minute pass. Its 152 GPU minutes are NOT lost: data/_camera_tracks_hI_cgYwwtqg/ still holds every face track and mouth-sync score, so a corrected gallery can be re-matched without re-running the video stage.",
+ "_ep52_checked": "ep52 IS adopted, and its raw.md still names both guests (Syuk 65 blocks, Zaim Zulkifli 65). So the adoption kept raw's labels where the camera was blind and no damage was done. The reference remains valid for the three regulars -- the Haziq recall figure quoted for ep52's opening merge on 2026-09-11 is unaffected, because the opening is hosts only.",
+ "_fix": "Rebuild the gallery with the guest enrolled: the face-census / label-census / gallery subcommands of scripts/camera_speakers.py.",
+ "refused": {
+  "ep50": [
+   {
+    "speaker": "Wan Afiq",
+    "raw_share_of_words": 0.115,
+    "reference_share_of_time": 0.0
+   }
+  ],
+  "ep52": [
+   {
+    "speaker": "Zaim Zulkifli",
+    "raw_share_of_words": 0.094,
+    "reference_share_of_time": 0.0
+   },
+   {
+    "speaker": "Syuk",
+    "raw_share_of_words": 0.086,
+    "reference_share_of_time": 0.0
+   }
+  ],
+  "ep55": [
+   {
+    "speaker": "Dato' Dr. Samsu Adabi Mamat",
+    "raw_share_of_words": 0.076,
+    "reference_share_of_time": 0.0
+   },
+   {
+    "speaker": "Dato' Dr. Syed Azuan Al-Idrus (DSA)",
+    "raw_share_of_words": 0.063,
+    "reference_share_of_time": 0.0
+   },
+   {
+    "speaker": "Dr. Harith Fakhrudin",
+    "raw_share_of_words": 0.06,
+    "reference_share_of_time": 0.0
+   },
+   {
+    "speaker": "Tang Hong Yau",
+    "raw_share_of_words": 0.054000000000000006,
+    "reference_share_of_time": 0.0
+   }
+  ]
+ }
+}

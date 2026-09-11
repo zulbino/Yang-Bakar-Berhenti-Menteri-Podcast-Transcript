@@ -137,6 +137,11 @@ def camera_run(vid):
                cwd=ROOT)
 
 
+def cast_check(tag):
+    """Refuse a reference that is missing a speaker raw.md says holds real word volume."""
+    return run([PY, "scripts/check_camera_reference.py", tag])
+
+
 def camera_reference(tag, vid, dur):
     return run([PY, "scripts/camera_speakers.py", "reference", vid,
                 "--tracks", f"data/_camera_tracks_{vid}", "--out", f"data/camera_ref_{tag}",
@@ -222,8 +227,18 @@ def main():
         report["steps"]["mai"] = {"ok": ok, "seconds": secs, "out": out[-2500:]}
         # The split tool falls back to the caption track as its word clock, so it runs
         # whenever there is a camera reference, MAI or not.
+        # Gate the reference on its CAST before anything consumes it. ep33's pass produced
+        # a plausible reference -- 71% coverage, 400 segments -- that gave its guest Wong
+        # Chen 0.0% of the time while raw.md gives him 20.1% of the words, because the face
+        # gallery holds only the three regulars and his face was handed to the nearest
+        # member. DER was 11.9%, which passes; JER was 48.1%. Three references already on
+        # disk fail the same way (ep50, ep52, ep55).
         if report["steps"].get("camera_reference", {}).get("ok"):
-            step(report, "split_dry_run", lambda: split_dry_run(t))
+            step(report, "camera_reference_cast", lambda: cast_check(t))
+            if report["steps"]["camera_reference_cast"]["ok"]:
+                step(report, "split_dry_run", lambda: split_dry_run(t))
+            else:
+                log(f"  {t}: reference REFUSED on cast, skipping the split dry run")
         failures += sum(1 for v in report["steps"].values() if not v["ok"])
         (NIGHTLY / f"{t}.json").write_text(json.dumps(report, ensure_ascii=False, indent=1), encoding="utf-8")
         with summary.open("a", encoding="utf-8") as f:

@@ -108,7 +108,22 @@ def main():
     raw_path = common.raw_for_tag(a.tag)
     path = Path(raw_path)
     text = path.read_text(encoding="utf-8")
-    camera = camera_seconds(a.reference or ROOT / "data" / f"camera_ref_{a.tag}.rttm")
+    # Condition 1 is "the camera covers NONE of the fragment's seconds", so a reference that
+    # is BLIND to one of the speakers makes that condition trivially true for every fragment
+    # that person speaks -- and folds their words into whoever is on either side. ep33's
+    # reference gives its guest Wong Chen 0.0% of the time against 20.1% of raw's words;
+    # ep50, ep52 and ep55 fail the same way. This tool defaults to that path, so the cast
+    # is checked before the reference is believed.
+    ref_path = Path(a.reference) if a.reference else ROOT / "data" / f"camera_ref_{a.tag}.rttm"
+    if not a.reference:
+        import check_camera_reference as ccr
+        if not ccr.check(a.tag, ref_path):
+            raise SystemExit(
+                f"{a.tag}: REFUSING to fold. The camera reference is missing a speaker "
+                f"raw.md says holds real word volume, so every fragment that person speaks "
+                f"looks uncovered and would be folded into a neighbour. Rebuild the gallery "
+                f"with the guest enrolled, or pass --reference explicitly to override.")
+    camera = camera_seconds(ref_path)
     blocks = BLOCK.findall(text)
     decided = decision_texts(a.tag)
 
