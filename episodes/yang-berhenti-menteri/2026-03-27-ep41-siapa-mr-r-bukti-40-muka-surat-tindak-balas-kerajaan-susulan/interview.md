@@ -62,7 +62,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 ---
 
 <!-- nav -->
-**Yang Berhenti Menteri episode 41 — Siapa Mr. R? Bukti 40 Muka Surat, Tindak Balas Kerajaan Susulan Perang Di**  
+**Yang Berhenti Menteri episode 41 — Siapa Mr. R? Bukti 40 Muka Surat, Tindak Balas Kerajaan Susulan Perang Di Iran**  
 27 March 2026 · 3h 4m · [watch on YouTube](https://www.youtube.com/watch?v=-HujDcVKHzU)
 
 This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
