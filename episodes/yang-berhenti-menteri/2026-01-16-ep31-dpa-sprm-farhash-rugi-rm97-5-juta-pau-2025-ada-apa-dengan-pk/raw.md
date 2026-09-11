@@ -66,11 +66,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [14:56] Haziq: kita ada Sungai Petani di sepak. Kita ada kawasan ekonomi
 
-[15:10] Rafizi: sosial di Bukit
-
-[15:10] Speaker ?: Teritam. Kita juga ada KRC di Padang Terang. Kita juga ada
-
-[15:11] Haziq: banyak air. Kita juga ada banyak air. Banyak air. Banjir.
+[15:10] Rafizi: sosial di Bukit Teritam. Kita juga ada KRC di Padang Terang. Kita juga ada banyak air. Kita juga ada banyak air. Banyak air. Banjir.
 
 [15:15] Rafizi: Kita juga ada lantai. We also a lot of water. Kita semua ni adalah air-air yang banyak. Tak, yang ini, dia selalunya kalau banyak trade mission, pelaburan sekarang ni, kebanyakannya adalah pelabur China. Hmm. Pelabur China ni ada dua kategori lah kan. Ada yang kalau yang besar-besar sangat dia tu. Kebanyakan mereka ada pengalaman kerja di US, di UK. Mereka ni pimpinan MNC dunia. Jadi bahasa Inggeris mereka tu lebih baik daripada kita. Tapi kalau yang syarikat yang bersaiz sederhana. Tapi sederhana dia memang besar lah. Kalau nilai 3-4 bilion ringgit pun bagi dia orang masih lagi kecil dan sederhana kan. Bagi syarikat yang sederhana ni, dia tak faham pun bahasa Inggeris. Jadi saya tengok ni, ni nampak macam ada delegasi pelaburan China kan. Pengalaman saya dulu, kita tengok pelabur yang macam mana kan. Kalau yang Cina tu, dia pun tak faham bahasa Inggeris pun. Jadi dia tak kisah kita bercakap bahasa Melayu sepenuhnya pun kerana dia ada jurubahasa. Jadi kepada Exco Gardenia, jadi sebaiknya lah kalau kita bukan kepakaran kita, tidaklah perlu kita malu sehingga kita nak baca ucapan. Tapi ini bukan ucapan pun, dia yang pandai-pandai nak berucap dalam bahasa Inggeris. Kalau takkanlah pegawai dia tulis ucapan, we are a lot of water. Itu dah teruk
 
@@ -296,8 +292,6 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:35:21] Farhan (Pa'an): pun saya tak berani.
 
-[2:35:24] Rafizi: Okay. Okay YB. Selamat
+[2:35:24] Haziq: Okay. Okay YB. Selamat malam.
 
-[2:35:25] Farhan (Pa'an): malam.
-
-[2:35:25] Speaker ?: Saya boleh lihat.
+[2:35:25] Rafizi: Terima kasih. Selamat malam.
