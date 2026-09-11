@@ -108,8 +108,9 @@
    "was": "Speaker ?",
    "text_printed": "Teruskan.",
    "text_actual": "10 sen.",
-   "action": "LEFT as `Speaker ?`",
-   "why": "the camera has NO opinion here -- it covers Rafizi to 8081s and resumes at 8086s, and the answer sits in the 8081-8086s gap. Rafizi asks `satu flyer berapa sen` and later names Pa'an for the 40-50 sen answer, but not for this one. Needs the owner's ear."
+   "action": "LEFT as `Speaker ?`, and NOT escalated to the owner. speaker_adjudications.json:_owner_principle is the owner's standing tie-breaker: where a fragment cannot be apportioned, 'substance of the talk is more important' and do NOT come back and ask per fragment. This is a two-word filler in a flyer-cost calculation whose substance is intact. `Speaker ?` is the honest marker for it and it stays.",
+   "why": "The camera RTTM is blank 8081-8086s, but the raw track data explains WHY and narrows it. data/_camera_tracks_61L_JC1oCR4/chunk_007800.json holds three tracks in the window. The track covering 8060.9-8083.5s matches the confirmed Rafizi track at 8086.6-8093.2s with face cosine 0.940, and its per-second mouth-sync scores go +2.47 at 8080 then -1.01, -1.92, -1.92 at 8081-8083. So Rafizi is ON SCREEN WITH HIS MOUTH CLOSED exactly when '10 sen' is said: the speaker was off-camera, which is why the pass emitted nothing. NOT Rafizi, therefore Haziq or Farhan. Rafizi's own reply at 8086.3, 'Mana ada, Pa'an, flyer apa 40, 50 sen', attributes the COMPETING answer to Pa'an, which points to Haziq for this one.",
+   "tooling_exhausted": "Camera: answered as far as it can (not Rafizi). Voiceprint: refuses by its own documented limit -- verify_speaker_voiceprint.py says spans under about a minute 'score toward whoever surrounds it', and '10 sen' is under a second. Gemini video: no video file for ep53, and its measured accuracy on turns of three words or fewer is 54%, worse than a coin flip is far from, but not evidence. No tool in this repo can name it."
   }
  }
 }
