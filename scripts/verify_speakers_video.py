@@ -99,6 +99,26 @@ CAST = {
         "Farhan (Pa'an)": "a man in a plain slate-grey shirt, alone against a plain dark "
                           "wall, a sticker-covered laptop lid in front of him",
     },
+    # ep56
+    "nXMJ_FxwfjM": {
+        "Rafizi": "an older man with no glasses in a plain navy long-sleeved top, in a "
+                  "high-backed black chair with a leafy plant behind him and a white mug "
+                  "on the desk",
+        "Haziq": "a younger man with glasses in a plain olive-brown polo shirt, an open "
+                 "laptop in front of him, tall grass and a warm bulb lamp behind",
+        "Farhan (Pa'an)": "a man with a moustache in a black hoodie with a white '97' logo "
+                          "on the chest, alone against a plain dark curtain and a tan wall",
+    },
+    # ep57
+    "TaoW0I1XqE0": {
+        "Rafizi": "an older man with no glasses in a blue-and-white vertically striped "
+                  "shirt, wearing a smartwatch, in a high-backed black chair with a leafy "
+                  "plant behind him and a white mug on the desk",
+        "Haziq": "a younger man with glasses in a plain salmon-pink polo shirt, an open "
+                 "laptop in front of him, tall grass and a warm bulb lamp behind",
+        "Farhan (Pa'an)": "a man with a moustache and goatee in a black cap and an "
+                          "olive-green shirt, alone against a plain dark curtain",
+    },
     # ep61
     "2AytMmKIU7w": {
         "Rafizi": "an older man with no glasses in a bright orange bomber jacket over a "

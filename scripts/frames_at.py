@@ -48,7 +48,12 @@ ROOT = Path(__file__).resolve().parent.parent
 # backslash escaping stops it swallowing "C:". A drive-relative path avoids the colon
 # entirely, and fontconfig-by-name is not an option (this build ships no default config).
 FONT = "/Windows/Fonts/arial.ttf"
-FORMAT = "bestvideo[height<=480][ext=mp4]/bestvideo[height<=480]"
+# Format 135 (854x480 avc1) is named FIRST because the bare selector fails intermittently:
+# YouTube answered "Requested format is not available" for ep58 and again for ep57 on
+# 2026-09-11 while -F listed 135 both times, and a retry minutes later succeeded. Naming the
+# id skips the negotiation. nightly_recut.py already asks for it this way, which also keeps
+# the frames here byte-identical to the ones the camera pass scores.
+FORMAT = "135/bestvideo[height<=480][ext=mp4]/bestvideo[height<=480]"
 CACHE = ROOT / "data" / "frames_cache"
 
 
