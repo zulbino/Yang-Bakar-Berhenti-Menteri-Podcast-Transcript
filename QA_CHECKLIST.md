@@ -71,18 +71,15 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview-ms.md labels 1 turn(s) `Speaker ?` (Speaker ? x1) -- a PER-TURN unknown, not a cluster id. Do not name these from raw.md by text overlap: on ep33 all of them trace into one 13,857-char block that holds two speakers. Check raw.md for a collapsed block first
   - models: raw.md=microsoft/MAI-Transcribe-2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63**
-  - 'Rafizi Ramli' is on interview.md's roster but has no label at all in raw.md -- their turns are sitting inside another speaker's blocks
-  - 'Haziq' is on interview.md's roster but has no label at all in raw.md -- their turns are sitting inside another speaker's blocks
   - 'Joe' is on interview.md's roster but has no label at all in raw.md -- their turns are sitting inside another speaker's blocks
-  - raw.md has a repetition-loop degeneration (1030 chars repeating 'ak, tak, t'...) -- model got stuck re-emitting the same short phrase
-  - raw.md gives Rafizi only 0% of the text while 'Speaker 2' holds 87% -- likely a whole-episode speaker mislabel; confirm with scripts/verify_speaker_voiceprint.py before renaming
-  - raw.md labels 174 turn(s) with a placeholder (Speaker 2 x88, Speaker 1 x86) -- a published transcript should name the speaker or say nothing, and these propagate into the derived files as several ungreppable variants
-  - raw.md leaves 175 turn(s) on a generic label (Speaker 2 x88, Speaker 1 x86, Speaker ? x1) -- a real person the transcript never names, so every derived file inherits it. Fix by identifying the speaker (video frames, the episode description, voiceprints), not by regenerating the rewrite
-  - interview.md labels 207 turn(s) with a diarizer cluster id (Speaker 2 x108, Speaker 1 x99, Speaker ? x1) -- ep54 prints all 97 turns this way while its frontmatter names both hosts, and ep56 does it beside a 'Speaker 1 (Rafizi Ramli)' that gives the name away
-  - interview-en.md labels 207 turn(s) with a diarizer cluster id (Speaker 2 x108, Speaker 1 x99, Speaker ? x1) -- ep54 prints all 97 turns this way while its frontmatter names both hosts, and ep56 does it beside a 'Speaker 1 (Rafizi Ramli)' that gives the name away
-  - interview-ms.md labels 188 turn(s) with a diarizer cluster id (Speaker 2 x99, Speaker 1 x89, Speaker ? x1) -- ep54 prints all 97 turns this way while its frontmatter names both hosts, and ep56 does it beside a 'Speaker 1 (Rafizi Ramli)' that gives the name away
+  - raw.md labels 800 turn(s) with a placeholder (Speaker 2 x492, Speaker 1 x308) -- a published transcript should name the speaker or say nothing, and these propagate into the derived files as several ungreppable variants
+  - raw.md leaves 800 turn(s) on a generic label (Speaker 2 x492, Speaker 1 x308) -- a real person the transcript never names, so every derived file inherits it. Fix by identifying the speaker (video frames, the episode description, voiceprints), not by regenerating the rewrite
+  - interview.md labels 208 turn(s) with a diarizer cluster id (Speaker 2 x108, Speaker 1 x99, Speaker ? x1) -- ep54 prints all 97 turns this way while its frontmatter names both hosts, and ep56 does it beside a 'Speaker 1 (Rafizi Ramli)' that gives the name away
+  - interview-en.md labels 208 turn(s) with a diarizer cluster id (Speaker 2 x108, Speaker 1 x99, Speaker ? x1) -- ep54 prints all 97 turns this way while its frontmatter names both hosts, and ep56 does it beside a 'Speaker 1 (Rafizi Ramli)' that gives the name away
+  - interview-ms.md labels 189 turn(s) with a diarizer cluster id (Speaker 2 x99, Speaker 1 x89, Speaker ? x1) -- ep54 prints all 97 turns this way while its frontmatter names both hosts, and ep56 does it beside a 'Speaker 1 (Rafizi Ramli)' that gives the name away
   - the three derived files name different people (interview-ms.md: ['Bicara', 'Penemu']) -- either one person is spelt two ways, or a name present in one file was replaced by a bare role in its own translation
-  - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
+  - 1 figure(s) in the published text have no counterpart in raw.md ('17.9') -- in YBkM-ep06 this caught `45 bilion` printed in the same sentence as raw's `4.5 bilion`, and `240 juta USD` for raw's `340 juta`
+  - models: raw.md=microsoft/MAI-Transcribe-2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 
 ## Clean episodes
 
