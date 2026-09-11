@@ -465,7 +465,7 @@ into one undifferentiated block, caught immediately by `qa_check.py`'s wall-of-t
 check, not silently shipped, but a reminder that block-splitting logic needs the exact
 same separator on the way back out as the way in.
 
-## MAI-Transcribe-2 via Azure: an evaluation path, and its three undocumented limits
+## MAI-Transcribe-2 via Azure: an evaluation path, and its four undocumented limits
 
 Not part of the pipeline. `scripts/transcribe_mai.py` and `scripts/reconcile_mai_speakers.py`
 transcribe an episode with Microsoft's MAI-Transcribe-2 into `data/_mai_<video_id>/`, for
@@ -586,6 +586,15 @@ voiceprint join loses Farhan, and the split tool takes clusters from pyannote an
 reference from the camera), so the mode for the re-cut is:
 
     python scripts/transcribe_mai.py <video_id> --no-diarization
+
+**The fourth limit: the bias-phrase context list caps at 50 items.** `bias_phrases()`
+sends the show's cast plus every capitalised name from `fix_proper_nouns.py`'s corrections
+map as recognition bias. That map only grows, and ep63 (2026-09-12) was the first new
+transcription since it crossed 50 -- `HTTP 400: Context list cannot have more than 50
+items`. Fixed by truncating to 50, with episode-specific `--extra-phrase` terms and the
+core cast placed first so a corpus-wide correction is what gets dropped for budget, never
+an episode's own bias term. Anything past ~50 corrections will keep losing the newest
+entries silently unless this list is pruned or the API allows more.
 
 **Building raw.md from MAI's words** (`mai_camera_raw.py epNN`, ENGINEERING_LOG 2.11): where an
 episode has MAI words and a camera reference, this replaces the local-ASR text with MAI's and

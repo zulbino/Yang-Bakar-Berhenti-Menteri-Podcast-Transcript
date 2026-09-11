@@ -127,8 +127,12 @@ def bias_phrases(extra=()):
     """
     import fix_proper_nouns as F
 
-    phrases = ["Rafizi Ramli", "Rafizi", "Haziq", "Farhan",
-               "Yang Bakar Menteri", "Yang Berhenti Menteri", "YBM"]
+    # extra (episode-specific) and the core cast come first: the API caps this list at 50
+    # items ("Context list cannot have more than 50 items"), first hit on ep63 once the
+    # corpus-wide corrections map alone grew past it, so anything cut for budget should be
+    # a corpus-wide correction, never an episode's own bias term.
+    phrases = list(extra) + ["Rafizi Ramli", "Rafizi", "Haziq", "Farhan",
+                              "Yang Bakar Menteri", "Yang Berhenti Menteri", "YBM"]
     for _, replacement, _ in F.CORRECTIONS:
         # A bias term has to be a NAME. The map also holds whole-phrase repairs -- "Water
         # assets through WASIA", "Kan keychain ada pakai" -- and biasing recognition toward
@@ -137,15 +141,13 @@ def bias_phrases(extra=()):
         words = replacement.split()
         if words and all(w[:1].isupper() for w in words):
             phrases.append(replacement)
-    for term in extra:
-        phrases.append(term)
 
     seen, out = set(), []
     for p in phrases:
         if p.lower() not in seen:
             seen.add(p.lower())
             out.append(p)
-    return out
+    return out[:50]
 
 
 def definition(phrases, diarize=True):
