@@ -1,559 +1,568 @@
 {
-  "_what": "Owner-adjudicated speaker decisions, applied by scripts/apply_split_map.py. The only record of WHY a name was chosen: every entry came from the owner listening, not from a tool. Kept under a TRACKED path on purpose -- the earlier ep26 map lived at data/_ep26_speaker1_map.json, which `data/_*` gitignores, so those identifications were absent from the repo's history while the names they produced were published.",
-  "_note": "Blocks the owner split BY EAR, 2026-08-29. Same shape as _ep26_speaker1_map.json. Each entry is one raw.md block that held more than one speaker with no marker of any kind -- the defect class documented in ENGINEERING_LOG 2.6 and listed by buried_turn_candidates.py. Timestamps for the new sub-turns are read from the episode's YouTube caption track (audio/<video_id>.ms.vtt), NOT interpolated: reusing the parent block's stamp would have put ep41's question 17 minutes early.",
-  "_method": "Owner listened at the estimated moment and dictated the turn sequence. Text boundaries below are literal substrings of the parent block, asserted unique before the cut.",
-  "ep53": {
-    "block": "1:45:35",
-    "was": "Rafizi",
-    "turns": [
-      {
-        "at": "1:45:35",
-        "who": "Rafizi",
-        "until": "Baik, kita dah lama ni tau pasal ni kan."
-      },
-      {
-        "at": "1:46:03",
-        "who": "Haziq",
-        "until": "Ya, 1 jam 45 minit."
-      },
-      {
-        "at": "1:46:05",
-        "who": "Rafizi",
-        "until": "So apa yang perlu dibuat dan kenapa jadi macam ni?"
-      },
-      {
-        "at": "1:46:18",
-        "who": "Haziq",
-        "until": "Soalan yang menarik"
-      },
-      {
-        "at": "1:46:19",
-        "who": "Rafizi",
-        "until": null
-      }
-    ],
-    "_corrects": "My own reading called 'Baik, kita dah lama ni tau pasal ni kan.' a co-host run-sheet line on register grounds (timekeeping plus a segment transition). It is Rafizi. The rewrite made the same mistake in the other direction, grouping Rafizi+Haziq+Rafizi into one unlabelled turn -- the identical seam error as ep26, where a boundary between two Rafizi turns straddling an interjection read as one speaker."
+ "_what": "Owner-adjudicated speaker decisions, applied by scripts/apply_split_map.py. The only record of WHY a name was chosen: every entry came from the owner listening, not from a tool. Kept under a TRACKED path on purpose -- the earlier ep26 map lived at data/_ep26_speaker1_map.json, which `data/_*` gitignores, so those identifications were absent from the repo's history while the names they produced were published.",
+ "_note": "Blocks the owner split BY EAR, 2026-08-29. Same shape as _ep26_speaker1_map.json. Each entry is one raw.md block that held more than one speaker with no marker of any kind -- the defect class documented in ENGINEERING_LOG 2.6 and listed by buried_turn_candidates.py. Timestamps for the new sub-turns are read from the episode's YouTube caption track (audio/<video_id>.ms.vtt), NOT interpolated: reusing the parent block's stamp would have put ep41's question 17 minutes early.",
+ "_method": "Owner listened at the estimated moment and dictated the turn sequence. Text boundaries below are literal substrings of the parent block, asserted unique before the cut.",
+ "ep53": {
+  "block": "1:45:35",
+  "was": "Rafizi",
+  "turns": [
+   {
+    "at": "1:45:35",
+    "who": "Rafizi",
+    "until": "Baik, kita dah lama ni tau pasal ni kan."
+   },
+   {
+    "at": "1:46:03",
+    "who": "Haziq",
+    "until": "Ya, 1 jam 45 minit."
+   },
+   {
+    "at": "1:46:05",
+    "who": "Rafizi",
+    "until": "So apa yang perlu dibuat dan kenapa jadi macam ni?"
+   },
+   {
+    "at": "1:46:18",
+    "who": "Haziq",
+    "until": "Soalan yang menarik"
+   },
+   {
+    "at": "1:46:19",
+    "who": "Rafizi",
+    "until": null
+   }
+  ],
+  "_corrects": "My own reading called 'Baik, kita dah lama ni tau pasal ni kan.' a co-host run-sheet line on register grounds (timekeeping plus a segment transition). It is Rafizi. The rewrite made the same mistake in the other direction, grouping Rafizi+Haziq+Rafizi into one unlabelled turn -- the identical seam error as ep26, where a boundary between two Rafizi turns straddling an interjection read as one speaker."
+ },
+ "ep41": {
+  "block": "2:33:49",
+  "was": "Rafizi",
+  "turns": [
+   {
+    "at": "2:33:49",
+    "who": "Rafizi",
+    "until": "Lepas satu, satu, lepas satu, satu lah."
+   },
+   {
+    "at": "2:51:37",
+    "who": "Haziq",
+    "until": "Jadi macam mana YB jawab?"
+   },
+   {
+    "at": "2:52:19",
+    "who": "Rafizi",
+    "until": null
+   }
+  ],
+  "_note": "The parent block ran 13,756 characters, 2:33:49 to 2:51:37, with Haziq's question at character 13,134 -- 95% in. This is why the published files printed a bare `Speaker` for it and why name_published_placeholders.py scored Rafizi 3/3 and refused: the turn opens 'YB, sedikit soalan' and Rafizi is the YB."
+ },
+ "_still_open": "ep41's NEXT three raw blocks ([2:51:37] Haziq, [2:51:45] Rafizi, [2:51:46] Haziq) are shredded mid-sentence against the captions, which carry 2:52:19-2:52:34 as one continuous voice ('tak? Keadaan sebenarnya kita kena dinamik kan. Keadaan mesti kita semak daripada satu semasa ke semasa. Tadi saya bagi contoh diesel tu kan semasa program design tu dibuat tahun 2024') with a change only at 2:52:35. NOT adjudicated, NOT touched.",
+ "_round2": "Owner adjudicated the full unresolved-cluster list by ear, 2026-08-29. Split timestamps again read from audio/61L_JC1oCR4.ms.vtt, not interpolated. Where a turn is renamed only, the raw TEXT is left exactly as transcribed -- the owner's quotes tidy the wording (e.g. 'Kita.... Ah itu Jason' for raw's 'Kita Itu Jason') and applying those would be a transcription edit, not an attribution one.",
+ "ep19_round2": {
+  "1:43:04": {
+   "who": "Haziq",
+   "was": "Speaker 3",
+   "text_was": "MRT.",
+   "text_now": "Hmm",
+   "_note": "An ASR error, not just a label. The caption at 1:43:04 reads '>> Hmm.' My own reading had taken 'MRT.' at face value and reasoned about who would guess it -- reasoning about a word that was never said."
   },
-  "ep41": {
-    "block": "2:33:49",
-    "was": "Rafizi",
-    "turns": [
-      {
-        "at": "2:33:49",
-        "who": "Rafizi",
-        "until": "Lepas satu, satu, lepas satu, satu lah."
-      },
-      {
-        "at": "2:51:37",
-        "who": "Haziq",
-        "until": "Jadi macam mana YB jawab?"
-      },
-      {
-        "at": "2:52:19",
-        "who": "Rafizi",
-        "until": null
-      }
-    ],
-    "_note": "The parent block ran 13,756 characters, 2:33:49 to 2:51:37, with Haziq's question at character 13,134 -- 95% in. This is why the published files printed a bare `Speaker` for it and why name_published_placeholders.py scored Rafizi 3/3 and refused: the turn opens 'YB, sedikit soalan' and Rafizi is the YB."
-  },
-  "_still_open": "ep41's NEXT three raw blocks ([2:51:37] Haziq, [2:51:45] Rafizi, [2:51:46] Haziq) are shredded mid-sentence against the captions, which carry 2:52:19-2:52:34 as one continuous voice ('tak? Keadaan sebenarnya kita kena dinamik kan. Keadaan mesti kita semak daripada satu semasa ke semasa. Tadi saya bagi contoh diesel tu kan semasa program design tu dibuat tahun 2024') with a change only at 2:52:35. NOT adjudicated, NOT touched.",
-  "_round2": "Owner adjudicated the full unresolved-cluster list by ear, 2026-08-29. Split timestamps again read from audio/61L_JC1oCR4.ms.vtt, not interpolated. Where a turn is renamed only, the raw TEXT is left exactly as transcribed -- the owner's quotes tidy the wording (e.g. 'Kita.... Ah itu Jason' for raw's 'Kita Itu Jason') and applying those would be a transcription edit, not an attribution one.",
-  "ep19_round2": {
-    "1:43:04": {
-      "who": "Haziq",
-      "was": "Speaker 3",
-      "text_was": "MRT.",
-      "text_now": "Hmm",
-      "_note": "An ASR error, not just a label. The caption at 1:43:04 reads '>> Hmm.' My own reading had taken 'MRT.' at face value and reasoned about who would guess it -- reasoning about a word that was never said."
-    },
-    "2:24:55": {
-      "who": "Multiple speakers",
-      "was": "Speaker 3",
-      "_note": "Rafizi and Farhan together. Captions show voices overlapping the name across 2:24:52-2:24:55 ('Mahathir Khalid.' / 'Mahathir Khalid ke Mahathir Khir?' / 'Mahathir Khir.'). Mahdzir Khalid is a real person (ms.wikipedia.org/wiki/Mahdzir_Khalid); raw already spells it right, 46/46 correct corpus-wide.",
-      "_roster_gap": "FARHAN IS IN ep19 AND raw.md NEVER LABELS HIM. Its frontmatter lists two hosts, raw has only Rafizi + Haziq, and rebuild_roster.py derives hosts FROM those labels, so it cannot know. Not fixed -- needs the owner's call on whether ep19's roster gains Farhan."
-    }
-  },
-  "ep26_round2": {
-    "05:13": {
-      "who": "Multiple speakers",
-      "_note": "Collapsed 4 turns into 1 per the established convention (group_shredded_turns.py: fragments joined by ' ... ', every word kept in order). 'Tak' + 'payah buat TikTok lah malam ni' is ONE sentence split across Haziq and Speaker 1, so the run cannot be apportioned. The tool itself detects 0 runs here, so this was applied by hand to its convention.",
-      "merge": 4,
-      "_was_described": "Speaker 1 x3 + Haziq"
-    }
-  },
-  "ep53_round2": {
-    "11:41": {
-      "who": "Haziq"
-    },
-    "29:59": {
-      "split": [
-        [
-          "Haziq",
-          "Okey, baik, YB.",
-          "29:59"
-        ],
-        [
-          "Rafizi",
-          "Beria,",
-          "30:00"
-        ]
-      ]
-    },
-    "34:39": {
-      "who": "Haziq"
-    },
-    "1:58:48": {
-      "who": "Farhan (Pa'an)"
-    },
-    "2:05:29": {
-      "split": [
-        [
-          "Haziq",
-          "Baik Dah meletup pun Dah meletup pun Okay YB",
-          "2:05:29"
-        ],
-        [
-          "Rafizi",
-          "So kita ada berapa minit lagi",
-          "2:05:33"
-        ],
-        [
-          "Multiple speakers",
-          null,
-          "2:05:35"
-        ]
-      ],
-      "_open": "RESOLVED by the owner: the tail is Multiple speakers. Captions put >> changes at 2:05:35, 2:05:40 and 2:05:41 inside it, so it is a genuine multi-voice exchange rather than one unknown person."
-    },
-    "2:15:26": {
-      "who": "Rafizi"
-    },
-    "2:15:28": {
-      "who": "Rafizi",
-      "_note": "Owner reads both as one Rafizi turn: 'RM35,000. Okeylah itu bahan kempen.' Labels applied; turn structure left alone."
-    },
-    "2:19:13": {
-      "split": [
-        [
-          "Rafizi",
-          [
-            "Human resource",
-            1
-          ],
-          "2:19:13"
-        ],
-        [
-          "Haziq",
-          "Itu je lah kot",
-          "2:19:15"
-        ],
-        [
-          "Farhan (Pa'an)",
-          "Okay Okay Human resource lah",
-          "2:19:17"
-        ],
-        [
-          "Multiple speakers",
-          null,
-          "2:19:18"
-        ]
-      ],
-      "_open": "RESOLVED by the owner: 'Takde' is Multiple speakers. The caption '>> tak ada haah' at 2:19:18 is its own speaker change, so it is not Farhan's tail."
-    },
-    "2:24:00": {
-      "who": "Rafizi"
-    },
-    "2:59:47": {
-      "who": "Multiple speakers",
-      "_note": "Rafizi and Haziq together."
-    }
-  },
-  "_owner_principle": "Owner's ruling on both tails, and the standing tie-breaker: where a shredded run cannot be apportioned, use `Multiple speakers` rather than spend another listen -- 'at the end of the day, substance of the talk is more important'. So a multi-voice crosstalk run gets the honest group label; do NOT come back and ask per fragment.",
-  "ep26_fillers": {
-    "09:43": {
-      "who": "Speaker ?",
-      "was": "Speaker 1",
-      "text_was": "apa. Beria macam"
-    },
-    "09:59": {
-      "who": "Speaker ?",
-      "was": "Speaker 1",
-      "text_was": "Itu zaman"
-    },
-    "10:39": {
-      "who": "Speaker ?",
-      "was": "Speaker 1",
-      "text_was": "Well, yalah saya saya"
-    },
-    "1:26:29": {
-      "who": "Speaker ?",
-      "was": "Speaker 1",
-      "text_was": "nasisis. Terus."
-    },
-    "1:41:55": {
-      "who": "Speaker ?",
-      "was": "Speaker 1",
-      "text_was": "Hmm"
-    },
-    "1:50:30": {
-      "who": "Speaker ?",
-      "was": "Speaker 1",
-      "text_was": "Hmm."
-    },
-    "2:09:36": {
-      "who": "Speaker ?",
-      "was": "Speaker 1",
-      "text_was": "Mungkin"
-    },
-    "2:10:38": {
-      "who": "Speaker ?",
-      "was": "Speaker 1",
-      "text_was": "end with the bank. Hmm,"
-    }
-  },
-  "ep53_fillers": {
-    "14:11": {
-      "who": "Speaker ?",
-      "was": "Speaker 3",
-      "text_was": "Hmm"
-    },
-    "18:43": {
-      "who": "Speaker ?",
-      "was": "Speaker 3",
-      "text_was": "Ya."
-    },
-    "51:16": {
-      "who": "Speaker ?",
-      "was": "Speaker 3",
-      "text_was": "Ya"
-    },
-    "1:14:05": {
-      "who": "Speaker ?",
-      "was": "Speaker 3",
-      "text_was": "Yes."
-    },
-    "1:34:45": {
-      "who": "Speaker ?",
-      "was": "Speaker 3",
-      "text_was": "Haa"
-    },
-    "1:43:25": {
-      "who": "Speaker ?",
-      "was": "Speaker 3",
-      "text_was": "Han,"
-    },
-    "1:45:31": {
-      "who": "Speaker ?",
-      "was": "Speaker 3",
-      "text_was": "pun kencing."
-    },
-    "1:45:34": {
-      "who": "Speaker ?",
-      "was": "Speaker 3",
-      "text_was": "tu"
-    },
-    "1:56:37": {
-      "who": "Speaker ?",
-      "was": "Speaker 3",
-      "text_was": "hmm"
-    },
-    "2:14:42": {
-      "who": "Speaker ?",
-      "was": "Speaker 3",
-      "text_was": "Teruskan."
-    },
-    "2:17:33": {
-      "who": "Speaker ?",
-      "was": "Speaker 3",
-      "text_was": "ya?"
-    },
-    "2:38:40": {
-      "who": "Speaker ?",
-      "was": "Speaker 3",
-      "text_was": "kan. Wah"
-    }
-  },
-  "_fillers_note": "The residue after the owner adjudicated every substantive turn: short acknowledgements and seam fragments ('Hmm', 'Ya', 'Haa', 'apa. Beria macam'). Set to `Speaker ?` WITHOUT a listen, on the owner's standing principle that substance outranks per-fragment attribution. `Speaker ?` not `Multiple speakers`: these are one unidentified person each, not crosstalk -- the two labels make different claims. `Speaker ?` is the repo's marker for an acknowledged unknown, raises no QA flag (check_published.PLACEHOLDER_RE matches only NUMBERED clusters, deliberately), and follows the ep36 precedent where a 0.8-second cluster became `Speaker ?` rather than a name no method could support. Reversible: delete these two blocks and re-run to get the cluster ids back.",
-  "ep41_retime": {
-    "2:52:19": {
-      "at_now": "2:53:13",
-      "was": "Rafizi",
-      "text_was_startswith": "dia yang kempen pasal harga minyak ni dulu kan."
-    },
-    "_2:51:46_superseded": {
-      "at_now": "2:52:37",
-      "was": "Haziq",
-      "_superseded_by": "ep41_round2 2:52:35, which merged this turn into the one before it. The retime DID run first (2:51:46 -> 2:52:37) and its result is inside the merged turn; re-running would look for a turn at 2:52:37 that no longer exists. Kept as a record, not a rule."
-    },
-    "_2:51:37_superseded": {
-      "at_now": "2:52:22",
-      "was": "Haziq",
-      "text_was": "mesti kita semak daripada satu semasa ke semasa. Tadi saya bagi contoh diesel tu kan. Semasa program design tu dibuat tahun 2024. Hmm. Itu",
-      "_superseded_by": "Superseded by ep41_round2's merges, which absorbed this turn. The retime DID run first and its result lives inside the merged turn; re-running would hunt for a turn that no longer exists. Kept as a record of the timing evidence, not as a rule."
-    },
-    "_2:51:45_superseded": {
-      "at_now": "2:52:35",
-      "was": "Rafizi",
-      "text_was": "yang terbaik yang dipikirkan pada masa",
-      "_superseded_by": "Superseded by ep41_round2's merges, which absorbed this turn. The retime DID run first and its result lives inside the merged turn; re-running would hunt for a turn that no longer exists. Kept as a record of the timing evidence, not as a rule."
-    }
-  },
-  "_ep41_retime_note": "TIMESTAMPS ONLY -- no label or word changes. Splitting Haziq's question out of the [2:33:49] block put Rafizi's answer at its true 2:52:19, which exposed a backward jump: three following blocks were still stamped 2:51:37-2:51:46. The captions place their text at 2:52:22 ('dinamik kan. Keadaan mesti kita semak'), 2:52:35 ('Itu yang terbaik yang difikirkan pada'), 2:52:37 ('masa itu. Selepas dua tahun kita akan') and 2:53:13 ('sebab dia yang kempen pasal harga minyak'), so all four were mistimed by 30-55s before this session touched anything. The jump was revealed, not caused. Their LABELS remain shredded against the captions -- still not adjudicated, see _still_open. THREE of the four retimes are now parked behind `_`: the round-2 merges absorbed their target turns. Only 2:52:19 -> 2:53:13 is still a live rule. The timing evidence is unchanged and preserved.",
-  "ep26_round1_preserved": {
-    "_note": "ep26 Speaker 1 is a SPLICED cluster: owner-confirmed per turn, 2026-08-29.",
-    "05:22": "Rafizi",
-    "21:57": "Rafizi",
-    "09:04": "Rafizi",
-    "2:24:04": {
-      "split": [
-        [
-          "Farhan (Pa'an)",
-          "Kita lupa. Kita lupa."
-        ],
-        [
-          "Rafizi",
-          "Memang ... teruk aku kan this ... week."
-        ]
-      ]
-    },
-    "2:26:43": {
-      "split": [
-        [
-          "Rafizi",
-          "we should strive better."
-        ],
-        [
-          "Haziq",
-          "Kena cari lagi."
-        ],
-        [
-          "Rafizi",
-          "Point finger kepada Fuzia. Sebab ada Fuzia sebagai beria terulung ni."
-        ]
-      ]
-    },
-    "07:17": "Rafizi",
-    "21:16": "Rafizi",
-    "28:41": "Rafizi"
-  },
-  "ep41_round2": {
-    "2:52:19": {
-      "merge": 4,
-      "who": "Rafizi",
-      "join": " ",
-      "was": "Rafizi",
-      "text_was": "Tak, keadaan sebenarnya kita kena dinamikkan. Keadaan",
-      "_note": "OWNER, verbatim and final: one Rafizi turn from 'Tak, keadaan sebenarnya kita kena dinamikkan.' through '...Dato' Seri Anwar ni cukup trauma kalau pasal harga minyak naik lah sebab...', and 'no haziq there'. raw had it as Rafizi/Haziq/Rafizi/Haziq, alternating mid-clause four times: 'Keadaan' + 'mesti kita semak', and 'pada masa' + 'itu.' are single sentences. Space join, not ' ... ': one person spoke continuously."
-    },
-    "_my_error": "I first merged this as TWO turns and put Haziq on the second (2:52:35) from a caption '>>' marker plus which label owned more text -- after I had already established in 2.6 that those markers fire mid-turn and prove nothing. Two independent things contradicted it before the owner did: the published rewrite had independently read the whole run as one Rafizi turn, and the text says 'Tadi saya bagi contoh diesel tu kan' -- Rafizi citing his own earlier example. I should have treated the disagreement between my raw edit and the existing published file as evidence, not noise."
-  },
-  "_ep41_round2_open": "Adjudicated: the buried question (2:51:37 Haziq) and the answer's start. NOT adjudicated: the 2:52:35 label, see its own note.",
-  "ep61_owner": {
-    "02:53": {
-      "who": "Rafizi",
-      "was": "Speaker ?",
-      "text_was": "Nebulizer tu memang hydrogen",
-      "text_now": "Nebulizer tu memang hydrogen ke?",
-      "_note": "OWNER: 'Rafizi, Nebulizer tu memang hydrogen ke? actual word'. The frame here is a full-screen TikTok/ChatGPT graphic, so video could never answer it."
-    },
-    "14:52": {
-      "who": "Rafizi",
-      "was": "Speaker ?",
-      "text_was": "Walau tak, Mummy button badge kitchen. Oh kitchen. Eh tapi yang ni bukan kitchen, yang ni pakai. Pakai.",
-      "text_now": "Walau tak, Mummy button badge keychain. Oh keychain. Eh tapi yang ni bukan keychain, yang ni pakai. Pakai.",
-      "_note": "OWNER: 'Rafizi. Not kitchen, keychain.' NOTE THE ADJACENT BLOCK: [15:01] carries the same mishearing twice -- 'Kan kitchen ada pakai? Yang itu kitchen. Yang itu button badge.' -- in the same merch exchange. It is NOT changed here, because the owner's correction named this block and changing words is the one operation that must never be extended by inference. Flagged for one yes."
-    },
-    "15:19": {
-      "who": "Rafizi",
-      "was": "Speaker ?",
-      "text_was": "Maksud beria kan Oh paling kurang Harapnya dia punya button badge ni Out of stock Betul-betul jadi hot selling item lah kot",
-      "text_now": "masuk beria kan Oh paling kurang Harapnya dia punya button badge ni Out of stock Betul-betul jadi hot selling item lah kot",
-      "_note": "OWNER: 'Rafizi, not maksud, masuk beria kan'."
-    },
-    "21:35": {
-      "who": "Rafizi",
-      "was": "Speaker ?",
-      "_note": "OWNER: 'Rafizi'. The frame is a full-screen Tabung Haji / Baitul Maqdis card, so video could never answer it. The sensing said Haziq at -0.208."
-    },
-    "2:51:15": {
-      "who": "Rafizi",
-      "was": "Farhan (Pa'an)",
-      "_note": "OWNER: '[2:51:13] is Rafizi'. This is the block that region covers. It removes the only Farhan (Pa'an) label in ep61, so he is not in this episode at all and the label was a diarizer artefact. rebuild_roster.py will drop him from the frontmatter."
-    },
-    "_what_this_settled_about_the_method": "The owner adjudicated 5 items and every one is Rafizi. Scored against that plus the gold passage, the sensing on ep61's SHORT blocks splits cleanly by direction: it said Rafizi 15 times and was right 15 times; it said Haziq 4 times and was wrong 4 times (01:55, 02:36, 02:53, 21:35). 78% overall, but every error is a false CO-HOST call. Carry that into the next episode: a Rafizi call on a short block is trustworthy, a co-host call is not and needs video or the owner before it is written. Also corrected: [14:52] and [15:19] each have the camera cutting mid-block, which I read as proof the block held two voices. The owner says both are wholly Rafizi, so A CAMERA CUT IS A REACTION SHOT AS OFTEN AS A SPEAKER CHANGE. That weakens video evidence for short blocks specifically -- it stays strong for the long regions, where the shot holds one person for 20-56 seconds.",
-    "07:44": {
-      "who": "Rafizi",
-      "was": "Speaker ?",
-      "text": "Sila lapuk kepada pihak berkuasa.",
-      "_note": "OWNER, 2026-08-30: 'the first is Rafizi'. 3 seconds. This was the item my own open-items file dropped, so it went a day without being asked. THE SENSING SAID HAZIQ and was wrong again: on ep61's short blocks the sensing is now 15 for 15 when it says Rafizi and 0 for 5 when it says the co-host. The asymmetry has survived every check made on it, so a co-host call on a short block still needs the owner or video before it is written. Video could never settle this one -- the frame is a two-shot with both hosts in it."
-    },
-    "15:01": {
-      "who": "Rafizi",
-      "was": "Rafizi",
-      "text_was": "Kan kitchen ada pakai? Yang itu kitchen. Yang itu button badge.",
-      "text_now": "Kan keychain ada pakai? Yang itu keychain. Yang itu button badge.",
-      "_note": "OWNER, 2026-08-30: 'second is kitchen -> keychain'. The label was never in doubt; only the word. Deliberately left alone when the adjacent [14:52] was corrected, because the owner's correction named that block and a word change must not be extended by inference to a block they did not name. Held one day, then asked. Both patterns are in fix_proper_nouns.py anchored on the full phrase, because `kitchen` is a real kitchen elsewhere in the corpus -- ep22 thanks the kitchen crew. The three published files already read `keychain` here: the rewrite inferred it from the surrounding merch talk, so this fix was raw.md only and needed no regeneration."
-    }
-  },
-  "ep61_farhan_restore": {
-    "2:51:15": {
-      "who": "Farhan (Pa'an)",
-      "was": "Rafizi",
-      "at_now": "2:51:41",
-      "_note": "RESTORING an OWNER decision I destroyed. Recorded in commit 3c255ee, from the session before: 'Also on ep61, found by ear and confirmed on video, not by any check: Farhan interjects at 2:51:42-58 where raw.md had Speaker ? and all three published files said Haziq. frames_at.py holds the desk two-shot with Rafizi and Haziq both in frame until 2:51:42, cuts to a close single of a third man at 2:51:43, and returns at 2:52:00.' The owner raised it again on 2026-08-30 when the label went missing.\n\nHOW I DESTROYED IT, because the mechanism matters more than the block. This block's STAMP said 2:51:15 but its TEXT sits at 2:51:41-2:51:59 in the caption word timings ('takkanlah tukar last minute' 10300.9, 'dewa kuanti' 10312.4, 'oh temple' 10319.0) -- ep61 has known stamp drift. audit_block_attribution.py defines a block's audio window as stamp-to-next-stamp, so it read this block's window as 2:51:15-2:51:43, which in real audio is Rafizi on pickleball and his elbow. It reported 'Farhan -> Rafizi' correctly FOR THAT WINDOW. I then asked the owner about the TIMESTAMP 2:51:13 and applied their correct answer ('Rafizi') to the BLOCK, deleting a different speaker's turn 26 seconds later. My frame sample at the block midpoint landed inside the two-shot the owner's own note predicts.\n\nTHREE FIXES, all of them mine to make: this restore; the stamp corrected to 2:51:41 so the block's window and its words agree; and a drift guard in audit_block_attribution.py so no block whose stamp disagrees with its text can be acted on again.\n\nTHE PROCESS LESSON: an owner decision lived only in a commit message. It belongs HERE. Read git log for prior owner findings before touching an episode, and never ask about a second when the change will be applied to a block."
-    }
-  },
-  "ep62_owner_read_2026-09-10": {
-    "_note": "The owner read the MAI+camera raw.md (46a82a8) end to end on 2026-09-10 and gave these by ear, plus word fixes applied in the same commit. text_now is the block's opening text after the edit, for check_owner_decisions.py.",
-    "07:49": {
-      "who": "Haziq",
-      "text_now": "Jadi pada hari kejadian, siapa-siapa yang kerja",
-      "note": "owner by ear; camera had Rafizi"
-    },
-    "16:02": {
-      "who": "Rafizi",
-      "text_now": "Ini masa dia puji Zahid Hamidi.",
-      "note": "owner by ear"
-    },
-    "34:35": {
-      "who": "Rafizi",
-      "text_now": "Dan itulah tempoh yang paling bagus untuk FELDA",
-      "note": "owner by ear; was cut mid-sentence and half given to Haziq"
-    },
-    "35:43": {
-      "who": "Farhan (Pa'an)",
-      "text_now": "Um. Tan Sri Ahmad Badri.",
-      "note": "owner by ear; Rafizi answers at 35:45"
-    },
-    "1:11:54": {
-      "who": "Rafizi",
-      "text_now": "Because, you know, um, uh, sekarang dah lebih kurang",
-      "note": "owner by ear; was cut mid-sentence"
-    },
-    "1:27:41": {
-      "who": "Rafizi",
-      "text_now": "Yalah, dia menteri yang bertanggungjawab.",
-      "note": "owner by ear"
-    },
-    "2:22:40": {
-      "who": "Rafizi",
-      "text_now": "Baru keluar tahun tu.",
-      "note": "owner by ear"
-    },
-    "2:30:26": {
-      "who": "Rafizi",
-      "text_now": "Tapi yalah, I mean.",
-      "note": "owner by ear; MAI word time for the split 2:30:30"
-    },
-    "2:30:30": {
-      "who": "Haziq",
-      "text_now": "Tak masuk akal.",
-      "note": "owner by ear"
-    },
-    "2:55:04": {
-      "who": "Rafizi",
-      "text_now": "I don't think so tak.",
-      "note": "owner by ear"
-    },
-    "2:56:30": {
-      "who": "Multiple speakers",
-      "text_now": "Dudley House. Dudley House. Ha ha.",
-      "note": "owner by ear: Rafizi and Haziq together"
-    },
-    "3:12:26": {
-      "who": "Farhan (Pa'an)",
-      "text_now": "But I'm I'm curious eh, sebab if you use certain parameters",
-      "note": "owner: camera shows him talking at 3:12:29"
-    },
-    "3:45:00": {
-      "who": "Rafizi",
-      "text_now": "Ha kan. So yang ini dia jual uh dia beli pada harga uh, apa nama ni",
-      "note": "owner by ear; one sentence, was cut in three"
-    },
-    "3:54:19": {
-      "who": "Haziq",
-      "text_now": "Dan start minggu depan akan ada tangkapan.",
-      "note": "owner by ear: Farhan tried to slip in, Haziq kept the floor"
-    },
-    "_removed_1:08:44": {
-      "who": "Haziq",
-      "text_now": "Ha ha ha ha ha.",
-      "note": "owner by ear: Haziq laughs, Rafizi slips in at 1:08:45 | REMOVED 2026-09-10 by the owner's rule that grunts and laughs leave the raw (strip_filler_turns.py); the decision stands on record, the block no longer exists."
-    },
-    "2:13:45": {
-      "who": "Haziq",
-      "text_now": "Okey. Um. Seterusnya, uh, 11 Januari. Balik kepada cerita perumahan.",
-      "note": "owner by ear 2026-09-10 (second read): the camera had Rafizi; 'Perumahan.' was the end of Haziq's sentence, not an echo"
-    }
-  },
-  "ep57_yb_ear_2026_09_11": {
-    "_what": "OWNER RULING BY EAR AND EYE, 2026-09-11. Eight turns were put to the owner with a YouTube link each, a guess column and the video model's answer. The camera had given every one of the six YB turns to Rafizi; the owner confirmed all six are wrong. Guess was right on 6 of 8, right as a split on the 8th, and wrong on ep57 3:29:27, which was flagged LOW and turned out to be a split.",
-    "_why": "The show's vision mixer cuts to whoever is ABOUT TO answer, so at a question-to-answer boundary the camera is already on Rafizi while the co-host is still speaking. mai_camera_raw.py keeps the previous label only for turns of three words or fewer, and these run four to twelve.",
-    "02:43": {
-      "who": "Haziq",
-      "was": "Rafizi",
-      "text_was": "Tapi jadi kita start terus, YB."
-    },
-    "10:26": {
-      "who": "Haziq",
-      "was": "Rafizi",
-      "text_was": "Okey, baik. Selesai YB."
-    },
-    "10:40": {
-      "who": "Haziq",
-      "was": "Rafizi",
-      "text_was": "Haji, RCI Tabung Haji yang barbarunilah YB.",
-      "_note": "Owner also corrected the words: '...Tabung Haji, RCI Tabung Haji yang baru-baru ni lah YB'. `Tabung` sat at the end of the 10:28 block, so the merge rejoins it once both are Haziq; the fused `barbarunilah` is in fix_proper_nouns.py."
-    },
-    "10:42": {
-      "who": "Rafizi",
-      "was": "Haziq",
-      "text_was": "Itu kau ambil gambar umur aku berapa tu? Aku ada janggut lagi.",
-      "_note": "NOT a YB turn. Found by reading the region: the beard is Rafizi's, and at 10:51 he explains his own went white."
-    },
-    "10:46": {
-      "who": "Haziq",
-      "was": "Rafizi",
-      "text_was": "Ini lama ni YB."
-    },
-    "10:49": {
-      "who": "Rafizi",
-      "was": "Haziq",
-      "text_was": "Aku tak boleh ada janggut sebab",
-      "_note": "NOT a YB turn. Runs straight into his own 10:51 continuation."
-    },
-    "3:29:27": {
-      "split": [
-        [
-          "Rafizi",
-          "Gotong-royong pun aku kena pergi juga eh.",
-          "3:29:27"
-        ],
-        [
-          "Haziq",
-          "IRL YB, demi demi IRL.",
-          "3:29:29"
-        ]
-      ],
-      "_note": "The one the guess got wrong, and it was flagged LOW for the right reason: `aku kena pergi` is Rafizi and `IRL YB` addresses him. Both halves were right, the single label was not."
-    }
-  },
-  "ep56_yb_ear_2026_09_11": {
-    "_what": "OWNER RULING BY EAR, 2026-09-11, same round as ep57_yb_ear_2026_09_11.",
-    "11:32": {
-      "split": [
-        [
-          "Rafizi",
-          "Kalau lompat parti, kosongkan, maka jatuh talak.",
-          "11:32"
-        ],
-        [
-          "Haziq",
-          "Tapi lama sangat YB.",
-          "11:35"
-        ]
-      ],
-      "_note": "Guess called this a split with this exact division. Haziq's 'Saya macam dah tak boleh' at 11:37 answers his own 'too long'."
-    }
+  "2:24:55": {
+   "who": "Multiple speakers",
+   "was": "Speaker 3",
+   "_note": "Rafizi and Farhan together. Captions show voices overlapping the name across 2:24:52-2:24:55 ('Mahathir Khalid.' / 'Mahathir Khalid ke Mahathir Khir?' / 'Mahathir Khir.'). Mahdzir Khalid is a real person (ms.wikipedia.org/wiki/Mahdzir_Khalid); raw already spells it right, 46/46 correct corpus-wide.",
+   "_roster_gap": "FARHAN IS IN ep19 AND raw.md NEVER LABELS HIM. Its frontmatter lists two hosts, raw has only Rafizi + Haziq, and rebuild_roster.py derives hosts FROM those labels, so it cannot know. Not fixed -- needs the owner's call on whether ep19's roster gains Farhan."
   }
+ },
+ "ep26_round2": {
+  "05:13": {
+   "who": "Multiple speakers",
+   "_note": "Collapsed 4 turns into 1 per the established convention (group_shredded_turns.py: fragments joined by ' ... ', every word kept in order). 'Tak' + 'payah buat TikTok lah malam ni' is ONE sentence split across Haziq and Speaker 1, so the run cannot be apportioned. The tool itself detects 0 runs here, so this was applied by hand to its convention.",
+   "merge": 4,
+   "_was_described": "Speaker 1 x3 + Haziq"
+  }
+ },
+ "ep53_round2": {
+  "11:41": {
+   "who": "Haziq"
+  },
+  "29:59": {
+   "split": [
+    [
+     "Haziq",
+     "Okey, baik, YB.",
+     "29:59"
+    ],
+    [
+     "Rafizi",
+     "Beria,",
+     "30:00"
+    ]
+   ]
+  },
+  "34:39": {
+   "who": "Haziq"
+  },
+  "1:58:48": {
+   "who": "Farhan (Pa'an)"
+  },
+  "2:05:29": {
+   "split": [
+    [
+     "Haziq",
+     "Baik Dah meletup pun Dah meletup pun Okay YB",
+     "2:05:29"
+    ],
+    [
+     "Rafizi",
+     "So kita ada berapa minit lagi",
+     "2:05:33"
+    ],
+    [
+     "Multiple speakers",
+     null,
+     "2:05:35"
+    ]
+   ],
+   "_open": "RESOLVED by the owner: the tail is Multiple speakers. Captions put >> changes at 2:05:35, 2:05:40 and 2:05:41 inside it, so it is a genuine multi-voice exchange rather than one unknown person."
+  },
+  "2:15:26": {
+   "who": "Rafizi"
+  },
+  "2:15:28": {
+   "who": "Rafizi",
+   "_note": "Owner reads both as one Rafizi turn: 'RM35,000. Okeylah itu bahan kempen.' Labels applied; turn structure left alone."
+  },
+  "2:19:13": {
+   "split": [
+    [
+     "Rafizi",
+     [
+      "Human resource",
+      1
+     ],
+     "2:19:13"
+    ],
+    [
+     "Haziq",
+     "Itu je lah kot",
+     "2:19:15"
+    ],
+    [
+     "Farhan (Pa'an)",
+     "Okay Okay Human resource lah",
+     "2:19:17"
+    ],
+    [
+     "Multiple speakers",
+     null,
+     "2:19:18"
+    ]
+   ],
+   "_open": "RESOLVED by the owner: 'Takde' is Multiple speakers. The caption '>> tak ada haah' at 2:19:18 is its own speaker change, so it is not Farhan's tail."
+  },
+  "2:24:00": {
+   "who": "Rafizi"
+  },
+  "2:59:47": {
+   "who": "Multiple speakers",
+   "_note": "Rafizi and Haziq together."
+  }
+ },
+ "_owner_principle": "Owner's ruling on both tails, and the standing tie-breaker: where a shredded run cannot be apportioned, use `Multiple speakers` rather than spend another listen -- 'at the end of the day, substance of the talk is more important'. So a multi-voice crosstalk run gets the honest group label; do NOT come back and ask per fragment.",
+ "ep26_fillers": {
+  "09:43": {
+   "who": "Speaker ?",
+   "was": "Speaker 1",
+   "text_was": "apa. Beria macam"
+  },
+  "09:59": {
+   "who": "Speaker ?",
+   "was": "Speaker 1",
+   "text_was": "Itu zaman"
+  },
+  "10:39": {
+   "who": "Speaker ?",
+   "was": "Speaker 1",
+   "text_was": "Well, yalah saya saya"
+  },
+  "1:26:29": {
+   "who": "Speaker ?",
+   "was": "Speaker 1",
+   "text_was": "nasisis. Terus."
+  },
+  "1:41:55": {
+   "who": "Speaker ?",
+   "was": "Speaker 1",
+   "text_was": "Hmm"
+  },
+  "1:50:30": {
+   "who": "Speaker ?",
+   "was": "Speaker 1",
+   "text_was": "Hmm."
+  },
+  "2:09:36": {
+   "who": "Speaker ?",
+   "was": "Speaker 1",
+   "text_was": "Mungkin"
+  },
+  "2:10:38": {
+   "who": "Speaker ?",
+   "was": "Speaker 1",
+   "text_was": "end with the bank. Hmm,"
+  }
+ },
+ "ep53_fillers": {
+  "14:11": {
+   "who": null,
+   "was": "Speaker 3",
+   "text_was": "Hmm",
+   "who_was_recorded": "Speaker ?",
+   "resolved_2026_09_11": "DELETED as a grunt: the ep53 camera splits Haziq 843-845s / Rafizi 845-847s / Haziq 847-850s across these seconds, so no single name is right"
+  },
+  "18:43": {
+   "who": "Speaker ?",
+   "was": "Speaker 3",
+   "text_was": "Ya."
+  },
+  "51:16": {
+   "who": "Speaker ?",
+   "was": "Speaker 3",
+   "text_was": "Ya"
+  },
+  "1:14:05": {
+   "who": "Speaker ?",
+   "was": "Speaker 3",
+   "text_was": "Yes."
+  },
+  "1:34:45": {
+   "who": "Speaker ?",
+   "was": "Speaker 3",
+   "text_was": "Haa"
+  },
+  "1:43:25": {
+   "who": "Speaker ?",
+   "was": "Speaker 3",
+   "text_was": "Han,"
+  },
+  "1:45:31": {
+   "who": "Haziq",
+   "was": "Speaker 3",
+   "text_was": "pun kencing.",
+   "who_was_recorded": "Speaker ?",
+   "resolved_2026_09_11": "ep53 camera 6327-6334s Haziq; caption 6329.7 'i think viewers pun pergi kencing juga'; fragment interior to the segment"
+  },
+  "1:45:34": {
+   "who": "Rafizi",
+   "was": "Speaker 3",
+   "text_was": "tu",
+   "who_was_recorded": "Speaker ?",
+   "resolved_2026_09_11": "ep53 camera 6334-6335s Rafizi; caption 6334.1 'ah itulah'; both raw neighbours are Rafizi"
+  },
+  "1:56:37": {
+   "who": "Speaker ?",
+   "was": "Speaker 3",
+   "text_was": "hmm"
+  },
+  "2:14:42": {
+   "who": "Speaker ?",
+   "was": "Speaker 3",
+   "text_was": "Teruskan."
+  },
+  "2:17:33": {
+   "who": "Speaker ?",
+   "was": "Speaker 3",
+   "text_was": "ya?"
+  },
+  "2:38:40": {
+   "who": "Rafizi",
+   "was": "Speaker 3",
+   "text_was": "kan. Wah",
+   "who_was_recorded": "Speaker ?",
+   "resolved_2026_09_11": "ep53 camera 9506-9566s Rafizi, one 60s segment, fragment interior at 9518.3s"
+  },
+  "_resolved_note": "Four of these twelve are no longer `Speaker ?`. _fillers_note says they were set to it WITHOUT a listen and are 'Reversible', so the downgrade was pending evidence, not a ruling that they can never be named -- and the ep53 camera reference is that evidence. It also shows the original `Speaker 3` was a bogus cluster: it mixed Haziq and Rafizi. The remaining eight stay `Speaker ?`. 2:14:42 is the one the camera cannot answer: it covers Rafizi to 8081s and resumes at 8086s, and the answer sits in the gap. Its printed text `Teruskan.` is also wrong -- the audio is '10 sen.'"
+ },
+ "_fillers_note": "The residue after the owner adjudicated every substantive turn: short acknowledgements and seam fragments ('Hmm', 'Ya', 'Haa', 'apa. Beria macam'). Set to `Speaker ?` WITHOUT a listen, on the owner's standing principle that substance outranks per-fragment attribution. `Speaker ?` not `Multiple speakers`: these are one unidentified person each, not crosstalk -- the two labels make different claims. `Speaker ?` is the repo's marker for an acknowledged unknown, raises no QA flag (check_published.PLACEHOLDER_RE matches only NUMBERED clusters, deliberately), and follows the ep36 precedent where a 0.8-second cluster became `Speaker ?` rather than a name no method could support. Reversible: delete these two blocks and re-run to get the cluster ids back.",
+ "ep41_retime": {
+  "2:52:19": {
+   "at_now": "2:53:13",
+   "was": "Rafizi",
+   "text_was_startswith": "dia yang kempen pasal harga minyak ni dulu kan."
+  },
+  "_2:51:46_superseded": {
+   "at_now": "2:52:37",
+   "was": "Haziq",
+   "_superseded_by": "ep41_round2 2:52:35, which merged this turn into the one before it. The retime DID run first (2:51:46 -> 2:52:37) and its result is inside the merged turn; re-running would look for a turn at 2:52:37 that no longer exists. Kept as a record, not a rule."
+  },
+  "_2:51:37_superseded": {
+   "at_now": "2:52:22",
+   "was": "Haziq",
+   "text_was": "mesti kita semak daripada satu semasa ke semasa. Tadi saya bagi contoh diesel tu kan. Semasa program design tu dibuat tahun 2024. Hmm. Itu",
+   "_superseded_by": "Superseded by ep41_round2's merges, which absorbed this turn. The retime DID run first and its result lives inside the merged turn; re-running would hunt for a turn that no longer exists. Kept as a record of the timing evidence, not as a rule."
+  },
+  "_2:51:45_superseded": {
+   "at_now": "2:52:35",
+   "was": "Rafizi",
+   "text_was": "yang terbaik yang dipikirkan pada masa",
+   "_superseded_by": "Superseded by ep41_round2's merges, which absorbed this turn. The retime DID run first and its result lives inside the merged turn; re-running would hunt for a turn that no longer exists. Kept as a record of the timing evidence, not as a rule."
+  }
+ },
+ "_ep41_retime_note": "TIMESTAMPS ONLY -- no label or word changes. Splitting Haziq's question out of the [2:33:49] block put Rafizi's answer at its true 2:52:19, which exposed a backward jump: three following blocks were still stamped 2:51:37-2:51:46. The captions place their text at 2:52:22 ('dinamik kan. Keadaan mesti kita semak'), 2:52:35 ('Itu yang terbaik yang difikirkan pada'), 2:52:37 ('masa itu. Selepas dua tahun kita akan') and 2:53:13 ('sebab dia yang kempen pasal harga minyak'), so all four were mistimed by 30-55s before this session touched anything. The jump was revealed, not caused. Their LABELS remain shredded against the captions -- still not adjudicated, see _still_open. THREE of the four retimes are now parked behind `_`: the round-2 merges absorbed their target turns. Only 2:52:19 -> 2:53:13 is still a live rule. The timing evidence is unchanged and preserved.",
+ "ep26_round1_preserved": {
+  "_note": "ep26 Speaker 1 is a SPLICED cluster: owner-confirmed per turn, 2026-08-29.",
+  "05:22": "Rafizi",
+  "21:57": "Rafizi",
+  "09:04": "Rafizi",
+  "2:24:04": {
+   "split": [
+    [
+     "Farhan (Pa'an)",
+     "Kita lupa. Kita lupa."
+    ],
+    [
+     "Rafizi",
+     "Memang ... teruk aku kan this ... week."
+    ]
+   ]
+  },
+  "2:26:43": {
+   "split": [
+    [
+     "Rafizi",
+     "we should strive better."
+    ],
+    [
+     "Haziq",
+     "Kena cari lagi."
+    ],
+    [
+     "Rafizi",
+     "Point finger kepada Fuzia. Sebab ada Fuzia sebagai beria terulung ni."
+    ]
+   ]
+  },
+  "07:17": "Rafizi",
+  "21:16": "Rafizi",
+  "28:41": "Rafizi"
+ },
+ "ep41_round2": {
+  "2:52:19": {
+   "merge": 4,
+   "who": "Rafizi",
+   "join": " ",
+   "was": "Rafizi",
+   "text_was": "Tak, keadaan sebenarnya kita kena dinamikkan. Keadaan",
+   "_note": "OWNER, verbatim and final: one Rafizi turn from 'Tak, keadaan sebenarnya kita kena dinamikkan.' through '...Dato' Seri Anwar ni cukup trauma kalau pasal harga minyak naik lah sebab...', and 'no haziq there'. raw had it as Rafizi/Haziq/Rafizi/Haziq, alternating mid-clause four times: 'Keadaan' + 'mesti kita semak', and 'pada masa' + 'itu.' are single sentences. Space join, not ' ... ': one person spoke continuously."
+  },
+  "_my_error": "I first merged this as TWO turns and put Haziq on the second (2:52:35) from a caption '>>' marker plus which label owned more text -- after I had already established in 2.6 that those markers fire mid-turn and prove nothing. Two independent things contradicted it before the owner did: the published rewrite had independently read the whole run as one Rafizi turn, and the text says 'Tadi saya bagi contoh diesel tu kan' -- Rafizi citing his own earlier example. I should have treated the disagreement between my raw edit and the existing published file as evidence, not noise."
+ },
+ "_ep41_round2_open": "Adjudicated: the buried question (2:51:37 Haziq) and the answer's start. NOT adjudicated: the 2:52:35 label, see its own note.",
+ "ep61_owner": {
+  "02:53": {
+   "who": "Rafizi",
+   "was": "Speaker ?",
+   "text_was": "Nebulizer tu memang hydrogen",
+   "text_now": "Nebulizer tu memang hydrogen ke?",
+   "_note": "OWNER: 'Rafizi, Nebulizer tu memang hydrogen ke? actual word'. The frame here is a full-screen TikTok/ChatGPT graphic, so video could never answer it."
+  },
+  "14:52": {
+   "who": "Rafizi",
+   "was": "Speaker ?",
+   "text_was": "Walau tak, Mummy button badge kitchen. Oh kitchen. Eh tapi yang ni bukan kitchen, yang ni pakai. Pakai.",
+   "text_now": "Walau tak, Mummy button badge keychain. Oh keychain. Eh tapi yang ni bukan keychain, yang ni pakai. Pakai.",
+   "_note": "OWNER: 'Rafizi. Not kitchen, keychain.' NOTE THE ADJACENT BLOCK: [15:01] carries the same mishearing twice -- 'Kan kitchen ada pakai? Yang itu kitchen. Yang itu button badge.' -- in the same merch exchange. It is NOT changed here, because the owner's correction named this block and changing words is the one operation that must never be extended by inference. Flagged for one yes."
+  },
+  "15:19": {
+   "who": "Rafizi",
+   "was": "Speaker ?",
+   "text_was": "Maksud beria kan Oh paling kurang Harapnya dia punya button badge ni Out of stock Betul-betul jadi hot selling item lah kot",
+   "text_now": "masuk beria kan Oh paling kurang Harapnya dia punya button badge ni Out of stock Betul-betul jadi hot selling item lah kot",
+   "_note": "OWNER: 'Rafizi, not maksud, masuk beria kan'."
+  },
+  "21:35": {
+   "who": "Rafizi",
+   "was": "Speaker ?",
+   "_note": "OWNER: 'Rafizi'. The frame is a full-screen Tabung Haji / Baitul Maqdis card, so video could never answer it. The sensing said Haziq at -0.208."
+  },
+  "2:51:15": {
+   "who": "Rafizi",
+   "was": "Farhan (Pa'an)",
+   "_note": "OWNER: '[2:51:13] is Rafizi'. This is the block that region covers. It removes the only Farhan (Pa'an) label in ep61, so he is not in this episode at all and the label was a diarizer artefact. rebuild_roster.py will drop him from the frontmatter."
+  },
+  "_what_this_settled_about_the_method": "The owner adjudicated 5 items and every one is Rafizi. Scored against that plus the gold passage, the sensing on ep61's SHORT blocks splits cleanly by direction: it said Rafizi 15 times and was right 15 times; it said Haziq 4 times and was wrong 4 times (01:55, 02:36, 02:53, 21:35). 78% overall, but every error is a false CO-HOST call. Carry that into the next episode: a Rafizi call on a short block is trustworthy, a co-host call is not and needs video or the owner before it is written. Also corrected: [14:52] and [15:19] each have the camera cutting mid-block, which I read as proof the block held two voices. The owner says both are wholly Rafizi, so A CAMERA CUT IS A REACTION SHOT AS OFTEN AS A SPEAKER CHANGE. That weakens video evidence for short blocks specifically -- it stays strong for the long regions, where the shot holds one person for 20-56 seconds.",
+  "07:44": {
+   "who": "Rafizi",
+   "was": "Speaker ?",
+   "text": "Sila lapuk kepada pihak berkuasa.",
+   "_note": "OWNER, 2026-08-30: 'the first is Rafizi'. 3 seconds. This was the item my own open-items file dropped, so it went a day without being asked. THE SENSING SAID HAZIQ and was wrong again: on ep61's short blocks the sensing is now 15 for 15 when it says Rafizi and 0 for 5 when it says the co-host. The asymmetry has survived every check made on it, so a co-host call on a short block still needs the owner or video before it is written. Video could never settle this one -- the frame is a two-shot with both hosts in it."
+  },
+  "15:01": {
+   "who": "Rafizi",
+   "was": "Rafizi",
+   "text_was": "Kan kitchen ada pakai? Yang itu kitchen. Yang itu button badge.",
+   "text_now": "Kan keychain ada pakai? Yang itu keychain. Yang itu button badge.",
+   "_note": "OWNER, 2026-08-30: 'second is kitchen -> keychain'. The label was never in doubt; only the word. Deliberately left alone when the adjacent [14:52] was corrected, because the owner's correction named that block and a word change must not be extended by inference to a block they did not name. Held one day, then asked. Both patterns are in fix_proper_nouns.py anchored on the full phrase, because `kitchen` is a real kitchen elsewhere in the corpus -- ep22 thanks the kitchen crew. The three published files already read `keychain` here: the rewrite inferred it from the surrounding merch talk, so this fix was raw.md only and needed no regeneration."
+  }
+ },
+ "ep61_farhan_restore": {
+  "2:51:15": {
+   "who": "Farhan (Pa'an)",
+   "was": "Rafizi",
+   "at_now": "2:51:41",
+   "_note": "RESTORING an OWNER decision I destroyed. Recorded in commit 3c255ee, from the session before: 'Also on ep61, found by ear and confirmed on video, not by any check: Farhan interjects at 2:51:42-58 where raw.md had Speaker ? and all three published files said Haziq. frames_at.py holds the desk two-shot with Rafizi and Haziq both in frame until 2:51:42, cuts to a close single of a third man at 2:51:43, and returns at 2:52:00.' The owner raised it again on 2026-08-30 when the label went missing.\n\nHOW I DESTROYED IT, because the mechanism matters more than the block. This block's STAMP said 2:51:15 but its TEXT sits at 2:51:41-2:51:59 in the caption word timings ('takkanlah tukar last minute' 10300.9, 'dewa kuanti' 10312.4, 'oh temple' 10319.0) -- ep61 has known stamp drift. audit_block_attribution.py defines a block's audio window as stamp-to-next-stamp, so it read this block's window as 2:51:15-2:51:43, which in real audio is Rafizi on pickleball and his elbow. It reported 'Farhan -> Rafizi' correctly FOR THAT WINDOW. I then asked the owner about the TIMESTAMP 2:51:13 and applied their correct answer ('Rafizi') to the BLOCK, deleting a different speaker's turn 26 seconds later. My frame sample at the block midpoint landed inside the two-shot the owner's own note predicts.\n\nTHREE FIXES, all of them mine to make: this restore; the stamp corrected to 2:51:41 so the block's window and its words agree; and a drift guard in audit_block_attribution.py so no block whose stamp disagrees with its text can be acted on again.\n\nTHE PROCESS LESSON: an owner decision lived only in a commit message. It belongs HERE. Read git log for prior owner findings before touching an episode, and never ask about a second when the change will be applied to a block."
+  }
+ },
+ "ep62_owner_read_2026-09-10": {
+  "_note": "The owner read the MAI+camera raw.md (46a82a8) end to end on 2026-09-10 and gave these by ear, plus word fixes applied in the same commit. text_now is the block's opening text after the edit, for check_owner_decisions.py.",
+  "07:49": {
+   "who": "Haziq",
+   "text_now": "Jadi pada hari kejadian, siapa-siapa yang kerja",
+   "note": "owner by ear; camera had Rafizi"
+  },
+  "16:02": {
+   "who": "Rafizi",
+   "text_now": "Ini masa dia puji Zahid Hamidi.",
+   "note": "owner by ear"
+  },
+  "34:35": {
+   "who": "Rafizi",
+   "text_now": "Dan itulah tempoh yang paling bagus untuk FELDA",
+   "note": "owner by ear; was cut mid-sentence and half given to Haziq"
+  },
+  "35:43": {
+   "who": "Farhan (Pa'an)",
+   "text_now": "Um. Tan Sri Ahmad Badri.",
+   "note": "owner by ear; Rafizi answers at 35:45"
+  },
+  "1:11:54": {
+   "who": "Rafizi",
+   "text_now": "Because, you know, um, uh, sekarang dah lebih kurang",
+   "note": "owner by ear; was cut mid-sentence"
+  },
+  "1:27:41": {
+   "who": "Rafizi",
+   "text_now": "Yalah, dia menteri yang bertanggungjawab.",
+   "note": "owner by ear"
+  },
+  "2:22:40": {
+   "who": "Rafizi",
+   "text_now": "Baru keluar tahun tu.",
+   "note": "owner by ear"
+  },
+  "2:30:26": {
+   "who": "Rafizi",
+   "text_now": "Tapi yalah, I mean.",
+   "note": "owner by ear; MAI word time for the split 2:30:30"
+  },
+  "2:30:30": {
+   "who": "Haziq",
+   "text_now": "Tak masuk akal.",
+   "note": "owner by ear"
+  },
+  "2:55:04": {
+   "who": "Rafizi",
+   "text_now": "I don't think so tak.",
+   "note": "owner by ear"
+  },
+  "2:56:30": {
+   "who": "Multiple speakers",
+   "text_now": "Dudley House. Dudley House. Ha ha.",
+   "note": "owner by ear: Rafizi and Haziq together"
+  },
+  "3:12:26": {
+   "who": "Farhan (Pa'an)",
+   "text_now": "But I'm I'm curious eh, sebab if you use certain parameters",
+   "note": "owner: camera shows him talking at 3:12:29"
+  },
+  "3:45:00": {
+   "who": "Rafizi",
+   "text_now": "Ha kan. So yang ini dia jual uh dia beli pada harga uh, apa nama ni",
+   "note": "owner by ear; one sentence, was cut in three"
+  },
+  "3:54:19": {
+   "who": "Haziq",
+   "text_now": "Dan start minggu depan akan ada tangkapan.",
+   "note": "owner by ear: Farhan tried to slip in, Haziq kept the floor"
+  },
+  "_removed_1:08:44": {
+   "who": "Haziq",
+   "text_now": "Ha ha ha ha ha.",
+   "note": "owner by ear: Haziq laughs, Rafizi slips in at 1:08:45 | REMOVED 2026-09-10 by the owner's rule that grunts and laughs leave the raw (strip_filler_turns.py); the decision stands on record, the block no longer exists."
+  },
+  "2:13:45": {
+   "who": "Haziq",
+   "text_now": "Okey. Um. Seterusnya, uh, 11 Januari. Balik kepada cerita perumahan.",
+   "note": "owner by ear 2026-09-10 (second read): the camera had Rafizi; 'Perumahan.' was the end of Haziq's sentence, not an echo"
+  }
+ },
+ "ep57_yb_ear_2026_09_11": {
+  "_what": "OWNER RULING BY EAR AND EYE, 2026-09-11. Eight turns were put to the owner with a YouTube link each, a guess column and the video model's answer. The camera had given every one of the six YB turns to Rafizi; the owner confirmed all six are wrong. Guess was right on 6 of 8, right as a split on the 8th, and wrong on ep57 3:29:27, which was flagged LOW and turned out to be a split.",
+  "_why": "The show's vision mixer cuts to whoever is ABOUT TO answer, so at a question-to-answer boundary the camera is already on Rafizi while the co-host is still speaking. mai_camera_raw.py keeps the previous label only for turns of three words or fewer, and these run four to twelve.",
+  "02:43": {
+   "who": "Haziq",
+   "was": "Rafizi",
+   "text_was": "Tapi jadi kita start terus, YB."
+  },
+  "10:26": {
+   "who": "Haziq",
+   "was": "Rafizi",
+   "text_was": "Okey, baik. Selesai YB."
+  },
+  "10:40": {
+   "who": "Haziq",
+   "was": "Rafizi",
+   "text_was": "Haji, RCI Tabung Haji yang barbarunilah YB.",
+   "_note": "Owner also corrected the words: '...Tabung Haji, RCI Tabung Haji yang baru-baru ni lah YB'. `Tabung` sat at the end of the 10:28 block, so the merge rejoins it once both are Haziq; the fused `barbarunilah` is in fix_proper_nouns.py."
+  },
+  "10:42": {
+   "who": "Rafizi",
+   "was": "Haziq",
+   "text_was": "Itu kau ambil gambar umur aku berapa tu? Aku ada janggut lagi.",
+   "_note": "NOT a YB turn. Found by reading the region: the beard is Rafizi's, and at 10:51 he explains his own went white."
+  },
+  "10:46": {
+   "who": "Haziq",
+   "was": "Rafizi",
+   "text_was": "Ini lama ni YB."
+  },
+  "10:49": {
+   "who": "Rafizi",
+   "was": "Haziq",
+   "text_was": "Aku tak boleh ada janggut sebab",
+   "_note": "NOT a YB turn. Runs straight into his own 10:51 continuation."
+  },
+  "3:29:27": {
+   "split": [
+    [
+     "Rafizi",
+     "Gotong-royong pun aku kena pergi juga eh.",
+     "3:29:27"
+    ],
+    [
+     "Haziq",
+     "IRL YB, demi demi IRL.",
+     "3:29:29"
+    ]
+   ],
+   "_note": "The one the guess got wrong, and it was flagged LOW for the right reason: `aku kena pergi` is Rafizi and `IRL YB` addresses him. Both halves were right, the single label was not."
+  }
+ },
+ "ep56_yb_ear_2026_09_11": {
+  "_what": "OWNER RULING BY EAR, 2026-09-11, same round as ep57_yb_ear_2026_09_11.",
+  "11:32": {
+   "split": [
+    [
+     "Rafizi",
+     "Kalau lompat parti, kosongkan, maka jatuh talak.",
+     "11:32"
+    ],
+    [
+     "Haziq",
+     "Tapi lama sangat YB.",
+     "11:35"
+    ]
+   ],
+   "_note": "Guess called this a split with this exact division. Haziq's 'Saya macam dah tak boleh' at 11:37 answers his own 'too long'."
+  }
+ }
 }

@@ -212,7 +212,20 @@ def check(ep_dir):
             # name_published_unknowns.py resolves 0 of 114 of them, because on ep33 they all
             # trace into one 13,857-character block that holds two people.
             unknown = sum(v for k, v in numbered.items() if "?" in k)
-            if unknown == sum(numbered.values()):
+            # Where raw.md carries `Speaker ?` ITSELF, the published one is faithful
+            # passthrough of an acknowledged unknown, and flagging it was never wanted.
+            # speaker_adjudications.json:_fillers_note is explicit: `Speaker ?` "raises no
+            # QA flag ... deliberately", because the owner set ep53's 12 filler turns to it
+            # on the standing principle that substance outranks per-fragment attribution.
+            # The case worth flagging is the OPPOSITE one -- ep33 prints 25 of them while
+            # its own raw.md names all four speakers, so there the name was dropped, not
+            # unknown. Same exclusion the generic-label flag below already applies.
+            if unknown and any("?" in r for r in raw_generic):
+                unknown = 0
+                numbered = Counter({k: v for k, v in numbered.items() if "?" not in k})
+            if not numbered:
+                pass
+            elif unknown == sum(numbered.values()):
                 issues.append((
                     "published-placeholder",
                     f"{name} labels {unknown} turn(s) `Speaker ?` ({shown}) -- a PER-TURN "

@@ -1,0 +1,115 @@
+{
+ "_what": "Five `Speaker ?` blocks the owner adjudicated BY EAR on 2026-09-11, dictated as full turn sequences rather than single labels. Two of them correct a block that already carried a name, which is why they are recorded with `text_was` as well as `who` -- a tool that only checks the `Speaker ?` label would not see those.",
+ "_why_tracked": "Same reason as speaker_adjudications.json: this is the only record of WHY these names were chosen, and the ep53 gate exists because a generated candidate once tried to overwrite rulings exactly like these. Any new candidate raw for ep20, ep31, ep34 or ep40 must be checked against this file before adoption.",
+ "_method": "The owner listened and dictated the sequence. Where the caption track or a camera reference agrees, that is noted -- but the ear is the authority and outranks both.",
+ "ep20_speaker_q": {
+  "55:20": {
+   "who": "Farhan (Pa'an)",
+   "was": "Speaker ?",
+   "text": "Juali",
+   "owner_dictated": "Haziq: \"dan apa komen satu lagi producer\" -> Farhan: \"kata mula buka kedai jual RM5 lepas ni RM2 lebih lepas tu bankrap\"",
+   "note": "The fragment `Juali` is ASR for `jual` inside Farhan's line, so it merges forward into his block. Caption 3318.8."
+  }
+ },
+ "ep31_speaker_q": {
+  "15:10": {
+   "who": "Rafizi",
+   "was": "Speaker ?",
+   "text": "Teritam. Kita juga ada KRC di Padang Terang. Kita juga ada",
+   "owner_dictated": "Rafizi: \"we also a lot of water\"",
+   "note": "The captions are English-translated in this region; `we also a lot of water` at 920.2 is `Kita juga ada banyak air`. That phrase STRADDLES the fragment and the block after it, so the owner's ruling also renames that block -- see ep31_relabelled below."
+  },
+  "2:35:25": {
+   "who": "Rafizi",
+   "was": "Speaker ?",
+   "text_was": "Saya boleh lihat.",
+   "text_now": "Terima kasih. Selamat malam.",
+   "owner_dictated": "Haziq: \"okey YB selamat malam\" -> Rafizi: \"terima kasih, selamat malam\"",
+   "note": "The printed text was the Whisper `Saya boleh lihat.` hallucination. The owner dictated the real words and the caption at 9325.3 reads the same. Last turn of the episode."
+  }
+ },
+ "ep31_relabelled": {
+  "15:11": {
+   "who": "Rafizi",
+   "was": "Haziq",
+   "text_was_startswith": "banyak air. Kita juga ada banyak air.",
+   "why": "OWNER: `we also a lot of water` is Rafizi. This block opens `banyak air` and completes the fragment's `Kita juga ada`, so it is the same sentence and the same speaker.",
+   "still_open": "The block BEFORE the run, [14:56] Haziq `kita ada Sungai Petani di sepak. Kita ada kawasan ekonomi`, flows into [15:10] Rafizi `sosial di Bukit`. The owner did not rule on it and it was left alone."
+  },
+  "2:35:24": {
+   "who": "Haziq",
+   "was": "Rafizi",
+   "text_was_startswith": "Okay. Okay YB. Selamat",
+   "why": "OWNER: `okey YB selamat malam` is Haziq. The `YB` vocative independently agrees -- whoever says `Okay YB` is addressing Rafizi, so is not Rafizi. raw had this one line split across a Rafizi block and a Farhan block; both are now Haziq, merged."
+  }
+ },
+ "ep34_speaker_q": {
+  "1:49:20": {
+   "who": "Rafizi",
+   "was": "Speaker ?",
+   "text": "Kan?",
+   "owner_dictated": "ep34 1:49:20 is all Rafizi",
+   "note": "Caption 6560.5 `kan [ketawa] orang tunjuk kat aku baliklah`, continuous into the next Rafizi block."
+  },
+  "2:04:29": {
+   "who": "Haziq",
+   "was": "Speaker ?",
+   "text_was": "0.017",
+   "text_now": "0.0179",
+   "owner_dictated": "Rafizi: \"ha cuba bagi\" -> Haziq: \"0.0179\" -> Rafizi: \"maksudnya lebih kurang 18 juta, 17.9...\"",
+   "FIGURE_INCONSISTENCY_OPEN": "raw says RMK11 approved 11.43 bilion for 657 sekolah, and 11.43/657 = 0.0174, not 0.0179. The owner's 0.0179 and the follow-up 17.9 are internally consistent, so the recording says 17.9 and one of raw's two inputs is an ASR error. It reconciles at 11.76 bilion, or at 638 schools (11.43/0.0179 = 638.5). NOT guessed -- needs the owner's ear on the two input figures.",
+   "published_fix": "All three interview files printed this whole exchange as ONE Rafizi turn, so the owner's `0.0179` sat under Rafizi's name -- the published-turn-collapse defect again, on a passage the owner had just adjudicated. The turn is now split Rafizi / Haziq / Rafizi to match the dictated sequence, and check_figures' new flag on the stale `0.017` is cleared. Surgical, not regenerated: rewrite output varies 24-63% run to run."
+  }
+ },
+ "ep40_relabelled": {
+  "_why": "Not an owner ruling this round, but the owner's EARLIER camera check plus the caption track. The captions carry one unbroken voice from 2255.8s to 2338.2s, and it contains `dan masa saya jadi Menteri Ekonomi dulu pun kadang-kadang aku nak cekik juga` at 2324.0. Only Rafizi was Economy Minister, and the owner already camera-confirmed that line at frames 38:40-38:53 as one unbroken close shot of Rafizi. That line sits INSIDE the block below. raw's clock is 170s early here, so its `[35:30]` is at 2296s in the audio.",
+  "35:20": {
+   "who": "Rafizi",
+   "was": "Haziq",
+   "text_was_startswith": "kes Bloomberg ni lah kan, saya tak tahu orang lain"
+  },
+  "35:38": {
+   "who": "Rafizi",
+   "was": "Haziq",
+   "text_was_startswith": "daripada cita 1MDB lagi tengok blumber kan"
+  },
+  "_merged_into": "All three blocks ([35:20], the [35:30] `Speaker ?`, and [35:38]) are now one Rafizi block at [35:20].",
+  "_still_open": "[36:29] Rafizi continues the same run and is correctly labelled, so it could merge too. Left alone as out of scope."
+ },
+ "ep53_speaker_q_camera": {
+  "_why": "ep53's own camera reference, data/camera_ref_ep53.rttm. Each fragment sits in the INTERIOR of a camera segment rather than at a handoff, which is the condition the camera gets right here -- the eight it got wrong on ep56/ep57 were all short turns at a YB handoff. ep53's raw.md is editable; what is blocked is ADOPTING its MAI+camera candidate, which the gate refused for overwriting owner rulings.",
+  "14:11": {
+   "who": null,
+   "was": "Speaker ?",
+   "text": "Hmm",
+   "action": "DELETED as a grunt",
+   "why": "camera splits Haziq 843-845 / Rafizi 845-847 / Haziq 847-850 across those seconds, so no single name is right. Dropped under the ep62 grunt rule rather than named."
+  },
+  "1:45:31": {
+   "who": "Haziq",
+   "was": "Speaker ?",
+   "text": "pun kencing.",
+   "why": "camera 6327-6334s Haziq; caption 6329.7 `i think viewers pun pergi kencing juga`"
+  },
+  "1:45:34": {
+   "who": "Rafizi",
+   "was": "Speaker ?",
+   "text": "tu",
+   "why": "camera 6334-6335s Rafizi; caption 6334.1 `ah itulah`; both raw neighbours are Rafizi"
+  },
+  "2:38:40": {
+   "who": "Rafizi",
+   "was": "Speaker ?",
+   "text": "kan. Wah",
+   "why": "camera 9506-9566s Rafizi, one 60s segment, fragment interior at 9518.3s"
+  },
+  "2:14:42": {
+   "who": null,
+   "was": "Speaker ?",
+   "text_printed": "Teruskan.",
+   "text_actual": "10 sen.",
+   "action": "LEFT as `Speaker ?`",
+   "why": "the camera has NO opinion here -- it covers Rafizi to 8081s and resumes at 8086s, and the answer sits in the 8081-8086s gap. Rafizi asks `satu flyer berapa sen` and later names Pa'an for the 40-50 sen answer, but not for this one. Needs the owner's ear."
+  }
+ }
+}

@@ -44,7 +44,8 @@ PLACEHOLDER = re.compile(r"^(speaker\s*\??\s*\d*|overlapping speaker|unknown|spk
 MAX_WORDS = 6
 DECISION_FILES = ["speaker_adjudications.json", "speaker_video_confirmed.json",
                   "speaker_video_confirmed_ep61_round2.json", "speaker_q_video_confirmed.json",
-                  "speaker_from_gold.json", "forced_labels.json"]
+                  "speaker_from_gold.json", "forced_labels.json",
+                  "speaker_owner_ear_2026_09_11.json"]
 
 
 def secs(t):

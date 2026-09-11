@@ -1134,7 +1134,24 @@ Three separate patterns each walked past the label:
 | `DERIVED_PLACEHOLDER_RE` | `check_published.py` | matches `Speaker \d+` only |
 
 All three now accept it. `check_published.py` goes from 2 of 69 episodes flagged to
-12, and the 10 new ones are all real.
+12.
+
+**Correction, made the same day.** Calling all three a bug was too broad.
+`speaker_adjudications.json:_fillers_note` says `Speaker ?` "raises no QA flag
+(check_published.PLACEHOLDER_RE matches only NUMBERED clusters, deliberately)" --
+the owner set ep53's 12 filler turns to it on the standing principle that substance
+outranks per-fragment attribution, and not being flagged was the point. So the flag
+now fires only where raw.md does NOT carry `Speaker ?` itself. Where raw carries
+one, the published one is faithful passthrough of an acknowledged unknown; where
+raw names everyone and the published file does not, the name was dropped. That is
+the ep33 case and it is the one worth reporting. Same exclusion `generic-label`
+already applied. published-placeholder therefore covers 9 episodes, not 10.
+
+`check_owner_decisions.py` also needed teaching: a decision naming NO ONE (`null`,
+or `Speaker ?`) has nothing for the gate to check, and asserting otherwise would
+mean an unknown must STAY unknown. `_fillers_note` calls those entries
+"Reversible", and the ep53 camera reference duly named three of the twelve -- and
+showed the `Speaker 3` cluster they came from had mixed Haziq with Rafizi.
 
 ### The caption track settles what reading cannot
 

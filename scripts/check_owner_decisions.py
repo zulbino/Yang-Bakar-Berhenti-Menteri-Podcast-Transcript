@@ -48,7 +48,8 @@ BLOCK = re.compile(r"^\[([\d:]+)\]\s*([^:\n]{0,40}?):\s*(.*)$", re.M)
 GOLD_PAD = 60
 DECISION_FILES = ["speaker_adjudications.json", "speaker_video_confirmed.json",
                   "speaker_video_confirmed_ep61_round2.json", "speaker_q_video_confirmed.json",
-                  "speaker_from_gold.json"]
+                  "speaker_from_gold.json",
+                  "speaker_owner_ear_2026_09_11.json"]
 
 
 def secs(t):
@@ -58,6 +59,20 @@ def secs(t):
 
 def short(w):
     return w.split(" (")[0].strip()
+
+
+def names_nobody(who):
+    """A decision that deliberately names NO ONE, so there is nothing for the gate to check.
+
+    Two shapes mean this. `null` is written where the evidence ran out and the record says
+    so -- data/speaker_owner_ear_2026_09_11.json uses it for ep53 2:14:42, which the camera
+    cannot see. `Speaker ?` is the repo's marker for the same thing, and 12 of ep53's
+    filler turns carry it because the owner downgraded a bogus `Speaker 3` cluster without
+    listening. Checking a candidate against either one asserts that an unknown must STAY
+    unknown, which is wrong: they are explicitly reversible on better evidence, and the
+    ep53 camera reference later named three of those twelve.
+    """
+    return who is None or who.strip().lower().rstrip("?").strip() in ("speaker", "")
 
 
 def main():
@@ -122,6 +137,8 @@ def main():
     doc = Doc(cand_text)
     ok = bad = missing = partial = 0
     for src, who, snip, at in checks:
+        if names_nobody(who):
+            continue
         want = short(who)
         if len(snip.split()) < 2:
             missing += 1
