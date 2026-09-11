@@ -1251,3 +1251,45 @@ of 99 blocks). ep33 and ep36 both need the gallery rebuilt with their guest enro
 A bad run does not waste the GPU time: `data/_camera_tracks_<vid>/` keeps every face
 track and mouth-sync score, so a corrected gallery can be re-matched against the
 existing tracks without re-running the video stage.
+
+### `guest_gallery.py`: naming a guest without a human, when the bijection allows it
+
+For a single guest whose face cluster holds at least 90% of the episode's
+unidentified talking seconds, the guest can be named by a measurable bijection --
+no visual identification needed. `scripts/guest_gallery.py epNN` does this and
+writes a per-episode `data/_face_gallery_<vid>.json` (gitignored: face embeddings
+are biometric data).
+
+ep33 resolved this way (Wong Chen, 99% of 2,039 unidentified talking seconds) using
+the tracks already cached from the rejected pass -- no new GPU. Re-matched reference:
+Wong Chen 20.4% of time against raw's 20.1% of words, both within the gate's margin.
+Adopted.
+
+Two cases the bijection correctly refuses, both left open for a person:
+
+  - **ep50's Wan Afiq is frontmatter-classified a host, not a guest** (he recurs in
+    ep46 too), and the script refuses to auto-name any host regardless of match
+    quality -- a wrong name here would corrupt every episode he appears in, not one.
+  - **ep36 has zero cached tracks** (its GPU run was pulled before it started), so
+    there is no cluster to match against yet; it still needs the full pass.
+
+### A single GPU means camera passes are never concurrent, and the failure is silent
+
+The corpus has exactly one usable GPU (RTX 2070). Two `camera_speakers.py run`
+processes started at once do not error cleanly -- they raced for the PO-token
+server `yt_download.ensure_pot_server()` sets up for video downloads, and the
+loser's yt-dlp call saw only storyboard formats from YouTube's `web_embedded`
+client and failed with "Requested format is not available." It read exactly like
+a transient YouTube block, not a local resource conflict.
+
+This happened once, from a broken wait-loop: a malformed PowerShell one-liner
+meant to gate ep36 behind ep41's completion errored on its first check, which
+made the bash `while` loop exit immediately and start ep36 while ep41 still held
+the GPU. ep41's own `camera_run` step failed 130.9 minutes in. The resume-safe
+chunk cache (`if dest.exists(): continue` in `camera_speakers.py cmd_run`) limited
+the real loss to the one in-flight chunk (~10 min), not the full run -- but the
+lesson is the gate, not the recovery: **never chain a second GPU pass on anything
+other than the first process's own log content.** `while ! grep -q "^[0-9:]+
+finished:" <log>; do sleep 300; done` is bash-only and was already the pattern the
+prior session used; a `Get-Process -Id` check added a second, needlessly fragile
+path to the same answer.

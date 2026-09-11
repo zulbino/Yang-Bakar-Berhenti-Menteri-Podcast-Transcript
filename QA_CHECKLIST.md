@@ -34,7 +34,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - interview.md labels 25 turn(s) `Speaker ?` (Speaker ? x25) -- a PER-TURN unknown, not a cluster id. Do not name these from raw.md by text overlap: on ep33 all of them trace into one 13,857-char block that holds two speakers. Check raw.md for a collapsed block first
   - interview-en.md labels 32 turn(s) `Speaker ?` (Speaker ? x32) -- a PER-TURN unknown, not a cluster id. Do not name these from raw.md by text overlap: on ep33 all of them trace into one 13,857-char block that holds two speakers. Check raw.md for a collapsed block first
   - interview-ms.md labels 12 turn(s) `Speaker ?` (Speaker ? x12) -- a PER-TURN unknown, not a cluster id. Do not name these from raw.md by text overlap: on ep33 all of them trace into one 13,857-char block that holds two speakers. Check raw.md for a collapsed block first
-  - models: interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
+  - models: raw.md=microsoft/MAI-Transcribe-2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-02-20-ep36-2-5b-jv-1-1b-tuduhan-caprice-akan-disaman-kita-jawab-satu-sa**
   - interview-en.md labels 1 turn(s) `Speaker ?` (Speaker ? x1) -- a PER-TURN unknown, not a cluster id. Do not name these from raw.md by text overlap: on ep33 all of them trace into one 13,857-char block that holds two speakers. Check raw.md for a collapsed block first
   - models: raw.md=mesolitica/malaysian-whisper-medium-v2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
