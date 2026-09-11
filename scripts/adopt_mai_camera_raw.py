@@ -65,7 +65,7 @@ def run(cmd, quiet=False):
     p = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True,
                        encoding="utf-8", errors="replace")
     if not quiet:
-        for line in (p.stdout or "").strip().splitlines():
+        for line in ((p.stdout or "") + (p.stderr or "")).strip().splitlines():
             print("   " + line)
     return p.returncode, (p.stdout or "") + (p.stderr or "")
 
@@ -144,7 +144,8 @@ def main():
     print("[4/8] remove the meaningless filler sounds from inside sentences")
     run([PY, "scripts/strip_inline_fillers.py", a.tag, "--write", "--samples", "0"])
     print("[4b/8] fold hanging fragments the camera cannot see")
-    run([PY, "scripts/fold_hanging_fragments.py", a.tag, "--write"])
+    code, _ = run([PY, "scripts/fold_hanging_fragments.py", a.tag, "--write"])
+    fold_refused = bool(code)
     print("[5/8] move hanging half-sentences to the speaker who finishes them")
     run([PY, "scripts/move_hanging_words.py", a.tag, "--write"])
     print("[6/8] join adjacent same-speaker blocks")
@@ -156,6 +157,10 @@ def main():
     run([PY, "scripts/write_navigation.py", "--write"], quiet=True)
     run([PY, "scripts/check_owner_decisions.py", a.tag, str(raw), "--current", str(current)])
     report(a.tag, raw, reference)
+    if fold_refused:
+        print(f"\n{a.tag}: fold_hanging_fragments REFUSED (camera blind to a real speaker) and "
+              f"was skipped, not overridden -- hanging fragments were left as-is rather than "
+              f"folded on a reference that cannot be trusted for them.")
     print(f"\nadopted {rel}. Read the diff before committing, then the four checkers.")
 
 
