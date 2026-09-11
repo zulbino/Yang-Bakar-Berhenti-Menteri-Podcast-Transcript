@@ -48,6 +48,13 @@ the bottom of the table where they read as the best-cut episodes in the corpus.
 
   python scripts/cut_density_census.py
   python scripts/cut_density_census.py --json data/cut_density.json
+  python scripts/cut_density_census.py --episode ep41   # which blocks, and how big
+
+--episode adds a THIRD measure the other two miss: what share of the episode sits inside
+giant blocks. It separated the queue cleanly on 2026-09-11 -- ep41 67%, ep36 62%, ep33 22%
+-- and confirmed ep33 belongs last of the three. Its spans ARE stamp-derived, so drift
+applies (ep40's clock is 170s early); on blocks of 500-1800s that shifts a window without
+changing which blocks are the problem, so it is fine for sizing and not for citation.
 """
 import argparse
 import glob
@@ -88,10 +95,50 @@ def caption_changes(vtt):
     return changes
 
 
+def stamp_seconds(t):
+    parts = [int(x) for x in t.split(":")]
+    while len(parts) < 3:
+        parts = [0] + parts
+    return parts[0] * 3600 + parts[1] * 60 + parts[2]
+
+
+def per_block(tag, min_chars):
+    """The blocks big enough to hold a conversation, and how much of the episode they are."""
+    sys.path.insert(0, str(ROOT / "scripts"))
+    import common
+    raw = common.raw_for_tag(tag)
+    vid = video_id(raw)
+    words = ROOT / "data" / f"_mai_{vid}" / "mai_words.json"
+    mai = json.loads(words.read_text(encoding="utf-8"))["turns"] if words.exists() else []
+    if not mai:
+        print(f"{tag}: no mai_words.json -- run scripts/mai_words_from_responses.py first")
+    blocks = BLOCK.findall(raw.read_text(encoding="utf-8"))
+    rows = []
+    for i, (stamp, who, text) in enumerate(blocks):
+        a = stamp_seconds(stamp)
+        b = stamp_seconds(blocks[i + 1][0]) if i + 1 < len(blocks) else a + 60
+        phrases = sum(1 for t in mai if a * 1000 <= t["offset_ms"] < b * 1000)
+        rows.append((len(text), stamp, who.strip(), max(b - a, 0), phrases))
+    rows.sort(reverse=True)
+    big = [r for r in rows if r[0] >= min_chars]
+    total = sum(r[0] for r in rows) or 1
+    print(f"{tag}: {len(blocks)} blocks, {len(big)} of them >= {min_chars} chars, "
+          f"holding {sum(r[0] for r in big) / total:.0%} of the episode")
+    print(f"  {'chars':>7}{'stamp':>10}  {'label':<18}{'span':>7}{'MAI phrases':>12}")
+    for ch, stamp, who, span, phrases in rows[:12]:
+        print(f"  {ch:>7}{stamp:>10}  {who[:16]:<18}{span:>6}s{phrases:>12}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--json", help="also write the table here")
+    ap.add_argument("--episode", help="per-block breakdown for one episode instead")
+    ap.add_argument("--min-chars", type=int, default=4000)
     a = ap.parse_args()
+
+    if a.episode:
+        per_block(a.episode, a.min_chars)
+        return
 
     rows, skipped = [], []
     for path in sorted(glob.glob(str(ROOT / "episodes" / "*" / "*" / "raw.md"))):
