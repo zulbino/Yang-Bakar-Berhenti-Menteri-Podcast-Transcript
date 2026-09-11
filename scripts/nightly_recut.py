@@ -143,9 +143,11 @@ def cast_check(tag):
 
 
 def camera_reference(tag, vid, dur):
-    return run([PY, "scripts/camera_speakers.py", "reference", vid,
+    # A video id starting with "-" (e.g. -HujDcVKHzU) reads as an unknown option to
+    # argparse unless "--" marks the end of options, so the positional uri comes last.
+    return run([PY, "scripts/camera_speakers.py", "reference",
                 "--tracks", f"data/_camera_tracks_{vid}", "--out", f"data/camera_ref_{tag}",
-                "--runtime", str(dur)], cwd=ROOT)
+                "--runtime", str(dur), "--", vid], cwd=ROOT)
 
 
 def split_dry_run(tag):
