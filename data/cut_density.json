@@ -1,0 +1,454 @@
+{
+ "_what": "Per-episode turn-cut density. See scripts/cut_density_census.py for how to read the ratio -- it is NOT an error rate.",
+ "_reference": "ep62 is cut to the current standard and sits at 0.42; the corpus median is 0.209.",
+ "_two_defects": "ratio finds episode-wide under-cutting; longest_block_chars finds one pathological turn. ep33 is 41st on ratio yet holds a 14,090-char block, and ep62 is the reference yet holds 11,823.",
+ "rows": [
+  {
+   "episode": "ep41",
+   "show": "berhenti",
+   "blocks": 105,
+   "caption_changes": 991,
+   "mai_phrases": 2373,
+   "ratio": 0.106,
+   "longest_block_chars": 20557
+  },
+  {
+   "episode": "ep36",
+   "show": "berhenti",
+   "blocks": 99,
+   "caption_changes": 918,
+   "mai_phrases": 1897,
+   "ratio": 0.108,
+   "longest_block_chars": 18214
+  },
+  {
+   "episode": "ep34",
+   "show": "berhenti",
+   "blocks": 112,
+   "caption_changes": 893,
+   "mai_phrases": 2077,
+   "ratio": 0.125,
+   "longest_block_chars": 14011
+  },
+  {
+   "episode": "ep16",
+   "show": "berhenti",
+   "blocks": 103,
+   "caption_changes": 731,
+   "mai_phrases": 1630,
+   "ratio": 0.141,
+   "longest_block_chars": 7064
+  },
+  {
+   "episode": "ep18",
+   "show": "berhenti",
+   "blocks": 119,
+   "caption_changes": 828,
+   "mai_phrases": 1766,
+   "ratio": 0.144,
+   "longest_block_chars": 7936
+  },
+  {
+   "episode": "ep45",
+   "show": "berhenti",
+   "blocks": 141,
+   "caption_changes": 979,
+   "mai_phrases": 2270,
+   "ratio": 0.144,
+   "longest_block_chars": 9308
+  },
+  {
+   "episode": "ep15",
+   "show": "berhenti",
+   "blocks": 148,
+   "caption_changes": 997,
+   "mai_phrases": 2171,
+   "ratio": 0.148,
+   "longest_block_chars": 8205
+  },
+  {
+   "episode": "ep44",
+   "show": "berhenti",
+   "blocks": 123,
+   "caption_changes": 816,
+   "mai_phrases": 1982,
+   "ratio": 0.151,
+   "longest_block_chars": 14605
+  },
+  {
+   "episode": "ep40",
+   "show": "berhenti",
+   "blocks": 138,
+   "caption_changes": 849,
+   "mai_phrases": 1837,
+   "ratio": 0.163,
+   "longest_block_chars": 7595
+  },
+  {
+   "episode": "ep37",
+   "show": "berhenti",
+   "blocks": 141,
+   "caption_changes": 826,
+   "mai_phrases": 1591,
+   "ratio": 0.171,
+   "longest_block_chars": 6644
+  },
+  {
+   "episode": "ep39",
+   "show": "berhenti",
+   "blocks": 141,
+   "caption_changes": 826,
+   "mai_phrases": 1853,
+   "ratio": 0.171,
+   "longest_block_chars": 8568
+  },
+  {
+   "episode": "ep60",
+   "show": "berhenti",
+   "blocks": 244,
+   "caption_changes": 1405,
+   "mai_phrases": 2625,
+   "ratio": 0.174,
+   "longest_block_chars": 8306
+  },
+  {
+   "episode": "ep43",
+   "show": "berhenti",
+   "blocks": 145,
+   "caption_changes": 801,
+   "mai_phrases": 1854,
+   "ratio": 0.181,
+   "longest_block_chars": 9251
+  },
+  {
+   "episode": "ep17",
+   "show": "berhenti",
+   "blocks": 131,
+   "caption_changes": 715,
+   "mai_phrases": 1592,
+   "ratio": 0.183,
+   "longest_block_chars": 7585
+  },
+  {
+   "episode": "ep25",
+   "show": "berhenti",
+   "blocks": 246,
+   "caption_changes": 1347,
+   "mai_phrases": 2079,
+   "ratio": 0.183,
+   "longest_block_chars": 8268
+  },
+  {
+   "episode": "ep58",
+   "show": "berhenti",
+   "blocks": 167,
+   "caption_changes": 897,
+   "mai_phrases": 2068,
+   "ratio": 0.186,
+   "longest_block_chars": 13830
+  },
+  {
+   "episode": "ep31",
+   "show": "berhenti",
+   "blocks": 136,
+   "caption_changes": 704,
+   "mai_phrases": 1792,
+   "ratio": 0.193,
+   "longest_block_chars": 7183
+  },
+  {
+   "episode": "ep42",
+   "show": "berhenti",
+   "blocks": 188,
+   "caption_changes": 970,
+   "mai_phrases": 2201,
+   "ratio": 0.194,
+   "longest_block_chars": 7911
+  },
+  {
+   "episode": "ep47",
+   "show": "berhenti",
+   "blocks": 171,
+   "caption_changes": 878,
+   "mai_phrases": 2202,
+   "ratio": 0.195,
+   "longest_block_chars": 11014
+  },
+  {
+   "episode": "ep55",
+   "show": "berhenti",
+   "blocks": 257,
+   "caption_changes": 1309,
+   "mai_phrases": 2117,
+   "ratio": 0.196,
+   "longest_block_chars": 12294
+  },
+  {
+   "episode": "ep49",
+   "show": "berhenti",
+   "blocks": 303,
+   "caption_changes": 1496,
+   "mai_phrases": 2975,
+   "ratio": 0.203,
+   "longest_block_chars": 5717
+  },
+  {
+   "episode": "ep54",
+   "show": "berhenti",
+   "blocks": 104,
+   "caption_changes": 500,
+   "mai_phrases": 1038,
+   "ratio": 0.208,
+   "longest_block_chars": 12221
+  },
+  {
+   "episode": "ep20",
+   "show": "berhenti",
+   "blocks": 164,
+   "caption_changes": 784,
+   "mai_phrases": 1811,
+   "ratio": 0.209,
+   "longest_block_chars": 6009
+  },
+  {
+   "episode": "ep29",
+   "show": "berhenti",
+   "blocks": 218,
+   "caption_changes": 1042,
+   "mai_phrases": 2082,
+   "ratio": 0.209,
+   "longest_block_chars": 10355
+  },
+  {
+   "episode": "ep51",
+   "show": "berhenti",
+   "blocks": 159,
+   "caption_changes": 757,
+   "mai_phrases": 1653,
+   "ratio": 0.21,
+   "longest_block_chars": 13352
+  },
+  {
+   "episode": "ep26",
+   "show": "berhenti",
+   "blocks": 136,
+   "caption_changes": 644,
+   "mai_phrases": 1531,
+   "ratio": 0.211,
+   "longest_block_chars": 10178
+  },
+  {
+   "episode": "ep56",
+   "show": "berhenti",
+   "blocks": 199,
+   "caption_changes": 894,
+   "mai_phrases": 2034,
+   "ratio": 0.223,
+   "longest_block_chars": 6860
+  },
+  {
+   "episode": "ep27",
+   "show": "berhenti",
+   "blocks": 156,
+   "caption_changes": 691,
+   "mai_phrases": 1633,
+   "ratio": 0.226,
+   "longest_block_chars": 11103
+  },
+  {
+   "episode": "ep61",
+   "show": "berhenti",
+   "blocks": 242,
+   "caption_changes": 1069,
+   "mai_phrases": 2407,
+   "ratio": 0.226,
+   "longest_block_chars": 8688
+  },
+  {
+   "episode": "ep59",
+   "show": "berhenti",
+   "blocks": 256,
+   "caption_changes": 1129,
+   "mai_phrases": 2346,
+   "ratio": 0.227,
+   "longest_block_chars": 8231
+  },
+  {
+   "episode": "ep35",
+   "show": "berhenti",
+   "blocks": 249,
+   "caption_changes": 1064,
+   "mai_phrases": 2293,
+   "ratio": 0.234,
+   "longest_block_chars": 10406
+  },
+  {
+   "episode": "ep53",
+   "show": "berhenti",
+   "blocks": 270,
+   "caption_changes": 1147,
+   "mai_phrases": 2544,
+   "ratio": 0.235,
+   "longest_block_chars": 9953
+  },
+  {
+   "episode": "ep24",
+   "show": "berhenti",
+   "blocks": 174,
+   "caption_changes": 736,
+   "mai_phrases": 1707,
+   "ratio": 0.236,
+   "longest_block_chars": 8809
+  },
+  {
+   "episode": "ep57",
+   "show": "berhenti",
+   "blocks": 277,
+   "caption_changes": 999,
+   "mai_phrases": 2517,
+   "ratio": 0.277,
+   "longest_block_chars": 7927
+  },
+  {
+   "episode": "ep19",
+   "show": "berhenti",
+   "blocks": 250,
+   "caption_changes": 812,
+   "mai_phrases": 1861,
+   "ratio": 0.308,
+   "longest_block_chars": 7476
+  },
+  {
+   "episode": "ep28",
+   "show": "berhenti",
+   "blocks": 280,
+   "caption_changes": 904,
+   "mai_phrases": 2110,
+   "ratio": 0.31,
+   "longest_block_chars": 7256
+  },
+  {
+   "episode": "ep46",
+   "show": "berhenti",
+   "blocks": 252,
+   "caption_changes": 783,
+   "mai_phrases": 1915,
+   "ratio": 0.322,
+   "longest_block_chars": 8952
+  },
+  {
+   "episode": "ep52",
+   "show": "berhenti",
+   "blocks": 448,
+   "caption_changes": 1380,
+   "mai_phrases": 2590,
+   "ratio": 0.325,
+   "longest_block_chars": 9371
+  },
+  {
+   "episode": "ep23",
+   "show": "berhenti",
+   "blocks": 236,
+   "caption_changes": 654,
+   "mai_phrases": 1486,
+   "ratio": 0.361,
+   "longest_block_chars": 6785
+  },
+  {
+   "episode": "ep48",
+   "show": "berhenti",
+   "blocks": 403,
+   "caption_changes": 1073,
+   "mai_phrases": 2318,
+   "ratio": 0.376,
+   "longest_block_chars": 7181
+  },
+  {
+   "episode": "ep33",
+   "show": "berhenti",
+   "blocks": 437,
+   "caption_changes": 1149,
+   "mai_phrases": 2584,
+   "ratio": 0.38,
+   "longest_block_chars": 14090
+  },
+  {
+   "episode": "ep38",
+   "show": "berhenti",
+   "blocks": 368,
+   "caption_changes": 967,
+   "mai_phrases": 2022,
+   "ratio": 0.381,
+   "longest_block_chars": 7033
+  },
+  {
+   "episode": "ep32",
+   "show": "berhenti",
+   "blocks": 336,
+   "caption_changes": 875,
+   "mai_phrases": 2015,
+   "ratio": 0.384,
+   "longest_block_chars": 10383
+  },
+  {
+   "episode": "ep62",
+   "show": "berhenti",
+   "blocks": 456,
+   "caption_changes": 1085,
+   "mai_phrases": 2752,
+   "ratio": 0.42,
+   "longest_block_chars": 11823
+  },
+  {
+   "episode": "ep22",
+   "show": "berhenti",
+   "blocks": 326,
+   "caption_changes": 756,
+   "mai_phrases": 1807,
+   "ratio": 0.431,
+   "longest_block_chars": 7744
+  },
+  {
+   "episode": "ep30",
+   "show": "berhenti",
+   "blocks": 289,
+   "caption_changes": 636,
+   "mai_phrases": 1579,
+   "ratio": 0.454,
+   "longest_block_chars": 8467
+  },
+  {
+   "episode": "ep50",
+   "show": "berhenti",
+   "blocks": 253,
+   "caption_changes": 424,
+   "mai_phrases": 1361,
+   "ratio": 0.597,
+   "longest_block_chars": 6523
+  }
+ ],
+ "no_captions": [
+  "ep01:bakar(no >> markers)",
+  "ep02:bakar(no >> markers)",
+  "ep03:bakar(no >> markers)",
+  "ep04:bakar(no vtt)",
+  "ep05:bakar(no >> markers)",
+  "ep06:bakar(no vtt)",
+  "ep00:berhenti(no >> markers)",
+  "ep01:berhenti(no vtt)",
+  "ep02:berhenti(no vtt)",
+  "ep03:berhenti(no vtt)",
+  "ep04:berhenti(no vtt)",
+  "ep05:berhenti(no vtt)",
+  "ep06:berhenti(no vtt)",
+  "ep07:berhenti(no vtt)",
+  "ep08:berhenti(no vtt)",
+  "ep09:berhenti(no vtt)",
+  "ep10:berhenti(no vtt)",
+  "ep11:berhenti(no vtt)",
+  "ep12:berhenti(no vtt)",
+  "ep13:berhenti(no vtt)",
+  "ep14:berhenti(no vtt)",
+  "ep21:berhenti(no >> markers)"
+ ]
+}
