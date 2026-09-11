@@ -37,11 +37,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [01:13] Rafizi: Yalah yang nak suruh lukis tu tak payah dengar. Kan kalau nak buat komen-komen aa macam yang dekat TikTok tu tak payahlah kan. Sebab selalunya kalau kat TikTok tu, kalau perkara tu nampak berat sikit. Ataupun ilmiah sikit. Ataupun banyak fakta sikit. Ah, terutamanya yalah semualah sekarang ni kan. Kalau yang kena itu ialah PAS, ah, dia akan tulis, oh kau dah tak relevant dah. Mesin gedegom je. Kalau apa nama ni, kalau BN, UMNO, dia kata rindu Anwar ke? Lepas tu kalau PKR atau PH kata, janganlah merajuk. Jadi kepada orang-orang itu tak payah tengok. Tak payah tengok. Ini ialah untuk orang-orang yang nak exercise otak. Kerana ini kali pertama saya rasa saya bawa kalkulator. Kemudian ni bukan buku nota lah. I have the habit of aku tak pernah buang kertas. Ah, recycle paper. So recycle aku akan potong tengah jadi A5. Jadi macam ni lah. Dan juga dia kena banyak ada rujukan kepada dokumen-dokumen sampai aku kena bawa spek. Spek.
 
-[02:34] Haziq: Okey, baik YB. Ha dan mungkin beria kali ni juga kita pendekkan. Sebab nak bagi ruang kepada isu Tabung Haji ni.
-
-[02:43] Rafizi: Tapi jadi kita start terus, YB.
-
-[02:45] Haziq: Kita tengok. Tapi ya beria dan musim pilihan raya, jadi banyak isu pilihan raya lah. Haah. Okey, pertama. Yang bising-bising kat belakang tu, seperti biasa Chopper lah.
+[02:34] Haziq: Okey, baik YB. Ha dan mungkin beria kali ni juga kita pendekkan. Sebab nak bagi ruang kepada isu Tabung Haji ni. Tapi jadi kita start terus, YB. Kita tengok. Tapi ya beria dan musim pilihan raya, jadi banyak isu pilihan raya lah. Haah. Okey, pertama. Yang bising-bising kat belakang tu, seperti biasa Chopper lah.
 
 [02:56] Rafizi: Seperti biasa.
 
@@ -115,21 +111,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [10:18] Rafizi: Jangan usik, jangan kacau Niki Liau. Okey.
 
-[10:22] Haziq: Kita akan buat follow up nanti. Sebab dia ada follow up.
+[10:22] Haziq: Kita akan buat follow up nanti. Sebab dia ada follow up. Okey, baik. Selesai YB. Ini untuk beria yang paling ringkas lah kot. Berapa minit? Ha, 9 minit 50 saat. Okey, alhamdulillah betul-betul tepat 10 minit. Okey, ini aa Tabung Haji, RCI Tabung Haji yang baru-baru ni lah YB.
 
-[10:26] Rafizi: Okey, baik. Selesai YB.
+[10:42] Rafizi: Itu kau ambil gambar umur aku berapa tu? Aku ada janggut lagi.
 
-[10:28] Haziq: Ini untuk beria yang paling ringkas lah kot. Berapa minit? Ha, 9 minit 50 saat. Okey, alhamdulillah betul-betul tepat 10 minit. Okey, ini aa Tabung
+[10:46] Haziq: Ini lama ni YB.
 
-[10:40] Rafizi: Haji, RCI Tabung Haji yang barbarunilah YB.
-
-[10:42] Haziq: Itu kau ambil gambar umur aku berapa tu? Aku ada janggut lagi.
-
-[10:46] Rafizi: Ini lama ni YB.
-
-[10:49] Haziq: Aku tak boleh ada janggut sebab
-
-[10:51] Rafizi: Dia daripada sini sampai ke janggut misai semua, semua dia putih. Jadi aku nampak macam mawas. So tak boleh.
+[10:49] Rafizi: Aku tak boleh ada janggut sebab Dia daripada sini sampai ke janggut misai semua, semua dia putih. Jadi aku nampak macam mawas. So tak boleh.
 
 [11:03] Haziq: Eh, dia macam tu eh, rambut hitam tapi.
 
@@ -577,9 +565,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [3:29:25] Haziq: Gotong-royong.
 
-[3:29:27] Rafizi: Gotong-royong pun aku kena pergi juga eh. IRL YB, demi demi IRL.
+[3:29:27] Rafizi: Gotong-royong pun aku kena pergi juga eh.
 
-[3:29:32] Haziq: Okey, alright. Sekarang dah lambat ni ha.
+[3:29:29] Haziq: IRL YB, demi demi IRL. Okey, alright. Sekarang dah lambat ni ha.
 
 [3:29:34] Rafizi: 3 jam 30 minit. Okey, tu je lakut.
 

@@ -119,43 +119,42 @@ both back to Haziq. Those three blocks are confirmed applied.
 
 ## Waiting on a machine, not on the owner
 
-- **The "YB" handoff turns: 8 rows for the owner's ear, with a guess to score me against.**
-  The owner's protocol, 2026-09-11: *"before you give me the list for me to check by ear, can
-  you make a column on your guess, then ill check if what i see and hear is the same as what
-  you guess"*. So the guess column below was written from the surrounding dialogue BEFORE any
-  model was asked, and the video column was filled afterwards. Every link starts 5 seconds
-  early so the lead-in is audible.
+- **CLOSED 2026-09-11 by the owner's ear: the YB handoff turns in ep57 and ep56 are FIXED.**
+  Eight turns went to the owner with a YouTube link, a guess column and the video model's
+  answer, on their instruction: *"make a column on your guess, then ill check if what i see
+  and hear is the same as what you guess"*. **The camera was wrong on all eight.** Verdicts:
 
-| # | listen | episode / at | the words | file says | MY GUESS | video model | your verdict |
-|---|---|---|---|---|---|---|---|
-| 1 | [02:43](https://www.youtube.com/watch?v=TaoW0I1XqE0&t=158s) | ep57 02:43 | Tapi jadi kita start terus, YB. | Rafizi | **Haziq** (high) | Haziq (high) |  |
-| 2 | [10:26](https://www.youtube.com/watch?v=TaoW0I1XqE0&t=621s) | ep57 10:26 | Okey, baik. Selesai YB. | Rafizi | **Haziq** (high) | Haziq (high) |  |
-| 3 | [10:40](https://www.youtube.com/watch?v=TaoW0I1XqE0&t=635s) | ep57 10:40 | Haji, RCI Tabung Haji yang barbarunilah YB. | Rafizi | **Haziq** (high) | Haziq (high) |  |
-| 4 | [10:42](https://www.youtube.com/watch?v=TaoW0I1XqE0&t=637s) | ep57 10:42 | Itu kau ambil gambar umur aku berapa tu? Aku ada janggut lagi. | Haziq | **Rafizi** (medium) | _quota hit, retry_ |  |
-| 5 | [10:46](https://www.youtube.com/watch?v=TaoW0I1XqE0&t=641s) | ep57 10:46 | Ini lama ni YB. | Rafizi | **Haziq** (high) | _quota hit, retry_ |  |
-| 6 | [10:49](https://www.youtube.com/watch?v=TaoW0I1XqE0&t=644s) | ep57 10:49 | Aku tak boleh ada janggut sebab | Haziq | **Rafizi** (medium) | _quota hit, retry_ |  |
-| 7 | [3:29:27](https://www.youtube.com/watch?v=TaoW0I1XqE0&t=12562s) | ep57 3:29:27 | Gotong-royong pun aku kena pergi juga eh. IRL YB, demi demi IRL. | Rafizi | **Haziq** (LOW) | _quota hit, retry_ |  |
-| 8 | [11:32](https://www.youtube.com/watch?v=nXMJ_FxwfjM&t=687s) | ep56 11:32 | Kalau lompat parti, kosongkan, maka jatuh talak. Tapi lama sangat YB. | Rafizi | **SPLIT** (medium) | _quota hit, retry_ |  |
+  | at | words | was | now |
+  |---|---|---|---|
+  | ep57 02:43 | Tapi jadi kita start terus, YB. | Rafizi | **Haziq** |
+  | ep57 10:26 | Okey, baik. Selesai YB. | Rafizi | **Haziq** |
+  | ep57 10:40 | ...Tabung Haji, RCI Tabung Haji yang baru-baru ni lah YB | Rafizi | **Haziq** + words fixed |
+  | ep57 10:42 | Itu kau ambil gambar umur aku berapa tu?... | Haziq | **Rafizi** |
+  | ep57 10:46 | Ini lama ni YB. | Rafizi | **Haziq** |
+  | ep57 10:49 | Aku tak boleh ada janggut sebab | Haziq | **Rafizi** |
+  | ep57 3:29:27 | Gotong-royong... / IRL YB, demi demi IRL. | Rafizi | **SPLIT** Rafizi / Haziq |
+  | ep56 11:32 | Kalau lompat parti... / Tapi lama sangat YB. | Rafizi | **SPLIT** Rafizi / Haziq |
 
-  **Why each guess.** 1: Haziq proposed shortening Beria at 02:34, this continues his own
-  proposal, and the pre-MAI raw had it as Haziq with Rafizi answering `Haah.` 2: Haziq is
-  closing the segment and times it at 10:28. 3: segment intros are Haziq's job. 5: a comment
-  on Rafizi's old photo, addressed to him. 7: **genuinely unsure** -- `aku kena pergi` is
-  Rafizi's register and a gotong-royong is a politician's chore, but `IRL YB` addresses YB.
-  8: the block holds two people, Rafizi reciting the `jatuh talak` formula and Haziq saying
-  it is too long, which is what his `Saya macam dah tak boleh` at 11:37 answers.
+  Applied, word sequence asserted, 7 blocks merged in ep57 and 1 in ep56, and both episodes
+  now read zero YB-vocative turns under Rafizi. `check_owner_decisions` reports ep57 8 of 8
+  and ep56 2 of 2 preserved. All four checkers unchanged.
+  Recorded in `data/speaker_adjudications.json` (`ep57_yb_ear_2026_09_11`,
+  `ep56_yb_ear_2026_09_11`) and in `data/forced_labels.json` so a rebuild keeps them. The
+  one-token garble `barbarunilah` went into `fix_proper_nouns.py` for the same reason.
 
-  **Rows 4 and 6 are NOT YB turns and are the bonus of reading the region.** ep57's 10:42 and
-  10:49 are currently Haziq, and the beard being discussed is Rafizi's -- at 10:51 he explains
-  his own beard and moustache went white. So that whole stretch reads as swapped, not just the
-  YB lines. Worth one listen while the tab is open.
+  **HOW THE THREE WITNESSES SCORED, which is the reusable part.** The camera: 0 of 8. The
+  video model asked one turn at a time: 3 of 3 before the quota cut it off, all high
+  confidence, all against the camera. Reading the dialogue: 6 of 8 exactly right, right as a
+  split on the 7th, and wrong on ep57 3:29:27 -- which had been flagged LOW for the correct
+  reason, that `aku kena pergi` is Rafizi's register while `IRL YB` addresses him. **Both
+  errors were single labels on turns that are actually splits**, so the lesson is not that
+  reading is unreliable but that a two-speaker block cannot be scored with one name.
 
-  **Where the machines stand.** The camera put all six YB turns on Rafizi, which is the defect.
-  The video model was asked one turn at a time over a 40-second window -- the mode that settled
-  11 of ep62's labels, NOT the bulk mode measured at 68% on turns this short -- and it answered
-  Haziq with high confidence on the first three, agreeing with the guess. The remaining five hit
-  the Gemini daily quota (HTTP 429) and need a retry: `python scripts/ask_video_one_turn.py ep57
-  --turns data/_yb_turns.json --window 40 --json data/_yb_video_verdicts.json`.
+  **STILL OPEN: the 8 remaining candidates**, in ep00, ep05, ep12, ep13, ep16, ep31, ep35 and
+  ep48. Deliberately NOT done yet -- those raws will be rebuilt from MAI+camera when their
+  camera reference exists, so fixing them now is throwaway work. Re-run the probe then: a
+  twelve-word cap on the `YB` vocative, and remember ep53's `Pernah kan, YB Chean Chung` is
+  Rafizi correctly naming another member.
 
 - **ep53 is BLOCKED and deliberately not adopted.** The gate refused, ep53's `raw.md` is
   untouched, and its owner labels are intact -- verified. Two of its four recorded decisions

@@ -485,5 +485,75 @@
       "text_now": "Okey. Um. Seterusnya, uh, 11 Januari. Balik kepada cerita perumahan.",
       "note": "owner by ear 2026-09-10 (second read): the camera had Rafizi; 'Perumahan.' was the end of Haziq's sentence, not an echo"
     }
+  },
+  "ep57_yb_ear_2026_09_11": {
+    "_what": "OWNER RULING BY EAR AND EYE, 2026-09-11. Eight turns were put to the owner with a YouTube link each, a guess column and the video model's answer. The camera had given every one of the six YB turns to Rafizi; the owner confirmed all six are wrong. Guess was right on 6 of 8, right as a split on the 8th, and wrong on ep57 3:29:27, which was flagged LOW and turned out to be a split.",
+    "_why": "The show's vision mixer cuts to whoever is ABOUT TO answer, so at a question-to-answer boundary the camera is already on Rafizi while the co-host is still speaking. mai_camera_raw.py keeps the previous label only for turns of three words or fewer, and these run four to twelve.",
+    "02:43": {
+      "who": "Haziq",
+      "was": "Rafizi",
+      "text_was": "Tapi jadi kita start terus, YB."
+    },
+    "10:26": {
+      "who": "Haziq",
+      "was": "Rafizi",
+      "text_was": "Okey, baik. Selesai YB."
+    },
+    "10:40": {
+      "who": "Haziq",
+      "was": "Rafizi",
+      "text_was": "Haji, RCI Tabung Haji yang barbarunilah YB.",
+      "_note": "Owner also corrected the words: '...Tabung Haji, RCI Tabung Haji yang baru-baru ni lah YB'. `Tabung` sat at the end of the 10:28 block, so the merge rejoins it once both are Haziq; the fused `barbarunilah` is in fix_proper_nouns.py."
+    },
+    "10:42": {
+      "who": "Rafizi",
+      "was": "Haziq",
+      "text_was": "Itu kau ambil gambar umur aku berapa tu? Aku ada janggut lagi.",
+      "_note": "NOT a YB turn. Found by reading the region: the beard is Rafizi's, and at 10:51 he explains his own went white."
+    },
+    "10:46": {
+      "who": "Haziq",
+      "was": "Rafizi",
+      "text_was": "Ini lama ni YB."
+    },
+    "10:49": {
+      "who": "Rafizi",
+      "was": "Haziq",
+      "text_was": "Aku tak boleh ada janggut sebab",
+      "_note": "NOT a YB turn. Runs straight into his own 10:51 continuation."
+    },
+    "3:29:27": {
+      "split": [
+        [
+          "Rafizi",
+          "Gotong-royong pun aku kena pergi juga eh.",
+          "3:29:27"
+        ],
+        [
+          "Haziq",
+          "IRL YB, demi demi IRL.",
+          "3:29:29"
+        ]
+      ],
+      "_note": "The one the guess got wrong, and it was flagged LOW for the right reason: `aku kena pergi` is Rafizi and `IRL YB` addresses him. Both halves were right, the single label was not."
+    }
+  },
+  "ep56_yb_ear_2026_09_11": {
+    "_what": "OWNER RULING BY EAR, 2026-09-11, same round as ep57_yb_ear_2026_09_11.",
+    "11:32": {
+      "split": [
+        [
+          "Rafizi",
+          "Kalau lompat parti, kosongkan, maka jatuh talak.",
+          "11:32"
+        ],
+        [
+          "Haziq",
+          "Tapi lama sangat YB.",
+          "11:35"
+        ]
+      ],
+      "_note": "Guess called this a split with this exact division. Haziq's 'Saya macam dah tak boleh' at 11:37 answers his own 'too long'."
+    }
   }
 }

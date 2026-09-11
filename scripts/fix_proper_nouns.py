@@ -54,6 +54,16 @@ CORRECTIONS = [
      "which is the role ep62 gives him. `Muda` is his father's name and takes a capital. "
      "1 lower-case occurrence against 5 already correct. ANCHORED ON `Asri` because `muda` "
      "is the ordinary Malay word for young and appears 720 times in the corpus."),
+    # OWNER-CORRECTED BY EAR 2026-09-11, while ruling on ep57's misattributed YB turns: the
+    # turn reads "...Tabung Haji, RCI Tabung Haji yang baru-baru ni lah YB", and MAI had
+    # fused the last four words into one. Not a name, but it belongs here for the same
+    # reason a name does -- without it, the next rebuild from MAI reintroduces the garble and
+    # silently discards the owner's correction, which is what happened to ep61's Farhan turn.
+    # One occurrence in the corpus, and `baru-baru ni` is ordinary Malay that appears
+    # correctly elsewhere, so this is anchored on the whole fused token.
+    (r"barbarunilah(?![A-Za-z])",
+     "baru-baru ni lah",
+     "raw ep57 x1 at 10:40: 'RCI Tabung Haji yang barbarunilah YB'. Owner-supplied."),
     # OWNER-INSTRUCTED 2026-09-11: "why wait for me for asyraf wajdi, you can do web search
     # to check what his actual name". Searched, and every source spells it Asyraf -- his own
     # Instagram handle is @drasyrafwajdi, and Wikipedia, Free Malaysia Today, Malaysiakini,

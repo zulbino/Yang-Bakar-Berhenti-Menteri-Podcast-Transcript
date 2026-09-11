@@ -83,9 +83,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [11:30] Haziq: YB cakap balik baru trick.
 
-[11:32] Rafizi: Kalau lompat parti, kosongkan, maka jatuh talak. Tapi lama sangat YB.
+[11:32] Rafizi: Kalau lompat parti, kosongkan, maka jatuh talak.
 
-[11:37] Haziq: Saya macam dah tak boleh.
+[11:35] Haziq: Tapi lama sangat YB. Saya macam dah tak boleh.
 
 [11:38] Rafizi: Ya, ya, ya, ya. Tak payah sebutlah kan yang mana kan. Tapi aku masa tu nak juga tanya kecil-kecil dulu. Tapi kalau dia tak kahwin macam mana?
 
