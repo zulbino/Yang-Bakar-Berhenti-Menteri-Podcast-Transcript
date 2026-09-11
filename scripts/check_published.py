@@ -76,7 +76,12 @@ PLACEHOLDER_RE = re.compile(
 # "Speaker 1"/"Speaker 2" while its own frontmatter names both hosts, and ep56 prints 121
 # such turns next to a "Speaker 1 (Rafizi Ramli)" that gives the name away. raw.md can be
 # mid-work; a published file showing a diarizer's cluster id cannot.
-DERIVED_PLACEHOLDER_RE = re.compile(r"^(SPEAKER_\d+|Speaker\s+\d+)(?:\s|$)", re.I)
+# `Speaker ?` belongs here too. It is the label mai_camera_raw.py writes when the camera
+# has no opinion, and it shipped to readers unseen: ep33 printed 25 of them in
+# interview.md while its own raw.md named all four speakers. `Speaker \d+` did not match
+# it and neither did label_drift_audit.GENERIC, whose `Speaker` alternative is anchored
+# with `$`, so every published-file check walked past them.
+DERIVED_PLACEHOLDER_RE = re.compile(r"^(SPEAKER_\d+|Speaker\s+[\d?]+)(?:\s|$)", re.I)
 
 
 def derived_turns(text):

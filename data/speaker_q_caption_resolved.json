@@ -1,0 +1,171 @@
+{
+ "_what": "The 33 `Speaker ?` blocks raw.md carried on 2026-09-11, and what settled each one. Tracked because the evidence is not recoverable from the diff: the deletions look like content loss and the merges look like label guesses unless you can see what the caption track says at those seconds.",
+ "_method": "Every entry was decided against the episode's YouTube caption track (audio/<video_id>.ms.vtt), read at the block's stamp +-8s. A block was deleted only where the captions run continuously through the timestamp and contain no such utterance, and merged only where the fragment cannot stand alone as a turn. NOT decided by reading the transcript: see feedback_never_infer_speaker_from_text.",
+ "_caution": "`Saya boleh lihat.` occurred 8 times in the corpus and never once from a named speaker -- 7 as `Speaker ?` and 1 as an invented `Audience` label in ep00. It is the Whisper 'I can see.' hallucination on non-speech. Two of the deletions (ep28 1:40:25, ep50 2:00:27) drop a real backchannel along with the hallucinated text: the captions there read 'Ya. Okey. Baik. YB.' and 'Okey YB.' Keeping words nobody said was judged worse than losing an acknowledgement.",
+ "_verification": "Per-file word conservation asserted by data/_speakerq_apply.py: words out equals words in minus exactly the deleted fragments, on all 13 files. QA_CHECKLIST.md came out byte-identical to the pre-change commit (2/69 flagged, same two episodes). ep52 is the one touched episode with a camera reference: score_attribution.py puts Haziq recall 91% -> 92% and JER 16.4% -> 16.3%, misplaced seconds unchanged at 113s. ep51 has a camera reference too; its two merges are 2s fragments in an 8,798s episode, so the score is flat at DER 1.8% / JER 17.0% and proves nothing either way. What settles them is the camera SEGMENT they fall inside, read directly from the RTTM.",
+ "resolved": [
+  {
+   "episode": "ep00",
+   "block": "1:31:40",
+   "was": "Audience",
+   "action": "deleted -- the audio does not contain these words",
+   "evidence": "caption region is an 11-min stamp gap; 'Saya boleh lihat.' is the Whisper hallucination"
+  },
+  {
+   "episode": "ep03:bakar",
+   "block": "2:02:21",
+   "was": "Speaker ?",
+   "action": "deleted -- the audio does not contain these words",
+   "evidence": "caption at 7341.8 is [Muzik]"
+  },
+  {
+   "episode": "ep28",
+   "block": "1:40:25",
+   "was": "Speaker ?",
+   "action": "deleted -- the audio does not contain these words",
+   "evidence": "slot holds 'Ya. Okey. Baik. YB.'; printed text is hallucinated"
+  },
+  {
+   "episode": "ep29",
+   "block": "1:35:07",
+   "was": "Speaker ?",
+   "action": "deleted -- the audio does not contain these words",
+   "evidence": "no caption cue between question and answer"
+  },
+  {
+   "episode": "ep29",
+   "block": "2:46:29",
+   "was": "Speaker ?",
+   "action": "deleted -- the audio does not contain these words",
+   "evidence": "slot holds 'Hmm.'/'Yup.'"
+  },
+  {
+   "episode": "ep41",
+   "block": "1:59:42",
+   "was": "Speaker ?",
+   "action": "deleted -- the audio does not contain these words",
+   "evidence": "caption is 'minum [mendengus] air'"
+  },
+  {
+   "episode": "ep42",
+   "block": "02:05",
+   "was": "Speaker ?",
+   "action": "deleted -- the audio does not contain these words",
+   "evidence": "no caption cue"
+  },
+  {
+   "episode": "ep44",
+   "block": "40:54",
+   "was": "Speaker ?",
+   "action": "deleted -- the audio does not contain these words",
+   "evidence": "caption is 'Hm.'"
+  },
+  {
+   "episode": "ep50",
+   "block": "2:00:27",
+   "was": "Speaker ?",
+   "action": "deleted -- the audio does not contain these words",
+   "evidence": "slot holds 'Okey YB.'; printed text is hallucinated"
+  },
+  {
+   "episode": "ep21",
+   "block": "10:46",
+   "was": "Speaker ?",
+   "action": "merged into the block before it",
+   "evidence": "completes 'Saya | tidak tahu apa 24 bulan itu'"
+  },
+  {
+   "episode": "ep26",
+   "block": "09:43",
+   "was": "Speaker ?",
+   "action": "merged into the block after it",
+   "evidence": "run continues into 'Okey YB, kita tengok next' -- YB vocative"
+  },
+  {
+   "episode": "ep26",
+   "block": "09:59",
+   "was": "Speaker ?",
+   "action": "merged into the block after it",
+   "evidence": "caption 599.3 'Itu zaman dulu.'"
+  },
+  {
+   "episode": "ep26",
+   "block": "10:39",
+   "was": "Speaker ?",
+   "action": "merged into the block after it",
+   "evidence": "caption 639.8 'Well, yalah saya saya er sebenarnya'"
+  },
+  {
+   "episode": "ep26",
+   "block": "1:26:29",
+   "was": "Speaker ?",
+   "action": "merged into the block before it",
+   "evidence": "completes '...tak faham apa itu | nasisis'"
+  },
+  {
+   "episode": "ep26",
+   "block": "2:09:36",
+   "was": "Speaker ?",
+   "action": "merged into the block after it",
+   "evidence": "caption 7777.6 'maybe you wanna share some'"
+  },
+  {
+   "episode": "ep26",
+   "block": "2:10:38",
+   "was": "Speaker ?",
+   "action": "merged into the block after it",
+   "evidence": "caption 7838.0 'Ha with the bank.'; next block carries the YB vocative"
+  },
+  {
+   "episode": "ep28",
+   "block": "3:00:44",
+   "was": "Speaker ?",
+   "action": "merged into the block after it",
+   "evidence": "caption 10844.1 'Dia dia didakwa beberapa hari sebelum'"
+  },
+  {
+   "episode": "ep36",
+   "block": "13:33",
+   "was": "Speaker ?",
+   "action": "merged into the block before it",
+   "evidence": "caption 812.6 'memang macam ni forward forward forward'"
+  },
+  {
+   "episode": "ep40",
+   "block": "25:23",
+   "was": "Speaker ?",
+   "action": "merged into the block after it",
+   "evidence": "'Gaji MB Terengganu pun | memang antara yang paling | tinggi' is one sentence"
+  },
+  {
+   "episode": "ep52",
+   "block": "00:44",
+   "was": "Speaker ?",
+   "action": "merged into the block after it",
+   "evidence": "Haziq names himself; Rafizi mocks it at 00:56"
+  },
+  {
+   "episode": "ep51",
+   "block": "05:37",
+   "was": "Speaker ?",
+   "action": "merged into the block before it",
+   "evidence": "camera 330-338s Haziq; caption puts the words at 336.5s"
+  },
+  {
+   "episode": "ep51",
+   "block": "06:42",
+   "was": "Speaker ?",
+   "action": "merged into the block before it",
+   "evidence": "camera 355-403s Rafizi, Farhan only from 404s; my reading had said Farhan and was wrong"
+  },
+  {
+   "episode": "ep40",
+   "block": "2:17:09",
+   "was": "Speaker ?",
+   "action": "RELABEL:Multiple speakers",
+   "evidence": "3+ voices in the closing goodbyes"
+  }
+ ],
+ "_open": "11 blocks are deliberately still `Speaker ?`. Four need the owner's ear (ep31 15:10, ep31 2:35:25, ep34 2:04:29, ep20 55:20). Two are held because the fragment could be a real short turn and folding it would erase whoever said it (ep34 1:49:20, ep40 35:30) -- the direction rule in group_shredded_turns.py. Five are in ep53, which stays blocked; at ep53 2:14:42 the printed `Teruskan.` is wrong and the audio is '10 sen.'",
+ "_camera_note": "ep51 is the only held episode that had a camera reference, and it corrected me. My reading folded 06:42 'Sebab dia' FORWARD into Farhan, because 'Sebab dia berlaku dekat kampung Sirah' reads as one sentence. The camera has Rafizi to 403s and Farhan only from 404s, so the fragment is Rafizi and the sentence really does change speaker mid-way. Both ep51 fragments sit in the INTERIOR of a camera segment rather than at a handoff, which is the condition the camera gets right here -- the eight it got wrong on ep56/ep57 were all short turns at a YB handoff."
+}

@@ -53,8 +53,6 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [01:55] Zikri Kamarulzaman: Tapi ketunggulan nanti. Kita pergi ke beria dulu. Kita tengok siapa Disebabkan dah raya ni, diorang dah aktif balik OAB. Harap kita beria lah.
 
-[02:05] Speaker ?: Saya boleh lihat.
-
 [02:05] Rafizi: Bria Albert Teh, di mana-mana. Ialah baguslah saya ingat. Ini yang himpunan rakyat yang bebas bersuara ni untuk konon untuk media freedom lah.
 
 [02:18] Zikri Kamarulzaman: Ya, ada Saturday. Freedom of speech. Freedom of speech. Oh no, media

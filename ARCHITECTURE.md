@@ -1116,3 +1116,60 @@ stay under 20 MB -- 10 minutes at 640 wide and 10 fps is about 9.5 MB.
 **What the tool is still good for:** one named window and one disputed label, the way
 `verify_speakers_video.py` settled 11 of ep62's, with the camera or a person holding the
 other end. Numbers and method in `data/gemini_label_blocks_measured.txt`.
+
+## `Speaker ?` was invisible to every checker, and three regexes are why (2026-09-11)
+
+The corpus carried 33 `Speaker ?` blocks in raw.md and 114 in the published
+interview files. `qa_check.py` reported 2 of 69 episodes flagged and neither was
+for this. ep33 shipped 25 `Speaker ?` turns to the reader in `interview.md`, 32 in
+`interview-en.md` and 12 in `interview-ms.md` while its own raw.md named all four
+speakers and carried no unknowns at all.
+
+Three separate patterns each walked past the label:
+
+| pattern | file | why it missed |
+|---|---|---|
+| `RAW_LABEL` | `label_drift_audit.py` | character class `[\w '.()-]` has no `?` |
+| `GENERIC` | `label_drift_audit.py` | `Speaker` alternative is anchored with `$` |
+| `DERIVED_PLACEHOLDER_RE` | `check_published.py` | matches `Speaker \d+` only |
+
+All three now accept it. `check_published.py` goes from 2 of 69 episodes flagged to
+12, and the 10 new ones are all real.
+
+### The caption track settles what reading cannot
+
+`Speaker ?` looks like a speaker question and mostly is not. Read against the
+episode's YouTube caption track at the block's stamp, the 33 raw blocks came apart
+into three classes, recorded per block in `data/speaker_q_caption_resolved.json`:
+
+  - **9 hold words nobody said.** `Saya boleh lihat.` appears 8 times in the corpus
+    and never once from a named speaker: 7 as `Speaker ?` and 1 under an invented
+    `Audience` label in ep00. It is the Whisper "I can see." hallucination on
+    non-speech. At ep03 2:02:21 the caption is `[Muzik]`; at ep41 1:59:42 it is
+    `minum [mendengus] air`.
+  - **11 are one sentence split across two blocks.** The fragment finishes the
+    sentence before it or starts the one after, and merging needs no name.
+  - **13 stay unknown** on purpose. Four need the owner's ear, four are held because
+    the fragment could be a real short turn, five are in blocked ep53.
+
+### Naming a published `Speaker ?` from raw.md: refused, 0 of 114
+
+`name_published_placeholders.py` votes once per label, which is right for
+`Speaker 1` (one voice by construction) and wrong for `Speaker ?` (a per-turn
+marker). `name_published_unknowns.py` was written to resolve them one turn at a
+time by literal trace, and it resolves none of them. That is the finding, not a
+failure of the tool.
+
+A trace proves the words are PRINTED inside a block carrying a name. It proves the
+person said them only if the block holds one turn. On ep33, 11 published unknowns
+traced into a single 13,857-character block labelled Rafizi, at offsets from 49% to
+99%, while the median block in that file is 66 characters. The rewrite had split
+that block into an alternating argument -- "More than that, more than that." against
+"I disagree, I disagree." -- so the block is two people and its label names one.
+Same lesson as `lib_locate.py`: a block label cannot locate a speaker inside the
+block.
+
+So ep33's published `Speaker ?` labels are the pipeline being honest, and
+regenerating its interview files would not fix them. **The defect to fix is the
+13,857-character raw block**, which is the `project_published_turn_collapse` class
+and needs the owner's ear or a camera reference ep33 does not have.

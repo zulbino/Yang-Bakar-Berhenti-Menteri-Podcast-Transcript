@@ -36,14 +36,18 @@ ROOT = Path(__file__).resolve().parent.parent / "episodes"
 # labels him that way -- so he counted as a cast member with no speaker label, and every
 # consumer of raw_names (this audit's classifier, check_published's generic-label count)
 # was working from a roster missing one of the three people usually in the room.
+# `?` is in the class for the same reason the brackets are: `Speaker ?` is a real label
+# this pipeline writes, and without it RAW_LABEL walked past all 33 of them. That made
+# raw.md's own unidentified turns invisible to this audit and to check_published's
+# generic-label count, and it is why the corpus carried them unreported until 2026-09-11.
 RAW_LABEL = re.compile(
-    r"^\[[\d:]+\]\s*(?:\[([^\]]{1,30})\]|([A-Za-z][\w '.()-]{1,28})\s*:)", re.M)
+    r"^\[[\d:]+\]\s*(?:\[([^\]]{1,30})\]|([A-Za-z][\w '.()?-]{1,28})\s*:)", re.M)
 MD_LABEL = re.compile(r"\*\*([A-Za-z][\w '.-]{1,28})\s*:?\*\*")
 # Includes the Malay equivalents the rewrite emits when translating a generic
 # label -- Pewawancara/Penemuduga/Penemubual all mean "interviewer", Ko-hos is
 # "co-host", Klip petikan is the "Quoted clip" label used for read-aloud audio.
 # Without these, translated placeholders show up as invented person-names.
-GENERIC = re.compile(r"^(Host|Hos|Host lain|Other host|Co-host|Ko-hos|Speaker|Speaker \d+|"
+GENERIC = re.compile(r"^(Host|Hos|Host lain|Other host|Co-host|Ko-hos|Speaker|Speaker \d+|Speaker \?|"
                      r"Interviewer|Pewawancara|Penemuduga|Penemubual|Pengacara|Penyampai|"
                      r"Moderator|Quoted clip|Klip petikan|Audience|Hadirin|Guest|Tetamu|"
                      r"Questioner|Penyoal|Professor|Prof|Unidentified Speaker|"
