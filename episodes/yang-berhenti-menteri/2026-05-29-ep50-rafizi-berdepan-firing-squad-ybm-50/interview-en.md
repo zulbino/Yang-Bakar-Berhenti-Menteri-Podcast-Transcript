@@ -320,7 +320,7 @@ If YB does that, poor Fuziah. No, well, let's see how she tries to spin her way 
 
 **Wan Afiq:** From Soal to Live. How will Bersama engage rural voters,
 
-**Rafizi:** the working class,
+**Wan Afiq:** the working class,
 
 **Wan Afiq:** —or senior citizens who are less digitally skilled? How do you ensure this party doesn't become an exclusive club for the tab generation?
 

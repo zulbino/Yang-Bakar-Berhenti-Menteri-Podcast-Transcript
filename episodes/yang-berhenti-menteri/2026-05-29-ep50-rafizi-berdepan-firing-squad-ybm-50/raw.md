@@ -277,11 +277,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [57:09] Rafizi: Oh, letih macam ni oh. Bagi masa. Bagi masa. Rapid fire yo. Rapid fire betul ni. Okey, next. Daripada soal to live.
 
-[57:16] Wan Afiq: Bagaimana Bersama nak libatkan pengundi luar bandar,
-
-[57:19] Rafizi: golongan pekerja basahan. Basahan, okey. Bawahan kot. Bawahan kot. Okey. Okey.
-
-[57:24] Wan Afiq: Atau warga emas yang kurang mahir digital. Macam mana nak pastikan parti ini tak jadi kelab eksklusif untuk generasi tab?
+[57:16] Wan Afiq: Bagaimana Bersama nak libatkan pengundi luar bandar, golongan pekerja basahan. Basahan, okey. Bawahan kot. Bawahan kot. Okey. Okey. Atau warga emas yang kurang mahir digital. Macam mana nak pastikan parti ini tak jadi kelab eksklusif untuk generasi tab?
 
 [57:33] Rafizi: Dia bergantung kepada demografi kita. Kalau tengok kepada demografi kita, 50% daripada pengundi ialah bawah 50 tahun kan, dan median umur di bawah rakyat ialah 31 tahun. Jadi kita juga kena akuilah di masa akan datang memang kita tak boleh lari daripada digitalization, termasuklah kepada yang berumur. Jadi buat masa sekarang, pada masa sekarang memang fokus bersama ialah melalui digitization. Sebab tu kita semua nak menjadi ahli semua melalui sistem, kena ada. Memang susah sedikitlah untuk ahli-ahli yang berumur. Tetapi saya ingat lama-lama digitalization itu menjadi lebih lebih meluas. Dan memang kita expect sebahagian besar daripada ahli bersama ini memanglah golongan yang Gen X, Millennials and Gen Z, terutamanya Millennials dan Gen Z yang serba tahu mengenai digital platform. Sebabnya ialah kerana itulah demografi negara kita, kan. Jadi, in the future, bila keadaan lebih baik, I think we can make it easier, but I don't think we can run away daripada digitalization. It's the future.
 
