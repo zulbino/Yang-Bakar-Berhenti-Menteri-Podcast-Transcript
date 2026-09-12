@@ -587,5 +587,34 @@
    ],
    "_note": "OWNER RULING 2026-09-12, same reading session as 2:02:01. The owner said Haziq starts with `tapi kalau tengok pada trend`, and raw.md had those words at the END of Rafizi's [1:58:07] block, with all three interview files inheriting them as Rafizi's closing line. Moved to the front of Haziq's [1:58:44] block in raw.md, interview.md, interview-en.md and interview-ms.md; the word sequence of each file is unchanged apart from the turn boundary. THE CAMERA CANNOT SEE THIS CLASS: it reads Rafizi 7100-7124s then Haziq 7125-7146s, and the cut lags speech by about two seconds, so the frame still shows Rafizi while Haziq has started. check_overlap_boundaries.py only inspected the SECOND block's opening seconds and had no test for words wrongly left at the end of the first. https://youtu.be/2AytMmKIU7w?t=0 is not this episode; the moment is https://youtu.be/GJyo38Kmyt8?t=7112"
   }
+ },
+ "ep61_owner_reading_2026_09_12": {
+  "_what": "OWNER RULINGS AND CONFIRMATIONS from reading data/rule7_contested_boundaries.md, 2026-09-12. Three confirmations that a contested label was already right, and one correction. The two rulings inside the 01:30-03:00 gold window are NOT here: they belong with data/speaker_ground_truth.json's dictated turns, which raw.md never received (see that file's note).",
+  "1:35:00": {
+   "who": "Haziq",
+   "text_now": "Pertumbuhan itself dekat tempat yang ditinggalkan tu.",
+   "_note": "OWNER RULING: `Rafizi: yang ketiga?` then `Haziq: pertumbuhan itself dekat tempat yang ditinggalkan tu.` raw.md had the sentence torn in two, with `yang ditinggalkan tu.` as a separate [1:35:02] Rafizi block. Joined into Haziq's [1:35:00] block, then merge_same_speaker joined the following Haziq block. interview.md ALREADY read it as one Haziq turn, so only raw.md was wrong. The camera agreed: 5702-5705s reads Haziq, which is why check_overlap_boundaries.py listed it as contested. https://youtu.be/2AytMmKIU7w?t=5696"
+  },
+  "2:19:00": {
+   "who": "Rafizi",
+   "text_now": "daripada yang ada sekarang ini? Dan dia tak boleh bagi buta-buta saja.",
+   "_note": "OWNER CONFIRMED the existing label, 2026-09-12: `yes the speech is by rafizi`. Was contested because the camera gives the first three seconds Haziq 1s, Rafizi 1s. No change to the file. https://youtu.be/2AytMmKIU7w?t=8334"
+  }
+ },
+ "ep58_owner_reading_2026_09_12": {
+  "_what": "OWNER CONFIRMATION from the same reading session, 2026-09-12.",
+  "1:21:04": {
+   "who": "Rafizi",
+   "text_now": "i- ha, yang ini yang tidak mahu diterangkan oleh Sanusi ke, oleh UMNO, oleh PAS ke apa.",
+   "_note": "OWNER CONFIRMED the existing label: `yes this is Rafizi. correct`. Was contested because the camera has no opinion in the first three seconds and gives Haziq one second across the window. No change to the file. https://youtu.be/I5BQU_awyQU?t=4858"
+  }
+ },
+ "ep57_owner_reading_2026_09_12": {
+  "_what": "OWNER RULING from the same reading session, 2026-09-12.",
+  "3:14:18": {
+   "who": "Haziq",
+   "text_now": "tahun sebelum 2018 itu, sekarang ni kita tangguhkan saja dan lebih teruk",
+   "_note": "OWNER RULING: the whole sentence is Haziq -- `...lebih teruk di aa sekarang ni kita membuatkan kerak nasi makin lama makin banyak`. raw.md had it as three blocks, Haziq / Rafizi / Haziq, with the middle six words on Rafizi. Relabelled and merged into one Haziq block. interview.md and interview-ms.md ALREADY read it as one Haziq turn, so only raw.md was wrong. https://youtu.be/TaoW0I1XqE0?t=11658"
+  }
  }
 }
