@@ -72,7 +72,7 @@ reason `data/frames_cache/` is gitignored. Paths are local to this checkout.
 - **Rafizi then starts:** tiba-tiba tengok biar betul 40,000 view kan. Kita yang biasa buat live semua ni kita faham
 - **camera over Haziq's last 3 s:** Rafizi 2s
 - **watch:** https://youtu.be/5IjX6nVTcDs?t=128
-- **contact sheet:** `data/_tail_ep54_0216.png` -- NOT FETCHED (YouTube refused the format tonight)
+- **contact sheet:** `data/_tail_ep54_0216.png` -- yes
 
 ### ep51 at 1:31:56
 
@@ -88,7 +88,7 @@ reason `data/frames_cache/` is gitignored. Paths are local to this checkout.
 - **Rafizi then starts:** ada satu content tu kata six seven ni sebenarnya benda lucah.
 - **camera over Wan Afiq's last 3 s:** Rafizi 2s
 - **watch:** https://youtu.be/C9xGMQMP6o8?t=1145
-- **contact sheet:** `data/_tail_ep50_1913.png` -- NOT FETCHED (YouTube refused the format tonight)
+- **contact sheet:** `data/_tail_ep50_1913.png` -- yes
 
 ### ep49 at 1:11:10
 
