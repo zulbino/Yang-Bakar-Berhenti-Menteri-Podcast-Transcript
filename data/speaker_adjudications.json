@@ -571,6 +571,21 @@
    "_note": "695-char block, 7321-7373s, the PISA figures turn (80% / 73%, 79% / 60%, 46% / 37%). Camera reference reads Haziq for 7322-7372s, 51 of 52 seconds, with one second of no opinion at 7321 and zero seconds for Rafizi or Sum Dek Joe inside the block. Rafizi holds the 17s before it, Sum Dek Joe takes over right after, both matching the neighbouring blocks. interview.md's turn is 694 chars against raw's 695, same tail, so nothing was merged in. ep63 has no caption track and MAI ran --no-diarization, so the camera was the only independent witness before the owner looked. https://youtu.be/GJyo38Kmyt8?t=7315",
    "who": "Haziq",
    "text_now": "Dan another one I think yang mungkin kita akan go selepas ni"
+  },
+  "1:58:44": {
+   "split": [
+    [
+     "Rafizi",
+     "Mungkin sebab orang mungkin tak tak yalah saya fahamlah PISA report ni",
+     "1:58:07"
+    ],
+    [
+     "Haziq",
+     "Aa tapi kalau tengok pada trend Malaysia,",
+     "1:58:44"
+    ]
+   ],
+   "_note": "OWNER RULING 2026-09-12, same reading session as 2:02:01. The owner said Haziq starts with `tapi kalau tengok pada trend`, and raw.md had those words at the END of Rafizi's [1:58:07] block, with all three interview files inheriting them as Rafizi's closing line. Moved to the front of Haziq's [1:58:44] block in raw.md, interview.md, interview-en.md and interview-ms.md; the word sequence of each file is unchanged apart from the turn boundary. THE CAMERA CANNOT SEE THIS CLASS: it reads Rafizi 7100-7124s then Haziq 7125-7146s, and the cut lags speech by about two seconds, so the frame still shows Rafizi while Haziq has started. check_overlap_boundaries.py only inspected the SECOND block's opening seconds and had no test for words wrongly left at the end of the first. https://youtu.be/2AytMmKIU7w?t=0 is not this episode; the moment is https://youtu.be/GJyo38Kmyt8?t=7112"
   }
  }
 }
