@@ -621,5 +621,33 @@
    "text_now": "not amounting to acquittal. Ha, okey.",
    "_note": "OWNER CONFIRMED the existing label: `this is correct, on Haziq`. Was contested because Rafizi's block before it ends mid-sentence (`Yalah, disqual- sorry, discharge`) and the camera gives the first seconds Rafizi 2s against Haziq 1s. Haziq finishing the legal phrase is real. No change to the file. https://youtu.be/TaoW0I1XqE0?t=441"
   }
+ },
+ "ep56_owner_reading_2026_09_12": {
+  "_what": "OWNER RULING from the same reading session, 2026-09-12.",
+  "37:13": {
+   "split": [
+    [
+     "Haziq",
+     "yang ini lah kot, kan?",
+     "37:10"
+    ],
+    [
+     "Rafizi",
+     "Tak ada ah, aku pun aku lebih kepada yang Ni. yang ha.",
+     "37:17"
+    ],
+    [
+     "Haziq",
+     "Ha, show off duit minyak.",
+     "37:22"
+    ],
+    [
+     "Rafizi",
+     "Ha, kepada Budin Martopo ni. Sebab aku tak faham.",
+     "37:24"
+    ]
+   ],
+   "_note": "OWNER RULING, four turns where raw.md had one Rafizi block: `Haziq: yang ini lah kot, kan?` / `Rafizi: Tak ada ah, aku pun aku lebih kepada yang Ni. yang ha.` / `Haziq. Ha, show off duit minyak.` / `Rafizi: Ha, kepada budin martopo`. The first clause finishes Haziq's own [37:10] sentence (`saya rasa mungkin`) and was appended to it. The new stamps are MAI's own word times: `Tak ada ah` 2237.7s, `show off duit minyak` 2243.0s, `kepada Budin` 2244.0s. The same split was applied to interview.md, interview-en.md and interview-ms.md, where the clause sat inside Rafizi's turn. https://youtu.be/nXMJ_FxwfjM?t=2227"
+  }
  }
 }
