@@ -46,6 +46,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import check_figures  # noqa: E402
 from check_language_drift import malay_ratio, strip_frontmatter
 from check_published import DERIVED, RAW_LABEL, TURN_RE
 from label_drift_audit import GENERIC
@@ -206,6 +207,12 @@ def score(ep_dir):
         "generic_floor": generic_floor(ep_dir),
         "attribution": attribution_agreement(ep_dir),
         "missing_speakers": missing_speakers(ep_dir),
+        # The fourth flag the QA suite raises: figures the published text prints that raw.md
+        # cannot account for. An incumbent written from a raw.md that has since been
+        # replaced (a local-ASR raw swapped for MAI's words) carries the old text's figures
+        # and scores 0 generic / full attribution, so without this axis every candidate
+        # written from the CURRENT raw.md is "nothing measurably better" (ep48, 2026-09-12).
+        "unsourced_figures": len(check_figures.unsourced(ep_dir)),
     }
 
 
@@ -262,8 +269,13 @@ def verdict(old, new):
     # turns raw.md leaves generic. Coming up to the floor is the gain.
     unclaimed = at_floor and old["generic_turns"] < floor
     gained_attribution = da is not None and da > AGREEMENT_TOLERANCE
+    du = old.get("unsourced_figures", 0) - new.get("unsourced_figures", 0)
+    if du < 0:
+        return False, (f"REJECT: {-du} more figure(s) the published text prints that raw.md "
+                       f"cannot account for ({old.get('unsourced_figures', 0)} -> "
+                       f"{new.get('unsourced_figures', 0)})")
     if (dg <= 0 and not unclaimed and dm <= MALAY_TOLERANCE and not gained_attribution
-            and not recovered):
+            and not recovered and du <= 0):
         att = ("" if da is None
                else f", attribution {old['attribution']:.1%} -> {new['attribution']:.1%}")
         return False, (f"REJECT: nothing measurably better (generic turns "
@@ -284,6 +296,9 @@ def verdict(old, new):
     if recovered:
         gains.append(f"recovers speaker(s) the reader could not see: "
                      f"{', '.join(sorted(recovered))}")
+    if du > 0:
+        gains.append(f"{du} fewer unsourced figure(s) ({old['unsourced_figures']} -> "
+                     f"{new['unsourced_figures']})")
     return True, f"PROMOTE: {', '.join(gains)}, completeness {dc:+.0%}"
 
 
@@ -293,6 +308,7 @@ def show(tag, s):
           f"generic turns {s['generic_turns']} (floor {s['generic_floor']})"
           + ("" if s.get("attribution") is None
              else f"  attribution {s['attribution']:.1%}")
+          + f"  unsourced figures {s.get('unsourced_figures', 0)}"
           + ("" if not s.get("missing_speakers")
              else f"  MISSING {','.join(s['missing_speakers'])}"))
 
