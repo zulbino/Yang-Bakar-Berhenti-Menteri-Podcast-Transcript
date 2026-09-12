@@ -21,11 +21,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 # Raw Transcript
 
-[00:43] Haziq: Podcast Yang Berhenti Menteri episod ke-49,
-
-[00:46] Speaker ?: macam biasa dan macam tak biasa bersama YB Rafizi Ramli dan YB Nik Nazmi.
-
-[00:52] Haziq: Tapi bukan yang
+[00:43] Haziq: Podcast Yang Berhenti Menteri episod ke-49, macam biasa dan macam tak biasa bersama YB Rafizi Ramli dan YB Nik Nazmi. Tapi bukan yang
 
 [00:53] Rafizi: Ha, dah tak jadi hai YB dah. Tapi yang bersama. Oh, yang bersama. Yang bersama, yang bersama.
 

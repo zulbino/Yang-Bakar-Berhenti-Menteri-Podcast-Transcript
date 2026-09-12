@@ -269,11 +269,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [22:30] Rafizi: Betul tak? Tapi jaw- jawapan dia tu saya tengok, saya bacalah jawapan tu. Saya tak rasa ada anything yang... yang Outstandingly wrong. Betul tak? Ha, that's the point. Tak ada. Itu jawapan pentadbiran. Just satu faktornya.
 
-[22:44] Wong Chen: Walaupun faktor tu memang
-
-[22:47] Rafizi: salahlah.
-
-[22:47] Wong Chen: I don't think so lah.
+[22:44] Wong Chen: Walaupun faktor tu memang salahlah. I don't think so lah.
 
 [22:48] Rafizi: I mean, kita ada pandangan masing-masing lah. Ha, betul. About, you know, kenapa orang tu semua gini kan. Dan yang tanya tu pun daripada Rantau Panjang. Rantau Panjang. Rantau Panjang tu pun tanya soalan tu, apakah faktor-faktor? I mean balik Kelantan pergi tanya jugalah. Sebab kat Kelantan pun banyak kan. Jadi, jadi soalan Rantau Panjang tu in, kalau saya ahli politik, saya jawab macam tu lah. Saya pun nak tanya juga dekat rantau panjang apa faktor dia? Ha jadi tapi dia bukan politik, ahli politik. Jadi dia tak konar balik macam itulah kan. Jadi soalan itu pun nakal in the first place. Betul. Mana ada substantive theory ataupun proof about sexuality? Ha kan. Jadi benda tu debatable. Ada yang- Soalan bodohlah. Soalan bodohlah. Soalan bodoh.
 

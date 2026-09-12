@@ -670,5 +670,28 @@
    "text_now": "Bagaimana Bersama nak libatkan pengundi luar bandar, golongan pekerja basahan.",
    "_note": "OWNER RULING: the whole question is Wan Afiq reading it out -- `golongan pekerja basahan. Basahan, okey. Bawahan kot. Bawahan kot. Okey. Okey.` included. raw.md had that middle piece as a Rafizi block between two Wan Afiq blocks, and all three interview files carried it as a separate Rafizi turn (`golongan pekerja bawahan.`, `the working class,`). Relabelled in all four files; raw's three blocks then merged into one. The self-correction basahan/bawahan is him correcting his own reading, not two speakers. https://youtu.be/C9xGMQMP6o8?t=3433"
   }
+ },
+ "rule7_tool_decided_2026_09_12": {
+  "_what": "The last four contested boundaries, decided by TOOL EVIDENCE and not by a guess, on the night of 2026-09-12 with the owner asleep and their standing instruction to proceed. Every one has the same three signals pointing one way, and the owner ruled four identical shapes the same way earlier the same evening (ep57 3:14, ep61 1:35, ep56 37:13, ep50 57:19). FOR MORNING REVIEW: each is listed in data/rule7_contested_boundaries.md with a ?t= link.",
+  "ep33@22:47": {
+   "who": "Wong Chen",
+   "text_now": "Walaupun faktor tu memang salahlah.",
+   "_note": "`salahlah.` was a one-word Rafizi block between two Wong Chen blocks. Wong Chen on both sides; the sentence reads `Walaupun faktor tu memang salahlah.`; the camera gives the boundary seconds Wong Chen (2 of 3), never Rafizi. Merged into one Wong Chen turn. https://youtu.be/hI_cgYwwtqg?t=1361"
+  },
+  "ep46@39:29": {
+   "who": "Wan Afiq",
+   "text_now": "So kalau penonton di luar setuju, komen satu.",
+   "_note": "`komen satu.` was a Rafizi block inside Wan Afiq's own call to the audience. The camera gives all three boundary seconds Wan Afiq and never cuts across the window (seven frames from 39:26 to 39:32 are one continuous shot of him). Same shape as the owner's ep50 57:19 ruling the same evening. https://youtu.be/hVMQsOg2dj8?t=2363"
+  },
+  "ep47@2:54:59": {
+   "who": "Rafizi",
+   "text_now": "Saya tak tak boleh kon- saya tak contact dia langsung kerana yalah kal- saya kita tak nak",
+   "_note": "`kal- saya kita tak nak` was a Haziq block inside one Rafizi sentence that continues `bagi ruang kepada SPRM ataupun pihak berkuasa`. Rafizi on both sides, camera gives the edge Rafizi (2 of 3 seconds), and the fragment is his own stumble. https://youtu.be/qSA4cx_U0Ao?t=10493"
+  },
+  "ep49@00:46": {
+   "who": "Haziq",
+   "text_now": "Podcast Yang Berhenti Menteri episod ke-49, macam biasa dan macam tak biasa bersama YB Rafizi Ramli dan YB Nik Nazmi.",
+   "_note": "Was `Speaker ?`. This is the show's standing opening line, Haziq's, split across three blocks with Haziq on both sides. The camera is blind by construction here -- frames 00:43 to 00:49 are the episode's title animation -- and the only face visible either side of the card is Haziq. `fold_hanging_fragments.py` would have folded it except the fragment is 13 words against its MAX_WORDS of 10. Naming a `Speaker ?` needs better than a vote, and three signals agree here: same speaker both sides, one continuous sentence, one face. https://youtu.be/BY82Rp0ShH4?t=40"
+  }
  }
 }
