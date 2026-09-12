@@ -47,19 +47,39 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** This is not a windbreaker, this is a "fail" for me. Is it a bomber? Bomber. Bomber jacket. No, I always get free clothes and merchandise. Oh, free. Only this one, I don't understand its product-market fit with Malaysian weather. Looks stylish but, well, it's damn hot. So when they gave it to me, when should I wear it? During ceramahs it's hot and sweaty, on day one it's still hot. So I wear it during the podcast, I wear it during the podcast, usually the air conditioning is cold. Tonight it's not that cold, so they'll feel cold later, we need to cool it down a bit, because I'm wearing this bomber jacket. Okay.
 
-**Haziq:** Okay, alright YB. Long holiday, what is YB doing? Holiday?
+**Haziq:** Alright YB. How long is your break?
 
-**Rafizi:** Yeah, that's right. Just letting people know. Tomorrow, let's see, what's this? Tomorrow is Saturday, in Melaka, a wedding feast, then a ceramah. Then on Sunday, where? In Puchong.
+**Rafizi:** What break?
 
-**Haziq:** Sunday in Puchong. Right in Puchong, our HQ. That's for Sepang, all of it. Yes.
+**Haziq:** Yeah, just letting people know.
 
-**Rafizi:** Then not on the day. The 31 August holiday is also in the schedule. Yes. Then on Tuesday, a ceramah. It's like there's an election coming.
+**Rafizi:** Tomorrow — what is it, Saturday. Saturday in Melaka, a kenduri, then a ceramah at night. Then on Sunday, where?
 
-**Haziq:** Like there's an election coming. We're really going all out. Okay, okay alright YB, let's continue. For episode 61, because there's quite a lot of "beria" (over-the-top) stuff — last week there was a lot, this week too. First up, the overclaim therapy is back. Right?
+**Haziq:** In Puchong? Sunday in Puchong. Right in Puchong, our HQ.
 
-**Rafizi:** True, it's hot so. You guys just let Haziq stay cool.
+**Rafizi:** That one is for Sepang, all of it. Yes. And then it isn't even a day off — 31 August is in the schedule too.
 
-**Haziq:** For example, isn't it hot, tummy. Right, I can go to the toilet later. Okay, what's this? Overclaim therapy is back — hydrogen therapy or nebulizer.
+**Haziq:** Yes.
+
+**Rafizi:** Then a ceramah on Tuesday.
+
+**Haziq:** Like there's an election coming, YB?
+
+**Rafizi:** Like there's an election coming. We really are going all out.
+
+**Haziq:** Okay, alright YB, let's continue with episode 61, because there is quite a lot of beria.
+
+**Rafizi:** Last week there was a lot of beria. This week too.
+
+**Haziq:** First up, overclaim therapy is back.
+
+**Rafizi:** True, he's hot. You lot should let Haziq stay cool, as long as I don't get hot and sweaty.
+
+**Haziq:** Right, I can go to the toilet later.
+
+**Rafizi:** Okay, what is this one? Overclaim therapy, back again.
+
+**Haziq:** Hydrogen therapy or a nebulizer.
 
 **Rafizi:** Is a nebulizer really hydrogen?
 

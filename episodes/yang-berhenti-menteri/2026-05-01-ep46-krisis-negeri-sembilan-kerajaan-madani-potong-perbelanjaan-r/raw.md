@@ -221,11 +221,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [39:25] Rafizi: Kita semua setuju sebab dia punya billboard besar tu kan.
 
-[39:28] Wan Afiq: So kalau penonton di luar setuju,
-
-[39:29] Rafizi: komen satu.
-
-[39:32] Wan Afiq: Bagi BN tu rare.
+[39:28] Wan Afiq: So kalau penonton di luar setuju, komen satu. Bagi BN tu rare.
 
 [39:34] Rafizi: Sebab dia sanggup jadi intern di Pandan eh. Okey. Clear YB. So kita pergi hidup keras.
 
