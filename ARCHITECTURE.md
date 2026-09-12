@@ -653,6 +653,20 @@ not a guess; the fix goes into `fix_proper_nouns.py` anchored on the full phrase
 local raw heard 1.99, the captions agree. Only a figure the witnesses split on goes to the
 owner. Not yet a script; `check_figures.py` finds the candidates, the count is by hand.
 
+**A third witness for a speaker label: `voice_witness.py` (2026-09-12).** The owner's rule is
+that a label reaches their ear only when the tools split, and after MAI, the camera and the
+camera-vouched clusters an episode still had 61 `Speaker ?` blocks and 46 disputed short
+turns. The corpus voiceprint cannot be the third witness (its two cosine distributions
+overlap across recordings). An episode-local one can: each named speaker's centroid is built
+from THIS recording's camera-attested seconds (same room, same microphones), and every
+unnamed window is scored against them. `--validate` holds out every third camera run and
+measures the thing before it is trusted; on ep63, 358 windows: 8 s windows 100%, 1.6 s
+windows 98.5% at score >= .55 and margin >= .20 and 100% at >= .60 / >= .30. Those are the
+`--write` thresholds. Rafizi and Haziq sit close (centroid cosine .68) and the guest far
+(.16-.31), so most of what it refuses is a Rafizi/Haziq call on a short window. ep63: 25
+labels settled (24 `Speaker ?` blocks named, one short turn moved by a 2-of-3 vote), 37
+blocks left as `Speaker ?`. CPU only, by design: the GPU belongs to the camera pass.
+
 ## Writing the interview files from segments
 
 The shipping path for ep62 (2026-09-10) and for every episode after it; the whole-episode
