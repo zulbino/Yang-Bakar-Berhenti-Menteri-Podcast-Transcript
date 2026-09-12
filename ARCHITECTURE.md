@@ -667,6 +667,21 @@ windows 98.5% at score >= .55 and margin >= .20 and 100% at >= .60 / >= .30. Tho
 labels settled (24 `Speaker ?` blocks named, one short turn moved by a 2-of-3 vote), 37
 blocks left as `Speaker ?`. CPU only, by design: the GPU belongs to the camera pass.
 
+**Naming an unenrolled face without a bijection: match it across episodes (2026-09-12).**
+`guest_gallery.py` names a face only when one unknown label meets one unknown talking
+cluster. ep46 had two of each (Amir Sahmat, Wan Afiq), and ep50 was held because Wan Afiq is
+a rotating host. The way out was the face embeddings themselves: ep46's second unknown
+cluster matched ep50's only unknown talking cluster at max cosine 0.91 (a true same-face
+match on this pipeline lands at 0.86-0.98, camera_speakers note 3), and ep50's host list
+names exactly one unknown host, so that face is Wan Afiq in both episodes. With one of two
+faces pinned, the other is Amir Sahmat by a two-to-two bijection, and the intro line
+"Bersama saya, Afiq. Saya Amir Sahmat" confirms both are present. Frames were read at
+0:07:58, 0:35:23, 1:19:23 and 1:34:12 to confirm the two clusters are two different men.
+Both per-episode galleries carry this provenance. The general rule: a recurring guest or
+rotating host needs a face match to an episode where they are already named, not a human
+per episode; the unknown-cluster comparison above is the tool, and it should become a
+`guest_gallery.py --match <other vid>` mode rather than a one-off.
+
 ## Writing the interview files from segments
 
 The shipping path for ep62 (2026-09-10) and for every episode after it; the whole-episode
