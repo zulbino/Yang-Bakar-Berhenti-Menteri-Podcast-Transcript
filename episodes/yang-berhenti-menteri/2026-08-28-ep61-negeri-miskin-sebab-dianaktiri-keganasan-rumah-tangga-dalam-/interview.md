@@ -47,19 +47,39 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** This is not windbreaker, this is fail lah saya. Is it bomber ke bomber? Bomber. Bomber jaket. Taklah, aku selalu dapat baju-baju dan merchandise percuma. Oh percuma. Cuma yang ini aku tak faham dia punya product market fit dengan cuaca Malaysia. Nampak style lah tapi, yelah, panas nak mampus. Jadi bila dia bagi, aku nak pakai masa mana? Masa ceramah atas tu panas berpeluh-peluh, masa day one pun tetap panas. So pakai waktu podcast lah, pakai waktu podcast lah, selalunya aircon sejuk lah. Malam ni tak sejuk sangat, nanti dia orang sejuk kan, nanti kena sejukkan sikit lah, sebab aku pakai bomber jacket ni. Okay.
 
-**Haziq:** Okay, baik YB. Cuti panjang, YB buat apa? Cuti?
+**Haziq:** Baik YB. Cuti panjang YB berapa?
 
-**Rafizi:** Haa, yelah. Saja je, nak bagitahu orang. Hari. jom, apa ni? Hari Sabtu esok ni, hari Sabtu di Melaka, keduri, kemudian ceramah. Kemudian hari Ahad di mana? Di Puchong.
+**Rafizi:** Mana ada cuti?
 
-**Haziq:** Ahad di Puchong. Betul-betul Puchong lah, HQ kita punya. Itu untuk Sepang lah semua. Yes lah.
+**Haziq:** Yelah, saja je nak bagitahu orang.
 
-**Rafizi:** Lepas tu bukan hari. Cuti 31 Ogos itu pun ada dalam jadual. Ya. Kemudian hari Selasa ceramah. Macam nak pilihan raya dah.
+**Rafizi:** Hari... apa ni, hari Sabtu esok. Hari Sabtu di Melaka, kenduri, kemudian ceramah malam. Kemudian hari Ahad di mana?
 
-**Haziq:** Macam nak pilihan raya. Kita memang beria. Okay, okay baik YB, kita teruskan. Untuk episode 61 ni sebab beria agak banyak sikit — minggu lepas banyak beria, minggu ini pun banyak beria. Yang pertama sekali, terapi overclaim datang lagi. Betul ke?
+**Haziq:** Di Puchong? Ahad di Puchong. Betul-betul Puchong lah, HQ kita punya.
 
-**Rafizi:** Betul lah, dia panas so. Korang kena biarlah si Haziq ni sejuk.
+**Rafizi:** Itu untuk Sepang lah semua. Yes. Lepas tu bukan hari cuti — 31 Ogos itu pun ada dalam jadual.
 
-**Haziq:** Misalkan tak panas ke, pelut. Haa betul, saya boleh pergi toilet nanti. Okay, ni mana ni? Terapi overclaim datang lagi — hydrogen therapy atau nebulizer.
+**Haziq:** Ya.
+
+**Rafizi:** Kemudian hari Selasa ceramah.
+
+**Haziq:** Macam nak pilihan raya dah YB?
+
+**Rafizi:** Macam nak pilihan raya. Kita memang beria.
+
+**Haziq:** Okay, baik YB, kita teruskan untuk episode 61 ni, sebab beria agak banyak sikit.
+
+**Rafizi:** Minggu lepas banyak beria. Minggu ini pun banyak beria.
+
+**Haziq:** Yang first sekali, terapi overclaim datang lagi.
+
+**Rafizi:** Betul lah, dia panas tu. Korang kena biarlah si Haziq ni sejuk, asalkan aku tak panas berpeluh.
+
+**Haziq:** Betul, saya boleh pergi toilet nanti.
+
+**Rafizi:** Okay, ni mana ni? Terapi overclaim datang lagi.
+
+**Haziq:** Hydrogen therapy atau nebulizer.
 
 **Rafizi:** Nebulizer tu memang hydrogen ke?
 
