@@ -31,114 +31,106 @@ and the reason is written next to the change.
 
 ## Owner rulings so far, 2026-09-12
 
+## The 11 `tail` candidates, with contact sheets
 
-=== ep63: 250 blocks, camera covers 9615s (Rafizi 86%, Sum Dek Joe 11%, Haziq 3%)
-    0 contested, 0 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
+Each row is a boundary where the camera ALREADY shows the next speaker during the
+previous block's last seconds. The cut lags speech by about two seconds, so that
+usually means the next speaker had started before the cut, and the words at the end of
+the first block may be theirs. Some are real interruptions and should stay.
 
-=== ep62: 456 blocks, camera covers 13110s (Rafizi 95%, Haziq 4%, Farhan 1%)
-    0 contested, 1 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
-    1 boundary/boundaries where the camera already shows the NEXT speaker during the previous block's last seconds:
-      [3:43:52] Farhan (Pa'an)'s block ends ...White pap-
-            Rafizi then starts 'dalam white paper pun sama juga.'
-            https://youtu.be/0M5hweswMpE?t=13424
+The contact sheets are 11 frames each, five seconds either side, with the absolute
+time burned into every frame. They are NOT committed: they are video frames, the same
+reason `data/frames_cache/` is gitignored. Paths are local to this checkout.
 
-=== ep61: 251 blocks, camera covers 9698s (Rafizi 88%, Haziq 12%, Farhan 0%)
-    0 contested, 0 attested by the camera, 1 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
+### ep62 at 3:43:52
 
-=== ep60: 244 blocks, camera covers 11470s (Rafizi 79%, Sum Dek Jo 14%, Haziq 6%, Farhan 0%)
-    0 contested, 0 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
+- **Farhan (Pa'an)'s block ends:** ...White pap-
+- **Rafizi then starts:** dalam white paper pun sama juga.
+- **camera over Farhan (Pa'an)'s last 3 s:** Rafizi 3s
+- **watch:** https://youtu.be/0M5hweswMpE?t=13424
+- **contact sheet:** `data/_tail_ep62_34352.png` -- yes
 
-=== ep59: 256 blocks, camera covers 10278s (Rafizi 92%, Haziq 6%, Farhan 2%)
-    0 contested, 0 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
+### ep57 at 3:27:05
 
-=== ep58: 167 blocks, camera covers 10324s (Rafizi 91%, Haziq 8%, Farhan 1%)
-    0 contested, 1 attested by the camera, 1 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
+- **Haziq's block ends:** ...Itu sebenarnya ialah
+- **Rafizi then starts:** orang kata surface lah kan, the the real existential crisis kepada tabung Haji ni. Maksudn
+- **camera over Haziq's last 3 s:** Rafizi 2s
+- **watch:** https://youtu.be/TaoW0I1XqE0?t=12417
+- **contact sheet:** `data/_tail_ep57_32705.png` -- yes
 
-=== ep57: 275 blocks, camera covers 11839s (Rafizi 95%, Haziq 4%, Farhan 1%)
-    0 contested, 2 attested by the camera, 2 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
-    1 boundary/boundaries where the camera already shows the NEXT speaker during the previous block's last seconds:
-      [3:27:05] Haziq's block ends ...Itu sebenarnya ialah
-            Rafizi then starts 'orang kata surface lah kan, the the real existential'
-            https://youtu.be/TaoW0I1XqE0?t=12417
+### ep56 at 01:24
 
-=== ep56: 201 blocks, camera covers 9450s (Rafizi 93%, Haziq 6%, Farhan 1%)
-    0 contested, 2 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
-    1 boundary/boundaries where the camera already shows the NEXT speaker during the previous block's last seconds:
-      [01:24] Haziq's block ends ...Dan kita telah pun bersetuju aa langkah-langkah
-            Rafizi then starts 'susulan supaya aa khidmat dan juga peranan bersama d'
-            https://youtu.be/nXMJ_FxwfjM?t=76
+- **Haziq's block ends:** ...Dan kita telah pun bersetuju aa langkah-langkah
+- **Rafizi then starts:** susulan supaya aa khidmat dan juga peranan bersama di peringkat akar umbi yang ditawarkan 
+- **camera over Haziq's last 3 s:** Rafizi 3s
+- **watch:** https://youtu.be/nXMJ_FxwfjM?t=76
+- **contact sheet:** `data/_tail_ep56_0124.png` -- yes
 
-=== ep55: 289 blocks, camera covers 7527s (Rafizi 89%, Haziq 11%)
-    0 contested, 1 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
+### ep54 at 02:16
 
-=== ep54: 104 blocks, camera covers 5144s (Rafizi 90%, Haziq 10%)
-    0 contested, 2 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
-    1 boundary/boundaries where the camera already shows the NEXT speaker during the previous block's last seconds:
-      [02:16] Haziq's block ends ...mai dengan penyokong dari Chittagong. Dia rekod lah hari tu,
-            Rafizi then starts 'tiba-tiba tengok biar betul 40,000 view kan. Kita ya'
-            https://youtu.be/5IjX6nVTcDs?t=128
+- **Haziq's block ends:** ...ngumuman calon. Yang sangat ramai dengan penyokong dari Chittagong. Dia rekod lah hari tu,
+- **Rafizi then starts:** tiba-tiba tengok biar betul 40,000 view kan. Kita yang biasa buat live semua ni kita faham
+- **camera over Haziq's last 3 s:** Rafizi 2s
+- **watch:** https://youtu.be/5IjX6nVTcDs?t=128
+- **contact sheet:** `data/_tail_ep54_0216.png` -- NOT FETCHED (YouTube refused the format tonight)
 
-=== ep53: 275 blocks, camera covers 10058s (Rafizi 89%, Haziq 8%, Farhan 3%)
-    0 contested, 0 attested by the camera, 2 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
+### ep51 at 1:31:56
 
-=== ep52: 448 blocks, camera covers 8069s (Rafizi 89%, Haziq 9%, Farhan 2%)
-    0 contested, 1 attested by the camera, 2 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
+- **Haziq's block ends:** ...Tak. Ha kan. So you tanya, tanya, tanya, tanya,
+- **Rafizi then starts:** then you can narrow down. Actually it's the same discipline dalam politik pun. Dan contohn
+- **camera over Haziq's last 3 s:** Rafizi 3s
+- **watch:** https://youtu.be/rnw1urH_Kd0?t=5508
+- **contact sheet:** `data/_tail_ep51_13156.png` -- yes
 
-=== ep51: 168 blocks, camera covers 9190s (Rafizi 92%, Haziq 7%, Farhan 2%)
-    0 contested, 3 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
-    1 boundary/boundaries where the camera already shows the NEXT speaker during the previous block's last seconds:
-      [1:31:56] Haziq's block ends ...Tak. Ha kan. So you tanya, tanya, tanya, tanya,
-            Rafizi then starts "then you can narrow down. Actually it's the same dis"
-            https://youtu.be/rnw1urH_Kd0?t=5508
+### ep50 at 19:13
 
-=== ep50: 276 blocks, camera covers 9636s (Rafizi 86%, Wan Afiq 11%, Farhan 4%)
-    0 contested, 2 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
-    1 boundary/boundaries where the camera already shows the NEXT speaker during the previous block's last seconds:
-      [19:13] Wan Afiq's block ends ...Six seven. Six seven ni bukan kalau, kalau ada dia banyaklah
-            Rafizi then starts 'ada satu content tu kata six seven ni sebenarnya ben'
-            https://youtu.be/C9xGMQMP6o8?t=1145
+- **Wan Afiq's block ends:** ...tapi dia suka buat six seven. Six seven. Six seven ni bukan kalau, kalau ada dia banyaklah
+- **Rafizi then starts:** ada satu content tu kata six seven ni sebenarnya benda lucah.
+- **camera over Wan Afiq's last 3 s:** Rafizi 2s
+- **watch:** https://youtu.be/C9xGMQMP6o8?t=1145
+- **contact sheet:** `data/_tail_ep50_1913.png` -- NOT FETCHED (YouTube refused the format tonight)
 
-=== ep49: 451 blocks, camera covers 11119s (Rafizi 77%, Nik Nazmi 16%, Haziq 6%, Farhan 1%)
-    0 contested, 4 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
-    3 boundary/boundaries where the camera already shows the NEXT speaker during the previous block's last seconds:
-      [1:11:10] Nik Nazmi's block ends ...So my concern masa itu ialah
-            Rafizi then starts 'kalau benda ni berlaku and we march to the street ma'
-            https://youtu.be/BY82Rp0ShH4?t=4262
-      [1:16:19] Nik Nazmi's block ends ...Yeah. I mean, if anything is just apa
-            Rafizi then starts 'nama ni, for my own knowledge untuk beri rasa macam '
-            https://youtu.be/BY82Rp0ShH4?t=4571
-      [1:16:31] Nik Nazmi's block ends ...Consistently, the only
-            Rafizi then starts 'dominant pattern from August 2025 ni is the rise of '
-            https://youtu.be/BY82Rp0ShH4?t=4583
+### ep49 at 1:11:10
 
-=== ep48: 348 blocks, camera covers 11371s (Rafizi 90%, Haziq 8%, Farhan 2%)
-    0 contested, 3 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
+- **Nik Nazmi's block ends:** ...So my concern masa itu ialah
+- **Rafizi then starts:** kalau benda ni berlaku and we march to the street malam itu or pagi esok, there could be b
+- **camera over Nik Nazmi's last 3 s:** Rafizi 3s
+- **watch:** https://youtu.be/BY82Rp0ShH4?t=4262
+- **contact sheet:** `data/_tail_ep49_11110.png` -- yes
 
-=== ep47: 225 blocks, camera covers 10333s (Rafizi 90%, Haziq 8%, Farhan 2%)
-    0 contested, 4 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
-    1 boundary/boundaries where the camera already shows the NEXT speaker during the previous block's last seconds:
-      [40:41] Haziq's block ends ...Kerana, kerana beritanya ialah
-            Rafizi then starts 'mereka yang disiasat ini ada ugutan dan ada tekanan '
-            https://youtu.be/qSA4cx_U0Ao?t=2433
+### ep49 at 1:16:19
 
-=== ep46: 293 blocks, camera covers 10874s (Rafizi 91%, Amir Sahmat 5%, Wan Afiq 3%, Farhan 1%)
-    0 contested, 2 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
+- **Nik Nazmi's block ends:** ...Yeah. I mean, if anything is just apa
+- **Rafizi then starts:** nama ni, for my own knowledge untuk beri rasa macam mana kan. Survey begins to point to sa
+- **camera over Nik Nazmi's last 3 s:** Rafizi 3s
+- **watch:** https://youtu.be/BY82Rp0ShH4?t=4571
+- **contact sheet:** `data/_tail_ep49_11619.png` -- yes
 
-=== ep44: 146 blocks, camera covers 10314s (Rafizi 93%, Haziq 6%, Farhan 1%)
-    0 contested, 1 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
-ep43: SKIPPED -- raw.md is not the adopted MAI build, so its block stamps cannot locate a boundary second (see this file's limit 2)
+### ep49 at 1:16:31
 
-=== ep41: 118 blocks, camera covers 10568s (Rafizi 95%, Haziq 4%, Farhan 0%)
-    0 contested, 1 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
+- **Nik Nazmi's block ends:** ...Consistently, the only
+- **Rafizi then starts:** dominant pattern from August 2025 ni is the rise of disenfranchised voters.
+- **camera over Nik Nazmi's last 3 s:** Rafizi 2s
+- **watch:** https://youtu.be/BY82Rp0ShH4?t=4583
+- **contact sheet:** `data/_tail_ep49_11631.png` -- yes
 
-=== ep36: 176 blocks, camera covers 8985s (Rafizi 89%, Lee Chean Chung 8%, Haziq 3%, Farhan 0%)
-    0 contested, 3 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
+### ep47 at 40:41
 
-=== ep33: 570 blocks, camera covers 9455s (Rafizi 74%, Wong Chen 21%, Haziq 4%, Farhan 1%)
-    0 contested, 11 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
-    1 boundary/boundaries where the camera already shows the NEXT speaker during the previous block's last seconds:
-      [35:06] Rafizi's block ends ...Sebab dia tendang, tendang, tendang. Video ni
-            Wong Chen then starts 'classic 1970. I think my mother used to watch Teresa'
+- **Haziq's block ends:** ...Kerana, kerana beritanya ialah
+- **Rafizi then starts:** mereka yang disiasat ini ada ugutan dan ada tekanan sehingga mereka terpaksalah menyerahka
+- **camera over Haziq's last 3 s:** Rafizi 2s
+- **watch:** https://youtu.be/qSA4cx_U0Ao?t=2433
+- **contact sheet:** `data/_tail_ep47_4041.png` -- yes
+
+### ep33 at 35:06
+
+- **Rafizi's block ends:** ...Sebab dia tendang, tendang, tendang. Video ni
+- **Wong Chen then starts:** classic 1970. I think my mother used to watch Teresa Teng punya video macam ni lah. I find
+- **camera over Rafizi's last 3 s:** Wong Chen 3s
+- **watch:** https://youtu.be/hI_cgYwwtqg?t=2098
+- **contact sheet:** `data/_tail_ep33_3506.png` -- yes
+
+
             https://youtu.be/hI_cgYwwtqg?t=2098
 
 0 contested boundary/boundaries across 23 episode(s) -- rule 7's residue, for an ear, not a tool. 44 attested by the camera, 8 settled by an owner decision, 0 camera-blind.
