@@ -232,7 +232,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** I think maybe this one, perhaps.
 
-**Rafizi:** there isn't really one. For me, I lean more toward this one — oh, showing off petrol money to Budin Martopo. Because I don't understand. All this time, what's it called, taking pictures, showing off your feet, right, because it's quite hard to understand how people proudly show off money — showing petrol money, which even if you managed to get it, at the very least you'd understand that it's not really something proper, right? Okay, alright YB, let's popularize Budin Martopo. Congratulations Budin, Ira, Odi.
+**Rafizi:** there isn't really one. For me, I lean more toward this one —
+
+**Haziq:** Oh, showing off petrol money.
+
+**Rafizi:** to Budin Martopo. Because I don't understand. All this time, what's it called, taking pictures, showing off your feet, right, because it's quite hard to understand how people proudly show off money — showing petrol money, which even if you managed to get it, at the very least you'd understand that it's not really something proper, right? Okay, alright YB, let's popularize Budin Martopo. Congratulations Budin, Ira, Odi.
 
 **Haziq:** Ira, Odi, all of them. Okay, life is hard. We have two main issues. We're 37 minutes in — 37 minutes — first is definitely the big one, e-Fishery, Network School, all that. And at the very end we'll talk about the current lifespan of the Madani government. So watch till the end, we'll try.
 
