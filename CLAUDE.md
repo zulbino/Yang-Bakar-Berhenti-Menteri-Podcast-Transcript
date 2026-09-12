@@ -143,6 +143,13 @@ keeps an interjection the speaker responds to; rule 5 keeps any word with lexica
 content). `check_published.py` enforces this: `Speaker N` in raw.md is a
 `placeholder-label` defect, `Speaker ?` is not. See HANSARD_COMPARISON.md.
 
+**What does not count as identification (owner decision 2026-09-12):** a probabilistic vote,
+however good. `voice_witness_poc.py` measured a unanimous three-model voice vote at 97.6% on
+1.6 s windows; that is 1 in 40 wrong, and the owner ruled those turns stay `Speaker ?`, as
+Hansard keeps them. Only a witness measured at 100% on its held-out class (the
+`voice_witness.py --write` bars) may write a label. Re-open this only if a future tool
+measures 100% on short windows, not because a vote got closer.
+
 Run every tool this file lists, more than once if the first pass changes the input to
 the next. If, after that, no tool can settle it, stop guessing and bring it back with
 a **clickable `?t=`-style timestamp link** derived from the caption track (not raw.md's
