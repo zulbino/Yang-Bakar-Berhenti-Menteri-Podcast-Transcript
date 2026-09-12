@@ -62,7 +62,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import common  # noqa: E402
 import listen_links  # noqa: E402
-from fold_hanging_fragments import BLOCK, camera_seconds, secs  # noqa: E402
+from fold_hanging_fragments import (BLOCK, camera_seconds, decision_texts,  # noqa: E402
+                                    secs)
 
 ROOT = Path(__file__).resolve().parent.parent
 MAX_WORDS = 10
@@ -71,6 +72,9 @@ MAX_WORDS = 10
 # whole fragment, so anything meaningfully below 1.0 is a contested boundary, not a quiet
 # interjection.
 ATTESTED_SHARE = 0.75
+# Seconds the PREVIOUS speaker must hold at the edge before the boundary counts as
+# contested. One second is the camera's cut lag; two is a claim on the words.
+MIN_EDGE_SECONDS = 2
 LEAD_IN = 6
 
 
@@ -79,7 +83,7 @@ def cast_share(camera):
     return Counter(camera.values()), total
 
 
-def candidates(blocks, camera):
+def candidates(blocks, camera, decided=()):
     out = []
     for i in range(1, len(blocks)):
         (st, who, said), (_, before, prev_said) = blocks[i], blocks[i - 1]
@@ -96,7 +100,14 @@ def candidates(blocks, camera):
                        if t in camera)
         covered = sum(vote.values())
         # The boundary itself, not the whole turn: the contested words are the first ones.
-        edge = Counter(camera[t] for t in range(secs(st), secs(st) + 3) if t in camera)
+        #
+        # THE BLOCK'S OWN FIRST SECOND IS SKIPPED, and ep63's 1:58:44 is why. The camera
+        # reads `Rafizi 7100-7124s | Haziq 7125-7146s` and Haziq's block is stamped 7124,
+        # so the one Rafizi second at the edge IS the cut second. The show's cut lags
+        # speech by about two seconds (data/speaker_video_confirmed.json's README), so the
+        # frame at a handover still shows the person who just stopped. Counting that second
+        # called a clean handover contested, and the owner said so on reading it.
+        edge = Counter(camera[t] for t in range(secs(st) + 1, secs(st) + 4) if t in camera)
         sandwich = (i + 1 < len(blocks) and blocks[i + 1][1] == before
                     and blocks[i + 1][2][:1].islower())
         # THE VERDICT IS DECIDED AT THE EDGE, not over the whole turn, and that is the
@@ -105,11 +116,22 @@ def candidates(blocks, camera):
         # its window -- overwhelmingly B -- while its first three seconds read
         # `Haziq 2s, Rafizi 1s`. Judging by the window calls that clean; judging by the
         # edge calls it contested, which is what it is.
-        if not edge and not covered:
+        # An owner ruling or confirmation on this turn ends the question. The decision
+        # files are the same ones fold_hanging_fragments.py reads, so a boundary the owner
+        # has already answered stops being escalated -- ep58's 1:21:04 and ep57's 07:27
+        # were both confirmed correct on 2026-09-12 and would otherwise be re-listed every
+        # run.
+        settled = any(d[:40] in said.lower() or said.lower()[:40] in d for d in decided)
+        if settled:
+            verdict = "owner"
+        elif not edge and not covered:
             verdict = "blind"
         elif not edge:
             verdict = "contested" if vote.get(before, 0) else "attested"
-        elif edge.get(who, 0) / sum(edge.values()) >= ATTESTED_SHARE:
+        elif (edge.get(who, 0) / sum(edge.values()) >= ATTESTED_SHARE
+                or edge.get(before, 0) < MIN_EDGE_SECONDS):
+            # One stray second of the previous speaker is the cut, not a claim on the
+            # words. Two or more is a claim, and those are the ones worth an ear.
             verdict = "attested"
         else:
             verdict = "contested"
@@ -131,13 +153,13 @@ def report(tag, links=False):
     camera = camera_seconds(ref)
     shares, total = cast_share(camera)
     blocks = BLOCK.findall(text)
-    found = candidates(blocks, camera)
+    found = candidates(blocks, camera, decision_texts(tag))
     counts = Counter(v for v, *_ in found)
     print(f"\n=== {tag}: {len(blocks)} blocks, camera covers {total}s "
           f"({', '.join(f'{n} {100 * c / total:.0f}%' for n, c in shares.most_common())})")
     print(f"    {counts.get('contested', 0)} contested, {counts.get('attested', 0)} "
-          f"attested by the camera, {counts.get('blind', 0)} camera-blind "
-          f"(fold_hanging_fragments.py's case)")
+          f"attested by the camera, {counts.get('owner', 0)} settled by an owner decision, "
+          f"{counts.get('blind', 0)} camera-blind (fold_hanging_fragments.py's case)")
     if counts.get("contested"):
         vid = listen_links.video_id(Path(raw))
         cues = listen_links.captions(vid) if links else None
@@ -181,7 +203,8 @@ def main():
             totals.update(counts)
     print(f"\n{totals.get('contested', 0)} contested boundary/boundaries across "
           f"{len(tags)} episode(s) -- rule 7's residue, for an ear, not a tool. "
-          f"{totals.get('attested', 0)} attested, {totals.get('blind', 0)} camera-blind.")
+          f"{totals.get('attested', 0)} attested by the camera, {totals.get('owner', 0)} "
+          f"settled by an owner decision, {totals.get('blind', 0)} camera-blind.")
 
 
 if __name__ == "__main__":
