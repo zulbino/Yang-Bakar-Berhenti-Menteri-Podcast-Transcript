@@ -314,6 +314,7 @@ behind this table is 1.11, 1.14, 1.17, 1.23 and 1.25.
 | `raw-unnamed-speaker` | A real person `raw.md` never names, on a role word like `Moderator` or `Audience` that `placeholder-label` misses because it only matches numbered clusters. Split out of `generic-label`, which was blaming the rewrite for 351 turns it had faithfully copied (2.4) | Nothing yet -- but the fix is speaker attribution, not regeneration, so it will not clear from a rewrite batch |
 | `unlabelled-turn` | A published turn with NO speaker label at all, its first sentence bolded where the label belongs. `TURN_RE` requires the colon, so this was invisible to every label check -- and therefore scored BETTER than a generic label, which is how `gate_rewrite.py` came to promote one (2.6) | Nothing yet. Note the CAUSE is upstream: raw.md burying a second speaker inside a named block, which no check finds -- see `cohost_candidates.py`, and note its windowing caveat in 2.6 |
 | `unsourced-figure` (`check_figures.py`) | A figure in the published text with no counterpart in `raw.md` -- a changed digit or a changed scale word, e.g. `8.2 bilion` for raw's `8.2 juta` (1.39) | Figures whose digits are all present but REGROUPED, e.g. raw's `10, RM300` printed as `RM10,300`. Bare years, excluded on purpose |
+| `garbled-agency`, `unsourced-agency` (`check_agencies.py`) | An agency name in any file that nearly matches the web-verified roster in `data/agency_roster.json` (`Kementerian Keuangan` for `Kewangan`), and a roster agency in `interview.md` that `raw.md` cannot source (ep05's `Akta SPRM 2009` for the Judicial Appointments Commission Act) | A garble written in LOWERCASE, e.g. ep42's `Menteri kelihatan` for `Kesihatan` -- the title-case condition is what keeps the output readable. An agency absent from the roster |
 
 Every check above the last two rows reads `raw.md`. **`raw.md` is not what anybody
 publishes.** Until 1.39 nothing read the `interview*.md` files except for existence, a
@@ -1399,3 +1400,43 @@ a token starting with `-` as an unknown option unless `--` marks the end of
 options, so it never bound to `uri` at all. Fixed by moving `vid` after a
 trailing `--`, last in the argument list. Two other episodes share the same
 risk (`-NjVESCWO8w`, `-tpyLr5kwxI`) and are now covered by the same fix.
+
+## `check_agencies.py`: the checker CLAUDE.md rule 2 was missing (2026-09-12)
+
+Rule 2 ("every government agency cited is correct") was written with an explicit gap:
+`check_names.py` cross-checks a person, nothing cross-checked an agency. This is that
+checker. Four defects on its first corpus-wide run, all now fixed in
+`fix_proper_nouns.py`'s reviewed map:
+
+1. `Kementerian Keuangan` / `Menteri Keuangan`, 16 occurrences across ep12, ep17, ep18,
+   ep25, ep28, ep29, ep34, plus ep29's interview.md. `keuangan` is the Indonesian word;
+   Malaysia's ministry is Kementerian Kewangan. ep15 writes both forms in one sentence,
+   which is what proves the ASR did it and not the speaker.
+2. ep09's interview.md and interview-ms.md write `keuangan` where raw.md says `kewangan`
+   correctly -- the rewrite introduced it, published-only.
+3. ep15 `Menteri Kawangan`, ep27 `Jabatan Perkuam Negara` (the Attorney General's
+   Chambers), one occurrence each.
+4. ep05's interview.md and interview-ms.md cite `Seksyen 122B Akta SPRM 2009` in a passage
+   about who appoints the Chief Justice. raw.md never says SPRM. Local ASR heard
+   `Akta JSC 2009`, MAI heard `Akta JAC 209`, and the Judicial Appointments Commission Act
+   2009 (Act 695) is exactly the law for appointing judges, so the rewrite swapped one
+   commission for another. Fixed in all three files.
+
+**The roster is the authority, and the roster can be wrong.** Its first version carried
+`Kementerian Pertanian dan Keselamatan Makanan`, taken from Wikipedia's cabinet table.
+The corpus said `Keterjaminan`, and the ministry's own portal (kpkm.gov.my) says the
+corpus was right. The entry was the defect. Every entry now carries a `source` URL, and
+an agency's own site outranks any third party.
+
+**Two measured limits.** A lowercase garble is invisible: both sides of a comparison must
+be written as a title, because without that condition the first run returned 52 hits and
+30 were an ordinary Malay word after the head word (`kementerian dengan`, 7,220
+occurrences of `dengan` in raw). The known cost is ep35's `Menteri yang kewangan` and
+ep42's `Menteri kelihatan`. And the extension rule is tested against every roster name,
+not the closest one: ep28's `Menteri Pertanian dan` truncates KPKM but scores closer to
+`Menteri Pertahanan`, and checking only the closest match reported Aziz Ishak as Defence
+Minister when he ran Agriculture.
+
+One false positive survives by design, ep16's `Kementerian Kerana` (the conjunction
+`kerana`, capitalised by the ASR). This is a review list, like `check_names.py`, not a
+gate -- 15 hits corpus-wide, small enough to read, and reading them is the point.

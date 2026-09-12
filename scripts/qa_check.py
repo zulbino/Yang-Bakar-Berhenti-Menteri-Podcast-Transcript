@@ -52,6 +52,7 @@ ROOT = Path(__file__).resolve().parent.parent
 import check_published  # published-file signatures; see its docstring
 import check_figures  # published figures vs raw.md; see its docstring
 import check_names  # published person names vs raw.md; see its docstring
+import check_agencies  # agency names in every file vs data/agency_roster.json
 
 EPISODES_DIR = ROOT / "episodes"
 MANIFEST_PATH = ROOT / "data" / "manifest.json"
@@ -708,6 +709,11 @@ def check_episode(ep_dir):
     # person than the transcript did -- ep48's `Fahmi Fadzil`, ep58's `Lim Guan Eng`,
     # ep13's and ep39's invented `... eh,` self-corrections -- and no check saw any of them.
     issues.extend(check_names.check(ep_dir))
+    # And this one reads the AGENCIES, CLAUDE.md rule 2, which had no checker until
+    # 2026-09-12. Its first run found 16 `Kementerian Keuangan` (the Indonesian spelling
+    # of the Malaysian ministry) and ep05's `Akta SPRM 2009`, a passage about appointing
+    # the Chief Justice citing the anti-corruption commission's act.
+    issues.extend(check_agencies.check(ep_dir))
 
     return issues, models
 
