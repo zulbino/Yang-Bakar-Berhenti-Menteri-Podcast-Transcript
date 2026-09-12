@@ -1,84 +1,104 @@
 {
-  "_what": "Labels the owner has ruled on that the camera reference disagrees with. scripts/mai_camera_raw.py applies these AFTER the camera pass and the gold-passage splice, locating each turn by its words (scripts/lib_locate.py), and refuses to write if a text cannot be found or matches more than three blocks.",
-  "_why_it_exists": "The camera is the best speaker evidence in this repo, but it is not the owner. When a recorded owner decision and the camera disagree, the owner decides, and their ruling has to survive every future rebuild -- an owner decision that lives only in a commit message gets destroyed later. See data/speaker_adjudications.json, ep61_farhan_restore.",
-  "ep61": [
-    {
-      "text": "Aku berpandangan lain sikitlah",
-      "who": "Rafizi",
-      "at": "05:05",
-      "why": "OWNER RULING 2026-09-10: keep Rafizi. Recorded in data/speaker_q_video_confirmed.json at stamp 04:46, where the frame is Rafizi; these words sit 19 s later at 05:05, where the camera shows Haziq. The owner was shown both and chose the recorded label."
-    },
-    {
-      "text": "Aku kalau minum air lagi mengantuk",
-      "who": "Rafizi",
-      "at": "07:08",
-      "why": "OWNER RULING 2026-09-10: keep Rafizi. Recorded at stamp 06:52, frame Rafizi; the words are at 07:08, where the camera shows Haziq. Same drift, same ruling. The following block, 'Air kosong lah.', is left as the camera has it -- no owner decision covers it, and a ruling is not extended by inference."
-    }
-  ],
-  "ep53": [
-    {
-      "text": "Okey. Baik, YB.",
-      "who": "Haziq",
-      "at": "30:00",
-      "why": "OWNER RULING, recorded in data/speaker_adjudications.json as ep53_round2@29:59: the owner split the moment by ear into 'Okey, baik, YB.' = Haziq and 'Beria,' = Rafizi. MAI cuts it differently -- 'Hmm. Okey.' at 29:58 and 'Baik, YB.' at 30:00 -- and the camera gives both to Rafizi, because the mixer is already on him for the answer. THE ANCHOR HAS TO BE THREE TOKENS (lib_locate's MIN_TOKENS), and 'Baik, YB.' is two, so it spans both blocks and carries 'Hmm.' along with it. That is accepted rather than worked around: the owner's own text starts at 'Okey', so 'Okey.' is theirs by the ruling, and the whole thing then reads as one acknowledgement -- 'Hmm. Okey. Baik, YB.' -- which is exactly the utterance they transcribed. 'Beria, beria...' stays Rafizi, as ruled."
-    },
-    {
-      "text": "Dah meletup pun. Haah. Okey YB?",
-      "who": "Haziq",
-      "at": "2:05:33",
-      "why": "OWNER RULING, recorded as ep53_round2@2:05:29, where the owner read 'Baik Dah meletup pun Dah meletup pun Okay YB' as one Haziq turn. The candidate already has Haziq's 'Baik.', 'Dah meletup oh YB.' and 'Hmm hmm. Dah meletup pun. Haah.' right, plus Rafizi's 'So kita ada berapa minit lagi?' and the 'Multiple speakers' tail. Only 'Okey YB?' is wrong, and at two tokens it cannot be anchored alone, so the anchor reaches back into the preceding block -- which is ALREADY Haziq, so force_labels skips it and this changes exactly one block."
-    }
-  ],
-  "ep57": [
-    {
-      "text": "Tapi jadi kita start terus, YB.",
-      "who": "Haziq",
-      "at": "02:43",
-      "why": "OWNER RULING BY EAR 2026-09-11, recorded in speaker_adjudications.json as ep57_yb_ear_2026_09_11. The camera gave this turn to Rafizi because the mixer cuts to whoever is about to answer; the owner confirmed it is Haziq. Continues Haziq's own proposal to shorten Beria at 02:34."
-    },
-    {
-      "text": "Okey, baik. Selesai YB.",
-      "who": "Haziq",
-      "at": "10:26",
-      "why": "OWNER RULING BY EAR 2026-09-11, recorded in speaker_adjudications.json as ep57_yb_ear_2026_09_11. The camera gave this turn to Rafizi because the mixer cuts to whoever is about to answer; the owner confirmed it is Haziq. Haziq closing the Beria segment, which he times at 10:28."
-    },
-    {
-      "text": "RCI Tabung Haji yang baru-baru ni lah YB",
-      "who": "Haziq",
-      "at": "10:40",
-      "why": "OWNER RULING BY EAR 2026-09-11, recorded in speaker_adjudications.json as ep57_yb_ear_2026_09_11. The camera gave this turn to Rafizi because the mixer cuts to whoever is about to answer; the owner confirmed it is Haziq. Haziq introducing the next topic. The owner also corrected the words; `barbarunilah` is in fix_proper_nouns.py, and `Tabung` sits at the end of the 10:28 block, so a rebuild rejoins it once both are Haziq."
-    },
-    {
-      "text": "Itu kau ambil gambar umur aku berapa tu",
-      "who": "Rafizi",
-      "at": "10:42",
-      "why": "OWNER RULING BY EAR 2026-09-11. NOT a YB turn -- found by reading the region. The beard is Rafizi's: at 10:51 he explains his own went white. The camera and the old raw both had Haziq."
-    },
-    {
-      "text": "Ini lama ni YB.",
-      "who": "Haziq",
-      "at": "10:46",
-      "why": "OWNER RULING BY EAR 2026-09-11, recorded in speaker_adjudications.json as ep57_yb_ear_2026_09_11. The camera gave this turn to Rafizi because the mixer cuts to whoever is about to answer; the owner confirmed it is Haziq. A comment on Rafizi's old photo, addressed to him."
-    },
-    {
-      "text": "Aku tak boleh ada janggut sebab",
-      "who": "Rafizi",
-      "at": "10:49",
-      "why": "OWNER RULING BY EAR 2026-09-11. NOT a YB turn. Runs straight into his own 10:51 continuation about his beard going white."
-    },
-    {
-      "text": "IRL YB, demi demi IRL.",
-      "who": "Haziq",
-      "at": "3:29:29",
-      "why": "OWNER RULING BY EAR 2026-09-11: this moment is a SPLIT. Rafizi says 'Gotong-royong pun aku kena pergi juga eh.' and Haziq says 'IRL YB, demi demi IRL.' Only the Haziq half is forced; the Rafizi half already matches. A forced label cannot split a block, so a rebuild that fuses them will need the split reapplied -- the owner's ruling is in speaker_adjudications.json."
-    }
-  ],
-  "ep56": [
-    {
-      "text": "Tapi lama sangat YB.",
-      "who": "Haziq",
-      "at": "11:35",
-      "why": "OWNER RULING BY EAR 2026-09-11: a SPLIT. Rafizi recites 'Kalau lompat parti, kosongkan, maka jatuh talak.' and Haziq answers 'Tapi lama sangat YB.', which his own 'Saya macam dah tak boleh' at 11:37 follows from. Only the Haziq half is forced. Same caveat: a rebuild that fuses the block needs the split again."
-    }
-  ]
+ "_what": "Labels the owner has ruled on that the camera reference disagrees with. scripts/mai_camera_raw.py applies these AFTER the camera pass and the gold-passage splice, locating each turn by its words (scripts/lib_locate.py), and refuses to write if a text cannot be found or matches more than three blocks.",
+ "_why_it_exists": "The camera is the best speaker evidence in this repo, but it is not the owner. When a recorded owner decision and the camera disagree, the owner decides, and their ruling has to survive every future rebuild -- an owner decision that lives only in a commit message gets destroyed later. See data/speaker_adjudications.json, ep61_farhan_restore.",
+ "ep61": [
+  {
+   "text": "Aku berpandangan lain sikitlah",
+   "who": "Rafizi",
+   "at": "05:05",
+   "why": "OWNER RULING 2026-09-10: keep Rafizi. Recorded in data/speaker_q_video_confirmed.json at stamp 04:46, where the frame is Rafizi; these words sit 19 s later at 05:05, where the camera shows Haziq. The owner was shown both and chose the recorded label."
+  },
+  {
+   "text": "Aku kalau minum air lagi mengantuk",
+   "who": "Rafizi",
+   "at": "07:08",
+   "why": "OWNER RULING 2026-09-10: keep Rafizi. Recorded at stamp 06:52, frame Rafizi; the words are at 07:08, where the camera shows Haziq. Same drift, same ruling. The following block, 'Air kosong lah.', is left as the camera has it -- no owner decision covers it, and a ruling is not extended by inference."
+  }
+ ],
+ "ep53": [
+  {
+   "text": "Okey. Baik, YB.",
+   "who": "Haziq",
+   "at": "30:00",
+   "why": "OWNER RULING, recorded in data/speaker_adjudications.json as ep53_round2@29:59: the owner split the moment by ear into 'Okey, baik, YB.' = Haziq and 'Beria,' = Rafizi. MAI cuts it differently -- 'Hmm. Okey.' at 29:58 and 'Baik, YB.' at 30:00 -- and the camera gives both to Rafizi, because the mixer is already on him for the answer. THE ANCHOR HAS TO BE THREE TOKENS (lib_locate's MIN_TOKENS), and 'Baik, YB.' is two, so it spans both blocks and carries 'Hmm.' along with it. That is accepted rather than worked around: the owner's own text starts at 'Okey', so 'Okey.' is theirs by the ruling, and the whole thing then reads as one acknowledgement -- 'Hmm. Okey. Baik, YB.' -- which is exactly the utterance they transcribed. 'Beria, beria...' stays Rafizi, as ruled."
+  },
+  {
+   "text": "Dah meletup pun. Haah. Okey YB?",
+   "who": "Haziq",
+   "at": "2:05:33",
+   "why": "OWNER RULING, recorded as ep53_round2@2:05:29, where the owner read 'Baik Dah meletup pun Dah meletup pun Okay YB' as one Haziq turn. The candidate already has Haziq's 'Baik.', 'Dah meletup oh YB.' and 'Hmm hmm. Dah meletup pun. Haah.' right, plus Rafizi's 'So kita ada berapa minit lagi?' and the 'Multiple speakers' tail. Only 'Okey YB?' is wrong, and at two tokens it cannot be anchored alone, so the anchor reaches back into the preceding block -- which is ALREADY Haziq, so force_labels skips it and this changes exactly one block."
+  },
+  {
+   "text": "Human resource lah",
+   "who": "Farhan (Pa'an)",
+   "at": "2:19:18",
+   "why": "OWNER RULING (ep53_round2@2:19:13): 'Okay Okay Human resource lah' is Farhan (Pa'an). The camera cut had this as Multiple speakers; the owner's ear separated it. The next turn 'Tak ada.' stays Multiple speakers, which the owner also ruled ('Takde' is Multiple speakers)."
+  },
+  {
+   "text": "Okey eh, okey",
+   "who": "Farhan (Pa'an)",
+   "at": "2:19:14",
+   "why": "OWNER RULING (speaker_adjudications.json ep53_round2@2:19:13): Farhan says 'Okay Okay Human resource lah'. MAI fused 'Okey eh, okey' into the previous turn 'Itu jelah kot.', so this rule splits that turn at these words and gives them to Farhan; 'Itu jelah kot.' keeps the ruling below.",
+   "split_at_words": true
+  },
+  {
+   "text": "Itu jelah kot",
+   "who": "Haziq",
+   "at": "2:19:14",
+   "why": "OWNER RULING (ep53_round2@2:19:13): 'Itu je lah kot' is Haziq; MAI spells it 'jelah'. Camera shows Rafizi for the whole second."
+  }
+ ],
+ "ep57": [
+  {
+   "text": "Tapi jadi kita start terus, YB.",
+   "who": "Haziq",
+   "at": "02:43",
+   "why": "OWNER RULING BY EAR 2026-09-11, recorded in speaker_adjudications.json as ep57_yb_ear_2026_09_11. The camera gave this turn to Rafizi because the mixer cuts to whoever is about to answer; the owner confirmed it is Haziq. Continues Haziq's own proposal to shorten Beria at 02:34."
+  },
+  {
+   "text": "Okey, baik. Selesai YB.",
+   "who": "Haziq",
+   "at": "10:26",
+   "why": "OWNER RULING BY EAR 2026-09-11, recorded in speaker_adjudications.json as ep57_yb_ear_2026_09_11. The camera gave this turn to Rafizi because the mixer cuts to whoever is about to answer; the owner confirmed it is Haziq. Haziq closing the Beria segment, which he times at 10:28."
+  },
+  {
+   "text": "RCI Tabung Haji yang baru-baru ni lah YB",
+   "who": "Haziq",
+   "at": "10:40",
+   "why": "OWNER RULING BY EAR 2026-09-11, recorded in speaker_adjudications.json as ep57_yb_ear_2026_09_11. The camera gave this turn to Rafizi because the mixer cuts to whoever is about to answer; the owner confirmed it is Haziq. Haziq introducing the next topic. The owner also corrected the words; `barbarunilah` is in fix_proper_nouns.py, and `Tabung` sits at the end of the 10:28 block, so a rebuild rejoins it once both are Haziq."
+  },
+  {
+   "text": "Itu kau ambil gambar umur aku berapa tu",
+   "who": "Rafizi",
+   "at": "10:42",
+   "why": "OWNER RULING BY EAR 2026-09-11. NOT a YB turn -- found by reading the region. The beard is Rafizi's: at 10:51 he explains his own went white. The camera and the old raw both had Haziq."
+  },
+  {
+   "text": "Ini lama ni YB.",
+   "who": "Haziq",
+   "at": "10:46",
+   "why": "OWNER RULING BY EAR 2026-09-11, recorded in speaker_adjudications.json as ep57_yb_ear_2026_09_11. The camera gave this turn to Rafizi because the mixer cuts to whoever is about to answer; the owner confirmed it is Haziq. A comment on Rafizi's old photo, addressed to him."
+  },
+  {
+   "text": "Aku tak boleh ada janggut sebab",
+   "who": "Rafizi",
+   "at": "10:49",
+   "why": "OWNER RULING BY EAR 2026-09-11. NOT a YB turn. Runs straight into his own 10:51 continuation about his beard going white."
+  },
+  {
+   "text": "IRL YB, demi demi IRL.",
+   "who": "Haziq",
+   "at": "3:29:29",
+   "why": "OWNER RULING BY EAR 2026-09-11: this moment is a SPLIT. Rafizi says 'Gotong-royong pun aku kena pergi juga eh.' and Haziq says 'IRL YB, demi demi IRL.' Only the Haziq half is forced; the Rafizi half already matches. A forced label cannot split a block, so a rebuild that fuses them will need the split reapplied -- the owner's ruling is in speaker_adjudications.json."
+  }
+ ],
+ "ep56": [
+  {
+   "text": "Tapi lama sangat YB.",
+   "who": "Haziq",
+   "at": "11:35",
+   "why": "OWNER RULING BY EAR 2026-09-11: a SPLIT. Rafizi recites 'Kalau lompat parti, kosongkan, maka jatuh talak.' and Haziq answers 'Tapi lama sangat YB.', which his own 'Saya macam dah tak boleh' at 11:37 follows from. Only the Haziq half is forced. Same caveat: a rebuild that fuses the block needs the split again."
+  }
+ ],
+ "_split_at_words": "Optional on a rule: true means the block is CUT at the rule's literal words before relabelling, so a ruling can land on part of a MAI turn that fused two speakers (ep53 2:19:14). The words and what follows them in that turn go to `who`; what precedes keeps its label; both halves keep the stamp."
 }
