@@ -11,3 +11,15 @@ Each link opens 5 s before the Farhan block. Times are MAI's word clock.
 | 1 | [1:17:21](https://www.youtube.com/watch?v=0fkxxzr9w1Y&t=4636s) | Rafizi | Farhan (Pa'an) | ...nampak macam a | moment of kita boleh katakan in a way I told you so lah. |
 | 2 | [1:17:30](https://www.youtube.com/watch?v=0fkxxzr9w1Y&t=4645s) | Rafizi | Farhan (Pa'an) | ...Secondly also dengan GE 16 | coming very soon. |
 | 3 | [2:24:15](https://www.youtube.com/watch?v=0fkxxzr9w1Y&t=8650s) | Rafizi | Farhan (Pa'an) | ...because so | apa that protectionism policy tu sangat kuat, kira kita pun tak ada in |
+
+## A digit the rewrite corrected by arithmetic
+
+raw.md (MAI) at [38:04] Rafizi reads "turunkan lagi 6 sen daripada RM2.05 kepada RM1.09".
+2.05 minus 0.06 is 1.99, and the Sonnet rewrite printed RM1.99, so `check_figures.py` flags
+it as a figure raw.md cannot account for. Either MAI misheard "1.99" or the speaker misspoke.
+Hansard leaves a speaker's own slip as spoken; an ASR mishearing is ours to fix. Not changed:
+a guessed digit never passes without an ear.
+
+| link | raw.md | published |
+|---|---|---|
+| [38:04](https://www.youtube.com/watch?v=0fkxxzr9w1Y&t=2281s) | RM1.09 | RM1.99 |
