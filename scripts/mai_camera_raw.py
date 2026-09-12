@@ -213,9 +213,11 @@ def force_labels(lines, tag):
     rules = json.loads(path.read_text(encoding="utf-8")).get(tag, []) if path.exists() else []
     if not rules:
         return lines, "none recorded for this episode"
-    doc = Doc("\n\n".join(lines))
     forced = 0
     for r in rules:
+        # Rebuilt per rule: a split changes the block list, and a later rule that located
+        # against the old document would write the whole fused turn back (ep53 2:19:14).
+        doc = Doc("\n\n".join(lines))
         found = doc.locate(r["text"], near=secs(r["at"]) if r.get("at") else None)
         if not found:
             sys.exit(f"REFUSING: owner ruling not locatable in the candidate: {r['text']!r}")
@@ -227,11 +229,27 @@ def force_labels(lines, tag):
                   "the stamp picked this one")
         for i in found["blocks"]:
             stamp, label, body = doc.blocks[i]
+            if r.get("split_at_words") and r["text"] in body and body.strip() != r["text"]:
+                # MAI fused the owner's turn with its neighbour ("Itu jelah kot. Okey eh,
+                # okey."). Cut at the literal words so the ruling lands on them alone; the
+                # remainder keeps the label it had, and both halves keep the stamp.
+                head, tail = body.split(r["text"], 1)
+                # Everything before the words keeps its label; the words and what follows
+                # them in the same turn go to the owner's speaker.
+                pieces = [p for p in ((label, head.strip()), (r["who"], (r["text"] + tail).strip())) if p[1]]
+                print(f"  owner ruling (split): [{stamp}] {label}: {body[:60]} -> "
+                      + " / ".join(f"{w}: {b[:30]}" for w, b in pieces))
+                lines[i] = "\n\n".join(f"[{stamp}] {w}: {b}" for w, b in pieces)
+                lines = [b for l in lines for b in l.split("\n\n")]
+                forced += 1
+                break          # block indices moved; the next rule re-locates on the new document
             if label == r["who"]:
                 continue
             print(f"  owner ruling: {label} -> {r['who']} at [{stamp}] {body[:60]}")
             lines[i] = f"[{stamp}] {r['who']}: {body}"
             forced += 1
+    # A split writes two blocks into one line slot; re-split so every later step sees blocks.
+    lines = [b for l in lines for b in l.split("\n\n")]
     return lines, f"{forced} blocks set from data/forced_labels.json"
 
 

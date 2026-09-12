@@ -89,8 +89,22 @@ def main():
     def current_block(stamp):
         return [(w, t) for st, w, t in cur if secs(st) == secs(stamp)]
 
-    def candidate_labels(snippet):
-        return sorted({short(w) for _, w, t in cand if snippet in t})
+    def candidate_labels(snippet, at=None):
+        # A block's span runs from its stamp to the next block's stamp: after the merge a
+        # Rafizi block stamped 2:18:42 can hold words spoken at 2:19:13.
+        spans = [(secs(st), secs(cand[i + 1][0]) if i + 1 < len(cand) else secs(st) + 60, w)
+                 for i, (st, w, t) in enumerate(cand) if snippet in t]
+        # A two-word snippet ("Human resource") can sit in two blocks five seconds apart
+        # with different names; the owner's stamp says which one they meant. A stamp inside
+        # a block's span is distance 0; otherwise the distance to its nearer edge. Only when
+        # the stamp does not separate them does the ambiguity stand.
+        if at is not None and len({w for _, _, w in spans}) > 1:
+            close = [(0 if a <= at < b else min(abs(a - at), abs(b - at)), w) for a, b, w in spans]
+            close = [(d, w) for d, w in close if d <= 15]
+            if close:
+                best = min(d for d, _ in close)
+                spans = [(0, 0, w) for d, w in close if d <= best + 2]
+        return sorted({short(w) for _, _, w in spans})
 
     checks = []   # (source, owner's label, snippet of the turn's text)
     for name in DECISION_FILES:
@@ -144,15 +158,23 @@ def main():
             missing += 1
             print(f"  cannot locate ({src}): no usable text for the turn the owner named {who}")
             continue
-        if candidate_labels(snip) == [want]:
+        if candidate_labels(snip, at) == [want]:
             ok += 1
             continue
         # A decision recorded before strip_inline_fillers.py ran can carry a filler the
         # file no longer has -- ep62's 35:43 was recorded as "Um. Tan Sri". Match without it.
         found = doc.locate(INLINE.sub(" ", snip), near=at)
         if not found:
-            exact = candidate_labels(snip)
-            if exact:
+            exact = candidate_labels(snip, at)
+            if exact and want in exact:
+                # Two adjacent blocks both contain the two-word snippet (ep53 2:19: "Human
+                # resource." then "Human resource lah.") and the owner's name is on one of
+                # them. The locator cannot separate a snippet this short; the stamp already
+                # tried. Kept, and said so, rather than called a disagreement.
+                partial += 1
+                print(f"  AMBIGUOUS, kept ({src}): owner says {who}; the words sit in blocks "
+                      f"labelled {exact}, one of them {who} | {snip}")
+            elif exact:
                 bad += 1
                 print(f"  MISMATCH ({src}): owner says {who}, candidate has {exact} | {snip}")
             else:

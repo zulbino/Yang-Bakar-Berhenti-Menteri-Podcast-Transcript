@@ -92,9 +92,13 @@ def decision_texts(tag):
                 for key in ("text", "text_now", "text_was", "text_was_startswith"):
                     if r.get(key):
                         out.append(r[key].lower())
-                for part in r.get("split", []):
+                for part in (r.get("split") if isinstance(r.get("split"), list) else []):
                     if len(part) > 1 and part[1]:
-                        out.append(part[1].lower())
+                        # ep53 records one split text as ["Human resource", 1]: the text
+                        # plus which occurrence the owner meant. Same shape the gate handles.
+                        snip = part[1][0] if isinstance(part[1], (list, tuple)) else part[1]
+                        if snip:
+                            out.append(snip.lower())
     return out
 
 
