@@ -90,6 +90,14 @@ CORRECTIONS = [
      "Web-verified: X @sumdekjoe, published academically as Dek Joe Sum (ANU/AMRO/SSRN). "
      "ep60's raw.md spells it without the final e throughout; ep63's own YouTube "
      "description already has it right."),
+    # Same guest, two more ASR hearings: MAI wrote "Sam D. Jo" in ep63's host intro, the
+    # local ASR wrote "Sam Dek Jo" in ep52's published files. Anchored on the full name.
+    (r"\bSam D\. Jo\b",
+     "Sum Dek Joe",
+     "Same web-verified guest as the entry above; ep63 raw.md [00:49]."),
+    (r"\bSam Dek Jo\b",
+     "Sum Dek Joe",
+     "Same web-verified guest as the entry above; ep52 interview*.md."),
     # --- ep62's FELDA chairman succession. The episode walks all five in order, and the
     # ASR garbled every one of them. Owner-confirmed, and each verified externally.
     (r"\bTansi\b",

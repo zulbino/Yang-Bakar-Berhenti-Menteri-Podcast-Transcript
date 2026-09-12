@@ -14,7 +14,11 @@ THREE RULES, in this order, for who a word belongs to:
   1. A short turn keeps MAI's label. The show does not cut to a grunt, so a "Hmm." or a
      "Betul." spoken over the main speaker sits under the main speaker's face; the camera
      is wrong about it by construction and MAI's own voice clustering is the better guess.
-     SHORT_TURN_WORDS is the line.
+     SHORT_TURN_WORDS is the line. EXCEPTION: when the fallback label is a generic
+     placeholder (Speaker N / Speaker ?), there is no voice identity to protect -- that is
+     a collapsed pyannote cluster from an episode transcribed --no-diarization -- and the
+     camera's read wins even for a short turn. Every new premiere hits this case
+     (HANDOFF_2026-09-12.md section 3).
   2. Otherwise the camera's speaker at that word's time, where the camera sees one.
   3. Otherwise MAI's label for the turn (taken from the merged sandbox file, which already
      carries the Farhan corrections the owner confirmed on video).
@@ -70,6 +74,9 @@ from split_mixed_blocks import BLOCK_RE, fmt, secs, smooth, snap_to_sentences  #
 
 ROOT = Path(__file__).resolve().parent.parent
 SHORT_TURN_WORDS = 3
+GENERIC = re.compile(r"^Speaker\s*(\d+|\?)$")   # a placeholder, not a person
+DIAR_PURITY = 0.90      # a pyannote cluster is named only if the camera agrees this often
+DIAR_MIN_COVERED = 60   # ... over at least this many camera-covered seconds
 GOLD_PAD = 60
 MAX_FORCED_BLOCKS = 3          # a block starting just before the region can carry its first words
 SEAM_WORDS = 8
@@ -126,6 +133,35 @@ def camera_per_second(rttm):
         for t in range(int(a), int(a + dur)):
             out[t] = who
     return out
+
+
+def diar_per_second(path, camera):
+    """{second: name} from a pyannote run, for the clusters the camera can vouch for.
+
+    CLAUDE.md rule 4: pyannote is the LAST fallback, only where neither MAI nor the camera
+    covers a moment. A cluster gets a name only when DIAR_PURITY of its camera-covered
+    seconds carry one name over at least DIAR_MIN_COVERED seconds; every other cluster
+    stays anonymous. On ep63 that names two of eleven clusters (Rafizi 98.9%, the guest
+    96.0%) and refuses Haziq's at 79%."""
+    by_cluster = {}
+    for a, b, sp in json.loads(Path(path).read_text(encoding="utf-8")):
+        for t in range(int(a), int(b) + 1):
+            by_cluster.setdefault(sp, set()).add(t)
+    names, report = {}, {}
+    for sp, secs_ in by_cluster.items():
+        seen = Counter(camera[t] for t in secs_ if t in camera)
+        covered = sum(seen.values())
+        top, n = seen.most_common(1)[0] if seen else ("-", 0)
+        ok = covered >= DIAR_MIN_COVERED and n / covered >= DIAR_PURITY
+        report[sp] = f"{top} {n / covered:.1%} of {covered}s" + ("" if ok else " (refused)") if covered else "no camera overlap (refused)"
+        if ok:
+            names[sp] = top
+    out = {}
+    for sp, secs_ in by_cluster.items():
+        if sp in names:
+            for t in secs_:
+                out.setdefault(t, names[sp])
+    return out, report
 
 
 def gold_region(vid):
@@ -208,6 +244,9 @@ def main():
                     "were recorded against. AFTER A SWAP THIS IS REQUIRED: the episode's "
                     "raw.md is then this tool's own previous output, and reading it back "
                     "feeds the fallback labels and the gold splice their own answer.")
+    ap.add_argument("--diar", help="pyannote JSON [[start, end, cluster], ...] used as the last "
+                    "fallback for words neither the camera nor a named MAI label covers "
+                    "(default data/diar_<vid>_t055.json when it exists; --diar none to skip)")
     ap.add_argument("--no-gold-splice", action="store_true",
                     help="do not carve the owner-dictated passage in from the current raw.md")
     a = ap.parse_args()
@@ -218,6 +257,8 @@ def main():
     tag = a.tag.partition(":")[0]
     sandbox = ROOT / "data" / f"_mai_{vid}"
     camera = camera_per_second(a.reference or ROOT / "data" / f"camera_ref_{tag}.rttm")
+    diar_path = Path(a.diar) if a.diar and a.diar != "none" else ROOT / "data" / f"diar_{vid}_t055.json"
+    diar, diar_report = ({}, {}) if a.diar == "none" or not diar_path.exists() else diar_per_second(diar_path, camera)
     episode_raw = Path(a.current) if a.current else (
         ROOT / "episodes" / common.episode_path(episode) / "raw.md")
     # Fallback labels: MAI's own (merged file first, it carries the video-confirmed Farhan
@@ -238,20 +279,51 @@ def main():
 
     turns = mai_turns(vid)
     rule_words = Counter()
+    disputed = []          # short turns where a named voice cluster and the camera disagree
     moved = Counter()
     cut_turns = 0
     runs_out = []
     for turn in turns:
         own = mai_label(turn["w"][0].t)
         if len(turn["w"]) <= SHORT_TURN_WORDS:
-            rule_words["short turn, MAI label"] += len(turn["w"])
+            # Rule 1 protects a real short interjection from the on-screen face, but only
+            # when the fallback names a real person. A generic placeholder (Speaker N,
+            # Speaker ?) is a collapsed old diarization with no identity to protect, so
+            # the camera's read at those seconds is the better evidence (ep63, 05:51
+            # "Cuma," -- camera read Rafizi, the fallback said Speaker 2).
+            seen = Counter(camera[int(w.t)] for w in turn["w"] if int(w.t) in camera)
+            heard = Counter(diar[int(w.t)] for w in turn["w"] if int(w.t) in diar)
+            # Voice before face for a short turn, for the same reason rule 1 exists: the
+            # show does not cut to an aside, so the camera shows the listener. On ep63 the
+            # two disagreed on 46 short turns and the voice said Rafizi in 40 of them.
+            if GENERIC.match(own) and heard:
+                own = heard.most_common(1)[0][0]
+                rule_words["short turn, pyannote cluster (generic fallback)"] += len(turn["w"])
+                if seen and seen.most_common(1)[0][0] != own:
+                    disputed.append((turn["w"][0].t, own, seen.most_common(1)[0][0], " ".join(turn["w"])))
+            elif GENERIC.match(own) and seen:
+                own = seen.most_common(1)[0][0]
+                rule_words["short turn, camera (generic fallback)"] += len(turn["w"])
+            else:
+                rule_words["short turn, MAI label"] += len(turn["w"])
             runs_out.append({"n": own, "w": list(turn["w"]), "t0": turn["w"][0].t, "t1": turn["w"][-1].t})
             continue
         runs = []
+        # Same exception as rule 1: a word the camera does not cover falls back to MAI's
+        # label, unless that label is a generic placeholder and the camera did see the
+        # rest of this turn -- then the turn's own camera majority is the better guess.
+        seen = Counter(camera[int(w.t)] for w in turn["w"] if int(w.t) in camera)
+        heard = Counter(diar[int(w.t)] for w in turn["w"] if int(w.t) in diar)
+        if GENERIC.match(own) and seen:
+            fill, fill_rule = seen.most_common(1)[0][0], "uncovered, turn's camera majority (generic fallback)"
+        elif GENERIC.match(own) and heard:
+            fill, fill_rule = heard.most_common(1)[0][0], "uncovered, pyannote cluster (generic fallback)"
+        else:
+            fill, fill_rule = own, "uncovered, MAI label"
         for w in turn["w"]:
             who = camera.get(int(w.t))
-            rule_words["camera" if who else "uncovered, MAI label"] += 1
-            who = who or own
+            rule_words["camera" if who else fill_rule] += 1
+            who = who or fill
             if runs and runs[-1]["n"] == who:
                 runs[-1]["w"].append(w)
                 runs[-1]["t1"] = w.t
@@ -321,6 +393,13 @@ def main():
     print(f"{len(turns)} MAI turns -> {len(runs_out)} blocks, {total} words, "
           f"{cut_turns} turns cut by the camera")
     print("words labelled by rule:", dict(rule_words))
+    if diar_report:
+        print("pyannote clusters vs camera:", diar_report)
+    if disputed:
+        print(f"short turns where the voice cluster (kept) and the camera disagree: {len(disputed)} "
+              f"-- CLAUDE.md rule 8 residue, list them for the owner with ?t= links")
+        for t, v, c, txt in disputed:
+            print(f"  {fmt(t)} voice={v} camera={c}: {txt}")
     print("words per speaker:", {k: f"{v} ({v/total:.1%})" for k, v in words_by.most_common()})
     print("words moved off MAI's label:", {f"{a}->{b}": n for (a, b), n in moved.most_common()})
     print("name corrections applied:", dict(corrections))

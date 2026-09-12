@@ -603,6 +603,40 @@ label, uncovered words fall back to it. It changes the words, so `verify_words_u
 does not apply -- the guard is that the output's word sequence equals MAI's, and the file is
 read before it is adopted. ep62 is the first episode written this way.
 
+**The fallback is trusted only when it names a person (2026-09-12).** A new premiere is
+transcribed `--no-diarization` (the Azure timeout, "the third limit" below), so MAI has no
+voice cluster of its own and the fallback is the episode's current raw.md -- for a brand-new
+episode, a collapsed pyannote run with only `Speaker 1`/`Speaker 2`. ep63 shipped with 24% of
+its words on those placeholders even though the camera read Rafizi at the exact seconds
+(HANDOFF_2026-09-12.md section 3, the `[05:51] Cuma,` case). Three changes, all gated on the
+fallback label matching `GENERIC` (`Speaker N` / `Speaker ?`), so an episode whose MAI turns
+carry real names behaves exactly as before:
+
+1. A short turn takes the camera's majority over its own words when the fallback is generic.
+   Rule 1 protects a real short interjection from the on-screen face; a placeholder has no
+   identity to protect.
+2. A word the camera does not cover takes the camera majority of ITS OWN TURN when the
+   fallback is generic and the camera saw the rest of the turn.
+3. Where the camera saw none of the turn, `data/diar_<vid>_t055.json` (the nightly pyannote
+   run) is the last fallback, CLAUDE.md rule 4's order -- but a cluster gets a name only if
+   `DIAR_PURITY` (90%) of its camera-covered seconds carry one name over `DIAR_MIN_COVERED`
+   (60 s). On ep63 that named 2 of 11 clusters (Rafizi 98.3% of 7,879 s; Sum Dek Joe 90.0% of
+   983 s) and refused the rest, including Haziq's at 69%. The map is printed on every run.
+
+ep63 after the three: 23,938 words, generic labels 24% -> 1.9%. The remaining 434 words are the
+honest residue -- turns the camera never saw, in clusters the camera cannot vouch for.
+
+The same episode also had an unenrolled guest. Its camera reference passed
+`check_camera_reference.py` because the check compares the reference against raw.md's own
+word shares, and raw.md had been BUILT from that reference -- circular. Haziq's "daripada
+perspektif Jo" in the text was the signal; the gallery was rebuilt by reusing Sum Dek Joe's
+30 face vectors from ep60's per-episode gallery (same guest, no bijection needed), and the
+reference went from 2 speakers / 8,175 s to 3 speakers / 9,191 s, with unknown-face talking
+time falling from the whole guest to 5 s. The gate's blind spot: an adopted raw.md can no
+longer disagree with the reference it came from, so for adopted episodes the check has to be
+run against the PRE-adoption raw (`data/_ep63_raw_before_adopt.md` here) or against the MAI
+turn count for a label the gallery lacks.
+
 Two guards came with it. A chunk file is reused only if its duration matches the plan --
 chunk files are named by index and start, and a 30-minute plan once picked up a 15-minute
 `chunk00` left by an earlier run, dropping 900-1800 s of ep61 without any check noticing. And

@@ -291,12 +291,15 @@ def supported(fig_digits, fig_value, has_scale, toks, values):
     return any(_concat_match(fig_digits, toks, i) for i in range(len(toks)))
 
 
-def check(ep_dir):
+def unsourced(ep_dir):
+    """{figure as printed: {derived files that print it}} for every published figure raw.md
+    cannot account for. gate_rewrite.py scores this too, so a candidate written from the
+    current raw.md can beat an incumbent written from a raw.md that no longer exists."""
     raw_path = ep_dir / "raw.md"
     if not raw_path.exists():
-        return []
+        return {}
     toks, values = raw_evidence(strip_frontmatter(raw_path.read_text(encoding="utf-8")))
-    unmatched, issues = {}, []
+    unmatched = {}
     for name in DERIVED:
         path = ep_dir / name
         if not path.exists():
@@ -307,6 +310,13 @@ def check(ep_dir):
             for shown, d, val, has_scale in figures(body):
                 if not supported(d, val, has_scale, toks, values):
                     unmatched.setdefault(shown, set()).add(name)
+    return unmatched
+
+
+def check(ep_dir):
+    if not (ep_dir / "raw.md").exists():
+        return []
+    unmatched, issues = unsourced(ep_dir), []
     if unmatched:
         shown = ", ".join(f"{k!r}" for k in sorted(unmatched)[:4])
         issues.append((

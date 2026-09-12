@@ -133,6 +133,14 @@ picking a side.
 
 ### 8. Best guess after every available check and loop; escalate what's left with a timestamp, never a scrub
 
+**What the file shows meanwhile (owner decision 2026-09-12, following Hansard precedent):**
+a turn no tool can name is labelled `Speaker ?` -- the repo's per-turn unknown, the same
+role as Hansard's "An Hon. Member:" -- never a diarizer cluster id such as `Speaker 2`,
+which tells a reader nothing true. The turn itself stays if it carries meaning (Hansard
+keeps an interjection the speaker responds to; rule 5 keeps any word with lexical
+content). `check_published.py` enforces this: `Speaker N` in raw.md is a
+`placeholder-label` defect, `Speaker ?` is not. See HANSARD_COMPARISON.md.
+
 Run every tool this file lists, more than once if the first pass changes the input to
 the next. If, after that, no tool can settle it, stop guessing and bring it back with
 a **clickable `?t=`-style timestamp link** derived from the caption track (not raw.md's
