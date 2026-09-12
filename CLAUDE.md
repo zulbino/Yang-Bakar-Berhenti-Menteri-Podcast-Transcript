@@ -21,8 +21,9 @@ not actually in tension, because the token cost that matters is reasoning and pr
 not verification:
 
 - **Deterministic checker scripts are free in this economy.** `check_names.py`,
-  `check_figures.py`, `check_published.py`, `check_camera_reference.py`,
-  `check_owner_decisions.py`, `qa_check.py`, and every multi-pass loop rule 8 asks for
+  `check_figures.py`, `check_published.py`, `check_agencies.py`,
+  `check_camera_reference.py`, `check_owner_decisions.py`, `qa_check.py`, and every
+  multi-pass loop rule 8 asks for
   cost machine time, not conversation tokens. Never skip one of these, or a re-check
   after a change, to save tokens -- that is not what is expensive.
 - **What is actually expensive:** re-deriving a fact this file, HANDOFF_2026-09-12.md,
@@ -57,9 +58,19 @@ ep60 said "Sum Dek Jo", ep63 said "Sum Dek Joe" -- resolved by his X handle
 
 Same method as rule 1: web-verify the agency's real name and acronym, don't infer
 from how the ASR heard it. `fix_proper_nouns.py` already carries agency fixes (MARA,
-J-KOM, WASIA) as a subset of its correction map. **Gap:** nothing yet cross-checks an
-agency name the way `check_names.py` cross-checks a person's name against the
-corpus's own roster -- an agency-roster checker is open work.
+J-KOM, WASIA, and now Kewangan, Peguam Negara, JAC) as a subset of its correction map.
+**Gap closed 2026-09-12:** `check_agencies.py` is the checker this rule was missing. It
+reads `data/agency_roster.json`, a roster web-verified entry by entry with a source URL
+on each, and reports two things: a phrase written as a title that nearly matches a
+roster name (`Kementerian Keuangan`, the Indonesian spelling, 16 times across 7
+episodes), and a roster agency named in interview.md that raw.md cannot source (ep05's
+`Seksyen 122B Akta SPRM 2009`, in a passage about who appoints the Chief Justice -- the
+act is the Judicial Appointments Commission Act 2009, and raw.md never says SPRM).
+
+The roster is the authority, never the corpus, and the roster itself can be wrong: its
+first version carried `Kementerian Pertanian dan Keselamatan Makanan` from Wikipedia's
+cabinet table, the corpus said `Keterjaminan`, and kpkm.gov.my says the corpus was
+right. Take the agency's own site over any third party, and read a hit before fixing it.
 
 ### 3. A guest's name is their full name in metadata, verbatim as spoken in the text
 
@@ -160,13 +171,14 @@ tools decide what tools can decide; a human ear decides the rest, and only that 
 ## The governing principle behind all eight
 
 Every one of the above is enforced by a script that runs the same way every time, not
-a one-off manual pass: `check_names.py`, `check_figures.py`, `check_published.py`,
-`check_camera_reference.py`, `check_owner_decisions.py`, `qa_check.py`. A rule that
+a one-off manual pass: `check_names.py`, `check_agencies.py`, `check_figures.py`,
+`check_published.py`, `check_camera_reference.py`, `check_owner_decisions.py`,
+`qa_check.py`. A rule that
 only lives in someone's memory of a past session is a rule that will be skipped on
 the next episode -- this is the exact failure ep61 shipped with (three already-settled
 rules missing) before the standard became "the ep62 standard applies to every
 episode, always, no exceptions for a good score."
 
 Adding a new rule to this file without a script that checks it is incomplete. If no
-script exists yet, say so explicitly (see rule 2's gap, rule 7's proposed fix) rather
-than letting the rule be aspirational.
+script exists yet, say so explicitly (rule 7's proposed fix is the one still open;
+rule 2's gap closed on 2026-09-12) rather than letting the rule be aspirational.

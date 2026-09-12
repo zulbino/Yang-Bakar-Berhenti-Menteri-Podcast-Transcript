@@ -591,6 +591,45 @@ CORRECTIONS = [
      "Same person, same 2026-09-10 decision, 15 occurrences: ep48 x5 (`menjawab yang Paan kan`, "
      "`yang macam Paan kata tadi`), ep44, and a few more. Word-anchored so it cannot reach "
      "inside another word."),
+    (r"Keuangan(?![A-Za-z])", "Kewangan",
+     "FOUND BY check_agencies.py 2026-09-12, the first defect it reported. `keuangan` is the "
+     "INDONESIAN word; Malaysia's ministry is Kementerian Kewangan (mof.gov.my). 16 "
+     "occurrences across ep12, ep17, ep18, ep25, ep28, ep29, ep34, all of them "
+     "`Kementerian Keuangan` or `Menteri Keuangan` about the Malaysian ministry -- ep28's "
+     "reads `contohnya Kementerian Keuangan. MOF likes to do all this`, which names MOF in "
+     "the same breath. ep15 line 69 writes BOTH forms in one sentence (`kepada kementerian "
+     "kewangan Asalnya Tetapi Kementerian Keuangan kata`), and that is what proves the ASR "
+     "did it and not the speaker. No occurrence anywhere refers to Indonesia's ministry. "
+     "https://www.mof.gov.my/portal/en/"),
+    (r"keuangan(?![A-Za-z])", "kewangan",
+     "The same word, lowercase, and a PUBLISHED-ONLY defect: 1 occurrence in ep09's "
+     "interview.md and interview-ms.md where raw.md says `kewangan` correctly (`dia kata "
+     "kewangan itu adalah untuk jadikan satu subjek khusus di sekolah`). The rewrite "
+     "introduced the Indonesian spelling; raw.md does not need this pattern at all."),
+    (r"Menteri Kawangan(?![A-Za-z])", "Menteri Kewangan",
+     "Same ministry, a second garble of it, 1 occurrence in ep15 raw: `saya baca "
+     "kenyataan-kenyataan daripada Menteri Kawangan Kedua lah, Dato' Seri Amir Hamzah` -- "
+     "the Second Finance Minister, named in the same sentence. Two words, so `kawangan` "
+     "alone is never touched."),
+    (r"Akta SPRM 2009(?![A-Za-z0-9])", "Akta JAC 2009",
+     "FOUND BY check_agencies.py's unsourced-agency check 2026-09-12, and the worst of the "
+     "four: ep05's interview.md and interview-ms.md cite `Seksyen 122B Akta SPRM 2009`, "
+     "naming the ANTI-CORRUPTION commission in a passage about who appoints the Chief "
+     "Justice (`siapa nak lantik ketua hakim`). raw.md never says SPRM at all. Two "
+     "witnesses settle it: local ASR heard `Akta JSC 2009`, MAI heard `Akta JAC 209`, and "
+     "the Judicial Appointments Commission Act 2009 (Act 695, gazetted 8 February 2009) is "
+     "exactly the law for appointing judges. The rewrite swapped one commission for "
+     "another. https://www.jac.gov.my/en/commission/introduction"),
+    (r"Akta JSC 2009(?![A-Za-z0-9])", "Akta JAC 2009",
+     "The same citation in ep05 raw.md, 1 occurrence. `JSC` is the local ASR's mishearing "
+     "of the same two seconds MAI transcribes as `JAC`, and MAI is the better-measured "
+     "engine (3.39% podcast WER against local Whisper's 20.52%). The topic decides it, not "
+     "the engine's score: the sentence is about appointing the Chief Justice."),
+    (r"Jabatan Perkuam Negara(?![A-Za-z])", "Jabatan Peguam Negara",
+     "1 occurrence in ep27 raw: `kita runding hantar representasi kepada Jabatan Perkuam "
+     "Negara`. The Attorney General's Chambers, agc.gov.my, and a representation in a "
+     "criminal case goes exactly there. `Perkuam` is not a word. Three words, so nothing "
+     "else can match. https://www.agc.gov.my/"),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the
