@@ -643,6 +643,16 @@ chunk files are named by index and start, and a 30-minute plan once picked up a 
 the verdict refuses a transcript whose last turn ends before 95% of the runtime or that has
 more than 300 s between two turns, which is the hole the last-stamp check cannot see.
 
+**A disputed digit is settled by counting witnesses before it goes to an ear (2026-09-12).**
+raw.md has three independent ASR readings of every figure: MAI's words, the local-ASR raw
+(`git show` of the pre-adoption file, or `data/_old_<tag>_raw.md`), and the YouTube caption
+track in `audio/<vid>.*.vtt`, plus whatever arithmetic the speaker states in the sentence.
+Two of three agreeing against the third, with the arithmetic on their side, is a decision,
+not a guess; the fix goes into `fix_proper_nouns.py` anchored on the full phrase. ep48's
+"RM2.05 kepada RM1.09" (MAI) became RM1.99 this way: the speaker says "turunkan 6 sen", the
+local raw heard 1.99, the captions agree. Only a figure the witnesses split on goes to the
+owner. Not yet a script; `check_figures.py` finds the candidates, the count is by hand.
+
 ## Writing the interview files from segments
 
 The shipping path for ep62 (2026-09-10) and for every episode after it; the whole-episode
