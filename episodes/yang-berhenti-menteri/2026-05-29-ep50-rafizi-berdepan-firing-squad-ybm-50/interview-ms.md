@@ -320,7 +320,7 @@ Kalau YB buat macam itu, sedih lah Fuziah. Tak adalah, tengoklah dia nak bersila
 
 **Wan Afiq:** Daripada Soal to Live. Bagaimana Bersama nak libatkan pengundi luar bandar,
 
-**Rafizi:** golongan pekerja bawahan.
+**Wan Afiq:** golongan pekerja bawahan.
 
 **Wan Afiq:** — atau warga emas yang kurang mahir digital? Macam mana nak pastikan parti ini tak jadi kelab eksklusif untuk generasi tab?
 
