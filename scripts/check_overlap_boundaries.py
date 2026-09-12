@@ -34,6 +34,18 @@ Three verdicts:
   contested  The camera's covered seconds disagree with B's label, or split between B and
              A. This is the rule 7 residue. Escalated with a link.
   blind      No covered second. `fold_hanging_fragments.py`'s case, not this one's.
+  owner      An owner ruling or confirmation already covers the turn. The decision files
+             are the same ones fold_hanging_fragments.py reads, so a ruling retires a
+             candidate for good.
+
+AND ONE SIGNATURE ON THE OTHER SIDE OF THE BOUNDARY, which the owner found before this
+tool had a test for it. ep63's 1:58:44 had Haziq's opening clause sitting at the END of
+Rafizi's block, and every test above judges only B's opening. The camera can see that case
+precisely BECAUSE its cut lags speech by about two seconds: if it already shows B during
+A's final seconds, B had started before the cut, so A's last words are probably B's. Eleven
+such boundaries exist across the adopted episodes, reported with a link eight seconds
+early. They are candidates for an ear, not verdicts -- ep62's `White pap-` / `dalam white
+paper pun sama juga` is a real interruption that reads exactly the same way.
 
 TWO LIMITS, both of which decide how far the output can be trusted:
 
@@ -110,6 +122,14 @@ def candidates(blocks, camera, decided=()):
         edge = Counter(camera[t] for t in range(secs(st) + 1, secs(st) + 4) if t in camera)
         sandwich = (i + 1 < len(blocks) and blocks[i + 1][1] == before
                     and blocks[i + 1][2][:1].islower())
+        # THE OTHER SIDE OF THE SAME DEFECT, and the owner found it before this tool did.
+        # ep63's 1:58:44 had Haziq's opening clause sitting at the END of Rafizi's block,
+        # which no test here could see: everything above judges B's opening. The camera CAN
+        # see it, because its cut LAGS the speech by about two seconds -- so if the camera
+        # already shows B during A's final seconds, B had started before the cut and A's
+        # last words are probably B's.
+        tail = Counter(camera[t] for t in range(secs(st) - 3, secs(st)) if t in camera)
+        tail_flag = tail.get(who, 0) >= MIN_EDGE_SECONDS
         # THE VERDICT IS DECIDED AT THE EDGE, not over the whole turn, and that is the
         # whole point of rule 7: a long turn can be correctly labelled B and still open
         # with a few words that are A's. ep44's 1:21:26 reads `Rafizi 842s, Haziq 4s` over
@@ -135,7 +155,8 @@ def candidates(blocks, camera, decided=()):
             verdict = "attested"
         else:
             verdict = "contested"
-        out.append((verdict, st, nxt or st, who, before, said, vote, edge, sandwich))
+        out.append((verdict, st, nxt or st, who, before, said, vote, edge,
+                    sandwich, tail_flag, prev_said))
     return out
 
 
@@ -155,15 +176,26 @@ def report(tag, links=False):
     blocks = BLOCK.findall(text)
     found = candidates(blocks, camera, decision_texts(tag))
     counts = Counter(v for v, *_ in found)
+    counts["tail"] = sum(1 for f in found if f[9] and f[0] != "owner")
     print(f"\n=== {tag}: {len(blocks)} blocks, camera covers {total}s "
           f"({', '.join(f'{n} {100 * c / total:.0f}%' for n, c in shares.most_common())})")
     print(f"    {counts.get('contested', 0)} contested, {counts.get('attested', 0)} "
           f"attested by the camera, {counts.get('owner', 0)} settled by an owner decision, "
           f"{counts.get('blind', 0)} camera-blind (fold_hanging_fragments.py's case)")
+    tails = [f for f in found if f[9] and f[0] != "owner"]
+    if tails:
+        vid = listen_links.video_id(Path(raw))
+        print(f"    {len(tails)} boundary/boundaries where the camera already shows the NEXT "
+              f"speaker during the previous block's last seconds:")
+        for f in tails:
+            st, who, before, prev_said = f[1], f[3], f[4], f[10]
+            print(f"      [{st}] {before}'s block ends ...{prev_said[-60:]}")
+            print(f"            {who} then starts {f[5][:52]!r}")
+            print(f"            https://youtu.be/{vid}?t={max(0, secs(st) - 8)}")
     if counts.get("contested"):
         vid = listen_links.video_id(Path(raw))
         cues = listen_links.captions(vid) if links else None
-        for verdict, st, nxt, who, before, said, vote, edge, sandwich in found:
+        for verdict, st, nxt, who, before, said, vote, edge, sandwich, tail_flag, prev_said in found:
             if verdict != "contested":
                 continue
             seen = ", ".join(f"{k or 'no opinion'} {n}s" for k, n in vote.most_common())
@@ -197,14 +229,19 @@ def main():
         ap.error("give an episode tag, or --all")
 
     totals = Counter()
+    tail_total = 0
     for tag in dict.fromkeys(tags):
         counts = report(tag, links=a.links)
         if counts:
             totals.update(counts)
+            tail_total += counts.get("tail", 0)
     print(f"\n{totals.get('contested', 0)} contested boundary/boundaries across "
           f"{len(tags)} episode(s) -- rule 7's residue, for an ear, not a tool. "
           f"{totals.get('attested', 0)} attested by the camera, {totals.get('owner', 0)} "
-          f"settled by an owner decision, {totals.get('blind', 0)} camera-blind.")
+          f"settled by an owner decision, {totals.get('blind', 0)} camera-blind.\n"
+          f"{tail_total} boundary/boundaries where the camera shows the next speaker "
+          f"during the previous block's last seconds -- the other side of the same "
+          f"defect, for an ear too.")
 
 
 if __name__ == "__main__":
