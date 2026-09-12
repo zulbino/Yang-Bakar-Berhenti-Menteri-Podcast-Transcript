@@ -38,6 +38,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 50 — Rafizi Berdepan Firing Squad**  
+29 May 2026 · 2h 49m · [watch on YouTube](https://www.youtube.com/watch?v=C9xGMQMP6o8)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Wan Afiq:** Assalamualaikum dan salam sejahtera. Kembali lagi kita dalam YBM episod 50, episod khas. Kenapa dia tak keluar lagi tu? Ada delay. Oh, ada delay. Ni memang live betul-betul ni YB.
