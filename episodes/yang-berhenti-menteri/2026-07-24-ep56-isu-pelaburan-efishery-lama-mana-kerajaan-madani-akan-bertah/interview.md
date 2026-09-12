@@ -231,7 +231,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Saya rasa mungkin yang inilah kot kan.
 
-**Rafizi:** tak ada lah. Aku pun, aku lebih kepada yang ni — oh, show off duit minyak kepada Budin Martopo ni. Sebab aku tak faham. Selama je, apa nama ni, ambil gambar, tunjuk kaki je kan, sebab dia agak susahlah nak faham macam mana orang dengan bangga tunjuk duit — tunjuk duit minyak, yang kalau dapat pergi ambil pun paling kurang faham-faham lah benda itu bukan sesuatu yang betul kan. Okey, baik YB, kita popularkan Budin Martopo. Tahniah Budin, Ira, Odi.
+**Rafizi:** tak ada lah. Aku pun, aku lebih kepada yang ni —
+
+**Haziq:** Oh, show off duit minyak.
+
+**Rafizi:** kepada Budin Martopo ni. Sebab aku tak faham. Selama je, apa nama ni, ambil gambar, tunjuk kaki je kan, sebab dia agak susahlah nak faham macam mana orang dengan bangga tunjuk duit — tunjuk duit minyak, yang kalau dapat pergi ambil pun paling kurang faham-faham lah benda itu bukan sesuatu yang betul kan. Okey, baik YB, kita popularkan Budin Martopo. Tahniah Budin, Ira, Odi.
 
 **Haziq:** Ira, Odi, semuanya. Okey, hidup keras. Kita ada dua isu utama. Kita dah 37 minit — 37 minit — pertama sudah pasti yang kuat, e-Fishery, Network School semua ni. Dan yang hujung sekali kita akan bercakap tentang hayat kerajaan Madani sekarang ni. Jadi tengok sampai habis, kita cuba.
 

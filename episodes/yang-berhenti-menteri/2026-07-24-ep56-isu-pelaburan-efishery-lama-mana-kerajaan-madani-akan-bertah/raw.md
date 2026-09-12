@@ -217,9 +217,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [36:42] Rafizi: Kalau kita masukkan, dia jadi manfaatkan kita beria. Why itu akan meletakkan kita di sama taraf dengan aa penganalisa-penganalisa politik daripada pensyarah-pensyarah dekat universiti-universiti di utara Malaysia kan semua kan. Sebab nampaknya diorang je yang beria-ia nak komen pasal aa kenyataan AMK semua kan. Jadi jangan rendahkan taraf kita. Ya. Baik-baik.
 
-[37:10] Haziq: Babi, kalau kena pilih satu, saya rasa mungkin
+[37:10] Haziq: Babi, kalau kena pilih satu, saya rasa mungkin yang ini lah kot, kan?
 
-[37:13] Rafizi: yang ini lah kot, kan? Tak ada ah, aku pun aku lebih kepada yang Ni. yang ha. Ha, show off duit minyak. Ha, kepada Budin Martopo ni. Sebab aku tak faham. Selamba je apa nama ni ambil gambar tunjuk kaki tu kan. Sebab a dia agak susahlah nak faham a macam mana orang dengan bangga tunjuk duit. A tunjuk duit minyak yang a yalah kalau dapat pergi ambil pun paling kurang faham-fahamlah a benda itu bukan sesuatu yang betul kan. Okey, baik Babi. Kita- Popular Budin Martopo.
+[37:17] Rafizi: Tak ada ah, aku pun aku lebih kepada yang Ni. yang ha.
+
+[37:22] Haziq: Ha, show off duit minyak.
+
+[37:24] Rafizi: Ha, kepada Budin Martopo ni. Sebab aku tak faham. Selamba je apa nama ni ambil gambar tunjuk kaki tu kan. Sebab a dia agak susahlah nak faham a macam mana orang dengan bangga tunjuk duit. A tunjuk duit minyak yang a yalah kalau dapat pergi ambil pun paling kurang faham-fahamlah a benda itu bukan sesuatu yang betul kan. Okey, baik Babi. Kita- Popular Budin Martopo.
 
 [38:01] Haziq: Tahniah Budin, Ira, Odi.
 
