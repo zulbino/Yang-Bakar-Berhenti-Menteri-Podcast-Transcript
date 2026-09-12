@@ -423,9 +423,9 @@ Saya harap lepas ini kertas putih, kertas kuning, kertas hijau semua akan keluar
 
 **Sum Dek Joe:** 65% anak pelajar kita. Sangat membimbangkan tau.
 
-**Rafizi:** Mungkin sebab orang tak — yalah, saya faham lah laporan PISA ni 377 muka surat, mati nak baca kan. Dia dua kali ganda lagi panjang daripada laporan Tabung Haji kan, jadi orang tak baca lah. Jadi orang mungkin tak faham apa makna Level 2 ni yang kita dorong duk cakap. Kau gila? Dua pertiga daripada budak-budak kita tak lepas Level 2. Ha, itulah soalan Level 2 — soalan tukar mata wang je pun, tak boleh jawab tau. Tapi kalau tengok pada trend Malaysia...
+**Rafizi:** Mungkin sebab orang tak — yalah, saya faham lah laporan PISA ni 377 muka surat, mati nak baca kan. Dia dua kali ganda lagi panjang daripada laporan Tabung Haji kan, jadi orang tak baca lah. Jadi orang mungkin tak faham apa makna Level 2 ni yang kita dorong duk cakap. Kau gila? Dua pertiga daripada budak-budak kita tak lepas Level 2. Ha, itulah soalan Level 2 — soalan tukar mata wang je pun, tak boleh jawab tau.
 
-**Haziq:** Kalau mungkin saya tengok kan, tadi kita tunjuk balik apa pengaruhnya — negara-negara lain dah naik, dah recover daripada Covid sebelum tu. Tapi Malaysia masih lagi ke bawah. Adakah sebab terbesarnya adalah kita belum recover lagi daripada generasi yang hilang akibat Covid sebelum ni?
+**Haziq:** Tapi kalau tengok pada trend Malaysia... kalau mungkin saya tengok kan, tadi kita tunjuk balik apa pengaruhnya — negara-negara lain dah naik, dah recover daripada Covid sebelum tu. Tapi Malaysia masih lagi ke bawah. Adakah sebab terbesarnya adalah kita belum recover lagi daripada generasi yang hilang akibat Covid sebelum ni?
 
 **Sum Dek Joe:** Jadi memang, tidak dapat dinafikan bahawa Covid memang ada satu kesan lah. Tapi kalau kita tengok Malaysia, tahap kejatuhan kita sebenarnya jauh lebih besar. Kalau kita tengok lah — jadi ada Norway, ada Iceland kalau tak silap. Maaf, terlalu kecil lah perkataan font dia.
 

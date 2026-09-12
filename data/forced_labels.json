@@ -100,5 +100,14 @@
    "why": "OWNER RULING BY EAR 2026-09-11: a SPLIT. Rafizi recites 'Kalau lompat parti, kosongkan, maka jatuh talak.' and Haziq answers 'Tapi lama sangat YB.', which his own 'Saya macam dah tak boleh' at 11:37 follows from. Only the Haziq half is forced. Same caveat: a rebuild that fuses the block needs the split again."
   }
  ],
- "_split_at_words": "Optional on a rule: true means the block is CUT at the rule's literal words before relabelling, so a ruling can land on part of a MAI turn that fused two speakers (ep53 2:19:14). The words and what follows them in that turn go to `who`; what precedes keeps its label; both halves keep the stamp."
+ "_split_at_words": "Optional on a rule: true means the block is CUT at the rule's literal words before relabelling, so a ruling can land on part of a MAI turn that fused two speakers (ep53 2:19:14). The words and what follows them in that turn go to `who`; what precedes keeps its label; both halves keep the stamp.",
+ "ep63": [
+  {
+   "text": "Aa tapi kalau tengok pada trend Malaysia,",
+   "who": "Haziq",
+   "at": "1:58:07",
+   "split_at_words": true,
+   "why": "OWNER RULING 2026-09-12, recorded in data/speaker_adjudications.json as ep63_owner_verified_2026_09_12@1:58:44. MAI's turn fused Haziq's opening clause onto the end of Rafizi's block, and the camera cannot separate them because its cut lags speech by about two seconds. This rule reproduces the correction on any future re-adoption: the words and what follows them in that turn go to Haziq."
+  }
+ ]
 }

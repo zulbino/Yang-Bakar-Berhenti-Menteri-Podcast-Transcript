@@ -423,9 +423,9 @@ I hope after this, the white paper, yellow paper, green paper will all come out.
 
 **Sum Dek Joe:** 65% of our students. Very concerning, you know.
 
-**Rafizi:** Maybe it's because people don't — well, I understand this PISA report is 377 pages, it's torture to read. It's twice as long as the Tabung Haji report, so people don't read it. So people probably don't understand what Level 2 means, which we keep talking about. Are you crazy? Two-thirds of our kids can't pass Level 2. That's the Level 2 question — just a currency conversion question, and they can't answer it. But if we look at Malaysia's trend...
+**Rafizi:** Maybe it's because people don't — well, I understand this PISA report is 377 pages, it's torture to read. It's twice as long as the Tabung Haji report, so people don't read it. So people probably don't understand what Level 2 means, which we keep talking about. Are you crazy? Two-thirds of our kids can't pass Level 2. That's the Level 2 question — just a currency conversion question, and they can't answer it.
 
-**Haziq:** If I may look at it — just now we showed again what's the influence — other countries have risen, have recovered from Covid before this. But Malaysia is still going down. Is the biggest reason that we haven't recovered yet from the lost generation from Covid before this?
+**Haziq:** But if we look at Malaysia's trend... if I may look at it — just now we showed again what's the influence — other countries have risen, have recovered from Covid before this. But Malaysia is still going down. Is the biggest reason that we haven't recovered yet from the lost generation from Covid before this?
 
 **Sum Dek Joe:** So indeed, it's undeniable that Covid did have an impact. But if we look at Malaysia, the extent of our decline is actually much larger. If we look — so we have Norway, we have Iceland if I'm not mistaken. Sorry, the font is too small.
 

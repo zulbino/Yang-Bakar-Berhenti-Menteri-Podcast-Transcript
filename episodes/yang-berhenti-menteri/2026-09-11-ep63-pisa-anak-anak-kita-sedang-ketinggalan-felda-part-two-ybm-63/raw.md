@@ -333,9 +333,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:58:03] Sum Dek Joe: 65% anak pelajar kita. Sangat membimbangkan tau.
 
-[1:58:07] Rafizi: Mungkin sebab orang mungkin tak tak yalah saya fahamlah PISA report ni 377 muka surat, mati nak bacanya kan. Dia dia 2 kali ganda lagi lagi panjang daripada laporan Tabung Haji. Kan. Jadi orang tak bacalah. Jadi orang mungkin tak faham apa makna level 2 ni yang kita dorong duk cakap. Kau gila? 2 pertiga dari budak-budak kita tak lepas aa level 2. Ha, itulah soalan level 2. Soalan convert currency je pun. Tak boleh jawab tau. Aa tapi kalau tengok pada trend Malaysia,
+[1:58:07] Rafizi: Mungkin sebab orang mungkin tak tak yalah saya fahamlah PISA report ni 377 muka surat, mati nak bacanya kan. Dia dia 2 kali ganda lagi lagi panjang daripada laporan Tabung Haji. Kan. Jadi orang tak bacalah. Jadi orang mungkin tak faham apa makna level 2 ni yang kita dorong duk cakap. Kau gila? 2 pertiga dari budak-budak kita tak lepas aa level 2. Ha, itulah soalan level 2. Soalan convert currency je pun. Tak boleh jawab tau.
 
-[1:58:44] Haziq: kalau mungkin saya tengok kan, aa tadi kita tunjuk balik. What's the influence negara-negara lain apa ni, dah naik, dah recover dari Covid sebelum tu. Tapi Malaysia masih lagi ke bawah. Adakah Malaysia sebenarnya apa sebab terbesarnya adalah kita belum recover lagi daripada lost generation daripada Covid sebelum ni?
+[1:58:44] Haziq: Aa tapi kalau tengok pada trend Malaysia, kalau mungkin saya tengok kan, aa tadi kita tunjuk balik. What's the influence negara-negara lain apa ni, dah naik, dah recover dari Covid sebelum tu. Tapi Malaysia masih lagi ke bawah. Adakah Malaysia sebenarnya apa sebab terbesarnya adalah kita belum recover lagi daripada lost generation daripada Covid sebelum ni?
 
 [1:59:06] Sum Dek Joe: So memang so it's undeniable that Covid memang ada satu impact lah. Tapi kalau kita tengok Malaysia, ki- the job of our, the the the extent of our drop, ya, the extent of our decline is actually much larger. Ya, so kita kalau tengoklah, so Norway, kita ada Norway. Kita ada Iceland kan kalau tak silap. Sorry, terlalu kecil lah perkataan font dia.
 
