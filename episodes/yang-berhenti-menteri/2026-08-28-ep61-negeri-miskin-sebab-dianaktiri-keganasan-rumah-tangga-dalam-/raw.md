@@ -8,7 +8,7 @@ duration_seconds: 10479
 duration: 2h 54m
 view_count: 11868
 model: microsoft/MAI-Transcribe-2
-note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (14 blocks from roughly 01:30 to 03:00, the post-jacket schedule exchange into the first Beria item; owner rulings over the camera: 2 blocks set from data/forced_labels.json). See interview.md for the polished newspaper-style rewrite.'
+note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner''s own dictated turns for 01:07-02:25 (the post-jacket schedule exchange into the first Beria item): 18 turns from data/speaker_ground_truth.json, recorded by the owner on 2026-08-30 from watching and listening and revised by them on 2026-09-12, written over MAI''s words for those seconds by scripts/apply_gold_turns.py on 2026-09-12. Before that date this passage held the OLD local-ASR blocks for the same time range, which is what mai_camera_raw.py''s gold splice copies, and they were missing words the owner quotes; owner rulings over the camera: 2 blocks set from data/forced_labels.json). See interview.md for the polished newspaper-style rewrite.'
 ---
 
 <!-- nav -->
@@ -25,19 +25,41 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [00:57] Rafizi: This is not windbreaker This is fail lah saya Is it bomber ke bomber? Bomber. Bomber. Bomber jaket. Taklah aku selalu dapat baju-baju dan merchandise percuma. Oh percuma. Cuma yang ini aku tak faham. Dia punya Product market fit Dengan cuaca Malaysia Nampak style lah tapi Yelah tapi panas Nak mampus Jadi bila dia bagi Aku nak pakai Masa mana Masa ceramah atas tu Panas berpeluh-peluh Masa day one pun Tetap panas So Pakai waktu podcast lah Pakai waktu podcast lah Selalunya aircon sejuk lah Malam ni tak sejuk sangat Nanti dia orang sejuk kan Nanti kena sejukkan sikit lah Sebab aku pakai Bommo jacket ni Okay
 
-[01:35] Haziq: okay Baik YB Cuti panjang YB buat apa? Cuti? Haa, yelah. Saja je. Nak bagitahu orang. Hari... Hari...
+[01:07] Haziq: Baik YB. Cuti panjang YB berapa?
 
-[01:41] Rafizi: Jum... Haa, apa ni? Hari... Sabtu esok ni Hari Sabtu di Melaka Keduri Kemudian Ceramah Kemudian hari Ahad di mana? Di Puchong
+[01:09] Rafizi: Mana ada cuti?
 
-[01:50] Haziq: Ahad di Puchong Betul betul Puchong lah HQ Kita punya Itu untuk Sepang lah semua Yes lah
+[01:10] Haziq: Ha, yalah. Saja je. Nak bagi tahu orang.
 
-[01:55] Rafizi: Lepas tu bukan hari... Cuti 31st Ogos itu pun ada dalam jadual. Ya. Kemudian hari Selasa ceramah. Macam
+[01:13] Rafizi: Hari, hari Jum- apa ni hari uh Sabtu esok eh. Ya. Hari Sabtu di Melaka. Hmm. Kenduri. Kenduri. Kemudian ceramah. Ceramah malam. Kemudian hari Ahad di mana?
 
-[02:17] Haziq: nak pilihan raya dah Macam nak pilihan raya Kita memang beria Okay Okay baik YB Kita teruskan Untuk yang Episode 61 Sebab beria agak banyak sikit Minggu lepas banyak beria Minggu ini Minggu ini banyak beria Yang first sekali Terapi overclaim datang lagi. Betul
+[01:28] Haziq: Di Puchong? Ahad di Puchong. Aku betul, betul. Puchong lah HQ. Kita punya
 
-[02:36] Rafizi: lah, dia panas so. Korang kena biarlah si Haziq ni sejuk.
+[01:36] Rafizi: Itu untuk Sepang lah semua. Yes.
 
-[02:42] Haziq: Misalkan tak panas ke pelut. Haa, betul. Saya boleh pergi toilet nanti. Okay. Ni mana ni? Terapi overclaim datang lagi. Hydrogen therapy atau nebulizer.
+[01:40] Rafizi: Lepas tu bukan hari cuti 31st August tu pun ada dalam jadual.
+
+[01:46] Haziq: Ya.
+
+[01:47] Rafizi: Kemudian hari Selasa ceramah. Ha. Okey. Alright. Okey.
+
+[01:52] Haziq: Macam nak pilihan raya dah YB?
+
+[01:53] Rafizi: Macam nak pilihan raya. Kita memang beria.
+
+[01:55] Haziq: Okey. Okey, baik YB. Hmm. Kita teruskan untuk yang episod 61. Hmm. Sebab beria agak banyak sikit. Okey.
+
+[02:04] Rafizi: Minggu lepas banyak beria. Minggu ini. Minggu ini. Minggu ini banyak beria. Okey.
+
+[02:10] Haziq: Yang first sekali, Therapy Overclaim datang lagi.
+
+[02:13] Rafizi: Betullah dia panas tu. Korang kena biarlah si Haziq ni sejuk. Asalkan aku tak panas berpeluk.
+
+[02:19] Haziq: Ha, betul. Saya boleh pergi toilet nanti. Haah.
+
+[02:21] Rafizi: Okey. Ni mana ni? Therapy Overclaim. Datang lagi. Datang lagi.
+
+[02:25] Haziq: Hydrogen therapy atau nebulizer.
 
 [02:53] Rafizi: Nebulizer tu memang hydrogen ke?
 

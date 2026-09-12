@@ -26,8 +26,10 @@
    "was": "Speaker ?"
   },
   "01:55": {
-   "who": "Rafizi",
-   "was": "Speaker ?"
+   "who": "Haziq",
+   "was": "Speaker ?",
+   "was_recorded_as": "Rafizi",
+   "_superseded": "2026-09-12: this entry gave `Okey. Okey, baik YB. Hmm. Kita teruskan untuk yang episod 61` to Rafizi. Both the owner's own dictation (data/speaker_ground_truth.json turn 12, recorded 2026-08-30) and their reading on 2026-09-12 (`Haziq: Okay Okay baik YB Kita teruskan Untuk yang Episod 61`) give it to Haziq. The entry was written from a STAMP under the old transcript's clock, which runs about 24 s ahead of the audio in this passage, so 01:55 pointed at different speech. Corrected rather than deleted, so the history stays readable."
   },
   "02:36": {
    "who": "Rafizi",
