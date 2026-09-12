@@ -1472,3 +1472,38 @@ raw, so the tool prints each speaker's share of camera seconds instead of gating
 a speaker at 0.0% there makes every verdict worthless for that person's turns. And the
 boundary second comes from the block stamp, which only holds for an adopted MAI raw; the
 tool refuses any other raw rather than trusting a drifting clock.
+
+## YouTube's caption `isSpeakerChange` flag: fetched, measured, rejected (2026-09-12)
+
+The owner noticed YouTube's own transcript appears to separate speakers and asked whether it
+could cross-check the contested boundaries. It carries a real signal we had never looked at,
+and the signal does not survive measurement.
+
+**What exists.** The `.vtt` format this repo downloads carries NO speaker information: 64
+caption files, zero markers of any kind. The `json3` format does -- every segment can carry
+`isSpeakerChange: true` alongside `utf8`, `tOffsetMs` and `acAsrConf`. Fetch it with
+`python -m yt_dlp --skip-download --write-auto-subs --sub-langs ms --sub-format json3`.
+That is why this was never seen before: the flag is dropped in the conversion to WebVTT.
+
+**What it measures against the camera (ep61).** 1,147 caption change points against the
+camera reference's 216. 83% of camera changes have a caption change within 3 s, which looks
+excellent until the density is accounted for: with 1,147 points over 9,700 s, a RANDOM
+second lands within 3 s of one with probability 69%.
+
+**What it measures against the owner's own rulings.** Eleven boundaries the owner settled by
+eye and ear on 2026-09-12, six of them real speaker changes and five of them places where
+raw.md had a change that is not there. Scored at face value, the flag agrees on 4 of 11.
+Sweeping the offset from -4 s to +4 s and the tolerance from 1.0 s to 2.5 s, the best
+combination (-1 s, 2.5 s) reaches 7 of 11 -- and that offset was fitted to these same eleven
+cases. The per-episode chance rate for a "change" answer is 13% to 32%.
+
+**Verdict.** Not evidence at the resolution rule 7 needs. It is recall without precision: it
+fires on nearly every pause, so it cannot say a boundary is real, and it carries no identity,
+so it can never say who. Do not re-test it without new data; re-test only if YouTube starts
+exposing speaker LABELS rather than change flags.
+
+**What does work, already measured and in the repo:** caption WORD GAPS, not the change
+flag. `data/` holds that earlier result -- boundaries from caption word gaps scored 16/16
+against pyannote's 8/16 (see the diarization sensing note in memory and
+`check_caption_coverage.py` for the caption plumbing).
+
