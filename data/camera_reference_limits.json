@@ -52,7 +52,8 @@
     "speaker": "Zikri Kamarulzaman",
     "raw_share_of_words": 0.142,
     "reference_share_of_time": 0.0,
-    "_found": "2026-09-13, in the overnight adoption queue. 16 of the 74 Zikri blocks in the previous raw landed under a host in the candidate, including his own introduction at [00:18] `bagi yang tak kenal saya, saya Zikri` as Rafizi. The adoption was REVERTED, not committed."
+    "_found": "2026-09-13, in the overnight adoption queue. 16 of the 74 Zikri blocks in the previous raw landed under a host in the candidate, including his own introduction at [00:18] `bagi yang tak kenal saya, saya Zikri` as Rafizi. The adoption was REVERTED, not committed.",
+    "_resolved": "RESOLVED 2026-09-13. guest_gallery.py named Zikri's face under its bijection rule (124 tracks, 1528s talking, 97% of the unidentified talking time, one guest in the frontmatter), the reference was rebuilt with him enrolled (Zikri 14.0% of camera time against 16.1% of raw's words), and ep42 was re-adopted. His self-introduction at 00:18 stays with him, and 8 of 63 locatable old-Zikri blocks moved to a host, which is the camera correcting the old pyannote labels rather than losing him."
    }
   ],
   "ep39": [
@@ -60,7 +61,8 @@
     "speaker": "Iqbal",
     "raw_share_of_words": 0.053,
     "reference_share_of_time": 0.0,
-    "_found": "2026-09-13, same queue. 3 of 48 Iqbal blocks moved to a host. Adoption REVERTED."
+    "_found": "2026-09-13, same queue. 3 of 48 Iqbal blocks moved to a host. Adoption REVERTED.",
+    "_still_open": "STILL OPEN 2026-09-13. guest_gallery.py STOPPED, correctly: Iqbal is listed as a HOST in the frontmatter, not a guest, so the one-guest bijection does not apply, and there are two talking clusters (435s and 42s). A person has to name the face: run `camera_speakers.py census XH1dBHPPRbs` then `cluster --sheet` and `gallery --name <id>=Iqbal`. The 480p video is already fetched at data/_video/XH1dBHPPRbs_480p.mp4. THE CENSUS NEEDS THE GPU, and a second chain (ep45, ep38, ep37, ep35) took it at 04:25, so this waits for that chain to print `finished:`."
    }
   ]
  }
