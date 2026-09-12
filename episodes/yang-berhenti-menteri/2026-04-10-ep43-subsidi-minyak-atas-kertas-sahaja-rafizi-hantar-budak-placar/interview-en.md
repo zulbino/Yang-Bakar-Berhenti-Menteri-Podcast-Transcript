@@ -56,7 +56,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 ---
 
 <!-- nav -->
-**Yang Berhenti Menteri episode 43 — Subsidi Minyak Atas Kertas Sahaja, Rafizi Hantar Budak Placard & Surat Dari**  
+**Yang Berhenti Menteri episode 43 — Subsidi Minyak Atas Kertas Sahaja, Rafizi Hantar Budak Placard & Surat Dari PKR**  
 10 April 2026 · 2h 41m · [watch on YouTube](https://www.youtube.com/watch?v=e3y7rCTySJU)
 
 This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  

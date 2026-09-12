@@ -55,7 +55,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 ---
 
 <!-- nav -->
-**Yang Berhenti Menteri episode 40 — Mafia Korporat: Yang Tersurat dan Tersirat, Cabaran Ekonomi Negara Akibat**  
+**Yang Berhenti Menteri episode 40 — Mafia Korporat: Yang Tersurat dan Tersirat, Cabaran Ekonomi Negara Akibat Perang Iran**  
 18 March 2026 · 2h 17m · [watch on YouTube](https://www.youtube.com/watch?v=KSpStz87R78)
 
 This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
