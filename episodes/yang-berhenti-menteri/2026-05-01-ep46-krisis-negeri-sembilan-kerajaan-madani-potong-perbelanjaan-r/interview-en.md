@@ -34,6 +34,14 @@ model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 46 — Krisis Negeri Sembilan, Kerajaan Madani Potong Perbelanjaan & Rafizi Bakal Dipanggil SPRM**  
+1 May 2026 · 3h 10m · [watch on YouTube](https://www.youtube.com/watch?v=hVMQsOg2dj8)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Wan Afiq:** Assalamualaikum and greetings. Welcome back again to...
