@@ -564,5 +564,13 @@
    ],
    "_note": "Guess called this a split with this exact division. Haziq's 'Saya macam dah tak boleh' at 11:37 answers his own 'too long'."
   }
+ },
+ "ep63_owner_verified_2026_09_12": {
+  "_what": "OWNER VERIFIED THE EXISTING LABEL, 2026-09-12. Not a relabel: the owner read ep63's interview files, asked whether the long Haziq block was really his, watched it, and confirmed it is. Recorded so a re-adoption cannot flip it silently, and so the next reader knows this one turn rests on the owner's own eyes and not only on the camera.",
+  "2:02:01": {
+   "_note": "695-char block, 7321-7373s, the PISA figures turn (80% / 73%, 79% / 60%, 46% / 37%). Camera reference reads Haziq for 7322-7372s, 51 of 52 seconds, with one second of no opinion at 7321 and zero seconds for Rafizi or Sum Dek Joe inside the block. Rafizi holds the 17s before it, Sum Dek Joe takes over right after, both matching the neighbouring blocks. interview.md's turn is 694 chars against raw's 695, same tail, so nothing was merged in. ep63 has no caption track and MAI ran --no-diarization, so the camera was the only independent witness before the owner looked. https://youtu.be/GJyo38Kmyt8?t=7315",
+   "who": "Haziq",
+   "text_now": "Dan another one I think yang mungkin kita akan go selepas ni"
+  }
  }
 }
