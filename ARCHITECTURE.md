@@ -1523,3 +1523,30 @@ Eleven boundaries corpus-wide carry it. They are candidates for an ear, not verd
 at 3:43:52 reads `Farhan (Pa'an): ...White pap-` / `Rafizi: dalam white paper pun sama juga`
 and that is a real interruption, which looks identical to the defect from the outside.
 
+### The cast gate was wired into the wrong step, and two episodes adopted on blind references (2026-09-13)
+
+`check_camera_reference.py` exists because a reference can be CONFIDENTLY WRONG: a guest
+who is not in the face gallery gets handed to the nearest gallery member, and the
+attribution score still looks clean. It was wired into `fold_hanging_fragments.py`, which
+is step 4b of `adopt_mai_camera_raw.py`.
+
+The overnight queue of 2026-09-13 showed what that misses. ep42 and ep39 both have a
+speaker the reference cannot see -- Zikri Kamarulzaman at 14.2% of raw's words against 0.0%
+of camera time, Iqbal at 5.3% against 0.0%. Step 4b refused and printed its refusal. The
+script then ran steps 5 to 8 and wrote both candidate raws anyway. Traced afterwards by
+locating every old guest block in the new file: 16 of ep42's 74 Zikri blocks came back
+under a host, including his own introduction, `bagi yang tak kenal saya, saya Zikri`, as
+Rafizi. Both adoptions were reverted by hand before any commit.
+
+**The gate now runs before step 1**, with `--force-blind-reference` for the case where
+someone has read `data/camera_reference_limits.json` and knows why a reference is safe.
+Verified both ways: ep42 refused, ep40 passed.
+
+**The fix for a blind reference, in order:** `guest_gallery.py <tag>` names the face when
+the episode leaves no choice (one guest in the frontmatter, one cluster holding nearly all
+the unidentified talking time -- ep42 measured 97%), then
+`camera_speakers.py reference <vid> --gallery data/_face_gallery_<vid>.json`, then
+`check_camera_reference.py`, then adopt. ep39 cannot take that path: Iqbal is listed as a
+HOST, so the one-guest bijection does not apply, and two clusters talk. That one needs a
+census, a contact sheet and a person's eye.
+
