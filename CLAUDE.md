@@ -14,6 +14,32 @@ runbook, see [ATTRIBUTION_PASS.md](ATTRIBUTION_PASS.md).
 it has a fully diagnosed bug behind rule 7 (not a hypothetical) and the exact corpus
 state and running jobs at the point this file was written.**
 
+## Token efficiency, PARAMOUNT, but never at the cost of the standard above
+
+Be token-efficient. Do not sacrifice quality in any way to get there -- the two are
+not actually in tension, because the token cost that matters is reasoning and prose,
+not verification:
+
+- **Deterministic checker scripts are free in this economy.** `check_names.py`,
+  `check_figures.py`, `check_published.py`, `check_camera_reference.py`,
+  `check_owner_decisions.py`, `qa_check.py`, and every multi-pass loop rule 8 asks for
+  cost machine time, not conversation tokens. Never skip one of these, or a re-check
+  after a change, to save tokens -- that is not what is expensive.
+- **What is actually expensive:** re-deriving a fact this file, HANDOFF_2026-09-12.md,
+  git log, or memory already states; narrating exploration instead of stating the
+  conclusion with its evidence; verbose recaps of what was just done; sequential tool
+  calls where independent ones could run in parallel; open-ended research past the
+  point a specific ambiguity is resolved.
+- **Read before re-deriving.** `corpus_status.py` for live state, `git log` for an
+  episode's history, this file and HANDOFF_2026-09-12.md for standing rules -- check
+  these first; do not re-run a multi-minute investigation to reconstruct something
+  already written down.
+- **Still do every check in the eight standards below, every time, in full.** "Token
+  efficient" describes how the work gets reported and reasoned about, never which
+  verification passes get run. A rule from the eight standards being expensive to
+  enforce is not a reason to skip it -- it is a reason to say so and fix the checker,
+  the same as rule 2's and rule 7's gaps above.
+
 ## The eight standards
 
 ### 1. Every spoken name is spelled correctly
