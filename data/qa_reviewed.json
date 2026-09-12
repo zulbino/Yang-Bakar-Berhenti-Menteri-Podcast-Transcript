@@ -1,125 +1,139 @@
 {
-  "_README": [
-    "Adjudicated QA verdicts, so a reviewed episode stays reviewed.",
-    "",
-    "qa_check.py regenerates QA_CHECKLIST.md from scratch on every run, which means",
-    "its checkboxes cannot hold review state -- tick one and the next run erases it.",
-    "Without this file, every session re-discovers and re-investigates the same",
-    "already-adjudicated episodes. That is what kept the flagged count stuck at",
-    "14-16 while real work was being done.",
-    "",
-    "Keys are episode slugs. Under each, a signature name maps to a verdict.",
-    "Signature names match the `signature` argument in qa_check.py's issue() calls:",
-    "  wall-of-text, drift, content-loss, duplicates, backward-jump, truncated,",
-    "  coverage, round-timestamps, weak-model, language, split-timestamp,",
-    "  leaked-reasoning, repetition-loop, short-loop, missing-file",
-    "",
-    "verdict: \"benign\" moves the issue out of the flagged list into a separate",
-    "'Reviewed, judged benign' section. Any other verdict (or no entry) leaves it",
-    "flagged. Always record a reason and a date -- a suppression with no rationale",
-    "is worse than no suppression.",
-    "",
-    "Re-flag by deleting the entry. If an episode is reprocessed and its content",
-    "changes, delete its entries so the new output gets judged fresh.",
-    "",
-    "WITHDRAWN 2026-08-28 -- the wall-of-text waivers on ep41/ep43/ep44/ep58, and ep44's",
-    "coverage waiver. All rested on one claim: 'the giant block carries a single speaker",
-    "label, so it is one real long monologue.' That is circular. A collapsed diarization",
-    "cluster produces exactly one label across the whole block, so the label count cannot",
-    "witness its own correctness. Reading those blocks found real co-host turns inside",
-    "them (ep58 'Devil's advocate sikit, YB'; ep43 'Kau rakyat jelata biasa?' answered by",
-    "'Saya rakyat jelita biasa lah'). The size trigger now lives in the separate",
-    "'oversized-block' signature, which does not consult the label count.",
-    "",
-    "Waiving an issue needs evidence INDEPENDENT of the artefact under suspicion. Audio,",
-    "or dialogue content, or the roster -- not the label whose correctness is the question."
-  ],
-  "2025-10-10-ep17-yang-berhenti-menteri-episod-17-belanjawan-2026-janji-fam": {
-    "drift": {
-      "verdict": "benign",
-      "reason": "Isolated false phrase-lock, not mistiming. 10 of ep17's 11 matched samples sit within -21s; the single -958s outlier is a 124-char block whose head words score equally badly at the claimed and matched positions (2/10 both), so the match barely cleared MIN_MATCHING_WORDS and locked onto a coincidence. Block [7323s] independently maps to audio at 7441s (p10 7341, p90 7535) by 4-gram origin mapping, and the caption coverage map shows no near-zero run anywhere in the episode. See ENGINEERING_LOG.md 1.23.",
-      "date": "2026-08-27"
-    }
-  },
-  "2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21": {
-    "drift": {
-      "verdict": "benign",
-      "reason": "Isolated false phrase-lock, same as ep17. Only 3 of 12 samples match at all because ep21's YouTube captions run at about half normal word density (8,182 caption words over 9,574s), which is also why check_caption_coverage.py reports it inconclusive. Two of the three matched samples are tight (-33s, -36s); the +976s outlier is contradicted by 4-gram origin mapping, which puts block [7574] at audio 7596-7669s (correctly positioned) and its neighbour [7832] at 7841s. See ENGINEERING_LOG.md 1.23.",
-      "date": "2026-08-27"
-    }
-  },
-  "2026-02-20-ep36-2-5b-jv-1-1b-tuduhan-caprice-akan-disaman-kita-jawab-satu-sa": {
-    "oversized-block": {
-      "verdict": "benign",
-      "reason": "Genuine Rafizi monologue. TWO independent lines of evidence, neither of them the block's own label -- that was the circular error withdrawn on 2026-08-28. (1) Content: the 22.6-min block at [1:46:50] contains ZERO co-host markers across all of it. The four signatures present in every confirmed-mixed block are absent: no run-sheet clock reading (\"2 jam 40 minit\"), no segment hand-off, no question addressed to YB, no second-person address. It reads as sustained first-person self-defence, opening \"naya lah semua menteri dituduh salah guna kuasa\" and closing \"ini doa akulah kan. Aku tak nak mati\". WITHDRAWN 2026-08-28 (line 2 only): the acoustic half of this waiver used to say \"pyannote re-ran with an exact speaker count and left this block whole\". That is no longer evidence of anything -- setting num_speakers makes pyannote IGNORE clustering.threshold and solve for the cut height instead, so declining to split under a count hint says nothing about whether the block is one voice (ENGINEERING_LOG 1.36). The waiver now rests on content alone. Re-flag by deleting this entry if the episode is ever re-transcribed. Re-tested 2026-08-28 with scripts/cohost_candidates.py, which locates YB vocatives and run-sheet phrases by caption word-timing rather than by reading the block: this block returns ONE hit, \"seterusnya dia menjadi perdana menteri\", where seterusnya is an ordinary adverb and not a hand-off -- a false positive. Compare ep47, whose two same-length blocks return 15 and 10 hits and which the video then confirmed collapsed. This episode has exactly ONE block over the threshold, so this waiver covers all of them -- qa_check waives per SIGNATURE, not per block, which is how ep27's waiver for its [1:29:28] block silenced a second 21-minute block at [43:51] that the video then showed holds a co-host.",
-      "date": "2026-08-28"
-    }
-  },
-  "2026-06-05-ep51-so-it-begins-prn-johor-n9-tiada-madani-bagimu-ybm-51": {
-    "oversized-block": {
-      "verdict": "benign",
-      "reason": "Genuine Rafizi monologue. TWO independent lines of evidence, neither of them the block's own label -- that was the circular error withdrawn on 2026-08-28. (1) Content: the 20.9-min block at [17:02] contains ZERO co-host markers across all of it. The four signatures present in every confirmed-mixed block are absent: no run-sheet clock reading (\"2 jam 40 minit\"), no segment hand-off, no question addressed to YB, no second-person address. It reads as sustained policy exposition, \"bila saya jadi menteri ekonomi, tugas yang pertama ialah...\", running to JS-SEZ customs harmonisation. WITHDRAWN 2026-08-28 (line 2 only): the acoustic half of this waiver used to say \"pyannote re-ran with an exact speaker count and left this block whole\". That is no longer evidence of anything -- setting num_speakers makes pyannote IGNORE clustering.threshold and solve for the cut height instead, so declining to split under a count hint says nothing about whether the block is one voice (ENGINEERING_LOG 1.36). The waiver now rests on content alone. Re-flag by deleting this entry if the episode is ever re-transcribed. Re-tested 2026-08-28 with scripts/cohost_candidates.py, which locates YB vocatives and run-sheet phrases by caption word-timing rather than by reading the block: this block returns ZERO hits across 1,790 words. Compare ep47, whose two same-length blocks return 15 and 10 hits and which the video then confirmed collapsed. This episode has exactly ONE block over the threshold, so this waiver covers all of them -- qa_check waives per SIGNATURE, not per block, which is how ep27's waiver for its [1:29:28] block silenced a second 21-minute block at [43:51] that the video then showed holds a co-host.",
-      "date": "2026-08-28"
-    }
-  },
-  "2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak": {
-    "unlabelled-host": {
-      "verdict": "benign",
-      "reason": "The flag's premise is that the person's turns are sitting inside another speaker's blocks. Here there is no evidence he SPOKE at all, so there are no turns to recover. He stays on hosts: because that field records who took part, not who holds a label (scripts/rebuild_roster.py). Evidence, none of it the transcript's own labels: (1) Every textual trace of Farhan in ep39 is THIRD-PERSON, not a hand-off to him. \"Ini salah Farhan dan Tim\" at [20:38] blames him for a slide, which is his producer role rather than speech, and \"apa nama ni Farhan sebut tadi\" at 43:57 refers back to something without locating it. (2) Video: frames at both seconds, padded either side, show Rafizi and the guest Iqbal and no Farhan (scripts/frames_at.py, ENGINEERING_LOG 1.35). (3) The caption track's 16,563 word-timings contain no other mention of Pa'an or Farhan to check. Note ep39 lists Iqbal under hosts although the episode introduces him as invited (\"kita ada saudara Iqbal. Kenapa kita jemput Iqbal?\"); he holds 48 labels of his own and is a separate person from Farhan (Pa'an). A prior note claiming a speaker called \"Farhan Iqbal\" is wrong -- that string appears nowhere in the corpus."
-    }
-  },
-  "2026-07-17-ep55-apa-jadi-prn-johor-kenapa-tak-masuk-prn-negeri-sembilan-ybm-": {
-    "unlabelled-host": {
-      "verdict": "benign",
-      "reason": "The flag's premise is that the person's turns are sitting inside another speaker's blocks. Here there is no evidence he SPOKE at all, so there are no turns to recover. He stays on hosts: because that field records who took part, not who holds a label (scripts/rebuild_roster.py). Evidence, none of it the transcript's own labels: (1) ep55's only mention is third-person and sits inside another speaker's turn at [2:41:57]: \"Pa'an yang takut. Pa'an yang takut dah.\" Nobody hands over to him. (2) The caption track's 19,027 word-timings contain ZERO mentions of Pa'an or Farhan, so there is no second anywhere in the episode to point a camera at. (3) ep55 has already been re-cut at turn level and its clusters were named from video and word-overlap; Haziq came out with 82 labels and no further voice appeared. Re-flag by deleting this entry if a Farhan turn is ever identified."
-    }
-  },
-  "2026-03-27-ep41-siapa-mr-r-bukti-40-muka-surat-tindak-balas-kerajaan-susulan": {
-    "oversized-block": {
-      "verdict": "benign",
-      "reason": "Genuine Rafizi monologue: a sustained presentation segment. THREE independent lines of evidence, none of them the block's own label. (1) Content: the 20.3-min block at [35:40] contains ZERO co-host markers across 1,829 words -- no YB vocative, no run-sheet hand-off (scripts/cohost_candidates.py). That is the same signature as ep51's waived block, and the opposite of ep47's two 24-min blocks, which returned 15 and 10 hits and which the video then confirmed collapsed. (2) Acoustic, using the dial that actually works: clustering.threshold=0.55 with no speaker count split THIS EPISODE's other three oversized blocks (49, 39 and 28 min) down to 140 turns and recovered Haziq, who was not even on the roster -- and declined to split this one. The method demonstrably works on this exact audio and still left this block whole. Note this is a stronger claim than the acoustic line withdrawn from ep27/ep36/ep51 on 2026-08-28, which relied on num_speakers; a speaker count makes pyannote IGNORE the threshold, so declining under a count hint meant nothing (ENGINEERING_LOG 1.36). (3) Video: frames at 38:00, 45:00 and 52:00, spread across the block and padded either side, show Rafizi ALONE in a close single shot with his mouth open in all 15 frames, with no cut and a persistent 'KRONOLOGI 40 MUKA SURAT' QR overlay (ENGINEERING_LOG 1.35). Re-flag by deleting this entry if the episode is ever re-transcribed."
-    }
-  },
-  "2026-03-06-ep38-sprm-cari-james-chai-tangan-tangan-ghaib-berkaitan-zionis-yb": {
-    "duplicate-turn": {
-      "verdict": "benign",
-      "reason": "Not a chunk artefact: raw.md contains BOTH lines, three seconds apart -- `[2:42:13] Rafizi: Malaysia ni untuk Azam Baki aje.` and `[2:42:16] Rafizi: Malaysia ni untuk Azam Baki sahaja.` The speaker restated himself, and interview.md keeps the two wordings distinct. Only interview-en.md looks duplicated, because `aje` and `sahaja` both translate to `only` -- a faithful translation, not a repeated turn."
-    }
-  },
-  "2025-08-29-ep11-yang-berhenti-menteri-episod-11-merdeka-dahulu-merdeka-sekar": {
-    "duplicate-turn": {
-      "verdict": "benign",
-      "reason": "A translation collapse, not a duplicated turn. interview.md carries two DIFFERENT lines (`Wah, pengalaman you pun lain sikit juga.` and `Wah, binik pengalaman you pun lain sikit juga.`) and raw.md grounds two separate `pengalaman you` utterances, at [07:24] and later. interview-ms.md renders both with the same wording. The content is sourced; only the Malay rendering loses the distinguishing word."
-    }
-  },
-  "2025-05-10-ep00-podcast-yang-berhenti-menteri": {
-    "raw-unnamed-speaker": {
-      "verdict": "benign",
-      "reason": "ep00 is a STAGE event, not a studio recording -- its own description says the podcast was \"dibawa keluar daripada studio ke tempat umum dan terbuka kepada orang ramai\", and the owner confirms a sizeable live audience. So `Audience` is the accurate collective label for who spoke, not a placeholder standing in for a name that exists somewhere. Individual identification is not meaningful for a room, and there is no roster of attendees to check against. Content of all 8 turns: five are floor noise with no speaker to name (\"Hahaha\", \"Reformasi! Reformasi!\", \"Relax, relax\", \"Tak marah, nak tanya soalan\", \"Saya boleh lihat.\"), one is a question with no self-introduction, and two DO state their own names ([1:51:02] \"Saya Hakim daripada Tangga Batu Melaka\" and [1:58:02] \"Nama saya Rashidi bin Haji Bandar Ahmad\"). Those two were deliberately NOT promoted to labels: they are private citizens rather than public figures, their self-introductions already sit in the body text where they said them so the reader loses nothing, and a label turns a spoken aside into greppable structured metadata. Decision by the owner, 2026-08-29. `interview-ms.md`'s `Hadirin` is the correct Malay translation of `Audience`, which is the same translated-role-label shape that took label-mismatch from 25 episodes to 2 -- not drift."
-    },
-    "generic-label": {
-      "verdict": "benign",
-      "reason": "ep00 is a STAGE event, not a studio recording -- its own description says the podcast was \"dibawa keluar daripada studio ke tempat umum dan terbuka kepada orang ramai\", and the owner confirms a sizeable live audience. So `Audience` is the accurate collective label for who spoke, not a placeholder standing in for a name that exists somewhere. Individual identification is not meaningful for a room, and there is no roster of attendees to check against. Content of all 8 turns: five are floor noise with no speaker to name (\"Hahaha\", \"Reformasi! Reformasi!\", \"Relax, relax\", \"Tak marah, nak tanya soalan\", \"Saya boleh lihat.\"), one is a question with no self-introduction, and two DO state their own names ([1:51:02] \"Saya Hakim daripada Tangga Batu Melaka\" and [1:58:02] \"Nama saya Rashidi bin Haji Bandar Ahmad\"). Those two were deliberately NOT promoted to labels: they are private citizens rather than public figures, their self-introductions already sit in the body text where they said them so the reader loses nothing, and a label turns a spoken aside into greppable structured metadata. Decision by the owner, 2026-08-29. `interview-ms.md`'s `Hadirin` is the correct Malay translation of `Audience`, which is the same translated-role-label shape that took label-mismatch from 25 episodes to 2 -- not drift."
-    }
-  },
-  "2025-10-24-ep19-yang-berhenti-menteri-episod-19": {
-    "unlabelled-host": {
-      "verdict": "benign",
-      "reason": "Farhan holds no SOLO turn in ep19 and correctly so. The owner identified him by ear at [2:24:55], speaking the name 'Mahdzir Khalid' TOGETHER with Rafizi, so the honest label for that turn is `Multiple speakers` -- naming it Farhan would drop Rafizi, and naming it Rafizi would drop Farhan. He is on hosts: via rebuild_roster.PRESENT_UNLABELLED because that field records who took part, not who holds a label. Stronger than the ep39 and ep55 waivers of this same flag, which rest on 'no evidence he spoke at all': here there IS evidence he spoke, and it is already in the transcript under a shared label. Note the structural tension: EVERY PRESENT_UNLABELLED entry trips this check by construction, since one adds a roster name raw.md has no label for and the other flags exactly that.",
-      "date": "2026-08-29"
-    }
-  },
-  "2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-": {
-    "unsourced-name": {
-      "verdict": "benign",
-      "reason": "Legitimate full-name expansion, not an invention. raw says `Izzah` three times and never `Nurul`; published writes `Nurul Izzah` once and `Izzah` thereafter, which is the same person and the correct name. Verified by reading the passage: 'position himself sebagai the natural successor kepada Datuk Seri Anwar lah, selain daripada Nurul Izzah. Sebab itu dia jadi sangat rapat dengan Izzah'. Contrast the four real fabrications, where raw contains no form of the published name at all.",
-      "date": "2026-08-29"
-    }
-  },
-  "2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62": {
-    "oversized-block": {
-      "verdict": "benign",
-      "reason": "MEASURED, not read. The flag asks for the block to be read before waiving and warns that one label is not proof of one person, so this was answered with the per-block voiceprint test rather than by eye: 26 blocks of the cluster holding this one score mean +0.837 against the Rafizi reference with sd 0.038, and low spread is the tool's own criterion for a single voice. The runner-up is Haziq at +0.619, a gap of 0.218. ep62 is a 3h55m FELDA expose in which Rafizi reads through a white paper page by page, so one speaker legitimately holds 219.1 of 234.5 minutes. Blocks were already re-cut once with reattribute_blocks --threshold=0.55 (53 -> 184 turns, surfacing Haziq and Farhan), so this 20-minute block is what survives a re-cut, not an un-attempted collapse. Pushing the threshold to 0.45 is the wrong trade: on ep58 it took the top cluster to 77% but shattered the co-host across three clusters and made him unnameable."
-    }
+ "_README": [
+  "Adjudicated QA verdicts, so a reviewed episode stays reviewed.",
+  "",
+  "qa_check.py regenerates QA_CHECKLIST.md from scratch on every run, which means",
+  "its checkboxes cannot hold review state -- tick one and the next run erases it.",
+  "Without this file, every session re-discovers and re-investigates the same",
+  "already-adjudicated episodes. That is what kept the flagged count stuck at",
+  "14-16 while real work was being done.",
+  "",
+  "Keys are episode slugs. Under each, a signature name maps to a verdict.",
+  "Signature names match the `signature` argument in qa_check.py's issue() calls:",
+  "  wall-of-text, drift, content-loss, duplicates, backward-jump, truncated,",
+  "  coverage, round-timestamps, weak-model, language, split-timestamp,",
+  "  leaked-reasoning, repetition-loop, short-loop, missing-file",
+  "",
+  "verdict: \"benign\" moves the issue out of the flagged list into a separate",
+  "'Reviewed, judged benign' section. Any other verdict (or no entry) leaves it",
+  "flagged. Always record a reason and a date -- a suppression with no rationale",
+  "is worse than no suppression.",
+  "",
+  "Re-flag by deleting the entry. If an episode is reprocessed and its content",
+  "changes, delete its entries so the new output gets judged fresh.",
+  "",
+  "WITHDRAWN 2026-08-28 -- the wall-of-text waivers on ep41/ep43/ep44/ep58, and ep44's",
+  "coverage waiver. All rested on one claim: 'the giant block carries a single speaker",
+  "label, so it is one real long monologue.' That is circular. A collapsed diarization",
+  "cluster produces exactly one label across the whole block, so the label count cannot",
+  "witness its own correctness. Reading those blocks found real co-host turns inside",
+  "them (ep58 'Devil's advocate sikit, YB'; ep43 'Kau rakyat jelata biasa?' answered by",
+  "'Saya rakyat jelita biasa lah'). The size trigger now lives in the separate",
+  "'oversized-block' signature, which does not consult the label count.",
+  "",
+  "Waiving an issue needs evidence INDEPENDENT of the artefact under suspicion. Audio,",
+  "or dialogue content, or the roster -- not the label whose correctness is the question."
+ ],
+ "2025-10-10-ep17-yang-berhenti-menteri-episod-17-belanjawan-2026-janji-fam": {
+  "drift": {
+   "verdict": "benign",
+   "reason": "Isolated false phrase-lock, not mistiming. 10 of ep17's 11 matched samples sit within -21s; the single -958s outlier is a 124-char block whose head words score equally badly at the claimed and matched positions (2/10 both), so the match barely cleared MIN_MATCHING_WORDS and locked onto a coincidence. Block [7323s] independently maps to audio at 7441s (p10 7341, p90 7535) by 4-gram origin mapping, and the caption coverage map shows no near-zero run anywhere in the episode. See ENGINEERING_LOG.md 1.23.",
+   "date": "2026-08-27"
   }
+ },
+ "2025-11-07-ep21-rafizi-jawab-zafrul-isu-art-krisis-bersatu-ybm-ep-21": {
+  "drift": {
+   "verdict": "benign",
+   "reason": "Isolated false phrase-lock, same as ep17. Only 3 of 12 samples match at all because ep21's YouTube captions run at about half normal word density (8,182 caption words over 9,574s), which is also why check_caption_coverage.py reports it inconclusive. Two of the three matched samples are tight (-33s, -36s); the +976s outlier is contradicted by 4-gram origin mapping, which puts block [7574] at audio 7596-7669s (correctly positioned) and its neighbour [7832] at 7841s. See ENGINEERING_LOG.md 1.23.",
+   "date": "2026-08-27"
+  }
+ },
+ "2026-02-20-ep36-2-5b-jv-1-1b-tuduhan-caprice-akan-disaman-kita-jawab-satu-sa": {
+  "oversized-block": {
+   "verdict": "benign",
+   "reason": "Genuine Rafizi monologue. TWO independent lines of evidence, neither of them the block's own label -- that was the circular error withdrawn on 2026-08-28. (1) Content: the 22.6-min block at [1:46:50] contains ZERO co-host markers across all of it. The four signatures present in every confirmed-mixed block are absent: no run-sheet clock reading (\"2 jam 40 minit\"), no segment hand-off, no question addressed to YB, no second-person address. It reads as sustained first-person self-defence, opening \"naya lah semua menteri dituduh salah guna kuasa\" and closing \"ini doa akulah kan. Aku tak nak mati\". WITHDRAWN 2026-08-28 (line 2 only): the acoustic half of this waiver used to say \"pyannote re-ran with an exact speaker count and left this block whole\". That is no longer evidence of anything -- setting num_speakers makes pyannote IGNORE clustering.threshold and solve for the cut height instead, so declining to split under a count hint says nothing about whether the block is one voice (ENGINEERING_LOG 1.36). The waiver now rests on content alone. Re-flag by deleting this entry if the episode is ever re-transcribed. Re-tested 2026-08-28 with scripts/cohost_candidates.py, which locates YB vocatives and run-sheet phrases by caption word-timing rather than by reading the block: this block returns ONE hit, \"seterusnya dia menjadi perdana menteri\", where seterusnya is an ordinary adverb and not a hand-off -- a false positive. Compare ep47, whose two same-length blocks return 15 and 10 hits and which the video then confirmed collapsed. This episode has exactly ONE block over the threshold, so this waiver covers all of them -- qa_check waives per SIGNATURE, not per block, which is how ep27's waiver for its [1:29:28] block silenced a second 21-minute block at [43:51] that the video then showed holds a co-host.",
+   "date": "2026-08-28"
+  }
+ },
+ "2026-06-05-ep51-so-it-begins-prn-johor-n9-tiada-madani-bagimu-ybm-51": {
+  "oversized-block": {
+   "verdict": "benign",
+   "reason": "Genuine Rafizi monologue. TWO independent lines of evidence, neither of them the block's own label -- that was the circular error withdrawn on 2026-08-28. (1) Content: the 20.9-min block at [17:02] contains ZERO co-host markers across all of it. The four signatures present in every confirmed-mixed block are absent: no run-sheet clock reading (\"2 jam 40 minit\"), no segment hand-off, no question addressed to YB, no second-person address. It reads as sustained policy exposition, \"bila saya jadi menteri ekonomi, tugas yang pertama ialah...\", running to JS-SEZ customs harmonisation. WITHDRAWN 2026-08-28 (line 2 only): the acoustic half of this waiver used to say \"pyannote re-ran with an exact speaker count and left this block whole\". That is no longer evidence of anything -- setting num_speakers makes pyannote IGNORE clustering.threshold and solve for the cut height instead, so declining to split under a count hint says nothing about whether the block is one voice (ENGINEERING_LOG 1.36). The waiver now rests on content alone. Re-flag by deleting this entry if the episode is ever re-transcribed. Re-tested 2026-08-28 with scripts/cohost_candidates.py, which locates YB vocatives and run-sheet phrases by caption word-timing rather than by reading the block: this block returns ZERO hits across 1,790 words. Compare ep47, whose two same-length blocks return 15 and 10 hits and which the video then confirmed collapsed. This episode has exactly ONE block over the threshold, so this waiver covers all of them -- qa_check waives per SIGNATURE, not per block, which is how ep27's waiver for its [1:29:28] block silenced a second 21-minute block at [43:51] that the video then showed holds a co-host.",
+   "date": "2026-08-28"
+  }
+ },
+ "2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak": {
+  "unlabelled-host": {
+   "verdict": "benign",
+   "reason": "The flag's premise is that the person's turns are sitting inside another speaker's blocks. Here there is no evidence he SPOKE at all, so there are no turns to recover. He stays on hosts: because that field records who took part, not who holds a label (scripts/rebuild_roster.py). Evidence, none of it the transcript's own labels: (1) Every textual trace of Farhan in ep39 is THIRD-PERSON, not a hand-off to him. \"Ini salah Farhan dan Tim\" at [20:38] blames him for a slide, which is his producer role rather than speech, and \"apa nama ni Farhan sebut tadi\" at 43:57 refers back to something without locating it. (2) Video: frames at both seconds, padded either side, show Rafizi and the guest Iqbal and no Farhan (scripts/frames_at.py, ENGINEERING_LOG 1.35). (3) The caption track's 16,563 word-timings contain no other mention of Pa'an or Farhan to check. Note ep39 lists Iqbal under hosts although the episode introduces him as invited (\"kita ada saudara Iqbal. Kenapa kita jemput Iqbal?\"); he holds 48 labels of his own and is a separate person from Farhan (Pa'an). A prior note claiming a speaker called \"Farhan Iqbal\" is wrong -- that string appears nowhere in the corpus."
+  }
+ },
+ "2026-07-17-ep55-apa-jadi-prn-johor-kenapa-tak-masuk-prn-negeri-sembilan-ybm-": {
+  "unlabelled-host": {
+   "verdict": "benign",
+   "reason": "The flag's premise is that the person's turns are sitting inside another speaker's blocks. Here there is no evidence he SPOKE at all, so there are no turns to recover. He stays on hosts: because that field records who took part, not who holds a label (scripts/rebuild_roster.py). Evidence, none of it the transcript's own labels: (1) ep55's only mention is third-person and sits inside another speaker's turn at [2:41:57]: \"Pa'an yang takut. Pa'an yang takut dah.\" Nobody hands over to him. (2) The caption track's 19,027 word-timings contain ZERO mentions of Pa'an or Farhan, so there is no second anywhere in the episode to point a camera at. (3) ep55 has already been re-cut at turn level and its clusters were named from video and word-overlap; Haziq came out with 82 labels and no further voice appeared. Re-flag by deleting this entry if a Farhan turn is ever identified."
+  }
+ },
+ "2026-03-27-ep41-siapa-mr-r-bukti-40-muka-surat-tindak-balas-kerajaan-susulan": {
+  "oversized-block": {
+   "verdict": "benign",
+   "reason": "Genuine Rafizi monologue: a sustained presentation segment. THREE independent lines of evidence, none of them the block's own label. (1) Content: the 20.3-min block at [35:40] contains ZERO co-host markers across 1,829 words -- no YB vocative, no run-sheet hand-off (scripts/cohost_candidates.py). That is the same signature as ep51's waived block, and the opposite of ep47's two 24-min blocks, which returned 15 and 10 hits and which the video then confirmed collapsed. (2) Acoustic, using the dial that actually works: clustering.threshold=0.55 with no speaker count split THIS EPISODE's other three oversized blocks (49, 39 and 28 min) down to 140 turns and recovered Haziq, who was not even on the roster -- and declined to split this one. The method demonstrably works on this exact audio and still left this block whole. Note this is a stronger claim than the acoustic line withdrawn from ep27/ep36/ep51 on 2026-08-28, which relied on num_speakers; a speaker count makes pyannote IGNORE the threshold, so declining under a count hint meant nothing (ENGINEERING_LOG 1.36). (3) Video: frames at 38:00, 45:00 and 52:00, spread across the block and padded either side, show Rafizi ALONE in a close single shot with his mouth open in all 15 frames, with no cut and a persistent 'KRONOLOGI 40 MUKA SURAT' QR overlay (ENGINEERING_LOG 1.35). Re-flag by deleting this entry if the episode is ever re-transcribed."
+  }
+ },
+ "2026-03-06-ep38-sprm-cari-james-chai-tangan-tangan-ghaib-berkaitan-zionis-yb": {
+  "duplicate-turn": {
+   "verdict": "benign",
+   "reason": "Not a chunk artefact: raw.md contains BOTH lines, three seconds apart -- `[2:42:13] Rafizi: Malaysia ni untuk Azam Baki aje.` and `[2:42:16] Rafizi: Malaysia ni untuk Azam Baki sahaja.` The speaker restated himself, and interview.md keeps the two wordings distinct. Only interview-en.md looks duplicated, because `aje` and `sahaja` both translate to `only` -- a faithful translation, not a repeated turn."
+  }
+ },
+ "2025-08-29-ep11-yang-berhenti-menteri-episod-11-merdeka-dahulu-merdeka-sekar": {
+  "duplicate-turn": {
+   "verdict": "benign",
+   "reason": "A translation collapse, not a duplicated turn. interview.md carries two DIFFERENT lines (`Wah, pengalaman you pun lain sikit juga.` and `Wah, binik pengalaman you pun lain sikit juga.`) and raw.md grounds two separate `pengalaman you` utterances, at [07:24] and later. interview-ms.md renders both with the same wording. The content is sourced; only the Malay rendering loses the distinguishing word."
+  }
+ },
+ "2025-05-10-ep00-podcast-yang-berhenti-menteri": {
+  "raw-unnamed-speaker": {
+   "verdict": "benign",
+   "reason": "ep00 is a STAGE event, not a studio recording -- its own description says the podcast was \"dibawa keluar daripada studio ke tempat umum dan terbuka kepada orang ramai\", and the owner confirms a sizeable live audience. So `Audience` is the accurate collective label for who spoke, not a placeholder standing in for a name that exists somewhere. Individual identification is not meaningful for a room, and there is no roster of attendees to check against. Content of all 8 turns: five are floor noise with no speaker to name (\"Hahaha\", \"Reformasi! Reformasi!\", \"Relax, relax\", \"Tak marah, nak tanya soalan\", \"Saya boleh lihat.\"), one is a question with no self-introduction, and two DO state their own names ([1:51:02] \"Saya Hakim daripada Tangga Batu Melaka\" and [1:58:02] \"Nama saya Rashidi bin Haji Bandar Ahmad\"). Those two were deliberately NOT promoted to labels: they are private citizens rather than public figures, their self-introductions already sit in the body text where they said them so the reader loses nothing, and a label turns a spoken aside into greppable structured metadata. Decision by the owner, 2026-08-29. `interview-ms.md`'s `Hadirin` is the correct Malay translation of `Audience`, which is the same translated-role-label shape that took label-mismatch from 25 episodes to 2 -- not drift."
+  },
+  "generic-label": {
+   "verdict": "benign",
+   "reason": "ep00 is a STAGE event, not a studio recording -- its own description says the podcast was \"dibawa keluar daripada studio ke tempat umum dan terbuka kepada orang ramai\", and the owner confirms a sizeable live audience. So `Audience` is the accurate collective label for who spoke, not a placeholder standing in for a name that exists somewhere. Individual identification is not meaningful for a room, and there is no roster of attendees to check against. Content of all 8 turns: five are floor noise with no speaker to name (\"Hahaha\", \"Reformasi! Reformasi!\", \"Relax, relax\", \"Tak marah, nak tanya soalan\", \"Saya boleh lihat.\"), one is a question with no self-introduction, and two DO state their own names ([1:51:02] \"Saya Hakim daripada Tangga Batu Melaka\" and [1:58:02] \"Nama saya Rashidi bin Haji Bandar Ahmad\"). Those two were deliberately NOT promoted to labels: they are private citizens rather than public figures, their self-introductions already sit in the body text where they said them so the reader loses nothing, and a label turns a spoken aside into greppable structured metadata. Decision by the owner, 2026-08-29. `interview-ms.md`'s `Hadirin` is the correct Malay translation of `Audience`, which is the same translated-role-label shape that took label-mismatch from 25 episodes to 2 -- not drift."
+  }
+ },
+ "2025-10-24-ep19-yang-berhenti-menteri-episod-19": {
+  "unlabelled-host": {
+   "verdict": "benign",
+   "reason": "Farhan holds no SOLO turn in ep19 and correctly so. The owner identified him by ear at [2:24:55], speaking the name 'Mahdzir Khalid' TOGETHER with Rafizi, so the honest label for that turn is `Multiple speakers` -- naming it Farhan would drop Rafizi, and naming it Rafizi would drop Farhan. He is on hosts: via rebuild_roster.PRESENT_UNLABELLED because that field records who took part, not who holds a label. Stronger than the ep39 and ep55 waivers of this same flag, which rest on 'no evidence he spoke at all': here there IS evidence he spoke, and it is already in the transcript under a shared label. Note the structural tension: EVERY PRESENT_UNLABELLED entry trips this check by construction, since one adds a roster name raw.md has no label for and the other flags exactly that.",
+   "date": "2026-08-29"
+  }
+ },
+ "2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-": {
+  "unsourced-name": {
+   "verdict": "benign",
+   "reason": "Legitimate full-name expansion, not an invention. raw says `Izzah` three times and never `Nurul`; published writes `Nurul Izzah` once and `Izzah` thereafter, which is the same person and the correct name. Verified by reading the passage: 'position himself sebagai the natural successor kepada Datuk Seri Anwar lah, selain daripada Nurul Izzah. Sebab itu dia jadi sangat rapat dengan Izzah'. Contrast the four real fabrications, where raw contains no form of the published name at all.",
+   "date": "2026-08-29"
+  }
+ },
+ "2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62": {
+  "oversized-block": {
+   "verdict": "benign",
+   "reason": "MEASURED, not read. The flag asks for the block to be read before waiving and warns that one label is not proof of one person, so this was answered with the per-block voiceprint test rather than by eye: 26 blocks of the cluster holding this one score mean +0.837 against the Rafizi reference with sd 0.038, and low spread is the tool's own criterion for a single voice. The runner-up is Haziq at +0.619, a gap of 0.218. ep62 is a 3h55m FELDA expose in which Rafizi reads through a white paper page by page, so one speaker legitimately holds 219.1 of 234.5 minutes. Blocks were already re-cut once with reattribute_blocks --threshold=0.55 (53 -> 184 turns, surfacing Haziq and Farhan), so this 20-minute block is what survives a re-cut, not an un-attempted collapse. Pushing the threshold to 0.45 is the wrong trade: on ep58 it took the top cluster to 77% but shattered the co-host across three clusters and made him unnameable."
+  }
+ },
+ "2026-01-09-ep30-2026-tahun-reformasi-akar-umbi-umno-bersuara-atm-di-serang-y": {
+  "garbled-agency": {
+   "verdict": "benign",
+   "reason": "THE SPEAKER SAID IT, so raw.md keeps it. `Suruhanjaya Lantikan Kehakiman` is missing the `Pe` of the agency's own `Suruhanjaya Pelantikan Kehakiman` (jac.gov.my), and the same corpus writes the full form in ep03, ep23 and ep37 -- but three independent witnesses all heard the short form here: local ASR (`Suruhanjaya Lantikan Kehakiman, JAC tahun 2009`), MAI (`uh, buat Suruhanjaya Lantikan Kehakiman JAC tahun 2009.` at 1551.4s) and the YouTube caption track (`Suruhanjaya Lantikan Kehakiman GAC tahun 2009`). The speaker's own preceding clause is `itu dalam lantikan hakim`, the same shortening, and he names JAC in the next breath, so the citation is not ambiguous to a reader. Rule 5 keeps a spoken word that carries meaning; rule 2 is about a name the ASR got wrong, and it did not. Not corrected in raw.md or the published files. https://www.jac.gov.my/en/commission/introduction",
+   "reviewed": "2026-09-12"
+  }
+ },
+ "2025-10-03-ep16-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v": {
+  "garbled-agency": {
+   "verdict": "benign",
+   "reason": "A FALSE POSITIVE, the one check_agencies.py keeps by design. raw.md reads `saya nak kena tanya kabarlah kepada pasukan di Kementerian Kerana kalau betul Mereka boleh melahirkan robot`: `kerana` is the ordinary Malay conjunction, capitalised by the ASR mid-sentence, and the sentence names no ministry at all. It scores 0.90 against `Kementerian Kewangan` on letters alone. Nothing to fix in the text; documented in ARCHITECTURE.md as the surviving false positive.",
+   "reviewed": "2026-09-12"
+  }
+ }
 }
