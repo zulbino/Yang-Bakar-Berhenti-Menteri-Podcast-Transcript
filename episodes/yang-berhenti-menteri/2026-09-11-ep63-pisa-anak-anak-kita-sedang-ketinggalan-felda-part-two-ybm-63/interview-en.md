@@ -36,6 +36,14 @@ model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 63 — PISA: Anak-anak Kita Sedang Ketinggalan? FELDA Part Two**  
+11 September 2026 · 2h 58m · [watch on YouTube](https://www.youtube.com/watch?v=GJyo38Kmyt8)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Assalamualaikum and greetings.
@@ -338,7 +346,7 @@ So in that sense, the FELDA story is actually much longer than what we've been h
 
 **Speaker ?:** A mini deer paper?
 
-**Rafizi:** No such thing. Ha, I don't think we're — I think we're not at that stage yet. Later that might not be a "mini deer paper," it'll become a "baby deer paper," even lower than that. Joe, what do you want to say before we finish?
+**Rafizi:** No such thing. Ha, I don't think we're — I think we're not at that stage yet. Later that might not be a "mini deer paper," it'll become a "YB deer paper," even lower than that. Joe, what do you want to say before we finish?
 
 **Sum Dek Joe:** No, it's fine.
 
