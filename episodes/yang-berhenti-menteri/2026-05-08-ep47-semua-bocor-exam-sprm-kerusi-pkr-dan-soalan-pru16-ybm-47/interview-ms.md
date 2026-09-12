@@ -34,6 +34,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 47 — Semua Bocor: Exam SPRM, Kerusi PKR, Dan Soalan PRU16**  
+8 May 2026 · 3h 0m · [watch on YouTube](https://www.youtube.com/watch?v=qSA4cx_U0Ao)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan selamat malam. Podcast Yang Berhenti Menteri episod ke-47 sudah. Waalaikumussalam. Macam biasa bersama saudara Rafizi Ramli. Yang sihat selepas menepuhi?
