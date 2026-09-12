@@ -31,16 +31,6 @@ and the reason is written next to the change.
 
 ## Owner rulings so far, 2026-09-12
 
-Corrections applied: ep63 1:58:44 (Haziq's opening clause was on the end of Rafizi's
-block), ep61 1:35:00 (`yang ditinggalkan tu.` was a separate Rafizi block), ep57 3:14:18
-(six words of one Haziq sentence were on Rafizi). Confirmed already correct: ep63 2:02:01,
-ep61 2:19:00, ep58 1:21:04, ep57 07:27. All recorded in
-`data/speaker_adjudications.json`.
-
-Still open and ruled but NOT yet applied: ep61 01:35 and 02:17, both inside the
-01:30-03:00 gold window. Those two need the window rebuilt from MAI's words first, because
-raw.md there is the old local transcript and is missing words the owner quotes.
-
 
 === ep63: 250 blocks, camera covers 9615s (Rafizi 86%, Sum Dek Joe 11%, Haziq 3%)
     0 contested, 0 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
@@ -73,13 +63,8 @@ raw.md there is the old local transcript and is missing words the owner quotes.
 === ep57: 275 blocks, camera covers 11839s (Rafizi 95%, Haziq 4%, Farhan 1%)
     0 contested, 2 attested by the camera, 2 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
 
-=== ep56: 199 blocks, camera covers 9450s (Rafizi 93%, Haziq 6%, Farhan 1%)
-    1 contested, 2 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
-
-  [37:13] Rafizi: yang ini lah kot, kan? Tak ada ah, aku pun aku lebih kepada yang Ni. yang ha. Ha, show off duit minyak. Ha, ke
-       the sentence starts in Haziq's block
-       camera 2233-2281s: Rafizi 39s, Haziq 3s  |  first 3s: nothing
-       https://youtu.be/nXMJ_FxwfjM?t=2227
+=== ep56: 201 blocks, camera covers 9450s (Rafizi 93%, Haziq 6%, Farhan 1%)
+    0 contested, 2 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
 
 === ep55: 289 blocks, camera covers 7527s (Rafizi 89%, Haziq 11%)
     0 contested, 1 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
@@ -91,17 +76,7 @@ raw.md there is the old local transcript and is missing words the owner quotes.
     0 contested, 0 attested by the camera, 2 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
 
 === ep52: 448 blocks, camera covers 8069s (Rafizi 89%, Haziq 9%, Farhan 2%)
-    2 contested, 1 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
-
-  [1:00:46] Zaim Zulkifli: pun like dia akan define your punya social hierarchy. Contoh kalau kau main game macam ni, kau macam mana? Kau
-       the sentence starts in Haziq's block
-       camera 3646-3659s: Haziq 1s  |  first 3s: nothing
-       https://youtu.be/UVCt0u6ub_c?t=3640
-
-  [1:03:49] Zaim Zulkifli: tak kat- nak kata tak tak tak reti malu, tapi dia dah very tak kisah. Macam kau walaupun kau tua, kau level-le
-       the sentence starts in Haziq's block
-       camera 3829-3838s: Haziq 1s  |  first 3s: nothing
-       https://youtu.be/UVCt0u6ub_c?t=3823
+    0 contested, 1 attested by the camera, 2 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
 
 === ep51: 168 blocks, camera covers 9190s (Rafizi 92%, Haziq 7%, Farhan 2%)
     0 contested, 3 attested by the camera, 0 settled by an owner decision, 0 camera-blind (fold_hanging_fragments.py's case)
@@ -159,4 +134,4 @@ ep43: SKIPPED -- raw.md is not the adopted MAI build, so its block stamps cannot
        camera 1367-1367s: Wong Chen 1s  |  first 3s: Wong Chen 2s, Rafizi 1s
        https://youtu.be/hI_cgYwwtqg?t=1361
 
-10 contested boundary/boundaries across 23 episode(s) -- rule 7's residue, for an ear, not a tool. 46 attested by the camera, 6 settled by an owner decision, 0 camera-blind.
+7 contested boundary/boundaries across 23 episode(s) -- rule 7's residue, for an ear, not a tool. 46 attested by the camera, 8 settled by an owner decision, 0 camera-blind.
