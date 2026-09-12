@@ -134,7 +134,22 @@ their own thought. Neither currently handles the boundary the user is describing
 a short block sandwiched between two DIFFERENT speakers, where the text is plausibly
 one continuous sentence.
 
-Proposed fix, not yet built: a third pass that looks specifically at this shape --
+**Detector built 2026-09-12, the fix still is not.** `check_overlap_boundaries.py`
+finds the shape and classifies it by the camera's read of the boundary seconds, then
+escalates what is left with a `?t=` link -- `data/rule7_contested_boundaries.md` is its
+corpus-wide output: 66 candidates across the 22 adopted episodes, 31 attested by the
+camera as real handovers, 35 contested and waiting for an ear. Two measurements changed
+the picture:
+
+- **The unit is a PAIR, not the A/B/A sandwich described below.** The sandwich occurs
+  once in the adopted corpus (ep48, 1:17:30); the pair occurs 66 times. MAI punctuates
+  the end of a phrase, so after `merge_same_speaker.py` the first speaker rarely resumes
+  in a third block.
+- **The verdict has to be taken at the boundary, not over the turn.** ep44's 1:21:26
+  reads `Rafizi 842s, Haziq 4s` across its whole window, which looks clean, and
+  `Haziq 2s, Rafizi 1s` across its first three seconds, which is the defect.
+
+Proposed fix, still not built: a third pass that looks specifically at this shape --
 block N-1 (speaker A, no terminal punctuation) / block N (speaker B, short, lowercase
 start) / block N+1 (speaker A again, continuing the same sentence). Use word-level
 camera confidence at the exact boundary seconds, not the block-level label: if the

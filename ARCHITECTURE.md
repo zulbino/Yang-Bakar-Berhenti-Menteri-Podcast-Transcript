@@ -1440,3 +1440,35 @@ Minister when he ran Agriculture.
 One false positive survives by design, ep16's `Kementerian Kerana` (the conjunction
 `kerana`, capitalised by the ASR). This is a review list, like `check_names.py`, not a
 gate -- 15 hits corpus-wide, small enough to read, and reading them is the point.
+
+## `check_overlap_boundaries.py`: rule 7's detector, and what it measures (2026-09-12)
+
+Rule 7 (overlapping speech never silently merged into the wrong speaker) had a proposed
+heuristic and no code. This is the detector half. It reports and never writes, because
+rule 7's own instruction for an indecisive margin is to mark and escalate.
+
+It reads each pair of adjacent blocks where the first ends without terminal punctuation
+and the second, under a different name, opens in lower case -- one sentence across two
+labels -- then reads the camera reference per second and judges AT THE BOUNDARY.
+
+Two things the first version got wrong, both fixed by measurement rather than argument:
+
+1. **The unit is a pair, not the A/B/A sandwich rule 7's prose describes.** Across the 22
+   adopted episodes the sandwich occurs once (ep48 at 1:17:30); the pair occurs 66 times.
+   MAI punctuates the end of a phrase, so after `merge_same_speaker.py` the first speaker
+   rarely resumes in a third block -- the torn sentence ends at the handover. The first
+   version, written to the sandwich shape, found 0 candidates in ep63 and reported clean.
+2. **The verdict is decided at the edge, not over the window.** ep44's 1:21:26 reads
+   `Rafizi 842s, Haziq 4s` over its whole window and `Haziq 2s, Rafizi 1s` over its first
+   three seconds. A long turn can be correctly labelled and still open with words that
+   belong to the previous speaker, which is exactly what rule 7 is about.
+
+Corpus-wide result: 66 candidates, 31 attested by the camera (real handovers -- the
+co-hosts do finish each other's sentences), 35 contested, 0 camera-blind. The contested
+list with `?t=` links is `data/rule7_contested_boundaries.md`.
+
+Two limits, both in the docstring. `check_camera_reference.py` is circular on an adopted
+raw, so the tool prints each speaker's share of camera seconds instead of gating on it --
+a speaker at 0.0% there makes every verdict worthless for that person's turns. And the
+boundary second comes from the block stamp, which only holds for an adopted MAI raw; the
+tool refuses any other raw rather than trusting a drifting clock.
