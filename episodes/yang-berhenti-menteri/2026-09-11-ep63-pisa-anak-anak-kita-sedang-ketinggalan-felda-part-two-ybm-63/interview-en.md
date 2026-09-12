@@ -11,7 +11,7 @@ hosts:
 - Rafizi Ramli
 - Haziq
 guests:
-- Joe
+- Sum Dek Joe
 topics:
 - 'Beria: kenyataan Hadi Awang pasal tawaran bantuan AS kepada PAS dan protokol diplomatik kedutaan'
 - 'Beria: skandal Tabung Haji dan mentaliti mangsa skim cepat kaya/Ponzi'

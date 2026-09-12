@@ -82,6 +82,14 @@ CORRECTIONS = [
      "Datuk Dr Asyraf Wajdi bin Dusuki, MARA chairman since March 2023 and UMNO Youth chief "
      "2018-2023. 33 occurrences in published files and 2 in raw. Two words, so it cannot "
      "touch anyone else named Ashraf."),
+    # ep60's guest, recurring in ep63. The show's own two episode descriptions disagree
+    # (ep60: "Sum Dek Jo", ep63: "Sum Dek Joe"), and his own X handle @sumdekjoe plus his
+    # academic publications (ANU Press, SSRN, AMRO, LinkedIn: "Dek Joe Sum") confirm "Joe".
+    (r"\bSum Dek Jo\b",
+     "Sum Dek Joe",
+     "Web-verified: X @sumdekjoe, published academically as Dek Joe Sum (ANU/AMRO/SSRN). "
+     "ep60's raw.md spells it without the final e throughout; ep63's own YouTube "
+     "description already has it right."),
     # --- ep62's FELDA chairman succession. The episode walks all five in order, and the
     # ASR garbled every one of them. Owner-confirmed, and each verified externally.
     (r"\bTansi\b",
