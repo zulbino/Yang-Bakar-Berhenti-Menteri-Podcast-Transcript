@@ -102,6 +102,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("tag")
     ap.add_argument("--write", action="store_true")
+    ap.add_argument("--force-blind-reference", action="store_true",
+                    help="adopt even though the camera reference cannot see a "
+                         "speaker raw.md credits with real word volume")
     ap.add_argument("--current", help="the raw.md the owner decisions were recorded against; "
                                       "defaults to the episode's committed raw.md")
     a = ap.parse_args()
@@ -120,6 +123,24 @@ def main():
         if code:
             sys.exit(f"cannot read the committed raw.md: {out.strip()[:200]}")
         io.open(current, "w", encoding="utf-8", newline="\n").write(out)
+
+    # THE CAST GATE RUNS BEFORE ANYTHING IS BUILT, and 2026-09-13 is why. It was wired
+    # only into step 4b, where fold_hanging_fragments.py refused correctly and said so --
+    # and this script carried on and wrote the candidate anyway. The overnight queue
+    # adopted ep42 and ep39 on references blind to a guest who really speaks (Zikri
+    # Kamarulzaman 14.2% of raw's words at 0.0% of camera time; Iqbal 5.3% at 0.0%), and 16
+    # of ep42's 74 Zikri blocks came back under a host -- including his own introduction,
+    # `bagi yang tak kenal saya, saya Zikri`, as Rafizi. Both had to be reverted by hand.
+    # A reference that cannot see a speaker must stop the adoption, not one step of it.
+    sys.path.insert(0, str(ROOT / "scripts"))
+    import check_camera_reference as ccr  # noqa: E402
+    if not ccr.check(a.tag, reference) and not a.force_blind_reference:
+        sys.exit(f"{a.tag}: REFUSING to adopt. The camera reference is blind to a speaker "
+                 f"raw.md says holds real word volume, so that person's words get handed to "
+                 f"the nearest gallery member. Enrol them first (the face-census / "
+                 f"label-census / gallery subcommands of camera_speakers.py), or pass "
+                 f"--force-blind-reference if you have read data/camera_reference_limits.json "
+                 f"and know why this one is safe.")
 
     candidate = ROOT / "data" / f"_{a.tag}_candidate_raw.md"
     print(f"[1/8] build from MAI words + the camera, fallback and gold from {current.name}")
