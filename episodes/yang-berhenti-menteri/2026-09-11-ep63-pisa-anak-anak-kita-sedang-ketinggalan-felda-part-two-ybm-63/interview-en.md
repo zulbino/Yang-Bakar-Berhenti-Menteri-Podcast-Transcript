@@ -39,6 +39,14 @@ model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 63 — PISA: Anak-anak Kita Sedang Ketinggalan? FELDA Part Two**  
+11 September 2026 · 2h 58m · [watch on YouTube](https://www.youtube.com/watch?v=GJyo38Kmyt8)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Assalamualaikum and greetings.
@@ -243,7 +251,7 @@ So that's one issue. Another structural issue is, for example, the indebtedness 
 
 So there are many floating accusations and floating, unverified opinions. If you ask people who are anti-FELDA, anti-FELDA settlers will say the debt is actually because FELDA's costs are too high. Planting costs are high, and there's a lot of corruption underneath. Through these FELDA contracts, certain people are actually profiting from the hardship of FELDA people. That's one view that's existed since I first got into politics. But if you ask FELDA or officials, they'll say no, that's not an issue. Because actually replanting isn't expensive, it's comparable. But because of other costs, we have to give advances, and so on. So we don't actually know for certain. And if you look at the 2019 white paper, even that paper didn't go deep enough to verify what the assumptions and models were back in the 1970s, when all this could still work. Because clearly this whole system was designed back in the 1970s. But what were the assumptions in terms of planting cost, capital cycle, advances made? Because I would imagine, if this wasn't financially viable back in the 1970s, I don't think they would have done it. So you have to — but the 2019 white paper didn't go back to verify that. So we don't have a definitive answer. And government papers are usually quite general. It mentions and questions FELDA's business model going forward, its weaknesses. But it doesn't definitively say this has deviated so much from the projections and model that should have existed in the 1970s. The truth is always in the middle. Right? The truth is always somewhere in the middle, and that's what you'd expect from a government. If you bring in a turnaround manager into a company — and Madani was supposed to be a turnaround government — you go in, look at things truthfully, and actually share some good news, some bad news, what's right, what's wrong, and then very firmly say this is what needs to happen — if things need to change, change them. If some debts need to be forgiven, forgive some debts. Because you do what you have to do within a 5 to 10 year window so that the model becomes fit for the future. We haven't gotten that from FELDA or from Datuk Seri Anwar.
 
-So coming back to all these allegations. Actually it's quite — let me compare it, compare it for the general public. I'm not a FELDA settler myself. But well, whether it's plantation or managing a mill, business is business. You look at your actual sales, you look at your cost, and you have to look at your operational efficiency. So for plantations, for FELDA, we need to get to the bottom of this, and this is something we haven't gotten from the current government. For all the fuss about reforms, we haven't gotten this. We have to do it ourselves. You can blame JKOM, you can blame Fahmi, the Minister of Communications. But I don't think we've ever heard a statement or speech laying out the way forward from Datuk Seri Anwar Ibrahim as the minister responsible for FELDA.
+So coming back to all these allegations. Actually it's quite — let me compare it, compare it for the general public. I'm not a FELDA settler myself. But well, whether it's plantation or managing a mill, business is business. You look at your actual sales, you look at your cost, and you have to look at your operational efficiency. So for plantations, for FELDA, we need to get to the bottom of this, and this is something we haven't gotten from the current government. For all the fuss about reforms, we haven't gotten this. We have to do it ourselves. You can blame J-KOM, you can blame Fahmi, the Minister of Communications. But I don't think we've ever heard a statement or speech laying out the way forward from Datuk Seri Anwar Ibrahim as the minister responsible for FELDA.
 
 So before we go into the high-level stuff, we need to look at a few things in terms of FELDA's financial and operational efficiency. From there we can roughly determine whether the model needs tweaking, or whether the business is no longer viable and we need to exit or do something else. First, we need to look at the replanting cost per hectare. This is an industry number, and from it you can tell whether it's true or not that there's a lot of corruption within FELDA at the grassroots level. Because corruption doesn't only happen at the top with the big numbers we hear about in London and so on. The corruption that can happen every day is in FELDA's operational contracts — fertilizer supply, seedling supply sold to FELDA, quality issues, and so on. So replanting cost per hectare is an industry standard, you can benchmark it. Then you look at operating cost per hectare. Then you look at yield — meaning FFB, fresh fruit bunch — yield per hectare compared to others.
 
@@ -323,7 +331,7 @@ I hope after this, the white paper, yellow paper, green paper will all come out.
 
 **Haziq:** A mousedeer paper?
 
-**Rafizi:** No — I don't think we've gotten there yet. Later it might not even be a mousedeer paper, it'll be a baby mousedeer paper — even lower than that. Joe, anything to say before we wrap up?
+**Rafizi:** No — I don't think we've gotten there yet. Later it might not even be a mousedeer paper, it'll be a YB mousedeer paper — even lower than that. Joe, anything to say before we wrap up?
 
 **Sum Dek Joe:** It's fine.
 
