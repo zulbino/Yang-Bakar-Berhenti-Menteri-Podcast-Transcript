@@ -1507,3 +1507,19 @@ flag. `data/` holds that earlier result -- boundaries from caption word gaps sco
 against pyannote's 8/16 (see the diarization sensing note in memory and
 `check_caption_coverage.py` for the caption plumbing).
 
+### The tail side of a torn sentence, and why only the camera can see it (2026-09-12)
+
+`check_overlap_boundaries.py` judged only the SECOND block's opening seconds. The owner
+read ep63's 1:58:44 and said Haziq starts with `tapi kalau tengok pada trend` -- words that
+were sitting at the END of Rafizi's block, where no test in the tool could reach them. All
+three interview files had inherited them as Rafizi's closing line.
+
+The camera can see that case, and the reason is the flaw everything else has to work
+around: the show's cut LAGS the speech by about two seconds. So if the camera already shows
+B during A's final seconds, B had started before the cut, and A's last words are probably
+B's. That is now a signature of its own, `tail`, with a link eight seconds early.
+
+Eleven boundaries corpus-wide carry it. They are candidates for an ear, not verdicts: ep62
+at 3:43:52 reads `Farhan (Pa'an): ...White pap-` / `Rafizi: dalam white paper pun sama juga`
+and that is a real interruption, which looks identical to the defect from the outside.
+
