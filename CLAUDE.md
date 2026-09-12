@@ -149,6 +149,15 @@ the picture:
   reads `Rafizi 842s, Haziq 4s` across its whole window, which looks clean, and
   `Haziq 2s, Rafizi 1s` across its first three seconds, which is the defect.
 
+**The 35 contested boundaries stay open until a measured tool moves them, one by one.**
+The three tools that would qualify, and the bar each has to clear, are listed at the top
+of `data/rule7_contested_boundaries.md`: word-level camera confidence at the cut, a voice
+witness measured at 100% on short windows (not the 97.6% vote the owner already refused,
+rule 8), or a multimodal model measured on turns of three words or fewer (Gemini scores
+54% there today). Re-run `check_overlap_boundaries.py --all` when one lands. A candidate
+leaves that list only when a measured tool moves it, never on a better guess, and the
+measurement is written next to the change.
+
 Proposed fix, still not built: a third pass that looks specifically at this shape --
 block N-1 (speaker A, no terminal punctuation) / block N (speaker B, short, lowercase
 start) / block N+1 (speaker A again, continuing the same sentence). Use word-level

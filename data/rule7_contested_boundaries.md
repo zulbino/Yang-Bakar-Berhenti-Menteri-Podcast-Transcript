@@ -14,6 +14,32 @@ show's co-hosts genuinely finish each other's sentences).
 For the caption text around one of them, run
 `python scripts/listen_links.py <ep> <stamp>`.
 
+## When to resolve these, and with what
+
+**These 35 stay listed until a tool can measure the boundary, not guess it.** Re-run
+`check_overlap_boundaries.py --all` whenever one of these lands, and resolve only the
+candidates the new tool measures:
+
+1. **Word-level camera confidence.** `camera_speakers.py` already reads the active
+   speaker per frame; what is missing is the per-WORD read at the two seconds around the
+   cut, aligned to MAI's word times. A candidate whose first words read decisively for
+   the previous speaker can then be moved with `split_at_words`, the same mechanism ep53's
+   owner decision used.
+2. **A voice witness measured at 100% on short windows.** `voice_witness.py` writes a
+   label only above the bar that measured 100% on its held-out class. The three-model vote
+   in `voice_witness_poc.py` reached 97.6% on 1.6 s windows and the owner ruled that is
+   NOT identification. The same bar applies here: 1 in 40 wrong is not a resolution.
+3. **A multimodal model that beats the camera on short turns.** Gemini was measured at 54%
+   on turns of three words or fewer (`data/_gem*` runs, ARCHITECTURE.md), so it cannot
+   settle these today. A future model has to be measured on this same class before it is
+   believed, not assumed better because it is newer.
+
+Until then the honest state is: the label stays as written, the boundary is recorded here,
+and the owner's ear decides any single one that matters. Do not relabel from a
+probabilistic vote, and do not quietly drop a candidate from this list -- a candidate
+leaves only when a measured tool moves it, and the tool and its measurement get written
+next to the change.
+
 
 === ep63: 250 blocks, camera covers 9615s (Rafizi 86%, Sum Dek Joe 11%, Haziq 3%)
     1 contested, 0 attested by the camera, 0 camera-blind (fold_hanging_fragments.py's case)
