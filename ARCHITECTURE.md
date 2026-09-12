@@ -682,6 +682,18 @@ rotating host needs a face match to an episode where they are already named, not
 per episode; the unknown-cluster comparison above is the tool, and it should become a
 `guest_gallery.py --match <other vid>` mode rather than a one-off.
 
+**An owner ruling can now cut a fused MAI turn (2026-09-12).** ep53's gate refused the camera
+build because MAI had fused Haziq's "Itu jelah kot." with Farhan's "Okey eh, okey." into one
+turn, and the owner had ruled them apart. A `forced_labels.json` rule may carry
+`split_at_words: true`: `mai_camera_raw.py` cuts the block at the rule's literal words before
+relabelling, the words and what follows them go to `who`, what precedes keeps its label, both
+halves keep the stamp, and the locator document is rebuilt per rule so a later rule cannot
+write the fused turn back. Two gate defects surfaced with it: `check_owner_decisions.py`
+now measures a two-word snippet's distance to each block's SPAN, not its stamp (after the
+merge a Rafizi block stamped 2:18:42 holds words spoken at 2:19:13), and reports a residual
+two-block ambiguity with the owner's name on one of them as kept, not as a mismatch.
+`fold_hanging_fragments.py` no longer crashes on the `["Human resource", 1]` split form.
+
 ## Writing the interview files from segments
 
 The shipping path for ep62 (2026-09-10) and for every episode after it; the whole-episode
