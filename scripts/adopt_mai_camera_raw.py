@@ -28,6 +28,10 @@ ORDER MATTERS, and each step is here for a measured reason:
      answer. The owner has raised this defect three times.
   6. `merge_same_speaker.py` -- adjacent same-name blocks join. The fold creates new
      adjacency, so it runs after.
+  6b. `voice_witness.py --validate` then `--write` -- the episode's own voices, learned from
+     the camera's seconds, name what is still generic. Runs ONLY if the strict bar measures
+     100% on this episode's held-out 1.6 s windows (owner's rule: a probabilistic vote is not
+     identification; 97.6% stays `Speaker ?`). Then the merge runs again.
   7. `fix_proper_nouns.py` and `fix_yb_honorific.py` -- corpus-wide reviewed maps. MAI
      spells the honorific `Abi` where the local ASR wrote `wabi`, so a fresh MAI raw always
      needs the second one.
@@ -150,6 +154,21 @@ def main():
     run([PY, "scripts/move_hanging_words.py", a.tag, "--write"])
     print("[6/8] join adjacent same-speaker blocks")
     run([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"])
+    print("[6b/8] voice witness: name what the camera and the clusters left generic, but only "
+          "if it measures 100% on this episode's held-out short windows first")
+    code, out = run([PY, "scripts/voice_witness.py", a.tag, "--validate"], quiet=True)
+    # The line for the strict bar on 1.6 s windows: "    1.6     score>=.60 & margin>=.30  n named right acc"
+    m = re.search(r"^\s*1\.6\s+score>=\.60 & margin>=\.30\s+\d+\s+(\d+)\s+(\d+)\s+([\d.]+)%", out or "", re.M)
+    if code or not m:
+        print("   voice witness skipped: validation did not run (" + (out or "").strip()[-160:] + ")")
+    elif int(m.group(1)) < 10 or int(m.group(2)) != int(m.group(1)):
+        print(f"   voice witness skipped: strict bar on 1.6 s held-out windows is {m.group(2)}/{m.group(1)}, "
+              f"not 100% over at least 10 -- the owner's rule is that only a witness measured at "
+              f"100% on its class writes a label (CLAUDE.md rule 8)")
+    else:
+        print(f"   validated: strict bar {m.group(2)}/{m.group(1)} on 1.6 s held-out windows")
+        run([PY, "scripts/voice_witness.py", a.tag, "--write"])
+        run([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"], quiet=True)
     print("[7/8] reviewed name maps, corpus-wide")
     run([PY, "scripts/fix_proper_nouns.py", "--write"], quiet=True)
     run([PY, "scripts/fix_yb_honorific.py", "--write"], quiet=True)
