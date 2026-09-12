@@ -45,7 +45,7 @@ Re-run after any reprocessing batch: `python scripts/qa_check.py`.
   - 1 figure(s) in the published text have no counterpart in raw.md ('1.99') -- in YBkM-ep06 this caught `45 bilion` printed in the same sentence as raw's `4.5 bilion`, and `240 juta USD` for raw's `340 juta`
   - models: raw.md=microsoft/MAI-Transcribe-2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-05-15-ep48-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi**
-  - 3 figure(s) in the published text have no counterpart in raw.md ('1.99', '22.7 ribu', '22.7k') -- in YBkM-ep06 this caught `45 bilion` printed in the same sentence as raw's `4.5 bilion`, and `240 juta USD` for raw's `340 juta`
+  - 1 figure(s) in the published text have no counterpart in raw.md ('1.99') -- in YBkM-ep06 this caught `45 bilion` printed in the same sentence as raw's `4.5 bilion`, and `240 juta USD` for raw's `340 juta`
   - models: raw.md=microsoft/MAI-Transcribe-2, interview.md=claude-sonnet-5, interview-en.md=claude-sonnet-5, interview-ms.md=claude-sonnet-5
 - [ ] **2026-05-22-ep49-seminggu-selepas-bersama-ph-bn-tidak-lagi-bersama-ybm-49**
   - raw.md leaves 1 turn(s) on a generic label (Speaker ? x1) -- a real person the transcript never names, so every derived file inherits it. Fix by identifying the speaker (video frames, the episode description, voiceprints), not by regenerating the rewrite

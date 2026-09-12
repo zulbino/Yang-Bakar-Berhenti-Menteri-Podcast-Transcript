@@ -60,6 +60,7 @@ COMPLETENESS_TOLERANCE = 0.03
 # Same idea for Malay: a couple of points of density is wording, a larger fall is
 # anglicisation, which is the defect being fixed.
 MALAY_TOLERANCE = 0.02
+STALE_FLOOR = 0.85             # check_rewrite_complete.MIN_VS_PREVIOUS; used only against a stale incumbent
 
 
 def read_body(path):
@@ -221,7 +222,19 @@ def verdict(old, new):
     if new is None:
         return False, "candidate produced no interview.md"
     dc = new["completeness"] - old["completeness"]
-    if dc < -COMPLETENESS_TOLERANCE:
+    # An incumbent that prints figures raw.md cannot account for was written from a raw.md
+    # that no longer exists (a local-ASR raw swapped for MAI's words). Its length ratio is
+    # then measured against a text it was never derived from, so it is not a baseline the
+    # 3-point tolerance can use: ep48's incumbent read 94% against the new raw while every
+    # candidate written from that raw landed at 89-91%, and all six tries were vetoed. In
+    # that one case the floor is check_rewrite_complete's own "a regeneration should not
+    # shrink" ratio (MIN_VS_PREVIOUS = 0.85), not the tolerance.
+    stale_incumbent = old.get("unsourced_figures", 0) > new.get("unsourced_figures", 0)
+    if stale_incumbent and new["completeness"] < old["completeness"] * STALE_FLOOR:
+        return False, (f"REJECT: completeness {old['completeness']:.0%} -> "
+                       f"{new['completeness']:.0%}, below {STALE_FLOOR:.0%} of an incumbent "
+                       f"that itself predates the current raw.md")
+    if dc < -COMPLETENESS_TOLERANCE and not stale_incumbent:
         return False, (f"REJECT: completeness {old['completeness']:.0%} -> "
                        f"{new['completeness']:.0%}, a loss of {-dc:.0%} against a "
                        f"{COMPLETENESS_TOLERANCE:.0%} tolerance")
