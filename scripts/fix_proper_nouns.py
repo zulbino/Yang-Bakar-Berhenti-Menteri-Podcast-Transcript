@@ -90,6 +90,12 @@ CORRECTIONS = [
      "Web-verified: X @sumdekjoe, published academically as Dek Joe Sum (ANU/AMRO/SSRN). "
      "ep60's raw.md spells it without the final e throughout; ep63's own YouTube "
      "description already has it right."),
+    # ep48 38:04, a digit settled by three witnesses, no ear needed: the speaker says the
+    # price drops "6 sen daripada RM2.05", so 1.99; the local ASR heard RM1.99; the YouTube
+    # captions agree; MAI alone heard RM1.09. Anchored on the full phrase.
+    (r"6 sen daripada RM2\.05 kepada RM1\.09",
+     "6 sen daripada RM2.05 kepada RM1.99",
+     "ep48 raw.md [38:04]: arithmetic + local ASR + captions outvote MAI's 1.09."),
     # Same guest, two more ASR hearings: MAI wrote "Sam D. Jo" in ep63's host intro, the
     # local ASR wrote "Sam Dek Jo" in ep52's published files. Anchored on the full name.
     (r"\bSam D\. Jo\b",
