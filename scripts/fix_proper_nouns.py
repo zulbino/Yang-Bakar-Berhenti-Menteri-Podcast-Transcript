@@ -96,6 +96,17 @@ CORRECTIONS = [
     (r"6 sen daripada RM2\.05 kepada RM1\.09",
      "6 sen daripada RM2.05 kepada RM1.99",
      "ep48 raw.md [38:04]: arithmetic + local ASR + captions outvote MAI's 1.09."),
+    # The same guest addressed by his nickname on air (ep60, ep63). Owner 2026-09-12: spell
+    # it Joe. The lookbehind/lookahead keep ep16's "Hang Jo" (Hangzhou) and ep51's "Jo-
+    # Johor" untouched.
+    (r"(?<!Hang )\bJo\b(?!-)",
+     "Joe",
+     "ep60 and ep63 vocative for Sum Dek Joe; excludes Hang Jo (ep16) and Jo- Johor (ep51)."),
+    # ep63 [03:10] "Joe dah familiar eh, Brae?" -- the owner's ear: it is YB. Anchored on
+    # the phrase; ep54's two "Brae" are a different context (segment name, unverified).
+    (r"familiar eh, Brae\?",
+     "familiar eh, YB?",
+     "Owner-confirmed 2026-09-12, ep63 03:10."),
     # Same guest, two more ASR hearings: MAI wrote "Sam D. Jo" in ep63's host intro, the
     # local ASR wrote "Sam Dek Jo" in ep52's published files. Anchored on the full name.
     (r"\bSam D\. Jo\b",

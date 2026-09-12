@@ -73,7 +73,9 @@ dropped the body's H1 from 147 files once; see its docstring for why).
 
 MAI's own words and timestamps, the show's camera cuts (`camera_speakers.py`, an
 independent on-screen signal), then pyannote diarization only as a fallback when
-neither of those covers a moment. This is the whole point of
+neither of those covers a moment, then `voice_witness.py` (the episode's own voices,
+learned from the camera's seconds, applied only above its measured `--validate`
+thresholds) for what is still unnamed. This is the whole point of
 `adopt_mai_camera_raw.py`. A face not in the gallery is not silently absorbed into
 the nearest known face -- `check_camera_reference.py` refuses a reference that is
 blind to a real speaker, and `guest_gallery.py` names a guest's face only under a
