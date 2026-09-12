@@ -365,11 +365,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:34:46] Rafizi: Yang ketiga apa dia? So tadi stress on apa nama ni infrastructure effect dia kan. Kedua ialah soal Pembayar cukai. Economic justice. Economic justice. Yang ketiga?
 
-[1:35:00] Haziq: Pertumbuhan itself dekat tempat
-
-[1:35:02] Rafizi: yang ditinggalkan tu.
-
-[1:35:05] Haziq: Bila semua orang tak nak duduk Kelantan atau Terengganu.
+[1:35:00] Haziq: Pertumbuhan itself dekat tempat yang ditinggalkan tu. Bila semua orang tak nak duduk Kelantan atau Terengganu.
 
 [1:35:09] Rafizi: Yalah, okey. Itu kita dah tahulah. Maksudnya yang ini juga sebab it's always two sides of the coin tau. Saya tengok tabiat kan kerajaan-kerajaan negeri lah kan. Tabiatnya ada kerajaan negeri, dia melihat untuk menjana ekonomi dia itu, dia han- dia perlu kononnya kalau kerajaan persekutuan tak bagi projek, tak bagi infrastruktur, ekonomi saya tak tumbuh. Ekonomi saya tak tumbuh sebab you tak bagi duit. Kan? Ha kan. So, apa nama ni, dengan peruntukan-peruntukan yang diberikan itulah ada sektor pembinaan ke, infrastructure ke, itulah yang register sebagai GDP dekat negeri itulah contohnya kan. Tapi dia ada kesan, risiko ketiga, dia ada kesan yang lebih besar kepada pertumbuhan keseluruhan negara. Yang mewujudkan that vicious cycle kerana you depend on pertumbuhan daripada tempat-tempat yang lebih maju ni untuk you kutip cukai tau. You kutip cukai, you pergi letak tempat yang tidak boleh menjana pertumbuhan yang, yang, yang bagi value of money or dia tidak ada orang kata corresponding growth daripada capital development yang you buat kan? So, mungkinlah negeri tu rasa yang dapat tu dia rasa okeylah. Tapi kesan dia kepada negara is a vicious cycle ialah your capital expenditure, your capi- development expenditure yang sepatutnya boleh menjana x amount of money. If you do it this way, you letak kat sini, now you pergi letak kat sana, it only generate maybe 20% of the economic growth. Therefore, vicious cycle nya your engine of growth makin perlahan, makin perlahan, and then itu akan affect kutipan cukai dan revenue negara di masa akan datang.
 
