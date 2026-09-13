@@ -39,7 +39,7 @@ WRITE = "--write" in sys.argv
 # moderator -- ep01 pembakar Nazri Hamdan so Najib Bakar moderated, ep03 pembakar Faiz
 # Azmi so Syed Munawar, ep05 guest Azlan Awang so Ibrahim Sani, ep06 pembakar Eric
 # See-To so Syed Munawar. The metadata LLM had filed all four moderators as guests.
-HOSTS = ["Rafizi", "Haziq", "Farhan (Pa'an)", "Iqbal", "Wan Afiq", "Amir Sahmat",
+HOSTS = ["Rafizi", "Haziq", "Farhan (Pa'an)", "Iqbal Fatkhi", "Wan Afiq", "Amir Sahmat",
          "Syed Munawar", "Ibrahim Sani", "Najib Bakar"]
 MERGE = {
     # "Wan Afiq" is right, confirmed by the show's own on-screen name graphic in ep50.
@@ -62,6 +62,11 @@ MERGE = {
     "Joe (Samdek Joe)": "Sum Dek Joe",
     "Eric Sito": "Eric See-To",
     "Cincong": "Lee Chean Chung",      # confirmed: MP for Petaling Jaya, ex-MLA Semambu
+    # CLAUDE.md rule 3: the frontmatter carries the full name, the body stays verbatim as
+    # spoken, so raw.md keeps saying `Iqbal`. Identified 2026-09-13 by identify_person.py
+    # from two public photographs, and he is Editor-in-Chief of Cilisos Media -- which is
+    # what the title `Yang Berhenti Menteri X CiliSos` on ep10 refers to.
+    "Iqbal": "Iqbal Fatkhi",
     "Chean Chung": "Lee Chean Chung",
 }
 # not people: diarization placeholders, roles, and the cat
@@ -78,6 +83,32 @@ NONSPEECH = re.compile(r"^(music|silence|end of|intro|outro|muzik|ketawa|laugh|a
 def canon(n):
     n = re.sub(r"\s+", " ", n).strip()
     return MERGE.get(n, n)
+
+
+# A person on the HOSTS roster who is a GUEST in one specific episode. The roster is
+# corpus-wide and cannot express this, and getting it wrong is not cosmetic: guest_gallery.py
+# runs its one-guest bijection on the `guests:` field only, so a guest filed as a host
+# silently disables the tool that would name their face. That is exactly what stalled ep39
+# until 2026-09-13 (see CLAUDE.md rule 9, check_cast.py, identify_person.py).
+#
+# The bar is the episode saying so outright, the same bar PRESENT_UNLABELLED uses.
+#
+# Iqbal Fatkhi, Editor-in-Chief of Cilisos Media, is genuinely BOTH across the corpus, which
+# is why the roster listing him as a host is also correct:
+#   ep10  HOST   -- "bersama kami hos-hos Sos Cili, Iqbal dan..." (the CiliSos crossover)
+#   ep11  HOST   -- Iqbal, of himself: "bersama saya, hos anda untuk malam ni, Iqbal"
+#   ep39  GUEST  -- "kita ada saudara Iqbal. Kenapa kita jemput Iqbal je selalu balik?"
+#                   and "Iqbal ni dah 3 4 kali dijemput"
+#
+# ep28 and ep29 are NOT listed, deliberately. He speaks in both (64 and 44 turns) beside the
+# three regular hosts, which is ep39's shape, but neither episode says host or invited and
+# neither YouTube description names a cast. ep39's own "dah 3 4 kali dijemput" implies they
+# were invitations, and an implication is not the bar. Both are still on local-ASR raws with
+# no camera reference, so this decision comes back when they are adopted; the reasoning is
+# recorded in data/qa_reviewed.json so it is not re-derived.
+GUEST_THIS_EPISODE = {
+    "ep39": ["Iqbal Fatkhi"],
+}
 
 
 # A cast member can be plainly present in an episode and still have no speaker label:
@@ -202,6 +233,8 @@ for ep in man:
             hosts.append(extra)
     hosts = sorted(set(hosts),
                    key=lambda n: HOSTS.index(canon(n)) if canon(n) in HOSTS else 99)
+    for down in GUEST_THIS_EPISODE.get(tag_match.group(1) if tag_match else "", []):
+        hosts = [n for n in hosts if canon(n) != canon(down)]
     guests = [n for n in seen if n not in hosts]
 
     old_h = fm_prev.get("hosts") or []

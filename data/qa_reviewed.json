@@ -149,5 +149,19 @@
    "reason": "check_cast.py reports raw.md's label `Prof. Barjoyai` against the frontmatter guest `Prof. Emeritus Dr. Barjoyai Bardai`. That is CLAUDE.md rule 3 working as written: the frontmatter carries the full name, the body stays verbatim as spoken. The checker's prefix test cannot see it because the full name inserts `Emeritus Dr.` in the MIDDLE rather than appending to the label. Same person, no defect.",
    "date": "2026-09-13"
   }
+ },
+ "2025-12-26-ep28-episod-terakhir-2025-10-perkara-yang-kita-tak-boleh-buat-bua": {
+  "cast": {
+   "verdict": "open-until-reprocessed",
+   "reason": "Iqbal Fatkhi speaks in ep28 beside the three regular hosts (64 turns in ep28, 44 in ep29) and is filed under `hosts:`. He is genuinely a host in ep10 and ep11, where the episodes say so outright (`hos-hos Sos Cili, Iqbal`, and Iqbal of himself `hos anda untuk malam ni`), and a GUEST in ep39, which also says so outright (`kenapa kita jemput Iqbal`, `dah 3 4 kali dijemput`). ep28 says NEITHER, and its YouTube description names no cast. ep39's `dah 3 4 kali dijemput` implies these were invitations, and an implication is not the bar PRESENT_UNLABELLED and GUEST_THIS_EPISODE use. NOT CHANGED. Both are still on local-ASR raws with no camera reference, so the question returns when they are adopted -- at which point guest_gallery.py's bijection depends on the answer. If he is a guest there, add the tag to rebuild_roster.GUEST_THIS_EPISODE.",
+   "date": "2026-09-13"
+  }
+ },
+ "2026-01-02-ep29-1mdb-parut-negara-umno-retak-pn-bergoncang-ybm-29": {
+  "cast": {
+   "verdict": "open-until-reprocessed",
+   "reason": "Iqbal Fatkhi speaks in ep29 beside the three regular hosts (64 turns in ep28, 44 in ep29) and is filed under `hosts:`. He is genuinely a host in ep10 and ep11, where the episodes say so outright (`hos-hos Sos Cili, Iqbal`, and Iqbal of himself `hos anda untuk malam ni`), and a GUEST in ep39, which also says so outright (`kenapa kita jemput Iqbal`, `dah 3 4 kali dijemput`). ep29 says NEITHER, and its YouTube description names no cast. ep39's `dah 3 4 kali dijemput` implies these were invitations, and an implication is not the bar PRESENT_UNLABELLED and GUEST_THIS_EPISODE use. NOT CHANGED. Both are still on local-ASR raws with no camera reference, so the question returns when they are adopted -- at which point guest_gallery.py's bijection depends on the answer. If he is a guest there, add the tag to rebuild_roster.GUEST_THIS_EPISODE.",
+   "date": "2026-09-13"
+  }
  }
 }

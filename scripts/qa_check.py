@@ -54,6 +54,7 @@ import check_figures  # published figures vs raw.md; see its docstring
 import check_names  # published person names vs raw.md; see its docstring
 import check_agencies  # agency names in every file vs data/agency_roster.json
 import check_cast  # CLAUDE.md rule 9: the frontmatter cast vs who is really in the episode
+import check_raw_engine  # was raw.md transcribed by the best engine we have words from?
 
 EPISODES_DIR = ROOT / "episodes"
 MANIFEST_PATH = ROOT / "data" / "manifest.json"
@@ -720,6 +721,11 @@ def check_episode(ep_dir):
     # disables guest_gallery.py's one-guest bijection -- so a face nothing could name
     # went to a person instead of to identify_person.py.
     issues.extend(check_cast.check_dir(ep_dir))
+    # And this one names the ENGINE behind raw.md. Asked for by the owner on 2026-09-13,
+    # who noticed episodes marked clean that had never been rebuilt from MAI: 39 of them,
+    # every one with its MAI words already on disk. A clean row means no known failure
+    # signature fired, and a 20.52% WER transcript fires none of them.
+    issues.extend(check_raw_engine.check(ep_dir))
 
     return issues, models
 

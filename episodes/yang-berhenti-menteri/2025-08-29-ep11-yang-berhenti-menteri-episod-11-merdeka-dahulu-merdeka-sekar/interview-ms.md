@@ -9,7 +9,7 @@ duration: 1h 51m
 view_count: 37404
 hosts:
 - Rafizi
-- Iqbal
+- Iqbal Fatkhi
 guests:
 - Nik Nazmi
 topics:

@@ -11,7 +11,7 @@ hosts:
 - Rafizi
 - Haziq
 - Farhan (Pa'an)
-- Iqbal
+- Iqbal Fatkhi
 guests: []
 topics:
 - 'Segmen pembukaan santai: cuti tahun baru dan cerita peribadi hos'

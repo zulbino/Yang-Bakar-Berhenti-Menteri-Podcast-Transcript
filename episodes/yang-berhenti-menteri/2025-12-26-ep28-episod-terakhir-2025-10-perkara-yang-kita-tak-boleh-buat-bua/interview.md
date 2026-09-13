@@ -12,7 +12,7 @@ hosts:
 - Rafizi
 - Haziq
 - Farhan (Pa'an)
-- Iqbal
+- Iqbal Fatkhi
 guests: []
 topics:
 - Peletakan jawatan Menteri Besar Perlis dan pergeseran Bersatu-PAS
