@@ -43,3 +43,9 @@ id_ed25519*
 apikey*
 api_key*
 .netrc
+# Session handoff notes. LOCAL ONLY, owner's decision 2026-09-13: these hold
+# point-in-time state ("what is running now", "what needs you"), go stale within hours,
+# and tell a public reader nothing about the transcripts. The durable record is
+# ARCHITECTURE.md, ENGINEERING_LOG.md, METHODOLOGY.md and CLAUDE.md. Past versions were
+# purged from git history with git-filter-repo on the same day.
+HANDOFF_*.md

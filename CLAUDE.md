@@ -10,9 +10,13 @@ This file governs behavior, not implementation. For how a script works, see
 and where it can be wrong, see [METHODOLOGY.md](METHODOLOGY.md). For the per-episode
 runbook, see [ATTRIBUTION_PASS.md](ATTRIBUTION_PASS.md).
 
-**Read [HANDOFF_2026-09-13.md](HANDOFF_2026-09-13.md) first, then [HANDOFF_2026-09-12.md](HANDOFF_2026-09-12.md) --
-it has a fully diagnosed bug behind rule 7 (not a hypothetical) and the exact corpus
-state and running jobs at the point this file was written.**
+**Read `HANDOFF_2026-09-13.md` first, then `HANDOFF_2026-09-12.md`, if you have them. These
+are LOCAL working notes and are deliberately not published** (`.gitignore`, owner's
+decision 2026-09-13: session state has no public audience and goes stale in hours). They
+hold the corpus state and the running jobs at a point in time. Nothing in them is required
+to follow the standards below -- what is durable lives here, in
+[ARCHITECTURE.md](ARCHITECTURE.md) and in [ENGINEERING_LOG.md](ENGINEERING_LOG.md). For
+live state run `python scripts/corpus_status.py`.
 
 ## Token efficiency, PARAMOUNT, but never at the cost of the standard above
 
@@ -26,13 +30,13 @@ not verification:
   multi-pass loop rule 8 asks for
   cost machine time, not conversation tokens. Never skip one of these, or a re-check
   after a change, to save tokens -- that is not what is expensive.
-- **What is actually expensive:** re-deriving a fact this file, HANDOFF_2026-09-12.md,
-  git log, or memory already states; narrating exploration instead of stating the
+- **What is actually expensive:** re-deriving a fact this file, the local handoff
+  notes, git log, or memory already states; narrating exploration instead of stating the
   conclusion with its evidence; verbose recaps of what was just done; sequential tool
   calls where independent ones could run in parallel; open-ended research past the
   point a specific ambiguity is resolved.
 - **Read before re-deriving.** `corpus_status.py` for live state, `git log` for an
-  episode's history, this file and HANDOFF_2026-09-12.md for standing rules -- check
+  episode's history, this file and the local handoff notes for standing rules -- check
   these first; do not re-run a multi-minute investigation to reconstruct something
   already written down.
 - **Still do every check in the nine standards below, every time, in full.** "Token

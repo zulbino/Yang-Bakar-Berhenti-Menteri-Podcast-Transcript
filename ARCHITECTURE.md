@@ -609,7 +609,7 @@ transcribed `--no-diarization` (the Azure timeout, "the third limit" below), so 
 voice cluster of its own and the fallback is the episode's current raw.md -- for a brand-new
 episode, a collapsed pyannote run with only `Speaker 1`/`Speaker 2`. ep63 shipped with 24% of
 its words on those placeholders even though the camera read Rafizi at the exact seconds
-(HANDOFF_2026-09-12.md section 3, the `[05:51] Cuma,` case). Three changes, all gated on the
+(the `[05:51] Cuma,` case). Three changes, all gated on the
 fallback label matching `GENERIC` (`Speaker N` / `Speaker ?`), so an episode whose MAI turns
 carry real names behaves exactly as before:
 
