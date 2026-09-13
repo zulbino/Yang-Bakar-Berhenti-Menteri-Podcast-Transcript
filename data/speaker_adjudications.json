@@ -811,5 +811,15 @@
    "text_now": "Podcast Yang Berhenti Menteri episod ke-49, macam biasa dan macam tak biasa bersama YB Rafizi Ramli dan YB Nik Nazmi.",
    "_note": "Was `Speaker ?`. This is the show's standing opening line, Haziq's, split across three blocks with Haziq on both sides. The camera is blind by construction here -- frames 00:43 to 00:49 are the episode's title animation -- and the only face visible either side of the card is Haziq. `fold_hanging_fragments.py` would have folded it except the fragment is 13 words against its MAX_WORDS of 10. Naming a `Speaker ?` needs better than a vote, and three signals agree here: same speaker both sides, one continuous sentence, one face. https://youtu.be/BY82Rp0ShH4?t=40"
   }
+ },
+ "ep35_rule7_owner_ruled_2026_09_14": {
+  "_what": "The one contested rule-7 boundary ep35 shipped with, ruled by the owner on 2026-09-14: \"Verifieds, its all Haziq. Rafizi actually drinking and make mumbling sound, so just omit that if there is recorded mumbled\"",
+  "_why_the_camera_could_not": "The camera gave Haziq 1s over the boundary window and nothing at all in the first 3s, so check_overlap_boundaries.py left it contested rather than guessing. move_hanging_words.py could not take it either: the block ends with a full stop, so the pair fails its `no terminal punctuation` guard before the tail is even computed.",
+  "_the_mumble": "MAI's word times show ONE continuous Haziq run from 7859.6s to 7870.6s, broken only by a 1.2s silence between `ke` (7864.0) and `satu` (7865.2) -- which is where Rafizi's drinking sits. MAI transcribed no word in that gap, and the one vocalization it did record nearby, `Uh,` at 7859.6, was already removed by strip_inline_fillers.py under CLAUDE.md rule 5. So there is no mumble left in raw.md to omit; the omission the owner asked for had already happened.",
+  "2:11:05": {
+   "who": "Haziq",
+   "text_now": "satu tajuk yang yalah saya rasa agak recent jugalah. Isu rumah ibadat.",
+   "_note": "Was `Multiple speakers`. Continues Haziq's own sentence from [2:10:59], `...kita pergi ke`. Merged into that block by merge_same_speaker.py afterwards."
+  }
  }
 }
