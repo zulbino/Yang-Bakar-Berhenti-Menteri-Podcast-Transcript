@@ -36,6 +36,14 @@ model: claude-sonnet-5
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript, or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 42 — Rafizi Menteri Terpaling Gagal & Kerajaan Akui Wujudnya Mafia Korporat**  
+3 April 2026 · 2h 59m · [watch on YouTube](https://www.youtube.com/watch?v=ABPgNUXVrew)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Episode 42 podcast Yang Berhenti Menteri. Assalamualaikum dan salam sejahtera. Macam biasa bersama saudara Rafizi Ramli dan yang tak biasa bersama saudara Zikri.

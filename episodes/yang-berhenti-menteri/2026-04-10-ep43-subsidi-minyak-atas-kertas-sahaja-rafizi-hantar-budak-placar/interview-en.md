@@ -33,6 +33,14 @@ model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 43 — Subsidi Minyak Atas Kertas Sahaja, Rafizi Hantar Budak Placard & Surat Dari PKR**  
+10 April 2026 · 2h 41m · [watch on YouTube](https://www.youtube.com/watch?v=e3y7rCTySJU)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Rafizi:** In terms of the party's contribution, his standing with the people, and his background. But I was often the one who used to play this role before, you know. Because I was made one of the people who had to call the branch chief to tell them, sorry, you didn't make it as a candidate. So I understand these mandate-related matters. And I had to listen to the branch chief, and yes, there were cases where they didn't get it even though the branch was strong and active, no matter how much.
