@@ -38,6 +38,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 53 — Rohingya, Pilihan Raya dan Apa Yang Akan Berlaku Seterusnya**  
+19 June 2026 · 3h 0m · [watch on YouTube](https://www.youtube.com/watch?v=61L_JC1oCR4)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri episod ke-53. Macam biasa bersama saya Haziq dan bersama saudara Rafizi Ramli. Apa khabar YB?
@@ -120,9 +128,7 @@ Itu sebenarnya kelemahan struktur kerajaan bila ada J-KOM. Dari zaman Datuk Seri
 
 **Haziq:** Ada yalah dalam kalangan penyokong juga selalu saya dengar dulu, yang selalu bercakap apa-apa saja biasanya Datuk Seri Anwar yang menjawab. Menteri-menteri lain ini semua bersembunyi di belakang dia.
 
-**Rafizi:** Itu bermula awal-awal dululah. Memang itu kehendak Datuk Seri Anwar. Sebab peraturannya ialah menteri tak boleh nak complain pasal fungsi menteri yang lain. So macam Kementerian Ekonomi memang seksa — tak boleh komen siapa-siapa, sebab semua agensi pelaksana tu semua di bawah kementerian yang lain, sedangkan semua dasar dan isu itu semua di bawah Kementerian Ekonomi, contoh. Jadi memang menteri tak boleh complain, tak boleh nak komen pun. Yang keduanya ialah oleh kerana kerajaan Madani ini melibatkan PH, BN, GPS, GRS semua, jadi isu politik memang sebaik-baiknya dielakkan daripada menjawab terus. Yang itu semua hanya Perdana Menteri yang boleh jawab. Jadi bila ada kontroversi yang melibatkan UMNO atau DAP, sesama parti-parti semua ni, kita tak boleh komen kerana itu akan mengganggu-gugat kestabilan dan keutuhan kerajaan. Jadi akhirnya semua orang diam lah. Itu cerita dia. Kalau perasan, sebelum kerajaan Madani, mana ada jurucakap kerajaan? Hanya kerajaan Madani yang ada jurucakap kerajaan — iaitu selain daripada Perdana Menteri, hanya seorang yang diberikan kelulusan untuk komen pasal kerajaan dan yang menyentuh pasal kabinet, pasal kementerian lain. Siapa itu? Yalah, Fahmi. Dia pun menjawab dengan bagi 6-7 kan. Jadi sebelum kerajaan Madani tak ada seorang menteri pun yang dilantik sebagai jurucakap kerajaan. Hanyalah kerajaan Madani ni ada, dan Fahmi pula yang diberi tugasan itu — tak membantu banyaklah, sebabnya ialah kerana memang peraturan itu tidak boleh komen.
-
-**Rafizi:** Beria, beria. Beria kita komen kot. Beria kita komen.
+**Rafizi:** Itu bermula awal-awal dululah. Memang itu kehendak Datuk Seri Anwar. Sebab peraturannya ialah menteri tak boleh nak complain pasal fungsi menteri yang lain. So macam Kementerian Ekonomi memang seksa — tak boleh komen siapa-siapa, sebab semua agensi pelaksana tu semua di bawah kementerian yang lain, sedangkan semua dasar dan isu itu semua di bawah Kementerian Ekonomi, contoh. Jadi memang menteri tak boleh complain, tak boleh nak komen pun. Yang keduanya ialah oleh kerana kerajaan Madani ini melibatkan PH, BN, GPS, GRS semua, jadi isu politik memang sebaik-baiknya dielakkan daripada menjawab terus. Yang itu semua hanya Perdana Menteri yang boleh jawab. Jadi bila ada kontroversi yang melibatkan UMNO atau DAP, sesama parti-parti semua ni, kita tak boleh komen kerana itu akan mengganggu-gugat kestabilan dan keutuhan kerajaan. Jadi akhirnya semua orang diam lah. Itu cerita dia. Kalau perasan, sebelum kerajaan Madani, mana ada jurucakap kerajaan? Hanya kerajaan Madani yang ada jurucakap kerajaan — iaitu selain daripada Perdana Menteri, hanya seorang yang diberikan kelulusan untuk komen pasal kerajaan dan yang menyentuh pasal kabinet, pasal kementerian lain. Siapa itu? Yalah, Fahmi. Dia pun menjawab dengan bagi 6-7 kan. Jadi sebelum kerajaan Madani tak ada seorang menteri pun yang dilantik sebagai jurucakap kerajaan. Hanyalah kerajaan Madani ni ada, dan Fahmi pula yang diberi tugasan itu — tak membantu banyaklah, sebabnya ialah kerana memang peraturan itu tidak boleh komen. Beria, beria. Beria kita komen kot. Beria kita komen.
 
 **Haziq:** Okey, baik. Kita ada lagi pempengaruh lain, YB, tetapi menjadi tukang tilik isi hati orang. Dipersilakan tetamu kita, saudara Jason Yu — Wong Chen tidak berani meletak jawatan, sebaliknya mahu dipecat parti untuk kekal sebagai ahli parlimen Subang.
 
