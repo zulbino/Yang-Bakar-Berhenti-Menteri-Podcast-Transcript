@@ -135,9 +135,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [36:28] Haziq: Hint. Okey, kita ada lagi, YB. Haa, jadi kita tengoklah yang lain. Hati-hati yang bernama Tilaga. Haa, ni apa cerita? Namanya. Siapa Tilaga ni? Nama Tilaga, Tilaga Gunaratnam. Oh, Tilaga Pijak dia cantik.
 
-[36:46] Rafizi: Gunaratnam. Zero post, zero followers, seven following. Komen-komen dia ialah hentam content a- Bersama. Pasal Bersama di Bersama punya akaun dan juga akaun akulah. Yes. Dan banyak lagilah komen-komen lain pun. Komen-komen lain lah. Tiba-tiba ada search a bot
+[36:46] Rafizi: Gunaratnam. Zero post, zero followers, seven following. Komen-komen dia ialah hentam content a- Bersama. Pasal Bersama di Bersama punya akaun dan juga akaun akulah. Yes. Dan banyak lagilah komen-komen lain pun. Komen-komen lain lah.
 
-[37:05] Farhan (Pa'an): punya comments lah dekat akaun Bersama dengan your account. So kami rasa ada macam- Yang ni Instagram kan? Ha, ni Instagram. So rasa macam ada coordinated a attack.
+[37:05] Farhan (Pa'an): Tiba-tiba ada search a bot punya comments lah dekat akaun Bersama dengan your account. So kami rasa ada macam- Yang ni Instagram kan? Ha, ni Instagram. So rasa macam ada coordinated a attack.
 
 [37:17] Rafizi: A itulah a kita kenal pastilah ni dalam 2 3 hari kebelakangan inilah kan. Tiba-tiba ada orang dapat kontrak baru kot. Ha, kontrak mengendalikan bot. A jadi a padahal content yang ada dekat Instagram aku atau bersama tu pun bukanlah viral ke apa, content biasa. Beberapa kerat je pun orang tengok. Tapi bersungguh-sungguh menghantar tentera bots. Yang lawaknya bila diorang tanya, bila diorang share aku tengok, memang lawaklah. Ini agaknya dia dapat kontrak last minute. Kontrak cyber trooper last minute ni. Jadi mungkin aa apa nama ni, dia dapat confirmation pun pukul 2 pagi. Dan dan dan nak suruh post masa tu. Jadi aa dia tertukar gambar. Dia buat akaun Tilaga Guna Ratnam. Post kosong, follower kosong. Lepas tu dia follow sesama sendirilah. Tapi dia tertukar gambar. Ini kakak mana jadi Tilaga Gunaratnam ni? Dan nama Tilaga Gunaratna- Gunaratnam ni kan. Jadi kepada sesiapa yang bernama Tilaga, berhati-hati eh. Nanti tiba-tiba ka- ada ada kalau gambar kakak ni tak apa lagi. Aku takut nama Tilaga Gunaratnam, gambar lelaki. But ni memang beria bos ni. Ya, beria, beria. Sesiapa yang mengendalikan Cyber Trooper dan bots PKR, tak payahlah kacau bersama ni kan. Lagipun ka- parti kecil je. Lebih baik gunakan tilaga, tilagagun. Tilagagun ni, pi lah gunakan kepada UMNO ke, PAS ke, Bersatu kan. Beria eh YB.
 
@@ -539,9 +539,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:56:13] Rafizi: Pension kemudianlah cerita. Kita buat satu topik lain. Ha, cerita pasal macam mana kita kalau kita nak push supaya orang kurang benci sikit kepada ahli-ahli parlimen dan ahli politik ni. Satu caranya ialah hapuskan pension. Pension. Tapi kita nak kena ulas dengan panjanglah benda itu.
 
-[2:56:35] Haziq: Ya. Kita akan ulas nanti. Jadi itu sajalah kot. Ha, saya pun nak pergi kencing. Ha, apa nama ni, aa jangan lupa
+[2:56:35] Haziq: Ya. Kita akan ulas nanti. Jadi itu sajalah kot. Ha, saya pun nak pergi kencing.
 
-[2:56:43] Rafizi: esok ada, saya di Kelantan esok. Pucat muka saya ni. Ha, takut tak ada orang kan. Jadi kawan-kawan di Kelantan, walaupun tempat tu jauh sikit. PCB dia panggil apa? Pantai Cahaya. Pantai Cahaya Bulan. Bulan. Ha, PCB. PCB ni dekat Tumpat kan? Ya tak. Kat mana PCB? Dekat dekat pantai tempat belah belakang. KB. Obviously nama dia pantai. Pantai dekat mana? Pantai Cahaya Bulan. Pantai cahaya dekat mana? Tapi resort tu kat KB je. Dekat KB? Tapi diorang jauh sikit lah eh. Walaupun jauh sikit, aa bolehlah datang untuk meramaikan orang. Kan, kan ada 5 orang je kat situ kan. Kesian kat kita. Tak, tak jauh sangat dari airport pun. Ya. Ha, airport tu kat Pengkalan Chepa. So dekat Pengkalan Chepa lah kot.
+[2:56:39] Rafizi: Ha, apa nama ni, aa jangan lupa esok ada, saya di Kelantan esok. Pucat muka saya ni. Ha, takut tak ada orang kan. Jadi kawan-kawan di Kelantan, walaupun tempat tu jauh sikit. PCB dia panggil apa? Pantai Cahaya. Pantai Cahaya Bulan. Bulan. Ha, PCB. PCB ni dekat Tumpat kan? Ya tak. Kat mana PCB? Dekat dekat pantai tempat belah belakang. KB. Obviously nama dia pantai. Pantai dekat mana? Pantai Cahaya Bulan. Pantai cahaya dekat mana? Tapi resort tu kat KB je. Dekat KB? Tapi diorang jauh sikit lah eh. Walaupun jauh sikit, aa bolehlah datang untuk meramaikan orang. Kan, kan ada 5 orang je kat situ kan. Kesian kat kita. Tak, tak jauh sangat dari airport pun. Ya. Ha, airport tu kat Pengkalan Chepa. So dekat Pengkalan Chepa lah kot.
 
 [2:57:34] Farhan (Pa'an): Atas sikit. Atas sikit ha.
 

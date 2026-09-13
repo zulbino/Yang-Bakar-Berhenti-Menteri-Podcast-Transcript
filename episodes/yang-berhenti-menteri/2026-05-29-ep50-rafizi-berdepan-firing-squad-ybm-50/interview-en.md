@@ -264,9 +264,7 @@ If YB does that, poor Fuziah. No, well, let's see how she tries to spin her way 
 
 **Farhan (Pa'an):** We'll use the stopwatch. Okay.
 
-**Rafizi:** For each one I'll try to stay within 90 seconds.
-
-**Rafizi:** Who's the first question from?
+**Rafizi:** For each one I'll try to stay within 90 seconds. Who's the first question from?
 
 **Wan Afiq:** Wait, there are so many questions. So go to this one, Far. Ha, this one. I'll read the first one first.
 
@@ -318,11 +316,7 @@ If YB does that, poor Fuziah. No, well, let's see how she tries to spin her way 
 
 **Rafizi:** Oh, I'm getting tired like this. Give me some time. Rapid fire, yo, this really is rapid fire. Okay, next.
 
-**Wan Afiq:** From Soal to Live. How will Bersama engage rural voters,
-
-**Wan Afiq:** the working class,
-
-**Wan Afiq:** —or senior citizens who are less digitally skilled? How do you ensure this party doesn't become an exclusive club for the tab generation?
+**Wan Afiq:** From Soal to Live. How will Bersama engage rural voters, the working class, —or senior citizens who are less digitally skilled? How do you ensure this party doesn't become an exclusive club for the tab generation?
 
 **Rafizi:** It depends on our demographics. If you look at our demographics, 50% of voters are under 50 years old, and the median age of the population is 31. So we also have to admit that in the future we really can't escape digitalization, including for the elderly. For now, Bersama's focus is through digitization. That's why we want everyone to become members through the system—it has to be there. It will indeed be somewhat difficult for older members. But I think over time digitalization will become more widespread. And we do expect a large portion of Bersama's membership to be Gen X, Millennials and Gen Z, especially Millennials and Gen Z who are very familiar with digital platforms. That's because of our country's demographics. So, in the future, when conditions improve, I think we can make it easier, but I don't think we can run away from digitalization. It's the future.
 

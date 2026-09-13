@@ -853,11 +853,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [3:42:31] Farhan (Pa'an): FELDA.
 
-[3:42:31] Rafizi: Dia sebenarnya FIC Global Limited BVI. Dan sama juga harga beli tu 10 juta pounds. Ha, 10 juta pounds je. Ini semua flip, flip, flip, flip semua kan? And modus operandi sama. Apa nama ni, pinjam duit daripada Bangkok Bank, bayar tuan punya asal tu 10 juta pounds, flip kepada FELDA lah. Then I think yalah we can go on and on. Semua bukti-bukti ada kat sini. Kesimpulan dia, FELDA umumkan 380 juta belanja untuk siapkan FELDA House. FELDA melalui FIC menubuhkan anak syarikat milik penuh FIC Management Houses Private Limited untuk kutip sewa. Tapi hak milik FELDA House ni didaftarkan di sebuah syarikat BVI yang tidak diketahui pemiliknya. Dan model operandi sama, ambil nama yang sebiji, sama macam nama syarikat di UK, tapi di BVI pemilik dia orang lain kan. So benda ni pun sama juga kalau tengok dalam apa ni, dalam
-
-[3:43:51] Farhan (Pa'an): White pap-
-
-[3:43:52] Rafizi: dalam white paper pun sama juga.
+[3:42:31] Rafizi: Dia sebenarnya FIC Global Limited BVI. Dan sama juga harga beli tu 10 juta pounds. Ha, 10 juta pounds je. Ini semua flip, flip, flip, flip semua kan? And modus operandi sama. Apa nama ni, pinjam duit daripada Bangkok Bank, bayar tuan punya asal tu 10 juta pounds, flip kepada FELDA lah. Then I think yalah we can go on and on. Semua bukti-bukti ada kat sini. Kesimpulan dia, FELDA umumkan 380 juta belanja untuk siapkan FELDA House. FELDA melalui FIC menubuhkan anak syarikat milik penuh FIC Management Houses Private Limited untuk kutip sewa. Tapi hak milik FELDA House ni didaftarkan di sebuah syarikat BVI yang tidak diketahui pemiliknya. Dan model operandi sama, ambil nama yang sebiji, sama macam nama syarikat di UK, tapi di BVI pemilik dia orang lain kan. So benda ni pun sama juga kalau tengok dalam apa ni, dalam White pap- dalam white paper pun sama juga.
 
 [3:43:53] Farhan (Pa'an): Page 63.
 

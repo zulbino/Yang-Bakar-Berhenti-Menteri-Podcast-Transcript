@@ -79,9 +79,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [10:40] Haziq: AMK tu?
 
-[10:41] Rafizi: AMK. Oh, ya. Tu lah. AMK tak ada langsung lah kan. Tapi itulah yang berianya ialah ni sayap-sayap pemuda ni yang sekarang ni masing-masing nak menunjukkan lantang, garang, cabar-mencabar lah. Tapi itu mungkin a apa
+[10:41] Rafizi: AMK. Oh, ya. Tu lah. AMK tak ada langsung lah kan. Tapi itulah yang berianya ialah ni sayap-sayap pemuda ni yang sekarang ni masing-masing nak menunjukkan lantang, garang, cabar-mencabar lah.
 
-[10:59] Haziq: ni politik kepemudaan yang konvensional, YB. Tak. Maksudnya kena menjerit-jerit. Dia shouting contest.
+[10:57] Haziq: Tapi itu mungkin a apa ni politik kepemudaan yang konvensional, YB. Tak. Maksudnya kena menjerit-jerit. Dia shouting contest.
 
 [11:05] Rafizi: No, lantang itu a bagus. Memanglah. Kenapa pemuda dalam mana-mana parti lah kan dan dalam mana-mana negara. Kenapa yang muda ini lantang? Bukan sebab dia lebih jantan dalam politik. Sepatutnya yang muda ini lebih lantang kerana dia lebih idealist. Dia belum tua. Jadi bila dia belum tua, aa hitam putih tu lebih jelas dekat dia sebab dia belum melalui pengalaman yang mana dia kena cari kompromi. Itu sebenarnya fungsi sayap-sayap ataupun kumpulan muda di dalam politik. Kerana dia mengingatkan yang tua-tua macam aku bahawa pada peringkat umur macam itu, mereka tidak faham lagi soal kompromi. Kan? Jadi mereka menjadi vanguard. Apa nama ni, orang kata pelindung kepada idealisme sesebuah perjuangan. Jadi kalau lantang itu tak salah sebenarnya. Tapi lantang itu mestilah lantang yang berkaitan dengan idealisme, perjuangan, tentang isu rakyat. Dia bukan lantang tunjuk siapa lagi jantan, cabar-mencabar suruh letak jawatan berkenaan dengan kerusi kerajaan. Ha, jadi itu yang bila saya sebut beria juga Dapsi ni, maksudnya kecuali dia boleh membuktikan bahawa kelantangannya itu adalah bersabit dengan isu-isu yang penting kepada rakyat. Kelantangannya itu nanti jadi macam kelantangan zaman pemuda UMNO dulu-dululah. Zaman Hishamuddin Hussein dengan Khairi, aa masa Keris. Ah, keris. Lantanglah tunjuk keris. Tapi tengoklah sambutan kerana di mata rakyat itu kelantangan nak tunjuk ego. Dia bukan kelantangan kerana idealisme yang masih lagi belum boleh menerima kompromi.
 
@@ -171,11 +171,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [40:06] Haziq: Okey, baik YB. Sebelum kita ke isu yang lebih bukan substantif tapi lebih substantif lah. Mungkin nak tahu sedikit experience YB. Sebab yalah macam saya cakap awal-awal tadi tu, YB dah banyak kali dah dalam podcast ni. Interrogation untuk SPRM ni yalah mungkin sedikit seram dengan. Ada aku cakap ke? Dalam isu-isu mafia korporat semualah.
 
-[40:32] Rafizi: Oh, bila kita bincang mengenai mafia korporat.
-
-[40:36] Haziq: Kerana, kerana beritanya ialah
-
-[40:41] Rafizi: mereka yang disiasat ini ada ugutan dan ada tekanan sehingga mereka terpaksalah menyerahkan syarikatnya.
+[40:32] Rafizi: Oh, bila kita bincang mengenai mafia korporat. Kerana, kerana beritanya ialah mereka yang disiasat ini ada ugutan dan ada tekanan sehingga mereka terpaksalah menyerahkan syarikatnya.
 
 [40:48] Haziq: Macam mana? Jadi macam mana keadaan YB? YB cukup makan ke? Dia orang bagi apa makan macam mana ke? Break berapa lama?
 
@@ -201,9 +197,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:04:58] Rafizi: Kita kena tunggulah. Saya jangka saya akan didakwa minggu depan. Okey. Sama ada hari isnin.
 
-[1:05:05] Farhan (Pa'an): Sebab Tan Sri Azan Baki dah sebut kan? Ha, se- sementara saya masih di soal
+[1:05:05] Farhan (Pa'an): Sebab Tan Sri Azan Baki dah sebut kan?
 
-[1:05:11] Rafizi: siasat untuk nak baru nak masuk hari ketiga hari Rabu.
+[1:05:08] Rafizi: Ha, se- sementara saya masih di soal siasat untuk nak baru nak masuk hari ketiga hari Rabu.
 
 [1:05:15] Farhan (Pa'an): Ya.
 

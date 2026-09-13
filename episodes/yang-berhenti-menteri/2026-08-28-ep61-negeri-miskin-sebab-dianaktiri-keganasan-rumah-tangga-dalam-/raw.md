@@ -35,9 +35,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [01:28] Haziq: Di Puchong? Ahad di Puchong. Aku betul, betul. Puchong lah HQ. Kita punya
 
-[01:36] Rafizi: Itu untuk Sepang lah semua. Yes.
-
-[01:40] Rafizi: Lepas tu bukan hari cuti 31st August tu pun ada dalam jadual.
+[01:36] Rafizi: Itu untuk Sepang lah semua. Yes. Lepas tu bukan hari cuti 31st August tu pun ada dalam jadual.
 
 [01:46] Haziq: Ya.
 

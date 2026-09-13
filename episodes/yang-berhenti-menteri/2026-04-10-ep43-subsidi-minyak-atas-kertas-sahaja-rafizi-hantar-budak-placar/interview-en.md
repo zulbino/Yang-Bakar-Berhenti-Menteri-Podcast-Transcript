@@ -267,9 +267,7 @@ Okay, Farhan wants to ask because we're only halfway — that's just half about 
 
 **Rafizi:** Okay, no problem. He can be the companion who likes to raise these issues.
 
-**Haziq:** But we have a guest who's been waiting a while. Because I want to get to that guest.
-
-**Haziq:** Let's move to another one. Azam Baki and the Corporate Mafia. "I am your father."
+**Haziq:** But we have a guest who's been waiting a while. Because I want to get to that guest. Let's move to another one. Azam Baki and the Corporate Mafia. "I am your father."
 
 **Rafizi:** Episode three. Oh, this is like a Star Wars episode.
 

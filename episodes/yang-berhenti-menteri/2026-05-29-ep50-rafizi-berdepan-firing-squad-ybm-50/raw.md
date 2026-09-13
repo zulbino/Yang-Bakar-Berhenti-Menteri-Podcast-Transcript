@@ -111,9 +111,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [19:01] Rafizi: Abang Gen Z kita. Macam mana dia abang Gen Z? Rambut dia dah uban.
 
-[19:04] Wan Afiq: Tak tahulah, tapi dia suka buat six seven. Six seven. Six seven ni bukan kalau, kalau ada dia banyaklah
+[19:04] Wan Afiq: Tak tahulah, tapi dia suka buat six seven. Six seven.
 
-[19:13] Rafizi: ada satu content tu kata six seven ni sebenarnya benda lucah.
+[19:08] Rafizi: Six seven ni bukan kalau, kalau ada dia banyaklah ada satu content tu kata six seven ni sebenarnya benda lucah.
 
 [19:18] Farhan (Pa'an): Saya tak pasti. Saya tak pasti. Saya tak check.
 
@@ -173,9 +173,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [35:51] Rafizi: Apa nama ni, asal boleh tonggang untuk dapat engagement, perasaan dalam hati tu belakang kira. Asalkan apa yang kita boleh post dekat Twitter, dekat X, dekat Facebook tu, kalau yang itu, kalau mood masa itu, gelombang masa itu, sebab saya ingat diorang ni masa saya, saya duk kena tangkap dululah kan. Saya duk kena tangkap 1MDB. So masa tu ada gelombang. Jadi siapa yang tweet, siapa yang itu tu memang kira senang dapat engagement lah. Dalam hati tu belakang kira. Faham. Faham.
 
-[36:27] Wan Afiq: Okey, kepada penonton di luar sana, minta tolong share live ni dalam group makcik ke, dalam group kerja ke, dalam group sekolah. Tolong share. Sebab kita dah nak pergi kepada sesi Q&A yang sangat
+[36:27] Wan Afiq: Okey, kepada penonton di luar sana, minta tolong share live ni dalam group makcik ke, dalam group kerja ke, dalam group sekolah. Tolong share.
 
-[36:39] Farhan (Pa'an): dinanti-nanti. Afif, Afif, orang marah cakap bila kau bercakap tak boleh dengar. So minta cakap
+[36:39] Farhan (Pa'an): Sebab kita dah nak pergi kepada sesi Q&A yang sangat dinanti-nanti. Afif, Afif, orang marah cakap bila kau bercakap tak boleh dengar. So minta cakap
 
 [36:44] Rafizi: Ke depan. Sila. Kalau boleh pegang. Saya dah kena maki.
 

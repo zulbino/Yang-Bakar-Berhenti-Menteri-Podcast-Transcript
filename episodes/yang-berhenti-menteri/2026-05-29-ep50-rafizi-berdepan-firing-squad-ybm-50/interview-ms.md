@@ -264,9 +264,7 @@ Kalau YB buat macam itu, sedih lah Fuziah. Tak adalah, tengoklah dia nak bersila
 
 **Farhan (Pa'an):** Kita pakai stopwatch. Okey.
 
-**Rafizi:** Setiap satu saya cuba untuk kekal dalam 90 saat.
-
-**Rafizi:** Soalan pertama daripada siapa?
+**Rafizi:** Setiap satu saya cuba untuk kekal dalam 90 saat. Soalan pertama daripada siapa?
 
 **Wan Afiq:** Sekejap, banyak sangat soalan. So pergi yang ini, Far. Ha, yang ini. Saya baca yang first dululah.
 
@@ -318,11 +316,7 @@ Kalau YB buat macam itu, sedih lah Fuziah. Tak adalah, tengoklah dia nak bersila
 
 **Rafizi:** Oh, letih macam ni. Bagi masa. Rapid fire yo, rapid fire betul ni. Okey, seterusnya.
 
-**Wan Afiq:** Daripada Soal to Live. Bagaimana Bersama nak libatkan pengundi luar bandar,
-
-**Wan Afiq:** golongan pekerja bawahan.
-
-**Wan Afiq:** — atau warga emas yang kurang mahir digital? Macam mana nak pastikan parti ini tak jadi kelab eksklusif untuk generasi tab?
+**Wan Afiq:** Daripada Soal to Live. Bagaimana Bersama nak libatkan pengundi luar bandar, golongan pekerja bawahan. — atau warga emas yang kurang mahir digital? Macam mana nak pastikan parti ini tak jadi kelab eksklusif untuk generasi tab?
 
 **Rafizi:** Ia bergantung kepada demografi kita. Kalau tengok kepada demografi kita, 50% daripada pengundi ialah bawah 50 tahun, dan median umur rakyat ialah 31 tahun. Jadi kita juga kena akui di masa akan datang memang kita tak boleh lari daripada pendigitalan, termasuk kepada yang berumur. Buat masa sekarang, fokus bersama ialah melalui pendigitalan. Sebab tu kita nak semua jadi ahli melalui sistem, kena ada. Memang susah sedikit untuk ahli-ahli yang berumur. Tetapi saya rasa lama-lama pendigitalan itu jadi lebih meluas. Dan memang kita jangka sebahagian besar daripada ahli bersama ini golongan Gen X, Milenium dan Gen Z, terutamanya Milenium dan Gen Z yang serba tahu mengenai platform digital. Sebabnya itulah demografi negara kita. Jadi, pada masa akan datang, bila keadaan lebih baik, saya rasa kita boleh permudahkan, tapi saya tak rasa kita boleh lari daripada pendigitalan. Itu masa depannya.
 
