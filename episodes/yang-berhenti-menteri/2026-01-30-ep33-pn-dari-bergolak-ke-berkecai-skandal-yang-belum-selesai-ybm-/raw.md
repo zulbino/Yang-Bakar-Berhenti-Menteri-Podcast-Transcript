@@ -21,11 +21,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 # Raw Transcript
 
-[02:48] Haziq: Akhirnya, akhirnya episod 33
-
-[02:51] Rafizi: kita ada guest yang
-
-[02:54] Haziq: agak sebab dah lama tak ada. Selama ni kita ada guest di di screen saja.
+[02:48] Haziq: Akhirnya, akhirnya episod 33 kita ada guest yang agak sebab dah lama tak ada. Selama ni kita ada guest di di screen saja.
 
 [02:57] Rafizi: Tak apalah, kasi Chan lah dia nak try new things. Akhirnya.
 
@@ -295,9 +291,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [25:22] Haziq: I think kalau tengok dekat social media pun Ceplos punya pertahankan perlu ada ujian ni sangat kuatlah. Tiba-tiba dia can cancel.
 
-[25:32] Rafizi: So yang beria tu ialah Ceplos lah. Yang beria adalah Ceplos,
+[25:32] Rafizi: So yang beria tu ialah Ceplos lah.
 
-[25:38] Farhan (Pa'an): aa dikatakan o- boleh dikatakan menteri juga sebab menteri kata perlu ada ujian diagnostik semua tu. Tiba-tiba PM tarik balik.
+[25:34] Farhan (Pa'an): Yang beria adalah Ceplos, aa dikatakan o- boleh dikatakan menteri juga sebab menteri kata perlu ada ujian diagnostik semua tu. Tiba-tiba PM tarik balik.
 
 [25:50] Rafizi: Saya ada, saya ada teka-teki lah rasanya apa yang berlaku ni. Okey. Saya rasa banyak yang keputusan itu sebenarnya tak ikut plan. Maksudnya, PM Datuk Seri Anwar ni dia rasakan ini peluang untuk menunjukkan yang dia betul-betul serius pasal reform. And reform pendidikan dan juga pembaharuan dalam sistem pendi- pendidikan ini adalah salah satu weak link dia dalam 3 tahun yang lepas. Kerana pengundi-pengundi bandar, terutamanya yang mengundi PH ni, salah satu kekecewaan utama ialah sistem pendidikan. Betul. Jadi dia rasakan ini peluang untuk dia silence semua orang menunjukkan komitmen dia. Tetapi saya rasa Kementerian Pendidikan, kalau saya rasa tu maksudnya saya ada maklumatlah yang cakap sana, cakap sini. Saya selalunya ada ada orang yang saya tanya gini, apa yang berlaku ni kan? Perancangan itu telah dibuat oleh KPM. Dia dah tengok contohnya kalau nak buat masuk tahun 1 2027 ni sangat mencabar kerana masa pendek. Jadi oleh kerana kebimbangan itulah, jadi dia kena fikir, okey, macam mana kita nak match di antara demand nanti yang banyak orang nak masuk dengan kapasiti yang ada. Lagipun tak sampai 10 bulan je lagi ni. Jadi itulah keluar cerita diagnostic kan. Tapi PM overrule merekalah. Maksudnya PM kata dia sama macam yang PM sekarang tough man. Kan macam sama dia bagi apa ni amaran kepada pegawai-pegawai kanan enforcement agency lah. Within one week come back to me. Kalau tidak, I transfer you. So samalah juga mesejnya PM tidak mahu berganjak kepada KPM. By hook or by crook, I don't care. You must do it.
 
@@ -371,9 +367,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [34:55] Wong Chen: Okey. YB? Saya okeylah, I feel a bit sympathy for Shamsul. I already gone through so much. Okey. I pick number two lah, Kamir lah because that video tu.
 
-[35:04] Rafizi: Sebab dia tendang, tendang, tendang. Video ni
+[35:04] Rafizi: Sebab dia tendang, tendang, tendang.
 
-[35:06] Wong Chen: classic 1970. I think my mother used to watch Teresa Teng punya video macam ni lah. I find it very funny. Yalah, you know?
+[35:05] Wong Chen: Video ni classic 1970. I think my mother used to watch Teresa Teng punya video macam ni lah. I find it very funny. Yalah, you know?
 
 [35:15] Haziq: Okey, baik. Kita setengah jam di
 
@@ -567,9 +563,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:17:52] Rafizi: Investigator yang menyiasat ni lah. Seorang tu saya, kita kenal dua-dua lah kan.
 
-[1:17:57] Haziq: Dua-dua. Dua-dua. Mai cuba bagi latar belakang sikit. Ha, sedikitlah. Tak ramai orang sebab saya tengok lepas
+[1:17:57] Haziq: Dua-dua. Dua-dua. Mai cuba bagi latar belakang sikit. Ha, sedikitlah.
 
-[1:18:05] Rafizi: isu ni keluar dan dilaporkan di seluruh dunia, di Malaysia ni macam ada blackout.
+[1:18:02] Rafizi: Tak ramai orang sebab saya tengok lepas isu ni keluar dan dilaporkan di seluruh dunia, di Malaysia ni macam ada blackout.
 
 [1:18:10] Haziq: Eh, betul. DH. Saya pun hairan tu.
 
@@ -773,9 +769,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:59:33] Rafizi: Ataupun ni yang yang apa nama ni skandal rasuah yang melibatkan pimpinan kanan angkatan tentera. Oh, ini duit kerajaan semua ni. Tapi ada perkara yang macam ini yang bagi dia, dia akan kata, well, it's legal kerana saya tak ambil satu sen pun duit kerajaan.
 
-[1:59:54] Wong Chen: Bukan saja yang tu, dia kata dia ni ni isu tentang eh orang Bangla, saya tak ada kawan orang. Bangla pun ada. Ada pula kalau rakyat Malaysia yang
+[1:59:54] Wong Chen: Bukan saja yang tu, dia kata dia ni ni isu tentang eh orang Bangla, saya tak ada kawan orang. Bangla pun ada.
 
-[2:00:03] Rafizi: kata peduli apa orang bangla kan. Tapi kalau dari segi pandanganlah, orang yang mempertahankan benda ini dia akan kata, apa you nak bising-bising? Dia dah laburkan duit dia untuk buat sistem ini. Kerajaan bersetuju untuk pakai. Jadi kalau dia nak charge orang sebab pakai sistem dia, layaklah sebab dia dah melabur duit untuk buat. Well, this is dangerous. Smart lah, smart. Kerana you monopolize everything kena pakai tu, then you become government kalau tak berhati-hati. Kerana you decide you dapat 200, kau dapat 300, yang 300 tu 2000 permit tu dia pergi jual pula kat orang, and it creates a whole racketeering bukan saja di Malaysia, terutamanya di Bangladesh lah. Tapi itulah kesukaran kitalah untuk membuka mata. Saya tak tahu mungkin pembangkang dia kira susah nak sama ada dia tak faham, dia pun tak faham. Tapi kalau dia faham pun dia nak terang, dia kira oh susah kot.
+[2:00:01] Rafizi: Ada pula kalau rakyat Malaysia yang kata peduli apa orang bangla kan. Tapi kalau dari segi pandanganlah, orang yang mempertahankan benda ini dia akan kata, apa you nak bising-bising? Dia dah laburkan duit dia untuk buat sistem ini. Kerajaan bersetuju untuk pakai. Jadi kalau dia nak charge orang sebab pakai sistem dia, layaklah sebab dia dah melabur duit untuk buat. Well, this is dangerous. Smart lah, smart. Kerana you monopolize everything kena pakai tu, then you become government kalau tak berhati-hati. Kerana you decide you dapat 200, kau dapat 300, yang 300 tu 2000 permit tu dia pergi jual pula kat orang, and it creates a whole racketeering bukan saja di Malaysia, terutamanya di Bangladesh lah. Tapi itulah kesukaran kitalah untuk membuka mata. Saya tak tahu mungkin pembangkang dia kira susah nak sama ada dia tak faham, dia pun tak faham. Tapi kalau dia faham pun dia nak terang, dia kira oh susah kot.
 
 [2:01:07] Wong Chen: No political impact.
 
@@ -919,9 +915,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:17:26] Farhan (Pa'an): Because boleh nampak ada ketegangan di Melaka juga kan antara UMNO dan DAP dan-
 
-[2:17:33] Rafizi: Yalah yang itu yang sebab apa nama ni, yang pasal Najib dululah kan. Ha, dan dan also apa nampak yang PKR
+[2:17:33] Rafizi: Yalah yang itu yang sebab apa nama ni, yang pasal Najib dululah kan.
 
-[2:17:42] Farhan (Pa'an): sebagai satu komponen parti dalam PH tak ambil any stance to defend ataupun to co- coalition partner.
+[2:17:36] Farhan (Pa'an): Ha, dan dan also apa nampak yang PKR sebagai satu komponen parti dalam PH tak ambil any stance to defend ataupun to co- coalition partner.
 
 [2:17:50] Rafizi: PKR lah. PKR hanya muncul apabila ada konsert. So bila- Dia ada muncul. Bila ada. Hah?
 
@@ -979,9 +975,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:25:03] Rafizi: Ha, masa British.
 
-[2:25:04] Wong Chen: But in all the maps, kalau you you you type 1950, sebab kita buat research. 1950 map, dia tunjuk kawasan yang tu masih under forest reserve. But now we found out because Jamaliah told us dia dah di gazet lama dah, tapi dalam peta macam part of it lah. Okey. So sebab ba di
+[2:25:04] Wong Chen: But in all the maps, kalau you you you type 1950, sebab kita buat research. 1950 map, dia tunjuk kawasan yang tu masih under forest reserve. But now we found out because Jamaliah told us dia dah di gazet lama dah, tapi dalam peta macam part of it lah. Okey.
 
-[2:25:26] Rafizi: gazet tu, penyahwartaan tu. Ya. Itu memang betullah 1926.
+[2:25:26] Rafizi: So sebab ba di gazet tu, penyahwartaan tu. Ya. Itu memang betullah 1926.
 
 [2:25:31] Wong Chen: Ya, betul. According to a data lah.
 
@@ -1071,9 +1067,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:39:06] Rafizi: Ya, tapi tak jadi macam itulah. Betullah. Kalau you kena tak bersetuju, you kena resign macam aku lah. Ha, betullah. Jadi maka di bukan saja di Selangor lah, di negeri-negeri lain, kerajaan negeri dia berkuasa atas tanah. Jadi hasil tan- maksudnya land bank ni, bank tanah ni banyak. Dan kalau tidak berhati-hati, kena pula kerajaan negeri yang mudah baik dengan pemaju, kerja dia jual tanah jelah kan. Tapi bila jual tanah ni, pandangan rakyat paling kurang kena adalah pandangan rakyat ataupun kena dilaporkanlah. Kita tidak ada mekanisma tau satu tahun berapa tanah kena jual, sebenarnya berapa banyak, ataupun land bank kita ada berapa. And then kalau contohnya, paling kurang untuk development order ke apa kan, pembangunan di sesuatu kawasan. Dia ada proses dia tau, yang dia kena ada public hearing. Dia ada proses dia. Dia kena ada social impact, traffic impact assessment. Betul. Macam-macam kena buat kan. Tapi untuk jual tanah kerajaan beratus-ratus ekar, mana ada? Tak. Itu hanya keputusan exco semata-mata.
 
-[2:40:26] Wong Chen: Betul. But tapi kes ni special sebab pada tahun 2008, 2009, the the public dah dah bantah and it was stopped, you know. Lepas stop, dia jual lagi. After 7 years, Yalah, tapi itu salah
+[2:40:26] Wong Chen: Betul. But tapi kes ni special sebab pada tahun 2008, 2009, the the public dah dah bantah and it was stopped, you know. Lepas stop, dia jual lagi.
 
-[2:40:43] Rafizi: tapi dia jual lagi. Tapi salah PKR lah. Sebab tu aku macam macam mana aku nak komen nya? Memang menteri besar PKR dua-dua pergi jual tanah. Kan isu dia ialah how in the future you want to build tata kelola the governance to make sure supaya bila ada kerajaan, tak kisahlah from PKR ke, DAP ke, Bersatu ke, actually there are there are processes yang dia kena melalui supaya dia lebih accountable bila nak jual tanah. Kalau tidak, you ada satu kerajaan, dia nak joli, dalam 5 tahun habis dia jual semua tanah. You know what you na? Betul. Kan?
+[2:40:42] Rafizi: After 7 years, Yalah, tapi itu salah tapi dia jual lagi. Tapi salah PKR lah. Sebab tu aku macam macam mana aku nak komen nya? Memang menteri besar PKR dua-dua pergi jual tanah. Kan isu dia ialah how in the future you want to build tata kelola the governance to make sure supaya bila ada kerajaan, tak kisahlah from PKR ke, DAP ke, Bersatu ke, actually there are there are processes yang dia kena melalui supaya dia lebih accountable bila nak jual tanah. Kalau tidak, you ada satu kerajaan, dia nak joli, dalam 5 tahun habis dia jual semua tanah. You know what you na? Betul. Kan?
 
 [2:41:27] Farhan (Pa'an): I was going to allude to this lah, sebagai seorang anak Selangor. Saya. Kita bukan anak Selangor.
 

@@ -435,13 +435,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:10:42] Rafizi: Mengundi, mengundi, mengundi, dia menang 95% undi kan. Kalau tak berani undi, dia tembak kan. Actually, you know, kalau kita kalah ada penipuan 2013 tu, yalah dia sipi-sipi kan. You mungkinlah ada, ada kelemahan sana sini sikit.
 
-[1:10:59] Nik Nazmi: It's more the gerrymandering. It was more gerrym malapportionment, which
+[1:10:59] Nik Nazmi: It's more the gerrymandering.
 
-[1:11:04] Rafizi: also exists dekat US or anywhere else kan.
-
-[1:11:07] Nik Nazmi: So my concern masa itu ialah
-
-[1:11:10] Rafizi: kalau benda ni berlaku and we march to the street malam itu or pagi esok, there could be blood on the street.
+[1:11:01] Rafizi: It was more gerrym malapportionment, which also exists dekat US or anywhere else kan. So my concern masa itu ialah kalau benda ni berlaku and we march to the street malam itu or pagi esok, there could be blood on the street.
 
 [1:11:17] Nik Nazmi: And Najib dah blame Cina waktu tu. Ha, Najib dah blame Cina. Apa lagi Cina mahu. Apa lagi Cina mahu semua kan.
 
@@ -475,13 +471,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:15:55] Rafizi: Kemudian soal SPRM kan. Jadi then masa tu saya dah nampak dah sebenarnya dalam kerajaan DAP ke Amanah ke PKR, nobody will stand up to this kan. Kemudian pada masa yang sama, survey, survey continues.
 
-[1:16:15] Nik Nazmi: Yeah. I mean, if anything is just apa
+[1:16:15] Nik Nazmi: Yeah.
 
-[1:16:19] Rafizi: nama ni, for my own knowledge untuk beri rasa macam mana kan. Survey begins to point to satu perkara.
-
-[1:16:26] Nik Nazmi: Consistently, the only
-
-[1:16:31] Rafizi: dominant pattern from August 2025 ni is the rise of disenfranchised voters.
+[1:16:19] Rafizi: I mean, if anything is just apa nama ni, for my own knowledge untuk beri rasa macam mana kan. Survey begins to point to satu perkara. Consistently, the only dominant pattern from August 2025 ni is the rise of disenfranchised voters.
 
 [1:16:38] Nik Nazmi: Then- Across semua kaum. Across semua kaum.
 

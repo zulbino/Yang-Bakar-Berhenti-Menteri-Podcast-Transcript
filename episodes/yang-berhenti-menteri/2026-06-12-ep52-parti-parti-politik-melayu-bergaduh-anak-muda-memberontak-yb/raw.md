@@ -273,9 +273,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [23:12] Haziq: Kaya tak apa? Kaya tak apa. NGO pun beria. Okey, kita tengok lagi YB. Ini pasal parti YB lah. Next bukan ni lah. Ini ini akaun anak muda selepas ni.
 
-[23:24] Syuk: Tak, selaku anak muda. Dulu adalah Menteri Hadiwar Rafizi, tapi saya dah turunkan
+[23:24] Syuk: Tak, selaku anak muda.
 
-[23:27] Haziq: jadi biro Hadiwar Rafizi je.
+[23:24] Haziq: Dulu adalah Menteri Hadiwar Rafizi, tapi saya dah turunkan jadi biro Hadiwar Rafizi je.
 
 [23:31] Syuk: Apa lagi? Oh, dah agak lah kalau menteri.
 
@@ -551,9 +551,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:03:28] Rafizi: Selalunya aku yang macam tu. Dia orang semua takut kat aku. Aku selalunya yang letak stiker semuanya kan. So, aku tidak melambangkan Gen X, Gen Z punya relationship kot.
 
-[1:03:42] Haziq: So, Gen Z agak open aa dan dia agak confront lah. Dan benda tu dia jadi macam bukan
+[1:03:42] Haziq: So, Gen Z agak open aa dan dia agak confront lah.
 
-[1:03:49] Zaim Zulkifli: tak kat- nak kata tak tak tak reti malu, tapi dia dah very tak kisah. Macam kau walaupun kau tua, kau level-level aku juga macam tu. So behave as you know lah macam tu.
+[1:03:47] Zaim Zulkifli: Dan benda tu dia jadi macam bukan tak kat- nak kata tak tak tak reti malu, tapi dia dah very tak kisah. Macam kau walaupun kau tua, kau level-level aku juga macam tu. So behave as you know lah macam tu.
 
 [1:03:58] Syuk: Dia tak kisah dan dia rasa hak dialah untuk Ha, ya betul, betul. Entitle. Oh, tu satu benda lain. Bukan entitle lah. Itu pun ada issue juga tapi. It's not really entitle. Dia macam a orang kena tahu masalah aku sebab kawan-kawan aku pun ada masalah sama juga. So dia tweet, dia Facebook ke, dia post ke apa ke macam tu lah.
 

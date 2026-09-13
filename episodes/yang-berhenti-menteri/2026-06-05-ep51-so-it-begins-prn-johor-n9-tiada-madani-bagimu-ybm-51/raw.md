@@ -263,17 +263,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:31:50] Rafizi: Selalu pergi toilet ke tidak?
 
-[1:31:52] Haziq: Tak. Ha kan. So you tanya, tanya, tanya, tanya,
+[1:31:52] Haziq: Tak. Ha kan.
 
-[1:31:56] Rafizi: then you can narrow down. Actually it's the same discipline dalam politik pun. Dan contohnya kan, okay, now we know that sebenarnya faktor yang paling penting ialah turnout rate.
+[1:31:53] Rafizi: So you tanya, tanya, tanya, tanya, then you can narrow down. Actually it's the same discipline dalam politik pun. Dan contohnya kan, okay, now we know that sebenarnya faktor yang paling penting ialah turnout rate.
 
 [1:32:06] Haziq: Turnout rate.
 
-[1:32:07] Rafizi: Sebelum pun kita nak bincang dia sokong siapa. Sebab kalau turnout rate tu rendah, memang correlationnya sangat jelas daripada 2018 lagi. Kalau pengundi bukan Melayu tak keluar mengundi, memang UMNO akan menang. Dan UMNO menang itu bukan sebab UMNO kuat, tapi mungkin sebab hygienic factor kenapa pengundi yang progresif tak keluar mengundi, kan? Then you ask a question, actually dia nak keluar ke tidak ni semua ni, apa faktor-faktor dia?
-
-[1:32:41] Haziq: Okay, this is the the yang akan kita lihat
-
-[1:32:46] Rafizi: nantilah, yang akan jadi baseline baru kepada penjajaran undi baru pengundi-pengundi lah kan. Dalam mana-mana pilihan raya lah kan, sebenarnya isu ekonomi tu ialah selalu isu nombor satu. Macam mana dia bina perspektif ekonomi yang mempengaruhi keputusan dia. Pertama, dia nak keluar ke tidak. Kedua, dia nak mengundi siapa. Yang itu sebenarnya berbeza-beza kan. Berbeza-beza. Tapi isu ekonomi tu, isu kos sara hidup tu memang, memang nombor satu lah kan. Dan dalam kes Johor ni dia sangat unik kerana dia lebih unik daripada Negeri Sembilan kan. Kerana contohnya, walaupun aa UMNO aa boleh sebut bahawa di bawah pentadbiran aa UMNO, aa perkembangan ekonomi Johor itu bagus, cemerlang semua kan. Adakah tri- tri- trickle effect itu dah sampai ke tidak?
+[1:32:07] Rafizi: Sebelum pun kita nak bincang dia sokong siapa. Sebab kalau turnout rate tu rendah, memang correlationnya sangat jelas daripada 2018 lagi. Kalau pengundi bukan Melayu tak keluar mengundi, memang UMNO akan menang. Dan UMNO menang itu bukan sebab UMNO kuat, tapi mungkin sebab hygienic factor kenapa pengundi yang progresif tak keluar mengundi, kan? Then you ask a question, actually dia nak keluar ke tidak ni semua ni, apa faktor-faktor dia? Okay, this is the the yang akan kita lihat nantilah, yang akan jadi baseline baru kepada penjajaran undi baru pengundi-pengundi lah kan. Dalam mana-mana pilihan raya lah kan, sebenarnya isu ekonomi tu ialah selalu isu nombor satu. Macam mana dia bina perspektif ekonomi yang mempengaruhi keputusan dia. Pertama, dia nak keluar ke tidak. Kedua, dia nak mengundi siapa. Yang itu sebenarnya berbeza-beza kan. Berbeza-beza. Tapi isu ekonomi tu, isu kos sara hidup tu memang, memang nombor satu lah kan. Dan dalam kes Johor ni dia sangat unik kerana dia lebih unik daripada Negeri Sembilan kan. Kerana contohnya, walaupun aa UMNO aa boleh sebut bahawa di bawah pentadbiran aa UMNO, aa perkembangan ekonomi Johor itu bagus, cemerlang semua kan. Adakah tri- tri- trickle effect itu dah sampai ke tidak?
 
 [1:33:53] Haziq: Ha kan.
 

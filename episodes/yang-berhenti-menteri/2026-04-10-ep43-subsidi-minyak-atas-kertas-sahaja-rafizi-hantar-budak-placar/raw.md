@@ -27,9 +27,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [00:57] Rafizi: Tapi kempen itu jentera pengarah pilihan raya yang pusing negara kan. Kalau ingat, aa Datuk Seri Anwar pun pada ketika itu memang menyedarilah bahawa aa dari rekod 2018 pilihan raya semua itu, maksudnya saya ada peranan sayalah. Dan saya ingat ketika itu Datuk Seri Anwar tahu bahawa saya selalunya lantang. Kalau saya tak setuju dan ada pandangan, saya cakap. Dan masalahnya bila pihak media tanya sebab saya tak reti pusing. Aku tak reti tipu sebenarnya. Kalau orang tanya setuju ke tak setuju, tak setuju. Jadi itulah yang dia sangat-sangat berharap, saya ingat ketika itu, kerana dia tahu memang pandangan saya terhadap Ramanan, rekod, ada beberapa perkara yang saya timbulkan itu maksudnya saya memang tidak bersetujulah. Jadi kebimbangan dia takut masuk pilihan raya oleh kerana saya tak bersetuju dan saya akan jelaskan secara terbuka, dia bimbang itu akan ada kesan kepada kempen keseluruhan PKR ketika itulah. Ha, tu cerita dia. Okey, Okey Bey. Beria.
 
-[02:14] Haziq: Wah. Cakap tentang Ceplos dan calon baru. Kita ke seterusnya. Profesor Betina. Profesor Bet- dia eja profesor tu, dia mem- mem- tak, dia maksudnya
+[02:14] Haziq: Wah. Cakap tentang Ceplos dan calon baru. Kita ke seterusnya. Profesor Betina.
 
-[02:30] Rafizi: dia memang tak reti mengeja ke atau dia buat-buat ke apa dia?
+[02:22] Rafizi: Profesor Bet- dia eja profesor tu, dia mem- mem- tak, dia maksudnya dia memang tak reti mengeja ke atau dia buat-buat ke apa dia?
 
 [02:33] Haziq: Itu lorat. Lorat? Ha, lorat paya besar, YB. Ha, ya. Betul ke? Rasanya. Kita pun tak tahulah kan. Tas dia ketua cabang paya besar, YB.
 

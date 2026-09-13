@@ -264,9 +264,7 @@ Kalau YB buat macam itu, sedih lah Fuziah. Tak adalah, tengoklah dia nak bersila
 
 **Farhan (Pa'an):** Kita pakai stopwatch. Okey.
 
-**Rafizi:** Setiap satu saya cuba untuk kekal dalam 90 saat.
-
-**Rafizi:** Soalan pertama daripada siapa?
+**Rafizi:** Setiap satu saya cuba untuk kekal dalam 90 saat. Soalan pertama daripada siapa?
 
 **Wan Afiq:** Sekejap, banyak sangat soalan. So pergi yang ini, Far. Ha, yang ini. Saya baca yang first dululah.
 
@@ -318,11 +316,7 @@ Kalau YB buat macam itu, sedih lah Fuziah. Tak adalah, tengoklah dia nak bersila
 
 **Rafizi:** Oh, letih macam ni. Bagi masa. Rapid fire yo, rapid fire betul ni. Okey, next.
 
-**Wan Afiq:** Daripada Soal to Live. Bagaimana Bersama nak libatkan pengundi luar bandar,
-
-**Wan Afiq:** golongan pekerja bawahan.
-
-**Wan Afiq:** — atau warga emas yang kurang mahir digital? Macam mana nak pastikan parti ini tak jadi kelab eksklusif untuk generasi tab?
+**Wan Afiq:** Daripada Soal to Live. Bagaimana Bersama nak libatkan pengundi luar bandar, golongan pekerja bawahan. — atau warga emas yang kurang mahir digital? Macam mana nak pastikan parti ini tak jadi kelab eksklusif untuk generasi tab?
 
 **Rafizi:** Ia bergantung kepada demografi kita. Kalau tengok kepada demografi kita, 50% daripada pengundi ialah bawah 50 tahun, dan median umur rakyat ialah 31 tahun. Jadi kita juga kena akui di masa akan datang memang kita tak boleh lari daripada digitalization, termasuk kepada yang berumur. Buat masa sekarang, fokus bersama ialah melalui digitization. Sebab tu kita nak semua jadi ahli melalui sistem, kena ada. Memang susah sedikit untuk ahli-ahli yang berumur. Tetapi saya rasa lama-lama digitalization itu jadi lebih meluas. Dan memang kita expect sebahagian besar daripada ahli bersama ini golongan Gen X, Millennials and Gen Z, terutamanya Millennials dan Gen Z yang serba tahu mengenai digital platform. Sebabnya itulah demografi negara kita. Jadi, in the future, bila keadaan lebih baik, I think we can make it easier, but I don't think we can run away daripada digitalization. It's the future.
 

@@ -267,9 +267,7 @@ Okey, Farhan nak tanya sebab kita ada separuh — itu baru separuh pasal minyak.
 
 **Rafizi:** Okey, tak apa. Dia sebagai peneman yang suka tarik-tarik isu.
 
-**Haziq:** Tapi kita ada tetamu yang dah tunggu lama. Sebab saya nak tunggu tetamu itu.
-
-**Haziq:** Kita ke satu lagi weh. Azam Baki dan Mafia Korporat. I am your father.
+**Haziq:** Tapi kita ada tetamu yang dah tunggu lama. Sebab saya nak tunggu tetamu itu. Kita ke satu lagi weh. Azam Baki dan Mafia Korporat. I am your father.
 
 **Rafizi:** Episode ketiga. Oh, ni macam Star Wars lah episode.
 

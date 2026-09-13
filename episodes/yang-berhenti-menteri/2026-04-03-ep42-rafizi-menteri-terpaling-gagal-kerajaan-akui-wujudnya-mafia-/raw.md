@@ -247,11 +247,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [44:39] Rafizi: But mandated lah. But I think kat Indonesia dia orang just negotiate macam tu je.
 
-[44:42] Zikri Kamarulzaman: I see. I see.
-
-[44:44] Rafizi: I think, ah,
-
-[44:48] Zikri Kamarulzaman: bukan nak kata government kena mandate, but I think maybe government kena facilitate. Okey, walaupun Malaysia kini hentam kerajaan, tak adalah maksudnya kami view kerajaan ni semua jahat eh. Tapi kena, pasal media di Malaysia, value kami kecil. Kepada Meta, OpenAI, MalaysiaKini ni apa? There's no value kat MalaysiaKini tau. Even for local Malaysian audience, I don't think OpenAI will see FMT, MalaysiaKini, The Star, TV3 semua. In the big picture kan, just tiny pic- tiny dots tau. So jadi untuk compel them to come to the bargaining table,
+[44:42] Zikri Kamarulzaman: I see. I see. I think, ah, bukan nak kata government kena mandate, but I think maybe government kena facilitate. Okey, walaupun Malaysia kini hentam kerajaan, tak adalah maksudnya kami view kerajaan ni semua jahat eh. Tapi kena, pasal media di Malaysia, value kami kecil. Kepada Meta, OpenAI, MalaysiaKini ni apa? There's no value kat MalaysiaKini tau. Even for local Malaysian audience, I don't think OpenAI will see FMT, MalaysiaKini, The Star, TV3 semua. In the big picture kan, just tiny pic- tiny dots tau. So jadi untuk compel them to come to the bargaining table,
 
 [45:25] Rafizi: I feel that maybe the government Kena facilitate. Facilitate, ya.
 
@@ -447,9 +443,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:00:24] Zikri Kamarulzaman: Then you get tenders for vend- vending machines.
 
-[2:00:27] Rafizi: That's the only thing lah. Okey. That's the only thing yang satu-satunya tender yang ada dekat Kementerian Ekonomi ialah provision of bukan provision pun sebenarnya rent of vending machine kan. So itu jelah. Yang lain memang Kementerian Ekonomi adalah I suppose kalau macam refreshment, kuih semua tu adalah tender dia. Tapi tak adalah. But by by nature Kementerian Ekonomi memang tak ada tender lah. Tak nak sentuh sangat pasal mafia corporate pasal benda ni
+[2:00:27] Rafizi: That's the only thing lah. Okey. That's the only thing yang satu-satunya tender yang ada dekat Kementerian Ekonomi ialah provision of bukan provision pun sebenarnya rent of vending machine kan. So itu jelah. Yang lain memang Kementerian Ekonomi adalah I suppose kalau macam refreshment, kuih semua tu adalah tender dia. Tapi tak adalah. But by by nature Kementerian Ekonomi memang tak ada tender lah.
 
-[2:01:02] Zikri Kamarulzaman: masih developing and saya rasa tak banyak perkembangan banding dengan so so. YB pun banyaklah sentuh isu ni. Tapi satu benda yang YB cakap dalam podcast ni dua minggu sebelum raya. YB kata YB akan dedahkan kenapa Anwar Ibrahim takut dengan Azam Baki. Sekarang YB tak jawab lagi. YB kata minggu depan nak jawab.
+[2:00:59] Zikri Kamarulzaman: Tak nak sentuh sangat pasal mafia corporate pasal benda ni masih developing and saya rasa tak banyak perkembangan banding dengan so so. YB pun banyaklah sentuh isu ni. Tapi satu benda yang YB cakap dalam podcast ni dua minggu sebelum raya. YB kata YB akan dedahkan kenapa Anwar Ibrahim takut dengan Azam Baki. Sekarang YB tak jawab lagi. YB kata minggu depan nak jawab.
 
 [2:01:19] Rafizi: No, saya rasa dalam podcast-podcast yang lepas, I think orang dah boleh faham. Bila contohnya dalam satu podcast kita sebut tentang pergantungan kepada wang. Ha, so it's the system. Ekosistem tu ada. Kan saya pernah sebut tentang macam mana hubung kait di antara mafia, di antara yalah underworld semua ni dengan pihak berkuasa semua, dan akhirnya dengan ahli politiklah. Yalah kerana ahli politik perlukan wang, kan. Dulu-dulu, cara dulu-dulu ialah dengan bagi tender. Tapi sekarang tak mudahlah dan mungkin lambatlah, itulah semua kan. Tapi cara yang lebih baik ialah kerana underworld ni, mafia semua ni kan penjenayah ni, dia very lucrative. Penyeludupan billion setahun. Kemudian illegal gambling, scamming, semua ni. Semua ni perlu dicuci duitnya. Jadi cara duit ini dicuci ialah selalunya melalui kaunter-kaunter lah. Jadi tiba-tiba, you know, ada company tu sini semua kan. Dan bila banyak duit, then kalau kegiatan tu semua kegiatan jenayah, mereka perlukan protection. Cara untuk dapat protection tu selain daripada secara terus dengan agensi-agensi kaki-kaki semua ni yang ada. Caranya ialah kalau ada ahli politik lah yang menjadi jambatan. Then I think people can put two and two together lah. Kan it's quite straightforward. Dan bila dia dah jadi satu ecosystem, maksudnya you know I know what you did last summer, you know what I did last summer semua. So you have to protect each other's back. Simple. Okay.
 
