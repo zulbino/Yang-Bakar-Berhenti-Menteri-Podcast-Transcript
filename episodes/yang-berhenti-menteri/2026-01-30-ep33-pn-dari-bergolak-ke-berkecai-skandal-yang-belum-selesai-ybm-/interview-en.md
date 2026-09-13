@@ -27,13 +27,21 @@ topics:
 - Tuduhan lobi Amin Bangla, Azam Baki dan keputusan kabinet menyambung kontrak BestiNet
 - Implikasi antarabangsa (tier perdagangan manusia AS) dan kegagalan tindakan extradisi Aminul Islam
 - Pertelingkahan agihan kerusi PH-BN menjelang PRN Johor dan Melaka serta kawalan Anwar Ibrahim ke atas komponen parti
-- Skandal jualan tanah kerajaan Selangor kepada JKOM di Subang Jaya dan isu ketelusan (Freedom of Information)
+- Skandal jualan tanah kerajaan Selangor kepada J-KOM di Subang Jaya dan isu ketelusan (Freedom of Information)
 - 'Penutup: ucapan Hari Thaipusam dan Hari Wilayah Persekutuan'
-summary: Episod ke-33 podcast Yang Berhenti Menteri menampilkan tetamu pertama secara fizikal, YB Wong Chen, Ahli Parlimen Subang. Perbualan bermula dengan icebreaker tentang perkenalan Rafizi dan Wong Chen sejak era isu GST 2009, sebelum masuk segmen "Beria" yang menilai beberapa kejadian viral minggu itu (retreat Wanita Keadilan bersama Shamsul Iskandar, promosi konsert oleh pimpinan PKR, jawapan parlimen Menteri Agama tentang "faktor gay", dan u-turn ujian diagnostik murid Tahun 1). Selepas itu perbincangan meningkat kepada isu standing order Rafizi tentang siasatan serangan ke atas anaknya, pergolakan dalaman Perikatan Nasional dan PAS, isu tax refund RM33.3 bilion dan Akta Fiscal Responsibility, laporan siasatan Bloomberg mengenai sindiket BestiNet/FWCMS dan pemerdagangan pekerja Bangladesh, konflik perebutan kerusi PH-BN menjelang PRN Johor dan Melaka, serta skandal jualan tanah kerajaan Selangor kepada JKOM di Subang Jaya. Episod ditutup dengan ucapan selamat menyambut Thaipusam dan Hari Wilayah Persekutuan.
+summary: Episod ke-33 podcast Yang Berhenti Menteri menampilkan tetamu pertama secara fizikal, YB Wong Chen, Ahli Parlimen Subang. Perbualan bermula dengan icebreaker tentang perkenalan Rafizi dan Wong Chen sejak era isu GST 2009, sebelum masuk segmen "Beria" yang menilai beberapa kejadian viral minggu itu (retreat Wanita Keadilan bersama Shamsul Iskandar, promosi konsert oleh pimpinan PKR, jawapan parlimen Menteri Agama tentang "faktor gay", dan u-turn ujian diagnostik murid Tahun 1). Selepas itu perbincangan meningkat kepada isu standing order Rafizi tentang siasatan serangan ke atas anaknya, pergolakan dalaman Perikatan Nasional dan PAS, isu tax refund RM33.3 bilion dan Akta Fiscal Responsibility, laporan siasatan Bloomberg mengenai sindiket BestiNet/FWCMS dan pemerdagangan pekerja Bangladesh, konflik perebutan kerusi PH-BN menjelang PRN Johor dan Melaka, serta skandal jualan tanah kerajaan Selangor kepada J-KOM di Subang Jaya. Episod ditutup dengan ucapan selamat menyambut Thaipusam dan Hari Wilayah Persekutuan.
 language: en
 model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite).
 ---
+
+<!-- nav -->
+**Yang Berhenti Menteri episode 33 — PN Dari Bergolak Ke Berkecai & Skandal Yang Belum Selesai**  
+30 January 2026 · 2h 48m · [watch on YouTube](https://www.youtube.com/watch?v=hI_cgYwwtqg)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
 
 # Interview (English)
 
@@ -1015,7 +1023,7 @@ I just hope also, when it comes to this — I hope it doesn't stop with us, the 
 
 **Rafizi:** Okay.
 
-**Wong Chen:** And how did this JKOM come to own it? How did they get this land? This 169 acres.
+**Wong Chen:** And how did this J-KOM come to own it? How did they get this land? This 169 acres.
 
 **Rafizi:** Yes.
 
@@ -1027,7 +1035,7 @@ I just hope also, when it comes to this — I hope it doesn't stop with us, the 
 
 **Rafizi:** Didn't give it.
 
-**Wong Chen:** So for me, I wrote a letter, gave a 2-week timeline. I think that was 16 December, my first letter. Waited through the new year, nothing. Okay, maybe Christmas, holidays, fine. Then we gave another timeline. On the 6th of January, we wrote another letter giving 14 more days. Coincidentally, Parliament sits on the 20th, in time. Once that 14 days was up, we'd already done our own research. We went to NAPIC, the national record — that's the Ministry of Finance's data. We searched — how much did JKOM buy the land in this area for. We found the historical record for 139 [acres]. Another 30 acres we still couldn't find. From that we saw that this land was sold in two stages. The first stage, about 30-odd acres, was sold by Tan Sri Khalid when he was Menteri Besar.
+**Wong Chen:** So for me, I wrote a letter, gave a 2-week timeline. I think that was 16 December, my first letter. Waited through the new year, nothing. Okay, maybe Christmas, holidays, fine. Then we gave another timeline. On the 6th of January, we wrote another letter giving 14 more days. Coincidentally, Parliament sits on the 20th, in time. Once that 14 days was up, we'd already done our own research. We went to NAPIC, the national record — that's the Ministry of Finance's data. We searched — how much did J-KOM buy the land in this area for. We found the historical record for 139 [acres]. Another 30 acres we still couldn't find. From that we saw that this land was sold in two stages. The first stage, about 30-odd acres, was sold by Tan Sri Khalid when he was Menteri Besar.
 
 **Rafizi:** But look, when was it gazetted — degazetted as — 1929, 26. 1926. No, no. 1926 it was gazetted as a forest reserve.
 
@@ -1047,7 +1055,7 @@ I just hope also, when it comes to this — I hope it doesn't stop with us, the 
 
 **Rafizi:** But then the government will say, well, why all the fuss? The land isn't a forest reserve after all. So.
 
-**Wong Chen:** It's indeed not a forest reserve, but it was never developed. Just historically, they tried to develop it, but there was opposition from residents living there — the people of Kinrara. They objected, I think in 2009, 2008 they tried once and objected, the government rejected it. So when Tan Sri Khalid was Menteri Besar, according to records he sold that land to JKOM. And then the second batch, which is the big piece of land, 130 acres here, was sold in 2019 by the current Menteri Besar.
+**Wong Chen:** It's indeed not a forest reserve, but it was never developed. Just historically, they tried to develop it, but there was opposition from residents living there — the people of Kinrara. They objected, I think in 2009, 2008 they tried once and objected, the government rejected it. So when Tan Sri Khalid was Menteri Besar, according to records he sold that land to J-KOM. And then the second batch, which is the big piece of land, 130 acres here, was sold in 2019 by the current Menteri Besar.
 
 **Rafizi:** Yes. So both sales were by PKR Menteri Besars. True.
 
@@ -1059,7 +1067,7 @@ I just hope also, when it comes to this — I hope it doesn't stop with us, the 
 
 **Rafizi:** So it's become the private company's property. Once it's the private company's property, eventually they want to monetize it, they want to develop it. So what option does the state government have except to buy it back?
 
-**Wong Chen:** No, no, that's why — the issue became big because about 4-5 months ago, JKOM did a social impact assessment study. So people went down to interview residents — what if we build houses in this area. The feedback was negative, since they'd already opposed it back in 2008. So it came up to my office from there. So when we asked for information from the Selangor government — we're Selangor MPs — they didn't give it. When they didn't give it, we did our own research, and found out the transactions as I mentioned earlier. What's shocking is RM13.80 — the land was sold at RM13.80 per square foot. I don't know what the market value was at the time, I'm not a valuer. But there was a commentator who compared it — a commentator from Kini Biz. He did research, using iProperty or whatever, I don't know his basis, but he said it was roughly RM50 to RM200. So he raised the issue for me and also YB Chen Chong, since YB Chen Chong is very keen on forest issues — he has the PJ Lestari program. So we started looking into this matter and tried to understand. If we want the government to buy it back, RM13.80 times 169 acres comes to roughly 200 million, 190-something million, because we also included compounded interest of 8%. So we calculated all this and then we're proposing to the government — do you have 200 million?
+**Wong Chen:** No, no, that's why — the issue became big because about 4-5 months ago, J-KOM did a social impact assessment study. So people went down to interview residents — what if we build houses in this area. The feedback was negative, since they'd already opposed it back in 2008. So it came up to my office from there. So when we asked for information from the Selangor government — we're Selangor MPs — they didn't give it. When they didn't give it, we did our own research, and found out the transactions as I mentioned earlier. What's shocking is RM13.80 — the land was sold at RM13.80 per square foot. I don't know what the market value was at the time, I'm not a valuer. But there was a commentator who compared it — a commentator from Kini Biz. He did research, using iProperty or whatever, I don't know his basis, but he said it was roughly RM50 to RM200. So he raised the issue for me and also YB Chen Chong, since YB Chen Chong is very keen on forest issues — he has the PJ Lestari program. So we started looking into this matter and tried to understand. If we want the government to buy it back, RM13.80 times 169 acres comes to roughly 200 million, 190-something million, because we also included compounded interest of 8%. So we calculated all this and then we're proposing to the government — do you have 200 million?
 
 **Rafizi:** They don't. I don't know. Eh, they don't. They won't.
 
@@ -1067,7 +1075,7 @@ I just hope also, when it comes to this — I hope it doesn't stop with us, the 
 
 **Rafizi:** But if I were Jekel, I'd say I bought it at RM13 in 2013, 2019 and all — by now the price is much higher. Right.
 
-**Wong Chen:** I understand. So that's why at the start we're proposing an estimate of what he should ask for. If we want to compensate, we have to pay roughly 8% compounded interest. So we came up with this figure — maybe Jekel will ask for 400 million, 500 million, then it's out of the question. But we're MPs — you understand? By last week, another 1,500 signatures — over 5,000 signatures already collected and given to us. So I just want the government to tell me the historical facts — can you confirm whether what we found at NAPIC is correct or not? Then calculate how much we're willing to offer to buy it back from JKOM. If we can't buy it back, JKOM will ask for a development order. But since they bought the land for development, then what will happen? Do we restrict the plot ratio or what? It's not fair to JKOM, to be fair to everyone. But KiniBiz says the land seems cheap. So that's the problem. But what's the most surprising thing to me — but if you were the MB, say you were MB.
+**Wong Chen:** I understand. So that's why at the start we're proposing an estimate of what he should ask for. If we want to compensate, we have to pay roughly 8% compounded interest. So we came up with this figure — maybe Jekel will ask for 400 million, 500 million, then it's out of the question. But we're MPs — you understand? By last week, another 1,500 signatures — over 5,000 signatures already collected and given to us. So I just want the government to tell me the historical facts — can you confirm whether what we found at NAPIC is correct or not? Then calculate how much we're willing to offer to buy it back from J-KOM. If we can't buy it back, J-KOM will ask for a development order. But since they bought the land for development, then what will happen? Do we restrict the plot ratio or what? It's not fair to J-KOM, to be fair to everyone. But KiniBiz says the land seems cheap. So that's the problem. But what's the most surprising thing to me — but if you were the MB, say you were MB.
 
 **Rafizi:** I'll start talking. What choice do you have? Because financially, if for example the Selangor state government agreed to buy it back, say it costs 300 million, and they don't have that kind of surplus. Selangor's revenue actually isn't that much, just over 2 billion. Right. So say they need to spend 300 million to buy it, but residents elsewhere — residents in Pandan, residents in Selayang — would say, "Hey, why spend 300 million to buy land in Subang? That 300 million would be better given to us across the whole state, give us baskets, give us free computers." So if you were MB, what would you do? Because if you don't buy it, since the land was already sold by previous PKR MBs — if you don't buy it, they'll submit a development order to build. Once they submit a development order, if the local council, in this case under MBSJ—
 

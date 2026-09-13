@@ -38,6 +38,14 @@ model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 53 — Rohingya, Pilihan Raya dan Apa Yang Akan Berlaku Seterusnya**  
+19 June 2026 · 3h 0m · [watch on YouTube](https://www.youtube.com/watch?v=61L_JC1oCR4)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Assalamualaikum and greetings. Podcast Yang Berhenti Menteri episode 53. As usual, with me, Haziq, and Rafizi Ramli. How are you, YB?
@@ -120,9 +128,7 @@ That's actually the structural weakness of the government having a J-KOM. From D
 
 **Haziq:** Yes, among supporters too, I often heard before, that whenever anything's said, it's usually Datuk Seri Anwar who ends up answering it. All the other ministers just hide behind him.
 
-**Rafizi:** That started early on. It really was Datuk Seri Anwar's wish. Because the rule is a minister cannot complain about another minister's functions. So the Ministry of Economy really suffers — can't comment on anyone, because all the implementing agencies are all under other ministries, whereas all the policies and issues are under the Ministry of Economy, for example. So a minister really can't complain, can't even comment. The second reason is that because the Madani government involves PH, BN, GPS, GRS all together, political issues are best avoided from being answered directly. Only the Prime Minister can answer those. So when there's a controversy involving UMNO or DAP, among the parties themselves, we can't comment because it will disturb the stability and integrity of the government. So in the end everyone stays quiet. That's the story. If you notice, before the Madani government, was there ever a government spokesperson? Only the Madani government has a government spokesperson — meaning apart from the Prime Minister, only one person is given approval to comment on the government and on matters touching other ministries and the cabinet. Who is that? Yes, Fahmi. He answers by giving 6-7 points. So before the Madani government, not a single minister was appointed as government spokesperson. Only the Madani government has this, and Fahmi is the one given that task — it doesn't help much though, because indeed the rule is that we can't comment.
-
-**Rafizi:** So eager, so eager. We're so eager to comment, apparently. So eager to comment.
+**Rafizi:** That started early on. It really was Datuk Seri Anwar's wish. Because the rule is a minister cannot complain about another minister's functions. So the Ministry of Economy really suffers — can't comment on anyone, because all the implementing agencies are all under other ministries, whereas all the policies and issues are under the Ministry of Economy, for example. So a minister really can't complain, can't even comment. The second reason is that because the Madani government involves PH, BN, GPS, GRS all together, political issues are best avoided from being answered directly. Only the Prime Minister can answer those. So when there's a controversy involving UMNO or DAP, among the parties themselves, we can't comment because it will disturb the stability and integrity of the government. So in the end everyone stays quiet. That's the story. If you notice, before the Madani government, was there ever a government spokesperson? Only the Madani government has a government spokesperson — meaning apart from the Prime Minister, only one person is given approval to comment on the government and on matters touching other ministries and the cabinet. Who is that? Yes, Fahmi. He answers by giving 6-7 points. So before the Madani government, not a single minister was appointed as government spokesperson. Only the Madani government has this, and Fahmi is the one given that task — it doesn't help much though, because indeed the rule is that we can't comment. So eager, so eager. We're so eager to comment, apparently. So eager to comment.
 
 **Haziq:** Okay, alright. We have more influencers, YB, but this one has become a mind-reader of people's hearts. Please welcome our guest, brother Jason Yu — "Wong Chen doesn't dare to resign, instead wants to be sacked by the party in order to remain the MP for Subang."
 

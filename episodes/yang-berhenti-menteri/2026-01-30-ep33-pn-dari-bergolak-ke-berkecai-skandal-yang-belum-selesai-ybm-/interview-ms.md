@@ -27,13 +27,21 @@ topics:
 - Tuduhan lobi Amin Bangla, Azam Baki dan keputusan kabinet menyambung kontrak BestiNet
 - Implikasi antarabangsa (tier perdagangan manusia AS) dan kegagalan tindakan extradisi Aminul Islam
 - Pertelingkahan agihan kerusi PH-BN menjelang PRN Johor dan Melaka serta kawalan Anwar Ibrahim ke atas komponen parti
-- Skandal jualan tanah kerajaan Selangor kepada JKOM di Subang Jaya dan isu ketelusan (Freedom of Information)
+- Skandal jualan tanah kerajaan Selangor kepada J-KOM di Subang Jaya dan isu ketelusan (Freedom of Information)
 - 'Penutup: ucapan Hari Thaipusam dan Hari Wilayah Persekutuan'
-summary: Episod ke-33 podcast Yang Berhenti Menteri menampilkan tetamu pertama secara fizikal, YB Wong Chen, Ahli Parlimen Subang. Perbualan bermula dengan icebreaker tentang perkenalan Rafizi dan Wong Chen sejak era isu GST 2009, sebelum masuk segmen "Beria" yang menilai beberapa kejadian viral minggu itu (retreat Wanita Keadilan bersama Shamsul Iskandar, promosi konsert oleh pimpinan PKR, jawapan parlimen Menteri Agama tentang "faktor gay", dan u-turn ujian diagnostik murid Tahun 1). Selepas itu perbincangan meningkat kepada isu standing order Rafizi tentang siasatan serangan ke atas anaknya, pergolakan dalaman Perikatan Nasional dan PAS, isu tax refund RM33.3 bilion dan Akta Fiscal Responsibility, laporan siasatan Bloomberg mengenai sindiket BestiNet/FWCMS dan pemerdagangan pekerja Bangladesh, konflik perebutan kerusi PH-BN menjelang PRN Johor dan Melaka, serta skandal jualan tanah kerajaan Selangor kepada JKOM di Subang Jaya. Episod ditutup dengan ucapan selamat menyambut Thaipusam dan Hari Wilayah Persekutuan.
+summary: Episod ke-33 podcast Yang Berhenti Menteri menampilkan tetamu pertama secara fizikal, YB Wong Chen, Ahli Parlimen Subang. Perbualan bermula dengan icebreaker tentang perkenalan Rafizi dan Wong Chen sejak era isu GST 2009, sebelum masuk segmen "Beria" yang menilai beberapa kejadian viral minggu itu (retreat Wanita Keadilan bersama Shamsul Iskandar, promosi konsert oleh pimpinan PKR, jawapan parlimen Menteri Agama tentang "faktor gay", dan u-turn ujian diagnostik murid Tahun 1). Selepas itu perbincangan meningkat kepada isu standing order Rafizi tentang siasatan serangan ke atas anaknya, pergolakan dalaman Perikatan Nasional dan PAS, isu tax refund RM33.3 bilion dan Akta Fiscal Responsibility, laporan siasatan Bloomberg mengenai sindiket BestiNet/FWCMS dan pemerdagangan pekerja Bangladesh, konflik perebutan kerusi PH-BN menjelang PRN Johor dan Melaka, serta skandal jualan tanah kerajaan Selangor kepada J-KOM di Subang Jaya. Episod ditutup dengan ucapan selamat menyambut Thaipusam dan Hari Wilayah Persekutuan.
 language: ms
 model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
+
+<!-- nav -->
+**Yang Berhenti Menteri episode 33 — PN Dari Bergolak Ke Berkecai & Skandal Yang Belum Selesai**  
+30 January 2026 · 2h 48m · [watch on YouTube](https://www.youtube.com/watch?v=hI_cgYwwtqg)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
 
 # Interview (Bahasa Melayu)
 
@@ -1015,7 +1023,7 @@ Cuma saya harap juga, bila perkara ini — saya harap ia tidak berhenti dengan k
 
 **Rafizi:** Okay.
 
-**Wong Chen:** Dan macam mana JKOM ini boleh memilikinya? Macam mana dia boleh dapat tanah ini? 169 ekar ini.
+**Wong Chen:** Dan macam mana J-KOM ini boleh memilikinya? Macam mana dia boleh dapat tanah ini? 169 ekar ini.
 
 **Rafizi:** Ya.
 
@@ -1027,7 +1035,7 @@ Cuma saya harap juga, bila perkara ini — saya harap ia tidak berhenti dengan k
 
 **Rafizi:** Tak diberi.
 
-**Wong Chen:** Jadi bagi saya, tulis surat, beri garis masa 2 minggu. Itu saya rasa 16 Disember saya tulis surat pertama. Tunggu tahun baru, tiada jawapan. Okeylah, mungkin Krismas, cuti, tak apalah. Kemudian kita bagi satu lagi garis masa. Pada 6 Januari, kita tulis satu lagi surat memberi 14 hari lagi. Kebetulan parlimen bersidang pada 20 haribulan, sempat. Habis tempoh 14 hari itu, jadi kita pun dah buat kajian sendiri. Kita pergi NAPIC, rekod peringkat kebangsaan — data itu di bawah Kementerian Kewangan. Kita cari — tanah di kawasan ini JKOM beli berapa. Kita dapati konteks sejarah untuk 139 [ekar]. 30 ekar lagi belum ditemui. Daripada situ kita lihat bahawa tanah ini dijual dalam dua peringkat. Peringkat pertama lebih kurang 30 ekar, dijual oleh Tan Sri Khalid semasa beliau Menteri Besar.
+**Wong Chen:** Jadi bagi saya, tulis surat, beri garis masa 2 minggu. Itu saya rasa 16 Disember saya tulis surat pertama. Tunggu tahun baru, tiada jawapan. Okeylah, mungkin Krismas, cuti, tak apalah. Kemudian kita bagi satu lagi garis masa. Pada 6 Januari, kita tulis satu lagi surat memberi 14 hari lagi. Kebetulan parlimen bersidang pada 20 haribulan, sempat. Habis tempoh 14 hari itu, jadi kita pun dah buat kajian sendiri. Kita pergi NAPIC, rekod peringkat kebangsaan — data itu di bawah Kementerian Kewangan. Kita cari — tanah di kawasan ini J-KOM beli berapa. Kita dapati konteks sejarah untuk 139 [ekar]. 30 ekar lagi belum ditemui. Daripada situ kita lihat bahawa tanah ini dijual dalam dua peringkat. Peringkat pertama lebih kurang 30 ekar, dijual oleh Tan Sri Khalid semasa beliau Menteri Besar.
 
 **Rafizi:** Tengok, tapi bila ia diwartakan — dinyahwartakan sebagai — 1929, 26. 1926. Tidak, tidak. 1926 diwartakan sebagai hutan simpan.
 
@@ -1047,7 +1055,7 @@ Cuma saya harap juga, bila perkara ini — saya harap ia tidak berhenti dengan k
 
 **Rafizi:** Tapi kemudian kerajaan akan kata, well, apa nak dibising-bisingkan? Memang tanah itu bukan hutan simpan. Jadi.
 
-**Wong Chen:** Memanglah bukan hutan simpan, tapi ia tak pernah dimajukan. Cuma dari segi sejarah, dia pernah cuba dibangunkan, tapi ada bantahan oleh rakyat yang tinggal di situ — orang-orang Kinrara. Mereka bantah, saya rasa 2009, 2008 pernah dibantah sekali, kerajaan tolak. Jadi semasa Tan Sri Khalid menjadi Menteri Besar, menurut rekod dia menjual tanah itu kepada JKOM. Kemudian kelompok kedua, iaitu keping tanah besar, 130 ekar ini, dijual pada 2019 oleh Menteri Besar semasa.
+**Wong Chen:** Memanglah bukan hutan simpan, tapi ia tak pernah dimajukan. Cuma dari segi sejarah, dia pernah cuba dibangunkan, tapi ada bantahan oleh rakyat yang tinggal di situ — orang-orang Kinrara. Mereka bantah, saya rasa 2009, 2008 pernah dibantah sekali, kerajaan tolak. Jadi semasa Tan Sri Khalid menjadi Menteri Besar, menurut rekod dia menjual tanah itu kepada J-KOM. Kemudian kelompok kedua, iaitu keping tanah besar, 130 ekar ini, dijual pada 2019 oleh Menteri Besar semasa.
 
 **Rafizi:** Ya. Jadi yang menjual kedua-duanya Menteri Besar PKR. Betul.
 
@@ -1059,7 +1067,7 @@ Cuma saya harap juga, bila perkara ini — saya harap ia tidak berhenti dengan k
 
 **Rafizi:** Jadi ia dah jadi milik syarikat swasta. Bila ia dah jadi milik syarikat swasta itu, lama-lama dia nak monetisasikannya, dia nak bangunkan. Jadi apa pilihan yang ada kepada kerajaan negeri kecuali beli balik?
 
-**Wong Chen:** Tidak, tidak, itu sebabnya — isu ini menjadi besar kerana lebih kurang 4-5 bulan lalu, JKOM buat kajian penilaian impak sosial. Jadi ada orang turun menemu bual penduduk — bagaimana kalau kita bina rumah di kawasan ini. Maklum balas itu negatif, sebab mereka telah menentangnya pada 2008 pada masa itu. Jadi itu sampai ke pejabat saya dari situ. Jadi apabila kita meminta maklumat daripada kerajaan Selangor — kita ahli parlimen Selangor — mereka tak beri. Bila tak beri, kita buat kajian, kita tahu transaksi seperti yang saya katakan tadi. Yang mengejutkan ialah RM13.80 — tanah itu dijual pada RM13.80 sekaki persegi. Nilai pasaran masa itu, saya tak tahu, saya bukan penilai. Cuma ada pengulas yang membandingkan — pengulas daripada Kini Biz. Dia buat kajian, dia guna iProperty ataupun apa sahaja, saya tak tahu apa asasnya, tapi dia kata lebih kurang RM50 hingga RM200. Jadi dia timbulkan isu ini untuk saya dan juga YB Chen Chong, sebab YB Chen Chong sangat berminat dengan isu hutan — dia ada program PJ Lestari. Jadi kita mula melihat perkara ini dan cuba memahaminya. Kalau kita nak minta kerajaan beli balik, RM13.80 kali 169 ekar ini lebih kurang 200 juta, 190 sekian juta, kerana kita juga beri faedah kompaun 8%. Jadi kita hitung semua ini dan kemudian kita cadangkan kepada kerajaan — adakah anda mempunyai 200 juta?
+**Wong Chen:** Tidak, tidak, itu sebabnya — isu ini menjadi besar kerana lebih kurang 4-5 bulan lalu, J-KOM buat kajian penilaian impak sosial. Jadi ada orang turun menemu bual penduduk — bagaimana kalau kita bina rumah di kawasan ini. Maklum balas itu negatif, sebab mereka telah menentangnya pada 2008 pada masa itu. Jadi itu sampai ke pejabat saya dari situ. Jadi apabila kita meminta maklumat daripada kerajaan Selangor — kita ahli parlimen Selangor — mereka tak beri. Bila tak beri, kita buat kajian, kita tahu transaksi seperti yang saya katakan tadi. Yang mengejutkan ialah RM13.80 — tanah itu dijual pada RM13.80 sekaki persegi. Nilai pasaran masa itu, saya tak tahu, saya bukan penilai. Cuma ada pengulas yang membandingkan — pengulas daripada Kini Biz. Dia buat kajian, dia guna iProperty ataupun apa sahaja, saya tak tahu apa asasnya, tapi dia kata lebih kurang RM50 hingga RM200. Jadi dia timbulkan isu ini untuk saya dan juga YB Chen Chong, sebab YB Chen Chong sangat berminat dengan isu hutan — dia ada program PJ Lestari. Jadi kita mula melihat perkara ini dan cuba memahaminya. Kalau kita nak minta kerajaan beli balik, RM13.80 kali 169 ekar ini lebih kurang 200 juta, 190 sekian juta, kerana kita juga beri faedah kompaun 8%. Jadi kita hitung semua ini dan kemudian kita cadangkan kepada kerajaan — adakah anda mempunyai 200 juta?
 
 **Rafizi:** Mereka tidak ada. Saya tak tahu. Eh, mereka tidak ada. Mereka tidak akan.
 
@@ -1067,7 +1075,7 @@ Cuma saya harap juga, bila perkara ini — saya harap ia tidak berhenti dengan k
 
 **Rafizi:** Tapi kalau saya jadi Jekel, saya akan kata saya beli itu RM13 tahun 2013, 2019 semua — sekarang harganya dah jauh lebih tinggi. Yalah.
 
-**Wong Chen:** Saya faham. Sebab itu kita cadangkan pada awal anggaran apa yang patut dia minta. Kalau nak kita bayar pampasan, kita kena bayar faedah kompaun 8% lebih kurang. Jadi kita dapat angka ini — mungkin Jekel akan minta 400 juta, 500 juta, kemudian di luar persoalan. Tapi kita ni ahli parlimen — faham? Menjelang minggu lepas, satu lagi 1500 tandatangan — 5000 lebih dah tandatangan yang mereka kumpulkan untuk kita. Jadi saya cuma nak kerajaan beritahu saya fakta sejarah — bolehkah anda sahkan apa yang kita dapati di NAPIC itu betul atau tidak? Kemudian kira berapa yang kita sanggup tawarkan untuk membeli balik daripada JKOM. Kalau tak boleh beli balik, JKOM akan meminta perintah pembangunan. Tapi kerana dia beli tanah itu untuk pembangunan. Jadi apa yang akan berlaku? Kita hadkan nisbah plot? Ia tidak adil kepada JKOM, untuk berlaku adil kepada semua. Tetapi KiniBiz kata nampaknya tanah ini murah. Jadi itulah masalahnya. Tetapi apa yang paling mengejutkan bagi saya — tapi kalau anda jadi MB, katakanlah anda jadi MB.
+**Wong Chen:** Saya faham. Sebab itu kita cadangkan pada awal anggaran apa yang patut dia minta. Kalau nak kita bayar pampasan, kita kena bayar faedah kompaun 8% lebih kurang. Jadi kita dapat angka ini — mungkin Jekel akan minta 400 juta, 500 juta, kemudian di luar persoalan. Tapi kita ni ahli parlimen — faham? Menjelang minggu lepas, satu lagi 1500 tandatangan — 5000 lebih dah tandatangan yang mereka kumpulkan untuk kita. Jadi saya cuma nak kerajaan beritahu saya fakta sejarah — bolehkah anda sahkan apa yang kita dapati di NAPIC itu betul atau tidak? Kemudian kira berapa yang kita sanggup tawarkan untuk membeli balik daripada J-KOM. Kalau tak boleh beli balik, J-KOM akan meminta perintah pembangunan. Tapi kerana dia beli tanah itu untuk pembangunan. Jadi apa yang akan berlaku? Kita hadkan nisbah plot? Ia tidak adil kepada J-KOM, untuk berlaku adil kepada semua. Tetapi KiniBiz kata nampaknya tanah ini murah. Jadi itulah masalahnya. Tetapi apa yang paling mengejutkan bagi saya — tapi kalau anda jadi MB, katakanlah anda jadi MB.
 
 **Rafizi:** Saya mula bercakap. Apa pilihan yang anda ada? Kerana dari segi kewangan, kalau contohnya kerajaan negeri Selangor bersetuju untuk membeli balik, katakanlah menghabiskan 300 juta, dan dia tak ada lebihan sebanyak itu. Selangor sebenarnya hasilnya tak banyak, dalam 2 bilion lebih sahaja. Ha kan. Jadi katakanlah dia kena beli 300 juta, tapi penduduk lain pula — penduduk di Pandan, penduduk di Selayang pula kata, "Eh, kenapa habiskan 300 juta pergi beli tanah di Subang ini? 300 juta itu lebih baik diberi kepada kami seluruh negeri, bagi bakul ke, bagi komputer percuma semua." Jadi kalau anda jadi MB, macam mana anda nak buat? Kerana kalau anda tak beli, sebab tanah itu dah dijual oleh MB-MB PKR sebelum ini — kalau anda tak beli, dia akan hantar permohonan perintah pembangunan nanti untuk membina. Bila dia hantar perintah pembangunan, kalau majlis tempatan, dalam kes ini di bawah MBSJ—
 
