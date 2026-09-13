@@ -12,8 +12,8 @@ hosts:
 - Rafizi
 - Haziq
 - Farhan (Pa'an)
-- Iqbal
-guests: []
+guests:
+- Iqbal Fatkhi
 topics:
 - Kontroversi Ngah Koming dan penglibatan bukan Islam dalam tazkirah agama
 - Pengumuman cuti sekolah dan budaya gula-gula politik kerajaan
