@@ -79,17 +79,22 @@ def check(ep_dir):
     have_mai = bool(glob.glob(str(ROOT / f"data/_mai_{vid}" / "mai_response_*.json")))
     issues = []
     if not model:
-        issues.append("[raw-engine-unknown] raw.md records no `model:` -- it predates the "
-                      "field, so what transcribed these words is not recoverable from the "
-                      "file. Rebuilding it through adopt_mai_camera_raw.py records it.")
+        issues.append((
+            "raw-engine-unknown",
+            "raw.md records no `model:` -- it predates the field, so what transcribed "
+            "these words is not recoverable from the file. Rebuilding it through "
+            "adopt_mai_camera_raw.py records it.",
+        ))
     elif BEST not in model.lower() and have_mai:
         gap = next((f", measured {v} WER against MAI's {WER['mai']} on podcast audio"
                     for k, v in WER.items() if k in model.lower()), "")
-        issues.append(f"[raw-engine-superseded] raw.md was transcribed by {model!r}{gap}, "
-                      f"and this episode's MAI words are already on disk in "
-                      f"data/_mai_{vid}/. It needs a camera reference, then "
-                      f"adopt_mai_camera_raw.py. A clean row above only means no known "
-                      f"failure signature fired, never that the words are right.")
+        issues.append((
+            "raw-engine-superseded",
+            f"raw.md was transcribed by {model!r}{gap}, and this episode's MAI words are "
+            f"already on disk in data/_mai_{vid}/. It needs a camera reference, then "
+            f"adopt_mai_camera_raw.py. A clean row only means no known failure signature "
+            f"fired, never that the words are right.",
+        ))
     return issues
 
 
@@ -109,8 +114,8 @@ def main():
         found = check(d)
         if found:
             print(f"\n{tag}  {d.name}")
-            for f in found:
-                print(f"   {f}")
+            for sig, why in found:
+                print(f"   [{sig}] {why}")
             n += len(found)
     print(f"\n{n} raw-engine issue(s)")
 

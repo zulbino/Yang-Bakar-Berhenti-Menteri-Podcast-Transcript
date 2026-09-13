@@ -63,7 +63,21 @@ ABSENT = r"(?:tak ada|tiada|tak dapat|tak sempat|tak join|tak hadir)"
 AMBIGUOUS = {"ep01", "ep02", "ep03", "ep04", "ep05", "ep06"}
 
 
+_EPISODES = None
+_KNOWN = None
+
+
 def episodes():
+    """Cached, because qa_check.py calls check_dir() once per episode and the `known` set
+    below is corpus-wide. Re-reading all 70 raw.md files for each of 70 episodes made a
+    single qa_check run take longer than the whole adoption pipeline."""
+    global _EPISODES
+    if _EPISODES is None:
+        _EPISODES = list(_scan())
+    return _EPISODES
+
+
+def _scan():
     for raw in sorted(glob.glob(str(ROOT / "episodes" / "*" / "*" / "raw.md"))):
         d = Path(raw).parent
         iv = d / "interview.md"
@@ -88,17 +102,23 @@ def episodes():
         }
 
 
+def _known_speakers():
+    """Everyone the corpus labels as a speaker anywhere, honorifics stripped. Corpus-wide
+    even when --episodes narrows the report, because that set is the whole point."""
+    global _KNOWN
+    if _KNOWN is None:
+        _KNOWN = set()
+        for e in episodes():
+            _KNOWN |= {HONORIFIC.sub("", s) for s in e["speakers"]
+                       if s and not s.startswith(NOT_A_PERSON)}
+    return _KNOWN
+
+
 def check(only=None):
     eps = [e for e in episodes() if not only or e["tag"] in only]
     if not eps:
         return []
-    # Everyone the corpus labels as a speaker anywhere. Built over the WHOLE corpus even
-    # when --episodes narrows the report, because that set is the whole point.
-    known = set()
-    for e in episodes():
-        known |= {HONORIFIC.sub("", s) for s in e["speakers"]
-                  if s and not s.startswith(NOT_A_PERSON)}
-
+    known = _known_speakers()
     issues = []
     for e in eps:
         cast = set(e["hosts"]) | set(e["guests"])
@@ -152,7 +172,7 @@ def check_dir(ep_dir):
     tag = ep_dir.name.split("-")[3]
     if tag in AMBIGUOUS:
         tag += ":" + ep_dir.parent.name.split("-")[1]
-    return [f"[{kind}] {why}" for t, kind, why in check({tag})]
+    return [(kind, why) for _, kind, why in check({tag})]
 
 
 def main():
