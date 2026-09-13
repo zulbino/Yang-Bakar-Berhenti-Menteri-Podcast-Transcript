@@ -317,11 +317,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:10:53] Rafizi: Okeylah. Kita, kita ada dalam 30 minit untuk habiskan.
 
-[2:10:57] Multiple speakers: Ada 2 lagi.
-
-[2:10:57] Multiple speakers: Ada 2 lagi.
-
-[2:10:59] Haziq: Jadi sebelum yang terakhir tu lah yang YB ada sebut-sebut tadi tu, kita pergi ke satu tajuk yang yalah saya rasa agak recent jugalah. Isu rumah ibadat. Penyelesaian atau tambah garam kepada luka lama. Dan mungkin kalau tengok pendekatan Perdana Menteri pun, YB, aa dia benarkan pembersihan rumah ibadat tanpa kebenaran. Tapi dalam masa sama, aa dia tak benarkan kempen yang berbentuk anti rumah ibadat haram. Nak runtuhkan sendiri ke, nak demo ke, tak boleh. Jadi yalah pada dia mungkin dia jalan tu okeylah. Dua-dua tu macam fair. Tapi adakah pendekatan ni sustainable? Aa ataupun mungkin ada cara yang lebih baik macam mana nak tackle this problem.
+[2:10:57] Haziq: Ada 2 lagi. Ada 2 lagi. Jadi sebelum yang terakhir tu lah yang YB ada sebut-sebut tadi tu, kita pergi ke satu tajuk yang yalah saya rasa agak recent jugalah. Isu rumah ibadat. Penyelesaian atau tambah garam kepada luka lama. Dan mungkin kalau tengok pendekatan Perdana Menteri pun, YB, aa dia benarkan pembersihan rumah ibadat tanpa kebenaran. Tapi dalam masa sama, aa dia tak benarkan kempen yang berbentuk anti rumah ibadat haram. Nak runtuhkan sendiri ke, nak demo ke, tak boleh. Jadi yalah pada dia mungkin dia jalan tu okeylah. Dua-dua tu macam fair. Tapi adakah pendekatan ni sustainable? Aa ataupun mungkin ada cara yang lebih baik macam mana nak tackle this problem.
 
 [2:11:49] Rafizi: Saya, pandangan saya ini akan dibenci oleh semua orang. Okey, mesti ada. Yang Melayu pun benci, yang bukan Melayu pun bencilah agaknya lah yang mendengar di luar kan. Dan saya rasa dalam hal yang cukup sensitif seperti ini,
 
