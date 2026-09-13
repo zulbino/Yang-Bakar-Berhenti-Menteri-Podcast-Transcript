@@ -10,7 +10,7 @@ This file governs behavior, not implementation. For how a script works, see
 and where it can be wrong, see [METHODOLOGY.md](METHODOLOGY.md). For the per-episode
 runbook, see [ATTRIBUTION_PASS.md](ATTRIBUTION_PASS.md).
 
-**Read [HANDOFF_2026-09-12.md](HANDOFF_2026-09-12.md) before touching anything below --
+**Read [HANDOFF_2026-09-13.md](HANDOFF_2026-09-13.md) first, then [HANDOFF_2026-09-12.md](HANDOFF_2026-09-12.md) --
 it has a fully diagnosed bug behind rule 7 (not a hypothetical) and the exact corpus
 state and running jobs at the point this file was written.**
 
