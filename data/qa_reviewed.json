@@ -135,5 +135,19 @@
    "reason": "A FALSE POSITIVE, the one check_agencies.py keeps by design. raw.md reads `saya nak kena tanya kabarlah kepada pasukan di Kementerian Kerana kalau betul Mereka boleh melahirkan robot`: `kerana` is the ordinary Malay conjunction, capitalised by the ASR mid-sentence, and the sentence names no ministry at all. It scores 0.90 against `Kementerian Kewangan` on letters alone. Nothing to fix in the text; documented in ARCHITECTURE.md as the surviving false positive.",
    "reviewed": "2026-09-12"
   }
+ },
+ "2025-08-08-ep08-yang-berhenti-menteri-8": {
+  "cast": {
+   "verdict": "open-until-reprocessed",
+   "reason": "check_cast.py (CLAUDE.md rule 9) reports 60 turns labelled `YB Rafizi` where every other episode says `Rafizi`. It is the same person. NOT PATCHED HERE, on the owner's standing rule of 2026-09-12: an unadopted episode comes up to standard by REPROCESSING it with the camera reference, never by hand-patching its local-ASR raw, because adoption rebuilds raw.md and overwrites any patch. ep08 has no camera reference yet. normalize_speaker_labels.py cannot do it either -- that tool only rewrites the `**Name:**` label in interview*.md, never raw.md's `[time] Name:`. Fix it when ep08 is adopted, by adding `YB Rafizi` to its RENAME map or to data/forced_labels.json.",
+   "date": "2026-09-13"
+  }
+ },
+ "2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard": {
+  "cast": {
+   "verdict": "benign",
+   "reason": "check_cast.py reports raw.md's label `Prof. Barjoyai` against the frontmatter guest `Prof. Emeritus Dr. Barjoyai Bardai`. That is CLAUDE.md rule 3 working as written: the frontmatter carries the full name, the body stays verbatim as spoken. The checker's prefix test cannot see it because the full name inserts `Emeritus Dr.` in the MIDDLE rather than appending to the label. Same person, no defect.",
+   "date": "2026-09-13"
+  }
  }
 }

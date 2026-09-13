@@ -53,6 +53,7 @@ import check_published  # published-file signatures; see its docstring
 import check_figures  # published figures vs raw.md; see its docstring
 import check_names  # published person names vs raw.md; see its docstring
 import check_agencies  # agency names in every file vs data/agency_roster.json
+import check_cast  # CLAUDE.md rule 9: the frontmatter cast vs who is really in the episode
 
 EPISODES_DIR = ROOT / "episodes"
 MANIFEST_PATH = ROOT / "data" / "manifest.json"
@@ -714,6 +715,11 @@ def check_episode(ep_dir):
     # of the Malaysian ministry) and ep05's `Akta SPRM 2009`, a passage about appointing
     # the Chief Justice citing the anti-corruption commission's act.
     issues.extend(check_agencies.check(ep_dir))
+    # And this one reads the CAST, CLAUDE.md rule 9, which had no checker until
+    # 2026-09-13. ep39 listed its invited guest Iqbal under `hosts:`, which silently
+    # disables guest_gallery.py's one-guest bijection -- so a face nothing could name
+    # went to a person instead of to identify_person.py.
+    issues.extend(check_cast.check_dir(ep_dir))
 
     return issues, models
 

@@ -1550,3 +1550,132 @@ the unidentified talking time -- ep42 measured 97%), then
 HOST, so the one-guest bijection does not apply, and two clusters talk. That one needs a
 census, a contact sheet and a person's eye.
 
+### ep39 needed no person after all: `identify_person.py`, and why every tool read only the corpus (2026-09-13)
+
+The section above ends "that one needs a census, a contact sheet and a person's eye."
+That was wrong twice, and the owner named the reason: *"Do we become to rigid in our tools
+that we so narrow down that we can't think outside the box?"*
+
+**First, the census never needed the GPU.** `camera_speakers.py census` is
+`cv2.FaceDetectorYN` plus `cv2.FaceRecognizerSF`, both OpenCV DNN on CPU. Only LR-ASD's
+active-speaker pass needs CUDA. ep39's census was queued behind a four-episode GPU chain
+for nothing; run alone it took 9 minutes and sampled 1,033 faces from 170 minutes.
+
+**Second, and this is the real gap: every naming tool read the corpus's own files.**
+raw.md's labels, the frontmatter cast, camera clusters, voice centroids. All 27 people the
+corpus can name came from inside it. Rules 1 and 2 have said to web-verify a name since the
+beginning, yet no script did, and the show's own YouTube description has been sitting in
+`data/manifest.json` for all 70 episodes with no cast check reading it. So the loop's last
+step was always "no internal tool can name this, escalate", which is not the same statement
+as "unidentifiable".
+
+`identify_person.py` closes it. A public photograph of a named person is an independent
+witness in exactly the sense `camera_speakers.py` is: no audio model made it and it did not
+come from this corpus. It is compared to face clusters the same way, SFace embeddings and
+cosine, reusing `camera_speakers.FLOOR` 0.55 and `MARGIN` 0.10.
+
+**It is calibrated before it is trusted, because rule 8 forbids a confident guess.**
+`calibrate` runs the matcher against faces the gallery already holds and prints the matrix:
+
+| reference photo | Farhan | Haziq | Rafizi | verdict |
+|---|---|---|---|---|
+| Rafizi (Wikimedia) | +0.068 | +0.234 | **+0.740** | right, margin +0.506 |
+| Anwar Ibrahim | +0.087 | +0.070 | +0.151 | below the 0.55 floor, rejected |
+| Nik Nazmi | +0.091 | +0.046 | +0.174 | below the floor, rejected |
+
+So it names a known face across a different camera and year, and it rejects a stranger.
+`match` then refuses three ways: under the floor, two clusters inside the margin, or a
+cluster that already matches a gallery face (which would rename a known person).
+
+**ep39's answer.** Two independent photographs of Iqbal Fatkhi, from wikiimpact.com and
+projectliber8.org, both pick cluster 0: +0.672 and +0.710, with the next cluster at +0.085
+and +0.180. Cluster 0 scores +0.229 against the closest of the three known hosts, while
+clusters 5, 1, 2 and 8 match them at +0.947, +0.876, +0.759 and +0.587. Enrolled with
+within-person minimum 0.63 against cross-person maximum 0.38. He is Editor-in-Chief of
+Cilisos Media, which is why ep10 is titled `Yang Berhenti Menteri X CiliSos`.
+
+**Two things the method does not license.** A search for a common given name returns
+several different people, so the name must come from the episode's own text or the show's
+description, never the photo caption -- ep39 says `kenapa kita jemput Iqbal` and
+`dah 3-4 kali dijemput`. And a high score against a mixed cluster names two people at
+once, so `match` prints each cluster's internal cohesion (ep39's were 0.864 to 0.896).
+
+### `check_cast.py`: the frontmatter cast was a derived claim nothing checked (2026-09-13)
+
+`guest_gallery.py` runs its bijection on `guests:`. ep39 lists Iqbal under `hosts:`, so it
+never tried, and it said so honestly rather than guessing. The `hosts:`/`guests:` fields
+are written by the rewrite pipeline from the transcript, which makes them a DERIVED claim,
+and nothing compared them to the episode's own words or to who actually speaks.
+
+Three signatures, report-only. Four rounds of noise had to be cut, and each cut is a
+lesson about this corpus:
+
+1. **52 hits, mostly `YB Rafizi`.** It is ep08's stray label variant, not a person, and
+   every episode opens with `bersama YB Rafizi`, so it fired on all 70. Honorifics are now
+   stripped for comparison only.
+2. **`bersama Trump`, `bersama Netanyahu`.** A bare intro-formula scan cannot tell a guest
+   from a subject. The signature is now cross-episode: it fires only for a person the
+   corpus labels SOMEWHERE ELSE, so it can only flag someone it already knows how to name.
+3. **Two filler words of slack was still too loose.** It caught ep48's `kalau tengok Nik
+   lah kan ... Nik Nazmi` and ep35's `aku dah nasihat dia pasal Farhan` -- people being
+   discussed. The name must now follow the formula directly, in the opening 120 lines, and
+   an `ABSENT` test kills ep35's `saudara Farhan tak ada pada hari ini`, which says
+   outright that he is not there.
+4. **Two people can share a given name.** The match is on the first word, because the text
+   says `saudara Faiz` where the label says `Faiz Ahmad`. ep03's `Faiz (Financial Faiz)`
+   and ep04's `Faiz Ahmad` each flagged the other's episode until the same extension test
+   `check_agencies.py` uses was applied.
+
+**A trap worth writing down: both shows have an ep01 through ep06, and they are different
+episodes.** `common.raw_for_tag()` already refuses a bare ambiguous tag and demands
+`ep03:bakar` or `ep03:berhenti`. A checker that globs paths itself bypasses that guard and
+merges two episodes' data under one tag, which is what produced the Faiz pair above.
+`check_cast.py` now carries the same suffix.
+
+Final: 3 findings. ep39's `guest-as-host`, fixed via `common.set_frontmatter_list` to
+`guests: [Iqbal Fatkhi]` (rule 3's full name) with the H1 verified intact. ep08's 60 `YB
+Rafizi` turns, left alone and recorded in `data/qa_reviewed.json` as
+`open-until-reprocessed` -- it is a local-ASR raw with no camera reference, and the owner's
+standing rule is to reprocess, never hand-patch. `normalize_speaker_labels.py` could not do
+it either: that tool only rewrites the `**Name:**` label in interview*.md, never raw.md's
+`[time] Name:`. ep02:bakar's `Prof. Barjoyai` against `Prof. Emeritus Dr. Barjoyai Bardai`,
+recorded benign: rule 3 working, and the prefix test misses it only because the full name
+inserts words in the middle instead of appending.
+
+### rule 7's tail: the owner ruled it 11 of 11, so the tool writes now (2026-09-13)
+
+`check_overlap_boundaries.py` classes a pair `tail` when the camera shows the NEXT speaker
+for at least 2 of the 3 seconds before the boundary, skipping the block's own first second
+because the cut lags speech by about two seconds. All 11 tail boundaries were escalated
+with a `?t=` link and a contact sheet. The owner ruled every one the way the camera had
+already read it -- the words at the end of the first block belong to the next speaker --
+and added *"Actually all these can be verified visually..."*
+
+**What `move_hanging_words.py` was blind to.** `split_tail()` returns the words after a
+block's LAST sentence end. Six of the eleven blocks contain no sentence end at all: the
+whole 2-to-7-word block is the hanging fragment, so `tail` was empty and the pair was
+skipped in silence. ep62 `White pap-`, ep57 `Itu sebenarnya ialah`, ep56 `Dan kita telah
+pun bersetuju aa langkah-langkah`, ep49 `So my concern masa itu ialah` and `Consistently,
+the only`, ep47 `Kerana, kerana beritanya ialah`.
+
+**The new branch gives the camera a veto, and the branch above it does not.** That is
+deliberate, not an inconsistency. For a partial tail the SHAPE decides, because a sentence
+is not split between two speakers and a camera cut is not a speaker change. For a WHOLE
+block shape cannot decide, because rule 7 says a short block between two different
+speakers may be a real interruption. What decides it is the measured tail signature.
+Where the camera has no coverage, a recorded owner ruling moves it instead (ep56 01:24),
+because rule 4 puts a person above every tool.
+
+**A bug that made every rule-7 ruling unenforced.** `check_owner_decisions.py` skips any
+key whose first character is not a digit, and it only reads a section whose name contains
+the episode tag. The `ep33@22:47` keys used for the four boundaries decided on 2026-09-12
+satisfied neither, so the gate silently checked nothing. All 15 rule-7 decisions now live
+in per-episode sections with bare stamp keys, and the gate reports them: ep33 2, ep46 1,
+ep47 2, ep49 4, ep50 2, ep51 1, ep54 1, ep56 7, ep57 11, ep62 16, all preserved,
+0 mismatched.
+
+Result: 21 tails and 6 whole blocks moved across 17 episodes, every word conserved by the
+existing guard, then `merge_same_speaker.py` for rule 6. The detector went from
+0 contested / 11 tail to **0 contested / 0 tail across all 27 episodes with a camera
+reference**. 10 published turns in 7 episodes then disagreed with raw.md and are being
+regenerated: ep33, ep42, ep47, ep48, ep50, ep53, ep54, ep62.

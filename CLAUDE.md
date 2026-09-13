@@ -35,13 +35,13 @@ not verification:
   episode's history, this file and HANDOFF_2026-09-12.md for standing rules -- check
   these first; do not re-run a multi-minute investigation to reconstruct something
   already written down.
-- **Still do every check in the eight standards below, every time, in full.** "Token
+- **Still do every check in the nine standards below, every time, in full.** "Token
   efficient" describes how the work gets reported and reasoned about, never which
-  verification passes get run. A rule from the eight standards being expensive to
+  verification passes get run. A rule from the nine standards being expensive to
   enforce is not a reason to skip it -- it is a reason to say so and fix the checker,
   the same as rule 2's and rule 7's gaps above.
 
-## The eight standards
+## The nine standards
 
 ### 1. Every spoken name is spelled correctly
 
@@ -192,7 +192,60 @@ own clock, which drifts) -- never expect a scroll through the video to find the
 moment. This is the standing rule from every attribution pass this corpus has run:
 tools decide what tools can decide; a human ear decides the rest, and only that rest.
 
-## The governing principle behind all eight
+### 9. Exhaust the evidence OUTSIDE the corpus before asking a person
+
+**Owner's rule, 2026-09-13:** *"can we make another rule, do make a verification loop via
+tools at hand, web search, social media etc then build it up to confidently identify
+instead of waiting for me. I dont want to be a blocker."*
+
+Rule 8 says a human ear decides what tools cannot. This rule narrows what "cannot" means.
+Every naming tool this repo had read the corpus's own files -- raw.md's labels, the
+frontmatter cast, camera clusters, voice centroids -- so all 27 people it could name came
+from inside it. Rules 1 and 2 already say to web-verify a name, yet no script did, and the
+YouTube description has been sitting in `data/manifest.json` for all 70 episodes unread by
+any cast check. So the loop stopped at "no internal tool can name this face" and escalated.
+**That is not the same thing as unidentifiable, and the difference was ep39 waiting on a
+person for a face that two public photographs settle in minutes.**
+
+Before escalating an unnamed person, in this order:
+
+1. **The corpus's own other episodes.** A recurring guest has face vectors and a name
+   somewhere else; reuse them rather than re-deriving. ep39's Iqbal is a labelled speaker
+   in ep10 and ep11.
+2. **The episode's own words.** The show introduces everyone: `kita ada saudara Iqbal`,
+   `kenapa kita jemput Iqbal`, `dah 3-4 kali dijemput`. That is also the evidence that
+   settles host-versus-guest, which ep39 had wrong.
+3. **The show's own YouTube description and title**, from `data/manifest.json`. ep10's
+   title `Yang Berhenti Menteri X CiliSos` is what identifies Iqbal's organisation.
+4. **Web search and a public photograph.** `identify_person.py` compares a public photo
+   against the episode's face clusters. A photo is an independent witness in the same
+   sense as the camera: no audio model made it and it did not come from this corpus.
+5. **Only then**, escalate with a `?t=` link and a contact sheet, per rule 8.
+
+**The measured bar, because rule 8 forbids a confident guess.** `identify_person.py
+calibrate` must run first and its matrix must be read. Measured 2026-09-13 against the
+gallery's own faces: Rafizi's Wikimedia portrait scores **+0.740** on Rafizi, while Anwar
+Ibrahim scores +0.151 and Nik Nazmi +0.174, both under the 0.55 floor. So it names a known
+face and rejects a stranger. `match` then refuses three ways: below the floor, two clusters
+inside the 0.10 margin, or a cluster that already matches a gallery face. ep39's cluster 0
+was accepted on two independent photos at **+0.672** and **+0.710** with the next cluster
+at +0.085 and +0.180, and it scores only +0.229 against the closest known host.
+
+**Two things this rule does not license.** A web search for a common given name returns
+several different people, so the name must be sourced from the episode's own text or the
+show's description, never from the photo caption alone -- and the photo URL is recorded
+next to the label so the provenance travels with it. And a high score against a mixed
+cluster names two people at once, so `match` prints each cluster's internal cohesion.
+
+**Also fixed by this rule's first pass, and it is the class to watch:** the frontmatter
+cast is written by the rewrite pipeline from the transcript, and nothing ever compared it
+to the episode's own description or to who actually speaks. 7 episodes name a speaker in
+raw.md who is in neither `hosts:` nor `guests:` (ep01 Najib and Nazri, ep02 Prof.
+Barjoyai, ep03 Faiz, ep06 Eric See-To, ep07 Daniel, ep08 `YB Rafizi` as a label variant,
+ep09 Rodziah Ismail). `Multiple speakers` and `Audience` are sanctioned labels and are not
+findings.
+
+## The governing principle behind all nine
 
 Every one of the above is enforced by a script that runs the same way every time, not
 a one-off manual pass: `check_names.py`, `check_agencies.py`, `check_figures.py`,
