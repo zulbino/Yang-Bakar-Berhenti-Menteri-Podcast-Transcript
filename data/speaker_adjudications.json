@@ -820,6 +820,13 @@
    "who": "Haziq",
    "text_now": "satu tajuk yang yalah saya rasa agak recent jugalah. Isu rumah ibadat.",
    "_note": "Was `Multiple speakers`. Continues Haziq's own sentence from [2:10:59], `...kita pergi ke`. Merged into that block by merge_same_speaker.py afterwards."
+  },
+  "2:10:57": {
+   "who": "Haziq",
+   "text_now": "Ada 2 lagi. Ada 2 lagi.",
+   "_note": "Owner, 2026-09-14: \"Ada 2 lagi is Haziq alone. And Rafizi is drinking if you verify with image\". Was TWO blocks, both labelled `Multiple speakers`, at the same stamp. VERIFIED FROM THE VIDEO as instructed: frames_at.py ep35 --range 2:10:52 2:11:06 shows Rafizi holding a white mug from 2:10:53 and drinking with it at his lips from 2:10:55 through 2:10:59, then the shot cuts to a close-up of Haziq talking at 2:11:00. MAI puts the two tokens at 7857.3s and 7857.9s, inside that window, so Rafizi physically cannot be either voice.",
+   "_why_the_frames_count_here": "frames_at.py's own warning is that a two-shot proves nothing about WHO is speaking, and 2:10:53-2:10:59 is a two-shot. It still proves a NEGATIVE decisively: a mug at the lips rules that person out. The positive identification comes from the owner's ear plus the sentence continuing into Haziq's next block.",
+   "_both_kept": "BOTH occurrences kept. The ruling names the speaker, it does not call either one spurious, and Rafizi being on a mug means neither is his mumble. The standing rule is that a repeated real word is not assumed to be an ASR bug, so a fast self-repeat 0.6s apart stays as spoken. merge_same_speaker.py then joined them with [2:10:59] into one Haziq block, which is rule 6."
   }
  }
 }
