@@ -9,7 +9,7 @@ duration: 1h 36m
 view_count: 50162
 hosts:
 - Rafizi
-- Iqbal
+- Iqbal Fatkhi
 guests:
 - Chak Onn Lau
 topics:
