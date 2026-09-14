@@ -10,43 +10,50 @@
    {
     "speaker": "Wan Afiq",
     "raw_share_of_words": 0.115,
-    "reference_share_of_time": 0.0
+    "reference_share_of_time": 0.101,
+    "_resolved": "RESOLVED before 2026-09-14 and re-measured that day. Wan Afiq is enrolled in data/_face_gallery_C9xGMQMP6o8.json and the rebuilt reference gives him 10.1% of time against 11.9% of raw's words. check_camera_reference.py ep50 now reports 1 usable, 0 refused."
    }
   ],
-  "ep52": [
-   {
-    "speaker": "Zaim Zulkifli",
-    "raw_share_of_words": 0.094,
-    "reference_share_of_time": 0.0
-   },
-   {
-    "speaker": "Syuk",
-    "raw_share_of_words": 0.086,
-    "reference_share_of_time": 0.0
-   }
-  ],
-  "ep55": [
-   {
-    "speaker": "Dato' Dr. Samsu Adabi Mamat",
-    "raw_share_of_words": 0.076,
-    "reference_share_of_time": 0.0
-   },
-   {
-    "speaker": "Dato' Dr. Syed Azuan Al-Idrus (DSA)",
-    "raw_share_of_words": 0.063,
-    "reference_share_of_time": 0.0
-   },
-   {
-    "speaker": "Dr. Harith Fakhrudin",
-    "raw_share_of_words": 0.06,
-    "reference_share_of_time": 0.0
-   },
-   {
-    "speaker": "Tang Hong Yau",
-    "raw_share_of_words": 0.054000000000000006,
-    "reference_share_of_time": 0.0
-   }
-  ],
+  "ep52": {
+   "speakers": [
+    {
+     "speaker": "Zaim Zulkifli",
+     "raw_share_of_words": 0.094,
+     "reference_share_of_time": 0.0
+    },
+    {
+     "speaker": "Syuk",
+     "raw_share_of_words": 0.086,
+     "reference_share_of_time": 0.0
+    }
+   ],
+   "_status_2026_09_14": "STILL REFUSED, re-measured 2026-09-14: Zaim Zulkifli and Syuk are both still 0.0% of reference time, and Rafizi absorbs the difference at 89.6% of time against 70.8% of raw's words. NEITHER GUEST IS ENROLLED ANYWHERE in the corpus, so the 2026-09-14 ep29 recipe (reuse a recurring guest's vectors from another episode's gallery) does NOT apply. guest_gallery.py cannot help either: its bijection rule needs ONE guest holding 90%+ of the unidentified talking time, and this episode has two. The path is rule 9: identify_person.py with a public photograph for each, calibrate first. ep52 IS adopted, and raw.md still names both guests from MAI's own labels, so the attribution is weaker rather than wrong."
+  },
+  "ep55": {
+   "speakers": [
+    {
+     "speaker": "Dato' Dr. Samsu Adabi Mamat",
+     "raw_share_of_words": 0.076,
+     "reference_share_of_time": 0.0
+    },
+    {
+     "speaker": "Dato' Dr. Syed Azuan Al-Idrus (DSA)",
+     "raw_share_of_words": 0.063,
+     "reference_share_of_time": 0.0
+    },
+    {
+     "speaker": "Dr. Harith Fakhrudin",
+     "raw_share_of_words": 0.06,
+     "reference_share_of_time": 0.0
+    },
+    {
+     "speaker": "Tang Hong Yau",
+     "raw_share_of_words": 0.054000000000000006,
+     "reference_share_of_time": 0.0
+    }
+   ],
+   "_status_2026_09_14": "STILL REFUSED, re-measured 2026-09-14: all FOUR guests at 0.0% of reference time, and the reference covers only two speakers. Rafizi absorbs the difference at 89.8% of time against 67.1% of raw's words. None of the four is enrolled, and four guests defeat guest_gallery.py's one-guest bijection completely. Same path as ep52 and four times the work: Dato' Dr. Samsu Adabi Mamat, Dr. Harith Fakhrudin, Tang Hong Yau, and Dato' Dr. Syed Azuan Al-Idrus. This is the hardest blind reference in the corpus."
+  },
   "ep42": [
    {
     "speaker": "Zikri Kamarulzaman",
@@ -64,6 +71,15 @@
     "_found": "2026-09-13, same queue. 3 of 48 Iqbal blocks moved to a host. Adoption REVERTED.",
     "_resolved": "RESOLVED 2026-09-13 with NO human input, which is the point. The blocker was never the face, it was that every naming tool read only this corpus. identify_person.py (CLAUDE.md rule 9) matched two independent public photographs of Iqbal Fatkhi, from wikiimpact.com and projectliber8.org, against the episode's face clusters: both pick cluster 0 at +0.672 and +0.710 with the next cluster at +0.085 and +0.180, and cluster 0 scores only +0.229 against the closest of the three known hosts. Calibrated first on the gallery's own faces (Rafizi's Wikimedia portrait +0.740, Anwar Ibrahim +0.151 and Nik Nazmi +0.174, both under the 0.55 floor). The census needed NO GPU -- it is OpenCV on CPU, and it had been queued behind a four-episode chain for nothing. The frontmatter was also wrong and check_cast.py now catches it: ep39 says `kenapa kita jemput Iqbal` and `dah 3-4 kali dijemput`, so he is a guest, not a host. Reference rebuilt: Iqbal 4.3% of camera time against 4.8% of raw's words, where before he had 0.0%. Adopted: 493s under the wrong name down to 119s, hanging fragments 36 to 3, grunt-only turns 4 to 0, and the voice witness learned his voice at self 0.85 against Rafizi 0.25."
    }
+  ],
+  "ep33": [
+   {
+    "speaker": "Wong Chen",
+    "raw_share_of_words": 0.212,
+    "reference_share_of_time": 0.204,
+    "_resolved": "RESOLVED before 2026-09-14 and re-measured that day. Wong Chen is enrolled in data/_face_gallery_hI_cgYwwtqg.json and the rebuilt reference gives him 20.4% of time against 21.2% of raw's words. check_camera_reference.py ep33 now reports 1 usable, 0 refused."
+   }
   ]
- }
+ },
+ "_status_2026_09_14": "THIS FILE IS HAND-MAINTAINED: check_camera_reference.py reads a reference and prints, it does not write here, and it has no --all flag. So the register goes stale silently. Re-measured every entry on 2026-09-14 and two were already fixed: ep33 and ep50 both pass now, and ep42 was recorded as resolved earlier. Only ep52 and ep55 are still refused, and both need rule 9 photographs rather than a gallery merge. Re-run `python scripts/check_camera_reference.py <tag>` per episode before trusting any line in this file."
 }
