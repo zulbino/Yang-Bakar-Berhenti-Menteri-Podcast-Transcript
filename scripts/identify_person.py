@@ -38,6 +38,7 @@ TWO FAILURE MODES THIS GUARDS AGAINST.
       --clusters data/_clusters_XH1dBHPPRbs.json --name "Iqbal Fatkhi" --photo https://...png
 """
 import argparse
+import hashlib
 import json
 import sys
 import time
@@ -57,7 +58,12 @@ UA = "Mozilla/5.0 (compatible; YBM-transcript-research/1.0)"
 def fetch(url):
     """Download a reference photo once. Named by URL so a re-run costs nothing."""
     CACHE.mkdir(parents=True, exist_ok=True)
-    dest = CACHE / (str(abs(hash(url))) + Path(url.split("?")[0]).suffix)
+    # hashlib, NOT hash(): Python randomises string hashing per process (PYTHONHASHSEED),
+    # so the first version re-downloaded every photo on every run and left a duplicate
+    # behind each time. Found in the 2026-09-14 cleanup, with two copies of the same image
+    # under different names.
+    name = hashlib.sha1(url.encode("utf-8")).hexdigest()[:16]
+    dest = CACHE / (name + Path(url.split("?")[0]).suffix)
     if not dest.exists():
         req = urllib.request.Request(url, headers={"User-Agent": UA})
         for wait in (0, 5, 20):        # Wikimedia answers 429 to a burst of image fetches

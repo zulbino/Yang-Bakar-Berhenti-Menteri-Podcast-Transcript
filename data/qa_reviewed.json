@@ -132,8 +132,8 @@
  "2025-10-03-ep16-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v": {
   "garbled-agency": {
    "verdict": "benign",
-   "reason": "A FALSE POSITIVE, the one check_agencies.py keeps by design. raw.md reads `saya nak kena tanya kabarlah kepada pasukan di Kementerian Kerana kalau betul Mereka boleh melahirkan robot`: `kerana` is the ordinary Malay conjunction, capitalised by the ASR mid-sentence, and the sentence names no ministry at all. It scores 0.90 against `Kementerian Kewangan` on letters alone. Nothing to fix in the text; documented in ARCHITECTURE.md as the surviving false positive.",
-   "reviewed": "2026-09-12"
+   "reason": "check_agencies.py fuzzy-matches `Kementerian Kerana` to `Kementerian Kewangan` at 0.88+. It is a FALSE POSITIVE and the sentence shows why: `...nak kena tanya kabarlah kepada pasukan di Kementerian. Kerana kalau betul mereka boleh melahirkan robot...`. `Kementerian` ends one clause and `Kerana` (= because) begins the next, so the two words are never a single phrase. The checker cannot see clause boundaries, only adjacency, which is the cost of the fuzzy match that correctly caught 16 real `Kementerian Keuangan` instances. Leave it; do not loosen the threshold and do not 'fix' the corpus.",
+   "date": "2026-09-14"
   }
  },
  "2025-08-08-ep08-yang-berhenti-menteri-8": {

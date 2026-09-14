@@ -625,6 +625,13 @@ CORRECTIONS = [
      "of the same two seconds MAI transcribes as `JAC`, and MAI is the better-measured "
      "engine (3.39% podcast WER against local Whisper's 20.52%). The topic decides it, not "
      "the engine's score: the sentence is about appointing the Chief Justice."),
+    (r"Suruhanjaya Lantikan Kehakiman(?![A-Za-z])", "Suruhanjaya Pelantikan Kehakiman",
+     "FOUND BY check_agencies.py in the end-of-session audit, 2026-09-14: 3 occurrences in "
+     "ep30, one in raw.md and one in each of interview.md and interview-ms.md, all in the "
+     "same sentence about Tun Abdullah establishing the JAC in 2009. The agency's own site "
+     "spells it `Suruhanjaya Pelantikan Kehakiman` (SPK), Akta 695 of 2009, so the ASR "
+     "dropped the `Pe` prefix. Three words, so nothing unrelated can match, and the whole "
+     "phrase is a proper noun. https://www.jac.gov.my/ms/media/undang-undang"),
     (r"Jabatan Perkuam Negara(?![A-Za-z])", "Jabatan Peguam Negara",
      "1 occurrence in ep27 raw: `kita runding hantar representasi kepada Jabatan Perkuam "
      "Negara`. The Attorney General's Chambers, agc.gov.my, and a representation in a "
