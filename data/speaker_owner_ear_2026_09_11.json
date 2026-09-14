@@ -16,6 +16,8 @@
    "who": "Rafizi",
    "was": "Speaker ?",
    "text": "Teritam. Kita juga ada KRC di Padang Terang. Kita juga ada",
+   "text_now": "We also have KRC in Padang Terap",
+   "reanchored_2026_09_14": "The RULING IS UNCHANGED. This record's only anchor was the key `text`, which the gate does not read -- it reads `text_now`, `text_was_startswith`, `text_was`, and otherwise falls back to whatever block sits at the stamp. That fallback worked while ep31's raw was the local-ASR one. After adoption, merge_same_speaker.py fused 14:54 onward into a single Rafizi block, so no block starts at 15:10 and the decision reported `not locatable` -- the state CLAUDE.md rule 8 warns can be silently reverted. `text_now` is MAI's wording of the owner's own `Kita juga ada KRC di Padang Terang`, it is unique in the episode, and it sits inside the Rafizi block the ruling asks for. Same moment and same ruling as ep31_relabelled@15:11 below.",
    "owner_dictated": "Rafizi: \"we also a lot of water\"",
    "note": "The captions are English-translated in this region; `we also a lot of water` at 920.2 is `Kita juga ada banyak air`. That phrase STRADDLES the fragment and the block after it, so the owner's ruling also renames that block -- see ep31_relabelled below."
   },
@@ -33,6 +35,8 @@
    "who": "Rafizi",
    "was": "Haziq",
    "text_was_startswith": "banyak air. Kita juga ada banyak air.",
+   "text_now": "We also a lot of water",
+   "reanchored_2026_09_14": "The RULING IS UNCHANGED; only the words it is located by are. `text_was_startswith` is the local-ASR raw's Malay and it occurs nowhere in the MAI transcript, so lib_locate fuzzy-matched it to 53:14 -- 38 minutes away, score 0.60 -- and the gate refused ep31 on a match that was never the owner's moment. The owner's own note says why: they read this region off English-translated captions. MAI transcribes the same seconds in English, and it is the hosts genuinely code-switching to recite Kedah's assets (`We have a Sungai Petani Industrial Park. We have Special Border Economic Zone in Bukit Kayu Hitam.`), with Rafizi back in Malay at 15:22. So `text_now` carries MAI's words for the same moment and the historical text stays above it. The label itself is written by data/forced_labels.json ep31, which records that the camera is BLIND from 890 to 919 s rather than dissenting. The torn sentence the owner was fixing does not exist in MAI's cut; only the wrong label did.",
    "why": "OWNER: `we also a lot of water` is Rafizi. This block opens `banyak air` and completes the fragment's `Kita juga ada`, so it is the same sentence and the same speaker.",
    "still_open": "The block BEFORE the run, [14:56] Haziq `kita ada Sungai Petani di sepak. Kita ada kawasan ekonomi`, flows into [15:10] Rafizi `sosial di Bukit`. The owner did not rule on it and it was left alone."
   },

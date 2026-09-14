@@ -637,6 +637,25 @@ CORRECTIONS = [
      "Negara`. The Attorney General's Chambers, agc.gov.my, and a representation in a "
      "criminal case goes exactly there. `Perkuam` is not a word. Three words, so nothing "
      "else can match. https://www.agc.gov.my/"),
+    (r"180\.8 million(?![A-Za-z0-9])", "184.8 million",
+     "A FIGURE, NOT A NAME -- the only such entry in this map, and it is here because this "
+     "map is the one reviewed correction list that mai_camera_raw.py applies during the "
+     "build, so a fix recorded anywhere else is wiped by the next re-adoption (the same "
+     "argument that created data/forced_labels.json). FOUND BY check_figures.py right after "
+     "ep31 was adopted on 2026-09-14: the published text cited `184.8 juta` and the new MAI "
+     "raw said `180.8 million`, so the figure lost its source. MAI is alone and wrong. "
+     "Settled the way CLAUDE.md settles a disputed digit, by witness count, and every "
+     "witness available agrees: the local-ASR raw says 184.8, the Malay caption track says "
+     "184.8 three times, and 180.8 appears in NO other file in the corpus -- one occurrence "
+     "in one episode, which is why a corpus-wide anchor is safe here. Two independent "
+     "witnesses beat one under the owner's 2026-09-12 rule, and the arithmetic is decisive "
+     "rather than merely two-of-three: Farhash bought 462 million MMAG shares at 40 sen, "
+     "and 462m x 0.40 = 184.8m exactly, while 180.8 divides to no whole share count at that "
+     "price. The episode's own title agrees too -- `Farhash Rugi RM97.5 juta`, and 184.8 "
+     "minus the 87.32 he sold for is 97.5, where 180.8 would give 93.5. Confirmed outside "
+     "the corpus per CLAUDE.md rule 9. The neighbouring `484 juta` and `193.6 juta` are NOT "
+     "touched: all three witnesses agree on both, so those are what was actually said. "
+     "https://theedgemalaysia.com/node/749750"),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the

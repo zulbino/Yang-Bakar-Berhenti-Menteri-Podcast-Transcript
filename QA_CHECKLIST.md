@@ -49,7 +49,7 @@ Newest first. One row per episode, one column per generated file, so the engine 
 | ep34 | [ ] | MAI | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `unsourced-figure` |
 | ep33 | [x] | MAI | sonnet-5 | sonnet-5 | sonnet-5 | 92% | 87.7% |  |
 | ep32 | [ ] | gemini-3.7 | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `raw-engine-superseded` |
-| ep31 | [ ] | whisper-med | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `published-placeholder`, `raw-engine-superseded` |
+| ep31 | [ ] | MAI | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `published-placeholder`, `unsourced-figure` |
 | ep30 | [ ] | gemini-3.7 | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `raw-engine-superseded` |
 | ep29 | [ ] | whisper-med | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `raw-engine-superseded` |
 | ep28 | [ ] | whisper-med | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `raw-engine-superseded` |
@@ -256,7 +256,7 @@ The full text behind each signature in the table above.
 - **`published-placeholder`** interview.md labels 2 turn(s) `Speaker ?` (Speaker ? x2) -- a PER-TURN unknown, not a cluster id. Do not name these from raw.md by text overlap: on ep33 all of them trace into one 13,857-char block that holds two speakers. Check raw.md for a collapsed block first
 - **`published-placeholder`** interview-en.md labels 2 turn(s) `Speaker ?` (Speaker ? x2) -- a PER-TURN unknown, not a cluster id. Do not name these from raw.md by text overlap: on ep33 all of them trace into one 13,857-char block that holds two speakers. Check raw.md for a collapsed block first
 - **`published-placeholder`** interview-ms.md labels 2 turn(s) `Speaker ?` (Speaker ? x2) -- a PER-TURN unknown, not a cluster id. Do not name these from raw.md by text overlap: on ep33 all of them trace into one 13,857-char block that holds two speakers. Check raw.md for a collapsed block first
-- **`raw-engine-superseded`** raw.md was transcribed by 'mesolitica/malaysian-whisper-medium-v2', measured 20.52% WER against MAI's 3.39% on podcast audio, and this episode's MAI words are already on disk in data/_mai_NiTsEvlvM34/. It needs a camera reference, then adopt_mai_camera_raw.py. A clean row only means no known failure signature fired, never that the words are right.
+- **`unsourced-figure`** 2 figure(s) in the published text have no counterpart in raw.md ('75 juta', '75 million') -- in YBkM-ep06 this caught `45 bilion` printed in the same sentence as raw's `4.5 bilion`, and `240 juta USD` for raw's `340 juta`
 
 ### ep32 -- 2026-01-23-ep32-sekolah-banyak-markah-jatuh-rpm-rptm-2026-2035-realiti-pendi
 

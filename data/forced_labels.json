@@ -109,5 +109,13 @@
    "split_at_words": true,
    "why": "OWNER RULING 2026-09-12, recorded in data/speaker_adjudications.json as ep63_owner_verified_2026_09_12@1:58:44. MAI's turn fused Haziq's opening clause onto the end of Rafizi's block, and the camera cannot separate them because its cut lags speech by about two seconds. This rule reproduces the correction on any future re-adoption: the words and what follows them in that turn go to Haziq."
   }
+ ],
+ "ep31": [
+  {
+   "text": "We also a lot of water",
+   "who": "Rafizi",
+   "at": "15:09",
+   "why": "OWNER RULING BY EAR 2026-09-11, recorded in data/speaker_owner_ear_2026_09_11.json as ep31_speaker_q@15:10 and ep31_relabelled@15:11. The owner ruled the phrase is Rafizi. THE CAMERA DOES NOT DISAGREE HERE -- IT IS BLIND: camera_ref_ep31.rttm covers 734-884 (Rafizi) and 920-992 (Rafizi) and has NO segment between 890 and 919, so the block at 909 s fell to `uncovered, MAI label`, which is MAI's own diarizer. That is the weakest witness in CLAUDE.md rule 4's order and the owner's ear is the strongest, so the ruling stands unopposed. The owner's recorded text was Malay (`banyak air. Kita juga ada banyak air.`) because the region was read off English-translated captions; MAI transcribes the same seconds in English, so the ruling is re-anchored to MAI's own words. MAI says `We also a lot of water` in THREE blocks (14:55, 15:09, 15:20) and two are already Rafizi, so the `at` hint picks 15:09 and the other matches are skipped by the label check -- forcing all three would give the same answer. The torn sentence the owner was fixing (`Kita juga ada` | `banyak air`) does not exist in MAI's cut; only the label does."
+  }
  ]
 }
