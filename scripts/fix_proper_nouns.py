@@ -656,6 +656,22 @@ CORRECTIONS = [
      "the corpus per CLAUDE.md rule 9. The neighbouring `484 juta` and `193.6 juta` are NOT "
      "touched: all three witnesses agree on both, so those are what was actually said. "
      "https://theedgemalaysia.com/node/749750"),
+    (r"\b4475 hari", "5475 hari",
+     "THE SECOND FIGURE IN THIS MAP, ep29, and the only case so far where ALL THREE "
+     "TRANSCRIPTS WERE WRONG. Found by check_figures.py the moment ep29 was adopted, "
+     "2026-09-14. Three readings of Najib's sentence in days: the pre-adoption local-ASR raw "
+     "said `4,045`, MAI said `4475`, the Malay caption track said `40,475`. No two agree, so "
+     "witness count cannot settle it and rule 8 would normally send this to the owner's ear. "
+     "THE SENTENCE'S OWN ARITHMETIC SETTLES IT INSTEAD -- the fourth witness the owner's "
+     "2026-09-12 rule names -- and two independent paths converge. Path one: the same passage "
+     "states `Total hukuman penjara yang akan dijatuhkan adalah 15 tahun`, and 15 x 365 = "
+     "5475. Path two: Haziq divides 2.3 bilion by the day count and reports `hampir 420 ribu "
+     "ringgit` per day; 2.3e9 / 5475 = 420,091, where 4475 gives 514,000 and 40,475 gives "
+     "56,800. MAI has every other number in the passage right (15 tahun, 2.3 billion, RM166 "
+     "for the stolen formula milk, 420 ribu), so only the day count is wrong. `4475` occurs "
+     "exactly ONCE in the whole corpus, so this anchor cannot reach anything else. The "
+     "published files carried the old raw's `4,045` and are corrected separately in "
+     "fix_published_figures.py."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the

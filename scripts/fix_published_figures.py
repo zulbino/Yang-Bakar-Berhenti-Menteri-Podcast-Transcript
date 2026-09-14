@@ -54,6 +54,19 @@ FIGURES = {
         ("what was reported, 75 million", "what was reported, 7.5 million", 1,
          "The English translation of the same sentence. Same two witnesses."),
     ],
+    "ep29": [
+        ("iaitu 4,045 hari", "iaitu 5,475 hari", 2,
+         "ALL THREE TRANSCRIPTS OF THIS NUMBER WERE WRONG, so the arithmetic decides. The "
+         "pre-adoption local-ASR raw said `4,045`, MAI said `4475`, the caption track said "
+         "`40,475`. No two agree. Two independent arithmetic paths in the same passage give "
+         "5,475: the total sentence is stated as `15 tahun`, and 15 x 365 = 5475; and Haziq "
+         "divides 2.3 bilion by the day count to get `hampir 420 ribu ringgit`, where 2.3e9 "
+         "/ 5475 = 420,091 against 514,000 for 4475 and 56,800 for 40,475. raw.md's own "
+         "`4475` is corrected through fix_proper_nouns.py, because a raw fix has to survive "
+         "re-adoption."),
+        ("that is, 4,045 days", "that is, 5,475 days", 1,
+         "The English translation of the same sentence. Same arithmetic."),
+    ],
     "ep34": [
         ("RM75 bilion dibuat", "RM7.5 bilion dibuat", 2,
          "A TEN-FOLD ERROR, and the worst of this set. raw.md says `7.5 bilion` and the "
