@@ -8,10 +8,10 @@ duration_seconds: 8370
 duration: 2h 19m
 view_count: 151874
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Haziq
-guests:
 - Farhan (Pa'an)
+guests: []
 topics:
 - 'Segmen Beria: kekeliruan peranan Pengerusi BBC (Backbenchers Club) Zaleha Zahari'
 - Kenyataan Fuziah Salleh sebagai SU Agung DAP dan hubungan komponen kerajaan perpaduan
@@ -349,7 +349,7 @@ Jadi sebab itu saya harap — saya tak tahu apa akan jadi minggu depan, kerana s
 
 **Rafizi:** Jadi sebab itu, kita bermula daripada soalan yang sama, kan. Apa sebenarnya dalam kepala Gen Z dan milenial ni? Dia nak apa? Jadi sebab itu kita kupas melalui usaha memahami sikap mereka terhadap beberapa perkara tertentu. Ini kaedah yang biasa bila kita buat kajian sosiopolitik. Maksudnya kita kena tengok tingkah laku dan juga sikap sebelum kita boleh cuba untuk ramalkan keputusan dia. Contohnya, ada orang panggil ini selam diagnostik. Saya tak nak pergi panjang lebar. Kita nak cuba faham, pada pandangan Gen Z, orang yang macam mana atau ahli politik yang macam mana yang dilihat lebih berkeupayaan untuk menyelesaikan masalah kos sara hidup. Jadi kita tanya benda-benda macam itu — bukan kita tanya dia macam mana nak selesaikan, kita tanya pandangan dia. Di mata dia, orang yang macam mana yang boleh menyelesaikan masalah kos sara hidup dengan lebih baik.
 
-**Rafizi Ramli:** Ini yang akan jadi masalah. Untuk Gen Z Melayu dan milenial Melayu, yang paling majoriti — jawapan yang dominan — ialah orang itu mestilah ada pengalaman susah payah untuk bayar bil, kos sara hidup. Dia sendiri susah. Jadi payah nak jadi ahli politik ni, sebab kau kena jadi miskin di mata mereka. Nanti saya akan sampai kenapa Gen Z dan milenial berfikiran begitu. Dia tak penting sangat sama ada kau faham ekonomi atau ada ilmu. Dia bagi kepada siapa yang boleh memahami kepayahan saya. Dan mereka yang payah itulah yang lebih berkemahiran dalam menyelesaikan, pada anggapan mereka. Jadi profesor ekonomi semua tu tak boleh pakai.
+**Rafizi:** Ini yang akan jadi masalah. Untuk Gen Z Melayu dan milenial Melayu, yang paling majoriti — jawapan yang dominan — ialah orang itu mestilah ada pengalaman susah payah untuk bayar bil, kos sara hidup. Dia sendiri susah. Jadi payah nak jadi ahli politik ni, sebab kau kena jadi miskin di mata mereka. Nanti saya akan sampai kenapa Gen Z dan milenial berfikiran begitu. Dia tak penting sangat sama ada kau faham ekonomi atau ada ilmu. Dia bagi kepada siapa yang boleh memahami kepayahan saya. Dan mereka yang payah itulah yang lebih berkemahiran dalam menyelesaikan, pada anggapan mereka. Jadi profesor ekonomi semua tu tak boleh pakai.
 
 Tapi ada perbezaan antara Gen Z milenial Melayu dengan Gen Z milenial Cina dalam hal ini. Yang Melayu, jawapan paling dominan ialah orang itu mestilah ada pengalaman susah payah hidup, baru dia faham macam mana nak selesaikan. Orang Cina tak fikir macam tu — Gen Z Cina dengan milenial Cina kata orang itu perlu ada rekod yang baik dalam melaksanakan program-program yang memberi kesan kepada ekonomi. Jadi Gen Z Melayu dan milenial Melayu ini lebih emotif, lebih emosi, berbanding Gen Z milenial Cina yang lebih objektif. Yang saya rasa tidaklah mengejutkan kita.
 
