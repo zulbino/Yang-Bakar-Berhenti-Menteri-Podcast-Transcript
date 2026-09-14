@@ -249,6 +249,46 @@ Barjoyai, ep03 Faiz, ep06 Eric See-To, ep07 Daniel, ep08 `YB Rafizi` as a label 
 ep09 Rodziah Ismail). `Multiple speakers` and `Audience` are sanctioned labels and are not
 findings.
 
+## Every standing rule and the mechanism that enforces it
+
+**Read this before assuming any rule below is optional, and re-run the verify command
+rather than trusting this table.** Owner's instruction, 2026-09-14: *"anything that we've
+raised before about rules, new session should not bypass and suddently forgotten."*
+
+A rule with no mechanism gets skipped. That is not a hypothesis: it is what happened to
+rule 2 until 2026-09-12, to rule 7 until 2026-09-13, to rule 9 until 2026-09-13, and to
+the owner's writing rules until 2026-09-14, when 34 em-dash violations were measured in a
+single session.
+
+| rule | mechanism | verify with |
+|---|---|---|
+| 1 names, 2 agencies | `check_names.py`, `check_agencies.py` + `data/agency_roster.json`, corrections in `fix_proper_nouns.py` | `python scripts/check_agencies.py` |
+| 3 cast metadata | `check_cast.py`, `rebuild_roster.py` (`HOSTS`, `MERGE`, `GUEST_THIS_EPISODE`, `PRESENT_UNLABELLED`) | `python scripts/check_cast.py` |
+| 4 attribution order | `adopt_mai_camera_raw.py`, gated at step 0 by `check_camera_reference.py` | `python scripts/check_camera_reference.py <tag>` |
+| 5 fillers | `strip_filler_turns.py`, `strip_inline_fillers.py` | inside adoption |
+| 6 no fragmented speech | `merge_same_speaker.py` | `python scripts/merge_same_speaker.py <tag>` |
+| 7 overlapping speech | `check_overlap_boundaries.py` detects, `move_hanging_words.py` writes | `python scripts/check_overlap_boundaries.py --all` |
+| 8 escalate the residue | `check_owner_decisions.py`, `listen_links.py` for the `?t=` link | `python scripts/check_owner_decisions.py <tag> <raw>` |
+| 9 outside evidence first | `identify_person.py` (calibrate before match), `check_cast.py` | `python scripts/identify_person.py calibrate --photos ...` |
+| best engine for raw.md | `check_raw_engine.py` | `python scripts/check_raw_engine.py` |
+| all of the above, per episode | `qa_check.py` into `QA_CHECKLIST.md`; verdicts persist in `data/qa_reviewed.json` | `python scripts/qa_check.py` |
+| **the owner's writing rules** | **`Stop` hook, `~/.claude/hooks/check_reply_style.py`** + the vendored `soundshuman` pack. Blocks the turn and hands back the findings | `python ~/.claude/hooks/test_check_reply_style.py` |
+| **read the gate verdict, run the post-steps, THEN commit** | **`.git/hooks/pre-commit` -> `scripts/guard_commit.py`**. Refuses a commit that stages interview files while a queue is live or a verdict is unread | `python scripts/guard_commit.py` |
+| no `Co-Authored-By: Claude` | `~/.claude/settings.json`, `attribution.commit = ""` | read that key |
+| biometric data, videos, frames, secret sweep stay out | `.gitignore` `data/_*`, `audio/`, `frames_*.png`, `data/frames_cache/` | `git check-ignore -v <path>` |
+| handoffs are LOCAL ONLY | `.gitignore` `HANDOFF_*.md`; past ones purged from history 2026-09-13 | `git check-ignore -v HANDOFF_2026-09-14.md` |
+| only GPU 0, never the GTX 970 | `os.environ.setdefault("CUDA_VISIBLE_DEVICES", "0")` in `camera_speakers.py`, `lib_diarization.py`, `gate_rewrite.py` | `grep -rn CUDA_VISIBLE_DEVICES scripts/` |
+
+**Three rules still have NO mechanism.** They are listed so the next session does not
+mistake silence for safety:
+
+1. **One GPU job at a time.** Chained by grepping a log for `finished:`, never by a process
+   check. Nothing prevents a second job from being started by hand.
+2. **Reprocess an unadopted episode with the camera; never hand-patch its local-ASR raw.**
+   Adoption overwrites any patch, so a patch is wasted work, but no script refuses one.
+3. **Escalate with a clickable `?t=` link, never a bare block stamp.** `listen_links.py`
+   builds the link from the caption track. Nothing checks that a message used it.
+
 ## The governing principle behind all nine
 
 Every one of the above is enforced by a script that runs the same way every time, not
