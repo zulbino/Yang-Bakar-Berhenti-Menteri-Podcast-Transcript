@@ -115,6 +115,19 @@ joins adjacent same-speaker turns after the fold/move passes run (they create ne
 adjacency that didn't exist before). A high adjacent-same-speaker count after adoption
 is the signal this step is missing or ran too early in the sequence.
 
+**IT IS `--episode=<tag>`, NOT A BARE TAG, and the difference is the whole corpus.** This
+script takes no positional argument. `merge_same_speaker.py ep32 --write` ignores the tag
+and edits EVERY episode with a same-speaker run. That happened on 2026-09-14 and silently
+changed interview files in ep35, ep37 and ep38 while the intent was ep32 alone; the table
+below carried the wrong form, which is how it happened. The script now refuses an argument
+it does not recognise and names the likely intent.
+
+**Re-run this step AFTER the rule 7 move, not only before it.** ep32's adoption ran the
+move at step 5 and the merge at step 6, and the merge then created two NEW torn sentences
+that the move would have fixed. `check_overlap_boundaries.py` reported 1 tail on a freshly
+adopted episode because of it. Rule 8 already says to run a tool again when a later pass
+changes its input, and this is the case that proves it for these two.
+
 ### 7. Overlapping speech must never be silently merged into the wrong speaker
 
 **Named defect. Detector built 2026-09-12, fix built and measured 2026-09-14.** The shape:
@@ -281,7 +294,7 @@ single session.
 | 3 cast metadata | `check_cast.py`, `rebuild_roster.py` (`HOSTS`, `MERGE`, `GUEST_THIS_EPISODE`, `PRESENT_UNLABELLED`) | `python scripts/check_cast.py` |
 | 4 attribution order | `adopt_mai_camera_raw.py`, gated at step 0 by `check_camera_reference.py` | `python scripts/check_camera_reference.py <tag>` |
 | 5 fillers | `strip_filler_turns.py`, `strip_inline_fillers.py` | inside adoption |
-| 6 no fragmented speech | `merge_same_speaker.py` | `python scripts/merge_same_speaker.py <tag>` |
+| 6 no fragmented speech | `merge_same_speaker.py` | `python scripts/merge_same_speaker.py --episode=<tag>` |
 | 7 overlapping speech | `check_overlap_boundaries.py` detects, `move_hanging_words.py` writes | `python scripts/check_overlap_boundaries.py --all` |
 | 8 escalate the residue | `check_owner_decisions.py`, `listen_links.py` for the `?t=` link | `python scripts/check_owner_decisions.py <tag> <raw>` |
 | 9 outside evidence first | `identify_person.py` (calibrate before match), `check_cast.py` | `python scripts/identify_person.py calibrate --photos ...` |

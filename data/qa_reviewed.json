@@ -106,11 +106,13 @@
  "2025-05-10-ep00-podcast-yang-berhenti-menteri": {
   "raw-unnamed-speaker": {
    "verdict": "benign",
-   "reason": "ep00 is a STAGE event, not a studio recording -- its own description says the podcast was \"dibawa keluar daripada studio ke tempat umum dan terbuka kepada orang ramai\", and the owner confirms a sizeable live audience. So `Audience` is the accurate collective label for who spoke, not a placeholder standing in for a name that exists somewhere. Individual identification is not meaningful for a room, and there is no roster of attendees to check against. Content of all 8 turns: five are floor noise with no speaker to name (\"Hahaha\", \"Reformasi! Reformasi!\", \"Relax, relax\", \"Tak marah, nak tanya soalan\", \"Saya boleh lihat.\"), one is a question with no self-introduction, and two DO state their own names ([1:51:02] \"Saya Hakim daripada Tangga Batu Melaka\" and [1:58:02] \"Nama saya Rashidi bin Haji Bandar Ahmad\"). Those two were deliberately NOT promoted to labels: they are private citizens rather than public figures, their self-introductions already sit in the body text where they said them so the reader loses nothing, and a label turns a spoken aside into greppable structured metadata. Decision by the owner, 2026-08-29. `interview-ms.md`'s `Hadirin` is the correct Malay translation of `Audience`, which is the same translated-role-label shape that took label-mismatch from 25 episodes to 2 -- not drift."
+   "reason": "`Audience` is a SANCTIONED label, named as such in CLAUDE.md rule 9 alongside `Multiple speakers`, and it is not a finding. All 7 turns are audience reaction at a live recording. There is no individual to identify, so the advice this signature prints (video frames, the episode description, voiceprints) does not apply.",
+   "date": "2026-09-14"
   },
   "generic-label": {
    "verdict": "benign",
-   "reason": "ep00 is a STAGE event, not a studio recording -- its own description says the podcast was \"dibawa keluar daripada studio ke tempat umum dan terbuka kepada orang ramai\", and the owner confirms a sizeable live audience. So `Audience` is the accurate collective label for who spoke, not a placeholder standing in for a name that exists somewhere. Individual identification is not meaningful for a room, and there is no roster of attendees to check against. Content of all 8 turns: five are floor noise with no speaker to name (\"Hahaha\", \"Reformasi! Reformasi!\", \"Relax, relax\", \"Tak marah, nak tanya soalan\", \"Saya boleh lihat.\"), one is a question with no self-introduction, and two DO state their own names ([1:51:02] \"Saya Hakim daripada Tangga Batu Melaka\" and [1:58:02] \"Nama saya Rashidi bin Haji Bandar Ahmad\"). Those two were deliberately NOT promoted to labels: they are private citizens rather than public figures, their self-introductions already sit in the body text where they said them so the reader loses nothing, and a label turns a spoken aside into greppable structured metadata. Decision by the owner, 2026-08-29. `interview-ms.md`'s `Hadirin` is the correct Malay translation of `Audience`, which is the same translated-role-label shape that took label-mismatch from 25 episodes to 2 -- not drift."
+   "reason": "`Hadirin` is simply `Audience` in Malay, so interview-ms.md is translating a sanctioned label rather than discarding a name. The 4 turns correspond to the same audience reaction as the raw-unnamed-speaker entry above. check_published.py counts it as generic because it compares against raw.md's named speakers and `Audience` is not a person.",
+   "date": "2026-09-14"
   }
  },
  "2025-10-24-ep19-yang-berhenti-menteri-episod-19": {
@@ -143,7 +145,7 @@
  "2025-10-03-ep16-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v": {
   "garbled-agency": {
    "verdict": "benign",
-   "reason": "check_agencies.py fuzzy-matches `Kementerian Kerana` to `Kementerian Kewangan` at 0.88+. It is a FALSE POSITIVE and the sentence shows why: `...nak kena tanya kabarlah kepada pasukan di Kementerian. Kerana kalau betul mereka boleh melahirkan robot...`. `Kementerian` ends one clause and `Kerana` (= because) begins the next, so the two words are never a single phrase. The checker cannot see clause boundaries, only adjacency, which is the cost of the fuzzy match that correctly caught 16 real `Kementerian Keuangan` instances. Leave it; do not loosen the threshold and do not 'fix' the corpus.",
+   "reason": "NOT a garbled ministry name. `Kerana` here is the ordinary Malay conjunction meaning `because`, and the ASR only missed the sentence break before it and capitalised it. The full sentence reads `saya nak kena tanya kabarlah kepada pasukan di Kementerian. Kerana kalau betul mereka boleh melahirkan robot yang boleh buat kerja seperti itu` -- ask the team at the Ministry, BECAUSE if it is true they can produce robots that do that work. Rewriting it to `Kementerian Kewangan` would delete the word `because` and insert a ministry nobody named. The topic is oil-palm harvesting robots and a local factory, so Finance is the wrong ministry anyway; Rafizi held Economy. This is the same class as the `Mas` near-miss already recorded in fix_proper_nouns.py, where 99 hits were places and not the airline. CLAUDE.md rule 2 says read a hit before fixing it, and this is why.",
    "date": "2026-09-14"
   }
  },
@@ -152,6 +154,11 @@
    "verdict": "open-until-reprocessed",
    "reason": "check_cast.py (CLAUDE.md rule 9) reports 60 turns labelled `YB Rafizi` where every other episode says `Rafizi`. It is the same person. NOT PATCHED HERE, on the owner's standing rule of 2026-09-12: an unadopted episode comes up to standard by REPROCESSING it with the camera reference, never by hand-patching its local-ASR raw, because adoption rebuilds raw.md and overwrites any patch. ep08 has no camera reference yet. normalize_speaker_labels.py cannot do it either -- that tool only rewrites the `**Name:**` label in interview*.md, never raw.md's `[time] Name:`. Fix it when ep08 is adopted, by adding `YB Rafizi` to its RENAME map or to data/forced_labels.json.",
    "date": "2026-09-13"
+  },
+  "missing-from-cast": {
+   "verdict": "known-label-variant-stays-flagged",
+   "reason": "REAL but deliberately not fixed yet. raw.md labels turns `YB Rafizi` where the host is `Rafizi`, so it is one person under two labels and normalize_speaker_labels.py is the tool for it. CLAUDE.md rule 9 already names this case. NOT fixed now because ep08 is unadopted: it still runs on whisper-med and is one of the 36 episodes waiting for a camera reference. Adoption rewrites every label from the camera, so a patch today is wasted work under the owner's standing rule. Re-check after ep08 is adopted; if the variant survives, run normalize_speaker_labels.py --write.",
+   "date": "2026-09-14"
   }
  },
  "2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard": {
@@ -159,6 +166,11 @@
    "verdict": "benign",
    "reason": "check_cast.py reports raw.md's label `Prof. Barjoyai` against the frontmatter guest `Prof. Emeritus Dr. Barjoyai Bardai`. That is CLAUDE.md rule 3 working as written: the frontmatter carries the full name, the body stays verbatim as spoken. The checker's prefix test cannot see it because the full name inserts `Emeritus Dr.` in the MIDDLE rather than appending to the label. Same person, no defect.",
    "date": "2026-09-13"
+  },
+  "missing-from-cast": {
+   "verdict": "benign",
+   "reason": "A short form of a name already in the cast, not a missing person. raw.md labels turns `Prof. Barjoyai` and guests holds `Prof. Emeritus Dr. Barjoyai Bardai`, the same economist. CLAUDE.md rule 3 is explicit that raw.md stays verbatim as the guest is addressed on air while the frontmatter takes the full name, so both files are already correct. check_cast.py compares strings and cannot see that one is a prefix of the other.",
+   "date": "2026-09-14"
   }
  },
  "2025-12-26-ep28-episod-terakhir-2025-10-perkara-yang-kita-tak-boleh-buat-bua": {

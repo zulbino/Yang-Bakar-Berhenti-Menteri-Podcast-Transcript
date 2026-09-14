@@ -145,6 +145,24 @@ def main():
     # --episode limits the run to one episode. Without it this touches every episode that
     # has a same-speaker run, which is a corpus-wide edit and needs its own decision.
     only = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--episode=")), None)
+
+    # REFUSE AN ARGUMENT THIS SCRIPT DOES NOT KNOW, and say what was probably meant.
+    # `merge_same_speaker.py ep32 --write` was run on 2026-09-14: the bare tag is not a
+    # flag, so it was ignored and the run went CORPUS-WIDE, editing interview files in
+    # ep35, ep37 and ep38 while the intent was one episode. They had to be reverted by
+    # hand. CLAUDE.md's own verify table printed the bare-tag form, which is how the
+    # mistake was made, and that row is fixed too. The comment above already said a
+    # corpus-wide edit needs its own decision; nothing enforced it, so a typo made that
+    # decision silently. Argparse is not used here, so this is the check.
+    known = ("--write", "--raw-only", "--no-fold-fillers")
+    unknown = [a for a in sys.argv[1:]
+               if a not in known and not a.startswith("--episode=")]
+    if unknown:
+        hint = ("\n  did you mean --episode=%s ?  A BARE TAG IS IGNORED and the run goes "
+                "corpus-wide." % unknown[0]) if not unknown[0].startswith("-") else ""
+        sys.exit(f"unrecognised argument(s): {' '.join(unknown)}{hint}\n"
+                 f"  usage: merge_same_speaker.py [--episode=<tag>] [--write] "
+                 f"[--raw-only] [--no-fold-fillers]")
     tot, tot_fold, touched = 0, 0, 0
     for d in sorted((ROOT / "episodes").glob("*/*")):
         if only and only not in d.name:
