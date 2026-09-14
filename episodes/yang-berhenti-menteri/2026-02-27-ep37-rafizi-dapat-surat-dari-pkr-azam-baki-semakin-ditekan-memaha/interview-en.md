@@ -8,10 +8,10 @@ duration_seconds: 8370
 duration: 2h 19m
 view_count: 151874
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Haziq
-guests:
 - Farhan (Pa'an)
+guests: []
 topics:
 - 'Segmen Beria: kekeliruan peranan Pengerusi BBC (Backbenchers Club) Zaleha Zahari'
 - Kenyataan Fuziah Salleh sebagai SU Agung DAP dan hubungan komponen kerajaan perpaduan

@@ -8,10 +8,10 @@ duration_seconds: 10273
 duration: 2h 51m
 view_count: 214192
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Haziq
-guests:
 - Farhan (Pa'an)
+guests: []
 topics:
 - 'Segmen Beria: usul dua penggal PM dan ketidakhadiran ahli parlimen Bukit Gantang'
 - Trend bergaya sewa iPhone semasa hari raya dan budaya bandingan masyarakat

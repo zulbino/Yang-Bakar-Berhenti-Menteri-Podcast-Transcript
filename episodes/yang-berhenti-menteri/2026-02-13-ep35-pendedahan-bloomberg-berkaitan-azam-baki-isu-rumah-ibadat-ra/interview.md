@@ -8,7 +8,7 @@ duration_seconds: 11629
 duration: 3h 13m
 view_count: 300172
 hosts:
-- Rafizi Ramli
+- Rafizi
 - Haziq
 guests: []
 topics:
