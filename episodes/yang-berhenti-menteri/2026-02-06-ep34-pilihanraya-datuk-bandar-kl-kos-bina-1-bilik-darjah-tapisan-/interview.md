@@ -64,7 +64,7 @@ note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/B
 ---
 
 <!-- nav -->
-**Yang Berhenti Menteri episode 34 — Pilihanraya Datuk Bandar KL, Kos Bina 1 Bilik Darjah & Tapisan SPRM - YBM**  
+**Yang Berhenti Menteri episode 34 — Pilihanraya Datuk Bandar KL, Kos Bina 1 Bilik Darjah & Tapisan SPRM**  
 6 February 2026 · 2h 55m · [watch on YouTube](https://www.youtube.com/watch?v=XiA_DyUup2E)
 
 This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
