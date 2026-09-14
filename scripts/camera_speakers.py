@@ -87,6 +87,8 @@ CENSUS_STEP_S = 10
 MIN_FACE_PX = 40
 FLOOR = 0.55        # rejects a stranger (the one b-roll face in ep62 scored 0.22)
 MARGIN = 0.10       # rejects a tie between two people the gallery cannot separate
+# The gallery used when neither a per-video one exists nor the caller names a file.
+SHARED_GALLERY = "data/_face_gallery.json"
 SPEAK = 0.0         # LR-ASD's own sign convention for "this mouth produced this audio"
 
 
@@ -312,8 +314,26 @@ def cmd_run(a):
 
 
 def cmd_reference(a):
-    G = {k: np.array(v) for k, v in
-         json.loads(Path(a.gallery).read_text())["gallery"].items()}
+    # PREFER THE GALLERY BUILT FOR THIS VIDEO. The shared data/_face_gallery.json holds only
+    # the three regulars, so on a guest episode the guest is an unknown face and
+    # check_camera_reference.py refuses the result -- ep33, ep42, ep50 and ep29 all failed
+    # exactly that way. A per-video gallery adds that episode's guest, and by 2026-09-14 nine
+    # of them existed on disk and none was ever picked up, because this default was a fixed
+    # path. Only `_face_gallery_<this uri>.json` is consulted: a gallery built for ANOTHER
+    # episode is not interchangeable, since its regulars carry that episode's own face
+    # vectors. Printed rather than silent, because which gallery ran decides the cast.
+    # `--gallery` DEFAULTS TO None, not to the shared path, so that an explicit
+    # `--gallery data/_face_gallery.json` still means the shared one. Comparing against the
+    # default string cannot tell those two apart, and the first version of this did exactly
+    # that: it overrode a caller who had deliberately asked for the shared gallery.
+    if a.gallery:
+        gallery = Path(a.gallery)
+    else:
+        per_video = Path(f"data/_face_gallery_{a.uri}.json")
+        gallery = per_video if per_video.exists() else Path(SHARED_GALLERY)
+    loaded = json.loads(gallery.read_text())["gallery"]
+    print(f"gallery {gallery.name}: {', '.join(loaded)}")
+    G = {k: np.array(v) for k, v in loaded.items()}
 
     def identify(vec):
         if not vec:
@@ -430,7 +450,9 @@ def main():
     c = sub.add_parser("reference", help="per-second speaker labels as RTTM + UEM")
     c.add_argument("uri")
     c.add_argument("--tracks", default="data/_camera_tracks")
-    c.add_argument("--gallery", default="data/_face_gallery.json")
+    c.add_argument("--gallery", default=None,
+                   help="override; omit to prefer data/_face_gallery_<uri>.json "
+                        "then fall back to the shared gallery")
     c.add_argument("--floor", type=float, default=FLOOR)
     c.add_argument("--margin", type=float, default=MARGIN)
     c.add_argument("--speak", type=float, default=SPEAK)
