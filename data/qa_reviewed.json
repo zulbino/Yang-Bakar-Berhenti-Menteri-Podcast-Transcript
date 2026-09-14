@@ -72,12 +72,22 @@
   "unlabelled-host": {
    "verdict": "benign",
    "reason": "The flag's premise is that the person's turns are sitting inside another speaker's blocks. Here there is no evidence he SPOKE at all, so there are no turns to recover. He stays on hosts: because that field records who took part, not who holds a label (scripts/rebuild_roster.py). Evidence, none of it the transcript's own labels: (1) ep55's only mention is third-person and sits inside another speaker's turn at [2:41:57]: \"Pa'an yang takut. Pa'an yang takut dah.\" Nobody hands over to him. (2) The caption track's 19,027 word-timings contain ZERO mentions of Pa'an or Farhan, so there is no second anywhere in the episode to point a camera at. (3) ep55 has already been re-cut at turn level and its clusters were named from video and word-overlap; Haziq came out with 82 labels and no further voice appeared. Re-flag by deleting this entry if a Farhan turn is ever identified."
+  },
+  "unsourced-figure": {
+   "verdict": "confirmed-defect-in-published",
+   "reason": "The published files print `200 juta` where raw.md says `700 juta`, for the cost of widening the PLUS highway from Senai to Yong Peng. The caption track settles it: `itu pun dah saya ingat 700 juta`. The old local-ASR raw said `200 juta`, so the rewrite copied a bad raw and regeneration from the MAI raw fixes it. STAYS FLAGGED until then. Note the place name is Yong Peng, Johor: the old raw wrote `Yongping` and the captions `Yompeng`.",
+   "date": "2026-09-14"
   }
  },
  "2026-03-27-ep41-siapa-mr-r-bukti-40-muka-surat-tindak-balas-kerajaan-susulan": {
   "oversized-block": {
    "verdict": "benign",
    "reason": "Genuine Rafizi monologue: a sustained presentation segment. THREE independent lines of evidence, none of them the block's own label. (1) Content: the 20.3-min block at [35:40] contains ZERO co-host markers across 1,829 words -- no YB vocative, no run-sheet hand-off (scripts/cohost_candidates.py). That is the same signature as ep51's waived block, and the opposite of ep47's two 24-min blocks, which returned 15 and 10 hits and which the video then confirmed collapsed. (2) Acoustic, using the dial that actually works: clustering.threshold=0.55 with no speaker count split THIS EPISODE's other three oversized blocks (49, 39 and 28 min) down to 140 turns and recovered Haziq, who was not even on the roster -- and declined to split this one. The method demonstrably works on this exact audio and still left this block whole. Note this is a stronger claim than the acoustic line withdrawn from ep27/ep36/ep51 on 2026-08-28, which relied on num_speakers; a speaker count makes pyannote IGNORE the threshold, so declining under a count hint meant nothing (ENGINEERING_LOG 1.36). (3) Video: frames at 38:00, 45:00 and 52:00, spread across the block and padded either side, show Rafizi ALONE in a close single shot with his mouth open in all 15 frames, with no cut and a persistent 'KRONOLOGI 40 MUKA SURAT' QR overlay (ENGINEERING_LOG 1.35). Re-flag by deleting this entry if the episode is ever re-transcribed."
+  },
+  "unsourced-figure": {
+   "verdict": "benign",
+   "reason": "`1.99` is a notation difference, not a changed figure. raw.md says `seringgit 99 sen` in words and the published text prints `RM1.99`. Same value, and digits are correct newspaper style for the interview files. check_figures.py compares digit strings, so it cannot see a figure spelled out in Malay words. No other figure in the episode is flagged.",
+   "date": "2026-09-14"
   }
  },
  "2026-03-06-ep38-sprm-cari-james-chai-tangan-tangan-ghaib-berkaitan-zionis-yb": {
@@ -162,6 +172,41 @@
    "verdict": "open-until-reprocessed",
    "reason": "Iqbal Fatkhi speaks in ep29 beside the three regular hosts (64 turns in ep28, 44 in ep29) and is filed under `hosts:`. He is genuinely a host in ep10 and ep11, where the episodes say so outright (`hos-hos Sos Cili, Iqbal`, and Iqbal of himself `hos anda untuk malam ni`), and a GUEST in ep39, which also says so outright (`kenapa kita jemput Iqbal`, `dah 3 4 kali dijemput`). ep29 says NEITHER, and its YouTube description names no cast. ep39's `dah 3 4 kali dijemput` implies these were invitations, and an implication is not the bar PRESENT_UNLABELLED and GUEST_THIS_EPISODE use. NOT CHANGED. Both are still on local-ASR raws with no camera reference, so the question returns when they are adopted -- at which point guest_gallery.py's bijection depends on the answer. If he is a guest there, add the tag to rebuild_roster.GUEST_THIS_EPISODE.",
    "date": "2026-09-13"
+  }
+ },
+ "2026-02-06-ep34-pilihanraya-datuk-bandar-kl-kos-bina-1-bilik-darjah-tapisan-": {
+  "unsourced-figure": {
+   "verdict": "confirmed-defect-in-published",
+   "reason": "Two figures flagged, one real and one a false positive. REAL: the published files print `RM75 bilion` where raw.md says `7.5 bilion`, a ten-fold error on a tax-refund figure. MAI and the Malay caption track agree on 7.5 (captions say `7.5 bilion` FOUR times and `75 bilion` never), and the sentence's own arithmetic settles it: the text calls the payment higher than the PM's initial commitment of 4 bilion, which 7.5 exceeds and 75 absurdly overshoots. The old local-ASR raw said `RM75 bilion`, so the rewrite copied a bad raw faithfully; regeneration from the MAI raw fixes it. FALSE POSITIVE: `45 bilion` is matched as a substring of `RM22.45 bilion`, which raw.md supports exactly. STAYS FLAGGED until the published files are regenerated.",
+   "date": "2026-09-14"
+  }
+ },
+ "2026-05-22-ep49-seminggu-selepas-bersama-ph-bn-tidak-lagi-bersama-ybm-49": {
+  "unsourced-figure": {
+   "verdict": "confirmed-defect-in-published",
+   "reason": "Three figures, all three wrong in the published files and all three inherited from the old local-ASR raw. (1) `scuba 677`: the caption track says `kenapa tak buat scuba? [ketawa]` with no number, and MAI puts the `6 7` meme in a SEPARATE later exchange (`Dia 6 7, 6 7 lah kan?`). The old raw fused them. (2) `1B di Pandan`: MAI's raw says only `Di Pandan lah` and the captions carry no `1B`. The old raw had it. (3) `Facebook 3.3 juta`: MAI says `Facebook 3 point. Ha, 3 juta ... Facebook dekat 3.1` and the captions match that word for word (`Facebook 3 ... ah 3 juta lebih dekat 4 jutalah kan. Facebook dekat a 3.1 3 juta`). There is no 3.3. The old raw's `3 point 3 juta` became `3.3`. Regeneration from the MAI raw fixes all three. STAYS FLAGGED until then.",
+   "date": "2026-09-14"
+  }
+ },
+ "2026-06-12-ep52-parti-parti-politik-melayu-bergaduh-anak-muda-memberontak-yb": {
+  "unsourced-figure": {
+   "verdict": "confirmed-defect-in-published",
+   "reason": "`47K` IS THE ONE CASE THE REWRITE INVENTED, and that makes it the important one. BOTH raws agree: the MAI raw and the old local-ASR raw each say `DNAA 47 kes`, and the Malay captions say `47 kes` twice. `47K` appears in no witness. So 47 court cases became 47 thousand somethings at the rewrite stage, with a correct source on both sides of it. Every other figure defect found in this audit was the rewrite copying a bad old raw, which regeneration fixes by itself. THIS ONE REGENERATION MIGHT REPEAT, so check it specifically after ep52 is regenerated. STAYS FLAGGED.",
+   "date": "2026-09-14"
+  }
+ },
+ "2026-08-14-ep59-rci-tabung-haji-apa-yang-tidak-dibincangkan-di-parlimen-dap-": {
+  "unsourced-figure": {
+   "verdict": "confirmed-defect-in-published",
+   "reason": "The published files print `rugi 120 juta` where raw.md says `rugi 102 juta`, for Tabung Haji's 2025 share-price loss. The caption track settles it: `pasaran saham jatuh balik ah rugi 102 juta okey`. The old local-ASR raw said `120 juta`, so the rewrite copied a bad raw and regeneration from the MAI raw fixes it. STAYS FLAGGED until then.",
+   "date": "2026-09-14"
+  }
+ },
+ "2026-01-16-ep31-dpa-sprm-farhash-rugi-rm97-5-juta-pau-2025-ada-apa-dengan-pk": {
+  "unsourced-figure": {
+   "verdict": "confirmed-defect-in-published",
+   "reason": "The published files print `75 juta` where raw.md says `7.5 juta`. MAI and the Malay caption track agree on 7.5 (the captions read `7.5 juta` in the same sentence), and `75 juta` appears only in the old local-ASR raw. So the rewrite copied a bad raw and regeneration from the MAI raw fixes it. NOTE THE OTHER DIRECTION IN THE SAME EPISODE: `184.8` was wrong in the RAW, not the published text, and it was corrected on 2026-09-14 through fix_proper_nouns.py. MAI alone said `180.8` against the local raw, the captions three times, and the arithmetic (462 million MMAG shares at 40 sen is 184.8 million exactly; the episode title's RM97.5 juta loss only works from 184.8). STAYS FLAGGED until the published files are regenerated.",
+   "date": "2026-09-14"
   }
  }
 }
