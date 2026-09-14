@@ -3,7 +3,7 @@
 This page covers what produced the files in this archive, how they can be wrong, and how
 to report an error. Read it before you cite anything here.
 
-A machine transcribed 168 hours of speech and a second machine rewrote the result into
+A machine transcribed 175 hours of speech and a second machine rewrote the result into
 readable interviews. I reviewed the output, but not line by line. Five passages had put
 words in the mouth of the wrong real person before I caught them.
 
@@ -12,7 +12,7 @@ words in the mouth of the wrong real person before I caught them.
 I do not like generative AI, and I used it anyway, because the alternative was that this
 archive would not exist.
 
-The corpus is 68 episodes and 168 hours. The speech switches between Bahasa Melayu and
+The corpus is 70 episodes and 175 hours. The speech switches between Bahasa Melayu and
 English inside single sentences, and often three people talk at once. Hand-transcribing
 that is roughly a year of full-time work for one person, and I am one person doing this
 outside a job. A machine transcript that exists and can be checked against the video beats
@@ -62,14 +62,14 @@ myself:
 - **Disputed passages.** I listened to the original recording wherever a passage needed a
   human decision.
 
-**I have not verified any episode line by line.** At 168 hours, I am not going to pretend
+**I have not verified any episode line by line.** At 175 hours, I am not going to pretend
 otherwise. Automated checks cover the whole archive. Human review covers the places a check
 pointed at.
 
 ## How these files can be wrong
 
 Every failure class below is measured, and the counts come from checks that now run over
-all 68 episodes.
+all 70 episodes.
 
 ### The rewrite has named the wrong real person
 
@@ -94,7 +94,7 @@ names a substitution rather than a repair of a garble.
 
 ep60 took two passes to fix, and the second needed a source outside this archive. The first
 pass restored what the two speech-to-text systems heard. Both of those names then appeared
-exactly once each in 168 hours, so nothing in the corpus could identify the men. The press
+exactly once each in 175 hours, so nothing in the corpus could identify the men. The press
 could. Datuk Dr Ismail Salleh, of Amanah's national leadership council, and Abied Abdullah,
 a social-media account owner, were each served a RM5 million letter of demand over the RCI
 Tabung Haji report. The episode agrees on the names, on their order, and on the `LOD 5
@@ -153,7 +153,7 @@ crosstalk as unverified.
 Speech-to-text confuses `juta` with `bilion`, and a rewrite can carry the error forward.
 ep21 published `8.2 bilion` where the source audio says `8.2 juta`, at three separate
 spots. `scripts/check_figures.py` now reads every figure in the published files back
-against `raw.md`, and reports 0 unexplained differences across all 68 episodes. Check any
+against `raw.md`, and reports 0 unexplained differences across all 70 episodes. Check any
 number that matters against the video anyway.
 
 ### Translation invents meaning from noise
@@ -181,7 +181,7 @@ and writes the results to `QA_CHECKLIST.md`. A clean row means no *known* signat
 It does not mean the episode is verified. Two episodes read as clean for months while
 missing 41% and 80% of their content, until I added checks for those signatures.
 
-Current state: 68 of 68 episodes clean, 0 flagged, 11 findings reviewed and judged benign,
+Current state: 68 of 70 episodes clean, 0 flagged, 11 findings reviewed and judged benign,
 with the reasoning for each recorded in `data/qa_reviewed.json`.
 
 For the pipeline itself, see [ARCHITECTURE.md](ARCHITECTURE.md). For every failure I hit

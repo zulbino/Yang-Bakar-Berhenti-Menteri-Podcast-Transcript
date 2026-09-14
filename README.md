@@ -1,6 +1,6 @@
 # Yang Berhenti Menteri / Yang Bakar Menteri — podcast transcripts
 
-Full text of Rafizi Ramli's podcast *Yang Berhenti Menteri* (YBM), and of *Yang Bakar Menteri* before the rename. 69 episodes, 168 hours.
+Full text of Rafizi Ramli's podcast *Yang Berhenti Menteri* (YBM), and of *Yang Bakar Menteri* before the rename. 70 episodes, 175 hours.
 
 Baca dalam [Bahasa Melayu](README.ms.md).
 
@@ -20,7 +20,7 @@ For the pipeline itself, see [ARCHITECTURE.md](ARCHITECTURE.md). For every failu
 
 **One episode, to see what you get:** episode 61 — [verbatim raw transcript](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/raw.md) · [interview edit](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview.md).
 
-**Browse by run:** [Yang Berhenti Menteri, 63 episodes](episodes/yang-berhenti-menteri/) · [Yang Bakar Menteri, 6 episodes](episodes/yang-bakar-menteri/). **Browse by subject:** [TOPICS.md](TOPICS.md).
+**Browse by run:** [Yang Berhenti Menteri, 64 episodes](episodes/yang-berhenti-menteri/) · [Yang Bakar Menteri, 6 episodes](episodes/yang-bakar-menteri/). **Browse by subject:** [TOPICS.md](TOPICS.md).
 
 **Four files per episode.** Each episode folder holds the same four:
 

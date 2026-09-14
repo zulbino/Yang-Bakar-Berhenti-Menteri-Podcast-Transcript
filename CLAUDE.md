@@ -117,60 +117,75 @@ is the signal this step is missing or ran too early in the sequence.
 
 ### 7. Overlapping speech must never be silently merged into the wrong speaker
 
-**Named defect, not yet fully solved.** The shape: `Speaker 1: "...dia macam kalau"`
-immediately followed by `Speaker 2: "macam dalam kementerian ini dia ada 2 contoh..."`
--- a sentence that reads as one continuous thought, torn across two labels. This is
-what happens when two people talk over each other: the mixer/diarizer briefly attends
-to whoever is about to speak next, and a few words at the boundary get attributed to
-the wrong side of the cut.
+**Named defect. Detector built 2026-09-12, fix built and measured 2026-09-14.** The shape:
+`Speaker 1: "...dia macam kalau"` immediately followed by `Speaker 2: "macam dalam
+kementerian ini dia ada 2 contoh..."` -- a sentence that reads as one continuous thought,
+torn across two labels. This is what happens when two people talk over each other: the
+mixer/diarizer briefly attends to whoever is about to speak next, and a few words at the
+boundary get attributed to the wrong side of the cut.
 
-International Hansard practice has an answer for exactly this, and it validates the
-approach already partly built here: an interjection is either folded into the main
-speaker's turn (if brief and the speaker responds to it) or marked distinctly as an
-interjection -- **never silently merged as if it were the main speaker's own
-continuous sentence.** ("The report... leaves out nothing that adds to the meaning of
+International Hansard practice has an answer for exactly this: an interjection is either
+folded into the main speaker's turn (if brief and the speaker responds to it) or marked
+distinctly as an interjection -- **never silently merged as if it were the main speaker's
+own continuous sentence.** ("The report... leaves out nothing that adds to the meaning of
 the speech", the standard formulation used across UK/Canada/NZ/Alberta Hansard.)
 
-What already exists: `fold_hanging_fragments.py` handles the case where the SAME
-speaker sits on both sides of a short fragment the camera can't see. `move_hanging_words.py`
-moves a sentence's tail into the next block when it's the same speaker finishing
-their own thought. Neither currently handles the boundary the user is describing:
-a short block sandwiched between two DIFFERENT speakers, where the text is plausibly
-one continuous sentence.
+**Current state: `check_overlap_boundaries.py --all` reports 0 contested and 0 tail.**
+Re-run it after every adoption; it is the only live number, and the counts below are the
+history, not the queue.
 
-**Detector built 2026-09-12, the fix still is not.** `check_overlap_boundaries.py`
-finds the shape and classifies it by the camera's read of the boundary seconds, then
-escalates what is left with a `?t=` link -- `data/rule7_contested_boundaries.md` is its
-corpus-wide output: 66 candidates across the 22 adopted episodes, 31 attested by the
-camera as real handovers, 35 contested and waiting for an ear. Two measurements changed
-the picture:
+Three tools, and the division of labour matters:
 
-- **The unit is a PAIR, not the A/B/A sandwich described below.** The sandwich occurs
-  once in the adopted corpus (ep48, 1:17:30); the pair occurs 66 times. MAI punctuates
-  the end of a phrase, so after `merge_same_speaker.py` the first speaker rarely resumes
-  in a third block.
-- **The verdict has to be taken at the boundary, not over the turn.** ep44's 1:21:26
-  reads `Rafizi 842s, Haziq 4s` across its whole window, which looks clean, and
-  `Haziq 2s, Rafizi 1s` across its first three seconds, which is the defect.
+- `fold_hanging_fragments.py` -- the SAME speaker sits on both sides of a short fragment
+  the camera cannot see.
+- `move_hanging_words.py` -- a sentence's tail belongs to the next block. **Two branches
+  with deliberately different rules.** For a PARTIAL tail (the block has a sentence end
+  before it) the SHAPE decides and the camera gets no veto, because a sentence is not split
+  between two speakers and a camera cut is not a speaker change. For a WHOLE block with no
+  sentence end anywhere in it, the camera MUST attest the next speaker, because rule 7 says
+  a short block between two different speakers may be a real interruption. Where the camera
+  has no coverage, a recorded owner ruling moves it instead (ep56 01:24).
+- `check_overlap_boundaries.py` -- report only. Classifies each pair by the camera's read of
+  the boundary seconds and escalates the residue with a `?t=` link.
 
-**The 35 contested boundaries stay open until a measured tool moves them, one by one.**
-The three tools that would qualify, and the bar each has to clear, are listed at the top
-of `data/rule7_contested_boundaries.md`: word-level camera confidence at the cut, a voice
-witness measured at 100% on short windows (not the 97.6% vote the owner already refused,
-rule 8), or a multimodal model measured on turns of three words or fewer (Gemini scores
-54% there today). Re-run `check_overlap_boundaries.py --all` when one lands. A candidate
-leaves that list only when a measured tool moves it, never on a better guess, and the
-measurement is written next to the change.
+**What the owner's rulings measured, and why the fix was allowed to write.** The bar this
+rule set was that a candidate leaves the list only when a MEASURED tool moves it, never on
+a better guess. On 2026-09-13 the owner ruled all 11 `tail` boundaries after looking at
+contact sheets, and **every one went the way the camera had already read it** -- 11 of 11
+against a human eye. Their words: *"Actually all these can be verified visually..."* That
+retired the escalation: 21 tails and 6 whole blocks were then moved across 17 episodes,
+every word conserved by the existing guard, and the corpus went from 35 contested plus 11
+tail to zero of each.
 
-Proposed fix, still not built: a third pass that looks specifically at this shape --
-block N-1 (speaker A, no terminal punctuation) / block N (speaker B, short, lowercase
-start) / block N+1 (speaker A again, continuing the same sentence). Use word-level
-camera confidence at the exact boundary seconds, not the block-level label: if the
-camera's confidence for block N is low or contested (overlapping faces, a cut mid-word)
-and the text is a clean grammatical continuation of A's sentence, reattribute it to A.
-If the margin is not decisive, do not guess -- mark it (e.g. an explicit
-`[overlapping speech]` annotation) and escalate per rule 8, rather than silently
-picking a side.
+Four corrections the detector needed first, all from the owner's reading:
+
+- **The unit is a PAIR, not an A/B/A sandwich.** The sandwich occurs once in the adopted
+  corpus (ep48 1:17:30); the pair occurred 66 times. MAI punctuates the end of a phrase, so
+  after `merge_same_speaker.py` the first speaker rarely resumes in a third block.
+- **The verdict is taken at the boundary, not over the turn.** ep44's 1:21:26 reads
+  `Rafizi 842s, Haziq 4s` across its whole window, which looks clean, and `Haziq 2s,
+  Rafizi 1s` across its first three seconds, which is the defect.
+- **The block's own first second is skipped**, because the cut lags speech by about two
+  seconds.
+- **One stray second of the previous speaker is the cut, not a claim on the words**
+  (`MIN_EDGE_SECONDS = 2`).
+
+**Two traps to remember when a NEW boundary appears.**
+
+1. `move_hanging_words.py` cannot take a block that ends in terminal punctuation: it fails
+   the `no terminal punctuation` guard before a tail is computed. That guard is right in
+   general. ep35's 2:11:05 was exactly this, and it went to the owner's ear instead.
+2. **MAI transcribing a phrase twice does not mean two people said it.** ep35 held
+   `Ada 2 lagi.` twice, 0.6s apart, labelled `Multiple speakers`, and I recorded it as real
+   crosstalk on that basis. `frames_at.py` then showed Rafizi with a mug at his lips across
+   both tokens, so both were Haziq. The camera was available the whole time. Pull a contact
+   sheet before believing a duplicate is two voices.
+
+Owner decisions on this rule live in `data/speaker_adjudications.json` under
+`<ep>_rule7_*` sections, with **bare stamp keys in a section whose name contains the
+episode tag**. Any other shape is invisible to `check_owner_decisions.py`, which skips a
+key whose first character is not a digit -- that bug silently voided every rule-7 ruling
+until 2026-09-13.
 
 ### 8. Best guess after every available check and loop; escalate what's left with a timestamp, never a scrub
 

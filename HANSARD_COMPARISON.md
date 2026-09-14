@@ -1,6 +1,6 @@
 # The raw.md standard against Hansard editing practice
 
-CLAUDE.md's eight rules cite "international Hansard practice" without a source. This file
+CLAUDE.md's nine rules cite "international Hansard practice" without a source. This file
 is the source check, done 2026-09-12 against the primary pages that could be fetched: UK
 Commons Hansard (about page and the reporters' blog), Canada's House of Commons Procedure
 and Practice chapter 24, Alberta, Manitoba, Victoria, South Australia, and Bermuda's

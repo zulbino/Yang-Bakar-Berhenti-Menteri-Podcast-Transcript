@@ -1463,9 +1463,13 @@ Two things the first version got wrong, both fixed by measurement rather than ar
    three seconds. A long turn can be correctly labelled and still open with words that
    belong to the previous speaker, which is exactly what rule 7 is about.
 
-Corpus-wide result: 66 candidates, 31 attested by the camera (real handovers -- the
-co-hosts do finish each other's sentences), 35 contested, 0 camera-blind. The contested
-list with `?t=` links is `data/rule7_contested_boundaries.md`.
+Corpus-wide result AS OF 2026-09-12: 66 candidates, 31 attested by the camera (real
+handovers -- the co-hosts do finish each other's sentences), 35 contested, 0
+camera-blind. **Superseded: the list is empty as of 2026-09-14, 0 contested and 0
+tail, after the owner ruled the tail signature 11 of 11 and `move_hanging_words.py`
+gained the branch it was missing. See "rule 7's tail" below, and treat
+`check_overlap_boundaries.py --all` as the only live number.**
+`data/rule7_contested_boundaries.md` is kept as the record, not a queue.
 
 Two limits, both in the docstring. `check_camera_reference.py` is circular on an adopted
 raw, so the tool prints each speaker's share of camera seconds instead of gating on it --
