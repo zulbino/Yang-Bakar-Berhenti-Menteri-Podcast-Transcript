@@ -1683,3 +1683,56 @@ existing guard, then `merge_same_speaker.py` for rule 6. The detector went from
 0 contested / 11 tail to **0 contested / 0 tail across all 27 episodes with a camera
 reference**. 10 published turns in 7 episodes then disagreed with raw.md and are being
 regenerated: ep33, ep42, ep47, ep48, ep50, ep53, ep54, ep62.
+
+### ep32's camera pass died because its video file vanished mid-run (2026-09-14)
+
+`nightly_recut.py ep32 ep29 ep28 ep27 --hours 11` logged one line about it:
+
+```
+15:19:28   camera_run: FAILED in 45.5 min
+```
+
+That line reads as forty-five minutes of GPU time thrown away, and it is wrong twice over.
+The report JSON held the real cause. ffmpeg exited `4294967294`, which is `-2` unsigned,
+ENOENT:
+
+```
+[in#0 @ ...] Error opening input: No such file or directory
+Error opening input file ...\data\_video\UF8RxxOiWDA_480p.mp4.
+```
+
+**The video was deleted while the job was reading it.** Five of eighteen chunks had already
+been written, so the file existed for the first 46 minutes. Nothing in the pipeline deletes
+it at that point: `nightly_recut.py` unlinks the video only AFTER `camera_run` and
+`camera_reference` in the same loop iteration, and `cleanup_scratch.py` does not target
+`data/_video` at all. The process tree was a single chain, so no second nightly run raced
+it. **The cause is outside the pipeline and was not identified.** The likeliest candidate is
+a manual cleanup, because `data/_video` is named as a cleanup target in the session-closing
+checklist.
+
+**Two asymmetries made this worse than it needed to be.**
+
+1. **A model failure is tolerated and a missing input is fatal.** When `Columbia_test.py`
+   produces no tracks, the loop prints `FAILED` for that chunk and continues. When ffmpeg
+   cannot open a file, `check=True` raises and the whole episode dies. The second case is
+   the recoverable one.
+2. **`video()` checks only `p.exists()`**, then `camera_run` reads that file for two to
+   three hours with no further check. There is no lock and nothing re-verifies it.
+
+**What was actually lost: one chunk, about nine minutes.** The chunk loop skips a chunk
+whose json is already on disk (`if dest.exists(): continue`), which is the same recovery the
+concurrent-GPU section above describes. So ep32 resumes at chunk six and needs thirteen
+chunks, not eighteen. Its video has to be re-downloaded first, which `video()` does
+automatically because the file is gone.
+
+**The fix is a log line, not a guard.** A guard cannot stop an external process from
+deleting a file, and re-checking the path per chunk would only move the traceback. What was
+missing is the operator being told the run is resumable. `camera_run` now prints, on
+failure only:
+
+```
+  RESUMABLE: 5 chunk(s) on disk, a re-run skips them; MISSING INPUT: data\_video\UF8RxxOiWDA_480p.mp4
+```
+
+It names any input that has gone missing, because ffmpeg's `check=True` turns that into a
+traceback in a JSON field rather than a sentence in the log the operator reads.

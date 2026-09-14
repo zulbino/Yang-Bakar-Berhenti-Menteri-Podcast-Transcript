@@ -136,9 +136,23 @@ def video(vid):
 
 
 def camera_run(vid):
-    return run([PY, "scripts/camera_speakers.py", "run", str(VIDEO_DIR / f"{vid}_480p.mp4"),
-                str(ROOT / "audio" / f"{vid}.m4a"), "--out", f"data/_camera_tracks_{vid}"],
-               cwd=ROOT)
+    ok, out = run([PY, "scripts/camera_speakers.py", "run", str(VIDEO_DIR / f"{vid}_480p.mp4"),
+                   str(ROOT / "audio" / f"{vid}.m4a"), "--out", f"data/_camera_tracks_{vid}"],
+                  cwd=ROOT)
+    if not ok:
+        # camera_speakers.py's chunk loop skips a chunk whose json already exists, so a
+        # crashed run is RESUMABLE and the finished chunks are NOT lost. ep32 crashed on
+        # 2026-09-14 after its video file was deleted mid-run, and the only log line was
+        # "camera_run: FAILED in 45.5 min", which reads as 45 minutes of GPU time thrown
+        # away. Five of its eighteen chunks were on disk the whole time. Print what
+        # survived, and name any input that has gone missing, because ffmpeg's `check=True`
+        # turns that into a traceback rather than a sentence.
+        done = len(list((ROOT / "data" / f"_camera_tracks_{vid}").glob("chunk_*.json")))
+        gone = [str(p) for p in (VIDEO_DIR / f"{vid}_480p.mp4", ROOT / "audio" / f"{vid}.m4a")
+                if not p.exists()]
+        log(f"  RESUMABLE: {done} chunk(s) on disk, a re-run skips them"
+            + (f"; MISSING INPUT: {', '.join(gone)}" if gone else ""))
+    return ok, out
 
 
 def cast_check(tag):
