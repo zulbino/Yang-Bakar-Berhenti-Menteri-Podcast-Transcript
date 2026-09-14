@@ -1736,3 +1736,62 @@ failure only:
 
 It names any input that has gone missing, because ffmpeg's `check=True` turns that into a
 traceback in a JSON field rather than a sentence in the log the operator reads.
+
+### The rewrite stage changes figures, and nothing could fix them (2026-09-14)
+
+`check_figures.py` had flagged 7 episodes for a while and no one had ruled on any of them.
+Audited all nine flagged figures. Seven are real and **the published text is the wrong side
+in every one**:
+
+| episode | published said | correct | scale of the error |
+|---|---|---|---|
+| ep31 | `75 juta` | `7.5 juta` | ten-fold |
+| ep34 | `RM75 bilion` | `RM7.5 bilion` | ten-fold, tax refunds |
+| ep49 | `scuba 677` | `scuba` | a number that was never said |
+| ep49 | `1B di Pandan` | `di Pandan` | the English rewrite expanded it to `seat 1B` |
+| ep49 | `Facebook 3.3 juta` | `Facebook 3 juta` | a decimal invented from `3 point` |
+| ep52 | `47K` | `47 kes` | 47 court cases became 47 thousand |
+| ep55 | `200 juta` | `700 juta` | highway cost, wrong by 500 juta |
+| ep59 | `rugi 120 juta` | `rugi 102 juta` | transposed digits |
+
+Two are not defects. ep34's `45 bilion` is a substring of `RM22.45 bilion`, which raw.md
+supports. ep41's `1.99` is raw's `seringgit 99 sen` written in digits, which is correct
+style for an interview file.
+
+**Two different defects hide under one signature, and they need opposite fixes.**
+
+- **Six of the seven came from the pre-adoption local-ASR raw.** The rewrite copied a bad
+  source faithfully. Verified by reading each episode's old raw from `data/_old_*_raw.md` or
+  from git history before the adoption commit. Regenerating the published files from the MAI
+  raw fixes these by itself.
+- **ep52's `47K` was invented at the rewrite stage from a correct source.** The MAI raw, the
+  pre-adoption raw, AND the Malay captions all say `DNAA 47 kes`. `47K` exists in no witness.
+  So regeneration can reproduce it, and ep52 needs a specific re-check after any rewrite.
+  This is the one case that proves regeneration is not a guarantee.
+
+**Every verdict has two independent witnesses**, per the owner's rule of 2026-09-12 that a
+disputed digit is settled by witness count. The witnesses are raw.md (MAI), the Malay
+caption track, the pre-adoption raw, and the sentence's own arithmetic. ep34 is the
+strongest: the captions say `7.5 bilion` four times and `75 bilion` never, and the sentence
+calls the payment higher than the PM's commitment of 4 bilion, which 7.5 exceeds narrowly
+and 75 overshoots absurdly.
+
+**`scripts/fix_published_figures.py` is the mechanism that was missing.** A figure
+correction cannot live in `fix_proper_nouns.py`, whose map is corpus-wide: a bare `200 juta`
+or `47K` is not safe to rewrite across 70 episodes. So the map here is keyed by episode,
+holds literal strings only with no regexes at all, and declares the occurrence count each
+rule expects. It refuses to write when a count has moved, because that means the file was
+regenerated or already corrected and the rule no longer describes the text it was reviewed
+against. It never touches raw.md.
+
+**Where the RAW carries the wrong digit instead, the fix goes elsewhere**, and ep31 has one
+of each in the same episode. Its raw said `180.8 million` where every other witness said
+`184.8`: the local raw, the captions three times, and the arithmetic (462 million MMAG
+shares at 40 sen is 184.8 million exactly, and the episode's own title puts Farhash's loss
+at RM97.5 juta, which is 184.8 minus the 87.32 he sold for). That correction went into
+`fix_proper_nouns.py`, labelled there as a figure, because that map is the one reviewed list
+`mai_camera_raw.py` applies during the build. A fix recorded anywhere else is wiped by the
+next re-adoption.
+
+Result: `check_figures.py` went from 7 of 70 flagged to 2 of 70, and both survivors are the
+non-defects above. Verdicts and evidence for all nine live in `data/qa_reviewed.json`.

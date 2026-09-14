@@ -74,9 +74,10 @@
    "reason": "The flag's premise is that the person's turns are sitting inside another speaker's blocks. Here there is no evidence he SPOKE at all, so there are no turns to recover. He stays on hosts: because that field records who took part, not who holds a label (scripts/rebuild_roster.py). Evidence, none of it the transcript's own labels: (1) ep55's only mention is third-person and sits inside another speaker's turn at [2:41:57]: \"Pa'an yang takut. Pa'an yang takut dah.\" Nobody hands over to him. (2) The caption track's 19,027 word-timings contain ZERO mentions of Pa'an or Farhan, so there is no second anywhere in the episode to point a camera at. (3) ep55 has already been re-cut at turn level and its clusters were named from video and word-overlap; Haziq came out with 82 labels and no further voice appeared. Re-flag by deleting this entry if a Farhan turn is ever identified."
   },
   "unsourced-figure": {
-   "verdict": "confirmed-defect-in-published",
-   "reason": "The published files print `200 juta` where raw.md says `700 juta`, for the cost of widening the PLUS highway from Senai to Yong Peng. The caption track settles it: `itu pun dah saya ingat 700 juta`. The old local-ASR raw said `200 juta`, so the rewrite copied a bad raw and regeneration from the MAI raw fixes it. STAYS FLAGGED until then. Note the place name is Yong Peng, Johor: the old raw wrote `Yongping` and the captions `Yompeng`.",
-   "date": "2026-09-14"
+   "verdict": "fixed",
+   "reason": "The published files print `200 juta` where raw.md says `700 juta`, for the cost of widening the PLUS highway from Senai to Yong Peng. The caption track settles it: `itu pun dah saya ingat 700 juta`. The old local-ASR raw said `200 juta`, so the rewrite copied a bad raw and regeneration from the MAI raw fixes it.  Note the place name is Yong Peng, Johor: the old raw wrote `Yongping` and the captions `Yompeng`.",
+   "date": "2026-09-14",
+   "fixed_2026_09_14": "FIXED in all three published files: `200 juta` -> `700 juta`. The owner chose on 2026-09-14 to correct the digits now rather than wait for the regeneration of 33 stale published files, because the repo is public. The replacement is recorded as a reviewed, episode-scoped literal in scripts/fix_published_figures.py with its witnesses, so it is reproducible rather than a hand edit. raw.md was NOT touched: it was already right. A future regeneration overwrites this, which is expected."
   }
  },
  "2026-03-27-ep41-siapa-mr-r-bukti-40-muka-surat-tindak-balas-kerajaan-susulan": {
@@ -176,37 +177,42 @@
  },
  "2026-02-06-ep34-pilihanraya-datuk-bandar-kl-kos-bina-1-bilik-darjah-tapisan-": {
   "unsourced-figure": {
-   "verdict": "confirmed-defect-in-published",
-   "reason": "Two figures flagged, one real and one a false positive. REAL: the published files print `RM75 bilion` where raw.md says `7.5 bilion`, a ten-fold error on a tax-refund figure. MAI and the Malay caption track agree on 7.5 (captions say `7.5 bilion` FOUR times and `75 bilion` never), and the sentence's own arithmetic settles it: the text calls the payment higher than the PM's initial commitment of 4 bilion, which 7.5 exceeds and 75 absurdly overshoots. The old local-ASR raw said `RM75 bilion`, so the rewrite copied a bad raw faithfully; regeneration from the MAI raw fixes it. FALSE POSITIVE: `45 bilion` is matched as a substring of `RM22.45 bilion`, which raw.md supports exactly. STAYS FLAGGED until the published files are regenerated.",
-   "date": "2026-09-14"
+   "verdict": "benign",
+   "reason": "Two figures flagged, one real and one a false positive. REAL: the published files print `RM75 bilion` where raw.md says `7.5 bilion`, a ten-fold error on a tax-refund figure. MAI and the Malay caption track agree on 7.5 (captions say `7.5 bilion` FOUR times and `75 bilion` never), and the sentence's own arithmetic settles it: the text calls the payment higher than the PM's initial commitment of 4 bilion, which 7.5 exceeds and 75 absurdly overshoots. The old local-ASR raw said `RM75 bilion`, so the rewrite copied a bad raw faithfully; regeneration from the MAI raw fixes it. FALSE POSITIVE: `45 bilion` is matched as a substring of `RM22.45 bilion`, which raw.md supports exactly.",
+   "date": "2026-09-14",
+   "fixed_2026_09_14": "The REAL half is FIXED: `RM75 bilion` -> `RM7.5 bilion` in all three published files, via scripts/fix_published_figures.py. What still trips check_figures.py is only the FALSE POSITIVE, `45 bilion` matched as a substring of `RM22.45 bilion`, which raw.md supports exactly. So the signature is benign from 2026-09-14 onward. If a future run flags a DIFFERENT figure here, delete this entry and re-review rather than trusting it."
   }
  },
  "2026-05-22-ep49-seminggu-selepas-bersama-ph-bn-tidak-lagi-bersama-ybm-49": {
   "unsourced-figure": {
-   "verdict": "confirmed-defect-in-published",
-   "reason": "Three figures, all three wrong in the published files and all three inherited from the old local-ASR raw. (1) `scuba 677`: the caption track says `kenapa tak buat scuba? [ketawa]` with no number, and MAI puts the `6 7` meme in a SEPARATE later exchange (`Dia 6 7, 6 7 lah kan?`). The old raw fused them. (2) `1B di Pandan`: MAI's raw says only `Di Pandan lah` and the captions carry no `1B`. The old raw had it. (3) `Facebook 3.3 juta`: MAI says `Facebook 3 point. Ha, 3 juta ... Facebook dekat 3.1` and the captions match that word for word (`Facebook 3 ... ah 3 juta lebih dekat 4 jutalah kan. Facebook dekat a 3.1 3 juta`). There is no 3.3. The old raw's `3 point 3 juta` became `3.3`. Regeneration from the MAI raw fixes all three. STAYS FLAGGED until then.",
-   "date": "2026-09-14"
+   "verdict": "fixed",
+   "reason": "Three figures, all three wrong in the published files and all three inherited from the old local-ASR raw. (1) `scuba 677`: the caption track says `kenapa tak buat scuba? [ketawa]` with no number, and MAI puts the `6 7` meme in a SEPARATE later exchange (`Dia 6 7, 6 7 lah kan?`). The old raw fused them. (2) `1B di Pandan`: MAI's raw says only `Di Pandan lah` and the captions carry no `1B`. The old raw had it. (3) `Facebook 3.3 juta`: MAI says `Facebook 3 point. Ha, 3 juta ... Facebook dekat 3.1` and the captions match that word for word (`Facebook 3 ... ah 3 juta lebih dekat 4 jutalah kan. Facebook dekat a 3.1 3 juta`). There is no 3.3. The old raw's `3 point 3 juta` became `3.3`. Regeneration from the MAI raw fixes all three.",
+   "date": "2026-09-14",
+   "fixed_2026_09_14": "FIXED in all three published files: `scuba 677` -> `scuba`, `1B di Pandan` -> `di Pandan`, `Facebook 3.3 juta` -> `Facebook 3 juta`. The owner chose on 2026-09-14 to correct the digits now rather than wait for the regeneration of 33 stale published files, because the repo is public. The replacement is recorded as a reviewed, episode-scoped literal in scripts/fix_published_figures.py with its witnesses, so it is reproducible rather than a hand edit. raw.md was NOT touched: it was already right. A future regeneration overwrites this, which is expected."
   }
  },
  "2026-06-12-ep52-parti-parti-politik-melayu-bergaduh-anak-muda-memberontak-yb": {
   "unsourced-figure": {
-   "verdict": "confirmed-defect-in-published",
-   "reason": "`47K` IS THE ONE CASE THE REWRITE INVENTED, and that makes it the important one. BOTH raws agree: the MAI raw and the old local-ASR raw each say `DNAA 47 kes`, and the Malay captions say `47 kes` twice. `47K` appears in no witness. So 47 court cases became 47 thousand somethings at the rewrite stage, with a correct source on both sides of it. Every other figure defect found in this audit was the rewrite copying a bad old raw, which regeneration fixes by itself. THIS ONE REGENERATION MIGHT REPEAT, so check it specifically after ep52 is regenerated. STAYS FLAGGED.",
-   "date": "2026-09-14"
+   "verdict": "fixed",
+   "reason": "`47K` IS THE ONE CASE THE REWRITE INVENTED, and that makes it the important one. BOTH raws agree: the MAI raw and the old local-ASR raw each say `DNAA 47 kes`, and the Malay captions say `47 kes` twice. `47K` appears in no witness. So 47 court cases became 47 thousand somethings at the rewrite stage, with a correct source on both sides of it. Every other figure defect found in this audit was the rewrite copying a bad old raw, which regeneration fixes by itself. THIS ONE REGENERATION MIGHT REPEAT, so check it specifically after ep52 is regenerated.",
+   "date": "2026-09-14",
+   "fixed_2026_09_14": "FIXED in all three published files: `DNAA, 47K` -> `DNAA 47 kes,`. The owner chose on 2026-09-14 to correct the digits now rather than wait for the regeneration of 33 stale published files, because the repo is public. The replacement is recorded as a reviewed, episode-scoped literal in scripts/fix_published_figures.py with its witnesses, so it is reproducible rather than a hand edit. raw.md was NOT touched: it was already right. A future regeneration overwrites this, which is expected."
   }
  },
  "2026-08-14-ep59-rci-tabung-haji-apa-yang-tidak-dibincangkan-di-parlimen-dap-": {
   "unsourced-figure": {
-   "verdict": "confirmed-defect-in-published",
-   "reason": "The published files print `rugi 120 juta` where raw.md says `rugi 102 juta`, for Tabung Haji's 2025 share-price loss. The caption track settles it: `pasaran saham jatuh balik ah rugi 102 juta okey`. The old local-ASR raw said `120 juta`, so the rewrite copied a bad raw and regeneration from the MAI raw fixes it. STAYS FLAGGED until then.",
-   "date": "2026-09-14"
+   "verdict": "fixed",
+   "reason": "The published files print `rugi 120 juta` where raw.md says `rugi 102 juta`, for Tabung Haji's 2025 share-price loss. The caption track settles it: `pasaran saham jatuh balik ah rugi 102 juta okey`. The old local-ASR raw said `120 juta`, so the rewrite copied a bad raw and regeneration from the MAI raw fixes it.",
+   "date": "2026-09-14",
+   "fixed_2026_09_14": "FIXED in all three published files: `rugi 120 juta` -> `rugi 102 juta`. The owner chose on 2026-09-14 to correct the digits now rather than wait for the regeneration of 33 stale published files, because the repo is public. The replacement is recorded as a reviewed, episode-scoped literal in scripts/fix_published_figures.py with its witnesses, so it is reproducible rather than a hand edit. raw.md was NOT touched: it was already right. A future regeneration overwrites this, which is expected."
   }
  },
  "2026-01-16-ep31-dpa-sprm-farhash-rugi-rm97-5-juta-pau-2025-ada-apa-dengan-pk": {
   "unsourced-figure": {
-   "verdict": "confirmed-defect-in-published",
-   "reason": "The published files print `75 juta` where raw.md says `7.5 juta`. MAI and the Malay caption track agree on 7.5 (the captions read `7.5 juta` in the same sentence), and `75 juta` appears only in the old local-ASR raw. So the rewrite copied a bad raw and regeneration from the MAI raw fixes it. NOTE THE OTHER DIRECTION IN THE SAME EPISODE: `184.8` was wrong in the RAW, not the published text, and it was corrected on 2026-09-14 through fix_proper_nouns.py. MAI alone said `180.8` against the local raw, the captions three times, and the arithmetic (462 million MMAG shares at 40 sen is 184.8 million exactly; the episode title's RM97.5 juta loss only works from 184.8). STAYS FLAGGED until the published files are regenerated.",
-   "date": "2026-09-14"
+   "verdict": "fixed",
+   "reason": "The published files print `75 juta` where raw.md says `7.5 juta`. MAI and the Malay caption track agree on 7.5 (the captions read `7.5 juta` in the same sentence), and `75 juta` appears only in the old local-ASR raw. So the rewrite copied a bad raw and regeneration from the MAI raw fixes it. NOTE THE OTHER DIRECTION IN THE SAME EPISODE: `184.8` was wrong in the RAW, not the published text, and it was corrected on 2026-09-14 through fix_proper_nouns.py. MAI alone said `180.8` against the local raw, the captions three times, and the arithmetic (462 million MMAG shares at 40 sen is 184.8 million exactly; the episode title's RM97.5 juta loss only works from 184.8).",
+   "date": "2026-09-14",
+   "fixed_2026_09_14": "FIXED in all three published files: `75 juta` -> `7.5 juta`. The owner chose on 2026-09-14 to correct the digits now rather than wait for the regeneration of 33 stale published files, because the repo is public. The replacement is recorded as a reviewed, episode-scoped literal in scripts/fix_published_figures.py with its witnesses, so it is reproducible rather than a hand edit. raw.md was NOT touched: it was already right. A future regeneration overwrites this, which is expected."
   }
  }
 }
