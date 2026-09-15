@@ -21,7 +21,11 @@ import io
 import json
 import os
 import re
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import common  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 COVERAGE_FLOOR = 0.97
@@ -103,6 +107,69 @@ def main():
     if waiting:
         print(f"waiting on a camera reference ({len(waiting)}):", " ".join(waiting[:12]),
               "..." if len(waiting) > 12 else "")
+        queue_readiness([r for r in rows if r[0] in set(waiting)])
+
+
+LABEL = re.compile(r"^\[[\d:]+\]\s*([^:\n]{1,40}?):", re.M)
+GENERIC_LABEL = re.compile(
+    r"^(speaker\b|multiple speakers|overlapping|audience|hadirin|unknown|\[)", re.I)
+
+
+def queue_readiness(rows):
+    """Which waiting episodes will produce a USABLE reference, and which need a photo first.
+
+    A camera pass costs about 2.5 hours of GPU and its reference is then REFUSED if a
+    speaker holding real word volume is in no face gallery. That is the ep33 class, and on
+    2026-09-15 fifteen of the thirty-three waiting episodes were in it.
+
+    The refusal is cheap to predict and expensive to discover. The split that matters is
+    one-versus-many, not guest-versus-no-guest: `guest_gallery.py` names a guest with NO
+    photograph when exactly one unnamed label is left, because one guest and one cluster
+    holding the unidentified talking time is a bijection it can assert. Two unnamed labels
+    defeat it, and then CLAUDE.md rule 9 needs a public photograph for all but the last.
+
+    The gallery only matters at the `reference` step, which is cheap, needs no GPU and can
+    be re-run any time. So an episode listed below is never blocked from its camera pass.
+    It just cannot finish unattended.
+    """
+    enrolled = set()
+    for f in glob.glob(str(ROOT / "data" / "_face_gallery*.json")):
+        enrolled |= set(json.load(io.open(f, encoding="utf-8"))["gallery"])
+    # KEYED ON VIDEO ID, not on the tag. Both shows have an ep01 through ep06, so
+    # common.raw_for_tag raises on a bare tag for twelve of the thirty-three episodes
+    # waiting here -- and the first version of this function swallowed that and reported
+    # on 21, silently omitting the whole yang-bakar-menteri run plus six berhenti
+    # episodes. A video id is unique across both shows.
+    by_vid = {}
+    for path in glob.glob(str(ROOT / "episodes" / "*" / "*" / "raw.md")):
+        head = io.open(path, encoding="utf-8").read(4000)
+        m = re.search(r"video_id:\s*(\S+)", head)
+        if m:
+            by_vid[m.group(1)] = path
+    auto, photo, missing = [], [], []
+    for row in rows:
+        tag, vid = row[0], row[1]
+        path = by_vid.get(vid)
+        if not path:
+            missing.append(tag)
+            continue
+        series = Path(path).parent.parent.name.split("-")[1]
+        tag = f"{tag}:{series}" if sum(1 for r in rows if r[0] == row[0]) > 1 else tag
+        body = io.open(path, encoding="utf-8").read()
+        labels = {m.group(1).strip() for m in LABEL.finditer(body)}
+        cand = sorted(l for l in labels
+                      if l.split(" (")[0] not in enrolled and not GENERIC_LABEL.search(l))
+        (auto if len(cand) <= 1 else photo).append((tag, cand))
+    assert len(auto) + len(photo) + len(missing) == len(rows), "queue readiness dropped rows"
+    if missing:
+        print(f"   NO raw.md found for {len(missing)}: {' '.join(missing)}")
+    print(f"   {len(auto)} of those need NO photograph: the cast gate passes, or "
+          f"guest_gallery.py names the one unnamed guest from the tracks")
+    if photo:
+        print(f"   {len(photo)} name more than one unenrolled person. Rule 9 needs a "
+              f"photograph for all but the last, before the reference step:")
+        for tag, cand in photo:
+            print(f"     {tag:<6} {cand}")
 
 
 if __name__ == "__main__":
