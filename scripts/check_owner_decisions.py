@@ -89,6 +89,11 @@ def main():
     def current_block(stamp):
         return [(w, t) for st, w, t in cur if secs(st) == secs(stamp)]
 
+    def candidate_block_at(at):
+        """The candidate's block(s) sitting exactly on this second. A split re-uses its
+        parent's stamp, so this can return more than one."""
+        return [(w, t) for st, w, t in cand if secs(st) == at]
+
     def candidate_labels(snippet, at=None):
         # A block's span runs from its stamp to the next block's stamp: after the merge a
         # Rafizi block stamped 2:18:42 can hold words spoken at 2:19:13.
@@ -167,6 +172,36 @@ def main():
             continue
         want = short(who)
         if len(snip.split()) < 2:
+            # THE LAST LINK OF THE DOCUMENTED FALLBACK CHAIN, and it was missing. A
+            # one-word anchor cannot be located by text, so the gate printed "cannot
+            # locate" and stopped -- even when the block sitting on the owner's own stamp
+            # already carries the owner's label. ep19's 1:43:04 is the case: the record
+            # holds `text_now: "Hmm"`, MAI transcribes those seconds as `No.`, and the
+            # block at that second IS Haziq exactly as the owner ruled. Reporting that as
+            # unverifiable overstates the risk, and ARCHITECTURE.md's own description of
+            # this gate says the chain ends at "whatever block sits at the stamp".
+            #
+            # THE CONDITION IS STRICT, so this verifies rather than waives: every block on
+            # that exact second must carry the owner's label. A different label still
+            # reports, and so does a second with no block at all.
+            at_blocks = candidate_block_at(at) if at is not None else []
+            at_labels = sorted({short(w) for w, _ in at_blocks})
+            if at_labels == [want]:
+                ok += 1
+                print(f"  preserved at the stamp ({src}): {who}; the recorded anchor "
+                      f"{snip!r} is under two words | {at_blocks[0][1][:45]}")
+                continue
+            if want in at_labels:
+                # A split re-uses its parent's stamp, so two blocks can share this second
+                # with different names. ep19's 1:43:04 holds `Haziq: No.` AND `Rafizi: Satu
+                # projek.`, and the owner ruled Haziq. Their turn is there; the stamp alone
+                # cannot say which of the two it is. Same verdict as the two-word snippet
+                # that sits in two blocks: kept, and said so, never called a disagreement.
+                partial += 1
+                print(f"  AMBIGUOUS, kept ({src}): owner says {who}; the anchor {snip!r} is "
+                      f"under two words and the stamp holds blocks labelled {at_labels}, "
+                      f"one of them {who}")
+                continue
             missing += 1
             print(f"  cannot locate ({src}): no usable text for the turn the owner named {who}")
             continue

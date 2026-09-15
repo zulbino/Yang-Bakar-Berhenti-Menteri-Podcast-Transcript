@@ -2136,3 +2136,107 @@ Checked both deleted files for anything durable first. ep09-12's process-failure
 in memory as `feedback_no_em_dash.md` and the Stop hook now enforces it. ep09-13's standing
 decision, reprocess with the camera and never hand-patch a local raw, is in CLAUDE.md's
 no-mechanism list and in memory.
+
+### The adoption sequence had a missing second pass, and rule 7 went to 1 because of it (2026-09-16)
+
+ep20, ep19 and ep18 adopted clean overnight, every gate passing. Then
+`check_overlap_boundaries.py --all` reported **1 contested** across 46 episodes, after days
+at 0, plus 2 tails.
+
+**The cause is the order of two steps that each change the other's input.** Adoption runs
+`move_hanging_words.py` at step 5 and `merge_same_speaker.py` at step 6. The merge joins
+blocks, so a tail that had a grunt or a short turn after it ends up adjacent to a different
+block than the one step 5 looked at. A second move pass then finds real tails. Measured: one
+each in ep18, ep19 and ep22, all three already adopted and reported clean.
+
+CLAUDE.md rule 6 states the mirror of this and has since ep32: *"Re-run this step AFTER the
+rule 7 move, not only before it."* Rule 8 states the general form. Neither was wired into
+the sequence, so both depended on someone re-running the tool by hand. **Step 6c now does
+it**, and it is the third time this exact class has been found: a rule that exists, is
+written down, and has no mechanism.
+
+**`--camera-veto` is ON at step 6c and off at step 5, deliberately.** Step 5's default was
+measured against the owner's ear 11 of 11 on 2026-09-13, and every one of those 11 was a
+boundary where the camera shows the NEXT speaker during the previous block's last seconds.
+A tail the camera attests to the CURRENT speaker is the other shape and that measurement
+does not cover it. ep18's 1:32:59 is the case, so it is left for an ear rather than moved on
+a rule measured for something else.
+
+### `fold_hanging_fragments.py`: condition 1 refused the case where its evidence was strongest
+
+ep20 1:47:19 is the SANDWICH shape CLAUDE.md rule 7 names, and the second in the adopted
+corpus after ep48 1:17:30. Haziq reads a press statement listing Malaysia's exports:
+
+    [1:47:05] Haziq:  ...eksport utama Malaysia seperti minyak sawit,
+    [1:47:19] Rafizi: barangan berasaskan getah,
+    [1:47:20] Haziq:  produk koko, komponen dan alat ganti pesawat dan farmaseutikal.
+
+The middle item of Haziq's own list was labelled Rafizi. The camera reads **Haziq for all
+3 seconds**. The fold refused it anyway, because condition 1 was "the camera covers NONE of
+the fragment's seconds" and any attestation disqualified the fragment.
+
+**Condition 1 now has a second branch, and it is strictly safer than the first rather than a
+loosening.** Condition 1 exists to stop a minority speaker being deleted when the camera
+says they really did finish someone else's sentence. That danger requires the camera to
+attest a DIFFERENT name from the neighbours. Where every attested second votes for the SAME
+name that sits on both sides, the camera corroborates the fold and only the fragment's own
+label dissents.
+
+**A guard had to come with it, and ep18 is why.** The new branch made
+`[1:29:34] Haziq: Baik. Kandungan pengajaran` a fold candidate. That block is Haziq's own
+`Baik.` followed by the start of Rafizi's sentence, so folding the whole thing would have
+given Rafizi a word Haziq said. A sentence ending INSIDE the fragment means two sentences
+and possibly two speakers, which is `move_hanging_words.py`'s partial-tail case. The fold
+now skips any fragment containing `[.?!]` followed by a space.
+
+Regression-checked as a dry run on eleven adopted episodes before writing anything. Only
+ep20 gains a fold. ep61's nine camera-attested fragments, the safety case this condition was
+built for, are still counted as attested and left alone.
+
+### Auditing owner decisions: do NOT pass a guessed `--current` (2026-09-16)
+
+`check_owner_decisions.py` takes `--current <the raw the decisions were recorded against>`.
+A standalone re-audit has to either pass the right file or pass none. Passing a GUESSED one
+produces false verdicts in both directions, and this is worth recording because a false
+MISMATCH is worse than no record.
+
+Measured on the same corpus, same minute, three ways:
+
+| `--current` | preserved | partly | MISMATCHED | not locatable |
+|---|---|---|---|---|
+| none | 108 | 8 | 0 | 24 |
+| guessed `data/_old_<tag>_raw.md` for every tag | 120 | 8 | **2** | 10 |
+
+Both ep61 "mismatches" under the guess are false. `ep61_farhan_restore@2:51:15` reports a
+disagreement at 2:50:42, and the raw holds `[2:51:42] Farhan (Pa'an): Tak, maps, maps lain.`
+exactly as ruled; the anchor text is the OLD raw's wording and lib_locate fuzzy-matched it
+into a long Rafizi block. `ep61_from_owner_gold@01:55` reports Rafizi, and the raw holds
+`[01:55] Haziq: Okey. Okey, baik YB.` as ruled; that anchor's words belong to Rafizi's 01:36
+turn, so the recorded text is wrong for that stamp, not the label.
+
+**The authoritative run is the one inside `adopt_mai_camera_raw.py`**, at the moment of
+adoption, where `--current` is the committed raw the decisions were actually recorded
+against. ep20 demonstrates the difference: preserved inside adoption, 1 not locatable in a
+standalone run with no `--current`.
+
+### `check_owner_decisions.py`: the fallback chain was missing its last link
+
+ARCHITECTURE.md has described this gate's chain as `text_now`, then
+`text_was_startswith`, then `text_was`, then "whatever block sits at the stamp". The last
+link only ran when the record had NO text at all. A record whose text existed but fell under
+the two-word minimum printed `cannot locate` and stopped.
+
+That two-word minimum was added 2026-09-15 for a good reason: a one-word snippet matches
+everywhere. It had a side effect nobody measured.
+
+  - **ep34 2:04:29** carries `0.0179`, one token. The block on that second is Haziq, exactly
+    as the owner ruled. Now reported `preserved at the stamp`.
+  - **ep19 1:43:04** carries `text_now: "Hmm"`. MAI transcribes those seconds as `No.` and
+    the block IS Haziq as ruled. Two blocks share that second with different names, so the
+    stamp alone cannot say which turn the owner meant. Reported `AMBIGUOUS, kept`, the same
+    verdict a two-word snippet sitting in two blocks already gets.
+
+**The condition is strict, so this verifies rather than waives.** Exact label match at the
+stamp counts as preserved; the owner's label merely being present counts as ambiguous-kept;
+a different label still reports, and so does a second with no block. Corpus-wide the
+not-locatable count went 25 to 24 while three more episodes were adopted.

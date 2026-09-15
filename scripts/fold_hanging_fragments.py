@@ -14,11 +14,14 @@ speech: nobody says five words and hands the rest of the sentence to someone els
 
 FIVE CONDITIONS, ALL REQUIRED, and the camera one is the whole safety argument:
 
-  1. The camera covers NONE of the fragment's seconds. A fragment the camera ATTESTS is
-     never folded, however short and however mid-sentence -- that is exactly how a minority
-     speaker gets deleted, and this corpus has done it once already (ATTRIBUTION_PASS.md,
-     the Farhan turn at 2:51:42). On ep61 the camera attests nine of the twelve hanging
-     fragments: Haziq really does finish Rafizi's sentences, for 2 to 11 seconds at a time.
+  1. Either the camera covers NONE of the fragment's seconds, or every second it does
+     cover votes for the SAME name that sits on both sides. A fragment the camera attests
+     to a DIFFERENT speaker is never folded, however short and however mid-sentence. That
+     is exactly how a minority speaker gets deleted, and this corpus has done it once
+     already (ATTRIBUTION_PASS.md, the Farhan turn at 2:51:42). On ep61 the camera attests
+     nine of the twelve hanging fragments: Haziq really does finish Rafizi's sentences, for
+     2 to 11 seconds at a time. The second branch was added 2026-09-16 for ep20 1:47:19,
+     where the camera and both neighbours all say Haziq and only the fragment says Rafizi.
   2. The blocks either side carry one and the same name, and it is not this block's name.
   3. The fragment is at most MAX_WORDS long.
   4. It ends without terminal punctuation and the next block starts lower-case.
@@ -141,8 +144,34 @@ def main():
             continue
         if said.rstrip()[-1] in '.?!:"' or not next_said.split()[0][:1].islower():
             continue
+        # A SENTENCE ENDS INSIDE THE FRAGMENT, so it holds two sentences and possibly two
+        # speakers. That is move_hanging_words.py's PARTIAL-tail case, not a fold: only the
+        # words after the full stop belong to the next block, and folding the whole thing
+        # would hand the first sentence to the wrong person.
+        #
+        # ep18 1:29:34 is why this guard exists. `Baik. Kandungan pengajaran` is Haziq's own
+        # `Baik.` followed by the start of Rafizi's sentence, and condition 1's new second
+        # branch made it a fold candidate for the first time. Folding it would have given
+        # Rafizi a word Haziq said.
+        if re.search(r"[.?!]\s", said):
+            continue
         vote = Counter(camera.get(t) for t in range(secs(st), max(secs(st) + 1, secs(nxt))))
-        if any(k for k in vote if k):
+        seen = {k for k in vote if k}
+        # CONDITION 1 HAS A SECOND BRANCH, ADDED 2026-09-16, and it is strictly safer than
+        # the silent-camera branch rather than a loosening of it. Condition 1 exists to stop
+        # a minority speaker being deleted when the camera says they really did finish
+        # someone else's sentence. That danger needs the camera to attest a DIFFERENT name
+        # from the neighbours. Where every attested second votes for the SAME name that sits
+        # on both sides, the camera is corroborating the fold, and only the fragment's own
+        # label dissents.
+        #
+        # ep20 1:47:19 is the case, and check_overlap_boundaries.py found it: Haziq reads a
+        # press statement listing Malaysia's exports, `minyak sawit,` / `barangan berasaskan
+        # getah,` / `produk koko, komponen dan alat ganti pesawat`, and the middle item was
+        # labelled Rafizi. The camera reads Haziq for all 3 seconds. It is the SANDWICH
+        # shape CLAUDE.md rule 7 names, the second in the adopted corpus after ep48 1:17:30,
+        # and leaving it meant a reader saw Rafizi say two words inside Haziq's own list.
+        if seen and seen != {before} and {s.split()[0] for s in seen} != {before.split()[0]}:
             attested += 1
             continue
         if any(d[:40] in said.lower() or said.lower()[:40] in d for d in decided):
@@ -154,7 +183,8 @@ def main():
         print(f"  SKIPPED, an owner decision names it: [{st}] {who}: {said}")
     for _, st, who, to, said in folds:
         print(f"  fold [{st}] {who} -> {to}: {said}")
-    print(f"{a.tag}: {len(folds)} hanging fragment(s) the camera cannot see, "
+    print(f"{a.tag}: {len(folds)} hanging fragment(s) the camera cannot see or attests to "
+          f"the same speaker as both neighbours, "
           f"{attested} left alone because the camera attests them, {len(skipped)} skipped as "
           "owner decisions")
 

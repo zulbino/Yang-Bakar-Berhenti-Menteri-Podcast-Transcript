@@ -32,6 +32,11 @@ ORDER MATTERS, and each step is here for a measured reason:
      the camera's seconds, name what is still generic. Runs ONLY if the strict bar measures
      100% on this episode's held-out 1.6 s windows (owner's rule: a probabilistic vote is not
      identification; 97.6% stays `Speaker ?`). Then the merge runs again.
+  6c. `move_hanging_words.py --camera-veto` then `merge_same_speaker.py` AGAIN. The merge at
+     step 6 joins blocks, which puts a tail next to a block that was not adjacent when step 5
+     looked. Added 2026-09-16 after ep18, ep19 and ep22 each turned out to hold one such tail
+     AFTER a clean adoption. The veto is on here and off at step 5: see the comment at the
+     call for why the owner's 11-of-11 measurement does not cover this shape.
   7. `fix_proper_nouns.py` and `fix_yb_honorific.py` -- corpus-wide reviewed maps. MAI
      spells the honorific `Abi` where the local ASR wrote `wabi`, so a fresh MAI raw always
      needs the second one.
@@ -190,6 +195,21 @@ def main():
         print(f"   validated: strict bar {m.group(2)}/{m.group(1)} on 1.6 s held-out windows")
         run([PY, "scripts/voice_witness.py", a.tag, "--write"])
         run([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"], quiet=True)
+    # THE MERGE CREATES TAILS THE MOVE ALREADY WALKED PAST, so step 5 has to run again.
+    # CLAUDE.md rule 6 states the mirror of this (re-run the merge after the move) and rule 8
+    # states the general form (re-run a tool when a later pass changes its input); neither was
+    # wired into this sequence. Measured 2026-09-16, right after ep20, ep19 and ep18 adopted
+    # clean: a second pass found one real tail in each of ep18, ep19 and ep22, and
+    # check_overlap_boundaries.py had gone from 0 contested to 1 because of it.
+    #
+    # --camera-veto IS ON HERE and off in step 5, deliberately. Step 5's default was measured
+    # against the owner's ear 11 of 11 on boundaries where the camera shows the NEXT speaker
+    # during the previous block. A tail the camera attests to the CURRENT speaker is the other
+    # shape, that measurement does not cover it, and ep18's 1:32:59 is the case. Leaving it
+    # for an ear is rule 8; moving it would be a guess dressed as a tool.
+    print("[6c/8] the merge created new adjacency, so move and merge again")
+    run([PY, "scripts/move_hanging_words.py", a.tag, "--camera-veto", "--write"])
+    run([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"], quiet=True)
     print("[7/8] reviewed name maps, corpus-wide")
     run([PY, "scripts/fix_proper_nouns.py", "--write"], quiet=True)
     run([PY, "scripts/fix_yb_honorific.py", "--write"], quiet=True)
