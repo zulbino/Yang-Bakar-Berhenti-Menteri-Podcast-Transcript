@@ -122,6 +122,33 @@ def cmd_calibrate(a):
               f"  best={best} margin={sims[best] - second:+.3f}")
 
 
+# Two clusters are the SAME PERSON when their centroids are close AND they never appear in
+# the same sampled second. Cross-cluster cosine for one face measures 0.82-0.92 here and
+# cross-person tops out near 0.37, so 0.60 separates them with room to spare; the shared-
+# second test is the hard veto, because two faces in one frame are two people whatever the
+# cosine says. camera_speakers.py's cluster stage already warns that glasses, profile and
+# lighting each split one person into several clusters -- this is that warning applied to
+# the match, which otherwise measures a man's margin against himself.
+SAME_FACE = 0.60
+
+
+def people(M, lab, T, min_size):
+    """Group clusters into people. Returns [[cluster ids], ...]."""
+    ids = [c for c in sorted(set(lab.tolist())) if (lab == c).sum() >= min_size]
+    cent = {c: cs._unit(M[lab == c].mean(axis=0)) for c in ids}
+    secs = {c: set(T[lab == c].tolist()) for c in ids}
+    groups = []
+    for c in ids:
+        for g in groups:
+            if all(float(cent[c] @ cent[o]) >= SAME_FACE and not (secs[c] & secs[o])
+                   for o in g):
+                g.append(c)
+                break
+        else:
+            groups.append([c])
+    return groups
+
+
 def cmd_match(a):
     det, rec = cs._models()
     rows = json.loads(Path(a.census).read_text())
@@ -133,27 +160,36 @@ def cmd_match(a):
         sys.exit(f"no face detected in {a.photo} -- find another photograph")
 
     known = gallery_centroids(a.gallery) if a.gallery else {}
+    T = np.array([r["t"] for r in rows])
     out = []
-    for c in sorted(set(lab.tolist())):
-        idx = np.where(lab == c)[0]
-        if len(idx) < a.min_size:
-            continue
-        cent = cs._unit(np.mean(M[idx], axis=0))
-        spread = float(np.mean(M[idx] @ cent))          # 1.0 = one face, lower = mixed
+    for g in people(M, lab, T, a.min_size):
+        # SCORE A PERSON ON THEIR BEST CLUSTER, NOT ON THE MEAN OF THEIR CLUSTERS. This is
+        # the rule camera_speakers.py already states for its gallery: "a multi-vector
+        # gallery per person, matched on the MAXIMUM similarity". Averaging a profile
+        # cluster into a frontal one moves the centroid away from BOTH views, so ep52's
+        # Zaim fell from +0.676 to +0.540 and dropped under the floor while his margin over
+        # the next person GREW to +0.350. A person is not the average of the angles they
+        # were filmed from.
+        cents = {c: cs._unit(M[lab == c].mean(axis=0)) for c in g}
+        best_c = max(g, key=lambda c: float(v @ cents[c]))
+        idx = np.where(np.isin(lab, g))[0]
+        bidx = np.where(lab == best_c)[0]
         secs = sorted(rows[i]["t"] for i in idx)
-        out.append({"cluster": int(c), "n": len(idx), "cohesion": spread,
-                    "sim": float(v @ cent),
+        out.append({"cluster": "+".join(str(c) for c in g), "n": len(idx),
+                    "cohesion": float(np.mean(M[bidx] @ cents[best_c])),
+                    "sim": float(v @ cents[best_c]),
                     "known": max(known, key=lambda n: v @ known[n]) if known else None,
-                    "known_sim": max((float(cent @ known[n]) for n in known), default=0.0),
+                    "known_sim": max((max(float(cents[c] @ known[n]) for c in g)
+                                      for n in known), default=0.0),
                     "first": cs.hms(secs[0]), "last": cs.hms(secs[-1])})
 
     out.sort(key=lambda r: -r["sim"])
     print(f"photo: {a.photo}")
     print(f"name claimed: {a.name}\n")
-    print("cluster  faces  cohesion  cos(photo)  cos(best known face)  span")
+    print("person (clusters)  faces  cohesion  cos(photo)  cos(best known)  span")
     for r in out[:a.top]:
-        print(f"{r['cluster']:>7}  {r['n']:>5}  {r['cohesion']:>8.3f}  "
-              f"{r['sim']:>+10.3f}  {r['known_sim']:>+20.3f}  {r['first']}-{r['last']}")
+        print(f"{r['cluster']:>17}  {r['n']:>5}  {r['cohesion']:>8.3f}  "
+              f"{r['sim']:>+10.3f}  {r['known_sim']:>+15.3f}  {r['first']}-{r['last']}")
 
     best, second = out[0], (out[1] if len(out) > 1 else None)
     margin = best["sim"] - (second["sim"] if second else 0.0)
@@ -162,13 +198,16 @@ def cmd_match(a):
     if best["sim"] < cs.FLOOR:
         print(f"REFUSE: below the floor. {a.name} is not measurably any of these faces.")
     elif margin < cs.MARGIN:
-        print(f"REFUSE: two clusters are too close to separate. Escalate with a link.")
+        print(f"REFUSE: two PEOPLE are too close to separate. Escalate with a link.")
     elif best["known_sim"] >= cs.FLOOR:
-        print(f"REFUSE: cluster {best['cluster']} already matches a gallery face "
+        print(f"REFUSE: cluster(s) {best['cluster']} already match a gallery face "
               f"at {best['known_sim']:+.3f}. Naming it would rename a known person.")
     else:
-        print(f"ACCEPT: enrol cluster {best['cluster']} as {a.name}. Then run\n"
-              f"  python scripts/camera_speakers.py gallery --name {best['cluster']}={a.name}")
+        # One --name per cluster: cmd_gallery parses a single cluster id, and a person
+        # who owns two clusters must contribute both or the gallery keeps one angle only.
+        args = " ".join(f'--name "{c}={a.name}"' for c in best["cluster"].split("+"))
+        print(f"ACCEPT: enrol cluster(s) {best['cluster']} as {a.name}. Then run")
+        print(f"  python scripts/camera_speakers.py gallery {args}")
 
 
 def main():
