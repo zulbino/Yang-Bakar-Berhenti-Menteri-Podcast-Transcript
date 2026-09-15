@@ -78,7 +78,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 ---
 
 <!-- nav -->
-**Yang Berhenti Menteri episode 28 — Episod Terakhir 2025: 10 Perkara Yang Kita Tak Boleh Buat-buat Lupa - YBM**  
+**Yang Berhenti Menteri episode 28 — Episod Terakhir 2025: 10 Perkara Yang Kita Tak Boleh Buat-buat Lupa**  
 26 December 2025 · 3h 31m · [watch on YouTube](https://www.youtube.com/watch?v=CcEryIGLnlg)
 
 This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
