@@ -61,7 +61,17 @@ def main():
     guests = frontmatter_list(text.split("\n---", 1)[0], "guests")
     hosts = frontmatter_list(text.split("\n---", 1)[0], "hosts")
 
-    base = json.load(io.open(ROOT / "data" / "_face_gallery.json", encoding="utf-8"))
+    # PREFER THE PER-EPISODE GALLERY, for the same reason camera_speakers.py reference
+    # does. Rule 9 can name ONE guest from a public photograph and write it here; without
+    # this line the bijection still counts that guest as unnamed, so a two-guest episode
+    # can never be reduced to the one-guest case this whole script exists to handle.
+    # ep52 on 2026-09-15 was exactly that: Zaim Zulkifli was enrolled from two photographs
+    # and `STOP: 2 unnamed real label(s)` came back unchanged. Same class of miss as the
+    # reference call, which had nine per-episode galleries on disk and read none of them.
+    per_video = ROOT / "data" / f"_face_gallery_{vid}.json"
+    gpath = per_video if per_video.exists() else ROOT / "data" / "_face_gallery.json"
+    print(f"  gallery {gpath.name}")
+    base = json.load(io.open(gpath, encoding="utf-8"))
     G = {k: np.array(v) for k, v in base["gallery"].items()}
     unknown_hosts = [h for h in hosts if h.split(" (")[0] not in G]
 
