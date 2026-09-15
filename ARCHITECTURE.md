@@ -1925,16 +1925,25 @@ next re-adoption.
 Result: `check_figures.py` went from 7 of 70 flagged to 2 of 70, and both survivors are the
 non-defects above. Verdicts and evidence for all nine live in `data/qa_reviewed.json`.
 
-### `not locatable` is a verification gap, not a lost decision: all 29 audited (2026-09-15)
+### `not locatable` is a verification gap, not a lost decision (2026-09-15)
 
 The session-closing checklist says to read `check_owner_decisions.py`'s `not locatable`
 count, because "a decision the gate cannot verify is one that can be silently reverted."
-Across the 37 adopted episodes that count is **24**, in three episodes: ep34 (2), ep53 (7),
-ep61 (15). Mismatched is **0**.
 
-**Audited every one of them by hand. All 29 text-less decisions are honoured in the current
-raw**, and the camera independently agrees at almost every second. The count measures what
-the gate can PROVE, not what the corpus has kept.
+**Re-measured 2026-09-15, after ep24, ep25 and ep26 adopted.** The audit has to read every
+`data/speaker*.json`, not just `speaker_adjudications.json`. A first pass read only that one
+file and reported 24 in three episodes, missing ep19 entirely, because ep34's two rulings
+live in `speaker_owner_ear_2026_09_11.json`. Nine files carry a tag-keyed ruling.
+
+    159  decisions across 25 episode tags
+    108  preserved
+      7  partly kept
+      0  MISMATCHED
+     25  not locatable: ep19 (1), ep34 (2), ep53 (7), ep61 (15)
+
+**Audited every text-less decision by hand. All are honoured in the current raw**, and the
+camera independently agrees at almost every second. The count measures what the gate can
+PROVE, not what the corpus has kept.
 
     114 stamped owner decisions in data/speaker*.json
      82 the gate can read today
