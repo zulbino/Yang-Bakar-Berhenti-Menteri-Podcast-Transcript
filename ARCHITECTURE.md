@@ -2065,3 +2065,74 @@ the false positive it removes:
 | `Jabatan Komunikasi Komuniti ada lagi.` | no |
 
 Corpus-wide the count went from 1 issue to 0.
+
+### ep21, ep22 and ep23 adopted, and MAI regressed a DIGIT this time (2026-09-15)
+
+**ep21's cast gate produced the largest refusal this project has seen, and no person was
+needed to clear it.** `Dr. Rais Hussin raw 51.3% of words, reference 0.0% of time`. The
+missing speaker was not a minor guest, he was the co-lead of the episode. The reference
+covered only 4468s of a 9574s runtime because more than half the talking was an unnamed
+face.
+
+He is in no `data/_face_gallery_*.json` and speaks in no other episode, so there was nothing
+to merge. `guest_gallery.py` named him anyway: 71 tracks held 4500s of the 4505s of
+unidentified talking time, which is 100%, and exactly one guest name was unclaimed. After a
+`reference` rerun with no GPU, coverage went 4468s to 8917s, 93% of the runtime, and the
+gate passed at 49.9% of the time against 51.3% of the words.
+
+**Three refused cast gates in two days, all closed by the bijection and none by a
+photograph.** ep25's Faizal Rahman at 99%, ep21's Dr. Rais Hussin at 100%, and ep29's Iqbal
+by the gallery merge on 2026-09-14. Try `guest_gallery.py` BEFORE reaching for rule 9's
+photograph path. The photograph is only needed when two or more names are unenrolled, which
+`corpus_status.py` now names per episode.
+
+**MAI regressed a figure, and this is the first measured instance of that.** The known class
+was names: `Izzah` to `Izah`, 194 fixes over 20 episodes. ep21 adds a digit.
+`check_figures.py` flagged `95.6` in the published text with no counterpart in the new raw,
+because MAI transcribes the same words as `90.6% accurate`.
+
+`figure_witness.py` settled it without a human ear, which is what it exists for:
+
+| witness | reads |
+|---|---|
+| pre-adoption local-ASR raw | 95.6 |
+| English caption track, matched at 0.52 by lib_locate | `the last six to 95 6 6 accurate` |
+| MAI, the new raw | 90.6 |
+
+Two independent witnesses against one, under the owner's 2026-09-12 rule. The fix went into
+`fix_proper_nouns.py`, which is the only reviewed map `mai_camera_raw.py` applies during the
+build, so a re-adoption cannot restore 90.6. It is the second figure entry in that map, and
+`fix_published_figures.py`'s own docstring is what says a raw-side digit belongs there.
+
+**Read this part before concluding MAI is the weaker witness.** MAI is better in that exact
+sentence on every other count. The local raw heard `the last six take tu` and `When tengah
+ni`; MAI hears `the last six state tu` and `When Terengganu`, and Terengganu is a state in a
+sentence about six state polls. So the digit had to be measured rather than decided by which
+engine usually wins.
+
+**ep21's second flag is the opposite direction, and it needs no fix.** The published text and
+the old raw both say the BRICS population is `4.2 juta`, 4.2 million. MAI says `4.2
+billion`, and the captions say `4 2 two billion`. MAI is right and the old raw was also
+translating English speech into Malay, which is the known mistranslation defect. The flag
+clears when the published files are regenerated.
+
+### HANDOFF files are pruned to two, and the rule has a script (2026-09-15)
+
+Four had accumulated: 09-12, 09-13, 09-14, 09-15. Owner's decision: *"why is there
+accumulated handoff md files, just delete those after one session ahead perhaps"*.
+
+The cost was not disk. CLAUDE.md's own opening paragraph still said *"Read
+`HANDOFF_2026-09-13.md` first, then `HANDOFF_2026-09-12.md`"* two days after those stopped
+being the newest, so the file that tells a session where to start pointed at stale state.
+That paragraph now says to read the newest and only the newest.
+
+`scripts/prune_handoffs.py` keeps the newest two and deletes the rest, ordered by the DATE IN
+THE FILENAME rather than by mtime, because reading or copying a file changes its timestamp.
+Two rather than one, because the newest can be half-written when a session ends
+unexpectedly. The session-closing checklist hook now runs it as part of step 5, so the rule
+has a mechanism instead of depending on someone noticing the pile.
+
+Checked both deleted files for anything durable first. ep09-12's process-failure section is
+in memory as `feedback_no_em_dash.md` and the Stop hook now enforces it. ep09-13's standing
+decision, reprocess with the camera and never hand-patch a local raw, is in CLAUDE.md's
+no-mechanism list and in memory.

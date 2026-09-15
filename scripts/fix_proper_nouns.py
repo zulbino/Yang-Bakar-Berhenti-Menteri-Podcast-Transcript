@@ -637,6 +637,24 @@ CORRECTIONS = [
      "Negara`. The Attorney General's Chambers, agc.gov.my, and a representation in a "
      "criminal case goes exactly there. `Perkuam` is not a word. Three words, so nothing "
      "else can match. https://www.agc.gov.my/"),
+    (r"90\.6% accurate(?![A-Za-z0-9])", "95.6% accurate",
+     "A FIGURE, NOT A NAME -- the second such entry, here for the same reason as the "
+     "180.8 one above: this map is the only reviewed correction list mai_camera_raw.py "
+     "applies during the build, so a fix recorded anywhere else is wiped by the next "
+     "re-adoption. FOUND BY check_figures.py right after ep21 was adopted on 2026-09-15: "
+     "the published text cited 95.6 and the new MAI raw said 90.6, so the figure lost its "
+     "source. MAI is alone and wrong. Settled by witness count, the owner's rule of "
+     "2026-09-12, and scripts/figure_witness.py ran it rather than a human ear: the "
+     "pre-adoption local-ASR raw says 95.6, and the English caption track says `the last "
+     "six to 95 6 6 accurate` at the same words, matched at 0.52 by lib_locate. Two "
+     "independent witnesses against one. MAI is the better transcript in this very "
+     "sentence on every OTHER count, which is why the digit needed measuring rather than "
+     "a judgement about which engine wins: the local raw heard `the last six take tu` and "
+     "`When tengah ni`, where MAI hears `the last six state tu` and `When Terengganu`, and "
+     "Terengganu is a state. 90.6 occurs ONCE in the whole corpus, in this episode, so a "
+     "corpus-wide anchor is safe. Anchored on the following word `accurate` so a bare "
+     "90.6 elsewhere can never match. Rafizi is describing Invoke's own election "
+     "prediction record over the last six state polls."),
     (r"180\.8 million(?![A-Za-z0-9])", "184.8 million",
      "A FIGURE, NOT A NAME -- the only such entry in this map, and it is here because this "
      "map is the one reviewed correction list that mai_camera_raw.py applies during the "

@@ -10,13 +10,20 @@ This file governs behavior, not implementation. For how a script works, see
 and where it can be wrong, see [METHODOLOGY.md](METHODOLOGY.md). For the per-episode
 runbook, see [ATTRIBUTION_PASS.md](ATTRIBUTION_PASS.md).
 
-**Read `HANDOFF_2026-09-13.md` first, then `HANDOFF_2026-09-12.md`, if you have them. These
-are LOCAL working notes and are deliberately not published** (`.gitignore`, owner's
-decision 2026-09-13: session state has no public audience and goes stale in hours). They
-hold the corpus state and the running jobs at a point in time. Nothing in them is required
-to follow the standards below -- what is durable lives here, in
-[ARCHITECTURE.md](ARCHITECTURE.md) and in [ENGINEERING_LOG.md](ENGINEERING_LOG.md). For
-live state run `python scripts/corpus_status.py`.
+**Read the NEWEST `HANDOFF_*.md`, and only that one. These are LOCAL working notes and are
+deliberately not published** (`.gitignore`, owner's decision 2026-09-13: session state has
+no public audience and goes stale in hours). They hold the corpus state and the running
+jobs at a point in time. Nothing in them is required to follow the standards below. What is
+durable lives here, in [ARCHITECTURE.md](ARCHITECTURE.md) and in
+[ENGINEERING_LOG.md](ENGINEERING_LOG.md). For live state run
+`python scripts/corpus_status.py`.
+
+**KEEP AT MOST TWO, the newest and the one before it. Delete the rest** (owner's decision
+2026-09-15: *"why is there accumulated handoff md files, just delete those after one
+session ahead perhaps"*). Four had piled up by then, and this paragraph itself named two
+dated files that no longer existed, which is how a stale pointer sends a session to read
+the wrong state. `scripts/prune_handoffs.py` does it, and the session-closing checklist
+runs it.
 
 ## Token efficiency, PARAMOUNT, but never at the cost of the standard above
 
@@ -323,7 +330,7 @@ single session.
 | **read the gate verdict, run the post-steps, THEN commit** | **`.git/hooks/pre-commit` -> `scripts/guard_commit.py`**. Refuses a commit that stages interview files while a queue is live or a verdict is unread | `python scripts/guard_commit.py` |
 | no `Co-Authored-By: Claude` | `~/.claude/settings.json`, `attribution.commit = ""` | read that key |
 | biometric data, videos, frames, secret sweep stay out | `.gitignore` `data/_*`, `audio/`, `frames_*.png`, `data/frames_cache/` | `git check-ignore -v <path>` |
-| handoffs are LOCAL ONLY | `.gitignore` `HANDOFF_*.md`; past ones purged from history 2026-09-13 | `git check-ignore -v HANDOFF_2026-09-14.md` |
+| handoffs are LOCAL ONLY, and at most two exist | `.gitignore` `HANDOFF_*.md`; past ones purged from history 2026-09-13; `prune_handoffs.py` deletes all but the newest two | `python scripts/prune_handoffs.py` |
 | only GPU 0, never the GTX 970 | `os.environ.setdefault("CUDA_VISIBLE_DEVICES", "0")` in `camera_speakers.py`, `lib_diarization.py`, `gate_rewrite.py` | `grep -rn CUDA_VISIBLE_DEVICES scripts/` |
 
 **Two rules still have NO mechanism.** They are listed so the next session does not
