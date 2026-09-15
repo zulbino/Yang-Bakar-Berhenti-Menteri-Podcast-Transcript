@@ -122,7 +122,19 @@ def main():
                 if not stamp[:1].isdigit() or not isinstance(r, dict):
                     continue
                 src = f"{name}:{section}@{stamp}"
-                for who, snip, at in r.get("split", []):
+                for entry in r.get("split", []):
+                    # TWO SPLIT SHAPES EXIST IN THIS FILE, and a fixed three-way unpack
+                    # crashed on the older one. `ep26_round1_preserved` records
+                    # [who, text] at 2:24:04 and 2:26:43; every later section records
+                    # [who, text, at]. The third element is a per-fragment stamp this
+                    # consumer never reads -- the check below keys on secs(stamp), the
+                    # PARENT stamp, because lib_locate takes `near=stamp`. So the crash
+                    # cost a real gate verdict for no gain: ep26's adoption stopped on
+                    # 2026-09-15 with "REFUSING: the gate found a decision the candidate
+                    # does not keep", which is the opposite of what happened. That is the
+                    # SECOND time this gate has failed this way, and the note below is the
+                    # first. When a record shape changes here, accept both.
+                    who, snip = entry[0], entry[1]
                     # A split's text is USUALLY a string, but ep53's 2:19:13 records it as
                     # ["Human resource", 1] -- the text plus which occurrence the owner
                     # meant. Slicing a list with [:45] silently returns a LIST, and the

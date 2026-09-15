@@ -78,7 +78,9 @@
    "who": "Multiple speakers",
    "_note": "Collapsed 4 turns into 1 per the established convention (group_shredded_turns.py: fragments joined by ' ... ', every word kept in order). 'Tak' + 'payah buat TikTok lah malam ni' is ONE sentence split across Haziq and Speaker 1, so the run cannot be apportioned. The tool itself detects 0 runs here, so this was applied by hand to its convention.",
    "merge": 4,
-   "_was_described": "Speaker 1 x3 + Haziq"
+   "_was_described": "Speaker 1 x3 + Haziq",
+   "text_now": "Very fortunate.",
+   "_anchor_added_2026_09_15": "The record carried only a stamp, a verdict and a merge count, so lib_locate had no text to match and fuzzy-matched this decision to 28:20 at score 0.72 -- 23 minutes away -- which the gate then reported as a MISMATCH and which stopped ep26's adoption. The decision is in fact PRESERVED. MAI segments this crosstalk finer than the local ASR did, so the owner's single collapsed block 'Halah. ... Rugi opportunity. ... Tak ... payah buat TikTok lah malam ni' now appears as Multiple speakers at 05:13, 05:15 and 05:19 with two Rafizi fragments between them. The verdict is unchanged; only a locator was added, per the handoff's remedy for the 26 stamp-only decisions. First attempt used 'Alah.', the candidate's own 05:13 block, and the gate rejected it: it requires at least two words, because a one-word snippet matches everywhere. 'Very fortunate.' is the 05:15 block of the SAME crosstalk passage and is itself labelled Multiple speakers in the candidate, so the anchor is faithful to the owner's verdict rather than chosen to make the gate pass. lib_locate breaks ties with near=stamp, so 05:13 still selects this passage."
   }
  },
  "ep53_round2": {
