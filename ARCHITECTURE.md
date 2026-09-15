@@ -2277,26 +2277,62 @@ Recorded as two rules so the whole handover moves, including the one-word `Okey.
 that the owner's quote includes. MAI hears `tuduh statement` where the owner hears `segmen`,
 so the anchors use MAI's words.
 
-### A one-word block between two same-name blocks is normal, not a defect: 829 of them
+### A short block labelled against the only talking face: 457 of them, and I had the camera wrong
 
-The owner read a fresh ep18 and flagged `[1:35:02] Haziq: Kan?` sitting inside a long Rafizi
-run: *"orphaned word make me anxious as if the boundaries not working well"*. Worth checking,
-and the answer is that the boundaries are working.
+**CORRECTION, same day.** An earlier version of this section said the camera cannot settle a
+backchannel and that there was "no tool to build for it". Both were wrong, and the owner
+caught it: *"no haziq at all, its all Rafizi. Haziq just hmm hmm humming. this also can be
+clarified via video"*.
 
-**The camera cannot settle a backchannel, and that is why rule 1 of `mai_camera_raw.py`
-exists.** The show does not cut to `Ya.` or `Okey.`, so the camera stays on whoever holds
-the floor. Measured corpus-wide: **829 short blocks across all 46 adopted episodes have the
-camera AND both neighbours agreeing while only the short block dissents**, ep62 alone
-holding 116. Almost every one is a real Haziq backchannel. Widening rule 1 on that shape
-would delete 829 genuine interjections, which is the ep61 lesson restated: Haziq really does
-finish Rafizi's sentences.
+**The camera reference is LR-ASD lip-sync, not the cut.** `camera_speakers.py` drops a second
+where the visible face's mouth is shut and counts it as `on-screen-but-silent`. Its own
+docstring says so. So a second labelled Rafizi does not mean "the shot was on Rafizi"; it
+means Rafizi's mouth produced that audio. I reasoned from the wrong premise and told the
+owner the camera was blind here.
 
-**Word-gap timing does not separate them either, and this was tested rather than assumed.**
-The idea was that a real backchannel sits in a gap while a mislabelled continuation is glued
-to the next word. Measured on ep18's 20 cases, using MAI's own word times, the gap before
-and after `Kan?` is 0.30s and 0.10s. That is mid-distribution: `Kan.` at 1:27:23 is
-0.02s/0.26s, `Jepun.` at 1:27:40 is 0.12s/0.02s, and both are ordinary backchannels. No
-threshold separates the two classes.
+**ep18 1:35:02, checked properly.** `data/_camera_tracks_KbbtwFgvTmw` holds exactly ONE face
+track across 5698-5707, scoring 1.09 to 3.41 in every second. One person visibly talking for
+ten straight seconds. MAI's word times put `podcast.` at 5701.4, `Kan?` at 5703.0 and `Jadi`
+at 5703.2: one continuous utterance. The candidate held TWO blocks on that second, `Haziq:
+Hmm.` and `Haziq: Kan?`. The humming is Haziq's and the tag question is Rafizi's, exactly as
+the owner described. Recorded in `data/forced_labels.json`.
 
-So a short block of this shape is settled by an ear or not at all. It is rule 8's residue by
-construction, and there is no tool to build for it.
+**THE SIZE OF THE CLASS, measured.** The test is: a block of three words or fewer, the same
+name on both sides, the camera naming that neighbour, exactly one face track on screen, and
+its lip-sync score positive in every second of the block.
+
+    710  short dissenting blocks measured across 46 adopted episodes
+    527  have exactly ONE face track on screen
+    457  of those have that one mouth moving in EVERY second of the block
+      4  of the 457 contain a `YB` vocative, so that speaker is not Rafizi
+     43  episodes affected; ep33 holds 63, ep57 25, ep38 24
+
+**IT DOES NOT MEET RULE 8's BAR, AND MUST NOT WRITE YET.** Only a witness measured at 100% on
+its held-out class may write a label. Cross-checked against every recorded owner ruling with
+matching text, the test has exactly two data points:
+
+| moment | owner | the test | note |
+|---|---|---|---|
+| ep18 1:35:02 `Kan?` | Rafizi | Rafizi | agrees |
+| ep53 29:58 `Okey. Baik, YB.` | Haziq | Rafizi | CONTRADICTS, and it carries a `YB` vocative |
+
+One for, one against. The vocative guard would exclude the failure, which leaves one for and
+none against, and n=1 is not a class. The precedent for authorising a tool like this is
+rule 7's tail: the owner ruled 11 boundaries, the camera matched 11 of 11, and only then was
+the tool allowed to write.
+
+**A METHOD WARNING, because the first validation pass was noise.** It matched any ruling whose
+text CONTAINED the block's text, and these blocks are one word, so ep61's `Ya.` matched 15
+unrelated rulings and produced "42 agrees, 29 contradicts". Both numbers were meaningless.
+Require the ruling's normalised text to EQUAL the block's text. This is the same defect memory
+records as "anchor patterns tightly".
+
+**Word-gap timing does NOT separate the classes**, tested rather than assumed. Measured on
+ep18's 20 cases from MAI's word times, the gaps around `Kan?` are 0.30s and 0.10s, which is
+mid-distribution: `Kan.` at 1:27:23 is 0.02s/0.26s and `Jepun.` at 1:27:40 is 0.12s/0.02s,
+both ordinary backchannels. No threshold works, so the lip-sync test is the only candidate.
+
+**Rule 1 of `mai_camera_raw.py` stays as it is until that measurement exists.** Its stated
+reason, that the camera "is wrong about it by construction", is false for the one-face case,
+and its conclusion may still be right for the rest. 453 relabels on one confirmed example
+would be exactly the bulk write this repo has been burned by before.

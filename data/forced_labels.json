@@ -138,6 +138,12 @@
    "who": "Rafizi",
    "at": "1:33:25",
    "why": "OWNER RULING 2026-09-16, and their point about the method matters more than the label: *\"the first one is all rafizi, theres no Haziq at all in there. heck, this can be verified with video evidence, dont need me to verify\"*. They are right, and I escalated a boundary the camera had already settled. Read across the WHOLE span, not just the boundary seconds, and camera_ref_ep18.rttm says Rafizi for every second it covers: 26/26 over 1:32:59-1:33:25, then Rafizi 2s with 2s uncovered over this block, then 3/3 over 1:33:29-1:33:32. Haziq appears nowhere in the span. The sentence `Yang itu tidak, tidak belum, belum kita dengar secara menyeluruhlah kan.` is one Rafizi sentence that MAI cut in two, and the second half carried a Haziq label from the fallback. move_hanging_words.py wanted to move the TAIL INTO Haziq, which is the wrong direction: the fix is to give Haziq's block to Rafizi. --camera-veto left it alone correctly, and then it needed this rule rather than an escalation."
+  },
+  {
+   "text": "Kan? Jadi dia tak boleh sebut.",
+   "who": "Rafizi",
+   "at": "1:35:02",
+   "why": "OWNER RULING 2026-09-16, and they described the second precisely: *\"no haziq at all, its all Rafizi. Haziq just hmm hmm humming. this also can be clarified via video\"*. The candidate holds TWO blocks on 1:35:02, `Haziq: Hmm.` and `Haziq: Kan?`. The first is right, it is the humming. The second is Rafizi's own tag question and MAI's diarizer attached it to Haziq's voice because Haziq was humming across those seconds. THE VIDEO DOES CLARIFY IT, and I had the camera wrong when I said otherwise. The reference is LR-ASD lip-sync, not the cut: camera_speakers.py drops a second where the visible face's mouth is shut (`on-screen-but-silent`). data/_camera_tracks_KbbtwFgvTmw holds exactly ONE face track across 5698-5707, scoring 1.09 to 3.41 every second, so one person was visibly talking for ten straight seconds and it was Rafizi. MAI's own word times put `podcast.` at 5701.4, `Kan?` at 5703.0 and `Jadi` at 5703.2, one continuous utterance. The anchor spans this block and the already-Rafizi block at 1:35:03, because `Kan?` alone is one token and lib_locate needs three. The second block is skipped by the label check, so this changes exactly one block."
   }
  ],
  "ep19": [
