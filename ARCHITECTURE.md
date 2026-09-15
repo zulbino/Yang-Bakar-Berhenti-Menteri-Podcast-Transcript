@@ -1795,3 +1795,45 @@ next re-adoption.
 
 Result: `check_figures.py` went from 7 of 70 flagged to 2 of 70, and both survivors are the
 non-defects above. Verdicts and evidence for all nine live in `data/qa_reviewed.json`.
+
+### `not locatable` is a verification gap, not a lost decision: all 29 audited (2026-09-15)
+
+The session-closing checklist says to read `check_owner_decisions.py`'s `not locatable`
+count, because "a decision the gate cannot verify is one that can be silently reverted."
+Across the 37 adopted episodes that count is **24**, in three episodes: ep34 (2), ep53 (7),
+ep61 (15). Mismatched is **0**.
+
+**Audited every one of them by hand. All 29 text-less decisions are honoured in the current
+raw**, and the camera independently agrees at almost every second. The count measures what
+the gate can PROVE, not what the corpus has kept.
+
+    114 stamped owner decisions in data/speaker*.json
+     82 the gate can read today
+      6 carry a bare `text` key, which the gate ignores
+     26 carry no text at all, only a stamp
+
+The gate reads `text_now`, then `text_was_startswith`, then `text_was`, then falls back to
+whatever block sits at the stamp. After an episode is re-adopted the stamps move, so the
+fallback finds nothing and a text-less record becomes unverifiable.
+
+**Three looked like conflicts and none was.** Each was an artefact of checking by stamp,
+which CLAUDE.md warns against in exactly these words: a stamp cannot locate a decision.
+
+- `ep61_farhan_restore@2:51:15` carries `at_now: 2:51:41`, and the raw holds
+  `[2:51:42] Farhan (Pa'an)`. Honoured. Two records share the `2:51:15` key and name
+  different speakers, because they describe different seconds.
+- `ep61_owner@07:44` has a bare `text` of `Sila lapuk kepada pihak berkuasa.` MAI reads
+  `[07:47] Rafizi: Okey. Sila lapor kepada pihak berkuasa.` Honoured, and the old record's
+  own words were the garble.
+- `speaker_from_gold.json:ep61@02:36` sits inside the gold passage, which the gate verifies
+  separately: 346 words found in order, 0 under a different speaker.
+
+**Adding `text` to the gate's fallback chain was considered and REJECTED.** It would help 3
+of the 6, because the others (`Juali`, `Kan?`, `tu`) are under the two-word minimum that
+stops a fuzzy match. And the one substantial case is `Sila lapuk`, a garble absent from the
+new raw, so it would not locate cleanly. It would fuzzy-match somewhere else instead, which
+is the ep31 failure of 2026-09-15: a 0.60-score match 38 minutes from its own stamp.
+
+**What would actually close the gap** is `text_now` on the 26 stamp-only records, written
+from the current raw. That is real work and it is not urgent, because the decisions are
+being honoured. Do it per episode the next time each one is touched, the way ep31's two were.

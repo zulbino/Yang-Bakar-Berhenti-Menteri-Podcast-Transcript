@@ -157,7 +157,14 @@ Three tools, and the division of labour matters:
   between two speakers and a camera cut is not a speaker change. For a WHOLE block with no
   sentence end anywhere in it, the camera MUST attest the next speaker, because rule 7 says
   a short block between two different speakers may be a real interruption. Where the camera
-  has no coverage, a recorded owner ruling moves it instead (ep56 01:24).
+  has no coverage, a recorded owner ruling moves it instead (ep56 01:24). **That sentence was
+  ASPIRATIONAL until 2026-09-15**, and it is the kind of claim this file warns about: the
+  tool's `owner_rulings()` required keys shaped `ep56@01:24`, and not one of the 114 stamp
+  keys in `data/speaker_adjudications.json` has ever been written that way. Every one is a
+  bare stamp in a tag-named section, the shape this file mandates and `check_owner_decisions.py`
+  reads. So the path was dead code and ep56's own ruling was invisible to it. Fixed, with a
+  digit guard so `ep2` cannot match `ep27_rule7_...`. Two consumers read that file; when the
+  key shape changes, check BOTH.
 - `check_overlap_boundaries.py` -- report only. Classifies each pair by the camera's read of
   the boundary seconds and escalates the residue with a `?t=` link.
 
