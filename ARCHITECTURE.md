@@ -2240,3 +2240,63 @@ everywhere. It had a side effect nobody measured.
 stamp counts as preserved; the owner's label merely being present counts as ambiguous-kept;
 a different label still reports, and so does a second with no block. Corpus-wide the
 not-locatable count went 25 to 24 while three more episodes were adopted.
+
+### The owner's two rulings, and one of them corrected my method (2026-09-16)
+
+**ep18 1:32:59. Owner: all Rafizi, and the camera could have told me.** Their words:
+*"the first one is all rafizi, theres no Haziq at all in there. heck, this can be verified
+with video evidence, dont need me to verify"*. They are right, and I escalated a boundary
+the camera had already settled.
+
+The mistake was reading only the boundary seconds, which is what
+`check_overlap_boundaries.py` prints. Reading the WHOLE span answers it:
+
+    1:32:59-1:33:25   Rafizi 26/26
+    1:33:25-1:33:29   Rafizi 2, uncovered 2      <- the block labelled Haziq
+    1:33:29-1:33:32   Rafizi 3/3
+
+Haziq appears nowhere. `Yang itu tidak, tidak belum, belum kita dengar secara
+menyeluruhlah kan.` is one Rafizi sentence MAI cut in two, and the second half took a Haziq
+label from the fallback. `move_hanging_words.py` wanted to move the TAIL INTO Haziq, which
+is the wrong direction entirely. The fix is to give Haziq's block to Rafizi, and it is in
+`data/forced_labels.json`.
+
+**BEFORE ESCALATING A BOUNDARY, READ THE CAMERA ACROSS THE WHOLE SPAN.** Rule 9's principle
+is that the tools come first, and rule 8's residue is only what they cannot settle. A
+boundary print is not the whole evidence.
+
+**ep19 23:21. Owner: Haziq, starting at `tapi kita ada segmen keras sangat`.** Two
+independent signals corroborate them, so this is not their ear alone. The `YB ya` vocative
+at MAI word-time 1418s addresses Rafizi, so the speaker is not Rafizi, and that vocative
+scored 6/6 against the camera's 0/8 in this corpus. And the camera reads Haziq 4s over
+23:41-23:51 and 9s over 23:51-24:01, covering the parliamentary question being read out.
+The camera shows Rafizi through 23:41 because the cut lags speech by about two seconds and
+Rafizi's `Memali.` ends at 1410s, which is rule 7's own measured finding.
+
+Recorded as two rules so the whole handover moves, including the one-word `Okey.` at 23:34
+that the owner's quote includes. MAI hears `tuduh statement` where the owner hears `segmen`,
+so the anchors use MAI's words.
+
+### A one-word block between two same-name blocks is normal, not a defect: 829 of them
+
+The owner read a fresh ep18 and flagged `[1:35:02] Haziq: Kan?` sitting inside a long Rafizi
+run: *"orphaned word make me anxious as if the boundaries not working well"*. Worth checking,
+and the answer is that the boundaries are working.
+
+**The camera cannot settle a backchannel, and that is why rule 1 of `mai_camera_raw.py`
+exists.** The show does not cut to `Ya.` or `Okey.`, so the camera stays on whoever holds
+the floor. Measured corpus-wide: **829 short blocks across all 46 adopted episodes have the
+camera AND both neighbours agreeing while only the short block dissents**, ep62 alone
+holding 116. Almost every one is a real Haziq backchannel. Widening rule 1 on that shape
+would delete 829 genuine interjections, which is the ep61 lesson restated: Haziq really does
+finish Rafizi's sentences.
+
+**Word-gap timing does not separate them either, and this was tested rather than assumed.**
+The idea was that a real backchannel sits in a gap while a mislabelled continuation is glued
+to the next word. Measured on ep18's 20 cases, using MAI's own word times, the gap before
+and after `Kan?` is 0.30s and 0.10s. That is mid-distribution: `Kan.` at 1:27:23 is
+0.02s/0.26s, `Jepun.` at 1:27:40 is 0.12s/0.02s, and both are ordinary backchannels. No
+threshold separates the two classes.
+
+So a short block of this shape is settled by an ear or not at all. It is rule 8's residue by
+construction, and there is no tool to build for it.

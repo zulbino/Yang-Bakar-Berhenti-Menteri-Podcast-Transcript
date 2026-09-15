@@ -131,5 +131,27 @@
    "at": "2:26:46",
    "why": "OWNER RULING BY EAR 2026-09-15, confirming ep26_round1_preserved@2:26:43, whose third split entry gives 'Point finger kepada Fuzia. Sebab ada Fuzia sebagai beria terulung ni.' to Rafizi. The camera has NO UEM coverage at 2:26:46, so the candidate's Haziq came from a fallback, not from the camera. The owner's words: 'Haziq did say Fuziah, but he just reiterate what Rafizi is saying. So appoint it to Rafizi only'. MAI cuts the phrase across two blocks, 'Point finger kepada' at 2:26:46 and 'Fuziah.' at 2:26:47, and this anchor spans both. 'Ada tu.' at 2:26:45 stays Haziq: no ruling covers it, and a ruling is not extended by inference."
   }
+ ],
+ "ep18": [
+  {
+   "text": "belum, belum kita dengar secara menyeluruhlah kan.",
+   "who": "Rafizi",
+   "at": "1:33:25",
+   "why": "OWNER RULING 2026-09-16, and their point about the method matters more than the label: *\"the first one is all rafizi, theres no Haziq at all in there. heck, this can be verified with video evidence, dont need me to verify\"*. They are right, and I escalated a boundary the camera had already settled. Read across the WHOLE span, not just the boundary seconds, and camera_ref_ep18.rttm says Rafizi for every second it covers: 26/26 over 1:32:59-1:33:25, then Rafizi 2s with 2s uncovered over this block, then 3/3 over 1:33:29-1:33:32. Haziq appears nowhere in the span. The sentence `Yang itu tidak, tidak belum, belum kita dengar secara menyeluruhlah kan.` is one Rafizi sentence that MAI cut in two, and the second half carried a Haziq label from the fallback. move_hanging_words.py wanted to move the TAIL INTO Haziq, which is the wrong direction: the fix is to give Haziq's block to Rafizi. --camera-veto left it alone correctly, and then it needed this rule rather than an escalation."
+  }
+ ],
+ "ep19": [
+  {
+   "text": "Tapi kita ada tuduh statement keras sebab keras sangat. Okey. Baik, jadi untuk standing order ni mungkin kita review soalan sikit lah YB ya.",
+   "who": "Haziq",
+   "at": "23:31",
+   "why": "OWNER RULING 2026-09-16: *\"the second is Haziq, starting with 'tapi kita ada segmen keras sangat, okey baik, jadi untuk standing order ni mungkin kita review soalan sikitlah YB ya, soalan pertama dari...'\"*. MAI hears `tuduh statement` where the owner hears `segmen`, so the anchor uses MAI's own words. The anchor spans three candidate blocks, 23:31 + 23:34 `Okey.` + 23:35, which is within MAX_FORCED_BLOCKS; the owner's quote includes that `Okey.` so all three are theirs. TWO INDEPENDENT SIGNALS CORROBORATE THE OWNER, which is why this is not their ear alone. The `YB ya` vocative at MAI word-time 1418s addresses Rafizi, so the speaker is not Rafizi, and that vocative scored 6/6 against the camera's 0/8 in this corpus. And camera_ref_ep19.rttm reads Haziq 4s over 23:41-23:51 and 9s over 23:51-24:01, covering the question being read out. The camera shows Rafizi through 23:41 because the cut lags speech by about two seconds and Rafizi's `Memali.` ends at 1410s, which is rule 7's own measured finding, not a dissent."
+  },
+  {
+   "text": "Soalan pertama dari Datuk Seri Dr. Wan Azizah",
+   "who": "Haziq",
+   "at": "23:39",
+   "why": "OWNER RULING 2026-09-16, the same ruling as the rule above: their quote ends `soalan pertama dari...`, so the parliamentary question Haziq reads out is his. MAI word times put it at 1419-1435s and the camera reads Haziq across 23:41-24:01. The block that CONTINUES it, `permulaan prasekolah kepada 5 tahun...` at 23:47, is already Haziq in the candidate, so this rule joins a torn sentence rather than splitting one. move_hanging_words.py had reported this same boundary as TOO LONG TO MOVE at 14 words and printed `read it`, which was the correct refusal: the tail is not a tail, the whole question is Haziq's."
+  }
  ]
 }
