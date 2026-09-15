@@ -210,6 +210,34 @@ def cmd_match(a):
         print(f"  python scripts/camera_speakers.py gallery {args}")
 
 
+def cmd_people(a):
+    """How many DISTINCT people does this episode's census hold, and who is already known?
+
+    ARCHITECTURE.md's rule-9 note says to do this before fetching any photograph, because
+    it fixes the head count. ep55 resolved to exactly six people for a cast of six and ep52
+    to four for four, which told me how many names were needed and stopped the same person
+    being named twice under two clusters.
+    """
+    rows = json.loads(Path(a.census).read_text())
+    lab = np.array(json.loads(Path(a.clusters).read_text())["labels"])
+    M = np.array([r["vec"] for r in rows])
+    T = np.array([r["t"] for r in rows])
+    known = {n: np.array(v) for n, v in json.loads(Path(a.gallery).read_text())["gallery"].items()}
+    groups = people(M, lab, T, a.min_size)
+    print(f"{len(rows)} faces, {len(set(lab.tolist()))} clusters, "
+          f"{len(groups)} distinct people at >= {a.min_size} faces each")
+    print()
+    print("person (clusters)   faces  " + "  ".join(f"{n[:11]:>11}" for n in known))
+    for g in sorted(groups, key=lambda g: -int(np.isin(lab, g).sum())):
+        idx = np.where(np.isin(lab, g))[0]
+        cents = [cs._unit(M[lab == c].mean(axis=0)) for c in g]
+        best = {n: max(float((known[n] @ c).max()) for c in cents) for n in known}
+        top = max(best, key=best.get) if best else None
+        verdict = f"  <- {top}" if top and best[top] >= cs.FLOOR else "  <- UNKNOWN, needs a name"
+        print(f"{'+'.join(str(c) for c in g):>17}  {len(idx):>6}  "
+              + "  ".join(f"{best[n]:>+11.3f}" for n in known) + verdict)
+
+
 def main():
     p = argparse.ArgumentParser(description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -219,6 +247,13 @@ def main():
     c.add_argument("--photos", nargs="+", required=True, metavar="NAME=URL")
     c.add_argument("--gallery", default=str(cs.ROOT / "data" / "_face_gallery.json"))
     c.set_defaults(fn=cmd_calibrate)
+
+    c = sub.add_parser("people", help="distinct people in a census, and which are known")
+    c.add_argument("--census", required=True)
+    c.add_argument("--clusters", required=True)
+    c.add_argument("--gallery", default=str(cs.ROOT / "data" / "_face_gallery.json"))
+    c.add_argument("--min-size", type=int, default=20)
+    c.set_defaults(fn=cmd_people)
 
     m = sub.add_parser("match")
     m.add_argument("--census", required=True)
