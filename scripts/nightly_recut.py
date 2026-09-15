@@ -38,6 +38,7 @@ from pathlib import Path
 os.environ.setdefault("CUDA_VISIBLE_DEVICES", "0")
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
+import common  # noqa: E402
 import yt_download  # noqa: E402
 
 NIGHTLY = ROOT / "data" / "_nightly"
@@ -59,9 +60,14 @@ def run(cmd, tail=2500, **kw):
 
 
 def resolve(tag, manifest):
-    hits = glob.glob(str(ROOT / f"episodes/*/*-{tag}-*/raw.md"))
-    if len(hits) != 1:
-        raise SystemExit(f"{tag}: {len(hits)} raw.md matches, need exactly 1: {hits}")
+    # common.raw_for_tag, NOT a bare glob. Both shows have an ep01 through ep06 and they
+    # are different episodes, so a bare glob returns two hits and this used to die with
+    # "2 raw.md matches" -- which blocked twelve of the thirty-three episodes still waiting
+    # for a camera pass, all of them the oldest ones. raw_for_tag takes the `ep03:bakar` /
+    # `ep03:berhenti` suffix the rest of the repo already uses, and names both candidates
+    # when a bare tag is ambiguous.
+    raw = common.raw_for_tag(tag)
+    hits = [str(raw)]
     head = io.open(hits[0], encoding="utf-8").read(4000)
     vid = re.search(r"video_id:\s*(\S+)", head).group(1)
     dur = next(e["duration_seconds"] for e in manifest if e["video_id"] == vid)
