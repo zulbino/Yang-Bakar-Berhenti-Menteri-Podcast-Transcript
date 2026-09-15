@@ -306,6 +306,7 @@ single session.
 | 8 escalate the residue | `check_owner_decisions.py`, `listen_links.py` for the `?t=` link | `python scripts/check_owner_decisions.py <tag> <raw>` |
 | 9 outside evidence first | `identify_person.py` (calibrate before match), `check_cast.py` | `python scripts/identify_person.py calibrate --photos ...` |
 | best engine for raw.md | `check_raw_engine.py` | `python scripts/check_raw_engine.py` |
+| **one GPU job at a time** | `nightly_recut.claim_the_gpu()` + `data/_nightly/chain.pid` | `Get-CimInstance Win32_Process -Filter "Name like 'python%'"` |
 | all of the above, per episode | `qa_check.py` into `QA_CHECKLIST.md`; verdicts persist in `data/qa_reviewed.json` | `python scripts/qa_check.py` |
 | **the owner's writing rules** | **`Stop` hook, `~/.claude/hooks/check_reply_style.py`** + the vendored `soundshuman` pack. Blocks the turn and hands back the findings | `python ~/.claude/hooks/test_check_reply_style.py` |
 | **read the gate verdict, run the post-steps, THEN commit** | **`.git/hooks/pre-commit` -> `scripts/guard_commit.py`**. Refuses a commit that stages interview files while a queue is live or a verdict is unread | `python scripts/guard_commit.py` |
@@ -314,15 +315,22 @@ single session.
 | handoffs are LOCAL ONLY | `.gitignore` `HANDOFF_*.md`; past ones purged from history 2026-09-13 | `git check-ignore -v HANDOFF_2026-09-14.md` |
 | only GPU 0, never the GTX 970 | `os.environ.setdefault("CUDA_VISIBLE_DEVICES", "0")` in `camera_speakers.py`, `lib_diarization.py`, `gate_rewrite.py` | `grep -rn CUDA_VISIBLE_DEVICES scripts/` |
 
-**Three rules still have NO mechanism.** They are listed so the next session does not
+**Two rules still have NO mechanism.** They are listed so the next session does not
 mistake silence for safety:
 
-1. **One GPU job at a time.** Chained by grepping a log for `finished:`, never by a process
-   check. Nothing prevents a second job from being started by hand.
-2. **Reprocess an unadopted episode with the camera; never hand-patch its local-ASR raw.**
+1. **Reprocess an unadopted episode with the camera; never hand-patch its local-ASR raw.**
    Adoption overwrites any patch, so a patch is wasted work, but no script refuses one.
-3. **Escalate with a clickable `?t=` link, never a bare block stamp.** `listen_links.py`
+2. **Escalate with a clickable `?t=` link, never a bare block stamp.** `listen_links.py`
    builds the link from the caption track. Nothing checks that a message used it.
+
+**Closed 2026-09-15: one GPU job at a time.** `nightly_recut.claim_the_gpu()` writes its
+pid to `data/_nightly/chain.pid` and refuses to start while that pid is alive. It had to
+exist because a second chain does not merely compete for the GPU -- every chain names its
+LR-ASD scratch directory `data/_lrasd/work/k<offset>`, with no episode in the name, so the
+second one deletes the first one's work mid-chunk. **`kill <pid>` in Git Bash stops the
+shell's job, not the Windows process**, which is how two chains were orphaned and invisible
+while a third was started. Count the processes before trusting any diagnosis:
+`Get-CimInstance Win32_Process -Filter "Name like 'python%'"`. See ARCHITECTURE.md.
 
 ## The governing principle behind all nine
 

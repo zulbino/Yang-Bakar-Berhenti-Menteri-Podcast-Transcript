@@ -1389,6 +1389,52 @@ finished:" <log>; do sleep 300; done` is bash-only and was already the pattern t
 prior session used; a `Get-Process -Id` check added a second, needlessly fragile
 path to the same answer.
 
+### The concurrency rule now has a lock, and Git Bash is why it needed one (2026-09-15)
+
+The section above ends on "never chain a second GPU pass on anything other than the
+first process's own log content." That is still right, and it is not enough, because
+on 2026-09-15 a second chain started without anybody chaining it.
+
+**What happened.** A chain launched at 10:52 failed on its first video download.
+It was stopped with `kill <pid>` from Git Bash and a new chain started at 10:57. The
+new chain's first chunk failed in 55 seconds with
+`FileNotFoundError: work\k0\pywork\scene.pckl`, which reads like a broken LR-ASD
+install. It was not. `Get-CimInstance Win32_Process` showed **four** `nightly_recut.py`
+processes alive: `kill` in Git Bash stops the shell's job, not the Windows process
+behind it, so both earlier chains were still running and invisible.
+
+**Why a second chain corrupts the first rather than just competing for the GPU.**
+`camera_speakers.py cmd_run` names its scratch directory from the chunk offset alone:
+`data/_lrasd/work/k<offset>`. The episode is not in the name. So every chain processing
+its first chunk uses `work/k0`, and `shutil.rmtree(work, ignore_errors=True)` at the top
+of the loop deletes whatever the other chain has already written there. One process
+detects its scenes, the other deletes `pywork` underneath it, and the write fails. The
+trailing `PermissionError: ... k0.mp4 is being used by another process` on the cleanup
+path is the same collision seen from the other side.
+
+**The mechanism.** `nightly_recut.claim_the_gpu()` writes its pid to
+`data/_nightly/chain.pid` and refuses to start while that pid is alive, naming the pid
+and the `Stop-Process` command that clears it. A stale lock from a dead pid is taken,
+not honoured, so a crashed chain does not block the next one. `atexit` removes it. This
+closes the first of the three rules CLAUDE.md lists as having no mechanism.
+
+**A separate fix in the same session, and it is not the concurrency one.** The 10:52
+failure had its own cause. `ensure_pot_server()` returns as soon as the bgutil server
+answers `/ping`, but the server cannot mint a PO token for a few seconds after that.
+yt-dlp asks, gets nothing, and falls back to the format list available without a token,
+which on these videos is four storyboard images. The error is again "Requested format is
+not available", the same string the concurrency race produces, which is why the two were
+easy to confuse. `nightly_recut.video()` now retries once after 15 seconds. Only the
+first episode of a chain is exposed, because the server stays warm afterwards.
+
+**The check that separates these two causes**, since they share an error string: count
+the `python` processes before believing either diagnosis.
+
+```powershell
+Get-CimInstance Win32_Process -Filter "Name like 'python%'" |
+  Select-Object ProcessId, CommandLine
+```
+
 ### A hyphen-prefixed video id breaks the reference call, not just this once
 
 ep41's resumed run above still failed after the GPU contention was fixed --

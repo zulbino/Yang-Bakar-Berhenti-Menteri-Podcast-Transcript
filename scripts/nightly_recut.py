@@ -23,6 +23,7 @@ taken after reading the diff, never by this script.
   python scripts/nightly_recut.py ep61 ep60 ep59 ep58 --hours 9
 """
 import argparse
+import atexit
 import glob
 import io
 import json
@@ -40,6 +41,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 import yt_download  # noqa: E402
 
 NIGHTLY = ROOT / "data" / "_nightly"
+LOCK = NIGHTLY / "chain.pid"
 VIDEO_DIR = ROOT / "data" / "_video"
 PY = sys.executable
 
@@ -126,12 +128,26 @@ def video(vid):
     if p.exists():
         return True, "present"
     yt_download.ensure_pot_server()
+    # RETRY ONCE, and the reason is not a flaky network. ensure_pot_server() returns as soon
+    # as the bgutil server answers /ping, but the server cannot mint a PO token for another
+    # few seconds after that. yt-dlp asks, gets nothing, and falls back to the format list
+    # available WITHOUT a token -- which on these videos is four storyboard images. So the
+    # error is "Requested format is not available", which reads like format 135 is gone
+    # rather than like a cold token server. The chain's first episode failed exactly this way
+    # on 2026-09-15 at 10:52, four seconds in, and the identical call succeeded by hand once
+    # the server had warmed. Only the FIRST episode of a chain is exposed, because the server
+    # stays up afterwards.
     # Format 135 (854x480 avc1) so the LR-ASD scores stay comparable with the validated ep62 run.
-    ok, out = run([PY, "-m", "yt_dlp", "-f", "135/bestvideo[height<=480][ext=mp4]", "--quiet",
-                   "--no-warnings", "--js-runtimes", f"node:{yt_download._node_path()}",
-                   "--extractor-args", "youtube:player_client=web_embedded",
-                   "--ffmpeg-location", str(yt_download._ffmpeg_location()),
-                   "-o", str(p), f"https://www.youtube.com/watch?v={vid}"])
+    cmd = [PY, "-m", "yt_dlp", "-f", "135/bestvideo[height<=480][ext=mp4]", "--quiet",
+           "--no-warnings", "--js-runtimes", f"node:{yt_download._node_path()}",
+           "--extractor-args", "youtube:player_client=web_embedded",
+           "--ffmpeg-location", str(yt_download._ffmpeg_location()),
+           "-o", str(p), f"https://www.youtube.com/watch?v={vid}"]
+    ok, out = run(cmd)
+    if not p.exists():
+        time.sleep(15)
+        ok, out2 = run(cmd)
+        out = out + "; RETRY after 15 s (cold PO token server): " + out2
     return p.exists(), out or f"{p.stat().st_size / 1e6:.0f} MB"
 
 
@@ -186,6 +202,31 @@ def summarize(tag, report):
             f"{s('split_dry_run')} {verdict} |\n")
 
 
+def claim_the_gpu():
+    """Refuse to start while another chain is running. CLAUDE.md lists "one GPU job at a
+    time" as a standing rule with NO mechanism, and on 2026-09-15 that gap cost two
+    episodes. Every chunk of every episode is encoded into the SAME shared LR-ASD scratch
+    directory, data/_lrasd/work/k<offset>, because the name is built from the chunk offset
+    and nothing else. So a second chain does not merely compete for the GPU: it deletes the
+    first chain's pywork between its scene detection and its write, and the error surfaces
+    as FileNotFoundError on scene.pckl, which reads like a broken install. Worse, a chain
+    backgrounded from Git Bash does NOT die when its shell job is killed, so a chain can be
+    orphaned and invisible while still holding those files.
+    """
+    if LOCK.exists():
+        pid = int(LOCK.read_text().strip() or 0)
+        alive = subprocess.run(["powershell", "-NoProfile", "-Command",
+                                f"(Get-Process -Id {pid} -ErrorAction SilentlyContinue) -ne $null"],
+                               capture_output=True, text=True).stdout.strip()
+        if alive == "True":
+            sys.exit(f"another nightly_recut is already running as pid {pid} ({LOCK}). "
+                     f"Wait for its log to print 'finished:', or stop it with "
+                     f"Stop-Process -Id {pid} -Force. One GPU job at a time.")
+        log(f"stale lock from dead pid {pid}, taking it")
+    LOCK.write_text(str(os.getpid()))
+    atexit.register(lambda: LOCK.unlink(missing_ok=True))
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("tags", nargs="+")
@@ -195,6 +236,7 @@ def main():
     a = ap.parse_args()
 
     NIGHTLY.mkdir(parents=True, exist_ok=True)
+    claim_the_gpu()
     manifest = json.load(io.open(ROOT / "data" / "manifest.json", encoding="utf-8"))
     manifest = manifest["episodes"] if isinstance(manifest, dict) else manifest
     began = time.time()
