@@ -117,5 +117,19 @@
    "at": "15:09",
    "why": "OWNER RULING BY EAR 2026-09-11, recorded in data/speaker_owner_ear_2026_09_11.json as ep31_speaker_q@15:10 and ep31_relabelled@15:11. The owner ruled the phrase is Rafizi. THE CAMERA DOES NOT DISAGREE HERE -- IT IS BLIND: camera_ref_ep31.rttm covers 734-884 (Rafizi) and 920-992 (Rafizi) and has NO segment between 890 and 919, so the block at 909 s fell to `uncovered, MAI label`, which is MAI's own diarizer. That is the weakest witness in CLAUDE.md rule 4's order and the owner's ear is the strongest, so the ruling stands unopposed. The owner's recorded text was Malay (`banyak air. Kita juga ada banyak air.`) because the region was read off English-translated captions; MAI transcribes the same seconds in English, so the ruling is re-anchored to MAI's own words. MAI says `We also a lot of water` in THREE blocks (14:55, 15:09, 15:20) and two are already Rafizi, so the `at` hint picks 15:09 and the other matches are skipped by the label check -- forcing all three would give the same answer. The torn sentence the owner was fixing (`Kita juga ada` | `banyak air`) does not exist in MAI's cut; only the label does."
   }
+ ],
+ "ep26": [
+  {
+   "text": "Kita lupa, kita lupa.",
+   "who": "Farhan (Pa'an)",
+   "at": "2:24:04",
+   "why": "OWNER RULING BY EAR 2026-09-15, confirming the split recorded in data/speaker_adjudications.json as ep26_round1_preserved@2:24:04. The owner was shown that the camera DISSENTS rather than being blind here: camera_ref_ep26.rttm covers seconds 8644-8645 and reads Rafizi. They ruled Farhan (Pa'an) anyway, and their ear outranks the camera under CLAUDE.md rule 8. Their words: 'Kita lupa, kita lupa is Farhan, Memang teruk ah korang this week is Rafizi'. The second half already matches, so only this block is forced. MAI transcribes 'Kita lupa, kita lupa' twice, at 2:23:37 and at 2:24:04, so the `at` hint is what picks the right one; the 2:23:37 copy is Rafizi's own and is left alone."
+  },
+  {
+   "text": "Point finger kepada Fuziah.",
+   "who": "Rafizi",
+   "at": "2:26:46",
+   "why": "OWNER RULING BY EAR 2026-09-15, confirming ep26_round1_preserved@2:26:43, whose third split entry gives 'Point finger kepada Fuzia. Sebab ada Fuzia sebagai beria terulung ni.' to Rafizi. The camera has NO UEM coverage at 2:26:46, so the candidate's Haziq came from a fallback, not from the camera. The owner's words: 'Haziq did say Fuziah, but he just reiterate what Rafizi is saying. So appoint it to Rafizi only'. MAI cuts the phrase across two blocks, 'Point finger kepada' at 2:26:46 and 'Fuziah.' at 2:26:47, and this anchor spans both. 'Ada tu.' at 2:26:45 stays Haziq: no ruling covers it, and a ruling is not extended by inference."
+  }
  ]
 }

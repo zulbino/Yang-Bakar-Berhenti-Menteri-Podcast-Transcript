@@ -54,7 +54,7 @@ Newest first. One row per episode, one column per generated file, so the engine 
 | ep29 | [x] | MAI | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- |  |
 | ep28 | [x] | MAI | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- |  |
 | ep27 | [x] | MAI | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | (1 waived) |
-| ep26 | [ ] | gemini-3.5 | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `published-placeholder`, `raw-engine-superseded` |
+| ep26 | [ ] | MAI | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `published-placeholder` |
 | ep25 | [ ] | whisper-med | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `raw-engine-superseded` |
 | ep24 | [ ] | whisper-med | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `raw-engine-superseded` |
 | ep23 | [ ] | -- | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `raw-engine-unknown` |
@@ -232,7 +232,6 @@ The full text behind each signature in the table above.
 - **`published-placeholder`** interview.md labels 6 turn(s) `Speaker ?` (Speaker ? x6) -- a PER-TURN unknown, not a cluster id. Do not name these from raw.md by text overlap: on ep33 all of them trace into one 13,857-char block that holds two speakers. Check raw.md for a collapsed block first
 - **`published-placeholder`** interview-en.md labels 6 turn(s) `Speaker ?` (Speaker ? x6) -- a PER-TURN unknown, not a cluster id. Do not name these from raw.md by text overlap: on ep33 all of them trace into one 13,857-char block that holds two speakers. Check raw.md for a collapsed block first
 - **`published-placeholder`** interview-ms.md labels 2 turn(s) `Speaker ?` (Speaker ? x2) -- a PER-TURN unknown, not a cluster id. Do not name these from raw.md by text overlap: on ep33 all of them trace into one 13,857-char block that holds two speakers. Check raw.md for a collapsed block first
-- **`raw-engine-superseded`** raw.md was transcribed by 'gemini-3.5-flash + mesolitica/malaysian-whisper-medium-v2 (1377-8826s)', measured 20.52% WER against MAI's 3.39% on podcast audio, and this episode's MAI words are already on disk in data/_mai_UDyqU87cWXU/. It needs a camera reference, then adopt_mai_camera_raw.py. A clean row only means no known failure signature fired, never that the words are right.
 
 ### ep31 -- 2026-01-16-ep31-dpa-sprm-farhash-rugi-rm97-5-juta-pau-2025-ada-apa-dengan-pk
 
