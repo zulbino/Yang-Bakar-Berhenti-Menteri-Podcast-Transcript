@@ -828,5 +828,12 @@
    "_why_the_frames_count_here": "frames_at.py's own warning is that a two-shot proves nothing about WHO is speaking, and 2:10:53-2:10:59 is a two-shot. It still proves a NEGATIVE decisively: a mug at the lips rules that person out. The positive identification comes from the owner's ear plus the sentence continuing into Haziq's next block.",
    "_both_kept": "BOTH occurrences kept. The ruling names the speaker, it does not call either one spurious, and Rafizi being on a mug means neither is his mumble. The standing rule is that a repeated real word is not assumed to be an ASR bug, so a fast self-repeat 0.6s apart stays as spoken. merge_same_speaker.py then joined them with [2:10:59] into one Haziq block, which is rule 6."
   }
+ },
+ "ep27_rule7_tail_owner_ruled_2026_09_15": {
+  "05:25": {
+   "who": "Rafizi",
+   "text_now": "Cuma dia",
+   "_note": "OWNER RULING 2026-09-15, by eye: \"second one is clearly rafizi, his face clearly on turn?\" They are right and the camera agrees: camera_ref_ep27.rttm holds Rafizi continuously over 306-328s and again 330-334s, and this block sits at 325s. The sentence is `Cuma dia bila orang beria macam ni ni kan`, torn across Farhan and Rafizi.\nWHY A TOOL COULD NOT DO IT. The block is two words with no sentence end, so rule 7 makes the camera mandatory rather than advisory. The vote is taken over the words' own times, 326.6s and 329.3s; the second of those falls in a one-second gap in the reference, so the vote is Rafizi 1 / None 1 and MIN_ATTEST is 2. A two-word block can never reach that bar when any one of its seconds is uncovered. Not a defect in the bar -- the bar is what stops a single stray second of the cut from claiming words.\nSEPARATELY, this boundary exposed a real BUG, fixed the same day: times_of() matched the block's tokens against MAI's UNSTRIPPED word list, so `Cuma dia` (spoken `cuma uh dia`) was not found at all and the tool printed `camera no coverage`. That is why this was escalated as camera-blind when the camera had in fact named Rafizi throughout."
+  }
  }
 }

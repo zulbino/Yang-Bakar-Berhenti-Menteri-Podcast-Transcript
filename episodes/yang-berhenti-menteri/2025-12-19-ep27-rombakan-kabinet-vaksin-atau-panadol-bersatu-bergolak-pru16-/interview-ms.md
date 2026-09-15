@@ -171,7 +171,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Mungkin kita juga boleh ketengahkan.
 
-**Rafizi:** Oh, Zahid Hamidi pun tak ada?
+**Rafizi:** Oh, Syed Ibrahim pun tak ada?
 
 **Farhan (Pa'an):** Patut lagi. Dah terlalu sesak.
 

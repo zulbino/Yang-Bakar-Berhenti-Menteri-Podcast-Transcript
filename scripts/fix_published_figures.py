@@ -54,6 +54,26 @@ FIGURES = {
         ("what was reported, 75 million", "what was reported, 7.5 million", 1,
          "The English translation of the same sentence. Same two witnesses."),
     ],
+    # NOT A FIGURE. Kept here because the defect and the mechanism are identical: the
+    # rewrite changed content the raw does not support, and the correction has to be scoped
+    # to one episode because the wrong string is a real person's correct name elsewhere.
+    # `Zahid Hamidi` occurs 182 times across the corpus as the Deputy Prime Minister, so a
+    # corpus-wide entry in fix_proper_nouns.py would be catastrophic here.
+    "ep27": [
+        ("Oh, Zahid Hamidi pun tak ada?", "Oh, Syed Ibrahim pun tak ada?", 2,
+         "A REWRITE FABRICATION, ruled by the owner on 2026-09-15: `Syed Ibrahim, CM pun tak "
+         "ada, Chew (Penang CM)`. raw.md says `Syed Ibrahim` and the rewrite printed the "
+         "Deputy Prime Minister instead, who is not in the passage at all. The pre-adoption "
+         "local raw said `Zahid Ibrahim` and the Malay caption track says only `Oh Ibrahim "
+         "pun tak ada`, so every witness agrees on the surname and none supports `Hamidi`. "
+         "The corpus corroborates the owner independently: `Tuan Syed Ibrahim sebagai "
+         "Timbalan Menteri NRES` appears in another episode, and this segment is about the "
+         "cabinet reshuffle, so a deputy minister missing from the on-screen list is exactly "
+         "the joke. The next line, `CM pun tak ada`, is Penang's Chief Minister and stays as "
+         "spoken."),
+        ("Oh, Zahid Hamidi isn't there either?", "Oh, Syed Ibrahim isn't there either?", 1,
+         "The English translation of the same line. Same owner ruling and same witnesses."),
+    ],
     "ep29": [
         ("iaitu 4,045 hari", "iaitu 5,475 hari", 2,
          "ALL THREE TRANSCRIPTS OF THIS NUMBER WERE WRONG, so the arithmetic decides. The "

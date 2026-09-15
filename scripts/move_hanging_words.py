@@ -53,6 +53,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import common  # noqa: E402
+import strip_inline_fillers  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 BLOCK = re.compile(r"^\[([\d:]+)\]\s*([^:\n]{0,40}?):\s*(.*)$", re.M)
@@ -61,6 +62,10 @@ MAX_TAIL_WORDS = 12
 MIN_ATTEST = 2                # the camera's own `tail` bar: one stray second is the cut
 GOLD_PAD = 60                # the same padding check_owner_decisions.py uses
 SEARCH_WINDOW = 180          # seconds either side of the block stamp to look for the words
+# The inline fillers strip_inline_fillers.py removes from raw.md at step 3 of the adoption.
+# times_of() must skip these in MAI's word list or its sequence match cannot find a block
+# whose fillers are already gone. Imported rather than copied so the two cannot drift.
+FILLER_TOKENS = {f.lower() for f in strip_inline_fillers.FILLERS}
 
 
 def secs(t):
@@ -124,6 +129,18 @@ def times_of(tail, words, near):
     want = toks(tail)
     if not want:
         return []
+    # MAI'S WORD LIST STILL CONTAINS THE FILLERS raw.md NO LONGER DOES, so the sequence
+    # match has to skip them. strip_inline_fillers.py runs at step 3 of the adoption and
+    # this runs at step 5, so by now a block reading `Cuma dia` was actually spoken as
+    # `cuma uh dia`. Matching the block's tokens against the unstripped list finds nothing,
+    # the caller reports `camera no coverage`, and the whole-block branch then REFUSES a
+    # move the camera could attest -- rule 7 requires the camera to name the next speaker
+    # there, so a false negative reads as an honest refusal and goes to the owner instead.
+    # ep27's 05:25 escalated on 2026-09-15 for exactly this, and the camera had said Rafizi
+    # for the whole of 306-328s. The owner spotted it: "his face clearly on turn?"
+    # Dropped by the SAME closed lexicon that removed them, never by a general skip, so a
+    # real word can never be stepped over to force a match.
+    words = [(w, t) for w, t in words if w not in FILLER_TOKENS]
     best = None
     for i in range(len(words) - len(want) + 1):
         if words[i][0] != want[0]:
@@ -141,21 +158,37 @@ def times_of(tail, words, near):
 def owner_rulings(tag):
     """{stamp: speaker} from data/speaker_adjudications.json, for this episode only.
 
-    Keys there look like `ep56@01:24`, where the stamp is the boundary the owner was
-    shown. Either side of the pair may carry it, so both are matched at the call site.
+    THE SHAPE IS A BARE STAMP KEY IN A SECTION WHOSE NAME CARRIES THE EPISODE TAG, e.g.
+    section `ep56_rule7_tail_owner_ruled_2026_09_13` holding key `01:24`. That is what
+    CLAUDE.md rule 7 mandates and what check_owner_decisions.py reads.
+
+    THIS FUNCTION USED TO REQUIRE `ep56@01:24` INSTEAD, and measured on 2026-09-15 not one
+    of the 103 stamp keys in that file has ever been written that way. So every owner ruling
+    was invisible here and this whole path was dead: CLAUDE.md's claim that "where the camera
+    has no coverage, a recorded owner ruling moves it instead (ep56 01:24)" was never true
+    through this tool. It is the same defect CLAUDE.md already records against
+    check_owner_decisions.py, which "silently voided every rule-7 ruling until 2026-09-13",
+    repeated in the other consumer. Found because ep27's 05:25 refused to move after the
+    owner ruled it by eye.
+
+    The tag test needs a digit guard, or `ep2` would match section `ep27_rule7_...`. The
+    `<tag>@<stamp>` form is still accepted so nothing that adopts it later breaks.
     """
     path = ROOT / "data" / "speaker_adjudications.json"
     if not path.exists():
         return {}
     out = {}
-    for group in json.load(io.open(path, encoding="utf-8")).values():
+    for section, group in json.load(io.open(path, encoding="utf-8")).items():
         if not isinstance(group, dict):
             continue
+        tagged = section.startswith(tag) and not section[len(tag):len(tag) + 1].isdigit()
         for key, entry in group.items():
-            if not isinstance(entry, dict) or not key.startswith(tag + "@"):
+            if not isinstance(entry, dict) or not entry.get("who"):
                 continue
-            if entry.get("who"):
+            if key.startswith(tag + "@"):
                 out[key.split("@", 1)[1]] = entry["who"]
+            elif tagged and key[:1].isdigit():
+                out[key] = entry["who"]
     return out
 
 
