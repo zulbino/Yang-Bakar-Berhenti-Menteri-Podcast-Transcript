@@ -179,7 +179,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Dia memang menepati ciri-ciri kriteria beria lah.
 
-**Rafizi:** Tapi jom kita tengok yang lain 2, 3 lagi lah. Okey, kita tengok yang lain — Izah, City Zone, Kamil, Intim Zone. Dia kena bagi konteks kat Wong Chen tau. YB perasan kalau ada promosi tentang konsert Siti Nurhaliza daripada Timbalan Presiden kita?
+**Rafizi:** Tapi jom kita tengok yang lain 2, 3 lagi lah. Okey, kita tengok yang lain — Izzah, City Zone, Kamil, Intim Zone. Dia kena bagi konteks kat Wong Chen tau. YB perasan kalau ada promosi tentang konsert Siti Nurhaliza daripada Timbalan Presiden kita?
 
 **Wong Chen:** Tak perasan.
 
