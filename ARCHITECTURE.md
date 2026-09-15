@@ -1389,6 +1389,66 @@ finished:" <log>; do sleep 300; done` is bash-only and was already the pattern t
 prior session used; a `Get-Process -Id` check added a second, needlessly fragile
 path to the same answer.
 
+### Rule 9 closed ep52 and half of ep55, and the tool refused three correct answers first (2026-09-15)
+
+`data/camera_reference_limits.json` listed ep52 and ep55 as blind references a gallery
+merge could not fix, because their six guests are enrolled nowhere and
+`guest_gallery.py`'s bijection needs exactly one unnamed guest. Both were worked through
+rule 9. ep52 is closed. ep55 has two of four guests named and two escalated.
+
+**What the census settles before any photograph is fetched.** Cluster the census, then
+group clusters into PEOPLE using two tests: centroid cosine, and whether the two clusters
+ever appear in the same sampled second. The second is the hard one -- two faces in one
+frame are two people whatever the cosine says. ep55 resolves to exactly six people for a
+cast of six, and ep52 to four for four. That is worth doing first, because it tells you how
+many names you actually need and stops you naming the same person twice.
+
+**Three defects, all of which made a tool REFUSE a correct answer.** This is the failure
+mode that hides, because refusing looks responsible:
+
+1. `identify_person.py match` compared CLUSTERS, not people. Samsu Adabi owns ep55 clusters
+   3 and 78; his portrait scored +0.694 and +0.665 on them, so the margin test reported
+   "two clusters are too close to separate" and refused. The next different person was at
+   +0.207.
+2. Grouping the clusters then broke ep52, because the group's mean centroid sits away from
+   every view that fed it. Zaim Zulkifli fell from +0.676 to +0.540, under the floor, while
+   his margin GREW. A person is scored on their BEST cluster now, which is the rule
+   `camera_speakers.py` already states for its own gallery.
+3. `guest_gallery.py` hardcoded the shared gallery, so a guest rule 9 had just enrolled
+   into `data/_face_gallery_<vid>.json` still read as unnamed. Same miss as the reference
+   call had. Fixed, and it is what let ep52's bijection name Syuk after Zaim was enrolled.
+
+**What a photograph has to look like to clear the 0.55 floor.** Measured on eight
+photographs today:
+
+| photograph | best cluster | cos | verdict |
+|---|---|---|---|
+| Sinar Daily news photo, Harith, face dominant and unobstructed | 40 | +0.756 | ACCEPT |
+| Wiki Impact studio portrait, Zaim | 2+12 | +0.676 | ACCEPT |
+| Wikimedia portrait, Samsu Adabi | 3+78 | +0.694 | ACCEPT |
+| campaign poster, Harith, heavy colour grade | 40 | +0.511 | right face, under floor |
+| graduation portrait, Tang Hong Yau, mortarboard over the chin | 83+84 | +0.391 | under floor |
+| three channel stills, Syed Azuan, glasses plus a peaked cap | 60 | +0.32 to +0.38 | under floor |
+
+The pattern is not photo quality. It is occlusion and colour: a plain frontal face clears
+0.65, and glasses, a cap, a mortarboard or a heavy colour grade each drop it to roughly
+half. The weak cases still RANK the right cluster first every time, and that is the trap --
+rule 8 says agreement among weak witnesses is not identification, so they stay unnamed.
+
+**A group photograph cannot be passed to `match`.** `photo_vec` takes the LARGEST face in
+the still. Zaim's second witness was an eight-face rally photo where the largest face is
+somebody else, so it was scored face by face instead: exactly one face matched his portrait
+at +0.757 with every other at or below +0.157, and that face scored +0.661 on his cluster
+against +0.233 on the other guest.
+
+**What is left on ep55, and it needs one look, not a tool.** Cluster 60 is a man wearing a
+red cap and a yellow polo both printed `DSA`, in an episode whose cast includes Dato' Dr.
+Syed Azuan Al-Idrus, known as DSA. That is documentary evidence, not a face score, and it
+is not something this repo has a mechanism for. The contact sheets are at
+`data/_ep55_faces.png` and `data/_ep55_unnamed.png`, and the seconds are on the video
+clock, so `https://youtu.be/4mmuPwkB5f4?t=<s>` lands exactly.
+
+
 ### The concurrency rule now has a lock, and Git Bash is why it needed one (2026-09-15)
 
 The section above ends on "never chain a second GPU pass on anything other than the

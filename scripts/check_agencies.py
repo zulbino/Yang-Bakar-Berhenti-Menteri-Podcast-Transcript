@@ -78,6 +78,12 @@ def titled(word):
     return word[:1].isupper() or word.lower() == "dan"
 
 
+# Ordinary Malay function words. No roster agency name contains one, and each is common
+# enough after `Kementerian` or `Menteri` to produce a confident wrong suggestion.
+STOPWORDS = {"kerana", "dengan", "kepada", "untuk", "yang", "dalam", "daripada", "adalah",
+             "boleh", "sebab", "tetapi", "kalau", "juga", "akan", "tidak", "sudah"}
+
+
 def garbles(body, names):
     """Agency-shaped phrases that nearly, but not exactly, match a roster name.
 
@@ -92,6 +98,14 @@ def garbles(body, names):
     `Menteri yang kewangan` and ep42's `Menteri kelihatan` (for Kesihatan). A lowercase
     garble is exactly what this cannot see, the same way check_names.py cannot see a
     near-miss surname.
+
+    A CAPITALISED function word defeats that condition, and ep16 is the case: MAI wrote
+    `Kementerian Kerana` mid-sentence, which is `Kementerian` followed by `kerana`,
+    "because" -- "tanya khabar kepada pasukan di Kementerian, kerana kalau betul mereka
+    boleh melahirkan robot". The checker offered `Kementerian Kewangan` and a session that
+    applied it without reading the sentence would have written a ministry into a passage
+    about Kementerian Ekonomi. So STOPWORDS below rejects a portfolio word that is an
+    ordinary Malay function word, whatever its case. No roster name contains one.
     """
     squashed = {squash(n): n for n in names}
     hits = {}
@@ -102,6 +116,8 @@ def garbles(body, names):
         for n in range(1, 5):
             words = m.group(2).split()[:n]
             if len(words) < n or not all(titled(w) for w in words):
+                break
+            if any(w.strip(".,;:").lower() in STOPWORDS for w in words):
                 break
             phrase = " ".join([m.group(1)] + words)
             key = squash(phrase)
