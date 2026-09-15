@@ -32,6 +32,7 @@ volume needs no clock at all.
   python scripts/check_camera_reference.py ep33
 """
 import argparse
+import difflib
 import glob
 import re
 import sys
@@ -98,6 +99,24 @@ def check(tag, path):
         if share >= MIN_RAW_SHARE and got < share * MIN_RETAINED:
             flag = "  <-- MISSING from the reference"
         print(f"    {name:<20} raw {share:6.1%} of words   reference {got:6.1%} of time{flag}")
+    # SAY WHICH REFUSAL THIS IS, because the two have opposite fixes. A face that is
+    # genuinely absent needs the gallery rebuilt, hours of work. A face whose LABEL is
+    # merely spelled differently needs one rename and no GPU at all. ep60 sat refused for
+    # two days as the second kind read as the first: fix_proper_nouns.py corrected
+    # `Sum Dek Jo` to `Sum Dek Joe` in raw.md and nothing carried it into the gallery or
+    # the RTTM, so the gate compared `Sum Dek Joe` against `Sum_Dek_Jo`, found nothing, and
+    # printed 0.0% next to a guest the camera had tracked for 14.4% of the episode.
+    unclaimed = {k: v for k, v in ref.items()
+                 if not any(short(k) == short(n) for n in raw)}
+    for name, share, got in problems:
+        near = difflib.get_close_matches(short(name), [short(k) for k in unclaimed],
+                                         n=1, cutoff=0.8)
+        if near:
+            label = next(k for k in unclaimed if short(k) == near[0])
+            print(f"  SPELLING, not a missing face: the reference calls them {label!r} "
+                  f"({unclaimed[label]:.1%} of the time) and raw.md calls them {name!r}. "
+                  f"Rename the label in data/_face_gallery_*.json and in {Path(path).name}; "
+                  f"do NOT rebuild the gallery. Settle the spelling by rule 1 first.")
     if problems:
         names = ", ".join(p[0] for p in problems)
         print(f"  REFUSE: {names} held a real share of raw.md and the reference does not "

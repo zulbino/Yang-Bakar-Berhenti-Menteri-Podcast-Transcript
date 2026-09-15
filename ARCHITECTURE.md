@@ -1318,7 +1318,7 @@ with their blind speakers in `data/camera_reference_limits.json`:
 ep52 is adopted and was checked: its raw.md still names both guests, 65 blocks each,
 so the adoption kept raw's labels where the camera was blind and no damage was done.
 
-**Enrollment works** -- this is not a flaw in the approach. ep60's guest Sum Dek Jo
+**Enrollment works** -- this is not a flaw in the approach. ep60's guest Sum Dek Joe
 is 15.3% of raw's words and 14.4% of the reference's time, and it passes.
 
 ### The gate
