@@ -155,7 +155,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [10:40] Haziq: Dia memang menepati ciri-ciri kriteria beria lah.
 
-[10:43] Rafizi: But let's see yang lain 2, 3 lagilah. Okey. Kita tengok yang lain. Izah City Zone, Kamil Intim Zone. Dia nak dia kena bagi konteks kat Wong Chen tau. YB perasan kalau ada promo tentang konsert Siti Nurhaliza daripada Timbalan Presiden kita? Tak perasan. Wong Chen, dia bukan peduli pun semua. Kejap. I I I kita kena tanya
+[10:43] Rafizi: But let's see yang lain 2, 3 lagilah. Okey. Kita tengok yang lain. Izzah City Zone, Kamil Intim Zone. Dia nak dia kena bagi konteks kat Wong Chen tau. YB perasan kalau ada promo tentang konsert Siti Nurhaliza daripada Timbalan Presiden kita? Tak perasan. Wong Chen, dia bukan peduli pun semua. Kejap. I I I kita kena tanya
 
 [11:12] Farhan (Pa'an): Wong Chen, dia kenal tak Intim siapa?
 

@@ -179,7 +179,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** It really fits the criteria for beria.
 
-**Rafizi:** But let's see the other 2, 3 first. Okay, let's look at the other one — Izah, City Zone, Kamil, Intim Zone. We need to give Wong Chen context. YB, did you notice a promo about the Siti Nurhaliza concert from our Deputy President?
+**Rafizi:** But let's see the other 2, 3 first. Okay, let's look at the other one — Izzah, City Zone, Kamil, Intim Zone. We need to give Wong Chen context. YB, did you notice a promo about the Siti Nurhaliza concert from our Deputy President?
 
 **Wong Chen:** Didn't notice.
 

@@ -124,9 +124,9 @@
  },
  "2025-12-19-ep27-rombakan-kabinet-vaksin-atau-panadol-bersatu-bergolak-pru16-": {
   "unsourced-name": {
-   "verdict": "benign",
-   "reason": "Legitimate full-name expansion, not an invention. raw says `Izzah` three times and never `Nurul`; published writes `Nurul Izzah` once and `Izzah` thereafter, which is the same person and the correct name. Verified by reading the passage: 'position himself sebagai the natural successor kepada Datuk Seri Anwar lah, selain daripada Nurul Izzah. Sebab itu dia jadi sangat rapat dengan Izzah'. Contrast the four real fabrications, where raw contains no form of the published name at all.",
-   "date": "2026-08-29"
+   "verdict": "partly-real-needs-an-ear",
+   "reason": "RE-JUDGED 2026-09-15 after ep27 was adopted, because the 2026-08-29 waiver was written against the local-ASR raw and qa_reviewed's own README says to re-judge a reprocessed episode. It now flags TWO names and they are not the same case.\n\n`nurul izzah` IS BENIGN, as before: a legitimate full-name expansion. raw.md says `Izzah` and the published text writes `Nurul Izzah` once then `Izzah` after. Note this only reads correctly again because the corpus-wide `Izah` -> `Izzah` fix landed the same day; MAI had regressed the spelling the local raw already had right.\n\n`zahid hamidi` IS REAL AND IT IS A REWRITE FABRICATION. The published text prints `Oh, Zahid Hamidi pun tak ada?` and NO witness supports it. The pre-adoption local raw said `Zahid Ibrahim`, MAI says `Syed Ibrahim`, and the Malay caption track says only `Oh Ibrahim pun tak ada`. So the rewrite took a garbled first name and resolved it to a DIFFERENT and far more prominent politician, the Deputy Prime Minister, who is not mentioned in the passage at all. That is the ep13 `Lim Guan Eng` class this signature exists to catch.\n\nWHAT IS SETTLED: the surname is Ibrahim, on all three witnesses. WHAT IS NOT: the first name, where no two witnesses agree. The line is a throwaway joke about who is missing from a crowded on-screen graphic during a cabinet-reshuffle segment, so context does not constrain it either. NOT GUESSED, per rule 8. Needs an ear:\n  https://youtu.be/W5gI93CKvl0?t=1617\nOnce the first name is known, correct the published text through scripts/fix_published_figures.py's sibling path or a reviewed entry in fix_proper_nouns.py, depending on whether the raw or the published side is wrong. STAYS FLAGGED until then.",
+   "date": "2026-09-15"
   }
  },
  "2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62": {

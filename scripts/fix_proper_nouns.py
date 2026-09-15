@@ -672,6 +672,35 @@ CORRECTIONS = [
      "exactly ONCE in the whole corpus, so this anchor cannot reach anything else. The "
      "published files carried the old raw's `4,045` and are corrected separately in "
      "fix_published_figures.py."),
+    (r"(?<![A-Za-z])Izah(?![A-Za-z])", "Izzah",
+     "Nurul Izzah Anwar, and the biggest single name fix in this map: 91 occurrences in "
+     "raw.md across 20 episodes plus 28 more in published files. FOUND 2026-09-15 by "
+     "check_names.py on ep27, which flagged the published `Nurul Izzah` as unsourced because "
+     "the newly adopted MAI raw says `Izah` where the old local-ASR raw had said `Izzah`. So "
+     "MAI regressed a name the corpus already had right, and re-adoption is spreading it: "
+     "ep27, ep28, ep30, ep31, ep32 and ep35 all carry `Izah` now. Web-verified per rule 1 "
+     "rather than by counting: she is PKR's deputy president who asked to resign in August "
+     "2026 with Saifuddin Nasution made acting deputy, which is exactly ep31's `Izah dengan "
+     "Saifuddin tak bersalam`. "
+     "EVERY ONE OF THE 91 WAS READ before this was written, because the corpus is full of "
+     "real names ending in the same four letters. The identification is never in doubt: ep31 "
+     "says `Izah ini adalah Timbalan Presiden PKR tau. Anak Perdana Menteri`, ep47 says `Izah "
+     "dengan ayah dia, Datuk Seri Anwar`, ep35 asks `Who watches your father?` in the same "
+     "breath, and ep58 runs the whole resignation. The one hit that is not obviously a person, "
+     "ep33's `Izah City Zone`, is settled two sentences later by `promo tentang konsert Siti "
+     "Nurhaliza daripada Timbalan Presiden kita`. "
+     "LOOKBEHIND AND LOOKAHEAD ARE BOTH REQUIRED, and a bare `Izah` would be a disaster: it "
+     "is a substring of Azizah (21 hits, and ep56 has `Wan Azizah ataupun Izah` in one "
+     "sentence, the mother and the daughter), plus Nurizah 3, Rizah 3, Faizah 1, Roizah 1. "
+     "Tested against all of them. https://en.wikipedia.org/wiki/Nurul_Izzah_Anwar"),
+    (r"(?<![A-Za-z])Fuziyah(?![A-Za-z])", "Fuziah",
+     "One occurrence, ep37 raw: `orang macam Fuziyah Salleh, orang macam Izah, orang macam "
+     "Ramanan`. `Fuziah` appears 218 times in the corpus and `Fuziyah` once, and this map "
+     "already carries three reviewed entries settling her name as Fuziah Salleh, PKR "
+     "secretary-general. So this is the surname family's given-name twin, found in the same "
+     "2026-09-15 pass as the Izzah fix and in the very same sentence. Guarded both sides for "
+     "consistency with the entry above, though nothing in the corpus contains `Fuziyah` as a "
+     "substring."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the
