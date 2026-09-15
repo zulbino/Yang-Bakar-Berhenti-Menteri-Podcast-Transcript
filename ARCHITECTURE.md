@@ -1966,3 +1966,93 @@ is the ep31 failure of 2026-09-15: a 0.60-score match 38 minutes from its own st
 **What would actually close the gap** is `text_now` on the 26 stamp-only records, written
 from the current raw. That is real work and it is not urgent, because the decisions are
 being honoured. Do it per episode the next time each one is touched, the way ep31's two were.
+
+### ep26, ep25 and ep24 adopted: what each one needed, and it was different each time (2026-09-15)
+
+Three episodes in a row, three different blockers. The reason to record them together is
+that none of the three was a camera failure, and a session that assumes a refusal means
+"rerun the camera pass" will waste hours on all three.
+
+**ep26 needed the owner's ear on two moments, and the two were not the same kind of
+question.** The adoption gate reported one MISMATCH and one PARTLY KEPT. Before escalating,
+the camera's UEM was read at both seconds, which is what separated them:
+
+| moment | owner | candidate | camera |
+|---|---|---|---|
+| 2:24:04 `Kita lupa, kita lupa.` | Farhan (Pa'an) | Rafizi | covers 8644-8645 and reads Rafizi |
+| 2:26:46 `Point finger kepada Fuziah.` | Rafizi | Haziq | no coverage, so the label came from a fallback |
+
+The second one was already settled by CLAUDE.md rule 4's evidence order: a fallback is the
+weakest witness and the owner's ear is the strongest, so the owner was right and the camera
+never dissented. Only the first was a real disagreement, and the owner ruled Farhan there
+too. Their words: *"Kita lupa, kita lupa is Farhan, Memang teruk ah korang this week is
+Rafizi"*, and on the other, *"Haziq did say Fuziah, but he just reiterate what Rafizi is
+saying. So appoint it to Rafizi only."*
+
+Both went into `data/forced_labels.json`, not into a commit message, so they survive the
+next rebuild. `mai_camera_raw.force_labels()` applies them after the camera pass and before
+the gate, which is the only place a ruling can land without hand-patching a raw. The gate
+then read 6 preserved, 0 mismatched, over 14 decisions.
+
+**Two anchor details that matter for the next ruling.** MAI writes `Kita lupa, kita lupa`
+twice in ep26, at 2:23:37 and at 2:24:04, so the `at` hint is the only thing selecting the
+right one; `force_labels` prints a WARNING when a second match scores equally and the stamp
+breaks the tie. And MAI cut `Point finger kepada Fuziah.` across two blocks, so that anchor
+spans both and sets both. `Ada tu.` at 2:26:45 stays Haziq: no ruling covers it, and a
+ruling is not extended by inference.
+
+**ep25 needed no person at all, and the cast gate said otherwise at first.** It refused:
+`Faizal Rahman raw 7.3% of words, reference 0.0% of time`. The 2026-09-14 recipe for that
+refusal is to look for the guest in another episode's gallery, and it did not apply here.
+Faizal Rahman is in ep02, ep03, ep04 and ep52 of the corpus, but in no
+`data/_face_gallery_*.json` anywhere, so there were no vectors to merge.
+
+`guest_gallery.py` settled it without a photograph. ep25's cast has two guests, Razeef
+Rakimin already enrolled and Faizal Rahman not, so exactly one name was unclaimed. One
+cluster of 96 tracks held 421s of the 427s of unidentified talking time, which is 99%, and
+the next cluster held 3s. That is the bijection, and it named him. Then `reference` reran
+with no GPU, `unknown face talking` fell from the refusal's level to 19s, and the gate
+passed at 4.7% against 7.3% of the words.
+
+**Read `unknown face talking` before deciding a refusal needs a person.** ep25's was the
+whole of one guest. ep24's is 117s spread thin, its identified rate is only 72%, and its
+gate passes on three speakers, so nothing is missing there.
+
+**ep24 needed nothing, and its two failures were both false.** `split_dry_run` refused,
+which is correct behaviour and not a blocker: the split tool measured its own output as
+slightly worse (15940 words right to 15930) and refused to write. Adoption does not use it.
+The `YB garble` count of 1 is the word `baby` in `rasa macam baby umur 20 tahun`, a real
+English word inside `GARBLE`'s alternation, and it was 1 before adoption too.
+
+**One real find, and it is in the published file rather than the raw.** `check_figures.py`
+now flags ep24's `300 bilion`. The old local-ASR raw wrote `taburan hujan dia dalam satu
+hari berapa? 300 bilion. Alhamdulillah 300ml Sehari`, and rainfall is not measured in
+billions. MAI transcribes the same seconds as `300? 300. 300. Alhamdulillah. 300 mililiter
+sehari`, with no figure word at all. So the adoption fixed a fabricated scale word, and the
+flag is pointing at interview.md, which is one of the 40 stale published files. It clears
+when the rewrite is regenerated.
+
+### `check_agencies.py`: a trailing hyphen is a self-repair, never a garble (2026-09-15)
+
+ep24 38:32 produced `garbled-agency: raw.md writes 'Jabatan Komuni- Komuniti' where the
+verified name is 'Jabatan Komunikasi Komuniti'`. Reading the sentence killed it. Rafizi is
+correcting himself out loud: `Jabatan Komuni- Komuniti. Komuniti. Komunikasi komuniti. Ha
+kan, J-KOM.` He reaches the roster name two words later. Rule 5 keeps a self-repair, so
+there was nothing to fix, and fixing it would have deleted real speech.
+
+MAI marks a cut-off word with a trailing hyphen, and no roster name has a word ending in
+one, so `garbles()` now breaks on any candidate word ending in `-`. This is the same class
+as ep16's `Kementerian Kerana`, which STOPWORDS closed on 2026-09-12: a checker offering a
+confident agency name for something that is not an agency name at all.
+
+Regression-tested on four inputs, because a guard that silences a real defect is worse than
+the false positive it removes:
+
+| input | reported |
+|---|---|
+| `Kementerian Keuangan akan bayar` (the real Indonesian garble) | yes, offers Kementerian Kewangan |
+| `Jabatan Komuni- Komuniti. Komuniti. Komunikasi komuniti.` | no |
+| `di Kementerian, Kerana kalau betul` (ep16) | no |
+| `Jabatan Komunikasi Komuniti ada lagi.` | no |
+
+Corpus-wide the count went from 1 issue to 0.

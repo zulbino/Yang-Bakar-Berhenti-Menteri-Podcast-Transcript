@@ -58,7 +58,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 ---
 
 <!-- nav -->
-**Yang Berhenti Menteri episode 24 — Shamsul Iskandar vs Albert Tei, Bencana Banjir & Izzah MB Selangor? - YBM EP**  
+**Yang Berhenti Menteri episode 24 — Shamsul Iskandar vs Albert Tei, Bencana Banjir & Izzah MB Selangor? - YBM EP 24**  
 28 November 2025 · 2h 29m · [watch on YouTube](https://www.youtube.com/watch?v=pGdNql7Ovz4)
 
 This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  

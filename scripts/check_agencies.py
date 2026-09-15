@@ -119,6 +119,14 @@ def garbles(body, names):
                 break
             if any(w.strip(".,;:").lower() in STOPWORDS for w in words):
                 break
+            # MAI writes a trailing hyphen where a speaker cuts a word short, so
+            # `Jabatan Komuni- Komuniti` is a speaker correcting himself out loud, not a
+            # misspelling. ep24 38:32 is the case: Rafizi says `Jabatan Komuni- Komuniti.
+            # Komuniti. Komunikasi komuniti.` and lands on the roster name two words
+            # later. Rule 5 keeps a self-repair, so there is nothing to fix. No roster
+            # name has a word ending in a hyphen.
+            if any(w.strip(".,;:").endswith("-") for w in words):
+                break
             phrase = " ".join([m.group(1)] + words)
             key = squash(phrase)
             if key in squashed:          # exact roster name, nothing to report
