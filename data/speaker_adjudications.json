@@ -835,5 +835,45 @@
    "text_now": "Cuma dia",
    "_note": "OWNER RULING 2026-09-15, by eye: \"second one is clearly rafizi, his face clearly on turn?\" They are right and the camera agrees: camera_ref_ep27.rttm holds Rafizi continuously over 306-328s and again 330-334s, and this block sits at 325s. The sentence is `Cuma dia bila orang beria macam ni ni kan`, torn across Farhan and Rafizi.\nWHY A TOOL COULD NOT DO IT. The block is two words with no sentence end, so rule 7 makes the camera mandatory rather than advisory. The vote is taken over the words' own times, 326.6s and 329.3s; the second of those falls in a one-second gap in the reference, so the vote is Rafizi 1 / None 1 and MIN_ATTEST is 2. A two-word block can never reach that bar when any one of its seconds is uncovered. Not a defect in the bar -- the bar is what stops a single stray second of the cut from claiming words.\nSEPARATELY, this boundary exposed a real BUG, fixed the same day: times_of() matched the block's tokens against MAI's UNSTRIPPED word list, so `Cuma dia` (spoken `cuma uh dia`) was not found at all and the tool printed `camera no coverage`. That is why this was escalated as camera-blind when the camera had in fact named Rafizi throughout."
   }
+ },
+ "ep55_rule9_faces_owner_ruled_2026_09_15": {
+  "_what": "ep55's last two guest FACES, ruled by the owner on 2026-09-15 from the contact sheet at data/_ep55_faces.png. This is a face identity for the camera gallery, not a turn attribution, so no raw.md text changes and no block moves. It is recorded here because the gallery that consumes it is gitignored biometric data, and an owner ruling that lives only in an untracked file is an owner ruling that gets redone.",
+  "_key_shape_is_deliberate": "NO BARE STAMP KEYS IN THIS SECTION, and that is the opposite of what CLAUDE.md rule 7 mandates. check_owner_decisions.py reads every key whose first character is a digit as a TURN ATTRIBUTION and tries to find the owner's text in raw.md. These rulings are FACE identities at video seconds, so there is no turn and no text. Written as stamps they produced 10 `not locatable` and 2 `MISMATCH` lines, one of which read as raw.md contradicting the owner at 2:53:30 when raw.md says `Multiple speakers` there and nothing is wrong. So the seconds live INSIDE the value. The file now holds two kinds of owner ruling and the gate understands one.",
+  "_why_no_tool_could": "identify_person.py ranked cluster 60 first on all three photographs from his own YouTube channel, at +0.373, +0.382 and +0.321, and every one is under the 0.55 floor. He wears glasses and a peaked cap in those and neither in the studio. Tang Hong Yau's only findable photograph is a graduation portrait with a mortarboard across his chin, +0.391. CLAUDE.md rule 8 forbids a label built from weak witnesses that merely agree, so both went to the owner's eye.",
+  "_independent_check_after_the_ruling": "Enrolling cluster 60 as DSA left exactly one unnamed guest and one cluster holding 100% of the remaining unidentified talking time, 63 tracks and 684s, so guest_gallery.py's bijection named Tang Hong Yau mechanically. The owner's read of the second face and the tool's bijection agree without either depending on the other. The rebuilt reference then tracks every speaker's word share within about two points: Rafizi 68.4% of camera time against 67.1% of raw's words, Haziq 7.8/9.7, Samsu 7.5/6.7, Tang 6.0/5.3, Harith 5.4/5.8, DSA 4.8/5.3.",
+  "face_census_cluster_60": {
+   "who": "Dato' Dr. Syed Azuan Al-Idrus",
+   "owner_words": "yes all is DSA",
+   "seconds_shown": [
+    "0:04:00",
+    "0:22:20",
+    "1:54:40",
+    "1:55:40",
+    "2:37:00",
+    "2:47:10"
+   ],
+   "what_the_owner_saw": "a red cap and a yellow polo both printed DSA, in all six frames",
+   "links": [
+    "https://youtu.be/4mmuPwkB5f4?t=235",
+    "https://youtu.be/4mmuPwkB5f4?t=6405"
+   ]
+  },
+  "face_census_clusters_83_and_84": {
+   "who": "Tang Hong Yau",
+   "owner_words": "all is Ubat i think?",
+   "seconds_shown": [
+    "0:03:00",
+    "0:50:30",
+    "1:29:50",
+    "2:03:30",
+    "2:39:20",
+    "2:53:30"
+   ],
+   "note": "Ubat is the show's own nickname for him in the ep55 description, `Tang Hong Yau atau Ubat`. The owner hedged, and it does not matter here: enrolling cluster 60 as DSA left one guest and one cluster holding 100% of the remaining talking time, so guest_gallery.py named this face mechanically and agrees.",
+   "links": [
+    "https://youtu.be/4mmuPwkB5f4?t=175",
+    "https://youtu.be/4mmuPwkB5f4?t=7495"
+   ]
+  }
  }
 }

@@ -1441,12 +1441,35 @@ somebody else, so it was scored face by face instead: exactly one face matched h
 at +0.757 with every other at or below +0.157, and that face scored +0.661 on his cluster
 against +0.233 on the other guest.
 
-**What is left on ep55, and it needs one look, not a tool.** Cluster 60 is a man wearing a
-red cap and a yellow polo both printed `DSA`, in an episode whose cast includes Dato' Dr.
-Syed Azuan Al-Idrus, known as DSA. That is documentary evidence, not a face score, and it
-is not something this repo has a mechanism for. The contact sheets are at
-`data/_ep55_faces.png` and `data/_ep55_unnamed.png`, and the seconds are on the video
-clock, so `https://youtu.be/4mmuPwkB5f4?t=<s>` lands exactly.
+**ep55's last two faces went to the owner, and both came back the same day.** Cluster 60
+is a man wearing a red cap and a yellow polo both printed `DSA`, in an episode whose cast
+includes Dato' Dr. Syed Azuan Al-Idrus, known as DSA. That is documentary evidence, not a
+face score, and this repo has no mechanism for it. The owner ruled `yes all is DSA` and
+`all is Ubat i think?` off the contact sheet at `data/_ep55_faces.png`. The seconds are on
+the video clock, so `https://youtu.be/4mmuPwkB5f4?t=<s>` lands exactly.
+
+**The hedge in the second ruling did not matter, and that is the useful part.** Enrolling
+cluster 60 as DSA left exactly one unnamed guest and one cluster holding 100% of the
+remaining unidentified talking time, so `guest_gallery.py` named Tang Hong Yau on its own
+measurement. The owner's eye and the bijection agree without either depending on the other.
+The rebuilt reference then tracks every speaker's word share within about two points --
+Rafizi 68.4% of camera time against 67.1% of words, Haziq 7.8/9.7, Samsu 7.5/6.7, Tang
+6.0/5.3, Harith 5.4/5.8, DSA 4.8/5.3 -- which is the corroboration that all four faces are
+on the right people, and it is not available until the last one is named.
+
+**`check_owner_decisions.py` understands one kind of owner ruling, and there are two now.**
+It reads every key whose first character is a digit as a TURN ATTRIBUTION and looks for the
+owner's words in raw.md. A face identity at a video second has no turn and no text. Written
+as bare stamp keys, which is what CLAUDE.md rule 7 mandates for the other kind, ep55's
+twelve rulings produced ten `not locatable` lines and two `MISMATCH` lines, one of which
+read as raw.md contradicting the owner at 2:53:30 where raw.md says `Multiple speakers` and
+nothing is wrong. So the section
+`ep55_rule9_faces_owner_ruled_2026_09_15` keys on the cluster and carries the seconds
+INSIDE the value. **Rule 7's key shape is not the universal shape; it is the shape for a
+ruling the gate has to verify against text.**
+
+**Corpus state after all of this: `check_camera_reference.py` reports 37 usable, 0
+refused.** The blind-reference class that started with ep33 on 2026-09-11 is closed.
 
 
 ### The concurrency rule now has a lock, and Git Bash is why it needed one (2026-09-15)
