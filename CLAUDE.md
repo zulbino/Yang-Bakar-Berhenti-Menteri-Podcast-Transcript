@@ -207,6 +207,17 @@ episode tag**. Any other shape is invisible to `check_owner_decisions.py`, which
 key whose first character is not a digit -- that bug silently voided every rule-7 ruling
 until 2026-09-13.
 
+**That key shape is for a ruling about a TURN, and it is wrong for anything else.**
+`check_owner_decisions.py` reads every digit-leading key as a turn attribution and hunts
+the owner's words in raw.md. A rule-9 FACE identity is a ruling about a person at a video
+second: there is no turn and no text. ep55's twelve face rulings, written as bare stamps on
+2026-09-15, produced ten `not locatable` lines and two `MISMATCH` lines, one reading as
+raw.md contradicting the owner at 2:53:30 where raw.md says `Multiple speakers` and nothing
+is wrong. A false MISMATCH is worse than no record, because the next session will go and
+"fix" it. Record a face ruling keyed on the cluster with the seconds INSIDE the value, as
+`ep55_rule9_faces_owner_ruled_2026_09_15` does, and confirm the gate reports 0 decisions
+for that section rather than a wrong count.
+
 ### 8. Best guess after every available check and loop; escalate what's left with a timestamp, never a scrub
 
 **What the file shows meanwhile (owner decision 2026-09-12, following Hansard precedent):**
