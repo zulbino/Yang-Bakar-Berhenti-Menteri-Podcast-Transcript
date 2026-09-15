@@ -168,7 +168,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Maybe we can also highlight.
 
-**Rafizi:** Oh, Zahid Hamidi isn't there either?
+**Rafizi:** Oh, Syed Ibrahim isn't there either?
 
 **Farhan (Pa'an):** He should be there. It's already too crowded.
 
