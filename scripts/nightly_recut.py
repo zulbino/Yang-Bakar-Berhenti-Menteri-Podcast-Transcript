@@ -157,10 +157,35 @@ def video(vid):
     return p.exists(), out or f"{p.stat().st_size / 1e6:.0f} MB"
 
 
+# One worker leaves the machine idle. Measured on 2026-09-15 during ep26's pass: GPU 35%,
+# VRAM 1171 of 8192 MiB, CPU 17.5% of 16 logical cores, and the NVMe the repo sits on at
+# 0.1% busy. Nothing was saturated, so the limit was the SEQUENTIAL pipeline inside one
+# worker -- ffmpeg encode, then frames to JPG, then detect, then LR-ASD, then embed, each
+# waiting on the last. camera_speakers.py has had `--offset`/`--stride` since ep62, whose
+# run took about 2 hours with three workers, and nightly_recut simply never passed them.
+#
+# PARALLELISE BY STRIDE WITHIN ONE EPISODE, NEVER BY RUNNING TWO EPISODES. The stride
+# partition gives each worker a disjoint set of chunk offsets, and the LR-ASD scratch
+# directory is named `work/k<offset>`, so disjoint offsets mean disjoint directories. Two
+# EPISODES both start at offset 0 and therefore share `work/k0`: that is the collision
+# that destroyed two chunks earlier today, and claim_the_gpu() now refuses it.
+WORKERS = 3
+
+
 def camera_run(vid):
-    ok, out = run([PY, "scripts/camera_speakers.py", "run", str(VIDEO_DIR / f"{vid}_480p.mp4"),
-                   str(ROOT / "audio" / f"{vid}.m4a"), "--out", f"data/_camera_tracks_{vid}"],
-                  cwd=ROOT)
+    args = [str(VIDEO_DIR / f"{vid}_480p.mp4"), str(ROOT / "audio" / f"{vid}.m4a"),
+            "--out", f"data/_camera_tracks_{vid}"]
+    procs = [subprocess.Popen(
+        [PY, "scripts/camera_speakers.py", "run"] + args
+        + ["--offset", str(i), "--stride", str(WORKERS)],
+        cwd=ROOT, stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+        text=True, encoding="utf-8", errors="replace") for i in range(WORKERS)]
+    tails = []
+    for i, pr in enumerate(procs):
+        o, _ = pr.communicate()
+        tails.append(f"[worker {i}/{WORKERS} rc={pr.returncode}] " + (o or "")[-800:])
+    ok = all(pr.returncode == 0 for pr in procs)
+    out = "\n".join(tails)
     if not ok:
         # camera_speakers.py's chunk loop skips a chunk whose json already exists, so a
         # crashed run is RESUMABLE and the finished chunks are NOT lost. ep32 crashed on
