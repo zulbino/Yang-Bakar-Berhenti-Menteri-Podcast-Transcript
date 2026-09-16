@@ -8,7 +8,7 @@ duration_seconds: 10542
 duration: 2h 55m
 view_count: 162374
 model: microsoft/MAI-Transcribe-2
-note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: none recorded for this episode). See interview.md for the polished newspaper-style rewrite.'
+note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: 1 blocks set from data/forced_labels.json). See interview.md for the polished newspaper-style rewrite.'
 ---
 
 <!-- nav -->
@@ -27,9 +27,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [02:36] Haziq: Sebab YB macam dia lagi. Macam biasa. Here we go again. YB Rafizi Ramli dan hari ni tak ada guest.
 
-[02:45] Rafizi: Jadi. Kita selang selikan lah. Ya, kita dengar Friday sermon dari YB Rafizi. Dan.
+[02:45] Rafizi: Jadi. Kita selang selikan lah. Ya, kita dengar Friday sermon dari YB Rafizi.
 
-[02:51] Haziq: Marah anjir orang PAS buat Friday sermon pula dah.
+[02:51] Haziq: Dan. Marah anjir orang PAS buat Friday sermon pula dah.
 
 [02:54] Rafizi: Eh, Allah Allah. Bukan bukan. Tak context tu tak betul. Dia. Saya tarik balik. Dia kuliah malam Jumaat. Ha, kuliah malam Jumaat bersama saudara Rafizi Ramli.
 
@@ -65,9 +65,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [06:35] Rafizi: Ya. Bila nak suruh beruk tengok. Diinterrogate kan? Ini memang betul-betul sah orang Selangor ke? Ke orang Kelantan yang duduk Selangor? Dia.
 
-[06:48] Farhan (Pa'an): Ha, itu benda yang
+[06:48] Farhan (Pa'an): Ha, itu benda yang Dia, dia. kawasan lah.
 
-[06:48] Rafizi: Dia, dia. kawasan lah. Manalah tahu takut ada orang daripada Shah Alam ke. So dia memang orang Selangor lah. Tapi dia orang Selangor lah. Dia Ultras Selangor. Ultras. Ultras Sel. Ultrasel. Ultrasel. Ultrasel. Ultrasel. Ultrasel. So siapa yang beria ni sebenarnya?
+[06:50] Rafizi: Manalah tahu takut ada orang daripada Shah Alam ke. So dia memang orang Selangor lah. Tapi dia orang Selangor lah.
+
+[06:58] Farhan (Pa'an): Dia Ultras Selangor. Ultras. Ultras Sel. Ultrasel. Ultrasel. Ultrasel. Ultrasel. Ultrasel.
+
+[07:04] Rafizi: So siapa yang beria ni sebenarnya?
 
 [07:07] Haziq: Paling kuat Ultrasel tu lah YB.
 
@@ -83,9 +87,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [09:03] Haziq: Ini konteks tu digunakan kat sinilah. Tapi konteks yang itu dia start dengan benda totally different things lah.
 
-[09:10] Rafizi: Oh, dia tak ada kena mengena dengan konsert ni lah. Tak ada.
+[09:10] Rafizi: Oh, dia tak ada kena mengena dengan konsert ni lah.
 
-[09:12] Haziq: Yang tu yang student UTM buat hebahan tu kan. Insentif tangkap orang Kelantan.
+[09:12] Haziq: Tak ada. Yang tu yang student UTM buat hebahan tu kan. Insentif tangkap orang Kelantan.
 
 [09:17] Rafizi: Sebab?
 
@@ -111,9 +115,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [10:33] Haziq: Beria dia buat kat Kelantan lah.
 
-[10:36] Rafizi: So sebab dia beria buat di Kelantan, dia bukan orang Kelantan. Maka Fest. Maka Fest bukan.
+[10:36] Rafizi: So sebab dia beria buat di Kelantan, dia bukan orang Kelantan. Maka Fest.
 
-[10:41] Farhan (Pa'an): I think dia dia banyak buat kat tempat-tempat. Kita dengan kita-kita confuse lah. Cuma saya rasa yang berianya adalah mereka yang
+[10:41] Farhan (Pa'an): Maka Fest bukan. I think dia dia banyak buat kat tempat-tempat. Kita dengan kita-kita confuse lah. Cuma saya rasa yang berianya adalah mereka yang
 
 [10:50] Rafizi: Yang pergi pula?
 
@@ -127,9 +131,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [11:30] Farhan (Pa'an): Tapi lagi satu. Turunkan komen. A apa, pihak berkuasa mengatakan yang ada guidelines untuk ada festival ke apa di Kelantan dan segregation tu adalah satu. Oh, dia tak buat segregation tu lah.
 
-[11:42] Rafizi: So maksudnya masa dia mendapat lesen, Makar Fest Ex- Excel ni untuk apa? Untuk orang gemuk macam aku ke apa? Besarlah saiz tu. Konser tu besar.
+[11:42] Rafizi: So maksudnya masa dia mendapat lesen, Makar Fest Ex- Excel ni untuk apa? Untuk orang gemuk macam aku ke apa? Besarlah saiz tu.
 
-[11:54] Haziq: Ini konser untuk orang gemuk.
+[11:54] Haziq: Konser tu besar. Ini konser untuk orang gemuk.
 
 [11:58] Rafizi: Macam-macam diorang ni ha. Tak, maksudnya pihak berkuasa di Kelantan kata mereka telah diberikan syarat-syarat penganjuran lah. Yes. Tapi mereka tidak menepati. So siapa yang kena tangkap? Penganjur ke? Penganjur. Yang yang pergi ha.
 
@@ -179,9 +183,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [19:51] Haziq: Dalam surat tu address kepada TYT.
 
-[19:55] Rafizi: Maybe they found a loophole. Tak tahu. Mungkin ini alasan. Sebab perletakan jawatan daripada kabinet negeri lah, sama juga dengan jemaah menteri lah. Yes. Yang melantik itu adalah aa Ketua Menteri ataupun Perdana Menteri. Sudah tentu kita dapat watikah pelantikan itu daripada sama ada TYT ataupun Yang Dipertuan Agong lah. Tapi perletakan jawatan tu dia samalah kalau ikutnya ialah kepada dialamatkan kepada Perdana Menteri lah. So dia letak jawatan ataupun tidak? Dia letak.
+[19:55] Rafizi: Maybe they found a loophole. Tak tahu. Mungkin ini alasan. Sebab perletakan jawatan daripada kabinet negeri lah, sama juga dengan jemaah menteri lah. Yes. Yang melantik itu adalah aa Ketua Menteri ataupun Perdana Menteri. Sudah tentu kita dapat watikah pelantikan itu daripada sama ada TYT ataupun Yang Dipertuan Agong lah. Tapi perletakan jawatan tu dia samalah kalau ikutnya ialah kepada dialamatkan kepada Perdana Menteri lah. So dia letak jawatan ataupun tidak?
 
-[20:29] Haziq: Tapi tunggulah kena jumpa TYT dan CM bincang dulu.
+[20:29] Haziq: Dia letak. Tapi tunggulah kena jumpa TYT dan CM bincang dulu.
 
 [20:34] Rafizi: Tapi dah kemas office semua.
 
@@ -219,15 +223,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [27:29] Farhan (Pa'an): Panjanglah. Terlampau panjang. Dia baca. Dia kocak selama 45 minit. Okey. Dan dia punya portion tu I think about 12 minit.
 
-[27:35] Rafizi: Nah. So, tapi ini sebahagian daripada handset dia lah. Ya. Kalau.
+[27:35] Rafizi: Nah. So, tapi ini sebahagian daripada handset dia lah. Ya.
 
-[27:40] Haziq: Jadi apa jawapan dia? Ya. Kalau saya boleh buat ikut point lah agak panjang. Aaa antaranya tak wajar disoalkan kerana ikut piawai antarabangsa. Aaa diterima pakai agensi penerapan serta badan dunia. Aaa pelaporan ini juga berdasarkan manual statistik kewangan kerajaan yang diguna pakai negara lain. Ketua ketua audit negara pun berpendapat penyata kewangan kerajaan beri gambaran yang benar dan saksama. Sistem perakaunan kerajaan berdasarkan asas tunai bukan asing, iaitu amalan standard di negara-negara maju seperti Singapura, Germany dan banyak lagi. Dan dia update juga sedikitlah tentang figure bayaran lebihan cukai yang diselesaikan 2025 adalah tertinggi dalam tempoh 5 tahun, iaitu 22.45 bilion ringgit.
+[27:40] Haziq: Kalau. Jadi apa jawapan dia? Ya. Kalau saya boleh buat ikut point lah agak panjang. Aaa antaranya tak wajar disoalkan kerana ikut piawai antarabangsa. Aaa diterima pakai agensi penerapan serta badan dunia. Aaa pelaporan ini juga berdasarkan manual statistik kewangan kerajaan yang diguna pakai negara lain. Ketua ketua audit negara pun berpendapat penyata kewangan kerajaan beri gambaran yang benar dan saksama. Sistem perakaunan kerajaan berdasarkan asas tunai bukan asing, iaitu amalan standard di negara-negara maju seperti Singapura, Germany dan banyak lagi. Dan dia update juga sedikitlah tentang figure bayaran lebihan cukai yang diselesaikan 2025 adalah tertinggi dalam tempoh 5 tahun, iaitu 22.45 bilion ringgit.
 
 [28:24] Rafizi: Selepas perkara ditimbulkanlah.
 
 [28:27] Haziq: Dan dalam 3 tahun, kerajaan Madani dah luluskan lunaskan 56 bilion, iaitu 2 kali ganda lebih tinggi dari tahun 2020 sehingga 2022. 2 kali ganda lah kerajaan ini. Dan bayaran balik sebanyak 7.5 bilion dibuat pada Disember 2025, iaitu lebih tinggi daripada komitmen awal PM, aaa iaitu hanya 4 bilion dan kes tahun taksiran 2022 telah selesai pada 2025.
 
-[28:56] Rafizi: 3 tahun lah. Tahun taksiran 2022, 3 tahun baru, baru selesai lah. Yes. Baik. Jadi jawapan itu memang saya sangkalah. Ha, itu jawapan pentadbiran kan. Maksudnya, perkara ini tidak salah. Perkara ini menepati piawaian. Walaupun sebenarnya itu tidak menceritakan dengan terperinci. Nanti saya akan, akan huraikan sebentar lagilah. Kerana walaupun negara-negara ada yang mengamalkan cash accounting. Memang betul contoh yang diberikan, contohnya Singapura. Ya. Cash accounting, Netherlands, Germany, Norway lah, negara-negara maju kan. Tapi sebenarnya dia tak apple to apple. Okey. Nanti saya akan sebut kan kan. Kemudian jawapan biasalah bahawa ini telah diperakukan oleh Ketua Audit Negara gini gini kan. Dia kalau kita ambil begini kan. Dan dia tak ulas sangat pasal defisit tau. Ha kan. Dan dia tak ulas sangat pasal hakikatnya bahawa kerajaan sekarang ini mengulangi kesilapan kerajaan semasa zaman Datuk Seri Najib dahulu dengan tidak memulangkan balik bayaran cukai kan. Cuma yang disebut ialah kami sekarang ini sedang berusaha dan kami dah bayarlah sikit kan. Okey, baik. Okey, let's take one by one. Terutamanya akhirnya kepada soal defisit itu kan. Dan soal defisit ni penting tau kerana masalah utama negara kita dari segi kewangan dan ekonomi ialah keberhutangan. Aa dan ini memang masalah orang politik kerana buat apa nak fikir benda yang bukan masalah aku. Kita sekarang ni hutang dah sampai berapa? 1.3 trilion kan, aa sampai bayaran aa untuk membayar faedah tahunan sampai dah jadi 52 billion dollar, eh ringgit setiap tahun kan. Lebih kurang sama yang kita belanjakan untuk pendidikan. Pendidikan adalah 60 billion lebih. Bayar interest 52. Kita berada dalam keadaan ini kerana pimpinan-pimpinan sebelum ini mengambil sikap yang sama. Ini bukan masalah aku. Zaman aku jadi pemerintah, maka aku buatlah apa asalkan aku kekal berkuasa. Asalkan aku nampak cantik. Yang mana kita boleh sembunyi semua tu kita buat kan. Kalau kerajaan ini adalah sambungan daripada UMNO ke, Bersatu ke, Perikatan Nasional. Tak apalah. Dulu pun kita lawan mereka atas sebab aa urus tadbir kewangan yang kita rasa tidak bertanggungjawab untuk generasi masa depan itulah. Kalau tengok ucapan saya daripada saya rambut tebal sampai sekarang, rambut aku dah tumbuh balik sikit kan? YB buat apa?
+[28:56] Rafizi: 3 tahun lah. Tahun taksiran 2022, 3 tahun baru, baru selesai lah. Yes. Baik. Jadi jawapan itu memang saya sangkalah. Ha, itu jawapan pentadbiran kan. Maksudnya, perkara ini tidak salah. Perkara ini menepati piawaian. Walaupun sebenarnya itu tidak menceritakan dengan terperinci. Nanti saya akan, akan huraikan sebentar lagilah. Kerana walaupun negara-negara ada yang mengamalkan cash accounting. Memang betul contoh yang diberikan, contohnya Singapura. Ya. Cash accounting, Netherlands, Germany, Norway lah, negara-negara maju kan. Tapi sebenarnya dia tak apple to apple. Okey. Nanti saya akan sebut kan kan. Kemudian jawapan biasalah bahawa ini telah diperakukan oleh Ketua Audit Negara gini gini kan. Dia kalau kita ambil begini kan. Dan dia tak ulas sangat pasal defisit tau. Ha kan. Dan dia tak ulas sangat pasal hakikatnya bahawa kerajaan sekarang ini mengulangi kesilapan kerajaan semasa zaman Datuk Seri Najib dahulu dengan tidak memulangkan balik bayaran cukai kan. Cuma yang disebut ialah kami sekarang ini sedang berusaha dan kami dah bayarlah sikit kan. Okey, baik. Okey, let's take one by one. Terutamanya akhirnya kepada soal defisit itu kan. Dan soal defisit ni penting tau kerana masalah utama negara kita dari segi kewangan dan ekonomi ialah keberhutangan. Aa dan ini memang masalah orang politik kerana buat apa nak fikir benda yang bukan masalah aku. Kita sekarang ni hutang dah sampai berapa? 1.3 trilion kan, aa sampai bayaran aa untuk membayar faedah tahunan sampai dah jadi 52 billion dollar, eh ringgit setiap tahun kan. Lebih kurang sama yang kita belanjakan untuk pendidikan. Pendidikan adalah 60 billion lebih. Bayar interest 52. Kita berada dalam keadaan ini kerana pimpinan-pimpinan sebelum ini mengambil sikap yang sama. Ini bukan masalah aku. Zaman aku jadi pemerintah, maka aku buatlah apa asalkan aku kekal berkuasa. Asalkan aku nampak cantik. Yang mana kita boleh sembunyi semua tu kita buat kan. Kalau kerajaan ini adalah sambungan daripada UMNO ke, Bersatu ke, Perikatan Nasional. Tak apalah. Dulu pun kita lawan mereka atas sebab aa urus tadbir kewangan yang kita rasa tidak bertanggungjawab untuk generasi masa depan itulah. Kalau tengok ucapan saya daripada saya rambut tebal sampai sekarang, rambut aku dah tumbuh balik sikit kan? Ya. YB buat apa?
 
 [32:03] Farhan (Pa'an): Ada apa yang hair care produk yang you pakai.
 
@@ -285,9 +289,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:07:28] Rafizi: Sebab itu dia kembali kepada soal niat kita nak jadi kerajaan tadi kan. Yalah saya rasa kita ada standard yang berbeza-beza and saya fahamlah orang tak setuju dengan my standard, but don't blame me for wanting something much better. Kalau standard expectation kita, tugas kerajaan itu hanya menguruskan dan cukup-cukuplah kita okeylah. Nak kata rating kita kena upgrade pun tidak, kan. Rating kita bertahan menokok sedikit saja. Is it good? Is better than previous ones? Tapi kalau nak banding dengan previous one, mampuslah kita semua better lah. Tapi adakah dengan rating itu akan membolehkan kita memotong balik our peers, Vietnam, Singapore, kita jadi negara maju, kita letak di landasan yang baik untuk 20 tahun akan datang. Itu belum sampai lagi, kan? Jadi sebab itu niat kita, we have to ask the question, adakah yang kita ada ini kita berpuas hati? Ha, ini yang masalah dengan bila politik ni very polarized. Sebab kepada penyokong PH kan, dia tak boleh sentuh langsung tau sebab dia takut kalah. Kenapa saya jadi sasaran utama kena maki oleh penyokong-penyokong PKR dan PH ni, keluar habis profesor tak profesornya maki aku. Yang akan datang.
 
-[1:09:00] Haziq: Ah, yang akan datang lepas ni ialah kerana dia takut
+[1:09:00] Haziq: Ah, yang akan datang lepas ni ialah kerana dia takut dengan kritikan-kritikan Rafizi ni kalah PH nanti.
 
-[1:09:03] Rafizi: dengan kritikan-kritikan Rafizi ni kalah PH nanti. Sebab dia dah macam de facto opposition. Dia macam dah de facto pembangkang. Benda-benda yang pembangkang tak tercapai akal untuk timbulkan, dia duk tunjuk kan. Dan saya ingat mereka pun tahu. Ah, ini pun Ceplos-Ceplos ni pun nakal. Dia pun tahu dulu-dulu masa kita duk tumpu kritik kerajaan zaman Najib dulu, jatuh tau Najib kan. Jadi bila dia dah jadi polarized dan dia jadi partisan sangat kan, dia tak fikir dah tentang kesannya kepada jangka panjang. Niat kita, kita nak kerajaan ini bukan sahaja baik te- tetapi jauh lebih baik daripada yang ada supaya hasil 20, 30 tahun jerit reformasi ni hasilnya itu ada kesan yang cukup panjang kepada generasi masa depan. That's what I want, kan? Jadi kalau contohnya kerajaan Datuk Seri Anwar, Kementerian Kewangan, kerajaan kementerian-kementerian yang ada ni kan, dengan kritikan saya, dia mendengar dan dia menambah baik. Then okeylah. Dia akan menang dan keadaan negara menjadi lebih baik kan. Tapi kebimbangan saya dia tak nampak ke arah itulah kan. Jadi sebab itu kita sementara bagus ada prestasi-prestasi yang disebut. Tapi dalam kerajaan dulu pun kita sebut juga bahawa dia ada perkara yang nampak kosmetik. Dia ada perkara yang sebenarnya signal awal daripada pasaran. Dia juga ada perkara yang mesti melibatkan perubahan struktur. Yang kita tak nampak lagi ni ialah perubahan struktur. Jadi bila tak ada perubahan struktur yang mendadak, yang ada kesan jangka panjang, maka angka yang cantik ataupun rating ataupun pengukuhan bursa, benda itu tak tentu akan kekal lama. Dan kalau bertukar kerajaan, maka kita memberi aa modal dan juga alasan kepada kerajaan yang baru itu untuk mengatakan tak payah buat benda yang payah-payah macam ni semua ni. Tengok kerajaan Madani dulu, ha buat buat buat kalah pilihan raya dan keadaan makin buruk. Maka kita akan jadi populis 100% asalkan kita berada dalam kerajaan. That's what we want to avoid sekarang dalam tempoh 1 2 tahun ke arah pilihan raya akan datang. You know, whoever is the government kan, sama ada PH ke, BN ke, PN ke, selagi saya ada amanah untuk bersuara, then I will. I will say exactly the same thing. Mari Menteri Kewangan selepas ini, katakanlah Razifuddin, Menteri Kewangan selepas ini kan, dia buat macam ni samalah juga. Aku cakap benda yang samalah dalam parlimen, di luar parlimen. Sebab tanggungjawab kita ialah bukan semata-mata kepada parti kita, kumpulan kita. Once you sign up for this job, if you are in my shoes, my responsibility is to the public and I will be judged by what I do in order to protect and safeguard public's interest in the long run, bukan masa sekarang. Okey, baik Babi. Sejam 10 minit. Oh, lama ni. Lama kita bincang.
+[1:09:07] Rafizi: Sebab dia dah macam de facto opposition. Dia macam dah de facto pembangkang. Benda-benda yang pembangkang tak tercapai akal untuk timbulkan, dia duk tunjuk kan. Dan saya ingat mereka pun tahu. Ah, ini pun Ceplos-Ceplos ni pun nakal. Dia pun tahu dulu-dulu masa kita duk tumpu kritik kerajaan zaman Najib dulu, jatuh tau Najib kan. Jadi bila dia dah jadi polarized dan dia jadi partisan sangat kan, dia tak fikir dah tentang kesannya kepada jangka panjang. Niat kita, kita nak kerajaan ini bukan sahaja baik te- tetapi jauh lebih baik daripada yang ada supaya hasil 20, 30 tahun jerit reformasi ni hasilnya itu ada kesan yang cukup panjang kepada generasi masa depan. That's what I want, kan? Jadi kalau contohnya kerajaan Datuk Seri Anwar, Kementerian Kewangan, kerajaan kementerian-kementerian yang ada ni kan, dengan kritikan saya, dia mendengar dan dia menambah baik. Then okeylah. Dia akan menang dan keadaan negara menjadi lebih baik kan. Tapi kebimbangan saya dia tak nampak ke arah itulah kan. Jadi sebab itu kita sementara bagus ada prestasi-prestasi yang disebut. Tapi dalam kerajaan dulu pun kita sebut juga bahawa dia ada perkara yang nampak kosmetik. Dia ada perkara yang sebenarnya signal awal daripada pasaran. Dia juga ada perkara yang mesti melibatkan perubahan struktur. Yang kita tak nampak lagi ni ialah perubahan struktur. Jadi bila tak ada perubahan struktur yang mendadak, yang ada kesan jangka panjang, maka angka yang cantik ataupun rating ataupun pengukuhan bursa, benda itu tak tentu akan kekal lama. Dan kalau bertukar kerajaan, maka kita memberi aa modal dan juga alasan kepada kerajaan yang baru itu untuk mengatakan tak payah buat benda yang payah-payah macam ni semua ni. Tengok kerajaan Madani dulu, ha buat buat buat kalah pilihan raya dan keadaan makin buruk. Maka kita akan jadi populis 100% asalkan kita berada dalam kerajaan. That's what we want to avoid sekarang dalam tempoh 1 2 tahun ke arah pilihan raya akan datang. You know, whoever is the government kan, sama ada PH ke, BN ke, PN ke, selagi saya ada amanah untuk bersuara, then I will. I will say exactly the same thing. Mari Menteri Kewangan selepas ini, katakanlah Razifuddin, Menteri Kewangan selepas ini kan, dia buat macam ni samalah juga. Aku cakap benda yang samalah dalam parlimen, di luar parlimen. Sebab tanggungjawab kita ialah bukan semata-mata kepada parti kita, kumpulan kita. Once you sign up for this job, if you are in my shoes, my responsibility is to the public and I will be judged by what I do in order to protect and safeguard public's interest in the long run, bukan masa sekarang. Okey, baik YB. Sejam 10 minit. Oh, lama ni. Lama kita bincang.
 
 [1:12:21] Haziq: Dan bercakap tentang polarisasi pengundi tadi.
 
@@ -307,9 +311,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:13:01] Haziq: Okey, dia bukan 50-50. Tapi dia ada 2 a kita boleh kata pendapat lah. 1 yang yang yang majoriti eh, yang kata ini bagus, ini reform. Saya rasa ni Nazmi pun cakap macam tu. Ada juga yang kedua, ini mungkin daripada a apa ni yang pro Melayu semua. Ini akan a membuatkan ada kaum lain boleh menguasai pilihan raya bandar a a PBT ataupun pilihan raya Datuk Bandar KL.
 
-[1:13:27] Rafizi: Datuk Bandar. Yes.
+[1:13:27] Rafizi: Datuk Bandar.
 
-[1:13:28] Haziq: Mungkin kalau boleh tanya pandangan YB, macam mana YB tengok benda ni dengan kerangka yang lebih besar? How you frame it?
+[1:13:28] Haziq: Yes. Mungkin kalau boleh tanya pandangan YB, macam mana YB tengok benda ni dengan kerangka yang lebih besar? How you frame it?
 
 [1:13:37] Rafizi: Dia pertama sekali kita ke- kena tanya soalan inilah kan sebagai seorang rakyat. Tolak tepi soal kamu Melayu ke Cina ke apa kan. Sebagai seorang rakyat, apa hak kita dengan aa kerajaan tempatan? Kalau di Kuala Lumpur ni kerajaan tempatan ialah DBKL lah kan. Apa hak kita? Kita bayar cukai kan? Kemudian apa yang kita nak daripada kerajaan tempatan kita?
 
@@ -373,15 +377,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:27:02] Rafizi: Ha, yalah time PN. Anwar Musa, Syahidan Kassim, orang Kelantan, orang Perlis kan? Jadi sudah sampai masanya, biarlah penduduk di sini memilih sendiri supaya Datuk Bandar itu, dia bertanggungjawab terus kepada orang-orang Kuala Lumpur dan orang wilayah lah. Dan barulah fokusnya itu ialah untuk memenuhi keperluan rakyat, bukannya memenuhi angin politik parti yang yang ada kat Putrajaya semua ni kan. Tambah lagi apa nak bimbang dalam keadaan pertumbuhan populasi yang memang memihak kepada Melayu pun. Sebab itu nasihat saya kepada Am- kepada PN. PAS lah, PN ni kan ni. Kalau ada walaun yang pergi menonton, pergilah cakap kat dia orang kan. Lagipun zaman dululah, saya ingat zaman-zaman 2004, 2008 kan. PAS lah yang gigih aa meminta supaya apa nama ni, aa lepas 2008 lah, lepas 2008 kan, bila Pakatan Rakyat lepas itu menang kan. PAS juga yang gigih aa minta supaya pengundi-pengundi dia daripada Kelantan semua tukar mengundi kat sini. Ha lepas ni tukarlah mengundi kat wilayah semua. Dapatlah Fadli Shaari jadi menteri, apa jadi jadi Datuk Bandar KL kan. Apa yang payahnya pun. Jadi, you know, jangan pisak, jangan campur adukkan soal campur tolak politik, kepentingan politik dengan apa yang diperlukan oleh rakyat kan. Jadi yang rakyat perlukan ialah satu kerajaan tempatan yang betul-betul bertanggungjawab kepada mereka. Tak bagus, tukar. Tak bagus, tukar. Lagipun kita dah melalui proses sejak 10 tahun yang lepas. Mana yang kita rasa tak bagus, kita tendanglah. Lama-lama orang politik tu nak tak nak, dia terpaksalah aa melalui proses yang memenuhi kehendak rakyatlah. Malu kita dengan New York. Zora Mandani. Ha, orang kita pun satu. Orang PAS ke orang Melayu ni dia juga yang duk sibuk, wah bagusnya orang Islam Zohra Mamdani menjadi Datuk Bandar New York, kan. Orang New York pun eh. Zohra Mamdani takkan menang kalau kalau orang-orang Yahudi tak sokong dia dekat New York, kan. Semua sokong dia. Ahmad Zaleh pun sokong dia, Yahudi pun sokong dia, orang Asia pun sokong dia, kan. Sebab di mana-mana kan. Kemudian ambil contoh London. Sadiq Khan. Sadiq Khan. Lama mana dah Sadiq Khan, kan. Sebabnya ialah akhirnya, kalau kalau ambil contoh London dan New York kan, itu lagi lawak. Logik yang Takiyuddin yang PAS pakai ni langsung tak boleh pakai. Sebab logik dia ialah kerana Cina dan India majoriti di wilayah, maka mereka akan pilih orang dia. How do you explain Zora Mamdani di New York? Dan juga apa nama ni, Sadiq Khan di London. Dua-dua tu daripada minoriti tau. Dua-dua bukannya kumpulan majoriti pun. Jadi sebab mereka tahu bahawa kalau mereka pilih seorang datuk bandar ini, dia mesti berkhidmat kepada kita. Dia tak boleh nak pakai topi dia, aku orang Iran, aku tolong orang Iran saja. Tak bolehnya. Sadiq Khan nak kata saya orang Pakistan, British born, Pakistani origin, tak boleh. Dia kena jaga semua. Jadi sebab itu dia tak bimbanglah Sadiq Khan ke, Zora Mamdani ke. Tambah lagi keadaan kita yang memang majoritinya pun orang Melayu nanti.
 
-[1:30:39] Haziq: . Babi, realistically berapa lama sebenarnya boleh kita dilak- laksanakan benda ni kat Malaysia?
+[1:30:39] Haziq: . YB, realistically berapa lama sebenarnya boleh kita dilak- laksanakan benda ni kat Malaysia?
 
 [1:30:46] Rafizi: Bergantung kepada Datuk Seri Anwar Ibrahim lah. Sementara tapi. Tapi benda ni dah dicakap daripada 2018, tak silap. Saya tak rasa dia akan ke manalah. I think dengan kerajaan Madani yang ada ni, saya tak rasa dia akan ke mana. Dia akan jadi macam URA lah. Urban Redevelopment Act kan. Sebab UMNO ni dia sangat sensitif kepada bising-bising yang PAS buat. Ha, dia macam kalau PAS nampak garang kat situ, dia takut. Ha, jadi mana-mana. Jadi dia bagi senjata kepada PAS lah, walaupun benda itu baik kan. A- PAS hanya perlu buat bising ke apa. Jadi UMNO akan takut, akan kehilangan undi Melayu. Jadi saya tak rasa aa aa Datuk Seri Anwar akan buat apa-apa keputusan lah. Jadi yang ini pun agak berbahaya juga kepada DAP kan, aa kepada Hanayo, kepada DAP. Kerana saya rasa ini adalah perjudian politik yang mereka buat. Okey. Mereka nak masuk pilihan raya akan datang nak menunjukkan bahawa mereka telah cuba melaksanakan manifesto ataupun janji ataupun reform Yang memberi kuasa kepada rakyat, kan. Yang yang ini yang mereka janji daripada dululah, kan. Mereka mungkin rasa bahawa kami dah cuba. Kami dah buat tapi you know kerajaan ini bukan kerajaan pakatan. Maka ada orang tak setuju semua kan. Pengundi mungkin juga akan kata that's why we think you are useless. Sebab kita tahu you bukan push sangat pun. You hanya cakap saja. Kalau tak jadi nanti orang kata, ha then super tak payah cakap bising bising bising bising lepas tu tak jadi kan. So, I think risiko-risiko itu adalah, tapi saya tak nampaklah dalam tempoh berbaki satu tahun setengah ini, kerajaan yang ada ini akan ambil risiko yang, yang dikira besar, risiko politik yang besar. Okey, baik YB.
 
 [1:32:57] Haziq: Kita ada tetamu yang dah menunggu lama.
 
-[1:33:00] Rafizi: Oh yeah. Buat comeback. Ya Allah, berapa kali kau jemput dia? Ha, jemput lagi. Berani tangkap tapi gagal cegah. Ini YB pun dah buat
+[1:33:00] Rafizi: Oh yeah. Buat comeback. Ya Allah, berapa kali kau jemput dia? Ha, jemput lagi. Berani tangkap tapi gagal cegah.
 
-[1:33:11] Haziq: kita panggil apa? Video lah. Ha, cuma kalau saya boleh tengoklah aa dari segi macam mana YB olah semua. Saya tengok industri pencegah rasuah ni pun dia ada front end dengan back end.
+[1:33:09] Haziq: Ini YB pun dah buat kita panggil apa? Video lah. Ha, cuma kalau saya boleh tengoklah aa dari segi macam mana YB olah semua. Saya tengok industri pencegah rasuah ni pun dia ada front end dengan back end.
 
 [1:33:22] Rafizi: Industri?
 
@@ -429,19 +433,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:54:11] Rafizi: Dia dah buat podcast sendiri. Ada orang tanya, ada pegawai-pegawai kerajaan. Pegawai kerajaan kita ni pun nakal juga. Janganlah sibuk kacau bekas menteri. Pergilah kacau menteri-menteri lain. Dia ada adalah ada yang duk tanya kata, eh, ini sebenarnya bukankah melanggar peraturan? Kerana penjawat awam tak boleh buat keluarkan kenyataan media secara terbuka. Itu kerja menteri. Menteri yang boleh bercakap secara terbuka semua ni. Pegawai awam, penjawat awam ni KSU ke, ketua pengarah ke, dia tak boleh. Dia terikat kan. Dia dia hanya boleh keluar kenyataan semualah. Tapi tak apa. Dia Superman.
 
-[1:54:50] Haziq: Unit Integriti SPRM akan tengok. Soalan YB di parlimen eh. Kalau saya boleh tunjuk soalan dulu lah kot kan? Sekolah lagi mahal dari rumah teres. Dan ini menyebabkan-
+[1:54:50] Haziq: Unit Integriti SPRM akan tengok. Okey. Soalan YB di parlimen eh. Kalau saya boleh tunjuk soalan dulu lah kot kan? Sekolah lagi mahal dari rumah teres. Dan ini menyebabkan-
 
-[1:55:07] Rafizi: Itu cuba tengok. Pergi balik.
+[1:55:07] Rafizi: Itu cuba tengok.
 
-[1:55:08] Haziq: Cuba tengok soalan saya.
+[1:55:08] Haziq: Pergi balik. Cuba tengok soalan saya. Soalan saya tu ha terperinci tu kan. Menyatakan perincian matrik kos sebuah bilik darjah mengikut komponen kos, jenis sekolah, bandar atau luar bandar, serta mengikut pecahan negeri bagi setiap tahun dari 2015 hingga 2025.
 
-[1:55:11] Rafizi: Soalan saya tu ha terperinci tu kan. Menyatakan perincian matrik kos sebuah bilik darjah mengikut komponen kos, jenis sekolah, bandar atau luar bandar, serta mengikut pecahan negeri bagi setiap tahun dari 2015 hingga 2025. Ya. Dan purata tempoh sebuah sekolah disiapkan dari tahun diluluskan hingga diduduki dan jumlah sekolah yang tempoh siap melebihi 5 tahun. Ah, itu soalanlah. Ya. Tengok jawapan Menteri Pendidikan. Memang tak lepas Kbat. Kan cuba tengok jawapan dia. Nak baca Babi? Tak payahlah, tapi aku minta data secara terperinci. Dia korona ni semua yang kita minta tu dari segi pecahan kos, jenis sekolah, bandar, luar bandar, mengikut negeri, mengikut tahun, satu apa dia tak bagi. Dia tak bagi. Sebab tu lah budak-budak kita bila pergi ambil ujian PISA tercicir. Mana taknya menteri pun orang tanya soalan lain yang ditanya data, lain yang dijawab. Comprehension memang tak betul lah. Okey. Okey. Dan kita tengok yalah bila keluar ke apa media punya headline tu, kos bina bilik darjah naik ketara sejak 2021, cecah 520,000 sebuah.
+[1:55:30] Rafizi: Ya. Dan purata tempoh sebuah sekolah disiapkan dari tahun diluluskan hingga diduduki dan jumlah sekolah yang tempoh siap melebihi 5 tahun. Ah, itu soalanlah. Ya. Tengok jawapan Menteri Pendidikan. Memang tak lepas Kbat. Kan cuba tengok jawapan dia. Nak baca YB? Tak payahlah, tapi aku minta data secara terperinci. Dia korona ni semua yang kita minta tu dari segi pecahan kos, jenis sekolah, bandar, luar bandar, mengikut negeri, mengikut tahun, satu apa dia tak bagi. Dia tak bagi. Sebab tu lah budak-budak kita bila pergi ambil ujian PISA tercicir. Mana taknya menteri pun orang tanya soalan lain yang ditanya data, lain yang dijawab. Comprehension memang tak betul lah. Okey. Okey. Dan kita tengok yalah bila keluar ke apa media punya headline tu, kos bina bilik darjah naik ketara sejak 2021, cecah 520,000 sebuah.
 
-[1:56:33] Haziq: Dan saya rasa ini pun orang ramai mempertikaikan sebab yalah kita tak perlukan knowledge tentang DE ke apa. Benda ni memang tak make sense. Yalah kalau harga rumah lebih murah kan? Jadi mu- pertama, adakah yalah YB setuju dengan jawapan tu?
-
-[1:56:47] Rafizi: Tak setujulah.
-
-[1:56:48] Haziq: Ah, kedua, ah, dan mungkin ini cabaran.
+[1:56:33] Haziq: Dan saya rasa ini pun orang ramai mempertikaikan sebab yalah kita tak perlukan knowledge tentang DE ke apa. Benda ni memang tak make sense. Yalah kalau harga rumah lebih murah kan? Jadi mu- pertama, adakah yalah YB setuju dengan jawapan tu? Tak setujulah. Ah, kedua, ah, dan mungkin ini cabaran.
 
 [1:56:51] Rafizi: Tak. Jawapan tu you tak boleh setuju ke tak bersetuju kerana memang itu kos dialah. Tapi sebenarnya yang kita nak bincang ni, kos itu pun dia tak cerita penuh. Sebab kalau rakyat tahu lagi pengsan rakyat.
 
@@ -481,7 +481,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:25:02] Rafizi: Yalah, dia punya kasarlah cakap macam tu kan? Kasar tapi yalah. Tapi sebenarnya this this view yang Anwar obsess jadi PM ni, ini memang pandangan majoriti pengundi Melayu. Okey. Seben- sebenarnya daripada tahun 2013, 20, 20, 2018, sebenarnya berapa peratus aa pengundi Melayu, orang Melayu ni yang menyokong Datuk Seri Anwar sebagai PM. Melayu? Give and take lah. Itu kalau kita ambil anggaran mudah yang mengundi PH, dia semua sokong Anwar Ibrahim untuk jadi PM. We just let's take lah. Sebenarnya undi PH Melayu ni berapa? 20%. 25. 30. Tak cross 30 pun. Kan dalam 2 pilihan, dalam last election lagi rendahlah. Dalam PRU 2018 tu I think about 30 lah. Untuk- To the highest lah. Well, tak not really lah. Highest tu masa ada PAS lah. Kalau you take as a coalition lah kan. Masa PAS dulu 46%. Masa Pakatan Rakyat kan. Tapi 2022 is only about 22, 23%. Maksudnya di kalangan pengundi Melayu ni, 75%, as you point out, memang tidak suka atau tidak minat kepada Datuk Seri Anwar Ibrahim. Full stop. Kan. Then, then you have to dig deeper lah. Sebenarnya kenapa mereka tak minat kepada Datuk Seri Anwar Ibrahim? Because surveys in the past menunjukkan bahawa isu liwat semua tu, tuduhan serangan peribadi tu sebenarnya tak ada kesan sangat. 80% of pengundi Melayu sebenarnya tak ambil port or tak ambil tahu, tak percaya pun pasal tuduhan liwat. Tapi kenapa despite that, until now lah, either survey ke ataupun apa nama ni, keputusan pilihan raya menunjukkan at most 30% pengundi Melayu sahaja yang minat dengan Datuk Seri Anwar Ibrahim. Why do you think?
 
-[2:27:24] Haziq: Orang akan boleh kata yalah bila cakap pasal pengundi Melayu ni, isu-isu Melayu lah. Anwar ni terkait dengan apa. Boogeyman anti Melayu semua.
+[2:27:24] Haziq: Orang akan boleh kata yalah bila cakap pasal pengundi Melayu ni, isu-isu Melayu lah. Anwar ni terkait dengan apa. Okey. Boogeyman anti Melayu semua.
 
 [2:27:33] Rafizi: Dan. Why they think is boogeyman anti Melayu? You are right on that point. Maksudnya pengundi Melayu ni, whether we like it or not, it's very uncomfortable lah awak nak cakap kan. Tapi dulu-dulu pun dalam biro politik PKR memang kita bincang. Tahun 2013 ada seorang pimpinan dalam biro politik yang cakap direct kepada Datuk Seri Anwar Ibrahim, kita ada masalah, Datuk Seri. We cannot sell you dengan Melayu. So it's not something yang hanya kerana aku bercakap terbuka ni Ceplos-Ceplos ni melenting. I'm sure you ask Anwar Ibrahim, he is fully aware of this kan. Dia soal trust, soal orang Melayu tidak begitu percaya kepada Datuk Seri Anwar Ibrahim. Full stop. Why?
 
@@ -513,11 +513,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:54:42] Farhan (Pa'an): Oh, sebab benda ni dalam jugalah. Ha, benda tu dalam.
 
-[2:54:46] Rafizi: Dalam. Dan dia agak detail kan? Dia agak detail. We will go through in detail. Jadi kalau paling kurang perlukan 15, 20 minit kan untuk go through. Takkan nak tambah lagi. Aku tak larat nak balik dah. Takkan kot 20 minit. Lebih kot. Lebih daripada tu.
+[2:54:46] Rafizi: Dalam. Dan dia agak detail kan? Dia agak detail. We will go through in detail. Jadi kalau paling kurang perlukan 15, 20 minit kan untuk go through. Takkan nak tambah lagi. Aku tak larat nak balik dah. Takkan kot 20 minit. Lebih kot.
 
-[2:55:00] Farhan (Pa'an): Lebih kot 20 minit.
+[2:55:00] Farhan (Pa'an): Lebih daripada tu. Lebih kot 20 minit.
 
-[2:55:02] Rafizi: Jadi tunggu minggu depan mengenai macam mana Gen Z akan memporak-perandakan keputusan PRU yang akan datang. Ya, okey.
+[2:55:02] Rafizi: Jadi tunggu minggu depan mengenai macam mana Gen Z akan memporak-perandakan keputusan PRU yang akan datang.
 
-[2:55:11] Haziq: Sebelum itu, kena tengok minggu depan, tapi se- sekarang kita tidur. Bye.
+[2:55:11] Haziq: Ya, okey. Sebelum itu, kena tengok minggu depan, tapi se- sekarang kita tidur. Bye.
 

@@ -26,3 +26,27 @@ torchaudio
 
 # Claude rewrite fallback (--rewrite-engine claude), see scripts/lib_claude_rewrite.py
 # -- needs the `claude` CLI on PATH (Claude Code), not a Python package
+# the camera pass, see scripts/camera_speakers.py and scripts/identify_person.py -- YuNet
+# face detection and SFace embeddings ship inside OpenCV, and the face clustering is
+# sklearn's AgglomerativeClustering. BOTH WERE UNDECLARED UNTIL 2026-09-16, so a fresh
+# clone could not run the repo's central speaker-evidence tool at all.
+opencv-python
+scikit-learn
+
+# HTTP calls: the Azure MAI gateway, the YouTube data fetch, Rafizi's blog lookup
+requests
+
+# fuzzy token distance for the ASR disagreement report and the mixed-block splitter
+rapidfuzz
+
+# optimal speaker-to-cluster assignment in scripts/score_attribution.py
+scipy
+
+# reading Revolab's benchmark split (parquet), see scripts/revolab_run_mai.py
+pyarrow
+
+# ECAPA/x-vector embeddings for the voice-witness proof of concept
+speechbrain
+
+# optional: pyannote's HOSTED diarization API, see scripts/pyannoteai_diarize.py
+pyannoteai

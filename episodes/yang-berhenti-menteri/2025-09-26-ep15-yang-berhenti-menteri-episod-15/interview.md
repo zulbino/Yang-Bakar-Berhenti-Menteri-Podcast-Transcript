@@ -108,7 +108,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Jadi ini pendirian kabinet dan YB bercakap.
 
-**Rafizi:** Collective responsibility lah, dan pandangan minoriti saya itu memang diketahui umum. Jadi memang beria budak bangsat enam angka ni, cuba untuk memutar belit.
+**Rafizi:** Collective responsibility lah, dan pandangan minoriti saya itu memang diketahui umum. Jadi memang beria budak bangsa enam angka ni, cuba untuk memutar belit.
 
 **Haziq:** Baik, okey, kita tengok lagi apa dia. Seterusnya, okey, kita ada ulat taksi — dari RM60 ke RM800, YB?
 

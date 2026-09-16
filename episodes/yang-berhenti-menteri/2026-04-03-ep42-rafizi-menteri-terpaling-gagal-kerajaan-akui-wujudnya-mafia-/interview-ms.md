@@ -538,7 +538,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey YB, 2 jam 20 minit — Menteri Pendidikan terbaik di dunia dah menunggu. Jangan kita bagi tunggu lama-lama.
 
-**Rafizi:** Tak apa, dia sanggup tunggu untuk aku lama-lama. Dia dah lama tak hadir dalam podcast kita. Jadi Fadlina mesti cakap, "sial, aku dah berbulan-bulan kena skip kat podcast," keluar balik. Kenapalah korang letak video dia tengah bercakap? Mengganggu konsentrasi aku.
+**Rafizi:** Tak apa, dia sanggup tunggu untuk aku lama-lama. Dia dah lama tak hadir dalam podcast kita. Jadi Fadlina mesti cakap, "damn, aku dah berbulan-bulan kena skip kat podcast," keluar balik. Kenapalah korang letak video dia tengah bercakap? Mengganggu konsentrasi aku.
 
 **Haziq:** Okey, kita ini disebabkan keputusan SPM baru-baru ini yang baru keluar, YB. Kalau YB mungkin tak dapat keputusan yang dicita-citakan, tetapi Fadlina dapat apa yang dia nak.
 

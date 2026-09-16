@@ -170,7 +170,7 @@ Jadi, the best yang kita boleh buat ialah kita akan transparent. Contoh macam ya
 
 **Rafizi:** So hari ni saya makan mic betul-betul lah. Okey.
 
-**Wan Afiq:** Alright. Betul banyak komen tu, babi. Betul-betul, betul-betul family beria ni. Beria. Tapi tak habis lagi segmen kita, kita ada seterusnya: PMR dah ada parlimen angkat, so Pandan kini parlimen angkat PMR — Tengku Zafrul sebagai pegawai pemantau, aka intern. Okey, so YB, about this.
+**Wan Afiq:** Alright. Betul banyak komen tu, YB. Betul-betul, betul-betul family beria ni. Beria. Tapi tak habis lagi segmen kita, kita ada seterusnya: PMR dah ada parlimen angkat, so Pandan kini parlimen angkat PMR — Tengku Zafrul sebagai pegawai pemantau, aka intern. Okey, so YB, about this.
 
 **Rafizi:** Yalah, saya sebenarnya kesian bila Tengku Zafrul beria sangat. Sebab saya ingat Tengku Zafrul ni dia tak ada pengalaman yang lama dalam politik sebab dia datang dari kayangan. Jadi dia tak pernah melalui proses bermula daripada bawah untuk mendapat kepercayaan orang-orang bawah kan. Saya ingat dia pun mungkin ada kesukaran untuk memahami contohnya, sambutan orang di bawah dan sebagainya. Saya kesian sebab saya pernah melalui proses ini dengan Anwar Ibrahim. Masa saya, dia berjaya scam saya dan saya resign jawatan saya masa itu dekat corporate. Janji dia kepada saya ialah saya tak akan — sebab saya memang minta dua syarat. Satu, saya tidak berminat untuk jadi ahli politik. Kedua, saya tak akan ke depan. Fungsi saya hanyalah untuk tempoh dua tahun membantu PKR, dan masa itu PR, Pakatan Rakyat, untuk membangunkan kerangka dasar. Sebab lepas menang 2008, masa itu menang terkejut kan, jadi tidak ada landasan dasar, tidak ada dokumen apa-apa.
 
@@ -520,7 +520,7 @@ Soalan ketiga — dakwaan PKR guna dana kerajaan itu tidak betul. Malah sebenarn
 
 **Rafizi:** Ya. Ia tak pernah bertukar bahawa kita minta beberapa tindakan perlu terus dibuat. Satu contohnya ialah laporan kabinet mengenai pemilikan saham itu perlu didedahkan. Kalau kerajaan bertukar, saya ingat siapa-siapa kerajaan baru yang masuk, untuk jadi popular, memang itu perkara pertama yang akan dibuat. Kedua ialah mengenai Suruhanjaya Diraja mengenai korporat mafia ni perlu. Dan saya dah sebut dalam podcast yang lepas mengenai mafia korporat ni — kebimbangan saya bukan sangat soal politik Azam Baki ke, Farhash ke, Anwar Ibrahim ke, parti ke apa. Saya nak pastikan bahawa elemen-elemen, unsur-unsur yang berkaitan jenayah ataupun kongsi gelap, contohnya, tidak meresapi ke dalam kerajaan. And for that, I think it's in everyone's interest to deep dive and really check and pastikan kalau ada sebarang risiko yang kerajaan ataupun agensi penguatkuasa diresapi oleh unsur-unsur jenayah, we have to stop and do everything to stop it. And for that, memang kita kena buat Suruhanjaya Diraja.
 
-**Wan Afiq:** Okey, babi. So saya dibetulkan oleh Farhan — bukan 23 tapi 36 soalan.
+**Wan Afiq:** Okey, YB. So saya dibetulkan oleh Farhan — bukan 23 tapi 36 soalan.
 
 **Rafizi:** Ha, itu aku.
 

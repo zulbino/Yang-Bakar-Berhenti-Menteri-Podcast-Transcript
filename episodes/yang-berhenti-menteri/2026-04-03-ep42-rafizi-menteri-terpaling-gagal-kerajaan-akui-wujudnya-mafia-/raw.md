@@ -8,7 +8,7 @@ duration_seconds: 10789
 duration: 2h 59m
 view_count: 180819
 model: microsoft/MAI-Transcribe-2
-note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: none recorded for this episode). See interview.md for the polished newspaper-style rewrite.'
+note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: 1 blocks set from data/forced_labels.json). See interview.md for the polished newspaper-style rewrite.'
 ---
 
 <!-- nav -->
@@ -45,9 +45,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [01:50] Rafizi: Segment khas.
 
-[01:50] Haziq: segment yang khas lah. Yang
+[01:50] Haziq: segment yang khas lah.
 
-[01:52] Rafizi: Untuk Zikri.
+[01:51] Rafizi: Yang Untuk Zikri.
 
 [01:52] Haziq: Special. Untuk Zikri je. Tak pernah ada. Tapi tunggulah nanti. Kita pergi ke beria dulu. Kita tengok siapa disebabkan dah raya ni dia orang dah aktif balik YB.
 
@@ -69,21 +69,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [04:20] Zikri Kamarulzaman: Tapi YB, Personal observation, personal observation saya. Sebenarnya orang dah tak terkurung dah himpunan. Abed teh ada ke tak ada ke, YB Rafizi ada pun. Dia tak seramai dulu. Yes. I think the momentum untuk perhimpunan, contohnya kalau esok birthday kata kita buat birthday 6, 7, dah lost count dah. I don't think kita akan dapatlah aa macam mana bersih empat sampai clock up aa Dataran Merdeka tu. Those days are over. Why? I'm not quite sure, but I think it has to do with everyone just wants to be online.
 
-[04:52] Rafizi: Yeah, yeah, yeah. Actually, kalau tengok di mana-mana pun kan, even US kan, no kings punya march down dekat US kan. Time change. Jadi memang kita kena recalibrate sebenarnya impact berapa ramai orang turunlah. Kalau dulu expectation kalau bersih kena 100,000 orang semua kan. Sekarang sebenarnya kalau you hit 5, 10,000 tu sebenarnya besar. Kerana dulu orang pergi tu untuk menunjukkan sokongan. That's the only avenue they can do it lah. Solidarity semua. Sekarang ni kebanyakannya memang dah online media kan. Cuma saya perasan contohnya dalam, dalam yang himpunan Azam Baki 2 bulan lepas lah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di sosial media yang berkaitan dengan sap- apa yang saya post, my speech, gambar semua tu kan, ataupun notice untuk turun tu. When you total up 4 5 content tu across apa nama ni social media platforms kan, it was more than 150,000. Okay. So maksudnya that is going to be the mainstay in the future lah. Kita masih lagi perlukan demonstrasi. Dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Yap. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak, dia memperlekehkan perkara itu. Yap. Then you do that, you know, at your own peril lah kan. Beria. Lepas ni lagi banyaklah pergi buat. Okey.
+[04:52] Rafizi: Yeah, yeah, yeah. Actually, kalau tengok di mana-mana pun kan, even US kan, no kings punya march down dekat US kan. Time change. Jadi memang kita kena recalibrate sebenarnya impact berapa ramai orang turunlah. Kalau dulu expectation kalau bersih kena 100,000 orang semua kan. Sekarang sebenarnya kalau you hit 5, 10,000 tu sebenarnya besar. Kerana dulu orang pergi tu untuk menunjukkan sokongan. That's the only avenue they can do it lah. Solidarity semua. Sekarang ni kebanyakannya memang dah online media kan. Cuma saya perasan contohnya dalam, dalam yang himpunan Azam Baki 2 bulan lepas lah kan, lebih kurang pertengahan Februari kan. Jumlah yang bagi engagement dan reaction di sosial media yang berkaitan dengan sap- apa yang saya post, my speech, gambar semua tu kan, ataupun notice untuk turun tu. When you total up 4 5 content tu across apa nama ni social media platforms kan, it was more than 150,000. Okay. So maksudnya that is going to be the mainstay in the future lah. Kita masih lagi perlukan demonstrasi. Dan demonstrasi tu bagi saya memang masih lagi cara yang baik. Yap. Tetapi to expect 150,000 orang turun tu tak mudahlah. Tapi kalau pihak kerajaan ke ataupun mana-mana pihak, dia memperlekehkan perkara itu. Yap. Then you do that, you know, at your own peril lah kan. Beria. Lepas ni lagi banyaklah pergi buat.
 
-[06:47] Haziq: Itu tak cukup, YB.
+[06:47] Haziq: Okey. Itu tak cukup, YB.
 
-[06:48] Rafizi: Kita tengok lagi. Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak tak tak terlepas berita menarik ni. Ya, ya. Beria ni. Ya, ya.
+[06:48] Rafizi: Kita tengok lagi. Kita ada minyak di Johor. Kena bagi konteks sikit sebab saya rasa rakyat Malaysia tak tak tak terlepas berita menarik ni. Ya, ya. Beria ni.
 
-[07:01] Haziq: Ini berikutan daripada
-
-[07:04] Rafizi: Kenyataan bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan di Davao del Norte.
-
-[07:12] Haziq: Ini di Mindanao lah. Davao di del Norte.
+[07:01] Haziq: Ya, ya. Ini berikutan daripada kenyataan bukan Datuk Bandar lah, tapi head kepada kerajaan tempatan di Davao del Norte. Ini di Mindanao lah. Davao di del Norte.
 
 [07:14] Rafizi: Betul. Itu rancang beli minyak dari Malaysia.
 
-[07:17] Haziq: Yang merancang beli minyak di Malaysia kerana sudah ada komunika- komunikasi dengan pihak yang berkenaan di Johor. Di tengah-tengah Negeri Sembilan dan mahu membeli minyak sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot sekali beli tapi 44 juta kerana memang banyak minyak di Johor. Di tengah-tengah Negeri Sembilan.
+[07:17] Haziq: Yang merancang beli minyak di Malaysia kerana sudah ada komunika- komunikasi dengan pihak yang berkenaan di Johor. Ya. Di tengah-tengah Negeri Sembilan dan mahu membeli minyak sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot sekali beli tapi 44 juta kerana memang banyak minyak di Johor. Di tengah-tengah Negeri Sembilan.
 
 [07:42] Rafizi: Dan- Saya saya terbaca ni mula kat Malaysia Kini lah sebab itu tu ha. Petronas nafi terlibat rancangan Filipina. Peliklah. Petronas ni dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis payah tau. Jadi dia keluar kenyataan. So saya pun pergilah semak dekat Philippines. Lawaklah kerana wilayah Davao de Norte ni Ada pertemuan dengan pembesar daripada Johor. Ya ya. Dan Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davar dan Note. Siapa-siapa lah pemesah.
 
@@ -109,7 +105,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [10:53] Haziq: Sabah. Tapi terpencil lah.
 
-[10:56] Rafizi: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab aa pengeluaran minyak mentah eh kalau di Malaysia ni sebelum ini memang banyaknya ialah di pesisir pantai timur. Bagi besin dekat situlah kan. Tapi dia dah sangat berkurangan. Aa jadi sekarang ini Sarawak tak banyak sangat minyak mentah.
+[10:56] Rafizi: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab aa pengeluaran minyak mentah eh kalau di Malaysia ni sebelum ini memang banyaknya ialah di pesisir pantai timur. Ya. Bagi besin dekat situlah kan. Tapi dia dah sangat berkurangan. Ya. Aa jadi sekarang ini Sarawak tak banyak sangat minyak mentah.
 
 [11:20] Zikri Kamarulzaman: Minyak.
 
@@ -149,9 +145,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [25:24] Haziq: Okey, baik. Ba- kita boleh teruskan? Boleh, boleh. Haah. Beria. Kita pun beria juga panjang. Panjang sikit. Beria cerita pasal ni.
 
-[25:32] Rafizi: Okey, last eh. Oh, panjang nama Muhyiddin, ada Muhyiddin. Tahniah calon SPM daripada Ahli Parlimen Bentong dan Muhyiddin. Itu Muhyiddin troll. Muhyiddin kalau tiba-tiba ada Datuk Seri Amir Muhyiddin ni keluar, maksudnya dia troll lah. Alhamdulillah saya tak buat macam ni. YB tak ada poster. Tak ada.
+[25:32] Rafizi: Okey, last eh. Oh, panjang nama Muhyiddin, ada Muhyiddin. Tahniah calon SPM daripada Ahli Parlimen Bentong dan Muhyiddin. Itu Muhyiddin troll. Muhyiddin kalau tiba-tiba ada Datuk Seri Amir Muhyiddin ni keluar, maksudnya dia troll lah. Alhamdulillah saya tak buat macam ni. YB tak ada poster.
 
-[25:57] Haziq: Kesian anak-anak kat Pandan.
+[25:57] Haziq: Tak ada. Kesian anak-anak kat Pandan.
 
 [25:58] Rafizi: Tak ada lah, tak ber sayang. Video. Hah? Buat video. Oh ya, ya, ya. Bagi pesanan. Bagi pesanan supaya yang, yang beraya tu janganlah raya lama sangat dapat SPM result bagus sebab you know the next cycle will continue. Yang menangis jangan sampai mata lebam because the next cycle. This one ni yalah, saya pun tak tahulah. Mungkin bagi Young Sefura lah, I think she knows her strength. And her strength is her look kan. Tapi saya rasa it's already menjemput kena troll lah. Sebab sepatutnya kalau mesejnya itu ialah kepada calon-calon SPM, sebaiknya the focus should be on calon SPM dan juga ibu bapa dan guru-gurulah kan. Yang ini ni lebih kepada poster pilihan raya. YB SPM berapa? Berapa A? Macam mana aku tak boleh cerita. Aku SPM gagal. Gagal, gagal. I didn't get what I wanted lah, and I thought the world collapsed. Oh, okey. Ha, okeylah.
 
@@ -183,9 +179,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [31:51] Rafizi: Dan Tahniah SPM.
 
-[31:52] Zikri Kamarulzaman: Kemudian Tahniah SPM. Saya rasa Johor lah. Johor.
+[31:52] Zikri Kamarulzaman: Kemudian Tahniah SPM. Saya rasa Johor lah.
 
-[31:55] Rafizi: Actually, aku setuju. Aku setuju.
+[31:55] Rafizi: Johor. Actually, aku setuju. Aku setuju.
 
 [31:57] Zikri Kamarulzaman: Agak epic lah.
 
@@ -245,11 +241,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [48:50] Zikri Kamarulzaman: So it's not great, but it's better. Yeah.
 
-[48:57] Haziq: Dan baru-baru ni pun kita tengok yalah bila banyak pendedahan tentang mafia korporat semua, orang tengoklah sejauh mana investigative journal- journalist dekat Malaysia ni go jauh. Mungkin kalau saya boleh tanya, macam mana peranan Majlis Media Malaysia ni? Dia dap- dia cukup ke lindungi apa ni jurnalis-jurnalis ni untuk buat kerja dia ataupun mungkin ada rasa takut lagi ke? Dan mungkin Zikri sendiri pernah bangkit kan aa bahawa penglibatan aa apa ni wakil kerajaan dalam apa ni Majlis Media Malaysia tu is a something yang aa. Jadi macam mana tu?
+[48:57] Haziq: Dan baru-baru ni pun kita tengok yalah bila banyak pendedahan tentang mafia korporat semua, orang tengoklah sejauh mana investigative journal- journalist dekat Malaysia ni go jauh. Mungkin kalau saya boleh tanya, macam mana peranan Majlis Media Malaysia ni? Dia dap- dia cukup ke lindungi apa ni jurnalis-jurnalis ni untuk buat kerja dia ataupun mungkin ada rasa takut lagi ke? Dan mungkin Zikri sendiri pernah bangkit kan aa bahawa penglibatan aa apa ni wakil kerajaan dalam apa ni Majlis Media Malaysia tu is a something yang aa. Yes. Jadi macam mana tu?
 
-[49:33] Zikri Kamarulzaman: Walaupun saya masih ada reservation, aa saya was-was lah pasal Majlis Media Malaysia ni. Buat masa ni, I think dia buat kerja dengan bagus lah. Contohnya-
+[49:33] Zikri Kamarulzaman: Walaupun saya masih ada reservation, aa saya was-was lah pasal Majlis Media Malaysia ni. Buat masa ni, I think dia buat kerja dengan bagus lah.
 
-[49:44] Rafizi: It's a, it's supposed to be a regulatory body, self regulatory body. Self regulatory body.
+[49:44] Rafizi: Contohnya- It's a, it's supposed to be a regulatory body, self regulatory body. Self regulatory body.
 
 [49:50] Zikri Kamarulzaman: Pengawas, mengawas diri sendiri lah. Kami kawal diri sendiri, bukan kerajaan. Kerajaan. Tak, jadi buat masa ni belum nampak lagi kerajaan menggunakan wakil-wakil mereka melalui RTM bernama untuk tekan agenda kerajaan ke apa ke. Dan contohnya macam baru-baru ni ada wartawan daripada media aa Tamil yang ditahan pasal aa. Dekat Kulim tu. Dia ditahan di Kulim pasal dia buat investigative journalism undercover ke apa saya kurang ingat maklumat dia. Tapi bila benda perkara tu berlaku, Majlis Media Malaysia bersuara. My only concern is Majlis Media Malaysia, adakah mereka akan jadi seperti Suakam? Ha, ada suara, tak ada gigit. Tak ada gigit. Ha- harimau tak bertaring.
 
@@ -357,7 +353,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:30:02] Rafizi: Yeah. You know, it's like you pergi tanya mana-mana ahli politik pun, even the media. I mean, you know, if I were to turn the table around kan, I name Ramanan. Malaysia kini sampai sekarang tak name Ramanan. Or Farhash. For your report, sampai sekarang tak name Farhash. That's because we can get sued. I can get sued. So in that sense lah kan, if we apply the same standard, kalau nak kira gagal, tak gagal, why you didn't do this kan? So it's like I put my neck, I'm waiting for saman.
 
-[1:30:33] Zikri Kamarulzaman: Yep.
+[1:30:33] Haziq: Yep.
 
 [1:30:33] Rafizi: And I'm going after Azam Baki.
 
@@ -407,9 +403,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:53:09] Haziq: Kenyataan terbaru Menteri Komunikasi, YB Fahmi Fadzil, bahawa mafia korporat ni sebenarnya dah wujud lama dah.
 
-[1:53:18] Rafizi: Sebelum sebelum 2018.
+[1:53:18] Rafizi: Sebelum sebelum
 
-[1:53:19] Haziq: 2018. Just to check with you, do you take this statement seriously? Sebab if yes, sebenarnya adakah benda ni betul-betul, betul ke dah lama? Kalau betul dah lama, dah berkurun-kurun, kenapa kita tak perasan dari dulu?
+[1:53:19] Haziq: 2018. 2018. Just to check with you, do you take this statement seriously? Sebab if yes, sebenarnya adakah benda ni betul-betul, betul ke dah lama? Kalau betul dah lama, dah berkurun-kurun, kenapa kita tak perasan dari dulu?
 
 [1:53:33] Rafizi: Ha, macam mana? Takde lah, I mean, sebelum kita sampai kat situ lah. Itu jawapan yang memerangkap dirilah. Ini, ini saya rasa kalau budaya woke lah, woke culture orang panggil whataboutism lah. Whataboutism. Ha, this is what we call whataboutism lah. Bila gagal untuk kita menjawab keadaan sekarang, kita mula tuding jari, tuding sanalah. Kita kata ini Victor Chin ni, mafia korporat ni ada sejak sebelum 2018. Dulu tak buat apa pun. Well, sebab itu orang pilih Pakatan Harapan and that's why the expectation itu berlainan sekarang daripada sebelum 2018 lah. Tapi, you know, to answer you, Haziq kan, sebenarnya macam saya sebutlah, the implicit tu lebih berbahaya daripada the explicit. Yang saya ingat Fahmi jawab macam ni is about whataboutism lah. Whatabout, whatabout, whatabout lah kan. Tapi yang saya rasa dia terlupa bila dia jawab macam ini, dia mengesahkan benda ni memang dah lama. Dan dia juga secara tidak langsung mengesahkan bahawa dakwaan-dakwaan dalam Bloomberg semua tu memang ada asas lah. Malah bukan saja ada asas, dia dah lama daripada 2018 kan. Jadi kalau itu Fahmi rasa boleh deflag, dia sebenarnya akan memerangkap lebihlah. Sama juga dengan kenyataan KSN ni kan? Yes. Penafian. Penafian. KSN kata bahawa kerajaan akan mengumumkan siasatan mengenai pemilikan saham tu. Tapi dia nak tunggu siasatan PDRM kan? Dia nak tunggu siasatan a... ini Fahmi sebut kan? Yes. Fahmi sebut kan. Dia nak tunggu siasatan a PDRM itu selesai supaya kedua-dua a siasatan ni selesai sekali kan. Tapi bila dia jawab macam itu, maksudnya a implicit, bukan explicit, implicit eh. Maksudnya a dakwaan Bloomberg mengenai collusion dekat SPRM tu ada asas. Sebab itulah PDRM sekarang menyiasat kan. Jadi saya ingat yang berlaku pasal mafia korporat setakat ini ni, I think kerajaan dah lost the plot. Dan sebab itu mesejnya jadi tak coherent. Dan Victor Chin sekarang senyap 2 3 hari seminggu ni kan. Tapi I think if he doesn't get what he wants ataupun dia tak dapat sesuatu yang dia rasa fair for him lah kan, dia akan keluarkan balik. Ada benda baru lain. Jadi maka kerajaan akan terus berada dalam defensive mode lah. Sama juga macam hari ini. Tan Sri Azam Baki dengan confident sebutlah yang bahawa siasatan PDRM itu dah membersihkan SPRM kerana tidak ada pegawai SPRM yang disoal siasat oleh PDRM kan. Tapi the public is not stupid. Ops Viking yang membekukan akaun Victor Chin semua ni ialah siasatan mengenai NextG. Yang itu memang tak ada SPRM, iaitu memang Victor Chin secara jelas menuding jari kepada SP- PDRM. Menggunakan Amla untuk membekukan, untuk memaksa pemilik saham NextG semua. Yang mengenai Tan Sri Azam Baki ni banyak lagi kes-kes lain. Dia juga bersabit dengan MMAG, dia bersabit dengan Velocity Capital, dia bersabit dengan beberapa syarikat lain yang lebih awal lah. Dia menga- bersabit dengan individu macam Andy Lim. Aku tak pernah boleh sebut nama peguam tu. Chong Lungman. Chong Lungman. Ha, Chong Lungman. Azam Baki sendiri kan. Jadi saya tak rasa siasatan Ops Viking tu ada kena mengena dengan yang itu. Jadi, tapi itulah. Itulah gunanya podcast macam ini untuk kita clarify bagi pihak rakyat kerana kenyataan-kenyataan Menteri Azam Baki ni semua dia memang cuba untuk navigate kepada mereka yang tak betul-betul mengikutinya. Dia jenis baca headline je lah. Headline Azam Baki kata PDRM tak panggil maka kami dah bersih. Padahal it's two separate cases lah.
 
@@ -425,7 +421,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:00:27] Rafizi: That's the only thing lah. Okey. That's the only thing yang satu-satunya tender yang ada dekat Kementerian Ekonomi ialah provision of bukan provision pun sebenarnya rent of vending machine kan. So itu jelah. Yang lain memang Kementerian Ekonomi adalah I suppose kalau macam refreshment, kuih semua tu adalah tender dia. Tapi tak adalah. But by by nature Kementerian Ekonomi memang tak ada tender lah.
 
-[2:00:59] Zikri Kamarulzaman: Tak nak sentuh sangat pasal mafia corporate pasal benda ni masih developing and saya rasa tak banyak perkembangan banding dengan so so. YB pun banyaklah sentuh isu ni. Tapi satu benda yang YB cakap dalam podcast ni dua minggu sebelum raya. YB kata YB akan dedahkan kenapa Anwar Ibrahim takut dengan Azam Baki. Sekarang YB tak jawab lagi. YB kata minggu depan nak jawab.
+[2:00:58] Zikri Kamarulzaman: Tak nak sentuh sangat pasal mafia corporate pasal benda ni masih developing and saya rasa tak banyak perkembangan banding dengan so so. YB pun banyaklah sentuh isu ni. Tapi satu benda yang YB cakap dalam podcast ni dua minggu sebelum raya. YB kata YB akan dedahkan kenapa Anwar Ibrahim takut dengan Azam Baki. Sekarang YB tak jawab lagi. YB kata minggu depan nak jawab.
 
 [2:01:19] Rafizi: No, saya rasa dalam podcast-podcast yang lepas, I think orang dah boleh faham. Bila contohnya dalam satu podcast kita sebut tentang pergantungan kepada wang. Ha, so it's the system. Ekosistem tu ada. Kan saya pernah sebut tentang macam mana hubung kait di antara mafia, di antara yalah underworld semua ni dengan pihak berkuasa semua, dan akhirnya dengan ahli politiklah. Yalah kerana ahli politik perlukan wang, kan. Dulu-dulu, cara dulu-dulu ialah dengan bagi tender. Tapi sekarang tak mudahlah dan mungkin lambatlah, itulah semua kan. Tapi cara yang lebih baik ialah kerana underworld ni, mafia semua ni kan penjenayah ni, dia very lucrative. Penyeludupan billion setahun. Kemudian illegal gambling, scamming, semua ni. Semua ni perlu dicuci duitnya. Jadi cara duit ini dicuci ialah selalunya melalui kaunter-kaunter lah. Jadi tiba-tiba, you know, ada company tu sini semua kan. Dan bila banyak duit, then kalau kegiatan tu semua kegiatan jenayah, mereka perlukan protection. Cara untuk dapat protection tu selain daripada secara terus dengan agensi-agensi kaki-kaki semua ni yang ada. Caranya ialah kalau ada ahli politik lah yang menjadi jambatan. Then I think people can put two and two together lah. Kan it's quite straightforward. Dan bila dia dah jadi satu ecosystem, maksudnya you know I know what you did last summer, you know what I did last summer semua. So you have to protect each other's back. Simple. Okay.
 

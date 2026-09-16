@@ -143,7 +143,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kan. So yang ini namanya mengundi buta. Okey, tahniah, tahniah pada semua pengundi. Seronok kita, dia happy, dia best kalau beria — bila apa ni, "man from the future" macam ni — "saya daripada future."
 
-**Haziq:** Okey, baik Babi. Yang terakhir, ini daripada netizen kita. Dia kata "you touch, you go" tapi untuk rakyat Marhaen saja. Ini kenyataan berkaitan dengan pengampunan Datuk Seri Najib. Pakatan Harapan keluarkan dulu kenyataan, kemudian dibalas oleh Setiausaha Agung UMNO.
+**Haziq:** Okey, baik YB. Yang terakhir, ini daripada netizen kita. Dia kata "you touch, you go" tapi untuk rakyat Marhaen saja. Ini kenyataan berkaitan dengan pengampunan Datuk Seri Najib. Pakatan Harapan keluarkan dulu kenyataan, kemudian dibalas oleh Setiausaha Agung UMNO.
 
 **Rafizi:** Ini ikut komen-komen nanti kena saman.
 

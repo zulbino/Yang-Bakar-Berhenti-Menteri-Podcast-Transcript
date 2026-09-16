@@ -147,7 +147,7 @@ episodes/
 │       ├── interview.md                 # tulisan semula gaya Tanya-Jawab, bahasa campuran
 │       ├── interview-en.md              # terjemahan Bahasa Inggeris
 │       └── interview-ms.md              # terjemahan Bahasa Melayu
-└── yang-berhenti-menteri/               # selepas penukaran nama 2025, 61 episod
+└── yang-berhenti-menteri/               # selepas penukaran nama 2025, 64 episod
     └── 2025-09-12-ep13-.../             # empat fail yang sama setiap episod
 data/
 └── manifest.json                        # indeks episod (metadata sahaja, tiada teks transkrip)

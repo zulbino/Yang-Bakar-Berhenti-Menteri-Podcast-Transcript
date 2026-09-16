@@ -139,13 +139,31 @@ def main():
     if not total:
         return
 
-    before = [w for w in words_of(text) if w not in {f.lower() for f in FILLERS}]
-    after = words_of(out)
+    # THIS CHECK WAS WRONG UNTIL 2026-09-16, and it refused the one episode that needed it
+    # most. It stripped EVERY filler from `before` while `after` was the real output, which
+    # deliberately KEEPS the fillers inside the gold passage and inside a block that would
+    # otherwise be emptied. ep61 has 4 fillers in its gold window, so the two lists could
+    # never match: the tool refused, `adopt_mai_camera_raw.py` carried on regardless, and
+    # ep61 shipped with all 704 fillers still in it.
+    #
+    # The property to assert is the one the docstring states: no NON-filler word changed,
+    # and the order held. So fillers come out of BOTH sides. The count check below is what
+    # keeps that from being a weaker test -- it pins the exact number removed.
+    fillerset = {f.lower() for f in FILLERS}
+    before = [w for w in words_of(text) if w not in fillerset]
+    after = [w for w in words_of(out) if w not in fillerset]
     if before != after:
         bad = next((i for i, (x, y) in enumerate(zip(before, after)) if x != y), 0)
         sys.exit("REFUSING TO WRITE: the surviving words changed near "
                  f"{' '.join(after[max(0, bad - 6):bad + 6])!r}")
     print(f"  verified: all {len(after)} non-filler words unchanged and in order")
+    was = sum(1 for w in words_of(text) if w in fillerset)
+    now = sum(1 for w in words_of(out) if w in fillerset)
+    if was - now != total:
+        sys.exit(f"REFUSING TO WRITE: {was - now} filler word(s) would leave the file but "
+                 f"{total} were counted for removal. A kept filler and a removed one "
+                 f"cancelling out would hide a real edit, so this refuses instead.")
+    print(f"  verified: filler words {was} -> {now}, exactly the {total} counted")
     # A figure must read the same after the repair as before it. This is a separate assert
     # from the word check, because "52,000" and "52, 000" hold the same words.
     numbers = re.compile(r"\d[\d.,]*\d|\d")

@@ -65,6 +65,27 @@ Joe, 2026-09-12: the show's own two episode descriptions disagreed with each oth
 ep60 said "Sum Dek Jo", ep63 said "Sum Dek Joe" -- resolved by his X handle
 `@sumdekjoe` and his own academic publications) are the same class of check.
 
+**AND NO SLUR THE SPEAKER DID NOT SAY. Added 2026-09-16, and it is the worst defect the
+corpus has shipped.** `Babi` stood in for the honorific `YB` in 39 places, including the
+show's own transition line `Okey, baik YB` in ten of them. `babi` is Malay for pig. It went
+unseen because `fix_yb_honorific.py` lists twelve spellings of that garble and not this
+one, and the adoption report's own "YB garbles" count used the same short list.
+
+Worse, five published passages carried an insult raw.md does not contain, because the
+rewrite changed a benign word: ep15 and ep51 turned `bangsa` (race, nation) into `bangsat`
+(bastard), ep16 turned `Salawat`, an Islamic blessing, into `celaka` (cursed), and ep42
+turned a spoken `damn` into `sial`. So the corpus quoted named, real people saying things
+they did not say. All are corrected in `fix_proper_nouns.py`, which is the right home
+because the published files are regenerated and a hand fix would not survive.
+
+`check_slurs.py` is the checker. It fails only on a GATE term a published file holds and
+raw.md does not, and prints the milder ones without failing -- `syaitan itu ada dalam
+perincian` is just "the devil is in the details". **A slur in raw.md is NOT a finding:**
+this show discusses race, religion and corruption, so ep21's `babi hutan`, ep33's `daging
+babi`, ep28's `gila babi`, ep40's Animal Farm and ep55's eleven mentions of a real pork
+issue all stay. Rule 5 keeps any word that carries meaning. Two spans are still open for
+the owner's ear, because the word is genuinely ambiguous: ep13 20:20 and ep55 51:46.
+
 ### 2. Every government agency cited is correct
 
 Same method as rule 1: web-verify the agency's real name and acronym, don't infer
@@ -340,6 +361,10 @@ single session.
 | rule | mechanism | verify with |
 |---|---|---|
 | 1 names, 2 agencies | `check_names.py`, `check_agencies.py` + `data/agency_roster.json`, corrections in `fix_proper_nouns.py` | `python scripts/check_agencies.py` |
+| **1b no slur the speaker did not say** | **`check_slurs.py`**. Fails on a GATE term a published file holds and raw.md does not. Corrections go in `fix_proper_nouns.py` so a regeneration keeps them | `python scripts/check_slurs.py` |
+| **an owner-dictated WORD, not a label** | **`check_owner_text.py`**, adoption step 7b. Reads every record with `text_was` and `text_now` and restores what a rebuild reverted | `python scripts/check_owner_text.py` |
+| **a document whose numbers went stale** | **`check_stale_docs.py`**. Re-runs each generator and diffs it; checks the per-run and corpus totals in README, README.ms and METHODOLOGY | `python scripts/check_stale_docs.py` |
+| **a step that refuses must stop the run** | **`adopt_mai_camera_raw.must()`**. Every write step's exit code is now read; ep61 shipped 704 fillers because they were discarded | read the `[n/8]` lines in the adoption log |
 | 3 cast metadata | `check_cast.py`, `rebuild_roster.py` (`HOSTS`, `MERGE`, `GUEST_THIS_EPISODE`, `PRESENT_UNLABELLED`) | `python scripts/check_cast.py` |
 | 4 attribution order | `adopt_mai_camera_raw.py`, gated at step 0 by `check_camera_reference.py` | `python scripts/check_camera_reference.py <tag>` |
 | 5 fillers | `strip_filler_turns.py`, `strip_inline_fillers.py`, `drop_orphan_backchannels.py` (closed lexicon, refuses an unadopted raw) | `python scripts/drop_orphan_backchannels.py <tag>` |

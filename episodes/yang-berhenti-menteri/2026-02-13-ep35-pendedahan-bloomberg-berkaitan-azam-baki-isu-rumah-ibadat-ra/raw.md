@@ -149,7 +149,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [29:24] Rafizi: Ya. Aku dah nak kata okeylah aku simpanlah apa-apa. What a life. Saya nak nasihatkan mereka yang membeli itu. Kalau betul-betul duit dia, dia beli kan. Baiklah kau bagi kat anak yatim, tapi tak apalah. Okey, ada lagi?
 
-[29:45] Haziq: Ada, itu saja Babi. So kita ada 4.
+[29:45] Haziq: Ada, itu saja YB. So kita ada 4.
 
 [29:47] Rafizi: Jadi kita nampaknya keempat-empat memenuhi ciri-ciri beria. Wah, tahniah. Tahniah.
 

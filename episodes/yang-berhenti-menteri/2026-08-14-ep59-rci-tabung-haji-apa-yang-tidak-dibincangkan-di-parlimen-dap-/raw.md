@@ -139,7 +139,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [31:49] Haziq: Eh, janji air pun biasa dia anjak-anjak macam tu kan. Siap 2025. Masalah 2024. Ya ya ya. Sekarang 2030.
 
-[31:56] Rafizi: Tapi yang ini semua tak penting. Yang kau buat bising ni kenapa tak penting semua ni? Hah, tak penting? Tak penting. Tak penting. Asalkan Melayu Islam. Tak penting semua ni. Tak penting. Aku pun macam Allah, KB Central pun aku dah lupalah apa dia. Tak penting semua ni. Jadi macam yang kita kat KL bising-bising pasal stesen bas dia orang ni buat apa? Betul juga eh. Tak penting pun untuk dia orang kan. Betul. Okey, baik Babi. Selesailah. Oh, so nak kena rate?
+[31:56] Rafizi: Tapi yang ini semua tak penting. Yang kau buat bising ni kenapa tak penting semua ni? Hah, tak penting? Tak penting. Tak penting. Asalkan Melayu Islam. Tak penting semua ni. Tak penting. Aku pun macam Allah, KB Central pun aku dah lupalah apa dia. Tak penting semua ni. Jadi macam yang kita kat KL bising-bising pasal stesen bas dia orang ni buat apa? Betul juga eh. Tak penting pun untuk dia orang kan. Betul. Okey, baik YB. Selesailah. Oh, so nak kena rate?
 
 [32:28] Haziq: Ya. Pilih satu. Okey, tengok balik.
 

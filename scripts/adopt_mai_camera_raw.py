@@ -86,6 +86,30 @@ def run(cmd, quiet=False):
     return p.returncode, (p.stdout or "") + (p.stderr or "")
 
 
+def must(cmd, quiet=False):
+    """Run a step and STOP if it refuses.
+
+    WHY THIS EXISTS, measured 2026-09-16. Every write step's exit code was thrown away, so
+    a tool that refused to write was indistinguishable from one that had nothing to do.
+    ep61's `strip_inline_fillers.py` refused at step 4, this script printed the refusal and
+    carried straight on, and the episode was reported `adopted` with all 704 filler words
+    still in it. That is the same shape as the 2026-09-13 cast-gate bug recorded above:
+    a gate refused correctly and the run continued anyway.
+
+    Every step's no-op path was checked to exit 0 before this was turned on, so a non-zero
+    code here is always a real refusal and never "nothing to do".
+    """
+    code, out = run(cmd, quiet=quiet)
+    if code:
+        if quiet:
+            for line in out.strip().splitlines():
+                print("   " + line)
+        sys.exit(f"REFUSING: `{' '.join(Path(c).name for c in cmd[1:2]) or cmd[1]}` exited "
+                 f"{code}. raw.md may be half-processed, so this stops rather than reporting "
+                 f"an adoption that did not happen. Fix the refusal, then re-run.")
+    return code, out
+
+
 def report(tag, path, reference):
     text = io.open(path, encoding="utf-8").read()
     blocks = BLOCK.findall(text)
@@ -177,16 +201,16 @@ def main():
 
     raw.write_text(candidate.read_text(encoding="utf-8"), encoding="utf-8")
     print("[3/8] drop turns that are only a vocalisation")
-    run([PY, "scripts/strip_filler_turns.py", str(raw), "--write"])
+    must([PY, "scripts/strip_filler_turns.py", str(raw), "--write"])
     print("[4/8] remove the meaningless filler sounds from inside sentences")
-    run([PY, "scripts/strip_inline_fillers.py", a.tag, "--write", "--samples", "0"])
+    must([PY, "scripts/strip_inline_fillers.py", a.tag, "--write", "--samples", "0"])
     print("[4b/8] fold hanging fragments the camera cannot see")
     code, _ = run([PY, "scripts/fold_hanging_fragments.py", a.tag, "--write"])
     fold_refused = bool(code)
     print("[5/8] move hanging half-sentences to the speaker who finishes them")
-    run([PY, "scripts/move_hanging_words.py", a.tag, "--write"])
+    must([PY, "scripts/move_hanging_words.py", a.tag, "--write"])
     print("[6/8] join adjacent same-speaker blocks")
-    run([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"])
+    must([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"])
     print("[6b/8] voice witness: name what the camera and the clusters left generic, but only "
           "if it measures 100% on this episode's held-out short windows first")
     code, out = run([PY, "scripts/voice_witness.py", a.tag, "--validate"], quiet=True)
@@ -200,8 +224,8 @@ def main():
               f"100% on its class writes a label (CLAUDE.md rule 8)")
     else:
         print(f"   validated: strict bar {m.group(2)}/{m.group(1)} on 1.6 s held-out windows")
-        run([PY, "scripts/voice_witness.py", a.tag, "--write"])
-        run([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"], quiet=True)
+        must([PY, "scripts/voice_witness.py", a.tag, "--write"])
+        must([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"], quiet=True)
     # THE MERGE CREATES TAILS THE MOVE ALREADY WALKED PAST, so step 5 has to run again.
     # CLAUDE.md rule 6 states the mirror of this (re-run the merge after the move) and rule 8
     # states the general form (re-run a tool when a later pass changes its input); neither was
@@ -215,8 +239,8 @@ def main():
     # shape, that measurement does not cover it, and ep18's 1:32:59 is the case. Leaving it
     # for an ear is rule 8; moving it would be a guess dressed as a tool.
     print("[6c/8] the merge created new adjacency, so move and merge again")
-    run([PY, "scripts/move_hanging_words.py", a.tag, "--camera-veto", "--write"])
-    run([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"], quiet=True)
+    must([PY, "scripts/move_hanging_words.py", a.tag, "--camera-veto", "--write"])
+    must([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"], quiet=True)
     # OWNER'S DECISION 2026-09-16: a contentless backchannel inside one speaker's run is
     # removed rather than attributed. Their words: "actually anything offscreen, and the
     # word is just not adding in to anything, we can just safely omit?" The reason it cannot
@@ -225,13 +249,20 @@ def main():
     # camera can see. Runs AFTER the merge because before it a backchannel's neighbour is
     # often another fragment rather than the speaker's own block.
     print("[6d/8] drop contentless backchannels that sit inside one speaker's run")
-    run([PY, "scripts/drop_orphan_backchannels.py", a.tag, "--write"])
-    run([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"], quiet=True)
+    must([PY, "scripts/drop_orphan_backchannels.py", a.tag, "--write"])
+    must([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"], quiet=True)
     print("[7/8] reviewed name maps, corpus-wide")
-    run([PY, "scripts/fix_proper_nouns.py", "--write"], quiet=True)
-    run([PY, "scripts/fix_yb_honorific.py", "--write"], quiet=True)
+    must([PY, "scripts/fix_proper_nouns.py", "--write"], quiet=True)
+    must([PY, "scripts/fix_yb_honorific.py", "--write"], quiet=True)
+    # 7b. The owner sometimes corrects the WORDS, not the name, and a rebuild takes MAI's
+    # spelling back. ep34 2:04:29 lost the dictated figure `0.0179` this way on 2026-09-14
+    # and AGAIN on 2026-09-16, because the restore was done by hand both times instead of
+    # by a step. check_owner_decisions.py cannot see it: the text is one token and
+    # lib_locate needs three.
+    print("[7b/8] restore any owner-dictated word the rebuild reverted")
+    must([PY, "scripts/check_owner_text.py", a.tag, "--write"])
     print("[8/8] rewrite the navigation header (a rebuild wipes it) and verify")
-    run([PY, "scripts/write_navigation.py", "--write"], quiet=True)
+    must([PY, "scripts/write_navigation.py", "--write"], quiet=True)
     run([PY, "scripts/check_owner_decisions.py", a.tag, str(raw), "--current", str(current)])
     report(a.tag, raw, reference)
     if fold_refused:

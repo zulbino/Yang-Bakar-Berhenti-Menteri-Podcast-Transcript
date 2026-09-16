@@ -227,7 +227,22 @@ def force_labels(lines, tag):
         if found["ambiguous"]:
             print(f"  WARNING: {r['text']!r} has a second equally good match; "
                   "the stamp picked this one")
-        for i in found["blocks"]:
+        targets = found["blocks"]
+        if r.get("label_only"):
+            # The ruled turn is one or two tokens, so lib_locate cannot find it on its own
+            # (MIN_TOKENS is 3) and every anchor long enough to locate it reaches into a
+            # neighbour belonging to a DIFFERENT speaker. The existing trick -- anchor into
+            # a neighbour that ALREADY carries the ruled name, so the loop below skips it --
+            # needs such a neighbour to exist, and for ep39, ep40 and ep42 both sides are
+            # the other speaker. Relabelling them would be a new defect. So the anchor
+            # locates the region and this picks the one block whose body is exactly the
+            # ruled words. It refuses rather than guess if that is not exactly one block.
+            targets = [i for i in targets
+                       if doc.blocks[i][2].strip() == r["label_only"].strip()]
+            if len(targets) != 1:
+                sys.exit(f"REFUSING: label_only {r['label_only']!r} matches {len(targets)} "
+                         f"blocks inside the anchor {r['text']!r}, not exactly one")
+        for i in targets:
             stamp, label, body = doc.blocks[i]
             if r.get("split_at_words") and r["text"] in body and body.strip() != r["text"]:
                 # MAI fused the owner's turn with its neighbour ("Itu jelah kot. Okey eh,

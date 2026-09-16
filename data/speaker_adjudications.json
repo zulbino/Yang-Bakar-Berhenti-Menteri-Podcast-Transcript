@@ -372,7 +372,10 @@
    "was": "Speaker ?",
    "text_was": "Walau tak, Mummy button badge kitchen. Oh kitchen. Eh tapi yang ni bukan kitchen, yang ni pakai. Pakai.",
    "text_now": "Walau tak, Mummy button badge keychain. Oh keychain. Eh tapi yang ni bukan keychain, yang ni pakai. Pakai.",
-   "_note": "OWNER: 'Rafizi. Not kitchen, keychain.' NOTE THE ADJACENT BLOCK: [15:01] carries the same mishearing twice -- 'Kan kitchen ada pakai? Yang itu kitchen. Yang itu button badge.' -- in the same merch exchange. It is NOT changed here, because the owner's correction named this block and changing words is the one operation that must never be extended by inference. Flagged for one yes."
+   "_note": "OWNER: 'Rafizi. Not kitchen, keychain.' NOTE THE ADJACENT BLOCK: [15:01] carries the same mishearing twice -- 'Kan kitchen ada pakai? Yang itu kitchen. Yang itu button badge.' -- in the same merch exchange. It is NOT changed here, because the owner's correction named this block and changing words is the one operation that must never be extended by inference. Flagged for one yes.",
+   "anchor_was": "button badge kitchen. Oh, kitchen. Eh, tapi yang ini bukan kitchen",
+   "anchor_now": "button badge keychain. Oh, keychain. Eh, tapi yang ini bukan keychain",
+   "anchor_note": "RE-ANCHORED 2026-09-16. The owner's `text_was`/`text_now` above are untouched: they record what they dictated. A later MAI rebuild respelled the words around the correction, so the full sentence matched nothing and check_owner_text.py read the record as CLEARED while `keychain` had in fact been reverted to `kitchen` in five places. These two keys carry the same correction written against the words raw.md holds now, so a future revert is reported instead of being invisible."
   },
   "15:19": {
    "who": "Rafizi",
@@ -403,7 +406,10 @@
    "was": "Rafizi",
    "text_was": "Kan kitchen ada pakai? Yang itu kitchen. Yang itu button badge.",
    "text_now": "Kan keychain ada pakai? Yang itu keychain. Yang itu button badge.",
-   "_note": "OWNER, 2026-08-30: 'second is kitchen -> keychain'. The label was never in doubt; only the word. Deliberately left alone when the adjacent [14:52] was corrected, because the owner's correction named that block and a word change must not be extended by inference to a block they did not name. Held one day, then asked. Both patterns are in fix_proper_nouns.py anchored on the full phrase, because `kitchen` is a real kitchen elsewhere in the corpus -- ep22 thanks the kitchen crew. The three published files already read `keychain` here: the rewrite inferred it from the surrounding merch talk, so this fix was raw.md only and needed no regeneration."
+   "_note": "OWNER, 2026-08-30: 'second is kitchen -> keychain'. The label was never in doubt; only the word. Deliberately left alone when the adjacent [14:52] was corrected, because the owner's correction named that block and a word change must not be extended by inference to a block they did not name. Held one day, then asked. Both patterns are in fix_proper_nouns.py anchored on the full phrase, because `kitchen` is a real kitchen elsewhere in the corpus -- ep22 thanks the kitchen crew. The three published files already read `keychain` here: the rewrite inferred it from the surrounding merch talk, so this fix was raw.md only and needed no regeneration.",
+   "anchor_was": "Ke kitchen ada pak- eh. Yang itu keychain. Kitchen ha.",
+   "anchor_now": "Ke keychain ada pak- eh. Yang itu keychain. Keychain ha.",
+   "anchor_note": "RE-ANCHORED 2026-09-16. The owner's `text_was`/`text_now` above are untouched: they record what they dictated. A later MAI rebuild respelled the words around the correction, so the full sentence matched nothing and check_owner_text.py read the record as CLEARED while `keychain` had in fact been reverted to `kitchen` in five places. These two keys carry the same correction written against the words raw.md holds now, so a future revert is reported instead of being invisible."
   }
  },
  "ep61_farhan_restore": {

@@ -131,7 +131,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [11:43] Rafizi: Besar pasak daripada tiang. Jahanam negara macam ini. Wah.
 
-[11:48] Haziq: Tapi Babi.
+[11:48] Haziq: Tapi YB.
 
 [11:49] Farhan (Pa'an): Ramai-ramai orang buat komen. Dia kata kan sebelum ni bukan main lagi berpeluk-peluk semua tu kan. Now dah start bertikam lidah pula.
 

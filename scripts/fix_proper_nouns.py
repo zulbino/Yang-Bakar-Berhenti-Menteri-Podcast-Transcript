@@ -719,6 +719,105 @@ CORRECTIONS = [
      "2026-09-15 pass as the Izzah fix and in the very same sentence. Guarded both sides for "
      "consistency with the entry above, though nothing in the corpus contains `Fuziyah` as a "
      "substring."),
+
+    # ------------------------------------------------------------------------------------
+    # `Babi` FOR THE HONORIFIC `YB`, found 2026-09-16. This is the YB-garble family again,
+    # in the one spelling nobody had looked for, and it is the worst one: `babi` is Malay
+    # for pig, so the corpus was putting a slur in a co-host's mouth where he said `YB`.
+    # 59 occurrences of `babi` exist across the corpus. `fix_yb_honorific.py` cannot own
+    # this variant, because that script substitutes a TOKEN corpus-wide and many of the 59
+    # are the real animal: `babi hutan` (ep21, wild boar), `daging babi` (ep33, pork),
+    # `gila babi` (ep28, an intensifier), `Babi-babi tu` (ep40, Animal Farm), and ep55's
+    # nine-occurrence discussion of an actual pork issue in a Johor seat. So each entry
+    # below is an ANCHORED span, read individually before it was written.
+    #
+    # DELIBERATELY NOT FIXED, two spans, because the word is genuinely ambiguous there:
+    #   ep13 20:20  `Inilah yang berlaku minggu ni, babi.` -- spoken in a RAFIZI block, and
+    #               he is the YB, so the vocative reading needs the speaker settled first.
+    #   ep55 51:46  `Johor dah nak habis tempoh dah, Babi eh.` -- this is the episode that
+    #               discusses a pork issue at length, so proximity cuts both ways.
+    # Both need an ear. The rest are certain on the WORDS alone: `baik babi` is not a Malay
+    # phrase, and `Settle, babi?` / `Nak baca babi?` mean nothing as the animal.
+    #
+    # Five of the ten `baik Babi` hits sit in a Rafizi block. That is a LABEL question, not
+    # a word question: `Okey, baik YB` is Haziq's own transition line, already settled as
+    # his by owner rulings in ep53 and ep57, so those blocks are the rule-7 shape. The word
+    # is `YB` either way, which is why these are fixed without waiting on the labels.
+    (r"baik Babi", "baik YB",
+     "10 occurrences: ep28, ep34, ep54, ep56, ep58 x2, ep58, ep59, ep63. The show's own "
+     "transition line, `Okey, baik YB`. `baik babi` is not a Malay phrase."),
+    (r"Okey, baik\. Babi,", "Okey, baik. YB,", "ep54 1:04:22, Haziq. Same line, MAI put a full stop before the vocative."),
+    (r"Baik, Babi,", "Baik, YB,", "ep24 31:41, Haziq: `Baik, YB, kita next.`"),
+    (r"Babi, (\d+) jam (\d+) minit", r"YB, \1 jam \2 minit",
+     "ep45 2:52:10 and ep53 2:56:05, both Haziq reading the running time back to Rafizi."),
+    (r"Settle, Babi\?", "Settle, YB?", "ep57 03:24. Meaningless as the animal."),
+    (r"macam mana Babi\?", "macam mana YB?", "ep27 17:35, Haziq putting a question to him."),
+    (r"Nak baca Babi\?", "Nak baca YB?", "ep34 1:55:30: `Nak baca YB?` offers him the answer to read."),
+    (r"Babi, realistically", "YB, realistically", "ep34 1:30:39, Haziq."),
+    (r"Babi, kalau kena pilih", "YB, kalau kena pilih", "ep56 37:10, Haziq."),
+    (r"So Babi, about this", "So YB, about this", "ep50 25:36, Wan Afiq hosting."),
+    (r"komando tu Babi", "komando tu YB", "ep50 25:36, Wan Afiq, same turn."),
+    (r"Okey, babi\. So saya dibetulkan", "Okey, YB. So saya dibetulkan",
+     "ep50 2:17:50, Wan Afiq. Lower case here, which is why a case-sensitive sweep missed it."),
+    (r"itu saja Babi", "itu saja YB", "ep35 29:45, Haziq: `Ada, itu saja YB.`"),
+    (r"soalan lain lah, Babi", "soalan lain lah, YB", "ep52 1:04:25, Haziq."),
+    (r"yang beria, Babi", "yang beria, YB", "ep47 06:41, Haziq. `beria` is the show's own segment word."),
+    (r"Tapi Babi\.", "Tapi YB.", "ep62 11:48, Haziq, addressing him before Farhan answers."),
+    (r"Babi percaya dengan anti", "YB percaya dengan anti", "ep45 51:55, Haziq asking his view."),
+    (r"Babi kata penting pendidikan", "YB kata penting pendidikan", "ep27 17:35, Haziq summarising his position."),
+    (r"apa Babi yang katalah", "apa YB yang katalah", "ep63 2:56:57, the guest Sum Dek Joe."),
+    (r"Ba- Babi kata tadi", "Ba- YB kata tadi",
+     "ep60 2:46:14, Sum Dek Joe. The false start `Ba-` is MAI hearing the same two letters twice."),
+    (r"Babi tahu satu harga", "YB tahu satu harga", "ep26 04:44, Haziq: `YB tahu satu harga tu berapa?`"),
+    (r"Babi drive sendiri", "YB drive sendiri", "ep19 1:28:32. Meaningless as the animal."),
+
+    # ------------------------------------------------------------------------------------
+    # SLURS THE REWRITE INVENTED, found 2026-09-16 by the same sweep that caught `Babi`.
+    # These are the opposite direction to every entry above: raw.md is RIGHT and the
+    # published interview files are wrong. The rewrite turned a benign word into an insult,
+    # so the corpus quotes real people saying things they did not say. `check_slurs.py` is
+    # the checker; each span below was read against raw.md before it was written.
+    (r"budak bangsat enam angka", "budak bangsa enam angka",
+     "ep15 16:00, interview.md and interview-ms.md. raw.md reads `budak bangsa enam angka`. "
+     "`bangsa` is race or nation; `bangsat` is `bastard`. One letter, added by the rewrite."),
+    # Two literal entries rather than one `([Bb])angsat` group. The group works, because the
+    # applier uses re.subn, but the run report prints the replacement string verbatim and
+    # `\1angsa final` in a log looks like a bug that shipped.
+    (r"Bangsat final", "Bangsa final",
+     "ep51 1:03:30, interview-ms.md x2. raw.md reads `Bangsa final kot. Bangsa final?` in a "
+     "passage about a bandwagon Liverpool fan. `bangsa final` may itself be an ASR garble, "
+     "but raw.md is the source and it does not contain an insult."),
+    (r"bangsat final", "bangsa final", "ep51, the third occurrence in the same passage, lower case."),
+    (r"celaka teruk", "Salawat teruk",
+     "ep16, interview.md and interview-ms.md. raw.md reads `Salawat teruk`. The rewrite "
+     "turned an Islamic blessing into `celaka`, which means cursed or damned. This is the "
+     "most serious of the four, because the substituted word is religious."),
+    (r"\"sial, aku dah berbulan-bulan", "\"damn, aku dah berbulan-bulan",
+     "ep42, interview-ms.md. raw.md reads `Fadina mesti cakap, damn. Aku dah berbulan-bulan "
+     "kena skip`. The speaker used the mild English word; the rewrite replaced it with a "
+     "Malay vulgarity."),
+    # THREE PUBLISHED SPANS THE 22 RAW ANCHORS ABOVE COULD NOT REACH, and `check_slurs.py`
+    # is what found them, on its first run, which is the argument for the checker existing.
+    # The rewrite rephrases around the vocative, so an anchor written against raw.md's
+    # wording misses the published copy of the same sentence.
+    (r"Okay Babi, 2 hours", "Okay YB, 2 hours",
+     "ep45 interview-en.md. raw.md 2:52:10 is now `Okey, YB, 2 jam 50 minit`, and the "
+     "English file says `2 hours 50 minutes`, so the Malay anchor could not match it."),
+    (r"banyak komen tu, babi", "banyak komen tu, YB",
+     "ep50 interview.md. raw.md 25:36 reads `komando tu`, the rewrite reads `komen tu`, so "
+     "again the raw anchor misses. Wan Afiq is hosting and addressing Rafizi."),
+    (r"Okey, babi\. Jadi saya dibetulkan", "Okey, YB. Jadi saya dibetulkan",
+     "ep50 interview-ms.md. raw.md 2:17:50 reads `So saya dibetulkan`, the Malay file reads "
+     "`Jadi saya dibetulkan`."),
+
+    # And one in the other direction: raw.md itself is misspelled here.
+    (r"(?<![Kk])hinzir(?![A-Za-z])", "khinzir",
+     "ep55 raw.md: `macam hinzir itu disebut`. `hinzir` is not a word; `khinzir` is the "
+     "formal Malay for pig, from Arabic, and all five occurrences in ep55's three published "
+     "files spell it correctly. MAI dropped the leading k. The lookbehind is required so "
+     "the already-correct `khinzir` is not turned into `kkhinzir`. NOT a slur finding: the "
+     "speaker really is discussing a pork issue in a Johor seat, which is also why ep55's "
+     "eleven `babi` are left alone."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the

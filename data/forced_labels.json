@@ -13,6 +13,18 @@
    "who": "Rafizi",
    "at": "07:08",
    "why": "OWNER RULING 2026-09-10: keep Rafizi. Recorded at stamp 06:52, frame Rafizi; the words are at 07:08, where the camera shows Haziq. Same drift, same ruling. The following block, 'Air kosong lah.', is left as the camera has it -- no owner decision covers it, and a ruling is not extended by inference."
+  },
+  {
+   "text": "Aaa duit tu.",
+   "who": "Rafizi",
+   "at": "2:00:49",
+   "why": "OWNER RULING 2026-09-16, row 3 of the 19-row BLIND sample built to measure the one-face lip-sync test. Recorded in data/speaker_adjudications.json under ep61_shortturn_blind_sample_owner_ruled_2026_09_16@2:00:49. The camera credited Haziq because LR-ASD scores the one visible talking face, and the owner heard Rafizi speaking OFF FRAME. 11 of the 19 rows came back wrong this way, which is why the test does not write labels. Three tokens, one unambiguous block. Appended to ep61's two existing rulings from 2026-09-10, which are untouched."
+  },
+  {
+   "text": "Yang penting ialah how do you move forward",
+   "who": "Rafizi",
+   "at": "2:18:57",
+   "why": "OWNER CONFIRMATION 2026-09-12, recorded as ep61_owner_reading_2026_09_12@2:19:00: *yes the speech is by rafizi*. It was contested because the camera splits the first three seconds, Haziq 1s and Rafizi 1s. Same latent defect as the ep58 entry above: the confirmation was never written here, and this rebuild labelled the block Haziq, so the gate refused. The owner's quoted text starts mid-sentence at 'daripada', and the block is one sentence ending in '?', so rule 7 gives the whole block to Rafizi. The following block 'Dan dia tak boleh bagi buta-buta saja.' is already Rafizi."
   }
  ],
  "ep53": [
@@ -159,5 +171,96 @@
    "at": "23:39",
    "why": "OWNER RULING 2026-09-16, the same ruling as the rule above: their quote ends `soalan pertama dari...`, so the parliamentary question Haziq reads out is his. MAI word times put it at 1419-1435s and the camera reads Haziq across 23:41-24:01. The block that CONTINUES it, `permulaan prasekolah kepada 5 tahun...` at 23:47, is already Haziq in the candidate, so this rule joins a torn sentence rather than splitting one. move_hanging_words.py had reported this same boundary as TOO LONG TO MOVE at 14 words and printed `read it`, which was the correct refusal: the tail is not a tail, the whole question is Haziq's."
   }
- ]
+ ],
+ "ep23": [
+  {
+   "text": "Taklah jauh sangat tapi. Oh ya, hotel.",
+   "who": "Rafizi",
+   "at": "1:44:21",
+   "why": "OWNER RULING 2026-09-16, row 6 of the 19-row BLIND sample built to measure the one-face lip-sync test. Recorded in data/speaker_adjudications.json under ep23_shortturn_blind_sample_owner_ruled_2026_09_16@1:44:21. The camera credited Haziq because LR-ASD scores the one visible talking face, and the owner heard Rafizi speaking OFF FRAME. 11 of the 19 rows came back wrong this way, which is why the test does not write labels. The ruled words are three tokens and have a second equally good match, so the anchor reaches back into the preceding block, which is ALREADY Rafizi and is therefore skipped. Exactly one block changes."
+  }
+ ],
+ "ep30": [
+  {
+   "text": "Kita tunggu perkembangan-perkembangan.",
+   "who": "Farhan (Pa'an)",
+   "at": "2:27:36",
+   "label_only": "Kita tunggu perkembangan-perkembangan.",
+   "why": "OWNER RULING 2026-09-16, row 2 of the 19-row BLIND sample built to measure the one-face lip-sync test. Recorded in data/speaker_adjudications.json under ep30_shortturn_blind_sample_owner_ruled_2026_09_16@2:27:36. The camera credited Haziq because LR-ASD scores the one visible talking face, and the owner heard Farhan (Pa'an) speaking OFF FRAME. 11 of the 19 rows came back wrong this way, which is why the test does not write labels. Rafizi's preceding block says almost the same words ('...dalam tahun 2026'), so the locate is ambiguous and the stamp breaks the tie. label_only makes that safe: it writes only the block whose body is EXACTLY these words, and refuses if the tie-break landed on Rafizi's longer block instead."
+  }
+ ],
+ "ep32": [
+  {
+   "text": "The syllabus. Maksudnya syllabus.",
+   "who": "Rafizi",
+   "at": "1:34:01",
+   "why": "OWNER RULING 2026-09-16, row 15 of the 19-row BLIND sample built to measure the one-face lip-sync test. Recorded in data/speaker_adjudications.json under ep32_shortturn_blind_sample_owner_ruled_2026_09_16@1:34:01. The camera credited Farhan (Pa'an) because LR-ASD scores the one visible talking face, and the owner heard Rafizi speaking OFF FRAME. 11 of the 19 rows came back wrong this way, which is why the test does not write labels. Two tokens alone, so the anchor spans the preceding block, already Rafizi and skipped. The owner heard Rafizi answer his own question 'Maksudnya apa dia?'."
+  }
+ ],
+ "ep34": [
+  {
+   "text": "setuju dengan jawapan tu? Tak setujulah.",
+   "who": "Haziq",
+   "at": "1:56:47",
+   "why": "OWNER RULING 2026-09-16, row 9 of the 19-row BLIND sample built to measure the one-face lip-sync test. Recorded in data/speaker_adjudications.json under ep34_shortturn_blind_sample_owner_ruled_2026_09_16@1:56:47. The camera credited Rafizi because LR-ASD scores the one visible talking face, and the owner heard Haziq speaking OFF FRAME. 11 of the 19 rows came back wrong this way, which is why the test does not write labels. Two tokens alone. The anchor spans Haziq's own preceding question, so that block is skipped and only the ruled turn changes."
+  }
+ ],
+ "ep39": [
+  {
+   "text": "mafia itu tak ada RCI. Ya.",
+   "who": "Haziq",
+   "at": "2:15:44",
+   "label_only": "Ya.",
+   "why": "OWNER RULING 2026-09-16, row 14 of the 19-row BLIND sample built to measure the one-face lip-sync test. Recorded in data/speaker_adjudications.json under ep39_shortturn_blind_sample_owner_ruled_2026_09_16@2:15:44. The camera credited Iqbal because LR-ASD scores the one visible talking face, and the owner heard Haziq speaking OFF FRAME. 11 of the 19 rows came back wrong this way, which is why the test does not write labels. One token, and BOTH neighbours are Rafizi, so no anchor can reach an already-correct block. label_only exists for this shape. This row put words in a named GUEST's mouth, the worst class of error, so it is applied first."
+  }
+ ],
+ "ep40": [
+  {
+   "text": "selalunya kedai makan. Kedai makan.",
+   "who": "Haziq",
+   "at": "1:01:38",
+   "label_only": "Kedai makan.",
+   "why": "OWNER RULING 2026-09-16, row 5 of the 19-row BLIND sample built to measure the one-face lip-sync test. Recorded in data/speaker_adjudications.json under ep40_shortturn_blind_sample_owner_ruled_2026_09_16@1:01:38. The camera credited Farhan (Pa'an) because LR-ASD scores the one visible talking face, and the owner heard Haziq speaking OFF FRAME. 11 of the 19 rows came back wrong this way, which is why the test does not write labels. Two tokens, both neighbours Rafizi. The anchor's own block contains 'kedai makan' inside a longer sentence, so exact-body matching is what separates them."
+  }
+ ],
+ "ep42": [
+  {
+   "text": "I put my neck, I'm waiting for saman. Yep.",
+   "who": "Haziq",
+   "at": "1:30:33",
+   "label_only": "Yep.",
+   "why": "OWNER RULING 2026-09-16, row 18 of the 19-row BLIND sample built to measure the one-face lip-sync test. Recorded in data/speaker_adjudications.json under ep42_shortturn_blind_sample_owner_ruled_2026_09_16@1:30:33. The camera credited Zikri Kamarulzaman because LR-ASD scores the one visible talking face, and the owner heard Haziq speaking OFF FRAME. 11 of the 19 rows came back wrong this way, which is why the test does not write labels. One token, both neighbours Rafizi, and a SECOND identical 'Yep.' sits three seconds later at 1:30:36 which the owner did not rule. The anchor is tight enough to exclude it, and label_only refuses if it caught both. Words in a named GUEST's mouth, so applied first."
+  }
+ ],
+ "ep43": [
+  {
+   "text": "Okey. Selamat. Selamatlah.",
+   "who": "Haziq",
+   "at": "2:34:53",
+   "why": "OWNER RULING 2026-09-16, row 7 of the 19-row BLIND sample built to measure the one-face lip-sync test. Recorded in data/speaker_adjudications.json under ep43_shortturn_blind_sample_owner_ruled_2026_09_16@2:34:53. The camera credited Rafizi because LR-ASD scores the one visible talking face, and the owner heard Haziq speaking OFF FRAME. 11 of the 19 rows came back wrong this way, which is why the test does not write labels. MAI splits the one utterance over three blocks and all three are Rafizi, so the ruled text locates all three at once. That is the owner's whole ruling, and three is MAX_FORCED_BLOCKS exactly."
+  }
+ ],
+ "ep49": [
+  {
+   "text": "Sebab ini penipuan.",
+   "who": "Rafizi",
+   "at": "1:10:15",
+   "why": "OWNER RULING 2026-09-16, row 11 of the 19-row BLIND sample built to measure the one-face lip-sync test. Recorded in data/speaker_adjudications.json under ep49_shortturn_blind_sample_owner_ruled_2026_09_16@1:10:15. The camera credited Nik Nazmi because LR-ASD scores the one visible talking face, and the owner heard Rafizi speaking OFF FRAME. 11 of the 19 rows came back wrong this way, which is why the test does not write labels. Three tokens, one unambiguous block. Words in a named GUEST's mouth, so applied first: this is Rafizi quoting what was said TO Anwar, not Nik Nazmi speaking."
+  }
+ ],
+ "ep58": [
+  {
+   "text": "Yang itu nampak dah start lah kan. Okey.",
+   "who": "Haziq",
+   "at": "47:25",
+   "why": "OWNER RULING 2026-09-16, row 1 of the 19-row BLIND sample built to measure the one-face lip-sync test. Recorded in data/speaker_adjudications.json under ep58_shortturn_blind_sample_owner_ruled_2026_09_16@47:25. The camera credited Rafizi because LR-ASD scores the one visible talking face, and the owner heard Haziq speaking OFF FRAME. 11 of the 19 rows came back wrong this way, which is why the test does not write labels. One token. Both neighbours are already Haziq, so a spanning anchor is enough and label_only is not needed."
+  },
+  {
+   "text": "yang tidak mahu diterangkan oleh Sanusi",
+   "who": "Rafizi",
+   "at": "1:21:01",
+   "why": "OWNER CONFIRMATION 2026-09-12, recorded as ep58_owner_reading_2026_09_12@1:21:04: *yes this is Rafizi. correct*. It was contested because the camera has no opinion in the first three seconds and gives Haziq one second across the window. NOT RECORDED HERE UNTIL 2026-09-16, and that was a latent defect rather than a choice: a confirmation only survived while the next rebuild happened to agree. This rebuild did not, the candidate gave the whole block to Haziq, and the step-2 gate refused the adoption. The block is one continuous sentence, so rule 7 gives all of it to Rafizi, not only the words from 'i- ha' that the owner quoted."
+  }
+ ],
+ "_label_only": "An optional field on a rule. The ruled turn is one or two tokens, so lib_locate cannot find it (MIN_TOKENS is 3), and every anchor long enough to locate it spans a neighbour belonging to a DIFFERENT speaker, which force_labels would relabel. `text` then carries the ANCHOR and `label_only` the exact body to relabel inside it. It refuses unless exactly one located block matches. Added 2026-09-16 for ep39, ep40 and ep42, where both neighbours are the other speaker."
 }

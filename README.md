@@ -147,7 +147,7 @@ episodes/
 │       ├── interview.md                 # polished Q&A rewrite, mixed language
 │       ├── interview-en.md              # English translation
 │       └── interview-ms.md              # Bahasa Melayu translation
-└── yang-berhenti-menteri/               # 2025 rename onward, 61 episodes
+└── yang-berhenti-menteri/               # 2025 rename onward, 64 episodes
     └── 2025-09-12-ep13-.../             # same 4 files per episode
 data/
 └── manifest.json                        # episode index (metadata only, no transcript text)
