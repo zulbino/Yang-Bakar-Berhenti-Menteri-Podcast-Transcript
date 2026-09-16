@@ -179,7 +179,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:21:17] Rafizi: Conditioner. Conditioner tu nampak berfungsi lah.
 
-[1:21:20] Farhan (Pa'an): Betul, betul, betul.
+[1:21:20] Speaker ?: Betul, betul, betul.
 
 [1:21:20] Rafizi: Kalau tidak, dia bukan lagi lagi botak ke? Tu nampak.
 

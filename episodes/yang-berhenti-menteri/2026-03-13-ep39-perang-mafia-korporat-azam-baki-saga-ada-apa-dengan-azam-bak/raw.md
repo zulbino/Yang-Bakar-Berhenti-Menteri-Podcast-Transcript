@@ -39,7 +39,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [01:52] Rafizi: Da- daddy issues. Daddy issues. Faham. Okey, ini salah satunya.
 
-[01:55] Iqbal: Faham, faham.
+[01:55] Speaker ?: Faham, faham.
 
 [01:57] Rafizi: So daddy issue jugalah. Okey, alright.
 

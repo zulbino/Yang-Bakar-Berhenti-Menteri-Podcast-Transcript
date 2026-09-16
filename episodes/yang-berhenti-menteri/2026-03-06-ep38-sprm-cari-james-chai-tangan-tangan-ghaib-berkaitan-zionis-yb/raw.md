@@ -121,7 +121,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [16:02] Rafizi: Jadi bayangkanlah kan, Perikatan Nasional ni. Daripada krisis yang tidak ada pengerusi. Pengerusi tu selalunya dilihat sebagai calon Perdana Menteri lah kan. Jadi krisis itu berpanjangan. Tapi akhirnya masing-masing lah penyokong PN ni tepuk tangan, Alhamdulillah krisis ini telah selesai kan. Dr. Sam telah jadi pengerusi PN. Ingat ke dah habis daripada krisis tiada pengerusi PN, sekarang krisis tiada calon, bukan sesiapa calon Perdana Menteri pula kan. Jadi menyelesaikan krisis aa untuk melantik pengerusi PN itu membuka kepada satu lagi krisis, iaitu kau bukan calon, aku pun bukan calon. Jadi aa semua ni aa dia dah jadi macam ribet kanak-kanak Rabina sekali lagilah kan. Jadi yang lawaknya bila antara kenyataan pertama Dr. Shamsuri ini yang dikatakan teknokrat, yang dikatakan tenang yalah macam kanak-kanak tadika. Ha, sebab Tan Sri Muhyiddin, saya ingat Tan Sri Muhyiddin yang katalah kan bahawa jawatan pengerusi PN itu bukan semestinya calon PM.
 
-[17:35] Haziq: Ya, betul.
+[17:35] Speaker ?: Ya, betul.
 
 [17:36] Rafizi: Tapi saya tak tak ingat Tan Sri Muhyiddin akan apa nama, sangka yang Dr. Shamsuri ni akan jawablah. Apa nama ni, kalau saya bukan calon PM, Tan Sri pun yang pasti Tan Sri Muhyiddin pun bukan juga calon PM. Actually, calon PM ni siapa-siapa boleh mencalonkan diri mereka jadi PM. Ha, sebab calon PM ni, aa siapa yang berminat boleh sajalah. Dapat ke tidak tu tak tentu. Dia bergantung kepada keputusan pilihan rakyatlah dalam pilihan raya kan. Jadi saya harap mereka teruskan beginilah. Engkau bukan, aku pun bukan kan. Lepas ni, kalau bukan Dr. Shamsuri, bukan aa Tan Sri Muhyiddin, PN ni siapa calon? Senyap-senyap Kona baring kut belakang datang Azmin Ali.
 
@@ -341,7 +341,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:19:45] Rafizi: Ha, itu dulu masa tahun 90-an, ada satu chapter dalam maths kan. Nama dia penakulan mantik. Aku pun tak faham. Basically inference. Inference. Siapalah yang pergi terjemahkan jadi penakulan mantik tu kan. So, if you infer, you know, orang yang selalu serang aku kata dia ni bukan team player, dia ingat dia je pandai, dia ingat dia je yang betul kan. You infer the same thing kepada semua yang berlaku dalam kerajaan sekarang. Maknanya semua orang lain salah, semua ada masalah. Yang betul hanyalah Azam Baki. Ha. Kan. Baik. Saya saya ulas yalah pasal rentetan beberapa perkara yang berlaku lah kan. Kalau kita ingat berita mengenai Toh Puan Naimah dan keluarga arwah Tun Daim ni, cuba jatuhkan kerajaan ini, dia keluar pada pagi Jumaat lepas.
 
-[1:20:57] Haziq: Ya, betul.
+[1:20:57] Speaker ?: Ya, betul.
 
 [1:20:57] Rafizi: Yang contoh kita podcast YB telefon berdering-dering. Semua orang, semua orang kejar aku. Wartawan-wartawan ingat akulah yang dalang yang cuba menjatuhkan kerajaan. Jahat betul dia orang ni kan. Aku hanyalah dalang kepada kucing-kucing. Ingat Jumaat. Ya. Apa signifikan Jumaat yang lepas? Pada waktu pagi itu, apa significant-nya?
 

@@ -387,7 +387,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [37:03] Rafizi: No, no. 10 tahun. I think he's he dia faham apa yang saya cuba dapatkan. Betul. Ha okey. From the angle. Soalan saya tu sebenarnya nak dapatkan pengesahan daripada Saifuddin atas 2 perkara. 1 ialah dia ada berjumpa dengan saya pada 1 Disember 2025. So dia sahkanlah. Dia tak nafikan tu. Betul. Dia tak nafikan. Yang kedua, saya nak dia sahkan secara tidak langsung ada maklumat diberi. Ah, okey. So bila tengok jawapan dia, saya rasa Saifuddin fikir panjang macam mana aku nak pelepas ni. Kalau aku cakap nanti bahaya, nanti kecoh satu dunia. Jadi cara pelepasnya ialah dia tidak, dia sebenarnya mengesahkan bahawa dua perkara yang saya nak tadi. Bahawa perjumpaan itu ada dan dia memang ada bagi maklumat mengenai sudut siasatan, perkembangan siasatan yang menjurus kepada dalang di sebalik serangan. That's all that I need. Ha kan. So saya pun manusia jugalah. Saya tahu kalau nak harap Saifuddin ni bergalang nyawa untuk aku, tak adalah. Kan. Lagipun anak aku, bukan anak dia kan. Betul. Tapi okeylah. I'm more than happy. Okey. I'm more than happy. Masalahnya nanti ialah pandangan rakyatlah. Sebab mungkinlah saya orang politik, jadi saya boleh terimalah kesusahan Menteri Dalam Negeri, kesusahan PDRM semua ni kan. Bolehlah saya terima. Tapi di mata rakyat ialah kalau satu benda tu tak pernah berlaku.
 
-[38:46] Wong Chen: Betul.
+[38:46] Speaker ?: Betul.
 
 [38:46] Rafizi: Dia bukan saja tak pernah berlaku di Malaysia, dia tak pernah berlaku di Asia Tenggara. Besar kemungkinan tak pernah berlaku di Asia. Tak ada tau anak politician kena serang sebab bapa dia. Anak muda. Anak muda, budak tau, umur 11 tahun. Budak budak. Tak pernah berlaku kan. Kalau ada pun anak orang kena, sebab anak dia tu memang politician. Kan dah besar, umur 40, 50 tahun, ah kenalah kan. Tapi budak ni tak pernah berlaku. Jadi di mata rakyat ialah, eh, kalau dah 6 bulan tak ada dengar cerita, tak ada perkembangan semua ni. Ni anak bekas menteri, anak bekas Timbalan Presiden PKR ni. Ya, betul. Kan? Maksudnya benda- Kalau orang biasa bila? Kalau orang biasa lagi. Lagi tak ada fokus. Lagi tak ada fokus kan. Jadi akhirnya yang beban itu bukan beban saya. Beban itu ialah beban Saifuddin dengan Anwar Ibrahim lah. Sebab itu saya kata pagi tadi kan, saya kata tak apalah saya bagi masa sedikit lagi kalau tak ada perkembangan langsung. Sebab saya tak pernah dapat tau maklum balas, update. Dia tak tak pernah beritahu pun apa yang berlaku dengan kes ini. Saya, wartawan selalu tanyalah, media selalu tanya YB apa? Saya kata I don't have the details. Jadi kadang-kadang pihak media yang bagi details tu daripada 1 2 sidang media yang PDRM buat kan. Jadi kalau 2 3 bulan lagi ke tengok macam tak ke mana, saya akan tulis surat kepada Perdana Menteri sebab ha, sebab Anwar Ibrahim dulu yang awal-awal jadi tu mesti kita mesti siasat dengan telus dan bersungguh-sungguh. Ni dah 7 bulan, 6 bulan ni kan. Selagi perkara ini langsung tak tahu ke mana hujung pangkal, malulah Anwar Ibrahim, malulah Saifuddin kan. Sebab ini bukan anak orang lain ni. Ini anak saya yang ada sejarah yang panjang bukan saja dengan PKR, tetapi dengan Saifuddin dan juga Anwar Ibrahim. Jadi saya akan tulis surat mengesyorkan supaya tak apalah sebagai bapa, saya mengesyorkan supaya siasatan ditutup. No further action lah. Tak payah buat susah-susah lah. Sebab kalau tak, kesian kepada pegawai-pegawai kat bawah ni, terutamanya bila saya dah dapat gambaran sebenarnya daripada Saifuddin sudut siasatan dia macam mana.
 
@@ -563,7 +563,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:18:12] Rafizi: DH dengan MalaysiaKini je laporkan kan?
 
-[1:18:15] Haziq: Betul.
+[1:18:15] Speaker ?: Betul.
 
 [1:18:15] Rafizi: Yang lain tak ada laporkan.
 
@@ -607,7 +607,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:21:38] Wong Chen: Dan juga laporan Ketua Audit Negara semua kan. But syarikat tu memang under the radar lama lah. You know, masa kita dalam opposition, this was one of the core issue we have to deal with lah. Right? So yalah. Jadi according to Bloomberg report, 2023 looks like we have the political will to do something.
 
-[1:22:01] Rafizi: Right?
+[1:22:01] Speaker ?: Right?
 
 [1:22:02] Wong Chen: But tiba-tiba u-turn lah. 2024. So kita tak faham lah what is the the reason behind it. But bila I baca report ni, yalah I I sukalah baca cerita tentang orang yang masuk sini. I can't remember the name lah. Dia mati, dia pinjam duit. Ya, ya, ya, ya. These are real, you know. Sebab komiti saya, kita banyak migrant worker punya isu, refugee issue. These are real problems.
 
@@ -711,7 +711,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:57:27] Rafizi: Kita dah naik tier 2 lah kot sekejap kan. I think we are tier 2 now lah. Kita in- Not this kind of case lah. Now dia jadi balik lah. Kita masa kita inherit, kita come into government, kita tier 3. Tier 3 ni maksudnya ada amalan-amalan yang berbaur diskriminasi, manipulasi dan juga perdagangan manusia dan penghambaan buruh. Ha, jadi sebab itu kalau ingat, ada satu ketika even Syam Dabi pun hampir kena sanction.
 
-[1:57:57] Wong Chen: Ya, betul.
+[1:57:57] Speaker ?: Ya, betul.
 
 [1:57:58] Rafizi: So, effect dia besar lah kan.
 
@@ -893,7 +893,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:22:43] Wong Chen: Ya. Sebab dia, dia di sebelah Forest Reserve Air Hitam. Dan kita dapat a few ques- a few answers lah. Satu-satunya daripada Exco Exco Jamalia. Dia tulis, eh, sebenarnya tanah ni dah di- di-degazet daripada forest reserve tahun 1926. Aku tak tahu ada kerajaan 1926.
 
-[2:23:08] Rafizi: Right?
+[2:23:08] Speaker ?: Right?
 
 [2:23:08] Wong Chen: But it doesn't answer the question. Soalan kita ialah why why a map 1950, 1952, 1975 semua tunjuk bahawa it's still part of a forest reserve. And how did this J-KOM come to own? Macam mana dia boleh dapat tanah ni? 169 ekta, ekar ni. Jadi bila kita, kita minta data, data semua, tak bagi.
 
@@ -931,7 +931,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:26:30] Rafizi: Let me, because benda ni perkara biasalah kan. Maksudnya kerajaan negeri jual tanah milik negeri Kepada syarikat swasta.
 
-[2:26:45] Wong Chen: Betul.
+[2:26:45] Speaker ?: Betul.
 
 [2:26:45] Rafizi: So dia dah jadi milik syarikat swasta. So bila dia dah jadi milik syarikat swasta tu, lama-lama dia nak monetize lah, dia nak bangunkan lah. Betul. Jadi, apa option yang ada kepada kerajaan negeri kecuali beli balik?
 

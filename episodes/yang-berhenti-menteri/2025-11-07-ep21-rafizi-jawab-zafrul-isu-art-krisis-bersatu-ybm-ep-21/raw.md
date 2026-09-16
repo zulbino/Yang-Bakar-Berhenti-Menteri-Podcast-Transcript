@@ -33,7 +33,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [02:52] Dr. Rais Hussin: How are you, Datuk?
 
-[02:53] Haziq: Alhamdulillah.
+[02:53] Speaker ?: Alhamdulillah.
 
 [02:54] Dr. Rais Hussin: Thank you for having me.
 
@@ -99,7 +99,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [18:29] Dr. Rais Hussin: Very much. And Tan Sri Muhyiddin ni is a, to me lah eh, On a personal level eh, he's a very good man. And I have no complaints about him. And semasa dia jadi Perdana Menteri, I have quite easy access to him.
 
-[18:45] Rafizi: Alhamdulillah.
+[18:45] Speaker ?: Alhamdulillah.
 
 [18:46] Dr. Rais Hussin: And if you remember during his PM ship, there was a issue that I cannot support and I was very much against it was 5G. Single wholesale network, which I believe it's a scam. And saya pergi jumpa dia a few times. Dia ta- dia cakap, "Rais, are you aware that this is a, we are doing this?" I say, "Yeah, but it's a scam, Tan Sri. Give me 15 minutes, I will explain to you." And I explain to him why it was a scam. 5G single wholesale network was a failure in every country, in every territory and jurisdiction.
 

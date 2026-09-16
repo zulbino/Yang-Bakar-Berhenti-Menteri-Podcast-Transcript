@@ -91,7 +91,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [05:36] Iqbal: Masuk 11:58 keluar tahun baru.
 
-[05:39] Haziq: Okey, faham.
+[05:39] Speaker ?: Okey, faham.
 
 [05:41] Iqbal: Saya tengok Av- yang Avatar punya movie yang terbaru. Okey. Avatar sekarang dah Avatar 3? Dah ketiga. Selepas.
 
