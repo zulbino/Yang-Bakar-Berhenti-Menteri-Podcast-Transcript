@@ -122,9 +122,17 @@ measured, not assumed: a 19-row blind sample scored the best available test at 1
 does it, from a CLOSED LEXICON, and adoption runs it at step 6d. 169 turns and 193 spoken words
 left the corpus on the first pass.
 
-**The lexicon stops well short of the shape.** `Betul.` (14), `Ya, betul.` (8), `Kan.` (5), `Kan?`
-(4), `Setuju.` (3), `Alhamdulillah.` (3) and `Right?` (2) are NOT in it and need the owner's
-ruling: `Setuju.` is a stance, `Alhamdulillah.` is a religious expression, and `Kan?` is often
+**RULED 2026-09-16: the stance words are KEPT and labelled `Speaker ?`.** Owner: *"leave the 52
+then. think the betul, setuju, kan etc is an answer of their own. and we cant identify whose
+speaking, just leave is Speaker ?"* That is rule 8's own convention applied: the turn carries
+meaning so it stays, and no evidence can name it, so the label is honest rather than wrong. 33
+turns relabelled, spoken words untouched. Several were credited to a named GUEST, which is the
+worse error: Wong Chen, Nik Nazmi, Amir Sahmat, Zaim Zulkifli and Iqbal each lost a false
+attribution. `check_published.py` excludes these from `raw-unnamed-speaker` by reading
+`drop_orphan_backchannels.is_stance`, so the count is not read as unfinished work.
+
+**The second lexicon stops short too.** `Betul.` (14), `Ya, betul.` (8), `Kan.` (5), `Kan?`
+(4), `Setuju.` (3), `Alhamdulillah.` (3) and `Right?` (2) are in STANCE and are kept: `Setuju.` is a stance, `Alhamdulillah.` is a religious expression, and `Kan?` is often
 the main speaker's own tag question (ep18 1:35:02). A further 1197 blocks of this shape carry
 real content and stay. Do not widen the lexicon without the owner: this deletes from the verbatim
 source. Never let a corpus-wide pattern

@@ -431,7 +431,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:10:17] Rafizi: This is our only chance. Kalau you tak jadi PM, lepas ni you tak ada chance lah. So the initial plan consensus yang keliling-keliling masa tu tu ialah untuk demo tengah jalan. So I was like, actually, kalau kita kalah besar-besaran, style contohnya pilihan raya zaman Saddam Hussein.
 
-[1:10:41] Nik Nazmi: Kan?
+[1:10:41] Speaker ?: Kan?
 
 [1:10:42] Rafizi: Mengundi, mengundi, mengundi, dia menang 95% undi kan. Kalau tak berani undi, dia tembak kan. Actually, you know, kalau kita kalah ada penipuan 2013 tu, yalah dia sipi-sipi kan. You mungkinlah ada, ada kelemahan sana sini sikit.
 
@@ -443,7 +443,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:11:23] Rafizi: There could be blood. And I felt like it's very irresponsible kalau, ha ini nak, ha ni nak menjawab jugalah. Ada parallel dia, emosi sebab kalah pilihan raya.
 
-[1:11:34] Nik Nazmi: Kan?
+[1:11:34] Speaker ?: Kan?
 
 [1:11:35] Rafizi: Macam kita emosi kononnya kalah pemilihan sampai merajuk kan. So I was only 36 masa tu tau. So aku tengok and the good thing masa tu Anwar sangat rapat dengan akulah. Usually he took, he listened to me, my counsel semualah zaman-zaman itu.
 
@@ -463,7 +463,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:12:46] Rafizi: Stadium. Sebelum tu kan? Actually, they wanted the next day terus. Actu- dia marah aku lepas tu because when I, I ask you the next day tu, aku suruh kau buang air rabu. Yeah, yeah, yeah, yeah. Not immediately because I wanted 2 3 hari tu supaya things cool down, calm down, dan kita ada perhimpunan dekat Stadium Kelana Jaya tu lah. And sebab itu juga, you know, I told him, dan kita pergi ke negeri-negerilah. Kita buat roadshow negeri-negeri because we needed to calm down and deflate the emotion. Dia sama macam pemilihan yang lepas. Bila benda tu berlaku, emosi anggota ni tinggi tau. And kita boleh minta diorang buat apa saja. Kalau kita orang minta dia berkumpul, dia berkumpul. Kita minta keluar parti ramai-ramai, dia akan keluar parti ramai-ramai kan. Pada masa itu my concern lah ialah to deflate. Sebab itu kita buat Ayuh Malaysia. I needed to, kita perlukan alih perhatian mereka tu kepada sesuatu yang tak toxic, fokus pada orang ramai. Lalu kita buat Ayuh Malaysia kan. Masa itu pun, belum I wasn't considering parti pun kan. Cuma kita dah mula nampaklah sebenarnya dia tak ada live and let live daripada perkara ini kan. Anwar, walaupun selepas kami dah resign semua tu, dia punya bitterness sebab kami resign. Benda tu memang tak sudah kan. Dan apa nama ni, in my case lagi teruklah. Yalah kita sampai kiamat kita tak tahu. Bukan ki- aku tahu siapa. We know semua siapa di belakangnya semua. Tapi pihak berkuasa tak akan sahkan sampai habis lah kan. Dia sampai ke peringkat bila melalui podcast, you know, kita mula bercakap. Dia sampai ke peringkat attacking my son kan. Even then, I I I still leave open that, you know, bila dah keadaan tenang, deflate semua ni, then, you know, myself lah, I don't know about Nick lah. Myself has the option to decide what I want to do next and maybe disappear into the sunset quietly. Ha, sebab I always think that aku dah nak masuk 50 and aku memang nak retire by 60, 60 plus. I don't want to yelah berterusan macam orang lain kan. So maksudnya the window of 10 years before retirement tu kalau you nak land down quietly, disappear into sunset tu okeylah kan. But it's a combination of a few things. Satu ialah keadaan yang makin meruncing mengenai corruption ni. By that time sebenarnya, you know, berita bukti yang berkaitan dengan yang yang tuduhan-tuduhan terhadap Farhash, tuduhan terhadap Rahmanan yang sampai kepada saya.
 
-[1:15:55] Nik Nazmi: Kan.
+[1:15:55] Speaker ?: Kan.
 
 [1:15:55] Rafizi: Kemudian soal SPRM kan. Jadi then masa tu saya dah nampak dah sebenarnya dalam kerajaan DAP ke Amanah ke PKR, nobody will stand up to this kan. Kemudian pada masa yang sama, survey, survey continues. I mean, if anything is just apa nama ni, for my own knowledge untuk beri rasa macam mana kan. Survey begins to point to satu perkara. Consistently, the only dominant pattern from August 2025 ni is the rise of disenfranchised voters.
 
@@ -773,7 +773,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:40:11] Nik Nazmi: Kalau bolehlah semua kan.
 
-[2:40:13] Rafizi: Ya. Betul.
+[2:40:13] Speaker ?: Ya. Betul.
 
 [2:40:14] Nik Nazmi: So benda tu juga menyebabkan ketidaksenangan di kalangan DAP, di kalangan UMNO. Kan so dia, tapi bukan sebab isu dia ialah obsesi untuk jadi PM. Untuk menang itu je.
 

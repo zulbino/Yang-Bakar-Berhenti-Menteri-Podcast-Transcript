@@ -481,7 +481,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [56:21] Rafizi: So actually ya, and apa nama ni, it's because of that lah. But I, I really hated social media. Sebab tu aku resisted untuk ada, ada apa nama ni, X lah, Twitter ni sampai 2010. Ha, sebab to me masa tu lah Facebook semua tu kan. And my Facebook masa tu basically Facebook zaman tu dia tak ada public tau. You only get to see siapa yang kawan kita sajalah, your friends kan. Because this whole idea yang you say what's on your mind and you share dengan the world, bagi aku kurang hajo gila.
 
-[56:59] Zaim Zulkifli: Kan?
+[56:59] Speaker ?: Kan?
 
 [56:59] Rafizi: Kalau kau tak suka orang tu senyap, simpan dalam hati je lah kan. So, but you know that's how society change lah. So I only started basically nak tak nak terpaksa make my social media. Masa tu yang paling banyak tu lah.
 

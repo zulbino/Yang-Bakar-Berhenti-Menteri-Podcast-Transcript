@@ -2388,3 +2388,38 @@ backchannel.
 labelled Iqbal and ep42's `Yep.` labelled Zikri Kamarulzaman. Condition 5 prints them rather
 than removing them silently. Those rulings answered "who said it", not "should it stay", so
 they are a genuine conflict for the owner rather than something to resolve by inference.
+
+
+### The stance turns are kept and labelled `Speaker ?` (2026-09-16)
+
+Owner's ruling on the 52 the drop lexicon deliberately excluded: *"leave the 52 then. think
+the betul, setuju, kan etc is an answer of their own. and we cant identify whose speaking,
+just leave is Speaker ?"*
+
+That is CLAUDE.md rule 8's own convention, applied rather than invented. The turn carries
+meaning, so rule 5 keeps it. No evidence can name it, so the label becomes the repo's
+per-turn unknown instead of a wrong name. `drop_orphan_backchannels.py` grew a second closed
+lexicon, `STANCE`, and a second verdict.
+
+**33 relabelled, not 52.** The 169 drops and the merges that followed changed adjacency, so
+19 of the original 52 no longer sit between two blocks of the same other speaker. The shape
+condition is evaluated on the file as it stands, which is correct.
+
+**Five were credited to a named GUEST, and that is the worse error.** Wong Chen (3), Nik
+Nazmi (4), Amir Sahmat, Zaim Zulkifli and Iqbal each lost a false attribution. Putting
+`Betul.` in a guest's mouth is a claim about a real person; `Speaker ?` is not.
+
+**Guards: labels only.** The relabel refuses unless the exact block line appears once, and
+two separate counters assert the change. One compares every word in the file, expecting only
+the old speaker names to leave. The other compares SPOKEN words alone, because the first
+cannot tell a speaker name from a spoken word. Measured on the real run: 16 files, 0 spoken
+words lost, 0 gained.
+
+**`check_published.py` had to learn about them, and the first attempt was wrong.** Its
+`raw-unnamed-speaker` advice is "identify the speaker", which is exactly what must not
+happen here. It now subtracts the deliberate unknowns by importing
+`drop_orphan_backchannels.is_stance`, so the rule lives in one place and the two cannot
+drift. A first version also emitted its own informational signature, and `qa_check.py`
+folded that in as an issue: the flagged count went 35 to 47 across 16 episodes with nothing
+wrong in any of them. An inflated count is the same defect as a false MISMATCH, so the
+informational line was removed and only the exclusion kept. Back to 35 of 70.

@@ -349,7 +349,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:53:45] Rafizi: Tak boleh compare. Muzium Negara. Eh, Mona Lisa ada kat sini? Ya, situ.
 
-[1:53:49] Haziq: Kan.
+[1:53:49] Speaker ?: Kan.
 
 [1:53:49] Rafizi: Sini ada Mona Lisa kan. Sini saya ingat yang disimpan ni semua beratus-ratus juta. Kalau contohnya harta ahli-ahli politik yang hebat-hebat yang berpuluh-puluh juta tu pergi letak kat Muzium Negara. Banyaklah Ocean Eleven pergi kat Muzium Negara tu. Saya tak tahu Muzium Negara saya ingat tak, tak banyak sangatlah harta-harta ataupun permata intan belian yang mahal-mahal yang ada kat situ kan. Okey, baik YB, clear.
 

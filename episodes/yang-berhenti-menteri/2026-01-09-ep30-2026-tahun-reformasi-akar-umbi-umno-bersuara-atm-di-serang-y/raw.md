@@ -439,7 +439,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:27:10] Haziq: Kita ada berapa minit lagi? Berapa dah? 2 jam 25 minit. Tu berhentilah kot dah.
 
-[2:27:16] Rafizi: Alhamdulillah.
+[2:27:16] Speaker ?: Alhamdulillah.
 
 [2:27:17] Haziq: Alhamdulillah kan. Oh, dia nak adjust. Baik, YB. Kita tunggulah tahun 2026 ni.
 

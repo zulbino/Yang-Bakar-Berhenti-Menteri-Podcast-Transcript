@@ -70,6 +70,17 @@ MAI_MODEL = "microsoft/MAI-Transcribe-2"
 ACK = {"ya", "yaa", "yah", "yeah", "yep", "yup", "yes",
        "ok", "oke", "okey", "okay", "baik", "yalah"}
 
+# SECOND CLOSED LEXICON, and a different verdict. Owner's decision 2026-09-16: *"leave the
+# 52 then. think the betul, setuju, kan etc is an answer of their own. and we cant identify
+# whose speaking, just leave is Speaker ?"* These carry a position rather than a listening
+# signal, so removing them would remove meaning, which CLAUDE.md rule 5 forbids. And no
+# evidence can name them, which is exactly the case rule 8 already has a convention for: a
+# turn no tool can name is `Speaker ?`, never a wrong name and never a cluster id. So the
+# turn STAYS and the label becomes honest.
+STANCE = {"betul", "setuju", "kan", "faham", "jelas", "tepat", "right", "clear", "true",
+          "alhamdulillah", "sedikit"}
+UNKNOWN = "Speaker ?"
+
 DECISION_FILES = ["speaker_adjudications.json", "speaker_video_confirmed.json",
                   "speaker_video_confirmed_ep61_round2.json", "speaker_q_video_confirmed.json",
                   "speaker_from_gold.json", "forced_labels.json",
@@ -83,6 +94,12 @@ def tokens(text):
 def is_backchannel(text):
     tk = tokens(text)
     return bool(tk) and all(t in ACK for t in tk)
+
+
+def is_stance(text):
+    """Carries a position, so it stays, but nothing can name who said it."""
+    tk = tokens(text)
+    return bool(tk) and all(t in ACK | STANCE for t in tk) and any(t in STANCE for t in tk)
 
 
 def short(name):
@@ -134,7 +151,7 @@ def main():
     blocks = BLOCK.findall(text)
     decided = decision_texts(a.tag)
 
-    drop, skipped = [], []
+    drop, unknown, skipped = [], [], []
     for i in range(1, len(blocks) - 1):
         st, who, said = blocks[i]
         before, after = blocks[i - 1][1], blocks[i + 1][1]
@@ -142,25 +159,31 @@ def main():
             continue
         if before != after or short(who) == short(before):
             continue
-        if not said or len(said.split()) > MAX_WORDS or not is_backchannel(said):
+        if not said or len(said.split()) > MAX_WORDS:
+            continue
+        kind = "drop" if is_backchannel(said) else ("unknown" if is_stance(said) else None)
+        if not kind:
             continue
         low = said.lower()
         if any(low == d or low.strip(".?!") == d.strip(".?!") for d in decided):
-            skipped.append((st, who, said))
+            skipped.append((st, who, said, kind))
             continue
-        drop.append((i, st, who, before, said))
+        (drop if kind == "drop" else unknown).append((i, st, who, before, said))
 
-    for st, who, said in skipped:
-        print(f"  SKIPPED, an owner decision names it: [{st}] {who}: {said}")
+    for st, who, said, kind in skipped:
+        print(f"  SKIPPED, an owner decision names it ({kind}): [{st}] {who}: {said}")
     for _, st, who, nbr, said in drop:
         print(f"  drop [{st}] {who}: {said}   (inside a {short(nbr)} run)")
+    for _, st, who, nbr, said in unknown:
+        print(f"  -> {UNKNOWN}  [{st}] {who}: {said}   (inside a {short(nbr)} run)")
 
     words = sum(len(s.split()) for *_, s in drop)
-    print(f"{a.tag}: {len(drop)} orphan backchannel turn(s) to drop, {words} word(s), "
+    print(f"{a.tag}: {len(drop)} orphan backchannel turn(s) to drop, {words} word(s); "
+          f"{len(unknown)} stance turn(s) to relabel {UNKNOWN}; "
           f"{len(skipped)} skipped as owner decisions")
 
-    if not drop or not a.write:
-        if drop:
+    if not (drop or unknown) or not a.write:
+        if drop or unknown:
             print("\n-- dry run, pass --write to apply")
         return 0
 
@@ -182,17 +205,42 @@ def main():
     # The expected loss is the WHOLE removed block, stamp and speaker name included, not
     # just its spoken text. A first version compared only `said` and the guard correctly
     # refused, reporting `Haziq`, `24`, `28` and the rest as unexplained losses.
+    # RELABELLING RUNS AFTER THE REMOVALS and only rewrites the name between the stamp and
+    # the colon. The block's own words are asserted unchanged by the second guard below.
+    for _, st, who, _, said in unknown:
+        old_line, new_line = f"[{st}] {who}: {said}", f"[{st}] {UNKNOWN}: {said}"
+        if out.count(old_line) != 1:
+            sys.exit(f"REFUSING: {old_line!r} appears {out.count(old_line)} time(s), so the "
+                     f"relabel cannot be aimed at exactly one block")
+        out = out.replace(old_line, new_line)
+
     lost = Counter(re.findall(r"[\w'-]+", text)) - Counter(re.findall(r"[\w'-]+", out))
     expect = Counter()
     for _, st, who, _, said in drop:
         expect.update(re.findall(r"[\w'-]+", f"[{st}] {who}: {said}"))
+    for _, _, who, _, _ in unknown:
+        expect.update(re.findall(r"[\w'-]+", who))   # the old name leaves the line
     if lost != expect:
         sys.exit("REFUSING: the words removed are not the words planned. "
                  f"extra={dict(lost - expect)} missing={dict(expect - lost)}")
+
+    # SPOKEN WORDS ARE CHECKED SEPARATELY, because a relabel must not touch one and the
+    # counter above cannot tell a speaker name from a spoken word.
+    said_before = Counter(w for _, _, s in BLOCK.findall(text)
+                          for w in re.findall(r"[\w'-]+", s))
+    said_after = Counter(w for _, _, s in BLOCK.findall(out)
+                         for w in re.findall(r"[\w'-]+", s))
+    dropped = Counter()
+    for *_, s in drop:
+        dropped.update(re.findall(r"[\w'-]+", s))
+    if said_before - said_after != dropped or said_after - said_before:
+        sys.exit("REFUSING: a spoken word changed outside the dropped turns. "
+                 f"lost={dict(said_before - said_after - dropped)} "
+                 f"gained={dict(said_after - said_before)}")
+
     path.write_text(out, encoding="utf-8")
-    spoken = sum(len(re.findall(r"[\w'-]+", s)) for *_, s in drop)
-    print(f"   verified: {len(drop)} whole block(s) removed and nothing else changed; "
-          f"{spoken} spoken word(s) left the file")
+    print(f"   verified: {len(drop)} block(s) removed, {len(unknown)} relabelled "
+          f"{UNKNOWN}, {sum(dropped.values())} spoken word(s) left and none changed")
     print(f"wrote {path}")
     return 0
 

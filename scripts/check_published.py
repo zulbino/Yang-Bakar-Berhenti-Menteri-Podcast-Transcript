@@ -118,6 +118,31 @@ def names_in_label(label):
             if t[0].isupper() and t.lower() not in ROLE_WORDS}
 
 
+def deliberate_unknowns(raw_body):
+    """How many `Speaker ?` turns match the owner's deliberate-unknown shape.
+
+    Imported from drop_orphan_backchannels.py so the rule lives in exactly one place. If
+    that import ever fails this returns 0, which reports MORE rather than fewer, because a
+    missed exclusion is only noise while a wrong exclusion hides a real gap.
+    """
+    try:
+        import drop_orphan_backchannels as dob
+    except Exception:
+        return 0
+    blocks = dob.BLOCK.findall(raw_body)
+    n = 0
+    for i in range(1, len(blocks) - 1):
+        _, who, said = blocks[i]
+        before, after = blocks[i - 1][1], blocks[i + 1][1]
+        if who.strip() != dob.UNKNOWN or before != after:
+            continue
+        if dob.GENERIC.match(before) or not said or len(said.split()) > dob.MAX_WORDS:
+            continue
+        if dob.is_stance(said) or dob.is_backchannel(said):
+            n += 1
+    return n
+
+
 def raw_speaker_names(raw_body):
     names = set()
     for a, b in RAW_LABEL.findall(raw_body):
@@ -172,6 +197,19 @@ def check(ep_dir):
         label = (a or b).strip()
         if GENERIC.match(label):
             raw_generic[label] += 1
+    # A DELIBERATE `Speaker ?` IS NOT A GAP TO CLOSE, and telling a session to "identify the
+    # speaker" for one sends it after something measurably unidentifiable. Owner's decision
+    # 2026-09-16: a stance turn of three words or fewer, sitting between two blocks of the
+    # same other speaker, is labelled `Speaker ?` on purpose, because a 19-row blind sample
+    # scored the best available test at 12 of 19 and every miss was the speaker being off
+    # frame. drop_orphan_backchannels.py owns that rule; this reads its predicate rather
+    # than restating it, so the two can never drift.
+    deliberate = deliberate_unknowns(raw_body)
+    for label, n in list(raw_generic.items()):
+        if label == "Speaker ?":
+            raw_generic[label] -= min(n, deliberate)
+            if raw_generic[label] <= 0:
+                del raw_generic[label]
     if raw_generic:
         shown = ", ".join(f"{k} x{v}" for k, v in raw_generic.most_common(3))
         issues.append((
@@ -179,7 +217,14 @@ def check(ep_dir):
             f"raw.md leaves {sum(raw_generic.values())} turn(s) on a generic label "
             f"({shown}) -- a real person the transcript never names, so every derived file "
             f"inherits it. Fix by identifying the speaker (video frames, the episode "
-            f"description, voiceprints), not by regenerating the rewrite"))
+            f"description, voiceprints), not by regenerating the rewrite"
+            + (f". {deliberate} further `Speaker ?` turn(s) are excluded as the owner's "
+               f"deliberate unknowns, per drop_orphan_backchannels.py" if deliberate else "")))
+    # A DELIBERATE UNKNOWN IS NOT REPORTED AT ALL, not even as an informational line. A
+    # first version emitted its own signature and qa_check folded it in as an issue, taking
+    # the flagged count from 35 to 47 across 16 episodes with nothing wrong in any of them.
+    # An inflated count is the same defect as a false MISMATCH: the next session spends its
+    # time on it. The rule and its measurement live in ARCHITECTURE.md (2026-09-16).
 
     label_sets, name_sets = {}, {}
     for name in DERIVED:
