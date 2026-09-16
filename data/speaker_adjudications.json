@@ -1045,5 +1045,14 @@
    "text_now": "Aaa duit tu.",
    "_note": "OWNER RULED BY EAR AND EYE 2026-09-16, as row 3 of a 19-row BLIND sample built to measure the one-face lip-sync test (ARCHITECTURE.md, 2026-09-16). They were shown the moment and both candidate names, never the test's answer. The speaker was on screen. The test got all 9 on-screen rows right."
   }
+ },
+ "ep55_slur_owner_ruled_2026_09_16": {
+  "_note": "OWNER RULING BY EAR 2026-09-16. Asked directly whether the word was the honorific or the animal, and answered *'its YB not Babi'*. Bare stamp key in an episode-named section, the shape check_owner_decisions.py reads. It carries text_was and text_now, so check_owner_text.py also verifies it on every future rebuild.",
+  "52:35": {
+   "who": "Dato' Dr. Syed Azuan Al-Idrus (DSA)",
+   "text_was": "tempoh dah, Babi eh",
+   "text_now": "tempoh dah, YB eh",
+   "_note": "The word is the honorific. This span was ESCALATED rather than fixed in the first pass, and that was right: MAI heard `Babi eh`, YouTube's own caption track heard `babi nah`, and ep55 spends a long passage on a genuine pork issue in a Johor seat, so eleven other `babi` in this file are real. Two ASR engines agreeing does not settle it -- both read the same audio, so they fail the same way. The link given to the owner was built from the caption track and MAI's word clock, NOT raw.md's stamp, which sits 49 s early at 51:46. https://youtu.be/4mmuPwkB5f4?t=3155 . Applied as an anchored entry in fix_proper_nouns.py so a regeneration of the published files keeps it. The `who` here MUST be raw.md's exact label. My first version wrote `Dato' Dr Syed Azuan Al-Idrus (DSA)`, taken from the published interview spelling, and check_owner_decisions.py reported a MISMATCH on a file that was already correct. CLAUDE.md warns about exactly that: a false MISMATCH is worse than no record, because the next session goes and 'fixes' something that is right."
+  }
  }
 }

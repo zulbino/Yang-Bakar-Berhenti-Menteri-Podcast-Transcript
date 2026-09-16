@@ -2423,3 +2423,55 @@ drift. A first version also emitted its own informational signature, and `qa_che
 folded that in as an issue: the flagged count went 35 to 47 across 16 episodes with nothing
 wrong in any of them. An inflated count is the same defect as a false MISMATCH, so the
 informational line was removed and only the exclusion kept. Back to 35 of 70.
+
+## Unattended adoption, and the NTFS trap that blocks 12 episodes (2026-09-16)
+
+**`overnight_corpus.py` adopts without a person reading each diff.** That is a deliberate
+departure. `nightly_recut.py` states at the top that it "Writes NOTHING to episodes/" and
+that adopting is "a morning decision, taken after reading the diff, never by this script".
+The owner changed the instruction: *"can we get the leftover episode by today? dont wait
+for me, do one episode then move on to the next. Anything that need my clarification after
+all else fails, bring it after the corpus is done so I can verify"*.
+
+Three things made it safe enough to obey. The cast gate stops a blind reference at step 0.
+The owner-decision gate stops a broken ruling at step 2. And `adopt_mai_camera_raw.must()`
+now reads every write step's exit code, which landed the same day after ep61 shipped 704
+filler words because a refusal was printed and then ignored.
+
+It never passes `--force-blind-reference`, never uses `git commit --no-verify`, and never
+retries a refusal with a looser flag. A refusal ends that episode and the loop moves on.
+Everything refused lands in `data/_overnight_report.md` for one conversation at the end.
+
+### A colon in a tag becomes an NTFS alternate data stream
+
+**12 of the 21 remaining episodes cannot run through this pipeline yet, and the reason is
+the filesystem, not the models.** `ep01` through `ep06` exist in BOTH shows, so
+`common.raw_for_tag` refuses the bare tag and asks for `ep05:bakar`. Every artifact in the
+camera path is named from the tag: `data/camera_ref_<tag>.rttm`, `data/camera_ref_<tag>.uem`.
+
+Measured on 2026-09-16, writing `data/camera_ref_ep05:bakar.rttm`:
+
+```
+target exists: True
+BASE file created instead: True 0
+listing match: ['_colon_test2_ep05']
+```
+
+The content went into a hidden `:bakar.rttm` **alternate data stream** on a 0-byte file
+called `camera_ref_ep05`. `Path.exists()` returned True throughout, a directory listing
+showed only the empty file, and git would have committed the empty one. So nothing would
+have reported a problem: the reference would read as present, be silently empty, and the
+adoption would run against nothing.
+
+`overnight_corpus.remaining()` therefore excludes any tag that matches two episodes, and
+says why at the exclusion. The fix, when someone does it, is a filesystem-safe tag form
+(`ep05-bakar`) used for artifact names only, applied at every site that builds
+`camera_ref_<tag>`. That is more than one script, so it wants doing deliberately rather
+than at the head of an overnight run.
+
+**One bug in `overnight_corpus.py` itself is worth keeping, because it is the same class.**
+Its `run()` helper returned `out[-tail:]` with a 4000-character default, and
+`remaining()` parsed that truncated text. The six `yang-bakar-menteri` rows sit at the TOP
+of `check_raw_engine.py`'s listing, so they were cut, and the function reported 13
+unambiguous tags when the answer is 9. It had never seen the duplicates it existed to
+exclude. `tail=0` now means do not truncate.

@@ -770,6 +770,15 @@ CORRECTIONS = [
      "ep60 2:46:14, Sum Dek Joe. The false start `Ba-` is MAI hearing the same two letters twice."),
     (r"Babi tahu satu harga", "YB tahu satu harga", "ep26 04:44, Haziq: `YB tahu satu harga tu berapa?`"),
     (r"Babi drive sendiri", "YB drive sendiri", "ep19 1:28:32. Meaningless as the animal."),
+    (r"tempoh dah, Babi eh", "tempoh dah, YB eh",
+     "ep55, the guest Dato' Dr Syed Azuan at 52:35 by MAI's clock (raw.md's stamp says "
+     "51:46, 49 s out). OWNER RULED 2026-09-16, asked directly and answered *'its YB not "
+     "Babi'*. I had left this one out of the first pass on purpose and escalated it, because "
+     "the evidence pointed the OTHER way: MAI heard `Babi eh`, YouTube's captions heard "
+     "`babi nah`, and ep55 is the episode that discusses a real pork issue at length. Two "
+     "independent engines agreeing on a wrong word is not a majority, it is one piece of "
+     "audio heard twice. The owner's ear outranks both. "
+     "https://youtu.be/4mmuPwkB5f4?t=3155"),
 
     # ------------------------------------------------------------------------------------
     # SLURS THE REWRITE INVENTED, found 2026-09-16 by the same sweep that caught `Babi`.
