@@ -127,11 +127,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [08:10] Iqbal: Baru mendunia topik-topik perbincangan.
 
-[08:13] Haziq: Tak apa, B, kita ada lagi yang lain.
-
-[08:15] Iqbal: Okey.
-
-[08:15] Haziq: Next. Siapa yang alpa?
+[08:13] Haziq: Tak apa, B, kita ada lagi yang lain. Next. Siapa yang alpa?
 
 [08:18] Iqbal: Azam yang dulu bukan yang sekarang. Ada 2 cerita berbeza, YB, kat sini. 1 Apandi Ali yang komen tentang 1MDB, dan 1 lagi macam biasalah, Ketua Pesuruhjaya SPRM yang memberi komen juga tentang 1MD, 1 keputusan 1MDB.
 
@@ -475,11 +471,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:35:36] Rafizi: Perpaduan ummah. Okey. Ha, yang paling emosional, emotif ni yang menyebabkan Melayu atas pagar aa menyokong PN ialah perpaduan ummah. Kita nak melihat Melayu bersatu kerana kita mesti dapatkan balik kuasa Melayu. Kan. Jadi yang mereka suka ialah mereka lihat PN ini aman. PAS dan Bersatu sanggup masing-masing berkorban. Demi untuk perpaduan ummah. Berbeza dengan UMNO, dia sanggup tinggalkan perpaduan ummah ini demi kuasa, demi nak lepas kes ke apa-apa jelah. Yang itu yang meletakkan bahawa PN ini nampak lebih appealing kepada pengundi atas pagar Melayu. Now bila jadi macam ini, Not anymore. Not anymore lah. Sebab itu paling kurang dia akan hilang undi Melayu. Ha, cuma what happens to that undi Melayu yang tawar hati bahawa perpaduan ummah PAS, Bersatu semua ni sembang jelah. Lepas tu sama jugalah diorang ni. Kita macam bodoh duk sokong 3 4 tahun Perpaduan Ummah, Perpaduan Ummah. Jadi macam ni kan. Now, benda yang sama juga yang berlaku dalam PH lah. Kenapa pengundi atas pagar PH undi PH? Sebab nak tengok reform, nak tengok ni kan. Jadi bila berlaku yang telah berlaku dalam 2 3 tahun ini, they become disenfranchised. Because dia kata, aku tunggu 20 tahun jadi macam ni juga. Sama jelah kan. So, what I think the irony is, walaupun masa kita bincang pasal disenfranchised voters semua tu kan, actually bagi sayalah, maksudnya dia akan mempercepatkan lagi disenfranchised voters menjadi lebih besar. Kalau before this is about 52% disenfranchised voters, we'll see lah one or two months down the line how big is that kan? Jadi, but who will get that disenfranchised voters? It's not as straightforward lah. Just because dia kecewa dengan PN, tak bermakna dia akan undi PH. Kan. Sama jugalah. Pengundi PH yang kecewa dengan PH tak bermakna dia akan sokong PN, kan. So that phenomenon tu akan, akan, akan terus membengkaklah. . Faham.
 
-[2:38:08] Haziq: Okey. Baik, YB. 2 jam 35 minit.
-
-[2:38:11] Rafizi: Okey.
-
-[2:38:12] Haziq: Kita dah habis yang ini.
+[2:38:08] Haziq: Okey. Baik, YB. 2 jam 35 minit. Kita dah habis yang ini.
 
 [2:38:15] Rafizi: Ha, boleh lah kot kita tambah 10 minit je lah lagi kan.
 
@@ -569,10 +561,6 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:56:09] Rafizi: Santa Claus dah balik tidur lah kan?
 
-[2:56:12] Haziq: New Year kan? Yeah, New Year. Jomlah kita balik juga.
-
-[2:56:15] Rafizi: Okey.
-
-[2:56:15] Haziq: Jumpa lagi minggu depan.
+[2:56:12] Haziq: New Year kan? Yeah, New Year. Jomlah kita balik juga. Jumpa lagi minggu depan.
 
 [2:56:16] Rafizi: Sama-sama semua.

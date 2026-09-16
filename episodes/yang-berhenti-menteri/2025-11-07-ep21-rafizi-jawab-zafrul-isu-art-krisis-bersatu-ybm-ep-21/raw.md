@@ -101,11 +101,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [18:45] Rafizi: Alhamdulillah.
 
-[18:46] Dr. Rais Hussin: And if you remember during his PM ship, there was a issue that I cannot support and I was very much against it was 5G.
-
-[18:55] Rafizi: Yeah.
-
-[18:55] Dr. Rais Hussin: Single wholesale network, which I believe it's a scam. And saya pergi jumpa dia a few times. Dia ta- dia cakap, "Rais, are you aware that this is a, we are doing this?" I say, "Yeah, but it's a scam, Tan Sri. Give me 15 minutes, I will explain to you." And I explain to him why it was a scam. 5G single wholesale network was a failure in every country, in every territory and jurisdiction.
+[18:46] Dr. Rais Hussin: And if you remember during his PM ship, there was a issue that I cannot support and I was very much against it was 5G. Single wholesale network, which I believe it's a scam. And saya pergi jumpa dia a few times. Dia ta- dia cakap, "Rais, are you aware that this is a, we are doing this?" I say, "Yeah, but it's a scam, Tan Sri. Give me 15 minutes, I will explain to you." And I explain to him why it was a scam. 5G single wholesale network was a failure in every country, in every territory and jurisdiction.
 
 [19:21] Rafizi: Memang kecuali Brunei.
 
@@ -153,11 +149,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [28:03] Dr. Rais Hussin: I never knew sticking stickers like this is a Yeah. against the law. It's an offense. I never knew. It's an offense. It's an offense.
 
-[28:11] Rafizi: Because by extension, kalau you boleh tampal sticker, you boleh pergi spray colour semua tu habis. Ya, ya, ya. Beria tapi kurang sikit lah. Kurang. Belum cukup. Belum cukup. Tak clean lah. Jenayah.
-
-[28:25] Haziq: Baik.
-
-[28:25] Rafizi: Lagipun sebab dia buat tak clean ni ha.
+[28:11] Rafizi: Because by extension, kalau you boleh tampal sticker, you boleh pergi spray colour semua tu habis. Ya, ya, ya. Beria tapi kurang sikit lah. Kurang. Belum cukup. Belum cukup. Tak clean lah. Jenayah. Lagipun sebab dia buat tak clean ni ha.
 
 [28:27] Haziq: Okey. Baik, we go next maybe. Raya lambat lagi, tapi ada acara bermaaf-maafan. Beria. Beria.
 

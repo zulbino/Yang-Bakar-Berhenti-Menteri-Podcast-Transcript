@@ -37,6 +37,13 @@ ORDER MATTERS, and each step is here for a measured reason:
      looked. Added 2026-09-16 after ep18, ep19 and ep22 each turned out to hold one such tail
      AFTER a clean adoption. The veto is on here and off at step 5: see the comment at the
      call for why the owner's 11-of-11 measurement does not cover this shape.
+  6d. `drop_orphan_backchannels.py` then `merge_same_speaker.py` again. A turn of three words
+     or fewer, made only of pure acknowledgement tokens, sitting between two blocks of the
+     same OTHER speaker, is removed. Owner's decision 2026-09-16. It cannot be attributed by
+     any evidence this repo has: the camera is lip-sync, so it credits the one visible
+     talking face, and 10 of the owner's 19 blind-sample rows were the other person speaking
+     off frame. The lexicon is CLOSED and deliberately excludes `Betul.`, `Setuju.`,
+     `Kan?` and `Alhamdulillah.`, which carry a position rather than a signal.
   7. `fix_proper_nouns.py` and `fix_yb_honorific.py` -- corpus-wide reviewed maps. MAI
      spells the honorific `Abi` where the local ASR wrote `wabi`, so a fresh MAI raw always
      needs the second one.
@@ -209,6 +216,16 @@ def main():
     # for an ear is rule 8; moving it would be a guess dressed as a tool.
     print("[6c/8] the merge created new adjacency, so move and merge again")
     run([PY, "scripts/move_hanging_words.py", a.tag, "--camera-veto", "--write"])
+    run([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"], quiet=True)
+    # OWNER'S DECISION 2026-09-16: a contentless backchannel inside one speaker's run is
+    # removed rather than attributed. Their words: "actually anything offscreen, and the
+    # word is just not adding in to anything, we can just safely omit?" The reason it cannot
+    # be attributed instead is measured: a 19-row blind sample scored the one-face lip-sync
+    # test at 12 of 19, and all 7 misses were the other person speaking OFF FRAME, which no
+    # camera can see. Runs AFTER the merge because before it a backchannel's neighbour is
+    # often another fragment rather than the speaker's own block.
+    print("[6d/8] drop contentless backchannels that sit inside one speaker's run")
+    run([PY, "scripts/drop_orphan_backchannels.py", a.tag, "--write"])
     run([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"], quiet=True)
     print("[7/8] reviewed name maps, corpus-wide")
     run([PY, "scripts/fix_proper_nouns.py", "--write"], quiet=True)

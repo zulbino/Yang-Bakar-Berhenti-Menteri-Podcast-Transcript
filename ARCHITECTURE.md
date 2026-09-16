@@ -2336,3 +2336,55 @@ both ordinary backchannels. No threshold works, so the lip-sync test is the only
 reason, that the camera "is wrong about it by construction", is false for the one-face case,
 and its conclusion may still be right for the rest. 453 relabels on one confirmed example
 would be exactly the bulk write this repo has been burned by before.
+
+### `drop_orphan_backchannels.py`: the owner's answer to an unattributable turn (2026-09-16)
+
+After the blind sample scored the lip-sync test at 12 of 19, the owner asked the question
+that dissolves the problem instead of solving it: *"actually anything offscreen, and the word
+is just not adding in to anything, we can just safely omit?"*
+
+**Half of that is not mechanisable and half is.** Nothing can detect "offscreen", which is
+the whole finding: the camera is LR-ASD lip-sync, it credits the one visible talking face,
+and no threshold separates the two cases. But "the word adds nothing" is decidable from a
+closed lexicon. So the tool drops the contentless subset and leaves the rest alone.
+
+Measured across every adopted raw.md, short turns sitting between two blocks of the same
+other speaker:
+
+    231  a pure acknowledgement           -> dropped
+     52  borderline, the owner's call     -> left alone, lexicon deliberately excludes them
+   1197  carry content                    -> left alone, rule 8 residue for an ear
+
+First pass removed **169 turns and 193 spoken words across 37 files**, with no word added
+anywhere. Adoption runs it at step 6d, then merges again, so a re-adoption reproduces it.
+
+**The excluded 52 are excluded for a reason each.** `Betul.` (14), `Ya, betul.` (8), `Kan.`
+(5), `Kan?` (4), `Setuju.` (3), `Alhamdulillah.` (3), `Right?` (2). `Setuju.` means "I
+agree", which is a stance rather than a signal. `Alhamdulillah.` is a religious expression.
+`Kan?` is often the MAIN speaker's own tag question, which the owner's ep18 1:35:02 ruling
+established. Widening the lexicon deletes from the verbatim source and needs the owner.
+
+**Condition 2 is what makes this safe, and it is easy to miss.** The block either side must
+carry the SAME name, and not this block's name. Without it, dropping every `Okey.` would
+delete Haziq's real segment handovers, and `Okey, baik YB, selesai` is a turn rather than a
+backchannel.
+
+**TWO GUARDS EARNED THEIR PLACE ON THE FIRST RUN.**
+
+1. **It refuses a raw.md that does not declare `model: microsoft/MAI-Transcribe-2`.** The
+   first corpus-wide dry run offered to edit ep07, ep08, ep10, ep11 and ep14, none of them
+   adopted. Excluding `model: mesolitica` is not enough: ep07 and ep10 carry no `model:` line
+   at all, which is `check_raw_engine.py`'s `raw-engine-unknown` case. Requiring the MAI
+   build positively is the only test that holds. **This closes one of the two rules CLAUDE.md
+   listed as having no mechanism.**
+2. **The word-conservation guard refused the first write attempt, correctly.** It compared
+   the removed text against the whole removed BLOCK, so the stamp and the speaker name read
+   as unexplained losses: `extra={'Haziq': 3, '24': 1, '28': 1, ...}`. The tool exited 1 and
+   wrote nothing. A loop that had read the printed count instead of the exit status reported
+   "DROPPED 169" while the corpus was untouched, which is worth remembering: **read the exit
+   status, not the summary line.**
+
+**Seven turns were skipped because an owner decision names them**, including ep39's `Ya.`
+labelled Iqbal and ep42's `Yep.` labelled Zikri Kamarulzaman. Condition 5 prints them rather
+than removing them silently. Those rulings answered "who said it", not "should it stay", so
+they are a genuine conflict for the owner rather than something to resolve by inference.

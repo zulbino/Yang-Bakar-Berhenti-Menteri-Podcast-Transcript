@@ -41,11 +41,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [01:45] Rafizi: Muka sama, tengok tak? Muka sama. Haziq versi Cina. Okey, baik. Ah, kita buat ice breaking sikit eh.
 
-[01:54] Haziq: Ah, just nak tahu untuk masing-masing.
-
-[01:57] Rafizi: Okey.
-
-[01:57] Haziq: Ah, bila first time jumpa YB Raf, saudara Rafizi?
+[01:54] Haziq: Ah, just nak tahu untuk masing-masing. Ah, bila first time jumpa YB Raf, saudara Rafizi?
 
 [02:01] Rafizi: First time?
 
@@ -343,11 +339,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:03:16] Tang Hong Yau: Terpaksa keluar. Yang, yang langkah ni dia berjaya membangkitkan dia punya, mengukuhkan dia punya basis. Tapi rasa dia macam polarized jugalah. Sebab you jemput balik Superman, orang akan ingatlah. Okey, PH ni dia memang hanya nak jaga supporter core core dia. Yang inilah saya yang saya perasan. Jadi dia serang bersama minggu yang kedua. Yang minggu pertama dia hanya serang banyaklah dekat MCA, cakap dia BN dengan PAS ada hubungan sulitlah. Dia memang cakap. Yang kedua, dia mula naratif macam jangan split vote. Ha, yang kedua tu. Yang saya perasan lah.
 
-[1:03:59] Dr. Harith Fakhrudin: Saya nampak dia boleh cantumkan behavior pengundi Melayu dengan pengundi Cina. Pengundi kita ni dia masih tak ready untuk kalau nak undi, kita nak undi yang boleh menang.
-
-[1:04:10] Tang Hong Yau: Ya.
-
-[1:04:11] Dr. Harith Fakhrudin: So kalau untuk pengundi Cina, dia tak nak BN tapi dia rasa Bersama tak boleh menang. So saya tak suka sangat PH, tapi PH ada a better chance untuk menang.
+[1:03:59] Dr. Harith Fakhrudin: Saya nampak dia boleh cantumkan behavior pengundi Melayu dengan pengundi Cina. Pengundi kita ni dia masih tak ready untuk kalau nak undi, kita nak undi yang boleh menang. So kalau untuk pengundi Cina, dia tak nak BN tapi dia rasa Bersama tak boleh menang. So saya tak suka sangat PH, tapi PH ada a better chance untuk menang.
 
 [1:04:22] Tang Hong Yau: Tapi saya, saya, saya perasan turn out rate tu untuk pengundi bukan Melayu atau pengundi Cina dengan pengundi Melayu dia tidak sama. Tak sama. Pengundi Melayu lebih tinggi nak, nak, nak ni hukumkan PH, tapi pengundi Cina saya rasa dia sudah letih dengan naratif yang seolah-olanya macam baliklah 2018 apa pasal Najib ni. Lagi ada banyak pengundi atas atas pagar sebenarnya dia pun, dia pun tidak suka dengan cara DAP untuk membangkitkan Najib sekali lagi sebab dia sudah dipenjarakan. Lagi saya ada perasan satu insiden dekat Yong Peng. Okey. Yang saya rasa Nga Koming atau dia pi Perak lah. Dia camp dekat Yong Peng. Jadi dia pun buat satu banner yang nanti dia lepas dia kantoi kan.
 

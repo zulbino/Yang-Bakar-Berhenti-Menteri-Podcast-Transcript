@@ -289,15 +289,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:18:56] Farhan (Pa'an): Something that you can relate to.
 
-[2:18:59] Rafizi: I have a personal interest in it.
-
-[2:19:01] Farhan (Pa'an): Yeah.
-
-[2:19:02] Rafizi: Absorbable maksudnya bukan ke bahaya nanti stent tu hilang?
-
-[2:19:06] Farhan (Pa'an): Ya. Yes.
-
-[2:19:07] Rafizi: So over time dia akan hilang.
+[2:18:59] Rafizi: I have a personal interest in it. Absorbable maksudnya bukan ke bahaya nanti stent tu hilang? So over time dia akan hilang.
 
 [2:19:09] Farhan (Pa'an): Dia akan hilang.
 

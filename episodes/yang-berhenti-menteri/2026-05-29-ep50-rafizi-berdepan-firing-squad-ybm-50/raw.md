@@ -21,11 +21,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 # Raw Transcript
 
-[03:02] Wan Afiq: Okey, assalamualaikum dan salam sejahtera. Kembali lagi kita dalam YBM episod 50, episod special. Dan- Kenapa dia tak keluar lagi tu? Ada delay. Oh, ada delay. Ni memang live betul-betul ni YB.
-
-[03:16] Rafizi: Okey.
-
-[03:17] Wan Afiq: Ha, dia ada delay lagi ha.
+[03:02] Wan Afiq: Okey, assalamualaikum dan salam sejahtera. Kembali lagi kita dalam YBM episod 50, episod special. Dan- Kenapa dia tak keluar lagi tu? Ada delay. Oh, ada delay. Ni memang live betul-betul ni YB. Ha, dia ada delay lagi ha.
 
 [03:19] Rafizi: Okey, dah keluar. Okey. Okey, dah keluar.
 
@@ -219,11 +215,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [44:51] Farhan (Pa'an): Kita pakai stopwatch. Okey. Ha.
 
-[44:53] Rafizi: Setiap satu saya cuba untuk kekal dalam 90 saat.
-
-[44:57] Farhan (Pa'an): Okey.
-
-[44:58] Rafizi: Soalan pertama daripada siapa?
+[44:53] Rafizi: Setiap satu saya cuba untuk kekal dalam 90 saat. Soalan pertama daripada siapa?
 
 [45:00] Wan Afiq: Sekejap, banyak sangat soalan. So pergi yang yang ni, Far. Ha, yang ni. Saya, saya baca yang first dululah.
 

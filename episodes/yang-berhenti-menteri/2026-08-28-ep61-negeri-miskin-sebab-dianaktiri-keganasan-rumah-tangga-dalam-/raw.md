@@ -35,11 +35,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [01:28] Haziq: Di Puchong? Ahad di Puchong. Aku betul, betul. Puchong lah HQ. Kita punya
 
-[01:36] Rafizi: Itu untuk Sepang lah semua. Yes. Lepas tu bukan hari cuti 31st August tu pun ada dalam jadual.
-
-[01:46] Haziq: Ya.
-
-[01:47] Rafizi: Kemudian hari Selasa ceramah. Ha. Okey. Alright. Okey.
+[01:36] Rafizi: Itu untuk Sepang lah semua. Yes. Lepas tu bukan hari cuti 31st August tu pun ada dalam jadual. Kemudian hari Selasa ceramah. Ha. Okey. Alright. Okey.
 
 [01:52] Haziq: Macam nak pilihan raya dah YB?
 
@@ -67,11 +63,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [03:25] Haziq: Spesifik. hydrogen. Spesifik. Okey. Dia ada berapa cara kaedah pakailah. Letak dekat hidung, dekat mulut dengan
 
-[03:33] Rafizi: Dah lah tengoklah dia punya, dia punya dekat rumah. Banyaklah orang-orang semua tu.
-
-[03:38] Haziq: Yes.
-
-[03:39] Rafizi: Yang kat mata tu macam mana?
+[03:33] Rafizi: Dah lah tengoklah dia punya, dia punya dekat rumah. Banyaklah orang-orang semua tu. Yang kat mata tu macam mana?
 
 [03:41] Haziq: Dia ke- pakai ketat-ketat. So dalam berapa minit, saya rasa dalam setengah jam ke, buka lepas tu macam fatigue tu hilanglah. So orang excited lah. Ha, dia orang kata tu placebo effect sebab dia dah spend 7000. Jadi better dia rasa gembira. Oh, 7000 benda tu? Kalau beli ha.
 
@@ -161,11 +153,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [14:37] Rafizi: Tapi design dia tu memang telah formalize Walanun dengan Pakatan Harapan. Sebab dekat tengah-tengah tu ada arrow Pakatan kan. Ya. Dia ni dapat, dapat sanction daripada Pakatan Harapan ke? Betul ni kan? So takpalah aku boleh tolong belikan. Boleh belikan? Ha, dia tak mahal sangat pun. 2 ringgit setengah. 2 ringgit setengah. 2 ringgit 90 sen je. Walau not mummy button badge kitchen. Oh, kitchen. Eh, tapi yang ini bukan kitchen, yang ni pakai. Pakai. Ke kitchen ada pak- eh. Yang itu keychain. Kitchen ha. Yang itu button badge. Ha, ada dua lah. Okey, okey, okey. So siapa yang beria ni?
 
-[15:21] Haziq: Siapa yang buat ni lah YB.
-
-[15:22] Rafizi: Okey.
-
-[15:22] Haziq: Kalau you pun jangan.
+[15:21] Haziq: Siapa yang buat ni lah YB. Kalau you pun jangan.
 
 [15:24] Rafizi: Bersemangat, bersemangat. I hope dia dapat PJK lah kot. Dapat pingat lah lepas ni. Kalau tidak kesian masuk beria kan. Beria buat. Oh, paling kurang harapnya dia punya button badge ni out of stock. Betul-betul jadi hot selling item lah kot. So dek, kalau tak ada orang beli, dek, patut berterima kasih kepada kita orang yang tolong mempromosikan Button Bench Walanun Ami.
 
@@ -291,11 +279,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [57:59] Haziq: Next kita go straight lah kepada apa ni, nak memahami bidang kuasa negeri, bidang kuasa apa ni, persekutuan. Dan kita kena refer dengan perlembagaan lah.
 
-[58:15] Rafizi: Itulah aku nak kena refer kat perlembagaan lah. Yap. Jadi penduduk-penduduk, eh penduduk-penduduk. Dia punya macam cerita P. Ramli dah. Penduduk-penduduk, penonton. Penonton. Jadi saya nak nak berkongsi pasal perlembagaan sikitlah. Saya bukan pakar undang-undang eh. Tapi bab-bab yang bersabit dengan yalah perkara-perkara macam pembangunan semua yang sedikit sebanyak daripada tugas saya dulu, saya nak kena saya ambil tahulah sedikit sebanyak. Jadi, sepatutnyalah kita sebagai rakyat Malaysia lah kan. Dalam kita duk dengar ahli politik pompang-pompang, yang ini tudung jari kat sana, yang ini tuding jari kat sini kan. Jadi tanggungjawab kita juga untuk memahami sebenarnya apa yang yang sedang berlaku sekarang? Yang sedang berlaku sekarang ni sebenarnya adalah hasil daripada Perlembagaan Persekutuan, kan? Jadi Perlembagaan Persekutuan, oleh kerana Malaysia ini ialah sebuah persekutuan. Jadi dia ada peraturan dan juga perkara-perkara yang sudah dijelaskan, kan? Baik kan, kalau ikutnya benda tu dalam bahagian 5, kan? Dalam bahagian 5, Perlembagaan Persekutuan ni, perlembagaan yang saya dapatkan daripada laman rasmi. EGC. EGC ni. Ha, ini memang percet- percetakan Nasional Malaysia Berhad lah. So I, I hope this is the latest one lah. Tapi bahagian, bahagian bukan bahagian 5, bahagian 6. So bahagian 6 ni dalam Perlembagaan Persekutuan ada satu bahagian yang diberi dalam bahasa Melayu, mungkin my translation is not so good lah kan. Engkau yang belajar undang-undang tu, so kau kena betulkan aku kalau aku tersalah translate kan. Perlembagaan Persekutuan ni ada banyak-banyak bahagian lah kan. Dia cerita pasal kerajaan lah, you know, pasal Agong lah,
-
-[1:00:22] Haziq: Ya.
-
-[1:00:22] Rafizi: Pasal peguam lah, pasal parlimen lah kan. Dan dia disusun ikut bahagian-bahagian. Bahagian. Aha. So, bahagian keenam itu ialah mengenai hubungan di antara persekutuan dan negeri-negeri. Yap. Ha eh. Bab 1 dia ialah agihan kuasa perundangan, distribution of legislative power kan. Jadi dia adalah artikel 73, 74, 75, 76 kan. Yap. Kemudian bab kedua ialah agihan kuasa eksekutif. Kan itu ada dua artikel, artikel 80 dan artikel 81. 81. Kemudian bab 3 ialah agihan tanggungan kewangan. Yang itu bab 8 artikel 82. Artikel ah artikel 82 ialah artikel. 82 saja. 82 saja. Yang lain tu dia dah dah kurang sikitlah kan. Now, jadi yang yang kita nak kena faham ialah sebenarnya ini yang yang Sanusi kata itu. Secara fakta ringkasnya betullah. Betul. Maksudnya ia ini adalah satu sebuah persekutuan, kan. Jadi aku tak noktahkan betul tadi, bukan betul noktah tau. Betul ada panjang lagi ni ha nak cerita kan. Betul secara literal lah. Ini adalah sebuah persekutuan. Jadi bila Malaysia sebuah persekutuan, maka perlu ditentukan siapa bertanggungjawab kepada apa. Siapa ada kuasa apa. Ya. Kan. Tapi aku nak tanya balik dengan kau lah. Just nak check ni kan. Ini bab yang ini bahagian dot dot dot dot yang Sanusi tak sebut kepada orang. Okey. Kenapa tok nenek kita masa memerdekakan aa Mali- Malaya dulu kan? Menjadi kemudian jadi Malaysia kan? Kenapa dia tak buat negara Kedah? Kenapa dia tak buat negara Johor? Kenapa dia tak buat negara Terengganu? Kenapa dia tak buat? Kenapa selain daripada Reid Commission kan, aa kita punya Suruhanjaya yang menggubal perlembagaan kita ialah Reid Commission kan? Cuba tengok. Kau belajar perlembagaan ni? Reed. Suruhanjaya Perlembagaan Reid. Ha, Reid. Kobol aa Malaysia.
+[58:15] Rafizi: Itulah aku nak kena refer kat perlembagaan lah. Yap. Jadi penduduk-penduduk, eh penduduk-penduduk. Dia punya macam cerita P. Ramli dah. Penduduk-penduduk, penonton. Penonton. Jadi saya nak nak berkongsi pasal perlembagaan sikitlah. Saya bukan pakar undang-undang eh. Tapi bab-bab yang bersabit dengan yalah perkara-perkara macam pembangunan semua yang sedikit sebanyak daripada tugas saya dulu, saya nak kena saya ambil tahulah sedikit sebanyak. Jadi, sepatutnyalah kita sebagai rakyat Malaysia lah kan. Dalam kita duk dengar ahli politik pompang-pompang, yang ini tudung jari kat sana, yang ini tuding jari kat sini kan. Jadi tanggungjawab kita juga untuk memahami sebenarnya apa yang yang sedang berlaku sekarang? Yang sedang berlaku sekarang ni sebenarnya adalah hasil daripada Perlembagaan Persekutuan, kan? Jadi Perlembagaan Persekutuan, oleh kerana Malaysia ini ialah sebuah persekutuan. Jadi dia ada peraturan dan juga perkara-perkara yang sudah dijelaskan, kan? Baik kan, kalau ikutnya benda tu dalam bahagian 5, kan? Dalam bahagian 5, Perlembagaan Persekutuan ni, perlembagaan yang saya dapatkan daripada laman rasmi. EGC. EGC ni. Ha, ini memang percet- percetakan Nasional Malaysia Berhad lah. So I, I hope this is the latest one lah. Tapi bahagian, bahagian bukan bahagian 5, bahagian 6. So bahagian 6 ni dalam Perlembagaan Persekutuan ada satu bahagian yang diberi dalam bahasa Melayu, mungkin my translation is not so good lah kan. Engkau yang belajar undang-undang tu, so kau kena betulkan aku kalau aku tersalah translate kan. Perlembagaan Persekutuan ni ada banyak-banyak bahagian lah kan. Dia cerita pasal kerajaan lah, you know, pasal Agong lah, Pasal peguam lah, pasal parlimen lah kan. Dan dia disusun ikut bahagian-bahagian. Bahagian. Aha. So, bahagian keenam itu ialah mengenai hubungan di antara persekutuan dan negeri-negeri. Yap. Ha eh. Bab 1 dia ialah agihan kuasa perundangan, distribution of legislative power kan. Jadi dia adalah artikel 73, 74, 75, 76 kan. Yap. Kemudian bab kedua ialah agihan kuasa eksekutif. Kan itu ada dua artikel, artikel 80 dan artikel 81. 81. Kemudian bab 3 ialah agihan tanggungan kewangan. Yang itu bab 8 artikel 82. Artikel ah artikel 82 ialah artikel. 82 saja. 82 saja. Yang lain tu dia dah dah kurang sikitlah kan. Now, jadi yang yang kita nak kena faham ialah sebenarnya ini yang yang Sanusi kata itu. Secara fakta ringkasnya betullah. Betul. Maksudnya ia ini adalah satu sebuah persekutuan, kan. Jadi aku tak noktahkan betul tadi, bukan betul noktah tau. Betul ada panjang lagi ni ha nak cerita kan. Betul secara literal lah. Ini adalah sebuah persekutuan. Jadi bila Malaysia sebuah persekutuan, maka perlu ditentukan siapa bertanggungjawab kepada apa. Siapa ada kuasa apa. Ya. Kan. Tapi aku nak tanya balik dengan kau lah. Just nak check ni kan. Ini bab yang ini bahagian dot dot dot dot yang Sanusi tak sebut kepada orang. Okey. Kenapa tok nenek kita masa memerdekakan aa Mali- Malaya dulu kan? Menjadi kemudian jadi Malaysia kan? Kenapa dia tak buat negara Kedah? Kenapa dia tak buat negara Johor? Kenapa dia tak buat negara Terengganu? Kenapa dia tak buat? Kenapa selain daripada Reid Commission kan, aa kita punya Suruhanjaya yang menggubal perlembagaan kita ialah Reid Commission kan? Cuba tengok. Kau belajar perlembagaan ni? Reed. Suruhanjaya Perlembagaan Reid. Ha, Reid. Kobol aa Malaysia.
 
 [1:03:06] Haziq: Okey, saja nak check ya.
 
@@ -357,11 +341,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:22:13] Rafizi: Kan. Apa aset kerajaan persekutuan? Aset eh? Hardly any lah, kecuali dia beli tanah tu daripada kerajaan negeri. Betul tak? Cuma, kerajaan persekutuan mengutip cukai perniagaan lah. Cukai perniagaan, cukai... Tapi yang ini yang dia tak cerita sepenuhnya lah. Dia cerita pasal hasil cukai. Dia tak cerita pasal tanggungan dan beban. Sebab kalau tengok kepada bidang kuasa kerajaan negeri tu kan, semua yang berkaitan dengan rakyat ni kecuali tanah, termasuklah perumahan, semua tu ialah kerajaan persekutuan tau. Betul. Cuma dia ada concurrent list lah. Mungkin kita pergi concurrent. Senarai bersama. Senarai bersama. Yang dua-dua pun boleh. Ha, yang dua-dua boleh kan. Senarai bersama ni ialah social welfare, kebajikan sosial, perlindungan wanita, kanak-kanak, biasiswa, perlindak- perlindungan binatang, taman-taman negara. Animal husbandry ni apa dia? Perlindungan binatang liar dan buruh liar. Itu protection of wild animals and wild birds. Eh, nombor 4.
 
-[1:23:34] Haziq: Pencegahan perbuatan menganiaya binatang.
-
-[1:23:37] Rafizi: Okey.
-
-[1:23:38] Haziq: Ha, sorry.
+[1:23:34] Haziq: Pencegahan perbuatan menganiaya binatang. Ha, sorry.
 
 [1:23:40] Rafizi: Senarai pertama ialah perancangan bandar kan. Kemudian okey ya. Kesihatan awam. Dan kebersihan. Dan juga pencegahan wabak itu senarai bersama. Pengairan dan juga longkang senarai bersama, kan. Yang lain tak penting. Sukan dan budaya senarai bersama. Yang lain tu tak penting. Perumahan. Perumahan, housing and provisions for Housing Accommodation Improvement Trust. Dalam bahasa Melayu apa dia? Amanah Pemajuan. Kita pun tak faham datang apa kan. Okey eh. So, kalau tengok semua tanggungjawab yang yang yang melibatkan rakyat yang harian yang banyak ni, majoriti adalah di bawah kerajaan persekutuan, kan. Jadi itu termasuklah contohnya pendidikan, Betul. Kesihatan, keselamatan, undang-undang, perumahan, ekonomi, harga barang. Ha, semua di bawah apa nama ni kerajaan persekutuan, kan. Jadi aku nak pulangkan balik dengan kau. Jadi, apa kena mengena dengan Sanusi lah?
 
@@ -379,11 +359,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:32:39] Haziq: Jurang.
 
-[1:32:57] Rafizi: Satu lagi ialah dia tidak berlaku adil kepada pembayar cukai. Dia tidak berlaku adil kepada pembayar cukai. So, kalau tak berhati-hati, dia mewujudkan satu vicious cycle. Kitaran yang vicious cycle bahasa Melayu apa dia? Kitaran. Kitaran zalim. Kitaran kejam, betullah. Betul, kitaran kejam. Lambat engkau, ha? Ganas. Kitaran ganas. Kitaran ganas. Okey. But ganas is violent. Okey. So dia mewujudkan vicious cycle yang mana, oleh kerana jurang ini diakibatkan oleh pertumbuhan ekonomi yang lebih rendah di negeri-negeri yang lebih mundur. Maka di dalam sebuah persekutuan seperti Malaysia, negeri-negeri itu akan terus meminta peruntukan demi peruntukan dan subsidi demi subsidi untuk dia buat. Peruntukan tambahan daripada kerajaan persekutuan kan? So, itu akan menyebabkan kerajaan persekutuan mengutip cukai daripada kawasan-kawasan ataupun negeri-negeri yang menjana pendapatan kerajaan persekutuan, tetapi tidak dapat berlaku adil dipulangkan kepada orang-orang itu, dipindahkan kepada tempat-tempat lain untuk mengimbangi jurang itu. Itu risiko kedua lah. Dia ethically dia soal equitable share of the national taxpayers money.
-
-[1:34:45] Haziq: Okey.
-
-[1:34:46] Rafizi: Yang ketiga apa dia? So tadi stress on apa nama ni infrastructure effect dia kan. Kedua ialah soal Pembayar cukai. Economic justice. Economic justice. Yang ketiga?
+[1:32:57] Rafizi: Satu lagi ialah dia tidak berlaku adil kepada pembayar cukai. Dia tidak berlaku adil kepada pembayar cukai. So, kalau tak berhati-hati, dia mewujudkan satu vicious cycle. Kitaran yang vicious cycle bahasa Melayu apa dia? Kitaran. Kitaran zalim. Kitaran kejam, betullah. Betul, kitaran kejam. Lambat engkau, ha? Ganas. Kitaran ganas. Kitaran ganas. Okey. But ganas is violent. Okey. So dia mewujudkan vicious cycle yang mana, oleh kerana jurang ini diakibatkan oleh pertumbuhan ekonomi yang lebih rendah di negeri-negeri yang lebih mundur. Maka di dalam sebuah persekutuan seperti Malaysia, negeri-negeri itu akan terus meminta peruntukan demi peruntukan dan subsidi demi subsidi untuk dia buat. Peruntukan tambahan daripada kerajaan persekutuan kan? So, itu akan menyebabkan kerajaan persekutuan mengutip cukai daripada kawasan-kawasan ataupun negeri-negeri yang menjana pendapatan kerajaan persekutuan, tetapi tidak dapat berlaku adil dipulangkan kepada orang-orang itu, dipindahkan kepada tempat-tempat lain untuk mengimbangi jurang itu. Itu risiko kedua lah. Dia ethically dia soal equitable share of the national taxpayers money. Yang ketiga apa dia? So tadi stress on apa nama ni infrastructure effect dia kan. Kedua ialah soal Pembayar cukai. Economic justice. Economic justice. Yang ketiga?
 
 [1:35:00] Haziq: Pertumbuhan itself dekat tempat yang ditinggalkan tu. Bila semua orang tak nak duduk Kelantan atau Terengganu.
 

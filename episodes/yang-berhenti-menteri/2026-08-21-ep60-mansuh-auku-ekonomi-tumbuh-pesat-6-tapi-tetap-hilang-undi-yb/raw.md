@@ -131,11 +131,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [22:05] Haziq: Yalah, katanya apa tak boleh sebab QE kita cuma 33% apa apa wage kom apa. Bukan QE, CE. CE, CE. Compensation employee.
 
-[22:17] Rafizi: As a share of national accounting.
-
-[22:19] Haziq: Yeah.
-
-[22:19] Rafizi: As a share of GDP lah.
+[22:17] Rafizi: As a share of national accounting. As a share of GDP lah.
 
 [22:20] Haziq: Dan productivity tu dah meningkat, tapi gaji masih macam ni. Jadi tak boleh. Kena kena buat ini tapi second term. Comment jom.
 
@@ -251,11 +247,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [41:49] Rafizi: Itu pandangan. Nah, itu pandangan. Okey. So yang ini mula bila Dr. Xavier Jayakumar umumkan dia dah balik ke PKR. Saya ingat bekas ahli parlimen Dr. Kua yang pengarah eksekutif Suaram tu tanya, apa jadi dengan kes dia yang dulu dia disiasat untuk kes rasuah tahun 2021 tu. So, saya ingat minggu lepas kan, August 19 minggu ni lah, minggu ni. Maksudnya SPRM mengesahkan NFA lah, tapi dia berlaku dalam tahun 2024 tau. Jadi yalah persepsi rakyat ialah sudah tentulah Dr. Xavier Jayakumar ni memang maksudnya dilepaskan di bawah pentadbiran Datuk Seri Anwar lah kan. Jadi masing-masing akan buat kesimpulan masing-masing. Ya. Jadi kalau macam itu, mungkin berjayalah kot panggilan rumah mangsa. Cuma orang-orang yang tak ada kes macam aku tak ada. Untuk orang yang ada kes saja.
 
-[43:06] Haziq: Tak ada insentif lah. Tak ada insentif eh.
-
-[43:09] Rafizi: Okey. Okey.
-
-[43:10] Haziq: Baik YB. Kita ada satu lagi. Bersama umum calon PRN Melaka.
+[43:06] Haziq: Tak ada insentif lah. Tak ada insentif eh. Baik YB. Kita ada satu lagi. Bersama umum calon PRN Melaka.
 
 [43:20] Rafizi: Finally kita masuk, kita masuk segmen beria. Yeah. Beria umum awal. So kau nak, kau nak troll apa ni? Ini saya- Kita tengok macam mana Hazi nak troll diri sendiri, nak troll kita kan. Saya tak ada hari tu. Ha, dia tak ada. So, oh, kau tak ada malam tu?
 

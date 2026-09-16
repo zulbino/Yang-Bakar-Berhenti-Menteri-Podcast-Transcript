@@ -111,7 +111,23 @@ The test is not a fixed word list, it is whether the sound carries logical or le
 content: `um`, `uh`, `hmm` on their own don't and go; `ha`, `eh`, `aa`, `oh` carry
 real meaning in spoken Malay and stay even though they sound like fillers in English.
 `strip_filler_turns.py` drops a turn that is only a vocalization; `strip_inline_fillers.py`
-removes the same sounds from inside a real sentence. Never let a corpus-wide pattern
+removes the same sounds from inside a real sentence.
+
+**WIDENED BY THE OWNER 2026-09-16, and only this far.** A turn of three words or fewer, made
+only of pure acknowledgement tokens, sitting between two blocks of the same OTHER speaker, is
+REMOVED rather than attributed. Owner's words: *"actually anything offscreen, and the word is
+just not adding in to anything, we can just safely omit?"* The reason it cannot be attributed is
+measured, not assumed: a 19-row blind sample scored the best available test at 12 of 19, and all
+7 misses were the other person speaking OFF FRAME, which no camera can see. `drop_orphan_backchannels.py`
+does it, from a CLOSED LEXICON, and adoption runs it at step 6d. 169 turns and 193 spoken words
+left the corpus on the first pass.
+
+**The lexicon stops well short of the shape.** `Betul.` (14), `Ya, betul.` (8), `Kan.` (5), `Kan?`
+(4), `Setuju.` (3), `Alhamdulillah.` (3) and `Right?` (2) are NOT in it and need the owner's
+ruling: `Setuju.` is a stance, `Alhamdulillah.` is a religious expression, and `Kan?` is often
+the main speaker's own tag question (ep18 1:35:02). A further 1197 blocks of this shape carry
+real content and stay. Do not widen the lexicon without the owner: this deletes from the verbatim
+source. Never let a corpus-wide pattern
 collapse a genuine repeated word (Malay slang, emphasis) -- confirm one instance is
 really a bug before scoping a fix to it.
 
@@ -318,7 +334,7 @@ single session.
 | 1 names, 2 agencies | `check_names.py`, `check_agencies.py` + `data/agency_roster.json`, corrections in `fix_proper_nouns.py` | `python scripts/check_agencies.py` |
 | 3 cast metadata | `check_cast.py`, `rebuild_roster.py` (`HOSTS`, `MERGE`, `GUEST_THIS_EPISODE`, `PRESENT_UNLABELLED`) | `python scripts/check_cast.py` |
 | 4 attribution order | `adopt_mai_camera_raw.py`, gated at step 0 by `check_camera_reference.py` | `python scripts/check_camera_reference.py <tag>` |
-| 5 fillers | `strip_filler_turns.py`, `strip_inline_fillers.py` | inside adoption |
+| 5 fillers | `strip_filler_turns.py`, `strip_inline_fillers.py`, `drop_orphan_backchannels.py` (closed lexicon, refuses an unadopted raw) | `python scripts/drop_orphan_backchannels.py <tag>` |
 | 6 no fragmented speech | `merge_same_speaker.py` | `python scripts/merge_same_speaker.py --episode=<tag>` |
 | 7 overlapping speech | `check_overlap_boundaries.py` detects, `move_hanging_words.py` writes | `python scripts/check_overlap_boundaries.py --all` |
 | 8 escalate the residue | `check_owner_decisions.py`, `listen_links.py` for the `?t=` link | `python scripts/check_owner_decisions.py <tag> <raw>` |
@@ -333,12 +349,13 @@ single session.
 | handoffs are LOCAL ONLY, and at most two exist | `.gitignore` `HANDOFF_*.md`; past ones purged from history 2026-09-13; `prune_handoffs.py` deletes all but the newest two | `python scripts/prune_handoffs.py` |
 | only GPU 0, never the GTX 970 | `os.environ.setdefault("CUDA_VISIBLE_DEVICES", "0")` in `camera_speakers.py`, `lib_diarization.py`, `gate_rewrite.py` | `grep -rn CUDA_VISIBLE_DEVICES scripts/` |
 
-**Two rules still have NO mechanism.** They are listed so the next session does not
-mistake silence for safety:
+**One rule still has NO mechanism.** It is listed so the next session does not mistake
+silence for safety. The other one, *reprocess an unadopted episode with the camera, never
+hand-patch its local-ASR raw*, was closed on 2026-09-16: `drop_orphan_backchannels.py` refuses
+any raw.md that does not declare `model: microsoft/MAI-Transcribe-2`. Excluding the known local
+engines was not enough, because ep07 and ep10 carry no `model:` line at all.
 
-1. **Reprocess an unadopted episode with the camera; never hand-patch its local-ASR raw.**
-   Adoption overwrites any patch, so a patch is wasted work, but no script refuses one.
-2. **Escalate with a clickable `?t=` link, never a bare block stamp.** `listen_links.py`
+1. **Escalate with a clickable `?t=` link, never a bare block stamp.** `listen_links.py`
    builds the link from the caption track. Nothing checks that a message used it.
 
 **Closed 2026-09-15: one GPU job at a time.** `nightly_recut.claim_the_gpu()` writes its

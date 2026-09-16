@@ -225,11 +225,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:37:07] Rafizi: Okey, tak apa. Dia sebagai peneman yang suka tarik-tarik isu.
 
-[1:37:12] Haziq: Tapi kita ada tetamu yang dah tunggu lama. Sebab saya nak, saya, saya nak tunggu tetamu itu.
-
-[1:37:17] Rafizi: Ya.
-
-[1:37:19] Haziq: Kita ke satu lagi weh. Azam Baki dan Mafia Korporat. I am your father.
+[1:37:12] Haziq: Tapi kita ada tetamu yang dah tunggu lama. Sebab saya nak, saya, saya nak tunggu tetamu itu. Kita ke satu lagi weh. Azam Baki dan Mafia Korporat. I am your father.
 
 [1:37:25] Rafizi: Episode ketiga. Oh, ni macam aa apa nama ni, aa Star Wars lah episode. Walaupun.
 
@@ -237,11 +233,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:37:43] Rafizi: Selepas ni insyaAllah saya akan mengusulkan untuk kita tukar moderator.
 
-[1:37:48] Haziq: Sebab tak tengok Star Wars?
-
-[1:37:49] Rafizi: Ya.
-
-[1:37:50] Haziq: Tapi ini cerita lama saya tahu. 1980.
+[1:37:48] Haziq: Sebab tak tengok Star Wars? Tapi ini cerita lama saya tahu. 1980.
 
 [1:37:52] Rafizi: Itu sebenarnya teruk tak tengok Star Wars. Dalam buku aku tak tengok Star Wars ni. Allahuakbar. Tapi saya tengok cerita lain lah. Tapi tak boleh bandingkan. Oh, tak boleh banding.
 
