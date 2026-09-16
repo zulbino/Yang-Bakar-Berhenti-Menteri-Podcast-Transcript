@@ -154,7 +154,12 @@ def gates(tag):
         ("owner text", [PY, "scripts/check_owner_text.py", tag]),
         ("rule 7 boundaries", [PY, "scripts/check_overlap_boundaries.py", tag]),
         ("slurs", [PY, "scripts/check_slurs.py"]),
-        ("cast", [PY, "scripts/check_cast.py", tag]),
+        # `--episodes`, NOT a positional tag. The first overnight run passed the bare
+        # tag and check_cast exited 2 on "unrecognized arguments", so ep14 and ep13 were
+        # both reported as "gates FAILED: cast" while the real check passes clean. A gate
+        # that cannot run is not a gate that failed, and reporting it as one sends the
+        # next session hunting a defect that is not there.
+        ("cast", [PY, "scripts/check_cast.py", "--episodes", tag]),
     ]:
         ok, text = run(cmd, tail=1500)
         last = [l.strip() for l in text.splitlines() if l.strip()]
@@ -237,7 +242,10 @@ def write_report(results, started, tags, final=False):
     for r in results:
         note = r["note"].replace("\n", " ").replace("|", "/")[:150]
         lines.append(f"| {r['tag']} | {r['state']} | {r['minutes']} | {note} |")
-    blocked = [r for r in results if r["state"] != "adopted"]
+    # Only a genuinely BLOCKED episode goes in the owner's batch. An episode that
+    # adopted with a gate finding is reported separately below, because its raw.md is
+    # written and the finding may well be in the checker rather than the file.
+    blocked = [r for r in results if r["state"] == "blocked"]
     if blocked:
         lines += ["", "## Needs the owner, per rule 9 and rule 8", ""]
         for r in blocked:
