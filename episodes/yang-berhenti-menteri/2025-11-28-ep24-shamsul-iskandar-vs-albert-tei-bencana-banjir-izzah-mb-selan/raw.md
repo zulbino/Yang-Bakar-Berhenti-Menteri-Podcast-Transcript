@@ -139,7 +139,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [31:04] Rafizi: Biarlah dia a adalah juga kebaikan aku kepada dia. Sebab kalau dia tweet sahaja, tak petik nama aku, tak ada orang layan dia pun. Tak ada orang pun baca kan. Berapa sangatlah yang membaca tweet dia tu. Ha- hanya dengan memetik nama, dia menyindir kononnya. Agaknya masa itulah boleh dapat traction dan engagement. Sebab adalah yang orang akan pergi, pergi marah dia balik ke apa kan. Watak macam ini akan terus ada dalam politiklah. Dan saya tak rasa kita perlu habiskan masa.
 
-[31:41] Haziq: Baik, Babi, kita next. Ada lagi satu. Guna akaun Probonus instead guna akaun sendiri.
+[31:41] Haziq: Baik, YB, kita next. Ada lagi satu. Guna akaun Probonus instead guna akaun sendiri.
 
 [31:50] Rafizi: YB perasan? Ya, itu jawapanlah dalam tak function. Wah, hebat cara saudara berfikir. Hebat luar kotak dan tak ada kotak eh. Adalah ada orang, yalah dia akan keluar dekat timeline. Timeline. So yang ini dia tweet sendiri ke orang lain ke macam mana? Tapi saya tak terkejut pun kalau Amir yang tweet ni. Terutama especially yang yang tweet kedua tu, hebat luar kotak dan tak ada kotak. Itu memang bunyi macam dia.
 

@@ -521,7 +521,7 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 - Segmen Beria: berita viral mingguan (kad Pokemon, Papa Gomo, kucing juara dunia, ''Make Malaysia Great Again'' Sim Tze Tzin, Sayuti Omar)
 - Standing Order: JSSEZ (Johor-Singapore Special Economic Zone) dan pelaburan RM37 bilion
-- Kes SPRM ditutup berkaitan skandal perlombongan Sabah dan Datuk Seri Farhaj
+- Kes SPRM ditutup berkaitan skandal perlombongan Sabah dan Datuk Seri Farhash
 - Kajian semula kategori pendapatan rakyat, PADU dan pendapatan boleh guna bersih (NDI)
 - Banci Pertanian 2024 dan penuaan golongan petani di Malaysia
 - Falsafah dan pengalaman menceburi perniagaan sosial Fleximat dan Kesum
@@ -609,7 +609,7 @@ Every transcript is machine-generated and carries the accuracy caveats in
 - Surat sokongan Pejabat Perdana Menteri, garis panduan OVB dan konsep substance over form
 - Kenyataan kontroversi Ahli Parlimen Ulu Terengganu mengenai gunung berapi Etiopia
 - Tweet menyindir Timbalan Presiden PKR dan etika media sosial ahli politik
-- JKOM (Jabatan Komunikasi Korporat) dan pembaziran perbelanjaan pengiklanan kerajaan
+- J-KOM (Jabatan Komunikasi Korporat) dan pembaziran perbelanjaan pengiklanan kerajaan
 - Cadangan aplikasi bersepadu kerajaan (PADU) dan GovTech untuk penjimatan kos komunikasi
 - Percaturan politik Nurul Izzah sebagai bakal Menteri Besar Selangor, Tengku Zafrul dan kekosongan kerusi
 - Perbandingan Langkah Kajang dan pilihan raya kecil Port Dickson sebagai strategi politik lampau
@@ -656,8 +656,8 @@ Every transcript is machine-generated and carries the accuracy caveats in
 - Isu UEC dan pendidikan vernakular Cina serta keperluan masyarakat trilingual
 - Tuduhan Rafizi 'merajuk' dan serangan cyber trooper/chaplos PKR terhadap Rafizi
 - Perbandingan sejarah reformasi 1998 Anwar Ibrahim dengan situasi Rafizi sekarang
-- Krisis kewangan Felda: hutang, FGV, dan legasi penyelewengan zaman Najib
-- Konflik tanah Felda-Terengganu dan isu premium tanah antara kerajaan negeri dan persekutuan
+- Krisis kewangan FELDA: hutang, FGV, dan legasi penyelewengan zaman Najib
+- Konflik tanah FELDA-Terengganu dan isu premium tanah antara kerajaan negeri dan persekutuan
 - Dinamik dalaman Barisan Nasional: MCA, MIC dan rundingan kursi dengan DAP/PKR
 - Kesan PRU Sabah dan strategi pilihan raya umum akan datang (PRU16)
 
@@ -757,7 +757,7 @@ Every transcript is machine-generated and carries the accuracy caveats in
 - Ugutan tindakan disiplin Lembaga Disiplin PKR terhadap Rafizi Ramli
 - Peletakan jawatan Muhyiddin Yassin dan pergolakan kepimpinan Perikatan Nasional/Bersatu
 - Pertembungan kumpulan ustaz vs bukan ustaz dalam PAS dan calon pengganti Hadi Awang
-- Kontroversi jualan saham MMAG oleh Farhaj Hashim dan hubungannya dengan Anwar Ibrahim
+- Kontroversi jualan saham MMAG oleh Farhash Hashim dan hubungannya dengan Anwar Ibrahim
 - Isu unexplained wealth, pengisytiharan harta dan penolakan PADU
 - Perhimpunan Agung UMNO 2025: ucapan Zahid Hamidi dan sindiran ''hasut fitnah
 - Drama Pemuda UMNO, Dr. Akmal dan 'party within a party
@@ -790,19 +790,20 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [PN Dari Bergolak Ke Berkecai & Skandal Yang Belum Selesai | YBM #33](https://www.youtube.com/watch?v=hI_cgYwwtqg) &middot; [raw](episodes/yang-berhenti-menteri/2026-01-30-ep33-pn-dari-bergolak-ke-berkecai-skandal-yang-belum-selesai-ybm-/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-01-30-ep33-pn-dari-bergolak-ke-berkecai-skandal-yang-belum-selesai-ybm-/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-01-30-ep33-pn-dari-bergolak-ke-berkecai-skandal-yang-belum-selesai-ybm-/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-01-30-ep33-pn-dari-bergolak-ke-berkecai-skandal-yang-belum-selesai-ybm-/interview-ms.md)
 
-- Ice-breaker: sejarah perkenalan Rafizi dan Wong Chen serta isu GST 2009
-- Segmen Beriya: retreat Wanita Keadilan menjemput Shamsul Iskandar selepas didakwa
-- Segmen Beriya: promosi konsert Siti Nurhaliza dan video nyanyian/tendangan Kamil Ketua AMK PKR
-- Segmen Beriya: jawapan bertulis Menteri Agama pasal kajian faktor gaya hidup gay dan Rantau Panjang
-- Segmen Beriya: pembatalan ujian diagnostic sekolah dan pelaksanaan enrolmen enam tahun 2027
-- Standing order: soalan parlimen Rafizi kepada Menteri Dalam Negeri Saifuddin tentang siasatan serangan ke atas anak Rafizi
-- Pergolakan dalaman Perikatan Nasional: pemansuhan jawatan Pengerusi PN, Muhyiddin dan pertelingkahan dalam PAS
-- Isu tax refund RM33.3 bilion tidak dibayar dan implikasinya kepada Akta Tanggungjawab Fiskal (FRA) serta defisit negara
-- Perbandingan creative accounting fiskal era Najib (GST refund, penswastaan UiTM) dengan amalan sekarang
-- Laporan Bloomberg mengenai sindiket Bestinet/FWCMS dan pemerdagangan/penghambaan pekerja Bangladesh, kaitan dengan Aminul Islam, Azam Baki dan Anwar Ibrahim
-- Implikasi antarabangsa amalan buruh Malaysia (Tier ranking US State Department) akibat skandal Bestinet
-- Rundingan kerusi dan perpecahan Pakatan Harapan-Barisan Nasional menjelang PRN Johor dan Melaka, ketegangan Amanah-UMNO
-- Skandal jualan tanah kerajaan Selangor kepada Jakel berhampiran Hutan Simpan Ayer Hitam dan ketiadaan mekanisme akauntabiliti pelupusan tanah kerajaan negeri
+- Icebreaker: sejarah perkenalan Rafizi Ramli dan Wong Chen sejak isu GST 2009
+- Segmen Beria: retreat kepimpinan Wanita Keadilan bersama Shamsul Iskandar
+- Segmen Beria: promosi konsert Siti Nurhaliza dan Intim Batra oleh pimpinan PKR (Nurul Izzah dan Ketua AMK)
+- Segmen Beria: jawapan parlimen Menteri Agama mengenai kajian faktor gaya hidup gay
+- Segmen Beria: u-turn ujian diagnostik dan pelaksanaan persekolahan Tahun 1 pada usia 6 tahun 2027
+- Ranking dan penentuan pemenang segmen Beria minggu ini
+- Standing order Rafizi mengenai siasatan serangan ke atas anaknya dan jawapan Menteri Dalam Negeri Saifuddin Nasution
+- Pergolakan dan perpecahan dalam Perikatan Nasional serta krisis kepimpinan PAS-Bersatu (Muhyiddin, Hadi Awang, Hamzah Zainuddin)
+- Isu tax refund RM33.3 bilion, defisit fiskal dan kelemahan struktur Fiscal Responsibility Act (FRA)
+- Laporan siasatan Bloomberg mengenai sindiket BestiNet/FWCMS dan pemerdagangan pekerja Bangladesh
+- Tuduhan lobi Amin Bangla, Azam Baki dan keputusan kabinet menyambung kontrak BestiNet
+- Implikasi antarabangsa (tier perdagangan manusia AS) dan kegagalan tindakan extradisi Aminul Islam
+- Pertelingkahan agihan kerusi PH-BN menjelang PRN Johor dan Melaka serta kawalan Anwar Ibrahim ke atas komponen parti
+- Skandal jualan tanah kerajaan Selangor kepada J-KOM di Subang Jaya dan isu ketelusan (Freedom of Information)
 - Penutup: ucapan Hari Thaipusam dan Hari Wilayah Persekutuan
 
 ## YBhM ep34 &mdash; 2026-02-06
@@ -826,22 +827,22 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 ## YBhM ep35 &mdash; 2026-02-13
 
-[Pendedahan Bloomberg Berkaitan Azam Baki, Isu Rumah Ibadat & Rafizi Kena Halau](https://www.youtube.com/watch?v=GP-vv04gfKI) &middot; [raw](episodes/yang-berhenti-menteri/2026-02-13-ep35-pendedahan-bloomberg-berkaitan-azam-baki-isu-rumah-ibadat-ra/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-02-13-ep35-pendedahan-bloomberg-berkaitan-azam-baki-isu-rumah-ibadat-ra/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-02-13-ep35-pendedahan-bloomberg-berkaitan-azam-baki-isu-rumah-ibadat-ra/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-02-13-ep35-pendedahan-bloomberg-berkaitan-azam-baki-isu-rumah-ibadat-ra/interview-ms.md)
+[Pendedahan Bloomberg Berkaitan Azam Baki, Isu Rumah Ibadat & Rafizi Kena Halau | YBM #35](https://www.youtube.com/watch?v=GP-vv04gfKI) &middot; [raw](episodes/yang-berhenti-menteri/2026-02-13-ep35-pendedahan-bloomberg-berkaitan-azam-baki-isu-rumah-ibadat-ra/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-02-13-ep35-pendedahan-bloomberg-berkaitan-azam-baki-isu-rumah-ibadat-ra/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-02-13-ep35-pendedahan-bloomberg-berkaitan-azam-baki-isu-rumah-ibadat-ra/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-02-13-ep35-pendedahan-bloomberg-berkaitan-azam-baki-isu-rumah-ibadat-ra/interview-ms.md)
 
-- Segmen Beriya: dakwaan siasatan seleweng RM1.1 bilion terhadap Rafizi berkaitan projek Arm dan peranan NGO Perkasa
-- Story Instagram Nurul Izzah mempersoal SPRM dan cadangan jawatankuasa bebas pantau SPRM
-- Lelongan barang peribadi Jamal Yunos untuk langsai hutang RM66,000 kepada Teresa Kok
-- Kontroversi pegangan saham Tan Sri Azam Baki yang melanggar had penjawat awam (Awan Biru, Velocity Capital)
-- Isu kelulusan pengecualian daripada KSN dan akauntabiliti Ketua Pesuruhjaya SPRM
-- Pendedahan eksklusif Bloomberg 'Who's watching Malaysia's Anti-Corruption watchdog?
-- Modus operandi 'mafia korporat' (Victor Chin, Andy Lim) merampas syarikat awam dengan bantuan SPRM
-- Kaitan Victor Chin, MSG Holdings, dan Velocity Capital dengan bekas Setiausaha Politik Anwar, Farhash
-- Tuduhan penggubahan wang haram RM500 juta dan siasatan LHDN terhadap Victor Chin
+- Segmen Beria: laporan NGO Perkasa ke SPRM tentang dakwaan seleweng RM1.1 bilion Rafizi berkaitan ARM
+- Segmen Beria: Nurul Izzah post story Instagram mempersoal integriti Azam Baki dan Anwar Ibrahim
+- Segmen Beria: cadangan tubuh jawatankuasa bebas pantau SPRM dan hujah meletakkan SPRM di bawah Parlimen
+- Segmen Beria: lelongan barangan peribadi Datuk Seri Jamal Yunus untuk langsai hutang
+- Segmen Beria: ''demo tak kenal barai'' - back-to-future demo tuntut Azam Baki undur 2022
+- Kontroversi saham Tan Sri Azam Baki dalam Awan Biru Teknologi dan Velocity Capital Berhad serta isu modal berbayar/preference shares
+- Laporan eksklusif Bloomberg 'Who's Watching Malaysia's Anti-Corruption Watchdog?' dan dakwaan SPRM bersekongkol dengan corporate mafia
+- Modus operandi 'corporate mafia' (Victor Chin, Andy Lim) merampas syarikat awam dengan bantuan SPRM
+- Kaitan MMAG Holdings Berhad, Farhash Hashim, dan tuduhan pengubahan wang haram RM500 juta oleh LHDN
 - Kes penculikan Pamela Ling dan tuduhan penyalahgunaan kuasa SPRM
-- Kontrak Tan Sri Azam Baki dan tuntutan siasatan bebas/Suruhanjaya Diraja
-- Isu rumah ibadat tanpa lesen (kuil Hindu) dan cadangan pemutihan status tanah
-- Perbandingan reaksi Rafizi dengan dakwaan 'merajuk', 'Mak Lampir' oleh Anwar Ibrahim
-- Sejarah hubungan Rafizi-Anwar sejak 2009 hingga peletakan jawatan daripada Kabinet dan PKR
+- Isu rumah ibadat/kuil tanpa lesen dan cadangan R. Ramanan menyelesaikan masalah kuil
+- Tanggungjawab dan tindakan yang sepatutnya diambil Anwar Ibrahim terhadap Azam Baki dan kontrak SPRM
+- Balasan Rafizi terhadap kenyataan Anwar Ibrahim: tuduhan ''mak lampir'', ''merajuk'', dan ''kerja separuh jalan
+- Sejarah hubungan Rafizi-Anwar: pengunduran daripada kementerian, pemilihan PKR 2025, dan isu keluar parti/kerusi Parlimen Pandan
 
 ## YBhM ep36 &mdash; 2026-02-20
 
@@ -863,83 +864,80 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 ## YBhM ep37 &mdash; 2026-02-27
 
-[Rafizi Dapat Surat Dari PKR, Azam Baki Semakin Ditekan, Memahami Gen Z & Millenials](https://www.youtube.com/watch?v=cZQPDnfu4Go) &middot; [raw](episodes/yang-berhenti-menteri/2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha/interview-ms.md)
+[Rafizi Dapat Surat Dari PKR, Azam Baki Semakin Ditekan, Memahami Gen Z & Millenials | YBM #37](https://www.youtube.com/watch?v=cZQPDnfu4Go) &middot; [raw](episodes/yang-berhenti-menteri/2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha/interview-ms.md)
 
-- Segmen Beria: kontroversi pengurusi BBC (Backbenchers Club) dan teguran kepada DAP
+- Segmen Beria: kekeliruan peranan Pengerusi BBC (Backbenchers Club) Zaleha Zahari
 - Kenyataan Fuziah Salleh sebagai SU Agung DAP dan hubungan komponen kerajaan perpaduan
-- Isu Dr. Akmal Saleh dan tekanan letak jawatan exco Selangor
-- Kenyataan indeks kebahagiaan Terengganu dan kritikan terhadap PAS/PN mengenai kemiskinan
-- Standing Order: jawapan Kementerian Pendidikan tentang jam pembelajaran STEM dan KP2027
-- Surat tunjuk sebab PKR terhadap Rafizi Ramli dan tafsiran keluar parti
-- Krisis dalaman PKR: pemilihan parti, tuduhan politik wang dan ketelusan pengundian
-- Tekanan terhadap Tan Sri Azam Baki (Ketua SPRM) dan tuntutan penubuhan RCI
-- Perbandingan situasi Azam Baki dengan skandal 1MDB dan reaksi kerajaan
-- RUU Perlembagaan pemisahan kuasa Peguam Negara dan Pendakwa Raya serta peranan parlimen
-- Proses libat urus dan Blue Bill RUU Peguam Negara-Pendakwa Raya
-- Pergolakan Perikatan Nasional: pelantikan pengerusi baru dan perpecahan Bersatu
-- Kemungkinan Muafakat Nasional dan kedudukan Dato' Seri Zahid Hamidi dalam UMNO
-- Hasil tinjauan mengenai sikap dan pandangan politik Gen Z dan Millennial Malaysia
-- Cabaran PH dan parti politik menarik sokongan pengundi Gen Z
+- Isu Dr. Akmal Saleh dan tuntutan letak jawatan Exco Melaka/keluar UMNO-DAP
+- Kontroversi kenyataan Menteri Besar Terengganu (PAS) mengenai indeks kebahagiaan berbanding GDP dan kemiskinan
+- Jawapan parlimen Kementerian Pendidikan mengenai jumlah jam pembelajaran STEM berbanding negara serantau (CPLM)
+- Mutu jawapan kementerian kepada soalan parlimen dan fungsi semak-imbang ahli parlimen
+- Surat tunjuk sebab PKR terhadap Rafizi Ramli dan tafsiran 'pengisytiharan keluar parti' di bawah Akta Lompat Parti
+- Budaya dalaman PKR, jiwa reformasi, dan gaya kepimpinan Anwar Ibrahim
+- Tekanan berterusan terhadap Ketua SPRM Tan Sri Azam Baki dan tuntutan penubuhan RCI/siasatan
+- Perbandingan isu Azam Baki dengan skandal 1MDB dan reaksi kerajaan
+- RUU Perlembagaan pemisahan kuasa Peguam Negara dan Pendakwa Raya serta peranan parlimen dalam akauntabiliti
+- Pergolakan dan pelantikan Pengerusi Perikatan Nasional baru serta kedudukan Bersatu, PAS dan Hamzah Zainuddin
+- Kemungkinan gabungan Muafakat Nasional (UMNO-PAS-Berjasa) dan kedudukan Ahmad Zahid Hamidi
+- Dapatan kajian sikap dan tingkah laku politik Gen Z dan Milenial (Melayu vs Cina) serta tahap kepuasan terhadap kerajaan Madani
 
 ## YBhM ep38 &mdash; 2026-03-06
 
 [SPRM Cari James Chai? Tangan-tangan Ghaib Berkaitan Zionis? | YBM #38](https://www.youtube.com/watch?v=vvIaOJy3vMM) &middot; [raw](episodes/yang-berhenti-menteri/2026-03-06-ep38-sprm-cari-james-chai-tangan-tangan-ghaib-berkaitan-zionis-yb/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-03-06-ep38-sprm-cari-james-chai-tangan-tangan-ghaib-berkaitan-zionis-yb/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-03-06-ep38-sprm-cari-james-chai-tangan-tangan-ghaib-berkaitan-zionis-yb/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-03-06-ep38-sprm-cari-james-chai-tangan-tangan-ghaib-berkaitan-zionis-yb/interview-ms.md)
 
-- Segmen Ber-ia: roundup isu viral minggu ini
-- Kontroversi ahli Parlimen Bukit Gantang tidak hadir undi had tempoh PM
-- Trend sewa iPhone dan budaya bergaya semasa hari raya
-- Isu Tan Sri Muhyiddin tidak mahu duduk sebelah Datuk Seri Hamzah di Parlimen
-- Krisis kepimpinan Perikatan Nasional: Dr Sam sebagai pengerusi PN dan isu calon PM
-- Isu kejut sahur mengganggu ketenteraman awam
-- Pelancaran inisiatif Pinjam Gadget oleh Ayuh Malaysia
-- Kegagalan RUU had tempoh Perdana Menteri mendapat undi 2/3
-- RUU pemisahan peranan Peguam Negara dan Pendakwa Raya dirujuk ke Jawatankuasa Pilihan Khas baru
-- Konsep whip, pemisahan kuasa dan sistem Westminster dalam Parlimen Malaysia
-- Kontroversi Tan Sri Azam Baki: saham korporat, MMAG dan tuduhan korporat mafia
-- Laporan polis dan dakwaan konspirasi Zionis/Toh Puan Na'imah menjatuhkan kerajaan
-- Siasatan SPRM terhadap James Chai berkaitan perjanjian ARM dan Kementerian Ekonomi
-- Susur galur perjanjian ARM untuk membangunkan industri semikonduktor Malaysia dan kos RM1.1 bilion
-- Kesan politik isu James Chai terhadap sokongan pengundi Cina, Gen Z dan Millennial kepada PKR/kerajaan
+- Segmen Beria: usul dua penggal PM dan ketidakhadiran ahli parlimen Bukit Gantang
+- Trend bergaya sewa iPhone semasa hari raya dan budaya bandingan masyarakat
+- Krisis kepimpinan Perikatan Nasional: pelantikan Dr. Sam sebagai pengerusi dan isu calon PM
+- Isu kejut sahur mengganggu ketenteraman awam pada bulan Ramadan
+- Promosi pelancaran inisiatif Pinjam Gadget oleh Ayuh Malaysia untuk membantu pelajar miskin
+- Kegagalan kerajaan meluluskan RUU had tempoh Perdana Menteri dan RUU pemisahan peranan Peguam Negara dengan Pendakwa Raya
+- Konsep whip parlimen dan sistem free vote dalam demokrasi Westminster
+- Kelonggaran kawalan politik Datuk Seri Anwar Ibrahim dalam PKR dan Pakatan Harapan
+- Dakwaan konspirasi menjatuhkan kerajaan melibatkan Toh Puan Naimah dan keluarga arwah Tun Daim
+- Dakwaan konspirasi Zionis terhadap Anwar Ibrahim dan sejarah naratif serupa era reformasi 1998
+- Kontroversi berterusan Tan Sri Azam Baki: pemilikan saham, korporat mafia, dan tuntutan RCI
+- Kontrak dan perjanjian Malaysia dengan ARM (Arm Holdings) bernilai RM1.1 bilion untuk industri semikonduktor
+- Siasatan SPRM terhadap James Chai berkaitan perjanjian ARM dan tuduhan notis dikehendaki
+- Kesan sokongan politik dalam kalangan pengundi Cina, Gen Z dan golongan bandar akibat kes James Chai
+- Ucapan penutup dan ucapan Selamat Hari Raya
 
 ## YBhM ep39 &mdash; 2026-03-13
 
-[Perang Mafia Korporat, Azam Baki Saga: Ada Apa Dengan Azam Baki & Anwar |](https://www.youtube.com/watch?v=XH1dBHPPRbs) &middot; [raw](episodes/yang-berhenti-menteri/2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak/interview-ms.md)
+[Perang Mafia Korporat, Azam Baki Saga: Ada Apa Dengan Azam Baki & Anwar | YBM #39](https://www.youtube.com/watch?v=XH1dBHPPRbs) &middot; [raw](episodes/yang-berhenti-menteri/2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-03-13-ep39-perang-mafia-korporat-azam-baki-saga-ada-apa-dengan-azam-bak/interview-ms.md)
 
-- Kontroversi Ngah Koming dan penglibatan bukan Islam dalam tazkirah agama
-- Pengumuman cuti sekolah dan budaya gula-gula politik kerajaan
-- Kekeliruan MP mengenai 1MDB dan Klinik/Kedai Rakyat Satu Malaysia
-- Anugerah samseng bulan ini dan isu civic consciousness dalam parking
-- Siri amaran Anwar Ibrahim iaitu Zionis, media elit, dan ancaman anak muda
-- Pertikaian Anthropic vs Pentagon dan etika AI dalam peperangan
-- Perang Teluk Ketiga: kesan kepada ringgit, bursa Malaysia dan cash flow kerajaan
-- Subsidi Budi95 sebagai stress test akibat kenaikan harga minyak dan mekanisme ICPT/AFA tarif elektrik
-- Cadangan work from home dan kesannya terhadap penggunaan RON95
-- Perang mafia korporat NextG: Farhaj, Victor Chin, Dato Ishak dan campur tangan Anwar Ibrahim
-- Dakwaan penyalahgunaan SPRM, PDRM dan AMLA untuk membeku akaun dalam perebutan NextG
-- Isu pemilikan saham Tan Sri Azam Baki dan keperluan Suruhanjaya Diraja RCI
-- Sistem tender terhad dan konsesi kerajaan strategik seperti IC, pasport dan lesen memandu
-- Inisiatif Rumah Bangsa UMNO-PAS dan reaksi Hadi Awang
-- Kedudukan politik Anwar Ibrahim dan PH yang semakin lemah menjelang pilihan raya akan datang
+- Segmen Beria: Nga Kor Ming bersimpuh dengar tazkirah dan isu menunggang agama Islam
+- Segmen Beria: pengumuman ''berita baik'' kerajaan (cuti sekolah, sidang media PM) dan budaya gula-gula politik
+- Segmen Beria: kenyataan MP Tenggara ''1MDB bukan malapetaka tapi persepsi'' dan legasi Najib Razak
+- Segmen Beria: kes samseng kereta double park dan civic consciousness rakyat Malaysia
+- Segmen Beria: amaran Anwar Ibrahim pasal ancaman Zionis, media orang kaya dan ekstremisme anak muda
+- Pertelingkahan Anthropic vs Pentagon dan etika penggunaan AI dalam peperangan (perang Iran)
+- Kesan Perang Teluk/Iran-Israel ke atas ringgit, Bursa Malaysia dan cash flow kerajaan
+- Subsidi Budi 95, RON 95 dan mekanisma ICPT/AFA tarif elektrik TNB
+- Perang mafia korporat dalam syarikat NextG: Farhash Wafa Salvador, Victor Chin, Datuk Isa Ismail dan Abu Hanifah Nordin
+- Campur tangan Perdana Menteri Anwar Ibrahim dalam pertelingkahan NextG dan kaitan dengan laporan Bloomberg
+- Isu pemilikan saham Tan Sri Azam Baki (9 syarikat, RM14 juta) dan tuntutan RCI korporat mafia
+- Sistem perolehan kerajaan tanpa tender terbuka untuk kontrak strategik seperti IC dan pasport
+- Inisiatif 'Rumah Bangsa' UMNO untuk penyatuan Melayu dan reaksi Tan Sri Abdul Hadi Awang (PAS)
+- Kedudukan politik Anwar Ibrahim, PKR dan Pakatan Harapan menjelang pilihan raya umum akan datang
 
 ## YBhM ep40 &mdash; 2026-03-18
 
-[Mafia Korporat: Yang Tersurat dan Tersirat, Cabaran Ekonomi Negara Akibat](https://www.youtube.com/watch?v=KSpStz87R78) &middot; [raw](episodes/yang-berhenti-menteri/2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne/interview-ms.md)
+[Mafia Korporat: Yang Tersurat dan Tersirat, Cabaran Ekonomi Negara Akibat Perang Iran | YBM #40](https://www.youtube.com/watch?v=KSpStz87R78) &middot; [raw](episodes/yang-berhenti-menteri/2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-03-18-ep40-mafia-korporat-yang-tersurat-dan-tersirat-cabaran-ekonomi-ne/interview-ms.md)
 
-- Segmen Beria: perkhidmatan hantar balik kampung berbayar tinggi menjelang raya
-- Segmen Beria: isu MIC dan permohonan menyertai Perikatan Nasional
-- Segmen Beria: insiden meroyan live TikTok di lapangan terbang dan isu delay AirAsia
-- Segmen Beria: timbalan menteri hadir bersama orang kena tuduh (OKT) dan isu collective responsibility kerajaan
-- Segmen Beria: duit raya/bonus besar kepada chairman dan exco JLC Terengganu serta budaya imbuhan ahli lembaga pengarah GLC
-- Segmen Beria: retweet artikel Bloomberg oleh Anwar Ibrahim dan tuduhan Zionis terhadap Bloomberg
-- Mafia korporat: pendedahan Bloomberg, Victor Chin dan 500 akaun CDS dibekukan
-- Cadangan Suruhanjaya Siasatan Diraja (RCI) mengenai mafia korporat dan Tan Sri Azam Baki
-- Ekosistem jenayah: penyeludupan rokok, pengubahan wang haram melalui pasaran saham dan akaun CDS
-- Tuduhan penyalahgunaan Akta Pencegahan Pengubahan Wang Haram (AMLA) oleh PDRM dalam kes NextG
-- Isu politik wang dan pembiayaan politik menerusi dana haram/kongsi gelap
-- Kes Zamri Vinod, Tamim dan Arun Dorasami serta risiko api perkauman dan agama
-- Cadangan konsensus politik merentas parti (Anwar Ibrahim dan Samsuri) untuk redakan sentimen perkauman
-- Status perjanjian tarif Malaysia-AS selepas keputusan Mahkamah Agung AS membatalkan kuasa tarif Trump
-- Kenyataan Johari Ghani mengenai pembatalan perjanjian tarif dan proses termination perjanjian
+- Pembukaan dan situasi menjelang hari raya
+- Segmen Beria: servis hantar balik kampung berbayar tinggi
+- Segmen Beria: kekeliruan MIC memohon menyertai Perikatan Nasional
+- Segmen Beria: insiden live TikTok meroyan di lapangan terbang dan isu delay AirAsia
+- Segmen Beria: Timbalan Menteri hadir sokong orang kena tuduh (OKT) dan isu collective responsibility kerajaan
+- Segmen Beria: duit raya kepada pengerusi dan pengarah GLC Terengganu
+- Segmen Beria: sikap berubah-ubah Anwar Ibrahim terhadap laporan Bloomberg
+- Mafia korporat: ekosistem duit haram, pengubahan wang haram melalui pasaran saham dan akaun CDS
+- Mafia korporat: tuduhan penyalahgunaan AMLA oleh PDRM dalam kes Victor Chin dan pengambilalihan saham NextG
+- Mafia korporat: keterlibatan Tan Sri Azam Baki, SPRM, Andy Lim dan seruan Royal Commission of Inquiry (RCI)
+- Kritikan terhadap budaya politik wang dan sistem procurement kerajaan
+- Isu perkauman dan agama: kes Zamri Vinod, Tamim dan Arun Dorasami serta cadangan konsensus politik merentas parti
+- Status perjanjian perdagangan ART Malaysia-Amerika Syarikat selepas keputusan Supreme Court AS
+- Penutup dan ucapan selamat hari raya
 
 ## YBhM ep41 &mdash; 2026-03-27
 
@@ -951,9 +949,9 @@ Every transcript is machine-generated and carries the accuracy caveats in
 - Beria: budaya hamper menteri dan penyelewengan peruntukan rakyat untuk kepentingan parti
 - Beria: kes ''pau'' duit raya oleh ahli majlis perwakilan PKR Wangsa Maju
 - Latar belakang skandal mafia korporat: laporan Bloomberg dan pengambilalihan NextG (bekas Datasonic)
-- Peranan Victor Chin sebagai corporate turnaround specialist dan pertelingkahan dengan kumpulan Farhaj
+- Peranan Victor Chin sebagai corporate turnaround specialist dan pertelingkahan dengan kumpulan Farhash
 - Dakwaan RM9.5 juta kepada ahli parlimen PKR dan spekulasi identiti Ramanan
-- Identiti dan peranan 'Mr. R' (Ruben) sebagai peguam dan proksi Farhaj
+- Identiti dan peranan 'Mr. R' (Ruben) sebagai peguam dan proksi Farhash
 - Global Settlement Agreement, Sky Limit, Trenthroof dan condition precedent melibatkan pejabat Perdana Menteri
 - Hubungan Datuk Seri Anwar Ibrahim dengan Victor Chin dan tekanan terhadap PKR/Saifuddin Nasution
 - Kenaikan harga diesel/RON95, subsidi bersasar Budi95 dan kececiran (exclusion error)
@@ -963,143 +961,141 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 ## YBhM ep42 &mdash; 2026-04-03
 
-[Rafizi Menteri Terpaling Gagal & Kerajaan Akui Wujudnya Mafia Korporat | YBM](https://www.youtube.com/watch?v=ABPgNUXVrew) &middot; [raw](episodes/yang-berhenti-menteri/2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-/interview-ms.md)
+[Rafizi Menteri Terpaling Gagal & Kerajaan Akui Wujudnya Mafia Korporat | YBM #42](https://www.youtube.com/watch?v=ABPgNUXVrew) &middot; [raw](episodes/yang-berhenti-menteri/2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-04-03-ep42-rafizi-menteri-terpaling-gagal-kerajaan-akui-wujudnya-mafia-/interview-ms.md)
 
-- Segmen Beria: roundup berita viral minggu ini (Albert Tay, protes jalanan)
-- Skandal skam jualan 44 juta liter minyak mentah Johor kepada wilayah Davao del Norte, Filipina
-- Yayasan Madani Mart dan risiko politicization jualan Rahmah
-- Perbandingan Madani Mart dengan Kedai Rakyat 1Malaysia era Najib
-- Keputusan SPM 2025 dan kenangan peribadi Rafizi
-- Kebebasan media di Malaysia selepas 2018 dan isu media buy kerajaan
-- Kelangsungan kewangan industri media, social media giants dan cadangan anti-SLAPP
+- Segmen Beria: himpunan Albert Teh dan isu media freedom
+- Skandal scam minyak Johor - Davao del Norte Filipina cuba beli 44 juta liter minyak mentah
+- Cadangan Madani Mart oleh Yayasan Madani dan risiko politicization jualan Rahmah
+- Poster ucapan SPM kontroversial ahli Parlimen Bentong dan cerita SPM peribadi Rafizi
+- Kebebasan media di Malaysia pasca-2018 dan cabaran self-censorship
+- Kelestarian kewangan media, media buy kerajaan dan model perniagaan media digital
+- Undang-undang anti-SLAPP dan risiko saman terhadap wartawan/aktivis
 - Peranan dan keberkesanan Majlis Media Malaysia
 - Sistem subsidi diesel bersasar dan kegagalan pelaksanaan PADU
-- Kes ARM Holdings, James Sy dan siasatan SPRM
-- Isu Azam Baki dan kegagalan menggantikannya sebagai Ketua SPRM
-- Kontroversi Langkah Kajang 2014 dan tuduhan 'kifarah' oleh Faikah
-- Tuduhan balas terhadap R. Ramanan dan pencapaian dasar gaji progresif/PADU
-- Skandal mafia korporat: Victor Chin, Farhaj, kenyataan Fahmi Fadzil dan NextG
-- Cadangan meletakkan SPRM di bawah Parlimen
-- Analisis GPK, grade inflation dan perbandingan PISA dalam keputusan SPM
-- Strategi politik UMNO (KJ) menyerang PAS (Dr Sam) dan persaingan mengundi Melayu
-- Krisis harga minyak diesel dan keterbatasan fiskal kerajaan
+- Kes James Tsai, siasatan SPRM dan skandal ARM Holdings
+- Kegagalan menyingkirkan Tan Sri Azam Baki sebagai Ketua Pesuruhjaya SPRM
+- Tuduhan 'kifarah' Langkah Kajang 2014 dan kes hutang Bank Islam Tan Sri Khalid Ibrahim
+- Kritikan Menteri R. Ramanan dan rekod Rafizi sebagai Menteri Ekonomi (gaji progresif, MTLM)
+- Isu mafia korporat, Victor Chin, Farhash dan cadangan RCI serta letak SPRM di bawah Parlimen
+- Analisis keputusan SPM 2025, GPK, grade inflation dan skor PISA Malaysia
+- Strategi KJ menyerang PAS dan pertarungan UMNO-PAS merebut sokongan Melayu
 
 ## YBhM ep43 &mdash; 2026-04-10
 
-[Subsidi Minyak Atas Kertas Sahaja, Rafizi Hantar Budak Placard & Surat Dari](https://www.youtube.com/watch?v=e3y7rCTySJU) &middot; [raw](episodes/yang-berhenti-menteri/2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar/interview-ms.md)
+[Subsidi Minyak Atas Kertas Sahaja, Rafizi Hantar Budak Placard & Surat Dari PKR | YBM #43](https://www.youtube.com/watch?v=e3y7rCTySJU) &middot; [raw](episodes/yang-berhenti-menteri/2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-04-10-ep43-subsidi-minyak-atas-kertas-sahaja-rafizi-hantar-budak-placar/interview-ms.md)
 
-- Kontroversi calon PKR dan panggilan 'Profesor Bertina' oleh ketua cabang Ceplos terhadap Dr. Nor Aisyah
-- Wan Fayhsal sebagai 'poster boy' pertahan kerajaan dan persepsi PKR
-- Serangan gangster ramai-ramai di KTV kawasan Cheras/Pandan dan cadangan undang-undang anti-organized crime (RICO)
-- Jelajah 'Taat Setia Madani' dan kritikan terhadap KSN serta budaya BTN lama
-- Segmen Beria: rating dan pengumuman pemenang minggu ini
-- Ucapan Anwar Ibrahim panggil rakyat 'bebal' dan 'buta huruf' tentang harga minyak
-- Mekanisme Automatic Pricing Mechanism (APM) dan penetapan harga petrol/diesel
-- Penurunan pengeluaran minyak mentah Malaysia dan kuota OPEC
-- Tahyul Isyam Jalil tentang subsidi 'atas kertas' dan untung Petronas
-- Dakwaan Sanusi tentang stok minyak dan harga MOPS
-- Krisis gas asli dan import gas untuk penjanaan elektrik serta pengajaran daripada Eropah
-- Peralihan tenaga negara (NETR) dan masa depan subsidi bersasar
-- Demonstrasi 'Tangkap Azam Baki' dan isu integriti SPRM/PDRM
-- Tuduhan rasuah RM9.5 juta oleh Victor Chin terhadap ahli parlimen PKR (Ramanan) dan saman terhadap Amin Bangla
-- Fitnah invois NextG dan tuduhan rasuah RM500,000/RM40 juta terhadap Rafizi
-- Tender vending machine IPR dan penglibatan Datasonic
-- Surat tunjuk sebab lembaga disiplin PKR terhadap Rafizi dan jangkaan pilihan raya kecil Pandan
-- Refleksi peribadi Rafizi tentang kifarah, ujian politik dan konsep bersyukur
+- Kontroversi calon PKR 'Profesor Betina' dan penghinaan terhadap Dr. Nor Aisyah
+- Serangan gangster di KTV Cheras dan cadangan undang-undang anti organized crime (RICO Act)
+- Jelajah Taat Setia Madani dan sejarah Biro Tatanegara (BTN)
+- Krisis harga minyak: penurunan pengeluaran minyak mentah Malaysia dan kuota OPEC
+- Mekanisme Automatic Pricing Mechanism (APM) dan struktur subsidi petrol diesel
+- Tahyul Hisham Jalil tentang subsidi 'atas kertas' dan keuntungan Petronas
+- Dakwaan Menteri Besar Kedah Sanusi tentang stok minyak dan harga diesel
+- Krisis gas asli dan pergantungan import tenaga Malaysia
+- Isu integriti Azam Baki dan SPRM serta tuntutan Sekretariat Tangkap Azam Baki
+- Fitnah dan saman berkaitan tuduhan rasuah NextG dan invois terhadap Rafizi
+- Kontrak vending machine IPR dan penglibatan Datasonik
+- Surat tunjuk sebab Lembaga Disiplin PKR terhadap Rafizi Ramli
+- Spekulasi pilihan raya kecil Pandan dan lawatan Anwar Ibrahim
+- Refleksi peribadi Rafizi tentang ujian hidup, kesyukuran dan konsep kifarah
 
 ## YBhM ep44 &mdash; 2026-04-17
 
-[Bloomberg Kacau Ramanan, Kerajaan Madani Defensif & Cerita Papagomo Dengan](https://www.youtube.com/watch?v=c36-jHFkdKE) &middot; [raw](episodes/yang-berhenti-menteri/2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa/interview-ms.md)
+[Bloomberg Kacau Ramanan, Kerajaan Madani Defensif & Cerita Papagomo Dengan PMO | YBM #44](https://www.youtube.com/watch?v=c36-jHFkdKE) &middot; [raw](episodes/yang-berhenti-menteri/2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-04-17-ep44-bloomberg-kacau-ramanan-kerajaan-madani-defensif-cerita-papa/interview-ms.md)
 
-- Beria: rampasan hempedu ular sawah dan penyeludupan hidupan liar
-- Kontroversi Azam Baki dan SPRM serta unit taktikal melindunginya
-- Spekulasi Ong Kian Ming tentang Rafizi bertanding di Pandan
-- Kes tuntutan barang kemas mewah Datin Seri Rosmah Mansor (kes NFC/1MDB berkaitan)
-- Ucapan kontroversi Anwar Ibrahim di konvensyen PKR Terengganu dan isu komunikasi strategik PMO
-- Sindiran ahli PAS (Syahir) tentang isu NFC dan spekulasi baju Rafizi
-- Sistem baharu pekerja asing TURAP oleh Bestinet dan Aminul Islam (Amin Bangla) - laporan Bloomberg
-- Peranan Menteri Sumber Manusia Ramanan Ramakrishnan dan kritikan Steven Sim
-- Dasar-dasar sedia ada: Multi-Tier Levy Management (MTLM) dan Akademi Dalam Industri (ADI)
-- Sasaran pengurangan kuota pekerja asing dalam Rancangan Malaysia Ke-13
-- Kepimpinan performatif vs substantif dalam politik (contoh Churchill, Deng Xiaoping, Lee Kuan Yew)
-- Dasar peralihan tenaga negara: NETR/NETA, solar, TNB, IPP dan wheeling charges
-- Kelewatan tindakan kabinet terhadap laporan siasatan Azam Baki
-- Kisah kes Papa Gomo, Invoke Solutions dan campur tangan PMO
-- Seruan perhimpunan 'Tangkap Azam Baki' di Dataran Merdeka 25 April
+- Segmen Beria: rampasan hempedu dan lidah ular sawa di Johor
+- Kontroversi nasihat kewangan Azam Baki dan skuad taktikal SPRM melindunginya
+- Spekulasi Ong Kian Ming tentang Rafizi bertanding menentang Anwar Ibrahim di Pandan
+- Kes saman barang kemas 67 juta Datin Sri Rosmah Mansor dan tuduhan 'influencer
+- Ucapan Anwar Ibrahim di Konvensyen PKR Terengganu dan reaksi 'ingat senang ke jadi kerajaan
+- Sistem TURAP oleh BestiNet dan Aminul Islam (Amin Bangla) dalam pengambilan pekerja asing
+- Laporan Bloomberg mengenai monopoli dan rasuah dalam sistem FWCMS/pekerja asing Bangladesh
+- Dasar pengurangan pergantungan pekerja asing: MTLM, Akademi Dalam Industri (ADI), sasaran RMK-13
+- Kritikan terhadap pertukaran menteri Kesuma dan peranan Steven Sim serta Ramanan Ramakrishnan
+- National Energy Transition Roadmap (NETA) dan reformasi struktur pasaran tenaga TNB
+- Konsep kepimpinan performatif vs substantif dengan contoh Churchill, Deng Xiaoping, Lee Kuan Yew
+- Kelambatan tindakan terhadap Azam Baki selepas laporan siasatan integriti diserahkan ke kabinet
+- Kritikan naratif komunikasi kerajaan Madani dan penggunaan cyber trooper/Ceplos
+- Pendedahan Rafizi mengenai kes Papa Gomo dan syarikat Invoke Solutions
+- Seruan perhimpunan tuntut tindakan terhadap Azam Baki pada 25 April di Dataran Merdeka
 
 ## YBhM ep45 &mdash; 2026-04-24
 
-[Demo Tangkap Azam Baki, Malaysia Negara Menua & Setahun Pemilihan PKR: Semua](https://www.youtube.com/watch?v=1HNNYEwpZjU) &middot; [raw](episodes/yang-berhenti-menteri/2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih/interview-ms.md)
+[Demo Tangkap Azam Baki, Malaysia Negara Menua & Setahun Pemilihan PKR: Semua Salah Rafizi | YBM #45](https://www.youtube.com/watch?v=1HNNYEwpZjU) &middot; [raw](episodes/yang-berhenti-menteri/2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-04-24-ep45-demo-tangkap-azam-baki-malaysia-negara-menua-setahun-pemilih/interview-ms.md)
 
-- Segmen Beria: billboard besar Ramanan Ramakrishnan dan budaya PKR
-- Kenyataan Fuad Zakashi mengenai rasuah dan kes lama FWCMS/Bestinet serta LCS
-- Tengku Zafrul 'gate crash' majlis raya di Pandan menjelang PRU
-- Permohonan maaf MP Jasin dan Harakah dalam kes saman fitnah kunut nazilah
-- Janji RM40 juta Isham Jalil untuk saman fitnah influencer PH/BN
-- Himpunan Tangkap Azam Baki dan sejarah budaya demonstrasi di Malaysia
-- Titah Yang di-Pertuan Agong mengenai pelantikan Ketua Pesuruhjaya SPRM yang baharu
-- Tuntutan RCI dan reformasi institusi SPRM serta peranan Parlimen dalam pelantikan jawatan utama
-- Agenda negara menua (aging nation) dan unjuran demografi Malaysia RMK-13
-- Kesan negara menua kepada ekonomi, cukai, pencen (EPF) dan sistem kesihatan
-- Cadangan dasar: umur persaraan, penyertaan wanita dalam tenaga kerja, dan pengurangan pekerja asing
-- Pergolakan cabang PKR di Kangar, Pandan, Kuala Selangor dan Tuaran selepas pemilihan parti
-- Penilaian setahun Nurul Izzah sebagai Timbalan Presiden PKR
-- Seruan kehadiran demo Tangkap Azam Baki
+- Segmen Beria: billboard Ramanan Ramakrishnan dan kritikan gaya kepimpinan PKR
+- Kenyataan Fuad Zakaashi mengenai 'rasuah tanpa duit' dan sejarah FWCMS/Bestinet serta LCS
+- Tengku Zafrul 'gate crash' majlis raya di Pandan dan spekulasi pencalonan
+- Saman fitnah Ahli Parlimen Jasin/Harakah dan budaya penyelesaian saman fitnah pemimpin politik
+- Janji RM40 juta Hisham Jalil untuk PAS dan realiti proses mahkamah saman fitnah
+- Perhimpunan 'Tangkap Azam Baki' dan sejarah budaya protes di Malaysia
+- Kontroversi pemilikan saham Azam Baki, dakwaan 'mafia korporat' dan siasatan SPRM
+- Titah Yang Dipertuan Agong mengenai pelantikan Ketua Pesuruhjaya SPRM dan isu raja berperlembagaan
+- Tuntutan reformasi institusi: RCI, penglibatan parlimen dalam pelantikan SPRM dan pendakwa raya
+- Agenda negara menua (aging society) dalam Rancangan Malaysia ke-13 dan unjuran demografi DOSM
+- Dasar mengatasi negara menua: subsidi bersasar, umur persaraan, penyertaan wanita, pengurangan pekerja asing
+- Pergolakan pemilihan cabang PKR di Kangar, Pandan, Kuala Selangor dan Tuaran selepas AGM cabang
+- Penilaian setahun Nurul Izzah sebagai Timbalan Presiden PKR dan ketidakhadiran di AGM Pematang Pauh
+- Seruan dan persediaan untuk demo 'Tangkap Azam Baki' esoknya di Sogo dan Dataran Merdeka
 
 ## YBhM ep46 &mdash; 2026-05-01
 
-[Krisis Negeri Sembilan, Kerajaan Madani Potong Perbelanjaan & Rafizi Bakal](https://www.youtube.com/watch?v=hVMQsOg2dj8) &middot; [raw](episodes/yang-berhenti-menteri/2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r/interview-ms.md)
+[Krisis Negeri Sembilan, Kerajaan Madani Potong Perbelanjaan & Rafizi Bakal Dipanggil SPRM | YBM #46](https://www.youtube.com/watch?v=hVMQsOg2dj8) &middot; [raw](episodes/yang-berhenti-menteri/2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-05-01-ep46-krisis-negeri-sembilan-kerajaan-madani-potong-perbelanjaan-r/interview-ms.md)
 
-- Segmen Beria: kontroversi Tan Sri Azam Baki selepas demo Sogo
-- Tengku Zafrul 'internship' bertanding di Pandan dan budaya bantuan feudal ahli parlimen
-- Kontroversi YB Melor PAS Wan Rohimi dan konvoi motor 'bodohkan polis
-- Serbuan rumah wartawan Malaysiakini Nantakuma berkaitan Menteri Ramanan dan kebebasan media
-- Kemelut Negeri Sembilan: Undang Yang Empat, Tuanku Muhriz dan MB Aminuddin Harun (Tok Min)
-- Kesan politik kemelut Negeri Sembilan kepada UMNO dan jangkaan PRN Melaka, Johor serta PRU akan datang
-- Arahan pemotongan bajet RM10 bilion oleh Kementerian Kewangan dan krisis subsidi minyak RM58 bilion
-- Subsidi bersasar, PADU dan cadangan sistem pindahan tunai bulanan/social security
-- Dividen Petronas sebagai sumber menampung kekurangan subsidi dan kesan jangka panjang
-- Peranan JKOM, cybertrooper dan chaplor dalam komunikasi kerajaan Madani
-- Konsep ''network effect'' dan strategi media sosial: Facebook, TikTok, YouTube, X, Instagram
-- Perbandingan strategi digital PH, BN, PN dan kegagalan JKOM memahami media sosial
-- Jangkaan pendakwaan Rafizi Ramli oleh SPRM berkaitan projek Arm dan kritikan terhadap Akta SPRM
+- Segmen Beria: komen dan ''skincare'' Azam Baki selepas demo Sogo
+- Segmen Beria: Tengku Zafrul dan tuduhan ''internship'' politik di Pandan
+- Segmen Beria: kontroversi konvoi motosikal dan kenyataan ''bodoh polis'' YB Melor Wan Rahimi (PAS)
+- Segmen Beria: serbuan SPRM ke rumah wartawan Malaysiakini B. Nantakumar dan kebebasan media
+- Kemelut Negeri Sembilan: pertelingkahan Undang Yang Empat dengan Yang di-Pertuan Besar Tuanku Mukhriz
+- Kemelut Negeri Sembilan: langkah UMNO/14 ADUN menarik sokongan MB Aminuddin Harun (''langkah Jalal'')
+- Analisis kesan politik kemelut Negeri Sembilan kepada UMNO dan kerajaan minoriti PH
+- Krisis subsidi minyak: bajet 58 bilion dan sekatan perbelanjaan RM10 bilion oleh MOF
+- Perbahasan subsidi bersasar (PADU) berbanding subsidi pukal dan kesannya kepada Petronas
+- Perbandingan pendekatan subsidi bersasar Rafizi dengan BR1M/STR era Najib
+- Strategi media sosial parti politik: konsep ''network effect'', kandungan dan rangkaian
+- Kritikan terhadap Ceplos, cyber troopers dan J-KOM dalam komunikasi kerajaan Madani
+- Panggilan Rafizi oleh SPRM berkaitan kes ARM (semikonduktor) dan jangkaan pendakwaan
+- Penutup: nasihat kepada penonton untuk mengukuhkan ''network effect'' menjelang PRU akan datang
 
 ## YBhM ep47 &mdash; 2026-05-08
 
 [Semua Bocor: Exam SPRM, Kerusi PKR, Dan Soalan PRU16 | YBM #47](https://www.youtube.com/watch?v=qSA4cx_U0Ao) &middot; [raw](episodes/yang-berhenti-menteri/2026-05-08-ep47-semua-bocor-exam-sprm-kerusi-pkr-dan-soalan-pru16-ybm-47/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-05-08-ep47-semua-bocor-exam-sprm-kerusi-pkr-dan-soalan-pru16-ybm-47/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-05-08-ep47-semua-bocor-exam-sprm-kerusi-pkr-dan-soalan-pru16-ybm-47/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-05-08-ep47-semua-bocor-exam-sprm-kerusi-pkr-dan-soalan-pru16-ybm-47/interview-ms.md)
 
-- Beria: taktik ''good cop bad cop'' Nurul Izzah dan Anwar berkaitan siasatan SPRM terhadap Rafizi
-- Beria: pergaduhan Pemuda UMNO (Akmal) dengan DAPSY di Negeri Sembilan
-- Beria: kesedaran sivik dan langgar lampu merah di kawasan sekolah
-- Beria: sumpah laknat Najib dan reaksi penyokong UMNO terhadap siasatan Rafizi
-- Minister of the Week: pemotongan peruntukan KKM berbanding hak penyiaran Piala Dunia FIFA di RTM oleh Fahmi Fadzil
-- Beria: kenyataan kontroversi ''tebuk atap'' Jaludin dalam krisis politik Negeri Sembilan
-- Pengalaman Rafizi disoal siasat SPRM selama empat hari dan prosedur Seksyen 23 Akta SPRM
-- Kronologi penuh perjanjian ARM-kerajaan Malaysia bernilai RM1.1 bilion dan pertikaian Kementerian Ekonomi vs MITI/Tengku Zafrul
-- Tuduhan bermotif politik oleh Perkasa dan Sekretariat Kempur berhubung siasatan ARM
-- Kebocoran senarai tier kerusi DUN/Parlimen PKR dan persoalan kerusi Parlimen akan datang Anwar Ibrahim
-- Strategi dan sejarah kejayaan PH memenangi PRU 2018 dan PRU 2022 berbanding cabaran PRU akan datang
-- Isu dalaman DAP dan sokongan pengundi bukan Melayu selepas kekalahan di Sabah
-- Sokongan kepada James Chai yang turut disiasat SPRM dan galakan supaya beliau bertanding pilihan raya
+- Beria: kenyataan Nurul Izzah dan taktik ''good cop, bad cop'' dalam politik SPRM
+- Beria: perbalahan pemuda UMNO (Akmal) dengan DAPSI
+- Beria: kesedaran sivik dan langgar lampu merah depan sekolah
+- Beria: reaksi sumpah laknat Najib terhadap Rafizi dan isu 1MDB
+- Minister of the Week: RTM dan hak siaran Piala Dunia FIFA 2026 vs pemotongan peruntukan KKM
+- Beria: kenyataan Jalaluddin ''nak tebuk atap'' dan krisis politik Negeri Sembilan
+- Hidup Keras: pengalaman Rafizi disoal siasat SPRM dan prosedur Seksyen 23 Akta SPRM
+- Perjanjian kerjasama ARM bernilai RM1.1 bilion dan pembangunan industri semikonduktor Malaysia
+- Inisiatif KL20 Action Plan dan usaha menarik pelaburan teknologi antarabangsa
+- Perebutan kredit antara Kementerian Ekonomi, MITI dan Kementerian Kewangan dalam deal ARM
+- Tuduhan motif politik di sebalik siasatan SPRM dan peranan Ceplos/Perkasa/PPIM
+- Kebocoran senarai tier kerusi PKR untuk PRU akan datang dan spekulasi kerusi Anwar Ibrahim
+- Strategi pilihan raya PKR/PH: pengalaman PRU 2022 dan analisis pengundi atas pagar
+- Cabaran DAP selepas kekalahan Sabah dan isu Tiong King Sing
+- Seruan agar James Chai bertanding pilihan raya selepas turut disiasat SPRM
 
 ## YBhM ep48 &mdash; 2026-05-15
 
 [Penyasaran Subsidi T20, Kereta EV Import dan Hala Tuju Politik | YBM #48](https://www.youtube.com/watch?v=0fkxxzr9w1Y) &middot; [raw](episodes/yang-berhenti-menteri/2026-05-15-ep48-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-05-15-ep48-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-05-15-ep48-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-05-15-ep48-penyasaran-subsidi-t20-kereta-ev-import-dan-hala-tuju-politi/interview-ms.md)
 
-- Siasatan SPRM terhadap Rafizi Ramli dan proses undang-undang
-- Beria: kontroversi survey dan kenyataan Ramanan Ramakrishnan lawan Nurul Izzah dalam PKR
-- Beria: kenyataan pensyarah Dr Jamaie Hamil membela Farhash Iqbal
-- Beria: kontroversi ceramah Ustaz Nik Zawawi mengenai Saidina Abu Bakar dan Saidina Umar
-- Beria: pergaduhan Ramanan dan Fuziah Salleh merebut kerusi Parlimen Batu
-- Beria: kenyataan KSN memuji SPRM dan Jawatankuasa Kawan-Kawan
-- Isu pengkelasan T20 dan penyasaran semula subsidi minyak
-- Konsep PADU, PAKW dan pendapatan boleh belanja bersih berbanding pendapatan kasar
-- Perbezaan pendirian DAP dan MOF mengenai subsidi bersasar dan pindahan tunai
-- Struktur cukai kereta (import duty, excise duty, sales tax) dan sebab harga kereta tinggi di Malaysia
-- Dasar EV, sekatan AP MITI ke atas CBU dan perlindungan industri automotif tempatan (Proton/Perodua)
-- Refleksi peribadi Rafizi tentang sebab tidak boleh berdamai dengan PKR
-- Falsafah politik Rafizi tentang integriti, mudarat lebih kecil dan matlamat perjuangan
-- Pengumuman hala tuju politik pada 17 Mei dan konvensyen Pakatan Harapan yang bertembung tarikh
+- Siasatan SPRM berhubung keputusan kerajaan yang melibatkan Rafizi, PM, Zafrul dan Amir Hamzah
+- Beria: Kontroversi kaji selidik dalaman PKR dan kenyataan Ramanan Ramakrishnan
+- Beria: Kenyataan pensyarah UKM mempertahankan Farhash daripada tuduhan pengubahan wang haram
+- Beria: Kontroversi ceramah Ustaz Nik Zawawi di Kuala Terengganu mengenai Saidina Abu Bakar dan Saidina Umar
+- Beria: Pertelingkahan Fuziah Salleh dan Ramanan berebut kerusi Parlimen Batu
+- Beria: Laporan reformasi SPRM oleh KSN dan kelewatan Jawatankuasa Kawan-Kawan
+- Isu pengkelasan T20/M40/B40 dan cadangan menarik subsidi minyak daripada T20
+- Konsep PADU dan Perbelanjaan Asas Kehidupan Wajar (PAKW) berbanding pendapatan kasar isi rumah
+- Perbezaan pendirian DAP dan Kementerian Kewangan terhadap penyasaran subsidi menggunakan PADU
+- Struktur cukai kereta (import duty, excise duty, sales tax) dan sebab harga kereta tidak boleh diturunkan mudah
+- Dasar MITI menyekat AP kereta EV CBU murah bagi melindungi industri automotif tempatan (Proton/Perodua)
+- Sasaran NETA dan cabaran EV adoption termasuk infrastruktur pengecasan
+- Pengumuman hala tuju politik Rafizi pada 17 Mei dan pertembungan tarikh dengan Konvensyen Pakatan Harapan
+- Refleksi peribadi Rafizi mengenai sebab tidak dapat berdamai dengan PKR dan prinsip fairness dalam politik
+- Falsafah politik Rafizi mengenai reformasi, sejarah Merdeka dan visi jangka panjang negara
 
 ## YBhM ep49 &mdash; 2026-05-22
 
@@ -1125,30 +1121,25 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [Rafizi Berdepan Firing Squad | YBM #50](https://www.youtube.com/watch?v=C9xGMQMP6o8) &middot; [raw](episodes/yang-berhenti-menteri/2026-05-29-ep50-rafizi-berdepan-firing-squad-ybm-50/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-05-29-ep50-rafizi-berdepan-firing-squad-ybm-50/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-05-29-ep50-rafizi-berdepan-firing-squad-ybm-50/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-05-29-ep50-rafizi-berdepan-firing-squad-ybm-50/interview-ms.md)
 
-- Beria: bocoran nombor telefon dan forward mesej Anwar Ibrahim
-- Beria: dakwaan hacking Pegasus terhadap MB Johor Onn Hafiz dan pengalaman peribadi Rafizi
-- Beria: Fahmi Fadzil dan kempen ''tak pasti, jangan kongsi'' vs fitnah RM8.6 juta
-- Beria: Tengku Zafrul sebagai calon Pandan dan perbandingan dengan pengalaman Rafizi bersama Anwar
-- Beria: kenyataan Fuziah Salleh mengenai ahli PKR keluar parti dan masalah app Adil
-- Latar belakang penubuhan Bersama, perbezaan dengan MUDA dan pendirian tidak menyertai gabungan/kerajaan
-- Surat peribadi Rafizi kepada Anwar Ibrahim 2019 yang bocor
-- Dasar mengurangkan pekerja asing kepada 5% dan isu pelarian Rohingya/UNHCR
-- Struktur perlembagaan dan flat structure Bersama berbanding parti sedia ada
-- Koperasi Kira dan hubungannya dengan keahlian PKR/Bersama
-- Reformasi SPR dan pengurangan kuasa Perdana Menteri
-- Nisbah doktor-pesakit 1:300 dan pelaburan dalam sistem kesihatan negara
-- Pembangunan ekonomi dan elektrifikasi (SMR) di Sandakan, Sabah
-- Episod 'langkah Kajang' dan saman Tan Sri Khalid Ibrahim
-- Kriteria pemilihan calon Bersama dan sasaran umur muda
-- Reformasi tax-to-GDP ratio dan cadangan GST/percukaian progresif
-- Isu perumahan mampu milik untuk Gen Z dan graduan (demand vs supply side, IBS)
-- Sistem PADU dan pengkelasan pendapatan boleh guna bersih
-- Desentralisasi tadbir urus pendidikan dan kesihatan ke peringkat negeri
-- Suruhanjaya Diraja mengenai Azam Baki dan 'mafia korporat
-- Pembiayaan telus Bersama melalui crowdfunding berbanding sumbangan taikun
-- Perancangan 100 hari pertama kerajaan Bersama jika berkuasa
-- Strategi Bersama menarik pengundi Gen Z dan golongan atas pagar
-- Sesi Firing Squad Q&A pantas 90 saat dan soalan penutup ringan (F1, akaun sosial media rasmi Bersama)
+- Beria: mesej WhatsApp Anwar Ibrahim yang tersebar
+- Isu hacking telefon dan spyware Pegasus terhadap On Hafiz dan Rafizi
+- Beria: Fahmi Fazil dan fitnah pembelian Parti Bersama RM8.6 juta
+- Tengku Zafrul sebagai calon Pandan dan sejarah 'scam' politik Anwar-Azmin terhadap Rafizi
+- Beria: dakwaan Fuziah Salleh mengenai keahlian PKR yang keluar parti dan masalah app Adil
+- Beza Parti Bersama dengan Muda dan pendirian tanpa gabungan politik
+- Surat peribadi Rafizi kepada Anwar Ibrahim tahun 2019 yang bocor
+- Dasar mengurangkan pekerja asing dan isu pelarian Rohingya/UNHCR
+- Perlembagaan dan struktur flat Parti Bersama berbanding PKR
+- Koperasi Kira dan keahliannya berbanding keahlian PKR/Bersama
+- Reformasi sistem kesihatan: sasaran nisbah 1 doktor kepada 300 pesakit
+- Isu ekonomi: gaji tak naik, tax-to-GDP ratio, dan reformasi percukaian
+- Kriteria pemilihan calon Bersama dan peratusan calon Gen Z/millennial
+- Kewangan parti, crowdfunding, dan pengalaman Invoke PRU 2018
+- Kontroversi Tan Sri Khalid Ibrahim, Langkah Kajang dan tuntutan saman
+- Suruhanjaya Diraja mafia korporat dan isu Azam Baki
+- Sekatan portal MyCast terhadap ahli parlimen Wong Chen dan Chin Chong
+- Perumahan mampu milik untuk Gen Z dan model IBS
+- Presiden Bersama Syukri Razak dan latar belakangnya
 
 ## YBhM ep51 &mdash; 2026-06-05
 
@@ -1178,7 +1169,7 @@ Every transcript is machine-generated and carries the accuracy caveats in
 - Format baharu podcast YBM sempena episod ke-52 dan fokus kepada suara anak muda
 - Segmen Beria: nasi ayam RM26 dan branding harga premium
 - Segmen Beria: ikan keli pistachio dan tren makanan viral
-- Segmen Beria: NGO memuji ''Farhaj'' dan spekulasi agenda PR/politik
+- Segmen Beria: NGO memuji ''Farhash'' dan spekulasi agenda PR/politik
 - Permohonan calon Parti Bersama secara online dan kritikan Puad Zarkashi
 - Sistem pemilihan calon politik: primary di US/UK berbanding budaya parti di Malaysia
 - Salah kira RM90 juta oleh Zaleha Ahmad dan kepentingan kemahiran berceramah dalam PKR
@@ -1199,39 +1190,44 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [Rohingya, Pilihan Raya dan Apa Yang Akan Berlaku Seterusnya | YBM #53](https://www.youtube.com/watch?v=61L_JC1oCR4) &middot; [raw](episodes/yang-berhenti-menteri/2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-06-19-ep53-rohingya-pilihan-raya-dan-apa-yang-akan-berlaku-seterusnya-y/interview-ms.md)
 
-- Tontonan podcast merudum dan kesan algoritma/kanibalisasi konten
-- Beria: barisan panjang temuduga kerja di Melaka dan penyaringan calon menggunakan AI/algoritma
-- Beria: kontroversi Ketua Pengarah JKOM memanggil rakyat ''balaci'' dan fungsi sebenar JKOM/JASA
-- Beria: kandungan Jason Yu dan isu Wong Chan / Ahli Parlimen Subang
-- Beria: kenyataan kontroversi Ketua AMK Selangor tentang Anwar
-- Beria: akaun bot palsu ''Tilaga Gunaratnam'' menyerang Bersama dan sindiket cyber trooper
-- Beria: kehilangan Menteri Sumber Manusia (Ramanan) dari radar media dan isu RM9.5 juta
-- Asal-usul dan status stateless komuniti Rohingya di Myanmar (Rakhine State)
-- Sebab kemasukan besar-besaran pelarian Rohingya ke Malaysia dan peranan pemerdagangan manusia/sindiket
-- Malaysia bukan penandatangan Refugee Convention 1951 dan implikasi kad UNHCR
-- Kesan sosial dan jenayah akibat kepadatan komuniti Rohingya di kawasan seperti Pandan Mewah dan Selayang
-- Tanggungjawab antarabangsa Malaysia (CRC, perdagangan, reputasi) berkaitan layanan terhadap pelarian
-- Kegagalan dasar dan kepimpinan kerajaan menangani krisis Rohingya secara menyeluruh
-- Kos sebenar dan struktur perbelanjaan kempen pilihan raya berbanding dakwaan RM1 juta sekursi
-- Politik wang, rasuah pilihan raya, dan cadangan Political Financing Act serta pembiayaan negara
-- Usaha pembiayaan telus parti Bersama melalui yuran, crowdfunding, WeFund dan fundraiser
+- Ulang tahun pertama podcast YBM dan penurunan tontonan episod ke-52
+- Beria: barisan panjang pemohon kerja di Infineon Melaka dan saringan calon menggunakan algorithm/AI oleh Bersama
+- Beria: kontroversi Ketua Pengarah J-KOM memanggil orang Cina ''balaci/belaci'' dan masalah struktur komunikasi kerajaan Madani
+- Beria: Jason Yu dan tuduhan Wong Chen tidak berani meletak jawatan sebagai Ahli Parlimen Subang
+- Beria: kenyataan kontroversi Ketua AMK Selangor tentang baju koyak Anwar Ibrahim
+- Beria: akaun bot ''Tilaga Gunaratnam'' dan ''cyber trooper'' menyerang akaun Instagram Bersama dan Rafizi
+- Beria: Ramanan (Menteri Sumber Manusia) hilang dari radar selepas isu 9.5 juta ringgit
+- Asal usul dan status stateless pelarian Rohingya di Malaysia serta sejarah penempatan sejak 1980-an-1990-an
+- Konvensyen Pelarian 1951 (Refugee Convention), UNHCR, dan sebab Malaysia tidak meratifikasinya
+- Kesan reputasi antarabangsa Malaysia (human trafficking, forced labor rating, State Department report) akibat pengurusan isu Rohingya
+- Kepadatan penduduk Rohingya di kawasan seperti Selayang dan Pandan serta masalah sosial dan jenayah yang timbul
+- Cadangan Akta Anti Alibaba (Anti Rent Seeking Act) untuk mengendalikan penyewaan rumah kos rendah dan penggunaan nama Malaysia oleh orang asing
+- Kelemahan kerajaan berturut-turut membuat keputusan dasar tegas mengenai status dan layanan pelarian Rohingya
+- Sebab-sebab kenaikan kemarahan rakyat terhadap Rohingya sejak dua minggu lalu dan risiko sentimen xenophobia
+- Kos sebenar pilihan raya, dakwaan RM1 juta-RM5 juta satu kerusi oleh Sanusi, dan pengiraan terperinci perbelanjaan kempen
+- Politik wang, budaya 'duit minyak', ketirisan dana kempen kepada calon dan jentera, serta kes dakwaan RM400 juta Bersatu
+- Cadangan Political Financing Act, state financing parti politik dan pengukuhan undang-undang anti-rasuah pilihan raya
+- Pendekatan Bersama dalam pembiayaan kempen secara telus melalui yuran, crowdfunding dan fundraiser 'We Fund
+- Pengumuman Jelajah Kancil di Kelantan dan Pahang serta acara fundraiser We Fund
 
 ## YBhM ep54 &mdash; 2026-06-25
 
 [Pilihanraya Negeri Johor Menghampiri | YBM #54](https://www.youtube.com/watch?v=5IjX6nVTcDs) &middot; [raw](episodes/yang-berhenti-menteri/2026-06-25-ep54-pilihanraya-negeri-johor-menghampiri-ybm-54/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-06-25-ep54-pilihanraya-negeri-johor-menghampiri-ybm-54/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-06-25-ep54-pilihanraya-negeri-johor-menghampiri-ybm-54/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-06-25-ep54-pilihanraya-negeri-johor-menghampiri-ybm-54/interview-ms.md)
 
-- Beria: kesilapan cyber trooper PH dan komen bahasa Amharic dari ''cabang Chittagong
-- Kontroversi kemasukan Parti Wawasan (Reset) ke dalam Perikatan Nasional dan isu pematuhan ROS
-- Kritikan terhadap penganalisis politik (Dr. Nurhuddin Danu) dan budaya 'roda politik berputar
-- Kritikan budaya 'form over substance' dan gambar membaca buku ala pseudo-intellect dalam politik
-- Perkembangan PRN Johor: strategi dan dilema PH termasuk calon MB dan isu peruntukan negeri
-- Kontroversi kenyataan Onn Hafiz tidak mahu duduk semeja DAP dan kesan sentimen pengundi Cina
-- Perpecahan dalam Perikatan Nasional: Bersatu, PAS, Wawasan dan Gerakan menarik diri di Johor
-- Isu traffic jam sebagai kebimbangan utama pengundi di selatan Johor dan naratif kempen parti-parti besar
-- Peranan dan tawaran Parti Bersama dalam PRN Johor sebagai suara bebas rakyat
-- Dasar pengisytiharan harta, hutang dan pendapatan calon Bersama serta sejarah desakan dalam PH/PKR
-- Sistem sukarelawan KANCIL dan usaha Bersama menjalankan kempen tanpa wang bagi mengubah budaya politik
-- Promosi acara pengumuman calon Bersama dan seruan mobilisasi sukarelawan di Johor
+- Beria: cyber trooper PH guna bahasa Amharic dari Chittagong
+- Beria: video lama ''Teman Sejati'' nyanyian Ibrahim Tuan Man
+- Kontroversi Parti Wawasan (bekas PCM) masuk Perikatan Nasional dan isu pematuhan ROS/Akta Pertubuhan
+- Beria: kritikan pensyarah UMP Dr. Nurhuddin Danu terhadap Rafizi dan sikap Rafizi terhadap penganalisis politik
+- Kontroversi gambar membaca buku ahli politik dan budaya 'form over substance' dalam politik Malaysia
+- Cerita Agong: pengalaman Rafizi audit cukai Petronas di Ethiopia dan bahasa Amharic
+- Perkembangan kempen PRN Johor bagi PH: calon MB, serangan terhadap Onn Hafiz, isu DAP-Cina
+- Kucar-kacir Perikatan Nasional: hubungan Bersatu-PAS, Parti Wawasan tarik diri, dan penarikan Gerakan
+- Bantahan dalaman pemilihan calon PH: Buluh Kasap, Sharon Teo di Pasir Gudang, dan keluarnya Puan Zakiah dari UMNO
+- Isu traffic jam sebagai kebimbangan utama pengundi di Selatan Johor dan ketidaksesuaian naratif parti besar
+- Strategi dan posisi Parti Bersama bertanding solo 15 kerusi tanpa gabungan
+- Dasar pengisytiharan harta calon Bersama dan sejarah penolakan idea ini dalam PKR/PH
+- Sistem 'Kancil' untuk mobilisasi sukarelawan tanpa bayaran bagi kempen Bersama
+- Pengumuman dan susunan calon Bersama serta majlis pengumuman calon di Paragon Marketplace, Jalan Tampoi
 
 ## YBhM ep55 &mdash; 2026-07-17
 
@@ -1340,7 +1336,7 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [Mansuh AUKU, Ekonomi Tumbuh Pesat 6% Tapi Tetap Hilang Undi | YBM EP #60](https://www.youtube.com/watch?v=stsjJHwNoTM) &middot; [raw](episodes/yang-berhenti-menteri/2026-08-21-ep60-mansuh-auku-ekonomi-tumbuh-pesat-6-tapi-tetap-hilang-undi-yb/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-08-21-ep60-mansuh-auku-ekonomi-tumbuh-pesat-6-tapi-tetap-hilang-undi-yb/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-08-21-ep60-mansuh-auku-ekonomi-tumbuh-pesat-6-tapi-tetap-hilang-undi-yb/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-08-21-ep60-mansuh-auku-ekonomi-tumbuh-pesat-6-tapi-tetap-hilang-undi-yb/interview-ms.md)
 
-- Segmen Beria: saman-menyaman ahli politik UMNO dan Dr Ashraf Wajdi berkaitan RCI Tabung Haji
+- Segmen Beria: saman-menyaman ahli politik UMNO dan Dr Asyraf Wajdi berkaitan RCI Tabung Haji
 - Undang-undang fitnah/defamation dan pengalaman Rafizi menyaman Caprice
 - Beria: kenyataan Nurul Izzah mengenai reformasi gaji ditangguh ke ''second term'' Anwar
 - Beria: kontroversi post Adun PAS Haji Kamarul dan isu admin media sosial ahli politik
@@ -1359,20 +1355,62 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 ## YBhM ep61 &mdash; 2026-08-28
 
-[NEGERI MISKIN SEBAB DIANAKTIRI, KEGANASAN RUMAH TANGGA DALAM KERAJAAN MADANI](https://www.youtube.com/watch?v=2AytMmKIU7w) &middot; [raw](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview-ms.md)
+[NEGERI MISKIN SEBAB DIANAKTIRI, KEGANASAN RUMAH TANGGA DALAM KERAJAAN MADANI | YBM #61](https://www.youtube.com/watch?v=2AytMmKIU7w) &middot; [raw](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview-ms.md)
 
-- Beria: produk overclaim hydrogen therapy/nebulizer
-- Beria: fenomena Zohran Mamdani dan perbandingan dengan sistem PBT Malaysia
-- Beria: merchandise ''Walanon'' dan sokongan siber Pakatan Harapan
-- Beria: komen kontroversial pensyarah kanan UUM mengenai Anwar dan Azmin
-- Beria: kenyataan PAS ''Tabung Haji ibarat Baitul Maqdis'' dan RCI Tabung Haji
-- Beria: pembatalan acara ''Bersama'' di Lembah Pantai
-- Beria: penyertaan dan kontroversi Rafizi dalam kontest MBSB Bank
-- Model Persekutuan Malaysia dan sejarah pembentukan Persekutuan Tanah Melayu/Suruhanjaya Reid
-- Agihan kuasa perundangan dan eksekutif: Senarai Persekutuan, Senarai Negeri, Senarai Bersama (Jadual Kesembilan)
-- Pertikaian Sanusi Kedah vs Anwar Ibrahim mengenai peruntukan dan naratif 'penganaktirian' negeri PAS
-- Jurang pembangunan ekonomi antara negeri dan risiko migrasi serta keadilan fiskal
-- Cadangan fiscal devolution dan perkongsian hasil cukai berasaskan outcome kepada kerajaan negeri
-- Perbandingan model persekutuan China dan pergantungan kerajaan negeri Malaysia kepada kerajaan persekutuan (contoh air, sisa pepejal, JSSEZ)
-- Siri dakwaan rasuah terhadap pemimpin UMNO/BN (Ismail Sabri, Saravanan, Irwan Serigar) sebagai 'keganasan rumah tangga politik
-- Implikasi politik kepada Anwar Ibrahim, UMNO-BN, dan PRN Melaka akan datang
+- Terapi overclaim: alat hidrogen/nebulizer dan kawalan Medical Device Authority
+- Fenomena 'Malaysia Mamdani' dan perbandingan sistem Datuk Bandar New York dengan PBT Malaysia
+- Merchandise 'Walanon Army' dan budaya sokongan siber Pakatan Harapan
+- Kontroversi komen pensyarah kanan UUM tentang Rafizi dan Azmin Ali dalam PKR
+- Kenyataan PAS mempertahankan Tabung Haji 'ibarat Baitul Maqdis' dan tuntutan RCI 2.0
+- Pembatalan acara 'Bersama' di Lembah Pantai dan penyalahgunaan kuasa
+- Penyertaan Rafizi dalam kontest MBSB Bank dan isu 'ban
+- Model federalisme Malaysia: sejarah pembentukan Persekutuan Tanah Melayu dan Suruhanjaya Reid
+- Agihan kuasa perundangan dan eksekutif dalam Perlembagaan Persekutuan (senarai persekutuan, negeri, bersama)
+- Isu tanah sebagai aset utama kerajaan negeri dan jurang pembangunan ekonomi antara negeri
+- Polemik Sanusi Md Nor vs Anwar Ibrahim tentang peruntukan pembangunan Kedah
+- Cadangan fiskal devolusi dan perkongsian hasil cukai berasaskan outcome kepada kerajaan negeri
+- Siri pendakwaan bekas pemimpin UMNO/BN (Ismail Sabri, Saravanan, Irwan Serigar) sebagai 'keganasan rumah tangga politik
+- Spekulasi gabungan BN-PH-PN menjelang PRN Melaka dan masa depan politik Anwar Ibrahim
+
+## YBhM ep62 &mdash; 2026-09-04
+
+[FELDA Lama Sangat Peram, Kita Mula Dulu | YBM #62](https://www.youtube.com/watch?v=0M5hweswMpE) &middot; [raw](episodes/yang-berhenti-menteri/2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/interview-ms.md)
+
+- Beria: kemalangan jalan raya akibat perlumbaan haram di media sosial
+- Beria: kesesakan dan kucar-kacar perarakan Hari Merdeka di Putrajaya
+- Beria: pergaduhan terbuka setiausaha akhbar dan setiausaha politik antara dua kementerian (isu notice of change dan cost overrun projek)
+- Beria: cadangan membuka semula kes-kes lama (kes 47) dan isu double standard reformasi
+- Beria: kenyataan Anwar tentang RM16 bilion dana rampasan yang tidak dapat dijejaki dalam bajet negara
+- Beria: pembubaran pasukan khas pantau bendera terbalik Pemuda PAS
+- Sejarah dan model asal ekonomi FELDA sebagai program pembasmian kemiskinan (peneroka, FELDA Holdings, Koperasi Permodalan FELDA)
+- Susur galur kepimpinan dan menteri bertanggungjawab FELDA dari Tun Razak hingga Anwar
+- Penstrukturan semula dan penyenaraian FELDA Global Ventures (FGV) 2012 di bawah Najib serta janji durian runtuh kepada peneroka
+- Pembelian kondominium mewah Troika oleh FGV untuk kegunaan peribadi Tan Sri Isa Samad
+- Pembelian pegangan 37% Eagle High Plantations daripada Peter Sondakh pada harga tiga kali ganda
+- Skandal FELDA Wellness Corporation dan penyelewengan dana untuk keluarga pengarah
+- Perjanjian pembiayaan perumahan FELDA dengan Putra Star Investments dan kaitan dengan Panama Papers/China
+- Pembinaan Hotel St. Regis Langkawi yang dibiayai oleh Bank Pembangunan dan geran kerajaan
+- Pembelian hartanah London: Grand Plaza Kensington, Grand Plaza Service Apartments, FELDA House dan Grand FELDA House melalui syarikat BVI misteri
+- Kertas Putih FELDA 2019 sebagai pengesahan rasmi pendedahan Rafizi Ramli
+- Cadangan hala tuju (way forward) model FELDA yang lebih mampan untuk episod akan datang
+
+## YBhM ep63 &mdash; 2026-09-11
+
+[PISA: Anak-anak Kita Sedang Ketinggalan? FELDA Part Two | YBM #63](https://www.youtube.com/watch?v=GJyo38Kmyt8) &middot; [raw](episodes/yang-berhenti-menteri/2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/interview-ms.md)
+
+- Beria: dakwaan Hadi Awang pasal bantuan AS jatuhkan Najib
+- Beria: skandal skim mirip Ponzi dan dividen Tabung Haji
+- Beria: budaya undi dulu manifesto kemudian UMNO PAS
+- Beria: inconsistency you touch you go dalam isu pengampunan Najib
+- Model ekonomi dan struktur FELDA tidak sustainable
+- Delisting dan lease balik FGV
+- Kos replanting FELDA berbanding plantation komersial
+- Hutang peneroka FELDA dan penghapusan hutang
+- Yield FFB FELDA rendah berbanding industri
+- Cadangan sekuritisasi tanah FELDA
+- Keputusan PISA 2025 kejatuhan skor matematik
+- Perbandingan serantau PISA Cambodia Thailand Vietnam
+- Kompetensi asas pelajar dalam matematik dan literasi membaca
+- Peruntukan perbelanjaan pendidikan berbanding hasil
+- Cadangan reformasi pendidikan awal kanak-kanak
+- Kritikan kepimpinan Anwar Ibrahim dan Fadlina Sidek

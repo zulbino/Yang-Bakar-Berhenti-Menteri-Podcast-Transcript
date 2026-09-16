@@ -8,7 +8,7 @@ duration_seconds: 9667
 duration: 2h 41m
 view_count: 151282
 model: microsoft/MAI-Transcribe-2
-note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: none recorded for this episode). See interview.md for the polished newspaper-style rewrite.'
+note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: 3 blocks set from data/forced_labels.json). See interview.md for the polished newspaper-style rewrite.'
 ---
 
 <!-- nav -->
@@ -85,9 +85,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [20:36] Haziq: Ya, masih ramai pegawai kerajaan yang yalah dikatakan tak grasp Madani konsep.
 
-[20:44] Rafizi: Dah lah kena pergi Majlis Taat Setia, lepas tu kena marah pula tak setia. Saya ingat yalah saya jaranglah sentuh pegawai-pegawai kerajaan kan. Saya pun tak tahulah sama ada ini arahan daripada Datuk Seri Anwar ke apa kan. Tapi saya ingatlah kerajaan, terutamanya pimpinan tertinggi penjawat awam macam KSN, dia kena kurangkan beria sedikit buat benda-benda macam ini. Okey.
+[20:44] Rafizi: Dah lah kena pergi Majlis Taat Setia, lepas tu kena marah pula tak setia. Saya ingat yalah saya jaranglah sentuh pegawai-pegawai kerajaan kan. Saya pun tak tahulah sama ada ini arahan daripada Datuk Seri Anwar ke apa kan. Tapi saya ingatlah kerajaan, terutamanya pimpinan tertinggi penjawat awam macam KSN, dia kena kurangkan beria sedikit buat benda-benda macam ini.
 
-[21:14] Haziq: Tapi dia ikut arahan PM je mungkin?
+[21:14] Haziq: Okey. Tapi dia ikut arahan PM je mungkin?
 
 [21:16] Rafizi: Wallahuaklam. Ha, yang tu kita tak tahulah kan. Tak boleh nak tuduh. Sebab kadang-kadang ada dua kemungkinan lah. Sama ada itu arahan daripada Perdana Menteri ataupun pegawai-pegawai kanan ni beria nak menunjukkan kesetiaan kepada Perdana Menteri. So wallahualam lah kan. Tapi penjawat awam sepatutnya tidak lagilah perlu melalui perkara-perkara ini. Saya ingat reformasi yang panjang dulu kan. Kita memang niat kita untuk menghapuskan perkara-perkara yang satu tidak berlaku adil kepada lawan. Jadi masa ka kita pembangkang dulu, kita memang tentang BTN, Biro Tatanegara, yang mana mula-mula pegawai kerajaan, lepas tu pelajar universiti. Akhirnya menjelang tahun 2010, 2011 tu saya ingat budak sekolah tingkatan 4 pun kena pergi BTN. Kan? BTN ini digunakan untuk apa nama ni, Brainwash. memburuk-burukkan, brainwash kan? Memburuk-burukkan pembangkang. Yang selalu jadi mangsa pun situ Anwar Ibrahim lah. Dialah ejen Yahudi, dialah itu. Saya ada pengalaman. Oh, kau ada pengalaman? Saya entah macam mana tak pernah kena panggil BTN. Sebahagiannya sebab aku terlepas sebab aku fly sebelum SPM. So sebab aku habis SPM je aku kena fly. Tak sempat dia orang nak panggil BTN tau. Jadi orang lain semua kena pergilah. So, kau pernah kena pengalaman BTN dulu?
 
@@ -225,7 +225,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:37:07] Rafizi: Okey, tak apa. Dia sebagai peneman yang suka tarik-tarik isu.
 
-[1:37:12] Haziq: Tapi kita ada tetamu yang dah tunggu lama. Sebab saya nak, saya, saya nak tunggu tetamu itu. Kita ke satu lagi weh. Azam Baki dan Mafia Korporat. I am your father.
+[1:37:12] Haziq: Tapi kita ada tetamu yang dah tunggu lama. Sebab saya nak, saya, saya nak tunggu tetamu itu. Ya. Kita ke satu lagi weh. Azam Baki dan Mafia Korporat. I am your father.
 
 [1:37:25] Rafizi: Episode ketiga. Oh, ni macam aa apa nama ni, aa Star Wars lah episode. Walaupun.
 
@@ -233,7 +233,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:37:43] Rafizi: Selepas ni insyaAllah saya akan mengusulkan untuk kita tukar moderator.
 
-[1:37:48] Haziq: Sebab tak tengok Star Wars? Tapi ini cerita lama saya tahu. 1980.
+[1:37:48] Haziq: Sebab tak tengok Star Wars? Ya. Tapi ini cerita lama saya tahu. 1980.
 
 [1:37:52] Rafizi: Itu sebenarnya teruk tak tengok Star Wars. Dalam buku aku tak tengok Star Wars ni. Allahuakbar. Tapi saya tengok cerita lain lah. Tapi tak boleh bandingkan. Oh, tak boleh banding.
 
@@ -313,11 +313,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:29:01] Rafizi: Dia berpadanan lah. Dan ujian ni pun kan, ini yang yang yang Faikah sebut sebagai kifarah lah kan, ujian kan. My understanding about kifarah ni dia selain yang saya sebut a... minggu lepas kan, dia agak lain daripada cara orang kita faham kifarah ni kan. Kita tiap-tiap hari buat dosa. Ada je dosa kita kan. Kadang-kadang sembahyang tak betul. Kalau dosa aku bab-bab tu je. Contohnya sembahyang lambat, macam-macam tu lah kan. Sembahyang cepatlah, lepas tu apa nama ni, mengata kat orang, buat lawak yang kecil hati orang lain. Tapi kita tiap-tiap hari ada dosa kan. So, ujian-ujian macam ini ni sebenarnya bagi sayalah ada dua kelebihan. Satu, dia membersihkan dosa-dosa itu. Yang keduanya, selalunya kalau kita diujilah kan, kalau kita melaluinya kita reda semua, insyaAllah kita jadi lebih baik, orang yang lebih baik. Lagi tua, lagi bersabar, lagi kurang rasa marah kan. Jadi kalau kita lebih reda dengan ujian yang Allah, then doa kita supaya Allah mempermudahkan untuk perkara-perkara lain yang lebih besar selepas inilah. Sebab itu namanya ujian because we have to go through it. Kita kena tak boleh nak marah kat orang, tak boleh hati kita jadi tak tenteram, tak boleh nak kita berdendam dengan orang kan. So, if you go through it, then dia makin mengingatkan kita kepada Allah, kepada kawan-kawan yang setia kat kita semua ni. Then kalau kita lepas ujian itu, maksudnya kita lebih bersedia kepada perkara yang lebih baiklah. That's that's actually how I see life lah. Which unfortunately tak banyak orang politik begitulah kan. Jadi saya tak disukai oleh sebahagian orang politik tu precisely saya ingat sebab itulah because my pers- perspective about life is very different dari kebanyakan orang. Jadi saya okey je sebenarnya. In fact kan. I think my family, my wife ke semua, dia dah melalui semua ini. Jadi kami tak adalah bincang. We never discuss politics tau dekat rumah. Aku punya rutin rumah ni mudah je. Balik rumah, I try to skip dinner lah kan. Dan sebenarnya aku balik lagi lambatlah dia orang dah habis dinner. Tapi katakanlah aku balik tu dia orang masih lagi dinner kan. Dan kita orang sembanglah. Sembang pasal kucing, sembang pasal Ben punya sekolah, and then kita orang tengok YouTube, kita orang gelakkan dekat video-video YouTube. Lepas tu kita bincang pasal TV. Itu je. Nothing, never ever aa pasal politik lah kan. So I think my family, especially my wife lah, saya rasa dah biasa, dah melalui semua ni kan. Dan kami pun dah tua, dah 50. My wife pun dah more than 50 kan. Jadi kalau contohnya semua ini berlaku, ujiannya lebih besar, it means that, you know, yalah sekarang ni ada sampai 2 3 kes ni kan, diorang sangat determined semua kan. Kalau katakanlah dia berlarutan sampai ke mahkamah, turun naik mahkamah, I've gone through it before. Kalau contohnya dia berlarutan sampai ke aku masuk penjara. Then so be it lah. Sebab you need to have the faith bahawa kalau kita benar dan memang betullah aku satu yang diorang tuduh ni pun satu, not even an iota of truth, you know. Makan duit ke apa semua ni kan. You must rest and serahkan everything kepada Allah kerana akhirnya mereka yang duk sibuk sangat ni dia tak sedar bahawa they are in the business of winning the hearts and minds of orang ramai dalam pilihan raya. Dan kuasa untuk membuka dan menutup hati orang ramai itu ialah bukan kuasa manusia tau, kuasa Allah. So if you are s- your faith dalam perkara itu sangat kuat, and in my case lah kan. Walaupun aku selalu buat joke lah kan. Martin Luther King akhirnya kena tembak kan. But you know antara speeches ataupun perkara yang yang apa nama ni kita betul-betul yakin dulu kan, which is you know, I mean it inspired me kan. The arc of the universe is long, but it curves towards justice. That's Martin Luther King kan. Jadi memang betullah hidup ni susah payah, berliku semua. Tapi kalau kita tak buat apa yang salah, yang kita cakap itu, cuma those the power, the powers that be tak suka dengar apa yang kita cakap. Kita ni annoyance to them. Takpalah, memanglah hidup kita ni akan disusahkan. But finally, I think, you will be proven right lah. Dan in the case of politik ni kan, for every action ada consequence kan. Jadi sementara action mereka yang menekan ini yalah menyukarkan hidup aku kan. Tapi sebenarnya consequence tu ada di dua-dua pihak. To me pun ada consequence, to them pun ada consequence. Okey, baik. 3 jam.
 
-[2:34:51] Haziq: 2 jam 40 minit. Okey, okey, okey, okey.
-
-[2:34:53] Rafizi: Okey. Selamat. Selamatlah.
-
-[2:34:55] Haziq: Okeylah kot eh YB.
+[2:34:51] Haziq: 2 jam 40 minit. Okey, okey, okey, okey. Okey. Selamat. Selamatlah. Okeylah kot eh YB.
 
 [2:34:57] Rafizi: Jadi, ah, jadi kepada kawan-kawan semua kan, bersedialah. Kita tengok dalam 1 2 bulan lagi sama ada ada pilihan raya kecil di Pandan. Dan kalau ada pilihan raya kecil di Pandan, saya alu-alukan jom kita ramai-ramai aa gotong-royong berkempen di Pandan untuk pilihan raya kecil yang paling menarik tahun ini. Tapi memang serius you pilihan raya kecil tu? Bunyi-bunyi. Well, sebenarnya sepatutnyalah. Ya. Sepatutnya dia dah lepas 3 tahun. Sepatutnya tak panggil lah pilihan raya kecil. Ha, betul. Ya, ya. Betul. Tapi ni zaman Madani.
 
@@ -341,9 +337,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:38:15] Rafizi: That's not kifarah.
 
-[2:38:16] Haziq: Oh, sorry. Okey.
+[2:38:16] Haziq: Oh, sorry.
 
-[2:38:18] Rafizi: Tulah aku cakap, kau janganlah cakap-cakap benda yang kau tak tahu. No, no, I think kifarah semua ni, konsep ni semua ialah actually untuk kita muhasabah, you know, dia sebahagian daripada protection kita daripada nafsu sebenarnya kan. I think but life is a, a circle. It will go round and round and round lah. That's why people keep saying history repeats itself. The reason history repeats itself because manusia ni basically kita ada instinct kita, kita ada nafsu kita, manusia daripada zaman yang berbeza. Bila ada kuasa, ada, you know, they are bound to do the same thing over and over again lah. Samalah. And in that context lah kita kena ada pegangan yang kukuh yang, yang Martin Luther King cakaplah. The arc of the universe is long but it bends towards justice. I think once you have that kan, actually hidup agak bahagia tau. But you need, kau kena kental lah to believe in all that lah.
+[2:38:18] Rafizi: Okey. Tulah aku cakap, kau janganlah cakap-cakap benda yang kau tak tahu. No, no, I think kifarah semua ni, konsep ni semua ialah actually untuk kita muhasabah, you know, dia sebahagian daripada protection kita daripada nafsu sebenarnya kan. I think but life is a, a circle. It will go round and round and round lah. That's why people keep saying history repeats itself. The reason history repeats itself because manusia ni basically kita ada instinct kita, kita ada nafsu kita, manusia daripada zaman yang berbeza. Bila ada kuasa, ada, you know, they are bound to do the same thing over and over again lah. Samalah. And in that context lah kita kena ada pegangan yang kukuh yang, yang Martin Luther King cakaplah. The arc of the universe is long but it bends towards justice. I think once you have that kan, actually hidup agak bahagia tau. But you need, kau kena kental lah to believe in all that lah.
 
 [2:39:22] Haziq: Tulah not tak semudah YB dah buktikan, tapi orang lain ni.
 

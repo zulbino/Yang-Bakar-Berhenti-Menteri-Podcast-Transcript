@@ -31,7 +31,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [04:40] Farhan (Pa'an): Upacara? Kenapa dia bagi duit 100 ringgit tu? Ke memang dia pemurah?
 
-[04:44] Haziq: Dia memang pemurah. Tak, the fact that orang selalu cakap dia sultan pemurah sebab dulu dia bagi dekat live live orang kan dulu, dia bagi gift. Dia bagi gift lion. Babi tahu satu harga tu berapa? Tak tahu. 2000 lebih. Oh ya ke? Itu TikTok lah.
+[04:44] Haziq: Dia memang pemurah. Tak, the fact that orang selalu cakap dia sultan pemurah sebab dulu dia bagi dekat live live orang kan dulu, dia bagi gift. Dia bagi gift lion. YB tahu satu harga tu berapa? Tak tahu. 2000 lebih. Oh ya ke? Itu TikTok lah.
 
 [04:58] Farhan (Pa'an): TikTok. TikTok. So. Harap malam ni dia bagi gift lion kepada TikTok live. Yeah, kita bersiaran di TikTok.
 

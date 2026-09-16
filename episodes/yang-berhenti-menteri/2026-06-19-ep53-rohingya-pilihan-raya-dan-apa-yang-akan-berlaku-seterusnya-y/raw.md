@@ -535,7 +535,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:55:21] Rafizi: Dia sebenarnya dia tak hantar. Dia suruh orang lain hantar. Dia hantar kepada Presiden Bersama. Presiden Bersama selawat banyak-banyak hantar kat aku. Satu hari aku sidai semua orang kan. Semua la la aku cakap, okeylah. Hah? Capex. Ha, Capex, Capex kan. So actually is a discipline. Semua orang yang ahli politik tu tahu tau sebenarnya dia lebih berkat buat macam ini. And you sleep well at night. Kau tak payah takut pasal rasuah ke apa. Masalahnya kerja banyak, susah, kemudian tak popular kan. Jadi semua orang nak jadi popular kan. Jadi akhirnya kita jadilah macam ini masuk pilihan raya, duit masuk.
 
-[2:56:05] Haziq: Babi, 2 jam 55 minit. Ha, berhentilah. Kan aku kena pergi kencing sekali lagi. Ha, okey okey. Kita ada sat- pension nanti lain.
+[2:56:05] Haziq: YB, 2 jam 55 minit. Ha, berhentilah. Kan aku kena pergi kencing sekali lagi. Ha, okey okey. Kita ada sat- pension nanti lain.
 
 [2:56:13] Rafizi: Pension kemudianlah cerita. Kita buat satu topik lain. Ha, cerita pasal macam mana kita kalau kita nak push supaya orang kurang benci sikit kepada ahli-ahli parlimen dan ahli politik ni. Satu caranya ialah hapuskan pension. Pension. Tapi kita nak kena ulas dengan panjanglah benda itu.
 

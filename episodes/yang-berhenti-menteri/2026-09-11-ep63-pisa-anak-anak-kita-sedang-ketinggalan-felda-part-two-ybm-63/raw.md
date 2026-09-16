@@ -111,7 +111,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [24:10] Rafizi: Kan. So, yang ini namanya mengundi buta. Okey, tahniah. Tahniah. Pada semua pengundi. Seronok kita. Dia happy, dia best kalau beria. Bila apa ni, man from the future macam ni. Saya daripada future.
 
-[24:30] Haziq: Okey, baik Babi. Yang terakhir, ini daripada... netizen kita. Dia kata you touch, you go. Tapi untuk rakyat Marhaen saja. Ini kenyataan apa berkaitan dengan Datuk Seri Najib punya pengampunanlah. Pakatan Harapan keluarkan dulu kenyataan kemudian dibalas aa oleh apa aa Setiausaha Agung UMNO.
+[24:30] Haziq: Okey, baik YB. Yang terakhir, ini daripada... netizen kita. Dia kata you touch, you go. Tapi untuk rakyat Marhaen saja. Ini kenyataan apa berkaitan dengan Datuk Seri Najib punya pengampunanlah. Pakatan Harapan keluarkan dulu kenyataan kemudian dibalas aa oleh apa aa Setiausaha Agung UMNO.
 
 [24:54] Rafizi: Ini ikut komen-komen nanti kena saman.
 
@@ -499,7 +499,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:56:39] Rafizi: Tapi dia balik Cambridge, dia still boleh work remotely kan? Remotely lah, remotely. Tapi mungkin. So cakap kat dia, work remotely. So there's, there's a lot of number crunching that we have go to go through pasal, pasal pendidikan semua. And juga legislation document semua.
 
-[2:56:57] Sum Dek Joe: So seperti apa tu isu mengenai pendidikan awal semua. So memang tak ada legislation. Dia tak ada legislation. Very fragmented. Seperti apa Babi yang katalah kita ada Japanese, kita pun ada kemas, tadika kemas, tadika Japanese dan tadika KPM semua. It's very fragmented. Dan untuk kita ambil angka dan data ni it's all over the place. Dia tak ada national reporting untuk semua ni lah kan.
+[2:56:57] Sum Dek Joe: So seperti apa tu isu mengenai pendidikan awal semua. So memang tak ada legislation. Dia tak ada legislation. Very fragmented. Seperti apa YB yang katalah kita ada Japanese, kita pun ada kemas, tadika kemas, tadika Japanese dan tadika KPM semua. It's very fragmented. Dan untuk kita ambil angka dan data ni it's all over the place. Dia tak ada national reporting untuk semua ni lah kan.
 
 [2:57:23] Rafizi: So itu ialah untuk podcast-podcast yang akan datang. Dah cukup 3 jam dah? Nah, 2 jam 57 minit.
 

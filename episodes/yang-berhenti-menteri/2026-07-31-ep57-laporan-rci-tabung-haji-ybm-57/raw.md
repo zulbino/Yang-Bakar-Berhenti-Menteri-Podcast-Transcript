@@ -47,7 +47,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [03:15] Haziq: Tapi itu ialah ditunjukkan oleh orang lain lah macam party validation. Tapi komen itu nampak rakyat macam tak buy lah benda tu.
 
-[03:24] Rafizi: Meria. Okey, meria. Okey. Settle, Babi?
+[03:24] Rafizi: Meria. Okey, meria. Okey. Settle, YB?
 
 [03:28] Haziq: Settle. Laju. Laju. Okey. Yang kedua, gaya berkempen juga. Ha, dan saya rasa ni ramai dah tengoklah. Dia tanya kal- kalau ini ADUN Lenggeng eh? ADUN Lenggeng.
 

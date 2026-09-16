@@ -520,7 +520,7 @@ Soalan ketiga — dakwaan PKR guna dana kerajaan itu tidak betul. Malah sebenarn
 
 **Rafizi:** Ya. Ia tak pernah bertukar bahawa kita minta beberapa tindakan perlu terus dibuat. Satu contohnya ialah laporan kabinet mengenai pemilikan saham itu perlu didedahkan. Kalau kerajaan bertukar, saya rasa siapa pun kerajaan baharu yang masuk, untuk menjadi popular, memang itu perkara pertama yang akan dibuat. Kedua ialah mengenai Suruhanjaya Diraja mengenai mafia korporat ini perlu diadakan. Dan saya sudah sebut dalam podcast yang lepas mengenai mafia korporat ini — kebimbangan saya bukan sangat soal politik Azam Baki, ataupun Farhash, ataupun Anwar Ibrahim, ataupun parti apa. Saya nak pastikan bahawa elemen-elemen, unsur-unsur yang berkaitan jenayah ataupun kongsi gelap, contohnya, tidak meresap ke dalam kerajaan. Dan untuk itu, saya kira ia demi kepentingan semua orang untuk menyelidiki dengan mendalam dan benar-benar memeriksa serta memastikan kalau ada sebarang risiko yang kerajaan ataupun agensi penguatkuasa diresapi oleh unsur-unsur jenayah, kita perlu berhenti dan buat segala apa yang boleh untuk menghentikannya. Dan untuk itu, memang kita kena adakan Suruhanjaya Diraja.
 
-**Wan Afiq:** Okey, babi. Jadi saya dibetulkan oleh Farhan — bukan 23 tapi 36 soalan.
+**Wan Afiq:** Okey, YB. Jadi saya dibetulkan oleh Farhan — bukan 23 tapi 36 soalan.
 
 **Rafizi:** Ha, itu aku.
 

@@ -555,7 +555,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [3:11:22] Rafizi: Hanya BN. So, kalau ini berterusan, maksudnya kalau Datuk Seri Anwar masih belum ada comeback plan aa untuk mengukuhkan sokongan bandar dan sokongan bukan Melayu dan sokongan PH yang asal. Walaupun PN bergolak begini, pengundi-pengundi PN, dia takkan balik kepada, dia takkan swing kepada PH. After all, pengundi-pengundi PN ni, pengundi PAS dengan pengundi Bersatu dalam PRU 2022 dan juga PRN 2000 2023 kan. Saya rasa hampir 40% adalah bekas pengundi UMNO. Jadi bila PN kecoh pecah belah macam ini, the biggest beneficiary kalau UMNO berhati-hati adalah UMNO. Tapi itu akan bergantung kepada macam mana UMNO aa navigate terutamanya kes Datuk Seri Najib yang kita akan ulas minggu depan. Ya, minggu depan. Iqbal datang balik ke minggu depan? Dia suka kes. Nak. Boleh. InsyaAllah. Minggu depan tak lama, sekejap je.
 
-[3:12:42] Haziq: Okey, baik Babi. Tu yang kesembilan dan kita tengok yang terakhir.
+[3:12:42] Haziq: Okey, baik YB. Tu yang kesembilan dan kita tengok yang terakhir.
 
 [3:12:46] Rafizi: Alhamdulillah. Nasib baik tak batuk. Kotak dia jadi 5 jam.
 
