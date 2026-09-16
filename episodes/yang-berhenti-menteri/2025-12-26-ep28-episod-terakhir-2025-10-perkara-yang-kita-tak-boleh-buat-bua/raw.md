@@ -117,11 +117,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [15:52] Iqbal: Betul. Tapi pada masa yang sama, saya baca posting dia di Facebook dan saya faham kenapa ramai yang tak puas hati dengan kenyataan Ong Kiaming. Tapi pada masa yang sama, kalau nak berhusnuzon, there's nuance yang boleh dibaca dalam posting dia, iaitu kita boleh bergembira dengan keputusan mahkamah, tapi tak payahlah melebih-lebih. Is is that a fair?
 
-[16:16] Rafizi: No, tapi tapi yang itu pasal saya saya ingat yang itu masing-masing ada pandangan masing-masing lah. My impression yang kenapa dia jadi headline ni ialah kerana pardon kepada Najib, Muhyiddin, Guan Eng untuk reset.
-
-[16:32] Iqbal: Yes.
-
-[16:33] Rafizi: Those are two different issues kan. Yang political reset ni.
+[16:16] Rafizi: No, tapi tapi yang itu pasal saya saya ingat yang itu masing-masing ada pandangan masing-masing lah. My impression yang kenapa dia jadi headline ni ialah kerana pardon kepada Najib, Muhyiddin, Guan Eng untuk reset. Those are two different issues kan. Yang political reset ni.
 
 [16:39] Iqbal: Okey, itu suatu pandangan yang I tak bersetuju dengan.
 
@@ -215,11 +211,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [44:44] Rafizi: Itu dah bagi consultancy kepada Fahmi, tapi dia menanglah.
 
-[44:48] Haziq: Dia menang.
-
-[44:49] Rafizi: Okey baik.
-
-[44:50] Haziq: Okey YB, kita dah 40 minit lebih dekat beria, YB. Tolak lebih kurang 5 minit sebab aku batuk.
+[44:48] Haziq: Dia menang. Okey YB, kita dah 40 minit lebih dekat beria, YB. Tolak lebih kurang 5 minit sebab aku batuk.
 
 [44:56] Iqbal: So baru 35. Boleh, boleh lagi.
 
@@ -391,11 +383,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:00:58] Rafizi: I hope so. Okey. Ha, I mean, yalah it's never too late. Ha, tapi saya tak rasalah Fadlina is that personality lah kan knowing her lah. Tapi what saya ingat apa yang rakyat mahukan daripada Menteri Pendidikan ialah visi. Okey. Kan. So you need to manage operasi tiap-tiap hari tu supaya semua masalah ini dapat dikawal secara tersusun. Pada masa yang sama kita nak tahu visi apa actually, macam mana yang akan dibuat yang menyelesaikan semua kebimbangan ibu bapa ni. Road learning, kualiti, STEM hours. STEM hours kita, jumlah m- pengajaran STEM. STEM. Lagi rendah daripada Cambodia. So macam mana kita nak selesaikan STEM hours segini kan? So yang itu kita belum dengar lah. Kalau pun mungkin ada, tapi dia kena dengar nasihat daripada Fahmi lah. Mesti menukar cara berkomunikasi.
 
-[2:02:01] Farhan (Pa'an): Mungkin peluang baik untuk the next. Let's move on to number 5.
-
-[2:02:04] Haziq: Baik.
-
-[2:02:05] Farhan (Pa'an): Kita dah 2 jam dah.
+[2:02:01] Farhan (Pa'an): Mungkin peluang baik untuk the next. Let's move on to number 5. Kita dah 2 jam dah.
 
 [2:02:07] Haziq: Ya. Kita tengok yang nombor 5 YB. Nombor 5, ya. Pemilihan PKR dan perpecahan. Ini tanya orang DAP lah. Tapi muka YB kat situ. Tulah pasal. YB, sorry. Mana ada? Aku tak ada janggut.
 
@@ -493,11 +481,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:29:25] Farhan (Pa'an): Saya cuma producer podcast. So you are saying? What's next for you in the fight?
 
-[2:29:33] Rafizi: No, I, you see, saya ni saya ingat kalau nak banding dengan orang lain, I'm a political hippie lah kot. Kan your generation mungkin tak tak tak appreciate hippie lah kan, but I'm a political hippie. Maksudnya, saya tak ada grand design tau in politics. I don't. Leave it to me. I'm I'm a lot happier just doing my thing. Things kan. Cuma every now and then, you feel strongly about some issues. And bila you feel strongly about some issues, you know that ada beberapa skill yang kita ada. So kalau you tak contribute, then rugilah. Kesianlah orang lain. You know, you can't expect orang lain to to do it kan. So masa zaman reformasi, you know, I felt strongly about apa yang dibuat terhadap Datuk Seri Anwar, how the institutions, you know, were manipulated. Jadi I came forward and filled in perkara-perkara yang perlu dibuatlah. Buat, buat website kan. Jadi reforma- reformasi website. I campaign for his apa namanya release overseas semua kan. So sama juga masa jadi MP, all this 1MDB semua, I, I happen to be an accountant. I happen to be, you know, a finance guys kan. So, at this stage of my life lah kan, by the time next election I would be 50, 51 kan. It's already quite close to retirement age. Some of the objectives that I've set awal-awal dulu, I think all have been met. Contohnya I wanted to see a a a political contest, a vibrant competition antara parti-parti. And for that to happen, UMNO has to lose and Barisan Nasional, the power structure perlu dibuat. That has been achieved. Saya nak lihat kepada satu progressive politik yang lebih multiracial, yang lebih berdasarkan kepada ideas, how to make things better, not just emotion. Saya memperjuangkan Islam. Kalau tak sokong saya, masuk neraka. I, I don't like that tau kan. Itu pun to a certain extent has happened. Untuk melihat Datuk Seri Anwar jadi Perdana Menteri, I wanted to see how he will be able to deliver all the hopes, you know, vision that we all had masa kita muda. That had happened, kan. So the only thing left for me is to make sure that apa-apa yang jadi dalam PRU akan datang ialah rakyat tidak akan disillusion dengan progressive politics. And I, I can play this role lah. That's why I'm doing this, this now. Supaya I think kita tidak go down that road yang mana kita ikut Pied Piper tau. Only because you PH ni macam mana pun ikut saya dia nanti jadi BN. Najib, sokong Najib lah lah habis masuk longkang. Bila masuk longkang, you nak come back balik tu lambat kan. So I wanted to make sure that whatever happens kepada PKR, kepada DAP, kepada Amanah, kepada Harapan semua ni kan. And and I have no influence about how it will happen. But paling kurang significant segment of our voters actually know that we are the master. This group of people, dia tak deliver what we want, it's okay. It's a process. We will start again and we will iterate and we get better and better and better. Actually, that's the only role that I think I'm very comfortable playing now lah.
-
-[2:33:48] Haziq: Okey.
-
-[2:33:49] Rafizi: So. Baik, YB. Tak ada kena mengena dengan Tun Mahathir, perjuangan mas belum selesai. Okey, baik itu. Your choice of words kan?
+[2:29:33] Rafizi: No, I, you see, saya ni saya ingat kalau nak banding dengan orang lain, I'm a political hippie lah kot. Kan your generation mungkin tak tak tak appreciate hippie lah kan, but I'm a political hippie. Maksudnya, saya tak ada grand design tau in politics. I don't. Leave it to me. I'm I'm a lot happier just doing my thing. Things kan. Cuma every now and then, you feel strongly about some issues. And bila you feel strongly about some issues, you know that ada beberapa skill yang kita ada. So kalau you tak contribute, then rugilah. Kesianlah orang lain. You know, you can't expect orang lain to to do it kan. So masa zaman reformasi, you know, I felt strongly about apa yang dibuat terhadap Datuk Seri Anwar, how the institutions, you know, were manipulated. Jadi I came forward and filled in perkara-perkara yang perlu dibuatlah. Buat, buat website kan. Jadi reforma- reformasi website. I campaign for his apa namanya release overseas semua kan. So sama juga masa jadi MP, all this 1MDB semua, I, I happen to be an accountant. I happen to be, you know, a finance guys kan. So, at this stage of my life lah kan, by the time next election I would be 50, 51 kan. It's already quite close to retirement age. Some of the objectives that I've set awal-awal dulu, I think all have been met. Contohnya I wanted to see a a a political contest, a vibrant competition antara parti-parti. And for that to happen, UMNO has to lose and Barisan Nasional, the power structure perlu dibuat. That has been achieved. Saya nak lihat kepada satu progressive politik yang lebih multiracial, yang lebih berdasarkan kepada ideas, how to make things better, not just emotion. Saya memperjuangkan Islam. Kalau tak sokong saya, masuk neraka. I, I don't like that tau kan. Itu pun to a certain extent has happened. Untuk melihat Datuk Seri Anwar jadi Perdana Menteri, I wanted to see how he will be able to deliver all the hopes, you know, vision that we all had masa kita muda. That had happened, kan. So the only thing left for me is to make sure that apa-apa yang jadi dalam PRU akan datang ialah rakyat tidak akan disillusion dengan progressive politics. And I, I can play this role lah. That's why I'm doing this, this now. Supaya I think kita tidak go down that road yang mana kita ikut Pied Piper tau. Only because you PH ni macam mana pun ikut saya dia nanti jadi BN. Najib, sokong Najib lah lah habis masuk longkang. Bila masuk longkang, you nak come back balik tu lambat kan. So I wanted to make sure that whatever happens kepada PKR, kepada DAP, kepada Amanah, kepada Harapan semua ni kan. And and I have no influence about how it will happen. But paling kurang significant segment of our voters actually know that we are the master. This group of people, dia tak deliver what we want, it's okay. It's a process. We will start again and we will iterate and we get better and better and better. Actually, that's the only role that I think I'm very comfortable playing now lah. So. Baik, YB. Tak ada kena mengena dengan Tun Mahathir, perjuangan mas belum selesai. Okey, baik itu. Your choice of words kan?
 
 [2:34:00] Haziq: Struggle. Perjuangan. Isu kelima, YB, panjang juga. Tapi kita ada isu yang keenam, mungkin saya tanya Iqbal dulu. Insiden serangan berakhir dengan banyak tanda tanya. Ini pun apa yang pendengar kita minat untuk ketengahkanlah. Dan Ikbal, just to ask your view on this lah. Yalah the fact that benda ni berlaku berseri-seri dan antaranya kepada anak saudara Rafizi. Eh, anak saudara? Anak saudara Rafi- a- a- anak kepada anak YB Rafizi dah. Saya panggil YB saudara, faham tak? Complicated je. Okey. Banyak blooper.
 

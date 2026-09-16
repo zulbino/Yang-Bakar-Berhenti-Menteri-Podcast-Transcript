@@ -187,11 +187,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [29:41] Rafizi: Jangan ulang lagi.
 
-[29:42] Farhan (Pa'an): Dekat dekat Russia dia orang ada satu group ni.
-
-[29:45] Haziq: Okey.
-
-[29:45] Farhan (Pa'an): Ha, ini ni sebab saya tengok benda ni saya carilah macam mana orang road rage punya isu kan. So dekat Russia ada satu group ni bila salah parking ataupun double park ataupun block, dia orang tampal stiker yang memang tak boleh koyak. Maybe kita boleh start macam tu.
+[29:42] Farhan (Pa'an): Dekat dekat Russia dia orang ada satu group ni. Ha, ini ni sebab saya tengok benda ni saya carilah macam mana orang road rage punya isu kan. So dekat Russia ada satu group ni bila salah parking ataupun double park ataupun block, dia orang tampal stiker yang memang tak boleh koyak. Maybe kita boleh start macam tu.
 
 [30:03] Rafizi: Saya, saya faham sedikit sebanyak perasaan. Bukanlah aku faham kena pergi jadi something rosak kan semua ni kan. Sebab dekat my office tu
 
@@ -219,11 +215,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [34:24] Iqbal: Yang saya tahu ada beberapa kawan NGO yang dah kena panggil ke polis untuk bagi kenyataan.
 
-[34:30] Rafizi: Yang itu yang 1 to 4 tu kan?
-
-[34:32] Iqbal: Yes.
-
-[34:32] Rafizi: Yang aktiviti mengancam demokrasi lah. Yes.
+[34:30] Rafizi: Yang itu yang 1 to 4 tu kan? Yang aktiviti mengancam demokrasi lah. Yes.
 
 [34:36] Iqbal: Dan well, tak tahulah itu dikira ancaman anak muda.
 
@@ -277,11 +269,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [41:24] Rafizi: Dia yang paling penting ialah target identification. Target identification kan. Contohnya you know kawasan mana yang nak kena serang, yang itu betul-betul military target ke tidak, itu civilian target ke tidak, semua kan. Dia menggunakan banyak maklumat semualah. So kalau you ada satu AI model that can pull all daripada GPS, daripada even satellite punya foto semua, and then if it's real time semua, then dia membantu kenal pasti target. Okey. So dekat mana yang entropic? Then yang lain tu banyaklah. Contohnya once you dah kenal pasti target, you dah tahu dia punya apa nama ni, latitude, longitude kan. Then everything will fits in into the drone and everything untuk pergi serang lah kan. So dekat mana sebenarnya yang isu dengan entropic ni yang diorang berkeras sehingga dia jadi satu isu besar yang akan mewarnai AI di masa sekarang dan akan masa depan. Masalahnya kita, kita kat Malaysia ni oblivious lah. Perang with Iran ni bukan saja soal Iran, Israel semualah. Ada juga perkara yang besar, iaitu for the first time AI is deployed at war and dia menimbulkan satu isu ethical yang sangat besar. So what exactly is that the kehendak Pentagon yang entropic berkeras sampai dia jadi musuh utama kerajaan US ni?
 
-[43:11] Haziq: Yang saya faham dekat on part guardrails tu. Sebab kalau kita guna sebagai pengguna yang ChatGPT biasa ni, ada certain benda bila kita apa suruh dia prompt semua, dia takkan keluarkan semua benda sebab dia yalah ada ethics dia apa semua.
-
-[43:27] Rafizi: Okey.
-
-[43:27] Haziq: Tapi untuk mereka ni mereka nak go overboard aa benda itu. Itu yang tak dipersetujui.
+[43:11] Haziq: Yang saya faham dekat on part guardrails tu. Sebab kalau kita guna sebagai pengguna yang ChatGPT biasa ni, ada certain benda bila kita apa suruh dia prompt semua, dia takkan keluarkan semua benda sebab dia yalah ada ethics dia apa semua. Tapi untuk mereka ni mereka nak go overboard aa benda itu. Itu yang tak dipersetujui.
 
 [43:33] Rafizi: Eh, itu masih lagi belum landing.
 

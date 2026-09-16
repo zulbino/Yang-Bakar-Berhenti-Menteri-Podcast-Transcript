@@ -83,11 +83,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [07:14] Rafizi: Betul. Itu rancang beli minyak dari Malaysia.
 
-[07:17] Haziq: Yang merancang beli minyak di Malaysia kerana sudah ada komunika- komunikasi dengan pihak yang berkenaan di Johor.
-
-[07:26] Rafizi: Ya.
-
-[07:27] Haziq: Di tengah-tengah Negeri Sembilan dan mahu membeli minyak sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot sekali beli tapi 44 juta kerana memang banyak minyak di Johor. Di tengah-tengah Negeri Sembilan.
+[07:17] Haziq: Yang merancang beli minyak di Malaysia kerana sudah ada komunika- komunikasi dengan pihak yang berkenaan di Johor. Di tengah-tengah Negeri Sembilan dan mahu membeli minyak sehingga 44 juta liter minyak mentah. Sekali belilah dia kata, one shot sekali beli tapi 44 juta kerana memang banyak minyak di Johor. Di tengah-tengah Negeri Sembilan.
 
 [07:42] Rafizi: Dan- Saya saya terbaca ni mula kat Malaysia Kini lah sebab itu tu ha. Petronas nafi terlibat rancangan Filipina. Peliklah. Petronas ni dia nak keluarkan satu kenyataan ni punyalah bertapis-tapis payah tau. Jadi dia keluar kenyataan. So saya pun pergilah semak dekat Philippines. Lawaklah kerana wilayah Davao de Norte ni Ada pertemuan dengan pembesar daripada Johor. Ya ya. Dan Johor, pembesar daripada Johor tu mengatakan bahawa minyak dia banyak dan dia cukup untuk untuk Johor dan sebab itu dia bagi komitmen untuk bekalkan kepada Davar dan Note. Siapa-siapa lah pemesah.
 
@@ -113,23 +109,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [10:53] Haziq: Sabah. Tapi terpencil lah.
 
-[10:56] Rafizi: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab aa pengeluaran minyak mentah eh kalau di Malaysia ni sebelum ini memang banyaknya ialah di pesisir pantai timur.
-
-[11:10] Zikri Kamarulzaman: Ya.
-
-[11:10] Rafizi: Bagi besin dekat situlah kan. Tapi dia dah sangat berkurangan.
-
-[11:14] Zikri Kamarulzaman: Ya.
-
-[11:14] Rafizi: Aa jadi sekarang ini Sarawak tak banyak sangat minyak mentah.
+[10:56] Rafizi: Tapi kalau, tapi betullah, okey. Itu mungkinlah sebab aa pengeluaran minyak mentah eh kalau di Malaysia ni sebelum ini memang banyaknya ialah di pesisir pantai timur. Bagi besin dekat situlah kan. Tapi dia dah sangat berkurangan. Aa jadi sekarang ini Sarawak tak banyak sangat minyak mentah.
 
 [11:20] Zikri Kamarulzaman: Minyak.
 
-[11:20] Rafizi: So Sabah pun tak banyak sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurang. So Sabah is catching up lah.
-
-[11:32] Zikri Kamarulzaman: Ya.
-
-[11:33] Rafizi: Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu 1 tahun punya. Malaysia punya lebih kurang 1 tahun pengeluaran.
+[11:20] Rafizi: So Sabah pun tak banyak sangat. Tapi sekarang ini oleh kerana pengeluaran minyak di pesisir Terengganu tu dah berkurang. So Sabah is catching up lah. Tapi kalau dia ambil pun, kalau dia nak ambil tu untuk dapat 44 juta liter crude oil tu tak mudahlah. Itu 1 tahun punya. Malaysia punya lebih kurang 1 tahun pengeluaran.
 
 [11:45] Zikri Kamarulzaman: Okey, beria. Beria, okey.
 
@@ -261,11 +245,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [48:50] Zikri Kamarulzaman: So it's not great, but it's better. Yeah.
 
-[48:57] Haziq: Dan baru-baru ni pun kita tengok yalah bila banyak pendedahan tentang mafia korporat semua, orang tengoklah sejauh mana investigative journal- journalist dekat Malaysia ni go jauh. Mungkin kalau saya boleh tanya, macam mana peranan Majlis Media Malaysia ni? Dia dap- dia cukup ke lindungi apa ni jurnalis-jurnalis ni untuk buat kerja dia ataupun mungkin ada rasa takut lagi ke? Dan mungkin Zikri sendiri pernah bangkit kan aa bahawa penglibatan aa apa ni wakil kerajaan dalam apa ni Majlis Media Malaysia tu is a something yang aa.
-
-[49:31] Rafizi: Yes.
-
-[49:31] Haziq: Jadi macam mana tu?
+[48:57] Haziq: Dan baru-baru ni pun kita tengok yalah bila banyak pendedahan tentang mafia korporat semua, orang tengoklah sejauh mana investigative journal- journalist dekat Malaysia ni go jauh. Mungkin kalau saya boleh tanya, macam mana peranan Majlis Media Malaysia ni? Dia dap- dia cukup ke lindungi apa ni jurnalis-jurnalis ni untuk buat kerja dia ataupun mungkin ada rasa takut lagi ke? Dan mungkin Zikri sendiri pernah bangkit kan aa bahawa penglibatan aa apa ni wakil kerajaan dalam apa ni Majlis Media Malaysia tu is a something yang aa. Jadi macam mana tu?
 
 [49:33] Zikri Kamarulzaman: Walaupun saya masih ada reservation, aa saya was-was lah pasal Majlis Media Malaysia ni. Buat masa ni, I think dia buat kerja dengan bagus lah. Contohnya-
 

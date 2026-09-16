@@ -35,11 +35,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [07:46] Haziq: Saya rasa dah banyak sangat kot dia.
 
-[07:47] Rafizi: Ya. Overwhelmed. Over- ataupun dia kata tak, yang troll tu Rafizi sorang je. Oh, tak ada apa, tak ada apa. Tak ada. Ni Rafizi sorang je ni. Itu hanya dia sorang yang berani melawan arus. Baju pun boleh disulam. Inikan pula billboard picisan. Ramanan hebat. Hebatlah netizen kan. Okey.
-
-[08:10] Haziq: Okey.
-
-[08:10] Rafizi: Tak cukup lagi YB.
+[07:47] Rafizi: Ya. Overwhelmed. Over- ataupun dia kata tak, yang troll tu Rafizi sorang je. Oh, tak ada apa, tak ada apa. Tak ada. Ni Rafizi sorang je ni. Itu hanya dia sorang yang berani melawan arus. Baju pun boleh disulam. Inikan pula billboard picisan. Ramanan hebat. Hebatlah netizen kan. Okey. Tak cukup lagi YB.
 
 [08:12] Haziq: Next. Ha, kita ada ketua biro Rafizi.
 

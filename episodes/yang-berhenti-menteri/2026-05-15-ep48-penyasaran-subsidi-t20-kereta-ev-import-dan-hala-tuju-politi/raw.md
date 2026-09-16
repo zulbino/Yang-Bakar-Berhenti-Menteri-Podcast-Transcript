@@ -81,11 +81,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [11:17] Haziq: YB, dalam aa mesyuarat-mesyuarat parti sebelum ini, berapa serius pimpinan-pimpinan aa daripada PKR atau Keadilan ni aa apa ni berhubung dengan survey atau data atau rely kepada YB saja setiap kali pilihan.
 
-[11:33] Rafizi: Dia orang tak berminat sebenarnya. Tak berminat.
-
-[11:36] Haziq: Okey.
-
-[11:37] Rafizi: Sebab, sebab tu orang kata saya ni magnet. Sebab tu akhirnya orang kata ingat dia sorang je betul. Aku malas nak cakap yang kau malas nak belajar tu kenapa kan? Dia tak minat. Memang betul. Kalau bentang macam aku bercakap dengan dinding.
+[11:33] Rafizi: Dia orang tak berminat sebenarnya. Tak berminat. Sebab, sebab tu orang kata saya ni magnet. Sebab tu akhirnya orang kata ingat dia sorang je betul. Aku malas nak cakap yang kau malas nak belajar tu kenapa kan? Dia tak minat. Memang betul. Kalau bentang macam aku bercakap dengan dinding.
 
 [11:51] Haziq: Macam mana dia buat projection untuk pilihan raya semua macam masuk bodoh-bodoh.
 
@@ -223,11 +219,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [35:40] Haziq: Tapi yalah, diorang mungkin berceramah banyak-banyak sampai satu tahap dah, dah hilang idea.
 
-[35:47] Rafizi: Yalah, tapi hilang idea. Buatlah lawak pasal Anwar Ibrahim ke, pasal Rafizi ke. Janganlah sentuh Saidina Abu Bakar, Saidina Umar. Kalau ya di- di- dia sebenarnya nasi tambah perencah ni. Kalau cerita pasal Saidina Umar saja, Saidina Abu Bakar saja, mungkin bosanlah. Dia dengar macam kuliah agama. Oh, dia nak tambah nasi apa ni perencah ni nak tengah goreng mi ni kan? Sampai hangus macam ni kan.
-
-[36:14] Haziq: Okey, okey.
-
-[36:14] Rafizi: Dia menjadi pengajaran kepada kita semua aa yang menceramah-ceramah ni lain kali fikir kalau ia pun nak tambah perencah, janganlah sampai terbakar hangus macam ni kan. Beria, beria berceramah dan beria bereformasi satu kemestian.
+[35:47] Rafizi: Yalah, tapi hilang idea. Buatlah lawak pasal Anwar Ibrahim ke, pasal Rafizi ke. Janganlah sentuh Saidina Abu Bakar, Saidina Umar. Kalau ya di- di- dia sebenarnya nasi tambah perencah ni. Kalau cerita pasal Saidina Umar saja, Saidina Abu Bakar saja, mungkin bosanlah. Dia dengar macam kuliah agama. Oh, dia nak tambah nasi apa ni perencah ni nak tengah goreng mi ni kan? Sampai hangus macam ni kan. Dia menjadi pengajaran kepada kita semua aa yang menceramah-ceramah ni lain kali fikir kalau ia pun nak tambah perencah, janganlah sampai terbakar hangus macam ni kan. Beria, beria berceramah dan beria bereformasi satu kemestian.
 
 [36:31] Haziq: Tahniah kepada Ustaz Zahawi dan KSN. Untuk KSN nanti kita akan buat poster.
 
@@ -465,11 +457,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:33:49] Rafizi: Sebenarnya apa maksud excise duty ni yang you know you guys tu kata excise duty? Excise duty ni sebagai cukai apa dia? Apa bentuk cukai excise duty ni? Sejuk ah.
 
-[1:34:04] Haziq: Tax on specific goods manufactured in or imported into the country. Ha, dah Google dah.
-
-[1:34:09] Rafizi: Okey.
-
-[1:34:10] Haziq: Ha, bless Google. Imported? Manufactured in or imported. Ah, okey. Ah, okey kan.
+[1:34:04] Haziq: Tax on specific goods manufactured in or imported into the country. Ha, dah Google dah. Ha, bless Google. Imported? Manufactured in or imported. Ah, okey. Ah, okey kan.
 
 [1:34:17] Rafizi: Apa beza apa nama ni, excise duty dengan import duty? Aku dulu memang manual indirect tax Petronas dulu aku yang tulis dan aku yang train dulu many, many years back. So apa beza excise duty dengan import duty? Import duty ialah spesifik kepada origin. Maksudnya kalau barang yang sama, ambil contohnya mark yang sama kan, sebiji sama semua, because it's a question of origin to protect the market. Tujuan dia ialah to protect the market. Maksudnya kalau dibuat di Malaysia mark ni tak ada import duty. But exactly the same mark, the same quality ke apa, tapi kalau import contohnya daripada Canada, import duty sekian sekian sekian. And so itu untuk protect. Tujuan dia ialah untuk protect local industry. Excise duty? Excise duty ialah cukai ke atas barang tertentu. Tujuan dia ialah untuk control consumption. So dia tak kisah origin. So contoh excise duty yang ada kalau kat Malaysia yang orang kenal banyaklah. Rokok. Rokok. Of course orang panggil syntax lah, but it's actually excise duty. So cara dia kalau you nak bagi orang kurang hisap rokok, you naikkan excise duty. So excise duty dia tak kisah mari daripada mana pun barang yang sama, cukai dia sama. So kalau excise duty atas rokok ialah katakanlah 100%. Marilah rokok mana pun is 100%. Cuma kalau rokok itu diimport pula daripada negara lain dan dia ada pula import duty 50%. Dia jadi rokok yang daripada luar negara tu 150% tax. Rokok yang dikilang di Malaysia 100% tax. Jadi bukan semua barang ada excise duty tau. Kereta ada excise duty. Rokok ada excise duty. Motor. Alkohol, motor, ah, vehicle semualah. So excise duty dikenakan kepada tujuan dia, matlamat dia ialah mengawal consumption kan. Okey. So now kita tahu kereta ada import duty untuk CBU ataupun komponen CKD kan. Kemudian dia ada excise duty. Lagi apa lagi tax yang ada? Ha, Google, Google, Google, Google.
 
@@ -707,11 +695,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [3:18:54] Haziq: Okey, baik. Itu jelah kot. Ha, jadi apa-apa pun yang penting datang pada hari Ahad ni.
 
-[3:19:00] Farhan (Pa'an): Tapi kita mungkin kena highlight minggu ni kita dengar a pandangan dan a luahan a YB Raf.
-
-[3:19:09] Rafizi: Okey.
-
-[3:19:09] Farhan (Pa'an): Minggu depan, insyaAllah kalau diizinkan kita ada YB Nik sekalilah untuk maybe.
+[3:19:00] Farhan (Pa'an): Tapi kita mungkin kena highlight minggu ni kita dengar a pandangan dan a luahan a YB Raf. Minggu depan, insyaAllah kalau diizinkan kita ada YB Nik sekalilah untuk maybe.
 
 [3:19:17] Haziq: Boleh, boleh. Boleh serang dia pula.
 

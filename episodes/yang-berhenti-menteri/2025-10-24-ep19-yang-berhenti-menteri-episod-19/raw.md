@@ -51,15 +51,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [04:38] Haziq: Pernah tertidur dalam tandas akibat terlalu letih, tapi tetap tak pernah mengeluh.
 
-[04:43] Rafizi: Oh, pernah tertidur di dalam tandas akibat terlalu letih. Susah eh. Ini dah boleh lapor kepada Jabatan Tenaga Kerja. Sebab ini sudah menjadi satu penganiayaan. Kalau seseorang pekerja itu dia kerja terlalu penat sampai tertidur di dalam tandas. Ini dah memang. Tak sangka itu respon. Perlu dilaporkan kepada Jabatan Tenaga Kerjalah. Cuma ah eh saya dulu pernah tidur dalam tandas.
-
-[05:23] Haziq: Okey.
-
-[05:23] Rafizi: Masa mula-mula kerja dulu dekat UK. Tapi pengalaman sayalah. Ya. Tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng. Mula. Sebab bo- bosan dekat pejabat. Oh, YB pernah buat macam tu eh?
-
-[05:44] Haziq: Yalah.
-
-[05:45] Rafizi: Cool lagi dah. Cool apa? Malu kan. Tapi awal-awal kerja tu dalam 1 2 bulan pertama. Sebab saya, saya ijazah kejuruteraan. Dan aa dekat aa accounting firm, audit firm dekat UK, dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak. Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stuck. Ha jadi dia bukan macam dekat Malaysia yang boleh keluar sebab dia sejuk kan winter. Jadi satu-satunya tempat yang boleh lari daripada orang dan dia masih lagi ada heater lah, pemanas kan tandas lah. Ya, ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu bukan sebab letihlah, tapi sebab ponteng dan mengularlah. Yang ni tak tahulah macam mana. Mungkin dia betul-betul penatlah. Tapi kalau penat tu bahaya posting ni. Sebab netizen akan kata kalau terlalu penat, stres sampai tertidur dalam tandas, Ya. mungkin masanya sudah tiba untuk mengundur diri.
+[04:43] Rafizi: Oh, pernah tertidur di dalam tandas akibat terlalu letih. Susah eh. Ini dah boleh lapor kepada Jabatan Tenaga Kerja. Sebab ini sudah menjadi satu penganiayaan. Kalau seseorang pekerja itu dia kerja terlalu penat sampai tertidur di dalam tandas. Ini dah memang. Tak sangka itu respon. Perlu dilaporkan kepada Jabatan Tenaga Kerjalah. Cuma ah eh saya dulu pernah tidur dalam tandas. Masa mula-mula kerja dulu dekat UK. Tapi pengalaman sayalah. Ya. Tidur dalam tandas tu masa waktu bekerja bukan sebab letih, tapi sebab nak ponteng. Mula. Sebab bo- bosan dekat pejabat. Oh, YB pernah buat macam tu eh? Cool lagi dah. Cool apa? Malu kan. Tapi awal-awal kerja tu dalam 1 2 bulan pertama. Sebab saya, saya ijazah kejuruteraan. Dan aa dekat aa accounting firm, audit firm dekat UK, dia pakai ambil semua kan. Dia tak kira ada latar belakang ke tidak. Jadi saya tak faham banyak benda pasal accounting kan. Jadi macam bosan, kadang-kadang stuck. Ha jadi dia bukan macam dekat Malaysia yang boleh keluar sebab dia sejuk kan winter. Jadi satu-satunya tempat yang boleh lari daripada orang dan dia masih lagi ada heater lah, pemanas kan tandas lah. Ya, ya. Jadi saya pernahlah duduk dalam tandas bosan sampai tertidur kan. Jadi mungkinlah kalau tertidur dalam tandas tu bukan sebab letihlah, tapi sebab ponteng dan mengularlah. Yang ni tak tahulah macam mana. Mungkin dia betul-betul penatlah. Tapi kalau penat tu bahaya posting ni. Sebab netizen akan kata kalau terlalu penat, stres sampai tertidur dalam tandas, Ya. mungkin masanya sudah tiba untuk mengundur diri.
 
 [07:11] Haziq: Okey, baik, baik. Pedas. Kita tengok yang seterusnya kita ada apa. Pulang apa bosku? Ha, ini dia sendiri kata beliau merupakan satu-satunya pengumah wang haram dalam sejarah yang memulangkan semula wang suapan kepada akaun asal.
 
@@ -371,11 +363,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:56:35] Haziq: Tapi agak short and sweet lah. Ya. Okey, baik. Selesai YB. Kita ke segmen yang seterusnya. Kita ada Fuyo. Ha, kita tengok. Eh, kita lama mana lagi ni? Kita sejam 50 minit. Okey, kita ada 10 minit lebih lagilah.
 
-[1:56:49] Rafizi: Okey, kita berat pantas.
-
-[1:56:51] Haziq: Okey.
-
-[1:56:52] Rafizi: Itulah banyak sangat pasal PAS.
+[1:56:49] Rafizi: Okey, kita berat pantas. Itulah banyak sangat pasal PAS.
 
 [1:56:54] Haziq: Ya. Tapi dakwah wei wei. Kita ada yang pertama, kita ada Rainbow Chip. Kalau saya cuba search tadilah. Dengan ada Rainbow Chip ni kita boleh ada faster internet, kita ada better sensor untuk Autopilot punya kereta. Jadi kalau mungkin YB boleh illustrate macam mana benda ni, how it works sebenarnya untuk. Eh, tanya aku pula dah.
 
@@ -411,11 +399,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:05:30] Haziq: Saya lagi tak follow juga.
 
-[2:05:32] Rafizi: Jadi, contrary to popular belief, sebenarnya ahli politik masanya sangat terhad. Jadi, Okey. Jadi we don't we I don't follow as much. Sebenarnya hari tu saya pakai jersey kebetulan. Jersey tu, jersey Liverpool tu my wife, isteri dengan anak saya beli untuk birthday saya. Ha, jadi kebetulan hari tu saya pakai. Masa tu jugalah malam itu Liverpool kalah kan. Tu yang saya tweet, tapi saya tak follow dan tak sempat nak tanya ChatGPT. Ha. Okey, okey.
-
-[2:06:10] Haziq: Baik, baik.
-
-[2:06:11] Rafizi: Paling kurang aku mengaku. Tapi kalau setiap kali Liverpool kalah, bolehlah tag saya. Saya ada lagi scarf Liverpool lah, topi Liverpool lah.
+[2:05:32] Rafizi: Jadi, contrary to popular belief, sebenarnya ahli politik masanya sangat terhad. Jadi, Okey. Jadi we don't we I don't follow as much. Sebenarnya hari tu saya pakai jersey kebetulan. Jersey tu, jersey Liverpool tu my wife, isteri dengan anak saya beli untuk birthday saya. Ha, jadi kebetulan hari tu saya pakai. Masa tu jugalah malam itu Liverpool kalah kan. Tu yang saya tweet, tapi saya tak follow dan tak sempat nak tanya ChatGPT. Ha. Okey, okey. Paling kurang aku mengaku. Tapi kalau setiap kali Liverpool kalah, bolehlah tag saya. Saya ada lagi scarf Liverpool lah, topi Liverpool lah.
 
 [2:06:20] Haziq: Baik, baik, baik. Pastikan Liverpool kalah untuk kita tengok macam mana siapa lagi YB Raf ada. Okey, aa soalan seterusnya. Dari Ahjid. Business online terkesan dengan fake produk atau buang harga dari peniaga luar seperti China di TikTok, Shopee, Lazada kerana tak ada kawalan atau akta khusus, menyebabkan mereka boleh akses market local sangat mudah. Peniaga tempatan makin lama makin mati. Apa yang patut kerajaan buat? Tanda soal. Saya sebenarnya setuju dah, dah.
 

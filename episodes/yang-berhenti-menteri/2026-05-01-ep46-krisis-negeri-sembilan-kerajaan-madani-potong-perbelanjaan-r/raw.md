@@ -47,11 +47,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [01:44] Rafizi: Lagi tak. So, ni Afiq orang Terengganu. Ni Amir orang? Orang Selayang. Selayang. Dia orang pernah, bukan pernah, memang ada podcast lah kan. Selayang. Jawab. Jawab. Selawat Selayang Jawab. Itu jelah aku bayar dia orang tolong promokan diorang punya podcast. Kind.
 
-[02:07] Wan Afiq: So, so YB kita puasik. Okey. Sesi boleh? So, okey, segmen pertama kita macam biasa. Pa'an gelak kat kau tapi tak apa.
-
-[02:18] Rafizi: Okey.
-
-[02:18] Wan Afiq: I try my best. I try my best.
+[02:07] Wan Afiq: So, so YB kita puasik. Okey. Sesi boleh? So, okey, segmen pertama kita macam biasa. Pa'an gelak kat kau tapi tak apa. I try my best. I try my best.
 
 [02:19] Rafizi: Kita kena kurangkan gula sikit lah, sebab kau tengah bersemangat sangat ni. Hello. Beriya Mat. Beriya. Beriya. Jadi. Awal-awal lagi kita dah ada calon beriya Mat. Awal-awal kita dah ada calon beriya Mat. Okey. Alright. Okey. Terus kepada beriya Mat.
 
@@ -303,11 +299,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:22:17] Rafizi: Aku pun tak ingat aku yang tulis perjanjian tu. Dia memang ada satu clause kalau ada pertelingkahan ke apa, dia ada mediation lah. Ha ya betul. Mediation. Itu untuk kita mengelakkan daripada bergaduh di luar lah. Tapi tak berlaku lah. Dia orang dah bergaduh baling kerusi. Bila dah jam baru nak invoke clause mediation.
 
-[1:22:40] Wan Afiq: Okey. Okey, YB.
-
-[1:22:41] Rafizi: Okey.
-
-[1:22:41] Wan Afiq: So kita move kepada topik seterusnya.
+[1:22:40] Wan Afiq: Okey. Okey, YB. So kita move kepada topik seterusnya.
 
 [1:22:44] Rafizi: Ini pun menarik.
 
@@ -421,11 +413,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:12:01] Wan Afiq: Niche atau dia niche?
 
-[2:12:02] Rafizi: Tak, it's not niche. Network effect maksudnya bila sesuatu itu disukai oleh orang, maka orang lain akan kongsi. Ha, that's itu yang akhirnya jadi kononnya viral, tak viral semua. I mean the the the academic term for virality is network effect. Dan network effect ni bukan untuk social mo- media saja tau. Dia termasuklah apa nama ni perniagaan, apps, everything is all about network effect. Jadi for that you really need to understand about orang itu, ya. So network effect kan. Maksudnya begini, kalau ada sesuatu kandungan, kalau dalam konteks socials lah kan, kalau ada sesuatu kandungan orang suka, orang akan kongsi. Then you can ask the next few questions. Satu ialah kandungan yang macam mana yang orang suka. Ah, kemudian bila dia soal network, network effect, you as a person, you have to ask the next question. Actually, what kind of network do I have? Because kalau rangkaian network saya itu ialah jenis kepala macam aku semua, then dia jadi bubble.
-
-[2:13:17] Wan Afiq: Okey.
-
-[2:13:17] Rafizi: Especially for politik. Dan barulah soalan ketiga ialah sebenarnya knowing about content and network, then that's how sebenarnya platform-platform ini membina algorithm, and different platform has different algorithm. Okay, now. Sebenarnya di Malaysia, sebelum kita nak sampai ni lah, ini ni masalah dengan aku. Aku kena cerita satu-satu semua dulu so orang faham. Kan? Then you truly because okay, this goes back to school lah. Aku pemalas kat sekolah lah. Aku memang bukan jenis yang study malam, revision semua. My rule quite simple. Masa cikgu ajar, belajar faham betul-betul supaya lepas tu tak payah baca dah. Once you understand, you understand it forever. Masa lebih tu kau pergi main. That's that's that's my how I went through school lah. So sama juga macam benda-benda nak faham ni. Dia jangan ambil shortcut, faham betul-betul dalam-dalam because after that you tak payah baca dah kan.
+[2:12:02] Rafizi: Tak, it's not niche. Network effect maksudnya bila sesuatu itu disukai oleh orang, maka orang lain akan kongsi. Ha, that's itu yang akhirnya jadi kononnya viral, tak viral semua. I mean the the the academic term for virality is network effect. Dan network effect ni bukan untuk social mo- media saja tau. Dia termasuklah apa nama ni perniagaan, apps, everything is all about network effect. Jadi for that you really need to understand about orang itu, ya. So network effect kan. Maksudnya begini, kalau ada sesuatu kandungan, kalau dalam konteks socials lah kan, kalau ada sesuatu kandungan orang suka, orang akan kongsi. Then you can ask the next few questions. Satu ialah kandungan yang macam mana yang orang suka. Ah, kemudian bila dia soal network, network effect, you as a person, you have to ask the next question. Actually, what kind of network do I have? Because kalau rangkaian network saya itu ialah jenis kepala macam aku semua, then dia jadi bubble. Especially for politik. Dan barulah soalan ketiga ialah sebenarnya knowing about content and network, then that's how sebenarnya platform-platform ini membina algorithm, and different platform has different algorithm. Okay, now. Sebenarnya di Malaysia, sebelum kita nak sampai ni lah, ini ni masalah dengan aku. Aku kena cerita satu-satu semua dulu so orang faham. Kan? Then you truly because okay, this goes back to school lah. Aku pemalas kat sekolah lah. Aku memang bukan jenis yang study malam, revision semua. My rule quite simple. Masa cikgu ajar, belajar faham betul-betul supaya lepas tu tak payah baca dah. Once you understand, you understand it forever. Masa lebih tu kau pergi main. That's that's that's my how I went through school lah. So sama juga macam benda-benda nak faham ni. Dia jangan ambil shortcut, faham betul-betul dalam-dalam because after that you tak payah baca dah kan.
 
 [2:14:19] Wan Afiq: Okay now.
 

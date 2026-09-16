@@ -87,17 +87,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [07:53] Rafizi: Ada balik. Ada balik. Ucapan-ucapan macam ni.
 
-[07:57] Haziq: Beras tempatan hilang sebab UMNO tiada kuasa. Ni perwakilan daripada mana ni? Kedah. Daripada Kedah.
+[07:57] Haziq: Beras tempatan hilang sebab UMNO tiada kuasa. Ni perwakilan daripada mana ni? Kedah. Daripada Kedah. Memang verbatim, YB.
 
-[08:03] Rafizi: Ya.
-
-[08:04] Haziq: Memang verbatim, YB.
-
-[08:06] Rafizi: Memang verbatim. Ya. Dia kata bila UMNO hilang kuasa, beras tempatan pun hilang.
-
-[08:11] Haziq: Yes.
-
-[08:12] Rafizi: Beria betullah. Saya malas nak saya kalau saya ada, saya nak angkat tangan nak tanya dia. Sebenarnya sistem yang kita ada ini yang memusatkan perbekalan beras dan sebagainya kepada satu syarikat, iaitu Bernas. Yang itu sebenarnya kita dapat daripada UMNO, diwariskan oleh UMNO kan. Jadi, keseluruhan rejim perbekalan beras. Perbekalan ke pembekalan?
+[08:06] Rafizi: Memang verbatim. Ya. Dia kata bila UMNO hilang kuasa, beras tempatan pun hilang. Beria betullah. Saya malas nak saya kalau saya ada, saya nak angkat tangan nak tanya dia. Sebenarnya sistem yang kita ada ini yang memusatkan perbekalan beras dan sebagainya kepada satu syarikat, iaitu Bernas. Yang itu sebenarnya kita dapat daripada UMNO, diwariskan oleh UMNO kan. Jadi, keseluruhan rejim perbekalan beras. Perbekalan ke pembekalan?
 
 [08:45] Farhan (Pa'an): Pem- pembekalan. Pembekalan.
 

@@ -135,11 +135,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [31:00] Haziq: Untuk pembinaan, untuk yang apa pembaikan tanah tu dah ada lah, tengah dibuat lah. Yang pembaik-
 
-[31:05] Rafizi: KB Central ni maksudnya stesen bas.
-
-[31:07] Haziq: Yes.
-
-[31:09] Rafizi: Takpalah, lambat tak apa, asalkan molek. Asalkan molek. Jadi saya cadangkan supaya selepas ini PAS menggunakan tagline ini untuk masuk pilihan raya. Kempen PRU PAS. PRU 16 oleh PAS ialah lambat tak apa asalkan jadi molek. Molek. Tapi masalahnya dah 40 tahun tak molek-molek lagilah. Air tu tak jadi-jadi lagi. Agaknya baguslah sebab lambat tak apa asal jadi molek ni. Asalkan jadi molek. Cerdik juga sebab kalau nak ambil cerita air kan, memang lambat betullah. Tak apa, tak molek lagi pun tak apalah sebab kita nak bagi molek, lambat lagi pun tak apa lagi.
+[31:05] Rafizi: KB Central ni maksudnya stesen bas. Takpalah, lambat tak apa, asalkan molek. Asalkan molek. Jadi saya cadangkan supaya selepas ini PAS menggunakan tagline ini untuk masuk pilihan raya. Kempen PRU PAS. PRU 16 oleh PAS ialah lambat tak apa asalkan jadi molek. Molek. Tapi masalahnya dah 40 tahun tak molek-molek lagilah. Air tu tak jadi-jadi lagi. Agaknya baguslah sebab lambat tak apa asal jadi molek ni. Asalkan jadi molek. Cerdik juga sebab kalau nak ambil cerita air kan, memang lambat betullah. Tak apa, tak molek lagi pun tak apalah sebab kita nak bagi molek, lambat lagi pun tak apa lagi.
 
 [31:49] Haziq: Eh, janji air pun biasa dia anjak-anjak macam tu kan. Siap 2025. Masalah 2024. Ya ya ya. Sekarang 2030.
 
@@ -365,11 +361,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:20:05] Haziq: Dia sokong apa?
 
-[2:20:06] Rafizi: Yang Sebulan suara sokong kekalkan kerajaan tu lah.
-
-[2:20:09] Farhan (Pa'an): Ya.
-
-[2:20:10] Rafizi: Dibuat oleh DAP Perak. DAP Perak kan?
+[2:20:06] Rafizi: Yang Sebulan suara sokong kekalkan kerajaan tu lah. Dibuat oleh DAP Perak. DAP Perak kan?
 
 [2:20:12] Haziq: Ha, sebulan suara sokong kekal.
 
@@ -401,11 +393,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:27:39] Haziq: Ha kan.
 
-[2:27:40] Rafizi: So 2004, kemudian 2008, 13, 18, 22. So kali terakhir DAP bertanding solo ialah 1995. Maksudnya the whole generation of DAP leaders ni tak pernah masuk pilihan raya sebagai solo. That's not a small thing tau psychologically. Hanya bersama je yang buat kerja gila bertanding solo ni. Sebab aku memang gila. Kan? Jadi mereka tak macam itu kan?
-
-[2:28:09] Haziq: Okey.
-
-[2:28:09] Rafizi: And then, dia juga ada, ada a very important element soal solo, tak solo ni kepada DAP. Dia bukan soal semata-mata gabungan ini maksudnya kita ada lebih ramai jentera, tak jentera ke apa. Sebab DA- DAP sebagai sebuah parti hanya berpeluang untuk menjadi kerajaan kalau dia ada dalam satu gabungan yang ada pemimpin Melayu yang kredibel dan boleh membentuk kerajaan. Sebabnya ialah dia parti Cina. Kan jadi pengundi Cina dia akan fikir, eh kalau you tak ada dalam sebarang gabungan, you akan jadi pembangkang sampai bila-bila. There's nothing much you can do about us. Jadi dia mungkin balik kepada default mode zaman 70s and 80s dulu. Maka undi Cina itu akan diimbangkan di antara parti yang mewakili suara Cina yang menjadi kerajaan dengan DAP yang membawa suara Cina sebagai pembangkang. Sebab dulu-dulu memang sebelum 2013 lah, 2008 pun masih lagi ada macam itu kan. But before that, banyak undi pengundi Cina ni dia mengundi secara taktikal. Sebab itu contohnya di Pulau Pinang, negeri tu BN menang gerakan. Tapi parlimen DAP always ada wakil parlimen daripada Penang tau, kan? So, kalau DAP aa tidak ada rakan gabungan daripada aa parti Melayu ataupun aa seorang pemimpin Melayu yang boleh jadi Perdana Menteri, maka dia akan revert to default. Mode dia dulu iaitu hanya untuk membawa suara pembangkang sahaja. Tak banyaklah, mungkin 10 kerusi, 15 kerusi. So DAP kena fikir untuk masa akan datang kalau dia berpecah daripada PKR ni, daripada PH kah dengan DA- dengan Amanah, adakah DAP boleh menyertai mana-mana gabungan yang akan ada pemimpin Melayu yang yang boleh jadi Perdana Menteri. Sudah, sudah tentu PAS tak akan terima dialah. I don't think, I don't know Hamzah Zainuddin lah kan. So because dia pandai, asalkan dia naik, dia tak kisah pun pandai jadi pusing kan. UMNO, I don't think UMNO akan buat masa sekaranglah.
+[2:27:40] Rafizi: So 2004, kemudian 2008, 13, 18, 22. So kali terakhir DAP bertanding solo ialah 1995. Maksudnya the whole generation of DAP leaders ni tak pernah masuk pilihan raya sebagai solo. That's not a small thing tau psychologically. Hanya bersama je yang buat kerja gila bertanding solo ni. Sebab aku memang gila. Kan? Jadi mereka tak macam itu kan? And then, dia juga ada, ada a very important element soal solo, tak solo ni kepada DAP. Dia bukan soal semata-mata gabungan ini maksudnya kita ada lebih ramai jentera, tak jentera ke apa. Sebab DA- DAP sebagai sebuah parti hanya berpeluang untuk menjadi kerajaan kalau dia ada dalam satu gabungan yang ada pemimpin Melayu yang kredibel dan boleh membentuk kerajaan. Sebabnya ialah dia parti Cina. Kan jadi pengundi Cina dia akan fikir, eh kalau you tak ada dalam sebarang gabungan, you akan jadi pembangkang sampai bila-bila. There's nothing much you can do about us. Jadi dia mungkin balik kepada default mode zaman 70s and 80s dulu. Maka undi Cina itu akan diimbangkan di antara parti yang mewakili suara Cina yang menjadi kerajaan dengan DAP yang membawa suara Cina sebagai pembangkang. Sebab dulu-dulu memang sebelum 2013 lah, 2008 pun masih lagi ada macam itu kan. But before that, banyak undi pengundi Cina ni dia mengundi secara taktikal. Sebab itu contohnya di Pulau Pinang, negeri tu BN menang gerakan. Tapi parlimen DAP always ada wakil parlimen daripada Penang tau, kan? So, kalau DAP aa tidak ada rakan gabungan daripada aa parti Melayu ataupun aa seorang pemimpin Melayu yang boleh jadi Perdana Menteri, maka dia akan revert to default. Mode dia dulu iaitu hanya untuk membawa suara pembangkang sahaja. Tak banyaklah, mungkin 10 kerusi, 15 kerusi. So DAP kena fikir untuk masa akan datang kalau dia berpecah daripada PKR ni, daripada PH kah dengan DA- dengan Amanah, adakah DAP boleh menyertai mana-mana gabungan yang akan ada pemimpin Melayu yang yang boleh jadi Perdana Menteri. Sudah, sudah tentu PAS tak akan terima dialah. I don't think, I don't know Hamzah Zainuddin lah kan. So because dia pandai, asalkan dia naik, dia tak kisah pun pandai jadi pusing kan. UMNO, I don't think UMNO akan buat masa sekaranglah.
 
 [2:30:46] Haziq: In the future, I don't know.
 
@@ -523,11 +511,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [3:01:54] Farhan (Pa'an): Shah Alam pagi tu.
 
-[3:01:56] Rafizi: Shah Alam kemudian Ya. Petang di Kota Raja kan?
-
-[3:02:01] Haziq: Yes.
-
-[3:02:01] Rafizi: Kemudian malam jelajah kancil di Penang. Penang. Jadi kepada ahli-ahli bersama di Kota Raja dan juga di Shah Alam. Shah Alam. Bagi mereka yang belum daftar ataupun belum belum sahkan kehadiran, boleh buat di aplikasi Kancil ataupun di ah komuniti Kancil bagi yang menggunakan versi web. Dan kepada yang di Pulau Pinang, terbuka kepada semua orang ramai. Boleh daftar di laman aa bersama. Org kehadiran. Okey, YB.
+[3:01:56] Rafizi: Shah Alam kemudian Ya. Petang di Kota Raja kan? Kemudian malam jelajah kancil di Penang. Penang. Jadi kepada ahli-ahli bersama di Kota Raja dan juga di Shah Alam. Shah Alam. Bagi mereka yang belum daftar ataupun belum belum sahkan kehadiran, boleh buat di aplikasi Kancil ataupun di ah komuniti Kancil bagi yang menggunakan versi web. Dan kepada yang di Pulau Pinang, terbuka kepada semua orang ramai. Boleh daftar di laman aa bersama. Org kehadiran. Okey, YB.
 
 [3:02:41] Haziq: Selamat berehat. Selamat malam.
 

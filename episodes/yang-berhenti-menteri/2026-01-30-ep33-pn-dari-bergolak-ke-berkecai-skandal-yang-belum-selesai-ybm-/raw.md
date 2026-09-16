@@ -115,11 +115,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [08:46] Haziq: Actually, betullah.
 
-[08:47] Rafizi: Tone deaf kan? Dan saya pernah tengok satu lagi sayap wanita parti utama.
-
-[08:54] Wong Chen: Okey.
-
-[08:55] Rafizi: Yang melalui proses tone deaf masa ni iaitu mas- macam ini, iaitu wanita UMNO dulu, masa zaman NFC. So satu, bila kita dedahkan NFC dengan Tan Sri Shahrir Zat Jalil, keluarga dia semua macam itu kan. - wanita UMNO masa tu dia rally around Tan Sri Shahrir Zat Jalil. Dan dia sampai bagi connotation yang dia membela benda itu. Sedangkan sentiment rakyat tu sangat betul-betullah menolak lah kan. Jadi sekarang ini perangai Tun Def itu dah berjangkit kepada Wanita Keadilan. Dalam keadaan yang aa kes Shamsul Iskandar ni, sepatutnya kalau PKR or Wanita Keadilan ni faham sentimen rakyat, aa dia tak panggillah.
+[08:47] Rafizi: Tone deaf kan? Dan saya pernah tengok satu lagi sayap wanita parti utama. Yang melalui proses tone deaf masa ni iaitu mas- macam ini, iaitu wanita UMNO dulu, masa zaman NFC. So satu, bila kita dedahkan NFC dengan Tan Sri Shahrir Zat Jalil, keluarga dia semua macam itu kan. - wanita UMNO masa tu dia rally around Tan Sri Shahrir Zat Jalil. Dan dia sampai bagi connotation yang dia membela benda itu. Sedangkan sentiment rakyat tu sangat betul-betullah menolak lah kan. Jadi sekarang ini perangai Tun Def itu dah berjangkit kepada Wanita Keadilan. Dalam keadaan yang aa kes Shamsul Iskandar ni, sepatutnya kalau PKR or Wanita Keadilan ni faham sentimen rakyat, aa dia tak panggillah.
 
 [09:46] Haziq: Betullah biasa.
 
@@ -179,11 +175,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [11:46] Rafizi: Macam Hel Amir. Ah, so yang ini konteks dia. Ini selalunyalah yang masuk beria ni adalah yang kena troll dengan netizen. Dia dah jadi bahan netizen lah. Jadi konteks dia, selama beberapa bulan, Timbalan Presiden PKR Nurul Izzah dia hilang kan. Tiba-tiba Siti Nurhaliza buat konsert konsert. Jadi tiba-tiba dia ada content to promote the concert. So. Did Siti ask her to promote? I don't know lah. I don't think so kan. So, not enough is that. Orang ingat itu dah already shocking. I mean tak sampai dalam 2 3 minggu kemudian, ketua apa ni, ketua AMK PKR pula bukan saja buat video untuk promote kan konsert satu kumpulan Nasyid ni, dia pula buat konsert. Di- dia?
 
-[12:47] Wong Chen: As in dia buat content.
-
-[12:49] Rafizi: Okey.
-
-[12:49] Wong Chen: Jadi Hel Amir lah. Okey, I- I tengok dia sepak tadi, but obviously not silat lah. Very low lah. The kick was very low. Eh, dia ada sepak ke tadi?
+[12:47] Wong Chen: As in dia buat content. Jadi Hel Amir lah. Okey, I- I tengok dia sepak tadi, but obviously not silat lah. Very low lah. The kick was very low. Eh, dia ada sepak ke tadi?
 
 [12:58] Rafizi: Ada video that
 
@@ -633,11 +625,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:23:53] Rafizi: Kepada yang menonton dan tak tahu Bloomberg tu apa. Bloomberg ni ialah a basically a bacaan harian pembuat keputusan a a pasaran yang paling berpengaruh di dunia. Betul. Kerana semua laporan mengenai harga turun naik saham, apa semua ekonomi, business semua, semua kat Bloomberg kan. Jadi memanglah orang biasa tak baca Bloomberg. Tapi orang yang mem- pembuat keputusan terbesar di dunia, di seluruh dunia, di negara-negara ni, dia orang semua baca Bloomberg kan.
 
-[1:24:31] Wong Chen: Dan kita kena faham tau. Perkara ni bukan, bukan saja yalah reputasi negara. Kita banyak syarikat asing, syarikat Malaysia pun banyak orang Bangladesh kerja di sini.
-
-[1:24:42] Rafizi: Yes.
-
-[1:24:43] Wong Chen: Kalau I'm a German company, katakanlah Infineon ke apa lah, okey. Saya ada 200 Bangladeshi worker. Kalau headquarter di Germany baca ni, dan dia akan baca. Dia kan, eh, are your workers being treated well? Did you use a syndicate? What is going on? That is problematic. It will impact foreign direct investment. Syarikat tu might say, okay, kita headquarter tak boleh ada this kind of scandal.
+[1:24:31] Wong Chen: Dan kita kena faham tau. Perkara ni bukan, bukan saja yalah reputasi negara. Kita banyak syarikat asing, syarikat Malaysia pun banyak orang Bangladesh kerja di sini. Kalau I'm a German company, katakanlah Infineon ke apa lah, okey. Saya ada 200 Bangladeshi worker. Kalau headquarter di Germany baca ni, dan dia akan baca. Dia kan, eh, are your workers being treated well? Did you use a syndicate? What is going on? That is problematic. It will impact foreign direct investment. Syarikat tu might say, okay, kita headquarter tak boleh ada this kind of scandal.
 
 [1:25:10] Rafizi: Pulau lah.
 
@@ -671,15 +659,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:39:56] Wong Chen: Dua bulan boleh buat dah.
 
-[1:39:57] Rafizi: Dia sebenarnya enter details je. Dia bukannya complicated macam mana sangat pun kan. Jadi logiknya ialah sistem itu before kita masuk apa-apa, kalau nak ada digital system, digital system itu mestilah milik kerajaan. The fact that it is not milik kerajaan. Itu satu, kan? Dan menjelang tahun 2018 dan bila dah kalah, ada laporan Ketua Audit Negara. Dan laporan Ketua Audit Negara 2020 I think was very damning. Yes. Sebab baru masa itulah baru kita tahu bahawa walaupun kerajaan dah menggunakan aa FW- FWCMS ni sejak tahun 2015, kontrak tak pernah ada. It's not even legal to begin with, kan? Jadi orang yang duk kutuk aku pasal padu, pasal data semua tu, ha, pergi tanya ni. Bertahun-tahun tak ada data semua kan. Jadi dah lah dari segi moralnya, we know benda tu salah. Morally is wrong. Legally, procedurally, semua pun by now dah cukup dah sebenarnya bukti that benda ni kena stop because kerajaan tak pernah sign pun kontrak. Kan? So, I mean it's there's there's no contractual. Kerajaan sebenarnya boleh tendang macam itu saja kan. So benda tu berlarutanlah. Saya ingat COVID come and kita pun masuklah 2020 kan. Dan kalau tengok contohnya eh laporan Ketua Audit Negara, then it goes to PAC tau.
-
-[1:41:34] Wong Chen: Yeah.
-
-[1:41:35] Rafizi: PAC pun panggil dan sama benda ni maksudnya ini satu-satunya isu yang saya ingat pembangkang dan backbenchers kerajaan dan pembangkang semua setuju it has to stop. Kan. So, sebab laporan Ketua Audit Negara tu was very damning kerana ada akses kepada orang bukan kerajaan untuk approve. Sepatutnya is a system. So if it's a system, akses kepada sistem itu hanyalah pegawai-pegawai di Kementerian Sumber Manusia atau KDN. Sama ada immigration ke. Itu itu je. Sebagai penyedia, katakanlah even kalau BestiNet ini ialah is a service provider that created the system, the digital system kan. They cannot operate the system tau. Correct. Kerana hanya pegawai-pegawai kerajaan yang berhak memproses, meluluskan. Tapi laporan Ketua Audit Negara made it clear it was operated by non-government people, satu. It made it clear that access was given to non-government people, and more importantly, it made it clear source code pun tak bagi kepada kerajaan. So basically government was locked out of its own system lah. That what it means lah kan?
-
-[1:42:52] Wong Chen: Yeah.
-
-[1:42:53] Rafizi: Jadi by the time kita masuk 20, 22 tu kan, this I can say as a person lah kan. I think dalam banyak-banyak checklist tu kan, one checklist that I have ialah memang this has to stop. Kan. Dan and to be fair to Saifuddin lah, I think he did his best to stop it. Dan uak-uak-uak memang laporan ini nampaknya tepat lah. Laporan ni menyebut bahawa, ha ini kita merujuk kepada laporan eh. A saya nak baca sikit kan laporan Bloomberg sebab berapa kerat sangat Malaysia, orang Malaysia baca laporan Bloomberg ni kan. Kesian diorang susah payah buat siasatan. Apa nama ni tenggelam macam tu je kan. Ni perenggan mana ni eh yang sebut pasal keputusan kerajaan. Dan now is our problem. Sebelum ini kita boleh blame kerajaan-kerajaan sebelum inilah. Now yang sambung ni ialah
+[1:39:57] Rafizi: Dia sebenarnya enter details je. Dia bukannya complicated macam mana sangat pun kan. Jadi logiknya ialah sistem itu before kita masuk apa-apa, kalau nak ada digital system, digital system itu mestilah milik kerajaan. The fact that it is not milik kerajaan. Itu satu, kan? Dan menjelang tahun 2018 dan bila dah kalah, ada laporan Ketua Audit Negara. Dan laporan Ketua Audit Negara 2020 I think was very damning. Yes. Sebab baru masa itulah baru kita tahu bahawa walaupun kerajaan dah menggunakan aa FW- FWCMS ni sejak tahun 2015, kontrak tak pernah ada. It's not even legal to begin with, kan? Jadi orang yang duk kutuk aku pasal padu, pasal data semua tu, ha, pergi tanya ni. Bertahun-tahun tak ada data semua kan. Jadi dah lah dari segi moralnya, we know benda tu salah. Morally is wrong. Legally, procedurally, semua pun by now dah cukup dah sebenarnya bukti that benda ni kena stop because kerajaan tak pernah sign pun kontrak. Kan? So, I mean it's there's there's no contractual. Kerajaan sebenarnya boleh tendang macam itu saja kan. So benda tu berlarutanlah. Saya ingat COVID come and kita pun masuklah 2020 kan. Dan kalau tengok contohnya eh laporan Ketua Audit Negara, then it goes to PAC tau. PAC pun panggil dan sama benda ni maksudnya ini satu-satunya isu yang saya ingat pembangkang dan backbenchers kerajaan dan pembangkang semua setuju it has to stop. Kan. So, sebab laporan Ketua Audit Negara tu was very damning kerana ada akses kepada orang bukan kerajaan untuk approve. Sepatutnya is a system. So if it's a system, akses kepada sistem itu hanyalah pegawai-pegawai di Kementerian Sumber Manusia atau KDN. Sama ada immigration ke. Itu itu je. Sebagai penyedia, katakanlah even kalau BestiNet ini ialah is a service provider that created the system, the digital system kan. They cannot operate the system tau. Correct. Kerana hanya pegawai-pegawai kerajaan yang berhak memproses, meluluskan. Tapi laporan Ketua Audit Negara made it clear it was operated by non-government people, satu. It made it clear that access was given to non-government people, and more importantly, it made it clear source code pun tak bagi kepada kerajaan. So basically government was locked out of its own system lah. That what it means lah kan? Jadi by the time kita masuk 20, 22 tu kan, this I can say as a person lah kan. I think dalam banyak-banyak checklist tu kan, one checklist that I have ialah memang this has to stop. Kan. Dan and to be fair to Saifuddin lah, I think he did his best to stop it. Dan uak-uak-uak memang laporan ini nampaknya tepat lah. Laporan ni menyebut bahawa, ha ini kita merujuk kepada laporan eh. A saya nak baca sikit kan laporan Bloomberg sebab berapa kerat sangat Malaysia, orang Malaysia baca laporan Bloomberg ni kan. Kesian diorang susah payah buat siasatan. Apa nama ni tenggelam macam tu je kan. Ni perenggan mana ni eh yang sebut pasal keputusan kerajaan. Dan now is our problem. Sebelum ini kita boleh blame kerajaan-kerajaan sebelum inilah. Now yang sambung ni ialah
 
 [1:43:56] Wong Chen: Kerajaan kita. Kerajaan kita.
 
@@ -695,11 +675,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:44:49] Rafizi: Nampak.
 
-[1:44:49] Wong Chen: But my position is very clear. Kita pertama kena tengok, kena jumpa dengan High Commission of Bangladesh. Bangladesh. Sebab High Commissioner ini baru. I tak pernah jumpa dia. Jadi courtesy call lah. So yalah, having a meeting is important. What's the position? Dan masa saya pergi Dhaka tahun lalu bulan, bulan 11. Bulan 12, 11, 12. I jumpa Professor Yunus. Ya. Grameen Bank punya. Dia, dia chief advisor. So he was asking me what is going, really going on. You know, sebab they are concerned. And I ka- saya pun ingat pada masa I think a year or and a half ago, ada extradition request.
-
-[1:45:28] Rafizi: Yes, yes.
-
-[1:45:29] Wong Chen: For this this this person to be sent back to Bangladesh. So the Professor Yunus asked me, you know, what's the status on that? I said I'll find out for you. And then you know, are things better or not? But I get a distinct feeling dalam meeting tu. Professor Yunus dia he seperti semua orang orang kerajaan Bangladesh ni, dia lebih penting their country is very desperate. Dia yang penting dia tak nak kacau sangat. They want the flow of workers to continue. Sebab ni revenue besar untuk Bangladesh. This repatriation of money. Right? So I faham dia punya, dia punya intention is to get more Bangladeshi to work, but jangan buli sampai orang kita mati. Haa, give us some justice. You know, I think that was the main point lah. Ya, Raf, you-
+[1:44:49] Wong Chen: But my position is very clear. Kita pertama kena tengok, kena jumpa dengan High Commission of Bangladesh. Bangladesh. Sebab High Commissioner ini baru. I tak pernah jumpa dia. Jadi courtesy call lah. So yalah, having a meeting is important. What's the position? Dan masa saya pergi Dhaka tahun lalu bulan, bulan 11. Bulan 12, 11, 12. I jumpa Professor Yunus. Ya. Grameen Bank punya. Dia, dia chief advisor. So he was asking me what is going, really going on. You know, sebab they are concerned. And I ka- saya pun ingat pada masa I think a year or and a half ago, ada extradition request. For this this this person to be sent back to Bangladesh. So the Professor Yunus asked me, you know, what's the status on that? I said I'll find out for you. And then you know, are things better or not? But I get a distinct feeling dalam meeting tu. Professor Yunus dia he seperti semua orang orang kerajaan Bangladesh ni, dia lebih penting their country is very desperate. Dia yang penting dia tak nak kacau sangat. They want the flow of workers to continue. Sebab ni revenue besar untuk Bangladesh. This repatriation of money. Right? So I faham dia punya, dia punya intention is to get more Bangladeshi to work, but jangan buli sampai orang kita mati. Haa, give us some justice. You know, I think that was the main point lah. Ya, Raf, you-
 
 [1:46:26] Rafizi: Okey ya. Baik ya. Okey. Sebab ini perlu disampaikan kepada penonton dan rakyat Malaysia. At least kita dah buat tanggungjawab kitalah, our moral conscience kan. Sebabnya tuduhan dan dakwaan yang dibuat oleh Bloomberg ni sangat berat tau. Kan. Dan macam YB Wong Chen sebut tadi, kalau harapan ataupun game plan kerajaanlah Datuk Seri Anwar ialah benda ni dilupakan, dan payahlah. Sebab kalau tak betul kena saman kerana tuduhan ini berat eh. Macam mana tuduhan ini disebut eh? Kabinet Malaysia membincangkan kes ini, maksudnya BestiNet dan sindiket semua ini, selepas Anwar menjadi Perdana Menteri ya, mengikut sumber-sumber yang tahu tentang perbincangan itu ya. And Anwar berkempen untuk menghapuskan rasuah. Malah Anwar sebelum ini pun pernah mendesak supaya ada siasatan terhadap BestiNet. SPRM memulakan siasatan, ya. Pegawai-pegawai ataupun official dalam bahasa Melayu pegawailah kan. Kabinet official tahu bahawa Nurul Amin ini Memainkan peranan penting di dalam yalah sindiket recruitment pekerja Bangladesh ini melalui kawalannya terhadap agensi-agensi yang menyebabkan berlaku kos-kos tambahan ini. Menurut mereka yang mempunyai pengetahuan eh. Okey. Oleh itu, pandangan pegawai-pegawai kerajaan ialah untuk menghapuskan Bestinet sebagai kontraktor kerajaan itu adalah langkah pertama. Pada akhir tahun 2023, Kabinet Male- Malaysia memutuskan untuk menghentikan sebarang hubungan dan penggunaan FWCMS ini apabila kontrak BestiNet tamat tahun berikutnya. Ha, jadi pada ketika itu nampaknya habislah perkara ini, kan. Kemudian, Amin mula menggunakan network dia. Okey ya. Dia melawat MACC untuk bercakap sendiri dengan Ketua Pesuruhjaya MACC Azam Baki mengikut dua orang yang mendapat taklimat mengenai perkara ini. Selepas itu, siasatan Suruhanjaya SPRM ini dihentikan mengikut mereka dan mereka tidak mahu dinamakan kerana takut diambil tindakan. SPRM apa namanya, tidak mahu komen. Menurut Amin, dia pergi ke SPRM untuk memberi keterangan, tetapi menafikan pernah berjumpa dengan Azam Baki, ya. Okey. Amin juga meminta aa pegawai-pegawai kanan untuk melobi Anwar untuk menyambung aa kontrak Bestinet untuk terus menggunakan aa FWCMS ini. Okey, Zahid yang sekarang ini adalah Timbalan Perdana Menteri dilaporkan aa menekan ataupun melobi Perdana Menteri mengikut sumber-sumber ini, eh. Di akhir satu mesyuarat kabinet pada awal 2024, Anwar mengejutkan semua orang dengan membuat satu pengumuman yang mengejutkan, iaitu kontrak BestiNet akan disambung. It's very damning. Kan? Ah, jadi mungkinlah orang rakyat Malaysia mungkin tak tahulah ni satu dunia macam ni. Dan kalau Bloomberg telah menamakan sorang-sorang ni tau. Maksudnya dia ada, dia ada sumber dia. Dan. Dia boleh justify. Dia boleh justify. Dan kalau tengok yang sebelum ini, apabila kerajaan Malaysia ialah mencabar balik laporan Bloomberg, akhirnya dia no for the action. Ya. Ada buat laporan polis terhadap Bloomberg, wartawan Bloomberg ke apa semua. Akhirnya memang mati begitu sajalah. Maksudnya whatever Bloomberg reported sebelum ini stood out. Masih lagi kekal. Jadi yang ini ni menamakan terus satu persatu. Jadi kalau kerajaan aa buat diam saja, then distance lah. Saya ingat politically, harapan terbaguslah, best case scenario kepada Putrajaya yang dinamakan semua ni Datuk Seri Anwar Ibrahim, kemudian Datuk Seri Zahid Hamidi, kemudian Tan Sri Azam Baki. Seorang-seorang dinamakan ni. Lobi berlaku semua ni kan. The best thing that they can hope for ialah benda ni tenggelam dan orang lupa. Tapi problemnya, you know, the stain on our conscience and record. Kan. So, kalau ikut laporan pengumuman, BestiNet ini diberikan some lanjutan kontrak dia sampai 2031. Ada 5 tahun lagi ni tau. Ya, 6 tahun punya kontrak. Ha, 6 tahun kan. Jadi kalau tanya kerajaan, kerajaan akan bagi alasanlah. Kalau kita hentikan ini, maka kita akan kena saman sekian-sekian. Kita kena bayar pampasan semua kan. I think I hope lah eh sebelum kita matilah eh. At least kan, at least in the next whoever become the government selepas inilah. Kalau Anwar Ibrahim continue jadi Perdana Menteri ke apa, saya haraplah it doesn't extend beyond 2031. And kalau ada banyak-banyak benda yang, yang I feel the regret is the failure of myself, of apa nama ni, Pakatan Harapan for us to stop this. Tapi memang it was a surprise. Memang saya ingat se- hampir semualah jawapan daripada dan Kementerian Ekonomi memang kasar lah. Memang a pandangan saya tu memang kasar. It has to stop lah semua kan. Tapi memang betullah. Tiba-tiba ada U-turn lah. Macam tadi ada U-turn. Jadi kami tenangalah. That's why. I don't know what happens behind.
 
@@ -727,21 +703,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:56:58] Rafizi: Yang itu yang YB Wong Chin dah sebutlah pasal- Yeah, tier lah. The US ada tier, tier.
 
-[1:57:01] Wong Chen: Maybe you need to explain tier 1, tier 2, tier 3, tier 4.
-
-[1:57:04] Rafizi: Okay.
-
-[1:57:05] Wong Chen: Tier 1 is good lah. Tier 2 is.
+[1:57:01] Wong Chen: Maybe you need to explain tier 1, tier 2, tier 3, tier 4. Tier 1 is good lah. Tier 2 is.
 
 [1:57:07] Rafizi: Ini maksudnya amalan buruh.
 
 [1:57:10] Wong Chen: Buruh. Amalan buruh. So kalau you tier 4, any goods that you produce from your country cannot be sold. Tak boleh. That means you use child labor, you use forced labor, that kind of thing. Malaysia ni selalu tier 3 lah. Tier 2, tier 3 that.
 
-[1:57:27] Rafizi: Kita dah naik tier 2 lah kot sekejap kan. I think we are tier 2 now lah. Kita in- Not this kind of case lah. Now dia jadi balik lah. Kita masa kita inherit, kita come into government, kita tier 3. Tier 3 ni maksudnya ada amalan-amalan yang berbaur diskriminasi, manipulasi dan juga perdagangan manusia dan penghambaan buruh.
-
-[1:57:50] Wong Chen: Ya.
-
-[1:57:51] Rafizi: Ha, jadi sebab itu kalau ingat, ada satu ketika even Syam Dabi pun hampir kena sanction.
+[1:57:27] Rafizi: Kita dah naik tier 2 lah kot sekejap kan. I think we are tier 2 now lah. Kita in- Not this kind of case lah. Now dia jadi balik lah. Kita masa kita inherit, kita come into government, kita tier 3. Tier 3 ni maksudnya ada amalan-amalan yang berbaur diskriminasi, manipulasi dan juga perdagangan manusia dan penghambaan buruh. Ha, jadi sebab itu kalau ingat, ada satu ketika even Syam Dabi pun hampir kena sanction.
 
 [1:57:57] Wong Chen: Ya, betul.
 
@@ -817,11 +785,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:05:45] Wong Chen: Soliderity dengan orang Gaza, solidarity dengan orang Bangladesh juga. That's what I want to say. Right?
 
-[2:05:53] Rafizi: Anyway, so.
-
-[2:05:55] Haziq: Okay.
-
-[2:05:55] Rafizi: There's nothing more we can say lah kan.
+[2:05:53] Rafizi: Anyway, so. There's nothing more we can say lah kan.
 
 [2:05:57] Haziq: That's right.
 
@@ -843,11 +807,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:08:17] Wong Chen: Kenapa - UMNO nak fokus pada Amanah?
 
-[2:08:20] Rafizi: No, no, no, no. Actually yang mula ni Amanah. Tapi understandable lah kerana formula daripada rundingan kerusi dalam PRN yang lepas. Maksudnya incumbent kekal bertanding kat situ. Jadi Amanah rasa mereka kuat di Johor dan juga di Melaka. Tapi last state election, Melaka kosong. Johor pun kosong.
-
-[2:08:50] Haziq: Yes.
-
-[2:08:51] Rafizi: Amanah kalah. Eh, Johor satu.
+[2:08:20] Rafizi: No, no, no, no. Actually yang mula ni Amanah. Tapi understandable lah kerana formula daripada rundingan kerusi dalam PRN yang lepas. Maksudnya incumbent kekal bertanding kat situ. Jadi Amanah rasa mereka kuat di Johor dan juga di Melaka. Tapi last state election, Melaka kosong. Johor pun kosong. Amanah kalah. Eh, Johor satu.
 
 [2:08:53] Haziq: Johor satu. Johor satu.
 
@@ -863,15 +823,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:09:56] Haziq: Tak boleh pakai.
 
-[2:09:57] Rafizi: Tak boleh pakai. The the irony is itulah juga argument ataupun hujah yang MIC, MMCA pakai pasal DAP. DAP kena bagi kerusi lah. DAP kata no, kami dah menang. Buat apa kami nak. But now UMNO kata benda yang samalah kepada Amanah. Itu kan formula kita. Kalau kami dah menang, buat apa aku nak bagi kau bertanding kat sini? Kerusi kita orang lah.
-
-[2:10:21] Wong Chen: Okey.
-
-[2:10:23] Rafizi: So sebab itu, keadaan ini akan terus merumitkan Datuk Seri Anwar. Dan kita dah tengok sebenarnya yang berlaku di Sabah.
-
-[2:10:36] Haziq: Okey.
-
-[2:10:36] Rafizi: Kan di Sabah, walaupun Nurul Izzah ada runding kerusi dan sebagainya ni kan. Walaupun saya ingat Datuk Seri Anwar ada harapan yang BN, GRS, PH ni akan dengar pandangan dia dan dan juga berjaya rangkul semua kan. Akhirnya terburai semualah. Semua free for all. Dan episod yang sama telah bermulalah untuk pilihan raya negeri Johor dan Melaka. Dan whatever happens dalam pilihan raya negeri Johor dan Melaka itu, itu akan replicated masa pilihan raya umumlah. Kan. Jadi kita nak tengok macam mana Datuk Seri Anwar nak handle ni. It will be a free for all.
+[2:09:57] Rafizi: Tak boleh pakai. The the irony is itulah juga argument ataupun hujah yang MIC, MMCA pakai pasal DAP. DAP kena bagi kerusi lah. DAP kata no, kami dah menang. Buat apa kami nak. But now UMNO kata benda yang samalah kepada Amanah. Itu kan formula kita. Kalau kami dah menang, buat apa aku nak bagi kau bertanding kat sini? Kerusi kita orang lah. So sebab itu, keadaan ini akan terus merumitkan Datuk Seri Anwar. Dan kita dah tengok sebenarnya yang berlaku di Sabah. Kan di Sabah, walaupun Nurul Izzah ada runding kerusi dan sebagainya ni kan. Walaupun saya ingat Datuk Seri Anwar ada harapan yang BN, GRS, PH ni akan dengar pandangan dia dan dan juga berjaya rangkul semua kan. Akhirnya terburai semualah. Semua free for all. Dan episod yang sama telah bermulalah untuk pilihan raya negeri Johor dan Melaka. Dan whatever happens dalam pilihan raya negeri Johor dan Melaka itu, itu akan replicated masa pilihan raya umumlah. Kan. Jadi kita nak tengok macam mana Datuk Seri Anwar nak handle ni. It will be a free for all.
 
 [2:11:28] Wong Chen: Unless kalau betul-betul kerajaan Madani semua komponen parti tu, you have to form a Madani coalition. You cannot form a Madani government with Pakatan Harapan dan you know UMNO, BN. Right? Of course when it comes to election, kena free for all.
 
@@ -879,11 +831,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:11:57] Wong Chen: No, in the sense PH will not fight each other.
 
-[2:12:00] Rafizi: No, no, no, no. PH, BN lah. Really? PH.
-
-[2:12:02] Wong Chen: Ya.
-
-[2:12:03] Rafizi: Ha, satu lawan satu. Macam dalam pilihan raya negeri yang lepas lah kan. Kita kena bagi kerusi semua satu lawan satu so that you get the combined strength of both.
+[2:12:00] Rafizi: No, no, no, no. PH, BN lah. Really? PH. Ha, satu lawan satu. Macam dalam pilihan raya negeri yang lepas lah kan. Kita kena bagi kerusi semua satu lawan satu so that you get the combined strength of both.
 
 [2:12:15] Wong Chen: But didn't happen in Sabah.
 
@@ -947,15 +895,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:23:08] Rafizi: Right?
 
-[2:23:08] Wong Chen: But it doesn't answer the question. Soalan kita ialah why why a map 1950, 1952, 1975 semua tunjuk bahawa it's still part of a forest reserve.
-
-[2:23:20] Rafizi: Okay.
-
-[2:23:21] Wong Chen: And how did this J-KOM come to own? Macam mana dia boleh dapat tanah ni? 169 ekta, ekar ni.
-
-[2:23:29] Rafizi: Ya.
-
-[2:23:29] Wong Chen: Jadi bila kita, kita minta data, data semua, tak bagi.
+[2:23:08] Wong Chen: But it doesn't answer the question. Soalan kita ialah why why a map 1950, 1952, 1975 semua tunjuk bahawa it's still part of a forest reserve. And how did this J-KOM come to own? Macam mana dia boleh dapat tanah ni? 169 ekta, ekar ni. Jadi bila kita, kita minta data, data semua, tak bagi.
 
 [2:23:32] Rafizi: 169 ekar.
 
@@ -983,11 +923,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:25:33] Rafizi: Tapi then kerajaan akan kata, well, apa nak bising-bisingnya? Memang tanah tu ialah bukan hutan simpan. So.
 
-[2:25:40] Wong Chen: Memanglah bukan hutan simpan, tapi dia tak pernah develop.
-
-[2:25:43] Rafizi: Okey.
-
-[2:25:43] Wong Chen: Cuma historically, dia cuba develop. Tapi bantahan oleh rakyat yang duduk situ. Orang-orang Kinara. Dia bantah I think 2009, 2008 dia cuba sekali bantah, kerajaan tolaklah. So when Tan Sri Khalid was was Menteri Besar, according to record dia juallah tanah tu kepada J-KOM. Okay? And then the second batch, which is the big piece of land, 130 ekar ni, dijual pada 2019 oleh current Menteri Besar. Menteri Besar.
+[2:25:40] Wong Chen: Memanglah bukan hutan simpan, tapi dia tak pernah develop. Cuma historically, dia cuba develop. Tapi bantahan oleh rakyat yang duduk situ. Orang-orang Kinara. Dia bantah I think 2009, 2008 dia cuba sekali bantah, kerajaan tolaklah. So when Tan Sri Khalid was was Menteri Besar, according to record dia juallah tanah tu kepada J-KOM. Okay? And then the second batch, which is the big piece of land, 130 ekar ni, dijual pada 2019 oleh current Menteri Besar. Menteri Besar.
 
 [2:26:17] Rafizi: Ya. So yang jual dua-dua Menteri Menteri Besar PKR. Betul.
 
@@ -1015,15 +951,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:31:57] Rafizi: Yalah, ha kan. So, so kalau tak bagi DO, development order, kebenaran merancang, tak boleh. Tapi kalau nak beli, then financially selain daripada sebenarnya I don't think kerajaan Selangor ada 300 juta, 200 juta untuk beli balik. Issue dia also that, you know, moral consideration is using that 200 million instead of spending for the rest, spend dekat satu kawasan. So how do you go about it?
 
-[2:32:27] Wong Chen: No, no, no. To me, sebagai ahli parlimen, penduduk kita 5,000 dah minta data. First thing, transparency in government. Bukan Cik Minah tepi jalan minta data. Ahli parlimen minta. Please respond to us. You are the Freedom of Information Act sejak 2011.
-
-[2:32:47] Haziq: Okey.
-
-[2:32:48] Wong Chen: Do the right thing. And the hari tu pun I, I, I masih ingat 5 hari bulan Januari sebelum saya tulis surat untuk minta lebih data tu. Second reminder letter. Datuk Seri Anwar kata, sebagai kerajaan, kalau ada official request, you have to respond. So I think this is the irony of it lah. Ni isu tentang, tentang transparency of government and responsive government. Sebagai ahli parlimen, we are accountable kepada penduduk kita. That is the core point. I cuma nak tahu, is there any other option than buying the house? Or buying the buying back the land. Beli beli tanah tu balik.
-
-[2:33:27] Haziq: Okay.
-
-[2:33:28] Wong Chen: Or you want to use the development order, pakai pressure on the MBSJ to limit the plot ratio. But before they can go there, bagi data betul. That's all because saya bukan ADUN. I cannot go to the to the state government and say I want you to do this, I want you to. I'm asking if we want to explore, kalau kita nak cuba beli, how much do we need? Why do I have to do the paperwork myself? Because you know the what I found at NAPIC might be true, might not be true. But what I found is not complete pun. Saya jumpa 139 ekar, tak tak sampai 169. So there's a 30 acre empty, you know, question that I can't find the data on. So please give me the chronology. Give me the legal status. That's all. That's all I'm asking. Dan bagi kerajaan Selangor, update us lah sebab rakyat minta daripada kita.
+[2:32:27] Wong Chen: No, no, no. To me, sebagai ahli parlimen, penduduk kita 5,000 dah minta data. First thing, transparency in government. Bukan Cik Minah tepi jalan minta data. Ahli parlimen minta. Please respond to us. You are the Freedom of Information Act sejak 2011. Do the right thing. And the hari tu pun I, I, I masih ingat 5 hari bulan Januari sebelum saya tulis surat untuk minta lebih data tu. Second reminder letter. Datuk Seri Anwar kata, sebagai kerajaan, kalau ada official request, you have to respond. So I think this is the irony of it lah. Ni isu tentang, tentang transparency of government and responsive government. Sebagai ahli parlimen, we are accountable kepada penduduk kita. That is the core point. I cuma nak tahu, is there any other option than buying the house? Or buying the buying back the land. Beli beli tanah tu balik. Or you want to use the development order, pakai pressure on the MBSJ to limit the plot ratio. But before they can go there, bagi data betul. That's all because saya bukan ADUN. I cannot go to the to the state government and say I want you to do this, I want you to. I'm asking if we want to explore, kalau kita nak cuba beli, how much do we need? Why do I have to do the paperwork myself? Because you know the what I found at NAPIC might be true, might not be true. But what I found is not complete pun. Saya jumpa 139 ekar, tak tak sampai 169. So there's a 30 acre empty, you know, question that I can't find the data on. So please give me the chronology. Give me the legal status. That's all. That's all I'm asking. Dan bagi kerajaan Selangor, update us lah sebab rakyat minta daripada kita.
 
 [2:34:24] Rafizi: So actually, the bigger issue lah dia ironinya begini. Ini kita dah sentuhlah dalam aa 3 4 minggu lepas kan. Ya, reformasi. Bila Datuk Seri Anwar Ibrahim umum 2026 jadi tahun reformasi, dan satu daripada reformasi besar itu ialah Freedom of Information Act. In fact, dalam siri yang lepas lah, episod yang lepas, memang kita dah sebut pun, sebenarnya benda ni dah ada di Penang dan Selangor, tapi kalau tak berhati-hati, kerajaan negeri, kerajaan persekutuan, jabatan-jabatan kerajaan ni, dia boleh berselindung di belakang FOI pun untuk frustrate everything. Jadi sebab itu, reformasi ni dia bukan slogan. Dia You have to do it. You kena buat betul-betul. Jadi kalau macam ahli parlimen sendiri minta maklumat tak dapat-dapat, and it's actually quite normal lah. Saya pun kadang-kadang minta kut mana pun tak pernah dapat. Kalau ad- dan di Selangor ada FOI. Kalau kerajaan persekutuan nanti buat FOI pun, tapi tidak ubah budaya, tidak betul-betul ubah aa orang kata jiwa aa pentadbiran, dia akan jadi macam ini dan 5, 6 tahun akan datang dia akan backfire lah. Kerana orang minta maklumat lebih susah nak dapat daripada yang sebelum ada FOI. So now this one I think you what, you have to wait because it's very tricky jugalah kan. No, no, I fully understand.
 

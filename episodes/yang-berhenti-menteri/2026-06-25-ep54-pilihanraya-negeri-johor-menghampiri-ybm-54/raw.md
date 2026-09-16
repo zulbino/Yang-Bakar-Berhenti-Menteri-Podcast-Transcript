@@ -23,19 +23,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [00:07] Haziq: Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri episod ke-54. Rasa agak kekok sikit YB. Agaknya kenapa YB?
 
-[00:16] Rafizi: Kita live daripada aa tempat sulit, tempat rahsia daripada JB. Ha, JB lah. Dan tempat ni dia macam ada alien sikit sebab dia ada banyak electrical charge kan? Ya. Jadi kita orang tak boleh sentuh banyak sangat. Haziq baru saja kena electrocuted tadi. Sakit sangat. Dan hari ini kita yang paling pendek kot.
-
-[00:41] Haziq: Ya.
-
-[00:41] Rafizi: Kita hanya setakat 1 jam setengah. Oleh kerana saya dengan pasukan ada pilihan raya yang hendak diselaksanakan, diselesaikan. Jadi ada a series of meeting and work dan selepas ini daripada jam 10 setengah malam. Jadi kita akan bersiaran yang paling pendek dalam sejarah YBM.
+[00:16] Rafizi: Kita live daripada aa tempat sulit, tempat rahsia daripada JB. Ha, JB lah. Dan tempat ni dia macam ada alien sikit sebab dia ada banyak electrical charge kan? Ya. Jadi kita orang tak boleh sentuh banyak sangat. Haziq baru saja kena electrocuted tadi. Sakit sangat. Dan hari ini kita yang paling pendek kot. Kita hanya setakat 1 jam setengah. Oleh kerana saya dengan pasukan ada pilihan raya yang hendak diselaksanakan, diselesaikan. Jadi ada a series of meeting and work dan selepas ini daripada jam 10 setengah malam. Jadi kita akan bersiaran yang paling pendek dalam sejarah YBM.
 
 [01:07] Haziq: Aha. Okey, baik. Sebelum kita ke Beria, tadi macam mana perjalanan YB?
 
-[01:12] Rafizi: Tak. Aku ingat ada hantu atas kereta aku tu. Rupanya. Tak tak tak tak tak tak tak tak tak tak tak sekali-sekala je dan dia hanya bunyi je bila lalu bawah jejantas ke bawah apa. Rupanya kereta tu ada Ariel. Dan Ariel tu dah lembik agaknya lama-lama. So ti ti ti ti ti ti ti.
-
-[01:34] Haziq: Okey, okey, okey.
-
-[01:35] Rafizi: So selesai lah, bukan hantu.
+[01:12] Rafizi: Tak. Aku ingat ada hantu atas kereta aku tu. Rupanya. Tak tak tak tak tak tak tak tak tak tak tak sekali-sekala je dan dia hanya bunyi je bila lalu bawah jejantas ke bawah apa. Rupanya kereta tu ada Ariel. Dan Ariel tu dah lembik agaknya lama-lama. So ti ti ti ti ti ti ti. So selesai lah, bukan hantu.
 
 [01:36] Haziq: Dah.
 
