@@ -2497,6 +2497,24 @@ Four things the fix turned up, none of them the colon itself:
 4. **`overnight_corpus.remaining()` qualifies instead of dropping.** The queue went from
    3 episodes to 15, which is every unadopted episode `check_raw_engine.py` names.
 
+**A second pass traced what the chain and the adoption actually invoke, and found four
+more.** The colon was never the problem in these. Each one resolved the tag by globbing.
+
+`merge_same_speaker.py` is the one that matters, because it failed in silence.
+`--episode=ep06:berhenti` was tested as `only not in d.name` against a folder slug, so it
+matched NO folder, and the run touched nothing and printed no error. Rule 6 would have
+gone unenforced on all twelve episodes. The filter is now an exact folder from
+`common.raw_for_tag`, so a bare ambiguous tag refuses and names its candidates. That is
+the opposite of the trap at the top of that file, where a bare tag edited every episode.
+
+`split_mixed_blocks.py` and `score_attribution.py` exited `no raw.md`, and
+`verify_speaker_voiceprint.episode_dir` raised `matched 0 episode folders`, which took
+`voice_witness.py` down with it. All three read `common.raw_for_tag` now.
+`score_attribution.py` needed `from common import raw_for_tag` rather than `import
+common`: `common` is already a local in its `main()`, holding the set of seconds every
+system labelled, so the module was shadowed and the first run raised
+`UnboundLocalError`.
+
 **The mechanism is `scripts/test_tag_paths.py`.** A fix applied by hand at 30 sites is a
 fix the 31st site will miss. The test round-trips the two helpers first. It then scans
 `scripts/*.py` for an f-string that puts a tag placeholder next to a filename extension
