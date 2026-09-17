@@ -181,13 +181,13 @@ and writes the results to `QA_CHECKLIST.md`. A clean row means no *known* signat
 It does not mean the episode is verified. Two episodes read as clean for months while
 missing 41% and 80% of their content, until I added checks for those signatures.
 
-Current state, measured 2026-09-15: 39 of 70 episodes carry at least one flag, 9 findings
+Current state, measured 2026-09-18: 22 of 70 episodes carry at least one flag, 4 findings
 are reviewed and judged benign, and 0 episodes are unprocessed. The reasoning for each
-waived finding is recorded in `data/qa_reviewed.json`. The flag count rose as the corpus
-moved to the MAI transcripts, because 40 episodes now hold a re-cut `raw.md` whose
-`interview.md` has not been regenerated from it. That mismatch is what most of the flags
-are. An earlier version of this line read "68 of 70 clean, 0 flagged, 11 reviewed", which
-was true before the camera adoption pass began.
+waived finding is recorded in `data/qa_reviewed.json`. The count fell from 39 measured on
+2026-09-15 as more episodes were adopted and their `interview.md` regenerated from the
+re-cut `raw.md`, closing the mismatch that was most of the earlier flags. An even earlier
+version of this line read "68 of 70 clean, 0 flagged, 11 reviewed", which was true before
+the camera adoption pass began.
 
 For the pipeline itself, see [ARCHITECTURE.md](ARCHITECTURE.md). For every failure I hit
 while building it, including the ones above in full detail, see
