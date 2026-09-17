@@ -2635,3 +2635,48 @@ covers all three role words in both places.
 Corpus-wide, `check_published.py` went from 12 flagged episodes to 7. Nothing was masked:
 ep31, ep41 and ep61 still report a published `Speaker ?` their raw.md does not support,
 and all three are in the regeneration queue.
+
+## `move_hanging_words.py --write` refused a whole batch when two moves chained (fixed 2026-09-18)
+
+ep11 held four movable tails and `--write` refused all of them with `REFUSING: '[1:30:31]
+Iqbal: think apakah ...' is not unique`. The anchor was unique in the file. The tool applied
+the moves in stamp order against a running copy of the text, and the third move (1:30:24
+into 1:30:31) rewrote the 1:30:31 header to carry the new stamp and the moved words. The
+fourth move (1:30:31 into 1:30:42) then looked for the old 1:30:31 header, found zero
+copies, and the `!= 1` guard reported it as "not unique". Nothing was written, so ep11's
+four tails and ep10's seven sat in the adopted raw after adoption reported success, and the
+handoff recorded it as "refuses a whole batch when one anchor is not unique".
+
+The fix is one word: the loop now runs `reversed(moves)`. A move only rewrites its own
+block's tail and the NEXT block's header, so applying the latest move first leaves every
+earlier anchor intact. Two moves that chain (B receives A's tail and gives its own tail to
+C) are the only case the order matters for, and reversed order handles it. The word-order
+guard and the stamp-order guard run unchanged after the loop. Result: ep11 4 tails and
+ep10 7 tails moved, rule 7 went 6 contested to 2, and the two left (ep06:berhenti) are
+shapes no tool moves: a whole block the camera reads as the first speaker, and a next
+block whose HEAD belongs to the previous speaker.
+
+## ep06:berhenti's two contested boundaries, ruled by ear (2026-09-18)
+
+The two `?t=` links from the previous section's fix went to the owner. Both rulings
+were confirmed against the camera before writing, per rule 4's evidence order.
+
+**29:36, a WHOLE-BLOCK relabel, not a tail move.** The block was labelled Zaim Zulkifli
+and reads as Rafizi continuing his own previous sentence: "...subjected to the collective
+responsibility, responsibility kepada kementerian," (29:27, Rafizi) into "responsibility
+kepada stakeholders yang berjuta-juta ni." (29:36). Owner: "Rafizi speaking. can check
+with camera reference." The rttm reads Rafizi across 1774-1782s, spanning the block.
+Relabelled and merged into the 29:27 block under rule 6.
+
+**36:26, a HEAD move, the mirror of the tail case `move_hanging_words.py` already
+handles.** Zaim's 36:18 block ends mid-sentence with no terminal punctuation ("...bukan
+si- sistem, simptom"); the sentence's completion, "yang sebenarnya menjadi enabler
+kepada sistem itu.", was sitting at the START of the next block (Rafizi, 36:26) instead
+of the end of Zaim's. The tool only looks for a tail hanging off the END of a block, so
+it never proposed this move. Moved by hand, guarded the same way: exact substring,
+asserted unique, word order preserved. Camera reads Zaim_Zulkifli across 2178-2186s
+(the sentence's completion) and Rafizi from 2190s, consistent with the ruling.
+
+Both recorded in `data/speaker_adjudications.json` under
+`ep06:berhenti_rule7_owner_ruled_2026_09_18`. `check_overlap_boundaries.py --all` is
+back to 0 contested corpus-wide.

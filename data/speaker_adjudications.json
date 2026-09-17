@@ -1,4 +1,16 @@
 {
+ "ep06:berhenti_rule7_owner_ruled_2026_09_18": {
+  "29:36": {
+   "who": "Rafizi",
+   "text_now": "responsibility kepada stakeholders yang berjuta-juta ni. And you cannot do as what you wish",
+   "_note": "OWNER RULING 2026-09-18, on the two rule 7 contested boundaries reported by check_overlap_boundaries.py --all. Owner was given a ?t= link and answered: \"Rafizi speaking. can check with camera reference\". The camera rttm (data/camera_ref_ep06-berhenti.rttm) reads Rafizi across 1774-1782s, spanning this whole block, confirming the ruling. This is a WHOLE-BLOCK relabel, not a tail move: the block was labelled Zaim Zulkifli and is now Rafizi, so it merges with the preceding Rafizi block at 29:27 under rule 6."
+  },
+  "36:18": {
+   "who": "Zaim Zulkifli",
+   "text_now": "yang sebenarnya menjadi enabler kepada sistem itu.",
+   "_note": "OWNER RULING 2026-09-18, on the two rule 7 contested boundaries reported by check_overlap_boundaries.py --all. Owner: \"Zaim is saying 'yang sebenarnya menjadi enabler kepada sistem itu', Rafizi starting at 'so are you saying that'\". Zaim's 36:18 block ends mid-sentence with no terminal punctuation (\"...bukan si- sistem, simptom\"); the sentence completes with words that were sitting at the HEAD of Rafizi's 36:26 block. This is rule 7's PARTIAL branch mirrored: the head of the NEXT block belongs to the PREVIOUS one. The moved words now sit at the end of Zaim's 36:18 block; Rafizi's 36:26 block now starts at \"So you are saying that...\". Camera (data/camera_ref_ep06-berhenti.rttm) reads Zaim_Zulkifli across 2178-2186s, which covers this sentence's completion, and Rafizi from 2190s, consistent with the ruling."
+  }
+ },
  "_what": "Owner-adjudicated speaker decisions, applied by scripts/apply_split_map.py. The only record of WHY a name was chosen: every entry came from the owner listening, not from a tool. Kept under a TRACKED path on purpose -- the earlier ep26 map lived at data/_ep26_speaker1_map.json, which `data/_*` gitignores, so those identifications were absent from the repo's history while the names they produced were published.",
  "_note": "Blocks the owner split BY EAR, 2026-08-29. Same shape as _ep26_speaker1_map.json. Each entry is one raw.md block that held more than one speaker with no marker of any kind -- the defect class documented in ENGINEERING_LOG 2.6 and listed by buried_turn_candidates.py. Timestamps for the new sub-turns are read from the episode's YouTube caption track (audio/<video_id>.ms.vtt), NOT interpolated: reusing the parent block's stamp would have put ep41's question 17 minutes early.",
  "_method": "Owner listened at the estimated moment and dictated the turn sequence. Text boundaries below are literal substrings of the parent block, asserted unique before the cut.",

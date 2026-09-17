@@ -317,7 +317,10 @@ def main():
         if out.count(old) != 1:
             sys.exit(f"REFUSING: the block pair at [{st}] is not unique")
         out = out.replace(old, f"[{st}] {who_next}: {said} ")
-    for _, st, who, head, tail, nxt, who_next, _ in moves:
+    # Last move first. When two moves chain (block B receives A's tail AND gives its
+    # own tail to C), applying A's move first rewrites B's header, so B's anchor is
+    # gone by the time its own move runs. ep11 1:30:24 -> 1:30:31 -> 1:30:42 was that.
+    for _, st, who, head, tail, nxt, who_next, _ in reversed(moves):
         old_a = f"[{st}] {who}: {head} {tail}"
         old_b = f"[{nxt}] {who_next}: "
         if out.count(old_a) != 1:

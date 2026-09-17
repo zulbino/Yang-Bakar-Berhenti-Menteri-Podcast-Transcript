@@ -61,9 +61,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [05:00] Rafizi: Berisi macam perli aku je. I've lost weight though.
 
-[05:05] Iqbal: That's a recurring thing that Nik Nazmi was saying to us last week, in our previous interview with you is bahawa you bukan jenis bersukan. So mungkin. I was saying, I was saying, I was saying waktu tu,
+[05:05] Iqbal: That's a recurring thing that Nik Nazmi was saying to us last week, in our previous interview with you is bahawa you bukan jenis bersukan. So mungkin.
 
-[05:20] Nik Nazmi: kalau kat collect tu you were everywhere except for sports. But I didn't say you come with my hockey.
+[05:16] Nik Nazmi: I was saying, I was saying, I was saying waktu tu, kalau kat collect tu you were everywhere except for sports. But I didn't say you come with my hockey.
 
 [05:24] Iqbal: Tapi, tapi minggu lepas bila kita orang tanya YB Rafizi apa menteri kementerian yang mungkin dia akan minat untuk terajui, Kementerian Sukan tu was on lower on his list.
 
@@ -213,9 +213,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [37:10] Iqbal: Jadi pada pengetahuan kedua-dua YB ni, like you were saying earlier, you anggap kamu berdua anomaly dari kalangan Melayu Malaysia. Waktu membesar, did you notice that you were different?
 
-[37:20] Rafizi: Tak sebenarnya sebab yalah kalau aku umur 12 tahun dah mula fikir macam ni, masalah lah aku. Something is wrong with me kan. I think kita grow up macam biasa. Sebab okay, then let me share sebab masa saya darjah 3,
+[37:20] Rafizi: Tak sebenarnya sebab yalah kalau aku umur 12 tahun dah mula fikir macam ni, masalah lah aku. Something is wrong with me kan. I think kita grow up macam biasa.
 
-[37:35] Iqbal: ada satu ketika cikgu suruh kita orang baca satu passage kat kelas, like from surat khabar atau apa-apa. And kat rumah parents saya memang selalu berbincang pasal politik. So saya perkataan UMNO tu semua memang dah, dah biasa dengar. And kat dalam surat khabar tu ada perkataan UMNO. And one of my classmates was reading the passage. Lepas tu bila dia sampai kat perkataan UMNO tu, dia berhenti sekejap dan dia macam UMNO. Lepas tu saya pun macam, "Hah? You tak tahu ke perkataan tu apa? So masa tu saya terus sedar bahawa okey, clearly perbincangan politik kat rumah adalah bukan sesuatu yang biasa. So tap-
+[37:32] Iqbal: Sebab okay, then let me share sebab masa saya darjah 3, ada satu ketika cikgu suruh kita orang baca satu passage kat kelas, like from surat khabar atau apa-apa. And kat rumah parents saya memang selalu berbincang pasal politik. So saya perkataan UMNO tu semua memang dah, dah biasa dengar. And kat dalam surat khabar tu ada perkataan UMNO. And one of my classmates was reading the passage. Lepas tu bila dia sampai kat perkataan UMNO tu, dia berhenti sekejap dan dia macam UMNO. Lepas tu saya pun macam, "Hah? You tak tahu ke perkataan tu apa? So masa tu saya terus sedar bahawa okey, clearly perbincangan politik kat rumah adalah bukan sesuatu yang biasa. So tap-
 
 [38:14] Rafizi: I don't. I mean saya, I think because my parents were simple folks kan. So our preoccupation is social mobility and and to make sure that that we can look after ourselves kan. I think if anything lah, kalau saya mula faham pasal that kami, sayalah pemikiran ni lain sikit sebenarnya di universiti. Ha, di universiti sebab saya di UK kan dan dan apa nama ni, UKAC dan sebagainya. So it's elite group kan. Jadi saya boleh nampaklah yang pandangan saya mengenai isu-isu ma- masyarakat ni berbeza daripada orang lain yang kebanyakannya datang daripada budak-budak kaya KL ni.
 
@@ -437,11 +437,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:29:15] Nik Nazmi: Cabaran pertama saya rasa dia jangan jadi dia, dia kena kekalkan identity dia. Because kalau beg-beg tu makna dia tak dapat bezakan. Apa nama ni, alang-alang baik beli yang ori je. Kan? Kenapa take the cheap imitation? Jadi bagi saya kita ada unique selling proposition kita sebagai PKR. Ya, kita kerajaan perpaduan, kita faham. Tetapi itulah makna mana red line kita, mana garis merah kita, mana sempadan kita. Tapi kalau orang tengok, eh, dan alasan kita akhirnya asyik-asyik, oh, kita tak ada numbers dan sebagainya, dan orang akan kata kenapa kita pegang kuasa? Kan? Jadi bagi saya itu penting supaya orang merasakan ada identity ki- Makna dia nak beli barang kita tu ada sebab dia. Dia tak boleh dah la- dah kelabu jadi sama. Tu kita akan kalah. Because kita tak ada kekuatan organisasi, kita tak ada kekuatan akar umbi, kita tak ada kekuatan yang macam ada pada misalnya UMNO, PAS atau DAP, bagi sayalah. Tetapi kita PKR ni very gerila. Kan? Dia macam perang gerila masuk tak ramai orang semua, tapi kita berjaya.
 
-[1:30:24] Rafizi: Tak, pakai drone je. PKR ni pakai drone je. I guess tapi YB Nik dari luar context politics, do you
+[1:30:24] Rafizi: Tak, pakai drone je. PKR ni pakai drone je.
 
-[1:30:31] Iqbal: think apakah cabaran-cabaran utama in the same way yang lepas kita merdeka dari British, tapi syarikat-syarikat kita masih dipegang oleh British? Ada tak? Cabaran kita I think is
+[1:30:28] Iqbal: I guess tapi YB Nik dari luar context politics, do you think apakah cabaran-cabaran utama in the same way yang lepas kita merdeka dari British, tapi syarikat-syarikat kita masih dipegang oleh British? Ada tak?
 
-[1:30:42] Nik Nazmi: sejauh mana kita betul-betul dapat tukar sistem dalam kerajaan lah. Okey. So I think yang tu expectation harapan rakyat ni. Sejauh mana kita dapat buat satu sistem yang mengelak daripada politik wang. Sejauh mana kita memastikan ada beberapa perkara dari segi undang-undang yang menjaga demokrasi dan sebagainya dapat dipelihara. Okey. Jadi itu yang orang nak tengok. Kan? Jadi tak nak jawapan yang copy paste tu. Ya. Itu yang tu yang yang besarlah.
+[1:30:39] Nik Nazmi: Cabaran kita I think is sejauh mana kita betul-betul dapat tukar sistem dalam kerajaan lah. Okey. So I think yang tu expectation harapan rakyat ni. Sejauh mana kita dapat buat satu sistem yang mengelak daripada politik wang. Sejauh mana kita memastikan ada beberapa perkara dari segi undang-undang yang menjaga demokrasi dan sebagainya dapat dipelihara. Okey. Jadi itu yang orang nak tengok. Kan? Jadi tak nak jawapan yang copy paste tu. Ya. Itu yang tu yang yang besarlah.
 
 [1:31:11] Rafizi: I I I feel lah kan, you know, cabaran dan juga ancaman utama lah kepada Malaysia lah in the next 10, 15 years kan. Sebenarnya the lack of social mobility.
 
