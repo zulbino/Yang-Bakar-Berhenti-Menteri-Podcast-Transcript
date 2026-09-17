@@ -1099,5 +1099,23 @@
    "text_now": "Johor dah nak habis tempoh dah, YB eh.",
    "_note": "OWNER RULING 2026-09-17, by ear from the caption-derived link https://youtu.be/4mmuPwkB5f4?t=3154. Owner: 'DSA: \"Johor dah nak habis tempoh dah, YB eh\" is correct'. This was one of the two ambiguous spans CLAUDE.md rule 1 held open after the 2026-09-16 sweep turned 39 spans of `babi` into the honorific `YB`. The word is `YB` and the speaker is DSA. Closed.\nNOTE ON THE LINK. The block stamp is 51:46 but the phrase sits 54 seconds inside a long block, so a stamp-built link sent the owner to the wrong moment. The second came from the caption cue `Kerana apa? Satu er Johor dah nak habis` at 3158s, minus 4s of lead-in. This is exactly why the standing rule says derive the link from the caption track."
   }
+ },
+ "ep00_owner_ruled_2026_09_17": {
+  "1:12:20": {
+   "who": "Haziq",
+   "text_now": "Okey, YB. Last soalan tentang saudari Nurul Izzah. Boleh ke saya tanya?",
+   "_note": "OWNER RULING 2026-09-17, CONFIRMING the label already in raw.md. Owner: 'yes correct, haziq is speaking'. Recorded because the camera CANNOT attest it and a future session would re-escalate. The shot is a close-up of Rafizi listening while the interviewer's question is spoken, so it is a reaction shot with Haziq off frame. Reading a reaction shot as the speaker is a text inference, which rule 4 does not allow, hence the owner's ear. No write follows from this record."
+  },
+  "2:11:29": {
+   "who": "Rafizi",
+   "text_now": "Is it I told you benda macam itu orang tak buat tau.",
+   "_note": "OWNER RULING 2026-09-17. Owner: 'yes rafizi is speaking'. The block was labelled Audience. ep00 is a forum-style live show and the owner confirmed the audience does ask questions, which is why MAI's Audience label looked plausible. The camera cuts from Rafizi's close-up to the wide hall at 2:11:29.5 and the words start at 2:11:29.9, so it is blind by 0.4 seconds. The next block, 2:11:39, is already Rafizi and continues the same argument. Enforced in data/forced_labels.json."
+  },
+  "03:23": {
+   "who": "Haziq",
+   "text_was": "Suara wekiat jemput ke depan. Oh. Babi Akmal. Tak apalah, dia dah ada. Tak apalah.",
+   "text_now": "Suara wekiat jemput ke depan. Oh. YB Akmal. Tak apalah, dia dah ada. Tak apalah.",
+   "_note": "OWNER RULING 2026-09-17 on a WORD, not a label. Owner: 'its YB akmal'. MAI wrote `Oh. Babi Akmal.` and YouTube's own caption track hears `Oh Robi Akmal`, so two engines agreed on the trailing sound and disagreed on the first consonant, and neither heard a word. This is the `YB` garble that hid in 39 spans until 2026-09-16. It arrived with ep00's first MAI adoption, hours earlier the same day. Recorded here because check_owner_text.py reads text_was and text_now and restores what a rebuild reverted; fix_proper_nouns.py carries the anchored pattern so a regeneration keeps it. `Suara wekiat` in the same block is a separate garble and is NOT touched: the owner named the name and changing words is the one operation that must never be extended by inference."
+  }
  }
 }

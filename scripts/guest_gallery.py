@@ -22,6 +22,7 @@ writes is the base gallery plus the guest, with provenance, under data/_face_gal
       --gallery data/_face_gallery_<vid>.json --out data/camera_ref_ep60 --runtime <s>
 """
 import glob
+import ast
 import io
 import json
 import re
@@ -71,7 +72,22 @@ def main():
     print(f"  gallery {gpath.name}")
     base = json.load(io.open(gpath, encoding="utf-8"))
     G = {k: np.array(v) for k, v in base["gallery"].items()}
-    unknown_hosts = [h for h in hosts if h.split(" (")[0] not in G]
+    # The gallery is keyed by the SPOKEN label, because the camera reference it writes is
+    # compared against raw.md's labels. The roster is keyed by the canonical full name.
+    # Those are two namespaces and the bridge is rebuild_roster.canon(), which maps a
+    # spoken variant up to the roster name. Without it ep10 stopped dead: the gallery held
+    # "Iqbal" and the frontmatter said "Iqbal Fatkhi", so a face that was already enrolled
+    # read as missing and the one-guest bijection on Chak Onn Lau never ran (2026-09-17).
+    # Read MERGE with ast, do NOT import rebuild_roster. That module has no
+    # `if __name__ == "__main__"` guard, so importing it runs its whole roster diff, and
+    # `guest_gallery.py <tag> --write` would have made it WRITE the roster as a side effect
+    # because it reads the same sys.argv. Caught 2026-09-17, one command after adding it.
+    merge = {}
+    for node in ast.walk(ast.parse((ROOT / "scripts" / "rebuild_roster.py").read_text(encoding="utf-8"))):
+        if isinstance(node, ast.Assign) and getattr(node.targets[0], "id", "") == "MERGE":
+            merge = ast.literal_eval(node.value)
+    known = set(G) | {merge.get(k, k) for k in G}
+    unknown_hosts = [h for h in hosts if h.split(" (")[0] not in known and h not in known]
 
     # The candidate names are raw.md's own labels: whatever the owner settled on is what the
     # reference has to say, or no word will ever match it. Generic labels are not people.

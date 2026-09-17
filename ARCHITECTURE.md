@@ -2551,3 +2551,87 @@ had. Corpus-wide the count is now 0 of 70.
 One care point in the widening. `bare` at the same line feeds the separate ABSENT
 signature. That signature needs the cast AND the speakers. Splitting out a cast-only set
 without keeping `bare` raised a `NameError` on the first run.
+
+## ep00 is a wide stage shot, so the face detector was blind to it (2026-09-17)
+
+ep00 is the pilot, recorded live in a hall on 2025-05-10, not in the studio. The camera
+sits at the back and holds a wide two-shot. The title screen fills the top third of the
+frame and a face is about 20 pixels tall.
+
+YuNet cannot detect a face that small. That is the whole of the reference's
+`no face 2960s` out of a 7938 second runtime, and of Haziq landing on 51 seconds, 1.2% of
+the reference, against 8.7% of raw.md's words. `check_camera_reference.py` refused the
+reference, correctly, and the episode was adopted under `--force-blind-reference`.
+
+**Cropping the stage strip and upscaling it makes the same frames readable.** The command
+that proved it, on clips already in `data/frames_cache/`:
+
+```
+ffmpeg -i <clip> -vf "fps=1,crop=150:170:195:100,scale=600:-2,tile=5x1" out.png
+```
+
+The face, the glasses and the microphone at the mouth all become clear. So the camera
+signal was present the whole time and the detector never saw it.
+
+**Read this as a class, not as one episode.** Any live or stage episode has the same
+framing, and the detector has been silently blind to all of them. ep05:berhenti came out
+of the chain the same day at 7% identified and 35% coverage, which is the same signature.
+The fix to build is a crop-and-upscale pre-pass: detect on the enlarged strip, then map
+the box back to full-frame coordinates. For ep00 that would replace 56% confident
+coverage with a real reference, at the cost of one more camera pass of about 88 GPU
+minutes.
+
+### What the zoom settled, and the two labels it could not
+
+The owner's ruling at `[05:42]` is the identity anchor. Haziq is the man in the maroon
+polo with glasses on the left; Rafizi is in the patterned batik on the right. From there
+the zoom read four blocks the reference had wrong, all of them in the forum section where
+the public asks questions from the floor:
+
+| block | was | is | evidence |
+|---|---|---|---|
+| 1:51:44 | Audience | Rafizi | he lifts the mic to his mouth at 1:51:45; Haziq's is in his lap |
+| 2:02:17 | Haziq | Rafizi | Rafizi on mic for all five seconds; the caption runs the sentence through the split |
+| 1:50:50 tail | Haziq | Audience | Haziq lowers his mic at 1:51:03, as the tail's first word lands |
+| 1:57:51 tail | Haziq | Audience | same shape, 1:58:03 |
+
+Two more needed the owner's ear, because the camera looks away at both. `[2:11:29]` cuts
+to the wide hall 0.4 seconds before the words start, and `[1:12:20]` is a reaction shot
+of Rafizi listening while the interviewer speaks off frame. The owner ruled Rafizi and
+Haziq. Both are recorded in `data/speaker_adjudications.json` under
+`ep00_owner_ruled_2026_09_17`, and all five enforceable changes are in
+`data/forced_labels.json` under `ep00`, so a rebuild keeps them.
+
+**One trap in writing those rules.** `mai_camera_raw.py` applies its own name corrections
+BEFORE `force_labels()`, so an anchor carrying a name the map rewrites fails on the next
+rebuild. The 1:50:50 anchor originally ran through `Haziq Asfar`, which
+`fix_proper_nouns.py` now corrects to `Haziq Azfar` at the owner's word. Stop an anchor
+short of any name a map can touch.
+
+## Two `check_published.py` flags fired on correct work (2026-09-17)
+
+Both surfaced the first time a MAI adoption met a fresh regeneration, and each one pointed
+a session at work that was already right.
+
+**The `Speaker ?` exclusion was inverted.** The published-placeholder flag asks whether
+raw.md carries `Speaker ?` itself, and it asked `raw_generic` after the raw-side loop had
+already subtracted the deliberate unknowns and deleted the key. So an episode whose
+unknowns are ALL deliberate lost the key and had its published files flagged, while an
+episode with a mix kept the key and was excluded. ep08, ep11, ep18, ep19 and ep21 were
+each reported for faithfully copying out a label the owner asked for: `Betul.`, `Kan.`,
+`Alhamdulillah.`, every one from the STANCE lexicon in CLAUDE.md rule 5. Fixed by
+capturing `raw_has_unknown` before the subtraction. The ep33 case it exists for still
+fires: there the published file prints `Speaker ?` while raw.md holds none.
+
+**`Audience` is a sanctioned label and was being reported as a gap.** CLAUDE.md rule 9
+says so in as many words. `Multiple speakers` never reached the flag because
+`label_drift_audit.GENERIC` does not list it, so only `Audience` was ever caught, and
+ep00's 20 turns came back as `raw-unnamed-speaker` telling the reader to go and identify
+a member of the public with video frames. The same comparison missed that
+interview-ms.md's `Hadirin` and raw.md's `Audience` are one concept, so the faithful
+translation read as the rewrite discarding a name. A `SANCTIONED` prefix pattern now
+covers all three role words in both places.
+
+Corpus-wide, `check_published.py` went from 12 flagged episodes to 7. Nothing was masked:
+ep31, ep41 and ep61 still report a published `Speaker ?` their raw.md does not support,
+and all three are in the regeneration queue.

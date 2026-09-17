@@ -295,5 +295,39 @@
    "at": "20:23",
    "why": "OWNER RULING 2026-09-17, recorded in data/speaker_adjudications.json under ep13_owner_ruled_2026_09_17. Owner: 'ep13 is actually Haziq not Rafizi'. The camera and the fallback both gave this block to Rafizi."
   }
+ ],
+ "ep00": [
+  {
+   "text": "Taklah saya, saya dah sebut tadi sebenarnya yalah itu hak masing-masing.",
+   "who": "Rafizi",
+   "at": "1:51:44",
+   "why": "Labelled Audience, but the words are Rafizi answering the question from the floor. Rafizi lifts the microphone to his mouth at 1:51:45 and speaks; Haziq's microphone is in his lap. CAMERA EVIDENCE 2026-09-17, not an owner ruling. ep00 is the pilot, shot wide from the back of the hall, so a face is about 20 pixels tall and YuNet almost never fires. That is why the reference reports `no face 2960s` and gives Haziq 51s against 8.7% of raw's words, and why the episode was adopted under --force-blind-reference. Cropping the stage strip and upscaling it to 1400px makes the face, the glasses and the microphone readable, so the camera signal was there the whole time. The owner's 05:42 ruling is the identity anchor: Haziq is the man in the maroon polo with glasses on the left, Rafizi the patterned batik on the right. SUPERSEDE THIS with a real reference once the crop-and-upscale pre-pass exists."
+  },
+  {
+   "text": "Tapi kebanyakannya saya yakin daripada kawan-kawan yang membuat aduan, bantahan,",
+   "who": "Rafizi",
+   "at": "2:02:17",
+   "why": "Labelled Haziq. Rafizi holds the microphone at his mouth for all five seconds of the window while Haziq's mouth is shut and his microphone is down. The caption track runs the sentence straight through the block split at 2:02:23, so this block and the Rafizi block at 2:02:24 are one turn. check_overlap_boundaries.py had already reported this pair as ep00's only contested boundary, with 0 attested by the camera. CAMERA EVIDENCE 2026-09-17, not an owner ruling. ep00 is the pilot, shot wide from the back of the hall, so a face is about 20 pixels tall and YuNet almost never fires. That is why the reference reports `no face 2960s` and gives Haziq 51s against 8.7% of raw's words, and why the episode was adopted under --force-blind-reference. Cropping the stage strip and upscaling it to 1400px makes the face, the glasses and the microphone readable, so the camera signal was there the whole time. The owner's 05:42 ruling is the identity anchor: Haziq is the man in the maroon polo with glasses on the left, Rafizi the patterned batik on the right. SUPERSEDE THIS with a real reference once the crop-and-upscale pre-pass exists."
+  },
+  {
+   "text": "Is it I told you benda macam itu orang tak buat tau.",
+   "who": "Rafizi",
+   "at": "2:11:29",
+   "why": "OWNER RULING 2026-09-17, recorded in data/speaker_adjudications.json under ep00_owner_ruled_2026_09_17. Owner: 'yes rafizi is speaking'. Labelled Audience. The camera cuts away 0.4 seconds before the words start, so it cannot attest this one."
+  },
+  {
+   "text": "Assalamualaikum warahmatullahi wabarakatuh. YB Rafizi Ramli serta",
+   "who": "Audience",
+   "at": "1:50:50",
+   "split_at_words": true,
+   "why": "MAI fused two speakers into one Haziq block at the start of the first question from the floor. Haziq says `Perkenalkan nama dan soalan`, then this tail states the questioner's own greeting and address. The tail's first word is at 1:51:02 in the caption track and Haziq lowers his microphone at 1:51:03, so the camera attests that Haziq stops. The questioner is off frame, so the camera cannot name them positively; the following block at 1:51:07 is already Audience. Anchor must carry `YB Rafizi Ramli serta` because the bare greeting appears three times in raw.md. Anchor deliberately stops before the questioner's own words, so a name correction cannot break it. fix_proper_nouns.py now rewrites `Haziq Asfar` to `Haziq Azfar` in this very block, and mai_camera_raw.py runs at adoption step 1 while that map runs at step 7, so the anchor would have matched today and failed on the next rebuild. CAMERA EVIDENCE 2026-09-17, not an owner ruling. ep00 is the pilot, shot wide from the back of the hall, so a face is about 20 pixels tall and YuNet almost never fires. That is why the reference reports `no face 2960s` and gives Haziq 51s against 8.7% of raw's words, and why the episode was adopted under --force-blind-reference. Cropping the stage strip and upscaling it to 1400px makes the face, the glasses and the microphone readable, so the camera signal was there the whole time. The owner's 05:42 ruling is the identity anchor: Haziq is the man in the maroon polo with glasses on the left, Rafizi the patterned batik on the right. SUPERSEDE THIS with a real reference once the crop-and-upscale pre-pass exists."
+  },
+  {
+   "text": "Assalamualaikum warahmatullahi wabarakatuh. Nama saya Rashdi",
+   "who": "Audience",
+   "at": "1:57:51",
+   "split_at_words": true,
+   "why": "Same shape as the 1:50:50 rule, at the second question from the floor. Haziq says `Perkenalkan nama`, then this tail states the questioner's own name. The tail's first word is at 1:58:02 and Haziq's microphone comes down at 1:58:03. The following block at 1:58:07 is already Audience. Anchor must carry `Nama saya Rashdi` because the bare greeting appears three times in raw.md. Anchor deliberately stops before the questioner's own words, so a name correction cannot break it. fix_proper_nouns.py now rewrites `Haziq Asfar` to `Haziq Azfar` in this very block, and mai_camera_raw.py runs at adoption step 1 while that map runs at step 7, so the anchor would have matched today and failed on the next rebuild. CAMERA EVIDENCE 2026-09-17, not an owner ruling. ep00 is the pilot, shot wide from the back of the hall, so a face is about 20 pixels tall and YuNet almost never fires. That is why the reference reports `no face 2960s` and gives Haziq 51s against 8.7% of raw's words, and why the episode was adopted under --force-blind-reference. Cropping the stage strip and upscaling it to 1400px makes the face, the glasses and the microphone readable, so the camera signal was there the whole time. The owner's 05:42 ruling is the identity anchor: Haziq is the man in the maroon polo with glasses on the left, Rafizi the patterned batik on the right. SUPERSEDE THIS with a real reference once the crop-and-upscale pre-pass exists."
+  }
  ]
 }

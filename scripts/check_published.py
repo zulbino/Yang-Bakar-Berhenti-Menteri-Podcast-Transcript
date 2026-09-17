@@ -83,6 +83,20 @@ PLACEHOLDER_RE = re.compile(
 # with `$`, so every published-file check walked past them.
 DERIVED_PLACEHOLDER_RE = re.compile(r"^(SPEAKER_\d+|Speaker\s+[\d?]+)(?:\s|$)", re.I)
 
+# CLAUDE.md rule 9: `Multiple speakers` and `Audience` are sanctioned labels and are not
+# findings. `Multiple speakers` never reached the two flags below, because
+# label_drift_audit.GENERIC does not list it, so only `Audience` was ever reported. That
+# was 20 turns in ep00, the forum-format pilot the owner adopted on 2026-09-17 and
+# confirmed takes questions from the floor. Nobody can name a member of the public, and
+# `raw-unnamed-speaker` told the reader to go and identify them with video frames. Listing
+# all three here rather than only `Audience` keeps the rule's own wording checkable.
+# `Hadirin` is the Malay the rewrite emits for the same role, and it matters for the
+# generic-label flag: that flag compared whole label strings, so it could not see that
+# interview-ms.md's `Hadirin` and raw.md's `Audience` are one concept, and it read the
+# faithful translation as the rewrite discarding a name. A parenthetical follows the role
+# where the questioner gives a name (`Audience (Hakim)`), so this matches a prefix.
+SANCTIONED = re.compile(r"^(Audience|Hadirin|Multiple speakers)\b", re.I)
+
 
 def derived_turns(text):
     out = []
@@ -195,7 +209,7 @@ def check(ep_dir):
     raw_generic = Counter()
     for a, b in RAW_LABEL.findall(raw_body):
         label = (a or b).strip()
-        if GENERIC.match(label):
+        if GENERIC.match(label) and not SANCTIONED.match(label):
             raw_generic[label] += 1
     # A DELIBERATE `Speaker ?` IS NOT A GAP TO CLOSE, and telling a session to "identify the
     # speaker" for one sends it after something measurably unidentifiable. Owner's decision
@@ -205,6 +219,16 @@ def check(ep_dir):
     # frame. drop_orphan_backchannels.py owns that rule; this reads its predicate rather
     # than restating it, so the two can never drift.
     deliberate = deliberate_unknowns(raw_body)
+    # CAPTURE THIS BEFORE THE SUBTRACTION BELOW. The published-placeholder flag asks
+    # whether raw.md carries `Speaker ?` itself, and it asked `raw_generic` after this loop
+    # had already deleted the key. So the exclusion inverted: an episode whose unknowns are
+    # ALL deliberate lost the key entirely and its published files were then flagged, while
+    # an episode with a mix kept the key and was excluded. It stayed invisible until
+    # 2026-09-17, when the first MAI adoptions put deliberate `Speaker ?` into raw.md and
+    # the regeneration faithfully copied them out. ep08, ep11, ep18, ep19 and ep21 were
+    # each reported for propagating a label the owner asked for: `Betul.`, `Kan.`,
+    # `Alhamdulillah.`, all from the STANCE lexicon CLAUDE.md rule 5 holds.
+    raw_has_unknown = any("?" in l for l in raw_generic)
     for label, n in list(raw_generic.items()):
         if label == "Speaker ?":
             raw_generic[label] -= min(n, deliberate)
@@ -265,7 +289,7 @@ def check(ep_dir):
             # The case worth flagging is the OPPOSITE one -- ep33 prints 25 of them while
             # its own raw.md names all four speakers, so there the name was dropped, not
             # unknown. Same exclusion the generic-label flag below already applies.
-            if unknown and any("?" in r for r in raw_generic):
+            if unknown and raw_has_unknown:
                 unknown = 0
                 numbered = Counter({k: v for k, v in numbered.items() if "?" not in k})
             if not numbered:
@@ -300,6 +324,7 @@ def check(ep_dir):
         # Reported below as `raw-unnamed-speaker` instead, which is where the fix belongs.
         generic = {l: n for l, n in label_sets[name].items()
                    if GENERIC.match(l) and not DERIVED_PLACEHOLDER_RE.match(l)
+                   and not SANCTIONED.match(l)
                    and not any(norm(l) == norm(r) for r in raw_generic)}
         if generic and names:
             shown = ", ".join(f"{k} x{v}" for k, v in

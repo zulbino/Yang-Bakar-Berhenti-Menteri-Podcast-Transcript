@@ -453,7 +453,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:28:31] Rafizi: Ha, tinggal komen lah. Pening kepala tau. Tiap-tiap minggu nak cari topik apa nak komen ni kan. Ataupun ada perkara-perkara yang dirasakan beria. Sebab contohnya yang tadi tu, yang Kamil dengan Dr. Akmal itu, itu bukan daripada kami. Itu atas permintaan ramai di social media. Ya, dia cerita.
 
-[2:28:52] Farhan (Pa'an): Tag, tag Rafizi Ramli, Haziq. Apa, apa kau punya handle? Haziq lah. Haziq Asfar. Haziq Asfar ataupun saya. Ya, okey.
+[2:28:52] Farhan (Pa'an): Tag, tag Rafizi Ramli, Haziq. Apa, apa kau punya handle? Haziq lah. Haziq Azfar. Haziq Azfar ataupun saya. Ya, okey.
 
 [2:29:01] Haziq: Baik YB, itu saja. Kita sambung minggu depan. Kita tengok lagi. Sebelum tu selamat malam.
 

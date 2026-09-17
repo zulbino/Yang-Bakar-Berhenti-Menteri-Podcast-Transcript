@@ -57,6 +57,12 @@ MERGE = {
     "Speaker 2 (Pa'an/Aan)": "Farhan (Pa'an)",
     "Haziq (moderator/interviewer)": "Haziq",
     "Haziq Azfar": "Haziq",
+    # Web-verified 2026-09-17: Iqbal Fatkhi, Editor-in-Chief of Cilisos Media (LinkedIn
+    # /in/iqbalfatkhi, soscili.my/author/iqbal-fatkhi, X @iqtodabal). HOSTS above already
+    # holds the full name as canonical, and raw.md says "Iqbal" 131 times in ep10 because
+    # that is what the show says. So this normalises the spoken form UP to the roster name,
+    # the same direction as "Afiq" -> "Wan Afiq". ep11's frontmatter carried the short form.
+    "Iqbal": "Iqbal Fatkhi",
     "Sum Dek Jo": "Sum Dek Joe",
     "Samdek Joe": "Sum Dek Joe",
     "Joe (Samdek Joe)": "Sum Dek Joe",

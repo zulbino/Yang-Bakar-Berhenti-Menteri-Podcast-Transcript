@@ -827,6 +827,51 @@ CORRECTIONS = [
      "the already-correct `khinzir` is not turned into `kkhinzir`. NOT a slur finding: the "
      "speaker really is discussing a pork issue in a Johor seat, which is also why ep55's "
      "eleven `babi` are left alone."),
+
+    # The show's own moderator, misspelled in the source. OWNER 2026-09-17.
+    (r"Haziq Asfar(?![A-Za-z])", "Haziq Azfar",
+     "Owner 2026-09-17: `Haziq Azfar is his real spelling, not asfar`. Web-verified: Haziq "
+     "Azfar Ishak, moderator of the show, named as Azfar in the show's own promotion. This "
+     "repo already agreed with the owner in two places and nothing checked the corpus "
+     "against them: normalize_speaker_labels.RENAME and rebuild_roster.HOSTS both map "
+     "`Haziq Azfar` to `Haziq`. Three spoken occurrences, all `Haziq Asfar`: ep00 1:50:50, "
+     "where an audience member greets him by name, and ep30 2:28:52 twice, where Farhan "
+     "says it. ep00's three published files inherited the misspelling. Anchored to the full "
+     "two-word form, because `Asfar` alone is a real Arabic given name and could belong to "
+     "someone else in a future episode. The speaker label itself is the short `Haziq` in "
+     "every episode, so rule 3's verbatim-in-the-body requirement is untouched: this "
+     "corrects a NAME the show spells one way, not a form of address."),
+
+    # Rule 1b. Two slurs found 2026-09-17, both fresh: one from today's regeneration,
+    # one from ep00's first MAI adoption.
+    (r"like being a pariah in the party", "like the party was dying out",
+     "ep11 interview-en.md, and the ONLY gate failure check_slurs.py reports today. "
+     "raw.md says `Dia macam parti pupus, you know.` `pupus` means extinct or wiped out, "
+     "so the sentence is about the party dying, not about a person. The English rewrite "
+     "turned it into `like being a pariah in the party`, which calls the speaker an "
+     "outcast. interview.md and interview-ms.md both keep `macam parti pupus` and are "
+     "clean, so the defect is in the English pass alone. Written here rather than by hand "
+     "because ep11 was regenerated at 14:26 TODAY and a hand fix would go the same way. "
+     "This is the sixth instance of the rule 1b class where the rewrite changed a benign "
+     "word into an insult, after ep15, ep51, ep16 and ep42."),
+
+    (r"Babi Akmal", "YB Akmal",
+     "ep00 03:23, Haziq, and it arrived with ep00's first MAI adoption today. MAI wrote "
+     "`Oh. Babi Akmal.` while YouTube's own caption track hears `Oh Robi Akmal`, so both "
+     "engines agree on the trailing `bi` and disagree on the first consonant. Neither heard "
+     "a word: `YB` spoken fast is the documented source of this garble, and 39 spans of it "
+     "were found on 2026-09-16. fix_yb_honorific.py lists twelve spellings and not this "
+     "one, which is how the original 39 stayed hidden. The reading is also the only one "
+     "that makes sense of the line: Haziq is calling people to the front, and this Akmal "
+     "is a sitting Deputy Minister and PKR branch chief whom Rafizi later places `dekat "
+     "depan ni`. NOT the same person as ep00's other Akmal, Dr Akmal Saleh of the KK Mart "
+     "socks case. CONFIRMED BY THE OWNER 2026-09-17 from the caption-derived link "
+     "https://youtu.be/2k8hW9hDvGE?t=210 , which puts the phrase at 3:35 inside a block "
+     "stamped 03:23. Owner: 'its YB akmal'. Also recorded in "
+     "data/speaker_adjudications.json under ep00_owner_ruled_2026_09_17, keyed 03:23 with "
+     "text_was and text_now, so check_owner_text.py restores it if a rebuild reverts it. "
+     "`Suara wekiat` in the same block is a separate garble and is deliberately left "
+     "alone: the owner ruled on the name."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the
