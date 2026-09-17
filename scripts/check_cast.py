@@ -51,7 +51,11 @@ NOT_A_PERSON = ("Speaker", "Multiple", "Audience", "[")
 # makes `introduced-unheard` fire on all 70 episodes, because every one of them opens
 # with `bersama YB Rafizi`. normalize_speaker_labels.py is what actually fixes the label;
 # here the honorific is only stripped for comparison.
-HONORIFIC = re.compile(r"^(?:YB|Datuk Seri|Datuk|Dato'|Tan Sri|Puan|Tuan|Prof\.?|Dr\.?)\s+", re.I)
+# A STACK of titles, not one: ep02's cast says `Prof. Emeritus Dr. Barjoyai Bardai` and
+# raw.md says `Prof. Barjoyai`, so stripping a single leading title left `Emeritus Dr.
+# Barjoyai Bardai` and the extension test below could not see the same man.
+HONORIFIC = re.compile(
+    r"^(?:(?:YB|Datuk Seri|Datuk|Dato'|Tan Sri|Puan|Tuan|Prof\.?|Emeritus|Dr\.?)\s+)+", re.I)
 
 # The show's own way of saying someone is here with us, rather than being talked about.
 PRESENT = r"(?:bersama(?:-sama)?(?: kita)?|kita ada|kita jemput|jemput|ditemani|saudara|sdr\.?)"
@@ -122,7 +126,8 @@ def check(only=None):
     issues = []
     for e in eps:
         cast = set(e["hosts"]) | set(e["guests"])
-        bare = {HONORIFIC.sub("", c) for c in cast} | {HONORIFIC.sub("", s) for s in e["speakers"]}
+        bare_cast = {HONORIFIC.sub("", c) for c in cast}
+        bare = bare_cast | {HONORIFIC.sub("", s) for s in e["speakers"]}
         for who in sorted(e["speakers"]):
             if not who or who.startswith(NOT_A_PERSON) or who in cast:
                 continue
@@ -130,6 +135,9 @@ def check(only=None):
             # so ep09's label `Rodziah Ismail` against cast `Rodziah Ismail (Kak Oji)` is
             # the rule working. Same extension test check_agencies.py uses.
             if any(c.startswith(who) or who.startswith(c) for c in cast):
+                continue
+            w = HONORIFIC.sub("", who)
+            if any(b.startswith(w) or w.startswith(b) for b in bare_cast):
                 continue
             issues.append((e["tag"], "missing-from-cast",
                            f"raw.md labels turns for {who!r}, who is in neither hosts "

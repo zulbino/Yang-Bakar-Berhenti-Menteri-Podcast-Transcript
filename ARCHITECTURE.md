@@ -2475,3 +2475,25 @@ Its `run()` helper returned `out[-tail:]` with a 4000-character default, and
 of `check_raw_engine.py`'s listing, so they were cut, and the function reported 13
 unambiguous tags when the answer is 9. It had never seen the duplicates it existed to
 exclude. `tail=0` now means do not truncate.
+
+## `check_cast.py` stripped one honorific, and Malaysian titles come in stacks
+
+Found on 2026-09-17 during a session-close audit. `check_cast.py` reported ep02:bakar as
+`missing-from-cast`: raw.md labels `Prof. Barjoyai`, while `guests:` holds
+`Prof. Emeritus Dr. Barjoyai Bardai`. Rule 3 says exactly this shape is correct, because
+the frontmatter takes the full name and the body stays verbatim.
+
+The gate has an extension test for it, and the test could not see the match. Its
+`HONORIFIC` pattern was anchored and unquantified, so it removed `Prof. ` and stopped.
+`Emeritus Dr. Barjoyai Bardai` is not a prefix of `Barjoyai` in either direction. The
+pattern now repeats over a run of titles and knows `Emeritus`. The loop then retries the
+extension test on the stripped forms.
+
+**Why it matters beyond one episode.** A false finding trains the next session to read
+that gate as noise. The cast check exists to catch a real one: raw.md naming a person the
+frontmatter never lists. ep02's name is not that, and it was the only finding the gate
+had. Corpus-wide the count is now 0 of 70.
+
+One care point in the widening. `bare` at the same line feeds the separate ABSENT
+signature. That signature needs the cast AND the speakers. Splitting out a cast-only set
+without keeping `bare` raised a `NameError` on the first run.
