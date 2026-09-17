@@ -91,7 +91,7 @@ def main():
 
     path = common.raw_for_tag(a.tag)
     text = path.read_text(encoding="utf-8")
-    reference = Path(a.reference or ROOT / "data" / f"camera_ref_{a.tag}.rttm")
+    reference = Path(a.reference or ROOT / "data" / f"camera_ref_{common.artifact_tag(a.tag)}.rttm")
     camera = camera_seconds(reference) if reference.exists() else {}
     blocks = BLOCK.findall(text)
     decided = decision_texts(a.tag)

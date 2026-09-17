@@ -13,7 +13,7 @@ import argparse, json, re, sys
 from collections import Counter, defaultdict
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import episode_path, episode_slug, read_frontmatter_body, frontmatter_md
+from common import artifact_tag, episode_path, episode_slug, read_frontmatter_body, frontmatter_md
 from qa_check import timestamped_blocks
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -41,7 +41,7 @@ ep = [e for e in man if "-" + a.tag + "-" in episode_slug(e)][0]
 raw_path = ROOT / "episodes" / episode_path(ep) / "raw.md"
 fm, body = read_frontmatter_body(raw_path)
 blocks = timestamped_blocks(body)
-gap_md = (ROOT / "data" / f"_{a.tag}_gap_raw.md").read_text(encoding="utf-8")
+gap_md = (ROOT / "data" / f"_{artifact_tag(a.tag)}_gap_raw.md").read_text(encoding="utf-8")
 
 def toks(t):
     return re.sub(r"[^\w\s]", " ", t.lower()).split()

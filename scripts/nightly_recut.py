@@ -211,13 +211,13 @@ def camera_reference(tag, vid, dur):
     # A video id starting with "-" (e.g. -HujDcVKHzU) reads as an unknown option to
     # argparse unless "--" marks the end of options, so the positional uri comes last.
     return run([PY, "scripts/camera_speakers.py", "reference",
-                "--tracks", f"data/_camera_tracks_{vid}", "--out", f"data/camera_ref_{tag}",
+                "--tracks", f"data/_camera_tracks_{vid}", "--out", f"data/camera_ref_{common.artifact_tag(tag)}",
                 "--runtime", str(dur), "--", vid], cwd=ROOT)
 
 
 def split_dry_run(tag):
     return run([PY, "scripts/split_mixed_blocks.py", tag,
-                "--reference", f"data/camera_ref_{tag}.rttm"], cwd=ROOT, tail=6000)
+                "--reference", f"data/camera_ref_{common.artifact_tag(tag)}.rttm"], cwd=ROOT, tail=6000)
 
 
 def summarize(tag, report):
@@ -333,7 +333,7 @@ def main():
             else:
                 log(f"  {t}: reference REFUSED on cast, skipping the split dry run")
         failures += sum(1 for v in report["steps"].values() if not v["ok"])
-        (NIGHTLY / f"{t}.json").write_text(json.dumps(report, ensure_ascii=False, indent=1), encoding="utf-8")
+        (NIGHTLY / f"{common.artifact_tag(t)}.json").write_text(json.dumps(report, ensure_ascii=False, indent=1), encoding="utf-8")
         with summary.open("a", encoding="utf-8") as f:
             f.write(summarize(t, report))
         log(f"=== {t} done, {(time.time() - began) / 3600:.1f} h elapsed")

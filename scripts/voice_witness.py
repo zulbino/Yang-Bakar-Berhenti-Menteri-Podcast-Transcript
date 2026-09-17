@@ -37,6 +37,7 @@ import numpy as np                              # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import verify_speaker_voiceprint as V           # noqa: E402  (embedder, load_audio, SR)
+from common import artifact_tag                 # noqa: E402
 from mai_camera_raw import camera_per_second, diar_per_second  # noqa: E402
 
 MIN_TRAIN_SEG = 6.0        # a camera-attested run must be this long to train on
@@ -84,7 +85,7 @@ def main():
     audio = V.load_audio(vid)
     runtime = len(audio) / V.SR
     inf = V._embedder()
-    rttm = ROOT / "data" / f"camera_ref_{a.tag}.rttm"
+    rttm = ROOT / "data" / f"camera_ref_{artifact_tag(a.tag)}.rttm"
     camera = camera_per_second(rttm)
     diar_path = ROOT / "data" / f"diar_{vid}_t055.json"
     diar = diar_per_second(diar_path, camera)[0] if diar_path.exists() else {}
@@ -158,7 +159,7 @@ def main():
         targets.append({"kind": "generic block", "t": s, "end": min(e, s + 20), "label": label.strip(),
                         "text": text.strip()[:70]})
     # ...and every short turn the build reported as voice-vs-camera disputed.
-    dry = ROOT / "data" / f"_{a.tag}_dryrun.txt"
+    dry = ROOT / "data" / f"_{artifact_tag(a.tag)}_dryrun.txt"
     if dry.exists():
         for line in open(dry, encoding="utf-8"):
             m = re.match(r"\s+\[?([\d:]+)\]? voice=(.+?) camera=(.+?): (.*)", line.rstrip())

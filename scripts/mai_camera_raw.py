@@ -289,7 +289,7 @@ def main():
     vid = episode["video_id"]
     tag = a.tag.partition(":")[0]
     sandbox = ROOT / "data" / f"_mai_{vid}"
-    camera = camera_per_second(a.reference or ROOT / "data" / f"camera_ref_{tag}.rttm")
+    camera = camera_per_second(a.reference or ROOT / "data" / f"camera_ref_{common.artifact_tag(tag)}.rttm")
     diar_path = Path(a.diar) if a.diar and a.diar != "none" else ROOT / "data" / f"diar_{vid}_t055.json"
     diar, diar_report = ({}, {}) if a.diar == "none" or not diar_path.exists() else diar_per_second(diar_path, camera)
     episode_raw = Path(a.current) if a.current else (
@@ -416,7 +416,7 @@ def main():
         "the word sequence is MAI's, unchanged, apart from the reviewed name corrections in "
         f"fix_proper_nouns.py and the owner-verified passage kept from the previous transcript "
         f"({gold_note}; owner rulings over the camera: {forced_note}). See interview.md for the polished newspaper-style rewrite.")
-    out = Path(a.out or ROOT / "data" / f"_{tag}_mai_camera_raw.md")
+    out = Path(a.out or ROOT / "data" / f"_{common.artifact_tag(tag)}_mai_camera_raw.md")
     out.write_text(common.frontmatter_md(fields, "# Raw Transcript\n\n" + body), encoding="utf-8")
 
     words_by = Counter()

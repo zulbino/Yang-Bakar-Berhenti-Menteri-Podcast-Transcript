@@ -26,7 +26,7 @@ Usage:
 import json, re, sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import episode_path, episode_slug, read_frontmatter_body
+from common import artifact_tag, episode_path, episode_slug, read_frontmatter_body
 from dedupe_raw import fetch_captions, parse_caption_words, MATCH_WINDOW_WORDS, MIN_MATCHING_WORDS
 from check_timestamp_drift import BLOCK_PREFIX_RE
 from qa_check import timestamped_blocks
@@ -96,7 +96,8 @@ for ts, blk in timestamped_blocks(body):
     actual, score, tot = best_global(ph)
     rows.append({"claimed": ts, "chars": len(blk), "actual": actual, "score": score,
                  "distinct": tot, "head": BLOCK_PREFIX_RE.sub("", blk)[:60]})
-out = ROOT / "data" / (f"_{tag}_align_mai.json" if from_mai else f"_{tag}_align.json")
+out = ROOT / "data" / (f"_{artifact_tag(tag)}_align_mai.json" if from_mai
+                       else f"_{artifact_tag(tag)}_align.json")
 out.write_text(json.dumps(rows, indent=1), encoding="utf-8")
 print(f"wrote {out.name}   track_end={times[-1]}s   {len(rows)} blocks")
 print(f"{'claimed':>8} {'chars':>6} {'actual':>7} {'delta':>7} {'score':>6}  head")

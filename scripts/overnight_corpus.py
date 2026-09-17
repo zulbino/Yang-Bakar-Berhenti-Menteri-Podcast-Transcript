@@ -79,26 +79,34 @@ def remaining():
     # silently cut the top of the listing, where the six yang-bakar-menteri episodes are, so
     # a first run reported 13 unambiguous tags when 9 is the right answer -- it had simply
     # never seen the duplicates it was meant to exclude.
+    import common
     _, out = run([PY, "scripts/check_raw_engine.py"], tail=0)
-    seen, order = {}, []
+    rows, counts = [], {}
     for line in out.splitlines():
         m = re.match(r"^(ep\d+)\s+(\S+)", line.strip())
         if not m:
             continue
-        tag, folder = m.group(1), m.group(2)
-        seen.setdefault(tag, []).append(folder)
-        if tag not in order:
-            order.append(tag)
-    # AN AMBIGUOUS TAG IS EXCLUDED, and the reason is a silent Windows trap rather than
-    # tidiness. ep01 to ep06 exist in BOTH shows, so common.raw_for_tag refuses the bare
-    # tag and wants `ep05:bakar`. Every artifact name in this pipeline is built as
-    # `camera_ref_<tag>.rttm`, and a colon in an NTFS path creates an ALTERNATE DATA
-    # STREAM: measured 2026-09-16, `data/camera_ref_ep05:bakar.rttm` wrote its content into
-    # a hidden stream and left a 0-byte `camera_ref_ep05` in the listing. Path.exists()
-    # returned True the whole time, so nothing would have reported a problem. Those 12
-    # episodes need a filesystem-safe tag first; run them with an explicit qualified tag
-    # only after that is fixed.
-    return [t for t in order if len(seen[t]) == 1]
+        row = (m.group(1), m.group(2))
+        if row in rows:
+            continue
+        rows.append(row)
+        counts[row[0]] = counts.get(row[0], 0) + 1
+    # AN AMBIGUOUS TAG IS QUALIFIED HERE, not dropped. ep01 to ep06 exist in BOTH shows,
+    # so common.raw_for_tag refuses the bare tag and wants `ep05:bakar`. Until 2026-09-17
+    # this function dropped all twelve of those episodes, because a colon in an NTFS path
+    # names an ALTERNATE DATA STREAM: `data/camera_ref_ep05:bakar.rttm` put its content in
+    # a hidden stream and left a 0-byte `camera_ref_ep05` in the listing, and exists()
+    # returned True throughout. common.artifact_tag() now supplies the safe filename form,
+    # so a qualified tag is safe to run and these episodes are back in the queue.
+    tags = []
+    for tag, folder in rows:
+        if counts[tag] == 1:
+            tags.append(tag)
+            continue
+        show = next((s for s in common.SHOW_SUFFIXES if f"yang-{s}-menteri" in folder), None)
+        if show:
+            tags.append(f"{tag}:{show}")
+    return tags
 
 
 def video_and_duration(tag):
@@ -111,7 +119,8 @@ def video_and_duration(tag):
 
 def ensure_reference(tag, hours_left):
     """Return (ok, note). Builds the camera reference if it is missing, then gates it."""
-    ref = ROOT / "data" / f"camera_ref_{tag}.rttm"
+    import common
+    ref = ROOT / "data" / f"camera_ref_{common.artifact_tag(tag)}.rttm"
     if not ref.exists():
         if hours_left is not None and hours_left <= 0:
             return False, "deadline reached before a camera run could start"
@@ -135,7 +144,7 @@ def ensure_reference(tag, hours_left):
                        "rule 9 needs a photograph. tail: " + g_out[-500:])
     log(f"{tag}: gallery written, rebuilding the reference (no GPU)")
     run([PY, "scripts/camera_speakers.py", "reference",
-         "--tracks", f"data/_camera_tracks_{vid}", "--out", f"data/camera_ref_{tag}",
+         "--tracks", f"data/_camera_tracks_{vid}", "--out", f"data/camera_ref_{common.artifact_tag(tag)}",
          "--runtime", str(dur), "--gallery", str(gallery.relative_to(ROOT)), "--", vid])
     ok, out = run([PY, "scripts/check_camera_reference.py", tag])
     if ok:

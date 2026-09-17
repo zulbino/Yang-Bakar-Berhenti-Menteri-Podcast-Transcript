@@ -148,12 +148,12 @@ def main():
     raw_path = common.raw_for_tag(a.tag)
     raw = Path(raw_path)
     rel = raw.relative_to(ROOT).as_posix()
-    reference = ROOT / "data" / f"camera_ref_{a.tag}.rttm"
+    reference = ROOT / "data" / f"camera_ref_{common.artifact_tag(a.tag)}.rttm"
     if not reference.exists():
         sys.exit(f"no camera reference at {reference} -- run nightly_recut.py {a.tag} first")
 
     # The decisions were recorded against the COMMITTED file, which is what --current wants.
-    current = Path(a.current) if a.current else ROOT / "data" / f"_old_{a.tag}_raw.md"
+    current = Path(a.current) if a.current else ROOT / "data" / f"_old_{common.artifact_tag(a.tag)}_raw.md"
     if not a.current:
         code, out = run(["git", "show", f"HEAD:{rel}"], quiet=True)
         if code:
@@ -178,7 +178,7 @@ def main():
                  f"--force-blind-reference if you have read data/camera_reference_limits.json "
                  f"and know why this one is safe.")
 
-    candidate = ROOT / "data" / f"_{a.tag}_candidate_raw.md"
+    candidate = ROOT / "data" / f"_{common.artifact_tag(a.tag)}_candidate_raw.md"
     print(f"[1/8] build from MAI words + the camera, fallback and gold from {current.name}")
     code, _ = run([PY, "scripts/mai_camera_raw.py", a.tag, "--current", str(current),
                    "--out", str(candidate)])

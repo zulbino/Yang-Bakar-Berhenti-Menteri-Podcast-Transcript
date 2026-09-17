@@ -43,6 +43,8 @@ import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "scripts"))
+from common import artifact_tag  # noqa: E402
 VERDICT = re.compile(r"KEPT candidate|RESTORED incumbent")
 # Older queues in this repo signed off as `rewrite queue done` and `adoption queue done`,
 # before `finished:` became the convention the waiters grep for. Accept all of them, or
@@ -89,7 +91,7 @@ def main():
                 f"then read each verdict.")
 
     for tag in tags:
-        log = ROOT / "data" / f"_{tag}_gate_rewrite.out"
+        log = ROOT / "data" / f"_{artifact_tag(tag)}_gate_rewrite.out"
         if not log.exists():
             continue
         if not VERDICT.search(log.read_text(encoding="utf-8", errors="replace")):

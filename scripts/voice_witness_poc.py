@@ -28,6 +28,7 @@ import torch                                        # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import verify_speaker_voiceprint as V               # noqa: E402
+from common import artifact_tag                     # noqa: E402
 from mai_camera_raw import camera_per_second, diar_per_second, mai_turns  # noqa: E402
 from voice_witness import camera_runs, MIN_TRAIN_SEG, TRAIN_CLIPS, CLIP, GENERIC  # noqa: E402
 
@@ -87,7 +88,7 @@ def main():
     vid, blocks = V.read_episode(tag)
     audio = V.load_audio(vid)
     runtime = len(audio) / V.SR
-    rttm = ROOT / "data" / f"camera_ref_{tag}.rttm"
+    rttm = ROOT / "data" / f"camera_ref_{artifact_tag(tag)}.rttm"
     camera = camera_per_second(rttm)
     diar = diar_per_second(ROOT / "data" / f"diar_{vid}_t055.json", camera)[0]
     words = sorted((w.t, str(w)) for t in mai_turns(vid) for w in t["w"])
@@ -112,7 +113,7 @@ def main():
         ws, we = (float(inside[0]) - PAD, float(inside[-1]) + 0.35 + PAD) if len(inside) else (s, e)
         targets.append({"kind": "generic", "stamp": stamp, "t": s, "text": text.strip()[:60],
                         "win": {"stamp": (s, min(e, s + 20)), "wordspan": (ws, min(we, ws + 20))}})
-    for line in open(ROOT / "data" / f"_{tag}_dryrun.txt", encoding="utf-8"):
+    for line in open(ROOT / "data" / f"_{artifact_tag(tag)}_dryrun.txt", encoding="utf-8"):
         m = re.match(r"\s+\[?([\d:]+)\]? voice=(.+?) camera=(.+?): (.*)", line.rstrip())
         if m:
             s = V.to_seconds(m.group(1))
@@ -222,9 +223,9 @@ def main():
     n_dis = sum(1 for t in targets if t["kind"] == "disputed")
     for n, m in combos:
         out.append(f"| {n} | {m} | {settled[(n, m, 'generic')]} of {n_gen} | {settled[(n, m, 'disputed')]} of {n_dis} |")
-    Path(ROOT / "data" / f"_{tag}_poc.md").write_text("\n".join(out) + "\n", encoding="utf-8")
+    Path(ROOT / "data" / f"_{artifact_tag(tag)}_poc.md").write_text("\n".join(out) + "\n", encoding="utf-8")
     print("\nsettled at the strict bar:", {f"{n}/{m}/{k}": v for (n, m, k), v in settled.items()})
-    print(f"wrote data/_{tag}_poc.md")
+    print(f"wrote data/_{artifact_tag(tag)}_poc.md")
 
 
 if __name__ == "__main__":

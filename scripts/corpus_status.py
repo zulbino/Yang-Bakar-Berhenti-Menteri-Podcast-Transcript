@@ -53,6 +53,14 @@ def main():
     a = ap.parse_args()
 
     rows = []
+    # THE TAG CARRIES ITS SHOW WHEN BOTH SHOWS HAVE ONE. ep01 to ep06 exist twice, so a
+    # bare tag named two different episodes here: both ep05 rows read the same
+    # `camera_ref_ep05.rttm`, and the ready/waiting lists printed a tag no tool accepts.
+    dup = {}
+    for path in glob.glob(str(ROOT / "episodes/*/*/raw.md")):
+        m = re.search(r"-(ep\d+)-", path)
+        if m:
+            dup[m.group(1)] = dup.get(m.group(1), 0) + 1
     for folder in sorted(glob.glob(str(ROOT / "episodes/*/*/"))):
         raw_path = os.path.join(folder, "raw.md")
         if not os.path.exists(raw_path):
@@ -64,9 +72,13 @@ def main():
         if not (vid and tag):
             continue
         vid, tag = vid.group(1), tag.group(1)
+        if dup.get(tag, 0) > 1:
+            era = os.path.basename(os.path.dirname(os.path.dirname(raw_path)))
+            show = next((x for x in common.SHOW_SUFFIXES if f"yang-{x}-menteri" == era), "")
+            tag = f"{tag}:{show}" if show else tag
         seconds = int(seconds.group(1)) if seconds else 0
         adopted = "MAI-Transcribe-2" in head
-        reference = (ROOT / "data" / f"camera_ref_{tag}.rttm").exists()
+        reference = (ROOT / "data" / f"camera_ref_{common.artifact_tag(tag)}.rttm").exists()
         coverage, words = mai_coverage(vid, seconds)
         published = [n for n in ("interview.md", "interview-ms.md", "interview-en.md")
                      if os.path.exists(os.path.join(folder, n))]
@@ -81,12 +93,12 @@ def main():
             for n in published)
         rows.append((tag, vid, coverage, words, reference, adopted, len(published), stale))
 
-    rows.sort(key=lambda r: int(r[0][2:]), reverse=True)
+    rows.sort(key=lambda r: int(re.match(r"ep(\d+)", r[0]).group(1)), reverse=True)
     if not a.short:
-        print(f"{'ep':>6} {'MAI':>7} {'words':>7} {'camera':>7} {'raw':>5} {'published':>10}")
+        print(f"{'ep':>13} {'MAI':>7} {'words':>7} {'camera':>7} {'raw':>5} {'published':>10}")
         for tag, _, cov, words, ref, adopted, n, stale in rows:
             mai = "-" if cov is None else f"{cov:.0%}" + ("!" if cov < COVERAGE_FLOOR else "")
-            print(f"{tag:>6} {mai:>7} {words or '':>7} {'yes' if ref else '-':>7} "
+            print(f"{tag:>13} {mai:>7} {words or '':>7} {'yes' if ref else '-':>7} "
                   f"{'MAI' if adopted else 'local':>5} "
                   f"{(str(n) + ' stale' if stale else str(n)) if n else 'none':>10}")
 
@@ -153,8 +165,6 @@ def queue_readiness(rows):
         if not path:
             missing.append(tag)
             continue
-        series = Path(path).parent.parent.name.split("-")[1]
-        tag = f"{tag}:{series}" if sum(1 for r in rows if r[0] == row[0]) > 1 else tag
         body = io.open(path, encoding="utf-8").read()
         labels = {m.group(1).strip() for m in LABEL.finditer(body)}
         cand = sorted(l for l in labels
@@ -169,7 +179,7 @@ def queue_readiness(rows):
         print(f"   {len(photo)} name more than one unenrolled person. Rule 9 needs a "
               f"photograph for all but the last, before the reference step:")
         for tag, cand in photo:
-            print(f"     {tag:<6} {cand}")
+            print(f"     {tag:<13} {cand}")
 
 
 if __name__ == "__main__":

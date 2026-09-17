@@ -145,6 +145,31 @@ def resolve_tag(manifest, tag):
     return hits[0]
 
 
+SHOW_SUFFIXES = ("bakar", "berhenti")
+
+
+def artifact_tag(tag):
+    """A filesystem-safe episode tag, for ARTIFACT FILENAMES ONLY.
+
+    resolve_tag() and raw_for_tag() above take `ep05:bakar`, because both shows have an
+    ep01 through ep06. A colon in an NTFS path does not name a file, it names an
+    ALTERNATE DATA STREAM: measured 2026-09-16, writing `data/camera_ref_ep05:bakar.rttm`
+    put the bytes in a hidden stream and left a 0-byte `camera_ref_ep05` in the listing,
+    while exists() returned True the whole time. So nothing would have reported it. Every
+    name built from a tag goes through here, and tag_from_artifact() reverses it for a
+    tool that discovers tags by globbing those names.
+    """
+    return tag.replace(":", "-")
+
+
+def tag_from_artifact(name):
+    """The inverse of artifact_tag(): `ep05-bakar` back to `ep05:bakar`."""
+    for show in SHOW_SUFFIXES:
+        if name.endswith("-" + show):
+            return name[: -len(show) - 1] + ":" + show
+    return name
+
+
 def body_digest(path):
     """Short hash of a transcript's BODY, for stamping a cached verdict about that file.
 

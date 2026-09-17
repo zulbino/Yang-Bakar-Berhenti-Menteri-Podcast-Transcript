@@ -121,7 +121,7 @@ def main():
     # reference gives its guest Wong Chen 0.0% of the time against 20.1% of raw's words;
     # ep50, ep52 and ep55 fail the same way. This tool defaults to that path, so the cast
     # is checked before the reference is believed.
-    ref_path = Path(a.reference) if a.reference else ROOT / "data" / f"camera_ref_{a.tag}.rttm"
+    ref_path = Path(a.reference) if a.reference else ROOT / "data" / f"camera_ref_{common.artifact_tag(a.tag)}.rttm"
     if not a.reference:
         import check_camera_reference as ccr
         if not ccr.check(a.tag, ref_path):

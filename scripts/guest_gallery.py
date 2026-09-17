@@ -32,6 +32,7 @@ import numpy as np
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
+import common  # noqa: E402
 from camera_speakers import FLOOR, MARGIN, SPEAK  # noqa: E402
 
 SIM = 0.60            # a real match to the same face lands at 0.86-0.98 (camera_speakers note 3)
@@ -51,10 +52,7 @@ def frontmatter_list(text, key):
 
 def main():
     tag = sys.argv[1]
-    hits = glob.glob(str(ROOT / f"episodes/*/*-{tag}-*/raw.md"))
-    if len(hits) != 1:
-        sys.exit(f"{len(hits)} episodes match {tag}")
-    folder = Path(hits[0]).parent
+    folder = common.raw_for_tag(tag).parent
     src = folder / "interview.md" if (folder / "interview.md").exists() else folder / "raw.md"
     text = io.open(src, encoding="utf-8").read()
     vid = re.search(r"video_id:\s*(\S+)", text).group(1)

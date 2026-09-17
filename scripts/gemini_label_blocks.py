@@ -104,7 +104,7 @@ def blocks_of(tag):
 
 def camera_majority(tag, start, end):
     """Which name holds most of [start, end) in the camera reference, and how much of it."""
-    ref = ROOT / "data" / f"camera_ref_{tag}.rttm"
+    ref = ROOT / "data" / f"camera_ref_{common.artifact_tag(tag)}.rttm"
     if not ref.exists():
         return None
     held = Counter()

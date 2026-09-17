@@ -31,7 +31,6 @@ committed file the decisions belong to:
   git show HEAD~1:episodes/.../raw.md > data/_old_raw.md
   python scripts/check_owner_decisions.py ep61 episodes/.../raw.md --current data/_old_raw.md
 """
-import glob
 import io
 import json
 import re
@@ -40,6 +39,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+import common  # noqa: E402
 from lib_locate import Doc, tokens  # noqa: E402
 from strip_inline_fillers import INLINE  # noqa: E402
 
@@ -78,10 +78,7 @@ def names_nobody(who):
 def main():
     tag, candidate = sys.argv[1], sys.argv[2]
     current = sys.argv[4] if len(sys.argv) > 4 and sys.argv[3] == "--current" else None
-    hits = glob.glob(str(ROOT / f"episodes/*/*-{tag}-*/raw.md"))
-    if len(hits) != 1:
-        sys.exit(f"{len(hits)} episodes match {tag}")
-    cur_text = io.open(current or hits[0], encoding="utf-8").read()
+    cur_text = io.open(current or common.raw_for_tag(tag), encoding="utf-8").read()
     cand_text = io.open(candidate, encoding="utf-8").read()
     vid = re.search(r"video_id:\s*(\S+)", cur_text).group(1)
     cur, cand = BLOCK.findall(cur_text), BLOCK.findall(cand_text)

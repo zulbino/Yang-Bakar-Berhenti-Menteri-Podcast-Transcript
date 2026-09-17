@@ -130,17 +130,24 @@ def main():
     ap.add_argument("tags", nargs="*")
     a = ap.parse_args()
     if a.tags:
-        pairs = [(t, ROOT / "data" / f"camera_ref_{t}.rttm") for t in a.tags]
+        pairs = [(t, ROOT / "data" / f"camera_ref_{common.artifact_tag(t)}.rttm")
+                 for t in a.tags]
     else:
         pairs = []
         for p in sorted(glob.glob(str(ROOT / "data" / "camera_ref_*.rttm"))):
-            m = re.search(r"camera_ref_(ep\d+)\.rttm$", p)
+            m = re.search(r"camera_ref_(ep\d+(?:-bakar|-berhenti)?)\.rttm$", p)
             if m:
-                pairs.append((m.group(1), Path(p)))
+                pairs.append((common.tag_from_artifact(m.group(1)), Path(p)))
     ok = bad = 0
     for tag, path in pairs:
         if not Path(path).exists():
             print(f"\n{tag}: no reference at {path}")
+            # A NAMED TAG WITH NO REFERENCE IS A FAILURE, not a quiet skip. This gate is
+            # what rule 4 puts in front of every adoption, and it exited 0 on a missing
+            # file, so a caller reading only the exit code read "usable". The sweep with
+            # no tags still exits 0, because there nothing was asked for.
+            if a.tags:
+                bad += 1
             continue
         if check(tag, path):
             ok += 1

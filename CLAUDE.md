@@ -363,6 +363,7 @@ single session.
 | 1 names, 2 agencies | `check_names.py`, `check_agencies.py` + `data/agency_roster.json`, corrections in `fix_proper_nouns.py` | `python scripts/check_agencies.py` |
 | **1b no slur the speaker did not say** | **`check_slurs.py`**. Fails on a GATE term a published file holds and raw.md does not. Corrections go in `fix_proper_nouns.py` so a regeneration keeps them | `python scripts/check_slurs.py` |
 | **an owner-dictated WORD, not a label** | **`check_owner_text.py`**, adoption step 7b. Reads every record with `text_was` and `text_now` and restores what a rebuild reverted | `python scripts/check_owner_text.py` |
+| **an artifact filename built from an episode tag** | **`common.artifact_tag()`** at every site, `common.tag_from_artifact()` where a tool globs those names. `ep05:bakar` in a path names an NTFS alternate data stream, so the file reads as present and is empty | `python scripts/test_tag_paths.py` |
 | **a document whose numbers went stale** | **`check_stale_docs.py`**. Re-runs each generator and diffs it; checks the per-run and corpus totals in README, README.ms and METHODOLOGY | `python scripts/check_stale_docs.py` |
 | **a step that refuses must stop the run** | **`adopt_mai_camera_raw.must()`**. Every write step's exit code is now read; ep61 shipped 704 fillers because they were discarded | read the `[n/8]` lines in the adoption log |
 | 3 cast metadata | `check_cast.py`, `rebuild_roster.py` (`HOSTS`, `MERGE`, `GUEST_THIS_EPISODE`, `PRESENT_UNLABELLED`) | `python scripts/check_cast.py` |

@@ -50,7 +50,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import episode_path, frontmatter_md, resolve_tag  # noqa: E402
+from common import artifact_tag, episode_path, frontmatter_md, resolve_tag  # noqa: E402
 from lib_gemini import CLEAN_PROMPT_TEMPLATE, TRANSLATE_PROMPT_TEMPLATE  # noqa: E402
 from rewrite_bakeoff import CALLERS, MALAY, names_for  # noqa: E402
 import lib_claude_rewrite  # noqa: E402
@@ -265,8 +265,8 @@ def regate(a):
     manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
     episode = resolve_tag(manifest, a.tag)
     tag = a.tag.partition(":")[0]
-    workdir = Path(a.workdir or ROOT / "data" / f"_{tag}_rewrite")
-    segments = json.loads(Path(a.segments or ROOT / "data" / f"_{tag}_segments.json")
+    workdir = Path(a.workdir or ROOT / "data" / f"_{artifact_tag(tag)}_rewrite")
+    segments = json.loads(Path(a.segments or ROOT / "data" / f"_{artifact_tag(tag)}_segments.json")
                           .read_text(encoding="utf-8"))
     names = names_for(episode["video_id"])
     for stage in [s for s in STAGES if s in a.stage]:
@@ -407,9 +407,9 @@ def main():
     manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
     episode = resolve_tag(manifest, a.tag)
     tag = a.tag.partition(":")[0]
-    segments = json.loads(Path(a.segments or ROOT / "data" / f"_{tag}_segments.json")
+    segments = json.loads(Path(a.segments or ROOT / "data" / f"_{artifact_tag(tag)}_segments.json")
                           .read_text(encoding="utf-8"))
-    workdir = Path(a.workdir or ROOT / "data" / f"_{tag}_rewrite")
+    workdir = Path(a.workdir or ROOT / "data" / f"_{artifact_tag(tag)}_rewrite")
     names = names_for(episode["video_id"])
     extra = Path(a.instructions).read_text(encoding="utf-8") if a.instructions else ""
     caller, model = parse_model(a.model)

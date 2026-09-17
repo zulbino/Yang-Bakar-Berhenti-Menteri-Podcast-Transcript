@@ -207,7 +207,7 @@ def main():
     turns = parse_turns(text)
     if not turns:
         sys.exit(f"no turn list in the reply. First 400 characters:\n{text[:400]}")
-    out = Path(a.out or ROOT / "data" / f"_gemini_timeline_{a.tag}.rttm")
+    out = Path(a.out or ROOT / "data" / f"_gemini_timeline_{common.artifact_tag(a.tag)}.rttm")
     with out.open("w", encoding="utf-8") as f:
         for t in turns:
             start, dur = a.start + float(t["start"]), float(t["end"]) - float(t["start"])
@@ -221,7 +221,7 @@ def main():
     print(f"[4/4] {len(turns)} turns over {a.minutes:.0f} min -> {out}")
     print("      seconds per speaker: "
           + ", ".join(f"{k} {v:.0f}s" for k, v in sorted(spoken.items(), key=lambda x: -x[1])))
-    print(f"\nscore it:\n  python scripts/score_attribution.py data/camera_ref_{a.tag}.rttm "
+    print(f"\nscore it:\n  python scripts/score_attribution.py data/camera_ref_{common.artifact_tag(a.tag)}.rttm "
           f"--episode {a.tag} --blocks gemini={out}")
 
 

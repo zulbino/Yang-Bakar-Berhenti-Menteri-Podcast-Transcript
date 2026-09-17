@@ -27,6 +27,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
+from common import artifact_tag  # noqa: E402
 
 # Diarization islands shorter than this are noise, not turns. Without smoothing, the
 # per-word labelling flickers across a real speaker change and tears single sentences
@@ -134,7 +135,7 @@ def cached_diarization(video_id, audio, sr, n_speakers, threshold=None):
         min_cluster_size no effect at 4, actively worse at 1 (99.8%). Not a useful dial.
     """
     tag = f"t{threshold:.2f}".replace(".", "") if threshold else f"n{n_speakers}"
-    path = ROOT / "data" / f"diar_{video_id}_{tag}.json"
+    path = ROOT / "data" / f"diar_{video_id}_{artifact_tag(tag)}.json"
     if path.exists():
         return [tuple(x) for x in json.loads(path.read_text())]
     import torch

@@ -2424,7 +2424,7 @@ folded that in as an issue: the flagged count went 35 to 47 across 16 episodes w
 wrong in any of them. An inflated count is the same defect as a false MISMATCH, so the
 informational line was removed and only the exclusion kept. Back to 35 of 70.
 
-## Unattended adoption, and the NTFS trap that blocks 12 episodes (2026-09-16)
+## Unattended adoption, and the NTFS trap that blocked 12 episodes (2026-09-16, fixed 2026-09-17)
 
 **`overnight_corpus.py` adopts without a person reading each diff.** That is a deliberate
 departure. `nightly_recut.py` states at the top that it "Writes NOTHING to episodes/" and
@@ -2442,10 +2442,10 @@ It never passes `--force-blind-reference`, never uses `git commit --no-verify`, 
 retries a refusal with a looser flag. A refusal ends that episode and the loop moves on.
 Everything refused lands in `data/_overnight_report.md` for one conversation at the end.
 
-### A colon in a tag becomes an NTFS alternate data stream
+### A colon in a tag became an NTFS alternate data stream
 
-**12 of the 21 remaining episodes cannot run through this pipeline yet, and the reason is
-the filesystem, not the models.** `ep01` through `ep06` exist in BOTH shows, so
+**12 episodes could not run through this pipeline, and the filesystem was the reason
+rather than the models.** `ep01` through `ep06` exist in BOTH shows, so
 `common.raw_for_tag` refuses the bare tag and asks for `ep05:bakar`. Every artifact in the
 camera path is named from the tag: `data/camera_ref_<tag>.rttm`, `data/camera_ref_<tag>.uem`.
 
@@ -2463,11 +2463,47 @@ showed only the empty file, and git would have committed the empty one. So nothi
 have reported a problem: the reference would read as present, be silently empty, and the
 adoption would run against nothing.
 
-`overnight_corpus.remaining()` therefore excludes any tag that matches two episodes, and
-says why at the exclusion. The fix, when someone does it, is a filesystem-safe tag form
-(`ep05-bakar`) used for artifact names only, applied at every site that builds
-`camera_ref_<tag>`. That is more than one script, so it wants doing deliberately rather
-than at the head of an overnight run.
+`overnight_corpus.remaining()` therefore excluded any tag that matched two episodes, and
+said why at the exclusion.
+
+### FIXED 2026-09-17: `common.artifact_tag()`, plus a test so the 31st site cannot miss it
+
+`common.artifact_tag(tag)` returns the filesystem-safe form, `ep05:bakar` to
+`ep05-bakar`. It is for ARTIFACT NAMES ONLY. `common.tag_from_artifact()` reverses it.
+Two tools need that reverse, because they discover episodes by globbing those names:
+`check_camera_reference.py --all` and `check_overlap_boundaries.py --all`. The episode
+tag itself keeps the colon everywhere else, because `raw_for_tag` and `resolve_tag`
+already take that form.
+
+The fix changed 30 sites across 22 scripts. The camera and adoption path holds most:
+`adopt_mai_camera_raw.py` (the reference, the `_old_` copy, the candidate),
+`mai_camera_raw.py`, `nightly_recut.py`, `overnight_corpus.py`, `corpus_status.py`,
+`check_camera_reference.py`, `check_overlap_boundaries.py`, `fold_hanging_fragments.py`,
+`move_hanging_words.py`, `name_generic_blocks.py`, `voice_witness.py`. The rewrite and
+diagnostic scripts carry the rest.
+
+Four things the fix turned up, none of them the colon itself:
+
+1. **`check_camera_reference.py` exited 0 on a missing reference.** It printed `no
+   reference at ...` and counted nothing. A caller reading only the exit code therefore
+   read "usable". A named tag with no reference now counts as refused. The no-argument
+   sweep still exits 0, because there nothing was asked for.
+2. **`check_owner_decisions.py` globbed the bare tag** and would have died with `0
+   episodes match ep05:bakar` at adoption step 2. It reads `common.raw_for_tag` now.
+   `guest_gallery.py` had the same line.
+3. **`corpus_status.py` showed one row per folder but looked up one reference per bare
+   tag**, so both ep05 rows read the same file, and the ready and waiting lists printed
+   tags no tool accepts. The tag carries its show there now.
+4. **`overnight_corpus.remaining()` qualifies instead of dropping.** The queue went from
+   3 episodes to 15, which is every unadopted episode `check_raw_engine.py` names.
+
+**The mechanism is `scripts/test_tag_paths.py`.** A fix applied by hand at 30 sites is a
+fix the 31st site will miss. The test round-trips the two helpers first. It then scans
+`scripts/*.py` for an f-string that puts a tag placeholder next to a filename extension
+or a path separator. A line holding `artifact_tag` passes. Globs against `episodes/` pass
+too, because a glob is not a filename. To check the test itself, add
+`f"data/camera_ref_{tag}.rttm"` to any script: it failed with that file and line, and it
+passed again once the line was gone.
 
 **One bug in `overnight_corpus.py` itself is worth keeping, because it is the same class.**
 Its `run()` helper returned `out[-tail:]` with a 4000-character default, and

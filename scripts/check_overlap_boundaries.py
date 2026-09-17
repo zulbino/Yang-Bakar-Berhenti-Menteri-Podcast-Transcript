@@ -167,7 +167,7 @@ def report(tag, links=False):
         print(f"{tag}: SKIPPED -- raw.md is not the adopted MAI build, so its block stamps "
               f"cannot locate a boundary second (see this file's limit 2)")
         return None
-    ref = ROOT / "data" / f"camera_ref_{tag}.rttm"
+    ref = ROOT / "data" / f"camera_ref_{common.artifact_tag(tag)}.rttm"
     if not ref.exists():
         print(f"{tag}: SKIPPED -- no camera reference at {ref.relative_to(ROOT)}")
         return None
@@ -222,7 +222,7 @@ def main():
 
     tags = list(a.tags)
     if a.all:
-        tags += sorted({p.stem.replace("camera_ref_", "")
+        tags += sorted({common.tag_from_artifact(p.stem.replace("camera_ref_", ""))
                         for p in (ROOT / "data").glob("camera_ref_ep*.rttm")},
                        key=lambda t: -int(re.sub(r"\D", "", t) or 0))
     if not tags:

@@ -214,7 +214,7 @@ def main():
     path = Path(raw_path)
     text = path.read_text(encoding="utf-8")
     vid = re.search(r"video_id:\s*(\S+)", text).group(1)
-    reference = Path(a.reference or ROOT / "data" / f"camera_ref_{a.tag}.rttm")
+    reference = Path(a.reference or ROOT / "data" / f"camera_ref_{common.artifact_tag(a.tag)}.rttm")
     if not reference.exists():
         sys.exit(f"no camera reference at {reference}")
     camera = camera_seconds(reference)
