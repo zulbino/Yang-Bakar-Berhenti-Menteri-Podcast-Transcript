@@ -83,8 +83,17 @@ raw.md does not, and prints the milder ones without failing -- `syaitan itu ada 
 perincian` is just "the devil is in the details". **A slur in raw.md is NOT a finding:**
 this show discusses race, religion and corruption, so ep21's `babi hutan`, ep33's `daging
 babi`, ep28's `gila babi`, ep40's Animal Farm and ep55's eleven mentions of a real pork
-issue all stay. Rule 5 keeps any word that carries meaning. Two spans are still open for
-the owner's ear, because the word is genuinely ambiguous: ep13 20:20 and ep55 51:46.
+issue all stay. Rule 5 keeps any word that carries meaning. **Both ambiguous spans are now
+CLOSED by the owner's ear, 2026-09-17.** ep55 51:46 is `Johor dah nak habis tempoh dah, YB
+eh` and the speaker is DSA (`ep55_slur_owner_ruled_2026_09_17`). ep13's span was never a
+word problem: the owner corrected the LABEL instead, from Rafizi to Haziq
+(`ep13_owner_ruled_2026_09_17`), and its three remaining `babi` are the Animal Farm story.
+
+**Build the escalation link from the CAPTION track, not the block stamp, even when the
+stamp is right.** ep55's block starts at 51:46 and the disputed phrase sits 54 seconds
+inside it, so a stamp-built link sent the owner to the wrong moment and they said so. A
+long block makes the stamp useless on its own. `listen_links.py` prints the caption window;
+for a phrase deep inside a block, grep the `.vtt` for the phrase itself.
 
 ### 2. Every government agency cited is correct
 

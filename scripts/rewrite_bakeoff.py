@@ -69,6 +69,14 @@ ARMS = {
     "gemini-3.5-flash": ("gemini", "gemini-3.5-flash"),
     "gemini-flash-lite-latest": ("gemini", "gemini-flash-lite-latest"),
     "nemotron-3.5-lightning:free": ("openrouter", "nvidia/nemotron-3.5-lightning:free"),
+    # Free arms, listed 2026-09-17. OpenRouter's free tier trains on the prompt, which is
+    # acceptable here only because these transcripts are already published. There is still
+    # no free DeepSeek slug. `stealth/union-alpha` is free but carries no `:free` suffix.
+    "union-alpha": ("openrouter", "stealth/union-alpha"),
+    "nemotron-3-ultra-550b:free": ("openrouter", "nvidia/nemotron-3-ultra-550b-a55b:free"),
+    "inkling:free": ("openrouter", "thinkingmachines/inkling:free"),
+    "glm-5.2:free": ("openrouter", "z-ai/glm-5.2:free"),
+    "dots-3-note:free": ("openrouter", "dots-studio/dots-3-note-preview:free"),
 }
 
 

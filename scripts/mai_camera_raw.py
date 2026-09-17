@@ -210,7 +210,12 @@ def carve_in_gold(lines, episode_raw, vid):
 def force_labels(lines, tag):
     """Apply the owner's rulings from data/forced_labels.json over the camera's answer."""
     path = ROOT / "data" / "forced_labels.json"
-    rules = json.loads(path.read_text(encoding="utf-8")).get(tag, []) if path.exists() else []
+    # Qualified key first, then the bare one. Every one of the 23 keys in that file is bare
+    # today, and the caller now passes `ep06:berhenti` rather than `ep06`, so a bare-only
+    # lookup would silently find no rulings. A qualified key wins when someone writes one,
+    # because a bare `ep06` cannot say which of the two shows it means.
+    recorded = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    rules = recorded.get(tag) or recorded.get(tag.partition(":")[0], [])
     if not rules:
         return lines, "none recorded for this episode"
     forced = 0
@@ -287,7 +292,12 @@ def main():
     manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
     episode = common.resolve_tag(manifest, a.tag)
     vid = episode["video_id"]
-    tag = a.tag.partition(":")[0]
+    # NOT `a.tag.partition(":")[0]`. That predates common.artifact_tag() and it silently
+    # dropped the show qualifier, so `ep06:berhenti` looked for camera_ref_ep06.rttm and
+    # died on a missing file (2026-09-17). Both shows have an ep01 through ep06, so the
+    # bare tag names the wrong episode's artifacts. artifact_tag() is what makes the
+    # filename safe; the qualifier has to survive to it.
+    tag = a.tag
     sandbox = ROOT / "data" / f"_mai_{vid}"
     camera = camera_per_second(a.reference or ROOT / "data" / f"camera_ref_{common.artifact_tag(tag)}.rttm")
     diar_path = Path(a.diar) if a.diar and a.diar != "none" else ROOT / "data" / f"diar_{vid}_t055.json"

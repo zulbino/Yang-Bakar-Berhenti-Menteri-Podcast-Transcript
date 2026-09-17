@@ -1054,5 +1054,50 @@
    "text_now": "tempoh dah, YB eh",
    "_note": "The word is the honorific. This span was ESCALATED rather than fixed in the first pass, and that was right: MAI heard `Babi eh`, YouTube's own caption track heard `babi nah`, and ep55 spends a long passage on a genuine pork issue in a Johor seat, so eleven other `babi` in this file are real. Two ASR engines agreeing does not settle it -- both read the same audio, so they fail the same way. The link given to the owner was built from the caption track and MAI's word clock, NOT raw.md's stamp, which sits 49 s early at 51:46. https://youtu.be/4mmuPwkB5f4?t=3155 . Applied as an anchored entry in fix_proper_nouns.py so a regeneration of the published files keeps it. The `who` here MUST be raw.md's exact label. My first version wrote `Dato' Dr Syed Azuan Al-Idrus (DSA)`, taken from the published interview spelling, and check_owner_decisions.py reported a MISMATCH on a file that was already correct. CLAUDE.md warns about exactly that: a false MISMATCH is worse than no record, because the next session goes and 'fixes' something that is right."
   }
+ },
+ "ep17_rule7_owner_ruled_2026_09_17": {
+  "36:25": {
+   "who": "Rafizi",
+   "text_now": "lain.",
+   "_note": "OWNER RULING 2026-09-17, on the four rule 7 contested boundaries reported by check_overlap_boundaries.py --all. The owner was given a ?t= link per boundary and answered all four. Owner: \"Yes its all rafizi\". The block is the one true SANDWICH in the corpus: Rafizi's block ends `...ditambah dengan SST dan yang lain-lain,`, the disputed token is `lain.`, and Rafizi resumes with `kutipan cukai itu sebenarnya...`. The camera already read it as Rafizi for all 3 seconds at 2185s. No tool could write it because a one-token block is under lib_locate's MIN_TOKENS of 3. Same class as the 2026-09-16 label_only cases. Note the shape: MAI transcribing `lain-lain` then `lain.` is one speaker repeating, not two voices."
+  }
+ },
+ "ep11_rule7_owner_ruled_2026_09_17": {
+  "12:37": {
+   "who": "Nik Nazmi",
+   "text_now": "dan 91 apa Wawasan 2020.",
+   "_note": "OWNER RULING 2026-09-17, on the four rule 7 contested boundaries reported by check_overlap_boundaries.py --all. The owner was given a ?t= link per boundary and answered all four. Owner: \"Nik nazmi speaking\". A sandwich between two Nik Nazmi blocks: `Cuma tak tahulah persepsi saya era 88, 90 especially lah` at 12:29 and `Waktu tu ada that can do spirit` at 12:40. The sentence is one thought across all three. The camera saw nothing in the block's first 3 seconds, so it could not attest the move."
+  },
+  "37:35": {
+   "who": "Iqbal",
+   "text_now": "okay, then let me share sebab masa saya darjah 3,",
+   "_note": "OWNER RULING 2026-09-17, on the four rule 7 contested boundaries reported by check_overlap_boundaries.py --all. The owner was given a ?t= link per boundary and answered all four. Owner dictated the split verbatim: Rafizi ends `...macam biasa.` and Iqbal begins `Okay then let me share sebab masa saya darjah tiga ada satu ketika cikgu suruh kitaorang baca satu passage at class right, from suratkhabar atau apa apa, and...`. So the LABEL on 37:35 was already right and the BOUNDARY was wrong. The tail `Sebab okay, then let me share sebab masa saya darjah 3,` sits in Rafizi's 37:20 block and belongs to Iqbal. This is rule 7's PARTIAL branch: Rafizi's block has a sentence end before the tail, so the shape decides and the camera gets no veto. RECORD SHAPE: text_now holds the words that MOVE, not a word change, so this record deliberately has no text_was and check_owner_text.py will not read it."
+  }
+ },
+ "ep07_rule7_owner_ruled_2026_09_17": {
+  "34:34": {
+   "who": "Rafizi",
+   "text_now": "marilah kita rally around Datuk Seri",
+   "_note": "OWNER RULING 2026-09-17, on the four rule 7 contested boundaries reported by check_overlap_boundaries.py --all. The owner was given a ?t= link per boundary and answered all four. Owner: \"no daniel, the one speaking is Rafizi. camera is right\". A sandwich between two Rafizi blocks, and one continuous sentence: `...bolehlah kita kata` / `marilah kita rally around Datuk Seri` / `Anwar Ibrahim semua untuk 2 3 tahun lagi`. The camera showed Rafizi for 2 of the first 3 seconds. The owner confirms the camera."
+  },
+  "37:40": {
+   "who": "Rafizi",
+   "text_now": "umur 21, 22 tahun kan.",
+   "_note": "OWNER RULING 2026-09-17, from a ?t= link. Owner: 'Rafizi: \"umur 21, 22 tahun kan.\" Daniel Jani: Masa tu ada PAS kah?'. Rafizi's [37:21] block ends `...di depan ratusan ribu rakyat, masa itu saya` and Daniel's [37:40] block opens `umur 21, 22 tahun kan. Masa tu ada PAS kah?`. So the HEAD of Daniel's block completes Rafizi's sentence, and the rest of that block is genuinely Daniel.\nNO TOOL CAN WRITE THIS YET. move_hanging_words.py only moves a TAIL forward, out of block N into block N+1. This is the mirror image: words move BACKWARD out of N+1 into N. forced_labels.json cannot express it either, because it relabels whole located blocks and this block holds two speakers. Recorded so the decision is never lost."
+  }
+ },
+ "ep13_owner_ruled_2026_09_17": {
+  "20:23": {
+   "who": "Haziq",
+   "text_now": "Okey. Inilah yang berlaku minggu ni, YB.",
+   "_note": "OWNER RULING 2026-09-17. Owner: 'ep13 is actually Haziq not Rafizi'. The block is labelled Rafizi and the owner reads it as Haziq. Raised while checking the two ambiguous `babi` spans CLAUDE.md rule 1 holds open; the owner corrected the LABEL and did not dispute the word, so `YB` stands. The line is the show's own transition shape, `Okey, baik YB`, which is a host line rather than Rafizi's."
+  }
+ },
+ "ep55_slur_owner_ruled_2026_09_17": {
+  "51:46": {
+   "who": "Dato' Dr. Syed Azuan Al-Idrus (DSA)",
+   "text_now": "Johor dah nak habis tempoh dah, YB eh.",
+   "_note": "OWNER RULING 2026-09-17, by ear from the caption-derived link https://youtu.be/4mmuPwkB5f4?t=3154. Owner: 'DSA: \"Johor dah nak habis tempoh dah, YB eh\" is correct'. This was one of the two ambiguous spans CLAUDE.md rule 1 held open after the 2026-09-16 sweep turned 39 spans of `babi` into the honorific `YB`. The word is `YB` and the speaker is DSA. Closed.\nNOTE ON THE LINK. The block stamp is 51:46 but the phrase sits 54 seconds inside a long block, so a stamp-built link sent the owner to the wrong moment. The second came from the caption cue `Kerana apa? Satu er Johor dah nak habis` at 3158s, minus 4s of lead-in. This is exactly why the standing rule says derive the link from the caption track."
+  }
  }
 }

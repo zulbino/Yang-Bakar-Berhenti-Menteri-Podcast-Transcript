@@ -262,5 +262,38 @@
    "why": "OWNER CONFIRMATION 2026-09-12, recorded as ep58_owner_reading_2026_09_12@1:21:04: *yes this is Rafizi. correct*. It was contested because the camera has no opinion in the first three seconds and gives Haziq one second across the window. NOT RECORDED HERE UNTIL 2026-09-16, and that was a latent defect rather than a choice: a confirmation only survived while the next rebuild happened to agree. This rebuild did not, the candidate gave the whole block to Haziq, and the step-2 gate refused the adoption. The block is one continuous sentence, so rule 7 gives all of it to Rafizi, not only the words from 'i- ha' that the owner quoted."
   }
  ],
- "_label_only": "An optional field on a rule. The ruled turn is one or two tokens, so lib_locate cannot find it (MIN_TOKENS is 3), and every anchor long enough to locate it spans a neighbour belonging to a DIFFERENT speaker, which force_labels would relabel. `text` then carries the ANCHOR and `label_only` the exact body to relabel inside it. It refuses unless exactly one located block matches. Added 2026-09-16 for ep39, ep40 and ep42, where both neighbours are the other speaker."
+ "_label_only": "An optional field on a rule. The ruled turn is one or two tokens, so lib_locate cannot find it (MIN_TOKENS is 3), and every anchor long enough to locate it spans a neighbour belonging to a DIFFERENT speaker, which force_labels would relabel. `text` then carries the ANCHOR and `label_only` the exact body to relabel inside it. It refuses unless exactly one located block matches. Added 2026-09-16 for ep39, ep40 and ep42, where both neighbours are the other speaker.",
+ "ep17": [
+  {
+   "text": "dan yang lain-lain, lain.",
+   "who": "Rafizi",
+   "at": "36:25",
+   "label_only": "lain.",
+   "why": "OWNER RULING 2026-09-17, recorded in data/speaker_adjudications.json under ep17_rule7_owner_ruled_2026_09_17. One of the four rule 7 contested boundaries; the owner answered all four from ?t= links. Owner: \"Yes its all rafizi\". The anchor spans the preceding Rafizi block and the one-token block, because `lain.` alone is under lib_locate's MIN_TOKENS of 3. Both located blocks become Rafizi, and the first already is."
+  }
+ ],
+ "ep11": [
+  {
+   "text": "dan 91 apa Wawasan 2020.",
+   "who": "Nik Nazmi",
+   "at": "12:37",
+   "why": "OWNER RULING 2026-09-17, recorded in data/speaker_adjudications.json under ep11_rule7_owner_ruled_2026_09_17. One of the four rule 7 contested boundaries; the owner answered all four from ?t= links. Owner: \"Nik nazmi speaking\". Both neighbours are already Nik Nazmi, so a wider match cannot misattribute anything."
+  }
+ ],
+ "ep07": [
+  {
+   "text": "marilah kita rally around Datuk Seri",
+   "who": "Rafizi",
+   "at": "34:34",
+   "why": "OWNER RULING 2026-09-17, recorded in data/speaker_adjudications.json under ep07_rule7_owner_ruled_2026_09_17. One of the four rule 7 contested boundaries; the owner answered all four from ?t= links. Owner: \"no daniel, the one speaking is Rafizi. camera is right\". Both neighbours are already Rafizi."
+  }
+ ],
+ "ep13": [
+  {
+   "text": "Okey. Inilah yang berlaku minggu ni, YB.",
+   "who": "Haziq",
+   "at": "20:23",
+   "why": "OWNER RULING 2026-09-17, recorded in data/speaker_adjudications.json under ep13_owner_ruled_2026_09_17. Owner: 'ep13 is actually Haziq not Rafizi'. The camera and the fallback both gave this block to Rafizi."
+  }
+ ]
 }
