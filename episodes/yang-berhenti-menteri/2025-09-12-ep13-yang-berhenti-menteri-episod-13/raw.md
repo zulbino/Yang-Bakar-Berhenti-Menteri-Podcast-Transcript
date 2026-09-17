@@ -8,7 +8,7 @@ duration_seconds: 7650
 duration: 2h 7m
 view_count: 35332
 model: microsoft/MAI-Transcribe-2
-note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: none recorded for this episode). See interview.md for the polished newspaper-style rewrite.'
+note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: 2 blocks set from data/forced_labels.json). See interview.md for the polished newspaper-style rewrite.'
 ---
 
 <!-- nav -->
@@ -31,9 +31,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [03:02] Haziq: Maaflah YB. A- ahli politik dia tak boleh. Dia memang- TikTok pun tak boleh? TikTok. Dia TikTok lah. TikTok tak boleh. Oh, TikTok tak boleh. Jadi YB ke macam mana? Dia tak boleh jadi politician? Okey, tak apa. Patut aku berhenti menteri. Ha, nanti kita check. Okey, sebelum kita ke segmen beria YB, kita ada segmen tambahan untuk minggu ni jelah. Sebab minggu lepas, YB ada janji something lah untuk tunjuk kepada No. kawan-kawan kita di luar sana, iaitu slip gaji.
 
-[03:35] Rafizi: Ha, ni kira hutang minggu lepas lah. Ya. Ada, ada tengok dekat Twitter semua orang, orang apa nama duk ingatkan jangan lupa slip gaji. Aku dah nak terlupa tadi. Tapi ada concern juga dekat komen
+[03:35] Rafizi: Ha, ni kira hutang minggu lepas lah. Ya. Ada, ada tengok dekat Twitter semua orang, orang apa nama duk ingatkan jangan lupa slip gaji. Aku dah nak terlupa tadi. Tapi ada concern juga dekat komen kata janganlah tunjuk privacy.
 
-[03:47] Haziq: kata janganlah tunjuk privacy. Apa yang nak private nya? Ha, jadi ia bukan privacy. Oi. Jadi kita ada segmen hutang YB.
+[03:50] Haziq: Apa yang nak private nya? Ha, jadi ia bukan privacy. Oi. Jadi kita ada segmen hutang YB.
 
 [03:57] Rafizi: Cuma YB agak Kecuali tunjuk hutang aku. Ha, itu private lah. Itu pun aku tunjuk hutang aku semua dulu masa declare aset. Ya, ya, ya.
 
@@ -101,9 +101,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [19:36] Rafizi: Ya. Padan muka engkau ah. Pandai je kan? Seronok kan. Lain kali, paling kuranglah walaupun orang kata apa nama ni, ChatGPT ni kadang-kadang orang buat lawak kan. Sebelum beria nak tulis komen, pergilah beria-ia check dekat ChatGPT dulu, tanya kan. Sebab paling kurang ChatGPT tu dia bolehlah bagi gambaran kasar. Lepas tu kena selidik lagi kan. Betul.
 
-[20:06] Haziq: Beria, beria, beria. Berialah. YB nak buat ranking ke? Ha, boleh. Okey, ranking apa dia? Cuma tu lah, tu tak ada lagi. Dari 1, 2, 3, 4 ni. Tapi yalah minggu ni macam hambar je beria dia. Korang pilih yang hambar-hambar semua ni.
+[20:06] Haziq: Beria, beria, beria. Berialah. YB nak buat ranking ke? Ha, boleh. Okey, ranking apa dia? Cuma tu lah, tu tak ada lagi. Dari 1, 2, 3, 4 ni. Tapi yalah minggu ni macam hambar je beria dia. Korang pilih yang hambar-hambar semua ni. Okey. Inilah yang berlaku minggu ni, YB.
 
-[20:23] Rafizi: Okey. Inilah yang berlaku minggu ni, YB. Yang ini aku bagi 3 lah. 3. Sebab aku suka 4 4 orang kat depan dengan Razizi Din kat tepi. Beria diorang gelak, sengih, jeling. Baik, baik, baik. Ini aku bagi 3. 3. Ni bagi 1 lah. It's like kalau setakat beria-ia macam ni ni, tak tahulah. Ni beria. Beria, beria dia saja. Ya. 1. Okey, baik. Lambat sikit. Okey. Yang ini pun aku bagi satu lah. Satu. Sebab tidak ada nilai untuk masuk podcast ini. Sebab Maaf, Sid. Amat ni. Ini aku bagilah dua. Dua. Sebab lain kali beria-ia macam ni kan dah kena ada laporan polis semua kan. Dia, tapi identity dia tu dah orang kenal lah. Kenal. Actually ada nama dia. Ada nama dia. Cuma kita yalah sensor. Okey, baik. Beria kita di situ. Tapi beria minggu ini adalah Hambar. Hamba. Jadi kita kena- Kalau tak kerana dia orang sengih kat depan tadi tu gelak-gelak, aku macam
+[20:26] Rafizi: Yang ini aku bagi 3 lah. 3. Sebab aku suka 4 4 orang kat depan dengan Razizi Din kat tepi. Beria diorang gelak, sengih, jeling. Baik, baik, baik. Ini aku bagi 3. 3. Ni bagi 1 lah. It's like kalau setakat beria-ia macam ni ni, tak tahulah. Ni beria. Beria, beria dia saja. Ya. 1. Okey, baik. Lambat sikit. Okey. Yang ini pun aku bagi satu lah. Satu. Sebab tidak ada nilai untuk masuk podcast ini. Sebab Maaf, Sid. Amat ni. Ini aku bagilah dua. Dua. Sebab lain kali beria-ia macam ni kan dah kena ada laporan polis semua kan. Dia, tapi identity dia tu dah orang kenal lah. Kenal. Actually ada nama dia. Ada nama dia. Cuma kita yalah sensor. Okey, baik. Beria kita di situ. Tapi beria minggu ini adalah Hambar. Hamba. Jadi kita kena- Kalau tak kerana dia orang sengih kat depan tadi tu gelak-gelak, aku macam
 
 [21:27] Haziq: Jadi saya minta tolong rakan-rakan untuk cadangkan beria pada minggu depan nanti. Carilah yang betul-betul beria. Baik, YB. Kita teruskan. Jadi segmen seterusnya adalah sama juga, Hidup Keras Dek. Ha, jadi mungkin banyak sikitlah sebab banyak benda keras yang berlaku pada minggu ni, YB. Okey. Ha, jadi yang pertama sudah pastilah macam saya cakap tadi tu. Bersatu. Bersatu. Bersatu bersatu. Yang bersatu. Bila tiba-tiba kita dikejutkan 120 ketua bahagian Bersatu gesa Muhyiddin berundur. Adakah ini persediaan pilihan raya mereka seperti yang Azmin cakap tu, YB?
 
