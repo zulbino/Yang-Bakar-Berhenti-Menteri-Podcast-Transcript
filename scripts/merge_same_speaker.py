@@ -40,6 +40,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import common
 from check_published import DERIVED
 from label_drift_audit import GENERIC
 
@@ -164,8 +165,12 @@ def main():
                  f"  usage: merge_same_speaker.py [--episode=<tag>] [--write] "
                  f"[--raw-only] [--no-fold-fillers]")
     tot, tot_fold, touched = 0, 0, 0
+    # AN EXACT FOLDER, not a substring of the name. `--episode=ep06:berhenti` matched no
+    # folder at all, so the run silently touched nothing and rule 6 went unenforced. The
+    # bare-tag trap above is the opposite failure, and both are silent.
+    wanted = common.raw_for_tag(only).parent if only else None
     for d in sorted((ROOT / "episodes").glob("*/*")):
-        if only and only not in d.name:
+        if wanted and d != wanted:
             continue
         names = ["raw.md"] if raw_only else ["raw.md"] + DERIVED
         for name in names:

@@ -74,6 +74,7 @@ import torch
 from pyannote.audio import Inference, Model
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import common
 from yt_download import _ffmpeg_location
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -113,10 +114,9 @@ def _embedder():
 
 
 def episode_dir(tag):
-    matches = glob.glob(str(ROOT / "episodes" / "*" / f"*-{tag}-*"))
-    if len(matches) != 1:
-        raise SystemExit(f"{tag} matched {len(matches)} episode folders: {matches}")
-    return Path(matches[0])
+    # common.raw_for_tag, NOT a bare glob. A qualified tag such as `ep06:berhenti` matched
+    # NOTHING here, so every caller died on the twelve episodes both shows share.
+    return common.raw_for_tag(tag).parent
 
 
 def read_episode(tag):

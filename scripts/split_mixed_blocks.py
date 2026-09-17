@@ -46,6 +46,8 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "scripts"))
+import common  # noqa: E402
 
 MIN_RUN_WORDS = 4      # below this a run is a scrap, not a turn
 MIN_RUN_S = 1.5        # ep51's confirmed short turns run past a second
@@ -232,11 +234,9 @@ def main():
                     help="write the rebuilt raw.md to PATH instead, and print the changed block lines")
     a = ap.parse_args()
 
-    hits = glob.glob(str(ROOT / f"episodes/*/*-{a.episode}-*/raw.md"))
-    if len(hits) != 1:
-        sys.exit(f"{len(hits)} raw.md match {a.episode}; both shows have ep01-ep06, "
-                 f"so name the episode by its slug: {hits}")
-    path = Path(hits[0])
+    # raw_for_tag takes the `ep05:bakar` form and names both candidates for a bare
+    # ambiguous tag. The glob that was here matched NOTHING for a qualified tag.
+    path = common.raw_for_tag(a.episode)
     text = path.read_text(encoding="utf-8")
     head, body = text.split("# Raw Transcript", 1)
     blocks = BLOCK_RE.findall(body)

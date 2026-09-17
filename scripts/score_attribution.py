@@ -41,6 +41,8 @@ import numpy as np
 from scipy.optimize import linear_sum_assignment
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "scripts"))
+from common import raw_for_tag  # noqa: E402
 
 
 def per_second_rttm(path):
@@ -104,10 +106,8 @@ def main():
     ref = per_second_rttm(a.reference)
     systems, blocks_of = {}, {}
     if a.episode:
-        hits = glob.glob(str(ROOT / f"episodes/*/*{a.episode}*/raw.md"))
-        if not hits:
-            sys.exit(f"no raw.md for {a.episode}")
-        systems["raw.md as shipped"], blocks_of["raw.md as shipped"] = per_second_blocks(hits[0])
+        raw = raw_for_tag(a.episode)
+        systems["raw.md as shipped"], blocks_of["raw.md as shipped"] = per_second_blocks(raw)
     # rsplit, not split: system names legitimately contain "=" ("pyannote thr=0.55"),
     # and splitting on the first one turns the name into half a path.
     for spec, fn in ((a.rttm, per_second_rttm), (a.triples, per_second_triples)):
