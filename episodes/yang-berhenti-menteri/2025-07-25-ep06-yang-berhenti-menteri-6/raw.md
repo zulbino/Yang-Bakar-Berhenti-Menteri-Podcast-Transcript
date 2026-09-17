@@ -117,11 +117,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [29:17] Zaim Zulkifli: Sebab if you are in dalam keadaan that you, you think that you are able to influence, tapi by once you cross a certain line and you know that
 
-[29:27] Rafizi: you are not going to be able to influence, you are still subjected to the collective responsibility, responsibility kepada kementerian,
-
-[29:36] Zaim Zulkifli: responsibility kepada stakeholders yang berjuta-juta ni. And you cannot do as what you wish
-
-[29:42] Rafizi: Just because you feel itu akan menaikkan nama engkau ataupun Zaim dengan geng-geng mahasiswa dia takkan hentam, contohnya. So I'm sure one day Dr.
+[29:27] Rafizi: you are not going to be able to influence, you are still subjected to the collective responsibility, responsibility kepada kementerian, responsibility kepada stakeholders yang berjuta-juta ni. And you cannot do as what you wish Just because you feel itu akan menaikkan nama engkau ataupun Zaim dengan geng-geng mahasiswa dia takkan hentam, contohnya. So I'm sure one day Dr.
 
 [29:53] Zaim Zulkifli: Akmal jadi menteri.
 
@@ -199,9 +195,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [36:14] Rafizi: Is that, is that really? Ketua Pengarah SPRM kita katakan, ketua penga-
 
-[36:18] Zaim Zulkifli: Ketua Polis Negara, Ketua Pengarah SPR dan sebagainya. So itu adalah salah satu sistem yang sebenarnya i- bukan si- sistem, simptom
+[36:18] Zaim Zulkifli: Ketua Polis Negara, Ketua Pengarah SPR dan sebagainya. So itu adalah salah satu sistem yang sebenarnya i- bukan si- sistem, simptom yang sebenarnya menjadi enabler kepada sistem itu.
 
-[36:26] Rafizi: yang sebenarnya menjadi enabler kepada sistem itu. So you are saying that because the power is so centralized in one person and therefore corruption is systemic. Is that correct? One of it lah.
+[36:26] Rafizi: So you are saying that because the power is so centralized in one person and therefore corruption is systemic. Is that correct? One of it lah.
 
 [36:36] Haziq: Dia mungkin matriks dia adalah berapa banyak budi bicara.
 

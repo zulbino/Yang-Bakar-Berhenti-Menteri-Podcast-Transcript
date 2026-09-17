@@ -193,9 +193,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [17:10] Chak Onn Lau: Semasa tu dia berumur berapa? Macam 30 ke 30-an?
 
-[17:15] Rafizi: Must be lah. Farhash ni how old ah? Kerana YB YB Nik kata dia
+[17:15] Rafizi: Must be lah. Farhash ni how old ah?
 
-[17:20] Chak Onn Lau: jadi political secretary to Anwar selepas Farhash kan? Ke sebelum? No, sebelum much, much, much, much.
+[17:17] Chak Onn Lau: Kerana YB YB Nik kata dia jadi political secretary to Anwar selepas Farhash kan? Ke sebelum? No, sebelum much, much, much, much.
 
 [17:27] Rafizi: Because Nick was apa nama ni, staff Dato' Sri Anwar ni in between 2006 to 2008. Dia bermula. Because I remember because dia balik kerja 6 bulan, dia kata dia nak pergi join Anwar. I was not too happy about it lah. I cakap I don't think that's right. Kenapa?
 
@@ -225,9 +225,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [19:59] Iqbal: Ber- tak had your disagreements.
 
-[20:01] Rafizi: Azmin duk hantar mesej ni. Tak adalah bergaduh. When you had your disagreements with Datuk Seri Azmin,
+[20:01] Rafizi: Azmin duk hantar mesej ni. Tak adalah bergaduh.
 
-[20:07] Iqbal: there PKR memang dikenali sebagai parti yang ada banyak faction faction. I mean, mungkin itu bukan khusus kepada PKR, tapi it PKR drama dia nampak seronoklah ikut nak nak.
+[20:04] Iqbal: When you had your disagreements with Datuk Seri Azmin, there PKR memang dikenali sebagai parti yang ada banyak faction faction. I mean, mungkin itu bukan khusus kepada PKR, tapi it PKR drama dia nampak seronoklah ikut nak nak.
 
 [20:18] Rafizi: No, sebab dia asal usul PKR because PKR ni amalgamation of kumpulan yang berbeza-beza. Tap- jadi apakah uniting factornya?
 
@@ -261,9 +261,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [24:31] Iqbal: Tapi sebelum tu saya nak tanya lagi.
 
-[24:33] Chak Onn Lau: YB kata ends justi- ends do not justify the means kan? Tapi untuk saya, because I've also followed your career for a long time. Semasa Kajang move, it seemed like that was the ends justifying the means. If anything, Kajang move saya rasa adalah
+[24:33] Chak Onn Lau: YB kata ends justi- ends do not justify the means kan? Tapi untuk saya, because I've also followed your career for a long time. Semasa Kajang move, it seemed like that was the ends justifying the means.
 
-[24:53] Rafizi: bukti, you can say lah whether kami naif ke tidak, adalah bukti that we are such a purist. Sebab Tan Sri Khalid, arwah Tan Sri Khalid memang ada kes. No one dispute about kes dia dengan Bank Islam tu. Kan? Dia ada 70 juta. Dan perkara itu telah diketahui daripada hari pertama dia jadi menteri besar in 2008. Tapi tak selesai, tak selesai, tak selesai kan. Jadi tiba-tiba kes tu settle out of court, kan. Jadi, jadi pada pandangan kami pada ketika itu, You have already been compromised. Ha, jadi you can debate lah soal whether benda tu apa nama ni a good political strategy ke apa. Tapi yang purist dalam parti ni kata you must defend apa nama ni the anti-corruption integrity of the party at the moment. Masa tu PKR ada seorang menteri besar saja. You cannot allow menteri besar yang paling tinggi public official terdedah kepada all this accusation.
+[24:50] Rafizi: If anything, Kajang move saya rasa adalah bukti, you can say lah whether kami naif ke tidak, adalah bukti that we are such a purist. Sebab Tan Sri Khalid, arwah Tan Sri Khalid memang ada kes. No one dispute about kes dia dengan Bank Islam tu. Kan? Dia ada 70 juta. Dan perkara itu telah diketahui daripada hari pertama dia jadi menteri besar in 2008. Tapi tak selesai, tak selesai, tak selesai kan. Jadi tiba-tiba kes tu settle out of court, kan. Jadi, jadi pada pandangan kami pada ketika itu, You have already been compromised. Ha, jadi you can debate lah soal whether benda tu apa nama ni a good political strategy ke apa. Tapi yang purist dalam parti ni kata you must defend apa nama ni the anti-corruption integrity of the party at the moment. Masa tu PKR ada seorang menteri besar saja. You cannot allow menteri besar yang paling tinggi public official terdedah kepada all this accusation.
 
 [25:58] Chak Onn Lau: Tapi apa kata puris-puris ni tentang Zahid Ibrahim atau all the UMNO people that are currently. Zahid Ibrahim? Eh, Zahid Hamidi. Zahid Hamidi. Zahid Hamidi. Sorry. Zahid Hamidi.
 
@@ -281,9 +281,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [26:59] Rafizi: Because keadaannya sangat berbeza masa tu. Do you want to do another general election?
 
-[27:05] Chak Onn Lau: Taklah. No. Then then macam mana? Aku faham. Aku betul faham. But in that case, you know, the purist would be angry lah kan. Dari segi theoretical yang kita dari
+[27:05] Chak Onn Lau: Taklah. No. Then then macam mana? Aku faham. Aku betul faham. But in that case, you know, the purist would be angry lah kan.
 
-[27:15] Iqbal: awak I beritahu yang tak tak masuk the ruang arena politik ni.
+[27:12] Iqbal: Dari segi theoretical yang kita dari awak I beritahu yang tak tak masuk the ruang arena politik ni.
 
 [27:20] Rafizi: Yeah, okay. But kalau tengok, we have tried our best to make sure Okay. that the arrangement itu is sealed by an agreement. There is an agreement, there is a clear apa nama ni, charter of what you can do, what you cannot do. These are common principles and so on. Jadi, given the circumstances lah, I think it's the lesser of the two evils that we have to live with. Okay, the issue, I think, is not so much about forming the government. The issue is that after you form the government, macam mana you act because benda tu fluid tau. Ha kan. Bila fluid tu jadi orang, jadi dia reform, the pace of reform. Benda tu subjektif. Sampai bila kita nak kata, oh kita kerajaan perpaduan and therefore tak boleh 1, 2, 3, 4 kan. At some point, I think you must draw the line.
 
@@ -343,9 +343,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [34:27] Chak Onn Lau: Same drum semua kan.
 
-[34:30] Rafizi: Bosanlah. Jadi lama-lama orang bosanlah. Tapi sebenarnya banyak je isu. Kalau saya pembangkang, masaklah kerajaan sekarang kan. Tapi saya tengok dia malas. Lebih seronok kan jadi pembangkang? I don't know. I'm not pembangkang no. Tapi kalau mengingat balik zaman YB jadi pembangkang, adakah zaman tu lagi seronok daripada sekarang? Tak boleh banding sebab you must understand kan
+[34:30] Rafizi: Bosanlah. Jadi lama-lama orang bosanlah. Tapi sebenarnya banyak je isu. Kalau saya pembangkang, masaklah kerajaan sekarang kan. Tapi saya tengok dia malas. Lebih seronok kan jadi pembangkang? I don't know. I'm not pembangkang no. Tapi kalau mengingat balik zaman YB jadi pembangkang, adakah zaman tu lagi seronok daripada sekarang?
 
-[34:51] Iqbal: zaman, zaman saya jadi pembangkang, saya ada 14 kes.
+[34:48] Iqbal: Tak boleh banding sebab you must understand kan zaman, zaman saya jadi pembangkang, saya ada 14 kes.
 
 [34:54] Chak Onn Lau: Boleh pakai pakaian ungu. Seronok juga.
 
@@ -377,9 +377,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [40:42] Iqbal: Ya, betulkan persepsi tu. Kerana persepsi tu memang ada.
 
-[40:44] Rafizi: Because each, each one of us has equal right dalam undang-undang. Dan setiap daripada kita tertakluk kepada undang-undang yang sama, kan? Jadi kalau contohnya saya ditangkap. Saya dituduh melanggar peraturan tertentu. Saya perlu disiasat dan sebagainya. Saya tertakluk kepada yang itulah. Sebab tu saya rasa polis semua suka saya masa saya kena tangkap. Saya tak buat hal. Saya tak macam Tian Chua gigit telinga oranglah. Saya tak ha. Saya tak cuba buat apa nama ni huha huha. Dia suruh aku jalan kaki, aku jalan kaki. Okey, YB, tapi prinsip kita semua sama rata
+[40:44] Rafizi: Because each, each one of us has equal right dalam undang-undang. Dan setiap daripada kita tertakluk kepada undang-undang yang sama, kan? Jadi kalau contohnya saya ditangkap. Saya dituduh melanggar peraturan tertentu. Saya perlu disiasat dan sebagainya. Saya tertakluk kepada yang itulah. Sebab tu saya rasa polis semua suka saya masa saya kena tangkap. Saya tak buat hal. Saya tak macam Tian Chua gigit telinga oranglah. Saya tak ha. Saya tak cuba buat apa nama ni huha huha. Dia suruh aku jalan kaki, aku jalan kaki.
 
-[41:23] Iqbal: bawah mata undang-undang itu mungkin theoretically betul, tapi kita nampak banyak contoh di mana undang-undang tak mungkin. Serata. Dari segi contohnya, ibu curi susu untuk kanak-kanak, dia dapat penjara beberapa hari. Curi berjuta-juta ringgit. Memang ada persepsi.
+[41:20] Iqbal: Okey, YB, tapi prinsip kita semua sama rata bawah mata undang-undang itu mungkin theoretically betul, tapi kita nampak banyak contoh di mana undang-undang tak mungkin. Serata. Dari segi contohnya, ibu curi susu untuk kanak-kanak, dia dapat penjara beberapa hari. Curi berjuta-juta ringgit. Memang ada persepsi.
 
 [41:44] Chak Onn Lau: Rasuah.
 
@@ -417,9 +417,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [46:28] Rafizi: Bukan 233 ke? Saya dalam penal code kerana menghina UMNO. Itu penal saya di charge and saya menanglah kan. Penal code kerana didakwa menghina UMNO. Dalam penal code pun ada satu kesalahan kalau menghina.
 
-[46:41] Chak Onn Lau: Menghina juga. Okey, so tapi kes ni berkaitan dengan mungkin
+[46:41] Chak Onn Lau: Menghina juga.
 
-[46:46] Iqbal: masa YB berada dalam jemaah menteri, ada tak perbincangan-perbincangan tentang perpindaan akta-akta zalim ni berlaku dan setakat mana perbincangan itu sampai?
+[46:42] Iqbal: Okey, so tapi kes ni berkaitan dengan mungkin masa YB berada dalam jemaah menteri, ada tak perbincangan-perbincangan tentang perpindaan akta-akta zalim ni berlaku dan setakat mana perbincangan itu sampai?
 
 [46:56] Rafizi: No, ada. Contohnya saya ingat, saya ingatlah saya pasal perkataan offensive dan annoying ni kan. I think kita kena imbangkan di antara perspektif kita yang kita tengok daripada lensa politik. Dengan ancaman daripada perkara-perkara yang offensive and annoying ni dibuat oleh orang biasa yang tak ada kena-mena dengan politik. Selalunya yang dapat highlight kes macam ini kerana dia melibatkan politiklah. Ataupun human rights kan. Tapi macam mana kalau contohnya kes bully yang orang buli perkataan offensive? Sebab pindaan ini kalau seingat sayalah dibincangkan selepas satu kes yang seorang wanita membunuh diri selepas cyber bully. Ya. Jadi sebenarnya undang-undang kita tidak cukup lengkap untuk dakwa dia yang yang terlibat tu. Sebab tu dia hanya didakwa dengan apa nama ni, satu charge yang kecil dan dia bayar denda dan dia dibebaskan saja kan. Jadi, on on that sense kan, I mean the the cap that I wear masa menteri dahulu ialah as much as kita selalunyalah, orang yang partisan ni, kita akan selalu melihat daripada lensa politik and we always kata ni mesti ada benda nak buat ni. Ni mesti ada benda nak buat kan. What I learned daripada my time sebagai menteri ialah sebenarnya the world doesn't revolve around us. Dia banyak lagi kes-kes orang biasa ini yang kena bully, yang offensive semua. Tapi bila nak ambil tindakan, tak boleh. Ah, ambil contoh yang kes Zara sekarang kan. Kita juga ada ka- peraturan lah. You can debate this peraturan betul ke tidak. Pendakwa raya meletakkan peraturan, dia mesti melebihi probability tertentu sebelum boleh charge. Maksudnya probability menang tu, if I'm not mistaken, 90% baru boleh charge, kan. Jadi bila nak charge yang lebih tinggi tapi rasa probability tu tak tak tak boleh menang. Sebab kalau buat, kalau tak ada rule itu, dia membuang masa DPP dan juga mahkamah. Charge, charge, charge semua ni tax base money. Ya, ya, ya, ya. Charge, charge, charge semua kalah, kalah, kalah, kalah. Orang marah juga kan? Jadi dia letakkan that bar. Pasal bila you letak that bar, undang-undang macam ini, alamak tak boleh charge. Jadi there's always a tendency kadang-kadang untuk charge for minor offense. Rakyat pula marah. Ya. Kan? Jadi that's the complication yang saya ingat yang soal Akta MCMC yang pasal apa nama ni, offensive. 233 ya. 233 ni is is a lot more complicated daripada kes yang dibawa inilah. Dia aa.
 
