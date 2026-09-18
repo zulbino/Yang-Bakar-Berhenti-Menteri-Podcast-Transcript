@@ -170,17 +170,20 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [Yang Berhenti Menteri #3](https://www.youtube.com/watch?v=jutpDO2CZDU) &middot; [raw](episodes/yang-berhenti-menteri/2025-07-04-ep03-yang-berhenti-menteri-3/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2025-07-04-ep03-yang-berhenti-menteri-3/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2025-07-04-ep03-yang-berhenti-menteri-3/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2025-07-04-ep03-yang-berhenti-menteri-3/interview-ms.md)
 
-- Chief Justice retirement and judicial appointments crisis
-- Article 122B and judicial independence
-- Alleged grooming of a favored judge for Chief Justice
-- 13th Malaysia Plan (RMK-13) delay and revision controversy
-- PADU central database and its use in digital government/subsidy targeting
-- PKR party election controversy ('pengkhianatan 2025')
-- Rafizi's decision not to contest PKR leadership again
-- Criticism of PKR Secretary-General Fuziah Salleh
-- Political stability of the Unity Government and swing voters
-- Future PM speculation and Rafizi's post-politics plans
-- Alleged e-voting irregularities: AWS S3 server, source code, blockchain opacity
+- Kebimbangan persaraan dan lantikan Ketua Hakim Negara serta kekosongan hakim Mahkamah Persekutuan
+- Kepentingan kebebasan badan kehakiman sebagai 'referee' dalam sistem demokrasi
+- Dakwaan campur tangan dan laporan polis berkaitan lantikan hakim melalui Suruhanjaya Pelantikan Kehakiman (JAC)
+- Perbandingan lantikan Ketua Hakim Negara dengan lanjutan kontrak Ketua Pesuruhjaya SPRM Azam Baki
+- Proses penyediaan dan dakwaan rombakan mendadak Rancangan Malaysia ke-13 (RMK-13) selepas Rafizi meletak jawatan
+- Status pelaksanaan dan kegunaan sebenar sistem PADU serta naratif kegagalannya
+- Cadangan subsidi bersasar dan pindahan tunai bulanan menggunakan data PADU
+- Kestabilan politik kerajaan perpaduan selepas pemilihan PKR 2025 dan kesannya terhadap PH, DAP dan Amanah
+- Kemungkinan pembatalan pemilihan PKR oleh ROS dan keputusan Rafizi untuk tidak bertanding jawatan parti lagi
+- Sikap dan tindak balas Setiausaha Agung PKR Fuziah Salleh terhadap kemarahan ahli akar umbi selepas pemilihan
+- Budaya politik Malaysia dan syarat 'berubah' untuk menjadi calon Perdana Menteri
+- Trend sokongan pengundi atas pagar dan keperluan variasi dalam jenama parti politik
+- Rancangan masa depan Rafizi selepas PRU-16 termasuk penglibatan dalam social enterprise
+- Dakwaan manipulasi sistem e-undi PKR (EKYC, pelayan S3 Amazon dan blockchain) semasa pemilihan 2025
 
 ## YBhM ep04 &mdash; 2025-07-11
 
