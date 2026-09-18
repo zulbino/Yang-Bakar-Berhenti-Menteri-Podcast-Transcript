@@ -78,6 +78,64 @@ YouTube blocks most `yt-dlp` client/format combinations behind PO tokens, SABR-o
 streaming, or DRM. The working combination is the `web_embedded` client, a locally-run
 PO-token server, and Node.js for JS challenge solving.
 
+`requirements.txt` itself is not tracked (owner's decision 2026-09-18: it is local setup
+detail, not something a transcript reader needs) -- recreate it from this list before
+installing:
+
+```
+yt-dlp
+yt-dlp-ejs
+bgutil-ytdlp-pot-provider
+google-genai
+pyyaml
+
+# local ASR fallback (--engine local), see scripts/lib_local_asr.py
+torch
+transformers
+soundfile
+silero-vad
+
+# voiceprint scoring, see scripts/verify_speaker_voiceprint.py -- arrives transitively with
+# torch anyway, declared because that script imports it directly
+numpy
+
+# speaker diarization for local-ASR episodes, see scripts/lib_diarization.py
+# -- needs a Hugging Face token with access to the gated pyannote/speaker-diarization-3.1
+# and pyannote/segmentation-3.0 models (accept terms at huggingface.co for both)
+pyannote.audio
+
+# word-level speaker attribution for local-ASR episodes, see scripts/lib_forced_align.py
+# -- was already an implicit pyannote.audio dependency, now used directly for its MMS
+# forced-aligner pipeline (torchaudio.pipelines.MMS_FA)
+torchaudio
+
+# Claude rewrite fallback (--rewrite-engine claude), see scripts/lib_claude_rewrite.py
+# -- needs the `claude` CLI on PATH (Claude Code), not a Python package
+# the camera pass, see scripts/camera_speakers.py and scripts/identify_person.py -- YuNet
+# face detection and SFace embeddings ship inside OpenCV, and the face clustering is
+# sklearn's AgglomerativeClustering.
+opencv-python
+scikit-learn
+
+# HTTP calls: the Azure MAI gateway, the YouTube data fetch, Rafizi's blog lookup
+requests
+
+# fuzzy token distance for the ASR disagreement report and the mixed-block splitter
+rapidfuzz
+
+# optimal speaker-to-cluster assignment in scripts/score_attribution.py
+scipy
+
+# reading Revolab's benchmark split (parquet), see scripts/revolab_run_mai.py
+pyarrow
+
+# ECAPA/x-vector embeddings for the voice-witness proof of concept
+speechbrain
+
+# optional: pyannote's HOSTED diarization API, see scripts/pyannoteai_diarize.py
+pyannoteai
+```
+
 ```bash
 pip install -r requirements.txt
 
