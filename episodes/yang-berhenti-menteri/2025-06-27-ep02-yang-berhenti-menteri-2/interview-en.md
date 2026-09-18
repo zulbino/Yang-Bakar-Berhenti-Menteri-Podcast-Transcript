@@ -34,6 +34,14 @@ model: claude-haiku-4-5-20251001
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite), translated segment by segment.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 2 — Yang Berhenti Menteri #2**  
+27 June 2025 · 1h 37m · [watch on YouTube](https://www.youtube.com/watch?v=y6e6F3w4U60)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Viewers all, we are on a podcast or audio broadcast called "Yang Berhenti Menteri" for the second episode. So by popular request, along with YB Raf as our permanent guest speaker today, we also have our brother Iswardi Morni as our guest speaker today.
