@@ -13,41 +13,26 @@ hosts:
 guests:
 - Salim Iskandar
 topics:
-- Sungai Bakap by-election results and voter turnout analysis
-- Diesel and RON95 fuel subsidy retargeting
-- Cost of living and inflation concerns
-- STR cash aid and BR1M/BR1M comparison
-- Electricity (TNB) subsidy and billing issues
-- Progressive wage policy pilot project
-- Poverty eradication (hardcore poverty) data
-- PADU to BUDI transition
-- Malaysia's economic growth and investor confidence (Bursa Malaysia, FDI)
-- Generational leadership debate (Anwar Ibrahim, Mahathir, younger leaders)
-- Racial/ethnic voting patterns and Malay political sentiment
-- Sedition Act 1948 repeal
-- Government criticism, defamation, and use of the law against critics
-summary: In episode four of "Yang Bakar Menteri" podcast hosted by Haziq, guest Salim
-  Iskandar (known for "Cili Kasi Taruk") interviews Economy Minister Rafizi Ramli
-  in a no-holds-barred format. Salim grills Rafizi on the PKR/PH loss in the Sungai
-  Bakap by-election, questioning whether the removal of diesel subsidies and cost-of-living
-  issues caused the defeat. Rafizi counters with detailed data analysis, arguing the
-  results reflect differential voter turnout among Malay and non-Malay voters rather
-  than a swing in support, and defends the government's move toward targeted subsidies
-  (diesel, RON95, electricity) as necessary to curb leakage/smuggling and redirect
-  funds to STR cash aid and a progressive wage policy. They debate rising cost of
-  living, egg and cooking oil subsidies, TNB electricity bills, PADU/BUDI, and the
-  perceived overpromising of past pledges (e.g., fuel price cuts). The conversation
-  turns to leadership generational politics, with Salim pushing for younger leaders
-  to replace older figures like Anwar Ibrahim and Mahathir, while Rafizi argues for
-  a balanced coalition of experienced and technocratic younger leaders. The episode
-  ends light-heartedly with Rafizi unblocking and following Salim on X, jokes about
-  being labelled "Rafizi's cartel," and Salim urging the government to repeal the
-  Sedition Act 1948 as promised in PH's 2022 manifesto and to avoid heavy-handed action
-  against critics.
+- Tuduhan 'kartel Rafizi' dan latar belakang Salim Iskandar
+- Analisis kekalahan PH di PRK Sungai Bakap dan perbandingan dengan PRK Kuala Kubu Baru
+- Konsep correlation vs causation dalam menganalisis kesan subsidi diesel terhadap keputusan pilihan raya
+- Tanggungjawab kolektif kabinet berbanding menyalahkan Perdana Menteri
+- Penyasaran subsidi diesel dan RON95 serta isu ketirisan/sindiket minyak
+- Kesan kenaikan harga diesel terhadap kos sara hidup rakyat (contoh trak Mitsubishi Triton)
+- Pembasmian kemiskinan tegar dan standard garis kemiskinan RM2000
+- Perbandingan bantuan STR berbanding BRIM zaman Najib
+- Dasar gaji progresif dan projek rintis kenaikan gaji sektor swasta
+- Kenaikan tarif elektrik TNB dan subsidi elektrik negara
+- Sejarah harga minyak mentah dunia dan formula APM (Automatic Pricing Mechanism)
+- Isu kepimpinan tua vs muda dalam politik Melayu (Anwar, Mahathir, Muhyiddin, KJ)
+- Perpaduan kaum dan polarisasi masyarakat Melayu-Cina-India
+- Penukaran skim Padu kepada Budi
+- Penggunaan Akta Hasutan 1948 terhadap pengkritik kerajaan dan janji manifesto PH untuk memansuhkannya
+- Isu bekalan beras tempatan dan telur di kawasan bandar
+summary: Dalam episod keempat podcast "Yang Bakar Menteri", Haziq mengetuai sesi bersama tetamu kontroversial Salim Iskandar yang menyoal siasat Menteri Ekonomi Rafizi Ramli secara terbuka tanpa sekatan soalan. Perbualan bermula dengan tuduhan Salim sebagai "kartel Rafizi" sebelum beralih kepada analisis mendalam kekalahan PH di PRK Sungai Bakap, di mana Rafizi menghuraikan konsep correlation lawan causation untuk menolak dakwaan bahawa penarikan subsidi diesel menjadi punca utama kekalahan. Perbincangan meluas kepada isu penyasaran subsidi diesel dan RON95, kenaikan bil elektrik TNB, keberkesanan bantuan STR berbanding BRIM zaman dahulu, dasar gaji progresif, prestasi ekonomi dan keyakinan pelabur, isu kepimpinan tua-muda dalam politik Melayu, peranan Anwar Ibrahim dan Mahathir, penukaran Padu kepada Budi, serta penggunaan Akta Hasutan 1948 terhadap pengkritik kerajaan. Episod diakhiri dengan nasihat Salim supaya kerajaan menunjukkan kerja nyata dan tidak bertindak keras terhadap pengkritik.
 language: en
-model: claude-sonnet-5
-note: Full English translation of interview.md (the mixed-language newspaper-style
-  rewrite).
+model: claude-haiku-4-5-20251001, gemini-flash-lite-latest
+note: Full English translation of interview.md (the mixed-language newspaper-style rewrite), translated segment by segment.
 ---
 
 <!-- nav -->
@@ -60,862 +45,781 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 # Interview (English)
 
-**Haziq:** Assalamualaikum warahmatullahi wabarakatuh, greetings, and welcome back to the fourth episode of the Yang Bakar Menteri podcast. I'm Haziq, and this time we have a controversial guest. None other than brother Salim. How are you, brother?
+**Haziq:** Assalamualaikum warahmatullahi wabarakatuh. Greetings. Welcome back to the fourth episode of the Yang Bakar Menteri podcast. I am Haziq, and this time we have a controversial guest. None other than brother Salim. How are you, brother?
 
-**Salim Iskandar:** I'm fine.
+**Salim Iskandar:** I'm doing well.
 
-**Haziq:** Okay, but we do need to maintain the quality of this YB Menteri podcast. So I'll ask.
+**Haziq:** Okay, we just need to maintain the quality of our podcast here, YB Minister. So this isn't what I asked for.
 
-**Salim Iskandar:** I'm scared the Minister will get angry at me later. Don't be angry at me, I'm a good boy.
+**Salim Iskandar:** I'm worried the Minister might get mad at me later. Please don't be mad at me. I'm a good boy, right?
 
-**Rafizi:** Grilling the minister already like this, how's that going to work?
+**Rafizi:** Wearing red like that asking for trouble.
 
-**Haziq:** Okay, we need to maintain the quality of this podcast, YB. So let's make a small declaration. We don't have any prior questions before this session, right, YB? You didn't receive any questions beforehand?
+**Haziq:** Okay, we need to maintain the quality of our podcast here, YB. Alright. So let's make a small declaration. We didn't have any questions before this session, YB? You didn't receive the questions beforehand.
 
-**Rafizi:** No.
+**Rafizi:** None.
 
-**Haziq:** None, huh. Brother Salim, none either?
+**Salim Iskandar:** None, right. Brother Salleh has none either, right? I'm a witness, I'm telling you. Zero. He came, the YB didn't know what I wanted to ask, and I didn't know what the YB wanted to ask if he wanted to roast chillis. If the YB wants to roast chillis, I'm the one roasting the minister. Let's see what happens.
 
-**Salim Iskandar:** I'm a witness, let me tell you — YB came here not knowing what I'm going to ask, and I don't know what YB wants to ask either, if he wants to. If he wants to grill someone, if YB wants to grill someone, I'll be the one grilling the minister. Let's see what happens.
+**Haziq:** Okay, let's see. So this is the opportunity. All this time you've been saying all sorts of things on social media. When it's time to reply face-to-face, you don't know how. Sometimes you don't reply. Sometimes you forget. So, there is no censorship. Ask directly, the minister will answer, ask and answer again, keep asking, even if it's a barrage of questions, it's fine. Okay, can we start, then?
 
-**Haziq:** Okay, let's see. So this is his chance. He's said all sorts of things on social media, and whether he'll respond face-to-face, we don't know. Sometimes he doesn't respond, sometimes he forgets. So there's no censorship of any kind — ask away. The Minister will answer, and you can ask again and again, even rapid-fire, that's fine too. Okay, shall we start?
+**Rafizi:** Sure. Okay, fine. We can start, I invite you. But later if I want to ask questions, can the minister ask me? Sure. You can too. Gosh, people are going to say all sorts of things about Salim coming to this podcast.
 
-**Rafizi:** Sure.
+**Salim Iskandar:** Yeah, okay. Later they're definitely going to say I've been bought off by Salim. Sorry, sorry, sorry. YB, actually I want to ask, YB, you're my boss. Don't be like that. Patience, patience. Some people are accusing me of being part of Rafizi's cartel. So I've prepared these invoices here that I want to claim.
 
-**Haziq:** Okay good, go ahead, I'll hand it over.
+**Rafizi:** You can try, but I'm not paying. I have to make a claim myself. How is it that people call me a Rafizi cartel? I think some people have heard of that, right? Why is that?
 
-**Salim Iskandar:** Oh wait, hold on. If I want to ask a question, can the Minister ask me one back?
+**Salim Iskandar:** Why? I don't know. I know that I've already apologized, right? That's also one of the reasons they brought it up, right? Exactly, you know.
 
-**Haziq:** Sure.
+**Haziq:** But I want to tell him.
 
-**Rafizi:** Sure, that works too. Salim coming on this podcast — people are going to say all sorts of things about this. They'll definitely say I've bought Salim off.
+**Salim Iskandar:** YB has blocked me on Twitter, on X. I have zero access to the YB. So how could I be a cartel member, how could I be the YB's cartel? How come?
 
-**Salim Iskandar:** Hey wait. Wait wait wait. YB, YB, sorry sorry sorry. YB, actually, I want to ask you, are you my boss? Because there's. don't say it like that. Wait wait wait, hold on. Some people have accused me of being part of Rafizi's cartel.
+**Rafizi:** I have no idea either.
 
-**Rafizi:** Oh really?
+**Salim Iskandar:** But YB, like it or not, I'm very sorry YB. YB has recently become a very popular figure, who is heavily criticized. Criticized. Okay, not just outsiders. Outsiders are fine. But I understand and I see that even among friends, there is heavy criticism against the YB because they say one of the causes of the defeat in Sungai Bakap is the YB. So what say you, sir?
 
-**Salim Iskandar:** So I've prepared, what do you call it, invoices that I want to claim.
+**Rafizi:** No, I'm used to being criticized. From way back, being criticized by friends and foes alike is normal. But when it comes to Sungai Bakap, we have to look at the results in detail.
 
-**Rafizi:** Sure, but I'm not paying though.
+**Salim Iskandar:** So didn't the YB speak out because of a word that is very well-liked or very much feared, which is *bahalul*?
 
-**Salim Iskandar:** See, that's the thing. How is this — they say I'm Rafizi's cartel. I think some people have heard this before, right?
+**Rafizi:** I've used words much harsher than that before. Right? And actually regarding the results, you have to go back to the results, right? If you look at the results, until now not a single person has presented data to show that PKR's analysis of the results is incorrect, right? First, Malay voter support did not change. From the 2022 general election, the 2023 state elections, and now. Meaning our candidates only secured around 22 to 23% of the Malay vote. Then for the Chinese vote, the level of support also didn't change. Around 90% and above. But was there any other change? The only difference was—they just didn't turn out, right? Chinese and Indian voters didn't turn out, whereas Malay voter turnout was high. So if people want to claim that ceramahs or campaign materials, or government policies like diesel and so on caused a shift in support, support should have dropped. They either didn't turn out or turned out in large numbers, but support dropped. That didn't happen, and if you look at state by-elections, non-Malay voter turnout percentages are indeed usually lower. Only this time it was lower than before. Usually it's around 50-60%. There must have been other factors at play as well. There is some factor also, I think.
 
-**Rafizi:** Like. why though?
+**Salim Iskandar:** You have to think, you have to see because I don't represent any party, YB. I'm not a PN person. In fact, I get beaten up from left and right. Sometimes I don't even know what's going on, right? What I always bring is the voice of the people. As the YB knows, I represent, I also have a podcast, but our podcast is more like a roadside level. It's nothing as grand as this. So I always bring up the people's issues together with my partner Rafiq Rashid, a lawyer. So we talk more about the people. The people and whatever issues, especially concerning our PMX, we always bring them up and we criticize, right? So when we criticize, we criticize in moderation because we say what's not true is not true, and what is true is true. Okay, regarding the current situation in Sungai Bakap, let's rewind a bit. Let's go to Kuala Kubu Baru. The result was good for PH.
 
-**Salim Iskandar:** Why? I don't know. All I know is I apologize for saying it.
+**Rafizi:** That's different because Kuala Kubu Baru.
 
-**Rafizi:** That's actually one of the reasons they invited you.
+**Salim Iskandar:** Lisa hasn't gone up yet.
 
-**Salim Iskandar:** Exactly, you know, but let me tell them — YB has blocked me on Twitter, on X. YB has blocked me, I have absolutely no access to YB. So how could I be YB's cartel? Isn't that ridiculous?
+**Rafizi:** No. Lisa hasn't pulled out yet. That's the thing, right? In terms of Malay support, it was about the same as the state elections. There was a slight increase, right? The only thing that increased was early voters, meaning police and military.
 
-**Rafizi:** I don't know either.
+**Salim Iskandar:** Which gave 95%.
 
-**Salim Iskandar:** But YB, like it or not, I'm so sorry YB — YB has recently become a very popular figure, one who is heavily criticized by.
+**Rafizi:** Yeah. Regular stream Malay votes were no different. Except that the Kuala Kubu Baru seat cannot be compared to the Sungai Bakap seat. Because Sungai Bakap is a village seat with a Malay majority, and much more rural. In Sungai Bakap, it's 61% Malay.
 
-**Rafizi:** Depends on which side. Popular, criticized, sure.
+**Salim Iskandar:** In KKB it's 58? 58?
 
-**Salim Iskandar:** Criticized, okay. Not just by outsiders. Outsiders are fine, but as I understand it and as I've observed, even among friends — okay, even among friends — you're heavily criticized because they say one of the causes of the defeat in Sungai Bakap was you. So what say you, sir?
+**Rafizi:** No, it's a non-Malay majority seat. Not the same. But the Malays in KKB were 58% if I'm not mistaken.
 
-**Rafizi:** No, I'm used to being criticized. From the past, friends and foes alike criticize me, that's normal. But if we're talking about Sungai Bakap, we need to look at the results in detail.
+**Salim Iskandar:** We have to check the data.
 
-**Salim Iskandar:** So you're not saying it's because you uttered a word that's either very much loved or very much feared — "bahalol" (fool)?
+**Rafizi:** No, that was wrong. It's a 60-40 seat. Because seat allocations within PH, any seat where non-Malay voters exceed 50% and above, all.
 
-**Rafizi:** I've said words harsher than that before.
+**Salim Iskandar:** Are given to DAP. DAP contests.
 
-**Salim Iskandar:** Oh really?
+**Rafizi:** So the KKB seat is roughly a 60-40 seat. Whereas in Sungai Bakap, it's the reverse. But that's why we have to look at the level of support. The level of support in KKB wasn't very different from the support levels during the state elections and the general election. Except due to the number of non-Malay voters.
 
-**Rafizi:** Right? And actually, the result — that's why we need to go back to the results. If you look at the results so far, no one has presented data showing that PKR's analysis of the results is wrong. The first point is that actually Malay voter support hasn't changed from GE 2022, the 2023 state election, to now. Meaning our candidate only got around 22 to 23 percent of the Malay vote. Then the Chinese vote — the level of support hasn't changed either, roughly 90 percent and above. Indian.
+**Salim Iskandar:** Early turnout was higher.
 
-**Salim Iskandar:** But was there any change? Okay, right, I believe that.
+**Rafizi:** That's one. Only the early Malay voters. But because non-Malay voters in KKB were higher, even though turnout dropped slightly, the majority was still more or less maintained just like the last state election.
 
-**Rafizi:** It's just that the only difference is.
+**Salim Iskandar:** The last state election. Now my question. Let's return to Sungai Bakap. Sorry, Sungai Bakap. Don't collapse.
 
-**Salim Iskandar:** They didn't turn out, right?
+**Rafizi:** It's shaking.
 
-**Rafizi:** They didn't turn out. Chinese and Indian voters didn't turn out while Malay voter turnout was high. So if we're saying it was because of the campaign speeches or campaign materials, or government policies like diesel and so on causing a shift in support, that support should have dropped. Either they don't turn out, or they turn out in large numbers but support drops. That didn't happen. And if you look at previous state by-elections, non-Malay voter turnout percentage is usually lower anyway. It's just that this time it was lower than before — usually around 50.
+**Salim Iskandar:** Sorry. Can't do it, I'm too heavy. When it shakes, you know. So, that shows this table is.
 
-**Salim Iskandar:** So there was some factor at play too? There is some factor also.
+**Rafizi:** You are completely out of a job after this. Salim went straight for it. Sorry.
 
-**Rafizi:** We, I think.
+**Haziq:** Go ahead, go ahead.
 
-**Salim Iskandar:** You have to see, because maybe — I don't represent any party, YB. I'm not a PN person, I'm not that. In fact I get bashed from all sides. Sometimes I don't even know what's going on with all this. What I usually bring is the voice of the people. As YB knows, I represent — I also do a podcast, but our podcast is more like street-level, not as grand as this one. So I usually bring up people's issues together with my partner Rafique Rashid, the lawyer. So we talk more about the people, okay. The people and, what do you call it, any issue especially concerning PMX, we always bring things up, criticize things and all. So when we criticize, we criticize in moderation because we say what's wrong is wrong. In this current matter, let's look at Sungai Bakap, let's rewind a bit. Let's go back to Kuala Kubu Baharu. The result was good for PH.
+**Rafizi:** No, it's okay. You can ask, you can ask.
 
-**Rafizi:** It was different because Kuala Kubu Baharu.
+**Salim Iskandar:** If we look back at Sungai Bakap, right? KKB was before—before diesel. Before the diesel subsidy was pulled. Sungai Bakap was after the diesel subsidy was pulled. So whether you like it or not, there was definitely an effect. True or not?
 
-**Salim Iskandar:** Diesel hadn't gone up yet.
+**Rafizi:** No, okay. This is very different from us having a chat at a roadside coffeeshop, Salim, versus relying on data analysis. Data. Okay, yes.
 
-**Rafizi:** No.
+**Haziq:** When we analyze data—
 
-**Salim Iskandar:** Diesel subsidy hadn't been withdrawn yet.
+**Rafizi:** Right, there are two concepts that I hope beginner listeners will Google after this. One is called correlation, the other is called causation. Correlation means we look at the data looking like this, and the outcome is like that. So from that perspective, to say there is a full correlation doesn't even hold because if we look at the non-Malay and Malay levels of support in KKB and also in Sungai Bakap. Sungai Bakap. It is the same. Meaning that in Sungai Bakap, the last state election saw 22% of Malays voting for PH, and this time it was the same. In KKB, it was around 28% of Malays in the previous state election, and recently it was the same. The Chinese are the same, the Indians are the same. Right. So to say there is a correlation, there isn't. But beneath correlation, even if we say—okay, there is diesel, and that's why people protested and so on—that's why we have to dig deeper to see if there is causation or not. Meaning, are there data that confirm people didn't come out to vote because of diesel? We don't have that data. Unless we go back, knock on doors, and ask them.
 
-**Rafizi:** No. That's the thing. In terms of Malay support, it was roughly the same as the state and general elections.
+**Salim Iskandar:** Ask them back, yes. Did you not come out because of diesel? Given that the record turnout of non-Malay voters from past by-elections and state elections is indeed lower. That's why if we look at the Johor state election, the Melaka state election, PH looked like it lost badly, right? One of the reasons was also because non-Malay voters didn't come out. But when the 2022 general election came, the result was very different from the state elections, even though the gap was only six months. Because the record of non-Malay voter turnout was different. So if you ask me, I can't dismiss that as a factor. I can't. But if you base it only on that result, yeah, you cannot.
 
-**Salim Iskandar:** There was a slight increase, right? A slight increase, yes?
+**Rafizi:** Exactly, you cannot.
 
-**Rafizi:** What increased was only the early voters. Meaning police and army.
+**Salim Iskandar:** I agree. But could be that, could be not.
 
-**Salim Iskandar:** The ones who gave 95%.
+**Rafizi:** It could be. It could be, unless you go and really collect more data and study it again.
 
-**Rafizi:** Yes. The regular channel Malay vote didn't differ. It's just that the Kuala Kubu Baharu seat can't be compared to the Sungai Bakap seat. Because Sungai Bakap is a Malay-majority seat and more rural. And in Sungai Bakap, 61 percent are Malay.
+**Salim Iskandar:** The last state election had a 1,005 majority. Recently, it was 4,267. So even though the turnout, the voter turnout is like 62%, right? Because as you said, the Chinese and Indian—
 
-**Salim Iskandar:** In KKB it was 58? 58?
+**Rafizi:** It's about 65. 65.
 
-**Rafizi:** No. It's a non-Malay majority seat. It's not the same.
+**Salim Iskandar:** 65, then. In Sungai Bakap, it's 65. 65. Okay. Right. So the result, the final result was that the majority has increased. So you could say it's 2 or 3 times—well, 2 times larger.
 
-**Salim Iskandar:** But the Malay proportion in KKB was 58% if I'm not mistaken. We have to check the data though.
+**Rafizi:** No, that's why you have to understand the maths. Okay, I'll give an example. If previously out of 100 people in one polling stream, 30% were non-Malay and 70% were Malay. If the turnout was the same—30% of non-Malays turned out, 70% of Malays turned out. Support levels didn't change. This one is 22%, that one is 90%, right? So the majority would be, say, 100. But when only the 7—the 70% Malays turned out completely and their support for PH was only 22%, while only 4 people out of that 30% came out, it looks like the majority surged. That's the situation where the majority looks like 4,000, and people think there was a shift in support. There wasn't. In reality, there wasn't.
 
-**Rafizi:** No no no no. That's wrong, it's a 60-40 seat. Because of seat allocation within PH — any seat where the non-Malay voter proportion exceeds 50 percent is contested by DAP. So the KKB seat is roughly a 60-40 seat, whereas in Sungai Bakap it's reversed. But that's why we need to look at the level of support. The level of support in KKB didn't differ much from the level of support during the state election and the general election. It's just that because the number of non-Malay voters.
-
-**Salim Iskandar:** Given to the non-Malay. Reversed. Turned out early.
-
-**Rafizi:** That's one thing — only the Malay voters turned out early. But because the number of non-Malay voters in KKB is higher, even though it dropped slightly, the majority was still roughly maintained, what do you call it, maintained like the previous state election.
-
-**Salim Iskandar:** Previous state election. Okay, now my question — okay let's go back to Sungai Bakap. Sorry, Sungai Bakap.
-
-**Rafizi:** Don't shake the table.
-
-**Salim Iskandar:** Let me shake it, sorry sorry. Can't help it, my weight when I shake, you know. So okay, that shows this table.
-
-**Rafizi:** You've got no function left after this. Salim's just going straight to questions.
-
-**Haziq:** Sorry. Go ahead, continue.
-
-**Rafizi:** No, it's okay. You can just ask, go ahead.
-
-**Salim Iskandar:** Looks like the mic's been dropped back on me. Okay, so if we look back at Sungai Bakap again. Okay, KKB was before, before the diesel subsidy was withdrawn. Sungai Bakap was after the diesel subsidy was withdrawn. So whether you like it or not, there is an effect. True or not true?
-
-**Rafizi:** No, okay. This is very different from us chatting politics on the street corner, Salim, versus analyzing based on data, okay. When we analyze data, there are two concepts I hope listeners will start looking into, they can Google this later. One is called correlation, one is called causation. Correlation means we look at data like this, and the result is like this. So in that sense, to say there's a full correlation — there isn't, because we said the level of non-Malay and Malay support in KKB and in Sungai Bakap is the same. Meaning in Sungai Bakap, the previous state election gave 22 percent Malay support to PH, and this time it's the same. In KKB it was around 28 percent Malay support in the previous state election, and it's the same recently. Chinese support is the same, Indian support is the same. So, correlation — to say there is one, there isn't. But underneath the correlation, even if we say there's diesel, that's why people protested and so on — that's why we need to go deeper, to see if there's causation or not. That is, is there data confirming that people didn't turn out to vote because of diesel? We don't have that data, unless we go back and knock on doors and ask whether they didn't turn out because of diesel — while there's already a record showing non-Malay voter turnout from previous by-elections and state elections was already lower. That's why if you look at the Johor state election, the Melaka state election, PH lost badly, right? One of the reasons was also that non-Malay voters didn't turn out. But when it came to GE2022, that's why the result was very different from the state election even though the gap was only 6 months. Because the record of non-Malay voter turnout was indeed different. So if you ask me, I can't rule out that it's a factor, I can't. But based on the result alone.
-
-**Salim Iskandar:** Ask them directly then. Yes, you cannot.
-
-**Rafizi:** There isn't. You cannot.
-
-**Salim Iskandar:** At that point I agree, I agree. But could be that, could be not.
-
-**Rafizi:** It could be, it could be. Unless you go and really collect more data and study it properly.
-
-**Salim Iskandar:** Really study on that. True. Previous state election, majority of 1,500. Recently, 4,267. So even though the voter turnout is like 62% because as you said the Chinese and Indian.
-
-**Rafizi:** It's about 65. 65. In Sungai Bakap it's 65.
-
-**Salim Iskandar:** 65 then. 65, okay. Alright, so the final result was the majority increased. So could you say it doubled or tripled? Doubled, I'd say.
-
-**Rafizi:** No, because you have to understand the maths. Okay, let me give an example. Suppose before, out of 100 people at one polling channel, 30 percent were non-Malay, 70 percent were Malay. If the same turnout happens — the 30 percent non-Malay turn out, the 70 percent Malay turn out, the level of support unchanged. This one 22 percent, this one 90 percent. Then the majority would be, say, 100. But when the 70 percent Malay all turn out and their support is only 22 percent to PH, but of the 30 percent, only four people turn out — then the majority appears to jump dramatically. That's the situation where the majority looks like 4,000 and people think there's been a shift in support. But actually there hasn't been. It's only because of the composition of who turned out.
-
-**Salim Iskandar:** There isn't. I understand, I understand. But YB, I'm so sorry YB. When we know, right, the pattern of Chinese voters — regardless of by-election or whatever, as long as it's local — local, right. Chinese voters, by 7:00 in the morning they're already done. If they're fired up, if they're passionate, right, Chinese voters, if they're fired up, they're motivated, they say, "I want to go." 7:00 in the morning, no other race, just Chinese voters really. This isn't racist, but this is a fact. If we look at which votes came in first.
+**Salim Iskandar:** Just because of the composition of those who turned out. Understand. But YB, I'm so sorry YB. When we know the voting pattern of the Chinese, if we look at it, it doesn't matter whether it's a by-election or whatever, as long as they are local, local. Chinese people at 7 in the morning are already ready. If they are enthusiastic, they are on fire. If they are fired up, Chinese people are enthusiastic, they say, "I want to go." At 7 o'clock in the morning, there are no other races, truly just Chinese people. This—this is not racist, but this is a fact. If we look at past voting trends, whenever we look at it—
 
 **Rafizi:** No, that's only in general elections.
 
 **Salim Iskandar:** General elections, true.
 
-**Rafizi:** But not in state elections or by-elections.
+**Rafizi:** Ha, but not in state elections or by-elections.
 
-**Salim Iskandar:** But okay, fine. But usually the rejection of votes by non-Malays isn't as severe as what happened in Sungai Bakap.
+**Salim Iskandar:** Right. But usually, the rejection of non-Malay votes is not as severe as what happened in Sungai Bakap.
 
-**Rafizi:** It's not a rejection of votes, because if they do turn out, they'll vote nearly 90-95 percent. Them not turning out — we can't equate that with rejection. You don't have any data to support saying it's rejection, especially in the past 4-5 years, this pattern has existed. During state elections and by-elections they don't turn out, during general elections they turn out.
+**Rafizi:** It's not a rejection of votes because they didn't turn out. If—if they turn out, they will vote almost 90–95%. True. Them not turning out cannot be equated to a rejection. You don't have any data to support saying it's a rejection. Especially in the past 4–5 years, this pattern definitely exists. During state elections and by-elections they don't turn out; during general elections they turn out. Yes.
 
-**Salim Iskandar:** Because they don't turn out. True. True, true, true. Yes. Yes, but still, even with all this talk of data, the actual fact is — I'm so sorry to say this, because this is Yang Bakar Menteri after all. So I came here to grill you too.
+**Salim Iskandar:** But still, even though we talk about data and all that, the actual fact is—I'm so sorry to say this because this is also what roasts the minister, right?
 
-**Rafizi:** Ha. But grilling needs to be based on facts and evidence, Salim. You can't just go by coffee-shop rumors going around.
+**Rafizi:** So I came here to get roasted too. But getting roasted has to be based on facts and evidence, Salim.
 
-**Salim Iskandar:** Yes, of course. True. The problem is, what we're facing today is public rejection — if we look at social media and all, not TikTok though. TikTok is already controlled by Fahmi. Ops, Fahmi, don't be mad. Okay, so what happened is in other places we see public unease. Public dissatisfaction toward the government today. I'm sorry, sir, because I can't blame you since you're just a minister. Okay, facts are facts, you all hear that, you all hear that.
+**Salim Iskandar:** You can't just talk like a coffeeshop uncle spinning round and round and round, right? The problem is now, what we are facing today is the people's rejection. It's like, if we look at media sources and all that—not TikTok. TikTok is already controlled by Fahmi. Oops, Fahmi, don't be angry. Okay. So what happens is in other places we see the people's anxiety. The people's dissatisfaction with the government today. I'm sorry, sir. Because I cannot blame you because you are just a minister. Okay, the fact is a fact. You guys listen, you guys listen.
 
 **Rafizi:** Just because he's on my podcast.
 
-**Salim Iskandar:** No, no. Because why? I apologize, am I still in frame? This table is shaking too much, I'm scared.
+**Salim Iskandar:** No, no. Because why, I'm so sorry. Am I still in the frame? The table is shaking too much. I'm scared.
 
-**Rafizi:** Yes yes yes. He's scared he's out of frame, he's been pushing the table at me here.
+**Rafizi:** He's scared he's out of frame. He put the table on my side.
 
-**Salim Iskandar:** Okay, okay. So, I can't blame you, okay. You're a data man. We know you always go by the data and all, but the facts remain, see? If I wanted to blame you, well, you're just the Minister of Economy. Not that being Minister of Economy isn't still powerful, but you have bosses above you. You have one boss above you.
+**Salim Iskandar:** Okay, okay. So I cannot blame you. Okay, you are a data man. We know that you always go with the data and all that. But the facts remain, you see. If I want to blame you, you are just the Minister of Economy. Not saying the ministry isn't great, right? But you have your bosses above. You have one boss above you.
 
-**Rafizi:** But the concept isn't quite like that, Salim. It's actually a collective responsibility. And what's it called, the economy portfolio is under the Ministry of Economy. So I think we can't say the boss has to take full blame. That's why, for example, back in Datuk Seri Najib's era, as much focus as we put on Datuk Seri Najib, it was actually quite a collective responsibility of all the ministers. Including, I mean, whoever gets caught, gets caught — that follows due process. But.
+**Rafizi:** But the concept isn't quite like that, Salim. It is actually a collective responsibility. And what do you call it, the economic portfolio is under the Ministry of Economy, right? So I think we can't say the boss has to take the full blame. That's why, for example, during Datuk Seri Najib's time, as much as we put a lot of focus on Datuk Seri Najib, it was actually quite a collective responsibility of all the ministers. But it's a pity he had to take it alone. Including—I mean, the things he was charged with, he had to face. That's according to the process. But, but there are also examples of people who were part of the past cabinet or whatever—
 
-**Salim Iskandar:** But it's a pity he alone got caught. Follow the process, follow the courts on that.
+**Salim Iskandar:** Still friends with you now?
 
-**Rafizi:** But there are also, for example, people who were part of the previous cabinet or whatever.
+**Rafizi:** Yes. Sometimes it's easy for them to wash their hands of it. They actually can't. So in this case, I think—
 
-**Salim Iskandar:** Still with your friends now?
+**Salim Iskandar:** YB, you're the best. Wow.
 
-**Rafizi:** Yes. Sometimes it's easy for them, they wash their hands of it. They can't actually do that. So in this case, I think.
+**Rafizi:** So in that sense, it's a collective responsibility.
 
-**Salim Iskandar:** YB, that's normal.
+**Salim Iskandar:** Exactly. If—if, for example, there is the issue of the cost of living, which we never deny is a challenge—the cost of living, right? Of course, the main policies and views that we try to formulate mostly lie under the Ministry of Finance, under the Ministry of Economy, for example, including MITI and several others, right?
 
-**Rafizi:** Right? So in that sense, it's a collective responsibility. If, for example, there's an issue of cost of living, which we've never denied — indeed the challenge is cost of living — of course the main policy and views we try to put forward mostly fall under the Ministry of Finance, under the Ministry of Economy for example, including MITI and a few others. And of course, we present our case, the PM has his own views. But to say it's 100 percent because of this person or that person that people reject the government, I think it's a collective responsibility. So I don't.
+**Rafizi:** And of course we present our case. The PM has his own views. But to say that 100% of this is due to people rejecting one person or another, I think is a collective responsibility. So I don't—
 
-**Salim Iskandar:** Exactly. So you're saying everyone bears the responsibility together?
+**Salim Iskandar:** So you're saying that everyone has the same responsibility?
 
-**Rafizi:** Yes, I have no issue if people ask that. It's just that what I'd caution against is taking things out of context in bits and pieces. So for example, if PN's record before this was such-and-such, they couldn't resolve the cooking oil issue either, couldn't resolve the egg issue either. They were well aware of all these problems.
+**Rafizi:** I have no problem if people ask. But what I would point out is don't take it piecemeal. So for example, if PN before this had a record like this, right? Even cooking oil they couldn't resolve first. Eggs they couldn't resolve either. They were aware of all the problems. Is there still a cooking oil problem now, Salleh?
 
-**Salim Iskandar:** Okay. What's lacking now?
+**Salim Iskandar:** Yes. Still we got problem.
 
-**Rafizi:** Is there a cooking oil problem now, Salim?
+**Rafizi:** How does the price compare now to before?
 
-**Salim Iskandar:** Yes, we still have a problem.
+**Salim Iskandar:** No, I'm not talking about the price. I'm talking about the availability of the oil.
 
-**Rafizi:** Where? Compare the price now to before.
+**Rafizi:** Is there?
 
-**Salim Iskandar:** RM2, RM2.50? No, I'm not talking about the price, I'm talking about the availability. The oil.
+**Salim Iskandar:** The one at 2 ringgit and a half. I'm not talking about the normal one. The normal one is okay.
 
-**Rafizi:** Where's the problem?
+**Rafizi:** But the cooking oil at RM2.50 is from the oil package, right?
 
-**Salim Iskandar:** The RM2.50 oil. I'm not talking about the normal one, the normal one is fine, the normal one is fine.
+**Salim Iskandar:** The oil subsidy package.
 
-**Rafizi:** The packet one?
+**Rafizi:** There have been problems since before. No matter how it's done, there are problems. Because the issue is not merely a market issue, a price issue. The issue is that when we do it that way, there are leakages. The leakages that occur are not at the border. The leakages occur in shops.
 
-**Salim Iskandar:** The normal one is okay.
+**Salim Iskandar:** In shops. In Bangladesh, from what I saw, the father and son, the father is okay with keeping it below.
 
-**Rafizi:** But the RM2.50 oil compared to the packet oil.
+**Rafizi:** His friend comes and he leaves. That's why my view from the start is that everyone knows we've reached a limit where our system wants to help the people. For example, we provide subsidized oil at RM2.50 per package, it's reached a limit that's difficult for us to do because we already have roughly 4 million foreigners. That's the recorded ones. No. Recorded roughly 3.5. If we add and subtract 500,000 unrecorded. So roughly 4 million. 4 million is more than 10% of Malaysia's population. Malaysia's population is 30 million. So basically a lot is happening. It gets hidden and so on. So this issue is not any particular administration's fault, it's not subject to fluctuations in cooking oil prices. It's really a matter of process, a matter of system. That's the same with diesel. We've reached a stage where the price difference we have is so high that a syndicate has formed. It's become a multi-billion ringgit syndicate. If we continue like before too, on the one hand people will say, what is this leakage, money not enough for everything. We see it's leaking, we don't care.
 
-**Salim Iskandar:** The subsidized packet oil, that one.
+**Salim Iskandar:** I'd like to request an interruption. Like this, let's talk about diesel again. I'm right if you want to talk about withdrawing diesel or petrol subsidies.
 
-**Rafizi:** That's had problems from before. Either way there's a problem because the issue isn't purely a market issue, a price issue. The issue is when we do it that way, there's leakage.
+**Rafizi:** Not withdraw, retarget. Yes, that's the difference.
 
-**Salim Iskandar:** The leakage that happens isn't at the border, right? The leakage happens in shops. In shops. Bangladeshi workers say, "Let me check this, water it down," okay, he stores it underneath. His friend comes, he calls him over.
+**Salim Iskandar:** We rephrase whatever you said. But the thing is, if you want to do that, yes, you can do that, but not now. In my opinion, as the people we speak as, you have to listen to our people's voice. Because we found that now.
 
-**Rafizi:** That's why my view from the start has been that everyone knows we've reached a limit where our system trying to help the people — for example, providing subsidized oil at RM2.50 a packet — has reached a point where it's become difficult to do because we already have roughly 4 million foreigners. It's not the same as.
+**Rafizi:** There are many people, Salim, not just you alone.
 
-**Salim Iskandar:** That's just the recorded ones, what about the unrecorded?
+**Salim Iskandar:** Many. Because it's us I—
 
-**Rafizi:** No, recorded is roughly 3.5 million. Add in maybe 500,000 unrecorded, so roughly 4 million. That's more than 10 percent of Malaysia's population. Malaysia only has about 30 million people, right? So actually, yes, a lot happens. They hide it and so on. So that's not about any particular administration, it's not subject to the fluctuation of cooking oil prices — it's actually a matter of process. A matter of the system. That's also the case with diesel. We've reached a stage where the price gap has become so large that syndicates have formed. It's become a multi-billion ringgit syndicate operation. If we continue as before, on one hand people will say, "Why is it leaking, there's not enough money for everything." We see it leaking, and we don't care.
+**Rafizi:** And I want to mention, I understand podcasts, influencers, you know, everyone has opinions. But we also have to be careful to say I represent the people.
 
-**Salim Iskandar:** 32 million. Given to their friends, yes. Alright. I'd like to interject here. Let's go back to talking about diesel. Okay, correct me if I'm wrong — if you want to talk about withdrawing diesel, withdrawing the diesel or petrol subsidy.
+**Salim Iskandar:** No. That means I don't represent the party. If the party has its own agenda. Any party has an agenda.
 
-**Rafizi:** Not withdrawing, retargeting.
+**Rafizi:** If you want to blame me or you want to say that I'm PN, I'm not, sir. I formed a group.
 
-**Salim Iskandar:** Retargeting. Okay okay. Rephrase it however you like, that's fine. But the thing is, if you want to do that.
+**Salim Iskandar:** I know in this group we have helped many people in difficulty. So in the current situation, down here when I go around everywhere I go and meet people, then I hear a lot of stories. I like to chat.
 
-**Rafizi:** There's a difference, you know.
+**Rafizi:** I'm the friendly type.
 
-**Salim Iskandar:** Yes, you can do that but not now. In my opinion, as citizens speaking here, you also need to listen to the voice of our people. Because we find that now.
+**Salim Iskandar:** People I don't know, I just greet them.
 
-**Rafizi:** Plenty of people know that, Salim, not just you.
+**Rafizi:** Okay, that's me.
 
-**Salim Iskandar:** Plenty, plenty, lots of people. Because to me, to me, to me.
+**Salim Iskandar:** So people see me as fierce, that one curses people.
 
-**Rafizi:** And I'll say this — I understand podcasts, influencers, everyone has their views. But we also need to be careful about saying, "I represent the people."
+**Rafizi:** Not fierce, what kind of cute is that tonight?
 
-**Salim Iskandar:** That's correct. Meaning I don't represent a party. If it's a party, they have their own agenda. Okay, any party has an agenda. If you want to blame me, or you want to say that I'm PN, I'm not, sir. Okay, I created a group where I know we help a lot of people who are struggling and so on. So in the current situation, when I go down to the ground everywhere, I go around, I meet people, then I hear a lot of stories. I like to, I like to chat. I'm the type who's friendly. Even people I don't know, I'll greet them. Okay, that's me. Because people see me as fierce, like I scold people or whatever.
+**Salim Iskandar:** Cute yes. Right?
 
-**Rafizi:** Okay, alright okay. Hey, not fierce, you're actually quite cute tonight.
+**Rafizi:** Especially when he puts the glasses up.
 
-**Salim Iskandar:** Really? Cute, huh? Right?
+**Salim Iskandar:** These glasses are because I can't see. Okay, so basically that's the problem we're facing. The government needs to listen. I know you know you can talk about whatever data, but the government needs to hear that right now, we are really struggling. I know the government knows this too, but the people are struggling now. So when subsidies are withdrawn at this time, patience and retargeting. Retargeting, not withdrawal. An example I'll give, I have a friend. My friend, what's his name, drives a diesel truck. So now he usually fills up once a week, he fills up once a week so he can travel around. And a month he fills up four times. Each fill used to be around 150, 150, 160—that's the range for a Mitsubishi Triton. So four fill-ups is about 600. Now with the new oil price, when he fills up it becomes 200 and a half. Sometimes it goes to 26 like that. A month has become 1020, we take 1000 at average. With the retargeted subsidy we get 200 ringgit. That means he's out 800 ringgit. That was, he paid 600, now he pays 800. That means still an increase. Sorry YB, maybe I am not intelligent as you are sir. I am a very strict person. But then again, when you see at that, we already have some increment there. There's extra cost that we have to pay. These are the things that we are facing.
 
-**Rafizi:** Even more so with the glasses on top.
+**Rafizi:** Okay. I don't think there was any previous government whose Prime Minister constantly talked about eradicating poverty. Whatever you say about Anwar Ibrahim, I don't think you have seen any prime minister before who mobilized everyone to eradicate poverty. So from that perspective, it's very clear we understand the situation on the ground.
 
-**Salim Iskandar:** These glasses are because I can't see. Okay, so basically that's the problem we're facing. So the government needs to listen. Okay, I know you can talk about data and so on, but the government needs to listen that right now, yes, we really are struggling right now. I know the government knows this too, but the people are struggling right now. So when subsidies are withdrawn now, targeted, targeted, right? Okay, let me give an example. I have a friend. My friend drives, what's it called, a diesel truck. So normally he fills up once a week to travel around. And in a month he fills up four times. Okay, one fill-up used to be around 150, 150-160, that's the range for the Mitsubishi Triton. Okay, so four fill-ups is about 600. Now with the new fuel price, when he fills up it's become 250. Okay, 250, so sometimes it goes to 260 or so, right? Okay fine. In a month it's become 1,020, let's take 1,000 on average. With targeted subsidy we get RM200. Okay, RM200 means he pays out RM800. Okay, before he paid 600, now he pays 800, meaning there's still an increase. This story, sorry YB, maybe I'm not as intelligent as you are, sir. Okay, I'm a very street person, you see. So, but then again, when you see at that, we already have some increment there. Okay, that's extra cost that we have to pay. All right, so these are the things that we are facing.
+**Salim Iskandar:** Talking.
 
-**Rafizi:** Alright, okay. I don't think there has been any government before this whose Prime Minister has consistently spoken about eradicating poverty. Whatever you say about Anwar Ibrahim, I don't think you have seen any Prime Minister before who mobilized everyone to eradicate poverty. So from that, it's very clear we understand the situation on the ground, right? So.
+**Rafizi:** Look, let me finish. I want to respond to that story too. Reap, reap, reap.
 
-**Salim Iskandar:** Speaking of.
+**Salim Iskandar:** Keep some for later.
 
-**Rafizi:** Hang on, hang on. Let me finish. Because I want to answer the diesel story too. Hold your chili for a bit. So, I think in that sense we have to give the credit where it is due. That's why, for example, when it comes to eradicating hardcore poverty, right. When the PM said hardcore poverty has been eliminated, it's because we really went through each record one by one, and for those still recorded as hardcore poor, we checked whether they had actually crossed the poverty line. And we have to use one standard. Because everyone will say I'm struggling, I'm. it's quite relative, right? So the standard is the one used worldwide, and even the previous government used the same standard. Meaning if your household income is below RM2,000, you're in hardcore poverty. So we went through every state, person by person. Whoever was above, we removed; whoever was truly below, we added money so they could reach it. So in that sense.
+**Rafizi:** So I think in that sense, I think we have to give the credit where it is due.
 
-**Salim Iskandar:** It's getting heated, huh? Added money from what, STR?
+**Salim Iskandar:** That's why, for example, when it comes to eradicating extreme poverty, right?
 
-**Rafizi:** From STR, from what's it called, ICU. To raise them above RM2,000 a month. So that happened. But yes, okay. That's why I say we need to look group by group, it's relative. So we focus on that first. Then, same with the diesel story. I understand, some people use a bit more fuel because of their economic activity or their travel might be more. Some people use a bit less. So to set policy, to decide how much to give, we have to take the national average data. And according to the data, diesel usage of 200 is the average rate used by a typical family. So it's true there will be those who use a bit more, a bit higher. But there are also others, for example, who don't use that much, they get 200. Meaning that family actually gets extra on top. That one, however you spin it Salim, there will always be differences.
+**Rafizi:** When the PM said that extreme poverty has been eradicated, because we go through each one in the records and those still in the records are said to be extremely poor, but when we check whether they have actually moved above the poverty line we have to use one standard.
 
-**Salim Iskandar:** Their journey is far, yes yes. There will be truth to that, I don't deny it, yes. But the majority, if we work normally, going to and from work using diesel, some of these diesel cars really do fill up once a week, that's quite common. I'm talking about the lowest range here, right? There are those who deliver goods and such, maybe they use even more. So this is where the problem lies. That's why, as I said, I'm not against the idea, but not at the moment.
+**Salim Iskandar:** Because everyone will say I'm struggling, you know, it's quite relative.
 
-**Rafizi:** No, okay. You see.
+**Rafizi:** So the standard is the standard used throughout the world and before this the government also used the same standard. Meaning that if household income is below 2000, you are extremely poor. So we have gone through each state. Those above we removed. Those really below we added money so they could benefit. So in that sense.
 
-**Salim Iskandar:** You should wait until, sir.
+**Salim Iskandar:** More money from which aspect of STR?
 
-**Rafizi:** When? Let me ask you when? When you say you should wait, until when?
+**Rafizi:** From STR, from ICU, if we were to raise it beyond RM2000 per month. So that does happen. That's why I say we need to look at group by group relatively. So we should focus on that first. Then the diesel situation is the same. I understand that some people use fuel less because their economic activity or their travel might be less. Some people use less. So when we make policy, we want to set how much we want to give, that's why we need to take average data for the country. And according to the data, diesel fuel usage of 200 is the average rate used by regular families. So it's true there will be some who use less, they're a bit higher. But there are also other people who for example don't use that much, they get 200.
 
-**Salim Iskandar:** Wait. We have a problem now with our economy, okay?
+**Salim Iskandar:** What I mean is families like that actually get additional on top of it. That one, whichever way you turn it, Salim, there will definitely be some. There will be, correct. I don't deny it. Yes. But for the majority, if we work normally, if we go back and forth from work and all, using diesel, certain diesel cars filling up once a week is quite common. I'm saying that's the lowest. Some who go deliver goods and all might use more. So this is where it becomes a problem. That's why as I said, I'm not against the idea, but not at the moment. No, okay. You should wait.
 
-**Rafizi:** Okay, it's connected to the economy. So that's why I want to ask back, when you say we should wait, wait until when?
+**Rafizi:** When? Let me ask you: when did he say you should wait until?
+
+**Salim Iskandar:** We have a problem now with our economy. Okay, ah, it's related to the economy.
+
+**Rafizi:** So that's why I want to ask back. When did he say we should wait until when?
 
 **Salim Iskandar:** I want to ask YB Rafizi.
 
-**Rafizi:** No, I'm asking you. You answer first, until when.
+**Rafizi:** But I was asking you first, you answer: until when?
 
-**Salim Iskandar:** Okay, you have to wait until we're okay. How do we get to be okay? How do we get to be okay? How do we get to be okay?
+**Salim Iskandar:** Okay, you need to wait until we're okay. How will we be okay?
 
-**Rafizi:** Okay okay okay okay. Okay, do you want to answer first or should I answer first?
+**Rafizi:** How will we be okay? Do you answer first or do I answer first?
 
-**Salim Iskandar:** Never mind, you answer first.
+**Salim Iskandar:** Can't, let you answer.
 
-**Rafizi:** Okay, okay. So that's precisely the problem, right. Successive governments have kept saying we need to wait until it's okay, wait until it's okay. Actually, the country's situation keeps getting worse over time, and with that trajectory, we'll never be okay. And what the government wants to do through targeting subsidies to the people is actually connected to strengthening the country's economy. Because right now subsidies have reached 52-55 billion a year. Isn't it better, exactly as you say, since many families are struggling right now. And we also know, one, that diesel gets smuggled. There's a lot of, what's it called, smuggling. There are many industries in this country that shouldn't get it but take it. Then for RON95, we know that wealthier families, T20, upper M40, actually have more cars and use more fuel. So the total subsidy amount goes more to people who actually don't even need that subsidy, compared to people at the bottom. For example, if someone only has a motorcycle, they get very little a month. But the government still spends 52 to 55 billion. Isn't it better to take that money and redirect it to families who are more deserving? Okay yes. So by doing that, one, not only can we redirect it and they'll get more. Second, that will improve the country's economy which will further boost the economy because we'll reduce debt. And at the same time.
+**Rafizi:** So that's precisely the problem, right? Successive governments keep saying that we need to wait for it to be okay, wait for it to be okay. Actually the country's situation is getting worse over time and with those projections, we'll never be okay. And what the government wants to do through targeted subsidies to the people is actually related to strengthening the country's economy. Because now subsidies have reached 52, 55 billion per year. Isn't that better? It's precisely as you say, because many families are struggling now. And we also already know, one thing: if diesel leaks, there's a lot of smuggling, there's a lot in this country—industries that shouldn't get it but they take it anyway. Then if RON 95, we know families who are more well-off—T20 or M40—actually they have more cars, they use more. So the amount of subsidy goes more to people who actually don't even need the subsidy compared to the people at the bottom. For example if someone only has a motorcycle, they only get a certain amount per month. But the government still spends 52 to 55 billion. Isn't it better to take that money and redirect it to families who are more deserving? Okay. So by doing this, one thing is not only can we redirect it and those people will get more. Secondly it will improve the country's economy which will further stimulate the economy because we will reduce debt.
 
-**Salim Iskandar:** What's boosted, YB? Sorry YB, I have to cut in. Okay, yes, I'm the spicy one, right? I really can't help it, I must add some spice. Okay, let's talk about boosting. Then suddenly we see now, when you withdraw subsidies, meaning their income has started, yes, because there's some who are okay, some who are not okay, right? Okay fine. And I see that the economic boost right now comes back to people spending. Right now I see people are more afraid to spend. They, if you look at mamak shops or whatever, as an indicator, because usually if you just go, you just look. The economy is different from data. It also looks at what's happening at the ground level. Okay, so if we look at the spending of the people, they are more careful now. Many people go to shopping malls, full, yes true, I don't deny it, yes. Shopping malls on weekends when we go, they're full, but that's more window shopping.
+**Salim Iskandar:** What do you mean by stimulate, YB? I apologize, YB. I had to interrupt. Okay, let me be frank. I really can't, I have to be frank. Okay, let's talk about stimulating the economy. Then suddenly we see now, ah, when you remove the subsidy, it means those people's income will start—because some are okay, some are not okay, right? Okay, fine. And I see the economy stimulating now, it keeps coming back to how people spend. Now I see people are more afraid to spend. If you look at mamak stalls or whatever, it's an indicator because usually if you just go, you just see the economy is different from the data. You also see what's happening at the ground level. So when we look at the spending of the people, they are more careful now. Many people go to shopping complexes and they're full. Yes, correct, I don't deny it. Shopping complexes when it's the weekend they're full. But that's more window shopping.
 
-**Rafizi:** Okay. Okay, then let me ask you this, Salim. If you say all this data, the economy isn't just data, can't just be calculated, we need to look at our problem, if we look around us, we're only within the circle of people around us. Even if the people around us represent all layers of society, that still doesn't give the full picture of the economy. Moreover, it's impossible for us to know everyone, and there will be sampling bias. Okay, that's why in the end whatever we say, we have to rely on official economic reporting done according to international standards, used by the whole world, not something we just made up. So okay, so when you say when we see people spending less, actually that's not the same as economic output. Economic output, for example when it grew 4.3 percent in the first quarter, the largest contributor to that economic growth was consumption. People's spending, not investment and so on. So there's no correlation, for example, we see we feel people are spending less, whereas the economic shops whose data is collected from all of these shows that spending remains robust. So which one, if you were the government, which one would you go by? Listen to what Salim says with four or five people, or listen using data that shows spending remains robust and that's what's driving the economy? That's why, if we redirect subsidies, one, it will, what's it called, allow those under pressure to get extra money.
+**Rafizi:** Okay. Then let me ask you this, Salim. If you say all this data about the economy is not data, can't be calculated. We need to look at our problem, if we look around us, we're only in the circle of people around us. Even if the people around us represent all strata of society. That still doesn't give us a complete picture of the economy. Moreover we can't possibly know everyone and there will be sampling bias. Okay, that's why in the end whatever we say, we need to rely on the official reports of the country's economy made according to international standards. The whole world uses this.
 
-**Salim Iskandar:** True. But. If. Okay. This "extra" I've been hearing from you saying you'll redirect the subsidy there and so on. Okay, sure, I represent four or five people, let's say. Sure, we'll just take it as that. I only represent four or five people, but in my group I have 7,000 people. I run Cili Kasi Taruk. And we.
+**Salim Iskandar:** Okay, fine. It's not that we're trying to be clever. But. So okay.
 
-**Rafizi:** But that group has sampling bias Salim, meaning everyone in it is basically like-minded like you. It doesn't represent the whole silent majority.
+**Rafizi:** So when you say when we see people spending less actually, that's not the same as economic results. Economic results when for example it grows in the first quarter 4.3%, right? The largest part that contributes to economic growth is consumption, people's spending. It's not investment and so on. So there's no correlation for example when we see, ah, we feel people are spending less. Whereas economic outlets whose data is collected from all of this show that spending remains buoyant.
 
-**Salim Iskandar:** Sampling bias. True, true. But that's one group. I'm also on X, I'm also on Facebook, I'm also on YouTube, I use all platforms. All platforms I use, when I go live I do it on all of them. So mostly what happens when they're struggling or whatever, they'll come and complain. They'll complain about the difficulties they're facing now and so on. If it's one or two people, fine, because with our network we'll go check it out, maybe there's someone in Johor, Melaka and so on. Go check what the problem is, is this true? Because we've been fooled before. Some people pretend. So what do we do? Go check, look properly, really see they're struggling, okay. If we're talking about the poverty line of 2,000, meaning there are people earning only 1,500, minimum wage, right. And they have children and so on, so they are facing this problem. So okay, let's say you withdraw the subsidy, you give assistance, even STR now YB, STR isn't given to everyone like the old days YB. It's too strict now, and from that perspective YB, okay if we argue about this, I mean I cannot say that you are right, I'm right also. So.
+**Salim Iskandar:** So, so which one, if you became the government, which one would you hold to? Do you want to listen to what Salim says about 4, 5 people or do you want to use the data showing that spending remains buoyant and that's what drives the economy?
 
-**Rafizi:** No, I can only argue with you based on data. Okay, for example, I know, I know Salim, but you say for example STR now not everyone gets it, not as many get it as before.
+**Rafizi:** That's why, if we redirect the subsidies, one thing is it will allow those who are struggling to get additional money.
 
-**Salim Iskandar:** You are — you are a data man, I'm talking about voices. It's not like that, huh?
+**Salim Iskandar:** This additional money I've been hearing from earlier when YB was saying you would redirect the subsidy over there and all. Okay, so I represent 4, 5 people let's say. So we just take it as that. I represent just 4, 5 people. In my group there are 7000 people. I'm being frank about this.
 
-**Rafizi:** No. When BR1M first started, there were only about 6 million people. Now STR recipients number 10 million.
+**Rafizi:** And— But that group has sampling bias, Salim. Sampling bias. Which means they all think alike like you.
 
-**Salim Iskandar:** They did?
+**Salim Iskandar:** Correct. They don't represent the entire silent majority. But that's one group. I'm also on X. I'm also on Facebook. I'm also on YouTube. I'm also on, I use all platforms. All platforms I use. When I do live streams, I do all. So mostly what happens when people are struggling or whatever, they come to complain. They complain that they're facing difficulties now and all. If it's one or two people it's okay because our network we'll send them to go check. Maybe somewhere in Johor, Melaka or wherever. Go check what the problem really is. Because we've been fooled before. Some pretend. So what do we do? Go check. See that they're really struggling. Okay. If we talk about below the poverty line of 2000, that means to say some are only making 1000 and a half in salary. So minimum payment. So and they have children and all. So they are facing this problem. So okay, say you remove the subsidy, you give assistance. Even STR now, YB. STR is not something everyone gets like in the past, YB. It's too strict. And on that aspect, YB, okay. If we argue this thing, I mean I cannot say that you are right, I'm right also.
 
-**Rafizi:** So how can we say.
+**Rafizi:** So that—I can only argue with you based on data.
 
-**Salim Iskandar:** You are — that's why your data is very, I'm a bit shocked.
+**Salim Iskandar:** You are. Okay, example, examples.
 
-**Rafizi:** No, that's audited data. The same data prepared by the same group, government officers, from Datuk Seri Najib's time until now.
+**Rafizi:** I'm talking about what's happening. I know, I know, Salim. But you say for example STR now, not everyone gets it, not many get it like before. It's not like that.
 
-**Salim Iskandar:** What is the rate of STR paid now?
+**Salim Iskandar:** No.
 
-**Rafizi:** Higher than before.
+**Rafizi:** When BRIM first started there were about 6 million people. Now STR recipients are 10 million. So how can we say that.
 
-**Salim Iskandar:** On average? How much?
+**Salim Iskandar:** You are. That's why your data is very, I'm very a bit shocked.
 
-**Rafizi:** Well, it has categories for a whole year.
+**Rafizi:** No, that is audited data. The same data provided by the same group of government officials from the time of Datuk Seri Najib until now. What is the rate of STR paid now?
 
-**Salim Iskandar:** One per family? Okay, how many categories does it have?
+**Salim Iskandar:** Higher than before. How much?
 
-**Rafizi:** That's even more so, right. When it increased from 6 million before to 10 million recipients now, and because STR is given to each individual, sometimes two or three people in one household receive it within one family. And STR has been increased, I think for the poorest family they can get up to 6,000.
+**Rafizi:** It, if 1 year it has categories.
 
-**Salim Iskandar:** Sorry YB, I've heard from people who received BR1M, okay, from Najib's time they received it, now some receive 250, 450.
+**Salim Iskandar:** 1 per per family, ha okay. How many categories does it have?
 
-**Rafizi:** Please Google it, please Google it. In Datuk Seri Najib's time, how many times a year was BR1M given?
+**Rafizi:** That's even more right. When it increased from before 6 million now to 10 million recipients right. And because STR is given to each individual, sometimes 1 household has 2 3 people getting it in 1 family. And STR has been increased, I think if one family is the poorest, they can get up to 6000.
 
-**Salim Iskandar:** Yes. Once.
+**Salim Iskandar:** Sorry, YB. I hear from people who got BRIM this and everything. Okay, from back in Najib's time they got it, now some are getting 250, 400 500. Please Google it. Please Google it. Back in Datuk Seri Najib's time, how many times a year did BRIM come? Once a year. Only once was it given.
 
-**Rafizi:** Once a year, now how many times? How many times now? Four!
+**Rafizi:** How many times now? How many times now? 4. 4.
 
-**Haziq:** Four.
+**Haziq:** 4 times it was distributed.
 
-**Salim Iskandar:** Four times, split up.
+**Rafizi:** How is that? Ha, please Google STR how much now. It's actually more now. Only I'm not saying all of this is okay, Salim, because we know that prices are indeed higher now compared to before. We also know that especially the last 3 4 years, during Covid times, the inflation increase we inherited was higher in years 21, 22 towards 23. So when prices go up, they stay there. So I'm not saying that actually everything is okay.
 
-**Rafizi:** See how it is? Please Google how much BR1M is now. It's actually more now. I'm not saying everything is okay, Salim, because we know that the price of goods is indeed higher now compared to before. We also know that especially 3-4 years ago, during the COVID era, the inflation increase we inherited was higher, around 2021, 2022 into 2023. So when prices of goods go up, they stay there. So I'm not saying everything is okay, but to say it's all been cut, that's not true either, right?
+**Salim Iskandar:** But if you want to say it was cut, all of that is not correct. Not correct. Right. So okay. I mean I have to accept also, right? So if we let this happen, we have to accept it. Okay, so it's fine. We are talking about data and but one thing you have to know that the rakyat.
 
-**Salim Iskandar:** Yes. Understood. So okay, I mean I have to accept that too, right? So if we do this we have to accept it, okay. So it's fine, we're talking about data, but one thing you have to know is that the rakyat, they are facing.
+**Rafizi:** No, I never, I never rejected that. That's why for example, when we plan and this has some things that are painful for us to do right. Before this, the previous administration's approach looked purely at giving blanket subsidies to maintain prices, but they didn't want to talk about wages and income. Now we say we need to do both, and this subsidy has already reached the level of oil subsidy alone about 55 billion. Add STR, add other subsidies, add LPG, add electricity, it reaches 80 billion. That's why we want to target it because if blanket subsidy style before, people definitely say okay, at least prices don't go up supposedly right. But this 80 billion mostly goes to companies. Better to redirect it so it goes into people's pockets every month. That's it.
 
-**Rafizi:** No, I never denied that. That's why, for example, when we plan, there are several things that are, yes, painful for us to do, right. If previously, the previous administration's approach only looked at giving blanket subsidies to maintain prices, but didn't want to talk about wages and income. Now we say we need to do both, and this subsidy has already reached the level where just fuel subsidy alone is about 55 billion, plus STR, plus other subsidies, plus LPG, plus electricity, it reaches 80 billion. That's why we want to target it, because with the previous blanket subsidy style, people would say, "Okay, at least prices don't rise supposedly, right." But 80 billion of that goes a lot to companies. Better to redirect it so it goes into the people's pockets every month. That one, yes, huh?
+**Salim Iskandar:** By using STR.
 
-**Salim Iskandar:** Not through STR.
+**Rafizi:** If you look, our diesel we actually give every month 200, 200, 200 right. So what?
 
-**Rafizi:** If you look, diesel we really give every month, 200, 200, 200, right? So what.
+**Salim Iskandar:** But not everyone is eligible to get it, YB.
 
-**Salim Iskandar:** But not everyone gets it, YB.
+**Rafizi:** Right, whoever doesn't have diesel, unless you Tuan Ibrahim Tuan Man rides a motorcycle using diesel. If there's none, if there's no diesel, you can't get it.
 
-**Rafizi:** Well, whoever doesn't have diesel, unless Tuan Ibrahim Tuan Man rides a motorcycle using diesel. If you don't have diesel, you don't get it. Unless you have a car.
+**Salim Iskandar:** Okay. Unless there's a car. I want to ask.
 
-**Salim Iskandar:** They don't get it. They don't get it. Okay, I want to ask.
+**Rafizi:** Haven't found Google STR yet. Never mind. That's the problem. If you can't find it even on Google, never mind.
 
-**Rafizi:** Haven't found the STR Google search yet?
+**Salim Iskandar:** It's okay. Times.
 
-**Salim Iskandar:** Never mind. That's the problem with it. If Google can't even find it, never mind. It's okay.
+**Haziq:** Right, these times now 4 times. Back in Najib's era it was less than, but we're searching.
 
-**Haziq:** True, nowadays it's four times. In Najib's time it was less, but we're still looking.
+**Salim Iskandar:** Yes, never mind. Okay, fine. It's okay because now we're going back and forth on what its name is. Not okay, wait a moment there right.
 
-**Salim Iskandar:** Yes, never mind. Okay, fine. It's okay because now we keep coming back to what's it called.
+**Rafizi:** One other thing that is very different that we're doing now is we want to raise salaries. That's why our civil servants we've already settled. The PM will announce. We're now doing a pilot project for a progressive wage policy for private sector workers in the salary range of 2000 to 5000. Because if we focus purely on controlling prices right, we have to spend up to 80 billion, one third of the country's spending just to maintain, but salaries don't go up. It's not the same, it doesn't work either. So in that regard.
 
-**Rafizi:** No worries, okay. Wait a moment, earlier, one more thing that's very different that we're doing now is we want to raise wages. That's why for civil servants we've already settled it, the PM will announce it. We're now running a pilot project for the progressive wage policy for private sector workers in the salary range of 2,000 to 5,000. Because if we focus solely on controlling prices, right, having to spend up to 80 billion, 1/3 of the country's expenditure just to maintain it, but wages don't rise. It doesn't add up, it doesn't work either. So from that perspective.
+**Salim Iskandar:** He wants to raise civil servant salaries.
 
-**Salim Iskandar:** You want to raise civil servants' salaries?
+**Rafizi:** Civil servants have definitely had the decision made and it will be announced during budget. But I want to ask you. Has there been a government before this that gave focus to private sector workers above the minimum wage? Because now minimum wage alone doesn't help the people much. Not just because of 1000 half, because what's high in minimum wage is foreign workers. Because the 3.5 million registered are foreign workers. They're the ones doing the lower-level work and they're the ones who get the most minimum wage. Our workers are a bit above minimum wage. But when minimum wage goes up, up, up, the company raises this one. This one, Malaysian people don't go up. That's why we see a large portion of our people's salary below 3000. And we're doing a pilot project for a progressive wage policy so we can see how everything goes, with the hope that after this when we have and implement it comprehensively, private sector workers whose salary is between 2000 to 5000 can also increase their salary periodically, only then can it match.
 
-**Rafizi:** For civil servants, the decision has already been made and it will be announced during the budget.
+**Salim Iskandar:** When you're planning to do that? I can't argue now because YB says they are planning.
 
-**Salim Iskandar:** Already? Can it? During the budget?
+**Rafizi:** No, no, no. The pilot project is happening now.
 
-**Rafizi:** But let me ask you, has there ever been a government before this that focused on private sector workers above minimum wage? Because right now minimum wage alone doesn't really help the people much. Not just because it's 1,500, because a lot of minimum wage earners are foreign workers. Because of the 3.5 million registered, they are foreign workers. They do the work at the bottom, and they are the ones who get minimum wage the most. Our workers are a little above minimum wage, but when minimum wage keeps rising, companies raise that level, and this level, this is where Malaysians don't get raised. That's why we see a large portion of our people earn below 3,000. And we're running this pilot project for the progressive wage policy to see how it all works, with the hope that after this, once we have it and implement it fully, private sector workers earning between 2,000 to 5,000 can also get periodic pay raises, only then can they balance out.
+**Salim Iskandar:** Is happening. Okay. So the pilot project.
 
-**Salim Iskandar:** 1,500 isn't enough. When you're planning to do that? I can't argue now because YB says they are planning. So it's not.
+**Rafizi:** How long will we see? The pilot project will be completed September 2024. And based on the findings from that pilot project, that gives enough evidence for us to design to scale up to more people. Starting 20-25 and above. Okay. But let me ask this question. With all that we've been talking about here right, has PN ever talked about wanting to raise people's salaries? If I ask, let's say I sit there, Muhyiddin Yassin sits here.
 
-**Rafizi:** No no no, the pilot project is happening right now.
+**Salim Iskandar:** If I ask Muhyiddin Yassin, actually with you talking about people standing up, everyone knows the situation is difficult. You ask a very wrong question, a very wrong person. I'm sorry. If I say today's government has failed, I also say the opposition is the weakest. Both are the same.
 
-**Salim Iskandar:** Happening now, okay. So how long until we'll see it?
+**Rafizi:** Can we shake hands, Salim? Can we shake hands? We can shake hands.
 
-**Rafizi:** The pilot project will be completed by September 2024. And based on the findings from the pilot project, that will give us enough evidence to design a scale-up to more people starting 2025 onwards. But let me ask this question. With everything we've been talking about, has PN ever talked about raising the people's wages? If I asked, let's say I'm sitting there, Muhyiddin Yassin sitting here. If I asked Muhyiddin Yassin, actually with you talking about the people suffering, everyone knows the situation is hard.
+**Salim Iskandar:** Okay, I mean, you know, so I'm I'm being fair because everyone knows I'm the strongest one criticizing Muhyiddin because you tell many stories. You doesn't show anything, I mean what everything. So I must be fair. Okay, I must be fair because I'm fighting for the people. Our main goal, the government is also fighting for the people.
 
-**Salim Iskandar:** Okay. You're asking a very wrong question to a very wrong person. I'm sorry about that. If I say the government today has failed, I also say the opposition is weak and stuck. Both are the same.
+**Speaker ?:** True.
 
-**Rafizi:** Can we shake hands, Salim? Can we shake hands? Let's shake hands.
+**Salim Iskandar:** But we want to see the result, okay. We don't want to blame say everything what all of this. Just Anwar this, I'm sorry YBM. Dato' Sri Anwar don't be angry Ah, okay. You see how he is.
 
-**Salim Iskandar:** Okay, I mean, you know, sir, I'm being fair because everyone knows I'm the one who hits Muhyiddin the hardest because you talk a lot, you don't show anything, and so on. So I must be fair. Okay, I must be fair because I'm fighting for the people. Okay, our main goal, the government is also fighting for the people, but we want to see the result, okay? We don't want to blame everything on this and that. It's just Anwar, I'm sorry YB. Datuk Seri Anwar, please don't be angry. Okay, that's just how he is, you know.
+**Rafizi:** He's cute doing like this.
 
-**Rafizi:** Fair enough, fair enough. True. Yes. He's being cute doing that.
+**Salim Iskandar:** Ha, you, you talk less, work more, boss. Nah, talk less work more because why? Sometimes when we talk like this, we talk, talk, I repeat, I repeat. YB is angry he says I'm silly. This silly is for you this right. So you know, I mean, I mean, I mean, you know, this this kind of thing will happen. So you know, we've seen a lot already and talking about investors and everything. So YB, I don't blame you, YB. Like I said just now.
 
-**Salim Iskandar:** Talk less, work more, boss. That's it, talk less, work more, because why? Sometimes when we talk, we talk and talk, "I repeat! I repeat!" YB will get angry later, saying I'm foolish. Well, foolish, wait and see, right? So you know, I mean, this kind of thing will happen. So you know, we've seen a lot already and talking about investors and all that. So YB, I'm not blaming you YB, like I said just now.
+**Rafizi:** No, it's okay to blame me. I sign up for the job.
 
-**Rafizi:** No, it's okay to blame me, I'm hired for the job.
+**Haziq:** Of course. But then again, we want to see the leader.
 
-**Salim Iskandar:** Of course, but then again, we want to see the leader. So that's why I said, sorry if I go into detail, YB already understands, YB is planning something. So we'll see, if not, we'll come back and talk to you again YB, okay?
+**Salim Iskandar:** So that's why I'm saying, sorry yeah. As for me, if we want to go into all the details, YB already understands. YB is planning something. So we will see. If not, later we'll come and shut it down again, right YB? You bring, you bring the real chili. Really play with chili later. Neat. Can. Because right now, even if we talk a lot, it's because YB is in the plan doing that. There is a plan for when it will be pulled.
 
-**Rafizi:** Make sure you bring the right chili with it.
+**Rafizi:** Just that, okay? I want to give their perspective, right Salim? Okay, when we first came into office about 14, 15 months ago, back then it wasn't just ordinary people. The world was asking, analysts were asking, okay, what is the government's economic plan like this and that, right? At that time when we launched them one by one, from energy transition, then NIMP, then fiscal consolidation. Of course, in 2023 the impact wasn't visible. Now, after about 15 months, that impact can be seen. Bursa is currently rising, and Insya-Allah towards the end of this year, based on projections, it can surpass 1,700. The last time we hit 1,700 was during Covid because of gloves. But before that, it was really hard to pass 1,700, 1,800. If we look at the past two or three days, international firms started flagging up that Malaysia is the place for investors to come in. The last time this happened was 6 years ago, where this upgrading happened. So meaning, of course we had to focus on the big economy first in the beginning. Now that we've gained that confidence and economic growth is good, that's why we will ensure that other policies like the progressive wage policy, that trickle effect reaches the rakyat through wages and so on. But it cannot happen immediately. It takes a little bit of time.
 
-**Salim Iskandar:** The right chili it will be, okay, all right, cool. Okay, because now even if we talk a lot, YB is in the plan, doing that. He has a plan for when to withdraw subsidies.
+**Salim Iskandar:** But I beg to pardon, YB, with all due respect. You know, I don't see anything at all. I might be someone who is dense, foolish, lacking in smarts. But, but I feel I don't see anything, and what we see today is just rising material costs, rising electricity costs. YB, this electricity hike is crazy, YB. Me myself, YB. From the way it kept climbing, climbing, climbing sharply until, "are you crazy or what, YB?" Our consumption is getting lower because we don't use many accounts anymore. Now we are scared, scared. And then the children are getting bigger, married, and have migrated out. So we're just left playing golf at home, nothing much to do, right, because there are no small children around anymore. So the ones who are big are big, the small ones are smaller. But that power hike is driving us crazy. What's most frightening, the thing we fear the most, YB, is TNB. Now the story is like this, for example, right? Now we see the rakyat—YB has to accept this, that we're going to roast Martin, we're going to roast him. Suddenly a story comes out, okay, oh, there's leakage happening at the border here, billions are lost, you see. So we feel like this, we can't do anything. Our solution is to pull and raise it up to here. That's already done for diesel. Suddenly Ron 95 comes out, oh, close. Close to what, what is it called, Ron 95 border is being raided with billions. Then the latest news comes out, just these past 2 or 3 days. TNB lost 3 billion. Why? Because do you know that Bitcoin is stealing electricity? TNB, if Bitcoin is stealing electricity, surely you're not going to blame Rafizi. You're TNB, for goodness' sake. You have to do your job and then you have to make sure you have your officers enough. If you cannot, you work with the enforcement. You go and find out where this leakage is happening. Come on, YB. What data can you not look at, everything?
 
-**Rafizi:** Just, okay, I want to give you the perspective, Salim. Okay, early on when we came into office, about 14-15 months ago. At that time, not just ordinary people, the world too asked, analysts too asked, "Okay, what's the government's economic plan, this and that?" At that time, when we launched one by one — the energy transition, then NIMP, then fiscal consolidation. Indeed in 2023 the effects weren't visible yet. Now after about 15 months, the effects are showing. The Bursa is now rising and insya-Allah by the end of this year, if the projections hold, it could pass 1,700. The last time we hit 1,700 was during COVID because of gloves. But before that, it was really hard to pass 1,700, 1,800. If you look at the past two or three days, international firms have started flagging that Malaysia is a place for investors to come in. The last time this happened — this kind of upgrading — was 6 years ago. So that means, we did need to focus early on the bigger economy first. Now that confidence has been gained, economic growth is good, that's why we'll ensure policies like progressive wages and others have a trickle-down effect that reaches the people through wages and so on. But it can't happen instantly, it takes a bit of time.
+**Rafizi:** It's quite cute, right? But the restructuring of the electricity subsidy actually took place starting January 2023. It has nothing to do with Bitcoin theft or whatever, and TNB is just making a big show out of it. And actually, the majority of households use electricity below 1,000 kilowatts and they didn't experience any electricity changes. But when it reaches 1,000 to 1,500, 1,500 and above, of course, because it's like this, Salim. If they have 5 aircons—though not 5 aircons running, for example, right?
 
-**Salim Iskandar:** Yes. Yes, but I'm sorry to say YB, with all due respect, you know, I don't see anything at all. I'm sorry. Maybe I'm someone who's slow, foolish, not very smart.
+**Salim Iskandar:** Not 5 aircons running. Say, 3 aircons running in one night.
 
-**Rafizi:** Quite cute, actually.
+**Rafizi:** Yeah, 3 aircons. 3 aircons.
 
-**Salim Iskandar:** But but I feel I don't see it, and what we see today is a rise in goods prices, a rise in electricity. YB, the electricity increase is crazy YB. Myself, YB, from it rising and rising sharply, like, are you guys crazy or what? But our consumption is getting lower because we don't use the aircon much anymore, we're scared now, scared. Then the kids have grown up too, gotten married, moved out. So we're just left playing golf at home, nothing to do, right? Because when there are young kids and all that. So the grown ones are grown, the small ones are still small. But the electricity bill increase is crazy, okay. What scares me most, what scares us most YB — TNB now, the story goes like this, for example, for example. Now we see, YB, the people have to accept this — "Yang Bakar Menteri" (the Minister who gets burned), we want to burn this. Suddenly a story comes out: "Okay, there's leakage happening at the border, we're losing billions." Right? So we become like this, we can't do anything, our solution is to raise and withdraw subsidies. That was for diesel, already done. Suddenly it comes out, RON95 too! At the border, whatever it's called, RON95 is being smuggled out worth billions. Okay, then the latest news comes, just two three days ago. TNB lost 3 billion because of what? Because you know what? Bitcoin miners stealing electricity. Hey TNB, if Bitcoin miners steal electricity, surely you can't blame Rafizi? Isn't that on you, TNB? You have to do your job and then you have to make sure you have enough officers, if you can't, you work with enforcement, you go and find where the leakage is happening. Come on YB, if you can look at the data now.
+**Salim Iskandar:** 1 horsepower and all that. I checked with TNB and all. How much roughly, more or less calculated and all? They said if 3 aircons and all, it might be in the range of a few hundred, right? A few hundred you'll pay. But sometimes the electricity bill comes, if the government wants to look handsome, give—don't make TNB happy. You have to do something about TNB. Because why? I'm telling you, sir. Because TNB actually, you know. No, it's—it's not TNB, Salim.
 
-**Rafizi:** No, but the retargeting of electricity subsidies happened starting from January 2023, it has nothing to do with the Bitcoin theft or whatever. And.
+**Rafizi:** It's actually the government subsidy. Let me paint the picture for you, right. When we came in in December 2022, right?
 
-**Salim Iskandar:** TNB is putting on too much of a show.
+**Salim Iskandar:** In January, Anwar already pulled back 20 sen and raised it.
 
-**Rafizi:** And actually the majority of households use electricity below 1,000 kilowatts and they haven't seen any change in their electricity bill. But once you get to 1,000 to 1,500, 1,500 and above, it's really because — you see, it's like this, Salim. If you run five aircon units.
+**Rafizi:** Okay. No, actually that was a joint decision, right? People don't actually know that the electricity subsidy had reached—if we didn't do something, it could reach 15 to 17 billion a year.
 
-**Salim Iskandar:** I don't run five aircons. Okay, for example. Not five aircons running, say one night three aircons running. Okay?
+**Salim Iskandar:** Oh, YB just found out?
 
-**Rafizi:** Yeah, three aircons, three aircons.
+**Rafizi:** No, no, I'm telling you. Oh, YB just found out? Wait, wait. Now I'll reverse a bit.
 
-**Salim Iskandar:** Three aircons. 1 horsepower and all, I checked with TNB and everything. Roughly calculating and all. They said if it's three aircons and such, it's probably in the range of a few hundred, a few hundred you'll pay. But sometimes the electricity bill comes and if the government wants to look good, don't make TNB happy about this. You have to do something about TNB because why? I'm telling you sir, because TNB really, you know.
-
-**Rafizi:** No, it's not TNB, Salim, it's actually the government subsidy. Okay, let me give you the picture. When we came in, in December 2022.
-
-**Salim Iskandar:** In January, Anwar already pulled 20 sen there.
-
-**Rafizi:** Okay. No, actually that was a joint decision. People don't actually know the electricity subsidy had already reached — if we hadn't done something — it could have reached 15 to 17 billion a year.
-
-**Salim Iskandar:** Oh, YB only just found out?
-
-**Rafizi:** No no, I'm telling you this.
-
-**Salim Iskandar:** Okay wait, wait a second. Now let me reverse a bit. YB once told me — I want to grill YB here. YB, go ahead, you said I'm cute, so I want to grill you. Let's take this — YB just became government 15 months ago, right? 15 months, how many months? 15 months?
+**Salim Iskandar:** YB gave it to me. I want to roast YB. You go ahead, YB. You said I'm cute, I want to roast you. Alright. Let's take this. YB has only been the government for 15 months, right? How many months? 5 months?
 
 **Rafizi:** About 20 already.
 
-**Salim Iskandar:** 20 months already, more than a year already. Okay, more than a year, 20 months already, okay. Now let's pull it back. "I repeat, today it goes up, tomorrow the price of oil goes down." One, okay. Then, "Our country is a rich country, things like fuel, water, and so on shouldn't be this expensive. We." I'm not saying this is you YB, I'm saying someone else said it. I won't mention the name or I'll get arrested. Okay, so when he said that, you overpromised, you said we would abolish PTPTN.
+**Salim Iskandar:** 20 months already. More than a year. More than a year. 20 months already. Now we pull it back to go—I'm eating *ulam*. Today I go up, tomorrow the corpse comes down. After that, our country is a rich country. Supposedly electricity, water, what's it called, all these shouldn't be that expensive.
 
-**Rafizi:** No, actually he didn't overpromise, okay. Why.
+**Haziq:** We—I'm not saying this, YB.
 
-**Salim Iskandar:** You overclaimed.
+**Salim Iskandar:** I'm saying someone else is. I don't want to mention names or I'll get arrested. So when they say you over-promised, you said we would abolish PTPTN.
 
-**Rafizi:** No. Why — I said the same thing before too. Why, during — yes yes, in fact I know the RON95 fuel formula up to today. Ha.
+**Rafizi:** No, actually it wasn't an over-promise. Why?
 
-**Salim Iskandar:** Oh yes, the formula. What's this that's coming out?
+**Salim Iskandar:** He was lying.
 
-**Rafizi:** Your bone.
+**Rafizi:** No. Why did I mention the exact same thing previously? Why during—oh, the formula. Why, in fact, the Ron 95 petrol formula is mine, up until today.
 
-**Salim Iskandar:** Mine? I just held it and it popped out.
+**Salim Iskandar:** What is coming out now? You don't know, that's why. I'll hold onto this and later everything will come out.
 
-**Rafizi:** Too animated with the hands.
+**Rafizi:** It's up there, it's different. I can explain the matter of petrol and electricity together, right. Back in 2017, 2018, right? At that time, how much was the price of crude oil per barrel? I don't remember, YB, but pity Najib.
 
-**Salim Iskandar:** The table's shaking, that's why, I'm sorry, I'm so sorry.
+**Salim Iskandar:** ABCDGSE.
 
-**Rafizi:** No no, it's up there. Right? It's up there. It's different. Okay, let me explain the fuel and electricity issue together. In 2017, 2018, right? What was the price of crude oil per barrel then?
+**Rafizi:** At that time, it was about 50 dollars a barrel. Yes. Below, right? In the year 2021, how much per barrel?
 
-**Salim Iskandar:** Najib's era. I don't remember but poor Najib. A B C D G S T.
+**Salim Iskandar:** Don't remember, YB.
 
-**Rafizi:** At that time it was around 50 dollars per barrel, or below. In 2021, how much per barrel?
+**Rafizi:** 2020. Ah, about 20, Salim.
 
-**Salim Iskandar:** I don't remember, YB.
+**Salim Iskandar:** Yeah, 20.
 
-**Rafizi:** 2020? About 20, Salim. Okay.
+**Rafizi:** At that time it was right in the middle of Covid and everything. So, crude oil, back in 2015 it plummeted sharply down to around 30.
 
-**Salim Iskandar:** Yes, 20. That was during COVID and all that.
+**Salim Iskandar:** Now what's the price per ton of crude? I'm not really sure.
 
-**Rafizi:** Ha, after COVID and all. So crude oil, in 2015 it dropped sharply to around 30.
+**Rafizi:** Roughly 85 dollars. Okay, let's say in a few months it becomes 40 dollars. So our oil will follow our market. So we are basically the oil will be following the market price. No, not that. We have the APM, Automatic Pricing Mechanism. It's just that if the oil has dropped, that's a good question. Can I answer this back? Not to Salim, but to those shouting outside. I mean it must be fair to you too. So it's like, for example the price of RM2.05 that we have now is the price when crude oil was around 2018, roughly 50 dollars per ton, right? When it fell during 2020 to 2021, it reached 20 dollars per ton. I want to ask you and the people outside, did the oil drop? Ha. Muhyiddin. Why didn't you ask Muhyiddin back then?
 
-**Salim Iskandar:** How much per barrel now, YB? I'm not too smart about this.
+**Salim Iskandar:** Muhyiddin, what were you doing? Sleeping.
 
-**Rafizi:** About 85 dollars.
+**Rafizi:** Ha, when the oil dropped, they didn't complain, you know. When the oil dropped to 20 dollars, 30 dollars per ton, they didn't lower it at all. Got more profit. Ha, you understand, right? The problem is, if the oil price, when we.
 
-**Salim Iskandar:** Okay, let's say in a few months it becomes 40 dollars. So our fuel would follow the market and go down? So we are basically — the fuel price will be following the market price?
+**Salim Iskandar:** But, but.
 
-**Rafizi:** Yes, yes yes yes. No no, not exactly. We have the APM, the Automatic Pricing Mechanism. But if the oil price drops, then — ha, that's a good question. Let me answer this — not to Salim, but to those out there shouting, okay. So it's like, for example, the price of RM2.05 that we have now is the price from when crude oil was around 50 dollars a barrel, around 2018. When it dropped in 2020 to 2021 to 20 dollars a barrel, let me ask you and the people out there — did fuel prices drop?
+**Rafizi:** Ah, I want to answer what I'm repeating, right? Okay, let me repeat. Back then we said if oil is 50 dollars per ton, can we give a little now?
 
-**Salim Iskandar:** Let it be. Never mind, I mean it must be fair to you too. I mean. Yes yes yes. No.
+**Salim Iskandar:** Surely they can't lower it a little because the subsidy itself in 2015 was roughly 1 billion.
 
-**Rafizi:** Ha, Muhyiddin? Why didn't people ask Muhyiddin back then?
+**Rafizi:** 2017 was roughly 5 billion. 2018 was roughly 5, 6 billion, right? Then by 2019, 2020 it was just 500 million, Salim. So back then we said surely you can't take 2, 3 billion to lower prices by 20, 30 cents. Because the price was low. But the problem is by 2022, it had gone up by end of 2022. It had reached 110 dollars per ton. When it became 110 dollars per ton, the subsidy which was from Muhyiddin's time, what should have been 500 million in oil price reductions became 55 billion.
 
-**Salim Iskandar:** Hey, what were you doing? Sleeping?
+**Salim Iskandar:** Okay. Petrol and diesel. Muhyiddin could say, I did that because when it went down I took the profit, right? We took. So when it went up we controlled it back. So Muhyiddin could answer like that. No. Or Muhyiddin would say, my wife wouldn't let me.
 
-**Rafizi:** When oil dropped that time, people didn't make noise, you know. When oil dropped to 20 dollars, 30 dollars a barrel, they didn't lower prices either.
+**Rafizi:** There's nothing left. No more anger, huh? I'm not involved in this wife business, you know. Wife wouldn't let me take the presidency position, boss. So when what's his name, Datuk Seri Anwar, I said we could lower the oil price, that was based on the price at that time of 30, 40, 50 dollars.
 
-**Salim Iskandar:** They pocketed the extra, I suppose.
+**Salim Iskandar:** Back then it wasn't with us, let's say our budget at that time was around 280 billion. Last time he said, in month 7 of 2022, right? Why can't we set the oil price? Because I didn't become Prime Minister, he said, right? This is what Anwar said. Anwar don't get angry, brother. Don't get angry, don't get angry. Okay, he said in month 7 of 2022 during the PKR convention. Okay, he said it like that. Because we didn't become Prime Minister. That's why YB, I'm not angry at YB. I usually, wait YB don't get angry. Bear with it YB, bear with it. This is going to burn. Because when you become a leader, I'm talking about Anwar, Anwar. When you become a leader, I feel like this is how I see it. I'm sorry. This is my view as a Malaysian citizen. I feel that those who are already old should just retire. Let young people like this rise. This is my opinion, you know. I mean I want to see because this bright man.
 
-**Rafizi:** Ha, he understood, right? His problem was, if the oil price at that time when we.
+**Rafizi:** Even more people say cartel.
 
-**Salim Iskandar:** But but there was.
+**Salim Iskandar:** Cartel, you know. That's not a cartel or what.
 
-**Rafizi:** No, this is to answer what I said before. At that time we said, if oil is 50 dollars a barrel, surely you could lower it a little because the subsidy involved — the subsidy in 2015 was about 1 billion. In 2017 it was about 5 billion. 2018 about 5-6 billion. Then by 2019, 2020 it was left at only 500 million, Salim.
+**Rafizi:** But I think we have to be fair to everyone. Of course. I mean.
 
-**Salim Iskandar:** Okay, let me repeat. Could've given a ringgit fifty.
+**Salim Iskandar:** How long are we going to keep doing this?
 
-**Rafizi:** So at that time we said, surely you can take 2-3 billion to lower it by 20-30 sen since the price is low. But the problem is by 2022, it had risen — by the end of 2022 — to 110 dollars a barrel. When it became 110 dollars a barrel, the subsidy that, from Muhyiddin's era, was supposed to lower the fuel price at 500 million, became 55 billion for petrol and diesel.
+**Rafizi:** No, no.
 
-**Salim Iskandar:** Muhyiddin could say, I did it that way because when it was low I took the profit, we took it. So when it rose, we covered it back. So Muhyiddin could answer like that.
+**Salim Iskandar:** Tired, huh? Okay. Let me. Back to Anwar, Muhyiddin. Back to Anwar, Muhyiddin, Anwar.
 
-**Rafizi:** No.
+**Rafizi:** These things are actually a reflection of our society too, right? Our society does need older people for them to trust more. They can become our counselor. Okay, let me ask you, how many of these young leaders have long experience in government?
 
-**Salim Iskandar:** Or Muhyiddin could say, my wife wouldn't allow it.
+**Salim Iskandar:** YB, excuse me. Can I say something? Can I be frank with you?
 
-**Rafizi:** No.
+**Rafizi:** Of course. Okay, fine. Why would I want to chase you away? Yes, that's right.
 
-**Salim Iskandar:** Don't get angry, sorry.
+**Salim Iskandar:** Okay, if I'm going to say.
 
-**Rafizi:** I'm not involved in wife matters. So when Datuk Seri Anwar or I said we could lower the fuel price, that was based on the price then — 30, 40, 50 dollars. At that time, surely, given our budget then was around 280 billion.
+**Rafizi:** If I'm wrong people will file a police report, you're done for. It's not my fault. YB, help me with that, it's on me.
 
-**Salim Iskandar:** Wife wouldn't let him resign, President of PAS. Finally he said in July 2022, right? "Why can't we lower fuel prices? Because I'm not Prime Minister!" he said, right? This is Anwar speaking, sorry sorry Anwar, don't be angry, brother. Don't be angry, don't be angry. Okay, he said this in July 2022 at the PKR Convention, okay. He said it like that, "Because we're not the Prime Minister." That's why YB, I'm not angry at YB. I always — wait YB, don't be angry, be patient YB, patient. This is to grill him. Because when you become leader — I'm telling a story about Anwar, sorry, Anwar. When you become a leader, I feel — in my opinion, sorry, this is my opinion as a Malaysian — I feel the older ones should just retire already. Let the young people like this rise up. This is my opinion, you know. I mean, I want to see it because this guy is bright.
+**Salim Iskandar:** Okay, it's like this. Like we see, we've already seen the long-term stuff like Anwar and all. It's more or less, less or more, similar story about him and all. We want to see some fresh mind. This is what we want because we want to see someone like you, someone like KJ. If you ask, KJ is my good friend too, you know. I mean we're friends, right, but not very close but I know him. So we need this kind of dynamic, what do you call it, a young figure who can drive. Okay, we shouldn't reject the old people, can't do that. We respect them with all due respect. I mean, if you ask me, even though you like it or not, even like people like Tun Mahathir, ah, people like what do you call them, who else is there, Kuli, ah, Kuli or people like Anwar, right? I mean they should play with their grandchildren and then you become an advisor. An advisor is good.
 
-**Rafizi:** Even more so, people call it a cartel.
+**Rafizi:** See, okay. This is my view, right? What is actually the main problem in our society now when it comes to leadership? Is it related to ideas or is the main challenge to unite the society which is actually very polarized. The Malays are Malays.
 
-**Salim Iskandar:** Cartel, you know. Not a cartel, no.
+**Salim Iskandar:** Why, YB?
 
-**Rafizi:** No no, but I think we have to be fair to everyone. I mean.
+**Rafizi:** So that's why, young people, but I'm not really young, I'm already close to 50, right?
 
-**Salim Iskandar:** How long must we keep dealing with Jurassic Park?
+**Salim Iskandar:** How old are you?
 
-**Rafizi:** No no.
+**Rafizi:** I'm 47, going to 40. 47 old? How do you think I'm that old? You look like 25. 25, huh?
 
-**Salim Iskandar:** I'm tired. Back and forth, Anwar, Muhyiddin. Back and forth this, Anwar, Muhyiddin, Anwar.
+**Salim Iskandar:** I just turned 51 three days ago.
 
-**Rafizi:** Okay, let me ask. This is actually a reflection of our society too. Our society really needs older people for them to trust more. How many. Okay, let me ask you, how many young leaders have long experience in government?
+**Rafizi:** 51. So that's young.
 
-**Salim Iskandar:** They can become our counsellor, advisor. YB, forgive me. Can I say something? Can I be frank with you?
+**Salim Iskandar:** So you're young? I'm old. You see, so even I who is 51, I wanted to see someone young.
 
-**Rafizi:** You may, I'm not going to chase you away.
+**Rafizi:** Yeah, but I think at this stage. Are you the same age as KJ or are you younger than KJ? No, I'm younger than KJ. KJ is 48 years old.
 
-**Salim Iskandar:** Yes, right. Okay, if you want to say.
+**Salim Iskandar:** KJ 76, you were—
 
-**Rafizi:** If it's wrong, someone will file a police report against you. Not my fault.
+**Rafizi:** 76, I'm 77. 77 ah, okay. So what do you call it, what is needed now, and okay, you may disagree, but this is how I see it within PKR for example, right? Me and Datuk Seri Anwar, we work well together because I have my advantages in that I'm a technocrat. So, you know, usually with data like this, I understand the market better, right? But there are things I can't do when it comes to leading a country or society. Because I haven't accumulated enough experience yet. For example, to unite everyone—that is something an older person can do better because that is the best, that is the biggest challenge. So that's why this combination now I think is effective for the country.
 
-**Salim Iskandar:** Help me, bail me out. Okay, it's like this. Like we see, we have tested — because we've seen the older ones like Anwar and all, his story is more or less the same too. We want to see some fresh minds. This is what we want because we want to see someone like you, someone like KJ. If you ask me, KJ is my good friend too, you know. I mean we're friends, not close, but we know each other. So we need this kind of dynamic, young figures who can drive things forward. Okay, we shouldn't push away the older ones, we can't. We respect — with all due respect, I mean, whether you like it or not, even someone like Tun Mahathir, people like — who else is senior — Ku Li, Ku Li, or people like Anwar, I mean, they should be playing with their grandchildren and then become advisors. Advisor is good, right?
+**Salim Iskandar:** No. You have people like Datuk Seri Anwar Ibrahim, no sir, that can bring everyone to the table. No sir.
 
-**Rafizi:** That's okay. You see, okay, this is my view. What's actually the main problem in our society now when it comes to leadership? Is it about ideas, or is the main challenge to unite a society that's actually very polarized? The Malays are very Malay, this one is this. So that's why the young people — well I'm not exactly young, I'm nearly 50.
+**Rafizi:** And give space for us young technocrats to focus on technical-related work. Because not everyone can do what he is doing, bringing the whole fragmented society together.
 
-**Salim Iskandar:** Malays are too much sometimes. Why is that YB? How old are you?
+**Salim Iskandar:** Are we not one now?
 
-**Rafizi:** I'm 47, going to 48.
+**Rafizi:** Well, at least we are focused and we. We are not, sir, yes, we have succeeded.
 
-**Salim Iskandar:** 47 is old? What do you think how old I am?
+**Salim Iskandar:** Just now you told me, the Malays still do not. But hang on.
 
-**Rafizi:** You look about 25.
+**Rafizi:** Politically, Salim, we finally managed to bring political stability to this country. Are we? And yeah, of course it's a two-thirds government, whatever we say. The opposition people every day hope the government will fall, that we are not united. But that's not the case.
 
-**Salim Iskandar:** 25,? I just turned 51 three days ago.
+**Salim Iskandar:** But if—
 
-**Rafizi:** Same age as him then.
+**Rafizi:** And that's why investors, the whole economy, everyone is starting to be confident because finally after five years.
 
-**Salim Iskandar:** 51, same age as him. So you're young, I'm old. You see, so even I, at 51, I wanted to see someone young.
+**Salim Iskandar:** Are they really confident? I want to see it, actually. I wanted to see YB—sorry. Because YB said, YB you are the Minister of Economy, you should know about this economy and all that. I don't have the data. You have the data, you see more. But until this thing is realized, until I see many actually coming in, we see of course we know Google has committed how many billions to come in and all that. But until we see the factories built, coming here and all that, right. But as of today, what we see is tomorrow Fahmi says tomorrow we have good news. This is almost Raya. He says we have good news tomorrow. What is this? This good news. Oh, surely he'll give us toll-free or something, right. Maybe he'll say we abolish tolls completely because the subsidy is withdrawn.
 
-**Rafizi:** Yes, but I think at this stage.
+**Rafizi:** I already know what you're going to say.
 
-**Salim Iskandar:** Are you the same age as KJ, or younger than KJ?
+**Salim Iskandar:** Example, example, example, example, right. Then suddenly tomorrow Datuk Seri Anwar Ibrahim arrives in style, right. Who do you want to take this?
 
-**Rafizi:** No, I'm younger than KJ. KJ is 48.
+**Rafizi:** Let the price drop by 3 cents, he says. I said, Oh Allah, my Lord, that is not your job, Mr.
 
-**Salim Iskandar:** KJ is 76, you were.
+**Salim Iskandar:** Prime Minister. I'm so sorry, sir. I mean you're so big, I'm so small, even though my body is bigger, but then again, you know, sir, that's not the way to do it. Okay, because you want to show that if you want to do something, okay, don't just declare it like that. Just let Mat Sabu say it. Mat Sabu says tomorrow, eggs, eggs by 3 cents, guys. Ready?
 
-**Rafizi:** 76, I'm 77. 77 ha. So what's needed now, and okay, you may disagree, but this is how I see it — in PKR for example. Me and Datuk Seri Anwar, we work well together because I have my strength as a technocrat. So you know, usually with data and such, I understand the market better. But there are things I can't do when it comes to leading a country or society. Because I haven't "eaten enough salt" yet, for instance, to unite everyone as an elder, because that is the biggest challenge. So that's why this combination now, I think, works well for the country. You have people like Datuk Seri Anwar Ibrahim that can bring everyone to the table and give us young technocrats the space to focus on work related to technical matters, because not everyone can do what he is doing — bringing this fractured whole society together around one table, right?
+**Rafizi:** Yeah, but Salim, people keep making a fuss about 3-cent eggs, 3-cent eggs.
 
-**Salim Iskandar:** Then. What do you mean? No, sir. No, sir. Are we like one now? Are we one now?
+**Salim Iskandar:** But it's eggs, right? No, no, hang on.
 
-**Rafizi:** Well, at least we are focused and we.
+**Rafizi:** But actually, the expenditure the government has to distribute to drop it by 3 cents is more than 100 million. Under circumstances where all the problems—you get 3 ringgit per person, right, 100 million? No, no. But in a situation where we have debt, with the interest we have to bear, actually the government could just say, you know what? We can't afford to give a single thing. So that targeted subsidization, under the circumstances we have to do it, that means if we know that eggs are the common denominator used by many families, then giving a 100 million allocation is actually quite a monumental thing under these circumstances. How much per person do you get, RM3 per person? No, don't look at it as RM3 per person. The moment you look at it, if you know you have high debt that you need to pay off, passing down all of this, right. You have high interest. Better not give it.
 
-**Salim Iskandar:** We are not, sir.
+**Salim Iskandar:** Better not give it. Not that. If—
 
-**Rafizi:** Yes, but we have succeeded.
+**Rafizi:** If you don't give it, you say we're cutting subsidies instead.
 
-**Salim Iskandar:** Just now you just told me, Malays are still not.
+**Salim Iskandar:** I mean, not. That means we continuously shift them. Can we? Can we? I want to ask for just one thing, YB. Okay, if we don't even give the 3-cent egg thing, it's fine. It's okay. Because finding eggs in high-density areas, I'm talking about this, right. If we go to places like PJ or whatever, right. I mean, I live in Kota Damansara, right. There, if you go look for eggs, there are specific days you can get them. Otherwise, if you go on a day you've missed it or whatever, there is still some shortage. But that doesn't happen in the villages. The villages are all okay now, stable. However, we deeply miss local white rice, which is distancing itself very much from us. So all these kinds of things. So if YB wants to ask me, I can tell you all kinds of things about what's happening on the ground and all that. So then again, but we'll argue about all these things. YB, you're the Minister of Economy, sir, you just bring prosperous investment, bring good investment and all that. We hope for that, you know. Because—
 
-**Rafizi:** But hang on hang on hang on. Politically, Salim, we've finally succeeded in bringing political stability to this country and.
+**Rafizi:** Look at it this way, Salim. We hope for that.
 
-**Salim Iskandar:** Are we?
+**Salim Iskandar:** It's not like we're saying we just want to cause them to fall and all that. But if you ask me—
 
-**Rafizi:** Yes, of course, it's a 2/3 government. Whatever we say, yes, the opposition people, every day they hope the government falls, that we're not united. But that's not the case, and that's why investors, the economy, everyone is starting to gain confidence because finally after 5 years.
+**Rafizi:** Those words are a prayer you say every day. Yeah, but if Anwar—terrible, terrible, terrible. Of course you psychologically feel terrible too, right?
 
-**Salim Iskandar:** No losing. Are they really confident? I want to see, actually, I want to see, YB, sorry. Because YB says YB is the Economy Minister, you should know about this economy stuff. I don't have the data, you have the data, you see more. But until this thing is realized, until I see a lot of it really coming in — we know Google has committed how many billions to come in and everything. But until we see the factory actually built, coming here and everything. But as of today what we see is tomorrow Fahmi says tomorrow we have some good news. This is tomorrow, before Raya, he says we have good news tomorrow. We're waiting for what? Hey, good news! Oh, maybe they'll give us free tolls or something? Maybe they'll say we're abolishing tolls entirely since the subsidy's been withdrawn. Example, example, example, example, right? Then suddenly tomorrow Datuk Seri Anwar Ibrahim comes out looking sharp, stylish, right? Mat Sabu standing on his right. Egg prices down by 3 sen, he says.
+**Salim Iskandar:** Yes. But if Anwar can no longer handle it, brother Datuk Seri Anwar Ibrahim, a younger person, you know, I mean my man. Sorry lah, this is my opinion, Nothing to do with it. You guys talk about cartels or whatever, you know.
 
-**Rafizi:** I already know what you're going to say. I can tell just by looking at your face.
+**Rafizi:** Unfortunately, Salim, I think your opinion is not shared by the majority of Malaysians. If you ask me, I think this is a good junction where the combination of all existing leaders from all parties—from those who were in politics 40 years ago to the young ones—is needed, because it's a junction where we need everyone to focus on their strengths. The older ones are there to bring back society so that we don't become too extreme and polarized. The young ones with technocratic skills, who can do that, you focus on that one. There are things I can do, there are things I cannot do, there are things KJ can do, there are things KJ cannot do.
 
-**Salim Iskandar:** I said, oh my God, that is not your job, Mr. Prime Minister, I'm so sorry sir. I mean you are so big, I'm so small, even though my body is bigger, but then again, you know sir, that's not how you do it. Okay, because if you want to show you're doing something, okay, don't declare it like that and have Mat Sabu say it. Tomorrow Mat Sabu says, "Eggs down 3 sen, hey, great right, ha." Okay.
+**Speaker ?:** Yeah, true.
 
-**Rafizi:** Yes, on the topic of Salim, people make a fuss about eggs, 3 sen, eggs 3 sen.
+**Rafizi:** So we need everyone.
 
-**Salim Iskandar:** But eggs, right?
+**Salim Iskandar:** But.
 
-**Rafizi:** No no, hang on. But actually the expenditure the government needs to allocate for that 3 sen reduction is more than 100 million. In a situation where actually all the problems we inherited.
+**Rafizi:** And not just UMNO, all parties, we need everyone around the table.
 
-**Salim Iskandar:** That's something at least. RM3 per person gets 100 million?
+**Salim Iskandar:** Let's fix the country for these 3, 4 years.
 
-**Rafizi:** No no, but in a situation where we have debt, with the interest we have to bear, actually the government could just say, "You know what, we can't afford to give anything." So so the retargeting we have to do, that means if we know that eggs are the common denominator that many families use, then giving a 100 million allocation is actually quite a monumental thing in this situation.
+**Rafizi:** After this, whoever wants to take over can do whatever they like.
 
-**Salim Iskandar:** How much per person do they get? RM3 per person?
+**Salim Iskandar:** Yeah. But I want to tell you one thing, YB, you have to be fair to the Malay. The Malay were the ones who in 1998 rolled on the streets, you know. Rolled on the streets. I think YB was one of them.
 
-**Rafizi:** No, don't look at it as RM3 per person like that. You look at it — if you know you have high debt you need to pay, inherited all this. You have high interest, right?
+**Rafizi:** You weren't? I was. You weren't, right? I was the one rolling, right?
 
-**Salim Iskandar:** No need to give it then. No need to give it.
+**Salim Iskandar:** I was Ma—I was Mahathir all the way. Mahathir. I admit it. I was for Mahathir, ah. For Mahathir all the way.
 
-**Rafizi:** Well if you don't give it, then you say we're cutting subsidies instead. That means we're continuously shifting.
+**Rafizi:** Okay. But you weren't rolling. There was no rolling.
 
-**Salim Iskandar:** No, not that. I mean I mean. Can I ask for just one thing, YB? Okay, never mind about the 3-sen eggs, it's okay, because I'm talking about finding high-density areas for eggs here. If we go to like PJ or somewhere, I mean I live in Kota Damansara. There, if you go looking for eggs, there are certain days when we can get them. Otherwise, if you go on a day you've missed, there is still some shortage. But that doesn't happen in the kampung — the kampung is all fine now, already stable. But we really miss local white rice, which has really distanced itself from us. So all these things, so if YB wants to ask me, I can tell you all sorts of things about what's happening on the ground. So then again, we'll argue about that. YB, you're the Economy Minister, sir, just bring prosperity, good investment and so on, we hope that, you know. Because.
+**Salim Iskandar:** That was running away from the police. The one who lay down in front of the lorry, where was that?
 
-**Rafizi:** That's it, Salim, exactly.
+**Rafizi:** That was the PAS guys. No way? There was one young Chinese kid back then who lay down in front of the lorry.
 
-**Salim Iskandar:** Yeah, we hope that. We're not saying we want things to fail. But for me.
+**Salim Iskandar:** Which year was this?
 
-**Rafizi:** Words like that are a daily prayer. If you keep saying it's bad, bad, bad, then psychologically you'll feel bad too, right?
+**Rafizi:** His name is Tian Chua. History. Okay, never mind. Now, right now we have to accept the reality. He didn't lie down, right? He sat down, right?
 
-**Salim Iskandar:** Yes, but if Anwar. Yes, but if Anwar can't handle it anymore.
+**Salim Iskandar:** He lay down. He sat down, he sat down. He sat down. It would be too tiring to lie down for real. Back then they snapped a picture right when he lay down. Okay, that's history. But we also have to accept the reality that the Malays, today.
 
-**Rafizi:** True.
+**Rafizi:** But look. Before that, right, he said that older people like Anwar should resign and all. Why didn't you say the same thing about Mahathir?
 
-**Salim Iskandar:** Brother Datuk Seri Anwar Ibrahim, [give it to] a younger person, you know. I mean, my man. Sorry, this is my opinion, Nothing to do with — friends say it's a cartel or whatever. That's it.
+**Salim Iskandar:** On Mahathir. Is Mahathir going to be PM again?
 
-**Rafizi:** Unfortunately Salim, I think your opinion is not shared by the majority of Malaysians. I mean, it's your opinion. If you ask me, I think this is a good junction where we combine all the leadership we have from all parties, from those who've been in politics for the past 40 years to the young ones, because it's a junction where we need everyone to focus on their strengths. The older ones are there to bring society back together so we're not too extreme and polarized. The young ones who have technocratic skills, who can do that, focus on that. There are things I can do, there are things I cannot do. There are things KJ can do, that KJ can't do. So we need everyone. And it's not just about age, we need everyone from every party at the table too. Let's fix the country for these three, four years. After that, whoever wants to take over, go ahead.
+**Rafizi:** Well, he is almost close to 100 years old. You know, he is still actively moving around, he has political views. That one is fine. Why didn't you ask him to retire instead?
 
-**Salim Iskandar:** But. Yes, right. But. Yes, but let me tell you one thing, YB, you have to be fair to the Malays. The Malays were the ones who, in 1998, rolled around on the road, you know. They rolled on the road. I think YB was one of them.
+**Salim Iskandar:** He is a statesman.
 
-**Rafizi:** That was my group, weren't you there too? I was the one who rolled around, right?
+**Rafizi:** Wait, wait. Former Prime Minister twice. Ha, that's just a bad chili. That's a sour chili.
 
-**Salim Iskandar:** I was — I was Mahathir all the way.
+**Salim Iskandar:** Former, former Prime Minister twice, he gives an opinion. Whether you want to accept it or not, it's fine. And he sees that, you know.
 
-**Rafizi:** Ah, there we go.
+**Rafizi:** Enough, that's enough. But hypothetically, Salim, he gives an opinion now because he contested previously, he lost his deposit. If he had won, he would still want to be Prime Minister. Ha, but it's just that in the last general election he lost his deposit, his party lost.
 
-**Salim Iskandar:** Mahathir, I admit, I was Mahathir. Mahathir all the way.
+**Salim Iskandar:** Otherwise, if you say that these old people need to retire, Anwar or Muhyiddin, all of them.
 
-**Rafizi:** Admit it, admit it too. No, but there was no rolling around. We ran from the police.
+**Rafizi:** You are a strong supporter of Mahathir. You have to apply the same thing to Tun Mahathir.
 
-**Salim Iskandar:** There was no rolling around. Who was it that lay down in front of the lorry?
+**Salim Iskandar:** Correct. No, it's like this. Listen, We can ask Tun Mahathir to retire. Even if Tun Mahathir retires. I mean, he's not going for any PM.
 
-**Rafizi:** That was a PAS person!
+**Rafizi:** Yeah, but he contested, you know, in—
 
-**Salim Iskandar:** No. A young Chinese guy lay down in front of the lorry back then.
+**Salim Iskandar:** The last GE and lost his deposit. Let's say, let's say Tun M wants to contest, right. Let's say, for example, there is one seat or something. Or he can do like how he just came out of prison, got a pardon. Then he should stop. He also stops. The person goes and contests and becomes a Member of Parliament. This is history happening, Okay. So if we look at it, if we want to compare, Mahathir is not crazy like that. Mahathir, whom we call the Supreme Pharaoh, stepped down twice. Twice. 2003 and 2020. Yes, 2020 he stepped down. Twice, a dictator who was called the Supreme Pharaoh and all that, he stepped down twice. So, if we say he is power-crazy, look, at how someone wanting to defend—this it must be fair—wanting to defend his position as Prime Minister, he was forced to close parliament. Right? He closed parliament, he extended it, made an emergency and all that to defend his Prime Minister's seat. I mean, I must be fair to everyone, you see? Because we've seen this. Okay? So he did that. So, but when it comes to Mahathir, this is the beauty about him. No matter what we hate him, we love him, but when it comes to his position, he says when he no longer has support, I step down.
 
-**Rafizi:** Where did that happen?
+**Rafizi:** I actually have a different view because I think what happened is much more complicated than what Salim says. But because he is Salim's idol, I can't be bothered to argue.
 
-**Salim Iskandar:** What year was this? His name was Tian Chua. History. Okay, never mind. Okay, now now we have to accept the fact.
+**Salim Iskandar:** Okay, fair. No, right now we are talking about Anwar, about how the Malay community, their stigma. Anwar Ibrahim was proven in court what the impact—
 
-**Rafizi:** He sat down — that's more accurate. He didn't lie down, did he? He sat, right?
+**Rafizi:** Moderator, how long is this?
 
-**Salim Iskandar:** He lay down, sat down, sat down. Probably he was too tired, exhausted, he lay down at that moment, and you snapped a photo, click. Okay, it's okay, that's history, lah. But we also have to accept the fact that Malays today.
+**Salim Iskandar:** It's been an hour and 10 minutes.
 
-**Rafizi:** But hang on, hang on, hang on. Before that, when you say the old people, Anwar, should all resign, why didn't you say the same thing about Mahathir? To Mahathir?
+**Rafizi:** Ha, it's almost done.
 
-**Salim Iskandar:** Is Mahathir going to become PM again?
+**Salim Iskandar:** Who is this? Who is he?
 
-**Rafizi:** Well, he's nearly 100 years old, you know. He's still moving around actively, still has political views and so on. That one's okay, but you won't tell him to retire too?
+**Rafizi:** I don't know who they chose.
 
-**Salim Iskandar:** It's fine. He is a statesman.
+**Salim Iskandar:** No, how did he get here? The two of us are chatting.
 
-**Rafizi:** Oh, here we go again!
+**Rafizi:** That's why, pity him, pity him. Not enough waqf.
 
-**Salim Iskandar:** A former Prime Minister. Wait, wait, a former Prime Minister twice.
+**Salim Iskandar:** Okay, YB, it's like this.
 
-**Rafizi:** Hold on. That chili's not good, you know? That chili's sour.
+**Rafizi:** Last one, right, Salim.
 
-**Salim Iskandar:** A former, former Prime Minister twice, he gives his opinion. Whether you want to accept it or not, that's fine. And he looks at it, you know.
+**Salim Iskandar:** Whatever I want to say, I just say that the stigma of the Malay people, we need to look at it again. We need to look back at what happened to the Prime Minister of today because the things, the charges that were faced, society sees what is happening now. And it's been a year and a half already, and we can't blame the Malays solely. We must also do some soul-searching. When we know that when we try, people no longer want to accept this or that, you have to find a way to be magnanimous. Just let Rafizi be Prime Minister. Thank you. Thank you.
 
-**Rafizi:** Yes, yes, yes, yes. No, no, no, but hypothetically, Salim, he's giving his opinion now because he ran before and lost his deposit. If he had won, he'd still want to be Prime Minister. But in the last election, he lost his deposit, his party lost. Otherwise, if you say the old ones need to retire, Anwar or Muhyiddin and so on — you're a strong supporter of Mahathir, right? You'd have to apply the same standard to Tun Mahathir too.
+**Rafizi:** That wasn't a sponsored message, No, I think we have never rejected the fact that the actual story of Malay concerns needs to be managed, kan. Only that in managing what's its name, yeah, the concerns, Malay insecurities, Malay demands, you know. We cannot go to the extent of—what's its name—taking a shortcut. For example, a shortcut is indeed easy. Meaning if—Contest as PKR President. Pretend to be PKR President. Please, please. Salim Iskandar asks. He's not asking me anymore. Done. He doesn't want to ask. I can't wait to finish talking first.
 
-**Salim Iskandar:** True, but not like that. Listen, we could tell Tun Mahathir to retire too — he's not going for PM anymore anyway.
+**Salim Iskandar:** Oh, sorry. So he doesn't—I think we have to take the hard road. If the short road is easy, you know.
 
-**Rafizi:** Yes, but he ran in the last general election and lost his deposit.
+**Rafizi:** Meaning giving everything, right. But actually, those who will inherit these debts are the Malay children later on. Because 20 years from now, 30 years from now, the Malay population size will be higher—
 
-**Salim Iskandar:** Yes, but say, say Tun M wanted to run, say for example there's a seat, or he could do what he did before — like when he just got out of prison, got a pardon, then not long after, that person went and ran and became an MP. This has happened in history, Okay, so if we look at it, if we want to compare, Mahathir isn't crazy like that. Mahathir, whom we call the Great Pharaoh, resigned twice. Twice, 2003 and 2020. Yes, in 2020 he resigned. Twice, a so-called dictator, the "Great Pharaoh," resigned twice. So if we say he's power-hungry, look at how someone who wants to defend — this must be fair — defend his Prime Minister position had to shut down Parliament. Right? He shut down Parliament, extended it, declared an emergency and so on to defend his Prime Minister seat. I mean, it must be fair to everyone, you see? Because we've seen this. Okay, so he did that. But when it comes to Mahathir, this is the beauty about him. No matter whether we hate him or love him, when it comes to his position, he said when he no longer had support, he resigned.
+**Salim Iskandar:** Of course, compared to the Chinese and Indians, which are decreasing. We are very productive.
 
-**Rafizi:** Actually I have a different view, because I think what happened is more complicated than what Salim is saying, but since he's Salim's idol, I won't bother arguing.
+**Rafizi:** That's right, kan. So in the end, we can solve—for example, people say people are given a placebo, just given Panadol. But then later on they get cancer afterwards, kan.
 
-**Salim Iskandar:** Okay, fair. Okay. No, now let's talk about Anwar, about what the Malay community, — the stigma, Anwar Ibrahim proven in court of what offense.
+**Salim Iskandar:** That's one.
 
-**Rafizi:** Hey moderator, how long has it been?
+**Rafizi:** Secondly, we must take note that the only way forward is that we need every group in our country. And the Malays must cooperate with the Chinese, with the Indians, and vice versa.
 
-**Haziq:** It's been an hour and 10 minutes.
+**Salim Iskandar:** Because the ones we are competing with are not each other here.
 
-**Rafizi:** Almost done.
+**Rafizi:** It's Vietnam, India, from the Indian subcontinent and all that. If the country continues to fail to bounce back economically, in the end, the Malays are the ones who will have to bear it. If anything, that is the difference between the current government and the path taken by the opposition. The opposition gives Panadol, sweets to the Malays under the excuse of "give us an all-Malay government." All of us Malays, we control everything, all problems are solved. You and I know that's not the case. Kan. So, you know, and I think because of that, yes, I take responsibility if people are angry, cursing about the economy.
 
-**Salim Iskandar:** Who's this? Who is he?
+**Salim Iskandar:** Can I say something? I'll just add a little bit to the YB's point.
 
-**Rafizi:** I don't know, the audience chose him.
+**Rafizi:** You already said thank you just now.
 
-**Salim Iskandar:** No, how did he get in here? The two of us are chatting.
+**Salim Iskandar:** I have to, when YB talks like this, it's like this, YB. YB has said all sorts of things about formulas and all that. YB has said everything. It's like this now. When the rakyat are angry, just accept it.
 
-**Rafizi:** Well, poor guy, can't just disturb him. Not vocal enough.
+**Rafizi:** Okay. Just accept it. Just take it.
 
-**Salim Iskandar:** Okay, YB, like this.
+**Salim Iskandar:** They are angry, they say never mind. As KJ says, he says previously you guys also said the price of oil was going up and all that, fuel subsidies were going to be reduced and all that. Now when you get spat on in the face, just wipe it off. Done. Yeah. It's like this.
 
-**Rafizi:** Last one probably, Salim.
+**Rafizi:** If it's a matter that is not—meaning it's a view that does not distort the situation or the facts, I don't mind, you know.
 
-**Salim Iskandar:** Whatever I want to say, I'm just saying we need to look again at this Malay stigma. We need to look back at what has happened to the current Prime Minister, because with the charges he went through, society now sees what happened, and it's been a year and a half — and we can't blame the Malays alone. We also need to reflect on ourselves — when we know that after we tried, people no longer want to accept this, you have to find a way to be big-hearted, let Rafizi become Prime Minister. Thank you. Thank you.
+**Salim Iskandar:** Just accept it.
 
-**Rafizi:** That wasn't a sponsor message, No, what's it called — I think we've never denied that the Malay community's concerns need to be managed. But in managing, what's it called, yeah, Malay anxieties, Malay insecurities, Malay demands, we can't take shortcuts, for example. Shortcuts are indeed easy. Meaning if.
+**Rafizi:** Ha, that one is normal. For example, people don't like my bald head. Tough luck for you.
 
-**Salim Iskandar:** Run for PKR President, run for PKR President. Please, please, Salim Iskandar is asking. He doesn't want to invite me anymore.
+**Salim Iskandar:** Tough luck for you. Don't want to get a hair transplant, kan?
 
-**Rafizi:** There he goes, doesn't want to invite you guys anymore. Impatient — let me finish talking to him first.
+**Rafizi:** Done. Why get a hair transplant? It hurts.
 
-**Salim Iskandar:** Okay, sorry.
+**Speaker ?:** Yeah, true. Right?
 
-**Rafizi:** So he doesn't — I think we need to take the difficult path. If it's a shortcut, it's easy, you know. Meaning give everyone [what they want], but actually, it will be the Malay children who inherit these debts later. Because 20 years from now, 30 years from now, the Malay population will be higher than the Chinese and Indian population, which is declining. That's the thing, right. So in the end, we can solve it, for example — people say give a placebo, just give Panadol. But eventually, over time, you get cancer, that's one thing. Second, we need to take note that the only way forward is that we need every group in our country. And Malays need to cooperate with the Chinese, with the Indians, and vice versa. Because who we need to compete with isn't each other. It's Vietnam, it's India from the Indian subcontinent and so on. If the country can't rise economically, in the end it's the Malays who will bear the burden too. If anything, that's the difference between the current government and the path taken by the opposition. The opposition gives Panadol, candy to the Malays, on the excuse of "give us an all-Malay government, we Malays control everything, all problems solved." You and I know that's not the case, right? So, and I think that's why I do take responsibility when people get angry, curse about the economy.
+**Rafizi:** So for example, kan, but if the matter does not reflect the actual facts. For example, if they say BRIM right now is less than before.
 
-**Salim Iskandar:** Of course. We're very productive. Yeah. Can I say something? I'll add a little to what YB said.
+**Salim Iskandar:** True. That's unfair.
 
-**Rafizi:** You already said thank you earlier.
+**Rafizi:** Previously, BRIM was once. BRIM was once [a year], now it's 4 times the amount. So this thing is not true. So the things that are not true, I answer. If I've given the facts 4, 5, 6 times, and they still play dumb, then if I call them a fool, don't get angry. The thing is already there, right. So I think it also depends on the comments. That's why I don't have any problem with whoever wants to come. But we must hold to the fact that facts are facts. The rest, for example, opinions. Do we need young, old? That's an opinion.
 
-**Salim Iskandar:** It's done already. I have to — when YB says this, it's like this, YB. YB has said all sorts of things, "Raja Formula," YB said all that. It's like this now — when the people are angry, just accept it. Just accept it, just be at peace with it. He's angry and he says, "Never mind." Like KJ said, he said, "Before, you guys also said fuel prices would go up, subsidies would be reduced, and so on, right? Now when you get spat in the face, you just wipe it off." Carry on lah.
+**Salim Iskandar:** That's your opinion, that's your opinion. Okay. That's your business.
 
-**Rafizi:** Okay. Ha. Ha. No, it's like this. If it's something that's, what's it called, an opinion that doesn't distort the situation or the facts, I don't mind, you know. That's normal. For example, people don't like that my head is bald, that's your bad luck.
+**Rafizi:** So I think so long as we stick to that, then there's no problem.
 
-**Salim Iskandar:** Just accept it. That's your bad luck, right? Can you get a hair transplant? No need?
+**Salim Iskandar:** Last my question. Why did PADU change to. Budi?
 
-**Rafizi:** No, why would I get a hair transplant? It hurts. Right? Ha. So for example, but if something doesn't reflect the actual facts — for example, if someone says BR1M is less now than before.
+**Rafizi:** I've already answered that in parliament.
 
-**Salim Iskandar:** Yes, right. Before, BR1M was once, now it's four times.
+**Salim Iskandar:** PADU became Budi.
 
-**Rafizi:** Before BR1M was once, now it's four times the amount. So that's not correct. So what's incorrect, I'll respond to. If I've given the facts 4, 5, 6 times, and they still pretend not to know, then if I call it nonsense, don't get angry. That already exists, right? So I think it also depends on the comment. That's why I don't have any problem with anyone coming, but we need to stick to facts as facts. Other things, for example, opinions — whether it should be young or old, that's an opinion. That's your business, right? So I think so long as we stick to that, then there's no problem.
+**Rafizi:** Yes. Just keep it simple.
 
-**Salim Iskandar:** Opinion, that's an opinion, okay. That's an opinion, my opinion. Last question. Why did PADU change to BUDI?
+**Salim Iskandar:** PADU changed to Budi. I even made a song, Budiku tabur paduku.
 
-**Rafizi:** I already answered that in Parliament.
+**Rafizi:** That, Salim, please follow my TikTok.
 
-**Salim Iskandar:** PADU turned into BUDI? Just what? Simple as that, PADU turned into BUDI.
+**Salim Iskandar:** Okay. Ha, there's a video. Don't block me. Please un- un- unblock me on Twitter, can you, X? Please unblock me on Twitter and please follow me. Okay. Please follow me.
 
-**Rafizi:** No.
+**Rafizi:** I will. Then people will say it's a cartel.
 
-**Salim Iskandar:** They even made a song about it, "My budi scattered, my padu."
+**Salim Iskandar:** No problem. It's a cartel anyway, right? Let people say whatever they want. Actually, oh my.
 
-**Rafizi:** For that one, Salim, please follow my TikTok. There's a clip.
+**Rafizi:** What's this name? What is he? Salim Iskandar. Salim Iskandar.
 
-**Salim Iskandar:** Okay. Please help me, please unblock me on Twitter, can you, X? Please unblock me on Twitter and please follow me. Please follow me.
+**Salim Iskandar:** Salim. Iskandar. Iskandar. One, oh this. Red shirt same as this shirt. Still blocked.
 
-**Rafizi:** Okay lah. I — people will say it's a cartel later.
+**Rafizi:** Yeah. Why? Okay, okay. Wow, look at this. If you don't know, you don't love.
 
-**Salim Iskandar:** It's fine, might as well be a cartel, right? Let people say whatever they want.
+**Haziq:** Don't love, yes, that's right.
 
-**Rafizi:** Actually, oh no. What's it called, what is he? Salim Iskandar. Salim Iskandar. One — Oh, here it is.
+**Salim Iskandar:** I've unblocked. Unblock. Wow. And then I'll follow too.
 
-**Salim Iskandar:** Salim Iskandar. Red shirt, same shirt as this.
+**Haziq:** Follow. Steady.
 
-**Rafizi:** No wonder you got blocked.
+**Salim Iskandar:** Look, Rafizi Ramli is following you.
 
-**Salim Iskandar:** Why?
+**Rafizi:** This is definitely a cartel. This is definitely a cartel.
 
-**Rafizi:** Okay, that was intentional. You don't love what you don't know. I've unblocked you now. And I'll follow you too.
+**Salim Iskandar:** Oh, cartel. Now it's a cartel. Look. There it is. Beautiful. Alright, so.
 
-**Salim Iskandar:** Oh, look. You don't love what you don't know, that's right. Wow!
+**Rafizi:** At least we're doing it openly. Yes, that's right, that's right. So for me, this is what Malaysian people are like. Ah, look, happy birthday, check that official.
 
-**Haziq:** Follow back.
+**Salim Iskandar:** Yeah. You know. I agree, I agree. I say, I mean, I speak plainly. I'm a certain kind of YB. If you know me, I am what you see me as, this is who I am. Okay, I don't like being two-faced or hypocritical. I speak like this. If there's something wrong, we talk about it. I hope it's not tedious because there are many more issues we want to discuss. It's not tedious at all.
 
-**Salim Iskandar:** Steady! Look, Rafizi followed, yo!
+**Rafizi:** If we can invite. So after this, if they all attack saying you're a cartel and I'm paying for everything, what are you going to answer?
 
-**Rafizi:** It's really a cartel, just like this. It's really a cartel, just like this.
+**Salim Iskandar:** Well, I'll just send an invoice. Can I?
 
-**Salim Iskandar:** Oh, cartel, now cartel, look at that. There it is, nice. All right, so okay.
+**Rafizi:** Ah, when I get the invoice later I'll show it.
 
-**Rafizi:** At least we do it face to face, not behind each other's backs.
+**Salim Iskandar:** Okay, okay. So read that story. I'll say one thing, YB. On X sometimes, on X what do they say, you know? Salim is being paid. Okay, YB needs to know my story, my background a bit. How did that story come out?
 
-**Salim Iskandar:** Face to face, yes, right, right, right, ha. So for me, that's how it should be, Malaysians.
+**Rafizi:** Okay, because. When are we finishing this?
 
-**Rafizi:** Ha, look, "Happy Birthday Che Det Official."
+**Salim Iskandar:** That's it. Wouldn't a short one be better? Best, right? Okay. So what happened on X, it was one of my friends who told me, he revealed that I live in an expensive house. Then after that, couldn't pay, can't afford to pay now so I'm poor, so I'm asking for charity. That's what he said. So asking for charity. Okay, meaning I'm a beggar. Poor asking for charity. But then when it comes to the opposition, that's when they say Salim is being paid by PN, Salim is being paid by Mahathir, Salim is being paid by that. Then I sit at the corner, you guys need to decide if I'm a poor beggar or if I'm being paid now. Which one am I? So sometimes I think, think, think. Crying at the peak. they run into the platform team. Don't cut me off. So we don't know actually. You guys need to decide. So you all, am I like Rafizi or am I just an ordinary person from the street? Chili put together with You Burn Minister.
 
-**Salim Iskandar:** Yes, you know? Agreed, agreed. I said, I mean, I'll say it straight, I'm not — I'm the type, YB, if you know me, I'm the type — what you see is what you get, this is me. Okay, I don't like being fake or hypocritical or whatever. I say it like this. If there's something not right, we say it. I hope this hasn't been off-putting because there are many more issues we want to discuss. If possible, let's invite.
+**Haziq:** Okay, but as long as the formula's okay, right? The formula's not okay.
 
-**Rafizi:** Not at all, not off-putting. After this, if people attack you saying you're a cartel, that I paid for all this, what will you say?
+**Rafizi:** Salim has given, given all the chili.
 
-**Salim Iskandar:** Ha, I'll send an invoice, lah. Can I?
+**Salim Iskandar:** But I hope, YB, regardless of whatever I said, regardless of whether people like you or don't like you, I hope for the sake of Malaysian people, please do something about it.
 
-**Rafizi:** When I get the invoice, I'll show it.
+**Rafizi:** God willing.
 
-**Salim Iskandar:** Yes, sure, sure. So that's the story. Why, YB, let me tell you one thing, YB, On X sometimes, on X they say, you know what? "Salim got paid." Okay, YB should know my story, my background a bit, let me tell you a bit.
+**Salim Iskandar:** Take care of our country.
 
-**Rafizi:** How did that story come out?
+**Rafizi:** God willing. Don't change the government.
 
-**Salim Iskandar:** Okay, because.
+**Salim Iskandar:** That's changing the government, need to ask Muhyiddin.
 
-**Rafizi:** When is this going to end?
+**Haziq:** Muhyiddin. But as long as there's Muhyiddin, it won't change, right?
 
-**Salim Iskandar:** That's it, never mind, it's fun a little, right? Great, right? Okay, so what happened on X was, they said — I have one friend who exposed that I live in an expensive house, then couldn't pay, couldn't afford to pay, now I've become poor, so I'm begging for charity. He said it's like that, so now I'm asking for alms. Okay, meaning I'm a beggar. Poor, asking for alms. But then on X, some say Salim is paid by the PM, Salim is paid by Mahathir, Salim is paid by this and that. Then I'm sitting in the corner thinking, you guys need to decide — am I a poor beggar or am I being paid now? Which one am I? So sometimes I think, think, think, crying at the edge of the bed, finding a can of Planta. Don't cut that part out, So we don't actually know. You guys have to decide. So are you guys — am I Rafizi's cartel or am I just an ordinary citizen off the street? Cili Kasi Taruk with Yang Bakar Menteri.
+**Salim Iskandar:** Don't worry. Because Muhyiddin and Anwar have taken hold. Oh, so damn son.
 
-**Haziq:** Okay but is it all okay to become a formula,?
+**Haziq:** Okay, please. Okay. I've never, I've never watched Salim's podcast.
 
-**Rafizi:** The formula isn't okay, lah. Salim's already added all sorts of chili.
+**Rafizi:** Watch real life. Done, done, I think so. I think.
 
-**Salim Iskandar:** But I hope, YB, regardless of whatever I said, regardless of whether people like you or not, I hope for the sake of the Malaysian people, please do something about it. Take care of our country, ha?
+**Salim Iskandar:** Politicians will do anything they want. That's normal.
 
-**Rafizi:** Insya-Allah.
+**Rafizi:** Yeah. Anyone in our position would want to do something. Yes. Right? It's just that the methods differ. I mean, in my case, whether people like it or don't like it. If you've already been given the job, might as well you finish it.
 
-**Haziq:** Don't change the government,?
+**Salim Iskandar:** But people hate you. I saw, I met with you, I chatted with you for an hour. I think you're quite very jovial, very good person. I mean, you're very polite. What's there to be angry about? If you don't know, you don't love. Right? Ha, so that's it. No worries. I think it's not that I want to incite people to tell you to be. I've already called you. Boss. I want you to be my. Boss, boss, says Rafizi.
 
-**Salim Iskandar:** As for changing the government, you'd have to ask Muhyiddin. But as long as Muhyiddin's around, it won't change, don't worry. Because Muhyiddin — Anwar's already got a hold on things. Oops, so damn son. Okay, go ahead.
+**Rafizi:** No. I've already invited all kinds of people who don't like me, they don't want to come. I'm sure even if they come they'll also become a cartel. Yes.
 
-**Rafizi:** I've never watched Salim's podcast. Watching it in real life. No, no, I think, yeah, I think.
+**Salim Iskandar:** Oh, YB, a viral YB. No problem, later we'll chat with the viral YB. Viral YB, come on, let's come on. Oh, YB YB viral.
 
-**Salim Iskandar:** Politicians will do anything, right, YB, that's normal.
+**Rafizi:** He says invite them. They don't want to.
 
-**Rafizi:** Yeah, I mean anyone in our position would want to do something, right. It's just that the approach differs. I mean in my case, like it or not, whether people like it or not, if you've been given a job, might as well you get the job done.
+**Salim Iskandar:** No problem, later I'll chat with the viral YB. Why invite and chat? I mean just say. I mean okay.
 
-**Salim Iskandar:** But people hate you — I look at meeting you, chatting with you for an hour, I think you're quite jovial, a very good person. I mean, you're very polite. What's there to be angry about? You don't love what you don't know. Right? So that's it, never mind. I don't think I'm trying to incite people to make you the boss! Make you into wow, boss, Rafizi's cartel boss.
+**Rafizi:** Rather than protests behind my house, the one that protested that day behind my house, you know. Yes. Ha, poor my cats. Okay, okay. Done, done, done, done. Go back, go back, go back, go back.
 
-**Rafizi:** I've invited all kinds of people who don't like me, they don't want to come. Ha. I'm sure even if they came, they'd become part of the cartel too.
+**Haziq:** One hour and 30 minutes. Okay, that's all. Thank you.
 
-**Salim Iskandar:** Yes. Oh, YB, YB Viral,? Never mind, we'll talk about YB Viral later. YB Viral, come on, let's go!
+**Rafizi:** Greetings. Salim. Greetings. Okay, thank you, thank you. Alright.
 
-**Rafizi:** YB Viral? We invited him, he doesn't want to.
-
-**Salim Iskandar:** Yes, yes, that's fine too, I'll chat with YB Viral later. Why not sit and chat? I mean, just talk it out, I mean, okay.
-
-**Rafizi:** From the protest behind my house — the one he protested was behind my house, you know. Poor cats of mine.
-
-**Salim Iskandar:** Really,?
-
-**Rafizi:** Okay, okay, okay. That's enough, let's go, let's go, let's go.
-
-**Haziq:** 1 hour and 30 minutes. Okay, that's it. Thank you, brother Salim.
-
-**Rafizi:** Give him a handshake, lah.
-
-**Salim Iskandar:** Salam. Thank you, YB.
-
-**Rafizi:** Okay, thank you. Thank you.
-
-**Salim Iskandar:** My pleasure to meet you.
+**Salim Iskandar:** It was my pleasure to meet you.
 
 **Rafizi:** Okay, thank you.
 
-**Haziq:** So Salim is the first, we hope others will join in too. We're also extending an invitation to everyone who's been with us.
+**Haziq:** So Salim is the first. We hope the others will join too. We also made invitations to everyone together. Let's burn ministers. Yeah. Okay, that's all. Thank you. See you next time.
 
-**Salim Iskandar:** Let's go, Bakar Menteri.
+**Rafizi:** If Papa Gomo comes, you won't be angry? Ha, okay. Gomo, come. Gomo.
 
-**Haziq:** Yeah! Okay, that's it. Thank you, see you again.
+**Salim Iskandar:** But poor Papa Gomo, going to jail tonight. Poor him.
 
-**Rafizi:** Hey, if Papagomo comes, would you mind?
+**Rafizi:** I can't comment. Yeah, yeah. Poor thing.
 
-**Salim Iskandar:** Hey, sure, why not!
+**Salim Iskandar:** I mean, I mean I just want to ask one thing. Regardless of whether we have any differences in opinion, there's no need to go all the way to arresting. Okay, because what you can show to the people is if we talk a lot but forget everything, you show by doing the work. You show, look, we're doing good work. Look at this YB. He speaks steadily, he explains everything. So I, and what do people say, we also need to give chances because he's new and he already has plans and everything. So let's see six months down the road if nothing happens, we'll come again. Ha, let's do it again, let's add more. So that's it. So we have to give it a chance. But there's no need to use, to scare. I mean, YB, you know, if you can convey the message, there's no need to go arrest or anything. So I think yes, sometimes when we're angry we speak because we're angry. So even in your time as opposition, you all were very fiery, powerful and everything.
 
-**Rafizi:** Ha, okay then.
+**Rafizi:** And I was arrested 14 times.
 
-**Salim Iskandar:** Gomo, come on. Gomo. But poor Papagomo, going into the lockup tonight. Poor guy.
+**Salim Iskandar:** Got arrested many times. Yes, exactly. I know, I know. So that's normal. But just why do you want to do the same when others do it? You should be like this. I ask PH, you guys should show that you don't have a petty spirit like the previous government. You guys should show that you have a big spirit, can take criticism, let it be okay. Don't overdo it. Don't create slander.
 
-**Rafizi:** I can't comment on that.
+**Rafizi:** Ha, then that's the thing sometimes. If creating slander. If overdoing and slandering.
 
-**Salim Iskandar:** Yeah, yeah, poor guy. I mean, I mean, I just want to ask one thing, regardless of whatever differences of opinion we have, there's no need to go around arresting people. Okay, because what you can show the people is, if we're loudmouthed and reckless and so on, you show it by doing the work. Show us you're doing good work, look at YB here. Ha, he's calm, he explains things and so on. So I think we should give a chance too, because he's new, he has plans and so on, so let's see. Six months down the road, if nothing happens, we'll come back again.
+**Salim Iskandar:** Are you gonna sue?
 
-**Rafizi:** More chili then.
+**Rafizi:** No, but if overdoing and slandering to, for example, and and this is also my advice to not just you, everyone. If for example, criticism is overdoing and slandering, even though supposedly against Anwar Ibrahim, but he's a prime minister representing an institution. So there's a law for that. It's called criminal defamation.
 
-**Salim Iskandar:** Ha, we'll do it again, we'll add more, right? Ha, that's how it should be. So we have to give [a chance], but there's no need to use scare tactics. I mean, YB, you know, if you can deliver the message, there's no need to go around arresting people. So I think, yeah, sometimes when we're angry we say things because we're angry. So back in your opposition days too, you all were very fiery, powerful, and so on.
+**Salim Iskandar:** I understand that.
 
-**Rafizi:** And I got arrested 14 times.
+**Rafizi:** Ha, so so we don't. But why use the Incitement Act 1948? But I, that's all decisions made by the police with the AG actually. You can go and check, none of us interfered.
 
-**Salim Iskandar:** Got arrested many times, yeah, exactly. I know, I know. Ha, so that's normal, but why do you want to do the same thing that others did to you? You should be like this, I'm asking PH — you all should show that you don't have small hearts like the previous government. You all should show that you have big hearts, that you can take criticism, let it be okay. Don't go overboard, don't spread slander and so on.
+**Salim Iskandar:** The Incitement Act 1948 was in PH's manifesto in PRU 15 to be abolished. You should tear that thing up, throw it in the trash bin. Show us.
 
-**Rafizi:** Ha, then that's the thing. Sometimes if it's excessive and slanderous.
+**Rafizi:** Please. God willing. Show us, abolish that act. God willing at the appropriate time.
 
-**Salim Iskandar:** If someone commits defamation, are you going to sue?
+**Salim Iskandar:** Oh, Malay language won't, won't be suitable. Okay guys. Okay.
 
-**Rafizi:** No, but if it's excessive and defamatory towards, for example — and this is also my advice not just to you, but to everyone — if a criticism is excessive and defamatory, even if it's supposedly against Anwar Ibrahim, he is the Prime Minister who represents the institution. So there are laws for that.
+**Haziq:** Peace be upon you. Peace be upon you.
 
-**Salim Iskandar:** That's called criminal defamation, I understand. But why use the Sedition Act 1948?
+**Rafizi:** Peace.
 
-**Rafizi:** So, so we don't. actually. But I— all of that is a decision made by the police and the AG actually. You can go and check, none of us interfered.
-
-**Salim Iskandar:** The Sedition Act 1948 is in PH's manifesto for GE15 to be abolished. It should have been torn up, thrown in the trash bin. Show us! Please!
-
-**Rafizi:** God willing, God willing.
-
-**Salim Iskandar:** Show us, get rid of that act.
-
-**Rafizi:** God willing, at the appropriate time.
-
-**Salim Iskandar:** Oh, so there's an implied time that isn't appropriate yet, huh? Okay guys, thank you very much.
-
-**Haziq:** Okay, thank you. Peace be upon you.
-
-**Rafizi:** And peace be upon you too.
-
-**Salim Iskandar:** And peace be upon you too.
