@@ -39,7 +39,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 if sys.platform == "win32":
     import winreg
-    for _name in ("GEMINI_API_KEY", "OPENROUTER_API_KEY"):
+    for _name in ("GEMINI_API_KEY", "OPENROUTER_API_KEY", "NVIDIA_API_KEY", "MOONSHOT_API_KEY",
+                 "ORCAROUTER_API_KEY"):
         if _name not in os.environ:
             try:
                 with winreg.OpenKey(winreg.HKEY_CURRENT_USER, "Environment") as _k:
@@ -94,12 +95,32 @@ def call_claude(model, prompt):
 
 
 def call_gemini(model, prompt):
-    r = requests.post(
-        f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
-        headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]},
-        json={"contents": [{"parts": [{"text": prompt}]}],
-              "generationConfig": {"maxOutputTokens": 32768, "temperature": 0.3}},
-        timeout=900)
+    # The free tier's per-minute cap (5 req/min, measured 2026-09-18 on gemini-3.6-flash and
+    # gemini-3.8-flash alike) is real and routine, not an outage -- a single segment call from
+    # a script with no other traffic can trip it. The 429 body names its own retryDelay, so
+    # honour that instead of a guess; 3 attempts covers the free-tier window resetting once.
+    for attempt in range(3):
+        r = requests.post(
+            f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+            headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]},
+            json={"contents": [{"parts": [{"text": prompt}]}],
+                  "generationConfig": {"maxOutputTokens": 32768, "temperature": 0.3}},
+            timeout=900)
+        if r.status_code == 429 and attempt < 2:
+            delay = 10.0
+            try:
+                for d in r.json()["error"]["details"]:
+                    if d.get("@type", "").endswith("RetryInfo"):
+                        delay = float(d["retryDelay"].rstrip("s"))
+            except Exception:
+                pass
+            time.sleep(delay + 1)
+            continue
+        if r.status_code == 503 and attempt < 2:
+            # "currently experiencing high demand" -- no retryDelay in the body, unlike 429.
+            time.sleep(20)
+            continue
+        break
     if r.status_code >= 300:
         raise RuntimeError(f"HTTP {r.status_code} {r.text[:200]}")
     candidate = r.json()["candidates"][0]
@@ -110,8 +131,36 @@ def call_gemini(model, prompt):
 
 
 def call_openrouter(model, prompt):
-    r = requests.post("https://openrouter.ai/api/v1/chat/completions",
-                      headers={"Authorization": f"Bearer {os.environ['OPENROUTER_API_KEY']}",
+    # Free-tier model providers behind OpenRouter 429 routinely under load (measured
+    # 2026-09-18 on z-ai/glm-5.2:free: 2 of 6 calls), and OpenRouter gives no retryDelay
+    # in the body the way Gemini does, so this waits a fixed interval instead.
+    for attempt in range(3):
+        r = requests.post("https://openrouter.ai/api/v1/chat/completions",
+                          headers={"Authorization": f"Bearer {os.environ['OPENROUTER_API_KEY']}",
+                                   "Content-Type": "application/json"},
+                          json={"model": model, "temperature": 0.3,
+                                "messages": [{"role": "system", "content": SYSTEM},
+                                             {"role": "user", "content": prompt}]},
+                          timeout=900)
+        if r.status_code == 429 and attempt < 2:
+            time.sleep(20)
+            continue
+        break
+    if r.status_code >= 300:
+        raise RuntimeError(f"HTTP {r.status_code} {r.text[:200]}")
+    message = r.json()["choices"][0]["message"]
+    text = message.get("content") or ""
+    if not text.strip():
+        raise RuntimeError(f"empty content, keys={sorted(message)}")
+    return text
+
+
+def call_nvidia(model, prompt):
+    """NVIDIA's own NIM catalog (integrate.api.nvidia.com), not OpenRouter's nvidia/ slugs --
+    a different endpoint, so a different rate-limit pool and possibly a different model
+    version. Same OpenAI-compatible chat completions shape as OpenRouter."""
+    r = requests.post("https://integrate.api.nvidia.com/v1/chat/completions",
+                      headers={"Authorization": f"Bearer {os.environ['NVIDIA_API_KEY']}",
                                "Content-Type": "application/json"},
                       json={"model": model, "temperature": 0.3,
                             "messages": [{"role": "system", "content": SYSTEM},
@@ -126,7 +175,48 @@ def call_openrouter(model, prompt):
     return text
 
 
-CALLERS = {"claude": call_claude, "gemini": call_gemini, "openrouter": call_openrouter}
+def call_moonshot(model, prompt):
+    """Moonshot AI's Kimi models. api.moonshot.ai (international), not .cn -- the .cn host
+    401s on this key, confirmed 2026-09-18."""
+    r = requests.post("https://api.moonshot.ai/v1/chat/completions",
+                      headers={"Authorization": f"Bearer {os.environ['MOONSHOT_API_KEY']}",
+                               "Content-Type": "application/json"},
+                      json={"model": model, "temperature": 0.3,
+                            "messages": [{"role": "system", "content": SYSTEM},
+                                         {"role": "user", "content": prompt}]},
+                      timeout=900)
+    if r.status_code >= 300:
+        raise RuntimeError(f"HTTP {r.status_code} {r.text[:200]}")
+    message = r.json()["choices"][0]["message"]
+    text = message.get("content") or ""
+    if not text.strip():
+        raise RuntimeError(f"empty content, keys={sorted(message)}")
+    return text
+
+
+def call_orcarouter(model, prompt):
+    """OrcaRouter, an LLM gateway distinct from OpenRouter. orcarouter/free's free tier
+    gates on an aged GitHub account linked in the account's profile (confirmed 2026-09-18:
+    401/429 before linking, works after); it auto-routes to whichever model it picks that
+    moment (seen: deepseek-v4-flash-ga)."""
+    r = requests.post("https://api.orcarouter.ai/v1/chat/completions",
+                      headers={"Authorization": f"Bearer {os.environ['ORCAROUTER_API_KEY']}",
+                               "Content-Type": "application/json"},
+                      json={"model": model, "temperature": 0.3,
+                            "messages": [{"role": "system", "content": SYSTEM},
+                                         {"role": "user", "content": prompt}]},
+                      timeout=900)
+    if r.status_code >= 300:
+        raise RuntimeError(f"HTTP {r.status_code} {r.text[:200]}")
+    message = r.json()["choices"][0]["message"]
+    text = message.get("content") or ""
+    if not text.strip():
+        raise RuntimeError(f"empty content, keys={sorted(message)}")
+    return text
+
+
+CALLERS = {"claude": call_claude, "gemini": call_gemini, "openrouter": call_openrouter,
+          "nvidia": call_nvidia, "moonshot": call_moonshot, "orcarouter": call_orcarouter}
 
 
 def names_for(video_id):

@@ -34,6 +34,14 @@ model: claude-haiku-4-5-20251001
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite), translated segment by segment.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 5 — Yang Berhenti Menteri #5**  
+18 July 2025 · 1h 54m · [watch on YouTube](https://www.youtube.com/watch?v=QiU62zTJn4A)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Rafizi:** Peace be upon you and welcome to the Yang Berhenti Menteri podcast, episode five. I'm here with brother Rafizi Ramli, our guest speaker tonight, Datuk Syed Azwan or DSA. How are you, Datuk? Good, well. Datuk, I want to ask you something. Datuk, when did you first meet brother Rafizi actually?
