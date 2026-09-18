@@ -154,17 +154,21 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [Yang Berhenti Menteri #2](https://www.youtube.com/watch?v=y6e6F3w4U60) &middot; [raw](episodes/yang-berhenti-menteri/2025-06-27-ep02-yang-berhenti-menteri-2/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2025-06-27-ep02-yang-berhenti-menteri-2/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2025-06-27-ep02-yang-berhenti-menteri-2/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2025-06-27-ep02-yang-berhenti-menteri-2/interview-ms.md)
 
-- Electricity tariff structure and IBR (Incentive Based Regulation)
-- TNB, IPPs, and energy generation costs
-- Renewable energy transition, rooftop solar, and CRES scheme
-- Nuclear energy as an option for Malaysia
-- Najib Razak's SRC case DNAA and prosecutorial delays
-- MCMC court order against Edisi Siasat Telegram channel and free speech vs. digital regulation
-- Whistleblowing, accountability, and defamation
-- Burning of PM Anwar Ibrahim's caricature by UMS students and youth political dissent
-- Rafizi Ramli's political journey and post-ministerial plans
-- Third sector/social enterprise initiatives
-- Political polling methodology and survey data on government approval and voter sentiment
+- Perkenalan Iswardy Morni: latar belakang, live streaming dan kerjaya scriptwriting
+- Struktur tarif elektrik TNB dan mekanisme Incentive Based Regulation (IBR)
+- Sebab tarif asas naik 14% tetapi jadual tarif akhir pengguna nampak berjimat (subsidi dan rebate mengikut penggunaan)
+- Komposisi kos penjanaan elektrik: bahan api fosil, infrastruktur, grid dan subsidi Petronas
+- Deregulasi pasaran elektrik, monopoli TNB, peranan IPP dan konsep CRES/willing buyer willing seller
+- Pilihan tenaga nuklear berbanding solar dan potensi rooftop solar untuk Malaysia
+- Kesan kenaikan tarif elektrik terhadap subsidi kerajaan dan pertukaran dengan belanja pembangunan (sekolah, hospital)
+- DNAA kes SRC International 27 juta Najib Razak dan kritikan terhadap alasan AGC
+- Kelewatan sistem kehakiman dan kesan DNAA terhadap banduan rakyat biasa berbanding tokoh politik
+- Sekatan Mahkamah Tinggi terhadap saluran Telegram Edisi Siasat dan isu akauntabiliti whistleblower
+- Imbangan antara kebebasan media, ruang perbezaan pendapat dan kawalan digital sovereignty kerajaan
+- Pembakaran karikatur PMX oleh mahasiswa UMS dan respons sayap pemuda seperti AMK
+- Ruang dialog dan wacana mahasiswa dengan kerajaan sebagai alternatif kepada protes ekstrem
+- Kedudukan Rafizi selepas hilang daripada radar politik 2019 dan hala tuju selepas berhenti jadi Menteri Ekonomi, termasuk fokus sektor ketiga dan social enterprise
+- Metodologi tinjauan (polling) sokongan politik dan kebimbangan penurunan sokongan pengundi Cina dan India terhadap Pakatan Harapan
 
 ## YBhM ep03 &mdash; 2025-07-04
 
