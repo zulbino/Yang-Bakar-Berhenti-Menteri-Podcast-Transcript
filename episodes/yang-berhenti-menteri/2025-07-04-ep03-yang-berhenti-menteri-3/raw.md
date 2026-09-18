@@ -107,9 +107,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [50:55] Faizal Rahman: Tapi senanglah untuk mereka di atas eh, bila rakyat tak ambil port.
 
-[51:00] Rafizi: Terus mencatut dan sebagainya. Tak juga tau Faizal, sebab Unless
+[51:00] Rafizi: Terus mencatut dan sebagainya.
 
-[51:06] Faizal Rahman: pandangan. bersuara lah.
+[51:03] Faizal Rahman: Tak juga tau Faizal, sebab Unless pandangan. bersuara lah.
 
 [51:07] Rafizi: Tak tak. Tak, pandangan saya begini kan. Kerajaan Perpaduan yang ada sekarang ini, kekuatan yang ada pada Kerajaan Perpaduan ialah kemahiran mentadbir. Berbanding dengan pembangkang. Pembangkang memang saya ingat kalau tanya kepada pengundi atas pagar yang menyokong PN pun, mereka akan jawab, sebenarnya saya akui bahawa kerajaan perpaduan PH ni sebenarnya ada kemahiran mentadbir yang lebih baik berbanding dengan PN. Dia akan ada tapilah. Tapi saya sokong PN sebab sekian, sekian, sekian, sekian lah. Tapi dia takkan, saya ingat, dia dia akan terima bahawa lebih banyak tenaga mahir di sebelah kerajaan perpaduan dan PH lah. Jadi untuk mendapat sokongan rakyat, memang sebenarnya dokumen ini cukup penting untuk meyakinkan rakyat. Kalau kita kata kita nak buat 1, 2, 3, ini adalah hasil penyampaian kita 1, 2, 3. Ini adalah reformasi-reformasi yang seterusnya. Inilah dokumennya. Jadi kalau rakyat tak ambil port dan tak ambil tahu, akhirnya yang bising dan tumpuan politik dalam negara itu ialah soal-soal yang dibawa oleh PN lah. Soal berkaitan kaum, Remeh-temeh. soal berkaitan agama dan remeh-temeh. Dia tidak kepada soal pentadbiran dasar substantif yang panjang. Yang ruginya ialah sebenarnya kerajaan. Bukan Rafizi rugi tau bila jadi macam ini, kan? Jadi sebab itu saya rasa adalah sangat malang bila kita sampai ke peringkat itu. Baik, baik, baik.
 
@@ -191,9 +191,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:12:26] Faizal Rahman: So, so macam mana YB lihat selepas, adakah selepas pemilihan tu, Ayat saya pengkhianatan. Selepas pengkhianatan tu masih ada lagi kestabilan politik dalam kerajaan.
 
-[1:12:37] Rafizi: Sebab tu saya tanya apa maksud kestabilan politik tu? Kerana dia bergan- Kestabilan dia macam kita katakan secara
+[1:12:37] Rafizi: Sebab tu saya tanya apa maksud kestabilan politik tu?
 
-[1:12:45] Faizal Rahman: terusnya bahawa tak adalah berlaku pergaduhan.
+[1:12:40] Faizal Rahman: Kerana dia bergan- Kestabilan dia macam kita katakan secara terusnya bahawa tak adalah berlaku pergaduhan.
 
 [1:12:49] Rafizi: Dalam dalam komponen. Sebab dia ada beberapa peringkatlah kan. Saya rasa kalau yang hiruk-pikuk ni dan akan terus hiruk-pikuk ni PKR lah. Dan PKR itu akan ada kesan kepada PH. Walau apa pun dia akan ada kesan pada PH. Yang paling terkesan adalah Amanah. Lepas tu ialah DAP lah. Amanah kerana Amanah berkongsi profil pengundi yang sama dengan PKR dan kemudian DAP kerana sebahagian daripada PH lah. Jadi hiruk-pikuk itu, kalau itu dipanggil sebagai ketidakstabilan, yang itu akan saya ingat berterusan buat beberapa ketika di dalam PKR dan PH. Sama ada itu akan menyebabkan kebimbangan aa rakan-rakan komponen di dalam aa kerajaan perpaduan tu, saya rasa aa dia tidak akan berlaku kerana pemilihan PKR. Yang saya rasa boleh menjadi risikolah kalau saya jadi risk profiler, saya beritahu kepada kerajaan kan. Risiko kestabilan politik ini datangnya kalau contohnya, hiruk-pikuk yang berlaku daripada pemilihan PKR itu kekal untuk beberapa ketika dan dia mula menunjukkan bahawa kerajaan yang tulang belakang dan kemudinya itu PH mula defensif dan mula tak keruan. Ah, ditambah pula dan dia jadi tak keruan kerana kalau sebelum ini penyokong atas pagar dan juga penyokong parti PH ni, dia akan pertahankan apa saja yang berlaku. Ya. Sekarang selepas pemilihan itu, Berubah. mari satu isu dia dah berubah dah, dia jadi kritikal. Mari satu isu lagi dia jadi kritikal. Jadi akhirnya kerajaan dan terutamanya PH itu menjadi defensif. Defensif itu dan akibat isu-isu yang timbul itu boleh menimbulkan kebimbangan di kalangan rakan-rakan komponen yang lain. Kerana bila kita bentuk kerajaan perpaduan, asasnya ialah kestabilan dan cara untuk kita aa menjamin kestabilan itu ialah masing-masing ini menjaga kumpulan penyokong supaya dapat tumpu kepada pentadbiran negara. Jadi bila ada sebahagian daripada aa pengundi dan penyokong kerajaan ni mula kritikal kepada kerajaan. Jadi kalau saya jadi GPS, saya jadi BN, saya akan kata kita ada masalah ni. Kerana you can no longer deliver your part of the bargain. Jadi yang itu. Sebab dia berlaku terlalu obvious eh, YB?
 
