@@ -22,6 +22,13 @@ import re
 import sys
 from pathlib import Path
 
+# Windows' default console/pipe encoding (cp1252) cannot print a corpus correction that
+# contains non-Latin text, such as the CJK garble ep02:berhenti's fix carries. Found when
+# `adopt_mai_camera_raw.py` piped this script's stdout and the print crashed before the
+# write ever ran, refusing every subsequent adoption corpus-wide until fixed.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
 ROOT = Path(__file__).resolve().parent.parent
 
 # (regex, replacement, why). Longest/most-specific first, so a broader pattern cannot
