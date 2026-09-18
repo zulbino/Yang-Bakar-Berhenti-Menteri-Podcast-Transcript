@@ -37,6 +37,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 55 — Apa Jadi PRN Johor? Kenapa Tak Masuk PRN Negeri Sembilan?**  
+17 July 2026 · 2h 57m · [watch on YouTube](https://www.youtube.com/watch?v=4mmuPwkB5f4)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan salam sejahtera. Sudah lama tidak bersiaran, agak kekok sedikit. Episod ke-55 podcast Yang Berhenti Menteri. Walaupun hari ini podcast, tapi saya rasa ini sebenarnya ceramah dalam bentuk podcast sebab ramai.

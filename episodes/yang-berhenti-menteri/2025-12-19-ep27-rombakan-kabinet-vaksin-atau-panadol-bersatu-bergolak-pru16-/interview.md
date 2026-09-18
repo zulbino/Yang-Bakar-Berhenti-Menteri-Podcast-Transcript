@@ -37,6 +37,14 @@ model: claude-sonnet-5
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript, or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 27 — Rombakan Kabinet: Vaksin atau Panadol? - Bersatu Bergolak, PRU16 Makin Kabur**  
+19 December 2025 · 2h 38m · [watch on YouTube](https://www.youtube.com/watch?v=W5gI93CKvl0)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Assalamualaikum dan selamat datang. Sekali lagi podcast Yang Berhenti Menteri dah episod ke-27. Macam biasa bersama saudara-saudara Rafizi Ramli, obviously.

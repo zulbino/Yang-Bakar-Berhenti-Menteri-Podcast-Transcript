@@ -34,6 +34,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 41 — Siapa Mr. R? Bukti 40 Muka Surat, Tindak Balas Kerajaan Susulan Perang Di Iran**  
+27 March 2026 · 3h 4m · [watch on YouTube](https://www.youtube.com/watch?v=-HujDcVKHzU)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan selamat hari raya. Podcast Yang Berhenti Menteri episod ke-41. Saya pakai baju raya lagi. Saya, YB dah habis beraya. Saya belum lagi. Raya saya diganggu dengan content, dengan Mr. R. Mr. R.

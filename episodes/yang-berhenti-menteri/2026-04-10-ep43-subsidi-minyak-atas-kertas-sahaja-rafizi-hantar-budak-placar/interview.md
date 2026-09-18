@@ -34,6 +34,14 @@ model: claude-sonnet-5
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript, or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 43 — Subsidi Minyak Atas Kertas Sahaja, Rafizi Hantar Budak Placard & Surat Dari PKR**  
+10 April 2026 · 2h 41m · [watch on YouTube](https://www.youtube.com/watch?v=e3y7rCTySJU)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Rafizi:** Dari segi sumbangan daripada parti, dari segi standing dia dengan rakyat, daripada latar belakang dialah. Tapi saya selalulah juga yang memainkan peranan ini dulu-dulu, sebab saya dijadikan salah seorang yang perlu menelefon ketua cabang untuk memberitahu, "minta maaflah kau tak jadi calon." Jadi saya fahamlah soal-soal watikah semua ni. Dan terpaksalah mendengar ketua cabang itu, dan yalah ada kes-kes yang mana dia tak dapat walaupun cabang itu kuat, aktif macam mana pun.

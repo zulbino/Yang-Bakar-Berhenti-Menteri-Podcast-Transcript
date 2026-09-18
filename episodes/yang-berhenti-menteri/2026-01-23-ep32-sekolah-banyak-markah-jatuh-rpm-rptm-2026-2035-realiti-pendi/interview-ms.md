@@ -36,6 +36,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 32 — Sekolah Banyak, Markah Jatuh: RPM, RPTM 2026–2035 & Realiti Pendidikan Malaysia**  
+23 January 2026 · 2h 54m · [watch on YouTube](https://www.youtube.com/watch?v=UF8RxxOiWDA)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum. Salam sejahtera. Vanakam. Podcast Yang Berhenti Menteri episod ke-32, seperti biasa bersama saudara Rafizi Ramli. Minggu ini kita bincang topik yang agak berat sikit, tapi jangan risau, di hujung nanti ada segmen hiburan. Kita mulakan dengan Beria, kemudian topik pendidikan, sikit ekonomi, pendidikan, dan segmen hiburan.

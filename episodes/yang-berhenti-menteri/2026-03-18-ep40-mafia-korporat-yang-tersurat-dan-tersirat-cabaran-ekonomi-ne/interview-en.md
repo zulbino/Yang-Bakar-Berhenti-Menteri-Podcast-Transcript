@@ -34,6 +34,14 @@ model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 40 — Mafia Korporat: Yang Tersurat dan Tersirat, Cabaran Ekonomi Negara Akibat Perang Iran**  
+18 March 2026 · 2h 17m · [watch on YouTube](https://www.youtube.com/watch?v=KSpStz87R78)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** This is the 40th episode of the "Yang Berhenti Menteri" podcast. Assalamualaikum and greetings. As usual, together with brother Rafizi. Although he's looking a bit relaxed today.

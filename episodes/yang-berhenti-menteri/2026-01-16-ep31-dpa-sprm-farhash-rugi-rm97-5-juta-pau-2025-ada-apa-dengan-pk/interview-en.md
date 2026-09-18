@@ -35,6 +35,14 @@ model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 31 — DPA SPRM, Farhash Rugi RM97.5 juta, PAU 2025 & Ada Apa Dengan PKR?**  
+16 January 2026 · 2h 35m · [watch on YouTube](https://www.youtube.com/watch?v=NiTsEvlvM34)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** As usual, together with brother Rafizi Ramli on the podcast. Assalamualaikum. I want to switch to episode 31. So casually not even greeting us. You still have to greet at the end too. Is this sentence passive? Active sentence, passive sentence.

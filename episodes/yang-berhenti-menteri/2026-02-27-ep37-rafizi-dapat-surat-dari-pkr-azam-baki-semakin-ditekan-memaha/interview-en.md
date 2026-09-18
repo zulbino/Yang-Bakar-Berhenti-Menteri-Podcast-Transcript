@@ -31,6 +31,14 @@ model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 37 — Rafizi Dapat Surat Dari PKR, Azam Baki Semakin Ditekan, Memahami Gen Z & Millenials**  
+27 February 2026 · 2h 19m · [watch on YouTube](https://www.youtube.com/watch?v=cZQPDnfu4Go)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Assalamualaikum and greetings. This is episode 37 of the Yang Berhenti Menteri podcast. As usual, with Rafizi Ramli. And let's not forget brother Farhan, who's absent. Present. He's there, right? You up for coffee, Farhan? Not joking, you up for coffee. Oh yes, you up for coffee.

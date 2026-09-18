@@ -35,6 +35,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 31 — DPA SPRM, Farhash Rugi RM97.5 juta, PAU 2025 & Ada Apa Dengan PKR?**  
+16 January 2026 · 2h 35m · [watch on YouTube](https://www.youtube.com/watch?v=NiTsEvlvM34)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Seperti biasa bersama saudara Rafizi Ramli dalam podcast. Assalamualaikum. Saya nak tukar episod 31 baru. Selamba tak bagi salam. Kena bagi juga eh kat hujung lah, kena bagi salam. Ayat ni pasif eh? Ayat aktif, ayat pasif.

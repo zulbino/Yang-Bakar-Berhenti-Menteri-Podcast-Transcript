@@ -33,6 +33,14 @@ model: claude-sonnet-5
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa Melayu (closest to how it was actually spoken). See raw.md for the unedited transcript, or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 35 — Pendedahan Bloomberg Berkaitan Azam Baki, Isu Rumah Ibadat & Rafizi Kena Halau**  
+13 February 2026 · 3h 13m · [watch on YouTube](https://www.youtube.com/watch?v=GP-vv04gfKI)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Episod ke-35 podcast Yang Berhenti Menteri. Macam biasa bersama saya, saudara Rafizi. Tak bagi salam.
