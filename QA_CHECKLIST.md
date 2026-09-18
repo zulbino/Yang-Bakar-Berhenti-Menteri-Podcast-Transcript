@@ -77,7 +77,7 @@ Newest first. One row per episode, one column per generated file, so the engine 
 | ep06:berhenti | [x] | MAI | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- |  |
 | ep05:berhenti | [x] | MAI | claude-haiku-4 | claude-haiku-4 | claude-haiku-4 | -- | -- |  |
 | ep04:berhenti | [ ] | -- | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `raw-engine-unknown` |
-| ep03:berhenti | [x] | MAI | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- |  |
+| ep03:berhenti | [x] | MAI | claude-haiku-4 | claude-haiku-4 | claude-haiku-4 | -- | -- |  |
 | ep02:berhenti | [ ] | -- | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- | `raw-engine-unknown` |
 | ep01:berhenti | [x] | MAI | glm-5.2:free | glm-5.2:free | glm-5.2:free | -- | -- |  |
 | ep00 | [x] | MAI | sonnet-5 | sonnet-5 | sonnet-5 | -- | -- |  |
