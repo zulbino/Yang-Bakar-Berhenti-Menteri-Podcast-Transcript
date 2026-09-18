@@ -766,6 +766,10 @@ CORRECTIONS = [
     (r"komando tu Babi", "komando tu YB", "ep50 25:36, Wan Afiq, same turn."),
     (r"Okey, babi\. So saya dibetulkan", "Okey, YB. So saya dibetulkan",
      "ep50 2:17:50, Wan Afiq. Lower case here, which is why a case-sensitive sweep missed it."),
+    (r"Okey, babi\. Babi, ada yang mengatakan", "Okey, YB. YB, ada yang mengatakan",
+     "ep03:berhenti 1:23:55, the guest Faizal Rahman, doubled at the top of his turn. The "
+     "same turn addresses Rafizi as `YB` twice more later (`Apa komen YB?`), found 2026-09-18 "
+     "right after the MAI+camera adoption."),
     (r"itu saja Babi", "itu saja YB", "ep35 29:45, Haziq: `Ada, itu saja YB.`"),
     (r"soalan lain lah, Babi", "soalan lain lah, YB", "ep52 1:04:25, Haziq."),
     (r"yang beria, Babi", "yang beria, YB", "ep47 06:41, Haziq. `beria` is the show's own segment word."),

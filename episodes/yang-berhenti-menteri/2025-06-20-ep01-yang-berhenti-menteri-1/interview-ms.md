@@ -33,6 +33,14 @@ model: z-ai/glm-5.2:free
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa), diterjemah segmen demi segmen.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 1 — Yang Berhenti Menteri #1**  
+20 June 2025 · 1h 20m · [watch on YouTube](https://www.youtube.com/watch?v=-NjVESCWO8w)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Salam sejahtera. Intro saya tak penting pada hari ini sebab kita ada baju yang sangat jarang ditemui, Kampung Springfield, YB. Kat mana YB dapat? Sebab tak ada siapa dapat. Tapi tiba-tiba YB ada pula.
