@@ -68,19 +68,22 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [Yang Bakar Menteri EP 4 | YB Rafizi Ramli & Salim Iskandar](https://www.youtube.com/watch?v=lNmIx3ssUIM) &middot; [raw](episodes/yang-bakar-menteri/2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar/raw.md) &middot; [mixed](episodes/yang-bakar-menteri/2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar/interview.md) &middot; [EN](episodes/yang-bakar-menteri/2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar/interview-en.md) &middot; [MS](episodes/yang-bakar-menteri/2024-07-15-ep04-yang-bakar-menteri-ep-4-yb-rafizi-ramli-salim-iskandar/interview-ms.md)
 
-- Sungai Bakap by-election results and voter turnout analysis
-- Diesel and RON95 fuel subsidy retargeting
-- Cost of living and inflation concerns
-- STR cash aid and BR1M/BR1M comparison
-- Electricity (TNB) subsidy and billing issues
-- Progressive wage policy pilot project
-- Poverty eradication (hardcore poverty) data
-- PADU to BUDI transition
-- Malaysia's economic growth and investor confidence (Bursa Malaysia, FDI)
-- Generational leadership debate (Anwar Ibrahim, Mahathir, younger leaders)
-- Racial/ethnic voting patterns and Malay political sentiment
-- Sedition Act 1948 repeal
-- Government criticism, defamation, and use of the law against critics
+- Tuduhan 'kartel Rafizi' dan latar belakang Salim Iskandar
+- Analisis kekalahan PH di PRK Sungai Bakap dan perbandingan dengan PRK Kuala Kubu Baru
+- Konsep correlation vs causation dalam menganalisis kesan subsidi diesel terhadap keputusan pilihan raya
+- Tanggungjawab kolektif kabinet berbanding menyalahkan Perdana Menteri
+- Penyasaran subsidi diesel dan RON95 serta isu ketirisan/sindiket minyak
+- Kesan kenaikan harga diesel terhadap kos sara hidup rakyat (contoh trak Mitsubishi Triton)
+- Pembasmian kemiskinan tegar dan standard garis kemiskinan RM2000
+- Perbandingan bantuan STR berbanding BRIM zaman Najib
+- Dasar gaji progresif dan projek rintis kenaikan gaji sektor swasta
+- Kenaikan tarif elektrik TNB dan subsidi elektrik negara
+- Sejarah harga minyak mentah dunia dan formula APM (Automatic Pricing Mechanism)
+- Isu kepimpinan tua vs muda dalam politik Melayu (Anwar, Mahathir, Muhyiddin, KJ)
+- Perpaduan kaum dan polarisasi masyarakat Melayu-Cina-India
+- Penukaran skim Padu kepada Budi
+- Penggunaan Akta Hasutan 1948 terhadap pengkritik kerajaan dan janji manifesto PH untuk memansuhkannya
+- Isu bekalan beras tempatan dan telur di kawasan bandar
 
 ## YBkM ep05 &mdash; 2024-08-26
 
