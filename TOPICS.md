@@ -134,17 +134,21 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [Yang Berhenti Menteri #1](https://www.youtube.com/watch?v=-NjVESCWO8w) &middot; [raw](episodes/yang-berhenti-menteri/2025-06-20-ep01-yang-berhenti-menteri-1/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2025-06-20-ep01-yang-berhenti-menteri-1/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2025-06-20-ep01-yang-berhenti-menteri-1/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2025-06-20-ep01-yang-berhenti-menteri-1/interview-ms.md)
 
-- Rafizi's resignation as Minister of Economy
-- PKR party election and its aftermath
-- Government dynamics and ministerial mandate
-- Accusations of 'merajuk' (sulking)
-- Team player criticism and rebuttal
-- Ministry of Economy policy achievements
-- Cabinet collective responsibility and freedom to speak
-- Rumors of a new political party
-- 2028 PKR internal election speculation
-- Concept of the 'third sector' in society
-- Future plans and grassroots engagement
+- Keputusan Rafizi Ramli meletak jawatan sebagai Menteri Ekonomi
+- Kekalahan Rafizi dalam pemilihan Timbalan Presiden PKR dan kesannya
+- Dinamik politik dan mandat Perdana Menteri dalam pelantikan menteri
+- Tuduhan 'merajuk' dan respons Rafizi terhadap naratif tersebut
+- Isu 'not a team player' dan budaya yes-man dalam parti dan kerajaan
+- Perbezaan mandat rakyat (ahli parlimen) dengan lantikan menteri oleh PM
+- Pencapaian dasar Kementerian Ekonomi: peralihan tenaga, gaji progresif, subsidi bersasar, GSSEZ, RMK13
+- Prestasi ekonomi Malaysia 2024: pertumbuhan, inflasi, pasaran saham
+- Isu kekangan bersuara menteri kabinet (collective responsibility dan kerahsiaan)
+- Konsep 'third sector' dalam masyarakat sebagai alternatif kepada sektor awam dan swasta
+- Isu sandwich generation dan kekurangan tenaga kerja jangka panjang
+- Kenyataan tiada penubuhan parti baru PKR dan keutamaan kestabilan kerajaan
+- Persoalan penyertaan semula dalam pemilihan Keadilan 2028
+- Fenomena 'Kampung Springfield'/meme Simpson sebagai pembukaan segmen ringan
+- Hala tuju dan rancangan Rafizi selepas berhenti menjadi menteri
 
 ## YBhM ep02 &mdash; 2025-06-27
 
@@ -207,20 +211,22 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [Yang Berhenti Menteri #5](https://www.youtube.com/watch?v=QiU62zTJn4A) &middot; [raw](episodes/yang-berhenti-menteri/2025-07-18-ep05-yang-berhenti-menteri-5/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2025-07-18-ep05-yang-berhenti-menteri-5/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2025-07-18-ep05-yang-berhenti-menteri-5/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2025-07-18-ep05-yang-berhenti-menteri-5/interview-ms.md)
 
-- TikTok and social media content creation
-- Balancing ministerial duties with political commentary
-- PADU data system and targeted cash aid
-- RMK13 (13th Malaysia Plan) and development allocations
-- IKR (Inisiatif Kemudahan Rakyat) and local council funding
-- Unity government stability and future coalition politics
-- Appointing losing candidates to political positions
-- Meritocracy vs loyalty in political appointments
-- Political influencers ('pemimpin siaran') vs traditional grassroots politics
-- US Ambassador Nick Adams and Malaysia-US tariff negotiations
-- Internal PKR conflict after party elections
-- Ayuh Malaysia / Bangkit Malaysia campaigns
-- Role of backbenchers and Prime Minister's Question Time
-- History of PKR and coalition government formation in 2022
+- Latar belakang dan perjalanan DSA membina akaun TikTok selepas Covid
+- Hubungan Rafizi dengan media semasa dan selepas menjadi menteri
+- RMK13 dan proses penggubalan Rancangan Malaysia Kelima Belas
+- Skim Padu dan pertikaian dasar bantuan tunai bersasar dengan Kementerian Kewangan
+- Inisiatif Kemudahan Rakyat (IKR) berbanding saluran permohonan ICU/Majlis Daerah tradisional
+- Proses kitaran belanjawan dan permohonan peruntukan kementerian
+- Ketelusan pengumuman projek kerajaan persekutuan kepada wakil rakyat dan rakyat
+- Masa depan kerajaan perpaduan dan senario PHBN selepas PRU16
+- Budaya melantik calon yang kalah pilihan raya ke jawatan kerajaan (contoh Datuk Seri Saifuddin)
+- Isu lantikan Ketua Pengarah J-KOM dan kriteria kelayakan jawatan awam
+- Sistem calon wakil rakyat: populariti berbanding kekuatan cabang/bahagian parti
+- Konsep 'pemimpin siaran' lawan 'pemimpin sembunyian' dalam politik digital dan kes Shamsul Iskandar
+- Pelantikan duta AS Nick Adams dan implikasi rundingan tarif Trump untuk Malaysia
+- Perebutan kuasa dan penyingkiran Rafizi dalam pemilihan PKR
+- Krisis akar umbi PKR selepas pemilihan parti dan inisiatif 'Ayuh Malaysia'/'Bangkit Malaysia
+- Peranan Rafizi sebagai backbencher kanan dan pendirian terhadap sesi PMQT serta kestabilan kerajaan Anwar Ibrahim
 
 ## YBhM ep06 &mdash; 2025-07-25
 
