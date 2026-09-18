@@ -1,11 +1,12 @@
 # Yang Berhenti Menteri — transcripts
 
-64 episodes, 2025 rename onward, newest first. Every episode folder holds the verbatim raw transcript and three interview edits: the original mixed Malay/English, one in English, one in Bahasa Melayu.
+65 episodes, 2025 rename onward, newest first. Every episode folder holds the verbatim raw transcript and three interview edits: the original mixed Malay/English, one in English, one in Bahasa Melayu.
 
 Back to [the whole archive](../../README.md) · [Bahasa Melayu](../../README.ms.md) · [how these were made](../../METHODOLOGY.md)
 
 | Ep | Date | Title | Length | Transcripts |
 |---|---|---|---|---|
+| 64 | 2026-09-18 | [Harga Elektrik & TNB, Pergaduhan Antara ''Tunang'' UMNO & PAS](2026-09-18-ep64-harga-elektrik-tnb-pergaduhan-antara-tunang-umno-pas-ybm-64/) | 2h 50m | [raw](2026-09-18-ep64-harga-elektrik-tnb-pergaduhan-antara-tunang-umno-pas-ybm-64/raw.md) |
 | 63 | 2026-09-11 | [PISA: Anak-anak Kita Sedang Ketinggalan? FELDA Part Two](2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/) | 2h 58m | [raw](2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/raw.md) · [mixed](2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/interview.md) · [en](2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/interview-en.md) · [ms](2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/interview-ms.md) |
 | 62 | 2026-09-04 | [FELDA Lama Sangat Peram, Kita Mula Dulu](2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/) | 3h 55m | [raw](2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/raw.md) · [mixed](2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/interview.md) · [en](2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/interview-en.md) · [ms](2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/interview-ms.md) |
 | 61 | 2026-08-28 | [NEGERI MISKIN SEBAB DIANAKTIRI, KEGANASAN RUMAH TANGGA DALAM KERAJAAN MADANI](2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/) | 2h 54m | [raw](2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/raw.md) · [mixed](2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview.md) · [en](2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview-en.md) · [ms](2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview-ms.md) |
