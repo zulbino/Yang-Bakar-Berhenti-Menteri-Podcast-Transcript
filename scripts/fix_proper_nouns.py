@@ -887,6 +887,17 @@ CORRECTIONS = [
      "text_was and text_now, so check_owner_text.py restores it if a rebuild reverts it. "
      "`Suara wekiat` in the same block is a separate garble and is deliberately left "
      "alone: the owner ruled on the name."),
+
+    ("， 从 bila\\?",
+     "Tahun bila?",
+     "ep02:berhenti 02:28, Rafizi. MAI hallucinated two stray Chinese characters (a "
+     "full-width comma and 'from') in the middle of an otherwise all-Malay/English turn -- "
+     "not a name or agency, but the same class of ASR garble this file already corrects "
+     "for (see 'barbarunilah' above). CONFIRMED BY THE OWNER 2026-09-18: 'rafizi is saying "
+     "\"tahun bila?\" theres no chinese character. thats weird'. Also recorded in "
+     "data/speaker_adjudications.json under ep02:berhenti_owner_ruled_2026_09_18, keyed "
+     "02:28 with text_was and text_now, so check_owner_text.py restores it if a rebuild "
+     "reverts it."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the

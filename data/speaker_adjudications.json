@@ -1,4 +1,19 @@
 {
+ "ep02:berhenti_owner_ruled_2026_09_18": {
+  "02:28": {
+   "who": "Rafizi",
+   "text_was": "， 从 bila? I think 2017. 17 lah. 16. I think 16. 16, 17. Eh, kau ada lagi kat sini?",
+   "text_now": "Tahun bila? I think 2017. 17 lah. 16. I think 16. 16, 17. Eh, kau ada lagi kat sini?",
+   "_note": "OWNER RULING 2026-09-18. MAI hallucinated a full-width Chinese comma and the character for 'from' at the head of the turn. Owner: 'rafizi is saying \"tahun bila?\" theres no chinese character. thats weird'. Corrected in scripts/fix_proper_nouns.py so a rebuild does not reintroduce it; recorded here so check_owner_text.py restores it if fix_proper_nouns.py is ever skipped."
+  }
+ },
+ "ep02:berhenti_rule7_owner_ruled_2026_09_18": {
+  "1:20:29": {
+   "who": "Rafizi",
+   "text_now": "kerana dah menang pilihan raya.",
+   "_note": "OWNER RULING 2026-09-18, on the rule 7 contested boundary reported by check_overlap_boundaries.py --all at [1:20:23]. Owner was given a ?t= link and answered: \"yes Rafizi is speaking, can check with camera reference\". data/camera_ref_ep02-berhenti.rttm reads Rafizi continuously across 4817-4837s, spanning this whole block (the block sits at 4829s), confirming the ruling. This is a WHOLE-BLOCK relabel: the block was labelled Iswardy Morni and is now Rafizi, completing Rafizi's preceding sentence '...tidak ada program yang khusus untuk menang pilihan raya' + 'kerana dah menang pilihan raya.' as one continuous turn under rule 6."
+  }
+ },
  "ep06:berhenti_rule7_owner_ruled_2026_09_18": {
   "29:36": {
    "who": "Rafizi",

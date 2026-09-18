@@ -65,7 +65,11 @@ def records():
         for section, body in blob.items():
             if not isinstance(body, dict):
                 continue
-            tag = re.match(r"(ep\d+)", section)
+            # An era-suffixed tag (`ep02:berhenti`) needs the suffix too, or the bare
+            # `ep02` this used to capture is ambiguous between eras and every record for
+            # a colon-tagged episode silently never matches (found on ep02:berhenti's
+            # 02:28 correction, 2026-09-18).
+            tag = re.match(r"(ep\d+(?::[a-z]+)?)", section)
             if not tag:
                 continue
             for stamp, rec in body.items():
