@@ -33,6 +33,14 @@ model: z-ai/glm-5.2:free
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa Melayu (closest to how it was actually spoken). Rewritten segment by segment, each segment gated on length, Malay density, figures and speaker labels. See raw.md for the unedited transcript, or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 1 — Yang Berhenti Menteri #1**  
+20 June 2025 · 1h 20m · [watch on YouTube](https://www.youtube.com/watch?v=-NjVESCWO8w)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Salam sejahtera. Intro saya tak penting pada hari ini sebab kita ada baju yang sangat rare, Kampung Springfield, YB. Kat mana YB dapat? Sebab tak ada siapa dapat. Tapi tiba-tiba YB ada pula.
