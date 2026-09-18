@@ -625,6 +625,13 @@ CORRECTIONS = [
      "of the same two seconds MAI transcribes as `JAC`, and MAI is the better-measured "
      "engine (3.39% podcast WER against local Whisper's 20.52%). The topic decides it, not "
      "the engine's score: the sentence is about appointing the Chief Justice."),
+    (r"Akta JAC 209(?![A-Za-z0-9])", "Akta JAC 2009",
+     "The third witness for the same ep05:berhenti citation, found 2026-09-18 when the "
+     "MAI+camera adoption's own rewrite gate could not reproduce a figure raw.md never "
+     "really had. MAI got the agency name right but dropped the year's trailing digit: "
+     "`122B, kan, Akta JAC 209.` The comment above already names this exact reading as one "
+     "of the two witnesses that settled `Akta JAC 2009`, so this just gives it its own "
+     "pattern instead of leaving the gap the earlier entries' agency-name anchor missed."),
     (r"Suruhanjaya Lantikan Kehakiman(?![A-Za-z])", "Suruhanjaya Pelantikan Kehakiman",
      "FOUND BY check_agencies.py in the end-of-session audit, 2026-09-14: 3 occurrences in "
      "ep30, one in raw.md and one in each of interview.md and interview-ms.md, all in the "
@@ -770,6 +777,10 @@ CORRECTIONS = [
      "ep60 2:46:14, Sum Dek Joe. The false start `Ba-` is MAI hearing the same two letters twice."),
     (r"Babi tahu satu harga", "YB tahu satu harga", "ep26 04:44, Haziq: `YB tahu satu harga tu berapa?`"),
     (r"Babi drive sendiri", "YB drive sendiri", "ep19 1:28:32. Meaningless as the animal."),
+    (r"tak peduli babi\. RMK", "tak peduli YB. RMK",
+     "ep05:berhenti 14:31 (?t=871s), the guest DSA, mid-sentence not after a comma. Owner "
+     "ruled 2026-09-18 after listening: `siapa pun tak peduli babi. RMK yang sebelum-sebelum "
+     "ni...` -- he addresses Rafizi as YB throughout the rest of the same turn."),
     (r"tempoh dah, Babi eh", "tempoh dah, YB eh",
      "ep55, the guest Dato' Dr Syed Azuan at 52:35 by MAI's clock (raw.md's stamp says "
      "51:46, 49 s out). OWNER RULED 2026-09-16, asked directly and answered *'its YB not "

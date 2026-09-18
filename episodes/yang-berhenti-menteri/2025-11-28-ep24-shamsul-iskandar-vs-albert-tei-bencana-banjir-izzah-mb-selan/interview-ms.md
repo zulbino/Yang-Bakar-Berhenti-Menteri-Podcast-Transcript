@@ -38,6 +38,14 @@ model: claude-sonnet-5
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 24 — Shamsul Iskandar vs Albert Tei, Bencana Banjir & Izzah MB Selangor? - YBM EP 24**  
+28 November 2025 · 2h 29m · [watch on YouTube](https://www.youtube.com/watch?v=pGdNql7Ovz4)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan selamat datang ke podcast Yang Berhenti Menteri episod 24, bersama saudara Rafizi Ramli seperti biasa. Sebelum kita mulakan segmen biasa, YB, ada orang tanya — minggu ni minggu terakhir kempen PRN Sabah. Ada yang tanya, pertama, kenapa YB Rafizi tak turun kempen sekali? Kedua, kalau tidak, ada tak mana-mana orang parti yang teks YB, "tolonglah turun sekali ataupun jemputlah turun sekali kempen"?

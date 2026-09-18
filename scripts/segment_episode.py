@@ -120,12 +120,13 @@ def main():
     ap.add_argument("--out", help="write the segments as json")
     args = ap.parse_args()
 
-    import glob
-    matches = glob.glob(str(ROOT / "episodes" / "*" / f"*-{args.tag}-*"))
-    if len(matches) != 1:
-        sys.exit(f"{args.tag} matched {len(matches)} episodes")
-    fields, _ = common.read_frontmatter_body(Path(matches[0]) / "raw.md")
-    raw_path = Path(args.raw) if args.raw else Path(matches[0]) / "raw.md"
+    # resolve_tag(), not a bare glob: both shows have an ep01-ep06, so "ep05" alone is
+    # ambiguous and needs the "ep05:bakar" / "ep05:berhenti" form the other rewrite-stage
+    # scripts (gate_rewrite.py, rewrite_segments.py) already accept.
+    manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
+    ep_dir = ROOT / "episodes" / common.episode_path(common.resolve_tag(manifest, args.tag))
+    fields, _ = common.read_frontmatter_body(ep_dir / "raw.md")
+    raw_path = Path(args.raw) if args.raw else ep_dir / "raw.md"
 
     segments = segment(raw_path, fields["video_id"], fields["duration_seconds"], args.max_words)
     total = sum(s["words"] for s in segments)

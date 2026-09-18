@@ -36,6 +36,14 @@ model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 32 — Sekolah Banyak, Markah Jatuh: RPM, RPTM 2026–2035 & Realiti Pendidikan Malaysia**  
+23 January 2026 · 2h 54m · [watch on YouTube](https://www.youtube.com/watch?v=UF8RxxOiWDA)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Assalamualaikum. Peace be upon you. Vanakam. This is Yang Berhenti Menteri podcast episode 32, as usual with brother Rafizi Ramli. This week we're discussing a slightly heavy topic, but don't worry, there's an entertainment segment at the end. We'll start with Beria, then education, a bit of economy, education, and the entertainment segment.
@@ -402,7 +410,7 @@ So that's the background. So having covered all this—well, we need to keep spe
 
 Then of course there are many more things we need to do. For example, we need to ensure that the retirement age is reviewed. So whether we like it or not, this government or the next government needs to review the retirement age upward to 65 or above. Because right now people are afraid of getting attacked by netizens—the younger folks, our Gen Z siblings, our millennial siblings, as soon as the retirement age is mentioned, they quickly say, "oh this is evil, this means we won't be able to work." Actually, this is to be fair to your generation, brothers and sisters. If we don't do it, you will carry the burden so much in 20 years' time. So, theoretically if the economy grows, and if we succeed in boosting the economy, improving its complexity, then the amount of work available will be greater. But at least the burden of taxes and the burden of supporting the country that they will have to carry in 20 years won't be as severe compared to if we don't do this and keep the retirement age at 60. Because then you have to pay for 30 years' worth of retirement compared to now. And you remove, for example, 5 years' worth of tax money, and you remove 5 years' worth of economic output from that section of our community.
 
-**Haziq:** YB, let's go straight to implementation. I think this is another aspect—there's an AI-generated prompt going around suggesting kids will be sucking on baby bottles while studying in class. Then there are those saying, oh, this will cause a shortage of classrooms, will give an advantage to those who are more well-off, will create disparity in terms of inequality and so on. Syed Sadiq said something like that.
+**Haziq:** YB, let's go straight to implementation. I think this is another aspect—there's an AI-generated prompt going around suggesting kids will be sucking on YB bottles while studying in class. Then there are those saying, oh, this will cause a shortage of classrooms, will give an advantage to those who are more well-off, will create disparity in terms of inequality and so on. Syed Sadiq said something like that.
 
 **Rafizi:** Syed Sadiq's statement yesterday—it's as if something is missing.
 

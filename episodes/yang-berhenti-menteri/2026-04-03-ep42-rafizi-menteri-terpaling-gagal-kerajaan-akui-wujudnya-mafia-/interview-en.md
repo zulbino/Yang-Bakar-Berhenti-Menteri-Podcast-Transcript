@@ -35,6 +35,14 @@ model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite).
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 42 — Rafizi Menteri Terpaling Gagal & Kerajaan Akui Wujudnya Mafia Korporat**  
+3 April 2026 · 2h 59m · [watch on YouTube](https://www.youtube.com/watch?v=ABPgNUXVrew)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Episode 42 of the podcast Yang Berhenti Menteri. Assalamualaikum and greetings. As usual with brother Rafizi Ramli, and as an unusual guest, with brother Zikri.
