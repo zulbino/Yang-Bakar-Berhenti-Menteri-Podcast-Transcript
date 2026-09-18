@@ -895,6 +895,12 @@ CORRECTIONS = [
      "`Suara wekiat` in the same block is a separate garble and is deliberately left "
      "alone: the owner ruled on the name."),
 
+    (r"Komen Babi\.", "Komen YB.",
+     "ep64 1:53:37, Haziq: 'Komen YB.' at the end of a question to Rafizi, asking for his "
+     "comment on TNB's monopoly -- the same MAI mishearing as every other 'Babi' for the "
+     "honorific YB (36 occurrences found 2026-09-16). `Komen Babi` has no meaning in "
+     "context; `Komen YB` is the show's ordinary phrase."),
+
     ("， 从 bila\\?",
      "Tahun bila?",
      "ep02:berhenti 02:28, Rafizi. MAI hallucinated two stray Chinese characters (a "
