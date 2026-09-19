@@ -1,4 +1,16 @@
 {
+ "ep09_rule7_owner_ruled_2026_09_19": {
+  "17:21": {
+   "who": "Rafizi",
+   "text_now": "sebenarnya ambil maklum pasal kes Zara ni.",
+   "_note": "OWNER RULING 2026-09-19, on the rule 7 contested boundary reported by check_overlap_boundaries.py --all at [17:21] (https://youtu.be/hDQLr8WvTjA?t=1035). Owner was given the link and answered 'the first one is Rafizi. Confirmed with camera reference'. This is a WHOLE-BLOCK relabel: the block was labelled Rodziah Ismail and is now Rafizi, completing his preceding fragment '[17:17] Saya, saya ingat, saya barulah' + 'sebenarnya ambil maklum pasal kes Zara ni.' as one continuous turn under rule 6."
+  },
+  "2:08:49": {
+   "who": "Rodziah Ismail",
+   "text_now": "saya tak pernah duduk dalam boarding school or elite, elite school kan.",
+   "_note": "OWNER RULING 2026-09-19, on the rule 7 contested boundary reported by check_overlap_boundaries.py --all at [2:08:49] (https://youtu.be/hDQLr8WvTjA?t=7723). Owner was given the link and answered 'second one is Rodziah'. This is a WHOLE-BLOCK relabel: the block was labelled Rafizi and is now Rodziah Ismail, completing her preceding fragment '[2:08:47] And then maybe tak tahulah sebab' + 'saya tak pernah duduk dalam boarding school or elite, elite school kan.' as one continuous turn under rule 6."
+  }
+ },
  "ep02:berhenti_owner_ruled_2026_09_18": {
   "02:28": {
    "who": "Rafizi",
