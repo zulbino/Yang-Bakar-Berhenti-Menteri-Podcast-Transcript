@@ -93,6 +93,13 @@ def segment(raw_path, video_id, runtime, max_words=MAX_WORDS):
     marks = chapters_of(video_id)
     if not marks:
         marks = [(0, "Full episode")]
+    elif marks[0][0] > 0:
+        # The show's own chapter marks routinely start after an un-chaptered cold open
+        # (ep64's first mark is 5:28, not 0:00) -- widening the first mark's start to 0
+        # keeps that intro inside the first chapter's segment instead of silently dropping
+        # it, which is what happened before this fix: 649 spoken words, 27 turns, gone from
+        # every derived file with no error anywhere in the pipeline.
+        marks[0] = (0, marks[0][1])
     out = []
     for i, (start, title) in enumerate(marks):
         end = marks[i + 1][0] if i + 1 < len(marks) else runtime

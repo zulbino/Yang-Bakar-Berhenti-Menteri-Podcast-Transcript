@@ -13,22 +13,20 @@ hosts:
 - Farhan (Pa'an)
 guests: []
 topics:
-- 'Segmen Beria: Ceplos menyalahkan TNB atas kenaikan tarif elektrik'
-- Krisis takhta Negeri Sembilan dan kenyataan Menteri Besar 'under duress'
-- 'Beria: sindiran ''ulama besar UMNO'' dan tawakuf daripada media sosial'
-- Kontroversi ucapan 'PM in waiting' Datuk Seri Ahmad Zahid Hamidi
-- 'Beria: formula linear Y=MX+C Shahrir untuk agihan kerusi BN-PAS'
-- Penangguhan keputusan permohonan pengampunan Datuk Seri Najib Razak
-- 'Struktur tarif elektrik TNB: base tariff, energy charge, capacity charge, network charge'
-- Automatic Fuel Adjustment (AFA) dan mekanisme ICPT dalam bil elektrik
-- Krisis bekalan gas Semenanjung dan kebergantungan kepada import LNG (tier 1 dan tier 2 gas)
-- Kesan pertumbuhan data center terhadap permintaan elektrik dan reserve margin
-- Soal keuntungan TNB, Weighted Average Cost of Capital (WAC) dan tuduhan monopoli
-- Peralihan tenaga (NETR), sasaran renewable energy mix 2030-2050, solar atap dan tenaga nuklear
-- Dinamik hubungan UMNO-PAS-Wawasan dan pertikaian pembahagian kerusi PRU akan datang
-- Hubungan Anwar Ibrahim dengan GPS/GRS Sabah Sarawak dan isu satu pertiga kerusi parlimen
-- Penarikan balik DNA Tan Sri Muhyiddin Yassin dan spekulasi rundingan PKR-Bersatu di Selangor
-summary: Episod podcast Rafizi Ramli ini bermula dengan segmen "Beria" mingguan yang mengulas pelbagai kontroversi dan komen viral -- termasuk Ceplos yang menyalahkan TNB, isu takhta Negeri Sembilan, "ulama besar UMNO", ucapan "PM in waiting" Datuk Seri Zahid, formula linear Shahrir untuk agihan kerusi PAS-UMNO, dan penangguhan pengampunan Najib. Bahagian utama episod ini ialah penjelasan mendalam dan teknikal oleh Rafizi mengenai struktur tarif elektrik TNB -- bagaimana tarif asas, AFA, capacity charge dan network charge dikira, peranan kerajaan dalam menetapkan tarif melalui Regulatory Period (RP4), isu bekalan gas Semenanjung yang berkurangan dan kebergantungan kepada import LNG, kesan data center terhadap permintaan elektrik, soal keuntungan dan monopoli TNB, serta cabaran peralihan tenaga (NETR) termasuk solar dan tenaga nuklear. Episod ditutup dengan analisis politik semasa mengenai hubungan UMNO-PAS-Wawasan dalam pembahagian kerusi, hubungan Anwar dengan GPS/GRS Sabah Sarawak dan isu satu pertiga kerusi parlimen, serta kontroversi penarikan balik DNA (Discharge Not Amounting to Acquittal) Muhyiddin Yassin dan spekulasi rundingan PKR-Bersatu.
+- 'Segmen Beria: kontroversi bil TNB, krisis takhta Negeri Sembilan dan kenyataan under duress, formula linear Y=MX+C Shahir untuk agihan kerusi PAS-UMNO, khabar pembebasan/pengampunan Datuk Seri Najib, komen ulama besar UMNO dan ucapan ''PM in waiting'' Zahid'
+- Sejarah penswastaan Lembaga Letrik Negara (LLN) kepada Tenaga Nasional Berhad (TNB) dan tanggungjawab kerajaan mengawal tarif
+- Mekanisme penetapan tarif asas elektrik mengikut Regulatory Period (RP1-RP4) dan komponen kos bahan api
+- Peralihan daripada ICPT kepada Automatic Fuel Adjustment (AFA) bulanan dan sebab kenaikan surcaj AFA berbanding rebat tahun lepas
+- 'Krisis bekalan gas Semenanjung: gas tier 1 vs tier 2, kebergantungan meningkat kepada import LNG dan kesan kepada ringgit'
+- 'Capacity charge dan network charge: perancangan kapasiti grid, reserve margin dan isu spare capacity'
+- Kesan pertumbuhan data center terhadap permintaan elektrik dan kadar utilisasi rendah projek data center yang diluluskan MITI
+- Struktur keuntungan TNB (Weighted Average Cost of Capital 7.3%) dan dakwaan TNB mengaut untung berbilion
+- Perdebatan monopoli TNB berbanding pengalaman liberalisasi elektrik di United Kingdom (British Energy)
+- Peralihan tenaga negara (NETR), sasaran renewable energy mix 2030-2050, pemasangan solar atap dan trilema tenaga (affordability, security, sustainability)
+- Dinamik hubungan UMNO-PAS-Wawasan dan pertikaian pembahagian kerusi (agihan kerusi SG4/Semenanjung) menjelang PRU
+- Kedudukan strategik GPS dan GRS Sabah Sarawak dalam pakatan Madani berbanding ancaman penyatuan UMNO-PAS
+- Kontroversi penarikan balik DNA (discharge not amounting to acquittal) kes RM200 juta Tan Sri Muhyiddin Yassin dan implikasi kepada rundingan Bersatu-PKR
+summary: Episod ke-64 Podcast Yang Berhenti Menteri bermula dengan segmen Beria mingguan yang mengupas pelbagai isu viral termasuk kontroversi bil TNB, krisis takhta Negeri Sembilan, formula linear PAS-UMNO Shahir, dan khabar angin pembebasan Najib. Segmen utama episod ini ialah penjelasan mendalam Rafizi mengenai struktur tarif elektrik TNB — dari sejarah penswastaan LLN, mekanisme AFA/ICPT, capacity dan network charge, isu bekalan gas Semenanjung yang semakin susut, kesan data center, sehingga persoalan monopoli TNB dan cabaran peralihan tenaga negara. Episod ditutup dengan analisis politik semasa mengenai hubungan UMNO-PAS-Wawasan, kedudukan GPS/GRS Sabah Sarawak, serta kontroversi penarikan balik DNA (Discharge Not Amounting to Acquittal) Tan Sri Muhyiddin Yassin.
 language: en
 model: claude-haiku-4-5-20251001, gemini-flash-lite-latest
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite), translated segment by segment.
@@ -44,45 +42,87 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 # Interview (English)
 
-**Rafizi:** What's the matter? What are they up to now?
+**Haziq:** Assalamualaikum and peace be upon you. Welcome to episode 64 of the *Yang Berhenti Menteri* podcast. Good day, good evening, and happy birthday to Uncle Rafizi Ramli.
 
-**Haziq:** They joined in being angry at TNB. They are mad about why TNB just issued a media statement. Why didn't they explain it properly and hold a press conference? Not siding with TNB, but I feel the answers are already on ChatGPT and all sorts of places. And maybe YB will explain it at length tonight.
+**Rafizi:** Do you really have to mention that? Seriously. You've ruined the podcast right from the start.
 
-**Rafizi:** I'm speechless too. So are they just drawing a salary for doing nothing or what?
+**Haziq:** But I just wanted to ask because, YB, people always say—well, not me, but people say—you have a certain wisdom, you know, when talking about birthdays.
 
-**Haziq:** Ha, they're sub-contractors to TNB.
+**Rafizi:** Who says I have wisdom?
 
-**Rafizi:** TNB staff won't vote for PKR after this. Because they just casually scapegoat TNB. Because all those tariffs, well, are set by the government according to a formula. The government, you see. It's set by the government according to formula. In fact, we'll comment on it later. I remember, but we've discussed this matter at length before. Ha, episode two. But before that no, at that time it wasn't memorized yet. Unresolved.
+**Haziq:** Is it on Threads? Ah, when—
 
-**Haziq:** There's a mosquito.
+**Rafizi:** You even harvest stuff from Threads.
 
-**Rafizi:** Okay, there are mosquitoes here, you know. We've discussed episode two. But at that time it was still ICBT. So at that time, hadn't it entered RP4 yet?
+**Haziq:** Y— YB is currently the champion of Threads. Well, look, on Threads I just play around. People think I'm the admin, but that's actually YB himself, right? But speaking of birthdays, how do you react to that sort of thing?
 
-**Haziq:** Starting July, right? I don't remember, episode two wasn't July yet.
+**Rafizi:** Birth date. Birth date. Because to be precise, when is a "hari jadi" (day of becoming)? At the moment of conception.
 
-**Rafizi:** But they hadn't announced RP4 yet at that time. Just about to, see. So the matter is decided by the government, and if I were a TNB staff member, I'd say Ceplos is really trying hard. Because you casually throw it at TNB as if TNB arbitrarily did this and washed your hands of it, therefore we will also try hard not to vote for PKR. Quite a daring incitement. So, that's just how functional those Ceplos guys are. Aren't they quiet now?
+**Haziq:** At the moment of becoming. Okay, conception.
 
-**Haziq:** So to be fair, not many tried to touch on it. But the ones who did touch on it blamed TNB.
+**Rafizi:** To be precise. That's why it should be called "hari lahir" (day of birth). Okay. You don't know precisely when fertilization happens. That's the *hari jadi*. Ah, yes, yes, yes, yes. So it's probably *hari lahir*.
 
-**Rafizi:** Why is Wan—this guy is bald too, but not Wan Faizuddin—why does Wan Faizuddin seem so quiet?
+**Haziq:** *Hari lahir*. How do you react when people say "Happy birthday, happy birthday"? How, how do you react?
 
-**Haziq:** He's around, but he touches on issues.
+**Rafizi:** Move on, why? Why talk about happy birthdays? Move on. Move on to the next topic. Ah, okay, okay, okay. Ha, I'm getting hit right at the beginning. See? It's already happening. Okay. Because we don't follow a script. So sometimes Haziq—even I don't understand how he starts things so randomly. Random. Random.
 
-**Rafizi:** But why isn't he cursing at me every day anymore?
+**Haziq:** It's not easy to start. Some randoms work out, and some. don't work out. Don't work out.
 
-**Haziq:** Ha, but I noticed it too.
+**Rafizi:** Don't work out. This is an example.
 
-**Rafizi:** I don't follow.
+**Haziq:** But there's another thing, which is—since we are recording on a Thursday night. And YB, being someone with a lot of info, mentioned that there's some news circulating. I think right now, apart from TNB, what people are making noise about is the issue of the throne in Negeri Sembilan. But another issue is the release of Datuk Seri Najib. So. Well, it started circulating around this afternoon.
 
-**Haziq:** True, true. I just saw it earlier. The attacks are mostly directed at UMNO. Regarding the Negeri Sembilan throne issue. That's his latest posting.
+**Rafizi:** Oh, okay. So by the time this podcast is broadcast—well, I don't know, hopefully it doesn't turn out to be just a rumor or if something has actually been confirmed. But the information circulating is from people who are very close, I suppose. Including, well—I can't mention who. Fair enough. But we were informed that there is a very high possibility that Datuk Seri Najib will be granted house arrest. Well, I mean, that's what the pardon or the release is about, right? Ah, okay. Meaning it's house arrest. Ah, right, right, right. So, we will only know by the time it goes live. By the time it goes live. Ah, so don't ask us to comment on it right away. We're mentioning this because if that happens, it means the biggest news at the time this podcast is broadcasted will be the news about Datuk Seri Najib's release from prison. So we won't have time to comment because we are recording this a day earlier than usual. Okay, right, right, right, right.
 
-**Rafizi:** So he doesn't rave about me in his sleep every night anymore.
+**Haziq:** Okay. We'll move on to the break, but before that, this setup might only be temporary, YB. Because Farhan has work, he said.
 
-**Haziq:** YB shouldn't bother.
+**Rafizi:** Ah, as if I have to be the one who obeys commands. But isn't the YBM podcast supposed to be a joint podcast anymore? Why can't it be done at Bersama?
 
-**Rafizi:** No, it's just that these Ceplos guys have no value. So now they are helping Datuk Seri Anwar Ibrahim by generating hatred from TNB staff instead.
+**Haziq:** Different branding? Well, that's one thing.
 
-**Haziq:** A good strategy. Okay, fine. Next, YB. We have a slight Negeri Sembilan throne issue. The resolution: say one thing in front, something else behind, do another thing, announce something else. There's been a U-turn again, right?
+**Rafizi:** He doesn't want a hard sell,?
+
+**Haziq:** That's what's on my cynical mind.
+
+**Rafizi:** It's because it's not neutral. If, for example, we want to invite a panel, other panel members, you know. It might not be suitable to go to the Bersama headquarters for a podcast. You know. So, but today due to logistical reasons, it's fine—we have the giant Kancil as our background.
+
+**Haziq:** The giant logo, yes. Okay, okay. Alright YB, let's check out what's trending before we look at what people are angry about this week. We have some news. First of all. First of all, we have Ceplos instead of explaining.
+
+**Rafizi:** What's wrong? What did they do this time?
+
+**Haziq:** They joined in on blaming TNB. They were angry about why TNB just issued a media statement. Why didn't they explain properly, hold a press conference? Not that I'm taking TNB's side, but I think the answer is already on ChatGPT and all sorts of places. And maybe YB will explain it at length tonight.
+
+**Rafizi:** I'm speechless too. So are they drawing a salary for doing nothing or what?
+
+**Haziq:** Ha, they're subcontractors for TNB. I hope that —
+
+**Rafizi:** TNB staff won't vote for PKR anymore after this. Because they so casually scapegoated TNB. Because all those tariffs, you know, are set by the government. Yes. According to a formula. The government. It is set by the government according to a formula. In fact, we will elaborate on it later. I think, though we've elaborated on this at length before. Ah, episode two. But before that, no, at that time we hadn't memorized it yet. Not finished. Okay. Okay, there's a mosquito here, you know. We already discussed it in episode two. But at that time, it was still ICBT. So wasn't it entered into RP4 yet?
+
+**Haziq:** It started in July, right? I don't remember episode two being before July yet.
+
+**Rafizi:** But they hadn't announced RP4 yet at that time. They were just about to—so. That thing is set by the government, and if I were a TNB staff member, I'd say Ceplos is really overdoing it. Since you so casually throw TNB under the bus as if TNB decided this on their own and washed your hands of it, therefore we will also make a point of not voting for PKR. Oh. A daring incitement. So, so that's how "functional" those Ceplos are. Okay, right, right, right. Didn't they go quiet already?
+
+**Haziq:** Well, to be fair, not many people tried to touch on it. But when they did touch on it, they blamed TNB.
+
+**Rafizi:** Why does Wan—this guy is also bald, but not Wan Faizuddin—why does Wan Faizuddin look like he's gone quiet?
+
+**Haziq:** He's around, but he touches on other issues.
+
+**Rafizi:** But why isn't he—he doesn't hurl abuse at me every day anymore.
+
+**Haziq:** Ha, but I noticed that too.
+
+**Rafizi:** I don't follow him.
+
+**Haziq:** True, true. I just checked earlier. The attacks are mostly directed at UMNO now. About the Negeri Sembilan throne issue. That's his latest post.
+
+**Rafizi:** So he doesn't rave about me every night anymore.
+
+**Haziq:** YB should just let it be.
+
+**Rafizi:** Nah, Ceplos isn't even worth much. Ah yes. Okay. So now he's helping Datuk Seri Anwar Ibrahim by taking on the hatred from TNB staff instead.
+
+**Haziq:** A good strategy. Okay, right. Next, YB. We have. ah, the Negeri Sembilan throne issue a little bit. Solving it by saying one thing to your face, another behind your back, doing something else, and announcing something else. Looks like there's a U-turn again, huh?
 
 **Rafizi:** What is so strange about it is ba-
 
