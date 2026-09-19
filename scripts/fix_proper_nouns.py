@@ -801,6 +801,13 @@ CORRECTIONS = [
      "independent engines agreeing on a wrong word is not a majority, it is one piece of "
      "audio heard twice. The owner's ear outranks both. "
      "https://youtu.be/4mmuPwkB5f4?t=3155"),
+    (r"Babi Roziah", "YB Rodziah",
+     "ep04:berhenti ~13:37 (?t=817s, estimated, no caption track). A double garble in one "
+     "phrase: `Babi` for the `YB` honorific (this family) AND `Roziah` for `Rodziah`, the "
+     "guest named elsewhere in the corpus (ep09, as `Rodziah Ismail`). OWNER RULED "
+     "2026-09-19 after being asked: `its YB Rodziah...`. Escalated rather than guessed, "
+     "because the context (an ordinary village social-enterprise founder) did not confirm "
+     "the YB-garble reading the way the other 36 occurrences did."),
 
     # ------------------------------------------------------------------------------------
     # SLURS THE REWRITE INVENTED, found 2026-09-16 by the same sweep that caught `Babi`.
