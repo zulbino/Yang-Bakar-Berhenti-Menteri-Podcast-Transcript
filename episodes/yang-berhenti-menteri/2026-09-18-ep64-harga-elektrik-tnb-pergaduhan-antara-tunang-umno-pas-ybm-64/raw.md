@@ -15,7 +15,7 @@ note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim s
 **Yang Berhenti Menteri episode 64 — Harga Elektrik & TNB, Pergaduhan Antara ''Tunang'' UMNO & PAS**  
 18 September 2026 · 2h 50m · [watch on YouTube](https://www.youtube.com/watch?v=n1_5T5ozulo)
 
-This episode: **verbatim raw transcript**  
+This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
 The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
 <!-- /nav -->
 
