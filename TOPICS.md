@@ -196,26 +196,21 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [Yang Berhenti Menteri #4](https://www.youtube.com/watch?v=VR4qReRZSR8) &middot; [raw](episodes/yang-berhenti-menteri/2025-07-11-ep04-yang-berhenti-menteri-4/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2025-07-11-ep04-yang-berhenti-menteri-4/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2025-07-11-ep04-yang-berhenti-menteri-4/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2025-07-11-ep04-yang-berhenti-menteri-4/interview-ms.md)
 
-- Ayuh Malaysia social enterprise
-- musyarakah/Islamic finance model
-- third sector economy
-- B40/T15 subsidy targeting
-- RON95 subsidy rationalization
-- SST and government revenue
-- national debt and debt-to-GDP ratio
-- development vs operating expenditure
-- Malaysia economic performance under MADANI
-- ringgit exchange rate history
-- inflation and deflation dynamics
-- FDI reporting vs realized investment
-- DOSM data integrity
-- semiconductor industry and ARM chip strategy
-- progressive wage policy for SMEs
-- government economic communication
-- judicial appointment controversy
-- Rafizi's resignation as PKR deputy president
-- internal party dissent and collective responsibility
-- Anwar Ibrahim's leadership and integrity
+- Ayuh Malaysia dan social enterprise berasaskan konsep musyarakah Islam
+- Model perkongsian modal dengan equity partner, asset partner, dan operating partner
+- Pembangunan sektor ketiga ekonomi dan alternatif ekspansi kerajaan
+- Pertumbuhan ekonomi Malaysia 5.1% dan prestasi pasaran saham 2024
+- Penyasaran subsidi RON 95 dan klasifikasi T15 dalam reformasi fiskal
+- Hutang kerajaan, fiscal landing 2028, dan debt service ratio 16%
+- Warisan hutang daripada kerajaan sebelumnya (1MDB, ECRL, MRT, FELDA, Tabung Haji)
+- Inflasi rendah dan kawalan isu kenaikan harga barang
+- Penyusutan nilai ringgit Malaysian sejak 2015 dan stabilisasi mata wang
+- Isu gaji pekerja swasta, struktur SME 95%, dan gaji progresif
+- Transformasi ekonomi kepada sektor bernilai tinggi (semiconductor, digital economy, energy transition)
+- FDI dan perbezaan antara approved investment (MIDA/MITI) dengan realized investment (DOSM)
+- Integriti data statistik DOSM dan independensi pemulau statistik kerajaan
+- Komunikasi kerajaan tentang ekonomi kepada rakyat dan kredibiliti pemberi maklumat
+- Kehakiman, integriti Perdana Menteri, dan mekanisme check and balance dalam PH
 
 ## YBhM ep05 &mdash; 2025-07-18
 
@@ -297,20 +292,20 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [Yang Berhenti Menteri Episod 9 - YB Rafizi Ramli, YB Rodziah & Victor Tan](https://www.youtube.com/watch?v=hDQLr8WvTjA) &middot; [raw](episodes/yang-berhenti-menteri/2025-08-15-ep09-yang-berhenti-menteri-episod-9-yb-rafizi-ramli-yb-rodziah-vi/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2025-08-15-ep09-yang-berhenti-menteri-episod-9-yb-rafizi-ramli-yb-rodziah-vi/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2025-08-15-ep09-yang-berhenti-menteri-episod-9-yb-rafizi-ramli-yb-rodziah-vi/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2025-08-15-ep09-yang-berhenti-menteri-episod-9-yb-rafizi-ramli-yb-rodziah-vi/interview-ms.md)
 
-- Insiden keracunan keluarga Rafizi dan tekanan sebagai ahli politik/aktivis
-- Kes Zara Qairina Emran dan buli di asrama sekolah
-- Pengalaman anak Rafizi (Ben) dibuli kerana anak ahli politik
-- Budaya disiplin vs buli di Malay College Kuala Kangsar (MCKK)
-- Latihan dan kesediaan guru menangani isu buli di sekolah
-- Hubungan profesional Rafizi dengan Anwar Ibrahim dan budaya WhatsApp ahli parlimen
-- Isu buli di UTM dan kes-kes buli lain yang timbul selepas kes Zara
-- Reformasi pendidikan dan RMK13: menurunkan umur persekolahan, prasekolah universal
-- Pentadbiran Fadhlina Sidek sebagai Menteri Pendidikan dan tindak balas defensif kementerian
-- Kontroversi lencana bendera dan isu patriotisme dalam sistem pendidikan
-- Insiden pembulian pakcik di Pulau Pinang oleh Pemuda UMNO/PAS berkaitan bendera
-- Mitos 'sekolah elit' seperti MCKK dan kekurangan bajet sekolah berasrama penuh
-- Akauntabiliti pelaksanaan Rancangan Malaysia (RMK) dan mekanisme pengukuran pencapaian
-- Soalan penutup komuniti: diskriminasi, rasuah, ombudsman, dan keadilan generasi (B40, gaji)
+- Kes buli maut Zara Qairina di Sabah dan reaksi masyarakat
+- Insiden ugutan/keracunan terhadap Rafizi Ramli dan kesan emosi kepada keluarga
+- Pengalaman anak Rafizi Ramli (Ben) dibuli kerana menjadi anak ahli politik
+- Budaya disiplin, prefect system dan buli di MCKK (Malay College Kuala Kumpur)
+- Hubungan profesional Rafizi Ramli dengan Anwar Ibrahim dan budaya kerja PKR
+- Kritikan terhadap pengendalian isu buli oleh Menteri Pendidikan Fadlina Sidek
+- Kontroversi lencana/badge bendera Jalur Gemilang di sekolah dan isu patriotisme
+- Insiden buli 'pakcik' pasang bendera terbalik di Pulau Pinang oleh Pemuda UMNO/parti politik
+- Rancangan Malaysia Ke-13 (RMK13): reformasi pendidikan, universal preschool dan keadilan generasi
+- Akauntabiliti dan pelaksanaan RMK dalam Parlimen serta isu projek sekolah dibatalkan
+- Cadangan Akta Ombudsman dan isu rasuah dalam kalangan penjawat awam
+- Kesamarataan akses pendidikan berkualiti berbanding status sekolah elit/berasrama penuh
+- Relevansi dan mitos MCKK sebagai sekolah elit pada masa kini
+- Isu pelarian dan orang asing di Ampang dan Pandan sebagai 'ticking time bomb
 
 ## YBhM ep10 &mdash; 2025-08-22
 
@@ -1369,7 +1364,7 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 ## YBhM ep61 &mdash; 2026-08-28
 
-[NEGERI MISKIN SEBAB DIANAKTIRI, KEGANASAN RUMAH TANGGA DALAM KERAJAAN MADANI | YBM #61](https://www.youtube.com/watch?v=2AytMmKIU7w) &middot; [raw](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview-ms.md)
+[NEGERI MISKIN SEBAB DIANAKTIRI, KEGANASAN RUMAH TANGGA DALAM KERAJAAN MADANI | YBM #61](https://www.youtube.com/watch?v=2AytMmKIU7w) &middot; [raw](episodes/yang-berhenti-menteri/2026-08-28-ep61-semua-kena-dakwa-keganasan-rumah-tangga-madani-kerajaan-pers/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-08-28-ep61-semua-kena-dakwa-keganasan-rumah-tangga-madani-kerajaan-pers/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-08-28-ep61-semua-kena-dakwa-keganasan-rumah-tangga-madani-kerajaan-pers/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-08-28-ep61-semua-kena-dakwa-keganasan-rumah-tangga-madani-kerajaan-pers/interview-ms.md)
 
 - Terapi overclaim: alat hidrogen/nebulizer dan kawalan Medical Device Authority
 - Fenomena 'Malaysia Mamdani' dan perbandingan sistem Datuk Bandar New York dengan PBT Malaysia
@@ -1428,3 +1423,21 @@ Every transcript is machine-generated and carries the accuracy caveats in
 - Peruntukan perbelanjaan pendidikan berbanding hasil
 - Cadangan reformasi pendidikan awal kanak-kanak
 - Kritikan kepimpinan Anwar Ibrahim dan Fadlina Sidek
+
+## YBhM ep64 &mdash; 2026-09-18
+
+[Harga Elektrik & TNB, Pergaduhan Antara ''Tunang'' UMNO & PAS | YBM #64](https://www.youtube.com/watch?v=n1_5T5ozulo) &middot; [raw](episodes/yang-berhenti-menteri/2026-09-18-ep64-harga-elektrik-tnb-pergaduhan-antara-tunang-umno-pas-ybm-64/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-09-18-ep64-harga-elektrik-tnb-pergaduhan-antara-tunang-umno-pas-ybm-64/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-09-18-ep64-harga-elektrik-tnb-pergaduhan-antara-tunang-umno-pas-ybm-64/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-09-18-ep64-harga-elektrik-tnb-pergaduhan-antara-tunang-umno-pas-ybm-64/interview-ms.md)
+
+- Segmen Beria: kontroversi bil TNB, krisis takhta Negeri Sembilan dan kenyataan under duress, formula linear Y=MX+C Shahir untuk agihan kerusi PAS-UMNO, khabar pembebasan/pengampunan Datuk Seri Najib, komen ulama besar UMNO dan ucapan ''PM in waiting'' Zahid
+- Sejarah penswastaan Lembaga Letrik Negara (LLN) kepada Tenaga Nasional Berhad (TNB) dan tanggungjawab kerajaan mengawal tarif
+- Mekanisme penetapan tarif asas elektrik mengikut Regulatory Period (RP1-RP4) dan komponen kos bahan api
+- Peralihan daripada ICPT kepada Automatic Fuel Adjustment (AFA) bulanan dan sebab kenaikan surcaj AFA berbanding rebat tahun lepas
+- Krisis bekalan gas Semenanjung: gas tier 1 vs tier 2, kebergantungan meningkat kepada import LNG dan kesan kepada ringgit
+- Capacity charge dan network charge: perancangan kapasiti grid, reserve margin dan isu spare capacity
+- Kesan pertumbuhan data center terhadap permintaan elektrik dan kadar utilisasi rendah projek data center yang diluluskan MITI
+- Struktur keuntungan TNB (Weighted Average Cost of Capital 7.3%) dan dakwaan TNB mengaut untung berbilion
+- Perdebatan monopoli TNB berbanding pengalaman liberalisasi elektrik di United Kingdom (British Energy)
+- Peralihan tenaga negara (NETR), sasaran renewable energy mix 2030-2050, pemasangan solar atap dan trilema tenaga (affordability, security, sustainability)
+- Dinamik hubungan UMNO-PAS-Wawasan dan pertikaian pembahagian kerusi (agihan kerusi SG4/Semenanjung) menjelang PRU
+- Kedudukan strategik GPS dan GRS Sabah Sarawak dalam pakatan Madani berbanding ancaman penyatuan UMNO-PAS
+- Kontroversi penarikan balik DNA (discharge not amounting to acquittal) kes RM200 juta Tan Sri Muhyiddin Yassin dan implikasi kepada rundingan Bersatu-PKR
