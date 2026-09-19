@@ -103,6 +103,18 @@ CORRECTIONS = [
     (r"6 sen daripada RM2\.05 kepada RM1\.09",
      "6 sen daripada RM2.05 kepada RM1.99",
      "ep48 raw.md [38:04]: arithmetic + local ASR + captions outvote MAI's 1.09."),
+    # ep05:bakar [1:20:11], a digit settled by the local ASR witness, no ear needed: Rafizi
+    # describes the middle income band getting squeezed by wage compression, "yang kat
+    # tengah ni yang gaji [X] ke 4000". The pre-MAI local-ASR raw.md clearly heard
+    # "RM1,800 ke RM4,000" -- a coherent middle-income range -- while MAI alone heard
+    # "1008", an implausible salary figure and likely a digit-formation garble of 1,800.
+    # No YouTube caption coverage of this passage to add a third witness, but the local
+    # ASR is the only other witness and it is unambiguous.
+    (r"gaji 1008 ke 4000",
+     "gaji RM1,800 ke RM4,000",
+     "ep05:bakar raw.md [1:20:11]: local-ASR witness (_old_ep05-bakar_raw.md) says "
+     "'RM1,800 ke RM4,000'; MAI alone heard '1008 ke 4000'. 1,800 makes sense as a "
+     "middle-income band bound with 4,000; 1008 does not."),
     # The same guest addressed by his nickname on air (ep60, ep63). Owner 2026-09-12: spell
     # it Joe. The lookbehind/lookahead keep ep16's "Hang Jo" (Hangzhou) and ep51's "Jo-
     # Johor" untouched.
