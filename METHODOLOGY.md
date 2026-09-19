@@ -3,7 +3,7 @@
 This page covers what produced the files in this archive, how they can be wrong, and how
 to report an error. Read it before you cite anything here.
 
-A machine transcribed 175 hours of speech and a second machine rewrote the result into
+A machine transcribed 178 hours of speech and a second machine rewrote the result into
 readable interviews. I reviewed the output, but not line by line. Five passages had put
 words in the mouth of the wrong real person before I caught them.
 
@@ -12,7 +12,7 @@ words in the mouth of the wrong real person before I caught them.
 I do not like generative AI, and I used it anyway, because the alternative was that this
 archive would not exist.
 
-The corpus is 70 episodes and 175 hours. The speech switches between Bahasa Melayu and
+The corpus is 71 episodes and 178 hours. The speech switches between Bahasa Melayu and
 English inside single sentences, and often three people talk at once. Hand-transcribing
 that is roughly a year of full-time work for one person, and I am one person doing this
 outside a job. A machine transcript that exists and can be checked against the video beats
@@ -62,7 +62,7 @@ myself:
 - **Disputed passages.** I listened to the original recording wherever a passage needed a
   human decision.
 
-**I have not verified any episode line by line.** At 175 hours, I am not going to pretend
+**I have not verified any episode line by line.** At 178 hours, I am not going to pretend
 otherwise. Automated checks cover the whole archive. Human review covers the places a check
 pointed at.
 
@@ -94,7 +94,7 @@ names a substitution rather than a repair of a garble.
 
 ep60 took two passes to fix, and the second needed a source outside this archive. The first
 pass restored what the two speech-to-text systems heard. Both of those names then appeared
-exactly once each in 175 hours, so nothing in the corpus could identify the men. The press
+exactly once each in 178 hours, so nothing in the corpus could identify the men. The press
 could. Datuk Dr Ismail Salleh, of Amanah's national leadership council, and Abied Abdullah,
 a social-media account owner, were each served a RM5 million letter of demand over the RCI
 Tabung Haji report. The episode agrees on the names, on their order, and on the `LOD 5
