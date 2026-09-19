@@ -264,9 +264,8 @@ def regate(a):
     """Re-measure saved tries with the current gate; accept the first that passes. No calls."""
     manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
     episode = resolve_tag(manifest, a.tag)
-    tag = a.tag.partition(":")[0]
-    workdir = Path(a.workdir or ROOT / "data" / f"_{artifact_tag(tag)}_rewrite")
-    segments = json.loads(Path(a.segments or ROOT / "data" / f"_{artifact_tag(tag)}_segments.json")
+    workdir = Path(a.workdir or ROOT / "data" / f"_{artifact_tag(a.tag)}_rewrite")
+    segments = json.loads(Path(a.segments or ROOT / "data" / f"_{artifact_tag(a.tag)}_segments.json")
                           .read_text(encoding="utf-8"))
     names = names_for(episode["video_id"])
     for stage in [s for s in STAGES if s in a.stage]:
@@ -391,7 +390,7 @@ def main():
         return
     for stage in [s for s in STAGES if s in a.stage]:
         for i in a.accept_figures:
-            wd = Path(a.workdir or ROOT / "data" / f"_{a.tag.partition(':')[0]}_rewrite") / stage
+            wd = Path(a.workdir or ROOT / "data" / f"_{artifact_tag(a.tag)}_rewrite") / stage
             rep_path = wd / f"seg{i:02d}.json"
             if not rep_path.exists():
                 continue
@@ -406,10 +405,9 @@ def main():
 
     manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
     episode = resolve_tag(manifest, a.tag)
-    tag = a.tag.partition(":")[0]
-    segments = json.loads(Path(a.segments or ROOT / "data" / f"_{artifact_tag(tag)}_segments.json")
+    segments = json.loads(Path(a.segments or ROOT / "data" / f"_{artifact_tag(a.tag)}_segments.json")
                           .read_text(encoding="utf-8"))
-    workdir = Path(a.workdir or ROOT / "data" / f"_{artifact_tag(tag)}_rewrite")
+    workdir = Path(a.workdir or ROOT / "data" / f"_{artifact_tag(a.tag)}_rewrite")
     names = names_for(episode["video_id"])
     extra = Path(a.instructions).read_text(encoding="utf-8") if a.instructions else ""
     caller, model = parse_model(a.model)
