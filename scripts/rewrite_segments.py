@@ -117,12 +117,24 @@ def figures(text):
     return {f.rstrip(".,").replace(",", "") for f in FIGURE_RE.findall(text)}
 
 
+def _without_labels(text):
+    # A hyphenated speaker name (e.g. "Eric See-To") tokenizes the "To" half as the
+    # English stopword "to" once per turn label, and the name is also said aloud in the
+    # dialogue itself (e.g. "Datuk Eric See-To"), inflating english_ratio on every
+    # segment of an episode with such a name even when the translation is genuine.
+    # Labels are not spoken content, so strip them; the name itself is stripped too
+    # since neither half of it is a real language word being measured.
+    text = LABEL_RE.sub("", text)
+    text = SOURCE_LABEL_RE.sub("", text)
+    return re.sub(r"\bSee-To\b", "", text, flags=re.I)
+
+
 def malay_count(text):
-    return sum(1 for w in re.findall(r"[a-z']+", text.lower()) if w in MALAY)
+    return sum(1 for w in re.findall(r"[a-z']+", _without_labels(text).lower()) if w in MALAY)
 
 
 def english_count(text):
-    return sum(1 for w in re.findall(r"[a-z']+", text.lower()) if w in ENGLISH)
+    return sum(1 for w in re.findall(r"[a-z']+", _without_labels(text).lower()) if w in ENGLISH)
 
 
 def labels_of(text, source):

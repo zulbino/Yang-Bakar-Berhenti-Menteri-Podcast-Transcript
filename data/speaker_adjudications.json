@@ -1156,5 +1156,18 @@
    "text_now": "Suara wekiat jemput ke depan. Oh. YB Akmal. Tak apalah, dia dah ada. Tak apalah.",
    "_note": "OWNER RULING 2026-09-17 on a WORD, not a label. Owner: 'its YB akmal'. MAI wrote `Oh. Babi Akmal.` and YouTube's own caption track hears `Oh Robi Akmal`, so two engines agreed on the trailing sound and disagreed on the first consonant, and neither heard a word. This is the `YB` garble that hid in 39 spans until 2026-09-16. It arrived with ep00's first MAI adoption, hours earlier the same day. Recorded here because check_owner_text.py reads text_was and text_now and restores what a rebuild reverted; fix_proper_nouns.py carries the anchored pattern so a regeneration keeps it. `Suara wekiat` in the same block is a separate garble and is NOT touched: the owner named the name and changing words is the one operation that must never be extended by inference."
   }
+ },
+ "ep06:bakar_rule7_owner_ruled_2026_09_19": {
+  "28:27": {
+   "who": "Eric See-To",
+   "text_now": "logistik semua masa Najib pun masih ada.",
+   "_note": "OWNER RULING 2026-09-19, on the rule 7 contested boundary reported by check_overlap_boundaries.py --all at [28:27] (https://youtu.be/-tpyLr5kwxI?t=1701). Owner was given the link and answered 'its correct, its Eric speaking'. NO CHANGE: the existing label (Eric See-To) is confirmed correct despite the sentence appearing to start in the preceding Syed Munawar block."
+  },
+  "37:36": {
+   "who": "Eric See-To",
+   "text_was": "Syed Munawar",
+   "text_now": "yang wang ini didapatkan, didapatkan semula.",
+   "_note": "OWNER RULING 2026-09-19, on the rule 7 contested boundary reported by check_overlap_boundaries.py --all at [37:36] (https://youtu.be/-tpyLr5kwxI?t=2250). Owner was given the link and answered 'eric, not syed'. WHOLE-BLOCK relabel: the block was labelled Syed Munawar and is now Eric See-To, completing his preceding fragment '[37:26] Lepas tu, YB kata bahawa ya, hanya selepas kerajaan PH 1.0 ambil alih' + 'yang wang ini didapatkan, didapatkan semula.' as one continuous turn under rule 6."
+  }
  }
 }
