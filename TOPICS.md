@@ -32,37 +32,42 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 ## YBkM ep02 &mdash; 2024-01-22
 
-[Yang Bakar Menteri EP 2 I YB Rafizi Ramli & Prof. Barjoyai Bardai l 22 Jan](https://www.youtube.com/watch?v=WT1m_Yl5E_M) &middot; [raw](episodes/yang-bakar-menteri/2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard/raw.md) &middot; [mixed](episodes/yang-bakar-menteri/2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard/interview.md) &middot; [EN](episodes/yang-bakar-menteri/2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard/interview-en.md) &middot; [MS](episodes/yang-bakar-menteri/2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard/interview-ms.md)
+[Yang Bakar Menteri EP 2 I YB Rafizi Ramli & Prof. Barjoyai Bardai l 22 Jan 2024 #YangBakarMenteri](https://www.youtube.com/watch?v=WT1m_Yl5E_M) &middot; [raw](episodes/yang-bakar-menteri/2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard/raw.md) &middot; [mixed](episodes/yang-bakar-menteri/2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard/interview.md) &middot; [EN](episodes/yang-bakar-menteri/2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard/interview-en.md) &middot; [MS](episodes/yang-bakar-menteri/2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard/interview-ms.md)
 
-- Libertarian economy vs social protection
-- Household income vs GDP growth disparity
-- Subsidy retargeting and universal basic income
-- Progressive wages and productivity
-- Fiscal deficit and government spending discipline
-- Sovereign wealth fund / wakaf economy
-- FDI vs domestic direct investment
-- Modern agriculture (IPR) job creation
-- Tourism industry competitiveness
-- Civil service bureaucracy and implementation
-- Gig economy and platform monopolies
-- PADU data and aging population
+- Kritikan terhadap format podcast Yang Bakar Menteri episod pertama (scripted atau tidak)
+- Ekonomi Madani: adakah Malaysia menuju libertarian economy dan isu subsidi pukal
+- Jurang antara pertumbuhan GDP/produktiviti dengan pendapatan isi rumah dan gaji
+- Progressive wage dan cadangan universal basic income (UBI)
+- Disiplin fiskal kerajaan dan struktur belanjawan (defisit 3%)
+- Ekonomi wakaf, endowment fund dan cadangan Kumpulan Wang Amanah Negara (KWAN), Khazanah serta Petronas
+- Pergantungan kepada Foreign Direct Investment (FDI) berbanding Domestic Direct Investment (DDI)
+- Projek pertanian moden Intan/IPR di bawah Inisiatif Pendapatan Rakyat dan pengambilan tanah kerajaan
+- Cadangan crowdfunding rakyat untuk pengambilalihan Boustead Plantation
+- Peranan kerajaan dalam job creation dan sektor MSME/PMKS
+- Industri pelancongan Langkawi berbanding Thailand (Hatyai) dan kualiti perkhidmatan
+- Kajian separuh penggal Rancangan Malaysia Ke-12 (RMK-12) dan pemisahan peranan pembuat dasar dengan pelaksana (birokrasi penjawat awam)
+- Isu gig ekonomi, e-hailing (Grab/Foodpanda), penurunan bayaran p-hailer dan monopoli syarikat teknologi
+- Undang-undang anti-monopoli/merger law (MyCC) dalam industri e-hailing
+- Pendaftaran PADU dan persediaan menghadapi negara menua (aging population)
 
 ## YBkM ep03 &mdash; 2024-02-05
 
-[Yang Bakar Menteri EP 3 | YB Rafizi Ramli & Faiz Azmi (Financial Faiz) | 5](https://www.youtube.com/watch?v=Y2o4gIQAlwc) &middot; [raw](episodes/yang-bakar-menteri/2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-/raw.md) &middot; [mixed](episodes/yang-bakar-menteri/2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-/interview.md) &middot; [EN](episodes/yang-bakar-menteri/2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-/interview-en.md) &middot; [MS](episodes/yang-bakar-menteri/2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-/interview-ms.md)
+[Yang Bakar Menteri EP 3 | YB Rafizi Ramli & Faiz Azmi (Financial Faiz) | 5 Feb 2024](https://www.youtube.com/watch?v=Y2o4gIQAlwc) &middot; [raw](episodes/yang-bakar-menteri/2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-/raw.md) &middot; [mixed](episodes/yang-bakar-menteri/2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-/interview.md) &middot; [EN](episodes/yang-bakar-menteri/2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-/interview-en.md) &middot; [MS](episodes/yang-bakar-menteri/2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-/interview-ms.md)
 
-- SST (Sales and Service Tax) implementation
-- Bumiputera economic empowerment programs (Teraju, Ekuinas, Peneraju, MARA)
-- Grant dependency vs entrepreneurial capability building
-- Civil service sizing and productivity
-- PADU and data integration across government agencies
-- Aging population and eldercare/childcare policy
-- Fiscal discipline, subsidy targeting, and national debt
-- EPF and pension fund sustainability and depoliticization
-- Gig economy (Grab/Foodpanda riders) wages
-- National Energy Transition Roadmap (NETR) and rooftop solar
-- Ringgit value and structural economic reform
-- Taxation of digital content creators and foreign income
+- Pelaksanaan dan kenaikan kadar SST (Sales and Service Tax)
+- Bantuan dan skim untuk usahawan Bumiputera serta Kongres Ekonomi Bumiputera
+- Isu 'grantorpreneur' dan keberkesanan agensi seperti Teraju, Equinas dan Yayasan Peneraju
+- Saiz penjawat awam dan isu agensi kerajaan yang 'bloated' serta pertindihan fungsi
+- Model program pembasmian kemiskinan (IPR Intan) berbanding pembangunan usahawan
+- Integrasi data kerajaan melalui PADU dan halangan Akta PDPA/Akta Omnibus
+- Perkhidmatan penjagaan golongan tua dan kanak-kanak (childcare/eldercare) dalam perkhidmatan awam
+- Disiplin fiskal, defisit negara dan bayaran khidmat hutang
+- Dasar Gaji Progresif dan sasaran Compensation to Employees (CE) dalam Ekonomi Madani
+- Isu gaji rider Grab dan Foodpanda dalam ekonomi gig
+- Pelan Peralihan Tenaga Negara (NETR) dan pasaran tenaga solar snap-on bumbung
+- Pengeluaran KWSP, umur persaraan dan kemampanan skim pencen kerajaan
+- Cabaran nilai ringgit Malaysia dan penstrukturan semula ekonomi negara
+- Cukai pendapatan sumber asing dan withholding tax bagi ekonomi kandungan digital (content creator)
 
 ## YBkM ep04 &mdash; 2024-07-15
 
@@ -89,30 +94,40 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [Yang Bakar Menteri(YBM) Ep5](https://www.youtube.com/watch?v=AHAa0a58w64) &middot; [raw](episodes/yang-bakar-menteri/2024-08-26-ep05-yang-bakar-menteri-ybm-ep5/raw.md) &middot; [mixed](episodes/yang-bakar-menteri/2024-08-26-ep05-yang-bakar-menteri-ybm-ep5/interview.md) &middot; [EN](episodes/yang-bakar-menteri/2024-08-26-ep05-yang-bakar-menteri-ybm-ep5/interview-en.md) &middot; [MS](episodes/yang-bakar-menteri/2024-08-26-ep05-yang-bakar-menteri-ybm-ep5/interview-ms.md)
 
-- PuTERA35 (Pelan Transformasi Ekonomi Bumiputera 2035)
-- Bumiputera GDP contribution and median wage targets
-- Wawasan Kemakmuran Bersama and RMK12/RMK13
-- Construction contract structures (JKR 203A) and Bumiputera contractors
-- Government procurement cronyism and grantpreneurs
-- Data and baseline statistics (DOSM, SSM, Employee Wage Statistics)
-- Cultural/institutional differences in business (Chinese clannishness vs Malay salaried culture)
-- Wakaf, endowments, and social enterprise (third sector)
-- Living wage, household income, and Progressive Wage Policy
-- Dewan Perniagaan Melayu and Bumiputera institutions
-- Export-led growth vs domestic demand
+- Pelan Transformasi Ekonomi Bumiputera 2035 (Putra 35) dan sasaran-sasarannya
+- Nisbah gaji median Bumiputera berbanding Cina (0.9 kepada 1)
+- Sasaran sumbangan perusahaan Bumiputera kepada GDP (penurunan daripada 20% ke 15%)
+- Perbandingan gaji median vs purata (mean) dalam statistik gaji
+- Masalah syarat kontrak JKR 203A dalam industri pembinaan Bumiputera
+- Isu cronyism dan nepotism dalam perolehan kerajaan (kes syarikat farmaseutikal Terengganu)
+- Isu 'grant prono' dan penyalahgunaan geran Bumiputera
+- Keperluan data baseline yang tepat daripada DOSM dan SSM untuk Majlis Ekonomi Bumiputera (KAB)
+- Kecenderungan kelas menengah Bumiputera memilih makan gaji berbanding keusahawanan
+- Budaya menyumbang balik (endowment/wakaf pendidikan) dan perbandingan dengan komuniti Cina
+- Peranan dan tadbir urus institusi Melayu seperti Dewan Perdagangan Melayu dan MARA
+- Pembangunan sektor ketiga: social enterprise dan civil society dalam RMK13
+- Perkongsian data antara agensi kerajaan dan Akta Perkongsian Data
+- Isu kemiskinan, living wage, dan underemployment belia
+- Strategi eksport berbanding fokus kepada permintaan domestik dan pasaran ASEAN
 
 ## YBkM ep06 &mdash; 2024-09-30
 
 [Yang Bakar Menteri EP 6 | Rafizi Ramli & Lim Sian See](https://www.youtube.com/watch?v=-tpyLr5kwxI) &middot; [raw](episodes/yang-bakar-menteri/2024-09-30-ep06-yang-bakar-menteri-ep-6-rafizi-ramli-lim-sian-see/raw.md) &middot; [mixed](episodes/yang-bakar-menteri/2024-09-30-ep06-yang-bakar-menteri-ep-6-rafizi-ramli-lim-sian-see/interview.md) &middot; [EN](episodes/yang-bakar-menteri/2024-09-30-ep06-yang-bakar-menteri-ep-6-rafizi-ramli-lim-sian-see/interview-en.md) &middot; [MS](episodes/yang-bakar-menteri/2024-09-30-ep06-yang-bakar-menteri-ep-6-rafizi-ramli-lim-sian-see/interview-ms.md)
 
-- 1MDB scandal and RM2.6 billion donation/loan controversy
-- Lynas and rare earth (nadir bumi) industry policy
-- Diesel and fuel subsidy rationalisation / APM pricing formula
-- SRC International case and Najib's tax assessment
-- IPIC settlement agreement and recovered 1MDB funds
-- Petronas and Khazanah asset growth under Najib
-- Social media propaganda and identity of Lim Sian See
-- Judicial and institutional appointments under Pakatan Harapan
+- Pendedahan identiti Lim Sian See sebagai Datuk Eric See-To
+- Format dan decorum perdebatan Yang Bakar Menteri
+- Industri nadir bumi (REE) dan sejarah Lynas di Malaysia
+- Pengapungan harga minyak dan formula Automatic Pricing Mechanism (APM)
+- Subsidi diesel bersasar dan tuduhan 'cukai tersembunyi' kerajaan
+- Kes 1MDB dan pemulangan wang RM/USD yang didakwa hilang
+- Perjanjian penyelesaian 1MDB-IPIC dan pembatalannya oleh kerajaan PH
+- Kes SRC International dan penggunaan RM42 juta sebagai 'sedekah
+- Kontroversi cukai pendapatan RM1.7 bilion ke atas Datuk Seri Najib berhubung dana RM2.6 bilion
+- Sumber asal dana RM2.6 bilion: derma Arab Saudi lawan pinjaman
+- Tuduhan manipulasi sistem kehakiman dan pelantikan Peguam Negara era PH1.0
+- Prestasi aset Khazanah dan Petronas era Najib berbanding kerajaan Madani
+- Tahap hutang dan liabiliti kerajaan Madani (RM1.6 trillion)
+- Motif dan pengaruh Lim Sian See terhadap pengundi Melayu
 
 ## YBhM ep00 &mdash; 2025-05-10
 
