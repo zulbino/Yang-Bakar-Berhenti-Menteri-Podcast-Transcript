@@ -21,14 +21,19 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [Yang Bakar Menteri Ep 1 | YB Rafizi Ramli & Nazri Hamdan | 8 Jan 2024 #YangBakarMenteri](https://www.youtube.com/watch?v=c9JQ9BoGJms) &middot; [raw](episodes/yang-bakar-menteri/2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2/raw.md) &middot; [mixed](episodes/yang-bakar-menteri/2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2/interview.md) &middot; [EN](episodes/yang-bakar-menteri/2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2/interview-en.md) &middot; [MS](episodes/yang-bakar-menteri/2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2/interview-ms.md)
 
-- National debt management and trajectory
-- Development expenditure (DE) composition and legacy debts (1MDB, ECRL)
-- Fiscal deficit and budget consolidation targets
-- GST vs SST debate and taxation equity
-- Car excise duty and EV transition policy
-- Auditor-General's Report and government governance
-- Hardcore poverty eradication policy
-- PADU central database rollout and subsidy targeting
+- Hutang negara dan trajektori defisit fiskal Malaysia
+- Dakwaan hutang meningkat RM104.1 bilion pada 2023 dan kaedah pengiraan bond issuance/redemption
+- Perbelanjaan Pembangunan (DE) dalam RMK ke-13 dan DE asas vs DE bukan asas
+- Isu GST berbanding SST dan sejarah pemansuhan GST 2018
+- Prinsip ekuiti dan ciri regresif percukaian GST
+- Cadangan penurunan cukai excise dan harga kereta
+- Peralihan kepada kenderaan elektrik (EV) dan kesan import petrol
+- Tata kelola kerajaan dan Laporan Ketua Audit Negara
+- Dasar sifar miskin tegar dan pembasmian kemiskinan tegar
+- Program IPR dan bantuan bersyarat (means-tested) untuk kumpulan miskin
+- Sistem PADU: integrasi data merentas kementerian dan pasukan pemantauan
+- Tempoh masa 3 bulan pendaftaran PADU dan cabaran di Sabah/Sarawak serta sektor informal
+- Risiko exclusion dalam pendaftaran PADU dan seruan kepada rakyat untuk mendaftarkan golongan terpinggir
 
 ## YBkM ep02 &mdash; 2024-01-22
 
