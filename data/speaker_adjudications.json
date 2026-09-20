@@ -1177,5 +1177,13 @@
    "text_now": "def- definitive quantitative goals. Alhamdulillah, we, when we saw the 9",
    "_note": "OWNER RULING 2026-09-20, on the rule 7 contested boundary reported by check_overlap_boundaries.py --all at [07:15] (https://youtu.be/AHAa0a58w64?t=429). Owner was given the link and answered 'its azlan awang. can refer to camera reference, and see that azlan is the one speaking'. WHOLE-BLOCK relabel: the block was labelled Ibrahim Sani and is now Azlan Awang, completing his own sentence that continues directly into the adjacent [07:20] Azlan Awang block ('Goals in, in the, we were quite...')."
   }
+ },
+ "ep02:bakar_rule7_owner_ruled_2026_09_20": {
+  "39:22": {
+   "who": "Rafizi",
+   "text_was": "Prof. Barjoyai",
+   "text_now": "yang Prof sebut tadi kan.",
+   "_note": "OWNER RULING 2026-09-20, on the rule 7 contested boundary reported by check_overlap_boundaries.py --all at [39:22] (https://youtu.be/WT1m_Yl5E_M?t=2356). Owner was given the link and answered 'rafizi speaking'. WHOLE-BLOCK relabel: the block was labelled Prof. Barjoyai and is now Rafizi, completing his own sentence that starts in the adjacent [39:18] Rafizi block ('So, I mean, kalau saya boleh tambah sedikit yang,')."
+  }
  }
 }

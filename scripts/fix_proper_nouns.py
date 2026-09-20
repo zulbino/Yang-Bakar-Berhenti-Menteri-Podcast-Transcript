@@ -34,6 +34,16 @@ ROOT = Path(__file__).resolve().parent.parent
 # (regex, replacement, why). Longest/most-specific first, so a broader pattern cannot
 # eat a more specific one's match.
 CORRECTIONS = [
+    # ep02:bakar [04:49]: Nazri's spoken introduction of the guest. MAI heard "Badri
+    # Bardai"; every other mention of the same guest in this same raw.md (18+ speaker
+    # labels, the video title, the YouTube description) says "Barjoyai Bardai" -- a
+    # real, web-verifiable economist (Prof. Emeritus Dr. Barjoyai Bardai, UNIRAZAK/MEDIU).
+    # No person named "Badri Bardai" exists in this corpus or is the guest of this episode.
+    (r"\bBadri Bardai\b",
+     "Barjoyai Bardai",
+     "ep02:bakar raw.md [04:49]: MAI garbled the spoken introduction only; every other "
+     "occurrence of the guest's name in the same file, the video title and the YouTube "
+     "description already says Barjoyai Bardai."),
     (r"\bMara\b",
      "MARA",
      "Majlis Amanah Rakyat, an acronym. 13 mixed-case against 89 already-correct MARA. "
