@@ -338,6 +338,16 @@ def stitch(workdir, stage, count):
     return "\n\n".join(parts) + "\n"
 
 
+# Owner's standard (2026-09-23): figures carry comma thousands separators, "100,000" not
+# "100000". Five digits and up only, because a four-digit number may be a year ("2018"). The
+# gates strip commas before comparing, so this never changes a figure check.
+BARE_THOUSANDS = re.compile(r"(?<![\d.,])\d{5,}(?![\d]|[.,]\d)")
+
+
+def group_thousands(text):
+    return BARE_THOUSANDS.sub(lambda m: f"{int(m.group()):,}", text)
+
+
 def write_episode(episode, workdir, count, clean_model):
     from transcribe_episode import episode_common_fields
     import lib_claude_rewrite
@@ -346,7 +356,8 @@ def write_episode(episode, workdir, count, clean_model):
     # Owner's rule (2026-09-10): the published interview reads like newspaper copy -- no
     # retort turns ("Ya.", "Hmm."), no filler words, a speaker's consecutive turns joined.
     # raw.md is the verbatim layer and keeps its phrase-level blocks.
-    bodies = {stage: clean_body(stitch(workdir, stage, count))[0] for stage in STAGES}
+    bodies = {stage: group_thousands(clean_body(stitch(workdir, stage, count))[0])
+              for stage in STAGES}
     # The model recorded in the frontmatter is the one that WROTE the segments, read from
     # their reports -- not whatever --model happened to be on the --write invocation. ep62's
     # first write stamped Haiku on Sonnet's text that way.

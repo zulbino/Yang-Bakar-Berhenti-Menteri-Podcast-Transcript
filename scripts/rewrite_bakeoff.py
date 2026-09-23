@@ -208,8 +208,35 @@ def call_orcarouter(model, prompt):
     return text
 
 
+def call_agy(model, prompt):
+    """Google's Antigravity CLI on its free Starter quota; `claude-sonnet-4-6` here runs on the
+    Google quota, not Claude Pro. agy is an agent with tools, so it runs from an EMPTY temp dir
+    and without --dangerously-skip-permissions: text in, text out. The prompt goes on the
+    command line (its stdin mode wants an undocumented event shape), and Windows caps a
+    command line at 32,767 characters. 35-90 s per call, measured 2026-09-23."""
+    import subprocess
+    import tempfile
+    if len(prompt) > 30000:
+        raise RuntimeError(f"prompt {len(prompt)} chars, over the Windows command-line limit")
+    # agy can still hold the folder when it exits (WinError 32 on ep16 seg11, 2026-09-23),
+    # which failed a segment whose text had already come back.
+    with tempfile.TemporaryDirectory(ignore_cleanup_errors=True) as empty:
+        r = subprocess.run(["agy", "-p", prompt, "--model", model, "--output-format", "json",
+                            "--print-timeout", "10m"],
+                           cwd=empty, capture_output=True, text=True, encoding="utf-8",
+                           timeout=900)
+    try:
+        result = json.loads(r.stdout.strip().splitlines()[-1])
+    except (IndexError, json.JSONDecodeError):
+        raise RuntimeError(f"exit {r.returncode}: {(r.stdout + r.stderr)[-300:]}")
+    if result.get("status") != "SUCCESS" or not result.get("response", "").strip():
+        raise RuntimeError(f"{result.get('status')}: {result.get('error', '')[:200]}")
+    return result["response"]
+
+
 CALLERS = {"claude": call_claude, "gemini": call_gemini, "openrouter": call_openrouter,
-          "nvidia": call_nvidia, "moonshot": call_moonshot, "orcarouter": call_orcarouter}
+          "nvidia": call_nvidia, "moonshot": call_moonshot, "orcarouter": call_orcarouter,
+          "agy": call_agy}
 
 
 def names_for(video_id):
