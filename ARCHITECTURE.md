@@ -775,6 +775,35 @@ English stage must LOSE Malay density (ceiling 0.30) or it did not translate; th
 must keep it. `--write` refuses while any segment of any stage has no accepted file.
 `--instructions` appends owner facts to the prompt, such as ep62's two title corrections.
 
+**A claim check on the mixed stage (2026-09-23, `jev_claim_check.py`).** The measures above
+count length, Malay words, figures and labels. None of them sees a CLAIM that changed: a
+sentence moved to the wrong speaker, an opinion nobody gave, an argument left out. Jev,
+TypeSafe's decision model, answers three yes/no questions per segment in one call, with the
+model pinned to `jev-1.13.0`. A score of 0.5 or more on any question fails the gate. The
+segment gets one re-rewrite, and a second flag is accepted and marked `JEV FLAG: read it`,
+because Jev is a flag for a person, never a verdict. A Jev error is recorded and never
+blocks a rewrite. The threshold comes from `--controls`, which damages each rewrite on
+purpose. On ep01:bakar's 8 segments, no real rewrite scored above 0.35. No damaged copy
+scored below 0.75 on its own question: an invented sentence, two speakers swapped, a third
+cut, one turn moved, one turn removed. Cost: about $0.0002 per segment. Jev is weak at
+numbers and counting, so figures stay with `check_figures.py`. Needs `TYPESAFE_API_KEY`.
+
+`--published` runs the same check on the published interview.md, for episodes rewritten
+whole before segments existed. It cuts raw.md with `segment_episode.segment()`, finds each
+cut in interview.md by the segment's first 15 words, and puts the raw side through the same
+`clean_body()` the published file got. Without that last step, a slip-in drop that
+`clean_interview.py` makes on purpose read as a dropped claim (ep01:bakar, `Kenapa 3 bulan?`).
+
+**What the first corpus-wide run found (2026-09-23).** 612 of 1,153 published segments were
+flagged, and a plain word count, with no model involved, explains most of them. 43 of 71
+published interview.md files hold under 80% of the words in their raw.md after the same
+cleaning, and 13 hold under 60%; ep16:berhenti holds 40%. The mixed gate's floor is 70%. Ten
+of those 13 were rewritten whole in the 2026-09-17 regeneration (`be7555b`), which never
+passed through the segment gate. ep16, ep44 and ep58 were not in it, and where their short
+files came from is not yet traced. Every segment below 60% of its raw words was
+flagged "dropped", so Jev agrees with the count. Among segments whose length is intact, 29%
+were flagged, which is too many to be a review queue until the length problem is fixed.
+
 **The published interview reads like newspaper copy** (owner's rule, 2026-09-10;
 `clean_interview.py`, applied inside `--write` and runnable on any episode). Three closed-lexicon
 edits: a turn that is only an acknowledgement, grunt or laugh is dropped ("Ya.", "Okey.",

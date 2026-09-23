@@ -51,6 +51,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from common import artifact_tag, episode_path, frontmatter_md, resolve_tag  # noqa: E402
+from jev_claim_check import check_segment  # noqa: E402
 from lib_gemini import CLEAN_PROMPT_TEMPLATE, TRANSLATE_PROMPT_TEMPLATE  # noqa: E402
 from rewrite_bakeoff import CALLERS, MALAY, names_for  # noqa: E402
 
@@ -180,6 +181,15 @@ def measure(stage, source, text, names):
         "names_dropped": [n for n in names
                           if n.lower() in body.lower() and n.lower() not in text.lower()],
     }
+    # Jev asks whether a claim was invented, moved to another speaker, or dropped: the one
+    # thing the counts above cannot see. Mixed stage only; the translations were not measured.
+    # Advisory: an error is recorded and never blocks the rewrite.
+    if stage == "mixed":
+        try:
+            scores, flagged = check_segment(source, text)
+            report["jev"] = {"scores": scores, "flagged": flagged}
+        except Exception as exc:
+            report["jev"] = {"error": str(exc)[:200], "flagged": []}
     report["failures"] = gate_failures(stage, report)
     return report
 
@@ -209,6 +219,8 @@ def gate_failures(stage, r):
         fails.append(f"{r['headings']} heading/frontmatter lines")
     if not r["starts_with_label"]:
         fails.append("does not open with a speaker label")
+    if r.get("jev", {}).get("flagged"):
+        fails.append(f"jev flags {r['jev']['flagged']}")
     return fails
 
 
@@ -248,6 +260,15 @@ def run_segment(stage, index, source, names, extra, caller, model, tries, workdi
         report.update({"try": k, "seconds": round(time.time() - began, 1)})
         attempts.append(report)
         (out / f"seg{index:02d}.try{k}.md").write_text(text, encoding="utf-8")
+        # Owner's decision 2026-09-23: a Jev flag gets ONE re-rewrite. If the second try is
+        # flagged again and nothing else fails, it is accepted and marked for a person to read,
+        # because Jev is a flag, never a verdict.
+        jev_only = report["failures"] and all(f.startswith("jev flags") for f in report["failures"])
+        jev_tries = sum(1 for a in attempts if any(f.startswith("jev flags") for f in a.get("failures", [])))
+        if jev_only and jev_tries >= 2:
+            report["jev_accepted_flagged"] = True
+            accepted.write_text(text, encoding="utf-8")
+            break
         if not report["failures"]:
             accepted.write_text(text, encoding="utf-8")
             break
@@ -256,7 +277,8 @@ def run_segment(stage, index, source, names, extra, caller, model, tries, workdi
                    indent=1, ensure_ascii=False), encoding="utf-8")
     last = attempts[-1] if attempts else {}
     return {"index": index, "stage": stage,
-            "status": "ok" if accepted.exists() else "FAILED",
+            "status": ("ok, JEV FLAG: read it" if last.get("jev_accepted_flagged")
+                       else "ok" if accepted.exists() else "FAILED"),
             "tries": len(attempts), "last": last}
 
 
