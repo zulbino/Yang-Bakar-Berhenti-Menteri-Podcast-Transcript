@@ -135,6 +135,11 @@ def process_rewrite(video_id, force=False, rewrite_engine="gemini"):
     print("translating to Bahasa Melayu ...")
     full_ms = engine.translate(client, full_clean, "Bahasa Melayu")
     ms_model = engine.current_model()
+    # Owner's rule (2026-09-10): newspaper copy has no retort turns ("Ya.", "Hmm.") and a
+    # speaker's consecutive turns are joined. Done here in code, as rewrite_segments.py does,
+    # not in the prompt: asked to drop turns itself, GLM dropped a real "4.1." in 4 of 4 runs.
+    from clean_interview import clean_body
+    full_clean, full_en, full_ms = (clean_body(b)[0] for b in (full_clean, full_en, full_ms))
     print("extracting metadata (hosts/guests/summary/topics) ...")
     meta = engine.extract_metadata(client, full_clean)
 

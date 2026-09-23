@@ -789,8 +789,28 @@ lexicons or be a dropped slip-in, and the rest is asserted identical. On ep62's 
 1,100 turns -> 252, 49 retort turns, 65 slip-ins, 678 filler words. The owner's read then
 showed one "slip-in" was a LABEL error -- "Perumahan." ended Haziq's own sentence, which the
 camera had given to Rafizi -- so the rule cleans the prose but cannot fix attribution; the
-owner's ear does that (`--show-slips` prints every one for that read). The prompt asks for the
-same, so the post-process should have little to do; it is the guarantee, not the method.
+owner's ear does that (`--show-slips` prints every one for that read). `clean_body()` is the
+only place these drops and joins happen. `rewrite_segments.py --write` and the whole-episode
+path in `transcribe_episode.py` both run it.
+
+**The prompt does not ask the model to drop or join turns (2026-09-23).** It used to, and point 5
+of the same prompt said "Do not condense multiple turns into one", so the two rules disagreed.
+Tested on ep62 segment 10: asked to drop and join, GLM 5.2 dropped Rafizi's one-word "4.1." (a
+real figure, RMK3's 4.1 billion) in 4 of 4 runs. With the drop-and-join sentence removed it
+kept it in 3 of 3, and Sonnet 5 and gemini-flash-lite were unchanged on segments 3, 10 and 20.
+The figures gate caught every drop, so nothing shipped; each one only cost a retry. The same
+audit removed two self-checks from the prompt ("count the Malay function words, reach 80%",
+"at least 70% of the input's length"). A model cannot count reliably, and the gates in
+`rewrite_segments.py` measure both.
+
+**Sonnet 5 is the default of `rewrite_segments.py` (2026-09-23).** On the same three segments,
+all three stages, Haiku 4.5 failed the gate 3 times in 9 calls and Sonnet 5 once. Haiku's
+failures: one more real figure lost ("2004"), text before the first speaker label, and
+`Speaker ?` / `Multiple speakers` translated into `Pembicara ?` / `Pelbagai pembicara` in the
+Malay stage. Haiku also took 44-270 s a call against Sonnet's 14-50 s. Sonnet's one failure was
+the two false starts "20" and "99", which every model dropped and `--accept-figures` exists for.
+Metadata extraction stays at `--effort low`: `medium` raised chapter coverage on one of three
+episodes (ep46, 5/9 -> 7/9) and left ep53 and ep57 unchanged, one sample each.
 
 **raw.md is the verbatim layer, minus grunts.** `strip_filler_turns.py` runs on raw.md too
 (ep62: 1,689 -> 1,145 blocks, all 27,903 content words unchanged): the owner's standing rule

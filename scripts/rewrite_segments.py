@@ -53,18 +53,6 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import artifact_tag, episode_path, frontmatter_md, resolve_tag  # noqa: E402
 from lib_gemini import CLEAN_PROMPT_TEMPLATE, TRANSLATE_PROMPT_TEMPLATE  # noqa: E402
 from rewrite_bakeoff import CALLERS, MALAY, names_for  # noqa: E402
-import lib_claude_rewrite  # noqa: E402
-
-
-def call_claude_cheap(model, prompt):
-    """Same flags lib_claude_rewrite uses. Measured on one ep62 segment: the bake-off's
-    caller cost $0.31 (38k cache-creation tokens: every tool schema and the full default
-    system prompt), this one $0.10 for the same prompt."""
-    lib_claude_rewrite.MODEL = model
-    return lib_claude_rewrite._run_claude(prompt)["result"]
-
-
-CALLERS = {**CALLERS, "claude": call_claude_cheap}
 
 ROOT = Path(__file__).resolve().parent.parent
 EPISODES_DIR = ROOT / "episodes"
@@ -380,7 +368,7 @@ def main():
     ap.add_argument("tag", help="episode tag, e.g. ep62")
     ap.add_argument("--segments", help="json from segment_episode.py (default data/_<tag>_segments.json)")
     ap.add_argument("--workdir", help="default data/_<tag>_rewrite")
-    ap.add_argument("--model", default="claude:claude-haiku-4-5-20251001",
+    ap.add_argument("--model", default="claude:claude-sonnet-5",
                     help="provider:model; provider is claude, gemini or openrouter")
     ap.add_argument("--stage", nargs="*", default=STAGES, choices=STAGES)
     ap.add_argument("--only", nargs="*", type=int, help="segment indices to run")

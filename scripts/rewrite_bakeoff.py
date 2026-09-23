@@ -30,7 +30,6 @@ import argparse
 import json
 import os
 import re
-import subprocess
 import sys
 import time
 from pathlib import Path
@@ -51,13 +50,12 @@ if sys.platform == "win32":
 import requests  # noqa: E402
 
 from lib_gemini import CLEAN_PROMPT_TEMPLATE  # noqa: E402
+import lib_claude_rewrite  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "data" / "_bakeoff"
 SYSTEM = "You are a precise text-processing tool. Return only the requested text."
-DISALLOWED = ("Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch,Task,TodoWrite,NotebookEdit,"
-              "BashOutput,KillBash")
-# Counted in the input and in the output; the rewrite prompt sets 80% as its own floor.
+# Counted in the input and in the output; rewrite_segments.py GATES sets the floor.
 MALAY = ["yang", "tak", "kan", "ni", "tu", "lah", "dia", "kita", "sebab", "macam", "dengan",
          "untuk", "boleh", "kalau", "je", "pun"]
 
@@ -82,16 +80,11 @@ ARMS = {
 
 
 def call_claude(model, prompt):
-    proc = subprocess.run(
-        ["claude", "-p", "--output-format", "json", "--model", model,
-         "--disallowedTools", DISALLOWED, "--system-prompt", SYSTEM],
-        input=prompt.encode("utf-8"), capture_output=True, timeout=900)
-    if proc.returncode:
-        raise RuntimeError(proc.stderr.decode("utf-8", "replace")[:300])
-    payload = json.loads(proc.stdout.decode("utf-8"))
-    if isinstance(payload, list):
-        payload = next(e for e in payload if e.get("type") == "result")
-    return payload["result"]
+    """The production caller, so a bake-off scores the flags production runs (system prompt,
+    --effort low). Measured on one ep62 segment: the old separate caller cost $0.31 (38k
+    cache-creation tokens: every tool schema and the full default system prompt), this $0.10."""
+    lib_claude_rewrite.MODEL = model
+    return lib_claude_rewrite._run_claude(prompt)["result"]
 
 
 def call_gemini(model, prompt):
