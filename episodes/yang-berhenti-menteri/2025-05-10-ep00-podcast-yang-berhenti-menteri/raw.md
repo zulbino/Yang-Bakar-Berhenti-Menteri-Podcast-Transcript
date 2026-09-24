@@ -151,7 +151,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:58:01] Audience: Assalamualaikum warahmatullahi wabarakatuh. Nama saya Rashdi Wira Jibanda Ahmad.
 
-[1:58:07] Audience: Saya terlibat dalam pembentukan Parti Keadilan 1968.
+[1:58:07] Audience: Saya terlibat dalam pembentukan Parti Keadilan 1998.
 
 [1:58:11] Audience: Mas- masa itu tak ada orang luar yang terlibat dalam pemilihan. Masa itu tak ada pemilihan pun. Sukarela.
 
