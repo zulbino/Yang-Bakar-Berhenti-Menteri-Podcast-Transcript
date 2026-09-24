@@ -458,23 +458,22 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 ## YBhM ep16 &mdash; 2025-10-03
 
-[Yang Berhenti Menteri Episod 16 | “Firaun Pun Berjasa”, Korupsi vs Reform,](https://www.youtube.com/watch?v=scF2WEBBn0w) &middot; [raw](episodes/yang-berhenti-menteri/2025-10-03-ep16-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2025-10-03-ep16-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2025-10-03-ep16-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2025-10-03-ep16-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v/interview-ms.md)
+[Yang Berhenti Menteri Episod 16 | “Firaun Pun Berjasa”, Korupsi vs Reform, Global Sumud Flotilla](https://www.youtube.com/watch?v=scF2WEBBn0w) &middot; [raw](episodes/yang-berhenti-menteri/2025-10-03-ep16-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2025-10-03-ep16-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2025-10-03-ep16-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2025-10-03-ep16-yang-berhenti-menteri-episod-16-firaun-pun-berjasa-korupsi-v/interview-ms.md)
 
-- Segmen Beria: pergaduhan Azmin Ali dan video lama, protes remaja isu minyak RM1.99
-- Segmen Beria: arahan mahkamah India tentang tulisan doktor dan PAS-Trump
-- Persepsi rasuah dan Corruption Perception Index (CPI) di bawah kerajaan Madani
-- Kes penyeludupan tayar dan rasuah di kastam/pelabuhan (Ops Grip)
-- Dakwaan cyber trooper dan 'like' palsu daripada Vietnam menyokong PM dan pemimpin PKR
-- Kontroversi 'deep state' di Kementerian Pendidikan dan kenyataan Dr. Mazli Malik
-- Kenyataan Anwar Ibrahim 'Fir'aun pun ada jasa' dan isu Tan Sri Azam Baki/SPRM
-- Plan Gaza Trump, pelantikan Tony Blair dan sejarah Balfour Declaration
-- Kenyataan Wisma Putra menyambut baik usaha AS mengakhiri perang Gaza
-- Penghantaran pulang 15 rakyat Malaysia dari flotila kemanusiaan Gaza dan solidariti global
-- Syarikat robotik Unitree, Zon Ekonomi Khas Johor-Singapura (JS-SEZ) dan inisiatif Twin City Hangzhou
-- Soalan pendengar: sistem persekolahan menengah dan permulaan A-Levels/IB
-- Soalan pendengar: kemudahan sekolah antarabangsa untuk anak pegawai dan diplomat kerajaan
+- Segmen Beria: video viral pergaduhan Azmin dan Wan Saiful Wan Jan
+- Segmen Beria: protes remaja isu minyak RM1.99 dan tulisan tangan doktor
+- Segmen Beria: kenyataan PAS sedia jumpa Trump
+- Rasuah, teater politik dan Corruption Perception Index (CPI)
+- Ops Grip MACC dan skandal seludup tayar
+- Dakwaan 263 cyber trooper angkat imej Perdana Menteri
+- Isu 'deep state' dalam kerajaan dan Kementerian Pendidikan (kenyataan Dr. Mazlee)
+- Kenyataan 'Firaun pun ada jasa' Anwar Ibrahim dan isu Tan Sri Azam Baki
+- Pelan damai Gaza Trump-Netanyahu dan pelantikan Tony Blair
+- Flotila Global Sumud dan solidariti rakyat Malaysia ke Palestin
+- Lawatan ke syarikat robotik Unitree di Hangzhou dan potensi robotik untuk sektor sawit Malaysia
+- Soalan pendengar: pembaharuan tempoh persekolahan dan kemudahan sekolah antarabangsa anak diplomat
 - Soalan pendengar: halangan membangunkan industri enjin jet komersial/perang di Malaysia
-- Soalan pendengar: prinsip komunikasi dasar ahli politik berbanding konten pemburu views
+- Soalan pendengar: prinsip komunikasi ahli politik, influencer dan penggunaan media sosial
 
 ## YBhM ep17 &mdash; 2025-10-10
 
