@@ -151,14 +151,21 @@ def call_openrouter(model, prompt):
 def call_nvidia(model, prompt):
     """NVIDIA's own NIM catalog (integrate.api.nvidia.com), not OpenRouter's nvidia/ slugs --
     a different endpoint, so a different rate-limit pool and possibly a different model
-    version. Same OpenAI-compatible chat completions shape as OpenRouter."""
+    version. Same OpenAI-compatible chat completions shape as OpenRouter.
+
+    `model@low` sends reasoning_effort=low. Measured 2026-09-24 on z-ai/glm-5.3: 'low' cut
+    reasoning from 300 tokens to 8; 'none', enable_thinking=False and thinking.disabled are
+    all ignored. At the default effort the en stage of a 1,000-word segment hit HTTP 504."""
+    model, _, effort = model.partition("@")
+    body = {"model": model, "temperature": 0.3,
+            "messages": [{"role": "system", "content": SYSTEM},
+                         {"role": "user", "content": prompt}]}
+    if effort:
+        body["reasoning_effort"] = effort
     r = requests.post("https://integrate.api.nvidia.com/v1/chat/completions",
                       headers={"Authorization": f"Bearer {os.environ['NVIDIA_API_KEY']}",
                                "Content-Type": "application/json"},
-                      json={"model": model, "temperature": 0.3,
-                            "messages": [{"role": "system", "content": SYSTEM},
-                                         {"role": "user", "content": prompt}]},
-                      timeout=900)
+                      json=body, timeout=900)
     if r.status_code >= 300:
         raise RuntimeError(f"HTTP {r.status_code} {r.text[:200]}")
     message = r.json()["choices"][0]["message"]
@@ -234,9 +241,30 @@ def call_agy(model, prompt):
     return result["response"]
 
 
+def call_lmstudio(model, prompt):
+    """A model loaded in LM Studio on this PC (`lms load <key> --identifier <model>`), through
+    its OpenAI-compatible server on port 1234, or any llama-server named by LOCAL_LLM_URL.
+    No quota; the GPU is the limit. Reasoning is off: it spends the GPU's few tokens a second
+    on text the gate never reads."""
+    url = os.environ.get("LOCAL_LLM_URL", "http://localhost:1234")
+    r = requests.post(f"{url}/v1/chat/completions",
+                      json={"model": model, "temperature": 0.3,
+                            "chat_template_kwargs": {"enable_thinking": False},
+                            "messages": [{"role": "system", "content": SYSTEM},
+                                         {"role": "user", "content": prompt}]},
+                      timeout=3600)
+    if r.status_code >= 300:
+        raise RuntimeError(f"HTTP {r.status_code} {r.text[:200]}")
+    message = r.json()["choices"][0]["message"]
+    text = message.get("content") or ""
+    if not text.strip():
+        raise RuntimeError(f"empty content, keys={sorted(message)}")
+    return text
+
+
 CALLERS = {"claude": call_claude, "gemini": call_gemini, "openrouter": call_openrouter,
           "nvidia": call_nvidia, "moonshot": call_moonshot, "orcarouter": call_orcarouter,
-          "agy": call_agy}
+          "agy": call_agy, "lmstudio": call_lmstudio}
 
 
 def names_for(video_id):

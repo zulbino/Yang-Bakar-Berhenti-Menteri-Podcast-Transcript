@@ -781,6 +781,30 @@ Re-run the same command in a loop with a pause of 90-120 s; accepted segments ar
 each round retries only what is missing. Once `free-models-per-day` appears in a report, stop:
 the cap resets at 00:00 UTC (08:00 MYT). One episode of about 16 segments fits in one day.
 
+**GLM-5.3 on NVIDIA, reasoning low, is the fallback that finishes an episode the same day
+(ep00, 2026-09-24/25).** `--model "nvidia:z-ai/glm-5.3@low"`. The NVIDIA free tier shows only
+a 40 requests/minute limit on the account page, with no credit counter. GLM-5.3 reasons by
+default there: one segment's three stages took 19 min and the English stage hit HTTP 504 twice.
+`@low` sends `reasoning_effort: "low"` and the same segment took 2 min 49 s with every gate
+passed; `"none"`, `enable_thinking: false` and `thinking.disabled` are all ignored. ep00's 33
+files took about 3.5 min each. The two English figure failures were renderings (`20 ribu` as
+`20,000`, `12.30` as `12:30`) and were accepted by hand.
+
+**Local models on this PC cannot do the rewrite (measured 2026-09-24).** RTX 2070 8 GB, Ryzen
+3700X, 32 GB DDR4, LM Studio 0.4.25 (`rewrite_bakeoff.call_lmstudio`, port 1234 or
+`LOCAL_LLM_URL`). GLM-4.7-Flash (31B MoE, 18.3 GB): 5-8 tokens/s, because LM Studio's strict
+VRAM cap put only 14 of 47 layers on the GPU even with experts moved to RAM; one mixed stage ran
+33 min and never finished. Gemma 4 12B: 11 tokens/s but kept reasoning with it switched off, 28
+min per segment. Gemma 4 26B-A4B: the mixed stage lost spoken Malay (gate 0.72). Ternary Bonsai 2
+27B (PrismML's llama.cpp fork, whole model on the GPU, 13.7 tokens/s): copied the mixed stage
+word for word and did not translate the ms stage. All deleted.
+
+**Stopping a background loop does not stop its Python child.** On 2026-09-24 a stopped
+Gemini retry loop started another round and wrote into `data/_ep00_rewrite` beside the GLM-5.3
+run. It produced only 429s, so no text was mixed in. Before a new run on the same work folder,
+list `Get-CimInstance Win32_Process -Filter "Name like 'python%'"` and read each segment
+report's `model` field.
+
 **agy is not a rewrite engine (measured 2026-09-23).** `rewrite_bakeoff.call_agy` runs
 Google's Antigravity CLI from an empty temp dir, text only. Sonnet 4.6 inside agy passed two
 short segments, then moved long ones to formal Malay (`ini`, `itu`, `sahaja` for `ni`, `tu`,

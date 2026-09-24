@@ -138,20 +138,21 @@ Every transcript is machine-generated and carries the accuracy caveats in
 
 [Podcast Yang Berhenti Menteri?](https://www.youtube.com/watch?v=2k8hW9hDvGE) &middot; [raw](episodes/yang-berhenti-menteri/2025-05-10-ep00-podcast-yang-berhenti-menteri/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2025-05-10-ep00-podcast-yang-berhenti-menteri/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2025-05-10-ep00-podcast-yang-berhenti-menteri/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2025-05-10-ep00-podcast-yang-berhenti-menteri/interview-ms.md)
 
-- Pemilihan dalaman PKR dan fenomena 'kepala tanpa badan' di cabang-cabang
-- Rafizi mengambil cuti kerajaan bagi menguruskan hal parti dan salah tafsir sebagai 'resign
-- Budaya kartel dan naratif tersusun menjatuhkan Rafizi dalam pemilihan cabang
+- Kontroversi cuti dan spekulasi peletakan jawatan Rafizi sebagai Menteri Ekonomi
+- Fenomena 'kepala tanpa badan' dalam keputusan pemilihan cabang PKR 2025
 - Tuduhan Ramanan Ramakrishnan bahawa Rafizi tidak menjaga akar umbi
-- Pertandingan Rafizi Ramli menentang Nurul Izzah untuk jawatan Timbalan Presiden PKR
-- Isu nepotisme berkaitan pencalonan Nurul Izzah
-- Serangan peribadi penyokong di media sosial (Twitter/X, Facebook) terhadap pihak lawan
-- Manifesto tumpuan 50 kerusi marginal dan tanggungjawab Timbalan Presiden PKR
-- Kedudukan Rafizi dalam kabinet dan prinsip sistem Westminster jika kalah bertanding
-- Pengalaman lalu Rafizi mengundurkan diri selepas kalah kepada Azmin Ali tahun 2018
+- Budaya kartel dan politik wang/ampu yang kembali dalam PKR
+- Pertandingan Timbalan Presiden PKR: Rafizi Ramli lawan Nurul Izzah Anwar
+- Isu nepotisme berhubung pencalonan Nurul Izzah Anwar
+- Kesan pemilihan dalaman PKR terhadap perpaduan dan kestabilan kerajaan Anwar Ibrahim
+- Prinsip sistem Westminster dan tanggungjawab menteri terhadap parti
+- Peranan dan tanggungjawab Timbalan Presiden PKR (perunding kerusi, panglima lawan pembangkang, PRN Sabah)
+- Strategi memenangi kerusi-kerusi marginal menjelang PRU-16
 - Jurang sokongan PKR/PH dalam kalangan pengundi Gen Z
-- Tema kempen 'Hero/Hirup' dan ujian kuasa terhadap idealisme reformasi PKR
-- Isu keahlian silang parti (anggota UMNO/Pejuang) menang pemilihan cabang PKR dan peranan JPP
-- Perbezaan antara influencer politik dan pemimpin rakyat yang autentik
+- Tema kempen 'Hirup' dan ujian kuasa parti PKR
+- Isu keahlian 'Airbnb' bekas UMNO/PAS yang menyertai dan memenangi pemilihan cabang PKR
+- Peranan Jawatankuasa Pemilihan Pusat (JPP) dan Setiausaha Agung dalam menapis keahlian
+- Perbezaan antara influencer politik media sosial dengan pemimpin rakyat yang autentik
 
 ## YBhM ep01 &mdash; 2025-06-20
 
