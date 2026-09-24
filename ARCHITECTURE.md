@@ -775,6 +775,24 @@ English stage must LOSE Malay density (ceiling 0.30) or it did not translate; th
 must keep it. `--write` refuses while any segment of any stage has no accepted file.
 `--instructions` appends owner facts to the prompt, such as ep62's two title corrections.
 
+**Free GLM needs rounds, and has a daily cap (ep16, 2026-09-23/24).** `z-ai/glm-5.2:free`
+returned HTTP 429 on most calls at busy hours, but every text it did return passed the gate.
+Re-run the same command in a loop with a pause of 90-120 s; accepted segments are cached, so
+each round retries only what is missing. Once `free-models-per-day` appears in a report, stop:
+the cap resets at 00:00 UTC (08:00 MYT). One episode of about 16 segments fits in one day.
+
+**agy is not a rewrite engine (measured 2026-09-23).** `rewrite_bakeoff.call_agy` runs
+Google's Antigravity CLI from an empty temp dir, text only. Sonnet 4.6 inside agy passed two
+short segments, then moved long ones to formal Malay (`ini`, `itu`, `sahaja` for `ni`, `tu`,
+`je`), which fails the Malay gate at 0.59-0.81. The free Starter quota ran out after about 20
+calls. Gemini 3.8 Flash failed one of two.
+
+**Owner rulings for the interview stage (2026-09-23).** A speaker's self-corrected false
+start may drop ("500 eh 100000" becomes "100,000"). The figure gate still fails it, so accept
+that segment by hand with a reason in its report after reading the passage. `--write` groups
+figures of five digits and up with commas; four-digit numbers stay bare because they may be
+years. The gates strip commas before comparing.
+
 **A claim check on the mixed stage (2026-09-23, `jev_claim_check.py`).** The measures above
 count length, Malay words, figures and labels. None of them sees a CLAIM that changed: a
 sentence moved to the wrong speaker, an opinion nobody gave, an argument left out. Jev,
