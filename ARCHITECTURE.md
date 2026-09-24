@@ -781,8 +781,8 @@ Re-run the same command in a loop with a pause of 90-120 s; accepted segments ar
 each round retries only what is missing. Once `free-models-per-day` appears in a report, stop:
 the cap resets at 00:00 UTC (08:00 MYT). One episode of about 16 segments fits in one day.
 
-**GLM-5.3 on NVIDIA, reasoning low, is the fallback that finishes an episode the same day
-(ep00, 2026-09-24/25).** `--model "nvidia:z-ai/glm-5.3@low"`. The NVIDIA free tier shows only
+**GLM-5.3 on NVIDIA, reasoning low, is the rewrite engine (ep00, 2026-09-24/25; the owner made
+it the default on 2026-09-25 after reading ep00's output).** `--model "nvidia:z-ai/glm-5.3@low"`. The NVIDIA free tier shows only
 a 40 requests/minute limit on the account page, with no credit counter. GLM-5.3 reasons by
 default there: one segment's three stages took 19 min and the English stage hit HTTP 504 twice.
 `@low` sends `reasoning_effort: "low"` and the same segment took 2 min 49 s with every gate
@@ -874,7 +874,8 @@ audit removed two self-checks from the prompt ("count the Malay function words, 
 "at least 70% of the input's length"). A model cannot count reliably, and the gates in
 `rewrite_segments.py` measure both.
 
-**Sonnet 5 is the default of `rewrite_segments.py` (2026-09-23).** On the same three segments,
+**Sonnet 5 was the default of `rewrite_segments.py` from 2026-09-23 to 2026-09-25**, when
+`nvidia:z-ai/glm-5.3@low` replaced it. On the same three segments,
 all three stages, Haiku 4.5 failed the gate 3 times in 9 calls and Sonnet 5 once. Haiku's
 failures: one more real figure lost ("2004"), text before the first speaker label, and
 `Speaker ?` / `Multiple speakers` translated into `Pembicara ?` / `Pelbagai pembicara` in the

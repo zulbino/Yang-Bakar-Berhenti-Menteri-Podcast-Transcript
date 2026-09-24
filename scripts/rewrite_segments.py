@@ -401,8 +401,9 @@ def main():
     ap.add_argument("tag", help="episode tag, e.g. ep62")
     ap.add_argument("--segments", help="json from segment_episode.py (default data/_<tag>_segments.json)")
     ap.add_argument("--workdir", help="default data/_<tag>_rewrite")
-    ap.add_argument("--model", default="claude:claude-sonnet-5",
-                    help="provider:model; provider is claude, gemini or openrouter")
+    ap.add_argument("--model", default="nvidia:z-ai/glm-5.3@low",
+                    help="provider:model; provider is one of rewrite_bakeoff.CALLERS. The owner "
+                         "chose nvidia:z-ai/glm-5.3@low on 2026-09-25 after ep00")
     ap.add_argument("--stage", nargs="*", default=STAGES, choices=STAGES)
     ap.add_argument("--only", nargs="*", type=int, help="segment indices to run")
     ap.add_argument("--tries", type=int, default=3)
