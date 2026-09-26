@@ -60,6 +60,7 @@ non-decreasing. The result goes to data/, never episodes/; score it and read it 
 import argparse
 import glob
 import json
+import math
 import re
 import sys
 from collections import Counter
@@ -77,6 +78,11 @@ SHORT_TURN_WORDS = 3
 GENERIC = re.compile(r"^Speaker\s*(\d+|\?)$")   # a placeholder, not a person
 DIAR_PURITY = 0.90      # a pyannote cluster is named only if the camera agrees this often
 DIAR_MIN_COVERED = 60   # ... over at least this many camera-covered seconds
+# The show cuts to a speaker after they start, so a word is read against the camera this many
+# seconds LATER. Measured against the owner's hand edit of ep65 (step-1 build, 28:10-30:50
+# left out): 0 s 366 wrong words, 0.25 s 335, 0.5 s 308, 1 s 338, 1.5 s 400, 2 s 478. Part of
+# it is camera_per_second truncating each cut to the whole second.
+CAMERA_LAG = 0.5
 GOLD_PAD = 60
 MAX_FORCED_BLOCKS = 3          # a block starting just before the region can carry its first words
 SEAM_WORDS = 8
@@ -143,9 +149,13 @@ def diar_per_second(path, camera):
     seconds carry one name over at least DIAR_MIN_COVERED seconds; every other cluster
     stays anonymous. On ep63 that names two of eleven clusters (Rafizi 98.9%, the guest
     96.0%) and refuses Haziq's at 79%."""
+    # Purity is read on the seconds wholly INSIDE a segment. A segment's partial first and
+    # last seconds are where the camera still shows the previous speaker, so counting them
+    # measured the camera's lag, not the cluster: ep65's Haziq cluster read 82.4% with them
+    # and 96.1% without, and the owner's own labels put it far above the refused figure.
     by_cluster = {}
     for a, b, sp in json.loads(Path(path).read_text(encoding="utf-8")):
-        for t in range(int(a), int(b) + 1):
+        for t in range(math.ceil(a), math.floor(b)):
             by_cluster.setdefault(sp, set()).add(t)
     names, report = {}, {}
     for sp, secs_ in by_cluster.items():
@@ -156,11 +166,21 @@ def diar_per_second(path, camera):
         report[sp] = f"{top} {n / covered:.1%} of {covered}s" + ("" if ok else " (refused)") if covered else "no camera overlap (refused)"
         if ok:
             names[sp] = top
+    # A second goes to the cluster that holds most of it, and is named only if that cluster
+    # is. The old `setdefault` over int(a)..int(b)+1 gave a named cluster every second it
+    # touched, so an unnamed cluster's interjection took the named neighbour's name (ep65,
+    # measured against the owner's edit: Haziq's refused cluster lost its seconds to Rafizi).
+    held = {}
+    for a, b, sp in json.loads(Path(path).read_text(encoding="utf-8")):
+        for t in range(int(a), int(b) + 1):
+            share = min(b, t + 1) - max(a, t)
+            if share > 0:
+                held.setdefault(t, Counter())[sp] += share
     out = {}
-    for sp, secs_ in by_cluster.items():
+    for t, c in held.items():
+        sp = c.most_common(1)[0][0]
         if sp in names:
-            for t in secs_:
-                out.setdefault(t, names[sp])
+            out[t] = names[sp]
     return out, report
 
 
@@ -334,7 +354,7 @@ def main():
             # Speaker ?) is a collapsed old diarization with no identity to protect, so
             # the camera's read at those seconds is the better evidence (ep63, 05:51
             # "Cuma," -- camera read Rafizi, the fallback said Speaker 2).
-            seen = Counter(camera[int(w.t)] for w in turn["w"] if int(w.t) in camera)
+            seen = Counter(camera[int(w.t + CAMERA_LAG)] for w in turn["w"] if int(w.t + CAMERA_LAG) in camera)
             heard = Counter(diar[int(w.t)] for w in turn["w"] if int(w.t) in diar)
             # Voice before face for a short turn, for the same reason rule 1 exists: the
             # show does not cut to an aside, so the camera shows the listener. On ep63 the
@@ -355,7 +375,7 @@ def main():
         # Same exception as rule 1: a word the camera does not cover falls back to MAI's
         # label, unless that label is a generic placeholder and the camera did see the
         # rest of this turn -- then the turn's own camera majority is the better guess.
-        seen = Counter(camera[int(w.t)] for w in turn["w"] if int(w.t) in camera)
+        seen = Counter(camera[int(w.t + CAMERA_LAG)] for w in turn["w"] if int(w.t + CAMERA_LAG) in camera)
         heard = Counter(diar[int(w.t)] for w in turn["w"] if int(w.t) in diar)
         if GENERIC.match(own) and seen:
             fill, fill_rule = seen.most_common(1)[0][0], "uncovered, turn's camera majority (generic fallback)"
@@ -363,8 +383,13 @@ def main():
             fill, fill_rule = heard.most_common(1)[0][0], "uncovered, pyannote cluster (generic fallback)"
         else:
             fill, fill_rule = own, "uncovered, MAI label"
+        # Without diarization a MAI turn is one phrase, and a phrase is one voice: on ep65 a
+        # phrase edge sits at 268 of the owner's 270 speaker changes. A camera cut inside a
+        # phrase is the camera lagging the speech, so the phrase takes the camera's majority
+        # instead of being cut (ep65 46:37, 58:50, 1:43:25).
+        whole = seen.most_common(1)[0][0] if turn["cluster"] is None and seen else None
         for w in turn["w"]:
-            who = camera.get(int(w.t))
+            who = whole or camera.get(int(w.t + CAMERA_LAG))
             rule_words["camera" if who else fill_rule] += 1
             who = who or fill
             if runs and runs[-1]["n"] == who:

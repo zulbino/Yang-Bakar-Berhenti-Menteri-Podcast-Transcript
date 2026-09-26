@@ -10,8 +10,13 @@ short label ("Pa'an:"). Both are read. Words are compared lower-case without pun
 Each word's second comes from MAI's own word times, so every region gets a working ?t= link.
 
   python scripts/compare_owner_edit.py ep65 data/_ep65_review/raw_pipeline.md data/_ep65_review/raw_owner_edit.md
+
+--out=<path> writes the report elsewhere, so scoring a trial build does not overwrite the
+baseline comparison.md. --exclude=<from>-<to> (seconds) leaves a span out of the label score,
+for a passage whose reference label is itself in question.
 """
 import json
+from bisect import bisect_left
 import re
 import sys
 from collections import Counter
@@ -49,7 +54,10 @@ def stamp(s):
 
 
 def main():
-    tag, pipe_path, owner_path = sys.argv[1:4]
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    skip = [tuple(map(float, a[len("--exclude="):].split("-"))) for a in sys.argv[1:] if a.startswith("--exclude=")]
+    outs = [a[len("--out="):] for a in sys.argv[1:] if a.startswith("--out=")]
+    tag, pipe_path, owner_path = args[:3]
     manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
     vid = common.resolve_tag(manifest, tag)["video_id"]
     pipe_turns = turns(pipe_path, {})
@@ -83,6 +91,8 @@ def main():
     for op, i1, i2, j1, j2 in sm.get_opcodes():
         if op == "equal":
             for i, j in zip(range(i1, i2), range(j1, j2)):
+                if any(a <= at[i] <= b for a, b in skip):
+                    continue
                 if P[i][1] == O[j][1]:
                     label_ok += 1
                     continue
@@ -97,8 +107,19 @@ def main():
             ops[op] += max(i2 - i1, j2 - j1) if op == "replace" else (i2 - i1 or j2 - j1)
             word_regions.append((op, i1, i2, j1, j2))
 
+    # SPEAKER CHANGES. A change is two consecutive matched words with different labels. The
+    # pipeline finds an owner change when it also changes speaker within 2 words of it.
+    pairs = [(i, j) for _, i1, i2, j1, j2 in (o for o in sm.get_opcodes() if o[0] == "equal")
+             for i, j in zip(range(i1, i2), range(j1, j2)) if not any(a <= at[i] <= b for a, b in skip)]
+    oc = [k for k in range(1, len(pairs)) if O[pairs[k][1]][1] != O[pairs[k - 1][1]][1]]
+    pc = [k for k in range(1, len(pairs)) if P[pairs[k][0]][1] != P[pairs[k - 1][0]][1]]
+    near = lambda k, other: any(abs(k - x) <= 2 for x in other[max(0, bisect_left(other, k - 2)):][:5])
+    found = sum(near(k, pc) for k in oc)
+    real = sum(near(k, oc) for k in pc)
+
     ref = len(O)
     lines = [f"# {tag}: pipeline raw.md against the owner's corrected copy", "",
+             *([f"Excluded from the label score: {', '.join(f'{stamp(a)}-{stamp(b)}' for a, b in skip)}.", ""] if skip else []),
              f"Reference (owner): {ref} words, {len(owner_turns)} turns. "
              f"Pipeline: {len(P)} words, {len(pipe_turns)} turns.", "",
              "## Words", "",
@@ -107,6 +128,9 @@ def main():
              "## Speaker labels, on the words both files share", "",
              f"{label_ok / (label_ok + label_bad):.1%} right: {label_bad} of {label_ok + label_bad} words "
              f"carry a different label, in {len(regions)} regions.", "",
+             f"Speaker changes: the pipeline finds {found} of the owner's {len(oc)} "
+             f"({found / max(1, len(oc)):.1%}); {real} of its own {len(pc)} are real "
+             f"({real / max(1, len(pc)):.1%}).", "",
              "| pipeline said | owner says | words |", "|---|---|---|"]
     lines += [f"| {p} | {o} | {n} |" for (p, o), n in confusion.most_common()]
     lines += ["", "## Every label region", "",
@@ -122,7 +146,7 @@ def main():
         s = at[min(i1, len(at) - 1)]
         lines.append(f"| [{stamp(s)}](https://youtu.be/{vid}?t={max(0, int(s) - 3)}) | "
                      f"{' '.join(w for w, _, _ in P[i1:i2]) or '-'} | {' '.join(w for w, _, _ in O[j1:j2]) or '-'} |")
-    out = Path(owner_path).with_name("comparison.md")
+    out = Path(outs[0]) if outs else Path(owner_path).with_name("comparison.md")
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print("\n".join(lines[:12 + len(confusion) + 3]))
     print(f"\nwrote {out}")

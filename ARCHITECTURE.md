@@ -694,6 +694,45 @@ carry real names behaves exactly as before:
 ep63 after the three: 23,938 words, generic labels 24% -> 1.9%. The remaining 434 words are the
 honest residue -- turns the camera never saw, in clusters the camera cannot vouch for.
 
+**Four changes measured against the owner's hand edit of ep65 (2026-09-26).** The owner
+corrected ep65's pipeline raw.md while watching the video, and `compare_owner_edit.py` scores
+any build against that copy (`--out=` for a trial, `--exclude=<from>-<to>` for a span whose
+reference label is itself in question). Each row is scored on top of the rows above it:
+
+| change | wrong words (of 20,537) | owner speaker changes found |
+|---|---|---|
+| before | 621 | 139 of 270 |
+| a pyannote second goes to the cluster holding most of it, named only if that cluster is | 612 | 150 |
+| without MAI diarization, a MAI phrase takes one label, the camera's majority | 596 | 149 |
+| cluster purity read on seconds wholly inside a segment | 595 | 146 |
+| `CAMERA_LAG = 0.5`: a word is read against the camera half a second later | 544 | 159 |
+
+1. The old `setdefault` over `int(a)..int(b)+1` gave a named cluster every second it touched,
+   so an unnamed cluster's interjection took the named neighbour's name.
+2. A MAI phrase edge sits at 268 of the owner's 270 speaker changes, so a camera cut inside a
+   phrase is the camera lagging, not a new speaker. Gated on `cluster is None`: an episode
+   whose MAI turns carry diarization is unchanged.
+3. A segment's partial first and last seconds are where the camera still shows the previous
+   speaker. ep65's Haziq cluster read 82.4% with them (refused) and 96.1% without (named).
+   The 0.90 threshold is unchanged. ep63's Haziq cluster reads 88.1% and is still refused.
+4. Swept on the step-1 build: 0 s 366 wrong words, 0.25 s 335, 0.5 s 308, 1 s 338, 1.5 s 400,
+   2 s 478. Part of it is `camera_per_second` truncating each cut to the whole second.
+
+Leave-one-out on the step-1 build with all four in place (28:10-30:50 left out, 308 wrong
+words): reverting the purity change gives 402, the lag 366, the majority-cluster fix 354, the
+phrase rule 341. `SHORT_TURN_WORDS` stays 3: at lag 0.5, 4 gives 325 and 8 gives 405.
+
+The lag is the one change a second episode argues against, weakly. Against ep62's committed
+raw.md (owner-read, 14 owner corrections, but built with no lag) the lag costs 20 words, 107 to
+127. That reference agrees with a no-lag build by construction, so it cannot settle the lag;
+the owner's next hand-edited episode can. The 2 s in `check_overlap_boundaries.py` and
+`move_hanging_words.py` is a different rule (rule 7), which the owner confirmed 11 of 11, and
+ep65 did not test it: those tools moved nothing on ep65.
+
+Checked outside ep65: step 1 built with the old and the new code for ep53, ep26, ep62, ep61,
+ep57 and ep49 breaks none of their recorded owner decisions, and keeps two more on ep62 and
+one more on ep57.
+
 The same episode also had an unenrolled guest. Its camera reference passed
 `check_camera_reference.py` because the check compares the reference against raw.md's own
 word shares, and raw.md had been BUILT from that reference -- circular. Haziq's "daripada
