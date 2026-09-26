@@ -420,7 +420,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** So, what can be read from it?
 
-**Rafizi:** He's about to spray Ridsect, but while I'm at it here I'll spray Ridsect.
+**Rafizi:** He's about to spray Ridsect, but while I'm at it here I'll spray for a bit.
 
 **Farhan:** It had to be used for another sector.
 
