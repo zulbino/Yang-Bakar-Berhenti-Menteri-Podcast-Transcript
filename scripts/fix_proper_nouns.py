@@ -990,6 +990,14 @@ CORRECTIONS = [
     # ep65 edit wrote `We FunD` and `FunD`; they asked for their own slips to be fixed too.
     (r"\bWe ?Fun[dD]\b(?!-)", "WeFund",
      "#WeFund, BERSAMA's fundraising dinner, as Rafizi spells it. Web-verified 2026-09-27."),
+    # Datuk Bahri Mohamad Zin, SPRM Special Operations director who led the SRC / 1MDB
+    # investigation and was moved to JPM in 2015 (malaysiakini.com/news/307771,
+    # focusmalaysia.my/how-datuk-bahris-quiet-courage-saved-the-1mdb-evidence-from-destruction/).
+    # OWNER, BY EAR 2026-09-27, on ep65: "Its actuall Datuk Bahri, ex SPRM chief". MAI and the
+    # captions both wrote `Bahari`. `bahari` (maritime) is a real word, so each pattern is
+    # anchored to the title or to ep65's phrase; the 6 hits are ep29 x4, ep57, ep65.
+    (r"(?<=Datuk )Bahari\b|(?<=team Datuk apa nama ni, )Bahari\b", "Bahri",
+     "Datuk Bahri Mohamad Zin, ex-SPRM. Owner, by ear, 2026-09-27; web-verified."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the
