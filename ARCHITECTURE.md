@@ -78,6 +78,15 @@ YouTube blocks most `yt-dlp` client/format combinations behind PO tokens, SABR-o
 streaming, or DRM. The working combination is the `web_embedded` client, a locally-run
 PO-token server, and Node.js for JS challenge solving.
 
+Two limits met on a brand-new episode (ep65, 2026-09-26). A cold PO-token server answers
+`/ping` before it can mint a token, so the first download reports "Requested format is not
+available"; `yt_download.download_audio` now retries once after 15 s, as `nightly_recut`
+already did for the video. And the Gemini FREE tier cannot give a first-pass raw for a
+3-hour episode: its limit is 250,000 input tokens per minute, which the audio exceeds, so all
+ten retries fail with 429. Use `transcribe_episode.py <id> --stage raw --engine local` for the
+starting file instead; adoption replaces its words with MAI's anyway. A new episode is often
+public before it is in the playlist: `build_manifest.py --id=<video_id>` adds it.
+
 `requirements.txt` itself is not tracked (owner's decision 2026-09-18: it is local setup
 detail, not something a transcript reader needs) -- recreate it from this list before
 installing:
@@ -948,8 +957,11 @@ diarizer where the reference has no opinion measures noise. Report UEM coverage 
 DER computed against it -- 88% on ep62.
 
 `cluster` stops and writes a contact sheet for a human to look at. Naming a face is the one
-step with no independent check, and the standing rule here is that a speaker is never
-inferred from text.
+step with no independent check. The sentence here used to call "a speaker is never inferred
+from text" a standing rule. Corrected 2026-09-26: that was a session's own conclusion from
+four failed single-clue guesses, never an owner ruling. The owner asked on 2026-09-25 for a
+whole-passage text reading, measured blind against the camera and against their own
+corrected ep65, before it is either used or ruled out.
 
 Four defects found while building it, each of which yields a plausible wrong answer rather
 than an error:

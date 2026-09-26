@@ -50,6 +50,8 @@ GARBLES = ["baby", "WB", "obi", "ovi", "oibi", "ubi", "waibi", "abby", "abie", "
 # Anchored spans that must survive untouched. Checked before any substitution runs.
 KEEP = [
     r"\bubi\s+keledek\b",            # sweet potato, ep07
+    r"\bbasic\s+income\s+\(UBI\)",   # ep02:bakar topics, universal basic income. ep65's
+                                     # adoption turned it into "(YB)" on 2026-09-26
     r"\bbaby\s+Exxon\b",             # ep10, ExxonMobil alumni joke
     r"\bbaby\s+sharks?\b",           # ep16 interview-en
     r"\bbaby\s+formula\b",           # ep29 interview-en

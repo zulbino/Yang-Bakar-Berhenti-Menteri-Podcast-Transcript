@@ -68,8 +68,7 @@ def _ffmpeg_location():
 def download_audio(video_id, out_dir):
     ensure_pot_server()
     out_path = Path(out_dir) / f"{video_id}.m4a"
-    subprocess.run(
-        [
+    cmd = [
             "python", "-m", "yt_dlp",
             "-f", "bestaudio[ext=m4a]/bestaudio",
             "--js-runtimes", f"node:{_node_path()}",
@@ -77,7 +76,11 @@ def download_audio(video_id, out_dir):
             "--ffmpeg-location", _ffmpeg_location(),
             "-o", str(out_path),
             f"https://www.youtube.com/watch?v={video_id}",
-        ],
-        check=True,
-    )
+        ]
+    # A cold PO token server answers /ping before it can mint a token, and yt-dlp then reports
+    # "Requested format is not available" (ep65, 2026-09-26). nightly_recut's video download
+    # already retries once after 15 s for the same reason; see its comment.
+    if subprocess.run(cmd).returncode != 0:
+        time.sleep(15)
+        subprocess.run(cmd, check=True)
     return out_path

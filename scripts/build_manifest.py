@@ -37,6 +37,10 @@ def fetch_full_metadata_batch(video_ids):
 def main():
     long_ids = [vid for vid, dur in flat_playlist_entries() if dur >= MIN_DURATION_SECONDS]
     print(f"{len(long_ids)} episodes >= {MIN_DURATION_SECONDS}s found in playlist", file=sys.stderr)
+    # --id VIDEO_ID: a new episode is often public on the channel before it is added to the
+    # playlist (ep65, 2026-09-26), so it can be named directly.
+    long_ids += [a.split("=", 1)[1] for a in sys.argv[1:] if a.startswith("--id=")
+                 and a.split("=", 1)[1] not in long_ids]
 
     episodes = []
     for meta in fetch_full_metadata_batch(long_ids):
