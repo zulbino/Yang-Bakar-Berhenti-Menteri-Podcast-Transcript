@@ -1236,7 +1236,7 @@ Every transcript is machine-generated and carries the accuracy caveats in
 - Cadangan dasar dan tanggungjawab kerajaan menangani isu Rohingya serta pemerdagangan manusia
 - Kos pembiayaan kempen pilihan raya dan politik wang dalam parti-parti utama
 - Akta Anti Alibaba dan cadangan Political Financing Act untuk ketelusan pembiayaan politik
-- Pendekatan Bersama dalam pembiayaan kempen telus melalui crowdfunding 'We Fund
+- Pendekatan Bersama dalam pembiayaan kempen telus melalui crowdfunding 'WeFund
 - Promosi program Jelajah Kancil di Kelantan dan Pahang
 
 ## YBhM ep54 &mdash; 2026-06-25

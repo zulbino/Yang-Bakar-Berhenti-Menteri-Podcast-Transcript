@@ -49,7 +49,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [02:11] Farhan (Pa'an): Okey, boleh.
 
-[02:14] Haziq: Okey, dan aa satu lagi, sekarang ini kita aa dah buka jualan tiket untuk We Fund. Aaa malam ni yang sekarang berlaku aa di ni lah Air Keroh dan akan ada satu lagi pada 3 Oktober nanti di IDCC Shah Alam.
+[02:14] Haziq: Okey, dan aa satu lagi, sekarang ini kita aa dah buka jualan tiket untuk WeFund. Aaa malam ni yang sekarang berlaku aa di ni lah Air Keroh dan akan ada satu lagi pada 3 Oktober nanti di IDCC Shah Alam.
 
 [02:32] Rafizi: Yang Air Keroh tu tak apa sebab dah jual semua dah. Ha, saya. Yang yang penting ni ialah pada hari Sabtu minggu depan 3 Oktober. Ah, seperti biasa kita amalan kita, kita masuk dalam pilihan raya. Kita jual tiketlah untuk orang ramai membantu selain daripada crowdfunding dan juga daripada hasil dan pendapatan dalaman parti lah. Pendapatan dalaman parti tu ialah daripada anggota yang baru masuk 20 ringgit. Kemudian yang kita jual merchandise. Merchandise tu ada yang merchandise yang bukan parti tu memang dia tak ada, tak ada untung kepada parti lah. Tak ada 1 sen kepada parti saja. Tapi tak apa, kita benarkan. Merchandise yang yang pendapatan kepada parti ni ialah di laman bersama.org ataupun di booth-booth yang memang yang nampak muda-muda, budak-budak universiti kena paksa jual tu. Ha, yang itu yang yang parti punya kan. Ya. Jadi, dia masih lagi agak perlahan. Sebab saya rasa orang penat sekarang ni kan. Lagipun gaji tak masuk lagi kot. Mungkin gaji masuk.
 
@@ -59,7 +59,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [03:49] Haziq: Barulah baru masuk. So lepas ni akan pick up lah.
 
-[03:51] Rafizi: Jadi minta supaya yang menonton ni lah, yang menonton kalau boleh bagi sumbangan crowdfunding, boleh bagi dia akaun tu diorang akan letak di skrin kan. Ya, dekat bawah ni. Dekat bawah ni. Ah, menyumbanglah seberapa banyak. Kita tak berharap sumbangan sebesar kepada Datuk Seri Najib lah kan. Kita tak perlukan bajet besar macam itu. Tapi kalau yang berkelapangan kan, terutamanya yang di sekitar Lembah Klang ataupun kawasan yang berdekatan, yang jauh pun boleh. Ah, saya jemput untuk beli tiket aa ke aa Majlis Kutipan Dana We Fund aa untuk membiayai pilihan raya negeri Melaka. Aa macam saya sebutlah, kalau nak bagi trak ke apa pun boleh je. Kan. Sebab trak tu kami sewa dan sewa tu agak agak penatlah tiap-tiap bulan kan. Dan memang betul kami dah beli trak lelong satu. 20,000. Masalahnya baru kami tahulah bila trak lelong ni dia ambil masa sikit sebab nak tukar nama semua kan. Jadi dia akan am- dia tak sempat untuk PRN Melaka. Jadi kita nak kena teruskan dengan trak itu. Lepas tu kalau trak yang lelong tu pun dah dapat ambil masa pun, dia ambil masa sedikit juga untuk kita renovate untuk jadikan dia trak ceramah kan. Jadi lepas ini, insyaAllah lah kita dapat imbangkan beban kewangan tu lebih baik. Tapi buat masa sekarang, memang yalah kita perlukan aa sumbangan daripada orang ramai.
+[03:51] Rafizi: Jadi minta supaya yang menonton ni lah, yang menonton kalau boleh bagi sumbangan crowdfunding, boleh bagi dia akaun tu diorang akan letak di skrin kan. Ya, dekat bawah ni. Dekat bawah ni. Ah, menyumbanglah seberapa banyak. Kita tak berharap sumbangan sebesar kepada Datuk Seri Najib lah kan. Kita tak perlukan bajet besar macam itu. Tapi kalau yang berkelapangan kan, terutamanya yang di sekitar Lembah Klang ataupun kawasan yang berdekatan, yang jauh pun boleh. Ah, saya jemput untuk beli tiket aa ke aa Majlis Kutipan Dana WeFund aa untuk membiayai pilihan raya negeri Melaka. Aa macam saya sebutlah, kalau nak bagi trak ke apa pun boleh je. Kan. Sebab trak tu kami sewa dan sewa tu agak agak penatlah tiap-tiap bulan kan. Dan memang betul kami dah beli trak lelong satu. 20,000. Masalahnya baru kami tahulah bila trak lelong ni dia ambil masa sikit sebab nak tukar nama semua kan. Jadi dia akan am- dia tak sempat untuk PRN Melaka. Jadi kita nak kena teruskan dengan trak itu. Lepas tu kalau trak yang lelong tu pun dah dapat ambil masa pun, dia ambil masa sedikit juga untuk kita renovate untuk jadikan dia trak ceramah kan. Jadi lepas ini, insyaAllah lah kita dapat imbangkan beban kewangan tu lebih baik. Tapi buat masa sekarang, memang yalah kita perlukan aa sumbangan daripada orang ramai.
 
 [05:42] Haziq: Okey, baik YB. Kita-
 
@@ -567,7 +567,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:54:05] Haziq: Pa'an ada nak tanya ke?
 
-[2:54:06] Rafizi: Tak payahlah. Jadi kita tutup. Jangan lupa untuk beli tiket-tiket ke We FunD. Ya. Beli tiket ke WeFund.
+[2:54:06] Rafizi: Tak payahlah. Jadi kita tutup. Jangan lupa untuk beli tiket-tiket ke WeFund. Ya. Beli tiket ke WeFund.
 
 [2:54:16] Haziq: Boleh scan di bawah ni QR code.
 

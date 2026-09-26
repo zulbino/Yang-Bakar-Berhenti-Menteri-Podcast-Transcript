@@ -979,6 +979,17 @@ CORRECTIONS = [
     (r"\bRixek\b",
      "Ridsect",
      "ep64 1:04:33: MAI 'Rixek' for the spray. Owner confirmed by ear 2026-09-26."),
+    # Dr Ahmad Samsuri Mokhtar, Menteri Besar of Terengganu and PN chairman ("Dr Sam";
+    # en.wikipedia.org/wiki/Menteri_Besar_of_Terengganu, mymp.org.my/p/ahmad-samsuri-mokhtar).
+    # OWNER-SUPPLIED 2026-09-27: "Dr Samsuri become Shamsuri". All 41 raw.md hits across 17
+    # episodes were read in context on 2026-09-27 and every one is this man.
+    (r"\bShamsuri\b", "Samsuri",
+     "Dr Ahmad Samsuri Mokhtar, MB Terengganu: the ASR writes 'Shamsuri'. Owner-supplied, web-verified."),
+    # #WeFund, the BERSAMA fundraising dinner, spelt so in Rafizi's own posts
+    # (x.com/rafiziramli/status/2067097335835062285, threads.com/@rafiziramli). The owner's
+    # ep65 edit wrote `We FunD` and `FunD`; they asked for their own slips to be fixed too.
+    (r"\bWe ?Fun[dD]\b(?!-)", "WeFund",
+     "#WeFund, BERSAMA's fundraising dinner, as Rafizi spells it. Web-verified 2026-09-27."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the

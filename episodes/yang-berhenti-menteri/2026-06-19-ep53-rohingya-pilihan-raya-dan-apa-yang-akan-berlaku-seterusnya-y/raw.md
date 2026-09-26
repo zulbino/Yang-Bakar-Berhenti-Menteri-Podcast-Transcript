@@ -553,7 +553,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:58:49] Farhan (Pa'an): Baik. Dan tiket fundraiser masih boleh beli.
 
-[2:58:51] Rafizi: Ah, dan kita masih lagi ada lebih kurang berapa eh? Lebih kurang dekat 360 tiket untuk standard punya tiket 150 seorang. Kan? Jadi boleh beli pergi ke aa bersama. Org. Dari situ klik acara. Salah satu acaranya ialah We Fund. We Fund. Fundraising. Jangan lupa jangan pergi kat SJKC Wangsa Maju eh. Pergi kat SJKC Chungko. Tapi kita akan contact setiap seoranglah, maklumkan telah bertukar tempat.
+[2:58:51] Rafizi: Ah, dan kita masih lagi ada lebih kurang berapa eh? Lebih kurang dekat 360 tiket untuk standard punya tiket 150 seorang. Kan? Jadi boleh beli pergi ke aa bersama. Org. Dari situ klik acara. Salah satu acaranya ialah WeFund. WeFund. Fundraising. Jangan lupa jangan pergi kat SJKC Wangsa Maju eh. Pergi kat SJKC Chungko. Tapi kita akan contact setiap seoranglah, maklumkan telah bertukar tempat.
 
 [2:59:34] Farhan (Pa'an): Oh, silver dah habis.
 

@@ -50,7 +50,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import artifact_tag, episode_path, frontmatter_md, resolve_tag  # noqa: E402
+from common import artifact_tag, episode_path, frontmatter_md, raw_for_tag, resolve_tag  # noqa: E402
 from jev_claim_check import check_segment  # noqa: E402
 from lib_gemini import CLEAN_PROMPT_TEMPLATE, TRANSLATE_PROMPT_TEMPLATE  # noqa: E402
 from rewrite_bakeoff import CALLERS, MALAY, names_for  # noqa: E402
@@ -259,6 +259,10 @@ Raw transcript:
 {raw_text}
 ---"""
 CONDENSE_LEN_MIN = 0.40
+# The owner chose this on 2026-09-27 over plain --condense, after reading ep65 seg02 and seg08
+# three ways (normal 0.96, condense 0.86-0.89, this 0.79-0.80): "it holds up well! and the point
+# still managed getting across". Appended after the names list, exactly as that trial sent it.
+HALF_LENGTH_INSTRUCTION = """LENGTH OVERRIDE, this replaces rule 4: the printed version must be about HALF of the spoken length, between 45% and 55% of the transcript's characters. Get there by printing each point once in its tightest form, cutting every restatement, every "maksudnya", "so", "kan", every sentence that only rephrases the one before it, and every lead-in before the actual point. Questions become one short line. Rule 3 still holds: no figure, name, organisation, example or anecdote may be dropped."""
 
 
 def build_prompt(stage, source, names, extra, title=None):
@@ -448,8 +452,9 @@ def main():
     ap.add_argument("--workers", type=int, default=3)
     ap.add_argument("--instructions", help="text file appended to the mixed-stage prompt")
     ap.add_argument("--condense", action="store_true",
-                    help="owner's 2026-09-25 trial: newspaper-length mixed stage (CONDENSE_PROMPT_TEMPLATE, "
-                         "length floor CONDENSE_LEN_MIN); use with its own --workdir")
+                    help="the owner's shipping mode since 2026-09-27: newspaper Q&A at about half the "
+                         "spoken length (CONDENSE_PROMPT_TEMPLATE + HALF_LENGTH_INSTRUCTION, length "
+                         "floor CONDENSE_LEN_MIN); use with its own --workdir")
     ap.add_argument("--write", action="store_true", help="stitch into episodes/ (needs every segment)")
     ap.add_argument("--accept-figures", nargs="*", type=int, default=[], metavar="N",
                     help="accept the last try of segment N although figures are missing -- for a "
@@ -487,8 +492,28 @@ def main():
     workdir = Path(a.workdir or ROOT / "data" / f"_{artifact_tag(a.tag)}_rewrite")
     names = names_for(episode["video_id"])
     extra = Path(a.instructions).read_text(encoding="utf-8") if a.instructions else ""
+    if a.condense:
+        extra = HALF_LENGTH_INSTRUCTION + ("\n\n" + extra if extra else "")
     caller, model = parse_model(a.model)
     indices = a.only if a.only else list(range(len(segments)))
+    if "mixed" in a.stage:
+        # Owner's rule 2026-09-27: raw.md is fact-checked (check_raw_facts.py --record)
+        # before any interview text is written from it, and the segments must be cut from
+        # that same raw.md -- ep65's seg02 was once rewritten from text the owner had
+        # already corrected.
+        import check_raw_facts
+        raw_path = Path(raw_for_tag(a.tag))
+        record = (json.loads(check_raw_facts.RECORDS.read_text(encoding="utf-8"))
+                  if check_raw_facts.RECORDS.exists() else {}).get(a.tag)
+        if not record or record["raw_sha256"] != check_raw_facts.sha(raw_path):
+            raise SystemExit(f"{a.tag}: raw.md is not fact-checked in its current form; run "
+                             f"check_raw_facts.py {a.tag}, review, then --record")
+        raw_text = raw_path.read_text(encoding="utf-8")
+        stale = [i for i in indices for line in segments[i]["text"].split("\n\n")
+                 if line.split(": ", 1)[-1] not in raw_text]
+        if stale:
+            raise SystemExit(f"segments {sorted(set(stale))} hold text raw.md no longer has; "
+                             f"re-run segment_episode.py {a.tag}")
 
     for stage in [s for s in STAGES if s in a.stage]:
         print(f"== {stage}: {len(indices)} segments, {model}, {a.tries} tries, {a.workers} workers")

@@ -1,0 +1,26 @@
+{
+ "_comment": [
+  "Web-verified people, brands, events and nicknames, read by check_raw_facts.py: a word in",
+  "any `name` here is not listed for review again. Same rule as agency_roster.json: add an",
+  "entry only with a source URL, never from the corpus's own majority spelling (`Shamsuri`",
+  "outnumbered `Samsuri` 41 to 3 and was wrong). Government bodies go in agency_roster.json."
+ ],
+ "entities": [
+  {"name": "Ahmad Samsuri Mokhtar", "what": "Menteri Besar of Terengganu, PN chairman, 'Dr Sam'. Not 'Shamsuri'.",
+   "source": "https://en.wikipedia.org/wiki/Menteri_Besar_of_Terengganu", "verified": "2026-09-27"},
+  {"name": "Ab Rauf Yusoh", "what": "Ketua Menteri Melaka since 31 March 2023, Datuk Seri",
+   "source": "https://www.bharian.com.my/berita/nasional/2023/03/1084367/ab-rauf-angkat-sumpah-ketua-menteri-melaka-ke-13", "verified": "2026-09-27"},
+  {"name": "Aminuddin Harun Tok Min", "what": "PKR, Menteri Besar of Negeri Sembilan 2018-2026, known as Tok Min",
+   "source": "https://en.wikipedia.org/wiki/Aminuddin_Harun", "verified": "2026-09-27"},
+  {"name": "WeFund", "what": "#WeFund, BERSAMA's fundraising dinner, spelt so by Rafizi. Not 'We Fund' or 'We FunD'.",
+   "source": "https://x.com/rafiziramli/status/2067097335835062285", "verified": "2026-09-27"},
+  {"name": "bersama.org", "what": "BERSAMA's site, where WeFund tickets are sold",
+   "source": "https://www.threads.com/@rafiziramli/post/DZrHmjJkqGd/kami-sudah-ambil-trak-dan-akan-muncul-buat-kali-pertama-minggu-depan-di-johor/", "verified": "2026-09-27"},
+  {"name": "Ceplos", "what": "Rafizi's term for PKR's uncritical loyalists ('ceplos-ceplos')",
+   "source": "https://www.malaysiakini.com/news/767194", "verified": "2026-09-27"},
+  {"name": "Ridsect", "what": "mosquito spray brand; the ASR hears 'reset'",
+   "source": "https://www.mrdiy.com.my/products/ridsect-aerosol-600ml-9160658-001001", "verified": "2026-09-26"},
+  {"name": "BHEUU Bahagian Hal Ehwal Undang-Undang", "what": "Legal Affairs Division, JPM; nicknamed 'Bahayu' on air",
+   "source": "https://www.bheuu.gov.my/en", "verified": "2026-09-27"}
+ ]
+}

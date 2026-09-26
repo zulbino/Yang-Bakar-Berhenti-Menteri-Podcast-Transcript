@@ -829,6 +829,20 @@ ends each chapter where the next LISTED one starts, so 2:19:06 to the end was se
 and 3,712 words would have been rewritten twice. It now sorts the marks first. Check that the
 segments' turn total equals raw.md's block count before any rewrite.
 
+**Shipping mode since 2026-09-27: `--condense`, half length.** The owner read ep65 seg02 and
+seg08 rewritten three ways and chose the shortest. `--condense` now appends
+`HALF_LENGTH_INSTRUCTION`. GLM-5.3 still stops near 0.80 of the input, because the prompt's
+"keep every claim" rule outranks the length target. In this mode `names_dropped` is printed but
+not gated (ep65 seg12 lost `Kewangan`), so read it for every segment before `--write`.
+
+**Fact check before the rewrite (2026-09-27).** `rewrite_segments.py` refuses the mixed stage
+unless `data/raw_fact_checks.json` holds raw.md's current sha256, written by
+`check_raw_facts.py <tag> --record`. It also refuses a segment whose turns are no longer in
+raw.md, which is what happened to ep65's seg02 after the owner's `Tan Sri-` correction.
+Measured on ep65's pipeline raw.md against the owner's hand edit: 13 of 16 entity corrections
+flagged. The three misses were lowercase (`reset`, `refund`, `oi`). A GLM pass that reads each
+segment for these was tried and not measured, because NVIDIA returned HTTP 504 on every call.
+
 **Free GLM needs rounds, and has a daily cap (ep16, 2026-09-23/24).** `z-ai/glm-5.2:free`
 returned HTTP 429 on most calls at busy hours, but every text it did return passed the gate.
 Re-run the same command in a loop with a pause of 90-120 s; accepted segments are cached, so
