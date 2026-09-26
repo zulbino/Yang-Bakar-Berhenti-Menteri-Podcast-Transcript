@@ -32,6 +32,14 @@ model: claude-sonnet-4-6, z-ai/glm-5.2:free
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite), translated segment by segment.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 16 — Yang Berhenti Menteri Episod 16 - “Firaun Pun Berjasa”, Korupsi vs Reform, Global Sumud Flotilla**  
+3 October 2025 · 2h 8m · [watch on YouTube](https://www.youtube.com/watch?v=scF2WEBBn0w)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Assalamualaikum and welcome to the 16th episode of YB Minister. Meaning we've had it for 4 weeks. 4 weeks of what? 4 months. Just 4 months, YB. 4 months, YB. Just want to test my maths or what? YB, before we continue, YB, I want to check whether my experiment and I, YB, from last week will continue or not?
