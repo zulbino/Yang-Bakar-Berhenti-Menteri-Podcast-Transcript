@@ -1201,6 +1201,12 @@
    "who": "Haziq",
    "text": "Okey.",
    "_note": "OWNER RULING 2026-09-26, from the owner's hand edit of ep65 against the video, and their words on these two turns: 'drop them in the interview. for raw its ok as that is picked up by MAI.' drop_orphan_backchannels.py would delete this contentless turn from raw.md; the owner named the speaker, so raw.md keeps it and the interview files drop it."
+  },
+  "20:42": {
+   "who": "Rafizi",
+   "text_was": "luar negara ni Tan Sri Tengku Zafrul.",
+   "text_now": "luar negara ni Tan Sri- Tengku Zafrul.",
+   "_note": "OWNER RULING 2026-09-26, by ear at https://youtu.be/L85fe60PhGo?t=1335 (22:17): Rafizi starts 'Tan Sri' and corrects himself to 'Tengku Zafrul'. Owner: 'Rafizi make a mistake then he quickly change it, so more like \"...tan sri- Tengku Zafrul\"'. Zafrul is a Datuk Seri, not a Tan Sri. raw.md keeps the false start, marked with a hyphen; the interview files drop it as a self-corrected false start."
   }
  }
 }
