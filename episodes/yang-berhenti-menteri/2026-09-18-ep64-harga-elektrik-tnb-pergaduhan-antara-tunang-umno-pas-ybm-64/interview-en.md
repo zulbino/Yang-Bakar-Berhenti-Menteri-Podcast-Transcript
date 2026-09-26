@@ -420,13 +420,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** So, what can be read from it?
 
-**Rafizi:** He's about to spray Rixek, but while I'm at it here I'll spray to reset.
+**Rafizi:** He's about to spray Ridsect, but while I'm at it here I'll spray Ridsect.
 
 **Farhan:** It had to be used for another sector.
 
 **Haziq:** What is it? When.
 
-**Rafizi:** How can there be? Don't drink that water, I'll reset all of it. With water I'll reset it. Kill you all mosquitoes. So, we definitely have to go to, have to go to reading class. What exactly can be, you guys are showing this graph right? Yes.
+**Rafizi:** How can there be? Don't drink that water, I'll spray Ridsect on all of it. The water too, I'll spray Ridsect on it. Kill you all mosquitoes. So, we definitely have to go to, have to go to reading class. What exactly can be, you guys are showing this graph right? Yes.
 
 **Farhan:** We have a small face there. Yes.
 
@@ -810,15 +810,15 @@ So now, basically, Bersatu is a quite wealthy widow. She's a widow with 200 mill
 
 **Haziq:** 2 hours 59. Ah, alright.
 
-**Rafizi:** That works. So, insyaAllah next week we'll return to a mosquito-free studio. Mosquitoes. I don't need to hold a reset. Is this reset refusing to pay for sponsorship? We have a product placement reset tonight.
+**Rafizi:** That works. So, insyaAllah next week we'll return to a mosquito-free studio. Mosquitoes. I don't need to have Ridsect. Is this Ridsect refusing to pay for sponsorship? We have a product placement Ridsect tonight.
 
-**Haziq:** Reset and TNB,? Okay, alright. That's all. Good night.
+**Haziq:** Ridsect and TNB,? Okay, alright. That's all. Good night.
 
 **Rafizi:** See you again next week. There's a kenduri together. This Saturday. There's a kenduri together on Saturday and Sunday too. Yes. And we also have a ceramah. Truck ceramah. At night. Saturday and Sunday as well, and we will also announce 2 more.
 
 **Haziq:** 2 more candidates. Full of enthusiasm this time. That's all.
 
-**Rafizi:** So, thank you. Assalamualaikum warahmatullahi wabarakatuh. And if there are mosquitoes, use reset. Reset.
+**Rafizi:** So, thank you. Assalamualaikum warahmatullahi wabarakatuh. And if there are mosquitoes, use Ridsect. Ridsect.
 
 **Haziq:** So random.
 

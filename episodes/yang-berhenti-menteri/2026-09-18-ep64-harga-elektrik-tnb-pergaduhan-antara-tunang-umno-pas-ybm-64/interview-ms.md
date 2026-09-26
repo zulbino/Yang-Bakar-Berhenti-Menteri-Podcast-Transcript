@@ -396,13 +396,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Jadi, apa yang boleh dibaca?
 
-**Rafizi:** Dia nak sembur Rixek, tetapi tengah datang ke sini aku sembur reset.
+**Rafizi:** Dia nak sembur Ridsect, tetapi tengah datang ke sini aku sembur Ridsect.
 
 **Farhan:** Dia terpaksa digunakan untuk sektor lain.
 
 **Haziq:** Apa itu? Bila.
 
-**Rafizi:** Mana ada? Jangan minum air itu, aku resetkan semua. Dengan air-air aku resetkan. Mati kau semua nyamuk. Jadi, memang kena pergi ke, kena ke pergi kelas membaca. Apa sebenarnya yang boleh di, korang tengah tunjuk graf ni kan? Ya.
+**Rafizi:** Mana ada? Jangan minum air itu, aku Ridsectkan semua. Dengan air-air aku Ridsectkan. Mati kau semua nyamuk. Jadi, memang kena pergi ke, kena ke pergi kelas membaca. Apa sebenarnya yang boleh di, korang tengah tunjuk graf ni kan? Ya.
 
 **Farhan:** Kita orang ada muka kecil kat situ. Ya.
 
@@ -780,15 +780,15 @@ Jadi sekarang pada asasnya, Bersatu adalah seorang janda yang cukup kaya. Dia ja
 
 **Haziq:** 2 jam 59. Baik.
 
-**Rafizi:** Itu jadi. Jadi, insya-Allah minggu depan kita kembali ke studio yang tiada nyamuk. Nyamuk. Saya tidak perlu adakan reset. Ini reset tak nak bayar sponsor ke? Kita ada penempatan produk reset malam ini.
+**Rafizi:** Itu jadi. Jadi, insya-Allah minggu depan kita kembali ke studio yang tiada nyamuk. Nyamuk. Saya tidak perlu adakan Ridsect. Ini Ridsect tak nak bayar sponsor ke? Kita ada penempatan produk Ridsect malam ini.
 
-**Haziq:** Reset dan TNB Okey, baik. Itu sahaja. Selamat malam.
+**Haziq:** Ridsect dan TNB Okey, baik. Itu sahaja. Selamat malam.
 
 **Rafizi:** Kita jumpa lagi minggu depan. Ada kenduri bersama. Minggu ini hari Sabtu. Kenduri bersama hari Sabtu pun ada, hari Ahad pun ada. Iya. Dan kita pun ada ceramah. Ceramah trak. Malam. Hari Sabtu pun ada, hari Ahad pun ada, dan juga kita akan umumkan 2 lagi.
 
 **Haziq:** 2 lagi calon. Bersemangat kali ni. Itu sahaja.
 
-**Rafizi:** Jadi, terima kasih. Assalamualaikum warahmatullahi wabarakatuh. Dan kalau ada nyamuk, gunakanlah reset. Reset.
+**Rafizi:** Jadi, terima kasih. Assalamualaikum warahmatullahi wabarakatuh. Dan kalau ada nyamuk, gunakanlah Ridsect. Ridsect.
 
 **Haziq:** Rawak betul.
 

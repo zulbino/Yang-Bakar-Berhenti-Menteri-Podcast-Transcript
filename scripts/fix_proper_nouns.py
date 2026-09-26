@@ -940,6 +940,42 @@ CORRECTIONS = [
      "data/speaker_adjudications.json under ep02:berhenti_owner_ruled_2026_09_18, keyed "
      "02:28 with text_was and text_now, so check_owner_text.py restores it if a rebuild "
      "reverts it."),
+
+    # Ridsect, the Malaysian mosquito spray (mrdiy.com.my/products/ridsect-aerosol-600ml-
+    # 9160658-001001). ep64 was recorded in a studio full of mosquitoes. MAI and the YouTube
+    # captions both heard "reset". OWNER-SUPPLIED 2026-09-26: "in ep64 theres also mention
+    # ridsect, while Rafizi is struggling with mosquitos"; the owner also corrected the same
+    # "reset" to "Ridsect" by ear in ep65's raw.md (00:57). `reset` is a real English word
+    # in 16 other raw.md files, so every pattern here is anchored to an ep64 phrase; none of
+    # them matches outside ep64.
+    (r"(?<=Ada )reset(?= tak\?)|(?<=sembur )reset\b|(?<=adakan )reset\b"
+     r"|(?<=Ini )reset(?= tak nak bayar)|(?<=placement )reset(?= malam)"
+     r"|(?<=produk )reset(?= malam)|(?<=Is this )reset(?= refusing)|(?<=placement )reset(?= tonight)",
+     "Ridsect",
+     "ep64 06:4x, 1:04:33, 2:49:08: 'reset' for the mosquito spray Ridsect. Owner-supplied."),
+    (r"\bReset(?= (?:dan|and) TNB)",
+     "Ridsect",
+     "ep64 2:49:21, Haziq: 'Reset dan TNB' -- the spray and the episode's subject. Owner-supplied."),
+    (r"(?<=gunakanlah )reset\. Reset\.|(?<=use )reset\. Reset\.",
+     "Ridsect. Ridsect.",
+     "ep64 2:49:46, Rafizi's sign-off: 'kalau ada nyamuk, gunakanlah Ridsect'. Owner-supplied."),
+    (r"(?<=aku )resetkan\b",
+     "Ridsectkan",
+     "ep64 1:04:49, Rafizi spraying the room: 'aku Ridsectkan semua'. Owner-supplied."),
+    (r"I'll spray to reset", "I'll spray Ridsect",
+     "ep64 interview-en.md 1:04:33, the English of the same Ridsect line. Owner-supplied."),
+    (r"I'll reset all of it", "I'll spray Ridsect on all of it",
+     "ep64 interview-en.md 1:04:49, the English of 'aku Ridsectkan semua'. Owner-supplied."),
+    (r"With water I'll reset it", "The water too, I'll spray Ridsect on it",
+     "ep64 interview-en.md 1:04:49, the English of 'air-air aku Ridsectkan'. Owner-supplied."),
+    (r"hold a reset", "have Ridsect",
+     "ep64 interview-en.md 2:49:08, the English of 'adakan Ridsect'. Owner-supplied."),
+    # MAI 'Rixek', captions 'sembursack', in 'Dia nak sembur Rixek' right before 'aku sembur
+    # reset' in the same sentence. Both renderings are close to how Ridsect sounds and the
+    # word does not exist otherwise; the owner is asked to confirm it at youtu.be/n1_5T5ozulo?t=3870.
+    (r"\bRixek\b",
+     "Ridsect",
+     "ep64 1:04:33: MAI 'Rixek', captions 'sembursack', for the spray. Owner to confirm."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the
