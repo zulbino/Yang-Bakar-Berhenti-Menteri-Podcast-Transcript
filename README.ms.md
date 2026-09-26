@@ -1,6 +1,6 @@
 # Yang Berhenti Menteri / Yang Bakar Menteri — transkrip podcast
 
-Teks penuh podcast Rafizi Ramli *Yang Berhenti Menteri* (YBM), dan *Yang Bakar Menteri* sebelum penamaan semula. 71 episod, 178 jam.
+Teks penuh podcast Rafizi Ramli *Yang Berhenti Menteri* (YBM), dan *Yang Bakar Menteri* sebelum penamaan semula. 72 episod, 181 jam.
 
 Read in [English](README.md).
 
@@ -20,7 +20,7 @@ Untuk aliran kerja itu sendiri, lihat [ARCHITECTURE.md](ARCHITECTURE.md) (dalam 
 
 **Satu episod, untuk lihat isinya:** episod 61 — [transkrip mentah](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/raw.md) · [suntingan wawancara](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview.md).
 
-**Ikut siri:** [Yang Berhenti Menteri, 65 episod](episodes/yang-berhenti-menteri/) · [Yang Bakar Menteri, 6 episod](episodes/yang-bakar-menteri/). **Ikut topik:** [TOPICS.md](TOPICS.md).
+**Ikut siri:** [Yang Berhenti Menteri, 66 episod](episodes/yang-berhenti-menteri/) · [Yang Bakar Menteri, 6 episod](episodes/yang-bakar-menteri/). **Ikut topik:** [TOPICS.md](TOPICS.md).
 
 **Empat fail bagi setiap episod.** Setiap folder episod mengandungi empat fail yang sama:
 
@@ -148,7 +148,7 @@ episodes/
 │       ├── interview.md                 # tulisan semula gaya Tanya-Jawab, bahasa campuran
 │       ├── interview-en.md              # terjemahan Bahasa Inggeris
 │       └── interview-ms.md              # terjemahan Bahasa Melayu
-└── yang-berhenti-menteri/               # selepas penukaran nama 2025, 65 episod
+└── yang-berhenti-menteri/               # selepas penukaran nama 2025, 66 episod
     └── 2025-09-12-ep13-.../             # empat fail yang sama setiap episod
 data/
 └── manifest.json                        # indeks episod (metadata sahaja, tiada teks transkrip)

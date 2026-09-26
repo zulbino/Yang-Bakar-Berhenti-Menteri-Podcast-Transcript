@@ -1,11 +1,12 @@
 # Yang Berhenti Menteri — transcripts
 
-65 episodes, 2025 rename onward, newest first. Every episode folder holds the verbatim raw transcript and three interview edits: the original mixed Malay/English, one in English, one in Bahasa Melayu.
+66 episodes, 2025 rename onward, newest first. Every episode folder holds the verbatim raw transcript and three interview edits: the original mixed Malay/English, one in English, one in Bahasa Melayu.
 
 Back to [the whole archive](../../README.md) · [Bahasa Melayu](../../README.ms.md) · [how these were made](../../METHODOLOGY.md)
 
 | Ep | Date | Title | Length | Transcripts |
 |---|---|---|---|---|
+| 65 | 2026-09-25 | [Belanjawan 2027, Pembebasan Dato’ Sri Najib Razak, Kekalutan Negeri Sembilan & PRN Melaka](2026-09-25-ep65-belanjawan-2027-pembebasan-dato-sri-najib-razak-kekalutan-ne/) | 2h 56m | [raw](2026-09-25-ep65-belanjawan-2027-pembebasan-dato-sri-najib-razak-kekalutan-ne/raw.md) |
 | 64 | 2026-09-18 | [Harga Elektrik & TNB, Pergaduhan Antara ''Tunang'' UMNO & PAS](2026-09-18-ep64-harga-elektrik-tnb-pergaduhan-antara-tunang-umno-pas-ybm-64/) | 2h 50m | [raw](2026-09-18-ep64-harga-elektrik-tnb-pergaduhan-antara-tunang-umno-pas-ybm-64/raw.md) · [mixed](2026-09-18-ep64-harga-elektrik-tnb-pergaduhan-antara-tunang-umno-pas-ybm-64/interview.md) · [en](2026-09-18-ep64-harga-elektrik-tnb-pergaduhan-antara-tunang-umno-pas-ybm-64/interview-en.md) · [ms](2026-09-18-ep64-harga-elektrik-tnb-pergaduhan-antara-tunang-umno-pas-ybm-64/interview-ms.md) |
 | 63 | 2026-09-11 | [PISA: Anak-anak Kita Sedang Ketinggalan? FELDA Part Two](2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/) | 2h 58m | [raw](2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/raw.md) · [mixed](2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/interview.md) · [en](2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/interview-en.md) · [ms](2026-09-11-ep63-pisa-anak-anak-kita-sedang-ketinggalan-felda-part-two-ybm-63/interview-ms.md) |
 | 62 | 2026-09-04 | [FELDA Lama Sangat Peram, Kita Mula Dulu](2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/) | 3h 55m | [raw](2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/raw.md) · [mixed](2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/interview.md) · [en](2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/interview-en.md) · [ms](2026-09-04-ep62-felda-lama-sangat-peram-kita-mula-dulu-ybm-62/interview-ms.md) |
