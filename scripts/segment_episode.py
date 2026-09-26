@@ -90,7 +90,10 @@ def split_turns(turns, title, max_words):
 def segment(raw_path, video_id, runtime, max_words=MAX_WORDS):
     turns = [(seconds(s), label.strip(), text.strip())
              for s, label, text in BLOCK.findall(raw_path.read_text(encoding="utf-8"))]
-    marks = chapters_of(video_id)
+    # Sorted, because the show does not always list its chapters in time order: ep65 lists
+    # 02:19:06 last, after 02:46:50, and each chapter ends where the NEXT LISTED one starts,
+    # so 2:19:06 to the end went into the segments twice (3,712 words duplicated).
+    marks = sorted(chapters_of(video_id))
     if not marks:
         marks = [(0, "Full episode")]
     elif marks[0][0] > 0:

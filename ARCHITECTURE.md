@@ -823,6 +823,12 @@ English stage must LOSE Malay density (ceiling 0.30) or it did not translate; th
 must keep it. `--write` refuses while any segment of any stage has no accepted file.
 `--instructions` appends owner facts to the prompt, such as ep62's two title corrections.
 
+**The show's chapter list is not always in time order (ep65, 2026-09-26).** ep65's
+description lists `02:19:06 Pengampunan...` last, after `02:46:50`. `segment_episode.py`
+ends each chapter where the next LISTED one starts, so 2:19:06 to the end was segmented twice
+and 3,712 words would have been rewritten twice. It now sorts the marks first. Check that the
+segments' turn total equals raw.md's block count before any rewrite.
+
 **Free GLM needs rounds, and has a daily cap (ep16, 2026-09-23/24).** `z-ai/glm-5.2:free`
 returned HTTP 429 on most calls at busy hours, but every text it did return passed the gate.
 Re-run the same command in a loop with a pause of 90-120 s; accepted segments are cached, so
