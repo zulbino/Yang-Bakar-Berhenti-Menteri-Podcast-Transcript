@@ -948,7 +948,7 @@ CORRECTIONS = [
     # "reset" to "Ridsect" by ear in ep65's raw.md (00:57). `reset` is a real English word
     # in 16 other raw.md files, so every pattern here is anchored to an ep64 phrase; none of
     # them matches outside ep64.
-    (r"(?<=Ada )reset(?= tak\?)|(?<=sembur )reset\b|(?<=adakan )reset\b"
+    (r"(?<=Ada )reset(?= tak\?)|(?<=adakan )reset\b"
      r"|(?<=Ini )reset(?= tak nak bayar)|(?<=placement )reset(?= malam)"
      r"|(?<=produk )reset(?= malam)|(?<=Is this )reset(?= refusing)|(?<=placement )reset(?= tonight)",
      "Ridsect",
@@ -962,20 +962,23 @@ CORRECTIONS = [
     (r"(?<=aku )resetkan\b",
      "Ridsectkan",
      "ep64 1:04:49, Rafizi spraying the room: 'aku Ridsectkan semua'. Owner-supplied."),
-    (r"I'll spray to reset", "I'll spray Ridsect",
-     "ep64 interview-en.md 1:04:33, the English of the same Ridsect line. Owner-supplied."),
+    # ep64 1:04:33 ends "aku sembur sat" (Northern Malay `sat`, a moment), not the spray.
+    # OWNER, BY EAR 2026-09-26: "Dia nak sembur Ridsect" ... "sembur sat"; the ending MAI
+    # heard as "aku sembur reset" is "aku sembur sat".
+    (r"(?<=kat sini aku sembur )reset\b|(?<=ke sini aku sembur )reset\b", "sat",
+     "ep64 1:04:33, Rafizi: 'aku sembur sat'. Owner, by ear, 2026-09-26."),
+    (r"I'll spray to reset", "I'll spray for a bit",
+     "ep64 interview-en.md 1:04:33, the English of 'aku sembur sat'. Owner, by ear."),
     (r"I'll reset all of it", "I'll spray Ridsect on all of it",
      "ep64 interview-en.md 1:04:49, the English of 'aku Ridsectkan semua'. Owner-supplied."),
     (r"With water I'll reset it", "The water too, I'll spray Ridsect on it",
      "ep64 interview-en.md 1:04:49, the English of 'air-air aku Ridsectkan'. Owner-supplied."),
     (r"hold a reset", "have Ridsect",
      "ep64 interview-en.md 2:49:08, the English of 'adakan Ridsect'. Owner-supplied."),
-    # MAI 'Rixek', captions 'sembursack', in 'Dia nak sembur Rixek' right before 'aku sembur
-    # reset' in the same sentence. Both renderings are close to how Ridsect sounds and the
-    # word does not exist otherwise; the owner is asked to confirm it at youtu.be/n1_5T5ozulo?t=3870.
+    # MAI 'Rixek', captions 'sembursack'. OWNER, BY EAR 2026-09-26: "Dia nak sembur Ridsect".
     (r"\bRixek\b",
      "Ridsect",
-     "ep64 1:04:33: MAI 'Rixek', captions 'sembursack', for the spray. Owner to confirm."),
+     "ep64 1:04:33: MAI 'Rixek' for the spray. Owner confirmed by ear 2026-09-26."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the

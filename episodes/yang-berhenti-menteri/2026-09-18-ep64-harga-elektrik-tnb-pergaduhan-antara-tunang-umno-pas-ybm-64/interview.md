@@ -408,7 +408,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** So, apa yang boleh dibaca?
 
-**Rafizi:** Dia nak sembur Ridsect, tapi tengah mai bak kat sini aku sembur Ridsect.
+**Rafizi:** Dia nak sembur Ridsect, tapi tengah mai bak kat sini aku sembur sat.
 
 **Farhan:** Dia terpaksa digunakan untuk sektor lain.
 
