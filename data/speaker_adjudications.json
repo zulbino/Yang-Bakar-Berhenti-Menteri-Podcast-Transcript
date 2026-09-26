@@ -1155,6 +1155,11 @@
    "text_was": "Suara wekiat jemput ke depan. Oh. Babi Akmal. Tak apalah, dia dah ada. Tak apalah.",
    "text_now": "Suara wekiat jemput ke depan. Oh. YB Akmal. Tak apalah, dia dah ada. Tak apalah.",
    "_note": "OWNER RULING 2026-09-17 on a WORD, not a label. Owner: 'its YB akmal'. MAI wrote `Oh. Babi Akmal.` and YouTube's own caption track hears `Oh Robi Akmal`, so two engines agreed on the trailing sound and disagreed on the first consonant, and neither heard a word. This is the `YB` garble that hid in 39 spans until 2026-09-16. It arrived with ep00's first MAI adoption, hours earlier the same day. Recorded here because check_owner_text.py reads text_was and text_now and restores what a rebuild reverted; fix_proper_nouns.py carries the anchored pattern so a regeneration keeps it. `Suara wekiat` in the same block is a separate garble and is NOT touched: the owner named the name and changing words is the one operation that must never be extended by inference."
+  },
+  "05:40": {
+   "who": "Haziq",
+   "text_now": "Tak apa YB. Kucing YB sihat kira okeylah tu.",
+   "_note": "OWNER RULING 2026-09-25. 'Tak apa YB' was the tail of Rafizi's 05:37 block. Owner: 'Rafizi obviously will not say this to Haziq as Haziq is not YB'. MAI wrote it as its own phrase at 5:40.6-5:41.8, 0.4 s before Haziq's next phrase. The camera cannot attest it: ep00's reference starts at 6:51 and the stage is one wide shot of both men holding microphones (frames 5:36-5:43 checked)."
   }
  },
  "ep06:bakar_rule7_owner_ruled_2026_09_19": {
@@ -1184,6 +1189,18 @@
    "text_was": "Prof. Barjoyai",
    "text_now": "yang Prof sebut tadi kan.",
    "_note": "OWNER RULING 2026-09-20, on the rule 7 contested boundary reported by check_overlap_boundaries.py --all at [39:22] (https://youtu.be/WT1m_Yl5E_M?t=2356). Owner was given the link and answered 'rafizi speaking'. WHOLE-BLOCK relabel: the block was labelled Prof. Barjoyai and is now Rafizi, completing his own sentence that starts in the adjacent [39:18] Rafizi block ('So, I mean, kalau saya boleh tambah sedikit yang,')."
+  }
+ },
+ "ep65_owner_ruled_2026_09_26": {
+  "45:10": {
+   "who": "Haziq",
+   "text": "Okey, okey.",
+   "_note": "OWNER RULING 2026-09-26, from the owner's hand edit of ep65 against the video, and their words on these two turns: 'drop them in the interview. for raw its ok as that is picked up by MAI.' drop_orphan_backchannels.py would delete this contentless turn from raw.md; the owner named the speaker, so raw.md keeps it and the interview files drop it."
+  },
+  "49:17": {
+   "who": "Haziq",
+   "text": "Okey.",
+   "_note": "OWNER RULING 2026-09-26, from the owner's hand edit of ep65 against the video, and their words on these two turns: 'drop them in the interview. for raw its ok as that is picked up by MAI.' drop_orphan_backchannels.py would delete this contentless turn from raw.md; the owner named the speaker, so raw.md keeps it and the interview files drop it."
   }
  }
 }
