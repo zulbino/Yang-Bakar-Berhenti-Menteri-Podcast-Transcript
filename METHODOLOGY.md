@@ -1,210 +1,149 @@
 # Methodology
 
-This page covers what produced the files in this archive, how they can be wrong, and how
-to report an error. Read it before you cite anything here.
+What produced the files in this archive, how they can be wrong, and how to report an error.
+Read it before you cite anything here.
 
-A machine transcribed 181 hours of speech and a second machine rewrote the result into
-readable interviews. I reviewed the output, but not line by line. Five passages had put
-words in the mouth of the wrong real person before I caught them.
+Machines transcribed 181 hours of speech and rewrote it as interviews. I reviewed the
+output, but not line by line. Before I caught them, the files had put words in the mouths
+of the wrong real people, and insults in the mouths of people who never said them.
 
 ## Why a machine made these
 
-I do not like generative AI, and I used it anyway, because the alternative was that this
-archive would not exist.
+I do not like generative AI. I used it because otherwise this archive would not exist.
 
-The corpus is 72 episodes and 181 hours. The speech switches between Bahasa Melayu and
-English inside single sentences, and often three people talk at once. Hand-transcribing
-that is roughly a year of full-time work for one person, and I am one person doing this
-outside a job. A machine transcript that exists and can be checked against the video beats
-a human transcript that never gets made. That is the trade, and I would rather state it
-than hide it.
+The corpus is 72 episodes and 181 hours. The speakers switch between Malay and English
+inside one sentence, and often three people talk at once. Transcribing that by hand is
+about a year of full-time work, and I am one person doing this outside a job. A machine
+transcript that can be checked against the video is better than a human one that never
+gets made.
 
 ## What produced each file
 
-Every episode folder holds four files. Each one records the model that produced it in its
-own `model:` frontmatter field, so you never have to guess.
+Each file names the model that produced it in its `model:` frontmatter field.
 
 `raw.md`
-: The closest thing here to a source. Speech-to-text over the episode audio, lightly
-  cleaned, with timestamps. Google Gemini did most of these directly from audio. Where
-  Gemini was unavailable, a local model did it instead: `mesolitica/malaysian-whisper-medium-v2`,
-  a Malay-specific Whisper variant, with Silero voice-activity detection for chunking. On
-  those episodes the speaker turns come from a separate acoustic pass with
-  `pyannote.audio`, which groups voices without knowing any names.
+: Speech-to-text by Microsoft's MAI-Transcribe-2, for all 72 episodes. Filler sounds are
+  removed; nothing is paraphrased. Speaker names come from the show's camera cuts, which
+  show who is talking, then from voice comparison. A turn that no evidence can name is
+  labelled `Speaker ?`, as Hansard writes "An Hon. Member". Earlier versions came from
+  Gemini and from a local Whisper model; none remain.
 
 `interview.md`
-: An editorial rewrite of `raw.md` by Anthropic's Claude, in the style of a newspaper
-  interview. It keeps the original mixed Malay and English, so it stays close to how people
-  actually spoke. It is not a transcript. Filler and false starts are gone and sentences
-  are tidied.
+: An edited newspaper-style Q&A built from `raw.md`, in the original mix of Malay and
+  English. It is not a transcript: fillers and false starts are gone. Most were written by
+  Claude Sonnet 5; some by Gemini Flash Lite, Claude Haiku or GLM. From ep65 on, the edit
+  is condensed to roughly half the spoken length.
 
 `interview-en.md` and `interview-ms.md`
-: Single-language versions, translated from `interview.md` by Claude. These are a
-  translation of a rewrite, which puts them two steps from the audio.
+: Translations of `interview.md`, so two steps from the audio.
 
-The `topics:`, `hosts:`, and `guests:` lists in the frontmatter are also model-extracted.
-The topic lists are scored against the show's own YouTube chapter markers, where the
-episode has them, so 39 of the 68 have an external check on that field and 29 do not.
+The `topics:`, `hosts:` and `guests:` fields are also written by a model.
 
 ## What a human decided
 
-Machines did the transcription, the rewriting, and the translation. I made these calls
-myself:
+- **Speaker names**, from the camera, the YouTube caption track and voice comparison.
+  Where tools could not decide, I listened.
+- **Name and agency spellings**, from a reviewed correction map with one entry per
+  decision, each checked against a public source. Not by majority vote: the majority
+  spelling here is wrong for Fuziah Salleh and right for Akmal Saleh.
+- **Disputed passages**, by listening to the recording.
 
-- **Speaker names.** Diarization gives anonymous voices, not identities. I mapped them
-  using three kinds of evidence: video frames, because the show cuts to whoever is talking,
-  so a single close shot names the speaker; the YouTube caption track, which carries real
-  turn boundaries; and voiceprint comparison against clips I had already confirmed.
-- **Name spellings.** Corrected from a reviewed map with one entry per decision, checked
-  against press reporting. Not a majority-vote normaliser. The majority spelling in this
-  corpus is wrong for Fuziah Salleh and right for Akmal Saleh, so a blanket rule would have
-  corrupted 185 correct names.
-- **Disputed passages.** I listened to the original recording wherever a passage needed a
-  human decision.
+**I have not verified any episode line by line, except ep65**, which I corrected by hand
+against the video in September 2026. Automated checks cover the whole archive. Human review
+covers the places a check pointed at.
 
-**I have not verified any episode line by line, except ep65, which I corrected by hand
-against the video in September 2026.** At 181 hours, I am not going to pretend otherwise
-for the rest. Automated checks cover the whole archive. Human review covers the places a check
-pointed at.
+## How these files have been wrong
 
-## How these files can be wrong
+Every class below was measured, and every instance found is corrected.
 
-Every failure class below is measured, and the counts come from checks that now run over
-all 70 episodes.
+### Insults nobody said
 
-### The rewrite has named the wrong real person
+The honorific `YB` was transcribed as `Babi` (Malay for pig) in 39 places. Five published
+passages carried an insult that `raw.md` does not contain, because the rewrite changed a
+harmless word: `bangsa` (race, nation) became `bangsat` (bastard) in ep15 and ep51,
+`Salawat`, an Islamic blessing, became `celaka` (cursed) in ep16, and a spoken `damn`
+became `sial` in ep42. `scripts/check_slurs.py` now fails on any such word that a
+published file holds and `raw.md` does not.
 
-Five times, the rewrite put a famous name into a sentence where the source has a different
-name or no name at all, and named a real politician as a result. All five are corrected.
-All five were invisible in the published text, because the invented version reads better
-than the truth.
+### The wrong real person named
 
-| Episode | The published text said | `raw.md` says | Wrongly named | Corrected to |
-|---|---|---|---|---|
-| ep48 | `kau ingat Fahmi Fadzil dan kroni-kroninya` | `Farha Hashma Ramana` | a sitting minister, plus invented "cronies" | `kau ingat Farhash, Ramanan` |
-| ep58 | `baik Lim Guan Eng ke ni` | `Lim Siansi` | a former finance minister | `baik Lim Sian See ke ni`, the pro-Najib commentator Eric See-To |
-| ep60 | `Ismail Sabri dapat LOD, Ahmad Zahid dapat LOD` | `Ismail Saleh` and `Abid Abdullah` | a former prime minister and the sitting deputy prime minister | `Ismail Salleh dapat LOD, Abied Abdullah dapat LOD`, an Amanah leadership-council member and a social-media account owner |
-| ep39 | `Ismail Sabri -- eh, Wisma Putra is foreign` | `Ismail Putra is foreign` | a former prime minister | `Wisma Putra is foreign`, and no person belongs in the sentence |
-| ep13 | `ada YB Lim Guan Eng... eh, YB Lee Chean Chung` | `ada YB Lee Chean Chung` | a former finance minister | `ada YB Lee Chean Chung` |
+Five times the rewrite put a famous name where the source had another name or none:
 
-In ep13, `raw.md` already had the name right, and the rewrite put `Lim Guan Eng... eh,` in
-front of it, inventing both a wrong name and a spoken self-correction to excuse the switch.
-ep39 has the same shape, and there the source named no person at all. In ep60, the YouTube
-captions independently heard the same sounds the local model did, which makes the published
-names a substitution rather than a repair of a garble.
+| Episode | Published text said | `raw.md` says | Corrected to |
+|---|---|---|---|
+| ep48 | `Fahmi Fadzil dan kroni-kroninya` | `Farha Hashma Ramana` | `Farhash, Ramanan` |
+| ep58 | `Lim Guan Eng` | `Lim Siansi` | `Lim Sian See` (Eric See-To) |
+| ep60 | `Ismail Sabri`, `Ahmad Zahid` | `Ismail Saleh`, `Abid Abdullah` | `Ismail Salleh`, `Abied Abdullah` |
+| ep39 | `Ismail Sabri -- eh, Wisma Putra` | `Ismail Putra` | `Wisma Putra`, no person |
+| ep13 | `YB Lim Guan Eng... eh, YB Lee Chean Chung` | `YB Lee Chean Chung` | `YB Lee Chean Chung` |
 
-ep60 took two passes to fix, and the second needed a source outside this archive. The first
-pass restored what the two speech-to-text systems heard. Both of those names then appeared
-exactly once each in 181 hours, so nothing in the corpus could identify the men. The press
-could. Datuk Dr Ismail Salleh, of Amanah's national leadership council, and Abied Abdullah,
-a social-media account owner, were each served a RM5 million letter of demand over the RCI
-Tabung Haji report. The episode agrees on the names, on their order, and on the `LOD 5
-juta` figure Haziq gives half a minute later. `scripts/fix_proper_nouns.py` carries the
-source.
+In ep13 and ep39 the rewrite also invented a spoken self-correction to excuse the switch.
+In ep60 a former prime minister and the deputy prime minister stood in for an Amanah
+council member and a social-media account owner, identified from press reports of a RM5
+million letter of demand. `scripts/check_names.py` now checks every person name against
+`raw.md`. It catches four of the five; `Ismail Saleh` and `Ismail Sabri` are too close in
+spelling for it.
 
-In a passage about who is being sued, the rewrite had named a former prime minister and the
-sitting deputy prime minister. The men actually named were an opposition-party council
-member and a Facebook page owner.
+### The model's own notes printed as speech
 
-`scripts/check_names.py` now reads every person name in the published files back against
-`raw.md`, and reports any name that nothing in the source could have produced. It catches
-four of these five. It misses ep60's, because `Ismail Saleh` and `Ismail Sabri` are too
-similar to separate by string distance, and the tool's own docstring records that limit.
+Five times, for example `[per classroom actually higher -- wait]` in ep34 and
+`[translator's note: sentence unclear in source]` in ep16.
 
-### The rewrite has printed its own commentary as speech
+### Sentences nobody said
 
-Five instances, all corrected. The model reasoned out loud inside text attributed to a
-named speaker: `[per classroom actually higher -- wait]` in ep34, `[sic -- should be a
-population figure, not currency]` in ep53, `[translator's note: sentence unclear in
-source]` in ep16, a note about the speaker turning a question around in ep28, and `Farhash
-[FarmaJ?]` in ep36. Two of them were right about a real defect in the surrounding text. The
-aside was doing a job a check should have done.
+The local Whisper model inserted `Sila berasa bebas untuk menyukai, melanggan...` 142 times,
+a Malay version of Chinese subtitle boilerplate from its training data. All were removed,
+after the caption track showed that real speech ran straight past each one (41 of 41
+checkable cases).
 
-### The speech-to-text has invented sentences nobody said
+### Numbers and scale words
 
-The sentence `Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk
-menyokong lajur Der Spiegel dan Diandian` appeared 142 times across 98 files, including 29
-`raw.md` files. Nobody on this podcast says it. It is a Malay rendering of Chinese
-YouTube-subtitle boilerplate that the local Whisper model absorbed from its training data,
-where Der Spiegel and Diandian are two unrelated channels. All 142 are now removed by
-`scripts/remove_asr_boilerplate.py`.
+Speech-to-text confuses `juta` (million) with `bilion`. ep21 published `8.2 bilion` where the
+audio says `8.2 juta`. `scripts/check_figures.py` checks every figure against `raw.md`.
 
-Deleting it was only safe because the audio said so. For every occurrence, the words either
-side were looked up in the episode's YouTube caption track: if both sides sit inside one
-window of the captions, the real speech runs straight through the spot and nothing was
-displaced. That held for 41 of 41 checkable occurrences, with no counter-example, so the
-hallucination was inserted beside real speech rather than over it.
+### Translation of noise
 
-What survives, deliberately: the hosts really do ask viewers to subscribe. `Jangan lupa
-untuk melanggan` is in four files, and ep16 has Haziq joking about having to say it
-(`melanggan dan melanggan, celaka teruk`). Same words, different speaker, and only the
-sentence shape tells them apart.
+Where speech-to-text produced nonsense, the translator sometimes turned it into confident
+English. ep34's `Dan Mahagahan dia wampas` became `And Mahagahan, he's amazing`; the real
+line was about a Friday sermon. The English file is the weakest of the four.
 
-### Speaker turns are attributed to the wrong person
+### Speaker labels
 
-Diarization cuts at pauses, not at speaker changes, so one labelled block can contain
-several people. 341 published turns of 400 words or more sit under a single speaker label.
-Two misattributions are confirmed on camera: ep34 opens with 12 minutes of the co-host's
-greeting labelled as Rafizi, and ep40 gives Rafizi's `masa saya jadi Menteri Ekonomi` line
-to someone who was never a minister. Both are corrected. Treat any label during fast
+The camera shows who is talking, but not who is speaking off frame. Treat any label during
 crosstalk as unverified.
-
-### Numbers and scale words change
-
-Speech-to-text confuses `juta` with `bilion`, and a rewrite can carry the error forward.
-ep21 published `8.2 bilion` where the source audio says `8.2 juta`, at three separate
-spots. `scripts/check_figures.py` now reads every figure in the published files back
-against `raw.md`, and reports 0 unexplained differences across all 70 episodes. Check any
-number that matters against the video anyway.
-
-### Translation invents meaning from noise
-
-Where the speech-to-text produced nonsense, the translator sometimes translated the
-nonsense into confident English. ep34's `Dan Mahagahan dia wampas` became `And Mahagahan,
-he's amazing` in `interview-en.md`. The real line, from the news card visible on screen, is
-about a Friday sermon. The English file is the weakest of the four.
 
 ## Before you quote this
 
-1. Read the passage in `raw.md`, not only in `interview.md`. The raw file is closer to the
-   audio.
-2. Open the episode video at that timestamp. Every file carries a `youtube_url`, and
-   `raw.md` carries timestamps.
-3. Do not quote `interview-en.md` or `interview-ms.md` as anyone's words. They are a
-   translation of a rewrite.
-4. Treat every proper name as unverified until you hear it.
-5. Treat a speaker label during crosstalk as unverified until you watch it.
+1. Read the passage in `raw.md`, not only in `interview.md`.
+2. Open the video at that timestamp. Every file has a `youtube_url`; `raw.md` has
+   timestamps.
+3. Do not quote `interview-en.md` or `interview-ms.md` as anyone's words.
+4. Treat every proper name, and every speaker label during crosstalk, as unverified until
+   you hear it.
 
 ## Automated checks
 
-`python scripts/qa_check.py` audits every episode for the failure signatures listed above,
-and writes the results to `QA_CHECKLIST.md`. A clean row means no *known* signature fired.
-It does not mean the episode is verified. Two episodes read as clean for months while
-missing 41% and 80% of their content, until I added checks for those signatures.
+`python scripts/qa_check.py` checks every episode for the failures above and writes
+`QA_CHECKLIST.md`. A clean row means no known failure was found, not that the episode is
+verified. Two episodes passed as clean for months while missing 41% and 80% of their
+content.
 
-Current state, measured 2026-09-18: 22 of 70 episodes carry at least one flag, 4 findings
-are reviewed and judged benign, and 0 episodes are unprocessed. The reasoning for each
-waived finding is recorded in `data/qa_reviewed.json`. The count fell from 39 measured on
-2026-09-15 as more episodes were adopted and their `interview.md` regenerated from the
-re-cut `raw.md`, closing the mismatch that was most of the earlier flags. An even earlier
-version of this line read "68 of 70 clean, 0 flagged, 11 reviewed", which was true before
-the camera adoption pass began.
+Measured 2026-09-27: 17 of 72 episodes carry at least one flag, and 4 findings are reviewed
+as harmless, with reasons in `data/qa_reviewed.json`.
 
-For the pipeline itself, see [ARCHITECTURE.md](ARCHITECTURE.md). For every failure I hit
-while building it, including the ones above in full detail, see
-[ENGINEERING_LOG.md](ENGINEERING_LOG.md).
+[ARCHITECTURE.md](ARCHITECTURE.md) describes the pipeline. [ENGINEERING_LOG.md](ENGINEERING_LOG.md)
+records every failure in full.
 
 ## How to report an error
 
 Open an issue at
 [the repository's issue tracker](https://github.com/zulbino/Yang-Bakar-Berhenti-Menteri-Podcast-Transcript/issues).
-Name the episode and quote the passage. If you know what the video says instead, include
-that. I will fix it and record what changed.
+Name the episode, quote the passage, and say what the video says if you know. I will fix it
+and record what changed.
 
-If you are the person quoted, your request comes first, and I will act on it however it
-reaches me. A transcription error introduced by this pipeline is mine to correct. A dispute
-about what was actually said on the show is a different thing, and that belongs with the
-original creators.
+If you are the person quoted, your request comes first, however it reaches me. An error this
+pipeline introduced is mine to correct. A dispute about what was said on the show belongs
+with the original creators.
 
-GitHub issues are public and there is no private channel here yet. If that is a problem,
-open an issue asking me to contact you and leave the details out of it.
+Issues are public and there is no private channel yet. If that is a problem, open an issue
+asking me to contact you, and leave the details out.
