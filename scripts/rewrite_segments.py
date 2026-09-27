@@ -456,11 +456,11 @@ def main():
                          "spoken length (CONDENSE_PROMPT_TEMPLATE + HALF_LENGTH_INSTRUCTION, length "
                          "floor CONDENSE_LEN_MIN); use with its own --workdir")
     ap.add_argument("--write", action="store_true", help="stitch into episodes/ (needs every segment)")
-    ap.add_argument("--accept-figures", nargs="*", type=int, default=[], metavar="N",
-                    help="accept the last try of segment N although figures are missing -- for a "
-                         "self-correction ('137, eh, 193 juta') or a false start the model rightly "
-                         "dropped. A person reads the figure contexts in the log first. No other "
-                         "gate failure is waived.")
+    ap.add_argument("--accept-figures", nargs="*", default=[], metavar="N[:T]",
+                    help="accept the last try (or try T) of segment N although figures are missing "
+                         "-- for a self-correction ('137, eh, 193 juta') or a false start the model "
+                         "rightly dropped. A person reads the figure contexts in the log first. No "
+                         "other gate failure is waived.")
     ap.add_argument("--regate", action="store_true",
                     help="re-measure the saved tries of unaccepted segments with the current gate and "
                          "accept the first that passes; no model is called")
@@ -471,13 +471,18 @@ def main():
         regate(a)
         return
     for stage in [s for s in STAGES if s in a.stage]:
-        for i in a.accept_figures:
+        for spec in a.accept_figures:
+            i, _, t = spec.partition(":")
+            i = int(i)
             wd = Path(a.workdir or ROOT / "data" / f"_{artifact_tag(a.tag)}_rewrite") / stage
             rep_path = wd / f"seg{i:02d}.json"
             if not rep_path.exists():
                 continue
-            last = json.loads(rep_path.read_text(encoding="utf-8"))["attempts"][-1]
+            attempts = json.loads(rep_path.read_text(encoding="utf-8"))["attempts"]
+            last = next(x for x in attempts if x["try"] == int(t)) if t else attempts[-1]
             others = [f for f in last.get("failures", []) if not f.startswith("figures missing")]
+            if "error" in last:
+                others.append(last["error"])
             if others:
                 print(f"  seg {i:02d} {stage}: NOT accepted, other failures {others}")
                 continue

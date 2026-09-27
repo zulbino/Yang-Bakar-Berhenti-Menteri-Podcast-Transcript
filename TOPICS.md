@@ -1461,3 +1461,24 @@ Every transcript is machine-generated and carries the accuracy caveats in
 - Dinamik hubungan UMNO-PAS-Wawasan dan pertikaian pembahagian kerusi (agihan kerusi SG4/Semenanjung) menjelang PRU
 - Kedudukan strategik GPS dan GRS Sabah Sarawak dalam pakatan Madani berbanding ancaman penyatuan UMNO-PAS
 - Kontroversi penarikan balik DNA (discharge not amounting to acquittal) kes RM200 juta Tan Sri Muhyiddin Yassin dan implikasi kepada rundingan Bersatu-PKR
+
+## YBhM ep65 &mdash; 2026-09-25
+
+[Belanjawan 2027, Pembebasan Dato’ Sri Najib Razak, Kekalutan Negeri Sembilan & PRN Melaka | YBM #65](https://www.youtube.com/watch?v=L85fe60PhGo) &middot; [raw](episodes/yang-berhenti-menteri/2026-09-25-ep65-belanjawan-2027-pembebasan-dato-sri-najib-razak-kekalutan-ne/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-09-25-ep65-belanjawan-2027-pembebasan-dato-sri-najib-razak-kekalutan-ne/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-09-25-ep65-belanjawan-2027-pembebasan-dato-sri-najib-razak-kekalutan-ne/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-09-25-ep65-belanjawan-2027-pembebasan-dato-sri-najib-razak-kekalutan-ne/interview-ms.md)
+
+- Jualan tiket WeFund (Air Keroh, IDCC Shah Alam 3 Oktober) dan crowdfunding PRN Melaka / trak ceramah Bersama
+- Beria: kempen derma denda 50 juta Najib, troll penderma dan moraliti sumbangan politik
+- Beria: dakwaan PAS "kemajuan Kelantan disembunyikan" (migrasi, pendapatan isi rumah, geran jalan MARIS, bekalan air)
+- Beria: KSN bersenam di London dan penggantungan SUK/Penasihat Undang-undang Negeri Sembilan (kuasa SPA)
+- Beria: Bendahari PAS seru ahli dahulukan kompleks PAS 50 juta berbanding derma Najib (PAS sebagai enabler 1MDB)
+- Beria: kenyataan pasukan komunikasi Fahmi "depress" dan bubble menteri
+- Beria: surprise birthday Anwar untuk Rauf dan rundingan PH-BN PRN Melaka
+- Belanjawan 2027 sebagai belanjawan kelima dan legasi ekonomi Anwar, serta lemahnya komunikasi kerajaan
+- Mekanisme hutang kerajaan: bon MGS, rollover hutang dan bond yield (US Treasury capai paras tertinggi dalam dekad)
+- Data hutang negara 2005-2025 merentas era Pak Lah/Najib/Guan Eng/Zafrul/Madani dan unjuran 1.7 trilion menjelang 2030
+- Legasi Anwar sebagai Menteri Kewangan terbaik 1993-94 berbanding AI boom sekarang, dan kitaran ekonomi boom-bust
+- Risiko kepada belanjawan: geopolitik/harga tenaga, gelembung pelaburan AI, kenaikan bond yield global
+- Cadangan reform fiskal: bayar sebahagian hutang matang tanpa rollover, cost benchmarking perolehan kerajaan, keperluan buy-in rakyat
+- Krisis takhta Negeri Sembilan (Tuanku Mukhriz vs Undang-undang Luak), tulisan Kalimullah, ujian kepimpinan Anwar dan preseden darurat Kelantan 1977
+- Surat tunjuk sebab ROS terhadap Perikatan Nasional, kesannya kepada Wawasan/Melaka dan Akta Anti-Lompat Parti, serta bakal calon PM (Anwar, Zahid, Samsuri)
+- Tahanan rumah Datuk Seri Najib dan proses Lembaga Pengampunan, sebab Rafizi letak jawatan, dan bahaya revisionisme sejarah 1MDB
