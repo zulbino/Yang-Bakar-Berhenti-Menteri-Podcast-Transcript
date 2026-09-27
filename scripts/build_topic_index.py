@@ -47,24 +47,16 @@ TEASER_TEXT = {
     "README.md": (
         "## What each episode covers",
         "**[TOPICS.md](TOPICS.md) lists every episode and its subjects on one page**, "
-        "oldest first, so you can follow an issue across the run rather than guessing "
-        "which episode to open. An issue here usually spans several episodes and a "
-        "position can change across them, so reading one can mislead you about the "
-        "argument as a whole.",
-        "It is a record of what was said and when, not a fact-check. It does not "
-        "establish whether a claim is correct or who said something first -- those need "
-        "sources beyond one podcast.",
+        "oldest first. An issue often runs across several episodes, and a position can "
+        "change between them, so read more than one.",
+        "It records what was said and when. It is not a fact-check.",
     ),
     "README.ms.md": (
         "## Apa yang dibincangkan setiap episod",
         "**[TOPICS.md](TOPICS.md) menyenaraikan setiap episod dan subjeknya dalam satu "
-        "halaman**, terlama dahulu, supaya anda boleh mengikuti satu isu merentas "
-        "keseluruhan siaran dan bukan meneka episod mana untuk dibuka. Satu isu di sini "
-        "biasanya merangkumi beberapa episod dan pendirian boleh berubah antaranya, jadi "
-        "membaca satu episod sahaja boleh mengelirukan anda tentang hujah keseluruhannya.",
-        "Ia ialah rekod apa yang diucapkan dan bila, bukan semakan fakta. Ia tidak "
-        "menentukan sama ada sesuatu dakwaan itu benar atau siapa yang menyebutnya "
-        "dahulu -- itu memerlukan sumber di luar satu podcast.",
+        "halaman**, terlama dahulu. Satu isu selalunya merentas beberapa episod, dan "
+        "pendirian boleh berubah antaranya, jadi baca lebih daripada satu.",
+        "Ia merekodkan apa yang diucapkan dan bila. Ia bukan semakan fakta.",
     ),
 }
 

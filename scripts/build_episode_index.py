@@ -38,18 +38,16 @@ END = "<!-- END EPISODE LIST -->"
 README_TEXT = {
     "README.md": (
         "## All episodes",
-        "Newest first, with direct links to all four transcript files. `raw` is the "
-        "close-to-verbatim transcript, `mixed` keeps the original code-switched English and "
-        "Bahasa Melayu, and `EN` / `MS` are the full translations. The Guests column lists "
-        "guests only, never the cast.",
+        "Newest first. `raw` is the close-to-verbatim transcript, `mixed` keeps the "
+        "original Malay and English, and `EN` / `MS` are full translations. Guests excludes "
+        "the hosts.",
         "| Ep | Date | Title | Length | Hosts | Guests | Transcripts |",
     ),
     "README.ms.md": (
         "## Semua episod",
-        "Terbaharu dahulu, dengan pautan terus ke kesemua empat fail transkrip. `raw` ialah "
-        "transkrip hampir kata-demi-kata, `mixed` mengekalkan campuran Bahasa Inggeris dan "
-        "Bahasa Melayu yang asal, dan `EN` / `MS` ialah terjemahan penuh. Kolum Tetamu "
-        "menyenaraikan tetamu sahaja, bukan pengacara.",
+        "Terbaharu dahulu. `raw` ialah transkrip hampir kata demi kata, `mixed` mengekalkan "
+        "campuran Melayu dan Inggeris yang asal, dan `EN` / `MS` ialah terjemahan penuh. "
+        "Tetamu tidak termasuk pengacara.",
         "| Ep | Tarikh | Tajuk | Tempoh | Pengacara | Tetamu | Transkrip |",
     ),
 }

@@ -1,47 +1,35 @@
-# Yang Berhenti Menteri / Yang Bakar Menteri — transkrip podcast
+# Yang Berhenti Menteri: transkrip podcast
 
-Teks penuh podcast Rafizi Ramli *Yang Berhenti Menteri* (YBM), dan *Yang Bakar Menteri* sebelum penamaan semula. 72 episod, 181 jam.
+Teks penuh podcast Rafizi Ramli *Yang Berhenti Menteri* (YBM), yang dinamakan *Yang Bakar Menteri* sebelum 2025. 72 episod, 181 jam. Read in [English](README.md).
 
-Read in [English](README.md).
+Rancangan ini menerangkan bagaimana reformasi kerajaan dicadangkan, siapa yang menghalangnya dan kenapa. Butiran itu biasanya terkandung dalam video sepanjang tiga jam. Di sini ia dalam bentuk teks, supaya anda boleh mencari, memetik dan merujuknya.
 
-Transkrip podcast panjang Rafizi Ramli (*Yang Bakar Menteri* / *Yang Berhenti Menteri* / *YBM*), dibina dengan [pendekatan arkib berstruktur yang sama](https://github.com/ChatPRD/lennys-podcast-transcripts) seperti Lenny's Podcast Transcripts.
+## Nota ketepatan
 
-Playlist sumber: https://www.youtube.com/playlist?list=PLqJKhYZQ8r9Uz3IPEh0lXpF17w3LQK62N
+Alat AI mentranskripsi audio dan menulisnya semula sebagai wawancara. Saya mendengar semula bahagian yang dipertikaikan, tetapi **saya tidak menyemak mana-mana episod baris demi baris.** Label penutur mungkin salah, terutamanya apabila orang bercakap serentak. Rujuk `raw.md`, bukan suntingan wawancara. [METHODOLOGY.md](METHODOLOGY.md) (dalam Bahasa Inggeris) menerangkan apa yang menghasilkan setiap fail, kesilapan yang telah saya ukur, dan cara melaporkannya.
 
-Transkrip ini disemak dengan dua sumber lain. Pertama, sari kata automatik YouTube bagi setiap episod, yang digunakan di seluruh arkib untuk mengesahkan cap masa dan mencari kandungan yang hilang. Kedua, [@mediarakyat](https://www.youtube.com/@mediarakyat), yang memuat naik semula episod yang sama dengan sari kata yang dijana secara berasingan, jadi sesuatu penemuan boleh disahkan berbanding rakaman yang berlainan. Kedua-dua sumber tidak meliputi setiap episod.
+## Kandungan setiap episod
 
-Arkib ini merangkumi episod penuh sepanjang satu jam atau lebih. Ia meninggalkan teaser pendek, klip sorotan, snippet kad-quote, dan episod format ringkas dalam playlist yang sama.
-
-> Alat AI mentranskripsi episod ini daripada audio, kemudian menulis semula hasilnya menjadi wawancara yang mudah dibaca. Saya menyemaknya pada bahagian-bahagian terpilih berbanding rakaman asal, tetapi saya tidak menyemak mana-mana episod baris demi baris. Sila baca [nota ketepatan](#nota-ketepatan) sebelum anda memetik apa-apa daripada arkib ini. [METHODOLOGY.md](METHODOLOGY.md) (dalam Bahasa Inggeris) menerangkan apa yang menghasilkan setiap fail, kesilapan yang saya temui dan ukur, serta cara melaporkannya.
-
-Untuk aliran kerja itu sendiri, lihat [ARCHITECTURE.md](ARCHITECTURE.md) (dalam Bahasa Inggeris). Untuk setiap kegagalan yang saya hadapi semasa membinanya, lihat [ENGINEERING_LOG.md](ENGINEERING_LOG.md) (dalam Bahasa Inggeris).
-
-## Mula di sini
-
-**Satu episod, untuk lihat isinya:** episod 61 — [transkrip mentah](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/raw.md) · [suntingan wawancara](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview.md).
-
-**Ikut siri:** [Yang Berhenti Menteri, 66 episod](episodes/yang-berhenti-menteri/) · [Yang Bakar Menteri, 6 episod](episodes/yang-bakar-menteri/). **Ikut topik:** [TOPICS.md](TOPICS.md).
-
-**Empat fail bagi setiap episod.** Setiap folder episod mengandungi empat fail yang sama:
+Episod disimpan dalam `episodes/<rancangan>/<tarikh>-<tajuk>/`, empat fail setiap satu:
 
 | Fail | Kandungan |
 |---|---|
-| `raw.md` | Hampir kata demi kata, dengan cap masa pada setiap pertuturan. Fail bukti. |
-| `interview.md` | Perbualan yang sama, disunting jadi teks gaya surat khabar, mengekalkan campuran Melayu dan Inggeris asal. |
-| `interview-en.md` | Suntingan wawancara, sepenuhnya dalam bahasa Inggeris. |
-| `interview-ms.md` | Suntingan wawancara, sepenuhnya dalam bahasa Melayu. |
+| `raw.md` | Hampir kata demi kata, dengan cap masa dan penutur pada setiap giliran. Perkataan pengisi dibuang, tiada apa yang diparafrasa. |
+| `interview.md` | Tanya-jawab gaya akhbar yang disunting, dalam campuran Melayu dan Inggeris yang asal. |
+| `interview-en.md` | Wawancara itu, dalam bahasa Inggeris. |
+| `interview-ms.md` | Wawancara itu, dalam bahasa Melayu. |
 
-## Kenapa arkib ini wujud
+Setiap fail bermula dengan metadata YAML: tajuk, ID dan URL video, tarikh, tempoh, jumlah tontonan, hos dan tetamu. Fail wawancara turut membawa ringkasan tulisan AI dan tag topik. `data/manifest.json` mengindeks setiap episod.
 
-Podcast Rafizi Ramli membincangkan bagaimana sesuatu cadangan reformasi kerajaan dikemukakan, siapa menghalangnya, kenapa, dan apa yang dia akan buat secara berbeza pada masa depan. Butiran itu biasanya hanya wujud dalam video sepanjang 2-3 jam yang jarang orang sempat semak semula. Saya bina arkib ini supaya rekod itu wujud sebagai teks, supaya seorang wartawan boleh memetiknya, seorang penulis biografi boleh merujuknya, dan sesiapa yang cuba memahami kenapa sesuatu reformasi gagal boleh mencarinya.
+Mula dengan episod 61: [mentah](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/raw.md), [wawancara](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview.md). Layari [Yang Berhenti Menteri, 66 episod](episodes/yang-berhenti-menteri/), [Yang Bakar Menteri, 6 episod](episodes/yang-bakar-menteri/), atau [ikut topik](TOPICS.md).
 
 <!-- BEGIN TOPIC TEASER -- generated by scripts/build_topic_index.py -->
 
 ## Apa yang dibincangkan setiap episod
 
-**[TOPICS.md](TOPICS.md) menyenaraikan setiap episod dan subjeknya dalam satu halaman**, terlama dahulu, supaya anda boleh mengikuti satu isu merentas keseluruhan siaran dan bukan meneka episod mana untuk dibuka. Satu isu di sini biasanya merangkumi beberapa episod dan pendirian boleh berubah antaranya, jadi membaca satu episod sahaja boleh mengelirukan anda tentang hujah keseluruhannya.
+**[TOPICS.md](TOPICS.md) menyenaraikan setiap episod dan subjeknya dalam satu halaman**, terlama dahulu. Satu isu selalunya merentas beberapa episod, dan pendirian boleh berubah antaranya, jadi baca lebih daripada satu.
 
-Ia ialah rekod apa yang diucapkan dan bila, bukan semakan fakta. Ia tidak menentukan sama ada sesuatu dakwaan itu benar atau siapa yang menyebutnya dahulu -- itu memerlukan sumber di luar satu podcast.
+Ia merekodkan apa yang diucapkan dan bila. Ia bukan semakan fakta.
 
 <!-- END TOPIC TEASER -->
 
@@ -49,7 +37,7 @@ Ia ialah rekod apa yang diucapkan dan bila, bukan semakan fakta. Ia tidak menent
 
 ## Semua episod
 
-Terbaharu dahulu, dengan pautan terus ke kesemua empat fail transkrip. `raw` ialah transkrip hampir kata-demi-kata, `mixed` mengekalkan campuran Bahasa Inggeris dan Bahasa Melayu yang asal, dan `EN` / `MS` ialah terjemahan penuh. Kolum Tetamu menyenaraikan tetamu sahaja, bukan pengacara.
+Terbaharu dahulu. `raw` ialah transkrip hampir kata demi kata, `mixed` mengekalkan campuran Melayu dan Inggeris yang asal, dan `EN` / `MS` ialah terjemahan penuh. Tetamu tidak termasuk pengacara.
 
 ### Yang Berhenti Menteri
 
@@ -139,58 +127,22 @@ Terbaharu dahulu, dengan pautan terus ke kesemua empat fail transkrip. `raw` ial
 
 <!-- END EPISODE LIST -->
 
-## Struktur
+## Bagaimana fail dihasilkan
 
-```
-episodes/
-├── yang-bakar-menteri/                  # siri 2024, 6 episod
-│   └── 2024-01-08-ep01-.../
-│       ├── raw.md                       # transkrip hampir-verbatim
-│       ├── interview.md                 # tulisan semula gaya Tanya-Jawab, bahasa campuran
-│       ├── interview-en.md              # terjemahan Bahasa Inggeris
-│       └── interview-ms.md              # terjemahan Bahasa Melayu
-└── yang-berhenti-menteri/               # selepas penukaran nama 2025, 66 episod
-    └── 2025-09-12-ep13-.../             # empat fail yang sama setiap episod
-data/
-└── manifest.json                        # indeks episod (metadata sahaja, tiada teks transkrip)
-scripts/                                 # kod pipeline, lihat ARCHITECTURE.md
-ARCHITECTURE.md                          # teknologi: persediaan, arahan, pengesahan
-ENGINEERING_LOG.md                       # setiap kegagalan, puncanya dan pembetulannya
-CREDITS.md                               # model pihak ketiga, lesen, petikan
-QA_CHECKLIST.md                          # dijana oleh scripts/qa_check.py
-```
+Hanya episod penuh sepanjang satu jam atau lebih daripada [playlist](https://www.youtube.com/playlist?list=PLqJKhYZQ8r9Uz3IPEh0lXpF17w3LQK62N) dimasukkan. Model pertuturan-ke-teks menulis `raw.md`, model bahasa menulisnya semula menjadi tiga fail wawancara, dan skrip menyemak hasilnya. Cap masa dan kandungan yang hilang disemak dengan sari kata YouTube setiap episod dan dengan muat naik semula oleh [@mediarakyat](https://www.youtube.com/@mediarakyat).
 
-Setiap episod berada dalam `episodes/<nama-rancangan>/<tarikh-siaran>-<slug-tajuk>/` dengan empat fail. `<nama-rancangan>` ialah `yang-bakar-menteri` untuk siri asal 2024, atau `yang-berhenti-menteri` untuk semua episod selepas penukaran nama pada 2025:
+`python scripts/qa_check.py` menulis `QA_CHECKLIST.md`. Baris yang bersih bermakna tiada kegagalan yang diketahui dikesan, bukan bermakna episod itu telah disahkan.
 
-- `raw.md`: transkrip hampir-verbatim terus daripada audio, lengkap dengan cap masa dan label penutur. Perkataan pengisi (filler) dibersihkan sedikit sahaja, dan tiada apa-apa diparafrasa atau diringkaskan. Bagi episod yang ditranskrip melalui alternatif ASR tempatan, label penutur datang daripada satu pusingan pengesanan penutur (diarization) berasingan berdasarkan bunyi suara, bukan daripada model transkripsi itu sendiri (lihat [ARCHITECTURE.md](ARCHITECTURE.md)).
-- `interview.md`: tulisan semula gaya Tanya-Jawab akhbar yang dikemas, dikekalkan dalam bahasa campuran Inggeris dan Bahasa Melayu asal, paling hampir dengan cara perbualan itu sebenarnya dituturkan.
-- `interview-en.md`: tulisan semula yang sama, diterjemah penuh ke Bahasa Inggeris.
-- `interview-ms.md`: tulisan semula yang sama, diterjemah penuh ke Bahasa Melayu.
+Dokumen berikut dalam Bahasa Inggeris:
 
-Kesemua empat fail berkongsi frontmatter YAML yang sama (tajuk, ID video, URL YouTube, tarikh siaran, tempoh, jumlah tontonan, hos, tetamu). Tiga versi interview turut membawa ringkasan janaan-AI dan tag topik. Pilih versi yang paling sesuai dengan keperluan anda.
+- [ARCHITECTURE.md](ARCHITECTURE.md): aliran kerja, persediaan dan arahan.
+- [ENGINEERING_LOG.md](ENGINEERING_LOG.md): setiap kegagalan yang ditemui dan pembetulannya.
+- [MODEL_LANDSCAPE.md](MODEL_LANDSCAPE.md): model pertuturan dinilai pada audio Malaysia.
 
-`data/manifest.json` ialah indeks episod penuh, metadata sahaja tanpa teks transkrip, dan ia menggerakkan aliran kerja ini.
+Susun aturnya mengikut [Lenny's Podcast Transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts).
 
-## Nota ketepatan
+## Lesen
 
-Alat AI mentranskripsi episod ini dengan mendengar audio sumber, kemudian menulis semula hasilnya menjadi wawancara yang mudah dibaca. Setiap episod diaudit secara automatik (lihat di bawah), dan saya mendengar rakaman asal pada mana-mana bahagian yang memerlukan pertimbangan manusia: label penutur yang diragui, kandungan yang kelihatan hilang, atau nama yang luar biasa. **Saya tidak menyemak mana-mana episod baris demi baris**, jadi kesilapan, salah dengar, dan salah kaitan penutur masih mungkin berlaku, terutamanya semasa pertindihan suara (cross-talk). Percampuran bahasa (code-switching) antara Bahasa Melayu dan Inggeris dikekalkan, dan tidak diterjemahkan. Anggap `raw.md` sebagai rujukan paling hampir dengan sumber asal, dan `interview.md` sebagai tulisan semula editorial yang dibina di atasnya.
+Kod saya dalam `scripts/` ialah domain awam ([CC0 1.0](LICENSE)). Dua model yang digunakannya mempunyai terma sendiri bagi sesiapa yang menjalankannya semula: penjajar MMS oleh Meta ialah **CC-BY-NC 4.0, bukan komersial sahaja**, dan WeSpeaker ialah CC-BY-4.0 dengan atribusi. Penggunaan semula transkrip tidak melibatkan model itu. [CREDITS.md](CREDITS.md) menyenaraikan setiap kebergantungan.
 
-Bagi episod yang ditranskrip melalui alternatif ASR tempatan (lihat [ARCHITECTURE.md](ARCHITECTURE.md#known-limitations), dalam Bahasa Inggeris), label penutur `raw.md` datang daripada satu pusingan pengesanan penutur (diarization) berasingan dengan pyannote.audio, bukan daripada diarization Gemini sendiri. Label itu bermula sebagai "Speaker N" tanpa nama, dan saya memetakannya kepada nama sebenar secara manual semasa semakan, sama seperti label umum Gemini. Anggap label mana-mana episod yang belum saya semak sebagai belum disahkan, terutamanya dalam pertukaran cepat antara pelbagai penutur.
-
-`python scripts/qa_check.py` mengaudit setiap episod untuk kesan kegagalan yang saya tahu: tulisan semula terpotong, cap masa yang berhalusinasi, penaakulan model yang tertinggal dalam teks, kandungan yang hilang dari tengah episod, dan lain-lain. Skrip ini menulis hasilnya ke `QA_CHECKLIST.md`. Jalankan skrip ini selepas mana-mana kumpulan pemprosesan, dan baca hasilnya dan bukan hanya kod keluar (exit code). Beberapa kegagalan ini tidak menghasilkan sebarang ralat atau kod keluar bukan-sifar, hanya kandungan fail yang rosak atau terpotong. Baris yang bersih bermakna tiada kesan kegagalan *yang diketahui* dikesan, dan bukan bermakna saya telah mengesahkan episod itu. Dua episod kelihatan bersih selama beberapa bulan sedangkan 41% dan 80% kandungannya hilang, sehingga saya menambah pemeriksaan untuk kesan tersebut.
-
-Nama khas disemak dengan membandingkannya dengan keseluruhan arkib, bukan dengan kamus: `python scripts/check_proper_nouns.py` melaporkan mana-mana nama yang dieja berbeza daripada bentuk yang digunakan secara konsisten di tempat lain, dan mana-mana nama yang tidak pernah didengari oleh sari kata YouTube episod itu sendiri. Semakan kamus ternyata alat yang salah di sini, dan saya telah menulis sebabnya di [ENGINEERING_LOG.md 1.28](ENGINEERING_LOG.md#128-one-name-eight-spellings-and-why-a-nickname-was-not-a-nickname) (dalam Bahasa Inggeris). Kira-kira 250 calon masih menunggu semakan, jadi ejaan luar biasa mungkin masih salah.
-
-## Lesen dan penafian
-
-Saya telah meletakkan kod aliran kerja dalam repositori ini, segala-galanya di bawah `scripts/`, ke dalam domain awam di bawah [CC0 1.0](LICENSE). Anda tidak perlu kebenaran dan tidak terhutang atribusi untuk menggunakan, mengubah suai, atau mengedarkannya semula.
-
-Itu meliputi kod saya sendiri. Aliran kerja ini bergantung kepada model dan alat yang mempunyai terma masing-masing, dan dua daripada terma itu terpakai kepada sesiapa yang menjalankannya semula: penjajar paksa MMS oleh Meta adalah **CC-BY-NC 4.0, bukan komersial sahaja**, dan model embedding WeSpeaker adalah CC-BY-4.0 dan memerlukan atribusi. Penggunaan semula transkrip yang sudah siap tidak terjejas, kerana ia tidak melibatkan model tersebut. [CREDITS.md](CREDITS.md) (dalam Bahasa Inggeris) mengandungi senarai penuh, petikan yang diminta oleh penulisnya, dan hasil kerja yang menjadi asas kepada projek ini.
-
-Transkrip episod di bawah `episodes/` merupakan transkripsi dan terjemahan podcast milik Rafizi Ramli sendiri, diambil daripada saluran YouTube awamnya. Saya tidak mengenakan sebarang sekatan sendiri ke atas penggunaan semula fail-fail ini: tiada kebenaran diperlukan, tiada kredit diwajibkan. Kandungan pertuturan asal, iaitu rancangan itu sendiri dan apa jua yang dituturkan oleh Rafizi Ramli atau tetamunya, adalah kepunyaan mereka dan bukan saya, dan tiada apa di sini yang mengubah hakikat tersebut. Gunakan arkib ini untuk penyelidikan, laporan, atau membina alat anda sendiri di atasnya. Sila bawa sebarang pertikaian mengenai kandungan asal kepada pencipta asal, bukan kepada repositori ini.
-
-Saya tiada kaitan rasmi dengan Rafizi Ramli, pejabatnya, atau produksi *Yang Bakar Menteri* / *Yang Berhenti Menteri*.
-
-## Menghasilkan semula arkib ini
-
-Keseluruhan aliran kerja ada dalam `scripts/`. [ARCHITECTURE.md](ARCHITECTURE.md) (dalam Bahasa Inggeris) merangkumi teknologi yang digunakan, persediaan sekali sahaja, arahan, dan cara hasilnya disahkan. [ENGINEERING_LOG.md](ENGINEERING_LOG.md) (dalam Bahasa Inggeris) merekodkan setiap kegagalan yang saya hadapi.
+Saya tidak mengenakan sebarang sekatan ke atas transkrip. Apa yang dituturkan adalah milik Rafizi Ramli dan tetamunya; bawa sebarang pertikaian mengenainya kepada mereka. Saya tiada kaitan dengan Rafizi Ramli, pejabatnya atau rancangan itu.
