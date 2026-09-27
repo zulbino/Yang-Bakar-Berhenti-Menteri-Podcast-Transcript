@@ -9,10 +9,18 @@ of the wrong real people, and insults in the mouths of people who never said the
 
 ## Why a machine made these
 
-I refuse to use AI image generators. They are built on stolen art, and what they make is
-poor. Transcription is different. The model listens to a public recording and writes down
-what was said. Nobody's creative work is taken, and the result is checked against the
-source.
+Using AI for this project may look like a contradiction. I have seen people use it to make
+atrocious work: ugly generated images, robotic sentences, and thinking handed over to a
+machine that a person should have done. I also hold to a line from a 1979 IBM training
+manual: "A computer can never be held accountable, therefore a computer must never make a
+management decision."
+
+To me, AI is a tool. If it makes a better product and a better experience, that is enough.
+If it produces low-quality work, that is unacceptable.
+
+AI is here to stay. I use it to automate work that would take me years by hand. With
+agentic AI it takes a fraction of the time, and the quality is good enough to check and
+correct. That is the premise this project starts from.
 
 The corpus is 72 episodes and 181 hours. The speakers switch between Malay and English
 inside one sentence, and often three people talk at once. Transcribing that by hand is
