@@ -1,47 +1,35 @@
-# Yang Berhenti Menteri / Yang Bakar Menteri — podcast transcripts
+# Yang Berhenti Menteri: podcast transcripts
 
-Full text of Rafizi Ramli's podcast *Yang Berhenti Menteri* (YBM), and of *Yang Bakar Menteri* before the rename. 72 episodes, 181 hours.
+The full text of Rafizi Ramli's podcast *Yang Berhenti Menteri* (YBM), named *Yang Bakar Menteri* before 2025. 72 episodes, 181 hours. Baca dalam [Bahasa Melayu](README.ms.md).
 
-Baca dalam [Bahasa Melayu](README.ms.md).
+The show explains how government reforms were proposed, who blocked them and why. That detail usually sits inside a three-hour video. Here it is text, so you can search, quote and cite it.
 
-Transcripts of Rafizi Ramli's long-form podcast (*Yang Bakar Menteri* / *Yang Berhenti Menteri* / *YBM*), built with the [same structured-archive approach](https://github.com/ChatPRD/lennys-podcast-transcripts) as Lenny's Podcast Transcripts.
+## Accuracy note
 
-Source playlist: https://www.youtube.com/playlist?list=PLqJKhYZQ8r9Uz3IPEh0lXpF17w3LQK62N
+AI tools transcribed the audio and rewrote it as interviews. I checked disputed passages by ear, but **I have not verified any episode line by line.** Speaker labels can be wrong, most often when people talk over each other. Cite `raw.md`, not the interview edits. [METHODOLOGY.md](METHODOLOGY.md) says what made each file, which errors I have measured, and how to report one.
 
-The transcripts are checked against two other sources. The first is each episode's own YouTube auto-captions, used across the whole archive to verify timing and find missing content. The second is [@mediarakyat](https://www.youtube.com/@mediarakyat), who re-uploaded the same episodes with their own separately-generated captions, so a finding can be confirmed against a different recording. Neither source covers every episode.
+## What each episode contains
 
-This archive covers full episodes of an hour or more. It leaves out short teasers, clip highlights, quote-card snippets, and the shorter-format episodes in the same playlist.
+Episodes live in `episodes/<show>/<date>-<title>/`, four files each:
 
-> AI tools transcribed these episodes from the audio and rewrote the result into readable interviews. I spot-checked them against the source recordings, but I have not checked any episode line by line. Please read the [accuracy note](#accuracy-note) before you cite anything here. [METHODOLOGY.md](METHODOLOGY.md) sets out what produced each file, the errors I have found and measured, and how to report one.
-
-For the pipeline itself, see [ARCHITECTURE.md](ARCHITECTURE.md). For every failure I hit while building it, see [ENGINEERING_LOG.md](ENGINEERING_LOG.md). For which speech models are worth using and what they score on Malaysian audio, see [MODEL_LANDSCAPE.md](MODEL_LANDSCAPE.md).
-
-## Start here
-
-**One episode, to see what you get:** episode 61 — [verbatim raw transcript](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/raw.md) · [interview edit](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview.md).
-
-**Browse by run:** [Yang Berhenti Menteri, 66 episodes](episodes/yang-berhenti-menteri/) · [Yang Bakar Menteri, 6 episodes](episodes/yang-bakar-menteri/). **Browse by subject:** [TOPICS.md](TOPICS.md).
-
-**Four files per episode.** Each episode folder holds the same four:
-
-| File | What it is |
+| File | Content |
 |---|---|
-| `raw.md` | Close to word for word, with a timestamp on every turn. The evidence file. |
-| `interview.md` | The same conversation edited into readable newspaper-style copy, keeping the original mix of Malay and English. |
-| `interview-en.md` | The interview edit, fully in English. |
-| `interview-ms.md` | The interview edit, fully in Bahasa Melayu. |
+| `raw.md` | Close to word for word, with a timestamp and speaker on every turn. Fillers removed, nothing paraphrased. |
+| `interview.md` | Edited newspaper-style Q&A, in the original mix of Malay and English. |
+| `interview-en.md` | The interview, in English. |
+| `interview-ms.md` | The interview, in Malay. |
 
-## Why this exists
+Each file starts with YAML metadata: title, video ID and URL, date, duration, views, hosts and guests. The interview files add an AI-written summary and topic tags. `data/manifest.json` indexes every episode.
 
-Rafizi Ramli's podcast covers how specific government reforms got proposed, who blocked them, why, and what he'd do differently next time. That detail usually only exists inside a 2-3 hour video nobody has time to scrub through. I built this to put the record into text instead, so a journalist can cite it, a biographer can quote it, and anyone trying to understand why a reform failed can search for it.
+Start with episode 61: [raw](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/raw.md), [interview](episodes/yang-berhenti-menteri/2026-08-28-ep61-negeri-miskin-sebab-dianaktiri-keganasan-rumah-tangga-dalam-/interview.md). Browse [Yang Berhenti Menteri, 66 episodes](episodes/yang-berhenti-menteri/), [Yang Bakar Menteri, 6 episodes](episodes/yang-bakar-menteri/), or [by topic](TOPICS.md).
 
 <!-- BEGIN TOPIC TEASER -- generated by scripts/build_topic_index.py -->
 
 ## What each episode covers
 
-**[TOPICS.md](TOPICS.md) lists every episode and its subjects on one page**, oldest first, so you can follow an issue across the run rather than guessing which episode to open. An issue here usually spans several episodes and a position can change across them, so reading one can mislead you about the argument as a whole.
+**[TOPICS.md](TOPICS.md) lists every episode and its subjects on one page**, oldest first. An issue often runs across several episodes, and a position can change between them, so read more than one.
 
-It is a record of what was said and when, not a fact-check. It does not establish whether a claim is correct or who said something first -- those need sources beyond one podcast.
+It records what was said and when. It is not a fact-check.
 
 <!-- END TOPIC TEASER -->
 
@@ -49,7 +37,7 @@ It is a record of what was said and when, not a fact-check. It does not establis
 
 ## All episodes
 
-Newest first, with direct links to all four transcript files. `raw` is the close-to-verbatim transcript, `mixed` keeps the original code-switched English and Bahasa Melayu, and `EN` / `MS` are the full translations. The Guests column lists guests only, never the cast.
+Newest first. `raw` is the close-to-verbatim transcript, `mixed` keeps the original Malay and English, and `EN` / `MS` are full translations. Guests excludes the hosts.
 
 ### Yang Berhenti Menteri
 
@@ -139,59 +127,20 @@ Newest first, with direct links to all four transcript files. `raw` is the close
 
 <!-- END EPISODE LIST -->
 
-## Structure
+## How the files are made
 
-```
-episodes/
-├── yang-bakar-menteri/                  # 2024 run, 6 episodes
-│   └── 2024-01-08-ep01-.../
-│       ├── raw.md                       # close-to-verbatim transcript
-│       ├── interview.md                 # polished Q&A rewrite, mixed language
-│       ├── interview-en.md              # English translation
-│       └── interview-ms.md              # Bahasa Melayu translation
-└── yang-berhenti-menteri/               # 2025 rename onward, 66 episodes
-    └── 2025-09-12-ep13-.../             # same 4 files per episode
-data/
-└── manifest.json                        # episode index (metadata only, no transcript text)
-scripts/                                 # pipeline code, see ARCHITECTURE.md
-ARCHITECTURE.md                          # the stack: setup, commands, verification
-ENGINEERING_LOG.md                       # every failure found, its cause and fix
-MODEL_LANDSCAPE.md                       # model comparison, re-measured as new ones ship
-CREDITS.md                               # third-party models, licences, citations
-QA_CHECKLIST.md                          # generated by scripts/qa_check.py
-```
+Only full episodes of an hour or more from the [playlist](https://www.youtube.com/playlist?list=PLqJKhYZQ8r9Uz3IPEh0lXpF17w3LQK62N) are included. Speech-to-text writes `raw.md`, a language model rewrites it into the three interview files, and scripts check the result. Timing and missing content are checked against each episode's YouTube captions and against [@mediarakyat](https://www.youtube.com/@mediarakyat)'s re-uploads.
 
-Each episode lives in `episodes/<show-name>/<publish-date>-<title-slug>/` with four files. `<show-name>` is `yang-bakar-menteri` for the show's original 2024 run, or `yang-berhenti-menteri` for everything since the 2025 rename:
+`python scripts/qa_check.py` writes `QA_CHECKLIST.md`. A clean row means no known failure was found, not that the episode is verified.
 
-- `raw.md`: a close-to-verbatim transcript straight from the audio, with timestamps and speaker labels. Filler words are cleaned up lightly, and nothing is paraphrased or summarised. For episodes transcribed with the local ASR fallback, the speaker labels come from a separate acoustic diarization pass rather than from the transcription model (see [ARCHITECTURE.md](ARCHITECTURE.md)).
-- `interview.md`: a polished newspaper-style Q&A rewrite, kept in the original mixed English and Bahasa Melayu, closest to how the conversation was actually spoken.
-- `interview-en.md`: the same rewrite, fully translated into English.
-- `interview-ms.md`: the same rewrite, fully translated into Bahasa Melayu.
+- [ARCHITECTURE.md](ARCHITECTURE.md): the pipeline, setup and commands.
+- [ENGINEERING_LOG.md](ENGINEERING_LOG.md): every failure found and its fix.
+- [MODEL_LANDSCAPE.md](MODEL_LANDSCAPE.md): speech models scored on Malaysian audio.
 
-All four files share the same YAML frontmatter (title, video ID, YouTube URL, publish date, duration, view count, hosts, guests). The three interview versions also carry an AI-generated summary and topic tags. Pick whichever version suits your use case.
+The layout follows [Lenny's Podcast Transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts).
 
-`data/manifest.json` is the full episode index, metadata only with no transcript text, and it drives the pipeline.
+## Licence
 
-## Accuracy note
+My code in `scripts/` is public domain ([CC0 1.0](LICENSE)). Two models it uses have their own terms for anyone who re-runs it: Meta's MMS aligner is **CC-BY-NC 4.0, non-commercial only**, and WeSpeaker is CC-BY-4.0 with attribution. Reusing the transcripts does not involve the models. [CREDITS.md](CREDITS.md) lists every dependency.
 
-AI tools transcribed these episodes by listening to the source audio, then rewrote the result into readable interviews. Every episode is audited automatically (see below), and I listened to the original recording wherever a passage needed a human decision: a disputed speaker label, content that looked like it was missing, an unusual name. **I have not verified any episode line by line**, so errors, mishearings and misattributed speaker turns are still possible, especially during cross-talk. Code-switching between Bahasa Melayu and English is preserved rather than translated. Treat `raw.md` as the closer-to-source reference, and `interview.md` as an editorial rewrite built on top of it.
-
-For episodes transcribed with the local ASR fallback (see [ARCHITECTURE.md](ARCHITECTURE.md#known-limitations)), the `raw.md` speaker labels come from a separate acoustic diarization pass with pyannote.audio rather than from Gemini's own diarization. They start as anonymous "Speaker N" labels, and I map them to real names by hand during review, the same as I do with Gemini's generic labels. Treat the labels on any episode I haven't reviewed yet as unverified, particularly during fast multi-speaker exchanges.
-
-`python scripts/qa_check.py` audits every episode for the failure signatures I know about: truncated rewrites, hallucinated timestamps, leaked model reasoning, content dropped from the middle of an episode, and more. It writes the results to `QA_CHECKLIST.md`. Run it after any batch, and read the output instead of trusting the exit code. Several of these failures produce no error and no non-zero exit, only corrupted or truncated file content. A clean row means no *known* signature fired, and not that I have verified the episode. Two episodes read as clean for months while missing 41% and 80% of their content, until I added checks for those signatures.
-
-Names are checked by comparing them against the rest of the archive rather than against a dictionary: `python scripts/check_proper_nouns.py` reports any name spelled differently from the form used consistently elsewhere, and any name the episode's own YouTube captions never heard. A dictionary check turned out to be the wrong instrument here, and I have written up why in [ENGINEERING_LOG.md 1.28](ENGINEERING_LOG.md#128-one-name-eight-spellings-and-why-a-nickname-was-not-a-nickname). Around 250 candidates are still queued for review, so unusual spellings may still be wrong.
-
-## License and disclaimer
-
-I've put the pipeline code in this repo, everything under `scripts/`, into the public domain under [CC0 1.0](LICENSE). You need no permission and owe no attribution to use, modify or redistribute it.
-
-That covers my own code. The pipeline depends on models and tools with their own terms, and two of those terms apply to anyone who re-runs it: Meta's MMS forced aligner is **CC-BY-NC 4.0, non-commercial only**, and the WeSpeaker embedding model is CC-BY-4.0 and requires attribution. Reusing the finished transcripts is unaffected, because that doesn't involve the models. [CREDITS.md](CREDITS.md) has the full list, the citations the authors ask for, and the work this project depends on.
-
-The episode transcripts under `episodes/` are transcriptions and translations of Rafizi Ramli's own podcast, taken from his public YouTube channel. I place no restrictions of my own on reusing them: no permission needed, no credit required. The underlying spoken content, meaning the show itself and anything Rafizi Ramli or his guests said, belongs to them and not to me, and nothing here changes that. Use this archive for research, reporting, or building your own tools on top of it. Please raise any dispute about the underlying content with the original creators rather than with this repo.
-
-I'm not affiliated with Rafizi Ramli, his office, or the *Yang Bakar Menteri* / *Yang Berhenti Menteri* production.
-
-## Reproducing this
-
-The whole pipeline is in `scripts/`. [ARCHITECTURE.md](ARCHITECTURE.md) covers the stack, the one-time setup, the commands, and how the output is verified. [ENGINEERING_LOG.md](ENGINEERING_LOG.md) records every failure I hit along the way.
+I add no restrictions on the transcripts. What was said belongs to Rafizi Ramli and his guests; take any dispute about it to them. I am not connected to Rafizi Ramli, his office or the show.
