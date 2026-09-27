@@ -8,6 +8,8 @@ Rancangan ini menerangkan bagaimana reformasi kerajaan dicadangkan, siapa yang m
 
 Alat AI mentranskripsi audio dan menulisnya semula sebagai wawancara. Saya mendengar semula bahagian yang dipertikaikan, tetapi **saya tidak menyemak mana-mana episod baris demi baris.** Label penutur mungkin salah, terutamanya apabila orang bercakap serentak. Rujuk `raw.md`, bukan suntingan wawancara. [METHODOLOGY.md](METHODOLOGY.md) (dalam Bahasa Inggeris) menerangkan apa yang menghasilkan setiap fail, kesilapan yang telah saya ukur, dan cara melaporkannya.
 
+Kenapa saya menggunakan AI untuk ini: [METHODOLOGY.md](METHODOLOGY.md#why-a-machine-made-these) (dalam Bahasa Inggeris).
+
 ## Kandungan setiap episod
 
 Episod disimpan dalam `episodes/<rancangan>/<tarikh>-<tajuk>/`, empat fail setiap satu:
