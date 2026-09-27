@@ -8,6 +8,8 @@ The show explains how government reforms were proposed, who blocked them and why
 
 AI tools transcribed the audio and rewrote it as interviews. I checked disputed passages by ear, but **I have not verified any episode line by line.** Speaker labels can be wrong, most often when people talk over each other. Cite `raw.md`, not the interview edits. [METHODOLOGY.md](METHODOLOGY.md) says what made each file, which errors I have measured, and how to report one.
 
+Why I used AI for this at all: [METHODOLOGY.md](METHODOLOGY.md#why-a-machine-made-these).
+
 ## What each episode contains
 
 Episodes live in `episodes/<show>/<date>-<title>/`, four files each:
