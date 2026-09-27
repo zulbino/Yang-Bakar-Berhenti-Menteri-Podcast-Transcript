@@ -4290,3 +4290,50 @@ forms first decided: `KPJKOM` x2 keeps its spelling (KP is the Ketua Pengarah; n
 KPJ-KOM) and `JKOM-nya` x2 is matched on purpose. All 153 changed lines were read and each
 differs from its old line only by the acronym. Baselines captured on the pristine corpus
 first and all four held.
+
+## History moved out of CLAUDE.md, 2026-09-27
+
+A prompt audit shortened four passages in CLAUDE.md to their current rule, because every
+session loads that file. The owner approved the change. The full original text is kept
+here, unchanged.
+
+**Rule 6, the `--episode=` flag of `merge_same_speaker.py`:**
+
+> **IT IS `--episode=<tag>`, NOT A BARE TAG, and the difference is the whole corpus.** This
+> script takes no positional argument. `merge_same_speaker.py ep32 --write` ignores the tag
+> and edits EVERY episode with a same-speaker run. That happened on 2026-09-14 and silently
+> changed interview files in ep35, ep37 and ep38 while the intent was ep32 alone; the table
+> below carried the wrong form, which is how it happened. The script now refuses an argument
+> it does not recognise and names the likely intent.
+
+**Rule 7, the owner-ruling path in `move_hanging_words.py`:**
+
+> Where the camera has no coverage, a recorded owner ruling moves it instead (ep56 01:24).
+> **That sentence was ASPIRATIONAL until 2026-09-15**, and it is the kind of claim this file
+> warns about: the tool's `owner_rulings()` required keys shaped `ep56@01:24`, and not one of
+> the 114 stamp keys in `data/speaker_adjudications.json` has ever been written that way.
+> Every one is a bare stamp in a tag-named section, the shape this file mandates and
+> `check_owner_decisions.py` reads. So the path was dead code and ep56's own ruling was
+> invisible to it. Fixed, with a digit guard so `ep2` cannot match `ep27_rule7_...`. Two
+> consumers read that file; when the key shape changes, check BOTH.
+
+**Rule 7, what the owner's rulings measured:**
+
+> **What the owner's rulings measured, and why the fix was allowed to write.** The bar this
+> rule set was that a candidate leaves the list only when a MEASURED tool moves it, never on
+> a better guess. On 2026-09-13 the owner ruled all 11 `tail` boundaries after looking at
+> contact sheets, and **every one went the way the camera had already read it** -- 11 of 11
+> against a human eye. Their words: *"Actually all these can be verified visually..."* That
+> retired the escalation: 21 tails and 6 whole blocks were then moved across 17 episodes,
+> every word conserved by the existing guard, and the corpus went from 35 contested plus 11
+> tail to zero of each.
+
+**Rule 9, the frontmatter cast found on the first pass:**
+
+> **Also fixed by this rule's first pass, and it is the class to watch:** the frontmatter
+> cast is written by the rewrite pipeline from the transcript, and nothing ever compared it
+> to the episode's own description or to who actually speaks. 7 episodes name a speaker in
+> raw.md who is in neither `hosts:` nor `guests:` (ep01 Najib and Nazri, ep02 Prof.
+> Barjoyai, ep03 Faiz, ep06 Eric See-To, ep07 Daniel, ep08 `YB Rafizi` as a label variant,
+> ep09 Rodziah Ismail). `Multiple speakers` and `Audience` are sanctioned labels and are not
+> findings.
