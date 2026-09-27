@@ -4337,3 +4337,2416 @@ here, unchanged.
 > Barjoyai, ep03 Faiz, ep06 Eric See-To, ep07 Daniel, ep08 `YB Rafizi` as a label variant,
 > ep09 Rodziah Ismail). `Multiple speakers` and `Audience` are sanctioned labels and are not
 > findings.
+
+## Moved from ARCHITECTURE.md, 2026-09-27
+
+The owner asked for ARCHITECTURE.md to describe only the pipeline as it stands, in plain
+and short form. Every section below was in ARCHITECTURE.md until then: dated incident
+write-ups, measurements and evaluations. They are kept here unchanged, one heading level
+lower. New blocker write-ups go into this file from now on.
+
+### Retrying Gemini on a previously-failed episode
+
+Landing on a weak fallback model (e.g. `gemini-3.5-flash`) doesn't always mean the
+episode's content triggers `PROHIBITED_CONTENT` on every stronger model: that's
+confirmed deterministic for ep13 (see above), but the fallback chain also advances on
+plain free-tier quota exhaustion (20 requests/day per model) or a model being
+temporarily unavailable, which a standalone single-episode retry (full quota, not
+mid-batch) can sidestep entirely. Confirmed on ep53, 2026-08-25: a fresh single-episode
+`--engine gemini` retry succeeded (via `gemini-3.6-flash` -> `gemini-3.1-pro-preview` ->
+`gemini-3.5-flash` on quota/availability fallbacks, not a content block) and produced a
+completely different, much smaller class of error than the original attempt's
+~140,000-char repetition-loop degeneration: 14 duplicate blocks from a
+continuation-loop hallucination (see `dedupe_raw.py`), not a repetition loop. Worth a
+standalone retry before assuming `--engine local` is required, unless the episode has
+already shown a *deterministic* content block on retry (ep13's case).
+
+**New duplicate pattern found while fixing ep53's residual duplicates**: after
+`dedupe_raw.py` resolved every duplicate group its caption cross-check could confirm,
+6 groups remained unresolved (captions didn't cover those phrases). All 6 shared an
+exact, systematic pattern: the same content appeared twice with identical MM:SS but a
+different hour digit (e.g. `[1:38:29]` and `[2:38:29]`): a continuation-loop
+hallucination that re-emitted an already-covered block but mislabeled its hour. Since
+one of the 6 pairs was the episode's closing sign-off ("terima kasih... jumpa lagi
+minggu depan"), and a sign-off can only be near the true end of a long episode (this
+one is 3h0m), narrative logic alone (independent of captions) confirmed the later
+timestamp (`2:xx:xx`) was correct in every pair and the earlier one (`1:xx:xx`) was the
+fabricated duplicate: the opposite of a naive "keep the first occurrence" heuristic,
+which would have been wrong here. Worth checking for this exact hour-shifted pattern
+before falling back to manual case-by-case judgment on caption-unresolved duplicates.
+
+**A hand-rolled fix caused its own bug here, worth remembering**: repairing those 6
+duplicates via a one-off script that split the body on `"\n\n"` and rejoined the kept
+blocks with a single `"\n"` silently collapsed every paragraph break in the whole file
+into one undifferentiated block, caught immediately by `qa_check.py`'s wall-of-text
+check, not silently shipped, but a reminder that block-splitting logic needs the exact
+same separator on the way back out as the way in.
+
+### MAI-Transcribe-2 via Azure: an evaluation path, and its four undocumented limits
+
+Not part of the pipeline. `scripts/transcribe_mai.py` and `scripts/reconcile_mai_speakers.py`
+transcribe an episode with Microsoft's MAI-Transcribe-2 into `data/_mai_<video_id>/`, for
+comparison against the local ASR. Nothing writes to `episodes/`.
+
+    python scripts/transcribe_mai.py <video_id> --dry-run        # request, chunk plan, cost
+    python scripts/transcribe_mai.py <video_id> --extra-phrase FELDA
+    python scripts/reconcile_mai_speakers.py <video_id> --matrix
+
+Credentials are `AZURE_SPEECH_KEY` and `AZURE_SPEECH_ENDPOINT`, both User-scope environment
+variables that the script also reads from the registry, because a fresh shell does not
+inherit them. **The endpoint is not the host the portal shows on its Foundry tab.** That tab
+gives `https://<resource>.services.ai.azure.com`, which serves Agents and model inference;
+the Speech REST API needs `https://<resource>.cognitiveservices.azure.com`. Only six regions
+carry the model (`centralindia eastus northeurope southeastasia westus westus2`) and a
+resource elsewhere fails rather than falling back.
+
+**Limit 1: diarization dies above roughly 30 minutes.** Laddered on ep62 audio:
+
+| audio | size | result |
+| --- | --- | --- |
+| 10 min | 4.8 MB | HTTP 200, 149 phrases, 2 speakers |
+| 30 min | 14.4 MB | HTTP 200, 406 phrases, 2 speakers |
+| 60 min | 28.8 MB | HTTP 503 `diarization_unavailable` |
+
+The error names its own cause, and it is the diarization sub-service rather than the
+transcription. Published ceilings are under 5 hours and 300-500 MB, so the 3h55m 113 MB file
+was inside every documented limit. Chunks are therefore 30 minutes.
+
+**Limit 2: leading silence makes a long request return HTTP 500.** ep62 opens with 43
+seconds of digital silence, exact zeros, and every request starting there failed
+deterministically -- 0-1200s, 0-1790s, 0-1800s, 0-1810s, stream-copied and re-encoded alike
+-- while 15-1800s and 30-1800s returned 200 and 0-600s returned 200. Prepending 45 seconds
+of silence to a clip that returns 200 makes that same clip return 500, which is the proof
+rather than the correlation. So `cut_chunks()` starts each chunk at its first sound less one
+second of run-up, measured with `silencedetect`, and adds the trim back onto the offsets. The
+opaque 500 on the full file was this, not the 503 above: two different limits, two different
+errors, neither documented.
+
+**Chunking costs speaker continuity, and that is what the second script is for.** MAI numbers
+speakers per REQUEST, so chunk 3's `speaker 0` is not chunk 0's, and a chunked run refuses to
+write `raw.md`. `reconcile_mai_speakers.py` embeds each chunk's clusters from their own speech
+spans, groups them across chunks by cosine similarity (single-link, and two clusters of one
+chunk never merge), then names each group against the same cast voiceprints
+`verify_speaker_voiceprint.py` uses. Groups that come back with the same name are joined
+afterwards, which is needed: MAI split Rafizi into two clusters inside ep62's chunk 6, so his
+207 minutes arrived as two groups scoring 0.962 and 0.939 against his reference.
+
+Two guards were recalibrated for this granularity, both against measurements rather than
+taste. The distinct-speaker floor is now applied PER CHUNK, since a union across eight chunks
+hides a single chunk's collapse. The duplicate-text share now counts only turns of 20
+characters or more, and a separate check refuses more than 4 identical turns in a row: ep62's
+MAI output repeats short backchannels constantly -- 322 turns of "Hmm.", 93 of "Mm." -- which
+is 34% of all turns, 0.0% of turns over 20 characters, and no repeated text over 80
+characters at all. The loop this guard exists for, ep61's Gemini raw, was long text.
+
+What ep62 measured, MAI against the same audio's local-ASR `raw.md`:
+
+| | local ASR | MAI chunked |
+| --- | --- | --- |
+| blocks | 184 | 1,613 |
+| mean gap between stamps | 76.8s | 8.7s |
+| longest gap | 1,259s | 271s |
+| words | 26,206 | 29,810 |
+| coverage per 5-min window | no holes | no holes |
+| Rafizi share of words | 93.4% | 90.7% |
+
+The 93% one-label share is therefore not a diarizer collapse: two independent engines
+measure it. `Grand Plaza Kensington`, `FIC London Hotel` and `Koperasi Permodalan FELDA`
+survive as bias phrases, the last of which the local ASR never produced at all.
+
+**MAI loses the third host, and the video says so.** `Farhan (Pa'an)` holds 279 words in the
+local raw and 94 in MAI's. `frames_at.py` was run on ten regions where the two disagree, with
+the three faces first fixed from turns both engines agree on -- Rafizi in black with a
+tablet, Haziq in a light blue shirt with a laptop, Farhan in a black "97" hoodie. Eight of
+the ten show Farhan on camera mid-speech in a single close shot, so the local raw is right
+and MAI folded those words into Rafizi or Haziq: 0:11:48, 1:00:12, 2:27:17, 2:50:13, 3:12:26,
+3:37:39, 3:53:51 and 3:54:15. One goes the other way: 3:53:48 "4 jam kau gila kau" is
+Rafizi, which MAI got and the local raw split mid-sentence between Haziq and Farhan. The
+last, the one-line 3:27:09 interjection, is unresolved -- the camera holds Rafizi through his
+own surrounding turn and never cuts, so no frame in the window carries evidence.
+
+The mechanism is visible in MAI's own output. Its chunk-6 cluster `c6s2` holds 22.5 minutes
+and contains both Rafizi's reading and Farhan's question at 3:12:26, which is why chunk 6
+produced two clusters that both scored as Rafizi (0.962 and 0.939) -- one of them is
+contaminated, and a high voiceprint score on a 22-minute cluster cannot see a 15-second
+passenger. So MAI's finer granularity is not uniform: `[3:11:35]` is a single 1,000-word turn
+with three people's speech in it. What MAI does add is Farhan's backchannels, which the local
+raw mostly drops.
+
+**The eleven remaining disagreements, read off the video by a model.**
+
+    python scripts/verify_speakers_video.py 0M5hweswMpE --candidates data/_ep62_todo11.json         --out data/_ep62_video_verdicts.json
+
+`verify_speakers_video.py` muxes the downloaded video with the local audio and sends a
+14-second clip per candidate to `gemini-3.8-flash`, with the same three clothing descriptions
+used above. 0:11:50 was included as a control because the frames had already been read by
+hand; it came back Farhan. Read the `seen` field and not just the verdict -- three of the
+five "unclear" answers describe a mouth that is not moving, which eliminates one of the two
+candidate speakers and settles the case.
+
+Three labels in ep62's `raw.md` changed as a result, all Haziq to Rafizi: 0:55:54, 1:50:25
+and 3:35:00. Each is a block sandwiched between two Rafizi blocks with the boundary falling
+mid-sentence, so the local diarizer had invented a boundary rather than heard a speaker
+change. The other eight were not applied. Two carry no evidence (a two-shot, and a stamp
+still out after the retime), one was not a real disagreement, and five are long blocks where
+the clip only covers the head -- 0:36:24 holds Rafizi speaking and then Haziq replying inside
+one block, which needs the turn cut and not the label changed.
+
+Beyond those three labels, nothing has been adopted into `episodes/`.
+
+**The third limit: diarization does not fit the gateway's timeout under load.** On 2026-09-10
+every request of 15 or 30 minutes returned HTTP 408 after a fixed 122 seconds for four
+hours, while a one-minute clip returned in 2 s. Probed apart: 5 minutes WITH diarization took
+98 s; 15 minutes WITHOUT took 5 s. The gateway cuts at 120 s and the diarization sub-service
+is the part too slow to fit. Nothing downstream uses MAI's per-request speaker ids (the
+voiceprint join loses Farhan, and the split tool takes clusters from pyannote and its
+reference from the camera), so the mode for the re-cut is:
+
+    python scripts/transcribe_mai.py <video_id> --no-diarization
+
+**The fourth limit: the bias-phrase context list caps at 50 items.** `bias_phrases()`
+sends the show's cast plus every capitalised name from `fix_proper_nouns.py`'s corrections
+map as recognition bias. That map only grows, and ep63 (2026-09-12) was the first new
+transcription since it crossed 50 -- `HTTP 400: Context list cannot have more than 50
+items`. Fixed by truncating to 50, with episode-specific `--extra-phrase` terms and the
+core cast placed first so a corpus-wide correction is what gets dropped for budget, never
+an episode's own bias term. Anything past ~50 corrections will keep losing the newest
+entries silently unless this list is pruned or the API allows more.
+
+**Building raw.md from MAI's words** (`mai_camera_raw.py epNN`, ENGINEERING_LOG 2.11): where an
+episode has MAI words and a camera reference, this replaces the local-ASR text with MAI's and
+labels every word from the camera at its own time; turns of three words or fewer keep MAI's
+label, uncovered words fall back to it. It changes the words, so `verify_words_unchanged.py`
+does not apply -- the guard is that the output's word sequence equals MAI's, and the file is
+read before it is adopted. ep62 is the first episode written this way.
+
+**The fallback is trusted only when it names a person (2026-09-12).** A new premiere is
+transcribed `--no-diarization` (the Azure timeout, "the third limit" below), so MAI has no
+voice cluster of its own and the fallback is the episode's current raw.md -- for a brand-new
+episode, a collapsed pyannote run with only `Speaker 1`/`Speaker 2`. ep63 shipped with 24% of
+its words on those placeholders even though the camera read Rafizi at the exact seconds
+(the `[05:51] Cuma,` case). Three changes, all gated on the
+fallback label matching `GENERIC` (`Speaker N` / `Speaker ?`), so an episode whose MAI turns
+carry real names behaves exactly as before:
+
+1. A short turn takes the camera's majority over its own words when the fallback is generic.
+   Rule 1 protects a real short interjection from the on-screen face; a placeholder has no
+   identity to protect.
+2. A word the camera does not cover takes the camera majority of ITS OWN TURN when the
+   fallback is generic and the camera saw the rest of the turn.
+3. Where the camera saw none of the turn, `data/diar_<vid>_t055.json` (the nightly pyannote
+   run) is the last fallback, CLAUDE.md rule 4's order -- but a cluster gets a name only if
+   `DIAR_PURITY` (90%) of its camera-covered seconds carry one name over `DIAR_MIN_COVERED`
+   (60 s). On ep63 that named 2 of 11 clusters (Rafizi 98.3% of 7,879 s; Sum Dek Joe 90.0% of
+   983 s) and refused the rest, including Haziq's at 69%. The map is printed on every run.
+
+ep63 after the three: 23,938 words, generic labels 24% -> 1.9%. The remaining 434 words are the
+honest residue -- turns the camera never saw, in clusters the camera cannot vouch for.
+
+**Four changes measured against the owner's hand edit of ep65 (2026-09-26).** The owner
+corrected ep65's pipeline raw.md while watching the video, and `compare_owner_edit.py` scores
+any build against that copy (`--out=` for a trial, `--exclude=<from>-<to>` for a span whose
+reference label is itself in question). Each row is scored on top of the rows above it:
+
+| change | wrong words (of 20,537) | owner speaker changes found |
+|---|---|---|
+| before | 621 | 139 of 270 |
+| a pyannote second goes to the cluster holding most of it, named only if that cluster is | 612 | 150 |
+| without MAI diarization, a MAI phrase takes one label, the camera's majority | 596 | 149 |
+| cluster purity read on seconds wholly inside a segment | 595 | 146 |
+| `CAMERA_LAG = 0.5`: a word is read against the camera half a second later | 544 | 159 |
+
+1. The old `setdefault` over `int(a)..int(b)+1` gave a named cluster every second it touched,
+   so an unnamed cluster's interjection took the named neighbour's name.
+2. A MAI phrase edge sits at 268 of the owner's 270 speaker changes, so a camera cut inside a
+   phrase is the camera lagging, not a new speaker. Gated on `cluster is None`: an episode
+   whose MAI turns carry diarization is unchanged.
+3. A segment's partial first and last seconds are where the camera still shows the previous
+   speaker. ep65's Haziq cluster read 82.4% with them (refused) and 96.1% without (named).
+   The 0.90 threshold is unchanged. ep63's Haziq cluster reads 88.1% and is still refused.
+4. Swept on the step-1 build: 0 s 366 wrong words, 0.25 s 335, 0.5 s 308, 1 s 338, 1.5 s 400,
+   2 s 478. Part of it is `camera_per_second` truncating each cut to the whole second.
+
+Leave-one-out on the step-1 build with all four in place (28:10-30:50 left out, 308 wrong
+words): reverting the purity change gives 402, the lag 366, the majority-cluster fix 354, the
+phrase rule 341. `SHORT_TURN_WORDS` stays 3: at lag 0.5, 4 gives 325 and 8 gives 405.
+
+The lag is the one change a second episode argues against, weakly. Against ep62's committed
+raw.md (owner-read, 14 owner corrections, but built with no lag) the lag costs 20 words, 107 to
+127. That reference agrees with a no-lag build by construction, so it cannot settle the lag;
+the owner's next hand-edited episode can. The 2 s in `check_overlap_boundaries.py` and
+`move_hanging_words.py` is a different rule (rule 7), which the owner confirmed 11 of 11, and
+ep65 did not test it: those tools moved nothing on ep65.
+
+Checked outside ep65: step 1 built with the old and the new code for ep53, ep26, ep62, ep61,
+ep57 and ep49 breaks none of their recorded owner decisions, and keeps two more on ep62 and
+one more on ep57.
+
+The same episode also had an unenrolled guest. Its camera reference passed
+`check_camera_reference.py` because the check compares the reference against raw.md's own
+word shares, and raw.md had been BUILT from that reference -- circular. Haziq's "daripada
+perspektif Jo" in the text was the signal; the gallery was rebuilt by reusing Sum Dek Joe's
+30 face vectors from ep60's per-episode gallery (same guest, no bijection needed), and the
+reference went from 2 speakers / 8,175 s to 3 speakers / 9,191 s, with unknown-face talking
+time falling from the whole guest to 5 s. The gate's blind spot: an adopted raw.md can no
+longer disagree with the reference it came from, so for adopted episodes the check has to be
+run against the PRE-adoption raw (`data/_ep63_raw_before_adopt.md` here) or against the MAI
+turn count for a label the gallery lacks.
+
+Two guards came with it. A chunk file is reused only if its duration matches the plan --
+chunk files are named by index and start, and a 30-minute plan once picked up a 15-minute
+`chunk00` left by an earlier run, dropping 900-1800 s of ep61 without any check noticing. And
+the verdict refuses a transcript whose last turn ends before 95% of the runtime or that has
+more than 300 s between two turns, which is the hole the last-stamp check cannot see.
+
+**A disputed digit is settled by counting witnesses before it goes to an ear (2026-09-12).**
+raw.md has three independent ASR readings of every figure: MAI's words, the local-ASR raw
+(`git show` of the pre-adoption file, or `data/_old_<tag>_raw.md`), and the YouTube caption
+track in `audio/<vid>.*.vtt`, plus whatever arithmetic the speaker states in the sentence.
+Two of three agreeing against the third, with the arithmetic on their side, is a decision,
+not a guess; the fix goes into `fix_proper_nouns.py` anchored on the full phrase. ep48's
+"RM2.05 kepada RM1.09" (MAI) became RM1.99 this way: the speaker says "turunkan 6 sen", the
+local raw heard 1.99, the captions agree. Only a figure the witnesses split on goes to the
+owner. Not yet a script; `check_figures.py` finds the candidates, the count is by hand.
+
+**A third witness for a speaker label: `voice_witness.py` (2026-09-12).** The owner's rule is
+that a label reaches their ear only when the tools split, and after MAI, the camera and the
+camera-vouched clusters an episode still had 61 `Speaker ?` blocks and 46 disputed short
+turns. The corpus voiceprint cannot be the third witness (its two cosine distributions
+overlap across recordings). An episode-local one can: each named speaker's centroid is built
+from THIS recording's camera-attested seconds (same room, same microphones), and every
+unnamed window is scored against them. `--validate` holds out every third camera run and
+measures the thing before it is trusted; on ep63, 358 windows: 8 s windows 100%, 1.6 s
+windows 98.5% at score >= .55 and margin >= .20 and 100% at >= .60 / >= .30. Those are the
+`--write` thresholds. Rafizi and Haziq sit close (centroid cosine .68) and the guest far
+(.16-.31), so most of what it refuses is a Rafizi/Haziq call on a short window. ep63: 25
+labels settled (24 `Speaker ?` blocks named, one short turn moved by a 2-of-3 vote), 37
+blocks left as `Speaker ?`. CPU only, by design: the GPU belongs to the camera pass.
+
+**Naming an unenrolled face without a bijection: match it across episodes (2026-09-12).**
+`guest_gallery.py` names a face only when one unknown label meets one unknown talking
+cluster. ep46 had two of each (Amir Sahmat, Wan Afiq), and ep50 was held because Wan Afiq is
+a rotating host. The way out was the face embeddings themselves: ep46's second unknown
+cluster matched ep50's only unknown talking cluster at max cosine 0.91 (a true same-face
+match on this pipeline lands at 0.86-0.98, camera_speakers note 3), and ep50's host list
+names exactly one unknown host, so that face is Wan Afiq in both episodes. With one of two
+faces pinned, the other is Amir Sahmat by a two-to-two bijection, and the intro line
+"Bersama saya, Afiq. Saya Amir Sahmat" confirms both are present. Frames were read at
+0:07:58, 0:35:23, 1:19:23 and 1:34:12 to confirm the two clusters are two different men.
+Both per-episode galleries carry this provenance. The general rule: a recurring guest or
+rotating host needs a face match to an episode where they are already named, not a human
+per episode; the unknown-cluster comparison above is the tool, and it should become a
+`guest_gallery.py --match <other vid>` mode rather than a one-off.
+
+**An owner ruling can now cut a fused MAI turn (2026-09-12).** ep53's gate refused the camera
+build because MAI had fused Haziq's "Itu jelah kot." with Farhan's "Okey eh, okey." into one
+turn, and the owner had ruled them apart. A `forced_labels.json` rule may carry
+`split_at_words: true`: `mai_camera_raw.py` cuts the block at the rule's literal words before
+relabelling, the words and what follows them go to `who`, what precedes keeps its label, both
+halves keep the stamp, and the locator document is rebuilt per rule so a later rule cannot
+write the fused turn back. Two gate defects surfaced with it: `check_owner_decisions.py`
+now measures a two-word snippet's distance to each block's SPAN, not its stamp (after the
+merge a Rafizi block stamped 2:18:42 holds words spoken at 2:19:13), and reports a residual
+two-block ambiguity with the owner's name on one of them as kept, not as a mismatch.
+`fold_hanging_fragments.py` no longer crashes on the `["Human resource", 1]` split form.
+
+### Writing the interview files from segments
+
+The shipping path for ep62 (2026-09-10) and for every episode after it; the whole-episode
+rewrite in transcribe_episode.py remains for the older files. The source is raw.md itself: ep62's
+raw.md is MAI's words under the camera's names (`mai_camera_raw.py`, ENGINEERING_LOG 2.11),
+so the interview and `check_figures.py` read the same file.
+
+    cp episodes/.../ep62/raw.md data/_ep62_rewrite_source.md
+    python scripts/strip_filler_turns.py data/_ep62_rewrite_source.md --write
+    python scripts/segment_episode.py ep62 --raw data/_ep62_rewrite_source.md --out data/_ep62_segments.json
+    python scripts/rewrite_segments.py ep62 --only 10 21 26 --stage mixed --tries 1   # bake-off
+    python scripts/rewrite_segments.py ep62 --instructions data/_ep62_rewrite/instructions.txt
+    python scripts/rewrite_segments.py ep62 --write
+
+`rewrite_segments.py` runs one segment at a time, measures each result (length 0.70-1.50 of
+the input, Malay function-word density at least 0.80 of the input, every figure present with
+small integers allowed as number words, the speaker set identical to the input's, no stamps,
+headings or preamble), keeps a passing segment on disk and retries only the failures. The
+English stage must LOSE Malay density (ceiling 0.30) or it did not translate; the Malay stage
+must keep it. `--write` refuses while any segment of any stage has no accepted file.
+`--instructions` appends owner facts to the prompt, such as ep62's two title corrections.
+
+**The show's chapter list is not always in time order (ep65, 2026-09-26).** ep65's
+description lists `02:19:06 Pengampunan...` last, after `02:46:50`. `segment_episode.py`
+ends each chapter where the next LISTED one starts, so 2:19:06 to the end was segmented twice
+and 3,712 words would have been rewritten twice. It now sorts the marks first. Check that the
+segments' turn total equals raw.md's block count before any rewrite.
+
+**Shipping mode since 2026-09-27: `--condense`, half length.** The owner read ep65 seg02 and
+seg08 rewritten three ways and chose the shortest. `--condense` now appends
+`HALF_LENGTH_INSTRUCTION`. GLM-5.3 still stops near 0.80 of the input, because the prompt's
+"keep every claim" rule outranks the length target. In this mode `names_dropped` is printed but
+not gated (ep65 seg12 lost `Kewangan`), so read it for every segment before `--write`.
+
+**Fact check before the rewrite (2026-09-27).** `rewrite_segments.py` refuses the mixed stage
+unless `data/raw_fact_checks.json` holds raw.md's current sha256, written by
+`check_raw_facts.py <tag> --record`. It also refuses a segment whose turns are no longer in
+raw.md, which is what happened to ep65's seg02 after the owner's `Tan Sri-` correction.
+Measured on ep65's pipeline raw.md against the owner's hand edit: 13 of 16 entity corrections
+flagged. The three misses were lowercase (`reset`, `refund`, `oi`). A GLM pass that reads each
+segment for these was tried and not measured, because NVIDIA returned HTTP 504 on every call.
+
+**Free GLM needs rounds, and has a daily cap (ep16, 2026-09-23/24).** `z-ai/glm-5.2:free`
+returned HTTP 429 on most calls at busy hours, but every text it did return passed the gate.
+Re-run the same command in a loop with a pause of 90-120 s; accepted segments are cached, so
+each round retries only what is missing. Once `free-models-per-day` appears in a report, stop:
+the cap resets at 00:00 UTC (08:00 MYT). One episode of about 16 segments fits in one day.
+
+**GLM-5.3 on NVIDIA, reasoning low, is the rewrite engine (ep00, 2026-09-24/25; the owner made
+it the default on 2026-09-25 after reading ep00's output).** `--model "nvidia:z-ai/glm-5.3@low"`. The NVIDIA free tier shows only
+a 40 requests/minute limit on the account page, with no credit counter. GLM-5.3 reasons by
+default there: one segment's three stages took 19 min and the English stage hit HTTP 504 twice.
+`@low` sends `reasoning_effort: "low"` and the same segment took 2 min 49 s with every gate
+passed; `"none"`, `enable_thinking: false` and `thinking.disabled` are all ignored. ep00's 33
+files took about 3.5 min each. The two English figure failures were renderings (`20 ribu` as
+`20,000`, `12.30` as `12:30`) and were accepted by hand.
+
+**Local models on this PC cannot do the rewrite (measured 2026-09-24).** RTX 2070 8 GB, Ryzen
+3700X, 32 GB DDR4, LM Studio 0.4.25 (`rewrite_bakeoff.call_lmstudio`, port 1234 or
+`LOCAL_LLM_URL`). GLM-4.7-Flash (31B MoE, 18.3 GB): 5-8 tokens/s, because LM Studio's strict
+VRAM cap put only 14 of 47 layers on the GPU even with experts moved to RAM; one mixed stage ran
+33 min and never finished. Gemma 4 12B: 11 tokens/s but kept reasoning with it switched off, 28
+min per segment. Gemma 4 26B-A4B: the mixed stage lost spoken Malay (gate 0.72). Ternary Bonsai 2
+27B (PrismML's llama.cpp fork, whole model on the GPU, 13.7 tokens/s): copied the mixed stage
+word for word and did not translate the ms stage. All deleted.
+
+**Stopping a background loop does not stop its Python child.** On 2026-09-24 a stopped
+Gemini retry loop started another round and wrote into `data/_ep00_rewrite` beside the GLM-5.3
+run. It produced only 429s, so no text was mixed in. Before a new run on the same work folder,
+list `Get-CimInstance Win32_Process -Filter "Name like 'python%'"` and read each segment
+report's `model` field.
+
+**agy is not a rewrite engine (measured 2026-09-23).** `rewrite_bakeoff.call_agy` runs
+Google's Antigravity CLI from an empty temp dir, text only. Sonnet 4.6 inside agy passed two
+short segments, then moved long ones to formal Malay (`ini`, `itu`, `sahaja` for `ni`, `tu`,
+`je`), which fails the Malay gate at 0.59-0.81. The free Starter quota ran out after about 20
+calls. Gemini 3.8 Flash failed one of two.
+
+**Owner rulings for the interview stage (2026-09-23).** A speaker's self-corrected false
+start may drop ("500 eh 100000" becomes "100,000"). The figure gate still fails it, so accept
+that segment by hand with a reason in its report after reading the passage. `--write` groups
+figures of five digits and up with commas; four-digit numbers stay bare because they may be
+years. The gates strip commas before comparing.
+
+**A claim check on the mixed stage (2026-09-23, `jev_claim_check.py`).** The measures above
+count length, Malay words, figures and labels. None of them sees a CLAIM that changed: a
+sentence moved to the wrong speaker, an opinion nobody gave, an argument left out. Jev,
+TypeSafe's decision model, answers three yes/no questions per segment in one call, with the
+model pinned to `jev-1.13.0`. A score of 0.5 or more on any question fails the gate. The
+segment gets one re-rewrite, and a second flag is accepted and marked `JEV FLAG: read it`,
+because Jev is a flag for a person, never a verdict. A Jev error is recorded and never
+blocks a rewrite. The threshold comes from `--controls`, which damages each rewrite on
+purpose. On ep01:bakar's 8 segments, no real rewrite scored above 0.35. No damaged copy
+scored below 0.75 on its own question: an invented sentence, two speakers swapped, a third
+cut, one turn moved, one turn removed. Cost: about $0.0002 per segment. Jev is weak at
+numbers and counting, so figures stay with `check_figures.py`. Needs `TYPESAFE_API_KEY`.
+
+`--published` runs the same check on the published interview.md, for episodes rewritten
+whole before segments existed. It cuts raw.md with `segment_episode.segment()`, finds each
+cut in interview.md by the segment's first 15 words, and puts the raw side through the same
+`clean_body()` the published file got. Without that last step, a slip-in drop that
+`clean_interview.py` makes on purpose read as a dropped claim (ep01:bakar, `Kenapa 3 bulan?`).
+
+**What the first corpus-wide run found (2026-09-23).** 612 of 1,153 published segments were
+flagged, and a plain word count, with no model involved, explains most of them. 43 of 71
+published interview.md files hold under 80% of the words in their raw.md after the same
+cleaning, and 13 hold under 60%; ep16:berhenti holds 40%. The mixed gate's floor is 70%. Ten
+of those 13 were rewritten whole in the 2026-09-17 regeneration (`be7555b`), which never
+passed through the segment gate. ep16, ep44 and ep58 were not in it, and where their short
+files came from is not yet traced. Every segment below 60% of its raw words was
+flagged "dropped", so Jev agrees with the count. Among segments whose length is intact, 29%
+were flagged, which is too many to be a review queue until the length problem is fixed.
+
+**The published interview reads like newspaper copy** (owner's rule, 2026-09-10;
+`clean_interview.py`, applied inside `--write` and runnable on any episode). Three closed-lexicon
+edits: a turn that is only an acknowledgement, grunt or laugh is dropped ("Ya.", "Okey.",
+"Hmm."; "2.3 billion." and "Koperasi?" carry information and stay); filler tokens are removed
+inside a turn ("Uh,", "Um.", "Aaa", "Eh,") with the next word capitalised when the filler opened
+the sentence; a speaker's consecutive turns become one paragraph (`merge_adjacent_turns.py`).
+A fourth edit removes a SLIP-IN: a turn of three words or fewer from another speaker
+sandwiched inside one speaker's turns, dropped when that speaker was mid-sentence or the words
+are all echoed around it ("Balik kepada cerita." / "Haziq: Perumahan." / "Cerita perumahan
+lah."); a short question after a finished sentence stays. Every removed word must be in the
+lexicons or be a dropped slip-in, and the rest is asserted identical. On ep62's first output:
+1,100 turns -> 252, 49 retort turns, 65 slip-ins, 678 filler words. The owner's read then
+showed one "slip-in" was a LABEL error -- "Perumahan." ended Haziq's own sentence, which the
+camera had given to Rafizi -- so the rule cleans the prose but cannot fix attribution; the
+owner's ear does that (`--show-slips` prints every one for that read). `clean_body()` is the
+only place these drops and joins happen. `rewrite_segments.py --write` and the whole-episode
+path in `transcribe_episode.py` both run it.
+
+**The prompt does not ask the model to drop or join turns (2026-09-23).** It used to, and point 5
+of the same prompt said "Do not condense multiple turns into one", so the two rules disagreed.
+Tested on ep62 segment 10: asked to drop and join, GLM 5.2 dropped Rafizi's one-word "4.1." (a
+real figure, RMK3's 4.1 billion) in 4 of 4 runs. With the drop-and-join sentence removed it
+kept it in 3 of 3, and Sonnet 5 and gemini-flash-lite were unchanged on segments 3, 10 and 20.
+The figures gate caught every drop, so nothing shipped; each one only cost a retry. The same
+audit removed two self-checks from the prompt ("count the Malay function words, reach 80%",
+"at least 70% of the input's length"). A model cannot count reliably, and the gates in
+`rewrite_segments.py` measure both.
+
+**Sonnet 5 was the default of `rewrite_segments.py` from 2026-09-23 to 2026-09-25**, when
+`nvidia:z-ai/glm-5.3@low` replaced it. On the same three segments,
+all three stages, Haiku 4.5 failed the gate 3 times in 9 calls and Sonnet 5 once. Haiku's
+failures: one more real figure lost ("2004"), text before the first speaker label, and
+`Speaker ?` / `Multiple speakers` translated into `Pembicara ?` / `Pelbagai pembicara` in the
+Malay stage. Haiku also took 44-270 s a call against Sonnet's 14-50 s. Sonnet's one failure was
+the two false starts "20" and "99", which every model dropped and `--accept-figures` exists for.
+Metadata extraction stays at `--effort low`: `medium` raised chapter coverage on one of three
+episodes (ep46, 5/9 -> 7/9) and left ep53 and ep57 unchanged, one sample each.
+
+**raw.md is the verbatim layer, minus grunts.** `strip_filler_turns.py` runs on raw.md too
+(ep62: 1,689 -> 1,145 blocks, all 27,903 content words unchanged): the owner's standing rule
+is that grunts, laughs and retorts that add nothing leave even the verbatim file. Answers stay
+-- its lexicon has no "Ya", "Okey" or "Betul".
+
+**What ep62 measured (ENGINEERING_LOG 2.12).** Model: Sonnet, at about $0.10 a segment with
+lib_claude_rewrite's flags; gemini-flash-lite passed every gate by copying the input 99%
+word-for-word and was dropped, Haiku translated the Malay away. 78 segment outputs, all
+accepted: 60 on the first try, 9 on a retry, 9 by hand after a person read the printed
+figure context (a self-correction, a false start, "tahun 60-an" written as "the 1960s").
+Four segments were refused twice because the raw carried a garbled figure and the model
+resolved it by guessing a digit; each went back to the owner's ear and raw.md was fixed first.
+A guessed figure never passes.
+
+**Why the filler strip is a step and not a regex.** MAI transcribes the backchannels the
+local ASR drops, so 527 of ep62's 1,613 merged turns are one grunt each and 426 of those are
+Haziq's. They belong in a raw transcript and they are noise in a rewrite source, where they
+cut a speaker's argument into a dozen pieces. `strip_filler_turns.py` drops a turn only when
+EVERY token in it is in a closed lexicon of vocalisations, so an inline `Uh,` inside a real
+sentence is untouched and `Ya`, `Okey`, `Betul` and `Yes` survive as the answers they are. It
+counts every non-lexicon word before and after and refuses to write unless the two multisets
+match.
+
+**Why segments.** Every cheap model rejected for the rewrite stage failed on length, not on
+comprehension: Haiku dropped about half a translation, a local Sailor2 truncated 32% and
+invented a claim, Gemini finished 73-82%. At about 1,200 words none of that appears, and a
+segment that fails its gate can be retried alone instead of re-running three hours of text.
+Boundaries come from the show's own chapter marks in the YouTube description, with long
+chapters re-cut at turn boundaries; ep62 gives 29 segments.
+
+**Why a merged transcript.** MAI-Transcribe-2 beats the local ASR on text, turn granularity
+and timing, and loses the third host: `Farhan (Pa'an)` gets 94 words from MAI against 279
+from the local ASR, and the camera backs the local ASR 8 times out of 10.
+`merge_mai_local_labels.py` keeps MAI's words and transplants Farhan's label where the local
+raw's words match, matching on words rather than time spans and anchoring the video-verified
+regions on a phrase rather than a timestamp.
+
+**What the bake-off found.** `gemini-flash-lite-latest` kept every figure and all the Malay
+on all three segments in 6 seconds each; Sonnet kept 17 of 24 figures on one of them, because
+it polishes hardest and polishing is what drops a repeated number; `gemini-3.5-flash` lost
+figures on two of three; OpenRouter's free `nemotron-3.5-lightning` translated the Malay into
+English wholesale (density 0.05), kept 2 figures of 24 and dropped a speaker. Read
+ENGINEERING_LOG 1.48 before choosing, because the trade-off is not "flash-lite wins" -- it is
+nearly a verbatim copy, so it passes a completeness gate by editing very little.
+
+**Azure Foundry cannot serve text models on the Speech key alone.** It returns
+`DeploymentNotFound` until a model is deployed in the portal, so the credit that expires
+around 2026-10-07 is unavailable to this stage until then.
+
+### Reading the speaker off the camera
+
+`scripts/camera_speakers.py` builds a speaker reference from the video instead of from
+audio. The show cuts to whoever is talking, so the camera is an observer of the answer that
+no audio model can be confounded with. Three MIT models do the work: LR-ASD asks whether the
+visible mouth matches the audio, YuNet plus SFace ask whose face it is, and PySceneDetect
+finds the shot boundaries. Five stages, each resumable: `census`, `cluster`, `gallery`,
+`run`, `reference`.
+
+The output is an RTTM plus a **UEM**, and the UEM carries as much information as the RTTM. A
+camera-derived reference is certain in some places and blind in others, so scoring a
+diarizer where the reference has no opinion measures noise. Report UEM coverage next to any
+DER computed against it -- 88% on ep62.
+
+`cluster` stops and writes a contact sheet for a human to look at. Naming a face is the one
+step with no independent check. The sentence here used to call "a speaker is never inferred
+from text" a standing rule. Corrected 2026-09-26: that was a session's own conclusion from
+four failed single-clue guesses, never an owner ruling. The owner asked on 2026-09-25 for a
+whole-passage text reading, measured blind against the camera and against their own
+corrected ep65, before it is either used or ruled out.
+
+Four defects found while building it, each of which yields a plausible wrong answer rather
+than an error:
+
+1. **`-ss` before `-i` with `-c:v copy` desyncs every chunk.** Stream-copied video starts at
+   the nearest keyframe before the requested time, then resets timestamps to zero, while
+   re-encoded audio starts on time. Six frames of offset, fed to a lip-sync model. Fix:
+   coarse-seek early, seek accurately on the output, re-encode.
+2. **Eyewear splits one person into several face clusters.** Rafizi owns five of ep62's
+   eight. Use a multi-vector gallery per person, matched on maximum similarity, not a
+   centroid.
+3. **No global similarity threshold separates these three.** Within-person minimum 0.35,
+   cross-person maximum 0.40. Only nearest-neighbour argmax works.
+4. **Greedy label mapping fabricates per-speaker results.** It reported MAI recalling 0% of
+   Haziq when MAI had labelled 389 of his 457 seconds correctly. Use maximum-weight
+   matching, as DER does.
+
+The measured results are in `MODEL_LANDSCAPE.md`; the method and its validation are in
+`ENGINEERING_LOG.md` 1.55.
+
+**Guests, and running more than one episode.** Each episode's tracks go to their own
+`data/_camera_tracks_<vid>/` (the `run` stage records the video it belongs to and refuses a
+mismatch, because chunk files are named by offset only and a second episode into the same
+directory used to reuse the first one's chunks). A face the gallery cannot name still counts
+toward the overlap test, so a guest's crosstalk is no longer credited to a host. And
+`scripts/guest_gallery.py <epNN>` names a guest's face without a person, only when exactly one
+real label in `raw.md` is not in the gallery and one cluster of unidentified faces holds at
+least 90% of the unidentified talking seconds; it writes `data/_face_gallery_<vid>.json`
+(gitignored, biometric) for `reference --gallery`. ep60: 1,659 of 1,660 seconds, coverage 80%
+-> 93%. Anything less clean stops and prints the clusters for a person. The full per-episode
+procedure is at the top of `ATTRIBUTION_PASS.md`.
+
+**Swapping in another engine's transcript: finding the owner's decisions in it.** A re-cut
+keeps the words and moves only the labels, so every recorded decision could be found by its
+text. A transcript from a DIFFERENT ENGINE cannot be: MAI spells the same speech
+differently, splits it over more blocks, and keeps the fillers the local engine dropped.
+Substring lookup located 6 of ep61's 44 recorded decisions. `scripts/lib_locate.py` matches
+a passage on CHARACTERS instead, over a window wide enough for inserted fillers, so a Malay
+affix is not a miss -- the decision reads "pandangan lain sikit" and MAI heard "Aku
+berpandangan lain sikitlah", which shares no whole word with it.
+`check_owner_decisions.py` now reports 36 preserved, 4 partly kept, 3 mismatched and 1 with
+no text to search for, and prints where each match landed with its score, so a weak match is
+visible instead of silent. The 4 partly kept are all the same benign shape: the local block
+glued two speakers together and the candidate splits them, so the located span straddles the
+cut.
+
+**A stamp never locates a decision; it only breaks a tie between two equally good matches.**
+Every one of ep61's 11 `Speaker ?` confirmations was recorded against a stamp 3 to 21 s away
+from its own words. The frame at the stamp showed Rafizi in all 11 of them. At the words'
+real time the camera shows Rafizi in 9 and Haziq in 2 (04:46 belongs to words at 05:05;
+06:52 to words at 07:08). Nine were right for the wrong reason: ep61 is 86% Rafizi, so a
+frame sampled 20 s away usually still lands on him. This is the defect that destroyed a
+confirmed Farhan turn once, recorded in `data/speaker_adjudications.json` under
+`ep61_farhan_restore`.
+
+**The gold passage is carved out, not overwritten.** Where `speaker_ground_truth.json` holds
+a passage the owner dictated from ear, `mai_camera_raw.py` splices the current raw.md's
+blocks for it into the candidate verbatim and drops the candidate's own blocks for the same
+speech; the seam is found by words, not by the clock, because the two files' stamps differ by
+up to 26 s. ep61 needs it: the shot through that passage is a full-screen graphic, so the
+camera inverts it and gives Haziq's "Baik YB, cuti panjang YB buat apa?" to Rafizi and
+Rafizi's answer to Haziq. 14 current blocks replace 79 candidate blocks, 356 MAI words. The
+reviewed name corrections run BEFORE the splice, so the owner's bytes are never rewritten,
+and the checker tests containment rather than list equality, which leaves a re-cut on either
+side of the region free to differ.
+
+**The owner outranks the camera, and the ruling has to outlive the rebuild.**
+`data/forced_labels.json` holds the turns where a recorded decision and the camera disagree
+and the owner has ruled for their own label. `mai_camera_raw.py` applies them last, locates
+each by its words, and stops the run if one cannot be found or spans more than three blocks,
+so a ruling can never be silently skipped. ep61 has two, both from the drift above; the owner
+was shown the frame at the stamp and the camera at the words and kept Rafizi. The cost is
+visible and small: DER 2.3% -> 2.4%.
+
+ep61's candidate against the camera: JER 55.5% -> 13.8%, Haziq recall 66% -> 90%, seconds
+under the wrong name 552 -> 74, blocks holding more than one speaker 101 of 252 -> 59 of
+2,425. Adopted on 2026-09-10.
+
+### Known limitations
+
+- **The gap is in block cutting, and on ep62 it is now closed.** Measured against the camera
+  reference, the pipeline's unaided output recovered 67% of Haziq's speaking time while
+  pyannote's own clusters recovered 85% -- eighteen points lost after diarization, in the
+  step that turns clusters into transcript blocks, not in the diarizer and not in naming.
+  `scripts/split_mixed_blocks.py` re-cuts those blocks and ep62 now sits at 92%.
+  **The other 67 episodes have not been done, and the method has been validated on one
+  episode only.** Corpus-level DER hides all of this: Rafizi holds 95.5% of ep62's audio,
+  and a continuously tiled transcript scores 0% missed by construction. Read confusion.
+
+- **Turn-level attribution is not solved, and it is the largest open defect.** 341
+  published turns of 400+ words across 63 episodes sit under one label, and every checker
+  in the suite is green while that is true, because no check reads whether a turn holds two
+  voices. The diarizer fails in both directions -- long monologues collapse into one label,
+  short interjections get absorbed by whoever is next to them -- so no blanket correction
+  works and the labels cannot be used as evidence about themselves.
+
+  `scripts/sense_speakers.py` is the proof of concept, measured against the owner's
+  hand-written gold passage in `data/speaker_ground_truth.json`: **83% against `raw.md`'s
+  61%, with Rafizi recall lifted from 2/9 to 7/9 and boundary recall from 50% to 100%**.
+  It takes boundaries from caption word gaps rather than the diarizer, and names each
+  segment on a two-ended voice axis seeded by the `YB` vocative. Every attempt, including
+  the two that scored at or below the baseline, is recorded in
+  `data/diarization_bakeoff.json`, and
+  [ENGINEERING_LOG.md 1.43](ENGINEERING_LOG.md#143-sensing-the-speaker-instead-of-trusting-the-label-measured-against-gold-data)
+  has the reasoning.
+
+  **It is not ready to rewrite anything.** The evidence is one passage of 18 turns, so a
+  single turn is 5.6%, and the parameters were tuned on it (untuned: 78%). A second
+  hand-checked passage is the blocking input. Two limits are already known and measured:
+  sub-second backchannels are unreachable, because the embedder needs 0.6s and the three
+  turns it misses are the three shortest; and the co-host label cannot seed a reference,
+  because 6 of the 8 blocks ep61's `raw.md` calls Haziq measure as Rafizi.
+
+
+- **5 episodes have a cast member present with no speaker label**: three guests
+  (ep02, ep05, ep08) and `Farhan (Pa'an)` in ep39 and ep55. This read 20 until the
+  speaker-attribution work of 1.35-1.38, and then read 35 too high for a different reason
+  -- `RAW_LABEL` excluded parentheses from the name class, so it could not see
+  `Farhan (Pa'an)` in any of the 35 episodes that label him that way (1.39). Coarse blocks absorb
+  short interjections, so the speech ends up inside someone else's turn and the leftover
+  generic clusters are 0.0-2.4 minutes, too short to carry it. The `hosts` field records
+  these people anyway (see the naming convention above); what is still missing is the
+  block-level attribution, which needs blocks split at speaker boundaries as ep45's were
+  (1.31). **Careful if automating: ep60 contains two different Farhans** -- the co-host,
+  and a politician described as "anak emas Dato' Seri Anwar".
+- **`interview*.md` speaker labels are still generic in 18 episodes.** 121 turns across
+  ep03, ep16, ep37, ep51, ep54 and ep56 were named from `raw.md` by
+  `name_published_placeholders.py` (1.40), which renames a `Speaker N` only when a literal
+  trace of the turn's opening clause confirms the match at 80%. Role labels (`Host`,
+  `Interviewer`, `Hos`) are deliberately out of its scope: measured, they sit at 55-76%
+  agreement per turn, so they need the rewrite re-run with the names in the prompt rather
+  than a better matcher. The pre-1.40 figure was 2,836 labels across 26 episodes:
+  `Host` 963, `Speaker 2` 817, `Speaker 1` 418, `Speaker 3` 216, `Interviewer` 209,
+  `Moderator` 83, `Hos` 73, `Speaker` 57. Re-measured with `label_drift_audit.py` on
+  2026-08-28; the previous figure of 1,366 across 35 episodes predated the re-cuts.
+  9 of those episodes ship a numbered diarizer cluster id straight to the reader
+  (`published-placeholder`, 1.39), ep54 for all 97 of its turns.
+  The rewrite stage invented these where `raw.md` already carries a real name, so the
+  information exists -- it just was not carried across. 558 were resolved on 2026-08-28
+  in the six episodes where the mapping was forced (exactly one non-Rafizi speaker in
+  `raw.md`, that speaker a known recurring host, and no `Speaker N` among the generics).
+  The rest need a person, because two or more candidates fit and guessing would put a
+  named person on words that may not be theirs.
+
+  A generic label is vague rather than wrong, which is why this is a limitation and not
+  a bug. `scripts/label_drift_audit.py` lists the mismatches, and
+  [ENGINEERING_LOG.md 1.30](ENGINEERING_LOG.md#130-why-the-obvious-generic-label-rule-is-wrong)
+  records the rule that looks right and is not.
+
+
+- **Fixed, 2026-08-24**: episodes transcribed via `--engine local` previously had
+  no speaker diarization at all: `raw.md` was one undifferentiated stream of
+  text, and the rewrite stage had to infer who's speaking purely from context.
+  **Confirmed as a real, not just theoretical, problem** before the fix: a
+  Gemini audio spot-check on one episode's opening exchange found the
+  model-inferred rewrite had folded a real Rafizi Ramli line into a generic
+  "Podcast Host" turn: an actual misattributed quote. A cheaper alternative,
+  asking Gemini for just a chronological speaker-change list (not a full
+  transcript) to merge onto existing local-ASR text, was tried and
+  abandoned: this show's speakers change every few seconds, so a speaker-only
+  pass needs roughly as many continuation rounds as a full transcript would,
+  with no real quota saving.
+
+  **The actual fix**: `scripts/lib_diarization.py`, a pyannote.audio pipeline
+  run as a separate acoustic pass on the same audio local ASR already
+  transcribes: pure voice-embedding clustering, no LLM involved at all, so
+  it's immune to every content-based failure mode found elsewhere in this doc
+  (PROHIBITED_CONTENT blocks, fallback-model degradation, and the per-run
+  label inconsistency confirmed directly on ep13/ep39, where the same real
+  speaker got a different invented name in different Gemini attempts). Output
+  is anonymous "Speaker N" labels (numbered by first appearance, consistent
+  within an episode since they're real voice clusters). It still needs a
+  manual naming pass afterward, same as Gemini's own generic labels do, just
+  without the added risk of the label itself drifting between attempts.
+
+  **Chunk-level labeling was itself a real bug, fixed 2026-08-24**: originally
+  each up-to-28-second VAD chunk from `lib_local_asr.py` was labeled with
+  whichever diarized speaker had the most time overlap with the *whole*
+  chunk, so a short interjection from a second speaker inside a longer
+  chunk was silently swallowed into the dominant speaker's line, with zero
+  trace in the output. Confirmed as a real, not just theoretical, problem via
+  direct audio listening on ep30: a 25-second span containing two short
+  interjections from a third voice ("Farhan") produced only one Rafizi-Ramli
+  line, the interjections nowhere in the transcript. Root cause was NOT
+  pyannote's clustering (it correctly detects the second voice at the right
+  moments); it was throwing away that resolution by labeling per chunk
+  instead of per word.
+
+  Considered and rejected: (1) NVIDIA NeMo / the `whisper-diarization`
+  GitHub project's full pipeline: its diarization module still doesn't
+  handle overlapping speech either (same gap as pyannote), and re-running ASR
+  through `faster-whisper` would mean converting the existing
+  `mesolitica/malaysian-whisper-medium-v2` checkpoint to CTranslate2 format,
+  a bigger lift for no proven gain over what's already working. (2)
+  `ctc-forced-aligner` (the PyPI package `whisper-diarization` itself uses for
+  precise word timing): needs a native C++ extension that fails to build on
+  this Windows/Python 3.14 setup (`error LNK2001: unresolved external symbol
+  PyInit_align_ops`), no prebuilt wheel exists for this platform.
+
+  **What shipped instead**: `scripts/lib_forced_align.py`, using torchaudio's
+  official MMS forced-aligner (`torchaudio.pipelines.MMS_FA`): pure Python,
+  no native extension, already an implicit dependency via pyannote.audio.
+  Each VAD chunk is still transcribed once as a whole (preserves ASR
+  quality/context), then the transcript is force-aligned word-by-word against
+  that chunk's audio, and each word gets its own speaker label via
+  `lib_diarization.label_for_range`. Consecutive same-speaker words are
+  grouped back into lines. Numbers and punctuation-only tokens (e.g.
+  "RM11,000") have no letters in the aligner's label set (a-z plus apostrophe)
+  and get their timestamps interpolated from neighboring aligned words.
+  **Needs torchaudio's CUDA build installed explicitly**: the default PyPI
+  torchaudio wheel is CPU-only, version-mismatched against torch's own CUDA
+  build, and only registers a CPU kernel for the `forced_align` op: moving
+  the model to CUDA against that wheel fails outright, not just slower.
+  Fixed via `pip install torchaudio==<ver>+cu130 --index-url
+  https://download.pytorch.org/whl/cu130` (matching torch's own cu130 build).
+  Confirmed on the ep13 redo: ~21s/chunk on the wrong (CPU) wheel vs.
+  ~4.5s/chunk after installing the matching CUDA build, a real difference at
+  full-episode scale (339 chunks), even though it's still slower than the
+  pre-forced-alignment baseline (~2s/chunk) since alignment is genuine added
+  work, just a cheap single feed-forward pass rather than autoregressive
+  generation.
+
+  **CTC's own length constraint can crash this outright**: forced alignment
+  requires the target token sequence to be no longer than the audio's frame
+  count. Violated directly on the ep13 redo when one ASR chunk degenerated
+  into a repetition-loop hallucination (~140k chars repeated, producing an
+  889-token target against a 114-frame emission): `RuntimeError: targets
+  length is too long for CTC`, crashing the whole run partway through instead
+  of just that one chunk. Fixed in `lib_forced_align.align_words`: on that
+  RuntimeError, fall back to one span covering the whole chunk (same as the
+  old chunk-level behavior) so the pathological chunk's garbage text still
+  comes through and `qa_check.py`'s existing repetition-loop detector can
+  flag it exactly as before, instead of the whole redo dying.
+
+  **Residual limitation, not fully solved**: word-level attribution fixed the
+  *invisibility* problem (a second speaker's words now reliably show up
+  labeled differently), but pyannote's own turn-boundary placement is still
+  off by a few hundred milliseconds on split-second interjections, so a word
+  or two right at a speaker-change boundary can still land on the wrong
+  label. This is close to the practical limit for any turn-based acoustic
+  diarizer on genuinely fast back-and-forth speech, not something a
+  different tool would cleanly fix, confirmed by testing both the old
+  chunk-level and new word-level approaches side by side on the same ep30
+  clip. Worth re-checking by ear on episodes with heavy rapid-fire banter,
+  same as any diarization output. **Validated as a real net improvement, not
+  just a synthetic-test win**: on ep13's full redo, a passage the old
+  chunk-level approach had flattened entirely into one continuous "Rafizi
+  Ramli" block turned out, on the repo owner's direct audio confirmation, to
+  be genuine fast back-and-forth between Rafizi and Haziq, exactly the class
+  of previously-invisible content this fix targets.
+
+  Also fixed in the same pass, discovered while testing this:
+  - The local ASR call didn't pin `language`/`task` in `generate_kwargs`, so
+    this multilingual Whisper checkpoint's auto-detection occasionally
+    misfired on short/atypical chunks and silently produced an English
+    translation instead of a Malay transcription (confirmed directly on the
+    same ep30 test clip). Now pinned to `language="ms", task="transcribe"`.
+  - VAD chunking splits audio every ~28s regardless of speaker continuity, so
+    one uninterrupted speaker turn spanning multiple chunks used to produce
+    several separate output lines with no new information in the extra
+    timestamps (confirmed on ep13: 442 lines collapsed to 131 after fixing
+    this). `transcribe_raw_local` now merges consecutive same-speaker lines
+    across chunk boundaries before writing `raw.md`.
+
+  **ep13 naming pass done, 2026-08-24, redone after the above fixes**: sample
+  clips extracted per speaker and confirmed by the repo owner by ear
+  (`Speaker 1` = Rafizi Ramli; `Speaker 2` = Haziq Azfar) before applying the
+  labels to
+  `raw.md` and the three `interview*.md` rewrites: confirm-before-applying
+  this way avoids guessing from turn count or content alone.
+
+  Requires a Hugging Face token with access to 3 gated repos (accept terms
+  for all three, or the pipeline 403s partway through loading):
+  `pyannote/segmentation-3.0`, `pyannote/speaker-diarization-3.1`, and
+  `pyannote/speaker-diarization-community-1` (a transitive dependency not
+  listed on the model card). **Gated-access propagation lag confirmed
+  directly**: the HuggingFace web UI and the `model_info()` API both reported
+  access as granted well before the actual file-download (resolve) endpoint
+  stopped 403ing; don't trust either of those as proof the pipeline will
+  actually load; the only real test is trying the download.
+- **Proper nouns are checked by corpus comparison, not by a dictionary.**
+  `scripts/check_proper_nouns.py` reports names whose spelling is a near-miss of a form
+  used consistently elsewhere, and names the episode's own captions never heard. It
+  found and fixed 82 mangled mentions of six public figures on 2026-08-28. Roughly 250
+  candidates remain queued for a human.
+
+  An earlier plan here was to validate against Dewan Bahasa dan Pustaka's PRPM
+  dictionary via the `malaya` library's `dictionary.keyword_dbp()`. **That was dropped,
+  for two measured reasons.** The speech is colloquial and code-switched, so a
+  standard-Malay check flags well over 100,000 legitimate tokens (`kan` appears 19,493
+  times in the corpus, `tak` 18,961, `lah` 14,042). And it fails on the case that
+  matters most: `Cincong`, which concealed a sitting MP's name for months, *is* a valid
+  Malay word for fuss, so a dictionary would have marked it correct. A dictionary
+  answers "is this a word", and the question here is "is this the right person's name"
+  (ENGINEERING_LOG.md 1.28).
+- Crosstalk-driven entity errors are possible in any Whisper-family transcription,
+  local or cloud.
+- Gemini's free-tier quota is unreliable for raw transcription on episodes longer
+  than roughly an hour in a single call: use `--engine local` for those.
+- **The published files can carry the rewrite's own commentary, and no check reads for
+  it.** Four instances found by hand on 2026-08-29, all in `interview-en.md`: ep34's
+  `RM172,000 [per classroom actually higher -- wait]`, ep53's `[sic -- should be a
+  population figure, not currency]`, ep16's `[translator's note: sentence unclear in
+  source]`, and ep28's `[Note: he was asked for his view, and he turned the question back
+  around.]`. Each was the model reasoning out loud inside text attributed to a named
+  speaker. Two of them were even RIGHT about the underlying defect, which is the point:
+  the aside was doing the job a check should do.
+
+  A signature is calibrated but not yet wired in. Bracketed spans are a legitimate house
+  convention -- 518 of them across the published files are translation glosses
+  (`[party]`, `[million]`, `Teguran [a reprimand/note]`) -- so the pattern must key on
+  meta-commentary vocabulary (`sic`, `translator`, `wait`, `unclear`, `actually`,
+  `probably`, `^Note:`), not on brackets. That vocabulary matches exactly the four
+  instances above and nothing else in the corpus. `should be` was tried and dropped: it
+  hits ep50's legitimate `who [should be appointed]`.
+- **Whisper's subscribe-boilerplate hallucination: FIXED, 142 spans across 98 files**
+  (`scripts/remove_asr_boilerplate.py`). The sentence is `Sila berasa bebas untuk
+  menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan
+  Diandian`, a Malay rendering of the Chinese YouTube-subtitle boilerplate that
+  mesolitica's Whisper inherited from its training data (Mingjing / 明镜 is Der Spiegel;
+  Diandian / 点点 is the other channel). Nobody on this podcast says it. It was found from
+  the other end: ep28's published text carried `[aside about liking, subscribing and
+  supporting Der Spiegel and Diandian omitted from context]`, the rewrite noticing the
+  hallucination and writing a note about it instead of dropping it.
+
+  Deletion was justified BEFORE it was done, not after. `_boilerplate_probe.py` took the
+  words either side of each occurrence in raw and asked whether both sides land inside one
+  window of the episode's YouTube caption track. 41 of 41 checkable occurrences: yes, zero
+  counter-examples, so the hallucination was inserted beside real speech and never
+  displaced any. ep05's and ep12's 6 occurrences have no caption file on disk and are the
+  unverified remainder. An earlier version of that probe scored the two sides
+  independently and measured the distance between them; it reported 5 replacements, all of
+  which were the scorer landing 33-106 words early. Contiguity inside ONE window has no
+  such failure mode.
+
+  **Four self-inflicted bugs, each caught by a check rather than by luck. This is the
+  entry to read before writing another bulk text edit.**
+  1. *Whole-file punctuation tidy.* `([.,]) ?\1+` -> `\1` collapses every `...` in a
+     transcript into a single full stop. It would have damaged all 98 files, and a dry run
+     would not have shown it, because a dry run only prints what it deletes. Repair is
+     local to the join now.
+  2. *`\s` matches newlines.* A `\s*` in the closing pattern let a span swallow the `\n\n`
+     after it and weld the next speaker's block onto the previous turn. ep12, ep37, ep42
+     and ep46 lost a paragraph break and qa_check went 0/68 -> 4/68 on buried turn
+     markers. Every whitespace class in the patterns is `[ \t]` now.
+  3. *Fixed-length trailing runs cut words in half.* A `{0,20}` tail landed inside `der`
+     and left `r Spiegel and Diandian` in ep21. The pattern that needed it was deleted
+     outright once a greedy body covered the same cases.
+  4. *A survivor check keyed on the giveaway vocabulary is blind to fragments.* ep20's
+     `Sila berasa bebas untuk menyukai,` carries no channel name, so the checker called
+     the corpus clean while three fragments sat in it. `LEFTOVER` keys on the
+     translationese lead-in instead.
+
+  **The guard that makes it safe:** a span may be deleted only if every word in it comes
+  from the hallucination's own lexicon. The boilerplate is built entirely from that list,
+  so any span reaching into real speech is refused automatically -- including a
+  half-eaten word. Complete spans must ALSO carry the giveaway vocabulary, since
+  `dan ini untuk` is all lexicon and all real Malay.
+
+  **What must NOT be deleted, and nearly was:** `Jangan lupa untuk melanggan` is real
+  speech. The hosts plug Rafizi's own channel, and ep16 has Haziq joking about having to
+  (`melanggan dan melanggan, celaka teruk`). It is also one of the hallucination's
+  lead-ins, and every word of it is in the lexicon, so the guard cannot separate the two --
+  only the sentence shape can. Lead-ins are split into `LEAD_SAFE` (translationese with no
+  spoken equivalent) and `LEAD_RISKY` (genuinely spoken), and a fragment under a risky lead
+  needs the hallucination's own comma list before it can go.
+
+### Gemini cannot replace the camera pass, and the reason is block length (2026-09-11)
+
+**The question, and why it mattered:** the camera reference costs about 3.5 hours of GPU per
+episode, measured on ep57. Sixty-three episodes still need one, which is roughly nine days
+of the machine running. One 10-minute window of ep62 came back 21 of 22 against the camera,
+so a video model looked like it might replace all of it for hours instead of days.
+
+**It does not.** `scripts/gemini_label_blocks.py` labelled 182 blocks across five episodes
+that have a camera reference -- ep58, ep59, ep60, ep61, ep62, three 10-minute windows each.
+Agreement with raw.md is 86%, with the camera 80%. Per episode it runs from 97% on ep58 down
+to 77% on ep59, so the single ep62 window was the top of a wide spread, not a typical result.
+
+**The split that settles it is block length:**
+
+| words in the block | blocks | agrees with raw.md |
+|---|---|---|
+| 20 or more | 89 | 96% |
+| 7 to 19 | 44 | 93% |
+| 4 to 6 | 25 | 68% |
+| 3 or fewer | 24 | 54% |
+
+Long turns never needed help: MAI and the camera already agree on them. Short turns are
+exactly where the camera is weakest -- pyannote's embedder has a 0.6 s floor, and the
+sensing work scored 0 of 5 on short co-host calls -- and every open speaker question in this
+repo lives there. On those the model is a coin flip. When it disagrees with raw.md the camera
+backs raw.md 12 times and the model 6, so a dissent from it is twice as likely to be wrong as
+right.
+
+**A guess that did not survive the data, recorded because it was convincing:** the first
+disagreements all had a low camera share, so it looked like the model was really finding
+badly cut blocks that hold two speakers. Splitting by purity killed that -- blocks the camera
+says hold one speaker throughout score 88%, mixed blocks 84%. Length explains the failures;
+impurity does not.
+
+**Two operational facts.** `gemini-3.8-flash` became unusable during the run: it hangs rather
+than answering, timing out at 90 s on a one-word text prompt, while `gemini-3.5-flash`
+replied in 22 s. A 503-only fallback therefore waits out the full timeout on every window,
+which is why `ask()` now treats a hang as a fallback condition too. And the Files API still
+answers "the file failed to be processed" for these clips, so a window goes inline and must
+stay under 20 MB -- 10 minutes at 640 wide and 10 fps is about 9.5 MB.
+
+**What the tool is still good for:** one named window and one disputed label, the way
+`verify_speakers_video.py` settled 11 of ep62's, with the camera or a person holding the
+other end. Numbers and method in `data/gemini_label_blocks_measured.txt`.
+
+### `Speaker ?` was invisible to every checker, and three regexes are why (2026-09-11)
+
+The corpus carried 33 `Speaker ?` blocks in raw.md and 114 in the published
+interview files. `qa_check.py` reported 2 of 69 episodes flagged and neither was
+for this. ep33 shipped 25 `Speaker ?` turns to the reader in `interview.md`, 32 in
+`interview-en.md` and 12 in `interview-ms.md` while its own raw.md named all four
+speakers and carried no unknowns at all.
+
+Three separate patterns each walked past the label:
+
+| pattern | file | why it missed |
+|---|---|---|
+| `RAW_LABEL` | `label_drift_audit.py` | character class `[\w '.()-]` has no `?` |
+| `GENERIC` | `label_drift_audit.py` | `Speaker` alternative is anchored with `$` |
+| `DERIVED_PLACEHOLDER_RE` | `check_published.py` | matches `Speaker \d+` only |
+
+All three now accept it. `check_published.py` goes from 2 of 69 episodes flagged to
+12.
+
+**Correction, made the same day.** Calling all three a bug was too broad.
+`speaker_adjudications.json:_fillers_note` says `Speaker ?` "raises no QA flag
+(check_published.PLACEHOLDER_RE matches only NUMBERED clusters, deliberately)" --
+the owner set ep53's 12 filler turns to it on the standing principle that substance
+outranks per-fragment attribution, and not being flagged was the point. So the flag
+now fires only where raw.md does NOT carry `Speaker ?` itself. Where raw carries
+one, the published one is faithful passthrough of an acknowledged unknown; where
+raw names everyone and the published file does not, the name was dropped. That is
+the ep33 case and it is the one worth reporting. Same exclusion `generic-label`
+already applied. published-placeholder therefore covers 9 episodes, not 10.
+
+`check_owner_decisions.py` also needed teaching: a decision naming NO ONE (`null`,
+or `Speaker ?`) has nothing for the gate to check, and asserting otherwise would
+mean an unknown must STAY unknown. `_fillers_note` calls those entries
+"Reversible", and the ep53 camera reference duly named three of the twelve -- and
+showed the `Speaker 3` cluster they came from had mixed Haziq with Rafizi.
+
+#### The caption track settles what reading cannot
+
+`Speaker ?` looks like a speaker question and mostly is not. Read against the
+episode's YouTube caption track at the block's stamp, the 33 raw blocks came apart
+into three classes, recorded per block in `data/speaker_q_caption_resolved.json`:
+
+  - **9 hold words nobody said.** `Saya boleh lihat.` appears 8 times in the corpus
+    and never once from a named speaker: 7 as `Speaker ?` and 1 under an invented
+    `Audience` label in ep00. It is the Whisper "I can see." hallucination on
+    non-speech. At ep03 2:02:21 the caption is `[Muzik]`; at ep41 1:59:42 it is
+    `minum [mendengus] air`.
+  - **11 are one sentence split across two blocks.** The fragment finishes the
+    sentence before it or starts the one after, and merging needs no name.
+  - **13 stay unknown** on purpose. Four need the owner's ear, four are held because
+    the fragment could be a real short turn, five are in blocked ep53.
+
+#### Naming a published `Speaker ?` from raw.md: refused, 0 of 114
+
+`name_published_placeholders.py` votes once per label, which is right for
+`Speaker 1` (one voice by construction) and wrong for `Speaker ?` (a per-turn
+marker). `name_published_unknowns.py` was written to resolve them one turn at a
+time by literal trace, and it resolves none of them. That is the finding, not a
+failure of the tool.
+
+A trace proves the words are PRINTED inside a block carrying a name. It proves the
+person said them only if the block holds one turn. On ep33, 11 published unknowns
+traced into a single 13,857-character block labelled Rafizi, at offsets from 49% to
+99%, while the median block in that file is 66 characters. The rewrite had split
+that block into an alternating argument -- "More than that, more than that." against
+"I disagree, I disagree." -- so the block is two people and its label names one.
+Same lesson as `lib_locate.py`: a block label cannot locate a speaker inside the
+block.
+
+So ep33's published `Speaker ?` labels are the pipeline being honest, and
+regenerating its interview files would not fix them. **The defect to fix is the
+13,857-character raw block**, which is the `project_published_turn_collapse` class
+and needs the owner's ear or a camera reference ep33 does not have.
+
+### A camera reference can be confidently wrong: unenrolled guests (2026-09-11)
+
+The face gallery holds the three regulars. A guest's face matches nobody, so the
+pass hands his segments to the nearest gallery member, which is always Rafizi
+because he is on screen most. The output looks completely normal.
+
+ep33's full 152-minute pass produced 71% coverage, 400 segments and a well-formed
+RTTM:
+
+| | Rafizi | Wong Chen | Haziq | Farhan |
+|---|---|---|---|---|
+| raw.md | 70.9% of time | **18.3%** | 10.0% | 0.8% |
+| reference | 93.8% | **0.0%** | 4.7% | 1.5% |
+
+Wong Chen has 172 blocks and 20.1% of raw's words. Adopting that reference would
+have put a named politician's words under Rafizi's name.
+
+**DER was 11.9%, which passes. JER was 48.1%, against ep52's 16.3%.** This is the
+DER trap documented under "Reading the camera off the video", hit from the other
+direction: DER is dominated by whoever speaks most, so losing a speaker who holds a
+fifth of the episode barely moves it.
+
+Three references already on disk fail the same way, found by the new check and listed
+with their blind speakers in `data/camera_reference_limits.json`:
+
+    ep50   Wan Afiq                   11.5% of raw's words -> 0.0%
+    ep52   Zaim Zulkifli 9.4%, Syuk 8.6%          -> 0.0% both
+    ep55   four guests, 5.4-7.6% each             -> 0.0% all
+
+ep52 is adopted and was checked: its raw.md still names both guests, 65 blocks each,
+so the adoption kept raw's labels where the camera was blind and no damage was done.
+
+**Enrollment works** -- this is not a flaw in the approach. ep60's guest Sum Dek Joe
+is 15.3% of raw's words and 14.4% of the reference's time, and it passes.
+
+#### The gate
+
+`scripts/check_camera_reference.py` compares the CAST, not the timing: a speaker
+holding at least 5% of raw's words must retain at least a fifth of that share in the
+reference. Keyed on characters rather than seconds, because block durations come from
+stamps and stamps drift. It says nothing about whether the boundaries are right, so
+it is a gate before scoring and never a substitute for it.
+
+Wired into the two places that would otherwise consume a bad reference silently:
+
+  - `nightly_recut.py` gates the reference and skips the split dry run on failure.
+  - `fold_hanging_fragments.py` refuses by default. Its condition 1 is "the camera
+    covers NONE of the fragment's seconds", which a reference blind to a speaker
+    makes trivially true for every fragment that person speaks -- so it would fold
+    their words into whoever is on either side.
+
+#### Consequence for the queue
+
+**Check the cast before spending 2.5 hours of GPU on an episode with a guest.** ep36
+was pulled from the queue on this basis before it started (guest Lee Chean Chung, 45
+of 99 blocks). ep33 and ep36 both need the gallery rebuilt with their guest enrolled.
+
+A bad run does not waste the GPU time: `data/_camera_tracks_<vid>/` keeps every face
+track and mouth-sync score, so a corrected gallery can be re-matched against the
+existing tracks without re-running the video stage.
+
+#### `guest_gallery.py`: naming a guest without a human, when the bijection allows it
+
+For a single guest whose face cluster holds at least 90% of the episode's
+unidentified talking seconds, the guest can be named by a measurable bijection --
+no visual identification needed. `scripts/guest_gallery.py epNN` does this and
+writes a per-episode `data/_face_gallery_<vid>.json` (gitignored: face embeddings
+are biometric data).
+
+ep33 resolved this way (Wong Chen, 99% of 2,039 unidentified talking seconds) using
+the tracks already cached from the rejected pass -- no new GPU. Re-matched reference:
+Wong Chen 20.4% of time against raw's 20.1% of words, both within the gate's margin.
+Adopted.
+
+Two cases the bijection correctly refuses, both left open for a person:
+
+  - **ep50's Wan Afiq is frontmatter-classified a host, not a guest** (he recurs in
+    ep46 too), and the script refuses to auto-name any host regardless of match
+    quality -- a wrong name here would corrupt every episode he appears in, not one.
+  - **ep36 has zero cached tracks** (its GPU run was pulled before it started), so
+    there is no cluster to match against yet; it still needs the full pass.
+
+#### A single GPU means camera passes are never concurrent, and the failure is silent
+
+The corpus has exactly one usable GPU (RTX 2070). Two `camera_speakers.py run`
+processes started at once do not error cleanly -- they raced for the PO-token
+server `yt_download.ensure_pot_server()` sets up for video downloads, and the
+loser's yt-dlp call saw only storyboard formats from YouTube's `web_embedded`
+client and failed with "Requested format is not available." It read exactly like
+a transient YouTube block, not a local resource conflict.
+
+This happened once, from a broken wait-loop: a malformed PowerShell one-liner
+meant to gate ep36 behind ep41's completion errored on its first check, which
+made the bash `while` loop exit immediately and start ep36 while ep41 still held
+the GPU. ep41's own `camera_run` step failed 130.9 minutes in. The resume-safe
+chunk cache (`if dest.exists(): continue` in `camera_speakers.py cmd_run`) limited
+the real loss to the one in-flight chunk (~10 min), not the full run -- but the
+lesson is the gate, not the recovery: **never chain a second GPU pass on anything
+other than the first process's own log content.** `while ! grep -q "^[0-9:]+
+finished:" <log>; do sleep 300; done` is bash-only and was already the pattern the
+prior session used; a `Get-Process -Id` check added a second, needlessly fragile
+path to the same answer.
+
+#### Rule 9 closed ep52 and half of ep55, and the tool refused three correct answers first (2026-09-15)
+
+`data/camera_reference_limits.json` listed ep52 and ep55 as blind references a gallery
+merge could not fix, because their six guests are enrolled nowhere and
+`guest_gallery.py`'s bijection needs exactly one unnamed guest. Both were worked through
+rule 9. ep52 is closed. ep55 has two of four guests named and two escalated.
+
+**What the census settles before any photograph is fetched.** Cluster the census, then
+group clusters into PEOPLE using two tests: centroid cosine, and whether the two clusters
+ever appear in the same sampled second. The second is the hard one -- two faces in one
+frame are two people whatever the cosine says. ep55 resolves to exactly six people for a
+cast of six, and ep52 to four for four. That is worth doing first, because it tells you how
+many names you actually need and stops you naming the same person twice.
+
+**Three defects, all of which made a tool REFUSE a correct answer.** This is the failure
+mode that hides, because refusing looks responsible:
+
+1. `identify_person.py match` compared CLUSTERS, not people. Samsu Adabi owns ep55 clusters
+   3 and 78; his portrait scored +0.694 and +0.665 on them, so the margin test reported
+   "two clusters are too close to separate" and refused. The next different person was at
+   +0.207.
+2. Grouping the clusters then broke ep52, because the group's mean centroid sits away from
+   every view that fed it. Zaim Zulkifli fell from +0.676 to +0.540, under the floor, while
+   his margin GREW. A person is scored on their BEST cluster now, which is the rule
+   `camera_speakers.py` already states for its own gallery.
+3. `guest_gallery.py` hardcoded the shared gallery, so a guest rule 9 had just enrolled
+   into `data/_face_gallery_<vid>.json` still read as unnamed. Same miss as the reference
+   call had. Fixed, and it is what let ep52's bijection name Syuk after Zaim was enrolled.
+
+**What a photograph has to look like to clear the 0.55 floor.** Measured on eight
+photographs today:
+
+| photograph | best cluster | cos | verdict |
+|---|---|---|---|
+| Sinar Daily news photo, Harith, face dominant and unobstructed | 40 | +0.756 | ACCEPT |
+| Wiki Impact studio portrait, Zaim | 2+12 | +0.676 | ACCEPT |
+| Wikimedia portrait, Samsu Adabi | 3+78 | +0.694 | ACCEPT |
+| campaign poster, Harith, heavy colour grade | 40 | +0.511 | right face, under floor |
+| graduation portrait, Tang Hong Yau, mortarboard over the chin | 83+84 | +0.391 | under floor |
+| three channel stills, Syed Azuan, glasses plus a peaked cap | 60 | +0.32 to +0.38 | under floor |
+
+The pattern is not photo quality. It is occlusion and colour: a plain frontal face clears
+0.65, and glasses, a cap, a mortarboard or a heavy colour grade each drop it to roughly
+half. The weak cases still RANK the right cluster first every time, and that is the trap --
+rule 8 says agreement among weak witnesses is not identification, so they stay unnamed.
+
+**A group photograph cannot be passed to `match`.** `photo_vec` takes the LARGEST face in
+the still. Zaim's second witness was an eight-face rally photo where the largest face is
+somebody else, so it was scored face by face instead: exactly one face matched his portrait
+at +0.757 with every other at or below +0.157, and that face scored +0.661 on his cluster
+against +0.233 on the other guest.
+
+**ep55's last two faces went to the owner, and both came back the same day.** Cluster 60
+is a man wearing a red cap and a yellow polo both printed `DSA`, in an episode whose cast
+includes Dato' Dr. Syed Azuan Al-Idrus, known as DSA. That is documentary evidence, not a
+face score, and this repo has no mechanism for it. The owner ruled `yes all is DSA` and
+`all is Ubat i think?` off the contact sheet at `data/_ep55_faces.png`. The seconds are on
+the video clock, so `https://youtu.be/4mmuPwkB5f4?t=<s>` lands exactly.
+
+**The hedge in the second ruling did not matter, and that is the useful part.** Enrolling
+cluster 60 as DSA left exactly one unnamed guest and one cluster holding 100% of the
+remaining unidentified talking time, so `guest_gallery.py` named Tang Hong Yau on its own
+measurement. The owner's eye and the bijection agree without either depending on the other.
+The rebuilt reference then tracks every speaker's word share within about two points --
+Rafizi 68.4% of camera time against 67.1% of words, Haziq 7.8/9.7, Samsu 7.5/6.7, Tang
+6.0/5.3, Harith 5.4/5.8, DSA 4.8/5.3 -- which is the corroboration that all four faces are
+on the right people, and it is not available until the last one is named.
+
+**`check_owner_decisions.py` understands one kind of owner ruling, and there are two now.**
+It reads every key whose first character is a digit as a TURN ATTRIBUTION and looks for the
+owner's words in raw.md. A face identity at a video second has no turn and no text. Written
+as bare stamp keys, which is what CLAUDE.md rule 7 mandates for the other kind, ep55's
+twelve rulings produced ten `not locatable` lines and two `MISMATCH` lines, one of which
+read as raw.md contradicting the owner at 2:53:30 where raw.md says `Multiple speakers` and
+nothing is wrong. So the section
+`ep55_rule9_faces_owner_ruled_2026_09_15` keys on the cluster and carries the seconds
+INSIDE the value. **Rule 7's key shape is not the universal shape; it is the shape for a
+ruling the gate has to verify against text.**
+
+**Corpus state after all of this: `check_camera_reference.py` reports 37 usable, 0
+refused.** The blind-reference class that started with ep33 on 2026-09-11 is closed.
+
+
+#### The concurrency rule now has a lock, and Git Bash is why it needed one (2026-09-15)
+
+The section above ends on "never chain a second GPU pass on anything other than the
+first process's own log content." That is still right, and it is not enough, because
+on 2026-09-15 a second chain started without anybody chaining it.
+
+**What happened.** A chain launched at 10:52 failed on its first video download.
+It was stopped with `kill <pid>` from Git Bash and a new chain started at 10:57. The
+new chain's first chunk failed in 55 seconds with
+`FileNotFoundError: work\k0\pywork\scene.pckl`, which reads like a broken LR-ASD
+install. It was not. `Get-CimInstance Win32_Process` showed **four** `nightly_recut.py`
+processes alive: `kill` in Git Bash stops the shell's job, not the Windows process
+behind it, so both earlier chains were still running and invisible.
+
+**Why a second chain corrupts the first rather than just competing for the GPU.**
+`camera_speakers.py cmd_run` names its scratch directory from the chunk offset alone:
+`data/_lrasd/work/k<offset>`. The episode is not in the name. So every chain processing
+its first chunk uses `work/k0`, and `shutil.rmtree(work, ignore_errors=True)` at the top
+of the loop deletes whatever the other chain has already written there. One process
+detects its scenes, the other deletes `pywork` underneath it, and the write fails. The
+trailing `PermissionError: ... k0.mp4 is being used by another process` on the cleanup
+path is the same collision seen from the other side.
+
+**The mechanism.** `nightly_recut.claim_the_gpu()` writes its pid to
+`data/_nightly/chain.pid` and refuses to start while that pid is alive, naming the pid
+and the `Stop-Process` command that clears it. A stale lock from a dead pid is taken,
+not honoured, so a crashed chain does not block the next one. `atexit` removes it. This
+closes the first of the three rules CLAUDE.md lists as having no mechanism.
+
+**A separate fix in the same session, and it is not the concurrency one.** The 10:52
+failure had its own cause. `ensure_pot_server()` returns as soon as the bgutil server
+answers `/ping`, but the server cannot mint a PO token for a few seconds after that.
+yt-dlp asks, gets nothing, and falls back to the format list available without a token,
+which on these videos is four storyboard images. The error is again "Requested format is
+not available", the same string the concurrency race produces, which is why the two were
+easy to confuse. `nightly_recut.video()` now retries once after 15 seconds. Only the
+first episode of a chain is exposed, because the server stays warm afterwards.
+
+**The check that separates these two causes**, since they share an error string: count
+the `python` processes before believing either diagnosis.
+
+```powershell
+Get-CimInstance Win32_Process -Filter "Name like 'python%'" |
+  Select-Object ProcessId, CommandLine
+```
+
+#### A hyphen-prefixed video id breaks the reference call, not just this once
+
+ep41's resumed run above still failed after the GPU contention was fixed --
+`camera_reference: FAILED in 0.0 min`, `error: the following arguments are
+required: uri`. The cause was unrelated to the contention: ep41's video id is
+`-HujDcVKHzU`, and `nightly_recut.py`'s `camera_reference()` passed it as the
+first positional argument, before `--tracks`/`--out`/`--runtime`. argparse reads
+a token starting with `-` as an unknown option unless `--` marks the end of
+options, so it never bound to `uri` at all. Fixed by moving `vid` after a
+trailing `--`, last in the argument list. Two other episodes share the same
+risk (`-NjVESCWO8w`, `-tpyLr5kwxI`) and are now covered by the same fix.
+
+### `check_agencies.py`: the checker CLAUDE.md rule 2 was missing (2026-09-12)
+
+Rule 2 ("every government agency cited is correct") was written with an explicit gap:
+`check_names.py` cross-checks a person, nothing cross-checked an agency. This is that
+checker. Four defects on its first corpus-wide run, all now fixed in
+`fix_proper_nouns.py`'s reviewed map:
+
+1. `Kementerian Keuangan` / `Menteri Keuangan`, 16 occurrences across ep12, ep17, ep18,
+   ep25, ep28, ep29, ep34, plus ep29's interview.md. `keuangan` is the Indonesian word;
+   Malaysia's ministry is Kementerian Kewangan. ep15 writes both forms in one sentence,
+   which is what proves the ASR did it and not the speaker.
+2. ep09's interview.md and interview-ms.md write `keuangan` where raw.md says `kewangan`
+   correctly -- the rewrite introduced it, published-only.
+3. ep15 `Menteri Kawangan`, ep27 `Jabatan Perkuam Negara` (the Attorney General's
+   Chambers), one occurrence each.
+4. ep05's interview.md and interview-ms.md cite `Seksyen 122B Akta SPRM 2009` in a passage
+   about who appoints the Chief Justice. raw.md never says SPRM. Local ASR heard
+   `Akta JSC 2009`, MAI heard `Akta JAC 209`, and the Judicial Appointments Commission Act
+   2009 (Act 695) is exactly the law for appointing judges, so the rewrite swapped one
+   commission for another. Fixed in all three files.
+
+**The roster is the authority, and the roster can be wrong.** Its first version carried
+`Kementerian Pertanian dan Keselamatan Makanan`, taken from Wikipedia's cabinet table.
+The corpus said `Keterjaminan`, and the ministry's own portal (kpkm.gov.my) says the
+corpus was right. The entry was the defect. Every entry now carries a `source` URL, and
+an agency's own site outranks any third party.
+
+**Two measured limits.** A lowercase garble is invisible: both sides of a comparison must
+be written as a title, because without that condition the first run returned 52 hits and
+30 were an ordinary Malay word after the head word (`kementerian dengan`, 7,220
+occurrences of `dengan` in raw). The known cost is ep35's `Menteri yang kewangan` and
+ep42's `Menteri kelihatan`. And the extension rule is tested against every roster name,
+not the closest one: ep28's `Menteri Pertanian dan` truncates KPKM but scores closer to
+`Menteri Pertahanan`, and checking only the closest match reported Aziz Ishak as Defence
+Minister when he ran Agriculture.
+
+One false positive survives by design, ep16's `Kementerian Kerana` (the conjunction
+`kerana`, capitalised by the ASR). This is a review list, like `check_names.py`, not a
+gate -- 15 hits corpus-wide, small enough to read, and reading them is the point.
+
+### `check_overlap_boundaries.py`: rule 7's detector, and what it measures (2026-09-12)
+
+Rule 7 (overlapping speech never silently merged into the wrong speaker) had a proposed
+heuristic and no code. This is the detector half. It reports and never writes, because
+rule 7's own instruction for an indecisive margin is to mark and escalate.
+
+It reads each pair of adjacent blocks where the first ends without terminal punctuation
+and the second, under a different name, opens in lower case -- one sentence across two
+labels -- then reads the camera reference per second and judges AT THE BOUNDARY.
+
+Two things the first version got wrong, both fixed by measurement rather than argument:
+
+1. **The unit is a pair, not the A/B/A sandwich rule 7's prose describes.** Across the 22
+   adopted episodes the sandwich occurs once (ep48 at 1:17:30); the pair occurs 66 times.
+   MAI punctuates the end of a phrase, so after `merge_same_speaker.py` the first speaker
+   rarely resumes in a third block -- the torn sentence ends at the handover. The first
+   version, written to the sandwich shape, found 0 candidates in ep63 and reported clean.
+2. **The verdict is decided at the edge, not over the window.** ep44's 1:21:26 reads
+   `Rafizi 842s, Haziq 4s` over its whole window and `Haziq 2s, Rafizi 1s` over its first
+   three seconds. A long turn can be correctly labelled and still open with words that
+   belong to the previous speaker, which is exactly what rule 7 is about.
+
+Corpus-wide result AS OF 2026-09-12: 66 candidates, 31 attested by the camera (real
+handovers -- the co-hosts do finish each other's sentences), 35 contested, 0
+camera-blind. **Superseded: the list is empty as of 2026-09-14, 0 contested and 0
+tail, after the owner ruled the tail signature 11 of 11 and `move_hanging_words.py`
+gained the branch it was missing. See "rule 7's tail" below, and treat
+`check_overlap_boundaries.py --all` as the only live number.**
+`data/rule7_contested_boundaries.md` is kept as the record, not a queue.
+
+Two limits, both in the docstring. `check_camera_reference.py` is circular on an adopted
+raw, so the tool prints each speaker's share of camera seconds instead of gating on it --
+a speaker at 0.0% there makes every verdict worthless for that person's turns. And the
+boundary second comes from the block stamp, which only holds for an adopted MAI raw; the
+tool refuses any other raw rather than trusting a drifting clock.
+
+### YouTube's caption `isSpeakerChange` flag: fetched, measured, rejected (2026-09-12)
+
+The owner noticed YouTube's own transcript appears to separate speakers and asked whether it
+could cross-check the contested boundaries. It carries a real signal we had never looked at,
+and the signal does not survive measurement.
+
+**What exists.** The `.vtt` format this repo downloads carries NO speaker information: 64
+caption files, zero markers of any kind. The `json3` format does -- every segment can carry
+`isSpeakerChange: true` alongside `utf8`, `tOffsetMs` and `acAsrConf`. Fetch it with
+`python -m yt_dlp --skip-download --write-auto-subs --sub-langs ms --sub-format json3`.
+That is why this was never seen before: the flag is dropped in the conversion to WebVTT.
+
+**What it measures against the camera (ep61).** 1,147 caption change points against the
+camera reference's 216. 83% of camera changes have a caption change within 3 s, which looks
+excellent until the density is accounted for: with 1,147 points over 9,700 s, a RANDOM
+second lands within 3 s of one with probability 69%.
+
+**What it measures against the owner's own rulings.** Eleven boundaries the owner settled by
+eye and ear on 2026-09-12, six of them real speaker changes and five of them places where
+raw.md had a change that is not there. Scored at face value, the flag agrees on 4 of 11.
+Sweeping the offset from -4 s to +4 s and the tolerance from 1.0 s to 2.5 s, the best
+combination (-1 s, 2.5 s) reaches 7 of 11 -- and that offset was fitted to these same eleven
+cases. The per-episode chance rate for a "change" answer is 13% to 32%.
+
+**Verdict.** Not evidence at the resolution rule 7 needs. It is recall without precision: it
+fires on nearly every pause, so it cannot say a boundary is real, and it carries no identity,
+so it can never say who. Do not re-test it without new data; re-test only if YouTube starts
+exposing speaker LABELS rather than change flags.
+
+**What does work, already measured and in the repo:** caption WORD GAPS, not the change
+flag. `data/` holds that earlier result -- boundaries from caption word gaps scored 16/16
+against pyannote's 8/16 (see the diarization sensing note in memory and
+`check_caption_coverage.py` for the caption plumbing).
+
+#### The tail side of a torn sentence, and why only the camera can see it (2026-09-12)
+
+`check_overlap_boundaries.py` judged only the SECOND block's opening seconds. The owner
+read ep63's 1:58:44 and said Haziq starts with `tapi kalau tengok pada trend` -- words that
+were sitting at the END of Rafizi's block, where no test in the tool could reach them. All
+three interview files had inherited them as Rafizi's closing line.
+
+The camera can see that case, and the reason is the flaw everything else has to work
+around: the show's cut LAGS the speech by about two seconds. So if the camera already shows
+B during A's final seconds, B had started before the cut, and A's last words are probably
+B's. That is now a signature of its own, `tail`, with a link eight seconds early.
+
+Eleven boundaries corpus-wide carry it. They are candidates for an ear, not verdicts: ep62
+at 3:43:52 reads `Farhan (Pa'an): ...White pap-` / `Rafizi: dalam white paper pun sama juga`
+and that is a real interruption, which looks identical to the defect from the outside.
+
+#### The cast gate was wired into the wrong step, and two episodes adopted on blind references (2026-09-13)
+
+`check_camera_reference.py` exists because a reference can be CONFIDENTLY WRONG: a guest
+who is not in the face gallery gets handed to the nearest gallery member, and the
+attribution score still looks clean. It was wired into `fold_hanging_fragments.py`, which
+is step 4b of `adopt_mai_camera_raw.py`.
+
+The overnight queue of 2026-09-13 showed what that misses. ep42 and ep39 both have a
+speaker the reference cannot see -- Zikri Kamarulzaman at 14.2% of raw's words against 0.0%
+of camera time, Iqbal at 5.3% against 0.0%. Step 4b refused and printed its refusal. The
+script then ran steps 5 to 8 and wrote both candidate raws anyway. Traced afterwards by
+locating every old guest block in the new file: 16 of ep42's 74 Zikri blocks came back
+under a host, including his own introduction, `bagi yang tak kenal saya, saya Zikri`, as
+Rafizi. Both adoptions were reverted by hand before any commit.
+
+**The gate now runs before step 1**, with `--force-blind-reference` for the case where
+someone has read `data/camera_reference_limits.json` and knows why a reference is safe.
+Verified both ways: ep42 refused, ep40 passed.
+
+**The fix for a blind reference, in order:** `guest_gallery.py <tag>` names the face when
+the episode leaves no choice (one guest in the frontmatter, one cluster holding nearly all
+the unidentified talking time -- ep42 measured 97%), then
+`camera_speakers.py reference <vid> --gallery data/_face_gallery_<vid>.json`, then
+`check_camera_reference.py`, then adopt. ep39 cannot take that path: Iqbal is listed as a
+HOST, so the one-guest bijection does not apply, and two clusters talk. That one needs a
+census, a contact sheet and a person's eye.
+
+#### ep39 needed no person after all: `identify_person.py`, and why every tool read only the corpus (2026-09-13)
+
+The section above ends "that one needs a census, a contact sheet and a person's eye."
+That was wrong twice, and the owner named the reason: *"Do we become to rigid in our tools
+that we so narrow down that we can't think outside the box?"*
+
+**First, the census never needed the GPU.** `camera_speakers.py census` is
+`cv2.FaceDetectorYN` plus `cv2.FaceRecognizerSF`, both OpenCV DNN on CPU. Only LR-ASD's
+active-speaker pass needs CUDA. ep39's census was queued behind a four-episode GPU chain
+for nothing; run alone it took 9 minutes and sampled 1,033 faces from 170 minutes.
+
+**Second, and this is the real gap: every naming tool read the corpus's own files.**
+raw.md's labels, the frontmatter cast, camera clusters, voice centroids. All 27 people the
+corpus can name came from inside it. Rules 1 and 2 have said to web-verify a name since the
+beginning, yet no script did, and the show's own YouTube description has been sitting in
+`data/manifest.json` for all 70 episodes with no cast check reading it. So the loop's last
+step was always "no internal tool can name this, escalate", which is not the same statement
+as "unidentifiable".
+
+`identify_person.py` closes it. A public photograph of a named person is an independent
+witness in exactly the sense `camera_speakers.py` is: no audio model made it and it did not
+come from this corpus. It is compared to face clusters the same way, SFace embeddings and
+cosine, reusing `camera_speakers.FLOOR` 0.55 and `MARGIN` 0.10.
+
+**It is calibrated before it is trusted, because rule 8 forbids a confident guess.**
+`calibrate` runs the matcher against faces the gallery already holds and prints the matrix:
+
+| reference photo | Farhan | Haziq | Rafizi | verdict |
+|---|---|---|---|---|
+| Rafizi (Wikimedia) | +0.068 | +0.234 | **+0.740** | right, margin +0.506 |
+| Anwar Ibrahim | +0.087 | +0.070 | +0.151 | below the 0.55 floor, rejected |
+| Nik Nazmi | +0.091 | +0.046 | +0.174 | below the floor, rejected |
+
+So it names a known face across a different camera and year, and it rejects a stranger.
+`match` then refuses three ways: under the floor, two clusters inside the margin, or a
+cluster that already matches a gallery face (which would rename a known person).
+
+**ep39's answer.** Two independent photographs of Iqbal Fatkhi, from wikiimpact.com and
+projectliber8.org, both pick cluster 0: +0.672 and +0.710, with the next cluster at +0.085
+and +0.180. Cluster 0 scores +0.229 against the closest of the three known hosts, while
+clusters 5, 1, 2 and 8 match them at +0.947, +0.876, +0.759 and +0.587. Enrolled with
+within-person minimum 0.63 against cross-person maximum 0.38. He is Editor-in-Chief of
+Cilisos Media, which is why ep10 is titled `Yang Berhenti Menteri X CiliSos`.
+
+**Two things the method does not license.** A search for a common given name returns
+several different people, so the name must come from the episode's own text or the show's
+description, never the photo caption -- ep39 says `kenapa kita jemput Iqbal` and
+`dah 3-4 kali dijemput`. And a high score against a mixed cluster names two people at
+once, so `match` prints each cluster's internal cohesion (ep39's were 0.864 to 0.896).
+
+#### `check_cast.py`: the frontmatter cast was a derived claim nothing checked (2026-09-13)
+
+`guest_gallery.py` runs its bijection on `guests:`. ep39 lists Iqbal under `hosts:`, so it
+never tried, and it said so honestly rather than guessing. The `hosts:`/`guests:` fields
+are written by the rewrite pipeline from the transcript, which makes them a DERIVED claim,
+and nothing compared them to the episode's own words or to who actually speaks.
+
+Three signatures, report-only. Four rounds of noise had to be cut, and each cut is a
+lesson about this corpus:
+
+1. **52 hits, mostly `YB Rafizi`.** It is ep08's stray label variant, not a person, and
+   every episode opens with `bersama YB Rafizi`, so it fired on all 70. Honorifics are now
+   stripped for comparison only.
+2. **`bersama Trump`, `bersama Netanyahu`.** A bare intro-formula scan cannot tell a guest
+   from a subject. The signature is now cross-episode: it fires only for a person the
+   corpus labels SOMEWHERE ELSE, so it can only flag someone it already knows how to name.
+3. **Two filler words of slack was still too loose.** It caught ep48's `kalau tengok Nik
+   lah kan ... Nik Nazmi` and ep35's `aku dah nasihat dia pasal Farhan` -- people being
+   discussed. The name must now follow the formula directly, in the opening 120 lines, and
+   an `ABSENT` test kills ep35's `saudara Farhan tak ada pada hari ini`, which says
+   outright that he is not there.
+4. **Two people can share a given name.** The match is on the first word, because the text
+   says `saudara Faiz` where the label says `Faiz Ahmad`. ep03's `Faiz (Financial Faiz)`
+   and ep04's `Faiz Ahmad` each flagged the other's episode until the same extension test
+   `check_agencies.py` uses was applied.
+
+**A trap worth writing down: both shows have an ep01 through ep06, and they are different
+episodes.** `common.raw_for_tag()` already refuses a bare ambiguous tag and demands
+`ep03:bakar` or `ep03:berhenti`. A checker that globs paths itself bypasses that guard and
+merges two episodes' data under one tag, which is what produced the Faiz pair above.
+`check_cast.py` now carries the same suffix.
+
+Final: 3 findings. ep39's `guest-as-host`, fixed via `common.set_frontmatter_list` to
+`guests: [Iqbal Fatkhi]` (rule 3's full name) with the H1 verified intact. ep08's 60 `YB
+Rafizi` turns, left alone and recorded in `data/qa_reviewed.json` as
+`open-until-reprocessed` -- it is a local-ASR raw with no camera reference, and the owner's
+standing rule is to reprocess, never hand-patch. `normalize_speaker_labels.py` could not do
+it either: that tool only rewrites the `**Name:**` label in interview*.md, never raw.md's
+`[time] Name:`. ep02:bakar's `Prof. Barjoyai` against `Prof. Emeritus Dr. Barjoyai Bardai`,
+recorded benign: rule 3 working, and the prefix test misses it only because the full name
+inserts words in the middle instead of appending.
+
+#### rule 7's tail: the owner ruled it 11 of 11, so the tool writes now (2026-09-13)
+
+`check_overlap_boundaries.py` classes a pair `tail` when the camera shows the NEXT speaker
+for at least 2 of the 3 seconds before the boundary, skipping the block's own first second
+because the cut lags speech by about two seconds. All 11 tail boundaries were escalated
+with a `?t=` link and a contact sheet. The owner ruled every one the way the camera had
+already read it -- the words at the end of the first block belong to the next speaker --
+and added *"Actually all these can be verified visually..."*
+
+**What `move_hanging_words.py` was blind to.** `split_tail()` returns the words after a
+block's LAST sentence end. Six of the eleven blocks contain no sentence end at all: the
+whole 2-to-7-word block is the hanging fragment, so `tail` was empty and the pair was
+skipped in silence. ep62 `White pap-`, ep57 `Itu sebenarnya ialah`, ep56 `Dan kita telah
+pun bersetuju aa langkah-langkah`, ep49 `So my concern masa itu ialah` and `Consistently,
+the only`, ep47 `Kerana, kerana beritanya ialah`.
+
+**The new branch gives the camera a veto, and the branch above it does not.** That is
+deliberate, not an inconsistency. For a partial tail the SHAPE decides, because a sentence
+is not split between two speakers and a camera cut is not a speaker change. For a WHOLE
+block shape cannot decide, because rule 7 says a short block between two different
+speakers may be a real interruption. What decides it is the measured tail signature.
+Where the camera has no coverage, a recorded owner ruling moves it instead (ep56 01:24),
+because rule 4 puts a person above every tool.
+
+**A bug that made every rule-7 ruling unenforced.** `check_owner_decisions.py` skips any
+key whose first character is not a digit, and it only reads a section whose name contains
+the episode tag. The `ep33@22:47` keys used for the four boundaries decided on 2026-09-12
+satisfied neither, so the gate silently checked nothing. All 15 rule-7 decisions now live
+in per-episode sections with bare stamp keys, and the gate reports them: ep33 2, ep46 1,
+ep47 2, ep49 4, ep50 2, ep51 1, ep54 1, ep56 7, ep57 11, ep62 16, all preserved,
+0 mismatched.
+
+Result: 21 tails and 6 whole blocks moved across 17 episodes, every word conserved by the
+existing guard, then `merge_same_speaker.py` for rule 6. The detector went from
+0 contested / 11 tail to **0 contested / 0 tail across all 27 episodes with a camera
+reference**. 10 published turns in 7 episodes then disagreed with raw.md and are being
+regenerated: ep33, ep42, ep47, ep48, ep50, ep53, ep54, ep62.
+
+#### ep32's camera pass died because its video file vanished mid-run (2026-09-14)
+
+`nightly_recut.py ep32 ep29 ep28 ep27 --hours 11` logged one line about it:
+
+```
+15:19:28   camera_run: FAILED in 45.5 min
+```
+
+That line reads as forty-five minutes of GPU time thrown away, and it is wrong twice over.
+The report JSON held the real cause. ffmpeg exited `4294967294`, which is `-2` unsigned,
+ENOENT:
+
+```
+[in#0 @ ...] Error opening input: No such file or directory
+Error opening input file ...\data\_video\UF8RxxOiWDA_480p.mp4.
+```
+
+**The video was deleted while the job was reading it.** Five of eighteen chunks had already
+been written, so the file existed for the first 46 minutes. Nothing in the pipeline deletes
+it at that point: `nightly_recut.py` unlinks the video only AFTER `camera_run` and
+`camera_reference` in the same loop iteration, and `cleanup_scratch.py` does not target
+`data/_video` at all. The process tree was a single chain, so no second nightly run raced
+it. **The cause is outside the pipeline and was not identified.** The likeliest candidate is
+a manual cleanup, because `data/_video` is named as a cleanup target in the session-closing
+checklist.
+
+**Two asymmetries made this worse than it needed to be.**
+
+1. **A model failure is tolerated and a missing input is fatal.** When `Columbia_test.py`
+   produces no tracks, the loop prints `FAILED` for that chunk and continues. When ffmpeg
+   cannot open a file, `check=True` raises and the whole episode dies. The second case is
+   the recoverable one.
+2. **`video()` checks only `p.exists()`**, then `camera_run` reads that file for two to
+   three hours with no further check. There is no lock and nothing re-verifies it.
+
+**What was actually lost: one chunk, about nine minutes.** The chunk loop skips a chunk
+whose json is already on disk (`if dest.exists(): continue`), which is the same recovery the
+concurrent-GPU section above describes. So ep32 resumes at chunk six and needs thirteen
+chunks, not eighteen. Its video has to be re-downloaded first, which `video()` does
+automatically because the file is gone.
+
+**The fix is a log line, not a guard.** A guard cannot stop an external process from
+deleting a file, and re-checking the path per chunk would only move the traceback. What was
+missing is the operator being told the run is resumable. `camera_run` now prints, on
+failure only:
+
+```
+  RESUMABLE: 5 chunk(s) on disk, a re-run skips them; MISSING INPUT: data\_video\UF8RxxOiWDA_480p.mp4
+```
+
+It names any input that has gone missing, because ffmpeg's `check=True` turns that into a
+traceback in a JSON field rather than a sentence in the log the operator reads.
+
+#### The rewrite stage changes figures, and nothing could fix them (2026-09-14)
+
+`check_figures.py` had flagged 7 episodes for a while and no one had ruled on any of them.
+Audited all nine flagged figures. Seven are real and **the published text is the wrong side
+in every one**:
+
+| episode | published said | correct | scale of the error |
+|---|---|---|---|
+| ep31 | `75 juta` | `7.5 juta` | ten-fold |
+| ep34 | `RM75 bilion` | `RM7.5 bilion` | ten-fold, tax refunds |
+| ep49 | `scuba 677` | `scuba` | a number that was never said |
+| ep49 | `1B di Pandan` | `di Pandan` | the English rewrite expanded it to `seat 1B` |
+| ep49 | `Facebook 3.3 juta` | `Facebook 3 juta` | a decimal invented from `3 point` |
+| ep52 | `47K` | `47 kes` | 47 court cases became 47 thousand |
+| ep55 | `200 juta` | `700 juta` | highway cost, wrong by 500 juta |
+| ep59 | `rugi 120 juta` | `rugi 102 juta` | transposed digits |
+
+Two are not defects. ep34's `45 bilion` is a substring of `RM22.45 bilion`, which raw.md
+supports. ep41's `1.99` is raw's `seringgit 99 sen` written in digits, which is correct
+style for an interview file.
+
+**Two different defects hide under one signature, and they need opposite fixes.**
+
+- **Six of the seven came from the pre-adoption local-ASR raw.** The rewrite copied a bad
+  source faithfully. Verified by reading each episode's old raw from `data/_old_*_raw.md` or
+  from git history before the adoption commit. Regenerating the published files from the MAI
+  raw fixes these by itself.
+- **ep52's `47K` was invented at the rewrite stage from a correct source.** The MAI raw, the
+  pre-adoption raw, AND the Malay captions all say `DNAA 47 kes`. `47K` exists in no witness.
+  So regeneration can reproduce it, and ep52 needs a specific re-check after any rewrite.
+  This is the one case that proves regeneration is not a guarantee.
+
+**Every verdict has two independent witnesses**, per the owner's rule of 2026-09-12 that a
+disputed digit is settled by witness count. The witnesses are raw.md (MAI), the Malay
+caption track, the pre-adoption raw, and the sentence's own arithmetic. ep34 is the
+strongest: the captions say `7.5 bilion` four times and `75 bilion` never, and the sentence
+calls the payment higher than the PM's commitment of 4 bilion, which 7.5 exceeds narrowly
+and 75 overshoots absurdly.
+
+**`scripts/fix_published_figures.py` is the mechanism that was missing.** A figure
+correction cannot live in `fix_proper_nouns.py`, whose map is corpus-wide: a bare `200 juta`
+or `47K` is not safe to rewrite across 70 episodes. So the map here is keyed by episode,
+holds literal strings only with no regexes at all, and declares the occurrence count each
+rule expects. It refuses to write when a count has moved, because that means the file was
+regenerated or already corrected and the rule no longer describes the text it was reviewed
+against. It never touches raw.md.
+
+**Where the RAW carries the wrong digit instead, the fix goes elsewhere**, and ep31 has one
+of each in the same episode. Its raw said `180.8 million` where every other witness said
+`184.8`: the local raw, the captions three times, and the arithmetic (462 million MMAG
+shares at 40 sen is 184.8 million exactly, and the episode's own title puts Farhash's loss
+at RM97.5 juta, which is 184.8 minus the 87.32 he sold for). That correction went into
+`fix_proper_nouns.py`, labelled there as a figure, because that map is the one reviewed list
+`mai_camera_raw.py` applies during the build. A fix recorded anywhere else is wiped by the
+next re-adoption.
+
+Result: `check_figures.py` went from 7 of 70 flagged to 2 of 70, and both survivors are the
+non-defects above. Verdicts and evidence for all nine live in `data/qa_reviewed.json`.
+
+#### `not locatable` is a verification gap, not a lost decision (2026-09-15)
+
+The session-closing checklist says to read `check_owner_decisions.py`'s `not locatable`
+count, because "a decision the gate cannot verify is one that can be silently reverted."
+
+**Re-measured 2026-09-15, after ep24, ep25 and ep26 adopted.** The audit has to read every
+`data/speaker*.json`, not just `speaker_adjudications.json`. A first pass read only that one
+file and reported 24 in three episodes, missing ep19 entirely, because ep34's two rulings
+live in `speaker_owner_ear_2026_09_11.json`. Nine files carry a tag-keyed ruling.
+
+    159  decisions across 25 episode tags
+    108  preserved
+      7  partly kept
+      0  MISMATCHED
+     25  not locatable: ep19 (1), ep34 (2), ep53 (7), ep61 (15)
+
+**Audited every text-less decision by hand. All are honoured in the current raw**, and the
+camera independently agrees at almost every second. The count measures what the gate can
+PROVE, not what the corpus has kept.
+
+    114 stamped owner decisions in data/speaker*.json
+     82 the gate can read today
+      6 carry a bare `text` key, which the gate ignores
+     26 carry no text at all, only a stamp
+
+The gate reads `text_now`, then `text_was_startswith`, then `text_was`, then falls back to
+whatever block sits at the stamp. After an episode is re-adopted the stamps move, so the
+fallback finds nothing and a text-less record becomes unverifiable.
+
+**Three looked like conflicts and none was.** Each was an artefact of checking by stamp,
+which CLAUDE.md warns against in exactly these words: a stamp cannot locate a decision.
+
+- `ep61_farhan_restore@2:51:15` carries `at_now: 2:51:41`, and the raw holds
+  `[2:51:42] Farhan (Pa'an)`. Honoured. Two records share the `2:51:15` key and name
+  different speakers, because they describe different seconds.
+- `ep61_owner@07:44` has a bare `text` of `Sila lapuk kepada pihak berkuasa.` MAI reads
+  `[07:47] Rafizi: Okey. Sila lapor kepada pihak berkuasa.` Honoured, and the old record's
+  own words were the garble.
+- `speaker_from_gold.json:ep61@02:36` sits inside the gold passage, which the gate verifies
+  separately: 346 words found in order, 0 under a different speaker.
+
+**Adding `text` to the gate's fallback chain was considered and REJECTED.** It would help 3
+of the 6, because the others (`Juali`, `Kan?`, `tu`) are under the two-word minimum that
+stops a fuzzy match. And the one substantial case is `Sila lapuk`, a garble absent from the
+new raw, so it would not locate cleanly. It would fuzzy-match somewhere else instead, which
+is the ep31 failure of 2026-09-15: a 0.60-score match 38 minutes from its own stamp.
+
+**What would actually close the gap** is `text_now` on the 26 stamp-only records, written
+from the current raw. That is real work and it is not urgent, because the decisions are
+being honoured. Do it per episode the next time each one is touched, the way ep31's two were.
+
+#### ep26, ep25 and ep24 adopted: what each one needed, and it was different each time (2026-09-15)
+
+Three episodes in a row, three different blockers. The reason to record them together is
+that none of the three was a camera failure, and a session that assumes a refusal means
+"rerun the camera pass" will waste hours on all three.
+
+**ep26 needed the owner's ear on two moments, and the two were not the same kind of
+question.** The adoption gate reported one MISMATCH and one PARTLY KEPT. Before escalating,
+the camera's UEM was read at both seconds, which is what separated them:
+
+| moment | owner | candidate | camera |
+|---|---|---|---|
+| 2:24:04 `Kita lupa, kita lupa.` | Farhan (Pa'an) | Rafizi | covers 8644-8645 and reads Rafizi |
+| 2:26:46 `Point finger kepada Fuziah.` | Rafizi | Haziq | no coverage, so the label came from a fallback |
+
+The second one was already settled by CLAUDE.md rule 4's evidence order: a fallback is the
+weakest witness and the owner's ear is the strongest, so the owner was right and the camera
+never dissented. Only the first was a real disagreement, and the owner ruled Farhan there
+too. Their words: *"Kita lupa, kita lupa is Farhan, Memang teruk ah korang this week is
+Rafizi"*, and on the other, *"Haziq did say Fuziah, but he just reiterate what Rafizi is
+saying. So appoint it to Rafizi only."*
+
+Both went into `data/forced_labels.json`, not into a commit message, so they survive the
+next rebuild. `mai_camera_raw.force_labels()` applies them after the camera pass and before
+the gate, which is the only place a ruling can land without hand-patching a raw. The gate
+then read 6 preserved, 0 mismatched, over 14 decisions.
+
+**Two anchor details that matter for the next ruling.** MAI writes `Kita lupa, kita lupa`
+twice in ep26, at 2:23:37 and at 2:24:04, so the `at` hint is the only thing selecting the
+right one; `force_labels` prints a WARNING when a second match scores equally and the stamp
+breaks the tie. And MAI cut `Point finger kepada Fuziah.` across two blocks, so that anchor
+spans both and sets both. `Ada tu.` at 2:26:45 stays Haziq: no ruling covers it, and a
+ruling is not extended by inference.
+
+**ep25 needed no person at all, and the cast gate said otherwise at first.** It refused:
+`Faizal Rahman raw 7.3% of words, reference 0.0% of time`. The 2026-09-14 recipe for that
+refusal is to look for the guest in another episode's gallery, and it did not apply here.
+Faizal Rahman is in ep02, ep03, ep04 and ep52 of the corpus, but in no
+`data/_face_gallery_*.json` anywhere, so there were no vectors to merge.
+
+`guest_gallery.py` settled it without a photograph. ep25's cast has two guests, Razeef
+Rakimin already enrolled and Faizal Rahman not, so exactly one name was unclaimed. One
+cluster of 96 tracks held 421s of the 427s of unidentified talking time, which is 99%, and
+the next cluster held 3s. That is the bijection, and it named him. Then `reference` reran
+with no GPU, `unknown face talking` fell from the refusal's level to 19s, and the gate
+passed at 4.7% against 7.3% of the words.
+
+**Read `unknown face talking` before deciding a refusal needs a person.** ep25's was the
+whole of one guest. ep24's is 117s spread thin, its identified rate is only 72%, and its
+gate passes on three speakers, so nothing is missing there.
+
+**ep24 needed nothing, and its two failures were both false.** `split_dry_run` refused,
+which is correct behaviour and not a blocker: the split tool measured its own output as
+slightly worse (15940 words right to 15930) and refused to write. Adoption does not use it.
+The `YB garble` count of 1 is the word `baby` in `rasa macam baby umur 20 tahun`, a real
+English word inside `GARBLE`'s alternation, and it was 1 before adoption too.
+
+**One real find, and it is in the published file rather than the raw.** `check_figures.py`
+now flags ep24's `300 bilion`. The old local-ASR raw wrote `taburan hujan dia dalam satu
+hari berapa? 300 bilion. Alhamdulillah 300ml Sehari`, and rainfall is not measured in
+billions. MAI transcribes the same seconds as `300? 300. 300. Alhamdulillah. 300 mililiter
+sehari`, with no figure word at all. So the adoption fixed a fabricated scale word, and the
+flag is pointing at interview.md, which is one of the 40 stale published files. It clears
+when the rewrite is regenerated.
+
+#### `check_agencies.py`: a trailing hyphen is a self-repair, never a garble (2026-09-15)
+
+ep24 38:32 produced `garbled-agency: raw.md writes 'Jabatan Komuni- Komuniti' where the
+verified name is 'Jabatan Komunikasi Komuniti'`. Reading the sentence killed it. Rafizi is
+correcting himself out loud: `Jabatan Komuni- Komuniti. Komuniti. Komunikasi komuniti. Ha
+kan, J-KOM.` He reaches the roster name two words later. Rule 5 keeps a self-repair, so
+there was nothing to fix, and fixing it would have deleted real speech.
+
+MAI marks a cut-off word with a trailing hyphen, and no roster name has a word ending in
+one, so `garbles()` now breaks on any candidate word ending in `-`. This is the same class
+as ep16's `Kementerian Kerana`, which STOPWORDS closed on 2026-09-12: a checker offering a
+confident agency name for something that is not an agency name at all.
+
+Regression-tested on four inputs, because a guard that silences a real defect is worse than
+the false positive it removes:
+
+| input | reported |
+|---|---|
+| `Kementerian Keuangan akan bayar` (the real Indonesian garble) | yes, offers Kementerian Kewangan |
+| `Jabatan Komuni- Komuniti. Komuniti. Komunikasi komuniti.` | no |
+| `di Kementerian, Kerana kalau betul` (ep16) | no |
+| `Jabatan Komunikasi Komuniti ada lagi.` | no |
+
+Corpus-wide the count went from 1 issue to 0.
+
+#### ep21, ep22 and ep23 adopted, and MAI regressed a DIGIT this time (2026-09-15)
+
+**ep21's cast gate produced the largest refusal this project has seen, and no person was
+needed to clear it.** `Dr. Rais Hussin raw 51.3% of words, reference 0.0% of time`. The
+missing speaker was not a minor guest, he was the co-lead of the episode. The reference
+covered only 4468s of a 9574s runtime because more than half the talking was an unnamed
+face.
+
+He is in no `data/_face_gallery_*.json` and speaks in no other episode, so there was nothing
+to merge. `guest_gallery.py` named him anyway: 71 tracks held 4500s of the 4505s of
+unidentified talking time, which is 100%, and exactly one guest name was unclaimed. After a
+`reference` rerun with no GPU, coverage went 4468s to 8917s, 93% of the runtime, and the
+gate passed at 49.9% of the time against 51.3% of the words.
+
+**Three refused cast gates in two days, all closed by the bijection and none by a
+photograph.** ep25's Faizal Rahman at 99%, ep21's Dr. Rais Hussin at 100%, and ep29's Iqbal
+by the gallery merge on 2026-09-14. Try `guest_gallery.py` BEFORE reaching for rule 9's
+photograph path. The photograph is only needed when two or more names are unenrolled, which
+`corpus_status.py` now names per episode.
+
+**MAI regressed a figure, and this is the first measured instance of that.** The known class
+was names: `Izzah` to `Izah`, 194 fixes over 20 episodes. ep21 adds a digit.
+`check_figures.py` flagged `95.6` in the published text with no counterpart in the new raw,
+because MAI transcribes the same words as `90.6% accurate`.
+
+`figure_witness.py` settled it without a human ear, which is what it exists for:
+
+| witness | reads |
+|---|---|
+| pre-adoption local-ASR raw | 95.6 |
+| English caption track, matched at 0.52 by lib_locate | `the last six to 95 6 6 accurate` |
+| MAI, the new raw | 90.6 |
+
+Two independent witnesses against one, under the owner's 2026-09-12 rule. The fix went into
+`fix_proper_nouns.py`, which is the only reviewed map `mai_camera_raw.py` applies during the
+build, so a re-adoption cannot restore 90.6. It is the second figure entry in that map, and
+`fix_published_figures.py`'s own docstring is what says a raw-side digit belongs there.
+
+**Read this part before concluding MAI is the weaker witness.** MAI is better in that exact
+sentence on every other count. The local raw heard `the last six take tu` and `When tengah
+ni`; MAI hears `the last six state tu` and `When Terengganu`, and Terengganu is a state in a
+sentence about six state polls. So the digit had to be measured rather than decided by which
+engine usually wins.
+
+**ep21's second flag is the opposite direction, and it needs no fix.** The published text and
+the old raw both say the BRICS population is `4.2 juta`, 4.2 million. MAI says `4.2
+billion`, and the captions say `4 2 two billion`. MAI is right and the old raw was also
+translating English speech into Malay, which is the known mistranslation defect. The flag
+clears when the published files are regenerated.
+
+#### HANDOFF files are pruned to two, and the rule has a script (2026-09-15)
+
+Four had accumulated: 09-12, 09-13, 09-14, 09-15. Owner's decision: *"why is there
+accumulated handoff md files, just delete those after one session ahead perhaps"*.
+
+The cost was not disk. CLAUDE.md's own opening paragraph still said *"Read
+`HANDOFF_2026-09-13.md` first, then `HANDOFF_2026-09-12.md`"* two days after those stopped
+being the newest, so the file that tells a session where to start pointed at stale state.
+That paragraph now says to read the newest and only the newest.
+
+`scripts/prune_handoffs.py` keeps the newest two and deletes the rest, ordered by the DATE IN
+THE FILENAME rather than by mtime, because reading or copying a file changes its timestamp.
+Two rather than one, because the newest can be half-written when a session ends
+unexpectedly. The session-closing checklist hook now runs it as part of step 5, so the rule
+has a mechanism instead of depending on someone noticing the pile.
+
+Checked both deleted files for anything durable first. ep09-12's process-failure section is
+in memory as `feedback_no_em_dash.md` and the Stop hook now enforces it. ep09-13's standing
+decision, reprocess with the camera and never hand-patch a local raw, is in CLAUDE.md's
+no-mechanism list and in memory.
+
+#### The adoption sequence had a missing second pass, and rule 7 went to 1 because of it (2026-09-16)
+
+ep20, ep19 and ep18 adopted clean overnight, every gate passing. Then
+`check_overlap_boundaries.py --all` reported **1 contested** across 46 episodes, after days
+at 0, plus 2 tails.
+
+**The cause is the order of two steps that each change the other's input.** Adoption runs
+`move_hanging_words.py` at step 5 and `merge_same_speaker.py` at step 6. The merge joins
+blocks, so a tail that had a grunt or a short turn after it ends up adjacent to a different
+block than the one step 5 looked at. A second move pass then finds real tails. Measured: one
+each in ep18, ep19 and ep22, all three already adopted and reported clean.
+
+CLAUDE.md rule 6 states the mirror of this and has since ep32: *"Re-run this step AFTER the
+rule 7 move, not only before it."* Rule 8 states the general form. Neither was wired into
+the sequence, so both depended on someone re-running the tool by hand. **Step 6c now does
+it**, and it is the third time this exact class has been found: a rule that exists, is
+written down, and has no mechanism.
+
+**`--camera-veto` is ON at step 6c and off at step 5, deliberately.** Step 5's default was
+measured against the owner's ear 11 of 11 on 2026-09-13, and every one of those 11 was a
+boundary where the camera shows the NEXT speaker during the previous block's last seconds.
+A tail the camera attests to the CURRENT speaker is the other shape and that measurement
+does not cover it. ep18's 1:32:59 is the case, so it is left for an ear rather than moved on
+a rule measured for something else.
+
+#### `fold_hanging_fragments.py`: condition 1 refused the case where its evidence was strongest
+
+ep20 1:47:19 is the SANDWICH shape CLAUDE.md rule 7 names, and the second in the adopted
+corpus after ep48 1:17:30. Haziq reads a press statement listing Malaysia's exports:
+
+    [1:47:05] Haziq:  ...eksport utama Malaysia seperti minyak sawit,
+    [1:47:19] Rafizi: barangan berasaskan getah,
+    [1:47:20] Haziq:  produk koko, komponen dan alat ganti pesawat dan farmaseutikal.
+
+The middle item of Haziq's own list was labelled Rafizi. The camera reads **Haziq for all
+3 seconds**. The fold refused it anyway, because condition 1 was "the camera covers NONE of
+the fragment's seconds" and any attestation disqualified the fragment.
+
+**Condition 1 now has a second branch, and it is strictly safer than the first rather than a
+loosening.** Condition 1 exists to stop a minority speaker being deleted when the camera
+says they really did finish someone else's sentence. That danger requires the camera to
+attest a DIFFERENT name from the neighbours. Where every attested second votes for the SAME
+name that sits on both sides, the camera corroborates the fold and only the fragment's own
+label dissents.
+
+**A guard had to come with it, and ep18 is why.** The new branch made
+`[1:29:34] Haziq: Baik. Kandungan pengajaran` a fold candidate. That block is Haziq's own
+`Baik.` followed by the start of Rafizi's sentence, so folding the whole thing would have
+given Rafizi a word Haziq said. A sentence ending INSIDE the fragment means two sentences
+and possibly two speakers, which is `move_hanging_words.py`'s partial-tail case. The fold
+now skips any fragment containing `[.?!]` followed by a space.
+
+Regression-checked as a dry run on eleven adopted episodes before writing anything. Only
+ep20 gains a fold. ep61's nine camera-attested fragments, the safety case this condition was
+built for, are still counted as attested and left alone.
+
+#### Auditing owner decisions: do NOT pass a guessed `--current` (2026-09-16)
+
+`check_owner_decisions.py` takes `--current <the raw the decisions were recorded against>`.
+A standalone re-audit has to either pass the right file or pass none. Passing a GUESSED one
+produces false verdicts in both directions, and this is worth recording because a false
+MISMATCH is worse than no record.
+
+Measured on the same corpus, same minute, three ways:
+
+| `--current` | preserved | partly | MISMATCHED | not locatable |
+|---|---|---|---|---|
+| none | 108 | 8 | 0 | 24 |
+| guessed `data/_old_<tag>_raw.md` for every tag | 120 | 8 | **2** | 10 |
+
+Both ep61 "mismatches" under the guess are false. `ep61_farhan_restore@2:51:15` reports a
+disagreement at 2:50:42, and the raw holds `[2:51:42] Farhan (Pa'an): Tak, maps, maps lain.`
+exactly as ruled; the anchor text is the OLD raw's wording and lib_locate fuzzy-matched it
+into a long Rafizi block. `ep61_from_owner_gold@01:55` reports Rafizi, and the raw holds
+`[01:55] Haziq: Okey. Okey, baik YB.` as ruled; that anchor's words belong to Rafizi's 01:36
+turn, so the recorded text is wrong for that stamp, not the label.
+
+**The authoritative run is the one inside `adopt_mai_camera_raw.py`**, at the moment of
+adoption, where `--current` is the committed raw the decisions were actually recorded
+against. ep20 demonstrates the difference: preserved inside adoption, 1 not locatable in a
+standalone run with no `--current`.
+
+#### `check_owner_decisions.py`: the fallback chain was missing its last link
+
+ARCHITECTURE.md has described this gate's chain as `text_now`, then
+`text_was_startswith`, then `text_was`, then "whatever block sits at the stamp". The last
+link only ran when the record had NO text at all. A record whose text existed but fell under
+the two-word minimum printed `cannot locate` and stopped.
+
+That two-word minimum was added 2026-09-15 for a good reason: a one-word snippet matches
+everywhere. It had a side effect nobody measured.
+
+  - **ep34 2:04:29** carries `0.0179`, one token. The block on that second is Haziq, exactly
+    as the owner ruled. Now reported `preserved at the stamp`.
+  - **ep19 1:43:04** carries `text_now: "Hmm"`. MAI transcribes those seconds as `No.` and
+    the block IS Haziq as ruled. Two blocks share that second with different names, so the
+    stamp alone cannot say which turn the owner meant. Reported `AMBIGUOUS, kept`, the same
+    verdict a two-word snippet sitting in two blocks already gets.
+
+**The condition is strict, so this verifies rather than waives.** Exact label match at the
+stamp counts as preserved; the owner's label merely being present counts as ambiguous-kept;
+a different label still reports, and so does a second with no block. Corpus-wide the
+not-locatable count went 25 to 24 while three more episodes were adopted.
+
+#### The owner's two rulings, and one of them corrected my method (2026-09-16)
+
+**ep18 1:32:59. Owner: all Rafizi, and the camera could have told me.** Their words:
+*"the first one is all rafizi, theres no Haziq at all in there. heck, this can be verified
+with video evidence, dont need me to verify"*. They are right, and I escalated a boundary
+the camera had already settled.
+
+The mistake was reading only the boundary seconds, which is what
+`check_overlap_boundaries.py` prints. Reading the WHOLE span answers it:
+
+    1:32:59-1:33:25   Rafizi 26/26
+    1:33:25-1:33:29   Rafizi 2, uncovered 2      <- the block labelled Haziq
+    1:33:29-1:33:32   Rafizi 3/3
+
+Haziq appears nowhere. `Yang itu tidak, tidak belum, belum kita dengar secara
+menyeluruhlah kan.` is one Rafizi sentence MAI cut in two, and the second half took a Haziq
+label from the fallback. `move_hanging_words.py` wanted to move the TAIL INTO Haziq, which
+is the wrong direction entirely. The fix is to give Haziq's block to Rafizi, and it is in
+`data/forced_labels.json`.
+
+**BEFORE ESCALATING A BOUNDARY, READ THE CAMERA ACROSS THE WHOLE SPAN.** Rule 9's principle
+is that the tools come first, and rule 8's residue is only what they cannot settle. A
+boundary print is not the whole evidence.
+
+**ep19 23:21. Owner: Haziq, starting at `tapi kita ada segmen keras sangat`.** Two
+independent signals corroborate them, so this is not their ear alone. The `YB ya` vocative
+at MAI word-time 1418s addresses Rafizi, so the speaker is not Rafizi, and that vocative
+scored 6/6 against the camera's 0/8 in this corpus. And the camera reads Haziq 4s over
+23:41-23:51 and 9s over 23:51-24:01, covering the parliamentary question being read out.
+The camera shows Rafizi through 23:41 because the cut lags speech by about two seconds and
+Rafizi's `Memali.` ends at 1410s, which is rule 7's own measured finding.
+
+Recorded as two rules so the whole handover moves, including the one-word `Okey.` at 23:34
+that the owner's quote includes. MAI hears `tuduh statement` where the owner hears `segmen`,
+so the anchors use MAI's words.
+
+#### A short block labelled against the only talking face: 457 of them, and I had the camera wrong
+
+**CORRECTION, same day.** An earlier version of this section said the camera cannot settle a
+backchannel and that there was "no tool to build for it". Both were wrong, and the owner
+caught it: *"no haziq at all, its all Rafizi. Haziq just hmm hmm humming. this also can be
+clarified via video"*.
+
+**The camera reference is LR-ASD lip-sync, not the cut.** `camera_speakers.py` drops a second
+where the visible face's mouth is shut and counts it as `on-screen-but-silent`. Its own
+docstring says so. So a second labelled Rafizi does not mean "the shot was on Rafizi"; it
+means Rafizi's mouth produced that audio. I reasoned from the wrong premise and told the
+owner the camera was blind here.
+
+**ep18 1:35:02, checked properly.** `data/_camera_tracks_KbbtwFgvTmw` holds exactly ONE face
+track across 5698-5707, scoring 1.09 to 3.41 in every second. One person visibly talking for
+ten straight seconds. MAI's word times put `podcast.` at 5701.4, `Kan?` at 5703.0 and `Jadi`
+at 5703.2: one continuous utterance. The candidate held TWO blocks on that second, `Haziq:
+Hmm.` and `Haziq: Kan?`. The humming is Haziq's and the tag question is Rafizi's, exactly as
+the owner described. Recorded in `data/forced_labels.json`.
+
+**THE SIZE OF THE CLASS, measured.** The test is: a block of three words or fewer, the same
+name on both sides, the camera naming that neighbour, exactly one face track on screen, and
+its lip-sync score positive in every second of the block.
+
+    710  short dissenting blocks measured across 46 adopted episodes
+    527  have exactly ONE face track on screen
+    457  of those have that one mouth moving in EVERY second of the block
+      4  of the 457 contain a `YB` vocative, so that speaker is not Rafizi
+     43  episodes affected; ep33 holds 63, ep57 25, ep38 24
+
+**IT DOES NOT MEET RULE 8's BAR, AND MUST NOT WRITE YET.** Only a witness measured at 100% on
+its held-out class may write a label. Cross-checked against every recorded owner ruling with
+matching text, the test has exactly two data points:
+
+| moment | owner | the test | note |
+|---|---|---|---|
+| ep18 1:35:02 `Kan?` | Rafizi | Rafizi | agrees |
+| ep53 29:58 `Okey. Baik, YB.` | Haziq | Rafizi | CONTRADICTS, and it carries a `YB` vocative |
+
+One for, one against. The vocative guard would exclude the failure, which leaves one for and
+none against, and n=1 is not a class. The precedent for authorising a tool like this is
+rule 7's tail: the owner ruled 11 boundaries, the camera matched 11 of 11, and only then was
+the tool allowed to write.
+
+**A METHOD WARNING, because the first validation pass was noise.** It matched any ruling whose
+text CONTAINED the block's text, and these blocks are one word, so ep61's `Ya.` matched 15
+unrelated rulings and produced "42 agrees, 29 contradicts". Both numbers were meaningless.
+Require the ruling's normalised text to EQUAL the block's text. This is the same defect memory
+records as "anchor patterns tightly".
+
+**Word-gap timing does NOT separate the classes**, tested rather than assumed. Measured on
+ep18's 20 cases from MAI's word times, the gaps around `Kan?` are 0.30s and 0.10s, which is
+mid-distribution: `Kan.` at 1:27:23 is 0.02s/0.26s and `Jepun.` at 1:27:40 is 0.12s/0.02s,
+both ordinary backchannels. No threshold works, so the lip-sync test is the only candidate.
+
+**Rule 1 of `mai_camera_raw.py` stays as it is until that measurement exists.** Its stated
+reason, that the camera "is wrong about it by construction", is false for the one-face case,
+and its conclusion may still be right for the rest. 453 relabels on one confirmed example
+would be exactly the bulk write this repo has been burned by before.
+
+#### `drop_orphan_backchannels.py`: the owner's answer to an unattributable turn (2026-09-16)
+
+After the blind sample scored the lip-sync test at 12 of 19, the owner asked the question
+that dissolves the problem instead of solving it: *"actually anything offscreen, and the word
+is just not adding in to anything, we can just safely omit?"*
+
+**Half of that is not mechanisable and half is.** Nothing can detect "offscreen", which is
+the whole finding: the camera is LR-ASD lip-sync, it credits the one visible talking face,
+and no threshold separates the two cases. But "the word adds nothing" is decidable from a
+closed lexicon. So the tool drops the contentless subset and leaves the rest alone.
+
+Measured across every adopted raw.md, short turns sitting between two blocks of the same
+other speaker:
+
+    231  a pure acknowledgement           -> dropped
+     52  borderline, the owner's call     -> left alone, lexicon deliberately excludes them
+   1197  carry content                    -> left alone, rule 8 residue for an ear
+
+First pass removed **169 turns and 193 spoken words across 37 files**, with no word added
+anywhere. Adoption runs it at step 6d, then merges again, so a re-adoption reproduces it.
+
+**The excluded 52 are excluded for a reason each.** `Betul.` (14), `Ya, betul.` (8), `Kan.`
+(5), `Kan?` (4), `Setuju.` (3), `Alhamdulillah.` (3), `Right?` (2). `Setuju.` means "I
+agree", which is a stance rather than a signal. `Alhamdulillah.` is a religious expression.
+`Kan?` is often the MAIN speaker's own tag question, which the owner's ep18 1:35:02 ruling
+established. Widening the lexicon deletes from the verbatim source and needs the owner.
+
+**Condition 2 is what makes this safe, and it is easy to miss.** The block either side must
+carry the SAME name, and not this block's name. Without it, dropping every `Okey.` would
+delete Haziq's real segment handovers, and `Okey, baik YB, selesai` is a turn rather than a
+backchannel.
+
+**TWO GUARDS EARNED THEIR PLACE ON THE FIRST RUN.**
+
+1. **It refuses a raw.md that does not declare `model: microsoft/MAI-Transcribe-2`.** The
+   first corpus-wide dry run offered to edit ep07, ep08, ep10, ep11 and ep14, none of them
+   adopted. Excluding `model: mesolitica` is not enough: ep07 and ep10 carry no `model:` line
+   at all, which is `check_raw_engine.py`'s `raw-engine-unknown` case. Requiring the MAI
+   build positively is the only test that holds. **This closes one of the two rules CLAUDE.md
+   listed as having no mechanism.**
+2. **The word-conservation guard refused the first write attempt, correctly.** It compared
+   the removed text against the whole removed BLOCK, so the stamp and the speaker name read
+   as unexplained losses: `extra={'Haziq': 3, '24': 1, '28': 1, ...}`. The tool exited 1 and
+   wrote nothing. A loop that had read the printed count instead of the exit status reported
+   "DROPPED 169" while the corpus was untouched, which is worth remembering: **read the exit
+   status, not the summary line.**
+
+**Seven turns were skipped because an owner decision names them**, including ep39's `Ya.`
+labelled Iqbal and ep42's `Yep.` labelled Zikri Kamarulzaman. Condition 5 prints them rather
+than removing them silently. Those rulings answered "who said it", not "should it stay", so
+they are a genuine conflict for the owner rather than something to resolve by inference.
+
+
+#### The stance turns are kept and labelled `Speaker ?` (2026-09-16)
+
+Owner's ruling on the 52 the drop lexicon deliberately excluded: *"leave the 52 then. think
+the betul, setuju, kan etc is an answer of their own. and we cant identify whose speaking,
+just leave is Speaker ?"*
+
+That is CLAUDE.md rule 8's own convention, applied rather than invented. The turn carries
+meaning, so rule 5 keeps it. No evidence can name it, so the label becomes the repo's
+per-turn unknown instead of a wrong name. `drop_orphan_backchannels.py` grew a second closed
+lexicon, `STANCE`, and a second verdict.
+
+**33 relabelled, not 52.** The 169 drops and the merges that followed changed adjacency, so
+19 of the original 52 no longer sit between two blocks of the same other speaker. The shape
+condition is evaluated on the file as it stands, which is correct.
+
+**Five were credited to a named GUEST, and that is the worse error.** Wong Chen (3), Nik
+Nazmi (4), Amir Sahmat, Zaim Zulkifli and Iqbal each lost a false attribution. Putting
+`Betul.` in a guest's mouth is a claim about a real person; `Speaker ?` is not.
+
+**Guards: labels only.** The relabel refuses unless the exact block line appears once, and
+two separate counters assert the change. One compares every word in the file, expecting only
+the old speaker names to leave. The other compares SPOKEN words alone, because the first
+cannot tell a speaker name from a spoken word. Measured on the real run: 16 files, 0 spoken
+words lost, 0 gained.
+
+**`check_published.py` had to learn about them, and the first attempt was wrong.** Its
+`raw-unnamed-speaker` advice is "identify the speaker", which is exactly what must not
+happen here. It now subtracts the deliberate unknowns by importing
+`drop_orphan_backchannels.is_stance`, so the rule lives in one place and the two cannot
+drift. A first version also emitted its own informational signature, and `qa_check.py`
+folded that in as an issue: the flagged count went 35 to 47 across 16 episodes with nothing
+wrong in any of them. An inflated count is the same defect as a false MISMATCH, so the
+informational line was removed and only the exclusion kept. Back to 35 of 70.
+
+### Unattended adoption, and the NTFS trap that blocked 12 episodes (2026-09-16, fixed 2026-09-17)
+
+**`overnight_corpus.py` adopts without a person reading each diff.** That is a deliberate
+departure. `nightly_recut.py` states at the top that it "Writes NOTHING to episodes/" and
+that adopting is "a morning decision, taken after reading the diff, never by this script".
+The owner changed the instruction: *"can we get the leftover episode by today? dont wait
+for me, do one episode then move on to the next. Anything that need my clarification after
+all else fails, bring it after the corpus is done so I can verify"*.
+
+Three things made it safe enough to obey. The cast gate stops a blind reference at step 0.
+The owner-decision gate stops a broken ruling at step 2. And `adopt_mai_camera_raw.must()`
+now reads every write step's exit code, which landed the same day after ep61 shipped 704
+filler words because a refusal was printed and then ignored.
+
+It never passes `--force-blind-reference`, never uses `git commit --no-verify`, and never
+retries a refusal with a looser flag. A refusal ends that episode and the loop moves on.
+Everything refused lands in `data/_overnight_report.md` for one conversation at the end.
+
+#### A colon in a tag became an NTFS alternate data stream
+
+**12 episodes could not run through this pipeline, and the filesystem was the reason
+rather than the models.** `ep01` through `ep06` exist in BOTH shows, so
+`common.raw_for_tag` refuses the bare tag and asks for `ep05:bakar`. Every artifact in the
+camera path is named from the tag: `data/camera_ref_<tag>.rttm`, `data/camera_ref_<tag>.uem`.
+
+Measured on 2026-09-16, writing `data/camera_ref_ep05:bakar.rttm`:
+
+```
+target exists: True
+BASE file created instead: True 0
+listing match: ['_colon_test2_ep05']
+```
+
+The content went into a hidden `:bakar.rttm` **alternate data stream** on a 0-byte file
+called `camera_ref_ep05`. `Path.exists()` returned True throughout, a directory listing
+showed only the empty file, and git would have committed the empty one. So nothing would
+have reported a problem: the reference would read as present, be silently empty, and the
+adoption would run against nothing.
+
+`overnight_corpus.remaining()` therefore excluded any tag that matched two episodes, and
+said why at the exclusion.
+
+#### FIXED 2026-09-17: `common.artifact_tag()`, plus a test so the 31st site cannot miss it
+
+`common.artifact_tag(tag)` returns the filesystem-safe form, `ep05:bakar` to
+`ep05-bakar`. It is for ARTIFACT NAMES ONLY. `common.tag_from_artifact()` reverses it.
+Two tools need that reverse, because they discover episodes by globbing those names:
+`check_camera_reference.py --all` and `check_overlap_boundaries.py --all`. The episode
+tag itself keeps the colon everywhere else, because `raw_for_tag` and `resolve_tag`
+already take that form.
+
+The fix changed 30 sites across 22 scripts. The camera and adoption path holds most:
+`adopt_mai_camera_raw.py` (the reference, the `_old_` copy, the candidate),
+`mai_camera_raw.py`, `nightly_recut.py`, `overnight_corpus.py`, `corpus_status.py`,
+`check_camera_reference.py`, `check_overlap_boundaries.py`, `fold_hanging_fragments.py`,
+`move_hanging_words.py`, `name_generic_blocks.py`, `voice_witness.py`. The rewrite and
+diagnostic scripts carry the rest.
+
+Four things the fix turned up, none of them the colon itself:
+
+1. **`check_camera_reference.py` exited 0 on a missing reference.** It printed `no
+   reference at ...` and counted nothing. A caller reading only the exit code therefore
+   read "usable". A named tag with no reference now counts as refused. The no-argument
+   sweep still exits 0, because there nothing was asked for.
+2. **`check_owner_decisions.py` globbed the bare tag** and would have died with `0
+   episodes match ep05:bakar` at adoption step 2. It reads `common.raw_for_tag` now.
+   `guest_gallery.py` had the same line.
+3. **`corpus_status.py` showed one row per folder but looked up one reference per bare
+   tag**, so both ep05 rows read the same file, and the ready and waiting lists printed
+   tags no tool accepts. The tag carries its show there now.
+4. **`overnight_corpus.remaining()` qualifies instead of dropping.** The queue went from
+   3 episodes to 15, which is every unadopted episode `check_raw_engine.py` names.
+
+**A second pass traced what the chain and the adoption actually invoke, and found four
+more.** The colon was never the problem in these. Each one resolved the tag by globbing.
+
+`merge_same_speaker.py` is the one that matters, because it failed in silence.
+`--episode=ep06:berhenti` was tested as `only not in d.name` against a folder slug, so it
+matched NO folder, and the run touched nothing and printed no error. Rule 6 would have
+gone unenforced on all twelve episodes. The filter is now an exact folder from
+`common.raw_for_tag`, so a bare ambiguous tag refuses and names its candidates. That is
+the opposite of the trap at the top of that file, where a bare tag edited every episode.
+
+`split_mixed_blocks.py` and `score_attribution.py` exited `no raw.md`, and
+`verify_speaker_voiceprint.episode_dir` raised `matched 0 episode folders`, which took
+`voice_witness.py` down with it. All three read `common.raw_for_tag` now.
+`score_attribution.py` needed `from common import raw_for_tag` rather than `import
+common`: `common` is already a local in its `main()`, holding the set of seconds every
+system labelled, so the module was shadowed and the first run raised
+`UnboundLocalError`.
+
+**The mechanism is `scripts/test_tag_paths.py`.** A fix applied by hand at 30 sites is a
+fix the 31st site will miss. The test round-trips the two helpers first. It then scans
+`scripts/*.py` for an f-string that puts a tag placeholder next to a filename extension
+or a path separator. A line holding `artifact_tag` passes. Globs against `episodes/` pass
+too, because a glob is not a filename. To check the test itself, add
+`f"data/camera_ref_{tag}.rttm"` to any script: it failed with that file and line, and it
+passed again once the line was gone.
+
+**One bug in `overnight_corpus.py` itself is worth keeping, because it is the same class.**
+Its `run()` helper returned `out[-tail:]` with a 4000-character default, and
+`remaining()` parsed that truncated text. The six `yang-bakar-menteri` rows sit at the TOP
+of `check_raw_engine.py`'s listing, so they were cut, and the function reported 13
+unambiguous tags when the answer is 9. It had never seen the duplicates it existed to
+exclude. `tail=0` now means do not truncate.
+
+### `check_cast.py` stripped one honorific, and Malaysian titles come in stacks
+
+Found on 2026-09-17 during a session-close audit. `check_cast.py` reported ep02:bakar as
+`missing-from-cast`: raw.md labels `Prof. Barjoyai`, while `guests:` holds
+`Prof. Emeritus Dr. Barjoyai Bardai`. Rule 3 says exactly this shape is correct, because
+the frontmatter takes the full name and the body stays verbatim.
+
+The gate has an extension test for it, and the test could not see the match. Its
+`HONORIFIC` pattern was anchored and unquantified, so it removed `Prof. ` and stopped.
+`Emeritus Dr. Barjoyai Bardai` is not a prefix of `Barjoyai` in either direction. The
+pattern now repeats over a run of titles and knows `Emeritus`. The loop then retries the
+extension test on the stripped forms.
+
+**Why it matters beyond one episode.** A false finding trains the next session to read
+that gate as noise. The cast check exists to catch a real one: raw.md naming a person the
+frontmatter never lists. ep02's name is not that, and it was the only finding the gate
+had. Corpus-wide the count is now 0 of 70.
+
+One care point in the widening. `bare` at the same line feeds the separate ABSENT
+signature. That signature needs the cast AND the speakers. Splitting out a cast-only set
+without keeping `bare` raised a `NameError` on the first run.
+
+### ep00 is a wide stage shot, so the face detector was blind to it (2026-09-17)
+
+ep00 is the pilot, recorded live in a hall on 2025-05-10, not in the studio. The camera
+sits at the back and holds a wide two-shot. The title screen fills the top third of the
+frame and a face is about 20 pixels tall.
+
+YuNet cannot detect a face that small. That is the whole of the reference's
+`no face 2960s` out of a 7938 second runtime, and of Haziq landing on 51 seconds, 1.2% of
+the reference, against 8.7% of raw.md's words. `check_camera_reference.py` refused the
+reference, correctly, and the episode was adopted under `--force-blind-reference`.
+
+**Cropping the stage strip and upscaling it makes the same frames readable.** The command
+that proved it, on clips already in `data/frames_cache/`:
+
+```
+ffmpeg -i <clip> -vf "fps=1,crop=150:170:195:100,scale=600:-2,tile=5x1" out.png
+```
+
+The face, the glasses and the microphone at the mouth all become clear. So the camera
+signal was present the whole time and the detector never saw it.
+
+**Read this as a class, not as one episode.** Any live or stage episode has the same
+framing, and the detector has been silently blind to all of them. ep05:berhenti came out
+of the chain the same day at 7% identified and 35% coverage, which is the same signature.
+The fix to build is a crop-and-upscale pre-pass: detect on the enlarged strip, then map
+the box back to full-frame coordinates. For ep00 that would replace 56% confident
+coverage with a real reference, at the cost of one more camera pass of about 88 GPU
+minutes.
+
+#### What the zoom settled, and the two labels it could not
+
+The owner's ruling at `[05:42]` is the identity anchor. Haziq is the man in the maroon
+polo with glasses on the left; Rafizi is in the patterned batik on the right. From there
+the zoom read four blocks the reference had wrong, all of them in the forum section where
+the public asks questions from the floor:
+
+| block | was | is | evidence |
+|---|---|---|---|
+| 1:51:44 | Audience | Rafizi | he lifts the mic to his mouth at 1:51:45; Haziq's is in his lap |
+| 2:02:17 | Haziq | Rafizi | Rafizi on mic for all five seconds; the caption runs the sentence through the split |
+| 1:50:50 tail | Haziq | Audience | Haziq lowers his mic at 1:51:03, as the tail's first word lands |
+| 1:57:51 tail | Haziq | Audience | same shape, 1:58:03 |
+
+Two more needed the owner's ear, because the camera looks away at both. `[2:11:29]` cuts
+to the wide hall 0.4 seconds before the words start, and `[1:12:20]` is a reaction shot
+of Rafizi listening while the interviewer speaks off frame. The owner ruled Rafizi and
+Haziq. Both are recorded in `data/speaker_adjudications.json` under
+`ep00_owner_ruled_2026_09_17`, and all five enforceable changes are in
+`data/forced_labels.json` under `ep00`, so a rebuild keeps them.
+
+**One trap in writing those rules.** `mai_camera_raw.py` applies its own name corrections
+BEFORE `force_labels()`, so an anchor carrying a name the map rewrites fails on the next
+rebuild. The 1:50:50 anchor originally ran through `Haziq Asfar`, which
+`fix_proper_nouns.py` now corrects to `Haziq Azfar` at the owner's word. Stop an anchor
+short of any name a map can touch.
+
+### Two `check_published.py` flags fired on correct work (2026-09-17)
+
+Both surfaced the first time a MAI adoption met a fresh regeneration, and each one pointed
+a session at work that was already right.
+
+**The `Speaker ?` exclusion was inverted.** The published-placeholder flag asks whether
+raw.md carries `Speaker ?` itself, and it asked `raw_generic` after the raw-side loop had
+already subtracted the deliberate unknowns and deleted the key. So an episode whose
+unknowns are ALL deliberate lost the key and had its published files flagged, while an
+episode with a mix kept the key and was excluded. ep08, ep11, ep18, ep19 and ep21 were
+each reported for faithfully copying out a label the owner asked for: `Betul.`, `Kan.`,
+`Alhamdulillah.`, every one from the STANCE lexicon in CLAUDE.md rule 5. Fixed by
+capturing `raw_has_unknown` before the subtraction. The ep33 case it exists for still
+fires: there the published file prints `Speaker ?` while raw.md holds none.
+
+**`Audience` is a sanctioned label and was being reported as a gap.** CLAUDE.md rule 9
+says so in as many words. `Multiple speakers` never reached the flag because
+`label_drift_audit.GENERIC` does not list it, so only `Audience` was ever caught, and
+ep00's 20 turns came back as `raw-unnamed-speaker` telling the reader to go and identify
+a member of the public with video frames. The same comparison missed that
+interview-ms.md's `Hadirin` and raw.md's `Audience` are one concept, so the faithful
+translation read as the rewrite discarding a name. A `SANCTIONED` prefix pattern now
+covers all three role words in both places.
+
+Corpus-wide, `check_published.py` went from 12 flagged episodes to 7. Nothing was masked:
+ep31, ep41 and ep61 still report a published `Speaker ?` their raw.md does not support,
+and all three are in the regeneration queue.
+
+### `move_hanging_words.py --write` refused a whole batch when two moves chained (fixed 2026-09-18)
+
+ep11 held four movable tails and `--write` refused all of them with `REFUSING: '[1:30:31]
+Iqbal: think apakah ...' is not unique`. The anchor was unique in the file. The tool applied
+the moves in stamp order against a running copy of the text, and the third move (1:30:24
+into 1:30:31) rewrote the 1:30:31 header to carry the new stamp and the moved words. The
+fourth move (1:30:31 into 1:30:42) then looked for the old 1:30:31 header, found zero
+copies, and the `!= 1` guard reported it as "not unique". Nothing was written, so ep11's
+four tails and ep10's seven sat in the adopted raw after adoption reported success, and the
+handoff recorded it as "refuses a whole batch when one anchor is not unique".
+
+The fix is one word: the loop now runs `reversed(moves)`. A move only rewrites its own
+block's tail and the NEXT block's header, so applying the latest move first leaves every
+earlier anchor intact. Two moves that chain (B receives A's tail and gives its own tail to
+C) are the only case the order matters for, and reversed order handles it. The word-order
+guard and the stamp-order guard run unchanged after the loop. Result: ep11 4 tails and
+ep10 7 tails moved, rule 7 went 6 contested to 2, and the two left (ep06:berhenti) are
+shapes no tool moves: a whole block the camera reads as the first speaker, and a next
+block whose HEAD belongs to the previous speaker.
+
+### ep06:berhenti's two contested boundaries, ruled by ear (2026-09-18)
+
+The two `?t=` links from the previous section's fix went to the owner. Both rulings
+were confirmed against the camera before writing, per rule 4's evidence order.
+
+**29:36, a WHOLE-BLOCK relabel, not a tail move.** The block was labelled Zaim Zulkifli
+and reads as Rafizi continuing his own previous sentence: "...subjected to the collective
+responsibility, responsibility kepada kementerian," (29:27, Rafizi) into "responsibility
+kepada stakeholders yang berjuta-juta ni." (29:36). Owner: "Rafizi speaking. can check
+with camera reference." The rttm reads Rafizi across 1774-1782s, spanning the block.
+Relabelled and merged into the 29:27 block under rule 6.
+
+**36:26, a HEAD move, the mirror of the tail case `move_hanging_words.py` already
+handles.** Zaim's 36:18 block ends mid-sentence with no terminal punctuation ("...bukan
+si- sistem, simptom"); the sentence's completion, "yang sebenarnya menjadi enabler
+kepada sistem itu.", was sitting at the START of the next block (Rafizi, 36:26) instead
+of the end of Zaim's. The tool only looks for a tail hanging off the END of a block, so
+it never proposed this move. Moved by hand, guarded the same way: exact substring,
+asserted unique, word order preserved. Camera reads Zaim_Zulkifli across 2178-2186s
+(the sentence's completion) and Rafizi from 2190s, consistent with the ruling.
+
+Both recorded in `data/speaker_adjudications.json` under
+`ep06:berhenti_rule7_owner_ruled_2026_09_18`. `check_overlap_boundaries.py --all` is
+back to 0 contested corpus-wide.
