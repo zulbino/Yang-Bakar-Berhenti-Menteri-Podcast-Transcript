@@ -9,7 +9,10 @@ of the wrong real people, and insults in the mouths of people who never said the
 
 ## Why a machine made these
 
-I do not like generative AI. I used it because otherwise this archive would not exist.
+I refuse to use AI image generators. They are built on stolen art, and what they make is
+poor. Transcription is different. The model listens to a public recording and writes down
+what was said. Nobody's creative work is taken, and the result is checked against the
+source.
 
 The corpus is 72 episodes and 181 hours. The speakers switch between Malay and English
 inside one sentence, and often three people talk at once. Transcribing that by hand is
