@@ -5,15 +5,15 @@ WHY. Google indexes the transcript files directly. On 2026-09-10 the second resu
 in a three-hour transcript with no episode name, no date and no way back to the rest of the
 archive. The files are the front door for most arrivals, so each one has to introduce itself.
 
-WHAT IT WRITES, and both are safe to re-run:
+WHAT IT WRITES, safe to re-run:
 
   1. A navigation block in every raw.md and interview*.md, between the frontmatter and the
      file's own H1. It carries the show name, the episode number, the title, the date, the
      length, a link to the video, links to the episode's other three files, and links back to
      the archive. The block sits ABOVE the `# Raw Transcript` heading on purpose: fourteen
      scripts read the body by splitting on that heading, so nothing downstream sees this.
-  2. A README.md in each of the two run folders. GitHub renders a folder's README under its
-     file list, so `episodes/yang-berhenti-menteri/` stops being 63 unexplained folder names.
+  It used to write a README.md in each series folder too. The owner removed them on
+  2026-09-28 as redundant with the main README, which lists every episode by series.
 
 The block is delimited by HTML comments, which GitHub does not render, so a second run
 replaces it exactly instead of stacking copies.
@@ -41,9 +41,9 @@ FILES = [("raw.md", "verbatim raw transcript"),
          ("interview-en.md", "interview in English"),
          ("interview-ms.md", "interview in Bahasa Melayu"),
          ("transcript.md", "cleaned transcript, original mixed language")]
-RUNS = {"yang-berhenti-menteri": ("Yang Berhenti Menteri", "2025 rename onward"),
-        "yang-bakar-menteri": ("Yang Bakar Menteri", "the 2024 run"),
-        "siri-forum-bersama": ("Siri Forum BERSAMA", "public forums, 2026")}
+RUNS = {"yang-berhenti-menteri": "Yang Berhenti Menteri",
+        "yang-bakar-menteri": "Yang Bakar Menteri",
+        "siri-forum-bersama": "Siri Forum BERSAMA"}
 
 
 def field(text, name):
@@ -79,7 +79,7 @@ def episode_meta(folder):
     return {
         "folder": folder,
         "run": run,
-        "show": RUNS.get(run, (run, ""))[0],
+        "show": RUNS.get(run, run),
         "number": number.group(1).lstrip("0") if number else "",
         "title": clean_title(field(head, "title")),
         "date": field(head, "publish_date"),
@@ -100,8 +100,7 @@ def block_for(meta, current):
             f"This episode: {others}  \n"
             f"The archive: [all episodes](../../../README.md) · "
             f"[in Bahasa Melayu](../../../README.ms.md) · "
-            f"[how these were made](../../../METHODOLOGY.md) · "
-            f"[this run](../README.md)\n"
+            f"[how these were made](../../../METHODOLOGY.md)\n"
             f"{END}\n\n")
 
 
@@ -133,38 +132,6 @@ def main():
             if a.write:
                 assert NAV.sub("", fresh).split("\n# ", 1)[1] == rest, "transcript changed"
                 path.write_text(fresh, encoding="utf-8")
-
-    # One index per run folder.
-    for run, (show, note) in RUNS.items():
-        rows = [m for m in metas if m["run"] == run]
-        if not rows:
-            continue
-        rows.sort(key=lambda m: m["date"], reverse=True)
-        lines = [f"# {show} — transcripts",
-                 "",
-                 f"{len(rows)} episodes, {note}, newest first. Every episode folder holds the "
-                 "verbatim raw transcript and three interview edits: the original mixed "
-                 "Malay/English, one in English, one in Bahasa Melayu.",
-                 "",
-                 "Back to [the whole archive](../../README.md) · "
-                 "[Bahasa Melayu](../../README.ms.md) · "
-                 "[how these were made](../../METHODOLOGY.md)",
-                 "",
-                 "| Ep | Date | Title | Length | Transcripts |",
-                 "|---|---|---|---|---|"]
-        for m in rows:
-            folder = Path(m["folder"]).name
-            links = " · ".join(
-                f"[{'raw' if n == 'raw.md' else n[10:-3].strip('-') or 'mixed'}]({folder}/{n})"
-                for n, _ in FILES if os.path.exists(os.path.join(m["folder"], n)))
-            lines.append(f"| {m['number']} | {m['date']} | [{m['title']}]({folder}/) "
-                         f"| {m['duration']} | {links} |")
-        out = "\n".join(lines) + "\n"
-        path = ROOT / "episodes" / run / "README.md"
-        if not path.exists() or path.read_text(encoding="utf-8") != out:
-            touched += 1
-            if a.write:
-                path.write_text(out, encoding="utf-8")
 
     print(f"{len(metas)} episodes, {touched} file(s) "
           + ("written" if a.write else "would change -- pass --write"))

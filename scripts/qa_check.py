@@ -798,7 +798,29 @@ def ep_label(slug):
     return tag
 
 
+# The checklist is grouped by series, in this order (owner, 2026-09-28).
+SERIES = [("yang-berhenti-menteri", "Yang Berhenti Menteri"),
+          ("yang-bakar-menteri", "Yang Bakar Menteri"),
+          ("siri-forum-bersama", "Siri Forum BERSAMA")]
+
+
+def by_series(items):
+    """[(series name, [(slug, value), ...]), ...] for every series that has an item."""
+    run = {d.name: d.parent.name for d in EPISODES_DIR.glob("*/*") if d.is_dir()}
+    groups = []
+    for folder, name in SERIES:
+        members = [(s, v) for s, v in items if run.get(s) == folder]
+        if members:
+            groups.append((name, members))
+    return groups
+
+
 def render_table(results, benign, root):
+    return "\n\n".join(f"### {name}\n\n" + render_rows(dict(members), benign, root)
+                       for name, members in by_series(sorted(results.items(), reverse=True)))
+
+
+def render_rows(results, benign, root):
     rows = []
     for slug, (issues, models) in sorted(results.items(), reverse=True):
         sigs = sorted({s for s, _ in issues})
@@ -933,12 +955,15 @@ def main():
         lines.append("")
         lines.append("The full text behind each signature in the table above.")
         lines.append("")
-        for slug, (issues, models) in broken.items():
-            lines.append(f"### {ep_label(slug)} -- {slug}")
+        for name, members in by_series(broken.items()):
+            lines.append(f"### {name}")
             lines.append("")
-            for sig, issue in issues:
-                lines.append(f"- **`{sig}`** {issue}")
-            lines.append("")
+            for slug, (issues, models) in members:
+                lines.append(f"#### {ep_label(slug)} -- {slug}")
+                lines.append("")
+                for sig, issue in issues:
+                    lines.append(f"- **`{sig}`** {issue}")
+                lines.append("")
     if unprocessed:
         lines.append("## Not yet processed")
         lines.append("")
@@ -962,12 +987,15 @@ def main():
         lines.append("Why each of these is NOT a defect. Delete the entry in "
                      "`data/qa_reviewed.json` to re-flag it.")
         lines.append("")
-        for slug, waived in sorted(benign.items(), reverse=True):
-            lines.append(f"### {ep_label(slug)} -- {slug}")
+        for name, members in by_series(sorted(benign.items(), reverse=True)):
+            lines.append(f"### {name}")
             lines.append("")
-            for sig, _text, reason, date in waived:
-                lines.append(f"- **`{sig}`** ({date or 'undated'}) {reason}")
-            lines.append("")
+            for slug, waived in members:
+                lines.append(f"#### {ep_label(slug)} -- {slug}")
+                lines.append("")
+                for sig, _text, reason, date in waived:
+                    lines.append(f"- **`{sig}`** ({date or 'undated'}) {reason}")
+                lines.append("")
 
     OUT_PATH.write_text("\n".join(lines), encoding="utf-8")
     print(f"wrote {OUT_PATH} -- {len(broken)}/{total} flagged, "
