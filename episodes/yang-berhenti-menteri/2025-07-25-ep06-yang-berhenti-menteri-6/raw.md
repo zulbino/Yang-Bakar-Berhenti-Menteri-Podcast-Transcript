@@ -27,7 +27,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [00:31] Haziq: Kita ajak.
 
-[00:32] Zaim Zulkifli: Setakat ni respon memang yang ada orang kata ada balls ni nak nak berdebat tu memang daripada UMNO je lah, Akmal Salleh. Cuma ada tangguh sikit sebab yalah isu yang menimpa ayahnya. Tapi sampai sekarang kita still geram and menunggu-nunggu. Kamil aa yang datang daripada parti yang sepatutnya suka berdebat tak pernah datang lagi. Dia yang ajak. Belum apa-apa pun dah tiba.
+[00:32] Zaim Zulkifli: Setakat ni respon memang yang ada orang kata ada balls ni nak nak berdebat tu memang daripada UMNO je lah, Akmal Saleh. Cuma ada tangguh sikit sebab yalah isu yang menimpa ayahnya. Tapi sampai sekarang kita still geram and menunggu-nunggu. Kamil aa yang datang daripada parti yang sepatutnya suka berdebat tak pernah datang lagi. Dia yang ajak. Belum apa-apa pun dah tiba.
 
 [00:55] Rafizi: Opening.
 

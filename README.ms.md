@@ -1,6 +1,6 @@
 # Yang Berhenti Menteri: transkrip podcast
 
-Teks penuh podcast Rafizi Ramli *Yang Berhenti Menteri* (YBM), yang dinamakan *Yang Bakar Menteri* sebelum 2025. 72 episod, 181 jam. Read in [English](README.md).
+Teks penuh podcast Rafizi Ramli *Yang Berhenti Menteri* (YBM), yang dinamakan *Yang Bakar Menteri* sebelum 2025. 72 episod, serta 2 forum awam (Siri Forum BERSAMA); 187 jam kesemuanya. Read in [English](README.md).
 
 Rancangan ini menerangkan bagaimana reformasi kerajaan dicadangkan, siapa yang menghalangnya dan kenapa. Butiran itu biasanya terkandung dalam video sepanjang tiga jam. Di sini ia dalam bentuk teks, supaya anda boleh mencari, memetik dan merujuknya.
 
@@ -126,6 +126,15 @@ Terbaharu dahulu. `raw` ialah transkrip hampir kata demi kata, `mixed` mengekalk
 | 03 | 2024-02-05 | [Yang Bakar Menteri EP 3 \| YB Rafizi Ramli & Faiz Azmi (Financial Faiz) \| 5 Feb 2024](https://www.youtube.com/watch?v=Y2o4gIQAlwc) | 2h 3m | Rafizi, Syed Munawar | Faiz (Financial Faiz) | [raw](episodes/yang-bakar-menteri/2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-/raw.md) · [mixed](episodes/yang-bakar-menteri/2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-/interview.md) · [EN](episodes/yang-bakar-menteri/2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-/interview-en.md) · [MS](episodes/yang-bakar-menteri/2024-02-05-ep03-yang-bakar-menteri-ep-3-yb-rafizi-ramli-faiz-azmi-financial-/interview-ms.md) |
 | 02 | 2024-01-22 | [Yang Bakar Menteri EP 2 I YB Rafizi Ramli & Prof. Barjoyai Bardai l 22 Jan 2024 #YangBakarMenteri](https://www.youtube.com/watch?v=WT1m_Yl5E_M) | 1h 38m | Rafizi | Nazri, Prof. Emeritus Dr. Barjoyai Bardai | [raw](episodes/yang-bakar-menteri/2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard/raw.md) · [mixed](episodes/yang-bakar-menteri/2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard/interview.md) · [EN](episodes/yang-bakar-menteri/2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard/interview-en.md) · [MS](episodes/yang-bakar-menteri/2024-01-22-ep02-yang-bakar-menteri-ep-2-i-yb-rafizi-ramli-prof-barjoyai-bard/interview-ms.md) |
 | 01 | 2024-01-08 | [Yang Bakar Menteri Ep 1 \| YB Rafizi Ramli & Nazri Hamdan \| 8 Jan 2024 #YangBakarMenteri](https://www.youtube.com/watch?v=c9JQ9BoGJms) | 1h 17m | Rafizi, Najib Bakar | Nazri Hamdan | [raw](episodes/yang-bakar-menteri/2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2/raw.md) · [mixed](episodes/yang-bakar-menteri/2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2/interview.md) · [EN](episodes/yang-bakar-menteri/2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2/interview-en.md) · [MS](episodes/yang-bakar-menteri/2024-01-08-ep01-yang-bakar-menteri-ep-1-yb-rafizi-ramli-nazri-hamdan-8-jan-2/interview-ms.md) |
+
+### Siri Forum BERSAMA
+
+2 forum awam, 2026.
+
+| Ep | Tarikh | Tajuk | Tempoh | Pengacara | Tetamu | Transkrip |
+|---|---|---|---|---|---|---|
+| 02 | 2026-09-23 | [Siri Forum: Berani Bincang BERSAMA #2: Belanjawan Datang & Pergi (Ekonomi Rakyat vs Ekonomi Negara)](https://www.youtube.com/watch?v=Byir6MLBXIQ) | 3h 5m | Huseyin Kilicman | Rafizi Ramli, Wong Chen, Sum Dek Joe, Geoffrey Williams | [raw](episodes/siri-forum-bersama/2026-09-23-ep02-siri-forum-berani-bincang-bersama-2-belanjawan-datang-pergi-/raw.md) · [cleaned](episodes/siri-forum-bersama/2026-09-23-ep02-siri-forum-berani-bincang-bersama-2-belanjawan-datang-pergi-/transcript.md) |
+| 01 | 2026-08-06 | [Siri Forum BERSAMA #1: Apa Akan Jadi Kepada Tabung Haji](https://www.youtube.com/watch?v=tKxIBnLIJkA) | 3h 9m | Ibrahim Sani | Rafizi Ramli, Nik Nazmi Nik Ahmad, Nik Mustapha Nik Hassan, Faizal Rahman | [raw](episodes/siri-forum-bersama/2026-08-06-ep01-siri-forum-bersama-1-apa-akan-jadi-kepada-tabung-haji/raw.md) · [cleaned](episodes/siri-forum-bersama/2026-08-06-ep01-siri-forum-bersama-1-apa-akan-jadi-kepada-tabung-haji/transcript.md) |
 
 <!-- END EPISODE LIST -->
 

@@ -289,7 +289,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:56:05] Haziq: Ini my recollection lah yang aku ingat lah kan. Mesyuarat 28 Februari.
 
-[1:56:12] Rafizi: Pagi itu, Anwar Ibrahim dan Zafrul. Sebab Zafrul sekarang ni dia kena tunjukkan benda ni dia yang buat, bukan Rafizi, kan? Jadi Zafrol susun. Zafrol katalah dia susun satu online meeting, virtual meeting di antara dia dengan, and I remember it was him lah kan. Dia yang beritahu dia susun. I think he was in that virtual meeting lah. He was in that virtual meeting kan? Dia dengan Anwar Ibrahim ada virtual meeting dengan Rene, CEO Arm, dan juga Masayoshi Son, CEO SoftBank, iaitu pem- pemegang saham terbesar Arm.
+[1:56:12] Rafizi: Pagi itu, Anwar Ibrahim dan Zafrul. Sebab Zafrul sekarang ni dia kena tunjukkan benda ni dia yang buat, bukan Rafizi, kan? Jadi Zafrul susun. Zafrul katalah dia susun satu online meeting, virtual meeting di antara dia dengan, and I remember it was him lah kan. Dia yang beritahu dia susun. I think he was in that virtual meeting lah. He was in that virtual meeting kan? Dia dengan Anwar Ibrahim ada virtual meeting dengan Rene, CEO Arm, dan juga Masayoshi Son, CEO SoftBank, iaitu pem- pemegang saham terbesar Arm.
 
 [1:56:55] Haziq: Jadi dia bincanglah.
 

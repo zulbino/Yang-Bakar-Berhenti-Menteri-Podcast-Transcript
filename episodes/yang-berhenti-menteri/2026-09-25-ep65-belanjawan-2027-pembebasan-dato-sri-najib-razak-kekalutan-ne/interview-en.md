@@ -35,6 +35,14 @@ model: z-ai/glm-5.3@low
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite), translated segment by segment.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 65 — Belanjawan 2027, Pembebasan Dato’ Sri Najib Razak, Kekalutan Negeri Sembilan & PRN Melaka**  
+25 September 2026 · 2h 56m · [watch on YouTube](https://www.youtube.com/watch?v=L85fe60PhGo)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · **interview in English** · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview (English)
 
 **Haziq:** Assalamualaikum and greetings. The "Yang Berhenti Menteri" podcast is now at episode 65.
