@@ -35,6 +35,14 @@ model: z-ai/glm-5.3@low
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa Melayu (closest to how it was actually spoken). Rewritten segment by segment, each segment gated on length, Malay density, figures and speaker labels. See raw.md for the unedited transcript, or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 65 — Belanjawan 2027, Pembebasan Dato’ Sri Najib Razak, Kekalutan Negeri Sembilan & PRN Melaka**  
+25 September 2026 · 2h 56m · [watch on YouTube](https://www.youtube.com/watch?v=L85fe60PhGo)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri dah episod ke-65.

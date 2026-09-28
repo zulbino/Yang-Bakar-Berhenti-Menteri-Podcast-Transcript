@@ -227,5 +227,19 @@
    "date": "2026-09-14",
    "fixed_2026_09_14": "FIXED in all three published files: `75 juta` -> `7.5 juta`. The owner chose on 2026-09-14 to correct the digits now rather than wait for the regeneration of 33 stale published files, because the repo is public. The replacement is recorded as a reviewed, episode-scoped literal in scripts/fix_published_figures.py with its witnesses, so it is reproducible rather than a hand edit. raw.md was NOT touched: it was already right. A future regeneration overwrites this, which is expected."
   }
+ },
+ "2026-08-06-ep01-siri-forum-bersama-1-apa-akan-jadi-kepada-tabung-haji": {
+  "oversized-block": {
+   "verdict": "benign",
+   "reason": "Checked against the camera reference, which does not come from the diarizer: data/camera_ref_ep01-forum.rttm covers 1721s of this 1878-second block and attributes every covered second to Rafizi (no other speaker). It is Rafizi's panel talk at the forum. Claude, 2026-09-28.",
+   "date": "2026-09-28"
+  }
+ },
+ "2026-09-23-ep02-siri-forum-berani-bincang-bersama-2-belanjawan-datang-pergi-": {
+  "oversized-block": {
+   "verdict": "benign",
+   "reason": "Checked against the camera reference, which does not come from the diarizer: data/camera_ref_ep02-forum.rttm covers 1032s of this 1201-second block and attributes every covered second to Rafizi (no other speaker). It is Rafizi's panel talk at the forum. Claude, 2026-09-28.",
+   "date": "2026-09-28"
+  }
  }
 }

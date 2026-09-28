@@ -79,7 +79,7 @@ def video_id(tag):
     if not hits:
         sys.exit(f"no episode matched {tag}")
     if len(hits) > 1:
-        opts = ", ".join(f"{tag}:{'bakar' if 'bakar' in h else 'berhenti'}" for h in hits)
+        opts = ", ".join(f"{tag}:{Path(h).parent.name.split('-')[1]}" for h in hits)
         sys.exit(f"{tag} matches {len(hits)} episodes; disambiguate: {opts}")
     # raw.md as the fallback: a freshly transcribed episode has no published file yet, and
     # ep62 is exactly the case where the video is needed -- its Farhan attribution is

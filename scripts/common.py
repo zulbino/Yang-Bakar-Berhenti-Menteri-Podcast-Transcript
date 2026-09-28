@@ -25,9 +25,16 @@ YANG_BAKAR_MENTERI_VIDEO_IDS = {
 }
 
 
+# Siri Forum BERSAMA: live public forums on the same channel, a separate series from the
+# podcast. Titles number them "#1", "#2", so their tags are ep01:forum, ep02:forum.
+FORUM_BERSAMA_VIDEO_IDS = {"tKxIBnLIJkA", "Byir6MLBXIQ"}
+
+
 def show_era_dir(episode):
     if episode["video_id"] in YANG_BAKAR_MENTERI_VIDEO_IDS:
         return "yang-bakar-menteri"
+    if episode["video_id"] in FORUM_BERSAMA_VIDEO_IDS:
+        return "siri-forum-bersama"
     return "yang-berhenti-menteri"
 
 _EPISODE_NUMBER_RE = re.compile(r"(?:Episod|EP)\s*#?(\d+)|#(\d+)", re.IGNORECASE)
@@ -145,7 +152,7 @@ def resolve_tag(manifest, tag):
     return hits[0]
 
 
-SHOW_SUFFIXES = ("bakar", "berhenti")
+SHOW_SUFFIXES = ("bakar", "berhenti", "forum")
 
 
 def artifact_tag(tag):

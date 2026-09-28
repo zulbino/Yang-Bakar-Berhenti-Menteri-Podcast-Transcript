@@ -164,7 +164,10 @@ def measure(stage, source, text, names):
     first = next((ln for ln in text.split("\n") if ln.strip()), "")
     report = {
         "char_ratio": round(len(text) / max(1, len(body)), 3),
-        "malay_ratio": round(malay_count(text) / max(1, malay_count(body)), 3),
+        # An all-English segment (forum ep02 seg 08, Geoffrey Williams) has no Malay to lose;
+        # 0 / max(1, 0) failed it on every try.
+        "malay_ratio": (round(malay_count(text) / malay_count(body), 3) if malay_count(body)
+                        else 1.0),
         "english_ratio": round(english_count(text) / max(1, english_count(body)), 3),
         "figures_total": len(fig_in),
         "figures_missing": sorted(fig_in - fig_out - worded),
@@ -265,9 +268,41 @@ CONDENSE_LEN_MIN = 0.40
 HALF_LENGTH_INSTRUCTION = """LENGTH OVERRIDE, this replaces rule 4: the printed version must be about HALF of the spoken length, between 45% and 55% of the transcript's characters. Get there by printing each point once in its tightest form, cutting every restatement, every "maksudnya", "so", "kan", every sentence that only rephrases the one before it, and every lead-in before the actual point. Questions become one short line. Rule 3 still holds: no figure, name, organisation, example or anecdote may be dropped."""
 
 
+# Siri Forum BERSAMA (owner's spec 2026-09-27/28): ONE cleaned transcript per forum, full
+# length, mixed language, no -en/-ms. "same hansard rules, as this forum is like parliment
+# setting on its own." Set by --forum.
+FORUM = False
+FORUM_PROMPT_TEMPLATE = """You are a Hansard reporter writing the official record of a public forum.
+
+The forum is Siri Forum BERSAMA, a Malaysian policy forum held by Parti BERSAMA Malaysia: a moderator, a panel, and questions from the floor, spoken in mixed English and Bahasa Melayu. Below is a raw machine transcript of part of it.
+
+Write it as Hansard writes a debate: an edited verbatim record that leaves out nothing that adds to the meaning of the speech.
+1. Every turn starts with a line "**<speaker>:** ", the label copied EXACTLY from the transcript. "Audience", "Audience (<name>)" and "Speaker ?" stay exactly as they are. Never replace a name with a role, never merge two different speakers under one label, never move words from one speaker to another.
+2. Remove filler sounds and vocalised pauses ("uh", "um", "hmm", "aa", "aaa", "err", "eh" or "ah" used only as a pause), stammered repetitions ("saya, saya, saya" becomes "saya"), false starts, and a speaker correcting themself (keep only the corrected version). Fix an obvious grammatical slip only where the meaning is certain.
+3. This is NOT a summary. Keep every argument, figure, date, name, organisation, example, joke, quotation and anecdote, in the speaker's own words and in the first person. Do not condense, reorder or merge points. The output is about the length of the input minus the fillers.
+4. A brief interjection by another person that the speaker responds to stays as its own turn under its own label. A contentless acknowledgement ("Okey.", "Ya.") that nobody responds to may be dropped.
+5. Keep the language of each clause as spoken, including mid-sentence code-switching. Never translate a clause into the other language. Keep colloquial Malay words ("tak", "ni", "tu", "kita", "sebab", "macam", "kalau", "je", "pun", "lah", "kan"). Keep religious phrases as spoken.
+6. Do not add facts, explanations, headings or commentary. No timestamps, no frontmatter. Output the record body only.
+
+Raw transcript:
+---
+{raw_text}
+---"""
+# The cast of each forum, from its YouTube cover card (the show's own material, rule 9 step
+# 3). The moderator goes in `hosts`, the panel in `guests`.
+FORUM_CAST = {
+    "tKxIBnLIJkA": {"hosts": ["Ibrahim Sani"],
+                    "guests": ["Rafizi Ramli", "Nik Nazmi Nik Ahmad", "Nik Mustapha Nik Hassan",
+                               "Faizal Rahman"]},
+    "Byir6MLBXIQ": {"hosts": ["Huseyin Kilicman"],
+                    "guests": ["Rafizi Ramli", "Wong Chen", "Sum Dek Joe", "Geoffrey Williams"]},
+}
+
+
 def build_prompt(stage, source, names, extra, title=None):
     if stage == "mixed":
-        prompt = (CONDENSE_PROMPT_TEMPLATE.format(title=title, raw_text=source) if title
+        prompt = (FORUM_PROMPT_TEMPLATE.format(raw_text=source) if FORUM
+                  else CONDENSE_PROMPT_TEMPLATE.format(title=title, raw_text=source) if title
                   else CLEAN_PROMPT_TEMPLATE.format(raw_text=source))
         prompt += ("\n\nSpellings confirmed for this episode -- use these exact forms and "
                    "never split one name across two spellings:\n"
@@ -398,13 +433,14 @@ def write_episode(episode, workdir, count, clean_model):
     # Owner's rule (2026-09-10): the published interview reads like newspaper copy -- no
     # retort turns ("Ya.", "Hmm."), no filler words, a speaker's consecutive turns joined.
     # raw.md is the verbatim layer and keeps its phrase-level blocks.
+    stages = ["mixed"] if FORUM else STAGES
     bodies = {stage: group_thousands(clean_body(stitch(workdir, stage, count))[0])
-              for stage in STAGES}
+              for stage in stages}
     # The model recorded in the frontmatter is the one that WROTE the segments, read from
     # their reports -- not whatever --model happened to be on the --write invocation. ep62's
     # first write stamped Haiku on Sonnet's text that way.
     used = {stage: sorted({json.loads((workdir / stage / f"seg{i:02d}.json").read_text(encoding="utf-8"))["model"]
-                           for i in range(count)}) for stage in STAGES}
+                           for i in range(count)}) for stage in stages}
     clean_model = ", ".join(used["mixed"])
     out_dir = EPISODES_DIR / episode_path(episode)
     print("extracting metadata (hosts/guests/summary/topics) ...")
@@ -412,6 +448,8 @@ def write_episode(episode, workdir, count, clean_model):
     common = episode_common_fields(episode)
     for key in ("hosts", "guests", "topics", "summary"):
         common[key] = meta[key]
+    if FORUM:
+        common.update(FORUM_CAST[episode["video_id"]])
 
     spec = {
         "mixed": ("interview.md", "# Interview", clean_model,
@@ -427,6 +465,13 @@ def write_episode(episode, workdir, count, clean_model):
                "Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar "
                "dwibahasa), diterjemah segmen demi segmen."),
     }
+    if FORUM:
+        spec = {"mixed": ("transcript.md", "# Transcript", clean_model,
+                          "Cleaned record of the forum in the style of Hansard, kept in the original "
+                          "mixed English/Bahasa Melayu: full length, filler sounds, false starts and "
+                          "stammered repetitions removed, every point kept. Rewritten segment by "
+                          "segment, each gated on length, Malay density, figures and speaker labels. "
+                          "See raw.md for the verbatim transcript.")}
     for stage, (name, heading, model, note) in spec.items():
         fields = dict(common)
         fields["language"] = stage
@@ -451,6 +496,9 @@ def main():
     ap.add_argument("--tries", type=int, default=3)
     ap.add_argument("--workers", type=int, default=3)
     ap.add_argument("--instructions", help="text file appended to the mixed-stage prompt")
+    ap.add_argument("--forum", action="store_true",
+                    help="Siri Forum BERSAMA: Hansard-style full-length clean, mixed stage only, "
+                         "--write makes transcript.md alone (FORUM_PROMPT_TEMPLATE, FORUM_CAST)")
     ap.add_argument("--condense", action="store_true",
                     help="the owner's shipping mode since 2026-09-27: newspaper Q&A at about half the "
                          "spoken length (CONDENSE_PROMPT_TEMPLATE + HALF_LENGTH_INSTRUCTION, length "
@@ -465,6 +513,8 @@ def main():
                     help="re-measure the saved tries of unaccepted segments with the current gate and "
                          "accept the first that passes; no model is called")
     a = ap.parse_args()
+    global FORUM
+    FORUM = a.forum
     if a.condense:
         GATES["mixed"].update(len_min=CONDENSE_LEN_MIN, malay_min=0.60, condense=True)
     if a.regate:

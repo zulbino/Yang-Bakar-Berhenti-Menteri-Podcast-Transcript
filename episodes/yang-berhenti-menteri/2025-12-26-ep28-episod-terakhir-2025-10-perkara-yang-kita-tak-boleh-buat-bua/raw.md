@@ -105,9 +105,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [15:04] Iqbal: Okey. Banyak lagi soalan saya boleh tanya, tapi mungkin kita move on.
 
-[15:08] Haziq: But beria lah eh. Beria. Beria, beria. Okey, baik. Next kita tengok ada apa lagi. Ong Kian Ming pada Najib Muhyiddin. Tapi DAP nampak keras on this issue, tapi bila dah sampai ke Ong Qian Ming, dia jadi macam 360 degree dia pusing. Macam mana? Sebab Iqbal. Tak faham. 360 degree. 180.
+[15:08] Haziq: But beria lah eh. Beria. Beria, beria. Okey, baik. Next kita tengok ada apa lagi. Ong Kian Ming pada Najib Muhyiddin. Tapi DAP nampak keras on this issue, tapi bila dah sampai ke Ong Kian Ming, dia jadi macam 360 degree dia pusing. Macam mana? Sebab Iqbal. Tak faham. 360 degree. 180.
 
-[15:30] Rafizi: 360 degree ni balik balik. 180 eh. Ini kena masuk kelas matematik balik ni. 180 degree daripada Ong Qian Ming.
+[15:30] Rafizi: 360 degree ni balik balik. 180 eh. Ini kena masuk kelas matematik balik ni. 180 degree daripada Ong Kian Ming.
 
 [15:40] Haziq: Agaknya kenapa dia jadi macam? Tak faham maksudnya. DAP dia ambil tone yang lebih keras lah.
 

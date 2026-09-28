@@ -28,7 +28,7 @@ topics:
 - Kegagalan strategi kempen PH termasuk ketiadaan calon KDM dan kesilapan calon di kawasan seperti Sindumin, Api-Api, Moyog
 - Pembentukan kerajaan Hajiji Noor selepas PRN dan proses angkat sumpah tergesa-gesa
 - Kesan PRN Sabah terhadap PRU16 dan risiko existential kepada PH di Semenanjung
-- Kontroversi Dr Akmal Salleh dan kesan retorik UMNO terhadap sokongan pengundi bukan Melayu
+- Kontroversi Dr Akmal Saleh dan kesan retorik UMNO terhadap sokongan pengundi bukan Melayu
 - Dasar EV, harga kereta elektrik mampu milik dan infrastruktur pengecasan di Malaysia
 - Isu MOTAC/Tourism Malaysia gagal memanfaatkan bakat tempatan seperti Sofiang untuk promosi negara
 summary: Episod 25 podcast Yang Berhenti Menteri bersama Rafizi Ramli, dihoskan oleh Haziq bersama dua tetamu tetap, Faizal Rahman dan Razeef Rakimin (Ketua Cabang PKR Tuaran, Sabah). Segmen "Beria" mengupas video-video viral minggu itu termasuk "B for Brother", ugutan bom palsu di KLIA, selebriti pantun Sabah "Didi Tiang Telekom", dan pengumuman "cukup jumlah" oleh Fuziah Salleh yang dianggap paling "beria" sepanjang musim. Segmen "Hidup Keras" membincangkan kes rasuah Shamsul Anuar-Albert Teh, kredibiliti SPRM dan Azam Baki, serta pengalaman peribadi Rafizi dengan penyalahgunaan kuasa SPRM/penangkapan politik. Perbincangan utama episod tertumpu kepada kekalahan teruk PH/PKR dalam PRN Sabah 2025 — analisis naratif "Sabah for Sabahan", kejatuhan sokongan pengundi Cina (DAP knockout), isu autonomi PKR Sabah, kesilapan pemilihan calon dan strategi kempen, serta pembentukan kerajaan Hajiji Noor. Episod ditutup dengan renungan kesan PRN Sabah terhadap PRU16 dan risiko besar kepada PH, serta soalan penonton mengenai dasar EV dan promosi bakat tempatan seperti Sofia (Sofiang).
@@ -603,7 +603,7 @@ Yang lebih sukar ialah soal kemarahan, soal tekanan daripada Kementerian Kewanga
 
 Yang itu, macam mana Datuk Seri Anwar nak perbaiki? Kerana pada masa yang sama dia juga meninggikan LHDN, MOF — kutipan cukai bagus, kutip, kutip, kutip, kutip begini kan. Tiba-tiba dia nak suruh perlahan. Duit dah komited untuk dibelanjakan 1, 2, 3, 4, 5. Sebab itu saya pernah sebut, perbelanjaan mengurus tu kita kena kawal, dan perbelanjaan mengurus tu balik kepada MOF balik. Perolehan kena kawal, balik kepada MOF balik. Jadi bab itu, bab kemarahan pengundi Cina tu, saya rasa tak mudah untuk dibuat dalam 6 bulan.
 
-Dan akhir sekali dengan soal kemarahan, terutamanya pengundi bukan Melayu — saya rasa kerosakan itu sudah berlaku. Dan kerosakan yang paling besar sebenarnya bermula 2 tahun lepas dengan Dr. Akmal Salleh. Bila Dr. Akmal Salleh, kau tahu, dibiarkan meliar.
+Dan akhir sekali dengan soal kemarahan, terutamanya pengundi bukan Melayu — saya rasa kerosakan itu sudah berlaku. Dan kerosakan yang paling besar sebenarnya bermula 2 tahun lepas dengan Dr. Akmal Saleh. Bila Dr. Akmal Saleh, kau tahu, dibiarkan meliar.
 
 **Haziq:** Meliar lah kan.
 

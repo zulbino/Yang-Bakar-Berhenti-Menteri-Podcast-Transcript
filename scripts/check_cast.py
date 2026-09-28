@@ -46,6 +46,18 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 ROOT = Path(__file__).resolve().parent.parent
 BLOCK = re.compile(r"^\[([\d:]+)\]\s*([^:\n]{0,40}?):", re.M)
+NAME_PREFIXES = ("Nik", "Wan", "Syed", "Sharifah", "Tengku", "Tunku", "Raja", "Megat", "Puteri")
+# `Nik`, `Wan`, `Syed` and the like are a name PREFIX many people share, so the given name
+# is the first TWO words. Matching `Nik` alone made forum ep01's `Nik Mustapha Nik Hassan`
+# flag ep49, which introduces `Nik Nazmi`.
+NAME_PREFIXES = ("Nik", "Wan", "Syed", "Sharifah", "Tengku", "Tunku", "Raja", "Megat", "Puteri")
+
+
+def given_name(who):
+    words = who.split()
+    return " ".join(words[:2]) if words[0] in NAME_PREFIXES and len(words) > 1 else words[0]
+
+
 NOT_A_PERSON = ("Speaker", "Multiple", "Audience", "[")
 # `YB Rafizi` is ep08's stray label variant, not a second person. Left un-normalised it
 # makes `introduced-unheard` fire on all 70 episodes, because every one of them opens
@@ -84,7 +96,7 @@ def episodes():
 def _scan():
     for raw in sorted(glob.glob(str(ROOT / "episodes" / "*" / "*" / "raw.md"))):
         d = Path(raw).parent
-        iv = d / "interview.md"
+        iv = next((d / n for n in ("interview.md", "transcript.md") if (d / n).exists()), d / "interview.md")
         if not iv.exists():
             continue
         text = iv.read_text(encoding="utf-8")
@@ -144,7 +156,7 @@ def check(only=None):
                            f"{e['hosts']} nor guests {e['guests']}"))
         for who in e["hosts"]:
             # Match on the first word: the label is `Iqbal`, the text says `saudara Iqbal`.
-            first = re.escape(who.split()[0])
+            first = re.escape(given_name(who))
             if re.search(rf"{INVITED}\s+(?:\w+\s+){{0,2}}?{first}\b", e["body"], re.I):
                 quote = re.search(rf".{{0,30}}{INVITED}\s+(?:\w+\s+){{0,2}}?{first}\b.{{0,30}}",
                                   e["body"], re.I).group(0).replace("\n", " ")
@@ -165,7 +177,7 @@ def check(only=None):
             # each flagged the other's episode. Same extension test as above.
             if any(b.startswith(who) or who.startswith(b) for b in bare):
                 continue
-            first = re.escape(who.split()[0])
+            first = re.escape(given_name(who))
             hit = re.search(rf"{PRESENT}\s+(?:{HON}\s+)?{first}\b(.{{0,25}})", head)
             if hit and not re.match(rf"\s*{ABSENT}", hit.group(1)):
                 issues.append((e["tag"], "introduced-unheard",

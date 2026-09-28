@@ -39,9 +39,11 @@ NAV = re.compile(re.escape(START) + r".*?" + re.escape(END) + r"\s*", re.S)
 FILES = [("raw.md", "verbatim raw transcript"),
          ("interview.md", "interview, original mixed language"),
          ("interview-en.md", "interview in English"),
-         ("interview-ms.md", "interview in Bahasa Melayu")]
+         ("interview-ms.md", "interview in Bahasa Melayu"),
+         ("transcript.md", "cleaned transcript, original mixed language")]
 RUNS = {"yang-berhenti-menteri": ("Yang Berhenti Menteri", "2025 rename onward"),
-        "yang-bakar-menteri": ("Yang Bakar Menteri", "the 2024 run")}
+        "yang-bakar-menteri": ("Yang Bakar Menteri", "the 2024 run"),
+        "siri-forum-bersama": ("Siri Forum BERSAMA", "public forums, 2026")}
 
 
 def field(text, name):

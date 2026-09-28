@@ -463,7 +463,7 @@ Dan sampai kepada Kak Aisyah — kita dah kurang kuota dan dia pun dah dua pengg
 
 **Haziq:** Itu yang diberitahu oleh sanad-sanad. Tapi memang orang cakap yang dia tak ada.
 
-**Rafizi:** Orang cakaplah. Okey, tak apalah. Saya tak ada kat situ. Oleh kerana tidak dapat disahkan, maka kita tak payah komen. Sebab dia penutup, dan selalunya ucapan perasmian tu ialah pembukaan. Kalau ucapan perasmian pembukaan bukan dia yang bagi, dan masa Saifuddin ada dia tak ada, then you know likelihood-nya begini: masa buka tu susahlah kalau ketua cabang tak ada, masa tutup tak apa — mungkin boleh bagi alasan "saya dah ada, so saya kena rush work from home ke apa." So I think tak payah nak comment when you tak tahulah. Yang Zafrol punya kat mana? Zafrol tu yang kat Terengganu — dia ikut Datuk Seri Anwar menjelajah negeri ke negeri. Tapi ada perasmian juga kan? Dia di Ampang. Dia merasmikan.
+**Rafizi:** Orang cakaplah. Okey, tak apalah. Saya tak ada kat situ. Oleh kerana tidak dapat disahkan, maka kita tak payah komen. Sebab dia penutup, dan selalunya ucapan perasmian tu ialah pembukaan. Kalau ucapan perasmian pembukaan bukan dia yang bagi, dan masa Saifuddin ada dia tak ada, then you know likelihood-nya begini: masa buka tu susahlah kalau ketua cabang tak ada, masa tutup tak apa — mungkin boleh bagi alasan "saya dah ada, so saya kena rush work from home ke apa." So I think tak payah nak comment when you tak tahulah. Yang Zafrul punya kat mana? Zafrul tu yang kat Terengganu — dia ikut Datuk Seri Anwar menjelajah negeri ke negeri. Tapi ada perasmian juga kan? Dia di Ampang. Dia merasmikan.
 
 **Farhan (Pa'an):** De facto ketua cabang Ampang.
 

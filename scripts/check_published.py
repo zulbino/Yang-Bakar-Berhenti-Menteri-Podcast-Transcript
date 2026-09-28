@@ -27,7 +27,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from check_language_drift import malay_ratio, strip_frontmatter
 from label_drift_audit import GENERIC, RAW_LABEL, norm
 
-DERIVED = ["interview.md", "interview-en.md", "interview-ms.md"]
+DERIVED = ["interview.md", "interview-en.md", "interview-ms.md", "transcript.md"]
 
 # Relative Malay loss, raw.md -> interview.md. The distribution is bimodal: median 0.011,
 # p75 0.107, then a cluster of 14 episodes running from 0.178 to 0.726. The gap between
@@ -369,7 +369,7 @@ def check(ep_dir):
                 f"person is spelt two ways, or a name present in one file was replaced by "
                 f"a bare role in its own translation"))
 
-    interview = ep_dir / "interview.md"
+    interview = next((ep_dir / n for n in ("interview.md", "transcript.md") if (ep_dir / n).exists()), ep_dir / "interview.md")
     if interview.exists():
         raw_ratio = malay_ratio(raw_body)
         iv_ratio = malay_ratio(strip_frontmatter(interview.read_text(encoding="utf-8")))

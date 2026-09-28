@@ -125,6 +125,17 @@ python scripts/rewrite_segments.py <tag> --condense --workdir data/_<tag>_final
 python scripts/rewrite_segments.py <tag> --condense --workdir data/_<tag>_final --write
 ```
 
+A Siri Forum BERSAMA episode (`epNN:forum`) differs in four places:
+
+1. Add its video id to `common.FORUM_BERSAMA_VIDEO_IDS` and its cast to
+   `rewrite_segments.FORUM_CAST`, both from the cover card.
+2. Build a face gallery for the video from the cover card (`camera_speakers.py census`,
+   `cluster`, `gallery`), then re-run `reference`. The shared gallery knows only podcast faces.
+3. Pass `adopt_mai_camera_raw.py --current <local raw>`, and keep only the formal forum in
+   raw.md, from the moderator's opening to the closing thanks.
+4. Rewrite with `rewrite_segments.py <tag> --forum --stage mixed`. `--write` makes one
+   `transcript.md`: Hansard-style, full length, mixed language.
+
 Episode tags are ambiguous: both shows have an ep01 to ep06. Write `ep03:bakar` or
 `ep03:berhenti`; `common.resolve_tag` refuses a bare tag that matches two.
 

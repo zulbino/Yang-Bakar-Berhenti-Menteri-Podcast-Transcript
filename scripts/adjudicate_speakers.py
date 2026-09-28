@@ -157,7 +157,7 @@ def main():
             num = episode_number(ep)
             # Both shows number ep01-ep06, so a bare tag is ambiguous for twelve episodes
             # -- the `resolve_tag` trap that had every tool silently taking index [0].
-            show = "bakar" if show_era_dir(ep) == "yang-bakar-menteri" else "berhenti"
+            show = show_era_dir(ep).split("-")[1]
             pairs.append((f"ep{num:02d}:{show}" if num is not None else d.name, d))
 
     episodes = [(tag, collect(d)) for tag, d in pairs]

@@ -103,7 +103,7 @@ def remaining():
         if counts[tag] == 1:
             tags.append(tag)
             continue
-        show = next((s for s in common.SHOW_SUFFIXES if f"yang-{s}-menteri" in folder), None)
+        show = next((s for s in common.SHOW_SUFFIXES if f"-{s}-" in folder), None)
         if show:
             tags.append(f"{tag}:{show}")
     return tags

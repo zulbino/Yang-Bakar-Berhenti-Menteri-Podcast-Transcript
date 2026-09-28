@@ -88,11 +88,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Maturity doesn't necessarily mean being soft, you know. Maturity isn't measured by whether you're gentle or not. Maturity means taking all perspectives into account and making the fairest decision and assessment based on those perspectives. So in this case, the AMK Chief should have stated that BN and PH have made a commitment to ensure political stability for the people's sake. So whatever the situation, the component parties in the Madani government must abide by the agreement that was signed. Being mature doesn't necessarily mean being soft or cooing. Maturity means calling a spade a spade. So being beria, he should've held Dr. Akmal accountable directly. And after doing so, if Dr. Akmal flip-flops too, well.
 
-**Haziq:** Okay, alright YB. Let's look at what other beria we have next. Still on Akmal Salleh. "You're the ones fighting, but it's the Malays who are divided."
+**Haziq:** Okay, alright YB. Let's look at what other beria we have next. Still on Akmal Saleh. "You're the ones fighting, but it's the Malays who are divided."
 
 **Rafizi:** Who said Malays are divided?
 
-**Haziq:** I see two people here, YB. One is the Bukit Bintang Bersatu division chief — stop punishing Bersatu leaders, it's undermining efforts to unite the Malays. And Akmal Salleh — getting more and more disrespectful by the day, it's time for Malay unity and this isn't just rhetoric.
+**Haziq:** I see two people here, YB. One is the Bukit Bintang Bersatu division chief — stop punishing Bersatu leaders, it's undermining efforts to unite the Malays. And Akmal Saleh — getting more and more disrespectful by the day, it's time for Malay unity and this isn't just rhetoric.
 
 **Rafizi:** Dr. Akmal is referring to DAP here.
 

@@ -28,7 +28,7 @@ topics:
 - Kegagalan strategi kempen PH termasuk ketiadaan calon KDM dan kesilapan calon di kawasan seperti Sindumin, Api-Api, Moyog
 - Pembentukan kerajaan Hajiji Noor selepas PRN dan proses angkat sumpah tergesa-gesa
 - Kesan PRN Sabah terhadap PRU16 dan risiko existential kepada PH di Semenanjung
-- Kontroversi Dr Akmal Salleh dan kesan retorik UMNO terhadap sokongan pengundi bukan Melayu
+- Kontroversi Dr Akmal Saleh dan kesan retorik UMNO terhadap sokongan pengundi bukan Melayu
 - Dasar EV, harga kereta elektrik mampu milik dan infrastruktur pengecasan di Malaysia
 - Isu MOTAC/Tourism Malaysia gagal memanfaatkan bakat tempatan seperti Sofiang untuk promosi negara
 summary: Episod 25 podcast Yang Berhenti Menteri bersama Rafizi Ramli, dihoskan oleh Haziq bersama dua tetamu tetap, Faizal Rahman dan Razeef Rakimin (Ketua Cabang PKR Tuaran, Sabah). Segmen "Beria" mengupas video-video viral minggu itu termasuk "B for Brother", ugutan bom palsu di KLIA, selebriti pantun Sabah "Didi Tiang Telekom", dan pengumuman "cukup jumlah" oleh Fuziah Salleh yang dianggap paling "beria" sepanjang musim. Segmen "Hidup Keras" membincangkan kes rasuah Shamsul Anuar-Albert Teh, kredibiliti SPRM dan Azam Baki, serta pengalaman peribadi Rafizi dengan penyalahgunaan kuasa SPRM/penangkapan politik. Perbincangan utama episod tertumpu kepada kekalahan teruk PH/PKR dalam PRN Sabah 2025 — analisis naratif "Sabah for Sabahan", kejatuhan sokongan pengundi Cina (DAP knockout), isu autonomi PKR Sabah, kesilapan pemilihan calon dan strategi kempen, serta pembentukan kerajaan Hajiji Noor. Episod ditutup dengan renungan kesan PRN Sabah terhadap PRU16 dan risiko besar kepada PH, serta soalan penonton mengenai dasar EV dan promosi bakat tempatan seperti Sofia (Sofiang).
@@ -603,7 +603,7 @@ The harder one is the matter of anger, the pressure from the Ministry of Finance
 
 That one, how can Datuk Seri Anwar fix it? Because at the same time he's also been praising LHDN, MOF — tax collection is good, collect, collect, collect, collect, like that. Suddenly he wants to tell them to slow down. Money has already been committed for spending on 1, 2, 3, 4, 5. That's why I've mentioned before, operating expenditure needs to be controlled, and operating expenditure comes back to MOF again. Procurement needs to be controlled, comes back to MOF again. So on that matter, on the matter of Chinese voters' anger, I don't think it's easy for him to fix in 6 months.
 
-And finally on the matter of anger, especially among non-Malay voters — I think the damage is done. And the biggest damage actually started 2 years ago with Dr. Akmal Salleh. When Dr. Akmal Salleh, you know, was allowed to run wild.
+And finally on the matter of anger, especially among non-Malay voters — I think the damage is done. And the biggest damage actually started 2 years ago with Dr. Akmal Saleh. When Dr. Akmal Saleh, you know, was allowed to run wild.
 
 **Haziq:** Run wild indeed.
 

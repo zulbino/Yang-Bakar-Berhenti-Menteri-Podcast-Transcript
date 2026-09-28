@@ -1214,5 +1214,61 @@
    "text_now": "Dan yang ketiga... Haa, dua tiga bersama sekarang kan, seri tiga, ialah kemajuan PAS disembunyikan.",
    "_note": "OWNER RULING 2026-09-27, by ear at https://youtu.be/L85fe60PhGo?t=2417: MAI wrote 'Deram dua hari tiga bersama', the captions 'dalam R tiga bersama'. Haziq talks over it and the owner also found it hard to hear. Owner: 'just put it like \"dan yang ketiga... haa dua tiga bersama sekarang kan, seri tiga, ialah...\"'."
   }
- }
+ },
+ "ep01:forum_owner_ruled_2026_09_28": {
+  "1:53:26": {
+   "who": "Ibrahim Sani",
+   "text_now": "Aa dilaporkan bekas CFO aa ditahan",
+   "_note": "OWNER RULING 2026-09-28, by ear, answering a ?t= link built from the caption track (listen_links.py). https://youtu.be/tKxIBnLIJkA?t=6813 -- camera said Nik Nazmi, pyannote said the moderator's cluster; owner: 'correct, ibrahim sani is speaking'."
+  },
+  "2:12:30": {
+   "who": "Ibrahim Sani",
+   "text_now": "Baik, terima kasih.",
+   "_note": "OWNER RULING 2026-09-28, by ear, answering a ?t= link built from the caption track (listen_links.py). https://youtu.be/tKxIBnLIJkA?t=7944 -- was Rafizi (camera); owner: 'is moderator'."
+  },
+  "2:12:32": {
+   "who": "Audience",
+   "text_now": "Boleh? Saya tanya dulu.",
+   "_note": "OWNER RULING 2026-09-28, by ear, answering a ?t= link built from the caption track (listen_links.py). https://youtu.be/tKxIBnLIJkA?t=7946 -- was Speaker ?; owner: 'audience'."
+  },
+  "2:18:21": {
+   "who": "Ibrahim Sani",
+   "text_now": "Ha, satu okey.",
+   "_note": "OWNER RULING 2026-09-28, by ear, answering a ?t= link built from the caption track (listen_links.py). https://youtu.be/tKxIBnLIJkA?t=8295 -- was Rafizi (camera); owner: 'moderator'."
+  },
+  "2:44:41": {
+   "who": "Audience (Hamadan Ahmad Omar)",
+   "text_now": "Saya Hamadan Ahmad Omar",
+   "_note": "OWNER RULING 2026-09-28, by ear, answering a ?t= link built from the caption track (listen_links.py). https://youtu.be/tKxIBnLIJkA?t=9880 -- owner confirmed the spelling 'Hamadan', not Hamdan."
+  }
+ },
+ "ep02:forum_owner_ruled_2026_09_28": {
+  "1:43:34": {
+   "who": "Geoffrey Williams",
+   "text_now": "the less tax I pay as well",
+   "_note": "OWNER RULING 2026-09-28, by ear, answering a ?t= link built from the caption track (listen_links.py). https://youtu.be/Byir6MLBXIQ?t=6208 -- camera said Sum Dek Joe, voice cluster Geoffrey Williams; owner: 'geoffrey interject while joe is talking, yep correct'."
+  },
+  "2:00:55": {
+   "who": "Rafizi",
+   "text_now": "I have to bring in the moderator.",
+   "_note": "OWNER RULING 2026-09-28, by ear, answering a ?t= link built from the caption track (listen_links.py). https://youtu.be/Byir6MLBXIQ?t=7249 -- voice cluster was ambiguous; owner: 'its rafizi interject while them having heated debate'."
+  },
+  "2:56:43": {
+   "who": "Huseyin Kilicman",
+   "text_now": "Maybe one final round.",
+   "_note": "OWNER RULING 2026-09-28, by ear, answering a ?t= link built from the caption track (listen_links.py). https://youtu.be/Byir6MLBXIQ?t=10597 -- was Speaker ?; owner: 'the moderator'."
+  },
+  "2:56:47": {
+   "who": "Huseyin Kilicman",
+   "text_now": "One more final round.",
+   "_note": "OWNER RULING 2026-09-28, by ear, answering a ?t= link built from the caption track (listen_links.py). https://youtu.be/Byir6MLBXIQ?t=10597 -- same ruling as 2:56:43."
+  },
+  "06:35": {
+   "who": "Huseyin Kilicman",
+   "text_was": "Salam sejahtera. Tajahau vanakam.",
+   "text_now": "Salam sejahtera. Dàjiā hǎo. Vanakkam.",
+   "_note": "OWNER RULING 2026-09-28, owner's own correction of the moderator's multilingual greeting: MAI heard 'Tajahau vanakam'; the moderator says the Mandarin greeting 'Dàjiā hǎo' (大家好) and the Tamil greeting 'Vanakkam'."
+  }
+ },
+ "_forum_scope_owner_ruled_2026_09_28": "Siri Forum BERSAMA: raw.md keeps only the formal forum, from the moderator's opening to the moderator's closing thanks. The party song and the chit-chat before and after are cut. Owner: 'anything outside of formal forum and after, chitchat before and after the forum is done, we can safely cut. as this video recording tends to overshoot outside of the formal forum'. ep01 starts 07:24 and ends 3:04:53; ep02 starts 06:35 and ends 3:03:40."
 }

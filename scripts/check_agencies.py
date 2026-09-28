@@ -180,7 +180,7 @@ def check(ep_dir):
         return []
     issues = []
     raw_body = strip_frontmatter(raw_path.read_text(encoding="utf-8"))
-    for name in ("raw.md", "interview.md", "interview-ms.md"):
+    for name in ("raw.md", "interview.md", "interview-ms.md", "transcript.md"):
         path = ep_dir / name
         if not path.exists():
             continue
@@ -192,7 +192,7 @@ def check(ep_dir):
                 f"(data/agency_roster.json) -- web-verify, then fix corpus-wide in "
                 f"fix_proper_nouns.py. Quote: ...{quote}...",
             ))
-    pub_path = ep_dir / "interview.md"
+    pub_path = next((ep_dir / n for n in ("interview.md", "transcript.md") if (ep_dir / n).exists()), ep_dir / "interview.md")
     if pub_path.exists():
         pub_body = strip_frontmatter(pub_path.read_text(encoding="utf-8"))
         miss = unsourced(pub_body, raw_body, entries)

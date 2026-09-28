@@ -6750,3 +6750,63 @@ asserted unique, word order preserved. Camera reads Zaim_Zulkifli across 2178-21
 Both recorded in `data/speaker_adjudications.json` under
 `ep06:berhenti_rule7_owner_ruled_2026_09_18`. `check_overlap_boundaries.py --all` is
 back to 0 contested corpus-wide.
+
+## Siri Forum BERSAMA, a third series, 2026-09-27 and 2026-09-28
+
+### 1.59: A forum video is not a podcast video, and five fixes it needed
+
+The owner added a new series on 2026-09-27: live public forums on the same channel, a
+moderator, a panel of four, and questions from the floor. Two episodes: `ep01:forum`
+(tKxIBnLIJkA) and `ep02:forum` (Byir6MLBXIQ). The standard raw.md pipeline ran on both, and
+five things broke or needed a change.
+
+1. **Two series were hardcoded.** `common.show_era_dir()` knew only the two podcast
+   eras, and four scripts built `yang-{x}-menteri` by hand (`corpus_status.py`,
+   `overnight_corpus.py`, `adjudicate_speakers.py`, `frames_at.py`). The forum ids are in
+   `common.FORUM_BERSAMA_VIDEO_IDS`, the folder is `siri-forum-bersama`, and every site now
+   takes the suffix from the folder name, so `ep01` refuses and lists three options.
+2. **The shared face gallery named only Rafizi.** The first camera reference covered 39%
+   of ep01, with 5,039 talking seconds on unknown faces. The fix was a gallery for each
+   video, built from the pre-roll cover card: the card shows every panellist with a
+   printed name, and the census puts each card face in its own cluster of exactly 94
+   (ep01) or 89 (ep02) faces. The live clusters were scored against those card faces and
+   against earlier corpus galleries (Nik Nazmi, Wong Chen, Sum Dek Joe), and coverage rose
+   to 76% and 78%. Faizal Rahman scored 0.526, under the 0.55 floor, and was named only
+   because he was the one panellist left and the next name scored 0.152.
+3. **A new episode has no committed raw.md.** `adopt_mai_camera_raw.py` reads the
+   committed file for owner decisions. For an uncommitted episode, pass
+   `--current <local raw>`.
+4. **The camera gave floor questioners to panellists.** In the Q&A the camera stays on a
+   panellist while someone in the hall speaks. `2:42:34 Rafizi: Saya Yusof bin Ibrahim
+   daripada Pahang` was one of four. pyannote put each questioner in a separate cluster
+   with no camera overlap, and that is what caught them. The fixes and their evidence are
+   in `data/_forum/ep0N_relabels.json` (local), and the owner's rulings are in
+   `speaker_adjudications.json`.
+5. **The video overshoots the forum.** A party song and room talk run before and after.
+   Owner's ruling: raw.md keeps only the formal forum, from the moderator's opening to his
+   closing thanks.
+
+### 2.13: One cleaned transcript per forum, and six checkers that could not see it
+
+The owner's spec: no interview files. One full-length, lightly cleaned transcript in the
+original mixed language, following Hansard rules, because "this forum is like parliment
+setting on its own". `rewrite_segments.py --forum` does it with `FORUM_PROMPT_TEMPLATE` on
+the mixed stage only, and `--write` makes `transcript.md` with the cast from
+`FORUM_CAST` (the cover card). The length gates are the normal full-length ones.
+
+The first `--write` passed every checker because no checker read the file.
+`check_published`, `check_figures` (through `DERIVED`), `check_names`, `check_slurs`,
+`check_agencies` and `check_cast` all opened `interview.md` by name. Each now falls back to
+`transcript.md`.
+
+Adding a speaker called `Nik Mustapha Nik Hassan` made `check_cast.py` flag ep49, which
+introduces `Nik Nazmi`: the rule matched on the first word only, and `Nik` is a name
+prefix. Prefixed names (`Nik`, `Wan`, `Syed` and similar) now match on two words.
+
+The fact check before the rewrite (`check_raw_facts.py`) listed 484 capitalised words
+across both raw.md files. 35 were MAI garbles, each confirmed against the caption track and
+a web source, and added to `fix_proper_nouns.py`. Several also corrected podcast
+episodes: `Jolo` (Jho Low) x17, `Akmal Salleh` (Saleh) x102, `Zafrol` (Zafrul) x19. One
+pattern, `Faizah Rahman`, was applied corpus-wide by mistake and changed ep41, where the
+name is not sourced. ep41 was restored from git, and the pattern is now anchored to the
+forum's own phrase.

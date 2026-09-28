@@ -675,7 +675,10 @@ def check_episode(ep_dir):
         ))
 
     raw_len = len(raw_text)
-    for name in ("interview.md", "interview-en.md", "interview-ms.md"):
+    # The forum series publishes one cleaned transcript.md, not three interview files.
+    published = (("transcript.md",) if ep_dir.parent.name == "siri-forum-bersama"
+                 else ("interview.md", "interview-en.md", "interview-ms.md"))
+    for name in published:
         path = ep_dir / name
         if not path.exists():
             issues.append(("missing-file", f"missing {name}"))
@@ -791,7 +794,7 @@ def ep_label(slug):
     m = _re.search(r"-(ep\d+)-", slug)
     tag = m.group(1) if m else slug[:12]
     if tag in {"ep01", "ep02", "ep03", "ep04", "ep05", "ep06"}:
-        return tag + (":bakar" if "bakar" in slug else ":berhenti")
+        return tag + (":forum" if "siri-forum" in slug else ":bakar" if "bakar" in slug else ":berhenti")
     return tag
 
 

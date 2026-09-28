@@ -277,7 +277,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:05:17] Farhan (Pa'an): Dah ada pelancaran.
 
-[1:05:18] Rafizi: Dah ada pelancaran semua dah. Penang. Ha, tapi dah lancar. Bukan PM ke lancarkan? Dialah lancarkan. La ilaha illallah. Ya Allah. Dia lancarkan. Ha, dia yang lancarkan dekat Penang kan, perbelanjaan asas kehidupan wajar. Dah lulus kabinet, PM dah lancarkan, lepas tu dia tak nak buat. Tak nak pakai kan. Apa beza antara konsep kehidupan wajar yang Kementerian Ekonomi dan Dosem perkenalkan tahun 2024 eh? 24. 24. Berbeza dengan konsep T20, M40, B40 yang mungkin sekarang ni Kementerian Kewangan akan tengok. Apa beza dia?
+[1:05:18] Rafizi: Dah ada pelancaran semua dah. Penang. Ha, tapi dah lancar. Bukan PM ke lancarkan? Dialah lancarkan. La ilaha illallah. Ya Allah. Dia lancarkan. Ha, dia yang lancarkan dekat Penang kan, perbelanjaan asas kehidupan wajar. Dah lulus kabinet, PM dah lancarkan, lepas tu dia tak nak buat. Tak nak pakai kan. Apa beza antara konsep kehidupan wajar yang Kementerian Ekonomi dan DOSM perkenalkan tahun 2024 eh? 24. 24. Berbeza dengan konsep T20, M40, B40 yang mungkin sekarang ni Kementerian Kewangan akan tengok. Apa beza dia?
 
 [1:05:57] Haziq: Lebih decent?
 

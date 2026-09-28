@@ -88,11 +88,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Matang tak semestinya lembik tau. Matang ni bukan dinilai sama ada mendayu-dayu ke tidak. Matang ni maksudnya mengambil kira semua perspektif dan membuat satu keputusan dan penilaian yang paling adil berlatarbelakangkan perspektif-perspektif tu. Jadi kalau macam ini, sepatutnyalah Ketua AMK menyatakan bahawa BN dengan PH telah pun membuat satu komitmen untuk memastikan kestabilan politik demi rakyat. Jadi apa pun keadaannya, parti-parti komponen dalam kerajaan Madani ni mestilah patuh kepada perjanjian yang telah ditandatangani itu. Dia matang tak semestinya lembik, mendayu kan. Matang ni maksudnya calling a spade a spade lah. Jadi berita dia pegang perut Dr. Akmal. Dan setelah dia pegang perut Dr. Akmal pun, Dr. Akmal buat bolayan juga dia.
 
-**Haziq:** Okey, baik YB. Kita tengok next apa lagi berita. Masih lagi Akmal Salleh. "Kamu yang bergaduh, Melayu yang berpecah."
+**Haziq:** Okey, baik YB. Kita tengok next apa lagi berita. Masih lagi Akmal Saleh. "Kamu yang bergaduh, Melayu yang berpecah."
 
 **Rafizi:** Siapa yang kata Melayu yang berpecah ni?
 
-**Haziq:** Ini ada dua oranglah saya nampak, YB. Satu ketua bahagian Bukit Bintang Bersatu — henti hukum pemimpin Bersatu, gugat usaha satukan orang Melayu. Dan Akmal Salleh lah, makin lama makin biadab, sudah tiba masanya penyatuan orang Melayu dan ini bukan retorik.
+**Haziq:** Ini ada dua oranglah saya nampak, YB. Satu ketua bahagian Bukit Bintang Bersatu — henti hukum pemimpin Bersatu, gugat usaha satukan orang Melayu. Dan Akmal Saleh lah, makin lama makin biadab, sudah tiba masanya penyatuan orang Melayu dan ini bukan retorik.
 
 **Rafizi:** Dr. Akmal ni merujuk kepada DAP.
 

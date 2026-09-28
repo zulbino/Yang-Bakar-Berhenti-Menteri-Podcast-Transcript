@@ -74,7 +74,7 @@ def main():
         vid, tag = vid.group(1), tag.group(1)
         if dup.get(tag, 0) > 1:
             era = os.path.basename(os.path.dirname(os.path.dirname(raw_path)))
-            show = next((x for x in common.SHOW_SUFFIXES if f"yang-{x}-menteri" == era), "")
+            show = next((x for x in common.SHOW_SUFFIXES if era.split("-")[1] == x), "")
             tag = f"{tag}:{show}" if show else tag
         seconds = int(seconds.group(1)) if seconds else 0
         adopted = "MAI-Transcribe-2" in head

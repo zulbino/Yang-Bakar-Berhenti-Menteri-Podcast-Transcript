@@ -663,7 +663,7 @@ the video before quoting anyone.
 - Kegagalan strategi kempen PH termasuk ketiadaan calon KDM dan kesilapan calon di kawasan seperti Sindumin, Api-Api, Moyog
 - Pembentukan kerajaan Hajiji Noor selepas PRN dan proses angkat sumpah tergesa-gesa
 - Kesan PRN Sabah terhadap PRU16 dan risiko existential kepada PH di Semenanjung
-- Kontroversi Dr Akmal Salleh dan kesan retorik UMNO terhadap sokongan pengundi bukan Melayu
+- Kontroversi Dr Akmal Saleh dan kesan retorik UMNO terhadap sokongan pengundi bukan Melayu
 - Dasar EV, harga kereta elektrik mampu milik dan infrastruktur pengecasan di Malaysia
 - Isu MOTAC/Tourism Malaysia gagal memanfaatkan bakat tempatan seperti Sofiang untuk promosi negara
 
@@ -1259,7 +1259,7 @@ the video before quoting anyone.
 
 - Segmen Beria: insiden tuduhan curi barang wanita mengandung di Lotus Selayang
 - Segmen Beria: reaksi pasca PRN Johor termasuk kenyataan AMK dan pantun KM Melaka
-- Segmen Beria: sembang kencang Akmal Salleh dan isu tidak resign
+- Segmen Beria: sembang kencang Akmal Saleh dan isu tidak resign
 - Latar belakang keputusan Bersama bertanding dalam PRN Johor dalam tempoh 2 minggu
 - Analisis data polling pra-penamaan dan pasca-penamaan calon PRN Johor mengikut kaum
 - Fenomena polarisasi undi dan sentimen anti-PH/anti-Anwar Ibrahim di Johor

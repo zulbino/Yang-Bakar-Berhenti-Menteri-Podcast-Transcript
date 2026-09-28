@@ -55,7 +55,7 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DERIVED = ("interview.md", "interview-en.md", "interview-ms.md")
+DERIVED = ("interview.md", "interview-en.md", "interview-ms.md", "transcript.md")
 
 # GATE: a word that cannot arrive in a published file by honest translation. If one of
 # these appears with no support in raw.md, the corpus has invented an insult, and the run

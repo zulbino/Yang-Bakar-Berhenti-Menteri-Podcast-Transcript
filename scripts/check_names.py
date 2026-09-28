@@ -93,7 +93,7 @@ def raw_sources(raw_body):
 
 
 def check(ep_dir, people=None):
-    raw_path, pub_path = ep_dir / "raw.md", ep_dir / "interview.md"
+    raw_path, pub_path = ep_dir / "raw.md", next((ep_dir / n for n in ("interview.md", "transcript.md") if (ep_dir / n).exists()), ep_dir / "interview.md")
     if not raw_path.exists() or not pub_path.exists():
         return []
     people = people if people is not None else known_people()

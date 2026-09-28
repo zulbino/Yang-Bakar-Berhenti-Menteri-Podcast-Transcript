@@ -108,7 +108,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Nazri:** Wakaf economy. Right, okay. If we look at the example in terms of the companies that are widely listed, the big companies, they actually already belong to the rakyat. For example Maybank, CIMB, all of those.
 
-**Rafizi:** Under PNB's permutation. And this PNB is financed by Amanah Saham which genuinely belongs to ordinary rakyat. Likewise CIMB, Tenaga, we have what's-its-name, EPF which truly belongs to the rakyat through their contributions, right. So I think there are two groups of big companies that are not directly owned by the rakyat like that. One is Petronas, which belongs to the country, another one is Khazanah, which is owned directly, right. Petronas actually already contributes to that endowment fund. Endowment fund. What is its name? Kumpulan Wang Amanah Negara. Kumpulan Wang Amanah Negara. Kuan, Kuan. The one that was there the other day.
+**Rafizi:** Under PNB's permutation. And this PNB is financed by Amanah Saham which genuinely belongs to ordinary rakyat. Likewise CIMB, Tenaga, we have what's-its-name, EPF which truly belongs to the rakyat through their contributions, right. So I think there are two groups of big companies that are not directly owned by the rakyat like that. One is Petronas, which belongs to the country, another one is Khazanah, which is owned directly, right. Petronas actually already contributes to that endowment fund. Endowment fund. What is its name? Kumpulan Wang Amanah Negara. Kumpulan Wang Amanah Negara. KWAN, Kuan. The one that was there the other day.
 
 **Nazri:** So, as I recall, right, this Kuan is never touched. During Covid, it was touched. Until Covid.
 

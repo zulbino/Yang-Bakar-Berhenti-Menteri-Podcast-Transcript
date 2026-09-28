@@ -108,7 +108,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Nazri:** Ekonomi wakaf. Yalah, okey. Dia kalau contoh dari segi syarikat-syarikat yang banyak tersenarai syarikat besar tu, dia memang sudah milik rakyat. Contohnya Maybank, CIMB semua tu.
 
-**Rafizi:** Di bawah permodalan PNB. Dan PNB ini dibiayai oleh Amanah Saham yang memang milik rakyat biasalah. Begitu juga CIMB, Tenaga, kita ada apa nama ni, EPF yang memang dimiliki oleh rakyat melalui caruman mereka kan. Jadi saya ingat ada dua kumpulan syarikat besarlah yang tidak dipunyai secara terus oleh rakyat macam itu. Satu ialah Petronas milik negara, satu lagi ialah Khazanah yang dimiliki terus kan. Petronas ni sebenarnya memang sudah pun menyumbang kepada endowment fund itu. Endowment fund. Apa nama dia tu? Kumpulan Wang Amanah Negara. Kumpulan Wang Amanah Negara. Kuan, Kuan. Yang hari tu ada.
+**Rafizi:** Di bawah permodalan PNB. Dan PNB ini dibiayai oleh Amanah Saham yang memang milik rakyat biasalah. Begitu juga CIMB, Tenaga, kita ada apa nama ni, EPF yang memang dimiliki oleh rakyat melalui caruman mereka kan. Jadi saya ingat ada dua kumpulan syarikat besarlah yang tidak dipunyai secara terus oleh rakyat macam itu. Satu ialah Petronas milik negara, satu lagi ialah Khazanah yang dimiliki terus kan. Petronas ni sebenarnya memang sudah pun menyumbang kepada endowment fund itu. Endowment fund. Apa nama dia tu? Kumpulan Wang Amanah Negara. Kumpulan Wang Amanah Negara. KWAN, Kuan. Yang hari tu ada.
 
 **Nazri:** Jadi, seingat sayalah kan, Kuan ini tidak pernah disentuh. Masa Covid dulu sentuhlah. Sehinggalah Covid.
 
