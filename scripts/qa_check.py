@@ -816,25 +816,32 @@ def by_series(items):
 
 
 def render_table(results, benign, root):
-    return "\n\n".join(f"### {name}\n\n" + render_rows(dict(members), benign, root)
+    return "\n\n".join(f"### {name}\n\n" + render_rows(dict(members), benign, root,
+                                                          forum=name == "Siri Forum BERSAMA")
                        for name, members in by_series(sorted(results.items(), reverse=True)))
 
 
-def render_rows(results, benign, root):
+def render_rows(results, benign, root, forum=False):
+    # A forum has raw.md and one cleaned transcript.md, and gate_rewrite.py never runs on
+    # it, so its table has no interview columns and no compl/attrib.
+    cols = ["raw.md", "transcript.md"] if forum else FILE_COLS
     rows = []
     for slug, (issues, models) in sorted(results.items(), reverse=True):
         sigs = sorted({s for s, _ in issues})
         waived = len(benign.get(slug, []))
         mark = "[x]" if not issues else "[ ]"
-        comp, attr = gate_scores(slug, root)
-        cells = [short_model(models.get(c)) for c in FILE_COLS]
+        cells = [short_model(models.get(c)) for c in cols]
+        if not forum:
+            cells += list(gate_scores(slug, root))
         pending = ", ".join(f"`{s}`" for s in sigs) if sigs else ""
         if waived:
             pending += (" " if pending else "") + f"({waived} waived)"
-        rows.append(f"| {ep_label(slug)} | {mark} | " + " | ".join(cells)
-                    + f" | {comp} | {attr} | {pending} |")
-    head = ("| ep | ok | raw.md | interview | -en | -ms | compl | attrib | pending |\n"
-            "|---|---|---|---|---|---|---|---|---|")
+        rows.append(f"| {ep_label(slug)} | {mark} | " + " | ".join(cells) + f" | {pending} |")
+    if forum:
+        head = "| ep | ok | raw.md | cleaned | pending |\n|---|---|---|---|---|"
+    else:
+        head = ("| ep | ok | raw.md | interview | -en | -ms | compl | attrib | pending |\n"
+                "|---|---|---|---|---|---|---|---|---|")
     return head + "\n" + "\n".join(rows)
 
 
