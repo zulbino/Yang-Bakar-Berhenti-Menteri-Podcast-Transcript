@@ -16,7 +16,7 @@ model: microsoft/MAI-Transcribe-2
 24 October 2025 · 2h 27m · [watch on YouTube](https://www.youtube.com/watch?v=xdSvoLRf9zE)
 
 This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
-The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md)
 <!-- /nav -->
 
 # Raw Transcript

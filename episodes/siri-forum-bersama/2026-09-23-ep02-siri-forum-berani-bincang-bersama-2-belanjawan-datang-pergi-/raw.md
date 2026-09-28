@@ -16,7 +16,7 @@ note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim s
 23 September 2026 · 3h 5m · [watch on YouTube](https://www.youtube.com/watch?v=Byir6MLBXIQ)
 
 This episode: **verbatim raw transcript** · [cleaned transcript, original mixed language](transcript.md)  
-The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md)
 <!-- /nav -->
 
 # Raw Transcript

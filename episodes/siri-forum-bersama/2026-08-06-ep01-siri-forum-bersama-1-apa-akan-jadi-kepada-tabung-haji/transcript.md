@@ -40,7 +40,7 @@ note: 'Cleaned record of the forum in the style of Hansard, kept in the original
 6 August 2026 · 3h 9m · [watch on YouTube](https://www.youtube.com/watch?v=tKxIBnLIJkA)
 
 This episode: [verbatim raw transcript](raw.md) · **cleaned transcript, original mixed language**  
-The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md) · [this run](../README.md)
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md)
 <!-- /nav -->
 
 # Transcript
