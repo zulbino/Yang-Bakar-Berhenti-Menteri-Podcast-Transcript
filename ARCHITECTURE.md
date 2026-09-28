@@ -136,7 +136,8 @@ A Siri Forum BERSAMA episode (`epNN:forum`) differs in four places:
 4. Rewrite with `rewrite_segments.py <tag> --forum --stage mixed`. `--write` makes one
    `transcript.md`: Hansard-style, full length, mixed language.
 
-Episode tags are ambiguous: both shows have an ep01 to ep06. Write `ep03:bakar` or
+Episode tags are ambiguous: both podcast eras have an ep01 to ep06, and the forum has an
+ep01 and ep02. Write `ep01:forum`, `ep03:bakar` or
 `ep03:berhenti`; `common.resolve_tag` refuses a bare tag that matches two.
 
 ## Adoption
