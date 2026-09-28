@@ -33,7 +33,7 @@ gets made.
 Each file names the model that produced it in its `model:` frontmatter field.
 
 `raw.md`
-: Speech-to-text by Microsoft's MAI-Transcribe-2, for all 72 episodes. Filler sounds are
+: Speech-to-text by Microsoft's MAI-Transcribe-2, for all 72 episodes and both forums. Filler sounds are
   removed; nothing is paraphrased. Speaker names come from the show's camera cuts, which
   show who is talking, then from voice comparison. A turn that no evidence can name is
   labelled `Speaker ?`, as Hansard writes "An Hon. Member". Earlier versions came from
@@ -44,6 +44,12 @@ Each file names the model that produced it in its `model:` frontmatter field.
   English. It is not a transcript: fillers and false starts are gone. Most were written by
   Claude Sonnet 5; some by Gemini Flash Lite, Claude Haiku or GLM. From ep65 on, the edit
   is condensed to roughly half the spoken length.
+
+`transcript.md` (Siri Forum BERSAMA only)
+: A cleaned record of each forum, edited the way Hansard edits a debate, in the original
+  mix of Malay and English. It keeps every point at close to full length and removes
+  filler sounds, stammers and false starts. Written by GLM-5.3. The forums have no
+  interview files.
 
 `interview-en.md` and `interview-ms.md`
 : Translations of `interview.md`, so two steps from the audio.
@@ -139,7 +145,7 @@ crosstalk as unverified.
 verified. Two episodes passed as clean for months while missing 41% and 80% of their
 content.
 
-Measured 2026-09-27: 17 of 72 episodes carry at least one flag, and 4 findings are reviewed
+Measured 2026-09-28: 18 of 74 recordings carry at least one flag, and 6 findings are reviewed
 as harmless, with reasons in `data/qa_reviewed.json`.
 
 [ARCHITECTURE.md](ARCHITECTURE.md) describes the pipeline. [ENGINEERING_LOG.md](ENGINEERING_LOG.md)
