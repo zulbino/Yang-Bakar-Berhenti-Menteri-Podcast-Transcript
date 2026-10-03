@@ -118,6 +118,14 @@ Then hand the owner a copy of raw.md to review against the video, and wait. Afte
 edit:
 
 ```bash
+python scripts/compare_owner_edit.py <tag> <pipeline copy> <owner copy>   # score the pipeline
+python scripts/install_owner_edit.py <tag> <owner copy> --write                  # stamp and install it as raw.md
+python scripts/merge_same_speaker.py --episode=<tag> --raw-only --write
+```
+
+Then:
+
+```bash
 python scripts/check_raw_facts.py <tag>               # web-verify every name it lists
 python scripts/check_raw_facts.py <tag> --record
 python scripts/segment_episode.py <tag> --out data/_<tag>_segments.json

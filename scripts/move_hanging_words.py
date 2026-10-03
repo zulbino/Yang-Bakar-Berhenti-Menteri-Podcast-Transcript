@@ -45,6 +45,7 @@ import argparse
 import glob
 import io
 import json
+import os
 import re
 import sys
 from collections import Counter
@@ -85,7 +86,9 @@ def toks(text):
 def mai_words(vid):
     """[(token, seconds)] for every word MAI transcribed, in time order."""
     out = []
-    for path in sorted(glob.glob(str(ROOT / f"data/_mai_{vid}/mai_response_*.json"))):
+    # ASR_WORDS_DIR: another engine's words in MAI's shape (local_asr_words.py), for a test.
+    words_dir = os.environ.get("ASR_WORDS_DIR") or str(ROOT / f"data/_mai_{vid}")
+    for path in sorted(glob.glob(str(Path(words_dir) / "mai_response_*.json"))):
         blob = json.load(io.open(path, encoding="utf-8"))
         base = blob.get("_chunk_start_s", 0)
         for phrase in blob.get("phrases", []):

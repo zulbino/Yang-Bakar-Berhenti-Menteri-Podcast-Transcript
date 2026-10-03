@@ -13,5 +13,10 @@
   "raw_sha256": "0a3649e34642d4c4420ac9344637de16a3676529ed0dafe7f5f77e485dbcc543",
   "date": "2026-09-28",
   "reviewed": 209
+ },
+ "ep66": {
+  "raw_sha256": "c270e2c2ca1160a2740c0af3a1aab796ef23f617e4468f931c269828109b6fab",
+  "date": "2026-10-04",
+  "reviewed": 258
  }
 }

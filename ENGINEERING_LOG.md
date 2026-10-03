@@ -6810,3 +6810,54 @@ episodes: `Jolo` (Jho Low) x17, `Akmal Salleh` (Saleh) x102, `Zafrol` (Zafrul) x
 pattern, `Faizah Rahman`, was applied corpus-wide by mistake and changed ep41, where the
 name is not sourced. ep41 was restored from git, and the pattern is now anchored to the
 forum's own phrase.
+
+## ep66, a free ASR engine test, and the owner-edit install, 2026-10-02 to 2026-10-04
+
+### 2.14: The Azure credit ends about 2026-10-07, and a free engine was scored against two owner edits
+
+MAI-Transcribe-2 stays the engine. The question was whether a free local engine could replace
+it when the credit ends. `scripts/local_asr_words.py` runs a local engine over one episode
+and writes its words in MAI's response shape, one phrase per pause of 0.2 s or more.
+`ASR_WORDS_DIR` (read by `mai_camera_raw.py` and `move_hanging_words.py`) points the whole
+adoption pipeline at those words, and `compare_owner_edit.py` scores the result against the
+owner's hand-corrected raw.md. Camera, pyannote and voice witness are unchanged, so only the
+words engine differs.
+
+| engine | ep65 words different | ep65 labels right | ep66 words different | ep66 labels right |
+|---|---|---|---|---|
+| MAI-Transcribe-2 | 0.6% | 98.5% | 1.0% | 93.2% |
+| Whisper-large-v3-turbo | 15.8% | 98.2% | 14.1% | 93.0% |
+| malaysian-whisper-medium-v2 | 16.8% | 97.9% | not run | not run |
+| Polyglot-Lion-1.7B | 23.4% | 97.9% | not run | not run |
+
+The word columns favour MAI, because the owner edited MAI's text. The label columns do not.
+Polyglot-Lion is out: no punctuation, numbers spelled as words, Chinese characters for filler
+sounds. Whisper-turbo is the free fallback; the owner reads about 3,200 differing words per
+episode against about 200 for MAI.
+
+Two traps. A 28 s VAD chunk as one phrase gave 14 to 18% of the owner's speaker changes,
+because the pipeline labels a phrase as a whole; splitting at 0.2 s gave 55%. And
+`run_engine_trial.py`-style scripts restore raw.md with `git checkout`, which does nothing for
+a new episode whose folder is untracked: back the file up and restore from the backup.
+
+### 2.15: `install_owner_edit.py`, and a replacement that destroyed a spoken self-correction
+
+The owner's edited copy has turns with no timestamp. `scripts/install_owner_edit.py` stamps
+each from MAI's word times, refuses a label no speaker of the episode uses (it caught
+`RafiziL`, `HAziq` and three missing colons) and refuses backwards stamps. Stamps are
+compared in whole seconds, because a stamped turn after a fractional one looked backwards.
+
+The fact check on ep66 verified 76 names and acronyms through one read-only subagent and
+corrected 25 spellings. One blanket replacement was wrong: `Seremban 2` to `Seremban 3`
+matched 4 times where the web check expected 1, and the owner's text at 2:41:09 reads
+`Seremban 2 ke Seremban 3 ni. Seremban 2 ke Seremban 3? Seremban 3.`, a spoken
+self-correction. A count that differs from the expected count has to stop the run, and a
+speaker's own slip stays verbatim. All four were restored.
+
+Honorifics: the sources disagree on `Datuk` and `Dato'`. The PMO profile writes `YAB Dato'
+Seri Anwar` and its 2022 headline `Datuk Seri`; Parliament writes `Dato' Sri Haji Tajuddin`;
+Najib's own style is `Dato' Sri`, which the show's ep65 title uses. ep66 now uses the form each
+person's own source gives for Najib, Tajuddin, Raffe Chekku, Shahrir Abdul Jalil and Aidit
+Ghazali. Anwar and everyone else stay `Datuk`. The rest of the corpus uses `Datuk Seri` 1,901
+times and `Dato' Seri` 15 times, so ep66 is now inconsistent with it for those five people.
+37 verified entities went into `data/entity_roster.json`.

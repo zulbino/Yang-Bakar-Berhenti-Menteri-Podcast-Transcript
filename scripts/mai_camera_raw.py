@@ -61,6 +61,7 @@ import argparse
 import glob
 import json
 import math
+import os
 import re
 import sys
 from collections import Counter
@@ -100,7 +101,9 @@ class W(str):
 def mai_turns(video_id):
     """MAI's turns: consecutive phrases of one speaker inside one request, with word times."""
     turns = []
-    for p in sorted(glob.glob(str(ROOT / f"data/_mai_{video_id}/mai_response_*.json"))):
+    # ASR_WORDS_DIR: another engine's words in MAI's shape (local_asr_words.py), for a test.
+    words_dir = os.environ.get("ASR_WORDS_DIR") or str(ROOT / f"data/_mai_{video_id}")
+    for p in sorted(glob.glob(str(Path(words_dir) / "mai_response_*.json"))):
         d = json.loads(Path(p).read_text(encoding="utf-8"))
         base = d["_chunk_start_s"]
         for ph in d["phrases"]:
@@ -318,7 +321,7 @@ def main():
     # bare tag names the wrong episode's artifacts. artifact_tag() is what makes the
     # filename safe; the qualifier has to survive to it.
     tag = a.tag
-    sandbox = ROOT / "data" / f"_mai_{vid}"
+    sandbox = Path(os.environ.get("ASR_WORDS_DIR") or ROOT / "data" / f"_mai_{vid}")
     camera = camera_per_second(a.reference or ROOT / "data" / f"camera_ref_{common.artifact_tag(tag)}.rttm")
     diar_path = Path(a.diar) if a.diar and a.diar != "none" else ROOT / "data" / f"diar_{vid}_t055.json"
     diar, diar_report = ({}, {}) if a.diar == "none" or not diar_path.exists() else diar_per_second(diar_path, camera)
