@@ -1476,3 +1476,23 @@ the video before quoting anyone.
 - Krisis takhta Negeri Sembilan (Tuanku Mukhriz vs Undang-undang Luak), tulisan Kalimullah, ujian kepimpinan Anwar dan preseden darurat Kelantan 1977
 - Surat tunjuk sebab ROS terhadap Perikatan Nasional, kesannya kepada Wawasan/Melaka dan Akta Anti-Lompat Parti, serta bakal calon PM (Anwar, Zahid, Samsuri)
 - Tahanan rumah Datuk Seri Najib dan proses Lembaga Pengampunan, sebab Rafizi letak jawatan, dan bahaya revisionisme sejarah 1MDB
+
+## YBhM ep66 &mdash; 2026-10-02
+
+[Gaji Minimum Naik, Rakyat Lega? Siasatan UiTM Holdings: 12 Tahun Kemudian | YBM #66](https://www.youtube.com/watch?v=4QQ4pqQzbSw) &middot; [raw](episodes/yang-berhenti-menteri/2026-10-02-ep66-gaji-minimum-naik-rakyat-lega-siasatan-uitm-holdings-12-tahu/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-10-02-ep66-gaji-minimum-naik-rakyat-lega-siasatan-uitm-holdings-12-tahu/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-10-02-ep66-gaji-minimum-naik-rakyat-lega-siasatan-uitm-holdings-12-tahu/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-10-02-ep66-gaji-minimum-naik-rakyat-lega-siasatan-uitm-holdings-12-tahu/interview-ms.md)
+
+- Persediaan dan pelancaran Belanjawan Bayangan/Alternatif BERSAMA 2026
+- Beria: jerebu Kalimantan dan tuduhan cloud seeding untuk Formula One
+- Beria: cadangan Tan Sri Shahril Ridza kurangkan caruman KWSP gaji atas RM10,000
+- Beria: ADUN DAP Michelle Ng pertahan Hannah Yeoh tidak letak jawatan
+- Beria: pelantikan Shahrol Shiro sebagai pengajar Citra UKM walau rekod disiplin Suria FM dan isu SOP Covid
+- Isu gaji di Malaysia: produktiviti berbanding kenaikan gaji benar
+- Perbandingan gaji dan Compensation of Employees (COE) Malaysia dengan negara serantau
+- Wage compression dan jurang gaji mengikut kemahiran
+- Pergantungan kepada pekerja asing dan kesannya kepada gaji tempatan
+- Dasar Gaji Progresif dan peruntukannya
+- Levy pekerja asing dan automasi SME
+- Aging nation dan kesan AI/automasi kepada pasaran kerja masa depan
+- Jangkaan pengumuman gaji minimum dan pengecualian PMKS minggu depan
+- Konsesi Private Finance Initiative (PFI) pembinaan 6 kampus cawangan UiTM dan kroni UMNO
+- Kerugian UiTM Holdings RM157 juta dan kenyataan PM Anwar Ibrahim
