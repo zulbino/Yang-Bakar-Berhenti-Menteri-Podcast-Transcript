@@ -175,7 +175,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** Okay, okay. So I cannot blame you. Okay, you are a data man. We know that you always go with the data and all that. But the facts remain, you see. If I want to blame you, you are just the Minister of Economy. Not saying the ministry isn't great, right? But you have your bosses above. You have one boss above you.
 
-**Rafizi:** But the concept isn't quite like that, Salim. It is actually a collective responsibility. And what do you call it, the economic portfolio is under the Ministry of Economy, right? So I think we can't say the boss has to take the full blame. That's why, for example, during Datuk Seri Najib's time, as much as we put a lot of focus on Datuk Seri Najib, it was actually quite a collective responsibility of all the ministers. But it's a pity he had to take it alone. Including—I mean, the things he was charged with, he had to face. That's according to the process. But, but there are also examples of people who were part of the past cabinet or whatever—
+**Rafizi:** But the concept isn't quite like that, Salim. It is actually a collective responsibility. And what do you call it, the economic portfolio is under the Ministry of Economy, right? So I think we can't say the boss has to take the full blame. That's why, for example, during Datuk Seri Najib's time, as much as we put a lot of focus on Dato' Sri Najib, it was actually quite a collective responsibility of all the ministers. But it's a pity he had to take it alone. Including—I mean, the things he was charged with, he had to face. That's according to the process. But, but there are also examples of people who were part of the past cabinet or whatever—
 
 **Salim Iskandar:** Still friends with you now?
 
@@ -319,7 +319,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** You are. That's why your data is very, I'm very a bit shocked.
 
-**Rafizi:** No, that is audited data. The same data provided by the same group of government officials from the time of Datuk Seri Najib until now. What is the rate of STR paid now?
+**Rafizi:** No, that is audited data. The same data provided by the same group of government officials from the time of Dato' Sri Najib until now. What is the rate of STR paid now?
 
 **Salim Iskandar:** Higher than before. How much?
 
@@ -381,7 +381,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Speaker ?:** True.
 
-**Salim Iskandar:** But we want to see the result, okay. We don't want to blame say everything what all of this. Just Anwar this, I'm sorry YBM. Dato' Sri Anwar don't be angry Ah, okay. You see how he is.
+**Salim Iskandar:** But we want to see the result, okay. We don't want to blame say everything what all of this. Just Anwar this, I'm sorry YBM. Dato' Seri Anwar don't be angry Ah, okay. You see how he is.
 
 **Rafizi:** He's cute doing like this.
 
@@ -465,7 +465,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** Okay. Petrol and diesel. Muhyiddin could say, I did that because when it went down I took the profit, right? We took. So when it went up we controlled it back. So Muhyiddin could answer like that. No. Or Muhyiddin would say, my wife wouldn't let me.
 
-**Rafizi:** There's nothing left. No more anger, huh? I'm not involved in this wife business, you know. Wife wouldn't let me take the presidency position, boss. So when what's his name, Datuk Seri Anwar, I said we could lower the oil price, that was based on the price at that time of 30, 40, 50 dollars.
+**Rafizi:** There's nothing left. No more anger, huh? I'm not involved in this wife business, you know. Wife wouldn't let me take the presidency position, boss. So when what's his name, Dato' Seri Anwar, I said we could lower the oil price, that was based on the price at that time of 30, 40, 50 dollars.
 
 **Salim Iskandar:** Back then it wasn't with us, let's say our budget at that time was around 280 billion. Last time he said, in month 7 of 2022, right? Why can't we set the oil price? Because I didn't become Prime Minister, he said, right? This is what Anwar said. Anwar don't get angry, brother. Don't get angry, don't get angry. Okay, he said in month 7 of 2022 during the PKR convention. Okay, he said it like that. Because we didn't become Prime Minister. That's why YB, I'm not angry at YB. I usually, wait YB don't get angry. Bear with it YB, bear with it. This is going to burn. Because when you become a leader, I'm talking about Anwar, Anwar. When you become a leader, I feel like this is how I see it. I'm sorry. This is my view as a Malaysian citizen. I feel that those who are already old should just retire. Let young people like this rise. This is my opinion, you know. I mean I want to see because this bright man.
 
@@ -513,9 +513,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** KJ 76, you were—
 
-**Rafizi:** 76, I'm 77. 77 ah, okay. So what do you call it, what is needed now, and okay, you may disagree, but this is how I see it within PKR for example, right? Me and Datuk Seri Anwar, we work well together because I have my advantages in that I'm a technocrat. So, you know, usually with data like this, I understand the market better, right? But there are things I can't do when it comes to leading a country or society. Because I haven't accumulated enough experience yet. For example, to unite everyone—that is something an older person can do better because that is the best, that is the biggest challenge. So that's why this combination now I think is effective for the country.
+**Rafizi:** 76, I'm 77. 77 ah, okay. So what do you call it, what is needed now, and okay, you may disagree, but this is how I see it within PKR for example, right? Me and Dato' Seri Anwar, we work well together because I have my advantages in that I'm a technocrat. So, you know, usually with data like this, I understand the market better, right? But there are things I can't do when it comes to leading a country or society. Because I haven't accumulated enough experience yet. For example, to unite everyone—that is something an older person can do better because that is the best, that is the biggest challenge. So that's why this combination now I think is effective for the country.
 
-**Salim Iskandar:** No. You have people like Datuk Seri Anwar Ibrahim, no sir, that can bring everyone to the table. No sir.
+**Salim Iskandar:** No. You have people like Dato' Seri Anwar Ibrahim, no sir, that can bring everyone to the table. No sir.
 
 **Rafizi:** And give space for us young technocrats to focus on technical-related work. Because not everyone can do what he is doing, bringing the whole fragmented society together.
 
@@ -535,7 +535,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I already know what you're going to say.
 
-**Salim Iskandar:** Example, example, example, example, right. Then suddenly tomorrow Datuk Seri Anwar Ibrahim arrives in style, right. Who do you want to take this?
+**Salim Iskandar:** Example, example, example, example, right. Then suddenly tomorrow Dato' Seri Anwar Ibrahim arrives in style, right. Who do you want to take this?
 
 **Rafizi:** Let the price drop by 3 cents, he says. I said, Oh Allah, my Lord, that is not your job, Mr.
 
@@ -559,7 +559,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Those words are a prayer you say every day. Yeah, but if Anwar—terrible, terrible, terrible. Of course you psychologically feel terrible too, right?
 
-**Salim Iskandar:** Yes. But if Anwar can no longer handle it, brother Datuk Seri Anwar Ibrahim, a younger person, you know, I mean my man. Sorry lah, this is my opinion, Nothing to do with it. You guys talk about cartels or whatever, you know.
+**Salim Iskandar:** Yes. But if Anwar can no longer handle it, brother Dato' Seri Anwar Ibrahim, a younger person, you know, I mean my man. Sorry lah, this is my opinion, Nothing to do with it. You guys talk about cartels or whatever, you know.
 
 **Rafizi:** Unfortunately, Salim, I think your opinion is not shared by the majority of Malaysians. If you ask me, I think this is a good junction where the combination of all existing leaders from all parties—from those who were in politics 40 years ago to the young ones—is needed, because it's a junction where we need everyone to focus on their strengths. The older ones are there to bring back society so that we don't become too extreme and polarized. The young ones with technocratic skills, who can do that, you focus on that one. There are things I can do, there are things I cannot do, there are things KJ can do, there are things KJ cannot do.
 
