@@ -272,7 +272,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** 2009 was around the time of Kajang Move?
 
-**Rafizi:** Around, no. Kajang Move 2014. Lama lagi. Kemudian I think lepas itu ada sebablah saya ingat dia 2011, 2012 tu dia hilanglah. Dia hilang, nothing sangatlah. Jadi di antara tahun 2009 sampailah 2018, sampai yalah Datuk Seri Anwar masuk penjara balik 2015 kan. So antara 2009 sampai 2012 tu, I was more or less dia punya Chief of Staff masa saya CEO dekat Selangor dulu. Sebagai penasihat Datuk Seri Anwar, penasihat ekonomi Selangor kan. So until dia masuk penjara balik 2015, Farhash did tak ada pengaruh yang besar yang macam kita tengok sekarang, tak ada. Farhash lepas dia dah habis dia punya Youth wing tu, habis dekat situlah. He only appeared balik bila Datuk Seri Anwar keluar penjara 2018.
+**Rafizi:** Around, no. Kajang Move 2014. Lama lagi. Kemudian I think lepas itu ada sebablah saya ingat dia 2011, 2012 tu dia hilanglah. Dia hilang, nothing sangatlah. Jadi di antara tahun 2009 sampailah 2018, sampai yalah Dato' Seri Anwar masuk penjara balik 2015 kan. So antara 2009 sampai 2012 tu, I was more or less dia punya Chief of Staff masa saya CEO dekat Selangor dulu. Sebagai penasihat Dato' Seri Anwar, penasihat ekonomi Selangor kan. So until dia masuk penjara balik 2015, Farhash did tak ada pengaruh yang besar yang macam kita tengok sekarang, tak ada. Farhash lepas dia dah habis dia punya Youth wing tu, habis dekat situlah. He only appeared balik bila Dato' Seri Anwar keluar penjara 2018.
 
 **Iqbal:** Tapi apakah maksud pengaruh besar? Sebab dia tak memegang apa-apa jawatan.
 
@@ -280,7 +280,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Chak Onn Lau:** Yang ni like macam common knowledge lah?
 
-**Rafizi:** Common knowledge. Dulu di dalam parti, sekarang di luar. Semua orang dah tahulah kan. Jadi kalau tengok 2018 tu, I remember the first time saya perasan ada Farhash ni ialah the third or fourth day lepas menang Mei 2018, masa dekat Hospital Cheras. Datuk Seri Anwar masih lagi belum dapat pengampunan diraja. Masa itu yang menyelaras siapa nak jumpa Datuk Seri Anwar tu ada dua tiga orang di antara kamilah: saya, Saifuddin, Dr. Rahim Ghaus. Farhash was nowhere near. That's when I first noticed him because he was queueing kat luar, nak minta jumpa dengan Datuk Seri Anwar lah kan. But I left after 2018, you know. I packed up and said, you know, that's it. I'm not interested in politics, I went on to do my things. Out of that lah I think, bila Anwar set up balik pejabat dia dekat Bukit Gasing, for whatever reasons he took Farhash lah. Daripada situ then you can see, from what I heard, immensely lah dia punya influence tu naik pengaruhlah. Dan yalah Farhash.
+**Rafizi:** Common knowledge. Dulu di dalam parti, sekarang di luar. Semua orang dah tahulah kan. Jadi kalau tengok 2018 tu, I remember the first time saya perasan ada Farhash ni ialah the third or fourth day lepas menang Mei 2018, masa dekat Hospital Cheras. Dato' Seri Anwar masih lagi belum dapat pengampunan diraja. Masa itu yang menyelaras siapa nak jumpa Dato' Seri Anwar tu ada dua tiga orang di antara kamilah: saya, Saifuddin, Dr. Rahim Ghaus. Farhash was nowhere near. That's when I first noticed him because he was queueing kat luar, nak minta jumpa dengan Dato' Seri Anwar lah kan. But I left after 2018, you know. I packed up and said, you know, that's it. I'm not interested in politics, I went on to do my things. Out of that lah I think, bila Anwar set up balik pejabat dia dekat Bukit Gasing, for whatever reasons he took Farhash lah. Daripada situ then you can see, from what I heard, immensely lah dia punya influence tu naik pengaruhlah. Dan yalah Farhash.
 
 **Chak Onn Lau:** Semasa tu dia berumur berapa? Macam 30 ke 30-an?
 
@@ -290,7 +290,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Ke sebelum?
 
-**Rafizi:** No, sebelum. Mas, mas, mas, much earlier. Because Nik was apa nama ni staff Datuk Seri Anwar ni in between 2006 to 2008. Dia bermula because I remember, because dia balik kerja 6 bulan, dia kata dia nak pergi join Anwar. I was not too happy about it lah. I cakap, I don't think that's right.
+**Rafizi:** No, sebelum. Mas, mas, mas, much earlier. Because Nik was apa nama ni staff Dato' Seri Anwar ni in between 2006 to 2008. Dia bermula because I remember, because dia balik kerja 6 bulan, dia kata dia nak pergi join Anwar. I was not too happy about it lah. I cakap, I don't think that's right.
 
 **Iqbal:** Kenapa?
 
@@ -310,7 +310,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Baik. Jadi semasa pada masa sekarang, bila YB cakap seseorang macam Farhash ni memegang pengaruh yang besar dalam parti politik PKR, apa toward what end? Apakah pengaruh tu digunakan untuk?
 
-**Rafizi:** Kalau tengok kepada pemilihan-pemilihan yang lepas kan, 2018 yang masa saya lawan Azmin, Farhash tak terlibat sangat sebab saya ingat baru lagi Datuk Seri Anwar baru keluar penjara. Kemudian masa pemilihan nak berlaku tu, dia kena pergi ke Germany untuk operation semua. So dia tak ada kan. Tapi by 2022 tu, dia dah ada faction dia sendiri, geng baju hitam.
+**Rafizi:** Kalau tengok kepada pemilihan-pemilihan yang lepas kan, 2018 yang masa saya lawan Azmin, Farhash tak terlibat sangat sebab saya ingat baru lagi Dato' Seri Anwar baru keluar penjara. Kemudian masa pemilihan nak berlaku tu, dia kena pergi ke Germany untuk operation semua. So dia tak ada kan. Tapi by 2022 tu, dia dah ada faction dia sendiri, geng baju hitam.
 
 **Iqbal:** Okey. So boleh terangkan apakah faction? Sebab masa you bergaduh dengan Azmin dari dulu lagi, PKR kan.
 
@@ -346,13 +346,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Chak Onn Lau:** Macam 'Long live the king' lah.
 
-**Rafizi:** Tak ada. Cuma saya pernah mengingatkan Datuk Seri Anwar kan that sebenarnya cara geng baju hitam ni lagi berbahaya daripada cara Azmin 'the end justify the means' ni. Sebab.
+**Rafizi:** Tak ada. Cuma saya pernah mengingatkan Dato' Seri Anwar kan that sebenarnya cara geng baju hitam ni lagi berbahaya daripada cara Azmin 'the end justify the means' ni. Sebab.
 
 **Chak Onn Lau:** Tapi kenapa, kenapa PM yang biarkan mereka?
 
 **Rafizi:** Itu kena tanya Anwar Ibrahim.
 
-**Iqbal:** Kalau Datuk Seri Anwar Ibrahim kalau sudi masuk ke dalam show kami.
+**Iqbal:** Kalau Dato' Seri Anwar Ibrahim kalau sudi masuk ke dalam show kami.
 
 **Rafizi:** Bolehlah jemput Anwar Ibrahim hadir ke Sos Cili, tanya dia, tanya soalan tu kan. Sebab kami pun nak tahu juga!
 
@@ -374,7 +374,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Chak Onn Lau:** That's true.
 
-**Rafizi:** Yeah, what choice would you have made? Agong kata form unity government dengan semua parti. And that means that kena include-kan UMNO. Jadi bila Agong panggil Muhyiddin, Muhyiddin tolak mentah-mentah. Agong panggil Datuk Seri Anwar, you kena form unity government. Kalau tidak, tak ada kerajaan. So if you are in that position, if you are in my position masa tu, what would you have done?
+**Rafizi:** Yeah, what choice would you have made? Agong kata form unity government dengan semua parti. And that means that kena include-kan UMNO. Jadi bila Agong panggil Muhyiddin, Muhyiddin tolak mentah-mentah. Agong panggil Dato' Seri Anwar, you kena form unity government. Kalau tidak, tak ada kerajaan. So if you are in that position, if you are in my position masa tu, what would you have done?
 
 **Chak Onn Lau:** Well, if you are the ends do justify the means, then you would take it.
 
@@ -404,7 +404,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Saya tak kaitkan. I just clarify because ada fitnah yang sedang berlegar and it's not fair kepada Ismail Sabri dan juga KJ.
 
-**Iqbal:** Maka tohmahan-tohmahan ni — saya faham YB dah encourage Dato' Seri Ismail Sabri untuk buat laporan.
+**Iqbal:** Maka tohmahan-tohmahan ni — saya faham YB dah encourage Dato' Sri Ismail Sabri untuk buat laporan.
 
 **Rafizi:** Tak tak, dia beritahu saya dia akan buat laporan polis. So saya kata good, go ahead. I will do my part, dia kena buat his part lah.
 
@@ -430,17 +430,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Saya tak tahu, kena tanya orang lain lah kut.
 
-**Iqbal:** Dalam semua bisikan-bisikan yang berlaku selama ni, tak ada siapa pernah tanya Datuk Seri Anwar?
+**Iqbal:** Dalam semua bisikan-bisikan yang berlaku selama ni, tak ada siapa pernah tanya Dato' Seri Anwar?
 
 **Rafizi:** You sebenarnya nak suruh saya sebut orang takut kat Farhash?
 
 **Iqbal:** Adakah? Adakah?
 
-**Rafizi:** I don't know, you should ask other people. Because I don't, I don't. Cuma sebelum saya meletakkan jawatan kan, sebarang isu mengenai Farhash semua ni — kerana kalau sebut Farhash, dia akan dikaitkan dengan Datuk Seri Anwar kan? Jadi perkara ini perlu kita bawa secara dalaman kepada Datuk Seri Anwar. Dan memang.
+**Rafizi:** I don't know, you should ask other people. Because I don't, I don't. Cuma sebelum saya meletakkan jawatan kan, sebarang isu mengenai Farhash semua ni — kerana kalau sebut Farhash, dia akan dikaitkan dengan Dato' Seri Anwar kan? Jadi perkara ini perlu kita bawa secara dalaman kepada Dato' Seri Anwar. Dan memang.
 
 **Iqbal:** Pada pengetahuan YB, pernahkah?
 
-**Rafizi:** Dah dah dah. Kami sendiri pun ada sebut berkali-kali. Tapi jawapan Datuk Seri Anwar itulah — dia kata, "Dia bekas setiausaha politik saya." Dia bukan isu sama ada Farhash ni bekas ke masih lagi memegang jawatan ke tidak. Soalnya ialah apabila ada cakap-cakap daripada ramai orang dalam dan luar kerajaan yang menunjukkan Farhash ada pengaruh yang besar dalam keputusan kerajaan — yang itu sudah tentu perlu ditangani, betul ke tidak. Kalaupun dia tak betul, persepsi itu berbahaya. Jadi memang dibawa kepada Datuk Seri Anwar, tapi jawapan Datuk Seri Anwar seperti itulah: "Tak ada kena-mengena, dia bekas setiausaha politik saya."
+**Rafizi:** Dah dah dah. Kami sendiri pun ada sebut berkali-kali. Tapi jawapan Dato' Seri Anwar itulah — dia kata, "Dia bekas setiausaha politik saya." Dia bukan isu sama ada Farhash ni bekas ke masih lagi memegang jawatan ke tidak. Soalnya ialah apabila ada cakap-cakap daripada ramai orang dalam dan luar kerajaan yang menunjukkan Farhash ada pengaruh yang besar dalam keputusan kerajaan — yang itu sudah tentu perlu ditangani, betul ke tidak. Kalaupun dia tak betul, persepsi itu berbahaya. Jadi memang dibawa kepada Dato' Seri Anwar, tapi jawapan Dato' Seri Anwar seperti itulah: "Tak ada kena-mengena, dia bekas setiausaha politik saya."
 
 **Chak Onn Lau:** Yang aneh bagi saya kerana isu Farhash ni macam tengah dibisik-bisik untuk lama dah kan? Tetapi opposition tak ambil kesempatan untuk mengambil nama dia keluar dekat media pun.
 
@@ -626,7 +626,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Which leads us actually to the next question nicely. So ni berkaitan dengan persepsi bahawa kebanyakan reformasi-reformasi yang ingin dilihat oleh rakyat ramai setakat ni belum dinampak, dan kebanyakan kali kita dengar UMNO digunakan sebagai scapegoat bahawa benda-benda ni tak berjaya dilaksanakan sebab ada pushback. To what extent is that true?
 
-**Rafizi:** I actually disagree tau. Dan ini kali pertama saya put it on record. Kecualilah dia berlaku di belakang saya, maksudnya bantahan itu berlaku bukan di kabinet kan. Pengalaman sayalah kan, sebenarnya UMNO ni dia bukan bantah semua tau. Okey, ini kawan-kawan UMNO jangan marah I will say, my assessment of UMNO kan — UMNO is in the game for power daripada dulu sampai sekaranglah kan. And for that matter, any political party. Tapi UMNO lebih lama, jadi dia tahu dynamics of power tu lebih baik kan. UMNO juga tahu, contohnya, constituents dia untuk constituents tradisi dia iaitu Melayu kampung semua ni is a tough battle. Sebab ada PAS, ada PN kan. Dan apa dia nak contest dari segi Melayu tu not that easy sebab ada DAP dalam bersama kan. Jadi they are looking for constituent baru. Constituent baru ini adalah constituent yang UMNO dulu pernah ada tapi hilang. Contohnya Melayu bandar, contohnya non-Malay, contohnya the educated yang over the years pergi kepada PKR, PH ni kan. Jadi sebenarnya apa-apa yang popular kepada constituents yang dia nak fokus ni, UMNO okey. Saya tak nampak UMNO ada masalah. Dan saya tak ingat sangat pun UMNO bantah benda-benda yang, some of it tu, radikal yang saya bawa. Cuma Datuk Seri Anwar, mungkin kalau dia ada kat sini, dia kata, "Yalah, dia tak bantah depan you, dia bantah belakang you," kan? Kadang-kadang saya dengar itulah, when I question kenapa, dia kata, "Yalah dia orang tak setuju, dia datang jumpa saya." But on record, officially, saya rasa kita kena betulkan kalau orang kata pace of reform ini perlahan disebabkan oleh UMNO. Scapegoating UMNO will not save PKR and PH tau of this question of reform.
+**Rafizi:** I actually disagree tau. Dan ini kali pertama saya put it on record. Kecualilah dia berlaku di belakang saya, maksudnya bantahan itu berlaku bukan di kabinet kan. Pengalaman sayalah kan, sebenarnya UMNO ni dia bukan bantah semua tau. Okey, ini kawan-kawan UMNO jangan marah I will say, my assessment of UMNO kan — UMNO is in the game for power daripada dulu sampai sekaranglah kan. And for that matter, any political party. Tapi UMNO lebih lama, jadi dia tahu dynamics of power tu lebih baik kan. UMNO juga tahu, contohnya, constituents dia untuk constituents tradisi dia iaitu Melayu kampung semua ni is a tough battle. Sebab ada PAS, ada PN kan. Dan apa dia nak contest dari segi Melayu tu not that easy sebab ada DAP dalam bersama kan. Jadi they are looking for constituent baru. Constituent baru ini adalah constituent yang UMNO dulu pernah ada tapi hilang. Contohnya Melayu bandar, contohnya non-Malay, contohnya the educated yang over the years pergi kepada PKR, PH ni kan. Jadi sebenarnya apa-apa yang popular kepada constituents yang dia nak fokus ni, UMNO okey. Saya tak nampak UMNO ada masalah. Dan saya tak ingat sangat pun UMNO bantah benda-benda yang, some of it tu, radikal yang saya bawa. Cuma Dato' Seri Anwar, mungkin kalau dia ada kat sini, dia kata, "Yalah, dia tak bantah depan you, dia bantah belakang you," kan? Kadang-kadang saya dengar itulah, when I question kenapa, dia kata, "Yalah dia orang tak setuju, dia datang jumpa saya." But on record, officially, saya rasa kita kena betulkan kalau orang kata pace of reform ini perlahan disebabkan oleh UMNO. Scapegoating UMNO will not save PKR and PH tau of this question of reform.
 
 **Iqbal:** Okey, so let me be specific about what I mean by the pace of reforms ni slow. Kita boleh lihat dari janji-janji manifesto GE15. Contohnya pemisahan AG dan Pendakwa Raya, contohnya nomination untuk ketua MACC, SPRM. Janji-janji ni — adakah bila orang cakap UMNO yang jadi stumbling block daripada semua janji-janji ni dilaksanakan, that's not the case?
 
@@ -646,7 +646,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Okey, so apa masalah benda macam tu?
 
-**Rafizi:** Sebabnya begini kan, sesuatu perubahan itu mesti dibawa oleh kementerian masing-masing. Kecuali disuruh oleh Perdana Menteri. Dan pelantikan, contohnya Ketua Pesuruhjaya MACC ke semua ni kan, itu semua kuasa Perdana Menteri. Jadi kalau Perdana Menteri tak bawa, selain daripada kita boleh sebut sana sini di dalam mesyuarat parti ke apa, yalah, dia mati di situlah. Sebab itu saya rasa sebahagiannya Datuk Seri Anwar kena jawab. To put the blame on UMNO ke apa, sebenarnya tidak adillah. Of course kalau tanya Datuk Seri Anwar, dia ada alasan dialah kan. Setiap satu ini, contohnya kalau perlembagaannya kata begini — kalau MACC tu sebenarnya, I don't think it's perlembagaan, dia akta pun. So dia tidak memerlukan pindaan perlembagaan kan, tapi kalau akta kan, tapi yalah, dia kena ambil pandangan pemegang taruh yang lain: Majlis Raja-Raja, Agong, yang lain semua tu kan. But I still think lah, at the very least perkara itu boleh dibincangkan. Tapi memang tak dibawalah. Jadi kecuali you nak bergaduh dengan PM, tanya, "Kenapa tak bawa yang tu? Kenapa tak bawa yang ini?" dan sebagainyalah.
+**Rafizi:** Sebabnya begini kan, sesuatu perubahan itu mesti dibawa oleh kementerian masing-masing. Kecuali disuruh oleh Perdana Menteri. Dan pelantikan, contohnya Ketua Pesuruhjaya MACC ke semua ni kan, itu semua kuasa Perdana Menteri. Jadi kalau Perdana Menteri tak bawa, selain daripada kita boleh sebut sana sini di dalam mesyuarat parti ke apa, yalah, dia mati di situlah. Sebab itu saya rasa sebahagiannya Dato' Seri Anwar kena jawab. To put the blame on UMNO ke apa, sebenarnya tidak adillah. Of course kalau tanya Dato' Seri Anwar, dia ada alasan dialah kan. Setiap satu ini, contohnya kalau perlembagaannya kata begini — kalau MACC tu sebenarnya, I don't think it's perlembagaan, dia akta pun. So dia tidak memerlukan pindaan perlembagaan kan, tapi kalau akta kan, tapi yalah, dia kena ambil pandangan pemegang taruh yang lain: Majlis Raja-Raja, Agong, yang lain semua tu kan. But I still think lah, at the very least perkara itu boleh dibincangkan. Tapi memang tak dibawalah. Jadi kecuali you nak bergaduh dengan PM, tanya, "Kenapa tak bawa yang tu? Kenapa tak bawa yang ini?" dan sebagainyalah.
 
 **Chak Onn Lau:** So YB Nik kata it's collective what ah? Collective. Ha, collective responsibility.
 

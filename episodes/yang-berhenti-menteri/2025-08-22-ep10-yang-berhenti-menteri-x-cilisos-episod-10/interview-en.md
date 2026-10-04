@@ -277,7 +277,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Was 2009 around the time of the Kajang Move?
 
-**Rafizi:** Around — no. Kajang Move was 2014. That's much later. Then I think after that, there was some reason — I remember around 2011, 2012 he disappeared. He just disappeared, not much happening there. So between 2009 and 2018, well, until Datuk Seri Anwar went back to prison in 2015, right. So between 2009 and 2012, I was more or less his Chief of Staff when I was CEO in Selangor, as an advisor to Datuk Seri Anwar, an economic advisor for Selangor, right. So until he went back to prison in 2015, Farhash didn't have the kind of major influence that we see now — none at all. After Farhash finished his stint in the Youth wing, that was basically it for him there. He only reappeared when Datuk Seri Anwar came out of prison in 2018.
+**Rafizi:** Around — no. Kajang Move was 2014. That's much later. Then I think after that, there was some reason — I remember around 2011, 2012 he disappeared. He just disappeared, not much happening there. So between 2009 and 2018, well, until Dato' Seri Anwar went back to prison in 2015, right. So between 2009 and 2012, I was more or less his Chief of Staff when I was CEO in Selangor, as an advisor to Dato' Seri Anwar, an economic advisor for Selangor, right. So until he went back to prison in 2015, Farhash didn't have the kind of major influence that we see now — none at all. After Farhash finished his stint in the Youth wing, that was basically it for him there. He only reappeared when Dato' Seri Anwar came out of prison in 2018.
 
 **Iqbal:** But what do you mean by "major influence"? Since he doesn't hold any official position.
 
@@ -285,7 +285,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Chak Onn Lau:** Is this like common knowledge?
 
-**Rafizi:** Common knowledge. Used to be within the party, now it's outside too. Everyone knows already, right. So if you look at 2018, I remember the first time I noticed Farhash was on the third or fourth day after the May 2018 win, at Hospital Cheras. Datuk Seri Anwar hadn't received the royal pardon yet. At that time, the people coordinating who could meet Datuk Seri Anwar were two or three of us: me, Saifuddin, Dr. Rahim Ghaus. Farhash was nowhere near. That's when I first noticed him because he was queueing outside, asking to meet Datuk Seri Anwar, right. But I left after 2018, you know. I packed up and said, you know, that's it, I'm not interested in politics, and went on to do my own things. Out of that, I think, when Anwar set up his office again in Bukit Gasing, for whatever reason he took Farhash in. From that point on you can see, from what I heard, his influence rose immensely. And yes, Farhash.
+**Rafizi:** Common knowledge. Used to be within the party, now it's outside too. Everyone knows already, right. So if you look at 2018, I remember the first time I noticed Farhash was on the third or fourth day after the May 2018 win, at Hospital Cheras. Dato' Seri Anwar hadn't received the royal pardon yet. At that time, the people coordinating who could meet Dato' Seri Anwar were two or three of us: me, Saifuddin, Dr. Rahim Ghaus. Farhash was nowhere near. That's when I first noticed him because he was queueing outside, asking to meet Dato' Seri Anwar, right. But I left after 2018, you know. I packed up and said, you know, that's it, I'm not interested in politics, and went on to do my own things. Out of that, I think, when Anwar set up his office again in Bukit Gasing, for whatever reason he took Farhash in. From that point on you can see, from what I heard, his influence rose immensely. And yes, Farhash.
 
 **Chak Onn Lau:** How old was he at that time? Around 30, early 30s?
 
@@ -311,7 +311,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Right. So currently, when YB says someone like Farhash holds major influence in the PKR party, what is it toward — what end? What is that influence used for?
 
-**Rafizi:** If you look at the past party elections, in 2018 when I contested against Azmin, Farhash wasn't very involved because I remember Datuk Seri Anwar had just come out of prison. Then when the election was about to happen, he had to go to Germany for surgery and all that. So he wasn't around, right. But by 2022, he already had his own faction, the "black shirt gang."
+**Rafizi:** If you look at the past party elections, in 2018 when I contested against Azmin, Farhash wasn't very involved because I remember Dato' Seri Anwar had just come out of prison. Then when the election was about to happen, he had to go to Germany for surgery and all that. So he wasn't around, right. But by 2022, he already had his own faction, the "black shirt gang."
 
 **Iqbal:** Okay. So can you explain what this faction is? Because since your disagreements with Azmin way back, PKR has been.
 
@@ -347,13 +347,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Chak Onn Lau:** It's like "Long live the king" lah.
 
-**Rafizi:** There's nothing. I did once remind Datuk Seri Anwar that actually the black shirt gang's approach is more dangerous than Azmin's "the end justifies the means" approach. Because.
+**Rafizi:** There's nothing. I did once remind Dato' Seri Anwar that actually the black shirt gang's approach is more dangerous than Azmin's "the end justifies the means" approach. Because.
 
 **Chak Onn Lau:** But why, why does the PM let them be?
 
 **Rafizi:** You'd have to ask Anwar Ibrahim that.
 
-**Iqbal:** If Datuk Seri Anwar Ibrahim would be willing to come onto our show.
+**Iqbal:** If Dato' Seri Anwar Ibrahim would be willing to come onto our show.
 
 **Rafizi:** You could invite Anwar Ibrahim to come on Sos Cili, ask him, ask him that question. Because we also want to know!
 
@@ -375,7 +375,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Chak Onn Lau:** That's true.
 
-**Rafizi:** Yeah, what choice would you have made? The Agong said to form a unity government with all parties. And that means UMNO had to be included. So when the Agong called Muhyiddin, Muhyiddin flatly refused. The Agong called Datuk Seri Anwar — you have to form a unity government. Otherwise, there's no government. So if you were in that position, if you were in my position at that time, what would you have done?
+**Rafizi:** Yeah, what choice would you have made? The Agong said to form a unity government with all parties. And that means UMNO had to be included. So when the Agong called Muhyiddin, Muhyiddin flatly refused. The Agong called Dato' Seri Anwar — you have to form a unity government. Otherwise, there's no government. So if you were in that position, if you were in my position at that time, what would you have done?
 
 **Chak Onn Lau:** Well, if the ends do justify the means, then you would take it.
 
@@ -401,7 +401,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I didn't link it. I just clarified because there's slander circulating, and it's not fair to Ismail Sabri and to KJ.
 
-**Iqbal:** So these accusations — I understand YB has encouraged Dato' Seri Ismail Sabri to lodge a police report.
+**Iqbal:** So these accusations — I understand YB has encouraged Dato' Sri Ismail Sabri to lodge a police report.
 
 **Rafizi:** No no, he told me he would lodge a police report. So I said good, go ahead. I'll do my part, he has to do his part.
 
@@ -431,17 +431,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I don't know, you'd have to ask other people, I suppose.
 
-**Iqbal:** Among all the whispers that have gone around all this time, has no one ever asked Datuk Seri Anwar?
+**Iqbal:** Among all the whispers that have gone around all this time, has no one ever asked Dato' Seri Anwar?
 
 **Rafizi:** Are you actually trying to get me to say people are afraid of Farhash?
 
 **Iqbal:** Is that so? Is that so?
 
-**Rafizi:** I don't know, you should ask other people. Because I don't, I don't. It's just that before I resigned, any issue concerning Farhash — because if you mention Farhash, he'll be linked to Datuk Seri Anwar, right? So this matter needed to be raised internally with Datuk Seri Anwar. And indeed.
+**Rafizi:** I don't know, you should ask other people. Because I don't, I don't. It's just that before I resigned, any issue concerning Farhash — because if you mention Farhash, he'll be linked to Dato' Seri Anwar, right? So this matter needed to be raised internally with Dato' Seri Anwar. And indeed.
 
 **Iqbal:** To YB's knowledge, has it ever been raised?
 
-**Rafizi:** Yes, yes, yes. We ourselves have raised it many times. But Datuk Seri Anwar's answer was — he said, "He's my former political secretary." It's not a matter of whether Farhash is a former or current office holder. The issue is that when there's talk from many people inside and outside government indicating that Farhash has significant influence over government decisions — that certainly needs to be addressed, right? Even if it's not true, the perception itself is dangerous. So it was indeed raised with Datuk Seri Anwar, but his answer was as I said: "There's no connection, he's my former political secretary."
+**Rafizi:** Yes, yes, yes. We ourselves have raised it many times. But Datuk Seri Anwar's answer was — he said, "He's my former political secretary." It's not a matter of whether Farhash is a former or current office holder. The issue is that when there's talk from many people inside and outside government indicating that Farhash has significant influence over government decisions — that certainly needs to be addressed, right? Even if it's not true, the perception itself is dangerous. So it was indeed raised with Dato' Seri Anwar, but his answer was as I said: "There's no connection, he's my former political secretary."
 
 **Chak Onn Lau:** What's strange to me is that the Farhash issue seems to have been whispered about for a long time, right? But the opposition hasn't taken the opportunity to bring his name out into the media at all.
 
@@ -627,7 +627,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Which leads us actually to the next question nicely. So this is related to the perception that most of the reforms the public wants to see haven't materialized yet, and many times we hear UMNO being used as a scapegoat for why these things haven't been implemented, because there's pushback. To what extent is that true?
 
-**Rafizi:** I actually disagree, you know. And this is the first time I'm putting it on record. Unless it happens behind my back, meaning the objection happened not in Cabinet. From my experience, actually UMNO doesn't object to everything, you know. Okay, UMNO friends, don't be angry, I will say, my assessment of UMNO — UMNO has been in the game for power from before until now. And for that matter, any political party. But UMNO has been around longer, so they understand the dynamics of power better. UMNO also knows, for example, that for its traditional constituents, the rural Malays, it's a tough battle. Because there's PAS, there's PN. And what they can contest in terms of Malay support isn't easy either, because DAP is in the coalition together. So they're looking for new constituents. These new constituents are ones UMNO used to have but lost. For example, urban Malays, for example, non-Malays, for example, the educated who, over the years, went to PKR, PH. So actually, whatever is popular with the constituents they want to focus on, UMNO is okay with. I don't see UMNO having a problem with that. And I don't really recall UMNO objecting to things, some of which were quite radical, that I brought. It's just that Datuk Seri Anwar, maybe if he were here, would say, "Yeah, they don't object in front of you, they object behind your back," right? Sometimes I heard that, when I questioned why, he'd say, "Yeah, they don't agree, they came to see me." But on record, officially, I think we need to correct it if people say the pace of reform is slow because of UMNO. Scapegoating UMNO will not save PKR and PH on this question of reform.
+**Rafizi:** I actually disagree, you know. And this is the first time I'm putting it on record. Unless it happens behind my back, meaning the objection happened not in Cabinet. From my experience, actually UMNO doesn't object to everything, you know. Okay, UMNO friends, don't be angry, I will say, my assessment of UMNO — UMNO has been in the game for power from before until now. And for that matter, any political party. But UMNO has been around longer, so they understand the dynamics of power better. UMNO also knows, for example, that for its traditional constituents, the rural Malays, it's a tough battle. Because there's PAS, there's PN. And what they can contest in terms of Malay support isn't easy either, because DAP is in the coalition together. So they're looking for new constituents. These new constituents are ones UMNO used to have but lost. For example, urban Malays, for example, non-Malays, for example, the educated who, over the years, went to PKR, PH. So actually, whatever is popular with the constituents they want to focus on, UMNO is okay with. I don't see UMNO having a problem with that. And I don't really recall UMNO objecting to things, some of which were quite radical, that I brought. It's just that Dato' Seri Anwar, maybe if he were here, would say, "Yeah, they don't object in front of you, they object behind your back," right? Sometimes I heard that, when I questioned why, he'd say, "Yeah, they don't agree, they came to see me." But on record, officially, I think we need to correct it if people say the pace of reform is slow because of UMNO. Scapegoating UMNO will not save PKR and PH on this question of reform.
 
 **Iqbal:** Okay, so let me be specific about what I mean by the pace of reforms being slow. We can look at it from the GE15 manifesto promises. For example, the separation of the AG and the Public Prosecutor, for example the nomination process for the MACC Chief Commissioner. These promises — is it not the case that when people say UMNO is the stumbling block preventing these promises from being implemented?
 
@@ -647,7 +647,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Okay, so what's the problem with something like that?
 
-**Rafizi:** Because, you see, any change like that must be brought forward by the respective ministry. Unless instructed by the Prime Minister. And appointments, for example the Chief Commissioner of the MACC and so on, that's all within the Prime Minister's power. So if the Prime Minister doesn't bring it forward, other than us mentioning it here and there in party meetings, well, it just dies there. That's why I feel Datuk Seri Anwar partly needs to answer for this. To put the blame on UMNO or whatever is actually unfair. Of course, if you ask Datuk Seri Anwar, he has his reasons. For each of these, for example if the Constitution says this — if it's about the MACC actually, I don't think it's the Constitution, it's an act. So it doesn't require a constitutional amendment, but if it's an act, well, he still needs to get the views of other stakeholders: the Conference of Rulers, the Agong, and others. But I still think, at the very least, that matter could be discussed. But it really wasn't brought forward. So unless you want to pick a fight with the PM and ask, "Why wasn't that brought forward? Why wasn't this brought forward?" and so on.
+**Rafizi:** Because, you see, any change like that must be brought forward by the respective ministry. Unless instructed by the Prime Minister. And appointments, for example the Chief Commissioner of the MACC and so on, that's all within the Prime Minister's power. So if the Prime Minister doesn't bring it forward, other than us mentioning it here and there in party meetings, well, it just dies there. That's why I feel Dato' Seri Anwar partly needs to answer for this. To put the blame on UMNO or whatever is actually unfair. Of course, if you ask Dato' Seri Anwar, he has his reasons. For each of these, for example if the Constitution says this — if it's about the MACC actually, I don't think it's the Constitution, it's an act. So it doesn't require a constitutional amendment, but if it's an act, well, he still needs to get the views of other stakeholders: the Conference of Rulers, the Agong, and others. But I still think, at the very least, that matter could be discussed. But it really wasn't brought forward. So unless you want to pick a fight with the PM and ask, "Why wasn't that brought forward? Why wasn't this brought forward?" and so on.
 
 **Chak Onn Lau:** So YB Nik said it's collective what, ah? Collective. Ah, collective responsibility.
 

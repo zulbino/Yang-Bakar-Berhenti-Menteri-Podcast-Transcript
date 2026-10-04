@@ -163,7 +163,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** Okey, okey. Jadi saya tak boleh salahkan anda. Okey, anda orang data. Kita tahu yang anda selalu berpandukan data apa semua. Tetapi faktanya tetap sama, anda lihat. Kalau saya nak salahkan anda anda cuma seorang menteri ekonomi. Bukanlah kata menteri masih hebat kan? Tetapi anda ada bos di atas anda. Anda ada seorang bos di atas anda.
 
-**Rafizi:** Tapi konsep dia tak sama macam itu, Salim. Dia sebenarnya adalah tanggungjawab kolektif (collective responsibility). Dan apa namanya, portfolio ekonomi itu adalah di bawah Kementerian Ekonomi kan. Jadi saya fikir kita tak boleh nak kata bos itu harus memikul kesalahan sepenuhnya. Sebab itu contohnya kan, zaman Datuk Seri Najib dulu kan, sebanyak mana pun kita letak banyak tumpuan kepada Datuk Seri Najib, ia sebenarnya adalah tanggungjawab kolektif semua menteri. Tapi kesian dia kena sorang je. Termasuk maksud saya, maksud saya yang dia kena tu dia kenalah. Itu mengikut proses dia lah. Tapi, tapi ada juga contohnya orang-orang yang sebahagian daripada kabinet lepas ke apa.
+**Rafizi:** Tapi konsep dia tak sama macam itu, Salim. Dia sebenarnya adalah tanggungjawab kolektif (collective responsibility). Dan apa namanya, portfolio ekonomi itu adalah di bawah Kementerian Ekonomi kan. Jadi saya fikir kita tak boleh nak kata bos itu harus memikul kesalahan sepenuhnya. Sebab itu contohnya kan, zaman Dato' Sri Najib dulu kan, sebanyak mana pun kita letak banyak tumpuan kepada Dato' Sri Najib, ia sebenarnya adalah tanggungjawab kolektif semua menteri. Tapi kesian dia kena sorang je. Termasuk maksud saya, maksud saya yang dia kena tu dia kenalah. Itu mengikut proses dia lah. Tapi, tapi ada juga contohnya orang-orang yang sebahagian daripada kabinet lepas ke apa.
 
 **Salim Iskandar:** Masih ada kawan-kawan anda sekarang?
 
@@ -303,7 +303,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** Ya betul. Itulah sebabnya data anda sangat, saya agak terkejut.
 
-**Rafizi:** Tidak, itu adalah data yang diaudit. Data yang sama yang disediakan oleh kumpulan yang sama pegawai kerajaan daripada zaman Datuk Seri Najib sampai sekarang. Berapa kadar STR dibayar sekarang ni?
+**Rafizi:** Tidak, itu adalah data yang diaudit. Data yang sama yang disediakan oleh kumpulan yang sama pegawai kerajaan daripada zaman Dato' Sri Najib sampai sekarang. Berapa kadar STR dibayar sekarang ni?
 
 **Salim Iskandar:** Lebih tinggi daripada dulu. Berapa?
 
@@ -313,7 +313,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Itu lagi lagi kan. Bila dia bertambah daripada dulu 6 juta sekarang sampai 10 juta penerima kan. Dan oleh kerana STR diberikan kepada setiap individu, kadang-kadang 1 isi rumah tu 2 3 orang dapat dalam 1 family tu. Dan STR telah dinaikkan, saya rasa kalau satu family yang paling miskin tu, dia boleh dapat sampai 6000.
 
-**Salim Iskandar:** Maaf, YB. Saya dengar daripada orang yang dapat BRIM ni apa semua. Okey, daripada dulu zaman Najib tu dapat, sekarang ni dah dapat ada yang dapat 250, 400 500. Tolong Google. Tolong Google. Zaman Datuk Seri Najib dulu, BRIM dapat berapa kali setahun? Sekali setahun. Sekali je dia bagi.
+**Salim Iskandar:** Maaf, YB. Saya dengar daripada orang yang dapat BRIM ni apa semua. Okey, daripada dulu zaman Najib tu dapat, sekarang ni dah dapat ada yang dapat 250, 400 500. Tolong Google. Tolong Google. Zaman Dato' Sri Najib dulu, BRIM dapat berapa kali setahun? Sekali setahun. Sekali je dia bagi.
 
 **Rafizi:** Sekarang berapa kali? Berapa kali sekarang? 4. 4.
 
@@ -365,7 +365,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Speaker ?:** Benar.
 
-**Salim Iskandar:** Tetapi kita nak lihat hasilnya, okey. Kita tak nak lah blame kata everything apa semua ni semua. Cuma Anwar ni, saya minta maaf ah YBM. Dato' Sri Anwar jangan marah Ah, okey. Dia macam ni tau.
+**Salim Iskandar:** Tetapi kita nak lihat hasilnya, okey. Kita tak nak lah blame kata everything apa semua ni semua. Cuma Anwar ni, saya minta maaf ah YBM. Dato' Seri Anwar jangan marah Ah, okey. Dia macam ni tau.
 
 **Rafizi:** Lucu dia buat macam ni.
 
@@ -445,7 +445,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** Okey. Petrol dan diesel. Muhyiddin boleh kata, "Saya buat macam tu sebab ketika turun saya ambil untung kan? Kita ambil." So ketika naik kita kawal lah balik. So Muhyiddin boleh jawab macam tu. Tak ada. Atau Muhyiddin akan kata, "Bini aku tak bagi."
 
-**Rafizi:** Dah tak ada. Dah tak marah Saya tak terlibat bab-bab bini ni kan. Bini tak bagi letak jawatan presiden, bos. So masa apa nama ni, Datuk Seri Anwar ke, saya kata kita boleh turunkan harga minyak, itu berdasarkan harga masa tu 30, 40, 50 dolar.
+**Rafizi:** Dah tak ada. Dah tak marah Saya tak terlibat bab-bab bini ni kan. Bini tak bagi letak jawatan presiden, bos. So masa apa nama ni, Dato' Seri Anwar ke, saya kata kita boleh turunkan harga minyak, itu berdasarkan harga masa tu 30, 40, 50 dolar.
 
 **Salim Iskandar:** Yang masa tu takkanlah dengan kita, katakanlah bajet kita masa itu dalam 280 bilion. Last dia cakap, bulan 7 tahun 2022, betul? Mengapa kita tak boleh taruhkan harga minyak? Kerana saya tak jadi Perdana Menteri, dia kata kan. Ini Anwar cakap. Anwar jangan marah brother. Jangan marah, jangan marah. Okey, dia cakap bulan 7 tahun 2022 ketika konvensyen PKR. Okey, dia cakap macam tu. Sebab kita tak jadi Perdana Menteri. Sebab itu YB, saya tak marah kat YB. Saya selalu, sekejap YB jangan marah. Sabar YB, sabar. Ini nak bakar. Sebab bila kau jadi leader, saya cerita pasal Anwar Anwar. Engkau bila jadi leader, saya rasa macam nilah pada pandangan sayalah Ini minta maaf. Ini pandangan saya sebagai rakyat Malaysia Saya rasa yang dah tua-tua ni kau orang retire jelah. Bagilah orang muda macam ni naik. Ini pandangan peribadi saya lah, you know. Maksud saya, saya nak tengok kerana orang yang cerdik ni.
 
@@ -493,9 +493,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** KJ 76, anda—
 
-**Rafizi:** 76, saya 77. 77 ah, okey. Jadi apa namanya, yang diperlukan sekarang, dan okey, awak mungkin tidak bersetuju, tetapi inilah cara saya fikir dalam PKR contohnya kan. Saya dengan Datuk Seri Anwar, kami bekerja dengan baik kerana saya ada kelebihan saya dari segi saya seorang teknokrat. Jadi, you know, selalunya data begini, saya fahami pasaran dengan lebih baik kan. Tetapi ada benda yang saya tak boleh buat apabila tiba masanya untuk memimpin sebuah negara atau masyarakat. Sebab saya belum makan garam lagi. Contohnya untuk menyatukan semua orang sebagai orang tua kerana itu yang terbaik, itu cabaran yang paling besar. Jadi sebab itu kombinasi sekarang ni saya fikir berkesan untuk negara.
+**Rafizi:** 76, saya 77. 77 ah, okey. Jadi apa namanya, yang diperlukan sekarang, dan okey, awak mungkin tidak bersetuju, tetapi inilah cara saya fikir dalam PKR contohnya kan. Saya dengan Dato' Seri Anwar, kami bekerja dengan baik kerana saya ada kelebihan saya dari segi saya seorang teknokrat. Jadi, you know, selalunya data begini, saya fahami pasaran dengan lebih baik kan. Tetapi ada benda yang saya tak boleh buat apabila tiba masanya untuk memimpin sebuah negara atau masyarakat. Sebab saya belum makan garam lagi. Contohnya untuk menyatukan semua orang sebagai orang tua kerana itu yang terbaik, itu cabaran yang paling besar. Jadi sebab itu kombinasi sekarang ni saya fikir berkesan untuk negara.
 
-**Salim Iskandar:** Tak. Awak ada orang seperti Datuk Seri Anwar Ibrahim, tidak tuan, yang boleh membawa semua orang ke meja rundingan. Tidak tuan.
+**Salim Iskandar:** Tak. Awak ada orang seperti Dato' Seri Anwar Ibrahim, tidak tuan, yang boleh membawa semua orang ke meja rundingan. Tidak tuan.
 
 **Rafizi:** Dan bagi kita ruang kepada golongan muda dan teknokrat ini untuk tumpu kepada kerja-kerja yang bersabit dengan teknikal. Kerana bukan semua orang boleh buat apa yang dia sedang lakukan, iaitu menyatukan seluruh masyarakat yang berpecah-belah ini.
 
@@ -515,7 +515,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Aku sudah tahu kau nak cakap apa.
 
-**Salim Iskandar:** Contoh, contoh, contoh, contoh kan. Lepas itu tiba-tiba besok datang Datuk Seri Anwar Ibrahim dengan gaya dan stail kan. Sambil berkata, siapa kau nak ini?
+**Salim Iskandar:** Contoh, contoh, contoh, contoh kan. Lepas itu tiba-tiba besok datang Dato' Seri Anwar Ibrahim dengan gaya dan stail kan. Sambil berkata, siapa kau nak ini?
 
 **Rafizi:** Tolong turun 3 sen, dia kata. Saya kata, Ya Allah, ya Tuhanku, itu bukan tugas awak, Encik.
 
@@ -539,7 +539,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kata-kata itu doa setiap hari kau kata. Ya, tetapi kalau Anwar. Teruk, teruk, teruk. Memanglah kau pun secara psikologinya rasa teruk kan?
 
-**Salim Iskandar:** Ya. Tapi kalau Anwar sudah tak boleh handle, saudara Datuk Seri Anwar Ibrahim, orang yang lebih muda, you know, I mean my man. Maafkanlah, ini pandangan saya Tak ada kena-mengena. Korang kata kartel ke apa ke, you know.
+**Salim Iskandar:** Ya. Tapi kalau Anwar sudah tak boleh handle, saudara Dato' Seri Anwar Ibrahim, orang yang lebih muda, you know, I mean my man. Maafkanlah, ini pandangan saya Tak ada kena-mengena. Korang kata kartel ke apa ke, you know.
 
 **Rafizi:** Malangnya, Salim, saya rasa pandangan awak itu tidak dikongsi oleh majoriti rakyat Malaysia. Kalau tanya saya, saya fikir ini adalah persimpangan yang baik di mana gabungan semua pimpinan yang ada daripada semua parti, daripada yang pernah ada dalam politik 40 tahun lepas kepada yang muda semuanya, kerana ia adalah persimpangan di mana kita memerlukan semua orang tumpu kepada kekuatan masing-masing. Yang tua-tua ini adalah untuk membawa balik masyarakat supaya kita janganlah terlalu ekstrem dan berpolarisasi sangat. Yang muda, yang ada kemahiran teknokratik, yang boleh buat itu, awak tumpu kepada perkara itu. Ada benda yang saya boleh buat, ada benda yang saya tak boleh buat, ada benda yang Khairy Jamaluddin boleh buat, Khairy Jamaluddin tak boleh buat. Jadi kita perlukan semua orang.
 
