@@ -9,7 +9,7 @@ WHAT IT PRODUCES per episode, newest first, stopping before a new GPU stage woul
 deadline:
 
   audio/<vid>.m4a                     downloaded if missing
-  data/_mai_<vid>/                    MAI-Transcribe-2 word times (network thread, in parallel)
+  data/_mai_<vid>/                    local Whisper-large-v3-turbo word times (GPU, before pyannote)
   data/diar_<vid>_t055.json           pyannote clusters at threshold 0.55 (GPU)
   data/_camera_tracks_<vid>/          LR-ASD + face tracks, per-episode dir (GPU, the slow one)
   data/camera_ref_<tag>.rttm/.uem     camera speaker reference
@@ -31,7 +31,6 @@ import os
 import re
 import subprocess
 import sys
-import threading
 import time
 from pathlib import Path
 
@@ -93,22 +92,17 @@ def ensure_audio(vid):
     return p.exists(), f"downloaded {p.stat().st_size / 1e6:.0f} MB" if p.exists() else "download failed"
 
 
-def mai(vid):
+def asr(vid, tag):
+    """Local Whisper-large-v3-turbo words (owner's decision 2026-10-04, replaces MAI for new
+    episodes). Written into data/_mai_<vid>/ because 15 scripts read that directory name."""
     out = ROOT / "data" / f"_mai_{vid}"
-    if (out / "mai_phrases.json").exists():
+    if (out / "mai_phrases.json").exists() or (out / "engine.json").exists():
         return True, "present"
-    out.mkdir(parents=True, exist_ok=True)
-    mp3 = out / f"{vid}.64k.mono.mp3"
-    if not mp3.exists():
-        ok, o = run([str(yt_download._ffmpeg_location()), "-v", "error", "-y",
-                     "-i", str(ROOT / "audio" / f"{vid}.m4a"), "-ac", "1", "-b:a", "64k", str(mp3)])
-        if not ok:
-            return False, "transcode failed: " + o
-    # --no-diarization: the gateway's 120s timeout cuts off diarization under load (see
-    # ARCHITECTURE.md, "the third limit"), and nothing downstream uses MAI's own speaker
-    # ids anyway -- the split tool takes clusters from pyannote and its reference from the
-    # camera.
-    return run([PY, "scripts/transcribe_mai.py", vid, "--no-diarization"], cwd=ROOT)
+    ok, o = run([PY, "scripts/local_asr_words.py", vid, "--engine", "turbo", "--out", str(out)],
+                cwd=ROOT)
+    if not ok:
+        return False, o
+    return run([PY, "scripts/mai_words_from_responses.py", tag, "--write"], cwd=ROOT)
 
 
 def diarize(vid):
@@ -228,7 +222,7 @@ def summarize(tag, report):
     ident = re.search(r"identified \d+ \((\d+%)\)", st.get("camera_reference", {}).get("out", ""))
     sp = st.get("split_dry_run", {}).get("out", "")
     verdict = "REFUSED" if "REFUSING" in sp else ("proposes" if "->" in sp else "-")
-    return (f"| {tag} | {s('audio')} | {s('mai')} | {s('diarize')} | {s('camera_run')} | "
+    return (f"| {tag} | {s('audio')} | {s('asr')} | {s('diarize')} | {s('camera_run')} | "
             f"{ident.group(1) if ident else '-'} | {cov.group(1) if cov else '-'} | "
             f"{s('split_dry_run')} {verdict} |\n")
 
@@ -263,7 +257,7 @@ def main():
     ap.add_argument("tags", nargs="+")
     ap.add_argument("--hours", type=float, default=9.0,
                     help="do not START a camera run after this many hours")
-    ap.add_argument("--skip-mai", action="store_true")
+    ap.add_argument("--skip-asr", action="store_true")
     a = ap.parse_args()
 
     NIGHTLY.mkdir(parents=True, exist_ok=True)
@@ -273,7 +267,7 @@ def main():
     began = time.time()
     summary = NIGHTLY / "summary.md"
     if not summary.exists():
-        summary.write_text("| episode | audio | MAI | pyannote | camera | faces id'd | UEM cov | split dry run |\n"
+        summary.write_text("| episode | audio | ASR | pyannote | camera | faces id'd | UEM cov | split dry run |\n"
                            "|---|---|---|---|---|---|---|---|\n", encoding="utf-8")
 
     eps = [(t,) + resolve(t, manifest) for t in a.tags]
@@ -285,27 +279,16 @@ def main():
         ok, out = ensure_audio(vid)
         log(f"{t} audio: {out}")
 
-    mai_done = {t: threading.Event() for t, *_ in eps}
-    mai_result = {}
-
-    def mai_worker():
-        for t, d, vid, dur in eps:
-            t0 = time.time()
-            try:
-                mai_result[t] = mai(vid) if not a.skip_mai else (True, "skipped")
-            except Exception as e:
-                mai_result[t] = (False, f"{type(e).__name__}: {e}")
-            mai_result[t] = mai_result[t] + (round(time.time() - t0),)
-            log(f"  {t} MAI: {'ok' if mai_result[t][0] else 'FAILED'} in {(time.time() - t0) / 60:.0f} min")
-            mai_done[t].set()
-
-    threading.Thread(target=mai_worker, daemon=True).start()
-
     failures = 0
     for t, d, vid, dur in eps:
         report = {"tag": t, "video_id": vid, "duration_s": dur, "steps": {}}
         log(f"=== {t}")
         step(report, "audio", lambda: ensure_audio(vid))
+        # A GPU step, so it runs before diarize: one GPU job at a time.
+        if a.skip_asr:
+            report["steps"]["asr"] = {"ok": True, "seconds": 0, "out": "skipped"}
+        else:
+            step(report, "asr", lambda: asr(vid, t))
         step(report, "diarize", lambda: diarize(vid))
         if (time.time() - began) / 3600 > a.hours:
             report["steps"]["camera_run"] = {"ok": False, "seconds": 0, "out": "deadline reached, not started"}
@@ -315,9 +298,6 @@ def main():
                 if step(report, "camera_run", lambda: camera_run(vid)):
                     step(report, "camera_reference", lambda: camera_reference(t, vid, dur))
                 (VIDEO_DIR / f"{vid}_480p.mp4").unlink(missing_ok=True)
-        mai_done[t].wait()
-        ok, out, secs = mai_result[t]
-        report["steps"]["mai"] = {"ok": ok, "seconds": secs, "out": out[-2500:]}
         # The split tool falls back to the caption track as its word clock, so it runs
         # whenever there is a camera reference, MAI or not.
         # Gate the reference on its CAST before anything consumes it. ep33's pass produced

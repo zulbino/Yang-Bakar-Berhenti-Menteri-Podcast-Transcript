@@ -62,7 +62,7 @@ BLOCK = re.compile(r"^\[([\d:]+)\]\s*([^:\n]{0,40}?):\s*(.*)$", re.M)
 GENERIC = re.compile(r"^(Speaker|Multiple|Audience)", re.I)
 PUNCT = re.compile(r"[^\w\s'-]")
 MAX_WORDS = 3
-MAI_MODEL = "microsoft/MAI-Transcribe-2"
+ADOPTED_MODELS = ("microsoft/MAI-Transcribe-2", "openai/whisper-large-v3-turbo")
 
 # CLOSED LEXICON. Pure acknowledgement tokens only: they signal "I am listening" and assert
 # nothing. `ha`, `eh`, `aa` and `oh` are absent on purpose -- CLAUDE.md rule 5 keeps them
@@ -143,9 +143,9 @@ def main():
     # ep10 carry no `model:` line at all because they predate the field, which is
     # check_raw_engine.py's `raw-engine-unknown` case. So this requires the MAI build
     # positively rather than excluding the engines it knows about.
-    if MAI_MODEL not in text:
-        sys.exit(f"REFUSING: {a.tag}'s raw.md does not declare `{MAI_MODEL}`, so it is not "
-                 f"the MAI+camera build. A deletion here would be wiped by adoption anyway. "
+    if not any(m in text for m in ADOPTED_MODELS):
+        sys.exit(f"REFUSING: {a.tag}'s raw.md declares none of {ADOPTED_MODELS}, so it is not "
+                 f"the ASR+camera build. A deletion here would be wiped by adoption anyway. "
                  f"Run nightly_recut.py then adopt_mai_camera_raw.py first.")
 
     blocks = BLOCK.findall(text)

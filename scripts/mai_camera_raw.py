@@ -444,14 +444,22 @@ def main():
         sys.exit(f"REFUSING: {len(back)} stamps run backwards after the gold carve-out")
 
     fields, _ = common.read_frontmatter_body(episode_raw)
-    fields["model"] = "microsoft/MAI-Transcribe-2"
+    engine_file = sandbox / "engine.json"
+    if engine_file.exists():
+        model = json.loads(engine_file.read_text(encoding="utf-8"))["model"]
+        source = (f"Raw transcript from {model} run locally, verbatim style, with word times "
+                  "from forced alignment (scripts/lib_forced_align.py)")
+    else:
+        model = "microsoft/MAI-Transcribe-2"
+        source = ("Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim "
+                  "style, with word-level timestamps from the model itself")
+    fields["model"] = model
     fields["note"] = (
-        "Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with "
-        "word-level timestamps from the model itself. Speaker labels come from the show's own "
+        f"{source}. Speaker labels come from the show's own "
         "camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the "
         f"time of each word; turns of three words or fewer keep {fallback_name}, and "
         "words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; "
-        "the word sequence is MAI's, unchanged, apart from the reviewed name corrections in "
+        "the word sequence is the engine's, unchanged, apart from the reviewed name corrections in "
         f"fix_proper_nouns.py and the owner-verified passage kept from the previous transcript "
         f"({gold_note}; owner rulings over the camera: {forced_note}). See interview.md for the polished newspaper-style rewrite.")
     out = Path(a.out or ROOT / "data" / f"_{common.artifact_tag(tag)}_mai_camera_raw.md")

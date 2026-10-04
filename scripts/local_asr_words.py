@@ -61,7 +61,7 @@ def load(engine):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("video_id")
-    ap.add_argument("--engine", required=True, choices=ENGINES)
+    ap.add_argument("--engine", default="turbo", choices=ENGINES)
     ap.add_argument("--out", help="default data/_asr_<engine>_<video_id>/")
     ap.add_argument("--gap", type=float, default=0.2, help="split a chunk at a pause this long (0.2 scored best on ep65)")
     a = ap.parse_args()
@@ -124,6 +124,8 @@ def main():
     (out / "mai_response_00.json").write_text(json.dumps(
         {"_chunk_start_s": 0.0, "_engine": ENGINES[a.engine], "phrases": phrases},
         ensure_ascii=False), encoding="utf-8")
+    (out / "engine.json").write_text(json.dumps(
+        {"model": ENGINES[a.engine], "gap": a.gap}), encoding="utf-8")
     print(f"finished: {a.engine}, {len(phrases)} phrases, "
           f"{sum(len(p['words']) for p in phrases)} words -> {out}", flush=True)
 

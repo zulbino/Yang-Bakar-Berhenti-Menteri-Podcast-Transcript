@@ -747,6 +747,7 @@ def check_episode(ep_dir):
 
 SHORT_MODEL = {
     "microsoft/MAI-Transcribe-2": "MAI",
+    "openai/whisper-large-v3-turbo": "turbo",
     "mesolitica/malaysian-whisper-medium-v2": "whisper-med",
     "gemini-3.7-flash": "gemini-3.7",
     "gemini-3.5-flash": "gemini-3.5",

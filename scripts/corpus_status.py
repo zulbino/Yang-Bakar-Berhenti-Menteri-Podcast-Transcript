@@ -77,7 +77,7 @@ def main():
             show = next((x for x in common.SHOW_SUFFIXES if era.split("-")[1] == x), "")
             tag = f"{tag}:{show}" if show else tag
         seconds = int(seconds.group(1)) if seconds else 0
-        adopted = "MAI-Transcribe-2" in head
+        adopted = "MAI-Transcribe-2" in head or "whisper-large-v3-turbo" in head
         reference = (ROOT / "data" / f"camera_ref_{common.artifact_tag(tag)}.rttm").exists()
         coverage, words = mai_coverage(vid, seconds)
         published = [n for n in ("interview.md", "interview-ms.md", "interview-en.md")

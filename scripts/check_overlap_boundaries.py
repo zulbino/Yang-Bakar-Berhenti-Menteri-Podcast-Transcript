@@ -163,7 +163,7 @@ def candidates(blocks, camera, decided=()):
 def report(tag, links=False):
     raw = common.raw_for_tag(tag)
     text = Path(raw).read_text(encoding="utf-8")
-    if not re.search(r"^model:\s*microsoft/MAI-Transcribe", text, re.M):
+    if not re.search(r"^model:\s*(microsoft/MAI-Transcribe|openai/whisper-large-v3-turbo)", text, re.M):
         print(f"{tag}: SKIPPED -- raw.md is not the adopted MAI build, so its block stamps "
               f"cannot locate a boundary second (see this file's limit 2)")
         return None

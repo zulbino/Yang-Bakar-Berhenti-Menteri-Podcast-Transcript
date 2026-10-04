@@ -42,7 +42,7 @@ flowchart TD
 |---|---|
 | Episode list and descriptions | `yt-dlp` via `build_manifest.py` |
 | Audio and video download | `yt-dlp`, `web_embedded` client, `bgutil` PO-token server, Node.js |
-| Words | MAI-Transcribe-2 on Azure (`transcribe_mai.py`) |
+| Words | MAI-Transcribe-2 on Azure (`transcribe_mai.py`) for the 75 episodes built so far; new episodes use local `openai/whisper-large-v3-turbo` (`local_asr_words.py`), written into `data/_mai_<vid>/` with an `engine.json` that `mai_camera_raw.py` reads for raw.md's `model:` |
 | Speakers | camera (`camera_speakers.py`), pyannote 3.x clusters, `voice_witness.py` |
 | Unknown guest faces | `guest_gallery.py`, `identify_person.py` with public photos |
 | Rewrite and translation | GLM-5.3 on NVIDIA's free API, reasoning low (`rewrite_segments.py`) |
@@ -108,7 +108,7 @@ cold server answers before it can issue a token.
 ```bash
 python scripts/build_manifest.py --id=<video_id>      # a new episode is often not yet in the playlist
 python scripts/transcribe_episode.py <video_id> --stage raw --engine local   # starting raw.md
-python scripts/nightly_recut.py <tag> --hours 9       # audio, MAI, pyannote, camera; writes nothing to episodes/
+python scripts/nightly_recut.py <tag> --hours 9       # audio, local Whisper-large-v3-turbo (owner, 2026-10-04), pyannote, camera; writes nothing to episodes/
 python scripts/check_camera_reference.py <tag>        # refuses a reference blind to a real speaker
 python scripts/adopt_mai_camera_raw.py <tag>          # dry run: build, gate, report
 python scripts/adopt_mai_camera_raw.py <tag> --write

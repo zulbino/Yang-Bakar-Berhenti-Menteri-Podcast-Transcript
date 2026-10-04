@@ -39,6 +39,7 @@ state; this puts it where a reader of the QA checklist will see it.
 """
 import argparse
 import glob
+import json
 import re
 import sys
 from pathlib import Path
@@ -70,6 +71,12 @@ def read(ep_dir):
     return fm or {}
 
 
+def same_engine(vid, model):
+    """True when data/_mai_<vid>/engine.json names the engine raw.md was built from."""
+    f = ROOT / f"data/_mai_{vid}" / "engine.json"
+    return f.exists() and json.loads(f.read_text(encoding="utf-8")).get("model") == model
+
+
 def check(ep_dir):
     fm = read(ep_dir)
     if fm is None:
@@ -85,7 +92,7 @@ def check(ep_dir):
             "these words is not recoverable from the file. Rebuilding it through "
             "adopt_mai_camera_raw.py records it.",
         ))
-    elif BEST not in model.lower() and have_mai:
+    elif BEST not in model.lower() and have_mai and not same_engine(vid, model):
         gap = next((f", measured {v} WER against MAI's {WER['mai']} on podcast audio"
                     for k, v in WER.items() if k in model.lower()), "")
         issues.append((
