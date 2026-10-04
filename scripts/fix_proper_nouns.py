@@ -1040,6 +1040,18 @@ CORRECTIONS = [
     (r"\bDivex\b", "Devex", "development expenditure. Captions: 'devx'."),
     (r"\bUITM\b", "UiTM", "Universiti Teknologi MARA writes its own acronym UiTM (uitm.edu.my). "
      "Owner's decision 2026-10-04."),
+    (r"(?<=Pilihan Raya PN, )Datuk Seri\.? Tan Sri Mat Nor\b", "Dato' Seri Sanusi Md Nor",
+     "ep54 29:54, PN Election Director: MAI heard 'Tan Sri Mat Nor'. Owner, 2026-10-04: Dato' Seri "
+     "Muhammad Sanusi Md Nor (kedah.gov.my profile id=834)."),
+    (r"(?<=Election Director, )Datuk Seri Tan Sri Mat Nor\b", "Dato' Seri Sanusi Md Nor",
+     "ep54 interview-en: the same garble carried into the English interview."),
+    (r"(?<=Sanusi )Mat Nor\b", "Md Nor",
+     "Muhammad Sanusi Md Nor, Kedah Menteri Besar: the name is Md Nor (owner, 2026-10-04)."),
+    (r"\bIzam Mat Nor\b", "Ezam Mohd Nor",
+     "Datuk Mohamad Ezam bin Mohd Nor, PKR founder, now PAS (ms.wikipedia.org/wiki/Mohamad_Ezam_Mohd_Nor, "
+     "given by the owner 2026-10-04). ep26 and ep41."),
+    (r"\bIzam\b", "Ezam",
+     "Ezam Mohd Nor, the same person (ep26, ep41). No other Izam exists in the corpus."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the
