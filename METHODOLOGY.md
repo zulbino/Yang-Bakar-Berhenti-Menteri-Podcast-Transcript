@@ -33,7 +33,7 @@ gets made.
 Each file names the model that produced it in its `model:` frontmatter field.
 
 `raw.md`
-: Speech-to-text by Microsoft's MAI-Transcribe-2, for all 73 episodes and both forums. Filler sounds are
+: Speech-to-text by Microsoft's MAI-Transcribe-2, for the 73 episodes and both forums built so far. From 2026-10-04 a new episode uses OpenAI Whisper-large-v3-turbo run locally, and raw.md's `model:` line names the engine used. Filler sounds are
   removed; nothing is paraphrased. Speaker names come from the show's camera cuts, which
   show who is talking, then from voice comparison. A turn that no evidence can name is
   labelled `Speaker ?`, as Hansard writes "An Hon. Member". Earlier versions came from
