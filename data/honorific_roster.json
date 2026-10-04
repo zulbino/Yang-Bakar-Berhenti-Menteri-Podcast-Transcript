@@ -1,0 +1,398 @@
+{
+ "_comment": [
+  "Web-verified written form of the Dato'/Datuk and Seri/Sri honorific, one entry per person,",
+  "read by check_honorifics.py. The spelling follows the person's OWN official page (Parliament,",
+  "PMO, a ministry or state site), never the corpus's majority. Dato' and Datuk, Seri and Sri,",
+  "are pronounced the same, so the video cannot decide them. The GRADE (Tun, Tan Sri, Datuk",
+  "Seri, Datuk) is spoken, and the checker never changes it: a speaker's slip stays verbatim",
+  "(owner's rule, 2026-10-04). `held` records the grade the person held on 2026-10 so a",
+  "mismatch is reported for the owner to read, not fixed.",
+  "forms: DSERI = the Seri/Sri grade, DATUK = the bare Datuk/Dato' grade.",
+  "Rule (says.com/my/lifestyle/dato-datuk-seri-difference, owner 2026-10-04): Dato' and Dato' Seri come from the nine state rulers, Dato' Sri ONLY from the Sultan of Pahang; Datuk and Datuk Seri come from the Agong or a governor (Melaka, Sabah, Sarawak). There is no 'Datuk Sri'."
+ ],
+ "entries": [
+  {
+   "name": "Anwar Ibrahim",
+   "match": "Anwar(?!\\s+(?:Musa|Zainuddin))",
+   "forms": {
+    "DSERI": "Dato' Seri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "https://www.pmo.gov.my/en/profile-pm/ (\"YAB Dato' Seri Anwar bin Ibrahim\"); parlimen.gov.my id=4102",
+   "verified": "2026-10-04",
+   "register": [
+    "1990 PAHANG Dato' Sri (S.S.A.P.)",
+    "1991 P.PINANG Dato' (D.M.P.N.)",
+    "1991 MELAKA Datuk Seri (D.G.S.M.)",
+    "1994 P.PINANG Dato' Seri Utama (D.U.P.N.)",
+    "1994 N.SEMBILAN Dato' Seri Utama (S.P.N.S.)",
+    "1994 SABAH Datuk Seri Panglima (S.P.D.K.)",
+    "1995 PERAK Dato' Seri (S.P.C.M.)",
+    "1995 PERLIS Dato' Seri Di Raja (S.S.P.J.)",
+    "2024 KEDAH Dato' Seri Diraja (S.S.S.K.)"
+   ]
+  },
+  {
+   "name": "Najib Razak",
+   "match": "Najib",
+   "forms": {
+    "DSERI": "Dato' Sri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "parlimen.gov.my arkib id=3051 (\"YAB Dato' Sri\"); the show's own ep65 title writes \"Dato' Sri Najib Razak\"",
+   "verified": "2026-10-04",
+   "register": [
+    "1985 PAHANG Dato' Sri (S.S.A.P.)",
+    "1990 SARAWAK Dato Sri (P.N.B.S.)",
+    "1992 SELANGOR Dato' (D.P.M.S.)",
+    "2002 SABAH Datuk Seri Panglima (S.P.D.K.)",
+    "2004 SELANGOR Dato' Seri (S.P.M.S.)",
+    "2004 KELANTAN Dato' (S.P.M.K.)",
+    "2004 PERAK Dato' Seri Di Raja (S.P.S.A.)",
+    "2007 MELAKA Datuk Seri Utama (D.U.N.M.)",
+    "2007 PERLIS Dato' Seri Setia Diraja (S.S.S.J.)",
+    "2008 SARAWAK Datuk Patinggi (D.P.)"
+   ]
+  },
+  {
+   "name": "Ahmad Zahid Hamidi",
+   "match": "Zahid",
+   "forms": {
+    "DSERI": "Dato' Seri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "parlimen.gov.my id=4114; pmo.gov.my cabinet page",
+   "verified": "2026-10-04",
+   "register": [
+    "1993 MELAKA Datuk (D.M.S.M.)",
+    "2001 PERAK Dato' (D.P.M.P.)",
+    "2005 KELANTAN Dato' (D.P.M.K.)",
+    "2008 PERAK Dato' Seri (S.P.M.P.)",
+    "2008 PAHANG Dato' Sri (S.S.A.P.)",
+    "2009 KELANTAN Dato' (S.J.M.K.)",
+    "2011 SABAH Datuk Seri Panglima (S.P.D.K.)",
+    "2013 SARAWAK Dato Sri (P.N.B.S.)",
+    "2015 MELAKA Datuk Seri Utama (D.U.N.M.)",
+    "2015 PERAK Dato' Seri Di Raja (S.P.S.N.)"
+   ]
+  },
+  {
+   "name": "Hamzah Zainudin",
+   "match": "Hamzah",
+   "forms": {
+    "DSERI": "Dato' Seri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "parlimen.gov.my id=4095 (\"YB Dato' Seri Hamzah bin Zainudin\")",
+   "verified": "2026-10-04",
+   "register": [
+    "2002 PERAK Dato' (D.P.M.P.)",
+    "2013 N.SEMBILAN Dato' (D.S.T.M.)",
+    "2015 PERAK Dato' Seri (S.P.M.P.)",
+    "2020 SABAH Datuk Seri Panglima (S.P.D.K.)",
+    "2021 PAHANG Dato' Sri (S.S.A.P.)"
+   ]
+  },
+  {
+   "name": "Ismail Sabri Yaakob",
+   "match": "Ismail Sabri",
+   "forms": {
+    "DSERI": "Dato' Sri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "parlimen.gov.my id=4129 (\"YB Dato' Sri Ismail Sabri bin Yaakob\")",
+   "verified": "2026-10-04",
+   "register": [
+    "2004 MELAKA Datuk (D.M.S.M.)",
+    "2005 PAHANG Dato' (D.I.M.P.)",
+    "2008 PAHANG Dato' Sri (S.S.A.P.)",
+    "2015 PAHANG Dato' (D.I.M.P.)",
+    "2020 SABAH Datuk Seri Panglima (S.P.D.K.)",
+    "2020 MELAKA Datuk Seri (D.G.S.M.)",
+    "2022 SARAWAK Datuk Patinggi (D.P.)",
+    "2022 MELAKA Datuk Seri Utama (D.U.N.M.)"
+   ]
+  },
+  {
+   "name": "Azalina Othman Said",
+   "match": "Azalina",
+   "forms": {
+    "DSERI": "Dato' Sri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "parlimen.gov.my id=4196 (\"YB Dato' Sri Azalina binti Othman Said\")",
+   "verified": "2026-10-04",
+   "register": [
+    "2003 SABAH Datuk (P.G.D.K.)",
+    "2006 KEDAH Dato' Wira (D.G.M.K.)",
+    "2007 PAHANG Dato' Sri (S.S.A.P.)",
+    "2007 PERAK Dato' Seri (S.P.M.P.)"
+   ]
+  },
+  {
+   "name": "Mohamed Azmin Ali",
+   "match": "Azmin",
+   "forms": {
+    "DSERI": "Dato' Seri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "parlimen.gov.my arkib (\"YB Dato' Seri Mohamed Azmin bin Ali\")",
+   "verified": "2026-10-04",
+   "register": [
+    "2015 SELANGOR Dato' Seri (S.P.M.S.)",
+    "2022 KEDAH Dato' Seri (S.S.D.K.)"
+   ]
+  },
+  {
+   "name": "Aminuddin Harun",
+   "match": "Aminuddin",
+   "forms": {
+    "DSERI": "Dato' Seri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "parlimen.gov.my id=4171 (\"YB Dato' Seri Aminuddin Bin Harun\")",
+   "verified": "2026-10-04",
+   "register": [
+    "2019 N.SEMBILAN Dato' Seri (S.S.N.S.)",
+    "2024 N.SEMBILAN Dato' Seri Utama (S.U.N.S.)"
+   ]
+  },
+  {
+   "name": "Ahmad Samsuri Mokhtar",
+   "match": "Samsuri",
+   "forms": {
+    "DSERI": "Dato' Seri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "terengganu-inc.com (\"YAB Dato' Seri Ir. Dr. Ahmad Samsuri bin Mokhtar\")",
+   "verified": "2026-10-04",
+   "register": [
+    "2019 TERENGGANU Dato' Seri (S.S.M.Z.)"
+   ]
+  },
+  {
+   "name": "Muhammad Sanusi Md Nor",
+   "match": "Sanusi",
+   "forms": {
+    "DSERI": "Dato' Seri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "mmk.kedah.gov.my (\"YAB Dato' Seri Haji Muhammad Sanusi bin Md Nor\")",
+   "verified": "2026-10-04",
+   "register": [
+    "2021 KEDAH Dato' Seri (S.P.M.K.)"
+   ]
+  },
+  {
+   "name": "Hishammuddin Hussein",
+   "match": "Hisham+uddin",
+   "forms": {
+    "DSERI": "Dato' Seri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "parlimen.gov.my id=4192 (\"YB Dato' Seri Hishammuddin bin Datuk Hussein\")",
+   "verified": "2026-10-04",
+   "register": [
+    "1998 PAHANG Dato' (D.S.A.P.)",
+    "2002 PAHANG Dato' Indera (S.I.M.P.)",
+    "2004 PAHANG Dato' Sri (S.S.A.P.)",
+    "2007 PERLIS Dato' Seri (S.P.M.P.)",
+    "2011 SABAH Datuk Seri Panglima (S.P.D.K.)",
+    "2013 SARAWAK Dato Sri (P.N.B.S.)",
+    "2014 MELAKA Datuk Seri (D.G.S.M.)"
+   ]
+  },
+  {
+   "name": "Amirudin Shari",
+   "match": "Amirud+in",
+   "forms": {
+    "DSERI": "Dato' Seri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "selangor.gov.my (\"YAB Dato' Seri Amirudin Bin Shari\")",
+   "verified": "2026-10-04",
+   "register": [
+    "2019 SELANGOR Dato' Seri (S.P.M.S.)"
+   ]
+  },
+  {
+   "name": "Mohamad Hasan",
+   "match": "(?:Mat|Mohamad) Has+an",
+   "forms": {
+    "DSERI": "Dato' Seri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "parlimen.gov.my id=4170 (\"YB Dato' Seri Utama Haji Mohamad bin Haji Hasan\")",
+   "verified": "2026-10-04",
+   "register": [
+    "1973 PERSEKUTUAN Tan Sri (P.S.M.)",
+    "1999 SELANGOR Dato' (D.S.S.A.)",
+    "2003 N.SEMBILAN Dato' (D.S.N.S.)",
+    "2004 N.SEMBILAN Dato' Seri Utama (S.P.N.S.)",
+    "2007 MELAKA Datuk (D.M.S.M.)"
+   ]
+  },
+  {
+   "name": "Ahmad Shabery Cheek",
+   "match": "Shabery",
+   "forms": {
+    "DSERI": "Dato' Sri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "felda.gov.my (\"YBhg. Dato' Sri Ahmad Shabery Cheek\")",
+   "verified": "2026-10-04",
+   "register": [
+    "2007 TERENGGANU Dato' (D.P.M.T.)",
+    "2010 PAHANG Dato' Sri (S.S.A.P.)"
+   ]
+  },
+  {
+   "name": "Saifuddin Abdullah",
+   "match": "Saifuddin Abdullah",
+   "forms": {
+    "DSERI": "Dato' Sri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "parlimen.gov.my member list (\"YB Dato' Seri Saifuddin bin Abdullah\")",
+   "verified": "2026-10-04",
+   "note": "The register's only Seri-grade award is Pahang's S.S.A.P. (2021), which is Dato' Sri; Parliament's member list writes Dato' Seri. The register decides who conferred it.",
+   "register": [
+    "2002 PERAK Dato' (D.P.M.P.)",
+    "2009 PAHANG Dato' (D.S.A.P.)",
+    "2021 PAHANG Dato' Sri (S.S.A.P.)"
+   ]
+  },
+  {
+   "name": "Abdul Hadi Awang",
+   "match": "Hadi",
+   "forms": {
+    "DSERI": "Dato' Seri",
+    "DATUK": "Dato'"
+   },
+   "held": "TANSRI",
+   "source": "parlimen.gov.my member list (\"Dato' Seri Haji Abdul Hadi bin Awang\"); Tan Sri conferred 2021-11-13 (Utusan)",
+   "verified": "2026-10-04",
+   "register": [
+    "2001 TERENGGANU Dato' Seri (S.S.M.T.)",
+    "2008 KELANTAN Dato' (D.P.S.K.)",
+    "2021 PERSEKUTUAN Tan Sri (P.S.M.)"
+   ]
+  },
+  {
+   "name": "Zambry Abd Kadir",
+   "match": "Zam(?:bry|bri|ri)",
+   "forms": {
+    "DSERI": "Dato' Seri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "mohe.gov.my (\"YB Dato' Seri Diraja Dr. Zambry Abd Kadir\")",
+   "verified": "2026-10-04",
+   "register": [
+    "2002 PERAK Dato' (D.P.M.P.)",
+    "2009 PERAK Dato' Seri (S.P.M.P.)",
+    "2009 MELAKA Datuk Seri (D.G.S.M.)",
+    "2011 PERAK Dato' Seri Di Raja (S.P.S.A.)"
+   ]
+  },
+  {
+   "name": "Syed Azuan Syed Ahmad",
+   "match": "Syed Az(?:uan|wan)",
+   "forms": {
+    "DATUK": "Dato'"
+   },
+   "held": "DATUK",
+   "source": "his YouTube channel \"Dato' Dr Syed Azuan (DSA)\"",
+   "verified": "2026-10-04",
+   "register": [
+    "2012 PAHANG Dato' (D.I.M.P.)",
+    "2013 PAHANG Dato' (D.I.M.P.)",
+    "2014 PAHANG Dato' (D.I.M.P.)",
+    "2016 PAHANG Dato' (D.I.M.P.)",
+    "2018 W.PERSEKUTUAN Datuk (P.M.W.)",
+    "2019 PERSEKUTUAN Datuk (P.S.D.)",
+    "2023 P.PINANG Dato' Seri (D.G.P.N.)",
+    "2023 SABAH Datuk (P.G.D.K.)",
+    "2024 MELAKA Datuk Wira (D.C.S.M.)"
+   ]
+  },
+  {
+   "name": "Ishak Ismail",
+   "match": "Is(?:h)?ak",
+   "forms": {
+    "DATUK": "Dato'"
+   },
+   "held": "DATUK",
+   "source": "NexG filing (\"Dato' Haji Ishak bin Ismail\")",
+   "verified": "2026-10-04",
+   "register": [
+    "1995 P.PINANG Dato' (D.S.P.N.)",
+    "1996 N.SEMBILAN Dato' (D.S.N.S.)",
+    "2004 MELAKA Datuk (D.M.S.M.)",
+    "2008 PAHANG Dato' (D.I.M.P.)",
+    "2010 PAHANG Dato' (D.I.M.P.)"
+   ]
+  },
+  {
+   "name": "Nordin Hassan",
+   "match": "Nordin Hassan",
+   "forms": {
+    "DATUK": "Dato'"
+   },
+   "held": "DATUK",
+   "source": "jac.gov.my judge list (\"Dato' Nordin bin Hassan\")",
+   "verified": "2026-10-04",
+   "register": [
+    "2007 PAHANG Dato' (D.I.M.P.)",
+    "2015 PAHANG Dato' (D.I.M.P.)"
+   ]
+  },
+  {
+   "name": "Rafizi Ramli",
+   "match": "Rafizi",
+   "forms": {
+    "DSERI": "Dato' Seri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "Darjah Seri Setia Negeri Sembilan conferred 2025-01-14 by the Negeri Sembilan ruler (The Star, Malay Mail, Kosmo): a ruler's state, so Dato' Seri; negerikita.com writes \"Dato' Seri Rafizi\"",
+   "verified": "2026-10-04",
+   "register": [
+    "2025 N.SEMBILAN Dato' Seri (S.S.N.S.)"
+   ]
+  },
+  {
+   "name": "Tajuddin Abdul Rahman",
+   "match": "Tajuddin(?!\\s+Ramli)",
+   "forms": {
+    "DSERI": "Dato' Sri",
+    "DATUK": "Dato'"
+   },
+   "held": "DSERI",
+   "source": "parlimen.gov.my arkib id=3596 (\"YB Dato' Sri Haji Tajuddin bin Abdul Rahman\"); a Pahang title, so Dato' Sri",
+   "verified": "2026-10-04",
+   "register": [
+    "1995 KEDAH Dato' (D.S.D.K.)",
+    "2003 MELAKA Datuk (D.M.S.M.)",
+    "2007 PERAK Dato' (D.P.M.P.)",
+    "2013 PAHANG Dato' Sri (S.S.A.P.)"
+   ]
+  }
+ ],
+ "register_source": "https://www.istiadat.gov.my/semakan-penerima-darjah-kebesaran-bintang-dan-pingat/ (115,725 awards, read 2026-10-04). A name can match more than one person; a record is evidence only where it fits the person's age and career."
+}

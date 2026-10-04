@@ -1038,6 +1038,8 @@ CORRECTIONS = [
     (r"\bStephen Sim\b", "Steven Sim", "Steven Sim, former Human Resources Minister."),
     (r"(?<=continuation with the )SDR\b", "STR", "Sumbangan Tunai Rahmah. Captions: 'str'."),
     (r"\bDivex\b", "Devex", "development expenditure. Captions: 'devx'."),
+    (r"\bUITM\b", "UiTM", "Universiti Teknologi MARA writes its own acronym UiTM (uitm.edu.my). "
+     "Owner's decision 2026-10-04."),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the

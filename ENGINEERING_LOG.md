@@ -6861,3 +6861,36 @@ person's own source gives for Najib, Tajuddin, Raffe Chekku, Shahrir Abdul Jalil
 Ghazali. Anwar and everyone else stay `Datuk`. The rest of the corpus uses `Datuk Seri` 1,901
 times and `Dato' Seri` 15 times, so ep66 is now inconsistent with it for those five people.
 37 verified entities went into `data/entity_roster.json`.
+
+### 2.16: Honorifics: the grade is spoken, the spelling follows the person's own official source (2026-10-04)
+
+The owner asked for a corpus-wide check of Dato', Datuk, Tan Sri and similar, with raw.md and the
+interview files staying true to what is spoken in the video.
+
+The grade is audible and is never changed. The YouTube caption track agrees with raw.md's grade in
+2,311 of 2,315 located mentions (99.8%), so a title that differs from the person's real one, such
+as `Datuk Seri Hadi` written 237 times for a Tan Sri since 2021-11-13, is the speaker's own and
+stays. `check_honorifics.py` prints these as INFO and fixes nothing. Of the 4 caption
+disagreements, one was a parser bug (`tunjukkan` read as `Tun`), one a stutter, one a correct
+`Datin Seri Rosmah`, and one a real MAI garble: ep54 29:54 `Datuk Seri. Tan Sri Mat Nor` where the
+captions hear `Datuk Seri Sanusi Mat Nor`. That line is not fixed yet.
+
+Dato' and Datuk, Seri and Sri are said the same way, so the spelling follows the person's own
+official page, one form per person. The rule (says.com) is: Dato' and Dato' Seri from the nine
+state rulers, Dato' Sri only from the Sultan of Pahang, Datuk and Datuk Seri from the Agong or a
+governor; there is no `Datuk Sri`. The authority is the register of federal and state honours at
+istiadat.gov.my: the page carries all 115,725 awards as a JavaScript array, with the conferring
+authority and the title per award (it holds no Johor awards). It confirmed 21 of 22 roster
+entries; Saifuddin Abdullah's only Seri-grade award is Pahang's, so he is `Dato' Sri`, though
+Parliament writes `Dato' Seri`.
+
+Result: `data/honorific_roster.json` (22 people, 79% of the Datuk/Dato' mentions in raw.md) and
+`scripts/check_honorifics.py`. 6,567 token changes in 276 files, every one a title spelling
+(5,537 Datuk to Dato', 817 Datuk Seri to Dato' Sri, 180 Sri to Seri, 7 Seri to Sri) or UITM to
+UiTM. The 7 episodes whose owner-decision gate shows a mismatch or an unlocatable ruling show the
+same numbers before and after.
+
+Traps. A subagent's web table listed "GRADE MISMATCH" rows (Hadi, Najib `Datuk Najib` x12) and
+applying them would have rewritten what the speaker said. A bash heredoc halves backslashes, so
+a regex written in one became a control character twice; write scripts with the file tool.
+`Seremban 2` in ep66 is a spoken self-correction and stays.
