@@ -34,6 +34,14 @@ model: claude-haiku-4-5-20251001, z-ai/glm-5.3@low
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa), diterjemah segmen demi segmen.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 66 — Gaji Minimum Naik, Rakyat Lega? Siasatan UiTM Holdings: 12 Tahun Kemudian**  
+2 October 2026 · 3h 14m · [watch on YouTube](https://www.youtube.com/watch?v=4QQ4pqQzbSw)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri, episod yang ke-66. Bersama saudara Rafizi Ramli dan saudara Pa'an. YB, apakah yang akan berlaku minggu depan yang YB sekarang sedang sibuk bersiap?
