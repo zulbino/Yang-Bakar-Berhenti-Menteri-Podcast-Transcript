@@ -329,7 +329,9 @@ def main():
         if out.count(old_a) != 1:
             sys.exit(f"REFUSING: {old_a[:60]!r} is not unique")
         when = times_of(tail, words, secs(st))
-        stamp = fmt(when[0]) if when else nxt
+        # A one-word tail such as `Dia` can match an earlier `dia` nearer the block's stamp
+        # (ep67 1:36:05 took 1:36:03). The tail cannot start before its own block does.
+        stamp = fmt(max(when[0], secs(st))) if when else nxt
         out = out.replace(old_a, f"[{st}] {who}: {head}")
         idx = out.index(old_b)
         out = out[:idx] + f"[{stamp}] {who_next}: {tail} " + out[idx + len(old_b):]
